@@ -131,53 +131,52 @@ def main():
         print(f"Analysis failed: {error_msg}")
         return
 
-    # 7. Save
-        # 7. Save Logic (Daily Accumulation)
-        today_str = datetime.now().strftime("%Y-%m-%d")
-        current_time_str = datetime.now().strftime("%H:%M")
+    # 7. Save Logic (Daily Accumulation)
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    current_time_str = datetime.now().strftime("%H:%M")
+    
+    # Load current news (Expect Dict, fallback to empty dict if list/invalid)
+    current_news = load_json(NEWS_FILE)
+    if isinstance(current_news, list):
+        current_news = {} # Migration: Reset if it was a list
         
-        # Load current news (Expect Dict, fallback to empty dict if list/invalid)
-        current_news = load_json(NEWS_FILE)
-        if isinstance(current_news, list):
-            current_news = {} # Migration: Reset if it was a list
-            
-        if today_str not in current_news:
-            current_news[today_str] = []
-            
-        # Helper map: URL -> Image
-        url_to_image = {item['link']: item.get('image_url') for item in target_items}
-
-        # Extract topics and append to today's list
-        new_topics_count = 0
-        for topic in analysis_result.get('topics', []):
-            # Inject metadata
-            topic['collected_at'] = current_time_str
-            
-            # Inject images into references AND lift first image to topic level (for card UI)
-            first_image = None
-            for ref in topic.get('references', []):
-                ref_url = ref.get('url')
-                if ref_url in url_to_image and url_to_image[ref_url]:
-                    ref['image_url'] = url_to_image[ref_url]
-                    if not first_image:
-                        first_image = ref['image_url']
-            
-            # If topic doesn't have an image, give it the first reference's image
-            if 'image_url' not in topic and first_image:
-                topic['image_url'] = first_image
-                
-            current_news[today_str].append(topic)
-            new_topics_count += 1
-            
-        save_json(NEWS_FILE, current_news)
-        print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
-
-        # 7-2. Update processed_urls.json
-        for item in target_items:
-            processed_urls.add(item['link'])
+    if today_str not in current_news:
+        current_news[today_str] = []
         
-        save_json(PROCESSED_URLS_FILE, list(processed_urls))
-        print(f"Updated {PROCESSED_URLS_FILE} with {len(target_items)} new URLs.")
+    # Helper map: URL -> Image
+    url_to_image = {item['link']: item.get('image_url') for item in target_items}
+
+    # Extract topics and append to today's list
+    new_topics_count = 0
+    for topic in analysis_result.get('topics', []):
+        # Inject metadata
+        topic['collected_at'] = current_time_str
+        
+        # Inject images into references AND lift first image to topic level (for card UI)
+        first_image = None
+        for ref in topic.get('references', []):
+            ref_url = ref.get('url')
+            if ref_url in url_to_image and url_to_image[ref_url]:
+                ref['image_url'] = url_to_image[ref_url]
+                if not first_image:
+                    first_image = ref['image_url']
+        
+        # If topic doesn't have an image, give it the first reference's image
+        if 'image_url' not in topic and first_image:
+            topic['image_url'] = first_image
+            
+        current_news[today_str].append(topic)
+        new_topics_count += 1
+        
+    save_json(NEWS_FILE, current_news)
+    print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
+
+    # 7-2. Update processed_urls.json
+    for item in target_items:
+        processed_urls.add(item['link'])
+    
+    save_json(PROCESSED_URLS_FILE, list(processed_urls))
+    print(f"Updated {PROCESSED_URLS_FILE} with {len(target_items)} new URLs.")
 
 if __name__ == "__main__":
     main()
