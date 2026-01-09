@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+# Assuming we might not want to commit large data or local logs if any
+# For now, keeping data/ as per likely usage, but user can add if needed.

@@ -1,0 +1,32 @@
+{
+    "2026-01-09": [
+        {
+            "title": "태국 중앙은행, 금 거래 규제 강화 검토",
+            "summary": "태국 중앙은행(BOT)이 온라인 금 거래에 대한 조사를 강화할 계획입니다. 이는 최근 금 가격 변동성이 커짐에 따라 투자자 보호를 위한 조치로 해석됩니다. 관련 법규 개정을 통해 투명성을 높이고 불법 거래를 차단하는 것을 목표로 하고 있습니다.",
+            "collected_at": "17:30",
+            "image_url": "https://static.bangkokpost.com/media/content/20260109/c1_3172275_700.jpg",
+            "references": [
+                {
+                    "title": "Thai central bank to expand authority to scrutinise online gold trading",
+                    "url": "https://www.bangkokpost.com/business/general/3172275/thai-central-bank-to-expand-authority-to-scrutinise-online-gold-trading",
+                    "source": "Bangkok Post",
+                    "image_url": "https://static.bangkokpost.com/media/content/20260109/c1_3172275_700.jpg"
+                }
+            ]
+        },
+        {
+            "title": "수완나품 공항, 방콕 최저 기온 기록",
+            "summary": "오늘 아침 수완나품 공항 지역이 방콕 광역권에서 가장 낮은 기온을 기록했습니다. 기상청에 따르면 이례적인 한파가 찾아왔으며, 여행객들에게 두꺼운 옷을 준비할 것을 권고했습니다. 이번 추위는 며칠간 지속될 것으로 보입니다.",
+            "collected_at": "17:30",
+            "image_url": "https://static.bangkokpost.com/media/content/20260109/c1_3172148_700.jpg",
+            "references": [
+                {
+                    "title": "Suvarnabhumi airport coldest location in Greater Bangkok",
+                    "url": "https://www.bangkokpost.com/thailand/general/3172148/suvarnabhumi-airport-coldest-location-in-greater-bangkok",
+                    "source": "Bangkok Post",
+                    "image_url": "https://static.bangkokpost.com/media/content/20260109/c1_3172148_700.jpg"
+                }
+            ]
+        }
+    ]
+}
