@@ -328,7 +328,7 @@ else:
     # Exchange Rate Widget
     try:
         rate = utils.get_thb_krw_rate()
-        now_str = datetime.now().strftime("%H:%M")   
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M")   
         
         st.markdown(f"""
         <div style="
