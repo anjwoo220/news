@@ -316,7 +316,7 @@ else:
     st.title("🇹🇭 태국 브리핑")
     st.caption("AI가 엄선한 태국의 주요 이슈를 매일 실시간 업데이트 하여 전해드립니다.")
     
-    # Visitor Counter (with margin adjustment to align with title)
+    # Visitor Counter & Exchange Rate
     st.markdown(f"""
     <div style="text-align: right; margin-top: -30px; margin-bottom: 20px;">
         <span style="background-color: #f0f2f6; color: #31333F; padding: 4px 10px; border-radius: 4px; font-size: 0.8em;">
@@ -324,6 +324,18 @@ else:
         </span>
     </div>
     """, unsafe_allow_html=True)
+
+    # Exchange Rate Widget
+    try:
+        rate = utils.get_thb_krw_rate()
+        st.markdown(f"""
+        <div style="padding: 10px; border-radius: 8px; background-color: #e8f5e9; border: 1px solid #c8e6c9; margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between;">
+            <div style="font-weight: bold; color: #2e7d32;">💰 태국 바트(THB) 환율</div>
+            <div style="font-size: 1.2em; font-weight: bold; color: #1b5e20;">1 THB = {rate:.2f} KRW</div>
+        </div>
+        """, unsafe_allow_html=True)
+    except:
+        pass
     
     # --- Mobile Control Panel (Always Visible) ---
     col_date, col_search = st.columns([1, 2], gap="small")

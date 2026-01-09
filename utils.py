@@ -141,3 +141,24 @@ def load_local_json(file_path):
                 return {}
     return {}
 
+
+# 3. Exchange Rate (THB -> KRW)
+def get_thb_krw_rate():
+    """
+    Fetches the current THB to KRW exchange rate.
+    Returns:
+        float: The current rate (e.g., 38.5)
+        float: 0.0 if failed (change (today - yesterday) can be calculated in app if needed, 
+               but for now just simple fetch)
+    """
+    url = "https://api.frankfurter.app/latest?from=THB&to=KRW"
+    try:
+        import requests
+        response = requests.get(url, timeout=5)
+        if response.status_code == 200:
+            data = response.json()
+            return data.get('rates', {}).get('KRW', 39.50)
+    except Exception as e:
+        print(f"Exchange Rate Error: {e}")
+    
+    return 39.50 # Default fallback
