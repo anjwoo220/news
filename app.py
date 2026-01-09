@@ -14,6 +14,7 @@ NEWS_FILE = 'data/news.json'
 CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
 STATS_FILE = 'data/stats.json'
+DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
 st.set_page_config(page_title="태국 브리핑", page_icon="🇹🇭", layout="wide")
 
@@ -421,7 +422,7 @@ else:
             for idx, item in enumerate(target_list):
                 share_text += f"{idx+1}. {item['title']}\n"
                 share_text += f"- {item['summary'][:60]}...\n\n"
-            share_text += f"👉 더 보기: http://localhost:8501"
+            share_text += f"👉 더 보기: {DEPLOY_URL}"
             st.code(share_text, language="text")
 
     if daily_topics:
@@ -474,7 +475,7 @@ else:
                 
                 # 4. Individual Share (NEW)
                 with st.expander("🔗 이 기사 공유하기"):
-                    ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {topic.get('references', [{'url':'#'}])[0].get('url')}\n🌐 뉴스룸: https://my-newsroom.streamlit.app"
+                    ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {topic.get('references', [{'url':'#'}])[0].get('url')}\n🌐 뉴스룸: {DEPLOY_URL}"
                     st.code(ind_share, language="text")
 
                 with st.expander("🔗 관련 기사 원문 보기"):
