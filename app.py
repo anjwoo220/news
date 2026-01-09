@@ -328,10 +328,28 @@ else:
     # Exchange Rate Widget
     try:
         rate = utils.get_thb_krw_rate()
+        now_str = datetime.now().strftime("%H:%M")   
+        
         st.markdown(f"""
-        <div style="padding: 10px; border-radius: 8px; background-color: #e8f5e9; border: 1px solid #c8e6c9; margin-bottom: 20px; display: flex; align-items: center; justify-content: space-between;">
-            <div style="font-weight: bold; color: #2e7d32;">💰 태국 바트(THB) 환율</div>
-            <div style="font-size: 1.2em; font-weight: bold; color: #1b5e20;">1 THB = {rate:.2f} KRW</div>
+        <div style="
+            padding: 15px; 
+            border-radius: 10px; 
+            background-color: rgba(30, 30, 30, 0.6); 
+            border: 1px solid #444; 
+            margin-bottom: 20px; 
+            display: flex; 
+            align-items: center; 
+            justify-content: space-between;
+            backdrop-filter: blur(5px);
+        ">
+            <div style="display: flex; flex-direction: column;">
+                <span style="font-weight: bold; color: #e0e0e0; font-size: 1rem;">💰 태국 바트 (THB)</span>
+                <span style="font-size: 0.8em; color: #888;">{now_str} 기준</span>
+            </div>
+            <div style="font-size: 1.4em; font-weight: bold; color: #ffffff;">
+                <span style="font-size: 0.6em; color: #aaa; margin-right: 5px;">1 THB =</span>
+                {rate:.2f} <span style="font-size: 0.6em; color: #aaa;">KRW</span>
+            </div>
         </div>
         """, unsafe_allow_html=True)
     except:
