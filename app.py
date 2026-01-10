@@ -334,87 +334,297 @@ else:
     # Define Theme Colors based on Toggle
     # Define Theme Colors based on Toggle
     if is_dark:
-        # Dark Mode Styles (Manual Override)
-        card_bg = "rgba(30, 30, 30, 0.6)"
+        # Dark Mode Styles (Pitch Black Override)
+        card_bg = "#000000"
         text_main = "#ffffff"
         text_sub = "#e0e0e0"
-        border_color = "#444"
+        border_color = "#333"
         
         # Inject CSS for Dark Mode Overrides
         st.markdown("""
             <style>
             /* Global Background & Text for Dark Mode Override */
             [data-testid="stAppViewContainer"] {
-                background-color: #0e1117;
+                background-color: #000000;
                 color: #ffffff;
             }
             [data-testid="stSidebar"] {
-                background-color: #262730;
+                background-color: #000000;
+                border-right: 1px solid #333;
             }
             [data-testid="stHeader"] {
-                background-color: rgba(14, 17, 23, 0.95);
+                background-color: rgba(0, 0, 0, 0.95);
             }
             
             /* Text Elements */
-            p, h1, h2, h3, h4, li, .stMarkdown, .stCaption {
+            p, h1, h2, h3, h4, h5, h6, li, label, .stMarkdown, .stCaption {
                 color: #ffffff !important;
             }
             
             /* Inputs */
-            div[data-baseweb="input"], div[data-baseweb="base-input"] {
-                background-color: #262730 !important;
-                border: 1px solid #444 !important;
+            div[data-baseweb="input"] > div, div[data-baseweb="base-input"] > div {
+                background-color: #000000 !important;
+                border-color: #333 !important;
+                color: #ffffff !important;
             }
             input {
                 color: #ffffff !important;
                 caret-color: #ffffff !important;
             }
             
-            /* Calendar / Popovers (Dark Mode) */
-            div[data-baseweb="calendar"], div[data-baseweb="popover"], div[data-baseweb="menu"] {
-                background-color: #262730 !important;
+            /* Text Area */
+            textarea {
+                background-color: #000000 !important;
                 color: #ffffff !important;
+                caret-color: #ffffff !important;
             }
-            div[data-baseweb="calendar"] button, div[data-baseweb="calendar"] div {
-                 color: #ffffff !important;
-            }
-            div[data-baseweb="calendar"] button:hover {
-                 background-color: #444 !important;
+            div[data-baseweb="textarea"] > div {
+                background-color: #000000 !important;
+                border-color: #333 !important;
             }
 
-            /* Category Pills (Dark) */
-            div[data-testid="stPills"] [data-baseweb="tag"] {
-                background-color: #262730 !important;
-                border: 1px solid #444 !important;
+            /* Selectbox & Dropdown */
+            div[data-baseweb="select"] > div {
+                background-color: #000000 !important;
                 color: #ffffff !important;
+                border-color: #333 !important;
             }
-            div[data-testid="stPills"] [data-baseweb="tag"] span {
+            div[data-baseweb="popover"], div[data-baseweb="menu"], ul[data-baseweb="menu"] {
+                background-color: #000000 !important;
                 color: #ffffff !important;
+                border: 1px solid #333 !important;
+            }
+            li[data-baseweb="menu-item"] { 
+                color: #ffffff !important; 
+            }
+            li[data-baseweb="menu-item"]:hover {
+                background-color: #222 !important;
             }
             
-            /* Expander (Dark) */
+            /* Buttons */
+            button[data-testid="baseButton-secondary"], button[data-testid="baseButton-primary"] {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+                border: 1px solid #333 !important;
+            }
+            button[data-testid="baseButton-secondary"]:hover, button[data-testid="baseButton-primary"]:hover {
+                border-color: #ff4b4b !important;
+                color: #ff4b4b !important;
+            }
+            
+            /* Tabs */
+            button[data-baseweb="tab"] {
+                 background-color: transparent !important;
+            }
+            button[data-baseweb="tab"] div {
+                 color: #ffffff !important;
+            }
+            button[data-baseweb="tab"][aria-selected="true"] div {
+                 color: #ff4b4b !important;
+            }
+            
+            /* Calendar / Date Picker */
+            div[data-baseweb="calendar"] {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+            }
+            div[data-baseweb="calendar"] button {
+                 color: #ffffff !important;
+                 background-color: transparent !important;
+            }
+            div[data-baseweb="calendar"] button:hover {
+                 background-color: #222 !important;
+            }
+
+            /* Category Pills - Fix using stButtonGroup */
+            div[data-testid="stButtonGroup"] {
+                background-color: transparent !important;
+            }
+            div[data-testid="stButtonGroup"] button {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+                border: 1px solid #333 !important;
+            }
+            div[data-testid="stButtonGroup"] button:hover {
+                border-color: #ff4b4b !important;
+                color: #ff4b4b !important;
+            }
+            div[data-testid="stButtonGroup"] button[data-testid="stBaseButton-pillsActive"] {
+                background-color: #000000 !important;
+                border-color: #ff4b4b !important;
+                color: #ff4b4b !important;
+            }
+            div[data-testid="stButtonGroup"] button p {
+                color: inherit !important;
+            }
+            
+            /* Expander */
             div[data-testid="stExpander"] {
-                background-color: #262730 !important;
-                border: 1px solid #444 !important;
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+                color: #ffffff !important;
             }
             div[data-testid="stExpander"] details {
-                background-color: #262730 !important;
-                color: #ffffff !important;
+                background-color: #000000 !important;
             }
             div[data-testid="stExpander"] summary {
                 color: #ffffff !important;
             }
             div[data-testid="stExpander"] summary:hover {
+                color: #ff4b4b !important;
+            }
+
+            /* Code Block & Share Text - Deep Override */
+            .stCodeBlock, 
+            .stCodeBlock > div, 
+            .stCodeBlock pre, 
+            .stCodeBlock code,
+            div[data-testid="stCodeBlock"],
+            div[data-testid="stCodeBlock"] * {
+                 background-color: #000000 !important;
+                 border-color: #333 !important;
+            }
+            .stCodeBlock code {
+                 color: #ffffff !important;
+            }
+            
+            /* Expander Header */
+            div[data-testid="stExpander"] > details > summary {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+                border-bottom: 1px solid #333;
+            }
+            div[data-testid="stExpander"] > details > summary:hover {
+                color: #ff4b4b !important;
+            }
+
+            /* Form Submit Button (Comments) */
+            div[data-testid="stForm"] button[kind="secondaryFormSubmit"],
+            div[data-testid="stForm"] button[data-testid="baseButton-secondary"] {
+                 background-color: #000000 !important;
+                 color: #ffffff !important;
+                 border: 1px solid #333 !important;
+            }
+            div[data-testid="stForm"] button[kind="secondaryFormSubmit"]:hover,
+            div[data-testid="stForm"] button[data-testid="baseButton-secondary"]:hover {
+                border-color: #ff4b4b !important;
+                color: #ff4b4b !important;
+            }
+
+            /* Toast */
+            div[data-baseweb="toast"] {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+                border: 1px solid #333;
+            }
+            
+            /* Metric */
+            [data-testid="stMetricValue"], [data-testid="stMetricLabel"] {
+                 color: #ffffff !important;
+            }
+            
+            /* Alerts (Info, Success, Warning, Error) - Override backgrounds */
+            div[data-baseweb="notification"], div[data-testid="stAlert"] {
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+                color: #ffffff !important;
+            }
+            div[data-testid="stAlert"] > div {
+                color: #ffffff !important;
+            }
+            
+            /* Modal & Dialogs */
+            div[data-baseweb="modal"] > div {
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+                color: #ffffff !important;
+            }
+            
+            /* File Uploader */
+            [data-testid="stFileUploader"] {
+                background-color: #000000 !important;
+            }
+            section[data-testid="stFileUploaderDropzone"] {
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+            }
+            
+            /* Tables/DataFrames */
+            [data-testid="stDataFrame"], [data-testid="stTable"] {
+                background-color: #000000 !important;
+            }
+
+            /* --- CRITICAL FIXES FOR WHITE ELEMENTS --- */
+
+            /* 1. General Popovers (Menus, Dropdowns, Tooltips) */
+            div[data-baseweb="popover"] {
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+            }
+            div[data-baseweb="popover"] > div {
+                background-color: #000000 !important;
                 color: #ffffff !important;
             }
 
-            /* Code Block (Dark) */
-            .stCodeBlock {
-                background-color: #262730 !important;
-                border: 1px solid #444 !important;
-            }
-            .stCodeBlock code {
+            /* 2. Calendar / Date Picker Popup Specifics */
+            div[data-baseweb="calendar"] {
+                background-color: #000000 !important;
                 color: #ffffff !important;
+            }
+            div[data-baseweb="calendar"] div {
+                 background-color: #000000 !important;
+                 color: #ffffff !important;
+            }
+            /* Weekday Headers */
+            div[data-baseweb="calendar"] div[aria-label^="weekday"] {
+                 color: #888 !important; 
+            }
+            /* Day Buttons */
+            div[data-baseweb="calendar"] button {
+                 background-color: transparent !important;
+                 color: #ffffff !important;
+            }
+            div[data-baseweb="calendar"] button:hover {
+                 background-color: #333 !important;
+            }
+            /* Selected Day */
+            div[data-baseweb="calendar"] button[aria-selected="true"] {
+                 background-color: #ff4b4b !important;
+                 color: #ffffff !important;
+            }
+            /* Month/Year Dropdowns in Calendar */
+            div[data-baseweb="calendar"] div[data-baseweb="select"] div {
+                 background-color: #000000 !important;
+                 color: #ffffff !important;
+            }
+
+            /* 3. Expander Content (st.expander internal container) */
+            div[data-testid="stExpanderDetails"] {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+            }
+            div[data-testid="stExpander"] {
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+                color: #ffffff !important;
+            }
+            div[data-testid="stExpander"] > details > summary {
+                color: #ffffff !important;
+            }
+            div[data-testid="stExpander"] > details > summary:hover {
+                color: #ff4b4b !important;
+            }
+            
+            /* 4. Streamlit JSON/Code/Raw Blocks */
+            div[data-testid="stJson"] {
+                background-color: #000000 !important;
+                color: #ffffff !important;
+            }
+
+            /* 5. Tooltip/Help Text */
+            div[data-baseweb="tooltip"] {
+                 background-color: #333 !important;
+                 color: #ffffff !important;
             }
             </style>
         """, unsafe_allow_html=True)
@@ -447,9 +657,19 @@ else:
         """, unsafe_allow_html=True)
 
     # Visitor Counter & Exchange Rate
+    # Dynamic Styling for Visitor Counter
+    if is_dark:
+        vc_bg = "#000000"
+        vc_text = "#ffffff"
+        vc_border = "1px solid #333"
+    else:
+        vc_bg = "#f0f2f6"
+        vc_text = "#31333F"
+        vc_border = "none"
+
     st.markdown(f"""
     <div style="text-align: right; margin-top: -30px; margin-bottom: 20px;">
-        <span style="background-color: #f0f2f6; color: #31333F; padding: 4px 10px; border-radius: 4px; font-size: 0.8em;">
+        <span style="background-color: {vc_bg}; color: {vc_text}; border: {vc_border}; padding: 4px 10px; border-radius: 4px; font-size: 0.8em;">
             👀 Total: <b>{total_v:,}</b> / Today: <b>{today_v:,}</b>
         </span>
     </div>
