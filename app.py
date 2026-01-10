@@ -16,7 +16,17 @@ COMMENTS_FILE = 'data/comments.json'
 STATS_FILE = 'data/stats.json'
 DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
-st.set_page_config(page_title="태국 브리핑", page_icon="🇹🇭", layout="wide")
+st.set_page_config(page_title="태국 뉴스 브리핑", page_icon="🇹🇭", layout="wide")
+
+# --- Custom CSS ---
+st.markdown("""
+    <style>
+    /* Hide Streamlit Anchor Links (Header Tooltips) */
+    [data-testid="stHeaderAction"] {
+        display: none !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
@@ -162,7 +172,7 @@ if config_data.get("notice", {}).get("enabled"):
     st.info(config_data["notice"]["text"], icon="📢")
 
 # Sidebar
-st.sidebar.title("🗂️ 태국 브리핑")
+st.sidebar.title("🗂️ 태국 뉴스 브리핑")
 
 # Mode Selection
 # Mode Selection Logic (Secret Door)
@@ -312,10 +322,185 @@ else:
     # Visitor Counter Logic & UI (Main Header)
     total_v, today_v = update_visit_stats()
     
-    # Main Content
-    st.title("🇹🇭 태국 브리핑")
-    st.caption("AI가 엄선한 태국의 주요 이슈를 매일 실시간 업데이트 하여 전해드립니다.")
-    
+    # --- Dark/Light Mode Toggle ---
+    col_t1, col_t2 = st.columns([8, 2])
+    with col_t1:
+        st.title("🇹🇭 태국 뉴스 브리핑")
+        st.caption("AI가 엄선한 태국의 주요 이슈를 매일 실시간 업데이트 하여 전해드립니다.")
+    with col_t2:
+        # Default False (Light Mode)
+        is_dark = st.toggle("🌘 다크 모드", value=False)
+        
+    # Define Theme Colors based on Toggle
+    if is_dark:
+        card_bg = "rgba(30, 30, 30, 0.6)"
+        text_main = "#ffffff"
+        text_sub = "#e0e0e0"
+        border_color = "#444"
+    else:
+        # Light Mode Styles
+        card_bg = "rgba(255, 255, 255, 0.9)"
+        text_main = "#000000"
+        text_sub = "#333333"
+        border_color = "#ddd"
+        
+        # Inject CSS for Light Mode Global Background & Input Styling
+        st.markdown("""
+            <style>
+            /* Global Background & Text */
+            [data-testid="stAppViewContainer"] {
+                background-color: #ffffff;
+                color: #000000;
+            }
+            [data-testid="stSidebar"] {
+                background-color: #f7f9fc;
+            }
+            [data-testid="stHeader"] {
+                background-color: rgba(255,255,255,0.95);
+            }
+            
+            /* Text Elements */
+            p, h1, h2, h3, h4, li, .stMarkdown, .stCaption {
+                color: #262730 !important;
+            }
+            
+            /* --- GLOBAL BASEWEB RESET (The Nuclear Option) --- */
+            /* Force all BaseWeb floating elements (Menus, Popovers, Tooltips) to Light Mode */
+            div[data-baseweb="popover"],
+            div[data-baseweb="menu"],
+            div[data-baseweb="tooltip"],
+            div[data-baseweb="select"] ul {
+                background-color: #ffffff !important;
+                color: #262730 !important;
+                border: 1px solid #e0e0e0 !important;
+            }
+            
+            /* Force ALL text inside these floating containers to be dark */
+            div[data-baseweb="popover"] *,
+            div[data-baseweb="menu"] *,
+            div[data-baseweb="tooltip"] * {
+                color: #262730 !important;
+            }
+
+            /* Exceptions for specific functional colors (like selected items) */
+            div[data-baseweb="menu"] li[aria-selected="true"] {
+                background-color: #f0f2f6 !important;
+            }
+
+            /* --- CALENDAR DEEP CLEAN --- */
+            /* 1. Main Container */
+            div[data-baseweb="calendar"] {
+                background-color: #ffffff !important;
+                color: #262730 !important;
+            }
+            
+            /* 2. Force every single div inside calendar to NOT be black */
+            div[data-baseweb="calendar"] div {
+                color: #262730 !important;
+                 /* careful with bg here, might break grid, but let's try to be specific if needed */
+            }
+            
+            /* 3. Header / Month-Year View / Navigation */
+            div[data-baseweb="calendar"] button {
+                background-color: transparent !important;
+                color: #262730 !important;    
+            }
+            div[data-baseweb="calendar"] button:hover {
+                background-color: #f0f2f6 !important;
+            }
+            /* The Grid (Days or Months) */
+            div[data-baseweb="calendar"] div[role="grid"] {
+                background-color: #ffffff !important;
+            }
+            div[data-baseweb="calendar"] div[role="gridcell"] {
+                color: #262730 !important;
+            }
+            /* Selected Day */
+            div[data-baseweb="calendar"] button[aria-selected="true"] {
+                background-color: #ff4b4b !important;
+                color: #ffffff !important;
+            }
+            
+            /* --- CATEGORY FILTER (PILLS) FIX --- */
+            div[data-testid="stPills"] {
+                background-color: transparent !important;
+            }
+            /* Unselected Tags */
+            div[data-testid="stPills"] [data-baseweb="tag"] {
+                background-color: #f0f2f6 !important;
+                border: 1px solid #e0e0e0 !important;
+                color: #31333F !important;
+            }
+            div[data-testid="stPills"] [data-baseweb="tag"] span {
+                color: #31333F !important;
+            }
+            /* Selected Tags */
+            div[data-testid="stPills"] button[aria-selected="true"] [data-baseweb="tag"],
+            div[data-testid="stPills"] button[data-active="true"] [data-baseweb="tag"] {
+                background-color: #ea5455 !important;
+                border-color: #ea5455 !important;
+                color: #ffffff !important;
+            }
+            div[data-testid="stPills"] button[aria-selected="true"] [data-baseweb="tag"] span,
+            div[data-testid="stPills"] button[data-active="true"] [data-baseweb="tag"] span {
+                 color: #ffffff !important;
+            }
+
+            /* --- INPUTS & SELECTS RESET --- */
+            div[data-baseweb="input"], div[data-baseweb="base-input"] {
+                background-color: #ffffff !important;
+                border: 1px solid #e0e0e0 !important;
+            }
+            input {
+                color: #262730 !important;
+                caret-color: #262730 !important;
+            }
+            /* Dropdown Box */
+            div[data-baseweb="select"] > div {
+                background-color: #ffffff !important;
+                color: #262730 !important;
+                border-color: #e0e0e0 !important;
+            }
+            
+            /* --- EXPANDER & OTHERS --- */
+            div[data-testid="stExpander"], div[data-testid="stExpander"] details {
+                background-color: #ffffff !important;
+                border-radius: 8px !important;
+                 color: #262730 !important;
+            }
+            div[data-testid="stExpander"] summary {
+                color: #262730 !important;
+            }
+            div[data-testid="stExpander"] summary:hover {
+                color: #262730 !important;
+            }
+
+            /* --- LINKS --- */
+            .stMarkdown a {
+                color: #0068c9 !important;
+            }
+            
+            /* --- BUTTONS --- */
+            button[kind="primaryFormSubmit"] {
+                background-color: #ff4b4b !important;
+                color: #ffffff !important;
+                border: none !important;
+            }
+            button[kind="secondary"], button[kind="secondaryFormSubmit"] {
+                background-color: #ffffff !important;
+                color: #31333F !important;
+                border: 1px solid #d0d0d0 !important;
+            }
+
+            /* --- TOAST --- */
+            div[data-baseweb="toast"] {
+                background-color: #ffffff !important;
+                color: #31333F !important;
+                border: 1px solid #e0e0e0 !important;
+            }
+            </style>
+        """, unsafe_allow_html=True)
+
     # Visitor Counter & Exchange Rate
     st.markdown(f"""
     <div style="text-align: right; margin-top: -30px; margin-bottom: 20px;">
@@ -334,8 +519,8 @@ else:
         <div style="
             padding: 15px; 
             border-radius: 10px; 
-            background-color: rgba(30, 30, 30, 0.6); 
-            border: 1px solid #444; 
+            background-color: {card_bg}; 
+            border: 1px solid {border_color}; 
             margin-bottom: 20px; 
             display: flex; 
             align-items: center; 
@@ -343,10 +528,10 @@ else:
             backdrop-filter: blur(5px);
         ">
             <div style="display: flex; flex-direction: column;">
-                <span style="font-weight: bold; color: #e0e0e0; font-size: 1rem;">💰 태국 바트 (THB)</span>
+                <span style="font-weight: bold; color: {text_sub}; font-size: 1rem;">💰 태국 바트 (THB)</span>
                 <span style="font-size: 0.8em; color: #888;">{now_str} 기준</span>
             </div>
-            <div style="font-size: 1.4em; font-weight: bold; color: #ffffff;">
+            <div style="font-size: 1.4em; font-weight: bold; color: {text_main};">
                 <span style="font-size: 0.6em; color: #aaa; margin-right: 5px;">1 THB =</span>
                 {rate:.2f} <span style="font-size: 0.6em; color: #aaa;">KRW</span>
             </div>
