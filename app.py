@@ -207,7 +207,8 @@ if app_mode == "Admin Console":
         st.title("🛠️ 통합 운영 관제탑 (Admin Console)")
         
         # Tabs for better organization
-        tab1, tab2, tab3, tab4 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지"])
+        # Tabs for better organization
+        tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -327,6 +328,47 @@ if app_mode == "Admin Console":
                     save_json(CONFIG_FILE, current_config)
                     st.success("설정이 저장되었습니다.")
                     st.rerun()
+
+        # --- Tab 5: RSS Management ---
+        with tab5:
+            st.subheader("RSS 피드 관리")
+            st.info("뉴스 수집 대상이 되는 RSS 피드 목록입니다. (feeds.json)")
+            
+            feeds_file = 'data/feeds.json'
+            current_feeds = load_json(feeds_file, [])
+            
+            # 1. Add New Feed
+            with st.form("add_feed_form"):
+                new_feed_url = st.text_input("새로운 RSS URL 추가", placeholder="https://example.com/rss")
+                if st.form_submit_button("추가"):
+                    if new_feed_url:
+                        if new_feed_url not in current_feeds:
+                            current_feeds.append(new_feed_url)
+                            save_json(feeds_file, current_feeds)
+                            st.success(f"추가되었습니다: {new_feed_url}")
+                            st.rerun()
+                        else:
+                            st.warning("이미 존재하는 URL입니다.")
+                    else:
+                        st.warning("URL을 입력해주세요.")
+            
+            st.divider()
+            
+            # 2. List & Delete Feeds
+            if not current_feeds:
+                st.warning("등록된 RSS 피드가 없습니다.")
+            else:
+                st.write(f"총 {len(current_feeds)}개의 피드")
+                for idx, url in enumerate(current_feeds):
+                    col_url, col_del = st.columns([4, 1])
+                    with col_url:
+                        st.code(url, language="text")
+                    with col_del:
+                        if st.button("삭제", key=f"del_feed_{idx}"):
+                            current_feeds.pop(idx)
+                            save_json(feeds_file, current_feeds)
+                            st.success("삭제되었습니다.")
+                            st.rerun()
         
 else:
     # --- Viewer Mode ---
