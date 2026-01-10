@@ -752,36 +752,107 @@ else:
     </div>
     """, unsafe_allow_html=True)
 
-    # Exchange Rate Widget
-    try:
-        rate = utils.get_thb_krw_rate()
-        now_str = datetime.now().strftime("%Y-%m-%d %H:%M")   
-        
-        st.markdown(f"""
-        <div style="
-            padding: 15px; 
-            border-radius: 10px; 
-            background-color: {card_bg}; 
-            border: 1px solid {border_color}; 
-            margin-bottom: 20px; 
-            display: flex; 
-            align-items: center; 
-            justify-content: space-between;
-            backdrop-filter: blur(5px);
-        ">
-            <div style="display: flex; flex-direction: column;">
-                <span style="font-weight: bold; color: {text_sub}; font-size: 1rem;">💰 태국 바트 (THB)</span>
-                <span style="font-size: 0.8em; color: #888;">{now_str} 기준</span>
+    # --- Top Widgets (Exchange Rate & Air Quality) ---
+    col_w1, col_w2 = st.columns(2)
+
+    # 1. Exchange Rate Widget (Left)
+    with col_w1:
+        try:
+            rate = utils.get_thb_krw_rate()
+            now_str = datetime.now().strftime("%m/%d %H:%M")   
+            
+            st.markdown(f"""
+            <div style="
+                padding: 15px; 
+                border-radius: 12px; 
+                background-color: {card_bg}; 
+                border: 1px solid {border_color}; 
+                margin-bottom: 20px; 
+                display: flex; 
+                align-items: center; 
+                justify-content: space-between;
+                backdrop-filter: blur(5px);
+                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            ">
+                <div style="display: flex; flex-direction: column;">
+                    <span style="font-weight: bold; color: {text_sub}; font-size: 0.9rem;">💰 바트 환율</span>
+                    <span style="font-size: 0.75em; color: #888;">{now_str} 기준</span>
+                </div>
+                <div style="font-size: 1.2em; font-weight: bold; color: {text_main};">
+                    <span style="font-size: 0.6em; color: #aaa; margin-right: 3px;">1 THB =</span>
+                    {rate:.2f} <span style="font-size: 0.6em; color: #aaa;">KRW</span>
+                </div>
             </div>
-            <div style="font-size: 1.4em; font-weight: bold; color: {text_main};">
-                <span style="font-size: 0.6em; color: #aaa; margin-right: 5px;">1 THB =</span>
-                {rate:.2f} <span style="font-size: 0.6em; color: #aaa;">KRW</span>
-            </div>
-        </div>
-        """, unsafe_allow_html=True)
-    except:
-        pass
+            """, unsafe_allow_html=True)
+        except:
+            st.error("환율 로드 실패")
     
+    # 2. Air Quality Widget (Right)
+    with col_w2:
+        try:
+            waqi_token = st.secrets.get("WAQI_API_KEY", "")
+            aqi_data = utils.get_air_quality(waqi_token)
+            
+            if aqi_data:
+                aqi = aqi_data['aqi']
+                
+                # Dynamic Styling based on AQI
+                if aqi <= 50:
+                    aqi_color = "#00e400" # Green (Good)
+                    aqi_icon = "😊"
+                    aqi_text = "좋음"
+                elif aqi <= 100:
+                    aqi_color = "#ffff00" # Yellow (Moderate)
+                    aqi_icon = "😐"
+                    aqi_text = "보통"
+                elif aqi <= 150:
+                    aqi_color = "#ff7e00" # Orange (Unhealthy for Sensitive)
+                    aqi_icon = "😷"
+                    aqi_text = "민감군 나쁨"
+                else:
+                    aqi_color = "#ff004c" # Red (Unhealthy)
+                    aqi_icon = "☠️"
+                    aqi_text = "나쁨"
+                    
+                st.markdown(f"""
+                <div style="
+                    padding: 15px; 
+                    border-radius: 12px; 
+                    background-color: {card_bg}; 
+                    border: 1px solid {border_color}; 
+                    margin-bottom: 20px; 
+                    display: flex; 
+                    align-items: center; 
+                    justify-content: space-between;
+                    backdrop-filter: blur(5px);
+                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+                ">
+                    <div style="display: flex; flex-direction: column;">
+                        <span style="font-weight: bold; color: {text_sub}; font-size: 0.9rem;">🌫️ 방콕 공기 ({aqi_text})</span>
+                        <span style="font-size: 0.75em; color: #888;">실시간 PM 2.5</span>
+                    </div>
+                    <div style="font-size: 1.2em; font-weight: bold; color: {aqi_color};">
+                        {aqi_icon} {aqi}
+                    </div>
+                </div>
+                """, unsafe_allow_html=True)
+            else:
+                # No Data / Error Placeholder
+                st.markdown(f"""
+                <div style="
+                    padding: 20px; 
+                    border-radius: 12px; 
+                    background-color: {card_bg}; 
+                    border: 1px solid {border_color}; 
+                    color: {text_sub}; text-align: center; font-size: 0.8rem;
+                ">
+                    🌫️ 공기질 데이터 없음
+                </div>
+                """, unsafe_allow_html=True)
+                
+        except Exception as e:
+            st.error(f"AQI Error")
+
     # --- Mobile Control Panel (Always Visible) ---
     col_date, col_search = st.columns([1, 2], gap="small")
     

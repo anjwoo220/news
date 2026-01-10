@@ -186,3 +186,24 @@ def get_thb_krw_rate():
         print(f"Exchange Rate Error: {e}")
     
     return 39.50 # Default fallback
+
+# 4. Air Quality (WAQI)
+def get_air_quality(token):
+    """
+    Fetches real-time Air Quality (PM 2.5) for Bangkok.
+    Returns:
+        dict: {'aqi': int, 'status': str} or None if failed.
+    """
+    url = f"https://api.waqi.info/feed/bangkok/?token={token}"
+    try:
+        import requests
+        response = requests.get(url, timeout=5)
+        if response.status_code == 200:
+            data = response.json()
+            if data.get('status') == 'ok':
+                aqi = data['data']['aqi']
+                return {'aqi': aqi}
+    except Exception as e:
+        print(f"Air Quality Error: {e}")
+    
+    return None
