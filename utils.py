@@ -111,7 +111,12 @@ def analyze_news_with_gemini(news_items, api_key):
         [분류 규칙 (중요)]
         - **Weather Rule:** 날씨, 기온, 홍수, 미세먼지 등 기상 관련 내용은 무조건 **'여행/관광'**으로 분류하세요.
 
-        3. 결과는 반드시 아래 JSON 형식으로만 출력하세요. (Markdown 코드 블록 없이 순수 JSON만)
+        3. **[필수] 기사 전문 번역:**
+        - 기사의 **전체 내용**을 빠짐없이 한국어로 번역하여 `full_translated` 필드에 넣으세요.
+        - 중간에 내용을 생략하거나 요약하지 말고, 원문의 뉘앙스를 살려 **완벽하게 번역**하세요.
+        - 문단 구분은 `\\n\\n`으로 명확히 해주세요.
+
+        4. 결과는 반드시 아래 JSON 형식으로만 출력하세요. (Markdown 코드 블록 없이 순수 JSON만)
 
         [출력 JSON 포맷]
         {{
@@ -119,6 +124,7 @@ def analyze_news_with_gemini(news_items, api_key):
             {{
               "title": "기사 제목 (한국어 번역)",
               "summary": "한국어 요약 내용",
+              "full_translated": "기사 전문 번역 (Markdown 포맷 지원)",
               "category": "카테고리",
               "references": [
                 {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
@@ -144,8 +150,8 @@ def analyze_news_with_gemini(news_items, api_key):
             
         # Delay logic (except for the last one)
         if idx < total_items - 1:
-            print("   -> Waiting 10 seconds to respect API rate limits...")
-            time.sleep(10)
+            print("   -> Waiting 20 seconds to respect API rate limits...")
+            time.sleep(20)
 
     return {"topics": aggregated_topics}, None
 

@@ -18,6 +18,17 @@ DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
 st.set_page_config(page_title="태국 뉴스 브리핑", page_icon="🇹🇭", layout="wide")
 
+# UI 요소 숨기기 (헤더, 푸터, 햄버거 메뉴)
+hide_streamlit_style = """
+<style>
+    #MainMenu {visibility: hidden;}
+    footer {visibility: hidden;}
+    header {visibility: hidden;}
+    .stDeployButton {display:none;}
+</style>
+"""
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)
+
 # --- Custom CSS ---
 st.markdown("""
     <style>
@@ -852,6 +863,11 @@ else:
                 # 3. Highlight Keywords
                 final_summary = highlight_text(topic['summary'])
                 st.markdown(final_summary)
+
+                # 3.5 Full Article View (NEW)
+                with st.expander("📄 기사 전문 보기"):
+                    full_text = topic.get('full_translated', '⚠️ 이 기사는 요약본만 제공됩니다. (다음 뉴스 업데이트부터 전문이 제공됩니다.)')
+                    st.markdown(full_text)
                 
                 # 4. Individual Share (NEW)
                 with st.expander("🔗 이 기사 공유하기"):
