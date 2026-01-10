@@ -3,7 +3,7 @@ import os
 import utils
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Files
 FEEDS_FILE = 'data/feeds.json'
@@ -132,8 +132,12 @@ def main():
         return
 
     # 7. Save Logic (Daily Accumulation)
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    current_time_str = datetime.now().strftime("%H:%M")
+    # Use UTC+7 (Bangkok Time) for date key
+    now_utc = datetime.utcnow()
+    now_bkk = now_utc + timedelta(hours=7)
+    
+    today_str = now_bkk.strftime("%Y-%m-%d")
+    current_time_str = now_bkk.strftime("%H:%M")
     
     # Load current news (Expect Dict, fallback to empty dict if list/invalid)
     current_news = load_json(NEWS_FILE)
