@@ -332,171 +332,116 @@ else:
         is_dark = st.toggle("🌘 다크 모드", value=False)
         
     # Define Theme Colors based on Toggle
+    # Define Theme Colors based on Toggle
     if is_dark:
+        # Dark Mode Styles (Manual Override)
         card_bg = "rgba(30, 30, 30, 0.6)"
         text_main = "#ffffff"
         text_sub = "#e0e0e0"
         border_color = "#444"
+        
+        # Inject CSS for Dark Mode Overrides
+        st.markdown("""
+            <style>
+            /* Global Background & Text for Dark Mode Override */
+            [data-testid="stAppViewContainer"] {
+                background-color: #0e1117;
+                color: #ffffff;
+            }
+            [data-testid="stSidebar"] {
+                background-color: #262730;
+            }
+            [data-testid="stHeader"] {
+                background-color: rgba(14, 17, 23, 0.95);
+            }
+            
+            /* Text Elements */
+            p, h1, h2, h3, h4, li, .stMarkdown, .stCaption {
+                color: #ffffff !important;
+            }
+            
+            /* Inputs */
+            div[data-baseweb="input"], div[data-baseweb="base-input"] {
+                background-color: #262730 !important;
+                border: 1px solid #444 !important;
+            }
+            input {
+                color: #ffffff !important;
+                caret-color: #ffffff !important;
+            }
+            
+            /* Calendar / Popovers (Dark Mode) */
+            div[data-baseweb="calendar"], div[data-baseweb="popover"], div[data-baseweb="menu"] {
+                background-color: #262730 !important;
+                color: #ffffff !important;
+            }
+            div[data-baseweb="calendar"] button, div[data-baseweb="calendar"] div {
+                 color: #ffffff !important;
+            }
+            div[data-baseweb="calendar"] button:hover {
+                 background-color: #444 !important;
+            }
+
+            /* Category Pills (Dark) */
+            div[data-testid="stPills"] [data-baseweb="tag"] {
+                background-color: #262730 !important;
+                border: 1px solid #444 !important;
+                color: #ffffff !important;
+            }
+            div[data-testid="stPills"] [data-baseweb="tag"] span {
+                color: #ffffff !important;
+            }
+            
+            /* Expander (Dark) */
+            div[data-testid="stExpander"] {
+                background-color: #262730 !important;
+                border: 1px solid #444 !important;
+            }
+            div[data-testid="stExpander"] details {
+                background-color: #262730 !important;
+                color: #ffffff !important;
+            }
+            div[data-testid="stExpander"] summary {
+                color: #ffffff !important;
+            }
+            div[data-testid="stExpander"] summary:hover {
+                color: #ffffff !important;
+            }
+
+            /* Code Block (Dark) */
+            .stCodeBlock {
+                background-color: #262730 !important;
+                border: 1px solid #444 !important;
+            }
+            .stCodeBlock code {
+                color: #ffffff !important;
+            }
+            </style>
+        """, unsafe_allow_html=True)
+        
     else:
-        # Light Mode Styles
+        # Light Mode Styles (Native - No Overrides Needed)
+        # Using Streamlit's forced "light" theme from config.toml
         card_bg = "rgba(255, 255, 255, 0.9)"
         text_main = "#000000"
         text_sub = "#333333"
         border_color = "#ddd"
         
-        # Inject CSS for Light Mode Global Background & Input Styling
+        # Optional: Light Mode Polishing (Just minor tweaks if needed, but native should handle base)
         st.markdown("""
             <style>
-            /* Global Background & Text */
-            [data-testid="stAppViewContainer"] {
-                background-color: #ffffff;
-                color: #000000;
-            }
-            [data-testid="stSidebar"] {
-                background-color: #f7f9fc;
-            }
-            [data-testid="stHeader"] {
-                background-color: rgba(255,255,255,0.95);
-            }
-            
-            /* Text Elements */
-            p, h1, h2, h3, h4, li, .stMarkdown, .stCaption {
-                color: #262730 !important;
-            }
-            
-            /* --- GLOBAL BASEWEB RESET (The Nuclear Option) --- */
-            /* Force all BaseWeb floating elements (Menus, Popovers, Tooltips) to Light Mode */
-            div[data-baseweb="popover"],
-            div[data-baseweb="menu"],
-            div[data-baseweb="tooltip"],
-            div[data-baseweb="select"] ul {
-                background-color: #ffffff !important;
-                color: #262730 !important;
-                border: 1px solid #e0e0e0 !important;
-            }
-            
-            /* Force ALL text inside these floating containers to be dark */
-            div[data-baseweb="popover"] *,
-            div[data-baseweb="menu"] *,
-            div[data-baseweb="tooltip"] * {
-                color: #262730 !important;
-            }
-
-            /* Exceptions for specific functional colors (like selected items) */
-            div[data-baseweb="menu"] li[aria-selected="true"] {
-                background-color: #f0f2f6 !important;
-            }
-
-            /* --- CALENDAR DEEP CLEAN --- */
-            /* 1. Main Container */
-            div[data-baseweb="calendar"] {
-                background-color: #ffffff !important;
-                color: #262730 !important;
-            }
-            
-            /* 2. Force every single div inside calendar to NOT be black */
-            div[data-baseweb="calendar"] div {
-                color: #262730 !important;
-                 /* careful with bg here, might break grid, but let's try to be specific if needed */
-            }
-            
-            /* 3. Header / Month-Year View / Navigation */
-            div[data-baseweb="calendar"] button {
-                background-color: transparent !important;
-                color: #262730 !important;    
-            }
-            div[data-baseweb="calendar"] button:hover {
-                background-color: #f0f2f6 !important;
-            }
-            /* The Grid (Days or Months) */
-            div[data-baseweb="calendar"] div[role="grid"] {
-                background-color: #ffffff !important;
-            }
-            div[data-baseweb="calendar"] div[role="gridcell"] {
-                color: #262730 !important;
-            }
-            /* Selected Day */
-            div[data-baseweb="calendar"] button[aria-selected="true"] {
-                background-color: #ff4b4b !important;
-                color: #ffffff !important;
-            }
-            
-            /* --- CATEGORY FILTER (PILLS) FIX --- */
-            div[data-testid="stPills"] {
-                background-color: transparent !important;
-            }
-            /* Unselected Tags */
-            div[data-testid="stPills"] [data-baseweb="tag"] {
-                background-color: #f0f2f6 !important;
-                border: 1px solid #e0e0e0 !important;
-                color: #31333F !important;
-            }
-            div[data-testid="stPills"] [data-baseweb="tag"] span {
-                color: #31333F !important;
-            }
-            /* Selected Tags */
-            div[data-testid="stPills"] button[aria-selected="true"] [data-baseweb="tag"],
-            div[data-testid="stPills"] button[data-active="true"] [data-baseweb="tag"] {
-                background-color: #ea5455 !important;
-                border-color: #ea5455 !important;
-                color: #ffffff !important;
-            }
-            div[data-testid="stPills"] button[aria-selected="true"] [data-baseweb="tag"] span,
-            div[data-testid="stPills"] button[data-active="true"] [data-baseweb="tag"] span {
-                 color: #ffffff !important;
-            }
-
-            /* --- INPUTS & SELECTS RESET --- */
-            div[data-baseweb="input"], div[data-baseweb="base-input"] {
-                background-color: #ffffff !important;
-                border: 1px solid #e0e0e0 !important;
-            }
-            input {
-                color: #262730 !important;
-                caret-color: #262730 !important;
-            }
-            /* Dropdown Box */
-            div[data-baseweb="select"] > div {
-                background-color: #ffffff !important;
-                color: #262730 !important;
-                border-color: #e0e0e0 !important;
-            }
-            
-            /* --- EXPANDER & OTHERS --- */
-            div[data-testid="stExpander"], div[data-testid="stExpander"] details {
-                background-color: #ffffff !important;
-                border-radius: 8px !important;
-                 color: #262730 !important;
-            }
-            div[data-testid="stExpander"] summary {
-                color: #262730 !important;
-            }
-            div[data-testid="stExpander"] summary:hover {
-                color: #262730 !important;
-            }
-
-            /* --- LINKS --- */
+            /* Ensure links are blue in light mode */
             .stMarkdown a {
                 color: #0068c9 !important;
+                text-decoration: none;
+            }
+            .stMarkdown a:hover {
+                text-decoration: underline;
             }
             
-            /* --- BUTTONS --- */
-            button[kind="primaryFormSubmit"] {
-                background-color: #ff4b4b !important;
-                color: #ffffff !important;
-                border: none !important;
-            }
-            button[kind="secondary"], button[kind="secondaryFormSubmit"] {
-                background-color: #ffffff !important;
-                color: #31333F !important;
-                border: 1px solid #d0d0d0 !important;
-            }
-
-            /* --- TOAST --- */
-            div[data-baseweb="toast"] {
-                background-color: #ffffff !important;
-                color: #31333F !important;
-                border: 1px solid #e0e0e0 !important;
+            /* Expander Polish */
+            div[data-testid="stExpander"] {
+                border-radius: 8px !important;
             }
             </style>
         """, unsafe_allow_html=True)
