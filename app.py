@@ -36,6 +36,19 @@ hide_streamlit_style = """
 
     /* 4. 배포 버튼 등 기타 요소 */
     .stDeployButton {display:none !important;}
+
+    /* 5. 타이틀 반응형 글씨 크기 조절 (추가) */
+    /* PC/기본: 기존 크기 유지 (Streamlit Default) */
+    h1 {
+        white-space: nowrap !important; /* 줄바꿈 방지 */
+    }
+    
+    /* 모바일 (768px 이하) */
+    @media screen and (max-width: 768px) {
+        h1 {
+            font-size: 26px !important; /* 모바일용 작은 크기 */
+        }
+    }
 </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
