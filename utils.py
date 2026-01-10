@@ -79,57 +79,71 @@ def analyze_news_with_gemini(news_items, api_key):
     max_items = 5
     limited_news_items = news_items[:max_items]
     
-    # Convert list to string for prompt
-    news_text = ""
-    for idx, item in enumerate(limited_news_items):
-        clean_summary = clean_html(item['summary'])[:300] # Strip HTML and truncate
-        news_text += f"{idx+1}. [{item['source']}] {item['title']} - {item['link']}\n   Summary: {clean_summary}...\n\n"
-        
-    prompt = f"""
-    당신은 태국 전문 뉴스 에디터입니다. 
-    아래 제공된 최근 3일간의 태국 뉴스 기사 목록을 분석하여 한국어 브리핑 리포트를 작성해주세요.
-
-    [요청 사항]
-    1. 뉴스 기사들을 유사한 주제(Topic)끼리 그룹화하세요.
-    2. 각 주제별로 핵심 내용을 3~4문장의 한국어로 요약하세요.
-    3. 각 주제 하단에 관련 기사의 원본 링크(제목과 URL)를 포함하세요.
-    4. 각 주제에 대해 다음 카테고리 중 하나를 선택하여 분류하세요: ["정치/사회", "경제", "여행/관광", "사건/사고", "엔터테인먼트", "기타"]
+    aggregated_topics = []
+    total_items = len(limited_news_items)
     
-    [분류 규칙 (중요)]
-    - **Weather Rule:** 기사의 핵심 주제가 **날씨(Weather), 기온(Temperature), 폭염(Heatwave), 추위(Cold), 장마/호우(Rain/Flood), 미세먼지(PM2.5)** 등 기상 상황과 관련되어 있다면, 주저하지 말고 **'여행/관광'** 카테고리로 분류하세요.
-    - 이유: 날씨 정보는 여행자들의 일정에 가장 큰 영향을 미치는 요소이기 때문입니다.
-    - 입력 텍스트에 'weather', 'degrees', 'storm', 'heat index' 등의 키워드가 포함될 경우 이 규칙을 우선 적용하세요.
+    print(f"Starting sequential analysis for {total_items} items (with 10s delay)...")
 
-    5. 결과는 반드시 아래 JSON 형식으로만 출력하세요. (Markdown 코드 블록 없이 순수 JSON만)
+    for idx, item in enumerate(limited_news_items):
+        print(f"[{idx+1}/{total_items}] Processing: {item['title']}...")
+        
+        clean_summary = clean_html(item['summary'])[:500] # Slightly more context per item
+        
+        # Single Item Prompt
+        prompt = f"""
+        당신은 태국 전문 뉴스 에디터입니다. 
+        아래 제공된 뉴스 기사를 분석하여 한국어 브리핑 항목을 작성해주세요.
 
-    [입력 뉴스 데이터]
-    {news_text}
+        [기사 정보]
+        - Title: {item['title']}
+        - Source: {item['source']}
+        - Link: {item['link']}
+        - Summary: {clean_summary}
 
-    [출력 JSON 포맷]
-    {{
-      "start_date": "YYYY-MM-DD", 
-      "end_date": "YYYY-MM-DD",
-      "total_articles": {len(news_items)},
-      "topics": [
+        [요청 사항]
+        1. 이 기사의 핵심 내용을 3~4문장의 한국어로 요약하세요.
+        2. 다음 카테고리 중 하나를 선택하여 분류하세요: ["정치/사회", "경제", "여행/관광", "사건/사고", "엔터테인먼트", "기타"]
+        
+        [분류 규칙 (중요)]
+        - **Weather Rule:** 날씨, 기온, 홍수, 미세먼지 등 기상 관련 내용은 무조건 **'여행/관광'**으로 분류하세요.
+
+        3. 결과는 반드시 아래 JSON 형식으로만 출력하세요. (Markdown 코드 블록 없이 순수 JSON만)
+
+        [출력 JSON 포맷]
         {{
-          "title": "주제 제목 (한국어)",
-          "summary": "주제 요약 내용 (한국어)",
-          "category": "카테고리 (예: 정치/사회)",
-          "references": [
-            {{"title": "기사 제목", "url": "URL", "source": "매체명"}}
+          "topics": [
+            {{
+              "title": "기사 제목 (한국어 번역)",
+              "summary": "한국어 요약 내용",
+              "category": "카테고리",
+              "references": [
+                {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
+              ]
+            }}
           ]
         }}
-      ]
-    }}
-    """
-    
-    try:
-        model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
-        response = model.generate_content(prompt)
-        return json.loads(response.text), None
-    except Exception as e:
-        print(f"Gemini Error: {e}")
-        return None, str(e)
+        """
+        
+        try:
+            model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+            response = model.generate_content(prompt)
+            result = json.loads(response.text)
+            
+            if 'topics' in result and result['topics']:
+                aggregated_topics.extend(result['topics'])
+                print(f"   -> Success. Topics so far: {len(aggregated_topics)}")
+            
+        except Exception as e:
+            print(f"   -> API Error for item {idx+1}: {e}")
+            print("   -> Skipping this item and continuing...")
+            # Continue to next item without stopping
+            
+        # Delay logic (except for the last one)
+        if idx < total_items - 1:
+            print("   -> Waiting 10 seconds to respect API rate limits...")
+            time.sleep(10)
+
+    return {"topics": aggregated_topics}, None
 
 
 def load_local_json(file_path):
