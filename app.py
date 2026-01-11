@@ -863,15 +863,14 @@ if app_mode == "Admin Console":
             st.subheader("🌴 핫플 매거진 관리 (트렌드 헌터)")
             st.info("4대 소스(Wongnai, TSL, Chillpainai, BK Mag)에서 수집된 트렌드 정보를 관리합니다.")
             
+            # File
+            MAGAZINE_FILE = 'data/magazine_content.json'
+            
             # 1. Manual Fetch
             col_m1, col_m2 = st.columns([1, 4])
             with col_m1:
                 if st.button("🚀 최신 트렌드 수집 (Update)", type="primary"):
                     with st.spinner("최신 정보를 수집하고 분석 중입니다... (약 30초 소요)"):
-                        update_trend_count = update_trends_if_stale() # Re-uses staleness check wrapper, but effective if logic allows or we force it.
-                        # Actually update_trends_if_stale only runs if file is old. We need FORCE update here.
-                        # Let's call utils directly here for Admin force update.
-                        
                         api_key = os.environ.get("GEMINI_API_KEY")
                         if not api_key:
                              # Try secrets
@@ -883,6 +882,22 @@ if app_mode == "Admin Console":
                         
                         if api_key:
                             new_items = utils.fetch_trend_hunter_items(api_key)
+                            
+                            if new_items:
+                                save_json(MAGAZINE_FILE, new_items)
+                                
+                                # Persistence
+                                with st.spinner("GitHub에 저장 중..."):
+                                    ok, msg = utils.push_changes_to_github([MAGAZINE_FILE], "Update Magazine Content (AI)")
+                                    if ok: st.toast("✅ GitHub 저장 완료")
+                                    else: st.error(f"GitHub 저장 실패: {msg}")
+
+                                st.success(f"총 {len(new_items)}개의 트렌드 아이템을 업데이트했습니다!")
+                                st.rerun()
+                            else:
+                                st.error("가져온 데이터가 없습니다.")
+                        else:
+                            st.error("API Key Missing")
                             if new_items:
                                 save_json(TRENDS_FILE, new_items)
                                 st.success(f"업데이트 완료! 총 {len(new_items)}개의 핫플을 가져왔습니다.")
@@ -1866,61 +1881,66 @@ else:
             st.error(f"이벤트 정보를 불러오는 중 오류가 발생했습니다: {e}")
 
     # --- Page 3: Trend Hunter (Magazine) ---
+    # --- Page 3: Trend Hunter (Magazine) ---
     elif page_mode == "🌴 핫플 매거진":
-        st.caption("현지인과 여행 고수들이 주목하는 방콕/태국의 최신 핫플레이스를 모았습니다. (Wongnai, BK Magazine 등)")
+        st.markdown("### 🌴 트렌드 리포트 (Magazine)")
+        st.caption("현지 에디터가 엄선한 방콕의 힙한 플레이스를 만나보세요.")
         
-        # 1. Update/Load Data
-        try:
-            with st.spinner("최신 트렌드를 확인하는 중... (하루 1회 업데이트)"):
-                new_count = update_trends_if_stale()
-                
-            mtime = 0
-            if os.path.exists(TRENDS_FILE):
-                mtime = os.path.getmtime(TRENDS_FILE)
-            
-            trends = load_trends_data(mtime)
-            
-            if not trends:
-                st.info("아직 수집된 트렌드 정보가 없습니다. 잠시 후 다시 시도해주세요.")
-                # Manual Trigger Button
-                if st.button("🚀 트렌드 수동 업데이트"):
-                     with st.spinner("정보를 수집 중입니다... (최대 1분 소요)"):
-                         update_trends_if_stale() # Force check? Logic above only runs if stale. 
-                         # Actually we need force mode or just rely on staleness. 
-                         # Let's trust the stale check above. If empty, maybe file missing.
-                         # Check helper again: it creates file if fetch succeeds.
-                         st.rerun()
-            else:
-                 # Layout: Pinterest Grid (2 Columns)
-                 st.markdown("### 📸 Trending Now")
-                 
-                 t_m, t_r = st.columns([3, 1])
-                 with t_r:
-                     st.write(f"Updated: {datetime.fromtimestamp(mtime).strftime('%m-%d %H:%M')}")
-                     if st.button("🔄 리프레시"):
-                         st.rerun()
+        MAGAZINE_FILE = 'data/magazine_content.json'
+        
+        # Load Data
+        magazine_items = []
+        if os.path.exists(MAGAZINE_FILE):
+             try:
+                 with open(MAGAZINE_FILE, 'r', encoding='utf-8') as f:
+                     magazine_items = json.load(f)
+             except: magazine_items = []
 
-                 cols = st.columns(2)
-                 for idx, item in enumerate(trends):
-                     with cols[idx % 2]:
-                         with st.container(border=True):
-                             # Image
-                             if item.get('image_url'):
-                                 st.image(item['image_url'], use_container_width=True)
-                             
-                             # Badge & Title
-                             badge = item.get('badge', 'Hotplace')
-                             title = item.get('title', '제목 없음')
-                             
-                             # Badge Color Coding
-                             b_color = "gray"
-                             if "Wongnai" in badge: b_color = "orange"
-                             elif "MZ" in badge: b_color = "blue"
-                             elif "현지인" in badge: b_color = "green"
-                             elif "BKK" in badge: b_color = "purple"
-                             
-                             st.markdown(f":{b_color}-background[{badge}] **{title}**")
-                             
+        if not magazine_items:
+            st.info("발행된 매거진이 없습니다. 관리자에게 문의하세요.")
+        else:
+            # Magazine Layout
+            for item in magazine_items:
+                with st.container(border=True):
+                    # 1. Full Width Image
+                    if item.get('image_url'):
+                        st.image(item['image_url'], use_container_width=True)
+                    
+                    # 2. Catchy Headline
+                    st.markdown(f"### {item.get('catchy_headline', item.get('title'))}")
+                    
+                    # 3. Tags (Pills)
+                    tags = item.get('vibe_tags', [])
+                    if tags:
+                        # Use pills if available or markdown badges
+                        try:
+                            st.pills("Vibes", tags, selection_mode="multi", disabled=True, label_visibility="collapsed", key=f"tags_{item.get('title')}")
+                        except:
+                            # Fallback for older streamlit
+                            badges = " ".join([f"`{t}`" for t in tags])
+                            st.markdown(badges)
+                    
+                    st.divider()
+                    
+                    # 4. Details Grid
+                    c1, c2 = st.columns([2, 1])
+                    with c1:
+                         st.markdown(f"**📍 {item.get('title')}**")
+                         st.caption(item.get('summary', ''))
+                         
+                         if item.get('must_eat'):
+                             st.markdown(f"🍽️ **추천:** {item.get('must_eat')}")
+                         
+                         if item.get('pro_tip'):
+                             st.info(f"💡 **에디터 꿀팁:** {item.get('pro_tip')}", icon="✨")
+                    
+                    with c2:
+                        st.markdown(f"**가격대**: {item.get('price_level', '💸')}")
+                        if item.get('location_url'):
+                            st.link_button("지도 보기 🗺️", item.get('location_url'), use_container_width=True)
+                        if item.get('link'):
+                             st.link_button("원문 보기 🔗", item.get('link'), use_container_width=True)
+
                              # Desc & Location
                              st.caption(f"📍 {item.get('location', '위치 정보 없음')}")
                              st.write(item.get('desc', ''))

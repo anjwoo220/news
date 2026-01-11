@@ -706,26 +706,38 @@ def fetch_trend_hunter_items(api_key):
             genai.configure(api_key=api_key)
             model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
             
-            # Batch Prompt
+            # Batch Prompt (Editor Mode)
             prompt = f"""
-            You are a Thai Travel Editor specialized in customizing content for Korean tourists.
-            Analyze the following raw items from {source_type}.
+            You are a trendy Thai Travel Editor for a Korean magazine. 
+            Your goal is to transform these raw places into "Must-Visit" spots for Korean tourists (MZ generation).
             
             Input Data:
             {json.dumps(raw_inputs, ensure_ascii=False)}
             
             Task:
-            1. Summarize the appeal of each place/activity in 1 line (Korean). Remove ads.
-            2. Transliterate Thai/English names to Korean pronunciation (e.g. Thipsamai -> 팁사마이).
-            3. Return a JSON list.
+            1. Analyze each item.
+            2. Re-write the content into a structured "Magazine Card" format.
+            3. CRITICAL: 
+               - "catchy_headline": Creative, click-bait style 1-liner (Insta vibe).
+               - "vibe_tags": 2-3 hashtags describing the atmosphere (e.g. #Sunset #DateSpot).
+               - "must_eat": Recommend 1-2 signature menu items (or "N/A" if not food).
+               - "pro_tip": A practical tip for visitors (best time, reservation, dress code).
+               - "price_level": Use 💸 (Cheap), 💸💸 (Moderate), or 💸💸💸 (Expensive).
+               - "summary": Emotional and inviting description (2-3 sentences).
+               - "location_url": A Google Maps search URL based on the place name.
             
             Output JSON Format:
             [
                 {{
-                    "original_index": 0 (int),
-                    "title": "Attractive Korean Title (e.g. '방콕 최고의 팟타이, 팁사마이')",
-                    "location": "Rough Location (e.g. '방콕 구시가지')",
-                    "desc": "1 line summary of why it is good.",
+                    "original_index": 0,
+                    "title": "Place Name (Korean + English)",
+                    "catchy_headline": "방콕 야경의 끝판왕, 여기서 인생샷 건지세요!",
+                    "vibe_tags": ["#루프탑", "#야경", "#데이트"],
+                    "must_eat": "트러플 파스타, 시그니처 칵테일",
+                    "pro_tip": "일몰 30분 전 도착 추천, 창가석 예약 필수!",
+                    "price_level": "💸💸💸",
+                    "summary": "방콕의 화려한 밤을 가장 로맨틱하게 즐길 수 있는 곳입니다. ...",
+                    "location_url": "https://www.google.com/maps/search/?api=1&query=..."
                 }}
             ]
             """
@@ -744,8 +756,13 @@ def fetch_trend_hunter_items(api_key):
                     original = raw_inputs[idx]
                     processed.append({
                         "title": res.get('title'),
-                        "location": res.get('location'),
-                        "desc": res.get('desc'),
+                        "catchy_headline": res.get('catchy_headline'),
+                        "vibe_tags": res.get('vibe_tags', []),
+                        "must_eat": res.get('must_eat'),
+                        "pro_tip": res.get('pro_tip'),
+                        "price_level": res.get('price_level'),
+                        "summary": res.get('summary'),
+                        "location_url": res.get('location_url'),
                         "image_url": original.get('raw_img'),
                         "link": original.get('raw_link'),
                         "badge": source_type
