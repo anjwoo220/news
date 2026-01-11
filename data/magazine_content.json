@@ -1,5 +1,23 @@
 [
   {
+    "original_index": 1,
+    "title": "Hotaru (Delta Pizza & Burger) (호타루 (델타 피자 & 버거))",
+    "catchy_headline": "피맥하기 딱 좋은 곳! 🍕 인생 피자와 수제버거를 한 입에!",
+    "vibe_tags": [
+      "#피자맛집",
+      "#수제버거",
+      "#힙스터성지"
+    ],
+    "summary": "환상적인 피자와 육즙 가득한 수제버거의 콜라보! 델타 피자 & 버거에서 잊을 수 없는 맛을 경험하세요. 힙한 분위기 속에서 시원한 맥주 한 잔과 함께라면 여기가 바로 천국!",
+    "must_eat": "페퍼로니 피자, 시그니처 버거",
+    "pro_tip": "저녁 시간에는 자리가 없을 수 있으니 미리 예약하거나, 조금 일찍 방문하는 것을 추천합니다.",
+    "price_level": "💸💸💸",
+    "location_url": "https://www.google.com/maps/search/Hotaru+(Delta+Pizza+%26+Burger)",
+    "image_url": "",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Zbi0yT25CMXlBWl8xcHFiYzNZamFYc1FFWE56QW4wNEhfc1c1dldEMlRybkg1cFRGXy1LbjhXYXZuYXZ6WW4ySmh3MkZIa3VwdlhvOGtENU1LbE5XMlBlU3dnS0h4dFBlc2FF?oc=5",
+    "badge": "[맛집랭킹]"
+  },
+  {
     "original_index": 0,
     "title": "Chillpainai 태국여행 (Chillpainai Thai Trip)",
     "catchy_headline": "태국 여행, 지금 바로 떠나자! 🇹🇭✨",
@@ -19,21 +37,21 @@
   },
   {
     "original_index": 1,
-    "title": "KENNYS'BKK (Ari) (케니스 방콕 아리)",
-    "catchy_headline": "Ari's Trendy Bistro! 🍽️✨ Where delicious food meets chill vibes!",
+    "title": "Jek Pui (쩨 푸이) - 방콕 올드타운의 숨겨진 커리 맛집",
+    "catchy_headline": "방콕 현지인 줄서는 찐맛집! 솥뚜껑 덮밥 비주얼 실화?",
     "vibe_tags": [
-      "#AriVibes",
-      "#BKKCafe",
-      "#Foodie"
+      "#방콕맛집",
+      "#현지인맛집",
+      "#노포맛집"
     ],
-    "summary": "Discover Kenny's BKK in Ari, a restaurant offering a wide array of menu options. Experience the vibrant culinary scene of Bangkok in a cozy setting. Perfect for brunch, lunch or a casual dinner.",
-    "must_eat": "Signature Menu",
-    "pro_tip": "Ari is a popular area, consider making a reservation during peak hours!",
-    "price_level": "💸💸",
-    "location_url": "https://www.google.com/maps/search/KENNYS'BKK+(Ari)",
+    "summary": "방콕 올드타운에 자리 잡은 쩨 푸이는 솥뚜껑에 담겨 나오는 푸짐한 커리 덮밥으로 유명합니다. 테이블도 없이 길거리에서 즐기는 로컬 분위기지만, 그 맛은 보장! 긴 줄도 감수할 만한 가치가 있는 곳입니다.",
+    "must_eat": "커리 덮밥 (추천 메뉴 조합 탐색 필요)",
+    "pro_tip": "점심시간에는 웨이팅이 길 수 있으니, 조금 일찍 방문하거나 포장해서 숙소에서 즐기는 것을 추천합니다. 현지인들처럼 다양한 토핑을 추가해서 나만의 커리 덮밥을 만들어보세요!",
+    "price_level": "💸",
+    "location_url": "https://www.google.com/maps/search/Jek+Pui+Bangkok",
     "image_url": "",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuRHp3NnVVQnJQc1hIb3FMcjd4aW1mdmp1Q3hiSmFtOHBxQ3J6cU9TR0tKZFczamxIVkZnTnNDNDhqcU5LQ1pkdWFFcjFIR0dKTDlvcmxUZmhjS25hUldN?oc=5",
-    "badge": "[맛집랭킹]"
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqTU5XczZocldnY2tHRlo4Ri1fbnFkY1I3NTI5MlF4VUVsajJxbThfQWFkRDRLeEdWTzVFbG1DQ09PLTZqM0ZPYUdqaWNSdS10RHN4dQ?oc=5",
+    "badge": "[MZ핫플]"
   },
   {
     "original_index": 0,
@@ -54,6 +72,24 @@
     "badge": "[맛집랭킹]"
   },
   {
+    "original_index": 0,
+    "title": "Namo 12 Matcha (나모 12 말차)",
+    "catchy_headline": "말차 덕후들 심장 멎게 할 곳! 쌉싸름한 녹차의 깊은 풍미에 퐁당!",
+    "vibe_tags": [
+      "#말차성지",
+      "#디저트맛집",
+      "#인생샷카페"
+    ],
+    "summary": "진정한 말차의 세계로 빠져보세요! 쌉쌀하면서도 달콤한 말차 디저트들이 당신의 미각을 황홀하게 만들어줄 거예요. 친구와 함께 방문해서 인생샷 남기기에도 완벽한 곳!",
+    "must_eat": "말차 아이스크림, 말차 라떼",
+    "pro_tip": "주말에는 웨이팅 필수! 오픈 시간에 맞춰 방문하거나, 평일 방문을 추천드려요.",
+    "price_level": "💸💸",
+    "location_url": "https://www.google.com/maps/search/Namo+12+Matcha",
+    "image_url": "",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ERWFkbU9MTEZjV1JEZERnOEY0U3RGYWFPNzRTNHUtU0xQR2hmd2JXZUR3azlxQW1fWDBYRnd5NXFJc1Zxa0d2R0VpcTRSeUlaTHdFWS1ncGo1RjVuY2hLZ1lGMDN0OC1lMkhF?oc=5",
+    "badge": "[맛집랭킹]"
+  },
+  {
     "original_index": 1,
     "title": "Chillpainai 태국여행 (Chillpainai Thai Trip)",
     "catchy_headline": "태국 숨은 명소 탐험! 🌴📸",
@@ -70,5 +106,23 @@
     "image_url": "",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBHZmZEX2xKZll1ZEdwTXRFbDZXQU1aZEJ4UWNtLW1DUUptSE4wbjdqQlVPbkxFU1FCQjFDYTR0WFFuSHJJNGZCSFNoZXRIYlE?oc=5",
     "badge": "[로컬여행]"
+  },
+  {
+    "original_index": 1,
+    "title": "KENNYS'BKK (Ari) (케니스 방콕 아리)",
+    "catchy_headline": "Ari's Trendy Bistro! 🍽️✨ Where delicious food meets chill vibes!",
+    "vibe_tags": [
+      "#AriVibes",
+      "#BKKCafe",
+      "#Foodie"
+    ],
+    "summary": "Discover Kenny's BKK in Ari, a restaurant offering a wide array of menu options. Experience the vibrant culinary scene of Bangkok in a cozy setting. Perfect for brunch, lunch or a casual dinner.",
+    "must_eat": "Signature Menu",
+    "pro_tip": "Ari is a popular area, consider making a reservation during peak hours!",
+    "price_level": "💸💸",
+    "location_url": "https://www.google.com/maps/search/KENNYS'BKK+(Ari)",
+    "image_url": "",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuRHp3NnVVQnJQc1hIb3FMcjd4aW1mdmp1Q3hiSmFtOHBxQ3J6cU9TR0tKZFczamxIVkZnTnNDNDhqcU5LQ1pkdWFFcjFIR0dKTDlvcmxUZmhjS25hUldN?oc=5",
+    "badge": "[맛집랭킹]"
   }
 ]
