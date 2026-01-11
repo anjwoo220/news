@@ -11,6 +11,7 @@ import html
 
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
+EVENTS_FILE = 'data/events.json'
 CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
 STATS_FILE = 'data/stats.json'
@@ -86,9 +87,63 @@ def get_cached_air_quality(token):
 def get_cached_exchange_rate():
     return utils.get_thb_krw_rate()
 
-@st.cache_data(ttl=86400, show_spinner=False)
+@st.cache_data(ttl=3600, show_spinner=False)
+def load_events_data(mtime):
+    """Loads events from JSON file."""
+    if os.path.exists(EVENTS_FILE):
+        with open(EVENTS_FILE, 'r', encoding='utf-8') as f:
+            try:
+                return json.load(f)
+            except:
+                return []
+    return []
+
+def update_events_if_stale():
+    """Checks if events.json is stale (>24h) and updates it if needed."""
+    is_stale = True
+    if os.path.exists(EVENTS_FILE):
+        mtime = os.path.getmtime(EVENTS_FILE)
+        if time.time() - mtime < 86400: # 24 hours
+            is_stale = False
+            
+    if is_stale:
+        new_events = utils.fetch_thai_events()
+        if new_events:
+            # Load existing
+            if os.path.exists(EVENTS_FILE):
+                with open(EVENTS_FILE, 'r', encoding='utf-8') as f:
+                    try:
+                        existing_events = json.load(f)
+                    except:
+                        existing_events = []
+            else:
+                existing_events = []
+            
+            # Merge Logic (Dedupe by Title + Date)
+            existing_sigs = set((e.get('title'), e.get('date')) for e in existing_events)
+            
+            added_count = 0
+            for event in new_events:
+                sig = (event.get('title'), event.get('date'))
+                if sig not in existing_sigs:
+                    existing_events.append(event)
+                    existing_sigs.add(sig)
+                    added_count += 1
+            
+            # Save
+            with open(EVENTS_FILE, 'w', encoding='utf-8') as f:
+                json.dump(existing_events, f, ensure_ascii=False, indent=2)
+                
+            return added_count
+    return 0
+
 def get_cached_events():
-    return utils.fetch_thai_events()
+    """Wrapper that ensures file exists/is filtered, then loads."""
+    update_events_if_stale()
+    mtime = 0
+    if os.path.exists(EVENTS_FILE):
+        mtime = os.path.getmtime(EVENTS_FILE)
+    return load_events_data(mtime)
 
 def load_json(file_path, default=None):
     if default is None:
