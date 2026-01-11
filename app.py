@@ -288,19 +288,19 @@ def save_json(file_path, data):
 
 # --- Visitor Counter (Session + API) ---
 if 'visited_session' not in st.session_state:
-    # First visit in this session -> Increment
-    new_count = utils.increment_visitor_count()
+    # First visit in this session -> Increment (Total + Daily)
+    total_val, daily_val = utils.increment_visitor_stats()
     st.session_state['visited_session'] = True
-    current_visits = new_count
 else:
-    # Already visited -> Just get current count
-    current_visits = utils.get_visitor_count()
+    # Already visited -> Just Read (Total + Daily)
+    total_val, daily_val = utils.get_visitor_stats()
 
+# PC UI (Sidebar Bottom)
 with st.sidebar:
     st.markdown("---")
     st.markdown(f"""
     <div style="text-align: center; color: #666; font-size: 0.8em;">
-        👁️ Total Visitors: <b>{current_visits}</b>
+        👀 Today: <b>{daily_val:,}</b> | Total: <b>{total_val:,}</b>
     </div>
     """, unsafe_allow_html=True)
 
@@ -431,8 +431,10 @@ if app_mode == "Admin Console":
             # Visitor Stats
             with col2:
                 st.markdown("#### 👥 방문자 현황")
-                current_visits = utils.get_visitor_count()
-                st.metric("총 방문자 (API)", f"{current_visits:,}명")
+                # Visitor Stats (Admin)
+                current_total, current_daily = utils.get_visitor_stats()
+                st.metric("총 방문자 (API)", f"{current_total:,}명")
+                st.metric("오늘 방문자 (API)", f"{current_daily:,}명")
 
         # --- Tab 2: News Management ---
         with tab2:
@@ -964,6 +966,13 @@ else:
     with col_t2:
         # Default False (Light Mode)
         is_dark = st.toggle("🌘 다크 모드", value=False)
+        
+        # Mobile/Header Visitor UI (Hidden on PC via CSS if needed, or just shown)
+        st.markdown(f"""
+        <div style="text-align: right; font-size: 0.7em; color: gray; margin-top: -10px;">
+           Today: <b>{daily_val:,}</b><br>Total: <b>{total_val:,}</b>
+        </div>
+        """, unsafe_allow_html=True)
         
     # Define Theme Colors based on Toggle
     if is_dark:

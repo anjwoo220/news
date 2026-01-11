@@ -926,27 +926,84 @@ def push_changes_to_github(files_to_commit, commit_message):
 # Visitor Counter (counterapi.dev)
 # --------------------------------------------------------------------------------
 
-def get_visitor_count():
-    """Fetches the current visitor count."""
-    try:
-        import requests
-        # Namespace: news-project-2026, Key: visits
-        url = "https://api.counterapi.dev/v1/news-project-2026/visits"
-        resp = requests.get(url, timeout=3)
-        if resp.status_code == 200:
-            return resp.json().get("count", 0)
-    except:
-        pass
-    return 0
+# --------------------------------------------------------------------------------
+# Visitor Counter (counterapi.dev)
+# --------------------------------------------------------------------------------
 
-def increment_visitor_count():
-    """Increments the visitor count (called once per session)."""
+def get_visitor_stats():
+    """
+    Fetches both Total and Daily visitor counts.
+    Returns: (total_count, daily_count)
+    """
     try:
         import requests
-        url = "https://api.counterapi.dev/v1/news-project-2026/visits/up"
-        resp = requests.get(url, timeout=3)
-        if resp.status_code == 200:
-            return resp.json().get("count", 0)
+        from datetime import datetime
+        
+        namespace = "today-thailand-app"
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        
+        # Keys
+        key_total = f"total"
+        key_daily = f"date_{today_str}"
+        
+        # 1. Get Total
+        total_val = 0
+        try:
+            url_total = f"https://api.counterapi.dev/v1/{namespace}/{key_total}"
+            r1 = requests.get(url_total, timeout=2)
+            if r1.status_code == 200:
+                total_val = r1.json().get("count", 0)
+        except: pass
+        
+        # 2. Get Daily
+        daily_val = 0
+        try:
+            url_daily = f"https://api.counterapi.dev/v1/{namespace}/{key_daily}"
+            r2 = requests.get(url_daily, timeout=2)
+            if r2.status_code == 200:
+                daily_val = r2.json().get("count", 0)
+        except: pass
+            
+        return total_val, daily_val
+        
     except:
-        pass
-    return 0
+        return 0, 0
+
+def increment_visitor_stats():
+    """
+    Increments both Total and Daily counts (once per session).
+    Returns: (new_total, new_daily)
+    """
+    try:
+        import requests
+        from datetime import datetime
+        
+        namespace = "today-thailand-app"
+        today_str = datetime.now().strftime("%Y-%m-%d")
+        
+        # Keys
+        key_total = f"total"
+        key_daily = f"date_{today_str}"
+        
+        # 1. Hit Total (+1)
+        total_val = 0
+        try:
+            url_total = f"https://api.counterapi.dev/v1/{namespace}/{key_total}/up"
+            r1 = requests.get(url_total, timeout=2)
+            if r1.status_code == 200:
+                total_val = r1.json().get("count", 0)
+        except: pass
+        
+        # 2. Hit Daily (+1)
+        daily_val = 0
+        try:
+            url_daily = f"https://api.counterapi.dev/v1/{namespace}/{key_daily}/up"
+            r2 = requests.get(url_daily, timeout=2)
+            if r2.status_code == 200:
+                daily_val = r2.json().get("count", 0)
+        except: pass
+        
+        return total_val, daily_val
+        
+    except:
+        return 0, 0
