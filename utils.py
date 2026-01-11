@@ -4,6 +4,9 @@ from datetime import datetime, timedelta
 import time
 import json
 import os
+import requests
+import re
+from bs4 import BeautifulSoup
 
 
 # Helper: Check if article is within last N days
@@ -392,8 +395,7 @@ def get_air_quality(token):
     
     return None
 
-import requests
-from bs4 import BeautifulSoup
+
 
 def fetch_thai_events():
     """

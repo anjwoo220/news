@@ -1696,7 +1696,10 @@ else:
         
         if valid_dates:
             min_date = min(valid_dates)
-            max_date = datetime.today().date() # Limit picker to today
+            data_max = max(valid_dates)
+            today_date = datetime.today().date()
+            # Safety: Ensure max_date is the LATER of server-today or data-latest
+            max_date = max(today_date, data_max) 
         else:
             min_date = max_date = datetime.today().date()
         
@@ -1720,6 +1723,9 @@ else:
                     curr_date_obj = datetime.strptime(st.session_state["selected_date_str"], "%Y-%m-%d").date()
                 except:
                     curr_date_obj = datetime.today().date()
+                
+                # Double safety: clamp to valid range to prevent StreamlitAPIException
+                curr_date_obj = max(min_date, min(max_date, curr_date_obj))
 
                 new_date = st.date_input(
                     "📅 날짜 선택", 
