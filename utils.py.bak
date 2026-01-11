@@ -733,30 +733,13 @@ def fetch_trend_hunter_items(api_key, existing_links=None):
         
     seen_links = set() # Local deduplication
     
-    # Target Domains (Loaded from sources.json)
-    SOURCES_FILE = 'data/sources.json'
-    targets = []
-    
-    # 1. Try Loading from File
-    if os.path.exists(SOURCES_FILE):
-        try:
-            with open(SOURCES_FILE, 'r', encoding='utf-8') as f:
-                s_data = json.load(f)
-                if s_data.get('magazine_targets'):
-                    # Filter enabled only
-                    targets = [t for t in s_data['magazine_targets'] if t.get('enabled', True)]
-        except Exception as e:
-            print(f"Error loading sources.json: {e}")
-            
-    # 2. Fallback if empty (Hardcoded defaults)
-    if not targets:
-        print("Using default magazine targets (Fallback).")
-        targets = [
-            {"name": "Wongnai", "domain": "wongnai.com", "tag": "[맛집랭킹]"},
-            {"name": "Chillpainai", "domain": "chillpainai.com", "tag": "[로컬여행]"},
-            {"name": "BK Magazine", "domain": "bk.asia-city.com", "tag": "[방콕라이프]"},
-            {"name": "The Smart Local", "domain": "thesmartlocal.co.th", "tag": "[MZ핫플]"}
-        ]
+    # Target Domains
+    targets = [
+        {"name": "Wongnai", "domain": "wongnai.com", "tag": "[맛집랭킹]"},
+        {"name": "Chillpainai", "domain": "chillpainai.com", "tag": "[로컬여행]"},
+        {"name": "BK Magazine", "domain": "bk.asia-city.com", "tag": "[방콕라이프]"},
+        {"name": "The Smart Local", "domain": "thesmartlocal.co.th", "tag": "[MZ핫플]"}
+    ]
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'

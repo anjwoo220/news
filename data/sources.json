@@ -1,0 +1,45 @@
+{
+    "magazine_targets": [
+        {
+            "name": "Wongnai",
+            "domain": "wongnai.com",
+            "tag": "맛집랭킹",
+            "enabled": true
+        },
+        {
+            "name": "The Smart Local",
+            "domain": "thesmartlocal.co.th",
+            "tag": "MZ핫플",
+            "enabled": true
+        },
+        {
+            "name": "BK Magazine",
+            "domain": "bk.asia-city.com",
+            "tag": "방콕라이프",
+            "enabled": true
+        },
+        {
+            "name": "Chillpainai",
+            "domain": "chillpainai.com",
+            "tag": "로컬여행",
+            "enabled": true
+        }
+    ],
+    "event_keywords": [
+        {
+            "keyword": "Tomorrowland Thailand",
+            "category": "Festival",
+            "enabled": true
+        },
+        {
+            "keyword": "Rolling Loud Thailand",
+            "category": "Concert",
+            "enabled": true
+        },
+        {
+            "keyword": "Songkran 2026",
+            "category": "Festival",
+            "enabled": true
+        }
+    ]
+}

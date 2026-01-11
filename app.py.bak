@@ -5,9 +5,9 @@ import utils
 from datetime import datetime
 import plotly.express as px
 from collections import Counter
+import time
 import hashlib
 import html
-import pandas as pd
 
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
@@ -440,7 +440,7 @@ if app_mode == "Admin Console":
         
         # Tabs for better organization
         # Tabs for better organization
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🌴 매거진 관리", "⚙️ 소스 관리"])
+        tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🌴 매거진 관리"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -714,30 +714,13 @@ if app_mode == "Admin Console":
             with st.expander("🤖 키워드 기반 자동 수집 (Beta)", expanded=False):
                 st.caption("구글 뉴스에서 초대형 페스티벌 정보를 자동으로 찾습니다.")
                 
-                
-                # Load Keywords from sources.json (Robust Loading)
-                SOURCES_FILE = 'data/sources.json'
-                
-                # Default fallback
                 default_keywords = [
                     "Rolling Loud Thailand 2026",
                     "Tomorrowland Thailand",
-                    "Summer Sonic Bangkok", 
+                    "Summer Sonic Bangkok",
                     "Creamfields Thailand",
                     "Songkran Festival 2026"
                 ]
-
-                # Try loading custom sources
-                if os.path.exists(SOURCES_FILE):
-                     try:
-                         with open(SOURCES_FILE, 'r', encoding='utf-8') as f:
-                             s_data = json.load(f)
-                             if s_data.get('event_keywords'):
-                                 # Use enabled keywords
-                                 custom_kws = [k['keyword'] for k in s_data['event_keywords'] if k.get('enabled', True)]
-                                 if custom_kws:
-                                     default_keywords = custom_kws
-                     except: pass
                 
                 kw_input = st.text_area("수집 키워드 (줄바꿈으로 구분)", value="\n".join(default_keywords), height=100)
                 kw_list = [k.strip() for k in kw_input.split('\n') if k.strip()]
@@ -1032,79 +1015,7 @@ if app_mode == "Admin Console":
                             st.rerun()
 
 
-        # --- Tab 8: Source Manager ---
-        with tab8:
-            st.subheader("⚙️ 크롤링 소스 관리 (Source Manager)")
-            st.info("크롤링 대상 사이트와 검색 키워드를 관리합니다. 변경 후 반드시 '저장' 버튼을 눌러주세요.")
-            
-            SOURCES_FILE = 'data/sources.json'
-            sources_data = load_json(SOURCES_FILE)
-            
-            if not sources_data:
-                sources_data = {"magazine_targets": [], "event_keywords": []}
-                
-            # 1. Magazine Targets
-            st.markdown("#### 1. 🌴 매거진 타겟 (Magazine Targets)")
-            st.caption("활성화(Enabled)된 소스만 '매거진 수집' 시 크롤링합니다.")
-            
-            mag_df = pd.DataFrame(sources_data.get('magazine_targets', []))
-            
-            # Configure Column Config
-            mag_edited = st.data_editor(
-                mag_df,
-                num_rows="dynamic",
-                column_config={
-                    "enabled": st.column_config.CheckboxColumn("활성", default=True),
-                    "name": st.column_config.TextColumn("표시명", required=True),
-                    "domain": st.column_config.TextColumn("도메인 (Domain)", required=True),
-                    "tag": st.column_config.TextColumn("태그 (Badge)", required=True),
-                },
-                use_container_width=True,
-                key="editor_magazine"
-            )
-            
-            st.divider()
-            
-            # 2. Event Keywords
-            st.markdown("#### 2. 🎉 빅매치/이벤트 키워드 (Event Keywords)")
-            st.caption("여기서 '활성' 체크된 키워드들이 '이벤트 수집' 시 기본값으로 사용됩니다.")
-            
-            evt_df = pd.DataFrame(sources_data.get('event_keywords', []))
-            
-            evt_edited = st.data_editor(
-                evt_df,
-                num_rows="dynamic",
-                column_config={
-                    "enabled": st.column_config.CheckboxColumn("활성", default=True),
-                    "keyword": st.column_config.TextColumn("검색 키워드", required=True),
-                    "category": st.column_config.SelectColumn("분류", options=["Concert", "Festival", "Exhibition", "Sports"], required=True),
-                },
-                use_container_width=True,
-                key="editor_events"
-            )
-            
-            st.markdown("---")
-            
-            # Save Button
-            if st.button("💾 변경사항 저장 (Save Changes)", type="primary"):
-                # Convert DF back to list of dicts
-                updated_mag = mag_edited.to_dict(orient="records")
-                updated_evt = evt_edited.to_dict(orient="records")
-                
-                new_sources = {
-                    "magazine_targets": updated_mag,
-                    "event_keywords": updated_evt
-                }
-                
-                save_json(SOURCES_FILE, new_sources)
-                
-                # Persistence
-                with st.spinner("GitHub에 저장 중..."):
-                    ok, msg = utils.push_changes_to_github([SOURCES_FILE], "Update Crawling Sources")
-                    if ok: st.toast("✅ 설정이 저장 및 동기화되었습니다.")
-                    else: st.error(f"저장 실패: {msg}")
-                
-                st.rerun()
+
         
 else:
     # --- Viewer Mode ---
