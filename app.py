@@ -16,7 +16,7 @@ BIG_EVENTS_FILE = 'data/big_events.json'
 TRENDS_FILE = 'data/trends.json'
 CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
-STATS_FILE = 'data/stats.json'
+
 DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
 st.set_page_config(page_title="오늘의 태국 - 뉴스 & 여행", page_icon="🇹🇭", layout="wide")
@@ -286,24 +286,23 @@ def save_json(file_path, data):
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
-# --- Visitor Counter Logic ---
-def update_visit_stats():
-    """Updates and returns visitor stats."""
-    stats = load_json(STATS_FILE, {"total_visits": 0, "daily_visits": {}})
-    
-    # Check session state to avoid double counting on interaction
-    if "visited" not in st.session_state:
-        st.session_state["visited"] = True
-        
-        # Update Counts
-        stats["total_visits"] += 1
-        today = datetime.now().strftime("%Y-%m-%d")
-        stats["daily_visits"][today] = stats["daily_visits"].get(today, 0) + 1
-        
-        save_json(STATS_FILE, stats)
-        
-    today = datetime.now().strftime("%Y-%m-%d")
-    return stats["total_visits"], stats["daily_visits"].get(today, 0)
+# --- Visitor Counter (Session + API) ---
+if 'visited_session' not in st.session_state:
+    # First visit in this session -> Increment
+    new_count = utils.increment_visitor_count()
+    st.session_state['visited_session'] = True
+    current_visits = new_count
+else:
+    # Already visited -> Just get current count
+    current_visits = utils.get_visitor_count()
+
+with st.sidebar:
+    st.markdown("---")
+    st.markdown(f"""
+    <div style="text-align: center; color: #666; font-size: 0.8em;">
+        👁️ Total Visitors: <b>{current_visits}</b>
+    </div>
+    """, unsafe_allow_html=True)
 
 # --- Comment System Helpers ---
 def generate_news_id(title):
@@ -432,9 +431,8 @@ if app_mode == "Admin Console":
             # Visitor Stats
             with col2:
                 st.markdown("#### 👥 방문자 현황")
-                total_v, today_v = update_visit_stats()
-                st.metric("총 방문자", f"{total_v:,}명")
-                st.metric("오늘 방문자", f"{today_v:,}명")
+                current_visits = utils.get_visitor_count()
+                st.metric("총 방문자 (API)", f"{current_visits:,}명")
 
         # --- Tab 2: News Management ---
         with tab2:
@@ -956,7 +954,7 @@ if app_mode == "Admin Console":
 else:
     # --- Viewer Mode ---
     # Visitor Counter Logic & UI (Main Header)
-    total_v, today_v = update_visit_stats()
+
     
     # --- Dark/Light Mode Toggle ---
     col_t1, col_t2 = st.columns([8, 2])
@@ -1291,24 +1289,7 @@ else:
             </style>
         """, unsafe_allow_html=True)
 
-    # Visitor Counter & Exchange Rate
-    # Dynamic Styling for Visitor Counter
-    if is_dark:
-        vc_bg = "#000000"
-        vc_text = "#ffffff"
-        vc_border = "1px solid #333"
-    else:
-        vc_bg = "#f0f2f6"
-        vc_text = "#31333F"
-        vc_border = "none"
 
-    st.markdown(f"""
-    <div style="text-align: right; margin-top: -30px; margin-bottom: 20px;">
-        <span style="background-color: {vc_bg}; color: {vc_text}; border: {vc_border}; padding: 4px 10px; border-radius: 4px; font-size: 0.8em;">
-            👀 Total: <b>{total_v:,}</b> / Today: <b>{today_v:,}</b>
-        </span>
-    </div>
-    """, unsafe_allow_html=True)
 
     # --- Top Widgets (Exchange Rate & Air Quality) ---
     col_w1, col_w2 = st.columns(2)

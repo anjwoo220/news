@@ -921,3 +921,32 @@ def push_changes_to_github(files_to_commit, commit_message):
     except Exception as e:
         return False, f"Error: {e}"
 
+
+# --------------------------------------------------------------------------------
+# Visitor Counter (counterapi.dev)
+# --------------------------------------------------------------------------------
+
+def get_visitor_count():
+    """Fetches the current visitor count."""
+    try:
+        import requests
+        # Namespace: news-project-2026, Key: visits
+        url = "https://api.counterapi.dev/v1/news-project-2026/visits"
+        resp = requests.get(url, timeout=3)
+        if resp.status_code == 200:
+            return resp.json().get("count", 0)
+    except:
+        pass
+    return 0
+
+def increment_visitor_count():
+    """Increments the visitor count (called once per session)."""
+    try:
+        import requests
+        url = "https://api.counterapi.dev/v1/news-project-2026/visits/up"
+        resp = requests.get(url, timeout=3)
+        if resp.status_code == 200:
+            return resp.json().get("count", 0)
+    except:
+        pass
+    return 0
