@@ -66,6 +66,29 @@ st.markdown("""
     [data-testid="stHeaderAction"] {
         display: none !important;
     }
+    
+    /* --- Tabs UI Improvement (Mobile Friendly) --- */
+    /* 1. Container Fix */
+    div[data-testid="stTabs"] {
+        gap: 0px;
+    }
+    
+    /* 2. Tab Button Styling */
+    div[data-testid="stTabs"] button {
+        white-space: nowrap;          /* Prevent Wrapping */
+        font-weight: 700 !important;  /* Bold Text */
+        font-size: 1.1rem;            /* Larger Font */
+        padding: 10px 15px;           /* Touch Area */
+        flex: 1 1 auto;               /* Even Distribution */
+    }
+
+    /* 3. Mobile Optimization (max-width: 600px) */
+    @media (max-width: 600px) {
+        div[data-testid="stTabs"] button {
+            font-size: 0.9rem;        /* Smaller Font on Mobile */
+            padding: 5px 10px;        /* Compact Padding */
+        }
+    }
     </style>
     """, unsafe_allow_html=True)
 
