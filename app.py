@@ -288,10 +288,21 @@ if app_mode == "Admin Console":
                             new_title = st.text_input("제목", topic['title'], key=f"edit_title_{selected_date_edit}_{i}")
                             new_summary = st.text_area("요약", topic['summary'], key=f"edit_sum_{selected_date_edit}_{i}")
                             
+                            # Category Editing
+                            categories = ["정치/사회", "경제", "여행/관광", "사건/사고", "엔터테인먼트", "기타"]
+                            current_cat = topic.get('category', "기타")
+                            if current_cat not in categories:
+                                categories.append(current_cat) # Keep original if not in list
+                            
+                            new_category = st.selectbox("카테고리", categories, 
+                                                      index=categories.index(current_cat), 
+                                                      key=f"edit_cat_{selected_date_edit}_{i}")
+                            
                             col_del, col_save = st.columns([1, 1])
                             if col_save.button("수정 저장", key=f"save_{selected_date_edit}_{i}"):
                                 topics[i]['title'] = new_title
                                 topics[i]['summary'] = new_summary
+                                topics[i]['category'] = new_category
                                 news_data[selected_date_edit] = topics
                                 save_json(NEWS_FILE, news_data)
                                 st.success("저장되었습니다.")
