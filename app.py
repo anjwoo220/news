@@ -8,6 +8,7 @@ from collections import Counter
 import hashlib
 import html
 import pandas as pd
+import time
 
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
