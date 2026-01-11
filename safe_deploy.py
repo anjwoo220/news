@@ -221,6 +221,15 @@ def main():
     # 4. Push
     print("\n4. Committing and Pushing to GitHub...")
     try:
+        # Force add data files to ensure they are tracked (if they exist)
+        files_to_add = []
+        for fpath in ["data/news.json", "data/events.json", "data/big_events.json", "data/trends.json"]:
+            if os.path.exists(fpath):
+                files_to_add.append(fpath)
+        
+        if files_to_add:
+            run_command(f"git add -f {' '.join(files_to_add)}")
+            
         run_command("git add .")
         try:
              run_command('git commit -m "Auto-Sync: News & Events"')

@@ -1,14 +1,146 @@
 [
-    {
-        "title": "2026 B.I 방콕 앙코르 콘서트",
-        "date": "2026-02-07",
-        "location": "Thunder Dome, Muang Thong Thani (ธันเดอร์โดม เมืองทองธานี)",
-        "region": "방콕",
-        "type": "콘서트",
-        "booking_date": "2026-01-10 10:00",
-        "price": "2,900 ~ 6,500 THB",
-        "source": "manual",
-        "image_url": "https://pbs.twimg.com/media/Gf2z6aZbMAA5zjv.jpg",
-        "link": "https://www.thaiticketmajor.com/concert/2026-bi-tour-the-last-parade-tour-encore-in-bangkok.html"
-    }
+  {
+    "title": "2026 B.I 방콕 앙코르 콘서트",
+    "date": "2026-02-07",
+    "location": "Thunder Dome, Muang Thong Thani (ธันเดอร์โดม เมืองทองธานี)",
+    "region": "방콕",
+    "type": "콘서트",
+    "booking_date": "2026-01-10 10:00",
+    "price": "2,900 ~ 6,500 THB",
+    "source": "manual",
+    "image_url": "https://pbs.twimg.com/media/Gf2z6aZbMAA5zjv.jpg",
+    "link": "https://www.thaiticketmajor.com/concert/2026-bi-tour-the-last-parade-tour-encore-in-bangkok.html"
+  },
+  {
+    "title": "Thailand Philharmonic Orchestra 2025 - 2026 (태국 필하모닉 오케스트라)",
+    "date": "2025-12-06 ~ 2026-09-05",
+    "location": "หอประชุมมหิดลสิทธาคาร มหาวิทยาลัยมหิดล ศาลายา (Mahidol University)",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0505/6505/thailand-philharmonic-orchestra-2025-2026-690482ab98a39-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/thailand-philharmonic-orchestra-2025-2026.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "Music @ Mahidol 2026-2027 (마히돌 음악 대학 콘서트)",
+    "date": "2026-01-06 ~ 2026-01-19",
+    "location": "หอแสดงดนตรี วิทยาลัยดุริยางคศิลป์ ม.มหิดล(ศาลายา) (College of Music, Mahidol University)",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0568/6568/music-at-mahidol-2026-6943ac6ff1dfa-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/music-at-mahidol-2026.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "อสงไขย The Final Episode (아송카이 마지막 에피소드)",
+    "date": "2026-01-17",
+    "location": "MAJOR CINEPLEX FASHION ISLAND CINEMA 2",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0569/6569/interminableTH-the-final-episode-6943d958bcca8-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/interminableTH-the-final-episode.html",
+    "booking_date": "TBD",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "Bangkok Music City 2026 (방콕 뮤직 시티)",
+    "date": "2026-01-24 ~ 2026-01-25",
+    "location": "Charoenkrung, Bangkok",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0527/6527/bangkok-music-city-2026-694224c42a058-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/bangkok-music-city-2026.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "RBSO 2026 : In Remembrance of Her Majesty Queen Sirikit The Queen Mother (시리킷 여왕 기념 콘서트)",
+    "date": "2026-01-30",
+    "location": "ศูนย์วัฒนธรรมแห่งประเทศไทย หอประชุมใหญ่ (Thailand Cultural Center)",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0571/6571/rbso-2026-in-remembrance-of-her-majesty-queen-sirikit-the-queen-mother-6949127f5ae37-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/rbso-2026-in-remembrance-of-her-majesty-queen-sirikit-the-queen-mother.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "LENA & MIU Born to Shine Fan Meeting (레나 & 미우 팬미팅)",
+    "date": "2026-02-01",
+    "location": "Phenix Grand Ballroom ชั้น 5",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0553/6553/lena-and-miu-born-to-shine-fan-meeting-693d1930b324b-l.jpg",
+    "link": "https://www.thaiticketmajor.com/concert/lena-and-miu-born-to-shine-fan-meeting.html",
+    "booking_date": "TBD",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "GIVEON - DEAR BELOVED THE TOUR (기븐 콘서트)",
+    "date": "2026-02-02",
+    "location": "ยูโอบี ไลฟ์, เอ็มสเฟียร์ (UOB Live, Emsphere)",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0533/6533/giveon-dear-beloved-the-tour-691d85c3a399d-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/giveon-dear-beloved-the-tour.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "Mikey's Afternoon Fiesta: The Solstice Birthday Party (마이키 생일 파티)",
+    "date": "2026-02-07",
+    "location": "PHENIX AUDITORIUM HALL ชั้น G โครงการฟีนิกซ์ ประตูน้ำ",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0565/6565/mikeys-afternoon-fiesta-the-solstice-birthday-party-69412dbf309f3-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/mikeys-afternoon-fiesta-the-solstice-birthday-party.html",
+    "booking_date": "TBD",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "2026 B.I TOUR: The Last Parade Tour ENCORE in BANGKOK (비아이 앙코르 콘서트)",
+    "date": "2026-02-07",
+    "location": "ธันเดอร์โดม เมืองทองธานี (Thunder Dome, Muang Thong Thani)",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0531/6531/2026-b-i-tour-the-last-parade-tour-encore-in-bangkok-695b8d1f6675f-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/2026-b-i-tour-the-last-parade-tour-encore-in-bangkok.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "Kazuya Kamenashi ''TALK to Me'' Fan Meeting ASIA TOUR 2026 in Bangkok (카메나시 카즈야 팬미팅)",
+    "date": "2026-02-07",
+    "location": "CentralwOrld PULSE, ชั้น 7 CentralwOrld",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0544/6544/kazuya-kamenashi-talk-to-me-fan-meeting-asia-tour-2026-in-bangkok-692527e94f960-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/kazuya-kamenashi-talk-to-me-fan-meeting-asia-tour-2026-in-bangkok.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "PRYVT 'BACK TO REALITY' World Tour (프라이빗 월드 투어)",
+    "date": "2026-02-08",
+    "location": "Lido Connect Hall 3",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0541/6541/pryvt-back-to-reality-world-tour-69201ebf8043c-l.jpg",
+    "link": "https://www.thaiticketmajor.com/concert/pryvt-back-to-reality-world-tour.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  },
+  {
+    "title": "GINNYJAYNA [ HEART TO HEART ] FANCON (지니제이나 팬콘)",
+    "date": "2026-02-14",
+    "location": "IDEA LIVE , BRAVO BKK",
+    "region": "방콕",
+    "image_url": "https://www.thaiticketmajor.com/img_poster/prefix_1/0572/6572/ginny-jayna-heart-to-heart-fancon-694e712466dee-l.png",
+    "link": "https://www.thaiticketmajor.com/concert/ginny-jayna-heart-to-heart-fancon.html",
+    "booking_date": "Now Open",
+    "price": "TBD",
+    "type": "콘서트"
+  }
 ]
