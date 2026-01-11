@@ -146,6 +146,33 @@ def main():
         if os.path.exists(REMOTE_EVENTS_FILE):
              os.remove(REMOTE_EVENTS_FILE)
 
+    # 3-B. Sync Big Events (big_events.json)
+    print("\n3-B. Syncing Big Match Data...")
+    BIG_EVENTS_FILE = 'data/big_events.json'
+    REMOTE_BIG_EVENTS_FILE = 'data/big_events_remote.json'
+    
+    has_remote_big = False
+    try:
+        content = run_command("git show origin/main:data/big_events.json")
+        with open(REMOTE_BIG_EVENTS_FILE, 'w', encoding='utf-8') as f:
+            f.write(content)
+        has_remote_big = True
+    except:
+        print("Remote big_events.json not found. Skipping.")
+
+    if has_remote_big:
+        local_big = load_json_generic(BIG_EVENTS_FILE, list)
+        remote_big = load_json_generic(REMOTE_BIG_EVENTS_FILE, list)
+        
+        # Reuse merge_events logic as structure is similar (Title/Date/etc)
+        merged_big, added_count = merge_events(local_big, remote_big)
+        
+        if added_count > 0:
+            print(f"✅ Restored {added_count} big events from remote!")
+            save_json(BIG_EVENTS_FILE, merged_big)
+        if os.path.exists(REMOTE_BIG_EVENTS_FILE):
+             os.remove(REMOTE_BIG_EVENTS_FILE)
+
     # 4. Push
     print("\n4. Committing and Pushing to GitHub...")
     try:

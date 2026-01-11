@@ -566,3 +566,88 @@ def extract_event_from_url(url, api_key):
         
     except Exception as e:
         return None, str(e)
+
+def fetch_big_events_by_keywords(keywords, api_key):
+    """
+    Crawls Google News RSS (Thailand Locale) for keywords and critically verifies details with Gemini.
+    """
+    import feedparser
+    import urllib.parse
+    
+    found_events = []
+    
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+
+    for kw in keywords:
+        print(f"Checking keyword: {kw}")
+        encoded_kw = urllib.parse.quote(kw)
+        # Use Thailand Locale (en-TH)
+        rss_url = f"https://news.google.com/rss/search?q={encoded_kw}&hl=en-TH&gl=TH&ceid=TH:en"
+        
+        feed = feedparser.parse(rss_url)
+        
+        # Check top 2 entries (efficient)
+        entries_to_check = feed.entries[:2]
+        if not entries_to_check:
+            continue
+            
+        # Aggregate text for analysis
+        combined_text = f"Target Event: {kw}\n"
+        for i, entry in enumerate(entries_to_check):
+            combined_text += f"[{i+1}] Title: {entry.title}\nLink: {entry.link}\nSummary: {entry.get('summary','')}\nPubDate: {entry.get('published','')}\n\n"
+            
+        prompt = f"""
+        Analyze these news search results for the event "{kw}" in Thailand.
+        
+        News Content:
+        {combined_text}
+        
+        Goal: Determine if there is CONFIRMED information about the NEXT event date and venue.
+        
+        CRITICAL VALIDATION RULES:
+        1. **CONFIRMED ONLY**: Do NOT extract if it's just a "rumor", "expected to be", "in talks", or from a past year.
+        2. **Future Only**: Date must be in the future (2025-2027).
+        3. **Specifics**: You must find BOTH a specific date (or confirmed month) AND a venue/city.
+        
+        If the event is NOT confirmed or is just a rumor:
+        Return JSON: {{ "found": false, "reason": "Just a rumor or no data" }}
+
+        If CONFIRMED:
+        Return JSON:
+        {{
+            "found": true,
+            "title": "Event Name (Korean)",
+            "date": "YYYY-MM-DD or Range",
+            "location": "Venue Name",
+            "booking_date": "Ticket Open Date or 'TBD'",
+            "price": "Price or 'TBD'",
+            "status": "개최확정", 
+            "link": "Best Link URL from the news",
+            "description": "1 line confirmed summary in Korean"
+        }}
+        """
+        
+        try:
+            response = model.generate_content(prompt)
+            text = response.text.strip()
+            if "```json" in text:
+                text = text.replace("```json", "").replace("```", "")
+            if text.startswith("```"):
+                text = text.replace("```", "")
+                
+            data = json.loads(text)
+            
+            if data.get('found'):
+                # Basic validation
+                if '201' in data.get('date',''): 
+                     pass
+                else:
+                    found_events.append(data)
+            else:
+                print(f" -> {kw}: Not confirmed ({data.get('reason')})")
+                    
+        except Exception as e:
+            print(f"Error analyzing {kw}: {e}")
+            
+    return found_events

@@ -597,6 +597,52 @@ if app_mode == "Admin Console":
             st.markdown("### 2. 빅매치/페스티벌 관리 (big_events.json)")
             big_events_data = load_json(BIG_EVENTS_FILE, [])
 
+            # --- Keyword Auto Crawler (New) ---
+            with st.expander("🤖 키워드 기반 자동 수집 (Beta)", expanded=False):
+                st.caption("구글 뉴스에서 초대형 페스티벌 정보를 자동으로 찾습니다.")
+                
+                default_keywords = [
+                    "Rolling Loud Thailand 2026",
+                    "Tomorrowland Thailand",
+                    "Summer Sonic Bangkok",
+                    "Creamfields Thailand",
+                    "Songkran Festival 2026"
+                ]
+                
+                kw_input = st.text_area("수집 키워드 (줄바꿈으로 구분)", value="\n".join(default_keywords), height=100)
+                kw_list = [k.strip() for k in kw_input.split('\n') if k.strip()]
+                
+                if st.button("🚀 키워드 기반 정보 업데이트 (30초 소요)"):
+                    with st.spinner(f"{len(kw_list)}개 키워드로 정보를 수집 중입니다..."):
+                        api_key = os.environ.get("GEMINI_API_KEY")
+                        if not api_key:
+                            try:
+                                import toml
+                                secrets = toml.load(".streamlit/secrets.toml")
+                                api_key = secrets.get("GEMINI_API_KEY")
+                            except: pass
+                        
+                        if not api_key:
+                            st.error("API Key Not Found")
+                        else:
+                            found_items = utils.fetch_big_events_by_keywords(kw_list, api_key)
+                            
+                            new_count = 0
+                            for item in found_items:
+                                # Check duplicate (Simple Title Check)
+                                if not any(existing.get('title') == item.get('title') for existing in big_events_data):
+                                    big_events_data.insert(0, item)
+                                    new_count += 1
+                            
+                            save_json(BIG_EVENTS_FILE, big_events_data)
+                            
+                            if new_count > 0:
+                                st.success(f"{new_count}개의 새로운 이벤트를 발견하여 추가했습니다!")
+                                time.sleep(1)
+                                st.rerun()
+                            else:
+                                st.info("새로운 정보를 찾지 못했습니다. (이미 등록됨 or 정보 없음)")
+
             # --- AI Auto Registration (New) ---
             with st.expander("🔗 AI 자동 등록 (URL 분석)", expanded=True):
                 st.caption("링크만 넣으면 AI가 정보를 추출해서 등록합니다. (Ticketmelon, 뉴스, 페북 등)")
