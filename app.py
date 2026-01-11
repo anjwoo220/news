@@ -1077,7 +1077,7 @@ if app_mode == "Admin Console":
                 column_config={
                     "enabled": st.column_config.CheckboxColumn("활성", default=True),
                     "keyword": st.column_config.TextColumn("검색 키워드", required=True),
-                    "category": st.column_config.SelectColumn("분류", options=["Concert", "Festival", "Exhibition", "Sports"], required=True),
+                    "category": st.column_config.SelectboxColumn("분류", options=["Concert", "Festival", "Exhibition", "Sports"], required=True),
                 },
                 use_container_width=True,
                 key="editor_events"
