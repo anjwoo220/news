@@ -147,13 +147,22 @@ def is_event_active(date_str):
     1. Date string is valid and >= Today.
     2. Date string contains a range, and end date >= Today.
     3. Date string is ambiguous but not clearly in the past.
-    Returns False if event is definitely in the past.
+    Returns False if event is definitely in the past or too old (e.g., < 2024).
     """
     if not date_str:
         return True # Keep if no date
 
     try:
         today = datetime.now().date()
+        current_year = today.year
+        
+        # Quick Check for obviously old years in string
+        # If "2017", "2018" etc found, reject immediately
+        for old_year in range(2015, current_year):
+            if str(old_year) in date_str:
+                return False
+
+        # Clean string
         
         # Clean string
         clean_date = date_str.replace('.', '-').strip()
@@ -996,24 +1005,66 @@ else:
         except Exception as e:
             st.error(f"AQI Error")
 
-    # --- Top Navigation (Replaces Sidebar) ---
+    # --- Navigation Logic (Dual Node: Sidebar & Top Pills) ---
+    
+    # Init Session State for Nav
+    if "nav_mode" not in st.session_state:
+        st.session_state["nav_mode"] = "📰 뉴스 브리핑"
+
+    # Callbacks to keep them in sync
+    def update_from_sidebar():
+        st.session_state["nav_mode"] = st.session_state["nav_sidebar"]
+        
+    def update_from_top():
+        st.session_state["nav_mode"] = st.session_state["nav_top"]
+
+    # 1. Top Navigation (Pills)
     st.write("") # Spacer
     nav_options = ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플"]
     
-    # Use pills if available, else radio horizontal
-    try:
-        page_mode = st.pills("이동", nav_options, selection_mode="single", default="📰 뉴스 브리핑", label_visibility="collapsed")
-    except AttributeError:
-        # Fallback for older streamlit versions
-        page_mode = st.radio("이동", nav_options, horizontal=True, label_visibility="collapsed")
-        
-    if not page_mode:
-        page_mode = "📰 뉴스 브리핑"
+    # Determine default index/selection from state
+    current_mode = st.session_state["nav_mode"]
+    if current_mode not in nav_options: current_mode = nav_options[0]
 
-    # --- Sidebar (Admin Only Mostly) ---
+    try:
+        # Note: 'default' only works on init. We use 'key' to bind state? 
+        # Actually st.pills with a key binds to that key in session_state.
+        # But we want to separate widget keys to avoid duplicate id errors if we used same key.
+        # So we use different keys and sync them.
+        
+        # However, updating one widget's key in session state from another's callback 
+        # is the standard way to sync.
+        
+        # If we manually set nav_top/nav_sidebar in state before render, it updates the widget.
+        if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
+             st.session_state["nav_top"] = current_mode
+             
+        st.pills("이동", nav_options, selection_mode="single", 
+                key="nav_top", on_change=update_from_top, label_visibility="collapsed")
+                
+    except AttributeError:
+        # Fallback
+        if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
+             st.session_state["nav_top"] = current_mode
+             
+        st.radio("이동", nav_options, horizontal=True, 
+                key="nav_top", on_change=update_from_top, label_visibility="collapsed")
+
+    # 2. Sidebar Navigation (Restored for PC users)
     with st.sidebar:
-        # Sidebar is now cleaner, mostly for admin login or future expansion
-        pass
+        st.markdown("### 📌 메뉴 선택")
+        
+        # Sync state to widget
+        if "nav_sidebar" not in st.session_state or st.session_state["nav_sidebar"] != current_mode:
+            st.session_state["nav_sidebar"] = current_mode
+            
+        st.radio("이동", nav_options, 
+                key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
+    
+    # Use the master state for rendering
+    page_mode = st.session_state["nav_mode"]
+
+    # --- Page 1: News ---
     
     # --- Page 1: News ---
     if page_mode == "📰 뉴스 브리핑":
@@ -1300,6 +1351,16 @@ else:
                 else:
                     filtered_events = events
                     
+                # Share Text Generation for Events
+                with st.expander("📋 여행 정보 공유 텍스트 복사"):
+                    share_event_text = f"[🇹🇭 오늘의 태국 - 여행/핫플]\n\n"
+                    for idx, event in enumerate(filtered_events[:10]): # Limit to top 10
+                         share_event_text += f"{idx+1}. {event.get('title','?')}\n"
+                         share_event_text += f"   🗓 {event.get('date','')}\n"
+                         share_event_text += f"   📍 {event.get('location','')}\n\n"
+                    share_event_text += f"👉 더 보기: {DEPLOY_URL}"
+                    st.code(share_event_text, language="text")
+
                 st.write(f"총 {len(filtered_events)}개의 행사가 있습니다.")
 
                 # 2 Columns Grid

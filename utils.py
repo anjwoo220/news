@@ -455,7 +455,8 @@ def fetch_thai_events():
         Rules:
         1. Select 8-12 diverse items (Mix of Concerts, Festivals, Exhibitions).
         2. CRITICAL: EXCLUDE events that ended BEFORE {today_str}. Only show current or future events.
-        3. Prefer events happening soon (next 45 days).
+        3. CRITICAL: If you see a date from a past year (e.g. 2024 if today is 2026, or 2017, 2018...), IGNORE IT. Do not output old events.
+        4. Prefer events happening soon (next 45 days).
         3. Ensure image_url is absolute.
         4. Output strictly JSON.
         
