@@ -334,7 +334,7 @@ if config_data.get("notice", {}).get("enabled"):
     st.info(config_data["notice"]["text"], icon="📢")
 
 # Sidebar
-st.sidebar.title("🗂️ 오늘의 태국")
+st.sidebar.markdown("### 🗂️ 오늘의 태국")
 
 # Mode Selection
 # Mode Selection Logic (Secret Door)
@@ -996,10 +996,24 @@ else:
         except Exception as e:
             st.error(f"AQI Error")
 
-    # --- Sidebar Navigation ---
+    # --- Top Navigation (Replaces Sidebar) ---
+    st.write("") # Spacer
+    nav_options = ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플"]
+    
+    # Use pills if available, else radio horizontal
+    try:
+        page_mode = st.pills("이동", nav_options, selection_mode="single", default="📰 뉴스 브리핑", label_visibility="collapsed")
+    except AttributeError:
+        # Fallback for older streamlit versions
+        page_mode = st.radio("이동", nav_options, horizontal=True, label_visibility="collapsed")
+        
+    if not page_mode:
+        page_mode = "📰 뉴스 브리핑"
+
+    # --- Sidebar (Admin Only Mostly) ---
     with st.sidebar:
-        st.markdown("### 📌 메뉴 선택")
-        page_mode = st.radio("이동", ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플"], label_visibility="collapsed")
+        # Sidebar is now cleaner, mostly for admin login or future expansion
+        pass
     
     # --- Page 1: News ---
     if page_mode == "📰 뉴스 브리핑":
