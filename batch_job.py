@@ -92,11 +92,35 @@ def main():
     all_news_items = utils.fetch_and_filter_rss(feeds)
     print(f"Total items fetched: {len(all_news_items)}")
     
-    # 3. Filter Duplicates (Strict Check)
+    # 3. Filter Duplicates (Strict Check + ID Match)
+    processed_ids = set()
+    for url in processed_urls:
+        if 'bangkokpost.com' in url:
+            parts = url.split('/')
+            for p in parts:
+                if p.isdigit() and len(p) >= 6: # IDs are around 7 digits
+                    processed_ids.add(p)
+
     new_items = []
     for item in all_news_items:
-        if item['link'] not in processed_urls:
-            new_items.append(item)
+        # 1. Exact Link Match
+        if item['link'] in processed_urls:
+            continue
+        
+        # 2. ID Match (Bangkok Post)
+        if 'bangkokpost.com' in item['link']:
+            is_dup_id = False
+            parts = item['link'].split('/')
+            for p in parts:
+                if p.isdigit() and len(p) >= 6:
+                    if p in processed_ids:
+                        is_dup_id = True
+                        break
+            if is_dup_id:
+                print(f"Duplicate ID found, skipping: {item['title']}")
+                continue
+
+        new_items.append(item)
     print(f"Items after duplicate check: {len(new_items)}")
 
     if not new_items:
