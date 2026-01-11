@@ -549,6 +549,43 @@ if app_mode == "Admin Console":
             # 6-A. General Events (events.json)
             st.markdown("### 1. 일반 이벤트 관리 (events.json)")
             events_data = load_json(EVENTS_FILE, [])
+
+            # --- AI Auto Registration (General) ---
+            with st.expander("🔗 AI 일반 이벤트 등록 (URL 분석)", expanded=True):
+                st.caption("뉴스 기사, 티켓멜론 등 URL을 입력하면 자동으로 정보를 추출합니다.")
+                gen_url = st.text_input("일반 이벤트 URL", placeholder="https://...", key="gen_event_url")
+                
+                if st.button("✨ 분석 및 일반 등록", key="btn_gen_ai"):
+                    if not gen_url:
+                        st.error("URL을 입력해주세요.")
+                    else:
+                        with st.spinner("AI가 분석 중입니다..."):
+                            api_key = os.environ.get("GEMINI_API_KEY")
+                            if not api_key:
+                                try:
+                                    import toml
+                                    secrets = toml.load(".streamlit/secrets.toml")
+                                    api_key = secrets.get("GEMINI_API_KEY")
+                                except: pass
+                            
+                            if api_key:
+                                new_data, err = utils.extract_event_from_url(gen_url, api_key)
+                                if err:
+                                    st.error(f"오류: {err}")
+                                elif new_data:
+                                    # Ensure defaults for General Events
+                                    if not new_data.get('type'): new_data['type'] = '기타'
+                                    if not new_data.get('region'): new_data['region'] = '기타'
+                                    
+                                    events_data.insert(0, new_data)
+                                    save_json(EVENTS_FILE, events_data)
+                                    st.success(f"추가 성공! [{new_data['title']}]")
+                                    time.sleep(1)
+                                    st.rerun()
+                                else:
+                                    st.error("데이터 추출 실패")
+                            else:
+                                st.error("API 키 없음")
             if not events_data:
                 st.warning("등록된 일반 이벤트가 없습니다.")
             else:
@@ -1530,8 +1567,30 @@ else:
         # --- Big Match Section ---
         big_events = load_json(BIG_EVENTS_FILE, [])
         
-        # User View: Handle Empty State
-        if not big_events:
+        # User View: Filter for Confirmed Events Only
+        # Hide if status is vague or date is TBD
+        visible_big_events = []
+        confirmed_keywords = ['개최확정', '티켓오픈', '매진', '판매중', 'd-', 'confirmed', 'ticket open']
+        
+        for e in big_events:
+            status = e.get('status', '').lower()
+            date_str = e.get('date', '').lower()
+            
+            # 1. Status Check (Positive List)
+            is_confirmed_status = any(k in status for k in confirmed_keywords)
+            
+            # 2. Negative Check (Explicit TBD)
+            is_tbd = '미정' in date_str or 'tbd' in date_str or '미정' in status
+            
+            if is_confirmed_status and not is_tbd:
+                visible_big_events.append(e)
+            # Exception: If specifically set to something unambiguous manually without standard key, allow if date is valid
+            elif not is_tbd and len(date_str) > 4: 
+                 # e.g. status="Coming Soon" but Date="2025-12-12" -> Allow
+                 visible_big_events.append(e)
+
+        # Handle Empty State
+        if not visible_big_events:
             with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
                  st.info("📢 현재 확정된 대형 이벤트 정보를 집계 중입니다. 빠른 시일 내에 업데이트됩니다!")
                  
@@ -1554,7 +1613,7 @@ else:
                 # Render Cards (Horizontal Scroll-ish or Columns)
                 # Streamlit columns wrap, so 2 per row is good
                 b_cols = st.columns(2)
-                for idx, event in enumerate(big_events):
+                for idx, event in enumerate(visible_big_events):
                     with b_cols[idx % 2]:
                         with st.container(border=True):
                             # Layout: [Image] [Title/D-Day]
@@ -1570,6 +1629,13 @@ else:
                                 st.markdown(f"**{event['title']}**")
                                 st.caption(f"🗓 {event['date']} ({d_day})")
                                 st.caption(f"📍 {event['location']}")
+                                
+                                # New: Details
+                                if event.get('booking_date'):
+                                    st.markdown(f"🎟 **예매:** {event['booking_date']}")
+                                if event.get('price'):
+                                    st.markdown(f"💰 **가격:** {event['price']}")
+                                    
                                 st.markdown(f"🎫 **{event.get('status','정보없음')}**")
                                 if event.get('link') and event['link'] != "#":
                                     st.link_button("공식 사이트 🔗", event['link'])

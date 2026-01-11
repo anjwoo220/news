@@ -448,8 +448,8 @@ def fetch_thai_events():
                 "region": "방콕/치앙마이/푸켓/파타야/기타",
                 "image_url": "Full URL of the event poster/image",
                 "link": "Full URL to booking page or article",
-                "booking_date": "YYYY-MM-DD or 'Now Open' or 'TBD' (Ticket Open Date)",
-                "price": "1000 THB~ or 'Free' (Ticket Price Info)",
+                "booking_date": "YYYY-MM-DD HH:MM (Ticket Open Time) or 'Now Open' or 'TBD'",
+                "price": "Exact Price (e.g. '3,000 THB') or range",
                 "type": "축제" or "콘서트" or "전시" or "기타"
             }}
         ]
@@ -533,8 +533,10 @@ def extract_event_from_url(url, api_key):
             "title": "Event Name (Korean, e.g. '롤링라우드 태국 2024')",
             "date": "YYYY-MM-DD or Range (e.g. '2024-11-22 ~ 11-24')",
             "location": "Venue Name (Korean/English)",
-            "booking_date": "Ticket Open Date (YYYY-MM-DD) or 'Now Open'",
-            "price": "Price Range (e.g. '3000 THB~')",
+            "region": "One of: ['방콕', '파타야', '치앙마이', '푸켓', '기타']",
+            "type": "One of: ['축제', '콘서트', '전시', '클럽/파티', '기타']",
+            "booking_date": "Ticket Open Date (YYYY-MM-DD HH:MM) or 'Now Open'",
+            "price": "Exact Price (e.g. '3,000 THB') or Range",
             "status": "One of: ['티켓오픈', '개최확정', '매진', '정보없음']",
             "image_url": "Use existing OG Image if valid, or find one in text. If none, return empty string.",
             "description": "1 line summary in Korean"
@@ -620,8 +622,8 @@ def fetch_big_events_by_keywords(keywords, api_key):
             "title": "Event Name (Korean)",
             "date": "YYYY-MM-DD or Range",
             "location": "Venue Name",
-            "booking_date": "Ticket Open Date or 'TBD'",
-            "price": "Price or 'TBD'",
+            "booking_date": "Ticket Open Date (YYYY-MM-DD HH:MM) or 'TBD'",
+            "price": "Exact Price (e.g. '3,000 THB') or Range",
             "status": "개최확정", 
             "link": "Best Link URL from the news",
             "description": "1 line confirmed summary in Korean"
