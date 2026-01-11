@@ -182,7 +182,11 @@ def main():
         except:
              print("No changes to commit from sync.")
 
-        run_command("git pull --rebase origin main")
+        # CRITICAL: Use -Xtheirs to ensure OUR local (merged) version wins in rebase conflicts.
+        # We have already manually merged the data content in Python, so our file is the source of truth.
+        print("Pulling with rebase (preferring local changes)...")
+        run_command("git pull --rebase -Xtheirs origin main")
+        
         run_command("git push origin main")
         print("\n🎉 Deployment Complete! Local and Remote are synced.")
     except Exception as e:
