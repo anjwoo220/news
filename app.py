@@ -979,7 +979,10 @@ else:
         st.divider()
         st.header(header_text)
         
-        if not filtered_topics:
+        # Empty State for Selected Date (Today)
+        if not daily_topics and not search_query:
+             st.info("😴 아직 업데이트된 뉴스가 없습니다. (잠시 후 다시 확인해주세요)", icon="⏳")
+        elif not filtered_topics:
             st.info("조건에 맞는 뉴스가 없습니다.")
         
         for topic in filtered_topics:
@@ -991,13 +994,7 @@ else:
                 time_display = topic.get('collected_at', '')
                 meta_info = f"{date_display} {time_display}".strip()
                 
-            st.warning("삭제되었습니다.") # Placeholder for deletion logic if moved
-            
-    # Empty State for Selected Date
-    if not daily_topics and not search_query:
-         st.divider()
-         st.header(header_text)
-         st.info("😴 아직 업데이트된 뉴스가 없습니다. (잠시 후 다시 확인해주세요)", icon="⏳")
+                st.markdown(f"**🏷️ {cat_text}** <span style='color:grey'> | 🕒 {meta_info}</span>", unsafe_allow_html=True)
                 
                 st.subheader(f"{topic['title']}")
                 
