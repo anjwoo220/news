@@ -65,8 +65,10 @@ st.markdown("""
 
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
+# Separate cache for heavy news data
+# Update cache on file change by passing mtime
 @st.cache_data(ttl=600)
-def load_news_data():
+def load_news_data(last_updated):
     if os.path.exists(NEWS_FILE):
         with open(NEWS_FILE, 'r', encoding='utf-8') as f:
             try:
@@ -883,7 +885,11 @@ else:
     col_date, col_search = st.columns([1, 2], gap="small")
     
     # Data Preparation for Date Picker
-    news_data = load_news_data()
+    try:
+        mtime = os.path.getmtime(NEWS_FILE)
+    except:
+        mtime = 0
+    news_data = load_news_data(mtime)
     all_dates_str = sorted(news_data.keys())
     valid_dates = []
     for d_str in all_dates_str:
@@ -950,7 +956,11 @@ else:
     all_comments_data = get_all_comments()
 
     if search_query:
-        news_data = load_news_data()
+        try:
+            mtime = os.path.getmtime(NEWS_FILE)
+        except:
+            mtime = 0
+        news_data = load_news_data(mtime)
         found_topics = []
         for d, topics in news_data.items():
             for t in topics:
@@ -963,7 +973,11 @@ else:
         header_text = f"🔍 '{search_query}' 검색 결과 (총 {len(found_topics)}건)"
         
     elif selected_date:
-        news_data = load_news_data()
+        try:
+            mtime = os.path.getmtime(NEWS_FILE)
+        except:
+            mtime = 0
+        news_data = load_news_data(mtime)
         if selected_date in news_data:
             daily_topics = news_data[selected_date]
             daily_topics = list(reversed(daily_topics))
