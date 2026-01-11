@@ -1,47 +1,61 @@
 [
-    {
-        "title": "투모로우랜드 태국 (Tomorrowland Thailand)",
-        "date": "2026 (예정)",
-        "location": "태국 (장소 미정)",
-        "status": "개최 확정 (Rumor)",
-        "link": "https://www.tomorrowland.com",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Tomorrowland_Logo.svg/1200px-Tomorrowland_Logo.svg.png",
-        "description": "세계 최대 EDM 페스티벌의 첫 태국 상륙 예정!"
-    },
-    {
-        "title": "롤링라우드 태국 2024 (Rolling Loud Thailand)",
-        "date": "2024-11-22 ~ 11-24",
-        "location": "Legend Siam Pattaya",
-        "status": "개최 확정",
-        "link": "https://www.rollingloud.com/thailand",
-        "image_url": "https://media.timeout.com/images/106041646/750/562/image.jpg",
-        "description": "세계 최대 힙합 페스티벌! 라인업 공개 임박."
-    },
-    {
-        "title": "썸머 소닉 방콕 (Summer Sonic Bangkok)",
-        "date": "2024-08-24 ~ 08-25",
-        "location": "IMPACT Challenger Hall",
-        "status": "종료 임박/매진",
-        "link": "https://www.summersonic.com/bangkok",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Summer_Sonic_Logo.png",
-        "description": "일본의 전설적 락 페스티벌, 방콕 첫 개최."
-    },
-    {
-        "title": "송크란 2026 (Songkran Festival)",
-        "date": "2026-04-13 ~ 04-15",
-        "location": "태국 전역",
-        "status": "D-Day 카운트다운",
-        "link": "#",
-        "image_url": "https://tatnews.org/wp-content/uploads/2019/04/Songkran-2019-1.jpg",
-        "description": "1년 전부터 준비해야 하는 세계 최대 물축제."
-    },
-    {
-        "title": "크림필즈 태국 (Creamfields Thailand)",
-        "date": "2025 (미정)",
-        "location": "파타야",
-        "status": "개최 예정",
-        "link": "https://www.creamfields.com",
-        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creamfields_Logo.png/800px-Creamfields_Logo.png",
-        "description": "영국 정통 댄스 뮤직 페스티벌의 귀환."
-    }
+  {
+    "title": "투모로우랜드 태국 2026",
+    "date": "2026-12-11 ~ 12-13",
+    "location": "Wisdom Valley, Thailand",
+    "region": "기타",
+    "type": "축제",
+    "booking_date": "2026-02-28 16:00 GMT+7 (호텔 패키지) / 2026-03-07 16:00 GMT+7 (일반 티켓)",
+    "price": "정보없음",
+    "status": "개최확정",
+    "image_url": "",
+    "description": "투모로우랜드가 아시아에서 처음으로 개최하는 대규모 페스티벌로, 태국 Wisdom Valley에서 2026년 12월에 열립니다.",
+    "link": "https://thailand.tomorrowland.com/en/welcome/",
+    "source": "manual"
+  },
+  {
+    "title": "투모로우랜드 태국 (Tomorrowland Thailand)",
+    "date": "2026 (예정)",
+    "location": "태국 (장소 미정)",
+    "status": "개최 확정 (Rumor)",
+    "link": "https://www.tomorrowland.com",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Tomorrowland_Logo.svg/1200px-Tomorrowland_Logo.svg.png",
+    "description": "세계 최대 EDM 페스티벌의 첫 태국 상륙 예정!"
+  },
+  {
+    "title": "롤링라우드 태국 2024 (Rolling Loud Thailand)",
+    "date": "2024-11-22 ~ 11-24",
+    "location": "Legend Siam Pattaya",
+    "status": "개최 확정",
+    "link": "https://www.rollingloud.com/thailand",
+    "image_url": "https://media.timeout.com/images/106041646/750/562/image.jpg",
+    "description": "세계 최대 힙합 페스티벌! 라인업 공개 임박."
+  },
+  {
+    "title": "썸머 소닉 방콕 (Summer Sonic Bangkok)",
+    "date": "2024-08-24 ~ 08-25",
+    "location": "IMPACT Challenger Hall",
+    "status": "종료 임박/매진",
+    "link": "https://www.summersonic.com/bangkok",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Summer_Sonic_Logo.png",
+    "description": "일본의 전설적 락 페스티벌, 방콕 첫 개최."
+  },
+  {
+    "title": "송크란 2026 (Songkran Festival)",
+    "date": "2026-04-13 ~ 04-15",
+    "location": "태국 전역",
+    "status": "D-Day 카운트다운",
+    "link": "#",
+    "image_url": "https://tatnews.org/wp-content/uploads/2019/04/Songkran-2019-1.jpg",
+    "description": "1년 전부터 준비해야 하는 세계 최대 물축제."
+  },
+  {
+    "title": "크림필즈 태국 (Creamfields Thailand)",
+    "date": "2025 (미정)",
+    "location": "파타야",
+    "status": "개최 예정",
+    "link": "https://www.creamfields.com",
+    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Creamfields_Logo.png/800px-Creamfields_Logo.png",
+    "description": "영국 정통 댄스 뮤직 페스티벌의 귀환."
+  }
 ]
