@@ -432,11 +432,15 @@ if app_mode == "Admin Console":
                                                       index=categories.index(current_cat), 
                                                       key=f"edit_cat_{selected_date_edit}_{i}")
                             
+                            # Full Text Edit
+                            new_full = st.text_area("본문 (Markdown)", topic.get('full_translated',''), height=200, key=f"edit_full_{selected_date_edit}_{i}")
+
                             col_del, col_save = st.columns([1, 1])
                             if col_save.button("수정 저장", key=f"save_{selected_date_edit}_{i}"):
                                 topics[i]['title'] = new_title
                                 topics[i]['summary'] = new_summary
                                 topics[i]['category'] = new_category
+                                topics[i]['full_translated'] = new_full
                                 news_data[selected_date_edit] = topics
                                 save_json(NEWS_FILE, news_data)
                                 st.success("저장되었습니다.")
@@ -674,6 +678,7 @@ if app_mode == "Admin Console":
                             for item in found_items:
                                 # Check duplicate (Simple Title Check)
                                 if not any(existing.get('title') == item.get('title') for existing in big_events_data):
+                                    item['source'] = 'auto' # Mark as auto-crawled
                                     big_events_data.insert(0, item)
                                     new_count += 1
                             
@@ -713,6 +718,7 @@ if app_mode == "Admin Console":
                                     st.error(f"분석 실패: {err}")
                                 elif new_event_data:
                                     # Append to list
+                                    new_event_data['source'] = 'manual' # AI-extracted but User initiated = Manual
                                     big_events_data.insert(0, new_event_data)
                                     save_json(BIG_EVENTS_FILE, big_events_data)
                                     st.success(f"✅ 등록 성공! [{new_event_data.get('title')}]")
@@ -738,7 +744,8 @@ if app_mode == "Admin Console":
                             "title": n_title, "date": n_date, "location": n_loc,
                             "booking_date": n_booking, "price": n_price,
                             "status": n_status, "link": n_link, "image_url": n_img,
-                            "description": n_desc
+                            "description": n_desc,
+                            "source": "manual" # Explicitly Manual
                         }
                         big_events_data.insert(0, new_item)
                         save_json(BIG_EVENTS_FILE, big_events_data)
@@ -1579,21 +1586,20 @@ else:
         confirmed_keywords = ['개최확정', '티켓오픈', '매진', '판매중', 'd-', 'confirmed', 'ticket open']
         
         for e in big_events:
-            status = e.get('status', '').lower()
-            date_str = e.get('date', '').lower()
-            
-            # 1. Status Check (Positive List)
-            is_confirmed_status = any(k in status for k in confirmed_keywords)
-            
-            # 2. Negative Check (Explicit TBD)
-            is_tbd = '미정' in date_str or 'tbd' in date_str or '미정' in status
-            
-            if is_confirmed_status and not is_tbd:
-                visible_big_events.append(e)
-            # Exception: If specifically set to something unambiguous manually without standard key, allow if date is valid
-            elif not is_tbd and len(date_str) > 4: 
-                 # e.g. status="Coming Soon" but Date="2025-12-12" -> Allow
+            # STRICT FILTER: Only show manually added/verified events
+            # This hides auto-crawled events until admin approves/re-saves them as manual
+            if e.get('source') == 'manual':
                  visible_big_events.append(e)
+            
+            # Old Logic (Commented out for Strict Manual Mode)
+            # status = e.get('status', '').lower()
+            # date_str = e.get('date', '').lower()
+            # is_confirmed_status = any(k in status for k in confirmed_keywords)
+            # is_tbd = '미정' in date_str or 'tbd' in date_str or '미정' in status
+            # if is_confirmed_status and not is_tbd:
+            #     visible_big_events.append(e)
+            # elif not is_tbd and len(date_str) > 4: 
+            #      visible_big_events.append(e)
 
         # Handle Empty State
         if not visible_big_events:

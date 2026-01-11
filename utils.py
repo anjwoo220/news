@@ -31,6 +31,7 @@ def fetch_balanced_rss(feeds_config):
     }
     
     category_buckets = {}
+    MAX_PER_CATEGORY = 2  # User Limit
     
     for feed in feeds_config:
         category = feed.get('category', 'General')
@@ -38,6 +39,11 @@ def fetch_balanced_rss(feeds_config):
         
         if category not in category_buckets:
             category_buckets[category] = []
+            
+        # Check quota early
+        if len(category_buckets[category]) >= MAX_PER_CATEGORY:
+            print(f"Skipping feed {url} (Quota full for {category})")
+            continue
             
         try:
             print(f"Fetching [{category}] {url}...")
@@ -55,6 +61,10 @@ def fetch_balanced_rss(feeds_config):
             print(f"Successfully parsed {url}: Found {len(feed_data.entries)} entries.")
             
             for entry in feed_data.entries:
+                # Re-check quota inside loop
+                if len(category_buckets[category]) >= MAX_PER_CATEGORY:
+                    break
+
                 if is_recent(entry):
                     item = {
                         "title": entry.title,
@@ -185,7 +195,13 @@ def analyze_news_with_gemini(news_items, api_key):
            - **고유명사(지명, 인명, 가게 이름):** 한국어 표준 외래어 표기법에 맞춰 **발음대로 표기**하세요. (예: ภู켓 -> 푸켓, สุขุมวิท -> 수쿰빗)
            - 만약 정확한 발음을 모를 경우에만 괄호 안에 원어를 병기하세요. 예: 왓 아룬(Wat Arun)
 
-        2. **기자체 사용:** "~했습니다" 대신 "~했다", "~전망이다" 등 명료한 보도체 문장을 사용하세요.
+        2. **날짜/연도 변환 (매우 중요):**
+           - 태국 불기 연도(BE)가 나오면 반드시 **서기(AD)**로 변환하세요.
+           - 공식: **(불기) - 543 = (서기)**
+           - 예: 2569년 1월 -> 2026년 1월, 2567년 -> 2024년.
+           - 절대 25xx년 그대로 표기하지 마세요.
+
+        3. **기자체 사용:** "~했습니다" 대신 "~했다", "~전망이다" 등 명료한 보도체 문장을 사용하세요.
         3. **불필요한 서술 제거:** "기사에 따르면", "다음은 번역입니다" 같은 AI 투의 문장은 삭제하고 바로 사실(Fact)부터 전달하세요.
         4. **독자 중심:** 주 독자는 태국 거주 한국인입니다. 그들에게 필요한 정보(위치, 날짜, 가격, 주의사항)를 강조하세요.
 
