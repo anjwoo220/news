@@ -967,9 +967,14 @@ else:
         # Default False (Light Mode)
         is_dark = st.toggle("🌘 다크 모드", value=False)
         
-        # Mobile/Header Visitor UI (Hidden on PC via CSS if needed, or just shown)
+        # Mobile/Header Visitor UI (Visible ONLY on Mobile via CSS)
         st.markdown(f"""
-        <div style="text-align: right; font-size: 0.7em; color: gray; margin-top: -10px;">
+        <style>
+        @media (min-width: 768px) {{
+            .mobile-only-counter {{ display: none !important; }}
+        }}
+        </style>
+        <div class="mobile-only-counter" style="text-align: right; font-size: 0.7em; color: gray; margin-top: -10px;">
            Today: <b>{daily_val:,}</b><br>Total: <b>{total_val:,}</b>
         </div>
         """, unsafe_allow_html=True)
