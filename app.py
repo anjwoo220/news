@@ -869,7 +869,8 @@ else:
     if valid_dates:
         min_date = min(valid_dates)
         max_date = datetime.today().date()
-        default_date = max(valid_dates)
+        # Always default to TODAY, even if not in list yet
+        default_date = datetime.today().date()
     else:
         min_date = datetime.today().date()
         max_date = datetime.today().date()
@@ -990,7 +991,13 @@ else:
                 time_display = topic.get('collected_at', '')
                 meta_info = f"{date_display} {time_display}".strip()
                 
-                st.markdown(f"**🏷️ {cat_text}** <span style='color:grey'> | 🕒 {meta_info}</span>", unsafe_allow_html=True)
+            st.warning("삭제되었습니다.") # Placeholder for deletion logic if moved
+            
+    # Empty State for Selected Date
+    if not daily_topics and not search_query:
+         st.divider()
+         st.header(header_text)
+         st.info("😴 아직 업데이트된 뉴스가 없습니다. (잠시 후 다시 확인해주세요)", icon="⏳")
                 
                 st.subheader(f"{topic['title']}")
                 
