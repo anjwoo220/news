@@ -1370,7 +1370,7 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플", "🌴 핫플 매거진"]
+    nav_options = ["📰 뉴스 브리핑", "🎉 콘서트/이벤트", "🌴 핫플 매거진"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -1677,8 +1677,8 @@ else:
                 else:
                     st.button("다음 ➡️", disabled=True, use_container_width=True)
 
-    # --- Page 2: Events ---
-    elif page_mode == "✈️ 태국 여행/핫플":
+    # --- Page 2: Concerts/Events ---
+    elif page_mode == "🎉 콘서트/이벤트":
         st.caption("태국 전역의 축제, 콘서트, 핫플레이스 정보를 모았습니다. (매일 자동 업데이트)")
 
         # --- Big Match Section ---
