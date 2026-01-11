@@ -1934,13 +1934,4 @@ else:
                         if item.get('link'):
                              st.link_button("원문 보기 🔗", item.get('link'), use_container_width=True)
 
-                             # Desc & Location
-                             st.caption(f"📍 {item.get('location', '위치 정보 없음')}")
-                             st.write(item.get('desc', ''))
-                             
-                             # Link
-                             if item.get('link'):
-                                 st.link_button("자세히 보기 🔗", item['link'], use_container_width=True)
 
-        except Exception as e:
-            st.error(f"매거진 로드 실패: {e}")
