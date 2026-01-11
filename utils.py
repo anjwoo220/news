@@ -747,36 +747,38 @@ def fetch_trend_hunter_items(api_key):
             model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
             
             prompt = f"""
-            You are a trendy Thai Travel Editor for a Korean magazine. 
-            Analyze these RSS items from {source_tag}.
+            You are a expert Korean Travel Editor specializing in Thailand trends.
+            Your task is to convert the following RSS items (which may be in English or Thai) into engaging **Korean** magazine content for MZ generation tourists.
             
-            Input Data:
+            Input Data ({source_tag}):
             {json.dumps(raw_inputs, ensure_ascii=False)}
             
-            Task:
-            1. Re-write the content into a structured "Magazine Card".
-            2. Infer details from Title/Link/Context since RSS summary is short.
-            3. CRITICAL Output Fields:
-               - "catchy_headline": Creative, click-bait style 1-liner (Insta vibe).
-               - "vibe_tags": 2-3 hashtags describing the atmosphere.
-               - "summary": Emotional 3-line summary.
-               - "must_eat": Recommend signature items (infer or make generic 'Signature Menu').
-               - "pro_tip": Practical tip (e.g. 'Lunch time is crowded').
-               - "price_level": 💸/💸💸/💸💸💸 (Estimate).
-               - "location_url": Google Maps Search URL.
+            Instructions:
+            1. **LANGUAGE**: All output MUST be in **Natural Korean (한국어)**. Do not output English unless it's a proper noun (e.g. Hive Hotel).
+            2. **INFERENCE**: RSS feeds only provide short titles/summaries. You MUST infer the missing details (Vibe, Menu, Tips) based on the context of the place or the title. If unsure, give a generic but useful recommendation (e.g. "Signature Menu").
+            3. **STYLE**: Use witty, emotional, and trendy language (Insta-vibe).
+            
+            Required Output Fields:
+            - "catchy_headline": A short, clicking-inducing headline in Korean.
+            - "vibe_tags": 2-3 Korean hashtags (e.g. #분위기맛집 #방콕여행).
+            - "summary": 2-3 sentences describing the place and why it's special (in Korean).
+            - "must_eat": Recommended menu items (Korean). If not a restaurant, recommend an activity.
+            - "pro_tip": Practical advice (e.g. Best time to visit, Booking required). 
+            - "price_level": 💸, 💸💸, or 💸💸💸 (Estimate based on context).
+            - "location_url": A valid Google Maps Search URL keying off the place name.
             
             Output JSON Format:
             [
                 {{
                     "original_index": 0,
                     "title": "Place Name (Korean + English)",
-                    "catchy_headline": "...",
-                    "vibe_tags": ["#Tag1", "#Tag2"],
-                    "summary": "...",
-                    "must_eat": "...",
-                    "pro_tip": "...",
-                    "price_level": "...",
-                    "location_url": "..."
+                    "catchy_headline": "방콕 핫플 등극! 인생샷 성지 바로 여기📸",
+                    "vibe_tags": ["#루프탑", "#야경", "#방콕핫플"],
+                    "must_eat": "시그니처 칵테일, 팟타이",
+                    "pro_tip": "일몰 시간에 맞춰 가면 최고의 뷰를 감상할 수 있어요!",
+                    "price_level": "💸💸",
+                    "summary": "화려한 방콕의 밤을 즐길 수 있는 최고의 루프탑...",
+                    "location_url": "https://www.google.com/maps/search/?api=1&query=..."
                 }}
             ]
             """
@@ -789,7 +791,7 @@ def fetch_trend_hunter_items(api_key):
                 idx = res.get('original_index')
                 if idx is not None and idx < len(raw_inputs):
                     original = raw_inputs[idx]
-                    res['image_url'] = original.get('raw_img') # RSS might lack img, consider fallback later
+                    res['image_url'] = original.get('raw_img') 
                     res['link'] = original.get('raw_link')
                     res['badge'] = source_tag
                     processed.append(res)
@@ -801,8 +803,8 @@ def fetch_trend_hunter_items(api_key):
     # Main Loop
     for target in targets:
         try:
-            # Google News RSS URL
-            rss_url = f"https://news.google.com/rss/search?q=site:{target['domain']}+when:7d&hl=en-TH&gl=TH&ceid=TH:en"
+            # Google News RSS URL (Reduced restriction)
+            rss_url = f"https://news.google.com/rss/search?q=site:{target['domain']}&hl=en-TH&gl=TH&ceid=TH:en"
             print(f"Reading RSS: {target['name']}...")
             
             resp = requests.get(rss_url, headers=headers, timeout=10)

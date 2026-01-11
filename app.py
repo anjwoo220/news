@@ -884,7 +884,23 @@ if app_mode == "Admin Console":
                             new_items = utils.fetch_trend_hunter_items(api_key)
                             
                             if new_items:
-                                save_json(MAGAZINE_FILE, new_items)
+                                # Safe Merge: Load existing -> Append -> Deduplicate
+                                existing_items = load_json(MAGAZINE_FILE, [])
+                                
+                                # Use dict for deduplication by link
+                                item_map = {item['link']: item for item in existing_items if item.get('link')}
+                                
+                                for item in new_items:
+                                    if item.get('link'):
+                                        item_map[item['link']] = item # Overwrite or add
+                                
+                                merged_list = list(item_map.values())
+                                
+                                # Sort by random or keep order? Random shuffle again for freshness
+                                import random
+                                random.shuffle(merged_list)
+                                
+                                save_json(MAGAZINE_FILE, merged_list)
                                 
                                 # Persistence
                                 with st.spinner("GitHub에 저장 중..."):
@@ -892,10 +908,10 @@ if app_mode == "Admin Console":
                                     if ok: st.toast("✅ GitHub 저장 완료")
                                     else: st.error(f"GitHub 저장 실패: {msg}")
 
-                                st.success(f"총 {len(new_items)}개의 트렌드 아이템을 업데이트했습니다!")
+                                st.success(f"업데이트 완료! (신규 {len(new_items)}개 추가, 총 {len(merged_list)}개)")
                                 st.rerun()
                             else:
-                                st.error("가져온 데이터가 없습니다.")
+                                st.error("새로운 데이터를 가져오지 못했습니다. (RSS 응답 없음)")
                         else:
                             st.error("API Key Missing")
 
