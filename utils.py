@@ -16,6 +16,35 @@ def is_recent(entry, days=3):
     limit_date = datetime.now() - timedelta(days=days)
     return pub_date >= limit_date
 
+# Helper: Check relevance to Thailand
+def is_relevant_to_thailand(entry):
+    """
+    Determines if an article is relevant to Thailand based on keywords and script.
+    Checks: Title, Summary (if available)
+    """
+    import re
+    
+    # 1. content to check
+    text = (entry.title + " " + entry.get('summary', '')).lower()
+    
+    # 2. Check for Thai Characters (Script)
+    if re.search(r'[\u0E00-\u0E7F]', text):
+        return True
+        
+    # 3. Check for English Keywords
+    keywords = [
+        "thailand", "thai", "bangkok", "phuket", "pattaya", "chiang", 
+        "samui", "krabi", "isan", "baht", "pheu thai", 
+        "prime minister", "paetongtarn", "thaksin", "king", "royal",
+        "cabinet", "govt", "police", "otp", "airport"
+    ]
+    
+    for kw in keywords:
+        if kw in text:
+            return True
+            
+    return False
+
 # 1. RSS Parsing (Balanced)
 def fetch_balanced_rss(feeds_config):
     """
@@ -64,6 +93,11 @@ def fetch_balanced_rss(feeds_config):
                 # Re-check quota inside loop
                 if len(category_buckets[category]) >= MAX_PER_CATEGORY:
                     break
+                
+                # Filter: Relevance Check (Skip non-Thai news)
+                if not is_relevant_to_thailand(entry):
+                    # print(f"Skipping irrelevant: {entry.title}") 
+                    continue
 
                 if is_recent(entry):
                     item = {
