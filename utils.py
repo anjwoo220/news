@@ -69,6 +69,61 @@ def clean_html(raw_html):
     cleantext = re.sub(cleanr, '', raw_html)
     return cleantext
 
+
+def fetch_full_content(url):
+    """
+    Attempts to scrape full article content.
+    Returns truncated text (max 2000 chars) or None if failed.
+    """
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+        
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+        }
+        
+        # Simple domain checks for known Paywalls if needed
+        if "bangkokpost.com" in url or "thairath" in url or "khaosod" in url:
+             pass 
+
+        response = requests.get(url, headers=headers, timeout=5)
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            
+            # Common Content Selectors (Bangkok Post, Thairath, etc.)
+            selectors = [
+                 "div.article-content", # Bangkok Post
+                 "div.artcl-content",   # Bangkok Post variant
+                 "div#content-body",
+                 "div.news-detail",     # Thairath often uses this or similar
+                 "div.entry-content",   # WordPress standard (Khaosod English)
+                 "article"              # Semantic fallback
+            ]
+            
+            content_text = ""
+            for select in selectors:
+                found = soup.select_one(select)
+                if found:
+                    # Remove scripts/styles
+                    for script in found(["script", "style", "iframe", "div.ads"]):
+                        script.decompose()
+                    content_text = found.get_text(separator="\n", strip=True)
+                    break
+            
+            # Fallback: Just grab all P tags if no container found
+            if not content_text:
+                ps = soup.find_all('p')
+                # Filter out very short lines (nav items)
+                content_text = "\n".join([p.get_text(strip=True) for p in ps if len(p.get_text(strip=True)) > 30])
+
+            if content_text:
+                return content_text[:3000] # Cap at 3000 chars for context window
+    except Exception as e:
+        print(f"Error scraping {url}: {e}")
+        
+    return None
+
 def analyze_news_with_gemini(news_items, api_key):
     if not news_items:
         return None, "No news items to analyze."
@@ -87,18 +142,27 @@ def analyze_news_with_gemini(news_items, api_key):
     for idx, item in enumerate(limited_news_items):
         print(f"[{idx+1}/{total_items}] Processing: {item['title']}...")
         
-        clean_summary = clean_html(item['summary'])[:500] # Slightly more context per item
+        # 1. Try to get FULL content
+        full_content = fetch_full_content(item['link'])
         
+        if not full_content:
+            print("   -> Scraping failed/empty, falling back to summary.")
+            full_content = clean_html(item['summary'])[:800]
+        else:
+            print(f"   -> Scraped full content ({len(full_content)} chars).")
+
         # Single Item Prompt
         prompt = f"""
         당신은 태국 전문 뉴스 에디터입니다. 
         아래 제공된 뉴스 기사를 분석하여 한국어 브리핑 항목을 작성해주세요.
-
+        
         [기사 정보]
         - Title: {item['title']}
         - Source: {item['source']}
         - Link: {item['link']}
-        - Summary: {clean_summary}
+        
+        [기사 본문]
+        {full_content}
 
         [요청 사항]
         1. 이 기사의 핵심 내용을 3~4문장의 한국어로 요약하세요.
@@ -112,9 +176,10 @@ def analyze_news_with_gemini(news_items, api_key):
         - **Weather Rule:** 날씨, 기온, 홍수, 미세먼지 등 기상 관련 내용은 무조건 **'여행/관광'**으로 분류하세요.
 
         3. **[필수] 기사 전문 번역:**
-        - 기사의 **전체 내용**을 빠짐없이 한국어로 번역하여 `full_translated` 필드에 넣으세요.
+        - 위 [기사 본문]의 **전체 내용**을 빠짐없이 한국어로 번역하여 `full_translated` 필드에 넣으세요.
         - 중간에 내용을 생략하거나 요약하지 말고, 원문의 뉘앙스를 살려 **완벽하게 번역**하세요.
         - 문단 구분은 `\\n\\n`으로 명확히 해주세요.
+        - 만약 본문이 불완전하다면, 가능한 내용까지만 최대한 번역하세요.
 
         4. 결과는 반드시 아래 JSON 형식으로만 출력하세요. (Markdown 코드 블록 없이 순수 JSON만)
 
