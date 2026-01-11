@@ -470,35 +470,6 @@ if app_mode == "Admin Console":
         # --- Tab 2: News Management ---
         with tab2:
             st.subheader("뉴스 데이터 관리")
-            
-            # Twitter Trend Manual Update
-            if st.button("🐦 실시간 트위터 트렌드 업데이트 (Twitter Trends)"):
-                with st.spinner("트위터 트렌드 분석 중... (Gemini)"):
-                    api_key = os.environ.get("GEMINI_API_KEY")
-                    if not api_key:
-                        # Try secrets
-                        try:
-                            import toml
-                            secrets = toml.load(".streamlit/secrets.toml")
-                            api_key = secrets.get("GEMINI_API_KEY")
-                        except: pass
-                    
-                    if api_key:
-                        result = utils.fetch_twitter_trends(api_key)
-                        if result:
-                            # Save to common file
-                            with open('data/twitter_trends.json', 'w', encoding='utf-8') as f:
-                                json.dump(result, f, ensure_ascii=False, indent=2)
-                            
-                            # Push
-                            utils.push_changes_to_github(['data/twitter_trends.json'], "Update Twitter Trends")
-                            st.success(f"업데이트 완료: {result.get('topic')}")
-                        else:
-                            st.warning("특이 사항이 없거나 수집 실패.")
-                    else:
-                        st.error("API Key Missing")
-            
-            st.divider()
             try:
                 news_data = load_json(NEWS_FILE)
             except Exception as e:
@@ -1658,20 +1629,6 @@ else:
     
     # --- Page 1: News ---
     if page_mode == "📰 뉴스 브리핑":
-        # --- Twitter Trend Alert (Real-time) ---
-        twitter_file = 'data/twitter_trends.json'
-        if os.path.exists(twitter_file):
-            t_data = load_json(twitter_file)
-            if t_data and t_data.get('reason'):
-                severity = t_data.get('severity', 'info')
-                icon = "🚨" if severity == 'warning' else "📢"
-                msg = f"**[실시간 방콕 이슈]** {t_data.get('reason')} (#{t_data.get('topic')})"
-                
-                if severity == 'warning':
-                    st.warning(f"{icon} {msg}")
-                else:
-                    st.info(f"{icon} {msg}")
-
         # --- Mobile Nav & Date Selection (Expander) ---
     
         # Data Loading (Moved up for init logic)

@@ -308,18 +308,5 @@ def main():
     save_json(PROCESSED_URLS_FILE, list(processed_urls))
     print(f"Updated {PROCESSED_URLS_FILE} with {len(target_items)} new URLs.")
 
-    # 8. Update Twitter Trends
-    print("Fetching Twitter Trends...")
-    trend_result = utils.fetch_twitter_trends(api_key)
-    if trend_result:
-        try:
-            with open('data/twitter_trends.json', 'w', encoding='utf-8') as f:
-                json.dump(trend_result, f, ensure_ascii=False, indent=2)
-            print("Twitter trends updated.")
-        except Exception as e:
-            print(f"Failed to save twitter trends: {e}")
-    else:
-        print("No critical twitter trends found or fetch failed.")
-
 if __name__ == "__main__":
     main()
