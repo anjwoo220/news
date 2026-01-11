@@ -1708,11 +1708,12 @@ else:
                             st.markdown(f"**🗓️ {date}**")
                             st.markdown(f"📍 {loc} | 🕒 태국 현지 시간")
                             
-                            # New: Booking & Price
-                            if event.get('booking_date'):
-                                st.markdown(f"🎟 **예매 오픈:** {event['booking_date']}")
-                            if event.get('price'):
-                                st.markdown(f"💰 **가격:** {event['price']}")
+                            # New: Booking & Price (Clearly Visible)
+                            if event.get('booking_date') and len(event['booking_date']) > 2:
+                                st.markdown(f"🎟 **예매 오픈:** :red[{event['booking_date']}]")
+                            
+                            if event.get('price') and len(event['price']) > 2:
+                                st.markdown(f"💰 **가격:** :green[{event['price']}]")
 
                             st.caption(f"🏷️ {etype}")
                             
