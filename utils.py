@@ -448,6 +448,8 @@ def fetch_thai_events():
                 "region": "방콕/치앙마이/푸켓/파타야/기타",
                 "image_url": "Full URL of the event poster/image",
                 "link": "Full URL to booking page or article",
+                "booking_date": "YYYY-MM-DD or 'Now Open' or 'TBD' (Ticket Open Date)",
+                "price": "1000 THB~ or 'Free' (Ticket Price Info)",
                 "type": "축제" or "콘서트" or "전시" or "기타"
             }}
         ]
@@ -481,3 +483,86 @@ def fetch_thai_events():
     except Exception as e:
         print(f"Gemini processing error: {e}")
         return []
+
+def extract_event_from_url(url, api_key):
+    """
+    Scrapes a URL and uses Gemini to extract event details.
+    Returns a dict with processed event info.
+    """
+    try:
+        # 1. Scrape Content
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
+             'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7'
+        }
+        resp = requests.get(url, headers=headers, timeout=10)
+        resp.raise_for_status()
+        
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        
+        # Remove scripts/styles
+        for script in soup(["script", "style", "nav", "footer", "header"]):
+            script.decompose()
+            
+        text_content = soup.get_text(separator=' ', strip=True)[:15000] # Limit context
+        
+        # Try to find OG Image
+        og_image = ""
+        meta_img = soup.find("meta", property="og:image")
+        if meta_img:
+            og_image = meta_img.get("content", "")
+            
+        title_guess = soup.title.string if soup.title else ""
+
+        # 2. Gemini Analysis
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-2.0-flash-exp')
+        
+        prompt = f"""
+        Analyze the following webpage text and extract event information.
+        
+        URL: {url}
+        Page Title: {title_guess}
+        Text Content:
+        {text_content}
+        
+        Goal: Extract details for a "Big Match" event (Festival/Concert).
+        
+        Output JSON Format:
+        {{
+            "title": "Event Name (Korean, e.g. '롤링라우드 태국 2024')",
+            "date": "YYYY-MM-DD or Range (e.g. '2024-11-22 ~ 11-24')",
+            "location": "Venue Name (Korean/English)",
+            "booking_date": "Ticket Open Date (YYYY-MM-DD) or 'Now Open'",
+            "price": "Price Range (e.g. '3000 THB~')",
+            "status": "One of: ['티켓오픈', '개최확정', '매진', '정보없음']",
+            "image_url": "Use existing OG Image if valid, or find one in text. If none, return empty string.",
+            "description": "1 line summary in Korean"
+        }}
+        
+        If image_url is missing in text, use this one: {og_image}
+        
+        Translate all text to natural Korean.
+        If information is missing, use "정보없음" or "" (empty string).
+        """
+        
+        response = model.generate_content(prompt)
+        text_response = response.text.strip()
+        
+        # Parse JSON
+        if "```json" in text_response:
+            text_response = text_response.replace("```json", "").replace("```", "")
+        if text_response.startswith("```"): # Catch raw block
+            text_response = text_response.replace("```", "")
+        
+        data = json.loads(text_response)
+        data['link'] = url # Ensure link is set
+        
+        # Safety fallback for image
+        if not data.get('image_url') and og_image:
+            data['image_url'] = og_image
+            
+        return data, None
+        
+    except Exception as e:
+        return None, str(e)

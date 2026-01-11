@@ -369,7 +369,7 @@ if app_mode == "Admin Console":
         
         # Tabs for better organization
         # Tabs for better organization
-        tab1, tab2, tab3, tab4, tab5 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리"])
+        tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -541,6 +541,155 @@ if app_mode == "Admin Console":
                             save_json(feeds_file, current_feeds)
                             st.success("삭제되었습니다.")
                             st.rerun()
+
+        # --- Tab 6: Event Management ---
+        with tab6:
+            st.subheader("이벤트 & 여행 정보 관리")
+
+            # 6-A. General Events (events.json)
+            st.markdown("### 1. 일반 이벤트 관리 (events.json)")
+            events_data = load_json(EVENTS_FILE, [])
+            if not events_data:
+                st.warning("등록된 일반 이벤트가 없습니다.")
+            else:
+                st.info(f"총 {len(events_data)}개의 일반 이벤트/핫이슈가 있습니다.")
+                
+                # Filter/Search for Admin
+                filter_txt = st.text_input("이벤트 검색", key="evt_search")
+                filtered_evts = [e for e in events_data if filter_txt.lower() in e.get('title','').lower()] if filter_txt else events_data
+
+                for i, evt in enumerate(filtered_evts[:30]): # Cap at 30 for perf
+                    with st.expander(f"{evt.get('title')} ({evt.get('date')})"):
+                        c1, c2 = st.columns([3,1])
+                        with c1:
+                            new_title = st.text_input("제목", evt.get('title'), key=f"evt_t_{i}")
+                            new_date = st.text_input("날짜", evt.get('date'), key=f"evt_d_{i}")
+                            new_booking = st.text_input("예매일", evt.get('booking_date',''), key=f"evt_bd_{i}")
+                            new_price = st.text_input("가격", evt.get('price',''), key=f"evt_pr_{i}")
+                            new_loc = st.text_input("장소", evt.get('location'), key=f"evt_l_{i}")
+                            new_type = st.text_input("타입", evt.get('type','기타'), key=f"evt_ty_{i}")
+                            
+                            if st.button("수정 저장", key=f"evt_save_{i}"):
+                                evt['title'] = new_title
+                                evt['date'] = new_date
+                                evt['booking_date'] = new_booking
+                                evt['price'] = new_price
+                                evt['location'] = new_loc
+                                evt['type'] = new_type
+                                save_json(EVENTS_FILE, events_data) # Check if we need to map back to original index if filtered. 
+                                # Actually filtered_evts contains references to dicts in events_data, so modding evt works.
+                                st.success("저장됨")
+                        
+                        with c2:
+                            st.error("삭제 주의")
+                            if st.button("삭제 ❌", key=f"evt_del_{i}"):
+                                events_data.remove(evt) # Remove object by ref
+                                save_json(EVENTS_FILE, events_data)
+                                st.success("삭제됨")
+                                st.rerun()
+
+            st.divider()
+
+            # 6-B. Big Match (big_events.json)
+            st.markdown("### 2. 빅매치/페스티벌 관리 (big_events.json)")
+            big_events_data = load_json(BIG_EVENTS_FILE, [])
+
+            st.markdown("### 2. 빅매치/페스티벌 관리 (big_events.json)")
+            big_events_data = load_json(BIG_EVENTS_FILE, [])
+
+            # --- AI Auto Registration (New) ---
+            with st.expander("🔗 AI 자동 등록 (URL 분석)", expanded=True):
+                st.caption("링크만 넣으면 AI가 정보를 추출해서 등록합니다. (Ticketmelon, 뉴스, 페북 등)")
+                analyze_url = st.text_input("이벤트 페이지 URL", placeholder="https://...")
+                
+                if st.button("✨ 분석 및 등록"):
+                    if not analyze_url:
+                        st.error("URL을 입력해주세요.")
+                    else:
+                        with st.spinner("AI가 페이지를 분석 중입니다... (약 5-10초)"):
+                            api_key = os.environ.get("GEMINI_API_KEY")
+                            if not api_key:
+                                # Fallback secrets
+                                try:
+                                    import toml
+                                    secrets = toml.load(".streamlit/secrets.toml")
+                                    api_key = secrets.get("GEMINI_API_KEY")
+                                except: pass
+                            
+                            if not api_key:
+                                st.error("API 키가 없습니다.")
+                            else:
+                                new_event_data, err = utils.extract_event_from_url(analyze_url, api_key)
+                                if err:
+                                    st.error(f"분석 실패: {err}")
+                                elif new_event_data:
+                                    # Append to list
+                                    big_events_data.insert(0, new_event_data)
+                                    save_json(BIG_EVENTS_FILE, big_events_data)
+                                    st.success(f"✅ 등록 성공! [{new_event_data.get('title')}]")
+                                    st.rerun()
+                                else:
+                                    st.error("데이터를 추출하지 못했습니다.")
+
+            # --- Manual Add ---
+            with st.expander("➕ 수동 등록"):
+                with st.form("add_big_event"):
+                    n_title = st.text_input("행사명")
+                    n_date = st.text_input("날짜 (YYYY-MM-DD or 2026 (미정))")
+                    n_loc = st.text_input("장소")
+                    n_booking = st.text_input("예매일")
+                    n_price = st.text_input("가격")
+                    n_status = st.text_input("상태 (예: 티켓오픈, 개최확정, D-100)")
+                    n_link = st.text_input("링크", value="#")
+                    n_img = st.text_input("이미지 URL")
+                    n_desc = st.text_input("설명")
+                    
+                    if st.form_submit_button("추가"):
+                        new_item = {
+                            "title": n_title, "date": n_date, "location": n_loc,
+                            "booking_date": n_booking, "price": n_price,
+                            "status": n_status, "link": n_link, "image_url": n_img,
+                            "description": n_desc
+                        }
+                        big_events_data.insert(0, new_item)
+                        save_json(BIG_EVENTS_FILE, big_events_data)
+                        st.success("추가되었습니다.")
+                        st.rerun()
+            
+            # List Existing
+            for i, be in enumerate(big_events_data):
+                with st.container(border=True):
+                    c1, c2 = st.columns([4, 1])
+                    with c1:
+                        st.markdown(f"#### {be.get('title')}")
+                        e_title = st.text_input("행사명", be.get('title'), key=f"be_t_{i}")
+                        e_date = st.text_input("날짜", be.get('date'), key=f"be_d_{i}")
+                        e_booking = st.text_input("예매일", be.get('booking_date',''), key=f"be_bd_{i}")
+                        e_price = st.text_input("가격", be.get('price',''), key=f"be_pr_{i}")
+                        e_status = st.text_input("상태", be.get('status'), key=f"be_s_{i}")
+                        
+                        if st.button("변경 저장", key=f"be_save_{i}"):
+                           be['title'] = e_title
+                           be['date'] = e_date
+                           be['booking_date'] = e_booking
+                           be['price'] = e_price
+                           be['status'] = e_status
+                           save_json(BIG_EVENTS_FILE, big_events_data)
+                           st.success("저장됨")
+                    
+                    with c2:
+                        if be.get('image_url'):
+                             st.image(be['image_url'], use_container_width=True)
+                        if st.button("삭제", key=f"be_del_{i}"):
+                            big_events_data.pop(i)
+                            save_json(BIG_EVENTS_FILE, big_events_data)
+                            st.rerun()
+            
+            st.divider()
+            if st.button("🗑️ 빅매치 데이터 전체 초기화 (Reset)", type="primary"):
+                save_json(BIG_EVENTS_FILE, [])
+                st.warning("초기화되었습니다.")
+                st.rerun()
         
 else:
     # --- Viewer Mode ---
@@ -1334,7 +1483,13 @@ else:
 
         # --- Big Match Section ---
         big_events = load_json(BIG_EVENTS_FILE, [])
-        if big_events:
+        
+        # User View: Handle Empty State
+        if not big_events:
+            with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
+                 st.info("📢 현재 확정된 대형 이벤트 정보를 집계 중입니다. 빠른 시일 내에 업데이트됩니다!")
+                 
+        else:
             with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
                 # Calculate D-Day helper
                 def get_d_day(date_str):
@@ -1427,7 +1582,14 @@ else:
                             etype = event.get('type', '행사')
                             
                             st.markdown(f"**🗓️ {date}**")
-                            st.markdown(f"📍 {loc}")
+                            st.markdown(f"📍 {loc} | 🕒 태국 현지 시간")
+                            
+                            # New: Booking & Price
+                            if event.get('booking_date'):
+                                st.markdown(f"🎟 **예매 오픈:** {event['booking_date']}")
+                            if event.get('price'):
+                                st.markdown(f"💰 **가격:** {event['price']}")
+
                             st.caption(f"🏷️ {etype}")
                             
                             # Link Button
