@@ -175,9 +175,31 @@ def main():
     save_json(NEWS_FILE, current_news)
     print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
 
-    # 7-2. Update processed_urls.json
-    for item in target_items:
-        processed_urls.add(item['link'])
+    # 7-2. Update processed_urls.json (ONLY for successful items)
+    # Collect URLs that were actually successfully turned into topics
+    successful_urls = set()
+    for topic in analysis_result.get('topics', []):
+        for ref in topic.get('references', []):
+            if ref.get('url'):
+                successful_urls.add(ref['url'])
+    
+    # Also add items that were skipped or handled but didn't result in a topic? 
+    # No, strict retry policy: if it failed to generate a topic (e.g. rate limit), retry next time.
+    
+    # However, Gemini might merge multiple source items into one topic.
+    # We should mark *all* target_items as processed ONLY IF the API call was at least successful (not 0 topics).
+    # But wait, if Rate Limit happened for Item 4 but Item 1,2,3 worked, aggregated_topics has 1,2,3.
+    # Relying on references in the output is the safest way to know which input was "consumed".
+    
+    processed_count = 0
+    for url in successful_urls:
+        processed_urls.add(url)
+        processed_count += 1
+    
+    if processed_count == 0 and len(target_items) > 0:
+        print("Warning: No topics generated, NOT marking any URLs as processed to allow retry.")
+    else:
+        print(f"Marked {processed_count} URLs as processed.")
     
     save_json(PROCESSED_URLS_FILE, list(processed_urls))
     print(f"Updated {PROCESSED_URLS_FILE} with {len(target_items)} new URLs.")
