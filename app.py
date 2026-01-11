@@ -360,6 +360,12 @@ if query_params.get("mode") == "admin":
         app_mode = "Admin Console"
 
 if app_mode == "Admin Console":
+    # Exit Button
+    st.sidebar.markdown("---")
+    if st.sidebar.button("🚪 관리자 모드 종료", use_container_width=True):
+        st.query_params.clear()
+        st.rerun()
+
     # Visitor Counter (Hidden in Admin, or optional)
     update_visit_stats() # Just ensure stats update if admin visits
     
