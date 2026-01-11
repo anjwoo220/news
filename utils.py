@@ -170,22 +170,47 @@ def load_local_json(file_path):
 def get_thb_krw_rate():
     """
     Fetches the current THB to KRW exchange rate.
-    Returns:
-        float: The current rate (e.g., 38.5)
-        float: 0.0 if failed (change (today - yesterday) can be calculated in app if needed, 
-               but for now just simple fetch)
+    Uses 'data/exchange_rate.json' for persistence.
     """
+    RATE_FILE = 'data/exchange_rate.json'
     url = "https://api.frankfurter.app/latest?from=THB&to=KRW"
+    
+    # helper to save
+    def save_rate(rate):
+        try:
+            with open(RATE_FILE, 'w', encoding='utf-8') as f:
+                json.dump({"rate": rate, "updated_at": str(datetime.now())}, f)
+        except: pass
+
+    # helper to load
+    def load_cached_rate():
+        if os.path.exists(RATE_FILE):
+            try:
+                with open(RATE_FILE, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    return data.get("rate")
+            except: pass
+        return None
+
     try:
         import requests
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
             data = response.json()
-            return data.get('rates', {}).get('KRW', 39.50)
+            rate = data.get('rates', {}).get('KRW')
+            if rate:
+                save_rate(rate)
+                return rate
     except Exception as e:
         print(f"Exchange Rate Error: {e}")
     
-    return 39.50 # Default fallback
+    # Fallback to cached rate if live fetch fails
+    cached = load_cached_rate()
+    if cached:
+        return cached
+        
+    # If absolutely no data (first run ever & fail), return None or handled by UI
+    return 0.0
 
 # 4. Air Quality (WAQI)
 def get_air_quality(token):
