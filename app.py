@@ -882,24 +882,21 @@ else:
 
     # --- Mobile Nav & Date Selection (Expander) ---
     
-    # Init Session for Pagination & Search
-    if "current_page" not in st.session_state:
-        st.session_state["current_page"] = 1
-    if "search_query" not in st.session_state:
-        st.session_state["search_query"] = ""
-    if "selected_date_str" not in st.session_state: # Use string for persistence
-        st.session_state["selected_date_str"] = datetime.today().strftime("%Y-%m-%d")
-
-    # Data Loading
+    # Data Loading (Moved up for init logic)
     try:
         mtime = os.path.getmtime(NEWS_FILE)
     except:
         mtime = 0
     news_data = load_news_data(mtime)
     
-    # Calculate Min/Max Dates
+    # Calculate Valid Dates & Latest
     all_dates_str = sorted(news_data.keys())
     valid_dates = []
+    latest_date_str = datetime.today().strftime("%Y-%m-%d") # Fallback
+    
+    if all_dates_str:
+        latest_date_str = all_dates_str[-1] # Newest date with news
+        
     for d_str in all_dates_str:
         try:
             valid_dates.append(datetime.strptime(d_str, "%Y-%m-%d").date())
@@ -907,9 +904,18 @@ else:
         
     if valid_dates:
         min_date = min(valid_dates)
-        max_date = datetime.today().date()
+        max_date = datetime.today().date() # Limit picker to today
     else:
         min_date = max_date = datetime.today().date()
+        
+    # Init Session for Pagination & Search
+    if "current_page" not in st.session_state:
+        st.session_state["current_page"] = 1
+    if "search_query" not in st.session_state:
+        st.session_state["search_query"] = ""
+    # Smart Date Init: Default to latest available date
+    if "selected_date_str" not in st.session_state: 
+        st.session_state["selected_date_str"] = latest_date_str
 
     # Expander for Controls
     with st.expander("🔍 날짜 검색 및 옵션", expanded=False):
