@@ -881,11 +881,14 @@ if app_mode == "Admin Console":
                              except: pass
                         
                         if api_key:
-                            new_items = utils.fetch_trend_hunter_items(api_key)
+                            # Load existing for deduplication context
+                            existing_items = load_json(MAGAZINE_FILE, [])
+                            existing_links = [item['link'] for item in existing_items if item.get('link')]
+                            
+                            new_items = utils.fetch_trend_hunter_items(api_key, existing_links=existing_links)
                             
                             if new_items:
                                 # Safe Merge: Load existing -> Append -> Deduplicate
-                                existing_items = load_json(MAGAZINE_FILE, [])
                                 
                                 # Use dict for deduplication by link
                                 item_map = {item['link']: item for item in existing_items if item.get('link')}

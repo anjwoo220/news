@@ -708,7 +708,7 @@ def fetch_big_events_by_keywords(keywords, api_key):
 # Trend Hunter (Magazine) Logic - 4 Sources
 # --------------------------------------------------------------------------------
 
-def fetch_trend_hunter_items(api_key):
+def fetch_trend_hunter_items(api_key, existing_links=None):
     """
     Aggregates trend/travel content via Google News RSS for 4 sources:
     1. Wongnai (Restaurants)
@@ -726,6 +726,12 @@ def fetch_trend_hunter_items(api_key):
     print("Fetching Trend Hunter items via Google News RSS...")
     
     items = []
+    if existing_links is None:
+        existing_links = set()
+    else:
+        existing_links = set(existing_links)
+        
+    seen_links = set() # Local deduplication
     
     # Target Domains
     targets = [
@@ -747,39 +753,45 @@ def fetch_trend_hunter_items(api_key):
             model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
             
             prompt = f"""
-            You are a expert Korean Travel Editor specializing in Thailand trends.
-            Your task is to convert the following RSS items (which may be in English or Thai) into engaging **Korean** magazine content for MZ generation tourists.
+            You are a expert Korean Travel Editor acting as a **"Hotplace Detector"**.
+            Your goal is to filter and rewrite RSS items into high-quality **Korean** magazine content.
             
             Input Data ({source_tag}):
             {json.dumps(raw_inputs, ensure_ascii=False)}
             
-            Instructions:
-            1. **LANGUAGE**: All output MUST be in **Natural Korean (한국어)**. Do not output English unless it's a proper noun (e.g. Hive Hotel).
-            2. **INFERENCE**: RSS feeds only provide short titles/summaries. You MUST infer the missing details (Vibe, Menu, Tips) based on the context of the place or the title. If unsure, give a generic but useful recommendation (e.g. "Signature Menu").
-            3. **STYLE**: Use witty, emotional, and trendy language (Insta-vibe).
+            **CRITICAL FILTERING RULES (Hotplace Detector)**:
+            Analyze each item. If an item falls into any of these categories, **return null** for that item instead of a JSON object:
+            1. **Not a specific visitable place**: General news, flight promos, "Thai Trip" general guides, or listicles without a clear focus.
+            2. **Vague/Ad**: Content that sounds like a generic advertisement or lacks specific details.
+            3. **No Image**: If you cannot infer a strong visual context or the input lacks an image.
             
-            Required Output Fields:
-            - "catchy_headline": A short, clicking-inducing headline in Korean.
-            - "vibe_tags": 2-3 Korean hashtags (e.g. #분위기맛집 #방콕여행).
-            - "summary": 2-3 sentences describing the place and why it's special (in Korean).
-            - "must_eat": Recommended menu items (Korean). If not a restaurant, recommend an activity.
-            - "pro_tip": Practical advice (e.g. Best time to visit, Booking required). 
-            - "price_level": 💸, 💸💸, or 💸💸💸 (Estimate based on context).
-            - "location_url": A valid Google Maps Search URL keying off the place name.
+            **REWRITE INSTRUCTIONS (For valid items)**:
+            1. **LANGUAGE**: Natural, witty, trendy **Korean**.
+            2. **INFERENCE**: Infer details (Vibe, Menu, Tips) from context.
+            3. **FIELDS**:
+               - "catchy_headline": Click-bait style 1-liner in Korean.
+               - "vibe_tags": 2-3 Korean hashtags.
+               - "summary": Emotional 2-3 sentences.
+               - "must_eat": Signature menu or "N/A".
+               - "pro_tip": Practical visiting tip.
+               - "price_level": 💸/💸💸/💸💸💸.
+               - "location_url": Google Maps Search URL.
             
             Output JSON Format:
             [
                 {{
                     "original_index": 0,
                     "title": "Place Name (Korean + English)",
-                    "catchy_headline": "방콕 핫플 등극! 인생샷 성지 바로 여기📸",
-                    "vibe_tags": ["#루프탑", "#야경", "#방콕핫플"],
-                    "must_eat": "시그니처 칵테일, 팟타이",
-                    "pro_tip": "일몰 시간에 맞춰 가면 최고의 뷰를 감상할 수 있어요!",
-                    "price_level": "💸💸",
-                    "summary": "화려한 방콕의 밤을 즐길 수 있는 최고의 루프탑...",
-                    "location_url": "https://www.google.com/maps/search/?api=1&query=..."
-                }}
+                    "catchy_headline": "...",
+                    "vibe_tags": ["..."],
+                    "summary": "...",
+                    "must_eat": "...",
+                    "pro_tip": "...",
+                    "price_level": "...",
+                    "location_url": "..."
+                }},
+                null,
+                ...
             ]
             """
             
@@ -788,6 +800,8 @@ def fetch_trend_hunter_items(api_key):
             
             processed = []
             for res in data:
+                if not res: continue # Skip null items (filtered)
+                
                 idx = res.get('original_index')
                 if idx is not None and idx < len(raw_inputs):
                     original = raw_inputs[idx]
@@ -811,20 +825,30 @@ def fetch_trend_hunter_items(api_key):
             feed = feedparser.parse(resp.content)
             
             raw_items = []
-            # Take top 2
-            for entry in feed.entries[:2]:
-                # Attempt to find image in enclosures or media_content
+            # Check up to 10 entries to find 2 valid ones
+            for entry in feed.entries[:10]:
+                if len(raw_items) >= 2: break
+                
+                # 1. Deduplication (Link & Title)
+                if entry.link in existing_links or entry.link in seen_links:
+                    print(f"Skipping duplicate: {entry.title}")
+                    continue
+                
+                # 2. Chillpainai Filter
+                if target['name'] == "Chillpainai" and "Thai Trip" in entry.title:
+                    print(f"Skipping Chillpainai 'Thai Trip': {entry.title}")
+                    continue
+
+                seen_links.add(entry.link)
+                
+                # Attempt to find image
                 img_src = ""
                 if 'media_content' in entry:
                     img_src = entry.media_content[0]['url']
                 elif 'description' in entry:
-                     # Simple parsing for img tag in description
                      import re
                      match = re.search(r'src="([^"]+)"', entry.description)
                      if match: img_src = match.group(1)
-                
-                # Google News RSS links are redirected. Use as is or unshorten if needed.
-                # Usually client-side follow is fine.
                 
                 raw_items.append({
                     "raw_title": entry.title,
