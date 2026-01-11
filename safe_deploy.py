@@ -45,46 +45,51 @@ def save_json(file_path, data):
 
 def merge_news(local_data, remote_data):
     """
-    Merges remote news into local news.
-    Strategy: Union by (formatted_date, title).
+    Merges local news into remote news (Remote is Truth).
+    Strategy: Start with Remote. Add Local only if invalid/missing in Remote.
+    But actually, we want to KEEP Remote versions of same items.
+    So: Base = Remote. Append Local items that don't exist in Remote.
     """
-    merged = local_data.copy()
+    merged = remote_data.copy()
     count_new = 0
     
-    for date_key, remote_items in remote_data.items():
+    # 1. Index Remote Signatures
+    remote_sigs = set()
+    for date_key, items in merged.items():
+        for item in items:
+            sig = item.get('link') or item.get('title')
+            remote_sigs.add(sig)
+            
+    # 2. Scan Local for New Items
+    for date_key, local_items in local_data.items():
         if date_key not in merged:
             merged[date_key] = []
             
-        local_items = merged[date_key]
-        local_sigs = set()
         for item in local_items:
             sig = item.get('link') or item.get('title')
-            local_sigs.add(sig)
-            
-        for item in remote_items:
-            sig = item.get('link') or item.get('title')
-            if sig not in local_sigs:
+            if sig not in remote_sigs:
+                # This is a NEW item from local (e.g. fresh crawl)
                 merged[date_key].append(item)
-                local_sigs.add(sig)
+                remote_sigs.add(sig)
                 count_new += 1
                 
     return merged, count_new
 
 def merge_events(local_list, remote_list):
     """
-    Merges remote events into local events list.
-    Strategy: Deduplicate by (Title, Date).
+    Merges local events into remote events (Remote is Truth).
+    Strategy: Base = Remote. Add Local if new.
     """
-    merged = list(local_list) # Copy
+    merged = list(remote_list) # Start with Remote
     count_new = 0
     
-    local_sigs = set((e.get('title'), e.get('date')) for e in merged)
+    remote_sigs = set((e.get('title'), e.get('date')) for e in merged)
     
-    for item in remote_list:
+    for item in local_list:
         sig = (item.get('title'), item.get('date'))
-        if sig not in local_sigs:
+        if sig not in remote_sigs:
             merged.append(item)
-            local_sigs.add(sig)
+            remote_sigs.add(sig)
             count_new += 1
             
     return merged, count_new
@@ -191,17 +196,17 @@ def main():
         local_trends = load_json_generic(TRENDS_FILE, list)
         remote_trends = load_json_generic(REMOTE_TRENDS_FILE, list)
         
-        # Merge logic for Trends: Distinct by Title + Link
+        # Merge logic for Trends: Remote Priority
         def merge_trends_local(local_list, remote_list):
-            merged = list(local_list)
+            merged = list(remote_list) # Base = Remote
             count_new = 0
-            local_sigs = set((t.get('title'), t.get('link')) for t in merged)
+            remote_sigs = set((t.get('title'), t.get('link')) for t in merged)
             
-            for item in remote_list:
+            for item in local_list:
                 sig = (item.get('title'), item.get('link'))
-                if sig not in local_sigs:
+                if sig not in remote_sigs:
                     merged.append(item)
-                    local_sigs.add(sig)
+                    remote_sigs.add(sig)
                     count_new += 1
             return merged, count_new
 
