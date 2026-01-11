@@ -345,27 +345,29 @@ def get_air_quality(token):
 import requests
 from bs4 import BeautifulSoup
 
-def fetch_bkk_events():
+def fetch_thai_events():
     """
-    Fetches and parses Bangkok event information from ThaiTicketMajor and BK Magazine using Gemini.
+    Fetches and parses event information from ThaiTicketMajor, BK Magazine, and TAT News using Gemini.
     Returns:
-        list: A list of event dictionaries (title, date, location, image_url, link, type).
+        list: A list of event dictionaries (title, date, location, region, image_url, link, type).
     """
-    print("Fetching BKK Events...")
-    events = []
+    print("Fetching Thai Events (National)...")
     
     targets = [
         {
             "name": "ThaiTicketMajor",
             "url": "https://www.thaiticketmajor.com/concert/",
-            "selector": "body", 
-            "type": "concert"
+            "selector": "body"
         },
         {
             "name": "BK Magazine",
             "url": "https://bk.asia-city.com/things-to-do-bangkok",
-            "selector": "div.view-content",
-            "type": "event"
+            "selector": "div.view-content"
+        },
+        {
+            "name": "TAT News",
+            "url": "https://www.tatnews.org/category/events-festivals/",
+            "selector": "body"
         }
     ]
 
@@ -389,10 +391,7 @@ def fetch_bkk_events():
                 for s in content(["script", "style", "nav", "footer", "header"]):
                     s.extract()
                 
-                # Get text + img tags to hint Gemini about images
-                # Actually, Gemini handles raw HTML well if it's not too huge.
-                # Let's clean attributes to save tokens
-                html_snippet = str(content)[:15000] # Limit size per source
+                html_snippet = str(content)[:20000] # Increased limit for TAT
                 
                 combined_html_context += f"\n\n--- Source: {target['name']} ({target['url']}) ---\n{html_snippet}"
                 
@@ -404,34 +403,57 @@ def fetch_bkk_events():
 
     # Gemini Processing
     try:
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        # Load API Key (Handle Env vs Secrets)
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+             try:
+                import toml
+                secrets = toml.load(".streamlit/secrets.toml")
+                api_key = secrets.get("GEMINI_API_KEY")
+             except:
+                pass
+        
+        if not api_key:
+            return []
+
+        import google.generativeai as genai
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
         
         prompt = f"""
-        You are a helpful event curator for Korean tourists in Bangkok.
-        Analyze the following HTML snippets from event websites.
-        Extract a list of upcoming MAJOR concerts and interesting weekend events.
+        You are a helpful event curator for Korean tourists visiting Thailand.
+        Analyze the following HTML snippets from event websites (ThaiTicketMajor, BK Magazine, TAT News).
+        Extract a list of distinct events/festivals across Thailand.
+        
+        CRITICAL: Identify the **REGION** (City/Province) based on the location info.
+        - If "Chiang Mai" -> "치앙마이"
+        - If "Phuket" -> "푸켓"
+        - If "Pattaya" -> "파타야"
+        - If "Bangkok" -> "방콕"
+        - If "Koh Samui" -> "코사무이"
+        - If unknown or miscellaneous, default to "기타" (Others) or "방콕" if mostly likely Bangkok.
         
         Return the result ONLY as a JSON list of objects.
         
         JSON Format:
         [
             {{
-                "title": "Event Name (Summarize in Korean, e.g. '브루노 마스 내한 공연')",
-                "date": "YYYY-MM-DD or Date Range String (e.g. '2024-01-15' or '1월 15일 - 16일')",
+                "title": "Event Name (Summarize in Korean, e.g. '송크란 축제')",
+                "date": "YYYY-MM-DD or Date Range String (e.g. '2024-04-13 ~')",
                 "location": "Venue Name (in Korean or English)",
+                "region": "방콕/치앙마이/푸켓/파타야/기타",
                 "image_url": "Full URL of the event poster/image",
                 "link": "Full URL to booking page or article",
-                "type": "Concert" or "Exhibition" or "Market" or "Party"
+                "type": "축제" or "콘서트" or "전시" or "기타"
             }}
         ]
 
         Rules:
-        1. Select only the most popular/relevant events (Max 8-10 items total).
-        2. Prefer events happening soon (within next 30 days).
-        3. Ensure image_url is an absolute URL (if relative, prepend https://www.thaiticketmajor.com or https://bk.asia-city.com accordingly).
-        4. Do not include sold-out or past events if clear.
-        5. Output strictly JSON. No markdown.
-
+        1. Select 8-12 diverse items (Mix of Concerts, Festivals, Exhibitions).
+        2. Prefer events happening soon (next 45 days).
+        3. Ensure image_url is absolute.
+        4. Output strictly JSON.
+        
         HTML Context:
         {combined_html_context}
         """
@@ -447,7 +469,7 @@ def fetch_bkk_events():
             text = text[:-3]
             
         data = json.loads(text)
-        print(f" - Parsed {len(data)} events.")
+        print(f" - Parsed {len(data)} events with Region info.")
         return data
 
     except Exception as e:

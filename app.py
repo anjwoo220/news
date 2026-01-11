@@ -86,9 +86,9 @@ def get_cached_air_quality(token):
 def get_cached_exchange_rate():
     return utils.get_thb_krw_rate()
 
-@st.cache_data(ttl=86400) # Cache for 24 hours
+@st.cache_data(ttl=86400, show_spinner=False)
 def get_cached_events():
-    return utils.fetch_bkk_events()
+    return utils.fetch_thai_events()
 
 def load_json(file_path, default=None):
     if default is None:
@@ -884,11 +884,13 @@ else:
         except Exception as e:
             st.error(f"AQI Error")
 
-    # --- Tabs ---
-    tab_news, tab_events = st.tabs(["📰 뉴스", "📅 핫플/콘서트"])
+    # --- Sidebar Navigation ---
+    with st.sidebar:
+        st.markdown("### 📌 메뉴 선택")
+        page_mode = st.radio("이동", ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플"], label_visibility="collapsed")
     
-    # --- Tab 1: News ---
-    with tab_news:
+    # --- Page 1: News ---
+    if page_mode == "📰 뉴스 브리핑":
         # --- Mobile Nav & Date Selection (Expander) ---
     
         # Data Loading (Moved up for init logic)
@@ -1148,28 +1150,45 @@ else:
                 else:
                     st.button("다음 ➡️", disabled=True, use_container_width=True)
 
-    # --- Tab 2: Events ---
-    with tab_events:
-        st.caption("방콕의 최신 대형 콘서트 및 주말 핫플 정보를 모아봅니다. (매일 자동 업데이트)")
+    # --- Page 2: Events ---
+    elif page_mode == "✈️ 태국 여행/핫플":
+        st.caption("태국 전역의 축제, 콘서트, 핫플레이스 정보를 모았습니다. (매일 자동 업데이트)")
         
         try:
-            with st.spinner("이달의 핫한 행사를 찾는 중..."):
+            with st.spinner("최신 여행 정보를 불러오는 중..."):
                 events = get_cached_events()
                 
             if not events:
                 st.info("현재 예정된 주요 행사가 없습니다.")
             else:
+                # --- Region Filter ---
+                events = [e for e in events if isinstance(e, dict)]
+                all_regions = ["전체 보기"] + sorted(list(set([e.get('region', '기타') for e in events])))
+                
+                c_filter, c_space = st.columns([1, 2])
+                with c_filter:
+                    selected_region = st.selectbox("🗺️ 지역별 보기", all_regions)
+                    
+                if selected_region != "전체 보기":
+                    filtered_events = [e for e in events if e.get('region') == selected_region]
+                else:
+                    filtered_events = events
+                    
+                st.write(f"총 {len(filtered_events)}개의 행사가 있습니다.")
+
                 # 2 Columns Grid
                 cols = st.columns(2)
-                for idx, event in enumerate(events):
+                for idx, event in enumerate(filtered_events):
                     with cols[idx % 2]:
                         with st.container(border=True):
                             # Image
                             if event.get('image_url'):
                                 st.image(event['image_url'], use_container_width=True)
                             
-                            # Title
-                            st.subheader(event.get('title', '행사명 없음'))
+                            # Badge & Title
+                            region = event.get('region', '기타')
+                            title = event.get('title', '행사명 없음')
+                            st.markdown(f"#### <span style='color:#FF4B4B'>[🏝️ {region}]</span> {title}", unsafe_allow_html=True)
                             
                             # Meta Info
                             date = event.get('date', '날짜 미정')
