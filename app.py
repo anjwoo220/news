@@ -12,6 +12,7 @@ import html
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
 EVENTS_FILE = 'data/events.json'
+BIG_EVENTS_FILE = 'data/big_events.json'
 CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
 STATS_FILE = 'data/stats.json'
@@ -1330,7 +1331,50 @@ else:
     # --- Page 2: Events ---
     elif page_mode == "✈️ 태국 여행/핫플":
         st.caption("태국 전역의 축제, 콘서트, 핫플레이스 정보를 모았습니다. (매일 자동 업데이트)")
+
+        # --- Big Match Section ---
+        big_events = load_json(BIG_EVENTS_FILE, [])
+        if big_events:
+            with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
+                # Calculate D-Day helper
+                def get_d_day(date_str):
+                    try:
+                         # Extract first date if range
+                         clean = date_str.split('~')[0].strip()
+                         target = datetime.strptime(clean, "%Y-%m-%d").date()
+                         today = datetime.now().date()
+                         diff = (target - today).days
+                         if diff > 0: return f"D-{diff}"
+                         elif diff == 0: return "D-Day"
+                         else: return "End"
+                    except:
+                         return "D-?"
+
+                # Render Cards (Horizontal Scroll-ish or Columns)
+                # Streamlit columns wrap, so 2 per row is good
+                b_cols = st.columns(2)
+                for idx, event in enumerate(big_events):
+                    with b_cols[idx % 2]:
+                        with st.container(border=True):
+                            # Layout: [Image] [Title/D-Day]
+                            c_img, c_info = st.columns([1, 2])
+                            with c_img:
+                                if event.get('image_url'):
+                                    st.image(event['image_url'], use_container_width=True)
+                                else:
+                                    st.write("🖼️")
+                            
+                            with c_info:
+                                d_day = get_d_day(event.get('date'))
+                                st.markdown(f"**{event['title']}**")
+                                st.caption(f"🗓 {event['date']} ({d_day})")
+                                st.caption(f"📍 {event['location']}")
+                                st.markdown(f"🎫 **{event.get('status','정보없음')}**")
+                                if event.get('link') and event['link'] != "#":
+                                    st.link_button("공식 사이트 🔗", event['link'])
         
+        st.divider()
+
         try:
             with st.spinner("최신 여행 정보를 불러오는 중..."):
                 events = get_cached_events()
@@ -1389,6 +1433,16 @@ else:
                             # Link Button
                             link = event.get('link', '#')
                             st.link_button("예매/자세히 보기 🔗", link, use_container_width=True)
+                            
+                            # Individual Share
+                            with st.expander("📤 공유하기"):
+                                one_event_share = f"[🇹🇭 오늘의 태국 - 추천 여행정보]\n\n"
+                                one_event_share += f"🎈 {title}\n"
+                                one_event_share += f"🗓 {date}\n"
+                                one_event_share += f"📍 {loc}\n"
+                                one_event_share += f"🔗 {link}\n\n"
+                                one_event_share += f"👉 더 보기: {DEPLOY_URL}"
+                                st.code(one_event_share, language="text")
                             
         except Exception as e:
             st.error(f"이벤트 정보를 불러오는 중 오류가 발생했습니다: {e}")

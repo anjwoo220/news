@@ -10,6 +10,7 @@ from datetime import datetime, timedelta
 FEEDS_FILE = 'data/feeds.json'
 NEWS_FILE = 'data/news.json'
 PROCESSED_URLS_FILE = 'data/processed_urls.json'
+EVENTS_FILE = 'data/events.json'
 
 def load_json(file_path):
     if os.path.exists(file_path):
@@ -239,6 +240,44 @@ def main():
         
     save_json(NEWS_FILE, current_news)
     print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
+
+    # 7-1. Cross-post Travel News to Events
+    # Filter for '여행/관광' category
+    travel_news = [t for t in current_news[today_str] if t.get('category') == '여행/관광']
+    
+    if travel_news:
+        print(f"Found {len(travel_news)} travel news items. Cross-posting to {EVENTS_FILE}...")
+        
+        # Load Events
+        if os.path.exists(EVENTS_FILE):
+             events_data = load_json(EVENTS_FILE)
+             if not isinstance(events_data, list): events_data = []
+        else:
+             events_data = []
+
+        # Dedupe existing titles
+        existing_titles = set(e.get('title') for e in events_data)
+        
+        added_events = 0
+        for item in travel_news:
+            if item['title'] not in existing_titles:
+                new_event = {
+                    "title": item['title'],
+                    "date": "🔥 뉴스/핫이슈", # Special marking
+                    "location": "태국 전역/기타",
+                    "region": "기타",
+                    "image_url": item.get('image_url'),
+                    "link": item.get('references', [{'url': '#'}])[0].get('url'),
+                    "type": "여행뉴스"
+                }
+                # Prepend to top
+                events_data.insert(0, new_event)
+                existing_titles.add(item['title'])
+                added_events += 1
+        
+        if added_events > 0:
+            save_json(EVENTS_FILE, events_data)
+            print(f"Cross-posted {added_events} items to events.")
 
     # 7-2. Update processed_urls.json (ONLY for successful items)
     # Collect URLs that were actually successfully turned into topics
