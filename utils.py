@@ -710,7 +710,7 @@ def fetch_big_events_by_keywords(keywords, api_key):
 
 def fetch_trend_hunter_items(api_key):
     """
-    Aggregates trend/travel content from 4 sources:
+    Aggregates trend/travel content via Google News RSS for 4 sources:
     1. Wongnai (Restaurants)
     2. TheSmartLocal TH (Hotspots)
     3. Chillpainai (Local Travel)
@@ -720,221 +720,123 @@ def fetch_trend_hunter_items(api_key):
         list: shuffled list of dicts {title, desc, location, image_url, link, badge}
     """
     import random
+    import requests
+    import feedparser
+    
+    print("Fetching Trend Hunter items via Google News RSS...")
+    
     items = []
     
-    print("Fetching Trend Hunter items...")
+    # Target Domains
+    targets = [
+        {"name": "Wongnai", "domain": "wongnai.com", "tag": "[맛집랭킹]"},
+        {"name": "Chillpainai", "domain": "chillpainai.com", "tag": "[로컬여행]"},
+        {"name": "BK Magazine", "domain": "bk.asia-city.com", "tag": "[방콕라이프]"},
+        {"name": "The Smart Local", "domain": "thesmartlocal.co.th", "tag": "[MZ핫플]"}
+    ]
     
-    # Common Headers
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
     }
 
-    # Helper: Gemini Analyzer for Trend Content
-    def analyze_trend_content(raw_inputs, source_type):
-        """
-        raw_inputs: List of dicts {raw_title, raw_link, raw_img, context}
-        """
+    # Helper: Gemini Analyzer
+    def analyze_rss_items(raw_inputs, source_tag):
         if not raw_inputs: return []
-        
         try:
             genai.configure(api_key=api_key)
             model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
             
-            # Batch Prompt (Editor Mode)
             prompt = f"""
             You are a trendy Thai Travel Editor for a Korean magazine. 
-            Your goal is to transform these raw places into "Must-Visit" spots for Korean tourists (MZ generation).
+            Analyze these RSS items from {source_tag}.
             
             Input Data:
             {json.dumps(raw_inputs, ensure_ascii=False)}
             
             Task:
-            1. Analyze each item.
-            2. Re-write the content into a structured "Magazine Card" format.
-            3. CRITICAL: 
+            1. Re-write the content into a structured "Magazine Card".
+            2. Infer details from Title/Link/Context since RSS summary is short.
+            3. CRITICAL Output Fields:
                - "catchy_headline": Creative, click-bait style 1-liner (Insta vibe).
-               - "vibe_tags": 2-3 hashtags describing the atmosphere (e.g. #Sunset #DateSpot).
-               - "must_eat": Recommend 1-2 signature menu items (or "N/A" if not food).
-               - "pro_tip": A practical tip for visitors (best time, reservation, dress code).
-               - "price_level": Use 💸 (Cheap), 💸💸 (Moderate), or 💸💸💸 (Expensive).
-               - "summary": Emotional and inviting description (2-3 sentences).
-               - "location_url": A Google Maps search URL based on the place name.
+               - "vibe_tags": 2-3 hashtags describing the atmosphere.
+               - "summary": Emotional 3-line summary.
+               - "must_eat": Recommend signature items (infer or make generic 'Signature Menu').
+               - "pro_tip": Practical tip (e.g. 'Lunch time is crowded').
+               - "price_level": 💸/💸💸/💸💸💸 (Estimate).
+               - "location_url": Google Maps Search URL.
             
             Output JSON Format:
             [
                 {{
                     "original_index": 0,
                     "title": "Place Name (Korean + English)",
-                    "catchy_headline": "방콕 야경의 끝판왕, 여기서 인생샷 건지세요!",
-                    "vibe_tags": ["#루프탑", "#야경", "#데이트"],
-                    "must_eat": "트러플 파스타, 시그니처 칵테일",
-                    "pro_tip": "일몰 30분 전 도착 추천, 창가석 예약 필수!",
-                    "price_level": "💸💸💸",
-                    "summary": "방콕의 화려한 밤을 가장 로맨틱하게 즐길 수 있는 곳입니다. ...",
-                    "location_url": "https://www.google.com/maps/search/?api=1&query=..."
+                    "catchy_headline": "...",
+                    "vibe_tags": ["#Tag1", "#Tag2"],
+                    "summary": "...",
+                    "must_eat": "...",
+                    "pro_tip": "...",
+                    "price_level": "...",
+                    "location_url": "..."
                 }}
             ]
             """
             
             response = model.generate_content(prompt)
-            text = response.text.strip()
-            if "```json" in text: text = text.replace("```json", "").replace("```", "")
-            if text.startswith("```"): text = text.replace("```", "")
-
-            result = json.loads(text)
+            data = json.loads(response.text.strip().replace("```json", "").replace("```", ""))
             
             processed = []
-            for res in result:
+            for res in data:
                 idx = res.get('original_index')
                 if idx is not None and idx < len(raw_inputs):
                     original = raw_inputs[idx]
-                    processed.append({
-                        "title": res.get('title'),
-                        "catchy_headline": res.get('catchy_headline'),
-                        "vibe_tags": res.get('vibe_tags', []),
-                        "must_eat": res.get('must_eat'),
-                        "pro_tip": res.get('pro_tip'),
-                        "price_level": res.get('price_level'),
-                        "summary": res.get('summary'),
-                        "location_url": res.get('location_url'),
-                        "image_url": original.get('raw_img'),
-                        "link": original.get('raw_link'),
-                        "badge": source_type
-                    })
+                    res['image_url'] = original.get('raw_img') # RSS might lack img, consider fallback later
+                    res['link'] = original.get('raw_link')
+                    res['badge'] = source_tag
+                    processed.append(res)
             return processed
         except Exception as e:
-            print(f"Trend Analysis Error ({source_type}): {e}")
+            print(f"Analysis Error ({source_tag}): {e}")
             return []
 
-    # ------------------------------------------------
-    # B. TheSmartLocal TH (MZ Hotspots)
-    # ------------------------------------------------
-    try:
-        url = "https://thesmartlocal.co.th/category/things-to-do/"
-        resp = requests.get(url, headers=headers, timeout=5)
-        soup = BeautifulSoup(resp.content, 'html.parser')
-        
-        raw_tsl = []
-        articles = soup.select("article")[:4] # Top 4
-        for i, art in enumerate(articles):
-            link_tag = art.find("a")
-            # TSL images often in specialized div or noscript
-            img_tag = art.find("img")
+    # Main Loop
+    for target in targets:
+        try:
+            # Google News RSS URL
+            rss_url = f"https://news.google.com/rss/search?q=site:{target['domain']}+when:7d&hl=en-TH&gl=TH&ceid=TH:en"
+            print(f"Reading RSS: {target['name']}...")
             
-            if link_tag:
-                 raw_link = link_tag['href']
-                 raw_img = img_tag.get('src') if img_tag else ""
-                 if not raw_img and img_tag: raw_img = img_tag.get('data-src') or img_tag.get('data-lazy-src')
-                 
-                 raw_tsl.append({
-                     "raw_title": link_tag.get_text(strip=True),
-                     "raw_link": raw_link,
-                     "raw_img": raw_img,
-                     "context": "Category: Things to do"
-                 })
-                 
-        if raw_tsl:
-            items.extend(analyze_trend_content(raw_tsl, "[MZ 핫플]"))
+            resp = requests.get(rss_url, headers=headers, timeout=10)
+            feed = feedparser.parse(resp.content)
             
-    except Exception as e:
-        print(f"TSL Error: {e}")
-
-    # ------------------------------------------------
-    # C. Chillpainai (Local Travel)
-    # ------------------------------------------------
-    try:
-        url = "https://www.chillpainai.com/scoop/"
-        resp = requests.get(url, headers=headers, timeout=5)
-        soup = BeautifulSoup(resp.content, 'html.parser')
-        
-        raw_chill = []
-        # Chillpainai Scoop Grid
-        scoops = soup.select("div.scoop-content")[:4] 
-        if not scoops: scoops = soup.select(".col-sm-4")[:4] 
-
-        for i, sc in enumerate(scoops):
-             link_tag = sc.find("a")
-             img_tag = sc.find("img")
-             title_tag = sc.find("h4") or sc.find("div", class_="title")
-             
-             if link_tag and img_tag:
-                  raw_chill.append({
-                      "raw_title": title_tag.get_text(strip=True) if title_tag else "Chillpainai Article",
-                      "raw_link": link_tag['href'],
-                      "raw_img": img_tag.get('src'),
-                      "context": "Local Travel Guide"
-                  })
-
-        if raw_chill:
-             items.extend(analyze_trend_content(raw_chill, "[현지인 추천]"))
-
-    except Exception as e:
-        print(f"Chillpainai Error: {e}")
-
-    # ------------------------------------------------
-    # D. BK Magazine (BKK Life)
-    # ------------------------------------------------
-    try:
-        url = "https://bk.asia-city.com/things-to-do-bangkok"
-        resp = requests.get(url, headers=headers, timeout=5)
-        soup = BeautifulSoup(resp.content, 'html.parser')
-        
-        raw_bk = []
-        rows = soup.select("div.views-row")[:4]
-        
-        for i, row in enumerate(rows):
-             title_div = row.select_one("div.views-field-title a")
-             img_div = row.select_one("div.views-field-field-image img")
-             
-             if title_div and img_div:
-                  link = "https://bk.asia-city.com" + title_div['href'] if title_div['href'].startswith("/") else title_div['href']
-                  raw_bk.append({
-                      "raw_title": title_div.get_text(strip=True),
-                      "raw_link": link,
-                      "raw_img": img_div.get('src'),
-                      "context": "Bangkok Events/Lifestyle"
-                  })
-
-        if raw_bk:
-             items.extend(analyze_trend_content(raw_bk, "[BKK 라이프]"))
-
-    except Exception as e:
-        print(f"BK Mag Error: {e}")
-
-    # ------------------------------------------------
-    # A. Wongnai (Articles)
-    # ------------------------------------------------
-    try:
-        url = "https://www.wongnai.com/articles" 
-        resp = requests.get(url, headers=headers, timeout=5)
-        soup = BeautifulSoup(resp.content, 'html.parser')
-        
-        raw_w = []
-        cards = soup.select("div[class*='Card']")[:4]
-        if not cards: cards = soup.find_all("a", href=True)[:10] 
-        
-        count = 0
-        for c in cards:
-             if count >= 4: break
-             href = c['href']
-             if "/articles/" in href:
-                  img = c.find("img")
-                  h = c.find("h3") or c.find("h2") or c.find("div", class_="title")
-                  if img and h:
-                       link = "https://www.wongnai.com" + href if href.startswith("/") else href
-                       raw_w.append({
-                           "raw_title": h.get_text(strip=True),
-                           "raw_link": link,
-                           "raw_img": img.get('src') or img.get('data-src'),
-                           "context": "Food Guide/Review"
-                       })
-                       count += 1
-        
-        if raw_w:
-             items.extend(analyze_trend_content(raw_w, "[Wongnai 미식]"))
-
-    except Exception as e:
-        print(f"Wongnai Error: {e}")
+            raw_items = []
+            # Take top 2
+            for entry in feed.entries[:2]:
+                # Attempt to find image in enclosures or media_content
+                img_src = ""
+                if 'media_content' in entry:
+                    img_src = entry.media_content[0]['url']
+                elif 'description' in entry:
+                     # Simple parsing for img tag in description
+                     import re
+                     match = re.search(r'src="([^"]+)"', entry.description)
+                     if match: img_src = match.group(1)
+                
+                # Google News RSS links are redirected. Use as is or unshorten if needed.
+                # Usually client-side follow is fine.
+                
+                raw_items.append({
+                    "raw_title": entry.title,
+                    "raw_link": entry.link,
+                    "raw_img": img_src,
+                    "context": f"Latest article from {target['name']}"
+                })
+            
+            if raw_items:
+                analyzed = analyze_rss_items(raw_items, target['tag'])
+                items.extend(analyzed)
+                
+        except Exception as e:
+            print(f"Error fetching {target['name']}: {e}")
 
     # Shuffle for Magazine feel
     random.shuffle(items)
