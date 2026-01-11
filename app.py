@@ -450,7 +450,7 @@ if app_mode == "Admin Console":
             # File Check
             with col1:
                 st.markdown("#### 📂 데이터 파일 상태")
-                files_to_check = [NEWS_FILE, COMMENTS_FILE, STATS_FILE, CONFIG_FILE]
+                files_to_check = [NEWS_FILE, COMMENTS_FILE, CONFIG_FILE]
                 for f in files_to_check:
                     if os.path.exists(f):
                         size = os.path.getsize(f) / 1024 # KB
