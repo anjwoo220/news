@@ -76,17 +76,24 @@ st.markdown("""
     /* 2. Tab Button Styling */
     div[data-testid="stTabs"] button {
         white-space: nowrap;          /* Prevent Wrapping */
-        font-weight: 700 !important;  /* Bold Text */
+        font-weight: 900 !important;  /* Extra Bold Text */
         font-size: 1.1rem;            /* Larger Font */
         padding: 10px 15px;           /* Touch Area */
         flex: 1 1 auto;               /* Even Distribution */
+        text-shadow: 0px 0px 1px rgba(0,0,0,0.1); /* Subtle shadow for weight */
+    }
+    
+    /* 3. Selected Tab Emphasis */
+    div[data-testid="stTabs"] button[aria-selected="true"] {
+        color: #FF4B4B !important;    /* Streamlit Primary Red (or Theme Color) */
+        border-bottom-width: 3px !important;
     }
 
-    /* 3. Mobile Optimization (max-width: 600px) */
+    /* 4. Mobile Optimization (max-width: 600px) */
     @media (max-width: 600px) {
         div[data-testid="stTabs"] button {
-            font-size: 0.9rem;        /* Smaller Font on Mobile */
-            padding: 5px 10px;        /* Compact Padding */
+            font-size: 1.0rem;        /* Slightly larger than previous 0.9 */
+            padding: 8px 10px;        
         }
     }
     </style>
