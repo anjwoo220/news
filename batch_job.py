@@ -87,53 +87,84 @@ def main():
         print("No feeds found. Exiting.")
         return
 
-    # 2. Fetch RSS (Get ALL items first)
-    print("Fetching RSS feeds...")
-    all_news_items = utils.fetch_and_filter_rss(feeds)
+    # 2. Fetch RSS (Balanced)
+    print("Fetching RSS feeds (Balanced Mode)...")
+    # feeds is now a list of dicts or objects
+    all_news_items = utils.fetch_balanced_rss(feeds)
     print(f"Total items fetched: {len(all_news_items)}")
     
-    # 3. Filter Duplicates (Strict Check + ID Match)
+    # 3. Filter Duplicates (Strict Check + Similarity)
+    
+    # helper: load recent titles from news.json for context
+    recent_titles = []
+    current_news = load_json(NEWS_FILE)
+    if isinstance(current_news, dict):
+        for date_key in sorted(current_news.keys(), reverse=True)[:3]: # Check last 3 days
+            for topic in current_news[date_key]:
+                recent_titles.append(topic['title'])
+                for ref in topic.get('references', []):
+                    if ref.get('title'):
+                        recent_titles.append(ref['title'])
+
+    print(f"Loaded {len(recent_titles)} recent titles for similarity check.")
+
     processed_ids = set()
     for url in processed_urls:
         if 'bangkokpost.com' in url:
             parts = url.split('/')
             for p in parts:
-                if p.isdigit() and len(p) >= 6: # IDs are around 7 digits
+                if p.isdigit() and len(p) >= 6:
                     processed_ids.add(p)
 
     new_items = []
+    
     for item in all_news_items:
-        # 1. Exact Link Match
+        # A. Exact Link Match
         if item['link'] in processed_urls:
             continue
-        
-        # 2. ID Match (Bangkok Post)
+            
+        # B. ID Match (Bangkok Post)
+        is_dup_id = False
         if 'bangkokpost.com' in item['link']:
-            is_dup_id = False
             parts = item['link'].split('/')
             for p in parts:
                 if p.isdigit() and len(p) >= 6:
                     if p in processed_ids:
                         is_dup_id = True
                         break
-            if is_dup_id:
-                print(f"Duplicate ID found, skipping: {item['title']}")
-                continue
+        if is_dup_id:
+            print(f"Duplicate ID found, skipping: {item['title']}")
+            continue
+
+        # C. Similarity Check (Fuzzy Match)
+        is_similar = False
+        for existing_title in recent_titles:
+            ratio = difflib.SequenceMatcher(None, item['title'].lower(), existing_title.lower()).ratio()
+            if ratio > 0.6:
+                print(f"Skipping similar item ({ratio:.2f}):")
+                print(f" - New: {item['title']}")
+                print(f" - Old: {existing_title}")
+                is_similar = True
+                break
+        
+        if is_similar:
+            continue
 
         new_items.append(item)
-    print(f"Items after duplicate check: {len(new_items)}")
+
+    print(f"Items after duplicate/similarity check: {len(new_items)}")
 
     if not new_items:
         print("No new items to process.")
         return
 
-    # 4. Filter (Top 5)
+    # 4. Filter (Top 5 - Already Balanced by fetch order)
     target_items = new_items[:5]
-    print(f"Items selected for API call (Max 5): {len(target_items)}")
+    print(f"Items selected for API call: {len(target_items)}")
     
-    # 5. Extract Images (ONLY for top 5)
+    # 5. Extract Images
     for item in target_items:
-        print(f" - Processing: {item['title']}")
+        print(f" - Processing: {item['title']} [{item.get('suggested_category', '')}]")
         item['image_url'] = get_image_from_entry(item)
         if item['image_url']:
             print(f"   + Found Image: {item['image_url']}")

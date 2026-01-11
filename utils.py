@@ -16,50 +16,72 @@ def is_recent(entry, days=3):
     limit_date = datetime.now() - timedelta(days=days)
     return pub_date >= limit_date
 
-# 1. RSS Parsing
-def fetch_and_filter_rss(feed_urls):
-    news_items = []
+# 1. RSS Parsing (Balanced)
+def fetch_balanced_rss(feeds_config):
+    """
+    Fetches RSS feeds and returns a balanced mix of items across categories.
+    feeds_config: List of dicts [{'category': '...', 'url': '...'}, ...]
+    """
+    import requests
+    
     # Using a typical browser User-Agent
     headers = {
         'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36',
         'Accept': 'application/rss+xml, application/xml, text/xml, */*'
     }
     
-    import requests
+    category_buckets = {}
     
-    for url in feed_urls:
+    for feed in feeds_config:
+        category = feed.get('category', 'General')
+        url = feed.get('url')
+        
+        if category not in category_buckets:
+            category_buckets[category] = []
+            
         try:
-            print(f"Fetching {url}...")
+            print(f"Fetching [{category}] {url}...")
             response = requests.get(url, headers=headers, timeout=10)
             
             if response.status_code != 200:
                 print(f"Failed to fetch {url}: Status {response.status_code}")
                 continue
                 
-            # Parse the raw content
-            feed = feedparser.parse(response.content)
+            feed_data = feedparser.parse(response.content)
             
-            if feed.bozo:
-                print(f"XML Parse Warning for {url}: {feed.bozo_exception}")
+            if feed_data.bozo:
+                print(f"XML Parse Warning for {url}: {feed_data.bozo_exception}")
             
-            print(f"Successfully parsed {url}: Found {len(feed.entries)} entries.")
+            print(f"Successfully parsed {url}: Found {len(feed_data.entries)} entries.")
             
-            for entry in feed.entries:
+            for entry in feed_data.entries:
                 if is_recent(entry):
                     item = {
                         "title": entry.title,
                         "link": entry.link,
                         "published": entry.get("published", str(datetime.now())),
                         "summary": entry.get("summary", ""),
-                        "source": feed.feed.get("title", url),
+                        "source": feed_data.feed.get("title", url),
+                        "suggested_category": category, # Hint for AI or logic
                         "_raw_entry": entry
                     }
-                    news_items.append(item)
+                    category_buckets[category].append(item)
                     
         except Exception as e:
             print(f"Error fetching {url}: {e}")
-            
-    return news_items
+
+    # Interleave (Round-Robin) to create balanced list
+    balanced_items = []
+    max_items_per_cat = max(len(items) for items in category_buckets.values()) if category_buckets else 0
+    
+    categories = list(category_buckets.keys())
+    
+    for i in range(max_items_per_cat):
+        for cat in categories:
+            if i < len(category_buckets[cat]):
+                balanced_items.append(category_buckets[cat][i])
+                
+    return balanced_items
 
 # 2. Gemini Analysis
 import re
@@ -153,15 +175,19 @@ def analyze_news_with_gemini(news_items, api_key):
 
         # Single Item Prompt
         prompt = f"""
-        당신은 태국 방콕에 주재하는 '베테랑 한국 특파원'입니다. 
-        당신의 임무는 영문 기사를 한국 사람들이 이해하기 쉬운 '완벽한 한국 뉴스 기사'로 작성하는 것입니다.
+        당신은 태국 방콕에 주재하는 '태국어와 영어에 모두 능통한 베테랑 한국 특파원'입니다.
+        입력된 뉴스 기사(영어, 태국어 혼용 가능)를 한국 교민, 여행자들이 이해하기 쉬운 **완벽한 한국어 뉴스 기사**로 재작성하세요.
 
-        [번역 및 작성 원칙]
-        1. **직역 금지:** 영어식 문장 구조(수동태, 긴 수식어)를 피하고, 한국어의 자연스러운 어순과 문맥에 맞춰 의역하세요.
-        2. **기자체 사용:** "~했습니다", "~입니다" 보다는 뉴스 보도 스타일의 "~했다", "~로 밝혀졌다", "~전망이다" 등 전문적인 어미를 사용하세요.
-        3. **불필요한 서술 제거:** "기사에 따르면", "이 문서는 말한다" 같은 AI스러운 표현을 절대 쓰지 마세요. 바로 사실(Fact)부터 전달하세요.
-        4. **용어의 현지화:** 태국 지명이나 인명은 한국에서 통용되는 표기법을 따르세요. (예: Sukhumvit -> 수쿰빗)
-        5. **독자 중심:** 주 독자는 '태국 거주 한국인, 태국 여행하려는 한국인'입니다. 그들에게 미칠 영향이나 중요 포인트를 잘 살려주세요.
+        [핵심 처리 규칙]
+        1. **다국어 처리 (중요):** 
+           - 기사 원문에 **태국어(Thai Script)**가 포함된 경우, 절대 생략하거나 원문 그대로 남겨두지 마세요.
+           - **일반 문장:** 한국어로 의미를 번역하세요.
+           - **고유명사(지명, 인명, 가게 이름):** 한국어 표준 외래어 표기법에 맞춰 **발음대로 표기**하세요. (예: ภู켓 -> 푸켓, สุขุมวิท -> 수쿰빗)
+           - 만약 정확한 발음을 모를 경우에만 괄호 안에 원어를 병기하세요. 예: 왓 아룬(Wat Arun)
+
+        2. **기자체 사용:** "~했습니다" 대신 "~했다", "~전망이다" 등 명료한 보도체 문장을 사용하세요.
+        3. **불필요한 서술 제거:** "기사에 따르면", "다음은 번역입니다" 같은 AI 투의 문장은 삭제하고 바로 사실(Fact)부터 전달하세요.
+        4. **독자 중심:** 주 독자는 태국 거주 한국인입니다. 그들에게 필요한 정보(위치, 날짜, 가격, 주의사항)를 강조하세요.
 
         [기사 정보]
         - Title: {item['title']}
