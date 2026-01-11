@@ -134,19 +134,37 @@ def analyze_news_with_gemini(news_items, api_key):
         }}
         """
         
-        try:
-            model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
-            response = model.generate_content(prompt)
-            result = json.loads(response.text)
-            
-            if 'topics' in result and result['topics']:
-                aggregated_topics.extend(result['topics'])
-                print(f"   -> Success. Topics so far: {len(aggregated_topics)}")
-            
-        except Exception as e:
-            print(f"   -> API Error for item {idx+1}: {e}")
-            print("   -> Skipping this item and continuing...")
-            # Continue to next item without stopping
+        # Retry Logic with Safety Limits
+        max_retries = 3
+        retry_count = 0
+        success = False
+        
+        while retry_count < max_retries and not success:
+            try:
+                model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+                response = model.generate_content(prompt)
+                result = json.loads(response.text)
+                
+                if 'topics' in result and result['topics']:
+                    aggregated_topics.extend(result['topics'])
+                    print(f"   -> Success. Topics so far: {len(aggregated_topics)}")
+                    success = True
+                else:
+                    raise ValueError("Empty topics in response")
+                
+            except Exception as e:
+                retry_count += 1
+                wait_time = 2 ** retry_count # Exponential backoff: 2s, 4s, 8s
+                print(f"   -> API Error for item {idx+1} (Attempt {retry_count}/{max_retries}): {e}")
+                
+                if "429" in str(e):
+                    print("   -> Rate Limit Hit. Waiting longer...")
+                    time.sleep(60) # Special wait for Rate Limit
+                elif retry_count < max_retries:
+                    print(f"   -> Retrying in {wait_time}s...")
+                    time.sleep(wait_time)
+                else:
+                    print("   -> Max retries reached. Skipping this item.")
             
         # Delay logic (except for the last one)
         if idx < total_items - 1:

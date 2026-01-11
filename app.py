@@ -75,6 +75,15 @@ def load_news_data():
                 return {}
     return {}
 
+# --- Cached Wrappers for API Calls ---
+@st.cache_data(ttl=1800) # Cache for 30 mins
+def get_cached_air_quality(token):
+    return utils.get_air_quality(token)
+
+@st.cache_data(ttl=1800) # Cache for 30 mins
+def get_cached_exchange_rate():
+    return utils.get_thb_krw_rate()
+
 def load_json(file_path, default=None):
     if default is None:
         default = {}
@@ -757,8 +766,13 @@ else:
 
     # 1. Exchange Rate Widget (Left)
     with col_w1:
+        @st.cache_data(ttl=3600) # Cache for 1 hour
+        def get_cached_exchange_rate():
+            return utils.get_thb_krw_rate()
+
         try:
-            rate = utils.get_thb_krw_rate()
+            # Use Cached Wrapper
+            rate = get_cached_exchange_rate()
             now_str = datetime.now().strftime("%m/%d %H:%M")   
             
             st.markdown(f"""
@@ -791,7 +805,8 @@ else:
     with col_w2:
         try:
             waqi_token = st.secrets.get("WAQI_API_KEY", "")
-            aqi_data = utils.get_air_quality(waqi_token)
+            # Use Cached Wrapper
+            aqi_data = get_cached_air_quality(waqi_token)
             
             if aqi_data:
                 aqi = aqi_data['aqi']
