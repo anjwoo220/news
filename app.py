@@ -13,6 +13,7 @@ import html
 NEWS_FILE = 'data/news.json'
 EVENTS_FILE = 'data/events.json'
 BIG_EVENTS_FILE = 'data/big_events.json'
+TRENDS_FILE = 'data/trends.json'
 CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
 STATS_FILE = 'data/stats.json'
@@ -101,6 +102,41 @@ def load_events_data(mtime):
             except:
                 return []
     return []
+
+@st.cache_data(ttl=3600, show_spinner=False)
+def load_trends_data(mtime):
+    """Loads trends from JSON file."""
+    if os.path.exists(TRENDS_FILE):
+        with open(TRENDS_FILE, 'r', encoding='utf-8') as f:
+            try:
+                return json.load(f)
+            except:
+                return []
+    return []
+
+def update_trends_if_stale():
+    """Checks if trends.json is stale (>24h) and updates it if needed."""
+    is_stale = True
+    if os.path.exists(TRENDS_FILE):
+        mtime = os.path.getmtime(TRENDS_FILE)
+        if time.time() - mtime < 86400: # 24 hours
+            is_stale = False
+            
+    if is_stale:
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+             try:
+                import toml
+                secrets = toml.load(".streamlit/secrets.toml")
+                api_key = secrets.get("GEMINI_API_KEY")
+             except: pass
+             
+        if api_key:
+            new_items = utils.fetch_trend_hunter_items(api_key)
+            if new_items:
+                save_json(TRENDS_FILE, new_items)
+                return len(new_items)
+    return 0
 
 def update_events_if_stale():
     """Checks if events.json is stale (>24h) and updates it if needed."""
@@ -1266,7 +1302,7 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플"]
+    nav_options = ["📰 뉴스 브리핑", "✈️ 태국 여행/핫플", "🌴 핫플 매거진"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -1733,3 +1769,70 @@ else:
                             
         except Exception as e:
             st.error(f"이벤트 정보를 불러오는 중 오류가 발생했습니다: {e}")
+
+    # --- Page 3: Trend Hunter (Magazine) ---
+    elif page_mode == "🌴 핫플 매거진":
+        st.caption("현지인과 여행 고수들이 주목하는 방콕/태국의 최신 핫플레이스를 모았습니다. (Wongnai, BK Magazine 등)")
+        
+        # 1. Update/Load Data
+        try:
+            with st.spinner("최신 트렌드를 확인하는 중... (하루 1회 업데이트)"):
+                new_count = update_trends_if_stale()
+                
+            mtime = 0
+            if os.path.exists(TRENDS_FILE):
+                mtime = os.path.getmtime(TRENDS_FILE)
+            
+            trends = load_trends_data(mtime)
+            
+            if not trends:
+                st.info("아직 수집된 트렌드 정보가 없습니다. 잠시 후 다시 시도해주세요.")
+                # Manual Trigger Button
+                if st.button("🚀 트렌드 수동 업데이트"):
+                     with st.spinner("정보를 수집 중입니다... (최대 1분 소요)"):
+                         update_trends_if_stale() # Force check? Logic above only runs if stale. 
+                         # Actually we need force mode or just rely on staleness. 
+                         # Let's trust the stale check above. If empty, maybe file missing.
+                         # Check helper again: it creates file if fetch succeeds.
+                         st.rerun()
+            else:
+                 # Layout: Pinterest Grid (2 Columns)
+                 st.markdown("### 📸 Trending Now")
+                 
+                 t_m, t_r = st.columns([3, 1])
+                 with t_r:
+                     st.write(f"Updated: {datetime.fromtimestamp(mtime).strftime('%m-%d %H:%M')}")
+                     if st.button("🔄 리프레시"):
+                         st.rerun()
+
+                 cols = st.columns(2)
+                 for idx, item in enumerate(trends):
+                     with cols[idx % 2]:
+                         with st.container(border=True):
+                             # Image
+                             if item.get('image_url'):
+                                 st.image(item['image_url'], use_container_width=True)
+                             
+                             # Badge & Title
+                             badge = item.get('badge', 'Hotplace')
+                             title = item.get('title', '제목 없음')
+                             
+                             # Badge Color Coding
+                             b_color = "gray"
+                             if "Wongnai" in badge: b_color = "orange"
+                             elif "MZ" in badge: b_color = "blue"
+                             elif "현지인" in badge: b_color = "green"
+                             elif "BKK" in badge: b_color = "purple"
+                             
+                             st.markdown(f":{b_color}-background[{badge}] **{title}**")
+                             
+                             # Desc & Location
+                             st.caption(f"📍 {item.get('location', '위치 정보 없음')}")
+                             st.write(item.get('desc', ''))
+                             
+                             # Link
+                             if item.get('link'):
+                                 st.link_button("자세히 보기 🔗", item['link'], use_container_width=True)
+
+        except Exception as e:
+            st.error(f"매거진 로드 실패: {e}")

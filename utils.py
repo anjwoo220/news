@@ -669,3 +669,222 @@ def fetch_big_events_by_keywords(keywords, api_key):
             print(f"Error analyzing {kw}: {e}")
             
     return found_events
+
+# --------------------------------------------------------------------------------
+# Trend Hunter (Magazine) Logic - 4 Sources
+# --------------------------------------------------------------------------------
+
+def fetch_trend_hunter_items(api_key):
+    """
+    Aggregates trend/travel content from 4 sources:
+    1. Wongnai (Restaurants)
+    2. TheSmartLocal TH (Hotspots)
+    3. Chillpainai (Local Travel)
+    4. BK Magazine (BKK Life)
+    
+    Returns:
+        list: shuffled list of dicts {title, desc, location, image_url, link, badge}
+    """
+    import random
+    items = []
+    
+    print("Fetching Trend Hunter items...")
+    
+    # Common Headers
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+    }
+
+    # Helper: Gemini Analyzer for Trend Content
+    def analyze_trend_content(raw_inputs, source_type):
+        """
+        raw_inputs: List of dicts {raw_title, raw_link, raw_img, context}
+        """
+        if not raw_inputs: return []
+        
+        try:
+            genai.configure(api_key=api_key)
+            model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+            
+            # Batch Prompt
+            prompt = f"""
+            You are a Thai Travel Editor specialized in customizing content for Korean tourists.
+            Analyze the following raw items from {source_type}.
+            
+            Input Data:
+            {json.dumps(raw_inputs, ensure_ascii=False)}
+            
+            Task:
+            1. Summarize the appeal of each place/activity in 1 line (Korean). Remove ads.
+            2. Transliterate Thai/English names to Korean pronunciation (e.g. Thipsamai -> 팁사마이).
+            3. Return a JSON list.
+            
+            Output JSON Format:
+            [
+                {{
+                    "original_index": 0 (int),
+                    "title": "Attractive Korean Title (e.g. '방콕 최고의 팟타이, 팁사마이')",
+                    "location": "Rough Location (e.g. '방콕 구시가지')",
+                    "desc": "1 line summary of why it is good.",
+                }}
+            ]
+            """
+            
+            response = model.generate_content(prompt)
+            text = response.text.strip()
+            if "```json" in text: text = text.replace("```json", "").replace("```", "")
+            if text.startswith("```"): text = text.replace("```", "")
+
+            result = json.loads(text)
+            
+            processed = []
+            for res in result:
+                idx = res.get('original_index')
+                if idx is not None and idx < len(raw_inputs):
+                    original = raw_inputs[idx]
+                    processed.append({
+                        "title": res.get('title'),
+                        "location": res.get('location'),
+                        "desc": res.get('desc'),
+                        "image_url": original.get('raw_img'),
+                        "link": original.get('raw_link'),
+                        "badge": source_type
+                    })
+            return processed
+        except Exception as e:
+            print(f"Trend Analysis Error ({source_type}): {e}")
+            return []
+
+    # ------------------------------------------------
+    # B. TheSmartLocal TH (MZ Hotspots)
+    # ------------------------------------------------
+    try:
+        url = "https://thesmartlocal.co.th/category/things-to-do/"
+        resp = requests.get(url, headers=headers, timeout=5)
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        
+        raw_tsl = []
+        articles = soup.select("article")[:4] # Top 4
+        for i, art in enumerate(articles):
+            link_tag = art.find("a")
+            # TSL images often in specialized div or noscript
+            img_tag = art.find("img")
+            
+            if link_tag:
+                 raw_link = link_tag['href']
+                 raw_img = img_tag.get('src') if img_tag else ""
+                 if not raw_img and img_tag: raw_img = img_tag.get('data-src') or img_tag.get('data-lazy-src')
+                 
+                 raw_tsl.append({
+                     "raw_title": link_tag.get_text(strip=True),
+                     "raw_link": raw_link,
+                     "raw_img": raw_img,
+                     "context": "Category: Things to do"
+                 })
+                 
+        if raw_tsl:
+            items.extend(analyze_trend_content(raw_tsl, "[MZ 핫플]"))
+            
+    except Exception as e:
+        print(f"TSL Error: {e}")
+
+    # ------------------------------------------------
+    # C. Chillpainai (Local Travel)
+    # ------------------------------------------------
+    try:
+        url = "https://www.chillpainai.com/scoop/"
+        resp = requests.get(url, headers=headers, timeout=5)
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        
+        raw_chill = []
+        # Chillpainai Scoop Grid
+        scoops = soup.select("div.scoop-content")[:4] 
+        if not scoops: scoops = soup.select(".col-sm-4")[:4] 
+
+        for i, sc in enumerate(scoops):
+             link_tag = sc.find("a")
+             img_tag = sc.find("img")
+             title_tag = sc.find("h4") or sc.find("div", class_="title")
+             
+             if link_tag and img_tag:
+                  raw_chill.append({
+                      "raw_title": title_tag.get_text(strip=True) if title_tag else "Chillpainai Article",
+                      "raw_link": link_tag['href'],
+                      "raw_img": img_tag.get('src'),
+                      "context": "Local Travel Guide"
+                  })
+
+        if raw_chill:
+             items.extend(analyze_trend_content(raw_chill, "[현지인 추천]"))
+
+    except Exception as e:
+        print(f"Chillpainai Error: {e}")
+
+    # ------------------------------------------------
+    # D. BK Magazine (BKK Life)
+    # ------------------------------------------------
+    try:
+        url = "https://bk.asia-city.com/things-to-do-bangkok"
+        resp = requests.get(url, headers=headers, timeout=5)
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        
+        raw_bk = []
+        rows = soup.select("div.views-row")[:4]
+        
+        for i, row in enumerate(rows):
+             title_div = row.select_one("div.views-field-title a")
+             img_div = row.select_one("div.views-field-field-image img")
+             
+             if title_div and img_div:
+                  link = "https://bk.asia-city.com" + title_div['href'] if title_div['href'].startswith("/") else title_div['href']
+                  raw_bk.append({
+                      "raw_title": title_div.get_text(strip=True),
+                      "raw_link": link,
+                      "raw_img": img_div.get('src'),
+                      "context": "Bangkok Events/Lifestyle"
+                  })
+
+        if raw_bk:
+             items.extend(analyze_trend_content(raw_bk, "[BKK 라이프]"))
+
+    except Exception as e:
+        print(f"BK Mag Error: {e}")
+
+    # ------------------------------------------------
+    # A. Wongnai (Articles)
+    # ------------------------------------------------
+    try:
+        url = "https://www.wongnai.com/articles" 
+        resp = requests.get(url, headers=headers, timeout=5)
+        soup = BeautifulSoup(resp.content, 'html.parser')
+        
+        raw_w = []
+        cards = soup.select("div[class*='Card']")[:4]
+        if not cards: cards = soup.find_all("a", href=True)[:10] 
+        
+        count = 0
+        for c in cards:
+             if count >= 4: break
+             href = c['href']
+             if "/articles/" in href:
+                  img = c.find("img")
+                  h = c.find("h3") or c.find("h2") or c.find("div", class_="title")
+                  if img and h:
+                       link = "https://www.wongnai.com" + href if href.startswith("/") else href
+                       raw_w.append({
+                           "raw_title": h.get_text(strip=True),
+                           "raw_link": link,
+                           "raw_img": img.get('src') or img.get('data-src'),
+                           "context": "Food Guide/Review"
+                       })
+                       count += 1
+        
+        if raw_w:
+             items.extend(analyze_trend_content(raw_w, "[Wongnai 미식]"))
+
+    except Exception as e:
+        print(f"Wongnai Error: {e}")
+
+    # Shuffle for Magazine feel
+    random.shuffle(items)
+    return items
