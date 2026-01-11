@@ -757,6 +757,13 @@ if app_mode == "Admin Console":
                                     new_event_data['source'] = 'manual' # AI-extracted but User initiated = Manual
                                     big_events_data.insert(0, new_event_data)
                                     save_json(BIG_EVENTS_FILE, big_events_data)
+                                    
+                                    # Persistence
+                                    with st.spinner("GitHub에 저장 중..."):
+                                        ok, msg = utils.push_changes_to_github([BIG_EVENTS_FILE], f"Add Big Event (AI): {new_event_data.get('title')}")
+                                        if ok: st.toast("✅ GitHub 저장 완료")
+                                        else: st.error(f"GitHub 저장 실패: {msg}")
+
                                     st.success(f"✅ 등록 성공! [{new_event_data.get('title')}]")
                                     st.rerun()
                                 else:
@@ -785,6 +792,13 @@ if app_mode == "Admin Console":
                         }
                         big_events_data.insert(0, new_item)
                         save_json(BIG_EVENTS_FILE, big_events_data)
+                        
+                        # Persistence
+                        with st.spinner("GitHub에 저장 중..."):
+                            ok, msg = utils.push_changes_to_github([BIG_EVENTS_FILE], f"Add Big Event: {n_title}")
+                            if ok: st.toast("✅ GitHub 저장 완료")
+                            else: st.error(f"GitHub 저장 실패: {msg}")
+
                         st.success("추가되었습니다.")
                         st.rerun()
             
@@ -807,6 +821,13 @@ if app_mode == "Admin Console":
                            be['price'] = e_price
                            be['status'] = e_status
                            save_json(BIG_EVENTS_FILE, big_events_data)
+                           
+                           # Persistence
+                           with st.spinner("GitHub에 저장 중..."):
+                               ok, msg = utils.push_changes_to_github([BIG_EVENTS_FILE], f"Update Big Event: {e_title}")
+                               if ok: st.toast("✅ GitHub 저장 완료")
+                               else: st.error(f"GitHub 저장 실패: {msg}")
+
                            st.success("저장됨")
                     
                     with c2:
@@ -815,11 +836,25 @@ if app_mode == "Admin Console":
                         if st.button("삭제", key=f"be_del_{i}"):
                             big_events_data.pop(i)
                             save_json(BIG_EVENTS_FILE, big_events_data)
+                            
+                            # Persistence
+                            with st.spinner("GitHub에 저장 중..."):
+                                ok, msg = utils.push_changes_to_github([BIG_EVENTS_FILE], f"Delete Big Event Index {i}")
+                                if ok: st.toast("✅ GitHub 저장 완료")
+                                else: st.error(f"GitHub 저장 실패: {msg}")
+
                             st.rerun()
             
             st.divider()
             if st.button("🗑️ 빅매치 데이터 전체 초기화 (Reset)", type="primary"):
                 save_json(BIG_EVENTS_FILE, [])
+                
+                # Persistence
+                with st.spinner("GitHub에 저장 중..."):
+                    ok, msg = utils.push_changes_to_github([BIG_EVENTS_FILE], "Reset Big Events")
+                    if ok: st.toast("✅ GitHub 저장 완료")
+                    else: st.error(f"GitHub 저장 실패: {msg}")
+
                 st.warning("초기화되었습니다.")
                 st.rerun()
 
@@ -1778,15 +1813,7 @@ else:
                 else:
                     filtered_events = events
                     
-                # Share Text Generation for Events
-                with st.expander("📋 여행 정보 공유 텍스트 복사"):
-                    share_event_text = f"[🇹🇭 오늘의 태국 - 여행/핫플]\n\n"
-                    for idx, event in enumerate(filtered_events[:10]): # Limit to top 10
-                         share_event_text += f"{idx+1}. {event.get('title','?')}\n"
-                         share_event_text += f"   🗓 {event.get('date','')}\n"
-                         share_event_text += f"   📍 {event.get('location','')}\n\n"
-                    share_event_text += f"👉 더 보기: {DEPLOY_URL}"
-                    st.code(share_event_text, language="text")
+
 
                 st.write(f"총 {len(filtered_events)}개의 행사가 있습니다.")
 

@@ -888,3 +888,57 @@ def fetch_trend_hunter_items(api_key):
     # Shuffle for Magazine feel
     random.shuffle(items)
     return items
+
+def push_changes_to_github(files_to_commit, commit_message):
+    """
+    Commits and pushes specified files to GitHub.
+    Requires GITHUB_TOKEN in secrets.toml or environment.
+    """
+    import subprocess
+    import toml
+    
+    # 1. Get Token
+    token = os.environ.get("GITHUB_TOKEN")
+    if not token:
+        try:
+            secrets = toml.load(".streamlit/secrets.toml")
+            token = secrets.get("GITHUB_TOKEN")
+        except: pass
+    
+    if not token:
+        return False, "GITHUB_TOKEN not found in secrets."
+
+    # 2. Configure Git (If needed)
+    # Check if user is set
+    try:
+        subprocess.run("git config user.name", shell=True, check=True, capture_output=True)
+    except:
+        subprocess.run('git config user.email "auto-deploy@streamlit.app"', shell=True)
+        subprocess.run('git config user.name "Streamlit Admin"', shell=True)
+
+    try:
+        # 3. Add Files
+        for f in files_to_commit:
+            subprocess.run(f"git add {f}", shell=True, check=True)
+            
+        # 4. Commit
+        subprocess.run(f'git commit -m "{commit_message}"', shell=True, check=True)
+        
+        # 5. Push
+        # Use token in URL for auth
+        repo_url = subprocess.check_output("git remote get-url origin", shell=True, text=True).strip()
+        
+        if "https://" in repo_url:
+            auth_url = repo_url.replace("https://", f"https://{token}@")
+        else:
+            auth_url = repo_url
+            
+        subprocess.run(f"git push {auth_url} HEAD:main", shell=True, check=True)
+        
+        return True, "Successfully pushed to GitHub!"
+        
+    except subprocess.CalledProcessError as e:
+        return False, f"Git Error: {e}"
+    except Exception as e:
+        return False, f"Error: {e}"
+
