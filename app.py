@@ -843,6 +843,8 @@ if app_mode == "Admin Console":
                         e_booking = st.text_input("예매일", be.get('booking_date',''), key=f"be_bd_{i}")
                         e_price = st.text_input("가격", be.get('price',''), key=f"be_pr_{i}")
                         e_status = st.text_input("상태", be.get('status'), key=f"be_s_{i}")
+                        e_img = st.text_input("이미지 URL", be.get('image_url', ''), key=f"be_img_{i}")
+                        if e_img: st.image(e_img, width=150)
                         
                         if st.button("변경 저장", key=f"be_save_{i}"):
                            be['title'] = e_title
@@ -850,6 +852,7 @@ if app_mode == "Admin Console":
                            be['booking_date'] = e_booking
                            be['price'] = e_price
                            be['status'] = e_status
+                           be['image_url'] = e_img
                            save_json(BIG_EVENTS_FILE, big_events_data)
                            
                            # Persistence
