@@ -173,6 +173,46 @@ def main():
         if os.path.exists(REMOTE_BIG_EVENTS_FILE):
              os.remove(REMOTE_BIG_EVENTS_FILE)
 
+    # 3-C. Sync Trends (Magazine)
+    print("\n3-C. Syncing Trend Data...")
+    TRENDS_FILE = 'data/trends.json'
+    REMOTE_TRENDS_FILE = 'data/trends_remote.json'
+    
+    has_remote_trends = False
+    try:
+        content = run_command("git show origin/main:data/trends.json")
+        with open(REMOTE_TRENDS_FILE, 'w', encoding='utf-8') as f:
+            f.write(content)
+        has_remote_trends = True
+    except:
+        print("Remote trends.json not found. Skipping.")
+        
+    if has_remote_trends:
+        local_trends = load_json_generic(TRENDS_FILE, list)
+        remote_trends = load_json_generic(REMOTE_TRENDS_FILE, list)
+        
+        # Merge logic for Trends: Distinct by Title + Link
+        def merge_trends_local(local_list, remote_list):
+            merged = list(local_list)
+            count_new = 0
+            local_sigs = set((t.get('title'), t.get('link')) for t in merged)
+            
+            for item in remote_list:
+                sig = (item.get('title'), item.get('link'))
+                if sig not in local_sigs:
+                    merged.append(item)
+                    local_sigs.add(sig)
+                    count_new += 1
+            return merged, count_new
+
+        merged_trends, added_count = merge_trends_local(local_trends, remote_trends)
+        
+        if added_count > 0:
+            print(f"✅ Restored {added_count} trends from remote!")
+            save_json(TRENDS_FILE, merged_trends)
+        if os.path.exists(REMOTE_TRENDS_FILE):
+             os.remove(REMOTE_TRENDS_FILE)
+
     # 4. Push
     print("\n4. Committing and Pushing to GitHub...")
     try:
