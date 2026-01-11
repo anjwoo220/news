@@ -341,3 +341,115 @@ def get_air_quality(token):
         print(f"Air Quality Error: {e}")
     
     return None
+
+import requests
+from bs4 import BeautifulSoup
+
+def fetch_bkk_events():
+    """
+    Fetches and parses Bangkok event information from ThaiTicketMajor and BK Magazine using Gemini.
+    Returns:
+        list: A list of event dictionaries (title, date, location, image_url, link, type).
+    """
+    print("Fetching BKK Events...")
+    events = []
+    
+    targets = [
+        {
+            "name": "ThaiTicketMajor",
+            "url": "https://www.thaiticketmajor.com/concert/",
+            "selector": "body", 
+            "type": "concert"
+        },
+        {
+            "name": "BK Magazine",
+            "url": "https://bk.asia-city.com/things-to-do-bangkok",
+            "selector": "div.view-content",
+            "type": "event"
+        }
+    ]
+
+    combined_html_context = ""
+
+    for target in targets:
+        try:
+            print(f" - Requesting {target['name']}...")
+            headers = {'User-Agent': 'Mozilla/5.0'}
+            response = requests.get(target['url'], headers=headers, timeout=10)
+            
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.content, 'html.parser')
+                
+                # Extract relevant part
+                content = soup.select_one(target['selector'])
+                if not content:
+                     content = soup.body
+                
+                # Kill scripts
+                for s in content(["script", "style", "nav", "footer", "header"]):
+                    s.extract()
+                
+                # Get text + img tags to hint Gemini about images
+                # Actually, Gemini handles raw HTML well if it's not too huge.
+                # Let's clean attributes to save tokens
+                html_snippet = str(content)[:15000] # Limit size per source
+                
+                combined_html_context += f"\n\n--- Source: {target['name']} ({target['url']}) ---\n{html_snippet}"
+                
+        except Exception as e:
+            print(f"Error fetching {target['name']}: {e}")
+
+    if not combined_html_context:
+        return []
+
+    # Gemini Processing
+    try:
+        model = genai.GenerativeModel('gemini-1.5-flash')
+        
+        prompt = f"""
+        You are a helpful event curator for Korean tourists in Bangkok.
+        Analyze the following HTML snippets from event websites.
+        Extract a list of upcoming MAJOR concerts and interesting weekend events.
+        
+        Return the result ONLY as a JSON list of objects.
+        
+        JSON Format:
+        [
+            {{
+                "title": "Event Name (Summarize in Korean, e.g. '브루노 마스 내한 공연')",
+                "date": "YYYY-MM-DD or Date Range String (e.g. '2024-01-15' or '1월 15일 - 16일')",
+                "location": "Venue Name (in Korean or English)",
+                "image_url": "Full URL of the event poster/image",
+                "link": "Full URL to booking page or article",
+                "type": "Concert" or "Exhibition" or "Market" or "Party"
+            }}
+        ]
+
+        Rules:
+        1. Select only the most popular/relevant events (Max 8-10 items total).
+        2. Prefer events happening soon (within next 30 days).
+        3. Ensure image_url is an absolute URL (if relative, prepend https://www.thaiticketmajor.com or https://bk.asia-city.com accordingly).
+        4. Do not include sold-out or past events if clear.
+        5. Output strictly JSON. No markdown.
+
+        HTML Context:
+        {combined_html_context}
+        """
+        
+        print(" - Sending to Gemini...")
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+        
+        # Clean markdown
+        if text.startswith("```json"):
+            text = text[7:]
+        if text.endswith("```"):
+            text = text[:-3]
+            
+        data = json.loads(text)
+        print(f" - Parsed {len(data)} events.")
+        return data
+
+    except Exception as e:
+        print(f"Gemini processing error: {e}")
+        return []

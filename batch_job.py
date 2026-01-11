@@ -1,3 +1,4 @@
+import difflib
 import json
 import os
 import utils
@@ -172,7 +173,16 @@ def main():
     # 6. API Call
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("Error: GEMINI_API_KEY not found.")
+        # Fallback to secrets.toml
+        try:
+            import toml
+            secrets = toml.load(".streamlit/secrets.toml")
+            api_key = secrets.get("GEMINI_API_KEY")
+        except:
+            pass
+            
+    if not api_key:
+        print("Error: GEMINI_API_KEY not found in env or secrets.toml.")
         return
 
     print("Calling Gemini API...")
