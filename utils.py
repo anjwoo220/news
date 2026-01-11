@@ -420,10 +420,14 @@ def fetch_thai_events():
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
         
+        today_str = datetime.now().strftime('%Y-%m-%d')
+        
         prompt = f"""
         You are a helpful event curator for Korean tourists visiting Thailand.
         Analyze the following HTML snippets from event websites (ThaiTicketMajor, BK Magazine, TAT News).
         Extract a list of distinct events/festivals across Thailand.
+        
+        Current Date: {today_str}
         
         CRITICAL: Identify the **REGION** (City/Province) based on the location info.
         - If "Chiang Mai" -> "치앙마이"
@@ -450,7 +454,8 @@ def fetch_thai_events():
 
         Rules:
         1. Select 8-12 diverse items (Mix of Concerts, Festivals, Exhibitions).
-        2. Prefer events happening soon (next 45 days).
+        2. CRITICAL: EXCLUDE events that ended BEFORE {today_str}. Only show current or future events.
+        3. Prefer events happening soon (next 45 days).
         3. Ensure image_url is absolute.
         4. Output strictly JSON.
         

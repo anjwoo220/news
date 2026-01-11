@@ -137,13 +137,67 @@ def update_events_if_stale():
             return added_count
     return 0
 
+def is_event_active(date_str):
+    """
+    Checks if an event is active based on its date string.
+    Returns True if:
+    1. Date string is valid and >= Today.
+    2. Date string contains a range, and end date >= Today.
+    3. Date string is ambiguous but not clearly in the past.
+    Returns False if event is definitely in the past.
+    """
+    if not date_str:
+        return True # Keep if no date
+
+    try:
+        today = datetime.now().date()
+        
+        # Clean string
+        clean_date = date_str.replace('.', '-').strip()
+        
+        # Case A: Range "2024-01-01 ~ 2024-02-01"
+        if '~' in clean_date:
+            parts = clean_date.split('~')
+            end_part = parts[1].strip()
+            if not end_part: 
+                start_part = parts[0].strip()
+                # "2024-01-01 ~" -> Check start date? No, it implies ongoing.
+                # Just check if start is not ancient? For now, assume active.
+                return True
+                
+            try:
+                # Try parsing end date
+                end_dt = datetime.strptime(end_part, "%Y-%m-%d").date()
+                return end_dt >= today
+            except:
+                pass # Parse fail, default True
+
+        # Case B: Single Date "2024-01-01"
+        try:
+            dt = datetime.strptime(clean_date, "%Y-%m-%d").date()
+            return dt >= today
+        except:
+             pass
+
+    except:
+        pass
+        
+    # Default to True if we differ parsing, to avoid hiding valid events with weird formats
+    return True
+
 def get_cached_events():
     """Wrapper that ensures file exists/is filtered, then loads."""
     update_events_if_stale()
     mtime = 0
     if os.path.exists(EVENTS_FILE):
         mtime = os.path.getmtime(EVENTS_FILE)
-    return load_events_data(mtime)
+    
+    events = load_events_data(mtime)
+    
+    # Python-side Filtering: Remove expired events
+    valid_events = [e for e in events if is_event_active(e.get('date'))]
+    
+    return valid_events
 
 def load_json(file_path, default=None):
     if default is None:
