@@ -411,7 +411,7 @@ if app_mode == "Admin Console":
         
         # Tabs for better organization
         # Tabs for better organization
-        tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행"])
+        tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🌴 매거진 관리"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -822,6 +822,74 @@ if app_mode == "Admin Console":
                 save_json(BIG_EVENTS_FILE, [])
                 st.warning("초기화되었습니다.")
                 st.rerun()
+
+        # --- Tab 7: Magazine (Trend Hunter) Management ---
+        with tab7:
+            st.subheader("🌴 핫플 매거진 관리 (트렌드 헌터)")
+            st.info("4대 소스(Wongnai, TSL, Chillpainai, BK Mag)에서 수집된 트렌드 정보를 관리합니다.")
+            
+            # 1. Manual Fetch
+            col_m1, col_m2 = st.columns([1, 4])
+            with col_m1:
+                if st.button("🚀 최신 트렌드 수집 (Update)", type="primary"):
+                    with st.spinner("최신 정보를 수집하고 분석 중입니다... (약 30초 소요)"):
+                        update_trend_count = update_trends_if_stale() # Re-uses staleness check wrapper, but effective if logic allows or we force it.
+                        # Actually update_trends_if_stale only runs if file is old. We need FORCE update here.
+                        # Let's call utils directly here for Admin force update.
+                        
+                        api_key = os.environ.get("GEMINI_API_KEY")
+                        if not api_key:
+                             # Try secrets
+                             try:
+                                import toml
+                                secrets = toml.load(".streamlit/secrets.toml")
+                                api_key = secrets.get("GEMINI_API_KEY")
+                             except: pass
+                        
+                        if api_key:
+                            new_items = utils.fetch_trend_hunter_items(api_key)
+                            if new_items:
+                                save_json(TRENDS_FILE, new_items)
+                                st.success(f"업데이트 완료! 총 {len(new_items)}개의 핫플을 가져왔습니다.")
+                                st.rerun()
+                            else:
+                                st.warning("새로운 데이터를 가져오지 못했습니다.")
+                        else:
+                            st.error("API Key가 없습니다.")
+
+            # 2. List & Edit
+            if os.path.exists(TRENDS_FILE):
+                trends = load_json(TRENDS_FILE, [])
+                st.write(f"현재 등록된 핫플: **{len(trends)}**개")
+                
+                for i, item in enumerate(trends):
+                    with st.expander(f"#{i+1} {item.get('title')} ({item.get('badge')})"):
+                        c1, c2 = st.columns([3, 1])
+                        with c1:
+                            # Helper forms
+                            new_title = st.text_input(f"제목 #{i}", item.get('title'), key=f"tr_t_{i}")
+                            new_loc = st.text_input(f"위치 #{i}", item.get('location'), key=f"tr_l_{i}")
+                            new_desc = st.text_area(f"설명 #{i}", item.get('desc'), key=f"tr_d_{i}")
+                            
+                            if st.button(f"수정 저장 #{i}", key=f"tr_save_{i}"):
+                                trends[i]['title'] = new_title
+                                trends[i]['location'] = new_loc
+                                trends[i]['desc'] = new_desc
+                                save_json(TRENDS_FILE, trends)
+                                st.success("저장되었습니다.")
+                                st.rerun()
+                        
+                        with c2:
+                            if item.get('image_url'):
+                                st.image(item['image_url'], use_container_width=True)
+                            
+                            st.caption(f"소스: {item.get('badge')}")
+                            if st.button(f"삭제 #{i}", key=f"tr_del_{i}", type="secondary"):
+                                trends.pop(i)
+                                save_json(TRENDS_FILE, trends)
+                                st.rerun()
+            else:
+                st.warning("아직 데이터가 없습니다. 위의 '수집' 버튼을 눌러주세요.")
         
 else:
     # --- Viewer Mode ---
