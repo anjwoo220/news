@@ -898,14 +898,7 @@ if app_mode == "Admin Console":
                                 st.error("가져온 데이터가 없습니다.")
                         else:
                             st.error("API Key Missing")
-                            if new_items:
-                                save_json(TRENDS_FILE, new_items)
-                                st.success(f"업데이트 완료! 총 {len(new_items)}개의 핫플을 가져왔습니다.")
-                                st.rerun()
-                            else:
-                                st.warning("새로운 데이터를 가져오지 못했습니다.")
-                        else:
-                            st.error("API Key가 없습니다.")
+
 
             # 2. List & Edit
             if os.path.exists(TRENDS_FILE):
