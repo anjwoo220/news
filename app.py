@@ -432,7 +432,7 @@ if app_mode == "Admin Console":
         st.rerun()
 
     # Visitor Counter (Hidden in Admin, or optional)
-    update_visit_stats() # Just ensure stats update if admin visits
+
     
     if check_password():
         st.success("관리자 모드 진입 성공") # Debugging: Confirmation
