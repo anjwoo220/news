@@ -17,7 +17,7 @@ COMMENTS_FILE = 'data/comments.json'
 STATS_FILE = 'data/stats.json'
 DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
-st.set_page_config(page_title="태국 뉴스 브리핑", page_icon="🇹🇭", layout="wide")
+st.set_page_config(page_title="오늘의 태국 - 뉴스 & 여행", page_icon="🇹🇭", layout="wide")
 
 # UI 요소 완벽하게 숨기기 (모바일/PC 공통)
 hide_streamlit_style = """
@@ -42,6 +42,9 @@ hide_streamlit_style = """
     /* PC/기본: 기존 크기 유지 (Streamlit Default) */
     h1 {
         white-space: nowrap !important; /* 줄바꿈 방지 */
+        font-weight: 800 !important; /* Extra Bold */
+        font-size: 3rem !important; /* PC/Tablet: 크게 */
+        letter-spacing: -2px; 
     }
     
     /* 모바일 (768px 이하) */
@@ -331,7 +334,7 @@ if config_data.get("notice", {}).get("enabled"):
     st.info(config_data["notice"]["text"], icon="📢")
 
 # Sidebar
-st.sidebar.title("🗂️ 태국 뉴스 브리핑")
+st.sidebar.title("🗂️ 오늘의 태국")
 
 # Mode Selection
 # Mode Selection Logic (Secret Door)
@@ -537,8 +540,8 @@ else:
     # --- Dark/Light Mode Toggle ---
     col_t1, col_t2 = st.columns([8, 2])
     with col_t1:
-        st.title("🇹🇭 태국 뉴스 브리핑")
-        st.caption("AI가 엄선한 태국의 주요 이슈를 매일 실시간 업데이트 하여 전해드립니다.")
+        st.title("🇹🇭 오늘의 태국")
+        st.caption("뉴스부터 여행까지, 가장 빠른 태국 소식")
     with col_t2:
         # Default False (Light Mode)
         is_dark = st.toggle("🌘 다크 모드", value=False)
