@@ -919,17 +919,12 @@ if app_mode == "Admin Console":
                             
                             if new_items:
                                 # Safe Merge: Load existing -> Append -> Deduplicate
-                                
-                                # Use dict for deduplication by link
                                 item_map = {item['link']: item for item in existing_items if item.get('link')}
-                                
                                 for item in new_items:
                                     if item.get('link'):
-                                        item_map[item['link']] = item # Overwrite or add
+                                        item_map[item['link']] = item 
                                 
                                 merged_list = list(item_map.values())
-                                
-                                # Sort by random or keep order? Random shuffle again for freshness
                                 import random
                                 random.shuffle(merged_list)
                                 
@@ -948,40 +943,76 @@ if app_mode == "Admin Console":
                         else:
                             st.error("API Key Missing")
 
-
-            # 2. List & Edit
-            if os.path.exists(TRENDS_FILE):
-                trends = load_json(TRENDS_FILE, [])
-                st.write(f"현재 등록된 핫플: **{len(trends)}**개")
-                
-                for i, item in enumerate(trends):
-                    with st.expander(f"#{i+1} {item.get('title')} ({item.get('badge')})"):
-                        c1, c2 = st.columns([3, 1])
-                        with c1:
-                            # Helper forms
-                            new_title = st.text_input(f"제목 #{i}", item.get('title'), key=f"tr_t_{i}")
-                            new_loc = st.text_input(f"위치 #{i}", item.get('location'), key=f"tr_l_{i}")
-                            new_desc = st.text_area(f"설명 #{i}", item.get('desc'), key=f"tr_d_{i}")
-                            
-                            if st.button(f"수정 저장 #{i}", key=f"tr_save_{i}"):
-                                trends[i]['title'] = new_title
-                                trends[i]['location'] = new_loc
-                                trends[i]['desc'] = new_desc
-                                save_json(TRENDS_FILE, trends)
-                                st.success("저장되었습니다.")
-                                st.rerun()
-                        
-                        with c2:
-                            if item.get('image_url'):
-                                st.image(item['image_url'], use_container_width=True)
-                            
-                            st.caption(f"소스: {item.get('badge')}")
-                            if st.button(f"삭제 #{i}", key=f"tr_del_{i}", type="secondary"):
-                                trends.pop(i)
-                                save_json(TRENDS_FILE, trends)
-                                st.rerun()
+            st.markdown("---")
+            
+            # 2. Manage Existing Items (CRUD)
+            st.subheader("📋 매거진 콘텐츠 편집/삭제")
+            
+            mag_items = load_json(MAGAZINE_FILE, [])
+            
+            if not mag_items:
+                st.info("등록된 매거진 콘텐츠가 없습니다.")
             else:
-                st.warning("아직 데이터가 없습니다. 위의 '수집' 버튼을 눌러주세요.")
+                for i, item in enumerate(mag_items):
+                    with st.expander(f"#{i+1} {item.get('catchy_headline', item.get('title', 'No Title'))}"):
+                        with st.form(key=f"mag_form_{i}"):
+                            c1, c2 = st.columns([1, 1])
+                            m_title = c1.text_input("제목 (Title)", item.get('title', ''))
+                            m_headline = c2.text_input("헤드라인 (Catchy)", item.get('catchy_headline', ''))
+                            
+                            m_summary = st.text_area("요약 (Summary)", item.get('summary', ''), height=100)
+                            
+                            c3, c4 = st.columns(2)
+                            m_tags = c3.text_input("태그 (쉼표로 구분)", ", ".join(item.get('vibe_tags', [])))
+                            m_badge = c4.text_input("뱃지 (예: [맛집랭킹])", item.get('badge', ''))
+                            
+                            c5, c6 = st.columns(2)
+                            m_must = c5.text_input("추천 메뉴 (Must Eat)", item.get('must_eat', ''))
+                            m_price = c6.text_input("가격대 (Price)", item.get('price_level', ''))
+                            
+                            m_tip = st.text_input("꿀팁 (Pro Tip)", item.get('pro_tip', ''))
+                            m_img = st.text_input("이미지 URL", item.get('image_url', ''))
+                            if m_img: st.image(m_img, width=200)
+                            
+                            m_link = st.text_input("원본 링크", item.get('link', ''))
+
+                            # Actions
+                            col_save, col_del = st.columns([1, 5])
+                            saved = col_save.form_submit_button("💾 저장")
+                            
+                            if saved:
+                                mag_items[i]['title'] = m_title
+                                mag_items[i]['catchy_headline'] = m_headline
+                                mag_items[i]['summary'] = m_summary
+                                mag_items[i]['vibe_tags'] = [t.strip() for t in m_tags.split(",") if t.strip()]
+                                mag_items[i]['badge'] = m_badge
+                                mag_items[i]['must_eat'] = m_must
+                                mag_items[i]['price_level'] = m_price
+                                mag_items[i]['pro_tip'] = m_tip
+                                mag_items[i]['image_url'] = m_img
+                                mag_items[i]['link'] = m_link
+                                
+                                save_json(MAGAZINE_FILE, mag_items)
+                                
+                                with st.spinner("GitHub에 저장 중..."):
+                                    ok, msg = utils.push_changes_to_github([MAGAZINE_FILE], f"Edit Magazine Item #{i}")
+                                    if ok: st.toast("✅ 저장 완료")
+                                
+                                st.rerun()
+
+                        # Delete Button (Outside Form to avoid validation issues)
+                        if st.button("🗑️ 삭제", key=f"del_mag_{i}"):
+                            mag_items.pop(i)
+                            save_json(MAGAZINE_FILE, mag_items)
+                            
+                            with st.spinner("삭제 후 GitHub 반영 중..."):
+                                ok, msg = utils.push_changes_to_github([MAGAZINE_FILE], f"Delete Magazine Item #{i}")
+                                if ok: st.toast("✅ 삭제 완료")
+                            
+                            st.rerun()
+
+
+
         
 else:
     # --- Viewer Mode ---
