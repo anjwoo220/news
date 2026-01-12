@@ -524,7 +524,6 @@ def save_board_post(nickname, content, password):
             "content": content,
             "password": password
         }])
-        
         # Concat
         updated_df = pd.concat([existing_df, new_row], ignore_index=True)
         
@@ -537,6 +536,34 @@ def save_board_post(nickname, content, password):
              st.error("🚨 구글 시트를 찾을 수 없습니다. (공유 설정 확인 필요)")
         else:
              st.error(f"게시글 저장 실패: {e}")
+        return False
+
+def admin_update_board_post(created_at, new_nickname, new_content):
+    """
+    Admin: Update nickname/content of a post by created_at.
+    """
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
+        
+        if df.empty: return False
+
+        # Find row by created_at (string comparison)
+        mask = df['created_at'] == str(created_at)
+        
+        if not df[mask].empty:
+            # Update specific row
+            df.loc[mask, 'nickname'] = new_nickname
+            df.loc[mask, 'content'] = new_content
+            
+            conn.update(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, data=df)
+            st.cache_data.clear()
+            return True
+        else:
+            return False
+            
+    except Exception as e:
+        st.error(f"관리자 수정 실패: {e}")
         return False
 
 def delete_board_post(created_at, password):
@@ -825,18 +852,29 @@ if app_mode == "Admin Console":
                     st.info("게시글이 없습니다.")
                 else:
                     for i, post in enumerate(board_posts):
-                        with st.container(border=True):
-                            c1, c2 = st.columns([4, 1])
+                        # Unique Key using created_at
+                        unique_key = post.get('created_at', str(i))
+                        
+                        # Use Expander for Edit Mode
+                        with st.expander(f"📝 {post['nickname']} - {unique_key}"):
+                            # Verify created_at is valid for logic
+                            if 'created_at' not in post:
+                                st.warning("⚠️ 날짜 정보(ID)가 없는 게시물입니다.")
+                                
+                            edit_nick = st.text_input("닉네임", post['nickname'], key=f"adm_nick_{i}")
+                            edit_content = st.text_area("내용", post['content'], height=150, key=f"adm_cont_{i}")
+                            
+                            c1, c2 = st.columns([1, 1])
                             with c1:
-                                st.markdown(f"**{post['nickname']}**: {post['content']}")
-                                st.caption(f"{post.get('created_at', 'Unknown')}")
+                                if st.button("수정 저장", key=f"adm_save_{i}"):
+                                    if admin_update_board_post(unique_key, edit_nick, edit_content):
+                                        st.success("수정되었습니다.")
+                                        st.rerun()
                             with c2:
-                                # Use created_at as ID
-                                unique_key = post.get('created_at', str(i))
                                 if st.button("삭제 🗑️", key=f"adm_bd_del_{i}"):
-                                    admin_delete_board_post(unique_key)
-                                    st.success("삭제됨")
-                                    st.rerun()
+                                    if admin_delete_board_post(unique_key):
+                                        st.success("삭제되었습니다.")
+                                        st.rerun()
 
         # --- Tab 4: Settings ---
         with tab4:
