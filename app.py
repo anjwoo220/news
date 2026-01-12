@@ -48,8 +48,8 @@ hide_streamlit_style = """
     [data-testid="stHeader"] {visibility: hidden !important; display: none !important;}
     
     /* 2. 푸터(Made with Streamlit) 및 하단 여백 제거 */
-    footer {visibility: hidden !important; display: none !important; height: 0px !important;}
-    [data-testid="stFooter"] {visibility: hidden !important; display: none !important; height: 0px !important;}
+    footer {visibility: hidden !important; display: none !important; height: 0px !important; pointer-events: none !important; z-index: -1 !important;}
+    [data-testid="stFooter"] {visibility: hidden !important; display: none !important; height: 0px !important; pointer-events: none !important; z-index: -1 !important;}
     
     /* 3. 붉은색 장식 줄 및 툴바 제거 */
     [data-testid="stDecoration"] {visibility: hidden !important; display: none !important;}
@@ -58,11 +58,20 @@ hide_streamlit_style = """
     /* 4. (중요) Streamlit Cloud 전용 요소 숨기기 */
     .stDeployButton {display: none !important;}
     [data-testid="stStatusWidget"] {visibility: hidden !important;}
+
+    /* 2. 푸터 완벽 제거 (유령화) */
+    footer, [data-testid="stFooter"] {
+        display: none !important;
+        visibility: hidden !important;
+        height: 0px !important;
+        pointer-events: none !important; /* 중요: 클릭 투과 */
+        z-index: -1 !important;
+    }
     
-    /* 5. 콘텐츠 영역을 위로 끌어올리기 (헤더가 사라진 빈 공간 삭제) */
+    /* 5. 콘텐츠 영역 여백 확보 */
     .block-container {
         padding-top: 1rem !important;
-        padding-bottom: 0rem !important;
+        padding-bottom: 80px !important; /* 탭 높이만큼 여백 확보 */
     }
 </style>
 """
@@ -124,11 +133,11 @@ st.markdown("""
             bottom: 0 !important;
             left: 0 !important;
             width: 100% !important;
-            background: rgba(255, 255, 255, 0.95) !important;
-            backdrop-filter: blur(10px) !important;
-            z-index: 9999 !important;
-            padding: 5px 5px 15px 5px !important; /* Slimmer bar */
-            border-top: 1px solid #ddd !important;
+            background-color: white !important; /* 배경색 필수 (투명하면 뒤가 비침) */
+            z-index: 99999 !important; /* 무조건 맨 위에 위치 */
+            padding: 5px 5px 15px 5px !important;
+            padding-bottom: env(safe-area-inset-bottom) !important; /* 아이폰 홈바 영역 확보 */
+            border-top: 1px solid #e0e0e0 !important;
             margin: 0 !important;
             display: flex !important;
             flex-direction: row !important;
