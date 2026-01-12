@@ -126,18 +126,18 @@ st.markdown("""
         }
     }
 
-    /* Fix bottom buttons to bottom on Mobile */
+    /* Fix buttons to TOP on Mobile */
     @media (max-width: 768px) {
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
             position: fixed !important;
-            bottom: 0 !important;
+            top: 0 !important;
             left: 0 !important;
             width: 100% !important;
-            background-color: white !important; /* 배경색 필수 (투명하면 뒤가 비침) */
-            z-index: 99999 !important; /* 무조건 맨 위에 위치 */
-            padding: 5px 5px 15px 5px !important;
-            padding-bottom: env(safe-area-inset-bottom) !important; /* 아이폰 홈바 영역 확보 */
-            border-top: 1px solid #e0e0e0 !important;
+            background-color: white !important;
+            z-index: 99999 !important;
+            padding: 5px 5px 5px 5px !important;
+            padding-top: env(safe-area-inset-top) !important; /* 아이폰 노치 영역 확보 */
+            border-bottom: 1px solid #e0e0e0 !important;
             margin: 0 !important;
             display: flex !important;
             flex-direction: row !important;
@@ -169,12 +169,14 @@ st.markdown("""
             color: #FF4B4B !important;
         }
 
-        /* Pad content bottom */
+        /* Pad content TOP to avoid hiding behind nav */
+        /* Remove extra bottom padding */
         .main .block-container {
-            padding-bottom: 250px !important; 
+            padding-top: 80px !important; 
+            padding-bottom: 50px !important;
         }
         .stApp {
-            padding-bottom: 250px !important;
+            padding-top: 80px !important;
         }
         
         /* Pagination Row Fixes */
