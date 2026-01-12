@@ -339,6 +339,16 @@ with st.sidebar:
         👀 Today: <b>{daily_val:,}</b> | Total: <b>{total_val:,}</b>
     </div>
     """, unsafe_allow_html=True)
+    
+    st.markdown("---")
+    st.markdown("### 💡 정보 & 지원")
+    st.markdown(f"🔗 [고객 지원 (Get Help)](https://forms.gle/B9RTDGJcCR9MnJvv5)")
+    with st.expander("ℹ️ 서비스 정보 (About)"):
+        st.markdown("""
+        **오늘의 태국**
+        실시간 태국 여행 정보, 뉴스, 핫플을 한눈에! 
+        태국 정보가 필요한 모든 분들을 위한 AI 기반 브리핑 서비스입니다.
+        """)
 
 # --- Comment System Helpers ---
 def generate_news_id(title):
