@@ -49,12 +49,16 @@ def is_relevant_to_thailand(entry):
     return False
 
 # 1. RSS Parsing (Balanced)
-def fetch_balanced_rss(feeds_config):
+def fetch_balanced_rss(feeds_config, processed_urls=None):
     """
     Fetches RSS feeds and returns a balanced mix of items across categories.
     feeds_config: List of dicts [{'category': '...', 'url': '...'}, ...]
+    processed_urls: Set of strings (optional) to skip already seen news.
     """
     import requests
+    
+    if processed_urls is None:
+        processed_urls = set()
     
     # Using a typical browser User-Agent
     headers = {
@@ -63,7 +67,7 @@ def fetch_balanced_rss(feeds_config):
     }
     
     category_buckets = {}
-    MAX_PER_CATEGORY = 2  # User Limit
+    MAX_PER_CATEGORY = 20  # Increased from 2 to allow checking more feeds
     
     for feed in feeds_config:
         category = feed.get('category', 'General')
@@ -100,6 +104,11 @@ def fetch_balanced_rss(feeds_config):
                 # Filter: Relevance Check (Skip non-Thai news)
                 if not is_relevant_to_thailand(entry):
                     # print(f"Skipping irrelevant: {entry.title}") 
+                    continue
+
+                # Filter: Skip already processed
+                if entry.link in processed_urls:
+                    # print(f"Skipping already processed: {entry.title}")
                     continue
 
                 if is_recent(entry):

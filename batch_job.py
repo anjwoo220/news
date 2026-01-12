@@ -92,7 +92,7 @@ def main():
     # 2. Fetch RSS (Balanced)
     print("Fetching RSS feeds (Balanced Mode)...")
     # feeds is now a list of dicts or objects
-    all_news_items = utils.fetch_balanced_rss(feeds)
+    all_news_items = utils.fetch_balanced_rss(feeds, processed_urls)
     print(f"Total items fetched: {len(all_news_items)}")
     
     # 3. Filter Duplicates (Strict Check + Similarity)

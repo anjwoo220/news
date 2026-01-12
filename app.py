@@ -22,39 +22,35 @@ DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
 st.set_page_config(page_title="오늘의 태국 - 뉴스 & 여행", page_icon="🇹🇭", layout="wide")
 
-# UI 요소 완벽하게 숨기기 (모바일/PC 공통)
+# 📱 모바일/PC 완벽 UI 숨김 처리 (Super Clean Mode)
 hide_streamlit_style = """
 <style>
-    /* 1. 상단 헤더 및 붉은색/무지개색 장식 줄 숨기기 */
-    [data-testid="stDecoration"] {visibility: hidden !important; display: none !important;}
-    [data-testid="stHeader"] {visibility: hidden !important; display: none !important;}
-    header {visibility: hidden !important;}
-
-    /* 2. 햄버거 메뉴 및 툴바 숨기기 */
-    [data-testid="stToolbar"] {visibility: hidden !important; display: none !important;}
-    #MainMenu {visibility: hidden !important; display: none !important;}
-    
-    /* 3. 하단 푸터(Hosted with Streamlit, profile) 숨기기 */
-    [data-testid="stFooter"] {visibility: hidden !important; display: none !important;}
-    footer {visibility: hidden !important; display: none !important;}
-
-    /* 4. 배포 버튼 등 기타 요소 */
-    .stDeployButton {display:none !important;}
-
-    /* 5. 타이틀 반응형 글씨 크기 조절 (추가) */
-    /* PC/기본: 기존 크기 유지 (Streamlit Default) */
-    h1 {
-        white-space: nowrap !important; /* 줄바꿈 방지 */
-        font-weight: 800 !important; /* Extra Bold */
-        font-size: 3rem !important; /* PC/Tablet: 크게 */
-        letter-spacing: -2px; 
+    /* 1. 최상단 헤더, 햄버거 메뉴, 붉은 장식 줄 숨기기 */
+    header, [data-testid="stHeader"], [data-testid="stDecoration"], [data-testid="stToolbar"] {
+        visibility: hidden !important;
+        display: none !important;
+        height: 0px !important;
     }
-    
-    /* 모바일 (768px 이하) */
-    @media screen and (max-width: 768px) {
-        h1 {
-            font-size: 26px !important; /* 모바일용 작은 크기 */
-        }
+
+    /* 2. 푸터(Made with Streamlit) 완벽 숨기기 (모바일 대응 강화) */
+    footer, [data-testid="stFooter"] {
+        visibility: hidden !important;
+        display: none !important;
+        height: 0px !important;
+        opacity: 0 !important;
+        pointer-events: none !important; /* 클릭 방지 */
+    }
+
+    /* 3. 상단 여백(Padding) 제거하여 앱처럼 보이게 만들기 */
+    /* 헤더가 사라진 만큼 콘텐츠를 위로 끌어올림 */
+    .block-container {
+        padding-top: 1rem !important; /* 기본 6rem에서 1rem으로 축소 */
+        padding-bottom: 0rem !important;
+    }
+
+    /* 4. 배포 버튼 등 기타 요소 숨기기 */
+    .stDeployButton {
+        display: none !important;
     }
 </style>
 """
