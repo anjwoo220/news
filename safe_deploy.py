@@ -7,6 +7,8 @@ NEWS_FILE = 'data/news.json'
 EVENTS_FILE = 'data/events.json'
 REMOTE_NEWS_FILE = 'data/news_remote.json'
 REMOTE_EVENTS_FILE = 'data/events_remote.json'
+BOARD_FILE = 'data/board.json'
+REMOTE_BOARD_FILE = 'data/board_remote.json'
 
 def run_command(cmd):
     """Runs a shell command and raises error if it fails."""
@@ -218,12 +220,70 @@ def main():
         if os.path.exists(REMOTE_TRENDS_FILE):
              os.remove(REMOTE_TRENDS_FILE)
 
+    # 3-D. Sync Community Board
+    print("\n3-D. Syncing Community Board...")
+    has_remote_board = False
+    try:
+        content = run_command("git show origin/main:data/board.json")
+        with open(REMOTE_BOARD_FILE, 'w', encoding='utf-8') as f:
+            f.write(content)
+        has_remote_board = True
+    except:
+        print("Remote board.json not found. Skipping.")
+
+    if has_remote_board:
+        local_board = load_json_generic(BOARD_FILE, list)
+        remote_board = load_json_generic(REMOTE_BOARD_FILE, list)
+        
+        # Merge Logic: Base = Remote. Add Local if new.
+        def merge_board(local_b, remote_b):
+            merged = list(remote_b)
+            count = 0
+            # Signature: content + date + nickname
+            remote_sigs = set((b.get('content'), b.get('date'), b.get('nickname')) for b in merged)
+            
+            for item in local_b:
+                sig = (item.get('content'), item.get('date'), item.get('nickname'))
+                if sig not in remote_sigs:
+                    merged.insert(0, item) # Prepend new local items? Or just append? 
+                    # Board is usually sorted by date desc. 
+                    # If we just append to remote (which is desc), new local items might be anywhere.
+                    # But usually local items are newer. So verify date sorting later?
+                    # For simple sync, let's just add them and rely on app.py to sort if needed, 
+                    # OR just prepending is risky if remote has newer items. 
+                    # Safest: Append then Sort? App sorts anyway?
+                    # App.py: `for i, post in enumerate(board_data):` -> assumes order in file.
+                    # App uses `data.insert(0)` for new posts.
+                    # So file is effectively sorted desc.
+                    # If we take Remote (desc) and add Local (desc) that are missing, 
+                    # we should probably re-sort the whole thing by date desc to be safe.
+                    merged.append(item)
+                    remote_sigs.add(sig)
+                    count += 1
+            
+            # Sort Descending by Date
+            try:
+                merged.sort(key=lambda x: x.get('date', ''), reverse=True)
+            except: pass
+            
+            return merged, count
+
+        merged_board, added_count = merge_board(local_board, remote_board)
+
+        if added_count > 0:
+            print(f"✅ Restored {added_count} board posts from remote!")
+            save_json(BOARD_FILE, merged_board)
+        if os.path.exists(REMOTE_BOARD_FILE):
+             os.remove(REMOTE_BOARD_FILE)
+
     # 4. Push
     print("\n4. Committing and Pushing to GitHub...")
     try:
         # Force add data files to ensure they are tracked (if they exist)
         files_to_add = []
-        for fpath in ["data/news.json", "data/events.json", "data/big_events.json", "data/trends.json", "data/magazine_content.json", "data/twitter_trends.json", "data/sources.json"]:
+        # Force add data files to ensure they are tracked (if they exist)
+        files_to_add = []
+        for fpath in ["data/news.json", "data/events.json", "data/big_events.json", "data/trends.json", "data/magazine_content.json", "data/twitter_trends.json", "data/sources.json", "data/board.json"]:
             if os.path.exists(fpath):
                 files_to_add.append(fpath)
         

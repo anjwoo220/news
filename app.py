@@ -17,6 +17,7 @@ BIG_EVENTS_FILE = 'data/big_events.json'
 TRENDS_FILE = 'data/trends.json'
 CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
+BOARD_FILE = 'data/board.json'
 
 DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
@@ -468,6 +469,42 @@ def save_comment(news_id, nickname, text):
         data[news_id].append(new_comment)
         save_json(COMMENTS_FILE, data)
 
+# --- Community Board Helpers ---
+def load_board_data():
+    if not os.path.exists(BOARD_FILE):
+        return []
+    return load_json(BOARD_FILE, [])
+
+def save_board_post(nickname, content, password):
+    data = load_board_data()
+    new_post = {
+        "nickname": nickname if nickname else "익명",
+        "content": content,
+        "password": password,
+        "date": datetime.now().strftime("%Y-%m-%d %H:%M")
+    }
+    data.insert(0, new_post) # Prepend
+    save_json(BOARD_FILE, data)
+
+def delete_board_post(index, password):
+    data = load_board_data()
+    if 0 <= index < len(data):
+        if data[index].get("password") == password:
+            data.pop(index)
+            save_json(BOARD_FILE, data)
+            return True, "삭제되었습니다."
+        else:
+            return False, "비밀번호가 일치하지 않습니다."
+    return False, "게시글을 찾을 수 없습니다."
+
+def admin_delete_board_post(index):
+    data = load_board_data()
+    if 0 <= index < len(data):
+        data.pop(index)
+        save_json(BOARD_FILE, data)
+        return True
+    return False
+
 # --- AdSense Injection ---
 def inject_adsense():
     adsense_id = st.secrets.get("GOOGLE_ADSENSE_ID", "ca-pub-XXXXXXXXXXXXXXXX")
@@ -654,43 +691,66 @@ if app_mode == "Admin Console":
 
         # --- Tab 3: Community Management ---
         with tab3:
-            st.subheader("댓글 관리")
-            try:
-                comments_data = get_all_comments()
-            except Exception as e:
-                st.error(f"댓글 로드 실패: {e}")
-                comments_data = {"blocked_users": []}
+            st.subheader("🛡️ 커뮤니티 관리")
+            
+            tab3_1, tab3_2 = st.tabs(["💬 뉴스 댓글", "🗣️ 게시판 글"])
+            
+            with tab3_1:
+                st.markdown("#### 뉴스 댓글 관리")
+                try:
+                    comments_data = get_all_comments()
+                except Exception as e:
+                    st.error(f"댓글 로드 실패: {e}")
+                    comments_data = {"blocked_users": []}
 
-            # List all comments flatly for review
-            all_flat_comments = []
-            for news_id, com_list in comments_data.items():
-                if news_id == "blocked_users": continue
-                for c in com_list:
-                    c['news_id'] = news_id
-                    all_flat_comments.append(c)
-            
-            # Sort by date descending (assuming date string is comparable)
-            all_flat_comments.sort(key=lambda x: x.get('date', ''), reverse=True)
-            
-            if not all_flat_comments:
-                st.info("작성된 댓글이 없습니다.")
-            else:
-                for idx, c in enumerate(all_flat_comments[:20]): # Show last 20
-                    with st.container(border=True):
-                        st.markdown(f"**{c['user']}**: {c['text']}")
-                        st.caption(f"{c['date']} | ID: {c['news_id']}")
-                        if st.button("삭제", key=f"adm_del_com_{idx}"):
-                            # Logic to Delete
-                            original_list = comments_data[c['news_id']]
-                            # Find index in original list to delete
-                            # Simple match by text and date
-                            for i, orig in enumerate(original_list):
-                                if orig['text'] == c['text'] and orig['date'] == c['date']:
-                                    original_list.pop(i)
-                                    break
-                            save_json(COMMENTS_FILE, comments_data)
-                            st.success("삭제됨")
-                            st.rerun()
+                # List all comments flatly for review
+                all_flat_comments = []
+                for news_id, com_list in comments_data.items():
+                    if news_id == "blocked_users": continue
+                    for c in com_list:
+                        c['news_id'] = news_id
+                        all_flat_comments.append(c)
+                
+                # Sort by date descending (assuming date string is comparable)
+                all_flat_comments.sort(key=lambda x: x.get('date', ''), reverse=True)
+                
+                if not all_flat_comments:
+                    st.info("작성된 댓글이 없습니다.")
+                else:
+                    for idx, c in enumerate(all_flat_comments[:20]): # Show last 20
+                        with st.container(border=True):
+                            st.markdown(f"**{c['user']}**: {c['text']}")
+                            st.caption(f"{c['date']} | ID: {c['news_id']}")
+                            if st.button("삭제", key=f"adm_del_com_{idx}"):
+                                # Logic to Delete
+                                original_list = comments_data[c['news_id']]
+                                # Find index in original list to delete
+                                # Simple match by text and date
+                                for i, orig in enumerate(original_list):
+                                    if orig['text'] == c['text'] and orig['date'] == c['date']:
+                                        original_list.pop(i)
+                                        break
+                                save_json(COMMENTS_FILE, comments_data)
+                                st.success("삭제됨")
+                                st.rerun()
+
+            with tab3_2:
+                st.markdown("#### 자유게시판 글 관리")
+                board_posts = load_board_data()
+                if not board_posts:
+                    st.info("게시글이 없습니다.")
+                else:
+                    for i, post in enumerate(board_posts):
+                        with st.container(border=True):
+                            c1, c2 = st.columns([4, 1])
+                            with c1:
+                                st.markdown(f"**{post['nickname']}**: {post['content']}")
+                                st.caption(f"{post['date']}")
+                            with c2:
+                                if st.button("삭제 🗑️", key=f"adm_bd_del_{i}"):
+                                    admin_delete_board_post(i)
+                                    st.success("삭제됨")
+                                    st.rerun()
 
         # --- Tab 4: Settings ---
         with tab4:
@@ -1737,7 +1797,7 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "🎉 콘서트/이벤트", "🌴 핫플 매거진"]
+    nav_options = ["📰 뉴스 브리핑", "🎉 콘서트/이벤트", "🌴 핫플 매거진", "🗣️ 게시판"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -1790,7 +1850,7 @@ else:
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
     # 3. Bottom Navigation (Mobile Only via CSS)
-    b_col1, b_col2, b_col3 = st.columns(3)
+    b_col1, b_col2, b_col3, b_col4 = st.columns(4)
     
     with b_col1:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
@@ -1806,6 +1866,11 @@ else:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
         if st.button("🌴 매거진", key="btn_nav_mag", use_container_width=True):
             st.session_state["nav_mode"] = "🌴 핫플 매거진"
+            st.rerun()
+    with b_col4:
+        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+        if st.button("🗣️ 게시판", key="btn_nav_board", use_container_width=True):
+            st.session_state["nav_mode"] = "🗣️ 게시판"
             st.rerun()
     
     # Use the master state for rendering
@@ -2309,6 +2374,66 @@ else:
                             st.link_button("지도 보기 🗺️", item.get('location_url'), use_container_width=True)
                         if item.get('link'):
                              st.link_button("원문 보기 🔗", item.get('link'), use_container_width=True)
+
+    # --- Page 4: Community Board ---
+    elif page_mode == "🗣️ 게시판":
+        st.markdown("### 🗣️ 여행자 수다방")
+        st.caption("여행 팁, 질문, 건의사항 등 자유롭게 이야기를 나눠보세요!")
+        
+        # 1. Notice Section
+        st.success("👋 **오늘의 태국**은 여행자를 위한 실시간 정보 앱입니다. 뉴스, 핫플, 이벤트를 한눈에 확인하세요!", icon="📢")
+        with st.container():
+            col_notice, col_btn = st.columns([4, 1])
+            with col_notice:
+                st.info("💡 버그 제보, 광고 문의, 기능 제안은 여기로 보내주세요!", icon="📨")
+            with col_btn:
+                st.link_button("문의하기", "https://forms.gle/B9RTDGJcCR9MnJvv5", use_container_width=True)
+
+        st.divider()
+
+        # 2. Write Section
+        with st.expander("✍️ 글쓰기 (여기를 눌러주세요)", expanded=True):
+            with st.form("board_write_form", clear_on_submit=True):
+                c_nick, c_pw = st.columns(2)
+                b_nick = c_nick.text_input("닉네임", placeholder="닉네임을 입력하세요")
+                b_pw = c_pw.text_input("비밀번호 (삭제용 숫자 4자리)", type="password", max_chars=4)
+                b_content = st.text_area("내용", placeholder="욕설, 비방, 광고글은 통보 없이 삭제될 수 있습니다.", height=100)
+                
+                if st.form_submit_button("등록하기 📝", use_container_width=True):
+                    if not b_content:
+                        st.warning("내용을 입력해주세요.")
+                    elif not b_pw:
+                        st.warning("삭제를 위한 비밀번호를 입력해주세요.")
+                    else:
+                        save_board_post(b_nick, b_content, b_pw)
+                        st.success("게시글이 등록되었습니다!")
+                        st.rerun()
+
+        st.markdown("---")
+
+        # 3. Read Section
+        board_data = load_board_data()
+        
+        if not board_data:
+            st.info("아직 등록된 글이 없습니다. 첫 번째 글을 남겨보세요!")
+        else:
+            for i, post in enumerate(board_data):
+                with st.container(border=True):
+                    # Header: Nickname & Date
+                    st.markdown(f"**{post['nickname']}** <span style='color:grey; font-size:0.8em'>| {post['date']}</span>", unsafe_allow_html=True)
+                    # Content
+                    st.markdown(post['content'])
+                    
+                    # Delete UI (Bottom Right)
+                    with st.expander("🗑️ 삭제"):
+                        del_pw = st.text_input("비밀번호 확인", type="password", key=f"del_pw_{i}", max_chars=4)
+                        if st.button("삭제하기", key=f"btn_del_{i}"):
+                            success, msg = delete_board_post(i, del_pw)
+                            if success:
+                                st.success(msg)
+                                st.rerun()
+                            else:
+                                st.error(msg)
 
 
 
