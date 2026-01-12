@@ -39,6 +39,9 @@ st.set_page_config(
     }
 )
 
+# --- Agoda Partner Verification ---
+st.markdown('<meta name="agd-partner-manual-verification" />', unsafe_allow_html=True)
+
 # 🚫 배포 환경 완벽 대응 UI 숨김 (Terminator Style)
 hide_streamlit_style = """
 <style>
@@ -198,13 +201,81 @@ st.markdown("""
         }
     }
 
-    /* Dark Mode Support for Fixed Nav */
+    /* Dark Mode Support for Fixed Nav & General Elements */
     [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
-        background: rgba(0, 0, 0, 0.9) !important;
-        border-top: 1px solid #333 !important;
+        background: #0E1117 !important; /* Streamlit Dark BG */
+        border-bottom: 1px solid #333 !important;
     }
+    
+    /* GLOBAL DARK MODE OVERRIDES (Affecting Portals/Popovers/All Buttons) */
+    /* Target BODY based on the specific Dark Mode toggle availability */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
+        /* This selector is powerful but body styling might be restricted */
+    }
+
+    /* 1. Fix Hotel Region Selectbox (Portal/Popover) */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="popover"],
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="menu"],
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) ul[role="listbox"] {
+        background-color: #262730 !important;
+        color: white !important;
+        border: 1px solid #444 !important;
+    }
+    
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"] {
+        background-color: #262730 !important;
+        color: white !important;
+    }
+    
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"][aria-selected="true"] {
+        background-color: #FF4B4B !important;
+        color: white !important;
+    }
+
+    /* 2. Fix All Buttons (Pagination, Inquiry, etc) in Dark Mode */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button {
+        background-color: #262730 !important;
+        color: white !important; 
+        border: 1px solid #444 !important;
+    }
+    
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button:hover {
+        border-color: #FF4B4B !important;
+        color: #FF4B4B !important;
+    }
+    
+    /* 3. Pagination Specifics (Streamlit Secondary Buttons) */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[kind="secondary"] {
+        background-color: transparent !important;
+    }
+    
+    /* Active Pagination Button (Disabled state) */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled],
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled]:hover {
+        background-color: #FF4B4B !important;
+        color: white !important;
+        border-color: #FF4B4B !important;
+        opacity: 1 !important;
+    }
+
+    /* 4. Fix Input/Textarea Text Color */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) input,
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) textarea {
+        color: white !important;
+        background-color: #262730 !important;
+    }
+    /* Selectbox Main Display */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="select"] > div {
+        background-color: #262730 !important;
+        color: white !important;
+        border-color: #444 !important;
+    }
+
+    /* 5. Mobile Nav Button Text */
     [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
-        color: #ddd !important;
+        color: #FAFAFA !important;
+        background-color: transparent !important; /* Force transparent for nav buttons */
+        border: none !important;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -1551,342 +1622,161 @@ else:
     
     st.caption("뉴스부터 여행까지, 가장 빠른 태국 소식")
         
-    # Define Theme Colors based on Toggle
-    if is_dark:
-        # Dark Mode Styles (Pitch Black Override)
-        card_bg = "#000000"
-        text_main = "#ffffff"
-        text_sub = "#e0e0e0"
-        border_color = "#333"
-        
-        # Inject CSS for Dark Mode Overrides
-        st.markdown("""
-            <style>
-            /* Global Background & Text for Dark Mode Override */
-            [data-testid="stAppViewContainer"] {
-                background-color: #000000;
-                color: #ffffff;
-            }
-            [data-testid="stSidebar"] {
-                background-color: #000000;
-                border-right: 1px solid #333;
-            }
-            [data-testid="stHeader"] {
-                background-color: rgba(0, 0, 0, 0.95);
-            }
+    # --- Dark Mode Logic (CSS-based to prevent layout thrashing) ---
+    # We inject the CSS always. The styles trigger only when the toggle is checked via :has() selector.
+    st.markdown("""
+        <style>
+            /* --- DARK MODE SELECTORS --- */
+            /* These apply ONLY when the Dark Mode toggle (side effect of st.toggle being checked) is present */
             
-            /* Text Elements */
-            p, h1, h2, h3, h4, h5, h6, li, label, .stMarkdown, .stCaption {
-                color: #ffffff !important;
-            }
-            
-            /* Inputs */
-            div[data-baseweb="input"] > div, div[data-baseweb="base-input"] > div {
-                background-color: #000000 !important;
-                border-color: #333 !important;
-                color: #ffffff !important;
-            }
-            input {
-                color: #ffffff !important;
-                caret-color: #ffffff !important;
-            }
-            
-            /* Text Area */
-            textarea {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                caret-color: #ffffff !important;
-            }
-            div[data-baseweb="textarea"] > div {
-                background-color: #000000 !important;
-                border-color: #333 !important;
+            /* Global Body Override */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
+                /* Can't easily set bg color on body due to Streamlit wrapping, but helps context */
             }
 
-            /* Selectbox & Dropdown */
-            div[data-baseweb="select"] > div {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                border-color: #333 !important;
+            /* Main App Background & Text */
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
+                background-color: #0E1117;
+                color: #FAFAFA;
             }
-            div[data-baseweb="popover"], div[data-baseweb="menu"], ul[data-baseweb="menu"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                border: 1px solid #333 !important;
-            }
-            li[data-baseweb="menu-item"] { 
-                color: #ffffff !important; 
-            }
-            li[data-baseweb="menu-item"]:hover {
-                background-color: #222 !important;
-            }
-            
-            /* Buttons */
-            button[data-testid="baseButton-secondary"], button[data-testid="baseButton-primary"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                border: 1px solid #333 !important;
-            }
-            button[data-testid="baseButton-secondary"]:hover, button[data-testid="baseButton-primary"]:hover {
-                border-color: #ff4b4b !important;
-                color: #ff4b4b !important;
-            }
-            
-            /* Tabs */
-            button[data-baseweb="tab"] {
-                 background-color: transparent !important;
-            }
-            button[data-baseweb="tab"] div {
-                 color: #ffffff !important;
-            }
-            button[data-baseweb="tab"][aria-selected="true"] div {
-                 color: #ff4b4b !important;
-            }
-            
-            /* Calendar / Date Picker */
-            div[data-baseweb="calendar"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-            }
-            div[data-baseweb="calendar"] button {
-                 color: #ffffff !important;
-                 background-color: transparent !important;
-            }
-            div[data-baseweb="calendar"] button:hover {
-                 background-color: #222 !important;
-            }
-
-            /* Category Pills - Fix using stButtonGroup */
-            div[data-testid="stButtonGroup"] {
-                background-color: transparent !important;
-            }
-            div[data-testid="stButtonGroup"] button {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                border: 1px solid #333 !important;
-            }
-            div[data-testid="stButtonGroup"] button:hover {
-                border-color: #ff4b4b !important;
-                color: #ff4b4b !important;
-            }
-            div[data-testid="stButtonGroup"] button[data-testid="stBaseButton-pillsActive"] {
-                background-color: #000000 !important;
-                border-color: #ff4b4b !important;
-                color: #ff4b4b !important;
-            }
-            div[data-testid="stButtonGroup"] button p {
-                color: inherit !important;
-            }
-            
-            /* Expander */
-            div[data-testid="stExpander"] {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
-                color: #ffffff !important;
-            }
-            div[data-testid="stExpander"] details {
-                background-color: #000000 !important;
-            }
-            div[data-testid="stExpander"] summary {
-                color: #ffffff !important;
-            }
-            div[data-testid="stExpander"] summary:hover {
-                color: #ff4b4b !important;
-            }
-
-            /* Code Block & Share Text - Deep Override */
-            .stCodeBlock, 
-            .stCodeBlock > div, 
-            .stCodeBlock pre, 
-            .stCodeBlock code,
-            div[data-testid="stCodeBlock"],
-            div[data-testid="stCodeBlock"] * {
-                 background-color: #000000 !important;
-                 border-color: #333 !important;
-            }
-            .stCodeBlock code {
-                 color: #ffffff !important;
-            }
-            
-            /* Expander Header */
-            div[data-testid="stExpander"] > details > summary {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                border-bottom: 1px solid #333;
-            }
-            div[data-testid="stExpander"] > details > summary:hover {
-                color: #ff4b4b !important;
-            }
-
-            /* Form Submit Button (Comments) */
-            div[data-testid="stForm"] button[kind="secondaryFormSubmit"],
-            div[data-testid="stForm"] button[data-testid="baseButton-secondary"] {
-                 background-color: #000000 !important;
-                 color: #ffffff !important;
-                 border: 1px solid #333 !important;
-            }
-            div[data-testid="stForm"] button[kind="secondaryFormSubmit"]:hover,
-            div[data-testid="stForm"] button[data-testid="baseButton-secondary"]:hover {
-                border-color: #ff4b4b !important;
-                color: #ff4b4b !important;
-            }
-
-            /* Toast */
-            div[data-baseweb="toast"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-                border: 1px solid #333;
-            }
-            
-            /* Metric */
-            [data-testid="stMetricValue"], [data-testid="stMetricLabel"] {
-                 color: #ffffff !important;
-            }
-            
-            /* Alerts (Info, Success, Warning, Error) - Override backgrounds */
-            div[data-baseweb="notification"], div[data-testid="stAlert"] {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
-                color: #ffffff !important;
-            }
-            div[data-testid="stAlert"] > div {
-                color: #ffffff !important;
-            }
-            
-            /* Modal & Dialogs */
-            div[data-baseweb="modal"] > div {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
-                color: #ffffff !important;
-            }
-            
-            /* File Uploader */
-            [data-testid="stFileUploader"] {
-                background-color: #000000 !important;
-            }
-            section[data-testid="stFileUploaderDropzone"] {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
-            }
-            
-            /* Tables/DataFrames */
-            [data-testid="stDataFrame"], [data-testid="stTable"] {
-                background-color: #000000 !important;
+            [data-testid="stHeader"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]),
+            [data-testid="stSidebar"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
+                background-color: #262730;
+                color: #FAFAFA;
             }
 
             /* --- CRITICAL FIXES FOR WHITE ELEMENTS --- */
 
             /* 1. General Popovers (Menus, Dropdowns, Tooltips) */
-            div[data-baseweb="popover"] {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="popover"],
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="menu"],
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) ul[role="listbox"] {
+                background-color: #262730 !important;
+                border: 1px solid #444 !important;
             }
-            div[data-baseweb="popover"] > div {
-                background-color: #000000 !important;
-                color: #ffffff !important;
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"] {
+                 background-color: #262730 !important;
+                 color: #FAFAFA !important;
             }
-
-            /* 2. Calendar / Date Picker Popup Specifics */
-            div[data-baseweb="calendar"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
-            }
-            div[data-baseweb="calendar"] div {
-                 background-color: #000000 !important;
-                 color: #ffffff !important;
-            }
-            /* Weekday Headers */
-            div[data-baseweb="calendar"] div[aria-label^="weekday"] {
-                 color: #888 !important; 
-            }
-            /* Day Buttons */
-            div[data-baseweb="calendar"] button {
-                 background-color: transparent !important;
-                 color: #ffffff !important;
-            }
-            div[data-baseweb="calendar"] button:hover {
-                 background-color: #333 !important;
-            }
-            /* Selected Day */
-            div[data-baseweb="calendar"] button[aria-selected="true"] {
-                 background-color: #ff4b4b !important;
-                 color: #ffffff !important;
-            }
-            /* Month/Year Dropdowns in Calendar */
-            div[data-baseweb="calendar"] div[data-baseweb="select"] div {
-                 background-color: #000000 !important;
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[aria-selected="true"] {
+                 background-color: #FF4B4B !important;
                  color: #ffffff !important;
             }
 
-            /* 3. Expander Content (st.expander internal container) */
-            div[data-testid="stExpanderDetails"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
+            /* 2. Fix All Buttons & Link Buttons (Inquiry, Next, Booking) */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) a[data-testid="stLinkButton"] {
+                background-color: #262730 !important;
+                color: #FAFAFA !important;
+                border: 1px solid #444 !important;
             }
-            div[data-testid="stExpander"] {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
-                color: #ffffff !important;
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button:hover,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) a[data-testid="stLinkButton"]:hover {
+                border-color: #FF4B4B !important;
+                color: #FF4B4B !important;
             }
-            div[data-testid="stExpander"] > details > summary {
-                color: #ffffff !important;
+
+            /* 3. Pagination Specifics (Secondary Buttons) */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[kind="secondary"] {
+                background-color: transparent !important;
             }
-            div[data-testid="stExpander"] > details > summary:hover {
-                color: #ff4b4b !important;
+            /* Active Pagination (Disabled) */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled],
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled]:hover {
+                background-color: #FF4B4B !important;
+                color: white !important;
+                border-color: #FF4B4B !important;
+                opacity: 1 !important;
+            }
+
+            /* 4. Input/Textarea Text Color */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) input,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) textarea {
+                color: white !important;
+                background-color: #262730 !important;
+            }
+            /* Selectbox Display */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="select"] > div {
+                 background-color: #262730 !important;
+                 color: white !important;
+                 border-color: #444 !important;
+            }
+
+            /* 5. Mobile Nav Button Text */
+            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+                background: #0E1117 !important;
+                border-bottom: 1px solid #333 !important;
+            }
+            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
+                color: #FAFAFA !important;
+                background-color: transparent !important;
+                border: none !important;
             }
             
-            /* 4. Streamlit JSON/Code/Raw Blocks */
-            div[data-testid="stJson"] {
-                background-color: #000000 !important;
-                color: #ffffff !important;
+            /* 6. Expander & Other Containers */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stExpander"] {
+                background-color: #0E1117 !important;
+                border: 1px solid #333 !important;
+                color: white !important;
+            }
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stExpanderDetails"] {
+                background-color: #0E1117 !important; 
+                color: white !important;
             }
 
-            /* 5. Tooltip/Help Text */
-            div[data-baseweb="tooltip"] {
-                 background-color: #333 !important;
-                 color: #ffffff !important;
+            /* 7. Toast & Alerts */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="toast"],
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="notification"], 
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stAlert"] {
+                background-color: #000000 !important;
+                border: 1px solid #333 !important;
+                color: #ffffff !important;
             }
-            </style>
-        """, unsafe_allow_html=True)
-        
-    else:
-        # Light Mode Styles (Native - No Overrides Needed)
-        # Using Streamlit's forced "light" theme from config.toml
-        card_bg = "rgba(255, 255, 255, 0.9)"
-        text_main = "#000000"
-        text_sub = "#333333"
-        border_color = "#ddd"
-        
-        # Optional: Light Mode Polishing (Just minor tweaks if needed, but native should handle base)
-        st.markdown("""
-            <style>
-            /* Ensure links are blue in light mode */
+            
+            /* 8. Light Mode Defaults (ensure links are blue when NOT dark) */
             .stMarkdown a {
-                color: #0068c9 !important;
+                color: #0068c9;
                 text-decoration: none;
             }
             .stMarkdown a:hover {
                 text-decoration: underline;
             }
             
-            /* Expander Polish */
-            div[data-testid="stExpander"] {
-                border-radius: 8px !important;
+            /* Dark Mode Link override */
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stMarkdown a {
+                 color: #4da6ff !important;
             }
-            </style>
-        """, unsafe_allow_html=True)
+        </style>
+    """, unsafe_allow_html=True)
+
+    # --- Theme Configuration (Variables for Widgets) ---
+    if is_dark:
+        # Dark Theme Vars for Python-based HTML generation
+        card_bg = "rgba(0, 0, 0, 0.7)"
+        text_main = "#ffffff"
+        text_sub = "#aaaaaa"
+        border_color = "#333"
+    else:
+        # Light Theme Vars
+        card_bg = "rgba(255, 255, 255, 0.9)"
+        text_main = "#000000"
+        text_sub = "#333333"
+        border_color = "#ddd"
 
 
     # --- Top Widgets (Exchange Rate & Air Quality) ---
     # Responsive layout: side‑by‑side on desktop, stacked on mobile
-    st.markdown("""<style>
+    st.markdown('''
+    <style>
     .top-widgets {display:flex; flex-direction:row; gap:10px; width:100%;}
     .top-widgets > div {flex:1;}
     @media (max-width: 768px) {
         .top-widgets {flex-direction: column;}
         .top-widgets > div {width: 100%; margin-bottom: 10px;}
     }
-    </style>""", unsafe_allow_html=True)
-
+    </style>
+    ''', unsafe_allow_html=True)
+    
     # 1. Exchange Rate Widget
     @st.cache_data(ttl=3600)
     def get_cached_exchange_rate():

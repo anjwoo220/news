@@ -238,18 +238,19 @@ def analyze_news_with_gemini(news_items, api_key):
         1. **다국어 처리 (중요):** 
            - 기사 원문에 **태국어(Thai Script)**가 포함된 경우, 절대 생략하거나 원문 그대로 남겨두지 마세요.
            - **일반 문장:** 한국어로 의미를 번역하세요.
-           - **고유명사(지명, 인명, 가게 이름):** 한국어 표준 외래어 표기법에 맞춰 **발음대로 표기**하세요. (예: ภู켓 -> 푸켓, สุขุมวิท -> 수쿰빗)
-           - 만약 정확한 발음을 모를 경우에만 괄호 안에 원어를 병기하세요. 예: 왓 아룬(Wat Arun)
+           - **고유명사:** 한국어 표준 외래어 표기법에 맞춰 **발음대로 표기**하세요. (예: ภู켓 -> 푸켓)
 
         2. **날짜/연도 변환 (매우 중요):**
-           - 태국 불기 연도(BE)가 나오면 반드시 **서기(AD)**로 변환하세요.
-           - 공식: **(불기) - 543 = (서기)**
-           - 예: 2569년 1월 -> 2026년 1월, 2567년 -> 2024년.
-           - 절대 25xx년 그대로 표기하지 마세요.
+           - **(불기) - 543 = (서기)** 공식을 반드시 적용하세요. (2569년 -> 2026년)
 
-        3. **기자체 사용:** "~했습니다" 대신 "~했다", "~전망이다" 등 명료한 보도체 문장을 사용하세요.
-        3. **불필요한 서술 제거:** "기사에 따르면", "다음은 번역입니다" 같은 AI 투의 문장은 삭제하고 바로 사실(Fact)부터 전달하세요.
-        4. **독자 중심:** 주 독자는 태국 거주 한국인입니다. 그들에게 필요한 정보(위치, 날짜, 가격, 주의사항)를 강조하세요.
+        3. **기자체 사용:** "~했다", "~전망이다" 등 명료한 보도체 문장 사용.
+
+        4. **[Strict Mode] 이벤트/축제 분류 기준 (매우 중요):**
+           - 기사를 분석하여 '축제/이벤트(Event)' 카테고리로 분류할 때는 다음 **3가지 필수 조건**을 모두 만족해야 합니다.
+             1. **명확한 장소 (Venue):** '방콕 어딘가'가 아니라 '시암 파라곤', '룸피니 공원' 등 구체적 장소가 명시되어야 함. (당신의 지식으로 추론 가능하면 인정)
+             2. **명확한 일정 (Date):** 개최 날짜가 명시되어야 함.
+             3. **가격/티켓 (Price):** '무료', '티켓 구매 필수', 'XXX 바트' 등 가격 정보가 있어야 함.
+           - **위 3가지 중 하나라도 불확실하면, 행사 내용이라도 무조건 '여행/관광' 또는 'News'로 분류하세요.**
 
         [기사 정보]
         - Title: {item['title']}
@@ -260,25 +261,32 @@ def analyze_news_with_gemini(news_items, api_key):
         {full_content}
 
         [작성 요구사항]
-        1. **헤드라인:** 한국 독자의 눈길을 끄는 매력적인 한국어 제목을 뽑으세요.
-        2. **핵심 요약:** 바쁜 현대인을 위해 핵심 내용을 3줄 이내의 개조식으로 명료하게 요약하세요.
-        3. **분류:** 다음 중 하나를 선택: ["정치/사회", "경제", "여행/관광", "사건/사고", "엔터테인먼트", "기타"]
-           - **Weather Rule:** 날씨, 기온, 홍수, 미세먼지 등 기상 관련 내용은 무조건 **'여행/관광'**으로 분류하세요.
-           - 날씨 기사일 경우 본문의 구체적 온도(예: 38도)를 요약에 반드시 포함하세요.
+        1. **헤드라인:** 한국 독자의 눈길을 끄는 매력적인 한국어 제목.
+        2. **핵심 요약:** 3줄 이내 개조식 요약.
+        3. **분류:** ["정치/사회", "경제", "여행/관광", "축제/이벤트", "사건/사고", "엔터테인먼트", "기타"] 중 택 1.
+           - 날씨/홍수/미세먼지는 무조건 '여행/관광' 입니다.
         
-        4. **[중요] 기사 전문 작성 (`full_translated`):**
-           - 위 [기사 본문]을 바탕으로 완벽한 흐름의 한국어 기사를 새롭게 작성하세요. (단순 번역 X, 기사 작성 O)
-           - 문단 나누기는 `\\n\\n`으로 명확히 하여 가독성을 높이세요.
-           - 절대 원문의 내용을 생략하지 말고 충실히 전달하되, 문체는 완벽한 한국어 기자체여야 합니다.
+        4. **이벤트 상세 정보 (만약 '축제/이벤트'로 분류했다면):**
+           - 당신의 지식(World Knowledge)을 동원해 누락된 정보를 채우세요.
+           - 예: "Songkran"만 있으면 -> Location: "Silom, Khao San Road"
+           - `location_google_map_query`: 구글 맵에서 바로 검색 가능한 영어 검색어 (예: "Siam Paragon Bangkok")
+
+        5. **기사 전문 작성 (`full_translated`):** markdown 형식으로 기사 작성.
 
         [출력 포맷 (JSON Only)]
         {{
           "topics": [
             {{
-              "title": "작성된 기사 제목",
-              "summary": "3줄 핵심 요약",
-              "full_translated": "작성된 고품질 기사 전문 (Markdown 형식)",
-              "category": "선택된 카테고리",
+              "title": "기사 제목",
+              "summary": "3줄 요약",
+              "full_translated": "기사 전문",
+              "category": "카테고리",
+              "event_info": {{  // '축제/이벤트' 인 경우에만 작성, 아니면 null
+                  "date": "YYYY-MM-DD or Range",
+                  "location": "구체적 장소 (없으면 null)",
+                  "price": "가격 정보 (없으면 null)",
+                  "location_google_map_query": "Google Maps Search Query (English)"
+              }},
               "references": [
                 {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
               ]
@@ -299,6 +307,20 @@ def analyze_news_with_gemini(news_items, api_key):
                 result = json.loads(response.text)
                 
                 if 'topics' in result and result['topics']:
+                    # --- Python Verification (Strict Mode Enforcement) ---
+                    for topic in result['topics']:
+                        if topic.get('category') == '축제/이벤트':
+                            evt = topic.get('event_info')
+                            # Check strict conditions
+                            if not evt or not evt.get('location') or not evt.get('date') or not evt.get('price'):
+                                print(f"   -> [Strict Mode] Downgrading '{topic['title']}' from Event to Travel News (Missing Info)")
+                                topic['category'] = '여행/관광'
+                                topic['event_info'] = None # Clear it
+                            elif evt.get('location') == 'Unknown' or evt.get('location') == 'null':
+                                 print(f"   -> [Strict Mode] Downgrading '{topic['title']}' (Location Unknown)")
+                                 topic['category'] = '여행/관관'
+                                 topic['event_info'] = None
+
                     aggregated_topics.extend(result['topics'])
                     print(f"   -> Success. Topics so far: {len(aggregated_topics)}")
                     success = True

@@ -243,10 +243,12 @@ def main():
 
     # 7-1. Cross-post Travel News to Events
     # Filter for '여행/관광' category
-    travel_news = [t for t in current_news[today_str] if t.get('category') == '여행/관광']
+    # 7-1. Cross-post "Strict Events" to Events Tab
+    # Now we only look for '축제/이벤트' which passed the strict verification in utils.py
+    strict_events = [t for t in current_news[today_str] if t.get('category') == '축제/이벤트']
     
-    if travel_news:
-        print(f"Found {len(travel_news)} travel news items. Cross-posting to {EVENTS_FILE}...")
+    if strict_events:
+        print(f"Found {len(strict_events)} STRICT events. Cross-posting to {EVENTS_FILE}...")
         
         # Load Events
         if os.path.exists(EVENTS_FILE):
@@ -255,21 +257,28 @@ def main():
         else:
              events_data = []
 
-        # Dedupe existing titles
+        # Dedupe existing titles + Check similar dates/locations?
         existing_titles = set(e.get('title') for e in events_data)
         
         added_events = 0
-        for item in travel_news:
+        for item in strict_events:
             if item['title'] not in existing_titles:
+                # Extract strict info
+                evt_info = item.get('event_info', {})
+                if not evt_info: continue # Double check
+                
                 new_event = {
                     "title": item['title'],
-                    "date": "🔥 뉴스/핫이슈", # Special marking
-                    "location": "태국 전역/기타",
-                    "region": "기타",
+                    "date": evt_info.get('date', '날짜 미정'),
+                    "location": evt_info.get('location', '장소 미정'),
+                    "region": "방콕", # Default to Bangkok or infer from contents if possible? (Simplicity for now)
                     "image_url": item.get('image_url'),
                     "link": item.get('references', [{'url': '#'}])[0].get('url'),
-                    "type": "여행뉴스"
+                    "price": evt_info.get('price', '가격 정보 없음'),
+                    "type": "축제/이벤트",
+                    "description": item.get('summary', '')
                 }
+                
                 # Prepend to top
                 events_data.insert(0, new_event)
                 existing_titles.add(item['title'])
@@ -277,7 +286,7 @@ def main():
         
         if added_events > 0:
             save_json(EVENTS_FILE, events_data)
-            print(f"Cross-posted {added_events} items to events.")
+            print(f"Cross-posted {added_events} strict events to {EVENTS_FILE}.")
 
     # 7-2. Update processed_urls.json (ONLY for successful items)
     # Collect URLs that were actually successfully turned into topics
