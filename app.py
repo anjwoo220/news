@@ -73,34 +73,86 @@ st.markdown("""
         display: none !important;
     }
     
-    /* --- Tabs UI Improvement (Mobile Friendly) --- */
-    /* 1. Container Fix */
-    div[data-testid="stTabs"] {
-        gap: 0px;
-    }
-    
-    /* 2. Tab Button Styling */
-    div[data-testid="stTabs"] button {
-        white-space: nowrap;          /* Prevent Wrapping */
-        font-weight: 900 !important;  /* Extra Bold Text */
-        font-size: 1.1rem;            /* Larger Font */
-        padding: 10px 15px;           /* Touch Area */
-        flex: 1 1 auto;               /* Even Distribution */
-        text-shadow: 0px 0px 1px rgba(0,0,0,0.1); /* Subtle shadow for weight */
-    }
-    
-    /* 3. Selected Tab Emphasis */
-    div[data-testid="stTabs"] button[aria-selected="true"] {
-        color: #FF4B4B !important;    /* Streamlit Primary Red (or Theme Color) */
-        border-bottom-width: 3px !important;
+    /* --- Navigation UI Fixes --- */
+    /* 1. Hide top pills on mobile */
+    @media (max-width: 768px) {
+        .st-key-nav_top {
+            display: none !important;
+        }
     }
 
-    /* 4. Mobile Optimization (max-width: 600px) */
-    @media (max-width: 600px) {
-        div[data-testid="stTabs"] button {
-            font-size: 1.0rem;        /* Slightly larger than previous 0.9 */
-            padding: 8px 10px;        
+    /* 2. Hide mobile bottom buttons on PC */
+    @media (min-width: 769px) {
+        /* Target the layout block containing our mobile-only trigger */
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+            display: none !important;
+            height: 0 !important;
+            margin: 0 !important;
+            padding: 0 !important;
         }
+    }
+
+    /* 3. Fix bottom buttons to bottom on Mobile */
+    @media (max-width: 768px) {
+        /* Target the Horizontal Block that contains our buttons */
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+            position: fixed !important;
+            bottom: 0 !important;
+            left: 0 !important;
+            width: 100% !important;
+            background: rgba(255, 255, 255, 0.95) !important;
+            backdrop-filter: blur(10px) !important;
+            z-index: 9999 !important;
+            padding: 10px 5px 30px 5px !important; /* Safe area for iOS */
+            border-top: 1px solid #ddd !important;
+            margin: 0 !important;
+            
+            /* EXTREME FLEX: Force buttons to stay side-by-side */
+            display: flex !important;
+            flex-direction: row !important;
+            flex-wrap: nowrap !important;
+            align-items: center !important;
+            justify-content: space-between !important;
+        }
+
+        /* Streamlit columns usually have a specific div structure. Force them to not wrap. */
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) > div {
+            flex: 1 1 0% !important;
+            min-width: 0 !important;
+            max-width: none !important;
+        }
+
+        /* Style buttons to look like tabs */
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
+            background: transparent !important;
+            border: none !important;
+            box-shadow: none !important;
+            color: #666 !important;
+            font-size: 0.85rem !important;
+            font-weight: 800 !important;
+            padding: 5px !important;
+            width: 100% !important;
+            display: block !important;
+        }
+
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button:active,
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button:focus {
+            color: #FF4B4B !important;
+        }
+
+        /* Pad the bottom of the content so it's not covered by the nav bar */
+        .main .block-container {
+            padding-bottom: 100px !important;
+        }
+    }
+
+    /* Dark Mode Support for Fixed Nav */
+    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+        background: rgba(0, 0, 0, 0.9) !important;
+        border-top: 1px solid #333 !important;
+    }
+    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
+        color: #ddd !important;
     }
     </style>
     """, unsafe_allow_html=True)
@@ -1676,6 +1728,25 @@ else:
         
         st.radio("이동", nav_options, 
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
+    
+    # 3. Bottom Navigation (Mobile Only via CSS)
+    b_col1, b_col2, b_col3 = st.columns(3)
+    
+    with b_col1:
+        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+        if st.button("📰 뉴스", key="btn_nav_news", use_container_width=True):
+            st.session_state["nav_mode"] = "📰 뉴스 브리핑"
+            st.rerun()
+    with b_col2:
+        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+        if st.button("🎉 이벤트", key="btn_nav_events", use_container_width=True):
+            st.session_state["nav_mode"] = "🎉 콘서트/이벤트"
+            st.rerun()
+    with b_col3:
+        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+        if st.button("🌴 매거진", key="btn_nav_mag", use_container_width=True):
+            st.session_state["nav_mode"] = "🌴 핫플 매거진"
+            st.rerun()
     
     # Use the master state for rendering
     page_mode = st.session_state["nav_mode"]
