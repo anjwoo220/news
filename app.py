@@ -24,7 +24,7 @@ st.set_page_config(
     page_title="오늘의 태국 - 실시간 태국뉴스, 여행정보",
     page_icon="🇹🇭",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
     menu_items={
         'Get Help': 'https://forms.gle/B9RTDGJcCR9MnJvv5',
         'About': "### 오늘의 태국 \n 실시간 태국 여행 정보, 뉴스, 핫플을 한눈에! 태국 정보가 필요한 모든 분들께!"
@@ -1663,6 +1663,17 @@ else:
         if "nav_sidebar" not in st.session_state or st.session_state["nav_sidebar"] != current_mode:
             st.session_state["nav_sidebar"] = current_mode
             
+        # Custom CSS to hide Nav Radio on Mobile (Screens < 768px)
+        st.markdown("""
+            <style>
+            @media (max-width: 768px) {
+                div[data-testid="stSidebar"] div[data-testid="stVerticalBlock"] > div:nth-child(2) {
+                    display: none !important;
+                }
+            }
+            </style>
+        """, unsafe_allow_html=True)
+        
         st.radio("이동", nav_options, 
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
