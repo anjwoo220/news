@@ -22,3 +22,4 @@ env/
 # Data
 # Assuming we might not want to commit large data or local logs if any
 # For now, keeping data/ as per likely usage, but user can add if needed.
+board-484107-65691b0765f5.json
