@@ -68,33 +68,54 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 # --- Custom CSS ---
 st.markdown("""
     <style>
-    /* Hide Streamlit Anchor Links (Header Tooltips) */
-    [data-testid="stHeaderAction"] {
-        display: none !important;
+    /* --- 1. Global Font & Typography Settings --- */
+    html, body, [class*="css"] {
+        font-family: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+        word-break: keep-all !important; /* Prevent mid-word breaks */
+        overflow-wrap: break-word;
     }
+
+    /* --- 2. Mobile Optimization (max-width: 768px) --- */
+    @media (max-width: 768px) {
+        /* Typography Scaling */
+        h1, .stHeading h1 { font-size: 1.7rem !important; }
+        h2, .stHeading h2 { font-size: 1.4rem !important; }
+        h3, .stHeading h3 { font-size: 1.1rem !important; }
+        
+        p, div, li {
+            font-size: 1rem !important;
+            line-height: 1.6 !important;
+        }
+        
+        /* Metric Styling */
+        [data-testid="stMetricValue"] {
+            font-size: 1.5rem !important;
+        }
+
+        /* Dark Mode Toggle: Right Align on Mobile */
+        .stToggle {
+            justify-content: flex-end !important;
+        }
+    }
+
+    /* --- 3. Navigation & UI Fixes --- */
+    /* Hide Streamlit Anchor Links */
+    [data-testid="stHeaderAction"] { display: none !important; }
     
-    /* --- Navigation UI Fixes --- */
-    /* 1. Hide top pills on mobile */
+    /* Hide top pills on mobile */
     @media (max-width: 768px) {
-        .st-key-nav_top {
-            display: none !important;
-        }
+        .st-key-nav_top { display: none !important; }
     }
 
-    /* 2. Hide mobile bottom buttons on PC */
+    /* Hide mobile bottom buttons on PC */
     @media (min-width: 769px) {
-        /* Target the layout block containing our mobile-only trigger */
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
-            display: none !important;
-            height: 0 !important;
-            margin: 0 !important;
-            padding: 0 !important;
+            display: none !important; height: 0 !important; margin: 0 !important; padding: 0 !important;
         }
     }
 
-    /* 3. Fix bottom buttons to bottom on Mobile */
+    /* Fix bottom buttons to bottom on Mobile */
     @media (max-width: 768px) {
-        /* Target the Horizontal Block that contains our buttons */
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
             position: fixed !important;
             bottom: 0 !important;
@@ -103,7 +124,7 @@ st.markdown("""
             background: rgba(255, 255, 255, 0.95) !important;
             backdrop-filter: blur(10px) !important;
             z-index: 9999 !important;
-            padding: 5px 5px 15px 5px !important; /* Reduced padding for slimmer bar */
+            padding: 5px 5px 15px 5px !important; /* Slimmer bar */
             border-top: 1px solid #ddd !important;
             margin: 0 !important;
             display: flex !important;
@@ -113,14 +134,12 @@ st.markdown("""
             justify-content: space-between !important;
         }
 
-        /* Streamlit columns usually have a specific div structure. Force them to not wrap. */
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) > div {
             flex: 1 1 0% !important;
             min-width: 0 !important;
             max-width: none !important;
         }
 
-        /* Style buttons to look like tabs */
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
             background: transparent !important;
             border: none !important;
@@ -128,7 +147,6 @@ st.markdown("""
             color: #666 !important;
             font-size: 0.85rem !important;
             font-weight: 800 !important;
-    .stApp {margin-bottom: 120px;}
             padding: 5px !important;
             width: 100% !important;
             display: block !important;
@@ -139,49 +157,30 @@ st.markdown("""
             color: #FF4B4B !important;
         }
 
-        /* Pad the bottom of the content so it's not covered by the nav bar */
+        /* Pad content bottom */
         .main .block-container {
-            padding-bottom: 250px !important; /* Increased padding */
+            padding-bottom: 250px !important; 
         }
-        
-        /* Fallback for some browsers/devices */
         .stApp {
             padding-bottom: 250px !important;
         }
         
-        /* Force pagination columns to stay in a single row on mobile */
+        /* Pagination Row Fixes */
         div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] {
-            display: flex !important;
-            flex-direction: row !important;
-            flex-wrap: nowrap !important;
-            align-items: center !important;
-            justify-content: space-between !important;
-            gap: 5px !important;
+            display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important;
+            align-items: center !important; justify-content: space-between !important; gap: 5px !important;
         }
-
-        /* Ensure individual columns don't wrap and take equal/appropriate space */
         div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] > div {
-            min-width: 0 !important;
-            flex: 1 1 0% !important;
+            min-width: 0 !important; flex: 1 1 0% !important;
         }
-        
-        /* Make the middle info column slightly more compact */
         div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] > div:nth-child(2) {
             flex: 0.8 1 0% !important;
         }
-
-        /* Refine pagination buttons for small screens */
         div[data-testid="stVerticalBlock"]:has(.pagination-container) button {
-            padding: 2px 5px !important;
-            font-size: 0.75rem !important;
-            min-height: 2.2rem !important;
-            white-space: nowrap !important;
+            padding: 2px 5px !important; font-size: 0.75rem !important; min-height: 2.2rem !important; white-space: nowrap !important;
         }
-
-        /* Adjust info text padding */
         .pagination-info {
-            font-size: 0.85rem !important;
-            padding-top: 5px !important;
+            font-size: 0.85rem !important; padding-top: 5px !important;
         }
     }
 
@@ -1248,25 +1247,85 @@ else:
 
     
     # --- Dark/Light Mode Toggle ---
-    col_t1, col_t2 = st.columns([8, 2])
-    with col_t1:
-        st.title("🇹🇭 오늘의 태국")
-        st.caption("뉴스부터 여행까지, 가장 빠른 태국 소식")
-    with col_t2:
-        # Default False (Light Mode)
-        is_dark = st.toggle("🌘 다크 모드", value=False)
-        
-        # Mobile/Header Visitor UI (Visible ONLY on Mobile via CSS)
-        st.markdown(f"""
-        <style>
-        @media (min-width: 768px) {{
-            .mobile-only-counter {{ display: none !important; }}
-        }}
-        </style>
-        <div class="mobile-only-counter" style="text-align: right; font-size: 0.7em; color: gray; margin-top: -10px;">
-           Today: <b>{daily_val:,}</b><br>Total: <b>{total_val:,}</b>
-        </div>
-        """, unsafe_allow_html=True)
+    # --- Dark/Light Mode Toggle (Relocated to Top-Left above Title) ---
+
+    # CSS to reduce toggle size and text
+    st.markdown("""
+    <style>
+    /* Compact Toggle above Title */
+    .compact-toggle {
+        display: flex;
+        align-items: center;
+        margin-bottom: -15px !important; /* Pull title closer */
+    }
+    .compact-toggle .stToggle {
+        transform: scale(0.8); /* Scale down widget */
+        transform-origin: left center;
+        margin-right: -10px !important;
+    }
+    .compact-toggle label {
+        font-size: 0.8rem !important; /* Smaller text */
+        color: gray !important;
+    }
+    
+    /* Mobile Visitor Counter styling adjustments */
+    @media (max-width: 768px) {
+        .mobile-only-counter {
+            font-size: 0.7rem;
+            color: gray;
+            line-height: 1.2;
+            margin-top: 5px;
+            text-align: left; /* Align left alongside/below title */
+        }
+    }
+    @media (min-width: 769px) {
+        .mobile-only-counter { display: none !important; }
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+    # Layout: Toggle -> Title -> Caption
+    c_toggle, c_counter = st.columns([1, 1]) # Minimal columns for alignment if needed, or just container
+    
+    # Just standard stacking since we want it "Right above title, left aligned"
+    is_dark = st.toggle("🌘 다크 모드", value=False)
+    
+    # Apply custom class via JS injection or wrapping? 
+    # Streamlit doesn't support class wrapping easily for widgets.
+    # We rely on CSS selecting .stToggle which applies generally, causing potential Side Effects?
+    # No, we can use container specific selection if we wrap it.
+    
+    # Actually, simpler: just render it. The CSS above targeting .stToggle globally might affect others?
+    # Let's scope it to the first toggle if possible or just apply globally as it's the main toggle.
+    # User said "Reduce text and toggle size". Global reduction for this app might be fine or we target specifically.
+    
+    # Let's wrap in a container to target
+    # st.container() doesn't add class. 
+    # Use :first-of-type semantics in CSS usually works for the Header toggle.
+    
+    st.markdown("""
+    <style>
+    /* Specific targeting for the first toggle in the main block */
+    .stApp > .main .block-container > div:first-of-type .stToggle {
+         transform: scale(0.8);
+         transform-origin: left center;
+    }
+    .stApp > .main .block-container > div:first-of-type .stToggle label p {
+         font-size: 0.8rem !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
+
+    st.title("🇹🇭 오늘의 태국")
+    
+    # Mobile Visitor Counter (Below Title for clean flow)
+    st.markdown(f"""
+    <div class="mobile-only-counter">
+       Today: <b>{daily_val:,}</b> | Total: <b>{total_val:,}</b>
+    </div>
+    """, unsafe_allow_html=True)
+    
+    st.caption("뉴스부터 여행까지, 가장 빠른 태국 소식")
         
     # Define Theme Colors based on Toggle
     if is_dark:
@@ -1598,6 +1657,10 @@ else:
     st.markdown("""<style>
     .top-widgets {display:flex; flex-direction:row; gap:10px; width:100%;}
     .top-widgets > div {flex:1;}
+    @media (max-width: 768px) {
+        .top-widgets {flex-direction: column;}
+        .top-widgets > div {width: 100%; margin-bottom: 10px;}
+    }
     </style>""", unsafe_allow_html=True)
 
     # 1. Exchange Rate Widget
