@@ -1082,7 +1082,7 @@ def fetch_twitter_trends(api_key):
         Output JSON (Return null if nothing important):
         {{
             "topic": "Keyword or Hashtag",
-            "reason": "1 simple sentence explaining the situation for a tourist. (e.g. 'Avoid Siam area due to heavy protest crowds')",
+            "reason": "1 simple sentence in KOREAN explaining the situation for a tourist. (e.g. '시위로 인해 시암 지역이 혼잡하니 피하세요')",
             "severity": "warning" (for danger/disruption) or "info" (for events/crowds)
         }}
         
