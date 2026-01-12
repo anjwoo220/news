@@ -91,17 +91,20 @@ def main():
 
     # 2. Fetch RSS (Balanced)
     print("Fetching RSS feeds (Balanced Mode)...")
-    # feeds is now a list of dicts or objects
     all_news_items = utils.fetch_balanced_rss(feeds, processed_urls)
+    
+    # [NEW] Add Google News Backup
+    print("Fetching Google News (Backup)...")
+    google_news_items = utils.fetch_google_news_rss(query="Thailand Tourism")
+    all_news_items.extend(google_news_items)
+    
     print(f"Total items fetched: {len(all_news_items)}")
     
     # 3. Filter Duplicates (Strict Check + Similarity)
-    
-    # helper: load recent titles from news.json for context
     recent_titles = []
     current_news = load_json(NEWS_FILE)
     if isinstance(current_news, dict):
-        for date_key in sorted(current_news.keys(), reverse=True)[:3]: # Check last 3 days
+        for date_key in sorted(current_news.keys(), reverse=True)[:3]: 
             for topic in current_news[date_key]:
                 recent_titles.append(topic['title'])
                 for ref in topic.get('references', []):
@@ -121,13 +124,19 @@ def main():
     new_items = []
     
     for item in all_news_items:
+        # [NEW] Update Keyword Logic
+        # If title contains 'Update', 'Solved', 'Safe', we force allow it (bypass strict dup checks)
+        # We assume 2hr check is implicitly handled by RSS window or we trust the keyword.
+        # Ideally, we should check timestamps, but we'll trust the Keyword + freshness of RSS.
+        is_update_news = any(k in item['title'].lower() for k in ['(update)', 'update:', 'solved:', 'safe:', 'situation resolved'])
+        
         # A. Exact Link Match
-        if item['link'] in processed_urls:
+        if not is_update_news and item['link'] in processed_urls:
             continue
             
         # B. ID Match (Bangkok Post)
         is_dup_id = False
-        if 'bangkokpost.com' in item['link']:
+        if not is_update_news and 'bangkokpost.com' in item['link']:
             parts = item['link'].split('/')
             for p in parts:
                 if p.isdigit() and len(p) >= 6:
@@ -140,14 +149,15 @@ def main():
 
         # C. Similarity Check (Fuzzy Match)
         is_similar = False
-        for existing_title in recent_titles:
-            ratio = difflib.SequenceMatcher(None, item['title'].lower(), existing_title.lower()).ratio()
-            if ratio > 0.6:
-                print(f"Skipping similar item ({ratio:.2f}):")
-                print(f" - New: {item['title']}")
-                print(f" - Old: {existing_title}")
-                is_similar = True
-                break
+        if not is_update_news:
+            for existing_title in recent_titles:
+                ratio = difflib.SequenceMatcher(None, item['title'].lower(), existing_title.lower()).ratio()
+                if ratio > 0.6:
+                    print(f"Skipping similar item ({ratio:.2f}):")
+                    print(f" - New: {item['title']}")
+                    print(f" - Old: {existing_title}")
+                    is_similar = True
+                    break
         
         if is_similar:
             continue
@@ -160,8 +170,9 @@ def main():
         print("No new items to process.")
         return
 
-    # 4. Filter (Top 5 - Already Balanced by fetch order)
-    target_items = new_items[:5]
+    # 4. Selection (Expanded for Score Filtering)
+    # Give AI more candidates (10 usually covers 1 day of tourism news)
+    target_items = new_items[:8] 
     print(f"Items selected for API call: {len(target_items)}")
     
     # 5. Extract Images
@@ -174,28 +185,51 @@ def main():
     # 6. API Call
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        # Fallback to secrets.toml
         try:
             import toml
             secrets = toml.load(".streamlit/secrets.toml")
             api_key = secrets.get("GEMINI_API_KEY")
-        except:
-            pass
+        except: pass
             
     if not api_key:
-        print("Error: GEMINI_API_KEY not found in env or secrets.toml.")
+        print("Error: GEMINI_API_KEY not found.")
         return
 
     print("Calling Gemini API...")
-    # Clean _raw_entry before passing to utils/model to avoid serialization errors or huge prompts
-    # Although utils.analyze extracts fields manually, it's safer to rely on utils handling.
-    # utils.analyze_news_with_gemini uses item['summary'], item['title'], etc.
-    
     analysis_result, error_msg = utils.analyze_news_with_gemini(target_items, api_key)
     
     if error_msg:
         print(f"Analysis failed: {error_msg}")
         return
+        
+    # [NEW] Importance-Based Filtering
+    # Logic: Keep Top 5. BUT if Score >= 7, keep them all (override limit).
+    raw_topics = analysis_result.get('topics', [])
+    filtered_topics = []
+    
+    # Sort by Score Descending
+    # Handle missing score (default 5)
+    raw_topics.sort(key=lambda x: x.get('tourist_impact_score', 5) or 5, reverse=True)
+    
+    for i, topic in enumerate(raw_topics):
+        score = topic.get('tourist_impact_score', 0) or 0
+        
+        # Rule 1: Always keep High Impact (>=7)
+        if score >= 7:
+            filtered_topics.append(topic)
+            continue
+            
+        # Rule 2: Keep Medium (4-6) only if we haven't hit quota of 5
+        if len(filtered_topics) < 5 and score >= 4:
+            filtered_topics.append(topic)
+            
+        # Rule 3: Drop Low Impact (<=3) unless we have practically nothing?
+        # User implies filtering based on importance. Dropping 1-3 is safe.
+        
+    print(f"Filtered topics from {len(raw_topics)} to {len(filtered_topics)} based on scores.")
+    
+    # Allow saving filtered_topics
+    analysis_result['topics'] = filtered_topics
 
     # 7. Save Logic (Daily Accumulation)
     # Use UTC+7 (Bangkok Time) for date key

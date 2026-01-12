@@ -148,74 +148,57 @@ def clean_html(raw_html):
     return cleantext
 
 
-def fetch_full_content(url):
+# --------------------------------------------------------------------------------
+# Google News RSS Fetcher (Backup Source)
+# --------------------------------------------------------------------------------
+def fetch_google_news_rss(query="Thailand Tourism", period="1d"):
     """
-    Attempts to scrape full article content.
-    Returns truncated text (max 2000 chars) or None if failed.
+    Fetches Google News RSS for a specific query.
+    Returns: List of dicts matching news item structure.
     """
+    import feedparser
+    import urllib.parse
+    import time
+    
+    encoded_query = urllib.parse.quote(query)
+    # hl=en-TH, gl=TH ensures Thailand focus
+    rss_url = f"https://news.google.com/rss/search?q={encoded_query}+when:{period}&hl=en-TH&gl=TH&ceid=TH:en"
+    
+    print(f"Fetching Google News: {query}...")
     try:
-        import requests
-        from bs4 import BeautifulSoup
-        
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
-        }
-        
-        # Simple domain checks for known Paywalls if needed
-        if "bangkokpost.com" in url or "thairath" in url or "khaosod" in url:
-             pass 
-
-        response = requests.get(url, headers=headers, timeout=5)
-        if response.status_code == 200:
-            soup = BeautifulSoup(response.content, 'html.parser')
-            
-            # Common Content Selectors (Bangkok Post, Thairath, etc.)
-            selectors = [
-                 "div.article-content", # Bangkok Post
-                 "div.artcl-content",   # Bangkok Post variant
-                 "div#content-body",
-                 "div.news-detail",     # Thairath often uses this or similar
-                 "div.entry-content",   # WordPress standard (Khaosod English)
-                 "article"              # Semantic fallback
-            ]
-            
-            content_text = ""
-            for select in selectors:
-                found = soup.select_one(select)
-                if found:
-                    # Remove scripts/styles
-                    for script in found(["script", "style", "iframe", "div.ads"]):
-                        script.decompose()
-                    content_text = found.get_text(separator="\n", strip=True)
-                    break
-            
-            # Fallback: Just grab all P tags if no container found
-            if not content_text:
-                ps = soup.find_all('p')
-                # Filter out very short lines (nav items)
-                content_text = "\n".join([p.get_text(strip=True) for p in ps if len(p.get_text(strip=True)) > 30])
-
-            if content_text:
-                return content_text[:3000] # Cap at 3000 chars for context window
+        feed = feedparser.parse(rss_url)
+        items = []
+        for entry in feed.entries:
+            # Standardize to our News Item format
+            item = {
+                'title': entry.title,
+                'link': entry.link,
+                'published': entry.get('published', ''),
+                'summary': entry.get('description', ''),
+                'source': entry.get('source', {}).get('title', 'Google News'),
+                '_raw_entry': entry # Keep for image extraction
+            }
+            items.append(item)
+        print(f" -> Found {len(items)} items from Google News.")
+        return items
     except Exception as e:
-        print(f"Error scraping {url}: {e}")
-        
-    return None
+        print(f"Google News Fetch Error: {e}")
+        return []
 
 def analyze_news_with_gemini(news_items, api_key):
     if not news_items:
-        return None, "No news items to analyze."
+        return {}, "No news items to analyze."
         
     genai.configure(api_key=api_key)
+    model = genai.GenerativeModel('gemini-2.0-flash-exp')
     
-    # Limit to top 5 items to avoid Rate Limit (429) on Free Tier
-    max_items = 5
-    limited_news_items = news_items[:max_items]
+    # Analyze ALL provided items (Filtering happens based on score later)
+    # Limit max just in case (e.g. 10)
+    limited_news_items = news_items[:10] 
     
     aggregated_topics = []
     total_items = len(limited_news_items)
-    
-    print(f"Starting sequential analysis for {total_items} items (with 10s delay)...")
+    print(f"Starting sequential analysis for {total_items} items...")
 
     for idx, item in enumerate(limited_news_items):
         print(f"[{idx+1}/{total_items}] Processing: {item['title']}...")
@@ -231,26 +214,8 @@ def analyze_news_with_gemini(news_items, api_key):
 
         # Single Item Prompt
         prompt = f"""
-        당신은 태국 방콕에 주재하는 '태국어와 영어에 모두 능통한 베테랑 한국 특파원'입니다.
-        입력된 뉴스 기사(영어, 태국어 혼용 가능)를 한국 교민, 여행자들이 이해하기 쉬운 **완벽한 한국어 뉴스 기사**로 재작성하세요.
-
-        [핵심 처리 규칙]
-        1. **다국어 처리 (중요):** 
-           - 기사 원문에 **태국어(Thai Script)**가 포함된 경우, 절대 생략하거나 원문 그대로 남겨두지 마세요.
-           - **일반 문장:** 한국어로 의미를 번역하세요.
-           - **고유명사:** 한국어 표준 외래어 표기법에 맞춰 **발음대로 표기**하세요. (예: ภู켓 -> 푸켓)
-
-        2. **날짜/연도 변환 (매우 중요):**
-           - **(불기) - 543 = (서기)** 공식을 반드시 적용하세요. (2569년 -> 2026년)
-
-        3. **기자체 사용:** "~했다", "~전망이다" 등 명료한 보도체 문장 사용.
-
-        4. **[Strict Mode] 이벤트/축제 분류 기준 (매우 중요):**
-           - 기사를 분석하여 '축제/이벤트(Event)' 카테고리로 분류할 때는 다음 **3가지 필수 조건**을 모두 만족해야 합니다.
-             1. **명확한 장소 (Venue):** '방콕 어딘가'가 아니라 '시암 파라곤', '룸피니 공원' 등 구체적 장소가 명시되어야 함. (당신의 지식으로 추론 가능하면 인정)
-             2. **명확한 일정 (Date):** 개최 날짜가 명시되어야 함.
-             3. **가격/티켓 (Price):** '무료', '티켓 구매 필수', 'XXX 바트' 등 가격 정보가 있어야 함.
-           - **위 3가지 중 하나라도 불확실하면, 행사 내용이라도 무조건 '여행/관광' 또는 'News'로 분류하세요.**
+        당신은 태국 방콕에 주재하는 '베테랑 한국 특파원'입니다.
+        입력된 기사를 분석하여 한국 여행자에게 필요한 정보를 추출하고 중요도를 평가하세요.
 
         [기사 정보]
         - Title: {item['title']}
@@ -261,17 +226,18 @@ def analyze_news_with_gemini(news_items, api_key):
         {full_content}
 
         [작성 요구사항]
-        1. **헤드라인:** 한국 독자의 눈길을 끄는 매력적인 한국어 제목.
-        2. **핵심 요약:** 3줄 이내 개조식 요약.
-        3. **분류:** ["정치/사회", "경제", "여행/관광", "축제/이벤트", "사건/사고", "엔터테인먼트", "기타"] 중 택 1.
-           - 날씨/홍수/미세먼지는 무조건 '여행/관광' 입니다.
+        1. **Tourist Impact Score (중요도 평가):** (1~10점)
+           - **7~10점 (필수):** 여행객 안전 위협(시위, 홍수, 범죄), 비자/입국 규정 변경, 대형 축제, 공항 혼잡.
+           - **4~6점 (보통):** 새로운 핫플, 일반적인 날씨, 소소한 규제, 흥미로운 로컬 뉴스.
+           - **1~3점 (무시):** 단순 정치 싸움, 연예인 가십, 여행과 무관한 지역 사회 뉴스.
         
-        4. **이벤트 상세 정보 (만약 '축제/이벤트'로 분류했다면):**
-           - 당신의 지식(World Knowledge)을 동원해 누락된 정보를 채우세요.
-           - 예: "Songkran"만 있으면 -> Location: "Silom, Khao San Road"
-           - `location_google_map_query`: 구글 맵에서 바로 검색 가능한 영어 검색어 (예: "Siam Paragon Bangkok")
-
-        5. **기사 전문 작성 (`full_translated`):** markdown 형식으로 기사 작성.
+        2. **헤드라인 & 요약:** 한국인이 클릭하고 싶게 매력적으로 작성.
+        3. **분류:** ["정치/사회", "경제", "여행/관광", "축제/이벤트", "사건/사고", "엔터테인먼트", "기타"]
+           - 날씨/홍수는 무조건 '여행/관광' 또는 Safety 이슈면 '사건/사고'.
+        
+        4. **이벤트 상세 (만약 '축제/이벤트'라면):**
+           - 장소, 날짜, 가격을 명확히 추출. 불확실하면 null.
+           - `location_google_map_query`: 구글 맵 영어 검색어.
 
         [출력 포맷 (JSON Only)]
         {{
@@ -279,13 +245,15 @@ def analyze_news_with_gemini(news_items, api_key):
             {{
               "title": "기사 제목",
               "summary": "3줄 요약",
-              "full_translated": "기사 전문",
+              "full_translated": "기사 전문 (Markdown)",
               "category": "카테고리",
-              "event_info": {{  // '축제/이벤트' 인 경우에만 작성, 아니면 null
+              "tourist_impact_score": 0,  // Integer
+              "impact_reason": "점수 부여 사유",
+              "event_info": {{
                   "date": "YYYY-MM-DD or Range",
-                  "location": "구체적 장소 (없으면 null)",
-                  "price": "가격 정보 (없으면 null)",
-                  "location_google_map_query": "Google Maps Search Query (English)"
+                  "location": "...", 
+                  "price": "...",
+                  "location_google_map_query": "..."
               }},
               "references": [
                 {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
@@ -1120,6 +1088,14 @@ def fetch_twitter_trends(api_key):
              return None
              
         data = json.loads(result_text)
+        
+        # Add Collection Time (Bangkok Time UTC+7 roughly, or just Server Time)
+        # Since user wants "Post Time", and this is "Trend Collection Time".
+        # We'll use simple datetime.now().strftime("%H:%M")
+        from datetime import datetime
+        now_str = datetime.now().strftime("%H:%M")
+        data['collected_at'] = now_str
+        
         return data
 
 

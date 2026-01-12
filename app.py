@@ -1948,8 +1948,13 @@ else:
                 icon = "🚨" if severity == 'warning' else "📢"
                 msg = f"**[실시간 방콕 이슈]** {t_data.get('reason')} (#{t_data.get('topic')})"
                 
+                # Add Timestamp
+                ts = t_data.get('collected_at', '')
+                if ts:
+                    msg += f" _({ts} 기준)_"
+                
                 if severity == 'warning':
-                    st.warning(f"{icon} {msg}")
+                    st.error(f"{icon} {msg}") # Use error for red background if warning
                 else:
                     st.info(f"{icon} {msg}")
 
