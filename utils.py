@@ -798,25 +798,13 @@ def fetch_trend_hunter_items(api_key, existing_links=None):
             2. **INFERENCE**: Infer details (Vibe, Menu, Tips) from context.
             3. **FIELDS**:
                - "catchy_headline": Click-bait style 1-liner in Korean.
-               - "vibe_tags": 2-3 Korean hashtags.
-               - "summary": Emotional 2-3 sentences.
-               - "must_eat": Signature menu or "N/A".
-               - "pro_tip": Practical visiting tip.
-               - "price_level": 💸/💸💸/💸💸💸.
-               - "location_url": Google Maps Search URL.
+               - "desc": 2-3 sentences summary (Focus on why it's hot).
+               - "location": Infer Area (e.g. 'Thong Lor', 'Siam').
+               - "badge": Use "{source_tag}"
             
-            Output JSON Format:
+            Return JSON List of objects (excluding nulls).
+            Example:
             [
-                {{
-                    "original_index": 0,
-                    "title": "Place Name (Korean + English)",
-                    "catchy_headline": "...",
-                    "vibe_tags": ["..."],
-                    "summary": "...",
-                    "must_eat": "...",
-                    "pro_tip": "...",
-                    "price_level": "...",
-                    "location_url": "..."
                 }},
                 null,
                 ...
@@ -1112,6 +1100,129 @@ def fetch_twitter_trends(api_key):
         data = json.loads(result_text)
         return data
 
+
     except Exception as e:
         print(f"Twitter Trend Error: {e}")
         return None
+
+# --------------------------------------------------------
+# Hotel Fact Check Features
+# --------------------------------------------------------
+
+def fetch_hotel_info(hotel_name, api_key):
+    """
+    Search for a hotel using Google Places API (New) and fetch details + photos.
+    """
+    if not api_key:
+        return None, "Google Maps API Key가 없습니다."
+
+    try:
+        # Step 1: Text Search (Find ID)
+        search_url = "https://places.googleapis.com/v1/places:searchText"
+        headers = {
+            "Content-Type": "application/json",
+            "X-Goog-Api-Key": api_key,
+            "X-Goog-FieldMask": "places.id,places.displayName,places.formattedAddress"
+        }
+        payload = {
+            "textQuery": hotel_name
+        }
+        
+        resp = requests.post(search_url, json=payload, headers=headers)
+        data = resp.json()
+        
+        # Debugging: Print raw response
+        print(f"DEBUG: Places Search Response: {data}")
+
+        if "error" in data:
+            return None, f"Google API Error: {data['error'].get('message')} (Code: {data['error'].get('code')})"
+        
+        if not data.get("places"):
+            return None, "호텔을 찾을 수 없습니다. (검색 결과 0건)"
+        
+        place_id = data["places"][0]["id"]
+        
+        # Step 2: Place Details
+        details_url = f"https://places.googleapis.com/v1/places/{place_id}"
+        headers_details = {
+            "X-Goog-Api-Key": api_key,
+            "X-Goog-FieldMask": "id,displayName,formattedAddress,rating,userRatingCount,reviews,photos"
+        }
+        
+        resp_details = requests.get(details_url, headers=headers_details)
+        place_details = resp_details.json()
+        
+        # Process Photos
+        photo_url = None
+        if place_details.get("photos"):
+            photo_ref = place_details["photos"][0]["name"] # "places/PLACE_ID/photos/PHOTO_ID"
+            # Construct Image URL (Max Width 800)
+            photo_url = f"https://places.googleapis.com/v1/{photo_ref}/media?maxHeightPx=800&maxWidthPx=800&key={api_key}"
+        
+        return {
+            "name": place_details.get("displayName", {}).get("text", hotel_name),
+            "address": place_details.get("formattedAddress", ""),
+            "rating": place_details.get("rating", 0.0),
+            "review_count": place_details.get("userRatingCount", 0),
+            "reviews": place_details.get("reviews", []),
+            "photo_url": photo_url
+        }, None
+
+    except Exception as e:
+        return None, f"API 오류: {str(e)}"
+
+def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
+    """
+    Analyze hotel reviews using Gemini with a specific 'Cold Inspector' persona.
+    """
+    try:
+        # 1. Prepare Review Text
+        reviews_text = ""
+        for r in reviews[:5]: # Use top 5 reviews
+             text = r.get("text", {}).get("text", "")
+             if text:
+                 reviews_text += f"- {text}\n"
+
+        # 2. Gemini Prompt
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+
+        prompt = f"""
+        너는 '냉철한 호텔 검증가'야. 사용자가 이 호텔을 **"실제로 예약할지 말지"** 결정할 수 있도록, 광고 멘트는 빼고 오직 **팩트와 실제 후기**에 기반해서 분석해줘.
+
+        **[분석 대상]**
+        * 호텔명: {hotel_name} (평점: {rating})
+        * 구글 맵 최신 리뷰 데이터: {reviews_text}
+        * **추가 지식:** 위 리뷰 외에도, 네가 이미 학습해서 알고 있는 이 호텔의 특징(위치, 브랜드 평판, 수영장, 조식 스타일 등)을 총동원해.
+
+        **[작성 가이드라인 - 엄격 준수]**
+        1. **추측 금지:** 모르는 구체적 수치(예: 정확한 디파짓 금액)는 억지로 쓰지 말고, 전반적인 '경향성(체계적이다/느리다)' 위주로 서술해.
+        2. **비판적 시각:** "좋았다" 대신 "수압이 마사지 수준이다" 혹은 "배수가 느려 물이 고인다"처럼 구체적으로 묘사해.
+        3. **한국인 맞춤:** 한국인이 민감한 '벌레', '샤워기 필터 변색', '방음', '조식 김치 유무' 등의 정보가 있다면 필수로 포함해.
+
+        **[출력 포맷 (JSON)]**
+        응답은 반드시 아래 JSON 형식을 지켜줘.
+
+        {{
+            "one_line_verdict": "한 줄 결론 (예: 위치는 깡패지만 귀마개 필수인 가성비 호텔)",
+            "recommendation_target": "추천: [대상], 비추천: [대상] (예: 추천: 잠만 잘 혼행족, 비추천: 예민한 커플)",
+            "location_analysis": "위치 및 동선 (역과의 거리, 주변 편의점/마사지샵, 치안, 도보 난이도)",
+            "room_condition": "객실 디테일 (청결도, 침구, 습기/냄새, 소음, 벌레, 뷰)",
+            "service_breakfast": "서비스 및 조식 (직원 친절도, 조식 메뉴 구성 및 맛, 한국인 입맛 적합도)",
+            "pool_facilities": "수영장 및 부대시설 (수영장 크기/수질/그늘 여부, 헬스장 등)",
+            "pros": ["장점1 (구체적 근거)", "장점2", "장점3", "장점4", "장점5"],
+            "cons": ["단점1 (치명적인 부분)", "단점2", "단점3", "단점4", "단점5"],
+            "summary_score": {{
+                "cleanliness": 0,  // 5점 만점 (정수)
+                "location": 0,
+                "comfort": 0,
+                "value": 0
+            }}
+        }}
+        """
+        
+        response = model.generate_content(prompt)
+        return json.loads(response.text)
+
+    except Exception as e:
+        return {"error": str(e)}

@@ -698,7 +698,8 @@ if app_mode == "Admin Console":
         
         # Tabs for better organization
         # Tabs for better organization
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🌴 매거진 관리", "⚙️ 소스 관리"])
+        # Main Tab Layout
+        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "⚙️ 소스 관리", "🌴 매거진 관리"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -808,6 +809,32 @@ if app_mode == "Admin Console":
                                 save_json(NEWS_FILE, news_data)
                                 st.warning("삭제되었습니다.")
                                 st.rerun()
+
+        # --- Tab 7: Hotel Management ---
+        with tab7:
+            st.subheader("호텔 검색 기능 테스트 & 관리")
+            
+            st.info("Google Places API 및 Gemini 분석을 테스트할 수 있는 공간입니다.")
+            
+            admin_hotel_query = st.text_input("호텔 검색 테스트 (Admin)", key="admin_hotel_search")
+            if st.button("검색 및 분석 테스트", key="admin_hotel_btn"):
+                 api_key = st.secrets.get("google_maps_api_key")
+                 if not api_key:
+                     st.error("Google Maps API Key 없음")
+                 else:
+                     info, err = utils.fetch_hotel_info(admin_hotel_query, api_key)
+                     if err:
+                         st.error(err)
+                     else:
+                         st.success("기본 정보 Fetch 성공")
+                         st.json(info)
+                         
+                         st.divider()
+                         st.info("Gemini 분석 시작...")
+                         gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+                         analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                         st.json(analysis)
+
 
         # --- Tab 3: Community Management ---
         with tab3:
@@ -1231,8 +1258,8 @@ if app_mode == "Admin Console":
                 st.warning("초기화되었습니다.")
                 st.rerun()
 
-        # --- Tab 7: Magazine (Trend Hunter) Management ---
-        with tab7:
+        # --- Tab 9: Magazine (Trend Hunter) Management ---
+        with tab9:
             st.subheader("🌴 핫플 매거진 관리 (트렌드 헌터)")
             st.info("4대 소스(Wongnai, TSL, Chillpainai, BK Mag)에서 수집된 트렌드 정보를 관리합니다.")
             
@@ -1930,7 +1957,7 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "🎉 콘서트/이벤트", "🌴 핫플 매거진", "🗣️ 게시판"]
+    nav_options = ["📰 뉴스 브리핑", "🎉 콘서트/이벤트", "🏨 호텔 팩트체크", "🗣️ 게시판"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -1997,8 +2024,8 @@ else:
             st.rerun()
     with b_col3:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("🌴 매거진", key="btn_nav_mag", use_container_width=True):
-            st.session_state["nav_mode"] = "🌴 핫플 매거진"
+        if st.button("🏨 호텔", key="btn_nav_hotel", use_container_width=True):
+            st.session_state["nav_mode"] = "🏨 호텔 팩트체크"
             st.rerun()
     with b_col4:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
@@ -2327,53 +2354,6 @@ else:
             with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
                  st.info("📢 현재 확정된 대형 이벤트 정보를 집계 중입니다. 빠른 시일 내에 업데이트됩니다!")
                  
-        else:
-            with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
-                # Calculate D-Day helper
-                def get_d_day(date_str):
-                    try:
-                         # Extract first date if range
-                         clean = date_str.split('~')[0].strip()
-                         target = datetime.strptime(clean, "%Y-%m-%d").date()
-                         today = datetime.now().date()
-                         diff = (target - today).days
-                         if diff > 0: return f"D-{diff}"
-                         elif diff == 0: return "D-Day"
-                         else: return "End"
-                    except:
-                         return "D-?"
-
-                # Render Cards (Horizontal Scroll-ish or Columns)
-                # Streamlit columns wrap, so 2 per row is good
-                b_cols = st.columns(2)
-                for idx, event in enumerate(visible_big_events):
-                    with b_cols[idx % 2]:
-                        with st.container(border=True):
-                            # Layout: [Image] [Title/D-Day]
-                            c_img, c_info = st.columns([1, 2])
-                            with c_img:
-                                if event.get('image_url'):
-                                    st.image(event['image_url'], use_container_width=True)
-                                else:
-                                    st.write("🖼️")
-                            
-                            with c_info:
-                                d_day = get_d_day(event.get('date'))
-                                st.markdown(f"**{event['title']}**")
-                                st.caption(f"🗓 {event['date']} ({d_day})")
-                                st.caption(f"📍 {event['location']}")
-                                
-                                # New: Details
-                                if event.get('booking_date'):
-                                    st.markdown(f"🎟 **예매:** {event['booking_date']}")
-                                if event.get('price'):
-                                    st.markdown(f"💰 **가격:** {event['price']}")
-                                    
-                                st.markdown(f"🎫 **{event.get('status','정보없음')}**")
-                                if event.get('link') and event['link'] != "#":
-                                    st.link_button("공식 사이트 🔗", event['link'])
-        
-        st.divider()
 
         try:
             with st.spinner("최신 여행 정보를 불러오는 중..."):
@@ -2448,65 +2428,99 @@ else:
             st.error(f"이벤트 정보를 불러오는 중 오류가 발생했습니다: {e}")
 
     # --- Page 3: Trend Hunter (Magazine) ---
-    # --- Page 3: Trend Hunter (Magazine) ---
-    elif page_mode == "🌴 핫플 매거진":
-        st.markdown("### 🌴 트렌드 리포트 (Magazine)")
-        st.caption("현지 에디터가 엄선한 방콕의 힙한 플레이스를 만나보세요.")
+    # --- Page 3: Hotel Fact Check ---
+    elif page_mode == "🏨 호텔 팩트체크":
+        st.header("🏨 호텔 팩트체크 (Hotel Check)")
+        st.caption("광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.")
         
-        MAGAZINE_FILE = 'data/magazine_content.json'
+        # 1. Search Input
+        hotel_query = st.text_input("호텔 이름을 입력하세요 (예: 그랜드 하얏트 에라완, 아리야솜비라)", placeholder="호텔명 (한글/영어) 입력...")
         
-        # Load Data
-        magazine_items = []
-        if os.path.exists(MAGAZINE_FILE):
-             try:
-                 with open(MAGAZINE_FILE, 'r', encoding='utf-8') as f:
-                     magazine_items = json.load(f)
-             except: magazine_items = []
-
-        if not magazine_items:
-            st.info("발행된 매거진이 없습니다. 관리자에게 문의하세요.")
-        else:
-            # Magazine Layout
-            for item in magazine_items:
-                with st.container(border=True):
-                    # 1. Full Width Image
-                    if item.get('image_url'):
-                        st.image(item['image_url'], use_container_width=True)
+        if hotel_query:
+            api_key = st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
+            gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+            
+            if not api_key:
+                st.error("🚨 Google Maps API Key가 설정되지 않았습니다.")
+                # Debugging Aid
+                with st.expander("🛠️ 디버그: 로드된 Secret Key 목록"):
+                    st.write(f"현재 로드된 Keys: {list(st.secrets.keys())}")
+                    st.write("팁: secrets.toml을 수정한 후에는 앱을 완전히 재실행해야 할 수 있습니다.")
+            elif not gemini_key:
+                 st.error("🚨 Gemini API Key가 설정되지 않았습니다.")
+            else:
+                with st.spinner(f"🔍 '{hotel_query}' 정보 및 리뷰 분석 중..."):
+                    # 1. Fetch Basic Info
+                    info, err = utils.fetch_hotel_info(hotel_query, api_key)
                     
-                    # 2. Catchy Headline
-                    st.markdown(f"### {item.get('catchy_headline', item.get('title'))}")
-                    
-                    # 3. Tags (Pills)
-                    tags = item.get('vibe_tags', [])
-                    if tags:
-                        # Use pills if available or markdown badges
-                        try:
-                            st.pills("Vibes", tags, selection_mode="multi", disabled=True, label_visibility="collapsed", key=f"tags_{item.get('title')}")
-                        except:
-                            # Fallback for older streamlit
-                            badges = " ".join([f"`{t}`" for t in tags])
-                            st.markdown(badges)
-                    
-                    st.divider()
-                    
-                    # 4. Details Grid
-                    c1, c2 = st.columns([2, 1])
-                    with c1:
-                         st.markdown(f"**📍 {item.get('title')}**")
-                         st.caption(item.get('summary', ''))
-                         
-                         if item.get('must_eat'):
-                             st.markdown(f"🍽️ **추천:** {item.get('must_eat')}")
-                         
-                         if item.get('pro_tip'):
-                             st.info(f"💡 **에디터 꿀팁:** {item.get('pro_tip')}", icon="✨")
-                    
-                    with c2:
-                        st.markdown(f"**가격대**: {item.get('price_level', '💸')}")
-                        if item.get('location_url'):
-                            st.link_button("지도 보기 🗺️", item.get('location_url'), use_container_width=True)
-                        if item.get('link'):
-                             st.link_button("원문 보기 🔗", item.get('link'), use_container_width=True)
+                    if err:
+                        st.warning(err)
+                    else:
+                        # 2. Display Basic Info
+                        col_img, col_desc = st.columns([1, 1.5])
+                        
+                        with col_img:
+                            if info.get('photo_url'):
+                                st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                            else:
+                                st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
+                                
+                        with col_desc:
+                            st.subheader(f"{info['name']}")
+                            st.markdown(f"📍 **주소:** {info['address']}")
+                            st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
+                        
+                        st.divider()
+                        
+                        # 3. Analyze Reviews (Gemini)
+                        analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                        
+                        if "error" in analysis:
+                            st.error(f"분석 중 오류 발생: {analysis['error']}")
+                        else:
+                            # 4. Display Analysis Result
+                            
+                            # One-line Verdict
+                            st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
+                            
+                            # Recommendation Target
+                            st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
+                            
+                            # Pros & Cons
+                            c1, c2 = st.columns(2)
+                            with c1:
+                                st.success("✅ **장점 (Pros)**")
+                                for p in analysis.get('pros', []):
+                                    st.markdown(f"- {p}")
+                                    
+                            with c2:
+                                st.error("⚠️ **단점 (Cons)**")
+                                for c in analysis.get('cons', []):
+                                    st.markdown(f"- {c}")
+                            
+                            # Detailed Analysis
+                            with st.expander("🔍 상세 분석 보기 (위치, 룸컨디션, 조식/부대시설)", expanded=True):
+                                st.markdown("### 📍 위치 및 동선")
+                                st.write(analysis.get('location_analysis', '-'))
+                                
+                                st.markdown("### 🛏️ 룸 컨디션")
+                                st.write(analysis.get('room_condition', '-'))
+                                
+                                st.markdown("### 🍽️ 서비스 & 조식")
+                                st.write(analysis.get('service_breakfast', '-'))
+                                
+                                st.markdown("### 🏊‍♂️ 수영장 & 부대시설")
+                                st.write(analysis.get('pool_facilities', '-'))
+                            
+                            # Scores
+                            scores = analysis.get('summary_score', {})
+                            if scores:
+                                st.markdown("### 📊 팩트체크 점수")
+                                sc1, sc2, sc3, sc4 = st.columns(4)
+                                sc1.metric("청결도", f"{scores.get('cleanliness', 0)}/5")
+                                sc2.metric("위치", f"{scores.get('location', 0)}/5")
+                                sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
+                                sc4.metric("가성비", f"{scores.get('value', 0)}/5")
 
     # --- Page 4: Community Board ---
     elif page_mode == "🗣️ 게시판":
