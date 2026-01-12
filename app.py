@@ -9,6 +9,13 @@ import hashlib
 import html
 import pandas as pd
 import time
+from streamlit_gsheets import GSheetsConnection
+import certifi
+import ssl
+
+# Fix SSL Certificate Issue on Mac
+os.environ["SSL_CERT_FILE"] = certifi.where()
+
 
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
@@ -469,41 +476,118 @@ def save_comment(news_id, nickname, text):
         data[news_id].append(new_comment)
         save_json(COMMENTS_FILE, data)
 
-# --- Community Board Helpers ---
+        data[news_id].append(new_comment)
+        save_json(COMMENTS_FILE, data)
+
+# --- Community Board Helpers (Google Sheets) ---
 def load_board_data():
-    if not os.path.exists(BOARD_FILE):
+    """
+    Load data from Google Sheets ('board_db').
+    Returns a list of dicts: [{'created_at':..., 'nickname':..., 'content':..., 'password':...}]
+    Sorted by 'created_at' descending (Latest first).
+    """
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0) # ttl=0 for fresh data
+        # Check if df is empty
+        if df.empty:
+            return []
+        
+        # Sort by created_at desc
+        if 'created_at' in df.columns:
+            df = df.sort_values(by='created_at', ascending=False)
+            
+        return df.to_dict('records')
+    except Exception as e:
+        if "404" in str(e):
+            try:
+                sa_email = st.secrets["connections"]["gsheets"]["client_email"]
+                st.error(f"🚨 구글 시트('board_db')를 찾을 수 없습니다.\n\n"
+                         f"해당 시트가 서비스 계정 이메일(**{sa_email}**)과 공유되어 있는지 확인해주세요.")
+            except:
+                st.error("🚨 구글 시트('board_db')를 찾을 수 없습니다. 서비스 계정과 공유되었는지 확인해주세요.")
+        else:
+            st.error(f"게시판 데이터 로드 실패: {e}")
         return []
-    return load_json(BOARD_FILE, [])
 
 def save_board_post(nickname, content, password):
-    data = load_board_data()
-    new_post = {
-        "nickname": nickname if nickname else "익명",
-        "content": content,
-        "password": password,
-        "date": datetime.now().strftime("%Y-%m-%d %H:%M")
-    }
-    data.insert(0, new_post) # Prepend
-    save_json(BOARD_FILE, data)
+    """
+    Append a new row to Google Sheets using Update (Read -> Concat -> Update).
+    """
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        existing_df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
+        
+        new_row = pd.DataFrame([{
+            "created_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
+            "nickname": nickname if nickname else "익명",
+            "content": content,
+            "password": password
+        }])
+        
+        # Concat
+        updated_df = pd.concat([existing_df, new_row], ignore_index=True)
+        
+        # Update Sheet
+        conn.update(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, data=updated_df)
+        st.cache_data.clear() # Clear specific data caches if any
+        return True
+    except Exception as e:
+        if "404" in str(e):
+             st.error("🚨 구글 시트를 찾을 수 없습니다. (공유 설정 확인 필요)")
+        else:
+             st.error(f"게시글 저장 실패: {e}")
+        return False
 
-def delete_board_post(index, password):
-    data = load_board_data()
-    if 0 <= index < len(data):
-        if data[index].get("password") == password:
-            data.pop(index)
-            save_json(BOARD_FILE, data)
+def delete_board_post(created_at, password):
+    """
+    Delete a row based on 'created_at' and 'password' match.
+    Note: 'created_at' is used as a unique ID here effectively.
+    """
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
+        
+        if df.empty:
+            return False, "데이터가 없습니다."
+
+        # Find match
+        # Ensure string comparison
+        df['created_at'] = df['created_at'].astype(str)
+        df['password'] = df['password'].astype(str)
+        
+        mask = (df['created_at'] == str(created_at)) & (df['password'] == str(password))
+        
+        if not df[mask].empty:
+            df = df[~mask] # Remove matched rows
+            conn.update(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, data=df)
+            st.cache_data.clear()
             return True, "삭제되었습니다."
         else:
-            return False, "비밀번호가 일치하지 않습니다."
-    return False, "게시글을 찾을 수 없습니다."
+            return False, "비밀번호가 일치하지 않거나 이미 삭제된 글입니다."
+            
+    except Exception as e:
+        return False, f"삭제 오류: {e}"
 
-def admin_delete_board_post(index):
-    data = load_board_data()
-    if 0 <= index < len(data):
-        data.pop(index)
-        save_json(BOARD_FILE, data)
+def admin_delete_board_post(created_at):
+    """
+    Admin delete (no password check).
+    """
+    try:
+        conn = st.connection("gsheets", type=GSheetsConnection)
+        df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
+        
+        if df.empty: return False
+
+        df['created_at'] = df['created_at'].astype(str)
+        df = df[df['created_at'] != str(created_at)]
+        
+        conn.update(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, data=df)
+        st.cache_data.clear()
         return True
-    return False
+    except Exception as e:
+        st.error(f"관리자 삭제 오류: {e}")
+        return False
 
 # --- AdSense Injection ---
 def inject_adsense():
@@ -745,10 +829,12 @@ if app_mode == "Admin Console":
                             c1, c2 = st.columns([4, 1])
                             with c1:
                                 st.markdown(f"**{post['nickname']}**: {post['content']}")
-                                st.caption(f"{post['date']}")
+                                st.caption(f"{post.get('created_at', 'Unknown')}")
                             with c2:
+                                # Use created_at as ID
+                                unique_key = post.get('created_at', str(i))
                                 if st.button("삭제 🗑️", key=f"adm_bd_del_{i}"):
-                                    admin_delete_board_post(i)
+                                    admin_delete_board_post(unique_key)
                                     st.success("삭제됨")
                                     st.rerun()
 
@@ -2405,9 +2491,10 @@ else:
                     elif not b_pw:
                         st.warning("삭제를 위한 비밀번호를 입력해주세요.")
                     else:
-                        save_board_post(b_nick, b_content, b_pw)
-                        st.success("게시글이 등록되었습니다!")
-                        st.rerun()
+                        with st.spinner("구글 시트에 저장 중..."):
+                            if save_board_post(b_nick, b_content, b_pw):
+                                st.success("게시글이 등록되었습니다!")
+                                st.rerun()
 
         st.markdown("---")
 
@@ -2419,18 +2506,25 @@ else:
         else:
             for i, post in enumerate(board_data):
                 with st.container(border=True):
+                    # Data Mapping: created_at -> date (for display compatibility if needed, using created_at)
+                    c_date = post.get('created_at', 'Unknown Date')
+                    c_nick = post.get('nickname', '익명')
+                    c_content = post.get('content', '')
+                    
                     # Header: Nickname & Date
-                    st.markdown(f"**{post['nickname']}** <span style='color:grey; font-size:0.8em'>| {post['date']}</span>", unsafe_allow_html=True)
+                    st.markdown(f"**{c_nick}** <span style='color:grey; font-size:0.8em'>| {c_date}</span>", unsafe_allow_html=True)
                     # Content
-                    st.markdown(post['content'])
+                    st.markdown(c_content)
                     
                     # Delete UI (Bottom Right)
                     with st.expander("🗑️ 삭제"):
                         del_pw = st.text_input("비밀번호 확인", type="password", key=f"del_pw_{i}", max_chars=4)
                         if st.button("삭제하기", key=f"btn_del_{i}"):
-                            success, msg = delete_board_post(i, del_pw)
+                            # Use created_at as ID for deletion
+                            success, msg = delete_board_post(c_date, del_pw)
                             if success:
                                 st.success(msg)
+                                time.sleep(1)
                                 st.rerun()
                             else:
                                 st.error(msg)
