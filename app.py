@@ -20,7 +20,16 @@ COMMENTS_FILE = 'data/comments.json'
 
 DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
-st.set_page_config(page_title="오늘의 태국 - 뉴스 & 여행", page_icon="🇹🇭", layout="wide")
+st.set_page_config(
+    page_title="오늘의 태국 - 실시간 태국뉴스, 여행정보",
+    page_icon="🇹🇭",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    menu_items={
+        'Get Help': 'https://forms.gle/B9RTDGJcCR9MnJvv5',
+        'About': "### 오늘의 태국 \n 실시간 태국 여행 정보, 뉴스, 핫플을 한눈에! 태국 정보가 필요한 모든 분들께!"
+    }
+)
 
 # 📱 모바일/PC 완벽 UI 숨김 처리 (Super Clean Mode)
 hide_streamlit_style = """
