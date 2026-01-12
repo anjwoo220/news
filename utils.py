@@ -1108,68 +1108,83 @@ def fetch_twitter_trends(api_key):
 # --------------------------------------------------------
 # Hotel Fact Check Features
 # --------------------------------------------------------
+import streamlit as st # Added for user requested st.error/st.warning
 
-def fetch_hotel_info(hotel_name, api_key):
+def fetch_hotel_candidates(hotel_name, city, api_key):
     """
-    Search for a hotel using Google Places API (New) and fetch details + photos.
+    Step 1: Search for potential hotels (Candidates).
+    Returns: List of dicts [{'id':..., 'name':..., 'address':...}] or None
     """
-    if not api_key:
-        return None, "Google Maps API Key가 없습니다."
-
+    search_query = f"{hotel_name} Hotel {city} Thailand"
+    url = "https://places.googleapis.com/v1/places:searchText"
+    headers = {
+        "Content-Type": "application/json",
+        "X-Goog-Api-Key": api_key,
+        "X-Goog-FieldMask": "places.id,places.displayName,places.formattedAddress"
+    }
+    payload = {"textQuery": search_query}
+    
     try:
-        # Step 1: Text Search (Find ID)
-        search_url = "https://places.googleapis.com/v1/places:searchText"
-        headers = {
-            "Content-Type": "application/json",
-            "X-Goog-Api-Key": api_key,
-            "X-Goog-FieldMask": "places.id,places.displayName,places.formattedAddress"
-        }
-        payload = {
-            "textQuery": hotel_name
-        }
-        
-        resp = requests.post(search_url, json=payload, headers=headers)
-        data = resp.json()
-        
-        # Debugging: Print raw response
-        print(f"DEBUG: Places Search Response: {data}")
-
-        if "error" in data:
-            return None, f"Google API Error: {data['error'].get('message')} (Code: {data['error'].get('code')})"
+        response = requests.post(url, json=payload, headers=headers)
+        if response.status_code != 200:
+            st.error(f"🚨 API 호출 실패: {response.status_code} - {response.text}")
+            return None
+            
+        data = response.json()
         
         if not data.get("places"):
-            return None, "호텔을 찾을 수 없습니다. (검색 결과 0건)"
-        
-        place_id = data["places"][0]["id"]
-        
-        # Step 2: Place Details
-        details_url = f"https://places.googleapis.com/v1/places/{place_id}"
-        headers_details = {
-            "X-Goog-Api-Key": api_key,
-            "X-Goog-FieldMask": "id,displayName,formattedAddress,rating,userRatingCount,reviews,photos"
-        }
-        
-        resp_details = requests.get(details_url, headers=headers_details)
-        place_details = resp_details.json()
-        
-        # Process Photos
-        photo_url = None
-        if place_details.get("photos"):
-            photo_ref = place_details["photos"][0]["name"] # "places/PLACE_ID/photos/PHOTO_ID"
-            # Construct Image URL (Max Width 800)
-            photo_url = f"https://places.googleapis.com/v1/{photo_ref}/media?maxHeightPx=800&maxWidthPx=800&key={api_key}"
-        
-        return {
-            "name": place_details.get("displayName", {}).get("text", hotel_name),
-            "address": place_details.get("formattedAddress", ""),
-            "rating": place_details.get("rating", 0.0),
-            "review_count": place_details.get("userRatingCount", 0),
-            "reviews": place_details.get("reviews", []),
-            "photo_url": photo_url
-        }, None
+            return [] # Return empty list if no results
+            
+        # Extract meaningful candidates (up to 5)
+        candidates = []
+        for p in data["places"][:5]:
+            candidates.append({
+                "id": p["id"],
+                "name": p.get("displayName", {}).get("text", "Unknown"),
+                "address": p.get("formattedAddress", "")
+            })
+        return candidates
 
     except Exception as e:
-        return None, f"API 오류: {str(e)}"
+        st.error(f"시스템 오류 발생: {e}")
+        return None
+
+def fetch_hotel_details(place_id, api_key):
+    """
+    Step 2: Fetch full details for a specific Place ID.
+    Returns: place_dict or None
+    """
+    url = f"https://places.googleapis.com/v1/places/{place_id}"
+    headers = {
+        "X-Goog-Api-Key": api_key,
+        "X-Goog-FieldMask": "id,displayName,formattedAddress,rating,userRatingCount,reviews,photos"
+    }
+    
+    try:
+        resp = requests.get(url, headers=headers)
+        if resp.status_code != 200:
+            st.error(f"상세 정보 조회 실패: {resp.text}")
+            return None
+            
+        place = resp.json()
+        
+        # Photo handling
+        photo_url = None
+        if place.get("photos"):
+            photo_ref = place["photos"][0]["name"]
+            photo_url = f"https://places.googleapis.com/v1/{photo_ref}/media?maxHeightPx=800&maxWidthPx=800&key={api_key}"
+
+        return {
+            "name": place.get("displayName", {}).get("text", "Unknown"),
+            "address": place.get("formattedAddress", ""),
+            "rating": place.get("rating", 0.0),
+            "review_count": place.get("userRatingCount", 0),
+            "reviews": place.get("reviews", []),
+            "photo_url": photo_url
+        }
+    except Exception as e:
+        st.error(f"상세 정보 처리 중 오류: {e}")
+        return None
 
 def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
     """

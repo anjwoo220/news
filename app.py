@@ -816,17 +816,24 @@ if app_mode == "Admin Console":
             
             st.info("Google Places API 및 Gemini 분석을 테스트할 수 있는 공간입니다.")
             
-            admin_hotel_query = st.text_input("호텔 검색 테스트 (Admin)", key="admin_hotel_search")
+            ac1, ac2 = st.columns([1, 2])
+            with ac1:
+                admin_city = st.selectbox("도시", ["Bangkok", "Pattaya", "Chiang Mai", "Phuket"], key="admin_city_select")
+            with ac2:
+                 admin_hotel_query = st.text_input("호텔 검색 테스트 (Admin)", key="admin_hotel_search")
+                 
             if st.button("검색 및 분석 테스트", key="admin_hotel_btn"):
                  api_key = st.secrets.get("google_maps_api_key")
                  if not api_key:
                      st.error("Google Maps API Key 없음")
                  else:
-                     info, err = utils.fetch_hotel_info(admin_hotel_query, api_key)
-                     if err:
-                         st.error(err)
-                     else:
-                         st.success("기본 정보 Fetch 성공")
+                     candidates = utils.fetch_hotel_candidates(admin_hotel_query, admin_city, api_key)
+                     if candidates:
+                         st.success(f"검색 성공: {len(candidates)}건")
+                         st.json(candidates)
+                         
+                         # Test with first one for simplicity in Admin
+                         info = utils.fetch_hotel_details(candidates[0]['id'], api_key)
                          st.json(info)
                          
                          st.divider()
@@ -2434,93 +2441,145 @@ else:
         st.caption("광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.")
         
         # 1. Search Input
-        hotel_query = st.text_input("호텔 이름을 입력하세요 (예: 그랜드 하얏트 에라완, 아리야솜비라)", placeholder="호텔명 (한글/영어) 입력...")
+        with st.container():
+            c_city, c_name = st.columns([1, 2])
+            with c_city:
+                city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", "기타 (직접 입력)"]
+                selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select")
+                
+                if selected_city == "기타 (직접 입력)":
+                    city = st.text_input("도시명 (영어)", placeholder="예: Siracha, Rayong", key="user_city_manual")
+                else:
+                    city = selected_city
+                    
+            with c_name:
+                hotel_query = st.text_input("호텔 이름 (예: Amari, Hilton)", placeholder="호텔명 입력...", key="user_hotel_input")
         
         if hotel_query:
-            api_key = st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
-            gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
-            
-            if not api_key:
-                st.error("🚨 Google Maps API Key가 설정되지 않았습니다.")
-                # Debugging Aid
-                with st.expander("🛠️ 디버그: 로드된 Secret Key 목록"):
-                    st.write(f"현재 로드된 Keys: {list(st.secrets.keys())}")
-                    st.write("팁: secrets.toml을 수정한 후에는 앱을 완전히 재실행해야 할 수 있습니다.")
-            elif not gemini_key:
-                 st.error("🚨 Gemini API Key가 설정되지 않았습니다.")
+            if selected_city == "기타 (직접 입력)" and not city.strip():
+                st.warning("⚠️ 도시 이름을 입력해주세요!")
             else:
-                with st.spinner(f"🔍 '{hotel_query}' 정보 및 리뷰 분석 중..."):
-                    # 1. Fetch Basic Info
-                    info, err = utils.fetch_hotel_info(hotel_query, api_key)
+                api_key = st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
+                gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+                
+                if not api_key:
+                    st.error("🚨 Google Maps API Key가 설정되지 않았습니다.")
+                    # Debugging Aid
+                    with st.expander("🛠️ 디버그: 로드된 Secret Key 목록"):
+                        st.write(f"현재 로드된 Keys: {list(st.secrets.keys())}")
+                        st.write("팁: secrets.toml을 수정한 후에는 앱을 완전히 재실행해야 할 수 있습니다.")
+                elif not gemini_key:
+                     st.error("🚨 Gemini API Key가 설정되지 않았습니다.")
+                else:
+                    # --- Step 1: Candidate Search ---
+                    # We store candidates in session state to persist selection UI
+                    search_key = f"search_{hotel_query}_{city}"
                     
-                    if err:
-                        st.warning(err)
+                    # If this is a new search, clear previous state
+                    if "last_search_key" not in st.session_state or st.session_state["last_search_key"] != search_key:
+                        st.session_state["candidates"] = None
+                        st.session_state["selected_hotel_id"] = None
+                        st.session_state["last_search_key"] = search_key
+                        
+                        with st.spinner(f"🔍 '{hotel_query}' 후보 검색 중..."):
+                            candidates = utils.fetch_hotel_candidates(hotel_query, city, api_key)
+                            st.session_state["candidates"] = candidates
+
+                    candidates = st.session_state.get("candidates")
+                    target_place_id = None
+
+                    if candidates is None:
+                        pass # Error already shown in utils
+                    elif len(candidates) == 0:
+                        st.warning(f"🤔 '{hotel_query}'에 대한 검색 결과가 없습니다. (영어/태국어로 입력해보세요)")
+                    elif len(candidates) == 1:
+                        target_place_id = candidates[0]['id']
                     else:
-                        # 2. Display Basic Info
-                        col_img, col_desc = st.columns([1, 1.5])
+                        # Multiple candidates found
+                        st.info(f"🔎 총 {len(candidates)}개의 호텔이 검색되었습니다. 정확한 호텔을 선택해주세요.")
                         
-                        with col_img:
-                            if info.get('photo_url'):
-                                st.image(info['photo_url'], use_container_width=True, caption=info['name'])
-                            else:
-                                st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
+                        # Create options map
+                        options = {f"{c['name']} ({c['address']})": c['id'] for c in candidates}
+                        selected_label = st.radio("분석할 호텔 선택:", list(options.keys()), key="hotel_radio_select")
+                        
+                        if st.button("선택한 호텔 분석하기 🚀", key="confirm_hotel_btn"):
+                            target_place_id = options[selected_label]
+                            st.session_state["selected_hotel_id"] = target_place_id
+                        elif st.session_state.get("selected_hotel_id"):
+                             # Persist selection if already made
+                             target_place_id = st.session_state["selected_hotel_id"]
+
+                    # --- Step 2: Fetch Details & Analyze ---
+                    if target_place_id:
+                         with st.spinner("📊 상세 정보 및 리뷰 분석 중..."):
+                             info = utils.fetch_hotel_details(target_place_id, api_key)
+                             
+                             if info:
+                                 # 2. Display Basic Info
+                                 col_img, col_desc = st.columns([1, 1.5])
                                 
-                        with col_desc:
-                            st.subheader(f"{info['name']}")
-                            st.markdown(f"📍 **주소:** {info['address']}")
-                            st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
-                        
-                        st.divider()
-                        
-                        # 3. Analyze Reviews (Gemini)
-                        analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
-                        
-                        if "error" in analysis:
-                            st.error(f"분석 중 오류 발생: {analysis['error']}")
-                        else:
-                            # 4. Display Analysis Result
-                            
-                            # One-line Verdict
-                            st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
-                            
-                            # Recommendation Target
-                            st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
-                            
-                            # Pros & Cons
-                            c1, c2 = st.columns(2)
-                            with c1:
-                                st.success("✅ **장점 (Pros)**")
-                                for p in analysis.get('pros', []):
-                                    st.markdown(f"- {p}")
+                                 with col_img:
+                                     if info.get('photo_url'):
+                                         st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                                     else:
+                                         st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
+                                        
+                                 with col_desc:
+                                     st.subheader(f"{info['name']}")
+                                     st.markdown(f"📍 **주소:** {info['address']}")
+                                     st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
+                                
+                                 st.divider()
+                                
+                                 # 3. Analyze Reviews (Gemini)
+                                 analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                                
+                                 if "error" in analysis:
+                                     st.error(f"분석 중 오류 발생: {analysis['error']}")
+                                 else:
+                                     # 4. Display Analysis Result
                                     
-                            with c2:
-                                st.error("⚠️ **단점 (Cons)**")
-                                for c in analysis.get('cons', []):
-                                    st.markdown(f"- {c}")
-                            
-                            # Detailed Analysis
-                            with st.expander("🔍 상세 분석 보기 (위치, 룸컨디션, 조식/부대시설)", expanded=True):
-                                st.markdown("### 📍 위치 및 동선")
-                                st.write(analysis.get('location_analysis', '-'))
-                                
-                                st.markdown("### 🛏️ 룸 컨디션")
-                                st.write(analysis.get('room_condition', '-'))
-                                
-                                st.markdown("### 🍽️ 서비스 & 조식")
-                                st.write(analysis.get('service_breakfast', '-'))
-                                
-                                st.markdown("### 🏊‍♂️ 수영장 & 부대시설")
-                                st.write(analysis.get('pool_facilities', '-'))
-                            
-                            # Scores
-                            scores = analysis.get('summary_score', {})
-                            if scores:
-                                st.markdown("### 📊 팩트체크 점수")
-                                sc1, sc2, sc3, sc4 = st.columns(4)
-                                sc1.metric("청결도", f"{scores.get('cleanliness', 0)}/5")
-                                sc2.metric("위치", f"{scores.get('location', 0)}/5")
-                                sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
-                                sc4.metric("가성비", f"{scores.get('value', 0)}/5")
+                                     # One-line Verdict
+                                     st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
+                                    
+                                     # Recommendation Target
+                                     st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
+                                    
+                                     # Pros & Cons
+                                     c1, c2 = st.columns(2)
+                                     with c1:
+                                         st.success("✅ **장점 (Pros)**")
+                                         for p in analysis.get('pros', []):
+                                             st.markdown(f"- {p}")
+                                            
+                                     with c2:
+                                         st.error("⚠️ **단점 (Cons)**")
+                                         for c in analysis.get('cons', []):
+                                             st.markdown(f"- {c}")
+                                    
+                                     # Detailed Analysis
+                                     with st.expander("🔍 상세 분석 보기 (위치, 룸컨디션, 조식/부대시설)", expanded=True):
+                                         st.markdown("### 📍 위치 및 동선")
+                                         st.write(analysis.get('location_analysis', '-'))
+                                        
+                                         st.markdown("### 🛏️ 룸 컨디션")
+                                         st.write(analysis.get('room_condition', '-'))
+                                        
+                                         st.markdown("### 🍽️ 서비스 & 조식")
+                                         st.write(analysis.get('service_breakfast', '-'))
+                                        
+                                         st.markdown("### 🏊‍♂️ 수영장 & 부대시설")
+                                         st.write(analysis.get('pool_facilities', '-'))
+                                    
+                                     # Scores
+                                     scores = analysis.get('summary_score', {})
+                                     if scores:
+                                         st.markdown("### 📊 팩트체크 점수")
+                                         sc1, sc2, sc3, sc4 = st.columns(4)
+                                         sc1.metric("청결도", f"{scores.get('cleanliness', 0)}/5")
+                                         sc2.metric("위치", f"{scores.get('location', 0)}/5")
+                                         sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
+                                         sc4.metric("가성비", f"{scores.get('value', 0)}/5")
 
     # --- Page 4: Community Board ---
     elif page_mode == "🗣️ 게시판":
