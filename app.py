@@ -31,35 +31,30 @@ st.set_page_config(
     }
 )
 
-# 📱 모바일/PC 완벽 UI 숨김 처리 (Super Clean Mode)
+# 🚫 배포 환경 완벽 대응 UI 숨김 (Terminator Style)
 hide_streamlit_style = """
 <style>
-    /* 1. 최상단 헤더, 햄버거 메뉴, 붉은 장식 줄 숨기기 */
-    header, [data-testid="stHeader"], [data-testid="stDecoration"], [data-testid="stToolbar"] {
-        visibility: hidden !important;
-        display: none !important;
-        height: 0px !important;
-    }
-
-    /* 2. 푸터(Made with Streamlit) 완벽 숨기기 (모바일 대응 강화) */
-    footer, [data-testid="stFooter"] {
-        visibility: hidden !important;
-        display: none !important;
-        height: 0px !important;
-        opacity: 0 !important;
-        pointer-events: none !important; /* 클릭 방지 */
-    }
-
-    /* 3. 상단 여백(Padding) 제거하여 앱처럼 보이게 만들기 */
-    /* 헤더가 사라진 만큼 콘텐츠를 위로 끌어올림 */
+    /* 1. 기본 헤더 및 햄버거 메뉴 숨기기 */
+    #MainMenu {visibility: hidden !important; display: none !important;}
+    header {visibility: hidden !important; display: none !important;}
+    [data-testid="stHeader"] {visibility: hidden !important; display: none !important;}
+    
+    /* 2. 푸터(Made with Streamlit) 및 하단 여백 제거 */
+    footer {visibility: hidden !important; display: none !important; height: 0px !important;}
+    [data-testid="stFooter"] {visibility: hidden !important; display: none !important; height: 0px !important;}
+    
+    /* 3. 붉은색 장식 줄 및 툴바 제거 */
+    [data-testid="stDecoration"] {visibility: hidden !important; display: none !important;}
+    [data-testid="stToolbar"] {visibility: hidden !important; display: none !important;}
+    
+    /* 4. (중요) Streamlit Cloud 전용 요소 숨기기 */
+    .stDeployButton {display: none !important;}
+    [data-testid="stStatusWidget"] {visibility: hidden !important;}
+    
+    /* 5. 콘텐츠 영역을 위로 끌어올리기 (헤더가 사라진 빈 공간 삭제) */
     .block-container {
-        padding-top: 1rem !important; /* 기본 6rem에서 1rem으로 축소 */
+        padding-top: 1rem !important;
         padding-bottom: 0rem !important;
-    }
-
-    /* 4. 배포 버튼 등 기타 요소 숨기기 */
-    .stDeployButton {
-        display: none !important;
     }
 </style>
 """
