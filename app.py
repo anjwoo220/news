@@ -103,11 +103,9 @@ st.markdown("""
             background: rgba(255, 255, 255, 0.95) !important;
             backdrop-filter: blur(10px) !important;
             z-index: 9999 !important;
-            padding: 10px 5px 30px 5px !important; /* Safe area for iOS */
+            padding: 5px 5px 15px 5px !important; /* Reduced padding for slimmer bar */
             border-top: 1px solid #ddd !important;
             margin: 0 !important;
-            
-            /* EXTREME FLEX: Force buttons to stay side-by-side */
             display: flex !important;
             flex-direction: row !important;
             flex-wrap: nowrap !important;
@@ -130,6 +128,7 @@ st.markdown("""
             color: #666 !important;
             font-size: 0.85rem !important;
             font-weight: 800 !important;
+    .stApp {margin-bottom: 120px;}
             padding: 5px !important;
             width: 100% !important;
             display: block !important;
@@ -142,7 +141,47 @@ st.markdown("""
 
         /* Pad the bottom of the content so it's not covered by the nav bar */
         .main .block-container {
-            padding-bottom: 100px !important;
+            padding-bottom: 250px !important; /* Increased padding */
+        }
+        
+        /* Fallback for some browsers/devices */
+        .stApp {
+            padding-bottom: 250px !important;
+        }
+        
+        /* Force pagination columns to stay in a single row on mobile */
+        div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] {
+            display: flex !important;
+            flex-direction: row !important;
+            flex-wrap: nowrap !important;
+            align-items: center !important;
+            justify-content: space-between !important;
+            gap: 5px !important;
+        }
+
+        /* Ensure individual columns don't wrap and take equal/appropriate space */
+        div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] > div {
+            min-width: 0 !important;
+            flex: 1 1 0% !important;
+        }
+        
+        /* Make the middle info column slightly more compact */
+        div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] > div:nth-child(2) {
+            flex: 0.8 1 0% !important;
+        }
+
+        /* Refine pagination buttons for small screens */
+        div[data-testid="stVerticalBlock"]:has(.pagination-container) button {
+            padding: 2px 5px !important;
+            font-size: 0.75rem !important;
+            min-height: 2.2rem !important;
+            white-space: nowrap !important;
+        }
+
+        /* Adjust info text padding */
+        .pagination-info {
+            font-size: 0.85rem !important;
+            padding-top: 5px !important;
         }
     }
 
@@ -364,7 +403,7 @@ def highlight_text(text):
         text = text.replace(word, f":blue[**{word}**]")
 
     # 4. 배경지식 (Green/Grey) - 환경, 질병
-    green_keywords = ["홍수", "침수", "미세먼지", "뎅기열", "주류 판매 금지", "시위"]
+    green_keywords = ["홍수", "침수", "뎅기열", "주류 판매 금지", "시위"]
     for word in green_keywords:
         text = text.replace(word, f":green[**{word}**]")
         
@@ -1554,113 +1593,76 @@ else:
         """, unsafe_allow_html=True)
 
 
-
     # --- Top Widgets (Exchange Rate & Air Quality) ---
-    col_w1, col_w2 = st.columns(2)
+    # Responsive layout: side‑by‑side on desktop, stacked on mobile
+    st.markdown("""<style>
+    .top-widgets {display:flex; flex-direction:row; gap:10px; width:100%;}
+    .top-widgets > div {flex:1;}
+    </style>""", unsafe_allow_html=True)
 
-    # 1. Exchange Rate Widget (Left)
-    with col_w1:
-        @st.cache_data(ttl=3600) # Cache for 1 hour
-        def get_cached_exchange_rate():
-            return utils.get_thb_krw_rate()
+    # 1. Exchange Rate Widget
+    @st.cache_data(ttl=3600)
+    def get_cached_exchange_rate():
+        return utils.get_thb_krw_rate()
 
-        try:
-            # Use Cached Wrapper
-            rate = get_cached_exchange_rate()
-            now_str = datetime.now().strftime("%m/%d %H:%M")   
-            
-            st.markdown(f"""
-            <div style="
-                padding: 15px; 
-                border-radius: 12px; 
-                background-color: {card_bg}; 
-                border: 1px solid {border_color}; 
-                margin-bottom: 20px; 
-                display: flex; 
-                align-items: center; 
-                justify-content: space-between;
-                backdrop-filter: blur(5px);
-                box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            ">
-                <div style="display: flex; flex-direction: column;">
-                    <span style="font-weight: bold; color: {text_sub}; font-size: 0.9rem;">💰 바트 환율</span>
-                    <span style="font-size: 0.75em; color: #888;">{now_str} 기준</span>
-                </div>
-                <div style="font-size: 1.2em; font-weight: bold; color: {text_main};">
-                    <span style="font-size: 0.6em; color: #aaa; margin-right: 3px;">1 THB =</span>
-                    {rate:.2f} <span style="font-size: 0.6em; color: #aaa;">KRW</span>
-                </div>
-            </div>
-            """, unsafe_allow_html=True)
-        except:
-            st.error("환율 로드 실패")
-    
-    # 2. Air Quality Widget (Right)
-    with col_w2:
+    # 2. Air Quality Widget helper
+    def render_air_quality():
         try:
             waqi_token = st.secrets.get("WAQI_API_KEY", "")
-            # Use Cached Wrapper
             aqi_data = get_cached_air_quality(waqi_token)
-            
-            if aqi_data:
-                aqi = aqi_data['aqi']
-                
-                # Dynamic Styling based on AQI
-                if aqi <= 50:
-                    aqi_color = "#00e400" # Green (Good)
-                    aqi_icon = "😊"
-                    aqi_text = "좋음"
-                elif aqi <= 100:
-                    aqi_color = "#ffff00" # Yellow (Moderate)
-                    aqi_icon = "😐"
-                    aqi_text = "보통"
-                elif aqi <= 150:
-                    aqi_color = "#ff7e00" # Orange (Unhealthy for Sensitive)
-                    aqi_icon = "😷"
-                    aqi_text = "민감군 나쁨"
-                else:
-                    aqi_color = "#ff004c" # Red (Unhealthy)
-                    aqi_icon = "☠️"
-                    aqi_text = "나쁨"
-                    
-                st.markdown(f"""
-                <div style="
-                    padding: 15px; 
-                    border-radius: 12px; 
-                    background-color: {card_bg}; 
-                    border: 1px solid {border_color}; 
-                    margin-bottom: 20px; 
-                    display: flex; 
-                    align-items: center; 
-                    justify-content: space-between;
-                    backdrop-filter: blur(5px);
-                    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-                ">
-                    <div style="display: flex; flex-direction: column;">
-                        <span style="font-weight: bold; color: {text_sub}; font-size: 0.9rem;">🌫️ 방콕 공기 ({aqi_text})</span>
-                        <span style="font-size: 0.75em; color: #888;">실시간 PM 2.5</span>
-                    </div>
-                    <div style="font-size: 1.2em; font-weight: bold; color: {aqi_color};">
-                        {aqi_icon} {aqi}
-                    </div>
-                </div>
-                """, unsafe_allow_html=True)
-            else:
-                # No Data / Error Placeholder
-                st.markdown(f"""
-                <div style="
-                    padding: 20px; 
-                    border-radius: 12px; 
-                    background-color: {card_bg}; 
-                    border: 1px solid {border_color}; 
-                    color: {text_sub}; text-align: center; font-size: 0.8rem;
-                ">
+            if not aqi_data:
+                return f"""
+                <div style='padding:20px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};color:{text_sub};text-align:center;font-size:0.8rem;'>
                     🌫️ 공기질 데이터 없음
                 </div>
-                """, unsafe_allow_html=True)
-                
-        except Exception as e:
-            st.error(f"AQI Error")
+                """
+            aqi = aqi_data['aqi']
+            if aqi <= 50:
+                aqi_color, aqi_icon, aqi_text = "#00e400", "😊", "좋음"
+            elif aqi <= 100:
+                aqi_color, aqi_icon, aqi_text = "#ffff00", "😐", "보통"
+            elif aqi <= 150:
+                aqi_color, aqi_icon, aqi_text = "#ff7e00", "😷", "민감군 나쁨"
+            else:
+                aqi_color, aqi_icon, aqi_text = "#ff004c", "☠️", "나쁨"
+            return f"""
+<div style='padding:15px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};margin-bottom:0;display:flex;align-items:center;justify-content:space-between;backdrop-filter:blur(5px);box-shadow:0 4px 6px rgba(0,0,0,0.1);'>
+    <div style='display:flex;flex-direction:column;'>
+        <span style='font-weight:bold;color:{text_sub};font-size:0.9rem;'>🌫️ 방콕 공기 ({aqi_text})</span>
+        <span style='font-size:0.75em;color:#888;'>실시간 PM 2.5</span>
+    </div>
+    <div style='font-size:1.2em;font-weight:bold;color:{aqi_color};'>
+        {aqi_icon} {aqi}
+    </div>
+</div>
+"""
+        except Exception:
+            return f"""
+            <div style='padding:20px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};color:{text_sub};text-align:center;font-size:0.8rem;'>
+                🌫️ 공기질 데이터 오류
+            </div>
+            """
+
+    # Render combined widgets
+    try:
+        rate = get_cached_exchange_rate()
+        now_str = datetime.now().strftime("%m/%d %H:%M")
+        exchange_html = f"""
+        <div style='padding:15px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};margin-bottom:0;display:flex;align-items:center;justify-content:space-between;backdrop-filter:blur(5px);box-shadow:0 4px 6px rgba(0,0,0,0.1);'>
+            <div style='display:flex;flex-direction:column;'>
+                <span style='font-weight:bold;color:{text_sub};font-size:0.9rem;'>💰 바트 환율</span>
+                <span style='font-size:0.75em;color:#888;'>{now_str} 기준</span>
+            </div>
+            <div style='font-size:1.2em;font-weight:bold;color:{text_main};'>
+                <span style='font-size:0.6em;color:#aaa;margin-right:3px;'>1 THB =</span>
+                {rate:.2f} <span style='font-size:0.6em;color:#aaa;'>KRW</span>
+            </div>
+        </div>
+        """
+        aqi_html = render_air_quality()
+        st.markdown(f"<div class='top-widgets'>{exchange_html}{aqi_html}</div>", unsafe_allow_html=True)
+    except Exception:
+        st.error("환율 로드 실패")
 
     # --- Navigation Logic (Dual Node: Sidebar & Top Pills) ---
     
@@ -2013,26 +2015,28 @@ else:
         # --- Pagination Footer ---
         if total_pages > 1:
             st.markdown("---")
-            col_prev, col_info, col_next = st.columns([1, 1, 1])
-            
-            with col_prev:
-                if st.session_state["current_page"] > 1:
-                    if st.button("⬅️ 이전", use_container_width=True):
-                        st.session_state["current_page"] -= 1
-                        st.rerun()
-                else:
-                    st.button("⬅️ 이전", disabled=True, use_container_width=True)
-                    
-            with col_info:
-                st.markdown(f"<div style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
+            with st.container():
+                st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
+                col_prev, col_info, col_next = st.columns([1, 0.8, 1])
                 
-            with col_next:
-                if st.session_state["current_page"] < total_pages:
-                    if st.button("다음 ➡️", use_container_width=True):
-                        st.session_state["current_page"] += 1
-                        st.rerun()
-                else:
-                    st.button("다음 ➡️", disabled=True, use_container_width=True)
+                with col_prev:
+                    if st.session_state["current_page"] > 1:
+                        if st.button("⬅️ 이전", use_container_width=True, key="p_prev"):
+                            st.session_state["current_page"] -= 1
+                            st.rerun()
+                    else:
+                        st.button("⬅️ 이전", disabled=True, use_container_width=True, key="p_prev_dis")
+                        
+                with col_info:
+                    st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
+                    
+                with col_next:
+                    if st.session_state["current_page"] < total_pages:
+                        if st.button("다음 ➡️", use_container_width=True, key="p_next"):
+                            st.session_state["current_page"] += 1
+                            st.rerun()
+                    else:
+                        st.button("다음 ➡️", disabled=True, use_container_width=True, key="p_next_dis")
 
     # --- Page 2: Concerts/Events ---
     elif page_mode == "🎉 콘서트/이벤트":
@@ -2249,3 +2253,7 @@ else:
                              st.link_button("원문 보기 🔗", item.get('link'), use_container_width=True)
 
 
+
+
+# --- Bottom Spacer for Pagination Visibility ---
+st.markdown("""<div style="height: 150px; width: 100%;"></div>""", unsafe_allow_html=True)
