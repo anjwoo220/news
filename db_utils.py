@@ -50,7 +50,8 @@ def load_news_from_sheet(worksheet="news"):
             # Handle potential NaN/Nat
             if pd.isna(item.get('date')): continue
             
-            date_str = str(item['date']).split('T')[0] # Ensure YYYY-MM-DD string
+            # Robust Date Parsing (Handle '2024-01-01T...' and '2024-01-01 00:00:00')
+            date_str = str(item['date']).split('T')[0].split(' ')[0] # Ensure YYYY-MM-DD string
             if date_str not in news_by_date:
                 news_by_date[date_str] = []
             
