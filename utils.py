@@ -8,6 +8,50 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
+from googletrans import Translator
+
+# Helper: Detect Thai script
+def is_thai(text: str) -> bool:
+    return any('\u0E00' <= ch <= '\u0E7F' for ch in text)
+
+# Helper: Convert Thai Buddhist year to Gregorian year
+def convert_thai_year(text: str) -> str:
+    import re
+    def repl(match):
+        year = int(match.group())
+        if year > 2500:  # typical Buddhist year
+            return str(year - 543)
+        return match.group()
+    return re.sub(r'\b\d{4}\b', repl, text)
+
+# Helper: Translate text to Korean (default)
+_translator = Translator()
+
+def translate_text(text: str, dest: str = "ko") -> str:
+    """
+    Translate Thai text to Korean with quality focus.
+    - Convert Thai Buddhist year to Gregorian.
+    - Use googletrans with explicit source language detection.
+    - If translation fails or result seems low quality, fallback to Gemini model.
+    """
+    try:
+        # Convert Thai Buddhist year first
+        text = convert_thai_year(text)
+        # Use googletrans with explicit src='th' if Thai characters detected
+        if is_thai(text):
+            result = _translator.translate(text, src='th', dest=dest)
+        else:
+            result = _translator.translate(text, dest=dest)
+        translated = result.text
+        # Simple quality check: if translation is unusually short, fallback to Gemini
+        if len(translated.strip()) < 5:
+            model = genai.GenerativeModel('gemini-1.5-pro')
+            prompt = f"다음 태국어 문장을 한국어로 자연스럽게 번역해 주세요. 문맥과 어조를 유지하고, 불필요한 번역 오류를 최소화하십시오.\n\n{text}"
+            gemini_resp = model.generate_content(prompt)
+            translated = gemini_resp.text.strip()
+        return translated
+    except Exception:
+        return text
 
 # Helper: Check if article is within last N days
 def is_recent(entry, days=3):
@@ -1337,12 +1381,22 @@ def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
            👉 "특별한 단점이 발견되지 않았습니다. (전반적으로 우수한 평가)"
         4. **금지 예시:** "위치 관련 정보 부족" (X), "한국인 입맛 확인 필요" (X)
 
+        **[비추천(Not Recommended) 작성 가이드 - 기계적 멘트 금지]**
+        1. 🚫 **금지 표현:** "단점에 예민한 사람", "완벽함을 추구하는 사람", "불편함을 싫어하는 사람" 같은 뻔한 말은 쓰지 마.
+        2. ✅ **구체적 조건 명시:** 비추천 대상은 반드시 **가격, 소음, 위치, 감성** 등 구체적 이유와 연결돼야 해.
+           - (소음) 👉 "잠귀가 밝거나 조용한 휴식을 최우선으로 하는 여행객"
+           - (위치) 👉 "지하철역까지 도보 이동을 선호하는 뚜벅이 여행객"
+           - (청결) 👉 "위생 상태에 민감하거나 아이와 함께하는 가족 여행객"
+        3. **단점이 없을 때:** 억지로 단점을 찾지 말고 **'가격'**이나 **'여행 목적'**을 언급해.
+           - (비싼 호텔) 👉 "가성비를 중요하게 생각하는 알뜰 여행객"
+           - (파티 호텔) 👉 "조용한 힐링을 원하는 휴양 목적 여행객"
+
         **[출력 포맷 (JSON)]**
         응답은 반드시 아래 JSON 형식을 지켜줘.
 
         {{
             "one_line_verdict": "한 줄 결론 (예: 위치는 깡패지만 귀마개 필수인 가성비 호텔)",
-            "recommendation_target": "추천: [대상], 비추천: [대상] (예: 추천: 잠만 잘 혼행족, 비추천: 예민한 커플)",
+            "recommendation_target": "추천: 긍정적인 서비스 경험을 중시하는 여행객, 비추천: 호텔의 성격(가격·분위기·위치)과 반대되는 여행자"
             "location_analysis": "위치 및 동선 (역과의 거리, 주변 편의점/마사지샵, 치안, 도보 난이도)",
             "room_condition": "객실 디테일 (청결도, 침구, 습기/냄새, 소음, 벌레, 뷰)",
             "service_breakfast": "서비스 및 조식 (직원 친절도, 조식 메뉴 구성 및 맛, 한국인 입맛 적합도)",
