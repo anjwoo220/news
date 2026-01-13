@@ -2097,6 +2097,8 @@ else:
         else:
              min_date = min(valid_dates)
              data_max = max(valid_dates)
+             today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
+             max_date = max(today_date, data_max)
         
         # Init Session for Pagination & Search
         if "current_page" not in st.session_state:
