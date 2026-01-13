@@ -1,0 +1,8 @@
+Health Check: Accessing Google Sheets...
+✅ Latest Data Date: 2026-01-13
+✅ Items on 2026-01-13: 17
+
+[Sample Item Check]
+- Title: 태국, 2026년 관광 수입 3조 바트 목표! 새로운 캠페인 집중
+- Summary: 태국 관광청(TAT)은 2026년 외국인 관광객 3,670만 명 유치, 관광 수입 3조 바...
+✅ Translation (Korean) detected in title.

@@ -111,8 +111,11 @@ def main():
             for topic in current_news[date_key]:
                 recent_titles.append(topic['title'])
                 for ref in topic.get('references', []):
-                    if ref.get('title'):
+                    if isinstance(ref, dict) and ref.get('title'):
                         recent_titles.append(ref['title'])
+                    elif isinstance(ref, str):
+                         # If ref is just a URL string, we can't extract title lightly, but at least won't crash
+                         pass
 
     print(f"Loaded {len(recent_titles)} recent titles for similarity check.")
 
@@ -226,10 +229,20 @@ def main():
         if len(filtered_topics) < 5 and score >= 4:
             filtered_topics.append(topic)
             
-        # Rule 3: Drop Low Impact (<=3) unless we have practically nothing?
-        # User implies filtering based on importance. Dropping 1-3 is safe.
+    # Rule 3: Fill up to 5 items if we have less (User Request)
+    # If filtered_topics < 5, grab the highest scoring remaining items regardless of threshold
+    if len(filtered_topics) < 5:
+        remaining_slots = 5 - len(filtered_topics)
+        # Find items not yet in filtered_topics
+        filtered_ids = {t.get('title') for t in filtered_topics}
         
-    print(f"Filtered topics from {len(raw_topics)} to {len(filtered_topics)} based on scores.")
+        candidates = [t for t in raw_topics if t.get('title') not in filtered_ids]
+        # Sort by score desc (already sorted actually)
+        # Add top candidates to fill slots
+        filtered_topics.extend(candidates[:remaining_slots])
+        print(f"Filled {min(len(candidates), remaining_slots)} extra items to meet minimum 5.")
+
+    print(f"Filtered topics from {len(raw_topics)} to {len(filtered_topics)} based on scores & minimum quota.")
     
     # Allow saving filtered_topics
     analysis_result['topics'] = filtered_topics

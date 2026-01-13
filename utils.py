@@ -1420,8 +1420,12 @@ def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
         응답은 반드시 아래 JSON 형식을 지켜줘.
 
         {{
+            "name_eng": "Trip.com 등 OTA에서 사용하는 호텔의 '정식 영문 풀네임' (예: Centara Grand at CentralWorld)",
+            "trip_keyword": "트립닷컴 검색용 '한국어' 핵심 키워드 (도시/국가명 제거, 브랜드+지점명만 남김. 예: 아마리 워터게이트)",
+            "price_level": "💰 or 💰💰 or 💰💰💰 or 💰💰💰💰 (1~4단계, 저렴/보통/비쌈/초호화)",
+            "price_range_text": "한국 원화 기준 예상 1박 요금 (예: 약 120,000원 ~ 180,000원, 시즌 변동 가능)",
             "one_line_verdict": "한 줄 결론 (예: 위치는 깡패지만 귀마개 필수인 가성비 호텔)",
-            "recommendation_target": "추천: 긍정적인 서비스 경험을 중시하는 여행객, 비추천: 호텔의 성격(가격·분위기·위치)과 반대되는 여행자"
+            "recommendation_target": "추천: 긍정적인 서비스 경험을 중시하는 여행객, 비추천: 호텔의 성격(가격·분위기·위치)과 반대되는 여행자",
             "location_analysis": "위치 및 동선 (역과의 거리, 주변 편의점/마사지샵, 치안, 도보 난이도)",
             "room_condition": "객실 디테일 (청결도, 침구, 습기/냄새, 소음, 벌레, 뷰)",
             "service_breakfast": "서비스 및 조식 (직원 친절도, 조식 메뉴 구성 및 맛, 한국인 입맛 적합도)",

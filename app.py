@@ -2570,6 +2570,10 @@ else:
         # State Helpers
         def clear_hotel_cands():
             if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+        
+        # Init History
+        if 'hotel_history' not in st.session_state:
+            st.session_state['hotel_history'] = []
 
         with st.container(border=True):
             c_city, c_name = st.columns([1, 2])
@@ -2637,21 +2641,54 @@ else:
                      info = utils.fetch_hotel_details(active_id, api_key)
                      
                      if info:
-                         # 2. Display Basic Info
-                         col_img, col_desc = st.columns([1, 1.5])
+                         # 3. Analyze Reviews (Gemini) - Moved UP for data availability
+                         analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
                         
-                         with col_img:
-                             if info.get('photo_url'):
-                                 st.image(info['photo_url'], use_container_width=True, caption=info['name'])
-                             else:
-                                 st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
-                                
-                         with col_desc:
-                             st.subheader(f"{info['name']}")
-                             st.markdown(f"📍 **주소:** {info['address']}")
-                             st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
+                         # JSON parsing robust handling
+                         if isinstance(analysis, list) and len(analysis) > 0:
+                             analysis = analysis[0]
+                         
+                         if isinstance(analysis, dict) and "error" in analysis:
+                             st.error(f"분석 중 오류 발생: {analysis['error']}")
+                         elif not isinstance(analysis, dict):
+                             st.error(f"분석 결과 형식 오류: {str(analysis)}")
+                         else:
+                             # 2. Display Basic Info (Now has access to analysis)
+                             col_img, col_desc = st.columns([1, 1.5])
+                            
+                             with col_img:
+                                 if info.get('photo_url'):
+                                     st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                                 else:
+                                     st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
+                                    
+                             with col_desc:
+                                 st.subheader(f"{info['name']}")
+                                 st.markdown(f"📍 **주소:** {info['address']}")
+                                 st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
+                                 
+                                 # Price Info (New)
+                                 if analysis.get('price_level'):
+                                     st.markdown(f"{analysis['price_level']} **{analysis.get('price_range_text', '')}**")
+                                 
+                                 st.divider()
+
+                             # [NEW] Save to History
+                             history_item = {
+                                 "info": info,
+                                 "analysis": analysis,
+                                 "saved_at": datetime.now().strftime("%Y-%m-%d %H:%M")
+                             }
                              
-                             # Trip.com Affiliate Button
+                             # Deduplication: Remove existing if same name
+                             st.session_state['hotel_history'] = [
+                                 h for h in st.session_state['hotel_history'] 
+                                 if h['info']['name'] != info['name']
+                             ]
+                             # Insert at top
+                             st.session_state['hotel_history'].insert(0, history_item)
+                             
+                             # --- Trip.com Button (Optimized) ---
                              try:
                                  import urllib.parse
                                  from datetime import datetime, timedelta
@@ -2661,26 +2698,35 @@ else:
                                  sid = trip_secrets.get("sid")
                                  
                                  if aid and sid:
-                                     # City-Agnostic Keyword Search
-                                     # Use 'Hotel Name + City + Thailand' for best match
-                                     raw_kw = f"{info['name']} {selected_city} Thailand"
-                                     trip_kw = urllib.parse.quote(raw_kw)
+                                     # 1. Simplified Keyword Strategy with Exact Match
+                                     # Priority: 'trip_keyword' (Gemini) -> info['name'] (Google Maps)
+                                     raw_keyword = analysis.get('trip_keyword')
+                                     if not raw_keyword:
+                                         raw_keyword = info.get('name', '')
                                      
-                                     # Removed city params, use keyword only
-                                     trip_url = f"https://kr.trip.com/hotels/list?keyword={trip_kw}&allianceid={aid}&sid={sid}"
+                                     # 2. Dates
+                                     today_str = datetime.now().strftime("%Y-%m-%d")
+                                     tomorrow_str = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
                                      
-                                     st.markdown("") # Spacer
-                                     st.link_button(f"🏨 [Trip.com] 실시간 최저가 확인", trip_url, use_container_width=True, type="primary")
-                             except: pass
-                        
-                         st.divider()
-                        
-                         # 3. Analyze Reviews (Gemini)
-                         analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
-                        
-                         if "error" in analysis:
-                             st.error(f"분석 중 오류 발생: {analysis['error']}")
-                         else:
+                                     # 3. Encoding with Quotes for Exact Match
+                                     # "Amari" -> %22Amari%22
+                                     encoded_keyword = urllib.parse.quote(f'"{raw_keyword}"')
+                                     
+                                     # 4. URL Construction (searchType=KW + searchText + Exact Match Quotes)
+                                     trip_url = (
+                                         f"https://kr.trip.com/hotels/list?"
+                                         f"searchType=KW&"
+                                         f"keyword={encoded_keyword}&"
+                                         f"searchText={encoded_keyword}&"
+                                         f"checkIn={today_str}&checkOut={tomorrow_str}&"
+                                         f"allianceid={aid}&sid={sid}"
+                                     )
+                                     
+                                     st.link_button(f"🏨 '{raw_keyword}' 최저가 확인 (Trip.com)", trip_url, use_container_width=True, type="primary")
+                             except Exception as e:
+                                 # st.error(f"Link Error: {e}") 
+                                 pass
+                                 
                              # 4. Display Analysis Result
                             
                              # One-line Verdict
@@ -2724,7 +2770,48 @@ else:
                                  sc2.metric("위치", f"{scores.get('location', 0)}/5")
                                  sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
                                  sc4.metric("가성비", f"{scores.get('value', 0)}/5")
-                                
+        
+        # --- Value-Add: Search History ---
+        if st.session_state.get('hotel_history'):
+            st.divider()
+            c_hist_title, c_hist_clear = st.columns([4, 1])
+            with c_hist_title:
+                st.subheader("🕒 최근 분석한 호텔 (History)")
+            with c_hist_clear:
+                if st.button("기록 전체 삭제", type="secondary"):
+                    st.session_state['hotel_history'] = []
+                    st.rerun()
+
+            for idx, h_item in enumerate(st.session_state['hotel_history']):
+                h_info = h_item['info']
+                h_analysis = h_item['analysis']
+                
+                with st.expander(f"🏨 {h_info['name']} ({h_info['rating']}⭐) - {h_analysis.get('one_line_verdict', '')}"):
+                    # Simplified View for History
+                    hc1, hc2 = st.columns([1, 2])
+                    with hc1:
+                        if h_info.get('photo_url'):
+                             st.image(h_info['photo_url'], use_container_width=True)
+                        st.caption(f"📍 {h_info['address']}")
+                    with hc2:
+                        st.info(f"💡 {h_analysis.get('one_line_verdict', '')}")
+                        st.markdown(f"🎯 **{h_analysis.get('recommendation_target', '')}**")
+                        
+                        # Tags
+                        pros = h_analysis.get('pros', [])[:2] # Top 2 only
+                        cons = h_analysis.get('cons', [])[:2]
+                        st.success(f"😊 {', '.join(pros)}")
+                        st.error(f"⚠️ {', '.join(cons)}")
+                        
+                    # History Scores
+                    h_scores = h_analysis.get('summary_score', {})
+                    if h_scores:
+                        st.markdown("---")
+                        hc_s1, hc_s2, hc_s3, hc_s4 = st.columns(4)
+                        hc_s1.metric("청결도", f"{h_scores.get('cleanliness', 0)}/5")
+                        hc_s2.metric("위치", f"{h_scores.get('location', 0)}/5")
+                        hc_s3.metric("편안함", f"{h_scores.get('comfort', 0)}/5")
+                        hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
 
 
     # --- Page 4: Community Board ---

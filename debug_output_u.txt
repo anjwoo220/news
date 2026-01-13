@@ -1,0 +1,129 @@
+/Users/jaewoo/Documents/news project/utils.py:2: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Starting batch job (Strict Mode + Images)...
+Fetching RSS feeds (Balanced Mode)...
+Fetching [General] https://www.bangkokpost.com/rss/data/topstories.xml...
+Successfully parsed https://www.bangkokpost.com/rss/data/topstories.xml: Found 10 entries.
+Fetching [General] https://www.thairath.co.th/rss/news...
+Successfully parsed https://www.thairath.co.th/rss/news: Found 20 entries.
+Skipping feed https://www.bangkokpost.com/rss/data/thailand.xml (Quota full for General)
+Skipping feed https://www.bangkokpost.com/rss/data/most-recent.xml (Quota full for General)
+Skipping feed https://www.khaosodenglish.com/feed/ (Quota full for General)
+Skipping feed https://www.nationthailand.com/rss (Quota full for General)
+Fetching [Business] https://www.prachachat.net/feed...
+XML Parse Warning for https://www.prachachat.net/feed: <unknown>:9:1: duplicate attribute
+Successfully parsed https://www.prachachat.net/feed: Found 30 entries.
+Fetching Google News (Backup)...
+Fetching Google News: Thailand Tourism...
+ -> Found 0 items from Google News.
+Total items fetched: 40
+2026-01-13 17:27:33.455 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:33.514 
+  [33m[1mWarning:[0m to view this Streamlit app on a browser, run it with the following
+  command:
+
+    streamlit run batch_job.py [ARGUMENTS]
+2026-01-13 17:27:33.514 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:33.514 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:33.514 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.005 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.005 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.005 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.005 No runtime found, using MemoryCacheStorageManager
+2026-01-13 17:27:34.006 No runtime found, using MemoryCacheStorageManager
+2026-01-13 17:27:34.006 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.006 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.006 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.006 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.511 Thread 'Thread-2': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.512 Thread 'Thread-2': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:34.512 Thread 'Thread-2': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:35.989 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:35.989 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:27:35.989 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+Loaded 95 recent titles for similarity check.
+Duplicate ID found, skipping: People's Party optimistic on forming govt
+Items after duplicate/similarity check: 39
+Items selected for API call: 8
+ - Processing: Phuket starts tour boat cleanup after fire, fatal collision [General]
+   - Scraping for image: https://www.bangkokpost.com/thailand/general/3174688/phuket-starts-tour-boat-cleanup-after-fire-fatal-collision
+   + Found Image: https://static.bangkokpost.com/media/content/20260113/c1_3174688_700.jpg
+ - Processing: กยศ. เร่งช่วยญาติพยาบาลร้อยเอ็ด เสียชีวิตขณะเข้าเวร เตรียมระงับหนี้ช่วย [Business]
+   + Found Image: https://www.prachachat.net/wp-content/uploads/2024/06/cover-2024-06-28T123209.373.jpg
+ - Processing: Thai satellite falling back to earth after failed launch, but is insured [General]
+   - Scraping for image: https://www.bangkokpost.com/thailand/general/3174620/thai-satellite-falling-back-to-earth-after-failed-launch-but-is-insured
+   + Found Image: https://static.bangkokpost.com/media/content/20260113/c1_3174620_260113142143_700.jpg
+ - Processing: จากเจ้าพ่ออีคอมเมิร์ซ สู่สนามการเมือง “ป้อม-ภาวุธ” ประกาศลุยแก้กติกา แข่งทุนข้ามชาติ [Business]
+   + Found Image: https://www.prachachat.net/wp-content/uploads/2026/01/pawoot2.png
+ - Processing: ‘เวียดนาม’ เกินดุลการค้าสหรัฐแซงจีน รบ.ทรัมป์ เล็งเปลี่ยนฑูต [Business]
+   + Found Image: https://www.prachachat.net/wp-content/uploads/2026/01/vietnam-america-flag-moving-different-direction-3d-rendering-scaled.jpg
+ - Processing: Pheu Thai courts gaming industry [General]
+   - Scraping for image: https://www.bangkokpost.com/thailand/politics/3174243/pheu-thai-courts-gaming-industry
+   + Found Image: https://static.bangkokpost.com/media/content/dcx/2026/01/13/5923918_700.jpg
+ - Processing: UNIX เตรียมขาย IPO ไม่เกิน 180 ล้านหุ้น จ่อเข้าเทรด SET ปีนี้ [Business]
+   + Found Image: https://www.prachachat.net/wp-content/uploads/2026/01/UNIX.jpg
+ - Processing: ชี้ชะตา "มารีน เลอ เปน" ผู้นำขวาจัดฝรั่งเศส อุทธรณ์คำตัดสินคดียักยอกเงินอียู [General]
+   + Found Image: https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2xWGfp3aJqeHs3TTZ.jpg
+Calling Gemini API...
+Starting sequential analysis for 8 items...
+[1/8] Processing: Phuket starts tour boat cleanup after fire, fatal collision...
+   -> Scraped full content (1622 chars).
+   -> Success. Topics so far: 1
+   -> Waiting 20 seconds to respect API rate limits...
+[2/8] Processing: กยศ. เร่งช่วยญาติพยาบาลร้อยเอ็ด เสียชีวิตขณะเข้าเวร เตรียมระงับหนี้ช่วย...
+   -> Scraping failed/empty, falling back to summary.
+   -> Success. Topics so far: 2
+   -> Waiting 20 seconds to respect API rate limits...
+[3/8] Processing: Thai satellite falling back to earth after failed launch, but is insured...
+   -> Scraped full content (1718 chars).
+   -> Success. Topics so far: 3
+   -> Waiting 20 seconds to respect API rate limits...
+[4/8] Processing: จากเจ้าพ่ออีคอมเมิร์ซ สู่สนามการเมือง “ป้อม-ภาวุธ” ประกาศลุยแก้กติกา แข่งทุนข้ามชาติ...
+   -> Scraping failed/empty, falling back to summary.
+   -> Success. Topics so far: 4
+   -> Waiting 20 seconds to respect API rate limits...
+[5/8] Processing: ‘เวียดนาม’ เกินดุลการค้าสหรัฐแซงจีน รบ.ทรัมป์ เล็งเปลี่ยนฑูต...
+   -> Scraping failed/empty, falling back to summary.
+   -> Success. Topics so far: 5
+   -> Waiting 20 seconds to respect API rate limits...
+[6/8] Processing: Pheu Thai courts gaming industry...
+   -> Scraped full content (3000 chars).
+   -> Success. Topics so far: 6
+   -> Waiting 20 seconds to respect API rate limits...
+[7/8] Processing: UNIX เตรียมขาย IPO ไม่เกิน 180 ล้านหุ้น จ่อเข้าเทรด SET ปีนี้...
+   -> Scraping failed/empty, falling back to summary.
+   -> Success. Topics so far: 7
+   -> Waiting 20 seconds to respect API rate limits...
+[8/8] Processing: ชี้ชะตา "มารีน เลอ เปน" ผู้นำขวาจัดฝรั่งเศส อุทธรณ์คำตัดสินคดียักยอกเงินอียู...
+   -> Scraped full content (2056 chars).
+   -> Success. Topics so far: 8
+Filtered topics from 8 to 1 based on scores.
+2026-01-13 17:30:40.317 No runtime found, using MemoryCacheStorageManager
+2026-01-13 17:30:40.318 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:40.318 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:40.318 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:40.318 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:40.821 Thread 'Thread-12': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:40.821 Thread 'Thread-12': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:40.821 Thread 'Thread-12': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:42.106 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:42.106 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:42.106 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-01-13 17:30:48.480 No runtime found, using MemoryCacheStorageManager
+Saved 1 new topics to Google Sheets under key '2026-01-13'
+Saved 1 new topics to data/news.json under key '2026-01-13'
+Found 1 STRICT events. Cross-posting to data/events.json...
+Marked 1 URLs as processed.
+Updated data/processed_urls.json with 8 new URLs.
+Fetching Twitter Trends...
+Fetching Twitter Trends from trends24.in...
+Top 10 Trends: ['#PetshoodXGulf11K', 'GULF\u200b FAM X PETSHOOD12K', '#SkyNani', '#สกายนานิ', '#DrPONGxPERTHSANTA85K', 'Social Media266K', '#KITKATxFOURTH', 'Lifestyle31K', 'THE FIRE Q7 SHOOTING17K', '3Yrs KHUNNOOS x GEMINIFOURTH39K']
+Twitter Trend Error: Extra data: line 5 column 1 (char 8)
+No critical twitter trends found or fetch failed.
