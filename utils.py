@@ -1740,7 +1740,7 @@ def calculate_expert_fare(dist_km, dur_min, origin_txt="", dest_txt=""):
             "color": "green" # Merged color
         },
         "grab_taxi": {
-            "label": "💚 GrabTaxi",
+            "label": "💚 Grab (Standard)",
             "price": f"{grab_min} ~ {grab_max}",
             "tag": "안전/빠름" if not is_rush_hour else "매우 비쌈 (Surge)",
             "color": "blue"
