@@ -1702,7 +1702,8 @@ def calculate_expert_fare(dist_km, dur_min, origin_txt="", dest_txt=""):
 
     # 3. Base Meter Calculation
     # Note: 'dur_min' already includes traffic delay if Routes API works correclty.
-    base_meter = 35 + (dist_km * 7) + (dur_min * 2.5)
+    # Adjusted: Reduced time weight (2.5 -> 2.25) to be more realistic with modern traffic apps
+    base_meter = 35 + (dist_km * 7) + (dur_min * 2.25)
     base_meter = int(base_meter)
     
     # 4. Multipliers
@@ -1716,10 +1717,11 @@ def calculate_expert_fare(dist_km, dur_min, origin_txt="", dest_txt=""):
     # Final App Multiplier (Combined)
     total_app_mult = rush_mult * hell_mult
 
-    # Calculate raw prices
-    bolt_basic_raw = int(base_meter * 1.0 * total_app_mult)
-    bolt_std_raw = int(base_meter * 1.15 * total_app_mult)
-    grab_raw = int(base_meter * 1.25 * total_app_mult)
+    # Calculate raw prices (Adjusted down based on user feedback)
+    # Target: Meter x (1.2 ~ 1.6 including surge)
+    bolt_basic_raw = int(base_meter * 0.85 * total_app_mult)
+    bolt_std_raw = int(base_meter * 1.0 * total_app_mult)
+    grab_raw = int(base_meter * 1.1 * total_app_mult)
     
     # Grab Range (+- 10%)
     grab_min = int(grab_raw * 0.9)
