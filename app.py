@@ -878,8 +878,6 @@ if app_mode == "Admin Console":
                                     del news_data[selected_date_edit]
                                 else:
                                     news_data[selected_date_edit] = topics
-                                else:
-                                    news_data[selected_date_edit] = topics
                                 
                                 if save_news_to_sheet(news_data):
                                     st.warning("삭제 후 저장되었습니다.")
