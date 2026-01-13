@@ -2091,14 +2091,22 @@ else:
                 valid_dates.append(datetime.strptime(d_str, "%Y-%m-%d").date())
             except: continue
         
-        if valid_dates:
-            min_date = min(valid_dates)
-            data_max = max(valid_dates)
-            today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
-            # Safety: Ensure max_date is the LATER of server-today or data-latest
-            max_date = max(today_date, data_max) 
+        if not valid_dates:
+             min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
+             # Debugging: Show Error if data is empty
+             st.error("❌ 데이터 로드 실패 (Google Sheets)")
+             try:
+                 import db_utils
+                 conn = db_utils.get_db_connection()
+                 st.write("Connection Status:", conn)
+                 # Try explicit read to show error
+                 df = conn.read(worksheet="news", ttl=0)
+                 st.write("Raw DataFrame Shape:", df.shape)
+             except Exception as e:
+                 st.exception(e)
         else:
-            min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
+             min_date = min(valid_dates)
+             data_max = max(valid_dates)
         
         # Init Session for Pagination & Search
         if "current_page" not in st.session_state:
