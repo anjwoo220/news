@@ -8,23 +8,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-try:
-    from googletrans import Translator
-except ImportError:
-    # Fallback Translator using Gemini for Thai→Korean translation
-    class Translator:
-        def __init__(self):
-            pass
-        def translate(self, text, src=None, dest="ko"):
-            # Use Gemini model for translation when googletrans is unavailable
-            model = genai.GenerativeModel('gemini-1.5-pro')
-            prompt = f"다음 태국어 문장을 한국어로 자연스럽게 번역해 주세요.\n\n{text}"
-            resp = model.generate_content(prompt)
-            return type('Result', (), {"text": resp.text.strip()})
 
-# Helper: Detect Thai script
-def is_thai(text: str) -> bool:
-    return any('\u0E00' <= ch <= '\u0E7F' for ch in text)
 
 # Helper: Convert Thai Buddhist year to Gregorian year
 def convert_thai_year(text: str) -> str:
@@ -36,34 +20,57 @@ def convert_thai_year(text: str) -> str:
         return match.group()
     return re.sub(r'\b\d{4}\b', repl, text)
 
-# Helper: Translate text to Korean (default)
-_translator = Translator()
-
+# Helper: Translate text to Korean using Gemini
 def translate_text(text: str, dest: str = "ko") -> str:
     """
-    Translate Thai text to Korean with quality focus.
-    - Convert Thai Buddhist year to Gregorian.
-    - Use googletrans with explicit source language detection.
-    - If translation fails or result seems low quality, fallback to Gemini model.
+    Translate Thai text to Korean using Gemini 2.0 Flash.
+    Handles API key loading and ensures robust response.
     """
+    # 1. Quick Check: Is it already Korean or just numbers?
+    if not text or len(text.strip()) == 0:
+        return ""
+    
+    # 2. Convert Thai Buddhist year first
+    text = convert_thai_year(text)
+    
+    # 3. Use Gemini
     try:
-        # Convert Thai Buddhist year first
-        text = convert_thai_year(text)
-        # Use googletrans with explicit src='th' if Thai characters detected
-        if is_thai(text):
-            result = _translator.translate(text, src='th', dest=dest)
-        else:
-            result = _translator.translate(text, dest=dest)
-        translated = result.text
-        # Simple quality check: if translation is unusually short, fallback to Gemini
-        if len(translated.strip()) < 5:
-            model = genai.GenerativeModel('gemini-1.5-pro')
-            prompt = f"다음 태국어 문장을 한국어로 자연스럽게 번역해 주세요. 문맥과 어조를 유지하고, 불필요한 번역 오류를 최소화하십시오.\n\n{text}"
-            gemini_resp = model.generate_content(prompt)
-            translated = gemini_resp.text.strip()
+        # Lazy load API key if needed (or assume configured globally in app)
+        # But utils might be imported separately, so re-check/configure.
+        import google.generativeai as genai
+        import toml
+        
+        # Try to get key efficiently
+        api_key = os.environ.get("GEMINI_API_KEY")
+        if not api_key:
+            try:
+                secrets = toml.load(".streamlit/secrets.toml")
+                api_key = secrets.get("GEMINI_API_KEY")
+            except: pass
+            
+        if api_key:
+            genai.configure(api_key=api_key)
+            
+        model = genai.GenerativeModel('gemini-2.0-flash')
+        
+        prompt = f"""
+        Translate the following Thai text to Korean.
+        - Maintain the original tone (News/Formal).
+        - Output ONLY the translated text. Do not add explanations.
+        - If the text is already Korean, return it as is.
+        
+        Text:
+        {text}
+        """
+        
+        response = model.generate_content(prompt)
+        translated = response.text.strip()
         return translated
-    except Exception:
+        
+    except Exception as e:
+        print(f"Translation Error for '{text[:20]}...': {e}")
         return text
+
 
 # Helper: Check if article is within last N days
 def is_recent(entry, days=3):
