@@ -1,3 +1,4 @@
+
 # Python
 __pycache__/
 *.py[cod]
@@ -23,3 +24,6 @@ env/
 # Assuming we might not want to commit large data or local logs if any
 # For now, keeping data/ as per likely usage, but user can add if needed.
 board-484107-65691b0765f5.json
+board-484107-f33b726867dd.json
+*.json
+!data/*.json
