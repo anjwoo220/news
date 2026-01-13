@@ -1736,13 +1736,13 @@ def calculate_expert_fare(dist_km, dur_min, origin_txt="", dest_txt=""):
         "bolt": {
             "label": "⚡ Bolt (통합)",
             "price": f"{bolt_basic_raw} ~ {bolt_std_raw}",
-            "tag": "차 잡기 힘듦" if not is_rush_hour else "매우 힘듦 (Surge)",
+            "tag": "차 잡기 힘듦" if not is_rush_hour else "매우 비쌈",
             "color": "green" # Merged color
         },
         "grab_taxi": {
             "label": "💚 Grab (Standard)",
             "price": f"{grab_min} ~ {grab_max}",
-            "tag": "안전/빠름" if not is_rush_hour else "매우 비쌈 (Surge)",
+            "tag": "안전/빠름" if not is_rush_hour else "매우 비쌈",
             "color": "blue"
         },
         "bike": {
