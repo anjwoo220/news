@@ -8,7 +8,19 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-from googletrans import Translator
+try:
+    from googletrans import Translator
+except ImportError:
+    # Fallback Translator using Gemini for Thai→Korean translation
+    class Translator:
+        def __init__(self):
+            pass
+        def translate(self, text, src=None, dest="ko"):
+            # Use Gemini model for translation when googletrans is unavailable
+            model = genai.GenerativeModel('gemini-1.5-pro')
+            prompt = f"다음 태국어 문장을 한국어로 자연스럽게 번역해 주세요.\n\n{text}"
+            resp = model.generate_content(prompt)
+            return type('Result', (), {"text": resp.text.strip()})
 
 # Helper: Detect Thai script
 def is_thai(text: str) -> bool:

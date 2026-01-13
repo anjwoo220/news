@@ -7,3 +7,4 @@ beautifulsoup4
 plotly
 pandas
 st-gsheets-connection
+googletrans==4.0.0-rc1
