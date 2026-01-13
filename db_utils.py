@@ -5,11 +5,14 @@ from streamlit_gsheets import GSheetsConnection
 import json
 from datetime import datetime
 
+# SPREADSHEET URL (Public/Shared)
+SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1xa6Vwpx7jhaT_YqX6n1pvh0VdLY4N277hdq3QWMNEV8/edit?usp=sharing"
+
 # Connection Helper
 def get_db_connection():
     """
     Returns the Google Sheets connection object using Streamlit's connection API.
-    Uses 'gsheets' connection name defined in secrets.toml.
+    Uses 'gsheets_news' connection name defined in secrets.toml.
     """
     try:
         conn = st.connection("gsheets_news", type=GSheetsConnection)
@@ -30,8 +33,8 @@ def load_news_from_sheet(worksheet="news"):
         return {}
 
     try:
-        # Read as DataFrame
-        df = conn.read(worksheet=worksheet, ttl=0) # ttl=0 to always fetch fresh, or manage manually
+        # Read as DataFrame (Explicitly pass spreadsheet to avoid config errors)
+        df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet=worksheet, ttl=0) # ttl=0 to always fetch fresh, or manage manually
         
         # Determine if data exists
         if df.empty:
@@ -108,7 +111,7 @@ def save_news_to_sheet(news_data_dict, worksheet="news"):
                 df[col] = ""
 
         # Write to Sheet
-        conn.update(worksheet=worksheet, data=df)
+        conn.update(spreadsheet=SPREADSHEET_URL, worksheet=worksheet, data=df)
         
         # Clear Streamlit Cache to force reload next time
         st.cache_data.clear()

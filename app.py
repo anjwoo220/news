@@ -2093,17 +2093,7 @@ else:
         
         if not valid_dates:
              min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
-             # Debugging: Show Error if data is empty
-             st.error("❌ 데이터 로드 실패 (Google Sheets)")
-             try:
-                 import db_utils
-                 conn = db_utils.get_db_connection()
-                 st.write("Connection Status:", conn)
-                 # Try explicit read to show error
-                 df = conn.read(worksheet="news", ttl=0)
-                 st.write("Raw DataFrame Shape:", df.shape)
-             except Exception as e:
-                 st.exception(e)
+             st.error("데이터를 불러올 수 없습니다. (잠시 후 다시 시도해주세요)")
         else:
              min_date = min(valid_dates)
              data_max = max(valid_dates)
