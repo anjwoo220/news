@@ -10,6 +10,12 @@ from bs4 import BeautifulSoup
 
 
 
+# Helper: Check if text contains Thai characters
+def is_thai(text):
+    import re
+    if not text: return False
+    return bool(re.search(r'[\u0E00-\u0E7F]', text))
+
 # Helper: Convert Thai Buddhist year to Gregorian year
 def convert_thai_year(text: str) -> str:
     import re

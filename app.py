@@ -13,6 +13,7 @@ import time
 from streamlit_gsheets import GSheetsConnection
 import certifi
 import ssl
+from db_utils import load_news_from_sheet, save_news_to_sheet
 
 # Fix SSL Certificate Issue on Mac
 os.environ["SSL_CERT_FILE"] = certifi.where()
@@ -283,17 +284,11 @@ st.markdown("""
 
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
-# Separate cache for heavy news data
-# Update cache on file change by passing mtime
-@st.cache_data(ttl=1800)
+# Update cache on file change by passing mtime is obsoleted by Google Sheets TTL
+@st.cache_data(ttl=600)  # Short TTL for now to ensure freshness
 def load_news_data(last_updated):
-    if os.path.exists(NEWS_FILE):
-        with open(NEWS_FILE, 'r', encoding='utf-8') as f:
-            try:
-                return json.load(f)
-            except:
-                return {}
-    return {}
+    # Use GSheets instead of JSON file
+    return load_news_from_sheet()
 
 # --- Cached Wrappers for API Calls ---
 @st.cache_data(ttl=1800) # Cache for 30 mins
@@ -832,7 +827,7 @@ if app_mode == "Admin Console":
             
             st.divider()
             try:
-                news_data = load_json(NEWS_FILE)
+                news_data = load_news_data(0)
             except Exception as e:
                 st.error(f"뉴스 로드 실패: {e}")
                 news_data = {}
@@ -870,9 +865,12 @@ if app_mode == "Admin Console":
                                 topics[i]['category'] = new_category
                                 topics[i]['full_translated'] = new_full
                                 news_data[selected_date_edit] = topics
-                                save_json(NEWS_FILE, news_data)
-                                st.success("저장되었습니다.")
-                                st.rerun()
+                                news_data[selected_date_edit] = topics
+                                if save_news_to_sheet(news_data):
+                                    st.success("데이터베이스(Google Sheets)에 저장되었습니다.")
+                                    st.rerun()
+                                else:
+                                    st.error("저장 실패")
                                 
                             if col_del.button("삭제", key=f"del_{selected_date_edit}_{i}"):
                                 topics.pop(i)
@@ -880,9 +878,14 @@ if app_mode == "Admin Console":
                                     del news_data[selected_date_edit]
                                 else:
                                     news_data[selected_date_edit] = topics
-                                save_json(NEWS_FILE, news_data)
-                                st.warning("삭제되었습니다.")
-                                st.rerun()
+                                else:
+                                    news_data[selected_date_edit] = topics
+                                
+                                if save_news_to_sheet(news_data):
+                                    st.warning("삭제 후 저장되었습니다.")
+                                    st.rerun()
+                                else:
+                                    st.error("삭제 저장 실패")
 
         # --- Tab 7: Hotel Management ---
         with tab7:

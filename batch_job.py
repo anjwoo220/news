@@ -11,6 +11,7 @@ FEEDS_FILE = 'data/feeds.json'
 NEWS_FILE = 'data/news.json'
 PROCESSED_URLS_FILE = 'data/processed_urls.json'
 EVENTS_FILE = 'data/events.json'
+from db_utils import load_news_from_sheet, save_news_to_sheet
 
 def load_json(file_path):
     if os.path.exists(file_path):
@@ -102,7 +103,9 @@ def main():
     
     # 3. Filter Duplicates (Strict Check + Similarity)
     recent_titles = []
-    current_news = load_json(NEWS_FILE)
+    # Load current news from GSheets
+    current_news = load_news_from_sheet()
+    
     if isinstance(current_news, dict):
         for date_key in sorted(current_news.keys(), reverse=True)[:3]: 
             for topic in current_news[date_key]:
@@ -241,7 +244,7 @@ def main():
     current_time_str = now_bkk.strftime("%H:%M")
     
     # Load current news (Expect Dict, fallback to empty dict if list/invalid)
-    current_news = load_json(NEWS_FILE)
+    current_news = load_news_from_sheet()
     if isinstance(current_news, list):
         current_news = {} # Migration: Reset if it was a list
         
@@ -273,7 +276,8 @@ def main():
         current_news[today_str].append(topic)
         new_topics_count += 1
         
-    save_json(NEWS_FILE, current_news)
+    save_news_to_sheet(current_news)
+    print(f"Saved {new_topics_count} new topics to Google Sheets under key '{today_str}'")
     print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
 
     # 7-1. Cross-post Travel News to Events
