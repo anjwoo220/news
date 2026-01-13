@@ -233,8 +233,9 @@ def main():
 
     # 7. Save Logic (Daily Accumulation)
     # Use UTC+7 (Bangkok Time) for date key
-    now_utc = datetime.utcnow()
-    now_bkk = now_utc + timedelta(hours=7)
+    import pytz
+    bkk_tz = pytz.timezone('Asia/Bangkok')
+    now_bkk = datetime.now(bkk_tz)
     
     today_str = now_bkk.strftime("%Y-%m-%d")
     current_time_str = now_bkk.strftime("%H:%M")

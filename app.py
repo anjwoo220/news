@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 import os
+import pytz
 import utils
 from datetime import datetime
 import plotly.express as px
@@ -284,7 +285,7 @@ st.markdown("""
 # Separate cache for heavy news data
 # Separate cache for heavy news data
 # Update cache on file change by passing mtime
-@st.cache_data(ttl=600)
+@st.cache_data(ttl=1800)
 def load_news_data(last_updated):
     if os.path.exists(NEWS_FILE):
         with open(NEWS_FILE, 'r', encoding='utf-8') as f:
@@ -314,7 +315,7 @@ def load_events_data(mtime):
                 return []
     return []
 
-@st.cache_data(ttl=3600, show_spinner=False)
+@st.cache_data(ttl=1800, show_spinner=False)
 def load_trends_data(mtime):
     """Loads trends from JSON file."""
     if os.path.exists(TRENDS_FILE):
@@ -772,7 +773,7 @@ if app_mode == "Admin Console":
         # Tabs for better organization
         # Tabs for better organization
         # Main Tab Layout
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "⚙️ 소스 관리", "🌴 매거진 관리"])
+        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -1338,6 +1339,27 @@ if app_mode == "Admin Console":
                 st.warning("초기화되었습니다.")
                 st.rerun()
 
+            # --- Taxi Fare Test ---
+            st.divider()
+            st.markdown("### 🚖 교통비 로직 테스트 (Taxi Fare)")
+            st.info("구글 맵 API와 요금 계산 로직을 테스트합니다.")
+            
+            t_col1, t_col2 = st.columns(2)
+            t_origin = t_col1.text_input("출발지 (From)", value="BKK Airport", key="adm_taxi_orig")
+            t_dest = t_col2.text_input("도착지 (To)", value="Asok", key="adm_taxi_dest")
+            
+            if st.button("계산 테스트 실행", key="adm_taxi_calc"):
+                api_key = st.secrets.get("google_maps_api_key")
+                if not api_key: st.error("No API Key")
+                else:
+                    dist, dur, err = utils.get_route_estimates(t_origin, t_dest, api_key)
+                    if err: st.error(err)
+                    else:
+                        st.write(f"거리: {dist}km, 시간: {dur}분")
+                        base, fares, is_rh = utils.calculate_expert_fare(dist, dur)
+                        st.json(fares)
+                        st.write(f"Base Meter: {base} | Rush Hour: {is_rh}")
+
         # --- Tab 9: Magazine (Trend Hunter) Management ---
         with tab9:
             st.subheader("🌴 핫플 매거진 관리 (트렌드 헌터)")
@@ -1536,6 +1558,76 @@ if app_mode == "Admin Console":
                 
                 st.rerun()
         
+
+        # --- Tab 10: Infographic ---
+        with tab10:
+            st.subheader("🎨 오늘의 뉴스 인포그래픽 생성")
+            st.info("오늘 수집된 뉴스를 바탕으로 인스타그램용 요약 이미지를 생성합니다.")
+            
+            # 1. Date Select
+            news_data = load_json(NEWS_FILE)
+            avail_dates = sorted(news_data.keys(), reverse=True)
+            if not avail_dates:
+                st.warning("데이터 없음")
+            else:
+                target_date = st.selectbox("날짜 선택 (인포그래픽)", avail_dates)
+                items = news_data[target_date]
+                
+                # 2. Preview Groups
+                st.write(f"총 {len(items)}개 기사 로드됨.")
+                
+                if st.button("이미지 생성 시작 (PIL + Gemini)", type="primary"):
+                    progress_bar = st.progress(0)
+                    status_text = st.empty()
+                    
+                    # Grouping
+                    groups = {}
+                    for item in items:
+                        cat = item.get('category', '기타')
+                        if cat not in groups: groups[cat] = []
+                        groups[cat].append(item)
+                    
+                    generated_images = []
+                    
+                    # Generate
+                    api_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+                    total_cats = len(groups)
+                    
+                    cols = st.columns(3)
+                    
+                    import io
+                    import zipfile
+                    zip_buffer = io.BytesIO()
+                    
+                    with zipfile.ZipFile(zip_buffer, "w") as zf:
+                        for idx, (cat, cat_items) in enumerate(groups.items()):
+                            status_text.text(f"Generating {cat}...")
+                            img = utils.generate_category_infographic(cat, cat_items, target_date, api_key)
+                            
+                            if img:
+                                # Save to Buffer for ZIP
+                                img_bytes = io.BytesIO()
+                                img.save(img_bytes, format='PNG')
+                                img_bytes.seek(0)
+                                filename = f"{target_date}_{cat}.png"
+                                zf.writestr(filename, img_bytes.getvalue())
+                                
+                                # Display
+                                with cols[idx % 3]:
+                                    st.image(img, caption=cat)
+                                
+                            progress_bar.progress((idx + 1) / total_cats)
+                    
+                    status_text.text("완료!")
+                    
+                    # Download Button
+                    st.download_button(
+                        label="📦 전체 이미지 다운로드 (ZIP)",
+                        data=zip_buffer.getvalue(),
+                        file_name=f"infographics_{target_date}.zip",
+                        mime="application/zip"
+                    )
+
 else:
     # --- Viewer Mode ---
     # Visitor Counter Logic & UI (Main Header)
@@ -1856,7 +1948,7 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "🎉 콘서트/이벤트", "🏨 호텔 팩트체크", "🗣️ 게시판"]
+    nav_options = ["📰 뉴스 브리핑", "🚕 택시/뚝뚝 요금 판독기", "🏨 호텔 팩트체크", "🗣️ 게시판"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -1918,8 +2010,8 @@ else:
             st.rerun()
     with b_col2:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("🎉 이벤트", key="btn_nav_events", use_container_width=True):
-            st.session_state["nav_mode"] = "🎉 콘서트/이벤트"
+        if st.button("🚕호갱방지", key="btn_nav_events", use_container_width=True):
+            st.session_state["nav_mode"] = "🚕 택시/뚝뚝 요금 판독기"
             st.rerun()
     with b_col3:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
@@ -1953,10 +2045,30 @@ else:
                 if ts:
                     msg += f" _({ts} 기준)_"
                 
-                if severity == 'warning':
-                    st.error(f"{icon} {msg}") # Use error for red background if warning
+                # Stale Check: Only show if collected TODAY (Bangkok Time)
+                bkk_tz = pytz.timezone('Asia/Bangkok')
+                today_str = datetime.now(bkk_tz).strftime("%Y-%m-%d")
+                
+                # collected_at format: YYYY-MM-DD HH:MM:SS or HH:MM (old)
+                is_stale = False
+                ts = t_data.get('collected_at', '')
+                
+                if ts:
+                    if len(ts) > 5: # Full datetime
+                        if not ts.startswith(today_str):
+                            is_stale = True
+                    else: # HH:MM only (Assume old data if not full format, or check file mod time? simpler to just hide old format)
+                        # Actually, if we just deployed strict format, old data might be HH:MM.
+                        # Let's hide if it doesn't look like today's full date for safety.
+                        is_stale = True
                 else:
-                    st.info(f"{icon} {msg}")
+                    is_stale = True
+                
+                if not is_stale:
+                    if severity == 'warning':
+                         st.error(f"{icon} {msg}") 
+                    else:
+                         st.info(f"{icon} {msg}")
 
         # --- Mobile Nav & Date Selection (Expander) ---
     
@@ -1970,10 +2082,12 @@ else:
         # Calculate Valid Dates & Latest
         all_dates_str = sorted(news_data.keys())
         valid_dates = []
-        latest_date_str = datetime.today().strftime("%Y-%m-%d") # Fallback
+        latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d") # Fallback
     
-        if all_dates_str:
-            latest_date_str = all_dates_str[-1] # Newest date with news
+        latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d") # Force Today
+    
+        # if all_dates_str:
+            # latest_date_str = all_dates_str[-1] # Old Logic: Fallback to last known -> REMOVED
         
         for d_str in all_dates_str:
             try:
@@ -1983,11 +2097,11 @@ else:
         if valid_dates:
             min_date = min(valid_dates)
             data_max = max(valid_dates)
-            today_date = datetime.today().date()
+            today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
             # Safety: Ensure max_date is the LATER of server-today or data-latest
             max_date = max(today_date, data_max) 
         else:
-            min_date = max_date = datetime.today().date()
+            min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
         
         # Init Session for Pagination & Search
         if "current_page" not in st.session_state:
@@ -2008,7 +2122,7 @@ else:
                 try:
                     curr_date_obj = datetime.strptime(st.session_state["selected_date_str"], "%Y-%m-%d").date()
                 except:
-                    curr_date_obj = datetime.today().date()
+                    curr_date_obj = datetime.now(pytz.timezone('Asia/Bangkok')).date()
                 
                 # Double safety: clamp to valid range to prevent StreamlitAPIException
                 curr_date_obj = max(min_date, min(max_date, curr_date_obj))
@@ -2164,6 +2278,7 @@ else:
                         source = ref.get('source', 'Unknown Source')
                         st.markdown(f"- [{title}]({url}) - *{source}*")
 
+
                 # Comments
                 news_id = generate_news_id(topic['title'])
                 comments = all_comments_data.get(news_id, [])
@@ -2173,7 +2288,13 @@ else:
                         st.caption("아직 댓글이 없습니다.")
                     else:
                         for c in comments:
-                            st.markdown(f"**{c['user']}**: {c['text']} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
+                            # Sanitize User Input
+                            user_safe = html.escape(c['user'])
+                            text_safe = c['text'].replace("http://", "https://")
+                            
+                            # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
+                            # Using html.escape ensures <script> becomes &lt;script&gt;
+                            st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
                 
                     # Comment Form
                     st.markdown("---")
@@ -2225,111 +2346,182 @@ else:
                     else:
                         st.button("다음 ➡️", disabled=True, use_container_width=True, key="p_next_dis")
 
-    # --- Page 2: Concerts/Events ---
-    elif page_mode == "🎉 콘서트/이벤트":
-        st.caption("태국 전역의 축제, 콘서트, 핫플레이스 정보를 모았습니다. (매일 자동 업데이트)")
+    # --- Page 2: Taxi Calculator ---
+    elif page_mode == "🚕 택시/뚝뚝 요금 판독기":
+        st.header("🚕 택시/뚝뚝 요금 판독기 (Taxi Fare Reader)")
+        st.caption("방콕 시내 교통비, 바가지인지 아닌지 1초 만에 판독해드립니다. (실시간 교통상황 반영)")
 
-        # --- Big Match Section ---
-        big_events = load_json(BIG_EVENTS_FILE, [])
+        # Input & Place Search Logic
+        api_key = st.secrets.get("google_maps_api_key")
         
-        # User View: Filter for Confirmed Events Only
-        # Hide if status is vague or date is TBD
-        visible_big_events = []
-        confirmed_keywords = ['개최확정', '티켓오픈', '매진', '판매중', 'd-', 'confirmed', 'ticket open']
-        
-        for e in big_events:
-            # STRICT FILTER: Only show manually added/verified events
-            # This hides auto-crawled events until admin approves/re-saves them as manual
-            if e.get('source') == 'manual':
-                 visible_big_events.append(e)
+        # State Helpers
+        def clear_origin_cands():
+            if 'taxi_origin_cands' in st.session_state: del st.session_state['taxi_origin_cands']
+        def clear_dest_cands():
+            if 'taxi_dest_cands' in st.session_state: del st.session_state['taxi_dest_cands']
+
+        with st.container(border=True):
+            st.markdown("#### 📍 경로 설정 (장소 검색)")
             
-            # Old Logic (Commented out for Strict Manual Mode)
-            # status = e.get('status', '').lower()
-            # date_str = e.get('date', '').lower()
-            # is_confirmed_status = any(k in status for k in confirmed_keywords)
-            # is_tbd = '미정' in date_str or 'tbd' in date_str or '미정' in status
-            # if is_confirmed_status and not is_tbd:
-            #     visible_big_events.append(e)
-            # elif not is_tbd and len(date_str) > 4: 
-            #      visible_big_events.append(e)
+            # --- Origin ---
+            c_o1, c_o2 = st.columns([3, 1])
+            with c_o1:
+                origin_q = st.text_input("출발지 (From)", placeholder="예: Asok, Khaosan", key="taxi_origin_q", on_change=clear_origin_cands)
+            with c_o2:
+                st.write("")
+                st.write("")
+                if st.button("🔍 검색", key="btn_search_orig") and origin_q and api_key:
+                    with st.spinner(".."):
+                        st.session_state['taxi_origin_cands'] = utils.search_places(origin_q, api_key)
 
-        # Handle Empty State
-        if not visible_big_events:
-            with st.expander("🔥 놓치면 후회할 초대형 빅매치/페스티벌 미리보기", expanded=True):
-                 st.info("📢 현재 확정된 대형 이벤트 정보를 집계 중입니다. 빠른 시일 내에 업데이트됩니다!")
-                 
+            # Origin Selection
+            origin_val = origin_q
+            if st.session_state.get('taxi_origin_cands'):
+                opts = {f"{c['name']} ({c['address']})": c['place_id'] for c in st.session_state['taxi_origin_cands']}
+                sel_o_key = st.selectbox("출발지 선택 (정확도 향상)", list(opts.keys()), key="sel_origin")
+                origin_val = f"place_id:{opts[sel_o_key]}"
 
-        try:
-            with st.spinner("최신 여행 정보를 불러오는 중..."):
-                events = get_cached_events()
-                
-            if not events:
-                st.info("현재 예정된 주요 행사가 없습니다.")
+            st.divider()
+
+            # --- Destination ---
+            c_d1, c_d2 = st.columns([3, 1])
+            with c_d1:
+                dest_q = st.text_input("도착지 (To)", placeholder="예: Icon Siam", key="taxi_dest_q", on_change=clear_dest_cands)
+            with c_d2:
+                st.write("")
+                st.write("")
+                if st.button("🔍 검색", key="btn_search_dest") and dest_q and api_key:
+                    with st.spinner(".."):
+                        st.session_state['taxi_dest_cands'] = utils.search_places(dest_q, api_key)
+            
+            # Dest Selection
+            dest_val = dest_q
+            if st.session_state.get('taxi_dest_cands'):
+                opts = {f"{c['name']} ({c['address']})": c['place_id'] for c in st.session_state['taxi_dest_cands']}
+                sel_d_key = st.selectbox("도착지 선택", list(opts.keys()), key="sel_dest")
+                dest_val = f"place_id:{opts[sel_d_key]}"
+
+            st.divider()
+            
+            # Quote
+            quote_price = st.number_input("기사가 부른 가격 (THB, 선택)", min_value=0, step=10, help="흥정 중인 가격을 입력하면 적정가인지 판단해줍니다.")
+            
+            calc_btn = st.button("💸 경로 및 요금 계산", type="primary", use_container_width=True)
+
+        if calc_btn:
+            if not origin_val or not dest_val:
+                 st.warning("출발지와 도착지를 확인해주세요.")
             else:
-                # --- Region Filter ---
-                events = [e for e in events if isinstance(e, dict)]
-                all_regions = ["전체 보기"] + sorted(list(set([e.get('region', '기타') for e in events])))
-                
-                c_filter, c_space = st.columns([1, 2])
-                with c_filter:
-                    selected_region = st.selectbox("🗺️ 지역별 보기", all_regions)
-                    
-                if selected_region != "전체 보기":
-                    filtered_events = [e for e in events if e.get('region') == selected_region]
-                else:
-                    filtered_events = events
-                    
+                 if not api_key:
+                    st.error("Google Maps API Key가 설정되지 않았습니다.")
+                 else:
+                    with st.spinner("🚗 경로 및 요금 분석 중..."):
+                        dist_km, dur_min, traffic_ratio, error = utils.get_route_estimates(origin_val, dest_val, api_key)
+                        
+                        if error:
+                            st.error(error)
+                        else:
+                            # Traffic Light UI
+                            if traffic_ratio is not None:
+                                if traffic_ratio >= 1.5:
+                                    st.error(f"🔴 정체 (혼잡도 {traffic_ratio:.1f}): 🚨 극심한 정체! (방콕 트래픽 잼). 오토바이나 지하철 추천.")
+                                elif traffic_ratio >= 1.1:
+                                    st.warning(f"🟡 서행 (혼잡도 {traffic_ratio:.1f}): 차가 조금 많습니다. 여유를 가지세요.")
+                                else:
+                                    st.success(f"🟢 원활 (혼잡도 {traffic_ratio:.1f}): 도로가 뻥 뚫렸어요! 이동하기 좋습니다.")
+                            
+                            base_meter, fares, is_rush_hour, is_hell_zone, intercity_tip = utils.calculate_expert_fare(dist_km, dur_min, origin_txt=origin_q, dest_txt=dest_q)
+                            
+                            # Intercity / Long Distance Alert
+                            if intercity_tip:
+                                st.success("🚍 **도시 간 이동(Intercity)** 감지! (미터기 대신 정액제 요금이 적용됩니다)")
+                                st.info(f"💡 **이동 꿀팁**: {intercity_tip}")
+                            
+                            # Hell Zone Alert (Prioritize)
+                            if is_hell_zone:
+                                st.error("👿 [교통 지옥 구역] 감지! (Asok/Siam/Sukhumvit 등)")
+                                st.caption("💬 이 지역은 상습 정체 구역으로, 미터 택시 승차거부가 심하고 앱 호출 배차가 매우 오래 걸릴 수 있습니다. **지상철(BTS)/지하철(MRT)** 또는 **오토바이** 이용을 강력 추천합니다. 마음을 비우세요 🧘")
 
+                            # Rush Hour Alert
+                            if is_rush_hour:
+                                st.warning("🚨 **현재는 '러시아워'입니다!** (앱 호출비/뚝뚝 할증)")
+                                st.caption("💡 07:00-09:30 / 16:30-20:00은 교통체증이 심해 앱 호출비가 비쌉니다. (미터 택시가 그나마 저렴)")
+                            
+                            # 1. Route Info
+                            st.info(f"📏 예상 거리: **{dist_km:.1f}km** | ⏱️ 소요 시간: **{int(dur_min)}분** (교통체증 반영)")
+                            
+                            # 2. Quote Analysis
+                            if quote_price > 0:
+                                # Parse Prices (Ranges: "min ~ max")
+                                def parse_price(val):
+                                    try:
+                                        if isinstance(val, int): return val, val
+                                        parts = str(val).split('~')
+                                        if len(parts) == 2:
+                                            return int(parts[0].strip()), int(parts[1].strip())
+                                        return int(str(val).replace('THB','').strip()), int(str(val).replace('THB','').strip())
+                                    except:
+                                        return 9999, 9999
 
-                st.write(f"총 {len(filtered_events)}개의 행사가 있습니다.")
+                                bolt_min, bolt_max = parse_price(fares.get('bolt', {}).get('price', 0))
+                                grab_min, grab_max = parse_price(fares.get('grab_taxi', {}).get('price', 0))
+                                tuktuk_min, tuktuk_max = parse_price(fares.get('tuktuk', {}).get('price', 0))
 
-                # 2 Columns Grid
-                cols = st.columns(2)
-                for idx, event in enumerate(filtered_events):
-                    with cols[idx % 2]:
-                        with st.container(border=True):
-                            # Image
-                            if event.get('image_url'):
-                                st.image(event['image_url'], use_container_width=True)
+                                # Assessment Logic
+                                if quote_price <= bolt_min:
+                                     st.success(f"**{quote_price}바트**는 '최저가' 수준입니다! 바로 타세요. 👍")
+                                elif quote_price <= grab_max:
+                                     st.success(f"**{quote_price}바트**는 적절한 가격입니다. (Bolt/Grab 앱 호출 호가)")
+                                elif quote_price <= tuktuk_min * 1.2:
+                                     st.warning(f"**{quote_price}바트**는 조금 비쌉니다. (급할 때만 타세요)")
+                                else:
+                                     st.error(f"🚨 **{quote_price}바트**는 바가지입니다! (다른 수단 권장)")
                             
-                            # Badge & Title
-                            region = event.get('region', '기타')
-                            title = event.get('title', '행사명 없음')
-                            st.markdown(f"#### <span style='color:#FF4B4B'>[🏝️ {region}]</span> {title}", unsafe_allow_html=True)
+                            st.divider()
                             
-                            # Meta Info
-                            date = event.get('date', '날짜 미정')
-                            loc = event.get('location', '장소 미정')
-                            etype = event.get('type', '행사')
+                            # 3. Fare Table (Cards)
+                            st.subheader("💰 교통수단별 적정 요금표")
+                            st.caption("Disclaimer: 실제 교통상황/시간대에 따라 오차가 있을 수 있습니다.")
                             
-                            st.markdown(f"**🗓️ {date}**")
-                            st.markdown(f"📍 {loc} | 🕒 태국 현지 시간")
+                            cols = st.columns(4)
+                            # Order: Bike, Bolt (Merged), Grab, TukTuk
+                            keys = ['bike', 'bolt', 'grab_taxi', 'tuktuk']
                             
-                            # New: Booking & Price (Clearly Visible)
-                            if event.get('booking_date') and len(event['booking_date']) > 2:
-                                st.markdown(f"🎟 **예매 오픈:** :red[{event['booking_date']}]")
-                            
-                            if event.get('price') and len(event['price']) > 2:
-                                st.markdown(f"💰 **가격:** :green[{event['price']}]")
+                            for i, k in enumerate(keys):
+                                item = fares[k]
+                                with cols[i]:
+                                    with st.container(border=True):
+                                        st.markdown(f"**{item['label']}**")
+                                        price_display = f"{item['price']} THB" if isinstance(item['price'], int) else f"{item['price']} THB"
+                                        
+                                        color = item['color']
+                                        st.markdown(f"<h3 style='color:{color}; margin:0;'>{price_display}</h3>", unsafe_allow_html=True)
+                                        
+                                        tag_color = "#e5e7eb" # gray-200
+                                        text_color = "#374151" # gray-700
+                                        if color == "red": 
+                                            tag_color = "#fee2e2"
+                                            text_color = "#991b1b"
+                                        if color == "green": 
+                                            tag_color = "#dcfce7"
+                                            text_color = "#166534"
+                                        if color == "blue": 
+                                            tag_color = "#dbeafe"
+                                            text_color = "#1e40af"
+                                        if color == "orange":
+                                            tag_color = "#ffedd5"
+                                            text_color = "#c2410c"
+                                        
+                                        st.markdown(f"<div style='background-color:{tag_color}; padding:4px; border-radius:4px; font-size:0.8em; text-align:center; color:{text_color}; margin-top:5px;'>{item['tag']}</div>", unsafe_allow_html=True)
+                                        
+                                        if item.get("warning"):
+                                            st.markdown(f"<div style='font-size:0.7em; color:red; margin-top:5px;'>⚠️ 이 가격보다 비싸면 타지 마세요!</div>", unsafe_allow_html=True)
+                                            
+                                        if item.get("warning_text"):
+                                             st.caption(f"⚠️ {item['warning_text']}")
 
-                            st.caption(f"🏷️ {etype}")
-                            
-                            # Link Button
-                            link = event.get('link', '#')
-                            st.link_button("예매/자세히 보기 🔗", link, use_container_width=True)
-                            
-                            # Individual Share
-                            with st.expander("📤 공유하기"):
-                                one_event_share = f"[🇹🇭 오늘의 태국 - 추천 여행정보]\n\n"
-                                one_event_share += f"🎈 {title}\n"
-                                one_event_share += f"🗓 {date}\n"
-                                one_event_share += f"📍 {loc}\n"
-                                one_event_share += f"🔗 {link}\n\n"
-                                one_event_share += f"👉 더 보기: {DEPLOY_URL}"
-                                st.code(one_event_share, language="text")
-                            
-        except Exception as e:
-            st.error(f"이벤트 정보를 불러오는 중 오류가 발생했습니다: {e}")
+                            st.divider()
+                            st.info("💡 치앙마이, 파타야 등 지방 도시는 위 요금보다 더 저렴할 수 있습니다. 단, '푸켓'과 '코사무이'는 미터기를 잘 안 켜고 담합 가격(Flat Rate)을 부르니 주의하세요!")
 
     # --- Page 3: Trend Hunter (Magazine) ---
     # --- Page 3: Hotel Fact Check ---
@@ -2338,145 +2530,168 @@ else:
         st.caption("광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.")
         
         # 1. Search Input
-        with st.container():
+        api_key = st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
+        gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+
+        # State Helpers
+        def clear_hotel_cands():
+            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+
+        with st.container(border=True):
             c_city, c_name = st.columns([1, 2])
             with c_city:
                 city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", "기타 (직접 입력)"]
-                selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select")
+                selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select", on_change=clear_hotel_cands)
                 
                 if selected_city == "기타 (직접 입력)":
-                    city = st.text_input("도시명 (영어)", placeholder="예: Siracha, Rayong", key="user_city_manual")
+                    city = st.text_input("도시명 (영어)", placeholder="예: Siracha", key="user_city_manual")
                 else:
                     city = selected_city
                     
             with c_name:
-                hotel_query = st.text_input("호텔 이름 (예: Amari, Hilton)", placeholder="호텔명 입력...", key="user_hotel_input")
-        
-        if hotel_query:
-            if selected_city == "기타 (직접 입력)" and not city.strip():
-                st.warning("⚠️ 도시 이름을 입력해주세요!")
-            else:
-                api_key = st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
-                gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+                hotel_query = st.text_input("호텔 검색", placeholder="예: Amari, Hilton", key="user_hotel_input", on_change=clear_hotel_cands)
                 
-                if not api_key:
-                    st.error("🚨 Google Maps API Key가 설정되지 않았습니다.")
-                    # Debugging Aid
-                    with st.expander("🛠️ 디버그: 로드된 Secret Key 목록"):
-                        st.write(f"현재 로드된 Keys: {list(st.secrets.keys())}")
-                        st.write("팁: secrets.toml을 수정한 후에는 앱을 완전히 재실행해야 할 수 있습니다.")
-                elif not gemini_key:
-                     st.error("🚨 Gemini API Key가 설정되지 않았습니다.")
+            # Search Button
+            if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", use_container_width=True):
+                if not hotel_query:
+                    st.warning("호텔 이름을 입력해주세요.")
+                elif not api_key:
+                    st.error("Google Maps API Key Missing")
                 else:
-                    # --- Step 1: Candidate Search ---
-                    # We store candidates in session state to persist selection UI
-                    search_key = f"search_{hotel_query}_{city}"
-                    
-                    # If this is a new search, clear previous state
-                    if "last_search_key" not in st.session_state or st.session_state["last_search_key"] != search_key:
-                        st.session_state["candidates"] = None
-                        st.session_state["selected_hotel_id"] = None
-                        st.session_state["last_search_key"] = search_key
-                        
-                        with st.spinner(f"🔍 '{hotel_query}' 후보 검색 중..."):
-                            candidates = utils.fetch_hotel_candidates(hotel_query, city, api_key)
-                            st.session_state["candidates"] = candidates
+                    with st.spinner(f"🔍 '{hotel_query}' 검색 중..."):
+                        cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
+                        if not cands: 
+                            st.error("검색 결과가 없습니다.")
+                            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+                        else:
+                            st.session_state['hotel_candidates'] = cands
+                            # Reset Previous Analysis
+                            st.session_state['show_hotel_analysis'] = False
+                            st.session_state['active_hotel_id'] = None
 
-                    candidates = st.session_state.get("candidates")
-                    target_place_id = None
+            # Selectbox & Analyze
+            target_place_id = None
+            if st.session_state.get('hotel_candidates'):
+                cands = st.session_state['hotel_candidates']
+                # Default to first
+                options = {f"{c['name']} ({c['address']})" : c['id'] for c in cands}
+                
+                sel_label = st.selectbox("검색된 호텔 선택", list(options.keys()), key="sel_hotel_final")
+                target_place_id = options[sel_label]
+                
+                st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
+                
+                # Analyze Button inside the flow
+                analyze_btn = st.button("📊 팩트체크 분석 시작", key="btn_analyze_hotel", type="primary")
+            else:
+                analyze_btn = False
 
-                    if candidates is None:
-                        pass # Error already shown in utils
-                    elif len(candidates) == 0:
-                        st.warning(f"🤔 '{hotel_query}'에 대한 검색 결과가 없습니다. (영어/태국어로 입력해보세요)")
-                    elif len(candidates) == 1:
-                        target_place_id = candidates[0]['id']
-                    else:
-                        # Multiple candidates found
-                        st.info(f"🔎 총 {len(candidates)}개의 호텔이 검색되었습니다. 정확한 호텔을 선택해주세요.")
-                        
-                        # Create options map
-                        options = {f"{c['name']} ({c['address']})": c['id'] for c in candidates}
-                        selected_label = st.radio("분석할 호텔 선택:", list(options.keys()), key="hotel_radio_select")
-                        
-                        if st.button("선택한 호텔 분석하기 🚀", key="confirm_hotel_btn"):
-                            target_place_id = options[selected_label]
-                            st.session_state["selected_hotel_id"] = target_place_id
-                        elif st.session_state.get("selected_hotel_id"):
-                             # Persist selection if already made
-                             target_place_id = st.session_state["selected_hotel_id"]
+            if analyze_btn:
+                st.session_state['show_hotel_analysis'] = True
+                st.session_state['active_hotel_id'] = target_place_id
+                st.rerun()
 
-                    # --- Step 2: Fetch Details & Analyze ---
-                    if target_place_id:
-                         with st.spinner("📊 상세 정보 및 리뷰 분석 중..."):
-                             info = utils.fetch_hotel_details(target_place_id, api_key)
+        # --- Step 2: Fetch Details & Analyze ---
+        active_id = st.session_state.get('active_hotel_id')
+        show_analysis = st.session_state.get('show_hotel_analysis')
+        
+        if show_analysis and active_id:
+            if not gemini_key or not api_key:
+                 st.error("API Key Missing")
+            else:
+                 with st.spinner("📊 상세 정보 및 리뷰 분석 중..."):
+                     info = utils.fetch_hotel_details(active_id, api_key)
+                     
+                     if info:
+                         # 2. Display Basic Info
+                         col_img, col_desc = st.columns([1, 1.5])
+                        
+                         with col_img:
+                             if info.get('photo_url'):
+                                 st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                             else:
+                                 st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
+                                
+                         with col_desc:
+                             st.subheader(f"{info['name']}")
+                             st.markdown(f"📍 **주소:** {info['address']}")
+                             st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
                              
-                             if info:
-                                 # 2. Display Basic Info
-                                 col_img, col_desc = st.columns([1, 1.5])
+                             # Trip.com Affiliate Button
+                             try:
+                                 import urllib.parse
+                                 from datetime import datetime, timedelta
+                                 
+                                 trip_secrets = st.secrets.get("trip_com", {})
+                                 aid = trip_secrets.get("alliance_id")
+                                 sid = trip_secrets.get("sid")
+                                 
+                                 if aid and sid:
+                                     # City-Agnostic Keyword Search
+                                     # Use 'Hotel Name + City + Thailand' for best match
+                                     raw_kw = f"{info['name']} {selected_city} Thailand"
+                                     trip_kw = urllib.parse.quote(raw_kw)
+                                     
+                                     # Removed city params, use keyword only
+                                     trip_url = f"https://kr.trip.com/hotels/list?keyword={trip_kw}&allianceid={aid}&sid={sid}"
+                                     
+                                     st.markdown("") # Spacer
+                                     st.link_button(f"🏨 [Trip.com] 실시간 최저가 확인", trip_url, use_container_width=True, type="primary")
+                             except: pass
+                        
+                         st.divider()
+                        
+                         # 3. Analyze Reviews (Gemini)
+                         analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                        
+                         if "error" in analysis:
+                             st.error(f"분석 중 오류 발생: {analysis['error']}")
+                         else:
+                             # 4. Display Analysis Result
+                            
+                             # One-line Verdict
+                             st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
+                            
+                             # Recommendation Target
+                             st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
+                            
+                             # Pros & Cons
+                             c1, c2 = st.columns(2)
+                             with c1:
+                                 st.success("✅ **장점**")
+                                 for p in analysis.get('pros', []):
+                                     st.markdown(f"- {p}")
+                                    
+                             with c2:
+                                 st.error("⚠️ **단점**")
+                                 for c in analysis.get('cons', []):
+                                     st.markdown(f"- {c}")
+                            
+                             # Detailed Analysis
+                             with st.expander("🔍 상세 분석 보기 (위치, 룸컨디션, 조식/부대시설)", expanded=True):
+                                 st.markdown("### 📍 위치 및 동선")
+                                 st.write(analysis.get('location_analysis', '-'))
                                 
-                                 with col_img:
-                                     if info.get('photo_url'):
-                                         st.image(info['photo_url'], use_container_width=True, caption=info['name'])
-                                     else:
-                                         st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
-                                        
-                                 with col_desc:
-                                     st.subheader(f"{info['name']}")
-                                     st.markdown(f"📍 **주소:** {info['address']}")
-                                     st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
+                                 st.markdown("### 🛏️ 룸 컨디션")
+                                 st.write(analysis.get('room_condition', '-'))
                                 
-                                 st.divider()
+                                 st.markdown("### 🍽️ 서비스 & 조식")
+                                 st.write(analysis.get('service_breakfast', '-'))
                                 
-                                 # 3. Analyze Reviews (Gemini)
-                                 analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                                 st.markdown("### 🏊‍♂️ 수영장 & 부대시설")
+                                 st.write(analysis.get('pool_facilities', '-'))
+                            
+                             # Scores
+                             scores = analysis.get('summary_score', {})
+                             if scores:
+                                 st.markdown("### 📊 팩트체크 점수")
+                                 sc1, sc2, sc3, sc4 = st.columns(4)
+                                 sc1.metric("청결도", f"{scores.get('cleanliness', 0)}/5")
+                                 sc2.metric("위치", f"{scores.get('location', 0)}/5")
+                                 sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
+                                 sc4.metric("가성비", f"{scores.get('value', 0)}/5")
                                 
-                                 if "error" in analysis:
-                                     st.error(f"분석 중 오류 발생: {analysis['error']}")
-                                 else:
-                                     # 4. Display Analysis Result
-                                    
-                                     # One-line Verdict
-                                     st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
-                                    
-                                     # Recommendation Target
-                                     st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
-                                    
-                                     # Pros & Cons
-                                     c1, c2 = st.columns(2)
-                                     with c1:
-                                         st.success("✅ **장점 (Pros)**")
-                                         for p in analysis.get('pros', []):
-                                             st.markdown(f"- {p}")
-                                            
-                                     with c2:
-                                         st.error("⚠️ **단점 (Cons)**")
-                                         for c in analysis.get('cons', []):
-                                             st.markdown(f"- {c}")
-                                    
-                                     # Detailed Analysis
-                                     with st.expander("🔍 상세 분석 보기 (위치, 룸컨디션, 조식/부대시설)", expanded=True):
-                                         st.markdown("### 📍 위치 및 동선")
-                                         st.write(analysis.get('location_analysis', '-'))
-                                        
-                                         st.markdown("### 🛏️ 룸 컨디션")
-                                         st.write(analysis.get('room_condition', '-'))
-                                        
-                                         st.markdown("### 🍽️ 서비스 & 조식")
-                                         st.write(analysis.get('service_breakfast', '-'))
-                                        
-                                         st.markdown("### 🏊‍♂️ 수영장 & 부대시설")
-                                         st.write(analysis.get('pool_facilities', '-'))
-                                    
-                                     # Scores
-                                     scores = analysis.get('summary_score', {})
-                                     if scores:
-                                         st.markdown("### 📊 팩트체크 점수")
-                                         sc1, sc2, sc3, sc4 = st.columns(4)
-                                         sc1.metric("청결도", f"{scores.get('cleanliness', 0)}/5")
-                                         sc2.metric("위치", f"{scores.get('location', 0)}/5")
-                                         sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
-                                         sc4.metric("가성비", f"{scores.get('value', 0)}/5")
+
 
     # --- Page 4: Community Board ---
     elif page_mode == "🗣️ 게시판":
@@ -2528,10 +2743,14 @@ else:
                     c_nick = post.get('nickname', '익명')
                     c_content = post.get('content', '')
                     
+                    # Sanitize
+                    c_nick_safe = html.escape(c_nick) # Escape HTML tags
+                    c_content_safe = c_content.replace("http://", "https://")
+
                     # Header: Nickname & Date
-                    st.markdown(f"**{c_nick}** <span style='color:grey; font-size:0.8em'>| {c_date}</span>", unsafe_allow_html=True)
-                    # Content
-                    st.markdown(c_content)
+                    st.markdown(f"**{c_nick_safe}** <span style='color:grey; font-size:0.8em'>| {c_date}</span>", unsafe_allow_html=True)
+                    # Content (Render safely via markdown, replacing http with https)
+                    st.markdown(c_content_safe)
                     
                     # Delete UI (Bottom Right)
                     with st.expander("🗑️ 삭제"):

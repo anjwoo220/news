@@ -151,7 +151,7 @@ def clean_html(raw_html):
 # --------------------------------------------------------------------------------
 # Google News RSS Fetcher (Backup Source)
 # --------------------------------------------------------------------------------
-def fetch_google_news_rss(query="Thailand Tourism", period="1d"):
+def fetch_google_news_rss(query="Thailand Tourism", period="24h"):
     """
     Fetches Google News RSS for a specific query.
     Returns: List of dicts matching news item structure.
@@ -162,7 +162,9 @@ def fetch_google_news_rss(query="Thailand Tourism", period="1d"):
     
     encoded_query = urllib.parse.quote(query)
     # hl=en-TH, gl=TH ensures Thailand focus
-    rss_url = f"https://news.google.com/rss/search?q={encoded_query}+when:{period}&hl=en-TH&gl=TH&ceid=TH:en"
+    # when:24h = Last 24 hours
+    # scoring=n = Sort by Date (Newest first)
+    rss_url = f"https://news.google.com/rss/search?q={encoded_query}+when:{period}&hl=en-TH&gl=TH&ceid=TH:en&scoring=n"
     
     print(f"Fetching Google News: {query}...")
     try:
@@ -184,6 +186,46 @@ def fetch_google_news_rss(query="Thailand Tourism", period="1d"):
     except Exception as e:
         print(f"Google News Fetch Error: {e}")
         return []
+
+# Helper: Fetch Full Content from URL
+def fetch_full_content(url):
+    """
+    Scrapes the main text content from a news URL.
+    Returns: String (text) or None
+    """
+    import requests
+    from bs4 import BeautifulSoup
+    
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+        }
+        # Timeout slightly longer for scraping
+        response = requests.get(url, headers=headers, timeout=5)
+        if response.status_code != 200:
+            return None
+            
+        soup = BeautifulSoup(response.content, 'html.parser')
+        
+        # Remove unwanted elements
+        for script in soup(["script", "style", "nav", "footer", "header", "aside"]):
+            script.decompose()
+            
+        # Extract text from p tags (most reliable for news)
+        paragraphs = soup.find_all('p')
+        text = ' '.join([p.get_text() for p in paragraphs])
+        
+        # Clean up whitespace
+        text = ' '.join(text.split())
+        
+        if len(text) < 100: # Too short, likely failed
+            return None
+            
+        return text[:3000] # Limit to 3000 chars
+        
+    except Exception as e:
+        # print(f"Error scraping {url}: {e}")
+        return None
 
 def analyze_news_with_gemini(news_items, api_key):
     if not news_items:
@@ -231,7 +273,11 @@ def analyze_news_with_gemini(news_items, api_key):
            - **4~6점 (보통):** 새로운 핫플, 일반적인 날씨, 소소한 규제, 흥미로운 로컬 뉴스.
            - **1~3점 (무시):** 단순 정치 싸움, 연예인 가십, 여행과 무관한 지역 사회 뉴스.
         
-        2. **헤드라인 & 요약:** 한국인이 클릭하고 싶게 매력적으로 작성.
+        2. **헤드라인 & 요약 (Strict Format):** 
+           - **반드시 '3줄 요약' (Bullet Point) 형식**으로 작성하세요. (각 줄은 '- '로 시작)
+           - 한국인이 관심 가질만한 핵심 내용만 간결하게 포함하세요.
+           - **주의:** '중요도 점수'나 '여행객 영향'에 대한 메타 설명은 요약문에 절대 포함하지 마세요. (별도 필드 이용)
+
         3. **분류:** ["정치/사회", "경제", "여행/관광", "축제/이벤트", "사건/사고", "엔터테인먼트", "기타"]
            - 날씨/홍수는 무조건 '여행/관광' 또는 Safety 이슈면 '사건/사고'.
         
@@ -272,7 +318,9 @@ def analyze_news_with_gemini(news_items, api_key):
             try:
                 model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
                 response = model.generate_content(prompt)
-                result = json.loads(response.text)
+                # Force HTTPS for all URLs in the generated content (Markdown links, Image URLs, References)
+                safe_text = response.text.replace("http://", "https://")
+                result = json.loads(safe_text)
                 
                 if 'topics' in result and result['topics']:
                     # --- Python Verification (Strict Mode Enforcement) ---
@@ -1089,12 +1137,13 @@ def fetch_twitter_trends(api_key):
              
         data = json.loads(result_text)
         
-        # Add Collection Time (Bangkok Time UTC+7 roughly, or just Server Time)
-        # Since user wants "Post Time", and this is "Trend Collection Time".
-        # We'll use simple datetime.now().strftime("%H:%M")
+        # Add Collection Time (Bangkok Time)
+        import pytz
         from datetime import datetime
-        now_str = datetime.now().strftime("%H:%M")
-        data['collected_at'] = now_str
+        bkk = pytz.timezone('Asia/Bangkok')
+        now_bkk = datetime.now(bkk)
+        
+        data['collected_at'] = now_bkk.strftime("%Y-%m-%d %H:%M:%S")
         
         return data
 
@@ -1113,29 +1162,102 @@ def fetch_hotel_candidates(hotel_name, city, api_key):
     Step 1: Search for potential hotels (Candidates).
     Returns: List of dicts [{'id':..., 'name':..., 'address':...}] or None
     """
-    search_query = f"{hotel_name} Hotel {city} Thailand"
+    # 1. Query Expansion (Removed forced 'Hotel' suffix)
+    # Why? 'Centara' + 'Hotel' -> strictly matches 'Centara Hotel' (budget branch),
+    # obscuring 'Centara Grand Mirage' (Resort).
+    # Google Places TextSearch handles "Brand in City" better without forced suffixes.
+    
+    hotel_name = hotel_name.strip()
+    
+    # 2. Construct Query
+    # Detect Korean to optimize query structure
+    import re
+    is_korean = bool(re.search(r'[가-힣]', hotel_name))
+    
+    if is_korean:
+         # 2-1. Brand Mapping (Korean -> English) for higher accuracy
+         # Google Maps works significantly better with English brand names.
+         brand_map = {
+             "센타라": "Centara",
+             "아마리": "Amari",
+             "힐튼": "Hilton",
+             "하얏트": "Hyatt",
+             "메리어트": "Marriott",
+             "쉐라톤": "Sheraton",
+             "홀리데이인": "Holiday Inn",
+             "아난타라": "Anantara",
+             "아바니": "Avani",
+             "두짓타니": "Dusit Thani",
+             "노보텔": "Novotel",
+             "르메르디앙": "Le Meridien",
+             "소피텔": "Sofitel",
+             "풀만": "Pullman",
+             "인터컨티넨탈": "InterContinental",
+             "반얀트리": "Banyan Tree",
+             "샹그릴라": "Shangri-La",
+             "켐핀스키": "Kempinski",
+             "카펠라": "Capella",
+             "포시즌스": "Four Seasons",
+             "세인트레지스": "St. Regis",
+             "더스탠다드": "The Standard"
+         }
+         
+         # Check if hotel_name starts with or contains a known brand
+         english_brand = None
+         for kr_brand, en_brand in brand_map.items():
+            if kr_brand in hotel_name:
+                # Replace Korean Brand with English Brand in the query
+                # e.g. "센타라" -> "Centara"
+                # e.g. "센타라 그랜드" -> "Centara 그랜드" (Mixed is fine, but pure English is best)
+                # Let's just switch to English mode if it's a pure brand query
+                if hotel_name.strip() == kr_brand:
+                    hotel_name = en_brand
+                    is_korean = False # Switch to English Logic
+                else:
+                    # Mixed case: "센타라 리조트" -> replace '센타라' with 'Centara'
+                    hotel_name = hotel_name.replace(kr_brand, en_brand)
+                    # Keep is_korean = True for now unless we are sure, 
+                    # but actually "Centara 리조트" is better searched as "Centara Resort" (English logic handles mixed okay?)
+                    # Let's try to trust the English Logic if we have English Name now.
+                    # Actually better to treat as English-ish if we injected English Brand.
+                    pass 
+                break
+    
+    if is_korean:
+         # Korean Fallback: Revert to Broad Search (No 'Hotel Resort' force)
+         # 'Hotel Resort' keyword excluded pure Hotels (e.g. Centara Nova).
+         # Broad search 'Name City Thailand' is safest for unmapped brands.
+         search_query = f"{hotel_name} {city} Thailand"
+    else:
+         # English (or Mapped English): Use 'in' logic
+         search_query = f"{hotel_name} in {city}, Thailand"
+    
     url = "https://places.googleapis.com/v1/places:searchText"
     headers = {
         "Content-Type": "application/json",
         "X-Goog-Api-Key": api_key,
         "X-Goog-FieldMask": "places.id,places.displayName,places.formattedAddress"
     }
-    payload = {"textQuery": search_query}
+    # Limit to 10 candidates
+    payload = {
+        "textQuery": search_query,
+        "maxResultCount": 20
+    }
     
     try:
         response = requests.post(url, json=payload, headers=headers)
         if response.status_code != 200:
-            st.error(f"🚨 API 호출 실패: {response.status_code} - {response.text}")
+            # st.error(f"🚨 API 호출 실패: {response.status_code}")
             return None
             
         data = response.json()
         
         if not data.get("places"):
-            return [] # Return empty list if no results
+            return [] 
             
-        # Extract meaningful candidates (up to 5)
+        # Extract meaningful candidates (Increased to 10)
         candidates = []
-        for p in data["places"][:5]:
+        for p in data["places"][:10]:
             candidates.append({
                 "id": p["id"],
                 "name": p.get("displayName", {}).get("text", "Unknown"),
@@ -1239,3 +1361,403 @@ def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
 
     except Exception as e:
         return {"error": str(e)}
+
+# --------------------------------------------------------------------------------
+# Infographic Generator (PIL based)
+# --------------------------------------------------------------------------------
+def ensure_font_loaded():
+    """
+    Downloads NanumGothic font if not present.
+    Returns path to font file.
+    """
+    FONT_URL = "https://github.com/google/fonts/raw/main/ofl/nanumgothic/NanumGothic-Bold.ttf"
+    FONT_PATH = "data/NanumGothic-Bold.ttf"
+    
+    if not os.path.exists(FONT_PATH):
+        try:
+            print("Downloading font for Infographic...")
+            import requests
+            r = requests.get(FONT_URL, timeout=10)
+            with open(FONT_PATH, 'wb') as f:
+                f.write(r.content)
+            print("Font downloaded.")
+        except Exception as e:
+            print(f"Font download failed: {e}")
+            return None # Fallback to default
+            
+    return FONT_PATH
+
+def prettify_infographic_text(category, items, api_key):
+    """
+    Uses Gemini to shorten news into 'Emoji + One-liner' format.
+    """
+    if not items: return []
+    
+    # Cost optimization: If API Key missing, just use titles
+    if not api_key:
+        return [f"📰 {item['title']}" for item in items[:3]]
+
+    import google.generativeai as genai
+    import json
+    
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    
+    # Simplified inputs
+    inputs = "\n".join([f"- {item['title']}" for item in items[:3]])
+    
+    prompt = f"""
+    Convert these 3 news headlines into a "Social Media Infographic" style (Korean).
+    Category: {category}
+    
+    Input:
+    {inputs}
+    
+    Goal: Return a JSON list of strings. Each string must start with a relevant Emoji and be very short (max 20 chars).
+    Example: ["🚨 시암 파라곤 총격 발생", "⛈️ 내일 방콕 홍수 주의", "🎉 송크란 축제 일정 발표"]
+    
+    Output JSON: {{ "lines": ["...", "...", "..."] }}
+    """
+    
+    try:
+        resp = model.generate_content(prompt)
+        text = resp.text.strip().replace("```json", "").replace("```", "")
+        if text.startswith("```"): text = text.replace("```", "")
+        data = json.loads(text)
+        return data.get("lines", [])
+    except:
+        # Fallback
+        return [f"📰 {item['title'][:18]}..." for item in items[:3]]
+
+def generate_category_infographic(category, items, date_str, api_key):
+    """
+    Generates a social media image for a specific category.
+    """
+    from PIL import Image, ImageDraw, ImageFont
+    import os
+    
+    # 1. Config Map (Color & Text)
+    # Categories: "정치/사회", "경제", "여행/관광", "사건/사고", "축제/이벤트", "기타"
+    theme_map = {
+        "정치/사회": {"color": (59, 130, 246), "bg_file": "assets/bg_politics.png", "title": "POLITICS & SOCIAL"}, # Blue
+        "경제": {"color": (34, 197, 94), "bg_file": "assets/bg_economy.png", "title": "ECONOMY"}, # Green
+        "여행/관광": {"color": (249, 115, 22), "bg_file": "assets/bg_travel.png", "title": "TRAVEL NEWS"}, # Orange
+        "사건/사고": {"color": (239, 68, 68), "bg_file": "assets/bg_safety.png", "title": "SAFETY ALERT"}, # Red
+        "축제/이벤트": {"color": (236, 72, 153), "bg_file": "assets/bg_travel.png", "title": "THAI EVENTS"}, # Pink
+        "기타": {"color": (107, 114, 128), "bg_file": "assets/template.png", "title": "DAILY NEWS"} # Gray
+    }
+    
+    theme = theme_map.get(category, theme_map["기타"])
+    
+    # 2. Get AI Content
+    lines = prettify_infographic_text(category, items, api_key)
+    if not lines: return None
+
+    # 3. Setup Canvas (1080x1080 Square for Instagram)
+    W, H = 1080, 1080
+    
+    # Background
+    if os.path.exists(theme['bg_file']):
+        img = Image.open(theme['bg_file']).convert("RGB")
+        img = img.resize((W, H))
+    else:
+        # Create solid color background with gradient-ish look (simple solid for now)
+        img = Image.new('RGB', (W, H), theme['color'])
+        # Add a subtle dark overlay for text contrast
+        overlay = Image.new('RGBA', (W, H), (0,0,0, 50))
+        img.paste(overlay, (0,0), mask=overlay)
+
+    draw = ImageDraw.Draw(img)
+    
+    # Fonts
+    font_path = ensure_font_loaded()
+    if not font_path:
+        # Emergency fallback (might fail on korean)
+        font_cat = ImageFont.load_default()
+        font_date = ImageFont.load_default()
+        font_body = ImageFont.load_default()
+        font_footer = ImageFont.load_default()
+    else:
+        font_cat = ImageFont.truetype(font_path, 60)
+        font_date = ImageFont.truetype(font_path, 40)
+        font_body = ImageFont.truetype(font_path, 55)
+        font_footer = ImageFont.truetype(font_path, 30)
+        
+    # Draw logic
+    # Header: Category Title (English) + Date
+    draw.text((80, 80), theme['title'], font=font_cat, fill="white")
+    draw.text((80, 160), date_str, font=font_date, fill=(255, 255, 255, 200)) # Alpha 200
+    
+    # Divider
+    draw.line((80, 230, 1000, 230), fill="white", width=4)
+    
+    # Body Content (Centered vertically-ish)
+    start_y = 350
+    gap = 120
+    
+    for i, line in enumerate(lines):
+        # Draw badge/bullet?
+        # Just text
+        draw.text((80, start_y + (i * gap)), line, font=font_body, fill="white")
+        
+    # Footer
+    draw.text((80, 1000), "🇹🇭 오늘의 태국 (Thai Briefing)", font=font_footer, fill=(255, 255, 255, 150))
+    
+# --------------------------------------------------------------------------------
+# Taxi Fare Calculator (Google Maps + Rush Hour Logic)
+# --------------------------------------------------------------------------------
+def get_route_estimates(origin, destination, api_key):
+    """
+    Get Distance & Duration using Google Routes API (Compute Routes v2).
+    Replaces legacy Directions API.
+    Returns: dist_km, dur_min, traffic_ratio, error_message
+    """
+    if not origin or not destination:
+        return None, None, None, "출발지와 목적지를 입력해주세요."
+        
+    endpoint = "https://routes.googleapis.com/directions/v2:computeRoutes"
+    
+    # Prepare Origin/Dest objects
+    def build_wp(val):
+        if val.startswith("place_id:"):
+            return {"placeId": val.split(":")[1]}
+        else:
+            return {"address": val}
+            
+    payload = {
+        "origin": build_wp(origin),
+        "destination": build_wp(destination),
+        "travelMode": "DRIVE",
+        "routingPreference": "TRAFFIC_AWARE", # Important for traffic data
+        "computeAlternativeRoutes": False,
+        "languageCode": "ko-KR",
+        "units": "METRIC"
+    }
+    
+    headers = {
+        "Content-Type": "application/json",
+        "X-Goog-Api-Key": api_key,
+        "X-Goog-FieldMask": "routes.distanceMeters,routes.duration,routes.staticDuration"
+    }
+    
+    try:
+        import requests
+        resp = requests.post(endpoint, json=payload, headers=headers, timeout=10)
+        data = resp.json()
+        
+        if resp.status_code == 200:
+            if not data.get("routes"):
+                return None, None, None, "경로를 찾을 수 없습니다."
+                
+            route = data["routes"][0]
+            
+            # Distance (meters)
+            dist_km = route.get("distanceMeters", 0) / 1000
+            
+            # Helper to parse "123s" string format
+            def parse_duration(dur_str):
+                if not dur_str: return 0
+                return int(dur_str.replace("s", ""))
+                
+            # Duration (Real-time with TRAFFIC_AWARE)
+            real_dur_sec = parse_duration(route.get("duration", "0s"))
+            # Static Duration (No traffic)
+            base_dur_sec = parse_duration(route.get("staticDuration", "0s"))
+            
+            dur_min = real_dur_sec / 60
+            
+            # Traffic Ratio
+            traffic_ratio = 1.0
+            if base_dur_sec > 0:
+                traffic_ratio = real_dur_sec / base_dur_sec
+            
+            return dist_km, dur_min, traffic_ratio, None
+            
+        else:
+            # API Error
+            err_details = data.get("error", {})
+            msg = err_details.get("message", "Unknown Error")
+            status = err_details.get("status", resp.status_code)
+            return None, None, None, f"Routes API 오류 ({status}): {msg}"
+            
+    except Exception as e:
+        return None, None, None, f"시스템 오류: {e}"
+
+def calculate_expert_fare(dist_km, dur_min, origin_txt="", dest_txt=""):
+    """
+    Calculates fair prices for various transport modes in Bangkok.
+    Now includes Rush Hour Logic & Hell Zone Detection.
+    
+    Args:
+        origin_txt (str): Name/Address of origin (for Hell Zone checking)
+        dest_txt (str): Name/Address of dest
+    """
+    from datetime import datetime, time
+    import pytz
+    
+    # 1. Check Rush Hour (Bangkok Time)
+    tz_bkk = pytz.timezone('Asia/Bangkok')
+    now_bkk = datetime.now(tz_bkk)
+    current_time = now_bkk.time()
+    
+    is_rush_hour = False
+    morning_start = time(7, 0)
+    morning_end = time(9, 30)
+    evening_start = time(16, 30)
+    evening_end = time(20, 0)
+    
+    if (morning_start <= current_time <= morning_end) or \
+       (evening_start <= current_time <= evening_end):
+        is_rush_hour = True
+        
+    # 2. Check Hell Zone (Traffic Hell)
+    hell_zones = ["Asok", "Sukhumvit", "Siam", "Sathorn", "Silom", "Thong Lo", "Phrom Phong"]
+    chk_str = (str(origin_txt) + " " + str(dest_txt)).lower()
+    is_hell_zone = any(z.lower() in chk_str for z in hell_zones)
+
+    # 3. Base Meter Calculation
+    # Note: 'dur_min' already includes traffic delay if Routes API works correclty.
+    base_meter = 35 + (dist_km * 7) + (dur_min * 2.5)
+    base_meter = int(base_meter)
+    
+    # 4. Multipliers
+    # Tuned down Rush Hour Multiplier (1.5 -> 1.25) based on user feedback
+    rush_mult = 1.25 if is_rush_hour else 1.0
+    tuktuk_rush_mult = 1.2 if is_rush_hour else 1.0
+    
+    # Hell Zone Surcharge (1.1x) if applicable
+    hell_mult = 1.1 if is_hell_zone else 1.0
+    
+    # Final App Multiplier (Combined)
+    total_app_mult = rush_mult * hell_mult
+
+    # Calculate raw prices
+    bolt_basic_raw = int(base_meter * 1.0 * total_app_mult)
+    bolt_std_raw = int(base_meter * 1.15 * total_app_mult)
+    grab_raw = int(base_meter * 1.25 * total_app_mult)
+    
+    # Grab Range (+- 10%)
+    grab_min = int(grab_raw * 0.9)
+    grab_max = int(grab_raw * 1.1)
+
+    # Bike Range (+- 10%)
+    bike_raw = 25 + (dist_km * 8)
+    bike_min = int(bike_raw * 0.9)
+    bike_max = int(bike_raw * 1.1)
+
+    fares = {
+        "bolt": {
+            "label": "⚡ Bolt (통합)",
+            "price": f"{bolt_basic_raw} ~ {bolt_std_raw}",
+            "tag": "차 잡기 힘듦" if not is_rush_hour else "매우 힘듦 (Surge)",
+            "color": "green" # Merged color
+        },
+        "grab_taxi": {
+            "label": "💚 GrabTaxi",
+            "price": f"{grab_min} ~ {grab_max}",
+            "tag": "안전/빠름" if not is_rush_hour else "매우 비쌈 (Surge)",
+            "color": "blue"
+        },
+        "bike": {
+            "label": "🏍️ 오토바이 (Win)",
+            "price": f"{bike_min} ~ {bike_max}",
+            "tag": "🚀 가장 빠름",
+            "color": "orange",
+            "warning_text": "⚠️ 사고 위험 높음 / 헬멧 필수 / 보험 확인"
+        },
+        "tuktuk": {
+            "label": "🛺 뚝뚝 (TukTuk)",
+            "tag": "협상 필수",
+            "color": "red",
+            "warning": True
+        }
+    }
+    
+    # Calc TukTuk Range
+    tt_min = int(base_meter * 1.5 * tuktuk_rush_mult) 
+    tt_max = int(base_meter * 2.0 * tuktuk_rush_mult)
+    fares['tuktuk']['price'] = f"{tt_min} ~ {tt_max}"
+    
+    # ---------------------------------------------------------
+    # 5. Intercity / Long Distance Logic (Flat Rate)
+    # ---------------------------------------------------------
+    is_intercity = False
+    intercity_tip = None
+    
+    # Check Keywords (Priority)
+    dest_lower = str(dest_txt).lower()
+    
+    flat_rates = {
+        "pattaya": {"range": (1100, 1400), "tip": "🚌 에까마이 터미널에서 버스 타면 약 131바트!"},
+        "hua hin": {"range": (2000, 2400), "tip": "🚆 기차나 미니밴을 이용하면 200~400바트!"},
+        "ayutthaya": {"range": (900, 1200), "tip": "🚆 기차(20바트~)나 미니밴을 추천합니다!"},
+        "suvarnabhumi": {"range": (400, 500), "tip": "🚆 공항철도(ARL)를 타면 시내까지 45바트 내외!"} # Airport special
+    }
+    
+    matched_zone = None
+    for key, data in flat_rates.items():
+        if key in dest_lower:
+            matched_zone = data
+            is_intercity = True
+            break
+            
+    # Generic Long Distance (> 60km)
+    if not matched_zone and dist_km >= 60:
+        is_intercity = True
+        # Formula: 1200 + ((dist - 100) * 10)
+        est_price = 1200 + ((dist_km - 100) * 10)
+        est_min = int(est_price * 0.9)
+        est_max = int(est_price * 1.1)
+        
+        matched_zone = {"range": (est_min, est_max), "tip": "🚌 장거리 이동은 버스/기차/미니밴 이용을 고려해보세요! (훨씬 저렴함)"}
+
+    if is_intercity and matched_zone:
+        r_min, r_max = matched_zone['range']
+        price_str = f"{r_min} ~ {r_max}"
+        intercity_tip = matched_zone['tip']
+        
+        # Override Fares
+        fares['bolt']['price'] = price_str
+        fares['grab_taxi']['price'] = price_str # Apps often follow market flat rates for long distance
+        fares['tuktuk']['price'] = "운행 불가" # Tuktuk highly unlikely
+        fares['bike']['price'] = "추천 안함"
+    
+    return base_meter, fares, is_rush_hour, is_hell_zone, intercity_tip
+
+def search_places(query, api_key):
+    """
+    Search using Google Places Autocomplete API for better partial matching.
+    Returns: {name, address, place_id}
+    """
+    if not query: return []
+    
+    # Use Autocomplete API as requested into order to support 'Top 10' predictions and 'components' filtering
+    endpoint = "https://maps.googleapis.com/maps/api/place/autocomplete/json"
+    params = {
+        "input": query,
+        "key": api_key,
+        "language": "ko",
+        "components": "country:TH" # Strict Thailand restriction
+    }
+    
+    try:
+        import requests
+        resp = requests.get(endpoint, params=params, timeout=5)
+        data = resp.json()
+        
+        candidates = []
+        if data.get('status') == 'OK':
+            for p in data.get('predictions', [])[:10]:
+                main_text = p.get('structured_formatting', {}).get('main_text', '')
+                sec_text = p.get('structured_formatting', {}).get('secondary_text', '')
+                full_text = p.get('description', '')
+                
+                candidates.append({
+                    "name": main_text if main_text else full_text,
+                    "address": sec_text,
+                    "place_id": p.get('place_id')
+                })
+        return candidates
+    except Exception as e:
+        print(f"Autocomplete Error: {e}")
+        return []
