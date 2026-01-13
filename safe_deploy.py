@@ -107,28 +107,28 @@ def main():
         print("Warning: git fetch failed. Check network.")
         return
 
-    # 2. Sync News
-    print("\n2. Syncing News Data...")
-    has_remote_news = False
-    try:
-        content = run_command("git show origin/main:data/news.json")
-        with open(REMOTE_NEWS_FILE, 'w', encoding='utf-8') as f:
-            f.write(content)
-        has_remote_news = True
-    except:
-        print("Remote news.json not found. Skipping.")
-
-    if has_remote_news:
-        local_news = load_json_generic(NEWS_FILE, dict)
-        remote_news = load_json_generic(REMOTE_NEWS_FILE, dict)
-        
-        merged_news, added_count = merge_news(local_news, remote_news)
-        
-        if added_count > 0:
-            print(f"✅ Restored {added_count} news articles from remote!")
-            save_json(NEWS_FILE, merged_news)
-        if os.path.exists(REMOTE_NEWS_FILE):
-             os.remove(REMOTE_NEWS_FILE)
+    # 2. Sync News (DISABLED: Moved to Google Sheets)
+    print("\n2. Syncing News Data... (Skipped - Data in Google Sheets)")
+    # has_remote_news = False
+    # try:
+    #     content = run_command("git show origin/main:data/news.json")
+    #     with open(REMOTE_NEWS_FILE, 'w', encoding='utf-8') as f:
+    #         f.write(content)
+    #     has_remote_news = True
+    # except:
+    #     print("Remote news.json not found. Skipping.")
+ 
+    # if has_remote_news:
+    #     local_news = load_json_generic(NEWS_FILE, dict)
+    #     remote_news = load_json_generic(REMOTE_NEWS_FILE, dict)
+    #     
+    #     merged_news, added_count = merge_news(local_news, remote_news)
+    #     
+    #     if added_count > 0:
+    #         print(f"✅ Restored {added_count} news articles from remote!")
+    #         save_json(NEWS_FILE, merged_news)
+    #     if os.path.exists(REMOTE_NEWS_FILE):
+    #          os.remove(REMOTE_NEWS_FILE)
 
     # 3. Sync Events
     print("\n3. Syncing Events Data...")

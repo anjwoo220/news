@@ -286,8 +286,8 @@ st.markdown("""
 # Separate cache for heavy news data
 # Update cache on file change by passing mtime is obsoleted by Google Sheets TTL
 @st.cache_data(ttl=600)  # Short TTL for now to ensure freshness
-def load_news_data(last_updated):
-    # Use GSheets instead of JSON file
+def load_news_data():
+    # Use GSheets instead of JSON file (JSON parsing fixed)
     return load_news_from_sheet()
 
 # --- Cached Wrappers for API Calls ---
@@ -565,7 +565,7 @@ def load_board_data():
     Sorted by 'created_at' descending (Latest first).
     """
     try:
-        conn = st.connection("gsheets", type=GSheetsConnection)
+        conn = st.connection("gsheets_board", type=GSheetsConnection)
         df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0) # ttl=0 for fresh data
         # Check if df is empty
         if df.empty:
@@ -593,7 +593,7 @@ def save_board_post(nickname, content, password):
     Append a new row to Google Sheets using Update (Read -> Concat -> Update).
     """
     try:
-        conn = st.connection("gsheets", type=GSheetsConnection)
+        conn = st.connection("gsheets_board", type=GSheetsConnection)
         existing_df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
         
         new_row = pd.DataFrame([{
@@ -621,7 +621,7 @@ def admin_update_board_post(created_at, new_nickname, new_content):
     Admin: Update nickname/content of a post by created_at.
     """
     try:
-        conn = st.connection("gsheets", type=GSheetsConnection)
+        conn = st.connection("gsheets_board", type=GSheetsConnection)
         df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
         
         if df.empty: return False
@@ -650,7 +650,7 @@ def delete_board_post(created_at, password):
     Note: 'created_at' is used as a unique ID here effectively.
     """
     try:
-        conn = st.connection("gsheets", type=GSheetsConnection)
+        conn = st.connection("gsheets_board", type=GSheetsConnection)
         df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
         
         if df.empty:
@@ -679,7 +679,7 @@ def admin_delete_board_post(created_at):
     Admin delete (no password check).
     """
     try:
-        conn = st.connection("gsheets", type=GSheetsConnection)
+        conn = st.connection("gsheets_board", type=GSheetsConnection)
         df = conn.read(spreadsheet="https://docs.google.com/spreadsheets/d/1335tHFQH7wtp_CGsPcrKsf3525Bmf9mz-O6D3NtITWc/edit?usp=sharing", worksheet=0, ttl=0)
         
         if df.empty: return False
@@ -827,7 +827,7 @@ if app_mode == "Admin Console":
             
             st.divider()
             try:
-                news_data = load_news_data(0)
+                news_data = load_news_data()
             except Exception as e:
                 st.error(f"뉴스 로드 실패: {e}")
                 news_data = {}
@@ -1565,8 +1565,8 @@ if app_mode == "Admin Console":
             st.subheader("🎨 오늘의 뉴스 인포그래픽 생성")
             st.info("오늘 수집된 뉴스를 바탕으로 인스타그램용 요약 이미지를 생성합니다.")
             
-            # 1. Date Select
-            news_data = load_json(NEWS_FILE)
+            # Load News Data
+            news_data = load_news_data()
             avail_dates = sorted(news_data.keys(), reverse=True)
             if not avail_dates:
                 st.warning("데이터 없음")
@@ -2074,11 +2074,7 @@ else:
         # --- Mobile Nav & Date Selection (Expander) ---
     
         # Data Loading (Moved up for init logic)
-        try:
-            mtime = os.path.getmtime(NEWS_FILE)
-        except:
-            mtime = 0
-        news_data = load_news_data(mtime)
+        news_data = load_news_data()
     
         # Calculate Valid Dates & Latest
         all_dates_str = sorted(news_data.keys())
@@ -2225,8 +2221,17 @@ else:
                 share_text = f"[🇹🇭 태국 뉴스룸 브리핑 - {header_text}]\n\n"
                 for idx, item in enumerate(topics_to_show):
                     share_text += f"{idx+1}. {item['title']}\n"
-                    share_text += f"- {item['summary'][:60]}...\n\n"
-                share_text += f"👉 더 보기: {DEPLOY_URL}"
+                    
+                    # Safe Reference URL
+                    ref_url = "#"
+                    refs = item.get('references')
+                    if isinstance(refs, list) and refs:
+                        ref_url = refs[0].get('url', '#')
+                    elif isinstance(refs, str) and (refs.startswith('http') or refs.startswith('www')):
+                         ref_url = refs
+                    
+                    share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
+                share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
                 st.code(share_text, language="text")
 
         # --- Main Content Render ---
@@ -2271,16 +2276,41 @@ else:
                     st.markdown(full_text)
             
                 with st.expander("🔗 관련 기사 & 공유"):
+                     # Safe Refs Logic
+                     refs = topic.get('references', [])
+                     if isinstance(refs, str):
+                         # If it's a string, it might be a JSON string or a direct URL
+                         if refs.startswith("[") or refs.startswith("{"):
+                             try:
+                                 import json
+                                 refs = json.loads(refs)
+                             except:
+                                 refs = []
+                         elif refs.startswith("http"):
+                             refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
+                         else:
+                             refs = []
+                     
+                     if not isinstance(refs, list):
+                         refs = []
+
+                     # Link for Share Text
+                     ref_url = "#"
+                     if refs and isinstance(refs[0], dict):
+                         ref_url = refs[0].get('url', '#')
+                         
                      # Individual Share
-                     ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {topic.get('references', [{'url':'#'}])[0].get('url')}\n🌐 뉴스룸: {DEPLOY_URL}"
+                     ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
                      st.code(ind_share, language="text")
                      st.markdown("---")
-                     # Links
-                     for ref in topic.get('references', []):
-                        title = ref.get('title', 'No Title')
-                        url = ref.get('url', '#')
-                        source = ref.get('source', 'Unknown Source')
-                        st.markdown(f"- [{title}]({url}) - *{source}*")
+                     
+                     # Render Links
+                     for ref in refs:
+                        if isinstance(ref, dict):
+                            title = ref.get('title', 'No Title')
+                            url = ref.get('url', '#')
+                            source = ref.get('source', 'Unknown Source')
+                            st.markdown(f"- [{title}]({url}) - *{source}*")
 
 
                 # Comments

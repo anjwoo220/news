@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 from streamlit_gsheets import GSheetsConnection
+import json
 from datetime import datetime
 
 # Connection Helper
@@ -11,7 +12,7 @@ def get_db_connection():
     Uses 'gsheets' connection name defined in secrets.toml.
     """
     try:
-        conn = st.connection("gsheets", type=GSheetsConnection)
+        conn = st.connection("gsheets_news", type=GSheetsConnection)
         return conn
     except Exception as e:
         print(f"DB Connection Error: {e}")
@@ -55,6 +56,17 @@ def load_news_from_sheet(worksheet="news"):
             
             # Clean up NaN values in item
             clean_item = {k: (v if not pd.isna(v) else "") for k, v in item.items()}
+
+            # Parse JSON fields if they are strings (GSHEETS stores list/dict as string)
+            for field in ['references', 'related_topics']:
+                if field in clean_item and isinstance(clean_item[field], str):
+                     # Simple check if it looks like JSON list
+                    if clean_item[field].startswith('[') or clean_item[field].startswith('{'):
+                        try:
+                            clean_item[field] = json.loads(clean_item[field])
+                        except:
+                            pass # Keep as string if parse fails or empty
+
             news_by_date[date_str].append(clean_item)
             
         return news_by_date
