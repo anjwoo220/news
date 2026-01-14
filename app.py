@@ -2845,7 +2845,7 @@ else:
                     st.warning("식당 이름을 입력해주세요.")
                 else:
                     with st.spinner("🔍 웡나이에서 맛집 찾는 중..."):
-                        w_url = utils.search_wongnai_restaurant(w_name)
+                        w_url = utils.search_wongnai_restaurant(w_name, gemini_key)
                         
                         if not w_url:
                             st.error("Wongnai에서 해당 식당을 찾을 수 없습니다. 이름을 더 자세히 입력해보세요.")

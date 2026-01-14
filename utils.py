@@ -1853,20 +1853,43 @@ def search_places(query, api_key):
 # --------------------------------------------------------------------------------
 # Wongnai Restaurant Analyzer
 # --------------------------------------------------------------------------------
-def search_wongnai_restaurant(restaurant_name):
+def search_wongnai_restaurant(restaurant_name, api_key=None):
     """
     Search for a restaurant on Wongnai using Google search.
+    Tries multiple query patterns and falls back to Gemini if needed.
     """
-    query = f"site:wongnai.com {restaurant_name}"
+    # 1. Try traditional search (might be throttled)
+    queries = [
+        f"site:wongnai.com {restaurant_name}",
+        f"wongnai {restaurant_name}"
+    ]
+    
     try:
-        # Use googlesearch-python
-        results = googlesearch.search(query, num_results=1)
-        for url in results:
-            if "wongnai.com/restaurants/" in url:
+        found_url = None
+        for query in queries:
+            results = googlesearch.search(query, num_results=3)
+            for url in results:
+                if "wongnai.com/restaurants/" in url or "wongnai.com/r/" in url:
+                    found_url = url
+                    break
+            if found_url: break
+        
+        if found_url: return found_url
+        
+        # 2. Fallback to Gemini Search (Very robust)
+        if api_key:
+            genai.configure(api_key=api_key)
+            model = genai.GenerativeModel('gemini-1.5-flash')
+            prompt = f"Find the Wongnai restaurant URL for: {restaurant_name}. Return ONLY the direct URL starting with https://www.wongnai.com/restaurants/ or https://www.wongnai.com/r/"
+            response = model.generate_content(prompt)
+            url = response.text.strip().split()[0] # Take first word (URL)
+            if "wongnai.com" in url:
                 return url
+        
         return None
     except Exception as e:
         print(f"Wongnai search error: {e}")
+        # Even if search fails, try one last Gemini attempt if possible
         return None
 
 def scrape_wongnai_restaurant(url):
