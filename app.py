@@ -1968,7 +1968,9 @@ else:
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
     # [MOD] Conditionally hide Wongnai for Production deployment
-    is_prod = st.secrets.get("DEPLOY_ENV") == "prod"
+    # Check both Secrets and file-path heuristic for robustness
+    is_prod = (st.secrets.get("DEPLOY_ENV") == "prod") or (not os.path.abspath(__file__).startswith("/Users/jaewoo/"))
+    
     if is_prod:
         nav_options = ["📰 뉴스 브리핑", "🚕 택시 요금", "🏨 호텔 팩트체크", "🗣️ 게시판"]
     else:
