@@ -49,6 +49,13 @@ st.set_page_config(
     }
 )
 
+# --- API Keys Configuration ---
+# Google Maps API Key
+google_maps_key = os.environ.get("GOOGLE_MAPS_API_KEY") or st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
+
+# Gemini API Key
+gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+
 # --- Agoda Partner Verification ---
 st.markdown('<meta name="agd-partner-manual-verification" />', unsafe_allow_html=True)
 
@@ -920,7 +927,7 @@ if app_mode == "Admin Console":
                          
                          st.divider()
                          st.info("Gemini 분석 시작...")
-                         gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+                         # Using global gemini_key
                          analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
                          st.json(analysis)
 
@@ -2579,8 +2586,8 @@ else:
         st.caption("광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.")
         
         # 1. Search Input
-        api_key = st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
-        gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+        # Using global keys
+        api_key = google_maps_key
 
         # State Helpers
         def clear_hotel_cands():
@@ -2831,7 +2838,7 @@ else:
 
     # --- Page 4: Wongnai Restaurant Fact Check ---
     elif page_mode == "🍱 맛집 팩트체크":
-        gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+        # Using global gemini_key
         st.markdown(f"### 🍱 웡나이(Wongnai) 맛집 팩트체크")
         st.write("로컬 맛집 사이트 'Wongnai'의 생생한 리뷰를 AI가 분석해드립니다.")
         
