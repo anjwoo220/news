@@ -1854,6 +1854,58 @@ else:
             [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stMarkdown a {
                  color: #4da6ff !important;
             }
+
+            /* --- NEW GLOBAL DARK MODE VISIBILITY FIXES --- */
+            
+            /* A. Widget Labels & Help Text */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stWidgetLabel"] label p,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stWidgetLabel"] p {
+                color: white !important;
+            }
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stSelectbox label, 
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stMultiSelect label,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stTextInput label,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stNumberInput label,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stDateInput label {
+                color: white !important;
+            }
+
+            /* B. Bordered Containers & Vertical Blocks */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stVerticalBlockBorder"] {
+                background-color: #1a1c24 !important;
+                border: 1px solid #333 !important;
+                padding: 15px !important;
+                border-radius: 10px !important;
+            }
+            
+            /* C. Metric Labels & Values */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stMetricLabel"] p,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stMetricValue"] div {
+                color: white !important;
+            }
+
+            /* D. General Text Inheritance */
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) p,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) span,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) strong,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h1,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h2,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h3,
+            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h4 {
+                color: #FAFAFA !important;
+            }
+            
+            /* E. Special Fix for Info/Success/Warning/Error text in Dark Mode */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stAlert"] p,
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stAlert"] li {
+                color: white !important;
+            }
+
+            /* F. Caption Fix (gray text in dark mode) */
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stCaptionContainer"] {
+                color: #A0A0A0 !important;
+            }
         </style>
     """, unsafe_allow_html=True)
 
