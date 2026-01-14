@@ -1,4 +1,5 @@
 import feedparser
+import googlesearch
 import google.generativeai as genai
 from datetime import datetime, timedelta
 import time
@@ -1848,3 +1849,124 @@ def search_places(query, api_key):
     except Exception as e:
         print(f"Autocomplete Error: {e}")
         return []
+
+# --------------------------------------------------------------------------------
+# Wongnai Restaurant Analyzer
+# --------------------------------------------------------------------------------
+def search_wongnai_restaurant(restaurant_name):
+    """
+    Search for a restaurant on Wongnai using Google search.
+    """
+    query = f"site:wongnai.com {restaurant_name}"
+    try:
+        # Use googlesearch-python
+        results = googlesearch.search(query, num_results=1)
+        for url in results:
+            if "wongnai.com/restaurants/" in url:
+                return url
+        return None
+    except Exception as e:
+        print(f"Wongnai search error: {e}")
+        return None
+
+def scrape_wongnai_restaurant(url):
+    """
+    Scrape restaurant data from a Wongnai URL.
+    """
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+    }
+    try:
+        response = requests.get(url, headers=headers, timeout=10)
+        if response.status_code != 200:
+            return {"error": f"현시점 웡나이 접속이 원활하지 않습니다 (Code: {response.status_code})"}
+
+        soup = BeautifulSoup(response.text, 'html.parser')
+        
+        # 1. Name (Wongnai uses dynamic classes sometimes, but h1 is fairly stable)
+        name_tag = soup.find('h1')
+        name = name_tag.get_text(strip=True) if name_tag else "Unknown Restaurant"
+        
+        # 2. Score
+        # Typically in a span or div with specific class patterns
+        score_tag = soup.find(string=re.compile(r'^\d\.\d$')) # Looks for "4.5" etc.
+        score = score_tag.strip() if score_tag else "데이터 없음"
+        
+        # 3. Price
+        price_tag = soup.find(string=re.compile(r'^[฿]+$')) # Looks for "฿฿", "฿฿฿"
+        price = price_tag.strip() if price_tag else "데이터 없음"
+        
+        # 4. Photo
+        # Find first large image
+        photo_url = None
+        img_tags = soup.find_all('img')
+        for img in img_tags:
+            src = img.get('src', '')
+            if 'wongnai.com' in src and '/static2/' not in src: # Avoid icons/loaders
+                photo_url = src
+                break
+        
+        # 5. Reviews
+        reviews = []
+        # Wongnai reviews are often in complex structures
+        # We try to grab text blocks that look like reviews
+        review_texts = soup.find_all(['p', 'span', 'div'], string=re.compile(r'.{20,}'))
+        count = 0
+        for rt in review_texts:
+            text = rt.get_text(strip=True)
+            if len(text) > 40 and count < 10:
+                reviews.append(text)
+                count += 1
+            
+        return {
+            "name": name,
+            "score": score,
+            "price": price,
+            "photo_url": photo_url,
+            "reviews": reviews,
+            "url": url
+        }
+    except Exception as e:
+        return {"error": f"데이터 수집 중 오류: {str(e)}"}
+
+def analyze_wongnai_data(restaurant_data, api_key):
+    """
+    Analyze Wongnai data using Gemini AI.
+    """
+    if "error" in restaurant_data:
+        return restaurant_data
+
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel('gemini-2.0-flash')
+
+    reviews_text = "\n".join([f"- {r[:200]}..." for r in restaurant_data['reviews']])
+    
+    prompt = f"""
+    태국 현지인 맛집 사이트 'Wongnai'의 데이터를 기반으로 이 식당을 한국인 여행객 관점에서 분석해줘.
+
+    [식당 정보]
+    - 이름: {restaurant_data['name']}
+    - 웡나이 별점: {restaurant_data['score']}
+    - 태국 현지 가격대: {restaurant_data['price']}
+    
+    [현지 리뷰 데이터 요약]
+    {reviews_text}
+
+    [분석 결과 필수 포함 사항 (한국어로 작성)]:
+    1. ⭐ 현지인 별점 분위기 (점수가 높은지, 로컬 사람들에게 인기 있는 곳인지)
+    2. 🍽️ 추천 메뉴 (리뷰에서 가장 많이 칭찬받는 음식 또는 대표 메뉴)
+    3. 🇰🇷 한국인 입맛 적합도 (맵기, 향신료 강도, 한국인이 좋아할 만한 포인트)
+    4. 💰 체감 물가 (태국 로컬 물가 대비 어느 정도 수준인지)
+    5. 🚫 주의사항 (웨이팅 여부, 위치적 특징, 서비스 관련 지적 등)
+
+    친절하고 신뢰감 있는 말투로 요약해서 답변해줘. 마크다운 형식을 사용하여 가독성 있게 작성할 것.
+    """
+    
+    try:
+        response = model.generate_content(prompt)
+        return {
+            "summary": response.text,
+            "info": restaurant_data
+        }
+    except Exception as e:
+        return {"error": f"Gemini 분석 실패: {e}"}

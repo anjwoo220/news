@@ -148,15 +148,15 @@ st.markdown("""
             width: 100% !important;
             background-color: white !important;
             z-index: 99999 !important;
-            padding: 5px 5px 5px 5px !important;
-            padding-top: env(safe-area-inset-top) !important; /* 아이폰 노치 영역 확보 */
+            padding: 5px !important;
+            padding-top: env(safe-area-inset-top) !important;
             border-bottom: 1px solid #e0e0e0 !important;
             margin: 0 !important;
             display: flex !important;
             flex-direction: row !important;
-            flex-wrap: nowrap !important;
+            flex-wrap: wrap !important; /* Allow 2 rows */
             align-items: center !important;
-            justify-content: space-between !important;
+            justify-content: space-around !important;
         }
 
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) > div {
@@ -182,14 +182,13 @@ st.markdown("""
             color: #FF4B4B !important;
         }
 
-        /* Pad content TOP to avoid hiding behind nav */
-        /* Remove extra bottom padding */
+        /* Pad content TOP to avoid hiding behind nav (Increased for 2 rows) */
         .main .block-container {
-            padding-top: 80px !important; 
+            padding-top: 110px !important; 
             padding-bottom: 50px !important;
         }
         .stApp {
-            padding-top: 80px !important;
+            padding-top: 110px !important;
         }
         
         /* Pagination Row Fixes */
@@ -1947,6 +1946,9 @@ else:
     # Init Session State for Nav
     if "nav_mode" not in st.session_state:
         st.session_state["nav_mode"] = "📰 뉴스 브리핑"
+    
+    if "wongnai_result" not in st.session_state:
+        st.session_state["wongnai_result"] = None
 
     # Callbacks to keep them in sync
     def update_from_sidebar():
@@ -1957,7 +1959,7 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "🚕 택시/뚝뚝 요금 판독기", "🏨 호텔 팩트체크", "🗣️ 게시판"]
+    nav_options = ["📰 뉴스 브리핑", "🚕 택시 요금", "🏨 호텔 팩트체크", "🍱 맛집 팩트체크", "🗣️ 게시판"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -2009,8 +2011,8 @@ else:
         st.radio("이동", nav_options, 
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
-    # 3. Bottom Navigation (Mobile Only via CSS)
-    b_col1, b_col2, b_col3, b_col4 = st.columns(4)
+    # 3. Navigation Bar (Mobile Only via CSS)
+    b_col1, b_col2, b_col3, b_col4, b_col5 = st.columns(5)
     
     with b_col1:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
@@ -2019,8 +2021,8 @@ else:
             st.rerun()
     with b_col2:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("🚕호갱방지", key="btn_nav_events", use_container_width=True):
-            st.session_state["nav_mode"] = "🚕 택시/뚝뚝 요금 판독기"
+        if st.button("🚕 요금", key="btn_nav_taxi", use_container_width=True):
+            st.session_state["nav_mode"] = "🚕 택시 요금"
             st.rerun()
     with b_col3:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
@@ -2028,6 +2030,11 @@ else:
             st.session_state["nav_mode"] = "🏨 호텔 팩트체크"
             st.rerun()
     with b_col4:
+        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+        if st.button("🍱 맛집", key="btn_nav_wongnai", use_container_width=True):
+            st.session_state["nav_mode"] = "🍱 맛집 팩트체크"
+            st.rerun()
+    with b_col5:
         st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
         if st.button("🗣️ 게시판", key="btn_nav_board", use_container_width=True):
             st.session_state["nav_mode"] = "🗣️ 게시판"
@@ -2822,7 +2829,69 @@ else:
                         hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
 
 
-    # --- Page 4: Community Board ---
+    # --- Page 4: Wongnai Restaurant Fact Check ---
+    elif page_mode == "🍱 맛집 팩트체크":
+        st.markdown(f"### 🍱 웡나이(Wongnai) 맛집 팩트체크")
+        st.write("로컬 맛집 사이트 'Wongnai'의 생생한 리뷰를 AI가 분석해드립니다.")
+        
+        container = st.container(border=True)
+        with container:
+            w_name = st.text_input("식당 이름 (영어 또는 태국어)", placeholder="예: Jeh O Chula, Hilton Breakfast", key="wongnai_input")
+            
+            search_btn = st.button("🔍 웡나이 분석 시작", key="btn_w_search", type="primary", use_container_width=True)
+            
+            if search_btn:
+                if not w_name:
+                    st.warning("식당 이름을 입력해주세요.")
+                else:
+                    with st.spinner("🔍 웡나이에서 맛집 찾는 중..."):
+                        w_url = utils.search_wongnai_restaurant(w_name)
+                        
+                        if not w_url:
+                            st.error("Wongnai에서 해당 식당을 찾을 수 없습니다. 이름을 더 자세히 입력해보세요.")
+                        else:
+                            with st.spinner("🇹🇭 태국어 리뷰 수집 및 번역 중..."):
+                                raw_data = utils.scrape_wongnai_restaurant(w_url)
+                                if "error" in raw_data:
+                                    st.error(raw_data["error"])
+                                else:
+                                    # Analyze with Gemini
+                                    analysis = utils.analyze_wongnai_data(raw_data, gemini_key)
+                                    st.session_state["wongnai_result"] = analysis
+
+        # Display Result
+        res = st.session_state.get("wongnai_result")
+        if res:
+            if "error" in res:
+                st.error(res["error"])
+            else:
+                info = res["info"]
+                summary = res["summary"]
+                
+                st.markdown("---")
+                
+                # Restaurant Card
+                r_col1, r_col2 = st.columns([1, 2])
+                with r_col1:
+                    if info.get('photo_url'):
+                        st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                    else:
+                        st.info("이미지 없음")
+                        
+                with r_col2:
+                    st.subheader(f"{info['name']}")
+                    st.markdown(f"⭐ **별점**: {info['score']} | 💰 **가격대**: {info['price']}")
+                    st.markdown(f"🔗 [Wongnai 원문 보기]({info['url']})")
+                
+                # AI Summary
+                st.markdown("#### 🤖 Gemini AI 로컬 리뷰 분석")
+                st.write(summary)
+                
+                if st.button("🗑️ 결과 지우기", key="btn_clear_w"):
+                    st.session_state["wongnai_result"] = None
+                    st.rerun()
+
+    # --- Page 5: Community Board ---
     elif page_mode == "🗣️ 게시판":
         st.markdown("### 🗣️ 여행자 수다방")
         st.caption("여행 팁, 질문, 건의사항 등 자유롭게 이야기를 나눠보세요!")

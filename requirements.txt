@@ -7,4 +7,4 @@ beautifulsoup4
 plotly
 pandas
 st-gsheets-connection
-
+googlesearch-python
