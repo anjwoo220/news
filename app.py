@@ -2831,6 +2831,7 @@ else:
 
     # --- Page 4: Wongnai Restaurant Fact Check ---
     elif page_mode == "🍱 맛집 팩트체크":
+        gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
         st.markdown(f"### 🍱 웡나이(Wongnai) 맛집 팩트체크")
         st.write("로컬 맛집 사이트 'Wongnai'의 생생한 리뷰를 AI가 분석해드립니다.")
         
