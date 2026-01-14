@@ -1,6 +1,6 @@
 {
-  "topic": "#ทวิตล่ม",
-  "reason": "트위터가 다운되었으니 다른 소통 수단을 사용하세요. (Twitter가 다운되었으니 다른 소통 수단을 사용하세요.)",
-  "severity": "info",
-  "collected_at": "2026-01-14 06:35:35"
+  "topic": "THE FIRE Q8 SHOOTING",
+  "reason": "총격 사건으로 인해 Q8 지역 주변이 위험할 수 있으니 주의하세요.",
+  "severity": "warning",
+  "collected_at": "2026-01-14 11:12:42"
 }

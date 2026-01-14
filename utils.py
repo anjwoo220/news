@@ -297,87 +297,88 @@ def fetch_full_content(url):
         # print(f"Error scraping {url}: {e}")
         return None
 
-def analyze_news_with_gemini(news_items, api_key):
+def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_time=None):
     if not news_items:
         return {}, "No news items to analyze."
         
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash-exp')
     
-    # Analyze ALL provided items (Filtering happens based on score later)
-    # Limit max just in case (e.g. 10)
+    # Analyze ALL provided items
     limited_news_items = news_items[:10] 
     
     aggregated_topics = []
     total_items = len(limited_news_items)
     print(f"Starting sequential analysis for {total_items} items...")
 
+    # Format existing titles for context
+    existing_context = "\n".join([f"- {t}" for t in (existing_titles or [])[:15]])
+
     for idx, item in enumerate(limited_news_items):
         print(f"[{idx+1}/{total_items}] Processing: {item['title']}...")
         
-        # 1. Try to get FULL content
         full_content = fetch_full_content(item['link'])
-        
         if not full_content:
-            print("   -> Scraping failed/empty, falling back to summary.")
             full_content = clean_html(item['summary'])[:800]
-        else:
-            print(f"   -> Scraped full content ({len(full_content)} chars).")
 
-        # Single Item Prompt
+        # New Context-Aware Prompt
         prompt = f"""
-        당신은 태국 방콕에 주재하는 '베테랑 한국 특파원'입니다.
-        입력된 기사를 분석하여 한국 여행자에게 필요한 정보를 추출하고 중요도를 평가하세요.
+# Role
+당신은 태국 방콕을 여행하는 한국인 여행자를 위한 '실시간 뉴스 큐레이터'입니다.
+현재 시각은 {current_time or '알 수 없음'} 이며, 아침/저녁 브리핑을 위해 뉴스를 선별 중입니다.
 
-        [기사 정보]
-        - Title: {item['title']}
-        - Source: {item['source']}
-        - Link: {item['link']}
-        
-        [기사 본문]
-        {full_content}
+# Task
+입력된 뉴스 기사들을 분석하여 여행자에게 필요한 정보를 선별하고 요약하세요.
+이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
 
-        [작성 요구사항]
-        1. **Tourist Impact Score (중요도 평가):** (1~10점)
-           - **7~10점 (필수):** 여행객 안전 위협(시위, 홍수, 범죄), 비자/입국 규정 변경, 대형 축제, 공항 혼잡.
-           - **4~6점 (보통):** 새로운 핫플, 일반적인 날씨, 소소한 규제, 흥미로운 로컬 뉴스.
-           - **1~3점 (무시):** 단순 정치 싸움, 연예인 가십, 여행과 무관한 지역 사회 뉴스.
-        
-        2. **헤드라인 & 요약 (Strict Format):** 
-           - **반드시 '3줄 요약' (Bullet Point) 형식**으로 작성하세요. (각 줄은 '- '로 시작)
-           - 한국인이 관심 가질만한 핵심 내용만 간결하게 포함하세요.
-           - **주의:** '중요도 점수'나 '여행객 영향'에 대한 메타 설명은 요약문에 절대 포함하지 마세요. (별도 필드 이용)
+# Input Data
+1. **Candidate News:** 
+   - Title: {item['title']}
+   - Source: {item['source']}
+   - Content Snippet: {full_content[:1500]}
+2. **Existing News (최근 24시간 내 이미 게시된 기사들):**
+{existing_context}
 
-        3. **분류:** ["정치/사회", "경제", "여행/관광", "축제/이벤트", "사건/사고", "엔터테인먼트", "기타"]
-           - 날씨/홍수는 무조건 '여행/관광' 또는 Safety 이슈면 '사건/사고'.
-        
-        4. **이벤트 상세 (만약 '축제/이벤트'라면):**
-           - 장소, 날짜, 가격을 명확히 추출. 불확실하면 null.
-           - `location_google_map_query`: 구글 맵 영어 검색어.
+# 🔍 Filtering & Scoring Logic (3-Step)
 
-        [출력 포맷 (JSON Only)]
-        {{
-          "topics": [
-            {{
-              "title": "기사 제목",
-              "summary": "3줄 요약",
-              "full_translated": "기사 전문 (Markdown)",
-              "category": "카테고리",
-              "tourist_impact_score": 0,  // Integer
-              "impact_reason": "점수 부여 사유",
-              "event_info": {{
-                  "date": "YYYY-MM-DD or Range",
-                  "location": "...", 
-                  "price": "...",
-                  "location_google_map_query": "..."
-              }},
-              "references": [
-                {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
-              ]
-            }}
-          ]
-        }}
-        """
+## Step 1: '업데이트' 여부 판단 (Context Check)
+기존 뉴스(Existing News)와 주제가 비슷하더라도, 아래 경우에는 **'새로운 뉴스'**로 취급하세요.
+- **시간 경과:** 사건의 진행 상황이 변한 경우 (예: 시위 발생 -> 시위 해산, 사고 발생 -> 사상자 집계 완료)
+- **일일 브리핑:** 날씨, 미세먼지(PM2.5), 환율 등 매일 변하는 수치는 어제와 제목이 비슷해도 **오늘 날짜 데이터라면 필수 게시(Score +3)**.
+- **아침/저녁:** 'Morning Briefing' 또는 'Daily Update' 성격의 기사는 우선순위를 높임.
+
+## Step 2: Scoring (1~10점)
+- **7~10점 (필수):** 여행객 안전 위협(시위, 홍수, 범죄), 비자/입국 규정 변경, 대형 축제, 공항 혼잡.
+- **4~6점 (보통):** 새로운 핫플, 일반적인 날씨, 소소한 규제, 흥미로운 로컬 뉴스.
+- **1~3점 (무시):** 단순 정치 싸움, 연예인 가십, 여행과 무관한 뉴스.
+
+# Constraints
+- 이미 게시된 뉴스와 **내용이 100% 동일하면 제외**하세요.
+- 하지만 **'상황이 업데이트' 되었다면 반드시 포함**하세요.
+- 아침에는 '오늘의 예보/예정' 위주, 저녁에는 '오늘 발생한 사건/결과' 위주로 가중치를 두세요.
+
+# Output Format (JSON Only)
+{{
+  "topics": [
+    {{
+      "title": "기사 제목",
+      "summary": "핵심 3줄 요약 (- 로 시작)",
+      "full_translated": "기사 전문 (Markdown)",
+      "category": "카테고리",
+      "tourist_impact_score": 0,
+      "impact_reason": "점수 부여 및 업데이트 판단 근거",
+      "event_info": {{
+          "date": "YYYY-MM-DD",
+          "location": "...", 
+          "price": "...",
+          "location_google_map_query": "..."
+      }},
+      "references": [
+        {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
+      ]
+    }}
+  ]
+}}
+"""
         
         # Retry Logic with Safety Limits
         max_retries = 3

@@ -155,15 +155,15 @@ st.markdown("""
             width: 100% !important;
             background-color: white !important;
             z-index: 99999 !important;
-            padding: 5px 5px 5px 5px !important;
-            padding-top: env(safe-area-inset-top) !important; /* 아이폰 노치 영역 확보 */
+            padding: 5px !important;
+            padding-top: env(safe-area-inset-top) !important;
             border-bottom: 1px solid #e0e0e0 !important;
             margin: 0 !important;
             display: flex !important;
             flex-direction: row !important;
-            flex-wrap: nowrap !important;
+            flex-wrap: wrap !important; /* Allow 2 rows */
             align-items: center !important;
-            justify-content: space-between !important;
+            justify-content: space-around !important;
         }
 
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) > div {
@@ -189,14 +189,13 @@ st.markdown("""
             color: #FF4B4B !important;
         }
 
-        /* Pad content TOP to avoid hiding behind nav */
-        /* Remove extra bottom padding */
+        /* Pad content TOP to avoid hiding behind nav (Increased for 2 rows) */
         .main .block-container {
-            padding-top: 80px !important; 
+            padding-top: 110px !important; 
             padding-bottom: 50px !important;
         }
         .stApp {
-            padding-top: 80px !important;
+            padding-top: 110px !important;
         }
         
         /* Pagination Row Fixes */
@@ -537,9 +536,10 @@ with st.sidebar:
         """)
 
 # --- Comment System Helpers ---
-def generate_news_id(title):
-    """Generate MD5 hash from title to use as ID."""
-    return hashlib.md5(title.encode()).hexdigest()
+def generate_news_id(title, summary=""):
+    """Generate MD5 hash from title and partial summary to ensure uniqueness."""
+    combined = f"{title}_{summary[:50]}"
+    return hashlib.md5(combined.encode()).hexdigest()
 
 def get_all_comments():
     """Load the entire comments database."""
@@ -1967,7 +1967,12 @@ else:
 
     # 1. Top Navigation (Pills)
     st.write("") # Spacer
-    nav_options = ["📰 뉴스 브리핑", "🚕 택시/뚝뚝 요금 판독기", "🏨 호텔 팩트체크", "🗣️ 게시판"]
+    # [MOD] Conditionally hide Wongnai for Production deployment
+    is_prod = st.secrets.get("DEPLOY_ENV") == "prod"
+    if is_prod:
+        nav_options = ["📰 뉴스 브리핑", "🚕 택시 요금", "🏨 호텔 팩트체크", "🗣️ 게시판"]
+    else:
+        nav_options = ["📰 뉴스 브리핑", "🚕 택시 요금", "🏨 호텔 팩트체크", "🍱 맛집 팩트체크", "🗣️ 게시판"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -2019,29 +2024,22 @@ else:
         st.radio("이동", nav_options, 
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
-    # 3. Bottom Navigation (Mobile Only via CSS)
-    b_col1, b_col2, b_col3, b_col4 = st.columns(4)
-    
-    with b_col1:
-        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("📰 뉴스", key="btn_nav_news", use_container_width=True):
-            st.session_state["nav_mode"] = "📰 뉴스 브리핑"
-            st.rerun()
-    with b_col2:
-        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("🚕호갱방지", key="btn_nav_taxi", use_container_width=True):
-            st.session_state["nav_mode"] = "🚕 택시/뚝뚝 요금 판독기"
-            st.rerun()
-    with b_col3:
-        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("🏨 호텔", key="btn_nav_hotel", use_container_width=True):
-            st.session_state["nav_mode"] = "🏨 호텔 팩트체크"
-            st.rerun()
-    with b_col4:
-        st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-        if st.button("🗣️ 게시판", key="btn_nav_board", use_container_width=True):
-            st.session_state["nav_mode"] = "🗣️ 게시판"
-            st.rerun()
+    # 3. Navigation Bar (Mobile Only via CSS)
+    # [MOD] Adjusted for Production: 4 or 5 columns
+    if is_prod:
+        b_cols = st.columns(4)
+        nav_indices = {0: ("📰 뉴스", "📰 뉴스 브리핑"), 1: ("🚕 요금", "🚕 택시 요금"), 2: ("🏨 호텔", "🏨 호텔 팩트체크"), 3: ("🗣️ 게시판", "🗣️ 게시판")}
+    else:
+        b_cols = st.columns(5)
+        nav_indices = {0: ("📰 뉴스", "📰 뉴스 브리핑"), 1: ("🚕 요금", "🚕 택시 요금"), 2: ("🏨 호텔", "🏨 호텔 팩트체크"), 3: ("🍱 맛집", "🍱 맛집 팩트체크"), 4: ("🗣️ 게시판", "🗣️ 게시판")}
+
+    for i, col in b_cols.items() if hasattr(b_cols, 'items') else enumerate(b_cols):
+        label, target = nav_indices[i]
+        with col:
+            st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+            if st.button(label, key=f"btn_nav_{i}", use_container_width=True):
+                st.session_state["nav_mode"] = target
+                st.rerun()
     
     # Use the master state for rendering
     page_mode = st.session_state["nav_mode"]
@@ -2325,14 +2323,14 @@ else:
                      # Render Links
                      for ref in refs:
                         if isinstance(ref, dict):
-                            title = ref.get('title', 'No Title')
                             url = ref.get('url', '#')
-                            source = ref.get('source', 'Unknown Source')
-                            st.markdown(f"- [{title}]({url}) - *{source}*")
+                            source = ref.get('source', '')
+                            source_display = f" ({source})" if source else ""
+                            st.markdown(f"**원문**: {url}{source_display}")
 
 
                 # Comments
-                news_id = generate_news_id(topic['title'])
+                news_id = generate_news_id(topic['title'], topic.get('summary', ''))
                 comments = all_comments_data.get(news_id, [])
             
                 with st.expander(f"💬 댓글 ({len(comments)})"):
@@ -2350,7 +2348,8 @@ else:
                 
                     # Comment Form
                     st.markdown("---")
-                    with st.form(key=f"comm_form_{news_id}"):
+                    # Use index to guarantee uniqueness even if ID collisions happen (safety first)
+                    with st.form(key=f"comm_form_{news_id}_{idx}"):
                         c1, c2 = st.columns([1, 3])
                         nick = c1.text_input("닉네임", placeholder="익명")
                         txt = c2.text_input("내용", placeholder="의견 남기기")
@@ -2831,6 +2830,69 @@ else:
                         hc_s3.metric("편안함", f"{h_scores.get('comfort', 0)}/5")
                         hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
 
+
+    # --- Page 4: Wongnai Restaurant Fact Check ---
+    elif page_mode == "🍱 맛집 팩트체크":
+        # Using global gemini_key
+        st.markdown(f"### 🍱 웡나이(Wongnai) 맛집 팩트체크")
+        st.write("로컬 맛집 사이트 'Wongnai'의 생생한 리뷰를 AI가 분석해드립니다.")
+        
+        container = st.container(border=True)
+        with container:
+            w_name = st.text_input("식당 이름 (영어 또는 태국어)", placeholder="예: Jeh O Chula, Hilton Breakfast", key="wongnai_input")
+            
+            search_btn = st.button("🔍 웡나이 분석 시작", key="btn_w_search", type="primary", use_container_width=True)
+            
+            if search_btn:
+                if not w_name:
+                    st.warning("식당 이름을 입력해주세요.")
+                else:
+                    with st.spinner("🔍 웡나이에서 맛집 찾는 중..."):
+                        w_url = utils.search_wongnai_restaurant(w_name, gemini_key)
+                        
+                        if not w_url:
+                            st.error("Wongnai에서 해당 식당을 찾을 수 없습니다. 이름을 더 자세히 입력해보세요.")
+                        else:
+                            with st.spinner("🇹🇭 태국어 리뷰 수집 및 번역 중..."):
+                                raw_data = utils.scrape_wongnai_restaurant(w_url)
+                                if "error" in raw_data:
+                                    st.error(raw_data["error"])
+                                else:
+                                    # Analyze with Gemini
+                                    analysis = utils.analyze_wongnai_data(raw_data, gemini_key)
+                                    st.session_state["wongnai_result"] = analysis
+
+        # Display Result
+        res = st.session_state.get("wongnai_result")
+        if res:
+            if "error" in res:
+                st.error(res["error"])
+            else:
+                info = res["info"]
+                summary = res["summary"]
+                
+                st.markdown("---")
+                
+                # Restaurant Card
+                r_col1, r_col2 = st.columns([1, 2])
+                with r_col1:
+                    if info.get('photo_url'):
+                        st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                    else:
+                        st.info("이미지 없음")
+                        
+                with r_col2:
+                    st.subheader(f"{info['name']}")
+                    st.markdown(f"⭐ **별점**: {info['score']} | 💰 **가격대**: {info['price']}")
+                    st.markdown(f"🔗 [Wongnai 원문 보기]({info['url']})")
+                
+                # AI Summary
+                st.markdown("#### 🤖 Gemini AI 로컬 리뷰 분석")
+                st.write(summary)
+                
+                if st.button("🗑️ 결과 지우기", key="btn_clear_w"):
+                    st.session_state["wongnai_result"] = None
+                    st.rerun()
 
     # --- Page 5: Community Board ---
     elif page_mode == "🗣️ 게시판":

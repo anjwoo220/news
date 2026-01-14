@@ -5,6 +5,7 @@ import utils
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
+import re
 
 # Files
 FEEDS_FILE = 'data/feeds.json'
@@ -81,6 +82,13 @@ def get_image_from_entry(item):
 def main():
     print("Starting batch job (Strict Mode + Images)...")
     
+    # [TIME SETUP] Use UTC+7 (Bangkok Time)
+    import pytz
+    bkk_tz = pytz.timezone('Asia/Bangkok')
+    now_bkk = datetime.now(bkk_tz)
+    today_str = now_bkk.strftime("%Y-%m-%d")
+    current_time_str = now_bkk.strftime("%H:%M")
+    
     # 1. Load State
     feeds = load_json(FEEDS_FILE)
     processed_urls = set(load_json(PROCESSED_URLS_FILE))
@@ -107,8 +115,10 @@ def main():
     current_news = load_news_from_sheet()
     
     if isinstance(current_news, dict):
-        for date_key in sorted(current_news.keys(), reverse=True)[:3]: 
-            for topic in current_news[date_key]:
+        # 24-Hour Comparison Window (Only compare with the most recent day)
+        latest_date = sorted(current_news.keys(), reverse=True)[0] if current_news else None
+        if latest_date:
+            for topic in current_news[latest_date]:
                 recent_titles.append(topic['title'])
                 for ref in topic.get('references', []):
                     if isinstance(ref, dict) and ref.get('title'):
@@ -127,13 +137,10 @@ def main():
                 if p.isdigit() and len(p) >= 6:
                     processed_ids.add(p)
 
-    new_items = []
+    new_items_with_ratios = []
     
     for item in all_news_items:
         # [NEW] Update Keyword Logic
-        # If title contains 'Update', 'Solved', 'Safe', we force allow it (bypass strict dup checks)
-        # We assume 2hr check is implicitly handled by RSS window or we trust the keyword.
-        # Ideally, we should check timestamps, but we'll trust the Keyword + freshness of RSS.
         is_update_news = any(k in item['title'].lower() for k in ['(update)', 'update:', 'solved:', 'safe:', 'situation resolved'])
         
         # A. Exact Link Match
@@ -153,23 +160,64 @@ def main():
             print(f"Duplicate ID found, skipping: {item['title']}")
             continue
 
-        # C. Similarity Check (Fuzzy Match)
+        # C. Similarity Check (Fuzzy Match / Refined)
         is_similar = False
+        max_ratio = 0
+        matching_title = ""
+        
+        # Determine threshold based on date (Today Priority)
+        # item['published'] might vary in format, we check if it contains today's date string
+        # If not easily parsed, we fallback to a safer check or default to higher for all freshly fetched items
+        # For simplicity, if we pulled it just now and it looks like a today's item, we use 0.85
+        is_today_item = today_str in (item.get('published', '') or '')
+        threshold = 0.85 if is_today_item else 0.6
+        
         if not is_update_news:
             for existing_title in recent_titles:
                 ratio = difflib.SequenceMatcher(None, item['title'].lower(), existing_title.lower()).ratio()
-                if ratio > 0.6:
-                    print(f"Skipping similar item ({ratio:.2f}):")
-                    print(f" - New: {item['title']}")
-                    print(f" - Old: {existing_title}")
+                if ratio > max_ratio:
+                    max_ratio = ratio
+                    matching_title = existing_title
+                    
+                if ratio > threshold:
+                    # [STRICT CHECK BYPASS] Numerical data update
+                    nums_new = re.findall(r'\d+', item['title'])
+                    nums_old = re.findall(r'\d+', existing_title)
+                    if nums_new != nums_old:
+                        continue 
+                        
                     is_similar = True
                     break
         
         if is_similar:
+            print(f"[{'TODAY' if is_today_item else 'PAST'}] Skipping similar item ({max_ratio:.2f}) > {threshold}:")
+            print(f" - New: {item['title']}")
+            print(f" - Match: {matching_title}")
             continue
 
-        new_items.append(item)
+        new_items_with_ratios.append({"item": item, "max_ratio": max_ratio})
 
+    # Zero-Result Fallback (Minimum 2-3 items)
+    if not new_items_with_ratios and all_news_items:
+        print("⚠️ No news passed filtering. Reviving 3 least similar items...")
+        # Recalculate max_ratio for all items if needed, or use what we collect
+        # Let's filter out exact URL/ID matches first, then sort by ratio
+        fallback_candidates = []
+        for item in all_news_items:
+            if item['link'] in processed_urls: continue
+            
+            m_ratio = 0
+            for ext in recent_titles:
+                r = difflib.SequenceMatcher(None, item['title'].lower(), ext.lower()).ratio()
+                if r > m_ratio: m_ratio = r
+            fallback_candidates.append({"item": item, "max_ratio": m_ratio})
+            
+        fallback_candidates.sort(key=lambda x: x['max_ratio'])
+        new_items_with_ratios = fallback_candidates[:3]
+        for f in new_items_with_ratios:
+            print(f" - Revived (Ratio {f['max_ratio']:.2f}): {f['item']['title']}")
+
+    new_items = [x['item'] for x in new_items_with_ratios]
     print(f"Items after duplicate/similarity check: {len(new_items)}")
 
     if not new_items:
@@ -177,16 +225,24 @@ def main():
         return
 
     # 4. Selection (Expanded for Score Filtering)
-    # Give AI more candidates (10 usually covers 1 day of tourism news)
-    target_items = new_items[:8] 
-    print(f"Items selected for API call: {len(target_items)}")
+    # Ensure items within the SAME batch are not too similar
+    batch_deduped = []
+    for candidate in new_items:
+        is_internal_dup = False
+        for chosen in batch_deduped:
+            r = difflib.SequenceMatcher(None, candidate['title'].lower(), chosen['title'].lower()).ratio()
+            if r > 0.85: # Very strict within the same batch
+                is_internal_dup = True
+                break
+        if not is_internal_dup:
+            batch_deduped.append(candidate)
+            
+    target_items = batch_deduped[:8] 
+    print(f"Items selected for API call (after internal dedup): {len(target_items)}")
     
-    # 5. Extract Images
-    for item in target_items:
-        print(f" - Processing: {item['title']} [{item.get('suggested_category', '')}]")
-        item['image_url'] = get_image_from_entry(item)
-        if item['image_url']:
-            print(f"   + Found Image: {item['image_url']}")
+    # 5. API Call (Moved up to get categories/titles before images if needed, 
+    # but currently batch_job needs full content so we keep sequential)
+    # Actually, let's just make sure all candidates have images extracted now.
 
     # 6. API Call
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -202,7 +258,7 @@ def main():
         return
 
     print("Calling Gemini API...")
-    analysis_result, error_msg = utils.analyze_news_with_gemini(target_items, api_key)
+    analysis_result, error_msg = utils.analyze_news_with_gemini(target_items, api_key, recent_titles, current_time_str)
     
     if error_msg:
         print(f"Analysis failed: {error_msg}")
@@ -247,46 +303,92 @@ def main():
     # Allow saving filtered_topics
     analysis_result['topics'] = filtered_topics
 
-    # 7. Save Logic (Daily Accumulation)
-    # Use UTC+7 (Bangkok Time) for date key
-    import pytz
-    bkk_tz = pytz.timezone('Asia/Bangkok')
-    now_bkk = datetime.now(bkk_tz)
-    
     today_str = now_bkk.strftime("%Y-%m-%d")
     current_time_str = now_bkk.strftime("%H:%M")
     
     # Load current news (Expect Dict, fallback to empty dict if list/invalid)
     current_news = load_news_from_sheet()
     if isinstance(current_news, list):
-        current_news = {} # Migration: Reset if it was a list
+        current_news = {} 
         
     if today_str not in current_news:
         current_news[today_str] = []
         
+    # Deduplicate against results already in GSheets for TODAY
+    existing_today_titles = {t['title'] for t in current_news[today_str]}
+    
     # Helper map: URL -> Image
     url_to_image = {item['link']: item.get('image_url') for item in target_items}
 
     # Extract topics and append to today's list
     new_topics_count = 0
     for topic in analysis_result.get('topics', []):
-        # Inject metadata
+        # 1. Title Duplication Check (Strict)
+        if topic['title'] in existing_today_titles:
+            print(f"Skipping storage of duplicate title for today: {topic['title']}")
+            continue
+
+        # 2. Inject metadata
         topic['collected_at'] = current_time_str
         
-        # Inject images into references AND lift first image to topic level (for card UI)
+        # 3. Reference & Source Guarantee
+        # If Gemini missed references, or they are empty, force-inject the original source
+        if not topic.get('references'):
+            # Find the original item to get link/source
+            # Try to match by topic's title (fuzzy if needed) or just use the first item if link is lost
+            # But better yet, analyze_news_with_gemini uses target_items sequentially
+            # Since we only send one item at a time in the loop now, we can match it back.
+            topic['references'] = []
+
+        # Find the original entry from all_news_items or target_items to get source/link
+        # We need to map the topic back to its original source item.
+        # Since analyze_news_with_gemini is called with target_items, let's try to match.
+        # Note: target_items were sent one by one in the loop inside analyze_news_with_gemini.
+        
+        # Actually, let's look at how references are handled in the storage loop.
+        # ref_link = topic.get('references', [{}])[0].get('url')
+        
+        # [NEW SAFETY] Force original reference if missing
+        if not topic.get('references'):
+             # If we can't find it, we'll try to find any item in target_items that matches title roughly
+             for ti in target_items:
+                 if difflib.SequenceMatcher(None, topic['title'].lower(), ti['title'].lower()).ratio() > 0.8:
+                     topic['references'] = [{'title': ti['title'], 'url': ti['link'], 'source': ti['source']}]
+                     break
+
+        # 4. Inject images into references AND lift first image to topic level (for card UI)
         first_image = None
         for ref in topic.get('references', []):
             ref_url = ref.get('url')
-            if ref_url in url_to_image and url_to_image[ref_url]:
-                ref['image_url'] = url_to_image[ref_url]
+            # Ensure 'source' is not missing
+            if not ref.get('source'):
+                 # Try to find source from all_news_items
+                 for ti in all_news_items:
+                     if ti['link'] == ref_url:
+                         ref['source'] = ti['source']
+                         break
+            
+            img = url_to_image.get(ref_url)
+            
+            # Fallback extraction if it missed earlier (e.g. revived items or failed scraping)
+            if not img:
+                print(f"   -> Image missing for '{topic['title']}', attempting final extraction...")
+                entry = next((i for i in all_news_items if i['link'] == ref_url), None)
+                if entry:
+                    img = get_image_from_entry(entry)
+                    url_to_image[ref_url] = img # Cache it
+            
+            if img:
+                ref['image_url'] = img
                 if not first_image:
-                    first_image = ref['image_url']
+                    first_image = img
         
         # If topic doesn't have an image, give it the first reference's image
         if 'image_url' not in topic and first_image:
             topic['image_url'] = first_image
             
         current_news[today_str].append(topic)
+        existing_today_titles.add(topic['title'])
         new_topics_count += 1
         
     save_news_to_sheet(current_news)
