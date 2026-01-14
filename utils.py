@@ -1856,16 +1856,17 @@ def search_places(query, api_key):
 def search_wongnai_restaurant(restaurant_name, api_key=None):
     """
     Search for a restaurant on Wongnai using Google search.
-    Tries multiple query patterns and falls back to Gemini if needed.
+    Tries legacy search first, and always falls back to Gemini if it fails or returns nothing.
     """
-    # 1. Try traditional search (might be throttled)
+    found_url = None
+    
+    # 1. Try legacy search (might be throttled or throw exceptions)
     queries = [
         f"site:wongnai.com {restaurant_name}",
         f"wongnai {restaurant_name}"
     ]
     
     try:
-        found_url = None
         for query in queries:
             results = googlesearch.search(query, num_results=3)
             for url in results:
@@ -1873,24 +1874,30 @@ def search_wongnai_restaurant(restaurant_name, api_key=None):
                     found_url = url
                     break
             if found_url: break
-        
-        if found_url: return found_url
-        
-        # 2. Fallback to Gemini Search (Very robust)
-        if api_key:
+    except Exception as e:
+        print(f"Legacy search failed: {e}")
+        pass # Ignore legacy errors and move to Gemini fallback
+    
+    if found_url:
+        return found_url
+    
+    # 2. Strong Fallback: Gemini Search
+    if api_key:
+        try:
             genai.configure(api_key=api_key)
             model = genai.GenerativeModel('gemini-1.5-flash')
             prompt = f"Find the Wongnai restaurant URL for: {restaurant_name}. Return ONLY the direct URL starting with https://www.wongnai.com/restaurants/ or https://www.wongnai.com/r/"
             response = model.generate_content(prompt)
-            url = response.text.strip().split()[0] # Take first word (URL)
-            if "wongnai.com" in url:
-                return url
-        
-        return None
-    except Exception as e:
-        print(f"Wongnai search error: {e}")
-        # Even if search fails, try one last Gemini attempt if possible
-        return None
+            raw_text = response.text.strip()
+            
+            # Extract URL more robustly
+            match = re.search(r'(https?://(?:www\.)?wongnai\.com/(?:restaurants|r)/[^\s]+)', raw_text)
+            if match:
+                return match.group(1).rstrip('.')
+        except Exception as e:
+            print(f"Gemini fallback search error: {e}")
+            
+    return None
 
 def scrape_wongnai_restaurant(url):
     """
