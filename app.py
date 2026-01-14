@@ -2301,7 +2301,11 @@ else:
                                  import json
                                  refs = json.loads(refs)
                              except:
-                                 refs = []
+                                  try:
+                                      import ast
+                                      refs = ast.literal_eval(refs)
+                                  except:
+                                      refs = []
                          elif refs.startswith("http"):
                              refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
                          else:
