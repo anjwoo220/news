@@ -18,6 +18,14 @@ from db_utils import load_news_from_sheet, save_news_to_sheet
 # Fix SSL Certificate Issue on Mac
 os.environ["SSL_CERT_FILE"] = certifi.where()
 
+# [보안 패치] 브라우저에게 모든 HTTP 요청을 HTTPS로 강제 업그레이드하도록 명령
+st.markdown(
+    """
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    """,
+    unsafe_allow_html=True
+)
+
 
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
