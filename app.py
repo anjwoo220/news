@@ -20,9 +20,8 @@ import warnings
 # --------------------------------------------------------------------------------
 # Suppress google.generativeai warning (FutureWarning)
 warnings.filterwarnings("ignore", category=FutureWarning, module="google.generativeai")
-# Suppress StreamlitDeprecationWarning (use_container_width)
-from streamlit.errors import StreamlitDeprecationWarning
-warnings.filterwarnings("ignore", category=StreamlitDeprecationWarning)
+# Suppress Streamlit Warnings
+warnings.filterwarnings("ignore", category=DeprecationWarning, module="streamlit")
 # --------------------------------------------------------------------------------
 from db_utils import load_news_from_sheet, save_news_to_sheet
 
