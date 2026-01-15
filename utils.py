@@ -521,8 +521,9 @@ def get_thb_krw_rate():
         return None
 
     try:
+        # Increased timeout to 15s to prevent frequent timeouts
         import requests
-        response = requests.get(url, timeout=5)
+        response = requests.get(url, timeout=15)
         if response.status_code == 200:
             data = response.json()
             rate = data.get('rates', {}).get('KRW')

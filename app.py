@@ -779,7 +779,7 @@ if query_params.get("mode") == "admin":
 if app_mode == "Admin Console":
     # Exit Button
     st.sidebar.markdown("---")
-    if st.sidebar.button("🚪 관리자 모드 종료", use_container_width=True):
+    if st.sidebar.button("🚪 관리자 모드 종료", width='stretch'):
         st.query_params.clear()
         st.rerun()
 
@@ -1339,7 +1339,7 @@ if app_mode == "Admin Console":
                     
                     with c2:
                         if be.get('image_url'):
-                             st.image(be['image_url'], use_container_width=True)
+                             st.image(be['image_url'], width='stretch')
                         if st.button("삭제", key=f"be_del_{i}"):
                             big_events_data.pop(i)
                             save_json(BIG_EVENTS_FILE, big_events_data)
@@ -1537,7 +1537,7 @@ if app_mode == "Admin Console":
                     "domain": st.column_config.TextColumn("도메인 (Domain)", required=True),
                     "tag": st.column_config.TextColumn("태그 (Badge)", required=True),
                 },
-                use_container_width=True,
+                width='stretch',
                 key="editor_magazine"
             )
             
@@ -1557,7 +1557,7 @@ if app_mode == "Admin Console":
                     "keyword": st.column_config.TextColumn("검색 키워드", required=True),
                     "category": st.column_config.SelectboxColumn("분류", options=["Concert", "Festival", "Exhibition", "Sports"], required=True),
                 },
-                use_container_width=True,
+                width='stretch',
                 key="editor_events"
             )
             
@@ -2101,7 +2101,7 @@ else:
         label, target = nav_indices[i]
         with col:
             st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-            if st.button(label, key=f"btn_nav_{i}", use_container_width=True):
+            if st.button(label, key=f"btn_nav_{i}", width='stretch'):
                 st.session_state["nav_mode"] = target
                 st.rerun()
     
@@ -2228,7 +2228,7 @@ else:
 
             # Reset Button (Full List / Clear Search)
             if st.session_state["search_query"]:
-                if st.button("🔄 검색어 초기화", use_container_width=True):
+                if st.button("🔄 검색어 초기화", width='stretch'):
                     st.session_state["search_query"] = ""
                     st.session_state["current_page"] = 1
                     st.rerun()
@@ -2344,7 +2344,7 @@ else:
                 st.subheader(f"{topic['title']}")
             
                 if topic.get('image_url'):
-                    st.image(topic['image_url'], use_container_width=True)
+                    st.image(topic['image_url'], width='stretch')
             
                 # Highlight
                 final_summary = highlight_text(topic['summary'])
@@ -2448,22 +2448,22 @@ else:
                 
                 with col_prev:
                     if st.session_state["current_page"] > 1:
-                        if st.button("⬅️ 이전", use_container_width=True, key="p_prev"):
+                        if st.button("⬅️ 이전", width='stretch', key="p_prev"):
                             st.session_state["current_page"] -= 1
                             st.rerun()
                     else:
-                        st.button("⬅️ 이전", disabled=True, use_container_width=True, key="p_prev_dis")
+                        st.button("⬅️ 이전", disabled=True, width='stretch', key="p_prev_dis")
                         
                 with col_info:
                     st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
                     
                 with col_next:
                     if st.session_state["current_page"] < total_pages:
-                        if st.button("다음 ➡️", use_container_width=True, key="p_next"):
+                        if st.button("다음 ➡️", width='stretch', key="p_next"):
                             st.session_state["current_page"] += 1
                             st.rerun()
                     else:
-                        st.button("다음 ➡️", disabled=True, use_container_width=True, key="p_next_dis")
+                        st.button("다음 ➡️", disabled=True, width='stretch', key="p_next_dis")
 
     # --- Page 2: Taxi Calculator ---
     elif page_mode == "🚕 택시/뚝뚝 요금 판독기":
@@ -2525,7 +2525,7 @@ else:
             # Quote
             quote_price = st.number_input("기사가 부른 가격 (THB, 선택)", min_value=0, step=10, help="흥정 중인 가격을 입력하면 적정가인지 판단해줍니다.")
             
-            calc_btn = st.button("💸 경로 및 요금 계산", type="primary", use_container_width=True)
+            calc_btn = st.button("💸 경로 및 요금 계산", type="primary", width='stretch')
 
         if calc_btn:
             if not origin_val or not dest_val:
@@ -2675,7 +2675,7 @@ else:
                 hotel_query = st.text_input("호텔 검색", placeholder="예: Amari, Hilton", key="user_hotel_input", on_change=clear_hotel_cands)
                 
             # Search Button
-            if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", use_container_width=True):
+            if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", width='stretch'):
                 if not hotel_query:
                     st.warning("호텔 이름을 입력해주세요.")
                 elif not api_key:
@@ -2743,9 +2743,9 @@ else:
                             
                              with col_img:
                                  if info.get('photo_url'):
-                                     st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                                     st.image(info['photo_url'], width='stretch', caption=info['name'])
                                  else:
-                                     st.image("https://via.placeholder.com/400x300?text=No+Image", use_container_width=True)
+                                     st.image("https://via.placeholder.com/400x300?text=No+Image", width='stretch')
                                     
                              with col_desc:
                                  st.subheader(f"{info['name']}")
@@ -2807,7 +2807,7 @@ else:
                                          f"allianceid={aid}&sid={sid}"
                                      )
                                      
-                                     st.link_button(f"🏨 '{raw_keyword}' 최저가 확인 (Trip.com)", trip_url, use_container_width=True, type="primary")
+                                     st.link_button(f"🏨 '{raw_keyword}' 최저가 확인 (Trip.com)", trip_url, width='stretch', type="primary")
                              except Exception as e:
                                  # st.error(f"Link Error: {e}") 
                                  pass
@@ -2876,7 +2876,7 @@ else:
                     hc1, hc2 = st.columns([1, 2])
                     with hc1:
                         if h_info.get('photo_url'):
-                             st.image(h_info['photo_url'], use_container_width=True)
+                             st.image(h_info['photo_url'], width='stretch')
                         st.caption(f"📍 {h_info['address']}")
                     with hc2:
                         st.info(f"💡 {h_analysis.get('one_line_verdict', '')}")
@@ -2909,7 +2909,7 @@ else:
         with container:
             w_name = st.text_input("식당 이름 (영어 또는 태국어)", placeholder="예: Jeh O Chula, Hilton Breakfast", key="wongnai_input")
             
-            search_btn = st.button("🔍 웡나이 분석 시작", key="btn_w_search", type="primary", use_container_width=True)
+            search_btn = st.button("🔍 웡나이 분석 시작", key="btn_w_search", type="primary", width='stretch')
             
             if search_btn:
                 if not w_name:
@@ -2945,7 +2945,7 @@ else:
                 r_col1, r_col2 = st.columns([1, 2])
                 with r_col1:
                     if info.get('photo_url'):
-                        st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                        st.image(info['photo_url'], width='stretch', caption=info['name'])
                     else:
                         st.info("이미지 없음")
                         
@@ -2974,7 +2974,7 @@ else:
             with col_notice:
                 st.info("💡 버그 제보, 광고 문의, 기능 제안은 여기로 보내주세요!", icon="📨")
             with col_btn:
-                st.link_button("문의하기", "https://forms.gle/B9RTDGJcCR9MnJvv5", use_container_width=True)
+                st.link_button("문의하기", "https://forms.gle/B9RTDGJcCR9MnJvv5", width='stretch')
 
         st.divider()
 
@@ -2986,7 +2986,7 @@ else:
                 b_pw = c_pw.text_input("비밀번호 (삭제용 숫자 4자리)", type="password", max_chars=4)
                 b_content = st.text_area("내용", placeholder="욕설, 비방, 광고글은 통보 없이 삭제될 수 있습니다.", height=100)
                 
-                if st.form_submit_button("등록하기 📝", use_container_width=True):
+                if st.form_submit_button("등록하기 📝", width='stretch'):
                     if not b_content:
                         st.warning("내용을 입력해주세요.")
                     elif not b_pw:
