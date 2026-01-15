@@ -1560,7 +1560,10 @@ def prettify_infographic_text(category, items, api_key):
         text = resp.text.strip().replace("```json", "").replace("```", "")
         if text.startswith("```"): text = text.replace("```", "")
         data = json.loads(text)
-        return data.get("lines", [])
+        result = data.get("lines", [])
+        if not result:
+            raise ValueError("Empty lines from AI")
+        return result
     except Exception as e:
         print(f"Infographic AI Error: {e}")
         # Fallback to simple titles
