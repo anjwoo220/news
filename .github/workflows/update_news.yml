@@ -26,6 +26,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: Create secrets.toml
+        run: |
+          mkdir -p .streamlit
+          echo "${{ secrets.APP_SECRETS }}" > .streamlit/secrets.toml
+
       - name: Run Batch Job
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

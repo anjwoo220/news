@@ -286,13 +286,15 @@ def fetch_full_content(url):
         }
         # Timeout slightly longer for scraping
         response = requests.get(url, headers=headers, timeout=5)
+# Reverted Google Cache Fallback
+        
         if response.status_code != 200:
             return None
             
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Remove unwanted elements
-        for script in soup(["script", "style", "nav", "footer", "header", "aside"]):
+        for script in soup(["script", "style", "nav", "footer", "header", "aside", "noscript"]):
             script.decompose()
             
         # Extract text from p tags (most reliable for news)
@@ -301,6 +303,10 @@ def fetch_full_content(url):
         
         # Clean up whitespace
         text = ' '.join(text.split())
+        
+        # Remove Google Cache Header Artifacts (if any)
+        if "Google's cache of" in text:
+             text = text.replace("This is Google's cache of", "")
         
         if len(text) < 100: # Too short, likely failed
             return None
