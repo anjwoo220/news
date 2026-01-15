@@ -137,7 +137,7 @@ def fetch_balanced_rss(feeds_config, processed_urls=None):
     }
     
     category_buckets = {}
-    MAX_PER_CATEGORY = 20  # Increased from 2 to allow checking more feeds
+    MAX_PER_CATEGORY = 80  # Increased from 20 to 80 to allow checking more feeds (e.g. Pattaya News)
     
     for feed in feeds_config:
         category = feed.get('category', 'General')
@@ -229,6 +229,7 @@ def fetch_google_news_rss(query="Thailand Tourism", period="24h"):
     import feedparser
     import urllib.parse
     import time
+    import requests
     
     encoded_query = urllib.parse.quote(query)
     # hl=en-TH, gl=TH ensures Thailand focus
@@ -237,22 +238,35 @@ def fetch_google_news_rss(query="Thailand Tourism", period="24h"):
     rss_url = f"https://news.google.com/rss/search?q={encoded_query}+when:{period}&hl=en-TH&gl=TH&ceid=TH:en&scoring=n"
     
     print(f"Fetching Google News: {query}...")
+    
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36'
+    }
+    
     try:
-        feed = feedparser.parse(rss_url)
-        items = []
-        for entry in feed.entries:
-            # Standardize to our News Item format
-            item = {
-                'title': entry.title,
-                'link': entry.link,
-                'published': entry.get('published', ''),
-                'summary': entry.get('description', ''),
-                'source': entry.get('source', {}).get('title', 'Google News'),
-                '_raw_entry': entry # Keep for image extraction
-            }
-            items.append(item)
-        print(f" -> Found {len(items)} items from Google News.")
-        return items
+        # [FIX] Use requests with User-Agent to avoid 403/Blocking
+        response = requests.get(rss_url, headers=headers, timeout=10)
+        
+        if response.status_code == 200:
+            feed = feedparser.parse(response.content)
+            items = []
+            for entry in feed.entries:
+                # Standardize to our News Item format
+                item = {
+                    'title': entry.title,
+                    'link': entry.link,
+                    'published': entry.get('published', ''),
+                    'summary': entry.get('description', ''),
+                    'source': entry.get('source', {}).get('title', 'Google News'),
+                    '_raw_entry': entry # Keep for image extraction
+                }
+                items.append(item)
+            print(f" -> Found {len(items)} items from Google News.")
+            return items
+        else:
+            print(f"Google News Fetch Failed: Status {response.status_code}")
+            return []
+            
     except Exception as e:
         print(f"Google News Fetch Error: {e}")
         return []

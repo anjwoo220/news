@@ -1,6 +1,6 @@
 {
-  "topic": "#ATEEZinBangkok",
-  "reason": "에이티즈(ATEEZ) 콘서트로 인해 방콕의 공연장 주변이 매우 혼잡할 수 있습니다. 교통 체증을 예상하고 여유 있게 이동하세요.",
-  "severity": "info",
-  "collected_at": "2026-01-15 12:06:50"
+  "topic": "#เครนถล่ม",
+  "reason": "방콕에서 크레인 붕괴 사고가 발생하여 해당 지역을 피하는 것이 좋습니다.",
+  "severity": "warning",
+  "collected_at": "2026-01-15 13:52:07"
 }

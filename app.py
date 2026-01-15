@@ -2026,7 +2026,7 @@ else:
     if is_prod:
         nav_options = ["📰 뉴스 브리핑", "🚕 택시/뚝뚝 요금 판독기", "🏨 호텔 팩트체크", "🗣️ 게시판"]
     else:
-        nav_options = ["📰 뉴스 브리핑", "🚕 택시/뚝뚝 요금 판독기", "🏨 호텔 팩트체크", "🍱 맛집 팩트체크", "🗣️ 게시판"]
+        nav_options = ["📰 뉴스 브리핑", "🏨 호텔 팩트체크", "🍽️ 맛집 팩트체크 (BETA)", "🚕 택시/뚝뚝 요금 판독기", "🎪 콘서트/이벤트", "📋 게시판 (BETA)"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]

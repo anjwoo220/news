@@ -24,6 +24,10 @@
     "url": "https://www.nationthailand.com/rss"
   },
   {
+    "category": "General",
+    "url": "https://thepattayanews.com/feed/"
+  },
+  {
     "category": "Business",
     "url": "https://www.prachachat.net/feed"
   }
