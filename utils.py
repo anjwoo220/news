@@ -1609,20 +1609,67 @@ def generate_category_infographic(category, items, date_str, api_key):
         if not lines: return None
 
         # 3. Setup Canvas (1080x1080 Square for Instagram)
-        W, H = 1080, 1080
-        
-        # Background
+    W, H = 1080, 1080
+    
+    # Try Dynamic Background (Use Image from first news item)
+    bg_img = None
+    
+    # Find first item with valid image
+    target_img_url = None
+    for item in items:
+        if item.get("image_url") and item["image_url"].startswith("http"):
+            target_img_url = item["image_url"]
+            break
+            
+    if target_img_url:
+        try:
+            import requests
+            from io import BytesIO
+            
+            # Download Image
+            # print(f"Downloading BG: {target_img_url}")
+            resp = requests.get(target_img_url, timeout=5)
+            if resp.status_code == 200:
+                raw_img = Image.open(BytesIO(resp.content)).convert("RGB")
+                
+                # Resize & Center Crop to cover 1080x1080
+                # logic: Scale shortest side to 1080, then crop center
+                img_w, img_h = raw_img.size
+                ratio = max(W/img_w, H/img_h)
+                new_size = (int(img_w * ratio), int(img_h * ratio))
+                raw_img = raw_img.resize(new_size, Image.LANCZOS)
+                
+                # Center Crop
+                left = (new_size[0] - W)/2
+                top = (new_size[1] - H)/2
+                right = (new_size[0] + W)/2
+                bottom = (new_size[1] + H)/2
+                
+                bg_img = raw_img.crop((left, top, right, bottom))
+                
+                # Apply Dimming (Black Overlay 60%)
+                overlay = Image.new('RGBA', (W, H), (0, 0, 0, 150))
+                bg_img.paste(overlay, (0, 0), mask=overlay)
+                
+        except Exception as e:
+            # print(f"BG Image Error: {e}")
+            bg_img = None
+
+    # Fallback to Theme Background if Dynamic failed
+    if not bg_img:
         if os.path.exists(theme['bg_file']):
-            img = Image.open(theme['bg_file']).convert("RGB")
-            img = img.resize((W, H))
+            bg_img = Image.open(theme['bg_file']).convert("RGB")
+            bg_img = bg_img.resize((W, H))
         else:
             # Create solid color background with gradient-ish look (simple solid for now)
-            img = Image.new('RGB', (W, H), theme['color'])
+            bg_img = Image.new('RGB', (W, H), theme['color'])
             # Add a subtle dark overlay for text contrast
             overlay = Image.new('RGBA', (W, H), (0,0,0, 50))
-            img.paste(overlay, (0,0), mask=overlay)
-
-        draw = ImageDraw.Draw(img)
+            bg_img.paste(overlay, (0,0), mask=overlay)
+            
+    img = bg_img
+    
+    draw = ImageDraw.Draw(img)
         
         # Fonts
         font_path = ensure_font_loaded()
