@@ -10,6 +10,34 @@ import re
 from bs4 import BeautifulSoup
 
 
+import streamlit as st
+
+# Helper: Render Custom Mobile-Optimized Header
+def render_custom_header(text, level=1):
+    """
+    Renders a custom HTML header for SEO and Mobile UI optimization.
+    - H1: 22px (Mobile Friendly)
+    - H2: 18px
+    - Adjusts margins to save space.
+    """
+    font_size = "22px" if level == 1 else "18px"
+    margin = "10px 0 5px 0"
+    color = "#333333" # Default dark grey, can be adjusted for dark mode via CSS variables if needed
+    
+    # Use CSS variable for text color to support Dark Mode automatically if desired,
+    # or stick to fixed color. Let's use var(--text-color) for better adaptation.
+    # But user requested #333333 specifically. Let's stick to user request but add dark mode support via Streamlit's theming if possible.
+    # User said: "Color: #333333 (다크모드 대응 필요시 var(--text-color) 사용)"
+    # Let's use var(--text-color) to be safe for dark mode which is active.
+    
+    st.markdown(
+        f"""
+        <{f'h{level}'} style='text-align: left; font-size: {font_size}; font-weight: 700; margin: {margin}; color: var(--text-color); line-height: 1.2;'>
+            {text}
+        </{f'h{level}'}>
+        """,
+        unsafe_allow_html=True
+    )
 
 # Helper: Check if text contains Thai characters
 def is_thai(text):

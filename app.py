@@ -50,7 +50,7 @@ BOARD_FILE = 'data/board.json'
 DEPLOY_URL = "https://thai-briefing.streamlit.app"
 
 st.set_page_config(
-    page_title="오늘의 태국 - 실시간 태국뉴스, 여행정보",
+    page_title="오늘의 태국 - 방콕 맛집, 뉴스, 여행 필수 앱",
     page_icon="🇹🇭",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -789,7 +789,7 @@ if app_mode == "Admin Console":
     
     if check_password():
         st.success("관리자 모드 진입 성공") # Debugging: Confirmation
-        st.title("🛠️ 통합 운영 관제탑 (Admin Console)")
+        utils.render_custom_header("🛠️ 통합 운영 관제탑 (Admin Console)", level=1)
         
         # Tabs for better organization
         # Tabs for better organization
@@ -1730,7 +1730,7 @@ else:
     </style>
     """, unsafe_allow_html=True)
 
-    st.title("🇹🇭 오늘의 태국")
+    utils.render_custom_header("🇹🇭 오늘의 태국", level=1)
     
     # Mobile Visitor Counter (Below Title for clean flow)
     st.markdown(f"""
@@ -2317,7 +2317,7 @@ else:
 
         # --- Main Content Render ---
         st.divider()
-        st.header(header_text)
+        utils.render_custom_header(header_text, level=2)
     
         # Empty State
         if not filtered_topics_all:
@@ -2468,7 +2468,7 @@ else:
 
     # --- Page 2: Taxi Calculator ---
     elif page_mode == "🚕 택시/뚝뚝 요금 판독기":
-        st.header("🚕 택시/뚝뚝 요금 판독기 (Taxi Fare Reader)")
+        utils.render_custom_header("🚕 택시/뚝뚝 요금 판독기 (Taxi Fare Reader)", level=2)
         st.caption("방콕 시내 교통비, 바가지인지 아닌지 1초 만에 판독해드립니다. (실시간 교통상황 반영)")
 
         # Input & Place Search Logic
@@ -2646,7 +2646,7 @@ else:
     # --- Page 3: Trend Hunter (Magazine) ---
     # --- Page 3: Hotel Fact Check ---
     elif page_mode == "🏨 호텔 팩트체크":
-        st.header("🏨 호텔 팩트체크 (Hotel Check)")
+        utils.render_custom_header("🏨 호텔 팩트체크 (Hotel Check)", level=2)
         st.caption("광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.")
         
         # 1. Search Input
