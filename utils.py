@@ -1571,12 +1571,20 @@ def prettify_infographic_text(category, items, api_key):
 
 def generate_category_infographic(category, items, date_str, api_key):
     """
+    """
     Generates a social media image for a specific category.
     """
-    from PIL import Image, ImageDraw, ImageFont
-    import os
-    
-    # 1. Config Map (Color & Text)
+    try:
+        from PIL import Image, ImageDraw, ImageFont
+    except ImportError as e:
+        import streamlit as st
+        st.error(f"Pillow Library Missing: {e}")
+        return None
+
+    try:
+        import os
+        
+        # 1. Config Map (Color & Text)
     # Categories: "정치/사회", "경제", "여행/관광", "사건/사고", "축제/이벤트", "기타"
     theme_map = {
         "정치/사회": {"color": (59, 130, 246), "bg_file": "assets/bg_politics.png", "title": "POLITICS & SOCIAL"}, # Blue
@@ -1642,6 +1650,13 @@ def generate_category_infographic(category, items, date_str, api_key):
         
     # Footer
     draw.text((80, 1000), "🇹🇭 오늘의 태국 (Thai Briefing)", font=font_footer, fill=(255, 255, 255, 150))
+    
+    return img
+
+    except Exception as e:
+        import streamlit as st
+        st.error(f"Infographic Error ({category}): {e}")
+        return None
     
 # --------------------------------------------------------------------------------
 # Taxi Fare Calculator (Google Maps + Rush Hour Logic)

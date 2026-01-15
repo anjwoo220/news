@@ -3,6 +3,7 @@ google-generativeai
 feedparser
 requests
 beautifulsoup4
+Pillow
 
 plotly
 pandas
