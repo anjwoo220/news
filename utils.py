@@ -963,9 +963,17 @@ def fetch_trend_hunter_items(api_key, existing_links=None):
             Return JSON List of objects (excluding nulls).
             Example:
             [
+                {{
+                    "catchy_headline": "방콕 통로의 숨겨진 보석, 이국적인 분위기의 루프탑 바!",
+                    "desc": "통로의 야경을 한눈에 담을 수 있는 이 루프탑 바는 독특한 칵테일과 라이브 음악으로 완벽한 밤을 선사합니다. 친구들과 특별한 추억을 만들고 싶다면 이곳을 방문해보세요.",
+                    "location": "Thong Lor"
                 }},
                 null,
-                ...
+                {{
+                    "catchy_headline": "짜뚜짝 시장 근처, 현지인만 아는 가성비 맛집 발견!",
+                    "desc": "주말 시장 구경 후 허기진 배를 채우기 좋은 곳. 신선한 해산물 요리와 태국 전통 음식을 저렴한 가격에 즐길 수 있습니다. 웨이팅은 필수!",
+                    "location": "Chatuchak"
+                }}
             ]
             """
             
@@ -1571,7 +1579,6 @@ def prettify_infographic_text(category, items, api_key):
 
 def generate_category_infographic(category, items, date_str, api_key):
     """
-    """
     Generates a social media image for a specific category.
     """
     try:
@@ -1585,73 +1592,73 @@ def generate_category_infographic(category, items, date_str, api_key):
         import os
         
         # 1. Config Map (Color & Text)
-    # Categories: "정치/사회", "경제", "여행/관광", "사건/사고", "축제/이벤트", "기타"
-    theme_map = {
-        "정치/사회": {"color": (59, 130, 246), "bg_file": "assets/bg_politics.png", "title": "POLITICS & SOCIAL"}, # Blue
-        "경제": {"color": (34, 197, 94), "bg_file": "assets/bg_economy.png", "title": "ECONOMY"}, # Green
-        "여행/관광": {"color": (249, 115, 22), "bg_file": "assets/bg_travel.png", "title": "TRAVEL NEWS"}, # Orange
-        "사건/사고": {"color": (239, 68, 68), "bg_file": "assets/bg_safety.png", "title": "SAFETY ALERT"}, # Red
-        "축제/이벤트": {"color": (236, 72, 153), "bg_file": "assets/bg_travel.png", "title": "THAI EVENTS"}, # Pink
-        "기타": {"color": (107, 114, 128), "bg_file": "assets/template.png", "title": "DAILY NEWS"} # Gray
-    }
-    
-    theme = theme_map.get(category, theme_map["기타"])
-    
-    # 2. Get AI Content
-    lines = prettify_infographic_text(category, items, api_key)
-    if not lines: return None
-
-    # 3. Setup Canvas (1080x1080 Square for Instagram)
-    W, H = 1080, 1080
-    
-    # Background
-    if os.path.exists(theme['bg_file']):
-        img = Image.open(theme['bg_file']).convert("RGB")
-        img = img.resize((W, H))
-    else:
-        # Create solid color background with gradient-ish look (simple solid for now)
-        img = Image.new('RGB', (W, H), theme['color'])
-        # Add a subtle dark overlay for text contrast
-        overlay = Image.new('RGBA', (W, H), (0,0,0, 50))
-        img.paste(overlay, (0,0), mask=overlay)
-
-    draw = ImageDraw.Draw(img)
-    
-    # Fonts
-    font_path = ensure_font_loaded()
-    if not font_path:
-        # Emergency fallback (might fail on korean)
-        font_cat = ImageFont.load_default()
-        font_date = ImageFont.load_default()
-        font_body = ImageFont.load_default()
-        font_footer = ImageFont.load_default()
-    else:
-        font_cat = ImageFont.truetype(font_path, 60)
-        font_date = ImageFont.truetype(font_path, 40)
-        font_body = ImageFont.truetype(font_path, 55)
-        font_footer = ImageFont.truetype(font_path, 30)
+        # Categories: "정치/사회", "경제", "여행/관광", "사건/사고", "축제/이벤트", "기타"
+        theme_map = {
+            "정치/사회": {"color": (59, 130, 246), "bg_file": "assets/bg_politics.png", "title": "POLITICS & SOCIAL"}, # Blue
+            "경제": {"color": (34, 197, 94), "bg_file": "assets/bg_economy.png", "title": "ECONOMY"}, # Green
+            "여행/관광": {"color": (249, 115, 22), "bg_file": "assets/bg_travel.png", "title": "TRAVEL NEWS"}, # Orange
+            "사건/사고": {"color": (239, 68, 68), "bg_file": "assets/bg_safety.png", "title": "SAFETY ALERT"}, # Red
+            "축제/이벤트": {"color": (236, 72, 153), "bg_file": "assets/bg_travel.png", "title": "THAI EVENTS"}, # Pink
+            "기타": {"color": (107, 114, 128), "bg_file": "assets/template.png", "title": "DAILY NEWS"} # Gray
+        }
         
-    # Draw logic
-    # Header: Category Title (English) + Date
-    draw.text((80, 80), theme['title'], font=font_cat, fill="white")
-    draw.text((80, 160), date_str, font=font_date, fill=(255, 255, 255, 200)) # Alpha 200
-    
-    # Divider
-    draw.line((80, 230, 1000, 230), fill="white", width=4)
-    
-    # Body Content (Centered vertically-ish)
-    start_y = 350
-    gap = 120
-    
-    for i, line in enumerate(lines):
-        # Draw badge/bullet?
-        # Just text
-        draw.text((80, start_y + (i * gap)), line, font=font_body, fill="white")
+        theme = theme_map.get(category, theme_map["기타"])
         
-    # Footer
-    draw.text((80, 1000), "🇹🇭 오늘의 태국 (Thai Briefing)", font=font_footer, fill=(255, 255, 255, 150))
-    
-    return img
+        # 2. Get AI Content
+        lines = prettify_infographic_text(category, items, api_key)
+        if not lines: return None
+
+        # 3. Setup Canvas (1080x1080 Square for Instagram)
+        W, H = 1080, 1080
+        
+        # Background
+        if os.path.exists(theme['bg_file']):
+            img = Image.open(theme['bg_file']).convert("RGB")
+            img = img.resize((W, H))
+        else:
+            # Create solid color background with gradient-ish look (simple solid for now)
+            img = Image.new('RGB', (W, H), theme['color'])
+            # Add a subtle dark overlay for text contrast
+            overlay = Image.new('RGBA', (W, H), (0,0,0, 50))
+            img.paste(overlay, (0,0), mask=overlay)
+
+        draw = ImageDraw.Draw(img)
+        
+        # Fonts
+        font_path = ensure_font_loaded()
+        if not font_path:
+            # Emergency fallback (might fail on korean)
+            font_cat = ImageFont.load_default()
+            font_date = ImageFont.load_default()
+            font_body = ImageFont.load_default()
+            font_footer = ImageFont.load_default()
+        else:
+            font_cat = ImageFont.truetype(font_path, 60)
+            font_date = ImageFont.truetype(font_path, 40)
+            font_body = ImageFont.truetype(font_path, 55)
+            font_footer = ImageFont.truetype(font_path, 30)
+            
+        # Draw logic
+        # Header: Category Title (English) + Date
+        draw.text((80, 80), theme['title'], font=font_cat, fill="white")
+        draw.text((80, 160), date_str, font=font_date, fill=(255, 255, 255, 200)) # Alpha 200
+        
+        # Divider
+        draw.line((80, 230, 1000, 230), fill="white", width=4)
+        
+        # Body Content (Centered vertically-ish)
+        start_y = 350
+        gap = 120
+        
+        for i, line in enumerate(lines):
+            # Draw badge/bullet?
+            # Just text
+            draw.text((80, start_y + (i * gap)), line, font=font_body, fill="white")
+            
+        # Footer
+        draw.text((80, 1000), "🇹🇭 오늘의 태국 (Thai Briefing)", font=font_footer, fill=(255, 255, 255, 150))
+        
+        return img
 
     except Exception as e:
         import streamlit as st
