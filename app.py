@@ -13,6 +13,17 @@ import time
 from streamlit_gsheets import GSheetsConnection
 import certifi
 import ssl
+import warnings
+
+# --------------------------------------------------------------------------------
+# 1. [Fix] Suppress Deprecation & Future Warnings (Log Cleanup)
+# --------------------------------------------------------------------------------
+# Suppress google.generativeai warning (FutureWarning)
+warnings.filterwarnings("ignore", category=FutureWarning, module="google.generativeai")
+# Suppress StreamlitDeprecationWarning (use_container_width)
+from streamlit.errors import StreamlitDeprecationWarning
+warnings.filterwarnings("ignore", category=StreamlitDeprecationWarning)
+# --------------------------------------------------------------------------------
 from db_utils import load_news_from_sheet, save_news_to_sheet
 
 # Fix SSL Certificate Issue on Mac
