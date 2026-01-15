@@ -1638,6 +1638,8 @@ if app_mode == "Admin Console":
                                 filename = f"{target_date}_{cat}.png"
                                 zf.writestr(filename, img_bytes.getvalue())
                                 
+                                generated_images.append(cat) # Track success
+                                
                                 # Display
                                 with cols[idx % 3]:
                                     st.image(img, caption=cat)
@@ -1646,13 +1648,20 @@ if app_mode == "Admin Console":
                     
                     status_text.text("완료!")
                     
-                    # Download Button
-                    st.download_button(
-                        label="📦 전체 이미지 다운로드 (ZIP)",
-                        data=zip_buffer.getvalue(),
-                        file_name=f"infographics_{target_date}.zip",
-                        mime="application/zip"
-                    )
+                    # Fix: Ensure buffer is ready for reading
+                    zip_buffer.seek(0)
+                    
+                    if not generated_images:
+                        st.warning("⚠️ 생성된 이미지가 없습니다. 뉴스가 충분하지 않거나 오류가 발생했을 수 있습니다.")
+                    else:
+                        st.success(f"총 {len(generated_images)}장의 인포그래픽이 생성되었습니다!")
+                        # Download Button
+                        st.download_button(
+                            label="📦 전체 이미지 다운로드 (ZIP)",
+                            data=zip_buffer,
+                            file_name=f"infographics_{target_date}.zip",
+                            mime="application/zip"
+                        )
 
 else:
     # --- Viewer Mode ---

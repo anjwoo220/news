@@ -1561,8 +1561,9 @@ def prettify_infographic_text(category, items, api_key):
         if text.startswith("```"): text = text.replace("```", "")
         data = json.loads(text)
         return data.get("lines", [])
-    except:
-        # Fallback
+    except Exception as e:
+        print(f"Infographic AI Error: {e}")
+        # Fallback to simple titles
         return [f"📰 {item['title'][:18]}..." for item in items[:3]]
 
 def generate_category_infographic(category, items, date_str, api_key):
