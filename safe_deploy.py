@@ -280,12 +280,22 @@ def main():
     print("\n4. Committing and Pushing to GitHub...")
     try:
         # Force add data files to ensure they are tracked (if they exist)
-        files_to_add = []
-        # Force add data files to ensure they are tracked (if they exist)
+        # NOTE: processed_urls.json is EXCLUDED - managed only by GitHub Actions
         files_to_add = []
         for fpath in ["data/news.json", "data/events.json", "data/big_events.json", "data/trends.json", "data/magazine_content.json", "data/twitter_trends.json", "data/sources.json", "data/board.json", "deploy_meta.txt"]:
             if os.path.exists(fpath):
                 files_to_add.append(fpath)
+        
+        if files_to_add:
+            run_command(f"git add -f {' '.join(files_to_add)}")
+            
+        run_command("git add .")
+        
+        # CRITICAL: Exclude processed_urls.json from staging to prevent overwriting GitHub Actions' version
+        try:
+            run_command("git reset HEAD -- data/processed_urls.json")
+        except:
+            pass # File might not be staged, that's okay
         
         if files_to_add:
             run_command(f"git add -f {' '.join(files_to_add)}")
