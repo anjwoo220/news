@@ -1235,25 +1235,35 @@ def fetch_twitter_trends(api_key):
         model = genai.GenerativeModel('gemini-2.0-flash-exp')
         
         prompt = f"""
+        # Role
+        You are a 'Security and Safety Analyst' for Bangkok, Thailand.
+
+        # Context
+        Thai Twitter trends are 80% dominated by **BL dramas (Y-Series), celebrity fandoms, and TV shows**.
+        Words like 'Shooting', 'Attack', 'Fire' often appear but are **NOT real disasters** - they are drama titles or plot descriptions.
+
+        # Task
         Analyze these real-time Thailand Twitter trends:
         {json.dumps(top_trends, ensure_ascii=False)}
         
-        Goal: Identify if there is ANY critical or useful information for a FOREIGN TRAVELER in Bangkok/Thailand right now.
-        
-        Criteria:
-        1.  **Critical**: Protests, Riots, Severe Weather (Floods), Transport Chaos (BTS/MRT breakdowns), Major Accidents.
-        2.  **Useful**: K-Pop Star arrival (Airport crowds), Major Festival occurring NOW.
-        3.  **Ignore**: Political gossip, Celebrity dating rumors, Fan-wars, TV show hashtags.
-        
-        Output JSON (Return null if nothing important):
-        {{
-            "topic": "Keyword or Hashtag",
-            "reason": "1 simple sentence in KOREAN explaining the situation for a tourist. (e.g. '시위로 인해 시암 지역이 혼잡하니 피하세요')",
-            "severity": "warning" (for danger/disruption) or "info" (for events/crowds)
-        }}
-        
-        * If multiple issues, pick the MOST critical one.
-        * If nothing relevant, return null.
+        Strictly determine if any trend represents a **'Real-world Physical Danger'** vs **'Media Content'**.
+
+        # Critical Rules (MUST FOLLOW)
+        1. **Drama/Movie Check:** If hashtag contains 'EP', 'Series', 'TheMovie', 'OnAir', actor names, or looks like a show title → **ALWAYS return null**.
+        2. **Cross-Verification:** For "Shooting" or "Fire" to be valid, there MUST be a **specific location name** (Siam Paragon, Central World, etc.) or **clear situation description**.
+        3. **Default to Ignore:** If unsure whether it's a real event or drama → **return null**. False alarms are MORE dangerous than missing info.
+        4. **Still Useful:** K-Pop arrivals (airport crowds), Protests with location, Severe Weather with location → valid.
+
+        # Few-shot Examples
+        - "#TheFireQ8Shooting" → null (Reason: 'The Fire' is likely a drama title, Q8 is episode code)
+        - "#SiamParagonShooting" → {{"severity": "warning", "reason": "시암 파라곤 쇼핑몰에서 총격 신고가 접수됨"}}
+        - "#BrightWinEP10" → null (BL drama episode)
+        - "#ม็อบราชประสงค์" → {{"severity": "warning", "reason": "라차쁘라송 사거리에서 시위 중, 교통 혼잡 예상"}}
+
+        # Output Format (JSON)
+        Return ONLY one of these:
+        - null (if nothing relevant or uncertain)
+        - {{"topic": "Keyword", "reason": "1 sentence in KOREAN for tourist", "severity": "warning" or "info"}}
         """
         
         response = model.generate_content(prompt)
