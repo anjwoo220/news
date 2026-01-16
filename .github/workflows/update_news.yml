@@ -29,7 +29,9 @@ jobs:
       - name: Create secrets.toml
         run: |
           mkdir -p .streamlit
-          echo "${{ secrets.APP_SECRETS }}" > .streamlit/secrets.toml
+          cat > .streamlit/secrets.toml << 'SECRETS_EOF'
+          ${{ secrets.APP_SECRETS }}
+          SECRETS_EOF
 
       - name: Run Batch Job
         env:
