@@ -2702,31 +2702,29 @@ else:
                             st.session_state['active_hotel_id'] = None
 
             # Selectbox & Analyze
-            target_place_id = None
             if st.session_state.get('hotel_candidates'):
                 cands = st.session_state['hotel_candidates']
                 # Default to first
-                options = {f"{c['name']} ({c['address']})" : c['id'] for c in cands}
+                options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
                 
                 sel_label = st.selectbox("검색된 호텔 선택", list(options.keys()), key="sel_hotel_final")
                 target_place_id = options[sel_label]
                 
-                st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
+                # Store in session state for use outside container
+                st.session_state['_selected_hotel_id'] = target_place_id
+                st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
                 
-                # Analyze Button inside the flow
-                analyze_btn = st.button("📊 팩트체크 분석 시작", key="btn_analyze_hotel", type="primary")
-            else:
-                analyze_btn = False
+                st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
 
+        # CRITICAL: Move analyze button OUTSIDE container to avoid frontend crash
+        # The button must be at the same indentation level as the container, not inside it
+        if st.session_state.get('hotel_candidates') and st.session_state.get('_selected_hotel_id'):
+            analyze_btn = st.button("📊 팩트체크 분석 시작", key="btn_analyze_hotel", type="primary")
+            
             if analyze_btn:
                 st.session_state['show_hotel_analysis'] = True
-                st.session_state['active_hotel_id'] = target_place_id
-                st.session_state['_pending_hotel_analysis'] = True  # Flag for rerun
-
-        # CRITICAL: Trigger rerun OUTSIDE container to avoid frontend crash
-        # This ensures analysis happens on a fresh script run, not the same run as button click
-        if st.session_state.pop('_pending_hotel_analysis', False):
-            st.rerun()
+                st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
+                st.rerun()
 
         # --- Step 2: Fetch Details & Analyze ---
         active_id = st.session_state.get('active_hotel_id')
