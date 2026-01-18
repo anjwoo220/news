@@ -2721,8 +2721,12 @@ else:
             if analyze_btn:
                 st.session_state['show_hotel_analysis'] = True
                 st.session_state['active_hotel_id'] = target_place_id
-                # Note: No st.rerun() here - the analysis will proceed naturally
-                # on the same script run since show_hotel_analysis is now True
+                st.session_state['_pending_hotel_analysis'] = True  # Flag for rerun
+
+        # CRITICAL: Trigger rerun OUTSIDE container to avoid frontend crash
+        # This ensures analysis happens on a fresh script run, not the same run as button click
+        if st.session_state.pop('_pending_hotel_analysis', False):
+            st.rerun()
 
         # --- Step 2: Fetch Details & Analyze ---
         active_id = st.session_state.get('active_hotel_id')
