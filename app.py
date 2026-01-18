@@ -2716,15 +2716,17 @@ else:
                 
                 st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
 
-        # CRITICAL: Move analyze button OUTSIDE container to avoid frontend crash
-        # The button must be at the same indentation level as the container, not inside it
+        # CRITICAL FIX: Use form to avoid delta path conflicts
+        # Form submission triggers a clean Streamlit rerun without delta path issues
         if st.session_state.get('hotel_candidates') and st.session_state.get('_selected_hotel_id'):
-            analyze_btn = st.button("📊 팩트체크 분석 시작", key="btn_analyze_hotel", type="primary")
-            
-            if analyze_btn:
-                st.session_state['show_hotel_analysis'] = True
-                st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
-                st.rerun()
+            with st.form(key="hotel_analysis_form"):
+                st.write(f"**{st.session_state.get('_selected_hotel_label', '선택된 호텔')}** 분석을 시작합니다.")
+                analyze_submitted = st.form_submit_button("📊 팩트체크 분석 시작", type="primary")
+                
+                if analyze_submitted:
+                    st.session_state['show_hotel_analysis'] = True
+                    st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
+                    # No st.rerun() needed - form submission triggers clean rerun
 
         # --- Step 2: Fetch Details & Analyze ---
         active_id = st.session_state.get('active_hotel_id')
