@@ -2669,186 +2669,136 @@ else:
         if 'hotel_history' not in st.session_state:
             st.session_state['hotel_history'] = []
 
-        # CRITICAL FIX: Isolate search UI from analysis UI to prevent delta path conflicts
+        # CRITICAL FIX: Ultra-flat UI to avoid delta path conflicts
         if not st.session_state.get('show_hotel_analysis'):
-            with st.container(border=True):
-                c_city, c_name = st.columns([1, 2])
-                with c_city:
-                    city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", "기타 (직접 입력)"]
-                    selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select", on_change=clear_hotel_cands)
-                    
-                    if selected_city == "기타 (직접 입력)":
-                        city = st.text_input("도시명 (영어)", placeholder="예: Siracha", key="user_city_manual")
-                    else:
-                        city = selected_city
-                        
-                with c_name:
-                    hotel_query = st.text_input("호텔 검색", placeholder="예: Amari, Hilton", key="user_hotel_input", on_change=clear_hotel_cands)
-                    
-                # Search Button
-                if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", width='stretch'):
-                    if not hotel_query:
-                        st.warning("호텔 이름을 입력해주세요.")
-                    elif not api_key:
-                        st.error("Google Maps API Key Missing")
-                    else:
-                        with st.spinner(f"🔍 '{hotel_query}' 검색 중..."):
-                            cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
-                            if not cands: 
-                                st.error("검색 결과가 없습니다.")
-                                if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
-                            else:
-                                st.session_state['hotel_candidates'] = cands
-                                # Reset Previous Analysis
-                                st.session_state['show_hotel_analysis'] = False
-                                st.session_state['active_hotel_id'] = None
+            # Area 1: Search inputs (No container, no columns)
+            city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", "기타 (직접 입력)"]
+            selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select", on_change=clear_hotel_cands)
+            
+            if selected_city == "기타 (직접 입력)":
+                city = st.text_input("도시명 (영어)", placeholder="예: Siracha", key="user_city_manual")
+            else:
+                city = selected_city
+                
+            hotel_query = st.text_input("호텔 검색", placeholder="예: Amari, Hilton", key="user_hotel_input", on_change=clear_hotel_cands)
+            
+            # Search Button
+            if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", use_container_width=True):
+                if not hotel_query:
+                    st.warning("호텔 이름을 입력해주세요.")
+                elif not api_key:
+                    st.error("Google Maps API Key Missing")
+                else:
+                    with st.spinner(f"🔍 '{hotel_query}' 검색 중..."):
+                        cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
+                        if not cands: 
+                            st.error("검색 결과가 없습니다.")
+                            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+                        else:
+                            st.session_state['hotel_candidates'] = cands
+                            st.session_state['show_hotel_analysis'] = False
+                            st.session_state['active_hotel_id'] = None
 
-                # Selectbox & Analyze
-                if st.session_state.get('hotel_candidates'):
-                    cands = st.session_state['hotel_candidates']
-                    # Default to first
-                    options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
-                    
-                    sel_label = st.selectbox("검색된 호텔 선택", list(options.keys()), key="sel_hotel_final")
-                    target_place_id = options[sel_label]
-                    
-                    # Store in session state for use outside container
-                    st.session_state['_selected_hotel_id'] = target_place_id
-                    st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
-                    
-                    st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
+            # Area 2: Selection (No columns)
+            if st.session_state.get('hotel_candidates'):
+                cands = st.session_state['hotel_candidates']
+                options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
+                
+                sel_label = st.selectbox("검색된 호텔 선택", list(options.keys()), key="sel_hotel_final")
+                target_place_id = options[sel_label]
+                
+                st.session_state['_selected_hotel_id'] = target_place_id
+                st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
+                
+                st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
 
-            # Form to trigger analysis
-            if st.session_state.get('hotel_candidates') and st.session_state.get('_selected_hotel_id'):
-                with st.form(key="hotel_analysis_form"):
-                    st.write(f"**{st.session_state.get('_selected_hotel_label', '선택된 호텔')}** 분석을 시작합니다.")
-                    analyze_submitted = st.form_submit_button("📊 팩트체크 분석 시작", type="primary")
-                    
-                    if analyze_submitted:
-                        st.session_state['show_hotel_analysis'] = True
-                        st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
-                        st.rerun() # Force a clean rerun with show_hotel_analysis = True
+                # Simply use a button with a clear rerun
+                if st.button("📊 팩트체크 분석 시작", type="primary", use_container_width=True):
+                    st.session_state['show_hotel_analysis'] = True
+                    st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
+                    st.rerun()
         else:
-            # Show a back button when in analysis mode
-            if st.button("⬅️ 검색 결과로 돌아가기"):
+            # Area 3: Analysis Results (No columns)
+            if st.button("⬅️ 검색 결과로 돌아가기", use_container_width=True):
                 st.session_state['show_hotel_analysis'] = False
                 st.rerun()
 
-        # --- Step 2: Fetch Details & Analyze ---
-        active_id = st.session_state.get('active_hotel_id')
-        show_analysis = st.session_state.get('show_hotel_analysis')
-        
-        if show_analysis and active_id:
-            if not gemini_key or not api_key:
-                 st.error("API Key Missing")
-            else:
-                 with st.spinner("📊 상세 정보 및 리뷰 분석 중..."):
-                     info = utils.fetch_hotel_details(active_id, api_key)
-                     
-                     if info:
-                         # 3. Analyze Reviews (Gemini) - Moved UP for data availability
-                         analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
-                        
-                         # JSON parsing robust handling
-                         if isinstance(analysis, list) and len(analysis) > 0:
-                             analysis = analysis[0]
+            active_id = st.session_state.get('active_hotel_id')
+            if active_id:
+                if not gemini_key or not api_key:
+                     st.error("API Key Missing")
+                else:
+                     with st.spinner("📊 상세 정보 및 리뷰 분석 중..."):
+                         info = utils.fetch_hotel_details(active_id, api_key)
                          
-                         if isinstance(analysis, dict) and "error" in analysis:
-                             st.error(f"분석 중 오류 발생: {analysis['error']}")
-                         elif not isinstance(analysis, dict):
-                             st.error(f"분석 결과 형식 오류: {str(analysis)}")
-                         else:
-                             # 2. Display Basic Info (Now has access to analysis)
-                             col_img, col_desc = st.columns([1, 1.5])
+                         if info:
+                             analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
                             
-                             with col_img:
+                             if isinstance(analysis, list) and len(analysis) > 0:
+                                 analysis = analysis[0]
+                             
+                             if isinstance(analysis, dict) and "error" in analysis:
+                                 st.error(f"분석 중 오류 발생: {analysis['error']}")
+                             elif not isinstance(analysis, dict):
+                                 st.error(f"분석 결과 형식 오류: {str(analysis)}")
+                             else:
+                                 # Flat Display (No columns)
                                  if info.get('photo_url'):
-                                     st.image(info['photo_url'], width='stretch', caption=info['name'])
-                                 else:
-                                     st.image("https://via.placeholder.com/400x300?text=No+Image", width='stretch')
-                                    
-                             with col_desc:
+                                     st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                                 
                                  st.subheader(f"{info['name']}")
                                  st.markdown(f"📍 **주소:** {info['address']}")
                                  st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")
                                  
-                                 # Price Info (New)
                                  if analysis.get('price_level'):
                                      st.markdown(f"{analysis['price_level']} **{analysis.get('price_range_text', '')}**")
                                  
                                  st.divider()
 
-                             # [NEW] Save to History
-                             history_item = {
-                                 "info": info,
-                                 "analysis": analysis,
-                                 "saved_at": datetime.now().strftime("%Y-%m-%d %H:%M")
-                             }
-                             
-                             # Deduplication: Remove existing if same name
-                             st.session_state['hotel_history'] = [
-                                 h for h in st.session_state['hotel_history'] 
-                                 if h['info']['name'] != info['name']
-                             ]
-                             # Insert at top
-                             st.session_state['hotel_history'].insert(0, history_item)
-                             
-                             # --- Trip.com Button (Optimized) ---
-                             try:
-                                 import urllib.parse
-                                 from datetime import datetime, timedelta
+                                 # History logic
+                                 history_item = {
+                                     "info": info,
+                                     "analysis": analysis,
+                                     "saved_at": datetime.now().strftime("%Y-%m-%d %H:%M")
+                                 }
+                                 st.session_state['hotel_history'] = [
+                                     h for h in st.session_state['hotel_history'] 
+                                     if h['info']['name'] != info['name']
+                                 ]
+                                 st.session_state['hotel_history'].insert(0, history_item)
                                  
-                                 trip_secrets = st.secrets.get("trip_com", {})
-                                 aid = trip_secrets.get("alliance_id")
-                                 sid = trip_secrets.get("sid")
-                                 
-                                 if aid and sid:
-                                     # 1. Simplified Keyword Strategy with Exact Match
-                                     # Priority: 'trip_keyword' (Gemini) -> info['name'] (Google Maps)
-                                     raw_keyword = analysis.get('trip_keyword')
-                                     if not raw_keyword:
-                                         raw_keyword = info.get('name', '')
+                                 # Trip.com link
+                                 try:
+                                     import urllib.parse
+                                     from datetime import datetime, timedelta
+                                     trip_secrets = st.secrets.get("trip_com", {})
+                                     aid = trip_secrets.get("alliance_id")
+                                     sid = trip_secrets.get("sid")
                                      
-                                     # 2. Dates
-                                     today_str = datetime.now().strftime("%Y-%m-%d")
-                                     tomorrow_str = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
+                                     if aid and sid:
+                                         raw_keyword = analysis.get('trip_keyword') or info.get('name', '')
+                                         today_str = datetime.now().strftime("%Y-%m-%d")
+                                         tomorrow_str = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
+                                         encoded_keyword = urllib.parse.quote(f'"{raw_keyword}"')
+                                         trip_url = (
+                                             f"https://kr.trip.com/hotels/list?"
+                                             f"searchType=KW&"
+                                             f"keyword={encoded_keyword}&"
+                                             f"searchText={encoded_keyword}&"
+                                             f"checkIn={today_str}&checkOut={tomorrow_str}&"
+                                             f"allianceid={aid}&sid={sid}"
+                                         )
+                                         st.link_button(f"🏨 '{raw_keyword}' 최저가 확인 (Trip.com)", trip_url, use_container_width=True, type="primary")
+                                 except: pass
                                      
-                                     # 3. Encoding with Quotes for Exact Match
-                                     # "Amari" -> %22Amari%22
-                                     encoded_keyword = urllib.parse.quote(f'"{raw_keyword}"')
-                                     
-                                     # 4. URL Construction (searchType=KW + searchText + Exact Match Quotes)
-                                     trip_url = (
-                                         f"https://kr.trip.com/hotels/list?"
-                                         f"searchType=KW&"
-                                         f"keyword={encoded_keyword}&"
-                                         f"searchText={encoded_keyword}&"
-                                         f"checkIn={today_str}&checkOut={tomorrow_str}&"
-                                         f"allianceid={aid}&sid={sid}"
-                                     )
-                                     
-                                     st.link_button(f"🏨 '{raw_keyword}' 최저가 확인 (Trip.com)", trip_url, width='stretch', type="primary")
-                             except Exception as e:
-                                 # st.error(f"Link Error: {e}") 
-                                 pass
-                                 
-                             # 4. Display Analysis Result
-                            
-                             # One-line Verdict
-                             st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
-                            
-                             # Recommendation Target
-                             st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
-                            
-                             # Pros & Cons
-                             c1, c2 = st.columns(2)
-                             with c1:
+                                 st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
+                                 st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
+                                
                                  st.success("✅ **장점**")
                                  for p in analysis.get('pros', []):
                                      st.markdown(f"- {p}")
                                     
-                             with c2:
-                                 st.error("⚠️ **단점**")
+                                 st.error("❌ **단점 & 주의사항**")
                                  for c in analysis.get('cons', []):
                                      st.markdown(f"- {c}")
                             
