@@ -2669,64 +2669,70 @@ else:
         if 'hotel_history' not in st.session_state:
             st.session_state['hotel_history'] = []
 
-        with st.container(border=True):
-            c_city, c_name = st.columns([1, 2])
-            with c_city:
-                city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", "기타 (직접 입력)"]
-                selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select", on_change=clear_hotel_cands)
-                
-                if selected_city == "기타 (직접 입력)":
-                    city = st.text_input("도시명 (영어)", placeholder="예: Siracha", key="user_city_manual")
-                else:
-                    city = selected_city
+        # CRITICAL FIX: Isolate search UI from analysis UI to prevent delta path conflicts
+        if not st.session_state.get('show_hotel_analysis'):
+            with st.container(border=True):
+                c_city, c_name = st.columns([1, 2])
+                with c_city:
+                    city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", "기타 (직접 입력)"]
+                    selected_city = st.selectbox("지역 (City)", city_opts, key="user_city_select", on_change=clear_hotel_cands)
                     
-            with c_name:
-                hotel_query = st.text_input("호텔 검색", placeholder="예: Amari, Hilton", key="user_hotel_input", on_change=clear_hotel_cands)
-                
-            # Search Button
-            if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", width='stretch'):
-                if not hotel_query:
-                    st.warning("호텔 이름을 입력해주세요.")
-                elif not api_key:
-                    st.error("Google Maps API Key Missing")
-                else:
-                    with st.spinner(f"🔍 '{hotel_query}' 검색 중..."):
-                        cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
-                        if not cands: 
-                            st.error("검색 결과가 없습니다.")
-                            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
-                        else:
-                            st.session_state['hotel_candidates'] = cands
-                            # Reset Previous Analysis
-                            st.session_state['show_hotel_analysis'] = False
-                            st.session_state['active_hotel_id'] = None
+                    if selected_city == "기타 (직접 입력)":
+                        city = st.text_input("도시명 (영어)", placeholder="예: Siracha", key="user_city_manual")
+                    else:
+                        city = selected_city
+                        
+                with c_name:
+                    hotel_query = st.text_input("호텔 검색", placeholder="예: Amari, Hilton", key="user_hotel_input", on_change=clear_hotel_cands)
+                    
+                # Search Button
+                if st.button("🔍 호텔 찾기", key="btn_hotel_search", type="primary", width='stretch'):
+                    if not hotel_query:
+                        st.warning("호텔 이름을 입력해주세요.")
+                    elif not api_key:
+                        st.error("Google Maps API Key Missing")
+                    else:
+                        with st.spinner(f"🔍 '{hotel_query}' 검색 중..."):
+                            cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
+                            if not cands: 
+                                st.error("검색 결과가 없습니다.")
+                                if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+                            else:
+                                st.session_state['hotel_candidates'] = cands
+                                # Reset Previous Analysis
+                                st.session_state['show_hotel_analysis'] = False
+                                st.session_state['active_hotel_id'] = None
 
-            # Selectbox & Analyze
-            if st.session_state.get('hotel_candidates'):
-                cands = st.session_state['hotel_candidates']
-                # Default to first
-                options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
-                
-                sel_label = st.selectbox("검색된 호텔 선택", list(options.keys()), key="sel_hotel_final")
-                target_place_id = options[sel_label]
-                
-                # Store in session state for use outside container
-                st.session_state['_selected_hotel_id'] = target_place_id
-                st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
-                
-                st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
+                # Selectbox & Analyze
+                if st.session_state.get('hotel_candidates'):
+                    cands = st.session_state['hotel_candidates']
+                    # Default to first
+                    options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
+                    
+                    sel_label = st.selectbox("검색된 호텔 선택", list(options.keys()), key="sel_hotel_final")
+                    target_place_id = options[sel_label]
+                    
+                    # Store in session state for use outside container
+                    st.session_state['_selected_hotel_id'] = target_place_id
+                    st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
+                    
+                    st.info(f"선택된 호텔: **{sel_label.split('(')[0]}**")
 
-        # CRITICAL FIX: Use form to avoid delta path conflicts
-        # Form submission triggers a clean Streamlit rerun without delta path issues
-        if st.session_state.get('hotel_candidates') and st.session_state.get('_selected_hotel_id'):
-            with st.form(key="hotel_analysis_form"):
-                st.write(f"**{st.session_state.get('_selected_hotel_label', '선택된 호텔')}** 분석을 시작합니다.")
-                analyze_submitted = st.form_submit_button("📊 팩트체크 분석 시작", type="primary")
-                
-                if analyze_submitted:
-                    st.session_state['show_hotel_analysis'] = True
-                    st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
-                    # No st.rerun() needed - form submission triggers clean rerun
+            # Form to trigger analysis
+            if st.session_state.get('hotel_candidates') and st.session_state.get('_selected_hotel_id'):
+                with st.form(key="hotel_analysis_form"):
+                    st.write(f"**{st.session_state.get('_selected_hotel_label', '선택된 호텔')}** 분석을 시작합니다.")
+                    analyze_submitted = st.form_submit_button("📊 팩트체크 분석 시작", type="primary")
+                    
+                    if analyze_submitted:
+                        st.session_state['show_hotel_analysis'] = True
+                        st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
+                        st.rerun() # Force a clean rerun with show_hotel_analysis = True
+        else:
+            # Show a back button when in analysis mode
+            if st.button("⬅️ 검색 결과로 돌아가기"):
+                st.session_state['show_hotel_analysis'] = False
+                st.rerun()
 
         # --- Step 2: Fetch Details & Analyze ---
         active_id = st.session_state.get('active_hotel_id')
