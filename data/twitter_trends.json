@@ -1,6 +1,6 @@
 {
   "topic": "THE AIR Q18 SHOOTING",
-  "reason": "제목에 'SHOOTING'이 포함되어 있지만, 'THE AIR'는 드라마 제목일 가능성이 높고, Q18은 에피소드 코드일 수 있으므로 실제 사건이 아닐 가능성이 큼.",
+  "reason": "드라마 제목에 'Shooting' 단어가 포함되어 실제 사건인지 불확실합니다. 주의를 기울여주세요.",
   "severity": "info",
-  "collected_at": "2026-01-19 14:23:01"
+  "collected_at": "2026-01-19 14:59:12"
 }
