@@ -1,6 +1,6 @@
 {
-  "topic": "#แจ้งเตือนภัย",
-  "reason": "태국어로 '경고'를 의미하며, 잠재적인 위험 상황을 알리는 트윗이 있을 수 있습니다.",
-  "severity": "warning",
-  "collected_at": "2026-01-20 17:04:14"
+  "topic": "THE AIR Q19 SHOOTING",
+  "reason": "제목에 'SHOOTING'이 포함되어 있지만 드라마 제목일 가능성이 높으므로 실제 사건으로 간주하지 않음.",
+  "severity": "info",
+  "collected_at": "2026-01-20 18:02:26"
 }
