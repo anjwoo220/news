@@ -1,6 +1,6 @@
 {
   "topic": "THE AIR Q19 SHOOTING",
-  "reason": "제목에 'SHOOTING'이 포함되어 있지만 드라마 제목일 가능성이 높으므로 실제 사건으로 간주하지 않음.",
+  "reason": "총격 사건으로 보이나, 구체적인 장소 정보가 없어 드라마 제목일 가능성이 높음",
   "severity": "info",
-  "collected_at": "2026-01-20 18:02:26"
+  "collected_at": "2026-01-21 03:39:48"
 }
