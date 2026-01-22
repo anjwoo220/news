@@ -2311,13 +2311,17 @@ else:
                 for idx, item in enumerate(topics_to_show):
                     share_text += f"{idx+1}. {item['title']}\n"
                     
-                    # Safe Reference URL
-                    ref_url = "#"
-                    refs = item.get('references')
-                    if isinstance(refs, list) and refs:
-                        ref_url = refs[0].get('url', '#')
-                    elif isinstance(refs, str) and (refs.startswith('http') or refs.startswith('www')):
-                         ref_url = refs
+                    # Robust URL Extraction for Bulk Share
+                    ref_url = item.get('link') or "#"
+                    if ref_url == "#" or not str(ref_url).startswith('http'):
+                        refs = item.get('references')
+                        if isinstance(refs, str) and (refs.startswith('[') or refs.startswith('{')):
+                            try: import json; refs = json.loads(refs)
+                            except: pass
+                        if isinstance(refs, list) and refs:
+                            ref_url = refs[0].get('url', '#')
+                        elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
+                             ref_url = refs
                     
                     share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
                 share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
@@ -2387,20 +2391,28 @@ else:
                      if not isinstance(refs, list):
                          refs = []
 
-                     # Link for Share Text
-                     ref_url = "#"
-                     if refs and isinstance(refs[0], dict):
-                         ref_url = refs[0].get('url', '#')
+                     # Robust URL Extraction for Individual Share
+                     ref_url = topic.get('link') or "#"
+                     if ref_url == "#" or not str(ref_url).startswith('http'):
+                         if refs and isinstance(refs[0], dict):
+                             ref_url = refs[0].get('url', '#')
                          
                      # Individual Share
                      ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
                      st.code(ind_share, language="text")
                      st.markdown("---")
                      
-                     # Render Links
+                     # Render Links with Robustness
+                     if not refs and ref_url != "#":
+                         # Synthetic ref if main link exists but refs list is empty
+                         refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
+
                      for ref in refs:
                         if isinstance(ref, dict):
                             url = ref.get('url', '#')
+                            # Double check for broken URL
+                            if url == "#" and ref_url != "#": url = ref_url
+                            
                             source = ref.get('source', '')
                             source_display = f" ({source})" if source else ""
                             st.markdown(f"**원문**: {url}{source_display}")
