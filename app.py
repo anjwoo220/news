@@ -46,7 +46,7 @@ CONFIG_FILE = 'data/config.json'
 COMMENTS_FILE = 'data/comments.json'
 BOARD_FILE = 'data/board.json'
 
-DEPLOY_URL = "https://thai-briefing.streamlit.app"
+DEPLOY_URL = "https://thai-today.com"
 
 st.set_page_config(
     page_title="오늘의 태국 - 방콕 맛집, 뉴스, 여행 필수 앱",

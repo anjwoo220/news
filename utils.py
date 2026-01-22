@@ -210,12 +210,17 @@ def fetch_balanced_rss(feeds_config, processed_urls=None):
                     continue
 
                 if is_recent(entry):
+                    # Robust Source Extraction
+                    raw_src = feed_data.feed.get("title", url)
+                    if not raw_src or str(raw_src).lower() == 'none' or str(raw_src).strip() == '':
+                        raw_src = "[MISSING_SOURCE]"
+                    
                     item = {
                         "title": entry.title,
                         "link": entry.link,
                         "published": entry.get("published", str(datetime.now())),
                         "summary": entry.get("summary", ""),
-                        "source": feed_data.feed.get("title", url),
+                        "source": raw_src,
                         "suggested_category": category, # Hint for AI or logic
                         "_raw_entry": entry
                     }
@@ -279,13 +284,18 @@ def fetch_google_news_rss(query="Thailand Tourism", period="24h"):
             feed = feedparser.parse(response.content)
             items = []
             for entry in feed.entries:
+                # [FIX] Robust Source Extraction for Google News
+                raw_src = entry.get('source', {}).get('title')
+                if not raw_src or str(raw_src).lower() == 'none' or str(raw_src).strip() == '':
+                    raw_src = "[MISSING_SOURCE]"
+                
                 # Standardize to our News Item format
                 item = {
                     'title': entry.title,
                     'link': entry.link,
                     'published': entry.get('published', ''),
                     'summary': entry.get('description', ''),
-                    'source': entry.get('source', {}).get('title', 'Google News'),
+                    'source': raw_src,
                     '_raw_entry': entry # Keep for image extraction
                 }
                 items.append(item)
@@ -403,6 +413,8 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 - 이미 게시된 뉴스와 **내용이 100% 동일하면 제외**하세요.
 - 하지만 **'상황이 업데이트' 되었다면 반드시 포함**하세요.
 - 아침에는 '오늘의 예보/예정' 위주, 저녁에는 '오늘 발생한 사건/결과' 위주로 가중치를 두세요.
+- **[CRITICAL] 출처가 '[MISSING_SOURCE]'인 기사는 'tourist_impact_score'가 8점 이상인 경우에만 결과에 포함하세요.** 7점 이하인 일반 기사는 과감히 제외하세요.
+- 만약 출처가 '[MISSING_SOURCE]'인데 정보를 포함하기로 결정했다면, 출력 JSON의 `source` 필드에는 "Google News" 또는 기사 내용에서 추론된 실제 언론사 이름을 적으세요. 절대 "None"이나 "[MISSING_SOURCE]"라고 출력하지 마세요.
 
 # Output Format (JSON Only)
 {{
@@ -442,8 +454,24 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
                 result = json.loads(safe_text)
                 
                 if 'topics' in result and result['topics']:
-                    # --- Python Verification (Strict Mode Enforcement) ---
+                    # --- Python Post-Processing & Verification ---
+                    filtered_topics = []
                     for topic in result['topics']:
+                        # 0. Sanitize Source (Emergency fix if AI failed constraints)
+                        for ref in topic.get('references', []):
+                            src = str(ref.get('source', '')).strip()
+                            if not src or src.lower() == 'none' or src == '[MISSING_SOURCE]':
+                                ref['source'] = 'Google News'
+                        
+                        # 1. Strict Source Filtering Verification
+                        is_missing_source = (item['source'] == '[MISSING_SOURCE]')
+                        impact_score = topic.get('tourist_impact_score', 0)
+                        
+                        if is_missing_source and impact_score < 8:
+                            print(f"   -> [Filtered] Skipping '{topic['title']}' (Missing source & Low score: {impact_score})")
+                            continue
+                            
+                        # 2. Festival/Event Strict Mode
                         if topic.get('category') == '축제/이벤트':
                             evt = topic.get('event_info')
                             # Check strict conditions
@@ -455,8 +483,10 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
                                  print(f"   -> [Strict Mode] Downgrading '{topic['title']}' (Location Unknown)")
                                  topic['category'] = '여행/관관'
                                  topic['event_info'] = None
+                        
+                        filtered_topics.append(topic)
 
-                    aggregated_topics.extend(result['topics'])
+                    aggregated_topics.extend(filtered_topics)
                     print(f"   -> Success. Topics so far: {len(aggregated_topics)}")
                     success = True
                 else:
