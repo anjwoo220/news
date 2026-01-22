@@ -2311,17 +2311,14 @@ else:
                 for idx, item in enumerate(topics_to_show):
                     share_text += f"{idx+1}. {item['title']}\n"
                     
-                    # Robust URL Extraction for Bulk Share
+                    # Unified Robust URL Extraction
                     ref_url = item.get('link') or "#"
-                    if ref_url == "#" or not str(ref_url).startswith('http'):
-                        refs = item.get('references')
-                        if isinstance(refs, str) and (refs.startswith('[') or refs.startswith('{')):
-                            try: import json; refs = json.loads(refs)
-                            except: pass
-                        if isinstance(refs, list) and refs:
-                            ref_url = refs[0].get('url', '#')
-                        elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
-                             ref_url = refs
+                    if ref_url == "#":
+                         refs = item.get('references')
+                         if isinstance(refs, list) and refs:
+                             ref_url = refs[0].get('url', '#')
+                         elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
+                              ref_url = refs
                     
                     share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
                 share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
@@ -2393,7 +2390,7 @@ else:
 
                      # Robust URL Extraction for Individual Share
                      ref_url = topic.get('link') or "#"
-                     if ref_url == "#" or not str(ref_url).startswith('http'):
+                     if ref_url == "#":
                          if refs and isinstance(refs[0], dict):
                              ref_url = refs[0].get('url', '#')
                          

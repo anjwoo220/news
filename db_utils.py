@@ -64,12 +64,25 @@ def load_news_from_sheet(worksheet="news"):
             # Parse JSON fields if they are strings (GSHEETS stores list/dict as string)
             for field in ['references', 'related_topics']:
                 if field in clean_item and isinstance(clean_item[field], str):
-                     # Simple check if it looks like JSON list
-                    if clean_item[field].startswith('[') or clean_item[field].startswith('{'):
+                     # Simple check if it looks like JSON list or dict
+                    val = str(clean_item[field]).strip()
+                    if val.startswith('[') or val.startswith('{'):
                         try:
-                            clean_item[field] = json.loads(clean_item[field])
+                            clean_item[field] = json.loads(val)
                         except:
-                            pass # Keep as string if parse fails or empty
+                            try:
+                                import ast
+                                clean_item[field] = ast.literal_eval(val)
+                            except:
+                                pass # Keep as string if all parse fails
+
+            # Ensure 'link' exists for UI compatibility (Fallback to first reference)
+            if not clean_item.get('link') or clean_item['link'] == "" or clean_item['link'] == "#":
+                refs = clean_item.get('references')
+                if isinstance(refs, list) and refs:
+                    clean_item['link'] = refs[0].get('url', "#")
+                elif isinstance(refs, str) and refs.startswith('http'):
+                    clean_item['link'] = refs
 
             news_by_date[date_str].append(clean_item)
             
