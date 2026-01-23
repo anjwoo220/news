@@ -88,11 +88,14 @@ def translate_text(text: str, dest: str = "ko") -> str:
             
         model = genai.GenerativeModel('gemini-2.0-flash')
         
+        # Aggressive Prompt to ensure zero Thai script remains
         prompt = f"""
-        Translate the following Thai text to Korean.
-        - Maintain the original tone (News/Formal).
-        - Output ONLY the translated text. Do not add explanations.
-        - If the text is already Korean, return it as is.
+        Translate the following text to Korean.
+        - IMPORTANT: Every single Thai character (script) MUST be converted/translated.
+        - Use phonetic Hangul for names or terms if no direct translation exists (e.g., 'แดง' -> '댕').
+        - The output must contain ZERO Thai script.
+        - If the text is a mix of Thai and Korean, translate only the Thai parts while keeping the Korean.
+        - Output ONLY the result. No explanations.
         
         Text:
         {text}
@@ -100,6 +103,9 @@ def translate_text(text: str, dest: str = "ko") -> str:
         
         response = model.generate_content(prompt)
         translated = response.text.strip()
+        
+        # Double check: if it still has Thai, try one more time or just return it
+        # But for now, the prompt should be enough.
         return translated
         
     except Exception as e:
@@ -386,6 +392,7 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 
 # Task
 입력된 뉴스 기사들을 분석하여 여행자에게 필요한 정보를 선별하고 요약하세요.
+**[CRITICAL] 모든 출력 텍스트(제목, 요약, 기사 전문 등)는 반드시 한국어(Korean)여야 합니다.** 태국어나 영어로 남겨두지 마세요.
 이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
 
 # Input Data
@@ -471,6 +478,13 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
                             print(f"   -> [Filtered] Skipping '{topic['title']}' (Missing source & Low score: {impact_score})")
                             continue
                             
+                        # --- [NEW] Ingestion-Time Translation Safety ---
+                        # If AI returned Thai, force manual translation before saving
+                        for field in ['title', 'summary', 'full_translated']:
+                            if field in topic and is_thai(topic[field]):
+                                print(f"   -> [Safety] Missed translation in {field}, forcing manual translation...")
+                                topic[field] = translate_text(topic[field])
+
                         # 2. Festival/Event Strict Mode
                         if topic.get('category') == '축제/이벤트':
                             evt = topic.get('event_info')

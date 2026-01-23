@@ -2348,9 +2348,6 @@ else:
             
                 st.markdown(f"**🏷️ {cat_text}** <span style='color:grey'> | 🕒 {meta_info}</span>", unsafe_allow_html=True)
             
-                # Translate Thai title if needed
-                if utils.is_thai(topic['title']):
-                    topic['title'] = utils.translate_text(topic['title'])
                 st.subheader(f"{topic['title']}")
             
                 if topic.get('image_url'):
