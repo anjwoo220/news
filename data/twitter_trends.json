@@ -1,6 +1,6 @@
 {
-  "topic": "THE AIR Q20 SHOOTING",
-  "reason": "드라마 촬영 관련 용어일 가능성이 높음. 실제 사건에 대한 구체적인 정보가 없음.",
-  "severity": "info",
-  "collected_at": "2026-01-24 12:46:40"
+  "topic": "#เชื่อในประชาชน",
+  "reason": "국민을 믿으라는 정치적 구호와 관련된 시위 또는 집회 가능성이 있습니다.",
+  "severity": "warning",
+  "collected_at": "2026-01-25 21:44:53"
 }
