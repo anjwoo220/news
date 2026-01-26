@@ -9,3 +9,5 @@ plotly
 pandas
 st-gsheets-connection
 googlesearch-python
+gspread
+oauth2client

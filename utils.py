@@ -8,9 +8,111 @@ import os
 import requests
 import re
 from bs4 import BeautifulSoup
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+import json
 
 
 import streamlit as st
+
+# --- Hotel Caching (Google Sheets) ---
+def get_hotel_gsheets_client():
+    """Authenticates gspread using secrets (GOOGLE_SHEETS_KEY or connections.gsheets_news)."""
+    try:
+        # 1. Try direct JSON string/dict from Railway/st.secrets
+        creds_info = st.secrets.get("GOOGLE_SHEETS_KEY")
+        
+        # 2. Try nested connection config if direct key is missing
+        if not creds_info:
+            if "connections" in st.secrets and "gsheets_news" in st.secrets["connections"]:
+                creds_info = st.secrets["connections"]["gsheets_news"]
+            elif "gsheets_news" in st.secrets:
+                creds_info = st.secrets["gsheets_news"]
+            
+        if not creds_info:
+            print("GSheets Secret Missing: Please check GOOGLE_SHEETS_KEY or [connections.gsheets_news]")
+            return None
+             
+        if isinstance(creds_info, str):
+            # Parse if it's a stringified JSON
+            try:
+                creds_dict = json.loads(creds_info)
+            except:
+                # If it's just a file path (unlikely in Streamlit Cloud but possible)
+                if os.path.exists(creds_info):
+                    with open(creds_info, 'r') as f:
+                        creds_dict = json.load(f)
+                else: raise
+        else:
+            # If it's a dict or AttrDict from st.secrets
+            creds_dict = dict(creds_info)
+            
+        # 3. Clean up dict for gspread (remove extra keys like 'spreadsheet' or 'worksheet')
+        valid_keys = [
+            "type", "project_id", "private_key_id", "private_key",
+            "client_email", "client_id", "auth_uri", "token_uri",
+            "auth_provider_x509_cert_url", "client_x509_cert_url", "universe_domain"
+        ]
+        gspread_creds = {k: v for k, v in creds_dict.items() if k in valid_keys}
+            
+        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+        creds = ServiceAccountCredentials.from_json_keyfile_dict(gspread_creds, scope)
+        client = gspread.authorize(creds)
+        return client
+    except Exception as e:
+        print(f"GSheets Auth Error: {e}")
+        return None
+
+def get_hotel_cache(hotel_name):
+    """Checks if analysis for the given hotel already exists in GSheets."""
+    client = get_hotel_gsheets_client()
+    if not client: return None
+    try:
+        # Worksheet name: hotel_cache_db
+        # We assume it's the first sheet (sheet1)
+        sh = client.open("hotel_cache_db")
+        sheet = sh.get_worksheet(0)
+        
+        # Search for hotel_name in the first column
+        # Using exact match for reliability
+        cell = sheet.find(hotel_name)
+        if cell:
+            row_data = sheet.row_values(cell.row)
+            # Expecting: [hotel_name, cached_date, ai_summary, raw_json]
+            if len(row_data) >= 4:
+                return {
+                    "hotel_name": row_data[0],
+                    "cached_date": row_data[1],
+                    "ai_summary": row_data[2],
+                    "raw_json": json.loads(row_data[3])
+                }
+    except Exception as e:
+        # If sheet doesn't exist or other error, return None
+        print(f"Cache Lookup Error: {e}")
+    return None
+
+def save_hotel_cache(hotel_name, ai_summary, raw_json_dict):
+    """Appends new analysis results to the hotel_cache_db GSheet."""
+    client = get_hotel_gsheets_client()
+    if not client: return
+    try:
+        sh = client.open("hotel_cache_db")
+        sheet = sh.get_worksheet(0)
+        
+        # Header: [hotel_name, cached_date, ai_summary, raw_json]
+        from datetime import datetime
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
+        
+        new_row = [
+            hotel_name,
+            now_str,
+            ai_summary,
+            json.dumps(raw_json_dict, ensure_ascii=False)
+        ]
+        sheet.append_row(new_row)
+        print(f"✅ Cached analysis for: {hotel_name}")
+    except Exception as e:
+        print(f"Cache Save Error: {e}")
 
 # Helper: Load Custom CSS from file
 def load_custom_css():

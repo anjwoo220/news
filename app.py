@@ -2736,6 +2736,15 @@ else:
                     st.error("Google Maps API Key Missing")
                 else:
                     with st.spinner(f"🔍 '{hotel_query}' 검색 중..."):
+                        # [NEW] Check Cache First - Even before searching Maps
+                        cached = utils.get_hotel_cache(hotel_query)
+                        if cached:
+                            st.success("📦 기존 분석 데이터를 찾았습니다! 바로 결과를 보여드립니다.")
+                            st.session_state['show_hotel_analysis'] = True
+                            st.session_state['active_hotel_id'] = "CACHED"
+                            st.session_state['_selected_hotel_label'] = hotel_query
+                            st.rerun()
+
                         cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
                         if not cands: 
                             st.error("검색 결과가 없습니다.")
@@ -2775,14 +2784,39 @@ else:
                      st.error("API Key Missing")
                 else:
                      with st.spinner("📊 상세 정보 및 리뷰 분석 중..."):
-                         info = utils.fetch_hotel_details(active_id, api_key)
+                         # [NEW] Check GSheets Cache First to save API costs
+                         hotel_name_to_check = st.session_state.get('_selected_hotel_label', '')
+                         cached_result = utils.get_hotel_cache(hotel_name_to_check)
                          
-                         if info:
-                             analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
-                            
-                             if isinstance(analysis, list) and len(analysis) > 0:
-                                 analysis = analysis[0]
+                         info = None
+                         analysis = None
+                         
+                         if cached_result:
+                             st.success(f"📦 캐시된 분석 데이터를 발견했습니다! ({cached_result['cached_date']})")
+                             cache_data = cached_result['raw_json']
+                             info = cache_data.get('info')
+                             analysis = cache_data.get('analysis')
+                         else:
+                             # Cache Miss: Proceed with Google Maps + Gemini Analysis
+                             info = utils.fetch_hotel_details(active_id, api_key)
                              
+                             if info:
+                                 analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                                
+                                 # If successful, save to cache
+                                 if analysis and isinstance(analysis, dict) and "error" not in analysis:
+                                     # Combine info and analysis for a complete cache hit next time
+                                     full_cached_json = {"info": info, "analysis": analysis}
+                                     summary = analysis.get('one_line_verdict', '')
+                                     utils.save_hotel_cache(info['name'], summary, full_cached_json)
+                                 elif isinstance(analysis, list) and len(analysis) > 0:
+                                     # Some versions might return a list
+                                     full_cached_json = {"info": info, "analysis": analysis[0]}
+                                     summary = analysis[0].get('one_line_verdict', '')
+                                     utils.save_hotel_cache(info['name'], summary, full_cached_json)
+                                     analysis = analysis[0]
+                         
+                         if info and analysis:
                              if isinstance(analysis, dict) and "error" in analysis:
                                  st.error(f"분석 중 오류 발생: {analysis['error']}")
                              elif not isinstance(analysis, dict):
