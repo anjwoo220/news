@@ -1333,12 +1333,19 @@ def fetch_twitter_trends(api_key):
         # Get top 10 from the most recent hour (first list)
         top_trends = []
         for li in trend_list[0].find_all('li')[:10]:
-            top_trends.append(li.get_text(strip=True))
+            text = li.get_text(strip=True)
+            # Pre-filter: Explicitly skip "Q+number" + "shooting" patterns (Drama schedule)
+            import re
+            if re.search(r'Q\d+', text, re.IGNORECASE) and re.search(r'shooting', text, re.IGNORECASE):
+                print(f"Skipping Drama Shooting Trend: {text}")
+                continue
+            top_trends.append(text)
             
         if not top_trends:
+            print("No valid trends after filtering.")
             return None
             
-        print(f"Top 10 Trends: {top_trends}")
+        print(f"Top 10 Trends (Filtered): {top_trends}")
         
         # Analyze with Gemini
         genai.configure(api_key=api_key)
@@ -1351,6 +1358,7 @@ def fetch_twitter_trends(api_key):
         # Context
         Thai Twitter trends are 80% dominated by **BL dramas (Y-Series), celebrity fandoms, and TV shows**.
         Words like 'Shooting', 'Attack', 'Fire' often appear but are **NOT real disasters** - they are drama titles or plot descriptions.
+        Specifically, 'Q1 Shooting', 'Q2 Shooting' refers to "Queue" (Filming session) schedules, NOT gun violence.
 
         # Task
         Analyze these real-time Thailand Twitter trends:
@@ -1359,13 +1367,14 @@ def fetch_twitter_trends(api_key):
         Strictly determine if any trend represents a **'Real-world Physical Danger'** vs **'Media Content'**.
 
         # Critical Rules (MUST FOLLOW)
-        1. **Drama/Movie Check:** If hashtag contains 'EP', 'Series', 'TheMovie', 'OnAir', actor names, or looks like a show title → **ALWAYS return null**.
+        1. **Drama/Movie Check:** If hashtag contains 'EP', 'Series', 'TheMovie', 'OnAir', 'Q1'~'Q99' with 'Shooting', actor names, or looks like a show title → **ALWAYS return null**.
         2. **Cross-Verification:** For "Shooting" or "Fire" to be valid, there MUST be a **specific location name** (Siam Paragon, Central World, etc.) or **clear situation description**.
         3. **Default to Ignore:** If unsure whether it's a real event or drama → **return null**. False alarms are MORE dangerous than missing info.
         4. **Still Useful:** K-Pop arrivals (airport crowds), Protests with location, Severe Weather with location → valid.
 
         # Few-shot Examples
-        - "#TheFireQ8Shooting" → null (Reason: 'The Fire' is likely a drama title, Q8 is episode code)
+        - "#TheFireQ8Shooting" → null (Reason: Q8 is episode/queue code for drama filming)
+        - "#StarQ1Shooting" → null (Reason: Drama filming schedule)
         - "#SiamParagonShooting" → {{"severity": "warning", "reason": "시암 파라곤 쇼핑몰에서 총격 신고가 접수됨"}}
         - "#BrightWinEP10" → null (BL drama episode)
         - "#ม็อบราชประสงค์" → {{"severity": "warning", "reason": "라차쁘라송 사거리에서 시위 중, 교통 혼잡 예상"}}
