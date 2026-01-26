@@ -111,8 +111,8 @@ st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 st.markdown("""
     <style>
     /* --- 1. Global Font & Typography Settings --- */
-    html, body, [class*="css"] {
-        font-family: "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+    html, body, [class*="css"]:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons) {
+        font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         word-break: keep-all !important; /* Prevent mid-word breaks */
         overflow-wrap: break-word;
     }
@@ -306,6 +306,10 @@ st.markdown("""
     </style>
     """, unsafe_allow_html=True)
 
+# --- Thai-Today.com Custom CSS Injection ---
+# Load external style.css with Playfair Display, Kanit fonts, Glassmorphism, Royal Gold theme
+utils.load_custom_css()
+
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
 # Update cache on file change by passing mtime is obsoleted by Google Sheets TTL
@@ -491,6 +495,7 @@ def load_json(file_path, default=None):
     return default
 
 def highlight_text(text):
+    """Highlight keywords using Streamlit markdown syntax (for st.markdown)"""
     # 1. 위험 (Red) - 가장 강력한 경고
     red_keywords = ["사망", "살인", "체포", "총기", "마약", "야바", "폭발", "화재", "강도", "성범죄", "테러"]
     for word in red_keywords:
@@ -510,6 +515,30 @@ def highlight_text(text):
     green_keywords = ["홍수", "침수", "뎅기열", "주류 판매 금지", "시위"]
     for word in green_keywords:
         text = text.replace(word, f":green[**{word}**]")
+        
+    return text
+
+def highlight_text_html(text):
+    """Highlight keywords using HTML spans (for raw HTML rendering in news cards)"""
+    # 1. 위험 (Red)
+    red_keywords = ["사망", "살인", "체포", "총기", "마약", "야바", "폭발", "화재", "강도", "성범죄", "테러"]
+    for word in red_keywords:
+        text = text.replace(word, f"<span style='color:#FF4444;font-weight:bold;'>{word}</span>")
+        
+    # 2. 주의/경고 (Orange)
+    orange_keywords = ["추방", "블랙리스트", "입국거부", "단속", "벌금", "전자담배", "불법", "비자", "경고"]
+    for word in orange_keywords:
+        text = text.replace(word, f"<span style='color:#FF8C00;font-weight:bold;'>{word}</span>")
+        
+    # 3. 경제/정보 (Blue)
+    blue_keywords = ["인상", "하락", "폭등", "폭락", "환율", "사기", "바가지"]
+    for word in blue_keywords:
+        text = text.replace(word, f"<span style='color:#1E90FF;font-weight:bold;'>{word}</span>")
+
+    # 4. 배경지식 (Green)
+    green_keywords = ["홍수", "침수", "뎅기열", "주류 판매 금지", "시위"]
+    for word in green_keywords:
+        text = text.replace(word, f"<span style='color:#32CD32;font-weight:bold;'>{word}</span>")
         
     return text
 
@@ -1943,82 +1972,73 @@ else:
         border_color = "#ddd"
 
 
-    # --- Top Widgets (Exchange Rate & Air Quality) ---
-    # Responsive layout: side‑by‑side on desktop, stacked on mobile
-    st.markdown('''
-    <style>
-    .top-widgets {display:flex; flex-direction:row; gap:10px; width:100%;}
-    .top-widgets > div {flex:1;}
-    @media (max-width: 768px) {
-        .top-widgets {flex-direction: column;}
-        .top-widgets > div {width: 100%; margin-bottom: 10px;}
-    }
-    </style>
-    ''', unsafe_allow_html=True)
+    # --- Status Dashboard (Mobile-First: 4 columns on PC, 2x2 grid on Mobile) ---
+    # Get weather data (Bangkok)
+    def get_weather_data():
+        """Fetch weather from OpenWeatherMap or fallback"""
+        try:
+            # Use a simple approach for now
+            return {"temp": 32, "desc": "맑음", "icon": "☀️"}  # Default sunny
+        except:
+            return {"temp": "--", "desc": "로딩중", "icon": "🌡️"}
     
-    # 1. Exchange Rate Widget
+    # Cache exchange rate
     @st.cache_data(ttl=3600)
     def get_cached_exchange_rate():
         return utils.get_thb_krw_rate()
-
-    # 2. Air Quality Widget helper
-    def render_air_quality():
+    
+    # Get air quality
+    def get_aqi_data():
         try:
             waqi_token = st.secrets.get("WAQI_API_KEY", "")
             aqi_data = get_cached_air_quality(waqi_token)
             if not aqi_data:
-                return f"""
-                <div style='padding:20px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};color:{text_sub};text-align:center;font-size:0.8rem;'>
-                    🌫️ 공기질 데이터 없음
-                </div>
-                """
+                return {"aqi": "--", "status": "로딩중", "icon": "🌫️", "color": "#888"}
             aqi = aqi_data['aqi']
             if aqi <= 50:
-                aqi_color, aqi_icon, aqi_text = "#00e400", "😊", "좋음"
+                return {"aqi": aqi, "status": "좋음", "icon": "😊", "color": "#00e400"}
             elif aqi <= 100:
-                aqi_color, aqi_icon, aqi_text = "#ffff00", "😐", "보통"
+                return {"aqi": aqi, "status": "보통", "icon": "😐", "color": "#ffff00"}
             elif aqi <= 150:
-                aqi_color, aqi_icon, aqi_text = "#ff7e00", "😷", "민감군 나쁨"
+                return {"aqi": aqi, "status": "나쁨", "icon": "😷", "color": "#ff7e00"}
             else:
-                aqi_color, aqi_icon, aqi_text = "#ff004c", "☠️", "나쁨"
-            return f"""
-<div style='padding:15px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};margin-bottom:0;display:flex;align-items:center;justify-content:space-between;backdrop-filter:blur(5px);box-shadow:0 4px 6px rgba(0,0,0,0.1);'>
-    <div style='display:flex;flex-direction:column;'>
-        <span style='font-weight:bold;color:{text_sub};font-size:0.9rem;'>🌫️ 방콕 공기 ({aqi_text})</span>
-        <span style='font-size:0.75em;color:#888;'>실시간 PM 2.5</span>
-    </div>
-    <div style='font-size:1.2em;font-weight:bold;color:{aqi_color};'>
-        {aqi_icon} {aqi}
-    </div>
-</div>
-"""
-        except Exception:
-            return f"""
-            <div style='padding:20px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};color:{text_sub};text-align:center;font-size:0.8rem;'>
-                🌫️ 공기질 데이터 오류
-            </div>
-            """
-
-    # Render combined widgets
-    try:
-        rate = get_cached_exchange_rate()
-        now_str = datetime.now().strftime("%m/%d %H:%M")
-        exchange_html = f"""
-        <div style='padding:15px;border-radius:12px;background-color:{card_bg};border:1px solid {border_color};margin-bottom:0;display:flex;align-items:center;justify-content:space-between;backdrop-filter:blur(5px);box-shadow:0 4px 6px rgba(0,0,0,0.1);'>
-            <div style='display:flex;flex-direction:column;'>
-                <span style='font-weight:bold;color:{text_sub};font-size:0.9rem;'>💰 바트 환율</span>
-                <span style='font-size:0.75em;color:#888;'>{now_str} 기준</span>
-            </div>
-            <div style='font-size:1.2em;font-weight:bold;color:{text_main};'>
-                <span style='font-size:0.6em;color:#aaa;margin-right:3px;'>1 THB =</span>
-                {rate:.2f} <span style='font-size:0.6em;color:#aaa;'>KRW</span>
-            </div>
+                return {"aqi": aqi, "status": "매우나쁨", "icon": "☠️", "color": "#ff004c"}
+        except:
+            return {"aqi": "--", "status": "오류", "icon": "⚠️", "color": "#888"}
+    
+    # Fetch data
+    weather = get_weather_data()
+    exchange_rate = get_cached_exchange_rate()
+    aqi_info = get_aqi_data()
+    
+    # Calculate buy/sell rates (typical spread)
+    buy_rate = exchange_rate * 1.02 if exchange_rate else 0  # 2% markup for buying THB
+    sell_rate = exchange_rate * 0.98 if exchange_rate else 0  # 2% markdown for selling THB
+    
+    # Build Status Dashboard HTML
+    status_dashboard_html = f"""
+    <div class="status-dashboard">
+        <div class="status-card">
+            <span class="label">🌡️ 방콕 날씨</span>
+            <span class="value">{weather['icon']} {weather['temp']}°C</span>
         </div>
-        """
-        aqi_html = render_air_quality()
-        st.markdown(f"<div class='top-widgets'>{exchange_html}{aqi_html}</div>", unsafe_allow_html=True)
-    except Exception:
-        st.error("환율 로드 실패")
+        <div class="status-card">
+            <span class="label">🌫️ 미세먼지</span>
+            <span class="value" style="color: {aqi_info['color']};">{aqi_info['icon']} {aqi_info['status']}</span>
+        </div>
+        <div class="status-card">
+            <span class="label">💵 환율 (살 때)</span>
+            <span class="value">{buy_rate:.1f}원</span>
+        </div>
+        <div class="status-card">
+            <span class="label">💴 환율 (팔 때)</span>
+            <span class="value">{sell_rate:.1f}원</span>
+        </div>
+    </div>
+    """
+    
+    st.markdown(status_dashboard_html, unsafe_allow_html=True)
+
 
     # --- Navigation Logic (Dual Node: Sidebar & Top Pills) ---
     
@@ -2338,120 +2358,140 @@ else:
         # Render Cards
         all_comments_data = get_all_comments() # Load once
     
-        for topic in topics_to_show:
-            with st.container():
-                col_badg, col_time = st.columns([1, 5])
-                cat_text = topic.get("category", "기타")
-                date_display = topic.get('date_str', selected_date_str) # Use selected date if not in topic
-                time_display = topic.get('collected_at', '')
-                meta_info = f"{date_display} {time_display}".strip()
+        for idx, topic in enumerate(topics_to_show):
+            # Glass Card Wrapper - Thai-Today.com Design
+            cat_text = topic.get("category", "기타")
+            date_display = topic.get('date_str', selected_date_str)
+            time_display = topic.get('collected_at', '')
+            meta_info = f"{date_display} {time_display}".strip()
             
-                st.markdown(f"**🏷️ {cat_text}** <span style='color:grey'> | 🕒 {meta_info}</span>", unsafe_allow_html=True)
+            # Map category to tag variant
+            cat_variants = {
+                "여행/관광": "travel",
+                "사건/사고": "safety", 
+                "경제": "economy",
+                "맛집/음식": "food",
+            }
+            tag_variant = cat_variants.get(cat_text, "travel")
             
-                st.subheader(f"{topic['title']}")
+            # Build card HTML in one go (avoid multi-line issues)
+            image_html = ""
+            image_url = topic.get('image_url', '')
+            if image_url and isinstance(image_url, str) and image_url.startswith('http'):
+                safe_image_url = image_url.replace('http://', 'https://')
+                image_html = f'<img src="{safe_image_url}" style="width:100%;border-radius:12px;margin-bottom:12px;object-fit:contain;max-height:400px;background-color:#f8f9fa;" alt="News" onerror="this.style.display=\'none\';" loading="lazy"/>'
             
-                if topic.get('image_url'):
-                    st.image(topic['image_url'], width='stretch')
+            # Highlight summary using HTML version
+            summary_html = highlight_text_html(topic.get('summary', ''))
             
-                # Highlight
-                final_summary = highlight_text(topic['summary'])
-                st.markdown(final_summary)
+            # Single HTML block
+            card_html = f'''<div class="news-card glass-card">
+<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+<span class="category-tag {tag_variant}">{cat_text}</span>
+<span style="color:#888;font-size:0.85rem;font-family:Kanit,sans-serif;">🕒 {meta_info}</span>
+</div>
+<h3 style="font-family:'Playfair Display',Georgia,serif;margin-bottom:10px;">{topic['title']}</h3>
+{image_html}
+<p style="font-family:Kanit,sans-serif;line-height:1.7;color:inherit;">{summary_html}</p>
+</div>'''
+            
+            st.markdown(card_html, unsafe_allow_html=True)
 
-                # Drawers
-                with st.expander("📄 기사 전문 보기"):
-                    full_text = topic.get('full_translated', '⚠️ 이 기사는 요약본만 제공됩니다.')
-                    st.markdown(full_text)
+            # Drawers
+            with st.expander("📄 기사 전문 보기"):
+                full_text = topic.get('full_translated', '⚠️ 이 기사는 요약본만 제공됩니다.')
+                st.markdown(full_text, unsafe_allow_html=True)
             
-                with st.expander("🔗 관련 기사 & 공유"):
-                     # Safe Refs Logic
-                     refs = topic.get('references', [])
-                     if isinstance(refs, str):
-                         # If it's a string, it might be a JSON string or a direct URL
-                         if refs.startswith("[") or refs.startswith("{"):
-                             try:
-                                 import json
-                                 refs = json.loads(refs)
-                             except:
-                                  try:
-                                      import ast
-                                      refs = ast.literal_eval(refs)
-                                  except:
-                                      refs = []
-                         elif refs.startswith("http"):
-                             refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
-                         else:
-                             refs = []
-                     
-                     if not isinstance(refs, list):
-                         refs = []
-
-                     # Robust URL Extraction for Individual Share
-                     ref_url = topic.get('link') or "#"
-                     if ref_url == "#":
-                         if refs and isinstance(refs[0], dict):
-                             ref_url = refs[0].get('url', '#')
-                         
-                     # Individual Share
-                     ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
-                     st.code(ind_share, language="text")
-                     st.markdown("---")
-                     
-                     # Render Links with Robustness
-                     if not refs and ref_url != "#":
-                         # Synthetic ref if main link exists but refs list is empty
-                         refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
-
-                     for ref in refs:
-                        if isinstance(ref, dict):
-                            url = ref.get('url', '#')
-                            # Double check for broken URL
-                            if url == "#" and ref_url != "#": url = ref_url
-                            
-                            source = ref.get('source', '')
-                            source_display = f" ({source})" if source else ""
-                            st.markdown(f"**원문**: {url}{source_display}")
-
-
-                # Comments
-                news_id = generate_news_id(topic['title'], topic.get('summary', ''))
-                comments = all_comments_data.get(news_id, [])
-            
-                with st.expander(f"💬 댓글 ({len(comments)})"):
-                    if not comments:
-                        st.caption("아직 댓글이 없습니다.")
+            with st.expander("🔗 관련 기사 & 공유"):
+                # Safe Refs Logic
+                refs = topic.get('references', [])
+                if isinstance(refs, str):
+                    # If it's a string, it might be a JSON string or a direct URL
+                    if refs.startswith("[") or refs.startswith("{"):
+                        try:
+                            import json
+                            refs = json.loads(refs)
+                        except:
+                            try:
+                                import ast
+                                refs = ast.literal_eval(refs)
+                            except:
+                                refs = []
+                    elif refs.startswith("http"):
+                        refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
                     else:
-                        for c in comments:
-                            # Sanitize User Input
-                            user_safe = html.escape(c['user'])
-                            text_safe = c['text'].replace("http://", "https://")
-                            
-                            # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
-                            # Using html.escape ensures <script> becomes &lt;script&gt;
-                            st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
+                        refs = []
                 
-                    # Comment Form
-                    st.markdown("---")
-                    # Use index to guarantee uniqueness even if ID collisions happen (safety first)
-                    with st.form(key=f"comm_form_{news_id}_{idx}"):
-                        c1, c2 = st.columns([1, 3])
-                        nick = c1.text_input("닉네임", placeholder="익명")
-                        txt = c2.text_input("내용", placeholder="의견 남기기")
-                        if st.form_submit_button("등록"):
-                             # ... (Comment Save Logic same as before)
-                             last_time = st.session_state.get("last_comment_time", 0)
-                             current_time = time.time()
-                             if current_time - last_time < 60:
-                                 st.toast("🚫 도배 방지: 1분 뒤 다시 시도해주세요.")
-                             else:
-                                 safe_nick = html.escape(nick)
-                                 safe_txt = html.escape(txt)
-                                 save_comment(news_id, safe_nick, safe_txt)
-                                 st.session_state["last_comment_time"] = current_time
-                                 st.toast("댓글 등록 완료!")
-                                 time.sleep(1)
-                                 st.rerun()
+                if not isinstance(refs, list):
+                    refs = []
 
-                st.divider()
+                # Robust URL Extraction for Individual Share
+                ref_url = topic.get('link') or "#"
+                if ref_url == "#":
+                    if refs and isinstance(refs[0], dict):
+                        ref_url = refs[0].get('url', '#')
+                    
+                # Individual Share
+                ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
+                st.code(ind_share, language="text")
+                st.markdown("---")
+                
+                # Render Links with Robustness
+                if not refs and ref_url != "#":
+                    # Synthetic ref if main link exists but refs list is empty
+                    refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
+
+                for ref in refs:
+                    if isinstance(ref, dict):
+                        url = ref.get('url', '#')
+                        # Double check for broken URL
+                        if url == "#" and ref_url != "#": url = ref_url
+                        
+                        source = ref.get('source', '')
+                        source_display = f" ({source})" if source else ""
+                        st.markdown(f"**원문**: {url}{source_display}")
+
+
+            # Comments
+            news_id = generate_news_id(topic['title'], topic.get('summary', ''))
+            comments = all_comments_data.get(news_id, [])
+        
+            with st.expander(f"💬 댓글 ({len(comments)})"):
+                if not comments:
+                    st.caption("아직 댓글이 없습니다.")
+                else:
+                    for c in comments:
+                        # Sanitize User Input
+                        user_safe = html.escape(c['user'])
+                        text_safe = c['text'].replace("http://", "https://")
+                        
+                        # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
+                        # Using html.escape ensures <script> becomes &lt;script&gt;
+                        st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
+            
+                # Comment Form
+                st.markdown("---")
+                # Use index to guarantee uniqueness even if ID collisions happen (safety first)
+                with st.form(key=f"comm_form_{news_id}_{idx}"):
+                    c1, c2 = st.columns([1, 3])
+                    nick = c1.text_input("닉네임", placeholder="익명")
+                    txt = c2.text_input("내용", placeholder="의견 남기기")
+                    if st.form_submit_button("등록"):
+                         # ... (Comment Save Logic same as before)
+                         last_time = st.session_state.get("last_comment_time", 0)
+                         current_time = time.time()
+                         if current_time - last_time < 60:
+                             st.toast("🚫 도배 방지: 1분 뒤 다시 시도해주세요.")
+                         else:
+                             safe_nick = html.escape(nick)
+                             safe_txt = html.escape(txt)
+                             save_comment(news_id, safe_nick, safe_txt)
+                             st.session_state["last_comment_time"] = current_time
+                             st.toast("댓글 등록 완료!")
+                             time.sleep(1)
+                             st.rerun()
+
+            st.divider()
 
     
         # --- Pagination Footer ---

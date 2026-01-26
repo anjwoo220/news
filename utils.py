@@ -12,6 +12,72 @@ from bs4 import BeautifulSoup
 
 import streamlit as st
 
+# Helper: Load Custom CSS from file
+def load_custom_css():
+    """
+    Loads custom CSS from style.css and injects it into the Streamlit app.
+    This applies Thai-Today.com design spec: Playfair Display fonts, Kanit,
+    Glassmorphism cards, Royal Gold theme, and Deep Silk Purple accents.
+    """
+    css_file = "style.css"
+    if os.path.exists(css_file):
+        with open(css_file, "r", encoding="utf-8") as f:
+            css_content = f.read()
+        st.markdown(f"<style>{css_content}</style>", unsafe_allow_html=True)
+    else:
+        # Fallback inline CSS if file missing
+        st.markdown("""
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Kanit:wght@300;400;500&display=swap');
+        h1, h2, h3 { font-family: 'Playfair Display', Georgia, serif !important; }
+        body, p, div { font-family: 'Kanit', sans-serif !important; }
+        </style>
+        """, unsafe_allow_html=True)
+
+# Helper: Render Hero Section with Glassmorphism
+def render_hero_section(title="오늘의 태국", subtitle="실시간 태국 여행 정보 큐레이션", image_url=None):
+    """
+    Renders a premium hero banner at the top of the page.
+    Uses the Thai-Today.com design spec: dark gradient overlay, Playfair Display title.
+    """
+    bg_style = ""
+    if image_url:
+        bg_style = f"background-image: url('{image_url}'); background-size: cover; background-position: center;"
+    else:
+        # Default gradient background
+        bg_style = "background: linear-gradient(135deg, #2D2D2D 0%, #4B0082 50%, #D4AF37 100%);"
+    
+    hero_html = f"""
+    <div class="hero-section" style="{bg_style}">
+        <div class="hero-content">
+            <h1>{title}</h1>
+            <p>{subtitle}</p>
+        </div>
+    </div>
+    """
+    st.markdown(hero_html, unsafe_allow_html=True)
+
+# Helper: Render Glass Card wrapper
+def render_glass_card(content_html, custom_class=""):
+    """
+    Wraps content in a glassmorphism card container.
+    """
+    card_html = f"""
+    <div class="glass-card {custom_class}">
+        {content_html}
+    </div>
+    """
+    st.markdown(card_html, unsafe_allow_html=True)
+
+# Helper: Render Category Tag
+def render_category_tag(category, variant="travel"):
+    """
+    Renders a styled category tag badge.
+    Variants: travel (gold), food (red), safety (purple), economy (green)
+    """
+    tag_html = f'<span class="category-tag {variant}">{category}</span>'
+    return tag_html
+
 # Helper: Render Custom Mobile-Optimized Header
 def render_custom_header(text, level=1):
     """
