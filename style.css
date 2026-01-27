@@ -20,6 +20,27 @@ h3,
     line-height: 1.3;
 }
 
+/* --- 2.1 Hide Streamlit Header Anchor Links (🔗) --- */
+[data-testid="stHeaderActionElements"] {
+    display: none !important;
+}
+
+.stMarkdown h1 a,
+.stMarkdown h2 a,
+.stMarkdown h3 a,
+.stMarkdown h4 a,
+.stMarkdown h5 a,
+.stMarkdown h6 a {
+    display: none !important;
+    pointer-events: none !important;
+    text-decoration: none !important;
+}
+
+/* Hide legacy anchor links if any */
+.anchorjs-link {
+    display: none !important;
+}
+
 /* Standard elements override - Modified to exclude Material Icons and Streamlit Icons */
 body,
 p,
