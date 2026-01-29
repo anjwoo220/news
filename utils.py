@@ -15,6 +15,47 @@ import json
 
 import streamlit as st
 
+# ============================================
+# 📋 Standard Category System
+# ============================================
+CATEGORY_MAPPING = {
+    "POLITICS": ["Politics", "Society", "Crime", "Government", "정치", "사회", "정치/사회", "사건/사고", "법률", "General", "기타"],
+    "BUSINESS": ["Economy", "Business", "Finance", "Stock", "경제", "금융", "부동산", "금융/경제"],
+    "TRAVEL": ["Travel", "Tourism", "Food", "Weather", "여행", "관광", "여행/관광", "축제", "교통", "날씨", "맛집", "축제/이벤트"],
+    "LIFESTYLE": ["Entertainment", "Culture", "K-Pop", "Life", "문화", "엔터테인먼트", "연예"]
+}
+
+DISPLAY_CATEGORIES = ["전체", "POLITICS", "BUSINESS", "TRAVEL", "LIFESTYLE"]
+DISPLAY_LABELS = {
+    "POLITICS": "🏛️ 정치/사회",
+    "BUSINESS": "💼 경제",
+    "TRAVEL": "✈️ 여행/관광",
+    "LIFESTYLE": "🎭 문화/엔터"
+}
+
+def normalize_category(raw_category: str) -> str:
+    """
+    Normalizes any category string to one of the 4 standard categories.
+    Weather/Traffic news → TRAVEL (priority for traveler safety)
+    Unknown → POLITICS (fallback)
+    """
+    if not raw_category:
+        return "POLITICS"
+    
+    raw_lower = raw_category.lower()
+    
+    # Priority: Weather/Traffic/Flood → TRAVEL (traveler safety)
+    travel_keywords = ["날씨", "weather", "교통", "traffic", "홍수", "flood", "공항", "airport", "비자", "visa"]
+    if any(kw in raw_lower for kw in travel_keywords):
+        return "TRAVEL"
+    
+    # Match against known aliases
+    for standard_cat, aliases in CATEGORY_MAPPING.items():
+        if raw_category in aliases or raw_lower in [a.lower() for a in aliases]:
+            return standard_cat
+    
+    return "POLITICS"  # Fallback for unknown categories
+
 # --- Hotel Caching (Google Sheets) ---
 def get_hotel_gsheets_client():
     """Authenticates gspread using secrets (GOOGLE_SHEETS_KEY or connections.gsheets_news)."""
@@ -590,6 +631,11 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 - 아침에는 '오늘의 예보/예정' 위주, 저녁에는 '오늘 발생한 사건/결과' 위주로 가중치를 두세요.
 - **[CRITICAL] 출처가 '[MISSING_SOURCE]'인 기사는 'tourist_impact_score'가 8점 이상인 경우에만 결과에 포함하세요.** 7점 이하인 일반 기사는 과감히 제외하세요.
 - 만약 출처가 '[MISSING_SOURCE]'인데 정보를 포함하기로 결정했다면, 출력 JSON의 `source` 필드에는 "Google News" 또는 기사 내용에서 추론된 실제 언론사 이름을 적으세요. 절대 "None"이나 "[MISSING_SOURCE]"라고 출력하지 마세요.
+- **[CRITICAL - CATEGORY] 카테고리는 반드시 다음 4개 중 하나만 사용하세요: 'POLITICS', 'BUSINESS', 'TRAVEL', 'LIFESTYLE'. 다른 단어(예: '정치/사회', 'General', '기타')를 절대 사용하지 마세요.**
+  - 날씨, 교통, 홍수, 공항, 비자 → TRAVEL
+  - 정치, 사회, 사건/사고, 범죄 → POLITICS
+  - 경제, 금융, 비즈니스 → BUSINESS
+  - 문화, 엔터테인먼트, K-Pop → LIFESTYLE
 
 # Output Format (JSON Only)
 {{
@@ -598,7 +644,7 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
       "title": "기사 제목",
       "summary": "핵심 3줄 요약 (- 로 시작)",
       "full_translated": "기사 전문 (Markdown)",
-      "category": "카테고리",
+      "category": "POLITICS | BUSINESS | TRAVEL | LIFESTYLE 중 하나",
       "tourist_impact_score": 0,
       "impact_reason": "점수 부여 및 업데이트 판단 근거",
       "event_info": {{
@@ -659,12 +705,16 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
                             # Check strict conditions
                             if not evt or not evt.get('location') or not evt.get('date') or not evt.get('price'):
                                 print(f"   -> [Strict Mode] Downgrading '{topic['title']}' from Event to Travel News (Missing Info)")
-                                topic['category'] = '여행/관광'
+                                topic['category'] = 'TRAVEL'
                                 topic['event_info'] = None # Clear it
                             elif evt.get('location') == 'Unknown' or evt.get('location') == 'null':
                                  print(f"   -> [Strict Mode] Downgrading '{topic['title']}' (Location Unknown)")
-                                 topic['category'] = '여행/관관'
+                                 topic['category'] = 'TRAVEL'
                                  topic['event_info'] = None
+                        
+                        # 3. Normalize Category (Fallback safety)
+                        raw_cat = topic.get('category', '')
+                        topic['category'] = normalize_category(raw_cat)
                         
                         filtered_topics.append(topic)
 
@@ -707,6 +757,7 @@ def load_local_json(file_path):
 
 
 # 3. Exchange Rate (THB -> KRW)
+@st.cache_data(ttl=1800, show_spinner=False)  # Cache for 30 mins
 def get_thb_krw_rate():
     """
     Fetches the current THB to KRW exchange rate.
@@ -754,6 +805,7 @@ def get_thb_krw_rate():
     return 0.0
 
 # 4. Air Quality (WAQI)
+@st.cache_data(ttl=1800, show_spinner=False)  # Cache for 30 mins
 def get_air_quality(token):
     """
     Fetches real-time Air Quality (PM 2.5) for Bangkok.
@@ -1089,6 +1141,7 @@ def fetch_big_events_by_keywords(keywords, api_key):
 # Trend Hunter (Magazine) Logic - 4 Sources
 # --------------------------------------------------------------------------------
 
+@st.cache_data(ttl=3600, show_spinner=False)  # Cache for 60 mins
 def fetch_trend_hunter_items(api_key, existing_links=None):
     """
     Aggregates trend/travel content via Google News RSS for 4 sources:
@@ -1405,6 +1458,7 @@ def increment_visitor_stats():
 # --------------------------------------------------------------------------------
 # Twitter Trend Analyzer (trends24.in + Gemini)
 # --------------------------------------------------------------------------------
+@st.cache_data(ttl=1800, show_spinner=False)  # Cache for 30 mins
 def fetch_twitter_trends(api_key):
     """
     Scrapes trends24.in/thailand/ for top 10 hashtags and analyzes them with Gemini.

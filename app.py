@@ -2293,19 +2293,27 @@ else:
 
         # Category Filter (Only if not searching)
         if not is_search_mode and filtered_topics_all:
-            categories_available = ["전체", "정치/사회", "경제", "여행/관광", "사건/사고", "엔터테인먼트", "기타"]
+            # Use standardized categories from utils
+            category_labels = ["전체", "🏛️ 정치/사회", "💼 경제", "✈️ 여행/관광", "🎭 문화/엔터"]
+            label_to_standard = {
+                "🏛️ 정치/사회": "POLITICS",
+                "💼 경제": "BUSINESS", 
+                "✈️ 여행/관광": "TRAVEL",
+                "🎭 문화/엔터": "LIFESTYLE"
+            }
             try:
-                selected_category = st.pills("카테고리", categories_available, default="전체", selection_mode="single")
+                selected_category = st.pills("카테고리", category_labels, default="전체", selection_mode="single")
                 if not selected_category: selected_category = "전체"
             except AttributeError:
-                selected_category = st.radio("카테고리", categories_available, horizontal=True)
+                selected_category = st.radio("카테고리", category_labels, horizontal=True)
         
             if selected_category != "전체":
-                filtered_topics_all = [t for t in filtered_topics_all if t.get("category", "기타") == selected_category]
-                # Reset page if category changes? 
-                # Ideally yes, but pills don't trigger callback easily without key.
-                # For simplicity, we assume user stays on page 1 or handles it.
-                # To fix properly, we'd need key and callback. Let's keep it simple for now.
+                standard_cat = label_to_standard.get(selected_category, "POLITICS")
+                # Filter using normalized category comparison
+                filtered_topics_all = [
+                    t for t in filtered_topics_all 
+                    if utils.normalize_category(t.get("category", "")) == standard_cat
+                ]
 
         # --- Pagination Slicing ---
         ITEMS_PER_PAGE = 10
