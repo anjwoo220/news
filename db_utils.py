@@ -92,6 +92,144 @@ def load_news_from_sheet(worksheet="news"):
         print(f"Error loading news from sheet: {e}")
         return {}
 
+def load_recent_news(days=7):
+    """
+    [OPTIMIZED] Loads only recent N days of news with TTL caching.
+    
+    - Uses TTL=300 (5 min) to cache GSheets API results
+    - Filters to only recent 'days' worth of data for faster processing
+    - Falls back to full load if filtering fails
+    
+    Returns: dict { "YYYY-MM-DD": [items] }
+    """
+    conn = get_db_connection()
+    if not conn:
+        return {}
+
+    try:
+        # TTL=300 (5 minutes) - Key optimization for repeat loads
+        df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet="news", ttl=300)
+        
+        if df.empty:
+            return {}
+        
+        # Calculate cutoff date
+        from datetime import timedelta
+        cutoff_date = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
+        
+        # Convert to records
+        records = df.to_dict(orient="records")
+        
+        # Transform to Dict-by-Date structure (same as original)
+        news_by_date = {}
+        for item in records:
+            if pd.isna(item.get('date')): continue
+            
+            date_str = str(item['date']).split('T')[0].split(' ')[0]
+            
+            # Skip old dates (the optimization)
+            if date_str < cutoff_date:
+                continue
+                
+            if date_str not in news_by_date:
+                news_by_date[date_str] = []
+            
+            # Clean up NaN values
+            clean_item = {k: (v if not pd.isna(v) else "") for k, v in item.items()}
+
+            # Parse JSON fields
+            for field in ['references', 'related_topics']:
+                if field in clean_item and isinstance(clean_item[field], str):
+                    val = str(clean_item[field]).strip()
+                    if val.startswith('[') or val.startswith('{'):
+                        try:
+                            clean_item[field] = json.loads(val)
+                        except:
+                            try:
+                                import ast
+                                clean_item[field] = ast.literal_eval(val)
+                            except:
+                                pass
+
+            # Ensure 'link' exists
+            if not clean_item.get('link') or clean_item['link'] == "" or clean_item['link'] == "#":
+                refs = clean_item.get('references')
+                if isinstance(refs, list) and refs:
+                    clean_item['link'] = refs[0].get('url', "#")
+                elif isinstance(refs, str) and refs.startswith('http'):
+                    clean_item['link'] = refs
+
+            news_by_date[date_str].append(clean_item)
+            
+        return news_by_date
+
+    except Exception as e:
+        print(f"Error loading recent news: {e}")
+        # Fallback to full load on error
+        return load_news_from_sheet()
+
+def load_news_by_date(target_date):
+    """
+    [ON-DEMAND] Loads news for a specific date only.
+    
+    Used when user selects a date outside the recent window.
+    Cached per-date to avoid repeat fetches.
+    
+    Args:
+        target_date: "YYYY-MM-DD" string
+    
+    Returns: list of news items for that date, or []
+    """
+    conn = get_db_connection()
+    if not conn:
+        return []
+
+    try:
+        # TTL=600 (10 min) for specific date queries
+        df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet="news", ttl=600)
+        
+        if df.empty:
+            return []
+        
+        # Filter to target date only
+        records = df.to_dict(orient="records")
+        items = []
+        
+        for item in records:
+            if pd.isna(item.get('date')): continue
+            
+            date_str = str(item['date']).split('T')[0].split(' ')[0]
+            
+            if date_str != target_date:
+                continue
+            
+            # Clean up NaN values
+            clean_item = {k: (v if not pd.isna(v) else "") for k, v in item.items()}
+
+            # Parse JSON fields
+            for field in ['references', 'related_topics']:
+                if field in clean_item and isinstance(clean_item[field], str):
+                    val = str(clean_item[field]).strip()
+                    if val.startswith('[') or val.startswith('{'):
+                        try:
+                            clean_item[field] = json.loads(val)
+                        except:
+                            pass
+
+            # Ensure 'link' exists
+            if not clean_item.get('link') or clean_item['link'] == "" or clean_item['link'] == "#":
+                refs = clean_item.get('references')
+                if isinstance(refs, list) and refs:
+                    clean_item['link'] = refs[0].get('url', "#")
+
+            items.append(clean_item)
+            
+        return items
+
+    except Exception as e:
+        print(f"Error loading news for date {target_date}: {e}")
+        return []
+
 def save_news_to_sheet(news_data_dict, worksheet="news"):
     """
     Overwrites the 'news' worksheet with the provided news_data_dict.

@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore", category=FutureWarning, module="google.generat
 # Suppress Streamlit Warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning, module="streamlit")
 # --------------------------------------------------------------------------------
-from db_utils import load_news_from_sheet, save_news_to_sheet
+from db_utils import load_news_from_sheet, save_news_to_sheet, load_recent_news, load_news_by_date
 
 # Fix SSL Certificate Issue on Mac
 os.environ["SSL_CERT_FILE"] = certifi.where()
@@ -312,11 +312,11 @@ utils.load_custom_css()
 
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
-# Update cache on file change by passing mtime is obsoleted by Google Sheets TTL
-@st.cache_data(ttl=600)  # Short TTL for now to ensure freshness
+# [OPTIMIZED] Use load_recent_news for faster initial load (7 days + TTL cache)
+@st.cache_data(ttl=300)  # 5 min outer cache
 def load_news_data():
-    # Use GSheets instead of JSON file (JSON parsing fixed)
-    return load_news_from_sheet()
+    # Use optimized loader (7 days only + GSheets TTL)
+    return load_recent_news(days=7)
 
 # --- Cached Wrappers for API Calls ---
 @st.cache_data(ttl=1800) # Cache for 30 mins
@@ -2288,7 +2288,13 @@ else:
                 # Show latest first
                 filtered_topics_all = list(reversed(daily_topics))
             else:
-                filtered_topics_all = []
+                # [ON-DEMAND] Load older dates not in the 7-day cache
+                with st.spinner("📅 이전 날짜 데이터 로딩 중..."):
+                    older_items = load_news_by_date(selected_date_str)
+                    if older_items:
+                        filtered_topics_all = list(reversed(older_items))
+                    else:
+                        filtered_topics_all = []
             header_text = f"📅 {selected_date_str} 브리핑"
 
         # Category Filter (Only if not searching)
