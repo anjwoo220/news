@@ -382,31 +382,25 @@ def get_hotel_link(hotel_name, cached_agoda_url=None):
     
     AGODA_MARKER_ID = "700591"
     
-    # 1. 직통 링크가 있으면 사용 (CID 자동 추가/교체)
+    # 1. 직통 링크가 있으면 사용 (URL 정화 + CID만 추가)
     if cached_agoda_url and cached_agoda_url.strip() and cached_agoda_url.startswith('http'):
         url = cached_agoda_url.strip()
         
         # URL 파싱
         parsed = urllib.parse.urlparse(url)
-        query_params = urllib.parse.parse_qs(parsed.query)
         
-        # cid 파라미터 추가 또는 교체
-        query_params['cid'] = [AGODA_MARKER_ID]
-        
-        # 쿼리 스트링 재조립
-        new_query = urllib.parse.urlencode(query_params, doseq=True)
-        
-        # URL 재조립
-        final_url = urllib.parse.urlunparse((
+        # 모든 쿼리 파라미터 제거하고 Base URL만 추출
+        # 내 CID만 깔끔하게 추가
+        clean_url = urllib.parse.urlunparse((
             parsed.scheme,
             parsed.netloc,
             parsed.path,
-            parsed.params,
-            new_query,
-            parsed.fragment
+            '',  # params 제거
+            f'cid={AGODA_MARKER_ID}',  # 내 CID만 추가
+            ''   # fragment 제거
         ))
         
-        return (final_url, True)
+        return (clean_url, True)
     
     # 2. 없으면 검색 링크 생성
     encoded_name = urllib.parse.quote(hotel_name)
