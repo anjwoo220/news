@@ -3158,3 +3158,6 @@ else:
 
 # --- Bottom Spacer for Pagination Visibility ---
 st.markdown("""<div style="height: 150px; width: 100%;"></div>""", unsafe_allow_html=True)
+
+# --- URL 정리 (Travelpayouts init_marker 제거) ---
+utils.clean_url_bar()

@@ -101,6 +101,32 @@ def inject_head_code(code_string):
     """
     components.html(js, height=0, width=0)
 
+# --- URL 정리 Helper (파라미터 제거) ---
+def clean_url_bar():
+    """
+    URL에서 init_marker 등 추적 파라미터를 시각적으로 제거합니다.
+    history.replaceState를 사용하므로 새로고침 없이 주소창만 깔끔해집니다.
+    수익 추적 기능은 이미 실행된 후이므로 영향 없음.
+    """
+    import streamlit.components.v1 as components
+    import time
+    
+    unique_id = int(time.time() * 1000)
+    
+    js = f"""
+    <!-- clean_url_{unique_id} -->
+    <script>
+        // URL에 'init_marker'가 보이면 실행
+        if (window.parent.location.search.indexOf('init_marker') > -1) {{
+            // 파라미터를 뗀 깨끗한 주소 생성
+            var clean_uri = window.parent.location.protocol + "//" + window.parent.location.host + window.parent.location.pathname;
+            // 주소창 바꿔치기 (새로고침 안 됨)
+            window.parent.history.replaceState({{}}, document.title, clean_uri);
+        }}
+    </script>
+    """
+    components.html(js, height=0, width=0)
+
 # ============================================
 # 📋 Standard Category System
 # ============================================
