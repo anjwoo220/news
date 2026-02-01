@@ -2202,7 +2202,7 @@ else:
     
     # Init Session State for Nav
     if "nav_mode" not in st.session_state:
-        st.session_state["nav_mode"] = "📰 뉴스 브리핑"
+        st.session_state["nav_mode"] = "📰 뉴스"
     
     if "wongnai_result" not in st.session_state:
         st.session_state["wongnai_result"] = None
