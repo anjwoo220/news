@@ -2151,6 +2151,9 @@ else:
     
     # --- Page 1: News ---
     if page_mode == "📰 뉴스 브리핑":
+        # 🚩 앵커(깃발) 설치 - 스크롤 타겟
+        st.markdown('<div id="news-top-anchor"></div>', unsafe_allow_html=True)
+        
         # --- Twitter Trend Alert (Real-time) ---
         twitter_file = 'data/twitter_trends.json'
         if os.path.exists(twitter_file):
@@ -2348,6 +2351,18 @@ else:
     
         # Get current page items
         topics_to_show = filtered_topics_all[start_idx:end_idx]
+        
+        # --- 페이지 변경 시 스크롤 맨 위로 ---
+        # 이전 페이지 번호와 현재 페이지 번호 비교
+        if "last_rendered_page" not in st.session_state:
+            st.session_state["last_rendered_page"] = 1
+        
+        if st.session_state["current_page"] != st.session_state["last_rendered_page"]:
+            # 페이지 번호 + timestamp로 절대 중복되지 않는 고유값 생성
+            import time
+            unique_key = f"{st.session_state['current_page']}_{int(time.time() * 1000)}"
+            utils.scroll_to_top(key_suffix=unique_key)
+            st.session_state["last_rendered_page"] = st.session_state["current_page"]
 
         # --- Share Helper (Top) ---
         if topics_to_show:
@@ -2930,6 +2945,16 @@ else:
                                  sc2.metric("위치", f"{scores.get('location', 0)}/5")
                                  sc3.metric("편안함", f"{scores.get('comfort', 0)}/5")
                                  sc4.metric("가성비", f"{scores.get('value', 0)}/5")
+                             
+                             # --- 📢 팩트체크 결과 공유하기 (즉시 표시) ---
+                             st.divider()
+                             # 분석 완료 시 바로 공유 텍스트 생성 (버튼 클릭 불필요)
+                             hotel_name = info.get('name', '호텔')
+                             share_summary = utils.extract_hotel_share_summary(hotel_name, analysis)
+                             
+                             with st.expander("📢 친구에게 공유하기 (복사)", expanded=False):
+                                 st.code(share_summary, language=None)
+                                 st.caption("👆 위 텍스트 우측 상단 복사 버튼을 눌러 카톡에 붙여넣으세요!")
         
         # --- Value-Add: Search History ---
         if st.session_state.get('hotel_history'):

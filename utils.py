@@ -14,6 +14,40 @@ import json
 
 
 import streamlit as st
+import streamlit.components.v1 as components
+
+# --- Scroll to Top Helper (Anchor 방식) ---
+def scroll_to_top(key_suffix=None):
+    """
+    앵커 요소로 화면을 스크롤합니다.
+    scrollIntoView 메서드를 사용하여 좌표 계산 없이 확실하게 이동.
+    
+    사용 전 페이지에 아래 앵커를 심어야 함:
+    st.markdown('<div id="news-top-anchor"></div>', unsafe_allow_html=True)
+    
+    Args:
+        key_suffix: HTML에 포함될 고유값 (매번 다른 값 필요)
+    """
+    import streamlit.components.v1 as components
+    import time
+    
+    # key_suffix가 없으면 timestamp 사용
+    if key_suffix is None:
+        key_suffix = int(time.time() * 1000)
+    
+    # 약간의 딜레이(150ms)를 줘서 화면이 다 그려진 뒤 점프하도록 함
+    js = f"""
+    <!-- scroll_anchor_trigger_{key_suffix} -->
+    <script>
+        setTimeout(function() {{
+            const anchor = window.parent.document.getElementById("news-top-anchor");
+            if (anchor) {{
+                anchor.scrollIntoView({{ behavior: "auto", block: "start" }});
+            }}
+        }}, 150);
+    </script>
+    """
+    components.html(js, height=0, width=0)
 
 # ============================================
 # 📋 Standard Category System
@@ -55,6 +89,56 @@ def normalize_category(raw_category: str) -> str:
             return standard_cat
     
     return "POLITICS"  # Fallback for unknown categories
+
+# --- Hotel Share Summary Generator (No API Call) ---
+def extract_hotel_share_summary(hotel_name: str, analysis: dict) -> str:
+    """
+    이미 분석된 결과(analysis dict)에서 공유용 요약 텍스트를 생성합니다.
+    Gemini API 호출 없이 순수 Python 파싱으로 처리합니다.
+    
+    Args:
+        hotel_name: 호텔 이름
+        analysis: 팩트체크 분석 결과 dict (summary_score, pros, cons 등 포함)
+    
+    Returns:
+        공유용 요약 텍스트 (카카오톡/SNS 전송에 적합한 형식)
+    """
+    # 1. 점수 추출
+    scores = analysis.get('summary_score', {})
+    cleanliness = scores.get('cleanliness', 0)
+    location = scores.get('location', 0)
+    comfort = scores.get('comfort', 0)
+    value = scores.get('value', 0)
+    score_text = f"{cleanliness}/{location}/{comfort}/{value}"
+    
+    # 2. 장점 추출 (첫 번째 항목)
+    pros_list = analysis.get('pros', [])
+    pros_text = pros_list[0] if pros_list else "내용 확인 필요"
+    # 너무 길면 자르기
+    if len(pros_text) > 50:
+        pros_text = pros_text[:47] + "..."
+    
+    # 3. 단점/주의사항 추출 (첫 번째 항목)
+    cons_list = analysis.get('cons', [])
+    cons_text = cons_list[0] if cons_list else "내용 확인 필요"
+    # 너무 길면 자르기
+    if len(cons_text) > 50:
+        cons_text = cons_text[:47] + "..."
+    
+    # 4. 한줄평 추출
+    one_line = analysis.get('one_line_verdict', '')
+    if one_line and len(one_line) > 60:
+        one_line = one_line[:57] + "..."
+    
+    # 5. 공유 텍스트 조립
+    share_text = f"""🏨 [호텔 팩트체크] {hotel_name}
+🛡️ 팩트점수: {score_text} (청결/위치/편안/가성비)
+✅ 장점: {pros_text}
+⚠️ 주의: {cons_text}
+💡 한줄평: "{one_line}"
+🔗 확인하기: thai-today.com"""
+    
+    return share_text
 
 # --- Hotel Caching (Google Sheets) ---
 def get_hotel_gsheets_client():
