@@ -486,11 +486,28 @@ def save_blog_post(post_data):
     """
     client = get_hotel_gsheets_client()
     if not client:
+        print("Blog Save Error: No GSheets client")
         return False
     
     try:
-        sh = client.open("blog_posts")
+        # 시트 열기 또는 생성
+        try:
+            sh = client.open("blog_posts")
+        except:
+            # 시트가 없으면 생성
+            print("Creating new blog_posts spreadsheet...")
+            sh = client.create("blog_posts")
+            # 서비스 계정과 공유 (본인 이메일 추가 필요시 여기에)
+            sh.share('', perm_type='anyone', role='reader')  # 읽기 권한 공개
+        
         sheet = sh.get_worksheet(0)
+        
+        # 헤더가 없으면 추가
+        first_row = sheet.row_values(1)
+        if not first_row or first_row[0] != 'id':
+            headers = ['id', 'date', 'title', 'summary', 'content', 'image_url', 'author']
+            sheet.insert_row(headers, 1)
+            print("Added header row to blog_posts")
         
         post_id = str(post_data.get('id', ''))
         
