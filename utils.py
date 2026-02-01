@@ -127,6 +127,24 @@ def clean_url_bar():
     """
     components.html(js, height=0, width=0)
 
+# --- 아고다 제휴 링크 생성 ---
+def generate_agoda_link(hotel_name: str) -> str:
+    """
+    아고다 파트너 검색 URL을 생성합니다.
+    
+    Args:
+        hotel_name: 호텔 이름
+    
+    Returns:
+        아고다 검색 URL (제휴 마커 포함)
+    """
+    import urllib.parse
+    
+    AGODA_MARKER_ID = "700591"  # Travelpayouts 마커 ID
+    encoded_name = urllib.parse.quote(hotel_name)
+    
+    return f"https://www.agoda.com/search?cid={AGODA_MARKER_ID}&checkIn=&checkOut=&rooms=1&adults=2&children=0&childages=&searchrequestid=&priceCur=KRW&textToSearch={encoded_name}&travellerType=1&pageTypeId=1"
+
 # ============================================
 # 📋 Standard Category System
 # ============================================
@@ -281,20 +299,22 @@ def get_hotel_cache(hotel_name):
         cell = sheet.find(hotel_name)
         if cell:
             row_data = sheet.row_values(cell.row)
-            # Expecting: [hotel_name, cached_date, ai_summary, raw_json]
+            # Expecting: [hotel_name, cached_date, ai_summary, raw_json, agoda_url(optional)]
             if len(row_data) >= 4:
-                return {
+                result = {
                     "hotel_name": row_data[0],
                     "cached_date": row_data[1],
                     "ai_summary": row_data[2],
-                    "raw_json": json.loads(row_data[3])
+                    "raw_json": json.loads(row_data[3]),
+                    "agoda_url": row_data[4] if len(row_data) >= 5 else None  # 5번째 컬럼
                 }
+                return result
     except Exception as e:
         # If sheet doesn't exist or other error, return None
         print(f"Cache Lookup Error: {e}")
     return None
 
-def save_hotel_cache(hotel_name, ai_summary, raw_json_dict):
+def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None):
     """Appends new analysis results to the hotel_cache_db GSheet."""
     client = get_hotel_gsheets_client()
     if not client: return
@@ -302,7 +322,7 @@ def save_hotel_cache(hotel_name, ai_summary, raw_json_dict):
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        # Header: [hotel_name, cached_date, ai_summary, raw_json]
+        # Header: [hotel_name, cached_date, ai_summary, raw_json, agoda_url]
         from datetime import datetime
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
         
@@ -310,12 +330,89 @@ def save_hotel_cache(hotel_name, ai_summary, raw_json_dict):
             hotel_name,
             now_str,
             ai_summary,
-            json.dumps(raw_json_dict, ensure_ascii=False)
+            json.dumps(raw_json_dict, ensure_ascii=False),
+            agoda_url or ""  # 5번째 컬럼: 직통 아고다 URL (없으면 빈값)
         ]
         sheet.append_row(new_row)
         print(f"✅ Cached analysis for: {hotel_name}")
     except Exception as e:
         print(f"Cache Save Error: {e}")
+
+
+def update_hotel_agoda_url(hotel_name, agoda_url):
+    """
+    특정 호텔의 아고다 직통 URL을 업데이트합니다.
+    관리자가 직통 링크를 수동으로 입력할 때 사용.
+    """
+    client = get_hotel_gsheets_client()
+    if not client: return False
+    try:
+        sh = client.open("hotel_cache_db")
+        sheet = sh.get_worksheet(0)
+        
+        cell = sheet.find(hotel_name)
+        if cell:
+            # 5번째 컬럼(E열)에 URL 업데이트
+            sheet.update_cell(cell.row, 5, agoda_url)
+            print(f"✅ Updated Agoda URL for: {hotel_name}")
+            return True
+        else:
+            print(f"❌ Hotel not found: {hotel_name}")
+            return False
+    except Exception as e:
+        print(f"Update Error: {e}")
+        return False
+
+
+def get_hotel_link(hotel_name, cached_agoda_url=None):
+    """
+    하이브리드 호텔 링크 생성.
+    1. cached_agoda_url이 있고 유효하면 → 직통 링크에 CID 추가/교체 후 리턴
+    2. 없으면 → 검색 링크 생성
+    
+    Args:
+        hotel_name: 호텔 이름
+        cached_agoda_url: 캐시된 직통 아고다 URL (선택)
+    
+    Returns:
+        tuple: (url, is_direct) - URL과 직통 여부
+    """
+    import urllib.parse
+    import re
+    
+    AGODA_MARKER_ID = "700591"
+    
+    # 1. 직통 링크가 있으면 사용 (CID 자동 추가/교체)
+    if cached_agoda_url and cached_agoda_url.strip() and cached_agoda_url.startswith('http'):
+        url = cached_agoda_url.strip()
+        
+        # URL 파싱
+        parsed = urllib.parse.urlparse(url)
+        query_params = urllib.parse.parse_qs(parsed.query)
+        
+        # cid 파라미터 추가 또는 교체
+        query_params['cid'] = [AGODA_MARKER_ID]
+        
+        # 쿼리 스트링 재조립
+        new_query = urllib.parse.urlencode(query_params, doseq=True)
+        
+        # URL 재조립
+        final_url = urllib.parse.urlunparse((
+            parsed.scheme,
+            parsed.netloc,
+            parsed.path,
+            parsed.params,
+            new_query,
+            parsed.fragment
+        ))
+        
+        return (final_url, True)
+    
+    # 2. 없으면 검색 링크 생성
+    encoded_name = urllib.parse.quote(hotel_name)
+    search_url = f"https://www.agoda.com/search?cid={AGODA_MARKER_ID}&checkIn=&checkOut=&rooms=1&adults=2&children=0&priceCur=KRW&textToSearch={encoded_name}&travellerType=1&pageTypeId=1"
+    
+    return (search_url, False)
 
 # Helper: Load Custom CSS from file
 def load_custom_css():

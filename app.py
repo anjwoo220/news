@@ -999,8 +999,38 @@ if app_mode == "Admin Console":
                          # Using global gemini_key
                          analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
                          st.json(analysis)
-
-
+            
+            st.divider()
+            
+            # --- 아고다 직통 링크 관리 ---
+            st.subheader("🔗 아고다 직통 링크 관리")
+            st.info("""
+            **사용법:** 호텔 이름(정확히 캐시된 이름)과 아고다 직통 URL을 입력하면 
+            Google Sheets에 저장됩니다. 이후 해당 호텔 분석 시 "🚀 바로 예약하기" 버튼이 표시됩니다.
+            
+            💡 **팁:** 아고다에서 호텔 페이지 URL을 그대로 복사해서 붙여넣으세요. 
+            파트너 ID(cid=700591)는 자동으로 추가됩니다!
+            """)
+            
+            col_h, col_u = st.columns([1, 2])
+            with col_h:
+                agoda_hotel_name = st.text_input("호텔 이름 (캐시된 이름)", key="agoda_hotel_name", placeholder="예: Siam Kempinski Hotel Bangkok")
+            with col_u:
+                agoda_direct_url = st.text_input("아고다 직통 URL", key="agoda_direct_url", placeholder="https://www.agoda.com/ko-kr/...")
+            
+            if st.button("💾 직통 링크 저장", key="save_agoda_url"):
+                if not agoda_hotel_name or not agoda_direct_url:
+                    st.error("호텔 이름과 URL을 모두 입력해주세요.")
+                elif not agoda_direct_url.startswith('http'):
+                    st.error("올바른 URL 형식이 아닙니다. (http로 시작해야 함)")
+                else:
+                    with st.spinner("Google Sheets 업데이트 중..."):
+                        success = utils.update_hotel_agoda_url(agoda_hotel_name.strip(), agoda_direct_url.strip())
+                        if success:
+                            st.success(f"✅ '{agoda_hotel_name}' 호텔의 아고다 직통 링크가 저장되었습니다!")
+                            st.balloons()
+                        else:
+                            st.error(f"❌ '{agoda_hotel_name}' 호텔을 찾을 수 없습니다. 정확한 캐시된 이름을 입력해주세요.")
         # --- Tab 3: Community Management ---
         with tab3:
             st.subheader("🛡️ 커뮤니티 관리")
@@ -2855,6 +2885,11 @@ else:
                              cache_data = cached_result['raw_json']
                              info = cache_data.get('info')
                              analysis = cache_data.get('analysis')
+                             # 캐시된 아고다 URL 저장 (하이브리드 링크용)
+                             if cached_result.get('agoda_url'):
+                                 st.session_state['cached_agoda_url'] = cached_result['agoda_url']
+                             else:
+                                 st.session_state['cached_agoda_url'] = None
                          else:
                              # Cache Miss: Proceed with Google Maps + Gemini Analysis
                              info = utils.fetch_hotel_details(active_id, api_key)
@@ -2905,6 +2940,20 @@ else:
                                      if h['info']['name'] != info['name']
                                  ]
                                  st.session_state['hotel_history'].insert(0, history_item)
+                                  
+                                 # --- 💰 수익화 버튼들 (아고다 & 트립닷컴) ---
+                                 st.divider()
+                                 st.caption("💰 지금 예약하면 특가 할인!")
+                                 
+                                 # 아고다 버튼 (하이브리드: 직통 링크 우선)
+                                 cached_agoda = analysis.get('agoda_url') or st.session_state.get('cached_agoda_url')
+                                 agoda_url, is_direct = utils.get_hotel_link(info.get('name', ''), cached_agoda)
+                                 
+                                 if is_direct:
+                                     # 직통 링크가 있으면 더 강조
+                                     st.link_button("🚀 아고다에서 바로 예약하기 (검증됨)", agoda_url, use_container_width=True, type="primary")
+                                 else:
+                                     st.link_button("🏨 아고다에서 최저가 검색하기", agoda_url, use_container_width=True, type="primary")
                                  
                                  # Trip.com link
                                  try:
@@ -2927,7 +2976,7 @@ else:
                                              f"checkIn={today_str}&checkOut={tomorrow_str}&"
                                              f"allianceid={aid}&sid={sid}"
                                          )
-                                         st.link_button(f"🏨 '{raw_keyword}' 최저가 확인 (Trip.com)", trip_url, use_container_width=True, type="primary")
+                                         st.link_button(f"🏨 트립닷컴에서도 비교하기", trip_url, use_container_width=True, type="secondary")
                                  except: pass
                                      
                                  st.info(f"💡 **한 줄 요약:** {analysis.get('one_line_verdict', '정보 없음')}")
