@@ -575,6 +575,741 @@ def delete_blog_post(post_id):
         print(f"Blog Delete Error: {e}")
         return False
 
+# ============================================
+# 🍜 Restaurant Caching System (Google Sheets)
+# ============================================
+
+def get_cached_restaurants_sheet():
+    """
+    cached_restaurants 시트를 가져오거나 생성합니다.
+    """
+    client = get_hotel_gsheets_client()
+    if not client:
+        return None
+    
+    try:
+        try:
+            sh = client.open("cached_restaurants")
+        except:
+            # 시트 생성
+            print("Creating cached_restaurants spreadsheet...")
+            sh = client.create("cached_restaurants")
+            sh.share('', perm_type='anyone', role='reader')
+        
+        sheet = sh.get_worksheet(0)
+        
+        # 헤더 동기화 로직 고도화 (기존 시트에 새 컬럼이 추가된 경우 대응)
+        expected_headers = ['location_id', 'name', 'rating', 'num_reviews', 'food_rating', 
+                           'atmosphere_rating', 'location_rating', 'price_level', 'price',
+                           'cuisines', 'hours', 'address', 'phone', 'web_url', 'photos', 'ranking', 'maps_url',
+                           'editorial_summary', 'recommended_menu', 'analysis']
+        
+        first_row = sheet.row_values(1)
+        if not first_row:
+            sheet.insert_row(expected_headers, 1)
+        elif first_row != expected_headers:
+            # 기존 헤더와 다르면 (새 컬럼 추가 등) 부족한 부분 업데이트
+            for i, header in enumerate(expected_headers):
+                if i >= len(first_row) or first_row[i] != header:
+                    sheet.update_cell(1, i + 1, header)
+            print(f"✅ Google Sheets headers synchronized: {len(expected_headers)} columns")
+        
+        return sheet
+    except Exception as e:
+        print(f"Cache Sheet Error: {e}")
+        return None
+
+
+def search_cached_restaurants(keyword):
+    """
+    캐시된 식당 중에서 검색어와 일치하는 식당을 찾습니다.
+    
+    Args:
+        keyword: 검색어
+    
+    Returns:
+        list: 캐시된 식당 리스트
+    """
+    sheet = get_cached_restaurants_sheet()
+    if not sheet:
+        return []
+    
+    try:
+        all_data = sheet.get_all_records()
+        keyword_lower = keyword.lower()
+        
+        cached_results = []
+        for row in all_data:
+            name = str(row.get('name', '')).lower()
+            if keyword_lower in name or name in keyword_lower:
+                cached_results.append({
+                    'location_id': str(row.get('location_id', '')),
+                    'name': row.get('name', ''),
+                    'address': row.get('address', '주소 정보 없음'),
+                    'is_cached': True  # 캐시 표시
+                })
+        
+        return cached_results
+    except Exception as e:
+        print(f"Search Cache Error: {e}")
+        return []
+
+
+def get_cached_restaurant_details(location_id):
+    """
+    캐시에서 식당 상세 정보를 가져옵니다.
+    
+    Args:
+        location_id: Google Places 위치 ID
+    
+    Returns:
+        dict or None: 캐시된 상세 정보
+    """
+    sheet = get_cached_restaurants_sheet()
+    if not sheet:
+        return None
+    
+    try:
+        # location_id로 검색
+        cell = sheet.find(str(location_id))
+        if not cell:
+            return None
+        
+        # 해당 행 전체 데이터 가져오기
+        row_data = sheet.row_values(cell.row)
+        headers = sheet.row_values(1)
+        
+        data = {}
+        for i, header in enumerate(headers):
+            data[header] = row_data[i] if i < len(row_data) else ''
+        
+        # photos는 JSON으로 저장되어 있음
+        import json
+        photos = []
+        if data.get('photos'):
+            try:
+                photos = json.loads(data['photos'])
+            except:
+                photos = data['photos'].split(',') if data['photos'] else []
+        
+        cuisines = []
+        if data.get('cuisines'):
+            try:
+                cuisines = json.loads(data['cuisines'])
+            except:
+                cuisines = data['cuisines'].split(',') if data['cuisines'] else []
+        
+        recommended_menu = []
+        if data.get('recommended_menu'):
+            try:
+                recommended_menu = json.loads(data['recommended_menu'])
+            except:
+                recommended_menu = []
+                
+        analysis = {}
+        if data.get('analysis'):
+            try:
+                analysis = json.loads(data['analysis'])
+            except:
+                analysis = {}
+
+        return {
+            'name': data.get('name', ''),
+            'rating': float(data.get('rating', 0) or 0),
+            'num_reviews': int(data.get('num_reviews', 0) or 0),
+            'food_rating': float(data.get('food_rating', 0) or 0),
+            'atmosphere_rating': float(data.get('atmosphere_rating', 0) or 0),
+            'location_rating': float(data.get('location_rating', 0) or 0),
+            'price_level': data.get('price_level', ''),
+            'price': data.get('price', ''),
+            'cuisines': cuisines,
+            'hours': data.get('hours', ''),
+            'address': data.get('address', ''),
+            'phone': data.get('phone', ''),
+            'web_url': data.get('web_url', ''),
+            'maps_url': data.get('maps_url', data.get('web_url', '')),
+            'photos': photos,
+            'ranking': data.get('ranking', ''),
+            'editorial_summary': data.get('editorial_summary', ''),
+            'recommended_menu': recommended_menu,
+            'analysis': analysis,
+            'is_cached': True
+        }
+    except Exception as e:
+        print(f"Get Cached Details Error: {e}")
+        return None
+
+
+def save_restaurant_to_cache(location_id, details):
+    """
+    식당 정보를 캐시에 저장합니다.
+    
+    Args:
+        location_id: Google Places 위치 ID
+        details: 식당 상세 정보
+    """
+    sheet = get_cached_restaurants_sheet()
+    if not sheet:
+        return False
+    
+    try:
+        import json
+        
+        # 이미 존재하는지 확인
+        existing = None
+        try:
+            existing = sheet.find(str(location_id))
+        except:
+            pass
+        
+        # 행 데이터 준비
+        row = [
+            str(location_id),
+            details.get('name', ''),
+            str(details.get('rating', 0)),
+            str(details.get('num_reviews', 0)),
+            str(details.get('food_rating', 0)),
+            str(details.get('atmosphere_rating', 0)),
+            str(details.get('location_rating', 0)),
+            details.get('price_level', ''),
+            details.get('price', ''),
+            json.dumps(details.get('cuisines', []), ensure_ascii=False),
+            details.get('hours', ''),
+            details.get('address', ''),
+            details.get('phone', ''),
+            details.get('web_url', ''),
+            json.dumps(details.get('photos', []), ensure_ascii=False),
+            details.get('ranking', ''),
+            details.get('maps_url', details.get('web_url', '')),
+            details.get('editorial_summary', ''),
+            json.dumps(details.get('recommended_menu', []), ensure_ascii=False),
+            json.dumps(details.get('analysis', {}), ensure_ascii=False)
+        ]
+        
+        if existing:
+            # 업데이트
+            for i, value in enumerate(row):
+                sheet.update_cell(existing.row, i + 1, value)
+            print(f"✅ Restaurant cache updated: {location_id}")
+        else:
+            # 새로 추가
+            sheet.append_row(row)
+            print(f"✅ Restaurant cached: {location_id}")
+        
+        return True
+    except Exception as e:
+        print(f"Save Cache Error: {e}")
+        return False
+
+
+# ============================================
+# 🍜 Restaurant Fact Check (Google Places API)
+# ============================================
+
+# 한글-영문 맛집 매핑 (보조용 - Google은 한국어 검색 잘됨)
+THAI_FOOD_MAPPING = {
+    "빤타리": "반타리 방콕",
+    "반타리": "반타리 방콕",
+    "팁사마이": "팁사마이 방콕",
+    "쩨파이": "제이파이 방콕",
+    "제파이": "제이파이 방콕",
+    "잡원": "Zabb One 방콕",
+}
+
+# 요리 종류 필터링을 위한 블랙리스트 및 매핑 사전
+IGNORED_TYPES = ['establishment', 'point_of_interest', 'food', 'store', 'restaurant', 'meal_takeaway', 'meal_delivery']
+
+CUISINE_MAPPING = {
+    "thai_restaurant": "태국 음식점 🇹🇭",
+    "seafood_restaurant": "해산물 전문 🦀",
+    "cafe": "카페 ☕",
+    "bar": "바/술집 🍺",
+    "bakery": "베이커리 🥐",
+    "noodle_shop": "국수 전문점 🍜",
+    "korean_restaurant": "한식당 🇰🇷",
+    "chinese_restaurant": "중식당 🇨🇳",
+    "japanese_restaurant": "일식당 🇯🇵",
+    "fast_food_restaurant": "패스트푸드 🍔",
+    "vegan_restaurant": "비건 식당 🥗",
+    "health_food_restaurant": "건강식",
+    "breakfast_restaurant": "조식 맛집",
+    "coffee_shop": "커피숍"
+}
+
+
+def get_menu_search_url(restaurant_name, address):
+    """
+    식당 이름과 주소를 조합하여 구글 이미지 검색(메뉴판) URL을 생성합니다.
+    """
+    import urllib.parse
+    
+    # 주소에서 검색에 도움이 될만한 정보 추출 (예: 방콕, 치앙마이 등 지역명)
+    area = ""
+    if "Bangkok" in address or "방콕" in address:
+        area = "Bangkok"
+    elif "Chiang Mai" in address or "치앙마이" in address:
+        area = "Chiang Mai"
+        
+    query = f"{restaurant_name} {area} menu".strip()
+    encoded_query = urllib.parse.quote(query)
+    
+    # tbm=isch 파라미터로 구글 이미지 검색 탭으로 바로 이동
+    return f"https://www.google.com/search?q={encoded_query}&tbm=isch"
+
+
+def analyze_reviews_for_menu(reviews, editorial_summary=""):
+    """
+    리뷰와 에디토리얼 요약문에서 추천 메뉴를 추출합니다.
+    에디토리얼 요약문에 언급된 메뉴에는 가중치를 부여합니다.
+    """
+    MENU_KEYWORDS = {
+        "팟타이": ["pad thai", "padthai", "팟타이"],
+        "똠양꿍": ["tom yum", "tomyam", "tomyum", "똠양", "똠얌"],
+        "푸팟퐁커리": ["poo pad pong", "crab curry", "푸팟퐁", "푸팟퐁커리"],
+        "솜땀": ["som tum", "somtam", "som tam", "솜땀"],
+        "스테이크": ["steak", "스테이크"],
+        "버거": ["burger", "버거"],
+        "피자": ["pizza", "피자"],
+        "파스타": ["pasta", "파스타"],
+        "망고밥": ["mango sticky rice", "mango rice", "망고밥", "망고 스티키"],
+        "똠쌥": ["tom saep", "tom zab", "똠쌥", "똠잽"],
+        "까이양": ["kai yang", "grilled chicken", "까이양"],
+        "무삥": ["moo ping", "pork skewer", "무삥"],
+        "카오팟": ["kao phad", "fried rice", "카오팟", "볶음밥"],
+        "랭쌥": ["leng saeb", "pork bone soup", "랭쌥", "랭샙"],
+        "해산물": ["seafood", "해산물", "씨푸드"],
+        "똠얌국수": ["tom yum noodle", "똠얌국수", "똠얌누들"]
+    }
+    
+    scores = {}
+    all_reviews_text = " ".join([r.get('text', '').lower() for r in reviews])
+    summary_text = editorial_summary.lower() if editorial_summary else ""
+    
+    for menu, keywords in MENU_KEYWORDS.items():
+        score = 0
+        # 리뷰 언급 횟수 (존재 여부로 우선 판단)
+        for kw in keywords:
+            if kw in all_reviews_text:
+                score += 1
+            if kw in summary_text:
+                score += 3  # 에디토리얼 요약 가중치 3배
+        
+        if score > 0:
+            scores[menu] = score
+            
+    # 점수 높은 순으로 추천 메뉴 선정
+    sorted_menu = sorted(scores.items(), key=lambda x: x[1], reverse=True)
+    return [m[0] for m in sorted_menu[:5]]
+
+
+def calculate_review_score(review):
+    """
+    리뷰의 품질 점수를 계산합니다.
+    (길이, 최신성, 평점, 키워드 풍부함 등을 종합 고려)
+    """
+    import time as py_time
+    score = 0
+    text = review.get('text', '')
+    rating = review.get('rating', 0)
+    review_time = review.get('time', 0)
+    
+    if not text:
+        return -100
+        
+    # (1) 길이 (Length) - 50자 미만은 감점, 최대 50점
+    text_len = len(text)
+    if text_len < 50:
+        score += 0
+    else:
+        score += min(text_len * 0.1, 50)
+        
+    # (2) 최신성 (Recency) - 3개월(90일) 기준
+    now = py_time.time()
+    three_months_sec = 90 * 24 * 60 * 60
+    one_year_sec = 365 * 24 * 60 * 60
+    
+    if review_time > 0:
+        diff = now - review_time
+        if diff < three_months_sec:
+            score += 30
+        elif diff > one_year_sec:
+            score -= 10
+            
+    # (3) 평점 (Rating) - 4점 이상 우대
+    if rating >= 4:
+        score += 20
+        
+    # (4) 키워드 포함 (Rich Content)
+    RICH_KEYWORDS = ["가격", "메뉴", "웨이팅", "서비스", "친절", "청결", "위생", 
+                     "price", "taste", "queue", "service", "menu", "clean"]
+    all_text_lower = text.lower()
+    for kw in RICH_KEYWORDS:
+        if kw in all_text_lower:
+            score += 5
+            
+    # (5) 좋아요 (Likes/Helpful) - 구글 API는 공식적으로 likes를 안주지만 대응 로직
+    likes = review.get('likes', 0) or review.get('helpful_votes', 0)
+    if likes:
+        score += int(likes) * 10
+        
+    return score
+
+
+def analyze_restaurant_reviews(reviews, rating, price_level=0, name=""):
+    """
+    리뷰 텍스트를 분석하여 장점, 단점, 한줄평을 도출합니다.
+    """
+    if not reviews:
+        return {
+            'pros': ["정보 부족으로 장점 도출 불가"],
+            'cons': ["정보 부족으로 단점 도출 불가"],
+            'verdict': "데이터가 부족하여 분석할 수 없습니다.",
+            'warnings': [],
+            'best_review': None
+        }
+
+    # 키워드 사전
+    PRO_KEYWORDS = {
+        "맛있다": "확실한 맛 보장 😋", "최고": "방문객 만족도 높음 👍", "친절": "친절한 서비스 ✨",
+        "가성비": "훌륭한 가성비 💰", "저렴": "부담 없는 가격", "깨끗": "청결한 위생 상태 🧼",
+        "분위기": "분위기 맛집 🕯️", "깔끔": "깔끔한 상차림", "신선": "신선한 재료 사용 🥗",
+        "좋아요": "전반적인 호평", "delicious": "확실한 맛 보장 😋", "fresh": "신선한 재료 🥗",
+        "cheap": "저렴한 가격", "kind": "친절한 서비스 ✨", "nice": "기분 좋은 방문"
+    }
+    
+    CON_KEYWORDS = {
+        "짜다": "간이 센 편 (Salty)", "짜요": "간이 센 편 (Salty)", "salty": "간이 센 편 (Salty)",
+        "달다": "단맛이 강함 (Sweet)", "sweet": "단맛이 강함 (Sweet)", "맵다": "매운 편 (Spicy)",
+        "spicy": "매운 편 (Spicy)", "웨이팅": "긴 대기 시간 주의 ⏳", "대기": "긴 대기 시간 주의 ⏳",
+        "queue": "긴 대기 시간 주의 ⏳", "비싸": "가격대가 높음 💸", "expensive": "가격대가 높음 💸",
+        "덥다": "내부가 더운 편 🌡️", "더워": "내부가 더운 편 🌡️", "hot": "내부가 더운 편 🌡️",
+        "no ac": "에어컨 없음/약함", "불친절": "서비스 아쉬움 😕", "양 적음": "양이 적을 수 있음",
+        "좁음": "공간이 협소함", "salty": "간이 센 편", "waiting": "대기 발생 가능"
+    }
+
+    pros = []
+    cons = []
+    all_text = ""
+    scored_reviews = []
+
+    for r in reviews:
+        text = r.get('text', '')
+        if text:
+            all_text += text.lower() + " "
+            score = calculate_review_score(r)
+            scored_reviews.append({
+                'score': score,
+                'review_data': {
+                    'text': text,
+                    'rating': r.get('rating', 0),
+                    'relative_time': r.get('relative_time_description', '최근')
+                }
+            })
+
+    # 품질 점수 순으로 정렬하여 베스트 리뷰 선정
+    best_review_obj = None
+    if scored_reviews:
+        sorted_scored = sorted(scored_reviews, key=lambda x: x['score'], reverse=True)
+        best_review_obj = sorted_scored[0]['review_data']
+    elif reviews:
+        # 점수 산정이 안되면 가장 첫 번째(최신) 리뷰 사용
+        r = reviews[0]
+        best_review_obj = {
+            'text': r.get('text', ''),
+            'rating': r.get('rating', 0),
+            'relative_time': r.get('relative_time_description', '최근')
+        }
+
+    # 장점 추출
+    for kw, label in PRO_KEYWORDS.items():
+        if kw in all_text and label not in pros:
+            pros.append(label)
+    
+    # 단점 추출
+    for kw, label in CON_KEYWORDS.items():
+        if kw in all_text and label not in cons:
+            cons.append(label)
+
+    # 한줄평 (Verdict)
+    if rating >= 4.5:
+        verdict = "실패 없는 현지인 추천 맛집 🏆"
+    elif "웨이팅" in all_text or "대기" in all_text or "queue" in all_text:
+        verdict = "기다림을 감수할 가치가 있는 핫플 ⏳"
+    elif price_level <= 1:
+        verdict = "가성비 최고의 로컬 식당 💰"
+    else:
+        verdict = f"{name or '이곳'}은(는) 방문해 볼 만한 가치가 있는 곳입니다."
+
+    # 기존 warnings 호환성 및 결과 조합
+    warnings = []
+    if "짜다" in all_text or "salty" in all_text:
+        warnings.append({'type': 'taste', 'message': '⚠️ 간이 센 편입니다 (Salty)', 'level': 'warning'})
+    if "웨이팅" in all_text or "queue" in all_text:
+        warnings.append({'type': 'waiting', 'message': '⏳ 웨이팅이 있는 핫플입니다', 'level': 'info'})
+    if "더워" in all_text or "hot" in all_text:
+        warnings.append({'type': 'hygiene', 'message': '🌡️ 내부가 더울 수 있습니다', 'level': 'warning'})
+
+    return {
+        'pros': pros[:3] if pros else ["전반적으로 무난함"],
+        'cons': cons[:3] if cons else ["특별한 단점 발견되지 않음 ✨"],
+        'verdict': verdict,
+        'warnings': warnings,
+        'best_review': best_review_obj
+    }
+
+
+def extract_restaurant_share_summary(name, details):
+    """
+    맛집 분석 결과 공유용 텍스트 생성
+    """
+    analysis = details.get('analysis', {})
+    cuisines = ", ".join(details.get('cuisines', []))
+    pros = "\n- ".join(analysis.get('pros', ["전반적으로 무난함"]))
+    cons = "\n- ".join(analysis.get('cons', ["특별한 단점 발견되지 않음"]))
+    
+    summary = f"""[🇹🇭 방콕 맛집 팩트체크]
+
+🍽️ 식당명: {name} ({cuisines})
+⭐ 평점: {details.get('rating', 0)} / 5.0 (리뷰 {details.get('num_reviews', 0):,}개)
+💰 가격대: {details.get('price_text', '정보 없음')}
+
+🏆 한줄 평: "{analysis.get('verdict', '')}"
+
+👍 장점:
+- {pros}
+
+👎 단점:
+- {cons}
+
+📍 구글맵 보기: {details.get('web_url', '')}
+🔗 확인하기: thai-today.com"""
+    return summary.strip()
+
+
+def analyze_review_sentiment(reviews):
+    """
+    구형 호환성을 위한 래퍼 함수 (미래에는 analyze_restaurant_reviews로 통합 가능)
+    """
+    return analyze_restaurant_reviews(reviews, 4.0)
+
+
+def search_restaurants(keyword):
+    """
+    Google Places API로 식당을 검색합니다.
+    캐시 우선: 먼저 캐시에서 검색 후 API 호출
+    
+    Args:
+        keyword: 검색어 (식당 이름)
+    
+    Returns:
+        list: 검색 결과 리스트 [{place_id, name, address, is_cached}, ...]
+    """
+    import requests
+    
+    # 1단계: 캐시에서 먼저 검색
+    cached_results = search_cached_restaurants(keyword)
+    
+    # 2단계: Google Places Text Search API 호출
+    api_results = []
+    try:
+        google_places_key = st.secrets.get("google_maps_api_key")
+        if not google_places_key:
+            # googlemaps_api 키로 폴백
+            google_places_key = st.secrets.get("googlemaps_api")
+        
+        if google_places_key:
+            url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
+            
+            # 태국 레스토랑으로 검색 범위 제한
+            params = {
+                "query": f"{keyword} restaurant Bangkok Thailand",
+                "type": "restaurant",
+                "language": "ko",
+                "key": google_places_key
+            }
+            
+            response = requests.get(url, params=params, timeout=10)
+            
+            if response.status_code == 200:
+                data = response.json()
+                
+                if data.get('status') == 'OK':
+                    results = data.get('results', [])
+                    
+                    # 캐시된 place_id 추출 (중복 방지)
+                    cached_ids = {r.get('location_id', r.get('place_id', '')) for r in cached_results}
+                    
+                    for place in results[:10]:
+                        place_id = place.get('place_id')
+                        name = place.get('name', '')
+                        
+                        if place_id and name and place_id not in cached_ids:
+                            api_results.append({
+                                'place_id': place_id,
+                                'location_id': place_id,  # 호환성
+                                'name': name,
+                                'address': place.get('formatted_address', '주소 정보 없음'),
+                                'rating': place.get('rating', 0),
+                                'is_cached': False
+                            })
+                else:
+                    print(f"Google Places Search: {data.get('status')}")
+            else:
+                print(f"Google Places Error: {response.status_code}")
+    except Exception as e:
+        print(f"Google Places Search Error: {e}")
+    
+    # 캐시 결과를 먼저 보여주고, API 결과를 뒤에 추가
+    combined = cached_results + api_results
+    return combined[:10]  # 최대 10개
+
+
+def get_restaurant_details(place_id):
+    """
+    Google Places API로 식당 상세 정보를 가져옵니다.
+    캐시 우선: 먼저 캐시 확인 후 없으면 API 호출 및 캐시 저장
+    
+    Args:
+        place_id: Google Places ID
+    
+    Returns:
+        dict: 상세 정보 (이름, 평점, 리뷰수, 가격대, 사진 등)
+    """
+    import requests
+    
+    # 1단계: 캐시에서 먼저 확인 (API 비용 0)
+    cached = get_cached_restaurant_details(place_id)
+    if cached:
+        print(f"✅ Cache hit for place_id: {place_id}")
+        return cached
+    
+    # 2단계: Google Places Details API 호출 (비용 발생)
+    try:
+        google_places_key = st.secrets.get("google_maps_api_key")
+        if not google_places_key:
+            google_places_key = st.secrets.get("googlemaps_api")
+        
+        if not google_places_key:
+            return None
+        
+        url = "https://maps.googleapis.com/maps/api/place/details/json"
+        
+        # 필요한 필드만 요청 (비용 최적화 + 리뷰 포함)
+        params = {
+            "place_id": place_id,
+            "fields": "name,rating,user_ratings_total,price_level,formatted_address,formatted_phone_number,opening_hours,photos,url,types,reviews,editorial_summary",
+            "language": "ko",
+            "key": google_places_key
+        }
+        
+        response = requests.get(url, params=params, timeout=15)
+        
+        if response.status_code != 200:
+            print(f"Google Places Details Error: {response.status_code}")
+            return None
+        
+        data = response.json()
+        
+        if data.get('status') != 'OK':
+            print(f"Google Places Details: {data.get('status')}")
+            return None
+        
+        result_data = data.get('result', {})
+        
+        # 상세 정보 파싱
+        rating = float(result_data.get('rating', 0) or 0)
+        num_reviews = int(result_data.get('user_ratings_total', 0) or 0)
+        price_level = result_data.get('price_level', 0)  # 0-4
+        
+        # 가격대 텍스트 변환
+        price_text = ""
+        if price_level == 1:
+            price_text = "💰 저렴"
+        elif price_level == 2:
+            price_text = "💰💰 보통"
+        elif price_level == 3:
+            price_text = "💰💰💰 비싼편"
+        elif price_level == 4:
+            price_text = "💰💰💰💰 고급"
+        
+        # 사진 URL 생성 (photo_reference 사용)
+        photos = []
+        for photo in result_data.get('photos', [])[:5]:
+            photo_ref = photo.get('photo_reference')
+            if photo_ref:
+                photo_url = f"https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference={photo_ref}&key={google_places_key}"
+                photos.append(photo_url)
+        
+        # 영업시간
+        opening_hours = result_data.get('opening_hours', {})
+        is_open = opening_hours.get('open_now', None)
+        hours_text = ""
+        if is_open is True:
+            hours_text = "🟢 영업중"
+        elif is_open is False:
+            hours_text = "🔴 영업종료"
+        
+        # 요리 종류 추출 (필터링 및 한글화 적용)
+        types = result_data.get('types', [])
+        cuisines = []
+        for t in types:
+            if t not in IGNORED_TYPES:
+                # 매핑된 한글 명칭이 있으면 사용, 없으면 Pretty Print
+                ko_name = CUISINE_MAPPING.get(t)
+                if ko_name:
+                    cuisines.append(ko_name)
+                else:
+                    cuisines.append(t.replace('_', ' ').title())
+        
+        # 만약 필터링 후 남은 게 없으면 기본값 설정
+        if not cuisines:
+            cuisines = ["일반 음식점"]
+        
+        # 리스트 중 가장 구체적인 1~2개만 사용
+        cuisines = cuisines[:2]
+        
+        # 리뷰 데이터 추출 및 분석 (고도화된 분석 함수 사용)
+        reviews = result_data.get('reviews', [])
+        name = result_data.get('name', '')
+        editorial_summary = result_data.get('editorial_summary', {}).get('text', '')
+        
+        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name)
+        recommended_menu = analyze_reviews_for_menu(reviews, editorial_summary)
+        
+        result = {
+            'name': result_data.get('name', ''),
+            'rating': rating,
+            'num_reviews': num_reviews,
+            'price_level': price_level,
+            'price_text': price_text,
+            'address': result_data.get('formatted_address', ''),
+            'phone': result_data.get('formatted_phone_number', ''),
+            'photos': photos,
+            'hours': hours_text,
+            'is_open': is_open,
+            'cuisines': cuisines[:3],
+            'web_url': result_data.get('url', ''),
+            'maps_url': result_data.get('url', ''),
+            'menu_url': get_menu_search_url(result_data.get('name', ''), result_data.get('formatted_address', '')),
+            'editorial_summary': editorial_summary,
+            'recommended_menu': recommended_menu,
+            # 팩트체크 리포트 데이터
+            'analysis': analysis,
+            # 호환성용
+            'food_rating': rating,
+            'atmosphere_rating': rating,
+            'location_rating': rating,
+        }
+        
+        # 3단계: 캐시에 저장 (다음엔 API 안 불러도 됨)
+        save_restaurant_to_cache(place_id, result)
+        
+        return result
+        
+    except Exception as e:
+        print(f"Google Places Details Error: {e}")
+        return None
+
 # Helper: Load Custom CSS from file
 def load_custom_css():
     """

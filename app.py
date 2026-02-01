@@ -3214,68 +3214,280 @@ else:
                         hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
 
 
-    # --- Page 4: Wongnai Restaurant Fact Check ---
+    # --- Page 4: Restaurant Fact Check (Google Maps) ---
     elif page_mode == "🍽️ 맛집":
-        # Using global gemini_key
-        st.markdown(f"### 🍱 웡나이(Wongnai) 맛집 팩트체크")
-        st.write("로컬 맛집 사이트 'Wongnai'의 생생한 리뷰를 AI가 분석해드립니다.")
+        utils.render_custom_header("🍜 맛집 팩트체크", level=2)
+        st.caption("인스타 맛집의 진실! 구글 맵 데이터로 진짜 맛집인지 판별합니다.")
         
+        # 세션 상태 초기화
+        if "restaurant_search_results" not in st.session_state:
+            st.session_state["restaurant_search_results"] = []
+        if "restaurant_selected" not in st.session_state:
+            st.session_state["restaurant_selected"] = None
+        if "restaurant_details" not in st.session_state:
+            st.session_state["restaurant_details"] = None
+        if "food_history" not in st.session_state:
+            st.session_state["food_history"] = []
+        
+        # --- 1단계: 검색 ---
         container = st.container(border=True)
         with container:
-            w_name = st.text_input("식당 이름 (영어 또는 태국어)", placeholder="예: Jeh O Chula, Hilton Breakfast", key="wongnai_input")
+            r_name = st.text_input("🔍 식당 이름", placeholder="예: 팁사마이, Thip Samai, Zabb One", key="restaurant_input")
             
-            search_btn = st.button("🔍 웡나이 분석 시작", key="btn_w_search", type="primary", width='stretch')
+            search_btn = st.button("🔍 맛집 검색", key="btn_r_search", type="primary", use_container_width=True)
             
             if search_btn:
-                if not w_name:
+                if not r_name:
                     st.warning("식당 이름을 입력해주세요.")
                 else:
-                    with st.spinner("🔍 웡나이에서 맛집 찾는 중..."):
-                        w_url = utils.search_wongnai_restaurant(w_name, gemini_key)
-                        
-                        if not w_url:
-                            st.error("Wongnai에서 해당 식당을 찾을 수 없습니다. 이름을 더 자세히 입력해보세요.")
-                        else:
-                            with st.spinner("🇹🇭 태국어 리뷰 수집 및 번역 중..."):
-                                raw_data = utils.scrape_wongnai_restaurant(w_url)
-                                if "error" in raw_data:
-                                    st.error(raw_data["error"])
-                                else:
-                                    # Analyze with Gemini
-                                    analysis = utils.analyze_wongnai_data(raw_data, gemini_key)
-                                    st.session_state["wongnai_result"] = analysis
-
-        # Display Result
-        res = st.session_state.get("wongnai_result")
-        if res:
-            if "error" in res:
-                st.error(res["error"])
+                    with st.spinner("🔍 구글 맵에서 검색 중..."):
+                        results = utils.search_restaurants(r_name)
+                        st.session_state["restaurant_search_results"] = results
+                        st.session_state["restaurant_selected"] = None
+                        st.session_state["restaurant_details"] = None
+        
+        # --- 2단계: 검색 결과 표시 및 선택 ---
+        search_results = st.session_state.get("restaurant_search_results", [])
+        
+        if search_results:
+            st.divider()
+            st.markdown("#### 🍜 검색 결과 - 식당을 선택하세요")
+            
+            # Radio 옵션 생성
+            options = [f"{r['name']} ({r['address']})" for r in search_results]
+            
+            selected_option = st.radio(
+                "식당 선택",
+                options,
+                key="restaurant_radio",
+                label_visibility="collapsed"
+            )
+            
+            # 선택된 식당의 location_id 찾기
+            selected_idx = options.index(selected_option) if selected_option else 0
+            selected_restaurant = search_results[selected_idx]
+            
+            st.session_state["restaurant_selected"] = selected_restaurant
+            
+            # 팩트체크 시작 버튼
+            if st.button("✅ 팩트체크 시작", key="btn_r_factcheck", type="primary", use_container_width=True):
+                with st.spinner("📊 식당 정보 분석 중..."):
+                    details = utils.get_restaurant_details(selected_restaurant['location_id'])
+                    st.session_state["restaurant_details"] = details
+                    
+                    # 히스토리 추가 (중복 제거 및 최상단)
+                    history_item = {
+                        'place_id': selected_restaurant['location_id'],
+                        'name': details['name'],
+                        'details': details
+                    }
+                    st.session_state['food_history'] = [h for h in st.session_state['food_history'] if h['place_id'] != selected_restaurant['location_id']]
+                    st.session_state['food_history'].insert(0, history_item)
+                    st.session_state['food_history'] = st.session_state['food_history'][:10] # 최대 10개
+        
+        elif st.session_state.get("restaurant_search_results") == []:
+            # 검색했지만 결과 없음
+            if st.session_state.get("restaurant_input"):
+                st.info("❌ 검색 결과가 없습니다. 다른 검색어를 시도해보세요.")
+        
+        # --- 3단계: 상세 분석 결과 표시 ---
+        details = st.session_state.get("restaurant_details")
+        if details:
+            st.divider()
+            
+            # 종합 점수 헤더 (Google은 전체 평점만 있음 - 강조)
+            rating = details.get('rating', 0)
+            num_reviews = details.get('num_reviews', 0)
+            price_text = details.get('price_text', '')
+            hours_status = details.get('hours', '')
+            
+            # 평점 색상
+            if rating >= 4.5:
+                rating_color = "#00B894"  # 초록
+                rating_emoji = "🏆"
+            elif rating >= 4.0:
+                rating_color = "#D4AF37"  # 금색
+                rating_emoji = "⭐"
+            elif rating >= 3.5:
+                rating_color = "#FDCB6E"  # 노랑
+                rating_emoji = "🤔"
             else:
-                info = res["info"]
-                summary = res["summary"]
+                rating_color = "#E17055"  # 빨강
+                rating_emoji = "⚠️"
+            
+            st.markdown(f"""
+            <div style="
+                background: linear-gradient(135deg, {rating_color}22 0%, {rating_color}11 100%);
+                border-radius: 16px;
+                padding: 24px;
+                text-align: center;
+                border: 2px solid {rating_color};
+                margin-bottom: 20px;
+            ">
+                <h1 style="margin: 0; color: {rating_color}; font-size: 3rem;">{rating_emoji} {rating}</h1>
+                <p style="font-size: 1.2rem; margin: 8px 0 0 0; color: #888;">5.0점 만점 · 리뷰 {num_reviews:,}개</p>
+                <p style="font-size: 1rem; margin: 8px 0 0 0;">{price_text} {hours_status}</p>
+            </div>
+            """, unsafe_allow_html=True)
+            
+            # 식당 기본 정보
+            st.markdown(f"### 🍜 {details.get('name', '식당')}")
+            
+            # 구글 한 줄 소개 (Editorial Summary)
+            if details.get('editorial_summary'):
+                st.caption(f"✨ {details.get('editorial_summary')}")
+            
+            # 🔥 추천 메뉴 (리뷰 분석 결과)
+            recommended_menu = details.get('recommended_menu', [])
+            if recommended_menu:
+                st.markdown("##### 🔥 리뷰어들의 추천 메뉴")
+                menu_html = " ".join([f'<span style="background-color: #ffeaa7; padding: 4px 10px; border-radius: 12px; margin-right: 6px; font-weight: bold; color: #d63031;">#{m}</span>' for m in recommended_menu])
+                st.markdown(menu_html, unsafe_allow_html=True)
+                st.write("") # 간격
+            
+            # 사진 갤러리 (상단 배치)
+            photos = details.get('photos', [])
+            if photos:
+                st.markdown("#### 📸 사진")
+                gallery_html = '<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">'
+                for photo in photos:
+                    if photo:
+                        gallery_html += f'<img src="{photo}" style="height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">'
+                gallery_html += '</div>'
+                st.markdown(gallery_html, unsafe_allow_html=True)
+                st.caption("📍 사진 출처: Google Maps 사용자 리뷰")
+            
+            # 정보 요약 (Google은 세부 점수가 없으므로 바로 정보 표시)
+            st.markdown("#### ℹ️ 기본 정보")
+            info_col1, info_col2 = st.columns(2)
+            
+            with info_col1:
+                if details.get('price_text'):
+                    st.markdown(f"💰 **가격대:** {details.get('price_text', '')}")
+                if details.get('cuisines'):
+                    cuisines_text = ', '.join(details.get('cuisines', []))
+                    if cuisines_text:
+                        st.markdown(f"🍽️ **요리 종류:** {cuisines_text}")
+                if details.get('hours'):
+                    st.markdown(f"🕐 **영업상태:** {details.get('hours', '')}")
+            
+            with info_col2:
+                if details.get('address'):
+                    st.markdown(f"📍 **주소:** {details.get('address', '')}")
+                if details.get('phone'):
+                    st.markdown(f"📞 **전화:** {details.get('phone', '')}")
+            
+            # --- 💡 팩트체크 요약 섹션 (호텔 탭 스타일) ---
+            st.markdown("#### 💡 팩트체크 요약")
+            analysis = details.get('analysis', {})
+            
+            # 한줄추천 (Verdict)
+            verdict = analysis.get('verdict', '방문해 볼 만한 곳입니다.')
+            st.info(f"**{verdict}**")
+            
+            # 장점 & 단점 컬럼
+            col_pros, col_cons = st.columns(2)
+            
+            with col_pros:
+                st.markdown("##### 👍 장점")
+                pros = analysis.get('pros', ["전반적으로 무난함"])
+                for p in pros:
+                    st.success(f"**{p}**")
+                    
+            with col_cons:
+                st.markdown("##### 👎 단점")
+                cons = analysis.get('cons', ["특별한 단점 발견되지 않음 ✨"])
+                for c in cons:
+                    st.error(f"**{c}**")
+            
+            # --- ✅ 팩트체크 알림 (Warnings) ---
+            warnings = analysis.get('warnings', [])
+            if warnings:
+                with st.expander("🔔 세부 주의사항 보기"):
+                    for warn in warnings:
+                        if warn['level'] == 'warning':
+                            st.warning(warn['message'])
+                        else:
+                            st.info(warn['message'])
+            
+            # --- 💬 베스트 리뷰 섹션 ---
+            best_review = analysis.get('best_review')
+            if best_review and isinstance(best_review, dict):
+                st.markdown("#### 💬 베스트 리뷰")
+                # 메타데이터 (평점 및 시간)
+                b_rating = best_review.get('rating', 0)
+                b_time = best_review.get('relative_time', '최근')
+                st.caption(f"⭐ {b_rating}/5 · {b_time}")
+                st.info(f"\"{best_review.get('text', '')}\"")
+            elif best_review and isinstance(best_review, str):
+                # 호환성 대응
+                st.markdown("#### 💬 베스트 리뷰")
+                st.info(f"\"{best_review}\"")
+            
+            # --- 🍽️ 메뉴 정보 섹션 ---
+            menu_url = details.get('menu_url')
+            if menu_url:
+                st.markdown("#### 🍽️ 메뉴 정보")
+                st.link_button("🍽️ 메뉴판 이미지 검색 (Google)", menu_url, use_container_width=True)
+                st.caption("✨ 구글 이미지 검색을 통해 메뉴판 사진들을 모아봅니다.")
                 
-                st.markdown("---")
-                
-                # Restaurant Card
-                r_col1, r_col2 = st.columns([1, 2])
-                with r_col1:
-                    if info.get('photo_url'):
-                        st.image(info['photo_url'], width='stretch', caption=info['name'])
-                    else:
-                        st.info("이미지 없음")
-                        
-                with r_col2:
-                    st.subheader(f"{info['name']}")
-                    st.markdown(f"⭐ **별점**: {info['score']} | 💰 **가격대**: {info['price']}")
-                    st.markdown(f"🔗 [Wongnai 원문 보기]({info['url']})")
-                
-                # AI Summary
-                st.markdown("#### 🤖 Gemini AI 로컬 리뷰 분석")
-                st.write(summary)
-                
-                if st.button("🗑️ 결과 지우기", key="btn_clear_w"):
-                    st.session_state["wongnai_result"] = None
+            # --- 📢 팩트체크 결과 공유하기 ---
+            st.divider()
+            share_text = utils.extract_restaurant_share_summary(details.get('name', '식당'), details)
+            with st.expander("📢 친구에게 공유하기 (복사)", expanded=False):
+                st.code(share_text, language=None)
+                st.caption("👆 위 텍스트 우측 상단 복사 버튼을 눌러 카톡에 붙여넣으세요!")
+            st.divider()
+
+            
+            # Google Maps 링크
+            if details.get('web_url'):
+                st.link_button("🗺️ 구글 지도에서 상세 정보 보기", details.get('web_url'), use_container_width=True)
+            
+            st.divider()
+            if st.button("🗑️ 결과 지우기", key="btn_clear_r"):
+                st.session_state["restaurant_search_results"] = []
+                st.session_state["restaurant_selected"] = None
+                st.session_state["restaurant_details"] = None
+                st.rerun()
+
+        # --- 🕒 최근 본 맛집 (History) ---
+        if st.session_state.get('food_history'):
+            st.divider()
+            h_col1, h_col2 = st.columns([4, 1])
+            with h_col1:
+                st.subheader("🕒 최근 본 맛집 히스토리")
+            with h_col2:
+                if st.button("기록 삭제", key="clear_food_hist", type="secondary"):
+                    st.session_state['food_history'] = []
                     st.rerun()
+            
+            for i, h_item in enumerate(st.session_state['food_history']):
+                h_name = h_item['name']
+                h_details = h_item['details']
+                h_analysis = h_details.get('analysis', {})
+                
+                with st.expander(f"🍴 {h_name} ({h_details.get('rating', 0)}⭐) - {h_analysis.get('verdict', '')}"):
+                    h_c1, h_c2 = st.columns([1, 2])
+                    with h_c1:
+                        # 대표 사진 하나 표시
+                        if h_details.get('photos'):
+                            st.image(h_details['photos'][0], use_container_width=True)
+                        st.caption(f"📍 {h_details.get('address', '')}")
+                    
+                    with h_c2:
+                        st.info(f"🏆 {h_analysis.get('verdict', '')}")
+                        
+                        # 간단한 장/단점 요약
+                        h_pros = ", ".join(h_analysis.get('pros', [])[:2])
+                        h_cons = ", ".join(h_analysis.get('cons', [])[:2])
+                        if h_pros: st.success(f"👍 {h_pros}")
+                        if h_cons: st.error(f"👎 {h_cons}")
+                        
+                        if st.button("🔍 상세 분석 다시보기", key=f"btn_h_view_{i}", use_container_width=True):
+                            st.session_state["restaurant_selected"] = h_item['place_id']
+                            st.session_state["restaurant_details"] = h_details
+                            st.rerun()
 
     # --- Page: 📘 여행 가이드 ---
     elif page_mode == "📘 가이드":
