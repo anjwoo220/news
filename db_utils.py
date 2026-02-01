@@ -260,6 +260,63 @@ def load_news_by_date(target_date):
         print(f"Error loading news for date {target_date}: {e}")
         return []
 
+# Archive cache file path
+ARCHIVE_NEWS_CACHE = "data/archive_news.json"
+
+def get_news_for_date(target_date: str) -> list:
+    """
+    [LAZY LOADING] 특정 날짜의 뉴스를 가져옵니다.
+    
+    1. 로컬 전체 캐시(news.json)에서 먼저 확인 (0.01s)
+    2. 아카이브 캐시에서 확인 (0.01s)  
+    3. 없으면 GSheets에서 해당 날짜만 쿼리 (2-3s)
+    4. 가져온 데이터를 아카이브에 저장 (재조회 최적화)
+    
+    Args:
+        target_date: "YYYY-MM-DD" 형식 문자열
+    
+    Returns: list of news items for that date
+    """
+    # Step 1: 로컬 메인 캐시 확인 (전체 파일에서 해당 날짜만)
+    if os.path.exists(LOCAL_NEWS_CACHE):
+        try:
+            with open(LOCAL_NEWS_CACHE, 'r', encoding='utf-8') as f:
+                all_news = json.load(f)
+            if isinstance(all_news, dict) and target_date in all_news:
+                return all_news[target_date]
+        except Exception as e:
+            print(f"Error reading local cache: {e}")
+    
+    # Step 2: 아카이브 캐시 확인
+    if os.path.exists(ARCHIVE_NEWS_CACHE):
+        try:
+            with open(ARCHIVE_NEWS_CACHE, 'r', encoding='utf-8') as f:
+                archive = json.load(f)
+            if isinstance(archive, dict) and target_date in archive:
+                return archive[target_date]
+        except Exception as e:
+            print(f"Error reading archive cache: {e}")
+    
+    # Step 3: GSheets에서 온디맨드 로드
+    items = load_news_by_date(target_date)
+    
+    # Step 4: 아카이브에 저장 (재조회 최적화)
+    if items:
+        try:
+            archive = {}
+            if os.path.exists(ARCHIVE_NEWS_CACHE):
+                with open(ARCHIVE_NEWS_CACHE, 'r', encoding='utf-8') as f:
+                    archive = json.load(f)
+                if not isinstance(archive, dict):
+                    archive = {}
+            archive[target_date] = items
+            with open(ARCHIVE_NEWS_CACHE, 'w', encoding='utf-8') as f:
+                json.dump(archive, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"Error saving to archive cache: {e}")
+    
+    return items
+
 def save_news_to_sheet(news_data_dict, worksheet="news"):
     """
     Overwrites the 'news' worksheet with the provided news_data_dict.

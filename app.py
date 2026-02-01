@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore", category=FutureWarning, module="google.generat
 # Suppress Streamlit Warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning, module="streamlit")
 # --------------------------------------------------------------------------------
-from db_utils import load_news_from_sheet, save_news_to_sheet, load_recent_news, load_news_by_date, load_local_news_cache
+from db_utils import load_news_from_sheet, save_news_to_sheet, load_recent_news, load_news_by_date, load_local_news_cache, get_news_for_date
 
 # Fix SSL Certificate Issue on Mac
 os.environ["SSL_CERT_FILE"] = certifi.where()
@@ -2214,7 +2214,8 @@ else:
              min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
              st.error("데이터를 불러올 수 없습니다. (잠시 후 다시 시도해주세요)")
         else:
-             min_date = min(valid_dates)
+             # [LAZY LOADING] 과거 날짜 접근 허용을 위해 min_date 하드코딩 (프로젝트 시작일)
+             min_date = datetime(2025, 1, 9).date()
              data_max = max(valid_dates)
              today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
              max_date = max(today_date, data_max)
@@ -2300,7 +2301,7 @@ else:
             else:
                 # [ON-DEMAND] Load older dates not in the 7-day cache
                 with st.spinner("📅 이전 날짜 데이터 로딩 중..."):
-                    older_items = load_news_by_date(selected_date_str)
+                    older_items = get_news_for_date(selected_date_str)
                     if older_items:
                         filtered_topics_all = list(reversed(older_items))
                     else:
