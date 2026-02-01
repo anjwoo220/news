@@ -2920,6 +2920,54 @@ else:
                                  if info.get('photo_url'):
                                      st.image(info['photo_url'], use_container_width=True, caption=info['name'])
                                  
+                                 # 📷 투숙객 사진 갤러리 (가로 스크롤)
+                                 photo_urls = info.get('photo_urls', [])
+                                 if photo_urls and len(photo_urls) > 1:
+                                     with st.expander("📷 투숙객 실제 사진 갤러리", expanded=True):
+                                         # 가로 스크롤 갤러리 CSS + HTML
+                                         gallery_html = """
+                                         <style>
+                                         .photo-gallery {
+                                             display: flex;
+                                             overflow-x: auto;
+                                             gap: 12px;
+                                             padding: 10px 0;
+                                             scroll-snap-type: x mandatory;
+                                             -webkit-overflow-scrolling: touch;
+                                         }
+                                         .photo-gallery::-webkit-scrollbar {
+                                             height: 8px;
+                                         }
+                                         .photo-gallery::-webkit-scrollbar-thumb {
+                                             background: #888;
+                                             border-radius: 4px;
+                                         }
+                                         .photo-card {
+                                             flex: 0 0 auto;
+                                             scroll-snap-align: start;
+                                             border-radius: 12px;
+                                             overflow: hidden;
+                                             box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                                             transition: transform 0.2s;
+                                         }
+                                         .photo-card:hover {
+                                             transform: scale(1.02);
+                                         }
+                                         .photo-card img {
+                                             height: 200px;
+                                             width: auto;
+                                             object-fit: cover;
+                                         }
+                                         </style>
+                                         <div class="photo-gallery">
+                                         """
+                                         for idx, photo_url in enumerate(photo_urls):
+                                             gallery_html += f'<div class="photo-card"><img src="{photo_url}" alt="호텔 사진 {idx+1}"></div>'
+                                         gallery_html += "</div>"
+                                         
+                                         st.markdown(gallery_html, unsafe_allow_html=True)
+                                         st.caption("📍 사진 출처: 구글맵 사용자 리뷰")
+                                 
                                  st.subheader(f"{info['name']}")
                                  st.markdown(f"📍 **주소:** {info['address']}")
                                  st.markdown(f"⭐ **구글 평점:** {info['rating']} ({info['review_count']:,}명 참여)")

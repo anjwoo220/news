@@ -1954,11 +1954,23 @@ def fetch_hotel_details(place_id, api_key):
             
         place = resp.json()
         
-        # Photo handling
+        # Photo handling - 단일 대표 사진
         photo_url = None
+        # Photo gallery - 최대 10장
+        photo_urls = []
+        
         if place.get("photos"):
-            photo_ref = place["photos"][0]["name"]
-            photo_url = f"https://places.googleapis.com/v1/{photo_ref}/media?maxHeightPx=800&maxWidthPx=800&key={api_key}"
+            photos = place["photos"][:10]  # 최대 10장
+            for photo in photos:
+                photo_ref = photo.get("name")
+                if photo_ref:
+                    gallery_url = f"https://places.googleapis.com/v1/{photo_ref}/media?maxHeightPx=400&maxWidthPx=600&key={api_key}"
+                    photo_urls.append(gallery_url)
+            
+            # 첫 번째 사진을 대표 사진으로
+            if photos:
+                photo_ref = photos[0]["name"]
+                photo_url = f"https://places.googleapis.com/v1/{photo_ref}/media?maxHeightPx=800&maxWidthPx=800&key={api_key}"
 
         return {
             "name": place.get("displayName", {}).get("text", "Unknown"),
@@ -1966,7 +1978,8 @@ def fetch_hotel_details(place_id, api_key):
             "rating": place.get("rating", 0.0),
             "review_count": place.get("userRatingCount", 0),
             "reviews": place.get("reviews", []),
-            "photo_url": photo_url
+            "photo_url": photo_url,
+            "photo_urls": photo_urls  # 갤러리용 사진 리스트
         }
     except Exception as e:
         st.error(f"상세 정보 처리 중 오류: {e}")
