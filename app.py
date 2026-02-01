@@ -23,7 +23,7 @@ warnings.filterwarnings("ignore", category=FutureWarning, module="google.generat
 # Suppress Streamlit Warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning, module="streamlit")
 # --------------------------------------------------------------------------------
-from db_utils import load_news_from_sheet, save_news_to_sheet, load_recent_news, load_news_by_date
+from db_utils import load_news_from_sheet, save_news_to_sheet, load_recent_news, load_news_by_date, load_local_news_cache
 
 # Fix SSL Certificate Issue on Mac
 os.environ["SSL_CERT_FILE"] = certifi.where()
@@ -312,10 +312,20 @@ utils.load_custom_css()
 
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
-# [OPTIMIZED] Use load_recent_news for faster initial load (7 days + TTL cache)
+# [OPTIMIZED] Hybrid approach: Local cache first (instant), GSheets fallback
 @st.cache_data(ttl=300)  # 5 min outer cache
 def load_news_data():
-    # Use optimized loader (7 days only + GSheets TTL)
+    """
+    Hybrid news loader for fast initial load:
+    1. Try local JSON cache first (< 0.5s)
+    2. Fall back to GSheets if local is empty (8-10s)
+    """
+    # Try local cache first (instant)
+    local_data = load_local_news_cache(days=7)
+    if local_data:
+        return local_data
+    
+    # Fallback to GSheets (slower but always up-to-date)
     return load_recent_news(days=7)
 
 # --- Cached Wrappers for API Calls ---

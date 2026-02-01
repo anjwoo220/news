@@ -3,10 +3,40 @@ import streamlit as st
 import pandas as pd
 from streamlit_gsheets import GSheetsConnection
 import json
-from datetime import datetime
+import os
+from datetime import datetime, timedelta
 
 # SPREADSHEET URL (Public/Shared)
 SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1xa6Vwpx7jhaT_YqX6n1pvh0VdLY4N277hdq3QWMNEV8/edit?usp=sharing"
+
+# Local cache file path
+LOCAL_NEWS_CACHE = "data/news.json"
+
+def load_local_news_cache(days=7):
+    """
+    [FAST] Loads news from local JSON file.
+    Returns only recent N days for consistency with GSheets version.
+    
+    Returns: dict { "YYYY-MM-DD": [items] } or {} if file doesn't exist
+    """
+    if not os.path.exists(LOCAL_NEWS_CACHE):
+        return {}
+    
+    try:
+        with open(LOCAL_NEWS_CACHE, 'r', encoding='utf-8') as f:
+            all_news = json.load(f)
+        
+        if not isinstance(all_news, dict):
+            return {}
+        
+        # Filter to recent N days
+        cutoff_date = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
+        recent_news = {k: v for k, v in all_news.items() if k >= cutoff_date}
+        
+        return recent_news
+    except Exception as e:
+        print(f"Error loading local news cache: {e}")
+        return {}
 
 # Connection Helper
 def get_db_connection():
