@@ -49,6 +49,58 @@ def scroll_to_top(key_suffix=None):
     """
     components.html(js, height=0, width=0)
 
+# --- Head 태그 코드 주입 Helper ---
+def inject_head_code(code_string):
+    """
+    HTML 코드를 부모 윈도우의 <head> 태그에 삽입합니다.
+    Travelpayouts 등 제3자 서비스 인증 코드 삽입에 사용.
+    
+    Args:
+        code_string: 삽입할 HTML 코드 (meta 태그, script 태그 등)
+    
+    Example:
+        inject_head_code('<meta name="tp-verification" content="abc123" />')
+    """
+    import streamlit.components.v1 as components
+    import time
+    import html
+    
+    if not code_string or not code_string.strip():
+        return
+    
+    # JavaScript에서 안전하게 사용하기 위해 escape 처리
+    # 단, HTML 태그는 그대로 유지해야 하므로 줄바꿈/따옴표만 처리
+    safe_code = code_string.replace('\\', '\\\\').replace('`', '\\`').replace('${', '\\${')
+    
+    # 고유 key를 위한 timestamp
+    unique_id = int(time.time() * 1000)
+    
+    js = f"""
+    <!-- head_inject_{unique_id} -->
+    <script>
+        (function() {{
+            // 이미 삽입되었는지 체크 (중복 방지)
+            var existingMeta = window.parent.document.head.querySelector('[data-tp-injected]');
+            if (existingMeta) return;
+            
+            // 코드를 head에 삽입
+            var codeToInject = `{safe_code}`;
+            var tempDiv = document.createElement('div');
+            tempDiv.innerHTML = codeToInject;
+            
+            // 각 요소를 head에 추가
+            while (tempDiv.firstChild) {{
+                var node = tempDiv.firstChild;
+                if (node.nodeType === 1) {{ // Element node
+                    node.setAttribute('data-tp-injected', 'true');
+                }}
+                window.parent.document.head.appendChild(node);
+            }}
+        }})();
+    </script>
+    """
+    components.html(js, height=0, width=0)
+
 # ============================================
 # 📋 Standard Category System
 # ============================================

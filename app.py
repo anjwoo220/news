@@ -36,6 +36,25 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+# --------------------------------------------------------------------------------
+# Travelpayouts 인증 및 Emerald 스크립트
+# --------------------------------------------------------------------------------
+import streamlit.components.v1 as components
+
+TP_VERIFICATION_CODE = """
+<script data-noptimize="1" data-cfasync="false" data-wpfc-render="false">
+  (function () {
+      var script = document.createElement("script");
+      script.async = 1;
+      script.src = 'https://emrldtp.cc/NDk0NDE0.js?t=494414';
+      document.head.appendChild(script);
+  })();
+</script>
+"""
+# HTML 컴포넌트로 주입 (화면에 안 보이게 처리)
+components.html(TP_VERIFICATION_CODE, height=0)
+
+
 
 # --- Configuration ---
 NEWS_FILE = 'data/news.json'
