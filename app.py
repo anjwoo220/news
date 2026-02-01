@@ -851,7 +851,7 @@ if app_mode == "Admin Console":
         # Tabs for better organization
         # Tabs for better organization
         # Main Tab Layout
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽"])
+        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "📘 가이드 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -1474,8 +1474,8 @@ if app_mode == "Admin Console":
                         st.json(fares)
                         st.write(f"Base Meter: {base} | Rush Hour: {is_rh}")
 
-        # --- Tab 9: Magazine (Trend Hunter) Management ---
-        with tab9:
+        # --- Tab 10: Magazine (Trend Hunter) Management ---
+        with tab10:
             st.subheader("🌴 핫플 매거진 관리 (트렌드 헌터)")
             st.info("4대 소스(Wongnai, TSL, Chillpainai, BK Mag)에서 수집된 트렌드 정보를 관리합니다.")
             
@@ -1598,8 +1598,107 @@ if app_mode == "Admin Console":
                             st.rerun()
 
 
-        # --- Tab 8: Source Manager ---
+        # --- Tab 8: Blog/Guide Management ---
         with tab8:
+            st.subheader("📘 여행 가이드 관리")
+            st.info("블로그 글을 작성하고 수정할 수 있습니다. Google Sheets의 'blog_posts' 시트에 저장됩니다.")
+            
+            blog_mode = st.radio("모드 선택", ["📝 새 글 작성", "✏️ 기존 글 수정/삭제"], horizontal=True, key="admin_blog_mode")
+            
+            if blog_mode == "📝 새 글 작성":
+                st.markdown("#### 📝 새 여행 가이드 작성")
+                
+                with st.form("new_blog_form"):
+                    from datetime import datetime
+                    import uuid
+                    
+                    new_id = str(uuid.uuid4())[:8]
+                    new_date = st.date_input("📅 게시일", value=datetime.now())
+                    new_title = st.text_input("📌 제목", placeholder="예: 방콕 카오산로드 완벽 가이드")
+                    new_summary = st.text_area("📋 요약 (리스트에 표시됨)", height=80, placeholder="2-3줄로 핵심 내용 요약")
+                    new_image = st.text_input("🖼️ 대표 이미지 URL", placeholder="https://...")
+                    new_content = st.text_area("📝 본문 (Markdown 지원)", height=300, placeholder="## 소제목\n\n본문 내용...")
+                    new_author = st.text_input("✍️ 작성자", value="관리자")
+                    
+                    submitted = st.form_submit_button("💾 저장하기")
+                    
+                    if submitted:
+                        if not new_title:
+                            st.error("제목을 입력해주세요.")
+                        else:
+                            post_data = {
+                                "id": new_id,
+                                "date": new_date.strftime("%Y-%m-%d"),
+                                "title": new_title,
+                                "summary": new_summary,
+                                "content": new_content,
+                                "image_url": new_image,
+                                "author": new_author
+                            }
+                            success = utils.save_blog_post(post_data)
+                            if success:
+                                st.success(f"✅ 글이 저장되었습니다! (ID: {new_id})")
+                                st.balloons()
+                            else:
+                                st.error("❌ 저장 실패. Google Sheets 연결을 확인해주세요.")
+            
+            else:  # 수정/삭제 모드
+                st.markdown("#### ✏️ 기존 글 수정/삭제")
+                
+                # 기존 글 목록 가져오기
+                existing_posts = utils.fetch_blog_posts()
+                
+                if not existing_posts:
+                    st.warning("📭 등록된 글이 없습니다. 먼저 글을 작성해주세요.")
+                else:
+                    # Selectbox로 글 선택
+                    post_options = {f"{p.get('title', 'No Title')} ({p.get('date', '')})": p for p in existing_posts}
+                    selected_title = st.selectbox("수정할 글 선택", list(post_options.keys()))
+                    selected_post = post_options[selected_title]
+                    
+                    st.divider()
+                    
+                    with st.form("edit_blog_form"):
+                        edit_id = selected_post.get('id', '')
+                        edit_date = st.text_input("📅 게시일", value=selected_post.get('date', ''))
+                        edit_title = st.text_input("📌 제목", value=selected_post.get('title', ''))
+                        edit_summary = st.text_area("📋 요약", value=selected_post.get('summary', ''), height=80)
+                        edit_image = st.text_input("🖼️ 이미지 URL", value=selected_post.get('image_url', ''))
+                        edit_content = st.text_area("📝 본문", value=selected_post.get('content', ''), height=300)
+                        edit_author = st.text_input("✍️ 작성자", value=selected_post.get('author', '관리자'))
+                        
+                        col_save, col_del = st.columns(2)
+                        with col_save:
+                            save_btn = st.form_submit_button("💾 수정 저장")
+                        with col_del:
+                            delete_btn = st.form_submit_button("🗑️ 삭제", type="secondary")
+                        
+                        if save_btn:
+                            post_data = {
+                                "id": edit_id,
+                                "date": edit_date,
+                                "title": edit_title,
+                                "summary": edit_summary,
+                                "content": edit_content,
+                                "image_url": edit_image,
+                                "author": edit_author
+                            }
+                            success = utils.save_blog_post(post_data)
+                            if success:
+                                st.success("✅ 수정되었습니다!")
+                            else:
+                                st.error("❌ 수정 실패")
+                        
+                        if delete_btn:
+                            success = utils.delete_blog_post(edit_id)
+                            if success:
+                                st.success("✅ 삭제되었습니다!")
+                                st.rerun()
+                            else:
+                                st.error("❌ 삭제 실패")
+
+        # --- Tab 9: Source Manager ---
+        with tab9:
             st.subheader("⚙️ 크롤링 소스 관리 (Source Manager)")
             st.info("크롤링 대상 사이트와 검색 키워드를 관리합니다. 변경 후 반드시 '저장' 버튼을 눌러주세요.")
             
@@ -1673,8 +1772,8 @@ if app_mode == "Admin Console":
                 st.rerun()
         
 
-        # --- Tab 10: Infographic ---
-        with tab10:
+        # --- Tab 11: Infographic ---
+        with tab11:
             st.subheader("🎨 오늘의 뉴스 인포그래픽 생성")
             st.info("오늘 수집된 뉴스를 바탕으로 인스타그램용 요약 이미지를 생성합니다.")
             
@@ -2122,9 +2221,9 @@ else:
     is_prod = (st.secrets.get("DEPLOY_ENV") == "prod") or (not os.path.abspath(__file__).startswith("/Users/jaewoo/"))
     
     if is_prod:
-        nav_options = ["📰 뉴스 브리핑", "🚕 택시/뚝뚝 요금 판독기", "🏨 호텔 팩트체크", "🗣️ 게시판"]
+        nav_options = ["📰 뉴스", "🏨 호텔", "📘 가이드", "🚕 택시", "🗣️ 게시판"]
     else:
-        nav_options = ["📰 뉴스 브리핑", "🏨 호텔 팩트체크", "🍽️ 맛집 팩트체크 (BETA)", "🚕 택시/뚝뚝 요금 판독기", "🎪 콘서트/이벤트", "📋 게시판 (BETA)"]
+        nav_options = ["📰 뉴스", "🏨 호텔", "📘 가이드", "🍽️ 맛집", "🚕 택시", "🎪 이벤트", "📋 게시판"]
     
     # Determine default index/selection from state
     current_mode = st.session_state["nav_mode"]
@@ -2177,13 +2276,13 @@ else:
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
     # 3. Navigation Bar (Mobile Only via CSS)
-    # [MOD] Adjusted for Production: 4 or 5 columns
+    # [MOD] Adjusted for Production: 5 columns with guide
     if is_prod:
-        b_cols = st.columns(4)
-        nav_indices = {0: ("📰 뉴스", "📰 뉴스 브리핑"), 1: ("🚕 요금", "🚕 택시/뚝뚝 요금 판독기"), 2: ("🏨 호텔", "🏨 호텔 팩트체크"), 3: ("🗣️ 게시판", "🗣️ 게시판")}
-    else:
         b_cols = st.columns(5)
-        nav_indices = {0: ("📰 뉴스", "📰 뉴스 브리핑"), 1: ("🚕 요금", "🚕 택시/뚝뚝 요금 판독기"), 2: ("🏨 호텔", "🏨 호텔 팩트체크"), 3: ("🍱 맛집", "🍱 맛집 팩트체크"), 4: ("🗣️ 게시판", "🗣️ 게시판")}
+        nav_indices = {0: ("📰 뉴스", "📰 뉴스"), 1: ("🏨 호텔", "🏨 호텔"), 2: ("📘 가이드", "📘 가이드"), 3: ("🚕 택시", "🚕 택시"), 4: ("🗣️ 게시판", "🗣️ 게시판")}
+    else:
+        b_cols = st.columns(7)
+        nav_indices = {0: ("📰 뉴스", "📰 뉴스"), 1: ("🏨 호텔", "🏨 호텔"), 2: ("📘 가이드", "📘 가이드"), 3: ("🍽️ 맛집", "🍽️ 맛집"), 4: ("🚕 택시", "🚕 택시"), 5: ("🎪 이벤트", "🎪 이벤트"), 6: ("📋 게시판", "📋 게시판")}
 
     for i, col in b_cols.items() if hasattr(b_cols, 'items') else enumerate(b_cols):
         label, target = nav_indices[i]
@@ -2199,7 +2298,7 @@ else:
     # --- Page 1: News ---
     
     # --- Page 1: News ---
-    if page_mode == "📰 뉴스 브리핑":
+    if page_mode == "📰 뉴스":
         # 🚩 앵커(깃발) 설치 - 스크롤 타겟
         st.markdown('<div id="news-top-anchor"></div>', unsafe_allow_html=True)
         
@@ -2610,7 +2709,7 @@ else:
                         st.button("다음 ➡️", disabled=True, width='stretch', key="p_next_dis")
 
     # --- Page 2: Taxi Calculator ---
-    elif page_mode == "🚕 택시/뚝뚝 요금 판독기":
+    elif page_mode == "🚕 택시":
         utils.render_custom_header("🚕 택시/뚝뚝 요금 판독기 (Taxi Fare Reader)", level=2)
         st.caption("방콕 시내 교통비, 바가지인지 아닌지 1초 만에 판독해드립니다. (실시간 교통상황 반영)")
 
@@ -2788,7 +2887,7 @@ else:
 
     # --- Page 3: Trend Hunter (Magazine) ---
     # --- Page 3: Hotel Fact Check ---
-    elif page_mode == "🏨 호텔 팩트체크":
+    elif page_mode == "🏨 호텔":
         utils.render_custom_header("🏨 호텔 팩트체크 (Hotel Check)", level=2)
         st.caption("광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.")
         
@@ -3116,7 +3215,7 @@ else:
 
 
     # --- Page 4: Wongnai Restaurant Fact Check ---
-    elif page_mode == "🍱 맛집 팩트체크":
+    elif page_mode == "🍽️ 맛집":
         # Using global gemini_key
         st.markdown(f"### 🍱 웡나이(Wongnai) 맛집 팩트체크")
         st.write("로컬 맛집 사이트 'Wongnai'의 생생한 리뷰를 AI가 분석해드립니다.")
@@ -3177,6 +3276,100 @@ else:
                 if st.button("🗑️ 결과 지우기", key="btn_clear_w"):
                     st.session_state["wongnai_result"] = None
                     st.rerun()
+
+    # --- Page: 📘 여행 가이드 ---
+    elif page_mode == "📘 가이드":
+        # 세션 상태 초기화
+        if "guide_view" not in st.session_state:
+            st.session_state["guide_view"] = "list"
+        if "guide_post_id" not in st.session_state:
+            st.session_state["guide_post_id"] = None
+        
+        # Header
+        utils.render_custom_header("📘 태국 여행 가이드", level=2)
+        st.caption("현지인처럼 여행하기! 실속 있는 태국 여행 꿀팁을 모았습니다.")
+        
+        # 글 목록 가져오기
+        blog_posts = utils.fetch_blog_posts()
+        
+        # --- Detail View ---
+        if st.session_state["guide_view"] == "detail" and st.session_state["guide_post_id"]:
+            # 뒤로가기 버튼
+            if st.button("⬅️ 목록으로 돌아가기", key="btn_back_guide"):
+                st.session_state["guide_view"] = "list"
+                st.session_state["guide_post_id"] = None
+                st.rerun()
+            
+            # 해당 포스트 찾기
+            post = next((p for p in blog_posts if str(p.get('id')) == str(st.session_state["guide_post_id"])), None)
+            
+            if post:
+                st.divider()
+                
+                # 대표 이미지
+                if post.get('image_url'):
+                    st.image(post['image_url'], use_container_width=True)
+                
+                # 제목 & 메타
+                st.markdown(f"## {post.get('title', '제목 없음')}")
+                st.caption(f"📅 {post.get('date', '')} | ✍️ {post.get('author', '관리자')}")
+                
+                st.divider()
+                
+                # 본문 (Markdown 렌더링)
+                content = post.get('content', '')
+                st.markdown(content, unsafe_allow_html=True)
+                
+                st.divider()
+                st.caption("📍 이 글이 도움이 되셨다면 공유해주세요!")
+            else:
+                st.error("게시글을 찾을 수 없습니다.")
+                st.session_state["guide_view"] = "list"
+        
+        # --- List View ---
+        else:
+            if not blog_posts:
+                st.info("📝 아직 등록된 여행 가이드가 없습니다. 곧 유용한 글이 업데이트됩니다!")
+            else:
+                # 수직형 카드 리스트 (모바일 최적화)
+                for post in blog_posts:
+                    with st.container():
+                        # CSS 카드 스타일
+                        card_html = f"""
+                        <div style="
+                            background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+                            backdrop-filter: blur(10px);
+                            border-radius: 16px;
+                            overflow: hidden;
+                            margin-bottom: 20px;
+                            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+                            border: 1px solid rgba(255,255,255,0.1);
+                        ">
+                            <img src="{post.get('image_url', '')}" style="
+                                width: 100%;
+                                height: 200px;
+                                object-fit: cover;
+                            " onerror="this.style.display='none'">
+                            <div style="padding: 16px;">
+                                <h3 style="margin: 0 0 8px 0; font-size: 1.2rem;">{post.get('title', '제목 없음')}</h3>
+                                <p style="color: #888; font-size: 0.85rem; margin: 0 0 12px 0;">
+                                    📅 {post.get('date', '')} | ✍️ {post.get('author', '관리자')}
+                                </p>
+                                <p style="font-size: 0.95rem; line-height: 1.5; margin: 0;">
+                                    {post.get('summary', '')[:150]}{'...' if len(post.get('summary', '')) > 150 else ''}
+                                </p>
+                            </div>
+                        </div>
+                        """
+                        st.markdown(card_html, unsafe_allow_html=True)
+                        
+                        # 더 보기 버튼
+                        if st.button(f"📖 자세히 보기", key=f"btn_guide_{post.get('id')}"):
+                            st.session_state["guide_view"] = "detail"
+                            st.session_state["guide_post_id"] = post.get('id')
+                            st.rerun()
+                        
+                        st.markdown("<br>", unsafe_allow_html=True)
 
     # --- Page 5: Community Board ---
     elif page_mode == "🗣️ 게시판":

@@ -408,6 +408,156 @@ def get_hotel_link(hotel_name, cached_agoda_url=None):
     
     return (search_url, False)
 
+# ============================================
+# 📘 Blog / Travel Guide Functions
+# ============================================
+
+def fetch_blog_posts():
+    """
+    블로그 게시글 목록을 Google Sheets에서 가져옵니다.
+    최신 글이 위로 오도록 정렬합니다.
+    
+    Returns:
+        list: 블로그 포스트 딕셔너리 리스트
+    """
+    client = get_hotel_gsheets_client()
+    if not client:
+        return []
+    
+    try:
+        sh = client.open("blog_posts")
+        sheet = sh.get_worksheet(0)
+        
+        # 모든 레코드 가져오기
+        records = sheet.get_all_records()
+        
+        # 날짜 기준 내림차순 정렬 (최신 글이 위로)
+        records.sort(key=lambda x: x.get('date', ''), reverse=True)
+        
+        return records
+    except Exception as e:
+        print(f"Blog Fetch Error: {e}")
+        return []
+
+
+def get_blog_post(post_id):
+    """
+    특정 ID의 블로그 포스트를 가져옵니다.
+    
+    Args:
+        post_id: 게시글 ID
+    
+    Returns:
+        dict or None: 게시글 데이터
+    """
+    client = get_hotel_gsheets_client()
+    if not client:
+        return None
+    
+    try:
+        sh = client.open("blog_posts")
+        sheet = sh.get_worksheet(0)
+        
+        # ID로 검색
+        cell = sheet.find(str(post_id))
+        if cell:
+            row_data = sheet.row_values(cell.row)
+            headers = sheet.row_values(1)
+            
+            # 딕셔너리로 변환
+            post = {}
+            for i, header in enumerate(headers):
+                post[header] = row_data[i] if i < len(row_data) else ""
+            return post
+    except Exception as e:
+        print(f"Blog Get Error: {e}")
+    return None
+
+
+def save_blog_post(post_data):
+    """
+    블로그 글을 저장합니다 (Upsert: 있으면 업데이트, 없으면 생성).
+    
+    Args:
+        post_data: dict with keys: id, date, title, summary, content, image_url, author
+    
+    Returns:
+        bool: 성공 여부
+    """
+    client = get_hotel_gsheets_client()
+    if not client:
+        return False
+    
+    try:
+        sh = client.open("blog_posts")
+        sheet = sh.get_worksheet(0)
+        
+        post_id = str(post_data.get('id', ''))
+        
+        # ID로 기존 행 검색
+        existing_cell = None
+        try:
+            existing_cell = sheet.find(post_id)
+        except:
+            pass
+        
+        # 행 데이터 준비 (컬럼 순서: id, date, title, summary, content, image_url, author)
+        row = [
+            post_data.get('id', ''),
+            post_data.get('date', ''),
+            post_data.get('title', ''),
+            post_data.get('summary', ''),
+            post_data.get('content', ''),
+            post_data.get('image_url', ''),
+            post_data.get('author', '관리자')
+        ]
+        
+        if existing_cell:
+            # 업데이트
+            for i, value in enumerate(row):
+                sheet.update_cell(existing_cell.row, i + 1, value)
+            print(f"✅ Blog post updated: {post_id}")
+        else:
+            # 새로 추가
+            sheet.append_row(row)
+            print(f"✅ Blog post created: {post_id}")
+        
+        return True
+    except Exception as e:
+        print(f"Blog Save Error: {e}")
+        return False
+
+
+def delete_blog_post(post_id):
+    """
+    블로그 글을 삭제합니다.
+    
+    Args:
+        post_id: 삭제할 게시글 ID
+    
+    Returns:
+        bool: 성공 여부
+    """
+    client = get_hotel_gsheets_client()
+    if not client:
+        return False
+    
+    try:
+        sh = client.open("blog_posts")
+        sheet = sh.get_worksheet(0)
+        
+        cell = sheet.find(str(post_id))
+        if cell:
+            sheet.delete_rows(cell.row)
+            print(f"✅ Blog post deleted: {post_id}")
+            return True
+        else:
+            print(f"❌ Blog post not found: {post_id}")
+            return False
+    except Exception as e:
+        print(f"Blog Delete Error: {e}")
+        return False
+
 # Helper: Load Custom CSS from file
 def load_custom_css():
     """

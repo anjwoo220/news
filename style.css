@@ -621,3 +621,53 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-ca
         font-size: 1rem !important;
     }
 }
+
+/* ==============================================================================
+   18. Admin Tabs Styling (Compact for Many Tabs)
+   ============================================================================== */
+
+/* 탭 버튼 스타일 강제 조정 */
+button[data-baseweb="tab"] {
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    gap: 4px !important;
+}
+
+/* 탭 폰트 크기 줄이기 */
+button[data-baseweb="tab"] div p {
+    font-size: 13px !important;
+    font-weight: 600 !important;
+    white-space: nowrap !important;
+}
+
+/* 탭 리스트 가로 스크롤 허용 (줄바꿈 방지) */
+div[data-baseweb="tab-list"] {
+    flex-wrap: nowrap !important;
+    overflow-x: auto !important;
+    white-space: nowrap !important;
+    scrollbar-width: thin;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* 탭 리스트 스크롤바 스타일 */
+div[data-baseweb="tab-list"]::-webkit-scrollbar {
+    height: 4px;
+}
+
+div[data-baseweb="tab-list"]::-webkit-scrollbar-thumb {
+    background: #D4AF37;
+    border-radius: 2px;
+}
+
+/* 모바일에서 탭 더 작게 */
+@media only screen and (max-width: 768px) {
+    button[data-baseweb="tab"] {
+        padding-left: 6px !important;
+        padding-right: 6px !important;
+        min-width: auto !important;
+    }
+
+    button[data-baseweb="tab"] div p {
+        font-size: 11px !important;
+    }
+}
