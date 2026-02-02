@@ -11,7 +11,178 @@ from bs4 import BeautifulSoup
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 import json
+import os
 
+# --- 다국어 지원 (Multi-language Support) ---
+UI_TEXT = {
+    "main_title": {"ko": "오늘의 태국 🇹🇭", "en": "Thai Today 🇹🇭"},
+    "main_subtitle": {"ko": "방콕 맛집, 뉴스, 여행 필수 앱", "en": "Your Essential Guide to Bangkok"},
+    "nav_news": {"ko": "📰 뉴스", "en": "📰 News"},
+    "nav_hotel": {"ko": "🏨 호텔", "en": "🏨 Hotel"},
+    "nav_food": {"ko": "🍽️ 맛집", "en": "🍽️ Taste"},
+    "nav_guide": {"ko": "📘 가이드", "en": "📘 Guide"},
+    "nav_taxi": {"ko": "🚕 택시", "en": "🚕 Taxi"},
+    "nav_event": {"ko": "🎪 이벤트", "en": "🎪 Events"},
+    "nav_board": {"ko": "🗣️ 게시판", "en": "🗣️ Board"},
+    "sidebar_menu": {"ko": "📌 메뉴 선택", "en": "📌 Menu Selection"},
+    "sidebar_info": {"ko": "💡 정보 & 지원", "en": "💡 Info & Support"},
+    "sidebar_lang": {"ko": "🌐 언어 설정 (Language)", "en": "🌐 Language Settings"},
+    "about_title": {"ko": "ℹ️ 서비스 정보 (About)", "en": "ℹ️ About Service"},
+    "about_desc": {
+        "ko": "실시간 태국 여행 정보, 뉴스, 핫플을 한눈에! 태국 정보가 필요한 모든 분들을 위한 AI 기반 브리핑 서비스입니다.",
+        "en": "Real-time Thailand travel info, news, and hot spots at a glance! An AI-powered briefing service for everyone who needs info about Thailand."
+    },
+    "search_news": {"ko": "🔍 날짜 검색 및 옵션", "en": "🔍 Date Search & Options"},
+    "search_keyword": {"ko": "🔎 키워드 검색", "en": "🔎 Keyword Search"},
+    "search_date": {"ko": "📅 날짜 선택", "en": "📅 Select Date"},
+    "reset_search": {"ko": "🔄 검색어 초기화", "en": "🔄 Reset Search"},
+    "news_header": {"ko": "📅 {} 브리핑", "en": "📅 {} Briefing"},
+    "air_quality": {"ko": "🌬️ 방콕 대기질", "en": "🌬️ Bangkok Air Quality"},
+    "exchange_rate": {"ko": "💵 환율 (KRW/THB)", "en": "💵 Exchange Rate"},
+    "stat_today": {"ko": "오늘", "en": "Today"},
+    "stat_total": {"ko": "전체", "en": "Total"},
+    "hotel_fact": {"ko": "🏨 호텔 팩트체크", "en": "🏨 Hotel Fact Check"},
+    "food_fact": {"ko": "🍜 맛집 팩트체크", "en": "🍜 Taste Fact Check"},
+    "food_desc": {"ko": "인스타 맛집의 진실! 구글 맵 데이터로 진짜 맛집인지 판별합니다.", "en": "The truth about trending spots! Verify real restaurants using Google Maps data."},
+    "search_rest": {"ko": "🔍 맛집 검색", "en": "🔍 Search Restaurant"},
+    "rest_placeholder": {"ko": "예: 팁사마이, Thip Samai, Zabb One", "en": "e.g., Thip Samai, Zabb One"},
+    "hotel_search": {"ko": "🏨 호텔 검색", "en": "🏨 Search Hotel"},
+    "hotel_placeholder": {"ko": "예: 방콕 매리어트, 페닌슐라 방콕", "en": "e.g., Marriott Bangkok, Peninsula"},
+    "analysis_btn": {"ko": "📊 팩트체크 분석 시작", "en": "📊 Start Fact Check Analysis"},
+    "searching": {"ko": "🔍 검색 중...", "en": "🔍 Searching..."},
+    "analyzing": {"ko": "🔍 데이터 분석 중...", "en": "🔍 Analyzing data..."},
+    "no_results": {"ko": "검색 결과가 없습니다.", "en": "No results found."},
+    "basic_info": {"ko": "ℹ️ 기본 정보", "en": "ℹ️ Basic Info"},
+    "fact_report": {"ko": "✅ 팩트체크 리포트", "en": "✅ Fact Check Report"},
+    "pros_cons": {"ko": "⚖️ 장단점 요약", "en": "⚖️ Pros & Cons"},
+    "verdict": {"ko": "📢 요약 및 판정", "en": "📢 Verdict & Summary"},
+    "best_review": {"ko": "💬 베스트 리뷰", "en": "💬 Best Review"},
+    "share_btn": {"ko": "🔗 요약 결과 공유하기", "en": "🔗 Share Summary"},
+    "rating_caption": {"ko": "5.0점 만점 · 리뷰 {num_reviews:,}개", "en": "Out of 5.0 · {num_reviews:,} reviews"},
+    "recommend_menu": {"ko": "🔥 리뷰어들의 추천 메뉴", "en": "🔥 Recommended by Reviewers"},
+    "photo_caption": {"ko": "📍 사진 출처: Google Maps 사용자 리뷰", "en": "📍 Source: Google Maps user reviews"},
+    "price_range": {"ko": "💰 가격대", "en": "💰 Price Range"},
+    "cuisine_type": {"ko": "🍽️ 요리 종류", "en": "🍽️ Cuisine"},
+    "opening_status": {"ko": "🕐 영업상태", "en": "🕐 Status"},
+    "photos": {"ko": "📸 사진", "en": "📸 Photos"},
+    "hotel_city": {"ko": "지역 (City)", "en": "City"},
+    "hotel_find": {"ko": "🔍 호텔 찾기", "en": "🔍 Find Hotel"},
+    "hotel_select": {"ko": "검색된 호텔 선택", "en": "Select a hotel"},
+    "hotel_back": {"ko": "⬅️ 검색 결과로 돌아가기", "en": "⬅️ Back to results"},
+    "pros_title": {"ko": "✅ 장점", "en": "✅ Pros"},
+    "cons_title": {"ko": "❌ 단점 & 주의사항", "en": "❌ Cons & Cautions"},
+    "location_title": {"ko": "📍 위치 및 동선", "en": "📍 Location & Traffic"},
+    "room_title": {"ko": "🛏️ 룸 컨디션", "en": "🛏️ Room Condition"},
+    "service_title": {"ko": "🍽️ 서비스 & 조식", "en": "🍽️ Service & Breakfast"},
+    "facility_title": {"ko": "🏊‍♂️ 수영장 & 부대시설", "en": "🏊‍♂️ Pool & Facilities"},
+    "score_title": {"ko": "📊 팩트체크 점수", "en": "📊 Fact Check Score"},
+    "cleanliness": {"ko": "청결도", "en": "Cleanliness"},
+    "location": {"ko": "위치", "en": "Location"},
+    "comfort": {"ko": "편안함", "en": "Comfort"},
+    "value": {"ko": "가성비", "en": "Value"},
+    "share_friend": {"ko": "📢 친구에게 공유하기 (복사)", "en": "📢 Share with friends (Copy)"},
+    "share_caption": {"ko": "👆 위 텍스트 우측 상단 복사 버튼을 눌러 카톡에 붙여넣으세요!", "en": "👆 Click the copy button in the top right to share."},
+    "hotel_desc": {"ko": "광고 없는 '찐' 후기 분석! 구글 맵 리뷰를 냉철하게 검증해드립니다.", "en": "Ad-free review analysis! Verifying Google Maps reviews with AI objectivity."},
+    "issue_label": {"ko": "**[실시간 방콕 이슈]**", "en": "**[Real-time BKK Issue]**"},
+    "as_of": {"ko": "{} 기준", "en": "as of {}"},
+    "guide_title": {"ko": "📘 태국 여행 가이드", "en": "📘 Travel Guide"},
+    "guide_desc": {"ko": "현지인처럼 여행하기! 실속 있는 태국 여행 꿀팁을 모았습니다.", "en": "Travel like a local! Essential tips for your Thailand trip."},
+    "back_to_list": {"ko": "⬅️ 목록으로 돌아가기", "en": "⬅️ Back to list"},
+    "share_help": {"ko": "📍 이 글이 도움이 되셨다면 공유해주세요!", "en": "📍 Share this if it was helpful!"},
+    "no_guide": {"ko": "📝 아직 등록된 여행 가이드가 없습니다. 곧 유용한 글이 업데이트됩니다!", "en": "📝 No guides available yet. Stay tuned!"},
+    "read_more": {"ko": "📖 자세히 보기", "en": "📖 Read More"},
+    "taxi_title": {"ko": "🚕 택시/뚝뚝 요금 판독기", "en": "🚕 Taxi/TukTuk Fare Reader"},
+    "taxi_desc": {"ko": "방콕 시내 교통비, 바가지인지 아닌지 1초 만에 판독해드립니다.", "en": "Check if your Bangkok taxi fare is fair in 1 second."},
+    "route_set": {"ko": "📍 경로 설정 (장소 검색)", "en": "📍 Route Settings (Search)"},
+    "from": {"ko": "출발지 (From)", "en": "From"},
+    "to": {"ko": "도착지 (To)", "en": "To"},
+    "search": {"ko": "🔍 검색", "en": "🔍 Search"},
+    "calc_fare": {"ko": "💸 경로 및 요금 계산", "en": "💸 Calculate Fare"},
+    "distance": {"ko": "📏 예상 거리", "en": "📏 Estimated Distance"},
+    "duration": {"ko": "⏱️ 소요 시간", "en": "⏱️ Estimated Time"},
+    "fare_table": {"ko": "💰 교통수단별 적정 요금표", "en": "💰 Fair Fare by Transport"},
+    "board_title": {"ko": "🗣️ 여행자 수다방", "en": "🗣️ Traveler's Board"},
+    "board_desc": {"ko": "여행 팁, 질문, 건의사항 등 자유롭게 이야기를 나눠보세요!", "en": "Share tips, ask questions, or suggest features!"},
+    "write_btn": {"ko": "등록하기 📝", "en": "Post 📝"},
+    "nickname": {"ko": "닉네임", "en": "Nickname"},
+    "password": {"ko": "비밀번호 (삭제용 숫자 4자리)", "en": "Password (4 digits for deletion)"},
+    "content": {"ko": "내용", "en": "Content"},
+    "write_expander": {"ko": "✍️ 글쓰기 (여기를 눌러주세요)", "en": "✍️ Write a post (Click here)"},
+    "prev": {"ko": "⬅️ 이전", "en": "⬅️ Previous"},
+    "next": {"ko": "다음 ➡️", "en": "Next ➡️"},
+    "other": {"ko": "기타 (직접 입력)", "en": "Other (Manual)"},
+    "no_events": {"ko": "📝 아직 등록된 이벤트가 없습니다.", "en": "📝 No events scheduled yet."},
+    "event_date": {"ko": "📅 진행 기간", "en": "📅 Duration"},
+    "event_place": {"ko": "📍 장소", "en": "📍 Location"},
+    "menu_info": {"ko": "🍽️ 메뉴 정보", "en": "🍽️ Menu Information"},
+    "menu_search_btn": {"ko": "🍽️ 메뉴판 이미지 검색 (Google)", "en": "🍽️ Search Menu Images (Google)"},
+    "menu_search_caption": {"ko": "✨ 구글 이미지 검색을 통해 메뉴판 사진들을 모아봅니다.", "en": "✨ Discover menu photos via Google Image search."},
+    "clear_results": {"ko": "🗑️ 결과 지우기", "en": "🗑️ Clear Results"},
+    "recent_history": {"ko": "🕒 최근 본 맛집 히스토리", "en": "🕒 Recent Restaurant History"},
+    "delete_history": {"ko": "기록 삭제", "en": "Clear History"},
+    "delete_post": {"ko": "삭제하기", "en": "Delete"},
+    "confirm_pw": {"ko": "비밀번호 확인", "en": "Confirm Password"},
+    "view_detail_again": {"ko": "🔍 상세 분석 다시보기", "en": "🔍 View Details Again"},
+    "news_cat": {"ko": "카테고리", "en": "Category"},
+    "all": {"ko": "전체", "en": "All"},
+    "share_page": {"ko": "📋 카톡 공유용 텍스트 생성 (현재 페이지)", "en": "📋 Generate Share Text (Current Page)"},
+    "no_news_results": {"ko": "조건에 맞는 뉴스가 없습니다.", "en": "No news matches the criteria."},
+    "no_news_update": {"ko": "😴 아직 업데이트된 뉴스가 없습니다. (잠시 후 다시 확인해주세요)", "en": "😴 No news updates yet. Please check back later."},
+    "view_full_article": {"ko": "📄 기사 전문 보기", "en": "📄 View Full Article"},
+    "summary_only": {"ko": "⚠️ 이 기사는 요약본만 제공됩니다.", "en": "⚠️ This article only provides a summary."},
+    "related_share": {"ko": "🔗 관련 기사 & 공유", "en": "🔗 Related Articles & Share"},
+    "cat_politics": {"ko": "🏛️ 정치/사회", "en": "🏛️ Politics/Society"},
+    "cat_economy": {"ko": "💼 경제", "en": "💼 Economy"},
+    "cat_travel": {"ko": "✈️ 여행/관광", "en": "✈️ Travel/Tourism"},
+    "cat_culture": {"ko": "🎭 문화/엔터", "en": "🎭 Culture/Ent"},
+    # Status Dashboard Labels
+    "weather_label": {"ko": "방콕 날씨", "en": "Bangkok Weather"},
+    "air_quality_label": {"ko": "미세먼지", "en": "Air Quality"},
+    "exchange_buy_label": {"ko": "환율 (살 때)", "en": "Rate (Buy)"},
+    "exchange_sell_label": {"ko": "환율 (팔 때)", "en": "Rate (Sell)"},
+    "currency_unit": {"ko": "원", "en": " KRW"},
+    # AQI Status
+    "aqi_good": {"ko": "좋음", "en": "Good"},
+    "aqi_moderate": {"ko": "보통", "en": "Moderate"},
+    "aqi_unhealthy": {"ko": "나쁨", "en": "Unhealthy"},
+    "aqi_very_unhealthy": {"ko": "매우나쁨", "en": "Very Unhealthy"},
+    "aqi_loading": {"ko": "로딩중", "en": "Loading"},
+    "aqi_error": {"ko": "오류", "en": "Error"},
+}
+
+def t(key):
+    """
+    Returns translated text based on st.session_state['language'].
+    Defaults to 'ko' if not found or if session state is missing.
+    """
+    lang = st.session_state.get('language', 'Korean')
+    lang_code = "en" if lang == "English" else "ko"
+    
+    if key in UI_TEXT:
+        return UI_TEXT[key].get(lang_code, UI_TEXT[key].get("ko", key))
+    return key
+
+def detect_browser_language():
+    """
+    Detects the user's browser language from the Accept-Language header.
+    Returns 'Korean' if Korean is detected, 'English' otherwise (default for non-Korean users).
+    
+    Uses st.context.headers which is available in Streamlit >= 1.37.0.
+    Falls back to 'English' if headers cannot be read (for Travelpayouts reviewers).
+    """
+    try:
+        # Streamlit >= 1.37.0: use st.context.headers
+        headers = st.context.headers
+        accept_lang = headers.get("Accept-Language", "")
+        
+        # Check if Korean is in the Accept-Language header
+        if "ko" in accept_lang.lower():
+            return "Korean"
+        else:
+            return "English"  # Default to English for non-Korean users
+    except Exception:
+        # Fallback: Default to English for international users / reviewers
+        return "English"
 
 import streamlit as st
 import streamlit.components.v1 as components
@@ -101,6 +272,117 @@ def inject_head_code(code_string):
     """
     components.html(js, height=0, width=0)
 
+# --- SEO: Dynamic Page Title ---
+def set_page_title(title):
+    """
+    Dynamically updates the browser tab title using JavaScript.
+    Call this at the start of each tab/page to update the title for SEO.
+    
+    Args:
+        title: The new page title to display in the browser tab
+    """
+    import streamlit.components.v1 as components
+    import time
+    
+    # Escape special characters for JavaScript
+    safe_title = title.replace('\\', '\\\\').replace("'", "\\'").replace('"', '\\"')
+    unique_id = int(time.time() * 1000)
+    
+    js = f"""
+    <!-- page_title_{unique_id} -->
+    <script>
+        window.parent.document.title = "{safe_title}";
+    </script>
+    """
+    components.html(js, height=0, width=0)
+
+# --- SEO: Meta Description Injection ---
+def inject_meta_description(description):
+    """
+    Injects or updates the <meta name="description"> tag for SEO.
+    Call this early in app initialization for Google search result previews.
+    
+    Args:
+        description: The meta description content (max ~155 chars recommended)
+    """
+    import streamlit.components.v1 as components
+    import time
+    
+    safe_desc = description.replace('\\', '\\\\').replace('"', '\\"').replace("'", "\\'")
+    unique_id = int(time.time() * 1000)
+    
+    js = f"""
+    <!-- meta_desc_{unique_id} -->
+    <script>
+        (function() {{
+            var existingMeta = window.parent.document.querySelector('meta[name="description"]');
+            if (existingMeta) {{
+                existingMeta.setAttribute('content', "{safe_desc}");
+            }} else {{
+                var meta = document.createElement('meta');
+                meta.name = 'description';
+                meta.content = "{safe_desc}";
+                window.parent.document.head.appendChild(meta);
+            }}
+        }})();
+    </script>
+    """
+    components.html(js, height=0, width=0)
+
+# --- SEO: Tab-specific Titles Dictionary ---
+SEO_TITLES = {
+    "nav_news": {
+        "ko": "📰 태국 뉴스 브리핑 | 오늘의 태국",
+        "en": "📰 Thailand News Briefing | Thai Today"
+    },
+    "nav_hotel": {
+        "ko": "🏨 방콕 호텔 팩트체크 & 리뷰 | 오늘의 태국",
+        "en": "🏨 Bangkok Hotel Real Reviews | Thai Today"
+    },
+    "nav_food": {
+        "ko": "🍜 방콕 맛집 팩트체크 & 리뷰 | 오늘의 태국",
+        "en": "🍜 Bangkok Food Fact Check & Reviews | Thai Today"
+    },
+    "nav_guide": {
+        "ko": "📘 태국 여행 가이드 2026 | 오늘의 태국",
+        "en": "📘 Thailand Travel Guide 2026 | Thai Today"
+    },
+    "nav_taxi": {
+        "ko": "🚕 방콕 택시 요금 계산기 | 오늘의 태국",
+        "en": "🚕 Bangkok Taxi Fare Calculator | Thai Today"
+    },
+    "nav_event": {
+        "ko": "🎪 태국 이벤트 & 축제 | 오늘의 태국",
+        "en": "🎪 Thailand Events & Festivals | Thai Today"
+    },
+    "nav_board": {
+        "ko": "🗣️ 태국 여행 커뮤니티 | 오늘의 태국",
+        "en": "🗣️ Thailand Travel Community | Thai Today"
+    }
+}
+
+def get_seo_title(nav_key):
+    """
+    Returns the SEO-optimized page title for a given navigation key.
+    
+    Args:
+        nav_key: The navigation key (e.g., 'nav_news', 'nav_hotel')
+    
+    Returns:
+        str: SEO-optimized page title based on current language
+    """
+    lang = st.session_state.get('language', 'Korean')
+    lang_code = "en" if lang == "English" else "ko"
+    
+    if nav_key in SEO_TITLES:
+        return SEO_TITLES[nav_key].get(lang_code, SEO_TITLES[nav_key].get("ko", "Thai Today"))
+    
+    # Fallback
+    if lang_code == "en":
+        return "Thailand Travel Fact Check - Thai Today"
+    else:
+        return "태국 여행 팩트체크 - 오늘의 태국"
+
 # --- URL 정리 Helper (파라미터 제거) ---
 def clean_url_bar():
     """
@@ -144,6 +426,134 @@ def generate_agoda_link(hotel_name: str) -> str:
     encoded_name = urllib.parse.quote(hotel_name)
     
     return f"https://www.agoda.com/search?cid={AGODA_MARKER_ID}&checkIn=&checkOut=&rooms=1&adults=2&children=0&childages=&searchrequestid=&priceCur=KRW&textToSearch={encoded_name}&travellerType=1&pageTypeId=1"
+
+# ============================================
+# 📰 Thai English News RSS Sources
+# ============================================
+THAI_ENGLISH_RSS = [
+    "https://www.bangkokpost.com/rss/data/topstories.xml",  # Bangkok Post
+    "https://thethaiger.com/feed",  # The Thaiger (popular with travelers)
+    "https://www.khaosodenglish.com/feed/",  # Khaosod English
+    "https://www.nationthailand.com/rss/306",  # Nation Thailand
+]
+
+# Fallback images for news without thumbnails (Thailand themed)
+FALLBACK_NEWS_IMAGES = [
+    "https://images.unsplash.com/photo-1508009603885-50cf7c579365?w=400",  # Bangkok Temple
+    "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=400",  # Thai Street
+    "https://images.unsplash.com/photo-1528181304800-259b08848526?w=400",  # Bangkok Skyline
+    "https://images.unsplash.com/photo-1506665531195-3566af2b4dfa?w=400",  # Thai Beach
+    "https://images.unsplash.com/photo-1534766555764-ce878a5e3a2b?w=400",  # Thai Food
+]
+
+import streamlit as st
+
+@st.cache_data(ttl=1800)  # Cache for 30 minutes
+def fetch_combined_english_news(max_articles=15):
+    """
+    Fetches and combines English news from Thai RSS feeds.
+    Returns a list of article dictionaries sorted by date (newest first).
+    
+    Returns:
+        list: List of dicts with keys: title, summary, link, image_url, source, published_date
+    """
+    import random
+    from datetime import datetime
+    import time as time_module
+    
+    all_articles = []
+    
+    for rss_url in THAI_ENGLISH_RSS:
+        try:
+            feed = feedparser.parse(rss_url)
+            source_name = feed.feed.get('title', 'Thai News')[:30]
+            
+            for entry in feed.entries[:10]:  # Max 10 per source
+                # Extract title
+                title = entry.get('title', 'Untitled')
+                
+                # Extract summary/description
+                summary = entry.get('summary', entry.get('description', ''))
+                # Clean HTML from summary
+                if summary:
+                    summary = BeautifulSoup(summary, 'html.parser').get_text()[:300]
+                
+                # Extract link
+                link = entry.get('link', '')
+                
+                # Extract image (check multiple possible locations)
+                image_url = None
+                
+                # 1. Check media_content
+                if hasattr(entry, 'media_content') and entry.media_content:
+                    for media in entry.media_content:
+                        if media.get('url'):
+                            image_url = media['url']
+                            break
+                
+                # 2. Check media_thumbnail
+                if not image_url and hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+                    for thumb in entry.media_thumbnail:
+                        if thumb.get('url'):
+                            image_url = thumb['url']
+                            break
+                
+                # 3. Check enclosures
+                if not image_url and hasattr(entry, 'enclosures') and entry.enclosures:
+                    for enc in entry.enclosures:
+                        if enc.get('type', '').startswith('image'):
+                            image_url = enc.get('url')
+                            break
+                
+                # 4. Check content for img tags
+                if not image_url:
+                    content = entry.get('content', [{}])
+                    if content:
+                        content_value = content[0].get('value', '') if isinstance(content, list) else str(content)
+                        soup = BeautifulSoup(content_value, 'html.parser')
+                        img = soup.find('img')
+                        if img and img.get('src'):
+                            image_url = img['src']
+                
+                # 5. Fallback to random Thailand image
+                if not image_url:
+                    image_url = random.choice(FALLBACK_NEWS_IMAGES)
+                
+                # Extract publish date
+                published_date = None
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    try:
+                        published_date = datetime(*entry.published_parsed[:6])
+                    except:
+                        pass
+                if not published_date and hasattr(entry, 'updated_parsed') and entry.updated_parsed:
+                    try:
+                        published_date = datetime(*entry.updated_parsed[:6])
+                    except:
+                        pass
+                if not published_date:
+                    published_date = datetime.now()
+                
+                all_articles.append({
+                    'title': title,
+                    'summary': summary,
+                    'link': link,
+                    'image_url': image_url,
+                    'source': source_name,
+                    'published_date': published_date,
+                    'category': 'TRAVEL'  # Default category for travel app
+                })
+                
+        except Exception as e:
+            print(f"Error fetching RSS from {rss_url}: {e}")
+            continue
+    
+    # Sort by date (newest first)
+    all_articles.sort(key=lambda x: x['published_date'], reverse=True)
+    
+    # Return top N articles
+    return all_articles[:max_articles]
+
 
 # ============================================
 # 📋 Standard Category System
@@ -1958,6 +2368,52 @@ def get_thb_krw_rate():
         
     # If absolutely no data (first run ever & fail), return None or handled by UI
     return 0.0
+
+@st.cache_data(ttl=1800, show_spinner=False)  # Cache for 30 mins
+def get_usd_thb_rate():
+    """
+    Fetches the current USD to THB exchange rate.
+    Uses 'data/exchange_rate_usd.json' for persistence.
+    """
+    RATE_FILE = 'data/exchange_rate_usd.json'
+    url = "https://api.frankfurter.app/latest?from=USD&to=THB"
+    
+    # helper to save
+    def save_rate(rate):
+        try:
+            with open(RATE_FILE, 'w', encoding='utf-8') as f:
+                json.dump({"rate": rate, "updated_at": str(datetime.now())}, f)
+        except: pass
+
+    # helper to load
+    def load_cached_rate():
+        if os.path.exists(RATE_FILE):
+            try:
+                with open(RATE_FILE, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    return data.get("rate")
+            except: pass
+        return None
+
+    try:
+        import requests
+        response = requests.get(url, timeout=15)
+        if response.status_code == 200:
+            data = response.json()
+            rate = data.get('rates', {}).get('THB')
+            if rate:
+                save_rate(rate)
+                return rate
+    except Exception as e:
+        print(f"USD Exchange Rate Error: {e}")
+    
+    # Fallback to cached rate if live fetch fails
+    cached = load_cached_rate()
+    if cached:
+        return cached
+        
+    # Default fallback rate (approx USD/THB)
+    return 34.5
 
 # 4. Air Quality (WAQI)
 @st.cache_data(ttl=1800, show_spinner=False)  # Cache for 30 mins
