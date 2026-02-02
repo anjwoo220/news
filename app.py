@@ -2221,7 +2221,7 @@ else:
     is_prod = (st.secrets.get("DEPLOY_ENV") == "prod") or (not os.path.abspath(__file__).startswith("/Users/jaewoo/"))
     
     if is_prod:
-        nav_options = ["📰 뉴스", "🏨 호텔", "📘 가이드", "🚕 택시", "🗣️ 게시판"]
+        nav_options = ["📰 뉴스", "🏨 호텔", "📘 가이드", "🍽️ 맛집", "🚕 택시", "🗣️ 게시판"]
     else:
         nav_options = ["📰 뉴스", "🏨 호텔", "📘 가이드", "🍽️ 맛집", "🚕 택시", "🎪 이벤트", "📋 게시판"]
     
@@ -2276,10 +2276,10 @@ else:
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
     # 3. Navigation Bar (Mobile Only via CSS)
-    # [MOD] Adjusted for Production: 5 columns with guide
+    # [MOD] Adjusted for Production: 6 columns
     if is_prod:
-        b_cols = st.columns(5)
-        nav_indices = {0: ("📰 뉴스", "📰 뉴스"), 1: ("🏨 호텔", "🏨 호텔"), 2: ("📘 가이드", "📘 가이드"), 3: ("🚕 택시", "🚕 택시"), 4: ("🗣️ 게시판", "🗣️ 게시판")}
+        b_cols = st.columns(6)
+        nav_indices = {0: ("📰 뉴스", "📰 뉴스"), 1: ("🏨 호텔", "🏨 호텔"), 2: ("📘 가이드", "📘 가이드"), 3: ("🍽️ 맛집", "🍽️ 맛집"), 4: ("🚕 택시", "🚕 택시"), 5: ("🗣️ 게시판", "🗣️ 게시판")}
     else:
         b_cols = st.columns(7)
         nav_indices = {0: ("📰 뉴스", "📰 뉴스"), 1: ("🏨 호텔", "🏨 호텔"), 2: ("📘 가이드", "📘 가이드"), 3: ("🍽️ 맛집", "🍽️ 맛집"), 4: ("🚕 택시", "🚕 택시"), 5: ("🎪 이벤트", "🎪 이벤트"), 6: ("📋 게시판", "📋 게시판")}
