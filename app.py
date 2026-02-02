@@ -2637,223 +2637,223 @@ else:
             total_pages = max(1, (total_items + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE)
     
             # Ensure current_page is valid
-        if st.session_state["current_page"] > total_pages:
-            st.session_state["current_page"] = total_pages
-        if st.session_state["current_page"] < 1:
-            st.session_state["current_page"] = 1
+            if st.session_state["current_page"] > total_pages:
+                st.session_state["current_page"] = total_pages
+            if st.session_state["current_page"] < 1:
+                st.session_state["current_page"] = 1
+            
+            start_idx = (st.session_state["current_page"] - 1) * ITEMS_PER_PAGE
+            end_idx = start_idx + ITEMS_PER_PAGE
         
-        start_idx = (st.session_state["current_page"] - 1) * ITEMS_PER_PAGE
-        end_idx = start_idx + ITEMS_PER_PAGE
-    
-        # Get current page items
-        topics_to_show = filtered_topics_all[start_idx:end_idx]
+            # Get current page items
+            topics_to_show = filtered_topics_all[start_idx:end_idx]
         
-        # --- 페이지 변경 시 스크롤 맨 위로 ---
-        # 이전 페이지 번호와 현재 페이지 번호 비교
-        if "last_rendered_page" not in st.session_state:
-            st.session_state["last_rendered_page"] = 1
-        
-        if st.session_state["current_page"] != st.session_state["last_rendered_page"]:
-            # 페이지 번호 + timestamp로 절대 중복되지 않는 고유값 생성
-            import time
-            unique_key = f"{st.session_state['current_page']}_{int(time.time() * 1000)}"
-            utils.scroll_to_top(key_suffix=unique_key)
-            st.session_state["last_rendered_page"] = st.session_state["current_page"]
-
-        if topics_to_show:
-             with st.expander(utils.t("share_page")):
-                share_text = f"[🇹🇭 태국 뉴스룸 브리핑 - {header_text}]\n\n"
-                for idx, item in enumerate(topics_to_show):
-                    share_text += f"{idx+1}. {item['title']}\n"
-                    
-                    # Unified Robust URL Extraction
-                    ref_url = item.get('link') or "#"
-                    if ref_url == "#":
-                         refs = item.get('references')
-                         if isinstance(refs, list) and refs:
-                             ref_url = refs[0].get('url', '#')
-                         elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
-                              ref_url = refs
-                    
-                    share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
-                share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
-                st.code(share_text, language="text")
-
-        # --- Main Content Render ---
-        st.divider()
-        utils.render_custom_header(header_text, level=2)
+            # --- 페이지 변경 시 스크롤 맨 위로 ---
+            # 이전 페이지 번호와 현재 페이지 번호 비교
+            if "last_rendered_page" not in st.session_state:
+                st.session_state["last_rendered_page"] = 1
+            
+            if st.session_state["current_page"] != st.session_state["last_rendered_page"]:
+                # 페이지 번호 + timestamp로 절대 중복되지 않는 고유값 생성
+                import time
+                unique_key = f"{st.session_state['current_page']}_{int(time.time() * 1000)}"
+                utils.scroll_to_top(key_suffix=unique_key)
+                st.session_state["last_rendered_page"] = st.session_state["current_page"]
     
-        # Empty State
-        if not filtered_topics_all:
-            if is_search_mode:
-                 st.info(utils.t("no_news_results"))
-            else:
-                 st.info(utils.t("no_news_update"), icon="⏳")
-
-        # Render Cards
-        all_comments_data = get_all_comments() # Load once
-    
-        for idx, topic in enumerate(topics_to_show):
-            # Glass Card Wrapper - Thai-Today.com Design
-            cat_text = topic.get("category", utils.t("other"))
-            date_display = topic.get('date_str', selected_date_str)
-            time_display = topic.get('collected_at', '')
-            meta_info = f"{date_display} {time_display}".strip()
-            
-            # Map category to tag variant
-            cat_variants = {
-                "여행/관광": "travel",
-                "사건/사고": "safety", 
-                "경제": "economy",
-                "맛집/음식": "food",
-            }
-            tag_variant = cat_variants.get(cat_text, "travel")
-            
-            # Build card HTML in one go (avoid multi-line issues)
-            image_html = ""
-            image_url = topic.get('image_url', '')
-            if image_url and isinstance(image_url, str) and image_url.startswith('http'):
-                safe_image_url = image_url.replace('http://', 'https://')
-                image_html = f'<img src="{safe_image_url}" style="width:100%;border-radius:12px;margin-bottom:12px;object-fit:contain;max-height:400px;background-color:#f8f9fa;" alt="News" onerror="this.style.display=\'none\';" loading="lazy"/>'
-            
-            # Highlight summary using HTML version
-            summary_html = highlight_text_html(topic.get('summary', ''))
-            
-            # Single HTML block
-            card_html = f'''<div class="news-card glass-card">
-<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
-<span class="category-tag {tag_variant}">{cat_text}</span>
-<span style="color:#888;font-size:0.85rem;font-family:Kanit,sans-serif;">🕒 {meta_info}</span>
-</div>
-<h3 style="font-family:'Playfair Display',Georgia,serif;margin-bottom:10px;">{topic['title']}</h3>
-{image_html}
-<p style="font-family:Kanit,sans-serif;line-height:1.7;color:inherit;">{summary_html}</p>
-</div>'''
-            
-            st.markdown(card_html, unsafe_allow_html=True)
-
-            # Drawers
-            with st.expander(utils.t("view_full_article")):
-                full_text = topic.get('full_translated', utils.t("summary_only"))
-                st.markdown(full_text, unsafe_allow_html=True)
-            
-            with st.expander(utils.t("related_share")):
-                # Safe Refs Logic
-                refs = topic.get('references', [])
-                if isinstance(refs, str):
-                    # If it's a string, it might be a JSON string or a direct URL
-                    if refs.startswith("[") or refs.startswith("{"):
-                        try:
-                            import json
-                            refs = json.loads(refs)
-                        except:
-                            try:
-                                import ast
-                                refs = ast.literal_eval(refs)
-                            except:
-                                refs = []
-                    elif refs.startswith("http"):
-                        refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
-                    else:
-                        refs = []
-                
-                if not isinstance(refs, list):
-                    refs = []
-
-                # Robust URL Extraction for Individual Share
-                ref_url = topic.get('link') or "#"
-                if ref_url == "#":
-                    if refs and isinstance(refs[0], dict):
-                        ref_url = refs[0].get('url', '#')
-                    
-                # Individual Share
-                ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
-                st.code(ind_share, language="text")
-                st.markdown("---")
-                
-                # Render Links with Robustness
-                if not refs and ref_url != "#":
-                    # Synthetic ref if main link exists but refs list is empty
-                    refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
-
-                for ref in refs:
-                    if isinstance(ref, dict):
-                        url = ref.get('url', '#')
-                        # Double check for broken URL
-                        if url == "#" and ref_url != "#": url = ref_url
+            if topics_to_show:
+                 with st.expander(utils.t("share_page")):
+                    share_text = f"[🇹🇭 태국 뉴스룸 브리핑 - {header_text}]\n\n"
+                    for idx, item in enumerate(topics_to_show):
+                        share_text += f"{idx+1}. {item['title']}\n"
                         
-                        source = ref.get('source', '')
-                        source_display = f" ({source})" if source else ""
-                        st.markdown(f"**원문**: {url}{source_display}")
-
-
-            # Comments
-            news_id = generate_news_id(topic['title'], topic.get('summary', ''))
-            comments = all_comments_data.get(news_id, [])
-        
-            with st.expander(f"💬 댓글 ({len(comments)})"):
-                if not comments:
-                    st.caption("아직 댓글이 없습니다.")
-                else:
-                    for c in comments:
-                        # Sanitize User Input
-                        user_safe = html.escape(c['user'])
-                        text_safe = c['text'].replace("http://", "https://")
+                        # Unified Robust URL Extraction
+                        ref_url = item.get('link') or "#"
+                        if ref_url == "#":
+                             refs = item.get('references')
+                             if isinstance(refs, list) and refs:
+                                 ref_url = refs[0].get('url', '#')
+                             elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
+                                  ref_url = refs
                         
-                        # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
-                        # Using html.escape ensures <script> becomes &lt;script&gt;
-                        st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
-            
-                # Comment Form
-                st.markdown("---")
-                # Use index to guarantee uniqueness even if ID collisions happen (safety first)
-                with st.form(key=f"comm_form_{news_id}_{idx}"):
-                    c1, c2 = st.columns([1, 3])
-                    nick = c1.text_input("닉네임", placeholder="익명")
-                    txt = c2.text_input("내용", placeholder="의견 남기기")
-                    if st.form_submit_button("등록"):
-                         # ... (Comment Save Logic same as before)
-                         last_time = st.session_state.get("last_comment_time", 0)
-                         current_time = time.time()
-                         if current_time - last_time < 60:
-                             st.toast("🚫 도배 방지: 1분 뒤 다시 시도해주세요.")
-                         else:
-                             safe_nick = html.escape(nick)
-                             safe_txt = html.escape(txt)
-                             save_comment(news_id, safe_nick, safe_txt)
-                             st.session_state["last_comment_time"] = current_time
-                             st.toast("댓글 등록 완료!")
-                             time.sleep(1)
-                             st.rerun()
+                        share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
+                    share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
+                    st.code(share_text, language="text")
 
+            # --- Main Content Render ---
             st.divider()
+            utils.render_custom_header(header_text, level=2)
+        
+            # Empty State
+            if not filtered_topics_all:
+                if is_search_mode:
+                     st.info(utils.t("no_news_results"))
+                else:
+                     st.info(utils.t("no_news_update"), icon="⏳")
+    
+            # Render Cards
+            all_comments_data = get_all_comments() # Load once
+        
+            for idx, topic in enumerate(topics_to_show):
+                # Glass Card Wrapper - Thai-Today.com Design
+                cat_text = topic.get("category", utils.t("other"))
+                date_display = topic.get('date_str', selected_date_str)
+                time_display = topic.get('collected_at', '')
+                meta_info = f"{date_display} {time_display}".strip()
+                
+                # Map category to tag variant
+                cat_variants = {
+                    "여행/관광": "travel",
+                    "사건/사고": "safety", 
+                    "경제": "economy",
+                    "맛집/음식": "food",
+                }
+                tag_variant = cat_variants.get(cat_text, "travel")
+                
+                # Build card HTML in one go (avoid multi-line issues)
+                image_html = ""
+                image_url = topic.get('image_url', '')
+                if image_url and isinstance(image_url, str) and image_url.startswith('http'):
+                    safe_image_url = image_url.replace('http://', 'https://')
+                    image_html = f'<img src="{safe_image_url}" style="width:100%;border-radius:12px;margin-bottom:12px;object-fit:contain;max-height:400px;background-color:#f8f9fa;" alt="News" onerror="this.style.display=\'none\';" loading="lazy"/>'
+                
+                # Highlight summary using HTML version
+                summary_html = highlight_text_html(topic.get('summary', ''))
+                
+                # Single HTML block
+                card_html = f'''<div class="news-card glass-card">
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+    <span class="category-tag {tag_variant}">{cat_text}</span>
+    <span style="color:#888;font-size:0.85rem;font-family:Kanit,sans-serif;">🕒 {meta_info}</span>
+    </div>
+    <h3 style="font-family:'Playfair Display',Georgia,serif;margin-bottom:10px;">{topic['title']}</h3>
+    {image_html}
+    <p style="font-family:Kanit,sans-serif;line-height:1.7;color:inherit;">{summary_html}</p>
+    </div>'''
+                
+                st.markdown(card_html, unsafe_allow_html=True)
+    
+                # Drawers
+                with st.expander(utils.t("view_full_article")):
+                    full_text = topic.get('full_translated', utils.t("summary_only"))
+                    st.markdown(full_text, unsafe_allow_html=True)
+                
+                with st.expander(utils.t("related_share")):
+                    # Safe Refs Logic
+                    refs = topic.get('references', [])
+                    if isinstance(refs, str):
+                        # If it's a string, it might be a JSON string or a direct URL
+                        if refs.startswith("[") or refs.startswith("{"):
+                            try:
+                                import json
+                                refs = json.loads(refs)
+                            except:
+                                try:
+                                    import ast
+                                    refs = ast.literal_eval(refs)
+                                except:
+                                    refs = []
+                        elif refs.startswith("http"):
+                            refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
+                        else:
+                            refs = []
+                    
+                    if not isinstance(refs, list):
+                        refs = []
+    
+                    # Robust URL Extraction for Individual Share
+                    ref_url = topic.get('link') or "#"
+                    if ref_url == "#":
+                        if refs and isinstance(refs[0], dict):
+                            ref_url = refs[0].get('url', '#')
+                        
+                    # Individual Share
+                    ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
+                    st.code(ind_share, language="text")
+                    st.markdown("---")
+                    
+                    # Render Links with Robustness
+                    if not refs and ref_url != "#":
+                        # Synthetic ref if main link exists but refs list is empty
+                        refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
+    
+                    for ref in refs:
+                        if isinstance(ref, dict):
+                            url = ref.get('url', '#')
+                            # Double check for broken URL
+                            if url == "#" and ref_url != "#": url = ref_url
+                            
+                            source = ref.get('source', '')
+                            source_display = f" ({source})" if source else ""
+                            st.markdown(f"**원문**: {url}{source_display}")
+    
+    
+                # Comments
+                news_id = generate_news_id(topic['title'], topic.get('summary', ''))
+                comments = all_comments_data.get(news_id, [])
+            
+                with st.expander(f"💬 댓글 ({len(comments)})"):
+                    if not comments:
+                        st.caption("아직 댓글이 없습니다.")
+                    else:
+                        for c in comments:
+                            # Sanitize User Input
+                            user_safe = html.escape(c['user'])
+                            text_safe = c['text'].replace("http://", "https://")
+                            
+                            # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
+                            # Using html.escape ensures <script> becomes &lt;script&gt;
+                            st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
+                
+                    # Comment Form
+                    st.markdown("---")
+                    # Use index to guarantee uniqueness even if ID collisions happen (safety first)
+                    with st.form(key=f"comm_form_{news_id}_{idx}"):
+                        c1, c2 = st.columns([1, 3])
+                        nick = c1.text_input("닉네임", placeholder="익명")
+                        txt = c2.text_input("내용", placeholder="의견 남기기")
+                        if st.form_submit_button("등록"):
+                             # ... (Comment Save Logic same as before)
+                             last_time = st.session_state.get("last_comment_time", 0)
+                             current_time = time.time()
+                             if current_time - last_time < 60:
+                                 st.toast("🚫 도배 방지: 1분 뒤 다시 시도해주세요.")
+                             else:
+                                 safe_nick = html.escape(nick)
+                                 safe_txt = html.escape(txt)
+                                 save_comment(news_id, safe_nick, safe_txt)
+                                 st.session_state["last_comment_time"] = current_time
+                                 st.toast("댓글 등록 완료!")
+                                 time.sleep(1)
+                                 st.rerun()
+    
+                st.divider()
 
     
-        # --- Pagination Footer ---
-        if total_pages > 1:
-            st.markdown("---")
-            with st.container():
-                st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
-                col_prev, col_info, col_next = st.columns([1, 0.8, 1])
-                
-                with col_prev:
-                    if st.session_state["current_page"] > 1:
-                        if st.button(utils.t("prev"), width='stretch', key="p_prev"):
-                            st.session_state["current_page"] -= 1
-                            st.rerun()
-                    else:
-                        st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
-                        
-                with col_info:
-                    st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
+            # --- Pagination Footer ---
+            if total_pages > 1:
+                st.markdown("---")
+                with st.container():
+                    st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
+                    col_prev, col_info, col_next = st.columns([1, 0.8, 1])
                     
-                with col_next:
-                    if st.session_state["current_page"] < total_pages:
-                        if st.button(utils.t("next"), width='stretch', key="p_next"):
-                            st.session_state["current_page"] += 1
-                            st.rerun()
-                    else:
-                        st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
+                    with col_prev:
+                        if st.session_state["current_page"] > 1:
+                            if st.button(utils.t("prev"), width='stretch', key="p_prev"):
+                                st.session_state["current_page"] -= 1
+                                st.rerun()
+                        else:
+                            st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
+                            
+                    with col_info:
+                        st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
+                        
+                    with col_next:
+                        if st.session_state["current_page"] < total_pages:
+                            if st.button(utils.t("next"), width='stretch', key="p_next"):
+                                st.session_state["current_page"] += 1
+                                st.rerun()
+                        else:
+                            st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
 
     # --- Page 2: Taxi Calculator ---
     elif page_mode == utils.t("nav_taxi"):
