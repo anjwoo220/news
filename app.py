@@ -2349,12 +2349,11 @@ else:
         # Calculate Valid Dates & Latest
         all_dates_str = sorted(news_data.keys())
         valid_dates = []
-        latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d") # Fallback
-    
-        latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d") # Force Today
-    
-        # if all_dates_str:
-            # latest_date_str = all_dates_str[-1] # Old Logic: Fallback to last known -> REMOVED
+        # [OPTIMIZED] Use latest available date from cache as default to prevent slow GSheets fetch on startup
+        if all_dates_str:
+            latest_date_str = all_dates_str[-1]
+        else:
+            latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d")
         
         for d_str in all_dates_str:
             try:
