@@ -681,8 +681,1463 @@ def save_comment(news_id, nickname, text):
         data[news_id].append(new_comment)
         save_json(COMMENTS_FILE, data)
 
-        data[news_id].append(new_comment)
-        save_json(COMMENTS_FILE, data)
+# --------------------------------------------------------------------------------
+# ### TAB RENDER FUNCTIONS ###
+# --------------------------------------------------------------------------------
+
+def render_tab_news():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_news"))
+    # 🚩 앵커(깃발) 설치 - 스크롤 타겟
+    st.markdown('<div id="news-top-anchor"></div>', unsafe_allow_html=True)
+    
+    # --- Twitter Trend Alert (Real-time) ---
+    twitter_file = 'data/twitter_trends.json'
+    if os.path.exists(twitter_file):
+        t_data = load_json(twitter_file)
+        if t_data and t_data.get('reason'):
+            severity = t_data.get('severity', 'info')
+            icon = "🚨" if severity == 'warning' else "📢"
+            issue_prefix = utils.t("issue_label")
+            msg = f"{issue_prefix} {t_data.get('reason')} (#{t_data.get('topic')})"
+            
+            # Add Timestamp
+            ts = t_data.get('collected_at', '')
+            if ts:
+                msg += f" _(" + utils.t("as_of").format(ts) + ")_"
+            
+            # Stale Check: Only show if collected TODAY (Bangkok Time)
+            bkk_tz = pytz.timezone('Asia/Bangkok')
+            today_str = datetime.now(bkk_tz).strftime("%Y-%m-%d")
+            
+            # collected_at format: YYYY-MM-DD HH:MM:SS or HH:MM (old)
+            is_stale = False
+            ts = t_data.get('collected_at', '')
+            
+            if ts:
+                if len(ts) > 5: # Full datetime
+                    if not ts.startswith(today_str):
+                        is_stale = True
+                else: # HH:MM only (Assume old data if not full format, or check file mod time? simpler to just hide old format)
+                    # Actually, if we just deployed strict format, old data might be HH:MM.
+                    # Let's hide if it doesn't look like today's full date for safety.
+                    is_stale = True
+            else:
+                is_stale = True
+            
+            if not is_stale:
+                if severity == 'warning':
+                     st.error(f"{icon} {msg}") 
+                else:
+                     st.info(f"{icon} {msg}")
+
+    # --- Language-based News Branching ---
+    is_english_mode = st.session_state.get('language') == 'English'
+    
+    if is_english_mode:
+        # ========== ENGLISH NEWS MODE (RSS Feeds) ==========
+        st.markdown("### 📰 Thailand Headlines")
+        st.caption("Latest news from Bangkok Post, The Thaiger, Khaosod, and Nation Thailand")
+        
+        with st.spinner("Loading latest English news..."):
+            english_news = utils.fetch_combined_english_news(max_articles=12)
+        
+        if not english_news:
+            st.warning("Unable to fetch English news at the moment. Please try again later.")
+        else:
+            # Display news in 2-column grid
+            for i in range(0, len(english_news), 2):
+                cols = st.columns(2)
+                for j, col in enumerate(cols):
+                    idx = i + j
+                    if idx < len(english_news):
+                        article = english_news[idx]
+                        with col:
+                            st.markdown(f"""
+                            <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; margin-bottom: 15px; background: white;">
+                                <img src="{article['image_url']}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;" onerror="this.style.display='none'">
+                                <h4 style="margin: 0 0 8px 0; font-size: 1rem; line-height: 1.3;">{article['title'][:80]}{'...' if len(article['title']) > 80 else ''}</h4>
+                                <p style="color: #666; font-size: 0.85rem; margin: 0 0 10px 0; line-height: 1.4;">{article['summary'][:120]}{'...' if len(article['summary']) > 120 else ''}</p>
+                                <div style="display: flex; justify-content: space-between; align-items: center;">
+                                    <span style="font-size: 0.75rem; color: #999;">📰 {article['source']}</span>
+                                    <a href="{article['link']}" target="_blank" style="font-size: 0.8rem; color: #4A90D9; text-decoration: none;">Read more →</a>
+                                </div>
+                            </div>
+                            """, unsafe_allow_html=True)
+        
+        # Add refresh button
+        if st.button("🔄 Refresh News", use_container_width=True):
+            utils.fetch_combined_english_news.clear()
+            st.rerun()
+        
+        # Initialize placeholder variables to prevent errors from code outside else block
+        filtered_topics_all = []
+        topics_to_show = []
+        is_search_mode = False
+        total_pages = 1
+        ITEMS_PER_PAGE = 10
+        header_text = ""
+        selected_date_str = ""
+        news_data = {}
+    
+    else:
+        # ========== KOREAN NEWS MODE (Existing Logic) ==========
+        # --- Mobile Nav & Date Selection (Expander) ---
+
+        # Data Loading (Moved up for init logic)
+        news_data = load_news_data()
+
+        # Calculate Valid Dates & Latest
+        all_dates_str = sorted(news_data.keys())
+        valid_dates = []
+        # [OPTIMIZED] Use latest available date from cache as default to prevent slow GSheets fetch on startup
+        if all_dates_str:
+            latest_date_str = all_dates_str[-1]
+        else:
+            latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d")
+        
+        for d_str in all_dates_str:
+            try:
+                valid_dates.append(datetime.strptime(d_str, "%Y-%m-%d").date())
+            except: continue
+        
+        if not valid_dates:
+             min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
+             st.error("데이터를 불러올 수 없습니다. (잠시 후 다시 시도해주세요)")
+        else:
+             # [LAZY LOADING] 과거 날짜 접근 허용을 위해 min_date 하드코딩 (프로젝트 시작일)
+             min_date = datetime(2025, 1, 9).date()
+             data_max = max(valid_dates)
+             today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
+             max_date = max(today_date, data_max)
+        
+        # Init Session for Pagination & Search
+        if "current_page" not in st.session_state:
+            st.session_state["current_page"] = 1
+        if "search_query" not in st.session_state:
+            st.session_state["search_query"] = ""
+        # Smart Date Init: Default to latest available date
+        if "selected_date_str" not in st.session_state: 
+            st.session_state["selected_date_str"] = latest_date_str
+
+        # Expander for Controls
+        with st.expander(utils.t("search_news"), expanded=False):
+            col_nav1, col_nav2 = st.columns([1, 1])
+        
+            with col_nav1:
+                # Date Picker
+                # Convert stored string back to date object for widget
+                try:
+                    curr_date_obj = datetime.strptime(st.session_state["selected_date_str"], "%Y-%m-%d").date()
+                except:
+                    curr_date_obj = datetime.now(pytz.timezone('Asia/Bangkok')).date()
+                
+                # Double safety: clamp to valid range to prevent StreamlitAPIException
+                curr_date_obj = max(min_date, min(max_date, curr_date_obj))
+
+                new_date = st.date_input(
+                    utils.t("search_date"), 
+                    value=curr_date_obj, 
+                    min_value=min_date, 
+                    max_value=max_date
+                )
+        
+            # Logic: If date changed, reset page to 1
+            new_date_str = new_date.strftime("%Y-%m-%d")
+            if new_date_str != st.session_state["selected_date_str"]:
+                st.session_state["selected_date_str"] = new_date_str
+                st.session_state["current_page"] = 1 # Reset page
+                st.rerun()
+
+        with col_nav2:
+            # Search Box
+            search_input = st.text_input(utils.t("search_keyword"), value=st.session_state["search_query"])
+            if search_input != st.session_state["search_query"]:
+                st.session_state["search_query"] = search_input
+                st.session_state["current_page"] = 1 # Reset page
+                st.rerun()
+
+        if st.session_state["search_query"]:
+            if st.button(utils.t("reset_search"), width='stretch'):
+                st.session_state["search_query"] = ""
+                st.session_state["current_page"] = 1
+                st.rerun()
+
+        # --- Topic Preparation Logic ---
+        daily_topics = []
+        header_text = ""
+        is_search_mode = bool(st.session_state["search_query"])
+        selected_date_str = st.session_state["selected_date_str"]
+
+        if is_search_mode:
+            # Search Mode: Scan ALL dates
+            found_topics = []
+            for d, topics in news_data.items():
+                for t in topics:
+                    if st.session_state["search_query"] in t['title'] or st.session_state["search_query"] in t['summary']:
+                        t_with_date = t.copy()
+                        t_with_date['date_str'] = d
+                        found_topics.append(t_with_date)
+            found_topics.sort(key=lambda x: x.get('date_str', ''), reverse=True)
+            filtered_topics_all = found_topics
+            header_text = f"🔍 '{st.session_state['search_query']}' " + ("Results" if st.session_state.get('language') == 'English' else "검색 결과") + f" ({len(found_topics)})"
+
+        else:
+            # Date Mode
+            if selected_date_str in news_data:
+                daily_topics = news_data[selected_date_str]
+                # Show latest first
+                filtered_topics_all = list(reversed(daily_topics))
+            else:
+                # [ON-DEMAND] Load older dates not in the 7-day cache
+                with st.spinner("📅 이전 날짜 데이터 로딩 중..."):
+                    older_items = get_news_for_date(selected_date_str)
+                    if older_items:
+                        filtered_topics_all = list(reversed(older_items))
+                    else:
+                        filtered_topics_all = []
+            header_text = utils.t("news_header").format(selected_date_str)
+
+        if not is_search_mode and filtered_topics_all:
+            # Use standardized categories from utils
+            cat_p = utils.t("cat_politics")
+            cat_e = utils.t("cat_economy")
+            cat_t = utils.t("cat_travel")
+            cat_c = utils.t("cat_culture")
+            all_l = utils.t("all")
+            
+            category_labels = [all_l, cat_p, cat_e, cat_t, cat_c]
+            label_to_standard = {
+                cat_p: "POLITICS",
+                cat_e: "BUSINESS", 
+                cat_t: "TRAVEL",
+                cat_c: "LIFESTYLE"
+            }
+            try:
+                cat_label_translated = utils.t("news_cat")
+                selected_category = st.pills(cat_label_translated, category_labels, default=all_l, selection_mode="single")
+                if not selected_category: selected_category = all_l
+            except AttributeError:
+                selected_category = st.radio(utils.t("news_cat"), category_labels, horizontal=True)
+        
+            if selected_category != utils.t("all"):
+                standard_cat = label_to_standard.get(selected_category, "POLITICS")
+                # Filter using normalized category comparison
+                filtered_topics_all = [
+                    t for t in filtered_topics_all 
+                    if utils.normalize_category(t.get("category", "")) == standard_cat
+                ]
+
+        # --- Pagination Slicing ---
+        ITEMS_PER_PAGE = 10
+        total_items = len(filtered_topics_all)
+        total_pages = max(1, (total_items + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE)
+
+        # Ensure current_page is valid
+        if st.session_state["current_page"] > total_pages:
+            st.session_state["current_page"] = total_pages
+        if st.session_state["current_page"] < 1:
+            st.session_state["current_page"] = 1
+        
+        start_idx = (st.session_state["current_page"] - 1) * ITEMS_PER_PAGE
+        end_idx = start_idx + ITEMS_PER_PAGE
+    
+        # Get current page items
+        topics_to_show = filtered_topics_all[start_idx:end_idx]
+    
+        # --- 페이지 변경 시 스크롤 맨 위로 ---
+        # 이전 페이지 번호와 현재 페이지 번호 비교
+        if "last_rendered_page" not in st.session_state:
+            st.session_state["last_rendered_page"] = 1
+        
+        if st.session_state["current_page"] != st.session_state["last_rendered_page"]:
+            # 페이지 번호 + timestamp로 절대 중복되지 않는 고유값 생성
+            import time
+            unique_key = f"{st.session_state['current_page']}_{int(time.time() * 1000)}"
+            utils.scroll_to_top(key_suffix=unique_key)
+            st.session_state["last_rendered_page"] = st.session_state["current_page"]
+
+        if topics_to_show:
+             with st.expander(utils.t("share_page")):
+                share_text = f"[🇹🇭 태국 뉴스룸 브리핑 - {header_text}]\n\n"
+                for idx, item in enumerate(topics_to_show):
+                    share_text += f"{idx+1}. {item['title']}\n"
+                    
+                    # Unified Robust URL Extraction
+                    ref_url = item.get('link') or "#"
+                    if ref_url == "#":
+                         refs = item.get('references')
+                         if isinstance(refs, list) and refs:
+                             ref_url = refs[0].get('url', '#')
+                         elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
+                              ref_url = refs
+                    
+                    share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
+                share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
+                st.code(share_text, language="text")
+
+        # --- Main Content Render ---
+        st.divider()
+        utils.render_custom_header(header_text, level=2)
+    
+        # Empty State
+        if not filtered_topics_all:
+            if is_search_mode:
+                 st.info(utils.t("no_news_results"))
+            else:
+                 st.info(utils.t("no_news_update"), icon="⏳")
+
+        # Render Cards
+        all_comments_data = get_all_comments() # Load once
+    
+        for idx, topic in enumerate(topics_to_show):
+            # Glass Card Wrapper - Thai-Today.com Design
+            cat_text = topic.get("category", utils.t("other"))
+            date_display = topic.get('date_str', selected_date_str)
+            time_display = topic.get('collected_at', '')
+            meta_info = f"{date_display} {time_display}".strip()
+            
+            # Map category to tag variant
+            cat_variants = {
+                "여행/관광": "travel",
+                "사건/사고": "safety", 
+                "경제": "economy",
+                "맛집/음식": "food",
+            }
+            tag_variant = cat_variants.get(cat_text, "travel")
+            
+            # Build card HTML in one go (avoid multi-line issues)
+            image_html = ""
+            image_url = topic.get('image_url', '')
+            if image_url and isinstance(image_url, str) and image_url.startswith('http'):
+                safe_image_url = image_url.replace('http://', 'https://')
+                image_html = f'<img src="{safe_image_url}" style="width:100%;border-radius:12px;margin-bottom:12px;object-fit:contain;max-height:400px;background-color:#f8f9fa;" alt="News" onerror="this.style.display=\'none\';" loading="lazy"/>'
+            
+            # Highlight summary using HTML version
+            summary_html = highlight_text_html(topic.get('summary', ''))
+            
+            # Single HTML block
+            card_html = f'''<div class="news-card glass-card">
+<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+<span class="category-tag {tag_variant}">{cat_text}</span>
+<span style="color:#888;font-size:0.85rem;font-family:Kanit,sans-serif;">🕒 {meta_info}</span>
+</div>
+<h3 style="font-family:\'Playfair Display\',Georgia,serif;margin-bottom:10px;">{topic['title']}</h3>
+{image_html}
+<p style="font-family:Kanit,sans-serif;line-height:1.7;color:inherit;">{summary_html}</p>
+</div>'''
+            
+            st.markdown(card_html, unsafe_allow_html=True)
+
+            # Drawers
+            with st.expander(utils.t("view_full_article")):
+                full_text = topic.get('full_translated', utils.t("summary_only"))
+                st.markdown(full_text, unsafe_allow_html=True)
+            
+            with st.expander(utils.t("related_share")):
+                # Safe Refs Logic
+                refs = topic.get('references', [])
+                if isinstance(refs, str):
+                    # If it's a string, it might be a JSON string or a direct URL
+                    if refs.startswith("[") or refs.startswith("{"):
+                        try:
+                            import json
+                            refs = json.loads(refs)
+                        except:
+                            try:
+                                import ast
+                                refs = ast.literal_eval(refs)
+                            except:
+                                refs = []
+                    elif refs.startswith("http"):
+                        refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
+                    else:
+                        refs = []
+                
+                if not isinstance(refs, list):
+                    refs = []
+
+                # Robust URL Extraction for Individual Share
+                ref_url = topic.get('link') or "#"
+                if ref_url == "#":
+                    if refs and isinstance(refs[0], dict):
+                        ref_url = refs[0].get('url', '#')
+                    
+                # Individual Share
+                ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
+                st.code(ind_share, language="text")
+                st.markdown("---")
+                
+                # Render Links with Robustness
+                if not refs and ref_url != "#":
+                    # Synthetic ref if main link exists but refs list is empty
+                    refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
+
+                for ref in refs:
+                    if isinstance(ref, dict):
+                        url = ref.get('url', '#')
+                        # Double check for broken URL
+                        if url == "#" and ref_url != "#": url = ref_url
+                        
+                        source = ref.get('source', '')
+                        source_display = f" ({source})" if source else ""
+                        st.markdown(f"**원문**: {url}{source_display}")
+
+
+            # Comments
+            news_id = generate_news_id(topic['title'], topic.get('summary', ''))
+            comments = all_comments_data.get(news_id, [])
+        
+            with st.expander(f"💬 댓글 ({len(comments)})"):
+                if not comments:
+                    st.caption("아직 댓글이 없습니다.")
+                else:
+                    for c in comments:
+                        # Sanitize User Input
+                        user_safe = html.escape(c['user'])
+                        text_safe = c['text'].replace("http://", "https://")
+                        
+                        # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
+                        # Using html.escape ensures <script> becomes &lt;script&gt;
+                        st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
+            
+                # Comment Form
+                st.markdown("---")
+                # Use index to guarantee uniqueness even if ID collisions happen (safety first)
+                with st.form(key=f"comm_form_{news_id}_{idx}"):
+                    c1, c2 = st.columns([1, 3])
+                    nick = c1.text_input("닉네임", placeholder="익명")
+                    txt = c2.text_input("내용", placeholder="의견 남기기")
+                    if st.form_submit_button("등록"):
+                         # ... (Comment Save Logic same as before)
+                         last_time = st.session_state.get("last_comment_time", 0)
+                         current_time = time.time()
+                         if current_time - last_time < 60:
+                             st.toast("🚫 도배 방지: 1분 뒤 다시 시도해주세요.")
+                         else:
+                             safe_nick = html.escape(nick)
+                             safe_txt = html.escape(txt)
+                             save_comment(news_id, safe_nick, safe_txt)
+                             st.session_state["last_comment_time"] = current_time
+                             st.toast("댓글 등록 완료!")
+                             time.sleep(1)
+                             st.rerun()
+
+            st.divider()
+
+        # --- Pagination Footer ---
+        if total_pages > 1:
+            st.markdown("---")
+            with st.container():
+                st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
+                col_prev, col_info, col_next = st.columns([1, 0.8, 1])
+                
+                with col_prev:
+                    if st.session_state["current_page"] > 1:
+                        if st.button(utils.t("prev"), width='stretch', key="p_prev"):
+                            st.session_state["current_page"] -= 1
+                            st.rerun()
+                    else:
+                        st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
+                        
+                with col_info:
+                    st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
+                    
+                with col_next:
+                    if st.session_state["current_page"] < total_pages:
+                        if st.button(utils.t("next"), width='stretch', key="p_next"):
+                            st.session_state["current_page"] += 1
+                            st.rerun()
+                    else:
+                        st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
+
+def render_tab_taxi():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_taxi"))
+    utils.render_custom_header(utils.t("taxi_title"), level=2)
+    st.caption(utils.t("taxi_desc"))
+
+    # Input & Place Search Logic
+    api_key = st.secrets.get("google_maps_api_key")
+    
+    # State Helpers
+    def clear_origin_cands():
+        if 'taxi_origin_cands' in st.session_state: del st.session_state['taxi_origin_cands']
+    def clear_dest_cands():
+        if 'taxi_dest_cands' in st.session_state: del st.session_state['taxi_dest_cands']
+
+    with st.container(border=True):
+        st.markdown(f"#### {utils.t('route_set')}")
+        
+        # --- Origin ---
+        c_o1, c_o2 = st.columns([3, 1])
+        with c_o1:
+            origin_q = st.text_input(utils.t("from"), placeholder="e.g., Asok, Khaosan", key="taxi_origin_q", on_change=clear_origin_cands)
+            st.write("")
+            st.write("")
+            if st.button(utils.t("search"), key="btn_search_orig") and origin_q and api_key:
+                with st.spinner(".."):
+                    st.session_state['taxi_origin_cands'] = utils.search_places(origin_q, api_key)
+
+        # Origin Selection
+        origin_val = origin_q
+        if st.session_state.get('taxi_origin_cands'):
+            opts = {f"{c['name']} ({c['address']})": c['place_id'] for c in st.session_state['taxi_origin_cands']}
+            sel_o_key = st.selectbox(utils.t("from"), list(opts.keys()), key="sel_origin")
+            origin_val = f"place_id:{opts[sel_o_key]}"
+
+        st.divider()
+
+        # --- Destination ---
+        c_d1, c_d2 = st.columns([3, 1])
+        with c_d1:
+            dest_q = st.text_input(utils.t("to"), placeholder="e.g., Icon Siam", key="taxi_dest_q", on_change=clear_dest_cands)
+            st.write("")
+            st.write("")
+            if st.button(utils.t("search"), key="btn_search_dest") and dest_q and api_key:
+                with st.spinner(".."):
+                    st.session_state['taxi_dest_cands'] = utils.search_places(dest_q, api_key)
+        
+        # Dest Selection
+        dest_val = dest_q
+        if st.session_state.get('taxi_dest_cands'):
+            opts = {f"{c['name']} ({c['address']})": c['place_id'] for c in st.session_state['taxi_dest_cands']}
+            sel_d_key = st.selectbox(utils.t("to"), list(opts.keys()), key="sel_dest")
+            dest_val = f"place_id:{opts[sel_d_key]}"
+
+        st.divider()
+        
+        # Quote
+        quote_price = st.number_input("Price offered (THB, Optional)" if st.session_state.get('language') == 'English' else "기사가 부른 가격 (THB, 선택)", min_value=0, step=10)
+        
+        calc_btn = st.button(utils.t("calc_fare"), type="primary", width='stretch')
+
+    if calc_btn:
+        if not origin_val or not dest_val:
+             st.warning("출발지와 도착지를 확인해주세요.")
+        else:
+             if not api_key:
+                st.error("Google Maps API Key가 설정되지 않았습니다.")
+             else:
+                with st.spinner(utils.t("analyzing")):
+                    dist_km, dur_min, traffic_ratio, error = utils.get_route_estimates(origin_val, dest_val, api_key)
+                    
+                    if error:
+                        st.error(error)
+                    else:
+                        # Traffic Light UI
+                        if traffic_ratio is not None:
+                            if traffic_ratio >= 1.5:
+                                st.error(f"🔴 정체 (혼잡도 {traffic_ratio:.1f}): 🚨 극심한 정체! (방콕 트래픽 잼). 오토바이이나 지하철 추천.")
+                            elif traffic_ratio >= 1.1:
+                                st.warning(f"🟡 서행 (혼잡도 {traffic_ratio:.1f}): 차가 조금 많습니다. 여유를 가지세요.")
+                            else:
+                                st.success(f"🟢 원활 (혼잡도 {traffic_ratio:.1f}): 도로가 뻥 뚫렸어요! 이동하기 좋습니다.")
+                        
+                        base_meter, fares, is_rush_hour, is_hell_zone, intercity_tip = utils.calculate_expert_fare(dist_km, dur_min, origin_txt=origin_q, dest_txt=dest_q)
+                        
+                        # Intercity / Long Distance Alert
+                        if intercity_tip:
+                            st.success("🚍 **도시 간 이동(Intercity)** 감지! (미터기 대신 정액제 요금이 적용됩니다)")
+                            st.info(f"💡 **이동 꿀팁**: {intercity_tip}")
+                        
+                        # Hell Zone Alert (Prioritize)
+                        if is_hell_zone:
+                            st.error("👿 [교통 지옥 구역] 감지! (Asok/Siam/Sukhumvit 등)")
+                            st.caption("💬 이 지역은 상습 정체 구역으로, 미터 택시 승차거부가 심하고 앱 호출 배차가 매우 오래 걸릴 수 있습니다. **지상철(BTS)/지하철(MRT)** 또는 **오토바이** 이용을 강력 추천합니다. 마음을 비우세요 🧘")
+
+                        # Rush Hour Alert
+                        if is_rush_hour:
+                            st.warning("🚨 **현재는 \'러시아워\'입니다!** (앱 호출비/뚝뚝 할증)")
+                            st.caption("💡 07:00-09:30 / 16:30-20:00은 교통체증이 심해 앱 호출비가 비쌉니다. (미터 택시가 그나마 저렴)")
+                        
+                        # 1. Route Info
+                        st.info(f"📏 예상 거리: **{dist_km:.1f}km** | ⏱️ 소요 시간: **{int(dur_min)}분** (교통체증 반영)")
+                        
+                        # 2. Quote Analysis
+                        if quote_price > 0:
+                            # Parse Prices (Ranges: "min ~ max")
+                            def parse_price(val):
+                                try:
+                                    if isinstance(val, int): return val, val
+                                    parts = str(val).split('~')
+                                    if len(parts) == 2:
+                                        return int(parts[0].strip()), int(parts[1].strip())
+                                    return int(str(val).replace('THB','').strip()), int(str(val).replace('THB','').strip())
+                                except:
+                                    return 9999, 9999
+
+                            bolt_min, bolt_max = parse_price(fares.get('bolt', {}).get('price', 0))
+                            grab_min, grab_max = parse_price(fares.get('grab_taxi', {}).get('price', 0))
+                            tuktuk_min, tuktuk_max = parse_price(fares.get('tuktuk', {}).get('price', 0))
+
+                            # Assessment Logic
+                            if quote_price <= bolt_min:
+                                 st.success(f"**{quote_price}바트**는 \'최저가\' 수준입니다! 바로 타세요. 👍")
+                            elif quote_price <= grab_max:
+                                 st.success(f"**{quote_price}바트**는 적절한 가격입니다. (Bolt/Grab 앱 호출 호가)")
+                            elif quote_price <= tuktuk_min * 1.2:
+                                 st.warning(f"**{quote_price}바트**는 조금 비쌉니다. (급할 때만 타세요)")
+                            else:
+                                 st.error(f"🚨 **{quote_price}바트**는 바가지입니다! (다른 수단 권장)")
+                        
+                        st.divider()
+                        
+                        # 3. Fare Table (Cards)
+                        st.subheader("💰 교통수단별 적정 요금표")
+                        st.caption("Disclaimer: 실제 교통상황/시간대에 따라 오차가 있을 수 있습니다.")
+                        
+                        cols = st.columns(4)
+                        # Order: Bike, Bolt (Merged), Grab, TukTuk
+                        keys = ['bike', 'bolt', 'grab_taxi', 'tuktuk']
+                        
+                        for i, k in enumerate(keys):
+                            item = fares[k]
+                            with cols[i]:
+                                with st.container(border=True):
+                                    st.markdown(f"**{item['label']}**")
+                                    price_display = f"{item['price']} THB"
+                                    
+                                    color = item['color']
+                                    st.markdown(f"<h3 style=\'color:{color}; margin:0;\'>{price_display}</h3>", unsafe_allow_html=True)
+                                    
+                                    tag_color = "#e5e7eb" # gray-200
+                                    text_color = "#374151" # gray-700
+                                    if color == "red": 
+                                        tag_color = "#fee2e2"
+                                        text_color = "#991b1b"
+                                    if color == "green": 
+                                        tag_color = "#dcfce7"
+                                        text_color = "#166534"
+                                    if color == "blue": 
+                                        tag_color = "#dbeafe"
+                                        text_color = "#1e40af"
+                                    if color == "orange":
+                                        tag_color = "#ffedd5"
+                                        text_color = "#c2410c"
+                                    
+                                    st.markdown(f"<div style=\'background-color:{tag_color}; padding:4px; border-radius:4px; font-size:0.8em; text-align:center; color:{text_color}; margin-top:5px;\'>{item['tag']}</div>", unsafe_allow_html=True)
+                                    
+                                    if item.get("warning"):
+                                        st.markdown(f"<div style=\'font-size:0.7em; color:red; margin-top:5px;\'>⚠️ " + ("Don\'t take if higher than this!" if st.session_state.get('language') == 'English' else "이 가격보다 비싸면 타지 마세요!") + "</div>", unsafe_allow_html=True)
+                                        
+                                    if item.get("warning_text"):
+                                         st.caption(f"⚠️ {item['warning_text']}")
+
+                        st.divider()
+                        st.info("💡 " + ("Chiang Mai, Pattaya, etc. may be cheaper. Note that Phuket/Samui often use Flat Rate." if st.session_state.get('language') == 'English' else "치앙마이, 파타야 등 지방 도시는 위 요금보다 더 저렴할 수 있습니다. 단, \'푸켓\'과 \'코사무이\'는 미터기를 잘 안 켜고 담합 가격(Flat Rate)을 부르니 주의하세요!"))
+
+def render_tab_event():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_event"))
+    st.markdown(f"### {utils.t('nav_event')}")
+    st.info(f"💡 {utils.t('sidebar_info')}")
+    
+    events = get_cached_events()
+    if not events:
+        st.info(utils.t("no_events"))
+    else:
+        for i, ev in enumerate(events):
+            with st.container(border=True):
+                ec1, ec2 = st.columns([1, 4])
+                with ec1:
+                    if ev.get('image_url'):
+                        st.image(ev['image_url'], use_container_width=True)
+                    else:
+                        st.markdown("### 🎪")
+                with ec2:
+                    st.markdown(f"#### {ev.get('title', 'Event')}")
+                    st.markdown(f"{utils.t('event_date')}: {ev.get('date', 'TBA')}")
+                    st.markdown(f"{utils.t('event_place')}: {ev.get('place', 'Bangkok')}")
+                    
+                    if ev.get('info'):
+                        st.caption(ev['info'])
+                    if ev.get('url'):
+                        st.link_button(utils.t("read_more"), ev['url'], use_container_width=True)
+
+def render_tab_hotel():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_hotel"))
+    utils.render_custom_header(utils.t("hotel_fact"), level=2)
+    st.caption(utils.t("hotel_desc"))
+    
+    # 1. Search Input
+    # Using global keys
+    api_key = st.secrets.get("google_maps_api_key")
+    gemini_key = st.secrets.get("gemini_api_key")
+
+    # State Helpers
+    def clear_hotel_cands():
+        if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+    
+    # Init History
+    if 'hotel_history' not in st.session_state:
+        st.session_state['hotel_history'] = []
+
+    # CRITICAL FIX: Ultra-flat UI to avoid delta path conflicts
+    if not st.session_state.get('show_hotel_analysis'):
+        # Area 1: Search inputs (No container, no columns)
+        city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", utils.t("other") if st.session_state.get('language') == 'English' else "기타 (직접 입력)"]
+        selected_city = st.selectbox(utils.t("hotel_city"), city_opts, key="user_city_select", on_change=clear_hotel_cands)
+        
+        if selected_city == (utils.t("other") if st.session_state.get('language') == 'English' else "기타 (직접 입력)"):
+            city = st.text_input("City Name (English)", placeholder="e.g., Siracha", key="user_city_manual")
+        else:
+            city = selected_city
+            
+        hotel_query = st.text_input(utils.t("hotel_search"), placeholder=utils.t("hotel_placeholder"), key="user_hotel_input", on_change=clear_hotel_cands)
+        
+        # Search Button
+        if st.button(utils.t("hotel_find"), key="btn_hotel_search", type="primary", use_container_width=True):
+            if not hotel_query:
+                st.warning(utils.t("no_results") if st.session_state.get('language') == 'English' else "호텔 이름을 입력해주세요.")
+            elif not api_key:
+                st.error("Google Maps API Key Missing")
+            else:
+                with st.spinner(utils.t("searching")):
+                    # [NEW] Check Cache First - Even before searching Maps
+                    cached = utils.get_hotel_cache(hotel_query)
+                    if cached:
+                        st.success("📦 " + ("Found cached analysis!" if st.session_state.get('language') == 'English' else "기존 분석 데이터를 찾았습니다! 바로 결과를 보여드립니다."))
+                        st.session_state['show_hotel_analysis'] = True
+                        st.session_state['active_hotel_id'] = "CACHED"
+                        st.session_state['_selected_hotel_label'] = hotel_query
+                        st.rerun()
+
+                    cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
+                    if not cands: 
+                        st.error(utils.t("no_results"))
+                        if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+                    else:
+                        st.session_state['hotel_candidates'] = cands
+                        st.session_state['show_hotel_analysis'] = False
+                        st.session_state['active_hotel_id'] = None
+
+        # Area 2: Selection (No columns)
+        if st.session_state.get('hotel_candidates'):
+            cands = st.session_state['hotel_candidates']
+            options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
+            
+            sel_label = st.selectbox(utils.t("hotel_select"), list(options.keys()), key="sel_hotel_final")
+            target_place_id = options[sel_label]
+            
+            st.session_state['_selected_hotel_id'] = target_place_id
+            st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
+            
+            st.info(f"{utils.t('hotel_select')}: **{sel_label.split('(')[0]}**")
+
+            # Simply use a button with a clear rerun
+            if st.button(utils.t("analysis_btn"), type="primary", use_container_width=True):
+                st.session_state['show_hotel_analysis'] = True
+                st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
+                st.rerun()
+    else:
+        # Area 3: Analysis Results (No columns)
+        if st.button(utils.t("hotel_back"), use_container_width=True):
+            st.session_state['show_hotel_analysis'] = False
+            st.rerun()
+
+        active_id = st.session_state.get('active_hotel_id')
+        if active_id:
+            if not gemini_key or not api_key:
+                 st.error("API Key Missing")
+            else:
+                 with st.spinner(utils.t("analyzing")):
+                     # [NEW] Check GSheets Cache First to save API costs
+                     hotel_name_to_check = st.session_state.get('_selected_hotel_label', '')
+                     cached_result = utils.get_hotel_cache(hotel_name_to_check)
+                     
+                     info = None
+                     analysis = None
+                     
+                     if cached_result:
+                         st.success(f"📦 캐시된 분석 데이터를 발견했습니다! ({cached_result['cached_date']})")
+                         cache_data = cached_result['raw_json']
+                         info = cache_data.get('info')
+                         analysis = cache_data.get('analysis')
+                         # 캐시된 아고다 URL 저장 (하이브리드 링크용)
+                         if cached_result.get('agoda_url'):
+                             st.session_state['cached_agoda_url'] = cached_result['agoda_url']
+                         else:
+                             st.session_state['cached_agoda_url'] = None
+                     else:
+                         # Cache Miss: Proceed with Google Maps + Gemini Analysis
+                         info = utils.fetch_hotel_details(active_id, api_key)
+                         
+                         if info:
+                             analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                            
+                             # If successful, save to cache
+                             if analysis and isinstance(analysis, dict) and "error" not in analysis:
+                                 # Combine info and analysis for a complete cache hit next time
+                                 full_cached_json = {"info": info, "analysis": analysis}
+                                 summary = analysis.get('one_line_verdict', '')
+                                 utils.save_hotel_cache(info['name'], summary, full_cached_json)
+                             elif isinstance(analysis, list) and len(analysis) > 0:
+                                 # Some versions might return a list
+                                 full_cached_json = {"info": info, "analysis": analysis[0]}
+                                 summary = analysis[0].get('one_line_verdict', '')
+                                 utils.save_hotel_cache(info['name'], summary, full_cached_json)
+                                 analysis = analysis[0]
+                     
+                     if info and analysis:
+                         if isinstance(analysis, dict) and "error" in analysis:
+                             st.error(f"분석 중 오류 발생: {analysis['error']}")
+                         elif not isinstance(analysis, dict):
+                             st.error(f"분석 결과 형식 오류: {str(analysis)}")
+                         else:
+                             # Flat Display (No columns)
+                             if info.get('photo_url'):
+                                 st.image(info['photo_url'], use_container_width=True, caption=info['name'])
+                             
+                             # 📷 투숙객 사진 갤러리 (가로 스크롤)
+                             photo_urls = info.get('photo_urls', [])
+                             if photo_urls and len(photo_urls) > 1:
+                                 with st.expander(utils.t("photos"), expanded=True):
+                                     # 가로 스크롤 갤러리 CSS + HTML
+                                     gallery_html = """
+                                     <style>
+                                     .photo-gallery {
+                                         display: flex;
+                                         overflow-x: auto;
+                                         gap: 12px;
+                                         padding: 10px 0;
+                                         scroll-snap-type: x mandatory;
+                                         -webkit-overflow-scrolling: touch;
+                                     }
+                                     .photo-gallery::-webkit-scrollbar {
+                                         height: 8px;
+                                     }
+                                     .photo-gallery::-webkit-scrollbar-thumb {
+                                         background: #888;
+                                         border-radius: 4px;
+                                     }
+                                     .photo-card {
+                                         flex: 0 0 auto;
+                                         scroll-snap-align: start;
+                                         border-radius: 12px;
+                                         overflow: hidden;
+                                         box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+                                         transition: transform 0.2s;
+                                     }
+                                     .photo-card:hover {
+                                         transform: scale(1.02);
+                                     }
+                                     .photo-card img {
+                                         height: 200px;
+                                         width: auto;
+                                         object-fit: cover;
+                                     }
+                                     </style>
+                                     <div class="photo-gallery">
+                                     """
+                                     for idx, photo_url in enumerate(photo_urls):
+                                         gallery_html += f'<div class="photo-card"><img src="{photo_url}" alt="호텔 사진 {idx+1}"></div>'
+                                     gallery_html += "</div>"
+                                     
+                                     st.markdown(gallery_html, unsafe_allow_html=True)
+                                     st.caption(utils.t("photo_caption"))
+                             
+                             st.subheader(f"{info['name']}")
+                             st.markdown(f"📍 **{utils.t('location')}:** {info['address']}")
+                             st.markdown(f"⭐ **" + ("Google Rating" if st.session_state.get('language') == 'English' else "구글 평점") + f":** {info['rating']} ({info['review_count']:,} " + ("reviews" if st.session_state.get('language') == 'English' else "명 참여") + ")")
+                             
+                             if analysis.get('price_level'):
+                                 st.markdown(f"{analysis['price_level']} **{analysis.get('price_range_text', '')}**")
+                             
+                             st.divider()
+
+                             # History logic
+                             history_item = {
+                                 "info": info,
+                                 "analysis": analysis,
+                                 "saved_at": datetime.now().strftime("%Y-%m-%d %H:%M")
+                             }
+                             st.session_state['hotel_history'] = [
+                                 h for h in st.session_state['hotel_history'] 
+                                 if h['info']['name'] != info['name']
+                             ]
+                             st.session_state['hotel_history'].insert(0, history_item)
+                              
+                             # --- 💰 수익화 버튼들 (아고다 & 트립닷컴) ---
+                             st.divider()
+                             st.caption("💰 지금 예약하면 특가 할인!")
+                             
+                             # 아고다 버튼 (하이브리드: 직통 링크 우선)
+                             cached_agoda = analysis.get('agoda_url') or st.session_state.get('cached_agoda_url')
+                             agoda_url, is_direct = utils.get_hotel_link(info.get('name', ''), cached_agoda)
+                             
+                             if is_direct:
+                                 # 직통 링크가 있으면 더 강조
+                                 st.link_button("🚀 아고다에서 바로 예약하기 (검증됨)", agoda_url, use_container_width=True, type="primary")
+                             else:
+                                 st.link_button("🏨 아고다에서 최저가 검색하기", agoda_url, use_container_width=True, type="primary")
+                             
+                             # Trip.com link
+                             try:
+                                 import urllib.parse
+                                 from datetime import datetime, timedelta
+                                 trip_secrets = st.secrets.get("trip_com", {})
+                                 aid = trip_secrets.get("alliance_id")
+                                 sid = trip_secrets.get("sid")
+                                 
+                                 if aid and sid:
+                                     raw_keyword = analysis.get('trip_keyword') or info.get('name', '')
+                                     today_str = datetime.now().strftime("%Y-%m-%d")
+                                     tomorrow_str = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
+                                     encoded_keyword = urllib.parse.quote(f'"{raw_keyword}"')
+                                     trip_url = (
+                                         f"https://kr.trip.com/hotels/list?"
+                                         f"searchType=KW&"
+                                         f"keyword={encoded_keyword}&"
+                                         f"searchText={encoded_keyword}&"
+                                         f"checkIn={today_str}&checkOut={tomorrow_str}&"
+                                         f"allianceid={aid}&sid={sid}"
+                                     )
+                                     st.link_button(f"🏨 트립닷컴에서도 비교하기", trip_url, use_container_width=True, type="secondary")
+                             except: pass
+                                 
+                             st.info(f"💡 **" + ("Verdict" if st.session_state.get('language') == 'English' else "한 줄 요약") + f":** {analysis.get('one_line_verdict', 'N/A')}")
+                             st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
+                            
+                             st.success(utils.t("pros_title"))
+                             for p in analysis.get('pros', []):
+                                 st.markdown(f"- {p}")
+                                
+                             st.error(utils.t("cons_title"))
+                             for c in analysis.get('cons', []):
+                                 st.markdown(f"- {c}")
+                        
+                         # Detailed Analysis
+                         with st.expander(utils.t("searching") if st.session_state.get('language') == 'English' else "🔍 상세 분석 보기", expanded=True):
+                             st.markdown(f"### {utils.t('location_title')}")
+                             st.write(analysis.get('location_analysis', '-'))
+                            
+                             st.markdown(f"### {utils.t('room_title')}")
+                             st.write(analysis.get('room_condition', '-'))
+                            
+                             st.markdown(f"### {utils.t('service_title')}")
+                             st.write(analysis.get('service_breakfast', '-'))
+                            
+                             st.markdown(f"### {utils.t('facility_title')}")
+                             st.write(analysis.get('pool_facilities', '-'))
+                        
+                         # Scores
+                         scores = analysis.get('summary_score', {})
+                         if scores:
+                             st.markdown(f"### {utils.t('score_title')}")
+                             sc1, sc2, sc3, sc4 = st.columns(4)
+                             sc1.metric(utils.t("cleanliness"), f"{scores.get('cleanliness', 0)}/5")
+                             sc2.metric(utils.t("location"), f"{scores.get('location', 0)}/5")
+                             sc3.metric(utils.t("comfort"), f"{scores.get('comfort', 0)}/5")
+                             sc4.metric(utils.t("value"), f"{scores.get('value', 0)}/5")
+                         
+                         # --- 📢 팩트체크 결과 공유하기 (즉시 표시) ---
+                         st.divider()
+                         # 분석 완료 시 바로 공유 텍스트 생성 (버튼 클릭 불필요)
+                         hotel_name = info.get('name', '호텔')
+                         share_summary = utils.extract_hotel_share_summary(hotel_name, analysis)
+                         
+                         with st.expander(utils.t("share_friend"), expanded=False):
+                             st.code(share_summary, language=None)
+                             st.caption(utils.t("share_caption"))
+    
+    # --- Value-Add: Search History ---
+    if st.session_state.get('hotel_history'):
+        st.divider()
+        c_hist_title, c_hist_clear = st.columns([4, 1])
+        with c_hist_title:
+            st.subheader("🕒 최근 분석한 호텔 (History)")
+        with c_hist_clear:
+            if st.button("기록 전체 삭제", type="secondary", key="clear_hotel_hist"):
+                st.session_state['hotel_history'] = []
+                st.rerun()
+
+        for idx, h_item in enumerate(st.session_state['hotel_history']):
+            h_info = h_item['info']
+            h_analysis = h_item['analysis']
+            
+            with st.expander(f"🏨 {h_info['name']} ({h_info['rating']}⭐) - {h_analysis.get('one_line_verdict', '')}"):
+                # Simplified View for History
+                hc1, hc2 = st.columns([1, 2])
+                with hc1:
+                    if h_info.get('photo_url'):
+                         st.image(h_info['photo_url'], width='stretch')
+                    st.caption(f"📍 {h_info['address']}")
+                with hc2:
+                    st.info(f"💡 {h_analysis.get('one_line_verdict', '')}")
+                    st.markdown(f"🎯 **{h_analysis.get('recommendation_target', '')}**")
+                    
+                    # Tags
+                    pros = h_analysis.get('pros', [])[:2] # Top 2 only
+                    cons = h_analysis.get('cons', [])[:2]
+                    st.success(f"😊 {', '.join(pros)}")
+                    st.error(f"⚠️ {', '.join(cons)}")
+                    
+                # History Scores
+                h_scores = h_analysis.get('summary_score', {})
+                if h_scores:
+                    st.markdown("---")
+                    hc_s1, hc_s2, hc_s3, hc_s4 = st.columns(4)
+                    hc_s1.metric("청결도", f"{h_scores.get('cleanliness', 0)}/5")
+                    hc_s2.metric("위치", f"{h_scores.get('location', 0)}/5")
+                    hc_s3.metric("편안함", f"{h_scores.get('comfort', 0)}/5")
+                    hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
+
+def render_tab_food():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_food"))
+    utils.render_custom_header(utils.t("food_fact"), level=2)
+    st.caption(utils.t("food_desc"))
+    
+    # 세션 상태 초기화
+    if "restaurant_search_results" not in st.session_state:
+        st.session_state["restaurant_search_results"] = []
+    if "restaurant_selected" not in st.session_state:
+        st.session_state["restaurant_selected"] = None
+    if "restaurant_details" not in st.session_state:
+        st.session_state["restaurant_details"] = None
+    if "food_history" not in st.session_state:
+        st.session_state["food_history"] = []
+    
+    # --- 1단계: 검색 ---
+    container = st.container(border=True)
+    with container:
+        r_name = st.text_input(utils.t("searching"), placeholder=utils.t("rest_placeholder"), key="restaurant_input")
+        
+        search_btn = st.button(utils.t("search_rest"), key="btn_r_search", type="primary", use_container_width=True)
+        
+        if search_btn:
+            if not r_name:
+                st.warning(utils.t("no_results") if st.session_state.get('language') == 'English' else "식당 이름을 입력해주세요.")
+            else:
+                with st.spinner(utils.t("searching")):
+                    results = utils.search_restaurants(r_name)
+                    st.session_state["restaurant_search_results"] = results
+                    st.session_state["restaurant_selected"] = None
+                    st.session_state["restaurant_details"] = None
+    
+    # --- 2단계: 검색 결과 표시 및 선택 ---
+    search_results = st.session_state.get("restaurant_search_results", [])
+    
+    if search_results:
+        st.divider()
+        st.markdown(f"#### 🍜 " + (utils.t("no_results") if not search_results else ( "Search Results - Select a restaurant" if st.session_state.get('language') == 'English' else "검색 결과 - 식당을 선택하세요")))
+        
+        # Radio 옵션 생성
+        options = [f"{r['name']} ({r['address']})" for r in search_results]
+        
+        selected_option = st.radio(
+            utils.t("nav_food"),
+            options,
+            key="restaurant_radio",
+            label_visibility="collapsed"
+        )
+        
+        # 선택된 식당의 location_id 찾기
+        selected_idx = options.index(selected_option) if selected_option else 0
+        selected_restaurant = search_results[selected_idx]
+        
+        st.session_state["restaurant_selected"] = selected_restaurant
+        
+        # 팩트체크 시작 버튼
+        if st.button(utils.t("analysis_btn"), key="btn_r_factcheck", type="primary", use_container_width=True):
+            with st.spinner(utils.t("analyzing")):
+                details = utils.get_restaurant_details(selected_restaurant['location_id'])
+                st.session_state["restaurant_details"] = details
+                
+                # 히스토리 추가 (중복 제거 및 최상단)
+                history_item = {
+                    'place_id': selected_restaurant['location_id'],
+                    'name': details['name'],
+                    'details': details
+                }
+                st.session_state['food_history'] = [h for h in st.session_state['food_history'] if h['place_id'] != selected_restaurant['location_id']]
+                st.session_state['food_history'].insert(0, history_item)
+                st.session_state['food_history'] = st.session_state['food_history'][:10] # 최대 10개
+    
+    elif st.session_state.get("restaurant_search_results") == []:
+        # 검색했지만 결과 없음
+        if st.session_state.get("restaurant_input"):
+            st.info(utils.t("no_results"))
+    
+    # --- 3단계: 상세 분석 결과 표시 ---
+    details = st.session_state.get("restaurant_details")
+    if details:
+        st.divider()
+        
+        # 종합 점수 헤더 (Google은 전체 평점만 있음 - 강조)
+        rating = details.get('rating', 0)
+        num_reviews = details.get('num_reviews', 0)
+        price_text = details.get('price_text', '')
+        hours_status = details.get('hours', '')
+        
+        # 평점 색상
+        if rating >= 4.5:
+            rating_color = "#00B894"  # 초록
+            rating_emoji = "🏆"
+        elif rating >= 4.0:
+            rating_color = "#D4AF37"  # 금색
+            rating_emoji = "⭐"
+        elif rating >= 3.5:
+            rating_color = "#FDCB6E"  # 노랑
+            rating_emoji = "🤔"
+        else:
+            rating_color = "#E17055"  # 빨강
+            rating_emoji = "⚠️"
+        
+        st.markdown(f"""
+        <div style="
+            background: linear-gradient(135deg, {rating_color}22 0%, {rating_color}11 100%);
+            border-radius: 16px;
+            padding: 24px;
+            text-align: center;
+            border: 2px solid {rating_color};
+            margin-bottom: 20px;
+        ">
+            <h1 style="margin: 0; color: {rating_color}; font-size: 3rem;">{rating_emoji} {rating}</h1>
+            <p style="font-size: 1.2rem; margin: 8px 0 0 0; color: #888;">{utils.t('rating_caption').format(num_reviews=num_reviews)}</p>
+            <p style="font-size: 1rem; margin: 8px 0 0 0;">{price_text} {hours_status}</p>
+        </div>
+        """, unsafe_allow_html=True)
+        
+        # 식당 기본 정보
+        st.markdown(f"### 🍜 {details.get('name', '식당')}")
+        
+        # 구글 한 줄 소개 (Editorial Summary)
+        if details.get('editorial_summary'):
+            st.caption(f"✨ {details.get('editorial_summary')}")
+        
+        # 🔥 추천 메뉴 (리뷰 분석 결과)
+        recommended_menu = details.get('recommended_menu', [])
+        if recommended_menu:
+            st.markdown(f"##### {utils.t('recommend_menu')}")
+            menu_html = " ".join([f'<span style="background-color: #ffeaa7; padding: 4px 10px; border-radius: 12px; margin-right: 6px; font-weight: bold; color: #d63031;">#{m}</span>' for m in recommended_menu])
+            st.markdown(menu_html, unsafe_allow_html=True)
+            st.write("") # 간격
+        
+        # 사진 갤러리 (상단 배치)
+        photos = details.get('photos', [])
+        if photos:
+            st.markdown("#### 📸 사진")
+            gallery_html = '<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">'
+            for photo in photos:
+                if photo:
+                    gallery_html += f'<img src="{photo}" style="height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">'
+            gallery_html += '</div>'
+            st.markdown(gallery_html, unsafe_allow_html=True)
+            st.caption(utils.t("photo_caption"))
+        
+        # 정보 요약 (Google은 세부 점수가 없으므로 바로 정보 표시)
+        st.markdown(f"#### {utils.t('basic_info')}")
+        info_col1, info_col2 = st.columns(2)
+        
+        with info_col1:
+            if details.get('price_text'):
+                st.markdown(f"{utils.t('price_range')}: {details.get('price_text', '')}")
+            if details.get('cuisines'):
+                cuisines_text = ', '.join(details.get('cuisines', []))
+                if cuisines_text:
+                    st.markdown(f"{utils.t('cuisine_type')}: {cuisines_text}")
+            if details.get('hours'):
+                st.markdown(f"{utils.t('opening_status')}: {details.get('hours', '')}")
+        
+        with info_col2:
+            if details.get('address'):
+                st.markdown(f"📍 **주소:** {details.get('address', '')}")
+            if details.get('phone'):
+                st.markdown(f"📞 **전화:** {details.get('phone', '')}")
+        
+        # --- 💡 팩트체크 요약 섹션 (호텔 탭 스타일) ---
+        st.markdown("#### 💡 팩트체크 요약")
+        analysis = details.get('analysis', {})
+        
+        # 한줄추천 (Verdict)
+        verdict = analysis.get('verdict', '방문해 볼 만한 곳입니다.')
+        st.info(f"**{verdict}**")
+        
+        # 장점 & 단점 컬럼
+        col_pros, col_cons = st.columns(2)
+        
+        with col_pros:
+            st.markdown("##### 👍 장점")
+            pros = analysis.get('pros', ["전반적으로 무난함"])
+            for p in pros:
+                st.success(f"**{p}**")
+                
+        with col_cons:
+            st.markdown("##### 👎 단점")
+            cons = analysis.get('cons', ["특별한 단점 발견되지 않음 ✨"])
+            for c in cons:
+                st.error(f"**{c}**")
+        
+        # --- ✅ 팩트체크 알림 (Warnings) ---
+        warnings = analysis.get('warnings', [])
+        if warnings:
+            with st.expander("🔔 세부 주의사항 보기"):
+                for warn in warnings:
+                    if warn['level'] == 'warning':
+                        st.warning(warn['message'])
+                    else:
+                        st.info(warn['message'])
+        
+        # --- 💬 베스트 리뷰 섹션 ---
+        best_review = analysis.get('best_review')
+        if best_review and isinstance(best_review, dict):
+            st.markdown("#### 💬 베스트 리뷰")
+            # 메타데이터 (평점 및 시간)
+            b_rating = best_review.get('rating', 0)
+            b_time = best_review.get('relative_time', '최근')
+            st.caption(f"⭐ {b_rating}/5 · {b_time}")
+            st.info(f"\"{best_review.get('text', '')}\"")
+        elif best_review and isinstance(best_review, str):
+            # 호환성 대응
+            st.markdown(f"#### {utils.t('best_review')}")
+            st.info(f"\"{best_review}\"")
+        
+        # --- 🍽️ 메뉴 정보 섹션 ---
+        menu_url = details.get('menu_url')
+        if menu_url:
+            st.markdown(f"#### {utils.t('menu_info')}")
+            st.link_button(utils.t("menu_search_btn"), menu_url, use_container_width=True)
+            st.caption(utils.t("menu_search_caption"))
+            
+        # --- 📢 팩트체크 결과 공유하기 ---
+        st.divider()
+        share_text = utils.extract_restaurant_share_summary(details.get('name', '식당'), details)
+        with st.expander(utils.t("share_friend"), expanded=False):
+            st.code(share_text, language=None)
+            st.caption(utils.t("share_caption"))
+        st.divider()
+
+        
+        # Google Maps 링크
+        if details.get('web_url'):
+            st.link_button("🗺️ " + ("View details on Google Maps" if st.session_state.get('language') == 'English' else "구글 지도에서 상세 정보 보기"), details.get('web_url'), use_container_width=True)
+        
+        st.divider()
+        if st.button(utils.t("clear_results"), key="btn_clear_food"):
+            st.session_state["restaurant_search_results"] = []
+            st.session_state["restaurant_selected"] = None
+            st.session_state["restaurant_details"] = None
+            st.rerun()
+
+    # --- 🕒 최근 본 맛집 (History) ---
+    if st.session_state.get('food_history'):
+        st.divider()
+        h_col1, h_col2 = st.columns([4, 1])
+        with h_col1:
+            st.subheader(utils.t("recent_history"))
+        with h_col2:
+            if st.button(utils.t("delete_history"), key="clear_food_hist", type="secondary"):
+                st.session_state['food_history'] = []
+                st.rerun()
+        
+        for i, h_item in enumerate(st.session_state['food_history']):
+            h_name = h_item['name']
+            h_details = h_item['details']
+            h_analysis = h_details.get('analysis', {})
+            
+            with st.expander(f"🍴 {h_name} ({h_details.get('rating', 0)}⭐) - {h_analysis.get('verdict', '')}"):
+                h_c1, h_c2 = st.columns([1, 2])
+                with h_c1:
+                    # 대표 사진 하나 표시
+                    if h_details.get('photos'):
+                        st.image(h_details['photos'][0], use_container_width=True)
+                    st.caption(f"📍 {h_details.get('address', '')}")
+                
+                with h_c2:
+                    st.info(f"🏆 {h_analysis.get('verdict', '')}")
+                    
+                    # 간단한 장/단점 요약
+                    h_pros = ", ".join(h_analysis.get('pros', [])[:2])
+                    h_cons = ", ".join(h_analysis.get('cons', [])[:2])
+                    if h_pros: st.success(f"👍 {h_pros}")
+                    if h_cons: st.error(f"👎 {h_cons}")
+                    
+                    if st.button(utils.t("view_detail_again"), key=f"btn_h_view_{i}", use_container_width=True):
+                        st.session_state["restaurant_selected"] = h_item['place_id']
+                        st.session_state["restaurant_details"] = h_details
+                        st.rerun()
+
+def render_tab_guide():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_guide"))
+    # 세션 상태 초기화
+    if "guide_view" not in st.session_state:
+        st.session_state["guide_view"] = "list"
+    if "guide_post_id" not in st.session_state:
+        st.session_state["guide_post_id"] = None
+    
+    # Header
+    utils.render_custom_header(utils.t("guide_title"), level=2)
+    st.caption(utils.t("guide_desc"))
+    
+    # 글 목록 가져오기 (언어별 분기)
+    is_english_mode = st.session_state.get('language') == 'English'
+    
+    if is_english_mode:
+        # English Mode: Import and use English articles
+        try:
+            from data_articles_en import ENGLISH_GUIDE_ARTICLES
+            blog_posts = ENGLISH_GUIDE_ARTICLES
+        except ImportError:
+            blog_posts = []
+    else:
+        # Korean Mode: Use existing blog posts
+        blog_posts = utils.fetch_blog_posts()
+    
+    # --- Detail View ---
+    if st.session_state["guide_view"] == "detail" and st.session_state["guide_post_id"]:
+        # 뒤로가기 버튼
+        if st.button(utils.t("back_to_list"), key="btn_back_guide"):
+            st.session_state["guide_view"] = "list"
+            st.session_state["guide_post_id"] = None
+            st.rerun()
+        
+        # 해당 포스트 찾기
+        post = next((p for p in blog_posts if str(p.get('id')) == str(st.session_state["guide_post_id"])), None)
+        
+        if post:
+            st.divider()
+            
+            # 대표 이미지
+            if post.get('image_url'):
+                st.image(post['image_url'], use_container_width=True)
+            
+            # 제목 & 메타
+            st.markdown(f"## {post.get('title', '제목 없음')}")
+            st.caption(f"📅 {post.get('date', '')} | ✍️ {post.get('author', '관리자')}")
+            
+            st.divider()
+            
+            # 본문 (Markdown 렌더링)
+            content = post.get('content', '')
+            st.markdown(content, unsafe_allow_html=True)
+            
+            st.divider()
+            st.caption(utils.t("share_help"))
+        else:
+            st.error("게시글을 찾을 수 없습니다.")
+            st.session_state["guide_view"] = "list"
+    
+    # --- List View ---
+    else:
+        if not blog_posts:
+            st.info(utils.t("no_guide"))
+        else:
+            # 수직형 카드 리스트 (모바일 최적화)
+            for post in blog_posts:
+                with st.container():
+                    # CSS 카드 스타일
+                    card_html = f"""
+                    <div style="
+                        background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
+                        backdrop-filter: blur(10px);
+                        border-radius: 16px;
+                        overflow: hidden;
+                        margin-bottom: 20px;
+                        box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+                        border: 1px solid rgba(255,255,255,0.1);
+                    ">
+                        <img src="{post.get('image_url', '')}" style="
+                            width: 100%;
+                            height: 200px;
+                            object-fit: cover;
+                        " onerror="this.style.display='none'">
+                        <div style="padding: 16px;">
+                            <h3 style="margin: 0 0 8px 0; font-size: 1.2rem;">{post.get('title', '제목 없음')}</h3>
+                            <p style="color: #888; font-size: 0.85rem; margin: 0 0 12px 0;">
+                                📅 {post.get('date', '')} | ✍️ {post.get('author', '관리자')}
+                            </p>
+                            <p style="font-size: 0.95rem; line-height: 1.5; margin: 0;">
+                                {post.get('summary', '')[:150]}{'...' if len(post.get('summary', '')) > 150 else ''}
+                            </p>
+                        </div>
+                    </div>
+                    """
+                    st.markdown(card_html, unsafe_allow_html=True)
+                    
+                    # 더 보기 버튼
+                    if st.button(utils.t("read_more"), key=f"btn_guide_{post.get('id')}"):
+                        st.session_state["guide_view"] = "detail"
+                        st.session_state["guide_post_id"] = post.get('id')
+                        st.rerun()
+                    
+                    st.markdown("<br>", unsafe_allow_html=True)
+
+def render_tab_board():
+    # SEO: Dynamic page title
+    utils.set_page_title(utils.get_seo_title("nav_board"))
+    st.markdown(f"### {utils.t('board_title')}")
+    st.caption(utils.t("board_desc"))
+    
+    # 1. Notice Section
+    st.success("👋 **오늘의 태국**은 여행자를 위한 실시간 정보 앱입니다. 뉴스, 핫플, 이벤트를 한눈에 확인하세요!", icon="📢")
+    with st.container():
+        col_notice, col_btn = st.columns([4, 1])
+        with col_notice:
+            st.info("💡 버그 제보, 광고 문의, 기능 제안은 여기로 보내주세요!", icon="📨")
+        with col_btn:
+            st.link_button("Help" if st.session_state.get('language') == 'English' else "문의하기", "https://forms.gle/B9RTDGJcCR9MnJvv5", width='stretch')
+
+    st.divider()
+
+    # 2. Write Section
+    with st.expander(utils.t("write_expander"), expanded=True):
+        with st.form("board_write_form", clear_on_submit=True):
+            c_nick, c_pw = st.columns(2)
+            b_nick = c_nick.text_input(utils.t("nickname"), placeholder="Nickname...")
+            b_pw = c_pw.text_input(utils.t("password"), type="password", max_chars=4)
+            b_content = st.text_area(utils.t("content"), placeholder="..." if st.session_state.get('language') == 'English' else "욕설, 비방, 광고글은 통보 없이 삭제될 수 있습니다.", height=100)
+            
+            if st.form_submit_button(utils.t("write_btn"), width='stretch'):
+                if not b_content:
+                    st.warning("내용을 입력해주세요.")
+                elif not b_pw:
+                    st.warning("삭제를 위한 비밀번호를 입력해주세요.")
+                else:
+                    with st.spinner("구글 시트에 저장 중..."):
+                        if save_board_post(b_nick, b_content, b_pw):
+                            st.success("게시글이 등록되었습니다!")
+                            st.rerun()
+
+    st.markdown("---")
+
+    # 3. Read Section
+    board_data = load_board_data()
+    
+    if not board_data:
+        st.info("아직 등록된 글이 없습니다. 첫 번째 글을 남겨보세요!")
+    else:
+        for i, post in enumerate(board_data):
+            with st.container(border=True):
+                # Data Mapping: created_at -> date (for display compatibility if needed, using created_at)
+                c_date = post.get('created_at', 'Unknown Date')
+                c_nick = post.get('nickname', '익명')
+                c_content = post.get('content', '')
+                
+                # Sanitize
+                c_nick_safe = html.escape(c_nick) # Escape HTML tags
+                c_content_safe = c_content.replace("http://", "https://")
+
+                # Header: Nickname & Date
+                st.markdown(f"**{c_nick_safe}** <span style='color:grey; font-size:0.8em'>| {c_date}</span>", unsafe_allow_html=True)
+                # Content (Render safely via markdown, replacing http with https)
+                st.markdown(c_content_safe)
+                
+                # Delete UI (Bottom Right)
+                with st.expander("🗑️ " + utils.t("delete_post")):
+                    del_pw = st.text_input(utils.t("confirm_pw"), type="password", key=f"del_pw_{i}", max_chars=4)
+                    if st.button(utils.t("delete_post"), key=f"btn_del_{i}"):
+                        # Use created_at as ID for deletion
+                        success, msg = delete_board_post(c_date, del_pw)
+                        if success:
+                            st.success(msg)
+                            time.sleep(1)
+                            st.rerun()
+                        else:
+                            st.error(msg)
 
 # --- Community Board Helpers (Google Sheets) ---
 def load_board_data():
@@ -2295,7 +3750,7 @@ else:
     
     # Init Session State for Nav
     if "nav_mode" not in st.session_state:
-        st.session_state["nav_mode"] = "📰 뉴스"
+        st.session_state["nav_mode"] = None # Will be initialized below based on language
     
     if "wongnai_result" not in st.session_state:
         st.session_state["wongnai_result"] = None
@@ -2313,20 +3768,36 @@ else:
     # Check both Secrets and file-path heuristic for robustness
     is_prod = (st.secrets.get("DEPLOY_ENV") == "prod") or (not os.path.abspath(__file__).startswith("/Users/jaewoo/"))
     
+    # [MOD] Language-aware tab ordering
+    is_english = st.session_state.get('language') == 'English'
     if is_prod:
-        nav_options = [
-            utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_guide"), 
-            utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_board")
-        ]
+        if is_english:
+            nav_options = [
+                utils.t("nav_guide"), utils.t("nav_hotel"), utils.t("nav_food"), 
+                utils.t("nav_taxi"), utils.t("nav_news"), utils.t("nav_board")
+            ]
+        else:
+            nav_options = [
+                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_guide"), 
+                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_board")
+            ]
     else:
-        nav_options = [
-            utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_guide"), 
-            utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_board")
-        ]
+        if is_english:
+            nav_options = [
+                utils.t("nav_guide"), utils.t("nav_hotel"), utils.t("nav_food"), 
+                utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_news"), utils.t("nav_board")
+            ]
+        else:
+            nav_options = [
+                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_guide"), 
+                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_board")
+            ]
     
-    # Determine default index/selection from state
+    # [MOD] Ensure nav_mode is valid for current language
+    if st.session_state["nav_mode"] not in nav_options:
+        st.session_state["nav_mode"] = nav_options[0]
+    
     current_mode = st.session_state["nav_mode"]
-    if current_mode not in nav_options: current_mode = nav_options[0]
 
     try:
         # Note: 'default' only works on init. We use 'key' to bind state? 
@@ -2375,28 +3846,10 @@ else:
                 key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
     
     # 3. Navigation Bar (Mobile Only via CSS)
-    # [MOD] Adjusted for Production: 6 columns
-    if is_prod:
-        b_cols = st.columns(6)
-        nav_indices = {
-            0: (utils.t("nav_news"), utils.t("nav_news")), 
-            1: (utils.t("nav_hotel"), utils.t("nav_hotel")), 
-            2: (utils.t("nav_guide"), utils.t("nav_guide")), 
-            3: (utils.t("nav_food"), utils.t("nav_food")), 
-            4: (utils.t("nav_taxi"), utils.t("nav_taxi")), 
-            5: (utils.t("nav_board"), utils.t("nav_board"))
-        }
-    else:
-        b_cols = st.columns(7)
-        nav_indices = {
-            0: (utils.t("nav_news"), utils.t("nav_news")), 
-            1: (utils.t("nav_hotel"), utils.t("nav_hotel")), 
-            2: (utils.t("nav_guide"), utils.t("nav_guide")), 
-            3: (utils.t("nav_food"), utils.t("nav_food")), 
-            4: (utils.t("nav_taxi"), utils.t("nav_taxi")), 
-            5: (utils.t("nav_event"), utils.t("nav_event")), 
-            6: (utils.t("nav_board"), utils.t("nav_board"))
-        }
+    # [MOD] Dinamically generated columns and indices
+    num_cols = len(nav_options)
+    b_cols = st.columns(num_cols)
+    nav_indices = {i: (nav_options[i], nav_options[i]) for i in range(num_cols)}
 
     for i, col in b_cols.items() if hasattr(b_cols, 'items') else enumerate(b_cols):
         label, target = nav_indices[i]
@@ -2412,1464 +3865,21 @@ else:
     # --- Page 1: News ---
     
     # --- Page 1: News ---
+    # --- Dynamic Page Rendering ---
     if page_mode == utils.t("nav_news"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_news"))
-        # 🚩 앵커(깃발) 설치 - 스크롤 타겟
-        st.markdown('<div id="news-top-anchor"></div>', unsafe_allow_html=True)
-        
-        # --- Twitter Trend Alert (Real-time) ---
-        twitter_file = 'data/twitter_trends.json'
-        if os.path.exists(twitter_file):
-            t_data = load_json(twitter_file)
-            if t_data and t_data.get('reason'):
-                severity = t_data.get('severity', 'info')
-                icon = "🚨" if severity == 'warning' else "📢"
-                issue_prefix = utils.t("issue_label")
-                msg = f"{issue_prefix} {t_data.get('reason')} (#{t_data.get('topic')})"
-                
-                # Add Timestamp
-                ts = t_data.get('collected_at', '')
-                if ts:
-                    msg += f" _(" + utils.t("as_of").format(ts) + ")_"
-                
-                # Stale Check: Only show if collected TODAY (Bangkok Time)
-                bkk_tz = pytz.timezone('Asia/Bangkok')
-                today_str = datetime.now(bkk_tz).strftime("%Y-%m-%d")
-                
-                # collected_at format: YYYY-MM-DD HH:MM:SS or HH:MM (old)
-                is_stale = False
-                ts = t_data.get('collected_at', '')
-                
-                if ts:
-                    if len(ts) > 5: # Full datetime
-                        if not ts.startswith(today_str):
-                            is_stale = True
-                    else: # HH:MM only (Assume old data if not full format, or check file mod time? simpler to just hide old format)
-                        # Actually, if we just deployed strict format, old data might be HH:MM.
-                        # Let's hide if it doesn't look like today's full date for safety.
-                        is_stale = True
-                else:
-                    is_stale = True
-                
-                if not is_stale:
-                    if severity == 'warning':
-                         st.error(f"{icon} {msg}") 
-                    else:
-                         st.info(f"{icon} {msg}")
-
-        # --- Language-based News Branching ---
-        is_english_mode = st.session_state.get('language') == 'English'
-        
-        if is_english_mode:
-            # ========== ENGLISH NEWS MODE (RSS Feeds) ==========
-            st.markdown("### 📰 Thailand Headlines")
-            st.caption("Latest news from Bangkok Post, The Thaiger, Khaosod, and Nation Thailand")
-            
-            with st.spinner("Loading latest English news..."):
-                english_news = utils.fetch_combined_english_news(max_articles=12)
-            
-            if not english_news:
-                st.warning("Unable to fetch English news at the moment. Please try again later.")
-            else:
-                # Display news in 2-column grid
-                for i in range(0, len(english_news), 2):
-                    cols = st.columns(2)
-                    for j, col in enumerate(cols):
-                        idx = i + j
-                        if idx < len(english_news):
-                            article = english_news[idx]
-                            with col:
-                                st.markdown(f"""
-                                <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; margin-bottom: 15px; background: white;">
-                                    <img src="{article['image_url']}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;" onerror="this.style.display='none'">
-                                    <h4 style="margin: 0 0 8px 0; font-size: 1rem; line-height: 1.3;">{article['title'][:80]}{'...' if len(article['title']) > 80 else ''}</h4>
-                                    <p style="color: #666; font-size: 0.85rem; margin: 0 0 10px 0; line-height: 1.4;">{article['summary'][:120]}{'...' if len(article['summary']) > 120 else ''}</p>
-                                    <div style="display: flex; justify-content: space-between; align-items: center;">
-                                        <span style="font-size: 0.75rem; color: #999;">📰 {article['source']}</span>
-                                        <a href="{article['link']}" target="_blank" style="font-size: 0.8rem; color: #4A90D9; text-decoration: none;">Read more →</a>
-                                    </div>
-                                </div>
-                                """, unsafe_allow_html=True)
-            
-            # Add refresh button
-            if st.button("🔄 Refresh News", use_container_width=True):
-                utils.fetch_combined_english_news.clear()
-                st.rerun()
-            
-            # Initialize placeholder variables to prevent errors from code outside else block
-            filtered_topics_all = []
-            topics_to_show = []
-            is_search_mode = False
-            total_pages = 1
-            ITEMS_PER_PAGE = 10
-            header_text = ""
-            selected_date_str = ""
-            news_data = {}
-        
-        else:
-            # ========== KOREAN NEWS MODE (Existing Logic) ==========
-            # --- Mobile Nav & Date Selection (Expander) ---
-    
-            # Data Loading (Moved up for init logic)
-            news_data = load_news_data()
-    
-            # Calculate Valid Dates & Latest
-            all_dates_str = sorted(news_data.keys())
-            valid_dates = []
-            # [OPTIMIZED] Use latest available date from cache as default to prevent slow GSheets fetch on startup
-            if all_dates_str:
-                latest_date_str = all_dates_str[-1]
-            else:
-                latest_date_str = datetime.now(pytz.timezone('Asia/Bangkok')).strftime("%Y-%m-%d")
-            
-            for d_str in all_dates_str:
-                try:
-                    valid_dates.append(datetime.strptime(d_str, "%Y-%m-%d").date())
-                except: continue
-            
-            if not valid_dates:
-                 min_date = max_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
-                 st.error("데이터를 불러올 수 없습니다. (잠시 후 다시 시도해주세요)")
-            else:
-                 # [LAZY LOADING] 과거 날짜 접근 허용을 위해 min_date 하드코딩 (프로젝트 시작일)
-                 min_date = datetime(2025, 1, 9).date()
-                 data_max = max(valid_dates)
-                 today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
-                 max_date = max(today_date, data_max)
-            
-            # Init Session for Pagination & Search
-            if "current_page" not in st.session_state:
-                st.session_state["current_page"] = 1
-            if "search_query" not in st.session_state:
-                st.session_state["search_query"] = ""
-            # Smart Date Init: Default to latest available date
-            if "selected_date_str" not in st.session_state: 
-                st.session_state["selected_date_str"] = latest_date_str
-
-            # Expander for Controls
-            with st.expander(utils.t("search_news"), expanded=False):
-                col_nav1, col_nav2 = st.columns([1, 1])
-            
-                with col_nav1:
-                    # Date Picker
-                    # Convert stored string back to date object for widget
-                    try:
-                        curr_date_obj = datetime.strptime(st.session_state["selected_date_str"], "%Y-%m-%d").date()
-                    except:
-                        curr_date_obj = datetime.now(pytz.timezone('Asia/Bangkok')).date()
-                    
-                    # Double safety: clamp to valid range to prevent StreamlitAPIException
-                    curr_date_obj = max(min_date, min(max_date, curr_date_obj))
-
-                    new_date = st.date_input(
-                        utils.t("search_date"), 
-                        value=curr_date_obj, 
-                        min_value=min_date, 
-                        max_value=max_date
-                    )
-            
-                # Logic: If date changed, reset page to 1
-                new_date_str = new_date.strftime("%Y-%m-%d")
-                if new_date_str != st.session_state["selected_date_str"]:
-                    st.session_state["selected_date_str"] = new_date_str
-                    st.session_state["current_page"] = 1 # Reset page
-                    st.rerun()
-
-            with col_nav2:
-                # Search Box
-                search_input = st.text_input(utils.t("search_keyword"), value=st.session_state["search_query"])
-                if search_input != st.session_state["search_query"]:
-                    st.session_state["search_query"] = search_input
-                    st.session_state["current_page"] = 1 # Reset page
-                    st.rerun()
-
-            if st.session_state["search_query"]:
-                if st.button(utils.t("reset_search"), width='stretch'):
-                    st.session_state["search_query"] = ""
-                    st.session_state["current_page"] = 1
-                    st.rerun()
-
-            # --- Topic Preparation Logic ---
-            daily_topics = []
-            header_text = ""
-            is_search_mode = bool(st.session_state["search_query"])
-            selected_date_str = st.session_state["selected_date_str"]
-
-            if is_search_mode:
-                # Search Mode: Scan ALL dates
-                found_topics = []
-                for d, topics in news_data.items():
-                    for t in topics:
-                        if st.session_state["search_query"] in t['title'] or st.session_state["search_query"] in t['summary']:
-                            t_with_date = t.copy()
-                            t_with_date['date_str'] = d
-                            found_topics.append(t_with_date)
-                found_topics.sort(key=lambda x: x.get('date_str', ''), reverse=True)
-                filtered_topics_all = found_topics
-                header_text = f"🔍 '{st.session_state['search_query']}' " + ("Results" if st.session_state.get('language') == 'English' else "검색 결과") + f" ({len(found_topics)})"
-    
-            else:
-                # Date Mode
-                if selected_date_str in news_data:
-                    daily_topics = news_data[selected_date_str]
-                    # Show latest first
-                    filtered_topics_all = list(reversed(daily_topics))
-                else:
-                    # [ON-DEMAND] Load older dates not in the 7-day cache
-                    with st.spinner("📅 이전 날짜 데이터 로딩 중..."):
-                        older_items = get_news_for_date(selected_date_str)
-                        if older_items:
-                            filtered_topics_all = list(reversed(older_items))
-                        else:
-                            filtered_topics_all = []
-                header_text = utils.t("news_header").format(selected_date_str)
-
-            if not is_search_mode and filtered_topics_all:
-                # Use standardized categories from utils
-                cat_p = utils.t("cat_politics")
-                cat_e = utils.t("cat_economy")
-                cat_t = utils.t("cat_travel")
-                cat_c = utils.t("cat_culture")
-                all_l = utils.t("all")
-                
-                category_labels = [all_l, cat_p, cat_e, cat_t, cat_c]
-                label_to_standard = {
-                    cat_p: "POLITICS",
-                    cat_e: "BUSINESS", 
-                    cat_t: "TRAVEL",
-                    cat_c: "LIFESTYLE"
-                }
-                try:
-                    cat_label_translated = utils.t("news_cat")
-                    selected_category = st.pills(cat_label_translated, category_labels, default=all_l, selection_mode="single")
-                    if not selected_category: selected_category = all_l
-                except AttributeError:
-                    selected_category = st.radio(utils.t("news_cat"), category_labels, horizontal=True)
-            
-                if selected_category != utils.t("all"):
-                    standard_cat = label_to_standard.get(selected_category, "POLITICS")
-                    # Filter using normalized category comparison
-                    filtered_topics_all = [
-                        t for t in filtered_topics_all 
-                        if utils.normalize_category(t.get("category", "")) == standard_cat
-                    ]
-
-            # --- Pagination Slicing ---
-            ITEMS_PER_PAGE = 10
-            total_items = len(filtered_topics_all)
-            total_pages = max(1, (total_items + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE)
-    
-            # Ensure current_page is valid
-            if st.session_state["current_page"] > total_pages:
-                st.session_state["current_page"] = total_pages
-            if st.session_state["current_page"] < 1:
-                st.session_state["current_page"] = 1
-            
-            start_idx = (st.session_state["current_page"] - 1) * ITEMS_PER_PAGE
-            end_idx = start_idx + ITEMS_PER_PAGE
-        
-            # Get current page items
-            topics_to_show = filtered_topics_all[start_idx:end_idx]
-        
-            # --- 페이지 변경 시 스크롤 맨 위로 ---
-            # 이전 페이지 번호와 현재 페이지 번호 비교
-            if "last_rendered_page" not in st.session_state:
-                st.session_state["last_rendered_page"] = 1
-            
-            if st.session_state["current_page"] != st.session_state["last_rendered_page"]:
-                # 페이지 번호 + timestamp로 절대 중복되지 않는 고유값 생성
-                import time
-                unique_key = f"{st.session_state['current_page']}_{int(time.time() * 1000)}"
-                utils.scroll_to_top(key_suffix=unique_key)
-                st.session_state["last_rendered_page"] = st.session_state["current_page"]
-    
-            if topics_to_show:
-                 with st.expander(utils.t("share_page")):
-                    share_text = f"[🇹🇭 태국 뉴스룸 브리핑 - {header_text}]\n\n"
-                    for idx, item in enumerate(topics_to_show):
-                        share_text += f"{idx+1}. {item['title']}\n"
-                        
-                        # Unified Robust URL Extraction
-                        ref_url = item.get('link') or "#"
-                        if ref_url == "#":
-                             refs = item.get('references')
-                             if isinstance(refs, list) and refs:
-                                 ref_url = refs[0].get('url', '#')
-                             elif isinstance(refs, str) and (str(refs).startswith('http') or str(refs).startswith('www')):
-                                  ref_url = refs
-                        
-                        share_text += f"- {item['summary'][:60]}...\n👉 원문: {ref_url}\n\n"
-                    share_text += f"🌐 뉴스룸: {DEPLOY_URL}"
-                    st.code(share_text, language="text")
-
-            # --- Main Content Render ---
-            st.divider()
-            utils.render_custom_header(header_text, level=2)
-        
-            # Empty State
-            if not filtered_topics_all:
-                if is_search_mode:
-                     st.info(utils.t("no_news_results"))
-                else:
-                     st.info(utils.t("no_news_update"), icon="⏳")
-    
-            # Render Cards
-            all_comments_data = get_all_comments() # Load once
-        
-            for idx, topic in enumerate(topics_to_show):
-                # Glass Card Wrapper - Thai-Today.com Design
-                cat_text = topic.get("category", utils.t("other"))
-                date_display = topic.get('date_str', selected_date_str)
-                time_display = topic.get('collected_at', '')
-                meta_info = f"{date_display} {time_display}".strip()
-                
-                # Map category to tag variant
-                cat_variants = {
-                    "여행/관광": "travel",
-                    "사건/사고": "safety", 
-                    "경제": "economy",
-                    "맛집/음식": "food",
-                }
-                tag_variant = cat_variants.get(cat_text, "travel")
-                
-                # Build card HTML in one go (avoid multi-line issues)
-                image_html = ""
-                image_url = topic.get('image_url', '')
-                if image_url and isinstance(image_url, str) and image_url.startswith('http'):
-                    safe_image_url = image_url.replace('http://', 'https://')
-                    image_html = f'<img src="{safe_image_url}" style="width:100%;border-radius:12px;margin-bottom:12px;object-fit:contain;max-height:400px;background-color:#f8f9fa;" alt="News" onerror="this.style.display=\'none\';" loading="lazy"/>'
-                
-                # Highlight summary using HTML version
-                summary_html = highlight_text_html(topic.get('summary', ''))
-                
-                # Single HTML block
-                card_html = f'''<div class="news-card glass-card">
-    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
-    <span class="category-tag {tag_variant}">{cat_text}</span>
-    <span style="color:#888;font-size:0.85rem;font-family:Kanit,sans-serif;">🕒 {meta_info}</span>
-    </div>
-    <h3 style="font-family:'Playfair Display',Georgia,serif;margin-bottom:10px;">{topic['title']}</h3>
-    {image_html}
-    <p style="font-family:Kanit,sans-serif;line-height:1.7;color:inherit;">{summary_html}</p>
-    </div>'''
-                
-                st.markdown(card_html, unsafe_allow_html=True)
-    
-                # Drawers
-                with st.expander(utils.t("view_full_article")):
-                    full_text = topic.get('full_translated', utils.t("summary_only"))
-                    st.markdown(full_text, unsafe_allow_html=True)
-                
-                with st.expander(utils.t("related_share")):
-                    # Safe Refs Logic
-                    refs = topic.get('references', [])
-                    if isinstance(refs, str):
-                        # If it's a string, it might be a JSON string or a direct URL
-                        if refs.startswith("[") or refs.startswith("{"):
-                            try:
-                                import json
-                                refs = json.loads(refs)
-                            except:
-                                try:
-                                    import ast
-                                    refs = ast.literal_eval(refs)
-                                except:
-                                    refs = []
-                        elif refs.startswith("http"):
-                            refs = [{'title': 'Original Content', 'url': refs, 'source': 'Source'}]
-                        else:
-                            refs = []
-                    
-                    if not isinstance(refs, list):
-                        refs = []
-    
-                    # Robust URL Extraction for Individual Share
-                    ref_url = topic.get('link') or "#"
-                    if ref_url == "#":
-                        if refs and isinstance(refs[0], dict):
-                            ref_url = refs[0].get('url', '#')
-                        
-                    # Individual Share
-                    ind_share = f"[태국 뉴스룸]\n{topic['title']}\n\n- {topic['summary']}\n\n👉 원문: {ref_url}\n🌐 뉴스룸: {DEPLOY_URL}"
-                    st.code(ind_share, language="text")
-                    st.markdown("---")
-                    
-                    # Render Links with Robustness
-                    if not refs and ref_url != "#":
-                        # Synthetic ref if main link exists but refs list is empty
-                        refs = [{'title': 'Original Article', 'url': ref_url, 'source': topic.get('source', 'News Source')}]
-    
-                    for ref in refs:
-                        if isinstance(ref, dict):
-                            url = ref.get('url', '#')
-                            # Double check for broken URL
-                            if url == "#" and ref_url != "#": url = ref_url
-                            
-                            source = ref.get('source', '')
-                            source_display = f" ({source})" if source else ""
-                            st.markdown(f"**원문**: {url}{source_display}")
-    
-    
-                # Comments
-                news_id = generate_news_id(topic['title'], topic.get('summary', ''))
-                comments = all_comments_data.get(news_id, [])
-            
-                with st.expander(f"💬 댓글 ({len(comments)})"):
-                    if not comments:
-                        st.caption("아직 댓글이 없습니다.")
-                    else:
-                        for c in comments:
-                            # Sanitize User Input
-                            user_safe = html.escape(c['user'])
-                            text_safe = c['text'].replace("http://", "https://")
-                            
-                            # Render Safely (Split User/Date from unsafe HTML if possible, or use escaped user)
-                            # Using html.escape ensures <script> becomes &lt;script&gt;
-                            st.markdown(f"**{user_safe}**: {text_safe} <span style='color:grey; font-size:0.8em'>({c.get('date', '')})</span>", unsafe_allow_html=True)
-                
-                    # Comment Form
-                    st.markdown("---")
-                    # Use index to guarantee uniqueness even if ID collisions happen (safety first)
-                    with st.form(key=f"comm_form_{news_id}_{idx}"):
-                        c1, c2 = st.columns([1, 3])
-                        nick = c1.text_input("닉네임", placeholder="익명")
-                        txt = c2.text_input("내용", placeholder="의견 남기기")
-                        if st.form_submit_button("등록"):
-                             # ... (Comment Save Logic same as before)
-                             last_time = st.session_state.get("last_comment_time", 0)
-                             current_time = time.time()
-                             if current_time - last_time < 60:
-                                 st.toast("🚫 도배 방지: 1분 뒤 다시 시도해주세요.")
-                             else:
-                                 safe_nick = html.escape(nick)
-                                 safe_txt = html.escape(txt)
-                                 save_comment(news_id, safe_nick, safe_txt)
-                                 st.session_state["last_comment_time"] = current_time
-                                 st.toast("댓글 등록 완료!")
-                                 time.sleep(1)
-                                 st.rerun()
-    
-                st.divider()
-
-    
-            # --- Pagination Footer ---
-            if total_pages > 1:
-                st.markdown("---")
-                with st.container():
-                    st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
-                    col_prev, col_info, col_next = st.columns([1, 0.8, 1])
-                    
-                    with col_prev:
-                        if st.session_state["current_page"] > 1:
-                            if st.button(utils.t("prev"), width='stretch', key="p_prev"):
-                                st.session_state["current_page"] -= 1
-                                st.rerun()
-                        else:
-                            st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
-                            
-                    with col_info:
-                        st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
-                        
-                    with col_next:
-                        if st.session_state["current_page"] < total_pages:
-                            if st.button(utils.t("next"), width='stretch', key="p_next"):
-                                st.session_state["current_page"] += 1
-                                st.rerun()
-                        else:
-                            st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
-
-    # --- Page 2: Taxi Calculator ---
-    elif page_mode == utils.t("nav_taxi"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_taxi"))
-        utils.render_custom_header(utils.t("taxi_title"), level=2)
-        st.caption(utils.t("taxi_desc"))
-
-        # Input & Place Search Logic
-        api_key = st.secrets.get("google_maps_api_key")
-        
-        # State Helpers
-        def clear_origin_cands():
-            if 'taxi_origin_cands' in st.session_state: del st.session_state['taxi_origin_cands']
-        def clear_dest_cands():
-            if 'taxi_dest_cands' in st.session_state: del st.session_state['taxi_dest_cands']
-
-        with st.container(border=True):
-            st.markdown(f"#### {utils.t('route_set')}")
-            
-            # --- Origin ---
-            c_o1, c_o2 = st.columns([3, 1])
-            with c_o1:
-                origin_q = st.text_input(utils.t("from"), placeholder="e.g., Asok, Khaosan", key="taxi_origin_q", on_change=clear_origin_cands)
-                st.write("")
-                st.write("")
-                if st.button(utils.t("search"), key="btn_search_orig") and origin_q and api_key:
-                    with st.spinner(".."):
-                        st.session_state['taxi_origin_cands'] = utils.search_places(origin_q, api_key)
-
-            # Origin Selection
-            origin_val = origin_q
-            if st.session_state.get('taxi_origin_cands'):
-                opts = {f"{c['name']} ({c['address']})": c['place_id'] for c in st.session_state['taxi_origin_cands']}
-                sel_o_key = st.selectbox(utils.t("from"), list(opts.keys()), key="sel_origin")
-                origin_val = f"place_id:{opts[sel_o_key]}"
-
-            st.divider()
-
-            # --- Destination ---
-            c_d1, c_d2 = st.columns([3, 1])
-            with c_d1:
-                dest_q = st.text_input(utils.t("to"), placeholder="e.g., Icon Siam", key="taxi_dest_q", on_change=clear_dest_cands)
-                st.write("")
-                st.write("")
-                if st.button(utils.t("search"), key="btn_search_dest") and dest_q and api_key:
-                    with st.spinner(".."):
-                        st.session_state['taxi_dest_cands'] = utils.search_places(dest_q, api_key)
-            
-            # Dest Selection
-            dest_val = dest_q
-            if st.session_state.get('taxi_dest_cands'):
-                opts = {f"{c['name']} ({c['address']})": c['place_id'] for c in st.session_state['taxi_dest_cands']}
-                sel_d_key = st.selectbox(utils.t("to"), list(opts.keys()), key="sel_dest")
-                dest_val = f"place_id:{opts[sel_d_key]}"
-
-            st.divider()
-            
-            # Quote
-            quote_price = st.number_input("Price offered (THB, Optional)" if st.session_state.get('language') == 'English' else "기사가 부른 가격 (THB, 선택)", min_value=0, step=10)
-            
-            calc_btn = st.button(utils.t("calc_fare"), type="primary", width='stretch')
-
-        if calc_btn:
-            if not origin_val or not dest_val:
-                 st.warning("출발지와 도착지를 확인해주세요.")
-            else:
-                 if not api_key:
-                    st.error("Google Maps API Key가 설정되지 않았습니다.")
-                 else:
-                    with st.spinner(utils.t("analyzing")):
-                        dist_km, dur_min, traffic_ratio, error = utils.get_route_estimates(origin_val, dest_val, api_key)
-                        
-                        if error:
-                            st.error(error)
-                        else:
-                            # Traffic Light UI
-                            if traffic_ratio is not None:
-                                if traffic_ratio >= 1.5:
-                                    st.error(f"🔴 정체 (혼잡도 {traffic_ratio:.1f}): 🚨 극심한 정체! (방콕 트래픽 잼). 오토바이나 지하철 추천.")
-                                elif traffic_ratio >= 1.1:
-                                    st.warning(f"🟡 서행 (혼잡도 {traffic_ratio:.1f}): 차가 조금 많습니다. 여유를 가지세요.")
-                                else:
-                                    st.success(f"🟢 원활 (혼잡도 {traffic_ratio:.1f}): 도로가 뻥 뚫렸어요! 이동하기 좋습니다.")
-                            
-                            base_meter, fares, is_rush_hour, is_hell_zone, intercity_tip = utils.calculate_expert_fare(dist_km, dur_min, origin_txt=origin_q, dest_txt=dest_q)
-                            
-                            # Intercity / Long Distance Alert
-                            if intercity_tip:
-                                st.success("🚍 **도시 간 이동(Intercity)** 감지! (미터기 대신 정액제 요금이 적용됩니다)")
-                                st.info(f"💡 **이동 꿀팁**: {intercity_tip}")
-                            
-                            # Hell Zone Alert (Prioritize)
-                            if is_hell_zone:
-                                st.error("👿 [교통 지옥 구역] 감지! (Asok/Siam/Sukhumvit 등)")
-                                st.caption("💬 이 지역은 상습 정체 구역으로, 미터 택시 승차거부가 심하고 앱 호출 배차가 매우 오래 걸릴 수 있습니다. **지상철(BTS)/지하철(MRT)** 또는 **오토바이** 이용을 강력 추천합니다. 마음을 비우세요 🧘")
-
-                            # Rush Hour Alert
-                            if is_rush_hour:
-                                st.warning("🚨 **현재는 '러시아워'입니다!** (앱 호출비/뚝뚝 할증)")
-                                st.caption("💡 07:00-09:30 / 16:30-20:00은 교통체증이 심해 앱 호출비가 비쌉니다. (미터 택시가 그나마 저렴)")
-                            
-                            # 1. Route Info
-                            st.info(f"📏 예상 거리: **{dist_km:.1f}km** | ⏱️ 소요 시간: **{int(dur_min)}분** (교통체증 반영)")
-                            
-                            # 2. Quote Analysis
-                            if quote_price > 0:
-                                # Parse Prices (Ranges: "min ~ max")
-                                def parse_price(val):
-                                    try:
-                                        if isinstance(val, int): return val, val
-                                        parts = str(val).split('~')
-                                        if len(parts) == 2:
-                                            return int(parts[0].strip()), int(parts[1].strip())
-                                        return int(str(val).replace('THB','').strip()), int(str(val).replace('THB','').strip())
-                                    except:
-                                        return 9999, 9999
-
-                                bolt_min, bolt_max = parse_price(fares.get('bolt', {}).get('price', 0))
-                                grab_min, grab_max = parse_price(fares.get('grab_taxi', {}).get('price', 0))
-                                tuktuk_min, tuktuk_max = parse_price(fares.get('tuktuk', {}).get('price', 0))
-
-                                # Assessment Logic
-                                if quote_price <= bolt_min:
-                                     st.success(f"**{quote_price}바트**는 '최저가' 수준입니다! 바로 타세요. 👍")
-                                elif quote_price <= grab_max:
-                                     st.success(f"**{quote_price}바트**는 적절한 가격입니다. (Bolt/Grab 앱 호출 호가)")
-                                elif quote_price <= tuktuk_min * 1.2:
-                                     st.warning(f"**{quote_price}바트**는 조금 비쌉니다. (급할 때만 타세요)")
-                                else:
-                                     st.error(f"🚨 **{quote_price}바트**는 바가지입니다! (다른 수단 권장)")
-                            
-                            st.divider()
-                            
-                            # 3. Fare Table (Cards)
-                            st.subheader("💰 교통수단별 적정 요금표")
-                            st.caption("Disclaimer: 실제 교통상황/시간대에 따라 오차가 있을 수 있습니다.")
-                            
-                            cols = st.columns(4)
-                            # Order: Bike, Bolt (Merged), Grab, TukTuk
-                            keys = ['bike', 'bolt', 'grab_taxi', 'tuktuk']
-                            
-                            for i, k in enumerate(keys):
-                                item = fares[k]
-                                with cols[i]:
-                                    with st.container(border=True):
-                                        st.markdown(f"**{item['label']}**")
-                                        price_display = f"{item['price']} THB"
-                                        
-                                        color = item['color']
-                                        st.markdown(f"<h3 style='color:{color}; margin:0;'>{price_display}</h3>", unsafe_allow_html=True)
-                                        
-                                        tag_color = "#e5e7eb" # gray-200
-                                        text_color = "#374151" # gray-700
-                                        if color == "red": 
-                                            tag_color = "#fee2e2"
-                                            text_color = "#991b1b"
-                                        if color == "green": 
-                                            tag_color = "#dcfce7"
-                                            text_color = "#166534"
-                                        if color == "blue": 
-                                            tag_color = "#dbeafe"
-                                            text_color = "#1e40af"
-                                        if color == "orange":
-                                            tag_color = "#ffedd5"
-                                            text_color = "#c2410c"
-                                        
-                                        st.markdown(f"<div style='background-color:{tag_color}; padding:4px; border-radius:4px; font-size:0.8em; text-align:center; color:{text_color}; margin-top:5px;'>{item['tag']}</div>", unsafe_allow_html=True)
-                                        
-                                        if item.get("warning"):
-                                            st.markdown(f"<div style='font-size:0.7em; color:red; margin-top:5px;'>⚠️ " + ("Don't take if higher than this!" if st.session_state.get('language') == 'English' else "이 가격보다 비싸면 타지 마세요!") + "</div>", unsafe_allow_html=True)
-                                            
-                                        if item.get("warning_text"):
-                                             st.caption(f"⚠️ {item['warning_text']}")
-
-                            st.divider()
-                            st.info("💡 " + ("Chiang Mai, Pattaya, etc. may be cheaper. Note that Phuket/Samui often use Flat Rate." if st.session_state.get('language') == 'English' else "치앙마이, 파타야 등 지방 도시는 위 요금보다 더 저렴할 수 있습니다. 단, '푸켓'과 '코사무이'는 미터기를 잘 안 켜고 담합 가격(Flat Rate)을 부르니 주의하세요!"))
-
-    # --- Page: Events (Non-prod) ---
-    elif page_mode == utils.t("nav_event"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_event"))
-        st.markdown(f"### {utils.t('nav_event')}")
-        st.info(f"💡 {utils.t('sidebar_info')}")
-        
-        events = get_cached_events()
-        if not events:
-            st.info(utils.t("no_events"))
-        else:
-            for i, ev in enumerate(events):
-                with st.container(border=True):
-                    ec1, ec2 = st.columns([1, 4])
-                    with ec1:
-                        if ev.get('image_url'):
-                            st.image(ev['image_url'], use_container_width=True)
-                        else:
-                            st.markdown("### 🎪")
-                    with ec2:
-                        st.markdown(f"#### {ev.get('title', 'Event')}")
-                        st.markdown(f"{utils.t('event_date')}: {ev.get('date', 'TBA')}")
-                        st.markdown(f"{utils.t('event_place')}: {ev.get('place', 'Bangkok')}")
-                        
-                        if ev.get('info'):
-                            st.caption(ev['info'])
-                        if ev.get('url'):
-                            st.link_button(utils.t("read_more"), ev['url'], use_container_width=True)
-
-    # --- Page 3: Trend Hunter (Magazine) ---
-    # --- Page 3: Hotel Fact Check ---
+        render_tab_news()
     elif page_mode == utils.t("nav_hotel"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_hotel"))
-        utils.render_custom_header(utils.t("hotel_fact"), level=2)
-        st.caption(utils.t("hotel_desc"))
-        
-        # 1. Search Input
-        # Using global keys
-        api_key = google_maps_key
-
-        # State Helpers
-        def clear_hotel_cands():
-            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
-        
-        # Init History
-        if 'hotel_history' not in st.session_state:
-            st.session_state['hotel_history'] = []
-
-        # CRITICAL FIX: Ultra-flat UI to avoid delta path conflicts
-        if not st.session_state.get('show_hotel_analysis'):
-            # Area 1: Search inputs (No container, no columns)
-            city_opts = ["Bangkok", "Pattaya", "Chiang Mai", "Phuket", "Krabi", "Koh Samui", "Hua Hin", "Pai", utils.t("other") if st.session_state.get('language') == 'English' else "기타 (직접 입력)"]
-            selected_city = st.selectbox(utils.t("hotel_city"), city_opts, key="user_city_select", on_change=clear_hotel_cands)
-            
-            if selected_city == (utils.t("other") if st.session_state.get('language') == 'English' else "기타 (직접 입력)"):
-                city = st.text_input("City Name (English)", placeholder="e.g., Siracha", key="user_city_manual")
-            else:
-                city = selected_city
-                
-            hotel_query = st.text_input(utils.t("hotel_search"), placeholder=utils.t("hotel_placeholder"), key="user_hotel_input", on_change=clear_hotel_cands)
-            
-            # Search Button
-            if st.button(utils.t("hotel_find"), key="btn_hotel_search", type="primary", use_container_width=True):
-                if not hotel_query:
-                    st.warning(utils.t("no_results") if st.session_state.get('language') == 'English' else "호텔 이름을 입력해주세요.")
-                elif not api_key:
-                    st.error("Google Maps API Key Missing")
-                else:
-                    with st.spinner(utils.t("searching")):
-                        # [NEW] Check Cache First - Even before searching Maps
-                        cached = utils.get_hotel_cache(hotel_query)
-                        if cached:
-                            st.success("📦 " + ("Found cached analysis!" if st.session_state.get('language') == 'English' else "기존 분석 데이터를 찾았습니다! 바로 결과를 보여드립니다."))
-                            st.session_state['show_hotel_analysis'] = True
-                            st.session_state['active_hotel_id'] = "CACHED"
-                            st.session_state['_selected_hotel_label'] = hotel_query
-                            st.rerun()
-
-                        cands = utils.fetch_hotel_candidates(hotel_query, city, api_key)
-                        if not cands: 
-                            st.error(utils.t("no_results"))
-                            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
-                        else:
-                            st.session_state['hotel_candidates'] = cands
-                            st.session_state['show_hotel_analysis'] = False
-                            st.session_state['active_hotel_id'] = None
-
-            # Area 2: Selection (No columns)
-            if st.session_state.get('hotel_candidates'):
-                cands = st.session_state['hotel_candidates']
-                options = {f"{c['name']} ({c['address']})": c['id'] for c in cands}
-                
-                sel_label = st.selectbox(utils.t("hotel_select"), list(options.keys()), key="sel_hotel_final")
-                target_place_id = options[sel_label]
-                
-                st.session_state['_selected_hotel_id'] = target_place_id
-                st.session_state['_selected_hotel_label'] = sel_label.split('(')[0].strip()
-                
-                st.info(f"{utils.t('hotel_select')}: **{sel_label.split('(')[0]}**")
-
-                # Simply use a button with a clear rerun
-                if st.button(utils.t("analysis_btn"), type="primary", use_container_width=True):
-                    st.session_state['show_hotel_analysis'] = True
-                    st.session_state['active_hotel_id'] = st.session_state['_selected_hotel_id']
-                    st.rerun()
-        else:
-            # Area 3: Analysis Results (No columns)
-            if st.button(utils.t("hotel_back"), use_container_width=True):
-                st.session_state['show_hotel_analysis'] = False
-                st.rerun()
-
-            active_id = st.session_state.get('active_hotel_id')
-            if active_id:
-                if not gemini_key or not api_key:
-                     st.error("API Key Missing")
-                else:
-                     with st.spinner(utils.t("analyzing")):
-                         # [NEW] Check GSheets Cache First to save API costs
-                         hotel_name_to_check = st.session_state.get('_selected_hotel_label', '')
-                         cached_result = utils.get_hotel_cache(hotel_name_to_check)
-                         
-                         info = None
-                         analysis = None
-                         
-                         if cached_result:
-                             st.success(f"📦 캐시된 분석 데이터를 발견했습니다! ({cached_result['cached_date']})")
-                             cache_data = cached_result['raw_json']
-                             info = cache_data.get('info')
-                             analysis = cache_data.get('analysis')
-                             # 캐시된 아고다 URL 저장 (하이브리드 링크용)
-                             if cached_result.get('agoda_url'):
-                                 st.session_state['cached_agoda_url'] = cached_result['agoda_url']
-                             else:
-                                 st.session_state['cached_agoda_url'] = None
-                         else:
-                             # Cache Miss: Proceed with Google Maps + Gemini Analysis
-                             info = utils.fetch_hotel_details(active_id, api_key)
-                             
-                             if info:
-                                 analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
-                                
-                                 # If successful, save to cache
-                                 if analysis and isinstance(analysis, dict) and "error" not in analysis:
-                                     # Combine info and analysis for a complete cache hit next time
-                                     full_cached_json = {"info": info, "analysis": analysis}
-                                     summary = analysis.get('one_line_verdict', '')
-                                     utils.save_hotel_cache(info['name'], summary, full_cached_json)
-                                 elif isinstance(analysis, list) and len(analysis) > 0:
-                                     # Some versions might return a list
-                                     full_cached_json = {"info": info, "analysis": analysis[0]}
-                                     summary = analysis[0].get('one_line_verdict', '')
-                                     utils.save_hotel_cache(info['name'], summary, full_cached_json)
-                                     analysis = analysis[0]
-                         
-                         if info and analysis:
-                             if isinstance(analysis, dict) and "error" in analysis:
-                                 st.error(f"분석 중 오류 발생: {analysis['error']}")
-                             elif not isinstance(analysis, dict):
-                                 st.error(f"분석 결과 형식 오류: {str(analysis)}")
-                             else:
-                                 # Flat Display (No columns)
-                                 if info.get('photo_url'):
-                                     st.image(info['photo_url'], use_container_width=True, caption=info['name'])
-                                 
-                                 # 📷 투숙객 사진 갤러리 (가로 스크롤)
-                                 photo_urls = info.get('photo_urls', [])
-                                 if photo_urls and len(photo_urls) > 1:
-                                     with st.expander(utils.t("photos"), expanded=True):
-                                         # 가로 스크롤 갤러리 CSS + HTML
-                                         gallery_html = """
-                                         <style>
-                                         .photo-gallery {
-                                             display: flex;
-                                             overflow-x: auto;
-                                             gap: 12px;
-                                             padding: 10px 0;
-                                             scroll-snap-type: x mandatory;
-                                             -webkit-overflow-scrolling: touch;
-                                         }
-                                         .photo-gallery::-webkit-scrollbar {
-                                             height: 8px;
-                                         }
-                                         .photo-gallery::-webkit-scrollbar-thumb {
-                                             background: #888;
-                                             border-radius: 4px;
-                                         }
-                                         .photo-card {
-                                             flex: 0 0 auto;
-                                             scroll-snap-align: start;
-                                             border-radius: 12px;
-                                             overflow: hidden;
-                                             box-shadow: 0 4px 12px rgba(0,0,0,0.15);
-                                             transition: transform 0.2s;
-                                         }
-                                         .photo-card:hover {
-                                             transform: scale(1.02);
-                                         }
-                                         .photo-card img {
-                                             height: 200px;
-                                             width: auto;
-                                             object-fit: cover;
-                                         }
-                                         </style>
-                                         <div class="photo-gallery">
-                                         """
-                                         for idx, photo_url in enumerate(photo_urls):
-                                             gallery_html += f'<div class="photo-card"><img src="{photo_url}" alt="호텔 사진 {idx+1}"></div>'
-                                         gallery_html += "</div>"
-                                         
-                                         st.markdown(gallery_html, unsafe_allow_html=True)
-                                         st.caption(utils.t("photo_caption"))
-                                 
-                                 st.subheader(f"{info['name']}")
-                                 st.markdown(f"📍 **{utils.t('location')}:** {info['address']}")
-                                 st.markdown(f"⭐ **" + ("Google Rating" if st.session_state.get('language') == 'English' else "구글 평점") + f":** {info['rating']} ({info['review_count']:,} " + ("reviews" if st.session_state.get('language') == 'English' else "명 참여") + ")")
-                                 
-                                 if analysis.get('price_level'):
-                                     st.markdown(f"{analysis['price_level']} **{analysis.get('price_range_text', '')}**")
-                                 
-                                 st.divider()
-
-                                 # History logic
-                                 history_item = {
-                                     "info": info,
-                                     "analysis": analysis,
-                                     "saved_at": datetime.now().strftime("%Y-%m-%d %H:%M")
-                                 }
-                                 st.session_state['hotel_history'] = [
-                                     h for h in st.session_state['hotel_history'] 
-                                     if h['info']['name'] != info['name']
-                                 ]
-                                 st.session_state['hotel_history'].insert(0, history_item)
-                                  
-                                 # --- 💰 수익화 버튼들 (아고다 & 트립닷컴) ---
-                                 st.divider()
-                                 st.caption("💰 지금 예약하면 특가 할인!")
-                                 
-                                 # 아고다 버튼 (하이브리드: 직통 링크 우선)
-                                 cached_agoda = analysis.get('agoda_url') or st.session_state.get('cached_agoda_url')
-                                 agoda_url, is_direct = utils.get_hotel_link(info.get('name', ''), cached_agoda)
-                                 
-                                 if is_direct:
-                                     # 직통 링크가 있으면 더 강조
-                                     st.link_button("🚀 아고다에서 바로 예약하기 (검증됨)", agoda_url, use_container_width=True, type="primary")
-                                 else:
-                                     st.link_button("🏨 아고다에서 최저가 검색하기", agoda_url, use_container_width=True, type="primary")
-                                 
-                                 # Trip.com link
-                                 try:
-                                     import urllib.parse
-                                     from datetime import datetime, timedelta
-                                     trip_secrets = st.secrets.get("trip_com", {})
-                                     aid = trip_secrets.get("alliance_id")
-                                     sid = trip_secrets.get("sid")
-                                     
-                                     if aid and sid:
-                                         raw_keyword = analysis.get('trip_keyword') or info.get('name', '')
-                                         today_str = datetime.now().strftime("%Y-%m-%d")
-                                         tomorrow_str = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
-                                         encoded_keyword = urllib.parse.quote(f'"{raw_keyword}"')
-                                         trip_url = (
-                                             f"https://kr.trip.com/hotels/list?"
-                                             f"searchType=KW&"
-                                             f"keyword={encoded_keyword}&"
-                                             f"searchText={encoded_keyword}&"
-                                             f"checkIn={today_str}&checkOut={tomorrow_str}&"
-                                             f"allianceid={aid}&sid={sid}"
-                                         )
-                                         st.link_button(f"🏨 트립닷컴에서도 비교하기", trip_url, use_container_width=True, type="secondary")
-                                 except: pass
-                                     
-                                 st.info(f"💡 **" + ("Verdict" if st.session_state.get('language') == 'English' else "한 줄 요약") + f":** {analysis.get('one_line_verdict', 'N/A')}")
-                                 st.markdown(f"🎯 **{analysis.get('recommendation_target', '')}**")
-                                
-                                 st.success(utils.t("pros_title"))
-                                 for p in analysis.get('pros', []):
-                                     st.markdown(f"- {p}")
-                                    
-                                 st.error(utils.t("cons_title"))
-                                 for c in analysis.get('cons', []):
-                                     st.markdown(f"- {c}")
-                            
-                             # Detailed Analysis
-                             with st.expander(utils.t("searching") if st.session_state.get('language') == 'English' else "🔍 상세 분석 보기", expanded=True):
-                                 st.markdown(f"### {utils.t('location_title')}")
-                                 st.write(analysis.get('location_analysis', '-'))
-                                
-                                 st.markdown(f"### {utils.t('room_title')}")
-                                 st.write(analysis.get('room_condition', '-'))
-                                
-                                 st.markdown(f"### {utils.t('service_title')}")
-                                 st.write(analysis.get('service_breakfast', '-'))
-                                
-                                 st.markdown(f"### {utils.t('facility_title')}")
-                                 st.write(analysis.get('pool_facilities', '-'))
-                            
-                             # Scores
-                             scores = analysis.get('summary_score', {})
-                             if scores:
-                                 st.markdown(f"### {utils.t('score_title')}")
-                                 sc1, sc2, sc3, sc4 = st.columns(4)
-                                 sc1.metric(utils.t("cleanliness"), f"{scores.get('cleanliness', 0)}/5")
-                                 sc2.metric(utils.t("location"), f"{scores.get('location', 0)}/5")
-                                 sc3.metric(utils.t("comfort"), f"{scores.get('comfort', 0)}/5")
-                                 sc4.metric(utils.t("value"), f"{scores.get('value', 0)}/5")
-                             
-                             # --- 📢 팩트체크 결과 공유하기 (즉시 표시) ---
-                             st.divider()
-                             # 분석 완료 시 바로 공유 텍스트 생성 (버튼 클릭 불필요)
-                             hotel_name = info.get('name', '호텔')
-                             share_summary = utils.extract_hotel_share_summary(hotel_name, analysis)
-                             
-                             with st.expander(utils.t("share_friend"), expanded=False):
-                                 st.code(share_summary, language=None)
-                                 st.caption(utils.t("share_caption"))
-        
-        # --- Value-Add: Search History ---
-        if st.session_state.get('hotel_history'):
-            st.divider()
-            c_hist_title, c_hist_clear = st.columns([4, 1])
-            with c_hist_title:
-                st.subheader("🕒 최근 분석한 호텔 (History)")
-            with c_hist_clear:
-                if st.button("기록 전체 삭제", type="secondary"):
-                    st.session_state['hotel_history'] = []
-                    st.rerun()
-
-            for idx, h_item in enumerate(st.session_state['hotel_history']):
-                h_info = h_item['info']
-                h_analysis = h_item['analysis']
-                
-                with st.expander(f"🏨 {h_info['name']} ({h_info['rating']}⭐) - {h_analysis.get('one_line_verdict', '')}"):
-                    # Simplified View for History
-                    hc1, hc2 = st.columns([1, 2])
-                    with hc1:
-                        if h_info.get('photo_url'):
-                             st.image(h_info['photo_url'], width='stretch')
-                        st.caption(f"📍 {h_info['address']}")
-                    with hc2:
-                        st.info(f"💡 {h_analysis.get('one_line_verdict', '')}")
-                        st.markdown(f"🎯 **{h_analysis.get('recommendation_target', '')}**")
-                        
-                        # Tags
-                        pros = h_analysis.get('pros', [])[:2] # Top 2 only
-                        cons = h_analysis.get('cons', [])[:2]
-                        st.success(f"😊 {', '.join(pros)}")
-                        st.error(f"⚠️ {', '.join(cons)}")
-                        
-                    # History Scores
-                    h_scores = h_analysis.get('summary_score', {})
-                    if h_scores:
-                        st.markdown("---")
-                        hc_s1, hc_s2, hc_s3, hc_s4 = st.columns(4)
-                        hc_s1.metric("청결도", f"{h_scores.get('cleanliness', 0)}/5")
-                        hc_s2.metric("위치", f"{h_scores.get('location', 0)}/5")
-                        hc_s3.metric("편안함", f"{h_scores.get('comfort', 0)}/5")
-                        hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
-
-
-    # --- Page 4: Restaurant Fact Check (Google Maps) ---
+        render_tab_hotel()
     elif page_mode == utils.t("nav_food"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_food"))
-        utils.render_custom_header(utils.t("food_fact"), level=2)
-        st.caption(utils.t("food_desc"))
-        
-        # 세션 상태 초기화
-        if "restaurant_search_results" not in st.session_state:
-            st.session_state["restaurant_search_results"] = []
-        if "restaurant_selected" not in st.session_state:
-            st.session_state["restaurant_selected"] = None
-        if "restaurant_details" not in st.session_state:
-            st.session_state["restaurant_details"] = None
-        if "food_history" not in st.session_state:
-            st.session_state["food_history"] = []
-        
-        # --- 1단계: 검색 ---
-        container = st.container(border=True)
-        with container:
-            r_name = st.text_input(utils.t("searching"), placeholder=utils.t("rest_placeholder"), key="restaurant_input")
-            
-            search_btn = st.button(utils.t("search_rest"), key="btn_r_search", type="primary", use_container_width=True)
-            
-            if search_btn:
-                if not r_name:
-                    st.warning(utils.t("no_results") if st.session_state.get('language') == 'English' else "식당 이름을 입력해주세요.")
-                else:
-                    with st.spinner(utils.t("searching")):
-                        results = utils.search_restaurants(r_name)
-                        st.session_state["restaurant_search_results"] = results
-                        st.session_state["restaurant_selected"] = None
-                        st.session_state["restaurant_details"] = None
-        
-        # --- 2단계: 검색 결과 표시 및 선택 ---
-        search_results = st.session_state.get("restaurant_search_results", [])
-        
-        if search_results:
-            st.divider()
-            st.markdown(f"#### 🍜 " + (utils.t("no_results") if not search_results else ( "Search Results - Select a restaurant" if st.session_state.get('language') == 'English' else "검색 결과 - 식당을 선택하세요")))
-            
-            # Radio 옵션 생성
-            options = [f"{r['name']} ({r['address']})" for r in search_results]
-            
-            selected_option = st.radio(
-                utils.t("nav_food"),
-                options,
-                key="restaurant_radio",
-                label_visibility="collapsed"
-            )
-            
-            # 선택된 식당의 location_id 찾기
-            selected_idx = options.index(selected_option) if selected_option else 0
-            selected_restaurant = search_results[selected_idx]
-            
-            st.session_state["restaurant_selected"] = selected_restaurant
-            
-            # 팩트체크 시작 버튼
-            if st.button(utils.t("analysis_btn"), key="btn_r_factcheck", type="primary", use_container_width=True):
-                with st.spinner(utils.t("analyzing")):
-                    details = utils.get_restaurant_details(selected_restaurant['location_id'])
-                    st.session_state["restaurant_details"] = details
-                    
-                    # 히스토리 추가 (중복 제거 및 최상단)
-                    history_item = {
-                        'place_id': selected_restaurant['location_id'],
-                        'name': details['name'],
-                        'details': details
-                    }
-                    st.session_state['food_history'] = [h for h in st.session_state['food_history'] if h['place_id'] != selected_restaurant['location_id']]
-                    st.session_state['food_history'].insert(0, history_item)
-                    st.session_state['food_history'] = st.session_state['food_history'][:10] # 최대 10개
-        
-        elif st.session_state.get("restaurant_search_results") == []:
-            # 검색했지만 결과 없음
-            if st.session_state.get("restaurant_input"):
-                st.info(utils.t("no_results"))
-        
-        # --- 3단계: 상세 분석 결과 표시 ---
-        details = st.session_state.get("restaurant_details")
-        if details:
-            st.divider()
-            
-            # 종합 점수 헤더 (Google은 전체 평점만 있음 - 강조)
-            rating = details.get('rating', 0)
-            num_reviews = details.get('num_reviews', 0)
-            price_text = details.get('price_text', '')
-            hours_status = details.get('hours', '')
-            
-            # 평점 색상
-            if rating >= 4.5:
-                rating_color = "#00B894"  # 초록
-                rating_emoji = "🏆"
-            elif rating >= 4.0:
-                rating_color = "#D4AF37"  # 금색
-                rating_emoji = "⭐"
-            elif rating >= 3.5:
-                rating_color = "#FDCB6E"  # 노랑
-                rating_emoji = "🤔"
-            else:
-                rating_color = "#E17055"  # 빨강
-                rating_emoji = "⚠️"
-            
-            st.markdown(f"""
-            <div style="
-                background: linear-gradient(135deg, {rating_color}22 0%, {rating_color}11 100%);
-                border-radius: 16px;
-                padding: 24px;
-                text-align: center;
-                border: 2px solid {rating_color};
-                margin-bottom: 20px;
-            ">
-                <h1 style="margin: 0; color: {rating_color}; font-size: 3rem;">{rating_emoji} {rating}</h1>
-                <p style="font-size: 1.2rem; margin: 8px 0 0 0; color: #888;">{utils.t('rating_caption').format(num_reviews=num_reviews)}</p>
-                <p style="font-size: 1rem; margin: 8px 0 0 0;">{price_text} {hours_status}</p>
-            </div>
-            """, unsafe_allow_html=True)
-            
-            # 식당 기본 정보
-            st.markdown(f"### 🍜 {details.get('name', '식당')}")
-            
-            # 구글 한 줄 소개 (Editorial Summary)
-            if details.get('editorial_summary'):
-                st.caption(f"✨ {details.get('editorial_summary')}")
-            
-            # 🔥 추천 메뉴 (리뷰 분석 결과)
-            recommended_menu = details.get('recommended_menu', [])
-            if recommended_menu:
-                st.markdown(f"##### {utils.t('recommend_menu')}")
-                menu_html = " ".join([f'<span style="background-color: #ffeaa7; padding: 4px 10px; border-radius: 12px; margin-right: 6px; font-weight: bold; color: #d63031;">#{m}</span>' for m in recommended_menu])
-                st.markdown(menu_html, unsafe_allow_html=True)
-                st.write("") # 간격
-            
-            # 사진 갤러리 (상단 배치)
-            photos = details.get('photos', [])
-            if photos:
-                st.markdown("#### 📸 사진")
-                gallery_html = '<div style="display: flex; overflow-x: auto; gap: 10px; padding: 10px 0;">'
-                for photo in photos:
-                    if photo:
-                        gallery_html += f'<img src="{photo}" style="height: 180px; border-radius: 12px; object-fit: cover; flex-shrink: 0;">'
-                gallery_html += '</div>'
-                st.markdown(gallery_html, unsafe_allow_html=True)
-                st.caption(utils.t("photo_caption"))
-            
-            # 정보 요약 (Google은 세부 점수가 없으므로 바로 정보 표시)
-            st.markdown(f"#### {utils.t('basic_info')}")
-            info_col1, info_col2 = st.columns(2)
-            
-            with info_col1:
-                if details.get('price_text'):
-                    st.markdown(f"{utils.t('price_range')}: {details.get('price_text', '')}")
-                if details.get('cuisines'):
-                    cuisines_text = ', '.join(details.get('cuisines', []))
-                    if cuisines_text:
-                        st.markdown(f"{utils.t('cuisine_type')}: {cuisines_text}")
-                if details.get('hours'):
-                    st.markdown(f"{utils.t('opening_status')}: {details.get('hours', '')}")
-            
-            with info_col2:
-                if details.get('address'):
-                    st.markdown(f"📍 **주소:** {details.get('address', '')}")
-                if details.get('phone'):
-                    st.markdown(f"📞 **전화:** {details.get('phone', '')}")
-            
-            # --- 💡 팩트체크 요약 섹션 (호텔 탭 스타일) ---
-            st.markdown("#### 💡 팩트체크 요약")
-            analysis = details.get('analysis', {})
-            
-            # 한줄추천 (Verdict)
-            verdict = analysis.get('verdict', '방문해 볼 만한 곳입니다.')
-            st.info(f"**{verdict}**")
-            
-            # 장점 & 단점 컬럼
-            col_pros, col_cons = st.columns(2)
-            
-            with col_pros:
-                st.markdown("##### 👍 장점")
-                pros = analysis.get('pros', ["전반적으로 무난함"])
-                for p in pros:
-                    st.success(f"**{p}**")
-                    
-            with col_cons:
-                st.markdown("##### 👎 단점")
-                cons = analysis.get('cons', ["특별한 단점 발견되지 않음 ✨"])
-                for c in cons:
-                    st.error(f"**{c}**")
-            
-            # --- ✅ 팩트체크 알림 (Warnings) ---
-            warnings = analysis.get('warnings', [])
-            if warnings:
-                with st.expander("🔔 세부 주의사항 보기"):
-                    for warn in warnings:
-                        if warn['level'] == 'warning':
-                            st.warning(warn['message'])
-                        else:
-                            st.info(warn['message'])
-            
-            # --- 💬 베스트 리뷰 섹션 ---
-            best_review = analysis.get('best_review')
-            if best_review and isinstance(best_review, dict):
-                st.markdown("#### 💬 베스트 리뷰")
-                # 메타데이터 (평점 및 시간)
-                b_rating = best_review.get('rating', 0)
-                b_time = best_review.get('relative_time', '최근')
-                st.caption(f"⭐ {b_rating}/5 · {b_time}")
-                st.info(f"\"{best_review.get('text', '')}\"")
-            elif best_review and isinstance(best_review, str):
-                # 호환성 대응
-                st.markdown(f"#### {utils.t('best_review')}")
-                st.info(f"\"{best_review}\"")
-            
-            # --- 🍽️ 메뉴 정보 섹션 ---
-            menu_url = details.get('menu_url')
-            if menu_url:
-                st.markdown(f"#### {utils.t('menu_info')}")
-                st.link_button(utils.t("menu_search_btn"), menu_url, use_container_width=True)
-                st.caption(utils.t("menu_search_caption"))
-                
-            # --- 📢 팩트체크 결과 공유하기 ---
-            st.divider()
-            share_text = utils.extract_restaurant_share_summary(details.get('name', '식당'), details)
-            with st.expander(utils.t("share_friend"), expanded=False):
-                st.code(share_text, language=None)
-                st.caption(utils.t("share_caption"))
-            st.divider()
-
-            
-            # Google Maps 링크
-            if details.get('web_url'):
-                st.link_button("🗺️ " + ("View details on Google Maps" if st.session_state.get('language') == 'English' else "구글 지도에서 상세 정보 보기"), details.get('web_url'), use_container_width=True)
-            
-            st.divider()
-            if st.button(utils.t("clear_results"), key="btn_clear_r"):
-                st.session_state["restaurant_search_results"] = []
-                st.session_state["restaurant_selected"] = None
-                st.session_state["restaurant_details"] = None
-                st.rerun()
-
-        # --- 🕒 최근 본 맛집 (History) ---
-        if st.session_state.get('food_history'):
-            st.divider()
-            h_col1, h_col2 = st.columns([4, 1])
-            with h_col1:
-                st.subheader(utils.t("recent_history"))
-            with h_col2:
-                if st.button(utils.t("delete_history"), key="clear_food_hist", type="secondary"):
-                    st.session_state['food_history'] = []
-                    st.rerun()
-            
-            for i, h_item in enumerate(st.session_state['food_history']):
-                h_name = h_item['name']
-                h_details = h_item['details']
-                h_analysis = h_details.get('analysis', {})
-                
-                with st.expander(f"🍴 {h_name} ({h_details.get('rating', 0)}⭐) - {h_analysis.get('verdict', '')}"):
-                    h_c1, h_c2 = st.columns([1, 2])
-                    with h_c1:
-                        # 대표 사진 하나 표시
-                        if h_details.get('photos'):
-                            st.image(h_details['photos'][0], use_container_width=True)
-                        st.caption(f"📍 {h_details.get('address', '')}")
-                    
-                    with h_c2:
-                        st.info(f"🏆 {h_analysis.get('verdict', '')}")
-                        
-                        # 간단한 장/단점 요약
-                        h_pros = ", ".join(h_analysis.get('pros', [])[:2])
-                        h_cons = ", ".join(h_analysis.get('cons', [])[:2])
-                        if h_pros: st.success(f"👍 {h_pros}")
-                        if h_cons: st.error(f"👎 {h_cons}")
-                        
-                        if st.button(utils.t("view_detail_again"), key=f"btn_h_view_{i}", use_container_width=True):
-                            st.session_state["restaurant_selected"] = h_item['place_id']
-                            st.session_state["restaurant_details"] = h_details
-                            st.rerun()
-
-    # --- Page: 📘 여행 가이드 ---
+        render_tab_food()
     elif page_mode == utils.t("nav_guide"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_guide"))
-        # 세션 상태 초기화
-        if "guide_view" not in st.session_state:
-            st.session_state["guide_view"] = "list"
-        if "guide_post_id" not in st.session_state:
-            st.session_state["guide_post_id"] = None
-        
-        # Header
-        utils.render_custom_header(utils.t("guide_title"), level=2)
-        st.caption(utils.t("guide_desc"))
-        
-        # 글 목록 가져오기 (언어별 분기)
-        is_english_mode = st.session_state.get('language') == 'English'
-        
-        if is_english_mode:
-            # English Mode: Import and use English articles
-            from data_articles_en import ENGLISH_GUIDE_ARTICLES
-            blog_posts = ENGLISH_GUIDE_ARTICLES
-        else:
-            # Korean Mode: Use existing blog posts
-            blog_posts = utils.fetch_blog_posts()
-        
-        # --- Detail View ---
-        if st.session_state["guide_view"] == "detail" and st.session_state["guide_post_id"]:
-            # 뒤로가기 버튼
-            if st.button(utils.t("back_to_list"), key="btn_back_guide"):
-                st.session_state["guide_view"] = "list"
-                st.session_state["guide_post_id"] = None
-                st.rerun()
-            
-            # 해당 포스트 찾기
-            post = next((p for p in blog_posts if str(p.get('id')) == str(st.session_state["guide_post_id"])), None)
-            
-            if post:
-                st.divider()
-                
-                # 대표 이미지
-                if post.get('image_url'):
-                    st.image(post['image_url'], use_container_width=True)
-                
-                # 제목 & 메타
-                st.markdown(f"## {post.get('title', '제목 없음')}")
-                st.caption(f"📅 {post.get('date', '')} | ✍️ {post.get('author', '관리자')}")
-                
-                st.divider()
-                
-                # 본문 (Markdown 렌더링)
-                content = post.get('content', '')
-                st.markdown(content, unsafe_allow_html=True)
-                
-                st.divider()
-                st.caption(utils.t("share_help"))
-            else:
-                st.error("게시글을 찾을 수 없습니다.")
-                st.session_state["guide_view"] = "list"
-        
-        # --- List View ---
-        else:
-            if not blog_posts:
-                st.info(utils.t("no_guide"))
-            else:
-                # 수직형 카드 리스트 (모바일 최적화)
-                for post in blog_posts:
-                    with st.container():
-                        # CSS 카드 스타일
-                        card_html = f"""
-                        <div style="
-                            background: linear-gradient(135deg, rgba(255,255,255,0.1) 0%, rgba(255,255,255,0.05) 100%);
-                            backdrop-filter: blur(10px);
-                            border-radius: 16px;
-                            overflow: hidden;
-                            margin-bottom: 20px;
-                            box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-                            border: 1px solid rgba(255,255,255,0.1);
-                        ">
-                            <img src="{post.get('image_url', '')}" style="
-                                width: 100%;
-                                height: 200px;
-                                object-fit: cover;
-                            " onerror="this.style.display='none'">
-                            <div style="padding: 16px;">
-                                <h3 style="margin: 0 0 8px 0; font-size: 1.2rem;">{post.get('title', '제목 없음')}</h3>
-                                <p style="color: #888; font-size: 0.85rem; margin: 0 0 12px 0;">
-                                    📅 {post.get('date', '')} | ✍️ {post.get('author', '관리자')}
-                                </p>
-                                <p style="font-size: 0.95rem; line-height: 1.5; margin: 0;">
-                                    {post.get('summary', '')[:150]}{'...' if len(post.get('summary', '')) > 150 else ''}
-                                </p>
-                            </div>
-                        </div>
-                        """
-                        st.markdown(card_html, unsafe_allow_html=True)
-                        
-                        # 더 보기 버튼
-                        if st.button(utils.t("read_more"), key=f"btn_guide_{post.get('id')}"):
-                            st.session_state["guide_view"] = "detail"
-                            st.session_state["guide_post_id"] = post.get('id')
-                            st.rerun()
-                        
-                        st.markdown("<br>", unsafe_allow_html=True)
-
-    # --- Page 5: Community Board ---
+        render_tab_guide()
+    elif page_mode == utils.t("nav_taxi"):
+        render_tab_taxi()
+    elif page_mode == utils.t("nav_event"):
+        render_tab_event()
     elif page_mode == utils.t("nav_board"):
-        # SEO: Dynamic page title
-        utils.set_page_title(utils.get_seo_title("nav_board"))
-        st.markdown(f"### {utils.t('board_title')}")
-        st.caption(utils.t("board_desc"))
-        
-        # 1. Notice Section
-        st.success("👋 **오늘의 태국**은 여행자를 위한 실시간 정보 앱입니다. 뉴스, 핫플, 이벤트를 한눈에 확인하세요!", icon="📢")
-        with st.container():
-            col_notice, col_btn = st.columns([4, 1])
-            with col_notice:
-                st.info("💡 버그 제보, 광고 문의, 기능 제안은 여기로 보내주세요!", icon="📨")
-            with col_btn:
-                st.link_button("Help" if st.session_state.get('language') == 'English' else "문의하기", "https://forms.gle/B9RTDGJcCR9MnJvv5", width='stretch')
-
-        st.divider()
-
-        # 2. Write Section
-        with st.expander(utils.t("write_expander"), expanded=True):
-            with st.form("board_write_form", clear_on_submit=True):
-                c_nick, c_pw = st.columns(2)
-                b_nick = c_nick.text_input(utils.t("nickname"), placeholder="Nickname...")
-                b_pw = c_pw.text_input(utils.t("password"), type="password", max_chars=4)
-                b_content = st.text_area(utils.t("content"), placeholder="..." if st.session_state.get('language') == 'English' else "욕설, 비방, 광고글은 통보 없이 삭제될 수 있습니다.", height=100)
-                
-                if st.form_submit_button(utils.t("write_btn"), width='stretch'):
-                    if not b_content:
-                        st.warning("내용을 입력해주세요.")
-                    elif not b_pw:
-                        st.warning("삭제를 위한 비밀번호를 입력해주세요.")
-                    else:
-                        with st.spinner("구글 시트에 저장 중..."):
-                            if save_board_post(b_nick, b_content, b_pw):
-                                st.success("게시글이 등록되었습니다!")
-                                st.rerun()
-
-        st.markdown("---")
-
-        # 3. Read Section
-        board_data = load_board_data()
-        
-        if not board_data:
-            st.info("아직 등록된 글이 없습니다. 첫 번째 글을 남겨보세요!")
-        else:
-            for i, post in enumerate(board_data):
-                with st.container(border=True):
-                    # Data Mapping: created_at -> date (for display compatibility if needed, using created_at)
-                    c_date = post.get('created_at', 'Unknown Date')
-                    c_nick = post.get('nickname', '익명')
-                    c_content = post.get('content', '')
-                    
-                    # Sanitize
-                    c_nick_safe = html.escape(c_nick) # Escape HTML tags
-                    c_content_safe = c_content.replace("http://", "https://")
-
-                    # Header: Nickname & Date
-                    st.markdown(f"**{c_nick_safe}** <span style='color:grey; font-size:0.8em'>| {c_date}</span>", unsafe_allow_html=True)
-                    # Content (Render safely via markdown, replacing http with https)
-                    st.markdown(c_content_safe)
-                    
-                    # Delete UI (Bottom Right)
-                    with st.expander("🗑️ " + utils.t("delete_post")):
-                        del_pw = st.text_input(utils.t("confirm_pw"), type="password", key=f"del_pw_{i}", max_chars=4)
-                        if st.button(utils.t("delete_post"), key=f"btn_del_{i}"):
-                            # Use created_at as ID for deletion
-                            success, msg = delete_board_post(c_date, del_pw)
-                            if success:
-                                st.success(msg)
-                                time.sleep(1)
-                                st.rerun()
-                            else:
-                                st.error(msg)
+        render_tab_board()
 
 
 
