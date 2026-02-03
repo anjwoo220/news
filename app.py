@@ -1743,7 +1743,9 @@ def render_tab_food():
         # 팩트체크 시작 버튼
         if st.button(utils.t("analysis_btn"), key="btn_r_factcheck", type="primary", use_container_width=True):
             with st.spinner(utils.t("analyzing")):
-                details = utils.get_restaurant_details(selected_restaurant['location_id'])
+                # Get Gemini Key for analysis
+                gemini_key = st.secrets.get("gemini_api_key")
+                details = utils.get_restaurant_details(selected_restaurant['location_id'], gemini_api_key=gemini_key)
                 st.session_state["restaurant_details"] = details
                 
                 # 히스토리 추가 (중복 제거 및 최상단)
@@ -1800,6 +1802,13 @@ def render_tab_food():
             <p style="font-size: 1rem; margin: 8px 0 0 0;">{price_text} {hours_status}</p>
         </div>
         """, unsafe_allow_html=True)
+
+        # AI One-line Verdict (MICHELIN STYLE)
+        analysis = details.get('analysis', {})
+        verdict = analysis.get('one_line_verdict') or analysis.get('verdict')
+        
+        if verdict:
+            st.info(f"🧐 **팩트체크 요약**: {verdict}")
         
         # 식당 기본 정보
         st.markdown(f"### 🍜 {details.get('name', '식당')}")
@@ -1808,13 +1817,30 @@ def render_tab_food():
         if details.get('editorial_summary'):
             st.caption(f"✨ {details.get('editorial_summary')}")
         
-        # 🔥 추천 메뉴 (리뷰 분석 결과)
         recommended_menu = details.get('recommended_menu', [])
         if recommended_menu:
             st.markdown(f"##### {utils.t('recommend_menu')}")
             menu_html = " ".join([f'<span style="background-color: #ffeaa7; padding: 4px 10px; border-radius: 12px; margin-right: 6px; font-weight: bold; color: #d63031;">#{m}</span>' for m in recommended_menu])
             st.markdown(menu_html, unsafe_allow_html=True)
             st.write("") # 간격
+        
+        # 🔔 주의사항 뱃지 (추천 메뉴 아래, 인라인 표시)
+        warnings = details.get('analysis', {}).get('warnings', [])
+        if warnings:
+            warning_html = '<div style="display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0;">'
+            for warn in warnings:
+                if warn.get('level') == 'error':
+                    badge_color = '#d63031' # Red (Strong Warning)
+                    text_color = '#fff'
+                elif warn.get('level') == 'warning':
+                    badge_color = '#e17055' # Orange
+                    text_color = '#fff'
+                else:
+                    badge_color = '#74b9ff' # Blue (Info)
+                    text_color = '#fff'
+                warning_html += f'<span style="background-color: {badge_color}; color: {text_color}; padding: 6px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 500;">{warn["message"]}</span>'
+            warning_html += '</div>'
+            st.markdown(warning_html, unsafe_allow_html=True)
         
         # 사진 갤러리 (상단 배치)
         photos = details.get('photos', [])
@@ -1871,15 +1897,7 @@ def render_tab_food():
             for c in cons:
                 st.error(f"**{c}**")
         
-        # --- ✅ 팩트체크 알림 (Warnings) ---
-        warnings = analysis.get('warnings', [])
-        if warnings:
-            with st.expander("🔔 세부 주의사항 보기"):
-                for warn in warnings:
-                    if warn['level'] == 'warning':
-                        st.warning(warn['message'])
-                    else:
-                        st.info(warn['message'])
+        # (주의사항은 이제 추천 메뉴 아래 뱃지로 표시됨)
         
         # --- 💬 베스트 리뷰 섹션 ---
         best_review = analysis.get('best_review')
@@ -1937,8 +1955,9 @@ def render_tab_food():
             h_name = h_item['name']
             h_details = h_item['details']
             h_analysis = h_details.get('analysis', {})
+            h_verdict = h_analysis.get('one_line_verdict') or h_analysis.get('verdict') or ""
             
-            with st.expander(f"🍴 {h_name} ({h_details.get('rating', 0)}⭐) - {h_analysis.get('verdict', '')}"):
+            with st.expander(f"🍴 {h_name} ({h_details.get('rating', 0)}⭐) - {h_verdict}"):
                 h_c1, h_c2 = st.columns([1, 2])
                 with h_c1:
                     # 대표 사진 하나 표시

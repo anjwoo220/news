@@ -1365,25 +1365,100 @@ def calculate_review_score(review):
     return score
 
 
-def analyze_restaurant_reviews(reviews, rating, price_level=0, name=""):
+def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=None):
     """
     리뷰 텍스트를 분석하여 장점, 단점, 한줄평을 도출합니다.
+    평점 기반의 냉정한 분석을 적용합니다.
     """
     if not reviews:
         return {
             'pros': ["정보 부족으로 장점 도출 불가"],
             'cons': ["정보 부족으로 단점 도출 불가"],
             'verdict': "데이터가 부족하여 분석할 수 없습니다.",
+            'one_line_verdict': "데이터가 부족하여 분석할 수 없습니다.",
             'warnings': [],
             'best_review': None
         }
 
-    # 키워드 사전
+    # 1. Gemini AI Analysis (If API Key provided)
+    ai_result = None
+    if api_key:
+        try:
+            reviews_text = ""
+            for r in reviews[:7]:  # 더 많은 리뷰 참조
+                text = r.get('text', '')
+                r_rating = r.get('rating', 0)
+                if text:
+                    reviews_text += f"- [{r_rating}점] {text}\n"
+
+            genai.configure(api_key=api_key)
+            model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+
+            # 평점 기반 톤 결정
+            if rating >= 4.5:
+                tone_instruction = "이 식당은 평점 4.5 이상의 '강력 추천' 급입니다. 단, 단점이 있다면 그것도 반드시 언급하세요."
+            elif rating >= 4.0:
+                tone_instruction = "이 식당은 평점 4.0~4.4의 '안정적인 선택'입니다. 장점과 단점을 균형 있게 서술하세요."
+            else:
+                tone_instruction = f"⚠️ 주의: 이 식당은 평점 {rating}점으로 4.0 미만입니다. 아무리 유명해도 '강력 추천'이라고 절대 말하지 마세요. 반드시 '명성에 비해 평점이 낮음', '호불호 갈림', '가성비 논란' 등 부정적 뉘앙스를 한줄 요약에 포함하세요."
+
+            prompt = f"""
+            당신은 냉철한 미식 비평가입니다. 광고성 멘트는 철저히 배제하고, 오직 **사실(Fact)에 기반한 팩트체크 리포트**를 작성하세요.
+
+            **[분석 대상]**
+            * 식당명: {name}
+            * 평점: {rating}점 (5점 만점)
+            * 가격대: {price_level} (1=저렴, 2=보통, 3=비쌈, 4=고급)
+            * 리뷰 데이터:
+            {reviews_text}
+            
+            **[핵심 규칙 1: 평점 기반 톤 설정]**
+            {tone_instruction}
+            
+            **[핵심 규칙 2: 구체적인 팩트 추출]**
+            - "맛있다", "가격이 비싸다" 같은 영혼 없는 요약 금지.
+            - 리뷰에 있는 **구체적인 메뉴명, 가격, 상황, 감정**을 반영하세요.
+            - 예시 (Bad): "가격이 비쌉니다." 
+            - 예시 (Good): "게살 오믈렛 4,500바트, 어지간한 호텔 뷔페 가격입니다."
+            - 예시 (Bad): "웨이팅이 깁니다."
+            - 예시 (Good): "땡볕에서 3시간 기다리다 탈진할 뻔했습니다."
+            
+            **[핵심 규칙 4: 주의사항(Warnings) 태그 추출]**
+            - 아래와 같은 실질적인 이용 팁이 있다면 "짧은 태그" 형태(10자 이내)로 추출하세요.
+            - 예시: "현금 결제만 가능", "웨이팅 김", "야외 좌석만 있음", "에어컨 없음", "합석 가능", "음식 늦게 나옴", "매움 주의", "노키즈존"
+            - 태그는 반드시 팩트에 기반해야 하며, 없으면 빈 리스트를 반환하세요.
+
+            **[출력 포맷 (JSON)]**
+            {{
+                "one_line_verdict": "위 규칙을 지킨 날카로운 한줄평 (A하지만 B한 곳 형식)",
+                "pros": ["구체적인 장점1 (메뉴명/상황 포함)", "구체적인 장점2"],
+                "cons": ["구체적인 단점1 (메뉴명/가격/상황 포함)", "구체적인 단점2"],
+                "warnings": ["주의사항 태그1", "주의사항 태그2"]
+            }}
+            """
+            
+            response = model.generate_content(prompt)
+            print(f"DEBUG: Gemini Restaurant Raw Response: {response.text}")
+            
+            # Clean JSON if wrapped in markdown
+            text = response.text.strip()
+            if text.startswith("```json"):
+                text = text.split("```json")[1].split("```")[0].strip()
+            elif text.startswith("```"):
+                text = text.split("```")[1].split("```")[0].strip()
+                
+            ai_result = json.loads(text)
+            print(f"DEBUG: Extracted AI Result: {ai_result}")
+        except Exception as e:
+            print(f"Gemini Restaurant Analysis Error: {e}")
+            ai_result = None
+
+    # 2. Keyword-based Analysis (Fallback or Complement)
     PRO_KEYWORDS = {
         "맛있다": "확실한 맛 보장 😋", "최고": "방문객 만족도 높음 👍", "친절": "친절한 서비스 ✨",
         "가성비": "훌륭한 가성비 💰", "저렴": "부담 없는 가격", "깨끗": "청결한 위생 상태 🧼",
         "분위기": "분위기 맛집 🕯️", "깔끔": "깔끔한 상차림", "신선": "신선한 재료 사용 🥗",
-        "좋아요": "전반적인 호평", "delicious": "확실한 맛 보장 😋", "fresh": "신선한 재료 🥗",
+        "좋아요": "전반적으로 호평", "delicious": "확실한 맛 보장 😋", "fresh": "신선한 재료 🥗",
         "cheap": "저렴한 가격", "kind": "친절한 서비스 ✨", "nice": "기분 좋은 방문"
     }
     
@@ -1394,11 +1469,12 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name=""):
         "queue": "긴 대기 시간 주의 ⏳", "비싸": "가격대가 높음 💸", "expensive": "가격대가 높음 💸",
         "덥다": "내부가 더운 편 🌡️", "더워": "내부가 더운 편 🌡️", "hot": "내부가 더운 편 🌡️",
         "no ac": "에어컨 없음/약함", "불친절": "서비스 아쉬움 😕", "양 적음": "양이 적을 수 있음",
-        "좁음": "공간이 협소함", "salty": "간이 센 편", "waiting": "대기 발생 가능"
+        "좁음": "공간이 협소함", "waiting": "대기 발생 가능"
     }
 
     pros = []
     cons = []
+    ai_warnings = []  # AI가 추출한 경고 태그
     all_text = ""
     scored_reviews = []
 
@@ -1416,13 +1492,12 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name=""):
                 }
             })
 
-    # 품질 점수 순으로 정렬하여 베스트 리뷰 선정
+    # 베스트 리뷰 선정
     best_review_obj = None
     if scored_reviews:
         sorted_scored = sorted(scored_reviews, key=lambda x: x['score'], reverse=True)
         best_review_obj = sorted_scored[0]['review_data']
     elif reviews:
-        # 점수 산정이 안되면 가장 첫 번째(최신) 리뷰 사용
         r = reviews[0]
         best_review_obj = {
             'text': r.get('text', ''),
@@ -1430,42 +1505,80 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name=""):
             'relative_time': r.get('relative_time_description', '최근')
         }
 
-    # 장점 추출
-    for kw, label in PRO_KEYWORDS.items():
-        if kw in all_text and label not in pros:
-            pros.append(label)
-    
-    # 단점 추출
-    for kw, label in CON_KEYWORDS.items():
-        if kw in all_text and label not in cons:
-            cons.append(label)
-
-    # 한줄평 (Verdict)
-    if rating >= 4.5:
-        verdict = "실패 없는 현지인 추천 맛집 🏆"
-    elif "웨이팅" in all_text or "대기" in all_text or "queue" in all_text:
-        verdict = "기다림을 감수할 가치가 있는 핫플 ⏳"
-    elif price_level <= 1:
-        verdict = "가성비 최고의 로컬 식당 💰"
+    # AI 결과가 있으면 사용, 없으면 키워드 기반
+    if ai_result:
+        ai_pros = ai_result.get('pros', [])
+        ai_cons = ai_result.get('cons', [])
+        ai_verdict = ai_result.get('one_line_verdict', '')
+        ai_warnings = ai_result.get('warnings', [])
+        
+        pros = ai_pros if ai_pros else pros
+        cons = ai_cons if ai_cons else cons
+        verdict = ai_verdict if ai_verdict else ""
     else:
-        verdict = f"{name or '이곳'}은(는) 방문해 볼 만한 가치가 있는 곳입니다."
+        # 키워드 기반 장단점 추출
+        for kw, label in PRO_KEYWORDS.items():
+            if kw in all_text and label not in pros:
+                pros.append(label)
+        
+        for kw, label in CON_KEYWORDS.items():
+            if kw in all_text and label not in cons:
+                cons.append(label)
+        
+        verdict = ""
 
-    # 기존 warnings 호환성 및 결과 조합
+    # 기본 한줄평 산출 (AI 평이 없을 경우 사용) - 평점 기반 분기
+    if not verdict:
+        if rating >= 4.5:
+            verdict = "실패 없는 현지인 추천 맛집 🏆"
+        elif rating >= 4.0:
+            if "웨이팅" in all_text or "대기" in all_text or "queue" in all_text:
+                verdict = "안정적인 맛이지만 웨이팅은 각오해야 하는 곳 ⏳"
+            elif price_level >= 3:
+                verdict = "맛은 보장되지만 가격대가 있는 곳 💰"
+            else:
+                verdict = f"무난하게 즐길 수 있는 {name or '맛집'}"
+        else:
+            # 4.0 미만: 반드시 부정적 뉘앙스 포함
+            if "웨이팅" in all_text or "대기" in all_text:
+                verdict = f"유명세에 비해 평점이 낮고({rating}점), 웨이팅 지옥까지 각오해야 하는 곳 ⚠️"
+            elif price_level >= 3:
+                verdict = f"명성은 있지만 사악한 가격과 {rating}점대 평점이 아쉬운 곳 💸"
+            else:
+                verdict = f"호불호가 갈리는 곳 - 평점 {rating}점으로 기대치 조절 필요 ⚠️"
+
     warnings = []
-    if "짜다" in all_text or "salty" in all_text:
-        warnings.append({'type': 'taste', 'message': '⚠️ 간이 센 편입니다 (Salty)', 'level': 'warning'})
-    if "웨이팅" in all_text or "queue" in all_text:
-        warnings.append({'type': 'waiting', 'message': '⏳ 웨이팅이 있는 핫플입니다', 'level': 'info'})
-    if "더워" in all_text or "hot" in all_text:
-        warnings.append({'type': 'hygiene', 'message': '🌡️ 내부가 더울 수 있습니다', 'level': 'warning'})
+    
+    # 1. AI 기반 경고 태그 추가 (최우선)
+    seen_warnings = set()
+    if ai_warnings:
+        for w in ai_warnings:
+             # 너무 긴 것은 자르기 (10자 이내 권장했으나 예외 처리)
+             w_clean = w[:15]
+             warnings.append({'type': 'ai_alert', 'message': f'⚠️ {w_clean}', 'level': 'warning'})
+             seen_warnings.add(w_clean)
+
+    # 2. 키워드 기반 경고 추가 (중복 방지)
+    if ("짜다" in all_text or "salty" in all_text) and "간이 셈" not in seen_warnings:
+        warnings.append({'type': 'taste', 'message': '🧂 간이 센 편', 'level': 'warning'})
+    if ("웨이팅" in all_text or "queue" in all_text) and "웨이팅" not in str(seen_warnings):
+        warnings.append({'type': 'waiting', 'message': '⏳ 웨이팅 주의', 'level': 'info'})
+    if ("더워" in all_text or "hot" in all_text) and "더움" not in seen_warnings:
+        warnings.append({'type': 'hygiene', 'message': '🌡️ 내부 더움', 'level': 'warning'})
+    
+    # 평점 4.0 미만 경고 추가
+    if rating < 4.0:
+        warnings.append({'type': 'rating', 'message': f'📉 평점 {rating}점 (호불호)', 'level': 'error'})
 
     return {
         'pros': pros[:3] if pros else ["전반적으로 무난함"],
         'cons': cons[:3] if cons else ["특별한 단점 발견되지 않음 ✨"],
         'verdict': verdict,
+        'one_line_verdict': verdict,
         'warnings': warnings,
         'best_review': best_review_obj
     }
+
 
 
 def extract_restaurant_share_summary(name, details):
@@ -1574,7 +1687,7 @@ def search_restaurants(keyword):
     return combined[:10]  # 최대 10개
 
 
-def get_restaurant_details(place_id):
+def get_restaurant_details(place_id, gemini_api_key=None):
     """
     Google Places API로 식당 상세 정보를 가져옵니다.
     캐시 우선: 먼저 캐시 확인 후 없으면 API 호출 및 캐시 저장
@@ -1683,7 +1796,7 @@ def get_restaurant_details(place_id):
         name = result_data.get('name', '')
         editorial_summary = result_data.get('editorial_summary', {}).get('text', '')
         
-        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name)
+        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name, api_key=gemini_api_key)
         recommended_menu = analyze_reviews_for_menu(reviews, editorial_summary)
         
         result = {
