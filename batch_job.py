@@ -392,6 +392,7 @@ def main():
         new_topics_count += 1
         
     save_news_to_sheet(current_news)
+    save_json(NEWS_FILE, current_news) # Fix: Missing local save
     print(f"Saved {new_topics_count} new topics to Google Sheets under key '{today_str}'")
     print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
 

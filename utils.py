@@ -2610,7 +2610,7 @@ def extract_event_from_url(url, api_key):
 
         # 2. Gemini Analysis
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash-exp')
+        model = genai.GenerativeModel('gemini-2.0-flash')
         
         prompt = f"""
         Analyze the following webpage text and extract event information.
@@ -2673,7 +2673,7 @@ def fetch_big_events_by_keywords(keywords, api_key):
     found_events = []
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    model = genai.GenerativeModel('gemini-2.0-flash')
 
     for kw in keywords:
         print(f"Checking keyword: {kw}")
@@ -3116,7 +3116,7 @@ def fetch_twitter_trends(api_key):
         
         # Analyze with Gemini
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash-exp')
+        model = genai.GenerativeModel('gemini-2.0-flash')
         
         prompt = f"""
         # Role
@@ -3454,7 +3454,7 @@ def prettify_infographic_text(category, items, api_key):
     import json
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    model = genai.GenerativeModel('gemini-2.0-flash')
     
     # Simplified inputs
     inputs = "\n".join([f"- {item['title']}" for item in items[:3]])

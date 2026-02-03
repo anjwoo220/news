@@ -352,11 +352,35 @@ def load_news_data():
     """
     Hybrid news loader for fast initial load:
     1. Try local JSON cache first (< 0.5s)
-    2. Fall back to GSheets if local is empty (8-10s)
+    2. Check if local data is fresh enough (contains today's or yesterday's news)
+    3. Fall back to GSheets if local is empty or too old (8-10s)
     """
-    # Try local cache first (instant)
+    # 1. Try local cache first
     local_data = load_local_news_cache(days=7)
+    
+    # 2. Check freshness
+    is_fresh = False
     if local_data:
+        import pytz
+        from datetime import datetime
+        now_bkk = datetime.now(pytz.timezone('Asia/Bangkok'))
+        today_str = now_bkk.strftime("%Y-%m-%d")
+        yesterday_str = (now_bkk - timedelta(days=1)).strftime("%Y-%m-%d")
+        
+        # If local has today's or yesterday's news, it's "fresh enough" for fast load
+        if today_str in local_data or yesterday_str in local_data:
+            is_fresh = True
+            
+        # Also check file modification time as escape hatch
+        if not is_fresh:
+            try:
+                mtime = os.path.getmtime(LOCAL_NEWS_CACHE)
+                # If updated within last 6 hours, don't force GSheets (prevent API flood)
+                if (datetime.now().timestamp() - mtime) < 21600:
+                    is_fresh = True
+            except: pass
+
+    if local_data and is_fresh:
         return local_data
     
     # Fallback to GSheets (slower but always up-to-date)
