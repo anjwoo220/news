@@ -362,7 +362,7 @@ def load_news_data():
     is_fresh = False
     if local_data:
         import pytz
-        from datetime import datetime
+        from datetime import datetime, timedelta
         now_bkk = datetime.now(pytz.timezone('Asia/Bangkok'))
         today_str = now_bkk.strftime("%Y-%m-%d")
         yesterday_str = (now_bkk - timedelta(days=1)).strftime("%Y-%m-%d")
