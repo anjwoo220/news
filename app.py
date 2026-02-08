@@ -3,7 +3,7 @@ import json
 import os
 import pytz
 import utils
-from datetime import datetime
+from datetime import datetime, timedelta
 import plotly.express as px
 from collections import Counter
 import hashlib
@@ -373,7 +373,6 @@ def load_news_data():
     is_fresh = False
     if local_data:
         import pytz
-        from datetime import datetime, timedelta
         now_bkk = datetime.now(pytz.timezone('Asia/Bangkok'))
         today_str = now_bkk.strftime("%Y-%m-%d")
         yesterday_str = (now_bkk - timedelta(days=1)).strftime("%Y-%m-%d")
@@ -1590,7 +1589,6 @@ def render_tab_hotel():
                              # Trip.com link
                              try:
                                  import urllib.parse
-                                 from datetime import datetime, timedelta
                                  trip_secrets = st.secrets.get("trip_com", {})
                                  aid = trip_secrets.get("alliance_id")
                                  sid = trip_secrets.get("sid")
@@ -3162,7 +3160,7 @@ if app_mode == "Admin Console":
                 st.markdown("#### 📝 새 여행 가이드 작성")
                 
                 with st.form("new_blog_form"):
-                    from datetime import datetime
+                    pass
                     import uuid
                     
                     new_id = str(uuid.uuid4())[:8]
