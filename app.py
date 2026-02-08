@@ -87,12 +87,23 @@ st.set_page_config(
     }
 )
 
-# --- API Keys Configuration ---
-# Google Maps API Key
-google_maps_key = os.environ.get("GOOGLE_MAPS_API_KEY") or st.secrets.get("google_maps_api_key") or st.secrets.get("GOOGLE_MAPS_API_KEY")
+# --- API Keys Configuration (Robust & Centralized) ---
+# 1. Google Maps API Key
+# Priority: Env -> secrets["google_maps_api_key"] -> secrets["GOOGLE_MAPS_API_KEY"] -> secrets["googlemaps_api"] (Legacy)
+google_maps_key = (
+    os.environ.get("GOOGLE_MAPS_API_KEY") 
+    or st.secrets.get("google_maps_api_key") 
+    or st.secrets.get("GOOGLE_MAPS_API_KEY")
+    or st.secrets.get("googlemaps_api")
+)
 
-# Gemini API Key
-gemini_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+# 2. Gemini API Key
+# Priority: Env -> secrets["gemini_api_key"] -> secrets["GEMINI_API_KEY"]
+gemini_key = (
+    os.environ.get("GEMINI_API_KEY") 
+    or st.secrets.get("gemini_api_key") 
+    or st.secrets.get("GEMINI_API_KEY")
+)
 
 # --- Agoda Partner Verification ---
 st.markdown('<meta name="agd-partner-manual-verification" />', unsafe_allow_html=True)
@@ -1158,7 +1169,7 @@ def render_tab_taxi():
     st.caption(utils.t("taxi_desc"))
 
     # Input & Place Search Logic
-    api_key = st.secrets.get("google_maps_api_key")
+    api_key = google_maps_key # Use centralized key
     
     # State Helpers
     def clear_origin_cands():
@@ -1363,8 +1374,11 @@ def render_tab_hotel():
     
     # 1. Search Input
     # Using global keys
-    api_key = st.secrets.get("google_maps_api_key")
-    gemini_key = st.secrets.get("gemini_api_key")
+    # 1. Search Input
+    # Using global keys
+    api_key = google_maps_key
+    # gemini_key is already global
+
 
     # State Helpers
     def clear_hotel_cands():
@@ -1744,8 +1758,13 @@ def render_tab_food():
         if st.button(utils.t("analysis_btn"), key="btn_r_factcheck", type="primary", use_container_width=True):
             with st.spinner(utils.t("analyzing")):
                 # Get Gemini Key for analysis
-                gemini_key = st.secrets.get("gemini_api_key")
+                # gemini_key is already global
                 details = utils.get_restaurant_details(selected_restaurant['location_id'], gemini_api_key=gemini_key)
+                
+                if not details:
+                    st.error(utils.t("error_loading_details"))
+                    st.stop()
+                    
                 st.session_state["restaurant_details"] = details
                 
                 # 히스토리 추가 (중복 제거 및 최상단)
@@ -1900,18 +1919,31 @@ def render_tab_food():
         # (주의사항은 이제 추천 메뉴 아래 뱃지로 표시됨)
         
         # --- 💬 베스트 리뷰 섹션 ---
-        best_review = analysis.get('best_review')
-        if best_review and isinstance(best_review, dict):
-            st.markdown("#### 💬 베스트 리뷰")
-            # 메타데이터 (평점 및 시간)
-            b_rating = best_review.get('rating', 0)
-            b_time = best_review.get('relative_time', '최근')
-            st.caption(f"⭐ {b_rating}/5 · {b_time}")
-            st.info(f"\"{best_review.get('text', '')}\"")
-        elif best_review and isinstance(best_review, str):
-            # 호환성 대응
-            st.markdown(f"#### {utils.t('best_review')}")
-            st.info(f"\"{best_review}\"")
+
+        # --- 💬 베스트 리뷰 섹션 (Top 3) ---
+        best_reviews = analysis.get('best_reviews')
+        
+        # Fallback to single review if list is missing (Legacy)
+        if not best_reviews:
+            single = analysis.get('best_review')
+            if single: best_reviews = [single]
+            
+        if best_reviews:
+            st.markdown(f"#### 💬 베스트 리뷰 ({len(best_reviews)}개)")
+            if len(best_reviews) > 1:
+                st.caption("✨ AI가 선정한 가장 유용한 리뷰들입니다.")
+            
+            for i, br in enumerate(best_reviews):
+                if isinstance(br, dict):
+                    b_rating = br.get('rating', 0)
+                    b_time = br.get('relative_time', '최근')
+                    
+                    # Create a card for each review
+                    with st.container():
+                        st.markdown(f"**Review #{i+1}** <span style='color:orange'>({b_rating}⭐)</span> <span style='color:grey; font-size:0.8em'>| {b_time}</span>", unsafe_allow_html=True)
+                        st.info(f"\"{br.get('text', '')}\"")
+                elif isinstance(br, str):
+                    st.info(f"\"{br}\"") # Legacy string support
         
         # --- 🍽️ 메뉴 정보 섹션 ---
         menu_url = details.get('menu_url')
@@ -2404,12 +2436,15 @@ if app_mode == "Admin Console":
                 with st.spinner("트위터 트렌드 분석 중... (Gemini)"):
                     api_key = os.environ.get("GEMINI_API_KEY")
                     if not api_key:
-                        # Try secrets
-                        try:
-                            import toml
-                            secrets = toml.load(".streamlit/secrets.toml")
-                            api_key = secrets.get("GEMINI_API_KEY")
-                        except: pass
+                        if not gemini_key:
+                            # Fallback for local manual config check if global failed (Safety)
+                            try:
+                                import toml
+                                secrets = toml.load(".streamlit/secrets.toml")
+                                api_key = secrets.get("GEMINI_API_KEY")
+                            except: api_key = None
+                    else:
+                        api_key = gemini_key
                     
                     if api_key:
                         result = utils.fetch_twitter_trends(api_key)
@@ -2499,7 +2534,7 @@ if app_mode == "Admin Console":
                  admin_hotel_query = st.text_input("호텔 검색 테스트 (Admin)", key="admin_hotel_search")
                  
             if st.button("검색 및 분석 테스트", key="admin_hotel_btn"):
-                 api_key = st.secrets.get("google_maps_api_key")
+                 api_key = google_maps_key
                  if not api_key:
                      st.error("Google Maps API Key 없음")
                  else:
@@ -2981,7 +3016,7 @@ if app_mode == "Admin Console":
             t_dest = t_col2.text_input("도착지 (To)", value="Asok", key="adm_taxi_dest")
             
             if st.button("계산 테스트 실행", key="adm_taxi_calc"):
-                api_key = st.secrets.get("google_maps_api_key")
+                api_key = google_maps_key
                 if not api_key: st.error("No API Key")
                 else:
                     dist, dur, err = utils.get_route_estimates(t_origin, t_dest, api_key)
@@ -3321,7 +3356,7 @@ if app_mode == "Admin Console":
                     generated_images = []
                     
                     # Generate
-                    api_key = os.environ.get("GEMINI_API_KEY") or st.secrets.get("GEMINI_API_KEY")
+                    api_key = gemini_key
                     total_cats = len(groups)
                     
                     cols = st.columns(3)

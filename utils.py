@@ -1365,7 +1365,7 @@ def calculate_review_score(review):
     return score
 
 
-def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=None):
+def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", num_reviews=0, api_key=None):
     """
     리뷰 텍스트를 분석하여 장점, 단점, 한줄평을 도출합니다.
     평점 기반의 냉정한 분석을 적용합니다.
@@ -1384,11 +1384,14 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=
     ai_result = None
     if api_key:
         try:
+            # [수다쟁이 우선 법칙] 리뷰를 길이(정보량) 순으로 정렬하여 상위 10개 선택
+            sorted_reviews = sorted(reviews, key=lambda x: len(x.get('text', '')), reverse=True)
+            
             reviews_text = ""
-            for r in reviews[:7]:  # 더 많은 리뷰 참조
+            for r in sorted_reviews[:10]:  # 상위 10개 참조
                 text = r.get('text', '')
                 r_rating = r.get('rating', 0)
-                if text:
+                if text and len(text) > 10: # 최소 10자 이상
                     reviews_text += f"- [{r_rating}점] {text}\n"
 
             genai.configure(api_key=api_key)
@@ -1403,37 +1406,52 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=
                 tone_instruction = f"⚠️ 주의: 이 식당은 평점 {rating}점으로 4.0 미만입니다. 아무리 유명해도 '강력 추천'이라고 절대 말하지 마세요. 반드시 '명성에 비해 평점이 낮음', '호불호 갈림', '가성비 논란' 등 부정적 뉘앙스를 한줄 요약에 포함하세요."
 
             prompt = f"""
-            당신은 냉철한 미식 비평가입니다. 광고성 멘트는 철저히 배제하고, 오직 **사실(Fact)에 기반한 팩트체크 리포트**를 작성하세요.
+            당신은 방콕 현지 사정에 정통한 '독설가 음식 비평가'입니다.
+            아래 제공된 [식당 정보]와 [방문자 리뷰]를 바탕으로, 가감 없는 팩트체크 리포트를 작성하세요.
 
-            **[분석 대상]**
-            * 식당명: {name}
-            * 평점: {rating}점 (5점 만점)
-            * 가격대: {price_level} (1=저렴, 2=보통, 3=비쌈, 4=고급)
-            * 리뷰 데이터:
+            ---
+            ### 🚨 [치명적 중요 지침 - Knowledge Augmentation]
+            **제공된 리뷰 데이터가 "Good", "Delicious" 처럼 짧거나 정보가 부족할 경우, 당신이 이미 알고 있는 이 식당에 대한 '외부 지식(External Knowledge)'을 적극적으로 활용하여 내용을 보강하세요.**
+
+            * **대상 식당:** {name} (유명한 곳이라면 특징을 100% 반영할 것)
+            * **예시 (와타나파닛의 경우):**
+                - 리뷰에 없더라도 "거대한 솥에서 끓고 있는 50년 된 씨육수", "위생에 대한 호불호", "에어컨 없음" 같은 특징을 반드시 언급하세요.
+                - 단순히 "맛있다"고 하지 말고 대표 메뉴(소고기 국수, 양지살 등)를 구체적으로 언급하세요.
+
+            ---
+
+            ### [분석 가이드라인]
+            1. **한줄 요약:**
+               - 형식: "**[가장 큰 장점/특징]**으로 명성이 자자하나, **[치명적 단점/호불호]**는 감수해야 하는 곳."
+               - 절대 "방문할 가치가 있다" 같은 뻔한 말 금지.
+               - 평점이 높더라도 단점을 찾아내서 균형을 맞출 것.
+
+            2. **장점 (Pros):**
+               - 추상적인 표현 금지. 구체적인 **메뉴 이름, 맛의 특징(식감, 향), 분위기**를 언급.
+
+            3. **단점 (Cons):**
+               - "단점 없음" 절대 금지.
+               - 위생, 웨이팅, 더위, 가격, 불친절, 위치 등 **불편한 진실**을 반드시 1개 이상 찾아낼 것.
+               - 만약 진짜 단점이 없다면 "너무 사람이 많아 정신없음"이라도 적을 것.
+
+            4. **주의사항 (Warnings):**
+               - 실질적인 이용 팁(현금 결제, 에어컨 유무, 웨이팅 등)을 짧은 태그로 추출.
+
+            ---
+            [식당 정보]
+            - 이름: {name}
+            - 평점: {rating}
+            - 리뷰 수: {num_reviews}
+
+            [수집된 리뷰 데이터]
             {reviews_text}
             
-            **[핵심 규칙 1: 평점 기반 톤 설정]**
-            {tone_instruction}
-            
-            **[핵심 규칙 2: 구체적인 팩트 추출]**
-            - "맛있다", "가격이 비싸다" 같은 영혼 없는 요약 금지.
-            - 리뷰에 있는 **구체적인 메뉴명, 가격, 상황, 감정**을 반영하세요.
-            - 예시 (Bad): "가격이 비쌉니다." 
-            - 예시 (Good): "게살 오믈렛 4,500바트, 어지간한 호텔 뷔페 가격입니다."
-            - 예시 (Bad): "웨이팅이 깁니다."
-            - 예시 (Good): "땡볕에서 3시간 기다리다 탈진할 뻔했습니다."
-            
-            **[핵심 규칙 4: 주의사항(Warnings) 태그 추출]**
-            - 아래와 같은 실질적인 이용 팁이 있다면 "짧은 태그" 형태(10자 이내)로 추출하세요.
-            - 예시: "현금 결제만 가능", "웨이팅 김", "야외 좌석만 있음", "에어컨 없음", "합석 가능", "음식 늦게 나옴", "매움 주의", "노키즈존"
-            - 태그는 반드시 팩트에 기반해야 하며, 없으면 빈 리스트를 반환하세요.
-
             **[출력 포맷 (JSON)]**
             {{
-                "one_line_verdict": "위 규칙을 지킨 날카로운 한줄평 (A하지만 B한 곳 형식)",
-                "pros": ["구체적인 장점1 (메뉴명/상황 포함)", "구체적인 장점2"],
-                "cons": ["구체적인 단점1 (메뉴명/가격/상황 포함)", "구체적인 단점2"],
-                "warnings": ["주의사항 태그1", "주의사항 태그2"]
+                "one_line_verdict": "위 한줄 요약 공식에 따른 날카로운 문장",
+                "pros": ["구체적인 장점1", "구체적인 장점2"],
+                "cons": ["구체적인 단점1", "구체적인 단점2"],
+                "warnings": ["주의사항1", "주의사항2"]
             }}
             """
             
@@ -1450,8 +1468,12 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=
             ai_result = json.loads(text)
             print(f"DEBUG: Extracted AI Result: {ai_result}")
         except Exception as e:
+            import traceback
             print(f"Gemini Restaurant Analysis Error: {e}")
+            print(traceback.format_exc())
             ai_result = None
+    else:
+        print("[DEBUG] No API Key provided for Restaurant Analysis")
 
     # 2. Keyword-based Analysis (Fallback or Complement)
     PRO_KEYWORDS = {
@@ -1492,18 +1514,15 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=
                 }
             })
 
-    # 베스트 리뷰 선정
-    best_review_obj = None
+    # 베스트 리뷰 선정 (Top 3)
+    best_reviews = []
     if scored_reviews:
         sorted_scored = sorted(scored_reviews, key=lambda x: x['score'], reverse=True)
-        best_review_obj = sorted_scored[0]['review_data']
+        # Top 3 추출
+        best_reviews = [item['review_data'] for item in sorted_scored[:3]]
     elif reviews:
-        r = reviews[0]
-        best_review_obj = {
-            'text': r.get('text', ''),
-            'rating': r.get('rating', 0),
-            'relative_time': r.get('relative_time_description', '최근')
-        }
+        # 점수 계산이 안 된 경우 최신순 3개
+        best_reviews = [{'text': r.get('text', ''), 'rating': r.get('rating', 0), 'relative_time': r.get('relative_time_description', '최근')} for r in reviews[:3]]
 
     # AI 결과가 있으면 사용, 없으면 키워드 기반
     if ai_result:
@@ -1576,7 +1595,8 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", api_key=
         'verdict': verdict,
         'one_line_verdict': verdict,
         'warnings': warnings,
-        'best_review': best_review_obj
+        'best_review': best_reviews[0] if best_reviews else None, # Legacy support
+        'best_reviews': best_reviews # New list support
     }
 
 
@@ -1701,10 +1721,11 @@ def get_restaurant_details(place_id, gemini_api_key=None):
     import requests
     
     # 1단계: 캐시에서 먼저 확인 (API 비용 0)
-    cached = get_cached_restaurant_details(place_id)
-    if cached:
-        print(f"✅ Cache hit for place_id: {place_id}")
-        return cached
+    # [DEBUG] 캐시 강제 무시 (새로운 프롬프트 적용 확인용)
+    # cached = get_cached_restaurant_details(place_id)
+    # if cached:
+    #     print(f"✅ Cache hit for place_id: {place_id}")
+    #     return cached
     
     # 2단계: Google Places Details API 호출 (비용 발생)
     try:
@@ -1796,7 +1817,7 @@ def get_restaurant_details(place_id, gemini_api_key=None):
         name = result_data.get('name', '')
         editorial_summary = result_data.get('editorial_summary', {}).get('text', '')
         
-        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name, api_key=gemini_api_key)
+        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name, num_reviews=num_reviews, api_key=gemini_api_key)
         recommended_menu = analyze_reviews_for_menu(reviews, editorial_summary)
         
         result = {
@@ -1830,8 +1851,10 @@ def get_restaurant_details(place_id, gemini_api_key=None):
         return result
         
     except Exception as e:
-        print(f"Google Places Details Error: {e}")
-        return None
+        import traceback
+        error_msg = f"Detailed Error: {str(e)}\n{traceback.format_exc()}"
+        print(f"Google Places Details Error: {error_msg}")
+        return None # Keep returning None, but print detailed traceback
 
 # Helper: Load Custom CSS from file
 def load_custom_css():
