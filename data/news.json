@@ -2078,14 +2078,9 @@
       "summary": "- 태국 정부가 관광 산업 활성화와 장기 체류 외국인 유치를 위해 비자 정책을 대대적으로 개편합니다.\n- 93개국 국민에게 최대 60일 무비자 입국을 허용하고, 도착 비자(VoA) 대상 국가를 31개 지역으로 확대합니다.\n- 원격 근무자를 위한 Destination Thailand Visa (DTV)와 유학 중 취업이 가능한 Non-Immigrant ED Plus 비자를 도입합니다.",
       "full_translated": "태국 정부는 관광 산업을 활성화하고 장기 체류 방문객을 유치하며 경제를 활성화하기 위해 외무부(MFA)가 제안한 포괄적인 비자 패키지를 승인했습니다. 아이야린 판릿 정부 부대변인은 이번 조치가 단계적으로 시행되며 태국의 관광객, 원격 근무자 및 장기 거주자에 대한 매력을 높이는 것을 목표로 한다고 밝혔습니다. 93개국 국민에게 최대 60일 동안 무비자 입국이 허용되고 31개 지역으로 도착 비자(VoA) 제도가 확대됨에 따라 새로운 Destination Thailand Visa (DTV)는 원격 근무자를 대상으로하며, Non-Immigrant ED Plus 비자는 외국인 학생들이 공부하면서 일할 수 있도록합니다. 중기적으로 MFA는 비이민 비자를 간소화하여 올해 8월 31일까지 카테고리를 17개에서 7개로 줄이는 것을 목표로합니다. 전자 비자 서비스는 작년 1월 1일부터 94개의 모든 태국 대사관 및 영사관으로 확대되었습니다. 출입국 관리국은 새로운 Thailand Digital Arrival Card (TDAC)를 시행했으며 향후 계획에는 VoA 제도에 8개 국가를 추가하고 장기 체류 은퇴 비자 기준을 수정하는 것이 포함됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 정책 변경은 여행객의 입국 및 체류에 직접적인 영향을 미치므로 매우 중요합니다. 특히 무비자 입국 확대 및 새로운 비자 유형 도입은 여행객 유치에 긍정적인 영향을 미칠 것입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt clears visa revamp",
@@ -2094,23 +2089,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194498_260211044946_700.jpg"
         }
       ],
-      "collected_at": "05:32",
+      "collected_at": "5:32",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194498_260211044946_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3194498/govt-clears-visa-revamp",
+      "source": ""
     },
     {
       "title": "푸껫, 설 연휴 관광객 급증 대비",
       "summary": "- 푸껫은 다가오는 중국 설 연휴 기간 동안 관광객 급증을 맞이할 준비를 하고 있으며, 연초 관광을 활성화하고 6억 바트 이상의 수익을 창출하기 위한 한 달간의 행사 프로그램을 오늘부터 시작합니다.\n- 푸껫 TAT 사무소장은 설 연휴 기간 동안 평균 호텔 점유율이 81.87%에 이를 것으로 예상하며, 관광 수입은 6억 바트를 초과할 것으로 예상한다고 밝혔습니다.\n- 주요 행사로는 태국 비엔날레 푸껫 2025 국제 현대 미술 축제, 왓 찰롱 사원 박람회, 베이 레가타 요트 경주, 푸껫 등불 축제, 푸껫 중국 설날 축제 등이 있습니다.",
       "full_translated": "푸껫은 다가오는 중국 설 연휴 기간 동안 관광객 급증을 맞이할 준비를 하고 있으며, 연초 관광을 활성화하고 6억 바트 이상의 수익을 창출하기 위한 한 달간의 행사 프로그램을 오늘부터 시작합니다. 시리완 시하라트 푸껫 TAT 사무소장은 설 연휴 기간 동안 평균 호텔 점유율이 81.87%에 이를 것으로 예상하며, 관광 수입은 6억 바트를 초과할 것으로 예상한다고 밝혔습니다. 여행 수요는 축제 기간 내내 섬 전역에서 열리는 다양한 문화 및 관광 활동에 의해 주도되고 있습니다. 주요 행사로는 4월 말까지 진행되는 태국 비엔날레 푸껫 2025 국제 현대 미술 축제, 2월 16일부터 22일까지 왓 차이아타라람에서 열리는 연례 왓 찰롱 사원 박람회, 2월 18일부터 22일까지 열리는 제29회 베이 레가타 요트 경주, 2월 11일부터 3월 3일까지 열리는 푸껫 등불 축제, 2월 22일부터 24일까지 푸껫 올드 타운에서 열리는 푸껫 중국 설날 축제 '두안 삼 반 라오' 등이 있습니다. 올드 타운의 중국 설날 축제는 푸껫의 대표적인 행사 중 하나로, 문화 공연, 전통 의식, 쇼핑 및 음식 활동을 통해 섬의 독특한 중국-푸껫 유산을 선보이며 활기찬 축제 분위기를 조성합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "설 연휴 기간 동안 푸껫 방문객 증가 예상 및 관련 행사 정보 제공. 여행객들에게 유용한 정보이며, 축제 기간과 장소를 명시하여 여행 계획에 도움을 줄 수 있음.",
-      "event_info": {
-        "date": "2026-02-17",
-        "location": "푸껫 전역 (주요: 올드 타운, 왓 찰롱)",
-        "price": "정보 없음",
-        "location_google_map_query": "Phuket Old Town, Wat Chalong"
-      },
+      "event_info": "{'date': '2026-02-17', 'location': '푸껫 전역 (주요: 올드 타운, 왓 찰롱)', 'price': '정보 없음', 'location_google_map_query': 'Phuket Old Town, Wat Chalong'}",
       "references": [
         {
           "title": "Phuket gears up for CNY tourism surge",
@@ -2119,23 +2111,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "05:32",
+      "collected_at": "5:32",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3194673/phuket-gears-up-for-cny-tourism-surge",
+      "source": ""
     },
     {
       "title": "쿠바, 미국 제재로 항공기 연료 부족 경고",
       "summary": "- 쿠바 정부는 미국의 제재로 인해 항공기 연료 공급에 차질이 생길 것이라고 경고했습니다.\n- 미국은 베네수엘라와 멕시코로부터의 연료 접근을 차단하여 쿠바의 에너지 위기를 심화시켰습니다.\n- 일부 항공사는 이미 쿠바행 항공편을 중단하거나 경고를 발표했습니다.",
       "full_translated": "쿠바 당국은 미국이 베네수엘라와 멕시코의 석유 공급원을 차단한 후 국내 공항에서 장거리 항공편에 대한 연료 보급 서비스가 중단될 것이라고 경고했습니다. 외신은 2569년 2월 10일 쿠바 항공 당국이 항공사에 섬에서 항공기 연료를 보급할 연료가 충분하지 않다고 경고했다고 보도했습니다. 이는 미국이 국가 연료 공급원을 차단한 후 쿠바의 에너지 절약 노력의 최신 움직임입니다. 쿠바 정부는 일요일 밤 항공사와 조종사에게 경고를 발표하여 하바나에 있는 호세 마르티 국제공항을 포함하여 섬 전체의 9개 공항에서 2월 10일 화요일부터 3월 11일까지 연료를 사용할 수 없다고 경고했습니다. 쿠바의 최신 움직임은 도널드 트럼프 미국 대통령 정부가 라틴 아메리카 지역에 큰 압력을 가하고 1월 말 베네수엘라와 멕시코의 쿠바 주요 석유 공급원에 대한 접근을 완전히 차단한 후에 발생했습니다. 트럼프는 쿠바에 석유를 판매하거나 공급하는 국가에서 수입하는 모든 상품에 관세를 부과하는 행정 명령에 서명하여 쿠바의 에너지 위기를 더욱 악화시켰습니다. 쿠바의 최신 에너지 배급 조치는 지역 내 단거리 항공편에는 영향을 미치지 않지만 러시아 및 캐나다와 같은 국가의 장거리 항공편에 큰 어려움을 초래합니다. 월요일에 에어 캐나다는 쿠바로의 항공편을 중단한다고 발표했고 다른 항공사들은 주의를 주었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "미국 제재로 인한 쿠바 연료 부족은 쿠바를 여행하는 여행객들에게 항공편 취소나 지연 등의 영향을 줄 수 있으므로 여행객에게 중요한 정보입니다. 연료 부족 기간 정보 포함.",
-      "event_info": {
-        "date": "2025-02-10 ~ 2025-03-11",
-        "location": "쿠바 전역 공항 (하바나 호세 마르티 국제공항 포함)",
-        "price": null,
-        "location_google_map_query": "Jose Marti International Airport Havana"
-      },
+      "event_info": "{'date': '2025-02-10 ~ 2025-03-11', 'location': '쿠바 전역 공항 (하바나 호세 마르티 국제공항 포함)', 'price': None, 'location_google_map_query': 'Jose Marti International Airport Havana'}",
       "references": [
         {
           "title": "คิวบาเตือน เชื้อเพลิงไม่พอเติมเครื่องบินแล้ว หลังสหรัฐฯ ตัดการเข้าถึง",
@@ -2144,23 +2133,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q7Qu4cogua1z.jpg"
         }
       ],
-      "collected_at": "05:32",
+      "collected_at": "5:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q7Qu4cogua1z.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/foreign/2913468",
+      "source": ""
     },
     {
       "title": "짜뚜짝 시장 화재, 안전 점검 및 상인 지원",
       "summary": "- 방콕 짜뚜짝 시장에서 화재 발생, 상점 다수 피해.\n- 당국은 긴급 안전 점검 명령, 피해 상인 지원책 마련.\n- 화재 원인은 전기 단락 추정, 인명 피해는 없음.",
       "full_translated": "방콕 짜뚜짝 지역 사무소는 상점 수십 곳에 피해를 준 화재 이후 짜뚜짝 주말 시장의 안전 조치에 대한 긴급 검토를 명령했습니다. 당국은 한편 잠재적인 임대료 감면을 포함하여 피해를 입은 상인들에게 구제책을 제공하기 위해 움직였습니다.\n\n월요일 오후 10시 24분경 게이트 1 근처에서 발생한 화재로 마켓 프로젝트 17, 소이 9/2–4에서 약 240제곱미터가 손상되었습니다. 경찰은 화재 원인이 최근 며칠 동안 두 번째 발생한 전기 단락일 가능성이 높다고 밝혔습니다. 소방대원 10명이 약 30분 동안 화재를 진압했습니다. 부상자는 보고되지 않았습니다.\n\n초기 평가 결과 48개 상점이 피해를 입었고, 그중 28개 상점이 완전히 파괴되었으며 32명의 상인이 손실을 입었습니다. 피해를 입은 상인은 보상 청구를 뒷받침하기 위해 상점 소유권 또는 임대 계약을 증명하는 서류와 경찰 보고서를 제출해야 합니다. 지원 조치는 1주일 이내에 확정될 것으로 예상됩니다.\n\n초기 구제 조치로 구는 수요일로 예정된 소위원회 회의 후 기간을 결정하여 임대료 감면을 고려하고 있습니다. 추가 지원에는 운전 자본에 대한 접근과 손실을 완화하기 위해 기존 재고를 계속 거래하거나 새로운 상품을 도입할 수 있도록 시장 내 다른 구역으로 상인을 재배치하는 것이 포함될 것으로 예상됩니다. 방콕 메트로폴리탄 행정부 관리와 시장 사무소도",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "짜뚜짝 시장은 관광객 방문이 많은 곳으로 화재 발생은 여행 안전에 영향을 줄 수 있음. 상인 지원 및 안전 점검 관련 정보는 여행객에게 필요.",
-      "event_info": {
-        "date": "2026-02-10",
-        "location": "짜뚜짝 주말 시장",
-        "price": null,
-        "location_google_map_query": "Chatuchak Weekend Market"
-      },
+      "event_info": "{'date': '2026-02-10', 'location': '짜뚜짝 주말 시장', 'price': None, 'location_google_map_query': 'Chatuchak Weekend Market'}",
       "references": [
         {
           "title": "Chatuchak fire prompts safety review, vendor relief",
@@ -2169,23 +2155,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194563_260211050546_700.jpg"
         }
       ],
-      "collected_at": "05:32",
+      "collected_at": "5:32",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194563_260211050546_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3194563/chatuchak-fire-prompts-safety-review-vendor-relief",
+      "source": ""
     },
     {
       "title": "외국 자금 유입으로 바트화 강세, 시장 활황",
       "summary": "- 외국인 자금 유입 증가로 바트화가 달러 대비 강세를 보일 것으로 예상됨.\n- 태국의 정치적 불확실성 완화로 투자 심리가 개선됨.\n- 올해 들어 외국인 자금이 태국 채권 시장에 534억 바트, 주식 시장에 314억 바트 유입됨.",
       "full_translated": "외국 자금 유입으로 바트화 강세, 시장 활황\n\n2026년 2월 11일 05:24 게시\n\n나리랏 위리야퐁 기자: 2월 8일 선거 이후 주식 및 채권 시장으로의 지속적인 외국 자금 유입은 태국의 정치적 불확실성이 완화됨에 따라 바트화가 달러 대비 31 이상으로 상승하도록 압력을 가할 가능성이 있다고 전문가들은 말합니다. 카시콘 리서치 센터(K-Research)에 따르면 올해 초부터 2월 9일까지 태국 채권 시장은 534억 바트 상당의 외국 자금을 유치했으며, 같은 기간 동안 태국 증권 거래소(SET)에는 314억 바트가 유입되었습니다. 월요일 하루에만 SET는 165억 바트의 외국 자금을 유치했으며 채권 매입액은 31억 3천만 바트에 달했습니다. 강력한 자금 유입은 화요일 태국 통화 가치를 달러당 31.10바트로 상승시켰는데, 이는 월요일 마감가인 달러당 31.23바트와 금요일 31.65바트에서 상승한 것입니다. K-Research의 은행 및 금융 부문 책임자인 칸자나 촉피산신은 \"국내 정치 상황이 안정됨에 따라 외국 자금이 채권 및 주식 시장으로 유입되었습니다.\"라고 말했습니다. SCB Financial Markets의 선임 금융 시장 전략가인 와치라왓 반추엔은 새로운 정부가 이전 정부보다 더 안정적일 것이고 현재의 경제 정책을 계속할 것이라는 기대감에 투자자 신뢰가 급증함에 따라 바트화가 더욱 상승하여 잠재적으로 달러당 30.85바트에 도달할 것이라고 말했습니다. 바트화를 지지하는 다른 요인으로는 글로벌 금 가격 반등, 지속적인 달러 약세, 엔화 강세 등이 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "환율 변동은 여행 경비에 영향을 미치므로 정보 제공 가치가 있음. 아침 시간대이므로, 오늘 하루 환율 변동 가능성을 언급하는 것이 유용함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Foreign funds drive baht gains, market rally",
@@ -2194,8 +2177,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194683_260211052508_700.jpg"
         }
       ],
-      "collected_at": "05:32",
+      "collected_at": "5:32",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194683_260211052508_700.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/business/investment/3194683/foreign-funds-drive-baht-gains-market-rally",
+      "source": ""
+    },
+    {
+      "title": "파타야, 중국 설 연휴 특수 기대",
+      "summary": "- 파타야 관광 업계는 중국 설 연휴 기간 동안 외국인 관광객 증가를 기대하고 있음.\n- 특히 장거리 여행객이 80%를 차지하며, 호텔 점유율은 90%에 육박할 것으로 예상.\n- 중국인 관광객 수는 예전만큼 많지 않겠지만, 태국계 중국인 관광객들은 2월 15일부터 17일 사이에 파타야에 머물 것으로 예상.",
+      "full_translated": "파타야 관광 업계는 다음 주에 다가오는 중국 설 연휴에 작년과 비슷한 상황을 기대하고 있지만, 치앙마이는 중국어권 시장에서 급증할 것으로 예상합니다. 올해 들어 현재까지 관광객 수는 10.8% 감소했습니다. 촌부리 관광 연맹 회장인 타넷 수폰사하스룽시는 파타야 사업자들이 이번 휴가 동안 많은 수의 외국인 관광객, 특히 장거리 시장에서 80%를 차지하며 호텔 점유율이 90%에 가까워질 것으로 예상한다고 말했습니다. 그는 중국인 관광객들이 도시를 방문할 것으로 예상되지만, 많은 사람들이 다른 목적지로 이동하거나 중국 내에서 여행하기 때문에 예전만큼 많은 수는 아닐 것이라고 말했습니다. 국내 시장의 경우 태국계 중국인 관광객들은 2월 15일부터 17일 사이에 파타야에 며칠 동안 머물 것으로 예상된다고 타넷 씨는 말했습니다. 한편, 치앙마이는 2025년 중국 배우 납치 사건으로 관광객 신뢰도가 저하되었던 2025년 중국 설 연휴에 비해 개선될 것으로 예상됩니다. 치앙마이 상공회의소 부회장인 품롭 새주에 따르면 이 지역은 일반적인 성수기에 비해 중국 설 연휴 기간 동안 20~30% 더 많은 예약률을 기록할 수 있습니다. 호텔은 평균 80%의 점유율을 확보할 것으로 예상되는데, 이는 호텔이 완전히 예약되었던 러이 끄라통 축제만큼 강력하지는 않습니다. 이러한 성장은 다음과 같은 요인에 의해 주도될 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중국 설 연휴 기간 파타야 관광객 증가 예상은 여행객에게 숙박 및 교통 혼잡에 대한 정보를 제공하므로.",
+      "event_info": {
+        "date": "2026-02-15 ~ 2026-02-17",
+        "location": "파타야",
+        "price": "정보 없음",
+        "location_google_map_query": "파타야 호텔"
+      },
+      "references": [
+        {
+          "title": "Pattaya banking on Chinese New Year boost",
+          "url": "https://www.bangkokpost.com/business/general/3194603/pattaya-banking-on-chinese-new-year-boost",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962253_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962253_700.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "UOB 태국, 정치 안정과 정책 실행이 태국 경제 성장의 핵심",
+      "summary": "- UOB 태국은 새 정부의 정책 실행이 투자자 신뢰 구축과 외국인 투자 유치에 중요하다고 강조함.\n- 2026년 GDP 성장률을 1.8%로 예측하며, 관광 산업을 주요 성장 동력으로 봄.\n- 원활한 행정과 효과적인 정책 실행이 뒷받침된다면 경제 성장률은 1.8% 이상으로 증가할 수 있다고 전망.",
+      "full_translated": "UOB 태국: 경제 성장은 안정성에 달려있다\n\n꾸준한 정책 실행이 투자 유치를 이끌 수 있습니다.\n\nUOB 태국에 따르면 새 정부 정책의 효과적인 실행은 투자자 신뢰를 구축하고 태국으로의 외국 포트폴리오 유입과 외국인 직접 투자(FDI)를 유치하는 데 매우 중요합니다. 일요일 총선 이후 국내 정치적 불확실성이 완화되었고, 이는 국내 증시의 큰 상승세에 반영되었습니다. UOB 태국의 예금 및 자산 관리 책임자인 에이블 림은 이러한 긍정적인 모멘텀은 새 정부의 원활한 구성과 정책의 효과적인 실행에 달려 있다고 말했습니다. 품자이타이당이 선거에서 승리하고 새 정부 구성을 주도함에 따라 기존 경제 정책은 초기 단계에서 계속되어 태국 경제 성장을 지원하고 외국 자본 유입과 FDI를 유치하는 데 도움이 될 것으로 예상됩니다. 올해 UOB 태국은 GDP 성장률을 1.8%로 예측하며, 이는 국가 잠재 성장률인 2.7%보다 낮습니다. 은행은 원활한 행정과 효과적인 정책 실행을 가정하면 경제 성장률이 이 기준선을 초과할 수 있다고 언급했습니다. UOB 태국은 기준선 예측이 부문별 강점과 구조적 과제의 조합을 반영한다고 밝혔습니다. 관광 산업이 주도하는 서비스 부문은 주요 성장 동력으로 유지될 것으로 예상됩니다. 한편 제조업 부문은 새로운 S자형 산업으로 현대화하고 전환해야 하는 압력에 직면해 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황에 대한 정보는 여행 관련 서비스 및 물가에 간접적인 영향을 줄 수 있지만, 당장 여행객에게 직접적인 영향을 미치지는 않음. 따라서 보통 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UOB: Economic growth depends on stability",
+          "url": "https://www.bangkokpost.com/business/general/3194688/uob-economic-growth-depends-on-stability",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962313_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962313_700.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "BJT 승리, 보수 진영에 유리하게 작용",
+      "summary": "- 태국 총선에서 Bhumjaithai Party (BJT)의 결정적인 승리는 보수 진영의 승리를 의미한다는 분석이 나옴.\n- 민족주의 정서 강화와 지역 정치 세력의 전략적 통합이 승리에 기여했다는 평가.\n- 학자들은 이번 승리가 단기적인 우위를 확보하기 위한 전략적 선택이며, 장기적인 이념적 안정과는 거리가 멀다고 경고.",
+      "full_translated": "태국 총선 결과는 정치 분석가들 사이에서 열띤 논쟁을 불러일으켰으며, 많은 이들이 Bhumjaithai Party (BJT)의 결정적인 승리가 고조되는 민족주의 정서와 지역 정치 권력 기반(ban yai, 영향력 있는 정치 클랜)의 전략적 통합에 의해 강화된 보수 진영의 승리를 의미한다고 결론지었습니다. 승리는 압도적이었지만, 학자들은 이것이 영구적이지도 않고 미래의 충격에 면역되지도 않는다고 경고합니다. 부라파 대학교 정치 과학 및 법학부 강사인 올란 틴방티에오는 이번 선거가 보수 세력의 승리로 읽혀야 하지만 취약한 승리라고 말했습니다. 그는 안주에 대해 경고하면서 결과는 장기적인 이념적 안정보다는 단기적인 지배력을 확보하기 위한 \"전략적 선거 승리\"에 해당한다고 주장했습니다. 올란 씨는 \"BJT의 중심 과제는 이제 보수 진영을 위한 견고한 토대를 마련하는 것입니다.\"라고 말했습니다. \"이는 특히 당이 보수 정치의 선봉으로 인정받고 있는 지금 아이디어, 정책 프레임워크 및 제도적 기반에 대해 진지하게 작업하는 것을 의미합니다.\" 올란 씨에 따르면 유권자 행동을 형성하는 핵심 요소 중 하나는 민주당 지도자 아피싯 웨차치와의 후반 캠페인 모멘텀 붕괴였으며, 그는 갑작스럽고 어려운 일이라고 설명했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향을 미치는 정보는 아님. 다만, 정치적 상황에 따라 여행 심리에 영향을 줄 수 있으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BJT win bodes well for conservatives",
+          "url": "https://www.bangkokpost.com/thailand/special-reports/3194623/bjt-win-bodes-well-for-conservatives",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194623_260211045602_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194623_260211045602_700.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "소수 정당 대표, 주목의 중심에 서다",
+      "summary": "- 타이 Ruam Palang Party는 BJT 주도 연합에서 중요한 역할을 할 수 있습니다.\n- Wasawat Poungponsri 대표는 선거 결과 발표 이후 주목받는 인물입니다.\n- 그의 당은 하원 의석 6석을 확보하며 지지 기반을 넓히고 있습니다.",
+      "full_translated": "태국 Ruam Palang Party는 강력한 풀뿌리 지지를 바탕으로 BJT 주도 연합에서 핵심적인 역할을 할 수 있습니다. Wasawat Poungponsri 대표는 일요일 선거 결과 발표 이후 태국의 소규모 정당 중 가장 주목받는 인물 중 한 명으로 부상했습니다. 이들은 Bhumjaithai 주도 연립 정부의 구성과 안정에 매우 중요하다고 여겨집니다. Ubon Ratchathani에 기반을 둔 5년 된 Thai Ruam Palang Party는 총선에서 하원 의석 6석(지역구 5석, 비례대표 1석)을 확보했습니다. Pheu Thai, Bhumjaithai, Chartthaipattana와 같은 거대 정당이 전통적으로 장악했던 지역구에서 얻은 성과는 특히 Lower Northeast에서 풀뿌리 지지 기반이 성장하고 있음을 보여줍니다. '쿵푸'라는 별명으로 널리 알려진 Wasawat 씨는 특히 Nam Yuen 및 Muang Sam Sip 지역에서 Ubon Ratchathani의 떠오르는 지역 정치인으로 두각을 나타냈습니다. 친근한 차세대 정치인으로 묘사되는 그는 당의 Isan 전략과 지속 가능한 지역 기반을 구축하기 위한 노력의 원동력으로 여겨집니다. 농촌 지역 사회에 잘 알려진 그는 현재 거주하고 있는 Nam Yuen에서 국경 지역 주민들과 수년간 교류해 왔습니다. 2025년 7월에서 12월 사이에 태국-캄보디아 국경을 따라 긴장이 고조되는 가운데 그는 주민들의 대피 및 지원에 적극적으로 참여했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Leader of small party draws focus",
+          "url": "https://www.bangkokpost.com/thailand/politics/3194773/leader-of-small-party-draws-focus",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194773_260211050034_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194773_260211050034_700.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "태국 가전제품 판매 부진, 경제 침체 지속",
+      "summary": "- 태국 경제 침체로 가전제품 시장이 정체될 것으로 예상됨.\n- 하이얼, 혁신 제품 출시로 성장 유지 목표, 가격 경쟁 지양.\n- 삼성, 상업용 세탁기 시장 진출 및 프리미엄 냉장고 라인 강화.",
+      "full_translated": "태국의 경기 침체가 올해에도 가전 산업에 그림자를 드리우고 있지만, 따뜻한 날씨와 월드컵이 판매를 촉진할 수 있습니다. 하이얼 전기 제품(태국) 유한회사의 동 지안핑 사장은 태국의 느린 GDP 성장과 높은 가계 부채를 감안할 때 태국 시장이 작년과 비교하여 정체되거나 소폭 감소할 것으로 예상한다고 밝혔습니다. 국가경제사회개발위원회에 따르면 2025년 2분기 태국의 가계 부채 대 GDP 비율은 86.8%였습니다. 카시콘 리서치 센터는 올해 태국의 GDP 성장률을 1.6%로 예측했습니다. 어려운 상황 속에서 하이얼은 혁신적인 제품을 지속적으로 시장에 출시하여 성장을 유지하는 것을 목표로 하고 있습니다. 시장에서 가격 전쟁이 벌어질 가능성이 있지만, 이러한 전략은 장기적으로 긍정적이지 않다고 그는 말했습니다. 하이얼은 이러한 전술에 참여하지 않고 제품 가치에 집중할 것이라고 지안핑 씨는 말했습니다. 태국 삼성전자는 세탁소 운영자에게 제품을 공급하여 올해 상업용 세탁기 부문에 진출할 계획입니다. 태국 삼성전자 가전 및 소비자 가전 책임자인 사라트 악사랄리킷산티는 한국에서 제품을 수입할 것이라고 밝혔습니다. 냉장고의 경우 멀티 도어 및 사이드 바이 사이드 모델을 포함한 프리미엄 카테고리에서 입지를 강화하는 것을 목표로 하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 2,
+      "impact_reason": "가전제품 판매 동향은 여행객에게 직접적인 영향은 적지만, 전반적인 경제 상황을 간접적으로 보여줌. 새로운 정보이므로 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Electrical goods sales flat due to stagnant economy",
+          "url": "https://www.bangkokpost.com/business/general/3194578/electrical-goods-sales-flat-due-to-stagnant-economy",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962238_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962238_700.jpg",
       "date": "2026-02-11"
     }
   ]
