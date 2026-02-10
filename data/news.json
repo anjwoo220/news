@@ -1859,14 +1859,9 @@
       "summary": "- 2026년 2월 10일 오후 4시 45분경, 스리라차에서 불법 유턴 차량으로 인해 오토바이와 충돌 사고 발생.\n- 오토바이 운전자와 동승자, 모두 중학교 2학년 학생으로 부상을 입고 병원으로 이송됨.\n- 79세 운전자는 사고 현장에 남아 경찰 조사에 협조함. 사고는 렉서스 차량이 갑자기 U턴을 하면서 발생.",
       "full_translated": "2026년 2월 10일 오후 4시 45분경, 농캄 부지구의 사크 코-농캄 도로에서 사고가 발생했습니다. Sawang Prathip Sriracha Foundation의 구조대원들이 현장에 출동했으며, 오토바이가 승용차와 충돌하여 두 명의 부상자가 발생했습니다. 현장에서 경찰은 흰색 혼다 리드 오토바이가 도로 중앙에 전복되어 앞부분이 심하게 손상된 것을 발견했습니다. 피해자 두 명은 모두 수라삭 부지구의 학교에 다니는 중학교 2학년 학생으로, 포장 도로에 부상을 입고 누워 있었습니다. 그들은 다발성 상처, 몸의 통증, 목의 긴장을 겪었습니다. 근처에는 약 79세의 마낫 부아추 씨가 운전하는 청동색-은색 렉서스 RX330 SUV가 있었습니다. 차량의 오른쪽 앞 펜더에는 명확한 충돌 흔적이 있었습니다. 마낫 씨는 현장에 남아 경찰에 협조했습니다. 구조팀은 두 학생에게 응급 처치를 제공한 후 추가 치료를 위해 Somdet Phra Borom Ratchathewi Na Sriracha Hospital로 이송했습니다. 다른 차량의 블랙박스 영상에서 사건의 전개가 드러났습니다. 학생들의 오토바이는 직진으로 주행하고 있었고, 렉서스 세단이 갑자기 U턴을 하면서 차선을 막았을 때 다른 차량을 추월했습니다. 오토바이는 렉서스 오른쪽 앞부분을 전속력으로 들이받았습니다. 충격은 심각했고, 뒷좌석 승객은 공중으로 튕겨 올라 차체에 부딪힌 후 바닥에 떨어졌습니다. 오토바이 운전자는 잔해에 갇혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객들이 이용하는 지역에서 발생한 교통사고 소식으로, 안전에 대한 경각심을 높일 필요가 있음. 특히 오토바이 이용 시 주의를 요함.",
-      "event_info": {
-        "date": "2026-02-10",
-        "location": "Sak Kho-Nong Kham Road, Sri Racha",
-        "price": null,
-        "location_google_map_query": "Sak Kho-Nong Kham Road, Sri Racha"
-      },
+      "event_info": "{'date': '2026-02-10', 'location': 'Sak Kho-Nong Kham Road, Sri Racha', 'price': None, 'location_google_map_query': 'Sak Kho-Nong Kham Road, Sri Racha'}",
       "references": [
         {
           "title": "Dashcam Captures Moment Sedan Makes Illegal U-Turn in Sri Racha, Blocking Road and Causing Motorcycle Crash with Two Young Students Injured",
@@ -1875,23 +1870,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707287088254707316032353772630.jpg?v=1770728828"
         }
       ],
-      "collected_at": "03:37",
+      "collected_at": "3:37",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707287088254707316032353772630.jpg?v=1770728828",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://thepattayanews.com/2026/02/10/dashcam-captures-moment-sedan-makes-illegal-u-turn-in-sri-racha-blocking-road-and-causing-motorcycle-crash-with-two-young-students-injured/",
+      "source": ""
     },
     {
       "title": "촌부리에서 제25회 자연농업 박람회 개막: 왕실 영감의 지속 가능한 농업 및 전국 제품 홍보",
       "summary": "- 촌부리에서 2026년 2월 9일부터 15일까지 자연농업 박람회가 개최됩니다.\n- 이 박람회는 고(故) 푸미폰 아둔야뎃 국왕의 업적을 기리고 자연 농업 기술을 공유합니다.\n- 다양한 활동과 함께 전국 각지의 농산물 및 OTOP 제품을 저렴하게 구매할 수 있습니다.",
       "full_translated": "촌부리에서 제25회 자연농업 박람회가 개막했습니다. 학습 진흥부 국장인 케사팁 수파와니시 박사는 '잘 심고, 잘 행하여, 어머니의 땅에 바치다'라는 주제로 행사의 개막식을 주재했습니다. 촌부리 부지사인 퐁타싯 피자난트는 참석자들에게 환영사를 전했습니다. 박람회는 2026년 2월 9일부터 15일까지 진행되며, 태국 국민을 향한 고(故) 푸미폰 아둔야뎃 국왕의 왕실 구상과 왕실 임무를 전파하는 것을 목표로 합니다. 자연 농업 관행 및 관련 기술에 대한 지식을 공유하는 플랫폼 역할을 하며, 자연 농업 생산자와 소비자를 직접 연결하는 시장 역할을 합니다. 행사 전반에 걸쳐 다양한 활동이 진행됩니다. \n\n- 고(故) 국왕을 기리는 전시회\n- 그림 그리기 및 색칠하기 대회\n- 자연 재배 채소 경연 대회\n- 채소밭 심기 대회\n- 학술 세미나\n- 학생 및 대학교 활동\n- 소득 창출 직업 라이브 시연\n- 전국 각지의 신선하고 깨끗하며 안전하고 저렴한 농산물과 OTOP(One Tambon, One Product) 품목을 쇼핑, 시식 및 휴식을 취할 수 있는 기회\n\n이 행사는 왕실 개발 프로젝트에서 영감을 받은 지속 가능한 무화학 농업 방식에 중점을 두고 안전한 농업 관행과 태국 농민에 대한 직접적인 지원을 장려합니다. 자세한 내용이나 문의 사항은 학습 진흥부 담당자에게 문의하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 농산물 및 OTOP 제품을 접할 수 있는 기회이며, 촌부리 방문객에게 흥미로운 행사가 될 수 있습니다.",
-      "event_info": {
-        "date": "2026-02-09 ~ 2026-02-15",
-        "location": "촌부리",
-        "price": "무료",
-        "location_google_map_query": "Chonburi"
-      },
+      "event_info": "{'date': '2026-02-09 ~ 2026-02-15', 'location': '촌부리', 'price': '무료', 'location_google_map_query': 'Chonburi'}",
       "references": [
         {
           "title": "25th Natural Agriculture Fair Opens in Chonburi: Promoting Royal-Inspired Sustainable Farming and Nationwide Products",
@@ -1899,22 +1891,20 @@
           "source": "The Pattaya News"
         }
       ],
-      "collected_at": "03:37",
-      "date": "2026-02-11"
+      "collected_at": "3:37",
+      "image_url": "",
+      "date": "2026-02-11",
+      "link": "https://thepattayanews.com/2026/02/10/25th-natural-agriculture-fair-opens-in-chonburi-promoting-royal-inspired-farming-and-nationwide-products/",
+      "source": ""
     },
     {
       "title": "카오키여우 동물원의 인기쟁이 아기 하마 '무댕', 흰색 욕조에서 물놀이",
       "summary": "- 카오키여우 동물원의 아기 하마 '무댕'이 흰색 욕조에서 즐거운 시간을 보내는 모습이 공개됨.\n- 무럭무럭 자라는 '무댕'이지만 여전히 작은 욕조에 몸을 구겨 넣는 것을 좋아함.\n- 방문객들은 '무댕'의 건강하고 귀여운 모습에 감탄하며 큰 호응을 보내고 있음.",
       "full_translated": "카오키여우 동물원에서 촬영된 최신 영상에서 아기 하마 '무댕'은 활기 넘치는 모습으로 흰색 욕조에서 상쾌하게 물놀이를 즐기고 있습니다. 빠른 성장에도 불구하고 어린 피그미 하마는 좋아하는 욕조에 몸을 쑤셔 넣는 것을 고집하며 개인적인 휴식 의식을 즐기려 합니다. 카오키여우 동물원 원장 나롱윗 초초이는 팬들이 이제 '무댕'의 편안한 시간을 목격하고 있다고 밝혔습니다. 그는 \"몸이 너무 커져서 욕조가 눈에 띄게 작아 보이지만 여전히 사랑하는 욕조에 들어가기 위해 진짜 노력을 기울입니다.\"라고 말했습니다. \"하지만 여전히 최고의 행복을 위해 뛰어들어 입을 크게 벌려 물을 잡고 제한된 공간 안에서 뛰어난 민첩성으로 장난스럽게 뛰어다닙니다.\" 사육사들은 가까이에서 미스트와 물을 부드럽게 뿌려 세션 내내 시원하고 상쾌하게 유지합니다. 욕조에서 휴식을 취하려는 이러한 결정적인 시도는 주요 하이라이트가 되어 현장에서 장면을 목격하는 방문객들로부터 많은 '어머'와 애정을 불러일으키고 있습니다. 이번에 팬들의 마음을 진정으로 녹이는 것은 '무댕'의 빛나고 매끄럽고 건강해 보이는 피부로, 활기찬 나이에 전형적인 피그미 하마 스타일로 윤기가 흐르고 흠잡을 데가 없습니다. 욕조에 있는 동안 카메라를 올려다보는 그녀의 크고 순수한 눈빛은 자라나는 몸을 최대한 편안하게 구부리고 조정하려는 끈기 있는 노력과 결합되어 거부할 수 없을 정도로 귀여운 모습을 연출합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물원 방문객들에게 즐거움을 주는 소식이지만, 여행에 필수적인 정보는 아님. 카오키여우 동물원 방문 예정이라면 흥미로운 볼거리.",
-      "event_info": {
-        "date": null,
-        "location": "Khao Kheow Open Zoo, 태국",
-        "price": null,
-        "location_google_map_query": "Khao Kheow Open Zoo"
-      },
+      "event_info": "{'date': None, 'location': 'Khao Kheow Open Zoo, 태국', 'price': None, 'location_google_map_query': 'Khao Kheow Open Zoo'}",
       "references": [
         {
           "title": "Viral Pygmy Hippo Moo Deng Splashes in Her Favorite White Tub at Khao Kheow Open Zoo",
@@ -1923,23 +1913,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707317053977816958818998985210.jpg?v=1770731816"
         }
       ],
-      "collected_at": "03:37",
+      "collected_at": "3:37",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707317053977816958818998985210.jpg?v=1770731816",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://thepattayanews.com/2026/02/10/viral-pygmy-hippo-moo-deng-splashes-in-her-favorite-white-tub-at-khao-kheow-open-zoo/",
+      "source": ""
     },
     {
       "title": "소말리아 항공기, 기술적 결함으로 비상 착륙...승객 55명 전원 생존",
       "summary": "- 소말리아 항공 소속 여객기가 기술적 결함으로 비상 착륙 중 활주로를 이탈.\n- 승객과 승무원 55명은 모두 무사하며, 신속한 구조 작업이 진행됨.\n- 사고 원인 조사를 위해 소말리아 교통부 장관이 현장 방문.",
       "full_translated": "소말리아 항공사의 여객기가 기술적 결함으로 인해 비상 착륙을 시도하다가 활주로에서 이탈하는 사고가 발생했습니다. 외신 보도에 따르면, 소말리아 '스타스카이 에비에이션' 소속 중형 여객기가 모가디슈 국제공항 인근 해안에 비상 착륙했습니다. 탑승객 50명과 승무원 5명 모두 생존했습니다.\n\n스타스카이 측은 조종사의 신속한 판단이 승객들의 생명을 구하는 데 결정적이었다고 밝혔습니다. 소말리아 민간항공청(CAA)에 따르면, Fokker 50 기종의 해당 항공기는 모가디슈 공항에서 이륙 직후 문제를 보고했으며, 조종사는 회항을 요청했습니다. CAA 국장 아흐메드 마칼린 하산은 항공기가 착륙 후 활주로에서 멈추지 못하고 얕은 물가에 멈춰 섰다고 설명했습니다.\n\n아프리카 연합 소말리아 대표단은 유엔군과 아프리카 연합군이 신속하게 현장에 투입되어 구조 작전을 지원했다고 밝혔으며, 소말리아 교통부 장관도 현장을 방문했습니다. 스타스카이 대변인 하산 모하메드 아덴은 탑승객과 승무원 모두 안전하다는 사실을 확인하게 되어 안도감을 느낀다고 밝혔으며, 현재 비상 착륙의 원인이 된 기술적 문제에 대한 조사가 진행 중이라고 덧붙였습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "항공기 사고는 여행 안전에 대한 우려를 유발할 수 있으나, 방콕과는 거리가 멀고 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "모가디슈 국제공항",
-        "price": null,
-        "location_google_map_query": "모가디슈 국제공항"
-      },
+      "event_info": "{'date': None, 'location': '모가디슈 국제공항', 'price': None, 'location_google_map_query': '모가디슈 국제공항'}",
       "references": [
         {
           "title": "ระทึก บินโซมาเลีย ลงจอดกระแทกพื้น ผู้โดยสาร 55 คนรอดทั้งหมด",
@@ -1948,23 +1935,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6atM1jE4Il4.jpg"
         }
       ],
-      "collected_at": "03:37",
+      "collected_at": "3:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6atM1jE4Il4.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/foreign/2913466",
+      "source": ""
     },
     {
       "title": "새로운 기회당 대변인, 람보 이산의 사임 발표: 정치적 이유, 분열은 아님",
       "summary": "- 새로운 기회당의 대변인은 람보 이산의 사임이 정치적 이유이며 분열이 아니라고 발표함.\n- 당은 그의 결정을 존중하며, 당의 이상을 계속 추구할 것임.\n- 현재 국회의원 1석을 보유하고 있으며, 국민을 위해 계속 노력할 것을 약속함.",
       "full_translated": "새로운 기회당 대변인은 “람보 이산”의 사임이 정치적인 문제이며 분열이 아니라고 해명했습니다. 10월 2일, 새로운 기회당의 대변인 시라윗 춘센은 총선 후 세싹삭꼰 앗타웡 또는 “람보 이산”이 당에서 사임한 사건에 대해 선거 기간 동안 당내에서 오해가 발생했기 때문이라고 밝혔습니다. 이것은 매우 치열한 경쟁 속에서 발생할 수 있는 정치적 문제이며, 당은 이것이 심각한 갈등이라고 생각하지 않으며, 업무 방식에 대한 의견 차이일 뿐이라고 밝혔습니다. 당은 싹삭꼰의 결정을 존중하며 서로에게 악감정은 없다고 밝혔습니다. 새로운 기회당 대변인은 정치에는 서로에 대한 이해가 필요하며, 의견이 다를 때는 언제든지 들을 준비가 되어 있으며, 당원은 각자의 길을 선택할 경우, 그 결정을 존중할 준비가 되어 있다고 강조했습니다. 비록 인력 변동이 있더라도, 새로운 기회당은 이상과 정치적 방향을 계속 추진할 것입니다. 현재 당은 국회의원 1석을 보유하고 있으며, 욷따라딧 지역의 국회의원 로싸린이 국민을 대표하여 국회에서 최선을 다하고 있습니다. 새로운 기회당 대변인은 당은 국민을 위해 계속 노력할 것이며, 생계 문제 해결과 창의적인 국가 경영에 초점을 맞추고 있다고 밝혔습니다. 또한 모든 부문의 의견을 수렴하여 당을 강화하고 미래에 국민의 요구에 부응할 수 있도록 노력할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 내용으로 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“แรมโบ้” ลาออก พรรคโอกาสใหม่ ไม่ใช่แตกหัก เป็นเรื่องปกติทางการเมือง",
@@ -1973,8 +1957,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5PzbfTaV5aA2B.jpg"
         }
       ],
-      "collected_at": "03:37",
+      "collected_at": "3:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5PzbfTaV5aA2B.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/politic/2913450",
+      "source": ""
+    },
+    {
+      "title": "FBI, NBC 뉴스 앵커 어머니 납치 사건 용의자 몽타주 공개",
+      "summary": "- FBI가 NBC 뉴스 앵커 사바나 거스리의 어머니 납치 사건 용의자의 몽타주를 공개하고 제보를 요청했습니다.\n- 용의자는 복면을 쓰고 있으며, 거스리 어머니의 집 앞 CCTV를 조작하려 한 것으로 보입니다.\n- 가족들은 거스리 어머니가 아직 살아있다고 믿고 있으며, 추가적인 정보 제공을 호소하고 있습니다.",
+      "full_translated": "미국 연방수사국(FBI)이 NBC 뉴스 앵커의 어머니 납치 사건과 관련된 용의자의 사진을 공개했습니다. 사건은 8일 전 발생했으며, 가족들은 사회에 도움을 요청하고 있습니다. 2025년 2월 10일, FBI는 낸시 거스리(84세)의 실종과 관련하여 복면을 쓴 남성의 사진을 공개했습니다. 낸시 거스리는 NBC 뉴스 유명 앵커인 사바나 거스리의 어머니입니다. 그녀는 애리조나주 투손에 있는 자택에서 실종되었으며, 1월 31일 밤에 마지막으로 목격되었습니다. 당국은 그녀가 강제로 집에서 끌려나갔다고 믿고 있습니다.\n\nFBI는 무기를 소지한 복면 남성의 신원 확인에 총력을 기울이고 있습니다. FBI 국장 캐시 파텔은 성명에서 \"오늘 아침까지 법 집행 기관은 낸시 거스리가 실종된 날 아침 그녀의 집 현관 카메라를 조작하려 한 것으로 보이는 무기를 소지한 남성의 새로운 사진을 발견했습니다.\"라고 밝혔습니다. 파텔은 또한 당국이 집의 CCTV 시스템에서 이미지를 복구하기 위해 노력하고 있으며, 데이터 기록 장치가 제거되는 등 다양한 요인으로 인해 이미지가 손실, 손상되었거나 접근이 불가능할 수 있다고 덧붙였습니다. \n\nFBI는 용의자가 낸시 거스리의 집 현관으로 걸어가 CCTV를 확인한 후 바닥에서 잡초 조각을 집어 카메라 렌즈를 가리는 짧은 비디오 클립 두 개를 공개했습니다. 사바나 거스리는 월요일에 가족들이 어머니가 아직 살아있다고 믿고 있으며, 정보를 가진 사람들에게 다시 한번 도움을 요청한다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "미국에서 발생한 사건이지만, 해외여행객 안전에 대한 간접적인 경각심을 불러일으킬 수 있고, 여행 중 유사 범죄 발생 시 대처 요령을 생각해볼 수 있도록 함.",
+      "event_info": {
+        "date": null,
+        "location": "투손, 애리조나",
+        "price": null,
+        "location_google_map_query": "Tucson, Arizona"
+      },
+      "references": [
+        {
+          "title": "FBI เผยภาพไอ้โม่ง ผู้ต้องสงสัยเกี่ยวข้อง คดีลักพาตัวแม่นักข่าวสาว",
+          "url": "https://www.thairath.co.th/news/foreign/2913467",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6ePhISRHLN6.jpg"
+        }
+      ],
+      "collected_at": "04:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6ePhISRHLN6.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "파타야 콘도에서 미국인 남성, 폭행 후 쓰러져 도움 요청",
+      "summary": "- 미국인 남성(57세)이 파타야의 콘도 입구에서 심한 부상을 입고 발견됨.\n- 그는 만취 상태였으며, 횡설수설했고, 어떻게 부상을 입었는지 기억하지 못함.\n- 현재 병원으로 이송되어 치료 중이며, 경찰은 사건 경위를 조사 중.",
+      "full_translated": "파타야 뉴스에 따르면, 11시 36분에 Sawang Boriboon Thammasathan Pattaya 구조대가 Soi Bongkoch 8의 콘도 입구에서 부상자가 도움을 요청하고 있다는 신고를 받았습니다. 구조대원들이 도착했을 때, 많은 콘도 주민들이 밖에 모여 있었습니다. 피해자는 미국 국적의 Matthew Blain Plymale(57세) 씨로 확인되었습니다. 그는 턱 아래 깊은 열상을 입었고, 온몸과 옷이 피로 젖어 있었습니다. 목격자들은 그가 만취 상태였으며, 방향 감각을 잃고 혼란스러워 보였다고 말했습니다. 질문을 받았을 때, Plymale 씨는 무슨 일이 일어났는지에 대한 명확한 세부 사항을 제공할 수 없었습니다. 그는 곧 탈진과 쇠약함으로 바닥에 쓰러졌습니다. 구조 자원 봉사자들은 현장에서 응급 처치를 실시한 후 즉시 인근 병원으로 이송하여 추가 치료를 받도록 했습니다. 콘도 경비원들은 응답자들에게 누가 남자를 폭행했는지 또는 공격이 어디에서 발생했는지 알지 못한다고 말했습니다. 그들은 Plymale 씨가 만취하고 편집증적인 상태로 건물 앞에 도착하여 다른 사람들에게 맞서거나 위협하려고 시도했다고 보고했습니다. 경비원들은 그가 바닥에 쓰러지기 전에 그의 행동을 증거로 비디오 영상으로 기록했고, 그로 인해 응급 지원을 요청했습니다. 남자가 콘도에 머물렀는지 아니면 부상에 대해 직원에게 도움을 요청하려고 시도했는지는 불분명했습니다. 구조대원들은 또한 같은 날 저녁 9시 6분경에 다른 사건에 응답했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 가능성 및 안전 문제. 파타야 지역 여행객에게 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "Soi Bongkoch 8, Pattaya",
+        "price": null,
+        "location_google_map_query": "Soi Bongkoch 8 Pattaya"
+      },
+      "references": [
+        {
+          "title": "Injured Intoxicated American Man Collapses, Seeks Help at Pattaya Condo After Apparent Assault",
+          "url": "https://thepattayanews.com/2026/02/10/injure-intoxicated-american-man-collapses-seeks-help-at-pattaya-condo-after-apparent-assault/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260210_130243.jpg?v=1770703467"
+        }
+      ],
+      "collected_at": "04:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260210_130243.jpg?v=1770703467",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "파타야에서 외국인 대상 무에타이 강사 양성 교육 개최",
+      "summary": "- 태국 스포츠 Authority와 무에타이 위원회가 파타야에서 외국인 무에타이 강사 교육 과정 개설\n- 2026년 2월 9일부터 13일까지 촌부리 부티크 시티 호텔에서 진행\n- 국제적으로 인정받는 무에타이 강사 자격증 수여",
+      "full_translated": "태국 스포츠 Authority와 무에타이 위원회는 촌부리 지방의 파타야 부티크 시티 호텔에서 2026년 2월 9일부터 13일까지 외국인을 위한 무에타이 강사 교육 과정(입문 레벨)을 시작했습니다. 이 프로그램은 무에타이의 고유한 정체성과 문화 유산을 보존하면서 정확하고 학문적으로 근거 있는 지식을 전달하고자 합니다. 통일된 표준을 확립함으로써 해외에서 무에타이를 가르치는 외국인 강사가 진정성과 전문성을 가지고 무에타이를 가르치도록 보장하여 스포츠의 세계적 범위를 체계적이고 지속 가능한 방식으로 확장하는 데 도움이 됩니다. 참가자들은 공식 인증을 받은 무에타이 마스터와 강사가 이끄는 이론 및 실습 세션을 통해 포괄적인 지침을 받게 됩니다. 커리큘럼은 다음을 포함한 필수 주제를 다룹니다. - 기본 무에타이 기술 및 기술 - 훈련 방법 및 장비의 적절한 사용 - 경쟁 규칙 및 규정 - 강사를 위한 윤리 및 직업 윤리. 코스를 성공적으로 이수하면 졸업생에게 태국 스포츠 Authority 산하 무에타이 스포츠 위원회에서 발급한 무에타이 강사 공식 인증서가 수여됩니다. 이 자격 증명은 국제적으로 인정되며 전문 교육 경력을 지원하거나 확립된 표준을 준수하여 무에타이를 해외에서 홍보하는 데 사용될 수 있습니다. 이 프로그램은 최근 푸켓 세션에서 보여준 강력한 관심을 바탕으로 하며, 100명이 넘는 외국인 참가자가 참여했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "무에타이 강좌는 특정 여행객에게 유용할 수 있으며, 파타야에서 개최되는 이벤트 정보 제공",
+      "event_info": {
+        "date": "2026-02-09",
+        "location": "Boutique City Hotel, Pattaya",
+        "price": "unknown",
+        "location_google_map_query": "Boutique City Hotel Pattaya"
+      },
+      "references": [
+        {
+          "title": "Sports Authority of Thailand and Muaythai Committee Hosts Muay Thai Instructor Training for Foreigners in Pattaya, Advancing Global Muay Thai Network",
+          "url": "https://thepattayanews.com/2026/02/10/sports-authority-of-thailand-and-muaythai-committee-hosts-muay-thai-instructor-training-for-foreigners-in-pattaya-advancing-global-muay-thai-network/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707050681102364496050893489706.jpg?v=1770705461"
+        }
+      ],
+      "collected_at": "04:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707050681102364496050893489706.jpg?v=1770705461",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "다카이치 총리 당선, 일본 안보 정책 우경화?",
+      "summary": "- 다카이치 사나에 총리의 당선으로 일본 안보 정책의 우경화 가능성이 커짐.\n- 군사력 강화, 무기 수출 금지 해제, 정보 기관 설립 등을 추진할 계획.\n- 미국과의 협력 강화 및 방위비 증액도 약속.",
+      "full_translated": "다카이치 사나에 일본 총리의 선거 승리는 집권당이 하원 의회를 장악할 수 있는 길을 열었습니다. 이는 또한 그녀에게 일본의 안보, 이민, 사회 정책에 강력한 우경화를 가져올 수 있는 정치적 힘을 실어줍니다. 그녀는 일본을 '강하고 번영하게' 만드는 데 필요하다고 주장합니다. 다카이치는 일본의 군사력을 강화하기 위해 12월까지 안보 및 국방 정책을 수정하고, 무기 수출 금지를 해제하며, 전후 평화주의 원칙에서 더욱 멀어질 것을 약속했습니다. 다카이치는 정보 수집 능력을 강화하여 동맹국인 미국, 호주, 영국과 더욱 긴밀하게 협력하기를 원합니다. 그녀는 이러한 목표를 달성하기 위해 국가 정보 기관을 설립할 계획입니다. 또한 전문가들이 시민의 권리를 침해할 수 있다고 지적하는 매우 논란이 많은 간첩 방지법을 제정하려고 합니다. 다카이치는 도널드 트럼프 미국 대통령과의 약속을 이행하여 일본의 연간 국방 예산을 2022년 수준의 두 배인 GDP의 2%까지 3월까지 늘릴 것입니다. 다카이치는 3월 19일 백악관에서 트럼프 대통령을 만나기 위해 워싱턴을 방문할 예정입니다. 미국 대통령은 일요일 선거를 앞두고 총리를 지지하면서 소셜 미디어에 여행을 발표했습니다. 회담은 국방비 지출, 일본이 10월에 약속한 워싱턴에 대한 5,500억 달러 패키지에 따른 투자 약속, 중국에 초점을 맞출 것으로 예상됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "일본의 안보 정책 변화는 장기적으로 동아시아 정세에 영향을 미칠 수 있으나, 현재로서는 태국 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Takaichi’s election victory sets the stage for a rightward shift in Japan’s security policies",
+          "url": "https://www.khaosodenglish.com/news/international/2026/02/10/takaichis-election-victory-sets-the-stage-for-a-rightward-shift-in-japans-security-policies/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26040340267957-1.jpg"
+        }
+      ],
+      "collected_at": "04:35",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26040340267957-1.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "방라뭉 지역구 8, 인민당 지지자들 투표 재검 요구 시위",
+      "summary": "- 촌부리 방라뭉 지역에서 인민당 지지자들이 부정 선거 의혹을 제기하며 투표 재검을 요구하는 시위를 벌임.\n- 시위대는 선거관리위원회(ECT)에 투표 결과 보고서 사본을 요청했으나, 지방 관청은 권한 밖의 일이라며 ECT에 직접 요청하라고 안내함.\n- 시위대는 투표소 앞에 게시된 투표용지 발표 용지 사본을 요구하며, 이에 대한 결정을 내릴 권한이 지방 관청에 없다는 답변을 들음.",
+      "full_translated": "2026년 2월 9일 오후 3시, 촌부리 주 방라뭉 지역 사무소 앞에서 제8선거구 국회의원 후보(인민당 7번)인 마낫사윈 얀차른(크루 벤츠)과 인민당의 촌부리 제10선거구 국회의원 후보인 나타나탄 프라물퐁, 지지자, 일반 시민, 학생, 그리고 약 200명의 상인들이 모여 시위를 벌였습니다. 그들은 선거관리위원회(ECT)에 국회의원 선거 투표를 재검표하고 각 투표소 앞에 게시된 투표 집계 보고서(Form Sor Sor 5/18)를 보고 복사할 것을 요구했습니다. 이후, 방라뭉 지역 대표이자 제8선거구 선거 책임자인 아누삭 피리욤온과 방라뭉 보안 담당 부지역 대표인 캄프라이 라오센이 불만을 접수하고 의혹을 해명했습니다. 그들은 후보자가 요구한 사항이 방라뭉 지역의 권한을 넘어선다고 밝히고 후보자가 선거관리위원회(ECT)에 직접 공식 요청서를 제출할 것을 권고했습니다. 마낫사윈은 이번에 온 목적은 투표소 앞에 게시된 발표 용지인 Form Sor Sor 5/18 사본을 요청하기 위한 것이며, 여기에는 유효 투표, 무효 투표 및 각 후보자의 투표 수가 보고된다고 설명했습니다. 그러나 이는 검사와 관련되어 있기 때문에 지역 사무소는 결정할 권한이 없으며 공식 청원서를 작성하라고 조언했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객들에게 직접적인 위협은 아니지만, 정치적 불안정 가능성을 시사하므로 정보 제공 가치가 있음. 시위 발생 지역 방문 시 주의 필요.",
+      "event_info": {
+        "date": "2026-02-09",
+        "location": "촌부리 주 방라뭉 지역 사무소 앞",
+        "price": null,
+        "location_google_map_query": "방라뭉 지역 사무소"
+      },
+      "references": [
+        {
+          "title": "Peoples Party Supporters Want Vote Recount in Banglamung Constituency 8",
+          "url": "https://thepattayanews.com/2026/02/10/peoples-party-supporters-want-vote-recount-in-banglamung-constituency-8/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707064629632595692487579544583.jpg?v=1770706526"
+        }
+      ],
+      "collected_at": "04:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707064629632595692487579544583.jpg?v=1770706526",
       "date": "2026-02-11"
     }
   ]
