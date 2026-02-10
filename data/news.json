@@ -1661,14 +1661,9 @@
       "summary": "- 사무트 프라칸에서 돔 건물 붕괴 사고 발생, 4명 부상.\n- 시노-타이 엔지니어링 건설, 강한 돌풍이 원인이라고 주장.\n- 11억 바트 규모의 훈련 센터 프로젝트의 일부로, 붕괴된 구조물 가치는 150만 바트.",
       "full_translated": "사무트 프라칸에서 돔 건물 붕괴 사고가 발생하여 4명의 작업자가 부상당했습니다. 시공사인 시노-타이 엔지니어링 건설(Sino-Thai Engineering and Construction Plc)은 이례적으로 강하고 돌풍이 심한 바람이 사고 원인이라고 밝혔습니다. 지주 회사인 스테콘 그룹(Stecon Group)은 방플리(Bang Phli)의 방 사오 통(Bang Sao Thong)에 있는 수도전기청(Metropolitan Electricity Authority)의 훈련 센터 프로젝트의 일부인 새 건물의 붕괴 후 페이스북 페이지에 해명 비디오를 게시했습니다. 이 프로젝트는 시노-타이와 트랜스코드(Transcode Co Ltd)로 구성된 ST-TC 합작 투자에 계약되었으며, 스테콘 이사인 Jarunat Jiraratsatit는 비디오에서 밝혔습니다. 그는 프로젝트의 총 가치가 11억 바트이며 7개의 건물로 구성되어 있다고 말했습니다. 붕괴된 구조물의 가치는 150만 바트라고 Jarunant는 말했습니다. 그것은 폭 25미터, 길이 53미터, 높이 15미터의 단층 개방형 구조였으며 단일 경사 금속 지붕이 있는 구조용 강철로 지어졌습니다. 건물 건설은 작년 11월에 완료되었다고 이사는 말했습니다. Jarunant는 “사고 당시 이 지역에서 전례 없이 강한 돌풍이 몰아쳤습니다.”라고 말했습니다. “이로 인해 건물 지붕 구조가 붕괴되었습니다.” 그는 건설이 엔지니어링 표준과 승인된 설계 계획을 따랐으며 클라이언트 담당자가 감독하고 검사했다고 확인했습니다. “회사는 신원 확인에 전적으로 협력할 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "건물 붕괴 사고로 인한 잠재적 위험 및 교통 혼잡 가능성. 여행객 안전에 대한 간접적 영향.",
-      "event_info": {
-        "date": "2026-02-10",
-        "location": "사무트 프라칸",
-        "price": null,
-        "location_google_map_query": "Samut Prakan"
-      },
+      "event_info": "{'date': '2026-02-10', 'location': '사무트 프라칸', 'price': None, 'location_google_map_query': 'Samut Prakan'}",
       "references": [
         {
           "title": "Contractor blames whirlwind for dome's collapse",
@@ -1677,23 +1672,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194273_260210145752_700.jpg"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194273_260210145752_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3194273/contractor-blames-whirlwind-for-domes-collapse",
+      "source": ""
     },
     {
       "title": "택시 기사, 사랑스러운 강아지 승객에 '이런 손님 10명 더' 희망",
       "summary": "- 한 택시 기사가 강아지 승객을 태운 감동적인 경험을 공유하며 화제가 됨.\n- 기사는 후아이쾅에서 프라카농까지 강아지를 태우고 이동하며 즐거움을 느낌.\n- 다른 기사들도 애완동물 승객과의 긍정적인 경험을 공유하며 높은 호응을 보임.",
       "full_translated": "한 택시 기사가 'Grab Car Driver Club Thailand' 페이스북 그룹에 감동적인 경험을 공유하며 '이런 손님 10명 더 있었으면 좋겠다'고 밝혔습니다. 첫 번째 이미지는 후아이쾅에서 프라카농까지의 여정 세부 정보를 보여줍니다. 두 번째 이미지에는 긴 털을 가진 치와와로 보이는 사랑스러운 승객이 담겨 있습니다. 다른 기사들은 댓글 섹션에서 '운전하다 길을 잃었지만 승객은 불평 한마디 하지 않았다', '나도 이런 손님을 만나고 싶다' 등의 반응을 보였습니다. 한 기사는 '저 강아지가 뛰어올라 목을 물어뜯을 것'이라고 농담하기도 했습니다. 애완동물 주인들은 '정말 좋다! 힘이 솟는 것 같다'는 댓글을 남겼습니다. 한 운전자는 '예전에 치와와를 태운 손님을 태운 적이 있다(손님이 미리 알렸다). 그들은 강아지가 더울까 봐 앞에 앉고 싶다고 요청했다. 나는 동의했다. 강아지는 여행하는 동안 계속 나를 쳐다봤고, 그래서 손님에게 풀어놓고 어떻게 하는지 보라고 말했다. 강아지는 걸어와 내 무릎에 누웠다. 사진을 찍지 못한 것이 후회되지만, 주인은 찍었다'고 말했습니다. 또 다른 운전자는 웃는 이모티콘과 함께 '나도 이런 짧은 거리 배달을 받은 적이 있다'고 공유했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "택시 이용 시 애완동물 동반에 대한 긍정적인 사례. 여행객이 애완동물과 함께 이동할 때 참고할 만한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Driver wants '10 more jobs like this' after adorable delivery",
@@ -1702,23 +1694,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194193_700.jpg"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194193_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3194193/driver-wants-10-more-jobs-like-this-after-adorable-delivery",
+      "source": ""
     },
     {
       "title": "태국 부패인식지수 하락, 투명성 국제 조사 결과",
       "summary": "- 태국의 2025년 부패인식지수(CPI)가 100점 만점에 33점으로 하락.\n- 세계 순위는 116위로 9계단 하락.\n- 아세안 국가 중에서는 5위 기록.",
       "full_translated": "투명성 국제(Transparency International) 조사에서 태국의 부패인식지수(CPI) 순위가 9계단 하락하여 116위를 기록했습니다. 2025년 CPI 조사에서 태국의 점수는 100점 만점에 33점으로, 전년도의 34점에서 하락했습니다. 화요일에 발표된 이 조사는 182개국을 대상으로 했습니다. 덴마크가 89점으로 1위를 차지했으며, 핀란드(88), 싱가포르(84), 뉴질랜드와 노르웨이(각 81)가 그 뒤를 이었습니다. 태국의 점수는 에콰도르, 파나마, 세르비아와 동일했습니다. 태국은 아세안에서 5위를 차지했으며, 싱가포르가 가장 높고 미얀마가 169위로 가장 낮았습니다(점수 16). 지난 10년 동안 태국이 달성한 최고의 CPI 점수는 2014년과 2015년의 38점이었습니다. 순위는 다른 국가의 성과에 따라 크게 달라질 수 있습니다. 2022년 태국은 점수가 1점 상승한 36점에도 불구하고 9계단 상승하여 101위를 기록했습니다. 이듬해에는 점수가 35점으로 하락했지만 순위는 108위로 떨어졌습니다. 2025년 조사에서 최악의 성적을 거둔 세 국가는 베네수엘라(10점), 소말리아, 남수단(각 9점)이었습니다. 베를린에 본부를 둔 투명성 국제는 2025년 세계 평균 점수가 1점 하락한 42점이며, 122개국이 50점 미만을 기록하여 공공 부문의 부패가 만연해 있음을 시사한다고 밝혔습니다. 10년 전 12개국에서 현재 5개국만이 80점 이상을 획득하고 있으며, 점수가 높은 민주주의 국가에서 최근 미끄러짐 현상이 발생하여 부패...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 부패 인식이 낮아지는 것은 여행객에게 직접적인 영향을 미치지는 않지만, 장기적으로 경제 및 사회 전반에 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단. 기존 뉴스에 유사한 내용이 있지만, 최신 업데이트이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s corruption score slips",
@@ -1727,23 +1716,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194353_700.jpg"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194353_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/business/general/3194353/thailands-corruption-score-slips",
+      "source": ""
     },
     {
       "title": "팟타이는 태국 음식, 캄보디아 기원설은 가짜 뉴스",
       "summary": "- 태국 가짜 뉴스 방지 센터는 팟타이가 캄보디아 왕실 레시피에서 유래했다는 주장을 부인함.\n- 문화부 산하 미술부의 연구를 인용하여 역사적 증거가 없다고 밝힘.\n- 팟타이는 중국의 볶음 기술과 태국 재료가 결합된 현대 태국 맥락에서 탄생.",
       "full_translated": "태국 가짜 뉴스 방지 센터는 캄보디아 소셜 미디어에서 유통되는 팟타이가 캄보디아 왕실 레시피에서 유래했다는 주장을 역사적 증거 부족을 이유로 기각했습니다. 문화부 산하 미술부의 연구를 인용하여 센터는 신뢰할 만한 역사적 기록이나 국제적으로 인정받는 학술 연구에서 팟타이가 '팟 크메르'라는 캄보디아 요리에서 유래했다는 주장을 뒷받침하지 않는다고 밝혔습니다. 이 기관은 그러한 주장은 대부분 소셜 미디어에서 발견되거나 개인적인 의견으로 제시되며 역사적 증거를 구성하지 않는다고 덧붙였습니다. 역사적 기록에 따르면 팟타이는 중국의 볶음 기술과 태국 재료 및 현지 취향이 결합된 현대 태국 맥락에서 등장했습니다. 이 요리는 20세기 초중반 태국 국가에 의해 장려되어 국가적 상징이 되었습니다. 성명서는 캄보디아를 포함한 많은 동남아시아 국가들이 볶음 국수 요리의 자체 버전을 가지고 있으며 이는 이 지역의 오랜 문화 교류를 반영한다고 덧붙였습니다. 그러나 이러한 요리가 팟타이의 직접적인 기원이라는 증거는 없습니다. 가짜 뉴스 방지 센터는 대중에게 온라인에서 주장을 믿거나 공유하기 전에 정보를 주의 깊게 확인하도록 촉구했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 대표 음식에 대한 정보 제공. 여행 중 음식 선택에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Pad Thai is Thai, not Cambodian, says anti-fake news center",
@@ -1752,23 +1738,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/wsss.jpg"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/wsss.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.khaosodenglish.com/life/2026/02/10/pad-thai-is-thai-not-cambodian-says-anti-fake-news-center/",
+      "source": ""
     },
     {
       "title": "베네수엘라 야당 지도자, 석방 직후 실종... 가족 납치 주장",
       "summary": "- 베네수엘라 야당 지도자 후안 파블로 과니파가 석방 직후 실종됨.\n- 가족들은 그가 납치되었다고 주장하며 정부에 생존 증거를 요구.\n- 과니파는 마리아 코리나 마차도의 동맹으로, 노벨 평화상 수상자임.",
       "full_translated": "베네수엘라의 주요 야당 지도자가 석방된 직후에 불가사의하게 실종되었습니다. 그의 가족은 이것이 납치라고 밝혔습니다. 외신은 2569년 2월 10일, 니콜라스 마두로 대통령 정부 시대에 구금되었던 베네수엘라 야당 지도자 후안 파블로 과니파가 석방 직후 불가사의하게 실종되었다고 보도했습니다. 가족들은 과니파가 납치되었다고 믿고 있습니다. 미국 군대가 지난 1월 카라카스에 있는 그의 집에서 마두로를 체포한 후, 델시 로드리게스 임시 대통령이 이끄는 베네수엘라 새 정부는 마두로 정부 하에서 구금되었던 야당 관리와 다른 사람 수십 명을 석방했습니다. 베네수엘라 야당 지도자이자 2568년 노벨 평화상 수상자인 마리아 코리나 마차도의 동맹인 과니파도 석방된 사람들 중 한 명이었습니다. 과니파의 가족은 베네수엘라가 자유 사회로 전환해야 한다고 지지자들에게 말한 후, 그가 신원 미상의 남성들에게 납치되었다고 밝혔습니다. 과니파의 아들은 정부에 그의 생존 증거를 보여달라고 요구했습니다. 베네수엘라 검찰총장실은 월요일 (2월 9일) 성명에서 법원에 과니파의 석방을 철회해달라고 요청했다고 밝혔습니다. 석방 조건 위반을 이유로 그를 자택에 구금해야 한다고 주장했지만, 현재 과니파가 어디에 있는지는 밝히지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체와는 직접적인 관련이 없으나, 해외 정치 상황에 대한 정보 제공 차원에서 포함. 베네수엘라 관련 소식은 태국 여행객에게 낮은 관련성을 가짐.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ผู้นำฝ่ายค้านเวเนซุเอลา หายตัวลึกลับหลังได้ออกคุก ครอบครัวเชื่อถูกลักพาตัว",
@@ -1777,8 +1760,110 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6Ovl1RQK7XA.jpg"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6Ovl1RQK7XA.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/foreign/2913464",
+      "source": ""
+    },
+    {
+      "title": "사무트 프라칸에서 정치인 집에 총격, 용의자 체포",
+      "summary": "- 사무트 프라칸에서 한 남성이 지역 정치인 집에 침입해 공중으로 총을 쏜 후 체포됨.\n- 용의자는 48세 남성 포라텝 담롱키티쿨로, 마약에 취한 상태에서 횡설수설했다고 함.\n- 경찰은 용의자의 집에서 총기류와 마약류를 발견했으며, 용의자는 과거에도 폭력 전과가 있는 것으로 알려짐.",
+      "full_translated": "사무트 프라칸 – 2026년 2월 10일, 48세 남성이 사무트 프라칸 지방의 저명한 지역 정치인 집에 침입하여 공중으로 네 발의 총을 쏜 후 도주한 혐의로 체포되었다고 경찰이 밝혔다. 경찰은 10시에 신고를 받았다고 무앙 사무트 프라칸 경찰서장 차크릿 스리로자나군 대령이 밝혔다. 사건은 므앙 지역 Pak Nam 하위 지역의 Thai Ban Road에 있는 Chonsawat Asavahame의 거주지에서 발생했다. 경찰은 용의자가 경찰이 도착하기 전에 방콕 등록 번호판이 있는 흰색 Toyota Yaris를 운전하여 도주했다고 들었다. 경찰은 도주 경로를 따라 CCTV 영상을 검토한 후 므앙 지역의 Pruksa 74 주택 단지에 있는 집에서 용의자를 구금하여 20명 이상의 경찰관을 배치하여 체포를 확보했다. 집 수색 결과 공포탄 총 2정, 탄약이 든 수제 .38구경 총 1정, 상당량의 결정 메스암페타민이 발견되었다. 용의자는 48세의 포라텝 담롱키티쿨로 확인되었다. 경찰은 나중에 용의자를 사건 현장으로 데려가 사건을 재연했다. 절차 중 그는 공격적으로 변하여 경찰에 저항했고, 경찰은 그를 제압하기 위해 전기 충격기와 최루 스프레이를 사용했다. 수사관들은 그 남자가 횡설수설했고, 마약에 취한 것처럼 보였고, 신에 사로잡혔다고 주장했다고 말했다. 집 관리인인 49세의 Weerapoj Wimolchayakorn은 경찰에 용의자가 경비원에게 고용되었다고 말한 후 재산으로 차를 몰고 들어왔다고 말했다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "총격 사건 발생. 여행객 안전에 잠재적 위협 가능성. 사무트 프라칸 지역 방문 시 주의 요망.",
+      "event_info": {
+        "date": "2026-02-10",
+        "location": "사무트 프라칸",
+        "price": null,
+        "location_google_map_query": "Samut Prakan"
+      },
+      "references": [
+        {
+          "title": "Man fires shots at Thai politician’s home, arrested",
+          "url": "https://www.khaosodenglish.com/news/2026/02/10/man-fires-shots-at-thai-politicians-home-arrested/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Man-fires-shots-at-Thai-politicians-home-arrested.jpg"
+        }
+      ],
+      "collected_at": "02:56",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Man-fires-shots-at-Thai-politicians-home-arrested.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "루이비통, 동남아 최초 방콕에 팝업 호텔 오픈",
+      "summary": "- 루이비통이 동남아시아 최초로 방콕에 팝업 호텔 'LOUIS VUITTON HOTEL BANGKOK'을 오픈했습니다.\n- 반 트록 투아 응옥(Baan Trok Thua Ngok)이라는 유서 깊은 건물에서 열리며, 브랜드의 여행 역사를 기념합니다.\n- 2026년 2월 11일부터 3월 15일까지 운영되며, 사전 예약이 필요합니다.",
+      "full_translated": "방콕 — 루이비통이 모노그램 130주년 기념 행사의 일환으로 동남아시아 최초의 팝업 호텔인 'LOUIS VUITTON HOTEL BANGKOK'을 방콕에 오픈했습니다. 이번 방콕 설치는 상하이, 뉴욕, 서울에 이은 글로벌 기념 행사입니다. 수도의 역사적인 지구에 위치한 100년 된 유산 건물인 반 트록 투아 응옥(Baan Trok Thua Ngok) 내부에 자리 잡은 이 팝업은 패션, 장인 정신 및 문화적 맥락을 결합하여 여행과 브랜드의 오랜 관계를 반영합니다. 4층으로 이루어진 LOUIS VUITTON HOTEL BANGKOK은 Keepall, Speedy, Alma, Neverfull 및 Noé 등 하우스의 가장 상징적인 모노그램 백 5개를 중심으로 몰입형 경험을 제공합니다. 각 공간은 실용적인 여행 동반자이자 시대를 초월한 스타일 아이콘으로서 세대를 초월하여 기능적인 수하물에서 탐나는 수집품으로 진화한 이러한 디자인의 이야기를 전합니다. 이 팝업은 방문객에게 루이비통의 유산, 노하우 및 혁신 정신을 통해 모노그램의 유산을 탐험하도록 초대하며, 시그니처 모티프가 어떻게 1세기 이상 관련성을 유지했는지 강조합니다. LOUIS VUITTON HOTEL BANGKOK은 2026년 2월 11일부터 3월 15일까지 방콕 폼프랍 산티팝 로드 306번지에서 일반에 공개됩니다. 운영 시간은 월요일부터 목요일까지 11:00-20:00, 금요일부터 일요일까지 10:00-21:00입니다. 브랜드 공식 웹사이트를 통해 사전 예약이 필요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕의 새로운 핫플레이스가 될 가능성이 있고, 여행객들에게 흥미로운 경험을 제공할 수 있습니다. 2026년의 일정이므로, 미리 알아두면 여행 계획에 참고할 수 있습니다.",
+      "event_info": {
+        "date": "2026-02-11 ~ 2026-03-15",
+        "location": "306 Santiphap Road, Pom Prap, Bangkok",
+        "price": "사전 예약 필요 (웹사이트 참조)",
+        "location_google_map_query": "306 Santiphap Road, Pom Prap, Bangkok"
+      },
+      "references": [
+        {
+          "title": "LOUIS VUITTON HOTEL BANGKOK, the first in Southeast Asia",
+          "url": "https://www.khaosodenglish.com/life/2026/02/10/louis-vuitton-hotel-bangkok-the-first-in-southeast-asia/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/pageQQQ.jpg"
+        }
+      ],
+      "collected_at": "02:56",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/pageQQQ.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "방콕-파타야 오토바이 택시 사기 발생: 여성 기사 눈물",
+      "summary": "- 방콕에서 파타야까지 오토바이 택시를 운행한 여성 기사가 요금을 받지 못하는 사기를 당함.\n- 승객은 파타야 경찰서에 돈을 받으러 간다며 사라짐.\n- 경찰은 사건을 조사 중.",
+      "full_translated": "2026년 2월 9일 오전 2시 19분경, Phennapha Sitthidet 씨는 파타야 시 경찰서의 수사관에게 사건을 신고했습니다. 그녀는 알 수 없는 여성에게 방콕에서 파타야까지 오토바이 택시를 운행하도록 고용되었는데, 그 여성은 파타야 경찰서에 가야 한다는 구실을 댔다고 설명했습니다. 페냅파 씨에 따르면 사건은 방콕 클롱 토이 지역의 수쿰빗 소이 4 입구에서 시작되었습니다. 20세에서 35세 사이로 추정되는 태국 여성은 흰색 셔츠, 짧은 흰색 청바지를 입고 숄더백을 메고 처음에는 파타야로 가는 에카마이 버스 터미널로 데려다 달라고 요청했습니다. 그들이 도착했을 때 모든 버스가 이미 출발했다는 것을 알고 나서, 그 여성은 페냅파 씨에게 오토바이를 타고 파타야 시 경찰서까지 직접 여행을 계속해 달라고 간청했습니다. 협상 후, 그들은 1,500바트(원래 2,000바트)의 요금에 합의했습니다. 여성의 상황에 동정심을 느낀 페냅파 씨는 그 일을 받아들였습니다. 두 사람은 방콕에서 파타야까지 약 2시간을 이동했습니다. 경찰서 앞에 도착하자 승객은 요금을 지불하기 위해 그곳에 있다고 하는 아버지로부터 돈을 받기 위해 안으로 들어가야 한다고 주장했습니다. 그러고 나서 그녀는 역에 들어갔지만 다시는 돌아오지 않았습니다. 여성이 나타나지 않아 한 시간 이상을 기다린 후, 페냅파 씨는 의심스러워 근처 오토바이 택시 기사들에게 그녀를 알아 보는지 물었습니다. 그들은 그녀에게 그런 여자는 없다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 대상 범죄 가능성 및 택시 이용 시 주의 필요성 상기. 새벽 시간대 사건 발생으로 안전에 대한 경각심 고취.",
+      "event_info": {
+        "date": "2026-02-09",
+        "location": "파타야",
+        "price": "1500 바트 (사기 피해 금액)",
+        "location_google_map_query": "Pattaya Police Station"
+      },
+      "references": [
+        {
+          "title": "Female Motorcycle Taxi Driver Left in Tears After Being Tricked into Free Ride from Bangkok to Pattaya",
+          "url": "https://thepattayanews.com/2026/02/10/female-motorcycle-taxi-driver-left-in-tears-after-being-tricked-into-free-ride-from-bangkok-to-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707357753392415381139834454605.jpg?v=1770735875"
+        }
+      ],
+      "collected_at": "02:56",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707357753392415381139834454605.jpg?v=1770735875",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "치앙라이: 경찰, 240kg 메스암페타민 압수, 운전자 도주",
+      "summary": "- 치앙라이 경찰이 검문소를 탈출한 픽업 트럭에서 240kg 이상의 메스암페타민을 압수했습니다.\n- 운전자는 차량을 버리고 도주했으며, 현재 경찰이 추적 중입니다.\n- 압수된 마약은 태국-미얀마 국경에서 유입된 것으로 추정됩니다.",
+      "full_translated": "치앙라이 – 경찰은 2026년 2월 10일 새벽, 픽업 트럭이 검문소를 벗어나 매사이 지역의 한 마을에서 버려진 후 240kg 이상의 메스암페타민을 압수했습니다. 치앙라이 지방 경찰청장 마놉 세나쿨 소장은 오전 1시 30분경 경찰관들을 이끌고 240.1kg의 1종 마약과 픽업 트럭 1대를 압수했다고 경찰은 밝혔습니다. 매사이 경찰은 마약 밀매 조직이 파혼요틴 도로에서 남참-농오 마을로 갈라지는 2차 경로를 이용하여 태국-미얀마 국경에서 내륙으로 마약을 밀반입하고 있다는 정보를 입수했습니다. 경찰관들은 차단 작전을 펼쳤고, 이후 치앙라이 번호판이 부착된 회색 도요타 하이럭스 레보 픽업을 발견했습니다. 차량이 5번지 남참 마을에 도착했을 때 경찰관들은 정지 신호를 보냈습니다. 운전자는 봉쇄망을 뚫고 도주했습니다. 경찰은 추격전을 벌였습니다. 마을 내에서 운전자는 차량을 멈추고 도로 한가운데 버리고 도보로 도주했으며, 지역 지식과 어둠을 이용하여 체포를 피했습니다. 픽업을 수색한 결과 총 240.1kg의 얼음이 들어 있는 비료 자루 7개가 발견되었습니다. 경찰은 또한 차량 설명서 사본, 차량 판매 서류, 휴대 전화 1대, 영수증 및 기타 서류를 회수하여 수사를 확대하고 용의자를 추적하는 데 사용할 예정이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "마약 관련 범죄는 여행객 안전에 잠재적 위협이 될 수 있으며, 특히 해당 지역을 여행하는 경우 주의가 필요합니다. 현재 시각 새벽이므로, 오늘 발생한 사건으로 분류합니다.",
+      "event_info": {
+        "date": "2026-02-10",
+        "location": "Mae Sai, Chiang Rai",
+        "price": null,
+        "location_google_map_query": "Mae Sai, Chiang Rai"
+      },
+      "references": [
+        {
+          "title": "Driver escapes as police find 240kg of crystal meth",
+          "url": "https://www.khaosodenglish.com/news/2026/02/10/driver-escapes-as-police-find-240kg-of-crystal-meth/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Driver-escapes-as-police-find-240kg-of-crystal-meth.jpg"
+        }
+      ],
+      "collected_at": "02:56",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Driver-escapes-as-police-find-240kg-of-crystal-meth.jpg",
       "date": "2026-02-11"
     }
   ]
