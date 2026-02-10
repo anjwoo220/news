@@ -225,14 +225,9 @@
       "summary": "- 촌부리 1구역 재검표 요구 시위가 계속되고 있습니다.\n- 선거관리위원회 부위원장이 현장을 방문하여 상황을 파악하고 있습니다.\n- 시위대는 재검표 요구를 굽히지 않고 있습니다.",
       "full_translated": "촌부리 1구역 재검표 요구 시위 관련 속보입니다. 시위대는 재검표 요구를 굽히지 않고 있으며, 선거관리위원회 부위원장이 현장을 방문하여 상황을 파악하고 있습니다. 시위는 계속해서 진행 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "선거 관련 시위가 지속되고 있어 여행객들에게 혼란을 초래할 수 있으므로, 상황 업데이트를 제공합니다. 선거관리위원회 부위원장의 현장 방문은 새로운 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": "촌부리 1구역",
-        "price": null,
-        "location_google_map_query": "Chonburi"
-      },
+      "event_info": "{'date': None, 'location': '촌부리 1구역', 'price': None, 'location_google_map_query': 'Chonburi'}",
       "references": [
         {
           "title": "ชมสด คนชลไม่ถอย ปักหลักเรียกร้อง เปิดหีบนับคะแนนเลือกตั้ง \"ชลบุรีเขต 1\" ใหม่",
@@ -245,22 +240,20 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "09:24",
-      "date": "2026-02-10"
+      "collected_at": "9:24",
+      "image_url": "",
+      "date": "2026-02-10",
+      "link": null,
+      "source": ""
     },
     {
       "title": "촌부리 선거구 재검표 요구 시위 관련, 부정 선거 의혹 제기",
       "summary": "- 촌부리 1구역 재검표 요구 시위에서 부정 선거 의혹이 제기됨.\n-꼰 짜띠까와닛 민주당 부대표는 선거 부정 의혹에 대한 철저한 조사를 촉구.\n- 국민들이 공정한 선거에 대한 믿음을 잃지 않도록 해야 한다고 강조.",
       "full_translated": "꼬른 자띠까왓 민주당 부대표는 촌부리 1구역의 재검표 요구 시위 상황을 주시하며, 부정 선거 의혹에 대해 깊은 우려를 표명했습니다. 그는 국민들이 정부와 관련 기관에 의해 버려졌다고 느끼는 것에 안타까움을 느끼며, 즉각적이고 명확한 해명이 이루어지지 않는 상황에 대해 비판했습니다. 과거 자신의 선거 경험을 언급하며, 투표함이 부당하게 개봉되는 것을 막기 위해 밤새도록 지켰던 경험을 공유했습니다. 그는 선거에서의 패배나 매표 행위는 국민의 선택으로 존중하지만, 투표 용지 조작이나 부정 개표는 절대 용납할 수 없다고 강조했습니다. 선거관리위원회가 공정하고 투명한 선거를 보장해야 하며, 국민들이 선거에 대한 믿음을 잃지 않도록 모든 노력을 기울여야 한다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "선거 관련 시위는 여행에 직접적인 위협은 아니지만, 정치적 불안정은 여행객에게 불편을 초래할 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": "촌부리",
-        "price": null,
-        "location_google_map_query": "촌부리"
-      },
+      "event_info": "{'date': None, 'location': '촌부리', 'price': None, 'location_google_map_query': '촌부리'}",
       "references": [
         {
           "title": "“กรณ์” แนะอย่าปล่อยให้ ปชช. รู้สึกไม่มีที่พึ่ง บอกเห็นสถานการณ์นับคะแนนที่ชลบุรี แล้วปวดใจ",
@@ -269,23 +262,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy7724Ays3jXoZS.jpg"
         }
       ],
-      "collected_at": "09:24",
+      "collected_at": "9:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy7724Ays3jXoZS.jpg",
-      "date": "2026-02-10"
+      "date": "2026-02-10",
+      "link": "https://www.thairath.co.th/news/politic/2913267",
+      "source": ""
     },
     {
       "title": "뉴욕, 60년 만에 최장 기간 한파로 18명 사망",
       "summary": "- 뉴욕에 60년 만에 가장 긴 한파가 덮쳐 18명이 사망했습니다.\n- 1월 말부터 13일 동안 영하의 날씨가 지속되었습니다.\n- 취약 계층을 위한 임시 보호 시설이 운영되고 있습니다.",
       "full_translated": "뉴욕 시민 18명이 1월 말부터 계속된 혹한으로 사망했습니다. 섭씨 영하의 날씨가 13일 동안 이어졌는데, 이는 60년 만에 가장 긴 기간입니다. 2569년 2월 10일, 소흐란 맘다니 뉴욕 시장은 뉴욕이 1월 말부터 13일 동안 섭씨 0도 이하의 기온에 직면해 있으며, 이는 2506년 이후 가장 긴 혹한 기간 중 하나라고 밝혔습니다. 1월 말부터 뉴욕을 덮친 한파로 인해 최소 18명이 사망했습니다. 지난 주말 동안 기상 재난 상황이 선포되었고, 1월 19일부터 혹한 비상사태가 발령되었습니다. 뉴욕 시는 노숙자 보호 정책을 완화하여 약 1,400명이 보호를 받았으며, 호텔 객실 64개를 추가하고 최소 150명의 현장 요원을 추가로 배치하여 거리의 취약 계층을 돌보고 있습니다. 미국 국립 기상청은 북극 기단으로 인해 체감 온도가 위험 수준으로 낮아져 저체온증 및 동상 위험이 증가한다고 밝혔습니다. 이 기간 동안 최고 기온은 일반적으로 약 4도인 평균 기온보다 낮습니다. 뉴욕시 비상 관리국은 날씨가 따뜻해지기 시작했지만, 특히 건물에서 녹아내리는 눈과 얼음, 밤에 다시 얼 수 있는 도로 및 보도와 같은 위험이 여전히 존재한다고 경고했습니다. 출처: BBC",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 심각한 기상 상황 및 관련 위험 정보 제공",
-      "event_info": {
-        "date": null,
-        "location": "뉴욕",
-        "price": null,
-        "location_google_map_query": "뉴욕"
-      },
+      "event_info": "{'date': None, 'location': '뉴욕', 'price': None, 'location_google_map_query': '뉴욕'}",
       "references": [
         {
           "title": "นิวยอร์กอ่วม คลื่นความเย็นปกคลุมยาวนาน อุณหภูมิต่ำกว่าศูนย์องศานานสุดในรอบ 60 ปี ดับแล้ว 18 ศพ",
@@ -294,23 +284,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy773DmekqpnvDr.jpg"
         }
       ],
-      "collected_at": "09:24",
+      "collected_at": "9:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy773DmekqpnvDr.jpg",
-      "date": "2026-02-10"
+      "date": "2026-02-10",
+      "link": "https://www.thairath.co.th/news/foreign/2913264",
+      "source": ""
     },
     {
       "title": "식당 협회, '콘 라 크릉 플러스' 공동 지불 제도 확대 요구",
       "summary": "- 태국 식당 협회는 '콘 라 크릉 플러스' 공동 지불 제도에 법인으로 등록된 소규모 식당 포함을 요구.\n- 협회는 정부가 연간 300만 바트 미만 소득의 소규모 기업인 법인 식당도 포함시켜 줄 것을 제안.\n- 새로운 정부가 5월에 출범할 예정이며, 이 시기는 식당 산업의 비수기이므로 제도 개선이 시기적절하다고 주장.",
       "full_translated": "태국 식당 협회는 Bhumjaithai당이 이끄는 새 정부 하에서 예상되는 '콘 라 크릉 플러스' 공동 지불 제도의 부활에 법인으로 등록된 소규모 식당이 포함되기를 요구하고 있습니다. \n\n타니완 쿨몽콜 태국 식당 협회 회장은 협회가 콘 라 크릉 제도의 재개를 간절히 바라고 있다고 말했습니다. 그러나 많은 협회 회원들이 제도의 소득 제한을 초과하는 중형 식당을 운영하여 참여 자격이 없습니다. \n\n이전 단계의 콘 라 크릉 플러스 프로그램에서는 등록된 개인이 지역 상점에서 구매한 상품 가격의 절반만 지불하고 정부가 나머지를 보조했습니다. 이 제도 하에서 법인으로 등록되지 않은 상점, 소매점, 스파, 심지어 택시 운전사도 연간 소득이 180만 바트 미만인 대중 교통 운영자 및 소규모 법인과 함께 참여할 수 있었습니다.\n\n그녀는 정부가 법인으로 등록된 식당도 제도에 참여할 수 있도록 허용할 것을 제안했습니다. 왜냐하면 그들은 연간 300만 바트 미만을 버는 소규모 기업이며 소규모 운영자로 분류되어야 하기 때문입니다. 새 정부가 5월에 출범할 것으로 예상됨에 따라 식당 산업도 그 시기에 비수기에 접어들 것이라고 그녀는 말했습니다. 정부가 공동 지불 제도를 제때에 수정할 수 있다면 식당 업계의 어려움을 해결하는 데 도움이 될 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "정부 지원 정책 변경 가능성. 여행 중 식비 절약에 약간의 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Association wants to expand co-pay",
@@ -319,23 +306,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/10/5961024_700.jpg"
         }
       ],
-      "collected_at": "09:24",
+      "collected_at": "9:24",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/10/5961024_700.jpg",
-      "date": "2026-02-10"
+      "date": "2026-02-10",
+      "link": "https://www.bangkokpost.com/business/general/3194064/association-wants-to-expand-copay",
+      "source": ""
     },
     {
       "title": "태국 관광 산업 경쟁력 강화를 위한 정책 추진",
       "summary": "- 태국 호텔 협회는 Bhumjaithai당 정부의 안정성을 바탕으로 장기적인 투자 필요성을 강조.\n- 베트남과의 경쟁에서 뒤처지지 않기 위해 새로운 관광 명소 개발 및 정부의 지속적인 지원 요구.\n- 관광 산업 발전을 위해 숙련된 인사의 관광부 장관 임명을 희망.",
       "full_translated": "태국 호텔 협회(THA)의 Thienprasit Chaiyapatranun 회장은 품자이타이당이 높은 안정성으로 4년 임기를 수행할 것으로 예상됨에 따라 정부가 단기적인 경기 부양책보다 장기적인 투자에 집중하여 베트남과 같은 지역 경쟁국과 경쟁해야 한다고 촉구했습니다. 그는 선거 결과와 정치 분석을 바탕으로 품자이타이당이 이끄는 정부가 매우 안정적이고 임기를 뗌 채워 공급 개선에 특히 초점을 맞춘 장기 프로젝트에 집중할 수 있을 것이라고 말했습니다. Thienprasit 회장은 “베트남이 여러 면에서 우리를 앞서고 있기 때문에 더 이상 기다릴 여유가 없습니다. 경쟁력을 높이기 위한 정책이 필요합니다.”라고 말했습니다. 여기에는 클러스터 관광 전략의 일환으로 2급 도시에 새로운 관광 명소를 건설하는 것이 포함됩니다. 그는 정부가 지난 2년 동안 그랬던 것처럼 내각을 너무 자주 개편해서는 안 된다고 말했습니다. 관광 산업은 주요 경제 동력이므로 그는 이번 임기에 부총리를 맡을 것으로 예상되는 수파지 수툼푼 임시 상무부 장관이 관광부도 감독하기를 바란다고 말했습니다. Thienprasit 회장은 그녀가 이전에 Dusit Thani의 최고 경영자를 역임하면서 숙박 및 관광 사업에서 입증된 경험을 가지고 있다고 말했습니다. 그럼에도 불구하고 정부는 관광 전쟁을 수립해야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업 전반에 대한 내용으로, 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Push for policy to lift competitiveness",
@@ -344,8 +328,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/10/5960804_700.jpg"
         }
       ],
-      "collected_at": "09:24",
+      "collected_at": "9:24",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/10/5960804_700.jpg",
+      "date": "2026-02-10",
+      "link": "https://www.bangkokpost.com/business/general/3193874/push-for-policy-to-lift-competitiveness",
+      "source": ""
+    },
+    {
+      "title": "촌부리 1구역 선거 부정 의혹, 재검표 요구 시위 격화",
+      "summary": "- 촌부리 1구역에서 발생한 선거 부정 의혹으로 인해 재검표를 요구하는 시위가 밤새 이어짐.\n- 시위대는 투표함 보관 과정의 투명성 확보를 요구하며 재검표가 이루어질 때까지 자리를 지킬 것이라고 밝힘.\n- 선거관리위원회는 현재 상황을 주시하며 대응 방안을 모색 중.",
+      "full_translated": "촌부리 1구역 국회의원 선거 투표함을 지키기 위해 사람들이 밤새도록 몰려들고 있습니다. 시민당 후보 '워랏'은 패배는 인정하지만 투명해야 한다고 주장합니다. 투표함 보관에 대한 의혹이 제기되어 재검표를 요구하는 목소리가 높아지고 있습니다. 촌부리 주지사는 현장을 방문하여 상황을 점검하고 있으며, 선거관리위원회 부위원장은 상황을 주시하고 있습니다. 19세의 팃티왓과 19세의 야나톤은 투표 결과에 대한 강한 의구심을 표하며 재검표가 이루어질 때까지 자리를 떠나지 않겠다고 밝혔습니다. 선거관리위원회는 현재 회의를 통해 해결책을 모색하고 있으며, 워랏 시리락 후보는 이번 사태가 특정 페이지의 선동에서 비롯되었다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "선거 관련 시위가 격화되어 여행객의 이동에 불편을 초래할 수 있고, 안전에 대한 우려를 야기할 수 있어 관련 상황을 주시해야 함. 기존 뉴스에서 시위 관련 속보가 있었지만, 밤샘 시위 및 재검표 요구 격화에 대한 내용이 업데이트되었으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리 1구역",
+        "price": null,
+        "location_google_map_query": "Chonburi"
+      },
+      "references": [
+        {
+          "title": "คนยังเฝ้าหีบบัตรเลือกตั้ง สส. เขต 1 ชลบุรี “วรท” ยันแพ้ได้ แต่ต้องโปร่งใส",
+          "url": "https://www.thairath.co.th/news/politic/2913293",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy73CSfQtFWD1i7.jpg"
+        }
+      ],
+      "collected_at": "11:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy73CSfQtFWD1i7.jpg",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "태국 총선 결과 분석: Bhumjaithai당 압승, 정부 구성 전망",
+      "summary": "- Bhumjaithai당이 총선에서 압승하여 아누틴 찬비라쿨 대표가 총리 후보로 거론됨.\n- People's Party는 방콕에서 선전했지만, Pheu Thai당은 최악의 선거 결과를 맞이함.\n- Bhumjaithai당은 과반수를 확보하지 못했지만 연립 정부 구성에 유리한 위치를 점함.",
+      "full_translated": "태국 총선에서 Bhumjaithai당이 압승을 거두며 아누틴 찬비라쿨 대표가 차기 총리 후보로 거론되고 있습니다. 이번 선거에서 Bhumjaithai당은 진보 및 포퓰리즘 정당들을 제치고 압도적인 승리를 거두었습니다. \n\n선거 초반부터 Bhumjaithai당은 꾸준히 선두를 유지했으며, 여론조사에서 우세했던 People's Party와 Pheu Thai당은 일찍 패배를 인정했습니다. Bhumjaithai당은 남부 지역에서 지지율을 확대했으며, 과거 신나왓 가문이 장악했던 동북부 지역에서도 의석을 확보했습니다. \n\n선거관리위원회 데이터에 따르면 Bhumjaithai당은 전체 500석 중 약 193석을 확보하여 2019년과 2023년 선거에서 각각 51석과 71석을 얻었던 것에 비해 크게 증가했습니다. People's Party는 수도 방콕에서 선전했지만 118석으로 2위를 차지했으며, Pheu Thai당은 74석으로 최악의 선거 결과를 기록했습니다.\n\nBhumjaithai당이 과반수를 확보하지 못했지만, 193석을 확보한 아누틴 대표는 연립 정부 구성을 위한 협상에서 유리한 위치를 점하게 되었습니다. People's Party는 경쟁적인 연합을 구성하지 않겠다고 밝혔습니다. 이 외에도 Klatham(58석)부터 Palang Pracharath(5석)까지 약 12개의 소규모 정당이 총 117석을 확보할 것으로 예상됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "총선 결과는 태국 정치 지형에 중요한 변화를 가져오며, 정책 변화 가능성이 있어 여행 관련 정책에도 영향을 줄 수 있음. 다만 직접적인 여행 안전 문제는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Will Thailand's election deliver a stable government?",
+          "url": "https://www.bangkokpost.com/thailand/politics/3194123/will-thailands-election-deliver-a-stable-government",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194123_260210091016_700.jpg"
+        }
+      ],
+      "collected_at": "11:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260210/c1_3194123_260210091016_700.jpg",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "총선 후 태국 정부 구성 전망: Bhumjaithai당, 300석 목표로 연립 정부 추진",
+      "summary": "- Bhumjaithai당의 핵심 인물, 정부 안정 위해 300석 확보 목표 제시\n- 연립 정부 정책, Bhumjaithai당 정책과 충돌 없어야 한다고 강조\n- 선거관리위원회의 투표 결과 검토 후 정부 구성 협상 본격화될 예정",
+      "full_translated": "품차이타이당 핵심 간부인 피팟 랏차킷프라칸은 정부 안정을 위해 300석을 목표로 연립 정부를 추진하고 있다고 밝혔습니다. 그는 연립 정부의 정책이 품차이타이당의 정책과 상충되지 않아야 한다고 강조했습니다. 현재 선거관리위원회(꼬꼬떠.)는 투표 결과의 95%를 검토했으며, 모든 것이 명확해진 후 정부 구성에 대한 논의를 시작할 예정입니다. 피팟은 어떤 것이든 아누틴 차른비라쿨 당 대표와 당 집행위원회의 결정에 달려 있다고 덧붙였습니다. 정부 안정을 위해 연립 정부의 규모가 작을수록 좋은지에 대한 질문에 피팟은 필수는 아니지만 정부가 계속 일할 수 있도록 안정시키는 것이 중요하다고 답했습니다. 그는 적절한 의석수는 300석에 가깝다고 보고 있으며, 안정성은 의석수뿐만 아니라 정당 목록도 고려해야 한다고 말했습니다. 피팟은 이것이 제한 사항이라고 생각하지 않으며, 결국 각 정당의 과거 선거 운동 정책을 검토하고 품차이타이당과 상충되는 정책이 있는지 확인해야 한다고 덧붙였습니다. 정부 구성 기간에 대해 피팟은 꼬꼬떠.가 선거구 의원들을 승인하여 질서를 확립하는 데 달려 있으며, 그 후 품차이타이당 대표가 협상을 진행할 것이라고 밝혔습니다. 일부 지역에서 재검표를 요구하는 것에 대한 우려에 대해 피팟은 재검표는 단위 내에서 오류로 인해 발생할 수 있으며, 이는 단위 위원회 또는 아직 확신이 없는 지지자와 관련될 수 있다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정부 구성 관련 뉴스는 여행 정책 및 경제 상황에 간접적 영향을 미칠 수 있으므로 중간 점수 부여. 기존 정치 관련 뉴스에 비해 새로운 정보 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“พิพัฒน์” มองจับขั้วรัฐบาล ล็อกเป้าหมาย 300 เก้าอี้ ย้ำนโยบายพรรคร่วมต้องไม่ขัดแย้ง “ภูมิใจไทย”",
+          "url": "https://www.thairath.co.th/news/politic/2913291",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy73CF3iz2BPSoJ.jpg"
+        }
+      ],
+      "collected_at": "11:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy73CF3iz2BPSoJ.jpg",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "총선 개표 결과 투명성 요구 증가: 선거관리위원회에 데이터 공개 압박",
+      "summary": "- '프릿', 선거관리위원회에 투표 결과 상세 데이터 공개 요구\n- 투명성 확보가 의혹 해소의 핵심이라고 강조\n- 국민당, 개표 결과 문서 검토 요청서 제출",
+      "full_translated": "프릿은 선거관리위원회(꼬꼬떠.)에 이쩜오육꾸 년 총선 투표 결과 보고서 데이터를 전국적으로 공개할 것을 촉구했습니다. 그는 투명성이 의혹을 불식시키는 데 중요하다고 강조했습니다. 국민당은 투표 결과 문서 검토를 요청하는 서한을 제출할 예정입니다. 2월 10일 오전 10시 3분, 국민당 대변인인 프릿 와차라신두는 모든 지역의 투표 결과 보고서를 공개해야 한다고 밝혔습니다. 그는 투표가 끝난 지 이틀 후이며 투명성이 중요하다고 덧붙였습니다. 프릿은 유권자들의 표가 정확하게 집계되었는지 확인해야 한다고 강조했습니다. 그는 또한 선거관리위원회가 구만구천 개 이상의 모든 지역의 투표 결과 보고서를 공개해야 한다고 주장했습니다. 이를 통해 유권자들은 각 지역의 정확성을 검증할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 결과 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단. 다만, 정치적 불안정 가능성을 주시할 필요가 있어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“พริษฐ์” จี้ กกต. เปิดผลนับคะแนนเลือกตั้ง รายหน่วย ปชน. จ่อขอคัดเอกสารมาตรวจสอบ",
+          "url": "https://www.thairath.co.th/news/politic/2913288",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy721XmkzCeQn9t.jpg"
+        }
+      ],
+      "collected_at": "11:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy721XmkzCeQn9t.jpg",
+      "date": "2026-02-10"
+    },
+    {
+      "title": "우본랏차타니 6구역 선거 결과 재검표 요구 시위 발생",
+      "summary": "- 우본랏차타니 6구역에서 선거 결과에 불만을 품은 주민들이 시위를 벌이고 있습니다.\n- 시위대는 투표 집계 과정의 투명성에 의혹을 제기하며 재검표를 요구하고 있습니다.\n- 선거관리위원회는 시위대의 주장을 검토하고 필요한 조치를 취할 예정입니다.",
+      "full_translated": "우본랏차타니에서 주민들과 지지자들이 모여 '우본랏차타니 6구역' 선거 결과 재검표를 요구하는 시위를 벌였습니다. 이들은 관계자들의 투명하지 못한 처리에 대한 우려를 표명했습니다. 보도에 따르면, 2월 9일 20시경, 우본랏차타니 주 켐마랏 군청 앞에서 많은 시민들이 모여 6구역 선거의 투표 결과에 대한 재검표를 요구하는 시위를 벌였습니다. 6구역은 나탄, 켐마랏, 포사이 지역으로 구성되어 있습니다. 켐마랏 군청은 아직 투표 결과 발표를 하지 않았고, 사이 루암 팔랑 당의 킷티콘 쳇추 후보(2번)와 프아 타이 당의 탄야타리 산타판 후보(3번)의 표 차이가 수천 표 이내로 근소하여 사이 루암 팔랑 당 지지자들이 득표수 확인을 요구하며 시위에 나섰습니다. 그러나 관계자들이 득표수 확인을 허용하지 않자, 이들은 이번 선거의 투명성에 의문을 제기하며 시위를 벌였습니다. 사이 루암 팔랑 당의 카녹눗눗촘 대표는 포사이 지역은 이미 결과가 게시되었지만 켐마랏 지역은 결과 발표가 지연되고 있으며, 관계자들은 집계가 완료되지 않았다고 주장한다고 밝혔습니다. 소식을 접한 시민들은 결과에 대한 궁금증으로 모여들었습니다. 이후 켐마랏 군수가 관계자들과 협의 후 답변을 주기로 하고, 관계자들이 회의장 건물 내부에 펼침막을 준비하는 것을 목격했습니다. 당 대표와 주민들이 확인한 결과, 투표함이 담긴 골판지 상자가 쌓여 있는 것을 보고 더욱 불투명성을 느꼈다고 합니다. 이들은 관계 기관에 조사를 요구하고, 발표된 점수에 대한 불신을 표하며 6구역 선거를 다시 실시할 것을 요구하고 있습니다. 이후 우본랏차타니 선거관리위원회에 민원을 제기할 예정입니다. 득표수는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 선거 관련 시위는 여행에 직접적인 위협은 아니지만, 지역 이동에 불편을 초래하거나 정치적 불안감을 야기할 수 있으므로 정보 제공 가치가 있습니다. 기존 촌부리 시위 속보와 유사하지만, 다른 지역에서 발생한 새로운 사건이므로 업데이트로 간주합니다.",
+      "event_info": {
+        "date": "2024-02-09",
+        "location": "우본랏차타니 주 켐마랏 군청",
+        "price": "N/A",
+        "location_google_map_query": "켐마랏 군청 우본랏차타니"
+      },
+      "references": [
+        {
+          "title": "ชาวบ้านถือป้ายประท้วง เลือกตั้ง \"อุบลราชธานี เขต 6\" ขอตรวจสอบผลนับคะแนนใหม่",
+          "url": "https://www.thairath.co.th/news/politic/2913289",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy721avAVU9fAqt.jpg"
+        }
+      ],
+      "collected_at": "11:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy721avAVU9fAqt.jpg",
       "date": "2026-02-10"
     }
   ]
