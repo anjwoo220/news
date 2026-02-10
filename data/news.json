@@ -1771,14 +1771,9 @@
       "summary": "- 사무트 프라칸에서 한 남성이 지역 정치인 집에 침입해 공중으로 총을 쏜 후 체포됨.\n- 용의자는 48세 남성 포라텝 담롱키티쿨로, 마약에 취한 상태에서 횡설수설했다고 함.\n- 경찰은 용의자의 집에서 총기류와 마약류를 발견했으며, 용의자는 과거에도 폭력 전과가 있는 것으로 알려짐.",
       "full_translated": "사무트 프라칸 – 2026년 2월 10일, 48세 남성이 사무트 프라칸 지방의 저명한 지역 정치인 집에 침입하여 공중으로 네 발의 총을 쏜 후 도주한 혐의로 체포되었다고 경찰이 밝혔다. 경찰은 10시에 신고를 받았다고 무앙 사무트 프라칸 경찰서장 차크릿 스리로자나군 대령이 밝혔다. 사건은 므앙 지역 Pak Nam 하위 지역의 Thai Ban Road에 있는 Chonsawat Asavahame의 거주지에서 발생했다. 경찰은 용의자가 경찰이 도착하기 전에 방콕 등록 번호판이 있는 흰색 Toyota Yaris를 운전하여 도주했다고 들었다. 경찰은 도주 경로를 따라 CCTV 영상을 검토한 후 므앙 지역의 Pruksa 74 주택 단지에 있는 집에서 용의자를 구금하여 20명 이상의 경찰관을 배치하여 체포를 확보했다. 집 수색 결과 공포탄 총 2정, 탄약이 든 수제 .38구경 총 1정, 상당량의 결정 메스암페타민이 발견되었다. 용의자는 48세의 포라텝 담롱키티쿨로 확인되었다. 경찰은 나중에 용의자를 사건 현장으로 데려가 사건을 재연했다. 절차 중 그는 공격적으로 변하여 경찰에 저항했고, 경찰은 그를 제압하기 위해 전기 충격기와 최루 스프레이를 사용했다. 수사관들은 그 남자가 횡설수설했고, 마약에 취한 것처럼 보였고, 신에 사로잡혔다고 주장했다고 말했다. 집 관리인인 49세의 Weerapoj Wimolchayakorn은 경찰에 용의자가 경비원에게 고용되었다고 말한 후 재산으로 차를 몰고 들어왔다고 말했다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "총격 사건 발생. 여행객 안전에 잠재적 위협 가능성. 사무트 프라칸 지역 방문 시 주의 요망.",
-      "event_info": {
-        "date": "2026-02-10",
-        "location": "사무트 프라칸",
-        "price": null,
-        "location_google_map_query": "Samut Prakan"
-      },
+      "event_info": "{'date': '2026-02-10', 'location': '사무트 프라칸', 'price': None, 'location_google_map_query': 'Samut Prakan'}",
       "references": [
         {
           "title": "Man fires shots at Thai politician’s home, arrested",
@@ -1787,23 +1782,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Man-fires-shots-at-Thai-politicians-home-arrested.jpg"
         }
       ],
-      "collected_at": "02:56",
+      "collected_at": "2:56",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Man-fires-shots-at-Thai-politicians-home-arrested.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.khaosodenglish.com/news/2026/02/10/man-fires-shots-at-thai-politicians-home-arrested/",
+      "source": ""
     },
     {
       "title": "루이비통, 동남아 최초 방콕에 팝업 호텔 오픈",
       "summary": "- 루이비통이 동남아시아 최초로 방콕에 팝업 호텔 'LOUIS VUITTON HOTEL BANGKOK'을 오픈했습니다.\n- 반 트록 투아 응옥(Baan Trok Thua Ngok)이라는 유서 깊은 건물에서 열리며, 브랜드의 여행 역사를 기념합니다.\n- 2026년 2월 11일부터 3월 15일까지 운영되며, 사전 예약이 필요합니다.",
       "full_translated": "방콕 — 루이비통이 모노그램 130주년 기념 행사의 일환으로 동남아시아 최초의 팝업 호텔인 'LOUIS VUITTON HOTEL BANGKOK'을 방콕에 오픈했습니다. 이번 방콕 설치는 상하이, 뉴욕, 서울에 이은 글로벌 기념 행사입니다. 수도의 역사적인 지구에 위치한 100년 된 유산 건물인 반 트록 투아 응옥(Baan Trok Thua Ngok) 내부에 자리 잡은 이 팝업은 패션, 장인 정신 및 문화적 맥락을 결합하여 여행과 브랜드의 오랜 관계를 반영합니다. 4층으로 이루어진 LOUIS VUITTON HOTEL BANGKOK은 Keepall, Speedy, Alma, Neverfull 및 Noé 등 하우스의 가장 상징적인 모노그램 백 5개를 중심으로 몰입형 경험을 제공합니다. 각 공간은 실용적인 여행 동반자이자 시대를 초월한 스타일 아이콘으로서 세대를 초월하여 기능적인 수하물에서 탐나는 수집품으로 진화한 이러한 디자인의 이야기를 전합니다. 이 팝업은 방문객에게 루이비통의 유산, 노하우 및 혁신 정신을 통해 모노그램의 유산을 탐험하도록 초대하며, 시그니처 모티프가 어떻게 1세기 이상 관련성을 유지했는지 강조합니다. LOUIS VUITTON HOTEL BANGKOK은 2026년 2월 11일부터 3월 15일까지 방콕 폼프랍 산티팝 로드 306번지에서 일반에 공개됩니다. 운영 시간은 월요일부터 목요일까지 11:00-20:00, 금요일부터 일요일까지 10:00-21:00입니다. 브랜드 공식 웹사이트를 통해 사전 예약이 필요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕의 새로운 핫플레이스가 될 가능성이 있고, 여행객들에게 흥미로운 경험을 제공할 수 있습니다. 2026년의 일정이므로, 미리 알아두면 여행 계획에 참고할 수 있습니다.",
-      "event_info": {
-        "date": "2026-02-11 ~ 2026-03-15",
-        "location": "306 Santiphap Road, Pom Prap, Bangkok",
-        "price": "사전 예약 필요 (웹사이트 참조)",
-        "location_google_map_query": "306 Santiphap Road, Pom Prap, Bangkok"
-      },
+      "event_info": "{'date': '2026-02-11 ~ 2026-03-15', 'location': '306 Santiphap Road, Pom Prap, Bangkok', 'price': '사전 예약 필요 (웹사이트 참조)', 'location_google_map_query': '306 Santiphap Road, Pom Prap, Bangkok'}",
       "references": [
         {
           "title": "LOUIS VUITTON HOTEL BANGKOK, the first in Southeast Asia",
@@ -1812,23 +1804,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/pageQQQ.jpg"
         }
       ],
-      "collected_at": "02:56",
+      "collected_at": "2:56",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/pageQQQ.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.khaosodenglish.com/life/2026/02/10/louis-vuitton-hotel-bangkok-the-first-in-southeast-asia/",
+      "source": ""
     },
     {
       "title": "방콕-파타야 오토바이 택시 사기 발생: 여성 기사 눈물",
       "summary": "- 방콕에서 파타야까지 오토바이 택시를 운행한 여성 기사가 요금을 받지 못하는 사기를 당함.\n- 승객은 파타야 경찰서에 돈을 받으러 간다며 사라짐.\n- 경찰은 사건을 조사 중.",
       "full_translated": "2026년 2월 9일 오전 2시 19분경, Phennapha Sitthidet 씨는 파타야 시 경찰서의 수사관에게 사건을 신고했습니다. 그녀는 알 수 없는 여성에게 방콕에서 파타야까지 오토바이 택시를 운행하도록 고용되었는데, 그 여성은 파타야 경찰서에 가야 한다는 구실을 댔다고 설명했습니다. 페냅파 씨에 따르면 사건은 방콕 클롱 토이 지역의 수쿰빗 소이 4 입구에서 시작되었습니다. 20세에서 35세 사이로 추정되는 태국 여성은 흰색 셔츠, 짧은 흰색 청바지를 입고 숄더백을 메고 처음에는 파타야로 가는 에카마이 버스 터미널로 데려다 달라고 요청했습니다. 그들이 도착했을 때 모든 버스가 이미 출발했다는 것을 알고 나서, 그 여성은 페냅파 씨에게 오토바이를 타고 파타야 시 경찰서까지 직접 여행을 계속해 달라고 간청했습니다. 협상 후, 그들은 1,500바트(원래 2,000바트)의 요금에 합의했습니다. 여성의 상황에 동정심을 느낀 페냅파 씨는 그 일을 받아들였습니다. 두 사람은 방콕에서 파타야까지 약 2시간을 이동했습니다. 경찰서 앞에 도착하자 승객은 요금을 지불하기 위해 그곳에 있다고 하는 아버지로부터 돈을 받기 위해 안으로 들어가야 한다고 주장했습니다. 그러고 나서 그녀는 역에 들어갔지만 다시는 돌아오지 않았습니다. 여성이 나타나지 않아 한 시간 이상을 기다린 후, 페냅파 씨는 의심스러워 근처 오토바이 택시 기사들에게 그녀를 알아 보는지 물었습니다. 그들은 그녀에게 그런 여자는 없다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 대상 범죄 가능성 및 택시 이용 시 주의 필요성 상기. 새벽 시간대 사건 발생으로 안전에 대한 경각심 고취.",
-      "event_info": {
-        "date": "2026-02-09",
-        "location": "파타야",
-        "price": "1500 바트 (사기 피해 금액)",
-        "location_google_map_query": "Pattaya Police Station"
-      },
+      "event_info": "{'date': '2026-02-09', 'location': '파타야', 'price': '1500 바트 (사기 피해 금액)', 'location_google_map_query': 'Pattaya Police Station'}",
       "references": [
         {
           "title": "Female Motorcycle Taxi Driver Left in Tears After Being Tricked into Free Ride from Bangkok to Pattaya",
@@ -1837,23 +1826,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707357753392415381139834454605.jpg?v=1770735875"
         }
       ],
-      "collected_at": "02:56",
+      "collected_at": "2:56",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707357753392415381139834454605.jpg?v=1770735875",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://thepattayanews.com/2026/02/10/female-motorcycle-taxi-driver-left-in-tears-after-being-tricked-into-free-ride-from-bangkok-to-pattaya/",
+      "source": ""
     },
     {
       "title": "치앙라이: 경찰, 240kg 메스암페타민 압수, 운전자 도주",
       "summary": "- 치앙라이 경찰이 검문소를 탈출한 픽업 트럭에서 240kg 이상의 메스암페타민을 압수했습니다.\n- 운전자는 차량을 버리고 도주했으며, 현재 경찰이 추적 중입니다.\n- 압수된 마약은 태국-미얀마 국경에서 유입된 것으로 추정됩니다.",
       "full_translated": "치앙라이 – 경찰은 2026년 2월 10일 새벽, 픽업 트럭이 검문소를 벗어나 매사이 지역의 한 마을에서 버려진 후 240kg 이상의 메스암페타민을 압수했습니다. 치앙라이 지방 경찰청장 마놉 세나쿨 소장은 오전 1시 30분경 경찰관들을 이끌고 240.1kg의 1종 마약과 픽업 트럭 1대를 압수했다고 경찰은 밝혔습니다. 매사이 경찰은 마약 밀매 조직이 파혼요틴 도로에서 남참-농오 마을로 갈라지는 2차 경로를 이용하여 태국-미얀마 국경에서 내륙으로 마약을 밀반입하고 있다는 정보를 입수했습니다. 경찰관들은 차단 작전을 펼쳤고, 이후 치앙라이 번호판이 부착된 회색 도요타 하이럭스 레보 픽업을 발견했습니다. 차량이 5번지 남참 마을에 도착했을 때 경찰관들은 정지 신호를 보냈습니다. 운전자는 봉쇄망을 뚫고 도주했습니다. 경찰은 추격전을 벌였습니다. 마을 내에서 운전자는 차량을 멈추고 도로 한가운데 버리고 도보로 도주했으며, 지역 지식과 어둠을 이용하여 체포를 피했습니다. 픽업을 수색한 결과 총 240.1kg의 얼음이 들어 있는 비료 자루 7개가 발견되었습니다. 경찰은 또한 차량 설명서 사본, 차량 판매 서류, 휴대 전화 1대, 영수증 및 기타 서류를 회수하여 수사를 확대하고 용의자를 추적하는 데 사용할 예정이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "마약 관련 범죄는 여행객 안전에 잠재적 위협이 될 수 있으며, 특히 해당 지역을 여행하는 경우 주의가 필요합니다. 현재 시각 새벽이므로, 오늘 발생한 사건으로 분류합니다.",
-      "event_info": {
-        "date": "2026-02-10",
-        "location": "Mae Sai, Chiang Rai",
-        "price": null,
-        "location_google_map_query": "Mae Sai, Chiang Rai"
-      },
+      "event_info": "{'date': '2026-02-10', 'location': 'Mae Sai, Chiang Rai', 'price': None, 'location_google_map_query': 'Mae Sai, Chiang Rai'}",
       "references": [
         {
           "title": "Driver escapes as police find 240kg of crystal meth",
@@ -1862,8 +1848,133 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Driver-escapes-as-police-find-240kg-of-crystal-meth.jpg"
         }
       ],
-      "collected_at": "02:56",
+      "collected_at": "2:56",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Driver-escapes-as-police-find-240kg-of-crystal-meth.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.khaosodenglish.com/news/2026/02/10/driver-escapes-as-police-find-240kg-of-crystal-meth/",
+      "source": ""
+    },
+    {
+      "title": "씨라차에서 불법 유턴 차량, 오토바이 충돌 사고 발생, 학생 2명 부상",
+      "summary": "- 2026년 2월 10일 오후 4시 45분경, 스리라차에서 불법 유턴 차량으로 인해 오토바이와 충돌 사고 발생.\n- 오토바이 운전자와 동승자, 모두 중학교 2학년 학생으로 부상을 입고 병원으로 이송됨.\n- 79세 운전자는 사고 현장에 남아 경찰 조사에 협조함. 사고는 렉서스 차량이 갑자기 U턴을 하면서 발생.",
+      "full_translated": "2026년 2월 10일 오후 4시 45분경, 농캄 부지구의 사크 코-농캄 도로에서 사고가 발생했습니다. Sawang Prathip Sriracha Foundation의 구조대원들이 현장에 출동했으며, 오토바이가 승용차와 충돌하여 두 명의 부상자가 발생했습니다. 현장에서 경찰은 흰색 혼다 리드 오토바이가 도로 중앙에 전복되어 앞부분이 심하게 손상된 것을 발견했습니다. 피해자 두 명은 모두 수라삭 부지구의 학교에 다니는 중학교 2학년 학생으로, 포장 도로에 부상을 입고 누워 있었습니다. 그들은 다발성 상처, 몸의 통증, 목의 긴장을 겪었습니다. 근처에는 약 79세의 마낫 부아추 씨가 운전하는 청동색-은색 렉서스 RX330 SUV가 있었습니다. 차량의 오른쪽 앞 펜더에는 명확한 충돌 흔적이 있었습니다. 마낫 씨는 현장에 남아 경찰에 협조했습니다. 구조팀은 두 학생에게 응급 처치를 제공한 후 추가 치료를 위해 Somdet Phra Borom Ratchathewi Na Sriracha Hospital로 이송했습니다. 다른 차량의 블랙박스 영상에서 사건의 전개가 드러났습니다. 학생들의 오토바이는 직진으로 주행하고 있었고, 렉서스 세단이 갑자기 U턴을 하면서 차선을 막았을 때 다른 차량을 추월했습니다. 오토바이는 렉서스 오른쪽 앞부분을 전속력으로 들이받았습니다. 충격은 심각했고, 뒷좌석 승객은 공중으로 튕겨 올라 차체에 부딪힌 후 바닥에 떨어졌습니다. 오토바이 운전자는 잔해에 갇혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객들이 이용하는 지역에서 발생한 교통사고 소식으로, 안전에 대한 경각심을 높일 필요가 있음. 특히 오토바이 이용 시 주의를 요함.",
+      "event_info": {
+        "date": "2026-02-10",
+        "location": "Sak Kho-Nong Kham Road, Sri Racha",
+        "price": null,
+        "location_google_map_query": "Sak Kho-Nong Kham Road, Sri Racha"
+      },
+      "references": [
+        {
+          "title": "Dashcam Captures Moment Sedan Makes Illegal U-Turn in Sri Racha, Blocking Road and Causing Motorcycle Crash with Two Young Students Injured",
+          "url": "https://thepattayanews.com/2026/02/10/dashcam-captures-moment-sedan-makes-illegal-u-turn-in-sri-racha-blocking-road-and-causing-motorcycle-crash-with-two-young-students-injured/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707287088254707316032353772630.jpg?v=1770728828"
+        }
+      ],
+      "collected_at": "03:37",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707287088254707316032353772630.jpg?v=1770728828",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "촌부리에서 제25회 자연농업 박람회 개막: 왕실 영감의 지속 가능한 농업 및 전국 제품 홍보",
+      "summary": "- 촌부리에서 2026년 2월 9일부터 15일까지 자연농업 박람회가 개최됩니다.\n- 이 박람회는 고(故) 푸미폰 아둔야뎃 국왕의 업적을 기리고 자연 농업 기술을 공유합니다.\n- 다양한 활동과 함께 전국 각지의 농산물 및 OTOP 제품을 저렴하게 구매할 수 있습니다.",
+      "full_translated": "촌부리에서 제25회 자연농업 박람회가 개막했습니다. 학습 진흥부 국장인 케사팁 수파와니시 박사는 '잘 심고, 잘 행하여, 어머니의 땅에 바치다'라는 주제로 행사의 개막식을 주재했습니다. 촌부리 부지사인 퐁타싯 피자난트는 참석자들에게 환영사를 전했습니다. 박람회는 2026년 2월 9일부터 15일까지 진행되며, 태국 국민을 향한 고(故) 푸미폰 아둔야뎃 국왕의 왕실 구상과 왕실 임무를 전파하는 것을 목표로 합니다. 자연 농업 관행 및 관련 기술에 대한 지식을 공유하는 플랫폼 역할을 하며, 자연 농업 생산자와 소비자를 직접 연결하는 시장 역할을 합니다. 행사 전반에 걸쳐 다양한 활동이 진행됩니다. \n\n- 고(故) 국왕을 기리는 전시회\n- 그림 그리기 및 색칠하기 대회\n- 자연 재배 채소 경연 대회\n- 채소밭 심기 대회\n- 학술 세미나\n- 학생 및 대학교 활동\n- 소득 창출 직업 라이브 시연\n- 전국 각지의 신선하고 깨끗하며 안전하고 저렴한 농산물과 OTOP(One Tambon, One Product) 품목을 쇼핑, 시식 및 휴식을 취할 수 있는 기회\n\n이 행사는 왕실 개발 프로젝트에서 영감을 받은 지속 가능한 무화학 농업 방식에 중점을 두고 안전한 농업 관행과 태국 농민에 대한 직접적인 지원을 장려합니다. 자세한 내용이나 문의 사항은 학습 진흥부 담당자에게 문의하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 농산물 및 OTOP 제품을 접할 수 있는 기회이며, 촌부리 방문객에게 흥미로운 행사가 될 수 있습니다.",
+      "event_info": {
+        "date": "2026-02-09 ~ 2026-02-15",
+        "location": "촌부리",
+        "price": "무료",
+        "location_google_map_query": "Chonburi"
+      },
+      "references": [
+        {
+          "title": "25th Natural Agriculture Fair Opens in Chonburi: Promoting Royal-Inspired Sustainable Farming and Nationwide Products",
+          "url": "https://thepattayanews.com/2026/02/10/25th-natural-agriculture-fair-opens-in-chonburi-promoting-royal-inspired-farming-and-nationwide-products/",
+          "source": "The Pattaya News"
+        }
+      ],
+      "collected_at": "03:37",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "카오키여우 동물원의 인기쟁이 아기 하마 '무댕', 흰색 욕조에서 물놀이",
+      "summary": "- 카오키여우 동물원의 아기 하마 '무댕'이 흰색 욕조에서 즐거운 시간을 보내는 모습이 공개됨.\n- 무럭무럭 자라는 '무댕'이지만 여전히 작은 욕조에 몸을 구겨 넣는 것을 좋아함.\n- 방문객들은 '무댕'의 건강하고 귀여운 모습에 감탄하며 큰 호응을 보내고 있음.",
+      "full_translated": "카오키여우 동물원에서 촬영된 최신 영상에서 아기 하마 '무댕'은 활기 넘치는 모습으로 흰색 욕조에서 상쾌하게 물놀이를 즐기고 있습니다. 빠른 성장에도 불구하고 어린 피그미 하마는 좋아하는 욕조에 몸을 쑤셔 넣는 것을 고집하며 개인적인 휴식 의식을 즐기려 합니다. 카오키여우 동물원 원장 나롱윗 초초이는 팬들이 이제 '무댕'의 편안한 시간을 목격하고 있다고 밝혔습니다. 그는 \"몸이 너무 커져서 욕조가 눈에 띄게 작아 보이지만 여전히 사랑하는 욕조에 들어가기 위해 진짜 노력을 기울입니다.\"라고 말했습니다. \"하지만 여전히 최고의 행복을 위해 뛰어들어 입을 크게 벌려 물을 잡고 제한된 공간 안에서 뛰어난 민첩성으로 장난스럽게 뛰어다닙니다.\" 사육사들은 가까이에서 미스트와 물을 부드럽게 뿌려 세션 내내 시원하고 상쾌하게 유지합니다. 욕조에서 휴식을 취하려는 이러한 결정적인 시도는 주요 하이라이트가 되어 현장에서 장면을 목격하는 방문객들로부터 많은 '어머'와 애정을 불러일으키고 있습니다. 이번에 팬들의 마음을 진정으로 녹이는 것은 '무댕'의 빛나고 매끄럽고 건강해 보이는 피부로, 활기찬 나이에 전형적인 피그미 하마 스타일로 윤기가 흐르고 흠잡을 데가 없습니다. 욕조에 있는 동안 카메라를 올려다보는 그녀의 크고 순수한 눈빛은 자라나는 몸을 최대한 편안하게 구부리고 조정하려는 끈기 있는 노력과 결합되어 거부할 수 없을 정도로 귀여운 모습을 연출합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물원 방문객들에게 즐거움을 주는 소식이지만, 여행에 필수적인 정보는 아님. 카오키여우 동물원 방문 예정이라면 흥미로운 볼거리.",
+      "event_info": {
+        "date": null,
+        "location": "Khao Kheow Open Zoo, 태국",
+        "price": null,
+        "location_google_map_query": "Khao Kheow Open Zoo"
+      },
+      "references": [
+        {
+          "title": "Viral Pygmy Hippo Moo Deng Splashes in Her Favorite White Tub at Khao Kheow Open Zoo",
+          "url": "https://thepattayanews.com/2026/02/10/viral-pygmy-hippo-moo-deng-splashes-in-her-favorite-white-tub-at-khao-kheow-open-zoo/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707317053977816958818998985210.jpg?v=1770731816"
+        }
+      ],
+      "collected_at": "03:37",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707317053977816958818998985210.jpg?v=1770731816",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "소말리아 항공기, 기술적 결함으로 비상 착륙...승객 55명 전원 생존",
+      "summary": "- 소말리아 항공 소속 여객기가 기술적 결함으로 비상 착륙 중 활주로를 이탈.\n- 승객과 승무원 55명은 모두 무사하며, 신속한 구조 작업이 진행됨.\n- 사고 원인 조사를 위해 소말리아 교통부 장관이 현장 방문.",
+      "full_translated": "소말리아 항공사의 여객기가 기술적 결함으로 인해 비상 착륙을 시도하다가 활주로에서 이탈하는 사고가 발생했습니다. 외신 보도에 따르면, 소말리아 '스타스카이 에비에이션' 소속 중형 여객기가 모가디슈 국제공항 인근 해안에 비상 착륙했습니다. 탑승객 50명과 승무원 5명 모두 생존했습니다.\n\n스타스카이 측은 조종사의 신속한 판단이 승객들의 생명을 구하는 데 결정적이었다고 밝혔습니다. 소말리아 민간항공청(CAA)에 따르면, Fokker 50 기종의 해당 항공기는 모가디슈 공항에서 이륙 직후 문제를 보고했으며, 조종사는 회항을 요청했습니다. CAA 국장 아흐메드 마칼린 하산은 항공기가 착륙 후 활주로에서 멈추지 못하고 얕은 물가에 멈춰 섰다고 설명했습니다.\n\n아프리카 연합 소말리아 대표단은 유엔군과 아프리카 연합군이 신속하게 현장에 투입되어 구조 작전을 지원했다고 밝혔으며, 소말리아 교통부 장관도 현장을 방문했습니다. 스타스카이 대변인 하산 모하메드 아덴은 탑승객과 승무원 모두 안전하다는 사실을 확인하게 되어 안도감을 느낀다고 밝혔으며, 현재 비상 착륙의 원인이 된 기술적 문제에 대한 조사가 진행 중이라고 덧붙였습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "항공기 사고는 여행 안전에 대한 우려를 유발할 수 있으나, 방콕과는 거리가 멀고 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "모가디슈 국제공항",
+        "price": null,
+        "location_google_map_query": "모가디슈 국제공항"
+      },
+      "references": [
+        {
+          "title": "ระทึก บินโซมาเลีย ลงจอดกระแทกพื้น ผู้โดยสาร 55 คนรอดทั้งหมด",
+          "url": "https://www.thairath.co.th/news/foreign/2913466",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6atM1jE4Il4.jpg"
+        }
+      ],
+      "collected_at": "03:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5Q6atM1jE4Il4.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "새로운 기회당 대변인, 람보 이산의 사임 발표: 정치적 이유, 분열은 아님",
+      "summary": "- 새로운 기회당의 대변인은 람보 이산의 사임이 정치적 이유이며 분열이 아니라고 발표함.\n- 당은 그의 결정을 존중하며, 당의 이상을 계속 추구할 것임.\n- 현재 국회의원 1석을 보유하고 있으며, 국민을 위해 계속 노력할 것을 약속함.",
+      "full_translated": "새로운 기회당 대변인은 “람보 이산”의 사임이 정치적인 문제이며 분열이 아니라고 해명했습니다. 10월 2일, 새로운 기회당의 대변인 시라윗 춘센은 총선 후 세싹삭꼰 앗타웡 또는 “람보 이산”이 당에서 사임한 사건에 대해 선거 기간 동안 당내에서 오해가 발생했기 때문이라고 밝혔습니다. 이것은 매우 치열한 경쟁 속에서 발생할 수 있는 정치적 문제이며, 당은 이것이 심각한 갈등이라고 생각하지 않으며, 업무 방식에 대한 의견 차이일 뿐이라고 밝혔습니다. 당은 싹삭꼰의 결정을 존중하며 서로에게 악감정은 없다고 밝혔습니다. 새로운 기회당 대변인은 정치에는 서로에 대한 이해가 필요하며, 의견이 다를 때는 언제든지 들을 준비가 되어 있으며, 당원은 각자의 길을 선택할 경우, 그 결정을 존중할 준비가 되어 있다고 강조했습니다. 비록 인력 변동이 있더라도, 새로운 기회당은 이상과 정치적 방향을 계속 추진할 것입니다. 현재 당은 국회의원 1석을 보유하고 있으며, 욷따라딧 지역의 국회의원 로싸린이 국민을 대표하여 국회에서 최선을 다하고 있습니다. 새로운 기회당 대변인은 당은 국민을 위해 계속 노력할 것이며, 생계 문제 해결과 창의적인 국가 경영에 초점을 맞추고 있다고 밝혔습니다. 또한 모든 부문의 의견을 수렴하여 당을 강화하고 미래에 국민의 요구에 부응할 수 있도록 노력할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 내용으로 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“แรมโบ้” ลาออก พรรคโอกาสใหม่ ไม่ใช่แตกหัก เป็นเรื่องปกติทางการเมือง",
+          "url": "https://www.thairath.co.th/news/politic/2913450",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5PzbfTaV5aA2B.jpg"
+        }
+      ],
+      "collected_at": "03:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5PzbfTaV5aA2B.jpg",
       "date": "2026-02-11"
     }
   ]
