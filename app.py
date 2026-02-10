@@ -692,6 +692,148 @@ def save_comment(news_id, nickname, text):
         save_json(COMMENTS_FILE, data)
 
 # --------------------------------------------------------------------------------
+# ### KLOOK AFFILIATE BANNER ###
+# --------------------------------------------------------------------------------
+
+def render_klook_banner():
+    """Render Klook affiliate banner with clickable image and travel essentials links."""
+    is_english = st.session_state.get('language') == 'English'
+    
+    # --- 1. Banner Image (clickable) ---
+    banner_img_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "klook_banner.png")
+    if os.path.exists(banner_img_path):
+        st.image(banner_img_path, width='stretch')
+    
+    # Text Localization
+    title_text = "Thailand Travel Essentials" if is_english else "✈️ 태국 여행 필수 준비물"
+    sim_title = "Thailand SIM/eSIM" if is_english else "태국 유심/eSIM"
+    sim_desc = "Airport Pickup · Unlimited Data" if is_english else "공항 수령 · 데이터 무제한"
+    taxi_title = "Airport Transfer" if is_english else "공항 픽업 예약"
+    taxi_desc = "No Haggling · Comfortable Ride" if is_english else "흥정 없이 · 편안하게 이동"
+
+    # --- 2. Affiliate Link Cards ---
+    st.markdown(
+        f"""
+        <div style="
+            border-radius: 0 0 12px 12px;
+            margin-top: -15px;
+            margin-bottom: 18px;
+            box-shadow: 0 2px 12px rgba(255, 87, 34, 0.15);
+            overflow: hidden;
+            border: 1px solid #ffe0d0;
+            border-top: none;
+            background: #fff8f5;
+            padding: 12px 14px 14px 14px;
+        ">
+            <p style="color: #FF5722; font-size: 14px; margin: 0 0 10px 0; font-weight: 700; text-align: center; letter-spacing: -0.3px;">
+                {title_text}
+            </p>
+            <div style="display: flex; gap: 10px;">
+                <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="
+                    flex: 1; text-decoration: none; background: #fff; 
+                    padding: 12px 8px; border-radius: 10px; text-align: center;
+                    border: 1px solid #ffe0d0;
+                    box-shadow: 0 1px 4px rgba(255,87,34,0.08);">
+                    <div style="font-size: 24px; margin-bottom: 6px;">📶</div>
+                    <div style="color: #FF5722; font-weight: 700; font-size: 14px; margin-bottom: 3px;">{sim_title}</div>
+                    <div style="color: #999; font-size: 11px; line-height: 1.3;">{sim_desc}</div>
+                </a>
+                <a href="https://klook.tpx.li/LBnlb1vU" target="_blank" style="
+                    flex: 1; text-decoration: none; background: #fff; 
+                    padding: 12px 8px; border-radius: 10px; text-align: center;
+                    border: 1px solid #d4edda;
+                    box-shadow: 0 1px 4px rgba(76,175,80,0.08);">
+                    <div style="font-size: 24px; margin-bottom: 6px;">🚖</div>
+                    <div style="color: #4CAF50; font-weight: 700; font-size: 14px; margin-bottom: 3px;">{taxi_title}</div>
+                    <div style="color: #999; font-size: 11px; line-height: 1.3;">{taxi_desc}</div>
+                </a>
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+def render_dinner_cruise_banner():
+    """Render Dinner Cruise & Food promotion banner for the Food tab."""
+    is_english = st.session_state.get('language') == 'English'
+    
+    # Text Localization
+    title_main = "Looking for a special restaurant?" if is_english else "특별한 맛집을 찾으시나요?"
+    subtitle = (
+        "How about a <span style='color: #FFD700; font-weight: 700;'>Chao Phraya Dinner Cruise</span><br>with a stunning view of Bangkok?"
+        if is_english else 
+        "방콕 야경을 보며 즐기는<br><span style='color: #FFD700; font-weight: 700;'>짜오프라야 디너 크루즈</span>는 어떠신가요?"
+    )
+    book_btn = "🎫 Book Now" if is_english else "🎫 예약하기"
+    
+    card1_title = "Princess Cruise" if is_english else "프린세스 크루즈"
+    card1_desc = "Buffet + Live Show" if is_english else "뷔페 + 라이브 공연"
+    
+    card2_title = "Bus Food Tour" if is_english else "버스 푸드 투어"
+    card2_desc = "Gourmet on Wheels" if is_english else "버스타고 맛있는 음식을"
+    
+    card3_title = "Michelin Tour" if is_english else "미슐랭 투어"
+    card3_desc = "Local Foodie Course" if is_english else "현지인 맛집 코스"
+
+    st.markdown(
+        f"""
+        <div style="
+            border-radius: 14px;
+            margin: 16px 0;
+            overflow: hidden;
+            background: linear-gradient(135deg, #0c1445 0%, #1a237e 40%, #283593 100%);
+            box-shadow: 0 4px 20px rgba(26, 35, 126, 0.35);
+            border: 1px solid rgba(255, 215, 0, 0.3);
+        ">
+            <a href="https://klook.tpx.li/woQxAZ2X" target="_blank" style="text-decoration: none; display: block;">
+                <div style="padding: 20px 18px 14px 18px; text-align: center;">
+                    <div style="font-size: 32px; margin-bottom: 6px;">🚢✨🌃</div>
+                    <div style="color: #FFD700; font-size: 18px; font-weight: 800; margin-bottom: 6px; letter-spacing: -0.5px;">
+                        {title_main}
+                    </div>
+                    <div style="color: #E8EAF6; font-size: 14px; line-height: 1.6; margin-bottom: 12px;">
+                        {subtitle}
+                    </div>
+                    <div style="
+                        display: inline-block;
+                        background: linear-gradient(135deg, #FFD700, #FFA000);
+                        color: #1a237e;
+                        padding: 10px 28px;
+                        border-radius: 25px;
+                        font-weight: 800;
+                        font-size: 14px;
+                        box-shadow: 0 2px 8px rgba(255, 215, 0, 0.4);
+                    ">{book_btn}</div>
+                </div>
+            </a>
+            <div style="display: flex; gap: 0; border-top: 1px solid rgba(255,255,255,0.1);">
+                <a href="https://klook.tpx.li/woQxAZ2X" target="_blank" style="
+                    flex: 1; text-decoration: none; padding: 12px 8px; text-align: center;
+                    border-right: 1px solid rgba(255,255,255,0.1);">
+                    <div style="font-size: 18px; margin-bottom: 4px;">👑</div>
+                    <div style="color: #FFD700; font-weight: 700; font-size: 12px;">{card1_title}</div>
+                    <div style="color: #9FA8DA; font-size: 10px;">{card1_desc}</div>
+                </a>
+                <a href="https://klook.tpx.li/s0LqwqWT" target="_blank" style="
+                    flex: 1; text-decoration: none; padding: 12px 8px; text-align: center;
+                    border-right: 1px solid rgba(255,255,255,0.1);">
+                    <div style="font-size: 18px; margin-bottom: 4px;">🚌</div>
+                    <div style="color: #FFD700; font-weight: 700; font-size: 12px;">{card2_title}</div>
+                    <div style="color: #9FA8DA; font-size: 10px;">{card2_desc}</div>
+                </a>
+                <a href="https://klook.tpx.li/avHTRYf9" target="_blank" style="
+                    flex: 1; text-decoration: none; padding: 12px 8px; text-align: center;">
+                    <div style="font-size: 18px; margin-bottom: 4px;">⭐</div>
+                    <div style="color: #FFD700; font-weight: 700; font-size: 12px;">{card3_title}</div>
+                    <div style="color: #9FA8DA; font-size: 10px;">{card3_desc}</div>
+                </a>
+            </div>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+# --------------------------------------------------------------------------------
 # ### TAB RENDER FUNCTIONS ###
 # --------------------------------------------------------------------------------
 
@@ -700,6 +842,9 @@ def render_tab_news():
     utils.set_page_title(utils.get_seo_title("nav_news"))
     # 🚩 앵커(깃발) 설치 - 스크롤 타겟
     st.markdown('<div id="news-top-anchor"></div>', unsafe_allow_html=True)
+    
+    # Klook 제휴 배너
+    render_klook_banner()
     
     # --- Twitter Trend Alert (Real-time) ---
     twitter_file = 'data/twitter_trends.json'
@@ -1164,6 +1309,8 @@ def render_tab_news():
 def render_tab_taxi():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_taxi"))
+    # Klook 제휴 배너
+    render_klook_banner()
     utils.render_custom_header(utils.t("taxi_title"), level=2)
     st.caption(utils.t("taxi_desc"))
 
@@ -1340,6 +1487,8 @@ def render_tab_taxi():
 def render_tab_event():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_event"))
+    # Klook 제휴 배너
+    render_klook_banner()
     st.markdown(f"### {utils.t('nav_event')}")
     st.info(f"💡 {utils.t('sidebar_info')}")
     
@@ -1368,6 +1517,8 @@ def render_tab_event():
 def render_tab_hotel():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_hotel"))
+    # Klook 제휴 배너
+    render_klook_banner()
     utils.render_custom_header(utils.t("hotel_fact"), level=2)
     st.caption(utils.t("hotel_desc"))
     
@@ -1699,6 +1850,8 @@ def render_tab_hotel():
 def render_tab_food():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_food"))
+    # 맛집 전용: 디너 크루즈 배너
+    render_dinner_cruise_banner()
     utils.render_custom_header(utils.t("food_fact"), level=2)
     st.caption(utils.t("food_desc"))
     
@@ -1957,7 +2110,6 @@ def render_tab_food():
             st.code(share_text, language=None)
             st.caption(utils.t("share_caption"))
         st.divider()
-
         
         # Google Maps 링크
         if details.get('web_url'):
@@ -2012,6 +2164,8 @@ def render_tab_food():
 def render_tab_guide():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_guide"))
+    # Klook 제휴 배너
+    render_klook_banner()
     # 세션 상태 초기화
     if "guide_view" not in st.session_state:
         st.session_state["guide_view"] = "list"
@@ -2115,9 +2269,120 @@ def render_tab_guide():
                     
                     st.markdown("<br>", unsafe_allow_html=True)
 
+def render_tab_tour():
+    """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
+    from data_tours import TOURS, KLOOK_ALL_TOURS_LINK
+    
+    # SEO
+    utils.set_page_title(utils.get_seo_title("nav_tour"))
+    # Klook 제휴 배너
+    render_klook_banner()
+    
+    utils.render_custom_header(utils.t("tour_title"), level=2)
+    st.caption(utils.t("tour_desc"))
+    
+    # --- 1. 사용자 취향 입력 (Input) ---
+    st.markdown("---")
+    
+    col1, col2 = st.columns(2)
+    with col1:
+        who_options = ["혼자", "연인/부부", "친구", "가족(아이동반)", "가족(부모님)"]
+        who = st.radio(utils.t("tour_who"), who_options, key="tour_who_radio")
+    with col2:
+        style_options = ["힐링/마사지", "인생샷/사진", "역사/문화", "액티비티/스릴", "맛집/식도락", "야경/로맨틱", "이색체험"]
+        style = st.multiselect(utils.t("tour_style"), style_options, default=["인생샷/사진"], key="tour_style_multi")
+    
+    budget_options = ["가성비(저렴)", "적당함", "럭셔리/프리미엄"]
+    budget = st.select_slider(utils.t("tour_budget"), options=budget_options, value="적당함", key="tour_budget_slider")
+    
+    # --- 2. 추천 버튼 & 결과 (Output) ---
+    if st.button(utils.t("tour_find_btn"), use_container_width=True, type="primary", key="tour_find_button"):
+        with st.spinner(utils.t("tour_spinner")):
+            ai_result = utils.recommend_tours(who, style, budget)
+        
+        if ai_result and ai_result.get("recommendations"):
+            st.session_state["tour_recommendations"] = ai_result["recommendations"]
+        else:
+            st.session_state["tour_recommendations"] = None
+            st.warning("AI 추천을 가져오는데 실패했습니다. 아래 전체 목록에서 직접 선택해주세요!")
+    
+    # --- 추천 결과 표시 ---
+    recs = st.session_state.get("tour_recommendations")
+    if recs:
+        st.markdown(f"### {utils.t('tour_result_title')}")
+        st.markdown("---")
+        
+        for idx, rec in enumerate(recs):
+            tour_name = rec.get("tour_name", "")
+            reason = rec.get("reason", "")
+            tip = rec.get("tip", "")
+            
+            # 매칭되는 투어 데이터 찾기
+            matched_tour = next((t for t in TOURS if t["name"] == tour_name), None)
+            
+            if not matched_tour:
+                # 부분 매칭 시도
+                matched_tour = next((t for t in TOURS if tour_name in t["name"] or t["name"] in tour_name), None)
+            
+            if matched_tour:
+                rank_emoji = "🏆" if idx == 0 else "🥈"
+                
+                c_img, c_info = st.columns([1, 2])
+                with c_img:
+                    if matched_tour.get("image"):
+                        st.image(matched_tour["image"], use_container_width=True)
+                with c_info:
+                    st.subheader(f"{rank_emoji} {matched_tour['name']}")
+                    st.markdown(f"**{utils.t('tour_reason')}:** {reason}")
+                    st.info(f"**{utils.t('tour_pros')}:** {matched_tour['pros']}")
+                    if tip:
+                        st.caption(f"{utils.t('tour_tip')}: {tip}")
+                    st.markdown(f"**💰 {matched_tour['price']}**")
+                    
+                    st.link_button(
+                        utils.t("tour_book_btn"), 
+                        matched_tour["link"], 
+                        type="primary",
+                        use_container_width=True
+                    )
+                
+                st.markdown("---")
+            else:
+                # AI가 목록에 없는 이름을 반환한 경우
+                st.markdown(f"**{rank_emoji if idx == 0 else '🥈'} {tour_name}**")
+                st.markdown(f"**{utils.t('tour_reason')}:** {reason}")
+                if tip:
+                    st.caption(f"{utils.t('tour_tip')}: {tip}")
+                st.markdown("---")
+    
+    # --- 3. 전체 목록 (Fallback) ---
+    with st.expander(utils.t("tour_all_list")):
+        for t in TOURS:
+            c1, c2 = st.columns([1, 3])
+            with c1:
+                if t.get("image"):
+                    st.image(t["image"], use_container_width=True)
+            with c2:
+                st.markdown(f"**[{t['name']}]({t['link']})** — {t['price']}")
+                st.caption(t['desc'])
+                tags = " · ".join(t.get("type", []))
+                st.markdown(f"<span style='color: #888; font-size: 0.8rem;'>🏷️ {tags}</span>", unsafe_allow_html=True)
+            st.markdown("---")
+    
+    # --- 4. 클룩 전체보기 (항상 표시) ---
+    st.markdown("---")
+    st.info(utils.t("tour_no_match"))
+    st.link_button(
+        utils.t("tour_fallback"),
+        KLOOK_ALL_TOURS_LINK,
+        use_container_width=True
+    )
+
 def render_tab_board():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_board"))
+    # Klook 제휴 배너
+    render_klook_banner()
     st.markdown(f"### {utils.t('board_title')}")
     st.caption(utils.t("board_desc"))
     
@@ -2140,6 +2405,9 @@ def render_tab_board():
             b_pw = c_pw.text_input(utils.t("password"), type="password", max_chars=4)
             b_content = st.text_area(utils.t("content"), placeholder="..." if st.session_state.get('language') == 'English' else "욕설, 비방, 광고글은 통보 없이 삭제될 수 있습니다.", height=100)
             
+            # [MOD] Secret Post Checkbox
+            b_secret = st.checkbox("🔒 비밀글 (작성자와 관리자만 볼 수 있습니다)", key="board_secret")
+            
             if st.form_submit_button(utils.t("write_btn"), width='stretch'):
                 if not b_content:
                     st.warning("내용을 입력해주세요.")
@@ -2147,7 +2415,7 @@ def render_tab_board():
                     st.warning("삭제를 위한 비밀번호를 입력해주세요.")
                 else:
                     with st.spinner("구글 시트에 저장 중..."):
-                        if save_board_post(b_nick, b_content, b_pw):
+                        if save_board_post(b_nick, b_content, b_pw, is_secret=b_secret):
                             st.success("게시글이 등록되었습니다!")
                             st.rerun()
 
@@ -2173,7 +2441,33 @@ def render_tab_board():
                 # Header: Nickname & Date
                 st.markdown(f"**{c_nick_safe}** <span style='color:grey; font-size:0.8em'>| {c_date}</span>", unsafe_allow_html=True)
                 # Content (Render safely via markdown, replacing http with https)
-                st.markdown(c_content_safe)
+                # [MOD] Secret Post Logic
+                is_secret_val = post.get('is_secret', False)
+                if isinstance(is_secret_val, str):
+                    is_secret_val = is_secret_val.lower() == 'true'
+                
+                is_admin = st.session_state.get("password_correct", False)
+                
+                if is_secret_val:
+                    if is_admin:
+                        st.markdown(f"🔒 **[비밀글]** {c_content_safe}")
+                    else:
+                        # Check if unlocked
+                        unlock_key = f"board_unlocked_{c_date}" # Use ID as key
+                        if st.session_state.get(unlock_key):
+                             st.info("🔓 비밀번호 확인됨")
+                             st.markdown(c_content_safe)
+                        else:
+                             with st.expander("🔒 비밀글입니다 (클릭하여 확인)"):
+                                  spw = st.text_input("비밀번호", type="password", key=f"secret_pw_{i}")
+                                  if st.button("확인", key=f"btn_sec_{i}"):
+                                       if str(spw) == str(post.get('password')):
+                                            st.session_state[unlock_key] = True
+                                            st.rerun()
+                                       else:
+                                            st.error("비밀번호가 일치하지 않습니다.")
+                else:
+                    st.markdown(c_content_safe)
                 
                 # Delete UI (Bottom Right)
                 with st.expander("🗑️ " + utils.t("delete_post")):
@@ -2219,7 +2513,7 @@ def load_board_data():
             st.error(f"게시판 데이터 로드 실패: {e}")
         return []
 
-def save_board_post(nickname, content, password):
+def save_board_post(nickname, content, password, is_secret=False):
     """
     Append a new row to Google Sheets using Update (Read -> Concat -> Update).
     """
@@ -2231,7 +2525,8 @@ def save_board_post(nickname, content, password):
             "created_at": datetime.now().strftime("%Y-%m-%d %H:%M"),
             "nickname": nickname if nickname else "익명",
             "content": content,
-            "password": password
+            "password": password,
+            "is_secret": is_secret
         }])
         # Concat
         updated_df = pd.concat([existing_df, new_row], ignore_index=True)
@@ -2399,7 +2694,8 @@ if app_mode == "Admin Console":
         # Tabs for better organization
         # Tabs for better organization
         # Main Tab Layout
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "📘 가이드 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽"])
+        # Main Tab Layout
+        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "📘 가이드 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽", "🎒 투어 관리"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
@@ -3401,6 +3697,119 @@ if app_mode == "Admin Console":
                             mime="application/zip"
                         )
 
+        # --- Tab 12: Tour Management (New) ---
+        with tab12:
+            st.subheader("🎒 투어 상품 데이터 관리")
+            st.info("여기서 추가/수정된 데이터는 `data_tours.py` 파일에 직접 저장됩니다.")
+            
+            try:
+                from data_tours import TOURS
+                import json
+                import pandas as pd
+                import time
+
+                # 1. 목록 보기
+                st.markdown("#### 📋 등록된 투어 목록")
+                if TOURS:
+                    df_tours = pd.DataFrame(TOURS)
+                    st.dataframe(df_tours[['id', 'name', 'price', 'type']], use_container_width=True)
+                else:
+                    st.info("등록된 투어가 없습니다.")
+                
+                # 2. 추가/수정/삭제
+                st.markdown("---")
+                tour_action = st.radio("작업 선택", ["➕ 새 투어 추가", "✏️ 기존 투어 수정", "🗑️ 투어 삭제 (ID)"], horizontal=True, key="admin_tour_action")
+                
+                if tour_action == "➕ 새 투어 추가":
+                    with st.form("add_tour_form"):
+                        new_id = max([t['id'] for t in TOURS]) + 1 if TOURS else 1
+                        st.caption(f"새 투어 ID: {new_id} (자동 생성)")
+                        
+                        n_name = st.text_input("투어명")
+                        n_price = st.text_input("가격 (예: 약 50,000원)")
+                        n_link = st.text_input("Klook 링크")
+                        n_image = st.text_input("이미지 URL")
+                        n_type = st.text_input("태그 (콤마로 구분, 예: 역사,야경)")
+                        n_desc = st.text_area("설명")
+                        n_pros = st.text_input("장점/특징")
+                        
+                        if st.form_submit_button("저장"):
+                            new_tour = {
+                                "id": new_id,
+                                "name": n_name,
+                                "type": [t.strip() for t in n_type.split(",") if t.strip()],
+                                "price": n_price,
+                                "desc": n_desc,
+                                "pros": n_pros,
+                                "link": n_link,
+                                "image": n_image
+                            }
+                            TOURS.append(new_tour)
+                            
+                            # Save to file
+                            with open("data_tours.py", "w", encoding="utf-8") as f:
+                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                            
+                            st.success("새 투어가 추가되었습니다!")
+                            time.sleep(1)
+                            st.rerun()
+
+                elif tour_action == "✏️ 기존 투어 수정":
+                    edit_id = st.number_input("수정할 투어 ID 입력", min_value=1, step=1, key="edit_tour_id")
+                    target_tour = next((t for t in TOURS if t['id'] == edit_id), None)
+                    
+                    if target_tour:
+                        with st.form("edit_tour_form"):
+                            st.caption(f"수정 중: {target_tour['name']}")
+                            e_name = st.text_input("투어명", value=target_tour['name'])
+                            e_price = st.text_input("가격", value=target_tour['price'])
+                            e_link = st.text_input("Klook 링크", value=target_tour['link'])
+                            e_image = st.text_input("이미지 URL", value=target_tour['image'])
+                            e_type = st.text_input("태그", value=",".join(target_tour['type']))
+                            e_desc = st.text_area("설명", value=target_tour['desc'])
+                            e_pros = st.text_input("장점/특징", value=target_tour['pros'])
+                            
+                            if st.form_submit_button("수정 내용 저장"):
+                                target_tour['name'] = e_name
+                                target_tour['price'] = e_price
+                                target_tour['link'] = e_link
+                                target_tour['image'] = e_image
+                                target_tour['type'] = [t.strip() for t in e_type.split(",") if t.strip()]
+                                target_tour['desc'] = e_desc
+                                target_tour['pros'] = e_pros
+                                
+                                # Save to file
+                                with open("data_tours.py", "w", encoding="utf-8") as f:
+                                    f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                                
+                                st.success("투어 정보가 수정되었습니다!")
+                                time.sleep(1)
+                                st.rerun()
+                    else:
+                        st.warning("해당 ID의 투어를 찾을 수 없습니다.")
+
+                elif tour_action == "🗑️ 투어 삭제 (ID)":
+                    del_id = st.number_input("삭제할 투어 ID 입력", min_value=1, step=1, key="del_tour_id")
+                    confirm_del = st.checkbox("정말 삭제하시겠습니까?")
+                    
+                    if st.button("삭제 실행", type="primary") and confirm_del:
+                        initial_len = len(TOURS)
+                        TOURS = [t for t in TOURS if t['id'] != del_id]
+                        
+                        if len(TOURS) < initial_len:
+                            # Save to file
+                            with open("data_tours.py", "w", encoding="utf-8") as f:
+                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                            
+                            st.success(f"ID {del_id} 투어가 삭제되었습니다.")
+                            time.sleep(1)
+                            st.rerun()
+                        else:
+                            st.warning("해당 ID의 투어를 찾을 수 없습니다.")
+
+            except Exception as e:
+                st.error(f"데이터 로드 중 오류 발생: {e}")
+
 else:
     # --- Viewer Mode ---
     # Visitor Counter Logic & UI (Main Header)
@@ -3498,7 +3907,8 @@ else:
     else:
         # Korean Mode: Original title
         utils.render_custom_header("🇹🇭 오늘의 태국", level=1)
-        st.caption(f"Today: {daily_val:,} | Total: {total_val:,} • 태국 여행의 모든 것, 뉴스부터 맛집 팩트체크까지")
+        # [MOD] Structured caption with line break
+        st.markdown(f"<small style='color: grey;'>Today: {daily_val:,} | Total: {total_val:,}<br>태국 여행의 모든 것, 뉴스부터 맛집 팩트체크까지</small>", unsafe_allow_html=True)
         
     # --- Dark Mode Logic (CSS-based to prevent layout thrashing) ---
     # We inject the CSS always. The styles trigger only when the toggle is checked via :has() selector.
@@ -3829,8 +4239,9 @@ else:
                 utils.t("nav_taxi"), utils.t("nav_news"), utils.t("nav_board")
             ]
         else:
+            # Korean Mode: Use Tour tab instead of Guide
             nav_options = [
-                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_guide"), 
+                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
                 utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_board")
             ]
     else:
@@ -3840,8 +4251,9 @@ else:
                 utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_news"), utils.t("nav_board")
             ]
         else:
+            # Korean Mode: Use Tour tab instead of Guide
             nav_options = [
-                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_guide"), 
+                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
                 utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_board")
             ]
     
@@ -3864,6 +4276,43 @@ else:
         if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
              st.session_state["nav_top"] = current_mode
              
+        # [MOD] CSS for Mobile Horizontal Scroll (No-Wrap)
+        st.markdown("""
+        <style>
+        /* Force st.pills to scroll horizontally on mobile */
+        @media (max-width: 768px) {
+            /* Container: Flex nowrap + Scroll */
+            div[data-testid="stButtonGroup"] > div,
+            div[data-testid="stPills"] > div > div {
+                flex-wrap: nowrap !important;
+                overflow-x: auto !important;
+                white-space: nowrap !important;
+                -webkit-overflow-scrolling: touch;
+                scrollbar-width: none;
+                padding-bottom: 4px;
+                /* Optional: Fade effect on right edge */
+                mask-image: linear-gradient(to right, black 85%, transparent 100%);
+                -webkit-mask-image: linear-gradient(to right, black 85%, transparent 100%);
+            }
+            div[data-testid="stButtonGroup"] > div::-webkit-scrollbar,
+            div[data-testid="stPills"] > div > div::-webkit-scrollbar {
+                display: none;
+            }
+            
+            /* Buttons: Prevent shrinking */
+            button[data-testid="stBaseButton-pills"] {
+                flex-shrink: 0 !important;
+                min-width: auto !important;
+            }
+            
+            /* Text: No wrap */
+            button[data-testid="stBaseButton-pills"] p {
+                white-space: nowrap !important;
+            }
+        }
+        </style>
+        """, unsafe_allow_html=True)
+
         st.pills("이동", nav_options, selection_mode="single", 
                 key="nav_top", on_change=update_from_top, label_visibility="collapsed")
                 
@@ -3926,6 +4375,8 @@ else:
         render_tab_food()
     elif page_mode == utils.t("nav_guide"):
         render_tab_guide()
+    elif page_mode == utils.t("nav_tour"):
+        render_tab_tour()
     elif page_mode == utils.t("nav_taxi"):
         render_tab_taxi()
     elif page_mode == utils.t("nav_event"):

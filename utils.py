@@ -21,6 +21,7 @@ UI_TEXT = {
     "nav_hotel": {"ko": "🏨 호텔", "en": "🏨 Hotel"},
     "nav_food": {"ko": "🍽️ 맛집", "en": "🍽️ Taste"},
     "nav_guide": {"ko": "📘 가이드", "en": "📘 Guide"},
+    "nav_tour": {"ko": "🎒 투어", "en": "📘 Guide"},
     "nav_taxi": {"ko": "🚕 택시", "en": "🚕 Taxi"},
     "nav_event": {"ko": "🎪 이벤트", "en": "🎪 Events"},
     "nav_board": {"ko": "🗣️ 게시판", "en": "🗣️ Board"},
@@ -148,6 +149,22 @@ UI_TEXT = {
     "aqi_very_unhealthy": {"ko": "매우나쁨", "en": "Very Unhealthy"},
     "aqi_loading": {"ko": "로딩중", "en": "Loading"},
     "aqi_error": {"ko": "오류", "en": "Error"},
+    # Tour Tab
+    "tour_title": {"ko": "🎒 AI 여행 코디네이터", "en": "🎒 AI Travel Coordinator"},
+    "tour_desc": {"ko": "여행 스타일을 알려주시면, 실패 없는 현지 투어를 추천해 드려요!", "en": "Tell us your travel style, and we'll recommend the best local tours!"},
+    "tour_who": {"ko": "누구와 함께 하시나요?", "en": "Who are you traveling with?"},
+    "tour_style": {"ko": "선호하는 스타일은?", "en": "What's your preferred style?"},
+    "tour_budget": {"ko": "선호하는 가격대는?", "en": "Preferred price range?"},
+    "tour_find_btn": {"ko": "✨ 내 취향에 딱 맞는 투어 찾기", "en": "✨ Find My Perfect Tour"},
+    "tour_spinner": {"ko": "AI가 수천 개의 후기를 분석 중입니다... 🤖", "en": "AI is analyzing thousands of reviews... 🤖"},
+    "tour_result_title": {"ko": "🎯 당신을 위한 AI 추천 투어", "en": "🎯 AI-Recommended Tours for You"},
+    "tour_book_btn": {"ko": "👉 최저가 예약하기 (Klook)", "en": "👉 Book at Best Price (Klook)"},
+    "tour_all_list": {"ko": "📋 투어 전체 목록 보기", "en": "📋 View All Tours"},
+    "tour_fallback": {"ko": "🌏 클룩(Klook)에서 태국 투어 전체보기 (2,000개+)", "en": "🌏 Browse All Thailand Tours on Klook (2,000+)"},
+    "tour_no_match": {"ko": "🤔 마음에 드는 투어가 없으신가요?", "en": "🤔 Didn't find what you're looking for?"},
+    "tour_reason": {"ko": "💡 추천 이유", "en": "💡 Why We Recommend This"},
+    "tour_tip": {"ko": "🎯 꿀팁", "en": "🎯 Pro Tip"},
+    "tour_pros": {"ko": "👍 핵심 포인트", "en": "👍 Key Highlights"},
 }
 
 def t(key):
@@ -345,6 +362,10 @@ SEO_TITLES = {
     },
     "nav_guide": {
         "ko": "📘 태국 여행 가이드 2026 | 오늘의 태국",
+        "en": "📘 Thailand Travel Guide 2026 | Thai Today"
+    },
+    "nav_tour": {
+        "ko": "🎒 AI 투어 추천 | 오늘의 태국",
         "en": "📘 Thailand Travel Guide 2026 | Thai Today"
     },
     "nav_taxi": {
@@ -4169,3 +4190,99 @@ def analyze_wongnai_data(restaurant_data, api_key):
         }
     except Exception as e:
         return {"error": f"Gemini 분석 실패: {e}"}
+
+
+# ============================================
+# 🎒 AI Tour Recommendation Engine
+# ============================================
+
+def recommend_tours(who, style, budget):
+    """
+    사용자 입력을 바탕으로 Gemini AI가 투어를 추천하는 함수.
+    
+    Args:
+        who: 동행인 (예: "혼자", "연인/부부", "가족(아이동반)")
+        style: 선호 스타일 리스트 (예: ["인생샷/사진", "역사/문화"])
+        budget: 예산 선호 (예: "가성비(저렴)", "적당함", "럭셔리/프리미엄")
+    
+    Returns:
+        dict: {"recommendations": [{"tour_name": ..., "reason": ..., "tip": ...}, ...]}
+        None: on failure
+    """
+    import google.generativeai as genai
+    from data_tours import TOURS
+    
+    # Get API key
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        try:
+            import toml
+            secrets = toml.load(".streamlit/secrets.toml")
+            api_key = secrets.get("GEMINI_API_KEY")
+        except:
+            pass
+    if not api_key:
+        try:
+            api_key = st.secrets.get("GEMINI_API_KEY")
+        except:
+            pass
+    
+    if not api_key:
+        print("❌ GEMINI_API_KEY not found for tour recommendation")
+        return None
+    
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel(
+            'gemini-2.0-flash',
+            generation_config={"response_mime_type": "application/json"}
+        )
+        
+        # Build product catalog for prompt
+        products_info = "\n".join([
+            f"- ID {t['id']}. {t['name']} (가격: {t['price']}): "
+            f"태그={t['type']}, 특징: {t['desc']}, 장점: {t['pros']}"
+            for t in TOURS
+        ])
+        
+        style_str = ", ".join(style) if style else "특별한 선호 없음"
+        
+        prompt = f"""
+당신은 태국 방콕 여행 전문 'AI 투어 코디네이터'입니다.
+사용자의 여행 스타일을 분석하여, 아래 [상품 목록] 중 **가장 완벽한 상품 2개**를 추천해주세요.
+
+[사용자 정보]
+- 동행인: {who}
+- 선호 스타일: {style_str}
+- 예산/기타: {budget}
+
+[상품 목록]
+{products_info}
+
+[출력 형식 - JSON]
+반드시 아래 JSON 형식으로만 출력하세요. 설명은 한국어로 친근하게, 이모지를 사용해주세요.
+사용자의 동행인과 스타일에 맞춰서 개인화된 추천 이유를 작성하세요.
+{{
+    "recommendations": [
+        {{
+            "tour_name": "상품명 (목록에 있는 이름과 정확히 일치)",
+            "reason": "이 투어를 추천하는 이유 (사용자 상황에 맞춰서 2~3문장으로 설득력 있게, 이모지 포함)",
+            "tip": "꿀팁 한줄 (예: 일몰 시간대 5시 추천, 우기엔 우비 필수 등)"
+        }},
+        {{
+            "tour_name": "상품명 (목록에 있는 이름과 정확히 일치)",
+            "reason": "이 투어를 추천하는 이유",
+            "tip": "꿀팁 한줄"
+        }}
+    ]
+}}
+"""
+        
+        response = model.generate_content(prompt)
+        result = json.loads(response.text)
+        return result
+        
+    except Exception as e:
+        print(f"❌ Tour recommendation error: {e}")
+        return None
+
