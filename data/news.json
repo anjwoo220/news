@@ -4081,14 +4081,9 @@
       "summary": "- 핫야이에서 10대 총격범이 학교장에게 총격을 가함.\n- 학생 300여 명을 인질로 잡고 대치 중.\n- 여행객 안전에 심각한 위협이 될 수 있으므로 주의 필요.",
       "full_translated": "핫야이에서 10대 총격범이 학교장을 총으로 쏘고 학생 300명을 인질로 잡는 사건이 발생했습니다. 현재 경찰이 출동하여 대치 중이며, 정확한 범행 동기는 아직 밝혀지지 않았습니다. 해당 지역을 여행 중이거나 여행 예정인 경우, 안전에 유의하시고 현지 당국의 안내에 따라 주시기 바랍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총격 및 인질극은 여행객의 안전에 직접적인 위협이 되므로 높은 점수 부여. 사건 발생 지역에 대한 여행 경보 및 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "핫야이"
-      },
+      "event_info": "{'date': None, 'location': '핫야이', 'price': None, 'location_google_map_query': '핫야이'}",
       "references": [
         {
           "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
@@ -4096,22 +4091,20 @@
           "source": "The Thaiger"
         }
       ],
-      "collected_at": "04:59",
-      "date": "2026-02-12"
+      "collected_at": "4:59",
+      "image_url": "",
+      "date": "2026-02-12",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LnRoYWl2aXNhLmNvbS9uZXdzLzEwMTI3NTSSAQA?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫 해역 침몰 화물선 컨테이너 유실 주의: 유해 물질 포함 가능성",
       "summary": "- 푸껫 해역에서 침몰한 화물선에서 컨테이너 유실 발생.\n- 유실된 컨테이너에 유해 물질이 포함되었을 가능성이 있어 접근 금지.\n- 해안가 방문 시 컨테이너 발견 시 당국에 신고 요망.",
       "full_translated": "푸껫 해역에서 침몰한 화물선에서 컨테이너가 유실되었습니다. 유실된 컨테이너에는 유해 물질이 포함되어 있을 가능성이 있으므로, 해안가 방문 시 컨테이너를 발견하더라도 접근하지 마시고 즉시 당국에 신고해 주시기 바랍니다. 해당 해역에서 수영이나 해양 스포츠 활동을 계획하고 있다면 안전에 각별히 유의하시기 바랍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "유해 물질 유출 가능성은 여행객 안전에 잠재적인 위협이 될 수 있으므로 높은 점수 부여. 특히 푸껫은 인기있는 관광지이므로 관련 정보 제공이 중요.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 해역",
-        "price": null,
-        "location_google_map_query": "푸껫"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 해역', 'price': None, 'location_google_map_query': '푸껫'}",
       "references": [
         {
           "title": "Public warned of stray hazardous containers after cargo ship sinking in Phuket",
@@ -4119,22 +4112,20 @@
           "source": "The Thaiger"
         }
       ],
-      "collected_at": "04:59",
-      "date": "2026-02-12"
+      "collected_at": "4:59",
+      "image_url": "",
+      "date": "2026-02-12",
+      "link": "https://news.google.com/rss/articles/CBMiSWh0dHBzOi8vd3d3LnRoYWl2aXNhLmNvbS9uZXdzLzEwMTI3MzlSAQA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, 비자 정책 통합 및 조정 고려",
       "summary": "- 태국 정부가 비자 정책을 통합하고 조정을 고려 중입니다.\n- 자세한 내용은 비자뉴스에서 확인할 수 있습니다.\n- 여행객에게 미치는 영향에 대한 추가 정보 필요.",
       "full_translated": "태국 정부가 비자 정책을 통합하고 조정을 고려 중입니다. 비자뉴스",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "비자 정책 변경 가능성은 여행객에게 중요한 정보이므로 포함. 다만, 구체적인 내용이 없어 6점 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand: government consolidates its visa policy and considers adjustments - VisasNews",
@@ -4143,8 +4134,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:59",
+      "collected_at": "4:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-12",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHh4NjM0ZHJhVVM2Z3EyVkg3cVJpMHEtV0R5ZTlGbFdDY1p0MURpcEZ1WnN5X01kbUhRY05xT1JWRWdzcXpxTEI2dUp0dk5lRmM2MFJBa204OEtlV3lnTXp2aS14ckpkSHZsVGo1cUYwVlFfWUp6b2hpa0h5ei04dTVaaTdIemdCZF94MGZpRDJJd3E1OTI1WXd2VVZsVzFkcnc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "캄보디아, PM2.5 농도 악화에 영향…방콕, 대기 질 악화 대비",
+      "summary": "- 캄보디아에서 발생한 다수의 오염원으로 인해 태국 PM2.5 농도 상승.",
+      "full_translated": "정부 발표에 따르면 캄보디아에서 4,462개의 오염원이 발견되었으며, 이는 이번 시즌 시작 이후 가장 높은 수치로 태국의 PM2.5 먼지 농도 급증에 영향을 미치고 있습니다. 당국은 방콕과 주변 지역, 그리고 동부 지역 주민들에게 오늘 대기 질 악화에 대비하라고 경고했습니다.\n\n정부 부대변인 Lalida Persvivatana는 수요일 오염 통제부(PCD) 산하 대기 오염 해결 커뮤니케이션 센터가 방콕과 수도권 지역, 그리고 사깨오, 쁘라친부리, 촌부리와 같은 동부 지역에서 미세 먼지(PM2.5) 농도 상승에 대한 경보를 발령했다고 밝혔습니다. 이러한 증가는 인접 국가에서 불어오는 동풍 때문이며, 이로 인해 방콕과 동부 지역이 바람의 영향을 받는 지역에 놓이게 되었습니다.\n\n캄보디아에서 4,462개의 오염원이 발견된 것은 연소 시즌 시작 이후 가장 높은 수치로 간주되며, 국경을 넘는 연무를 심화시켜 이 기간 동안 태국에서 더 높은 PM2.5 농도가 발생할 가능성을 높입니다. PCD는 동부 지역 기관에 오염원, 특히 노천 소각에 대한 통제를 강화하여 국내 대기 질에 미치는 영향을 완화할 것을 촉구했습니다. 당국은 대중에게 야외 활동을 피하거나 제한하여 건강을 보호할 것을 권고하고 있습니다. 불가피하게 외출해야 하는 사람들은 마스크를 착용하는 것이 좋습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "PM2.5 수치 증가는 여행객 건강에 직접적인 영향을 미치므로 주의가 필요. 특히 야외 활동 계획에 차질이 생길 수 있음. 매일 업데이트되는 정보이므로 게시 필요.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 사깨오, 쁘라친부리, 촌부리",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Cambodia contributing to bad PM2.5",
+          "url": "https://www.bangkokpost.com/thailand/general/3195329/cambodia-contributing-to-bad-pm25",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195329_260212051310_700.jpg"
+        }
+      ],
+      "collected_at": "05:31",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195329_260212051310_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국 군인, 지뢰 폭발로 다리 부상",
+      "summary": "- 태국-캄보디아 국경 지대에서 군인이 지뢰를 밟아 왼쪽 다리를 잃음.\n- 부상자는 파리와트 미마나 일병으로, 오른쪽 다리에도 파편상을 입음.\n- 현재 칸타라락 병원에서 치료 중.",
+      "full_translated": "시사켓: 태국 군인이 수요일 오후 태국-캄보디아 국경을 따라 지뢰를 밟아 왼쪽 다리를 잃었다고 군 소식통이 확인했습니다. 군인은 파리와트 미마나 일병으로 확인되었으며 오른쪽 다리에도 파편상을 입어 열린 상처를 입었습니다. 사건은 제2군 지역의 책임 지역 내에서 발생했습니다. 파리와트 일병은 국경 초소에 주둔하고 있는 132중대 예하 13보병대대(제6보병연대, 제1대대) 소속입니다. 동료 군인들은 현장에서 응급 처치를 제공한 후 파리와트 일병을 칸타라락 지역의 칸타라락 병원으로 이송하여 현재 치료를 받고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국경 지역 여행 시 안전에 대한 주의 필요. 기존 뉴스에 유사 내용 존재하나, 사건 발생에 대한 확정 정보이므로 포함.",
+      "event_info": {
+        "date": "2026-02-12",
+        "location": "Thai-Cambodian border, Si Sa Ket",
+        "price": null,
+        "location_google_map_query": "Si Sa Ket Thailand"
+      },
+      "references": [
+        {
+          "title": "Soldier loses leg in landmine blast",
+          "url": "https://www.bangkokpost.com/thailand/general/3195244/soldier-loses-leg-in-landmine-blast",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "05:31",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "호주 대사관, 태국 결혼 평등 1주년 기념 LGBTQ+ 행사 개최",
+      "summary": "- 호주 대사관이 태국 결혼 평등 법제화 1주년을 기념하는 행사를 개최하며 LGBTQ+ 권리에 대한 지지를 재확인했습니다.\n- 2025년 1월 23일 태국은 동성 결혼을 합법화한 최초의 동남아시아 국가가 되었습니다.\n- 2025년 1월 23일부터 올해 1월 12일까지 전국적으로 265,816쌍의 커플이 혼인신고를 마쳤습니다.",
+      "full_translated": "방콕포스트에 따르면 호주 대사관은 최근 태국 결혼 평등 1주년을 기념하고 LGBTQ+ 권리에 대한 지지를 재확인하기 위해 리셉션을 공동 개최했습니다. 화요일, 대사관과 APCOM 재단은 태국이 2025년 1월 23일에 모든 성별의 사람들이 결혼을 등록하고 동등한 결혼 혜택을 받을 수 있도록 하는 결혼 평등 법안을 제정한 지 1년을 기념하는 행사를 개최했습니다. 태국은 동남아시아 국가 중 최초로 동성 결혼을 합법화했습니다. 앙겔라 맥도날드 태국 주재 호주 대사는 호주가 태국이 이 지역에서 동등한 결혼을 합법화한 최초의 국가가 되는 역사적인 조치를 취한 것을 기쁘게 생각한다고 말했습니다. 그녀는 재산권, 법적 인정 및 생존권과 같은 분야에서 동성 커플이 완전히 보호되도록 하기 위해 더 많은 입법 작업이 남아 있다고 말했습니다. APCOM의 Midnight Poonkasetwattana 사무총장은 내무부 자료를 인용하여 2025년 1월 23일부터 올해 1월 12일 사이에 전국적으로 265,816쌍의 커플이 혼인신고를 했다고 밝혔습니다. 그 중 여성-여성 커플은 20,083쌍, 남성-남성 커플은 6,204쌍, 이성 커플은 239,530쌍이었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 LGBTQ+ 커뮤니티에 대한 긍정적인 소식이며, 여행객들에게 태국의 개방적인 사회 분위기를 간접적으로 알릴 수 있습니다. 다만, 여행 자체에 직접적인 영향을 미치지는 않으므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-02-11",
+        "location": "Australian Embassy, Bangkok",
+        "price": "N/A",
+        "location_google_map_query": "Australian Embassy Bangkok"
+      },
+      "references": [
+        {
+          "title": "Aus embassy hosts LGBTQ+ event",
+          "url": "https://www.bangkokpost.com/thailand/general/3195509/aus-embassy-hosts-lgbtq-event",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963969_700.jpg"
+        }
+      ],
+      "collected_at": "05:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963969_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "BMW, 전 세계 50만 대 이상 차량 화재 위험으로 리콜",
+      "summary": "- BMW가 전 세계적으로 50만 대 이상의 차량을 리콜합니다.\n- 시동 장치 결함으로 화재 발생 위험이 있습니다.\n- 해당 차량 소유자에게는 결함이 있는 시동 모터 교체를 위해 연락할 예정입니다.",
+      "full_translated": "독일의 유명 자동차 제조업체 BMW가 시동 시스템 결함으로 인해 전 세계적으로 50만 대 이상의 차량을 리콜한다고 발표했습니다. 최악의 경우 화재가 발생할 수 있습니다. 2069년 2월 11일 수요일, 독일 프리미엄 자동차 제조업체인 BMW 대변인은 화재 위험으로 인해 수십만 대의 차량을 리콜하고 있음을 확인했습니다. 구체적으로 이번 리콜은 50만 대 이상의 차량에 영향을 미치는 것으로 알려졌습니다. 독일의 전문 매체인 kfz-betrieb은 다양한 시리즈의 차량 총 575,000대가 영향을 받았다고 보도했습니다.\n\nBMW는 제품 검사와 고객 불만 사항을 통해 2020년 7월에서 2022년 7월 사이에 생산된 시동 모터가 장착된 16개 모델이 영향을 받을 수 있음을 발견했습니다. 이는 시동 모터의 마그네틱 스위치가 시간이 지남에 따라 과도하게 마모될 수 있기 때문입니다. BMW AG는 엔진 시동 후, 특히 원격 시동 후에는 엔진이 작동 중인 동안 차량을 방치하지 말 것을 권장합니다. 제조업체는 성명에서 이같이 밝혔습니다.\n\nBMW는 또한 제품 검사와 고객 불만 사항을 통해 해당 차량 그룹의 시동 모터에 결함이 있을 수 있음을 발견했습니다. 전자기 시스템에서 단락이 발생할 가능성을 배제할 수 없으며, 이로 인해 시동 모터가 특정 지점에서 과열되어 최악의 경우 주행 중 차량 화재로 이어질 수 있습니다. 대변인은 회사가 잠재적 결함이 있는 시동 모터를 교체하기 위해 차량 소유자에게 편지를 보낼 것이라고 밝혔습니다. 한편, 2067년 BMW는 브레이크 문제로 인해 150만 대의 차량을 리콜한 후 수억 유로의 손실을 입어 실적 전망치를 낮춰야 했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내에서 발생한 사건은 아니지만, 차량을 렌트하는 여행객에게 잠재적인 위험을 알릴 필요가 있음. 다만, 현재 시점에서 긴급한 정보는 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BMW เรียกคืนรถกว่า 5 แสนคันทั่วโลก พบความเสี่ยงเกิดไฟไหม้",
+          "url": "https://www.thairath.co.th/news/foreign/2913704",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8eUzOiQLOaD.jpg"
+        }
+      ],
+      "collected_at": "05:31",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8eUzOiQLOaD.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국, 식품 혁신 가속화",
+      "summary": "- 태국은 농업 4.0으로 전환하며 전통 농업과 기술 기반 농업 간 격차를 강조하고 있습니다.\n- 미래 식량, 기후 회복력, 수확량 개선에서 성장 기회가 창출되고 있습니다.\n- 지속 가능한 식량 시스템은 건강, 경제, 사회(관광 포함), 환경의 네 가지 측면을 다루어야 합니다.",
+      "full_translated": "태국의 농업 4.0으로의 전환은 전통적인 농업과 기술 중심 농업 사이의 격차를 더욱 벌리고 있음을 보여줍니다. 동시에 미래 식량, 기후 회복력, 수확량 개선에 대한 새로운 트렌드가 성장 기회를 창출하고 있습니다. Tastebud Lab이 주최한 Largest Future Food Leader Summit 2026에서 Bio Buddy와 Tastebud Lab의 최고 경영자이자 공동 창립자인 Santi Aphakat은 글로벌 식량 안보 위기가 태국이 향할 수 있는 방향을 시사한다고 경고했습니다. 그는 수명이 더 이상 인간의 건강에만 국한되지 않고 사람과 지구가 재생 영양과 지속 가능한 개발의 핵심 기둥으로 인식되고 있다고 말했습니다. 로마 FAO 본부의 이사인 Kraisit Tantusurub은 지속 가능한 식량 시스템은 건강, 경제, 사회(관광 포함) 및 환경의 네 가지 측면을 다루어야 한다고 말했습니다. 건강한 식단은 미래 식량 시스템을 대표하며 태국의 2030 로드맵을 달성하기 위해서는 과학, 투자, 혁신 및 역량 개발이 필요합니다. 수십 년 동안 농업 연구 개발 기관(공공 기관)은 연구 자금 지원을 통해 농업 및 식품 기업을 지원해 왔습니다. Kulvara Chotpansopon 부사장은 농부 수 감소와 고령화된 노동력에 대한 우려를 표명했습니다. 그녀는 증가하는 세계적 수요를 충족하기 위해 젊은 세대가 혁신을 채택하도록 장려해야 한다고 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국의 식품 산업 동향에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand accelerates its food innovation",
+          "url": "https://www.bangkokpost.com/thailand/general/3195449/thailand-accelerates-its-food-innovation",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963909_700.jpg"
+        }
+      ],
+      "collected_at": "05:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963909_700.jpg",
       "date": "2026-02-12"
     }
   ]
