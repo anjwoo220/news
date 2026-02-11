@@ -2507,12 +2507,18 @@ def render_tab_tour():
                 st.markdown(st.session_state['generated_itinerary'])
                 
                 st.markdown("---")
-                st.link_button(
-                    "🛒 장바구니 상품 한 번에 예약하러 가기 (Klook)", 
-                    utils.KLOOK_ALL_TOURS_LINK, 
-                    type="primary", 
-                    use_container_width=True
-                )
+                st.markdown("#### ✅ 예약 확정하러 가기 (Checklist)")
+                st.caption("👇 아래 버튼을 눌러 각 상품을 예약하고 여행 준비를 완료하세요!")
+                
+                for ct in cart_tours:
+                    bc1, bc2 = st.columns([3, 1])
+                    with bc1:
+                        st.write(f"**{ct['name']}** - {ct['price']}")
+                    with bc2:
+                        st.link_button("👉 예약하기 (Klook)", ct['link'], type="primary", use_container_width=True)
+                
+                st.divider()
+                st.markdown(f"### 💰 총 예상 비용: :orange[{total_cost:,}원]")
         else:
             st.warning("투어를 2개 이상 담으시면 AI가 일정을 짜해드립니다!")
     
