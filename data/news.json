@@ -3156,14 +3156,9 @@
       "summary": "- 송클라 하트야이 지역 학교에서 총격 사건 발생, 인질극 진행 중.\n- 현재까지 교장 포함 다수의 부상자 발생, 용의자는 18세 남성.\n- 경찰은 용의자 신원 확보, 학부모들 학교 앞에서 발 동동.",
       "full_translated": "송클라에서 총격 사건이 발생했습니다. 2069년 2월 11일, 하트야이 지역의 파통 프라탄 키리왓 학교에서 총격이 발생하여 인질극이 벌어지고 있으며 부상자가 발생했습니다. 초기 보고에 따르면 정확한 수는 아직 확인되지 않았지만 교사와 학생이 부상당한 것으로 알려졌습니다.\n\n사건 진행 상황:\n\n16:45: 무장한 남성이 파통 프라탄 키리왓 학교에 침입하여 많은 학생들이 갇히고 교사가 인질로 잡혔습니다.\n17:00: 일부 학생들이 학교에서 탈출했습니다.\n17:40: 송클라 퉁룽 경찰서에 따르면 용의자는 18세의 '켐'입니다.\n17:50: 학부모들이 학교 앞에서 자녀들을 기다리고 있습니다.\n18:00: 교장이 총에 맞아 팔과 옆구리에 부상을 입고 중태에 빠졌습니다.\n18:03: 학교 내에서 두 발의 총성이 울렸습니다.\n18:04: 용의자가 학교 내 방송으로 발표를 했습니다.\n18:08: 용의자가 인질 1명을 석방했습니다.\n18:12: 학교 내에서 한 발의 총성이 울렸습니다.\n18:15: 용의자가 인질 1명을 석방했습니다.\n18:22: 용의자가 인질 4명을 석방했습니다.\n\n추가 업데이트가 있을 시 즉시 보고드리겠습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총격 사건 및 인질극으로 여행객 안전에 직접적인 위협이 되므로 높은 점수 부여. 실시간 상황 업데이트가 중요.",
-      "event_info": {
-        "date": "2069-02-11",
-        "location": "파통 프라탄 키리왓 학교, 송클라 하트야이",
-        "price": null,
-        "location_google_map_query": "파통 프라탄 키리왓 학교"
-      },
+      "event_info": "{'date': '2069-02-11', 'location': '파통 프라탄 키리왓 학교, 송클라 하트야이', 'price': None, 'location_google_map_query': '파통 프라탄 키리왓 학교'}",
       "references": [
         {
           "title": "เกาะติดเหตุคนร้ายยิงใน \"โรงเรียนพะตงประธานคีรีวัฒน์\" มีผู้ได้รับบาดเจ็บ",
@@ -3174,21 +3169,18 @@
       ],
       "collected_at": "18:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2m74MwJ8l7Ont.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/local/2913647",
+      "source": ""
     },
     {
       "title": "경찰 총장, 무장 괴한의 학교 습격 및 인질극 상황 긴급 통제 명령 (핫야이)",
       "summary": "- 경찰 총장이 송클라 지방 경찰에 핫야이 지역 학교에서 발생한 무장 괴한의 인질극 상황 통제를 긴급 명령했습니다.\n- 모든 교사와 학생의 안전을 확보하는 데 최우선을 둘 것을 강조했습니다.\n- 현재까지 부상자 수는 정확히 확인되지 않았으나, 교사와 학생이 포함된 것으로 보도되었습니다.",
       "full_translated": "경찰 총장이 송클라 지방 경찰에 핫야이 지역 학교에서 발생한 무장 괴한의 인질극 상황 통제를 긴급 명령했습니다. 킷티랏 판펫 경찰 총장은 모든 교사와 학생의 안전을 확보하는 데 최우선을 둘 것을 강조했습니다. 사건은 핫야이 지역 파통에서 발생했으며, 학교 내 총격으로 인해 부상자가 발생했습니다. 현재까지 부상자 수는 정확히 확인되지 않았으나, 교사와 학생이 포함된 것으로 보도되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "여행객의 안전에 직접적인 위협이 되는 사건이므로 높은 점수를 부여합니다. 특히 핫야이 지역을 여행하는 경우 주의가 필요합니다. 저녁 시간 발생한 사건이므로 업데이트 성격.",
-      "event_info": {
-        "date": null,
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "핫야이"
-      },
+      "event_info": "{'date': None, 'location': '핫야이', 'price': None, 'location_google_map_query': '핫야이'}",
       "references": [
         {
           "title": "ผบ.ตร.สั่งการด่วน ควบคุมสถานการณ์คนร้ายมีอาวุธบุกโรงเรียนจับตัวประกันที่หาดใหญ่",
@@ -3199,21 +3191,18 @@
       ],
       "collected_at": "18:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2mm9VtqzUCw53.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/crime/2913653",
+      "source": ""
     },
     {
       "title": "송클라 학교 총격 사건: 범인, 교사 찾지 못하자 교장에게 총격",
       "summary": "- 송클라의 한 학교에서 총격 사건 발생, 범인은 과거 졸업생으로 추정.\n- 범인은 교사를 찾았으나 찾지 못하고 교장에게 총격.\n- 현재 경찰이 사건을 조사 중이며, 학생들은 안전하게 대피.",
       "full_translated": "송클라 학교 총격 사건. 과거 졸업생으로 추정되는 범인이 학교에 침입하여 교사를 찾았으나 찾지 못하자 교장에게 총격을 가했습니다. 2069년 2월 11일, 기자들은 용의자가 총기를 사용하여 파통 프라탄 키리왓 학교, 파통, 핫야이, 송클라에 침입하여 학생과 교사를 인질로 잡았다는 사건을 보도했습니다. 초기 보고에 따르면 교사 1명이 총에 맞아 부상을 입었습니다. 구조대원들이 현장에 진입하여 도움을 제공하고 있습니다. 최근, 경찰은 풀려난 3학년 학생과 대화하여 정보를 얻었습니다. 학생에 따르면, 오후 4시 59분경에 범인은 학교의 졸업생이며 총을 들고 교사를 찾으러 왔습니다. 찾지 못하자 방송을 통해 30분 이내에 교사가 나타나지 않으면 총을 쏘겠다고 발표했습니다. 시간이 되자 범인은 교장에게 처음으로 총을 쐈습니다. 범인은 관련 없는 학생들을 주기적으로 풀어주었습니다. 범인이 찾고 있는 교사는 현재 경찰의 보호를 받고 있습니다. 추가적인 업데이트가 있을 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 잠재적 위협이 될 수 있는 총격 사건이 발생했으므로 정보 제공. 시간 경과에 따른 상황 업데이트이므로 포함.",
-      "event_info": {
-        "date": "2069-02-11",
-        "location": "พะตงประธานคีรีวัฒน์ School, 송클라",
-        "price": "N/A",
-        "location_google_map_query": "พะตงประธานคีรีวัฒน์ School, 송클라"
-      },
+      "event_info": "{'date': '2069-02-11', 'location': 'พะตงประธานคีรีวัฒน์ School, 송클라', 'price': 'N/A', 'location_google_map_query': 'พะตงประธานคีรีวัฒน์ School, 송클라'}",
       "references": [
         {
           "title": "เผยวินาทีระทึก คนร้ายยิงใน รร. ที่สงขลา ไม่เจอครูที่ตามหา ยิง ผอ.คนแรก",
@@ -3224,21 +3213,18 @@
       ],
       "collected_at": "18:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2mmZYrEGmk8tg.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/local/south/2913654",
+      "source": ""
     },
     {
       "title": "핫야이 학교 총격 사건: 교장 중상, 병원 이송",
       "summary": "- 핫야이의 한 학교에서 총격 사건 발생, 교장이 팔과 옆구리에 총상.\n- 교장의 상태는 위중하며 현재 병원으로 이송되어 치료 중.\n- 경찰은 현재 정확한 사건 경위를 조사 중.",
       "full_translated": "핫야이 총격 사건으로 인해 학교 교장이 부상을 입었습니다. 파통프라탄키리왓 학교 교장이 팔과 옆구리에 총상을 입고 위독한 상태로 병원으로 이송되었습니다. 2069년 2월 11일, 범인이 총기를 사용하여 핫야이 송클라 파통프라탄키리왓 학교를 공격하여 학생과 교사를 인질로 잡았습니다. 현재까지 정확한 인질 수는 파악되지 않았습니다. 초기 보고에 따르면 교사 1명이 총에 맞아 부상을 입었습니다. 구조대가 현장으로 이동하여 지원을 제공하고 있습니다. 사건 발생 당시 학생, 학부모, 교사들이 학교에서 필사적으로 도망쳤습니다. 경찰은 현재 작전을 수행 중입니다. 17시 40분 현재 총성이 간헐적으로 들리고 있으며 학교 내부에 갇힌 사람의 수는 아직 알려지지 않았습니다. 가장 최근인 18시 06분에 부상자는 교장으로 확인되었으며, 팔과 옆구리에 총상을 입고 중상을 입었습니다. 현재 송클라대학교 병원에서 핫야이 병원으로 옮겨졌습니다. 병원 측은 현재까지 부상자는 1명이며 추가 부상자는 없다고 밝혔습니다. 추가적인 진전 상황이 있으면 다시 보고드리겠습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총격 사건으로 여행객 안전에 잠재적 위협이 될 수 있으며, 특히 해당 지역 방문 예정인 여행객에게 정보 제공 필요. 시간 경과에 따른 상황 업데이트 반영.",
-      "event_info": {
-        "date": "2069-02-11",
-        "location": "파통프라탄키리왓 학교, 핫야이",
-        "price": null,
-        "location_google_map_query": "파통프라탄키리왓 학교 핫야이"
-      },
+      "event_info": "{'date': '2069-02-11', 'location': '파통프라탄키리왓 학교, 핫야이', 'price': None, 'location_google_map_query': '파통프라탄키리왓 학교 핫야이'}",
       "references": [
         {
           "title": "เหตุบุกยิงในโรงเรียน เบื้องต้น ผอ. เจ็บ 1 ราย อาการสาหัส ถูกนำตัวส่ง รพ. แล้ว",
@@ -3249,21 +3235,18 @@
       ],
       "collected_at": "18:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2mmzp6sdZsHcM.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/local/south/2913651",
+      "source": ""
     },
     {
       "title": "태국 부패인식지수 최저 기록, 정부 이미지 개선 노력 촉구",
       "summary": "- 태국의 부패인식지수가 세계 116위로 최저치를 기록하며 이미지 실추.\n- 민간 부문에서 정부에 신속한 개선 조치를 촉구하고 있음.\n- 투자 신뢰도 하락 및 OECD 가입 목표에 부정적 영향 우려.",
       "full_translated": "태국의 부패인식지수(CPI)가 최저 수준으로 떨어지면서 투자 신뢰도에 대한 우려가 커지고 있습니다. Transparency International의 2023년 평가에 따르면 태국은 100점 만점에 33점을 받아 세계 116위를 기록했습니다. 이는 14년 만에 최저점이며 세계 평균인 42점보다 훨씬 낮은 수치입니다.\n\n민간 부문은 정부가 이미지 개선을 위해 적극적으로 개입할 것을 촉구하고 있습니다. 태국 기업들은 부패에 대한 인식이 OECD 가입 목표에 영향을 미칠 수 있다고 우려하고 있습니다. 기업들은 정부가 공정성, 투명성, 법치주의를 개선하기 위한 조치를 우선시해야 한다고 강조합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 국가 이미지가 하락함에 따라 장기적으로 관광산업에도 간접적인 영향이 있을 수 있다고 판단. 직접적인 영향은 적으나, 관련 내용 인지 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกร. กระทุ้งรัฐบาลรักษาการ เร่งกู้ภาพลักษณ์คอร์รัปชันไทย ดิ่งเหว อันดับ 116 ของโลก",
@@ -3274,6 +3257,133 @@
       ],
       "collected_at": "18:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2m8zF9TT2PR3B.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2913649",
+      "source": ""
+    },
+    {
+      "title": "핫야이 학교 총격범 체포",
+      "summary": "- 18세 용의자가 학교 директора에게 치명적인 상처를 입히고 인질을 잡은 후 체포됨.\n- 용의자는 경찰에 의해 총에 맞아 부상을 입었고, 이후 인질극이 종료됨.\n- 사건은 송클라 핫야이 지역의 파통 프라탄 키리와트 학교에서 발생.",
+      "full_translated": "경찰은 수요일 오후 송클라 핫야이 지역에서 학교 교장을 смертельно하게 쏜 뒤 인질을 잡은 총격범을 체포했습니다. 중앙수사국에 따르면, 18세의 용의자는 파통 프라탄 키리와트 학교에 대한 최초 공격에 이어 벌어진 인질극을 종식시키기 위해 총에 맞아 부상을 입었습니다. 학교 교장은 부상을 입고 병원으로 이송되었으나 사망 판정을 받았습니다. 용의자는 이후 여교사를 인질로 잡았습니다. 현지 언론 보도에 따르면 앞서 경찰은 학교 근처 집에서 폭력적으로 행동하며 어머니를 해치려 하는 18세 남성에 대한 신고를 받고 출동했습니다. 경찰이 상황을 진정시키려 하자 용의자는 경찰로부터 M4 소총을 빼앗은 것으로 알려졌습니다. 그런 다음 그는 오후 4시 45분경 테사반 31번 도로의 파통 구역에 있는 학교 grounds로 도망쳤습니다. 송클라 지방 정부는 성명에서 용의자가 \"총을 든 채 동요된 상태\"로 학교에 들어갔다고 밝혔습니다. 교실 건물 중 한 곳에서 총성이 울려 교사와 학생들이 паника에 빠졌습니다. 경찰 부대와 특수 작전 요원들은 신속하게 해당 지역을 봉쇄하고 사람들을 안전하게 대피시키고 총격범과의 협상을 시작했습니다. 현지 언론 보도에 따르면 목격자들은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 위협이 될 수 있는 총격 사건 발생 및 용의자 체포. 특히 핫야이는 관광객도 많이 방문하는 지역이므로 정보 제공 필요.",
+      "event_info": {
+        "date": "2026-02-11",
+        "location": "Phatong Prathan Keeriwat School, Hat Yai, Songkhla",
+        "price": null,
+        "location_google_map_query": "Phatong Prathan Keeriwat School, Hat Yai, Songkhla"
+      },
+      "references": [
+        {
+          "title": "Hat Yai school gunman captured",
+          "url": "https://www.bangkokpost.com/thailand/general/3195173/hat-yai-school-gunman-captured",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195173_260211192539_700.jpg"
+        }
+      ],
+      "collected_at": "19:46",
+      "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195173_260211192539_700.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "경찰, 학교 인질극 범인 생포: 작전 개시 및 범행 동기",
+      "summary": "- 핫야이 학교에서 발생한 인질극, 경찰이 용의자를 생포하여 상황 종료.\n- 용의자는 마약에 취한 상태로 경찰관을 공격하고 총을 훔쳐 학교에서 범행.\n- 경찰은 인질의 안전을 최우선으로 고려하여 작전을 수행.",
+      "full_translated": "경찰이 핫야이에서 인질극을 벌인 범인을 생포했습니다. 경찰은 전술에 따라 생포 작전을 펼쳤으며, 범행 동기는 마약에 취한 상태에서 시작된 것으로 보입니다. 용의자는 경찰관을 둔기로 공격하고 총을 훔친 후 오토바이를 타고 도주하여 학교에서 범행을 저질렀습니다. 경찰청 부대변인에 따르면 경찰청장은 즉시 지방 경찰청장에게 현장 지휘를 맡겨 인질의 안전을 최우선으로 고려하여 작전을 수행하도록 지시했습니다. 현재 상황은 통제되었으며, 더 이상의 피해는 발생하지 않았습니다. 경찰은 언론과 대중에게 상황에 영향을 줄 수 있는 정보 공유를 자제해 줄 것을 요청했습니다. 학교 주변 지역을 피하고, 경찰 발표를 기다려달라고 당부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 영향을 줄 수 있는 범죄 사건이며, 특히 학교에서의 인질극은 심각한 위협으로 간주됨. 현재 완료된 사건이지만, 유사 사건 발생에 대한 경각심을 일깨울 필요가 있음.",
+      "event_info": {
+        "date": "2024-02-11",
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이 학교"
+      },
+      "references": [
+        {
+          "title": "ยืนยันตำรวจจับเป็น คนร้ายบุกโรงเรียนจับตัวประกัน ปฏิบัติตามยุทธวิธี เปิดพฤติการณ์!",
+          "url": "https://www.thairath.co.th/news/crime/2913668",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n2nfAZeTk9py.jpg"
+        }
+      ],
+      "collected_at": "19:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n2nfAZeTk9py.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "송클라 학교 총격 사건 발생, 학생 2층에서 뛰어내려 부상",
+      "summary": "- 송클라 학교에서 총격 사건 발생\n- 학생이 2층에서 뛰어내려 부상\n- 현재 병원으로 이송되어 치료 중",
+      "full_translated": "송클라 지역의 한 학교에서 총격 사건이 발생하여 학생들이 부상을 입었습니다. 한 학생은 건물의 2층에서 뛰어내려 부상을 입었으며, 현재 병원으로 이송되어 치료를 받고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 대한 직접적인 위협 (총격 사건). 사건 발생 직후 상황이므로 업데이트 가치 높음.",
+      "event_info": {
+        "date": null,
+        "location": "สงขลา (송클라)",
+        "price": null,
+        "location_google_map_query": "สงขลา"
+      },
+      "references": [
+        {
+          "title": "นักเรียนโดดจากชั้น 2 บาดเจ็บ หนีคนร้ายบุกยิงใน รร. ที่สงขลา",
+          "url": "https://www.thairath.co.th/news/local/south/2913657",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2mmmjNwgmHRac.jpg"
+        }
+      ],
+      "collected_at": "19:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2mmmjNwgmHRac.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "핫야이 학교 인질극 발생: 교육부, 상황 주시 및 지원 약속",
+      "summary": "- 송클라 핫야이 지역 학교에서 인질극 발생, 학생과 교사 억류.\n- 교육부 장관, 상황 주시하며 피해자 지원 및 학교 안전 강화 지시.\n- 당국은 테러 가능성은 낮게 보고, 용의자 조사 중.",
+      "full_translated": "교육부 장관은 핫야이 중심부 학교에서 발생한 학생과 교사 인질극 상황을 긴밀히 주시하고 있다고 밝혔습니다. 교육부는 모든 지원을 제공할 준비가 되어 있으며, 전국적으로 보안 조치를 강화할 예정입니다. 2069년 2월 11일 16시 45분, 송클라주 핫야이 지역의 파통 프라탄 키리왓 학교에 정신 이상자가 침입하여 무기를 사용해 부상을 입히고 학생과 교사를 인질로 잡는 사건이 발생했습니다. 이 사건은 해당 지역의 교사, 학생 및 학부모에게 큰 충격을 주었습니다. 최근 교육부 장관 나르몬 피니요신왓 교수는 사건에 대한 보고를 받았으며, 학생, 교사 및 모든 직원의 안전에 대해 깊이 우려하고 있다고 밝혔습니다. 교육기본위원회(สพฐ.)에 핫야이 지역 교육구 사무소와 주 교육감과 협력하여 현장 조사를 긴급히 실시하도록 지시했습니다. 초기 보고서에 따르면 이번 사건은 테러가 아닌 정신 이상자의 인질극으로 파악되었습니다. 그러나 명확한 사실 확인을 위해 모든 정보를 면밀히 조사할 것입니다. 수사는 해당 지역 경찰이 법적 절차에 따라 진행할 것입니다. 교육부 장관은 교육부가 학생, 교사, 경영진 및 피해자를 안전 및 정신적 치유를 포함한 모든 면에서 최대한 지원할 것이라고 거듭 강조했습니다. 보고서에 따르면 파통 프라탄 키리왓 학교는 비상 계획 및 엄격한 보안 조치를 갖추고 있으며, 경영진과 교사들은 사건 발생 시 정해진 절차를 철저히 따랐습니다. (싸폫어)에 핫야이 지역 교육구 사무소와 주 교육감과 협력하여 현장 조사를 긴급히 실시하도록 지시했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 여행객이 많은 핫야이 지역에서 발생한 인질극으로 안전에 대한 우려가 있을 수 있으므로 정보 제공. 테러는 아니지만 만일의 사태에 대비.",
+      "event_info": {
+        "date": null,
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "“นฤมล” สั่งด่วน ให้ ศธ. เกาะติดเหตุบุกจับครู-นักเรียนเป็นตัวประกันที่หาดใหญ่",
+          "url": "https://www.thairath.co.th/news/politic/2913662",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n3J0olX0Ecag.jpg"
+        }
+      ],
+      "collected_at": "19:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n3J0olX0Ecag.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "총리, 지뢰 사고 군인 지원 및 인질범 협상 지시",
+      "summary": "- 총리가 시사켓 지역 지뢰 사고 피해 군인 지원을 지시했습니다.\n- 하트야이 인질극의 범인과 협상을 통해 투항을 받아냈습니다.\n- 부상자 치료를 지시하고, 해당 지역 안전 강화에 힘쓸 것을 강조했습니다.",
+      "full_translated": "아누틴 찬위라꾼 총리는 시사켓 지역에서 발생한 지뢰 사고로 부상당한 군인들을 지원하고, 하트야이에서 발생한 인질극의 범인과 협상을 벌여 투항을 받아냈다고 밝혔습니다. 총리는 해당 지역이 과거 캄보디아가 점령했던 지역을 태국이 되찾아와 안보를 확립한 곳이라고 설명하며, 부상자 치료를 지시하고 지뢰 제거 작업의 안전을 강화할 것을 지시했습니다. 또한, 군 당국은 해당 지역 주민들의 불안감을 해소하기 위해 노력하고 있습니다. 총리는 이번 사건이 마약에 취한 범인의 소행으로 추정되며, 이 문제에 대한 단호한 조치가 필요하다고 강조했습니다. 범인은 현재 인질을 석방하고 투항한 상태입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 남부 지역에서 발생한 인질극이 종료되었음을 알리는 정보. 여행객 안전에 대한 직접적인 위협은 사라졌으나, 유사 사건 발생 가능성에 대한 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "하트야이",
+        "price": null,
+        "location_google_map_query": "Hat Yai, Thailand"
+      },
+      "references": [
+        {
+          "title": "นายกฯ สั่งดูแลเต็มที่ทหารเหยียบกับระเบิด พร้อมสั่งเจรจาคนร้ายจับตัวประกันจนยอมมอบตัว",
+          "url": "https://www.thairath.co.th/news/politic/2913663",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n3DDyKVBWSyX.jpg"
+        }
+      ],
+      "collected_at": "19:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n3DDyKVBWSyX.jpg",
       "date": "2026-02-11"
     }
   ]
