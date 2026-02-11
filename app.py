@@ -2506,6 +2506,21 @@ def render_tab_tour():
                 st.success("일정 생성 완료! 아래 타임테이블을 확인하세요.")
                 st.markdown(st.session_state['generated_itinerary'])
                 
+                # Shareable Text Block
+                share_text = f"""🇹🇭 [Thai Today] 나만의 {selected_region} 여행 계획
+
+🗓️ 추천 일정:
+{st.session_state['generated_itinerary']}
+
+💰 총 예상 비용: {total_cost:,}원
+(항공권/숙박 제외, 투어 비용 기준)
+
+👇 예약하러 가기:
+https://thai-today.streamlit.app/"""
+                
+                st.caption("👇 우측 상단 아이콘을 눌러 복사해서 카톡에 붙여넣으세요!")
+                st.code(share_text, language=None)
+                
                 st.markdown("---")
                 st.markdown("#### ✅ 예약 확정하러 가기 (Checklist)")
                 st.caption("👇 아래 버튼을 눌러 각 상품을 예약하고 여행 준비를 완료하세요!")
