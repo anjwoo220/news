@@ -2384,7 +2384,14 @@ def render_tab_tour():
                 matched_tour = next((t for t in TOURS if tour_name in t["name"] or t["name"] in tour_name), None)
             
             if matched_tour:
-                rank_emoji = "🏆" if idx == 0 else "🥈"
+                if idx == 0:
+                    rank_emoji = "🏆"
+                elif idx == 1:
+                    rank_emoji = "🥈"
+                elif idx == 2:
+                    rank_emoji = "🥉"
+                else:
+                    rank_emoji = f"{idx + 1}."
                 
                 c_img, c_info = st.columns([1, 2])
                 with c_img:
