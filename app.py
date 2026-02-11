@@ -2324,6 +2324,8 @@ def render_tab_tour():
     REGION_OPTIONS = utils.REGION_OPTIONS
     REGION_LABEL_TO_KEY = utils.REGION_LABEL_TO_KEY
     TOURS = utils.load_tours()
+    CITY_LINKS = utils.CITY_LINKS
+    KLOOK_ALL_TOURS_LINK = utils.KLOOK_ALL_TOURS_LINK
     
     # SEO
     utils.set_page_title(utils.get_seo_title("nav_tour"))
