@@ -4425,4 +4425,61 @@ REGION_LABEL_TO_KEY = {opt: opt.split(" ", 1)[1] for opt in REGION_OPTIONS}
 # Klook 전체보기 링크
 KLOOK_ALL_TOURS_LINK = "https://klook.tpx.li/P3FlPqvh"
 
+def generate_tour_itinerary(tours, region="방콕"):
+    """
+    Generate a 1-day itinerary using the selected tours.
+    Args:
+        tours: List of tour dictionaries (id, name, type, etc.)
+        region: City name
+    Returns:
+        str: Markdown formatted itinerary
+    """
+    import google.generativeai as genai
+    
+    # Get API key
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        try:
+            import toml
+            secrets = toml.load(".streamlit/secrets.toml")
+            api_key = secrets.get("GEMINI_API_KEY")
+        except:
+            pass
+    if not api_key:
+        try:
+            api_key = st.secrets.get("GEMINI_API_KEY")
+        except:
+            pass
+            
+    if not api_key:
+        return "❌ API Key Missing"
+
+    try:
+        genai.configure(api_key=api_key)
+        model = genai.GenerativeModel('gemini-2.0-flash')
+        
+        # Format tour list for prompt
+        tour_list_str = "\n".join([f"- {t['name']} ({t.get('type', '일반')}, {t.get('desc', '')})" for t in tours])
+        
+        prompt = f"""
+        당신은 태국 {region} 여행 전문가입니다.
+        사용자가 선택한 아래 투어 상품들을 조합하여 가장 효율적인 **'1일(또는 2일) 타임테이블'**을 작성해주세요.
+        
+        [선택한 투어 목록]
+        {tour_list_str}
+        
+        [요구사항]
+        1. 이동 동선과 투어 소요 시간을 고려하여 오전/오후/저녁으로 현실적으로 배치하세요.
+        2. 식사 시간(점심, 저녁)도 적절히 포함해주세요.
+        3. 각 일정마다 간단한 꿀팁이나 주의사항을 한 줄씩 덧붙여주세요.
+        4. 결과는 깔끔한 마크다운(Markdown) 표 또는 리스트 형식으로 출력하세요.
+        5. 서론/결론 없이 바로 일정표를 출력하세요. 친근한 말투(해요체)를 사용하세요.
+        """
+        
+        response = model.generate_content(prompt)
+        return response.text
+        
+    except Exception as e:
+        return f"❌ 일정 생성 중 오류 발생: {str(e)}"
+
 

@@ -2324,6 +2324,10 @@ def render_tab_tour():
     REGION_OPTIONS = utils.REGION_OPTIONS
     REGION_LABEL_TO_KEY = utils.REGION_LABEL_TO_KEY
     TOURS = utils.load_tours()
+    
+    # Initialize Cart
+    if 'my_cart' not in st.session_state:
+        st.session_state['my_cart'] = []
     CITY_LINKS = utils.CITY_LINKS
     KLOOK_ALL_TOURS_LINK = utils.KLOOK_ALL_TOURS_LINK
     
@@ -2405,12 +2409,23 @@ def render_tab_tour():
                         st.caption(f"{utils.t('tour_tip')}: {tip}")
                     st.markdown(f"**💰 {matched_tour['price']}**")
                     
-                    st.link_button(
-                        utils.t("tour_book_btn"), 
-                        matched_tour["link"], 
-                        type="primary",
-                        use_container_width=True
-                    )
+                    
+                    # Buttons Row
+                    b_col1, b_col2 = st.columns(2)
+                    with b_col1:
+                        st.link_button(
+                            utils.t("tour_book_btn"), 
+                            matched_tour["link"], 
+                            type="primary",
+                            use_container_width=True
+                        )
+                    with b_col2:
+                        if matched_tour['id'] in st.session_state['my_cart']:
+                            st.button("✅ 담기 완료", disabled=True, key=f"btn_dis_rec_{matched_tour['id']}", use_container_width=True)
+                        else:
+                            if st.button("➕ 일정에 담기", key=f"btn_add_rec_{matched_tour['id']}", use_container_width=True):
+                                st.session_state['my_cart'].append(matched_tour['id'])
+                                st.rerun()
                 
                 st.markdown("---")
             else:
@@ -2436,7 +2451,70 @@ def render_tab_tour():
                 st.caption(t['desc'])
                 tags = " · ".join(t.get("type", []))
                 st.markdown(f"<span style='color: #888; font-size: 0.8rem;'>🏷️ {tags}</span>", unsafe_allow_html=True)
+                
+                # Add to Cart Button (Small)
+                if t['id'] in st.session_state['my_cart']:
+                    st.caption("✅ 내 일정에 담김")
+                else:
+                    if st.button("➕ 일정에 담기", key=f"btn_add_list_{t['id']}"):
+                        st.session_state['my_cart'].append(t['id'])
+                        st.rerun()
             st.markdown("---")
+
+    # --- 4. 나만의 자유여행 플래너 (DIY Trip Planner) ---
+    st.markdown("---")
+    st.header(f"📝 {selected_region} 자유여행 플래너")
+    
+    if not st.session_state['my_cart']:
+        st.info("위 목록에서 마음에 드는 투어를 '담기' 버튼으로 추가해보세요! AI가 일정을 짜드립니다. 🤖")
+    else:
+        # Cart Items Display
+        cart_tours = [t for t in TOURS if t['id'] in st.session_state['my_cart']]
+        total_cost = 0
+        
+        st.markdown("##### 🛒 내 여행 코스")
+        for ct in cart_tours:
+            cc1, cc2, cc3 = st.columns([3, 1, 1])
+            with cc1:
+                st.write(f"**{ct['name']}**")
+            with cc2:
+                st.write(f"{ct['price']}")
+                # Parse price for total calculation
+                try:
+                    import re
+                    p_val = int(re.sub(r'[^0-9]', '', ct['price']))
+                    total_cost += p_val
+                except:
+                    pass
+            with cc3:
+                if st.button("🗑️ 삭제", key=f"btn_del_{ct['id']}"):
+                    st.session_state['my_cart'].remove(ct['id'])
+                    st.rerun()
+        
+        st.divider()
+        st.markdown(f"#### 💰 총 예상 비용: :orange[{total_cost:,}원]")
+        
+        # AI Itinerary Generation
+        if len(cart_tours) >= 2:
+            st.markdown("### 🤖 AI 트래블 메이커")
+            if st.button("✨ AI로 최적 동선 & 일정표 만들기", type="primary", use_container_width=True):
+                with st.spinner("AI가 최적의 여행 동선을 계산 중입니다... (약 10초 소요)"):
+                    itinerary = utils.generate_tour_itinerary(cart_tours, region=selected_region)
+                    st.session_state['generated_itinerary'] = itinerary
+            
+            if 'generated_itinerary' in st.session_state and st.session_state['generated_itinerary']:
+                st.success("일정 생성 완료! 아래 타임테이블을 확인하세요.")
+                st.markdown(st.session_state['generated_itinerary'])
+                
+                st.markdown("---")
+                st.link_button(
+                    "🛒 장바구니 상품 한 번에 예약하러 가기 (Klook)", 
+                    utils.KLOOK_ALL_TOURS_LINK, 
+                    type="primary", 
+                    use_container_width=True
+                )
+        else:
+            st.warning("투어를 2개 이상 담으시면 AI가 일정을 짜해드립니다!")
     
     # --- 4. 클룩 전체보기 (항상 표시) ---
     st.markdown("---")
