@@ -4145,14 +4145,9 @@
       "summary": "- 캄보디아에서 발생한 다수의 오염원으로 인해 태국 PM2.5 농도 상승.",
       "full_translated": "정부 발표에 따르면 캄보디아에서 4,462개의 오염원이 발견되었으며, 이는 이번 시즌 시작 이후 가장 높은 수치로 태국의 PM2.5 먼지 농도 급증에 영향을 미치고 있습니다. 당국은 방콕과 주변 지역, 그리고 동부 지역 주민들에게 오늘 대기 질 악화에 대비하라고 경고했습니다.\n\n정부 부대변인 Lalida Persvivatana는 수요일 오염 통제부(PCD) 산하 대기 오염 해결 커뮤니케이션 센터가 방콕과 수도권 지역, 그리고 사깨오, 쁘라친부리, 촌부리와 같은 동부 지역에서 미세 먼지(PM2.5) 농도 상승에 대한 경보를 발령했다고 밝혔습니다. 이러한 증가는 인접 국가에서 불어오는 동풍 때문이며, 이로 인해 방콕과 동부 지역이 바람의 영향을 받는 지역에 놓이게 되었습니다.\n\n캄보디아에서 4,462개의 오염원이 발견된 것은 연소 시즌 시작 이후 가장 높은 수치로 간주되며, 국경을 넘는 연무를 심화시켜 이 기간 동안 태국에서 더 높은 PM2.5 농도가 발생할 가능성을 높입니다. PCD는 동부 지역 기관에 오염원, 특히 노천 소각에 대한 통제를 강화하여 국내 대기 질에 미치는 영향을 완화할 것을 촉구했습니다. 당국은 대중에게 야외 활동을 피하거나 제한하여 건강을 보호할 것을 권고하고 있습니다. 불가피하게 외출해야 하는 사람들은 마스크를 착용하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "PM2.5 수치 증가는 여행객 건강에 직접적인 영향을 미치므로 주의가 필요. 특히 야외 활동 계획에 차질이 생길 수 있음. 매일 업데이트되는 정보이므로 게시 필요.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 사깨오, 쁘라친부리, 촌부리",
-        "price": null,
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 사깨오, 쁘라친부리, 촌부리', 'price': None, 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "Cambodia contributing to bad PM2.5",
@@ -4161,23 +4156,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195329_260212051310_700.jpg"
         }
       ],
-      "collected_at": "05:31",
+      "collected_at": "5:31",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195329_260212051310_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195329/cambodia-contributing-to-bad-pm25",
+      "source": ""
     },
     {
       "title": "태국 군인, 지뢰 폭발로 다리 부상",
       "summary": "- 태국-캄보디아 국경 지대에서 군인이 지뢰를 밟아 왼쪽 다리를 잃음.\n- 부상자는 파리와트 미마나 일병으로, 오른쪽 다리에도 파편상을 입음.\n- 현재 칸타라락 병원에서 치료 중.",
       "full_translated": "시사켓: 태국 군인이 수요일 오후 태국-캄보디아 국경을 따라 지뢰를 밟아 왼쪽 다리를 잃었다고 군 소식통이 확인했습니다. 군인은 파리와트 미마나 일병으로 확인되었으며 오른쪽 다리에도 파편상을 입어 열린 상처를 입었습니다. 사건은 제2군 지역의 책임 지역 내에서 발생했습니다. 파리와트 일병은 국경 초소에 주둔하고 있는 132중대 예하 13보병대대(제6보병연대, 제1대대) 소속입니다. 동료 군인들은 현장에서 응급 처치를 제공한 후 파리와트 일병을 칸타라락 지역의 칸타라락 병원으로 이송하여 현재 치료를 받고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역 여행 시 안전에 대한 주의 필요. 기존 뉴스에 유사 내용 존재하나, 사건 발생에 대한 확정 정보이므로 포함.",
-      "event_info": {
-        "date": "2026-02-12",
-        "location": "Thai-Cambodian border, Si Sa Ket",
-        "price": null,
-        "location_google_map_query": "Si Sa Ket Thailand"
-      },
+      "event_info": "{'date': '2026-02-12', 'location': 'Thai-Cambodian border, Si Sa Ket', 'price': None, 'location_google_map_query': 'Si Sa Ket Thailand'}",
       "references": [
         {
           "title": "Soldier loses leg in landmine blast",
@@ -4186,23 +4178,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "05:31",
+      "collected_at": "5:31",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195244/soldier-loses-leg-in-landmine-blast",
+      "source": ""
     },
     {
       "title": "호주 대사관, 태국 결혼 평등 1주년 기념 LGBTQ+ 행사 개최",
       "summary": "- 호주 대사관이 태국 결혼 평등 법제화 1주년을 기념하는 행사를 개최하며 LGBTQ+ 권리에 대한 지지를 재확인했습니다.\n- 2025년 1월 23일 태국은 동성 결혼을 합법화한 최초의 동남아시아 국가가 되었습니다.\n- 2025년 1월 23일부터 올해 1월 12일까지 전국적으로 265,816쌍의 커플이 혼인신고를 마쳤습니다.",
       "full_translated": "방콕포스트에 따르면 호주 대사관은 최근 태국 결혼 평등 1주년을 기념하고 LGBTQ+ 권리에 대한 지지를 재확인하기 위해 리셉션을 공동 개최했습니다. 화요일, 대사관과 APCOM 재단은 태국이 2025년 1월 23일에 모든 성별의 사람들이 결혼을 등록하고 동등한 결혼 혜택을 받을 수 있도록 하는 결혼 평등 법안을 제정한 지 1년을 기념하는 행사를 개최했습니다. 태국은 동남아시아 국가 중 최초로 동성 결혼을 합법화했습니다. 앙겔라 맥도날드 태국 주재 호주 대사는 호주가 태국이 이 지역에서 동등한 결혼을 합법화한 최초의 국가가 되는 역사적인 조치를 취한 것을 기쁘게 생각한다고 말했습니다. 그녀는 재산권, 법적 인정 및 생존권과 같은 분야에서 동성 커플이 완전히 보호되도록 하기 위해 더 많은 입법 작업이 남아 있다고 말했습니다. APCOM의 Midnight Poonkasetwattana 사무총장은 내무부 자료를 인용하여 2025년 1월 23일부터 올해 1월 12일 사이에 전국적으로 265,816쌍의 커플이 혼인신고를 했다고 밝혔습니다. 그 중 여성-여성 커플은 20,083쌍, 남성-남성 커플은 6,204쌍, 이성 커플은 239,530쌍이었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 LGBTQ+ 커뮤니티에 대한 긍정적인 소식이며, 여행객들에게 태국의 개방적인 사회 분위기를 간접적으로 알릴 수 있습니다. 다만, 여행 자체에 직접적인 영향을 미치지는 않으므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "Australian Embassy, Bangkok",
-        "price": "N/A",
-        "location_google_map_query": "Australian Embassy Bangkok"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': 'Australian Embassy, Bangkok', 'price': 'N/A', 'location_google_map_query': 'Australian Embassy Bangkok'}",
       "references": [
         {
           "title": "Aus embassy hosts LGBTQ+ event",
@@ -4211,23 +4200,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963969_700.jpg"
         }
       ],
-      "collected_at": "05:31",
+      "collected_at": "5:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963969_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195509/aus-embassy-hosts-lgbtq-event",
+      "source": ""
     },
     {
       "title": "BMW, 전 세계 50만 대 이상 차량 화재 위험으로 리콜",
       "summary": "- BMW가 전 세계적으로 50만 대 이상의 차량을 리콜합니다.\n- 시동 장치 결함으로 화재 발생 위험이 있습니다.\n- 해당 차량 소유자에게는 결함이 있는 시동 모터 교체를 위해 연락할 예정입니다.",
       "full_translated": "독일의 유명 자동차 제조업체 BMW가 시동 시스템 결함으로 인해 전 세계적으로 50만 대 이상의 차량을 리콜한다고 발표했습니다. 최악의 경우 화재가 발생할 수 있습니다. 2069년 2월 11일 수요일, 독일 프리미엄 자동차 제조업체인 BMW 대변인은 화재 위험으로 인해 수십만 대의 차량을 리콜하고 있음을 확인했습니다. 구체적으로 이번 리콜은 50만 대 이상의 차량에 영향을 미치는 것으로 알려졌습니다. 독일의 전문 매체인 kfz-betrieb은 다양한 시리즈의 차량 총 575,000대가 영향을 받았다고 보도했습니다.\n\nBMW는 제품 검사와 고객 불만 사항을 통해 2020년 7월에서 2022년 7월 사이에 생산된 시동 모터가 장착된 16개 모델이 영향을 받을 수 있음을 발견했습니다. 이는 시동 모터의 마그네틱 스위치가 시간이 지남에 따라 과도하게 마모될 수 있기 때문입니다. BMW AG는 엔진 시동 후, 특히 원격 시동 후에는 엔진이 작동 중인 동안 차량을 방치하지 말 것을 권장합니다. 제조업체는 성명에서 이같이 밝혔습니다.\n\nBMW는 또한 제품 검사와 고객 불만 사항을 통해 해당 차량 그룹의 시동 모터에 결함이 있을 수 있음을 발견했습니다. 전자기 시스템에서 단락이 발생할 가능성을 배제할 수 없으며, 이로 인해 시동 모터가 특정 지점에서 과열되어 최악의 경우 주행 중 차량 화재로 이어질 수 있습니다. 대변인은 회사가 잠재적 결함이 있는 시동 모터를 교체하기 위해 차량 소유자에게 편지를 보낼 것이라고 밝혔습니다. 한편, 2067년 BMW는 브레이크 문제로 인해 150만 대의 차량을 리콜한 후 수억 유로의 손실을 입어 실적 전망치를 낮춰야 했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내에서 발생한 사건은 아니지만, 차량을 렌트하는 여행객에게 잠재적인 위험을 알릴 필요가 있음. 다만, 현재 시점에서 긴급한 정보는 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BMW เรียกคืนรถกว่า 5 แสนคันทั่วโลก พบความเสี่ยงเกิดไฟไหม้",
@@ -4236,23 +4222,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8eUzOiQLOaD.jpg"
         }
       ],
-      "collected_at": "05:31",
+      "collected_at": "5:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8eUzOiQLOaD.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/foreign/2913704",
+      "source": ""
     },
     {
       "title": "태국, 식품 혁신 가속화",
       "summary": "- 태국은 농업 4.0으로 전환하며 전통 농업과 기술 기반 농업 간 격차를 강조하고 있습니다.\n- 미래 식량, 기후 회복력, 수확량 개선에서 성장 기회가 창출되고 있습니다.\n- 지속 가능한 식량 시스템은 건강, 경제, 사회(관광 포함), 환경의 네 가지 측면을 다루어야 합니다.",
       "full_translated": "태국의 농업 4.0으로의 전환은 전통적인 농업과 기술 중심 농업 사이의 격차를 더욱 벌리고 있음을 보여줍니다. 동시에 미래 식량, 기후 회복력, 수확량 개선에 대한 새로운 트렌드가 성장 기회를 창출하고 있습니다. Tastebud Lab이 주최한 Largest Future Food Leader Summit 2026에서 Bio Buddy와 Tastebud Lab의 최고 경영자이자 공동 창립자인 Santi Aphakat은 글로벌 식량 안보 위기가 태국이 향할 수 있는 방향을 시사한다고 경고했습니다. 그는 수명이 더 이상 인간의 건강에만 국한되지 않고 사람과 지구가 재생 영양과 지속 가능한 개발의 핵심 기둥으로 인식되고 있다고 말했습니다. 로마 FAO 본부의 이사인 Kraisit Tantusurub은 지속 가능한 식량 시스템은 건강, 경제, 사회(관광 포함) 및 환경의 네 가지 측면을 다루어야 한다고 말했습니다. 건강한 식단은 미래 식량 시스템을 대표하며 태국의 2030 로드맵을 달성하기 위해서는 과학, 투자, 혁신 및 역량 개발이 필요합니다. 수십 년 동안 농업 연구 개발 기관(공공 기관)은 연구 자금 지원을 통해 농업 및 식품 기업을 지원해 왔습니다. Kulvara Chotpansopon 부사장은 농부 수 감소와 고령화된 노동력에 대한 우려를 표명했습니다. 그녀는 증가하는 세계적 수요를 충족하기 위해 젊은 세대가 혁신을 채택하도록 장려해야 한다고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국의 식품 산업 동향에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand accelerates its food innovation",
@@ -4261,8 +4244,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963909_700.jpg"
         }
       ],
-      "collected_at": "05:31",
+      "collected_at": "5:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963909_700.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195449/thailand-accelerates-its-food-innovation",
+      "source": ""
+    },
+    {
+      "title": "태국 무슬림, 하지 순례 위한 필수 예방 접종 실시",
+      "summary": "- 태국 무슬림 하지 순례자, 수막구균 및 인플루엔자 예방 접종 의무화\n- 보건부, 7,037명의 순례자를 위한 종합 건강 프로그램 제공\n- 5월 25일부터 31일까지 하지 순례 진행, 의료팀 동행 및 귀국 후 모니터링 실시",
+      "full_translated": "태국 무슬림은 올해 사우디아라비아에서 열리는 하지 순례를 위해 수막구균 질환과 인플루엔자에 대한 필수 예방 접종, 건강 검진, 무료 응급 처치 키트를 받게 될 것이라고 보건부가 밝혔습니다. 이번 예방 접종은 올해 하지 순례에 참여하는 7,037명의 태국 무슬림에게 제공되는 종합 건강 프로그램의 일부입니다.\n\n이 소식은 워라촛 수콘카촌 공중 보건부 차관이 방콕 농촉에 있는 국립 이슬람 업무 행정 센터에서 열린 행사에서 발표했습니다. 이 행사에는 태국 무슬림의 정신적 지도자인 쭐라랏몬트리 아룬 분촘, 사우디아라비아 대사관 고위 관계자, 고위 보건 관계자 및 순례자들이 참석했습니다.\n\n워라촛 씨는 하지가 중요한 종교적 의무이며, 연간 약 13,000명의 태국 무슬림에게 할당량이 주어지고 있다고 말했습니다. 보건부는 예방 관리, 순례 중 의료 지원, 여행 후 모니터링을 통해 순례자의 안전을 보장하고자 합니다. 이 프로그램은 예방 접종, 증명서 및 건강 서비스를 무료로 제공하며, 하루 안에 완료됩니다. 의료팀이 사우디아라비아에서 순례자들과 동행하며, 귀국하는 순례자들은 MERS 및 수막구균 수막염과 같은 잠재적인 전염병을 탐지하기 위해 14일 동안 모니터링됩니다.\n\n삭다 알파차 공중 보건부 차관은 하지 2026이 5월 25일부터 31일까지 열릴 것이라고 밝혔습니다. 등록된 모든 순례자는...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 무슬림의 하지 순례 관련 건강 관리 정보를 제공하여 여행 시 참고할 수 있도록 함. 전염병 관련 정보를 포함.",
+      "event_info": {
+        "date": "2026-05-25",
+        "location": "사우디 아라비아 메카",
+        "price": "정보 없음",
+        "location_google_map_query": "메카"
+      },
+      "references": [
+        {
+          "title": "Thai Muslims to get mandatory jabs for Hajj",
+          "url": "https://www.bangkokpost.com/thailand/general/3195389/thai-muslims-to-get-mandatory-jabs-for-hajj",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "06:24",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국, 2026년 춘절 기간 지출 5% 증가 예상",
+      "summary": "- 태국 상공회의소대학교 경제비즈니스예측센터에 따르면 2026년 춘절 기간 동안 약 542억 바트가 유통될 것으로 예상됨.\n- 이는 6년 만에 최고치이며 전년 대비 5% 성장한 수치임.\n- 응답자의 25%는 올해 축제가 더 활기찰 것으로 예상하며, 절반은 작년과 비슷한 분위기일 것으로 예상함.",
+      "full_translated": "태국 상공회의소대학교(UTCC) 경제비즈니스예측센터에 따르면 2026년 춘절 기간 동안 약 542억 바트가 유통될 것으로 예상되며, 이는 6년 만에 최고치이며 전년 대비 5% 성장한 수치입니다. UTCC의 소비자 지출 조사에 따르면 응답자의 25%는 올해 축제가 더 활기찰 것으로 예상하며, 절반은 작년과 비슷한 분위기일 것으로 예상합니다. UTCC 총장인 타나왓 폰비차이는 소비자들이 선거 후 경제가 회복될 것이라고 믿고 있다고 말했습니다. 그 이유는 정부 경제팀을 누가 이끌지 예상할 수 있기 때문입니다. 응답자의 약 43%는 중국 신에게 경의를 표하고 조상에게 제물을 바칠 계획입니다. 응답자의 3분의 1은 주로 가격 상승으로 인해 이번 축제 기간 동안 더 많은 돈을 쓸 것이라고 답했으며, 35%는 제품 가격이 변하지 않을 것이라고 답했습니다. 약 70%는 육류 및 과일과 같은 제물 가격이 작년보다 더 높다고 생각합니다. 3분의 1은 필요한 품목만 구매할 계획이며, 5분의 1은 작년에 비해 지출을 줄일 것입니다. 더 많은 사람들이 여행을 계획하고 있으며, 응답자의 90% 이상이 국내 여행을 할 의향이 있습니다. 조사 결과 응답자의 절반 이상이 경제가 작년 같은 기간보다 더 나쁘거나 훨씬 더 나쁘다고 생각합니다. 그들은 경제 회복이 올해 3분기 또는 4분기에 시작될 것으로 예상합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "춘절 기간 동안의 경제 활동 증가는 관광객들에게 음식, 쇼핑 등 다양한 소비 활동에 영향을 줄 수 있으며, 물가 상승에 대한 정보는 여행 예산 계획에 도움이 될 수 있음. 다만, 직접적인 안전 문제는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-02-12",
+        "location": "태국 전역",
+        "price": "N/A",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Chinese New Year spending up 5%",
+          "url": "https://www.bangkokpost.com/business/general/3195349/chinese-new-year-spending-up-5",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963849_700.jpg"
+        }
+      ],
+      "collected_at": "06:24",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963849_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "캐나다, 학교 및 주택 총격 사건: 범인 여성, 8명 사망, 25명 부상",
+      "summary": "- 캐나다에서 발생한 총격 사건으로 8명이 사망하고 25명이 부상했습니다.\n- 범인은 18세 여성으로, 과거 남성에서 여성으로 성전환을 했습니다.\n- 범인은 사건 현장에서 자해로 사망했으며, 범행 동기는 아직 밝혀지지 않았습니다.",
+      "full_translated": "캐나다 경찰은 학교와 주택에서 발생한 두 건의 총격 사건에 대한 정보를 업데이트하여 희생자 수를 9명에서 8명으로 줄이고 용의자의 이름을 공개했습니다. 용의자는 여성 트랜스젠더입니다. 2569년 2월 11일, 캐나다 경찰 부사령관 드웨인 맥도날드는 기자 회견을 열어 화요일(2월 10일) 텀블러 리지 시의 학교를 포함한 두 건의 총격 사건에 대한 정보를 업데이트했습니다. 그는 총격범의 이름이 제시 반 루트셀라르이고 18세이며 자해로 사망했다고 밝혔습니다. 맥도날드는 루트셀라르가 약 6년 전에 여성으로 전환하기 시작하기 전에는 남성이었고 자신을 “여성”으로 정의했으며 사회적으로나 공적으로 여성으로 자신을 표현했다고 밝혔습니다. 루트셀라르는 4년 전 사건 현장 중 하나인 텀블러 리지 고등학교를 중퇴했습니다. 기자가 용의자가 “남성에서 여성으로의 전환으로 인해” 괴롭힘을 당했는지 묻자 맥도날드는 이에 대한 징후는 없다고 답했습니다. 맥도날드는 가장 최근의 사망자 수를 업데이트하여 텀블러 리지 고등학교에서 총격으로 사망한 희생자가 여성 교육 직원 1명, 남학생 2명, 여학생 3명 등 6명이라고 밝혔습니다. 거의 모두 학교 도서관에서 살해되었고 1명은 비상 계단 구역에서 사망했습니다. 한편 당국은 인근 주택에서 총격으로 사망한 2명이 용의자의 어머니와 이복 형제임을 확인했으며, 경찰은 학교에서 사건 신고를 받은 후 해당 주택으로 출동했습니다. 신고자는 용의자 및 사망한 피해자와 친척 관계인 젊은 여성이었습니다. ... 당국은 학교에서 총기 2정을 발견했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 관련 뉴스는 아니지만, 해외에서 발생한 총격 사건으로 여행객에게 안전에 대한 경각심을 줄 수 있습니다. 하지만 태국 여행에 직접적인 영향은 없으므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ตำรวจแคนาดา เผยชื่อมือปืนหญิงข้ามเพศ กราดยิง 2 จุด คร่า 8 ศพ เจ็บ 25 ราย",
+          "url": "https://www.thairath.co.th/news/foreign/2913703",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h86LSxTLvXdz.jpg"
+        }
+      ],
+      "collected_at": "06:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h86LSxTLvXdz.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국 중앙은행, 대규모 현금 거래 감시 강화 추진",
+      "summary": "- 태국 중앙은행은 의심스러운 거래를 억제하기 위해 현금 거래에 대한 감시를 강화하고 있습니다.\n- 금융 기관에 대해 고객 실사 요건을 강화하고 자금 사용 목적에 대한 명확한 검증을 요구할 예정입니다.\n- 2월 10일부터 24일까지 공청회를 진행하며, 금융 시스템의 안정성을 강화하는 데 초점을 맞추고 있습니다.",
+      "full_translated": "태국 중앙은행(BoT)은 의심스러운 거래를 억제하기 위한 노력의 일환으로 더 엄격한 실사 요건 도입과 자금 사용 목적에 대한 보다 명확한 검증을 통해 현금 거래에 대한 감독을 강화하고 있습니다. 규제 당국은 금융 기관이 현금 거래를 수행하기 전에 고객이 참석하거나 신원을 확인하도록 요구하는 제안에 대한 공청회를 진행하고 있습니다. 초안 규칙은 또한 불법 활동 조장을 방지하고 금융 시스템의 안정성을 강화하기 위해 비정상적인 거래에 대한 모니터링, 탐지 및 조사를 의무화합니다. 공청회는 2월 10일부터 24일까지 진행됩니다. 중앙은행에 따르면 현금 거래는 금융 흐름을 모니터링하고 추적하는 데 상당한 어려움을 야기하여 잠재적으로 범죄 활동을 지원하는 데 사용될 수 있는 채널을 만들 수 있습니다. 결과적으로 금융 기관 및 특수 금융 기관(SFI)은 위험 관리 프레임워크를 강화해야 합니다. 새로운 지침에 따라 상업 은행 및 SFI는 고객의 위험 프로필, 거래 특성 및 서비스 채널에 따라 추가 조치를 채택해야 합니다. 은행은 현금 거래와 관련된 위험을 적시에 감지하고 관리하기 위한 명확한 정책 및 절차를 수립해야 합니다. 이러한 조치는 거래 패턴, 거래 빈도, 가치 임계값을 포함해야 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행자에게 직접적인 영향은 적으나, 태국 금융 시스템의 변화를 간접적으로 알 수 있는 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BoT seeks closer monitoring of large cash transactions",
+          "url": "https://www.bangkokpost.com/business/general/3195489/bot-seeks-closer-monitoring-of-large-cash-transactions",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195489_260212054948_700.jpg"
+        }
+      ],
+      "collected_at": "06:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195489_260212054948_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국 보험 산업 활성화 위해 외국인 보험 가입 규제 완화 논의",
+      "summary": "- 프랑스 AXA의 태국 법인, 외국 통화(특히 위안화)를 통한 보험 상품 구매 허용 제안\n- 낮은 금리와 경제 침체로 어려움을 겪는 태국 보험 산업에 활력을 불어넣을 수 있다고 분석\n- 중국을 비롯한 외국 투자자들이 투자 다변화를 위해 태국 보험 시장에 주목하고 있다고 언급",
+      "full_translated": "프랑스 보험사 AXA의 태국 법인은 태국 보험 산업 활성화를 위해 외국인, 특히 중국인이 위안화와 같은 외국 통화로 보험 상품을 구매할 수 있도록 규제를 완화해야 한다고 주장했습니다. 크룽타이 AXA-Life의 CEO인 크낫타피싯 크룻크롱차이는 낮은 금리와 더딘 경제 성장으로 어려움을 겪는 국내 보험 산업에 이러한 조치가 도움이 될 것이라고 밝혔습니다.\n\n크낫타피싯 CEO는 많은 외국 투자자들이 위험을 분산하기 위해 노력하고 있으며, 특히 중국 투자자들이 태국을 잠재적인 투자처로 보고 있다고 말했습니다. 그는 “태국에서 보험 상품을 구매할 수 있도록 허용하면 외국 투자자들이 투자를 다각화하여 위험을 완화하는 데 도움이 될 수 있다”고 덧붙였습니다. 홍콩에서 17년간 거주한 크낫타피싯은 2025년 2월 3일부터 크룽타이 AXA-Life의 CEO를 맡고 있으며, 이 직책을 맡은 최초의 태국인입니다.\n\n그는 올해 보험 산업이 낮은 금리와 느린 경제 성장으로 어려움을 겪고 있다고 말했습니다. 그러나 태국은 싱가포르, 일본, 대만에 비해 보험 침투율이 낮습니다. 크낫타피싯 CEO는 “낮은 보험 침투율은 태국 보험 산업이 여전히 성장할 여지가 많다는 것을 의미한다”고 말했습니다. 그는 낮은 금리가 상품 가격 책정 측면에서 보험사를 어려운 상황에 처하게 한다고 말했습니다. 낮은 금리는 투자 수익을 감소시켜 보험사가 보험료를 인상하거나 혜택을 줄이도록 강요하는 경우가 많습니다. 반대로 금리 인상은 일반적으로 보험사 투자 수익을 증가시킵니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 보험 산업에 대한 내용으로, 여행자에게 직접적인 영향은 적지만, 태국 경제 상황에 대한 간접적인 정보 제공. 새로운 규제 변화 가능성도 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Call to let foreigners buy more insurance",
+          "url": "https://www.bangkokpost.com/business/general/3195334/call-to-let-foreigners-buy-more-insurance",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195334_260212054508_700.jpg"
+        }
+      ],
+      "collected_at": "06:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195334_260212054508_700.jpg",
       "date": "2026-02-12"
     }
   ]
