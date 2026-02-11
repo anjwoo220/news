@@ -2188,14 +2188,9 @@
       "summary": "- 파타야 관광 업계는 중국 설 연휴 기간 동안 외국인 관광객 증가를 기대하고 있음.\n- 특히 장거리 여행객이 80%를 차지하며, 호텔 점유율은 90%에 육박할 것으로 예상.\n- 중국인 관광객 수는 예전만큼 많지 않겠지만, 태국계 중국인 관광객들은 2월 15일부터 17일 사이에 파타야에 머물 것으로 예상.",
       "full_translated": "파타야 관광 업계는 다음 주에 다가오는 중국 설 연휴에 작년과 비슷한 상황을 기대하고 있지만, 치앙마이는 중국어권 시장에서 급증할 것으로 예상합니다. 올해 들어 현재까지 관광객 수는 10.8% 감소했습니다. 촌부리 관광 연맹 회장인 타넷 수폰사하스룽시는 파타야 사업자들이 이번 휴가 동안 많은 수의 외국인 관광객, 특히 장거리 시장에서 80%를 차지하며 호텔 점유율이 90%에 가까워질 것으로 예상한다고 말했습니다. 그는 중국인 관광객들이 도시를 방문할 것으로 예상되지만, 많은 사람들이 다른 목적지로 이동하거나 중국 내에서 여행하기 때문에 예전만큼 많은 수는 아닐 것이라고 말했습니다. 국내 시장의 경우 태국계 중국인 관광객들은 2월 15일부터 17일 사이에 파타야에 며칠 동안 머물 것으로 예상된다고 타넷 씨는 말했습니다. 한편, 치앙마이는 2025년 중국 배우 납치 사건으로 관광객 신뢰도가 저하되었던 2025년 중국 설 연휴에 비해 개선될 것으로 예상됩니다. 치앙마이 상공회의소 부회장인 품롭 새주에 따르면 이 지역은 일반적인 성수기에 비해 중국 설 연휴 기간 동안 20~30% 더 많은 예약률을 기록할 수 있습니다. 호텔은 평균 80%의 점유율을 확보할 것으로 예상되는데, 이는 호텔이 완전히 예약되었던 러이 끄라통 축제만큼 강력하지는 않습니다. 이러한 성장은 다음과 같은 요인에 의해 주도될 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국 설 연휴 기간 파타야 관광객 증가 예상은 여행객에게 숙박 및 교통 혼잡에 대한 정보를 제공하므로.",
-      "event_info": {
-        "date": "2026-02-15 ~ 2026-02-17",
-        "location": "파타야",
-        "price": "정보 없음",
-        "location_google_map_query": "파타야 호텔"
-      },
+      "event_info": "{'date': '2026-02-15 ~ 2026-02-17', 'location': '파타야', 'price': '정보 없음', 'location_google_map_query': '파타야 호텔'}",
       "references": [
         {
           "title": "Pattaya banking on Chinese New Year boost",
@@ -2204,23 +2199,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962253_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962253_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/business/general/3194603/pattaya-banking-on-chinese-new-year-boost",
+      "source": ""
     },
     {
       "title": "UOB 태국, 정치 안정과 정책 실행이 태국 경제 성장의 핵심",
       "summary": "- UOB 태국은 새 정부의 정책 실행이 투자자 신뢰 구축과 외국인 투자 유치에 중요하다고 강조함.\n- 2026년 GDP 성장률을 1.8%로 예측하며, 관광 산업을 주요 성장 동력으로 봄.\n- 원활한 행정과 효과적인 정책 실행이 뒷받침된다면 경제 성장률은 1.8% 이상으로 증가할 수 있다고 전망.",
       "full_translated": "UOB 태국: 경제 성장은 안정성에 달려있다\n\n꾸준한 정책 실행이 투자 유치를 이끌 수 있습니다.\n\nUOB 태국에 따르면 새 정부 정책의 효과적인 실행은 투자자 신뢰를 구축하고 태국으로의 외국 포트폴리오 유입과 외국인 직접 투자(FDI)를 유치하는 데 매우 중요합니다. 일요일 총선 이후 국내 정치적 불확실성이 완화되었고, 이는 국내 증시의 큰 상승세에 반영되었습니다. UOB 태국의 예금 및 자산 관리 책임자인 에이블 림은 이러한 긍정적인 모멘텀은 새 정부의 원활한 구성과 정책의 효과적인 실행에 달려 있다고 말했습니다. 품자이타이당이 선거에서 승리하고 새 정부 구성을 주도함에 따라 기존 경제 정책은 초기 단계에서 계속되어 태국 경제 성장을 지원하고 외국 자본 유입과 FDI를 유치하는 데 도움이 될 것으로 예상됩니다. 올해 UOB 태국은 GDP 성장률을 1.8%로 예측하며, 이는 국가 잠재 성장률인 2.7%보다 낮습니다. 은행은 원활한 행정과 효과적인 정책 실행을 가정하면 경제 성장률이 이 기준선을 초과할 수 있다고 언급했습니다. UOB 태국은 기준선 예측이 부문별 강점과 구조적 과제의 조합을 반영한다고 밝혔습니다. 관광 산업이 주도하는 서비스 부문은 주요 성장 동력으로 유지될 것으로 예상됩니다. 한편 제조업 부문은 새로운 S자형 산업으로 현대화하고 전환해야 하는 압력에 직면해 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 상황에 대한 정보는 여행 관련 서비스 및 물가에 간접적인 영향을 줄 수 있지만, 당장 여행객에게 직접적인 영향을 미치지는 않음. 따라서 보통 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "UOB: Economic growth depends on stability",
@@ -2229,23 +2221,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962313_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962313_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/business/general/3194688/uob-economic-growth-depends-on-stability",
+      "source": ""
     },
     {
       "title": "BJT 승리, 보수 진영에 유리하게 작용",
       "summary": "- 태국 총선에서 Bhumjaithai Party (BJT)의 결정적인 승리는 보수 진영의 승리를 의미한다는 분석이 나옴.\n- 민족주의 정서 강화와 지역 정치 세력의 전략적 통합이 승리에 기여했다는 평가.\n- 학자들은 이번 승리가 단기적인 우위를 확보하기 위한 전략적 선택이며, 장기적인 이념적 안정과는 거리가 멀다고 경고.",
       "full_translated": "태국 총선 결과는 정치 분석가들 사이에서 열띤 논쟁을 불러일으켰으며, 많은 이들이 Bhumjaithai Party (BJT)의 결정적인 승리가 고조되는 민족주의 정서와 지역 정치 권력 기반(ban yai, 영향력 있는 정치 클랜)의 전략적 통합에 의해 강화된 보수 진영의 승리를 의미한다고 결론지었습니다. 승리는 압도적이었지만, 학자들은 이것이 영구적이지도 않고 미래의 충격에 면역되지도 않는다고 경고합니다. 부라파 대학교 정치 과학 및 법학부 강사인 올란 틴방티에오는 이번 선거가 보수 세력의 승리로 읽혀야 하지만 취약한 승리라고 말했습니다. 그는 안주에 대해 경고하면서 결과는 장기적인 이념적 안정보다는 단기적인 지배력을 확보하기 위한 \"전략적 선거 승리\"에 해당한다고 주장했습니다. 올란 씨는 \"BJT의 중심 과제는 이제 보수 진영을 위한 견고한 토대를 마련하는 것입니다.\"라고 말했습니다. \"이는 특히 당이 보수 정치의 선봉으로 인정받고 있는 지금 아이디어, 정책 프레임워크 및 제도적 기반에 대해 진지하게 작업하는 것을 의미합니다.\" 올란 씨에 따르면 유권자 행동을 형성하는 핵심 요소 중 하나는 민주당 지도자 아피싯 웨차치와의 후반 캠페인 모멘텀 붕괴였으며, 그는 갑작스럽고 어려운 일이라고 설명했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향을 미치는 정보는 아님. 다만, 정치적 상황에 따라 여행 심리에 영향을 줄 수 있으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BJT win bodes well for conservatives",
@@ -2254,23 +2243,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194623_260211045602_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194623_260211045602_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/special-reports/3194623/bjt-win-bodes-well-for-conservatives",
+      "source": ""
     },
     {
       "title": "소수 정당 대표, 주목의 중심에 서다",
       "summary": "- 타이 Ruam Palang Party는 BJT 주도 연합에서 중요한 역할을 할 수 있습니다.\n- Wasawat Poungponsri 대표는 선거 결과 발표 이후 주목받는 인물입니다.\n- 그의 당은 하원 의석 6석을 확보하며 지지 기반을 넓히고 있습니다.",
       "full_translated": "태국 Ruam Palang Party는 강력한 풀뿌리 지지를 바탕으로 BJT 주도 연합에서 핵심적인 역할을 할 수 있습니다. Wasawat Poungponsri 대표는 일요일 선거 결과 발표 이후 태국의 소규모 정당 중 가장 주목받는 인물 중 한 명으로 부상했습니다. 이들은 Bhumjaithai 주도 연립 정부의 구성과 안정에 매우 중요하다고 여겨집니다. Ubon Ratchathani에 기반을 둔 5년 된 Thai Ruam Palang Party는 총선에서 하원 의석 6석(지역구 5석, 비례대표 1석)을 확보했습니다. Pheu Thai, Bhumjaithai, Chartthaipattana와 같은 거대 정당이 전통적으로 장악했던 지역구에서 얻은 성과는 특히 Lower Northeast에서 풀뿌리 지지 기반이 성장하고 있음을 보여줍니다. '쿵푸'라는 별명으로 널리 알려진 Wasawat 씨는 특히 Nam Yuen 및 Muang Sam Sip 지역에서 Ubon Ratchathani의 떠오르는 지역 정치인으로 두각을 나타냈습니다. 친근한 차세대 정치인으로 묘사되는 그는 당의 Isan 전략과 지속 가능한 지역 기반을 구축하기 위한 노력의 원동력으로 여겨집니다. 농촌 지역 사회에 잘 알려진 그는 현재 거주하고 있는 Nam Yuen에서 국경 지역 주민들과 수년간 교류해 왔습니다. 2025년 7월에서 12월 사이에 태국-캄보디아 국경을 따라 긴장이 고조되는 가운데 그는 주민들의 대피 및 지원에 적극적으로 참여했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Leader of small party draws focus",
@@ -2279,23 +2265,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194773_260211050034_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3194773_260211050034_700.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/thailand/politics/3194773/leader-of-small-party-draws-focus",
+      "source": ""
     },
     {
       "title": "태국 가전제품 판매 부진, 경제 침체 지속",
       "summary": "- 태국 경제 침체로 가전제품 시장이 정체될 것으로 예상됨.\n- 하이얼, 혁신 제품 출시로 성장 유지 목표, 가격 경쟁 지양.\n- 삼성, 상업용 세탁기 시장 진출 및 프리미엄 냉장고 라인 강화.",
       "full_translated": "태국의 경기 침체가 올해에도 가전 산업에 그림자를 드리우고 있지만, 따뜻한 날씨와 월드컵이 판매를 촉진할 수 있습니다. 하이얼 전기 제품(태국) 유한회사의 동 지안핑 사장은 태국의 느린 GDP 성장과 높은 가계 부채를 감안할 때 태국 시장이 작년과 비교하여 정체되거나 소폭 감소할 것으로 예상한다고 밝혔습니다. 국가경제사회개발위원회에 따르면 2025년 2분기 태국의 가계 부채 대 GDP 비율은 86.8%였습니다. 카시콘 리서치 센터는 올해 태국의 GDP 성장률을 1.6%로 예측했습니다. 어려운 상황 속에서 하이얼은 혁신적인 제품을 지속적으로 시장에 출시하여 성장을 유지하는 것을 목표로 하고 있습니다. 시장에서 가격 전쟁이 벌어질 가능성이 있지만, 이러한 전략은 장기적으로 긍정적이지 않다고 그는 말했습니다. 하이얼은 이러한 전술에 참여하지 않고 제품 가치에 집중할 것이라고 지안핑 씨는 말했습니다. 태국 삼성전자는 세탁소 운영자에게 제품을 공급하여 올해 상업용 세탁기 부문에 진출할 계획입니다. 태국 삼성전자 가전 및 소비자 가전 책임자인 사라트 악사랄리킷산티는 한국에서 제품을 수입할 것이라고 밝혔습니다. 냉장고의 경우 멀티 도어 및 사이드 바이 사이드 모델을 포함한 프리미엄 카테고리에서 입지를 강화하는 것을 목표로 하고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "가전제품 판매 동향은 여행객에게 직접적인 영향은 적지만, 전반적인 경제 상황을 간접적으로 보여줌. 새로운 정보이므로 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Electrical goods sales flat due to stagnant economy",
@@ -2304,8 +2287,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962238_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962238_700.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/business/general/3194578/electrical-goods-sales-flat-due-to-stagnant-economy",
+      "source": ""
+    },
+    {
+      "title": "방콕, PM2.5 미세먼지 농도 심각: 58개 지역 '건강 영향' 수준",
+      "summary": "- 방콕의 PM2.5 미세먼지 농도가 58개 지역에서 기준치를 초과, 건강에 영향을 미치는 수준.\n- 오늘(11일) 오전 7시 기준, PM2.5 농도는 32.4-58.8 마이크로그램/세제곱미터(μg/m³)로 측정됨.\n- 외출 시 마스크 착용 등 개인 보호 장비 사용 권장.",
+      "full_translated": "오늘(11일) 방콕의 미세먼지(PM2.5) 농도가 심각한 수준으로, 58개 지역에서 기준치를 초과하여 건강에 영향을 미칠 수 있다는 보고가 발표되었습니다. 방콕시 대기질 정보센터에 따르면 오늘 오전 7시 기준 PM2.5 농도는 32.4에서 58.8 마이크로그램/세제곱미터(μg/m³) 사이로 측정되었으며, 이는 기준치인 37.5 μg/m³를 넘어선 수치입니다. 특히 농켐, 타위와타나, 방쿤티안, 쁘라웻 지역 등의 미세먼지 농도가 높게 나타났습니다. 당국은 외출 시 마스크 착용 등 개인 보호 장비 사용을 권장하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "미세먼지 농도 정보는 여행객 건강에 직접적인 영향을 미치므로 중요. 매일 업데이트되는 정보이므로 포함.",
+      "event_info": {
+        "date": "2025-02-11",
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 미세먼지 측정소"
+      },
+      "references": [
+        {
+          "title": "ค่าฝุ่นวันนี้ 11 ก.พ. 69 กทม.อ่วม PM 2.5 เริ่มพุ่ง เกินมาตรฐานสีส้ม 58 พื้นที่",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2913482",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RowenHxtG3s8.jpg"
+        }
+      ],
+      "collected_at": "08:26",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RowenHxtG3s8.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "태국-캄보디아 국경 지대에서 캄보디아군이 대인 지뢰 사용, 태국군 증거 발견 및 규탄",
+      "summary": "- 태국군이 캄보디아가 트랏 지역 국경을 침범하여 군사 기지를 건설한 증거를 추가로 발견했습니다.\n- 캄보디아가 오타와 협약과 국제인도법을 위반하여 대인 지뢰를 사용한 것을 규탄합니다.\n- 해당 기지에서 다수의 무기와 대인 지뢰가 발견되었으며, 이는 민간인에게 무차별적인 위험을 초래하는 행위입니다.",
+      "full_translated": "태국군이 캄보디아가 트랏 지역 국경을 침범하여 군사 기지를 건설한 증거를 추가로 발견하고, 캄보디아가 대인 지뢰를 사용한 것을 규탄했습니다. 2024년 2월 11일, 해군 대변인 파랏 랏차이야판 소장은 2024년 2월 10일, 찬타부리-트랏 국경 방어 사령부 (꺼뻐처. 쩌떠.)가 폭발물 제거 작전을 수행하고 안전을 확보했다고 밝혔습니다. 해당 지역은 원래 캄보디아군이 넝리 마을, 참락 구역, 므앙 트랏 지역에 군사 기지를 세워 주권을 침해한 곳입니다. 현장 조사 결과, 캄보디아군 (꺼퍼처.) 기지 3개가 참호로 연결되어 있어 해당 지역이 군사 기지로 사용되었음을 명확히 보여줍니다. 해당 부대는 기지 내에서 버려진 무기(AXO) 4점을 발견했습니다: - 12.7mm 기관총 총열 및 삼각대 1세트 - 12.7mm 기관총 탄약 1,744발 - 75mm 무반동포 탄약 30발 - RGD-5 수류탄 1개 또한, 해당 부대는 파편형 대인 지뢰 MBV-78A2 1개를 발견했습니다. 이는 오타와 협약에 따라 금지된 무기이며, 민간인에게 무차별적인 위험을 초래하므로 국제인도법을 명백히 위반하는 행위입니다. 해군은 국경 지역에서 대인 지뢰를 사용하거나 설치하는 것은 국민의 안전을 위협할 뿐만 아니라 국제적 의무를 위반하는 것이라고 강조합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "국경 지역 긴장 고조는 여행 안전에 잠재적 영향을 미칠 수 있으며, 특히 해당 지역 방문객에게 주의가 필요합니다. 지뢰는 직접적인 위협이 될 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "트랏 지역 국경",
+        "price": null,
+        "location_google_map_query": "트랏 태국 캄보디아 국경"
+      },
+      "references": [
+        {
+          "title": "ทหารไทยพบหลักฐานเพิ่ม ประณามกัมพูชาใช้ \"ทุ่นระเบิดสังหารบุคคล\" ในพื้นที่ชายแดน",
+          "url": "https://www.thairath.co.th/news/local/east/2913480",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RooMxBJApOL8.jpg"
+        }
+      ],
+      "collected_at": "08:26",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RooMxBJApOL8.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "씨라차 시장, 부패 의혹 제기에 명예훼손 소송 제기",
+      "summary": "- 스리라차 시장, 소셜 미디어 게시글에 대한 명예훼손 소송 제기\n- 코로이 보라색 다리 프로젝트 관련 부패 의혹이 제기됨\n- 시장은 게시글이 자신의 명예를 훼손했다고 주장",
+      "full_translated": "차차이 시장은 시의회 의장 아난 완파이산, 비서 피야눗 팀크라장과 함께 스리라차 경찰서를 방문하여 수사 부국장 솜키드 분로이 경감과 만나 고소장을 제출했습니다. 고소장의 중심 내용은 스리라차 페이지에 게시된 페이스북 게시물입니다. 해당 게시물은 “사람들이 비싸다고 불평하는 코로이의 2억 4천만 바트 보라색 다리. Bhumjaithai 당과 제휴한 스리라차 시장 Pued”이라는 내용과 함께 여러 부정적인 해시태그가 포함되어 있습니다. 차차이 시장은 해당 게시물이 코로이의 보라색 다리 (싸판 러이 남 씨 므엉)의 높은 비용이 자신의 부패 또는 횡령으로 인한 것이라고 거짓으로 암시한다고 주장합니다. 그는 이것이 사실이 아니며 게시물을 읽은 사람들이 자신을 경멸, 증오 또는 경멸로 보도록 하여 자신의 명예에 해를 끼쳤다고 주장합니다. 보라색 다리는 약 437미터 길이, 3.45미터 폭으로 본토와 스리라차의 코로이 공원을 연결합니다. 약 2억 4천만 바트의 비용이 소요되었으며, 아름다운 바다 전망을 제공하고 지역 관광을 촉진하는 랜드마크 역할을 하여 방문객들에게 인기 있는 명소가 되었습니다. 차차이 시장은 경찰에 진술하면서 이 문제를 증거로 기록하기 위해 고소장을 제출했다고 밝혔습니다. 그는 당국에 법에 따라 진행할 것을 촉구했습니다. 차차이 시장은 “오늘 페이스북에 허위 및 오해의 소지가 있는 콘텐츠를 게시하여 저에게 피해를 입혔다고 신고하러 왔습니다.”라고 설명했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "관광 명소 관련 부패 의혹 제기. 여행 자체에는 큰 영향 없으나, 인지도는 중요.",
+      "event_info": {
+        "date": null,
+        "location": "Koh Loy Park, Sri Racha",
+        "price": null,
+        "location_google_map_query": "Koh Loy Park, Sri Racha"
+      },
+      "references": [
+        {
+          "title": "Sriracha Mayor Files Defamation Complaint Over Social Media Post Alleging Corruption in Purple Floating Bridge Project",
+          "url": "https://thepattayanews.com/2026/02/10/sriracha-mayor-files-defamation-complaint-over-social-media-post-alleging-corruption-in-purple-floating-bridge-project/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707264034531871952570704244611.jpg?v=1770726811"
+        }
+      ],
+      "collected_at": "08:26",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707264034531871952570704244611.jpg?v=1770726811",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "시라차에서 유조차 운전사, 차량 점검 중 사망",
+      "summary": "- 시라차의 한 주택에서 유조차 운전사가 차량 점검 중 사고로 사망했습니다.\n- 피해자는 매일 새벽 차량 점검을 하던 중 유조차가 움직이며 바퀴에 깔린 것으로 추정됩니다.\n- 경찰은 정확한 사고 경위를 조사 중입니다.",
+      "full_translated": "촌부리에서 등록된 72-4459 번호판의 15,000리터 용량의 10륜 유조차 운전자인 수라폴 몽폰무앙 씨가 논크와엑 – 후아이 콩 다이 소이 3의 한 주택에서 사고를 당했습니다. 목격자 및 초기 경찰 조사에 따르면 수라폴 씨는 매일 새벽 4-5시경에 엔진을 켜고 차량 점검을 했습니다. 그는 브레이크 또는 기타 부품을 검사하기 위해 트럭 밑으로 들어간 것으로 보입니다. 이웃들은 오전 5시경 엔진 소리를 들었지만 평소와 같이 운전사가 출발하는 시간이라고 생각했습니다. 그러나 트럭이 제대로 고정되지 않았거나 브레이크가 잠겨있지 않아 의도치 않게 앞으로 굴러간 것으로 보이며, 수라폴 씨는 뒷바퀴 사이에 갇혔습니다. 그의 시신은 거친 자갈 표면을 따라 끌려가 몇 시간 동안 그곳에 갇혀 있었습니다. 이웃인 프레차 사미프렘 씨(44세)가 자녀를 학교에 데려다주기 위해 밖으로 나왔다가 오전 7시경에 이 끔찍한 발견을 했습니다. 그는 유조차가 여전히 주차되어 있고, 수라폴 씨의 다리가 뒷바퀴 사이로 튀어나온 것을 발견했습니다. 처음에는 운전사가 밑에서 작업 중이라고 생각하고 다리에 접근하여 만져보니 차갑고 생명이 없다는 것을 깨달았습니다. 그는 즉시 피해자의 아내와 아들에게 알렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 직접적인 영향은 없으나, 차량 안전에 대한 경각심을 줄 수 있는 사고 소식이므로 정보를 제공합니다. 지역 교통에 일시적인 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "시라차",
+        "price": null,
+        "location_google_map_query": "시라차"
+      },
+      "references": [
+        {
+          "title": "Oil Truck Driver Crushed to Death While Checking Vehicle in Sri Racha",
+          "url": "https://thepattayanews.com/2026/02/10/oil-truck-driver-crushed-to-death-while-checking-vehicle-in-sri-racha/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707029848014092476800505818527.jpg?v=1770703054"
+        }
+      ],
+      "collected_at": "08:26",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707029848014092476800505818527.jpg?v=1770703054",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "태국 개인 저축 계좌(TISA) 도입 추진: 장기 저축 및 ESG 투자 장려",
+      "summary": "- 태국 정부가 개인 저축 계좌(TISA) 도입을 추진하여 장기 저축을 장려하고 ESG 투자를 활성화할 계획입니다.\n- TISA를 통해 연간 최대 50만 바트까지 투자 가능하며, 초기 2년 동안은 추가 특별 투자 한도 30만 바트가 제공됩니다.\n- SET ESG 상장 주식 또는 태국 ESG 뮤추얼 펀드 투자는 세금 공제 혜택을 받을 수 있으며, 최소 5년의 보유 기간이 요구됩니다.",
+      "full_translated": "Tisco 증권은 태국 개인 저축 계좌(TISA) 제도의 계획된 설립을 새 정부가 장기 저축을 장려하고 가계 투자 규율을 강화하며 환경, 사회 및 거버넌스(ESG) 투자에 중점을 두고 태국 자본 시장을 강화하는 도구로 추진할 것을 제안했습니다. Tisco 증권의 최고 경영자인 Paiboon Nalinthrangkurn은 제안된 프레임워크가 지속 가능한 투자 테마를 지원하면서 주식 시장으로의 꾸준한 자본 유입을 장려하도록 설계되었다고 말했습니다. 제안에 따라 개인은 TISA 제도를 통해 연간 최대 500,000 바트를 투자할 수 있습니다. 조기 채택을 가속화하기 위해 시행 첫 2년 동안 연간 300,000 바트의 추가 특별 투자 허용액이 부여됩니다. 재무부는 원래 TISA 투자를 총 500,000 바트 한도로 세금 공제를 위해 다른 저축 수단과 결합하는 것을 고려했습니다. 태국 증권 거래소(SET)의 ESG 상장 주식 또는 태국 ESG 뮤추얼 펀드에 대한 투자는 전액 세금 공제를 받을 수 있으며, 비 ESG 주식 또는 뮤추얼 펀드에 대한 투자는 투자 금액의 80%로 세금 공제가 제한됩니다. 이 제도는 최소 5년의 보유 기간을 요구하며, 이 기간 동안 투자자는 TISA 계정 내에서 적격 주식 또는 뮤추얼 펀드 간에 전환할 수 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 태국 경제 및 투자 환경에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Brokerages upbeat on investment",
+          "url": "https://www.bangkokpost.com/business/investment/3194588/brokerages-upbeat-on-investment",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962248_700.jpg"
+        }
+      ],
+      "collected_at": "08:26",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962248_700.jpg",
       "date": "2026-02-11"
     }
   ]
