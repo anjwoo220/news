@@ -840,7 +840,6 @@ def render_dinner_cruise_banner():
                 </a>
             </div>
         </div>
-        </div>
         """,
         unsafe_allow_html=True
     )
