@@ -2271,7 +2271,12 @@ def render_tab_guide():
 
 def render_tab_tour():
     """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
-    from data_tours import TOURS, KLOOK_ALL_TOURS_LINK
+def render_tab_tour():
+    """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
+    import data_tours
+    import importlib
+    importlib.reload(data_tours)
+    from data_tours import TOURS, KLOOK_ALL_TOURS_LINK, CITY_LINKS, REGION_OPTIONS, REGION_LABEL_TO_KEY
     
     # SEO
     utils.set_page_title(utils.get_seo_title("nav_tour"))
@@ -2281,6 +2286,11 @@ def render_tab_tour():
     utils.render_custom_header(utils.t("tour_title"), level=2)
     st.caption(utils.t("tour_desc"))
     
+    # --- 0. 지역 선택 (Region Selector) ---
+    selected_region_label = st.pills("떠나시는 여행지를 선택해주세요! 🇹🇭", REGION_OPTIONS, default=REGION_OPTIONS[0], key="tour_region_selector", on_change=lambda: st.session_state.pop("tour_recommendations", None))
+    # Label to Key (e.g., "🏙️ 방콕" -> "방콕")
+    selected_region = REGION_LABEL_TO_KEY.get(selected_region_label, "방콕")
+
     # --- 1. 사용자 취향 입력 (Input) ---
     st.markdown("---")
     
@@ -2297,8 +2307,8 @@ def render_tab_tour():
     
     # --- 2. 추천 버튼 & 결과 (Output) ---
     if st.button(utils.t("tour_find_btn"), use_container_width=True, type="primary", key="tour_find_button"):
-        with st.spinner(utils.t("tour_spinner")):
-            ai_result = utils.recommend_tours(who, style, budget)
+        with st.spinner(f"{selected_region} 투어를 분석 중입니다... 🤖"):
+            ai_result = utils.recommend_tours(who, style, budget, region=selected_region)
         
         if ai_result and ai_result.get("recommendations"):
             st.session_state["tour_recommendations"] = ai_result["recommendations"]
@@ -2356,8 +2366,11 @@ def render_tab_tour():
                 st.markdown("---")
     
     # --- 3. 전체 목록 (Fallback) ---
-    with st.expander(utils.t("tour_all_list")):
-        for t in TOURS:
+    # Filter tours by region
+    region_tours = [t for t in TOURS if t.get('region', '방콕') == selected_region]
+    
+    with st.expander(f"{selected_region} 투어 전체 목록 ({len(region_tours)}개)"):
+        for t in region_tours:
             c1, c2 = st.columns([1, 3])
             with c1:
                 if t.get("image"):
@@ -2372,9 +2385,11 @@ def render_tab_tour():
     # --- 4. 클룩 전체보기 (항상 표시) ---
     st.markdown("---")
     st.info(utils.t("tour_no_match"))
+    
+    city_link = CITY_LINKS.get(selected_region, KLOOK_ALL_TOURS_LINK)
     st.link_button(
-        utils.t("tour_fallback"),
-        KLOOK_ALL_TOURS_LINK,
+        f"🌏 {selected_region} 투어 전체보기 (클룩)",
+        city_link,
         use_container_width=True
     )
 
@@ -3703,7 +3718,10 @@ if app_mode == "Admin Console":
             st.info("여기서 추가/수정된 데이터는 `data_tours.py` 파일에 직접 저장됩니다.")
             
             try:
-                from data_tours import TOURS
+                import data_tours
+                import importlib
+                importlib.reload(data_tours)
+                from data_tours import TOURS, CITY_LINKS, REGION_OPTIONS
                 import json
                 import pandas as pd
                 import time
@@ -3725,6 +3743,7 @@ if app_mode == "Admin Console":
                         new_id = max([t['id'] for t in TOURS]) + 1 if TOURS else 1
                         st.caption(f"새 투어 ID: {new_id} (자동 생성)")
                         
+                        n_region = st.selectbox("지역 (필수)", REGION_OPTIONS) # [NEW]
                         n_name = st.text_input("투어명")
                         n_price = st.text_input("가격 (예: 약 50,000원)")
                         n_link = st.text_input("Klook 링크")
@@ -3736,6 +3755,7 @@ if app_mode == "Admin Console":
                         if st.form_submit_button("저장"):
                             new_tour = {
                                 "id": new_id,
+                                "region": n_region.split(" ", 1)[1], # [NEW]
                                 "name": n_name,
                                 "type": [t.strip() for t in n_type.split(",") if t.strip()],
                                 "price": n_price,
@@ -3748,7 +3768,7 @@ if app_mode == "Admin Console":
                             
                             # Save to file
                             with open("data_tours.py", "w", encoding="utf-8") as f:
-                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\n# 지역별 클룩 제휴 링크\nCITY_LINKS = {json.dumps(CITY_LINKS, indent=4, ensure_ascii=False)}\n\n# UI에서 사용하는 지역 옵션 (이모지 포함)\nREGION_OPTIONS = {json.dumps(REGION_OPTIONS, ensure_ascii=False)}\n\n# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)\nREGION_LABEL_TO_KEY = {{opt: opt.split(' ', 1)[1] for opt in REGION_OPTIONS}}\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
                             
                             st.success("새 투어가 추가되었습니다!")
                             time.sleep(1)
@@ -3761,6 +3781,16 @@ if app_mode == "Admin Console":
                     if target_tour:
                         with st.form("edit_tour_form"):
                             st.caption(f"수정 중: {target_tour['name']}")
+                            
+                            # Find current region index
+                            curr_reg = target_tour.get('region', '방콕')
+                            curr_reg_idx = 0
+                            for idx, opt in enumerate(REGION_OPTIONS):
+                                if curr_reg in opt:
+                                    curr_reg_idx = idx
+                                    break
+                            
+                            e_region = st.selectbox("지역", REGION_OPTIONS, index=curr_reg_idx) # [NEW]
                             e_name = st.text_input("투어명", value=target_tour['name'])
                             e_price = st.text_input("가격", value=target_tour['price'])
                             e_link = st.text_input("Klook 링크", value=target_tour['link'])
@@ -3770,6 +3800,7 @@ if app_mode == "Admin Console":
                             e_pros = st.text_input("장점/특징", value=target_tour['pros'])
                             
                             if st.form_submit_button("수정 내용 저장"):
+                                target_tour['region'] = e_region.split(" ", 1)[1] # [NEW]
                                 target_tour['name'] = e_name
                                 target_tour['price'] = e_price
                                 target_tour['link'] = e_link
@@ -3780,7 +3811,7 @@ if app_mode == "Admin Console":
                                 
                                 # Save to file
                                 with open("data_tours.py", "w", encoding="utf-8") as f:
-                                    f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                                    f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\n# 지역별 클룩 제휴 링크\nCITY_LINKS = {json.dumps(CITY_LINKS, indent=4, ensure_ascii=False)}\n\n# UI에서 사용하는 지역 옵션 (이모지 포함)\nREGION_OPTIONS = {json.dumps(REGION_OPTIONS, ensure_ascii=False)}\n\n# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)\nREGION_LABEL_TO_KEY = {{opt: opt.split(' ', 1)[1] for opt in REGION_OPTIONS}}\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
                                 
                                 st.success("투어 정보가 수정되었습니다!")
                                 time.sleep(1)
@@ -3799,7 +3830,7 @@ if app_mode == "Admin Console":
                         if len(TOURS) < initial_len:
                             # Save to file
                             with open("data_tours.py", "w", encoding="utf-8") as f:
-                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\n# 지역별 클룩 제휴 링크\nCITY_LINKS = {json.dumps(CITY_LINKS, indent=4, ensure_ascii=False)}\n\n# UI에서 사용하는 지역 옵션 (이모지 포함)\nREGION_OPTIONS = {json.dumps(REGION_OPTIONS, ensure_ascii=False)}\n\n# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)\nREGION_LABEL_TO_KEY = {{opt: opt.split(' ', 1)[1] for opt in REGION_OPTIONS}}\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
                             
                             st.success(f"ID {del_id} 투어가 삭제되었습니다.")
                             time.sleep(1)
@@ -4086,6 +4117,31 @@ else:
             body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stCaptionContainer"] {
                 color: #A0A0A0 !important;
             }
+
+            /* G. st.pills Visibility & Layout Fix (Definitive) */
+            /* Force DARK text on selected pills to beat Dark Mode global p/span styles */
+            div[data-testid="stPills"] button[data-testid="stBaseButton-pillsActive"] *,
+            div[data-testid="stPills"] button[data-selected="true"] *,
+            button[data-testid="stBaseButton-pillsActive"] * {
+                color: #31333F !important;
+                font-weight: 700 !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+            }
+
+            /* Prevent pills from collapsing into small circles */
+            div[data-testid="stPills"] button[data-testid^="stBaseButton-pills"],
+            button[data-testid^="stBaseButton-pills"] {
+                min-width: max-content !important;
+                width: auto !important;
+                flex-shrink: 0 !important;
+            }
+
+            /* Ensure internal markdown container allows expansion */
+            button[data-testid^="stBaseButton-pills"] div[data-testid="stMarkdownContainer"] {
+                width: auto !important;
+                overflow: visible !important;
+            }
         </style>
     """, unsafe_allow_html=True)
 
@@ -4276,12 +4332,10 @@ else:
         if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
              st.session_state["nav_top"] = current_mode
              
-        # [MOD] CSS for Mobile Horizontal Scroll (No-Wrap)
+        # [MOD] Mobile Horizontal Scroll for Navigation
         st.markdown("""
         <style>
-        /* Force st.pills to scroll horizontally on mobile */
         @media (max-width: 768px) {
-            /* Container: Flex nowrap + Scroll */
             div[data-testid="stButtonGroup"] > div,
             div[data-testid="stPills"] > div > div {
                 flex-wrap: nowrap !important;
@@ -4290,24 +4344,12 @@ else:
                 -webkit-overflow-scrolling: touch;
                 scrollbar-width: none;
                 padding-bottom: 4px;
-                /* Optional: Fade effect on right edge */
                 mask-image: linear-gradient(to right, black 85%, transparent 100%);
                 -webkit-mask-image: linear-gradient(to right, black 85%, transparent 100%);
             }
             div[data-testid="stButtonGroup"] > div::-webkit-scrollbar,
             div[data-testid="stPills"] > div > div::-webkit-scrollbar {
                 display: none;
-            }
-            
-            /* Buttons: Prevent shrinking */
-            button[data-testid="stBaseButton-pills"] {
-                flex-shrink: 0 !important;
-                min-width: auto !important;
-            }
-            
-            /* Text: No wrap */
-            button[data-testid="stBaseButton-pills"] p {
-                white-space: nowrap !important;
             }
         }
         </style>

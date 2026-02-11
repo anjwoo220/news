@@ -4196,7 +4196,7 @@ def analyze_wongnai_data(restaurant_data, api_key):
 # 🎒 AI Tour Recommendation Engine
 # ============================================
 
-def recommend_tours(who, style, budget):
+def recommend_tours(who, style, budget, region="방콕"):
     """
     사용자 입력을 바탕으로 Gemini AI가 투어를 추천하는 함수.
     
@@ -4204,12 +4204,16 @@ def recommend_tours(who, style, budget):
         who: 동행인 (예: "혼자", "연인/부부", "가족(아이동반)")
         style: 선호 스타일 리스트 (예: ["인생샷/사진", "역사/문화"])
         budget: 예산 선호 (예: "가성비(저렴)", "적당함", "럭셔리/프리미엄")
+        region: 여행 지역 (예: "방콕", "파타야", "치앙마이")
     
     Returns:
         dict: {"recommendations": [{"tour_name": ..., "reason": ..., "tip": ...}, ...]}
         None: on failure
     """
     import google.generativeai as genai
+    import data_tours
+    import importlib
+    importlib.reload(data_tours)
     from data_tours import TOURS
     
     # Get API key
@@ -4238,25 +4242,32 @@ def recommend_tours(who, style, budget):
             generation_config={"response_mime_type": "application/json"}
         )
         
+        # Filter tours by region
+        filtered_tours = [t for t in TOURS if t.get('region', '방콕') == region]
+        
+        if not filtered_tours:
+            return {"recommendations": []} # No tours for this region
+
         # Build product catalog for prompt
         products_info = "\n".join([
             f"- ID {t['id']}. {t['name']} (가격: {t['price']}): "
             f"태그={t['type']}, 특징: {t['desc']}, 장점: {t['pros']}"
-            for t in TOURS
+            for t in filtered_tours
         ])
         
         style_str = ", ".join(style) if style else "특별한 선호 없음"
         
         prompt = f"""
-당신은 태국 방콕 여행 전문 'AI 투어 코디네이터'입니다.
+당신은 태국 {region} 여행 전문 'AI 투어 코디네이터'입니다.
 사용자의 여행 스타일을 분석하여, 아래 [상품 목록] 중 **가장 완벽한 상품 2개**를 추천해주세요.
 
 [사용자 정보]
+- 여행 지역: {region}
 - 동행인: {who}
 - 선호 스타일: {style_str}
 - 예산/기타: {budget}
 
-[상품 목록]
+[상품 목록 ({region} 전용)]
 {products_info}
 
 [출력 형식 - JSON]
