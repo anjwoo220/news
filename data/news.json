@@ -4037,14 +4037,9 @@
       "summary": "- 태국 정부가 관광 활성화를 위해 비자 정책을 개혁합니다.\n- 장기 체류 비자 및 도착 비자 요건 완화가 예상됩니다.\n- 자세한 내용은 발표되는 대로 업데이트될 예정입니다.",
       "full_translated": "태국이 국가 관광 및 글로벌 여행을 활성화하기 위해 전략적 비자 개혁을 시작합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 현재 3시 30분으로, 여행객들이 아침에 정보를 확인할 가능성이 높아 중요도가 높다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Initiates Strategic Visa Reforms to Energize National Tourism and Global Travel - Travel And Tour World",
@@ -4053,8 +4048,35 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:30",
+      "collected_at": "3:30",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-12",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlBDeC05MWdlTTViRUlLZ0k1ZS1MT1MwWkJfdWhQMWxmOWh6NENTc3phdjZGUElpWWxxSlBYSHk2ZUxYb1JJRjQ5MkVWZHVrX1FZV0RuMEROcjlCY3NxSmR6OUFpaW5XOXJHYzZKSnlWdm1zNzBYR3dEUW93Mm5VemZQUlJJU3JROTZBV3RPUXBCek1Zamt4eTBRRUlCcDhXQ3BOWC1FSEdlVTRzNmdhcktZS0xuc09vWVZVVE0xdEE4TldYa2pQX0pYZ1EwSzJMOUQw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "촌부리에서 제25회 자연 농업 박람회 개막: 왕실 주도의 지속 가능한 농업 및 전국 제품 홍보",
+      "summary": "- 촌부리에서 2026년 2월 9일부터 15일까지 자연 농업 박람회가 열립니다.\n- 이 박람회는 고(故) 푸미폰 아둔야뎃 국왕의 업적을 기리고 지속 가능한 농업 기술을 장려합니다.\n- 전국 각지의 농산물 및 OTOP 제품을 직접 구매하고 다양한 활동에 참여할 수 있습니다.",
+      "full_translated": "촌부리에서 제25회 자연 농업 박람회가 개막했습니다. 이번 행사는 \"잘 심고, 좋은 일을 하십시오 – 어머니의 땅에 바치다\"라는 주제로 진행됩니다. 켓사팁 수파와니시 학습진흥부 국장이 개막식에 참석했으며, 촌부리 부지사는 참석자들에게 환영사를 전했습니다. 2026년 2월 9일부터 15일까지 열리는 이 박람회는 태국 국민을 향한 고(故) 푸미폰 아둔야뎃 국왕의 왕실 이니셔티브와 왕실의 의무를 전파하는 것을 목표로 합니다. 또한, 자연 농업 방식 및 관련 기술에 대한 지식을 공유하고, 자연 농업 생산자와 소비자를 직접 연결하는 직거래 장터 역할을 합니다. \n\n다음과 같은 다양한 활동이 행사 기간 동안 진행됩니다:\n\n- 고(故) 국왕을 기리는 전시회\n- 그림 그리기 및 색칠 대회\n- 자연 재배 채소 경연 대회\n- 채소밭 심기 대회\n- 학술 세미나\n- 학생 및 대학 활동\n- 소득 창출 직업 라이브 시연\n- 신선하고 깨끗하며 안전하고 저렴한 농산물과 태국 전역의 OTOP 제품을 쇼핑, 시식 및 휴식을 취할 수 있는 기회\n\n이 행사는 왕실 개발 프로젝트에서 영감을 받은 지속 가능하고 화학 물질이 없는 농업 방식에 중점을 두고 안전한 농업 관행과 태국 농민에 대한 직접적인 지원을 장려합니다. 자세한 내용이나 문의 사항은 학습진흥부 담당자에게 문의하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 농업 및 문화에 대한 이해를 높일 수 있는 행사 정보 제공. 여행 시기에 해당된다면 방문할 가치가 있음.",
+      "event_info": {
+        "date": "2026-02-09",
+        "location": "촌부리",
+        "price": "무료 (추정)",
+        "location_google_map_query": "촌부리 자연 농업 박람회"
+      },
+      "references": [
+        {
+          "title": "25th Natural Agriculture Fair Opens in Chonburi: Promoting Royal-Inspired Sustainable Farming and Nationwide Products",
+          "url": "https://thepattayanews.com/2026/02/10/25th-natural-agriculture-fair-opens-in-chonburi-promoting-royal-inspired-sustainable-farming-and-nationwide-products/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707327305761869229639554492861.jpg?v=1770732792"
+        }
+      ],
+      "collected_at": "04:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707327305761869229639554492861.jpg?v=1770732792",
       "date": "2026-02-12"
     }
   ]
