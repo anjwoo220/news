@@ -3708,14 +3708,9 @@
       "summary": "- 파나마 선적 화물선 Sealloyd Arc호, 푸껫 인근 해역에서 침몰, 200개 이상 컨테이너 유실.\n- 유실된 컨테이너 중에는 과산화수소, 아세트산, 배터리 등 유해 물질 포함. 피부와 호흡기 손상 유발 가능성.\n- 해안가 또는 해상에서 컨테이너 발견 시 접근 금지, 사진 촬영 후 관련 당국(1650, 1196)에 신고 요망.",
       "full_translated": "푸껫에서 화물선 침몰 후 유해 물질을 실은 컨테이너가 떠다니고 있어 대중에게 경고가 내려졌습니다.\n\n온라인 기자 작성: 2026년 2월 11일 14:43\n\n파나마 국적의 Sealloyd Arc 화물선이 200개 이상의 컨테이너를 싣고 푸껫 근처에서 침몰한 후, 특히 푸껫 해변이나 바다에서 떠다니는 컨테이너에 접근하지 말라는 경고가 나왔습니다. 컨테이너 중에는 유해 물질을 포함한 것도 있습니다. 오염 통제 부서는 수요일에 경고를 발표했습니다.\n\n2월 7일에 발생한 침몰 사고는 코 깨오 노이 남쪽, 위도 7° 43.88\" 북쪽, 경도 98° 16.62\" 동쪽, 수심 61미터 지점에서 발생했습니다. 4,339톤의 Sealloyd Arc호는 297개의 컨테이너를 싣고 있었으며, 모두 배와 함께 침몰했습니다. 해양 관계자는 14개의 컨테이너에 유해 물질이 들어 있다고 밝혔습니다.\n\n오염 통제 부서에 따르면, 여기에는 과산화수소, 빙초산, 습식 배터리, 에틸 아세테이트, 정제 석유, 가연성 수지 용액, 가연성 고체 및 소화기가 포함됩니다. 대부분은 가연성이며 일부는 인체 피부와 호흡기에 해로울 수 있습니다. 컨테이너를 발견한 사람은 컨테이너를 열거나 내용물을 만지지 말고 50미터 이상 떨어져 있어야 합니다. 담배를 피우거나 스파크를 일으킬 수 있는 행동이나 화기를 사용하지 마십시오.\n\n컨테이너를 발견한 사람은 위험 경고 라벨과 발견 위치를 포함하여 사진을 찍어 핫라인 1650(오염 통제 부서), 1196(해양 부서)을 통해 관련 당국에 신고해 주시기 바랍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "푸껫 해역에서 발생한 화물선 침몰 사고로 유해 물질이 유출될 위험이 있어 여행객 안전에 직접적인 위협이 될 수 있음. 컨테이너 발견 시 대처 요령 안내 필요.",
-      "event_info": {
-        "date": "2026-02-07",
-        "location": "푸껫 남쪽 코 깨오 노이 인근 해역",
-        "price": null,
-        "location_google_map_query": "Koh Kaeo Noi, Phuket"
-      },
+      "event_info": "{'date': '2026-02-07', 'location': '푸껫 남쪽 코 깨오 노이 인근 해역', 'price': None, 'location_google_map_query': 'Koh Kaeo Noi, Phuket'}",
       "references": [
         {
           "title": "Public warned of stray hazardous containers after cargo ship sinking in Phuket",
@@ -3724,23 +3719,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195048_260211142331_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195048_260211142331_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195048/public-warned-of-stray-hazardous-containers-after-cargo-ship-sinking-in-phuket",
+      "source": ""
     },
     {
       "title": "마다가스카르 항구 강타한 강력 사이클론으로 20명 사망",
       "summary": "- 마다가스카르 주요 항구를 강타한 강력한 사이클론으로 주택 다수 파괴 및 손상 발생.\n- 최소 20명 사망, 재난 관리 당국은 부상자 및 이재민 대피 진행 중.\n- '게자니' 사이클론은 올해 마다가스카르를 강타한 두 번째 사이클론이며, 최대 풍속 250km/h 기록.",
       "full_translated": "마다가스카르의 주요 항구를 강타한 강력한 사이클론으로 인해 많은 주택이 파괴되거나 손상되었습니다. 가장 최근에는 20명의 사망자가 발생했습니다. 외신에 따르면 '게자니(Gezani)' 사이클론은 지난 화요일 마다가스카르에 상륙하여 섬의 주요 항구인 투아마시나(Toamasina)를 강타했으며, 최근 이 폭풍의 영향으로 최소 20명이 사망한 것으로 보고되었습니다. 마다가스카르 재난 관리국은 사이클론 게자니가 시간당 최대 250km의 풍속으로 투아마시나를 강타했다고 보고했습니다. 많은 사상자가 건물 붕괴로 인해 발생했습니다. 관계자들은 또한 이 폭풍으로 인해 극심한 혼란이 발생했으며 전신주가 쓰러져 주거 지역이 암흑에 휩싸였고 나무가 뿌리째 뽑히고 지붕이 날아갔다고 말했습니다. 마다가스카르 재난 관리국은 투아마시나 주변 지역에서 많은 부상자와 수백 명의 주민을 대피시켰습니다. 게자니는 올해 마다가스카르를 강타한 두 번째 사이클론입니다. 유엔 인도주의 업무 조정국에 따르면 열대성 사이클론 '피티아(Fytia)'로 인해 14명이 사망하고 31,000명 이상이 이주한 지 10일 만에 발생했습니다. AFP 통신은 프랑스 레위니옹 섬의 사이클론 예측 센터인 CMRS의 데이터를 인용하여 사이클론 게자니가 위성이 생긴 이후 마다가스카르에 상륙한 가장 강력한 사이클론 중 하나일 수 있다고 보도했습니다. 마다가스카르 기상청은 수요일 아침 게자니가 이미 온대성 폭풍으로 약화되었으며 본토로 서쪽으로 이동하고 있으며 수도 안타나나리보에서 멀리 떨어져 있다고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국에서 멀리 떨어진 지역의 재해이지만, 해외여행 시 자연재해에 대한 경각심을 일깨우고 유사시 대처 요령을 생각해볼 수 있도록 정보 제공. 여행자 안전에 대한 잠재적 영향이 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "Toamasina, Madagascar",
-        "price": null,
-        "location_google_map_query": "Toamasina, Madagascar"
-      },
+      "event_info": "{'date': None, 'location': 'Toamasina, Madagascar', 'price': None, 'location_google_map_query': 'Toamasina, Madagascar'}",
       "references": [
         {
           "title": "ไซโคลนรุนแรงถล่มท่าเรือมาดากัสการ์ ดับแล้ว 20 ศพ",
@@ -3749,23 +3741,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h81ro4XfniLM.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h81ro4XfniLM.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/foreign/2913700",
+      "source": ""
     },
     {
       "title": "방콕 호텔에서 불법 입국한 중국인 17명 체포",
       "summary": "- 캄보디아에서 도주한 것으로 보이는 중국인 17명이 방콕 호텔에서 체포됨.\n- 이들은 사깨오 지방의 자연 국경을 통해 태국에 몰래 입국한 것으로 밝혀짐.\n- 경찰은 이들이 사기 네트워크의 일부일 것으로 추정하고 조사 중.",
       "full_translated": "캄보디아의 스캠 센터 단속을 피해 태국으로 불법 입국한 중국인 17명이 방콕의 한 호텔에서 체포되었습니다. 이들은 인접 국가에서 도주한 것으로 추정됩니다. 경찰청 부청장인 초엥론 림파디 소장은 화요일 방콕 호텔에서 중국 국적자 17명을 체포했다고 수요일 밝혔습니다. 이들은 캄보디아에서 불법 도박장 단속을 피해 국경을 넘어 태국으로 들어온 것으로 알려졌습니다. 이번 체포는 국경을 따라 사기 용의자를 차단하기 위한 태국-중국 간 강화된 단속 작전의 결과입니다. 캄보디아 정부 고위 관리는 최근 몇 주 동안 자국 내에서 거의 200개의 스캠 센터를 폐쇄했다고 로이터 통신이 수요일 보도했습니다. 주요 인물인 31세의 Kui Ming Zhao를 포함한 중국인 용의자들은 화요일 밤 라트 크라방 지역의 한 호텔에서 급습하는 동안 체포되었습니다. 그들은 카지노 도시인 포이펫과 인접한 사깨오 지방의 자연 국경 통로를 통해 태국에 잠입한 것으로 밝혀졌습니다. 용의자들은 왜 태국에 입국했는지에 대한 설명을 거부했지만 경찰은 그들이 단속을 피해 도망친 사기 네트워크의 일부라고 믿고 있습니다. 경찰은 그들이 수도에 들어오는 것을 도운 사람들을 식별하기 위해 수사를 계속하고 있습니다. 지난달 말, 특별 해병 태스크 포스는 국경을 넘어 찬타부리로 불법적으로 건너온 중국인 7명을 체포했으며 수십 대의 휴대폰과 캄보디아 SIM 카드가 압수되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "범죄 관련 소식이지만, 여행객이 직접적인 위협을 느낄 가능성은 낮다고 판단. 다만, 유사 범죄에 대한 경각심을 줄 수 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 라트 크라방 지역 호텔",
-        "price": null,
-        "location_google_map_query": "Lat Krabang hotel Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '방콕 라트 크라방 지역 호텔', 'price': None, 'location_google_map_query': 'Lat Krabang hotel Bangkok'}",
       "references": [
         {
           "title": "17 Chinese sneaking into Thailand arrested at Bangkok hotel",
@@ -3774,23 +3763,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195138_260211162236_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195138_260211162236_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195138/17-chinese-sneaking-into-thailand-arrested-at-bangkok-hotel",
+      "source": ""
     },
     {
       "title": "태국 군인, 지뢰 사고로 부상",
       "summary": "- 시사껫 주에서 보안 작전 중 지뢰 폭발 사고 발생.\n- 육군에 따르면, 파리왓 미마나 일병이 왼쪽 다리를 잃음.\n- 2025년 5월 이후, 분쟁 지역 순찰 중 지뢰 폭발로 12번째 부상자 발생.",
       "full_translated": "왕립 태국군은 수요일 저녁 시사껫 주 칸타랄락 지역에서 보안 작전을 수행하던 중 지뢰를 밟아 태국 군인이 부상했다고 밝혔습니다. 제2 육군 지역은 사고가 오후 4시 40분에 발생했다고 밝혔습니다. 부상당한 군인은 제132 보병 중대의 파리왓 미마나 일병으로 확인되었으며, 왼쪽 다리를 잃은 것으로 알려졌습니다. 그는 병원으로 이송되었습니다. 다른 두 군인도 경미한 부상을 입었습니다. 그들은 프라모테 디팍 1등 상사와 자크라퐁 포무앙 일병으로 확인되었습니다. 현지 부대는 안전 프로토콜에 따라 폭발 지역을 확보하고 폭발 장치의 종류를 식별하기 위해 노력하고 있다고 군은 밝혔습니다. 파리왓 일병은 2025년 5월 이후 분쟁 지역을 순찰하다가 지뢰 폭발로 팔다리를 잃은 12번째 태국 군인입니다. 이 사고로 최소 21명의 군인이 부상을 입었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 지역과 다소 거리가 있지만, 국경 분쟁 지역의 위험성을 알리고 안전에 대한 인식을 높이기 위해 포함. 여행객들에게 직접적인 위협은 아니지만 주의가 필요.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "시사껫 주 칸타랄락 지역",
-        "price": null,
-        "location_google_map_query": "Kantharalak district, Si Sa Ket"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': '시사껫 주 칸타랄락 지역', 'price': None, 'location_google_map_query': 'Kantharalak district, Si Sa Ket'}",
       "references": [
         {
           "title": "Another Thai soldier maimed by landmine",
@@ -3799,23 +3785,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195188_260211220509_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195188_260211220509_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195188/another-thai-soldier-maimed-by-landmine",
+      "source": ""
     },
     {
       "title": "아누틴 총리, 태국-중국 새해 행사에서 양국 관계 강조",
       "summary": "- 아누틴 총리는 중국 대사와 함께 춘절을 기념하며 태국-중국 간의 오랜 우정을 강조했습니다.\n- 그는 전통 공연을 관람하고, 무인 전기 드론을 시승하는 등 다양한 행사에 참여했습니다.\n- 또한 중국 예술가로부터 그림을 선물받고, 중국어로 감사를 표하며 양국 관계의 중요성을 강조했습니다.",
       "full_translated": "아누틴 차른비라쿨 총리는 수요일 방콕 주재 중국 대사 장지안웨이와 함께 음력 설을 축하하며 태국과 중국 간의 오랜 우정을 강조했습니다. 말의 해는 공식적으로 2월 17일에 시작됩니다. 아누틴 총리는 그의 부인인 타나논 니라밋과 동행하여 대사로부터 금빛 용으로 장식된 푸른 꽃병을 받았고 답례로 붉은 꽃다발을 선물했습니다. 그들은 나중에 사진 촬영을 하고 전통적인 잉거와 사자 춤 공연을 관람했습니다. 중국 관습에 따라 총리는 사자의 눈에 점을 찍는 의식을 수행하여 사자를 상징적으로 깨우고 활력과 행운을 부여했습니다. 방문 동안 그는 또한 자율 전기 승객 드론인 EHang EH216-S를 테스트했습니다. 아누틴 총리는 중국 민속 문화 전시회를 둘러보고 고리 던지기, 차 만들기, 수채화 그리기, 축구 차기 등의 활동에 참여했습니다. 쓰촨성 출신의 두 예술가는 그에게 약 한 달이 걸린 말 그림을 선물했습니다. 그는 그들에게 작품에 자신의 이름을 중국어로 새겨달라고 요청했습니다. 이후 총리는 중국어로 연설하며 국왕과 여왕의 지난해 국빈 방문 기간 동안 중국의 따뜻한 환대에 감사를 표했습니다. \"태국과 중국은 형제처럼 가깝다\"고 강조하면서 그는 중국에 새해 인사를 전했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국-중국 관계는 태국 관광 산업에 영향을 미칠 수 있으며, 특히 중국인 관광객 유치에 중요한 요소입니다. 행사 자체는 큰 영향이 없지만, 양국 관계를 보여주는 소식으로 포함합니다.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "중국 대사관, 방콕",
-        "price": "무료",
-        "location_google_map_query": "Chinese Embassy Bangkok"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': '중국 대사관, 방콕', 'price': '무료', 'location_google_map_query': 'Chinese Embassy Bangkok'}",
       "references": [
         {
           "title": "Anutin hails Thai-China ties at New Year event",
@@ -3824,8 +3807,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195200_260211201415_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260211/c1_3195200_260211201415_700.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195200/anutin-hails-thaichina-ties-at-new-year-event",
+      "source": ""
+    },
+    {
+      "title": "핫야이에서 10대 총격범, 학교장에게 총격 가하고 학생 300명 인질로 잡아",
+      "summary": "- 2026년 2월 11일 핫야이 지역 학교에서 18세 총격범이 학교장을 쏘고 300명 이상의 학생들을 인질로 잡았습니다.\n- 경찰은 총격범을 체포했으며, 부상당한 교장은 병원으로 이송되었습니다.\n- 용의자는 경찰로부터 M4 소총을 빼앗아 학교로 도주했으며, 과거에도 어머니를 폭행하려 했던 전력이 있습니다.",
+      "full_translated": "핫 야이 — 18세의 총격범이 2026년 2월 11일 핫 야이 지역의 한 학교에서 학교장을 총으로 쏴 부상을 입히고 300명 이상의 학생들을 인질로 잡았다고 당국이 밝혔습니다. 사건은 팟통군 팟통 프라탄키리왓 학교에서 16시 30분경에 발생했습니다. 여러 사람이 부상을 입었지만 정확한 숫자는 즉시 확인되지 않았습니다. 경찰은 용의자를 핫 야이 거주자인 케마난 케차로엔(18세)으로 확인했습니다. 수사관들은 학교 공격 이전에 퉁룽 경찰서의 경찰관들이 학교 근처의 한 집에서 18세 남성이 어머니를 폭행하려 한다는 신고에 대응했다고 말했습니다. 경찰관들이 상황을 진정시키려 하는 동안 용의자는 경찰로부터 M4 소총을 빼앗아 학교 구내로 도주한 것으로 알려졌습니다. 그는 보안 부스에 접근하여 경비원을 쏘려고 시도했지만 무기가 고장나 경비원이 도망칠 수 있었습니다. 그런 다음 용의자는 학생들에게 학교장에게 데려가도록 강요하고 두 발의 총을 쏘아 학교장을 다치게 했습니다. 경찰은 나중에 부상당한 학교장을 병원으로 이송했습니다. 학교장의 상태는 공개되지 않았습니다. 당국은 300명 이상의 학생들이 한때 교실 건물 내에 억류되었다고 밝혔습니다. 다른 학생들은 구내를 떠날 수 없었습니다. 핫 야이 경찰, 특수 작전 경찰관 및 구조대원들이 해당 지역을 봉쇄하고 안전 지대에 있는 사람들을 대피시키는 동안 협상가들이 배치되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총격 및 인질극은 여행객 안전에 심각한 위협이 되므로 즉시 알려야 함. 위치 정보가 중요.",
+      "event_info": {
+        "date": "2026-02-11",
+        "location": "Phatong Prathankhiriwat School, Hat Yai",
+        "price": null,
+        "location_google_map_query": "Phatong Prathankhiriwat School Hat Yai"
+      },
+      "references": [
+        {
+          "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
+          "url": "https://www.khaosodenglish.com/featured/2026/02/11/teen-gunman-shoots-school-director-takes-300-students-hostage-in-hat-yai/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Songkhla.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Songkhla.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "나콘랏차시마: GPS로 추적된 차량 절도범, 차주가 직접 충돌",
+      "summary": "- 차주, GPS 추적으로 도난 차량 발견 후 절도범과 대치.\n- 용의자는 도주, 차주는 차량 회수, 오토바이도 발견.\n- 경찰, 용의자 신원 확인 후 체포 작전 개시.",
+      "full_translated": "나콘랏차시마 – 61세 남성이 GPS를 통해 도난당한 픽업트럭을 추적한 후 용의 차량에 자신의 차량을 충돌시켰으나, 용의자는 도주했습니다. 사건은 2월 11일 Soeng Sang 지역 Kut Bot 하위 지역 Ban Tha Yiam 마을에서 발생했습니다. Kuekrit Suetrong은 오전 5시경 집 앞에서 자신의 포드 픽업트럭이 없어진 것을 발견했다고 말했습니다. 처음에는 아들이 차를 몰고 출근한 줄 알았으나, 가족들이 모두 집에 있는 것을 확인한 후 도난당한 것을 알게 되었습니다. 차량의 GPS 추적기를 사용하여 약 7km 떨어진 곳에서 픽업트럭이 움직이는 것을 발견했습니다. 그와 그의 아들은 차를 추적하여 주요 도로변에 주차된 것을 발견했고, 한 남성이 번호판을 교체하고 있었다고 합니다. Kuekrit은 용의자를 막기 위해 차량을 충돌시키려 했으나, 용의자가 무기를 소지하고 있는지, 주변이 외딴 지역인지 확인되지 않아 직접 대면하기를 주저했다고 말했습니다. 용의자는 다치지 않고 도망쳤습니다. 그는 용의자를 과거 자신의 리조트에 여러 번 머물렀던 손님으로, 친근한 지인으로 소개했었다고 밝혔습니다. Kuekrit은 픽업트럭을 회수할 수 있었습니다. 도난에 사용된 것으로 추정되는 오토바이도 현장에서 발견되었습니다. 그는 Soeng Sang 경찰에 신고했습니다. 경찰은 용의자를 확인했으며 체포하기 위해 노력하고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "차량 절도 사건 발생. 여행객 대상 범죄 가능성 및 주의 필요.",
+      "event_info": {
+        "date": "2026-02-11",
+        "location": "Ban Tha Yiam village, Kut Bot subdistrict, Soeng Sang district, Nakhon Ratchasima",
+        "price": null,
+        "location_google_map_query": "Ban Tha Yiam village, Kut Bot subdistrict, Soeng Sang district, Nakhon Ratchasima"
+      },
+      "references": [
+        {
+          "title": "Owner tracks stolen car by GPS, crashes into alleged thief in roadside confrontation",
+          "url": "https://www.khaosodenglish.com/news/2026/02/11/owner-tracks-stolen-car-by-gps-crashes-into-alleged-thief-in-roadside-confrontation/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news110463_BQj2YbQdJr1770797570.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news110463_BQj2YbQdJr1770797570.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "메트로폴리탄 미술관의 반환, 태국 문화재에 미치는 영향",
+      "summary": "- 메트로폴리탄 미술관이 태국에 '황금 소년' 등 문화재 반환.\n- 약탈 문화재 반환에 대한 국제적 논의에 중요한 이정표.\n- 메트로폴리탄 미술관의 문화재 반환 노력과 윤리적 책임 강조.",
+      "full_translated": "메트로폴리탄 미술관의 반환: 글로벌 미술관 관행을 재편하는 방법\n\n태국에서 황금 소년으로 알려진 서 있는 시바가 2024년에 뉴욕을 떠났을 때, 그것은 소중한 청동을 본국으로 돌려보내는 것 이상이었습니다. 그것은 메트로폴리탄 미술관에서 앙코르 사원에 이르기까지 문화 유산에 대한 더 넓은 재고의 이정표였습니다. 그해 미술관은 16개의 고대 크메르 조각품(캄보디아 왕국에 14개, 태국 왕국에 2개)을 본국으로 송환하기 시작하여 해당 시기와 조사 중인 특정 미술품 거래상과 관련된 모든 작품을 소장품에서 효과적으로 제거했습니다. 카오솟 영어와의 인터뷰에서 메트로폴리탄 미술관의 관장 겸 CEO인 막스 홀라인은 이러한 움직임이 사후 고려가 아닌 지침 원칙으로서 연구와 출신 국가에 대한 미술관의 윤리적 책임의 반영이라고 말했습니다. 그의 발언은 세계에서 가장 영향력 있는 문화 기관 중 하나가 고대 유물 수집의 길고 종종 힘든 역사를 어떻게 탐색하고 있는지 보여줍니다. 홀라인에게 캄보디아와 태국으로의 반환은 예외적인 제스처가 아니라 지속적인 내부 노력의 결과였습니다. 그는 메트로폴리탄 미술관의 문화재 이니셔티브가 소장품에 있는 물건의 역사를 점점 더 면밀히 검토하는 것을 목표로 하는 미술관 작업의 핵심이라고 설명했습니다. 최근 몇 년 동안 메트로폴리탄 미술관은 전담 출처 조사 직원을 늘리고 부서 전체에서 연구를 공식화했습니다. 이러한 노력은 기관 내에서 더 광범위한 변화를 반영합니다. 출처 연구는 더 이상 방치된 것으로 취급되지 않습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 문화재 반환 관련 소식은 태국 문화에 대한 이해를 높이고, 관련 유적지에 대한 관심을 유발할 수 있으므로 여행 관련 정보로 간주할 수 있음. 하지만 직접적인 여행 영향은 크지 않으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Golden Boy and beyond: How The Met’s restitutions are reshaping global museum practice",
+          "url": "https://www.khaosodenglish.com/life/2026/02/11/golden-boy-and-beyond-how-the-mets-restitutions-are-reshaping-global-museum-practice/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/max-landscape.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/max-landscape.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국, 130억 바트 규모의 사기 네트워크 자산 동결",
+      "summary": "- 태국 돈세탁방지사무국(AMLO)은 벤 스미스, 짐 리악, 천즈, 궈안으로 구성된 사기 네트워크의 자산 130억 바트 이상을 동결하기로 결정함.\n- 이 결정은 국민을 대상으로 한 사기 사건과 관련됨.\n- AMLO는 관련 서류를 검찰에 제출하여 법원에 자산 몰수를 요청할 예정임.",
+      "full_translated": "태국 돈세탁방지사무국(AMLO)은 벤 스미스, 짐 리악, 천즈, 궈안으로 구성된 네트워크의 자산 130억 7,400만 바트를 몰수하기 위해 법원에 제출하기로 결의했습니다. 이 사건은 국민 사기와 관련이 있습니다. 2069년 2월 12일, AMLO는 2069년 2월 11일에 열린 제2/2069차 거래 위원회 회의 결과를 발표했습니다. 거래 위원회는 중요한 사건에 대해 검찰에 서류를 제출하기로 결의했습니다. 법원에 자산 몰수를 요청하는 이유는 이해 관계자의 자산 압류 및 압류 취소 요청을 고려한 결과, 압류 및 압류된 자산이 범죄와 관련이 없다는 것을 입증할 만큼 충분한 무게가 없었기 때문입니다. 중요한 4건의 사건은 총 약 130억 7,400만 바트입니다.\n\n1. 땡타이 여사 사건: MR.LEAK YIM, 위린야 여사, MR.SMITH BEN, 캐트리아 여사 등은 피해자를 속였습니다. 정보에 따르면 Jim Leak 씨와 연결되어 있으며, 벤 스미스 씨와 연결되는 거래 정보가 발견되었습니다. 결과: 자산 몰수를 위해 검찰에 서류를 제출했습니다. 토지, 콘도, 자동차, 요트, 은행 계좌 예금 등 총 121억 2,300만 바트 상당의 68건(Y.300 – 302/2568 및 Y.305/2568).\n\n2. 천즈 씨 외: AMLO는 온라인 사기, 인신매매, 디지털 통화를 통한 돈세탁 네트워크 정보를 발견했습니다. 캄보디아에 기반을 둔 다국적 기업인 Prince Group의 설립자이자 회장인 천즈 씨와 연결되어 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "사기 사건 관련 소식으로, 여행객에게 직접적인 영향은 적지만 주의를 환기할 필요가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปปง. มีมติส่งศาลยึดทรัพย์ 1.3 หมื่นล้าน เครือข่าย “เบน สมิธ-ยิม เลียก-เฉิน จื้อ-ก๊ก อาน”",
+          "url": "https://www.thairath.co.th/news/politic/2913701",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8uVruyXIAoF.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8uVruyXIAoF.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "아유타야 지역구 선거 재검표 요구",
+      "summary": "- 트위웡, 선거 부정 증거 제시하며 선거관리위원회에 재검표 요청.\n- 아유타야 1구역 국회의원 후보, 투표 결과 존중하나 투명성 요구.\n- 선거 과정의 투명성 확보 및 유권자 권리 보호 강조.",
+      "full_translated": "트위웡 토트위웡이 득표 집계의 비정상에 대한 증거를 가지고 선거관리위원회(껚따)에 아유타야 1구역 국회의원 선거의 득표수를 다시 집계해 줄 것을 요청했습니다. 그는 선거 결과를 존중하지만 투명성을 요구했습니다. 2569년 2월 11일, 아유타야 1구역 국회의원 후보인 트위웡 토트위웡은 자신이 증거를 수집한 후 선거관리위원회 또는 끄따 주 프라나콘 시 아유타야에 아유타야 1구역 국회의원 선거에서 새로운 득표 집계 및 통합을 명령해 줄 것을 요청했다고 밝혔습니다. 또한, 투표소의 득표 집계 및 통합 과정의 비정상과 득표 집계를 투명하게 만드는 과정에서의 비정상에 대한 증거도 함께 제시했습니다. “저는 선거 결과를 존중합니다. 단지 이번 선거에서 최대한의 투명성과 공정성을 확보하고, 권리를 설명받아야 할 모든 국민의 권리를 보호하고자 할 뿐입니다.” ...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식은 정치적 불안정으로 이어질 수 있으나, 직접적인 여행객 안전에 대한 위협은 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "아유타야",
+        "price": null,
+        "location_google_map_query": "아유타야"
+      },
+      "references": [
+        {
+          "title": "“ทวิวงศ์” นำหลักฐาน ยื่น กกต. ขอให้นับคะแนน สส.อยุธยา เขต 1 ใหม่",
+          "url": "https://www.thairath.co.th/news/politic/2913678",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2nem3SlS95GbF.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2nem3SlS95GbF.jpg",
       "date": "2026-02-12"
     }
   ]
