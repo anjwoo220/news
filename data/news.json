@@ -4255,14 +4255,9 @@
       "summary": "- 태국 무슬림 하지 순례자, 수막구균 및 인플루엔자 예방 접종 의무화\n- 보건부, 7,037명의 순례자를 위한 종합 건강 프로그램 제공\n- 5월 25일부터 31일까지 하지 순례 진행, 의료팀 동행 및 귀국 후 모니터링 실시",
       "full_translated": "태국 무슬림은 올해 사우디아라비아에서 열리는 하지 순례를 위해 수막구균 질환과 인플루엔자에 대한 필수 예방 접종, 건강 검진, 무료 응급 처치 키트를 받게 될 것이라고 보건부가 밝혔습니다. 이번 예방 접종은 올해 하지 순례에 참여하는 7,037명의 태국 무슬림에게 제공되는 종합 건강 프로그램의 일부입니다.\n\n이 소식은 워라촛 수콘카촌 공중 보건부 차관이 방콕 농촉에 있는 국립 이슬람 업무 행정 센터에서 열린 행사에서 발표했습니다. 이 행사에는 태국 무슬림의 정신적 지도자인 쭐라랏몬트리 아룬 분촘, 사우디아라비아 대사관 고위 관계자, 고위 보건 관계자 및 순례자들이 참석했습니다.\n\n워라촛 씨는 하지가 중요한 종교적 의무이며, 연간 약 13,000명의 태국 무슬림에게 할당량이 주어지고 있다고 말했습니다. 보건부는 예방 관리, 순례 중 의료 지원, 여행 후 모니터링을 통해 순례자의 안전을 보장하고자 합니다. 이 프로그램은 예방 접종, 증명서 및 건강 서비스를 무료로 제공하며, 하루 안에 완료됩니다. 의료팀이 사우디아라비아에서 순례자들과 동행하며, 귀국하는 순례자들은 MERS 및 수막구균 수막염과 같은 잠재적인 전염병을 탐지하기 위해 14일 동안 모니터링됩니다.\n\n삭다 알파차 공중 보건부 차관은 하지 2026이 5월 25일부터 31일까지 열릴 것이라고 밝혔습니다. 등록된 모든 순례자는...",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 무슬림의 하지 순례 관련 건강 관리 정보를 제공하여 여행 시 참고할 수 있도록 함. 전염병 관련 정보를 포함.",
-      "event_info": {
-        "date": "2026-05-25",
-        "location": "사우디 아라비아 메카",
-        "price": "정보 없음",
-        "location_google_map_query": "메카"
-      },
+      "event_info": "{'date': '2026-05-25', 'location': '사우디 아라비아 메카', 'price': '정보 없음', 'location_google_map_query': '메카'}",
       "references": [
         {
           "title": "Thai Muslims to get mandatory jabs for Hajj",
@@ -4271,23 +4266,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/general/3195389/thai-muslims-to-get-mandatory-jabs-for-hajj",
+      "source": ""
     },
     {
       "title": "태국, 2026년 춘절 기간 지출 5% 증가 예상",
       "summary": "- 태국 상공회의소대학교 경제비즈니스예측센터에 따르면 2026년 춘절 기간 동안 약 542억 바트가 유통될 것으로 예상됨.\n- 이는 6년 만에 최고치이며 전년 대비 5% 성장한 수치임.\n- 응답자의 25%는 올해 축제가 더 활기찰 것으로 예상하며, 절반은 작년과 비슷한 분위기일 것으로 예상함.",
       "full_translated": "태국 상공회의소대학교(UTCC) 경제비즈니스예측센터에 따르면 2026년 춘절 기간 동안 약 542억 바트가 유통될 것으로 예상되며, 이는 6년 만에 최고치이며 전년 대비 5% 성장한 수치입니다. UTCC의 소비자 지출 조사에 따르면 응답자의 25%는 올해 축제가 더 활기찰 것으로 예상하며, 절반은 작년과 비슷한 분위기일 것으로 예상합니다. UTCC 총장인 타나왓 폰비차이는 소비자들이 선거 후 경제가 회복될 것이라고 믿고 있다고 말했습니다. 그 이유는 정부 경제팀을 누가 이끌지 예상할 수 있기 때문입니다. 응답자의 약 43%는 중국 신에게 경의를 표하고 조상에게 제물을 바칠 계획입니다. 응답자의 3분의 1은 주로 가격 상승으로 인해 이번 축제 기간 동안 더 많은 돈을 쓸 것이라고 답했으며, 35%는 제품 가격이 변하지 않을 것이라고 답했습니다. 약 70%는 육류 및 과일과 같은 제물 가격이 작년보다 더 높다고 생각합니다. 3분의 1은 필요한 품목만 구매할 계획이며, 5분의 1은 작년에 비해 지출을 줄일 것입니다. 더 많은 사람들이 여행을 계획하고 있으며, 응답자의 90% 이상이 국내 여행을 할 의향이 있습니다. 조사 결과 응답자의 절반 이상이 경제가 작년 같은 기간보다 더 나쁘거나 훨씬 더 나쁘다고 생각합니다. 그들은 경제 회복이 올해 3분기 또는 4분기에 시작될 것으로 예상합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "춘절 기간 동안의 경제 활동 증가는 관광객들에게 음식, 쇼핑 등 다양한 소비 활동에 영향을 줄 수 있으며, 물가 상승에 대한 정보는 여행 예산 계획에 도움이 될 수 있음. 다만, 직접적인 안전 문제는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-02-12",
-        "location": "태국 전역",
-        "price": "N/A",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-02-12', 'location': '태국 전역', 'price': 'N/A', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Chinese New Year spending up 5%",
@@ -4296,23 +4288,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963849_700.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963849_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/business/general/3195349/chinese-new-year-spending-up-5",
+      "source": ""
     },
     {
       "title": "캐나다, 학교 및 주택 총격 사건: 범인 여성, 8명 사망, 25명 부상",
       "summary": "- 캐나다에서 발생한 총격 사건으로 8명이 사망하고 25명이 부상했습니다.\n- 범인은 18세 여성으로, 과거 남성에서 여성으로 성전환을 했습니다.\n- 범인은 사건 현장에서 자해로 사망했으며, 범행 동기는 아직 밝혀지지 않았습니다.",
       "full_translated": "캐나다 경찰은 학교와 주택에서 발생한 두 건의 총격 사건에 대한 정보를 업데이트하여 희생자 수를 9명에서 8명으로 줄이고 용의자의 이름을 공개했습니다. 용의자는 여성 트랜스젠더입니다. 2569년 2월 11일, 캐나다 경찰 부사령관 드웨인 맥도날드는 기자 회견을 열어 화요일(2월 10일) 텀블러 리지 시의 학교를 포함한 두 건의 총격 사건에 대한 정보를 업데이트했습니다. 그는 총격범의 이름이 제시 반 루트셀라르이고 18세이며 자해로 사망했다고 밝혔습니다. 맥도날드는 루트셀라르가 약 6년 전에 여성으로 전환하기 시작하기 전에는 남성이었고 자신을 “여성”으로 정의했으며 사회적으로나 공적으로 여성으로 자신을 표현했다고 밝혔습니다. 루트셀라르는 4년 전 사건 현장 중 하나인 텀블러 리지 고등학교를 중퇴했습니다. 기자가 용의자가 “남성에서 여성으로의 전환으로 인해” 괴롭힘을 당했는지 묻자 맥도날드는 이에 대한 징후는 없다고 답했습니다. 맥도날드는 가장 최근의 사망자 수를 업데이트하여 텀블러 리지 고등학교에서 총격으로 사망한 희생자가 여성 교육 직원 1명, 남학생 2명, 여학생 3명 등 6명이라고 밝혔습니다. 거의 모두 학교 도서관에서 살해되었고 1명은 비상 계단 구역에서 사망했습니다. 한편 당국은 인근 주택에서 총격으로 사망한 2명이 용의자의 어머니와 이복 형제임을 확인했으며, 경찰은 학교에서 사건 신고를 받은 후 해당 주택으로 출동했습니다. 신고자는 용의자 및 사망한 피해자와 친척 관계인 젊은 여성이었습니다. ... 당국은 학교에서 총기 2정을 발견했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 관련 뉴스는 아니지만, 해외에서 발생한 총격 사건으로 여행객에게 안전에 대한 경각심을 줄 수 있습니다. 하지만 태국 여행에 직접적인 영향은 없으므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ตำรวจแคนาดา เผยชื่อมือปืนหญิงข้ามเพศ กราดยิง 2 จุด คร่า 8 ศพ เจ็บ 25 ราย",
@@ -4321,23 +4310,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h86LSxTLvXdz.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h86LSxTLvXdz.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/foreign/2913703",
+      "source": ""
     },
     {
       "title": "태국 중앙은행, 대규모 현금 거래 감시 강화 추진",
       "summary": "- 태국 중앙은행은 의심스러운 거래를 억제하기 위해 현금 거래에 대한 감시를 강화하고 있습니다.\n- 금융 기관에 대해 고객 실사 요건을 강화하고 자금 사용 목적에 대한 명확한 검증을 요구할 예정입니다.\n- 2월 10일부터 24일까지 공청회를 진행하며, 금융 시스템의 안정성을 강화하는 데 초점을 맞추고 있습니다.",
       "full_translated": "태국 중앙은행(BoT)은 의심스러운 거래를 억제하기 위한 노력의 일환으로 더 엄격한 실사 요건 도입과 자금 사용 목적에 대한 보다 명확한 검증을 통해 현금 거래에 대한 감독을 강화하고 있습니다. 규제 당국은 금융 기관이 현금 거래를 수행하기 전에 고객이 참석하거나 신원을 확인하도록 요구하는 제안에 대한 공청회를 진행하고 있습니다. 초안 규칙은 또한 불법 활동 조장을 방지하고 금융 시스템의 안정성을 강화하기 위해 비정상적인 거래에 대한 모니터링, 탐지 및 조사를 의무화합니다. 공청회는 2월 10일부터 24일까지 진행됩니다. 중앙은행에 따르면 현금 거래는 금융 흐름을 모니터링하고 추적하는 데 상당한 어려움을 야기하여 잠재적으로 범죄 활동을 지원하는 데 사용될 수 있는 채널을 만들 수 있습니다. 결과적으로 금융 기관 및 특수 금융 기관(SFI)은 위험 관리 프레임워크를 강화해야 합니다. 새로운 지침에 따라 상업 은행 및 SFI는 고객의 위험 프로필, 거래 특성 및 서비스 채널에 따라 추가 조치를 채택해야 합니다. 은행은 현금 거래와 관련된 위험을 적시에 감지하고 관리하기 위한 명확한 정책 및 절차를 수립해야 합니다. 이러한 조치는 거래 패턴, 거래 빈도, 가치 임계값을 포함해야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행자에게 직접적인 영향은 적으나, 태국 금융 시스템의 변화를 간접적으로 알 수 있는 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BoT seeks closer monitoring of large cash transactions",
@@ -4346,23 +4332,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195489_260212054948_700.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195489_260212054948_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/business/general/3195489/bot-seeks-closer-monitoring-of-large-cash-transactions",
+      "source": ""
     },
     {
       "title": "태국 보험 산업 활성화 위해 외국인 보험 가입 규제 완화 논의",
       "summary": "- 프랑스 AXA의 태국 법인, 외국 통화(특히 위안화)를 통한 보험 상품 구매 허용 제안\n- 낮은 금리와 경제 침체로 어려움을 겪는 태국 보험 산업에 활력을 불어넣을 수 있다고 분석\n- 중국을 비롯한 외국 투자자들이 투자 다변화를 위해 태국 보험 시장에 주목하고 있다고 언급",
       "full_translated": "프랑스 보험사 AXA의 태국 법인은 태국 보험 산업 활성화를 위해 외국인, 특히 중국인이 위안화와 같은 외국 통화로 보험 상품을 구매할 수 있도록 규제를 완화해야 한다고 주장했습니다. 크룽타이 AXA-Life의 CEO인 크낫타피싯 크룻크롱차이는 낮은 금리와 더딘 경제 성장으로 어려움을 겪는 국내 보험 산업에 이러한 조치가 도움이 될 것이라고 밝혔습니다.\n\n크낫타피싯 CEO는 많은 외국 투자자들이 위험을 분산하기 위해 노력하고 있으며, 특히 중국 투자자들이 태국을 잠재적인 투자처로 보고 있다고 말했습니다. 그는 “태국에서 보험 상품을 구매할 수 있도록 허용하면 외국 투자자들이 투자를 다각화하여 위험을 완화하는 데 도움이 될 수 있다”고 덧붙였습니다. 홍콩에서 17년간 거주한 크낫타피싯은 2025년 2월 3일부터 크룽타이 AXA-Life의 CEO를 맡고 있으며, 이 직책을 맡은 최초의 태국인입니다.\n\n그는 올해 보험 산업이 낮은 금리와 느린 경제 성장으로 어려움을 겪고 있다고 말했습니다. 그러나 태국은 싱가포르, 일본, 대만에 비해 보험 침투율이 낮습니다. 크낫타피싯 CEO는 “낮은 보험 침투율은 태국 보험 산업이 여전히 성장할 여지가 많다는 것을 의미한다”고 말했습니다. 그는 낮은 금리가 상품 가격 책정 측면에서 보험사를 어려운 상황에 처하게 한다고 말했습니다. 낮은 금리는 투자 수익을 감소시켜 보험사가 보험료를 인상하거나 혜택을 줄이도록 강요하는 경우가 많습니다. 반대로 금리 인상은 일반적으로 보험사 투자 수익을 증가시킵니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 보험 산업에 대한 내용으로, 여행자에게 직접적인 영향은 적지만, 태국 경제 상황에 대한 간접적인 정보 제공. 새로운 규제 변화 가능성도 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Call to let foreigners buy more insurance",
@@ -4371,8 +4354,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195334_260212054508_700.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195334_260212054508_700.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/business/general/3195334/call-to-let-foreigners-buy-more-insurance",
+      "source": ""
+    },
+    {
+      "title": "핫야이에서 발생한 학교 총격 사건: 10대 범인이 교장에게 총격, 학생 300명 인질로 잡아 (업데이트)",
+      "summary": "- 태국 핫야이에서 10대 총격범이 학교 교장에게 총격을 가함.\n- 현재 300명의 학생들을 인질로 잡고 대치 중.\n- 여행객 안전에 심각한 위협이 될 수 있으므로 상황 주시 필요.",
+      "full_translated": "캐나다 브리티시 컬럼비아에서 발생한 총기 난사 사건은 태국 여행과는 관련이 없으나, 핫야이에서 발생한 학교 총격 사건은 여행객 안전에 직접적인 영향을 미칠 수 있습니다. 10대 총격범이 학교 교장에게 총격을 가하고 300명의 학생을 인질로 잡고 있다는 소식은 매우 심각하며, 해당 지역 방문을 계획 중인 여행객은 반드시 상황을 주시하고 안전에 유의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "학교 총격 및 인질극은 여행객 안전에 직접적인 위협. 핫야이 지역 여행 자제 권고 필요.",
+      "event_info": {
+        "date": null,
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
+          "url": "https://www.khaosodenglish.com/news/2026/02/11/shootings-at-school-and-home-in-northeastern-british-columbia-leave-10-dead-including-shooter/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/644.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/644.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "2025년 태국 호텔 평균 객실 요금 3% 상승",
+      "summary": "- 2025년 태국 호텔의 평균 객실 요금이 3% 상승하여 4,984바트 기록.\n- 외국인 투숙객 예약이 전체의 77%를 차지하며, 아시아 태평양 지역에서 가장 긴 숙박 기간을 기록.\n- 12월 객실 요금이 가장 높았고, 1월에 가장 큰 성장률을 보임.",
+      "full_translated": "2026년 2월 12일 06:05 게시\n\n태국 호텔의 평균 객실 요금이 작년에 3% 상승하여 4,984바트를 기록했으며, Booking.com, Agoda 및 호텔 직접 예약이 가장 많은 수익을 창출했습니다. SiteMinder에 따르면, 2025년 태국으로의 인바운드 시장은 도착 건수에서 7.23%, 수익에서 4.7% 감소하여 각각 3,300만 명과 1조 5,300억 바트를 기록했습니다. 그러나 호텔 객실 요금은 3% 성장했습니다. 또한 이 부문은 아시아 태평양 지역에서 가장 긴 숙박 기간을 확보했으며, 2박 이상의 예약이 2024년 29%에서 35%로 증가했습니다. SiteMinder의 태국 담당 매니저는 외국인 투숙객 예약이 전국 호텔 예약의 77%를 차지하며 전년 대비 1.14% 증가하여 세계에서 가장 높은 비중을 차지했다고 밝혔습니다. 태국의 국제 시장 점유율은 스페인 59%, 프랑스 53%, 인도네시아 51%, 말레이시아 49%보다 높습니다. 12월은 태국 호텔의 객실 요금이 가장 높아 전년 대비 4% 상승한 6,169바트를 기록했으며, 1월은 평균 요금이 6,101바트로 2025년에 가장 높은 성장률인 21%를 기록했습니다. 9월은 여러 주요 시장의 위축으로 인해 전년 대비 4.26% 하락한 3,911바트를 기록했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "호텔 요금 정보는 여행객의 예산 계획에 영향을 미칠 수 있지만, 필수적인 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Report: Thai hotel rates increased 3% in 2025",
+          "url": "https://www.bangkokpost.com/business/general/3195399/report-thai-hotel-rates-increased-3-in-2025",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국, 디지털 자산 시장 강화: 파생 상품 거래 확대",
+      "summary": "- 태국이 디지털 자산과 탄소 배출권을 파생 상품 시장에 포함시켜 동남아 디지털 경제 선두 주자로 도약할 전망.\n- 바이낸스 태국 법인은 디지털 자산이 투기적 도구를 넘어 자본 시장의 기반을 재편할 잠재력을 가진 자산으로 인식되고 있다고 평가.\n- 재무부의 디지털 자산 활용 제안이 승인되어, 증권거래위원회(SEC)가 파생 상품법 개정을 통해 디지털 자산을 활용할 수 있게 됨.",
+      "full_translated": "태국이 파생 상품 시장을 디지털 자산 및 탄소 배출권으로 확장하는 것은 동남아시아 디지털 경제의 최전선에 국가를 두는 긍정적인 움직임이라고 세계 최대 암호화폐 거래소인 바이낸스의 태국 법인이 밝혔습니다.\n\n암호화폐 및 디지털 토큰을 포함한 디지털 자산을 파생 상품 거래법에 따른 참조 자산으로 공식적으로 인정하는 결정은 디지털 자산이 더 이상 단순한 투기적 도구가 아니라 자본 시장의 기반을 재편할 잠재력을 가진 신흥 자산 클래스라는 인식이 커지고 있음을 반영한다고 걸프 바이낸스의 바이낸스 TH의 최고 경영자인 니룬 푸와타나누쿨이 말했습니다.\n\n\"이번 움직임은 국가 자본 시장의 분수령이 될 것입니다. 태국이 동남아시아 디지털 경제의 미래 지향적인 리더로 자리매김하고 있다는 강력한 신호를 보냅니다.\"라고 그는 방콕 포스트에 말했습니다.\n\n화요일, 내각은 비트코인과 같은 디지털 자산을 파생 상품 및 자본 시장에서 기초 자산으로 사용할 수 있도록 하는 재무부의 제안을 승인했습니다. 이번 조치는 규제 감독과 투자자 보호를 강화하면서 태국의 파생 상품 시장을 국제 표준에 맞춰 현대화하는 것을 목표로 합니다.\n\n이번 결의안은 증권거래위원회(SEC)가 디지털 자산과 같은 새로운 자산 클래스를 참조로 사용할 수 있도록 파생 상품법을 개정하도록 촉구합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국이 디지털 자산 시장을 강화하는 것은 장기적으로 관광 산업에도 영향을 미칠 수 있지만, 단기적으로 여행객에게 직접적인 영향은 제한적이므로 중간 점수 부여. 새로운 정책 변화에 대한 정보 제공 가치.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand puts digital assets on a firmer footing",
+          "url": "https://www.bangkokpost.com/business/investment/3195574/thailand-puts-digital-assets-on-a-firmer-footing",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5964024_700.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5964024_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국 신정부 예산 집행에 대한 낙관론",
+      "summary": "- 세계은행은 태국 신정부 구성과 2027 회계연도 예산 집행이 계획대로 진행될 것으로 예상\n- 이로 인해 태국 경제는 올해 1.6% 성장할 것으로 전망\n- 하지만 제조업, 관광 부문의 경쟁력 약화 및 높은 가계 부채는 성장의 제약 요인으로 작용",
+      "full_translated": "세계은행은 태국 신정부 구성과 2027 회계연도 예산 집행이 계획대로 진행되어 올해 1.6%의 경제 성장을 달성할 것으로 예상합니다. 세계은행의 기본 시나리오에 따르면, 이전 정부와 달리 신정부 구성이나 예산 집행에 큰 지연이 없을 것으로 보입니다. 세계은행 태국 담당 선임 경제학자인 키앗퐁 아리야프루차는 \"선거 후 일부 정치적 변화가 있었지만 정치적 공백은 관찰되지 않았다\"고 말했습니다. 그는 또한 \"구조적 문제로 인해 태국 GDP 성장률이 기존 1.8%에서 1.6%로 둔화될 것으로 예상한다\"고 덧붙였습니다. 태국의 구조적 제약은 2025년 3분기부터 성장에 더 큰 영향을 미치고 있습니다. 주요 과제로는 제조업 및 관광 부문의 경쟁력 약화와 국내 소비를 억제하는 높은 가계 부채가 있습니다. 신정부가 경제 성장을 3%로 끌어올리려면 제조업, 관광, 가계 부채의 세 가지 영역에서 구조 개혁이 필요합니다. 세계은행은 태국의 잠재 성장률을 2.7%로 추정합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 전망에 대한 정보. 여행 자체에 직접적인 영향은 적으나, 현지 물가나 경제 상황에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Optimism over new government's budget",
+          "url": "https://www.bangkokpost.com/business/general/3195424/optimism-over-new-governments-budget",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963889_700.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963889_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "한국 배우 정은우, 향년 40세로 사망",
+      "summary": "- 한국 배우 정은우가 40세의 나이로 사망했다.\n- 사망 원인은 공개되지 않았으며, 장례는 뉴코려 병원에서 치러진다.\n- 정은우는 '반올림3', '두뇌', '나쁜 커플' 등 다양한 작품에 출연했다.",
+      "full_translated": "한국 배우 정은우가 20년 가까이 활동한 끝에 40세의 나이로 사망했다. 사망 하루 전, 그는 세상을 떠난 유명 아티스트들의 사진을 게시했다. 한국의 신문 '조선일보'는 여러 매체를 인용하여 20년 동안 활동한 40세의 배우 정은우가 2069년 2월 11일 수요일에 사망했다고 보도했다. 그는 사망 원인을 밝히지 않았다. 언론은 그가 사망하기 하루 전, 레슬리 청과 에이미 와인하우스의 사진을 인스타그램에 올리고 한국어로 \"그리워, 질투해, 후회해\"라는 캡션을 달았다고 보도했다. 보도에 따르면 현재 정은우의 장례식은 뉴코려 병원의 장례식장에서 열리고 있으며, 2월 13일 벽제승화원에서 매장될 예정이다. 정은우는 20년 가까이 연예계에서 활동했다. 그는 2006년 시리즈 '반올림 3'를 통해 배우로 데뷔했다. 이후 영화 '그 녀석은 멋있었다', '나쁜 커플', '미스 장' 등에 출연했다. 텔레비전 작품으로는 '히트', '추노', '신이라 불리운 사나이', '태양의 신부' 등이 있다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "한국 배우의 사망 소식이지만, 태국 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "뉴코려 병원 장례식장",
+        "price": null,
+        "location_google_map_query": "뉴코려 병원"
+      },
+      "references": [
+        {
+          "title": "แฟนช็อก “จอง อึนอู” นักแสดงดังเกาหลีใต้ เสียชีวิต 1 วันหลังโพสต์เศร้า",
+          "url": "https://www.thairath.co.th/news/foreign/2913692",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lE5yVjXBBX19.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lE5yVjXBBX19.jpg",
       "date": "2026-02-12"
     }
   ]
