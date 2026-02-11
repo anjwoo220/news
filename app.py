@@ -14,6 +14,7 @@ from streamlit_gsheets import GSheetsConnection
 import certifi
 import ssl
 import warnings
+import base64
 
 # --------------------------------------------------------------------------------
 # 1. [Fix] Suppress Deprecation & Future Warnings (Log Cleanup)
@@ -696,38 +697,39 @@ def save_comment(news_id, nickname, text):
 # --------------------------------------------------------------------------------
 
 def render_klook_banner():
-    """Render Klook affiliate banner with clickable image and travel essentials links."""
+    """Render Klook affiliate banner with responsive HTML wrapper."""
     is_english = st.session_state.get('language') == 'English'
     
-    # --- Wrap in columns to restrict width on wide screens ---
-    _, col, _ = st.columns([1, 6, 1])
+    # --- 1. Load and Base64 encode the local banner image ---
+    banner_img_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "klook_banner.png")
+    img_base64 = ""
+    if os.path.exists(banner_img_path):
+        with open(banner_img_path, "rb") as f:
+            img_base64 = base64.b64encode(f.read()).decode()
     
-    with col:
-        # --- 1. Banner Image (clickable) ---
-        banner_img_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "klook_banner.png")
-        if os.path.exists(banner_img_path):
-            st.image(banner_img_path, use_container_width=True)
-        
-        # Text Localization
-        title_text = "Thailand Travel Essentials" if is_english else "✈️ 태국 여행 필수 준비물"
-        sim_title = "Thailand SIM/eSIM" if is_english else "태국 유심/eSIM"
-        sim_desc = "Airport Pickup · Unlimited Data" if is_english else "공항 수령 · 데이터 무제한"
-        taxi_title = "Airport Transfer" if is_english else "공항 픽업 예약"
-        taxi_desc = "No Haggling · Comfortable Ride" if is_english else "흥정 없이 · 편안하게 이동"
+    # Text Localization
+    title_text = "Thailand Travel Essentials" if is_english else "✈️ 태국 여행 필수 준비물"
+    sim_title = "Thailand SIM/eSIM" if is_english else "태국 유심/eSIM"
+    sim_desc = "Airport Pickup · Unlimited Data" if is_english else "공항 수령 · 데이터 무제한"
+    taxi_title = "Airport Transfer" if is_english else "공항 픽업 예약"
+    taxi_desc = "No Haggling · Comfortable Ride" if is_english else "흥정 없이 · 편안하게 이동"
 
-        # --- 2. Affiliate Link Cards ---
-        st.markdown(
-            f"""
+    # --- 2. Render everything in a single responsive HTML block ---
+    st.markdown(
+        f"""
+        <div style="max-width: 500px; margin: 15px auto; width: 95%;">
+            <!-- Banner Image -->
+            <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="text-decoration: none;">
+                <img src="data:image/png;base64,{img_base64}" style="width: 100%; border-radius: 12px 12px 0 0; display: block;">
+            </a>
+            
+            <!-- Link Cards Container -->
             <div style="
-                max-width: 550px;
-                margin: auto;
                 border-radius: 0 0 12px 12px;
-                margin-top: -15px;
-                margin-bottom: 18px;
-                box-shadow: 0 2px 12px rgba(255, 87, 34, 0.15);
+                margin-top: -1px;
+                box-shadow: 0 4px 12px rgba(255, 87, 34, 0.12);
                 overflow: hidden;
                 border: 1px solid #ffe0d0;
-                border-top: none;
                 background: #fff8f5;
                 padding: 10px 12px 12px 12px;
             ">
@@ -739,7 +741,7 @@ def render_klook_banner():
                         flex: 1; text-decoration: none; background: #fff; 
                         padding: 10px 6px; border-radius: 10px; text-align: center;
                         border: 1px solid #ffe0d0;
-                        box-shadow: 0 1px 4px rgba(255,87,34,0.08);">
+                        box-shadow: 0 1px 4px rgba(255,87,34,0.06);">
                         <div style="font-size: 20px; margin-bottom: 4px;">📶</div>
                         <div style="color: #FF5722; font-weight: 700; font-size: 12px; margin-bottom: 2px;">{sim_title}</div>
                         <div style="color: #999; font-size: 10px; line-height: 1.2;">{sim_desc}</div>
@@ -748,98 +750,96 @@ def render_klook_banner():
                         flex: 1; text-decoration: none; background: #fff; 
                         padding: 10px 6px; border-radius: 10px; text-align: center;
                         border: 1px solid #d4edda;
-                        box-shadow: 0 1px 4px rgba(76,175,80,0.08);">
+                        box-shadow: 0 1px 4px rgba(76,175,80,0.06);">
                         <div style="font-size: 20px; margin-bottom: 4px;">🚖</div>
                         <div style="color: #4CAF50; font-weight: 700; font-size: 12px; margin-bottom: 2px;">{taxi_title}</div>
                         <div style="color: #999; font-size: 10px; line-height: 1.2;">{taxi_desc}</div>
                     </a>
                 </div>
             </div>
-            """,
-            unsafe_allow_html=True
-        )
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
 
 def render_dinner_cruise_banner():
-    """Render Dinner Cruise & Food promotion banner for the Food tab."""
+    """Render Dinner Cruise & Food promotion banner with responsive HTML wrapper."""
     is_english = st.session_state.get('language') == 'English'
     
-    # --- Wrap in columns to restrict width on wide screens ---
-    _, col, _ = st.columns([1, 6, 1])
+    # Text Localization
+    title_main = "Looking for a special restaurant?" if is_english else "특별한 맛집을 찾으시나요?"
+    subtitle = (
+        "How about a <span style='color: #FFD700; font-weight: 700;'>Chao Phraya Dinner Cruise</span><br>with a stunning view of Bangkok?"
+        if is_english else 
+        "방콕 야경을 보며 즐기는<br><span style='color: #FFD700; font-weight: 700;'>짜오프라야 디너 크루즈</span>는 어떠신가요?"
+    )
+    book_btn = "🎫 Book Now" if is_english else "🎫 예약하기"
     
-    with col:
-        # Text Localization
-        title_main = "Looking for a special restaurant?" if is_english else "특별한 맛집을 찾으시나요?"
-        subtitle = (
-            "How about a <span style='color: #FFD700; font-weight: 700;'>Chao Phraya Dinner Cruise</span><br>with a stunning view of Bangkok?"
-            if is_english else 
-            "방콕 야경을 보며 즐기는<br><span style='color: #FFD700; font-weight: 700;'>짜오프라야 디너 크루즈</span>는 어떠신가요?"
-        )
-        book_btn = "🎫 Book Now" if is_english else "🎫 예약하기"
-        
-        card1_title = "Princess Cruise" if is_english else "프린세스 크루즈"
-        card1_desc = "Buffet + Live Show" if is_english else "뷔페 + 라이브 공연"
-        
-        card2_title = "Bus Food Tour" if is_english else "버스 푸드 투어"
-        card2_desc = "Gourmet on Wheels" if is_english else "버스타고 맛있는 음식을"
-        
-        card3_title = "Michelin Tour" if is_english else "미슐랭 투어"
-        card3_desc = "Local Foodie Course" if is_english else "현지인 맛집 코스"
+    card1_title = "Princess Cruise" if is_english else "프린세스 크루즈"
+    card1_desc = "Buffet + Live Show" if is_english else "뷔페 + 라이브 공연"
+    
+    card2_title = "Bus Food Tour" if is_english else "버스 푸드 투어"
+    card2_desc = "Gourmet on Wheels" if is_english else "버스타고 맛있는 음식을"
+    
+    card3_title = "Michelin Tour" if is_english else "미슐랭 투어"
+    card3_desc = "Local Foodie Course" if is_english else "현지인 맛집 코스"
 
-        st.markdown(
-            f"""
-            <div style="
-                max-width: 550px;
-                margin: 16px auto;
-                border-radius: 14px;
-                overflow: hidden;
-                background: linear-gradient(135deg, #0c1445 0%, #1a237e 40%, #283593 100%);
-                box-shadow: 0 4px 20px rgba(26, 35, 126, 0.35);
-                border: 1px solid rgba(255, 215, 0, 0.3);
-            ">
-                <a href="https://klook.tpx.li/woQxAZ2X" target="_blank" style="text-decoration: none; display: block;">
-                    <div style="padding: 15px 15px 10px 15px; text-align: center;">
-                        <div style="font-size: 28px; margin-bottom: 4px;">🚢✨🌃</div>
-                        <div style="color: #FFD700; font-size: 16px; font-weight: 800; margin-bottom: 4px; letter-spacing: -0.5px;">
-                            {title_main}
-                        </div>
-                        <div style="color: #E8EAF6; font-size: 12px; line-height: 1.5; margin-bottom: 10px;">
-                            {subtitle}
-                        </div>
-                        <div style="
-                            display: inline-block;
-                            background: linear-gradient(135deg, #FFD700, #FFA000);
-                            color: #1a237e;
-                            padding: 8px 20px;
-                            border-radius: 20px;
-                            font-weight: 800;
-                            font-size: 13px;
-                            box-shadow: 0 2px 8px rgba(255, 215, 0, 0.4);
-                        ">{book_btn}</div>
+    st.markdown(
+        f"""
+        <div style="
+            max-width: 500px;
+            margin: 16px auto;
+            width: 95%;
+            border-radius: 14px;
+            overflow: hidden;
+            background: linear-gradient(135deg, #0c1445 0%, #1a237e 40%, #283593 100%);
+            box-shadow: 0 4px 20px rgba(26, 35, 126, 0.3);
+            border: 1px solid rgba(255, 215, 0, 0.2);
+        ">
+            <a href="https://klook.tpx.li/woQxAZ2X" target="_blank" style="text-decoration: none; display: block;">
+                <div style="padding: 15px 15px 10px 15px; text-align: center;">
+                    <div style="font-size: 28px; margin-bottom: 4px;">🚢✨🌃</div>
+                    <div style="color: #FFD700; font-size: 16px; font-weight: 800; margin-bottom: 4px; letter-spacing: -0.5px;">
+                        {title_main}
                     </div>
-                </a>
-                <div style="display: flex; gap: 0; border-top: 1px solid rgba(255,255,255,0.1);">
-                    <a href="https://klook.tpx.li/woQxAZ2X" target="_blank" style="
-                        flex: 1; text-decoration: none; padding: 10px 6px; text-align: center;
-                        border-right: 1px solid rgba(255,255,255,0.1);">
-                        <div style="font-size: 16px; margin-bottom: 2px;">👑</div>
-                        <div style="color: #FFD700; font-weight: 700; font-size: 11px;">{card1_title}</div>
-                        <div style="color: #9FA8DA; font-size: 9px;">{card1_desc}</div>
-                    </a>
-                    <a href="https://klook.tpx.li/s0LqwqWT" target="_blank" style="
-                        flex: 1; text-decoration: none; padding: 10px 6px; text-align: center;
-                        border-right: 1px solid rgba(255,255,255,0.1);">
-                        <div style="font-size: 16px; margin-bottom: 2px;">🚌</div>
-                        <div style="color: #FFD700; font-weight: 700; font-size: 11px;">{card2_title}</div>
-                        <div style="color: #9FA8DA; font-size: 9px;">{card2_desc}</div>
-                    </a>
-                    <a href="https://klook.tpx.li/avHTRYf9" target="_blank" style="
-                        flex: 1; text-decoration: none; padding: 10px 6px; text-align: center;">
-                        <div style="font-size: 16px; margin-bottom: 2px;">⭐</div>
-                        <div style="color: #FFD700; font-weight: 700; font-size: 11px;">{card3_title}</div>
-                        <div style="color: #9FA8DA; font-size: 9px;">{card3_desc}</div>
-                    </a>
+                    <div style="color: #E8EAF6; font-size: 12px; line-height: 1.5; margin-bottom: 10px;">
+                        {subtitle}
+                    </div>
+                    <div style="
+                        display: inline-block;
+                        background: linear-gradient(135deg, #FFD700, #FFA000);
+                        color: #1a237e;
+                        padding: 8px 20px;
+                        border-radius: 20px;
+                        font-weight: 800;
+                        font-size: 13px;
+                        box-shadow: 0 2px 8px rgba(255, 215, 0, 0.4);
+                    ">{book_btn}</div>
                 </div>
+            </a>
+            <div style="display: flex; gap: 0; border-top: 1px solid rgba(255,255,255,0.1);">
+                <a href="https://klook.tpx.li/woQxAZ2X" target="_blank" style="
+                    flex: 1; text-decoration: none; padding: 10px 6px; text-align: center;
+                    border-right: 1px solid rgba(255,255,255,0.1);">
+                    <div style="font-size: 16px; margin-bottom: 2px;">👑</div>
+                    <div style="color: #FFD700; font-weight: 700; font-size: 11px;">{card1_title}</div>
+                    <div style="color: #9FA8DA; font-size: 9px;">{card1_desc}</div>
+                </a>
+                <a href="https://klook.tpx.li/s0LqwqWT" target="_blank" style="
+                    flex: 1; text-decoration: none; padding: 10px 6px; text-align: center;
+                    border-right: 1px solid rgba(255,255,255,0.1);">
+                    <div style="font-size: 16px; margin-bottom: 2px;">🚌</div>
+                    <div style="color: #FFD700; font-weight: 700; font-size: 11px;">{card2_title}</div>
+                    <div style="color: #9FA8DA; font-size: 9px;">{card2_desc}</div>
+                </a>
+                <a href="https://klook.tpx.li/avHTRYf9" target="_blank" style="
+                    flex: 1; text-decoration: none; padding: 10px 6px; text-align: center;">
+                    <div style="font-size: 16px; margin-bottom: 2px;">⭐</div>
+                    <div style="color: #FFD700; font-weight: 700; font-size: 11px;">{card3_title}</div>
+                    <div style="color: #9FA8DA; font-size: 9px;">{card3_desc}</div>
+                </a>
             </div>
+        </div>
         </div>
         """,
         unsafe_allow_html=True
