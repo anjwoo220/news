@@ -2298,14 +2298,9 @@
       "summary": "- 방콕의 PM2.5 미세먼지 농도가 58개 지역에서 기준치를 초과, 건강에 영향을 미치는 수준.\n- 오늘(11일) 오전 7시 기준, PM2.5 농도는 32.4-58.8 마이크로그램/세제곱미터(μg/m³)로 측정됨.\n- 외출 시 마스크 착용 등 개인 보호 장비 사용 권장.",
       "full_translated": "오늘(11일) 방콕의 미세먼지(PM2.5) 농도가 심각한 수준으로, 58개 지역에서 기준치를 초과하여 건강에 영향을 미칠 수 있다는 보고가 발표되었습니다. 방콕시 대기질 정보센터에 따르면 오늘 오전 7시 기준 PM2.5 농도는 32.4에서 58.8 마이크로그램/세제곱미터(μg/m³) 사이로 측정되었으며, 이는 기준치인 37.5 μg/m³를 넘어선 수치입니다. 특히 농켐, 타위와타나, 방쿤티안, 쁘라웻 지역 등의 미세먼지 농도가 높게 나타났습니다. 당국은 외출 시 마스크 착용 등 개인 보호 장비 사용을 권장하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "미세먼지 농도 정보는 여행객 건강에 직접적인 영향을 미치므로 중요. 매일 업데이트되는 정보이므로 포함.",
-      "event_info": {
-        "date": "2025-02-11",
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 미세먼지 측정소"
-      },
+      "event_info": "{'date': '2025-02-11', 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 미세먼지 측정소'}",
       "references": [
         {
           "title": "ค่าฝุ่นวันนี้ 11 ก.พ. 69 กทม.อ่วม PM 2.5 เริ่มพุ่ง เกินมาตรฐานสีส้ม 58 พื้นที่",
@@ -2314,23 +2309,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RowenHxtG3s8.jpg"
         }
       ],
-      "collected_at": "08:26",
+      "collected_at": "8:26",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RowenHxtG3s8.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/local/bangkok/2913482",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 지대에서 캄보디아군이 대인 지뢰 사용, 태국군 증거 발견 및 규탄",
       "summary": "- 태국군이 캄보디아가 트랏 지역 국경을 침범하여 군사 기지를 건설한 증거를 추가로 발견했습니다.\n- 캄보디아가 오타와 협약과 국제인도법을 위반하여 대인 지뢰를 사용한 것을 규탄합니다.\n- 해당 기지에서 다수의 무기와 대인 지뢰가 발견되었으며, 이는 민간인에게 무차별적인 위험을 초래하는 행위입니다.",
       "full_translated": "태국군이 캄보디아가 트랏 지역 국경을 침범하여 군사 기지를 건설한 증거를 추가로 발견하고, 캄보디아가 대인 지뢰를 사용한 것을 규탄했습니다. 2024년 2월 11일, 해군 대변인 파랏 랏차이야판 소장은 2024년 2월 10일, 찬타부리-트랏 국경 방어 사령부 (꺼뻐처. 쩌떠.)가 폭발물 제거 작전을 수행하고 안전을 확보했다고 밝혔습니다. 해당 지역은 원래 캄보디아군이 넝리 마을, 참락 구역, 므앙 트랏 지역에 군사 기지를 세워 주권을 침해한 곳입니다. 현장 조사 결과, 캄보디아군 (꺼퍼처.) 기지 3개가 참호로 연결되어 있어 해당 지역이 군사 기지로 사용되었음을 명확히 보여줍니다. 해당 부대는 기지 내에서 버려진 무기(AXO) 4점을 발견했습니다: - 12.7mm 기관총 총열 및 삼각대 1세트 - 12.7mm 기관총 탄약 1,744발 - 75mm 무반동포 탄약 30발 - RGD-5 수류탄 1개 또한, 해당 부대는 파편형 대인 지뢰 MBV-78A2 1개를 발견했습니다. 이는 오타와 협약에 따라 금지된 무기이며, 민간인에게 무차별적인 위험을 초래하므로 국제인도법을 명백히 위반하는 행위입니다. 해군은 국경 지역에서 대인 지뢰를 사용하거나 설치하는 것은 국민의 안전을 위협할 뿐만 아니라 국제적 의무를 위반하는 것이라고 강조합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국경 지역 긴장 고조는 여행 안전에 잠재적 영향을 미칠 수 있으며, 특히 해당 지역 방문객에게 주의가 필요합니다. 지뢰는 직접적인 위협이 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "트랏 지역 국경",
-        "price": null,
-        "location_google_map_query": "트랏 태국 캄보디아 국경"
-      },
+      "event_info": "{'date': None, 'location': '트랏 지역 국경', 'price': None, 'location_google_map_query': '트랏 태국 캄보디아 국경'}",
       "references": [
         {
           "title": "ทหารไทยพบหลักฐานเพิ่ม ประณามกัมพูชาใช้ \"ทุ่นระเบิดสังหารบุคคล\" ในพื้นที่ชายแดน",
@@ -2339,23 +2331,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RooMxBJApOL8.jpg"
         }
       ],
-      "collected_at": "08:26",
+      "collected_at": "8:26",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RooMxBJApOL8.jpg",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://www.thairath.co.th/news/local/east/2913480",
+      "source": ""
     },
     {
       "title": "씨라차 시장, 부패 의혹 제기에 명예훼손 소송 제기",
       "summary": "- 스리라차 시장, 소셜 미디어 게시글에 대한 명예훼손 소송 제기\n- 코로이 보라색 다리 프로젝트 관련 부패 의혹이 제기됨\n- 시장은 게시글이 자신의 명예를 훼손했다고 주장",
       "full_translated": "차차이 시장은 시의회 의장 아난 완파이산, 비서 피야눗 팀크라장과 함께 스리라차 경찰서를 방문하여 수사 부국장 솜키드 분로이 경감과 만나 고소장을 제출했습니다. 고소장의 중심 내용은 스리라차 페이지에 게시된 페이스북 게시물입니다. 해당 게시물은 “사람들이 비싸다고 불평하는 코로이의 2억 4천만 바트 보라색 다리. Bhumjaithai 당과 제휴한 스리라차 시장 Pued”이라는 내용과 함께 여러 부정적인 해시태그가 포함되어 있습니다. 차차이 시장은 해당 게시물이 코로이의 보라색 다리 (싸판 러이 남 씨 므엉)의 높은 비용이 자신의 부패 또는 횡령으로 인한 것이라고 거짓으로 암시한다고 주장합니다. 그는 이것이 사실이 아니며 게시물을 읽은 사람들이 자신을 경멸, 증오 또는 경멸로 보도록 하여 자신의 명예에 해를 끼쳤다고 주장합니다. 보라색 다리는 약 437미터 길이, 3.45미터 폭으로 본토와 스리라차의 코로이 공원을 연결합니다. 약 2억 4천만 바트의 비용이 소요되었으며, 아름다운 바다 전망을 제공하고 지역 관광을 촉진하는 랜드마크 역할을 하여 방문객들에게 인기 있는 명소가 되었습니다. 차차이 시장은 경찰에 진술하면서 이 문제를 증거로 기록하기 위해 고소장을 제출했다고 밝혔습니다. 그는 당국에 법에 따라 진행할 것을 촉구했습니다. 차차이 시장은 “오늘 페이스북에 허위 및 오해의 소지가 있는 콘텐츠를 게시하여 저에게 피해를 입혔다고 신고하러 왔습니다.”라고 설명했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "관광 명소 관련 부패 의혹 제기. 여행 자체에는 큰 영향 없으나, 인지도는 중요.",
-      "event_info": {
-        "date": null,
-        "location": "Koh Loy Park, Sri Racha",
-        "price": null,
-        "location_google_map_query": "Koh Loy Park, Sri Racha"
-      },
+      "event_info": "{'date': None, 'location': 'Koh Loy Park, Sri Racha', 'price': None, 'location_google_map_query': 'Koh Loy Park, Sri Racha'}",
       "references": [
         {
           "title": "Sriracha Mayor Files Defamation Complaint Over Social Media Post Alleging Corruption in Purple Floating Bridge Project",
@@ -2364,23 +2353,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707264034531871952570704244611.jpg?v=1770726811"
         }
       ],
-      "collected_at": "08:26",
+      "collected_at": "8:26",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707264034531871952570704244611.jpg?v=1770726811",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://thepattayanews.com/2026/02/10/sriracha-mayor-files-defamation-complaint-over-social-media-post-alleging-corruption-in-purple-floating-bridge-project/",
+      "source": ""
     },
     {
       "title": "시라차에서 유조차 운전사, 차량 점검 중 사망",
       "summary": "- 시라차의 한 주택에서 유조차 운전사가 차량 점검 중 사고로 사망했습니다.\n- 피해자는 매일 새벽 차량 점검을 하던 중 유조차가 움직이며 바퀴에 깔린 것으로 추정됩니다.\n- 경찰은 정확한 사고 경위를 조사 중입니다.",
       "full_translated": "촌부리에서 등록된 72-4459 번호판의 15,000리터 용량의 10륜 유조차 운전자인 수라폴 몽폰무앙 씨가 논크와엑 – 후아이 콩 다이 소이 3의 한 주택에서 사고를 당했습니다. 목격자 및 초기 경찰 조사에 따르면 수라폴 씨는 매일 새벽 4-5시경에 엔진을 켜고 차량 점검을 했습니다. 그는 브레이크 또는 기타 부품을 검사하기 위해 트럭 밑으로 들어간 것으로 보입니다. 이웃들은 오전 5시경 엔진 소리를 들었지만 평소와 같이 운전사가 출발하는 시간이라고 생각했습니다. 그러나 트럭이 제대로 고정되지 않았거나 브레이크가 잠겨있지 않아 의도치 않게 앞으로 굴러간 것으로 보이며, 수라폴 씨는 뒷바퀴 사이에 갇혔습니다. 그의 시신은 거친 자갈 표면을 따라 끌려가 몇 시간 동안 그곳에 갇혀 있었습니다. 이웃인 프레차 사미프렘 씨(44세)가 자녀를 학교에 데려다주기 위해 밖으로 나왔다가 오전 7시경에 이 끔찍한 발견을 했습니다. 그는 유조차가 여전히 주차되어 있고, 수라폴 씨의 다리가 뒷바퀴 사이로 튀어나온 것을 발견했습니다. 처음에는 운전사가 밑에서 작업 중이라고 생각하고 다리에 접근하여 만져보니 차갑고 생명이 없다는 것을 깨달았습니다. 그는 즉시 피해자의 아내와 아들에게 알렸습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 차량 안전에 대한 경각심을 줄 수 있는 사고 소식이므로 정보를 제공합니다. 지역 교통에 일시적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "시라차",
-        "price": null,
-        "location_google_map_query": "시라차"
-      },
+      "event_info": "{'date': None, 'location': '시라차', 'price': None, 'location_google_map_query': '시라차'}",
       "references": [
         {
           "title": "Oil Truck Driver Crushed to Death While Checking Vehicle in Sri Racha",
@@ -2389,23 +2375,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707029848014092476800505818527.jpg?v=1770703054"
         }
       ],
-      "collected_at": "08:26",
+      "collected_at": "8:26",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17707029848014092476800505818527.jpg?v=1770703054",
-      "date": "2026-02-11"
+      "date": "2026-02-11",
+      "link": "https://thepattayanews.com/2026/02/10/oil-truck-driver-crushed-to-death-while-checking-vehicle-in-sri-racha/",
+      "source": ""
     },
     {
       "title": "태국 개인 저축 계좌(TISA) 도입 추진: 장기 저축 및 ESG 투자 장려",
       "summary": "- 태국 정부가 개인 저축 계좌(TISA) 도입을 추진하여 장기 저축을 장려하고 ESG 투자를 활성화할 계획입니다.\n- TISA를 통해 연간 최대 50만 바트까지 투자 가능하며, 초기 2년 동안은 추가 특별 투자 한도 30만 바트가 제공됩니다.\n- SET ESG 상장 주식 또는 태국 ESG 뮤추얼 펀드 투자는 세금 공제 혜택을 받을 수 있으며, 최소 5년의 보유 기간이 요구됩니다.",
       "full_translated": "Tisco 증권은 태국 개인 저축 계좌(TISA) 제도의 계획된 설립을 새 정부가 장기 저축을 장려하고 가계 투자 규율을 강화하며 환경, 사회 및 거버넌스(ESG) 투자에 중점을 두고 태국 자본 시장을 강화하는 도구로 추진할 것을 제안했습니다. Tisco 증권의 최고 경영자인 Paiboon Nalinthrangkurn은 제안된 프레임워크가 지속 가능한 투자 테마를 지원하면서 주식 시장으로의 꾸준한 자본 유입을 장려하도록 설계되었다고 말했습니다. 제안에 따라 개인은 TISA 제도를 통해 연간 최대 500,000 바트를 투자할 수 있습니다. 조기 채택을 가속화하기 위해 시행 첫 2년 동안 연간 300,000 바트의 추가 특별 투자 허용액이 부여됩니다. 재무부는 원래 TISA 투자를 총 500,000 바트 한도로 세금 공제를 위해 다른 저축 수단과 결합하는 것을 고려했습니다. 태국 증권 거래소(SET)의 ESG 상장 주식 또는 태국 ESG 뮤추얼 펀드에 대한 투자는 전액 세금 공제를 받을 수 있으며, 비 ESG 주식 또는 뮤추얼 펀드에 대한 투자는 투자 금액의 80%로 세금 공제가 제한됩니다. 이 제도는 최소 5년의 보유 기간을 요구하며, 이 기간 동안 투자자는 TISA 계정 내에서 적격 주식 또는 뮤추얼 펀드 간에 전환할 수 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 적으나, 태국 경제 및 투자 환경에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Brokerages upbeat on investment",
@@ -2414,8 +2397,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962248_700.jpg"
         }
       ],
-      "collected_at": "08:26",
+      "collected_at": "8:26",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/11/5962248_700.jpg",
+      "date": "2026-02-11",
+      "link": "https://www.bangkokpost.com/business/investment/3194588/brokerages-upbeat-on-investment",
+      "source": ""
+    },
+    {
+      "title": "방콕 및 주변 지역, PM2.5 미세먼지 농도 증가 경고 (2월 11-12일)",
+      "summary": "- 정부는 방콕, 수도권 및 동부 지역의 PM2.5 미세먼지 농도 증가를 경고했습니다.\n- 2월 11일부터 12일까지 동풍과 주변 국가로부터 유입되는 연무의 영향 때문입니다.\n- 건강 관리에 유의하고, 야외 활동을 자제하며, 필요한 경우 마스크를 착용하십시오.",
+      "full_translated": "정부 부대변인은 대기 오염 해결 커뮤니케이션 센터가 방콕, 수도권 및 동부 지역에서 PM2.5 미세먼지 농도가 증가할 가능성이 있다고 경고했다고 밝혔습니다. 특히 사깨오, 쁘라찐부리 및 차청사오 지역은 2025년 2월 11-12일에 더욱 심각할 수 있습니다.\n\n부대변인에 따르면 주요 원인은 주변 국가에서 불어오는 동풍의 영향으로 방콕, 수도권 및 동부 지역이 바람의 영향을 받는 지역에 위치하게 되기 때문입니다. 또한 캄보디아에서 4,462개의 화재 지점이 발견되었는데, 이는 시즌 시작 이후 가장 높은 수치이며, 이는 증가 추세에 있습니다. \n\n대기 오염 통제국은 동부 지역의 모든 기관과 관련 기관에 오염원, 특히 야외 소각에 대한 감독을 강화하여 국내 대기 질에 미치는 영향을 줄일 것을 요청했습니다. \n\n국민 여러분께서는 건강에 유의하시고, 야외 활동을 자제하거나 피하십시오. 필요한 경우 외출 시 마스크와 보호 장비를 착용하고 보건부의 권고 사항을 엄격히 따르십시오. 대기 질 상황은 Air4Thai.pcd.go.th 웹사이트 또는 Air4Thai 애플리케이션을 통해 지속적으로 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "미세먼지 농도 증가는 여행자의 건강에 직접적인 영향을 미치므로 높은 점수를 부여. 특히, 오늘, 내일의 예보를 제공하므로 '일일 브리핑'으로서의 가치가 높음.",
+      "event_info": {
+        "date": "2025-02-11",
+        "location": "방콕, 수도권, 동부 지역",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "รัฐบาล แจ้งเตือน กทม.-ปริมณฑล-ภาคตะวันออก ฝุ่น PM 2.5 มีแนวโน้มสูงขึ้น 11-12 ก.พ. นี้",
+          "url": "https://www.thairath.co.th/news/politic/2913507",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3oGl3rJ1NaYiX.jpg"
+        }
+      ],
+      "collected_at": "11:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3oGl3rJ1NaYiX.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "우타이타니 병원, 나콘사완 사고로 의사, 간호사, 운전기사 사망 애도",
+      "summary": "- 우타이타니 병원 소속 의료진과 운전기사가 나콘사완에서 발생한 교통사고로 사망.\n- 사고는 우타이타니 보건부 밴이 6륜 트럭을 들이받아 발생.\n- 사고 현장에서 의사, 간호사, 운전기사 포함 3명 사망, 5명 부상.",
+      "full_translated": "우타이타니 병원이 의사와 간호사, 운전기사의 사망을 애도했습니다. 이들은 나콘사완에서 발생한 교통사고로 목숨을 잃었습니다. 사고는 2069년 2월 10일 15시 30분, 므앙나콘사완 경찰서에서 우타이타니 보건부 소속 밴이 파혼요틴 1번 도로의 361-362km 지점에서 6륜 트럭을 들이받아 발생했습니다. 이 사고로 8명의 승객 중 3명이 현장에서 사망했습니다. 사망자는 우타이타니 병원 전문의인 35세의 워란라다 로짜나붓 박사, 46세의 간호사 껫사라 암쭈이, 26세의 운전기사 차린 씩카위입니다. 5명의 부상자는 스완파라락 병원으로 이송되었습니다. 경찰은 사고 원인을 조사 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 교통사고 소식으로, 여행객 안전에 대한 간접적인 영향이 있으므로 중간 점수 부여. 특정 지역에서 발생한 사고이므로 위치 정보 파악 필요.",
+      "event_info": {
+        "date": "2069-02-10",
+        "location": "나콘사완, 파혼요틴 1번 도로 361-362km 지점",
+        "price": null,
+        "location_google_map_query": "Pahon Yothin Road, Nakhon Sawan"
+      },
+      "references": [
+        {
+          "title": "รพ.อุทัยธานี อาลัยหมอ-พยาบาล เสียชีวิตพร้อมคนขับ อุบัติเหตุรถชนที่ จ.นครสวรรค์",
+          "url": "https://www.thairath.co.th/news/local/2913504",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3oGTivNcZDvDW.jpg"
+        }
+      ],
+      "collected_at": "11:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3oGTivNcZDvDW.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "캐나다 학교에서 총기 난사 발생, 최소 9명 사망",
+      "summary": "- 캐나다 학교에서 총기 난사 사건 발생, 최소 9명 사망, 25명 부상.\n- 사망자 중 7명은 학교에서, 2명은 인근 주택에서 발생.\n- 용의자는 현장에서 사망, 경찰 조사 진행 중.",
+      "full_translated": "캐나다 학교에서 충격적인 총기 난사 사건이 발생했습니다. 학교에서 7명이 사망하고, 학교 근처 주택에서 2명이 사망했으며, 25명 이상이 부상을 입었습니다. 경찰은 총격범이 현장에서 사망했다고 확인했습니다. 캐나다 기마 경찰(Royal Canadian Mounted Police – RCMP)은 서부 지역에서 심각한 총격 사건이 발생하여 최소 9명이 사망하고 약 25명이 부상했다고 밝혔습니다. 당국은 브리티시 컬럼비아 동북부 지역의 Tumbler Ridge Secondary School 내에서 6명의 사망자를 발견했으며, 또 다른 희생자는 병원으로 이송 중 사망했습니다. 또한 학교에서 멀지 않은 집에서 2명의 사망자가 더 발견되었는데, 경찰은 이들이 동일 사건과 관련이 있다고 보고 있습니다. 용의자로 추정되는 총격범은 현장에서 사망했으며, 자해로 인한 것으로 보이는 상처가 있었습니다. 그러나 범행 동기나 용의자의 인상착의에 대한 자세한 내용은 아직 공개되지 않았습니다. 현재 당국은 수사를 진행하는 동시에 해당 지역의 안전을 확보하고 사건으로 피해를 입은 사람들을 지원하고 있습니다. 이번 사건은 최근 몇 년간 브리티시 컬럼비아에서 발생한 가장 심각한 총격 사건 중 하나입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 안전 관련 잠재적 위험. 현재 태국 사건은 아니지만, 유사 사건 발생 가능성 상기.",
+      "event_info": {
+        "date": null,
+        "location": "Tumbler Ridge Secondary School, 캐나다 브리티시 컬럼비아",
+        "price": null,
+        "location_google_map_query": "Tumbler Ridge Secondary School"
+      },
+      "references": [
+        {
+          "title": "ด่วน! เกิดเหตุกราดยิงในแคนาดา ดับอย่างน้อย 9 ราย ในจำนวนนี้ 7 ราย เกิดขึ้นในโรงเรียน",
+          "url": "https://www.thairath.co.th/news/foreign/2913511",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3nxGD2yRzRoZH.jpg"
+        }
+      ],
+      "collected_at": "11:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3nxGD2yRzRoZH.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "미얀마 민 아웅 흘라잉, 만달레이 로켓 공격에서 간신히 생존",
+      "summary": "- 미얀마 군부 지도자 민 아웅 흘라잉이 만달레이에서 로켓 공격을 받아 생존함.\n- 공격 당시 그는 전통 의상을 입고 종교 의식을 수행 중이었음.\n- 해당 공격은 1월 말에 발생했으며, 군부 기지를 목표로 함.",
+      "full_translated": "미얀마 군 소식통에 따르면 민 아웅 흘라잉 총사령관은 지난달 만달레이에서 로켓 공격으로 거의 사망할 뻔했습니다. 그는 왕의 옷을 입고 의식을 치르고 있었습니다. 2069년 2월 10일, 이라와디 통신은 미얀마 군 소식통을 인용하여 민 아웅 흘라잉 군부 지도자가 지난 1월 말 만달레이에서 즉석 로켓 공격으로 간신히 살아남았다고 보도했습니다. 소식통에 따르면 만달레이 궁전 내에 위치한 중부 군사령부가 1월 27일 새벽에 공격을 받았습니다. 민 아웅 흘라잉은 불길한 것을 막기 위한 전통 의식을 수행하기 위해 전날 밤부터 이 지역에 머물렀습니다. 보고서에 따르면 군 지도자는 버마 왕의 옷을 입고 오전 4시 41분에 밍갈라 다리를 통해 궁전에 들어갈 계획이었습니다. 이는 군사 정부가 조직한 선거 이후 전쟁 상황 속에서 행운의 시간으로 여겨졌습니다. 군대를 대표하는 정당이 승리했고 민 아웅 흘라잉은 대통령이 될 것으로 예상되었습니다. 소식통은 로켓 공격이 목표물을 빗나갔지만 민 아웅 흘라잉을 크게 놀라게 했고 일주일 동안 대중 앞에 모습을 드러내지 않기로 결정했다고 밝혔습니다. 미얀마 사람들을 위한 용감한 전사 그룹은 1월 27일 페이스북을 통해 오전 4시 30분경 중부 군사령부 기지에 여러 발의 즉석 107mm 로켓을 발사했다고 밝혔습니다. 그들은 최소 3발의 로켓이 폭발했고 여러 장교가 부상을 입었다고 주장했지만 군부 지도자가 피해를 입었는지는 확인할 수 없었습니다. ... 사건 이후 민 아웅 흘라잉은 모습을 감췄습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "미얀마 정치 불안정은 태국 여행에도 간접적인 영향을 줄 수 있으므로 관련 소식을 전달. 만달레이는 태국 여행객이 방문할 가능성이 있는 지역임.",
+      "event_info": {
+        "date": null,
+        "location": "만달레이",
+        "price": null,
+        "location_google_map_query": "만달레이"
+      },
+      "references": [
+        {
+          "title": "เผย\"มิน อ่องหล่าย\"รอดตายหวุดหวิดจากเหตุจรวดโจมตีในมัณฑะเลย์ ขณะใส่ชุดเครื่องทรงกษัตริย์พม่าทำพิธี",
+          "url": "https://www.thairath.co.th/news/foreign/2913506",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3oGdfkWMWMyFq.jpg"
+        }
+      ],
+      "collected_at": "11:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy3oGdfkWMWMyFq.jpg",
+      "date": "2026-02-11"
+    },
+    {
+      "title": "36세 남성, 귀가 중 오토바이 사고로 사망 – 결혼 10일 전",
+      "summary": "- 36세 남성이 오토바이를 타고 귀가하던 중 케이블에 목이 걸려 사망.\n- 사고는 차청사오 주 방클라 지역에서 발생했으며, 결혼을 10일 앞두고 안타까운 사고를 당함.\n- 경찰은 사고 전 전봇대 전선을 건드린 트럭 운전자를 찾고 있음.",
+      "full_translated": "36세 남성이 2월 10일 밤 8시경 차청사오 주 방클라 지역의 후아사이-부아카오 도로에서 오토바이를 타고 귀가하던 중 케이블에 목이 걸려 사망했습니다. 피해자는 36세의 토사폰 판야 씨로 확인되었습니다. 목격자 타나폰 씨에 따르면 사고 직전 짚차 트럭이 전봇대 전선을 건드려 문제가 발생했고, 이후 오토바이 2대가 쓰러지는 사고가 발생했습니다. 2대의 오토바이는 가벼워 큰 부상을 입지 않았지만, 피해자는 오토바이 무게와 목에 걸린 전선으로 인해 크게 다쳐 사망했습니다. 그는 사고 직후 일어나 도움을 요청하려 했지만, 결국 도로에서 쓰러져 숨졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 안전과 관련된 사고 소식이므로 정보 제공 가치가 있다고 판단. 다만, 특정 지역에 한정된 사고이므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2024-02-10",
+        "location": "차청사오 주 방클라 지역 후아사이-부아카오 도로",
+        "price": null,
+        "location_google_map_query": "후아사이-부아카오 도로 차청사오"
+      },
+      "references": [
+        {
+          "title": "หนุ่ม 36 ปี ขี่บิ๊กไบค์กลับบ้าน สายเคเบิลเกี่ยวคอดับ เศร้าอีก 10 วันจะแต่งงาน",
+          "url": "https://www.thairath.co.th/news/local/central/2913494",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RHvYONEbThEz.jpg"
+        }
+      ],
+      "collected_at": "11:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy5RHvYONEbThEz.jpg",
       "date": "2026-02-11"
     }
   ]
