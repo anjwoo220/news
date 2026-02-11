@@ -718,39 +718,18 @@ def render_klook_banner():
     st.markdown(
         f"""
 <div style="max-width: 500px; margin: 15px auto; width: 95%;">
-    <!-- Banner Image -->
     <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="text-decoration: none;">
         <img src="data:image/png;base64,{img_base64}" style="width: 100%; border-radius: 12px 12px 0 0; display: block;">
     </a>
-    
-    <!-- Link Cards Container -->
-    <div style="
-        border-radius: 0 0 12px 12px;
-        margin-top: -1px;
-        box-shadow: 0 4px 12px rgba(255, 87, 34, 0.12);
-        overflow: hidden;
-        border: 1px solid #ffe0d0;
-        background: #fff8f5;
-        padding: 10px 12px 12px 12px;
-    ">
-        <p style="color: #FF5722; font-size: 13px; margin: 0 0 8px 0; font-weight: 700; text-align: center; letter-spacing: -0.3px;">
-            {title_text}
-        </p>
+    <div style="border-radius: 0 0 12px 12px; margin-top: -1px; box-shadow: 0 4px 12px rgba(255, 87, 34, 0.12); overflow: hidden; border: 1px solid #ffe0d0; background: #fff8f5; padding: 10px 12px 12px 12px;">
+        <p style="color: #FF5722; font-size: 13px; margin: 0 0 8px 0; font-weight: 700; text-align: center; letter-spacing: -0.3px;">{title_text}</p>
         <div style="display: flex; gap: 8px;">
-            <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="
-                flex: 1; text-decoration: none; background: #fff; 
-                padding: 10px 6px; border-radius: 10px; text-align: center;
-                border: 1px solid #ffe0d0;
-                box-shadow: 0 1px 4px rgba(255,87,34,0.06);">
+            <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="flex: 1; text-decoration: none; background: #fff; padding: 10px 6px; border-radius: 10px; text-align: center; border: 1px solid #ffe0d0; box-shadow: 0 1px 4px rgba(255,87,34,0.06);">
                 <div style="font-size: 20px; margin-bottom: 4px;">📶</div>
                 <div style="color: #FF5722; font-weight: 700; font-size: 12px; margin-bottom: 2px;">{sim_title}</div>
                 <div style="color: #999; font-size: 10px; line-height: 1.2;">{sim_desc}</div>
             </a>
-            <a href="https://klook.tpx.li/LBnlb1vU" target="_blank" style="
-                flex: 1; text-decoration: none; background: #fff; 
-                padding: 10px 6px; border-radius: 10px; text-align: center;
-                border: 1px solid #d4edda;
-                box-shadow: 0 1px 4px rgba(76,175,80,0.06);">
+            <a href="https://klook.tpx.li/LBnlb1vU" target="_blank" style="flex: 1; text-decoration: none; background: #fff; padding: 10px 6px; border-radius: 10px; text-align: center; border: 1px solid #d4edda; box-shadow: 0 1px 4px rgba(76,175,80,0.06);">
                 <div style="font-size: 20px; margin-bottom: 4px;">🚖</div>
                 <div style="color: #4CAF50; font-weight: 700; font-size: 12px; margin-bottom: 2px;">{taxi_title}</div>
                 <div style="color: #999; font-size: 10px; line-height: 1.2;">{taxi_desc}</div>
