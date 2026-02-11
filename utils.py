@@ -4426,4 +4426,7 @@ REGION_OPTIONS = ["🏙️ 방콕", "🏖️ 파타야", "🐘 치앙마이", "�
 # 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)
 REGION_LABEL_TO_KEY = {opt: opt.split(" ", 1)[1] for opt in REGION_OPTIONS}
 
+# Klook 전체보기 링크
+KLOOK_ALL_TOURS_LINK = "https://klook.tpx.li/P3FlPqvh"
+
 
