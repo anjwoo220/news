@@ -2318,10 +2318,12 @@ def render_tab_tour():
     """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
 def render_tab_tour():
     """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
-    import data_tours
-    import importlib
-    importlib.reload(data_tours)
-    from data_tours import TOURS, KLOOK_ALL_TOURS_LINK, CITY_LINKS, REGION_OPTIONS, REGION_LABEL_TO_KEY
+def render_tab_tour():
+    """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
+    # Use constants from utils
+    REGION_OPTIONS = utils.REGION_OPTIONS
+    REGION_LABEL_TO_KEY = utils.REGION_LABEL_TO_KEY
+    TOURS = utils.load_tours()
     
     # SEO
     utils.set_page_title(utils.get_seo_title("nav_tour"))
@@ -3760,13 +3762,11 @@ if app_mode == "Admin Console":
         # --- Tab 12: Tour Management (New) ---
         with tab12:
             st.subheader("🎒 투어 상품 데이터 관리")
-            st.info("여기서 추가/수정된 데이터는 `data_tours.py` 파일에 직접 저장됩니다.")
+            st.info("데이터는 `data/tours.json` 파일에 저장됩니다.")
             
             try:
-                import data_tours
-                import importlib
-                importlib.reload(data_tours)
-                from data_tours import TOURS, CITY_LINKS, REGION_OPTIONS
+                TOURS = utils.load_tours()
+                REGION_OPTIONS = utils.REGION_OPTIONS
                 import json
                 import pandas as pd
                 import time
@@ -3811,9 +3811,8 @@ if app_mode == "Admin Console":
                             }
                             TOURS.append(new_tour)
                             
-                            # Save to file
-                            with open("data_tours.py", "w", encoding="utf-8") as f:
-                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\n# 지역별 클룩 제휴 링크\nCITY_LINKS = {json.dumps(CITY_LINKS, indent=4, ensure_ascii=False)}\n\n# UI에서 사용하는 지역 옵션 (이모지 포함)\nREGION_OPTIONS = {json.dumps(REGION_OPTIONS, ensure_ascii=False)}\n\n# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)\nREGION_LABEL_TO_KEY = {{opt: opt.split(' ', 1)[1] for opt in REGION_OPTIONS}}\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                            # Save via utils
+                            utils.save_tours(TOURS)
                             
                             st.success("새 투어가 추가되었습니다!")
                             time.sleep(1)
@@ -3854,9 +3853,8 @@ if app_mode == "Admin Console":
                                 target_tour['desc'] = e_desc
                                 target_tour['pros'] = e_pros
                                 
-                                # Save to file
-                                with open("data_tours.py", "w", encoding="utf-8") as f:
-                                    f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\n# 지역별 클룩 제휴 링크\nCITY_LINKS = {json.dumps(CITY_LINKS, indent=4, ensure_ascii=False)}\n\n# UI에서 사용하는 지역 옵션 (이모지 포함)\nREGION_OPTIONS = {json.dumps(REGION_OPTIONS, ensure_ascii=False)}\n\n# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)\nREGION_LABEL_TO_KEY = {{opt: opt.split(' ', 1)[1] for opt in REGION_OPTIONS}}\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                                # Save via utils
+                                utils.save_tours(TOURS)
                                 
                                 st.success("투어 정보가 수정되었습니다!")
                                 time.sleep(1)
@@ -3873,9 +3871,8 @@ if app_mode == "Admin Console":
                         TOURS = [t for t in TOURS if t['id'] != del_id]
                         
                         if len(TOURS) < initial_len:
-                            # Save to file
-                            with open("data_tours.py", "w", encoding="utf-8") as f:
-                                f.write(f"# data_tours.py\n# AI가 읽을 투어 상품 데이터 (Klook 제휴)\n\n# 지역별 클룩 제휴 링크\nCITY_LINKS = {json.dumps(CITY_LINKS, indent=4, ensure_ascii=False)}\n\n# UI에서 사용하는 지역 옵션 (이모지 포함)\nREGION_OPTIONS = {json.dumps(REGION_OPTIONS, ensure_ascii=False)}\n\n# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)\nREGION_LABEL_TO_KEY = {{opt: opt.split(' ', 1)[1] for opt in REGION_OPTIONS}}\n\nTOURS = {json.dumps(TOURS, indent=4, ensure_ascii=False)}\n\nKLOOK_ALL_TOURS_LINK = 'https://klook.tpx.li/P3FlPqvh'\n")
+                            # Save via utils
+                            utils.save_tours(TOURS)
                             
                             st.success(f"ID {del_id} 투어가 삭제되었습니다.")
                             time.sleep(1)
@@ -3884,7 +3881,7 @@ if app_mode == "Admin Console":
                             st.warning("해당 ID의 투어를 찾을 수 없습니다.")
 
             except Exception as e:
-                st.error(f"데이터 로드 중 오류 발생: {e}")
+                st.error(f"오류 발생: {e}")
 
 else:
     # --- Viewer Mode ---

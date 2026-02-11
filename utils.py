@@ -4311,10 +4311,6 @@ def recommend_tours(who, style, budget, region="방콕"):
         None: on failure
     """
     import google.generativeai as genai
-    import data_tours
-    import importlib
-    importlib.reload(data_tours)
-    from data_tours import TOURS
     
     # Get API key
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -4341,6 +4337,9 @@ def recommend_tours(who, style, budget, region="방콕"):
             'gemini-2.0-flash',
             generation_config={"response_mime_type": "application/json"}
         )
+        
+        # Load tours
+        TOURS = load_tours()
         
         # Filter tours by region
         filtered_tours = [t for t in TOURS if t.get('region', '방콕') == region]
@@ -4396,4 +4395,35 @@ def recommend_tours(who, style, budget, region="방콕"):
     except Exception as e:
         print(f"❌ Tour recommendation error: {e}")
         return None
+
+# --- 3. 데이터 로드 및 저장 (Data Handling) ---
+def load_tours():
+    """Load tours from data/tours.json"""
+    try:
+        with open('data/tours.json', 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        return []
+
+def save_tours(tours):
+    """Save tours to data/tours.json"""
+    with open('data/tours.json', 'w', encoding='utf-8') as f:
+        json.dump(tours, f, ensure_ascii=False, indent=2)
+
+# 지역별 클룩 제휴 링크 (상수)
+CITY_LINKS = {
+    "방콕": "https://klook.tpx.li/X9VgSPk8",
+    "파타야": "https://klook.tpx.li/Te6TSv6q",
+    "치앙마이": "https://klook.tpx.li/yPsMZRxS",
+    "푸켓": "https://klook.tpx.li/FDM1ZPlZ",
+    "코사무이": "https://klook.tpx.li/PjbJR2GU",
+    "끄라비": "https://klook.tpx.li/WoWJSmgF",
+}
+
+# UI에서 사용하는 지역 옵션 (이모지 포함)
+REGION_OPTIONS = ["🏙️ 방콕", "🏖️ 파타야", "🐘 치앙마이", "🏝️ 푸켓", "🌴 코사무이", "⛵ 끄라비"]
+
+# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)
+REGION_LABEL_TO_KEY = {opt: opt.split(" ", 1)[1] for opt in REGION_OPTIONS}
+
 

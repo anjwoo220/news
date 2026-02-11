@@ -276,13 +276,63 @@ def main():
         if os.path.exists(REMOTE_BOARD_FILE):
              os.remove(REMOTE_BOARD_FILE)
 
+    # 3-E. Sync Tours (tours.json)
+    print("\n3-E. Syncing Tours Data...")
+    TOURS_FILE = 'data/tours.json'
+    REMOTE_TOURS_FILE = 'data/tours_remote.json'
+    
+    has_remote_tours = False
+    try:
+        content = run_command("git show origin/main:data/tours.json")
+        with open(REMOTE_TOURS_FILE, 'w', encoding='utf-8') as f:
+            f.write(content)
+        has_remote_tours = True
+    except:
+        print("Remote tours.json not found. Skipping.")
+        
+    if has_remote_tours:
+        local_tours = load_json_generic(TOURS_FILE, list)
+        remote_tours = load_json_generic(REMOTE_TOURS_FILE, list)
+        
+        # Merge logic: Remote Priority, ID based?
+        # Tours are managed by Admin, so Local might be fresher if User just edited.
+        # But if we deploy from another machine, Remote is truth.
+        # Let's use simple ID-based merge. 
+        # If ID exists in Remote, use Remote (unless Local has changes? Hard to tell).
+        # Safe strategy: Add missing IDs from Remote to Local. 
+        # But wait, Admin might have deleted a tour.
+        # Strict Sync: Remote is Truth. But preserve new Local IDs.
+        
+        def merge_tours(local_l, remote_l):
+            merged = list(remote_l)
+            remote_ids = set(t.get('id') for t in merged)
+            count = 0
+            
+            for item in local_l:
+                if item.get('id') not in remote_ids:
+                    merged.append(item)
+                    remote_ids.add(item.get('id'))
+                    count += 1
+            
+            # Sort by ID
+            merged.sort(key=lambda x: x.get('id'))
+            return merged, count
+
+        merged_tours, added_count = merge_tours(local_tours, remote_tours)
+
+        if added_count > 0:
+            print(f"✅ Restored {added_count} tours from remote!")
+            save_json(TOURS_FILE, merged_tours)
+        if os.path.exists(REMOTE_TOURS_FILE):
+             os.remove(REMOTE_TOURS_FILE)
+
     # 4. Push
     print("\n4. Committing and Pushing to GitHub...")
     try:
         # Force add data files to ensure they are tracked (if they exist)
         # NOTE: processed_urls.json is EXCLUDED - managed only by GitHub Actions
         files_to_add = []
-        for fpath in ["data/news.json", "data/events.json", "data/big_events.json", "data/trends.json", "data/magazine_content.json", "data/twitter_trends.json", "data/sources.json", "data/board.json", "deploy_meta.txt"]:
+        for fpath in ["data/news.json", "data/events.json", "data/big_events.json", "data/trends.json", "data/magazine_content.json", "data/twitter_trends.json", "data/sources.json", "data/board.json", "data/tours.json", "deploy_meta.txt"]:
             if os.path.exists(fpath):
                 files_to_add.append(fpath)
         
