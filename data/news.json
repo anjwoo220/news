@@ -3928,14 +3928,9 @@
       "summary": "- 핫야이의 한 학교에서 10대 총격범이 체포됨.\n- 총격으로 교장과 여학생이 부상, 다른 학생은 탈출 시도 중 부상.\n- 용의자는 과거 정신과 치료 이력이 있으며, 범행 동기는 불분명.",
       "full_translated": "핫야이에서 발생한 학교 총격 사건으로 17세 용의자가 체포되었습니다. 당국에 따르면 정신적으로 불안정하며 최근 정신과 치료를 받았던 이 10대는 9mm 권총을 탈취하기 전 칼로 경찰관을 폭행했습니다. 이후 학교에 들어가 교장과 여학생에게 총을 쏴 부상을 입혔고, 다른 학생은 건물에서 뛰어내려 탈출하려다 다쳤습니다. 용의자는 인질극을 벌이기도 했습니다. 용의자 자신도 대치 과정에서 부상을 입고 핫야이 병원으로 옮겨진 후 경찰에 구금되었습니다. 이번 작전은 나라팁 포이녹 제4군 사령관과 송클라 주지사 라타삿 치드추가 직접 지휘했습니다. 경찰과 군부대는 학교를 포위하여 결국 총격범을 제압하고 인질을 구출했습니다. 관계자들은 용의자가 약물 남용과 관련된 정신과 치료 전력이 있으며 2025년 12월 송클라 라자나가린드라 정신병원에서 퇴원했다고 밝혔습니다. 수사관들은 용의자의 여동생이 같은 학교에 다니고 있지만, 공격 동기는 아직 불분명하다고 밝혔습니다. 송클라 지방 경찰 사령관 테라삭 차이야타Pol. Maj. Gen.은 3명의 피해자가 부상을 입었으며, 그중 2명은 중상을 입었다고 확인했습니다. 그는 용의자의 행동이 학교 직원에 대한 개인적인 불만에서 비롯되었는지 여부를 조사 중이라고 덧붙였습니다. 이에 대해 송클라 지방 교육청은...",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "최근 발생한 총격 사건으로 여행객 안전에 대한 우려가 제기될 수 있으며, 특히 핫야이 지역 방문객에게는 더욱 중요. 기존 보도(인질극)에서 상황이 업데이트됨 (체포 완료).",
-      "event_info": {
-        "date": null,
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "핫야이 학교"
-      },
+      "event_info": "{'date': None, 'location': '핫야이', 'price': None, 'location_google_map_query': '핫야이 학교'}",
       "references": [
         {
           "title": "17 Year-Old Gunman Arrested After Three People Injured in School Shooting in Hat Yai",
@@ -3944,23 +3939,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/633516665_1500496338314828_7887246561669434437_n.jpg"
         }
       ],
-      "collected_at": "02:52",
+      "collected_at": "2:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/633516665_1500496338314828_7887246561669434437_n.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://thepattayanews.com/2026/02/11/17-year-old-gunman-arrested-after-three-people-injured-in-school-shooting-in-hat-yai/",
+      "source": ""
     },
     {
       "title": "파타야 경찰, 중국인 납치범 검거 및 피해자 구출",
       "summary": "- 파타야 호텔에서 중국인 남성이 자국민에게 납치되어 몸값 요구를 받음.\n- 촌부리 이민국과 관광 경찰이 합동 작전을 펼쳐 용의자를 체포하고 피해자를 구출함.\n- 피해자는 도박 빚 때문에 납치되었으며, 아내가 이미 일부 금액을 송금한 상태였음.",
       "full_translated": "파타야 경찰이 사우스 파타야 로드에서 떨어진 무 10 지역의 한 호텔에서 중국인 남성을 납치하고 몸값을 요구한 중국인 용의자를 체포하고 피해자를 구출했습니다. 당국은 중국 국적의 33세 남성 량 웨이를 체포하고 피해자인 32세 남성 지타오 류를 구출했습니다. 이번 급습은 촌부리 이민국 나팟퐁 포싯수리야마니 총경, 촌부리 이민국 프라모트 푸앙풍 부총경, 관광 경찰 2구역 4분반 프랍다 숙선트리 중령, 아피찻 차루락 중령이 주도했으며, 촌부리 이민국과 파타야 관광 경찰이 지원했습니다. \n\n사건은 촌부리 이민국이 이민국 범죄 진압과로부터 제보를 받으면서 시작되었습니다. 29세의 중국 여성 리 지안리는 자신의 남편인 지타오 류가 2026년 2월 7일 수완나품 공항에 도착했다고 신고했습니다. 그는 중국인 친구들에 의해 픽업되어 방콕 지역에 머물렀습니다. 신고에 따르면 친구들은 류 씨를 태국에서 불법인 도박을 하도록 데려갔습니다. 2026년 2월 8일, 리 지안리는 텔레그램 앱을 통해 남편으로부터 연락을 받았는데, 그는 도박으로 30만 바트를 잃었다고 주장하며 빚을 갚기 위해 돈을 이체하라고 지시했습니다. 그녀는 요구에 따라 약 3,000 USDT(약 100,000바트 상당)를 디지털 지갑으로 이체했습니다. 2026년 2월 10일 오전 0시 10분경, 류 씨는 다시 아내에게 연락하여 자신의 위치를 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으므로 관련 정보 제공. 다만, 피해자와 가해자가 모두 중국인인 점을 고려하여 점수 조정.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya Police Rescue Chinese National Held for Ransom by Countryman in Hotel Room",
@@ -3969,23 +3961,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260212_003940.jpg?v=1770831631"
         }
       ],
-      "collected_at": "02:52",
+      "collected_at": "2:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260212_003940.jpg?v=1770831631",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://thepattayanews.com/2026/02/12/pattaya-police-rescue-chinese-national-held-for-ransom-by-countryman-in-hotel-room/",
+      "source": ""
     },
     {
       "title": "스리라차 오토바이 부품 창고 도난 사건 발생",
       "summary": "- 스리라차의 오토바이 부품 창고에서 도난 사건 발생\n- 도난 피해액은 20만 바트 이상으로 추정\n- 이전에 여러 차례 도난 사건 발생, 경찰 수사 중",
       "full_translated": "스리라차 중부에서 오토바이 부품 창고가 도둑맞는 사건이 발생했습니다.\n\n사건은 2026년 2월 11일, 스리라차 중심부에 있는 유명 오토바이 판매 및 수리점인 Surat Yan Yon의 이전 경영진 대표인 Sathian Sathianboon Thawi(55세)씨가 오전 9시경 보관된 물품을 점검하기 위해 사업장을 방문했을 때 밝혀졌습니다. 문을 열자마자 그는 혼란스러운 광경을 발견했습니다. 물건들이 바닥에 흩어져 있고, 오토바이 부품 상자가 비워져 버려져 있었으며, 1층과 2층 보관 구역 모두에서 예비 부품 재고가 모두 사라졌습니다. 도둑들은 새 오토바이 부품, 정비공 도구, 오토바이 리프트 스탠드, 사무용품, 심지어 에어컨 장치까지 훔쳐갔습니다. 4년 이상 전에 영업을 중단한 이 가게는 오토바이 예비 부품 창고로만 용도가 변경되었고 일부 사무용 가구는 그대로 있었습니다. 현장에는 전기나 CCTV 카메라가 작동하지 않아 취약했습니다. Sathian 씨는 같은 날 오후 5시경 스리라차 경찰서에 수사관인 Chatphon Phaen Phon 경감에게 경찰 신고서를 제출했습니다. 그는 총 손실액을 20만 바트 이상으로 추정했습니다. 이웃들은 이것이 처음 발생한 사건이 아니라고 밝혔습니다. 도둑들은 여러 번 침입했습니다. 이전 도난 사건에서는 오토바이와 \"살렌(saleng)\"(작은 카트)을 사용하여 물건을 옮겼습니다. 2026년 2월 3일, 목격자들은 픽업 트럭과 살렌을 타고 가게 앞 스쿰윗 도로에 주차하는 무리를 보았습니다. 그들은 대낮에 버젓이 차량에 물건을 실었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 해당 지역 여행 시 주의가 필요할 수 있음.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "스리라차",
-        "price": null,
-        "location_google_map_query": "스리라차"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': '스리라차', 'price': None, 'location_google_map_query': '스리라차'}",
       "references": [
         {
           "title": "Thieves Clear Out Motorcycle Parts Warehouse in Central Sri Racha",
@@ -3993,22 +3982,20 @@
           "source": "The Pattaya News"
         }
       ],
-      "collected_at": "02:52",
-      "date": "2026-02-12"
+      "collected_at": "2:52",
+      "image_url": "",
+      "date": "2026-02-12",
+      "link": "https://thepattayanews.com/2026/02/11/thieves-clear-out-motorcycle-parts-warehouse-in-central-Sri-Racha/",
+      "source": ""
     },
     {
       "title": "파타야 뉴스, 유튜브 채널 개설: 현지 소식 영상으로 확인하세요",
       "summary": "- 파타야 뉴스가 유튜브 채널을 통해 현지 뉴스를 영상으로 제공합니다.\n- 고화질 영상으로 뉴스를 시청하고, 알림을 통해 새로운 콘텐츠를 빠르게 접할 수 있습니다.\n- 정치적 논쟁 없이 사실에 기반한 뉴스를 짧고 명확하게 전달합니다.",
       "full_translated": "YouTube는 세계에서 가장 인기 있는 비디오 플랫폼이며 다른 미디어 플랫폼보다 이점을 제공합니다. YouTube의 비디오는 크고 작은 화면 모두에서 고화질로 볼 수 있습니다. 일부 다른 소셜 미디어 플랫폼은 세로 또는 '세로' 화면 비율을 권장하지만, 이는 촬영 방식이 아닌 경우가 많습니다. 이로 인해 사진의 일부만 보이는 경우가 많습니다. YouTube에서는 이러한 비디오를 올바른 가로 또는 '가로' 형식으로 볼 수 있습니다.\n\nYouTube를 무료로 구독하고 파타야 뉴스가 새로운 콘텐츠를 업로드할 때마다 알림을 받을 수 있습니다. 파타야 뉴스 YouTube 채널을 구독하여 뉴스를 원래 의도대로 시청하세요. 파타야 뉴스 YouTube 채널은 일반적으로 하루에 몇 개의 비디오를 게시하며, 실제 현지 뉴스에 초점을 맞추고 실제 현장 기자들이 촬영합니다. 우리는 사실에 초점을 맞추고 의견을 배제하여 시청자만이 뉴스에 대한 의견을 갖도록 합니다. 또한 논쟁 스타일의 비디오를 믿지 않으므로 시청하는 뉴스가 다른 미디어에서 흔히 볼 수 있는 의견 싸움이 아닌 실제 뉴스임을 확신할 수 있습니다. 또한 보고서를 짧고 간결하며 명확하게 유지하여 시청자에게 알아야 할 사실을 제공하기 위해 일반 영어로 뉴스의 세부 사항을 제공하려고 노력합니다. 마지막으로 시청자가 폭력 및 그래픽 콘텐츠에 대한 다양한 민감도 및 허용 수준을 가지고 있다는 것을 알고 있으므로 일부 시청자를 불쾌하게 할 수 있는 것은 보여주지 않으면서 콘텐츠와 컨텍스트를 제공합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야 관련 정보를 영상으로 쉽게 접할 수 있다는 점에서 여행자에게 소소한 편의를 제공하지만, 직접적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Are You Aware That The Pattaya News is Available on YouTube?",
@@ -4017,23 +4004,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475"
         }
       ],
-      "collected_at": "02:52",
+      "collected_at": "2:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://thepattayanews.com/2026/02/11/are-you-aware-that-the-pattaya-news-is-available-on-youtube/",
+      "source": ""
     },
     {
       "title": "태국 총선 투표용지 보관 규정 강화: 투표 후 최소 2년간 안전하게 보관",
       "summary": "- 태국 선거관리위원회(꼬꼬또.)는 투표가 끝난 투표용지와 관련 서류를 최소 2년간 보관해야 한다고 강조함.\n- 투표용지는 안전하고 투명하게 관리되어야 하며, 검증 가능해야 함.\n- 2069년 2월 11일, 선관위는 투표용지 보관에 대한 국민의 신뢰를 구축하기 위한 홍보를 진행.",
       "full_translated": "태국 선거관리위원회(꺼꺼떠.)는 투표가 끝난 투표용지와 관련 서류를 최소 2년간 보관해야 한다고 재차 강조했습니다. 이는 2069년 2월 11일에 선관위가 국민의 신뢰를 구축하기 위해 홍보한 내용입니다. 2066년 국회의원 선거법 및 개정안 251조에 따르면, 투표 종료 후 7일 이내에 선거구 위원회 또는 위임받은 자는 투표에 사용된 투표용지, 투표용지 원본, 예비 투표용지를 보관해야 합니다. 각 투표소, 읍/면/구역 선거구별로 선거구 위원회가 지정한 장소에 보관하며, 투표함, 투표용지 원본, 남은 투표용지, 서류 및 선거 장비의 발송 보고서를 작성하여 지방 선거관리국장에게 제출해야 합니다. 이러한 절차가 완료되면 투표용지는 지방 선거관리국장의 관리하에 있게 되며, 모든 과정은 지방 선거관리국장의 허가를 받아야 합니다. 폐기 가능한 투표용지, 투표용지 원본 및 관련 서류는 다음과 같습니다...",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 없다고 판단됨. 선거 관련 절차에 대한 내용으로, 일반적인 여행 정보와는 거리가 멀다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. ย้ำมาตรการเก็บรักษาบัตรเลือกตั้งที่นับคะแนนแล้ว ต้องเก็บรักษาไม่น้อยกว่า 2 ปี อย่างปลอดภัย",
@@ -4042,8 +4026,35 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lfqyk91mkyJS.jpg"
         }
       ],
-      "collected_at": "02:52",
+      "collected_at": "2:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lfqyk91mkyJS.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913680",
+      "source": ""
+    },
+    {
+      "title": "태국, 국가 관광 및 글로벌 여행 활성화를 위한 전략적 비자 개혁 시작",
+      "summary": "- 태국 정부가 관광 활성화를 위해 비자 정책을 개혁합니다.\n- 장기 체류 비자 및 도착 비자 요건 완화가 예상됩니다.\n- 자세한 내용은 발표되는 대로 업데이트될 예정입니다.",
+      "full_translated": "태국이 국가 관광 및 글로벌 여행을 활성화하기 위해 전략적 비자 개혁을 시작합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 현재 3시 30분으로, 여행객들이 아침에 정보를 확인할 가능성이 높아 중요도가 높다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Initiates Strategic Visa Reforms to Energize National Tourism and Global Travel - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlBDeC05MWdlTTViRUlLZ0k1ZS1MT1MwWkJfdWhQMWxmOWh6NENTc3phdjZGUElpWWxxSlBYSHk2ZUxYb1JJRjQ5MkVWZHVrX1FZV0RuMEROcjlCY3NxSmR6OUFpaW5XOXJHYzZKSnlWdm1zNzBYR3dEUW93Mm5VemZQUlJJU3JROTZBV3RPUXBCek1Zamt4eTBRRUlCcDhXQ3BOWC1FSEdlVTRzNmdhcktZS0xuc09vWVZVVE0xdEE4TldYa2pQX0pYZ1EwSzJMOUQw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:30",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-12"
     }
   ]
