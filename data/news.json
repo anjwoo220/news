@@ -3818,14 +3818,9 @@
       "summary": "- 2026년 2월 11일 핫야이 지역 학교에서 18세 총격범이 학교장을 쏘고 300명 이상의 학생들을 인질로 잡았습니다.\n- 경찰은 총격범을 체포했으며, 부상당한 교장은 병원으로 이송되었습니다.\n- 용의자는 경찰로부터 M4 소총을 빼앗아 학교로 도주했으며, 과거에도 어머니를 폭행하려 했던 전력이 있습니다.",
       "full_translated": "핫 야이 — 18세의 총격범이 2026년 2월 11일 핫 야이 지역의 한 학교에서 학교장을 총으로 쏴 부상을 입히고 300명 이상의 학생들을 인질로 잡았다고 당국이 밝혔습니다. 사건은 팟통군 팟통 프라탄키리왓 학교에서 16시 30분경에 발생했습니다. 여러 사람이 부상을 입었지만 정확한 숫자는 즉시 확인되지 않았습니다. 경찰은 용의자를 핫 야이 거주자인 케마난 케차로엔(18세)으로 확인했습니다. 수사관들은 학교 공격 이전에 퉁룽 경찰서의 경찰관들이 학교 근처의 한 집에서 18세 남성이 어머니를 폭행하려 한다는 신고에 대응했다고 말했습니다. 경찰관들이 상황을 진정시키려 하는 동안 용의자는 경찰로부터 M4 소총을 빼앗아 학교 구내로 도주한 것으로 알려졌습니다. 그는 보안 부스에 접근하여 경비원을 쏘려고 시도했지만 무기가 고장나 경비원이 도망칠 수 있었습니다. 그런 다음 용의자는 학생들에게 학교장에게 데려가도록 강요하고 두 발의 총을 쏘아 학교장을 다치게 했습니다. 경찰은 나중에 부상당한 학교장을 병원으로 이송했습니다. 학교장의 상태는 공개되지 않았습니다. 당국은 300명 이상의 학생들이 한때 교실 건물 내에 억류되었다고 밝혔습니다. 다른 학생들은 구내를 떠날 수 없었습니다. 핫 야이 경찰, 특수 작전 경찰관 및 구조대원들이 해당 지역을 봉쇄하고 안전 지대에 있는 사람들을 대피시키는 동안 협상가들이 배치되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총격 및 인질극은 여행객 안전에 심각한 위협이 되므로 즉시 알려야 함. 위치 정보가 중요.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "Phatong Prathankhiriwat School, Hat Yai",
-        "price": null,
-        "location_google_map_query": "Phatong Prathankhiriwat School Hat Yai"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': 'Phatong Prathankhiriwat School, Hat Yai', 'price': None, 'location_google_map_query': 'Phatong Prathankhiriwat School Hat Yai'}",
       "references": [
         {
           "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
@@ -3834,23 +3829,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Songkhla.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Songkhla.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.khaosodenglish.com/featured/2026/02/11/teen-gunman-shoots-school-director-takes-300-students-hostage-in-hat-yai/",
+      "source": ""
     },
     {
       "title": "나콘랏차시마: GPS로 추적된 차량 절도범, 차주가 직접 충돌",
       "summary": "- 차주, GPS 추적으로 도난 차량 발견 후 절도범과 대치.\n- 용의자는 도주, 차주는 차량 회수, 오토바이도 발견.\n- 경찰, 용의자 신원 확인 후 체포 작전 개시.",
       "full_translated": "나콘랏차시마 – 61세 남성이 GPS를 통해 도난당한 픽업트럭을 추적한 후 용의 차량에 자신의 차량을 충돌시켰으나, 용의자는 도주했습니다. 사건은 2월 11일 Soeng Sang 지역 Kut Bot 하위 지역 Ban Tha Yiam 마을에서 발생했습니다. Kuekrit Suetrong은 오전 5시경 집 앞에서 자신의 포드 픽업트럭이 없어진 것을 발견했다고 말했습니다. 처음에는 아들이 차를 몰고 출근한 줄 알았으나, 가족들이 모두 집에 있는 것을 확인한 후 도난당한 것을 알게 되었습니다. 차량의 GPS 추적기를 사용하여 약 7km 떨어진 곳에서 픽업트럭이 움직이는 것을 발견했습니다. 그와 그의 아들은 차를 추적하여 주요 도로변에 주차된 것을 발견했고, 한 남성이 번호판을 교체하고 있었다고 합니다. Kuekrit은 용의자를 막기 위해 차량을 충돌시키려 했으나, 용의자가 무기를 소지하고 있는지, 주변이 외딴 지역인지 확인되지 않아 직접 대면하기를 주저했다고 말했습니다. 용의자는 다치지 않고 도망쳤습니다. 그는 용의자를 과거 자신의 리조트에 여러 번 머물렀던 손님으로, 친근한 지인으로 소개했었다고 밝혔습니다. Kuekrit은 픽업트럭을 회수할 수 있었습니다. 도난에 사용된 것으로 추정되는 오토바이도 현장에서 발견되었습니다. 그는 Soeng Sang 경찰에 신고했습니다. 경찰은 용의자를 확인했으며 체포하기 위해 노력하고 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "차량 절도 사건 발생. 여행객 대상 범죄 가능성 및 주의 필요.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "Ban Tha Yiam village, Kut Bot subdistrict, Soeng Sang district, Nakhon Ratchasima",
-        "price": null,
-        "location_google_map_query": "Ban Tha Yiam village, Kut Bot subdistrict, Soeng Sang district, Nakhon Ratchasima"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': 'Ban Tha Yiam village, Kut Bot subdistrict, Soeng Sang district, Nakhon Ratchasima', 'price': None, 'location_google_map_query': 'Ban Tha Yiam village, Kut Bot subdistrict, Soeng Sang district, Nakhon Ratchasima'}",
       "references": [
         {
           "title": "Owner tracks stolen car by GPS, crashes into alleged thief in roadside confrontation",
@@ -3859,23 +3851,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news110463_BQj2YbQdJr1770797570.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news110463_BQj2YbQdJr1770797570.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.khaosodenglish.com/news/2026/02/11/owner-tracks-stolen-car-by-gps-crashes-into-alleged-thief-in-roadside-confrontation/",
+      "source": ""
     },
     {
       "title": "메트로폴리탄 미술관의 반환, 태국 문화재에 미치는 영향",
       "summary": "- 메트로폴리탄 미술관이 태국에 '황금 소년' 등 문화재 반환.\n- 약탈 문화재 반환에 대한 국제적 논의에 중요한 이정표.\n- 메트로폴리탄 미술관의 문화재 반환 노력과 윤리적 책임 강조.",
       "full_translated": "메트로폴리탄 미술관의 반환: 글로벌 미술관 관행을 재편하는 방법\n\n태국에서 황금 소년으로 알려진 서 있는 시바가 2024년에 뉴욕을 떠났을 때, 그것은 소중한 청동을 본국으로 돌려보내는 것 이상이었습니다. 그것은 메트로폴리탄 미술관에서 앙코르 사원에 이르기까지 문화 유산에 대한 더 넓은 재고의 이정표였습니다. 그해 미술관은 16개의 고대 크메르 조각품(캄보디아 왕국에 14개, 태국 왕국에 2개)을 본국으로 송환하기 시작하여 해당 시기와 조사 중인 특정 미술품 거래상과 관련된 모든 작품을 소장품에서 효과적으로 제거했습니다. 카오솟 영어와의 인터뷰에서 메트로폴리탄 미술관의 관장 겸 CEO인 막스 홀라인은 이러한 움직임이 사후 고려가 아닌 지침 원칙으로서 연구와 출신 국가에 대한 미술관의 윤리적 책임의 반영이라고 말했습니다. 그의 발언은 세계에서 가장 영향력 있는 문화 기관 중 하나가 고대 유물 수집의 길고 종종 힘든 역사를 어떻게 탐색하고 있는지 보여줍니다. 홀라인에게 캄보디아와 태국으로의 반환은 예외적인 제스처가 아니라 지속적인 내부 노력의 결과였습니다. 그는 메트로폴리탄 미술관의 문화재 이니셔티브가 소장품에 있는 물건의 역사를 점점 더 면밀히 검토하는 것을 목표로 하는 미술관 작업의 핵심이라고 설명했습니다. 최근 몇 년 동안 메트로폴리탄 미술관은 전담 출처 조사 직원을 늘리고 부서 전체에서 연구를 공식화했습니다. 이러한 노력은 기관 내에서 더 광범위한 변화를 반영합니다. 출처 연구는 더 이상 방치된 것으로 취급되지 않습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 문화재 반환 관련 소식은 태국 문화에 대한 이해를 높이고, 관련 유적지에 대한 관심을 유발할 수 있으므로 여행 관련 정보로 간주할 수 있음. 하지만 직접적인 여행 영향은 크지 않으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Golden Boy and beyond: How The Met’s restitutions are reshaping global museum practice",
@@ -3884,23 +3873,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/max-landscape.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/max-landscape.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.khaosodenglish.com/life/2026/02/11/golden-boy-and-beyond-how-the-mets-restitutions-are-reshaping-global-museum-practice/",
+      "source": ""
     },
     {
       "title": "태국, 130억 바트 규모의 사기 네트워크 자산 동결",
       "summary": "- 태국 돈세탁방지사무국(AMLO)은 벤 스미스, 짐 리악, 천즈, 궈안으로 구성된 사기 네트워크의 자산 130억 바트 이상을 동결하기로 결정함.\n- 이 결정은 국민을 대상으로 한 사기 사건과 관련됨.\n- AMLO는 관련 서류를 검찰에 제출하여 법원에 자산 몰수를 요청할 예정임.",
       "full_translated": "태국 돈세탁방지사무국(AMLO)은 벤 스미스, 짐 리악, 천즈, 궈안으로 구성된 네트워크의 자산 130억 7,400만 바트를 몰수하기 위해 법원에 제출하기로 결의했습니다. 이 사건은 국민 사기와 관련이 있습니다. 2069년 2월 12일, AMLO는 2069년 2월 11일에 열린 제2/2069차 거래 위원회 회의 결과를 발표했습니다. 거래 위원회는 중요한 사건에 대해 검찰에 서류를 제출하기로 결의했습니다. 법원에 자산 몰수를 요청하는 이유는 이해 관계자의 자산 압류 및 압류 취소 요청을 고려한 결과, 압류 및 압류된 자산이 범죄와 관련이 없다는 것을 입증할 만큼 충분한 무게가 없었기 때문입니다. 중요한 4건의 사건은 총 약 130억 7,400만 바트입니다.\n\n1. 땡타이 여사 사건: MR.LEAK YIM, 위린야 여사, MR.SMITH BEN, 캐트리아 여사 등은 피해자를 속였습니다. 정보에 따르면 Jim Leak 씨와 연결되어 있으며, 벤 스미스 씨와 연결되는 거래 정보가 발견되었습니다. 결과: 자산 몰수를 위해 검찰에 서류를 제출했습니다. 토지, 콘도, 자동차, 요트, 은행 계좌 예금 등 총 121억 2,300만 바트 상당의 68건(Y.300 – 302/2568 및 Y.305/2568).\n\n2. 천즈 씨 외: AMLO는 온라인 사기, 인신매매, 디지털 통화를 통한 돈세탁 네트워크 정보를 발견했습니다. 캄보디아에 기반을 둔 다국적 기업인 Prince Group의 설립자이자 회장인 천즈 씨와 연결되어 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "사기 사건 관련 소식으로, 여행객에게 직접적인 영향은 적지만 주의를 환기할 필요가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ปปง. มีมติส่งศาลยึดทรัพย์ 1.3 หมื่นล้าน เครือข่าย “เบน สมิธ-ยิม เลียก-เฉิน จื้อ-ก๊ก อาน”",
@@ -3909,23 +3895,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8uVruyXIAoF.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1h8uVruyXIAoF.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913701",
+      "source": ""
     },
     {
       "title": "아유타야 지역구 선거 재검표 요구",
       "summary": "- 트위웡, 선거 부정 증거 제시하며 선거관리위원회에 재검표 요청.\n- 아유타야 1구역 국회의원 후보, 투표 결과 존중하나 투명성 요구.\n- 선거 과정의 투명성 확보 및 유권자 권리 보호 강조.",
       "full_translated": "트위웡 토트위웡이 득표 집계의 비정상에 대한 증거를 가지고 선거관리위원회(껚따)에 아유타야 1구역 국회의원 선거의 득표수를 다시 집계해 줄 것을 요청했습니다. 그는 선거 결과를 존중하지만 투명성을 요구했습니다. 2569년 2월 11일, 아유타야 1구역 국회의원 후보인 트위웡 토트위웡은 자신이 증거를 수집한 후 선거관리위원회 또는 끄따 주 프라나콘 시 아유타야에 아유타야 1구역 국회의원 선거에서 새로운 득표 집계 및 통합을 명령해 줄 것을 요청했다고 밝혔습니다. 또한, 투표소의 득표 집계 및 통합 과정의 비정상과 득표 집계를 투명하게 만드는 과정에서의 비정상에 대한 증거도 함께 제시했습니다. “저는 선거 결과를 존중합니다. 단지 이번 선거에서 최대한의 투명성과 공정성을 확보하고, 권리를 설명받아야 할 모든 국민의 권리를 보호하고자 할 뿐입니다.” ...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식은 정치적 불안정으로 이어질 수 있으나, 직접적인 여행객 안전에 대한 위협은 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "아유타야",
-        "price": null,
-        "location_google_map_query": "아유타야"
-      },
+      "event_info": "{'date': None, 'location': '아유타야', 'price': None, 'location_google_map_query': '아유타야'}",
       "references": [
         {
           "title": "“ทวิวงศ์” นำหลักฐาน ยื่น กกต. ขอให้นับคะแนน สส.อยุธยา เขต 1 ใหม่",
@@ -3934,8 +3917,133 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2nem3SlS95GbF.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2nem3SlS95GbF.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913678",
+      "source": ""
+    },
+    {
+      "title": "핫야이 학교 총격 사건: 10대 용의자 체포, 3명 부상",
+      "summary": "- 핫야이의 한 학교에서 10대 총격범이 체포됨.\n- 총격으로 교장과 여학생이 부상, 다른 학생은 탈출 시도 중 부상.\n- 용의자는 과거 정신과 치료 이력이 있으며, 범행 동기는 불분명.",
+      "full_translated": "핫야이에서 발생한 학교 총격 사건으로 17세 용의자가 체포되었습니다. 당국에 따르면 정신적으로 불안정하며 최근 정신과 치료를 받았던 이 10대는 9mm 권총을 탈취하기 전 칼로 경찰관을 폭행했습니다. 이후 학교에 들어가 교장과 여학생에게 총을 쏴 부상을 입혔고, 다른 학생은 건물에서 뛰어내려 탈출하려다 다쳤습니다. 용의자는 인질극을 벌이기도 했습니다. 용의자 자신도 대치 과정에서 부상을 입고 핫야이 병원으로 옮겨진 후 경찰에 구금되었습니다. 이번 작전은 나라팁 포이녹 제4군 사령관과 송클라 주지사 라타삿 치드추가 직접 지휘했습니다. 경찰과 군부대는 학교를 포위하여 결국 총격범을 제압하고 인질을 구출했습니다. 관계자들은 용의자가 약물 남용과 관련된 정신과 치료 전력이 있으며 2025년 12월 송클라 라자나가린드라 정신병원에서 퇴원했다고 밝혔습니다. 수사관들은 용의자의 여동생이 같은 학교에 다니고 있지만, 공격 동기는 아직 불분명하다고 밝혔습니다. 송클라 지방 경찰 사령관 테라삭 차이야타Pol. Maj. Gen.은 3명의 피해자가 부상을 입었으며, 그중 2명은 중상을 입었다고 확인했습니다. 그는 용의자의 행동이 학교 직원에 대한 개인적인 불만에서 비롯되었는지 여부를 조사 중이라고 덧붙였습니다. 이에 대해 송클라 지방 교육청은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "최근 발생한 총격 사건으로 여행객 안전에 대한 우려가 제기될 수 있으며, 특히 핫야이 지역 방문객에게는 더욱 중요. 기존 보도(인질극)에서 상황이 업데이트됨 (체포 완료).",
+      "event_info": {
+        "date": null,
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이 학교"
+      },
+      "references": [
+        {
+          "title": "17 Year-Old Gunman Arrested After Three People Injured in School Shooting in Hat Yai",
+          "url": "https://thepattayanews.com/2026/02/11/17-year-old-gunman-arrested-after-three-people-injured-in-school-shooting-in-hat-yai/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/633516665_1500496338314828_7887246561669434437_n.jpg"
+        }
+      ],
+      "collected_at": "02:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/633516665_1500496338314828_7887246561669434437_n.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "파타야 경찰, 중국인 납치범 검거 및 피해자 구출",
+      "summary": "- 파타야 호텔에서 중국인 남성이 자국민에게 납치되어 몸값 요구를 받음.\n- 촌부리 이민국과 관광 경찰이 합동 작전을 펼쳐 용의자를 체포하고 피해자를 구출함.\n- 피해자는 도박 빚 때문에 납치되었으며, 아내가 이미 일부 금액을 송금한 상태였음.",
+      "full_translated": "파타야 경찰이 사우스 파타야 로드에서 떨어진 무 10 지역의 한 호텔에서 중국인 남성을 납치하고 몸값을 요구한 중국인 용의자를 체포하고 피해자를 구출했습니다. 당국은 중국 국적의 33세 남성 량 웨이를 체포하고 피해자인 32세 남성 지타오 류를 구출했습니다. 이번 급습은 촌부리 이민국 나팟퐁 포싯수리야마니 총경, 촌부리 이민국 프라모트 푸앙풍 부총경, 관광 경찰 2구역 4분반 프랍다 숙선트리 중령, 아피찻 차루락 중령이 주도했으며, 촌부리 이민국과 파타야 관광 경찰이 지원했습니다. \n\n사건은 촌부리 이민국이 이민국 범죄 진압과로부터 제보를 받으면서 시작되었습니다. 29세의 중국 여성 리 지안리는 자신의 남편인 지타오 류가 2026년 2월 7일 수완나품 공항에 도착했다고 신고했습니다. 그는 중국인 친구들에 의해 픽업되어 방콕 지역에 머물렀습니다. 신고에 따르면 친구들은 류 씨를 태국에서 불법인 도박을 하도록 데려갔습니다. 2026년 2월 8일, 리 지안리는 텔레그램 앱을 통해 남편으로부터 연락을 받았는데, 그는 도박으로 30만 바트를 잃었다고 주장하며 빚을 갚기 위해 돈을 이체하라고 지시했습니다. 그녀는 요구에 따라 약 3,000 USDT(약 100,000바트 상당)를 디지털 지갑으로 이체했습니다. 2026년 2월 10일 오전 0시 10분경, 류 씨는 다시 아내에게 연락하여 자신의 위치를 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으므로 관련 정보 제공. 다만, 피해자와 가해자가 모두 중국인인 점을 고려하여 점수 조정.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Rescue Chinese National Held for Ransom by Countryman in Hotel Room",
+          "url": "https://thepattayanews.com/2026/02/12/pattaya-police-rescue-chinese-national-held-for-ransom-by-countryman-in-hotel-room/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260212_003940.jpg?v=1770831631"
+        }
+      ],
+      "collected_at": "02:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260212_003940.jpg?v=1770831631",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "스리라차 오토바이 부품 창고 도난 사건 발생",
+      "summary": "- 스리라차의 오토바이 부품 창고에서 도난 사건 발생\n- 도난 피해액은 20만 바트 이상으로 추정\n- 이전에 여러 차례 도난 사건 발생, 경찰 수사 중",
+      "full_translated": "스리라차 중부에서 오토바이 부품 창고가 도둑맞는 사건이 발생했습니다.\n\n사건은 2026년 2월 11일, 스리라차 중심부에 있는 유명 오토바이 판매 및 수리점인 Surat Yan Yon의 이전 경영진 대표인 Sathian Sathianboon Thawi(55세)씨가 오전 9시경 보관된 물품을 점검하기 위해 사업장을 방문했을 때 밝혀졌습니다. 문을 열자마자 그는 혼란스러운 광경을 발견했습니다. 물건들이 바닥에 흩어져 있고, 오토바이 부품 상자가 비워져 버려져 있었으며, 1층과 2층 보관 구역 모두에서 예비 부품 재고가 모두 사라졌습니다. 도둑들은 새 오토바이 부품, 정비공 도구, 오토바이 리프트 스탠드, 사무용품, 심지어 에어컨 장치까지 훔쳐갔습니다. 4년 이상 전에 영업을 중단한 이 가게는 오토바이 예비 부품 창고로만 용도가 변경되었고 일부 사무용 가구는 그대로 있었습니다. 현장에는 전기나 CCTV 카메라가 작동하지 않아 취약했습니다. Sathian 씨는 같은 날 오후 5시경 스리라차 경찰서에 수사관인 Chatphon Phaen Phon 경감에게 경찰 신고서를 제출했습니다. 그는 총 손실액을 20만 바트 이상으로 추정했습니다. 이웃들은 이것이 처음 발생한 사건이 아니라고 밝혔습니다. 도둑들은 여러 번 침입했습니다. 이전 도난 사건에서는 오토바이와 \"살렌(saleng)\"(작은 카트)을 사용하여 물건을 옮겼습니다. 2026년 2월 3일, 목격자들은 픽업 트럭과 살렌을 타고 가게 앞 스쿰윗 도로에 주차하는 무리를 보았습니다. 그들은 대낮에 버젓이 차량에 물건을 실었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 해당 지역 여행 시 주의가 필요할 수 있음.",
+      "event_info": {
+        "date": "2026-02-11",
+        "location": "스리라차",
+        "price": null,
+        "location_google_map_query": "스리라차"
+      },
+      "references": [
+        {
+          "title": "Thieves Clear Out Motorcycle Parts Warehouse in Central Sri Racha",
+          "url": "https://thepattayanews.com/2026/02/11/thieves-clear-out-motorcycle-parts-warehouse-in-central-Sri-Racha/",
+          "source": "The Pattaya News"
+        }
+      ],
+      "collected_at": "02:52",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "파타야 뉴스, 유튜브 채널 개설: 현지 소식 영상으로 확인하세요",
+      "summary": "- 파타야 뉴스가 유튜브 채널을 통해 현지 뉴스를 영상으로 제공합니다.\n- 고화질 영상으로 뉴스를 시청하고, 알림을 통해 새로운 콘텐츠를 빠르게 접할 수 있습니다.\n- 정치적 논쟁 없이 사실에 기반한 뉴스를 짧고 명확하게 전달합니다.",
+      "full_translated": "YouTube는 세계에서 가장 인기 있는 비디오 플랫폼이며 다른 미디어 플랫폼보다 이점을 제공합니다. YouTube의 비디오는 크고 작은 화면 모두에서 고화질로 볼 수 있습니다. 일부 다른 소셜 미디어 플랫폼은 세로 또는 '세로' 화면 비율을 권장하지만, 이는 촬영 방식이 아닌 경우가 많습니다. 이로 인해 사진의 일부만 보이는 경우가 많습니다. YouTube에서는 이러한 비디오를 올바른 가로 또는 '가로' 형식으로 볼 수 있습니다.\n\nYouTube를 무료로 구독하고 파타야 뉴스가 새로운 콘텐츠를 업로드할 때마다 알림을 받을 수 있습니다. 파타야 뉴스 YouTube 채널을 구독하여 뉴스를 원래 의도대로 시청하세요. 파타야 뉴스 YouTube 채널은 일반적으로 하루에 몇 개의 비디오를 게시하며, 실제 현지 뉴스에 초점을 맞추고 실제 현장 기자들이 촬영합니다. 우리는 사실에 초점을 맞추고 의견을 배제하여 시청자만이 뉴스에 대한 의견을 갖도록 합니다. 또한 논쟁 스타일의 비디오를 믿지 않으므로 시청하는 뉴스가 다른 미디어에서 흔히 볼 수 있는 의견 싸움이 아닌 실제 뉴스임을 확신할 수 있습니다. 또한 보고서를 짧고 간결하며 명확하게 유지하여 시청자에게 알아야 할 사실을 제공하기 위해 일반 영어로 뉴스의 세부 사항을 제공하려고 노력합니다. 마지막으로 시청자가 폭력 및 그래픽 콘텐츠에 대한 다양한 민감도 및 허용 수준을 가지고 있다는 것을 알고 있으므로 일부 시청자를 불쾌하게 할 수 있는 것은 보여주지 않으면서 콘텐츠와 컨텍스트를 제공합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야 관련 정보를 영상으로 쉽게 접할 수 있다는 점에서 여행자에게 소소한 편의를 제공하지만, 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Are You Aware That The Pattaya News is Available on YouTube?",
+          "url": "https://thepattayanews.com/2026/02/11/are-you-aware-that-the-pattaya-news-is-available-on-youtube/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475"
+        }
+      ],
+      "collected_at": "02:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국 총선 투표용지 보관 규정 강화: 투표 후 최소 2년간 안전하게 보관",
+      "summary": "- 태국 선거관리위원회(꼬꼬또.)는 투표가 끝난 투표용지와 관련 서류를 최소 2년간 보관해야 한다고 강조함.\n- 투표용지는 안전하고 투명하게 관리되어야 하며, 검증 가능해야 함.\n- 2069년 2월 11일, 선관위는 투표용지 보관에 대한 국민의 신뢰를 구축하기 위한 홍보를 진행.",
+      "full_translated": "태국 선거관리위원회(꺼꺼떠.)는 투표가 끝난 투표용지와 관련 서류를 최소 2년간 보관해야 한다고 재차 강조했습니다. 이는 2069년 2월 11일에 선관위가 국민의 신뢰를 구축하기 위해 홍보한 내용입니다. 2066년 국회의원 선거법 및 개정안 251조에 따르면, 투표 종료 후 7일 이내에 선거구 위원회 또는 위임받은 자는 투표에 사용된 투표용지, 투표용지 원본, 예비 투표용지를 보관해야 합니다. 각 투표소, 읍/면/구역 선거구별로 선거구 위원회가 지정한 장소에 보관하며, 투표함, 투표용지 원본, 남은 투표용지, 서류 및 선거 장비의 발송 보고서를 작성하여 지방 선거관리국장에게 제출해야 합니다. 이러한 절차가 완료되면 투표용지는 지방 선거관리국장의 관리하에 있게 되며, 모든 과정은 지방 선거관리국장의 허가를 받아야 합니다. 폐기 가능한 투표용지, 투표용지 원본 및 관련 서류는 다음과 같습니다...",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 없다고 판단됨. 선거 관련 절차에 대한 내용으로, 일반적인 여행 정보와는 거리가 멀다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. ย้ำมาตรการเก็บรักษาบัตรเลือกตั้งที่นับคะแนนแล้ว ต้องเก็บรักษาไม่น้อยกว่า 2 ปี อย่างปลอดภัย",
+          "url": "https://www.thairath.co.th/news/politic/2913680",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lfqyk91mkyJS.jpg"
+        }
+      ],
+      "collected_at": "02:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lfqyk91mkyJS.jpg",
       "date": "2026-02-12"
     }
   ]
