@@ -1549,8 +1549,23 @@ def render_tab_hotel():
         else:
             city = selected_city
             
+        # --- 📊 실시간 호텔 랭킹 TOP 10 ---
+        hotel_ranking = utils.get_top_places('hotel')
+        if hotel_ranking:
+            with st.expander("🔥 실시간 인기 호텔 TOP 5", expanded=False):
+                for item in hotel_ranking[:5]:
+                    r_col1, r_col2 = st.columns([0.8, 0.2])
+                    with r_col1:
+                        st.markdown(f"**{item['rank']}. {item['name']}** (팩트체크: {item['rating']}/5)  \n<small>{item['badge']}</small>", unsafe_allow_html=True)
+                    with r_col2:
+                        if st.button("보기", key=f"rank_h_{item['rank']}", use_container_width=True):
+                            st.session_state['user_hotel_input'] = item['name']
+                            if 'hotel_candidates' in st.session_state: del st.session_state['hotel_candidates']
+                            st.rerun()
+                st.caption("※ 사용자들의 실제 검색 데이터를 기반으로 한 스마트 랭킹입니다.")
+
         hotel_query = st.text_input(utils.t("hotel_search"), placeholder=utils.t("hotel_placeholder"), key="user_hotel_input", on_change=clear_hotel_cands)
-        
+
         # Search Button
         if st.button(utils.t("hotel_find"), key="btn_hotel_search", type="primary", use_container_width=True):
             if not hotel_query:
@@ -1619,6 +1634,16 @@ def render_tab_hotel():
                          cache_data = cached_result['raw_json']
                          info = cache_data.get('info')
                          analysis = cache_data.get('analysis')
+                         
+                         # 랭킹 데이터 기록 (캐시 히트 시에도 인기 장소이므로 기록)
+                         if info and analysis:
+                             # 팩트체크 점수 계산 (summary_score 평균)
+                             scores = analysis.get('summary_score', {})
+                             if scores:
+                                 fact_score = sum(scores.values()) / len(scores) if scores else info['rating']
+                                 utils.log_search(info['name'], fact_score, 'hotel')
+                             else:
+                                 utils.log_search(info['name'], info['rating'], 'hotel')
                          # 캐시된 아고다 URL 저장 (하이브리드 링크용)
                          if cached_result.get('agoda_url'):
                              st.session_state['cached_agoda_url'] = cached_result['agoda_url']
@@ -1630,6 +1655,17 @@ def render_tab_hotel():
                          
                          if info:
                              analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                             
+                             # 랭킹 데이터 기록
+                             if analysis and not isinstance(analysis, list) and "error" not in analysis:
+                                 scores = analysis.get('summary_score', {})
+                                 if scores:
+                                     fact_score = sum(scores.values()) / len(scores) if scores else info['rating']
+                                     utils.log_search(info['name'], fact_score, 'hotel')
+                                 else:
+                                     utils.log_search(info['name'], info['rating'], 'hotel')
+                             else:
+                                 utils.log_search(info['name'], info['rating'], 'hotel')
                             
                              # If successful, save to cache
                              if analysis and isinstance(analysis, dict) and "error" not in analysis:
@@ -1868,6 +1904,21 @@ def render_tab_food():
     # --- 1단계: 검색 ---
     container = st.container(border=True)
     with container:
+        # --- 📊 실시간 맛집 랭킹 TOP 10 ---
+        food_ranking = utils.get_top_places('food')
+        if food_ranking:
+            with st.expander("🔥 실시간 인기 맛집 TOP 5", expanded=False):
+                for item in food_ranking[:5]:
+                    f_col1, f_col2 = st.columns([0.8, 0.2])
+                    with f_col1:
+                        st.markdown(f"**{item['rank']}. {item['name']}** ({item['rating']})  \n<small>{item['badge']}</small>", unsafe_allow_html=True)
+                    with f_col2:
+                        if st.button("보기", key=f"rank_f_{item['rank']}", use_container_width=True):
+                            st.session_state['restaurant_input'] = item['name']
+                            if "restaurant_search_results" in st.session_state: del st.session_state["restaurant_search_results"]
+                            st.rerun()
+                st.caption("※ 사용자들의 실제 검색 데이터를 기반으로 한 스마트 랭킹입니다.")
+
         r_name = st.text_input(utils.t("searching"), placeholder=utils.t("rest_placeholder"), key="restaurant_input")
         
         search_btn = st.button(utils.t("search_rest"), key="btn_r_search", type="primary", use_container_width=True)
@@ -1911,6 +1962,10 @@ def render_tab_food():
                 # Get Gemini Key for analysis
                 # gemini_key is already global
                 details = utils.get_restaurant_details(selected_restaurant['location_id'], gemini_api_key=gemini_key)
+                
+                if details:
+                    # 랭킹 데이터 기록
+                    utils.log_search(details['name'], details['rating'], 'food')
                 
                 if not details:
                     st.error(utils.t("error_loading_details"))

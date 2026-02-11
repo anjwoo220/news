@@ -10,8 +10,9 @@ import re
 from bs4 import BeautifulSoup
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
-import json
-import os
+import pandas as pd
+import numpy as np
+import csv
 
 # --- 다국어 지원 (Multi-language Support) ---
 UI_TEXT = {
@@ -838,6 +839,105 @@ def get_hotel_link(hotel_name, cached_agoda_url=None):
     search_url = f"https://www.agoda.com/search?cid={AGODA_MARKER_ID}&checkIn=&checkOut=&rooms=1&adults=2&children=0&priceCur=KRW&textToSearch={encoded_name}&travellerType=1&pageTypeId=1"
     
     return (search_url, False)
+
+
+# --- 실시간 검색 랭킹 (Real-time Search Ranking) ---
+
+SEARCH_LOG_FILE = "data/search_log.csv"
+
+def log_search(name, rating, category):
+    """
+    사용자의 검색 내역을 CSV 파일에 저장합니다.
+    Args:
+        name: 호텔 또는 식당 이름
+        rating: 평점 (float)
+        category: 'hotel' 또는 'food'
+    """
+    try:
+        # data 디렉토리 생성이 필요할 수 있음
+        if not os.path.exists("data"):
+            os.makedirs("data")
+            
+        file_exists = os.path.isfile(SEARCH_LOG_FILE)
+        
+        with open(SEARCH_LOG_FILE, mode='a', encoding='utf-8', newline='') as f:
+            writer = csv.writer(f)
+            if not file_exists:
+                writer.writerow(['name', 'rating', 'category', 'timestamp'])
+            
+            writer.writerow([
+                name, 
+                rating, 
+                category, 
+                datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            ])
+        print(f"✅ Logged search: {name} ({category})")
+    except Exception as e:
+        print(f"❌ Logging Error: {e}")
+
+def get_top_places(category, limit=10):
+    """
+    스마트 랭킹 알고리즘을 적용하여 인기 장소 TOP 10을 반환합니다.
+    공식: Final_Score = (평점 - 3.0)^2 * log(검색횟수 + 1)
+    """
+    if not os.path.exists(SEARCH_LOG_FILE):
+        return []
+    
+    try:
+        df = pd.read_csv(SEARCH_LOG_FILE)
+        if df.empty:
+            return []
+            
+        # 카테고리 필터링
+        df = df[df['category'] == category]
+        if df.empty:
+            return []
+            
+        # 1. 장소별 집계 (평균 평점, 검색 횟수)
+        # name으로 그룹화하여 rating 평균과 행 개수(검색 횟수)를 계산
+        stats = df.groupby('name').agg({
+            'rating': 'mean',
+            'name': 'count'
+        }).rename(columns={'name': 'search_count'}).reset_index()
+        
+        # 2. 필터링: 평점 3.5 미만 제외
+        stats = stats[stats['rating'] >= 3.5]
+        
+        if stats.empty:
+            return []
+            
+        # 3. 스코어 계산
+        # 팩트체크 점수(rating)를 최우선으로 반영하고, 검색 횟수는 부차적인 가중치로 사용
+        # 공식: 점수 * 10 + log(검색횟수 + 1)
+        stats['score'] = stats['rating'] * 10 + np.log1p(stats['search_count'])
+        
+        # 4. 정렬 및 상위 N개 추출
+        top_df = stats.sort_values(by='score', ascending=False).head(limit)
+        
+        results = []
+        for i, (_, row) in enumerate(top_df.iterrows()):
+            name = row['name']
+            # 추천 이유 뱃지 로직
+            badge = ""
+            if i == 0:
+                badge = "🔥 믿고 가는 랭킹 1위"
+            elif row['rating'] >= 4.8:
+                badge = "💎 숨은 보석 (평점 4.8+)"
+            elif row['search_count'] >= 5: # 임계값 설정
+                badge = "👀 지금 가장 핫함"
+            
+            results.append({
+                'rank': i + 1,
+                'name': name,
+                'rating': round(row['rating'], 1),
+                'count': int(row['search_count']),
+                'badge': badge
+            })
+            
+        return results
+    except Exception as e:
+        print(f"❌ Ranking Analysis Error: {e}")
+        return []
 
 # ============================================
 # 📘 Blog / Travel Guide Functions
