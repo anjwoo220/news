@@ -2516,7 +2516,7 @@ def render_tab_tour():
 (항공권/숙박 제외, 투어 비용 기준)
 
 👇 예약하러 가기:
-https://thai-today.streamlit.app/"""
+https://thai-today.com"""
                 
                 st.caption("👇 우측 상단 아이콘을 눌러 복사해서 카톡에 붙여넣으세요!")
                 st.code(share_text, language=None)
