@@ -6390,14 +6390,9 @@
       "summary": "- 태국이 2026년부터 시행될 비자 정책 업데이트를 통해 관광객 경험을 혁신할 예정입니다.\n- 새로운 정책은 장기 체류를 장려하고 관광 산업을 활성화하는 데 중점을 둘 것으로 예상됩니다.\n- 구체적인 변경 사항은 아직 발표되지 않았지만, 관광객 유치에 긍정적인 영향을 미칠 것으로 기대됩니다.",
       "full_translated": "Travel And Tour World에 따르면, 태국은 2026년부터 시행될 주요 비자 정책 변경을 통해 관광객 경험을 혁신할 예정입니다. 새로운 정책은 장기 체류를 장려하고 관광 산업을 활성화하는 데 중점을 둘 것으로 예상됩니다. 구체적인 변경 사항은 아직 발표되지 않았지만, 관광객 유치에 긍정적인 영향을 미칠 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요합니다. 2026년부터 적용되는 변경 사항에 대한 정보는 여행 계획에 도움이 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Major Thailand Travel Rules Change: 2026 Visa Policy Update Set to Transform Tourist Experiences - Travel And Tour World",
@@ -6406,23 +6401,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:55",
+      "collected_at": "5:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWlFCaXdjTGxPSVdnNVBIRFVqMWdVekw3bjRvVU1Cd1BFLXhsUmhvUzdTdXJwcXpldHNNaDlvQ2E0aVFvZ0IxaUtYOHBia1JWRFdHTU92QjhlZzViQW5ncWgwNU9MZlRnVVpZZlhDX1hUNmM4WjFuei1iclh3NmtTVXVyVl9nZ090QzI0V21lOEc0Z085M0dHU09ld2hzTmFLbjQ3VkN1cklkV0RUZ1FfU3NWaExIaU1xbExLRVdEQVNEZThTS0ZqSUYxQjh3MENJdG9IdHNmT0JQX1lf?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 춘절 연휴에 태국 여행 집중 공략",
       "summary": "- 태국은 중국 여행객들에게 여전히 인기 있는 여행지임.\n- 그러나 한국, 베트남, 싱가포르 등 경쟁국에 비해 성장률은 둔화될 수 있음.\n- 정치적 분쟁으로 일본 여행을 대체하는 수요가 태국으로 몰릴 수 있다는 분석도 있음.",
       "full_translated": "태국은 다가오는 춘절 기간 동안 중국 여행객들에게 여전히 인기 있는 여행지이지만, 관광 컨설턴트들은 태국이 새로운 매력과 경험을 개발하여 신흥 시장과 경쟁해야 한다고 말했습니다. Dragon Trail International에 따르면 태국과 방콕은 여러 온라인 여행 플랫폼에서 상위 5개 해외 여행지 중 하나입니다. Oxford Economics Company인 Tourism Economics에 따르면 2030년까지 태국은 2019년에 비해 35% 더 많은 중국인 방문객을 맞이할 것으로 예상되지만, 한국, 베트남, 싱가포르 등 지역 경쟁국보다 성장률이 낮습니다. Dragon Trail의 마케팅 및 커뮤니케이션 이사인 Sienna Parulis-Cook은 중국 시장이 9일 간의 연휴 기간 동안 태국에 유망해 보인다고 말했습니다. 그녀는 태국이 정치적 분쟁으로 인해 일본에서 여행을 전환하는 중국인 관광객으로부터 혜택을 받아야 한다고 말했습니다. Parulis-Cook은 \"태국은 해변, 섬, 편안한 여행에 대한 강력한 수요가 있는 인기 있는 전통적인 목적지입니다.\"라고 말했습니다. 태국은 중국 온라인 여행사 Qunar에서 해외 목적지 1위, Mafengwo에서 3위, Tuniu에서 4위를 차지했으며, 방콕은 Tongcheng에서 2위, Flight Master에서 3위를 차지했습니다. Flight Master에 따르면, 태국행 항공편 수는...",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국인 관광객 추세 변화는 태국 여행 시장에 영향을 미치므로 여행객에게 중간 정도의 중요성을 가짐. 춘절 기간 여행 계획에 참고 가능.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chinese target Thailand for New Year travel",
@@ -6431,23 +6423,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965470_700.jpg"
         }
       ],
-      "collected_at": "05:55",
+      "collected_at": "5:55",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965470_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/business/general/3196195/chinese-target-thailand-for-new-year-travel",
+      "source": ""
     },
     {
       "title": "총선 결과, 외국 자금 유입 지속 전망",
       "summary": "- 총선 결과의 명확성이 경제적 신뢰도를 높여 외국 자금 유입이 지속될 것으로 예상됨.\n- 품자이타이당이 194석, 국민당이 116석을 확보하며 정치적 안정성이 강화될 것으로 보임.\n- 새로운 정부는 외국인 직접 투자 유치 및 공공 인프라 지출 가속화에 우선순위를 둘 것으로 예상됨.",
       "full_translated": "태국 주식 시장 분석가들은 결정적인 총선 결과가 정치적 안정성을 강화하고 극단적인 포퓰리즘 정책의 위험을 줄여 재정 규율을 유지함에 따라 외국 자금이 태국으로 계속 유입될 것으로 예상합니다. BBL 자산 관리(BBLAM)의 부사장 겸 투자 조사 책임자인 Isara Ordeedolchest는 예비 결과에서 품자이타이당이 194석으로 압도적인 승리를 거두었고 국민당이 116석으로 그 뒤를 이었다고 밝혔습니다. 선거 관리 위원회(EC)는 60일 이내에 결과를 인증할 것으로 예상됩니다. 그는 \"이번 결과는 향후 몇 년 동안 더욱 안정적인 정치 환경을 반영하여 국내외 투자자 모두의 신뢰를 크게 강화할 것입니다.\"라고 말했습니다. 품자이타이당이 연립 정부를 이끌 태세를 갖춤에 따라 BBLAM은 경제 정책이 공격적인 포퓰리즘보다는 재정 안정성을 지향할 것으로 예상합니다. 즉, 강화된 소비 지원 계획 및 선택적 세금 인센티브와 같은 일부 단기 경기 부양책은 여전히 예상됩니다. 새 행정부는 외국인 직접 투자(FDI) 유치 및 예산 지출 가속화를 포함한 공공 인프라 지출 가속화에 우선순위를 둘 가능성이 높다고 Isara 씨는 말했습니다. 지난 4개월 동안 이전 정부의 정책 연속성은 긍정적으로 간주됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 정치적 안정과 경제 정책 방향에 대한 정보는 여행 관련 사업 및 투자에 간접적인 영향을 미칠 수 있으며, 태국 여행 시 경제 상황에 대한 이해를 높일 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Election result to keep foreign funds flowing",
@@ -6456,23 +6445,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965385_700.jpg"
         }
       ],
-      "collected_at": "05:55",
+      "collected_at": "5:55",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965385_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/business/general/3196085/election-result-to-keep-foreign-funds-flowing",
+      "source": ""
     },
     {
       "title": "2025년 태국 연료 소비량 0.2% 감소: 경제 침체 영향",
       "summary": "- 2025년 태국의 총 연료 소비량이 경제 침체로 인해 전년 대비 0.2% 감소했습니다.\n- 하루 평균 1억 5,485만 리터가 소비되었으며, 이는 경제 성장 둔화와 지속 가능한 에너지에 대한 수요 증가를 반영합니다.\n- 특히 디젤 소비는 2.6% 감소했으며, 천연가스 차량(NGV)은 16.4% 급감한 반면, 항공 연료는 관광 산업 활성화로 7.6% 증가했습니다.",
       "full_translated": "태국 에너지 사업부(DOEB)에 따르면 2025년 태국의 총 연료 소비량은 경제 침체로 인해 전년 대비 0.2% 소폭 감소했습니다. DOEB의 사무총장인 Sarawut Kaewtathip은 작년에 하루 평균 1억 5,485만 리터가 소비되었다고 밝혔습니다. 그는 이러한 감소가 미미해 보일 수 있지만, 제조업 부문이 냉각되고 지속 가능한 에너지에 대한 수요가 증가함에 따라 국가가 차량과 산업에 동력을 공급하는 방식에 상당한 변화를 의미한다고 말했습니다. Sarawut 씨는 \"연료 사용량 감소는 2.2%의 수정된 GDP 성장 전망과 일치합니다.\"라고 말했습니다. 그는 물류의 핵심인 디젤이 하루 6,500만 리터로 2.6% 감소한 주된 이유로 둔화된 3분기와 냉각된 제조업 부문을 지적했습니다. 또한 여러 지역의 심각한 홍수로 인해 하반기 동안 운송 활동이 위축되었습니다. 가장 극적인 변화는 가스 부문에서 발생했습니다. 천연가스 차량(NGV)은 소비자들이 가스 구동 엔진을 기피함에 따라 지속적인 하락세를 보이면서 하루 230만 킬로그램으로 16.4% 급감했습니다. 이는 전국적으로 15개의 NGV 서비스 스테이션 폐쇄로 이어졌습니다. 반대로, 항공 부문은 상업용 항공 연료 사용량이 5.2%의 항공편 증가와 정부 지원 관광 캠페인에 힘입어 7.6% 증가한 1,720만 리터로 증가했습니다. 특히, 업계는 지속 가능한 항공 연료를 통합하기 시작했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국의 경제 상황을 간접적으로 보여주지만, 여행객에게 직접적인 영향은 적습니다. 연료 가격 변동 가능성 정도.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Fuel usage declined 0.2% in 2025",
@@ -6481,23 +6467,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965495_700.jpg"
         }
       ],
-      "collected_at": "05:55",
+      "collected_at": "5:55",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965495_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/business/general/3196225/fuel-usage-declined-02-in-2025",
+      "source": ""
     },
     {
       "title": "태국 소비자 신뢰지수 2월, 3월 상승 전망",
       "summary": "- 태국 상공회의소 대학교(UTCC) 경제 및 비즈니스 예측 센터는 2월과 3월에 소비자 신뢰도가 향상될 것으로 예상함.\n- 이는 안정적인 정부 구성, 실질적인 경제 정책 시행, 대중에게 널리 받아들여지는 내각 구성에 힘입은 결과임.\n- UTCC 조사에 따르면 소비자 신뢰지수는 1월에 52.8로 상승했는데, 이는 수출 증가와 새로운 정부에 대한 낙관론에 기인함.",
       "full_translated": "태국 상공회의소 대학교(UTCC) 경제 및 비즈니스 예측 센터에 따르면 2월과 3월에 소비자 신뢰도가 향상될 것으로 예상됩니다. 이는 안정적인 정부 구성, 실질적인 경제 정책 시행, 대중에게 널리 받아들여지는 내각 구성에 힘입은 결과입니다. UTCC의 조사에 따르면 소비자 신뢰지수는 1월에 52.8로 상승했는데, 이는 지난달의 51.9에서 상승한 수치입니다. 이러한 상승은 수출 증가와 새로운 정부에 대한 낙관론에 기인합니다. UTCC의 Thanavath Phonvichai 회장은 소비자들이 태국의 정치적 상황에 대한 명확성이 확보될 때까지 1분기에는 지출에 신중할 것이라고 말했습니다. 여기에는 정부가 경제를 어떻게 부양하고 안정을 유지할 것인지에 대한 기대감이 포함됩니다. 불확실성에도 불구하고 소비자들은 새로운 정부가 효과적인 경제 부양책을 도입하고 시행할 것으로 기대하고 있습니다. 그는 연립 정부의 안정성, 실질적인 경제 부양 노력, 유능한 경제팀이 중요하다고 말했습니다. 그러나 높은 생활비, 소득과 지출의 불일치, 태국 경제의 더딘 회복은 여전히 소비자들의 주요 관심사입니다. 선거 후와 새로운 정부 수립 후 정치적 불안정에 대한 우려도 있습니다. 또한 UTCC는...",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "소비자 신뢰도 상승은 태국 경제에 대한 간접적인 정보이며, 여행객의 소비심리에 영향을 줄 수 있지만 직접적인 연관성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Consumer confidence to see uptick in February, March",
@@ -6506,8 +6489,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965420_700.jpg"
         }
       ],
-      "collected_at": "05:55",
+      "collected_at": "5:55",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965420_700.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/business/general/3196125/consumer-confidence-to-see-uptick-in-february-march",
+      "source": ""
+    },
+    {
+      "title": "태국, 북유럽 여행객 대상 무비자 체류 기간 단축 계획",
+      "summary": "- 태국이 북유럽 여행객에 대한 무비자 체류 기간 단축을 고려 중입니다.\n- 정확한 변경 사항은 아직 발표되지 않았습니다.\n- 여행 계획에 차질이 없도록 관련 내용을 지속적으로 확인해야 합니다.",
+      "full_translated": "태국이 북유럽 여행객에 대한 무비자 체류 기간을 단축할 계획입니다. 자세한 내용은 아직 발표되지 않았습니다.  Scandasia",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 북유럽 여행객들에게는 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Big change for nordic travellers: Thailand plans to cut visa-free stay - Scandasia",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXNzRkE1bF9pZW5Gb0VpRjY5b0NrNWdIUkFvVDBfclNOYVdYdjdSX3FlODdBeWptakNVOGxGZ3YtS0xWbXQ2V0N1dElyVEVDVExGZHotRlVCX2c3MmVsYmt1STlGSE1ZNTBpZWNVQVNtdnBpcXVienBJTmNmRnh6YUlIOXF2a21QbW9PLW1JT1FMcnBab1pB?oc=5",
+          "source": "Scandasia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국, 관광 활성화를 위해 비자 간소화 추진",
+      "summary": "- 태국 정부는 관광 산업 활성화를 위해 비자 절차 간소화를 고려 중.\n- 구체적인 변경 사항은 아직 발표되지 않음.\n- 여행객 유치를 위한 정부의 추가적인 조치가 기대됨.",
+      "full_translated": "태국은 관광 산업을 활성화하기 위해 비자 절차를 간소화하려고 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요. 특히 태국 여행을 고려하는 한국인에게 유용한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand wants to simplify visas to stimulate tourism - TravelMole",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YS0kyRXQyOEZ6YS1mRkJ0VHFpSUxWSktsaFVOWUNqb0hMUzVnbGtJOU5mbnM3Y1hwNnRhclBvMVdyZGhiQzhSd3RtbG9HSG81ampFbDhqZzR6dlJuNzdsU09Naw?oc=5",
+          "source": "TravelMole",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "10,000명의 말레이시아인, 중국 설 연휴 맞아 태국 방문 예상",
+      "summary": "- MSN에 따르면 중국 설 연휴 기간 동안 약 1만 명의 말레이시아인이 태국을 방문할 것으로 예상됩니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 보입니다.\n- 관련 여행 정보 및 안전에 유의하여 즐거운 여행을 계획하는 것이 중요합니다.",
+      "full_translated": "MSN 보도에 따르면, 다가오는 중국 설 연휴 동안 약 1만 명의 말레이시아인들이 태국을 방문할 것으로 예상됩니다. 이는 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다. 태국 여행을 계획하고 있다면 관련 여행 정보와 안전 수칙을 확인하여 즐거운 여행을 보내시길 바랍니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 설 연휴 기간 동안 태국 방문객 증가 예상은 여행 관련 정보로 중요하며, 여행객들에게 혼잡 및 관련 정보를 제공할 필요가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "10,000 Malaysians expected to visit Thailand for CNY holidays - MSN",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamFNLU91VnNFOWgwTFlaNUx1aUdfSmVkWUpjNHByMmhULUZOc01PNHRtd1lReFBtd3VaRnZBSU1MTFhJVTJGei1jZHRSZFBTaXF3NlF2Um5Wbm16VHc2MTBuVlpmS01YZlVTMzNRS1RRMjhkX2x5R2c5V25LOVFoNGxSMi1pRzducDZ1U3ZZUlFKcGZycWU2VWt0RVprVTlrNl9CdFU0ZlI4Z05yem5j?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "중국인 관광객, 일본 수요 감소로 러시아와 태국 선호 - Nation Thailand",
+      "summary": "- 중국인 관광객들이 일본 여행 수요 감소로 인해 러시아와 태국을 선호하고 있습니다.\n- 이는 지정학적 요인과 경제적 요인이 복합적으로 작용한 결과로 보입니다.\n- 태국은 러시아와 함께 중국인 관광객 유치를 위한 마케팅을 강화할 필요가 있습니다.",
+      "full_translated": "중국인 관광객, 일본 수요 감소로 러시아와 태국 선호 - Nation Thailand",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업에 영향을 미칠 수 있는 변화이므로 여행 관련 정보로 분류, 중국인 관광객 유치 전략에 대한 정보를 제공할 수 있어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese tourists favour Russia and Thailand as Japan demand fades - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hSTEwRVZGWDdHcUM5Rm5DUjUzMDViUktsSXdIeVRlaWdwWk5oc205Zl91NnZFUUN1VDBJd3Exb3V0T3Z4YzUxSVVyZFlpVmJ1clBOTW9ZLWxvSUZsYlk5cVVn?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국 정부, 부패인식지수(CPI) 하락에 강력 대응 예고",
+      "summary": "- 아누틴 총리, CPI 점수 하락에 '낙제점'이라며 강도 높은 개혁 예고\n- 부패인식 개선 위해 법률 및 절차 개정, 투자자 신뢰도 제고 노력\n- PACC 등 관련 기관에 투명성 강화 위한 협력 지시",
+      "full_translated": "태국 정부가 최근 발표된 부패인식지수(CPI)에서 100점 만점에 33점, 116위를 기록한 후 적극적인 개혁을 약속했습니다. 아누틴 차른비라쿨 총리는 이 순위에 대해 '낙제점'이라고 평가했습니다. 그는 목요일 이 점수가 상대적으로 낮아 국내 부패 인식이 높고 투명성이 약함을 나타낸다고 말했습니다. \n\n\"정부는 이러한 조사 결과를 무시하지 않을 것이며 부패 인식이 태국의 국제적 명성을 손상시킬 수 있다는 점에 동의합니다.\" 그는 공공 부문 반부패위원회(PACC) 사무총장을 소환하여 낮은 점수의 배경 요인을 설명하도록 지시했다고 덧붙였습니다. 논의 후 아누틴 총리는 PACC 위원장이 이 문제를 해결하기 위한 조치를 설명했다고 밝혔습니다. 그는 보원삭 우완노 부총리 산하의 PACC에 법 집행을 강화하기 위한 기존 법률 및 장관 규정 개정 또는 새로운 법안 초안 작성을 포함한 법률 및 절차 개혁을 준비하도록 지시했습니다. \n\n아누틴 총리는 부패가 뇌물 수수 외에도 투자자 신뢰를 저해하는 승인 및 라이선스 시스템의 비효율성을 포함한다고 말했습니다. 그는 사업 촉진법의 긴급 시행을 촉구하고 PACC, 자금세탁방지청, 공공 부문 개발위원회 사무국 및 투자위원회를 포함한 기관에 투명성을 강화하기 위한 노력을 조정하도록 지시했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정부의 부패 척결 노력은 장기적으로 투자 환경 개선에 기여할 수 있지만, 단기적으로 여행객에게 직접적인 영향은 크지 않음. 다만, 관련 정책 변화에 따라 사업 환경이 달라질 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "PM takes  aim at low CPI score",
+          "url": "https://www.bangkokpost.com/thailand/general/3196095/pm-takes-aim-at-low-cpi-score",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196095_260213055218_700.jpg"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196095_260213055218_700.jpg",
       "date": "2026-02-13"
     }
   ]
