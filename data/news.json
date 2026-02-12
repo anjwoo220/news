@@ -5884,14 +5884,9 @@
       "summary": "- 일본 슈퍼마켓 체인 LOPIA가 태국에 첫 번째 매장을 오픈하며 동남아시아로 확장했습니다.\n- 센트럴 쳉와타나 쇼핑몰 1층에 위치하며, 육류, 과일, 해산물, 즉석식품 등 다양한 일본 수입 제품을 판매합니다.\n- 일본산 와규와 신선한 해산물로 만든 대형 스시가 주요 제품이며, 합리적인 가격에 고품질 제품을 제공하는 것을 목표로 합니다.",
       "full_translated": "일본 슈퍼마켓 체인 LOPIA가 태국에 첫 번째 매장을 센트럴 쳉와타나에 오픈하며 동남아시아 시장으로 확장했습니다. 이 매장은 쇼핑몰 1층, 약 1,000제곱미터 면적에 자리 잡고 있으며 2월 11일에 공식적으로 문을 열었습니다. LOPIA는 육류, 과일 및 채소, 해산물, 즉석식품, 가공식품 등 5가지 주요 섹션에서 제품을 제공하며 일본 수입품에 중점을 둡니다. 아시아 본부의 이사이자 책임자인 미즈모토 히토시는 회사가 해외 시장에 일본 식품을 제공하는 동시에 합리적인 가격으로 고품질 제품을 제공한다는 원칙을 유지하는 것을 목표로 한다고 밝혔습니다. 매장의 주요 제품으로는 일본에서 수입한 와규와 참치, 가리비와 같은 해산물로 만든 대형 스시가 있습니다. 미즈모토는 회사가 자체적으로 소고기 조달 및 가공을 감독하여 품질 기준을 유지하고 비용을 관리한다고 밝혔습니다. LOPIA는 축산, 식품 제조 및 거래 사업에 관여하는 일본 OIC 그룹 산하에서 운영됩니다. 2025년 2월에 종료되는 회계 연도에 그룹은 5,210억 엔의 매출을 보고했습니다. 슈퍼마켓 체인은 현재 일본에 139개의 지점을 운영하고 있습니다. 태국은 LOPIA의 두 번째 해외 시장이며, 회사는 2023년에 대만으로 확장하기 시작했습니다. 미즈모토는 대만이 국제 성장의 모델이 되었다고 말하면서 태국에서도 비슷한 고객 기반을 구축할 잠재력이 있다고 덧붙였습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 쇼핑 명소 정보. 일본 식재료에 관심 있는 여행객에게 유용할 수 있음.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "센트럴 쳉와타나",
-        "price": "매장 판매 가격에 따름",
-        "location_google_map_query": "Central Chaengwattana"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': '센트럴 쳉와타나', 'price': '매장 판매 가격에 따름', 'location_google_map_query': 'Central Chaengwattana'}",
       "references": [
         {
           "title": "Japan’s LOPIA opens first Thailand store at Central Chaengwattana",
@@ -5900,23 +5895,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/1073762_0.jpg"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/1073762_0.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.khaosodenglish.com/tech/2026/02/12/japans-lopia-opens-first-thailand-store-at-central-chaengwattana/",
+      "source": ""
     },
     {
       "title": "태국 관광청, 한국 여행객에게 '태국 물가 비싸지 않다' 주장",
       "summary": "- 태국 관광청(TAT)은 한국 여행객들에게 태국 물가가 너무 비싸다는 우려를 일축함.\n- 국내 가격은 안정적으로 유지되고 있으며, 환율 변동으로 인한 가격 상승 인식을 지적함.\n- 한국은 태국 방문객 수 5위 국가이며, '힐링은 새로운 럭셔리'라는 슬로건으로 한국 시장을 공략할 예정.",
       "full_translated": "태국 관광청(TAT)은 한국 여행객들에게 태국이 너무 비싸다는 우려를 일축하며 국내 가격은 안정적으로 유지되고 있다고 밝혔습니다. 서울에서 열린 언론 브리핑에서 TAT 관계자들은 한국 시장의 분위기를 주시하고 있다고 밝혔습니다. 한국은 2025년에 약 155만 명의 방문객을 태국에 보내며 세계 5위의 시장입니다. \n\n코리아중앙데일리에 따르면 TAT 임원들은 가격 상승에 대한 인식이 태국의 인플레이션보다는 환율 변동 때문이라고 밝혔습니다. 관계자들은 최근 태국의 소비자 물가 지수가 1월에 전년 대비 하락했다는 데이터를 인용했습니다. TAT는 태국을 휴식, 웰빙 및 체험 여행에 초점을 맞춘 목적지로 재포지셔닝하기 위해 '힐링은 새로운 럭셔리'라는 새로운 슬로건을 홍보하고 있습니다. 또한 'Trusted Thailand' 인증 프로그램을 통해 안전 기준을 강조하고 독립 여행객, 스포츠 훈련 그룹 및 한국의 노년층 골프 관광객을 포함한 틈새 시장을 공략하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광청의 한국 시장 전략 관련 정보로, 여행객에게 유용한 정보라고 판단됨. 물가 관련 오해 해소 및 새로운 슬로건 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand ‘Not Too Expensive’ for Korean travelers, TAT insists",
@@ -5925,23 +5917,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/asian-woman-traveller-take-photo-travel-bangkok-grand-palace-wat-phra-kaew-bangkok.jpg"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/asian-woman-traveller-take-photo-travel-bangkok-grand-palace-wat-phra-kaew-bangkok.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.khaosodenglish.com/life/2026/02/12/thailand-not-too-expensive-for-korean-travelers-tat-insists/",
+      "source": ""
     },
     {
       "title": "이란, 태국과의 양자 관계 개선에 적극적",
       "summary": "- 이란 대사는 태국과의 문화, 정치, 경제 협력 확대를 강조했습니다.\n- 2025년에는 71,000명 이상의 이란인이 태국을 방문하여 인기 관광지임을 입증했습니다.\n- 이란 대사관은 태국에 이란의 역사, 문화, 문명을 소개하기 위한 관광 홍보 행사를 개최할 예정입니다.",
       "full_translated": "이란의 나세르딘 헤이다리 태국 대사에 따르면 이란은 태국과의 양자 협력을 확대하기를 열망하고 있습니다. 그는 이란 이슬람 혁명 47주년을 기념하기 위해 열린 리셉션에서 이같이 밝혔습니다.\n\n헤이다리 대사는 이란과 태국은 셰이크 아마드 꼬미(페르시아 상인이자 종교 학자)가 420년 전 시암에 처음 오면서 우호적인 관계를 유지해 왔으며, 이는 두 문명 간의 최초의 공식적인 문화 및 종교 교류였습니다. 두 나라의 관계가 70년 전에 공식화된 이후, 사람들 간의 교류는 꾸준히 증가했습니다.\n\n헤이다리 대사는 2025년에 71,000명 이상의 이란인이 태국을 방문하여 태국이 이란인들에게 가장 인기 있는 관광지 중 하나임을 입증했다고 말했습니다. 그는 태국을 방문하는 태국인의 수는 수년에 걸쳐 증가했지만, 양국 간의 깊은 뿌리에도 불구하고 그 수치는 비교적 미미하다고 지적했습니다.\n\n그는 \"우리는 관광 홍보 확대를 포함하여 문화, 정치, 경제적 측면에서 양자 협력을 확대하는 데 매우 열심입니다.\"라고 말했습니다. 이란 대사는 이란의 역사, 문화, 문명을 더 많은 태국인에게 소개하기 위해 태국 주재 이란 대사관이 다양한 관광 홍보 행사를 개최할 것이라고 밝혔습니다. 작년 1월에 열린 마지막 행사에는 태국의 30개 이상의 여행사가 참석했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "이란-태국 관계 증진 및 관광객 수 증가는 태국 여행에 잠재적으로 긍정적인 영향을 미칠 수 있습니다. 새로운 소식으로 간주.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tehran keen to improve bilateral ties",
@@ -5950,23 +5939,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195980_700.jpg"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195980_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/general/3195980/tehran-keen-to-improve-bilateral-ties",
+      "source": ""
     },
     {
       "title": "태국 중소기업, 간과할 수 없는 주요 IT 리스크",
       "summary": "- 태국 중소기업은 사이버 위험 증가에 직면하고 있으며, 이는 사업 운영에 심각한 타격을 줄 수 있습니다.\n- 취약한 비밀번호, 보안되지 않은 개인 장치 사용 등 기본적인 보안 문제로 인해 해킹 위험이 높아지고 있습니다.\n- 소셜 엔지니어링 공격 역시 증가하고 있으며, 직원들의 사소한 실수로 인해 계정 및 결제 시스템이 탈취될 수 있습니다.",
       "full_translated": "태국 중소기업들은 가정, 협업 공간, 카페 등에서 운영되는 경우가 많아 사이버 위험 증가에 직면해 있습니다. 이는 침수된 상점이나 배송 손실만큼이나 해로울 수 있습니다. 부주의한 클릭이나 오래된 소프트웨어로 인해 작은 팀의 운영이 중단될 수 있습니다. \n\n비밀번호는 여전히 취약점입니다. 약하거나 재사용된 비밀번호는 비즈니스 네트워크에 침투하는 가장 쉬운 방법 중 하나입니다. 놀랍게도 일부 사람들은 여전히 '123456' 또는 애완 동물 이름을 기본 비밀번호로 사용하고 해킹당하는 이유를 궁금해합니다. 길고 고유한 비밀번호와 2단계 인증(2FA)은 차이를 만들 수 있지만 소규모 회사에서는 종종 무시됩니다. 작은 팀에서 흔히 사용하는 바로 가기인 로그인 공유는 위험을 증가시키고 문제가 발생했을 때 책임을 추적하기 어렵게 만듭니다. 가능한 경우 각 팀 구성원에게 적절한 액세스 수준으로 별도의 계정을 제공하십시오. \n\n밀접하게 관련된 것은 기술적 기술보다 기만에 의존하는 소셜 엔지니어링입니다. 글로벌 연구에 따르면 대부분의 데이터 유출에는 사람의 요소가 포함됩니다. 태국에서는 '고객'의 가짜 전화, 가짜 계정 복구 요청 또는 신뢰할 수 있는 공급업체에서 온 것처럼 보이는 이메일 형태를 취할 수 있습니다. 직원이 '이번 한 번만' 규칙을 어기면 공격자는 계정, 휴대폰 번호 및 결제 시스템을 제어할 수 있습니다. 최근 캄보디아와의 긴장으로 인해",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행 시 사업을 하는 여행객에게 사이버 보안의 중요성을 알리는 정보. 직접적인 여행 안전 관련 뉴스는 아니지만, 비즈니스 관련 잠재적 위험을 인지하도록 돕는다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Top IT risks Thai SMEs cannot afford to ignore",
@@ -5975,23 +5961,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c2_3195895.jpg"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c2_3195895.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/life/tech/3195895/top-it-risks-thai-smes-cannot-afford-to-ignore",
+      "source": ""
     },
     {
       "title": "2026 태국 총선 재검표 요구 확산: 정당성 논란",
       "summary": "- 2026년 2월 8일 총선에 대한 재검표 요구가 일부 유권자들 사이에서 거세지고 있음.\n- 특히 인민당 지지자들은 선거가 조직적으로 조작되었다고 주장하며 전국적인 재검표를 요구하고 있다.\n- 선거 감시단의 부족으로 부정 행위 여부 확인이 어려워, 재검표 요구의 정당성에 대한 논란이 일고 있음.",
       "full_translated": "태국 선거 2026: 전국적인 투표 재검표 요구는 얼마나 정당화될 수 있는가?\n\n재검표. 전국적인 투표 재검표. 선거관리위원회는 사임해야 한다. 새로운 선거를 완전히 실시해야 한다. 이는 일부 유권자들, 특히 2026년 2월 8일 조기 총선이 여기저기서 조작된 것이 아니라 체계적으로 조작되었다고 믿는 인민당 지지자들의 늘어나는 요구이다. 분명히 문제가 있는 지역구 또는 심지어 지방에서의 재검표는 타당하지만, 전국적인 재검표 또는 재선거는? 이는 중대한 사안이며 가볍게 요구해서는 안 된다. 조작이 전국적이고 체계적이었다고 추론하려면 더 광범위한 부정 행위 증거가 필요하다. 불행히도 독립적인 지역 선거 감시단이 많이 배치되지 않았으며, 한 조직은 현장에 50명만 배치했다고 밝혔다. 유권자들이 전국적인 재검표를 요구하려면 훨씬 더 강력한 증거가 있어야 한다. 문제는 많은 지역에 선거 감시단이 없었다는 것이다. 참고로 400개의 지역구가 있었다. 2026년 선거를 감시할 유럽연합 감시단은 없었다. 아시아자유선거네트워크(ANFREL)만 참석했으며 아직 보고서가 발표되지 않았다. 지금까지 전국 76개 주 중 6개 주에서 부정 행위가 보고되었다. 예를 들어 촌부리 1구에서는 지지자들이 많은 투표함이 봉인되지 않은 것을 발견한 후 이틀 연속 투표함에 대한 감시를 계속하고 있다. 촌부리의 상황은 2026년 2월 8일 조기 총선의 무결성에 의문을 제기하는 사람들에게 주요 사례 연구가 되었다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "총선 재검표 요구는 정치적 불안정으로 이어질 수 있으며, 이는 여행객들에게 간접적인 영향을 줄 수 있음. 현재까지는 직접적인 위협이 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Election 2026: How justified is the call for a nationwide vote recount?",
@@ -6000,8 +5983,135 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/ENG-pravit-1202_16x9-2.jpg"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/ENG-pravit-1202_16x9-2.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.khaosodenglish.com/featured/2026/02/12/thailand-election-2026-how-justified-is-the-call-for-a-nationwide-vote-recount/",
+      "source": ""
+    },
+    {
+      "title": "온라인 단속으로 국경을 넘나드는 무기 밀매단 적발",
+      "summary": "- 태국 경찰이 국경을 넘나드는 무기 밀매 네트워크를 적발하고 3명을 체포했습니다.\n- 이들은 M16 소총과 수류탄 등 군용 무기를 판매한 혐의를 받고 있습니다.\n- 용의자들은 온라인을 통해 무기를 거래했으며, 경찰은 압수수색을 통해 다량의 무기를 확보했습니다.",
+      "full_translated": "나콘시탐마랏 — 2026년 2월 12일, 태국 경찰이 국경을 넘나드는 무기 밀매 네트워크를 적발하고, M16 소총과 수류탄 등 군용 무기를 태국 전역과 태국 서부 국경을 따라 구매자에게 판매한 혐의로 3명을 체포했다고 목요일에 밝혔습니다. 경찰 고위 관계자들은 수도 경찰청, 제8지방경찰청, 지방 수사관, 카팡 경찰서 경찰관들과 함께 나콘시탐마랏 지방 경찰 본부에서 체포 사실을 발표했습니다. 용의자 3명은 23세에서 26세 사이로 모두 나콘시탐마랏 지방 퉁송 지역 출신이며, 경찰은 이들이 온라인 무기 거래 네트워크를 운영했다고 밝혔습니다. 체포는 수도 경찰의 수사에 따른 것으로, 경찰은 온라인으로 무기를 구매하기 위해 위장 작전을 수행했습니다. 용의자들의 혐의 연루가 확인된 후, 경찰은 수색 영장을 발부받아 카팡 경찰 관할 구역 내의 부동산을 급습했습니다. 경찰은 M16A1 돌격 소총 2정, MK12 산탄총 1정, .22 구경 소총 1정, 현지 제작 산탄총 2정, .38 구경 권총 1정, .22 구경 권총 1정, 쌍발 산탄총 1정을 포함한 무기를 압수했습니다. 경찰은 또한 M67 파편 수류탄 2개와 약 300발의 각종 탄약을 압수했습니다. 당국은 급습 과정에서 마약도 발견되었다고 밝혔습니다. 나콘시탐마랏 지방 경찰 청장 대행인 폰차이 카종클리앙 총경은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 무기 밀매 조직 적발은 여행객 안전에 간접적인 영향을 미칠 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "나콘시탐마랏",
+        "price": null,
+        "location_google_map_query": "Nakhon Si Thammarat"
+      },
+      "references": [
+        {
+          "title": "Online sting leads to cross-border arms ring dismantled",
+          "url": "https://www.khaosodenglish.com/news/2026/02/12/online-sting-leads-to-cross-border-arms-ring-dismantled/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Online-sting-leads-to-cross-border-arms-ring-dismantled.jpg"
+        }
+      ],
+      "collected_at": "03:25",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Online-sting-leads-to-cross-border-arms-ring-dismantled.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "푸껫 경찰, 고급 빌라에서 러시아 포커 도박장 급습",
+      "summary": "- 푸껫에서 러시아인이 운영하는 불법 포커 도박장이 급습되어 외국인 9명이 체포되었습니다.\n- 경찰은 온라인 광고를 통해 외국인들을 모집, 참가비 2만 바트를 받고 도박을 진행한 것으로 밝혔습니다.\n- 현금, 도박 테이블, 카드, 칩, 휴대폰 및 컴퓨터 등의 전자 장비가 압수되었습니다.",
+      "full_translated": "푸껫 — 2026년 2월 12일, 태국 남부 푸껫 섬 경찰이 고급 빌라에서 운영 중인 불법 러시아인 운영 포커 도박장을 급습하여 외국인 9명을 체포했다고 밝혔습니다. 찰롱 경찰서 수사관들은 러시아어로 작성된 \"Poker Level\"이라는 Instagram 계정에서 온라인 광고를 발견했는데, 외국인들을 푸껫 무앙 지역 라와이 하위 지역의 포커 게임에 초대하고 있었습니다. 경찰은 관심 있는 사람들은 Instagram의 링크를 따라 WhatsApp을 통해 연락해야 한다고 밝혔습니다. 당국은 외국인만 허용되었다고 밝혔습니다. 게임은 부동산 도박과 관련되어 있었고, 베팅은 태국 바트와 암호화폐로 이루어졌습니다. 참가자들은 게임에 참여하기 전에 세션당 2만 바트의 참가비를 지불해야 했으며, 게임은 라와이의 고급 빌라 내부에서 비밀리에 개최된 것으로 알려졌습니다. 2월 11일, 경찰은 또 다른 도박 세션이 열릴 예정이라는 정보를 입수했습니다. 경찰은 해당 건물 주변을 감시했고, 내부에서 불이 켜져 있고 사람들이 포커를 치는 데 몰두하고 있는 것을 확인했습니다. 경찰은 건물에 진입하여 재산을 수색하고 러시아 국적 7명, 우크라이나 국적 1명, 카자흐스탄 국적 1명 등 9명의 용의자를 체포했습니다. 당국은 현금, 도박 테이블, 카드, 현금 가치 칩, 휴대폰 및 컴퓨터를 포함한 전자 장비를 압수했습니다. 경찰은 수사를 확대하기 위해 장치를 조사할 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 대상 범죄 발생 및 단속 정보로 여행 시 주의를 요함.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 라와이",
+        "price": "20000 바트 (참가비)",
+        "location_google_map_query": "Rawai, Phuket"
+      },
+      "references": [
+        {
+          "title": "Phuket police raid Russian poker den in villa",
+          "url": "https://www.khaosodenglish.com/news/2026/02/12/phuket-police-raid-russian-poker-den-in-villa/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Phuket-police-raid-Russian-poker-den-in-villa.jpg"
+        }
+      ],
+      "collected_at": "03:25",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Phuket-police-raid-Russian-poker-den-in-villa.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "파타야, 중국 설 축제 앞두고 나클루아 '텅랑' 등불 장식 점검",
+      "summary": "- 파타야 시 관계자들이 중국 설 축제를 앞두고 나클루아 지역의 '텅랑' 등불 장식 설치 상황을 점검했습니다.\n- 2026년 파타야 중국 설 축제는 2월 10일부터 24일까지 란포 공원, 워킹 스트리트 입구, 시청 다목적 광장 등에서 다채로운 행사와 함께 진행됩니다.\n- 관계자들은 란포 공원의 등불 장식이 거의 완료되었으며, 축제 분위기를 고조시킬 것으로 기대한다고 밝혔습니다.",
+      "full_translated": "파타야 시 의회 의원 및 관련 정부 부서장들과 함께 시 관계자들은 설치 작업이 순조롭게 진행되고 있는지, 그리고 축제에 대한 시의 기준을 충족하는지 확인하는 데 중점을 두었습니다. 중국 설은 깊은 문화적 가치, 효도, 행운, 상서로운 시작을 구현하는 중국계 태국인들에게 중요한 전통으로 남아 있습니다. 음력에 따른 새해의 시작을 알리는 시기로, 가족 상봉과 대대로 전해 내려오는 소중한 관습을 이어가는 시간입니다. 파타야 시는 문화적으로나 주요 관광 명소로서 축제의 중요성을 인식하여 \"파타야 중국 설 축제 2026\"을 개최합니다. 이 행사에는 붉은색 \"텅랑\" 등불, 다채로운 조명이 있는 조명 체크인 장소, 축제 분위기를 조성하도록 설계된 문화 테마 조각품이 있습니다. 장식은 다음 세 곳의 주요 위치에 설치되었습니다. - 나클루아에 있는 란포 공원 입구 아치 - 워킹 스트리트 입구 - 파타야 시청 다목적 광장 축제 디스플레이는 2026년 2월 10일부터 24일까지 방문객들이 즐기고 사진을 찍을 수 있으며, 중국 설 기간 동안 기억에 남는 순간을 제공합니다. 점검 중에 관계자들은 나클루아 지역의 등불 장식이 대부분 완료되었으며 란포 공원에서만 약간의 마무리 세부 사항이 남아 있음을 발견했습니다. 이 랜드마크는 상당한 기쁨을 더할 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 열리는 중국 설 축제 정보는 여행객들에게 유용할 수 있습니다. 특히, 위치 및 기간 정보는 방문 계획에 도움이 될 것입니다.",
+      "event_info": {
+        "date": "2026-02-10 ~ 2026-02-24",
+        "location": "란포 공원, 워킹 스트리트 입구, 파타야 시청 다목적 광장",
+        "price": "무료",
+        "location_google_map_query": "파타야 란포 공원"
+      },
+      "references": [
+        {
+          "title": "Pattaya Officials Inspect ‘Teng Lang’ Lantern Decorations in Na Kluea Ahead of Chinese New Year Festival",
+          "url": "https://thepattayanews.com/2026/02/12/pattaya-officials-inspect-teng-lang-lantern-decorations-in-na-kluea-ahead-of-chinese-new-year-festival/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17708870628607421489342724383442.jpg?v=1770887139"
+        }
+      ],
+      "collected_at": "03:25",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17708870628607421489342724383442.jpg?v=1770887139",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "카오키여우 오픈 동물원, 중국 설날 및 발렌타인 데이 기념 아기 여우원숭이 공개",
+      "summary": "- 카오키여우 오픈 동물원에서 2026년 2월 4일에 태어난 아기 여우원숭이 공개.\n- 어미 '온 완'(3세)과 아비 '니키'(7세) 사이에서 태어난 수컷 아기.\n- 2월 13일부터 17일까지 중국 설날 및 발렌타인 데이 기념 'LOVE & HENG' 행사 진행.",
+      "full_translated": "카오키여우 오픈 동물원의 나롱윗 촛초이 원장에 따르면, 동물원의 새로운 식구는 2026년 2월 4일에 태어난 수컷 아기 여우원숭이입니다. 아기의 어미는 '온 완'(달콤함)이라는 이름의 3살이고, 아비는 '니키'라는 이름의 7살입니다. 2월 12일, 아기는 여우원숭이 섬 전시장에서 무리와 함께 먹이를 먹으며 대중에게 처음 공개되었습니다. 수의사 스태프는 건강 검진을 실시하여 아기가 매우 건강하고 어미의 보살핌을 잘 받고 있음을 확인했습니다. 사랑스러운 아기는 종종 어미의 가슴이나 등에 매달려 있고, 가끔 내려와 놀거나, 오르거나, 나뭇가지 사이에서 장난스럽고 짓궂은 행동을 보여 방문객들을 귀여움으로 사로잡습니다. 이번 새 식구의 등장으로 동물원은 현재 총 21마리의 여우원숭이를 보유하게 되어 인기 있는 전시장에 더욱 흥미를 더하고 있습니다. 중국 설날과 발렌타인 데이의 이중 축하를 기념하기 위해 카오키여우 오픈 동물원은 2026년 2월 13일부터 17일까지 특별한 'LOVE & HENG' 행사를 시작합니다. 이 행사는 모든 손님에게 사랑, 행복, 행운을 전파하기 위한 것입니다. 주요 내용은 다음과 같습니다. - 행운과 번영을 가져다주는 '번영의 황금 말'을 특징으로 하는 사진 체크인 장소. 특별 혜택: 말띠 해에 태어난 방문객(중국 띠에 따라 나이가 많은 사람)은 입장료 20% 할인(태국 성인만 해당). - 커플을 위한 로맨틱 활동: 함께 사진을 찍는 첫 20쌍은 체크인...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 동물원 소식 및 행사 정보 제공. 가족 단위 여행객에게 유용할 수 있음.",
+      "event_info": {
+        "date": "2026-02-13 ~ 2026-02-17",
+        "location": "Khao Kheow Open Zoo",
+        "price": "입장료 별도 (말띠 20% 할인)",
+        "location_google_map_query": "Khao Kheow Open Zoo"
+      },
+      "references": [
+        {
+          "title": "Khao Kheow Open Zoo Welcomes Adorable Baby Ring-Tailed Lemur to Celebrate Chinese New Year and Valentine’s Day with LOVE & HENG Activities",
+          "url": "https://thepattayanews.com/2026/02/12/khao-kheow-open-zoo-welcomes-adorable-baby-ring-tailed-lemur-to-celebrate-chinese-new-year-and-valentines-day-with-love-heng-activities/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17708851028371348786054917707620.jpg?v=1770885164"
+        }
+      ],
+      "collected_at": "03:25",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17708851028371348786054917707620.jpg?v=1770885164",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "촌부리 투표함 개봉 활동가, 선거 방해 의도 없었다며 사과",
+      "summary": "- 촌부리에서 투표함이 제대로 봉인되지 않았음을 증명하려 했다고 주장하며 활동가가 사과함.\n- 선거법 위반 혐의로 기소되었으며, 유죄 판결 시 징역형 및 벌금형에 처해질 수 있음.\n- 해당 사건은 촌부리 시립 배드민턴 코트에서 발생했으며, 경찰이 수사 중임.",
+      "full_translated": "촌부리에서 투표함을 개봉한 활동가인 벤자폰 씨가 선거법 위반 혐의로 기소된 후 동료 활동가와 지지자들에게 무릎 꿇고 사과했습니다. 그녀는 자신의 행동이 투표함이나 내용물을 훼손하려는 의도가 아니라, 태국 선거관리위원회(ECT)의 발표와 달리 투표함이 제대로 봉인되지 않았음을 언론과 대중에게 보여주기 위한 것이었다고 밝혔습니다.\n\n벤자폰 씨는 기자 회견에서 “운동 동지들에게 사과드립니다. 제 의도는 투표함이 잠겨 있거나 봉인되지 않았다는 것을 보여주기 위한 것뿐이었습니다. 어떤 법률도 위반하거나 내부 문서에 해를 끼칠 의도는 없었습니다.”라고 말했습니다.\n\n사건은 촌부리 1구역의 투표함이 개표 후 보관되어 있던 촌부리 시립 배드민턴 코트에서 발생했습니다. 벤자폰 씨가 해당 구역에 들어가 투표함을 개봉한 것으로 알려졌으며, 이에 선거관리위원인 프라윤 와타나시리분종 씨는 2026년 2월 11일 경찰에 고소장을 제출했습니다.\n\n그녀는 하원 의원 선거에 관한 유기법 B.E. 2561 (2018)에 따라 투표함 또는 관련 선거 자료를 개봉, 손상, 변경 또는 무용지물로 만드는 행위 및 불법 침입 혐의로 기소되었습니다. 유죄 판결 시 1년에서 10년의 징역형, 20,000에서 200,000바트의 벌금형, 최대 20년의 투표권 박탈 등의 처벌을 받을 수 있습니다. 심각한 혐의에도 불구하고,",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식이지만, 여행객에게 직접적인 위협은 아니므로 중간 점수 부여. 촌부리 지역에 머무는 여행객은 참고할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리 시립 배드민턴 코트",
+        "price": null,
+        "location_google_map_query": "Chonburi Municipality badminton court"
+      },
+      "references": [
+        {
+          "title": "Activist Apologizes for Opening Ballot Box in Chonburi, Insists Intent Was to Prove It Was Not Sealed, Not to Disrupt Election Process or Results",
+          "url": "https://thepattayanews.com/2026/02/12/activist-apologizes-for-opening-ballot-box-in-chonburi-insists-intent-was-to-prove-it-was-not-sealed-not-to-disrupt-election-process-or-results/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770653379250.jpg?v=1770888837"
+        }
+      ],
+      "collected_at": "03:25",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770653379250.jpg?v=1770888837",
       "date": "2026-02-13"
     }
   ]
