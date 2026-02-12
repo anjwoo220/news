@@ -5,6 +5,11 @@ from datetime import datetime, timedelta
 import time
 import json
 import os
+# import certifi
+# os.environ["SSL_CERT_FILE"] = certifi.where()
+import certifi
+import os
+os.environ["SSL_CERT_FILE"] = certifi.where()
 import requests
 import re
 from bs4 import BeautifulSoup
@@ -13,6 +18,8 @@ from oauth2client.service_account import ServiceAccountCredentials
 import pandas as pd
 import numpy as np
 import csv
+from streamlit_gsheets import GSheetsConnection
+import streamlit as st
 
 # --- 다국어 지원 (Multi-language Support) ---
 UI_TEXT = {
@@ -4393,7 +4400,83 @@ def recommend_tours(who, style, budget, region="방콕"):
         return None
 
 # --- 3. 데이터 로드 및 저장 (Data Handling) ---
+
+# 구글 시트 URL (투어 데이터베이스)
+TOURS_SHEET_URL = "https://docs.google.com/spreadsheets/d/186j6qGv1PYmaxUhVDihErGjlFvQfSHERt-4udzrxsHQ/edit?usp=sharing"
+TOURS_SHEET_NAME = "시트1"
+
+def load_tours_from_sheet():
+    """
+    Load tours from Google Sheets.
+    Returns: List of tour dictionaries or None on failure.
+    """
+    try:
+        conn = st.connection("gsheets_tours", type=GSheetsConnection)
+        df = conn.read(spreadsheet=TOURS_SHEET_URL, worksheet=TOURS_SHEET_NAME)
+        
+        # Convert DataFrame to list of dicts
+        tours = df.to_dict('records')
+        
+        # Post-process: 'type' column (string -> list)
+        for t in tours:
+            if isinstance(t.get('type'), str):
+                t['type'] = [x.strip() for x in t['type'].split(',') if x.strip()]
+            elif not t.get('type'):
+                t['type'] = []
+                
+            # Ensure ID is int
+            if 'id' in t:
+                try:
+                    t['id'] = int(t['id'])
+                except:
+                    pass
+            
+            # Ensure price is string (sometimes read as float/int)
+            if 'price' in t:
+                t['price'] = str(t['price'])
+
+        return tours
+    except Exception as e:
+        st.error(f"구글 시트 로드 실패: {e}")
+        print(f"Error loading tours from sheet: {e}")
+        return None
+
+def save_tours_to_sheet(tours_data):
+    """
+    Save tours to Google Sheets.
+    Args:
+        tours_data: List of tour dictionaries
+    """
+    try:
+        # Convert list back to DataFrame
+        df = pd.DataFrame(tours_data)
+        
+        # Pre-process: 'type' list -> string
+        if 'type' in df.columns:
+            df['type'] = df['type'].apply(lambda x: ",".join(x) if isinstance(x, list) else str(x))
+            
+        conn = st.connection("gsheets_tours", type=GSheetsConnection)
+        conn.update(spreadsheet=TOURS_SHEET_URL, worksheet=TOURS_SHEET_NAME, data=df)
+        return True
+    except Exception as e:
+        st.error(f"구글 시트 저장 실패: {e}")
+        print(f"Error saving tours to sheet: {e}")
+        return False
+
 def load_tours():
+    """Load tours from Google Sheets (primary) or local JSON (fallback)"""
+    # 1. Try Google Sheets
+    sheet_tours = load_tours_from_sheet()
+    if sheet_tours:
+        # Update local cache
+        save_tours_local(sheet_tours)
+        return sheet_tours
+        
+    # 2. Fallback to Local
+    print("Fallback to local tours.json")
+    return load_tours_local()
+
+def load_tours_local():
     """Load tours from data/tours.json"""
     try:
         with open('data/tours.json', 'r', encoding='utf-8') as f:
@@ -4402,9 +4485,24 @@ def load_tours():
         return []
 
 def save_tours(tours):
+    """Save tours to Google Sheets AND local JSON"""
+    # 1. Save to Sheet
+    success = save_tours_to_sheet(tours)
+    
+    # 2. Save to Local (Cache)
+    save_tours_local(tours)
+    
+    if not success:
+        print("Warning: Failed to save to Google Sheet, but saved locally.")
+
+def save_tours_local(tours):
     """Save tours to data/tours.json"""
-    with open('data/tours.json', 'w', encoding='utf-8') as f:
-        json.dump(tours, f, ensure_ascii=False, indent=2)
+    try:
+        os.makedirs(os.path.dirname('data/tours.json'), exist_ok=True)
+        with open('data/tours.json', 'w', encoding='utf-8') as f:
+            json.dump(tours, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print(f"Error saving local tours: {e}")
 
 # 지역별 클룩 제휴 링크 (상수)
 CITY_LINKS = {

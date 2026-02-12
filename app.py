@@ -3870,8 +3870,19 @@ if app_mode == "Admin Console":
         # --- Tab 12: Tour Management (New) ---
         with tab12:
             st.subheader("🎒 투어 상품 데이터 관리")
-            st.info("데이터는 `data/tours.json` 파일에 저장됩니다.")
+            st.info(f"데이터는 **Google Sheets**와 `data/tours.json`에 이중 저장됩니다.\n시트: `{utils.TOURS_SHEET_NAME}`")
             
+            if st.button("🔄 Google Sheets 데이터 강제 동기화"):
+                with st.spinner("구글 시트에서 데이터를 불러오는 중..."):
+                    loaded = utils.load_tours_from_sheet()
+                    if loaded:
+                        utils.save_tours_local(loaded)
+                        st.success("동기화 완료! 페이지가 새로고침됩니다.")
+                        time.sleep(1)
+                        st.rerun()
+                    else:
+                        st.error("동기화 실패 (로그 확인)")
+
             try:
                 TOURS = utils.load_tours()
                 REGION_OPTIONS = utils.REGION_OPTIONS
