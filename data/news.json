@@ -6500,14 +6500,9 @@
       "summary": "- 태국이 북유럽 여행객에 대한 무비자 체류 기간 단축을 고려 중입니다.\n- 정확한 변경 사항은 아직 발표되지 않았습니다.\n- 여행 계획에 차질이 없도록 관련 내용을 지속적으로 확인해야 합니다.",
       "full_translated": "태국이 북유럽 여행객에 대한 무비자 체류 기간을 단축할 계획입니다. 자세한 내용은 아직 발표되지 않았습니다.  Scandasia",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 북유럽 여행객들에게는 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Big change for nordic travellers: Thailand plans to cut visa-free stay - Scandasia",
@@ -6516,23 +6511,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:21",
+      "collected_at": "6:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOXNzRkE1bF9pZW5Gb0VpRjY5b0NrNWdIUkFvVDBfclNOYVdYdjdSX3FlODdBeWptakNVOGxGZ3YtS0xWbXQ2V0N1dElyVEVDVExGZHotRlVCX2c3MmVsYmt1STlGSE1ZNTBpZWNVQVNtdnBpcXVienBJTmNmRnh6YUlIOXF2a21QbW9PLW1JT1FMcnBab1pB?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 관광 활성화를 위해 비자 간소화 추진",
       "summary": "- 태국 정부는 관광 산업 활성화를 위해 비자 절차 간소화를 고려 중.\n- 구체적인 변경 사항은 아직 발표되지 않음.\n- 여행객 유치를 위한 정부의 추가적인 조치가 기대됨.",
       "full_translated": "태국은 관광 산업을 활성화하기 위해 비자 절차를 간소화하려고 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요. 특히 태국 여행을 고려하는 한국인에게 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand wants to simplify visas to stimulate tourism - TravelMole",
@@ -6541,23 +6533,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:21",
+      "collected_at": "6:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YS0kyRXQyOEZ6YS1mRkJ0VHFpSUxWSktsaFVOWUNqb0hMUzVnbGtJOU5mbnM3Y1hwNnRhclBvMVdyZGhiQzhSd3RtbG9HSG81ampFbDhqZzR6dlJuNzdsU09Naw?oc=5",
+      "source": ""
     },
     {
       "title": "10,000명의 말레이시아인, 중국 설 연휴 맞아 태국 방문 예상",
       "summary": "- MSN에 따르면 중국 설 연휴 기간 동안 약 1만 명의 말레이시아인이 태국을 방문할 것으로 예상됩니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 보입니다.\n- 관련 여행 정보 및 안전에 유의하여 즐거운 여행을 계획하는 것이 중요합니다.",
       "full_translated": "MSN 보도에 따르면, 다가오는 중국 설 연휴 동안 약 1만 명의 말레이시아인들이 태국을 방문할 것으로 예상됩니다. 이는 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다. 태국 여행을 계획하고 있다면 관련 여행 정보와 안전 수칙을 확인하여 즐거운 여행을 보내시길 바랍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국 설 연휴 기간 동안 태국 방문객 증가 예상은 여행 관련 정보로 중요하며, 여행객들에게 혼잡 및 관련 정보를 제공할 필요가 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "10,000 Malaysians expected to visit Thailand for CNY holidays - MSN",
@@ -6566,23 +6555,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:21",
+      "collected_at": "6:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamFNLU91VnNFOWgwTFlaNUx1aUdfSmVkWUpjNHByMmhULUZOc01PNHRtd1lReFBtd3VaRnZBSU1MTFhJVTJGei1jZHRSZFBTaXF3NlF2Um5Wbm16VHc2MTBuVlpmS01YZlVTMzNRS1RRMjhkX2x5R2c5V25LOVFoNGxSMi1pRzducDZ1U3ZZUlFKcGZycWU2VWt0RVprVTlrNl9CdFU0ZlI4Z05yem5j?oc=5",
+      "source": ""
     },
     {
       "title": "중국인 관광객, 일본 수요 감소로 러시아와 태국 선호 - Nation Thailand",
       "summary": "- 중국인 관광객들이 일본 여행 수요 감소로 인해 러시아와 태국을 선호하고 있습니다.\n- 이는 지정학적 요인과 경제적 요인이 복합적으로 작용한 결과로 보입니다.\n- 태국은 러시아와 함께 중국인 관광객 유치를 위한 마케팅을 강화할 필요가 있습니다.",
       "full_translated": "중국인 관광객, 일본 수요 감소로 러시아와 태국 선호 - Nation Thailand",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업에 영향을 미칠 수 있는 변화이므로 여행 관련 정보로 분류, 중국인 관광객 유치 전략에 대한 정보를 제공할 수 있어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chinese tourists favour Russia and Thailand as Japan demand fades - Nation Thailand",
@@ -6591,23 +6577,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:21",
+      "collected_at": "6:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hSTEwRVZGWDdHcUM5Rm5DUjUzMDViUktsSXdIeVRlaWdwWk5oc205Zl91NnZFUUN1VDBJd3Exb3V0T3Z4YzUxSVVyZFlpVmJ1clBOTW9ZLWxvSUZsYlk5cVVn?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, 부패인식지수(CPI) 하락에 강력 대응 예고",
       "summary": "- 아누틴 총리, CPI 점수 하락에 '낙제점'이라며 강도 높은 개혁 예고\n- 부패인식 개선 위해 법률 및 절차 개정, 투자자 신뢰도 제고 노력\n- PACC 등 관련 기관에 투명성 강화 위한 협력 지시",
       "full_translated": "태국 정부가 최근 발표된 부패인식지수(CPI)에서 100점 만점에 33점, 116위를 기록한 후 적극적인 개혁을 약속했습니다. 아누틴 차른비라쿨 총리는 이 순위에 대해 '낙제점'이라고 평가했습니다. 그는 목요일 이 점수가 상대적으로 낮아 국내 부패 인식이 높고 투명성이 약함을 나타낸다고 말했습니다. \n\n\"정부는 이러한 조사 결과를 무시하지 않을 것이며 부패 인식이 태국의 국제적 명성을 손상시킬 수 있다는 점에 동의합니다.\" 그는 공공 부문 반부패위원회(PACC) 사무총장을 소환하여 낮은 점수의 배경 요인을 설명하도록 지시했다고 덧붙였습니다. 논의 후 아누틴 총리는 PACC 위원장이 이 문제를 해결하기 위한 조치를 설명했다고 밝혔습니다. 그는 보원삭 우완노 부총리 산하의 PACC에 법 집행을 강화하기 위한 기존 법률 및 장관 규정 개정 또는 새로운 법안 초안 작성을 포함한 법률 및 절차 개혁을 준비하도록 지시했습니다. \n\n아누틴 총리는 부패가 뇌물 수수 외에도 투자자 신뢰를 저해하는 승인 및 라이선스 시스템의 비효율성을 포함한다고 말했습니다. 그는 사업 촉진법의 긴급 시행을 촉구하고 PACC, 자금세탁방지청, 공공 부문 개발위원회 사무국 및 투자위원회를 포함한 기관에 투명성을 강화하기 위한 노력을 조정하도록 지시했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정부의 부패 척결 노력은 장기적으로 투자 환경 개선에 기여할 수 있지만, 단기적으로 여행객에게 직접적인 영향은 크지 않음. 다만, 관련 정책 변화에 따라 사업 환경이 달라질 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PM takes  aim at low CPI score",
@@ -6616,8 +6599,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196095_260213055218_700.jpg"
         }
       ],
-      "collected_at": "06:21",
+      "collected_at": "6:21",
       "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196095_260213055218_700.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/general/3196095/pm-takes-aim-at-low-cpi-score",
+      "source": ""
+    },
+    {
+      "title": "태국, 국제 호텔 체크인 1위 - TTR Weekly",
+      "summary": "- TTR Weekly에 따르면 태국이 국제 호텔 체크인 건수에서 1위를 차지했습니다.\n- 이는 태국이 관광지로 인기가 높다는 것을 의미합니다.\n- 자세한 내용은 TTR Weekly 웹사이트에서 확인할 수 있습니다.",
+      "full_translated": "태국이 국제 호텔 체크인 건수에서 1위를 차지했습니다. TTR Weekly",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행에 대한 긍정적인 지표이며, 여행객들에게 참고자료가 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand tops international hotel check-ins - TTR Weekly",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGh1YVlIQldJTkd3d0pWTVdyOGp3YzM1bVFIRXd1TXd2anNPb3pCVVRSUXh0RUJ0V01La2NWUWVYTlVRLU1TMVF2dERUSlQtTEQtYlRoNmdXeGlHWWNFVWE1QlZaLWZNRjc2ZDNHcTE4anBLT0pFV3VzUGhBZ1p4X0VZTGFFUlJMYmJB?oc=5",
+          "source": "TTR Weekly",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "BDMS 웰니스 클리닉, 웰니스 관광 생태계 활성화를 위해 공공 및 민간 부문 통합",
+      "summary": "- BDMS 웰니스 클리닉이 태국 웰니스 관광 생태계 활성화를 위해 공공 및 민간 부문과 협력합니다.\n- 웰니스 관광은 건강과 웰빙을 추구하는 여행 트렌드를 의미합니다.\n- 이번 협력을 통해 태국은 웰니스 관광 목적지로서의 입지를 강화할 것으로 기대됩니다.",
+      "full_translated": "BDMS 웰니스 클리닉은 웰니스 관광 생태계를 활성화하기 위해 공공 및 민간 부문을 통합합니다. MSN",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 웰니스 관광에 대한 정보로, 여행객의 관심도가 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BDMS Wellness Clinic unites public and private sectors to boost wellness tourism ecosystem - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2d5MTJ6MXRLeGVoZDRNNVRkNHZVcFU4bDRuNl9xaWZ1akxJbmxmTmFUWEFrMXdzSU5WWGVKNzRINWx1TktSUVJVemExbUY0U0RKX3kwSWVwUlBwcjlLbkVpTkZkbnhHT1I1Q2NUY1NoZlp6eUtvN1piclFSUFZiRVpHMGl5eVJnLXBTZGpadU4wRVcxajIyR2YwNmZHSlJ4RW9xZkIzbEJ1a21rNjRUSll1d1BjZHFVeF9aaXl6VVBVRmMwZi1rLXVSX1FRcFBSNzlDNGhB?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국 수출입은행, 수출 기업 지원 위해 500억 바트 유동성 공급",
+      "summary": "- 태국 수출입은행(Exim Bank)은 글로벌 경제 불확실성에 대응하여 수출 기업에 500억 바트 규모의 유동 자금을 지원할 예정입니다.\n- 이는 무역 전쟁, 지정학적 긴장 등의 리스크로 인해 어려움을 겪는 수출 기업의 유동성 확보를 돕기 위함입니다.\n- 환율 변동 위험을 줄이기 위해 수출 보험 및 외환 보험을 제공하며, 수출 기업에게 환율 투기보다는 선물 계약을 통한 위험 회피를 권장합니다.",
+      "full_translated": "태국 수출입은행(Exim Bank)은 글로벌 경제 변동성이 지속됨에 따라 어려움을 겪는 수출 기업을 지원하기 위해 500억 바트 규모의 운전 자금 시설을 준비했습니다.\n\n차랏 라타나분니티 은행장에 따르면, 은행은 올해 수출 기업의 유동성을 지원하기 위해 운전 자금을 확대할 계획입니다. 그는 글로벌 경제가 무역 전쟁과 장기화된 지정학적 긴장 등 여러 위험으로 인해 여전히 취약하고 변동성이 크며, 이는 글로벌 공급망, 무역 및 투자에 영향을 미치고 있다고 말했습니다. 주요 경제국은 둔화 조짐을 보이고 있으며, 바트는 외부 요인에 따라 변동성이 매우 큽니다.\n\n수출입은행은 올해 태국 수출이 2% 성장할 것으로 예상하는 반면, 재정정책실은 1% 증가, 국가경제사회개발위원회는 0.3% 감소를 예측합니다. 바트 변동성으로 인한 위험을 완화하기 위해 수출입은행은 모든 수출 고객에게 수출 보험 및 외환 보험을 제공하고 있습니다. 은행은 수출 기업이 환율을 투기하는 것을 권장하지 않습니다. 차랏 씨는 수출 기업은 외환 위험을 헤지하기 위해 선물 계약을 사용해야 한다고 말했습니다. 작년에 선물 거래 총액은 1,000억 바트를 초과했습니다.\n\n그는 수출 기업이 도널드 트럼프 미국 대통령의 관세에 대응하여 미국 구매자와 협상하여 제품 가격을 인상하도록 도왔다고 말했습니다. 그러나 차랏 씨는 또한 수출 기업에게 새로운 시장을 모색하고 제품을 다양화할 것을 조언했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황은 여행객의 소비 및 물가에 간접적으로 영향을 미치므로 관련 정보를 제공합니다. 직접적인 연관성은 낮으나, 환율 변동에 대한 언급이 있어 참고할 만 합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Exim Bank offers B50bn lifeline to ailing exporters",
+          "url": "https://www.bangkokpost.com/business/general/3196235/exim-bank-offers-b50bn-lifeline-to-ailing-exporters",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965505_700.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965505_700.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "프아타이, 새로운 헌장 추진 지지",
+      "summary": "- 프아타이당은 새 헌법 초안 작성을 위한 국민투표 결과를 지지하며, 광범위한 공공 참여를 촉구합니다.\n- 당은 현재 헌장의 단점을 인식하고 정치 개혁의 필요성에 대한 공감대가 형성되었다고 밝혔습니다.\n-  그러나 성공적인 헌법 개정은 앞으로의 과정의 진지성과 포용성에 달려 있다고 강조했습니다.",
+      "full_translated": "프아타이당은 새로운 헌장 추진을 지지합니다.\n\n프아타이당은 정치 정당, 국회의원, 시민 사회 단체 및 대중에게 일요일 국민투표에서 표현된 국민의 뜻이 진정으로 민주적인 헌법 초안 작성으로 이어지도록 협력할 것을 촉구했습니다. 프아타이당의 국민투표 소통 및 국민 헌법 캠페인 위원회 위원장인 차투론 차이사앙은 목요일에 '찬성' 투표가 새로운 헌장에 대한 분명한 대중의 열망을 보여주었다고 말했습니다. 94%의 투표가 집계된 가운데 약 1,990만 명의 유권자가 새로운 헌법 초안 작성을 지지했으며, 이는 집계가 완료되면 2,000만 명을 초과할 것으로 예상됩니다. 차투론 씨는 이번 결과가 현행 헌법의 단점에 대한 광범위한 대중의 인식과 국가 문제 해결을 위한 정치 개혁의 필요성에 대한 공통된 인식을 반영한 것이라고 말했습니다. 그는 \"이번 결과는 사람들이 기존 헌법의 한계를 이해하고 보다 효과적인 해결책을 제공할 수 있는 새로운 헌법의 필요성을 인식하고 있음을 보여줍니다.\"라고 말했습니다. \"이는 태국의 민주적 발전에 고무적인 신호입니다.\" 그러나 그는 성공 여부가 앞으로의 과정의 진지성과 포용성에 달려 있다고 말했습니다. 의회가 수정안을 작성하거나 새로운 헌장을 만드는 데 중심적인 역할을 할 것이지만, 그는 불충분한 공공 참여가 주요 장애물이 될 수 있다고 경고했습니다. 차투론 씨는 모든 이해 관계자들에게",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 상황에 대한 정보 제공. 직접적인 여행 영향은 적으나, 알아두면 유용한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pheu Thai backs new charter drive",
+          "url": "https://www.bangkokpost.com/thailand/politics/3196090/pheu-thai-backs-new-charter-drive",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965390_700.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965390_700.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "아누틴 총리, '아시아의 병자'라는 태국에 대한 평가 일축",
+      "summary": "- 아누틴 총리는 최근 총선 이후 태국의 경제 전망에 대한 자신감을 표명하며, 태국을 '아시아의 병자'로 묘사한 외신 보도를 반박했습니다.\n- 그는 현재 정부가 엄격한 재정 규율을 통해 경제 기초를 강화하고 투자자 신뢰를 높이는 데 전념하고 있다고 강조했습니다.\n- 정부는 잉여 예산 자금을 활용하여 농업협동조합은행에 빚을 갚는 결정을 내렸으며, 이는 피치 신용평가사가 태국의 국가 신용 등급을 BBB+로 유지하는 데 기여했습니다.",
+      "full_translated": "아누틴 차른비라쿨 총리는 최근 총선 이후 태국의 경제 전망에 대한 자신감을 표명하며, 태국을 '아시아의 병자'로 묘사한 외신 보도를 반박했습니다. 그는 파이낸셜 타임즈의 최근 기사 '태국이 어떻게 '아시아의 병자'가 되었나'에 대해, 그러한 평가는 현재 정부가 아닌 이전 정부의 상황을 반영한 것이라고 말했습니다.\n\n내무부 장관이기도 한 아누틴 씨는 자신의 정부가 엄격한 재정 규율을 통해 경제 기초를 강화하고 투자자 신뢰를 높이는 데 전념하고 있다고 말했습니다. 그는 \"우리는 재정 규율이 부족한 정책을 추구하지 않습니다. 우리가 하는 모든 일은 재정 및 재정적 안정을 유지하여 경제 기반이 강력하게 유지되도록 해야 합니다.\"라고 말했습니다.\n\n정부 접근 방식의 구체적인 증거로 아누틴 씨는 엑니티 니티탄프라파스 부총리 겸 재무장관의 주도 하에 재무부가 잉여 예산 자금을 대중영합적 계획으로 전환하는 대신 농업협동조합은행에 빚을 갚는 데 사용하기로 한 결정을 언급했습니다. 이 조치는 피치 신용평가사가 태국의 국가 신용 등급을 BBB+로 유지하도록 설득하는 데 도움이 되어 외국의 투자자들에게 태국의 신뢰성과 매력을 강화했습니다.\n\n정치적 안정에 대해 아누틴 씨는 선거 결과가 긍정적인 신호라고 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국의 경제 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 제한적이므로 낮은 점수를 부여합니다. 기존 뉴스에 유사한 내용이 없으므로 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Anutin dismisses 'sick man of Asia' label for Thailand",
+          "url": "https://www.bangkokpost.com/thailand/general/3196075/anutin-dismisses-sick-man-of-asia-label-for-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196075_260213061111_700.jpg"
+        }
+      ],
+      "collected_at": "06:51",
+      "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196075_260213061111_700.jpg",
       "date": "2026-02-13"
     }
   ]
