@@ -5398,14 +5398,9 @@
       "summary": "- 핫야이의 한 학교에서 10대 총격범이 교장에게 총격을 가함.\n- 학생 300명을 인질로 잡고 경찰과 대치 중.\n- 여행객 안전에 심각한 위협이 되는 사건.",
       "full_translated": "핫야이에서 10대 총격범이 학교장을 쏘고 학생 300명을 인질로 잡았습니다. 해당 지역을 여행하는 여행객은 안전에 유의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총격 사건 및 인질극은 여행객의 안전에 직접적인 위협이 되므로 높은 점수를 부여함. 기존 뉴스에 이미 언급되었지만, 사건의 심각성을 고려하여 다시 포함.",
-      "event_info": {
-        "date": "2024-02-12",
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "핫야이"
-      },
+      "event_info": "{'date': '2024-02-12', 'location': '핫야이', 'price': None, 'location_google_map_query': '핫야이'}",
       "references": [
         {
           "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
@@ -5416,21 +5411,18 @@
       ],
       "collected_at": "21:05",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8DgyYpltASDTst.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/local/south/2913901",
+      "source": ""
     },
     {
       "title": "학교장, 학생 보호 중 사망: 태국 승왕, 용기에 경의 표해",
       "summary": "- 송클라 주 파통 프라탄 키리왓 학교의 교장, 사시파차르 신사모손이 학생들을 보호하려다 사망함.\n- 태국 승왕이 그의 용기와 희생에 경의를 표함.\n- 왕실에서 장례 지원금을 기부함.",
       "full_translated": "송클라 주 파통 프라탄 키리왓 학교에서 발생한 사건으로, 교장인 사시파차르 신사모손이 학생들을 보호하려다 부상을 입고 사망했습니다. 승왕은 그의 용기와 희생을 기렸으며, 왕실 사무국은 장례 지원금과 기타 물품을 기부했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "학교 총격 사건과 관련된 비극적인 소식이며, 교장의 희생 정신을 기리는 내용은 사회적으로 중요한 의미를 가짐. 여행 자체에 직접적인 영향은 적으나, 사건의 배경 이해에 도움을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": "2024-02-11",
-        "location": "송클라 주, 파통 프라탄 키리왓 학교",
-        "price": null,
-        "location_google_map_query": "파통 프라탄 키리왓 학교 송클라"
-      },
+      "event_info": "{'date': '2024-02-11', 'location': '송클라 주, 파통 프라탄 키리왓 학교', 'price': None, 'location_google_map_query': '파통 프라탄 키리왓 학교 송클라'}",
       "references": [
         {
           "title": "สมเด็จพระสังฆราช ทรงสดุดีความกล้าหาญ “ผอ.ศศิพัชร” ยอมสละชีวิตช่วยนักเรียน",
@@ -5441,21 +5433,18 @@
       ],
       "collected_at": "21:05",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8DgyYpltASDTst.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/local/south/2913901",
+      "source": ""
     },
     {
       "title": "촌부리 1구 재검표 불발에 시위대 항의",
       "summary": "- 선거관리위원회의 재검표 불허 결정에 시위대가 격렬하게 항의.\n- 시위대는 증거를 수집했으며 부정 선거 의혹을 제기.\n- 시위대는 선거관리위원회의 결정에 불복하며 법적 대응 예고.",
       "full_translated": "촌부리에서 선거관리위원회가 1구역의 재검표를 명령하지 않자 군중이 불만을 품고 야유를 보냈습니다. 지도부는 모든 증거가 잘 보관되어 있다고 확인했습니다. 2569년 2월 12일 18:00, 촌부리 시립 체육관, 방플라소이, 므앙촌부리 지역의 배드민턴 코트에서 약 100명의 시위대가 여전히 있었습니다. 그리고 군중이 설치하고 마이크를 사용하여 소리를 낸 텔레비전에서 선거관리위원회의 기자회견을 듣고 휴대폰으로 보는 시위대가 있었습니다. 선거관리위원회가 기자회견을 마치고 하원 의원 선거 1구역에 대한 새로운 투표가 없다는 결의안을 발표한 후 시위에 참여한 사람들의 야유가 있었습니다. 불만을 표출합니다. 한 여성이 슬퍼하며 울었습니다. 그 후 지도자는 중앙 선거관리위원회가 새로운 투표가 없다고 발표한 것에 불만을 표명하기 위해 연단에 올랐습니다. 우리는 첫날부터 모든 증거를 가지고 있다고 확인했습니다. 모든 증거를 잘 보관하고 있으며, 이번 선거와 개표는 분명히 투명하지 않을 것이라고 확인합니다. 이와 함께 체육관 옆 쓰레기통에 있는 증거를 언론에 보여줄 준비가 되어 있으며, 절대 돌아가지 않을 것임을 확인했습니다. 또한 선거구 1 국장과 촌부리 선거관리위원회에 대한 불만을 제기했습니다. ... 이후 워라착 스타폰피뇨 므앙촌부리 지역 관리와 시리반차 콴므앙 므앙촌부리 경찰서 부국장이 시위대 대표와 변호사를 초청하여 체육관 뒤편에서 해결책을 논의했습니다. 진전이 있으면 계속 보고하겠습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "선거 관련 시위 발생. 여행객의 안전에 직접적인 위협은 아니지만, 혼란을 야기할 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": "2026-02-12",
-        "location": "촌부리 시립 체육관",
-        "price": null,
-        "location_google_map_query": "촌부리 시립 체육관"
-      },
+      "event_info": "{'date': '2026-02-12', 'location': '촌부리 시립 체육관', 'price': None, 'location_google_map_query': '촌부리 시립 체육관'}",
       "references": [
         {
           "title": "มวลชนไม่พอใจ ส่งเสียงโห่ร้องหลัง กกต. สั่งไม่นับคะแนนใหม่ \"ชลบุรีเขต 1\"",
@@ -5466,6 +5455,133 @@
       ],
       "collected_at": "21:05",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJ39HKH7YlZg.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913910",
+      "source": ""
+    },
+    {
+      "title": "태국-스위스, 11점의 유물 반환 공식 행사 개최",
+      "summary": "- 스위스 정부가 태국에 11점의 유물을 반환하는 공식 행사를 개최함.\n- 유물은 익명의 소장자가 자발적으로 반환했으며, 태국 북동부 지역 출토품으로 추정됨.\n- 이번 반환은 양국 간의 문화 협력과 우호 관계를 상징함.",
+      "full_translated": "(베른 주재 태국 대사관 사진) 베른 주재 태국 대사관은 스위스 정부 관계자와 함께 11점의 유물을 태국으로 공식 반환하는 행사를 개최했습니다. 유물은 태국으로 반환되어 조사 및 국가지정문화재 등록 절차를 거칠 예정입니다. 스위스 주재 타이랏 통신원인 아란야 밀러는 2569년 2월 11일 수요일, 베른 주재 태국 대사관에서 11점의 유물을 태국으로 공식 반환하는 행사가 열렸다고 보도했습니다. 판나파 찬타라롬 베른 주재 대사는 태국 대표로 유물을 받았으며, 파비엔 바라가 스위스 내무부 산하 연방문화청 국제문화재산이전 전문부서장이 스위스 대표로 11점의 유물을 전달했습니다. 11점의 유물은 익명의 소장자가 자발적으로 스위스를 통해 기증했으며, 이 소장자는 귀중한 역사적 유물을 원래의 고향으로 되돌려 보내기를 원했습니다. 초기에는 태국 북동부의 반치앙 문화 유적지에서 유래했을 것으로 추정됩니다. 이번 반환은 태국과 스위스 간의 긴밀한 우정과 문화 협력의 중요한 상징이며, 문화 유산 보호에 대한 공동 책임을 보여줍니다. 이 행사에는 스위스 외무부 및 내무부 대표와 스위스에 거주하는 태국인들이 참석하여 축하했습니다. 반환 행사 후 대사관은 모든 유물을 태국으로 보낼 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 문화유산에 대한 관심 증가 및 관련 관광 상품 개발 가능성. 다만, 여행객의 직접적인 안전이나 편의에 미치는 영향은 적음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ไทย-สวิสจัดพิธี มอบโบราณวัตถุ 11 ชิ้น คืนสู่ประเทศไทยอย่างเป็นทางการ",
+          "url": "https://www.thairath.co.th/news/foreign/2913925",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLvnwbp4RInPp.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLvnwbp4RInPp.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "태국 선거관리위원회, 촌부리 사건 모든 측면 조사 강조",
+      "summary": "- 선관위원장은 구속 위협에 굴하지 않고 법률에 따라 신속히 조사 진행 중임을 강조함.\n- 촌부리 사건 조사에 2일 소요, 모든 측면에서 철저히 검토하고 있다고 밝힘.\n- 투표용지 바코드 보안 표준은 최고 수준이라고 재확인.",
+      "full_translated": "태국 선거관리위원회(กกต.)의 나롱 กลั่นวารินทร์ 위원장은 2069년 2월 12일, 총선 및 국민투표 진행 상황에 대한 기자회견에서, 선관위가 헌법, 법률 및 규정에 따라 업무를 수행하고 있다고 강조했습니다. 문제가 발생하면 즉시 회의를 소집하여 신속하게 대처하며, 공정한 선거를 위해 모든 측면을 철저히 조사하고 있다고 밝혔습니다. 특히 촌부리에서 발생한 부정선거 의혹에 대해 2일 동안 양측의 주장을 검토하고 증거를 수집하여 법에 따라 처리할 것임을 강조했습니다. 또한 투표용지에 사용된 바코드는 최고 수준의 보안 표준을 유지하기 위한 것이라고 설명했습니다.\n\n태국 선거관리위원회(꺼꺼떠)의 나롱 끌란와린 위원장은 2069년 2월 12일, 총선 및 국민투표 진행 상황에 대한 기자회견에서, 선관위가 헌법, 법률 및 규정에 따라 업무를 수행하고 있다고 강조했습니다. 문제가 발생하면 즉시 회의를 소집하여 신속하게 대처하며, 공정한 선거를 위해 모든 측면을 철저히 조사하고 있다고 밝혔습니다. 특히 촌부리에서 발생한 부정선거 의혹에 대해 2일 동안 양측의 주장을 검토하고 증거를 수집하여 법에 따라 처리할 것임을 강조했습니다. 또한 투표용지에 사용된 바코드는 최고 수준의 보안 표준을 유지하기 위한 것이라고 설명했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 총선 관련 부정선거 의혹 조사 진행 상황에 대한 정보. 여행 자체에 직접적인 영향은 없으나, 정치적 안정과 관련된 간접적인 영향을 고려하여 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. ย้ำ สอบเหตุชลบุรีทุกมิติ-บาร์โค้ดบนบัตร เป็นมาตรฐานรักษาความปลอดภัยชั้นดี",
+          "url": "https://www.thairath.co.th/news/politic/2913917",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJa0Bc4j7Hl9.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJa0Bc4j7Hl9.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "도요타, 센트럴월드에서 'Drive Fin In Love' 이벤트 개최",
+      "summary": "- 도요타, 센트럴월드에서 신차 전시 및 시승 이벤트 진행\n- Toyota bZ4X, Yaris Cross Night Shade 등 다양한 모델 전시\n- 2월 15일까지, 미니 콘서트 및 특별 프로모션 제공",
+      "full_translated": "도요타가 센트럴월드에서 'Drive Fin In Love' 이벤트를 개최하여 도시 사람들을 사로잡을 프로모션을 제공합니다. 센트럴월드 앞 광장을 새롭게 단장하여 고객들이 차량을 시승해 볼 수 있도록 했습니다. 2월 12일, Toyota Motor Thailand Co., Ltd.가 센트럴월드에서 'Drive Fin In Love' 이벤트를 개최했습니다. \n\n이번 행사에서는 Toyota bZ4X, Toyota Yaris Cross Night Shade, Toyota Corolla Cross GR Sport 등 다양한 신차 모델을 선보입니다. 또한 Veloz, Innova, Alphard 등 다른 Toyota 모델도 전시합니다. Apple Store 앞 Square A 광장을 시승 구역으로 만들어 고객들이 직접 차량을 시승하고 비교할 수 있도록 했습니다. \n\n이벤트 기간 동안 차량 예약 시 현금 할인, 이자 할인, 최대 2,000바트 상당의 상품권 등 4가지 혜택을 제공합니다. 또한 매일 오후 6시 Eden Zone에서는 ETC, Ally Achiraya 등 초청 가수의 미니 콘서트가 열립니다. \n\n본 행사는 센트럴월드 1층 Central Court, Eden Zone 및 Square A에서 2월 15일까지 진행됩니다. 행사 참가 등록 시 기념품을 받을 수 있으며, 차량 예약 시 TOYOTA LEASING THAILAND, KINTO 등에서 특별 혜택을 받을 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객들에게 흥미로운 이벤트 정보 제공. 센트럴월드는 주요 쇼핑 장소이므로 방문객에게 유용할 수 있음.",
+      "event_info": {
+        "date": "2025-02-12~2025-02-15",
+        "location": "센트럴월드 (CentralWorld), 방콕",
+        "price": "무료 (일부 프로모션 및 예약 필요)",
+        "location_google_map_query": "CentralWorld Bangkok"
+      },
+      "references": [
+        {
+          "title": "โตโยต้า จัดงาน Drive Fin In Love โปรสุดฟิน ดีลสุดว้าวเอาใจคนเมืองที่ CTW",
+          "url": "https://www.thairath.co.th/news/auto/news/2913916",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJXWdqIK0AcE.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJXWdqIK0AcE.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "캄보디아 용의자 연루 자산 130억 바트 몰수 계획",
+      "summary": "- 태국 AMLO, 캄보디아 국적자 및 관련자 연루된 4건의 주요 사건 관련 자산 몰수 추진.\n- 몰수 대상 자산은 총 130억 바트 규모로, 토지, 콘도, 차량, 요트, 예금 등 포함.\n- 온라인 사기, 인신매매, 디지털 화폐를 통한 돈세탁과 관련된 자산도 포함.",
+      "full_translated": "반부패 자금세탁 방지 사무소(AMLO)는 거래 위원회를 통해 캄보디아 국적자 및 관련자가 연루된 4건의 주요 사건과 관련된 총 130억 바트 상당의 자산 몰수를 추진하기로 결의했습니다. AMLO는 수요일 위원회가 이해 관계자들이 압류된 자산이 합법적으로 취득되었음을 입증할 수 없었기 때문에 이러한 사건에서 총 130억 7400만 바트 상당의 자산을 몰수하기 위해 검찰에 법원 명령을 요청하기로 결의했다고 보고했습니다. 태국 정부 기관에 따르면 한 사건은 'Ms Taengthai, Mr Leak Yim, Mrs Wirinya, Mr Smith Ben, Ms Katreeya 및 관련자'의 사기 혐의와 관련되어 있으며, 이는 캄보디아 사업가 Yim Leak과 로비스트 Benjamin Mauerberger(Ben Smith)를 지칭하는 것으로 보입니다. 해당 사건에는 토지, 콘도, 차량, 요트 및 예금을 포함하여 121억 2천만 바트 상당의 68개 압류 품목이 포함되었습니다. 또 다른 사건은 온라인 사기, 인신매매 및 디지털 통화를 통한 돈세탁과 관련된 것으로 의심되는 3억 4500만 바트 상당의 96개 자산과 관련되었습니다. 해당 사건은 캄보디아의 다국적 기업인 Prince Group의 설립자이자 회장인 중국 태생의 Chen Zhi와 관련되었습니다. 표적 자산에는 토지, 현금, 고급 제품 및 장식품이 포함되었습니다. Chen은 1월 초 기소를 위해 중국으로 송환되었습니다. 세 번째 사건은 캄보디아 사업가 Kok An과 관련자들과 관련이 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 적으나, 국제 범죄 관련 소식으로 치안에 대한 간접적 영향 가능성이 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Confiscation planned for B13bn assets 'linked with' Cambodian suspects, associates",
+          "url": "https://www.bangkokpost.com/thailand/general/3195985/confiscation-planned-for-b13bn-assets-linked-with-cambodian-suspects-associates",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195985_700.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195985_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "촌부리 1구역 재검표 불허에 대한 실망과 선거 부정 주장에 대한 비판",
+      "summary": "- 인민당은 촌부리 1구역의 재검표 불허 결정에 실망감을 표명.\n- 선거 부정 주장을 제기하며 관련 장관을 비판.\n- 투표 용지 공개 및 전국적인 재검표 요구.",
+      "full_translated": "인민당은 선거관리위원회(꼬꼬떠.)가 촌부리 1구역의 재검표를 불허한 결정에 실망감을 표하며, 국민의 의혹을 해소하지 못했다고 비판했습니다. 아이스(아이콘)는 선거 부정으로 당선된 장관을 비판하며 2069년 2월 12일에 소환하겠다고 밝혔습니다. 인민당은 페이스북을 통해 선관위가 재검표를 불허한 결정에 대해 유감을 표명하며, 재검표를 통해 국민의 의혹을 해소하고 선거의 투명성을 확보할 수 있다고 주장했습니다. 또한, 촌부리 1구역의 투표 용지(써.써. 하/씹엣)와 개표 결과 보고서(써.써. 하/씹빼읃)를 즉시 공개하고, 전국적으로 모든 투표소의 개표 결과 보고서를 공개할 것을 요구했습니다. 인민당은 다른 선거구에서도 개표 과정에 대한 의혹을 발견했으며, 증거를 수집하여 선관위에 재검표를 요구할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปชน. ผิดหวัง กกต. ไม่นับคะแนนใหม่เขต 1 ชลบุรี-“ไอซ์” ซัด ก็ดี จะได้เรียก รมต.โกงเลือกตั้ง",
+          "url": "https://www.thairath.co.th/news/politic/2913928",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLwGLKKx3l6Rd.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLwGLKKx3l6Rd.jpg",
       "date": "2026-02-12"
     }
   ]
