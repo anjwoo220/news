@@ -4365,14 +4365,9 @@
       "summary": "- 태국 핫야이에서 10대 총격범이 학교 교장에게 총격을 가함.\n- 현재 300명의 학생들을 인질로 잡고 대치 중.\n- 여행객 안전에 심각한 위협이 될 수 있으므로 상황 주시 필요.",
       "full_translated": "캐나다 브리티시 컬럼비아에서 발생한 총기 난사 사건은 태국 여행과는 관련이 없으나, 핫야이에서 발생한 학교 총격 사건은 여행객 안전에 직접적인 영향을 미칠 수 있습니다. 10대 총격범이 학교 교장에게 총격을 가하고 300명의 학생을 인질로 잡고 있다는 소식은 매우 심각하며, 해당 지역 방문을 계획 중인 여행객은 반드시 상황을 주시하고 안전에 유의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "학교 총격 및 인질극은 여행객 안전에 직접적인 위협. 핫야이 지역 여행 자제 권고 필요.",
-      "event_info": {
-        "date": null,
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "핫야이"
-      },
+      "event_info": "{'date': None, 'location': '핫야이', 'price': None, 'location_google_map_query': '핫야이'}",
       "references": [
         {
           "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
@@ -4381,23 +4376,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/644.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/644.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.khaosodenglish.com/news/2026/02/11/shootings-at-school-and-home-in-northeastern-british-columbia-leave-10-dead-including-shooter/",
+      "source": ""
     },
     {
       "title": "2025년 태국 호텔 평균 객실 요금 3% 상승",
       "summary": "- 2025년 태국 호텔의 평균 객실 요금이 3% 상승하여 4,984바트 기록.\n- 외국인 투숙객 예약이 전체의 77%를 차지하며, 아시아 태평양 지역에서 가장 긴 숙박 기간을 기록.\n- 12월 객실 요금이 가장 높았고, 1월에 가장 큰 성장률을 보임.",
       "full_translated": "2026년 2월 12일 06:05 게시\n\n태국 호텔의 평균 객실 요금이 작년에 3% 상승하여 4,984바트를 기록했으며, Booking.com, Agoda 및 호텔 직접 예약이 가장 많은 수익을 창출했습니다. SiteMinder에 따르면, 2025년 태국으로의 인바운드 시장은 도착 건수에서 7.23%, 수익에서 4.7% 감소하여 각각 3,300만 명과 1조 5,300억 바트를 기록했습니다. 그러나 호텔 객실 요금은 3% 성장했습니다. 또한 이 부문은 아시아 태평양 지역에서 가장 긴 숙박 기간을 확보했으며, 2박 이상의 예약이 2024년 29%에서 35%로 증가했습니다. SiteMinder의 태국 담당 매니저는 외국인 투숙객 예약이 전국 호텔 예약의 77%를 차지하며 전년 대비 1.14% 증가하여 세계에서 가장 높은 비중을 차지했다고 밝혔습니다. 태국의 국제 시장 점유율은 스페인 59%, 프랑스 53%, 인도네시아 51%, 말레이시아 49%보다 높습니다. 12월은 태국 호텔의 객실 요금이 가장 높아 전년 대비 4% 상승한 6,169바트를 기록했으며, 1월은 평균 요금이 6,101바트로 2025년에 가장 높은 성장률인 21%를 기록했습니다. 9월은 여러 주요 시장의 위축으로 인해 전년 대비 4.26% 하락한 3,911바트를 기록했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "호텔 요금 정보는 여행객의 예산 계획에 영향을 미칠 수 있지만, 필수적인 정보는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Report: Thai hotel rates increased 3% in 2025",
@@ -4406,23 +4398,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/business/general/3195399/report-thai-hotel-rates-increased-3-in-2025",
+      "source": ""
     },
     {
       "title": "태국, 디지털 자산 시장 강화: 파생 상품 거래 확대",
       "summary": "- 태국이 디지털 자산과 탄소 배출권을 파생 상품 시장에 포함시켜 동남아 디지털 경제 선두 주자로 도약할 전망.\n- 바이낸스 태국 법인은 디지털 자산이 투기적 도구를 넘어 자본 시장의 기반을 재편할 잠재력을 가진 자산으로 인식되고 있다고 평가.\n- 재무부의 디지털 자산 활용 제안이 승인되어, 증권거래위원회(SEC)가 파생 상품법 개정을 통해 디지털 자산을 활용할 수 있게 됨.",
       "full_translated": "태국이 파생 상품 시장을 디지털 자산 및 탄소 배출권으로 확장하는 것은 동남아시아 디지털 경제의 최전선에 국가를 두는 긍정적인 움직임이라고 세계 최대 암호화폐 거래소인 바이낸스의 태국 법인이 밝혔습니다.\n\n암호화폐 및 디지털 토큰을 포함한 디지털 자산을 파생 상품 거래법에 따른 참조 자산으로 공식적으로 인정하는 결정은 디지털 자산이 더 이상 단순한 투기적 도구가 아니라 자본 시장의 기반을 재편할 잠재력을 가진 신흥 자산 클래스라는 인식이 커지고 있음을 반영한다고 걸프 바이낸스의 바이낸스 TH의 최고 경영자인 니룬 푸와타나누쿨이 말했습니다.\n\n\"이번 움직임은 국가 자본 시장의 분수령이 될 것입니다. 태국이 동남아시아 디지털 경제의 미래 지향적인 리더로 자리매김하고 있다는 강력한 신호를 보냅니다.\"라고 그는 방콕 포스트에 말했습니다.\n\n화요일, 내각은 비트코인과 같은 디지털 자산을 파생 상품 및 자본 시장에서 기초 자산으로 사용할 수 있도록 하는 재무부의 제안을 승인했습니다. 이번 조치는 규제 감독과 투자자 보호를 강화하면서 태국의 파생 상품 시장을 국제 표준에 맞춰 현대화하는 것을 목표로 합니다.\n\n이번 결의안은 증권거래위원회(SEC)가 디지털 자산과 같은 새로운 자산 클래스를 참조로 사용할 수 있도록 파생 상품법을 개정하도록 촉구합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국이 디지털 자산 시장을 강화하는 것은 장기적으로 관광 산업에도 영향을 미칠 수 있지만, 단기적으로 여행객에게 직접적인 영향은 제한적이므로 중간 점수 부여. 새로운 정책 변화에 대한 정보 제공 가치.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand puts digital assets on a firmer footing",
@@ -4431,23 +4420,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5964024_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5964024_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/business/investment/3195574/thailand-puts-digital-assets-on-a-firmer-footing",
+      "source": ""
     },
     {
       "title": "태국 신정부 예산 집행에 대한 낙관론",
       "summary": "- 세계은행은 태국 신정부 구성과 2027 회계연도 예산 집행이 계획대로 진행될 것으로 예상\n- 이로 인해 태국 경제는 올해 1.6% 성장할 것으로 전망\n- 하지만 제조업, 관광 부문의 경쟁력 약화 및 높은 가계 부채는 성장의 제약 요인으로 작용",
       "full_translated": "세계은행은 태국 신정부 구성과 2027 회계연도 예산 집행이 계획대로 진행되어 올해 1.6%의 경제 성장을 달성할 것으로 예상합니다. 세계은행의 기본 시나리오에 따르면, 이전 정부와 달리 신정부 구성이나 예산 집행에 큰 지연이 없을 것으로 보입니다. 세계은행 태국 담당 선임 경제학자인 키앗퐁 아리야프루차는 \"선거 후 일부 정치적 변화가 있었지만 정치적 공백은 관찰되지 않았다\"고 말했습니다. 그는 또한 \"구조적 문제로 인해 태국 GDP 성장률이 기존 1.8%에서 1.6%로 둔화될 것으로 예상한다\"고 덧붙였습니다. 태국의 구조적 제약은 2025년 3분기부터 성장에 더 큰 영향을 미치고 있습니다. 주요 과제로는 제조업 및 관광 부문의 경쟁력 약화와 국내 소비를 억제하는 높은 가계 부채가 있습니다. 신정부가 경제 성장을 3%로 끌어올리려면 제조업, 관광, 가계 부채의 세 가지 영역에서 구조 개혁이 필요합니다. 세계은행은 태국의 잠재 성장률을 2.7%로 추정합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 전망에 대한 정보. 여행 자체에 직접적인 영향은 적으나, 현지 물가나 경제 상황에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Optimism over new government's budget",
@@ -4456,23 +4442,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963889_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/12/5963889_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/business/general/3195424/optimism-over-new-governments-budget",
+      "source": ""
     },
     {
       "title": "한국 배우 정은우, 향년 40세로 사망",
       "summary": "- 한국 배우 정은우가 40세의 나이로 사망했다.\n- 사망 원인은 공개되지 않았으며, 장례는 뉴코려 병원에서 치러진다.\n- 정은우는 '반올림3', '두뇌', '나쁜 커플' 등 다양한 작품에 출연했다.",
       "full_translated": "한국 배우 정은우가 20년 가까이 활동한 끝에 40세의 나이로 사망했다. 사망 하루 전, 그는 세상을 떠난 유명 아티스트들의 사진을 게시했다. 한국의 신문 '조선일보'는 여러 매체를 인용하여 20년 동안 활동한 40세의 배우 정은우가 2069년 2월 11일 수요일에 사망했다고 보도했다. 그는 사망 원인을 밝히지 않았다. 언론은 그가 사망하기 하루 전, 레슬리 청과 에이미 와인하우스의 사진을 인스타그램에 올리고 한국어로 \"그리워, 질투해, 후회해\"라는 캡션을 달았다고 보도했다. 보도에 따르면 현재 정은우의 장례식은 뉴코려 병원의 장례식장에서 열리고 있으며, 2월 13일 벽제승화원에서 매장될 예정이다. 정은우는 20년 가까이 연예계에서 활동했다. 그는 2006년 시리즈 '반올림 3'를 통해 배우로 데뷔했다. 이후 영화 '그 녀석은 멋있었다', '나쁜 커플', '미스 장' 등에 출연했다. 텔레비전 작품으로는 '히트', '추노', '신이라 불리운 사나이', '태양의 신부' 등이 있다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "한국 배우의 사망 소식이지만, 태국 여행객에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "뉴코려 병원 장례식장",
-        "price": null,
-        "location_google_map_query": "뉴코려 병원"
-      },
+      "event_info": "{'date': None, 'location': '뉴코려 병원 장례식장', 'price': None, 'location_google_map_query': '뉴코려 병원'}",
       "references": [
         {
           "title": "แฟนช็อก “จอง อึนอู” นักแสดงดังเกาหลีใต้ เสียชีวิต 1 วันหลังโพสต์เศร้า",
@@ -4481,8 +4464,60 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lE5yVjXBBX19.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2lE5yVjXBBX19.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/foreign/2913692",
+      "source": ""
+    },
+    {
+      "title": "핫야이 학교 총격 사건: 교장 사망, 인질극 종료",
+      "summary": "- 핫야이의 한 학교에서 10대 총격범이 교장에게 총격을 가해 사망.\n- 범인은 17세 소년으로, 과거 정신 질환 치료 이력 있음.\n- 초기에는 학생들을 인질로 잡았으나, 현재는 상황 종료.",
+      "full_translated": "핫야이의 학교에서 발생한 총격 사건으로 교장이 사망했습니다. 용의자는 17세 소년으로, 과거 정신 질환 치료를 받은 적이 있습니다. 그는 학교에 침입하여 교장에게 총격을 가하고 학생들을 인질로 잡았습니다. 경찰은 상황을 통제하고 용의자를 체포했습니다. 안타깝게도 교장은 병원에서 사망했습니다. 이 사건으로 인해 지역 사회는 큰 충격에 빠졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "총격 사건으로 인한 여행객 안전에 대한 잠재적 위협, 지역 사회의 혼란 가능성.",
+      "event_info": {
+        "date": "2024-02-12",
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "Hat Yai"
+      },
+      "references": [
+        {
+          "title": "อาลัย \"ผอ.โรงเรียนพะตงประธานคีรีวัฒน์\" ถูกคนร้ายยิงเจ็บสาหัส ล่าสุดเสียชีวิตแล้ว",
+          "url": "https://www.thairath.co.th/news/society/2913669",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n2e3OvneAxCb.jpg"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n2e3OvneAxCb.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "논타부리에서 열린 '달 위의 달' 의식",
+      "summary": "- 논타부리주 므앙 지역의 프라삿 사원에서 희귀한 '달 위의 달' 성수 목욕 의식이 열렸습니다.\n- 400년 된 루앙 포 야이 불상 앞에서 진행되며 불운을 씻어내고 행운을 가져다준다고 믿어집니다.\n- 수천 명의 신자들이 참여하여 축복을 기원했습니다.",
+      "full_translated": "수천 명의 신자들이 2026년 2월 2일 논타부리주 므앙 지역의 프라삿 사원에 모여 희귀한 '달 위의 달' 성수 목욕 의식에 참여했습니다. 이 의식은 400년 된 루앙 포 야이 불상 앞에서 보름달 아래에서 열리며, 불운을 씻어내고 매력, 행운, 축복을 가져다준다고 믿어집니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 전통 문화에 대한 정보이며, 특별한 경험을 원하는 여행객에게 흥미로울 수 있습니다. 다만, 특정 날짜에 진행되는 행사라는 점과, 모든 여행객에게 해당되는 정보는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": "2026-02-02",
+        "location": "Prasat temple in Muang district of Nonthaburi province",
+        "price": "무료",
+        "location_google_map_query": "Prasat temple Nonthaburi"
+      },
+      "references": [
+        {
+          "title": "Thailand's moon-upon-moon ceremony",
+          "url": "https://www.bangkokpost.com/video/thailand/3195664/moonuponmoon-ceremony-at-buddhist-temple-in-nonthaburi-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195664_700.jpg"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195664_700.jpg",
       "date": "2026-02-12"
     }
   ]
