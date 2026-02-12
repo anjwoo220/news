@@ -2314,10 +2314,7 @@ def render_tab_guide():
                     
                     st.markdown("<br>", unsafe_allow_html=True)
 
-def render_tab_tour():
-    """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
-def render_tab_tour():
-    """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
+@st.fragment
 def render_tab_tour():
     """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
     # Use constants from utils
@@ -2425,7 +2422,7 @@ def render_tab_tour():
                         else:
                             if st.button("➕ 일정에 담기", key=f"btn_add_rec_{matched_tour['id']}", use_container_width=True):
                                 st.session_state['my_cart'].append(matched_tour['id'])
-                                st.rerun()
+                                # st.rerun() # Fragment handles local update automatically on interaction
                 
                 st.markdown("---")
             else:
@@ -2458,7 +2455,7 @@ def render_tab_tour():
                 else:
                     if st.button("➕ 일정에 담기", key=f"btn_add_list_{t['id']}"):
                         st.session_state['my_cart'].append(t['id'])
-                        st.rerun()
+                        # st.rerun() # Fragment handles local update
             st.markdown("---")
 
     # --- 4. 나만의 자유여행 플래너 (DIY Trip Planner) ---
@@ -2489,7 +2486,7 @@ def render_tab_tour():
             with cc3:
                 if st.button("🗑️ 삭제", key=f"btn_del_{ct['id']}"):
                     st.session_state['my_cart'].remove(ct['id'])
-                    st.rerun()
+                    # st.rerun() # Fragment handles local update
         
         st.divider()
         st.markdown(f"#### 💰 총 예상 비용: :orange[{total_cost:,}원]")
@@ -4431,8 +4428,9 @@ else:
     # --- Navigation Logic (Dual Node: Sidebar & Top Pills) ---
     
     # Init Session State for Nav
-    if "nav_mode" not in st.session_state:
-        st.session_state["nav_mode"] = None # Will be initialized below based on language
+    if "nav_mode" not in st.session_state or st.session_state["nav_mode"] is None:
+        # Strict default: ensure it matches one of the options later
+        st.session_state["nav_mode"] = utils.t("nav_news")
     
     if "wongnai_result" not in st.session_state:
         st.session_state["wongnai_result"] = None
