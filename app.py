@@ -827,6 +827,7 @@ def render_dinner_cruise_banner():
 # ### TAB RENDER FUNCTIONS ###
 # --------------------------------------------------------------------------------
 
+@st.fragment
 def render_tab_news():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_news"))
@@ -1296,6 +1297,7 @@ def render_tab_news():
                     else:
                         st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
 
+@st.fragment
 def render_tab_taxi():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_taxi"))
@@ -1474,6 +1476,7 @@ def render_tab_taxi():
                         st.divider()
                         st.info("💡 " + ("Chiang Mai, Pattaya, etc. may be cheaper. Note that Phuket/Samui often use Flat Rate." if st.session_state.get('language') == 'English' else "치앙마이, 파타야 등 지방 도시는 위 요금보다 더 저렴할 수 있습니다. 단, \'푸켓\'과 \'코사무이\'는 미터기를 잘 안 켜고 담합 가격(Flat Rate)을 부르니 주의하세요!"))
 
+@st.fragment
 def render_tab_event():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_event"))
@@ -1504,6 +1507,7 @@ def render_tab_event():
                     if ev.get('url'):
                         st.link_button(utils.t("read_more"), ev['url'], use_container_width=True)
 
+@st.fragment
 def render_tab_hotel():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_hotel"))
@@ -1873,6 +1877,7 @@ def render_tab_hotel():
                     hc_s3.metric("편안함", f"{h_scores.get('comfort', 0)}/5")
                     hc_s4.metric("가성비", f"{h_scores.get('value', 0)}/5")
 
+@st.fragment
 def render_tab_food():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_food"))
@@ -2206,6 +2211,7 @@ def render_tab_food():
                         st.session_state["restaurant_details"] = h_details
                         st.rerun()
 
+@st.fragment
 def render_tab_guide():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_guide"))
@@ -2548,6 +2554,7 @@ https://thai-today.com"""
         use_container_width=True
     )
 
+@st.fragment
 def render_tab_board():
     # SEO: Dynamic page title
     utils.set_page_title(utils.get_seo_title("nav_board"))
