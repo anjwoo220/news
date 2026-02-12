@@ -254,32 +254,26 @@ st.markdown("""
             padding-top: 110px !important;
         }
         
-        /* st.tabs Mobile Optimization: Horizontal Scroll (Refined) */
-        div[data-testid="stTabs"] {
-            width: 100% !important;
+        /* st.tabs Mobile Optimization: Nuclear Option (Force Horizontal Scroll) */
+        div[data-testid="stTabs"] button {
+            flex: 0 0 auto !important;
+            white-space: nowrap !important;
+            min-width: auto !important;
+            padding-left: 12px !important;
+            padding-right: 12px !important;
         }
-        div[data-testid="stTabs"] div[role="tablist"] {
+        div[data-testid="stTabs"] > div:first-child,
+        div[data-testid="stTabs"] div[data-baseweb="tab-list"] {
+            display: flex !important;
             flex-wrap: nowrap !important;
             overflow-x: auto !important;
             overflow-y: hidden !important;
-            display: flex !important;
-            flex-direction: row !important;
-            gap: 4px !important;
-            scrollbar-width: none !important; /* Firefox */
-            -ms-overflow-style: none !important;  /* IE and Edge */
+            -webkit-overflow-scrolling: touch;
+            gap: 8px !important;
         }
-        div[data-testid="stTabs"] div[role="tablist"]::-webkit-scrollbar {
+        div[data-testid="stTabs"] > div:first-child::-webkit-scrollbar,
+        div[data-testid="stTabs"] div[data-baseweb="tab-list"]::-webkit-scrollbar {
             display: none !important;
-        }
-        div[data-testid="stTabs"] button[data-testid="stTab"] {
-            flex-shrink: 0 !important;
-            min-width: fit-content !important;
-            padding: 8px 12px !important;
-            white-space: nowrap !important;
-        }
-        div[data-testid="stTabs"] button[data-testid="stTab"] p {
-            font-size: 0.9rem !important;
-            white-space: nowrap !important;
         }
     }
     
