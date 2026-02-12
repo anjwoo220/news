@@ -6170,14 +6170,9 @@
       "summary": "- 파타야의 고급 빌라에서 한국인 남성 정모씨와 현지 사업가가 총에 맞아 사망한 채 발견됨.\n- 경찰은 현장에서 유서와 총기를 발견, 자살로 추정하고 수사 중.\n- 유서에는 가족과 동료들에게 작별을 고하는 내용이 담겨 있는 것으로 알려짐.",
       "full_translated": "파타야 뉴스에 따르면, 경찰은 즉시 범죄 진압 부서의 부국장인 타나 위세차이 경감에게 수사팀, 촌부리 지방 출입국 관리 경찰, 중앙 법의학 과학 사무소 2지역(촌부리) 담당관, 파타야 파트타마 쿤 병원의 당직 의사, 사왕 보리분 파타야 재단의 구조 자원 봉사자들과 협력하여 현장을 조사하도록 명령했습니다. 사건은 약 2,500만 바트 상당의 고급 폐쇄형 커뮤니티 내 단층 풀 빌라에서 발생했으며, 토지 면적은 약 165제곱 와였습니다. 이 부동산은 전용 수영장과 높은 경계 울타리가 특징입니다. 주차 구역에는 흰색 렉서스 밴과 청동색-회색 벤츠가 있었으며, 둘 다 경매된 번호판을 달고 있었습니다. 거실 소파에서 경찰은 55세의 한국인 남성 정원호(일부 태국 언론에서는 정원화로도 보도) 씨의 시신을 발견했습니다. 그는 9mm 권총으로 왼쪽 가슴 부위를 한 번 쏴서 몸과 소파 전체에 광범위한 출혈이 있었습니다. 탄창식 권총이 그의 오른쪽 옆에 있었고, 카펫에는 9mm 탄피가 있었습니다. 근처 커피 테이블에서 수사관들은 한국어로 된 손으로 쓴 메모가 담긴 노트북을 발견했는데, 이는 자살 편지로 추정됩니다. 그 내용은 가족과 사업에서 함께 일한 직원들에게 작별 인사를 전하는 내용이었습니다. 법의학 팀은 해당 지역을 봉쇄하고 증거를 꼼꼼하게 수집했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 발생한 사건으로, 여행객 안전에 대한 우려를 유발할 수 있음. 특히 한국인 관련 사건이므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Korean Expat and Local Businessman Found Dead from Apparent Suicide in Pattaya Villa",
@@ -6186,23 +6181,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770874215054.jpg?v=1770874264"
         }
       ],
-      "collected_at": "04:31",
+      "collected_at": "4:31",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770874215054.jpg?v=1770874264",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://thepattayanews.com/2026/02/12/korean-expat-and-local-businessman-found-dead-from-apparent-suicide-in-pattaya-villa/",
+      "source": ""
     },
     {
       "title": "파타야, 해변 노숙자 단속 강화",
       "summary": "- 파타야 시, 해변가의 노숙자 및 부랑자 문제 해결을 위해 단속 시작.\n- 주민과 관광객들의 불만이 증가함에 따라 합동 태스크 포스 구성.\n- 총 20명 체포, 일부는 주거지 확인 후 퇴거 조치, 나머지는 보호 시설로 이송, 1명은 체포 영장으로 경찰에 인계.",
       "full_translated": "파타야 시는 해변가의 부랑자와 노숙자 문제에 대한 적극적인 단속을 시작했습니다. 파타야 시 부시장 Darongkiat Phinitchakan은 파타야 시청 앞에서 합동 태스크 포스 파견을 주재했습니다. 이번 작전에는 시장 보좌관 Korn Phatthanasin과 촌부리 지방 보호 및 삶의 질 증진 센터(MSDHS)의 관계자 및 기타 관련 기관의 관계자가 참여했습니다. 팀은 파타야 해변을 따라 순찰하며 규정을 시행했습니다.\n\nDarongkiat Phinitchakan 부시장은 파타야 시가 해당 지역의 부랑자, 노숙자 및 거지 문제를 해결하기 위해 MSDHS 촌부리 관리들과 긴밀하고 지속적으로 협력해 왔다고 밝혔습니다. 오늘 작전은 공공 장소에 거주하는 많은 수의 부랑자, 불쾌감과 불편함을 야기하는 것에 대한 주민과 관광객들의 수많은 불만에 의해 촉발되었습니다.\n\n파타야 해변에서 시행하는 동안 당국은 부랑자 또는 노숙자로 확인된 총 20명(남성 12명, 여성 8명)을 체포했습니다. 개인 정보를 기록한 후:\n\n- 5명(남성 1명, 여성 4명)은 명확한 영구 거주지가 있는 것으로 확인되었습니다. 그들은 해변 지역에서 호위되어 퇴거 조치되었고, 배회하거나 거주하기 위해 돌아오지 말라는 지시를 받았습니다.\n- 13명(남성 9명, 여성 4명)은 추가적인 보살핌과 지원을 위해 지방 보호 및 삶의 질 증진 센터에 의뢰되었습니다.\n- 남성 1명은 이전 체포 영장으로 인해 파타야 시 경찰서에 인계되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 해변의 치안 및 쾌적함에 영향을 줄 수 있으므로 여행객에게 관련 정보로 판단. 직접적인 위협은 아니나 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Pattaya Beach",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': None, 'location': 'Pattaya Beach', 'price': None, 'location_google_map_query': 'Pattaya Beach'}",
       "references": [
         {
           "title": "Pattaya City Launches Proactive Crackdown on Vagrants and Homeless Along Beachfront",
@@ -6211,23 +6203,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17708804077952088692580138360711.jpg?v=1770880489"
         }
       ],
-      "collected_at": "04:31",
+      "collected_at": "4:31",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17708804077952088692580138360711.jpg?v=1770880489",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://thepattayanews.com/2026/02/12/pattaya-city-launches-proactive-crackdown-on-vagrants-and-homeless-along-beachfront/",
+      "source": ""
     },
     {
       "title": "태국 원숭이 공격 후 야생 동물 관광 위험 부각 - 세계 동물 보호",
       "summary": "- 태국에서 원숭이 공격으로 야생 동물 관광의 위험성이 강조되고 있습니다.\n- 세계 동물 보호 단체는 야생 동물과의 안전한 거리 유지를 권고합니다.\n- 관광객들에게 야생 동물 보호의 중요성을 알리는 캠페인이 필요합니다.",
       "full_translated": "야생 동물 관광 위험, 태국 원숭이 공격 후 부각 - 세계 동물 보호",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "야생동물 관련 안전사고는 여행객에게 직접적인 영향을 줄 수 있으므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국 원숭이 서식지"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국 원숭이 서식지'}",
       "references": [
         {
           "title": "Wildlife tourism risks highlighted after Thailand monkey attack - World Animal Protection",
@@ -6236,23 +6225,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:31",
+      "collected_at": "4:31",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObk1oZ3pRaWREc0NvZnBkWEd1YjBBdS1DdU5TTHVaT3hqbkJEa3RiRmU1aWNuNnJ3VzZJNmo0NUtVal9uRjJ4UEpQNjhKRl9zRW94RTFPd3ZtM0hoREtsMkxOVk0tVnJkVDlEWnpzVlNaTmVuQXY4cnFhSjdrQzY5Y1ZHYkNhR240bmdINU5uQU0waE5wVzBKblpPNXg?oc=5",
+      "source": ""
     },
     {
       "title": "스리라차 오토바이 부품 창고 도난 사건 발생",
       "summary": "- 스리라차의 오토바이 부품 창고에서 도난 사건 발생, 피해액 20만 바트 이상 추정.\n- 도난은 2월 11일에 발견되었으며, 창고는 4년 이상 운영이 중단된 상태.\n- 이웃 주민들은 이전에도 여러 차례 도난 사건이 발생했다고 증언.",
       "full_translated": "스리라차 중심부에서 오토바이 부품 창고가 도난당하는 사건이 발생했습니다.\n\n사건은 2026년 2월 11일, 스리라차 중심부에 있는 유명 오토바이 판매 및 수리점인 Surat Yan Yon의 이전 경영진 대표인 Sathian Sathianboon Thawi(55세) 씨가 오전 9시경 보관된 물품을 검사하기 위해 해당 구역을 방문했을 때 밝혀졌습니다. 문을 열자 그는 혼란스러운 장면을 발견했습니다. 물품이 바닥에 흩어져 있고, 오토바이 부품 상자가 비워져 버려져 있었으며, 1층과 2층 보관 구역의 모든 예비 부품 재고가 사라졌습니다. 도둑들은 새 오토바이 부품, 정비공 도구, 오토바이 리프트 스탠드, 사무용품, 심지어 에어컨 장치까지 훔쳐갔습니다. 4년 이상 운영이 중단된 이 상점은 오토바이 예비 부품 창고로만 용도가 변경되었으며 일부 사무용 가구를 보관하고 있었습니다. 현장에는 전기나 CCTV 카메라가 작동하지 않아 취약했습니다. Sathian 씨는 같은 날 오후 5시경 스리라차 경찰서에 Pol. Lt. Col. Chatphon Phaen Phon 수사관에게 경찰 신고를 했습니다. 그는 총 손실액을 20만 바트 이상으로 추정했습니다. 이웃 주민들은 이것이 처음 발생한 사건이 아니라고 밝혔습니다. 도둑들은 여러 번 침입했습니다. 이전 절도 사건에서는 오토바이와 '살렌'(작은 카트)을 사용하여 물품을 제거했습니다. 2026년 2월 3일, 목격자들은 픽업 트럭과 살렌을 타고 가게 앞 수쿰윗 도로에 주차하는 무리를 목격했습니다. 그들은 대낮에 버젓이 차량에 물건을 싣고 있었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 지역 내 범죄 발생 소식. 여행객 안전에 대한 잠재적 영향 고려.",
-      "event_info": {
-        "date": "2026-02-11",
-        "location": "스리라차",
-        "price": "200000 바트 이상 손실",
-        "location_google_map_query": "스리라차"
-      },
+      "event_info": "{'date': '2026-02-11', 'location': '스리라차', 'price': '200000 바트 이상 손실', 'location_google_map_query': '스리라차'}",
       "references": [
         {
           "title": "Thieves Clear Out Motorcycle Parts Warehouse in Central Sri Racha",
@@ -6261,23 +6247,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17708283559693880279717408984032.jpg?v=1770828388"
         }
       ],
-      "collected_at": "04:31",
+      "collected_at": "4:31",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17708283559693880279717408984032.jpg?v=1770828388",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://thepattayanews.com/2026/02/11/thieves-clear-out-motorcycle-parts-warehouse-in-central-sri-racha/",
+      "source": ""
     },
     {
       "title": "트럼프, EPA의 온실가스 규제 권한 철회",
       "summary": "- 트럼프 전 미국 대통령, 오바마 시대의 온실가스 규제 권한을 EPA로부터 철회.\n- 지구 온난화 가스 규제를 위한 기반을 무너뜨리는 조치.\n- 법적 다툼 예상.",
       "full_translated": "도널드 트럼프는 온실가스가 건강에 해롭다는 오바마 시대의 판결을 뒤집었습니다. 이는 지구 온난화를 유발하는 가스를 통제하기 위한 다양한 규정의 기초가 됩니다. 2069년 2월 12일 목요일, 도널드 트럼프 미국 대통령은 버락 오바마 시대에 내려진 중요한 과학적 판결을 취소한다고 발표했는데, 이 판결은 온실가스가 건강에 해롭다는 것이며 이는 연방 정부의 모든 운영의 기초가 됩니다. 지구 온난화를 유발하는 가스를 통제합니다. 2052년에 처음 발표된 '위험성 발견' 결과에 따르면 6가지 온실가스 유형은 대기 청정법에 따라 인간 건강에 위험한 것으로 분류될 수 있습니다. 해당 법은 오바마 정부 이후 석유 및 가스 산업, 발전소 및 차량에서 발생하는 지구 온난화 오염을 제한하는 환경 보호국(EPA) 권한의 기초가 되었으며 지구 기후 오염 문제에 대한 미국의 기여를 포함하여 기후 오염 문제 해결을 위한 연방 정부의 가장 강력한 도구로 간주되었습니다. “우리는 공식적으로 소위 '위험성 발견'을 종료합니다.” 도널드 트럼프는 이 판결을 '재앙'이라고 부르며 이러한 규정을 철폐하는 것이 '공중 보건과는 전혀 관련이 없다'고 강조했습니다. 트럼프는 목요일에 “이 모든 것은 사기이며 큰 사기입니다.”라고 말했습니다. “이것은 오바마와 바이든의 국가 강탈입니다.” 또한 트럼프 정부는 해당 규정이 해당 결과에서 비롯되었기 때문에 차량의 온실 가스 배출을 규제하는 다양한 규정의 철폐를 마무리할 예정입니다. 조 바이든 전 대통령 하에서 EPA는 표준을 강화하려고 노력했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "미국 정책 변화에 대한 뉴스이며, 태국 여행객에게 직접적인 영향은 적음. 하지만 국제적인 이슈이므로 정보를 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์เพิกถอนอำนาจของ EPA ในการควบคุมการปล่อยก๊าซเรือนกระจก",
@@ -6286,8 +6269,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyOLZsoSAy3OPV.jpg"
         }
       ],
-      "collected_at": "04:31",
+      "collected_at": "4:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyOLZsoSAy3OPV.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/foreign/2913945",
+      "source": ""
+    },
+    {
+      "title": "중국 춘절 연휴, 러시아와 태국으로 향하는 중국인 관광객 증가 - 로이터",
+      "summary": "- 중국인 관광객들이 춘절 연휴를 맞아 러시아와 태국으로 몰리고 있다.\n- 로이터 통신은 이 같은 현상을 보도했다.\n- 자세한 내용은 로이터 통신 기사에서 확인할 수 있다.",
+      "full_translated": "로이터 통신에 따르면 중국 춘절 연휴 기간 동안 중국인 관광객들이 러시아와 태국으로 여행을 떠나고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "춘절 연휴 기간 동안 태국 여행 수요 증가 가능성, 여행 관련 정보 제공",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese tourists head to Russia, Thailand on extended Lunar New Year break - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSTFmX0c2NWQtNGprMFhoQ2Yzay1sVm1lNnZvaWRlZUx1dVdYY0lKRGpzUV9jdDR5WjItdVhpd2k1MzVxZnpadUg1eHEwc3N2NGtvYXlRazVEYTBLUTJDVFl4eEZiU283ekxaM0Q3VDBmNW4ya0VHSjg5V1BiZ3hiWC00MFV6SWhGM0RCdVlxQ1A0THlfcHA4TEZTZVdHdWsyUkxuRk53ZE5Hcm8yYkZWVWlnU2xfNHI2UXRvLUo0cw?oc=5",
+          "source": "Reuters",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국 관광청, 한국인 여행객 불만에도 가격 급등은 없다고 주장",
+      "summary": "- 태국 관광청은 한국인 여행객들의 가격 불만에도 불구하고 가격 급등은 없다고 밝혔습니다.\n- 관광청은 가격 감시를 강화하고 부당하게 가격을 인상하는 사업체에 대해 조치를 취할 것이라고 밝혔습니다.\n- 일부 한국인 여행객들은 태국 여행 비용이 과거에 비해 크게 올랐다고 불만을 제기했습니다.",
+      "full_translated": "태국 관광청은 한국인 여행객들의 불만에도 불구하고 가격 급등은 없다고 밝혔습니다. 한국중앙데일리",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "최근 한국인 여행객들의 태국 여행 비용 증가에 대한 불만을 다루고 있어 여행 관련 정보로 판단. 가격 감시 강화 및 부당 요금 인상에 대한 조치 예고는 여행객에게 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand's tourism authority says prices aren't surging despite complaints from Korean travelers - Korea JoongAng Daily",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSTZEMHRlZ29GQmFkVndfS3Rua3dPalVFcnFJVTNXSGprMDdNMjBHSEgzRFNxd0R4WkJ4YUUwZmY4MVdySlNHT19KYnc4REg2SHB1dy1Td2kzS3diTnMxb0tQNG1kYVlLUHFFMUVCdFZ4SGFKRFE0Q0dDTWxWZTJVRkZUVmhXTEpxdGwxbTZvdlVIWkNtVDFZOU9ac1Z4QzVYNHZNNHhvZkktaHNEWlZJMlZMSDEzRXV1N1hxb25WemNlb25Uc3VEMGQ4ZGlZT0dVQmw0UnY2SWE0NThMY2JnblZRaE9aWFlGMnpXNVhyVS1aUElSLXo0bi1GWDRVS3RwbnNRcg?oc=5",
+          "source": "Korea JoongAng Daily",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "베트남, 2026년 태국과 캄보디아를 넘어 관광객 선택받는 이유 - South China Morning Post",
+      "summary": "- South China Morning Post에 따르면, 2026년에는 베트남이 태국과 캄보디아보다 더 많은 관광객을 유치할 것으로 예상됩니다.\n- 이는 베트남의 관광 인프라 투자 및 다양한 관광 상품 개발에 기인합니다.\n- 자세한 내용은 South China Morning Post 기사를 참조하십시오.",
+      "full_translated": "South China Morning Post 기사에 따르면, 2026년에는 베트남이 태국과 캄보디아를 넘어 관광객들에게 더 많은 선택을 받을 것으로 예상됩니다. 이는 베트남이 관광 인프라에 투자하고 다양한 관광 상품을 개발한 결과로 분석됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객들의 동남아 여행 선택에 영향을 줄 수 있는 정보이므로 포함. 새로운 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Why tourists are choosing Vietnam, over Thailand and Cambodia in 2026 - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMzUyc2hRdnhqbmd2eTNMbzN2R3dRMkg3U3k4dFhqRzRycVNLVmcxdFJSWTJXSVdXbEpCeGZDbU1CNC1VUWktRzUyWkJ0TG1tMS13dTVnWG5KM3gzeVoyWnNTT2tWQ2tza3A1aEp6ZmVfSUhYOERxSmtmWEl1UEFhQjVQR0k2RWRMRVMyM3puN3RMS3ZqT09XYmJiV2E1ZUNReGVoQ2JvRFpYN25sNlNodExVZnI3cXJEMXJOa2NhdlMyS1cyOWfSAcYBQVVfeXFMTXFmaHFhUnpBYklYbEtYWkRyaE1rMUNrZWdfSmdVV1lKcHNmRDh6djBHUVNvOGs4WmZ2RlFQVGRZcVA1RGNnV0tuM3FkZDcyTVctc0ItNmtuQy0zLXVXMDVDX1JnUWg1aVdFRnpOelZKNEdLYmloUHNyNllELVl0NkxuSFl1Z3c2VG9tSlpRV2k0clJ1OC1tb2o0SEdCNXVvS2VhaUdZVTV5c0ZvSWhlbWZYWnVJa1RIZkpPS3luRG1ocThuTjhB?oc=5",
+          "source": "South China Morning Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "트럼프, 미국의 기후 규제 법적 근거 해체",
+      "summary": "- 도널드 트럼프 대통령이 지구 온난화 오염을 억제하기 위한 미국의 획기적인 과학적 근거를 철회했습니다.\n- 이는 트럼프 행정부의 가장 광범위한 기후 정책 철회로 평가됩니다.\n- 이번 결정은 2009년 오바마 정부의 '위험 판정'을 폐지하는 것으로, 향후 기후 규제에 광범위한 영향을 미칠 수 있습니다.",
+      "full_translated": "도널드 트럼프 대통령은 목요일, 지구 온난화를 유발하는 오염을 억제하기 위한 미국의 규제를 뒷받침하는 획기적인 과학적 근거를 철회했습니다. 이는 트럼프 행정부의 가장 광범위한 기후 정책 철회로 기록됩니다.\n\n트럼프 대통령은 환경 보호국(EPA)의 리 젤딘 국장과 함께한 백악관 행사에서 \"이 결정은 사실에 근거하지 않았고, 법에도 근거하지 않았습니다.\"라고 말했습니다. 예상대로 행정부는 자동차에 대한 온실 가스 배출 기준도 공식적으로 폐기했습니다. 이번 폐지는 법정에서 즉각적인 도전을 받을 것으로 예상됩니다.\n\n2009년의 \"위험 판정\"은 당시 버락 오바마 대통령 하에서 6가지 온실 가스가 기후 변화를 촉진하여 공중 보건과 복지를 위협한다는 결정이었습니다. 이는 2007년 대법원 판결인 Massachusetts v. EPA로 끝난 오랜 법적 다툼의 결과로, 온실 가스가 청정 공기법에 따라 오염 물질로 간주되며 EPA가 공중 보건과 복지에 위험을 초래하는지 여부를 결정하도록 지시했습니다. 처음에는 차량 배출에만 적용되었지만, 나중에는 더 광범위한 기후 규제의 법적 기반이 되었습니다. 따라서 목요일의 폐지는 온실 가스 차량 기준의 폐지와 함께 이루어졌습니다. 그러나 그 결과는 더 광범위하게 파급되어 발전소의 이산화탄소 제한을 포함한 많은 기후 규칙을 위태롭게 할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 장기적으로 환경 문제와 관련된 정책 변화는 간접적인 영향을 줄 수 있습니다. 여행객의 안전이나 편의에 미치는 영향은 제한적이므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Trump dismantles legal basis for US climate rules",
+          "url": "https://www.bangkokpost.com/world/3196389/trump-dismantles-legal-basis-for-us-climate-rules",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_5965759_700.jpg"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_5965759_700.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "노르웨이 前 총리, 제프리 엡스타인 연루 부패 혐의로 기소",
+      "summary": "- 노르웨이 前 총리 토르뵤른 야글란트, 제프리 엡스타인과의 연루 의혹으로 '심각한 부패' 혐의로 기소됨.\n- 미국 정부가 공개한 이메일에서 야글란트가 엡스타인의 파리, 뉴욕, 팜비치 저택을 방문하려 했던 정황이 드러남.\n- 야글란트는 혐의를 부인하며 수사에 협조할 것을 밝혔으며, 노르웨이 범죄수사국이 그의 자택 3곳을 수색함.",
+      "full_translated": "노르웨이 전 총리가 제프리 엡스타인 사건 관련하여 심각한 부패 혐의로 기소되었습니다. 외신 보도에 따르면, 최근 미국이 제프리 엡스타인 사건 관련 문서를 공개한 후 토르뵤른 야글란트 전 노르웨이 총리가 '심각한 부패' 혐의로 기소되었습니다. 야글란트는 유럽 의회가 그의 면책 특권을 박탈한 후 기소되었으며, 그의 변호사는 그가 모든 혐의를 부인하고 수사에 협조할 것이라고 밝혔습니다. 미국 정부가 공개한 이메일에는 야글란트가 엡스타인의 파리, 뉴욕, 팜비치 저택을 개인적으로나 가족과 함께 방문하려 했던 정황이 담겨 있는 것으로 보입니다. 엡스타인은 이미 아동 성범죄로 유죄 판결을 받은 바 있습니다. 노르웨이 범죄수사국(Økokrim)은 야글란트의 자택 3곳을 수색했으며, 곧 그를 심문할 것으로 예상됩니다. 야글란트는 1996년부터 1997년까지 노르웨이 총리를 지냈으며, 노르웨이 노벨 위원회 위원장과 유럽 평의회 사무총장을 역임했습니다. 그는 유럽 평의회 사무총장 재임 기간 동안 외교적 면책 특권을 누렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 여행객에게 직접적인 영향은 없으나, 국제적인 뉴스 사건이므로 정보 제공 차원에서 포함. 다만 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อดีตนายกฯ นอร์เวย์ โดนตั้งข้อหาคอร์รัปชัน โยงเจฟฟรีย์ เอปสตีน",
+          "url": "https://www.thairath.co.th/news/foreign/2913943",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyOLN9IGXvsuY3.jpg"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyOLN9IGXvsuY3.jpg",
       "date": "2026-02-13"
     }
   ]
