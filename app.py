@@ -163,7 +163,38 @@ st.markdown("""
         overflow-wrap: break-word;
     }
 
-    /* --- 2. Mobile Optimization (max-width: 768px) --- */
+    /* --- 2. Global Tab & Navigation Scroll Optimization (Nuclear Option) --- */
+    /* Force st.tabs to horizontal scroll globally */
+    div[data-testid="stTabs"] [role="tablist"],
+    div[data-testid="stTabs"] [data-baseweb="tab-list"],
+    div[data-testid="stTabs"] > div:first-child {
+        display: flex !important;
+        flex-wrap: nowrap !important;
+        overflow-x: auto !important;
+        overflow-y: hidden !important;
+        -webkit-overflow-scrolling: touch !important;
+        gap: 8px !important;
+        scrollbar-width: none !important;
+        -ms-overflow-style: none !important;
+        width: 100% !important;
+    }
+    div[data-testid="stTabs"] [role="tablist"]::-webkit-scrollbar,
+    div[data-testid="stTabs"] [data-baseweb="tab-list"]::-webkit-scrollbar,
+    div[data-testid="stTabs"] > div:first-child::-webkit-scrollbar {
+        display: none !important;
+    }
+    div[data-testid="stTabs"] button[role="tab"],
+    div[data-testid="stTabs"] button[data-testid="stTab"] {
+        flex: 0 0 auto !important;
+        white-space: nowrap !important;
+        min-width: fit-content !important;
+    }
+    div[data-testid="stTabs"] button[role="tab"] p,
+    div[data-testid="stTabs"] button[data-testid="stTab"] p {
+        white-space: nowrap !important;
+    }
+
+    /* --- 3. Mobile Optimization (max-width: 768px) --- */
     @media (max-width: 768px) {
         /* Typography Scaling */
         h1, .stHeading h1 { font-size: 1.7rem !important; }
@@ -186,7 +217,7 @@ st.markdown("""
         }
     }
 
-    /* --- 3. Navigation & UI Fixes --- */
+    /* --- 4. Navigation & UI Fixes --- */
     /* Hide Streamlit Anchor Links */
     [data-testid="stHeaderAction"] { display: none !important; }
     
@@ -217,15 +248,21 @@ st.markdown("""
             margin: 0 !important;
             display: flex !important;
             flex-direction: row !important;
-            flex-wrap: wrap !important; /* Allow 2 rows */
+            flex-wrap: nowrap !important; /* Force single row */
+            overflow-x: auto !important;
+            overflow-y: hidden !important;
+            -webkit-overflow-scrolling: touch !important;
             align-items: center !important;
-            justify-content: space-around !important;
+            justify-content: flex-start !important; /* Start for scroll */
+            gap: 5px !important;
+        }
+        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger)::-webkit-scrollbar {
+            display: none !important;
         }
 
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) > div {
-            flex: 1 1 0% !important;
-            min-width: 0 !important;
-            max-width: none !important;
+            flex: 0 0 auto !important; /* Don't grow/shrink to fit */
+            min-width: fit-content !important;
         }
 
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
@@ -235,9 +272,10 @@ st.markdown("""
             color: #666 !important;
             font-size: 0.85rem !important;
             font-weight: 800 !important;
-            padding: 5px !important;
-            width: 100% !important;
+            padding: 8px 12px !important;
+            width: auto !important; /* Don't force 100% */
             display: block !important;
+            white-space: nowrap !important;
         }
 
         div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button:active,
@@ -245,41 +283,13 @@ st.markdown("""
             color: #FF4B4B !important;
         }
 
-        /* Pad content TOP to avoid hiding behind nav (Increased for 2 rows) */
+        /* Pad content TOP to avoid hiding behind nav (Reduced to 1 row height) */
         .main .block-container {
-            padding-top: 110px !important; 
+            padding-top: 70px !important; 
             padding-bottom: 50px !important;
         }
         .stApp {
-            padding-top: 110px !important;
-        }
-        
-        /* st.tabs Mobile Optimization: Safari/iPhone Ready */
-        div[data-testid="stTabs"] [role="tablist"],
-        div[data-testid="stTabs"] [data-baseweb="tab-list"] {
-            display: flex !important;
-            flex-wrap: nowrap !important;
-            overflow-x: auto !important;
-            overflow-y: hidden !important;
-            -webkit-overflow-scrolling: touch !important;
-            width: 100% !important;
-            gap: 8px !important;
-        }
-        div[data-testid="stTabs"] [role="tablist"]::-webkit-scrollbar,
-        div[data-testid="stTabs"] [data-baseweb="tab-list"]::-webkit-scrollbar {
-            display: none !important;
-        }
-        div[data-testid="stTabs"] button[role="tab"],
-        div[data-testid="stTabs"] button[data-testid="stTab"] {
-            flex: 0 0 auto !important; /* Critical for Safari to prevent shrinking */
-            white-space: nowrap !important;
-            min-width: fit-content !important;
-            padding: 8px 12px !important;
-        }
-        div[data-testid="stTabs"] button[role="tab"] p,
-        div[data-testid="stTabs"] button[data-testid="stTab"] p {
-            font-size: 0.9rem !important;
-            white-space: nowrap !important;
+            padding-top: 70px !important;
         }
     }
     
