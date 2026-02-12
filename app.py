@@ -254,34 +254,35 @@ st.markdown("""
             padding-top: 110px !important;
         }
         
-        /* st.tabs Mobile Optimization: Horizontal Scroll */
+        /* st.tabs Mobile Optimization: Horizontal Scroll (Refined) */
         div[data-testid="stTabs"] {
-            overflow-x: auto !important;
-            overflow-y: hidden !important;
-            display: block !important;
+            width: 100% !important;
         }
-        div[data-testid="stTabs"] [data-baseweb="tab-list"] {
-            display: flex !important;
-            flex-direction: row !important;
+        div[data-testid="stTabs"] div[role="tablist"] {
             flex-wrap: nowrap !important;
             overflow-x: auto !important;
-            white-space: nowrap !important;
-            scrollbar-width: none; /* Firefox */
-            -ms-overflow-style: none;  /* IE and Edge */
-            mask-image: linear-gradient(to right, black 90%, transparent 100%);
-            -webkit-mask-image: linear-gradient(to right, black 90%, transparent 100%);
+            overflow-y: hidden !important;
+            display: flex !important;
+            flex-direction: row !important;
+            gap: 4px !important;
+            scrollbar-width: none !important; /* Firefox */
+            -ms-overflow-style: none !important;  /* IE and Edge */
         }
-        div[data-testid="stTabs"] [data-baseweb="tab-list"]::-webkit-scrollbar {
+        div[data-testid="stTabs"] div[role="tablist"]::-webkit-scrollbar {
             display: none !important;
         }
-        div[data-testid="stTabs"] [data-baseweb="tab"] {
+        div[data-testid="stTabs"] button[data-testid="stTab"] {
             flex-shrink: 0 !important;
-            min-width: 0 !important;
-            padding-left: 12px !important;
-            padding-right: 12px !important;
-            font-size: 0.9rem !important;
+            min-width: fit-content !important;
+            padding: 8px 12px !important;
+            white-space: nowrap !important;
         }
-        
+        div[data-testid="stTabs"] button[data-testid="stTab"] p {
+            font-size: 0.9rem !important;
+            white-space: nowrap !important;
+        }
+    }
+    
         /* Pagination Row Fixes */
         div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] {
             display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important;
