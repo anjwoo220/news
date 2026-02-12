@@ -254,6 +254,34 @@ st.markdown("""
             padding-top: 110px !important;
         }
         
+        /* st.tabs Mobile Optimization: Horizontal Scroll */
+        div[data-testid="stTabs"] {
+            overflow-x: auto !important;
+            overflow-y: hidden !important;
+            display: block !important;
+        }
+        div[data-testid="stTabs"] [data-baseweb="tab-list"] {
+            display: flex !important;
+            flex-direction: row !important;
+            flex-wrap: nowrap !important;
+            overflow-x: auto !important;
+            white-space: nowrap !important;
+            scrollbar-width: none; /* Firefox */
+            -ms-overflow-style: none;  /* IE and Edge */
+            mask-image: linear-gradient(to right, black 90%, transparent 100%);
+            -webkit-mask-image: linear-gradient(to right, black 90%, transparent 100%);
+        }
+        div[data-testid="stTabs"] [data-baseweb="tab-list"]::-webkit-scrollbar {
+            display: none !important;
+        }
+        div[data-testid="stTabs"] [data-baseweb="tab"] {
+            flex-shrink: 0 !important;
+            min-width: 0 !important;
+            padding-left: 12px !important;
+            padding-right: 12px !important;
+            font-size: 0.9rem !important;
+        }
+        
         /* Pagination Row Fixes */
         div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] {
             display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important;

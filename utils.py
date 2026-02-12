@@ -3291,6 +3291,25 @@ def get_visitor_stats():
     except:
         return 0, 0
 
+def is_bot_user():
+    """
+    Detects if the current user is a bot based on User-Agent.
+    Returns True if a bot is detected.
+    """
+    try:
+        import streamlit as st
+        ua = st.context.headers.get("User-Agent", "").lower()
+        bot_keywords = [
+            "googlebot", "bingbot", "yandexbot", "baiduspider", "slurp", 
+            "duckduckbot", "ia_archiver", "facebot", "facebookexternalhit",
+            "twitterbot", "rogerbot", "linkedinbot", "embedly", "quora link preview",
+            "showyoubot", "outbrain", "pinterest/0.", "naverbot", "telegrambot",
+            "whatsapp", "viber", "skypeuri", "health check"
+        ]
+        return any(bot in ua for bot in bot_keywords)
+    except:
+        return False
+
 def increment_visitor_stats():
     """
     Increments both Total and Daily counts (once per session).
@@ -3300,6 +3319,9 @@ def increment_visitor_stats():
         import requests
         from datetime import datetime
         
+        # [NEW] Bot Filtering: skip increment if bot
+        is_bot = is_bot_user()
+        
         namespace = "today-thailand-app"
         today_str = datetime.now().strftime("%Y-%m-%d")
         
@@ -3307,19 +3329,23 @@ def increment_visitor_stats():
         key_total = f"total"
         key_daily = f"date_{today_str}"
         
-        # 1. Hit Total (+1)
+        # 1. Hit Total
         total_val = 0
         try:
-            url_total = f"https://api.counterapi.dev/v1/{namespace}/{key_total}/up"
+            url_total = f"https://api.counterapi.dev/v1/{namespace}/{key_total}/"
+            # Append 'up' only for humans
+            url_total += "up" if not is_bot else "get"
             r1 = requests.get(url_total, timeout=2)
             if r1.status_code == 200:
                 total_val = r1.json().get("count", 0)
         except: pass
         
-        # 2. Hit Daily (+1)
+        # 2. Hit Daily
         daily_val = 0
         try:
-            url_daily = f"https://api.counterapi.dev/v1/{namespace}/{key_daily}/up"
+            url_daily = f"https://api.counterapi.dev/v1/{namespace}/{key_daily}/"
+            # Append 'up' only for humans
+            url_daily += "up" if not is_bot else "get"
             r2 = requests.get(url_daily, timeout=2)
             if r2.status_code == 200:
                 daily_val = r2.json().get("count", 0)
@@ -3328,6 +3354,7 @@ def increment_visitor_stats():
         return total_val, daily_val
         
     except:
+        return 0, 0
         return 0, 0
 
 # --------------------------------------------------------------------------------
