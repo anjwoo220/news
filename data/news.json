@@ -5288,14 +5288,9 @@
       "summary": "- 태국 국립공원, 야생동물 및 식물 보호국이 위험 야생동물 소유에 대한 규제 강화 발표.\n- 치타, 사자, 고릴라 등 10종의 동물에 대한 소유 규제 강화, 안전 및 동물 복지 기준 강화.\n- 규정 위반 시 처벌 강화, 야생동물 관리 및 보호 노력 강화.",
       "full_translated": "태국 국립공원, 야생동물 및 식물 보호국(끄롬 웃타얀 행ชาติ 쑤앗빠 라에 판프)은 위험 야생동물 소유에 대한 규제를 강화한다고 발표했습니다. 2024년 2월 12일, 아타폰 짜른찬사(앗타폰 짜른찬사) 국장은 새로운 규정은 위험 동물 종(쑤앗빠 콘크룸 차닛 꼬)에 대한 통제 강화가 목표이며, 전국적으로 허가 기준을 통일하고 2019년 야생동물 보호법에 따라 감독 효율성을 높이는 데 중점을 둔다고 밝혔습니다.\n\n이번 조치로 인해 '위험 야생동물 종 A'로 분류된 10종의 동물에 대한 규제가 강화됩니다. 여기에는 대형 육식 동물(치타, 사자, 재규어), 대형 영장류(마운틴 고릴라, 고릴라, 침팬지, 보노보, 수마트라 오랑우탄, 보르네오 오랑우탄), 그리고 그린 아나콘다와 같은 대형 뱀이 포함됩니다. 위험도가 낮은 '야생동물 종 B'는 2022년 규정에 따라 기존의 57종에 대한 감독이 유지됩니다.\n\n새로운 규정에 따라 담당 직원은 동물의 행동에 적합한지, 동물이 평생 동안 자연스러운 행동을 보일 수 있는 복지 환경인지, 야생동물 전문가의 건강 관리가 제공되는지 등 모든 측면에서 소유 장소를 자세히 검사합니다. 소유자는 동물 복지를 보장하고 공공 안전을 유지하기 위해 필요한 모든 조치를 취해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객이 직접적으로 야생동물을 소유할 가능성은 낮지만, 동물원이나 관련 시설 방문 시 안전에 대한 인식을 높일 필요가 있음. 규제 강화는 잠재적으로 동물 학대나 안전 사고로부터 여행객을 보호하는 간접적인 효과가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กรมอุทยานแห่งชาติฯ ประกาศยกระดับคุมเข้มการครอบครอง 10 สัตว์ป่าควบคุมชนิด ก",
@@ -5306,21 +5301,18 @@
       ],
       "collected_at": "19:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMqigioWJsArt.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/local/2913903",
+      "source": ""
     },
     {
       "title": "방콕 등 3개 지역 재선거 명령, 2월 22일 실시",
       "summary": "- 태국 선거관리위원회, 방콕, 난, 우돈타니 3개 지역 재선거 명령\n- 2월 22일 재선거 실시, 빠툼타니는 재검표\n- 부정행위 및 투표용지 손상으로 인한 결정",
       "full_translated": "태국 선거관리위원회(꼬.꼬.떠.)는 2월 22일 방콕, 난, 우돈타니 3개 지역에서 재선거를 실시한다고 발표했습니다. 이는 부정행위 및 투표용지 손상으로 인한 결정입니다. 빠툼타니 지역은 재검표를 진행합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황에 대한 정보 제공. 여행에 직접적인 영향은 적지만, 정치적 상황에 관심 있는 여행자에게 유용.",
-      "event_info": {
-        "date": "2024-02-22",
-        "location": "방콕 (칸나야오), 난, 우돈타니",
-        "price": null,
-        "location_google_map_query": "칸나야오 방콕"
-      },
+      "event_info": "{'date': '2024-02-22', 'location': '방콕 (칸나야오), 난, 우돈타니', 'price': None, 'location_google_map_query': '칸나야오 방콕'}",
       "references": [
         {
           "title": "กกต. สั่งเลือกตั้งใหม่ 3 หน่วยใน กทม.-น่าน-อุดรฯ 22 ก.พ. ส่วนปทุมฯ ให้นับคะแนนใหม่",
@@ -5331,21 +5323,18 @@
       ],
       "collected_at": "19:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMqwfRBopANyO.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913905",
+      "source": ""
     },
     {
       "title": "요드차난, 쁘아타이당 노력에 만족 표명",
       "summary": "- 요드차난 웡사왓 쁘아타이당 총리 후보는 선거 결과에 낙담하지 않았다고 밝혔습니다.\n- 그는 당 지도부가 연립 정부에 참여할지 야당 역할을 할지 결정할 것이라고 덧붙였습니다.\n- 그는 유권자들의 지지에 감사를 표하며 당이 최선을 다했다고 말했습니다.",
       "full_translated": "쁘아타이당 총리 후보인 요드차난 웡사왓은 일요일 선거 결과에 낙담하지 않았다고 밝혔으며, 연립 정부에 참여할지 야당 역할을 할지는 당 집행위원회가 결정할 것이라고 덧붙였습니다. 목요일 방콕 쁘아타이당 본부에서 요드차난은 2월 9일 이후 대중의 눈에 띄지 않았던 이유를 심각한 병에 걸렸었지만 당 활동에 복귀할 만큼 회복되었다고 설명했습니다. 그는 목소리에 문제가 남아있음에도 불구하고 유권자들의 지지에 감사를 표하며 선거 운동 첫날부터 지금까지 자신과 당이 최선을 다했기 때문에 후회는 없다고 말했습니다. 많은 후보들이 의석을 확보하는 데 성공했으며, 그렇지 못한 사람들은 격려해야 한다고 말하며 국민의 목소리는 의미가 있다고 덧붙였습니다. 그는 당이 의회 감독을 포함한 다른 역할을 수행할 준비가 되어 있으며 개인적으로 노력에 만족한다고 덧붙였습니다. 목요일 현재 비공식 결과에 따르면 쁘아타이당은 하원에서 74석(지역구 58석, 비례대표 16석)을 확보하여 2023년 141석에서 크게 줄어들어 Bhumjaithai와 인민당에 이어 3위를 차지했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Yodchanan satisfied with Pheu Thai effort despite setbacks",
@@ -5356,21 +5345,18 @@
       ],
       "collected_at": "19:43",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195948_700.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/thailand/politics/3195948/yodchanan-satisfied-with-pheu-thai-effort-despite-setbacks",
+      "source": ""
     },
     {
       "title": "경제당, '프라차이타이'와 정부 구성 합류 발표, 안보 책임 자처",
       "summary": "- 경제당이 프라차이타이당과 함께 정부를 구성하기로 결정. 랑시 장군은 장관 자리에 대한 조건 없이 안보를 책임지겠다고 밝힘.\n- 랑시 장군은 스캐머 단속을 정부 정책의 일부로 포함시켜 국민의 어려움을 해결하겠다고 강조.\n- 부정 투표 의혹에 대한 재검표 요구는 선거관리위원회의 결정에 따르며, 경제당은 정부와 협력할 준비가 되었다고 밝힘.",
       "full_translated": "랑시 장군이 이끄는 경제당이 프라차이타이당을 지지하며 정부 구성에 합류한다고 발표했습니다. 2569년 2월 12일, 랑시 키티야난사트 장군, 경제당 대표, 당 행정위원회, 비례대표 의원 당선자들은 선거 후 당의 정치적 방향에 대한 기자 회견을 열었습니다. 회견에서 당은 새로운 정부 구성을 위해 프라차이타이당을 지지하기로 만장일치로 결정했으며, 이미 프라차이타이당과 예비 논의를 가졌다고 밝혔습니다. 랑시 장군은 아누틴 찬위라쿨 프라차이타이당 대표와의 논의가 잘 진행되었으며, 장관 자리를 놓고 흥정하지 않았다고 확인했습니다. 주도 정당이 적절하다고 판단하는 대로 결정하도록 맡길 것이며, 경제당은 안보와 스캐머 단속 정책을 정부 정책의 일부로 포함시켜 국민의 어려움을 해결하는 데 목표를 두고 있다고 밝혔습니다. 여러 지역에서 부정 행위가 발견되어 전국적인 재검표 요구에 대해 랑시 장군은 이 문제가 선거관리위원회(꼬꼬따)의 의무이자 권한이라고 말했습니다. 재검표 여부는 우리에게 영향을 미치지 않습니다. 경제당은 절차에 따라 정부와 협력할 준비가 되어 있습니다...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스로, 여행객에게 직접적인 영향은 적으나, 정치적 안정은 간접적으로 영향을 줄 수 있음. 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "พรรคเศรษฐกิจประกาศร่วมหอลงโรง “ภูมิใจไทย” จัดตั้งรัฐบาล อาสาดูแลความมั่นคง",
@@ -5381,21 +5367,18 @@
       ],
       "collected_at": "19:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0cgGLhyifBjh6.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913897",
+      "source": ""
     },
     {
       "title": "กล้าธรรม당 -> กล้าทำ당 (끌라탐당), 소규모 정당과의 연대에 관심 없어, 58석 확보 자신",
       "summary": "- 끌라탐당은 2월 17일 58명의 당선자와 회의를 열어 향후 운영 방향 논의 예정.\n- 품짜이타이당의 소규모 정당 연대 시도에 개의치 않는다는 입장 표명.\n- 탐마낫 대표는 총리 선출이 4월까지 지연될 수 있다고 전망.",
       "full_translated": "กล้าธรรม당은 2월 17일 58명의 당선자와 회의를 열어 국회 운영 규칙에 따른 준비와 당의 방향 설정 논의 예정입니다. ภูมิใจไทย당이 소규모 정당과 연대를 시도하는 것에 대해 탐마낫 프롬파오 대표는 개의치 않는다는 입장을 밝혔습니다. 그는 또한 선거 결과에 대한 불확실성으로 인해 총리 선출이 4월까지 지연될 수 있다고 전망했습니다. 특히 파야오 지역의 부정확한 표 집계 문제를 지적하며, 선거관리위원회가 투명하게 처리해야 한다고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 정보. 여행 자체에 직접적인 영향은 적으나, 정치적 불안정 가능성을 고려하여 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "\"กล้าธรรม\" ไม่สน \"ภูมิใจไทย\" ดีลพรรคเล็ก โว 58 เสียงในมือรับรองไม่ธรรมดา",
@@ -5406,6 +5389,83 @@
       ],
       "collected_at": "19:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0dJWUUXvVMT4x.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913883",
+      "source": ""
+    },
+    {
+      "title": "핫야이 학교 총격 사건: 교장 사망, 학생 300명 인질",
+      "summary": "- 핫야이의 한 학교에서 10대 총격범이 교장에게 총격을 가함.\n- 학생 300명을 인질로 잡고 경찰과 대치 중.\n- 여행객 안전에 심각한 위협이 되는 사건.",
+      "full_translated": "핫야이에서 10대 총격범이 학교장을 쏘고 학생 300명을 인질로 잡았습니다. 해당 지역을 여행하는 여행객은 안전에 유의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총격 사건 및 인질극은 여행객의 안전에 직접적인 위협이 되므로 높은 점수를 부여함. 기존 뉴스에 이미 언급되었지만, 사건의 심각성을 고려하여 다시 포함.",
+      "event_info": {
+        "date": "2024-02-12",
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
+          "url": "https://www.thairath.co.th/news/local/south/2913901",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8DgyYpltASDTst.jpg"
+        }
+      ],
+      "collected_at": "21:05",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8DgyYpltASDTst.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "학교장, 학생 보호 중 사망: 태국 승왕, 용기에 경의 표해",
+      "summary": "- 송클라 주 파통 프라탄 키리왓 학교의 교장, 사시파차르 신사모손이 학생들을 보호하려다 사망함.\n- 태국 승왕이 그의 용기와 희생에 경의를 표함.\n- 왕실에서 장례 지원금을 기부함.",
+      "full_translated": "송클라 주 파통 프라탄 키리왓 학교에서 발생한 사건으로, 교장인 사시파차르 신사모손이 학생들을 보호하려다 부상을 입고 사망했습니다. 승왕은 그의 용기와 희생을 기렸으며, 왕실 사무국은 장례 지원금과 기타 물품을 기부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "학교 총격 사건과 관련된 비극적인 소식이며, 교장의 희생 정신을 기리는 내용은 사회적으로 중요한 의미를 가짐. 여행 자체에 직접적인 영향은 적으나, 사건의 배경 이해에 도움을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": "2024-02-11",
+        "location": "송클라 주, 파통 프라탄 키리왓 학교",
+        "price": null,
+        "location_google_map_query": "파통 프라탄 키리왓 학교 송클라"
+      },
+      "references": [
+        {
+          "title": "สมเด็จพระสังฆราช ทรงสดุดีความกล้าหาญ “ผอ.ศศิพัชร” ยอมสละชีวิตช่วยนักเรียน",
+          "url": "https://www.thairath.co.th/news/local/south/2913901",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8DgyYpltASDTst.jpg"
+        }
+      ],
+      "collected_at": "21:05",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8DgyYpltASDTst.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "촌부리 1구 재검표 불발에 시위대 항의",
+      "summary": "- 선거관리위원회의 재검표 불허 결정에 시위대가 격렬하게 항의.\n- 시위대는 증거를 수집했으며 부정 선거 의혹을 제기.\n- 시위대는 선거관리위원회의 결정에 불복하며 법적 대응 예고.",
+      "full_translated": "촌부리에서 선거관리위원회가 1구역의 재검표를 명령하지 않자 군중이 불만을 품고 야유를 보냈습니다. 지도부는 모든 증거가 잘 보관되어 있다고 확인했습니다. 2569년 2월 12일 18:00, 촌부리 시립 체육관, 방플라소이, 므앙촌부리 지역의 배드민턴 코트에서 약 100명의 시위대가 여전히 있었습니다. 그리고 군중이 설치하고 마이크를 사용하여 소리를 낸 텔레비전에서 선거관리위원회의 기자회견을 듣고 휴대폰으로 보는 시위대가 있었습니다. 선거관리위원회가 기자회견을 마치고 하원 의원 선거 1구역에 대한 새로운 투표가 없다는 결의안을 발표한 후 시위에 참여한 사람들의 야유가 있었습니다. 불만을 표출합니다. 한 여성이 슬퍼하며 울었습니다. 그 후 지도자는 중앙 선거관리위원회가 새로운 투표가 없다고 발표한 것에 불만을 표명하기 위해 연단에 올랐습니다. 우리는 첫날부터 모든 증거를 가지고 있다고 확인했습니다. 모든 증거를 잘 보관하고 있으며, 이번 선거와 개표는 분명히 투명하지 않을 것이라고 확인합니다. 이와 함께 체육관 옆 쓰레기통에 있는 증거를 언론에 보여줄 준비가 되어 있으며, 절대 돌아가지 않을 것임을 확인했습니다. 또한 선거구 1 국장과 촌부리 선거관리위원회에 대한 불만을 제기했습니다. ... 이후 워라착 스타폰피뇨 므앙촌부리 지역 관리와 시리반차 콴므앙 므앙촌부리 경찰서 부국장이 시위대 대표와 변호사를 초청하여 체육관 뒤편에서 해결책을 논의했습니다. 진전이 있으면 계속 보고하겠습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "선거 관련 시위 발생. 여행객의 안전에 직접적인 위협은 아니지만, 혼란을 야기할 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": "2026-02-12",
+        "location": "촌부리 시립 체육관",
+        "price": null,
+        "location_google_map_query": "촌부리 시립 체육관"
+      },
+      "references": [
+        {
+          "title": "มวลชนไม่พอใจ ส่งเสียงโห่ร้องหลัง กกต. สั่งไม่นับคะแนนใหม่ \"ชลบุรีเขต 1\"",
+          "url": "https://www.thairath.co.th/news/politic/2913910",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJ39HKH7YlZg.jpg"
+        }
+      ],
+      "collected_at": "21:05",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMJ39HKH7YlZg.jpg",
       "date": "2026-02-12"
     }
   ]
