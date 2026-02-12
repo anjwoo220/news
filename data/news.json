@@ -5664,14 +5664,9 @@
       "summary": "- 송클라 소재 학교에서 발생한 총격 사건으로 학교장이 사망하고 학생 300명이 인질로 잡혔던 사건에 대한 후속 보도.\n- 교육부 장관은 희생자를 기리고 유족에게 위로를 전하며, 학교 안전 강화를 약속함.\n- 교육부는 추가적인 지원과 안전 대책을 통해 유사한 사건의 재발을 방지할 계획.",
       "full_translated": "교육부 장관은 송클라 학교 총격 사건 희생자인 학교장을 애도하며, 교육계의 큰 손실이라고 밝혔습니다. 장관은 유족에게 위로를 전하고 학교 안전을 강화하겠다고 약속했습니다. 이번 사건은 학교장이 학생들을 보호하려다 목숨을 잃은 비극적인 사건으로, 교육부는 희생자의 숭고한 정신을 기리고 있습니다. 교육부는 학교 안전 점검 및 보안 시스템 강화, 교사 및 학생 대상 안전 교육 확대 등 재발 방지 대책을 마련할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "최근 발생한 총격 사건으로 인한 안전 문제 강조. 여행객 밀집 지역은 아니지만, 유사 사건 발생 가능성을 배제할 수 없어 주의 필요.",
-      "event_info": {
-        "date": "2024-02-12",
-        "location": "핫야이 인근 학교",
-        "price": null,
-        "location_google_map_query": "핫야이 학교"
-      },
+      "event_info": "{'date': '2024-02-12', 'location': '핫야이 인근 학교', 'price': None, 'location_google_map_query': '핫야이 학교'}",
       "references": [
         {
           "title": "พระราชทานน้ำหลวงอาบศพ “ผอ.ศศิพัชร” ด้าน “นฤมล” ย้ำ ศธ. สูญเสียครั้งใหญ่",
@@ -5680,23 +5675,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLujjhIK1tt9N.jpg"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLujjhIK1tt9N.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/politic/2913930",
+      "source": ""
     },
     {
       "title": "러시아, WhatsApp 사용 금지 명령 - 법률 미준수 이유",
       "summary": "- 러시아 정부가 WhatsApp 사용을 금지하며 자국 앱 사용을 장려하고 있습니다.\n- 러시아는 WhatsApp이 현지 법률을 준수하지 않는다고 주장합니다.\n- Meta는 러시아의 이러한 조치가 사용자들의 보안을 약화시킨다고 비판합니다.",
       "full_translated": "러시아 정부는 WhatsApp에 대한 사용 금지 명령을 내렸습니다. 이유는 법률 미준수입니다. 비판에도 불구하고 정부는 국민들이 MAX와 같은 자국 앱으로 전환하도록 압력을 가하고 있습니다. 2069년 2월 12일 목요일, 러시아 정부는 러시아 내에서 인기 있는 메시지 서비스인 WhatsApp에 대한 접근을 차단했다고 확인했습니다. 정부는 해당 서비스가 현지 법률을 준수하지 않는다고 주장하며 1억 명이 넘는 러시아 사용자들에게 국내 대안 앱으로 전환할 것을 촉구했습니다. 모스크바는 수개월 동안 러시아 사용자들을 종단 간 암호화가 없는 러시아 메시지 서비스인 MAX로 전환하려고 노력해 왔습니다. 활동가들은 이 앱이 감시 도구로 사용될 수 있다고 우려합니다. 크렘린궁 대변인 드미트리 페스코프는 기자들에게 \"WhatsApp 차단에 대한 결정이 내려졌고 실제로 시행되었습니다.\"라고 말했습니다. 그는 WhatsApp이 러시아 법률의 기준과 규정을 따르기를 꺼린다고 덧붙였습니다. 페스코프는 또한 \"MAX는 접근 가능한 대안이며, 개발 중인 메시지 앱이자 전국적인 메시지 앱이며, 국민들이 사용할 수 있는 대안입니다.\"라고 말했습니다. 미국 소셜 미디어 대기업 Meta 소유의 WhatsApp은 수요일에 러시아가 사용자들이 MAX로 전환하도록 강요하기 위해 자사 서비스를 완전히 차단하려고 시도하고 있다고 믿는다고 밝혔습니다. 성명에서 \"1억 명이 넘는 사용자를 개인적이고 안전한 통신에서 분리하려는 시도는 퇴보적이며 러시아 국민의 보안 감소로 이어질 뿐입니다.\"라고 밝혔습니다. \"사용자들이 계속 연결될 수 있도록 우리가 할 수 있는 모든 것을 계속할 것입니다.\" ... 관련 도메인 이름 중 일부가...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "WhatsApp 사용 금지가 여행자들에게 단기적인 불편을 초래할 수 있지만, 즉각적인 안전 문제는 아니므로 중간 점수를 부여. 여행자들은 다른 메시지 앱을 사용해야 할 수도 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รัสเซียยืนยัน สั่งแบน WhatsApp อ้างไม่ปฏิบัติตามกฎหมาย",
@@ -5705,23 +5697,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyOLCqNIj7tkyI.jpg"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyOLCqNIj7tkyI.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/foreign/2913941",
+      "source": ""
     },
     {
       "title": "촌부리 1구역 투표함 이송, 군중의 함성 속 진행",
       "summary": "- 촌부리 1구역에서 투표함 이송 작전이 시작됨.\n- 군중은 불만을 표출하며 함성을 질렀지만 폭력 사태는 발생하지 않음.\n- 경찰과 행정 당국은 만일의 사태에 대비하여 질서 유지에 힘씀.",
       "full_translated": "촌부리 1구역의 투표함 이송이 시작되었습니다. 2월 12일 22시, 촌부리 1구역의 투표용지 집계 장소인 체육관에서 선거관리위원회의 계획에 따라 투표함 이송을 위한 트럭이 준비되었습니다. 촌부리 행정 당국은 관련 공무원과 함께 투표함을 선관위 지정 장소로 이송하기 위해 현장에 투입되었습니다. 투표함 이송 시도가 시작되자, 이미 현장에 있던 군중은 거세게 항의하며 불만을 표출했습니다. 이러한 긴장된 분위기 속에서도 폭력 사태는 발생하지 않았으며, 경찰과 행정 당국은 상황이 악화되지 않도록 질서 유지에 만전을 기했습니다. 22시 50분, 촌부리 행정 당국은 투표함 이송을 시작했으며, 시민들은 환호와 박수로 이 상황을 지켜봤습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단. 다만 정치적 불안정 가능성을 고려하여 정보를 제공.",
-      "event_info": {
-        "date": null,
-        "location": "촌부리 1구역",
-        "price": null,
-        "location_google_map_query": "촌부리 1구역"
-      },
+      "event_info": "{'date': None, 'location': '촌부리 1구역', 'price': None, 'location_google_map_query': '촌부리 1구역'}",
       "references": [
         {
           "title": "เจ้าหน้าที่ขนย้ายหีบเลือกตั้ง \"ชลบุรีเขต 1\" แล้ว ท่ามกลางเสียงโห่ร้องของมวลชน",
@@ -5730,23 +5719,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLvNf3f1A3Wxq.jpg"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLvNf3f1A3Wxq.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/politic/2913938",
+      "source": ""
     },
     {
       "title": "태국 경찰 특수 작전팀, UAE SWAT Challenge 2026에서 세계 5위 안에 들어",
       "summary": "- 태국 경찰 특수 작전팀이 UAE SWAT Challenge 2026에서 우수한 성적을 거둠.\n- 남자팀은 세계 5위와 10위를 차지했으며, 여자팀은 여자팀 중 4위를 기록.\n- 태국 경찰의 뛰어난 능력과 기술을 국제적으로 입증.",
       "full_translated": "태국 경찰 특수 작전팀이 UAE SWAT Challenge 2026에서 뛰어난 성적을 거두어 세계 5위 안에 들었습니다. 2026년 2월 12일, 우돈 욤짜른 경찰청 차장은 국가 경찰청이 킷랏 판펫 경찰청장과 사무란 누안마 부청장의 지휘 아래 3개의 태국 경찰 특수 작전팀을 두바이에서 열린 UAE SWAT Challenge 2026에 파견했다고 밝혔습니다. 2월 7일부터 11일까지 열린 이 대회에서 태국 경찰팀은 남자팀과 여자팀 모두 뛰어난 성적을 거두어 세계 Top 5와 Top 10에 이름을 올렸습니다. 48개국에서 참가한 UAE SWAT Challenge 2026에서 태국 국가 경찰청 대표팀은 정확하고 단호한 전술 기술과 강인한 체력을 선보이며 세계적인 수준임을 입증했습니다. TEAM RTP B (남자팀)는 세계 5위, TEAM RTP A (남자팀)는 세계 10위, TEAM RTP C (여자팀)는 여자팀 중 4위, 전체 57위를 차지했습니다. 우돈 차장은 이번 대회에서 태국 경찰팀에게 보내주신 모든 응원과 성원에 감사드리며, UAE SWAT Challenge 2026에서의 성공은 태국 경찰이 국제적인 수준의 뛰어난 능력과 기술을 보유하고 있음을 입증하는 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경찰의 국제적인 성과는 태국의 치안 수준을 간접적으로 보여주며, 여행객 안전에 대한 인식을 높일 수 있음.",
-      "event_info": {
-        "date": "2026-02-07 ~ 2026-02-11",
-        "location": "두바이, 아랍에미리트",
-        "price": "알 수 없음",
-        "location_google_map_query": "두바이"
-      },
+      "event_info": "{'date': '2026-02-07 ~ 2026-02-11', 'location': '두바이, 아랍에미리트', 'price': '알 수 없음', 'location_google_map_query': '두바이'}",
       "references": [
         {
           "title": "ชุดปฏิบัติการพิเศษตำรวจไทย ทำผลงานเยี่ยมติด Top 5 ของโลก ศึก UAE SWAT CHALLENGE 2026",
@@ -5755,23 +5741,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLvaVjA5FigBV.jpg"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLvaVjA5FigBV.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/crime/2913920",
+      "source": ""
     },
     {
       "title": "아누틴 총리, 선거 부정 주장을 일축",
       "summary": "- 아누틴 총리는 선거 부정 주장을 일축하며, 재검표 결정은 선거관리위원회의 권한이라고 강조했습니다.\n- 그는 내무부의 선거 개입 주장에 대해 정부는 선거관리위원회의 요청에 따른 지원만 제공했다고 밝혔습니다.\n- 아누틴 총리는 부정 행위는 없었을 것이라고 확신하며, 자당의 정책과 지지 덕분에 의석을 확보했다고 덧붙였습니다.",
       "full_translated": "아누틴 차른비라쿨 총리는 선거 부정 주장을 일축하며, 전국적인 재검표 결정은 선거관리위원회(EC)의 권한에 달려 있다고 밝혔습니다. 또한 선거 결과 인증에 대한 법적 기한 내에 있다고 강조했습니다.\n\n내무부 장관이자 선거에서 승리한 Bhumjaithai당 대표인 아누틴 씨는 80개의 '민주주의' 단체 네트워크가 내무부가 2월 8일 총선에 개입했다는 주장에 응답했습니다. 그는 \"투표를 담당하는 기관은 선거관리위원회(EC)입니다. 정부는 어떠한 관여도 하지 않았습니다.\"라고 말하며 정부의 역할은 EC의 요청에 따라 물류 지원을 제공하는 데 국한된다고 덧붙였습니다.\n\n총리는 장관의 개입 가능성에 대해 웃으며 \"만약 내가 개입할 수 있다면 누구의 사업에 개입하겠습니까? 나는 규칙을 따릅니다.\"라고 말했습니다. 전국적인 재검표 요구에 대해 아누틴 씨는 이 문제가 전적으로 EC가 결정할 문제라고 거듭 강조했습니다. 그는 부정 행위는 없었을 것이라고 확신하며, Bhumjaithai당은 정책과 대중의 지지 덕분에 의석을 확보했다고 말했습니다. 그는 투표 과정 전반이 질서정연하게 진행되었으며, 당 대표들이 첫 번째 투표부터 마지막 투표까지 개표 과정을 지켜보았기 때문에 부정 행위가 발생할 가능성은 매우 낮다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 정보 제공. 직접적인 여행 영향은 적으나, 정치적 안정성은 여행 환경에 간접적 영향을 미치므로 낮은 점수 부여. 기존 뉴스에 유사 내용이 없으므로 추가.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Anutin rejects election fraud claims",
@@ -5780,8 +5763,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195970_260212194133_700.jpg"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195970_260212194133_700.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/politics/3195970/anutin-rejects-election-fraud-claims",
+      "source": ""
+    },
+    {
+      "title": "촌부리에서 오스트리아 마약 도망자 체포",
+      "summary": "- 인터폴에 의해 코카인 밀매 및 살인 미수 혐의로 수배 중이던 23세 오스트리아 남성이 촌부리에서 체포됨.\n- 용의자는 나 좀티엔의 한 호텔에서 체포되었으며, 체포 전 2주간의 조사와 감시가 있었음.\n- 용의자는 현재 태국 비자가 취소되었으며, 오스트리아로 송환되어 법적 처벌을 기다리고 있음.",
+      "full_translated": "촌부리 - 코카인 밀매 혐의로 인터폴의 수배를 받고 있던 23세 오스트리아 남성이 이민국에 의해 사타힙 지역의 한 호텔에서 체포되었습니다. 이민국 경찰은 수요일 오후 나 좀티엔의 한 호텔에서 Fabio로만 확인된 23세 남성을 체크인 직후 체포했습니다. 이번 체포는 거의 2주간의 조사와 감시 끝에 이루어졌다고 Cheongron Rimpadee 국장이 밝혔습니다. 오스트리아 연방 경찰은 태국 경찰에 용의자 수색을 요청했으며, 용의자는 1월 28일 Wiener Neustadt 검찰청에서 발부한 유럽 연합 체포 영장에 의해 수배 중입니다. 인터폴 적색 수배령은 1월 30일에 용의자에게 발령되었습니다. 용의자는 인터폴 경보가 시스템에 업로드되기 전에 비자 면제 제도로 태국에 입국했다고 Cheongron 국장은 말했습니다. 용의자는 오스트리아의 코카인 밀매 네트워크에 속해 있으며 체포된 여러 딜러에게 마약을 공급한 혐의를 받고 있으며, 경찰은 총 1.5kg의 코카인을 압수했습니다. 그는 또한 폭행 및 살인 미수 혐의로 기소되었습니다. 그의 태국 비자는 취소되었으며 현재 오스트리아로 송환되어 법적 조치를 기다리고 있습니다. 이번 체포는 C",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 범죄 관련 소식이므로 여행객 안전에 간접적인 영향을 줄 수 있다고 판단. 촌부리 지역 여행객에게는 정보를 제공할 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리",
+        "price": null,
+        "location_google_map_query": "촌부리"
+      },
+      "references": [
+        {
+          "title": "Austrian drug fugitive nabbed in Chon Buri",
+          "url": "https://www.bangkokpost.com/thailand/general/3195924/austrian-drug-fugitive-nabbed-in-chon-buri",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195924_700.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195924_700.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "촌부리에서 불법 신체 개조 클리닉 적발",
+      "summary": "- 경찰이 촌부리에서 불법 신체 개조 시술소를 급습하여 38세 남성을 체포했습니다.\n- 용의자는 면허 없이 의술을 행하고 허가 없이 의료 시설을 운영한 혐의로 기소되었습니다.\n- 그는 교도소에서 배운 기술을 사용하여 성기 확대술 등을 제공하며 틱톡을 통해 광고했습니다.",
+      "full_translated": "촌부리 - 한 남성이 자신의 집에서 불법 신체 개조 사업을 운영하고 성기 확대술을 포함한 서비스를 홍보한 혐의로 체포되었습니다. 소비자 보호 경찰 부서(CPPD), 보건 서비스 지원 부서 및 촌부리 지방 공중 보건 사무소의 경찰관들은 목요일 시 라차 지역의 한 가옥을 급습하여 타낫으로만 확인된 38세 남성을 체포했습니다. 그는 면허 없이 의술을 행하고 허가 없이 의료 시설을 운영한 혐의로 기소되었습니다. 타낫 씨는 의료 자격이 없고 허가된 클리닉 밖에서 운영하고 있음에도 불구하고 \"창 비우 모디파이\" (Chang Bew Modify)라는 이름으로 틱톡에서 자신의 서비스를 홍보했는데, 이는 고객을 감염 및 기타 심각한 합병증에 노출시킬 수 있다고 CPPD 4부서장인 위라퐁 클레이통 경찰 대령이 말했습니다. 남성의 집에서 제공되는 서비스에는 성기 구슬 삽입, 성기 확대 주사 및 포경 수술이 포함되었습니다. 잠복 경찰관은 용의자의 집에서 약속을 잡은 후 해당 구역을 수색하고 체포하기 위한 법원 영장을 받았습니다. 수색 결과 683개의 유리 구슬, 필러 5상자, 수술용 칼날 136개, 주사기, 봉합 바늘, 마취제 병을 포함한 다량의 의료 및 수술 기구 및 용품이 발견되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객의 안전에 잠재적인 위협이 될 수 있는 불법 의료 행위 관련 뉴스. 태국 내 의료 서비스 이용 시 주의를 요함.",
+      "event_info": {
+        "date": null,
+        "location": "Si Racha district, Chon Buri",
+        "price": null,
+        "location_google_map_query": "Si Racha district, Chon Buri"
+      },
+      "references": [
+        {
+          "title": "Police bust illegal body modification clinic in Chon Buri",
+          "url": "https://www.bangkokpost.com/thailand/general/3195863/police-bust-illegal-body-modification-clinic-in-chon-buri",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195863_260212152808_700.jpeg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195863_260212152808_700.jpeg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국에서 길 잃은 개를 해외로 입양하는 방법",
+      "summary": "- 한 Reddit 사용자가 태국 치앙마이에서 발견한 개를 미국으로 데려가는 방법에 대한 질문을 게시.\n- 국제적인 반려동물 입양은 신중한 계획, 건강 검사 및 시간이 필요하며 올바른 접근 방식을 통해 가능함.\n- 태국의 동물 학대 방지 및 복지법은 길 잃은 동물을 보호하고 입양 방법을 규제하며, 등록된 보호소와 협력하는 것이 좋음.",
+      "full_translated": "한 Reddit 사용자가 태국 치앙마이 지방에서 반한 개를 미국으로 데려가는 방법에 대해 질문한 후, 댓글 작성자들은 국제적인 반려동물 입양에 대한 실질적인 조언을 공유했습니다. 최근 한 커플이 치앙마이 근처에서의 경험에 대해 소셜 미디어 포럼에 게시했습니다. 그들은 다른 길 잃은 개들에게 괴롭힘을 당하는 강아지를 발견하고 돕고 싶었습니다. 북부 지방을 떠나 태국 주변을 2주 동안 여행하기 불과 이틀 전에 그들은 개를 미국으로 데려가는 것이 그들의 시간 내에 가능한지 궁금해했습니다. 답은 이틀 안에는 안 된다는 것입니다. 국제적인 반려동물 입양은 신중한 계획, 건강 검사 및 시간이 필요하지만 올바른 접근 방식을 통해 가능합니다. 태국의 동물 학대 방지 및 복지법은 길 잃은 동물을 보호하고 입양 방법을 규제합니다. 길에서 직접 개를 데려가는 것이 불법은 아니지만 당국은 적절한 건강 검진 및 서류를 위해 등록된 보호소와 협력할 것을 권장합니다. 모든 입양된 반려동물은 식별 및 소유권 추적을 위해 마이크로칩을 이식해야 합니다. 여러 기관이 태국에서 국제 입양을 전문으로 합니다. 그들은 입양 수수료 없이 물류를 처리합니다. 입양인은 운송, 건강 검사 및 여행 상자에 대해서만 비용을 지불합니다. 이 기관은 광견병 역가 검사, 대기 기간(목적지에 따라 28일에서 6개월)을 관리하고 자원 봉사 에스코트 비행 또는 화물 운송을 조정합니다. 입양 전에",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 동물을 구조하고 해외로 데려가는 절차에 대한 정보는 장기 여행자나 동물 애호가에게 유용할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Foreigners want to adopt a Thai stray dog — here’s how",
+          "url": "https://www.bangkokpost.com/thailand/special-reports/3195820/foreigners-want-to-adopt-a-thai-stray-dog-heres-how",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195820_700.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195820_700.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "미국 정부, 미네소타 이민자 단속 종료 임박 발표",
+      "summary": "- 트럼프 행정부, 미네소타 이민자 단속 작전 종료 승인\n- 미니애폴리스-세인트폴 지역에서 4,000명 이상 체포, 논란 야기\n- 주지사는 며칠 내 작전 종료 예상",
+      "full_translated": "트럼프 행정부의 국경 정책 책임자는 미네소타 이민자 단속 작전이 곧 종료될 것이라고 밝혔습니다. 이 작전으로 인해 미네소타에 범죄자 은신처가 줄었다고 강조했습니다. 2569년 2월 12일 목요일, 도널드 트럼프 대통령 정부의 국경 정책 책임자인 톰 호먼은 미네소타에서 대규모 구금, 시위, 2명의 사망자를 초래한 강력한 이민자 단속이 곧 종료될 것이라고 발표했습니다. 호먼은 기자 회견에서 \"이곳에서의 노력의 결과로 미네소타는 범죄자 은신처가 줄었습니다.\"라고 말했습니다. 그는 \"저는 대통령(도널드) 트럼프에게 이 소탕 작전을 중단할 것을 제안했고 승인받았습니다.\"라고 덧붙였습니다. 민주당 소속의 팀 월즈 미네소타 주지사는 화요일에 12월에 시작된 Metro Surge 작전이 트럼프 행정부 고위 관리와의 대화를 인용하여 \"몇 주 또는 몇 달이 아닌 며칠\" 내에 종료될 것으로 예상한다고 말했습니다. 연방 정부 기관은 미니애폴리스-세인트폴 도시 지역을 대상으로 한 미국 이민세관단속국(ICE)의 단속으로 인해 4,000명 이상이 체포되었다고 밝혔습니다. 트럼프 행정부는 체포된 사람들을 \"위험한 범죄자인 불법 외국인\"이라고 불렀지만, 체포된 많은 사람들은 범죄 기록이 없었습니다. 또한 많은 어린이와 미국 시민이 구금되었습니다. 호먼은 \"이번 소탕 작전은 미니애폴리스를 더욱 안전하게 만들고 있습니다.\"라고 말했습니다. \"미네소타는 범죄자 은신처가 줄었습니다.\"라고 다시 한 번 강조했습니다. ... 호먼은 소탕 작전을 이어받기 위해 파견되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행과는 직접적인 관련은 없지만, 이민 정책 변화는 여행객에게 간접적인 영향을 미칠 수 있습니다. 하지만 현재로서는 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัฐบาลสหรัฐฯ ลั่น การปราบผู้อพยพในมินนิโซตา ใกล้สิ้นสุดลงแล้ว",
+          "url": "https://www.thairath.co.th/news/foreign/2913935",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLuHhu7YMOIPI.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyLuHhu7YMOIPI.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "촌부리 1구역 재검표 불허: 선거관리위원회, 모든 측면 조사",
+      "summary": "- 촌부리 1구역의 재검표 요구가 기각되었습니다.\n- 선거관리위원회는 모든 측면을 조사할 것을 지시했습니다.\n- 신청자는 사건을 직접 목격하지 못했다고 합니다.",
+      "full_translated": "선거관리위원회(껑떠.)는 촌부리 1구역의 재검표를 명령하지 않았습니다. 모든 측면을 조사할 것을 재차 강조하며, 신청자가 직접 사건을 목격하지 못했다고 밝혔습니다. 160개 이상의 투표소에서 투표 계산에 대한 이의 제기가 없었다고 덧붙였습니다. 2월 12일 오후 5시 20분, 나롱 끄란와린 선거관리위원장, 싸웽 분미 선거관리위원회 사무총장, 크루칫 차른인 부사무총장, 파스콘 시리파카야폰 부사무총장은 선거관리위원회 2층에서 '국회의원 선거 및 국민투표'에 대한 기자회견을 열었습니다. 파스콘 부사무총장은 촌부리에서 투표가 끝난 후 일부 군중이 투표함 통합 장소인 촌부리 1구역 체육관에 모여들었다고 밝혔습니다. 당시 투표함 통합 절차가 진행 중이었고, 오해가 발생하여 재검표 요청이 있었습니다. 모든 당사자에게 정확하고 공정하게 절차가 진행될 수 있도록 선거관리위원회는 크루칫에게 법률 준수 여부와 재검표 명령 여부를 검토하기 위한 사실 확인을 지시했습니다. 크루칫은 촌부리 1구역 국회의원 선거 재검표 요청과 관련하여 사실 확인을 위해 임명받은 후, 시위대가 있었지만 신청자는 10명에 불과했다고 밝혔습니다. 신청서에는 3가지 주요 사항이 있었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "선거 관련 소식이지만, 여행객에게 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "มติ กกต. “ชลบุรี เขต 1” ไม่นับคะแนนใหม่ ตรวจสอบทุกมิติ ผู้ยื่นคำร้องไม่เห็นเหตุการณ์เอง",
+          "url": "https://www.thairath.co.th/news/politic/2913895",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0cf2JSKYkTMf7.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0cf2JSKYkTMf7.jpg",
       "date": "2026-02-13"
     }
   ]
