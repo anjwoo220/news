@@ -4475,14 +4475,9 @@
       "summary": "- 핫야이의 한 학교에서 10대 총격범이 교장에게 총격을 가해 사망.\n- 범인은 17세 소년으로, 과거 정신 질환 치료 이력 있음.\n- 초기에는 학생들을 인질로 잡았으나, 현재는 상황 종료.",
       "full_translated": "핫야이의 학교에서 발생한 총격 사건으로 교장이 사망했습니다. 용의자는 17세 소년으로, 과거 정신 질환 치료를 받은 적이 있습니다. 그는 학교에 침입하여 교장에게 총격을 가하고 학생들을 인질로 잡았습니다. 경찰은 상황을 통제하고 용의자를 체포했습니다. 안타깝게도 교장은 병원에서 사망했습니다. 이 사건으로 인해 지역 사회는 큰 충격에 빠졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총격 사건으로 인한 여행객 안전에 대한 잠재적 위협, 지역 사회의 혼란 가능성.",
-      "event_info": {
-        "date": "2024-02-12",
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "Hat Yai"
-      },
+      "event_info": "{'date': '2024-02-12', 'location': '핫야이', 'price': None, 'location_google_map_query': 'Hat Yai'}",
       "references": [
         {
           "title": "อาลัย \"ผอ.โรงเรียนพะตงประธานคีรีวัฒน์\" ถูกคนร้ายยิงเจ็บสาหัส ล่าสุดเสียชีวิตแล้ว",
@@ -4491,23 +4486,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n2e3OvneAxCb.jpg"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy2n2e3OvneAxCb.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/society/2913669",
+      "source": ""
     },
     {
       "title": "논타부리에서 열린 '달 위의 달' 의식",
       "summary": "- 논타부리주 므앙 지역의 프라삿 사원에서 희귀한 '달 위의 달' 성수 목욕 의식이 열렸습니다.\n- 400년 된 루앙 포 야이 불상 앞에서 진행되며 불운을 씻어내고 행운을 가져다준다고 믿어집니다.\n- 수천 명의 신자들이 참여하여 축복을 기원했습니다.",
       "full_translated": "수천 명의 신자들이 2026년 2월 2일 논타부리주 므앙 지역의 프라삿 사원에 모여 희귀한 '달 위의 달' 성수 목욕 의식에 참여했습니다. 이 의식은 400년 된 루앙 포 야이 불상 앞에서 보름달 아래에서 열리며, 불운을 씻어내고 매력, 행운, 축복을 가져다준다고 믿어집니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 전통 문화에 대한 정보이며, 특별한 경험을 원하는 여행객에게 흥미로울 수 있습니다. 다만, 특정 날짜에 진행되는 행사라는 점과, 모든 여행객에게 해당되는 정보는 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": "2026-02-02",
-        "location": "Prasat temple in Muang district of Nonthaburi province",
-        "price": "무료",
-        "location_google_map_query": "Prasat temple Nonthaburi"
-      },
+      "event_info": "{'date': '2026-02-02', 'location': 'Prasat temple in Muang district of Nonthaburi province', 'price': '무료', 'location_google_map_query': 'Prasat temple Nonthaburi'}",
       "references": [
         {
           "title": "Thailand's moon-upon-moon ceremony",
@@ -4516,8 +4508,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195664_700.jpg"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195664_700.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.bangkokpost.com/video/thailand/3195664/moonuponmoon-ceremony-at-buddhist-temple-in-nonthaburi-thailand",
+      "source": ""
+    },
+    {
+      "title": "핫야이 총격 사건: 학교장 사망, 학생 인질극 발생",
+      "summary": "- 총리가 핫야이 학교 총격 사건에 대한 경찰 조사를 촉구했습니다.\n- 용의자는 학교장을 살해하고 학생들을 인질로 잡았습니다.\n- 당국은 상황을 해결하기 위해 노력 중이며, 여행객은 해당 지역 접근을 피해야 합니다.",
+      "full_translated": "아누틴 총리는 핫야이 학교에서 발생한 총격 사건에 대한 자세한 내용을 경찰에 요청했습니다. 그는 이 사건을 끔찍한 사건으로 규정하고, 초기에 진압해야 한다고 강조했습니다. 보도에 따르면 용의자는 학교장을 살해하고 학생들을 인질로 잡았습니다. 경찰은 용의자를 체포하기 위해 노력하고 있습니다. 여행객은 안전을 위해 해당 지역에 접근하지 않는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총격 및 인질 사건은 여행객 안전에 직접적인 위협이 되므로 높은 점수를 부여합니다. 기존 뉴스에 사건 발생 사실이 있었으나, 학교장 사망이라는 상황 업데이트가 발생했습니다.",
+      "event_info": {
+        "date": null,
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "นายกฯ โยน ตร.แจงรายละเอียดคนร้ายคลั่งยิง ผอ.รร.พะตงฯ ชี้ เป็นเหตุอุกอาจ",
+          "url": "https://www.thairath.co.th/news/politic/2913742",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1gptEfROQmEjd.jpg"
+        }
+      ],
+      "collected_at": "11:02",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1gptEfROQmEjd.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "방콕 PM2.5 초미세먼지, 68개 지역 기준치 초과: 방락 지역 최고",
+      "summary": "- 방콕의 초미세먼지(PM2.5) 농도가 기준치를 초과하여 건강에 영향을 미칠 수 있습니다.\n- 68개 지역에서 기준치를 넘었으며, 특히 방락 지역이 가장 심각합니다.\n- 여행 시 마스크 착용 등 건강 관리에 유의하시기 바랍니다.",
+      "full_translated": "2069년 2월 12일, 방콕의 초미세먼지(PM2.5) 농도가 심각한 수준입니다. 68개 지역에서 기준치를 초과하는 오염이 발생했으며, 특히 방락 지역의 농도가 61.6 마이크로그램/세제곱미터로 가장 높게 측정되었습니다. 방콕시 대기질 정보센터는 오전 5시부터 7시까지 3시간 동안 측정한 결과, 평균 농도가 47.6 마이크로그램/세제곱미터로 기준치(37.5 마이크로그램/세제곱미터)를 넘어섰다고 밝혔습니다. 농도는 다소 감소하는 추세이지만, 여전히 건강에 악영향을 미칠 수 있는 수준입니다. 주요 초과 지역은 다음과 같습니다: 1. 방락, 2. 빠툼완, 3. 쁘라웻, 4. 끌롱쌈와, 5. 랏끄라방, 6. 방커램, 7. 방쿤티안, 8. 농켐, 9. 타위와타나, 10. 랏차테위.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "매일 업데이트되는 미세먼지 정보는 여행자의 건강과 여행 계획에 중요한 영향을 미치므로 포함. 특히, 방콕 주요 지역의 오염 수치를 제공하여 실질적인 도움이 될 수 있음.",
+      "event_info": {
+        "date": "2069-02-12",
+        "location": "방콕 주요 지역",
+        "price": null,
+        "location_google_map_query": "방콕 초미세먼지 오염 지역"
+      },
+      "references": [
+        {
+          "title": "ค่าฝุ่นวันนี้ 12 ก.พ. 69 กทม. PM 2.5 เกินมาตรฐาน 68 พื้นที่ \"เขตบางรัก\" สูงสุด",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2913735",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB7s6CLCUiZZIYaV.jpg"
+        }
+      ],
+      "collected_at": "11:02",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB7s6CLCUiZZIYaV.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "송클라 학교 총격 사건 이후, 태국 '타이 싸앙 타이' 당, 교육 시설 내 폭력 방지 위한 특별위원회 설립 촉구",
+      "summary": "- '타이 싸앙 타이' 당은 송클라 학교 총격 사건 이후 교육 시설 내 폭력 방지를 위한 특별위원회 설립을 지지합니다.\n- 이 위원회는 아동과 청소년의 안전을 보장하고, 정부가 즉시 실행할 수 있는 명확한 결론을 도출하는 데 중요한 역할을 할 것입니다.\n- 과거 정부의 미흡한 대처를 극복하고, 관련 부처 간 협력을 강화하여 실질적인 안전 대책을 마련하는 것을 목표로 합니다.",
+      "full_translated": "타이 싸앙 타이 당 대변인인 프리예스 앙쿠르키티는 송클라 지방의 학교에서 발생한 침입 사건에 대해 깊은 애도를 표하며, 새로운 하원 의원들이 모든 형태의 학교 폭력 예방을 위한 특별위원회를 신속하게 구성할 것을 촉구했습니다. 그는 이것이 정부가 즉시 실행할 수 있는 명확한 결론을 도출하는 데 중요한 메커니즘이 될 것이라고 강조했습니다. 과거 여러 정부의 검토가 구체적인 결과로 이어지지 않았기 때문입니다. 이 문제는 여러 기관과 부처에 걸쳐 있으며, 장관들이 다른 정당 출신이기 때문에 업무 통합이 어렵습니다. 의회 메커니즘을 사용하여 공동 결론을 도출하고 내각에 전달하는 것이 최선의 해결책이 될 것입니다.\n\n타이 싸앙 타이 당 대변인은 총격 사건, 학생 간 폭력, 어린 아이들의 안전 등 모든 문제가 자녀의 삶을 교육 기관에 맡겨야 하는 부모의 감정에 영향을 미친다고 덧붙였습니다. 따라서 그는 다음 의회가 이 위원회를 조속히 추진하여 필요한 법률을 검토, 수정 또는 개정할 충분한 시간을 갖기를 요청합니다. 타이 싸앙 타이 당은 의회에서 많은 의석을 차지하지 않지만, 다수당의 협력을 구하여 이 문제의 중요성을 인식하고 아동과 청소년의 안전을 지속적으로 구축하는 데 도움을 줄 것을 요청합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "학교 안전 관련 소식이지만, 여행객에게 직접적인 위협은 아니므로 중간 점수 부여. 다만, 유사 사건 발생 가능성을 인지할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "송클라",
+        "price": null,
+        "location_google_map_query": "송클라"
+      },
+      "references": [
+        {
+          "title": "ไทยสร้างไทย หนุนสภาชุดใหม่ตั้ง กมธ.ป้องกันความรุนแรงในสถานศึกษา หลังเหตุสลดที่สงขลา",
+          "url": "https://www.thairath.co.th/news/politic/2913732",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1jBiXLJkfFOdx.jpg"
+        }
+      ],
+      "collected_at": "11:02",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1jBiXLJkfFOdx.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "아누틴 총리, 정부 구성 관련 결정 시간 충분하다고 발언",
+      "summary": "- 아누틴 총리는 정부 구성에 참여할 파트너 선택에 시간이 충분하다고 언급함.\n- 녹색 또는 적색과의 연정에 대한 질문에 '국기 색'이라고 답함.\n- 오늘 당 회의에서 하원 의원들을 위한 지역구 조정에 대해 논의할 예정이라고 밝힘.",
+      "full_translated": "아누틴 총리는 정부 구성에 참여할 파트너를 선택하는 데 시간이 충분하다고 재차 강조했습니다. 녹색 또는 적색과의 연정 가능성에 대해서는 '국기 색'이라고 답했습니다. 오늘 당 회의에서 약 200명에 달하는 하원 의원들을 위한 지역구 조정에 대해 논의할 예정이며, 당의 위치가 풍수지리적으로 좋기 때문에 이전하지 않을 것이라고 밝혔습니다. 2069년 2월 12일, 아누틴 차안비라쿨 총리 겸 내무부 장관은 승려 108명에게 탁발 공양을 하고 라차보핏 사원에서 열린 행사에 참석한 후 이같이 밝혔습니다. 총리는 총대주교가 알현할 때마다 축복을 해 주시지만, 총리직을 계속 수행하는 것에 대해 특별한 언급은 없었다고 전했습니다. 총리는 염주를 목에 걸고 사원을 나섰으며, 지지자들이 준 것이라고 밝혔습니다. 기자가 염주가 강하고 안정적이며 번영하는 데 도움이 되는지 묻자, 아누틴은 넘어지지 않도록 돕는다고 농담했습니다. 총리는 정부 구성을 위해 어떤 세력을 규합할지에 대한 질문에 선거관리위원회의 승인을 기다리는 데 60일의 시간이 있지만 지난번에는 30일이 걸렸다고 답했습니다. 선거관리위원회의 절차를 서두를 수 없으며, 정부 구성 공식이 녹색 또는 적색으로 이루어질지, 어떤 색이 정부의 안정에 도움이 될지 묻는 질문에 아누틴은 국기 색이라고 답했습니다. 총리는 다음 정부에서 겸임할지 여부에 대한 질문에...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적음. 정부 구성 관련 논의는 국내 정치에 대한 정보이지만, 현재 시점에서 여행자에게 중요한 정보는 아님.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” ลั่นยังมีเวลาตัดสินใจเลือกใครร่วมรัฐบาล ส่วนจะดีลเขียวหรือแดง ตอบ “สีธงชาติ”",
+          "url": "https://www.thairath.co.th/news/politic/2913749",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1gpPe2Oidvotp.jpg"
+        }
+      ],
+      "collected_at": "11:02",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy1gpPe2Oidvotp.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "촌부리 선거구, 투표함 재검표 요구 시위 지속",
+      "summary": "- 촌부리 1구역에서 재검표를 요구하는 시위대가 투표함 감시를 이어가고 있음.\n- 시위대는 투표함 보관 장소에서 승려를 초청해 기도를 올리며 재검표를 요구하고 있음.\n- 선거관리위원회의 명확한 답변을 촉구하며, 불확실성이 지속될 경우 고령층의 불편을 호소.",
+      "full_translated": "촌부리 1구역 국회의원 선거에서 재검표를 요구하는 시위대가 투표함을 계속 지키고 있습니다. 시위대는 행운을 빌기 위해 승려를 초청하여 탁발 행사를 가졌으며, 재검표를 요구하고 있습니다. 2월 12일 오전 7시 30분, 촌부리 시립 배드민턴 코트에서는 투표함 감시자들이 투표함 보관 장소에서 승려에게 탁발하는 의식을 가졌습니다. 이는 투표함과 선거 장비의 질서를 유지하기 위한 것입니다. 사람들은 선거관리위원회의 명확한 입장을 기다리고 있습니다. 많은 사람들은 투표 과정의 투명성을 위해 진전 상황을 서둘러 설명해 줄 것을 요구하고 있습니다. 유와디(53세)는 선관위가 재검표 여부를 발표해 주기를 바라며, 그렇지 않으면 상황이 길어질 것이라고 말했습니다. 또한 이 지역 주민들은 어린이와 노인들이 많아 소음이 크지 않더라도 노인들이 잠을 못 이룰 수 있다고 우려했습니다. 카닛타난트(55세)는 재검표를 원하지만 문제가 있는 상자에 대해 어떻게 확신할 수 있는지 의문을 제기했습니다. 그녀는 과거 투표 관리관으로서 상자를 꼼꼼히 닫아야 한다는 것을 알고 있지만, 상자가 이미 열려 있는 것을 보고 확신할 수 없어 재선거를 원한다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "선거 관련 시위가 여행에 직접적인 영향을 미치지는 않으나, 지역 정치 상황에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리",
+        "price": null,
+        "location_google_map_query": "촌부리"
+      },
+      "references": [
+        {
+          "title": "มวลชนยังปักหลักเฝ้าหีบบัตร เลือกตั้ง สส.เขต 1 ชลบุรี ยืนยันอยากให้นับใหม่",
+          "url": "https://www.thairath.co.th/news/politic/2913746",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB7s7jyk1bDlA6ek.jpg"
+        }
+      ],
+      "collected_at": "11:02",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB7s7jyk1bDlA6ek.jpg",
       "date": "2026-02-12"
     }
   ]
