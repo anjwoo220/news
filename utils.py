@@ -4556,22 +4556,37 @@ def generate_tour_itinerary(tours, region="방콕"):
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel('gemini-2.0-flash')
         
+        # Determine Current Season in Thailand
+        current_month = datetime.now().month
+        # Typical Thailand: Rainy (Jun-Oct), Dry/Cool (Nov-May)
+        is_rainy_season = 6 <= current_month <= 10
+        season_str = "우기(비가 자주 옴)" if is_rainy_season else "건기(여행하기 좋음)"
+
         # Format tour list for prompt
-        tour_list_str = "\n".join([f"- {t['name']} ({t.get('type', '일반')}, {t.get('desc', '')})" for t in tours])
+        tour_list_str = "\n".join([f"- {t['name']} (태그: {', '.join(t.get('type', [])) if isinstance(t.get('type'), list) else t.get('type', '일반')}, 설명: {t.get('desc', '')})" for t in tours])
         
         prompt = f"""
-        당신은 태국 {region} 여행 전문가입니다.
-        사용자가 선택한 아래 투어 상품들을 조합하여 가장 효율적인 **'1일(또는 2일) 타임테이블'**을 작성해주세요.
+        당신은 태국 {region} 여행 전문가입니다. 
+        현재는 **{current_month}월({season_str})**입니다. 
+        사용자가 장바구니에 담은 아래 투어 상품들을 조합하여 가장 현실적이고 여유로운 **'최적의 여행 일정표'**를 작성해주세요.
         
         [선택한 투어 목록]
         {tour_list_str}
         
-        [요구사항]
-        1. 이동 동선과 투어 소요 시간을 고려하여 오전/오후/저녁으로 현실적으로 배치하세요.
-        2. 식사 시간(점심, 저녁)도 적절히 포함해주세요.
-        3. 각 일정마다 간단한 꿀팁이나 주의사항을 한 줄씩 덧붙여주세요.
-        4. 결과는 깔끔한 마크다운(Markdown) 표 또는 리스트 형식으로 출력하세요.
-        5. 서론/결론 없이 바로 일정표를 출력하세요. 친근한 말투(해요체)를 사용하세요.
+        [필수 고려사항]
+        1. **계절 및 날씨 (중요)**: 
+           - 현재가 **우기**인 경우, 상품 태그에 '실내'가 포함된 상품을 우선적으로 배치하거나 비가 내릴 때를 대비한 플랜B를 제안하세요.
+           - **건기**인 경우, 야외 활동과 풍경 감상을 최대한 즐길 수 있도록 배치하세요.
+        2. **교통 체증 및 이동 시간**: {region}의 교통 체증(트래픽 잼)을 고려하여 일정 사이의 이동 시간을 매우 넉넉하게(최소 1~1.5시간 이상) 배치하세요.
+        3. **체력 및 피로도**: 여행자의 체력을 고려하여 하루에 너무 많은 투어를 몰아넣지 마세요. '느긋하고 여유로운 여행(Slow Travel)'이 되도록 배치하세요.
+        4. **유연한 기간 설정**: 선택된 투어의 개수와 성격에 따라 1~5일 이상의 장기 일정으로 자연스럽게 확장하여 구성하세요.
+        5. **식사 및 휴식**: 매일 적절한 점심, 저녁 식사 시간과 중간 휴식 시간을 반드시 포함하세요.
+        
+        [출력 형식]
+        - 날짜별로 구분하여 출력하세요 (예: Day 1, Day 2...).
+        - 깔끔한 마크다운(Markdown) 리스트 또는 표 형식을 사용하세요.
+        - 전문적인 팁(복장, 준비물, 맛집 등)을 날씨에 맞게 한 줄씩 추가하세요.
+        - 서론과 결론은 생략하고 바로 일정표 내용만 출력하세요. 친근한 말투(해요체)를 사용하세요.
         """
         
         response = model.generate_content(prompt)
