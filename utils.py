@@ -4468,8 +4468,8 @@ def load_tours():
     # 1. Try Google Sheets
     sheet_tours = load_tours_from_sheet()
     if sheet_tours:
-        # Update local cache
-        save_tours_local(sheet_tours)
+        # Update local cache (Disabled to prevent app restart during session)
+        # save_tours_local(sheet_tours)
         return sheet_tours
         
     # 2. Fallback to Local
@@ -4489,10 +4489,10 @@ def save_tours(tours):
     # 1. Save to Sheet
     success = save_tours_to_sheet(tours)
     
-    # 2. Save to Local (Cache)
-    save_tours_local(tours)
-    
+    # 2. Save to Local (Cache - Only if Sheet fails and on Localhost)
+    # Writing to source files causes Streamlit to restart, clearing sessions.
     if not success:
+        save_tours_local(tours)
         print("Warning: Failed to save to Google Sheet, but saved locally.")
 
 def save_tours_local(tours):
