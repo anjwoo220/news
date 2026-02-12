@@ -5222,14 +5222,9 @@
       "summary": "- 쁘라찐부리 고속도로에서 중국인 스캐머 조직을 방콕으로 운송하는 차량 검거\n- 운전자는 찬타부리 국경에서 1인당 1만 바트에 고용\n- 총 9명의 중국인, 휴대폰 244대, 노트북 등 압수, 여권 미소지",
       "full_translated": "쁘라찐부리 고속도로 경찰이 찬타부리 국경에서 방콕 랑싯으로 향하는 스캐머 연계 '회색 중국인'을 운송하는 조직을 검거했습니다. 운전자는 한 번 운송에 1만 바트를 받는다고 자백했으며, 또 다른 운전자는 1인당 3,000바트를 받았다고 자백하며 3번째 운송이라고 밝혔습니다. 추가 조사가 진행 중입니다. 2569년 2월 12일 오전 11시, 까몰롭 한웨트 경감과 쁘라찐부리 고속도로 경찰은 359번 도로(쁘라찐-사깨오)를 순찰하던 중 고속으로 과적한 듯 보이는 수상한 차량을 발견했습니다. 쁘라찐부리 고속도로 경찰은 차량을 추격하여 흰색 도요타 포춘 승용차(오 껏 쩟 로이 방콕)를 세웠습니다. 운전자는 촌티 마니토(36세, 농부아람푸)였습니다. 차량을 수색한 결과 중국인 승객 9명(남성 8명, 여성 1명)이 발견되었으며, 각자 가방에 휴대폰, 인터넷 케이블, 유심 카드 등 총 244대의 휴대폰(전부 켜짐), 노트북 1대, 마우스 1개, 유심 카드 32개 및 기타 장비가 들어 있었습니다. 모든 사람은 유효한 여권을 소지하지 않았습니다. 경찰은 운전자와 중국인을 쁘라찐부리 고속도로 경찰서로 데려가 조사했습니다... 초기 조사 결과 촌티 마니토(36세)는 중국인을 찬타부리 까오소이다오 지역 국경에서 랑싯 시장으로 운송하는 대가로 10,000바트를 받은 것으로 밝혀졌습니다. 또한, 자신 외에도 중국인을 태국 수도로 운송하기 위해 359번 도로를 이용하는 다른 차량이 있다고 진술했습니다. 쁘라찐부리 고속도로 경찰은 추가 차량을 수색하던 중 검은색 미쓰비시 차량(씨 커 욘)",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 대상 범죄 및 불법 입국 관련 소식은 여행 시 주의를 요하므로 포함.  이미 방콕 호텔에서 불법 입국한 중국인 체포 기사가 있지만, 이번 건은 국경 지역에서 조직적으로 이동하는 케이스이므로 업데이트로 간주.",
-      "event_info": {
-        "date": null,
-        "location": "쁘라찐부리",
-        "price": null,
-        "location_google_map_query": "쁘라찐부리"
-      },
+      "event_info": "{'date': None, 'location': '쁘라찐부리', 'price': None, 'location_google_map_query': '쁘라찐부리'}",
       "references": [
         {
           "title": "ตำรวจทางหลวงปราจีนบุรี สกัดจับขบวนการขนจีนเทา เครือข่ายสแกมเมอร์ เข้ากรุงเทพฯ",
@@ -5240,21 +5235,18 @@
       ],
       "collected_at": "18:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0ce9BlBH0DRR6.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/crime/2913898",
+      "source": ""
     },
     {
       "title": "유명한 무당, 의식을 속여 성추행",
       "summary": "- 앙통 지역의 유명한 무당이 의식을 속여 여성들을 성추행했다는 주장이 제기됨.\n- 피해 여성들은 온라인을 통해 해당 무당의 행위를 비난하며 유사 피해 사례를 공유.\n- 경찰은 해당 사건에 대한 조사에 착수함.",
       "full_translated": "앙통의 유명한 무당이 여성들을 속여 의식을 행한 후 성추행했다는 주장이 제기되었습니다. 피해 여성들은 온라인을 통해 해당 무당의 행위를 비난하며 유사 피해 사례를 공유했습니다. 경찰은 현재 이 사건에 대한 조사에 착수했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사건 자체는 여행객에게 직접적인 영향은 없지만, 유사 피해 방지를 위해 인지할 필요가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "앙통 지역",
-        "price": null,
-        "location_google_map_query": "앙통"
-      },
+      "event_info": "{'date': None, 'location': '앙통 지역', 'price': None, 'location_google_map_query': '앙통'}",
       "references": [
         {
           "title": "สาวแฉ ลุงสัปเหร่อชื่อดัง หลอกทำพิธีล้างคุณไสย ก่อนล่วงละเมิด",
@@ -5265,21 +5257,18 @@
       ],
       "collected_at": "18:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0cft1kWxhGX4L.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/crime/2913893",
+      "source": ""
     },
     {
       "title": "파타야 농눅 정원, 중국 설 맞아 코끼리 행렬과 사자춤 공연",
       "summary": "- 파타야 농눅 정원에서 2069년 중국 설 축제 개최.\n- 코끼리 행렬, 사자춤 등 다채로운 볼거리 제공.\n- 2월 16~17일 다양한 공연 및 행사 진행.",
       "full_translated": "촌부리주 파타야의 농눅 정원에서 2069년 중국 설 축제가 2월 11일에 성대하게 개최되었습니다. 코끼리 행렬과 사자춤 공연이 펼쳐져 관광객들에게 즐거움을 선사했습니다. 이 행사는 중국 문화유산을 보존하고 태국 사회에 기여하기 위해 마련되었으며, 태국인과 외국인 관광객 모두에게 문화적 가치를 전달합니다. 행사 기간 동안 관광객들은 성스러운 물건에 경의를 표하고 새해를 맞이하는 축복을 기원할 수 있습니다. 2월 16일부터 17일까지 음악 공연, 경품 행사 등 다양한 활동이 진행됩니다. 농눅 정원은 매일 오전 8시부터 오후 6시까지 개장합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국 설 축제 정보는 여행객에게 흥미로운 경험을 제공할 수 있으며, 파타야 방문객에게 잠재적인 관광 명소 정보 제공.",
-      "event_info": {
-        "date": "2069-02-16 ~ 2069-02-17",
-        "location": "농눅 정원, 파타야",
-        "price": "웹사이트 참조",
-        "location_google_map_query": "농눅 정원 파타야"
-      },
+      "event_info": "{'date': '2069-02-16 ~ 2069-02-17', 'location': '농눅 정원, 파타야', 'price': '웹사이트 참조', 'location_google_map_query': '농눅 정원 파타야'}",
       "references": [
         {
           "title": "\"ตรุษจีน 2569\" สวนนงนุชพัทยา จัดขบวนช้างแสนรู้ เชิดสิงโตสุดยิ่งใหญ่ รับนักท่องเที่ยว",
@@ -5290,6 +5279,133 @@
       ],
       "collected_at": "18:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0dJvvJu7ZFsmF.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/local/localbusiness/2913888",
+      "source": ""
+    },
+    {
+      "title": "태국 국립공원, 위험 야생동물 소유 규제 강화",
+      "summary": "- 태국 국립공원, 야생동물 및 식물 보호국이 위험 야생동물 소유에 대한 규제 강화 발표.\n- 치타, 사자, 고릴라 등 10종의 동물에 대한 소유 규제 강화, 안전 및 동물 복지 기준 강화.\n- 규정 위반 시 처벌 강화, 야생동물 관리 및 보호 노력 강화.",
+      "full_translated": "태국 국립공원, 야생동물 및 식물 보호국(끄롬 웃타얀 행ชาติ 쑤앗빠 라에 판프)은 위험 야생동물 소유에 대한 규제를 강화한다고 발표했습니다. 2024년 2월 12일, 아타폰 짜른찬사(앗타폰 짜른찬사) 국장은 새로운 규정은 위험 동물 종(쑤앗빠 콘크룸 차닛 꼬)에 대한 통제 강화가 목표이며, 전국적으로 허가 기준을 통일하고 2019년 야생동물 보호법에 따라 감독 효율성을 높이는 데 중점을 둔다고 밝혔습니다.\n\n이번 조치로 인해 '위험 야생동물 종 A'로 분류된 10종의 동물에 대한 규제가 강화됩니다. 여기에는 대형 육식 동물(치타, 사자, 재규어), 대형 영장류(마운틴 고릴라, 고릴라, 침팬지, 보노보, 수마트라 오랑우탄, 보르네오 오랑우탄), 그리고 그린 아나콘다와 같은 대형 뱀이 포함됩니다. 위험도가 낮은 '야생동물 종 B'는 2022년 규정에 따라 기존의 57종에 대한 감독이 유지됩니다.\n\n새로운 규정에 따라 담당 직원은 동물의 행동에 적합한지, 동물이 평생 동안 자연스러운 행동을 보일 수 있는 복지 환경인지, 야생동물 전문가의 건강 관리가 제공되는지 등 모든 측면에서 소유 장소를 자세히 검사합니다. 소유자는 동물 복지를 보장하고 공공 안전을 유지하기 위해 필요한 모든 조치를 취해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객이 직접적으로 야생동물을 소유할 가능성은 낮지만, 동물원이나 관련 시설 방문 시 안전에 대한 인식을 높일 필요가 있음. 규제 강화는 잠재적으로 동물 학대나 안전 사고로부터 여행객을 보호하는 간접적인 효과가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กรมอุทยานแห่งชาติฯ ประกาศยกระดับคุมเข้มการครอบครอง 10 สัตว์ป่าควบคุมชนิด ก",
+          "url": "https://www.thairath.co.th/news/local/2913903",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMqigioWJsArt.jpg"
+        }
+      ],
+      "collected_at": "19:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMqigioWJsArt.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "방콕 등 3개 지역 재선거 명령, 2월 22일 실시",
+      "summary": "- 태국 선거관리위원회, 방콕, 난, 우돈타니 3개 지역 재선거 명령\n- 2월 22일 재선거 실시, 빠툼타니는 재검표\n- 부정행위 및 투표용지 손상으로 인한 결정",
+      "full_translated": "태국 선거관리위원회(꼬.꼬.떠.)는 2월 22일 방콕, 난, 우돈타니 3개 지역에서 재선거를 실시한다고 발표했습니다. 이는 부정행위 및 투표용지 손상으로 인한 결정입니다. 빠툼타니 지역은 재검표를 진행합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정치 상황에 대한 정보 제공. 여행에 직접적인 영향은 적지만, 정치적 상황에 관심 있는 여행자에게 유용.",
+      "event_info": {
+        "date": "2024-02-22",
+        "location": "방콕 (칸나야오), 난, 우돈타니",
+        "price": null,
+        "location_google_map_query": "칸나야오 방콕"
+      },
+      "references": [
+        {
+          "title": "กกต. สั่งเลือกตั้งใหม่ 3 หน่วยใน กทม.-น่าน-อุดรฯ 22 ก.พ. ส่วนปทุมฯ ให้นับคะแนนใหม่",
+          "url": "https://www.thairath.co.th/news/politic/2913905",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMqwfRBopANyO.jpg"
+        }
+      ],
+      "collected_at": "19:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyMqwfRBopANyO.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "요드차난, 쁘아타이당 노력에 만족 표명",
+      "summary": "- 요드차난 웡사왓 쁘아타이당 총리 후보는 선거 결과에 낙담하지 않았다고 밝혔습니다.\n- 그는 당 지도부가 연립 정부에 참여할지 야당 역할을 할지 결정할 것이라고 덧붙였습니다.\n- 그는 유권자들의 지지에 감사를 표하며 당이 최선을 다했다고 말했습니다.",
+      "full_translated": "쁘아타이당 총리 후보인 요드차난 웡사왓은 일요일 선거 결과에 낙담하지 않았다고 밝혔으며, 연립 정부에 참여할지 야당 역할을 할지는 당 집행위원회가 결정할 것이라고 덧붙였습니다. 목요일 방콕 쁘아타이당 본부에서 요드차난은 2월 9일 이후 대중의 눈에 띄지 않았던 이유를 심각한 병에 걸렸었지만 당 활동에 복귀할 만큼 회복되었다고 설명했습니다. 그는 목소리에 문제가 남아있음에도 불구하고 유권자들의 지지에 감사를 표하며 선거 운동 첫날부터 지금까지 자신과 당이 최선을 다했기 때문에 후회는 없다고 말했습니다. 많은 후보들이 의석을 확보하는 데 성공했으며, 그렇지 못한 사람들은 격려해야 한다고 말하며 국민의 목소리는 의미가 있다고 덧붙였습니다. 그는 당이 의회 감독을 포함한 다른 역할을 수행할 준비가 되어 있으며 개인적으로 노력에 만족한다고 덧붙였습니다. 목요일 현재 비공식 결과에 따르면 쁘아타이당은 하원에서 74석(지역구 58석, 비례대표 16석)을 확보하여 2023년 141석에서 크게 줄어들어 Bhumjaithai와 인민당에 이어 3위를 차지했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Yodchanan satisfied with Pheu Thai effort despite setbacks",
+          "url": "https://www.bangkokpost.com/thailand/politics/3195948/yodchanan-satisfied-with-pheu-thai-effort-despite-setbacks",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195948_700.jpg"
+        }
+      ],
+      "collected_at": "19:43",
+      "image_url": "https://static.bangkokpost.com/media/content/20260212/c1_3195948_700.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "경제당, '프라차이타이'와 정부 구성 합류 발표, 안보 책임 자처",
+      "summary": "- 경제당이 프라차이타이당과 함께 정부를 구성하기로 결정. 랑시 장군은 장관 자리에 대한 조건 없이 안보를 책임지겠다고 밝힘.\n- 랑시 장군은 스캐머 단속을 정부 정책의 일부로 포함시켜 국민의 어려움을 해결하겠다고 강조.\n- 부정 투표 의혹에 대한 재검표 요구는 선거관리위원회의 결정에 따르며, 경제당은 정부와 협력할 준비가 되었다고 밝힘.",
+      "full_translated": "랑시 장군이 이끄는 경제당이 프라차이타이당을 지지하며 정부 구성에 합류한다고 발표했습니다. 2569년 2월 12일, 랑시 키티야난사트 장군, 경제당 대표, 당 행정위원회, 비례대표 의원 당선자들은 선거 후 당의 정치적 방향에 대한 기자 회견을 열었습니다. 회견에서 당은 새로운 정부 구성을 위해 프라차이타이당을 지지하기로 만장일치로 결정했으며, 이미 프라차이타이당과 예비 논의를 가졌다고 밝혔습니다. 랑시 장군은 아누틴 찬위라쿨 프라차이타이당 대표와의 논의가 잘 진행되었으며, 장관 자리를 놓고 흥정하지 않았다고 확인했습니다. 주도 정당이 적절하다고 판단하는 대로 결정하도록 맡길 것이며, 경제당은 안보와 스캐머 단속 정책을 정부 정책의 일부로 포함시켜 국민의 어려움을 해결하는 데 목표를 두고 있다고 밝혔습니다. 여러 지역에서 부정 행위가 발견되어 전국적인 재검표 요구에 대해 랑시 장군은 이 문제가 선거관리위원회(꼬꼬따)의 의무이자 권한이라고 말했습니다. 재검표 여부는 우리에게 영향을 미치지 않습니다. 경제당은 절차에 따라 정부와 협력할 준비가 되어 있습니다...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스로, 여행객에게 직접적인 영향은 적으나, 정치적 안정은 간접적으로 영향을 줄 수 있음. 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "พรรคเศรษฐกิจประกาศร่วมหอลงโรง “ภูมิใจไทย” จัดตั้งรัฐบาล อาสาดูแลความมั่นคง",
+          "url": "https://www.thairath.co.th/news/politic/2913897",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0cgGLhyifBjh6.jpg"
+        }
+      ],
+      "collected_at": "19:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0cgGLhyifBjh6.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "กล้าธรรม당 -> กล้าทำ당 (끌라탐당), 소규모 정당과의 연대에 관심 없어, 58석 확보 자신",
+      "summary": "- 끌라탐당은 2월 17일 58명의 당선자와 회의를 열어 향후 운영 방향 논의 예정.\n- 품짜이타이당의 소규모 정당 연대 시도에 개의치 않는다는 입장 표명.\n- 탐마낫 대표는 총리 선출이 4월까지 지연될 수 있다고 전망.",
+      "full_translated": "กล้าธรรม당은 2월 17일 58명의 당선자와 회의를 열어 국회 운영 규칙에 따른 준비와 당의 방향 설정 논의 예정입니다. ภูมิใจไทย당이 소규모 정당과 연대를 시도하는 것에 대해 탐마낫 프롬파오 대표는 개의치 않는다는 입장을 밝혔습니다. 그는 또한 선거 결과에 대한 불확실성으로 인해 총리 선출이 4월까지 지연될 수 있다고 전망했습니다. 특히 파야오 지역의 부정확한 표 집계 문제를 지적하며, 선거관리위원회가 투명하게 처리해야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보. 여행 자체에 직접적인 영향은 적으나, 정치적 불안정 가능성을 고려하여 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"กล้าธรรม\" ไม่สน \"ภูมิใจไทย\" ดีลพรรคเล็ก โว 58 เสียงในมือรับรองไม่ธรรมดา",
+          "url": "https://www.thairath.co.th/news/politic/2913883",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0dJWUUXvVMT4x.jpg"
+        }
+      ],
+      "collected_at": "19:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0dJWUUXvVMT4x.jpg",
       "date": "2026-02-12"
     }
   ]
