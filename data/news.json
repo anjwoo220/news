@@ -4783,14 +4783,9 @@
       "summary": "- 핫야이에서 발생한 총격 사건의 새로운 정보.\n- 10대 총격범이 학교장을 쏘고 학생들을 인질로 잡음.\n- 현재 경찰이 대응 중이며, 상황이 계속 업데이트될 예정.",
       "full_translated": "태국 핫야이에서 10대 총격범이 학교장에게 총격을 가하고 학생 300명을 인질로 잡은 사건이 발생했습니다.  사건 발생 후 경찰이 현장에 출동하여 대응 중이며, 정확한 사건 경위와 인질들의 안전 여부는 아직 확인되지 않았습니다.  추가 정보가 나오는 대로 업데이트될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "여행객 안전에 직접적인 위협이 될 수 있는 심각한 범죄 사건이므로 높은 점수를 부여. 기존 뉴스에 상황 업데이트 발생.",
-      "event_info": {
-        "date": null,
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "Hat Yai"
-      },
+      "event_info": "{'date': None, 'location': '핫야이', 'price': None, 'location_google_map_query': 'Hat Yai'}",
       "references": [
         {
           "title": "แจ้ง 3 ข้อหาหนุ่มคลั่งยิง ผอ.โรงเรียนพะตงฯ แจงปมคนร้ายชิงอาวุธปืนตำรวจไปได้",
@@ -4801,21 +4796,18 @@
       ],
       "collected_at": "14:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Z7qC9nf9plzb.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/crime/2913814",
+      "source": ""
     },
     {
       "title": "핫야이 학교 총격 사건: 부상자 발생 및 인질극",
       "summary": "- 핫야이의 한 학교에서 10대 총격범이 학교장에게 총격을 가함.\n- 학생 300명을 인질로 잡고 경찰과 대치 중.\n- 추가적인 부상자 발생 가능성이 있어 여행객 주의 요망.",
       "full_translated": "핫야이의 한 학교에서 10대 총격범이 학교장을 총으로 쏘고 학생 300명을 인질로 잡는 사건이 발생했습니다. 경찰이 현장에 출동하여 용의자와 대치 중입니다. 학교는 현재 봉쇄되었으며, 추가적인 부상자 발생 가능성이 있습니다. 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따라 주시기 바랍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총격 및 인질극으로 여행객 안전에 직접적인 위협이 될 수 있으며, 현장 주변 혼란이 예상되므로 높은 점수 부여. 기존 게시된 뉴스에서 상황이 업데이트됨.",
-      "event_info": {
-        "date": "2024-02-12",
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "핫야이 학교"
-      },
+      "event_info": "{'date': '2024-02-12', 'location': '핫야이', 'price': None, 'location_google_map_query': '핫야이 학교'}",
       "references": [
         {
           "title": "กระทรวงยุติธรรม เตรียมจ่ายเงินเยียวยา \"ผู้บาดเจ็บ-เสียชีวิต\" เหตุยิง รร.พะตงฯ",
@@ -4826,21 +4818,18 @@
       ],
       "collected_at": "14:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0ZedlhY8rOmth.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/crime/2913822",
+      "source": ""
     },
     {
       "title": "핫야이 학교 총격 사건: 경찰, 18세 용의자 조사 및 학교장 사망",
       "summary": "- 송클라 핫야이의 학교에서 18세 남성이 총기를 난사하여 학교장이 사망하고 학생 2명이 부상당함.\n- 용의자는 경찰에 체포되었으며, 사건 경위를 조사 중.\n- 경찰은 해당 사건에 대해 깊은 애도를 표하고, 추가 피해 방지를 위해 노력하고 있음.",
       "full_translated": "송클라 핫야이 지역의 파통프라탄키리왓 학교에서 발생한 총격 사건과 관련하여, 경찰청장은 진상 조사를 위한 위원회를 구성했습니다. 18세 남성이 경찰관의 총을 빼앗아 학교장을 살해한 사건입니다. 경찰은 피해자에 대한 깊은 애도를 표했습니다.\n\n사건은 파통프라탄키리왓 학교에서 발생했으며, 용의자는 교사와 학생들을 인질로 잡았습니다. 이로 인해 학교장이 사망하고 학생 2명이 부상당했습니다. 경찰은 신중한 전술을 사용하여 용의자를 제압했습니다.\n\n경찰은 페이스북 페이지를 통해 학교장의 죽음에 대한 애도를 표하며, 교육자로서의 헌신에 경의를 표했습니다. 현재 핫야이 경찰서에서는 경찰청 차장과 송클라 경찰청장을 비롯한 수사팀이 사건에 대한 회의를 진행하고 있습니다.\n\n사건 당시 용의자는 가족을 해치고 있다는 신고를 받고 출동한 경찰관에게 흉기를 휘둘렀으며, 경찰관이 방탄복 덕분에 부상을 피한 후 경찰차로 도망치자 경찰차에 있던 총기를 탈취하여 범행을 저지른 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 직접적인 위협이 될 수 있는 총격 사건이며, 특히 학교라는 장소에서 발생했다는 점에서 불안감을 야기할 수 있음. 유사 사건 발생 가능성에 대한 경각심을 높여야 함. 기존 게시된 뉴스에서 '사망' 정보가 업데이트 됨.",
-      "event_info": {
-        "date": "2024-07-26",
-        "location": "파통프라탄키리왓 학교, 핫야이, 송클라",
-        "price": null,
-        "location_google_map_query": "파통프라탄키리왓 학교 핫야이 송클라"
-      },
+      "event_info": "{'date': '2024-07-26', 'location': '파통프라탄키리왓 학교, 핫야이, 송클라', 'price': None, 'location_google_map_query': '파통프라탄키리왓 학교 핫야이 송클라'}",
       "references": [
         {
           "title": "ผบช.ภ.9 ตั้ง กก.สอบ ปมชาย 18 ปีแย่งปืนตำรวจ ยิง ผอ.รร.พะตงประธานคีรีวัฒน์ เสียชีวิต",
@@ -4851,21 +4840,18 @@
       ],
       "collected_at": "14:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Z7VBaAONB9eg.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/crime/2913818",
+      "source": ""
     },
     {
       "title": "중국 춘절 연휴, 태국과 러시아 여행객 급증",
       "summary": "- 중국 춘절 연휴 기간 동안 해외여행 수요 급증 예상.\n- 태국은 따뜻한 날씨로 중국인 여행객에게 인기.\n- 러시아는 비자 면제 정책으로 예약 건수가 100% 이상 증가.",
       "full_translated": "중국 여행사들은 다음 주 9일간의 춘절 연휴 동안 해외여행객이 크게 증가할 것으로 예상했습니다. 인기 여행지는 러시아, 호주, 태국, 한국, 북유럽 등입니다. 일본은 인기가 하락하고 있습니다.\n\n많은 여행사들은 춘절 또는 봄 축제가 '말의 해'와 일치하는 다음 주에 더 많은 중국인들이 해외로 여행할 것이라고 밝혔습니다. 올해 중국 정부는 2월 15일부터 시작하여 평소보다 하루 더 긴 9일간의 긴 연휴를 발표했습니다. 이로 인해 상점, 영화관, 식당 등에서 소비가 활발해질 것으로 예상됩니다. 중국 당국은 올해 '40일간의 여행 기간' 동안 총 승객 수가 95억 명으로 지난해 90억 2천만 명에서 증가할 것으로 예상하고 있습니다. 관련 기관은 긴 연휴가 국내 관광과 해외여행 모두 경제를 활성화하는 데 도움이 되기를 희망합니다.\n\n태국은 다시 한번 인기 여행지 1위를 차지했습니다. 상하이 스프링 투어의 조우 웨이홍 경영진은 태국의 따뜻한 날씨가 추위를 피하고 싶어하는 중국인을 끌어들이는 주요 요인이라고 밝혔습니다. 러시아는 러시아 정부가 지난 12월 중국인에 대한 비자 면제를 발표한 결과, 예약이 전년 대비 100% 이상 급증했습니다. Trip.com은 호주로의 장거리 여행이 뚜렷하게 회복되어 호주를 방문하는 관광객 수가 100% 이상 증가했다고 보고했습니다. 중국이 경제적 불확실성, 부동산 위기, 고용 불안에 직면해 있음에도 불구하고 말입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "춘절 연휴 기간 동안 태국 여행객 증가 예상. 여행 편의 및 관련 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รัสเซีย–ไทยติดโผ ชาวจีนแห่เที่ยวต่างประเทศเทศกาลตรุษจีนปีม้า ญี่ปุ่นยังลด",
@@ -4876,21 +4862,18 @@
       ],
       "collected_at": "14:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0ZeiifVUFy6gQ.jpg",
-      "date": "2026-02-12"
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/foreign/2913821",
+      "source": ""
     },
     {
       "title": "총선 후 태국 정부 구성 지연: 새 정부 구성 난항",
       "summary": "- 총선 후 정부 구성 관련, 정당 간 이견으로 난항 예상.\n- 선거관리위원회의 부정선거 논란 재검표 요구로 정치적 불확실성 증가.\n- 차기 정부 구성 및 정책 방향에 대한 불확실성이 커지면서 여행 관련 정책에도 영향 우려.",
       "full_translated": "총선 이후 태국 정부 구성이 지연되고 있습니다.  쁘라차랏당과 경제당이 당에 합류하는 문제는 고위 관계자들이 처리할 문제입니다.  수판부리 지역의 재검표 요구에 대해 와라웃은 선거관리위원회의 권한에 달려 있다고 밝혔습니다.  정부 구성에 대한 논의는 아직 진행되지 않았으며, 쁘라차랏당과 경제당의 합류는 고위 관계자들이 처리할 문제입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "정치적 불확실성은 여행 심리에 간접적 영향을 줄 수 있으며, 특히 장기 여행객에게는 정보 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“วราวุธ” เผยยังไม่แบ่งเก้าอี้ รมต. โยน กกต. ตัดสินนับคะแนนใหม่สุพรรณบุรี",
@@ -4901,6 +4884,131 @@
       ],
       "collected_at": "14:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Z7mM5IKALTSx.jpg",
+      "date": "2026-02-12",
+      "link": "https://www.thairath.co.th/news/politic/2913815",
+      "source": ""
+    },
+    {
+      "title": "태국 남부 핫야이, 10대 총격범이 학교장에게 총격, 학생 300명 인질로 잡아 (속보)",
+      "summary": "- 핫야이에서 10대 총격범이 학교에 침입, 교장을 총으로 쏘고 학생들을 인질로 잡음.\n- 현재 300명의 학생이 인질로 억류 중이며, 경찰이 현장에 출동하여 대치 중.\n- 여행객 안전에 심각한 위협이 될 수 있으므로 해당 지역 방문 자제 권고.",
+      "full_translated": "핫야이에서 발생한 총격 및 인질 사건에 대한 속보입니다. 10대 총격범이 학교에 침입하여 교장을 총으로 쏘고 300명의 학생을 인질로 잡았습니다. 현재 경찰이 현장에 출동하여 범인과 대치 중이며, 상황이 유동적이므로 해당 지역 방문을 자제하는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총격 및 인질 사건으로 여행객 안전에 직접적인 위협이 되므로 매우 높은 점수 부여. 기존 뉴스에 이미 언급되었으나, 인질극이 진행 중인 '현재 진행형' 사건이므로 업데이트로 간주.",
+      "event_info": {
+        "date": null,
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "Teen gunman shoots school director, takes 300 students hostage in Hat Yai",
+          "url": null,
+          "source": "Bangkok Post"
+        }
+      ],
+      "collected_at": "15:36",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "핫야이 학교 총격 사건: 범인, 교사 찾다 학교장에게 총격, 학생 인질극",
+      "summary": "- 핫야이의 한 학교에서 18세 남성이 총기를 난사하여 학교장과 학생 부상.\n- 범인은 과거 정신과 치료 이력 있으며, 마약 사용 전력도 있음.\n- 범행 동기는 여교사를 찾지 못해 불만을 품은 것으로 추정.",
+      "full_translated": "핫야이에서 발생한 학교 총격 사건 관련 속보입니다. 18세 남성이 학교에 침입하여 총기를 난사, 학교장과 학생 2명이 부상을 입었습니다. 용의자는 과거 정신과 치료를 받은 이력이 있으며, 마약 사용 전력도 있는 것으로 알려졌습니다. 범행 동기는 특정 여교사를 찾지 못해 불만을 품고 범행을 저지른 것으로 추정됩니다. 현재 학생들을 인질로 잡고 대치 중입니다. 학교 측은 해당 교사가 학생을 체벌했다는 보도는 사실이 아니라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "외국인 여행객 안전에 직접적인 위협을 가하는 사건이므로 매우 높은 점수를 부여함. 특히 학교라는 공공장소에서 발생한 총기 사건은 추가적인 위험을 초래할 수 있음. 기존 뉴스에서 '인질극' 정보가 업데이트 됨.",
+      "event_info": {
+        "date": "2024-02-12",
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이 학교"
+      },
+      "references": [
+        {
+          "title": "เปิดคำชี้แจง \"ครูเจ\" เผยสาเหตุชายวัย 18 ถือปืนบุกโรงเรียนพะตงฯ มาตามหา-ปัดลงโทษเด็ก",
+          "url": "https://www.thairath.co.th/news/local/south/2913838",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y9MwduWa5RGR.jpg"
+        }
+      ],
+      "collected_at": "15:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y9MwduWa5RGR.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "핫야이 10대 총격범 사건: 학교장 사망, 이전 정신 질환 치료 전력",
+      "summary": "- 핫야이 학교에서 18세 청소년이 총기 난사, 학교장 사망.\n- 범인은 과거 정신 질환 치료 전력 있으며, 범행 전 방화 및 총기 탈취.\n- 현재 경찰 조사 진행 중.",
+      "full_translated": "핫야이에서 발생한 총격 사건으로 학교장이 사망하고 학생들이 인질로 잡혔던 사건의 새로운 정보입니다. 18세 청소년이 학교에 침입하여 총기를 난사했으며, 이로 인해 학교장이 사망했습니다. 범인은 과거 정신 질환 치료를 받은 적이 있으며, 사건 발생 전에 자신의 집에서 방화를 저지르고 경찰의 총기를 훔쳐 학교로 향한 것으로 밝혀졌습니다. 현재 경찰은 정확한 범행 동기를 조사하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총격 사건으로 여행객 안전에 대한 우려가 있으며, 특히 핫야이 지역 방문 시 주의가 필요함. 기존 뉴스에 새로운 정보(학교장 사망)가 추가됨.",
+      "event_info": {
+        "date": "2024-02-12",
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "พ่อหนุ่ม 18 ขอโทษครอบครัว ผอ.ศศิพัชร ลูกป่วยจิตเวช เผาบ้าน ก่อนขโมยปืนบุกไป รร.",
+          "url": "https://www.thairath.co.th/news/local/south/2913832",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y8qtlcXBBspe.jpg"
+        }
+      ],
+      "collected_at": "15:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y8qtlcXBBspe.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "핫야이 10대 총격범, 학교장에게 총격 가하고 학생 인질극 벌이다 체포",
+      "summary": "- 핫야이의 한 학교에서 18세 남성이 총기 난동을 일으켜 교장을 살해하고 학생들을 인질로 잡음.\n- 범인은 정신 질환 병력이 있으며, 경찰에 의해 체포되어 정신병원으로 이송됨.\n- 용의자는 살인, 살인 미수, 총기법 위반 혐의로 기소될 예정이며, 학교는 임시 폐쇄됨.",
+      "full_translated": "핫야이에서 발생한 총격 사건으로 18세 남성이 학교장을 살해하고 학생들을 인질로 잡았습니다. 용의자는 정신 질환 병력이 있는 것으로 알려졌으며, 경찰은 용의자를 체포하여 송클라 라자나카린 정신병원으로 이송했습니다. 이송 과정에서 용의자는 눈이 가려지고 침대에 묶인 채 이동했으며, 경찰이 동행하여 안전을 확보했습니다. 용의자는 살인, 살인 미수, 총기법 위반 혐의로 기소될 예정입니다. 사건 이후 학교는 임시 폐쇄되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "총기 사건 및 인질극 발생으로 여행객 안전에 대한 우려가 있으므로 관련 정보 제공. 기존 뉴스에 체포 및 이송 정보 업데이트.",
+      "event_info": {
+        "date": "2026-02-12",
+        "location": "핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이 학교"
+      },
+      "references": [
+        {
+          "title": "ตำรวจคุมตัวหนุ่ม 18 ส่งโรงพยาบาลจิตเวช ปิดตา รัดตัวติดกับเปล เพื่อความปลอดภัย",
+          "url": "https://www.thairath.co.th/news/crime/2913836",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y9FnrLWfU9y7.jpg"
+        }
+      ],
+      "collected_at": "15:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y9FnrLWfU9y7.jpg",
+      "date": "2026-02-12"
+    },
+    {
+      "title": "학교장 희생 기리는 '쿠루스티라쿤상' 수여",
+      "summary": "- 송클라 핫야이 소재 학교에서 발생한 총격 사건 희생자, 학교장 '사시팟 신사못'에게 '쿠루스티라쿤상' 수여 결정.\n- 범인 총격에 학생들 보호하려다 희생, 교육계 헌신 기려.\n- 쿠루스티라쿤상은 헌신적인 교육자에게 수여하는 상.",
+      "full_translated": "쿠루스파는 '쿠루스티라쿤상'을 '사시팟 신사못' 파통쁘라탄키리왓 학교 교장에게 수여한다고 발표했습니다. 그녀는 헌신과 희생정신으로 학생들을 보호하기 위해 노력했으며, 특히 지난 2월 11일 발생한 총격 사건에서 학생들을 인질로부터 보호하려다 부상을 입고 결국 사망했습니다. '쿠루스티라쿤상'은 교육 분야에서 헌신적인 역할을 수행한 교사에게 수여되는 상입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "최근 발생한 사건 관련, 교사의 희생정신을 기리는 소식. 여행 자체에 큰 영향은 없으나, 태국 사회의 분위기를 엿볼 수 있는 뉴스.",
+      "event_info": {
+        "date": null,
+        "location": "송클라 핫야이",
+        "price": null,
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "คุรุสภา มอบ \"รางวัลครูถิรคุณ\" ยกย่อง \"ผอ.ศศิพัชร\" โรงเรียนพะตงประธานคีรีวัฒน์",
+          "url": "https://www.thairath.co.th/news/society/2913840",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y0A1QHFX1Fbq.jpg"
+        }
+      ],
+      "collected_at": "15:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxy0Y0A1QHFX1Fbq.jpg",
       "date": "2026-02-12"
     }
   ]
