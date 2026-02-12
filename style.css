@@ -597,6 +597,28 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-ca
         font-size: 0.85rem !important;
         padding: 4px 12px !important;
         border-radius: 20px !important;
+        transition: all 0.2s ease !important;
+    }
+
+    /* Unselected Pill: Add visible border to prevent "invisible" buttons on white/light/popover BGs */
+    div[data-testid="stPills"] button[aria-selected="false"] {
+        border: 1px solid #d1d5db !important;
+        background-color: #ffffff !important;
+        color: #555 !important;
+    }
+
+    /* Dark Mode Unselected Pill */
+    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stPills"] button[aria-selected="false"] {
+        border: 1px solid #444 !important;
+        background-color: #1e1e28 !important;
+        color: #ccc !important;
+    }
+
+    /* Selected Pill Override for visibility */
+    div[data-testid="stPills"] button[aria-selected="true"] {
+        border: 1px solid #D4AF37 !important;
+        background-color: #D4AF37 !important;
+        color: #1e1e28 !important;
     }
 }
 
