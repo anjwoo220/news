@@ -2493,6 +2493,7 @@ def render_tab_tour():
         
         st.divider()
         st.markdown(f"#### 💰 총 예상 비용: :orange[{total_cost:,}원]")
+        st.caption("⚠️ 선택하시는 옵션(인원, 날짜, 상세 옵션)에 따라 실제 가격은 변동될 수 있습니다.")
         
         # AI Itinerary Generation
         if len(cart_tours) >= 2:
@@ -2514,6 +2515,7 @@ def render_tab_tour():
 
 💰 총 예상 비용: {total_cost:,}원
 (항공권/숙박 제외, 투어 비용 기준)
+* 선택 옵션에 따라 가격이 변동될 수 있습니다.
 
 👇 예약하러 가기:
 https://thai-today.com"""
@@ -2534,6 +2536,7 @@ https://thai-today.com"""
                 
                 st.divider()
                 st.markdown(f"### 💰 총 예상 비용: :orange[{total_cost:,}원]")
+                st.caption("⚠️ 실제 가격은 선택 옵션에 따라 달라질 수 있습니다.")
         else:
             st.warning("투어를 2개 이상 담으시면 AI가 일정을 짜해드립니다!")
     
