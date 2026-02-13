@@ -2091,9 +2091,18 @@ def render_tab_food():
         ">
             <h1 style="margin: 0; color: {rating_color}; font-size: 3rem;">{rating_emoji} {rating}</h1>
             <p style="font-size: 1.2rem; margin: 8px 0 0 0; color: #888;">{utils.t('rating_caption').format(num_reviews=num_reviews)}</p>
-            <p style="font-size: 1rem; margin: 8px 0 0 0;">{price_text} {hours_status}</p>
+            <p style="font-size: 1.1rem; margin: 12px 0 0 0; font-weight: 500;">{price_text}</p>
         </div>
         """, unsafe_allow_html=True)
+
+        # 요일별 상세 영업시간 표시
+        weekday_text = details.get('weekday_text', [])
+        if weekday_text:
+            with st.expander(f"🕒 {utils.t('opening_hours') if st.session_state.get('language') == 'English' else '상세 영업시간'} ({hours_status})", expanded=False):
+                for day in weekday_text:
+                    st.write(day)
+        elif hours_status:
+            st.write(f"🕒 {hours_status}")
 
         # AI One-line Verdict (MICHELIN STYLE)
         analysis = details.get('analysis', {})

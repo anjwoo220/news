@@ -1191,7 +1191,7 @@ def get_cached_restaurants_sheet():
         expected_headers = ['location_id', 'name', 'rating', 'num_reviews', 'food_rating', 
                            'atmosphere_rating', 'location_rating', 'price_level', 'price',
                            'cuisines', 'hours', 'address', 'phone', 'web_url', 'photos', 'ranking', 'maps_url',
-                           'editorial_summary', 'recommended_menu', 'analysis']
+                           'editorial_summary', 'recommended_menu', 'analysis', 'weekday_text']
         
         first_row = sheet.row_values(1)
         if not first_row:
@@ -1302,6 +1302,13 @@ def get_cached_restaurant_details(location_id):
             except:
                 analysis = {}
 
+        weekday_text = []
+        if data.get('weekday_text'):
+            try:
+                weekday_text = json.loads(data['weekday_text'])
+            except:
+                weekday_text = []
+
         return {
             'name': data.get('name', ''),
             'rating': float(data.get('rating', 0) or 0),
@@ -1313,6 +1320,7 @@ def get_cached_restaurant_details(location_id):
             'price': data.get('price', ''),
             'cuisines': cuisines,
             'hours': data.get('hours', ''),
+            'weekday_text': weekday_text,
             'address': data.get('address', ''),
             'phone': data.get('phone', ''),
             'web_url': data.get('web_url', ''),
@@ -1372,7 +1380,8 @@ def save_restaurant_to_cache(location_id, details):
             details.get('maps_url', details.get('web_url', '')),
             details.get('editorial_summary', ''),
             json.dumps(details.get('recommended_menu', []), ensure_ascii=False),
-            json.dumps(details.get('analysis', {}), ensure_ascii=False)
+            json.dumps(details.get('analysis', {}), ensure_ascii=False),
+            json.dumps(details.get('weekday_text', []), ensure_ascii=False)
         ]
         
         if existing:
@@ -1967,6 +1976,8 @@ def get_restaurant_details(place_id, gemini_api_key=None):
         # 영업시간
         opening_hours = result_data.get('opening_hours', {})
         is_open = opening_hours.get('open_now', None)
+        weekday_text = opening_hours.get('weekday_text', [])
+        
         hours_text = ""
         if is_open is True:
             hours_text = "🟢 영업중"
@@ -2010,6 +2021,7 @@ def get_restaurant_details(place_id, gemini_api_key=None):
             'phone': result_data.get('formatted_phone_number', ''),
             'photos': photos,
             'hours': hours_text,
+            'weekday_text': weekday_text,
             'is_open': is_open,
             'cuisines': cuisines[:3],
             'web_url': result_data.get('url', ''),
