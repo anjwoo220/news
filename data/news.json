@@ -8547,14 +8547,9 @@
       "summary": "- 태국이 관광 활성화를 위해 비자 규정을 개정합니다.\n- 60일 무비자 체류가 가능해집니다.\n- 디지털 입국 시스템(Digital Travel Authorization)이 도입됩니다.",
       "full_translated": "태국이 관광 산업을 활성화하기 위해 비자 규정을 개정했습니다. 주요 변경 사항으로는 60일 무비자 체류 허용, 디지털 여행 허가(DTV) 도입, 그리고 디지털 입국 시스템 도입 등이 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 입국 절차 간소화는 편의성을 높여 관광객 유치에 긍정적인 영향을 미침. 특히 60일 무비자 체류는 장기 여행객에게 매력적인 요소.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand revamps visa rules: 60-day visa-free stays, DTV, and digital entry system to boost tourism and e - Times of India",
@@ -8563,23 +8558,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:37",
+      "collected_at": "2:37",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdjYzZVRBVkxGSU9ablp6Zy1ETTJRRG9DMmM0V0EzR0hRNHZsWlpkZ3hhQUJLNnZCVjYwSjduM1hXcjBTY09iMTdtMm9zY2YxRS1SaGttQ3p4d3RhZk9hbUs3UlBRdmZlQ0szbDhLUERkZ1dVTmdpdjduS0I1MzlhRDdXS191Skh4ZVU1aHdpUFh2RmtQT1FoVHF2V3FsRWRYdnNvX1N0QVBTdlREdE9tY0ZGa2NJRlhUX2lGSXRYcmo5RUFsZ2taY2JTZklNZHFIWmh2azh1bEFxSzRsY2ZVSWxSRGpCTWhuMTB2YmstZjNELVJHSDE3Yi12OVdsUDlSMVBKR3Y5V3VnWG8yaUxfTThtRWxaWXY4NldKWV930gGjAkFVX3lxTE1QendJYTVLY0FUamR6ZmlBWms1UXRxZ2dvZHpyc3YtRTJ6WUFlVjI2LTJlWDljVF8zNTdwVXN0ZHZTNTVVNmt0bUQwMFFwX1A1bV92aGdBYmt3MVJsVGlyRS1QUGd4YjVNcHl3ak5pNGR6N1JwNDJYNkJWQnNxSmhHRFZzbFZSUVNaSkFOYVBQd3F6aVNkSGdxRE5ReV9vZmtweDZCTU0yemk1SGRnaVhrai1HUjF1c05OYldZdHJtbllOdjBnS0hyLWx0QVJIR3BWXzF3UGZGRHlwMV8yODlma0VwZTJpUkI2NE5mSmxJN1M4ZWV1ZkFaUzRrSlozU2Vmeml6OEdkUDdHMksxMEg5eXQxeWtRckRYZWNKZGMzQkQyYw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 장기 체류 비자, 외국인 투자 유치 및 관광 도시 활성화 추진",
       "summary": "- 태국 정부가 외국인 투자 유치와 관광 도시 활성화를 위해 장기 체류 비자 정책을 추진합니다.\n- 투자 및 관광 활성화 기대됩니다.\n- 자세한 내용은 Nation Thailand 기사를 참조하세요.",
       "full_translated": "태국 정부는 외국인 투자 유치 및 관광 도시 활성화를 목표로 장기 체류 비자 정책을 추진하고 있습니다. 이 정책은 태국 경제에 긍정적인 영향을 미칠 것으로 기대됩니다. 자세한 내용은 Nation Thailand 기사를 참조하십시오.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 및 거주에 관심 있는 외국인에게 유용한 정보이며, 비자 정책 변경은 여행객에게 중요한 요소이므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Longstay Visa: A Move to Attract Foreign Investment and Boost Tourism Cities - Nation Thailand",
@@ -8588,23 +8580,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:37",
+      "collected_at": "2:37",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EUTRwUnYtQU1mNVR1SlZvZ2Zld0lBM1VPNUlDUHktemhJaTBPclYta0xlWWNLanktSkVtY01ycDM4WENMRXNJWXdBMXVKMURVSnFZWGY3ckkwekIwd3FBUThQQjJpbE9I?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 숨겨진 석호와 섬: 아직 알려지지 않은 새로운 명소 발견",
       "summary": "- Ynetnews에 따르면 태국의 숨겨진 석호와 섬들이 새로운 관광 명소로 떠오르고 있습니다.\n- 아직 많은 사람들에게 알려지지 않은 아름다운 자연 경관을 자랑합니다.\n- 새로운 여행 경험을 원하는 여행객들에게 추천합니다.",
       "full_translated": "'An undiscovered place': The hidden lagoon and islands you didn’t know in Thailand - Ynetnews",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 관광 명소 정보는 여행자에게 유용하며, 숨겨진 장소에 대한 정보는 흥미를 유발할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "태국 내 숨겨진 석호 및 섬",
-        "price": null,
-        "location_google_map_query": "태국 숨겨진 석호 및 섬"
-      },
+      "event_info": "{'date': None, 'location': '태국 내 숨겨진 석호 및 섬', 'price': None, 'location_google_map_query': '태국 숨겨진 석호 및 섬'}",
       "references": [
         {
           "title": "'An undiscovered place': The hidden lagoon and islands you didn’t know in Thailand - Ynetnews",
@@ -8613,23 +8602,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:37",
+      "collected_at": "2:37",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eGNLemR4SFMxVm9qLTVTV0NkVTJmQXlwc05aQ2NITVA4ZmVvcHotWWRHcnVwSEFfY0JfTXZFWFJTTXRJbW9fZXo2bm5RMU9XUmdaN2pkTE5YeTZMbTZJ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 한국인 관광객의 '너무 비싸다'는 우려 일축 - 사우스 차이나 모닝 포스트",
       "summary": "- 태국 정부는 한국인 관광객들이 태국 여행이 비싸다고 느끼는 것에 대해 우려를 낮추고 있습니다.\n- 태국은 다양한 가격대의 상품과 서비스를 제공하며, 한국인 관광객의 다양한 예산을 충족시킬 수 있다고 강조합니다.\n- 태국 관광청은 한국 시장을 위한 특별 프로모션과 협력을 통해 한국인 관광객 유치에 힘쓸 예정입니다.",
       "full_translated": "태국은 한국인 관광객들이 '너무 비싸다'고 느끼는 우려를 일축합니다 - 사우스 차이나 모닝 포스트",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "한국인 관광객의 태국 여행 비용에 대한 인식을 다루는 기사로, 여행 예산 계획에 영향을 줄 수 있어 정보를 제공합니다. 다만, 즉각적인 여행 안전이나 편의에 영향을 미치는 정보는 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand plays down ‘too expensive’ concerns from South Korean visitors - South China Morning Post",
@@ -8637,22 +8623,20 @@
           "source": "South China Morning Post"
         }
       ],
-      "collected_at": "02:37",
-      "date": "2026-02-14"
+      "collected_at": "2:37",
+      "image_url": "",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDRSbjZuSnBUVzFPcWlYdUxvMW51elljRHNwZmpOdEtmbWVqaWZ5Qk1peFhxY00wdXJMSnhCUHJWYkt2ZjkzclM3S2VISHFzSXI0Q0pSUzdLVy00NTBNTmRGQlNvOXdqeWpVd2RsWE5hM2hUOWxHMFdjVjZRN3BxZW9pOW5IRG54NE1FSXhnYmY5anNrRHQ5RTR0RjlMMHRsUXVvakpaa05aem9VTmZYeUJMUXpHVGhDeVE1SXROSU8xd0tPSXNJRQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 다변화 2026",
       "summary": "- 태국은 2026년까지 관광 산업 다변화를 추진합니다.\n- 새로운 관광 상품 및 서비스 개발에 집중합니다.\n- 지속 가능한 관광을 위한 노력을 강화할 것입니다.",
       "full_translated": "태국 관광 다변화 2026\n\n태국 관광부는 2026년까지 관광 산업 다변화를 목표로 하고 있습니다. 이를 위해 새로운 관광 상품 및 서비스 개발에 집중하고, 지속 가능한 관광을 위한 노력을 강화할 계획입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업의 장기적인 방향을 제시하는 정보로, 여행객에게는 새로운 관광 상품 및 서비스에 대한 기대감을 줄 수 있습니다. 하지만 당장 여행에 미치는 영향은 적으므로 4점으로 평가합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand tourism diversification 2026 - Travel And Tour World",
@@ -8661,7 +8645,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:37",
+      "collected_at": "2:37",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWxTdDd1R21xb2xvLUtFQk8zRC1YMGRPUHdjUXZlMF9oWDdieTk5OGlkTXhNMElBb19ZZXpKNWJKVFptVFFwX1d3M0RHd1U1VC1oNmF0QXNsV21BRmZ6eHBHQmcweHFLWDZ3eGQtU2VwbGM5aTBQbUlpbkZIS282TURrWWl6LThuTlJ6UEVaa2k3dEdG?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 보안 문제로 무비자 체류 기간 60일에서 30일로 단축",
+      "summary": "- 태국 정부가 보안 문제로 무비자 체류 가능 기간을 60일에서 30일로 단축할 예정입니다.\n- 이는 여행객들에게 중요한 변화이며, 비자 관련 계획에 영향을 미칠 수 있습니다.\n- 변경 사항은 추후 공지될 예정이므로, 여행 전 확인이 필요합니다.",
+      "full_translated": "태국이 보안 문제로 무비자 체류 기간을 60일에서 30일로 단축합니다. Khaosod English",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "무비자 체류 기간 단축은 여행객의 입국 및 체류 계획에 직접적인 영향을 미치므로 매우 중요합니다. 변경 사항은 여행 전에 반드시 확인해야 합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand to slash visa-free stay from 60 to 30 days amid security concerns - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFcwT1lpMnFtWTZuaU55ODdjdnUwb2RWVXNEbVNwbGhlVWJQQkNicG5vZVVXTHFidUk5dzJseXZYMXRXMlZON0IyUnZTcENLSHktNTRBTE52Z0VISTRsZ0ROTkVmakMyNzQ5em9aSF9mYzJfU0F3dlZ5OEd4ZFEzOEdRTjhMNUxJQUs1ZE0tU0otUzFyS0JMVXF5dXd1SXlHV3hjTzhVZW1xaDJOaUdJY2g5YkZ6NUR2bHcwbWRCRdIBxAFBVV95cUxNY0NKSlVSNGdLTlJqNE0ySFgzUFQ3SXBnR2lRQjB1QWJVX1ZLTEZzTDZQODNLNHltcGROdlZQcU1manA5WktmNkFYT0o4VEc5VGJfVjdBSHpfNkZ4R1V4cUxieVJsa3Z5RllVd0RJd0h4T2laX2c4cGxObEp1ZHc4anE0MEtncndhYnFVXzRPRWNodkRsWW1MbU9hX3ZveDd4RFBpQmpDX0JPYVZHYU1INHBHSWpNZExJcDU1ajJsZm9sSW5k?oc=5",
+          "source": "Khaosod English",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:27",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 93개국 대상 무비자 체류 기간 30일로 단축",
+      "summary": "- 태국 정부는 93개국 대상 무비자 체류 기간을 30일로 단축했습니다.\n- 이는 이민 감독을 강화하고 관광 성장을 촉진하기 위한 노력의 일환입니다.\n- 변경 사항의 정확한 시행 시기는 아직 발표되지 않았습니다.",
+      "full_translated": "태국, 93개국 대상 무비자 체류 기간 30일로 단축, 이민 감독 강화와 관광 성장을 동시에 추구 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 한국인 여행객에게 적용될 가능성이 있으므로 필수적으로 알려야 함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Reduces Visa-Free Stay to Thirty Days for Ninety Three Countries, Striving to Strengthen Immigration Oversight While Continuing to Foster Tourism Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQQ2ZsNzlrODBVR2Uwem1rSDRGNGI5bFpTam85TkwzNUUwSW9TSlY5ZzFZVGVyWEtrTzVUTVF6SmVkWEs5UUJidDFlbFRFVkV4VFZKcXVMUzd1WDZNUWlidFpfN3RKeVR4bW5zVUNBVjdlRFByMzBiUmVVckMtbTV2Tjh2NHRPY3ZBTnpvM3V1a2pKcXpKdldVdjVweVpFS1RVd2FHUHZkMWhTa0phRzdvWWswYlhPTGJTTGJTa1dfc09FWUJ4TTlQTzB5RjM3dldNSHlGWGswVDRnTU9uRGhQSF9lblVkR0lBVFdxTkZ5akp2TzVmanoyemZDd0tqZmlYb29IR0FBWnhBeEY3TE1rQ1BHVWxpVEp2Z1N3Nks4akZQUU1wTVp4dHVuQ0xGbTItSnRZ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:27",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 고려",
+      "summary": "- 태국 정부가 무비자 체류 기간을 단축하는 방안을 검토 중임.\n- 현재 60일에서 30일로 단축될 가능성이 있음.\n- 이는 관광 정책에 중요한 변화를 의미함.",
+      "full_translated": "태국이 무비자 체류 기간을 60일에서 30일로 단축하는 것을 고려하고 있습니다. - 라오티안 타임즈",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 특히 장기 여행자에게 중요한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Considers Cutting Visa-Free Stay from 60 to 30 Days - Laotian Times",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDJWel9zWGY1NGM5aGJvWUE1SWdiYk00bUNZWS1MQmpFaFBYbFBVeldkaTlNaWtJVnVhMVNGTjZIa2daX2tDX0htNEVEdHBoZFdyZjBrZ2V3MmFkbUI1UUs4Q3B4ZXhqZHZpSDE2V1RSd0VyXzV6Y3JyWUd3Q1B4ZGwtQ05GVTVtTmRNeTBZSkRJMzcxcl9YNmF2eDBJUQ?oc=5",
+          "source": "Laotian Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-14"
     }
