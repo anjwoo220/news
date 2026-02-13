@@ -1963,6 +1963,9 @@ def render_tab_food():
                         if st.button("보기", key=f"rank_f_{item['rank']}", use_container_width=True):
                             st.session_state['restaurant_input'] = item['name']
                             if "restaurant_search_results" in st.session_state: del st.session_state["restaurant_search_results"]
+                            
+                            # Log the search immediately for persistent ranking
+                            utils.log_search(item['name'], item['rating'], 'food')
                             st.rerun()
                 st.caption("※ 사용자들의 실제 검색 데이터를 기반으로 한 스마트 랭킹입니다.")
 
@@ -1975,6 +1978,23 @@ def render_tab_food():
                 st.warning(utils.t("no_results") if st.session_state.get('language') == 'English' else "식당 이름을 입력해주세요.")
             else:
                 with st.spinner(utils.t("searching")):
+                    # [NEW] Check Cache First for exact match to jump straight to analysis (Same as Hotel)
+                    cached_details = utils.search_cached_restaurants(r_name)
+                    # Find exact match with analysis results
+                    exact_match = None
+                    for c in cached_details:
+                        if c['name'].lower() == r_name.lower():
+                            exact_match = c
+                            break
+                    
+                    if exact_match:
+                        st.success("📦 " + ("Found cached analysis!" if st.session_state.get('language') == 'English' else "기존 분석 데이터를 찾았습니다!"))
+                        # Get full details (will hit cache and log)
+                        details = utils.get_restaurant_details(exact_match['location_id'], gemini_api_key=gemini_key)
+                        if details:
+                            st.session_state["restaurant_details"] = details
+                            st.rerun()
+
                     results = utils.search_restaurants(r_name)
                     st.session_state["restaurant_search_results"] = results
                     st.session_state["restaurant_selected"] = None

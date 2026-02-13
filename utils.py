@@ -1900,11 +1900,12 @@ def get_restaurant_details(place_id, gemini_api_key=None):
     import requests
     
     # 1단계: 캐시에서 먼저 확인 (API 비용 0)
-    # [DEBUG] 캐시 강제 무시 (새로운 프롬프트 적용 확인용)
-    # cached = get_cached_restaurant_details(place_id)
-    # if cached:
-    #     print(f"✅ Cache hit for place_id: {place_id}")
-    #     return cached
+    cached = get_cached_restaurant_details(place_id)
+    if cached:
+        print(f"✅ Cache hit for restaurant place_id: {place_id}")
+        # 캐시 히트 시에도 인기 랭킹용 로그 기록
+        log_search(cached['name'], cached['rating'], 'food')
+        return cached
     
     # 2단계: Google Places Details API 호출 (비용 발생)
     try:
