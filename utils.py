@@ -20,6 +20,54 @@ import numpy as np
 import csv
 from streamlit_gsheets import GSheetsConnection
 import streamlit as st
+import pathlib
+
+# --- GA4 (Google Analytics 4) Injection ---
+@st.cache_resource
+def inject_ga(ga_id):
+    """
+    Injects Google Analytics 4 tracking code into the Streamlit 'index.html' file.
+    Runs once per server session using @st.cache_resource.
+    """
+    try:
+        # 1. Locate index.html path
+        # Streamlit library usually resides in site-packages/streamlit
+        import streamlit
+        st_path = pathlib.Path(streamlit.__path__[0])
+        index_path = st_path / "static" / "index.html"
+
+        if not index_path.exists():
+            return
+
+        # 2. Read index.html content
+        with open(index_path, "r", encoding="utf-8") as f:
+            html_content = f.read()
+
+        # 3. Check for existing GA4 script
+        if f"googletagmanager.com/gtag/js?id={ga_id}" in html_content:
+            return
+
+        # 4. Prepare GA4 script
+        ga_script = f"""
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){{dataLayer.push(arguments);}}
+        gtag('js', new Date());
+        gtag('config', '{ga_id}');
+    </script>
+"""
+        # 5. Inject script before </head> tag
+        new_html_content = html_content.replace("</head>", f"{ga_script}</head>")
+
+        # 6. Write back to index.html
+        with open(index_path, "w", encoding="utf-8") as f:
+            f.write(new_html_content)
+
+    except Exception:
+        # Fail silently as per requirements
+        pass
 
 # --- 다국어 지원 (Multi-language Support) ---
 UI_TEXT = {

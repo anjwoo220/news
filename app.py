@@ -4,6 +4,11 @@ import os
 import pytz
 import utils
 from datetime import datetime, timedelta
+
+# --- Google Analytics 4 Injection ---
+# Injects GA4 tracking code into index.html in the background
+utils.inject_ga("G-8CG63K7SC7")
+
 import plotly.express as px
 from collections import Counter
 import hashlib
