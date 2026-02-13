@@ -233,14 +233,15 @@ st.markdown("""
 
     /* Hide mobile bottom buttons on PC */
     @media (min-width: 769px) {
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+        .st-key-mobile_nav_bar {
             display: none !important; height: 0 !important; margin: 0 !important; padding: 0 !important;
         }
     }
 
     /* Fix buttons to TOP on Mobile */
     @media (max-width: 768px) {
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+        /* Target the horizontal block inside our mobile nav container */
+        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
             position: fixed !important;
             top: 0 !important;
             left: 0 !important;
@@ -261,16 +262,16 @@ st.markdown("""
             justify-content: flex-start !important; /* Start for scroll */
             gap: 5px !important;
         }
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger)::-webkit-scrollbar {
+        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"]::-webkit-scrollbar {
             display: none !important;
         }
 
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) > div {
+        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] > div {
             flex: 0 0 auto !important; /* Don't grow/shrink to fit */
             min-width: fit-content !important;
         }
 
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
+        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button {
             background: transparent !important;
             border: none !important;
             box-shadow: none !important;
@@ -283,8 +284,8 @@ st.markdown("""
             white-space: nowrap !important;
         }
 
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button:active,
-        div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button:focus {
+        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button:active,
+        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button:focus {
             color: #FF4B4B !important;
         }
 
@@ -317,9 +318,9 @@ st.markdown("""
         }
     }
 
-    /* Dark Mode Support for Fixed Nav & General Elements */
-    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
-        background: #0E1117 !important; /* Streamlit Dark BG */
+    /* Dark Mode Support    /* Fixed Nav Dark Mode Fix */
+    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
+        background: #0E1117 !important;
         border-bottom: 1px solid #333 !important;
     }
     
@@ -388,7 +389,7 @@ st.markdown("""
     }
 
     /* 5. Mobile Nav Button Text */
-    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
+    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button {
         color: #FAFAFA !important;
         background-color: transparent !important; /* Force transparent for nav buttons */
         border: none !important;
@@ -4271,11 +4272,11 @@ else:
             }
 
             /* 5. Mobile Nav Button Text */
-            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) {
+            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
                 background: #0E1117 !important;
                 border-bottom: 1px solid #333 !important;
             }
-            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) div[data-testid="stHorizontalBlock"]:has(.mobile-only-trigger) button {
+            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button {
                 color: #FAFAFA !important;
                 background-color: transparent !important;
                 border: none !important;
@@ -4640,17 +4641,18 @@ else:
     
     # 3. Navigation Bar (Mobile Only via CSS)
     # [MOD] Dinamically generated columns and indices
-    num_cols = len(nav_options)
-    b_cols = st.columns(num_cols)
-    nav_indices = {i: (nav_options[i], nav_options[i]) for i in range(num_cols)}
+    with st.container(key="mobile_nav_bar"):
+        num_cols = len(nav_options)
+        b_cols = st.columns(num_cols)
+        nav_indices = {i: (nav_options[i], nav_options[i]) for i in range(num_cols)}
 
-    for i, col in b_cols.items() if hasattr(b_cols, 'items') else enumerate(b_cols):
-        label, target = nav_indices[i]
-        with col:
-            st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-            if st.button(label, key=f"btn_nav_{i}", width='stretch'):
-                st.session_state["nav_mode"] = target
-                st.rerun()
+        for i, col in b_cols.items() if hasattr(b_cols, 'items') else enumerate(b_cols):
+            label, target = nav_indices[i]
+            with col:
+                st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
+                if st.button(label, key=f"btn_nav_{i}", width='stretch'):
+                    st.session_state["nav_mode"] = target
+                    st.rerun()
     
     # Use the master state for rendering
     page_mode = st.session_state["nav_mode"]
