@@ -8437,14 +8437,9 @@
       "summary": "- 파타야 워킹 스트리트 근처 해변에서 트랜스젠더 여성이 메스암페타민을 사용하는 모습이 목격됨.\n- 주민은 경찰의 조치를 촉구하며, 관광객들에게 부정적인 영향을 미칠 것을 우려.\n- 해당 여성은 약물 사용을 인정하고 해변에서 발견됨.",
       "full_translated": "파타야 - 사건은 2026년 2월 12일 오전 12시 10분경 파타야 워킹 스트리트 입구에서 100미터 이내에서 발생했습니다. 이 위치는 해변을 따라 주요 관광 명소이며, 늦은 밤에도 많은 태국인과 외국인 방문객을 끌어들입니다. 우려하는 지역 주민인 33세의 오토바이 택시 운전사 Natthawut Phonyiam 씨는 이러한 행동을 반복적으로 목격한 후 영상을 녹화했습니다. 영상에서 트랜스젠더 여성으로 묘사된 개인은 폐수 배수구 근처의 콘크리트 장벽 옆에 앉아 있는 모습이 보입니다. 그녀는 알루미늄 포일과 라이터를 사용하여 크리스탈 메스(현지에서는 \"얼음\"으로 알려짐)를 가열하고 흡입했으며, 지나가는 사람이나 개입하려는 시도에도 전혀 개의치 않는 것처럼 보였습니다. 클립을 받은 후 기자들은 현장을 방문하여 장벽 근처에서 흔히 약물 도구로 사용되는 버려진 흰색 플라스틱 빨대와 약물 잔여물을 발견했습니다. 관광객들은 당시에도 그 지역을 걸어 다니고 있었습니다. Natthawut 씨는 나중에 기자들을 \"농팜\"이라는 별명을 가진 26세의 여성에게 안내했습니다. 그녀는 흐트러진 옷을 입고 해변에 누워 혼잣말을 하고 있었고, 약물 중독과 일치하는 예측 불가능한 행동을 포함하여 약물에 취한 징후를 보였습니다. 영상에 대해 질문을 받았을 때 농팜은 \"야바\"(메스암페타민 알약)가 아닌 크리스탈 메스를 사용했다고 인정했으며, 해변을 따라 인근 소이 13에서 신원 미상의 사람으로부터 100바트에 구입했다고 말했습니다. 그녀는 아무렇지도 않게 그 아모",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변에서 벌어지는 마약 관련 사건으로, 관광객 안전과 이미지에 부정적인 영향을 줄 수 있으므로 여행 주의가 필요함. 특히 관광객이 많이 찾는 지역에서 발생하여 잠재적 위험을 알릴 필요가 있음.",
-      "event_info": {
-        "date": "2026-02-12",
-        "location": "파타야 워킹 스트리트 근처 해변",
-        "price": "100 바트 (마약 구매 가격)",
-        "location_google_map_query": "Pattaya Walking Street"
-      },
+      "event_info": "{'date': '2026-02-12', 'location': '파타야 워킹 스트리트 근처 해변', 'price': '100 바트 (마약 구매 가격)', 'location_google_map_query': 'Pattaya Walking Street'}",
       "references": [
         {
           "title": "Concerned Citizens Urge Pattaya Police to Take Further Action on Homeless Transgender Woman Openly Using Methamphetamine on Pattaya Beach",
@@ -8453,23 +8448,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17709725660966572050546693469109.jpg?v=1770972699"
         }
       ],
-      "collected_at": "01:35",
+      "collected_at": "1:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17709725660966572050546693469109.jpg?v=1770972699",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/13/concerned-citizens-urge-pattaya-police-to-take-further-action-on-homeless-transgender-woman-openly-using-methamphetamine-on-pattaya-beach/",
+      "source": ""
     },
     {
       "title": "파타야, 공사 중인 미용 클리닉에서 10만 바트 이상의 피해 발생",
       "summary": "- 파타야 클랑 로드에 위치한 미용 클리닉 공사 현장에서 도난 및 파손 사건 발생.\n- CCTV에 용의자가 포착되었으며, 에어컨 및 전기 배선이 훼손되어 10만 바트 이상의 손실 발생.\n- 경찰은 용의자를 추적 중이며, 지역 주민들에게 주의를 당부.",
       "full_translated": "2026년 2월 11일, The Pattaya News 기자들은 페이스북에 올라온 도난 및 파손 사건에 대한 게시글을 확인하고 현장을 방문했습니다. 파타야 클랑 로드 9번지에 위치한 3층 건물은 현재 미용 클리닉으로 개조 중입니다. 조사 결과 건물 전체에 심각한 손상이 있었습니다. 전기 배선은 뜯겨져 흩어져 있었고, 1층과 위층에 있는 새 에어컨 실외기는 강제로 열려 구리 코일과 배선이 모두 제거되었습니다. 총 손실액은 10만 바트가 넘는 것으로 추정됩니다. 곧 클리닉을 개업할 예정인 31세의 니(가명) 씨는 사건에 대한 자세한 내용을 설명했습니다. 그녀는 내부 공사를 위해 낮에는 계약자들이 공사를 진행하지만, 작업자들이 퇴근하면 밤에는 비어 있는 채로 잠겨 있다고 설명했습니다. 첫 번째 도난 사건은 2월 7일 오후 5시 44분경에 발생했는데, CCTV에는 용의자가 건물 뒤쪽에서 몰래 들어오는 모습이 포착되었습니다. 그는 에어컨 실외기의 구리를 뜯어갔습니다. 이틀 후인 2월 10일 오후 11시경, 동일 인물이 대담하게 다시 침입했습니다. 이번에는 건물 자체를 강제로 침입하여 전기 시스템, 추가 에어컨 장치 및 압축기를 체계적으로 해체하여 접근 가능한 모든 구리 배선을 제거했습니다. 담당 경찰은 용의자를 추적하고 있으며, 지역 주민들에게 귀중품을 보관하고 의심스러운 활동을 발견하면 즉시 당국에 신고할 것을 요청했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 발생한 범죄 사건으로, 여행객 안전에 대한 인식을 환기시킬 필요가 있음. 직접적인 위협은 아니지만 주의를 요함.",
-      "event_info": {
-        "date": "2026-02-07",
-        "location": "파타야 클랑 로드",
-        "price": "불명",
-        "location_google_map_query": "Pattaya Klang Road"
-      },
+      "event_info": "{'date': '2026-02-07', 'location': '파타야 클랑 로드', 'price': '불명', 'location_google_map_query': 'Pattaya Klang Road'}",
       "references": [
         {
           "title": "Thief Targets Under Renovation Beauty Clinic in Pattaya For Over 100,000 Baht of Damages",
@@ -8478,23 +8470,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710069998728008117531606311190.jpg?v=1771007065"
         }
       ],
-      "collected_at": "01:35",
+      "collected_at": "1:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710069998728008117531606311190.jpg?v=1771007065",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/thief-targets-under-renovation-beauty-clinic-in-pattaya-for-over-100000-baht-of-damages/",
+      "source": ""
     },
     {
       "title": "프아타이당, 품차이타이당 주도 연립 정부 구성 지지",
       "summary": "- 프아타이당이 품차이타이당이 주도하는 새로운 정부 구성을 공식적으로 지지한다고 발표함.\n- 아누틴 찬비라쿨 품차이타이당 대표는 양측이 과거의 차이점을 뒤로하고 협력할 준비가 되었다고 밝힘.\n- 이번 합의로 품차이타이당은 하원에서 과반수를 확보하게 되었으며, 다른 파트너들과의 추가 협력 가능성도 있음.",
       "full_translated": "프아타이당은 품차이타이당이 연립 정부를 이끌도록 지지합니다.\n\n합의에 따라 품차이타이당은 하원 다수당이 되지만, 더 많은 파트너가 여전히 가능합니다. 2026년 2월 13일 17:37에 게시됨, 2026년 2월 13일 22:27에 업데이트됨\n\n프아타이당은 품차이타이당이 새로운 정부를 구성하는 데 주도적인 역할을 하도록 공식적으로 지지했습니다. 아누틴 찬비라쿨 총리 겸 품차이타이당 대표는 양측이 과거의 차이점을 뒤로하고 함께 나아갈 준비가 되었다고 말했습니다. 프아타이당과의 금요일 합의는 5석을 가진 3개의 소수 정당이 서명한 다음 날 이루어졌으며, 2월 8일 선거의 비공식 결과에 따라 500석의 하원에서 272석으로 품차이타이당이 이끄는 연립 정부가 다수를 차지하게 됩니다.\n\n아누틴 씨는 공식 선거 결과가 아직 발표되지 않았지만 장기간의 정치적 공백을 막기 위해 정부 구성에 대한 논의가 진행 중이라고 말했습니다. 그는 \"선거 결과에 따라 아직 공식적으로 승인되지는 않았지만 너무 오랫동안 공백이 생기는 것을 원하지 않습니다.\"라고 말했습니다. \"우리는 예비 논의를 거쳐 프아타이가 합의된 일정에 따라 품차이타이를 정부 구성의 핵심 정당으로 지지할 의향이 있다는 결론에 도달했습니다.\"라고 그는 말했습니다.\n\n아누틴 씨는 양당이 미래에 집중하고 있으며, 그들의 결합된 유능한 인력이 국가를 안정적이고 유망한 미래로 이끌기에 충분할 것이라고 확신한다고 말했습니다. \"품차이타이와 프아타이는 미래를 내다보고 있습니다.\"라고 그는 말했습니다. \"품질 인력",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황에 대한 정보 제공. 기존 뉴스에 이미 게시되었지만, 주요 정당의 지지 발표는 여행객에게도 간접적인 영향을 줄 수 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Pheu Thai backs Bhumjaithai to lead coalition government",
@@ -8503,23 +8492,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196673_260213172739_700.jpg"
         }
       ],
-      "collected_at": "01:35",
+      "collected_at": "1:35",
       "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196673_260213172739_700.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.bangkokpost.com/thailand/politics/3196673/pheu-thai-backs-bhumjaithai-to-lead-coalition-government",
+      "source": ""
     },
     {
       "title": "카오키여우 오픈 동물원, 큰부리새 사랑의 날 행사 개최 및 생물 다양성 보존 프로젝트에 10만 바트 기부",
       "summary": "- 카오키여우 오픈 동물원은 방짝 시라차와 협력하여 큰부리새 보존 인식 증진 행사 개최\n- 멸종 위기 큰부리새 보호를 위해 10만 바트 기부 및 인공 둥지 제공\n- 기금은 태국 북부 보호 지역에 큰부리새를 재도입하고 생태 및 생물학 연구를 지원하는 데 사용될 예정",
       "full_translated": "카오키여우 오픈 동물원은 방짝 시라차와 협력하여 2026년 2월 13일 금요일에 큰부리새 보존에 대한 대중의 인식을 높이기 위한 행사를 개최했습니다. 큰부리새는 평생 동안 일부일처제를 유지하며 건강한 숲 생태계의 핵심 지표 역할을 하기 때문에 진실하고 영원한 사랑의 상징으로 여겨집니다. 나롱윗 촛초이 카오키여우 오픈 동물원 원장이 개회식을 주재했습니다. 차이나롱 판콩 보존, 연구 및 동물 건강 책임자는 '생물 다양성을 위한 생물 다양성 보존 미션' 프로젝트 하에 큰부리새 사랑의 날의 중요성과 팀의 노력에 대한 보고서를 발표했습니다. 이 프로젝트는 태국 북부 보호림 지역에 재도입된 큰부리새(태국어로 Nok Ka Hang)의 생태 및 생물학 연구를 직접 지원하여 미래에 지속 가능한 방식으로 야생 개체수를 복원하는 데 필요한 중요한 데이터를 수집합니다. 방짝 시라차를 대표하여 정유 사업 진흥 이사인 농락 차왈쿨 박사는 회사가 보존 활동을 위한 네트워크 지원자로서 동물원과 협력하겠다는 약속에 대해 이야기했습니다. 그녀는 '생물 다양성 보존' 프로젝트와 그 연구 및 보존 목표를 발전시키기 위해 10만 바트의 재정적 기부를 했습니다. 또한 회사는 큰부리새의 자연 서식지에서 번식 기회를 향상시키기 위해 인공 둥지를 기증했습니다. 이 행사에는 또한 동물 이미지가 담긴 30개의 양각 교육 표지판 전달도 포함되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "동물원 행사 정보는 여행객에게 흥미로운 선택지가 될 수 있으며, 특히 가족 여행객에게 유용할 수 있음. 파타야 근교에 위치하여 접근성이 나쁘지 않음.",
-      "event_info": {
-        "date": "2026-02-13",
-        "location": "카오키여우 오픈 동물원",
-        "price": "정보 없음",
-        "location_google_map_query": "Khao Kheow Open Zoo"
-      },
+      "event_info": "{'date': '2026-02-13', 'location': '카오키여우 오픈 동물원', 'price': '정보 없음', 'location_google_map_query': 'Khao Kheow Open Zoo'}",
       "references": [
         {
           "title": "Khao Kheow Open Zoo Partners with Bangchak Sriracha for Hornbill Love Day Event, Donates 100,000 Baht to Biodiversity Conservation Project",
@@ -8528,23 +8514,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771006580594997901639273414947.jpg?v=1771006641"
         }
       ],
-      "collected_at": "01:35",
+      "collected_at": "1:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771006580594997901639273414947.jpg?v=1771006641",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/khao-kheow-open-zoo-partners-with-bangchak-sriracha-for-hornbill-love-day-event-donates-100000-baht-to-biodiversity-conservation-project/",
+      "source": ""
     },
     {
       "title": "파타야 청소년 집단 싸움, 경찰서에서 사과로 마무리",
       "summary": "- 온라인 논쟁이 물리적 충돌로 이어진 사건 발생\n- 'Seua Pattaya'의 구인 광고에 대한 불만에서 시작\n- 관련자들이 경찰서에 출두하여 사과하고 사건 경위 진술",
       "full_translated": "파타야에서 발생한 청소년 집단 싸움이 경찰서에서의 사과로 마무리되었습니다. 이번 싸움은 온라인상의 논쟁이 물리적 충돌로 이어진 사건입니다. 사건의 발단은 'Seua Pattaya'라는 인물이 자신의 페이스북 페이지에 구인 광고를 올린 것에서 시작되었습니다. Mark Hua Lai라는 사람이 메시지를 보냈지만 답장을 받지 못해 불만을 느꼈고, 공개적으로 Tiger를 비판하는 댓글을 남겼습니다. 이에 Tiger는 방어적으로 대응하며 온라인 상에서 격렬한 논쟁과 모욕, 도발이 오갔습니다. 상황은 Mark가 Tiger를 조롱하고 파타야 지역 사람들을 비하하는 도발적인 영상을 올리면서 더욱 악화되었습니다. 결국 온라인에서의 다툼은 직접 만나 싸우는 것으로 이어졌고, 싸움 영상이 널리 퍼지면서 파타야 지역 사회에서 비판을 받았습니다. 2월 13일 오후 5시 6분경, Seua Kittisak, Kik Phanu Wat, Ball Chantamat 씨는 파타야 시 경찰서 조사팀에 출두하여 자신들의 입장을 밝혔습니다. 그들은 Mark가 처음에 Seua에게 구인 광고에 대해 연락했지만 무시당했고, 이에 분노한 댓글을 남겼다고 설명했습니다. 온라인상의 다툼은 상호 모욕과 도발로 이어졌습니다. 당사자들이 약속 장소에서 만났을 때, Mark는 약 10명의 사람들과 함께 왔고, Seua의 그룹은 3명에 불과했습니다. 양측은 '남자답게' 일대일 주먹다짐으로 문제를 해결하기로 합의했습니다. 그러나 싸움 도중 Mark의 동생이 형이 맞는 모습을 참지 못하고...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야 지역에서 발생한 청소년 간의 싸움 사건으로, 여행객 안전에 직접적인 위협은 아니지만, 파타야 지역 사회의 분위기를 간접적으로 보여줄 수 있으므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": "2024-02-13",
-        "location": "파타야 시 경찰서",
-        "price": null,
-        "location_google_map_query": "Pattaya City Police Station"
-      },
+      "event_info": "{'date': '2024-02-13', 'location': '파타야 시 경찰서', 'price': None, 'location_google_map_query': 'Pattaya City Police Station'}",
       "references": [
         {
           "title": "Viral Fight Between Group of Pattaya Youths Leads to Apologies at Police Station",
@@ -8553,8 +8536,133 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_005715813386683355129651.jpg?v=1771005496"
         }
       ],
-      "collected_at": "01:35",
+      "collected_at": "1:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_005715813386683355129651.jpg?v=1771005496",
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/viral-fight-between-group-of-pattaya-youths-leads-to-apologies-at-police-station/",
+      "source": ""
+    },
+    {
+      "title": "태국, 비자 규정 개정: 관광 활성화를 위해 60일 무비자 체류, DTV 및 디지털 입국 시스템 도입 - Times of India",
+      "summary": "- 태국이 관광 활성화를 위해 비자 규정을 개정합니다.\n- 60일 무비자 체류가 가능해집니다.\n- 디지털 입국 시스템(Digital Travel Authorization)이 도입됩니다.",
+      "full_translated": "태국이 관광 산업을 활성화하기 위해 비자 규정을 개정했습니다. 주요 변경 사항으로는 60일 무비자 체류 허용, 디지털 여행 허가(DTV) 도입, 그리고 디지털 입국 시스템 도입 등이 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 입국 절차 간소화는 편의성을 높여 관광객 유치에 긍정적인 영향을 미침. 특히 60일 무비자 체류는 장기 여행객에게 매력적인 요소.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand revamps visa rules: 60-day visa-free stays, DTV, and digital entry system to boost tourism and e - Times of India",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPdjYzZVRBVkxGSU9ablp6Zy1ETTJRRG9DMmM0V0EzR0hRNHZsWlpkZ3hhQUJLNnZCVjYwSjduM1hXcjBTY09iMTdtMm9zY2YxRS1SaGttQ3p4d3RhZk9hbUs3UlBRdmZlQ0szbDhLUERkZ1dVTmdpdjduS0I1MzlhRDdXS191Skh4ZVU1aHdpUFh2RmtQT1FoVHF2V3FsRWRYdnNvX1N0QVBTdlREdE9tY0ZGa2NJRlhUX2lGSXRYcmo5RUFsZ2taY2JTZklNZHFIWmh2azh1bEFxSzRsY2ZVSWxSRGpCTWhuMTB2YmstZjNELVJHSDE3Yi12OVdsUDlSMVBKR3Y5V3VnWG8yaUxfTThtRWxaWXY4NldKWV930gGjAkFVX3lxTE1QendJYTVLY0FUamR6ZmlBWms1UXRxZ2dvZHpyc3YtRTJ6WUFlVjI2LTJlWDljVF8zNTdwVXN0ZHZTNTVVNmt0bUQwMFFwX1A1bV92aGdBYmt3MVJsVGlyRS1QUGd4YjVNcHl3ak5pNGR6N1JwNDJYNkJWQnNxSmhHRFZzbFZSUVNaSkFOYVBQd3F6aVNkSGdxRE5ReV9vZmtweDZCTU0yemk1SGRnaVhrai1HUjF1c05OYldZdHJtbllOdjBnS0hyLWx0QVJIR3BWXzF3UGZGRHlwMV8yODlma0VwZTJpUkI2NE5mSmxJN1M4ZWV1ZkFaUzRrSlozU2Vmeml6OEdkUDdHMksxMEg5eXQxeWtRckRYZWNKZGMzQkQyYw?oc=5",
+          "source": "Times of India",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:37",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 장기 체류 비자, 외국인 투자 유치 및 관광 도시 활성화 추진",
+      "summary": "- 태국 정부가 외국인 투자 유치와 관광 도시 활성화를 위해 장기 체류 비자 정책을 추진합니다.\n- 투자 및 관광 활성화 기대됩니다.\n- 자세한 내용은 Nation Thailand 기사를 참조하세요.",
+      "full_translated": "태국 정부는 외국인 투자 유치 및 관광 도시 활성화를 목표로 장기 체류 비자 정책을 추진하고 있습니다. 이 정책은 태국 경제에 긍정적인 영향을 미칠 것으로 기대됩니다. 자세한 내용은 Nation Thailand 기사를 참조하십시오.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 및 거주에 관심 있는 외국인에게 유용한 정보이며, 비자 정책 변경은 여행객에게 중요한 요소이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Longstay Visa: A Move to Attract Foreign Investment and Boost Tourism Cities - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EUTRwUnYtQU1mNVR1SlZvZ2Zld0lBM1VPNUlDUHktemhJaTBPclYta0xlWWNLanktSkVtY01ycDM4WENMRXNJWXdBMXVKMURVSnFZWGY3ckkwekIwd3FBUThQQjJpbE9I?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:37",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 숨겨진 석호와 섬: 아직 알려지지 않은 새로운 명소 발견",
+      "summary": "- Ynetnews에 따르면 태국의 숨겨진 석호와 섬들이 새로운 관광 명소로 떠오르고 있습니다.\n- 아직 많은 사람들에게 알려지지 않은 아름다운 자연 경관을 자랑합니다.\n- 새로운 여행 경험을 원하는 여행객들에게 추천합니다.",
+      "full_translated": "'An undiscovered place': The hidden lagoon and islands you didn’t know in Thailand - Ynetnews",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 관광 명소 정보는 여행자에게 유용하며, 숨겨진 장소에 대한 정보는 흥미를 유발할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "태국 내 숨겨진 석호 및 섬",
+        "price": null,
+        "location_google_map_query": "태국 숨겨진 석호 및 섬"
+      },
+      "references": [
+        {
+          "title": "'An undiscovered place': The hidden lagoon and islands you didn’t know in Thailand - Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE45eGNLemR4SFMxVm9qLTVTV0NkVTJmQXlwc05aQ2NITVA4ZmVvcHotWWRHcnVwSEFfY0JfTXZFWFJTTXRJbW9fZXo2bm5RMU9XUmdaN2pkTE5YeTZMbTZJ?oc=5",
+          "source": "Ynetnews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:37",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 한국인 관광객의 '너무 비싸다'는 우려 일축 - 사우스 차이나 모닝 포스트",
+      "summary": "- 태국 정부는 한국인 관광객들이 태국 여행이 비싸다고 느끼는 것에 대해 우려를 낮추고 있습니다.\n- 태국은 다양한 가격대의 상품과 서비스를 제공하며, 한국인 관광객의 다양한 예산을 충족시킬 수 있다고 강조합니다.\n- 태국 관광청은 한국 시장을 위한 특별 프로모션과 협력을 통해 한국인 관광객 유치에 힘쓸 예정입니다.",
+      "full_translated": "태국은 한국인 관광객들이 '너무 비싸다'고 느끼는 우려를 일축합니다 - 사우스 차이나 모닝 포스트",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "한국인 관광객의 태국 여행 비용에 대한 인식을 다루는 기사로, 여행 예산 계획에 영향을 줄 수 있어 정보를 제공합니다. 다만, 즉각적인 여행 안전이나 편의에 영향을 미치는 정보는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand plays down ‘too expensive’ concerns from South Korean visitors - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDRSbjZuSnBUVzFPcWlYdUxvMW51elljRHNwZmpOdEtmbWVqaWZ5Qk1peFhxY00wdXJMSnhCUHJWYkt2ZjkzclM3S2VISHFzSXI0Q0pSUzdLVy00NTBNTmRGQlNvOXdqeWpVd2RsWE5hM2hUOWxHMFdjVjZRN3BxZW9pOW5IRG54NE1FSXhnYmY5anNrRHQ5RTR0RjlMMHRsUXVvakpaa05aem9VTmZYeUJMUXpHVGhDeVE1SXROSU8xd0tPSXNJRQ?oc=5",
+          "source": "South China Morning Post"
+        }
+      ],
+      "collected_at": "02:37",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 관광 다변화 2026",
+      "summary": "- 태국은 2026년까지 관광 산업 다변화를 추진합니다.\n- 새로운 관광 상품 및 서비스 개발에 집중합니다.\n- 지속 가능한 관광을 위한 노력을 강화할 것입니다.",
+      "full_translated": "태국 관광 다변화 2026\n\n태국 관광부는 2026년까지 관광 산업 다변화를 목표로 하고 있습니다. 이를 위해 새로운 관광 상품 및 서비스 개발에 집중하고, 지속 가능한 관광을 위한 노력을 강화할 계획입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 산업의 장기적인 방향을 제시하는 정보로, 여행객에게는 새로운 관광 상품 및 서비스에 대한 기대감을 줄 수 있습니다. 하지만 당장 여행에 미치는 영향은 적으므로 4점으로 평가합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand tourism diversification 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQWxTdDd1R21xb2xvLUtFQk8zRC1YMGRPUHdjUXZlMF9oWDdieTk5OGlkTXhNMElBb19ZZXpKNWJKVFptVFFwX1d3M0RHd1U1VC1oNmF0QXNsV21BRmZ6eHBHQmcweHFLWDZ3eGQtU2VwbGM5aTBQbUlpbkZIS282TURrWWl6LThuTlJ6UEVaa2k3dEdG?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:37",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-14"
     }
   ]
