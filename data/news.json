@@ -9051,14 +9051,9 @@
       "summary": "- 태국이 관광 및 지역 경제 활성화를 위해 새로운 비자 개혁을 발표했습니다.\n- 은퇴자, 디지털 유목민, 장기 방문객 유치를 목표로 합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국이 은퇴자, 디지털 유목민 및 장기 방문객을 유치하기 위한 흥미로운 새로운 비자 개혁을 발표하여 관광 및 지역 지출을 촉진합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행자에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 장기 체류를 고려하는 여행자에게는 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Unveils Exciting New Visa Reforms to Attract Retirees, Digital Nomads, and Long-Term Visitors, Boosting Tourism and Local Spending - Travel And Tour World",
@@ -9067,23 +9062,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOakI3M3pMcmxMd2ZZZTN3OUdZb1MtVGJHS0U5OUlqbWdINk5xanN0Z3dhaGcxU3A2a3RHMG9JbHlwdWppMXdHS3RXZmluT3YwQnB3VUUzWUpGVTNZcWJ6cDRTelFuRFhXM3g4UnRZcXA1YTF0a2JiRUdzYXhmU0xOeXZRaUdhX2hqaDQ2NVVrY09leE9UdElXZnJmVHE0RjhFeDhiQVVKY1ZKeTdkeGVSbV9HcU4yZTJLeWhnU1FVenJVVzlKbV85TEp1b1VXR1Jyd3NuYmd1Zk9vZnhOdWNXbjd6MjJvWlkwNlNTVzF6NVdHVnBZTDlKcTBRa09mbEtyZUtoaXhjaGFxdjNSNHMtS2FkTQ?oc=5",
+      "source": ""
     },
     {
       "title": "경찰 개혁 요구, 관광 산업 활성화 목표 - 방콕 포스트",
       "summary": "- 방콕 포스트는 관광 산업 활성화를 위해 경찰 개혁을 촉구하는 기사를 게재했습니다.\n- 자세한 내용은 기사를 참조하십시오.\n- 태국 여행 시 참고하시기 바랍니다.",
       "full_translated": "방콕 포스트는 관광 산업 활성화를 위해 경찰 개혁을 촉구하는 기사를 게재했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 안전 및 편의에 영향을 줄 수 있는 경찰 개혁 관련 뉴스. 긍정적인 방향으로의 변화 기대.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Call for police reform to boost tourism - Bangkok Post",
@@ -9092,8 +9084,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0J2MFdKRzVZZ2d1N2Z3MXBzQ203ck1oakNMb0VUQ0lpMFN1MDFyRHVpNFFzZDZQTjZGempBYlFUaTdzazFjeldLUW9yWlhoSGoxWGw0MkUwQ1ZpTHRWMGN2cDZDZFJIMV8tTzJ0V2xOSUNCQ1dXV2RFS3ViaW5iWk8wS1lEWHo2ZWl0ZHN0ZklHMzRNMnlr?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 93개국 무비자 체류 기간 단축 – 여행객을 위한 최적의 여행 방법",
+      "summary": "- 태국이 93개 국가에 대한 무비자 체류 기간을 단축했습니다.\n- 단축된 체류 기간을 최대한 활용하는 방법에 대한 정보가 제공됩니다.\n- 여행 계획 시 변경된 규정을 확인하는 것이 중요합니다.",
+      "full_translated": "태국, 93개국 무비자 체류 기간 단축 – 여행객은 더 짧아진 여행을 어떻게 최대한 활용할 수 있을까요? Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "무비자 체류 기간 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Reduces Visa-Free Stays for 93 Countries – How Tourists Can Make the Most of Their Shorter Trips - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPekthSk93eFZsbHFiZEFHUFY1NXZXVFAwQzFUWkJrWEJ5N3JiUjlmMWdQV2habWF2eU1Kd2pfcHFuTFNWZUw5aWhnRzZDaFhFS1BjZEtZa0x5aUVUMXk4N1VuSVcwdUYtN0o0aGxWUkpsMmQ2SXA4a29UenF1WmVGSzNGb1VjdE1jVzdoWkZEOTNWbEVhZDN3VloyUlVSS25JRThybGxTZ3NicWJFQ0RXS0NxYThKQ1liaHZHWERTY2RveTl0MzkweHRuSmk4S01FTVlPSlVpbXlxeUZOYUR4YXFNaFpvUFE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "인도 여행객, 2025년 동남아 관광 붐에서 태국 선호도 급증",
+      "summary": "- 인도 여행객들이 2025년 동남아 관광에서 태국을 다른 국가보다 선호하는 이유를 분석\n- 태국의 다양한 관광 명소와 문화적 매력이 주요 요인으로 작용\n- 2025년 태국 관광 산업의 성장 전망을 제시",
+      "full_translated": "인도 여행객들이 2025년에 동남아시아 전체보다 태국을 선택하는 이유를 알아보세요. 태국 관광 산업의 가장 큰 붐이 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "인도 여행객의 태국 선호도 증가는 관광 산업에 긍정적인 영향을 미치므로, 새로운 관광 트렌드 정보를 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Discover Why Indian Travellers Are Choosing Thailand Over All Southeast Asia in 2025’s Biggest Tourism Boom - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZUF4SFQ3R202WmpsbTBBSi1vOEUwSG1wT192dURCMXlpVVljMHRQa05naWh1SnUyTFE3UG80dmxOaXBZZGxheDZKeUwwNlR4dW9QUVd1c1lDOVlBU0FiMmFWSXpSQ25RcnpHSlljV0hiWktQMm53OUVOVkJHdGJGMVl1b2tkQ2hQX1I0bkZiTGVGa1g4T0VSamtrV0pwYktDd1RMT0pYMkNIZnI2clhmZ2RNaEdINi1wWU16bnNPX2Y5Zk9sOUtLeVBjekN4b2VRUUdPUERhdTBpZDlIQ3I3UTlQa201WmFrRDVF?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 관광, 2026년 변화 모색: 방문객 수 감소, 여행 경험 개선, 신규 관광객 유치",
+      "summary": "- 태국 관광 산업이 2026년에 새로운 방향으로 전환될 예정입니다.\n- 더 적은 수의 방문객을 유치하고, 여행 경험의 질을 향상시키는 데 초점을 맞춥니다.\n- 특히 처음 방문하는 관광객에게 새로운 기회를 제공할 계획입니다.",
+      "full_translated": "태국 관광은 2026년에 변화를 모색합니다. 방문객 수를 줄이고 더 나은 여행 경험을 제공하며, 처음 방문하는 관광객을 위한 새로운 기회를 창출합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 정책의 변화 방향을 제시하므로 정보 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Shifts Gears in 2026: Lower Visitor Numbers, Better Travel Experiences, and a New Window for First-Time Tourists - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbGJtWGtacWNBV1M2dklXdkNsVXQ3ZzZGZUM5VGtuVHQxbUVSUXpWMEVDaWNNSUl0VnFJdWR4RTdrWGRVbUJLcm1jRFh2YTltbVlESEFDZU9fTGdUMTJxNmE0RUxWRHhqc2ladnNFenJXUUZMRHFBaUlQeW93eXd3cU1WVmR1VExfbFJJVHhVTXVER0lGLWxiSzdRLVlUQXJFd1YwN2QzTzRTRk9scUpvTFpPdUFaRXJNVFE1bWo4SnRRSWg2U3ZVc2oyMWg3bk1Za2FXaU0wSHQtY0ZRSDhYRk91NnpIc2xOc19MZGdWaU5LZXpTWlVnT2xsbVRaRV94bWp6NU1R?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "MCOT, 방콕 라마 9세 지역 토지 임대 입찰 개시",
+      "summary": "- MCOT는 라마 9세 지역 본사 근처 50라이 이상의 토지 임대 입찰을 시작했습니다.\n- 해당 부지는 미래 MRT 오렌지 라인 역 입구와 가까워 복합 용도 개발에 대한 잠재력이 높습니다.\n- 새로운 도시 계획에 따라 해당 부지는 적색 지역으로 재지정될 예정입니다.",
+      "full_translated": "MCOT Plc(태국 공영 방송사)는 방콕 라마 9세 지역 본사 근처에 있는 50라이(약 8만 제곱미터) 이상의 토지 임대에 대한 입찰을 개시했습니다. 해당 부지는 경기 침체와 해당 지역의 사무실 공간 과잉 공급 속에서 복합 용도 프로젝트로 개발될 것으로 예상됩니다.\n\nSoontareeya Wongsirikul 재무 담당 부사장 겸 최고 재무 책임자는 경제 전망이 여전히 부진하지만 MCOT는 투자자들이 프로젝트 개발에 관심을 가질 것이라고 믿고 있다고 말했습니다. 그녀는 \"이 부지는 미래 MRT 오렌지 라인의 역 입구와 가깝고, 태국 문화 센터 MRT 역에서 블루 라인과 교차하므로 강력한 잠재력을 가지고 있습니다.\"라고 말했습니다.\n\n이 부지는 9개의 토지 문서로 구성되어 있으며 Thiam Ruam Mit Road에 50-1-30.5라이에 걸쳐 있으며 도로를 따라 508미터의 전면을 가지고 있습니다. 그러나 Watthanatham Road에서의 접근은 제한적인데, 태국 국영 철도가 소유한 4~5미터 폭의 토지가 도로 전체 전면을 따라 뻗어 있어 직접적인 접근을 막고 있기 때문입니다. 또한 해당 부지의 672제곱와 부분은 태국 대중교통 당국이 건설한 지하 MRT 구조의 영향을 받아 최대 30미터까지만 깊이를 팔 수 있습니다. 결과적으로 개발 가능한 면적은 대략 48-2-58.5라이로 줄어듭니다.\n\n내년에 발효될 새로운 도시 계획에 따라 전체 부지는 이전의...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "방콕의 부동산 개발 관련 소식으로, 여행객에게 직접적인 영향은 적지만, 해당 지역의 변화를 간접적으로 알 수 있는 정보입니다. 새로운 MRT 노선에 대한 정보는 여행 계획에 도움이 될 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "Rama IX area, Bangkok",
+        "price": null,
+        "location_google_map_query": "Rama IX, Bangkok"
+      },
+      "references": [
+        {
+          "title": "MCOT opens bids for Bangkok land",
+          "url": "https://www.bangkokpost.com/business/general/3197095/mcot-opens-bids-for-bangkok-land",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/14/5967380_700.jpg"
+        }
+      ],
+      "collected_at": "06:35",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/14/5967380_700.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "품차이타이당, 농업부 장관 자리 놓고 담마낫과 협상…불응 시 정부 불참 위협",
+      "summary": "- 품차이타이당이 담마낫 프롬파오 농업부 장관의 자리를 요구하며 연립 정부 구성에 난항.\n- 품차이타이당은 수파지 수탐판 여사를 부총리 겸 상무부 장관으로 임명하고 농업부를 감독하길 희망.\n- 담마낫 장관이 거부할 경우 품차이타이당은 정부에 참여하지 않을 수 있다고 경고.",
+      "full_translated": "품차이타이당이 농업부 장관 자리를 놓고 담마낫과 협상하며, 요구가 받아들여지지 않을 경우 정부에 참여하지 않겠다고 위협하고 있다. 1월 13일, 품차이타이당에 따르면, 총선 결과 발표가 임박함에 따라 정부 구성을 서두르고 있다. 최근 품차이타이당은 193석, 프아타이당 74석, 끌라탐당 58석, 기타 소수 정당 35석(타이팍디당 1석, 쁘라차찻당 5석, 룸타이쌍찻당 2석 제외)을 확보했다. 품차이타이당은 수파지 수탐판 여사를 부총리 겸 상무부 장관으로 임명하여 농업부와 협력하여 농산물 생산 및 수출을 감독하길 원한다. 이를 위해 현재 담마낫 프롬파오 농업부 장관이 맡고 있는 농업부를 품차이타이당의 몫으로 가져오려 하지만, 담마낫 장관은 이를 거부하고 있다. 품차이타이당 내부에서도 끌라탐당이 여러 지역에서 품차이타이당의 기반을 잠식하는 것에 대한 불만이 제기되고 있다. 민주당(빠차빠.)의 참여 여부는 아직 논의 중이다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 불안정은 여행 심리에 영향을 줄 수 있으나, 직접적인 영향은 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ภท. ต่อรอง “ธรรมนัส” ยึดกระทรวงเกษตรฯ คืน ขู่ไม่ถอย ไม่ได้ร่วมรัฐบาล",
+          "url": "https://www.thairath.co.th/news/politic/2914116",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dbjlJi1TU6eI.jpg"
+        }
+      ],
+      "collected_at": "06:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dbjlJi1TU6eI.jpg",
       "date": "2026-02-14"
     }
   ]
