@@ -6720,14 +6720,9 @@
       "summary": "- 파타야 좀티엔 해변 도로의 편의점에서 새벽 1시경 발생.\n- 22세 영국인 남성이 날카로운 흉기에 왼쪽 허벅지를 찔려 중태.\n- 23세 태국인 남성이 현장에서 체포, 케타민 판매 압박에 의한 다툼 주장.",
       "full_translated": "파타야 뉴스에 따르면, 촌부리 파타야의 한 편의점에서 23세 태국인 남성이 22세 영국인 관광객을 칼로 찔러 심각한 부상을 입혔습니다. 사건은 좀티엔 해변 도로의 유명 편의점 지점에서 새벽 1시 6분경에 발생했습니다. 파타야 시 경찰서의 경찰이 현장에 출동하여 심각한 폭행 사건을 보고받고 피해자가 과다 출혈을 하고 있는 것을 확인했습니다. 현장에 도착했을 때, 경찰은 피해자를 다니엘 데이비드 브라이언 서튼 씨로 확인했습니다. 그는 날카로운 물체로 왼쪽 허벅지를 깊게 찔려 쓰러져 있었으며, 즉시 응급 처치를 받고 인근 병원으로 이송되었습니다. 용의자는 나따왓 찬통이라는 23세 태국인 남성으로, 현장에서 경찰과 선량한 시민들에 의해 신속하게 체포되었습니다. 경찰은 범행에 사용된 것으로 추정되는 과일 껍질 벗기기 칼과 식칼 두 자루를 편의점 내부 쓰레기통에서 회수했습니다. 경찰 조사에서 나따왓은 영국인 관광객이 무작위로 접근하여 케타민 판매를 압박하여 다툼이 시작되었다고 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "외국인 대상 강력 범죄 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 알림.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 좀티엔 해변 도로 편의점",
-        "price": null,
-        "location_google_map_query": "Jomtien Beach Road Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야 좀티엔 해변 도로 편의점', 'price': None, 'location_google_map_query': 'Jomtien Beach Road Pattaya'}",
       "references": [
         {
           "title": "Young British Tourist Stabbed, Seriously Injured, By Thai Man in Pattaya Convenience Store",
@@ -6736,23 +6731,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260213_081607.jpg?v=1770945553"
         }
       ],
-      "collected_at": "08:22",
+      "collected_at": "8:22",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260213_081607.jpg?v=1770945553",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://thepattayanews.com/2026/02/13/young-british-tourist-stabbed-seriously-injured-by-thai-man-in-pattaya-convenience-store/",
+      "source": ""
     },
     {
       "title": "태국, 2026년 비자 개편 발표 - 인도 여행객이 알아야 할 사항 - VisaHQ",
       "summary": "- 태국이 2026년 비자 정책을 개편할 예정입니다.\n- 인도 여행객에게 필요한 정보를 담고 있습니다.\n- 비자HQ에서 자세한 내용을 확인할 수 있습니다.",
       "full_translated": "태국, 2026년 비자 개편 발표 - 인도 여행객이 알아야 할 사항 VisaHQ",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 중요한 정보이므로 높은 점수를 부여합니다. 특히 2026년 개편에 대한 정보는 최신 업데이트입니다.",
-      "event_info": {
-        "date": "2026",
-        "location": "태국",
-        "price": "개편 내용에 따라 다름",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026', 'location': '태국', 'price': '개편 내용에 따라 다름', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Thailand unveils 2026 visa overhaul—what Indian travellers need to know - VisaHQ",
@@ -6761,23 +6753,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:22",
+      "collected_at": "8:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUVCaWgtc050X3NqZVhMOXBDOF9KSlFjZFoxMVozLUozeVVJM3o2YndMYVZpc0NKTHVvZVJVVlRCVy1fWWJsWkZmbzkyeEVIUG0wRmFHTFBBMTEwTEFNTW5JUTFfUllZNGZJRWRoMjBnelZXRzJxU1BrdHJjTWJZcl9XM1lxc3R3TkhzRlIzaGxOSnVGenhvbURCbTdmdjlMVlltUHRTLU43NklqM25RNkxmY28?oc=5",
+      "source": ""
     },
     {
       "title": "촌부리 나클루아, 불법 노래방 및 대마초 가게 급습: 16세 소녀 성매매 착취 혐의",
       "summary": "- 태국 내무부 장관의 지시로 특별 작전팀이 나클루아 지역의 불법 영업 시설 급습\n- 무허가 노래방에서 16세 소녀의 성매매 착취 정황 포착, 태국인 부부 업주 조사 중\n- 해당 업소는 소음 문제와 미성년자 고용 의혹으로 지역 주민들의 불만을 야기",
       "full_translated": "내무부 장관 아누틴 차른비라쿨의 지시에 따라 특별 작전팀이 불법 활동 단속의 일환으로 나클루아 지역의 불법 노래방 및 대마초 가게를 급습했습니다. 이번 작전은 아르싯 삼판타랏 내무부 차관, 나루차 코샤시비 지방 행정부 국장 등 고위 관계자들이 감독했습니다.\n\n삭사차이 로트자나라트 지방 행정관 법 집행 운영 센터 소장이 이끄는 특별 부대는 론롱 팁시리, 방라뭉 지역 책임자 아누삭 피리야아몬과 함께 새벽 0시 36분경 해당 업소에 들이닥쳤습니다. 이번 급습은 해당 술집이 늦은 밤까지 소음을 일으키고 지역 주민들에게 피해를 주는 것 외에도 미성년자를 성적으로 착취하는 역할을 한다는 민원이 제기된 데 따른 것입니다.\n\n당국은 해당 업소가 필요한 유흥 서비스 허가 없이 무허가 노래방으로 운영되고 있음을 발견했습니다. 내부에는 5명의 여성 종업원이 있었고, 그중 1명은 16세 소녀였습니다. 조사 결과 해당 술집의 소유주인 태국인 부부는 미성년자와 관련된 성매매 활동을 인지하고 이익을 얻은 혐의를 받고 있습니다. 소녀는 포옹, 키스, 더듬기, 성관계 등 고객에게 서비스를 제공하도록 유인되거나 속았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 여행객이 자주 방문하는 촌부리 지역에서 미성년자 대상 범죄 발생은 치안에 대한 우려를 야기할 수 있으므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "나클루아",
-        "price": null,
-        "location_google_map_query": "Naklua"
-      },
+      "event_info": "{'date': None, 'location': '나클루아', 'price': None, 'location_google_map_query': 'Naklua'}",
       "references": [
         {
           "title": "Special Operations Unit of the Department of Provincial Administration Launches Raid on Illegal Karaoke Bar and Cannabis Shop in Naklua for Allegedly Exploiting 16-Year-Old Girl into Prostitution",
@@ -6786,23 +6775,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1770941726583.jpg?v=1770942051"
         }
       ],
-      "collected_at": "08:22",
+      "collected_at": "8:22",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1770941726583.jpg?v=1770942051",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://thepattayanews.com/2026/02/13/special-operations-unit-of-the-department-of-provincial-administration-launches-raids-illegal-karaoke-bar-and-cannabis-shop-in-naklua-for-allegedly-exploiting-16-year-old-girl-into-prostitution/",
+      "source": ""
     },
     {
       "title": "파타야, 발렌타인데이에 Rage Fight Academy에서 무에타이 쇼다운 개최",
       "summary": "- Rage Fight Academy에서 발렌타인데이에 특별한 무에타이 경기 개최.\n- 15개의 스릴 넘치는 경기가 예정되어 있으며, 숙련된 선수들이 참가.\n- 전통적인 저녁 데이트 대신 격투기 관람을 제안하며, 저렴한 가격으로 세계적인 무에타이 경험 제공.",
       "full_translated": "파타야의 Rage Fight Academy에서 발렌타인데이에 특별한 무에타이 쇼다운이 개최됩니다. 좀티엔의 Soi Thappraya 15에 위치한 Rage Fight Academy에서 열리는 이 행사는 15개의 스릴 넘치는 경기를 통해 최고의 격투 경험을 선사할 예정입니다. Rage Fight Academy와 파트너 캠프의 숙련된 선수들이 참가하여 스포츠 지향적인 무에타이와 전통적인 무에타이 장면을 결합, 격렬한 액션을 제공합니다. 문은 오후 6시에 열릴 예정이며, 경기는 곧 시작되어 아드레날린, 강력한 타격, 그리고 관중의 함성으로 가득 찬 완벽한 링사이드 경험을 선사합니다. 올해 주최측은 이 행사를 발렌타인데이의 특별한 대안으로 제시합니다: “이번 발렌타인데이에는 열기를 데이트하세요” – 팬들이 전통적인 저녁 식사 대신 2월 14일을 링사이드에서 보내며 로맨스 대신 격투의 짜릿함을 경험할 수 있도록 초대합니다. 티켓 가격은 저렴하게 유지되어 파타야에서 세계적인 수준의 무에타이 엔터테인먼트를 저렴하게 즐길 수 있습니다. Thappraya Road의 해변에서 몇 분 거리에 위치한 Rage Fight Academy는 도시에서 라이브 격투를 위한 주요 장소로 자리매김하고 있습니다. 무에타이 팬, 스포츠 애호가 또는 잊을 수 없는 밤을 보내고 싶은 사람들은 이 쇼다운을 놓치지 마십시오. 링은 Rage Fight Academy에서 여러분을 기다립니다. 순수한 열정의 밤을 함께하세요! 🥊🔥 최신 업데이트, 티켓 정보 및 자세한 내용은 Rage Fight Academy의 공식 채널을 확인하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야에서 열리는 무에타이 경기 정보는 여행객에게 흥미로운 경험을 제공할 수 있으며, 발렌타인데이 특별 이벤트로 소개되어 정보 가치가 있다고 판단.",
-      "event_info": {
-        "date": "2026-02-14",
-        "location": "Rage Fight Academy, Soi Thappraya 15, Jomtien, Pattaya",
-        "price": "정보 없음",
-        "location_google_map_query": "Rage Fight Academy Pattaya"
-      },
+      "event_info": "{'date': '2026-02-14', 'location': 'Rage Fight Academy, Soi Thappraya 15, Jomtien, Pattaya', 'price': '정보 없음', 'location_google_map_query': 'Rage Fight Academy Pattaya'}",
       "references": [
         {
           "title": "Pattaya Gears Up for Explosive Muay Thai Showdown on Valentines Day At Rage Fight Academy With Rage Fight Night!",
@@ -6811,23 +6797,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770942685895.jpg?v=1770943216"
         }
       ],
-      "collected_at": "08:22",
+      "collected_at": "8:22",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770942685895.jpg?v=1770943216",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://thepattayanews.com/2026/02/13/pattaya-gears-up-for-explosive-muay-thai-showdown-on-valentines-day-at-rage-fight-academy-with-rage-fight-night/",
+      "source": ""
     },
     {
       "title": "동남아시아 2위 경제 대국, 외국인 관광객 10.7% 감소 - VnExpress International",
       "summary": "- 베트남 VnExpress International에 따르면 동남아시아 2위 경제 대국인 태국의 외국인 관광객이 10.7% 감소했습니다.\n- 정확한 감소 원인과 구체적인 데이터는 기사를 통해 확인할 수 있습니다.\n- 관광 산업에 미치는 영향에 대한 추가 분석이 필요합니다.",
       "full_translated": "동남아시아 2위 경제 대국, 외국인 관광객 10.7% 감소 - VnExpress International",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "관광객 감소는 태국 여행 전반에 걸쳐 잠재적인 영향이 있을 수 있으며, 여행 관련 예산 및 계획에 영향을 미칠 수 있습니다. 다만, 구체적인 데이터와 원인 분석이 필요하여 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Southeast Asia's 2nd largest economy sees foreign arrivals down 10.7% - VnExpress International",
@@ -6836,8 +6819,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:22",
+      "collected_at": "8:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFlONy1fM21VeHpKYzNaVlo1ZWJsWHg3dHBWbHN3RlNqcVBqc05RUjlCSTcwRS1KT1VBM0JDY1pXUlBhYWdIM2V2UjhNU3VfWWZ5Z0duNnpKQTM1Q3NwMks5Q0tRTXl2MXVJZnhfLTd5Ri0taE1GVHNPMnVPUVVWSjU0UHdpamZBY3dYdm9EYklpY1FxMTNFdlRhR1RjdktXTDFqZTFWVE9jaFVHZ2NEYU5SdGVOZHox?oc=5",
+      "source": ""
+    },
+    {
+      "title": "모바일 뱅킹 앱 사용자를 위한 중요 업데이트: Android 및 iOS 운영체제 확인 필수",
+      "summary": "- 태국 내 모든 은행의 모바일 뱅킹 앱 보안 강화 조치 시행 예정.\n- 2026년 2월 14일부터 특정 버전 이하의 운영체제에서는 앱 사용 불가.\n- iOS 14 미만, Android 10 미만 사용자는 앱 업데이트 또는 기기 변경 필요.",
+      "full_translated": "태국 내 모든 은행의 모바일 뱅킹 앱을 사용하는 사용자는 반드시 확인해야 할 중요한 업데이트가 있습니다. 2026년 2월 14일부터 은행 앱 보안 강화를 위해 특정 운영체제 버전 이하에서는 앱 사용이 제한됩니다. 구체적으로 iOS(iPhone/iPad) 버전 14 이상, Android 버전 10 이상을 사용하는 기기에서만 앱 사용이 가능합니다. iOS 14 미만 또는 Android 10 미만의 운영체제를 사용하는 기기는 더 이상 모바일 뱅킹 앱을 사용할 수 없게 됩니다. 이는 맬웨어, 피싱, 사이버 공격으로부터 금융 거래의 안전을 강화하기 위한 조치이며, 이전 버전의 운영체제는 보안에 취약하고 새로운 위협에 대한 보안 패치 업데이트를 받지 못하기 때문입니다. 해당 기준에 미치지 못하는 기기를 사용하는 사용자는 모바일 뱅킹 앱을 사용할 수 없으며 거래가 중단될 수 있습니다. 일부 기기는 운영체제를 업그레이드할 수 없는 경우도 있으므로 사용자는 안전을 위해 새 기기 교체를 고려해야 할 수 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 7,
+      "impact_reason": "모바일 뱅킹을 사용하는 여행자에게 중요한 정보이며, 계좌 접근에 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": "2026-02-14",
+        "location": "태국",
+        "price": "N/A",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "เช็กด่วน ระบบปฏิบัติการ Android และ iOS ก่อนเข้าแอปฯ ธนาคาร Mobile Banking ไม่ได้",
+          "url": "https://www.thairath.co.th/news/society/2913986",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyPZCIpiNgsjyJ.jpg"
+        }
+      ],
+      "collected_at": "10:58",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyPZCIpiNgsjyJ.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "선거 용지 유출 가능성 제기: 유권자 정보 노출 우려",
+      "summary": "- 한 정당의 국회의원 후보가 선거 용지의 고유 번호로 인해 유권자 정보가 노출될 수 있다고 주장.\n- 용지에 기표한 사람이 누구인지 알 수 있는 위험이 있다고 지적.\n- 선거 관리 당국에 철저한 보안 조치 촉구.",
+      "full_translated": "한 정당의 국회의원 후보인 'Prasit Patompadungsak'는 선거 용지가 비밀이 아닐 수 있으며, 고유 번호로 인해 누가 투표했는지 알 수 있는 높은 가능성이 있다고 폭로했습니다. 그는 2069년 2월 13일에 파툼타니의 국회의원 후보로 출마했습니다. 그는 실수가 발생한 구역 선거 용지에 권호와 용지 번호가 명시되어 있다고 지적했습니다. 예를 들어, B0719961번 권에는 20장의 용지가 있으며, 0719961 x 20 = 14399220입니다. 따라서 이 권에는 14399201 - 14399220번 용지가 있으며, 이 용지의 번호는 B14399212입니다. 그는 이것이 고유 번호일 가능성이 높다고 설명했습니다. Prasit은 녹색 용지에서도 누가 투표했는지 알 수 있을 것이라고 덧붙였습니다. B0719961번 권의 각 권에는 20장의 용지가 있으며, 번호는 B14399201 - B14399220입니다. 이 용지는 B14399212입니다. 용지에는 각 구역의 유권자 ID인 유권자 순서가 있습니다. 예를 들어, 자신의 경우 396번입니다. 이 번호가 발견되면 'Mike Prasit'입니다. 선거 용지 부분에는 EH1RQ로 스캔할 수 있는 QR 코드가 있으며, 이는 고유 번호일 가능성이 높습니다. 그는 'EH1RQ를 14399212로 해독하려고 노력했지만 아직 성공하지 못했습니다(성공한 사람이 있으면 알려주세요). 그러나 데이터베이스 매핑이 이미 있는 경우 이 코드를 해독할 필요가 없을 수 있습니다. 즉, EH1RQ를 14399212로 매핑하면 누가 선거 용지의 소유자이고 누구에게 투표했는지 알 수 있습니다.'라고 덧붙였습니다. Prasit은 Chat GPT를 사용하여 00001에서 99999까지, 그리고 A0000, A00001에서 ZZZZZ까지 5자리 숫자 및 문자 세트를 만들면 총 60,466,176개의 숫자가 생성되며, 이는 유권자 수인 5200만 명보다 많을 것이라고 제안했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거의 공정성에 대한 의혹 제기는 정치적 불안정을 야기할 수 있으나, 여행객에게 직접적인 위협은 아님. 하지만 선거 관련 소식은 인지하는 것이 좋음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ผู้สมัคร สส.ปชน. แฉ บัตรเลือกตั้งส่อรู้ได้หมดใครกาอะไร เสี่ยงเป็นเลข Unique running number",
+          "url": "https://www.thairath.co.th/news/politic/2913990",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyPG3dR0z2x4aG.jpg"
+        }
+      ],
+      "collected_at": "10:58",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyPG3dR0z2x4aG.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "발렌타인 데이 맞아 꽃집 울상: 예약 주문 감소, 휴일과 겹치고 하트 스티커 품절",
+      "summary": "- 올해 발렌타인 데이는 토요일과 겹쳐 직장인 고객 감소로 꽃 주문이 줄어듦.\n- 꽃 가격은 작년과 비슷하지만, 경제 불황으로 소비 심리가 위축된 것으로 분석됨.\n- 하트 스티커는 품절될 정도로 인기를 끌고 있으며, 꽃 대신 스티커 선물도 고려해볼 만함.",
+      "full_translated": "우타이타니 지역의 꽃집 주인 팟티와 키여울리는 올해 발렌타인 데이 예약 주문이 예년에 비해 감소했다고 밝혔습니다. 주된 이유는 발렌타인 데이가 토요일과 겹쳐 주요 고객층인 직장인들의 구매가 줄었기 때문입니다. 경제 불황도 소비 심리 위축에 영향을 미친 것으로 보입니다. 꽃 가격은 작년과 비슷한 수준이지만, 고객들을 위해 배달 서비스를 제공해도 판매량이 크게 늘지 않고 있습니다. 중국산 장미는 한 송이에 100바트로, 태국산 장미보다 가격이 비싸지만 큰 꽃과 아름다운 모양으로 인기가 높습니다. 해바라기 역시 중국에서 수입되며, 발렌타인 데이 시즌에는 가격이 상승합니다. 팟티와는 꽃이 남을 것을 우려해 올해는 주문량에 맞춰 꽃을 준비할 예정이라고 밝혔습니다. 태국산 장미는 한 송이에 30-40바트로 판매됩니다. 중국산 장미는 태국에서 재배된 장미보다 오랫동안 인기를 끌고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "발렌타인 데이 관련 현지 소식으로, 여행 중 선물 구매에 참고할 만한 정보.",
+      "event_info": {
+        "date": "2026-02-14",
+        "location": "우타이타니 지역 꽃집",
+        "price": "장미(중국산): 100바트/송이, 장미(태국산): 30-40바트/송이, 해바라기(중국산): 300바트/송이",
+        "location_google_map_query": "우타이타니 꽃집"
+      },
+      "references": [
+        {
+          "title": "ร้านดอกไม้โอดวาเลนไทน์ ยอดสั่งจองน้อย เหตุตรงวันหยุด-สติ๊กเกอร์หัวใจฮอตขายเกลี้ยง",
+          "url": "https://www.thairath.co.th/news/local/2913985",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8Dd1notCRlfZLd.jpg"
+        }
+      ],
+      "collected_at": "10:58",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHB8Dd1notCRlfZLd.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국, 섬유 및 의류 산업 박람회 개최 준비… 글로벌 상품 조달 관문 목표",
+      "summary": "- 태국이 섬유 및 의류 산업 박람회를 2026년 6월 3일부터 5일까지 방콕에서 개최합니다.\n- 이번 박람회는 태국을 글로벌 상품 조달의 핵심 관문으로 만들고, 산업 협력의 중심지로 발전시키는 것을 목표로 합니다.\n- 국제 의류 연맹(IAF) 및 아세안 섬유 산업 연맹(AFTEX) 등 주요 기관들이 협력합니다.",
+      "full_translated": "태국은 2026년 6월 3일부터 5일까지 태국에서 대규모 섬유 및 의류 산업 관련 행사를 개최할 준비를 하고 있으며, 이는 구조적 변화에 직면한 중요한 시기에 이루어집니다. 2월 13일, 기자들은 '제2회 아시아 소싱 쇼 2026 (섬유 및 의류)' 및 '글로벌 소싱 서밋 2026'이 2026년 6월 3일부터 5일까지 방콕의 임팩트 무앙 통 타니 전시 컨벤션 센터에서 개최될 예정이라고 보도했습니다. 이 행사는 세계적인 섬유 및 의류 산업의 집결지가 될 것이며, 태국을 글로벌 상품 조달의 중요한 관문, 산업 협상 플랫폼, 국경 간 협력의 중심으로 만드는 것을 목표로 합니다. CEMS-Global USA & Asia-Pacific의 그룹 CEO인 에스.에스. 사르와르는 제2회 아시아 소싱 쇼 2026 (섬유 및 의류) 및 글로벌 소싱 서밋 2026의 주최자로서, 아시아 소싱 2026이 완벽한 다국적 상품 조달 플랫폼으로 설계되었다고 밝혔습니다. 이 행사는 제2회 아시아 국제 의류 소싱 쇼와 제2회 아시아 국제 원사 및 직물 소싱 쇼를 결합하여 원사, 직물부터 완제품 의류 및 액세서리에 이르기까지 섬유 가치 사슬 전반에 걸쳐 선도적인 제조업체를 한자리에 모을 것입니다. 국제 의류 연맹(IAF) 및 아세안 섬유 산업 연맹(AFTEX)과 같은 전략적 파트너 조직의 협력과 태국 섬유 산업 연맹(NFTTI), 섬유 산업 개발 연구소(THTI) 및 태국 컨벤션 및 전시국(TCEB)의 지원을 받습니다. 이 대표적인 플랫폼은 섬유 및 의류 상품 조달 시장으로 발전했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국이 섬유 및 의류 산업의 중심지로 부상하려는 노력을 보여주는 행사로, 관련 산업 종사자나 관심 있는 여행객에게 정보가 될 수 있음. 행사 시기가 2026년으로 아직 멀었으나, 관련 업계 종사자에게는 충분히 사전 정보로서의 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2026-06-03 ~ 2026-06-05",
+        "location": "임팩트 무앙 통 타니 전시 컨벤션 센터, 방콕",
+        "price": "미정",
+        "location_google_map_query": "임팩트 무앙 통 타니 전시 컨벤션 센터"
+      },
+      "references": [
+        {
+          "title": "เตรียมจัดงานอุตสาหกรรมสิ่งทอ-เครื่องนุ่งห่ม หวังดันไทยเป็นประตูจัดหาสินค้าระดับโลก",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2913973",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyNFkOUQRUrDTW.jpg"
+        }
+      ],
+      "collected_at": "10:58",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyNFkOUQRUrDTW.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "스위스, 인구 1천만 명 제한 국민투표 준비",
+      "summary": "- 스위스가 인구 증가에 대한 우려로 1천만 명으로 인구 제한을 두는 국민투표를 준비 중임.\n- 우파 정당이 제안한 이 국민투표는 6월 14일에 실시될 예정이며, 이민 제한을 목표로 함.\n- 현재 스위스 인구는 약 910만 명이며, 투표 결과에 따라 EU와의 협정에도 영향을 미칠 수 있음.",
+      "full_translated": "스위스가 중요한 국민투표를 6월 14일에 실시할 예정입니다. 이는 우파 정당의 제안에 따른 것으로, 국가 인구를 1천만 명으로 제한하는 것을 목표로 합니다. 이 제안은 인구 증가가 공공 서비스와 기반 시설에 압력을 가하고 주거 비용을 상승시킨다는 우려에서 비롯되었습니다. 제안에 따르면 정부는 인구가 950만 명에 도달하기 전에 조치를 취해야 합니다. 국민투표가 승인되면 정부는 새로운 이민자, 난민 및 외국인 가족 구성원의 입국을 거부해야 합니다. 현재 스위스의 인구는 약 910만 명입니다. 또한, 인구가 1천만 명에 도달하면 정부는 유럽 연합(EU)과의 인력 이동 자유 협정을 취소해야 합니다. 스위스는 EU 회원국은 아니지만 120개 이상의 양자 협정을 통해 EU 단일 시장에 접근할 수 있으며, 노동 이동 및 상품 무역의 자유를 누리고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "스위스 관련 뉴스이므로 태국 여행객에게는 직접적인 영향이 적다고 판단.",
+      "event_info": {
+        "date": "2069-06-14",
+        "location": "스위스",
+        "price": null,
+        "location_google_map_query": "스위스"
+      },
+      "references": [
+        {
+          "title": "สวิตเซอร์แลนด์เตรียมลงประชามติ จำกัดประชากรไม่เกิน 10 ล้านคน",
+          "url": "https://www.thairath.co.th/news/foreign/2913989",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyPZdwQgdntf4D.jpg"
+        }
+      ],
+      "collected_at": "10:58",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxyyPZdwQgdntf4D.jpg",
       "date": "2026-02-13"
     }
   ]
