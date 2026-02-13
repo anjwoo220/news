@@ -6610,14 +6610,9 @@
       "summary": "- TTR Weekly에 따르면 태국이 국제 호텔 체크인 건수에서 1위를 차지했습니다.\n- 이는 태국이 관광지로 인기가 높다는 것을 의미합니다.\n- 자세한 내용은 TTR Weekly 웹사이트에서 확인할 수 있습니다.",
       "full_translated": "태국이 국제 호텔 체크인 건수에서 1위를 차지했습니다. TTR Weekly",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행에 대한 긍정적인 지표이며, 여행객들에게 참고자료가 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand tops international hotel check-ins - TTR Weekly",
@@ -6626,23 +6621,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVGh1YVlIQldJTkd3d0pWTVdyOGp3YzM1bVFIRXd1TXd2anNPb3pCVVRSUXh0RUJ0V01La2NWUWVYTlVRLU1TMVF2dERUSlQtTEQtYlRoNmdXeGlHWWNFVWE1QlZaLWZNRjc2ZDNHcTE4anBLT0pFV3VzUGhBZ1p4X0VZTGFFUlJMYmJB?oc=5",
+      "source": ""
     },
     {
       "title": "BDMS 웰니스 클리닉, 웰니스 관광 생태계 활성화를 위해 공공 및 민간 부문 통합",
       "summary": "- BDMS 웰니스 클리닉이 태국 웰니스 관광 생태계 활성화를 위해 공공 및 민간 부문과 협력합니다.\n- 웰니스 관광은 건강과 웰빙을 추구하는 여행 트렌드를 의미합니다.\n- 이번 협력을 통해 태국은 웰니스 관광 목적지로서의 입지를 강화할 것으로 기대됩니다.",
       "full_translated": "BDMS 웰니스 클리닉은 웰니스 관광 생태계를 활성화하기 위해 공공 및 민간 부문을 통합합니다. MSN",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 웰니스 관광에 대한 정보로, 여행객의 관심도가 있을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BDMS Wellness Clinic unites public and private sectors to boost wellness tourism ecosystem - MSN",
@@ -6651,23 +6643,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2d5MTJ6MXRLeGVoZDRNNVRkNHZVcFU4bDRuNl9xaWZ1akxJbmxmTmFUWEFrMXdzSU5WWGVKNzRINWx1TktSUVJVemExbUY0U0RKX3kwSWVwUlBwcjlLbkVpTkZkbnhHT1I1Q2NUY1NoZlp6eUtvN1piclFSUFZiRVpHMGl5eVJnLXBTZGpadU4wRVcxajIyR2YwNmZHSlJ4RW9xZkIzbEJ1a21rNjRUSll1d1BjZHFVeF9aaXl6VVBVRmMwZi1rLXVSX1FRcFBSNzlDNGhB?oc=5",
+      "source": ""
     },
     {
       "title": "태국 수출입은행, 수출 기업 지원 위해 500억 바트 유동성 공급",
       "summary": "- 태국 수출입은행(Exim Bank)은 글로벌 경제 불확실성에 대응하여 수출 기업에 500억 바트 규모의 유동 자금을 지원할 예정입니다.\n- 이는 무역 전쟁, 지정학적 긴장 등의 리스크로 인해 어려움을 겪는 수출 기업의 유동성 확보를 돕기 위함입니다.\n- 환율 변동 위험을 줄이기 위해 수출 보험 및 외환 보험을 제공하며, 수출 기업에게 환율 투기보다는 선물 계약을 통한 위험 회피를 권장합니다.",
       "full_translated": "태국 수출입은행(Exim Bank)은 글로벌 경제 변동성이 지속됨에 따라 어려움을 겪는 수출 기업을 지원하기 위해 500억 바트 규모의 운전 자금 시설을 준비했습니다.\n\n차랏 라타나분니티 은행장에 따르면, 은행은 올해 수출 기업의 유동성을 지원하기 위해 운전 자금을 확대할 계획입니다. 그는 글로벌 경제가 무역 전쟁과 장기화된 지정학적 긴장 등 여러 위험으로 인해 여전히 취약하고 변동성이 크며, 이는 글로벌 공급망, 무역 및 투자에 영향을 미치고 있다고 말했습니다. 주요 경제국은 둔화 조짐을 보이고 있으며, 바트는 외부 요인에 따라 변동성이 매우 큽니다.\n\n수출입은행은 올해 태국 수출이 2% 성장할 것으로 예상하는 반면, 재정정책실은 1% 증가, 국가경제사회개발위원회는 0.3% 감소를 예측합니다. 바트 변동성으로 인한 위험을 완화하기 위해 수출입은행은 모든 수출 고객에게 수출 보험 및 외환 보험을 제공하고 있습니다. 은행은 수출 기업이 환율을 투기하는 것을 권장하지 않습니다. 차랏 씨는 수출 기업은 외환 위험을 헤지하기 위해 선물 계약을 사용해야 한다고 말했습니다. 작년에 선물 거래 총액은 1,000억 바트를 초과했습니다.\n\n그는 수출 기업이 도널드 트럼프 미국 대통령의 관세에 대응하여 미국 구매자와 협상하여 제품 가격을 인상하도록 도왔다고 말했습니다. 그러나 차랏 씨는 또한 수출 기업에게 새로운 시장을 모색하고 제품을 다양화할 것을 조언했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 상황은 여행객의 소비 및 물가에 간접적으로 영향을 미치므로 관련 정보를 제공합니다. 직접적인 연관성은 낮으나, 환율 변동에 대한 언급이 있어 참고할 만 합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Exim Bank offers B50bn lifeline to ailing exporters",
@@ -6676,23 +6665,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965505_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965505_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/business/general/3196235/exim-bank-offers-b50bn-lifeline-to-ailing-exporters",
+      "source": ""
     },
     {
       "title": "프아타이, 새로운 헌장 추진 지지",
       "summary": "- 프아타이당은 새 헌법 초안 작성을 위한 국민투표 결과를 지지하며, 광범위한 공공 참여를 촉구합니다.\n- 당은 현재 헌장의 단점을 인식하고 정치 개혁의 필요성에 대한 공감대가 형성되었다고 밝혔습니다.\n-  그러나 성공적인 헌법 개정은 앞으로의 과정의 진지성과 포용성에 달려 있다고 강조했습니다.",
       "full_translated": "프아타이당은 새로운 헌장 추진을 지지합니다.\n\n프아타이당은 정치 정당, 국회의원, 시민 사회 단체 및 대중에게 일요일 국민투표에서 표현된 국민의 뜻이 진정으로 민주적인 헌법 초안 작성으로 이어지도록 협력할 것을 촉구했습니다. 프아타이당의 국민투표 소통 및 국민 헌법 캠페인 위원회 위원장인 차투론 차이사앙은 목요일에 '찬성' 투표가 새로운 헌장에 대한 분명한 대중의 열망을 보여주었다고 말했습니다. 94%의 투표가 집계된 가운데 약 1,990만 명의 유권자가 새로운 헌법 초안 작성을 지지했으며, 이는 집계가 완료되면 2,000만 명을 초과할 것으로 예상됩니다. 차투론 씨는 이번 결과가 현행 헌법의 단점에 대한 광범위한 대중의 인식과 국가 문제 해결을 위한 정치 개혁의 필요성에 대한 공통된 인식을 반영한 것이라고 말했습니다. 그는 \"이번 결과는 사람들이 기존 헌법의 한계를 이해하고 보다 효과적인 해결책을 제공할 수 있는 새로운 헌법의 필요성을 인식하고 있음을 보여줍니다.\"라고 말했습니다. \"이는 태국의 민주적 발전에 고무적인 신호입니다.\" 그러나 그는 성공 여부가 앞으로의 과정의 진지성과 포용성에 달려 있다고 말했습니다. 의회가 수정안을 작성하거나 새로운 헌장을 만드는 데 중심적인 역할을 할 것이지만, 그는 불충분한 공공 참여가 주요 장애물이 될 수 있다고 경고했습니다. 차투론 씨는 모든 이해 관계자들에게",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치적 상황에 대한 정보 제공. 직접적인 여행 영향은 적으나, 알아두면 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Pheu Thai backs new charter drive",
@@ -6701,23 +6687,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965390_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/13/5965390_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/politics/3196090/pheu-thai-backs-new-charter-drive",
+      "source": ""
     },
     {
       "title": "아누틴 총리, '아시아의 병자'라는 태국에 대한 평가 일축",
       "summary": "- 아누틴 총리는 최근 총선 이후 태국의 경제 전망에 대한 자신감을 표명하며, 태국을 '아시아의 병자'로 묘사한 외신 보도를 반박했습니다.\n- 그는 현재 정부가 엄격한 재정 규율을 통해 경제 기초를 강화하고 투자자 신뢰를 높이는 데 전념하고 있다고 강조했습니다.\n- 정부는 잉여 예산 자금을 활용하여 농업협동조합은행에 빚을 갚는 결정을 내렸으며, 이는 피치 신용평가사가 태국의 국가 신용 등급을 BBB+로 유지하는 데 기여했습니다.",
       "full_translated": "아누틴 차른비라쿨 총리는 최근 총선 이후 태국의 경제 전망에 대한 자신감을 표명하며, 태국을 '아시아의 병자'로 묘사한 외신 보도를 반박했습니다. 그는 파이낸셜 타임즈의 최근 기사 '태국이 어떻게 '아시아의 병자'가 되었나'에 대해, 그러한 평가는 현재 정부가 아닌 이전 정부의 상황을 반영한 것이라고 말했습니다.\n\n내무부 장관이기도 한 아누틴 씨는 자신의 정부가 엄격한 재정 규율을 통해 경제 기초를 강화하고 투자자 신뢰를 높이는 데 전념하고 있다고 말했습니다. 그는 \"우리는 재정 규율이 부족한 정책을 추구하지 않습니다. 우리가 하는 모든 일은 재정 및 재정적 안정을 유지하여 경제 기반이 강력하게 유지되도록 해야 합니다.\"라고 말했습니다.\n\n정부 접근 방식의 구체적인 증거로 아누틴 씨는 엑니티 니티탄프라파스 부총리 겸 재무장관의 주도 하에 재무부가 잉여 예산 자금을 대중영합적 계획으로 전환하는 대신 농업협동조합은행에 빚을 갚는 데 사용하기로 한 결정을 언급했습니다. 이 조치는 피치 신용평가사가 태국의 국가 신용 등급을 BBB+로 유지하도록 설득하는 데 도움이 되어 외국의 투자자들에게 태국의 신뢰성과 매력을 강화했습니다.\n\n정치적 안정에 대해 아누틴 씨는 선거 결과가 긍정적인 신호라고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국의 경제 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 제한적이므로 낮은 점수를 부여합니다. 기존 뉴스에 유사한 내용이 없으므로 포함합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Anutin dismisses 'sick man of Asia' label for Thailand",
@@ -6726,8 +6709,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196075_260213061111_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196075_260213061111_700.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/general/3196075/anutin-dismisses-sick-man-of-asia-label-for-thailand",
+      "source": ""
+    },
+    {
+      "title": "파타야 편의점에서 영국인 관광객 칼에 찔려 중상",
+      "summary": "- 파타야 좀티엔 해변 도로의 편의점에서 새벽 1시경 발생.\n- 22세 영국인 남성이 날카로운 흉기에 왼쪽 허벅지를 찔려 중태.\n- 23세 태국인 남성이 현장에서 체포, 케타민 판매 압박에 의한 다툼 주장.",
+      "full_translated": "파타야 뉴스에 따르면, 촌부리 파타야의 한 편의점에서 23세 태국인 남성이 22세 영국인 관광객을 칼로 찔러 심각한 부상을 입혔습니다. 사건은 좀티엔 해변 도로의 유명 편의점 지점에서 새벽 1시 6분경에 발생했습니다. 파타야 시 경찰서의 경찰이 현장에 출동하여 심각한 폭행 사건을 보고받고 피해자가 과다 출혈을 하고 있는 것을 확인했습니다. 현장에 도착했을 때, 경찰은 피해자를 다니엘 데이비드 브라이언 서튼 씨로 확인했습니다. 그는 날카로운 물체로 왼쪽 허벅지를 깊게 찔려 쓰러져 있었으며, 즉시 응급 처치를 받고 인근 병원으로 이송되었습니다. 용의자는 나따왓 찬통이라는 23세 태국인 남성으로, 현장에서 경찰과 선량한 시민들에 의해 신속하게 체포되었습니다. 경찰은 범행에 사용된 것으로 추정되는 과일 껍질 벗기기 칼과 식칼 두 자루를 편의점 내부 쓰레기통에서 회수했습니다. 경찰 조사에서 나따왓은 영국인 관광객이 무작위로 접근하여 케타민 판매를 압박하여 다툼이 시작되었다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "외국인 대상 강력 범죄 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 알림.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 좀티엔 해변 도로 편의점",
+        "price": null,
+        "location_google_map_query": "Jomtien Beach Road Pattaya"
+      },
+      "references": [
+        {
+          "title": "Young British Tourist Stabbed, Seriously Injured, By Thai Man in Pattaya Convenience Store",
+          "url": "https://thepattayanews.com/2026/02/13/young-british-tourist-stabbed-seriously-injured-by-thai-man-in-pattaya-convenience-store/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260213_081607.jpg?v=1770945553"
+        }
+      ],
+      "collected_at": "08:22",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260213_081607.jpg?v=1770945553",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국, 2026년 비자 개편 발표 - 인도 여행객이 알아야 할 사항 - VisaHQ",
+      "summary": "- 태국이 2026년 비자 정책을 개편할 예정입니다.\n- 인도 여행객에게 필요한 정보를 담고 있습니다.\n- 비자HQ에서 자세한 내용을 확인할 수 있습니다.",
+      "full_translated": "태국, 2026년 비자 개편 발표 - 인도 여행객이 알아야 할 사항 VisaHQ",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 중요한 정보이므로 높은 점수를 부여합니다. 특히 2026년 개편에 대한 정보는 최신 업데이트입니다.",
+      "event_info": {
+        "date": "2026",
+        "location": "태국",
+        "price": "개편 내용에 따라 다름",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Thailand unveils 2026 visa overhaul—what Indian travellers need to know - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUVCaWgtc050X3NqZVhMOXBDOF9KSlFjZFoxMVozLUozeVVJM3o2YndMYVZpc0NKTHVvZVJVVlRCVy1fWWJsWkZmbzkyeEVIUG0wRmFHTFBBMTEwTEFNTW5JUTFfUllZNGZJRWRoMjBnelZXRzJxU1BrdHJjTWJZcl9XM1lxc3R3TkhzRlIzaGxOSnVGenhvbURCbTdmdjlMVlltUHRTLU43NklqM25RNkxmY28?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "촌부리 나클루아, 불법 노래방 및 대마초 가게 급습: 16세 소녀 성매매 착취 혐의",
+      "summary": "- 태국 내무부 장관의 지시로 특별 작전팀이 나클루아 지역의 불법 영업 시설 급습\n- 무허가 노래방에서 16세 소녀의 성매매 착취 정황 포착, 태국인 부부 업주 조사 중\n- 해당 업소는 소음 문제와 미성년자 고용 의혹으로 지역 주민들의 불만을 야기",
+      "full_translated": "내무부 장관 아누틴 차른비라쿨의 지시에 따라 특별 작전팀이 불법 활동 단속의 일환으로 나클루아 지역의 불법 노래방 및 대마초 가게를 급습했습니다. 이번 작전은 아르싯 삼판타랏 내무부 차관, 나루차 코샤시비 지방 행정부 국장 등 고위 관계자들이 감독했습니다.\n\n삭사차이 로트자나라트 지방 행정관 법 집행 운영 센터 소장이 이끄는 특별 부대는 론롱 팁시리, 방라뭉 지역 책임자 아누삭 피리야아몬과 함께 새벽 0시 36분경 해당 업소에 들이닥쳤습니다. 이번 급습은 해당 술집이 늦은 밤까지 소음을 일으키고 지역 주민들에게 피해를 주는 것 외에도 미성년자를 성적으로 착취하는 역할을 한다는 민원이 제기된 데 따른 것입니다.\n\n당국은 해당 업소가 필요한 유흥 서비스 허가 없이 무허가 노래방으로 운영되고 있음을 발견했습니다. 내부에는 5명의 여성 종업원이 있었고, 그중 1명은 16세 소녀였습니다. 조사 결과 해당 술집의 소유주인 태국인 부부는 미성년자와 관련된 성매매 활동을 인지하고 이익을 얻은 혐의를 받고 있습니다. 소녀는 포옹, 키스, 더듬기, 성관계 등 고객에게 서비스를 제공하도록 유인되거나 속았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 여행객이 자주 방문하는 촌부리 지역에서 미성년자 대상 범죄 발생은 치안에 대한 우려를 야기할 수 있으므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "나클루아",
+        "price": null,
+        "location_google_map_query": "Naklua"
+      },
+      "references": [
+        {
+          "title": "Special Operations Unit of the Department of Provincial Administration Launches Raid on Illegal Karaoke Bar and Cannabis Shop in Naklua for Allegedly Exploiting 16-Year-Old Girl into Prostitution",
+          "url": "https://thepattayanews.com/2026/02/13/special-operations-unit-of-the-department-of-provincial-administration-launches-raids-illegal-karaoke-bar-and-cannabis-shop-in-naklua-for-allegedly-exploiting-16-year-old-girl-into-prostitution/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1770941726583.jpg?v=1770942051"
+        }
+      ],
+      "collected_at": "08:22",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1770941726583.jpg?v=1770942051",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "파타야, 발렌타인데이에 Rage Fight Academy에서 무에타이 쇼다운 개최",
+      "summary": "- Rage Fight Academy에서 발렌타인데이에 특별한 무에타이 경기 개최.\n- 15개의 스릴 넘치는 경기가 예정되어 있으며, 숙련된 선수들이 참가.\n- 전통적인 저녁 데이트 대신 격투기 관람을 제안하며, 저렴한 가격으로 세계적인 무에타이 경험 제공.",
+      "full_translated": "파타야의 Rage Fight Academy에서 발렌타인데이에 특별한 무에타이 쇼다운이 개최됩니다. 좀티엔의 Soi Thappraya 15에 위치한 Rage Fight Academy에서 열리는 이 행사는 15개의 스릴 넘치는 경기를 통해 최고의 격투 경험을 선사할 예정입니다. Rage Fight Academy와 파트너 캠프의 숙련된 선수들이 참가하여 스포츠 지향적인 무에타이와 전통적인 무에타이 장면을 결합, 격렬한 액션을 제공합니다. 문은 오후 6시에 열릴 예정이며, 경기는 곧 시작되어 아드레날린, 강력한 타격, 그리고 관중의 함성으로 가득 찬 완벽한 링사이드 경험을 선사합니다. 올해 주최측은 이 행사를 발렌타인데이의 특별한 대안으로 제시합니다: “이번 발렌타인데이에는 열기를 데이트하세요” – 팬들이 전통적인 저녁 식사 대신 2월 14일을 링사이드에서 보내며 로맨스 대신 격투의 짜릿함을 경험할 수 있도록 초대합니다. 티켓 가격은 저렴하게 유지되어 파타야에서 세계적인 수준의 무에타이 엔터테인먼트를 저렴하게 즐길 수 있습니다. Thappraya Road의 해변에서 몇 분 거리에 위치한 Rage Fight Academy는 도시에서 라이브 격투를 위한 주요 장소로 자리매김하고 있습니다. 무에타이 팬, 스포츠 애호가 또는 잊을 수 없는 밤을 보내고 싶은 사람들은 이 쇼다운을 놓치지 마십시오. 링은 Rage Fight Academy에서 여러분을 기다립니다. 순수한 열정의 밤을 함께하세요! 🥊🔥 최신 업데이트, 티켓 정보 및 자세한 내용은 Rage Fight Academy의 공식 채널을 확인하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야에서 열리는 무에타이 경기 정보는 여행객에게 흥미로운 경험을 제공할 수 있으며, 발렌타인데이 특별 이벤트로 소개되어 정보 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2026-02-14",
+        "location": "Rage Fight Academy, Soi Thappraya 15, Jomtien, Pattaya",
+        "price": "정보 없음",
+        "location_google_map_query": "Rage Fight Academy Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Gears Up for Explosive Muay Thai Showdown on Valentines Day At Rage Fight Academy With Rage Fight Night!",
+          "url": "https://thepattayanews.com/2026/02/13/pattaya-gears-up-for-explosive-muay-thai-showdown-on-valentines-day-at-rage-fight-academy-with-rage-fight-night/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770942685895.jpg?v=1770943216"
+        }
+      ],
+      "collected_at": "08:22",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770942685895.jpg?v=1770943216",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "동남아시아 2위 경제 대국, 외국인 관광객 10.7% 감소 - VnExpress International",
+      "summary": "- 베트남 VnExpress International에 따르면 동남아시아 2위 경제 대국인 태국의 외국인 관광객이 10.7% 감소했습니다.\n- 정확한 감소 원인과 구체적인 데이터는 기사를 통해 확인할 수 있습니다.\n- 관광 산업에 미치는 영향에 대한 추가 분석이 필요합니다.",
+      "full_translated": "동남아시아 2위 경제 대국, 외국인 관광객 10.7% 감소 - VnExpress International",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광객 감소는 태국 여행 전반에 걸쳐 잠재적인 영향이 있을 수 있으며, 여행 관련 예산 및 계획에 영향을 미칠 수 있습니다. 다만, 구체적인 데이터와 원인 분석이 필요하여 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Southeast Asia's 2nd largest economy sees foreign arrivals down 10.7% - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORFlONy1fM21VeHpKYzNaVlo1ZWJsWHg3dHBWbHN3RlNqcVBqc05RUjlCSTcwRS1KT1VBM0JDY1pXUlBhYWdIM2V2UjhNU3VfWWZ5Z0duNnpKQTM1Q3NwMks5Q0tRTXl2MXVJZnhfLTd5Ri0taE1GVHNPMnVPUVVWSjU0UHdpamZBY3dYdm9EYklpY1FxMTNFdlRhR1RjdktXTDFqZTFWVE9jaFVHZ2NEYU5SdGVOZHox?oc=5",
+          "source": "VnExpress International",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-13"
     }
   ]
