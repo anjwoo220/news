@@ -8327,14 +8327,9 @@
       "summary": "- 탄 파사콘나티, 64에이커 규모의 야외 공연장 '원 치찬' 개장\n- 방콕의 이벤트 집중 문제 해결, 교통, 보안, 편의 시설 완비\n- 2026년 2월 14~15일 개장 기념 '원더 원 뮤직 페스티벌' 개최",
       "full_translated": "탄 파사콘나티는 파타야 근처 카오 치 찬에 태국의 새로운 축제 목적지인 '원 치찬'을 론칭했습니다.\n\n약 64에이커에 달하는 원 치찬은 2,500명에서 30,000명까지 수용할 수 있는 확장 가능한 야외 공연장으로 설계되었습니다. 이 부지는 방콕에 집중된 이벤트(주요 축제의 90% 이상이 개최됨)가 직면한 일반적인 문제를 극복하기 위한 포괄적인 인프라를 갖추고 있습니다. 주요 시설로는 효율적인 교통 관리, 보안 시스템, 200개 이상의 화장실, 4,000대 이상의 차량을 수용할 수 있는 주차장이 있습니다. 이 위치는 방콕에서 약 2시간, U-Tapao 공항에서 20분, 파타야 중심부에서 30분 거리에 있어 접근성이 뛰어납니다. 레스토랑, 카페, 5개의 호텔, 인공 해변, 지속 가능성을 약속하는 폐쇄 루프 폐기물 관리 시스템을 포함하여 전체적인 목적지로서의 매력을 높이는 추가 편의 시설이 있습니다.\n\n공식 개장을 기념하고 장소의 모든 기능을 테스트하기 위해 개장 기념 행사인 '원더 원 뮤직 페스티벌'이 2026년 2월 14~15일 양일간 개최됩니다. 이 축제에는 무대에서 공연하는 유명 태국 아티스트가 출연하여 국제적인 공연을 주최하기 전에 이 장소의 잠재력을 경험하기 위해 군중을 끌어들입니다.\n\n이 프로젝트의 원동력인 탄 파사콘나티는 원 치찬이 향후 5년 이내에 본격적인 '이벤트 도시'로 발전할 것이라고 예상합니다. 그는 이곳을 자연의 아름다움과 세계적 수준의 엔터테인먼트가 조화를 이루는 프리미엄 주요 허브인 '파타야의 통로', '해변가의 카오 야이'라고 설명합니다. 이 개발은 환경 친화적인 노력으로 지역 사회의 지지를 받았습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "새로운 대형 축제 개최 정보는 여행객에게 유용하며, 위치, 날짜, 편의시설 정보를 제공하므로 높은 점수 부여",
-      "event_info": {
-        "date": "2026-02-14",
-        "location": "Khao Chi Chan, Pattaya",
-        "price": "미정",
-        "location_google_map_query": "Khao Chi Chan, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-14', 'location': 'Khao Chi Chan, Pattaya', 'price': '미정', 'location_google_map_query': 'Khao Chi Chan, Pattaya'}",
       "references": [
         {
           "title": "Tan Phasakornnatee Launches One Chichan as Thailands New Festival Destination in Khao Chi Chan Near Pattaya",
@@ -8343,23 +8338,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710015505728505682314485639826.jpg?v=1771001804"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710015505728505682314485639826.jpg?v=1771001804",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/13/tan-phasakornnatee-launches-one-chichan-as-thailands-new-festival-destination-in-khao-chi-chan-near-pattaya/",
+      "source": ""
     },
     {
       "title": "좀티엔 해변에서 대형 비단뱀 출현에 관광객 공포",
       "summary": "- 2026년 2월 13일 좀티엔 해변에서 대형 비단뱀이 발견됨.\n- 해변에서 휴식을 취하던 관광객들이 뱀을 발견하고 혼비백산하여 대피함.\n- 구조대가 출동하여 뱀을 포획, 인적이 드문 자연 서식지로 돌려보냄.",
       "full_translated": "2026년 2월 13일 오전 늦게 좀티엔 해변에서 큰 소동이 벌어졌습니다. 인기 있는 수영 구역 근처 무 12 해안선에서 관광객들이 물놀이를 즐기던 중 갑자기 해수면 위로 떠오르는 이상한 물체를 발견하고, 약 2미터 길이의 큰 비단뱀이 해변으로 헤엄쳐 오는 것을 알아챘습니다. 충격을 받은 구경꾼들은 재빨리 바다에서 뛰쳐나왔고, 일부는 근처의 구조대원과 당국에 알렸습니다. 한 목격자는 파타야 뉴스에 다음과 같이 말했습니다. 평소처럼 물놀이를 즐기던 중 무언가 떠오르는 것을 발견하고 큰 뱀이 해안으로 향하는 것을 알아차렸습니다. 그 광경에 근처 수영객들은 공포에 질려 도망쳤고, 몇몇은 즉시 관계자에게 알렸습니다. 신고를 받고 좀티엔 해변에 배치된 구조대원과 파타야 시 공무원들이 현장에 도착하여 상황을 평가했습니다. 특수 장비를 사용하여 팀은 사고 없이 조심스럽게 비단뱀을 포획했습니다. 뱀은 안전하게 제압된 후 해변 방문객과 동물 모두의 안전을 위해 인적이 드문 자연 서식지로 돌려보내졌습니다. 버마 비단뱀(현지에서는 \"ngu lueam\"으로 알려짐)은 태국의 습지, 숲, 운하에서 흔히 발견되는 독이 없는 교살뱀입니다. 그들은 수영을 잘하고 때때로 해안가로 들어오기도 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해변에서 뱀 출현은 관광객 안전에 영향을 줄 수 있으므로 해당 정보를 제공함. 인명 피해는 없었으나 주의가 필요.",
-      "event_info": {
-        "date": "2026-02-13",
-        "location": "좀티엔 해변",
-        "price": null,
-        "location_google_map_query": "Jomtien Beach"
-      },
+      "event_info": "{'date': '2026-02-13', 'location': '좀티엔 해변', 'price': None, 'location_google_map_query': 'Jomtien Beach'}",
       "references": [
         {
           "title": "Tourists Panic as Large Python Emerges from the Sea at Jomtien Beach",
@@ -8368,23 +8360,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17709761807994682029627278357098.jpg?v=1770976333"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17709761807994682029627278357098.jpg?v=1770976333",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/13/tourists-panic-as-large-python-emerges-from-the-sea-at-jomtien-beach/",
+      "source": ""
     },
     {
       "title": "파타야, 좀티엔 해변에서 2026 국제 비치 풋볼 컵 개최",
       "summary": "- 파타야에서 2026년 2월 13일부터 19일까지 국제 비치 풋볼 컵이 개최됩니다.\n- 이 행사에는 태국, 러시아, 일본, 노르웨이, 핀란드, 인도, 독일, 영국 8개국 팀이 참가합니다.\n- 스포츠를 통해 청소년과 주민들의 건전한 여가 활동 참여를 장려하고, 파타야의 스포츠 도시 이미지를 강화하는 것을 목표로 합니다.",
       "full_translated": "파타야시 부시장인 크릿사나 분사와트가 주빈으로 행사를 주재했습니다. 파타야 시의회 부의장, 시의원, 촌부리 지방 행정 기구 대표, 파타야 시의회 의장 비서관, 파타야 피플 미디어 그룹 회장인 Niels Colov 씨가 함께했습니다. 관광 개발 부서장이 행사에 대한 보고서를 전달했습니다. 행사에는 참가국 대표, 관련 공무원, 언론인, 지역 열성팬들이 참석하여 모래 해변에서 멋진 분위기를 연출했습니다. 2026년 2월 13일부터 19일까지 진행되는 이 토너먼트는 스포츠를 통해 청소년과 주민들이 유익한 여가 활동에 참여하도록 장려하고, 비치 풋볼 기술과 경험을 향상시키며, 외국인 거주자, 전문가, 지역 주민 및 시 기관 간의 단결을 발전시키고, 파타야의 이미지를 스포츠 도시이자 스포츠 관광 허브로 홍보하는 것을 목표로 합니다. 또한 더 많은 방문객을 유치하고, 수입을 창출하며, 지역 경제를 활성화하고자 합니다. 올해 에디션에는 태국, 러시아, 일본, 노르웨이, 핀란드, 인도, 독일, 영국 8개국 팀이 참가하는 흥미진진한 국제적 참여가 특징입니다. 이 대회는 남성 아마추어/오픈 부문에서 두 가지 카테고리로 나뉩니다. - 엘리트 카테고리: 4개 팀 - 소셜 카테고리: 6개 팀 각 카테고리 우승자에게는 권위 있는 트로피와 상금이 수여됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 열리는 국제 스포츠 행사 정보 제공. 여행객들에게 흥미로운 볼거리가 될 수 있으며, 숙박 시설과 교통에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": "2026-02-13",
-        "location": "좀티엔 해변, 파타야",
-        "price": "미정",
-        "location_google_map_query": "Jomtien Beach, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-13', 'location': '좀티엔 해변, 파타야', 'price': '미정', 'location_google_map_query': 'Jomtien Beach, Pattaya'}",
       "references": [
         {
           "title": "Pattaya Kicks Off International Beach Football Cup 2026 on Jomtien Beach",
@@ -8393,23 +8382,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img202602131805172524485237184241453.jpg?v=1770994996"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img202602131805172524485237184241453.jpg?v=1770994996",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/13/pattaya-kicks-off-international-beach-football-cup-2026-on-jomtien-beach/",
+      "source": ""
     },
     {
       "title": "프아타이당, 품차이타이당 주도 정부 구성 지지 발표",
       "summary": "- 프아타이당이 품차이타이당 본부에서 열린 회의 후 지지 발표.\n- 품차이타이당은 하원에서 약 193석을 확보하여 가장 큰 정당이 됨.\n- 프아타이당은 품차이타이당의 총리 후보를 지지하며, 정권 안정을 위한 협력 강조.",
       "full_translated": "프아타이당은 품차이타이당이 주도하는 정부 구성을 지지한다고 발표했습니다. 이번 발표는 품차이타이당 본부에서 오후 3시 35분경에 열린 주요 회의 후에 나왔습니다. 아누틴 찬비라쿨 품차이타이당 대표 겸 총리는 프아타이당의 총리 후보인 욧사난 웡사-사왓과 수리야 정룽레앙킷 선거 국장, 품탐 웨차야차이 지도자, 프라서트 잔타루앙통 사무총장을 포함한 고위 당 인사들을 만났습니다. 논의는 안정적인 행정부를 수립하고 국익을 증진하기 위한 협력에 초점을 맞췄습니다. 최근 여론 조사에서 품차이타이당은 500석의 하원에서 약 193석을 확보하여 가장 큰 정당으로 자리매김했으며, 프아타이당은 약 74석으로 3위를 차지했습니다. 개혁 성향의 인민당은 2위를 차지했지만 정부에 참여하지 않고 야당이 될 것이라고 밝혔습니다. 회담 후 아누틴 대표와 프라서트 대표는 함께 언론에 연설했습니다. 프라서트 대표는 프아타이당이 품차이타이당을 새로운 정부 구성의 핵심으로 지지할 준비가 되어 있으며, 품차이타이당의 선거 성공을 축하하고 정치적 공백을 막아야 한다고 강조했습니다. 아누틴 대표는 이번 회의를 영광으로 생각하며, 선거 결과에 따라 양당이 프아타이당이 품차이타이당을 핵심 연립 리더로 지지하기로 합의했다고 밝혔습니다. 그는 정치에서 흔히 발생하는 과거의 오해와 갈등은 극복되어야 한다고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정부 구성 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Pheu Thai Party Announces Support for Bhumjaithai-Led Government Formation",
@@ -8418,23 +8404,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770974794855.jpg?v=1770975067"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1770974794855.jpg?v=1770975067",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/13/pheu-thai-party-announces-support-for-bhumjaithai-led-government-formation/",
+      "source": ""
     },
     {
       "title": "방글라데시 BNP, 총선에서 압승…셰이크 하시나 정권 축출",
       "summary": "- 방글라데시 민족주의당(BNP)이 총선에서 압승을 거두며 셰이크 하시나 전 총리의 권력을 축출했습니다.\n- BNP는 총 209석을 확보하여 과반수를 넘어섰으며, 이번 주 내로 정부를 구성할 예정입니다.\n- BNP의 지도자인 타릭 라흐만이 새로운 총리로 임명될 예정입니다.",
       "full_translated": "방글라데시 민족주의당(BNP)이 셰이크 하시나 전 총리의 권력을 축출한 후 처음으로 실시된 총선에서 압승을 거두었습니다. BNP는 총 209석을 확보하여 하원에서 과반수를 넘어섰으며, 이번 주 내로 정부를 구성할 수 있게 되었습니다. 당 지도부에 따르면 이번 주 일요일까지 정부를 구성할 것으로 예상됩니다. 칼레다 지아 전 총리의 아들인 60세의 타릭 라흐만 당 대표가 새로운 총리직을 맡을 예정입니다. 그는 망명 생활을 마치고 지난 12월 방글라데시로 귀국했습니다. 자마아트-에-이슬라미당은 68석을 차지하여 역대 최고 성적을 거두었습니다. 선거위원회는 아직 공식 결과를 발표하지 않았으며, 투표율은 1억 2,700만 명 이상의 유권자 중 거의 60%에 달했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "방글라데시 정치 상황 변화는 태국 여행 자체에 직접적인 영향은 없으나, 국제 정세에 대한 정보 제공 차원에서 포함. 여행객 안전에 직접적인 위협은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฺBNP พรรคชาตินิยมบังกลาเทศ ประกาศชัยชนะถล่มทลาย เลือกตั้งทั่วไปครั้งแรกหลังโค่นรัฐบาลชีค ฮาซีนา",
@@ -8443,8 +8426,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9fH9fNCeQ8CJ8.jpg"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9fH9fNCeQ8CJ8.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/foreign/2914143",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변에서 노숙하는 트랜스젠더 여성의 마약 사용에 대한 우려 증가",
+      "summary": "- 파타야 워킹 스트리트 근처 해변에서 트랜스젠더 여성이 메스암페타민을 사용하는 모습이 목격됨.\n- 주민은 경찰의 조치를 촉구하며, 관광객들에게 부정적인 영향을 미칠 것을 우려.\n- 해당 여성은 약물 사용을 인정하고 해변에서 발견됨.",
+      "full_translated": "파타야 - 사건은 2026년 2월 12일 오전 12시 10분경 파타야 워킹 스트리트 입구에서 100미터 이내에서 발생했습니다. 이 위치는 해변을 따라 주요 관광 명소이며, 늦은 밤에도 많은 태국인과 외국인 방문객을 끌어들입니다. 우려하는 지역 주민인 33세의 오토바이 택시 운전사 Natthawut Phonyiam 씨는 이러한 행동을 반복적으로 목격한 후 영상을 녹화했습니다. 영상에서 트랜스젠더 여성으로 묘사된 개인은 폐수 배수구 근처의 콘크리트 장벽 옆에 앉아 있는 모습이 보입니다. 그녀는 알루미늄 포일과 라이터를 사용하여 크리스탈 메스(현지에서는 \"얼음\"으로 알려짐)를 가열하고 흡입했으며, 지나가는 사람이나 개입하려는 시도에도 전혀 개의치 않는 것처럼 보였습니다. 클립을 받은 후 기자들은 현장을 방문하여 장벽 근처에서 흔히 약물 도구로 사용되는 버려진 흰색 플라스틱 빨대와 약물 잔여물을 발견했습니다. 관광객들은 당시에도 그 지역을 걸어 다니고 있었습니다. Natthawut 씨는 나중에 기자들을 \"농팜\"이라는 별명을 가진 26세의 여성에게 안내했습니다. 그녀는 흐트러진 옷을 입고 해변에 누워 혼잣말을 하고 있었고, 약물 중독과 일치하는 예측 불가능한 행동을 포함하여 약물에 취한 징후를 보였습니다. 영상에 대해 질문을 받았을 때 농팜은 \"야바\"(메스암페타민 알약)가 아닌 크리스탈 메스를 사용했다고 인정했으며, 해변을 따라 인근 소이 13에서 신원 미상의 사람으로부터 100바트에 구입했다고 말했습니다. 그녀는 아무렇지도 않게 그 아모",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변에서 벌어지는 마약 관련 사건으로, 관광객 안전과 이미지에 부정적인 영향을 줄 수 있으므로 여행 주의가 필요함. 특히 관광객이 많이 찾는 지역에서 발생하여 잠재적 위험을 알릴 필요가 있음.",
+      "event_info": {
+        "date": "2026-02-12",
+        "location": "파타야 워킹 스트리트 근처 해변",
+        "price": "100 바트 (마약 구매 가격)",
+        "location_google_map_query": "Pattaya Walking Street"
+      },
+      "references": [
+        {
+          "title": "Concerned Citizens Urge Pattaya Police to Take Further Action on Homeless Transgender Woman Openly Using Methamphetamine on Pattaya Beach",
+          "url": "https://thepattayanews.com/2026/02/13/concerned-citizens-urge-pattaya-police-to-take-further-action-on-homeless-transgender-woman-openly-using-methamphetamine-on-pattaya-beach/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17709725660966572050546693469109.jpg?v=1770972699"
+        }
+      ],
+      "collected_at": "01:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17709725660966572050546693469109.jpg?v=1770972699",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "파타야, 공사 중인 미용 클리닉에서 10만 바트 이상의 피해 발생",
+      "summary": "- 파타야 클랑 로드에 위치한 미용 클리닉 공사 현장에서 도난 및 파손 사건 발생.\n- CCTV에 용의자가 포착되었으며, 에어컨 및 전기 배선이 훼손되어 10만 바트 이상의 손실 발생.\n- 경찰은 용의자를 추적 중이며, 지역 주민들에게 주의를 당부.",
+      "full_translated": "2026년 2월 11일, The Pattaya News 기자들은 페이스북에 올라온 도난 및 파손 사건에 대한 게시글을 확인하고 현장을 방문했습니다. 파타야 클랑 로드 9번지에 위치한 3층 건물은 현재 미용 클리닉으로 개조 중입니다. 조사 결과 건물 전체에 심각한 손상이 있었습니다. 전기 배선은 뜯겨져 흩어져 있었고, 1층과 위층에 있는 새 에어컨 실외기는 강제로 열려 구리 코일과 배선이 모두 제거되었습니다. 총 손실액은 10만 바트가 넘는 것으로 추정됩니다. 곧 클리닉을 개업할 예정인 31세의 니(가명) 씨는 사건에 대한 자세한 내용을 설명했습니다. 그녀는 내부 공사를 위해 낮에는 계약자들이 공사를 진행하지만, 작업자들이 퇴근하면 밤에는 비어 있는 채로 잠겨 있다고 설명했습니다. 첫 번째 도난 사건은 2월 7일 오후 5시 44분경에 발생했는데, CCTV에는 용의자가 건물 뒤쪽에서 몰래 들어오는 모습이 포착되었습니다. 그는 에어컨 실외기의 구리를 뜯어갔습니다. 이틀 후인 2월 10일 오후 11시경, 동일 인물이 대담하게 다시 침입했습니다. 이번에는 건물 자체를 강제로 침입하여 전기 시스템, 추가 에어컨 장치 및 압축기를 체계적으로 해체하여 접근 가능한 모든 구리 배선을 제거했습니다. 담당 경찰은 용의자를 추적하고 있으며, 지역 주민들에게 귀중품을 보관하고 의심스러운 활동을 발견하면 즉시 당국에 신고할 것을 요청했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 발생한 범죄 사건으로, 여행객 안전에 대한 인식을 환기시킬 필요가 있음. 직접적인 위협은 아니지만 주의를 요함.",
+      "event_info": {
+        "date": "2026-02-07",
+        "location": "파타야 클랑 로드",
+        "price": "불명",
+        "location_google_map_query": "Pattaya Klang Road"
+      },
+      "references": [
+        {
+          "title": "Thief Targets Under Renovation Beauty Clinic in Pattaya For Over 100,000 Baht of Damages",
+          "url": "https://thepattayanews.com/2026/02/14/thief-targets-under-renovation-beauty-clinic-in-pattaya-for-over-100000-baht-of-damages/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710069998728008117531606311190.jpg?v=1771007065"
+        }
+      ],
+      "collected_at": "01:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710069998728008117531606311190.jpg?v=1771007065",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "프아타이당, 품차이타이당 주도 연립 정부 구성 지지",
+      "summary": "- 프아타이당이 품차이타이당이 주도하는 새로운 정부 구성을 공식적으로 지지한다고 발표함.\n- 아누틴 찬비라쿨 품차이타이당 대표는 양측이 과거의 차이점을 뒤로하고 협력할 준비가 되었다고 밝힘.\n- 이번 합의로 품차이타이당은 하원에서 과반수를 확보하게 되었으며, 다른 파트너들과의 추가 협력 가능성도 있음.",
+      "full_translated": "프아타이당은 품차이타이당이 연립 정부를 이끌도록 지지합니다.\n\n합의에 따라 품차이타이당은 하원 다수당이 되지만, 더 많은 파트너가 여전히 가능합니다. 2026년 2월 13일 17:37에 게시됨, 2026년 2월 13일 22:27에 업데이트됨\n\n프아타이당은 품차이타이당이 새로운 정부를 구성하는 데 주도적인 역할을 하도록 공식적으로 지지했습니다. 아누틴 찬비라쿨 총리 겸 품차이타이당 대표는 양측이 과거의 차이점을 뒤로하고 함께 나아갈 준비가 되었다고 말했습니다. 프아타이당과의 금요일 합의는 5석을 가진 3개의 소수 정당이 서명한 다음 날 이루어졌으며, 2월 8일 선거의 비공식 결과에 따라 500석의 하원에서 272석으로 품차이타이당이 이끄는 연립 정부가 다수를 차지하게 됩니다.\n\n아누틴 씨는 공식 선거 결과가 아직 발표되지 않았지만 장기간의 정치적 공백을 막기 위해 정부 구성에 대한 논의가 진행 중이라고 말했습니다. 그는 \"선거 결과에 따라 아직 공식적으로 승인되지는 않았지만 너무 오랫동안 공백이 생기는 것을 원하지 않습니다.\"라고 말했습니다. \"우리는 예비 논의를 거쳐 프아타이가 합의된 일정에 따라 품차이타이를 정부 구성의 핵심 정당으로 지지할 의향이 있다는 결론에 도달했습니다.\"라고 그는 말했습니다.\n\n아누틴 씨는 양당이 미래에 집중하고 있으며, 그들의 결합된 유능한 인력이 국가를 안정적이고 유망한 미래로 이끌기에 충분할 것이라고 확신한다고 말했습니다. \"품차이타이와 프아타이는 미래를 내다보고 있습니다.\"라고 그는 말했습니다. \"품질 인력",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정치 상황에 대한 정보 제공. 기존 뉴스에 이미 게시되었지만, 주요 정당의 지지 발표는 여행객에게도 간접적인 영향을 줄 수 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pheu Thai backs Bhumjaithai to lead coalition government",
+          "url": "https://www.bangkokpost.com/thailand/politics/3196673/pheu-thai-backs-bhumjaithai-to-lead-coalition-government",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196673_260213172739_700.jpg"
+        }
+      ],
+      "collected_at": "01:35",
+      "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196673_260213172739_700.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "카오키여우 오픈 동물원, 큰부리새 사랑의 날 행사 개최 및 생물 다양성 보존 프로젝트에 10만 바트 기부",
+      "summary": "- 카오키여우 오픈 동물원은 방짝 시라차와 협력하여 큰부리새 보존 인식 증진 행사 개최\n- 멸종 위기 큰부리새 보호를 위해 10만 바트 기부 및 인공 둥지 제공\n- 기금은 태국 북부 보호 지역에 큰부리새를 재도입하고 생태 및 생물학 연구를 지원하는 데 사용될 예정",
+      "full_translated": "카오키여우 오픈 동물원은 방짝 시라차와 협력하여 2026년 2월 13일 금요일에 큰부리새 보존에 대한 대중의 인식을 높이기 위한 행사를 개최했습니다. 큰부리새는 평생 동안 일부일처제를 유지하며 건강한 숲 생태계의 핵심 지표 역할을 하기 때문에 진실하고 영원한 사랑의 상징으로 여겨집니다. 나롱윗 촛초이 카오키여우 오픈 동물원 원장이 개회식을 주재했습니다. 차이나롱 판콩 보존, 연구 및 동물 건강 책임자는 '생물 다양성을 위한 생물 다양성 보존 미션' 프로젝트 하에 큰부리새 사랑의 날의 중요성과 팀의 노력에 대한 보고서를 발표했습니다. 이 프로젝트는 태국 북부 보호림 지역에 재도입된 큰부리새(태국어로 Nok Ka Hang)의 생태 및 생물학 연구를 직접 지원하여 미래에 지속 가능한 방식으로 야생 개체수를 복원하는 데 필요한 중요한 데이터를 수집합니다. 방짝 시라차를 대표하여 정유 사업 진흥 이사인 농락 차왈쿨 박사는 회사가 보존 활동을 위한 네트워크 지원자로서 동물원과 협력하겠다는 약속에 대해 이야기했습니다. 그녀는 '생물 다양성 보존' 프로젝트와 그 연구 및 보존 목표를 발전시키기 위해 10만 바트의 재정적 기부를 했습니다. 또한 회사는 큰부리새의 자연 서식지에서 번식 기회를 향상시키기 위해 인공 둥지를 기증했습니다. 이 행사에는 또한 동물 이미지가 담긴 30개의 양각 교육 표지판 전달도 포함되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "동물원 행사 정보는 여행객에게 흥미로운 선택지가 될 수 있으며, 특히 가족 여행객에게 유용할 수 있음. 파타야 근교에 위치하여 접근성이 나쁘지 않음.",
+      "event_info": {
+        "date": "2026-02-13",
+        "location": "카오키여우 오픈 동물원",
+        "price": "정보 없음",
+        "location_google_map_query": "Khao Kheow Open Zoo"
+      },
+      "references": [
+        {
+          "title": "Khao Kheow Open Zoo Partners with Bangchak Sriracha for Hornbill Love Day Event, Donates 100,000 Baht to Biodiversity Conservation Project",
+          "url": "https://thepattayanews.com/2026/02/14/khao-kheow-open-zoo-partners-with-bangchak-sriracha-for-hornbill-love-day-event-donates-100000-baht-to-biodiversity-conservation-project/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771006580594997901639273414947.jpg?v=1771006641"
+        }
+      ],
+      "collected_at": "01:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771006580594997901639273414947.jpg?v=1771006641",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "파타야 청소년 집단 싸움, 경찰서에서 사과로 마무리",
+      "summary": "- 온라인 논쟁이 물리적 충돌로 이어진 사건 발생\n- 'Seua Pattaya'의 구인 광고에 대한 불만에서 시작\n- 관련자들이 경찰서에 출두하여 사과하고 사건 경위 진술",
+      "full_translated": "파타야에서 발생한 청소년 집단 싸움이 경찰서에서의 사과로 마무리되었습니다. 이번 싸움은 온라인상의 논쟁이 물리적 충돌로 이어진 사건입니다. 사건의 발단은 'Seua Pattaya'라는 인물이 자신의 페이스북 페이지에 구인 광고를 올린 것에서 시작되었습니다. Mark Hua Lai라는 사람이 메시지를 보냈지만 답장을 받지 못해 불만을 느꼈고, 공개적으로 Tiger를 비판하는 댓글을 남겼습니다. 이에 Tiger는 방어적으로 대응하며 온라인 상에서 격렬한 논쟁과 모욕, 도발이 오갔습니다. 상황은 Mark가 Tiger를 조롱하고 파타야 지역 사람들을 비하하는 도발적인 영상을 올리면서 더욱 악화되었습니다. 결국 온라인에서의 다툼은 직접 만나 싸우는 것으로 이어졌고, 싸움 영상이 널리 퍼지면서 파타야 지역 사회에서 비판을 받았습니다. 2월 13일 오후 5시 6분경, Seua Kittisak, Kik Phanu Wat, Ball Chantamat 씨는 파타야 시 경찰서 조사팀에 출두하여 자신들의 입장을 밝혔습니다. 그들은 Mark가 처음에 Seua에게 구인 광고에 대해 연락했지만 무시당했고, 이에 분노한 댓글을 남겼다고 설명했습니다. 온라인상의 다툼은 상호 모욕과 도발로 이어졌습니다. 당사자들이 약속 장소에서 만났을 때, Mark는 약 10명의 사람들과 함께 왔고, Seua의 그룹은 3명에 불과했습니다. 양측은 '남자답게' 일대일 주먹다짐으로 문제를 해결하기로 합의했습니다. 그러나 싸움 도중 Mark의 동생이 형이 맞는 모습을 참지 못하고...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야 지역에서 발생한 청소년 간의 싸움 사건으로, 여행객 안전에 직접적인 위협은 아니지만, 파타야 지역 사회의 분위기를 간접적으로 보여줄 수 있으므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2024-02-13",
+        "location": "파타야 시 경찰서",
+        "price": null,
+        "location_google_map_query": "Pattaya City Police Station"
+      },
+      "references": [
+        {
+          "title": "Viral Fight Between Group of Pattaya Youths Leads to Apologies at Police Station",
+          "url": "https://thepattayanews.com/2026/02/14/viral-fight-between-group-of-pattaya-youths-leads-to-apologies-at-police-station/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_005715813386683355129651.jpg?v=1771005496"
+        }
+      ],
+      "collected_at": "01:35",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_005715813386683355129651.jpg?v=1771005496",
       "date": "2026-02-14"
     }
   ]
