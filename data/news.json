@@ -7709,14 +7709,9 @@
       "summary": "- 온라인 사기 연루 의혹을 받는 중국 국적자 16명이 태국-캄보디아 국경에서 체포됨.\n- 이들은 여권이나 유효한 입국 서류 없이 불법으로 태국에 입국하려 한 혐의를 받음.\n- 경찰은 이들이 소지한 266대의 휴대폰과 노트북을 압수했으며, 이들은 캄보디아에서 온라인 사기 운영 관리자로 일했다고 진술함.",
       "full_translated": "사깨오 – 온라인 사기 작전과 관련된 혐의를 받는 중국 국적자 16명이 아란야프라텟 지역 국경에서 체포되었으며, 캄보디아에서 불법으로 태국에 입국한 후 휴대폰 266대와 노트북 컴퓨터 1대가 압수되었습니다.\n\n부라파 태스크 포스 부사령관인 반차 찬찰라르 대령은 금요일 새벽 클롱핫 특별 태스크 부대와 레인저 중대 1305의 군인들에게 임박한 불법 국경 통과에 대한 정보 보고에 따라 태국-캄보디아 국경 지역을 따라 합동 순찰하도록 명령했습니다.\n\n아란야프라텟 지역 탑프릭 구역 7번 무 클롱와마이 마을 지역을 순찰하던 중 경찰관들은 짐을 들고 국경에서 약 1.1km 떨어진 태국 영토로 향하는 자연 국경 통로를 통해 숲을 헤쳐 나가는 대규모 그룹을 발견했습니다. 순찰대원들은 신분을 밝히고 수색을 실시했습니다. 여권이나 유효한 입국 서류가 없는 중국 국적자 16명(남성 15명, 여성 1명)이 체포되었습니다. 그들의 소지품을 수색한 결과 266대의 휴대폰과 노트북 1대가 짐 속에 숨겨져 있었습니다. 아무도 장치의 소유권을 인정하지 않았습니다. 통역사를 통해 심문하는 동안 이 그룹은 캄보디아 포이펫에서 온라인 사기 운영 관리자로 일했다고 당국에 밝혔습니다. 그들은 중국인 고용주가 자신들의 의지에 반하여 제3국에서 일하도록 보내려고 시도했다고 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "국경 지역에서 외국인 범죄 관련 사건 발생. 여행객 안전에 대한 간접적인 영향이 있을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Aranyaprathet district, Sa Kaeo",
-        "price": null,
-        "location_google_map_query": "Aranyaprathet district, Sa Kaeo"
-      },
+      "event_info": "{'date': None, 'location': 'Aranyaprathet district, Sa Kaeo', 'price': None, 'location_google_map_query': 'Aranyaprathet district, Sa Kaeo'}",
       "references": [
         {
           "title": "16 Chinese arrested after illegally crossing into Thailand",
@@ -7727,21 +7722,18 @@
       ],
       "collected_at": "18:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196533_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/general/3196533/16-chinese-arrested-after-illegally-crossing-into-thailand",
+      "source": ""
     },
     {
       "title": "태국 상무부, 춘절 대비 제수용품 가격 집중 단속 및 금은방 저울 검사 실시",
       "summary": "- 태국 상무부가 춘절을 맞아 제수용품 가격을 집중 단속하고 금은방의 저울 정확도를 검사합니다.\n- 올해 춘절은 2월 17일이며, 제수용품 가격은 전반적으로 작년보다 하락했습니다.\n- 돼지고기, 계란 등 주요 품목 가격이 하락했으며, 상품 공급량은 충분합니다.",
       "full_translated": "태국 상무부 차관은 2069년 2월 13일, 얫차이나타운 지역에서 춘절을 맞아 상품 가격 표시와 금은방 저울의 정확성을 검사했습니다. 조사 결과, 대부분의 상품 가격이 전년 대비 하락했으며 상품 공급량은 충분한 것으로 나타났습니다. 법규 위반 시 엄중한 처벌이 있을 것입니다.\n\n상무부 차관 얀희 스리마니는 오늘 얫차이나타운 지역에서 춘절을 맞아 공정한 거래를 감독하기 위해 현장 점검을 실시했다고 밝혔습니다. 사업자가 상품 가격을 정확하고 명확하게 표시하는지, 그리고 금은방 저울이 상무부의 인증을 받았는지 확인하여 소비자의 권리를 보호하고 부당 이익을 취하는 행위를 방지하는 데 중점을 두었습니다.\n\n얀희 차관은 2069년 춘절은 2월 17일이며, 중국계 태국인들이 조상에게 제사를 지내기 위해 재료를 구매하는 시기라고 언급했습니다. 이에 상무부는 담당자에게 얫차이나타운, 잉짜른 시장, 월드마켓, 방쿤스리 시장, 민부리 시장, 옫피만 시장 등 주요 상업 지역에서 소비재 가격 상황을 면밀히 모니터링하고, 가격 표시, 저울 검사, 상품 사재기 및 폭리 행위를 단속하도록 지시했습니다.\n\n2069년 춘절 기간 상품 가격 상황을 조사한 결과, 전반적으로 제수용품의 평균 가격은 전년 대비 하락한 것으로 나타났습니다. 특히 돼지고기는 킬로그램당 120–180바트로, 작년의 115–220바트보다 낮아졌고, 3번 계란은 10개당 37–45바트로, 작년의 40–54바트보다 낮아졌습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "춘절 기간 물가 정보는 여행자에게 유용할 수 있으며, 특히 차이나타운 방문 시 참고할 만함. 다만, 필수적인 정보는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2069-02-17",
-        "location": "เยาวราช (Yaowarat, China Town)",
-        "price": "Variable",
-        "location_google_map_query": "Yaowarat Bangkok"
-      },
+      "event_info": "{'date': '2069-02-17', 'location': 'เยาวราช (Yaowarat, China Town)', 'price': 'Variable', 'location_google_map_query': 'Yaowarat Bangkok'}",
       "references": [
         {
           "title": "\"พาณิชย์\" คุมเข้มราคาสินค้าของไหว้ ลุยตรวจเครื่องชั่งร้านทอง ช่วงเทศกาลตรุษจีน 2569",
@@ -7752,21 +7744,18 @@
       ],
       "collected_at": "18:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIAWhxMckHAbAja.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2914098",
+      "source": ""
     },
     {
       "title": "찬타부리 선거구, 투표 부정 의혹에 시위대 재검표 요구",
       "summary": "- 찬타부리 선거관리위원회 앞에서 시위대가 투표함 재검표 요구 시위.\n- 부정선거 의혹 6가지 제기, 선관위는 13일 결과 발표 예정.\n- 시위대는 요구 사항 불이행 시 플래시몹 시위 예고.",
       "full_translated": "찬타부리에서 선거 부정 의혹이 제기되어 시위대가 재검표를 요구하며 선거관리위원회 앞에서 시위를 벌였습니다. 시위대는 투표함의 진실을 밝히기 위해 개봉을 요구하며, 요구가 받아들여지지 않을 경우 플래시몹 시위를 예고했습니다. 찬타부리 선거관리위원회는 절차에 따라 진행되었으며 2069년 2월 13일에 3개 선거구 결과를 발표할 예정이라고 밝혔습니다. 시위대는 투표용지 수정, 투표함 봉인 미비, Cable Tie 절단 등 6가지 부정선거 의혹을 제기했습니다. 특히 선거구 1의 경우 ECT 보고서, 행정부, 쏘.쏘. 2/6(1) 등 3가지 출처의 투표자 수가 일치하지 않는다고 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "선거 관련 시위가 여행에 직접적인 위협은 아니지만, 혼란을 야기할 수 있어 정보 제공. 선거 결과 발표일에 추가적인 시위 가능성 존재.",
-      "event_info": {
-        "date": null,
-        "location": "찬타부리 선거관리위원회",
-        "price": null,
-        "location_google_map_query": "찬타부리 선거관리위원회"
-      },
+      "event_info": "{'date': None, 'location': '찬타부리 선거관리위원회', 'price': None, 'location_google_map_query': '찬타부리 선거관리위원회'}",
       "references": [
         {
           "title": "มวลชนขู่แฟลชม็อบ จี้ กกต.จันทบุรี นับคะแนนใหม่ หลังพบพิรุธบัตรเลือกตั้ง",
@@ -7777,21 +7766,18 @@
       ],
       "collected_at": "18:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIAWh1fARDvTvWb.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/politic/2914099",
+      "source": ""
     },
     {
       "title": "방콕 발렌타인데이 행사: 커플들을 위한 특별한 이벤트",
       "summary": "- 방콕시에서 발렌타인데이를 맞아 다양한 행사를 개최합니다.\n- 짜뚜짝, 두싯, 딘댕 등 여러 지역에서 특별 이벤트와 경품 행사가 진행됩니다.\n- 커플들은 결혼 증명서, 금, 호텔 상품권 등 다양한 상품을 받을 기회를 얻을 수 있습니다.",
       "full_translated": "방콕 수도청(BMA)은 올해 발렌타인데이를 기념하기 위해 다양한 행사를 제공하며, 커플에게는 황금 결혼 증명서를 받을 기회도 제공한다고 나롱 르앙스리 BMA 사무차장이 밝혔습니다. \n\n짜뚜짝 지역은 크룽텝 아피왓 중앙역의 레드 라인 열차에서 커플들의 결혼 등록을 장려하는 메인 행사 \"Love in the Sky 2026\"을 개최합니다. 참여 커플은 황금 결혼 증명서, 10,000바트 상당의 금, 호텔 상품권, 가전 제품, 신혼여행 여행자 보험 등의 상품을 받을 수 있습니다. \n\n두싯 지역의 \"Destiny of Love\" 행사는 오랜 로맨스를 상징하는 역사적인 장소인 Suan Sunandha Rajabhat University의 Sai Suddha Nobhadol Building에서 열립니다. 딘댕 지역은 \"Eternal Love @ Din Daeng\" 행사를 위해 The Street Ratchada 몰과 협력하여 경품 행사를 진행합니다. \n\n삼판타웡 지역은 상하이 맨션 호텔에서 \"Shanghai, The Signature of Love\"를 개최하며, 20커플로 제한됩니다. 금, 전통 중국 차 행사, 고급 숙박, 웨딩 할인 등의 상품을 받을 수 있는 기회가 제공됩니다. 폼프랍 삿트루파이 지역은 프린스 팔레스 호텔과 협력하여 무료 등록 및 고급 경품 추첨을 제공하는 축제를 개최합니다. 방락 지역은 Jewelry Trade Center에서 \"Rak (Love) @ Bangrak\"을 개최하며, 12개의 황금 결혼 증명서와 스폰서 상품을 제공합니다. 파툼완 지역은 '이브",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "발렌타인데이 맞아 방콕 내 다양한 지역에서 특별 이벤트 진행. 여행 중인 커플에게 데이트 장소 정보 제공.",
-      "event_info": {
-        "date": "2026-02-14",
-        "location": "방콕 내 여러 지역 (짜뚜짝, 두싯, 딘댕, 삼판타웡, 폼프랍 삿트루파이, 방락, 파툼완)",
-        "price": "정보 없음",
-        "location_google_map_query": "방콕 짜뚜짝, 방콕 두싯, 방콕 딘댕, 방콕 삼판타웡, 방콕 폼프랍 삿트루파이, 방콕 방락, 방콕 파툼완"
-      },
+      "event_info": "{'date': '2026-02-14', 'location': '방콕 내 여러 지역 (짜뚜짝, 두싯, 딘댕, 삼판타웡, 폼프랍 삿트루파이, 방락, 파툼완)', 'price': '정보 없음', 'location_google_map_query': '방콕 짜뚜짝, 방콕 두싯, 방콕 딘댕, 방콕 삼판타웡, 방콕 폼프랍 삿트루파이, 방콕 방락, 방콕 파툼완'}",
       "references": [
         {
           "title": "Couples wanted at city events",
@@ -7802,21 +7788,18 @@
       ],
       "collected_at": "18:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_3196070_260213120227_700.jpg",
-      "date": "2026-02-13"
+      "date": "2026-02-13",
+      "link": "https://www.bangkokpost.com/thailand/general/3196070/couples-wanted-at-city-events",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 투표 집계 오류 해명: 개표 요원의 데이터 입력 실수",
       "summary": "- 선거관리위원회(กกต.)는 투표 결과 불일치 문제에 대해 개표 요원의 데이터 입력 오류라고 해명함. -> 선거관리위원회(꼬꼬떠)는 투표 결과 불일치 문제에 대해 개표 요원의 데이터 입력 오류라고 해명함.\n- ECT Report 시스템의 부정확한 데이터는 개표소의 최종 결과 보고서(สส.5/18)를 기반으로 함. -> ECT Report 시스템의 부정확한 데이터는 개표소의 최종 결과 보고서(쏘쏘. 오/십팔)를 기반으로 함.\n- 오류 수정 및 검증은 지역 득표 센터에서 담당하며, 웹사이트의 데이터 변동은 이러한 과정에서 발생함.",
       "full_translated": "선거관리위원회(กตต.)는 ECT Report에 나타난 투표 결과 불일치 문제에 대해 개표 요원의 데이터 입력 오류라고 해명했습니다. 이는 각 투표소의 최종 결과 보고서(สส.5/18)를 기반으로 데이터를 입력하는 과정에서 발생한 실수입니다. 지역 득표 센터는 오류 수정 및 검증을 담당하며, 웹사이트에 나타나는 데이터 변동은 이러한 과정에서 발생합니다. 촌부리 1구역의 투표 집계는 완료된 것으로 간주됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 결과에 대한 잠재적 혼란을 야기할 수 있지만, 여행객에게 직접적인 위협은 아님. 선거 관련 정보에 대한 관심도를 고려하여 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. แจงปมบัตรเขย่ง คะแนนรวมผู้สมัครกับคะแนนผู้ใช้สิทธิ ไม่เท่ากัน กปน. คีย์ข้อมูลผิดพลาด",
@@ -7827,6 +7810,83 @@
       ],
       "collected_at": "18:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIASHuH5gXtcmZ4.jpg",
+      "date": "2026-02-13",
+      "link": "https://www.thairath.co.th/news/politic/2914057",
+      "source": ""
+    },
+    {
+      "title": "돈므앙 공항, 택시-Grab-CABB 서비스 구역 분리 및 질서 강화 (3월부터)",
+      "summary": "- 3월 1일부터 돈므앙 공항에서 택시, Grab 등 대중교통 서비스 구역을 분리하여 관리 강화\n- 미등록 차량 및 부당 요금 징수 방지, 승객 안전 확보 목적\n- 택시, CABB, Grab 승차 위치 지정. 국제선/국내선 터미널 위치 확인 필요",
+      "full_translated": "3월 1일부터 돈므앙 공항(톳모.)은 공항 내 무허가 대중교통 차량에 대한 통제 및 감독 조치를 강화합니다. 이는 승객의 안전 위험을 예방하고 질서를 유지하기 위함입니다. 왜 질서를 강화해야 할까요? 사기꾼을 방지하고 승객을 속이는 행위를 근절하기 위함입니다.\n\n모든 차량은 등록되어 있고 운전자의 이력이 있으며 안전 기준을 준수합니다. 이를 통해 혼잡을 줄이고, 승객터미널 앞 교통 흐름을 원활하게 하며, 부당 요금 징수나 승객 거부가 없도록 보장합니다. 이는 1979년 태국 공항법에 따른 것입니다.\n\n승객의 편의와 안전을 위해 지정된 장소에서 대중교통 서비스를 이용하시기 바랍니다.\n\n1. 택시(TAXI):\n   - 국제선 터미널 1층 (8번 게이트)\n   - 7층 주차 빌딩 1층 (2번 터미널 옆)\n2. CABB TAXI 및 EV TAXI:\n   - 국제선 터미널 1층 (7번 게이트) 서비스 카운터\n3. GRAB CAR (개인 차량):\n   - 국내선 터미널 1층 (12번 게이트) 서비스 카운터\n   - 국제선 터미널 1층 (3-4번 게이트) 승차장 1\n   - 국내선 터미널 1층 (11-14번 게이트) 승차장 2",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "공항 이용 관련 중요한 정보이며, 여행자에게 직접적인 영향을 미치므로 높은 점수 부여. 특히 택시/Grab 승차 위치 변경은 혼란을 야기할 수 있으므로 업데이트 필요.",
+      "event_info": {
+        "date": "2024-03-01",
+        "location": "돈므앙 국제공항",
+        "price": "택시 요금은 미터기에 따름",
+        "location_google_map_query": "Don Mueang International Airport"
+      },
+      "references": [
+        {
+          "title": "สนามบินดอนเมือง เข้มจัดระเบียบรถรับจ้างสาธารณะ แยกจุดบริการ Taxi-Grab-CABB เริ่ม มี.ค. นี้",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2914110",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dbpfrTNASZ5R.jpg"
+        }
+      ],
+      "collected_at": "19:38",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dbpfrTNASZ5R.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "경찰, 100kg 마약 및 현금 강탈 사건 관련 5명 체포 영장 발부",
+      "summary": "- 파툼타니 지방 법원이 마약 및 현금 강탈 사건 관련자 5명에 대한 체포 영장을 발부했습니다.\n- 체포 영장이 발부된 5명 중 2명은 경찰관으로 확인되었습니다.\n- 용의자들은 마약 판매점을 급습하여 100kg의 마약과 80만 바트의 현금을 강탈한 혐의를 받고 있습니다.",
+      "full_translated": "파툼타니 지방 법원은 무장 강도들이 100kg의 마약과 80만 바트의 현금을 강탈한 사건과 관련하여 5명에 대한 체포 영장을 발부했습니다. 이들 중 2명은 경찰관으로 밝혀졌습니다. 이들은 경찰관을 사칭하여 마약 판매점으로 침입, 범행을 저지른 것으로 알려졌습니다. 현재 파툼타니 경찰은 용의자들의 사진을 피해자들에게 보여 신원을 확인했으며, 법원에 체포 영장을 신청, 발부받았습니다. 체포 영장이 발부된 경찰관은 2명으로, 각각 N.2 경찰서 소속 부경감과 제1경찰청 소속 경장입니다. 경찰은 용의자들이 법원으로부터 수색 영장을 받기 위해 허위 진술을 한 사실도 확인했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "범죄 사건 발생. 여행객 안전에 잠재적 영향이 있으나, 직접적인 위협은 아니라고 판단.",
+      "event_info": {
+        "date": "2024-02-13",
+        "location": "파툼타니",
+        "price": null,
+        "location_google_map_query": "파툼타니"
+      },
+      "references": [
+        {
+          "title": "ด่วน ศาลออกหมายจับแล้ว ที่แท้ตำรวจจริง แก๊งปล้นกัญชา 100 กิโล เงินสดอีก 8 แสนบาท",
+          "url": "https://www.thairath.co.th/news/crime/2914117",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dbeI0zmWLfBE.jpg"
+        }
+      ],
+      "collected_at": "19:38",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dbeI0zmWLfBE.jpg",
+      "date": "2026-02-13"
+    },
+    {
+      "title": "태국 공항, 3개월 만에 46억 밧 순이익 기록…여행객 증가",
+      "summary": "- 태국 공항(AOT)은 3개월 만에 46억 밧의 순이익을 기록, 여행 산업 회복세 입증.\n- 총 3,400만 명 이상의 승객이 공항을 이용, 국제선 2,092만 명, 국내선 1,355만 명.\n- AOT는 승객 서비스 요금(PSC) 조정을 준비 중이며, 공항 확장 계획을 가속화할 예정.",
+      "full_translated": "태국 공항(AOT)은 3개월 동안 46억 밧의 순이익을 달성했다고 발표했습니다. 이는 세계 관광 산업 회복에 힘입어 승객 수가 3,400만 명을 넘어선 데 따른 결과입니다. AOT는 또한 승객 서비스 요금(PSC)을 조정할 예정입니다.\n\n빠위나 짜리야티띠퐁 AOT 사장은 2569 회계연도 첫 3개월(2568년 10월~2568년 12월) 동안 항공 사업으로 88억 6,327만 밧의 수익을 올렸다고 밝혔습니다. 이는 전년 대비 5,885만 밧(0.67%) 증가한 수치입니다. 총수익은 173억 3,242만 밧이며, 순이익은 46억 5,262만 밧입니다.\n\nAOT 산하 6개 공항(수완나품, 돈므앙, 치앙마이, 매파루앙 치앙라이, 푸껫, 핫야이)의 총 항공 교통량은 208,281편으로 전년 대비 1.82% 증가했습니다. 국제선은 116,594편, 국내선은 91,687편입니다. 총 승객 수는 3,447만 명으로 전년 동기 대비 2.50% 증가했습니다. 국제선 승객은 2,092만 명, 국내선 승객은 1,355만 명입니다.\n\n승객 증가로 인해 인프라 활용률이 크게 증가했으며, 일부 공항은 최대 수용 능력에 근접하고 있습니다. 이에 따라 AOT는 향후 성장에 대비하기 위해 6개 공항의 확장 잠재력을 가속화해야 합니다. 2577년까지 완료되면 총 승객 수용 능력이 증가할 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "공항 이용객 증가 및 서비스 요금 조정 가능성은 여행객에게 간접적인 영향을 미칠 수 있으며, 공항 확장 계획은 장기적으로 여행 편의성에 영향을 줄 수 있다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "AOT โชว์ฟอร์มแกร่ง ประกาศผลประกอบการงวด 3 เดือนแรก กำไร 4.6 พันล้าน",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2914120",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dCoLW2ltqPaF.jpg"
+        }
+      ],
+      "collected_at": "19:38",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9dCoLW2ltqPaF.jpg",
       "date": "2026-02-13"
     }
   ]
