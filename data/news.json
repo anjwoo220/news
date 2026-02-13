@@ -8941,14 +8941,9 @@
       "summary": "- 태국이 관광객과 장기 방문객을 위해 새로운 비자 혜택을 도입했습니다.\n- 입국 절차 간소화 및 체류 기간 연장이 주요 내용입니다.\n- 디지털 도착 카드 도입으로 편의성을 높였습니다.",
       "full_translated": "파타야 메일 - 태국, 관광객 및 장기 방문객을 위한 새로운 비자 혜택 도입: 더 많은 시간, 더 쉬운 입국, 디지털 도착 카드",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 및 입국 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여합니다. 특히 체류 기간 연장과 절차 간소화는 큰 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "More time, easier entry, digital arrival cards Thailand rolls out new visa perks for tourists and long-term visitors - Pattaya Mail",
@@ -8957,23 +8952,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "5:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQLWVrRkVtSnJNOFFUS3NGM0w2cjYtWUFNUkpnaDNkSE55X2xyMWRhNzBTQWJYSTlibDFnTnh6ajhpZUhHdVplbGhCWlhyd0w5WmhxQThhLW5relpaX0J4NkJlXzJsUm5LdldhR0xLSjN4Q1RRaE9PbW15OUtVejFkeDNBelNuNmxSLWM2Zk44N1BUQk1SNzdSMUNkUi1pWkZiWGtGMTBvZS05bEoycmwzYkFPSGpNQ1hCc0h3TVRjalZscVRTSl9Hb056WFBsdmVRY3NzN2pDMXpfSmJxS2UwcWd6Q1FCOEQySHRFbEZ3b3FBelM2RE9lSQ?oc=5",
+      "source": ""
     },
     {
       "title": "원숭이 주의: 태국 여행 중 원숭이 관련 안전사고 유의",
       "summary": "- 태국에서 마카크 원숭이 관련 사건 발생 가능성 증가.\n- 여행객은 원숭이 서식지 방문 시 음식물 노출을 피하고 안전 거리 유지해야 함.\n- 공격적인 행동을 보일 경우 즉시 피하고, 현지 당국에 신고.",
       "full_translated": "태국 여행 시 마카크 원숭이 관련 안전사고에 유의해야 합니다. 원숭이 서식지 방문 시 음식물 노출을 피하고 안전 거리를 유지하는 것이 중요합니다. 공격적인 행동을 보일 경우 즉시 피하고, 현지 당국에 신고하십시오.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전 관련 정보 제공. 원숭이 관련 사고 예방 및 대처 요령 안내.",
-      "event_info": {
-        "date": null,
-        "location": "태국 전역 원숭이 서식지",
-        "price": null,
-        "location_google_map_query": "태국 원숭이 서식지"
-      },
+      "event_info": "{'date': None, 'location': '태국 전역 원숭이 서식지', 'price': None, 'location_google_map_query': '태국 원숭이 서식지'}",
       "references": [
         {
           "title": "macaque monkeys thailand - Travel And Tour World",
@@ -8982,23 +8974,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "5:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZy1QT1FLUFhnRl9NOHNIWEo5VXBwdFVvMUNRTzBvVDdOY3cxOHVkdTV1dk96SnVYNk1ROHRVTmphNllPd245VjVvWmcxNjhEWkZNbXlsM3BNM3Q5T1RfT2pVMXlFemUzRFBMbm1PVktTcXZwc21odXhtSTQ0T2RRWFZYUQ?oc=5",
+      "source": ""
     },
     {
       "title": "중국 관광객, 일본 수요 감소로 러시아와 태국 선호 - Asia News Network",
       "summary": "- 중국 관광객들이 일본 여행 대신 러시아와 태국을 선호하는 추세입니다.\n- 이는 일본의 불확실한 상황과 관련된 것으로 분석됩니다.\n- 태국은 중국 관광객들에게 매력적인 여행지로 부상하고 있습니다.",
       "full_translated": "아시아 뉴스 네트워크에 따르면 중국 관광객들은 일본 수요 감소로 러시아와 태국을 선호하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 수요 증가 가능성, 여행객에게 유용한 정보. 일본 여행을 고려하는 여행객에게 대안 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chinese tourists favour Russia and Thailand as Japan demand fades - Asia News Network",
@@ -9007,23 +8996,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "5:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYXFSMzB6VUZXWnd3NzR2MXZ2R1dJS1Nkb0pvcXlmclM3OXpTWllCT0Vac2llcUVHa1BPM2ZmVzM3Y0Z5am5ndkdMOS03ZnFKb1Jua0VzajF0d3ZZV3VOLTdCVHNqUDR3Rzl2LW1xV1hodjFGcmJWRno2V2dtMW0tMkNTcW9EalZKTDdyNVd4cFdsVzZ6T0E?oc=5",
+      "source": ""
     },
     {
       "title": "태국 비자 정책 심층 분석: 장기 체류 또는 장기 거주?",
       "summary": "- 태국의 비자 정책 변화에 대한 심층 분석 기사.\n- 장기 체류와 장기 거주를 위한 다양한 비자 옵션 소개.\n- 파타야 메일에서 제공하는 정보.",
       "full_translated": "태국의 비자 정책, 장기 체류 또는 장기 거주?\n\n파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 장기 체류 여행자에게 유용한 비자 정보 제공. 기존 비자 관련 정보와 중복되지 않음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Dissecting Thailand’s Visa Policy, Long Stay or Long-Term Residence? - Pattaya Mail",
@@ -9032,23 +9018,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "5:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVVJJMXZKLWJEcGNDMkJhU0FPRUVVY0dVeWNpdmZ4OUQwUm5BLWZ1VXFMT01IdWZGMGdKQXRPbXByc1hjM0FpY2kwNWpYU29QTzZqTjNDU2Z0QXkzWFUtY3dUYk9xS2E3Q05naG5UVFRwZ2lIUGctVVVMbVd4cnpOaGNJZFB5YWVyb2JRQXJtVDdKZFR0VFlncEo4bzYxOHBrUmtsaEtfdHJITm82cEJLT0RJZUN5eVU?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 중국의 기록적인 2026년 초 관광 급증에 합류",
       "summary": "- 미국, 브라질, 한국, 이탈리아, 태국, 러시아, 베트남 등 여러 국가가 중국의 2026년 초 관광 급증을 주도.\n- 호텔 예약 및 항공 여행에서 새로운 기록을 세우고 있음.\n- 이로 인해 태국을 방문하는 관광객 증가가 예상됨.",
       "full_translated": "미국이 브라질, 한국, 이탈리아, 태국, 러시아, 베트남 등 여러 국가와 함께 중국의 기록적인 2026년 초 관광 급증을 주도하고 있으며, 호텔 예약 및 항공 여행에서 새로운 기록을 세우고 있습니다. 이는 태국을 방문하는 관광객 증가로 이어질 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국의 관광 급증으로 태국 방문객 증가 예상. 호텔 및 항공편 예약에 영향.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "태국",
-        "price": "변동 가능",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '태국', 'price': '변동 가능', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "United States Joins Brazil, South Korea, Italy, Thailand, Russia, Vietnam And More Nations In Spearheading China’s Record-Breaking Early 2026 Tourism Surge, Setting New Heights In Hotel Bookings And Air Travel - Travel And Tour World",
@@ -9057,7 +9040,59 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "5:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVVJvOFBwd3pFWDRlLXFpb210UlZvaklMOVkyNGQ5V1h2MHUyT0pONnBManBCcHJEbmFoMnpRUEdiQzM3RFFGWUJhVS15YXdyejV3UXh2d3ZGTWs0X1F2TzllNGFGSzJsWi02aktSNjdWbVJuWUIxOVJaQTFLbkJYdGVhc3ZzQTByX21DVk9zX1c4VlJMS0JQdkxEaE5jTHEwcXBIbTl5aUFwNGE2eGtkWm5kWmE3MUlhdDNKbDItbEhDUW82V3psRG5ubm4xMXJYSmdpaXZ3Z2xxSHdPNjNHLUdJNGM1WG01OXNWcWVZTExZbndNc2t1eEpGZWRkR0lHRUtEclptVjlaLWtBUl9sZEFuMHBHZE9WOGxITkJhZU9jT2twajNxM1NPMWZXRHNJcXc1aUswenBMcVprRVVORWtrMDhVQ25kdEhOZkNpWHNXSlAw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 은퇴자, 디지털 유목민, 장기 방문객 유치를 위한 새로운 비자 개혁 발표",
+      "summary": "- 태국이 관광 및 지역 경제 활성화를 위해 새로운 비자 개혁을 발표했습니다.\n- 은퇴자, 디지털 유목민, 장기 방문객 유치를 목표로 합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 은퇴자, 디지털 유목민 및 장기 방문객을 유치하기 위한 흥미로운 새로운 비자 개혁을 발표하여 관광 및 지역 지출을 촉진합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행자에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 장기 체류를 고려하는 여행자에게는 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Unveils Exciting New Visa Reforms to Attract Retirees, Digital Nomads, and Long-Term Visitors, Boosting Tourism and Local Spending - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOakI3M3pMcmxMd2ZZZTN3OUdZb1MtVGJHS0U5OUlqbWdINk5xanN0Z3dhaGcxU3A2a3RHMG9JbHlwdWppMXdHS3RXZmluT3YwQnB3VUUzWUpGVTNZcWJ6cDRTelFuRFhXM3g4UnRZcXA1YTF0a2JiRUdzYXhmU0xOeXZRaUdhX2hqaDQ2NVVrY09leE9UdElXZnJmVHE0RjhFeDhiQVVKY1ZKeTdkeGVSbV9HcU4yZTJLeWhnU1FVenJVVzlKbV85TEp1b1VXR1Jyd3NuYmd1Zk9vZnhOdWNXbjd6MjJvWlkwNlNTVzF6NVdHVnBZTDlKcTBRa09mbEtyZUtoaXhjaGFxdjNSNHMtS2FkTQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:59",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "경찰 개혁 요구, 관광 산업 활성화 목표 - 방콕 포스트",
+      "summary": "- 방콕 포스트는 관광 산업 활성화를 위해 경찰 개혁을 촉구하는 기사를 게재했습니다.\n- 자세한 내용은 기사를 참조하십시오.\n- 태국 여행 시 참고하시기 바랍니다.",
+      "full_translated": "방콕 포스트는 관광 산업 활성화를 위해 경찰 개혁을 촉구하는 기사를 게재했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광객 안전 및 편의에 영향을 줄 수 있는 경찰 개혁 관련 뉴스. 긍정적인 방향으로의 변화 기대.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Call for police reform to boost tourism - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd0J2MFdKRzVZZ2d1N2Z3MXBzQ203ck1oakNMb0VUQ0lpMFN1MDFyRHVpNFFzZDZQTjZGempBYlFUaTdzazFjeldLUW9yWlhoSGoxWGw0MkUwQ1ZpTHRWMGN2cDZDZFJIMV8tTzJ0V2xOSUNCQ1dXV2RFS3ViaW5iWk8wS1lEWHo2ZWl0ZHN0ZklHMzRNMnlr?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-14"
     }
