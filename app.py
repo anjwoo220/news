@@ -1616,6 +1616,14 @@ def render_tab_hotel():
                     cached = utils.get_hotel_cache(hotel_query)
                     if cached:
                         st.success("📦 " + ("Found cached analysis!" if st.session_state.get('language') == 'English' else "기존 분석 데이터를 찾았습니다! 바로 결과를 보여드립니다."))
+                        
+                        # Log the search immediately for persistent ranking
+                        try:
+                            info = cached.get('raw_json', {}).get('info', {})
+                            if info:
+                                utils.log_search(info.get('name', hotel_query), info.get('rating', 0.0), 'hotel')
+                        except: pass
+                        
                         st.session_state['show_hotel_analysis'] = True
                         st.session_state['active_hotel_id'] = "CACHED"
                         st.session_state['_selected_hotel_label'] = hotel_query

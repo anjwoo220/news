@@ -902,54 +902,60 @@ SEARCH_LOG_FILE = "data/search_log.csv"
 
 def log_search(name, rating, category):
     """
-    사용자의 검색 내역을 CSV 파일에 저장합니다.
-    Args:
-        name: 호텔 또는 식당 이름
-        rating: 평점 (float)
-        category: 'hotel' 또는 'food'
+    사용자의 검색 내역을 Google Sheets 'search_log' 시트에 저장합니다.
     """
     try:
-        # data 디렉토리 생성이 필요할 수 있음
-        if not os.path.exists("data"):
-            os.makedirs("data")
-            
-        file_exists = os.path.isfile(SEARCH_LOG_FILE)
-        
-        with open(SEARCH_LOG_FILE, mode='a', encoding='utf-8', newline='') as f:
-            writer = csv.writer(f)
-            if not file_exists:
-                writer.writerow(['name', 'rating', 'category', 'timestamp'])
-            
-            writer.writerow([
-                name, 
-                rating, 
-                category, 
-                datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            ])
-        print(f"✅ Logged search: {name} ({category})")
-    except Exception as e:
-        print(f"❌ Logging Error: {e}")
+        client = get_hotel_gsheets_client()
+        if not client:
+            return
 
+        sh = client.open("hotel_cache_db")
+        
+        # 'search_log' 워크시트 가져오기 또는 생성
+        try:
+            sheet = sh.worksheet("search_log")
+        except:
+            # 시트가 없으면 생성 (헤더 포함)
+            sheet = sh.add_worksheet(title="search_log", rows="100", cols="4")
+            sheet.append_row(['name', 'rating', 'category', 'timestamp'])
+        
+        # 데이터 추가
+        now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        sheet.append_row([name, rating, category, now_str])
+        
+        print(f"✅ Logged search to GSheets: {name} ({category})")
+    except Exception as e:
+        print(f"❌ GSheets Logging Error: {e}")
+
+@st.cache_data(ttl=600)  # 10분간 랭킹 캐시
 def get_top_places(category, limit=10):
     """
-    스마트 랭킹 알고리즘을 적용하여 인기 장소 TOP 10을 반환합니다.
-    공식: Final_Score = (평점 - 3.0)^2 * log(검색횟수 + 1)
+    Google Sheets에서 검색 내역을 읽어와 스마트 랭킹 TOP 10을 반환합니다.
     """
-    if not os.path.exists(SEARCH_LOG_FILE):
-        return []
-    
     try:
-        df = pd.read_csv(SEARCH_LOG_FILE)
-        if df.empty:
+        client = get_hotel_gsheets_client()
+        if not client:
+            return []
+
+        sh = client.open("hotel_cache_db")
+        try:
+            sheet = sh.worksheet("search_log")
+        except:
+            return []
+
+        # 모든 데이터 가져오기
+        records = sheet.get_all_records()
+        if not records:
             return []
             
+        df = pd.DataFrame(records)
+        
         # 카테고리 필터링
         df = df[df['category'] == category]
         if df.empty:
             return []
             
         # 1. 장소별 집계 (평균 평점, 검색 횟수)
-        # name으로 그룹화하여 rating 평균과 행 개수(검색 횟수)를 계산
         stats = df.groupby('name').agg({
             'rating': 'mean',
             'name': 'count'
@@ -961,9 +967,7 @@ def get_top_places(category, limit=10):
         if stats.empty:
             return []
             
-        # 3. 스코어 계산
-        # 팩트체크 점수(rating)를 최우선으로 반영하고, 검색 횟수는 부차적인 가중치로 사용
-        # 공식: 점수 * 10 + log(검색횟수 + 1)
+        # 3. 스코어 계산 (공식: 평점 * 10 + log(검색횟수 + 1))
         stats['score'] = stats['rating'] * 10 + np.log1p(stats['search_count'])
         
         # 4. 정렬 및 상위 N개 추출
@@ -972,13 +976,12 @@ def get_top_places(category, limit=10):
         results = []
         for i, (_, row) in enumerate(top_df.iterrows()):
             name = row['name']
-            # 추천 이유 뱃지 로직
             badge = ""
             if i == 0:
                 badge = "🔥 믿고 가는 랭킹 1위"
             elif row['rating'] >= 4.8:
                 badge = "💎 숨은 보석 (평점 4.8+)"
-            elif row['search_count'] >= 5: # 임계값 설정
+            elif row['search_count'] >= 5:
                 badge = "👀 지금 가장 핫함"
             
             results.append({
@@ -991,7 +994,7 @@ def get_top_places(category, limit=10):
             
         return results
     except Exception as e:
-        print(f"❌ Ranking Analysis Error: {e}")
+        print(f"❌ GSheets Ranking Analysis Error: {e}")
         return []
 
 # ============================================
