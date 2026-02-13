@@ -8656,14 +8656,9 @@
       "summary": "- 태국 정부가 보안 문제로 무비자 체류 가능 기간을 60일에서 30일로 단축할 예정입니다.\n- 이는 여행객들에게 중요한 변화이며, 비자 관련 계획에 영향을 미칠 수 있습니다.\n- 변경 사항은 추후 공지될 예정이므로, 여행 전 확인이 필요합니다.",
       "full_translated": "태국이 보안 문제로 무비자 체류 기간을 60일에서 30일로 단축합니다. Khaosod English",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "무비자 체류 기간 단축은 여행객의 입국 및 체류 계획에 직접적인 영향을 미치므로 매우 중요합니다. 변경 사항은 여행 전에 반드시 확인해야 합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to slash visa-free stay from 60 to 30 days amid security concerns - Khaosod English",
@@ -8672,23 +8667,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:27",
+      "collected_at": "3:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcFcwT1lpMnFtWTZuaU55ODdjdnUwb2RWVXNEbVNwbGhlVWJQQkNicG5vZVVXTHFidUk5dzJseXZYMXRXMlZON0IyUnZTcENLSHktNTRBTE52Z0VISTRsZ0ROTkVmakMyNzQ5em9aSF9mYzJfU0F3dlZ5OEd4ZFEzOEdRTjhMNUxJQUs1ZE0tU0otUzFyS0JMVXF5dXd1SXlHV3hjTzhVZW1xaDJOaUdJY2g5YkZ6NUR2bHcwbWRCRdIBxAFBVV95cUxNY0NKSlVSNGdLTlJqNE0ySFgzUFQ3SXBnR2lRQjB1QWJVX1ZLTEZzTDZQODNLNHltcGROdlZQcU1manA5WktmNkFYT0o4VEc5VGJfVjdBSHpfNkZ4R1V4cUxieVJsa3Z5RllVd0RJd0h4T2laX2c4cGxObEp1ZHc4anE0MEtncndhYnFVXzRPRWNodkRsWW1MbU9hX3ZveDd4RFBpQmpDX0JPYVZHYU1INHBHSWpNZExJcDU1ajJsZm9sSW5k?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 93개국 대상 무비자 체류 기간 30일로 단축",
       "summary": "- 태국 정부는 93개국 대상 무비자 체류 기간을 30일로 단축했습니다.\n- 이는 이민 감독을 강화하고 관광 성장을 촉진하기 위한 노력의 일환입니다.\n- 변경 사항의 정확한 시행 시기는 아직 발표되지 않았습니다.",
       "full_translated": "태국, 93개국 대상 무비자 체류 기간 30일로 단축, 이민 감독 강화와 관광 성장을 동시에 추구 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 한국인 여행객에게 적용될 가능성이 있으므로 필수적으로 알려야 함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Reduces Visa-Free Stay to Thirty Days for Ninety Three Countries, Striving to Strengthen Immigration Oversight While Continuing to Foster Tourism Growth - Travel And Tour World",
@@ -8697,23 +8689,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:27",
+      "collected_at": "3:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQQ2ZsNzlrODBVR2Uwem1rSDRGNGI5bFpTam85TkwzNUUwSW9TSlY5ZzFZVGVyWEtrTzVUTVF6SmVkWEs5UUJidDFlbFRFVkV4VFZKcXVMUzd1WDZNUWlidFpfN3RKeVR4bW5zVUNBVjdlRFByMzBiUmVVckMtbTV2Tjh2NHRPY3ZBTnpvM3V1a2pKcXpKdldVdjVweVpFS1RVd2FHUHZkMWhTa0phRzdvWWswYlhPTGJTTGJTa1dfc09FWUJ4TTlQTzB5RjM3dldNSHlGWGswVDRnTU9uRGhQSF9lblVkR0lBVFdxTkZ5akp2TzVmanoyemZDd0tqZmlYb29IR0FBWnhBeEY3TE1rQ1BHVWxpVEp2Z1N3Nks4akZQUU1wTVp4dHVuQ0xGbTItSnRZ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 고려",
       "summary": "- 태국 정부가 무비자 체류 기간을 단축하는 방안을 검토 중임.\n- 현재 60일에서 30일로 단축될 가능성이 있음.\n- 이는 관광 정책에 중요한 변화를 의미함.",
       "full_translated": "태국이 무비자 체류 기간을 60일에서 30일로 단축하는 것을 고려하고 있습니다. - 라오티안 타임즈",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 특히 장기 여행자에게 중요한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Considers Cutting Visa-Free Stay from 60 to 30 Days - Laotian Times",
@@ -8722,7 +8711,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:27",
+      "collected_at": "3:27",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaDJWel9zWGY1NGM5aGJvWUE1SWdiYk00bUNZWS1MQmpFaFBYbFBVeldkaTlNaWtJVnVhMVNGTjZIa2daX2tDX0htNEVEdHBoZFdyZjBrZ2V3MmFkbUI1UUs4Q3B4ZXhqZHZpSDE2V1RSd0VyXzV6Y3JyWUd3Q1B4ZGwtQ05GVTVtTmRNeTBZSkRJMzcxcl9YNmF2eDBJUQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "중국 춘절 기간, 러시아, 호주, 태국 여행 급증; 일본은 긴장 고조 속 급감 - Travel And Tour World",
+      "summary": "- 중국 춘절 연휴 기간 동안 러시아, 호주, 태국으로의 여행 수요가 크게 증가했습니다.\n- 반면, 일본은 정치적 긴장으로 인해 중국인 여행객이 급감했습니다.\n- 태국은 중국 관광객 유치를 위한 다양한 프로모션을 진행 중입니다.",
+      "full_translated": "Travel And Tour World에 따르면 중국 춘절(설날) 연휴 기간 동안 러시아, 호주, 태국으로의 여행 수요가 크게 증가한 반면, 일본은 정치적 긴장으로 인해 중국인 여행객이 급감했습니다. 태국은 중국 관광객 유치를 위한 다양한 프로모션을 진행 중이며, 특히 방콕과 파타야는 인기 있는 여행지로 꼽힙니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "춘절 기간 동안의 여행 트렌드 변화를 보여주며, 태국 여행에 대한 긍정적인 정보 제공. 일본 여행을 계획하는 여행객에게는 유용한 정보가 될 수 있음. 하지만 이미 24시간 이내 파타야 관련 정보가 많으므로 점수를 낮춤.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Russia, Australia, and Thailand Lead the Surge in Chinese Spring Festival Travel as Japan Sees Dramatic Decline Amid Rising Tensions - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdWlvRkJRNjZPa1ZxSFJza1RHcVZaME0tYktGWlFmbmJNZzdXOFB4NmpXSjFqVE40SjhQbGZuUTR4SDN2STM1Q2Z3YWsweXljSDVRZFpRc3BtTW9BbnZSWU9YVENISTNhRmVON1hkd0M4X3FfRWFRTlA4bkZiZ2hYUExwUmktZ0RxZ2xaZ0lpdzJHR3Aya3FqTndkUE05RzlMc1FSZUhGQVEyVi02Um9Xb1Y5RklxREdjVmxsSS1TWXlkUm1yRndFTVZxbHlkZUFZd3lyRnlCaEtFTVRhZ1BkUWI1VlVieHhQdUVLcnZKdHc0ZmVwbFoydE5yWTgwbjYyV2pQTVVkMGVrd0k?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:03",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "중국 춘절 연휴, 해외여행 목적지 1위는 호주, 러시아, 태국, 한국 순",
+      "summary": "- 중국 춘절 연휴 기간 동안 해외여행객 수가 기록적인 수준에 도달할 것으로 예상됨.\n- 인기 여행지로는 호주, 러시아, 태국, 한국 등이 꼽힘.\n- 특히 태국은 따뜻한 날씨와 다양한 볼거리로 중국인 관광객에게 꾸준한 인기를 얻고 있음.",
+      "full_translated": "호주, 러시아, 태국, 한국이 중국인 관광객의 춘절 연휴 인기 여행지 상위 목록에 올랐습니다. 춘절 여행객 수가 기록적인 수준에 도달했습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 춘절 기간 동안 태국 방문객 증가 예상. 관광객 증가에 따른 혼잡 가능성 및 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Australia, Russia, Thailand, and South Korea Top the List for Chinese Tourists as Lunar New Year Travel Numbers Reach Record High - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNW5icm5mUFEwRE5HQ3A3S0dSamc0bWdieGFTbzdudjhJRUFjUlc1UHhUalFqSG5NdlI5dkllandEcjBJeXVwQ3lqUlRHTERLckIta1lKcEtJSGdKQTJYbVRuSHcwUnpCalltTGtHbW1MYThuaVQwbGF0bnRSdzJ0OVNtc3VOcm8zdkFCalQ2a0dIc3FVOHg2YjNMdjY1cmd0NjlkR0xPM3FhT0xPdXROV01ITC1JM2xlYnlOZGdsQWhwcUxWV3htcV9SS2VjbmlPdEI2OUZaS1RCbHZxQlduVFFMTzhvb3pJdkpaWkp3VXowbS1wSmlVZC1STzlSMGFKYW9McWdn?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:03",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "중국 춘절 연휴, 러시아와 태국으로 여행객 몰려 - Nation Thailand",
+      "summary": "- 중국 춘절 연휴 기간 동안 러시아와 태국이 인기 여행지로 부상.\n- 특히 태국은 중국인 관광객들에게 매력적인 여행지.\n- 연휴 기간 동안 두 나라 모두 관광객 증가 예상.",
+      "full_translated": "중국 춘절 연휴에 러시아와 태국으로 중국인 관광객들이 몰리고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 대한 관심 증가 및 관광객 증가 예상. 여행 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese tourists head to Russia, Thailand on extended Lunar New Year break - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UdWZGc3IyTC1NSVZHY3o3WGx5YzdiZFJlOE9jcnB2MmR6MEN4RldMRFNpaHdrZ3BrZEotVkQ3alZITVpIeFRoQnZGMlVpRENyeHNSVHN2WThNTUc2OGo5Q0pJeFAxX1VBa3c?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:03",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "러시아-우크라이나, 2월 17-18일 제네바에서 회담 예정",
+      "summary": "- 러시아와 우크라이나가 2월 17일부터 18일까지 제네바에서 미국 중재 하에 회담을 개최할 예정입니다.\n- 이번 회담은 4년간 지속된 전쟁을 종식시키기 위한 노력의 일환입니다.\n- 양측은 이전 아부다비 회담에서 생산적인 논의를 진행했으나, 영토 문제에 대한 입장 차이는 여전히 큽니다.",
+      "full_translated": "러시아와 우크라이나가 2월 17일부터 18일까지 제네바에서 미국 중재 하에 회담을 개최한다고 양국이 금요일 밝혔습니다. 이는 4년간 지속된 전쟁을 종식시키기 위한 협상의 다음 단계입니다. 도널드 트럼프 미국 대통령은 2022년 2월 러시아의 우크라이나 침공으로 촉발된 분쟁을 종식시키기 위해 노력하고 있지만, 아부다비에서 열린 두 차례의 미국 중재 회담은 돌파구의 조짐을 보이지 않았습니다. 양측은 공개적으로 논의가 생산적이었다고 말했지만, 모스크바와 키예프는 영토라는 핵심 문제에 대해 여전히 큰 차이를 보이고 있습니다. 러시아 국영 RIA 노보스티 통신은 드미트리 페스코프 크렘린 대변인의 말을 인용해 “우크라이나 문제 해결에 대한 다음 회담은 러시아-미국-우크라이나 3자 형식으로 2월 17~18일 제네바에서 열릴 것”이라고 보도했습니다. 페스코프는 모스크바 대표단은 이전 터키 회담을 이끌었던 매파 성향의 전 문화부 장관인 블라디미르 메딘스키가 이끌 것이라고 말했습니다. 키예프는 회담이 스위스에서 열릴 예정임을 확인했습니다. 우크라이나 국가안보회의 수장인 루스템 우메로프 수석 협상가는 “우크라이나 대표단은 이미 이번 회의 준비를 시작했다”고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행 자체에 직접적인 영향은 적으나, 국제 정세 변화는 잠재적으로 여행 심리에 영향을 줄 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-02-17",
+        "location": "제네바",
+        "price": "미정",
+        "location_google_map_query": "제네바"
+      },
+      "references": [
+        {
+          "title": "Russia-Ukraine talks set for Geneva on Feb 17-18",
+          "url": "https://www.bangkokpost.com/world/3196775/russiaukraine-talks-set-for-geneva-on-feb-1718",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_5967080_700.jpg"
+        }
+      ],
+      "collected_at": "04:03",
+      "image_url": "https://static.bangkokpost.com/media/content/20260213/c1_5967080_700.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "Tourism numbers - MSN",
+      "summary": "- 해당 기사는 관광객 수에 대한 내용입니다.\n- 구체적인 내용은 기사를 통해 확인해야 합니다.\n- 현재 상세 정보가 제공되지 않아 추가 확인이 필요합니다.",
+      "full_translated": "Tourism numbers&nbsp;&nbsp;MSN",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "관광객 수 정보는 여행에 참고할 만하지만, 현재 제공된 정보가 너무 적어 점수를 낮게 책정. 관련 내용 업데이트 시 점수 조정 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism numbers - MSN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wOV8wMVV2cW9PV0hRcGk1MDFJOFFnbUlWZkk3WjR3TmVaOWx0Tmh4NEktdGx1UTFWSmROQzNVZWVHSkk0OG44OGJ1cl9UUkl6Q3lXMXdia2I0Nk5QbTJMSC1PbzFvV1h1V2Z1cWc1NDY3aXJTMmc?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:03",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-14"
     }
