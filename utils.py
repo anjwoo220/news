@@ -4473,25 +4473,24 @@ def recommend_tours(who, style, budget, region="방콕", language="Korean"):
         
         products_list = []
         for t in filtered_tours:
-            if is_english:
-                # Prioritize English fields if available
-                p_name = t.get('name_en') or t.get('name', 'Unknown')
-                p_desc = t.get('desc_en') or t.get('desc', '')
-                p_pros = t.get('pros_en') or t.get('pros', '')
-            else:
-                p_name = t.get('name', 'Unknown')
-                p_desc = t.get('desc', '')
-                p_pros = t.get('pros', '')
+            # Always include Korean for context, and English if available
+            p_name_kr = t.get('name', 'Unknown')
+            p_desc_kr = t.get('desc', '')
+            p_pros_kr = t.get('pros', '')
             
-            products_list.append(
-                f"- ID {t['id']}. {p_name} (Price: {t['price']}): "
-                f"Tag={t['type']}, Desc: {p_desc}, Pros: {p_pros}"
-            )
+            p_name_en = t.get('name_en', '')
+            p_desc_en = t.get('desc_en', '')
+            p_pros_en = t.get('pros_en', '')
+            
+            p_info = f"- ID {t['id']}. KR_Name: {p_name_kr}, KR_Desc: {p_desc_kr}, KR_Pros: {p_pros_kr}"
+            if p_name_en:
+                p_info += f" | EN_Name: {p_name_en}, EN_Desc: {p_desc_en}, EN_Pros: {p_pros_en}"
+            
+            products_list.append(p_info)
         
         products_info = "\n".join(products_list)
         
         style_str = ", ".join(style) if style else ("No specific preference" if is_english else "특별한 선호 없음")
-        is_english = (language == "English")
 
         if is_english:
             prompt = f"""
@@ -4508,19 +4507,19 @@ Analyze the user's travel style and recommend the **top 6 perfect products** fro
 {products_info}
 
 [Output Format - JSON]
-Output MUST be in the following JSON format ONLY. 
-Descriptions should be friendly, persuasive, and include emojis. 
-Write reasons specifically tailored to the user's companions and style. 
-ALL OUTPUT VALUES MUST BE IN ENGLISH.
+- Output MUST be in the following JSON format ONLY. 
+- ALL OUTPUT VALUES MUST BE IN ENGLISH.
+- If the [Product Catalog] only has Korean info for a product, you MUST translate the Product Name and Pros into natural, persuasive English.
+- 'reason' should be 2-3 sentences, friendly, and include emojis.
 
 {{
     "recommendations": [
         {{
-            "tour_name": "Product Name (MUST match the name in the list exactly)",
-            "tour_name_en": "Translated English Product Name",
             "tour_id": "Product ID (integer)",
-            "reason": "Why we recommend this (2-3 sentences, persuasive, emoji included)",
-            "tip": "One useful tip (e.g., Best at sunset, Raincoat needed, etc.)"
+            "tour_name_en": "Natural English Product Name (Translate from KR if EN is missing)",
+            "reason": "Why we recommend this (In English)",
+            "pros_en": "Key Highlights/Pros (Natural English, Translate from KR if EN is missing)",
+            "tip": "One useful tip (In English)"
         }},
         ... (Total 6 recommendations)
     ]
@@ -4541,15 +4540,18 @@ ALL OUTPUT VALUES MUST BE IN ENGLISH.
 {products_info}
 
 [출력 형식 - JSON]
-반드시 아래 JSON 형식으로만 출력하세요. 설명은 한국어로 친근하게, 이모지를 사용해주세요.
-사용자의 동행인과 스타일에 맞춰서 개인화된 추천 이유를 작성하세요.
+- 반드시 아래 JSON 형식으로만 출력하세요. 
+- 출력되는 모든 텍스트(이유, 꿀팁 등)는 반드시 **한국어**로 작성하세요. 영어 사용을 금지합니다.
+- 설명은 친근하게, 이모지를 사용해주세요.
+- 사용자의 동행인과 스타일에 맞춰서 개인화된 추천 이유를 작성하세요.
+
 {{
     "recommendations": [
         {{
-            "tour_name": "상품명 (목록에 있는 이름과 정확히 일치)",
             "tour_id": "상품 ID (숫자)",
-            "reason": "이 투어를 추천하는 이유 (사용자 상황에 맞춰서 2~3문장으로 설득력 있게, 이모지 포함)",
-            "tip": "꿀팁 한줄 (예: 일몰 시간대 5시 추천, 우기엔 우비 필수 등)"
+            "tour_name": "상품명 (KR_Name과 정확히 일치)",
+            "reason": "추천 이유 (반드시 한국어로 작성)",
+            "tip": "꿀팁 한줄 (반드시 한국어로 작성)"
         }},
         ... (총 6개의 추천 항목)
     ]

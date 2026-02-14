@@ -2475,6 +2475,7 @@ def render_tab_tour():
             tour_name_en = rec.get("tour_name_en", tour_name)
             reason = rec.get("reason", "")
             tip = rec.get("tip", "")
+            pros_en_ai = rec.get("pros_en", "") # [NEW] AI fallback
             
             # 매칭되는 투어 데이터 찾기 (ID 우선, 이름 차선)
             matched_tour = None
@@ -2506,7 +2507,8 @@ def render_tab_tour():
                     final_name = tour_name_en if st.session_state.get('language') == 'English' else matched_tour['name']
                     st.subheader(f"{rank_emoji} {final_name}")
                     st.markdown(f"**{utils.t('tour_reason')}:** {reason}")
-                    display_pros = matched_tour.get('pros_en') or matched_tour['pros'] if st.session_state.get('language') == 'English' else matched_tour['pros']
+                    # Priority: 1. DB English, 2. AI Translated English, 3. DB Korean (fallback)
+                    display_pros = matched_tour.get('pros_en') or pros_en_ai or matched_tour['pros'] if st.session_state.get('language') == 'English' else matched_tour['pros']
                     st.info(f"**{utils.t('tour_pros')}:** {display_pros}")
                     if tip:
                         st.caption(f"{utils.t('tour_tip')}: {tip}")
