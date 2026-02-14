@@ -12074,14 +12074,9 @@
       "summary": "- 푸껫 해안에서 화물선 SEALLOYD ARC 침몰, 태국 정부 오염 통제 부서(PCD)가 해수 품질 집중 감시.\n- 유출된 기름은 서쪽으로 이동할 가능성이 크며, 유해 물질을 실은 컨테이너 14개도 함께 감시 중.\n- 다이버 팀을 위한 유해 물질 식별, 보호 장비, 누출 감지 절차 등 안전 지침 발행.",
       "full_translated": "정부는 화물선 SEALLOYD ARC가 푸껫 해안에서 침몰한 후 오염 통제 부서(PCD)에 감시를 강화하도록 지시했습니다. 랄리다 페르스위왓타나 정부 부대변인은 수찻 촘클린 천연자원환경부 장관이 이번 사건에 대해 우려를 표명하고 PCD에 연안 해수 수질을 감시하도록 명령했다고 밝혔습니다. PCD는 사고 지휘 본부를 지원하고 학술적 조언을 제공하며 인양 작업 중 안전을 보장하고 있습니다. PCD는 OILMAP 모델을 배포하여 기름띠 이동을 예측하여 위험을 평가하고 대응 계획을 지원하고 있습니다. 예비 평가에 따르면 기름 잔류물은 서쪽으로 이동하여 공해상으로 흘러갈 가능성이 높습니다. 당국은 또한 선박에 실린 유해 물질을 함유한 컨테이너 14개를 감시하고 있습니다. PCD는 화물의 특성 및 관련 위험을 검토하고 유해 기호 식별, 개인 보호 조치, 장비 준비 및 잠재적인 화학 물질 누출 감지 절차를 포함하여 다이버 팀을 위한 지침을 발표했습니다. 기름 유출 방지 및 대응과 관련하여 부서는 유성 분산제 사용에 대해 조언하고 정기적인 연안 수질 검사를 계속 수행하고 있습니다. 랄리다 여사는 표류하는 컨테이너를 발견하는 사람은 누구든지 해당 위치를 촬영하고...",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "푸껫 해안 사고로 인한 잠재적 해양 오염 위험 및 안전 주의 필요. 특히 다이버 및 해양 활동 참여자에게 영향.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 해안",
-        "price": null,
-        "location_google_map_query": "Phuket coast"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 해안', 'price': None, 'location_google_map_query': 'Phuket coast'}",
       "references": [
         {
           "title": "PCD on oil wreck watch",
@@ -12090,23 +12085,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197463_260215054802_700.jpg"
         }
       ],
-      "collected_at": "06:16",
+      "collected_at": "6:16",
       "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197463_260215054802_700.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.bangkokpost.com/thailand/general/3197463/pcd-on-oil-wreck-watch",
+      "source": ""
     },
     {
       "title": "태국, 러시아 아웃바운드 관광 붐에 합류: 여행은 분쟁 속 평화의 길인가?",
       "summary": "- 태국이 베트남, 중국과 함께 러시아 아웃바운드 관광객 증가 추세에 동참하고 있습니다.\n- 이는 지정학적 긴장 속에서 관광산업의 회복력을 보여주는 사례입니다.\n- 태국은 러시아 관광객 유치를 통해 경제적 이익을 얻고, 동시에 문화 교류를 촉진할 수 있습니다.",
       "full_translated": "태국이 베트남, 중국과 함께 러시아 아웃바운드 관광 붐에 합류하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "러시아 관광객 증가 추세는 태국 관광 산업에 긍정적인 영향을 미칠 수 있으며, 여행객은 관련 정보를 인지할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Joins Vietnam, China in Russian Outbound Tourism Boom: Is Travel a Path to Peace Amidst Conflict? - Travel And Tour World",
@@ -12115,7 +12107,82 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:16",
+      "collected_at": "6:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbWhONDdOb0dFLWdlS09wcnZocE1NZnoycFBieWo5S29NSTVzbXc3SWJYbHdIemNocVkycVlkQWktM2M3Y2piRHhNQTBoT0xVQ0JqQkNaUEFJQ3JnUVlpVEZvQlc0bFFhTnU0b0l0ZGxBM01GN3lfQnFPU3ZfLWxTaVFmWWd5YldJYlQ2dXBvcTNIakRxUmxRVmNQeXZGQkYyc2lackdmSl9KNUdIVFlHbEd2TnhSazI1YkhzU1BONmFnaTU2Njk0bnFHc1Bzby1DaW1JYUF4UDYxTklwTEtVWktKczRaSXM?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 (재확인)",
+      "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축합니다.\n- 정확한 시행 시기는 아직 발표되지 않았습니다.\n- 여행 계획에 차질이 없도록 변경 사항을 주시해야 합니다.",
+      "full_translated": "VnExpress International에 따르면 태국은 무비자 체류 기간을 60일에서 30일로 단축할 예정입니다. 이는 여행 및 비자 정책의 중요한 변화이며, 태국 여행을 계획하는 사람들에게 영향을 미칩니다. 정확한 시행 날짜와 추가 세부 사항은 아직 발표되지 않았으므로, 변경 사항에 대한 최신 정보를 계속 확인하는 것이 중요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여합니다. 이미 게시된 뉴스이지만, 변동사항이 있을 수 있으므로 재확인 차원에서 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
+          "url": null,
+          "source": "VnExpress International"
+        }
+      ],
+      "collected_at": "06:45",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국, 중국인 관광객 다시 유치 노력, 일본 인기 하락 속 기회 포착",
+      "summary": "- 태국이 일본의 인기 하락을 틈타 중국인 관광객 유치에 적극적으로 나서고 있습니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "Travel And Tour World에 따르면, 태국은 일본의 인기 하락을 틈타 중국인 관광객을 다시 유치하기 위해 노력하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국인 관광객 유치 노력은 태국 여행 시장에 영향을 미치므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Why Thailand is Reclaiming Chinese Tourists as Japan’s Popularity Plummets - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFJPU0N2dVRzeGNSd21rYXFIVnd1VHpsVU1aRXI0STJyNEM4NklVOXJfNlBQbjRrOUIzSEM1UTJYcjVRWktubVA2MTM1bXNXTDdCMnhEMnFUb05KS0JSLUNUVklVVlNtSEtxMm1weWwtSkhWY0pJSnVNZTNaTUhFN1I3SGx3RkFUdlFnN0g5M2UwemVWN3l2Q0JPc0xRckd3c0Q2M2NrT0w2ak9rNnRwVjZlM05nV3ZyMVlObnZjVQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "중국, 새해 여행 목적지로 태국 주목",
+      "summary": "- 중국인 여행객들이 새해를 맞아 태국 여행을 선호하는 추세입니다.\n- 태국은 중국인 여행객에게 인기 있는 여행지 중 하나입니다.\n- 자세한 내용은 MSN에서 확인하세요.",
+      "full_translated": "중국, 새해 여행 목적지로 태국 주목  MSN",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "새해를 맞아 태국을 방문하는 중국인 관광객 증가 추세는 태국 여행 관련 비즈니스에 영향을 미칠 수 있으며, 여행 준비에 참고할 만한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese target Thailand for New Year travel - MSN",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmh0dFh3TzJlOElxbG1QcTJmdk1ocVZhY3ZjdXdvczMwc2k1UnpKV0FQUlBEOGl5ZENuTGxqVklBZGQ3V3I2LTV0dUtnUnJ3OXhLb2pvMlBRc2g2bUIyQ0ttRGZRYXdMejhyZElhQ0p0TlNsVVJIR0FqM0pjQTNJeHFEQVhzTUg1WlpqdkRtQV93MzRPaUZF?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-15"
     }
