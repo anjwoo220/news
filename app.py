@@ -2458,7 +2458,31 @@ def render_tab_tour():
             ai_result = utils.recommend_tours(who_label, style_labels, budget_label, region=selected_region, language=current_lang)
         
         if ai_result and ai_result.get("recommendations"):
-            st.session_state["tour_recommendations"] = ai_result["recommendations"]
+            recs = ai_result["recommendations"]
+            st.session_state["tour_recommendations"] = recs
+            
+            # [NEW] Translation Persistence Logic
+            if current_lang == 'English':
+                updated_any = False
+                for r in recs:
+                    r_id = r.get("tour_id")
+                    r_name_en = r.get("tour_name_en")
+                    r_pros_en = r.get("pros_en")
+                    
+                    if r_id:
+                        # Find match in master list
+                        master_tour = next((t for t in TOURS if str(t.get('id', '')) == str(r_id)), None)
+                        if master_tour:
+                            # Update missing fields
+                            if not master_tour.get('name_en') and r_name_en:
+                                master_tour['name_en'] = r_name_en
+                                updated_any = True
+                            if not master_tour.get('pros_en') and r_pros_en:
+                                master_tour['pros_en'] = r_pros_en
+                                updated_any = True
+                
+                if updated_any:
+                    utils.save_tours(TOURS) # Sync to Local & GSheet
         else:
             st.session_state["tour_recommendations"] = None
             st.warning(utils.t("tour_fail"))
