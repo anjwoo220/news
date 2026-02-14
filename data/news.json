@@ -11811,14 +11811,9 @@
       "summary": "- 태국이 중국 설 연휴 기간 동안 중국인 관광객 유치를 위한 특별 캠페인을 시작했습니다.\n- 'Zhong Tai Yi Jia Qin' 캠페인은 양국 간 우호 관계를 강조하고 있습니다.\n- 비자 관련 정보는 VisaHQ에서 확인할 수 있습니다.",
       "full_translated": "태국이 중국 설맞이 여행객 유치를 위해 'Zhong Tai Yi Jia Qin' 캠페인을 시작했습니다. 자세한 내용은 VisaHQ에서 확인하세요.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중국 설 연휴 기간 동안 태국을 방문하는 여행객에게 유용한 정보이므로 포함. 여행 편의 증진 캠페인.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Launches “Zhong Tai Yi Jia Qin” Campaign to Court Chinese New-Year Travelers - VisaHQ",
@@ -11827,9 +11822,11 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDJOczBwc0E2VUFib25DMXIyZGxIMEx4R0c5VVZDOG14MFVUa0VGa2tnSmY5by05MXo1TWR2bWJuSnBUX193Z0FsbXo0SFQ3RFJKc3NIamVReFFOa3hydnZsVDdOTXN5RGlOc0RGRUxIZ29hYi1wNTdlSEpjakYzelhVVmlKQ29zVkxCYkhBa1FPWjR3TzhpYU50TGFtXzNsWGc4anFvTkVLbjNCT0NNRlJZeXlaTk1ZOHZBTVFOWEtCUm1X?oc=5",
+      "source": ""
     }
   ]
 }
