@@ -10745,14 +10745,9 @@
       "summary": "- 태국에서 22세 영국인 관광객이 상점에서 물을 사던 중 흉기에 찔리는 사건 발생.\n- 충격적인 사건에 쇼핑객들은 공포에 질려 도망쳤습니다.\n- 현재 경찰은 용의자를 추적 중이며, 관광객의 상태는 아직 알려지지 않았습니다.",
       "full_translated": "태국에서 22세 영국인 관광객이 상점에서 물을 사던 중 흉기에 찔리는 사건이 발생했습니다. 쇼핑객들은 공포에 질려 도망쳤으며, 경찰은 용의자를 추적 중입니다. 피해자의 상태는 아직 알려지지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "여행객 안전에 직접적인 위협이 되는 심각한 범죄 사건이므로 높은 점수를 부여합니다. 특히 외국인 대상 범죄는 여행 심리에 큰 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국 내 상점 (구체적인 위치는 미상)",
-        "price": null,
-        "location_google_map_query": "태국 상점"
-      },
+      "event_info": "{'date': None, 'location': '태국 내 상점 (구체적인 위치는 미상)', 'price': None, 'location_google_map_query': '태국 상점'}",
       "references": [
         {
           "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - The Sun",
@@ -10763,21 +10758,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYld2TGVaT21Fc0FjanVkNUZpa3VjZG9wX3Z1YWVVcnhmWVVDTTNTVUd5OThlWkpseGNqdE9BUVRqR2wwaU9LZE9nUTU3SXB1YzA3RjJuSUE2V1pwQ05BV0JvNXJMdDEwaHdZLUdDMDZFTlFXWVFZclV5RGd1Wlo0UHNmNVZpRVprUFE?oc=5",
+      "source": ""
     },
     {
       "title": "싱가포르, 비자 수수료 인상 및 새로운 입국 규정으로 인해 태국, 필리핀, 베트남, 브루나이를 앞지르다",
       "summary": "- 싱가포르가 비자 수수료 인상 및 새로운 입국 규정 시행으로 주변국 관광 예산에 영향을 미칠 것으로 예상됨.\n- 2026년부터 시행될 변경 사항에 대한 여행객들의 주의가 필요함.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "Travel And Tour World에 따르면, 싱가포르가 비자 수수료 인상과 새로운 입국 규정으로 인해 태국, 필리핀, 베트남, 브루나이를 앞지르고 있습니다. 2026년부터 시행될 새로운 규정은 여행객들의 예산과 여행 계획에 영향을 미칠 수 있으므로 주의가 필요합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 및 입국 규정 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 2026년부터 시행 예정이지만, 미리 정보를 제공하여 여행 계획에 차질이 없도록 하는 것이 필요함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Singapore Beats Thailand, Philippines, Vietnam and Brunei with Booming Visa Fees Take Over Tourists Budget and New Immigration Rules Putting Travellers in Stress in 2026: What You Need to Know - Travel And Tour World",
@@ -10788,21 +10780,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNW9ST21pWHFsREJJdmJ6YkRaZUdCU09CSTZVbHU0aHctd1RNSzJReDRsYTl2RWxZS3JsSXJSUzJaRFVsbWZwd21BOGlFd1pWN3RnRWN5RmFpVkU2SVJ2SUNLZmtUbGlCSm8wdnBXVFRVWV9aSmdUMjROWXJKY1JIS1pHb1VNWG1oV1A2cHZiS1pSQ2FmNjBGcXBBZjRtNmZXYUR6Ym1EQlF5UmdQV2x5cHVfOGJvdi1EWnc5dEY0eXFuVWIzWDNSS2ZOYUxfaEIwMjNDWTM5eTRIUy1IX1NVTXYyQ3hNLUtlX2xKWlhSU1hWdk10OTdaWEo5aE41NVB4MDNsejFsOWVNOGZSMVJwZW16QktSalgtWWpzWmNFSjVFMzNaRmVZLTVJSkkwMk5pYVZhcEpUSG9EenRKX0J2QWRRTnpTQ29FbXlrVk9jMUktOUxDZWFpQjFn?oc=5",
+      "source": ""
     },
     {
       "title": "미라클 라운지, 핌 피타-코이 아랏차폰 무단 촬영 사과 및 직원 징계 발표",
       "summary": "- 미라클 라운지, 핌 피타와 코이 아랏차폰의 무단 촬영 사건에 대해 공식 사과 성명 발표.\n- 관련 직원에 대한 엄중한 징계 조치 시행 결정.\n- 고객의 사생활 보호를 최우선으로 하며, 재발 방지를 위해 내부 규정 강화할 것을 약속.",
       "full_translated": "미라클 라운지가 핌 피타와 코이 아랏차폰의 무단 촬영 사건에 대해 공식 사과 성명을 발표하고 관련 직원에 대한 엄중한 징계 조치를 시행할 것이라고 밝혔습니다. 이번 사건은 고객의 사생활을 침해한 심각한 문제로, 회사 측은 깊이 반성하고 있으며, 앞으로 이러한 일이 재발하지 않도록 내부 규정을 강화하고 직원 교육을 철저히 할 것을 약속했습니다. 미라클 라운지는 고객의 사생활 보호를 최우선으로 생각하며, 앞으로 더욱 신뢰할 수 있는 서비스를 제공하기 위해 최선을 다할 것이라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "유명인이 연루된 사건이지만, 여행객 안전이나 편의에 직접적인 영향은 없음. 다만, 공공장소에서의 사생활 보호에 대한 인식을 환기시키는 계기가 될 수 있다는 점에서 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "미라클 라운지",
-        "price": null,
-        "location_google_map_query": "Miracle Lounge"
-      },
+      "event_info": "{'date': None, 'location': '미라클 라운지', 'price': None, 'location_google_map_query': 'Miracle Lounge'}",
       "references": [
         {
           "title": "“มิราเคิล เล้าจน์” ร่อนแถลงขออภัย “ทิม พิธา-ก้อย อรัชพร” สั่งลงโทษพนักงานแอบถ่าย",
@@ -10813,21 +10802,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8t9Wkq9iVed.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/society/2914253",
+      "source": ""
     },
     {
       "title": "프아타이당, 품차이타이당 주도 연립 정부 구성 지지 (갱신)",
       "summary": "- 프아타이당의 총리 후보인 Yodchanan Wongsawat이 품차이타이당이 주도하는 연립 정부에 참여하기로 한 결정에 대해 지지자들에게 사과함.\n- 당내 협의 결과, 당원 대다수가 연립 정부에 참여해야 한다는 결론을 내렸다고 밝힘.\n- 그는 이번 결정이 정부를 이끌고 정책적 성과를 달성해 온 당으로서 어려운 결정이었다고 인정하며 지지자들의 이해를 구함.",
       "full_translated": "프아타이당 총리 후보인 Yodchanan Wongsawat이 품차이타이당이 주도하는 연립 정부에 참여하기로 한 결정에 대해 불편함을 느끼는 지지자들에게 사과했습니다. 그는 토요일 자신의 페이스북 페이지에 글을 올려 프아타이가 나아가야 할 방향에 대해 당 지지자들과 대중이 나뉘어져 있음을 인정했습니다. 내부 심의, 협의 및 당원들의 의견을 고려한 결과, 당내 대다수는 프아타이가 연립 정부에 참여해야 한다는 결론을 내렸다고 밝혔습니다. Yodchanan 씨는 품차이타이에 대한 지지를 선언한 결정이 정부를 이끌고 널리 인정받는 정책적 성과를 달성해 온 당으로서는 어려운 결정이었다고 인정했습니다. 그는 \"이번 결정에 대해 불편함을 느끼는 모든 분들께 진심으로 사과드립니다. 모든 의견을 읽고 들었으며 모든 관점을 존중합니다.\"라고 말했습니다. 지난 주 동안 그는 다양한 그룹 및 당 팀과 논의에 참여했다고 밝혔습니다. 대부분은 세계적 및 국내적 맥락이 크게 변화했으며 이번 선거의 정치적 요인이 복잡하다는 데 동의했습니다. 2월 8일 투표에서 당의 실망스러운 성과를 되돌아보며 그는 정치적 관리와 다양한 형태의 자원 사용이 중요한 역할을 했다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 상황 변화에 대한 정보 제공. 여행 자체에 직접적인 영향은 적으나, 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Yodchanan defends difficult decision to join coalition",
@@ -10838,21 +10824,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197354_700.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.bangkokpost.com/thailand/politics/3197354/yodchanan-defends-difficult-decision-to-join-coalition",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 2월 15일까지 투표 불참 사유 신고 마감일 경고",
       "summary": "- 태국 선거관리위원회는 투표 불참 사유 신고 마감일을 2월 15일로 재차 강조하며 미신고 시 권리 제한 가능성을 경고했습니다.\n- 2026년 2월 8일 총선 및 국민투표 불참자는 2월 15일까지 불참 사유를 신고해야 합니다.\n- 신고는 선관위 웹사이트, 관할 구청 방문, 우편 접수 등 3가지 방법으로 가능합니다.",
       "full_translated": "태국 선거관리위원회는 투표 불참 사유 신고 마감일을 상기시키며, 미신고 시 권리 제한을 받을 수 있다고 경고했습니다. 2026년 2월 14일 17시, 선거관리위원회는 2026년 2월 8일 일요일 총선 및 국민투표에 불참한 유권자, 그리고 2026년 2월 1일 일요일에 사전투표를 신청하고 투표하지 않은 유권자들에게 2026년 2월 15일까지 불참 사유를 신고할 것을 촉구했습니다. 불참 사유 신고는 3가지 방법으로 가능합니다: 1. 선거관리위원회 웹사이트(www.ect.go.th) 또는 행정부 웹사이트, '탕 랏' 앱, Smart Vote 앱을 통해 온라인으로 신고하거나, '쨍 헤 깟 르왁 탕 쏘 쏘' 또는 '쨍 헤 깟 억 씨앙 쁘라차무티 (판 라봅 므트 흐 르 컴피우떠)'를 검색하여 신고할 수 있습니다. 2. 증빙 서류를 지참하여 직접 관할 구청에 제출합니다. 3. 증빙 서류와 함께 등기 우편으로 발송합니다. 유권자는 위임장을 작성하여 다른 사람이 대신 제출하도록 할 수도 있습니다. 불참 사유를 신고하지 않으면 총선 또는 국민투표일로부터 2년간 권리가 제한됩니다. 제한되는 권리는 2018년 총선거법 35조에 명시되어 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "투표 관련 정보는 여행객에게 직접적인 영향은 없으나, 태국 정치 상황에 대한 간접적인 이해를 도울 수 있습니다. 다만, 마감일 정보이므로 중요도는 낮다고 판단됩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. เตือน 15 ก.พ. วันสุดท้ายอย่าลืมแจ้งเหตุไม่ไปใช้สิทธิเลือกตั้ง - ออกเสียงประชามติ",
@@ -10863,6 +10846,106 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8aGpVOCx8gX.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/politic/2914257",
+      "source": ""
+    },
+    {
+      "title": "영국 관광객, 태국 휴가 중 투옥 경고 직면",
+      "summary": "- 페이스북에서 공유된 정보에 따르면, 태국 여행 시 특정 행위로 인해 영국 관광객들이 투옥될 위험에 처할 수 있습니다.\n- 정확한 위반 사항은 명시되지 않았지만, 태국 법률 및 문화에 대한 주의가 필요합니다.\n- 여행 전 관련 정보를 확인하고 현지 법규를 준수하는 것이 중요합니다.",
+      "full_translated": "페이스북에서 공유된 정보에 따르면, 태국 휴가 중인 영국 관광객들이 특정 행위로 인해 투옥될 위험에 처할 수 있다는 경고가 나왔습니다. 자세한 내용은 페이스북에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 시 발생할 수 있는 법적 문제에 대한 경고는 여행객의 안전과 직결되므로 중요합니다. 투옥 가능성은 심각한 영향을 미칠 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UK Tourists face prison warning over Thai holidays 👇 - Facebook",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNkJiS1prR0lJaTBIZEQ5TmNVT1QwN2dhSFNFWUNZMDcyczRVTzFXMnpSZHd4NzBQOXFSY1BoX0ZzakFGT1ZPNXBHNVozbVY0XzhzSzMweWVXek03czBpR2UtanlJdjNnRUl0RkJoc2NuSXllMFBCNlZMZmVPMWpPRzZQNk5TREp2anRZWTJJVFdTMXJNSUJPRTV3YnQ3bVVPZ0JrOVlxLUExU04tbV9Mek9EY0VLR1FR?oc=5",
+          "source": "Facebook",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "Tourist throws sex worker to the ground - News.com.au",
+      "summary": "- 관광객이 성매매 여성을 바닥에 내던지는 사건이 발생했습니다.\n- 자세한 내용은 뉴스 기사를 참고하십시오.\n- 사건 경위는 아직 조사 중입니다.",
+      "full_translated": "관광객이 성매매 여성을 바닥에 내던지는 사건이 발생했습니다. 자세한 내용은 뉴스 기사를 참고하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 관련 범죄 사건이므로, 여행 안전에 대한 우려를 야기할 수 있어 높은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourist throws sex worker to the ground - News.com.au",
+          "url": "https://news.com.au",
+          "source": "News.com.au"
+        }
+      ],
+      "collected_at": "20:26",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 중국인 관광객 선호도 1위 재탈환 - 일본의 인기 하락",
+      "summary": "- 태국이 중국인 관광객들에게 가장 인기 있는 여행지로 다시 부상했습니다.\n- 일본은 과거 선호도 1위였으나, 현재 태국에 밀려났습니다.\n- 이 변화는 여러 요인에 기인한 것으로 분석됩니다.",
+      "full_translated": "태국이 중국인 관광객 선호도에서 1위를 탈환했습니다. Business Times",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국인 관광객 유입 증가는 태국 관광 산업에 긍정적인 영향을 미치며, 관련 정보를 제공하는 것이 유용하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand reclaims top spot for Chinese tourists as Japan loses favour - The Business Times",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRmFEWHhsQzRYT1pQR3JzbTB0REstVlZDamRJck5PSUR3WWlSX291N2dJcnAzdjRSLTJRWEZnaVV4SmZ3TmhQcDI1cjNXR1JNTll4b1lHRDlOdFZ2cEctTHlvV2pPeWlGLTR6WFplTG1HTDBIbF9yREVkNlNVazZMUktrNWZXZjNSbE1OTGdrN0F1aW5YVndKaE1md1VLY19JYkFTb2l6cWxxUFRCSGc?oc=5",
+          "source": "The Business Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "총선 부정 의혹 시위 발생, 선거관리위원회 재검표 요구",
+      "summary": "- 방콕에서 '자유 시민' 그룹이 총선 재검표를 요구하는 시위를 벌였습니다.\n- 이들은 선거관리위원회의 투명성 부족을 주장하며 전국적인 재검표를 요구하고 있습니다.\n- 촌부리 지역 선거구의 선거 부정 의혹에 대해 상원 위원회가 선거관리 책임자를 소환할 예정입니다.",
+      "full_translated": "방콕에서 '자유 시민' 그룹이 선거관리위원회를 대상으로 총선 재검표를 요구하는 시위를 개최했습니다. 이들은 선거의 투명성을 입증하기 위해 전국적인 재검표를 요구하고 있습니다. 한편, 상원 정치 발전 위원회는 촌부리 1구 선거구의 선거 부정 의혹에 대해 2월 17일 촌부리 선거관리 책임자를 소환하여 해명을 요구할 예정입니다. 2월 14일 오후 5시, 방콕 예술문화센터 앞에서 '자유 시민' 그룹과 '촌부리 재검표 그룹'이 이스리야 차이몬트리, 티라멧 차이부트 등의 주도하에 선거관리위원회의 불투명한 선거 관리에 항의하는 시위를 개최했습니다. 이들은 2069년 총선이 불투명하게 진행되었다며 국민의 의견을 무시했다고 주장했습니다. 시위대는 바코드 및 QR코드와 관련된 투표 용지에 대한 의혹을 제기하며 선거 과정의 불투명성을 지적했습니다. 또한, 선거관리위원회가 70억 바트 이상의 예산을 사용했음에도 불구하고 국민들이 신뢰하지 않는 선거 결과를 초래했다는 비판도 있었습니다. 시위는 질서정연하게 진행되었으며, 경찰이 안전을 유지했습니다. 칸타팟 마트반테우는 이번 활동이 선거관리위원회의 불공정한 선거로 인해 발생한 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "선거 관련 시위가 여행객에게 직접적인 위협이 되지는 않지만, 정치적 불안정은 주의를 요하므로 중간 점수 부여. 시위 장소와 시간을 명시하여 여행자가 해당 지역 방문을 피하도록 정보 제공.",
+      "event_info": {
+        "date": "2024-02-14",
+        "location": "방콕 예술문화센터 앞",
+        "price": "무료",
+        "location_google_map_query": "방콕 예술문화센터"
+      },
+      "references": [
+        {
+          "title": "“พลเมืองอิสระ” จี้ กกต.นับคะแนนใหม่-กมธ.สว. จ่อเรียก ผอ.กกต.ชลบุรี แจง 17 ก.พ. นี้",
+          "url": "https://www.thairath.co.th/news/politic/2914262",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BHFZWupZe9Oa.jpg"
+        }
+      ],
+      "collected_at": "20:26",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BHFZWupZe9Oa.jpg",
       "date": "2026-02-14"
     }
   ]
