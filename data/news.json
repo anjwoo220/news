@@ -11965,14 +11965,9 @@
       "summary": "- 영국 외무부, 2026년부터 시행될 새로운 해외 여행법에 따라 태국 여행객 대상 감옥행 경고 발표.\n- 구체적인 법규 내용은 언급되지 않았으나, 태국 내 법규 위반 시 엄격한 처벌 가능성 시사.\n- 여행 전 최신 여행 규정 확인 및 준수 필요.",
       "full_translated": "영국 관광객이 태국 휴가 중 감옥에 갈 수 있다는 경고가 나왔습니다. Travel And Tour World에 따르면 영국 외무부는 2026년부터 새로운 해외 여행법을 시행할 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행 관련 법규 변경 가능성 및 잠재적 처벌 경고는 여행객 안전에 영향을 미칠 수 있으므로 높은 점수 부여. 비자 관련 사항은 아니지만, 주의가 필요함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "UK Tourists Face Prison Warning: New Foreign Office Travel Laws for 2026 - Travel And Tour World",
@@ -11981,23 +11976,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:14",
+      "collected_at": "5:14",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWwxc3c3OGdjMlM0OGNIa2wyQXJJc3BfVXdzUDhrTjRtbWNSbG54VXo4VExWMGV0dHcyREFiNTE0X1N5cnJocUxXLVJSQlpROU9HV1ZJUlNuUW1PSU5uNGpxOHVHbWZXTlJRRGJfZF9YRFMtcWZYUzRfdnZkd1BFZjlpd3k5VEotcG01RU1wdFZzQ2VWbUJMc2tHOXhvTGgtMW91dS1xNWVVWjdqRV8wR3lDNzgwTUo5U21DbQ?oc=5",
+      "source": ""
     },
     {
       "title": "촌부리에서 열리는 카오치찬 축제에서 태국의 풍부한 문화를 경험하세요",
       "summary": "- 촌부리에서 열리는 카오치찬 축제는 태국의 풍부한 문화적 아름다움을 선보입니다.\n- 전통, 예술, 정신의 세계로 여행을 떠날 수 있습니다.\n- Travel And Tour World에서 상세한 정보를 확인할 수 있습니다.",
       "full_translated": "촌부리에서 열리는 카오치찬 축제에서 태국의 풍부한 문화적 아름다움을 경험하세요. 전통, 예술, 정신의 세계로의 여행을 떠나보세요. Travel And Tour World",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행객에게 문화 체험 기회 제공, 축제 정보는 여행 계획에 유용",
-      "event_info": {
-        "date": null,
-        "location": "Khao Chi Chan, Chonburi",
-        "price": "정보 없음",
-        "location_google_map_query": "Khao Chi Chan, Chonburi"
-      },
+      "event_info": "{'date': None, 'location': 'Khao Chi Chan, Chonburi', 'price': '정보 없음', 'location_google_map_query': 'Khao Chi Chan, Chonburi'}",
       "references": [
         {
           "title": "Unveil the Rich Cultural Splendor of Thailand at the Spectacular Khao Chi Chan Festival in Chonburi With A Journey into Tradition, Art, and Spirituality - Travel And Tour World",
@@ -12005,7 +11997,85 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "05:14",
+      "collected_at": "5:14",
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOXzN3M3hDajdKOWJUaFZ3LTBiOXlkRW1wdEZ6UWdnX0l5MlBIQVNHQnhuaDlTQm02VUE4bkVlbExtWFN1S01BdDhnSmd6NkFIZ0xsSkdaRmtqanFpbW0zeUExdS1RX3NKWWVWMWp3QVdZS3RDQS1pTk1DS05DYlBudlE3NER5d1BSOURlSjdaelM2eVdmbGNYVldwYks0OUloVzJRS29EVU1qNV81ZkFYZndMaE5FdXRLZEZ5TFcxdVhONjhONFJjMXd0QW8xbUtiaEZPVVdJb0FoWmhmbXFDWXozeDhscC1LMzNkZ252eWN3aWNhcTdkZlN5M1hUQjlGeVVNcElHU2lBNU54ejN4a2wyQnItU1ZRZTlreXlrWldaZXFiWUE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년부터 새로운 비자 규정, 장기 체류 옵션 및 디지털 도착 시스템 도입",
+      "summary": "- 태국이 2026년부터 새로운 비자 규정을 도입하여 여행이 더욱 간편해질 예정입니다.\n- 장기 체류 옵션과 디지털 도착 시스템이 모험을 즐기는 여행객에게 제공됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "2026년에 태국을 더욱 편안하게 탐험하세요: 새로운 비자 규정, 장기 체류 옵션 및 디지털 도착 시스템이 모험을 추구하는 사람들을 위해 제공됩니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 중요한 정보이며, 장기 체류 옵션은 특정 여행객에게 큰 영향을 미칠 수 있습니다. 2026년 시행 예정이지만, 미리 정보를 제공하는 것이 유용하다고 판단했습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Explore Thailand Effortlessly in 2026: New Visa Rules, Long-Stay Options, and Digital Arrival System for Adventure Seekers - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkFwWlFEUmRwcG1yWkdxR04yNlVlLXBoVnFKeXZZQ1dDeVlkR0xCT0x4NFB0bC1WT1pDOENGRWxocS1CaVFWcUp4QVlpUWVTNUdXNjJTQVZiaG12YmdHckNaX2VlREtEelBvVFJQa192S19rcWFRVXBPc29wTlJjYVpITWM0c19HVDNHUXpLblFVRDYwVGliWlVlaGRpZDZDZV9ESExsdjhJRkUwNVc2MGliSW5LXzFkX2NXcUItcmRaam9TNkY5alN3MG14QWFndTVBU09YdkpDb29PZE5SZENtSUxEN04xaEx2cGRyQ1oza3hYcWt1OExQX0o?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "쿠바, 에너지 위기로 연례 시가 축제 취소",
+      "summary": "- 쿠바가 에너지 위기로 인해 연례 시가 축제를 취소했습니다.\n- 미국이 베네수엘라로부터의 석유 공급을 차단한 것이 원인입니다.\n- 쿠바는 연료 부족, 정전, 항공편 중단 등의 어려움을 겪고 있습니다.",
+      "full_translated": "쿠바가 에너지 위기 심화로 인해 연례 시가 축제를 취소했습니다. 외신 보도에 따르면, 미국이 베네수엘라로부터의 석유 공급을 막은 후 쿠바는 심각한 에너지 부족에 직면해 있으며, 이로 인해 하바나에서 열리는 연례 시가 축제가 취소되었습니다. Festival del Habano 조직위원회는 2월 말에 5일간 열릴 예정이었던 올해 행사가 추후 공지가 있을 때까지 연기될 것이라고 발표했습니다. 위원회는 이러한 결정이 미국에 의한 '경제, 무역 및 금융 봉쇄'로 인해 쿠바가 겪고 있는 '복잡한 경제 상황' 때문이라고 밝혔습니다. 이전에는 쿠바가 베네수엘라로부터 하루 약 35,000 배럴의 원유를 공급받았지만, 미국은 니콜라스 마두로를 체포한 이후 쿠바로의 석유 공급을 차단했습니다. 이로 인해 쿠바에서는 일일 정전이 심화되어 하루에 최대 18시간까지 정전이 발생하고 있으며, 병원 응급실, 투석 환자, 펌프장 등에 영향을 미치고 있습니다. 쿠바는 또한 항공 연료 부족을 겪고 있어 여러 항공사가 쿠바행 항공편을 중단했으며, 일부 국가에서는 불필요한 여행을 자제하라는 경고를 발표했습니다. 도널드 트럼프 미국 대통령은 쿠바 지도자들에게 '합의'를 촉구하며, 그렇지 않으면 결과를 감수해야 할 것이라고 경고했습니다. 쿠바 시가는 세계적으로 유명합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "쿠바 여행에 영향을 미칠 수 있는 항공편 중단 가능성 및 여행 경고에 대한 정보 포함. 태국 여행객에게 직접적인 영향은 적으나, 관련 정보 제공 가치 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คิวบาระงับเทศกาลซิการ์ประจำปี หลังวิกฤตพลังงานทรุดหนัก",
+          "url": "https://www.thairath.co.th/news/foreign/2914290",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DdxEGwpP80zG.jpg"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DdxEGwpP80zG.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "Bhumjaithai, 정부 구성 협상 난항",
+      "summary": "- Bhumjaithai당이 Pheu Thai당의 지지를 받아 정부 구성에 나섰으나, Klatham당과의 협상에서 난항을 겪고 있음.\n- Klatham당은 58석을 보유하고 있으며, 농업협동조합부 장관 자리를 요구하고 있어 협상에 어려움이 발생.\n- Bhumjaithai당은 농업 생산 정책과 수출 전략을 연계하기 위해 해당 부처를 확보하려 하고 있으며, Suphajee Suthumpun을 부총리로 임명하여 상무부와 농업 정책을 감독하도록 제안.",
+      "full_translated": "Bhumjaithai(BJT)당은 Pheu Thai당의 74석 의원들이 정부 구성에 필요한 과반수를 확보하기 위한 노력에 지지를 표명한 후, 새로운 연립 정부를 구성하기 위한 노력의 일환으로 Klatham당과 협상을 시작했습니다. BJT는 193석을 보유하고 있습니다. Pheu Thai당의 74석 의원과 총 9석을 가진 7개의 소규모 정당의 지원을 합하여, 당은 연립 추진을 위해 약 276표를 확보했습니다. 58석의 Klatham당은 주요 남은 파트너로 부상했으며, 이들의 참여는 연합을 더욱 강화할 수 있습니다. Klatham당이 합류하면 BJT 주도 연립은 하원에서 334표를 확보하게 됩니다. 그러나 BJT와 Klatham당 간의 회담은 특히 농업협동조합부 통제권을 두고 긴장에 직면했습니다. BJT는 농업 생산 정책을 상무부 산하의 수출 전략과 연계하는 것을 목표로 할당량의 일부로 해당 부처를 확보하려고 합니다. 당은 Suphajee Suthumpun을 부총리로 임명하여 상무부를 감독하고 농업 정책을 감독하여 생산과 수출 간의 조정을 보장할 것을 제안했습니다. 소식통은 \"BJT는 이러한 합의가 정책 일관성을 강화하고 태국의 경제 경쟁력을 강화할 것이라고 믿고 있습니다.\"라고 말했습니다. Klatham당 수석 고문인 Capt Thamanat Prompow는 당의 농업협동조합부 장관직 요구를 포기하는 것을 거부한 것으로 알려졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정부 구성 관련 정치 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Bhumjaithai coalition talks hit snag",
+          "url": "https://www.bangkokpost.com/thailand/politics/3197423/bhumjaithai-coalition-talks-hit-snag",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197423_260215052152_700.jpg"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197423_260215052152_700.jpg",
       "date": "2026-02-15"
     }
   ]
