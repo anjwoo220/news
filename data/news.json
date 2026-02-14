@@ -10195,14 +10195,9 @@
       "summary": "- 파타야 관광 경찰과 촌부리 이민국은 합동으로 해변 지역을 단속하여 성매매 관련 용의자 20명을 체포함.\n- 체포된 사람들은 주로 우간다를 포함한 아프리카 국가 출신의 외국 여성들임.\n- 외국인 관광객들은 성적 서비스 제안에 충격을 받았다는 불만을 제기했으며, 이는 파타야의 관광지로서의 명성을 훼손한다고 지적함.",
       "full_translated": "파타야 관광 경찰 2지구 4분과장 Prabda Suksunthee 중령과 촌부리 지방 이민국 Kittiphat Hongchuwej 이민 감사관의 지휘 하에 파타야 관광 경찰과 촌부리 이민국은 해변 지역을 급습했습니다. 이번 작전으로 성매매에 연루될 위험이 있는 용의자 20명이 구금되었습니다. 대부분은 우간다와 같은 아프리카 국가 출신의 외국 여성이었습니다. 단속은 노골적인 옷차림을 한 태국 및 외국 여성으로부터 성적 서비스를 제안받고 충격을 받았다는 외국인 관광객들의 수많은 불만에 따른 것입니다. 이러한 행동은 최고의 관광지로서의 파타야의 명성을 심각하게 훼손한다고 합니다. 일부 관광객으로 변장한 경찰관들은 감시를 실시하고 파타야 해변을 따라 보도에 서 있는 사람들을 관찰했습니다. 이 여성들은 외국인 방문객과 대화를 시작하고 가격을 협상하며 성적인 만남을 제안한 것으로 알려졌습니다. 어떤 경우에는 수색 결과 콘돔과 윤활제가 발견되어 증거물로 압수되었습니다. 구금된 모든 사람들은 처음에는 혐의를 부인했습니다. 당국은 개인 문서를 확인하고, 프로필을 기록하고, 추가 조사를 위해 진술을 받았습니다. 범죄를 저지른 것으로 밝혀진 사람들은 관련 법률에 따라 즉각적인 법적 조치를 받게 됩니다. 혐의에 대한 증거가 불충분한 경우, 경찰관은 기록을…",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변에서 외국인 대상 성매매 단속은 관광객 안전 및 파타야 이미지에 영향을 미칠 수 있으므로 게시. 범죄 관련 뉴스이므로 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': 'Pattaya Beach'}",
       "references": [
         {
           "title": "Pattaya Police and Immigration Officers Crack Down on Suspected Prostitution Along Beachfront, 20 Mostly Foreign Women Arrested",
@@ -10213,21 +10208,18 @@
       ],
       "collected_at": "16:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_1622505787966189963010949.jpg?v=1771061215",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/pattaya-police-and-immigration-officers-crack-down-on-suspected-prostitution-along-beachfront-20-mostly-foreign-women-arrested/",
+      "source": ""
     },
     {
       "title": "태국, 중국 설 맞아 관광 캠페인 및 전국 행사 개최",
       "summary": "- 태국이 중국 설을 맞아 관광 캠페인을 시작하고 전국적인 행사를 개최합니다.\n- 이는 관광 산업을 활성화하고 경제 성장을 촉진하기 위한 노력의 일환입니다.\n- 다양한 문화 행사와 특별 프로모션이 진행될 예정입니다.",
       "full_translated": "태국은 중국 설을 맞아 관광 캠페인과 전국적인 행사를 개최합니다. 자세한 내용은 Nation Thailand에서 확인하세요.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국 설 기간 동안 태국을 방문하는 여행객들에게 유용한 정보이며, 다양한 행사 정보는 여행 계획에 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand marks Chinese New Year with tourism campaign and nationwide events - Nation Thailand",
@@ -10238,21 +10230,18 @@
       ],
       "collected_at": "16:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdlJjWGpMRktoenFXYkwwNDFoUHRodEVhelE4UVFHOXUxaXExSXhoeVJIcHRSZHFncjVkR0JpX2tiQVcweV9GRjBrc01hVDB4MXBiZ1haM010QTMwUWlBZXp3?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 핫팟 식당 앞 배수관에 갇힌 3m 비단뱀 구조",
       "summary": "- 파타야 인근 식당에서 3m 비단뱀이 배수관에 갇혀 구조 요청.\n- 구조대는 4시간에 걸쳐 콘크리트 덮개를 열고 뱀을 안전하게 구조.\n- 뱀은 부상 없이 포획되어 자연 서식지로 방생될 예정.",
       "full_translated": "파타야 뉴스에 따르면, 오늘 아침 7시경 촌부리 지역 핫팟 식당 앞에서 3미터 길이의 비단뱀이 배수관에 갇히는 사건이 발생했습니다. \"Tied Pot Suki Mala\" 식당 주인인 Rossukon Chitsaiyen(37세)은 가게를 열던 중 시멘트 덮개 배수관 입구에 뱀이 갇힌 것을 발견하고 구조를 요청했습니다. 뱀은 어른 팔뚝 굵기 정도였으며, 무거운 콘크리트 맨홀 덮개 아래 PVC 배수관에 몸이 꽉 끼어 있었습니다. 뱀의 머리는 파이프의 인접한 구멍에서 나왔고, 꼬리는 주 입구에서 튀어나와 구경꾼들을 놀라게 했습니다. 꼬리를 잡아당겨 뱀을 꺼내려는 초기 시도는 실패했습니다. 구조대는 마찰을 줄이기 위해 파이프에 물과 식용유를 부었지만 효과가 없었습니다. 거의 4시간의 노력 끝에 구조대는 도구를 사용하여 무거운 콘크리트 덮개를 들어 올렸습니다. 뱀의 머리를 특수 장비로 고정한 후 3미터 길이의 뱀을 안전하게 꺼냈습니다. 구조된 뱀은 자루에 담겨 주거 지역에서 떨어진 자연 서식지로 방생될 예정입니다. Rossukon은 직원들이 가게를 열자마자 뱀을 발견했다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "관광객에게 직접적인 위협은 아니지만, 파타야에서 흔히 볼 수 없는 상황이므로 흥미로운 지역 소식으로 간주. 안전 관련 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "Tied Pot Suki Mala restaurant, Pattaya",
-        "price": null,
-        "location_google_map_query": "Tied Pot Suki Mala Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Tied Pot Suki Mala restaurant, Pattaya', 'price': None, 'location_google_map_query': 'Tied Pot Suki Mala Pattaya'}",
       "references": [
         {
           "title": "Rescue Team Frees 3-Meter Python Trapped in Drain Pipe Outside Pattaya-Area Hot Pot Restaurant",
@@ -10263,21 +10252,18 @@
       ],
       "collected_at": "16:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771056053589-scaled.jpg?v=1771056221",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/rescue-team-frees-3-meter-python-trapped-in-drain-pipe-outside-pattaya-area-hot-pot-restaurant/",
+      "source": ""
     },
     {
       "title": "품차이타이당, 선거관리위원회의 선거 용지 바코드 문제에 대한 해명을 요구하며 정부 구성에 대한 입장 유지",
       "summary": "- 품차이타이당은 선거관리위원회가 선거 용지 바코드 문제에 대해 명확히 해명해야 한다고 강조함.\n- 2026년 2월 14일, 품차이타이당 대변인은 선거 결과 인증에 시간이 걸릴 수 있다고 언급하며, 당은 현재 정부 구성 절차를 기다리는 중이라고 밝힘.\n- 품차이타이당은 모든 당사자가 증거와 법률에 따라 행동해야 한다고 강조함.",
       "full_translated": "품차이타이당 대변인은 선거 용지 바코드 문제에 대한 해명을 선거관리위원회에 요구하며, 당은 정부 구성 과정에서 '선수'이지 '심판'이 아니라고 강조했습니다. 2026년 2월 14일, 우본랏차타니의 차기 국회의원인 낸 분야티다 솜차이는 품차이타이당 대변인으로서 현재 선거 후 시위로 인해 상황이 악화될 수 있는 정치적 상황에 대해 언급했습니다. 그녀는 주요 문제는 품차이타이당에 달려 있는 것이 아니라 선거관리위원회(선관위)가 언제 선거 결과를 인증할지에 달려 있다고 말했습니다. 2023년 선거와 비교했을 때, 선관위는 국회의원을 공식적으로 인증하는 데 36일이 걸렸습니다. 우리는 '선수'의 입장이므로 각 부분의 다음 단계를 기다려야 합니다. 선관위의 업무와 다른 부분, 또는 청원이 제출된 부분은 분리되어야 합니다. 우리는 차기 국회의원으로서 기다려야 하며, 지금은 아무것도 답변할 수 없습니다. 2023년 선거에서는 아무 일도 일어나지 않았지만, 선관위는 여전히 36일이 걸렸습니다. 최근 시위에 대한 우려에 대해 낸은 모든 사람이 적절하다고 생각하는 방식으로 자신의 의견을 표현할 권리가 있다고 말했습니다. 모든 사람이 똑같이 생각하는 것은 불가능하지만, 적어도 청원을 제출하거나 무엇을 결정하든 증거와 법률에 근거해야 합니다. 선거 용지의 바코드와 관련하여 행정법원이 사건을 접수하고 선거 결과 인증을 중단할 것을 요청한 사건에 대해 낸은 선관위가 설명해야 할 의무가 있다고 말했습니다. 그녀는 현재 우리 모두가 '선수'이며 '심판'이 아니며 선거 관리자가 설명해야 하며 우리는 기다려야 한다고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향을 미치는 정보는 아니므로 낮은 점수를 부여함. 정부 구성 관련 불확실성이 커질 경우 여행 심리에 영향을 줄 수 있으나, 현재로서는 제한적인 영향으로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ภูมิใจไทย ย้ำเป็นผู้เล่นไม่ใช่กรรมการ โยน กกต. แจงปม บาร์โค้ดบนบัตรเลือกตั้ง",
@@ -10288,21 +10274,18 @@
       ],
       "collected_at": "16:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH69ymMXtFbThkb.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/politic/2914239",
+      "source": ""
     },
     {
       "title": "태국 교도소, 원숭이두창 추가 감염자 없어 안전",
       "summary": "- 태국 교정국은 교도소 내 원숭이두창 추가 감염자가 없다고 발표했습니다.\n- 모든 교도소는 안전하며 질병 확산은 없는 것으로 확인되었습니다.\n- 지난 1월 20일, 새로운 수감자 1명이 고열 증세를 보였으나, 신속한 격리 및 통제 조치가 이루어졌습니다.",
       "full_translated": "태국 교정국은 원숭이두창 감염자가 추가로 발생하지 않았다고 밝혔습니다. 2069년 2월 14일, 교정국은 문서를 통해 다음과 같이 밝혔습니다. 톤부리 특별 교도소에 1월 20일부터 새로운 수감자 1명이 입소했는데, 이후 고열 증세를 보이고 발 부위에 괴사 증상이 나타나 교정 병원에서 치료를 받았습니다. 발 수술 준비 중, 수감자는 원숭이두창(Monkeypox: Mpox) 증상을 보여 배양 검사를 실시한 결과 원숭이두창으로 확인되었습니다. 따라서 감염 통제 부서는 즉시 고위험 수감자를 격리하고 교도소 내 질병 확산을 신속하게 통제하기 위해 버블 앤 씰 원칙에 따라 질병 통제 지침을 시행했습니다. 톤부리 특별 교도소는 2월 13일부터 교정 병원, 공중 보건부, 질병 통제국 등 관련 기관과 협력하여 감염을 면밀히 통제하고 예방해 왔습니다. 또한 톤부리 특별 교도소 수감자들의 이상 증상을 지속적으로 검사한 결과, 현재까지 원숭이두창 증상을 보이는 수감자는 없는 것으로 확인되었습니다. 교정국은 질병 통제국과 협력하여 교도소 내 위험을 줄이기 위해 수감자와 직원에게 백신을 신속하게 접종할 예정입니다. 또한 모든 교도소는 공중 보건부 질병 통제국의 지침에 따라 교정국이 명령한 원숭이두창(MPox) 진단, 치료 및 예방 지침을 엄격히 준수하고 있습니다. 모든 교도소는 안전하며 질병 확산은 없을 것이라고 재차 강조합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 교도소 내 원숭이두창 발생 관련 뉴스이나, 추가 감염자 없고 통제되고 있다는 내용이므로 관광객에게 미치는 영향은 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ราชทัณฑ์ เผยไม่มีผู้ต้องขังป่วย “ฝีดาษลิง” เพิ่ม ยันเรือนจำและทัณฑสถานทุกแห่งปลอดภัย",
@@ -10313,6 +10296,133 @@
       ],
       "collected_at": "16:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhDEpxzrEszp.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/2914244",
+      "source": ""
+    },
+    {
+      "title": "태국, 비자 제도 개편: 인도 관광객 유치를 위해 60일 무비자 입국 및 새로운 'Destination Thailand Visa' 도입",
+      "summary": "- 태국이 인도 관광객 유치를 위해 비자 제도를 개편합니다.\n- 60일 무비자 입국을 허용하고 'Destination Thailand Visa'를 새로 도입합니다.\n- 자세한 내용은 VisaHQ에서 확인하실 수 있습니다.",
+      "full_translated": "태국이 비자 제도를 개편하여 인도 관광객 유치에 나섭니다. 60일 무비자 입국 허용 및 새로운 'Destination Thailand Visa' 도입에 대한 자세한 내용은 VisaHQ에서 확인하실 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행자에게 매우 중요한 정보이며, 특히 인도 여행객에게는 큰 영향을 미칠 수 있습니다. 새로운 비자 정보는 여행 계획에 필수적인 요소입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand overhauls visa regime: 60-day visa-free entry and new ‘Destination Thailand Visa’ to court Indian visitors - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWDM1dlVDYlBlcExINEpiSTNhYnNhVXpOZlJLZ1V0cVJyS0NpYUhjQUFJZERRN2pfQnI0dG9fYkQ2MFRJZFlLUWR5NVVwMWN2NHdrbDU5Q2dMSk5FVmxXWEs4eUI2MHpLQXk1dmtoQzJMSkJZNUtfdUdUM3ZPSHIzX25OZUx1SVpNZTFoVnduVmhGcVVWclN2ZkRnODlNOTM3Vi14a2RZdGEyWVpJdUJrcGhjMi1pWkEwNTdERlo0QTlUS01GbkpsdG9wbUgzTFBXME1zbFBpUHBmOWtYUFVMaC1PYmJpbDJwVXU0?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "영국, 디지털 E-비자 시스템 도입으로 관광 성장 가속화에 동참",
+      "summary": "- 영국이 캐나다, 터키, 독일, 브라질, 태국, 나미비아 등과 함께 디지털 E-비자 시스템을 도입하여 관광 성장을 가속화합니다.\n- 이로써 영국 여행이 더욱 간편해질 것으로 기대됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "영국이 캐나다, 터키, 독일, 브라질, 태국, 나미비아 등과 함께 원활한 디지털 E-비자 시스템 도입으로 관광 성장을 가속화하고 있습니다. 자세한 내용은 Travel And Tour World에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "영국의 E-비자 시스템 도입은 한국 여행객의 영국 방문을 용이하게 하므로 여행 편의성에 큰 영향을 미칩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "United Kingdom Joins Canada, Turkey, Germany, Brazil, Thailand, Namibia, And More Countries In Accelerating Tourism Growth With The Introduction Of A Seamless Digital E-Visa System: Here’s Everything You Need To Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOdzA0eUUwemdoNXh6bWJCeXlGLUNra1NuNThyNHluS3U5QXFvVndZbWtkcWJweEhMUlRnT2lOSld2aXZzRjNpeEd2cFMzNExzSThKU01scm9zaDFLWTFWZEE2Slk4QU1rWktEMDIyaWdYX2l2VFdzOHlpRDVmUEZ6a1RGdlE2d1JFeDI0S1k4SV9lRzNlSHlEbnJQUVRtTGxzY3hoOE1RTEdMT0ZmX3F2ZU01VDllVkVHZTJRZGRnZGhwbjhHaWVvXzhUajFwcDVPZG4wNnd4T1hzWEdGdENnaEhVZk56TDJzYkg2TXR1WlV1SFR6SVVKaVJVTmMxZHhYYWhEVzFtSTZ2MGM2em5IVW9MWGxQSTBIcTdzU3dpV19HVHpXWEpvQVJxNzNiS09vaWRaSTdOa19oMmc1UGQ3dHVYcHE2MHkwdENqT081VE4yVF9qVlh5amNudEw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 관광 규정 강화: 벌금, 방문객 제한, 임대 규정, 행동 제재 등",
+      "summary": "- 태국이 스위스, 이탈리아, 일본, 포르투갈, 네덜란드, 한국 등과 함께 관광 규정을 강화합니다.\n- 벌금, 방문객 수 제한, 임대 규정, 행동 제재 등이 포함됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 스위스, 이탈리아, 일본, 포르투갈, 네덜란드, 한국 등 여러 나라와 함께 벌금, 방문객 수 제한, 임대 규정, 행동 제재 등 더 엄격한 관광 법규를 시행합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 시 알아두어야 할 규정 변경 사항을 담고 있어 여행객에게 유용한 정보입니다. 기존에 유사한 내용의 기사가 없으므로 새로운 정보로 판단됩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Joins Switzerland, Italy, Japan, Portugal, Netherlands, South Korea, And Several Other Countries In Implementing Stricter Tourist Laws With Fines, Visitor Caps, Rental Regulations, And Behavioural Penalties - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOU2stUzRzUENta0VjSVBJbjFwWjVkNHBHZ1pURjlFcng3YzZ0QVdlZEQ5aWRJN3ppNlJiT0JlQm9EVlQtR0IzM2lfWk9EWEtTUkpPQjliejJiWnFDRkVzMHRfT21MTXpHY3hLSGh2Wk1IVHRkdWlTZDA1eWZLV25NVS1VUjZQY1BwWnF0eFc1V2poQTdvTnlZOHczV0s3eVpnc0hwYkJGRFlWc1RGOC05Q2lOZWZVZjZOSFRRMUhYaVBLQ2FsSE5rS2Rxd1hBSl9NblVLQnQxNnk1ZndyVjJoeDFEbldMcVZRZUFZYVdmRE54a0pmMHgxUlk5eEhUbDRqMXBQdEw2M0U3QkFzTm5zRjFwX3dUbmRzQ3M0Z29SdmVfSEIyRjBfdFE4XzlEQXcwd05DZmhEbTk3WmlPbTg3TGlNQ0ttNHMxOVh1dWtyYzF3WkszbS1NVWh2OFU?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 관광 비용 증가: 한국인 여행자, 방콕, 푸껫, 치앙마이 환율 변동에 적응",
+      "summary": "- 태국 관광 비용 증가에 한국인 여행자들이 환율 변동에 적응하고 있습니다.\n- 방콕, 푸껫, 치앙마이 등 주요 관광 도시에서 환율 변동에 따른 여행 비용 변화가 나타나고 있습니다.\n- 다음 여행을 떠나기 전에 알아야 할 모든 것을 제공합니다.",
+      "full_translated": "태국 관광 비용 증가: 한국인 여행자들이 방콕, 푸껫, 치앙마이 환율 변동에 적응 – 다음 여행 전에 알아야 할 모든 것 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 시 환율 변동에 따른 비용 변화는 여행객에게 중요한 정보입니다. 특히 방콕, 푸껫, 치앙마이 등 인기 지역에 대한 정보는 유용합니다.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 푸껫, 치앙마이",
+        "price": null,
+        "location_google_map_query": "방콕 푸껫 치앙마이"
+      },
+      "references": [
+        {
+          "title": "Rising Costs in Thailand’s Tourism: How South Korean Travelers Are Adjusting to Exchange Rate Fluctuations in Bangkok, Phuket, and Chiang Mai – Everything You Need to Know Before Your Next Trip - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOeWFyTmh1X0l6Q0xvUkpjVUZ5Q3JVSUpfZnU1bmJvejJ4VU0yV3FJTU44dFZYaUdGVXBWYXIwVUFGSU1EN1BmeXprMS1tdmZOTFQtNWQ1U1FlcldYRl8wU1VKWkFLalB0TlZzS1cydzhidFY5T09Fc0pNaVFMV2NSS3ZaSDF0MU9NV0ZJNXNNaUM4OEVWVTBrdkVDNENmS2cwT19KN2N1UXdMZUhhb3liRDcyV2RwOUN5MlhoLUVsWWFBa3VJRlRJR0pRYjdtUDFmcGhmbTM5RG5wcVZqR0tpQWFYWUZZdU90N0J5LVdwWFpTeXZuSEdqR0lQUkZPRWtwZ3E4R0dXLU5EWFVua3Yxbks3c3JvV0NqSzU0a3BpaldzUHB0ZEhtalg3dDkyMl94REhBTnppRFRINkhtb2MxeW1ZRXF4eTZ1MlF2ZmhoeG1jSHly?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 대량 관광에서 지속 가능하고 웰빙 중심 여행으로 전환",
+      "summary": "- 태국이 대량 관광에서 벗어나 문화 몰입과 경제 성장을 촉진하는 지속 가능한 웰빙 중심의 여행으로 초점을 옮기고 있습니다.\n- 이는 태국 관광 산업의 질적 성장과 긍정적인 변화를 목표로 합니다.\n- 구체적인 정책 변화나 새로운 관광 상품에 대한 정보는 아직 없습니다.",
+      "full_translated": "태국은 대량 관광에서 지속 가능하고 웰빙 중심의 여행으로 초점을 전환하여 문화 몰입과 경제 성장을 촉진합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 정책의 방향 전환에 대한 정보로, 여행객들에게 장기적으로 영향을 줄 수 있으나, 즉각적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Shifts Focus From Mass Tourism to Sustainable, Wellness Oriented Travel That Promotes Cultural Immersion and Economic Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX2I5cXFqcHZkNVFROXhLLWFhV1FhMVByUWs1aFg2NjZvdGVZTVJqVEhUbUIzVkt0Zlp4SjQtVFNzUzAtdG5yMGZUU2RSUFJaWFhGSVdmLXNmRU5TaExKVmRETGlrdzA0S3VDa0hqanFvYVY5RmJXX2RzYVJPZ1M1TVZMdXZJVVEzRmFoTllkQUtmeXFHRU9kZTBsNFVxNENSSTh5aXNialByZ1J2UEtpcE1pMXplM1VlMFFfV1VobFRQeGtyN0tna3haMUhtSWJHTWlaa2dRQUgwZ1BGaU4yZDJrUE5zMEVPQldlUndzUjA2T2tmQVUwT05SdG5RVmNjX3FiYWFTSUZGc0tOb1E?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-14"
     }
   ]
