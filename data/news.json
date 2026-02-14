@@ -10415,14 +10415,9 @@
       "summary": "- 태국 정부가 무비자 체류 기간을 단축하고 국경 통제를 강화할 계획입니다.\n- 구체적인 변경 사항은 아직 발표되지 않았지만, 관광객과 이민자 모두에게 영향을 미칠 수 있습니다.\n- 자세한 내용은 추후 발표될 예정입니다.",
       "full_translated": "태국 정부가 무비자 체류 기간 단축과 국경 강화 계획을 발표했습니다. 자세한 내용은 아직 발표되지 않았지만, 관광객과 이민자 모두에게 영향을 미칠 수 있습니다. 관련 내용은 TravelMole에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 한국인 여행객에게 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand plans shorter free-visa stays and tighter borders - TravelMole",
@@ -10433,21 +10428,18 @@
       ],
       "collected_at": "17:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OT3d3UGhzTkdRMTYyRERwNXU1M0pfVGhsWVRYdHZSTUVLNGNiY19LUjVzb1NWV2p1ZkNwYW8yUzVQYUprd0Z6dTVzclhPQlR6NENTZHYyOHVwRXlCTWxTMlloTktiR0JoUVE0MGZTVkRvSzg?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 범죄 악용 및 보안 위험 방지를 위해 비자 면제 체류 기간 30일로 단축 검토 – 미국, 캐나다, 베트남, 라오스 등",
       "summary": "- 태국이 범죄 악용 및 보안 위험을 줄이기 위해 비자 면제 체류 기간을 30일로 단축하는 방안을 검토 중입니다.\n- 미국, 캐나다, 라오스, 베트남 등 여러 국가가 관련됩니다.\n- 이는 태국을 방문하는 여행객들에게 중요한 변화가 될 수 있습니다.",
       "full_translated": "태국은 범죄 악용 및 보안 위험을 억제하기 위해 미국, 캐나다, 라오스 및 기타 국가들과 함께 비자 면제 체류 기간을 30일로 단축하는 방안을 모색하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경 가능성은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히, 기존에 비자 없이 장기 체류가 가능했던 여행객에게는 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Vietnam Joins United States, Canada, Laos, and More as Thailand Explores Reducing Visa-Free Stay to Thirty Days to Combat Criminal Exploitation and Security Risks - Travel And Tour World",
@@ -10458,21 +10450,18 @@
       ],
       "collected_at": "17:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQajE4aFFQR1JwY2I3Z0Jib1NTbDVBOExBYV9hcTRyRlNIeENYTkFsdndtVEhBbEc0b3AzNmRBOExyRzI0UUdWcW1IZWxKZ2xPbS1vSktsVXJsS2JHMGFTLTViOVh6RnpubWhvSGZMQlNESFp2cHJ4QzlrWUd6RUlyM0RwSTBqRURSajdjb2J3Vm9sd3p2bXhSTUNkcDdrZEJYNEZza05wcFR3U1Y4aFRKdThLajVzM29SaUIyY2lZSTgzQWgzY3I1VGhUMTBIOHhBNjNIbzZvLVhmM0p0NzVOZGM1a2V1WjhucHdrRHhYRXVOUW9kem85N0RyZlo1eDh5TzFXT0VneWFMdklnTzh3VlFJYnZUT1Y4T1FEdWFvM3Bwa0gtVHF0bjNTampGT1kwWHc?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 무비자 체류 기간 60일에서 30일로 단축: 2026년 관광객, 비즈니스 여행객에게 미치는 영향",
       "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축합니다.\n- 이 변경 사항은 2026년부터 시행될 예정입니다.\n- 관광객과 비즈니스 여행객에게 큰 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "태국, 무비자 체류 기간 60일에서 30일로 단축: 2026년 관광객, 비즈니스 여행객, 글로벌 휴가객에게 미치는 이 대담한 변화의 의미!\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 2026년부터 적용되지만, 여행 계획에 영향을 줄 수 있어 미리 알리는 것이 중요하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Cuts Visa-Free Stay from Sixty to Thirty Days: What This Bold Change Means for Tourists, Business Travelers, and Global Holidaymakers in 2026! - Travel And Tour World",
@@ -10483,21 +10472,18 @@
       ],
       "collected_at": "17:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNURRdFNMaWxaaUJSYTRzUVc2bnF4ay1pWmI2ME5JXzdWREdXWTU2T3lhX2w1dEdyNTRhbnA3WnN2ai1pTlJ1cXVDVWdpNGVMc2M4cnBJVHczSGcxS3kyN3U3aGpBY3dXNURrb3M3YWw4dy00TWQtUlZFLS1JeHZGMWZkOXBFc2djMGhMQTJ6WmFYWURfTlFJYXdfLVJ5THZfRDhwRXlzY015OVYzb2trY1JpajdmZ0xoNmJBdEdPcm01OGtzaV9ZV3BNRW9SOTBvcGh4djhVaFZ3SjdoM3NMSnI4R00zdXdacEx3SnBEQ01WRnR3X1NsemtSdEwxX1p5WkFvRWh0LTJvV1U1a3VSMlNNVkU1R004M3h3TFc5YU9hdw?oc=5",
+      "source": ""
     },
     {
       "title": "쁘라쭈압 키리 칸, 요트 조선소 화재로 수십 억 바트 피해 발생",
       "summary": "- 쁘라쭈압 키리 칸, 탑 사깨 지역의 해변가 요트 조선소에서 화재 발생.\n- 소방대가 출동하여 진화 작업 진행, 피해액은 수십 억 바트에 달함.\n- 정확한 화재 원인 조사 중.",
       "full_translated": "쁘라쭈압 키리 칸, 탑 사깨 지역의 해변가에 위치한 요트 조선소에서 화재가 발생하여 수십 억 바트의 피해가 발생했습니다. 2069년 2월 14일 13시 30분경, 쁘라쭈압 키리 칸 경찰서의 수사관은 탑 사깨 지역, 3번 마을, 탑 사깨 구역, 해변가 요트 조선소에서 화재가 발생했다는 신고를 받았습니다. 스앙 룽르앙 탐마스탄 재단과 탑 사깨 지방 자치 단체의 소방차 약 10대가 화재 진압을 위해 현장으로 출동했습니다. 현장은 3층 규모의 요트 조선 공장으로, 약 200석 규모의 요트가 불길에 휩싸였습니다. 소방관들은 요트와 금속 지붕 구조물에 집중적으로 물을 뿌려 화재 확산을 막았습니다. 건물은 무너져 내렸고, 약 10개의 컨테이너도 불에 타 손실되었습니다. 씻티차이 싸왓디센 쁘라쭈압 키리 칸 도지사와 몬차이 누싸이 탑 사깨 군수는 현장을 방문하여 상황을 점검하고 지시를 내렸습니다. 목격자이자 수도승인 프라 쑤폿은 수행 중 화재를 목격하고 양동이에 물을 담아 불을 끄려 했으나 강한 바람으로 인해 실패했다고 진술했습니다. 짜란 쓰리채엠, 반 퉁 쁘라도ゥ 지역 사회 기업 회장은 화재를 목격하고 경찰에 신고했다고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유명 관광지 인근 화재로 안전에 대한 정보 제공 필요. 여행 일정에 영향이 있을 수 있음.",
-      "event_info": {
-        "date": "2069-02-14",
-        "location": "บ้านทุ่งประดู่, อำเภอทับสะแก, จังหวัดประจวบคีรีขันธ์",
-        "price": "수십억 바트 피해",
-        "location_google_map_query": "บ้านทุ่งประดู่, อำเภอทับสะแก, จังหวัดประจวบคีรีขันธ์"
-      },
+      "event_info": "{'date': '2069-02-14', 'location': 'บ้านทุ่งประดู่, อำเภอทับสะแก, จังหวัดประจวบคีรีขันธ์', 'price': '수십억 바트 피해', 'location_google_map_query': 'บ้านทุ่งประดู่, อำเภอทับสะแก, จังหวัดประจวบคีรีขันธ์'}",
       "references": [
         {
           "title": "ไฟไหม้อู่ต่อเรือยอร์ชริมหาดทุ่งประดู่ ทับสะแก ประจวบคีรีขันธ์ เสียหายหลายสิบล้าน",
@@ -10508,21 +10494,18 @@
       ],
       "collected_at": "17:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhPLnYbcwtO3.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/2914246",
+      "source": ""
     },
     {
       "title": "방글라데시 총선, BNP 압승…총리 후보에 야당 지도자",
       "summary": "- 방글라데시 총선에서 야당인 방글라데시 민족주의당(BNP)이 압승.\n- 탁월한 승리로 BNP 지도자 타리크 라만이 총리직에 오를 것으로 예상.\n- 경제 회복, 정치 안정, 투자 심리 회복이 주요 과제로 부상.",
       "full_translated": "방글라데시 민족주의당(BNP) 연합이 압도적인 승리를 거두며, 전 총리 하시나의 인도에서의 범죄인 인도를 추진할 것을 약속했습니다. \n\n방글라데시, 다카 - 야당인 방글라데시 민족주의당이 금요일 총선에서 압승을 거두며 거의 20년 만에 권력을 되찾았으며, 타리크 라만 대표는 수개월간의 불안과 경제적 혼란에서 벗어나면서 총리가 될 위치에 놓였습니다. \n\n전 총리 칼레다 지아와 암살당한 전 대통령 지아우르 라만의 아들인 라만은 2024년 셰이크 하시나 전 총리의 정부 붕괴 이후 장기간의 혼란 이후 정치적 안정 회복, 투자자 신뢰 회복, 주요 산업(의류 부문 포함) 재건이라는 즉각적인 과제에 직면해 있습니다. 노벨상 수상자인 무함마드 유누스가 이끄는 임시 정부가 그 이후로 책임을 맡아 왔습니다. \n\n이번 투표에서 명확한 결과는 남아시아 국가 1억 7,500만 명에게 매일의 삶과 의류 제조를 포함한 산업을 방해한 수개월간의 치명적인 반(反) 하시나 불안 이후 중요한 것으로 여겨졌습니다. 방글라데시는 세계에서 두 번째로 큰 의류 수출국입니다. \n\n다카 대학교의 경제학 교수인 셀림 라이한은 “BNP는 압도적인 다수 의석을 확보하여 개혁을 효율적으로 통과시키고 입법 마비를 피할 수 있는 의회적 힘을 갖게 되었습니다. 그것만으로도 단기적인 정치적 안정을 창출할 수 있습니다.”라고 말했습니다. 남아시아 국가의 첫 번째 진정한 경쟁 선거로 간주된 투표의 공식 집계에서 BNP와 그",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치적 상황 변화는 여행 심리에 영향을 줄 수 있으므로 중간 점수 부여. 방글라데시 여행객에게는 중요 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Son of ex-leaders poised to be Bangladesh PM",
@@ -10533,6 +10516,133 @@
       ],
       "collected_at": "17:51",
       "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197344_700.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.bangkokpost.com/world/3197344/son-of-exleaders-poised-to-be-bangladesh-pm",
+      "source": ""
+    },
+    {
+      "title": "2026년 태국 여행 간소화: 디지털 도착 카드, 체류 기간 연장, 비자 옵션 간소화",
+      "summary": "- 2026년부터 태국 여행이 더욱 간편해질 예정입니다.\n- 새로운 디지털 도착 카드가 도입되어 입국 절차가 간소화됩니다.\n- 체류 기간 연장 및 비자 옵션 간소화를 통해 여행이 더욱 편리해질 것입니다.",
+      "full_translated": "2026년부터 태국으로의 원활한 여행을 여십시오. 새로운 디지털 도착 카드, 더 긴 체류 기간, 간소화된 비자 옵션을 통해 탐험이 그 어느 때보다 쉬워졌습니다. 자세한 내용은 여기에서 확인하십시오. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "태국 입국 절차 및 비자 관련 변경 사항은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여. 2026년부터 적용되지만, 미리 정보를 제공하여 여행 계획에 참고할 수 있도록 함.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "태국",
+        "price": "해당 사항 없음",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Unlock Seamless Travel to Thailand in 2026 With The New Digital Arrival Cards, Longer Stays, and Streamlined Visa Options Make Exploring Easier Than Ever: Find Out The Details Here - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPS1BjOV8tOHdDUkhNWGFWcmhrMVN6RFYzdFk4allnM3RRNVNDM0lnY3FsSm15Xzc4T3Eyd1VwYWRRVDFDQnhZWWwybE8ycmxGQ1BsMU5qeHNFeVBfX3J2MVdkcUI0Z3Jrb0JzaHI0bnNVNVpIQk1oemU5cThhU0ppMHFDeDNfcjhuVDVBanEyMDFkRGpmQi1VeVdwdTMxcngwYWs0ZVoySE5xVUNvNTdfZ2JQSENiVVg3QkxFMWZJa3dMQ0ZmanNWUjBGWlVqYmtqTy1uZHNpTzNXbDZLenFVR1hTWUJuY1IzY0RudEpOR29QdkJGSGM1Zk1aOUdLMFYzRkc2Q2F4TGw5NWJYeFJqTVN3S0gwS0RrNk1sZTZicjBlNVBMaS1uSVFzdkdkc2FrQ2FXN0VoNmVlUy1Wd3BjVXcwSVhnMnNpeWc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 중국인 관광객 1위로 일본 추월 - 중국 동방항공 등 주요 항공사 호황",
+      "summary": "- 태국이 중국인 관광객들에게 가장 인기 있는 여행지로 부상하며 일본을 넘어섰습니다.\n- 중국 동방항공과 같은 주요 항공사들은 태국 여행 수요 증가로 호황을 누리고 있습니다.\n- 일본은 관광 산업에서 어려움을 겪고 있습니다.",
+      "full_translated": "태국이 중국인 관광객 1위로 일본을 넘어섰습니다. 중국 동방항공과 같은 주요 항공사들은 호황을 누리고 있는 반면 일본은 어려움을 겪고 있습니다!",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중국인 관광객 유입 증가는 태국 관광 산업 전반에 긍정적인 영향을 미치며, 특히 항공, 호텔, 식당 등 관련 업계에 직접적인 수혜를 가져다 줄 수 있습니다. 여행객들은 증가된 수요로 인해 항공편 및 숙박 시설 예약에 어려움을 겪을 수 있으며, 인기 관광지의 혼잡도가 높아질 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Overtakes Japan as number one for Chinese Tourists – Major Airlines Like China Eastern Seeing a Boom While Japan Struggles! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOXzB4TVR0ZldEXzFpTm5IQkIzMnlaWkFqS2hjWnlRR3ZPcTlrd3BmenJHbnplYTktS0R0MmEwUWttc1ZNUzNiN2h4bUpOUWY2b2lydGdqZk1YYjBqLWNVVVFiUWNnazZta2F6MmluMUNmTDJKQzE0OEtOaXdhUENsZE5VZjlucTlQc2Z3cDB4TzUwVVpvbjNVcjZvYVdybnVRRHdjUkQxVGFCakRydE5YejNtWlhVaHNkR0VpZUcyVUx5aXRqTUNkZzQtUVlTQUNicG51djFjdWJ4RUZqekJWWUgyWnI3VTBIUlY5WnFYWHBBU1dqUWo2TFRlV2ZjQ1c0eXpoNGZxSlQxUQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "베트남, 혁신적인 비자 변경 및 안전 조치로 아시아 관광 시장 석권",
+      "summary": "- 베트남이 태국, 중국, 싱가포르, 한국, 대만, 일본 등을 제치고 아시아 관광 시장에서 두각을 나타내고 있습니다.\n- 혁신적인 비자 정책 변화와 디지털 발전, 최상위 안전 조치가 성장의 주요 원인으로 분석됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "Vietnam Overtakes Thailand, China, Singapore, South Korea, Taiwan, Japan, and More Nations in Asia’s Phenomenal Tourism Uplift Fueled by Innovative Visa Changes, Digital Evolution, and Top-Tier Safety Measures&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "베트남의 관광 시장 성장이 태국 여행에 간접적인 영향을 줄 수 있으며, 비자 정책 변화에 대한 정보는 여행자에게 유용할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Vietnam Overtakes Thailand, China, Singapore, South Korea, Taiwan, Japan, and More Nations in Asia’s Phenomenal Tourism Uplift Fueled by Innovative Visa Changes, Digital Evolution, and Top-Tier Safety Measures - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPaVk3YlFjdi1ISndOdnlSeVRJNS0wZEFVLWxTdHBLTzhRdFJuU1c0ZWRnQVk1YXRaWG1Ea3F0UU5ScUlELUVSU1VubXNyQ1pYT1gzMk9TSUdPZ2pBYzJsdkpWcWw4X0xFVDhuTWkxNkNGYWdyN2FRYUhoVzhuaTlXWEFYczB6bTNkNkpmOHRKZUthZzJUdHM2RTdlU3BiU0VKSXlyUnNwY3JhYjFfaWJEdTdJTlV3QWJobGRCbG9Gc1N1QzUzaGRWSEN0eVFrRmxFemN4ejUyZUVvRm5uTURfTVpycVAySE9HSHRjZ3FlUnVkU1FkajZqWmF6b01nU0JaT05XQ1BNX3RwRTNHaDZzV0MwTTI3X2cydVd3VmZaQ2pfU1dudmxBSWpWam5SX3NCZm9fZHVGT29ubmV1anZJMjlIMlItSEh0dXBIcV9sZGZBZw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "논타부리 교도소 탈옥수 검거: 아버지 그리워 탈옥 주장",
+      "summary": "- 논타부리 교도소에서 탈옥한 40세 남성 죄수 추차이 손친이 검거됨.\n- 그는 야간에 절도죄로 수감 중 탈옥했으며, 교도소 벽을 넘어 도주했음.\n- 경찰은 추적 끝에 그를 체포하여 다시 구금했으며, 법적 절차에 따라 처리될 예정.",
+      "full_translated": "경찰은 방매낭 경찰서에서 논타부리 교도소에서 탈옥한 남성 죄수를 체포했습니다. 그는 감방을 부수고 교도소 담을 넘어 한밤중에 탈출했습니다. 현재 교정국과 협력하여 그를 데려오고 있습니다. 교정국은 논타부리 교도소에서 죄수가 탈출했다는 보고를 받았습니다. 추차이 손친(40세)은 차량을 이용하여 야간에 절도 공모 혐의로 유죄 판결을 받았습니다. 그는 논타부리 교도소에서 탈출하여 감방에서 탈출하여 2번 초소 옆 벽을 넘어 논타부리 교도소 근처 합푸이 가게 주차장으로 뛰어내려 논타부리 부두 방향으로 걸어갔습니다. 사건은 2026년 2월 13일 오전 2시 22분경에 발생했습니다. 현재 탈출 원인을 조사하고 있습니다. 교정국과 논타부리 교도소는 경찰 및 관련 기관과 협력하여 해당 죄수를 신속하게 체포하기 위해 지속적으로 노력하고 있습니다. 2026년 2월 14일 오후 4시 30분, 방매낭 경찰서 경찰이 논타부리 교도소에서 탈출한 남성 죄수 추차이 손친(40세)을 체포했습니다. 경찰은 지속적으로 추적한 결과 그를 체포할 수 있었습니다. 현재 경찰은 해당 죄수를 구금하고 있으며, 교정국 직원은 그를 데려와 법적 절차에 따라 처리할 예정입니다. 방매낭 경찰서장인 쁘라덤 짓와타나피롬 경찰대령과 방매낭 경찰서 부국장인 나타윳 깨우판 경찰중령은 병력을 이끌었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "탈옥 사건은 여행객 안전에 대한 우려를 야기할 수 있으나, 용의자 체포로 상황 종료. 지역 치안 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "논타부리 교도소, 방매낭",
+        "price": null,
+        "location_google_map_query": "논타부리 교도소"
+      },
+      "references": [
+        {
+          "title": "จับได้แล้วนักโทษชาย เรือนจำจังหวัดนนทบุรี แหกห้องขังปีนกำแพงคุกหลบหนี อ้างคิดถึงพ่อ",
+          "url": "https://www.thairath.co.th/news/crime/2914248",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhV4934cboiN.jpg"
+        }
+      ],
+      "collected_at": "18:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhV4934cboiN.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "프아타이당, 연립 정부 참여 결정 지지 속 의견 분열",
+      "summary": "- 프아타이당은 연립 정부 참여에 대한 당내 의견이 분분함.\n- 대부분은 정부에 참여하여 경제 문제 해결을 우선해야 한다고 주장함.\n- 당은 국민의 결정을 존중하며 투명성을 중요시한다고 강조함.",
+      "full_translated": "욧차난은 프아타이당에 쉽지 않은 두 가지 선택지가 있으며, 당내 의견이 일치하지 않지만 대부분이 정부에 참여해야 한다고 밝혔습니다. 그는 경제 문제 해결을 서둘러야 한다고 강조하며, 2069년 2월 14일까지 프아타이당과 함께할 것이라고 밝혔습니다. 욧차난은 프아타이당이 품차이타이당과 함께 정부에 참여하기로 결정한 후 개인 페이스북에 글을 올렸습니다. 그는 다양한 그룹 및 조직과 의견을 교환했으며, 대부분의 사람들이 사회 및 태국 사회의 맥락이 크게 변화했다고 생각한다는 데 동의했습니다. 그는 선거에서 정치적 요인과 자원 사용이 결과에 큰 영향을 미쳤다고 언급하며, 자신과 프아타이당은 국민의 결정을 존중한다고 밝혔습니다. 그는 또한 선거의 투명성이 가장 중요하며, 선거관리위원회가 국민의 의견을 경청하고 사실에 근거하여 해명해야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 뉴스이지만, 정부 구성 관련 소식은 여행 관련 정책에 간접적으로 영향을 줄 수 있으므로 낮은 점수 부여. 이미 게시된 유사 뉴스(프아타이당, 품차이타이당 주도 정부 구성 지지)가 있으므로 업데이트로 간주하지 않음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ยศชนัน” รับ มีแค่ 2 ทางเลือก ไม่ใช่เรื่องง่ายของเพื่อไทย แต่ส่วนใหญ่ให้ร่วมรัฐบาล",
+          "url": "https://www.thairath.co.th/news/politic/2914249",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhepLJEbjOz1.jpg"
+        }
+      ],
+      "collected_at": "18:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhepLJEbjOz1.jpg",
       "date": "2026-02-14"
     }
   ]
