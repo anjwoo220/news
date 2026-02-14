@@ -4466,13 +4466,28 @@ def recommend_tours(who, style, budget, region="방콕", language="Korean"):
             return {"recommendations": []} # No tours for this region
 
         # Build product catalog for prompt
-        products_info = "\n".join([
-            f"- ID {t['id']}. {t['name']} (Price: {t['price']}): "
-            f"Tag={t['type']}, Desc: {t['desc']}, Pros: {t['pros']}"
-            for t in filtered_tours
-        ])
+        is_english = (language == "English")
         
-        style_str = ", ".join(style) if style else "No specific preference"
+        products_list = []
+        for t in filtered_tours:
+            if is_english:
+                # Prioritize English fields if available
+                p_name = t.get('name_en') or t.get('name', 'Unknown')
+                p_desc = t.get('desc_en') or t.get('desc', '')
+                p_pros = t.get('pros_en') or t.get('pros', '')
+            else:
+                p_name = t.get('name', 'Unknown')
+                p_desc = t.get('desc', '')
+                p_pros = t.get('pros', '')
+            
+            products_list.append(
+                f"- ID {t['id']}. {p_name} (Price: {t['price']}): "
+                f"Tag={t['type']}, Desc: {p_desc}, Pros: {p_pros}"
+            )
+        
+        products_info = "\n".join(products_list)
+        
+        style_str = ", ".join(style) if style else ("No specific preference" if is_english else "특별한 선호 없음")
         is_english = (language == "English")
 
         if is_english:

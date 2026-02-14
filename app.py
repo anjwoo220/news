@@ -2508,7 +2508,8 @@ def render_tab_tour():
                     final_name = tour_name_en if st.session_state.get('language') == 'English' else matched_tour['name']
                     st.subheader(f"{rank_emoji} {final_name}")
                     st.markdown(f"**{utils.t('tour_reason')}:** {reason}")
-                    st.info(f"**{utils.t('tour_pros')}:** {matched_tour['pros']}")
+                    display_pros = matched_tour.get('pros_en') or matched_tour['pros'] if st.session_state.get('language') == 'English' else matched_tour['pros']
+                    st.info(f"**{utils.t('tour_pros')}:** {display_pros}")
                     if tip:
                         st.caption(f"{utils.t('tour_tip')}: {tip}")
                     st.markdown(f"**💰 {matched_tour['price']}**")
@@ -2552,8 +2553,11 @@ def render_tab_tour():
                 if t.get("image"):
                     st.image(t["image"], use_container_width=True)
             with c2:
-                st.markdown(f"**[{t['name']}]({t['link']})** — {t['price']}")
-                st.caption(t['desc'])
+                display_name = t.get('name_en') or t['name'] if st.session_state.get('language') == 'English' else t['name']
+                display_desc = t.get('desc_en') or t['desc'] if st.session_state.get('language') == 'English' else t['desc']
+                
+                st.markdown(f"**[{display_name}]({t['link']})** — {t['price']}")
+                st.caption(display_desc)
                 tags = " · ".join(t.get("type", []))
                 st.markdown(f"<span style='color: #888; font-size: 0.8rem;'>🏷️ {tags}</span>", unsafe_allow_html=True)
                 
@@ -4559,7 +4563,7 @@ else:
     
     # [MOD] Language-aware tab ordering
     is_english = st.session_state.get('language') == 'English'
-    if is_mobile:
+    if is_prod:
         if is_english:
             nav_options = [
                 utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
