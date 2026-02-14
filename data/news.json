@@ -10942,14 +10942,9 @@
       "summary": "- 치앙마이에서 990만 개의 야바가 생강을 실은 트럭에 숨겨진 채 발견되었습니다.\n- 운전자는 체포되었으며, 15만 바트의 보수를 받기로 했습니다.\n- 마약 밀매 조직이 국경을 넘어 마약을 운반하려던 시도가 적발되었습니다.",
       "full_translated": "치앙마이 - 파므앙 군 병력이 신선한 생강을 가득 실은 6륜 트럭을 막아섰습니다. 트럭 뒤쪽을 수색한 결과, 생강 더미 속에 숨겨진 990만 개의 야바를 발견했습니다. 운전자는 2569년 2월 14일 15만 바트를 받기로 했다고 인정했습니다. 이전 정보에 따르면 마약 밀매 조직이 국경을 넘어 태국으로 마약을 밀반입하려 한다는 정보를 입수했습니다. 오늘 09:30, 파므앙 군 기마병 중대 2에서 군견 부대와 함께 검문소를 설치하여 검문하던 중, 생강을 실은 6륜 트럭을 발견하여 검문했습니다. 이스즈 NQR 흰색-파란색 6륜 트럭 (등록번호 719420 나콘파톰)의 하단에서 의심스러운 자루를 발견하여 수색한 결과, 50개의 개조된 자루 안에 약 9,970,000개의 1종 마약 (야바)이 들어 있었습니다. 운전자인 춤폰 풋송크람 (53세, 촌부리 방라뭉 출신)이 체포되었으며, 이번 운송에 15만 바트를 받기로 했다고 자백했습니다. 이후 파므앙 군 사령관 사팃 와이야논 소장이 관련 부대와 함께 현장에 도착하여 마약 압수 관련 기자 회견을 열었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "마약 관련 사건으로, 여행객 안전에 간접적인 영향을 미칠 수 있습니다. 특히 치앙마이 지역 여행 시 주의가 필요합니다. 대규모 마약 압수 사건이므로 관련 정보를 제공합니다.",
-      "event_info": {
-        "date": "2024-02-15",
-        "location": "치앙마이, 매림 지역",
-        "price": null,
-        "location_google_map_query": "Chiang Mai"
-      },
+      "event_info": "{'date': '2024-02-15', 'location': '치앙마이, 매림 지역', 'price': None, 'location_google_map_query': 'Chiang Mai'}",
       "references": [
         {
           "title": "จับได้อีก ยาบ้าบิ๊กลอต 9.9 ล้านเม็ด ซุกรถบรรทุกขิงที่ จ.เชียงใหม่ ค่าจ้าง 1.5 แสน",
@@ -10960,21 +10955,18 @@
       ],
       "collected_at": "20:58",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BGsKyDsQcwdb.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/crime/2914265",
+      "source": ""
     },
     {
       "title": "태국, 관광 및 경제 활성화를 위한 비자 정책 인정",
       "summary": "- 태국 내각은 관광 산업 활성화를 위한 비자 정책을 인정했습니다.\n- 구체적인 비자 정책 변경 사항은 아직 발표되지 않았습니다.\n- 자세한 내용은 관련 발표를 기다려야 합니다.",
       "full_translated": "태국 내각은 관광 및 경제 활성화를 위한 비자 정책을 인정했습니다. 구체적인 내용은 아직 발표되지 않았으므로 추가적인 업데이트를 기다려 주시기 바랍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책은 여행객의 입국과 직접적인 관련이 있으므로 중요도가 높음. 정책 변경 시 여행 계획에 영향을 줄 수 있으므로 관련 내용 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai cabinet acknowledges visa measures to boost tourism, economy - Vietnam+ (VietnamPlus)",
@@ -10985,21 +10977,18 @@
       ],
       "collected_at": "20:58",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdERLT0NPSFBkdGZ2SnRWREYtR3EzcGsydXp5MWxSUEhPdExTVjBwRV9tc0lCcnNVRFpodG1STFVwRjhfUF9FNXE3ZWlaZTJ0djEwU1VDaVJPdmNIQVhYcTB2QV85eWNYblNMRll2N2FLSnJMZXhPWVVOaFRicEpxalAwT2N3eTNOOUVTZV9HM2N6QWFjMzNNVzE3WGxPVF9aaW81bzRqQU4?oc=5",
+      "source": ""
     },
     {
       "title": "나라티왓에서 태국 최초로 야생 '타코' 발견",
       "summary": "- 나라티왓 지역의 운하에서 약 3m 길이의 '타코' 악어가 발견됨.\n- 이는 태국에서 야생 타코가 공식적으로 처음 확인된 사례임.\n- 과거 2025년에도 유사한 목격담이 있었으나, 이번에는 사진으로 명확히 확인됨.",
       "full_translated": "태국에서 멸종된 것으로 여겨졌던 '타코'가 나라티왓 주에서 처음으로 발견되어 큰 화제가 되고 있습니다. 2026년 1월 25일, 방손 운하에서 약 3m 길이의 타코가 발견되었으며, 이는 사진으로 확인된 태국 최초의 야생 타코입니다. 사진작가 Nattawut Yuenchon은 저녁 무렵 운하 둑에서 타코를 발견하고 휴대 전화로 촬영했다고 밝혔습니다. 이후, 야생 동물 연구소 팀이 현장을 조사하여 타코의 존재를 확인했습니다. 과거 2025년 9월에도 타코 목격담이 있었지만, 종을 확인할 수 없었습니다. 이번 발견은 해당 지역에 최소 2마리 이상의 타코가 서식하고 있음을 시사합니다. 발견된 위치는 상류 습지 숲을 통과하여 바다로 흘러가는 주요 운하입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "멸종 위기종 발견은 관광 잠재력이 있지만, 직접적인 여행객 안전 영향은 낮음. 새로운 명소로서의 가능성 고려.",
-      "event_info": {
-        "date": "2026-01-25",
-        "location": "나라티왓 주, 방손 운하",
-        "price": null,
-        "location_google_map_query": "Bang Son Canal, Narathiwat"
-      },
+      "event_info": "{'date': '2026-01-25', 'location': '나라티왓 주, 방손 운하', 'price': None, 'location_google_map_query': 'Bang Son Canal, Narathiwat'}",
       "references": [
         {
           "title": "สุดฮือฮา พบ \"ตะโขง\" ในธรรมชาติครั้งแรกในประเทศไทยอย่างเป็นทางการ ที่ จ.นราธิวาส",
@@ -11010,21 +10999,18 @@
       ],
       "collected_at": "20:58",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B9RvY9iIkvKe.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/society/2914259",
+      "source": ""
     },
     {
       "title": "태국, 수출 및 관광 주도로 2026년 2% 성장 전망 - Borneo Bulletin",
       "summary": "- 태국 경제는 수출과 관광 산업의 회복에 힘입어 2026년에 2% 성장할 것으로 예상됩니다.\n- 이는 코로나19 팬데믹으로 인한 침체에서 벗어나 점진적인 회복세를 보이는 것입니다.\n- 정부는 관광객 유치를 위한 정책과 수출 경쟁력 강화를 통해 경제 성장을 촉진할 계획입니다.",
       "full_translated": "Borneo Bulletin에 따르면 태국은 수출과 관광 산업의 주도하에 2026년에 2% 성장할 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 성장 전망은 관광객 유치에 긍정적인 영향을 미칠 수 있으나, 직접적인 영향은 제한적입니다. 경제 상황에 대한 정보는 여행 결정에 참고 자료가 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to see 2pc growth in 2026 led by exports, tourism - Borneo Bulletin",
@@ -11035,21 +11021,18 @@
       ],
       "collected_at": "20:58",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjVEVjdJOWZ3eG4zZS1ZLTlqM1BLQXFHaHk1ZE9QUXFWR1NvWXphWjdjaHgwVDBIdEc2QnJNQ2RFMXlqWUNsSEFRV1kwSzNHd2xTVEYwS01Kdm5vQWJrQ2VLSUZ5Wjlxcng4SnhXYkFnemMyNEFyRFFrQURJOHA5YTdxZXJTYXpMb1FwYkktMlFNUQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 투표용지 바코드 직접 및 비밀 투표에 영향 없다고 재차 확인",
       "summary": "- 선거관리위원회는 투표용지에 있는 바코드가 위조 및 부정행위 방지책이라고 밝혔습니다.\n- 바코드는 유권자의 직접 및 비밀 투표 원칙에 영향을 미치지 않습니다.\n- 2069년 2월 14일, 선거관리위원회는 관련 성명을 발표했습니다.",
       "full_translated": "태국 선거관리위원회(꺼꺼떠)는 투표용지에 있는 바코드가 헌법에 따른 직접 및 비밀 투표에 영향을 미치지 않는다고 재차 강조했습니다.\n\n2069년 2월 14일 16시 30분, 선거관리위원회 산하 허위 정보 대응 센터는 투표용지에 인쇄된 코드가 투표를 직접적이고 비밀스럽게 진행하는 데 영향을 미칠 수 있다는 다양한 출처의 뉴스 보도에 대한 해명 자료를 발표했습니다. 선거관리위원회는 이번 총선에서 유권자는 직접 투표소에 와서 혼자 투표하고 직접 투표 용지를 투표함에 넣어야 한다고 밝혔습니다. 유권자는 자신이 누구에게 투표했는지 공개하거나 투표 용지를 사진으로 찍을 수 없습니다. 이는 유권자의 독립성과 안전을 보장하는 원칙이며, 다른 사람은 알거나 확인할 수 없습니다.\n\n또한 선거관리위원회는 선거법에 따라 투표용지 위조 또는 투표소 외부로의 반출을 방지하기 위한 조치를 취하고 있습니다. 선거관리위원회는 투표용지의 특징을 규정하고 위조 여부를 확인하거나 투표소 외부로의 반출을 막기 위해 '코드, 기호 또는 특별 메시지'를 지정할 권한이 있습니다. 해당 코드는 투표용지 수를 관리하고, 지역별로 투표용지를 구분하며, 부정행위를 방지하기 위한 것입니다. 개표 후 투표용지, 용지 원본 및 관련 서류는 투명한 봉투에 넣어 밀봉하고 서명하여 봉인된 투표함에 보관하며 누구도 해당 상자를 열 수 없습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 총선 관련 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. ยันอีกรอบ บาร์โค้ดบนบัตรเลือกตั้ง ไม่กระทบลงคะแนนโดยตรงและลับตามรัฐธรรมนูญ",
@@ -11060,6 +11043,58 @@
       ],
       "collected_at": "20:58",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8jNlmW4uXrP.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/politic/2914251",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 황금 말의 해 설맞이 행사 개최",
+      "summary": "- 태국 전역에서 중국 설맞이 축제 '황금 말의 해' 개최.\n- 다채로운 문화 행사와 특별 프로모션 제공 예정.\n- 관광객 유치 및 지역 경제 활성화 기대.",
+      "full_translated": "태국의 마법을 경험하세요. 2026년 황금 말의 해. 전국에서 펼쳐지는 눈부신 중국 설 축제가 여행자들을 기다립니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "2026년 설날 관련 행사 정보로, 여행객들의 관심과 계획에 영향을 줄 수 있으며, 대규모 축제는 관광객 유치에 긍정적 영향을 미치므로 중간 수준의 점수를 부여함.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "태국 전역",
+        "price": "미정",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Experience the Magic of Thailand’s Golden Horse 2026 A Dazzling Chinese New Year Celebration Across the Country Awaits Travelers - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeEJzclF6aERoTlVReDdjVEVkOVRtOURRZ3lfUndJMmNnenBpdGJ5NGVBVFR6Z3hwTmI4NExvX1JDY0cwLThGdHpxb25pakRpR3RESEdZeC1vLXFUTGZJb0NuaXpJcHFQTTI0T0QwemVQU0YwaVJOVE1IZGpuS0pCMm81TlNSeU9UVGNFTEl4LUdsNUVtZEpmTjZVSnV6a2c4aE1jdm9lWnE4RjdJWi13dGZJd2g1QUZTeWVkR1NpcVg3bUFBREJ5Xzg3QWprQjJOT3RKOVdkcHNPc0lMaTJTVm1vS0JlUzNZWU9USjdXRXFWTkJHaUNNdzFCLVkzNHkwcFYzT3hMNA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "아시아 태평양 관광 급증: 말의 해 맞아 중국, 호주, 태국 등 여행객 증가",
+      "summary": "- 말의 해를 맞아 아시아 태평양 지역의 관광 산업이 기록적인 성장세를 보이고 있습니다.\n- 중국, 호주, 캄보디아, 태국, 한국, 베트남, 말레이시아 등 여러 국가에서 여행객이 증가하고 있습니다.\n- 이는 아시아 태평양 지역 관광 산업의 전례 없는 성장을 견인하고 있습니다.",
+      "full_translated": "중국이 호주, 캄보디아, 태국, 한국, 베트남, 말레이시아 등과 함께 말의 해를 맞아 역사적인 여행 급증을 겪으며 아시아 태평양 관광 산업에서 전례 없는 성장을 주도하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 대한 전반적인 수요 증가를 나타내므로 여행 관련 산업에 간접적인 영향을 미칠 수 있습니다. 새로운 정보는 아니지만, 현재 여행 동향을 파악하는 데 도움이 됩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China Joins Australia, Cambodia, Thailand, South Korea, Vietnam, Malaysia, and More as Year of the Horse Triggers Historic Travel Surge, Driving Unmatched Growth in Asia-Pacific Tourism - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxObEpZczFwT01IX1hwUDhlTXc2Y0xwNVIweFQtQnNtS0tUN2lfT0EyUVMxcjJhRF9WelowWl9mWXBGUXdZNVd2a3ZXM0pwLVE4S2ZZbzVmLThkb1dKN3J1SjhMaEJaMVctaE9yZVVBRzlHQjhBMlJXUk45NnJpM3Z5eS1ka2J3M3NLX2tRUm9jbFFtallMd0pJU1NsdUZPa0ZPQmZEMndFQ24tNGlfZzV2UVowRFVMVFUwdkNrWlRXajYxT3JCOEdGWG40dC1GQ1RIbHFyN0Y5VDdob2lpX0s1VDg4UzdBRDRIWmNVTG5nOTEzV1Y3d3haZHpaNDZpTUNyY1dlTlVCMUhKQ0lpcDgzTmMzeFVTdi1KdnhBb2VkaV9nNDQzZDk4aFpuV1BWUzlwUE1ia1JiNVU4NWptcXZHblotbFlVOFlBak40?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-14"
     }
   ]
