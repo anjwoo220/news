@@ -1992,6 +1992,12 @@ def get_restaurant_details(place_id, gemini_api_key=None, language="Korean"):
         # 리스트 중 가장 구체적인 1~2개만 사용
         cuisines = cuisines[:2]
         
+        # [FIX] Define missing variables extracted from result_data
+        reviews = result_data.get('reviews', [])
+        name = result_data.get('name', '')
+        # editorial_summary is a dict with 'text' and 'languageCode'
+        editorial_summary = result_data.get('editorial_summary', {}).get('text', '')
+        
         analysis = analyze_restaurant_reviews(reviews, rating, price_level, name, num_reviews=num_reviews, api_key=gemini_api_key, language=language)
         recommended_menu = analyze_reviews_for_menu(reviews, editorial_summary)
         
