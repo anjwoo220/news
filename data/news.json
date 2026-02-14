@@ -11768,14 +11768,9 @@
       "summary": "- 8명의 대만인이 '태국 무료 여행' 광고에 속아 미얀마로 인신매매 당했습니다.\n- 이들은 취업 사기를 당해 강제 노동에 시달리고 있는 것으로 알려졌습니다.\n- 유사한 사기에 대한 주의가 필요하며, 신뢰할 수 있는 여행사 이용이 중요합니다.",
       "full_translated": "기사 전문은 제공되지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 대한 잠재적 위협을 알리는 기사입니다. 인신매매는 심각한 범죄이므로 높은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "8 Taiwanese trafficked to Myanmar after falling for 'free Thailand tour' - MSN",
@@ -11783,7 +11778,35 @@
           "source": "MSN"
         }
       ],
-      "collected_at": "02:23",
+      "collected_at": "2:23",
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNY0szcnhWS280ejdNeEVlMV8ydGt4THI0djBGcE5nMFV5cW1aMFZrcTVWZWJ5NklsMVY3a04tTTh2aTQtdU1iTVRjM1VuZU5SanVUTklZeldEcVFaWkI4bDN1R2NHdFZDb0lmNG15cFF6UHd0dnZnbTdGazZyM0FJSzNqdTdKZjdaYlpJdDUzaFZ5dmhWeEVDMWg1aXc2SENGZm4xT21GS1ZMVEUwZlY3NUdIdnVaZHNLNmZIcGFpZmlUTmhpX1AzMEZiQmtqdDdKMEI1WGlKOXBWV1hTcGticTNiM1lCUzNZV2JzZ2ctUXVXOVdldDkweXhrU1djaVhrNk5SYzR0UmZ1X09GSGVqTmQyZFg0RzBjbV91d3VpVDlfdW9EamhRYmp4Q1ZrdTRkUGx3THdWYkNqTXBGbHpZdlZEMkVUYmV3NFh4Z014cUM?oc=5",
+      "source": ""
+    },
+    {
+      "title": "영국인 관광객, 태국 상점에서 물을 사던 중 칼에 찔려 쓰러져",
+      "summary": "- 22세 영국인 관광객이 태국 상점 안에서 물을 사던 중 칼에 찔려 쓰러짐.\n- 쇼핑객들은 공포에 질려 도망쳤다고 보도됨.\n- 사건 발생 장소와 범행 동기는 아직 불분명함.",
+      "full_translated": "태국에서 영국인 관광객이 상점에서 물을 사던 중 칼에 찔리는 사건이 발생했습니다. 22세의 피해자는 현장에서 쓰러졌으며, 주변 쇼핑객들은 공포에 질려 대피했습니다. 현재까지 범행 동기 및 자세한 사건 경위는 알려지지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 대상 범죄 발생은 안전에 직접적인 영향을 미치므로 높은 점수 부여. 특히, 관광객 밀집 지역에서의 사건은 주의를 요함.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - the-sun.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkR4ZUhackFIbktnZDUxcHBuWUdoVWI0NnpSMjZab3QzVl9ZRGdIazlPRXVZWEFsdU1zc0w0TnZzR1RUNkN2SXhTd3ZrS3NEcENEUTZpMmU1NGFKaTBmX0tkR1VYWGtkTS1DTXEwMU9jbGlEQm9UY2loSGlEcW1oSHplZk4wSC12?oc=5",
+          "source": "the-sun.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-15"
     }
   ]
