@@ -11789,14 +11789,9 @@
       "summary": "- 22세 영국인 관광객이 태국 상점 안에서 물을 사던 중 칼에 찔려 쓰러짐.\n- 쇼핑객들은 공포에 질려 도망쳤다고 보도됨.\n- 사건 발생 장소와 범행 동기는 아직 불분명함.",
       "full_translated": "태국에서 영국인 관광객이 상점에서 물을 사던 중 칼에 찔리는 사건이 발생했습니다. 22세의 피해자는 현장에서 쓰러졌으며, 주변 쇼핑객들은 공포에 질려 대피했습니다. 현재까지 범행 동기 및 자세한 사건 경위는 알려지지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 대상 범죄 발생은 안전에 직접적인 영향을 미치므로 높은 점수 부여. 특히, 관광객 밀집 지역에서의 사건은 주의를 요함.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - the-sun.com",
@@ -11805,7 +11800,34 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:43",
+      "collected_at": "2:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkR4ZUhackFIbktnZDUxcHBuWUdoVWI0NnpSMjZab3QzVl9ZRGdIazlPRXVZWEFsdU1zc0w0TnZzR1RUNkN2SXhTd3ZrS3NEcENEUTZpMmU1NGFKaTBmX0tkR1VYWGtkTS1DTXEwMU9jbGlEQm9UY2loSGlEcW1oSHplZk4wSC12?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중국 설맞이 여행객 유치 캠페인 'Zhong Tai Yi Jia Qin' 시작",
+      "summary": "- 태국이 중국 설 연휴 기간 동안 중국인 관광객 유치를 위한 특별 캠페인을 시작했습니다.\n- 'Zhong Tai Yi Jia Qin' 캠페인은 양국 간 우호 관계를 강조하고 있습니다.\n- 비자 관련 정보는 VisaHQ에서 확인할 수 있습니다.",
+      "full_translated": "태국이 중국 설맞이 여행객 유치를 위해 'Zhong Tai Yi Jia Qin' 캠페인을 시작했습니다. 자세한 내용은 VisaHQ에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중국 설 연휴 기간 동안 태국을 방문하는 여행객에게 유용한 정보이므로 포함. 여행 편의 증진 캠페인.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Launches “Zhong Tai Yi Jia Qin” Campaign to Court Chinese New-Year Travelers - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZDJOczBwc0E2VUFib25DMXIyZGxIMEx4R0c5VVZDOG14MFVUa0VGa2tnSmY5by05MXo1TWR2bWJuSnBUX193Z0FsbXo0SFQ3RFJKc3NIamVReFFOa3hydnZsVDdOTXN5RGlOc0RGRUxIZ29hYi1wNTdlSEpjakYzelhVVmlKQ29zVkxCYkhBa1FPWjR3TzhpYU50TGFtXzNsWGc4anFvTkVLbjNCT0NNRlJZeXlaTk1ZOHZBTVFOWEtCUm1X?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-15"
     }
