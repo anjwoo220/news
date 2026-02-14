@@ -11899,14 +11899,9 @@
       "summary": "- 태국 정부가 인도 관광객에게 60일 무비자 체류를 허용합니다.\n- 디지털 유목민을 위한 새로운 비자 프로그램인 'Destination Thailand Visa'를 도입합니다.\n- 이는 태국 관광 산업 활성화에 기여할 것으로 예상됩니다.",
       "full_translated": "태국이 인도인 대상 60일 무비자 체류를 승인하고 디지털 유목민을 위한 'Destination Thailand Visa'를 공개했습니다. VisaHQ",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행자에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 인도 여행객에게는 매우 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand approves 60-day visa-free stays for Indians and unveils ‘Destination Thailand Visa’ for digital nomads - VisaHQ",
@@ -11915,23 +11910,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:44",
+      "collected_at": "4:44",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUWw1Z2hjX2RhR0RXS0R1TnoxNTdTbTdsVlJTMkhaQ2o1UU1wSTdhSjhVb0Z3QWhtb2dObUNpdlpwZkFNN2hRUUZkd19NOWNMdDNYUG9fNXp4eFloN3lPWU5IUkxXWEMyQlVYUXY0UnI5WF9oVG8tU0pJOVphMEJaX1Y2Q0JwNC1TLUF3d0ZDd0JyamJOTVk4SU5lTFVTaWNoWkhzVzdkUFJTMFc1U0R5Y0tKUElYX090UF83N1ZwWEZlOXVjUlZrdGtoZ1R0SjAta25wR1RWWWZwZnh3MFZ0TGRBQWVuTW8?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 춘절 연휴 기간 아시아 태평양 지역 관광 활성화 전망 - VisaHQ",
       "summary": "- 신화통신에 따르면 중국의 해외여행 붐이 아시아 태평양 지역 관광을 활성화할 것으로 예상됩니다.\n- 춘절 연휴 기간 동안 중국인 관광객 증가가 기대됩니다.\n- 태국을 포함한 아시아 국가들이 중국 관광객 유치에 적극적으로 나설 것으로 보입니다.",
       "full_translated": "신화통신: 중국의 해외여행 붐이 춘절 연휴 기간 동안 아시아 태평양 지역 관광을 활성화할 것으로 예상됩니다. VisaHQ",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "춘절 연휴 기간 동안 중국인 관광객 증가 예상되며, 태국 관광에 긍정적인 영향 예상. 비자 정책과 연계될 가능성 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Xinhua: China’s Outbound Boom Set to “Gallop” Asia-Pacific Tourism Over New-Year Holiday - VisaHQ",
@@ -11940,23 +11932,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:44",
+      "collected_at": "4:44",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTTEtckd0dHNxTnlEWlFKUjZIbWZ0T3BPb0ZBSUw2bjlXTTBKWnlLZXllWFNMTjdaRmJiQUxyMkF2X0JVb0ZVV0JOVkt5R3dTdXRtMzVsX2Vxa3lMMnNoUEMtZWkxZ3NGR2Y1eFFDeUVTWm9MS2xKbE1RandncXJDQnBWTGxtUFl0Wm8zVDBEM2lkU0ZoY1ZkTEN5MThzWTFKekFWbnc0WVRrSC1QNWZXNVo2Z0FVbWZ3YWEtVDdHRkpNeS1vc3c?oc=5",
+      "source": ""
     },
     {
       "title": "태국 경찰, 수백만 달러 상당의 마약 소지 이스라엘 '최고 거래상' 체포",
       "summary": "- 태국 경찰이 수백만 달러 상당의 마약을 소지한 이스라엘 국적의 '최고 거래상'을 체포했습니다.\n- 용의자는 마약 거래 혐의로 태국에서 활동해 온 것으로 알려졌습니다.\n- 자세한 수사 진행 상황은 아직 공개되지 않았습니다.",
       "full_translated": "Ynetnews에 따르면 태국 경찰은 수백만 달러 상당의 마약을 소지한 이스라엘 '최고 거래상'을 체포했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행자 안전에 영향을 줄 수 있는 범죄 관련 뉴스이므로 포함. 마약 관련 범죄는 여행자들에게 잠재적 위험 요소가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai police arrest Israeli ‘top dealer’ with millions in drugs - Ynetnews",
@@ -11965,8 +11954,58 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:44",
+      "collected_at": "4:44",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40MVo3WDlqaHVBMk03MWx5dnZGMVJOMG9lU1VzR2xETVljX0wxaDBDY05jOTI4ZmkxRk9keGRTMWtISTBOUDJCTUNKdWlZWnNSa09Fd3ZB?oc=5",
+      "source": ""
+    },
+    {
+      "title": "영국 관광객, 태국 여행 시 감옥행 경고 직면: 2026년 새로운 해외 여행법",
+      "summary": "- 영국 외무부, 2026년부터 시행될 새로운 해외 여행법에 따라 태국 여행객 대상 감옥행 경고 발표.\n- 구체적인 법규 내용은 언급되지 않았으나, 태국 내 법규 위반 시 엄격한 처벌 가능성 시사.\n- 여행 전 최신 여행 규정 확인 및 준수 필요.",
+      "full_translated": "영국 관광객이 태국 휴가 중 감옥에 갈 수 있다는 경고가 나왔습니다. Travel And Tour World에 따르면 영국 외무부는 2026년부터 새로운 해외 여행법을 시행할 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 관련 법규 변경 가능성 및 잠재적 처벌 경고는 여행객 안전에 영향을 미칠 수 있으므로 높은 점수 부여. 비자 관련 사항은 아니지만, 주의가 필요함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UK Tourists Face Prison Warning: New Foreign Office Travel Laws for 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRWwxc3c3OGdjMlM0OGNIa2wyQXJJc3BfVXdzUDhrTjRtbWNSbG54VXo4VExWMGV0dHcyREFiNTE0X1N5cnJocUxXLVJSQlpROU9HV1ZJUlNuUW1PSU5uNGpxOHVHbWZXTlJRRGJfZF9YRFMtcWZYUzRfdnZkd1BFZjlpd3k5VEotcG01RU1wdFZzQ2VWbUJMc2tHOXhvTGgtMW91dS1xNWVVWjdqRV8wR3lDNzgwTUo5U21DbQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:14",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "촌부리에서 열리는 카오치찬 축제에서 태국의 풍부한 문화를 경험하세요",
+      "summary": "- 촌부리에서 열리는 카오치찬 축제는 태국의 풍부한 문화적 아름다움을 선보입니다.\n- 전통, 예술, 정신의 세계로 여행을 떠날 수 있습니다.\n- Travel And Tour World에서 상세한 정보를 확인할 수 있습니다.",
+      "full_translated": "촌부리에서 열리는 카오치찬 축제에서 태국의 풍부한 문화적 아름다움을 경험하세요. 전통, 예술, 정신의 세계로의 여행을 떠나보세요. Travel And Tour World",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행객에게 문화 체험 기회 제공, 축제 정보는 여행 계획에 유용",
+      "event_info": {
+        "date": null,
+        "location": "Khao Chi Chan, Chonburi",
+        "price": "정보 없음",
+        "location_google_map_query": "Khao Chi Chan, Chonburi"
+      },
+      "references": [
+        {
+          "title": "Unveil the Rich Cultural Splendor of Thailand at the Spectacular Khao Chi Chan Festival in Chonburi With A Journey into Tradition, Art, and Spirituality - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOXzN3M3hDajdKOWJUaFZ3LTBiOXlkRW1wdEZ6UWdnX0l5MlBIQVNHQnhuaDlTQm02VUE4bkVlbExtWFN1S01BdDhnSmd6NkFIZ0xsSkdaRmtqanFpbW0zeUExdS1RX3NKWWVWMWp3QVdZS3RDQS1pTk1DS05DYlBudlE3NER5d1BSOURlSjdaelM2eVdmbGNYVldwYks0OUloVzJRS29EVU1qNV81ZkFYZndMaE5FdXRLZEZ5TFcxdVhONjhONFJjMXd0QW8xbUtiaEZPVVdJb0FoWmhmbXFDWXozeDhscC1LMzNkZ252eWN3aWNhcTdkZlN5M1hUQjlGeVVNcElHU2lBNU54ejN4a2wyQnItU1ZRZTlreXlrWldaZXFiWUE?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "05:14",
       "date": "2026-02-15"
     }
   ]
