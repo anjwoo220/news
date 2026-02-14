@@ -11580,14 +11580,9 @@
       "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축할 예정입니다.\n- 이는 관광 활성화를 위한 조치로 풀이됩니다.\n- 변경 사항은 추후 공지될 예정입니다.",
       "full_translated": "태국이 무비자 체류 기간을 60일에서 30일로 단축합니다. VnExpress International",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여합니다. 특히, 체류 기간 단축은 여행 계획에 직접적인 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
@@ -11596,23 +11591,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:48",
+      "collected_at": "0:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGppekM0R29ha2RSc3RWeWJGYkY5b2JVZTlFRGNTX2ZSNTRabXZFRUFLRTZ0WjdVTVFveUlTME1NNTBRdF8tUjlxQ0xiQUpWaG81NGtWTnhQcVFrYU95V1lhZEFMejVFZ0h1WXJiaWxYWGNXeW53TDRzRVhBMEVlM3YzT2JIMlY4UEszZUdPRjE2b21WZ0wtTHIzdWVCd0NmQmV4N3Z6OHQ?oc=5",
+      "source": ""
     },
     {
       "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면",
       "summary": "- 태국에서 영국 관광객들이 범죄 행위로 인해 감옥에 갈 위험에 처할 수 있다는 경고가 나왔습니다.\n- 구체적인 범죄 유형과 처벌에 대한 정보는 기사에 명시되어 있지 않습니다.\n- 태국 여행 시 법규 준수에 대한 주의가 필요합니다.",
       "full_translated": "영국 관광객, 태국 휴가 중 감옥 경고 직면 Liverpool Echo",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해외여행 중 발생할 수 있는 법적 문제에 대한 경각심을 주는 정보이며, 여행자 안전과 관련된 내용이므로 7점 부여. 다만, 구체적인 범죄 유형이나 처벌에 대한 정보가 부족하여 더 높은 점수를 부여하기는 어려움.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
@@ -11621,23 +11613,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:48",
+      "collected_at": "0:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaGMwTVZoRkFCNHR5VlFXc2IwdEQ4Y2t3TG1wajNmeFEtalBCTEF2d3daMXBEYkpIWXJSOVJJb0VRV29pWDlRUV9TeEktSzRRTTdKYjQ4cUN0YVFnaTl0ZUtHbTJiVnV1eEw0YUE2cEZvNWZCcTgtZWxlSzRMM0otQ3pVSXZ2TFlLOGZqUU5OSkRiSjl1cmc?oc=5",
+      "source": ""
     },
     {
       "title": "시암 리걸 치앙마이, 불법 호텔 운영 관련 체포 후 명목상 구조에 대한 경고",
       "summary": "- 시암 리걸 치앙마이가 불법 호텔 운영과 관련된 체포 사건 이후 명목상 구조에 대해 경고했습니다.\n- 이는 외국인이 태국 법인을 통해 부동산을 소유하는 것을 방지하기 위한 조치입니다.\n- 치앙마이 지역에서 불법 호텔 운영에 대한 단속이 강화될 것으로 예상됩니다.",
       "full_translated": "Siam Legal Chiang Mai Warns Against Nominee Structures Following Arrests Linked to Illegal Hotel Operations Florida Today",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 외국인 부동산 소유 규제 관련 정보로, 여행 및 장기 체류 계획에 영향을 줄 수 있어 보통 점수 부여. 불법 호텔 운영에 대한 경고는 여행객에게 숙소 선택 시 주의를 요하게 함.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이",
-        "price": null,
-        "location_google_map_query": "치앙마이"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이', 'price': None, 'location_google_map_query': '치앙마이'}",
       "references": [
         {
           "title": "Siam Legal Chiang Mai Warns Against Nominee Structures Following Arrests Linked to Illegal Hotel Operations - Florida Today",
@@ -11646,8 +11635,121 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:48",
+      "collected_at": "0:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSlRTZk5GajA5d1JBRUlMLU9ic3NGMnVGa1hHNko0Tm5jZ3Q3ejZ4UjkxRDV1NVFtbU03NlppZXFLMzB2X0JQZXRodEhHV0JrcVdNNlYtdVlHNmMydWNEU1dzNllqam01alRmWDBDbnRtZlc1MG01cjlWNlNnallyNWdTSzV0NU1CYXlPSEhrOTlGUlA3V1VwelZGc2JvU0w1ZXFOeDdPdUZZYnY1ZVNRXzR5TXdSbTJjdnJ1YUh1RS1fUVVwaFFwMVZwYVI0T3JpYTFoT0p0SUNXMW42OU50SjZ1YnpiQnZhVlRKLVM5SGY4cW10eWc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축",
+      "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축할 예정입니다.\n- 변경된 규정은 여행 계획에 영향을 미칠 수 있으므로 주의가 필요합니다.\n- 장기 여행을 계획하는 여행객은 비자 관련 정보를 확인해야 합니다.",
+      "full_translated": "태국 정부는 무비자 체류 가능 기간을 기존 60일에서 30일로 단축할 계획입니다. 이 변경 사항은 태국으로의 여행을 계획하는 여행객들에게 중요한 영향을 미칠 수 있습니다. 특히 장기간 체류를 고려하는 여행객들은 변경된 비자 규정을 꼼꼼히 확인하여 여행 계획에 차질이 없도록 해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "무비자 체류 기간 변경은 여행 계획에 직접적인 영향을 미치므로 매우 중요.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [],
+      "collected_at": "01:22",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면: 전자담배 소지 주의",
+      "summary": "- 태국에서 전자담배 소지는 불법이며, 적발 시 징역형에 처해질 수 있습니다.\n- 영국 정부는 태국 여행객들에게 전자담배 관련 법규를 준수할 것을 권고합니다.\n- 태국 여행 시 전자담배 소지 및 사용에 각별히 주의해야 합니다.",
+      "full_translated": "태국에서 전자담배 소지는 불법이며, 영국 관광객들이 태국 휴가 중 감옥에 갈 위험에 처해 있다는 경고가 나왔습니다. 태국 법률에 따르면 전자담배를 소지하거나 판매하는 것은 불법이며, 위반 시 엄격한 처벌을 받을 수 있습니다. 영국 외무부는 태국을 여행하는 자국민들에게 전자담배 관련 법규를 숙지하고 준수할 것을 강력히 권고하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "법률 위반으로 인한 처벌은 여행객 안전에 심각한 위협이 되므로 높은 점수를 부여합니다. 특히 전자담배 관련 법규는 인지하지 못하는 경우가 많아 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
+          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/uk-tourists-face-prison-warning-28630410",
+          "source": "Liverpool Echo"
+        }
+      ],
+      "collected_at": "01:22",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "Tourist throws sex worker to the ground",
+      "summary": "- 관광객이 성매매 여성을 바닥에 내던지는 사건 발생",
+      "full_translated": "관광객이 성매매 여성을 바닥에 내던지는 사건이 발생했습니다. 관련 기관에서 사건 경위를 조사 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "범죄 관련 소식으로, 여행객 안전에 영향을 줄 수 있다고 판단",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Tourist throws sex worker to the ground - News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQU2FjRktjZDhXTFQ2WVczN1ExNkxHbXVQMi1UWVJjTnJ0S3RHNTFtRFdNaUh2M0wzT2pnNUJfNTMyRFlyTkhpUXMzRUtIUF9nQ3p6R1g0akJSTDl1VXNCSGFVdG9kUnFoanplNWlMZTlVcTk5bl9keHI4MTI3UVI3NkdwaVRxNWZDN0NhTUpRRGwyZExLS0JpX0xKWHZDWF9CS0xIVlpXLV9fa29EV3dRQ0R3Wk1MMGxKYUw4X05fMFNtWUs1RExuVVJSYUQxTHVZcG5USUhWQkw5enVrcUZNejA2Q05yOGtxT0VmY0kxM3dZNlNla2daT050c9IBgAJBVV95cUxQR0F0WmFOWGFUTjdzaXVYRjlMUWtKaXdXRnpiT2Y4SnFVOTlzTmdKQWE3Z0c1Zzlod2Q5Q05PYTE1UV8wRXhBbjItY3Rodm9Vb0hHb29UV1lzNE44Q3B0ZEhDam5zQWpFTHM5UGdhYzBIejVYWVlnRlVLME1GRE1UM29XaWV4d0FvZEk4Y1NBbzY1Q04wWTlkeUw4WTA3a3BXbUVvQkNrN0tjd0gyajRUU0IxeW1YVmZhNzFrd3JEbUtXeDljMGFlbHZJQnROZzV4S3pkV291bm5LQkRuM1F6N01mLWVGdVhCSHE5Xzc1YnJsSF9nV202dnBSX2Fua1pO?oc=5",
+          "source": "News.com.au",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "아시아 지역 항공편 운항 차질 지속: 일본, 중국, 인도네시아, 태국 등 항공편 취소 및 지연",
+      "summary": "- 아시아 주요 공항에서 항공편 취소 및 지연이 계속 발생하고 있습니다.\n- 태국 푸껫을 포함한 여러 지역에서 항공편 운항에 차질이 빚어지고 있습니다.\n- 항공편 이용객은 실시간 운항 정보를 확인하고, 항공사에 문의하는 것이 좋습니다.",
+      "full_translated": "아시아 전역에서 항공편 운항 차질이 계속되고 있습니다. 일본, 중국, 인도네시아, 태국 등에서 38편이 취소되었고 1,022편이 지연되었습니다. 바틱 에어, 가루다, 전일본공수, 젯스타, 스프링 항공, 티베트 항공 등이 영향을 받고 있으며, 자카르타, 상하이, 나리타, 푸껫 등지의 공항에서 혼란이 발생하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "항공편 취소 및 지연은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 푸껫 등 인기 여행지가 포함되어 있어 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "자카르타, 상하이, 나리타, 푸껫 등",
+        "price": null,
+        "location_google_map_query": "푸껫 공항"
+      },
+      "references": [
+        {
+          "title": "Massive Travel Disruptions Across Asia as Japan, China, Indonesia, Thailand and More Cancel 38 Flights and Delay 1,022, Affecting Airlines Like Batik Air, Garuda, All Nippon, Jetstar, Spring, Tibet Airlines and Others in Jakarta, Shanghai, Narita, Phuket and - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vMjAyNC8wMi9tYXNzaXZlLXRyYXZlbC1kaXNydXB0aW9ucy1hY3Jvc3MtYXNpYS1hcy1qYXBhbi1jaGluYS1pbmRvbmVzaWEtdGhhaWxhbmQtYW5kLW1vcmUtY2FuY2VsLTM4LWZsaWdodHMtYW5kLWRlbGF5LTEwMjItYWZmZWN0aW5nLWFpcmxpbmVzLWxpa2UtYmF0aWstYWlyLWdhcnVkYS1hbGwtbmlwcG9uLWpldHN0YXItc3ByaW5nLXRpYmV0LWFpcmxpbmVzLWFuZC1vdGhlcnMtaW4tamFrYXJ0YS1zaGFuZ2hhaS1uYXJpdGEtcGh1a2V0LWFuZC8?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "01:22",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 사원 근처 비키니 일광욕 관광객, 부적절한 행동으로 비난 직면",
+      "summary": "- 태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객들이 논란이 되고 있습니다.\n- 현지 문화와 종교적 장소에 대한 존중 부족이 문제점으로 지적됩니다.\n- 태국 여행 시 공공장소에서의 복장 규정을 준수하는 것이 중요합니다.",
+      "full_translated": "태국 사원 근처에서 비키니를 입고 일광욕을 하는 관광객들이 현지인들의 비난을 받고 있습니다. 태국은 불교 국가로서 사원과 같은 종교적 장소에서는 복장 규정이 엄격하게 적용됩니다. 관광객들은 현지 문화를 존중하고 적절한 복장을 착용해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "문화적 차이로 인한 논란은 여행객에게 불쾌한 경험을 초래할 수 있으므로 중요한 정보입니다. 태국 여행 시 주의해야 할 사항을 알려줍니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 사원 근처",
+        "price": null,
+        "location_google_map_query": "태국 사원"
+      },
+      "references": [
+        {
+          "title": "Tourists criticized for sunbathing in bikinis near Thai temple - MSN",
+          "url": "https://www.msn.com/en-us/travel/news/tourists-criticized-for-sunbathing-in-bikinis-near-thai-temple/ar-BB1hYn1q",
+          "source": "MSN"
+        }
+      ],
+      "collected_at": "01:22",
       "date": "2026-02-15"
     }
   ]
