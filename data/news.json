@@ -9205,14 +9205,9 @@
       "summary": "- 방콕의 초미세먼지(PM2.5) 농도가 4개 지역에서 기준치를 초과하여 건강에 영향을 미치기 시작했습니다.\n- 4곳은 랏끄라방, 쁘라웻, 락씨, 농쪽 지역이며, PM2.5 수치는 37.7~39.1 마이크로그램/세제곱미터입니다.\n- 외출 시 마스크 착용, 야외 활동 자제 등 건강 관리에 유의해야 합니다.",
       "full_translated": "2025년 2월 14일, 방콕의 초미세먼지(PM2.5) 농도가 기준치를 초과하여 건강에 영향을 미치기 시작했습니다. 방콕 대기질 정보 센터에 따르면, 2025년 2월 14일 07:00 기준, PM2.5의 24시간 평균 농도는 16-39.1 마이크로그램/세제곱미터(μg/m³)로 측정되었으며, 이는 기준치인 37.5 μg/m³을 초과하는 수준입니다. 특히 랏끄라방(39.1 μg/m³), 쁘라웻(38.5 μg/m³), 락씨(38.2 μg/m³), 농쪽(37.7 μg/m³) 지역에서 높은 농도를 보였습니다. 대기질 지수는 대부분 '보통' 수준입니다. 기상청은 아침에 옅은 안개가 끼고 곳에 따라 약한 비가 내릴 것으로 예보했습니다. 주황색 수준의 공기 질은 건강에 영향을 미치기 시작하므로, 일반 시민은 외출 시 PM2.5 마스크를 착용하고 야외 활동 시간을 제한해야 합니다. 기침, 호흡 곤란, 눈 자극 등의 증상이 나타나면 의사와 상담하십시오. 특히 건강 취약 계층은 야외 활동을 피하고 의사의 권고를 따르는 것이 중요합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 건강에 직접적인 영향을 미치는 미세먼지 정보. 매일 업데이트되는 데이터이므로 포함.",
-      "event_info": {
-        "date": "2025-02-14",
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': '2025-02-14', 'location': '방콕', 'price': None, 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "ค่าฝุ่นวันนี้ 14 ก.พ. 69 กทม. PM 2.5 เกินมาตรฐานในระดับสีส้ม เริ่มกระทบสุขภาพ 4 พื้นที่",
@@ -9221,23 +9216,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9e1UBpt9eWjoW.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9e1UBpt9eWjoW.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/bangkok/2914157",
+      "source": ""
     },
     {
       "title": "파리, 개선문 인근에서 흉기 난동 발생",
       "summary": "- 파리 개선문 인근에서 흉기를 든 남성이 경찰에 의해 제압됨.\n- 용의자는 무명 용사 기념 의식 중 경찰을 공격하려 함.\n- 대테러 검찰이 수사에 착수, 용의자는 과거 테러 관련 범죄로 복역한 전력이 있음.",
       "full_translated": "파리 중심부에서 충격적인 사건이 발생했습니다. 한 남성이 흉기를 들고 경찰을 공격하려다 사살되었습니다. 이 사건은 프랑스 개선문 아래 무명 용사를 기리는 의식 중에 발생했습니다. 파리 경찰은 용의자가 의식에서 경비를 서고 있던 경찰관을 겨냥했다고 밝혔습니다. 다른 경찰관이 총을 쏴 용의자를 제압했으며, 용의자는 부상을 입고 병원으로 이송되었지만 결국 사망했습니다. 다행히 시민이나 경찰관은 부상당하지 않았습니다. 개선문은 파리의 가장 중요한 상징 중 하나이며 샹젤리제 거리에 위치해 있습니다. 프랑스 대테러 검찰은 이 사건에 대한 수사를 시작했으며, 용의자는 과거 테러 관련 범죄로 12년 형을 복역하고 지난 12월에 출소한 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객이 많이 찾는 파리 중심부에서 발생한 사건으로 안전에 대한 주의가 필요하며, 테러 가능성 수사로 인해 주변 경계가 강화될 수 있음. 다만, 상황이 빠르게 통제되었고 추가 피해는 없어 안전 관련 점수는 7점으로 책정.",
-      "event_info": {
-        "date": null,
-        "location": "개선문, 파리",
-        "price": null,
-        "location_google_map_query": "개선문, 파리"
-      },
+      "event_info": "{'date': None, 'location': '개선문, 파리', 'price': None, 'location_google_map_query': '개선문, 파리'}",
       "references": [
         {
           "title": "ระทึกกลางกรุงปารีส! คนร้ายถือมีดบุกจู่โจมตำรวจระหว่างพิธีสำคัญ ถูกยิงสกัดเสียชีวิต",
@@ -9246,23 +9238,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9e1ZF6BYPR9E1.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9e1ZF6BYPR9E1.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/foreign/2914156",
+      "source": ""
     },
     {
       "title": "태국 무역 경쟁법, 전자상거래 불공정 행위 단속 강화",
       "summary": "- 태국 무역 경쟁 위원회(TCCT)가 전자상거래 플랫폼의 불공정 행위 및 독점 방지를 위한 새로운 지침 발표 예정.\n- 온라인 판매자가 자체 물류 제공업체를 선택할 수 있도록 자율성 부여.\n- 플랫폼이 판매자에게 특정 물류 업체를 강요하는 행위 등 불공정 행위 규제.",
       "full_translated": "태국 무역 경쟁 위원회(TCCT)는 2017년 무역 경쟁법에 대한 새로운 지침을 발표할 예정이며, 다음 달 Royal Gazette에 게재될 것으로 예상됩니다. 이 지침은 전자 상거래에 초점을 맞춰 다면 플랫폼 비즈니스에서 불공정 거래 행위를 억제하고 독점적 행동을 방지하는 것을 목표로 합니다.\n\nTCCT 사무총장 Visanu Vongsinsirikul은 Bangkok Post에 불공정 거래 행위 평가 지침 및 관련 규칙이 2월 10일에 TCCT 이사회에 제출되었다고 밝혔습니다. 이 지침은 수정 후 다음 주 이사회에서 재검토될 예정이며 3월에 Royal Gazette에 게시될 예정입니다. 이 지침은 원래 2025년 10월에 도입될 예정이었습니다.\n\n주요 목표는 온라인 판매자가 플랫폼에서 지정한 배송 옵션에서 벗어나 자체 물류 제공업체를 선택할 수 있도록 더 큰 자율성을 부여하는 것입니다. \n\n지침에 포함된 내용은 무엇입니까? 최신 버전에 따르면 불공정한 비가격 행위에는 플랫폼이 충분한 이유 없이 판매자에게 조건을 강요하는 행위가 포함됩니다. 한 가지 예는 전자 상거래 운영자가 판매자에게 배송 옵션을 선택하는 대신 특정 물류 제공업체 또는 자체 지정 물류/운송 서비스를 사용하도록 강요하는 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행자가 태국에서 온라인 쇼핑 시 알아두면 유용한 정보. 직접적인 영향은 적으나 소비자 권익 보호 관련 내용이므로 '보통' 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Levelling the e-commerce playing field",
@@ -9271,23 +9260,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/14/5967620_700.jpeg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/14/5967620_700.jpeg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.bangkokpost.com/business/general/3197165/levelling-the-ecommerce-playing-field",
+      "source": ""
     },
     {
       "title": "방콕 발렌타인데이, 장미꽃 구매 열기... 올해 가격은 높지 않아",
       "summary": "- 방콕 꽃 시장, 발렌타인데이 맞아 장미꽃 구매하는 젊은층 북적\n- 올해는 장미 개화 시기가 발렌타인데이와 맞아 가격 부담 적어\n- 다양한 가격대의 꽃다발 판매, 맞춤 제작도 가능",
       "full_translated": "2월 14일, 방콕 꽃 시장의 발렌타인데이 장미꽃 판매 분위기는 매우 활기찹니다. 많은 젊은이들이 장미꽃을 사거나 사랑하는 사람에게 줄 꽃다발을 주문하기 위해 모였습니다. 어떤 사람들은 현금으로 꽃다발을 주문하기도 했습니다. 2월 14일, 치앙마이 지방 무앙 지역의 꽃 시장에서 많은 사람들과 젊은이들이 발렌타인데이를 맞아 사랑하는 사람에게 줄 장미꽃을 고르고 꽃다발을 예약했습니다. 올해는 꽃 시장이 예년보다 활기찬데, 이는 공휴일과 겹치고 상인들이 판매하기 위해 주문한 장미꽃이 발렌타인데이에 맞춰 피었기 때문에 장미 가격이 작년만큼 비싸지 않기 때문입니다. 유핀 꽃집의 주인인 Nang Plengsri Nakham은 올해 장미꽃이 많이 피고 가격이 비싸지 않아 예년보다 활기차다고 뉴스 팀에 밝혔습니다. 따라서 젊은이들이 저렴한 가격으로 많이 사러 오기 때문에 주문이 계속 들어오고 있습니다. 그녀의 가게에서는 작은 꽃다발부터 큰 꽃다발까지 20바트, 100바트, 500바트, 1,000바트의 가격으로 판매합니다. 가장 큰 꽃다발은 고객이 100바트 지폐 199장으로 장미꽃을 대신하여 주문한 것으로 가게에서 가장 비싼 15,000바트가 넘습니다. 꽃다발은 고객이 주문하는 대로 가게에서 모두 준비할 수 있으며, 가격은 각자의 재정 상황에 따라 다릅니다. 가게에서는 모든 것을 준비할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "발렌타인데이 분위기를 알 수 있는 소식. 여행 중 선물 구매에 참고 가능.",
-      "event_info": {
-        "date": "2024-02-14",
-        "location": "방콕 꽃 시장",
-        "price": "20바트 ~ 15,000바트",
-        "location_google_map_query": "Pak Khlong Talat, Bangkok"
-      },
+      "event_info": "{'date': '2024-02-14', 'location': '방콕 꽃 시장', 'price': '20바트 ~ 15,000바트', 'location_google_map_query': 'Pak Khlong Talat, Bangkok'}",
       "references": [
         {
           "title": "\"วาเลนไทน์\" คึกคัก คนแห่ซื้อดอกไม้มอบให้คนรัก ปีนี้กุหลาบราคาไม่สูงมาก",
@@ -9296,23 +9282,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9e1o8bC1F5SPE.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9e1o8bC1F5SPE.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/north/2914153",
+      "source": ""
     },
     {
       "title": "아누틴 총리, 일본과의 관계 심화 약속",
       "summary": "- 아누틴 총리는 나루히토 일왕의 66세 생일 기념 리셉션에서 양국 관계 강화를 강조했습니다.\n- 태국과 일본은 140년의 외교 관계를 기념하며, 전략적 파트너십을 발전시키기를 희망합니다.\n- 양국은 개방적이고 규칙에 기반한 지역 질서를 지지하며, 인도-태평양 지역의 안정을 위해 협력할 것입니다.",
       "full_translated": "아누틴 차른비라쿨 총리는 나루히토 일왕의 66세 생일 기념 리셉션에서 태국과 일본 간의 오랜 파트너십을 심화할 것을 약속했습니다. 이 행사는 일본 대사관이 퀸 시리킷 국립 컨벤션 센터에서 주최했으며, 고위 관리, 외교관 및 시하삭 푸앙케오 외무장관을 포함한 비즈니스 리더들이 참석했습니다. 아누틴 총리는 양국 간의 '확고하고 강력한' 관계를 강조하며, 상호 신뢰와 인적 연결에 기반을 두고 있다고 언급했습니다. 그는 현재 협력이 왕실 교류, 정부 협력 및 민간 부문 파트너십 확대로 이어지고 있다고 덧붙였습니다. 아누틴 총리는 또한 일본의 새로 선출된 총리인 다카이치 사나에에게 축하를 전하며, 태국-일본 전략적 파트너십을 발전시키기 위한 조기 회담을 희망했습니다. 그는 두 지도자가 같은 날 취임했다는 점을 지적하며, 더욱 긴밀한 협력을 위한 상징적인 순간이라고 칭했습니다. 아누틴 총리는 태국과 일본이 개방적이고 규칙에 기반한 지역 질서와 안정적인 인도-태평양을 지지하는 데 단합되어 있다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국과 일본의 관계 강화는 장기적으로 관광 산업에 간접적인 영향을 줄 수 있지만, 당장 여행객에게 직접적인 영향을 미치지는 않습니다. 외교 관계 개선 및 경제 협력 강화는 관광 인프라 개선, 비자 정책 완화, 문화 교류 증진 등의 긍정적인 효과를 가져올 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Anutin vows deeper Japan ties",
@@ -9321,8 +9304,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197080_260214072756_700.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197080_260214072756_700.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.bangkokpost.com/thailand/general/3197080/anutin-vows-deeper-japan-ties",
+      "source": ""
+    },
+    {
+      "title": "중국인 형제, 촌부리 고급 주택에서 '해피 워터' 제조 시설 운영 혐의로 체포",
+      "summary": "- 중국인 형제가 촌부리 지역의 고급 주택을 임대하여 불법 약물 제조 시설을 운영한 혐의로 체포됨.\n- 주민들의 신고로 경찰이 급습하여 '해피 워터' 및 '팟 케'의 원료를 생산하는 시설을 발견함.\n- 체포된 중국인들은 해당 주택을 관리하는 사람이라고 주장하고 있으며, 경찰은 추가 조사를 진행 중임.",
+      "full_translated": "촌부리에서 중국인 형제가 고급 주택을 임대하여 '해피 워터' 및 '팟 케'의 원료를 제조한 혐의로 체포되었습니다. 주민들은 이들이 화학 물질을 하천에 방류하는 것을 목격하고 경찰에 신고했습니다. 경찰은 급습 과정에서 중국인 2명이 도주하려 했으나 체포되었으며, 이 중 1명은 도주 중 부상을 입었습니다. 주택 내부에서는 화학 물질 제조 시설 3개와 다량의 화학 물질이 발견되었습니다. 해당 주택은 외국인이 월 150,000 바트에 임대하여 거주한 지 2개월밖에 되지 않았습니다. 마약단속국(뽀뽀쏘.), 과학수사대, 이민국, 관광 경찰은 합동으로 해당 시설에서 발견된 화학 물질이 어떤 종류인지 조사하고 있습니다. 현장 검사 결과 메트암페타민, 케타민, MDMA(엑스터시) 등 3가지 유형의 마약 성분이 검출되었습니다. 당국은 해당 시설이 전자 담배 액상('팟 케') 또는 '해피 워터' 제조 시설일 가능성이 있다고 보고 있습니다. 이 두 약물은 현재 중국 상류층 사이에서 유행하고 있습니다. 당국은 발견된 화학 물질을 정밀 검사할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "마약 관련 사건으로, 여행객 안전에 잠재적 위협이 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리",
+        "price": null,
+        "location_google_map_query": "촌부리"
+      },
+      "references": [
+        {
+          "title": "บุกรวบ 2 พี่น้องชาวจีน เช่าบ้านหรูตั้งแท่นผลิตสารตั้งต้น “แฮปปี้วอเตอร์ - น้ำยาพอตเค”",
+          "url": "https://www.thairath.co.th/news/local/2914169",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9eh2WrWaGf7fT.jpg"
+        }
+      ],
+      "collected_at": "10:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9eh2WrWaGf7fT.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "방콕 폭염 주의: 차량 과열 방지 및 관리 요령",
+      "summary": "- 방콕의 폭염으로 차량 과열 문제가 발생할 수 있으므로 주의가 필요합니다.\n- 엔진 과열 시 안전한 곳에 주차 후 15~30분간 식히고 냉각수를 보충해야 합니다.\n- 고온으로 인한 엔진 손상을 막기 위해 정기적인 차량 점검이 중요합니다.",
+      "full_translated": "최근 방콕의 폭염으로 인해 차량 엔진 과열 문제가 자주 발생하고 있습니다. 운전 중 계기판의 온도가 90도 이상으로 올라가면 즉시 안전한 곳에 주차하고 엔진을 식히십시오. 보닛을 열어 열기를 배출하고, 15~30분 후 냉각수 또는 깨끗한 물을 보충하며 시동을 걸어 순환시켜야 합니다. 특히 고압 시스템에서는 뚜껑을 열 때 화상에 주의해야 합니다. 엔진 과열은 심각한 손상으로 이어질 수 있으므로 정기적인 차량 점검과 관리가 중요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행자 차량 이용 시 발생할 수 있는 문제에 대한 정보 제공. 폭염 시 차량 관리 요령은 여행 안전에 중요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อากาศร้อน คนหงุดหงิด เครื่องยนต์โอเวอร์ฮีต วิธีดูแลรถยนต์ในช่วงฤดูร้อน",
+          "url": "https://www.thairath.co.th/news/auto/tips/2914145",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9fH26GsBxnSgo.jpg"
+        }
+      ],
+      "collected_at": "10:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9fH26GsBxnSgo.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "톤부리 특별 교도소, 신규 수감자 1명 원숭이두창 의심",
+      "summary": "- 톤부리 특별 교도소에서 신규 수감자 1명이 원숭이두창 의심 증세를 보임.\n- 발진, 고열 등의 증상으로 격리 및 검사 진행 중.\n- 교도소 내 감염 확산 방지를 위해 격리 및 방역 조치 시행.",
+      "full_translated": "교정국은 톤부리 특별 교도소의 신규 수감자 1명이 '원숭이두창' 의심 증세를 보여 치료를 위해 교정 병원으로 이송했다고 밝혔습니다. 2월 14일, 교정국은 톤부리 특별 교도소에서 수감자 1명이 질병 증상을 보여 보고를 받았으며, 교정 병원에서 치료를 받고 있다고 설명했습니다. 수술 준비 중 해당 환자의 발에서 물집이 발견되었고 고열 증세가 동반되어 원숭이두창이 의심되어 검사를 의뢰한 결과, 수감자가 원숭이두창에 감염되었을 가능성이 있는 것으로 나타났습니다. 해당 수감자는 1월 20일에 수감되었으며, 이후 고열과 발의 괴사 증상이 나타나 교정 병원으로 이송되었습니다. 발 수술 준비 중 원숭이두창 증세가 나타나 감염 통제 부서가 파견되어 고위험 수감자를 격리하고 교도소 내 확산 방지를 위해 '버블 앤 씰' 원칙에 따른 통제 조치를 시행하고 있습니다. 신규 수감자 격리, 원숭이두창 병력 청취 및 증상 관찰 (고열, 인후통, 두통, 근육통, 요통, 림프절 비대, 물집, 농포, 딱지 등)을 통해 확산을 막고 있습니다. 현재까지 원숭이두창과 관련된 수감자는 없는 것으로 확인되었습니다. 교정국, 교정 병원, 톤부리 특별 교도소, 보건부, 질병 통제국은 감염 통제 및 예방을 위해 긴밀히 협력하고 있습니다. 교정국은 모든 교도소에 감염 예방을 강화할 것을 지시했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객에게 직접적인 위협은 아니지만, 태국 내 감염병 발생 정보이므로 주의 환기 차원에서 게시. 교도소라는 특정 지역에 국한된 사건이므로 점수를 낮게 책정.",
+      "event_info": {
+        "date": null,
+        "location": "톤부리 특별 교도소",
+        "price": null,
+        "location_google_map_query": "톤부리 특별 교도소"
+      },
+      "references": [
+        {
+          "title": "เรือนจำพิเศษธนบุรีพบผู้ต้องขังเข้าใหม่ 1 ราย แพทย์สงสัยป่วย “ฝีดาษลิง”",
+          "url": "https://www.thairath.co.th/news/local/2914171",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9eQegRAqeqMZS.jpg"
+        }
+      ],
+      "collected_at": "10:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9eQegRAqeqMZS.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 정부, 지적 재산권 침해 상품 대규모 단속: 42,451점, 피해액 2억 2,300만 바트 이상",
+      "summary": "- 태국 정부가 지적 재산권 침해 상품 42,451점을 압수하여 2억 2,300만 바트 이상의 피해를 막았습니다.\n- 단속은 상표권 침해 및 저작권 침해 상품을 대상으로 이루어졌으며, 유명 브랜드의 가방, 신발, 시계 등이 포함되었습니다.\n- 정부는 위조 상품 단속을 강화하고 있으며, 관련 법규에 따라 엄중히 처벌할 방침입니다.",
+      "full_translated": "정부는 42,451개 이상의 지적 재산권 침해 상품을 대량으로 압수하여 2억 2,300만 바트 이상의 피해를 막았습니다. 2026년 2월 14일, 총리실 부대변인인 아야린 판릿 여사는 정부 정책에 따른 운영 결과를 밝혔습니다. 지적 재산권 침해 상품 밀수를 단속하기 위해 지적 재산권 국, 관세청 및 산업 표준 사무소(싸머.)가 협력했습니다. 2026년 1월 13일부터 2월 6일까지 람차방 항구 관세청, 방콕 항구, 촌부리주 시라차 지역의 자유 구역 및 사깨오주 아란야프라텟 세관 검문소에서 지적 재산권 침해 상품과 표준 이하의 불법 상품을 압수할 수 있었습니다. 압수된 상품은 총 42,451개로 피해액은 2억 2,300만 바트 이상입니다. 조사 결과 발견된 상품은 대부분 Louis Vuitton, Dior, Gucci, Prada, Balenciaga 등 유명 브랜드의 저작권 및 상표권 침해 상품이었습니다. 가방, 신발, 시계, 향수, 자동차 쇼크 업소버, 자동차 브레이크 패드 및 Solar Light 램프 등이 있습니다. 관세청의 지적 재산권 침해 상품 단속 결과 2026 회계 연도(2025년 10월 1일 – 2026년 2월 6일) 동안 총 38건의 불법 수입 상품을 압수할 수 있었으며, 이는 상표권 침해 상품과 저작권 침해 상품으로 총 8억 8,500만 바트 이상의 경제적 피해를 입혔습니다. 이는 1991년 상표법 및 1979년 상품 수출입법에 따라 왕국으로 수입이 금지된 상품입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "짝퉁 상품 구매에 대한 경각심을 일깨우고, 태국 여행 중 정품 구매를 유도할 수 있습니다. 여행객들이 피해를 입지 않도록 주의를 환기시키는 차원에서 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัฐบาลจับกุมสินค้าละเมิดทรัพย์สินทางปัญญาล็อตใหญ่ กว่า 42,451 ชิ้น มูลค่าเสียหายกว่า 223 ล้านบาท",
+          "url": "https://www.thairath.co.th/news/politic/2914170",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9eQdGeJnEk0PF.jpg"
+        }
+      ],
+      "collected_at": "10:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH9eQdGeJnEk0PF.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "발렌타인 데이에 불독과 MINI의 역사",
+      "summary": "- 영국 불독은 독특한 외모로 유명하며, 원래는 투견으로 사육되었음.\n- BMW는 2013년 MINI 광고에 불독 'Spike'를 등장시켜 영국 전통을 강조함.\n- 불독 인형은 MINI의 인기 상품 중 하나임.",
+      "full_translated": "영국 불독은 가장 쉽게 알아볼 수 있는 개 중 하나로, 깡패 같은 얼굴로 유명합니다. 독특한 외모 덕분에 한 번만 봐도 바로 불독이라는 것을 알 수 있습니다. 이 품종의 가장 큰 특징은 짧은 코와 둥근 얼굴입니다. 잉글리시 불독은 작고 뚱뚱할 수 있지만 키는 약 1피트 정도에 불과하지만 매우 강합니다. 원래 수백 년 전 영국에서 불독은 소와 싸우기 위해 사육되었습니다. 그러나 오늘날 그들은 싸움 본능을 잃고 친근한 개가 되었습니다. 이름에서 알 수 있듯이 잉글리시 불독은 중세 시대에 소 유인이라는 스포츠에 사용하기 위해 영국에서 사육되었습니다. 불독은 묶인 소를 공격하고 조롱합니다... 시간이 지남에 따라 이 품종에 대한 사랑으로 가득 찬 개 사육사들은 작은 투견을 오늘날 우리가 보는 뚱뚱하고 사랑스러운 개로 바꾸었습니다. 불독은 또한 가장 존경받는 개 품종 중 하나이며 전 세계 개 쇼에서 흔히 볼 수 있습니다. 2013년 BMW는 2013년 MINI 모델 출시를 홍보하기 위해 여러 광고 및 TV 광고에 불독 Spike를 등장시켜 정통 영국임을 강조했습니다. 불독과 영국 역사 및 문화 간의 명확한 연관성 외에도 이 불독은 자동차 소유 문화에서 매우 인기 있는 MINI 브랜드의 일부이기도 합니다. 그리고 불독 인형은 MINI에서 가장 많이 팔리는 상품 중 하나입니다(광고보다 중요함).",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행과 직접적인 관련은 없지만, 흥미로운 문화적 정보 제공. 일반적인 정보 가치.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติความเป็นมาของหมาบูลด็อกและรถ MINI ในวันแห่งความรัก",
+          "url": "https://www.thairath.co.th/news/auto/news/2913636",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNfsFrCEo7P3HqS9WQ.jpg"
+        }
+      ],
+      "collected_at": "10:40",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNfsFrCEo7P3HqS9WQ.jpg",
       "date": "2026-02-14"
     }
   ]
