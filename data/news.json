@@ -10085,14 +10085,9 @@
       "summary": "- 태국 정부가 중국 여행객을 포함한 무비자 체류 기간을 30일로 단축하는 방안을 고려 중입니다.\n- 이는 기존의 45일 체류 가능 기간에서 줄어드는 것으로, 여행 계획에 영향을 미칠 수 있습니다.\n- 비자HQ에 따르면, 이번 조치는 태국 관광 산업에 새로운 과제를 제시할 수 있습니다.",
       "full_translated": "태국이 무비자 체류 기간을 30일로 단축하는 움직임을 보이고 있으며, 이는 중국 여행객에게 새로운 장벽을 제시합니다.\n\nVisaHQ",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객의 계획에 직접적인 영향을 미치므로 중요도가 높음. 특히 중국 여행객에게는 더 큰 영향을 줄 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand moves to cut visa-free stays to 30 days, posing new hurdle for Chinese travellers - VisaHQ",
@@ -10103,21 +10098,18 @@
       ],
       "collected_at": "16:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTHhrbzFDeU5haVpLX0xpcnlsMFNUVmZLRUlfZGlCSU45SVBfaDFNb05pczVBa0NwZ01KTl9ic0JKZlBWS0RYeFVSNk9oQnlWQVhUai1HR21RbEhla2pEU0Rfd2NXV1VTejNReEZ0NEpmdkFWX3pGYjVoX1I4Y1FJT3dGekM3QV9kNDRBREw4NHloSWVJNS1scGpKZHNuNHVqLUJaOU15QWRrcF9IX2txYU5qbkV4NC1nZ3ZQdGhWZ0ZONjhzM21ybXlqQ2o?oc=5",
+      "source": ""
     },
     {
       "title": "차이나트 지역 축제: 제69회 허수아비 새 축제 및 지역 특산품 박람회",
       "summary": "- 차이나트 지방에서 제69회 허수아비 새 축제 및 지역 특산품 박람회가 2069년 2월 19일부터 3월 1일까지 열립니다.\n- 쌀 농사에서 남은 부산물을 활용하여 만든 다양한 허수아비 새 조형물을 감상할 수 있습니다.\n- 개막일인 2월 19일 15시 45분에는 허수아비 새 퍼레이드와 전통 문화 퍼레이드가 진행될 예정이며, 지역 특산품 판매 부스도 운영됩니다.",
       "full_translated": "차이나트 지방에서 열리는 제41회 허수아비 새 축제 및 지역 특산품 박람회에 여러분을 초대합니다. 이 축제는 쌀 농사에서 남은 부산물을 재활용하여 다양한 허수아비 새를 창작하는 전통을 계승합니다. 허수아비 새의 역사는 사용하지 않는 짚을 사용하여 다양한 종류의 큰 새를 만들어 각 차량에 설치하고 아름답게 장식하는 것으로 시작되었습니다. 허수아비 새 경연대회가 끝난 후에는 모든 허수아비 새를 도청 앞뜰에 전시합니다. 축제는 매년 2월 초에 개최될 예정입니다. 또한, 축제장에는 도 자선 가게가 있으며 현지 제품과 농산물을 판매합니다. 차이나트 지방 사무차관인 아피차 차이야폰찰리다는 제41회 허수아비 새 축제 및 차이나트 지방 특산품 박람회가 2069년 2월 19일부터 3월 1일까지 차이나트 도청 앞 스포츠 경기장에서 열릴 것이라고 밝혔습니다. 개막일은 15시 45분이며, 웡토 로드에서 시작하여 프롬쁘라셋 로드로 좌회전하여 자선 재단(중국 학교) 앞에서 끝나는 허수아비 새 퍼레이드와 문화 퍼레이드를 감상할 수 있습니다. 또한, 8개 지역의 정부 기관 및 민간 부문의 허수아비 새 경연대회도 열립니다. 스쿤나 자선 상점은 100바트 상당의 자선 복권 4,000권(총 4,000,000바트)을 구매하여 방문객들에게 행운을 나눠줍니다. 1등 상품은 ISUZU MU-X 자동차 1대이며, 이 외에도 다양한 상품이 준비되어 있습니다. 중국 설날 연휴 동안 어디로 여행을 가야 할지 모르겠다면 방콕에서 약 190km 떨어진 차이나트 지방의 허수아비 새 축제에 오십시오. 아름답게 만들어진 허수아비 새를 감상할 수 있을 뿐만 아니라...",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "방콕 근교에서 열리는 대규모 축제 정보로, 여행객들에게 유용한 정보입니다. 특히 설 연휴 기간에 방문할 만한 곳을 찾는 여행객들에게 좋은 선택지가 될 수 있습니다.",
-      "event_info": {
-        "date": "2069-02-19 ~ 2069-03-01",
-        "location": "차이나트 도청 앞 스포츠 경기장",
-        "price": "무료",
-        "location_google_map_query": "차이나트 도청 앞 스포츠 경기장"
-      },
+      "event_info": "{'date': '2069-02-19 ~ 2069-03-01', 'location': '차이나트 도청 앞 스포츠 경기장', 'price': '무료', 'location_google_map_query': '차이나트 도청 앞 스포츠 경기장'}",
       "references": [
         {
           "title": "กลับมาอีกครั้ง ชวนเที่ยวงาน “มหกรรมหุ่นฟางนก และของดีศรีท้องถิ่นชัยนาท ปี 69”",
@@ -10128,21 +10120,18 @@
       ],
       "collected_at": "16:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH69xz2Z9QkujX7.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/localbusiness/2914236",
+      "source": ""
     },
     {
       "title": "파리 개선문 근처에서 경찰 공격 시도한 남성, 경찰에 의해 사살",
       "summary": "- 프랑스 대테러 검찰청에 따르면 금요일 파리 개선문 근처에서 경찰관을 칼로 공격하려던 남성이 경찰에 의해 총에 맞아 부상을 입고 사망했습니다.\n- 이 사건은 현재 당국의 조사를 받고 있습니다.\n- 여행객들은 파리 방문 시 주변 상황에 주의를 기울이고 당국의 지침을 따르는 것이 좋습니다.",
       "full_translated": "프랑스 대테러 검찰청은 금요일 파리 개선문 근처에서 경찰관을 칼로 공격하려던 남성이 경찰에 의해 총에 맞아 부상을 입고 사망했다고 밝혔습니다. - 로이터\n방콕 포스트의 전체 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "프랑스에서 발생한 사건이지만, 테러 관련 사건은 여행객 안전에 영향을 줄 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "파리 개선문",
-        "price": null,
-        "location_google_map_query": "파리 개선문"
-      },
+      "event_info": "{'date': None, 'location': '파리 개선문', 'price': None, 'location_google_map_query': '파리 개선문'}",
       "references": [
         {
           "title": "Man shot dead after attacking police in Paris",
@@ -10153,21 +10142,18 @@
       ],
       "collected_at": "16:23",
       "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197254_700.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.bangkokpost.com/video/world/3197254/man-shot-dead-after-attacking-police-in-paris",
+      "source": ""
     },
     {
       "title": "발렌타인 데이 주말, 파타야 워킹 스트리트 활기…꽃 가게와 관광객 북적",
       "summary": "- 파타야 꽃 가게, 발렌타인 데이 맞아 낭만적인 선물 구매객들로 붐벼\n- 워킹 스트리트, 다채로운 조명과 장식으로 활기 넘치는 야간 분위기 연출\n- 쇼핑, 식사, 엔터테인먼트를 즐기려는 커플 및 개인 여행객들에게 인기",
       "full_translated": "발렌타인 데이를 맞아 파타야가 낭만으로 들썩이고 있습니다. 꽃 가게, 테디베어 가게, 선물 가게들은 고객을 유치하기 위해 아름답게 매장을 장식했습니다. 상점 주인들은 아침부터 파트너를 위한 로맨틱한 선물을 선택하는 구매자들의 꾸준한 발길이 이어졌다고 전했습니다. 붉은색과 분홍색 장미 꽃다발, 크고 작은 테디베어, 열쇠고리, 기념품 등 다양한 발렌타인 데이 관련 상품들이 판매되고 있습니다. 많은 장소들이 다음 주 설날을 위해 장식되어 있습니다.\n\n올해 분위기는 이전 발렌타인 데이에 비해 훨씬 활기차고 붐비는 모습이며, 태국인과 외국인 쇼핑객 모두 애정을 표현하기 위한 상품을 열심히 둘러보고 구매하고 있습니다. 발렌타인 데이 전날 저녁, 파타야의 상징적인 워킹 스트리트는 활기 넘치는 활동의 중심지로 변모했습니다. 관광객들은 보행자 거리를 거닐며 사진을 찍고 활기찬 야간 분위기를 만끽했습니다. 이 지역은 다채로운 조명과 장식으로 밝게 빛나 낭만적이고 활기찬 분위기를 더해 특별한 날 방문객을 끌어들이는 주요 명소입니다. 이러한 활동 급증은 쇼핑, 식사, 축제 분위기 속에서 엔터테인먼트를 즐기려는 커플과 개인 여행객 모두에게 파타야가 최고의 목적지로서 지속적인 매력을 보여줍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "발렌타인 데이 기간 파타야 워킹 스트리트의 분위기를 전달하여 여행 계획에 참고할 만한 정보 제공. 축제 분위기를 즐기려는 여행객들에게 유용.",
-      "event_info": {
-        "date": "2024-02-14",
-        "location": "파타야 워킹 스트리트",
-        "price": "개별 소비에 따라 다름",
-        "location_google_map_query": "Pattaya Walking Street"
-      },
+      "event_info": "{'date': '2024-02-14', 'location': '파타야 워킹 스트리트', 'price': '개별 소비에 따라 다름', 'location_google_map_query': 'Pattaya Walking Street'}",
       "references": [
         {
           "title": "Photo Tour: Pattaya Buzzes with Romance on Valentines Day Weekend as Flower Shops and Walking Street Packed with Revelers",
@@ -10178,21 +10164,18 @@
       ],
       "collected_at": "16:23",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710575951107385263442317609698.jpg?v=1771057717",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/photo-tour-pattaya-buzzes-with-romance-on-valentines-day-weekend-as-flower-shops-and-walking-street-packed-with-revelers/",
+      "source": ""
     },
     {
       "title": "코랏, 사깨랏 환경연구소 산불 진압 완료, 원인 불분명",
       "summary": "- 나콘랏차시마 주지사는 상황이 통제되었음을 확인했습니다.\n- 환경연구소에서 발생한 산불은 헬리콥터 16대가 물을 투하하여 진압되었습니다.\n- 화재 원인은 아직 명확하게 밝혀지지 않았습니다.",
       "full_translated": "나콘랏차시마 주지사는 상황이 통제되었다고 확인했습니다. 사깨랏 환경연구소에서 발생한 산불은 천연자원환경부 헬리콥터가 16회에 걸쳐 물을 투하하여 진압되었습니다. 화재 원인은 현재 개인 또는 요인으로 인해 발생했는지 명확하게 밝혀지지 않았습니다. 2069년 2월 14일 11시 30분, 나콘랏차시마 주지사 아누퐁 숙솜닛은 2월 12일 20시경부터 발생한 왕남키여우 지역 우돔삽 사깨랏 환경연구소 내 산불 상황을 점검하기 위해 현장을 방문하여 200명이 넘는 인력이 투입된 운영 결과 보고서를 청취했습니다. 오늘 아침에는 5곳에서 화재가 발생하여 장비를 갖춘 요원들이 진화에 투입되었고, 천연자원환경부 헬리콥터가 16회에 걸쳐 물을 투하하여 진화했습니다. 최근 2월 14일 13시경 상황이 통제되었습니다. 아누퐁 숙솜닛 나콘랏차시마 주지사는 현장 점검 후 사깨랏 환경연구소는 고등교육과학연구혁신부 산하 태국과학기술연구소(TISTR) 소속이라고 밝혔습니다. 오늘 발생한 산불은 사깨랏 환경연구소 자체, 천연자원환경부 소속 기관, 도, 군, 지방자치단체, 자원봉사자 등 여러 부문의 협력을 받았습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "산불이 진압되어 직접적인 위험은 없으나, 해당 지역을 방문하는 여행객은 영향을 받을 수 있으므로 관련 정보 제공. 기존 뉴스에 해당 내용이 없어 업데이트로 판단.",
-      "event_info": {
-        "date": "2069-02-12",
-        "location": "왕남키여우 지역 우돔삽 사깨랏 환경연구소",
-        "price": null,
-        "location_google_map_query": "사깨랏 환경연구소"
-      },
+      "event_info": "{'date': '2069-02-12', 'location': '왕남키여우 지역 우돔삽 사깨랏 환경연구소', 'price': None, 'location_google_map_query': '사깨랏 환경연구소'}",
       "references": [
         {
           "title": "ผู้ว่าฯ โคราช ยันไฟป่าสถานีวิจัยสิ่งแวดล้อมสะแกราช เพลิงสงบแล้ว สาเหตุยังไม่ชัด",
@@ -10203,6 +10186,133 @@
       ],
       "collected_at": "16:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH69ypcbussIfHl.jpg",
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/2914238",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변에서 외국인 여성 대상 성매매 단속, 20명 체포",
+      "summary": "- 파타야 관광 경찰과 촌부리 이민국은 합동으로 해변 지역을 단속하여 성매매 관련 용의자 20명을 체포함.\n- 체포된 사람들은 주로 우간다를 포함한 아프리카 국가 출신의 외국 여성들임.\n- 외국인 관광객들은 성적 서비스 제안에 충격을 받았다는 불만을 제기했으며, 이는 파타야의 관광지로서의 명성을 훼손한다고 지적함.",
+      "full_translated": "파타야 관광 경찰 2지구 4분과장 Prabda Suksunthee 중령과 촌부리 지방 이민국 Kittiphat Hongchuwej 이민 감사관의 지휘 하에 파타야 관광 경찰과 촌부리 이민국은 해변 지역을 급습했습니다. 이번 작전으로 성매매에 연루될 위험이 있는 용의자 20명이 구금되었습니다. 대부분은 우간다와 같은 아프리카 국가 출신의 외국 여성이었습니다. 단속은 노골적인 옷차림을 한 태국 및 외국 여성으로부터 성적 서비스를 제안받고 충격을 받았다는 외국인 관광객들의 수많은 불만에 따른 것입니다. 이러한 행동은 최고의 관광지로서의 파타야의 명성을 심각하게 훼손한다고 합니다. 일부 관광객으로 변장한 경찰관들은 감시를 실시하고 파타야 해변을 따라 보도에 서 있는 사람들을 관찰했습니다. 이 여성들은 외국인 방문객과 대화를 시작하고 가격을 협상하며 성적인 만남을 제안한 것으로 알려졌습니다. 어떤 경우에는 수색 결과 콘돔과 윤활제가 발견되어 증거물로 압수되었습니다. 구금된 모든 사람들은 처음에는 혐의를 부인했습니다. 당국은 개인 문서를 확인하고, 프로필을 기록하고, 추가 조사를 위해 진술을 받았습니다. 범죄를 저지른 것으로 밝혀진 사람들은 관련 법률에 따라 즉각적인 법적 조치를 받게 됩니다. 혐의에 대한 증거가 불충분한 경우, 경찰관은 기록을…",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변에서 외국인 대상 성매매 단속은 관광객 안전 및 파타야 이미지에 영향을 미칠 수 있으므로 게시. 범죄 관련 뉴스이므로 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "Pattaya Beach"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police and Immigration Officers Crack Down on Suspected Prostitution Along Beachfront, 20 Mostly Foreign Women Arrested",
+          "url": "https://thepattayanews.com/2026/02/14/pattaya-police-and-immigration-officers-crack-down-on-suspected-prostitution-along-beachfront-20-mostly-foreign-women-arrested/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_1622505787966189963010949.jpg?v=1771061215"
+        }
+      ],
+      "collected_at": "16:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_1622505787966189963010949.jpg?v=1771061215",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 중국 설 맞아 관광 캠페인 및 전국 행사 개최",
+      "summary": "- 태국이 중국 설을 맞아 관광 캠페인을 시작하고 전국적인 행사를 개최합니다.\n- 이는 관광 산업을 활성화하고 경제 성장을 촉진하기 위한 노력의 일환입니다.\n- 다양한 문화 행사와 특별 프로모션이 진행될 예정입니다.",
+      "full_translated": "태국은 중국 설을 맞아 관광 캠페인과 전국적인 행사를 개최합니다. 자세한 내용은 Nation Thailand에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 설 기간 동안 태국을 방문하는 여행객들에게 유용한 정보이며, 다양한 행사 정보는 여행 계획에 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand marks Chinese New Year with tourism campaign and nationwide events - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdlJjWGpMRktoenFXYkwwNDFoUHRodEVhelE4UVFHOXUxaXExSXhoeVJIcHRSZHFncjVkR0JpX2tiQVcweV9GRjBrc01hVDB4MXBiZ1haM010QTMwUWlBZXp3?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "파타야 핫팟 식당 앞 배수관에 갇힌 3m 비단뱀 구조",
+      "summary": "- 파타야 인근 식당에서 3m 비단뱀이 배수관에 갇혀 구조 요청.\n- 구조대는 4시간에 걸쳐 콘크리트 덮개를 열고 뱀을 안전하게 구조.\n- 뱀은 부상 없이 포획되어 자연 서식지로 방생될 예정.",
+      "full_translated": "파타야 뉴스에 따르면, 오늘 아침 7시경 촌부리 지역 핫팟 식당 앞에서 3미터 길이의 비단뱀이 배수관에 갇히는 사건이 발생했습니다. \"Tied Pot Suki Mala\" 식당 주인인 Rossukon Chitsaiyen(37세)은 가게를 열던 중 시멘트 덮개 배수관 입구에 뱀이 갇힌 것을 발견하고 구조를 요청했습니다. 뱀은 어른 팔뚝 굵기 정도였으며, 무거운 콘크리트 맨홀 덮개 아래 PVC 배수관에 몸이 꽉 끼어 있었습니다. 뱀의 머리는 파이프의 인접한 구멍에서 나왔고, 꼬리는 주 입구에서 튀어나와 구경꾼들을 놀라게 했습니다. 꼬리를 잡아당겨 뱀을 꺼내려는 초기 시도는 실패했습니다. 구조대는 마찰을 줄이기 위해 파이프에 물과 식용유를 부었지만 효과가 없었습니다. 거의 4시간의 노력 끝에 구조대는 도구를 사용하여 무거운 콘크리트 덮개를 들어 올렸습니다. 뱀의 머리를 특수 장비로 고정한 후 3미터 길이의 뱀을 안전하게 꺼냈습니다. 구조된 뱀은 자루에 담겨 주거 지역에서 떨어진 자연 서식지로 방생될 예정입니다. Rossukon은 직원들이 가게를 열자마자 뱀을 발견했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "관광객에게 직접적인 위협은 아니지만, 파타야에서 흔히 볼 수 없는 상황이므로 흥미로운 지역 소식으로 간주. 안전 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "Tied Pot Suki Mala restaurant, Pattaya",
+        "price": null,
+        "location_google_map_query": "Tied Pot Suki Mala Pattaya"
+      },
+      "references": [
+        {
+          "title": "Rescue Team Frees 3-Meter Python Trapped in Drain Pipe Outside Pattaya-Area Hot Pot Restaurant",
+          "url": "https://thepattayanews.com/2026/02/14/rescue-team-frees-3-meter-python-trapped-in-drain-pipe-outside-pattaya-area-hot-pot-restaurant/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771056053589-scaled.jpg?v=1771056221"
+        }
+      ],
+      "collected_at": "16:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771056053589-scaled.jpg?v=1771056221",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "품차이타이당, 선거관리위원회의 선거 용지 바코드 문제에 대한 해명을 요구하며 정부 구성에 대한 입장 유지",
+      "summary": "- 품차이타이당은 선거관리위원회가 선거 용지 바코드 문제에 대해 명확히 해명해야 한다고 강조함.\n- 2026년 2월 14일, 품차이타이당 대변인은 선거 결과 인증에 시간이 걸릴 수 있다고 언급하며, 당은 현재 정부 구성 절차를 기다리는 중이라고 밝힘.\n- 품차이타이당은 모든 당사자가 증거와 법률에 따라 행동해야 한다고 강조함.",
+      "full_translated": "품차이타이당 대변인은 선거 용지 바코드 문제에 대한 해명을 선거관리위원회에 요구하며, 당은 정부 구성 과정에서 '선수'이지 '심판'이 아니라고 강조했습니다. 2026년 2월 14일, 우본랏차타니의 차기 국회의원인 낸 분야티다 솜차이는 품차이타이당 대변인으로서 현재 선거 후 시위로 인해 상황이 악화될 수 있는 정치적 상황에 대해 언급했습니다. 그녀는 주요 문제는 품차이타이당에 달려 있는 것이 아니라 선거관리위원회(선관위)가 언제 선거 결과를 인증할지에 달려 있다고 말했습니다. 2023년 선거와 비교했을 때, 선관위는 국회의원을 공식적으로 인증하는 데 36일이 걸렸습니다. 우리는 '선수'의 입장이므로 각 부분의 다음 단계를 기다려야 합니다. 선관위의 업무와 다른 부분, 또는 청원이 제출된 부분은 분리되어야 합니다. 우리는 차기 국회의원으로서 기다려야 하며, 지금은 아무것도 답변할 수 없습니다. 2023년 선거에서는 아무 일도 일어나지 않았지만, 선관위는 여전히 36일이 걸렸습니다. 최근 시위에 대한 우려에 대해 낸은 모든 사람이 적절하다고 생각하는 방식으로 자신의 의견을 표현할 권리가 있다고 말했습니다. 모든 사람이 똑같이 생각하는 것은 불가능하지만, 적어도 청원을 제출하거나 무엇을 결정하든 증거와 법률에 근거해야 합니다. 선거 용지의 바코드와 관련하여 행정법원이 사건을 접수하고 선거 결과 인증을 중단할 것을 요청한 사건에 대해 낸은 선관위가 설명해야 할 의무가 있다고 말했습니다. 그녀는 현재 우리 모두가 '선수'이며 '심판'이 아니며 선거 관리자가 설명해야 하며 우리는 기다려야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향을 미치는 정보는 아니므로 낮은 점수를 부여함. 정부 구성 관련 불확실성이 커질 경우 여행 심리에 영향을 줄 수 있으나, 현재로서는 제한적인 영향으로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ภูมิใจไทย ย้ำเป็นผู้เล่นไม่ใช่กรรมการ โยน กกต. แจงปม บาร์โค้ดบนบัตรเลือกตั้ง",
+          "url": "https://www.thairath.co.th/news/politic/2914239",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH69ymMXtFbThkb.jpg"
+        }
+      ],
+      "collected_at": "16:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH69ymMXtFbThkb.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 교도소, 원숭이두창 추가 감염자 없어 안전",
+      "summary": "- 태국 교정국은 교도소 내 원숭이두창 추가 감염자가 없다고 발표했습니다.\n- 모든 교도소는 안전하며 질병 확산은 없는 것으로 확인되었습니다.\n- 지난 1월 20일, 새로운 수감자 1명이 고열 증세를 보였으나, 신속한 격리 및 통제 조치가 이루어졌습니다.",
+      "full_translated": "태국 교정국은 원숭이두창 감염자가 추가로 발생하지 않았다고 밝혔습니다. 2069년 2월 14일, 교정국은 문서를 통해 다음과 같이 밝혔습니다. 톤부리 특별 교도소에 1월 20일부터 새로운 수감자 1명이 입소했는데, 이후 고열 증세를 보이고 발 부위에 괴사 증상이 나타나 교정 병원에서 치료를 받았습니다. 발 수술 준비 중, 수감자는 원숭이두창(Monkeypox: Mpox) 증상을 보여 배양 검사를 실시한 결과 원숭이두창으로 확인되었습니다. 따라서 감염 통제 부서는 즉시 고위험 수감자를 격리하고 교도소 내 질병 확산을 신속하게 통제하기 위해 버블 앤 씰 원칙에 따라 질병 통제 지침을 시행했습니다. 톤부리 특별 교도소는 2월 13일부터 교정 병원, 공중 보건부, 질병 통제국 등 관련 기관과 협력하여 감염을 면밀히 통제하고 예방해 왔습니다. 또한 톤부리 특별 교도소 수감자들의 이상 증상을 지속적으로 검사한 결과, 현재까지 원숭이두창 증상을 보이는 수감자는 없는 것으로 확인되었습니다. 교정국은 질병 통제국과 협력하여 교도소 내 위험을 줄이기 위해 수감자와 직원에게 백신을 신속하게 접종할 예정입니다. 또한 모든 교도소는 공중 보건부 질병 통제국의 지침에 따라 교정국이 명령한 원숭이두창(MPox) 진단, 치료 및 예방 지침을 엄격히 준수하고 있습니다. 모든 교도소는 안전하며 질병 확산은 없을 것이라고 재차 강조합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 교도소 내 원숭이두창 발생 관련 뉴스이나, 추가 감염자 없고 통제되고 있다는 내용이므로 관광객에게 미치는 영향은 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ราชทัณฑ์ เผยไม่มีผู้ต้องขังป่วย “ฝีดาษลิง” เพิ่ม ยันเรือนจำและทัณฑสถานทุกแห่งปลอดภัย",
+          "url": "https://www.thairath.co.th/news/local/2914244",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhDEpxzrEszp.jpg"
+        }
+      ],
+      "collected_at": "16:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhDEpxzrEszp.jpg",
       "date": "2026-02-14"
     }
   ]
