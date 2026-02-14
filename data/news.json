@@ -11446,14 +11446,9 @@
       "summary": "- 파타야 경찰이 절도 및 마약 혐의로 체포된 여성에게 발렌타인 데이를 맞아 장미꽃을 전달하며 갱생의 기회를 제공함.\n- 경찰은 피해자의 신고와 CCTV 증거를 바탕으로 용의자를 추적하여 방람웅 지역의 한 방에서 체포함.\n- 용의자는 절도 및 마약류 소비 혐의로 기소되었으며, 경찰은 그녀에게 자숙하고 새로운 시작을 할 것을 권고함.",
       "full_translated": "파타야 경찰은 방라뭉 경찰서의 사라웃 누차나트 서장의 감독 하에 이번 작전을 수행했습니다. 그는 용유트 완 누아 수사 부국장, 웃티퐁 카사 수사관, 낫탄 타니 잔타웡 수사 부관 및 수사팀과 함께 피해자가 불만을 제기하고 CCTV 영상을 증거로 제공한 후 용의자를 추적하도록 지시했습니다. 지속적인 수사 노력 끝에 당국은 파타야 방라뭉 지역 나클루아 지역의 임대 방에서 시사켓 지방 출신의 아차야 동댕(36세) 씨를 체포했습니다. 그녀는 다음 혐의로 기소되었습니다.\n1. 고용주로부터의 절도\n2. 1급 마약(메스암페타민)의 불법 소비\n발렌타인 데이의 낭만적인 분위기 속에서 경찰관들은 용의자에게 빨간 장미를 건넸습니다. 그들은 자기 성찰을 고취하고 재활, 개혁 및 합법적인 새로운 시작을 위한 기회를 잡도록 동기를 부여하기를 희망하면서 조언과 주의의 말을 전했습니다. 체포 후 여성은 수사관의 추가 처리 및 공식적인 법적 절차를 위해 방라뭉 경찰서로 이송되었습니다. 경찰은 범죄 단속에 대한 지속적인 의지를 표명하는 동시에 길을 잃은 사람들이 사회에 지속적으로 재통합될 수 있는 기회를 제공하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 발생한 범죄 소식이지만, 여행객에게 직접적인 위협은 아니므로 '보통'으로 분류. 다만, 경찰의 대응 방식이 특이하여 흥미로운 로컬 뉴스로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Na Kluea area of Banglamung District, Pattaya",
-        "price": null,
-        "location_google_map_query": "Na Kluea area of Banglamung District, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Na Kluea area of Banglamung District, Pattaya', 'price': None, 'location_google_map_query': 'Na Kluea area of Banglamung District, Pattaya'}",
       "references": [
         {
           "title": "Police in Pattaya Offer Rose to Theft and Drug Suspect Arrested on Valentines Day, Urging Fresh Start",
@@ -11464,7 +11459,136 @@
       ],
       "collected_at": "23:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_2332377787438503827731578.jpg?v=1771086809",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://thepattayanews.com/2026/02/14/police-in-pattaya-offer-rose-to-theft-and-drug-suspect-arrested-on-valentines-day-urging-fresh-start/",
+      "source": ""
+    }
+  ],
+  "2026-02-15": [
+    {
+      "title": "아시아 전역 항공편 대규모 차질: 일본, 중국, 인도네시아, 태국 등 38편 취소, 1,022편 지연",
+      "summary": "- 자카르타, 상하이, 나리타, 푸껫 등지에서 바틱 에어, 가루다, 전일본공수, 젯스타 등 항공편에 영향.\n- 총 38편의 항공편이 취소되었고, 1,022편이 지연되어 여행객들의 불편이 예상됨.\n- 항공편 이용객들은 사전에 운항 정보를 확인하고, 공항 혼잡에 대비하는 것이 좋음.",
+      "full_translated": "아시아 전역에서 대규모 항공편 차질이 발생했습니다. 일본, 중국, 인도네시아, 태국 등에서 38편의 항공편이 취소되고 1,022편이 지연되었으며, 자카르타, 상하이, 나리타, 푸껫 등에서 바틱 에어, 가루다, 전일본공수, 젯스타, 스프링 항공, 티베트 항공 등의 항공사에 영향을 미치고 있습니다. 여행객들은 항공사에 운항 정보를 확인해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "푸껫 공항에서 항공편 취소 및 지연 발생으로 여행객들에게 직접적인 영향을 미치므로 높은 점수를 부여함. 특히 아시아 지역 여행객 전체에 영향을 줄 수 있는 정보이므로 업데이트 가치가 높음.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫, 자카르타, 상하이, 나리타",
+        "price": null,
+        "location_google_map_query": "Phuket Airport, Jakarta Airport, Shanghai Airport, Narita Airport"
+      },
+      "references": [
+        {
+          "title": "Massive Travel Disruptions Across Asia as Japan, China, Indonesia, Thailand and More Cancel 38 Flights and Delay 1,022, Affecting Airlines Like Batik Air, Garuda, All Nippon, Jetstar, Spring, Tibet Airlines and Others in Jakarta, Shanghai, Narita, Phuket and - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOZFh1NHNJWjI1cHptR29uRlRtNS1Canczdk00TWs1czBZOW1vUUw3azJ5TWFRbXhkd3I4NUlOWGJsV1JCTWllcE1PTEU1T3RMMkk2cHdCMGV2YktLZ0J3QmFyQlNqeXR6QVNmbHhicXlFZGg1dmRjcWhKbEZOWm9uYV9sLTZOV0tyaEdqOXIwdjBTYnFZb0p5SGxrRlhNR0RJRVA4bmo3czZGWXVnTjZwdnlOS3Z0WlI4UWg5eFA0SWNpOWE0UF9kUThiLUdHTjJwN2lJUHZsVWZHN0ZVWDVjcUpJUDdwRGNiT2ZTcXRMRVhKanBXTTBneEtwWmxOUzBwdDRiNEZCOVJONk1EWk9DeUhxRXo1QkxRUmw1SGc2YS1sNENvc05HLUxhay1GNTRFYnoxckNYbTZpN2xWb3ZncU1QYk5mOS14OHR5eGtyNUtkYXBocEZ0RmVJTQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "카오키여우 오픈 동물원에서 발렌타인데이 및 중국 설날 기념 'LOVE & HENG' 축제 개최",
+      "summary": "- 촌부리 카오키여우 오픈 동물원에서 2026년 2월 14일부터 17일까지 'LOVE & HENG' 축제가 열립니다.\n- 동물원은 번영을 상징하는 붉은 랜턴과 행운을 상징하는 '황금 말' 아치로 장식됩니다.\n- 말띠 해에 태어난 방문객(태국 국적)은 성인 입장료 20% 할인을 받을 수 있으며, 커플들을 위한 특별 프로모션도 제공됩니다.",
+      "full_translated": "촌부리 지방의 카오키여우 오픈 동물원에서 2026년 2월 14일부터 17일까지 진행되는 'LOVE & HENG' 축제는 모든 방문객에게 사랑, 행복, 행운을 전달하고자 합니다. 동물원은 번영을 상징하는 밝은 붉은 랜턴과 말의 해의 성공과 번영을 나타내는 눈길을 끄는 '황금 말' 아치 등 전통적인 중국 길조 테마로 아름답게 장식되었습니다. 주요 하이라이트는 다가오는 한 해 동안 행운을 가져다주도록 설계된 '황금 말' 사진 촬영 장소입니다. 말띠 해에 태어난 방문객(중국 띠 말에 해당하는)은 성인 입장료에 대해 특별 20% 할인을 받습니다(태국 국적에만 해당). 커플을 위해 동물원은 특별 프로모션을 제공합니다. 함께 사진을 찍고 동물원에서 체크인하여 소셜 미디어에 공유하는 처음 20쌍의 커플에게는 특별 기념품을 받을 수 있는 추첨에 참여할 수 있는 기회가 주어집니다. 발렌타인 시즌 동안 로맨스와 흥분을 더할 수 있습니다. 카오키여우 오픈 동물원은 가족, 커플, 관광객을 초대하여 축제에 참여하고 4일간의 행사 기간 동안 사랑, 기쁨, 상서로운 축복으로 가득 찬 분위기를 경험하도록 초대합니다. 자세한 내용은 동물원 038-318444 내선 213으로 문의하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객들에게 즐길 거리를 제공하는 축제 정보. 발렌타인데이 및 중국 설날 테마로 특별한 경험을 제공할 수 있음.",
+      "event_info": {
+        "date": "2026-02-14 ~ 2026-02-17",
+        "location": "Khao Kheow Open Zoo, Chonburi",
+        "price": "성인 입장료 20% 할인 (말띠, 태국 국적)",
+        "location_google_map_query": "Khao Kheow Open Zoo Chonburi"
+      },
+      "references": [
+        {
+          "title": "Khao Kheow Open Zoo Hosts LOVE And HENG Festival to Celebrate Valentines Day and Chinese New Year",
+          "url": "https://thepattayanews.com/2026/02/15/khao-kheow-open-zoo-hosts-love-and-heng-festival-to-celebrate-valentines-day-and-chinese-new-year/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710894302404513849293988205720.jpg?v=1771089540"
+        }
+      ],
+      "collected_at": "00:20",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710894302404513849293988205720.jpg?v=1771089540",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 사원 근처 비키니 일광욕 관광객, 비난 직면",
+      "summary": "- 태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객에 대한 비판이 일고 있습니다.\n- 특정 사원 이름은 언급되지 않았으나, 신성한 장소에서의 부적절한 복장에 대한 논쟁이 예상됩니다.\n- 태국은 종교적 장소에서 복장 규정을 준수해야 하며, 외국인 관광객은 이러한 규정을 존중해야 합니다.",
+      "full_translated": "태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객에 대한 비판이 일고 있습니다. 특정 사원 이름은 언급되지 않았으나, 신성한 장소에서의 부적절한 복장에 대한 논쟁이 예상됩니다. 태국은 종교적 장소에서 복장 규정을 준수해야 하며, 외국인 관광객은 이러한 규정을 존중해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 시 복장 규정에 대한 인식을 환기시키고, 불미스러운 상황을 방지하기 위한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "태국 사원",
+        "price": null,
+        "location_google_map_query": "태국 사원"
+      },
+      "references": [
+        {
+          "title": "Tourists criticized for sunbathing in bikinis near Thai temple - MSN",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxQbHR2Wkd3YzlxMmFWVm16bVllVVhxdVBOUnFKX1Q2Z2I2ZjJFWGFWN1BmempXU1ZfbXhXYmZER0xNNkxNZzBEekhzSDVQd1E4V21GOVFkOEFuOElDVHVIa0hHb29lWGV0UXpscVppLTFJeVk4UWw0a01iZDgwTG9zOVhGRFVWbkVOc2wtQVJFSG1HWUZNdE9LcTlvNS1GMzZWdDM1X21SMDhLZnZsMWs4OUwzaGx0Z3ZSdW85N0tvdlRXRGFGLXQ3UFBLc2lKdmdMT0FYancwdlhSMWpvRTl2U3dFUGs2N0dnT29jMHlHSi1EZmV6NW5yVk1abkQtTG9aaDNoMzIwazk0bW54TEZvYTlDd3U1d2xVR1MyZFZ4d2EwdlRzSmdsODJhS1lyWHVrYVhkejNiTnYwVlNkTFhESHBOdk5ldTEwVlJGVFJ3?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "시라차 지역, 퍼시픽 파크 몰에서 합동 발렌타인 데이 결혼식 개최",
+      "summary": "- 시라차 지역과 퍼시픽 파크 몰이 합동으로 발렌타인 데이 기념 행사를 개최했습니다.\n- 이 행사에서는 많은 커플들이 결혼식을 올리고 새로운 시작을 축하했습니다.\n- 시라차 지역장은 커플들에게 축하를 전하고 결혼 증인으로서 참여했습니다.",
+      "full_translated": "시라차 지역과 퍼시픽 파크 몰은 대규모 합동 결혼식 등록과 함께 성대한 발렌타인 데이 축제를 개최했습니다.\n\n이 축제는 몰 3층의 액티비티 공간에서 열렸으며, 많은 커플들이 이 기회를 통해 공식적으로 결혼을 등록하고 따뜻하고 기억에 남는 분위기 속에서 결혼 생활을 시작했습니다. 이 행사는 시라차 지역의 팟타라차눈 퐁팟 여사가 주재하여 커플들에게 진심어린 축하를 전하고 증인으로 참여하여 5쌍의 특별한 커플의 결혼 등록을 직접 감독했습니다. 그녀와 함께 주요 파트너와 스폰서 대표들이 참석하여 축하를 전하고 신혼부부에게 특별한 기념품을 증정했습니다. 고위 인사로는 퍼시픽 파크 시라차의 마케팅 매니저인 파리찻 타리아 여사, 퍼시픽 파크 호텔의 매니저인 야파닌랏 숙스리몬 여사, 파야타이 시라차 병원의 임원, 로빈슨 백화점 시라차 지점의 제너럴 매니저인 추티눈 팡깨우 씨, 알린다 클리닉 등이 있었습니다. 각자는 커플의 아름다운 새로운 시작을 상징하는 특별한 선물과 축복을 기증했습니다. 시라차 지역 사무소의 지원을 받은 이 이니셔티브는 가족 기관 강화에 초점을 맞췄습니다. 올해 발렌타인 데이는 낭만적인 사랑의 상징일 뿐만 아니라 안정적이고 지속적인 파트너십과 평생 함께 성장하는 의미 있는 출발점으로 자리매김했습니다. 결혼 등록 외에도 퍼시픽 파크 시라차는 \"LOTTA LOVE\" 커플 의상 콘테스트를 포함한 다양한 커플 참여 활동을 준비했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "발렌타인 데이 관련 지역 행사 정보로, 여행객에게 소소한 즐길 거리를 제공할 수 있으나 필수 정보는 아니므로 낮은 점수 부여. 결혼이나 커플 관련 이벤트에 관심 있는 여행객에게는 흥미로울 수 있음.",
+      "event_info": {
+        "date": "2024-02-14",
+        "location": "퍼시픽 파크 몰, 시라차",
+        "price": "무료",
+        "location_google_map_query": "Pacific Park Sriracha"
+      },
+      "references": [
+        {
+          "title": "Sriracha District and Pacific Park Mall Host Grand Valentines Celebration with Mass Marriage Registrations",
+          "url": "https://thepattayanews.com/2026/02/15/sriracha-district-and-pacific-park-mall-host-grand-valentines-celebration-with-mass-marriage-registrations/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710889070548195138535125781994.jpg?v=1771088960"
+        }
+      ],
+      "collected_at": "00:20",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710889070548195138535125781994.jpg?v=1771088960",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "중국 최고 법원, 자율 주행 기술 있어도 운전자 책임 강조",
+      "summary": "- 중국 최고 법원은 자율 주행 기술이 탑재된 차량이라도 운전자의 책임을 강조하는 판결을 내렸습니다.\n- 이는 운전자가 기술에 의존하여 부주의한 운전을 하는 것을 방지하기 위함입니다.\n- 법원은 음주 상태로 자율 주행 시스템을 작동시킨 운전자의 사례를 언급하며 안전 운전의 중요성을 강조했습니다.",
+      "full_translated": "중국 법원은 새로운 표준을 설정했습니다. 운전자는 심각한 사고와 운전자가 자동 시스템을 잘못 사용한 후에도 자동 운전 기술이 있더라도 책임을 져야 합니다. 외국 언론은 2069년 2월 14일 토요일 중국 최고인민법원이 운전 지원 기술이 탑재된 차량의 인간은 자신의 차량에 대한 책임을 져야 한다고 판결했다고 보도했습니다. 베이징이 자동차 시장의 표준 설정자가 되기 위해 노력하고 있는 동안 국가 전체에 대한 표준을 설정합니다. 판결에서 법원은 작년에 한 남자가 기술에 의존하여 차를 운전하게 하면서 술에 취해 운전대 뒤에서 잠든 사건을 언급했습니다. 이와 관련하여 중국의 기술 회사와 자동차 제조업체는 미국과 유럽의 경쟁자들을 이기기 위한 경쟁에서 자동 운전 기술에 수십억 달러를 투자했습니다. 그러나 베이징은 작년 3월에 발생한 대형 사고 이후 안전 규정을 강화하기 위한 조치를 취했습니다. 중국 최고인민법원은 금요일(2월 13일)에 발표된 '사례 연구'에서 운전자는 운전 지원 기능을 활성화한 후에도 도로 안전을 보장할 책임이 있다고 밝혔습니다. 법원이 언급한 사례는 2068년 9월 남부 저장성에서 발생한 판결로, 성이 '왕'인 운전자가 만취한 상태에서 운전 지원 시스템에 전적으로 의존하여 투옥되고 벌금을 물었습니다. 법원은 왕 씨가 핸들 잡는 것을 시뮬레이션하는 장치를 설치하고 차량을 주행하도록 설정한 다음 조수석에서 잠들었다고 밝혔습니다. 다행히 이 경우 그의 차는 경찰이 발견하기 전에 도로 한가운데 멈춰 섰습니다. 최고인민법원은 판결에서 '차량의 운전 지원 시스템은 주요 운전자로서의 운전자를 대체할 수 없습니다.'라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행과는 직접적인 관련은 없지만, 자율주행 관련 일반적인 법규 정보이므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ศาลสูงสุดจีนชี้ ผู้ขับขี่ยังคงต้องรับผิดชอบ แม้มีเทคโนโลยีขับขี่อัตโนมัติ",
+          "url": "https://www.thairath.co.th/news/foreign/2914282",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DMDnHJuIBwRf.jpg"
+        }
+      ],
+      "collected_at": "00:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DMDnHJuIBwRf.jpg",
+      "date": "2026-02-15"
     }
   ]
 }
