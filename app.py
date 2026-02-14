@@ -2570,16 +2570,16 @@ def render_tab_tour():
 
     # --- 4. 나만의 자유여행 플래너 (DIY Trip Planner) ---
     st.markdown("---")
-    st.header(f"📝 {selected_region} 자유여행 플래너")
+    st.header(utils.t("planner_title").format(selected_region_label))
     
     if not st.session_state['my_cart']:
-        st.info("위 목록에서 마음에 드는 투어를 '담기' 버튼으로 추가해보세요! AI가 일정을 짜드립니다. 🤖")
+        st.info(utils.t("planner_guide"))
     else:
         # Cart Items Display
         cart_tours = [t for t in TOURS if t['id'] in st.session_state['my_cart']]
         total_cost = 0
         
-        st.markdown("##### 🛒 내 여행 코스")
+        st.markdown(f"##### {utils.t('planner_cart')}")
         for ct in cart_tours:
             cc1, cc2, cc3 = st.columns([3, 1, 1])
             with cc1:
