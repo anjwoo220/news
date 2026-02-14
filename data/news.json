@@ -12008,14 +12008,9 @@
       "summary": "- 태국이 2026년부터 새로운 비자 규정을 도입하여 여행이 더욱 간편해질 예정입니다.\n- 장기 체류 옵션과 디지털 도착 시스템이 모험을 즐기는 여행객에게 제공됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "2026년에 태국을 더욱 편안하게 탐험하세요: 새로운 비자 규정, 장기 체류 옵션 및 디지털 도착 시스템이 모험을 추구하는 사람들을 위해 제공됩니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 중요한 정보이며, 장기 체류 옵션은 특정 여행객에게 큰 영향을 미칠 수 있습니다. 2026년 시행 예정이지만, 미리 정보를 제공하는 것이 유용하다고 판단했습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Explore Thailand Effortlessly in 2026: New Visa Rules, Long-Stay Options, and Digital Arrival System for Adventure Seekers - Travel And Tour World",
@@ -12024,23 +12019,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbkFwWlFEUmRwcG1yWkdxR04yNlVlLXBoVnFKeXZZQ1dDeVlkR0xCT0x4NFB0bC1WT1pDOENGRWxocS1CaVFWcUp4QVlpUWVTNUdXNjJTQVZiaG12YmdHckNaX2VlREtEelBvVFJQa192S19rcWFRVXBPc29wTlJjYVpITWM0c19HVDNHUXpLblFVRDYwVGliWlVlaGRpZDZDZV9ESExsdjhJRkUwNVc2MGliSW5LXzFkX2NXcUItcmRaam9TNkY5alN3MG14QWFndTVBU09YdkpDb29PZE5SZENtSUxEN04xaEx2cGRyQ1oza3hYcWt1OExQX0o?oc=5",
+      "source": ""
     },
     {
       "title": "쿠바, 에너지 위기로 연례 시가 축제 취소",
       "summary": "- 쿠바가 에너지 위기로 인해 연례 시가 축제를 취소했습니다.\n- 미국이 베네수엘라로부터의 석유 공급을 차단한 것이 원인입니다.\n- 쿠바는 연료 부족, 정전, 항공편 중단 등의 어려움을 겪고 있습니다.",
       "full_translated": "쿠바가 에너지 위기 심화로 인해 연례 시가 축제를 취소했습니다. 외신 보도에 따르면, 미국이 베네수엘라로부터의 석유 공급을 막은 후 쿠바는 심각한 에너지 부족에 직면해 있으며, 이로 인해 하바나에서 열리는 연례 시가 축제가 취소되었습니다. Festival del Habano 조직위원회는 2월 말에 5일간 열릴 예정이었던 올해 행사가 추후 공지가 있을 때까지 연기될 것이라고 발표했습니다. 위원회는 이러한 결정이 미국에 의한 '경제, 무역 및 금융 봉쇄'로 인해 쿠바가 겪고 있는 '복잡한 경제 상황' 때문이라고 밝혔습니다. 이전에는 쿠바가 베네수엘라로부터 하루 약 35,000 배럴의 원유를 공급받았지만, 미국은 니콜라스 마두로를 체포한 이후 쿠바로의 석유 공급을 차단했습니다. 이로 인해 쿠바에서는 일일 정전이 심화되어 하루에 최대 18시간까지 정전이 발생하고 있으며, 병원 응급실, 투석 환자, 펌프장 등에 영향을 미치고 있습니다. 쿠바는 또한 항공 연료 부족을 겪고 있어 여러 항공사가 쿠바행 항공편을 중단했으며, 일부 국가에서는 불필요한 여행을 자제하라는 경고를 발표했습니다. 도널드 트럼프 미국 대통령은 쿠바 지도자들에게 '합의'를 촉구하며, 그렇지 않으면 결과를 감수해야 할 것이라고 경고했습니다. 쿠바 시가는 세계적으로 유명합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "쿠바 여행에 영향을 미칠 수 있는 항공편 중단 가능성 및 여행 경고에 대한 정보 포함. 태국 여행객에게 직접적인 영향은 적으나, 관련 정보 제공 가치 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "คิวบาระงับเทศกาลซิการ์ประจำปี หลังวิกฤตพลังงานทรุดหนัก",
@@ -12049,23 +12041,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DdxEGwpP80zG.jpg"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DdxEGwpP80zG.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/foreign/2914290",
+      "source": ""
     },
     {
       "title": "Bhumjaithai, 정부 구성 협상 난항",
       "summary": "- Bhumjaithai당이 Pheu Thai당의 지지를 받아 정부 구성에 나섰으나, Klatham당과의 협상에서 난항을 겪고 있음.\n- Klatham당은 58석을 보유하고 있으며, 농업협동조합부 장관 자리를 요구하고 있어 협상에 어려움이 발생.\n- Bhumjaithai당은 농업 생산 정책과 수출 전략을 연계하기 위해 해당 부처를 확보하려 하고 있으며, Suphajee Suthumpun을 부총리로 임명하여 상무부와 농업 정책을 감독하도록 제안.",
       "full_translated": "Bhumjaithai(BJT)당은 Pheu Thai당의 74석 의원들이 정부 구성에 필요한 과반수를 확보하기 위한 노력에 지지를 표명한 후, 새로운 연립 정부를 구성하기 위한 노력의 일환으로 Klatham당과 협상을 시작했습니다. BJT는 193석을 보유하고 있습니다. Pheu Thai당의 74석 의원과 총 9석을 가진 7개의 소규모 정당의 지원을 합하여, 당은 연립 추진을 위해 약 276표를 확보했습니다. 58석의 Klatham당은 주요 남은 파트너로 부상했으며, 이들의 참여는 연합을 더욱 강화할 수 있습니다. Klatham당이 합류하면 BJT 주도 연립은 하원에서 334표를 확보하게 됩니다. 그러나 BJT와 Klatham당 간의 회담은 특히 농업협동조합부 통제권을 두고 긴장에 직면했습니다. BJT는 농업 생산 정책을 상무부 산하의 수출 전략과 연계하는 것을 목표로 할당량의 일부로 해당 부처를 확보하려고 합니다. 당은 Suphajee Suthumpun을 부총리로 임명하여 상무부를 감독하고 농업 정책을 감독하여 생산과 수출 간의 조정을 보장할 것을 제안했습니다. 소식통은 \"BJT는 이러한 합의가 정책 일관성을 강화하고 태국의 경제 경쟁력을 강화할 것이라고 믿고 있습니다.\"라고 말했습니다. Klatham당 수석 고문인 Capt Thamanat Prompow는 당의 농업협동조합부 장관직 요구를 포기하는 것을 거부한 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정부 구성 관련 정치 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Bhumjaithai coalition talks hit snag",
@@ -12074,8 +12063,60 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197423_260215052152_700.jpg"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197423_260215052152_700.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.bangkokpost.com/thailand/politics/3197423/bhumjaithai-coalition-talks-hit-snag",
+      "source": ""
+    },
+    {
+      "title": "푸껫 인근 화물선 침몰: 기름 유출 및 유해 물질 컨테이너 주의",
+      "summary": "- 푸껫 해안에서 화물선 SEALLOYD ARC 침몰, 태국 정부 오염 통제 부서(PCD)가 해수 품질 집중 감시.\n- 유출된 기름은 서쪽으로 이동할 가능성이 크며, 유해 물질을 실은 컨테이너 14개도 함께 감시 중.\n- 다이버 팀을 위한 유해 물질 식별, 보호 장비, 누출 감지 절차 등 안전 지침 발행.",
+      "full_translated": "정부는 화물선 SEALLOYD ARC가 푸껫 해안에서 침몰한 후 오염 통제 부서(PCD)에 감시를 강화하도록 지시했습니다. 랄리다 페르스위왓타나 정부 부대변인은 수찻 촘클린 천연자원환경부 장관이 이번 사건에 대해 우려를 표명하고 PCD에 연안 해수 수질을 감시하도록 명령했다고 밝혔습니다. PCD는 사고 지휘 본부를 지원하고 학술적 조언을 제공하며 인양 작업 중 안전을 보장하고 있습니다. PCD는 OILMAP 모델을 배포하여 기름띠 이동을 예측하여 위험을 평가하고 대응 계획을 지원하고 있습니다. 예비 평가에 따르면 기름 잔류물은 서쪽으로 이동하여 공해상으로 흘러갈 가능성이 높습니다. 당국은 또한 선박에 실린 유해 물질을 함유한 컨테이너 14개를 감시하고 있습니다. PCD는 화물의 특성 및 관련 위험을 검토하고 유해 기호 식별, 개인 보호 조치, 장비 준비 및 잠재적인 화학 물질 누출 감지 절차를 포함하여 다이버 팀을 위한 지침을 발표했습니다. 기름 유출 방지 및 대응과 관련하여 부서는 유성 분산제 사용에 대해 조언하고 정기적인 연안 수질 검사를 계속 수행하고 있습니다. 랄리다 여사는 표류하는 컨테이너를 발견하는 사람은 누구든지 해당 위치를 촬영하고...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "푸껫 해안 사고로 인한 잠재적 해양 오염 위험 및 안전 주의 필요. 특히 다이버 및 해양 활동 참여자에게 영향.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 해안",
+        "price": null,
+        "location_google_map_query": "Phuket coast"
+      },
+      "references": [
+        {
+          "title": "PCD on oil wreck watch",
+          "url": "https://www.bangkokpost.com/thailand/general/3197463/pcd-on-oil-wreck-watch",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197463_260215054802_700.jpg"
+        }
+      ],
+      "collected_at": "06:16",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197463_260215054802_700.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국, 러시아 아웃바운드 관광 붐에 합류: 여행은 분쟁 속 평화의 길인가?",
+      "summary": "- 태국이 베트남, 중국과 함께 러시아 아웃바운드 관광객 증가 추세에 동참하고 있습니다.\n- 이는 지정학적 긴장 속에서 관광산업의 회복력을 보여주는 사례입니다.\n- 태국은 러시아 관광객 유치를 통해 경제적 이익을 얻고, 동시에 문화 교류를 촉진할 수 있습니다.",
+      "full_translated": "태국이 베트남, 중국과 함께 러시아 아웃바운드 관광 붐에 합류하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "러시아 관광객 증가 추세는 태국 관광 산업에 긍정적인 영향을 미칠 수 있으며, 여행객은 관련 정보를 인지할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Joins Vietnam, China in Russian Outbound Tourism Boom: Is Travel a Path to Peace Amidst Conflict? - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbWhONDdOb0dFLWdlS09wcnZocE1NZnoycFBieWo5S29NSTVzbXc3SWJYbHdIemNocVkycVlkQWktM2M3Y2piRHhNQTBoT0xVQ0JqQkNaUEFJQ3JnUVlpVEZvQlc0bFFhTnU0b0l0ZGxBM01GN3lfQnFPU3ZfLWxTaVFmWWd5YldJYlQ2dXBvcTNIakRxUmxRVmNQeXZGQkYyc2lackdmSl9KNUdIVFlHbEd2TnhSazI1YkhzU1BONmFnaTU2Njk0bnFHc1Bzby1DaW1JYUF4UDYxTklwTEtVWktKczRaSXM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-15"
     }
   ]
