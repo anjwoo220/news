@@ -10305,14 +10305,9 @@
       "summary": "- 태국이 인도 관광객 유치를 위해 비자 제도를 개편합니다.\n- 60일 무비자 입국을 허용하고 'Destination Thailand Visa'를 새로 도입합니다.\n- 자세한 내용은 VisaHQ에서 확인하실 수 있습니다.",
       "full_translated": "태국이 비자 제도를 개편하여 인도 관광객 유치에 나섭니다. 60일 무비자 입국 허용 및 새로운 'Destination Thailand Visa' 도입에 대한 자세한 내용은 VisaHQ에서 확인하실 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행자에게 매우 중요한 정보이며, 특히 인도 여행객에게는 큰 영향을 미칠 수 있습니다. 새로운 비자 정보는 여행 계획에 필수적인 요소입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand overhauls visa regime: 60-day visa-free entry and new ‘Destination Thailand Visa’ to court Indian visitors - VisaHQ",
@@ -10323,21 +10318,18 @@
       ],
       "collected_at": "17:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWDM1dlVDYlBlcExINEpiSTNhYnNhVXpOZlJLZ1V0cVJyS0NpYUhjQUFJZERRN2pfQnI0dG9fYkQ2MFRJZFlLUWR5NVVwMWN2NHdrbDU5Q2dMSk5FVmxXWEs4eUI2MHpLQXk1dmtoQzJMSkJZNUtfdUdUM3ZPSHIzX25OZUx1SVpNZTFoVnduVmhGcVVWclN2ZkRnODlNOTM3Vi14a2RZdGEyWVpJdUJrcGhjMi1pWkEwNTdERlo0QTlUS01GbkpsdG9wbUgzTFBXME1zbFBpUHBmOWtYUFVMaC1PYmJpbDJwVXU0?oc=5",
+      "source": ""
     },
     {
       "title": "영국, 디지털 E-비자 시스템 도입으로 관광 성장 가속화에 동참",
       "summary": "- 영국이 캐나다, 터키, 독일, 브라질, 태국, 나미비아 등과 함께 디지털 E-비자 시스템을 도입하여 관광 성장을 가속화합니다.\n- 이로써 영국 여행이 더욱 간편해질 것으로 기대됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "영국이 캐나다, 터키, 독일, 브라질, 태국, 나미비아 등과 함께 원활한 디지털 E-비자 시스템 도입으로 관광 성장을 가속화하고 있습니다. 자세한 내용은 Travel And Tour World에서 확인하세요.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "영국의 E-비자 시스템 도입은 한국 여행객의 영국 방문을 용이하게 하므로 여행 편의성에 큰 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "United Kingdom Joins Canada, Turkey, Germany, Brazil, Thailand, Namibia, And More Countries In Accelerating Tourism Growth With The Introduction Of A Seamless Digital E-Visa System: Here’s Everything You Need To Know - Travel And Tour World",
@@ -10348,21 +10340,18 @@
       ],
       "collected_at": "17:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOdzA0eUUwemdoNXh6bWJCeXlGLUNra1NuNThyNHluS3U5QXFvVndZbWtkcWJweEhMUlRnT2lOSld2aXZzRjNpeEd2cFMzNExzSThKU01scm9zaDFLWTFWZEE2Slk4QU1rWktEMDIyaWdYX2l2VFdzOHlpRDVmUEZ6a1RGdlE2d1JFeDI0S1k4SV9lRzNlSHlEbnJQUVRtTGxzY3hoOE1RTEdMT0ZmX3F2ZU01VDllVkVHZTJRZGRnZGhwbjhHaWVvXzhUajFwcDVPZG4wNnd4T1hzWEdGdENnaEhVZk56TDJzYkg2TXR1WlV1SFR6SVVKaVJVTmMxZHhYYWhEVzFtSTZ2MGM2em5IVW9MWGxQSTBIcTdzU3dpV19HVHpXWEpvQVJxNzNiS09vaWRaSTdOa19oMmc1UGQ3dHVYcHE2MHkwdENqT081VE4yVF9qVlh5amNudEw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 관광 규정 강화: 벌금, 방문객 제한, 임대 규정, 행동 제재 등",
       "summary": "- 태국이 스위스, 이탈리아, 일본, 포르투갈, 네덜란드, 한국 등과 함께 관광 규정을 강화합니다.\n- 벌금, 방문객 수 제한, 임대 규정, 행동 제재 등이 포함됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국이 스위스, 이탈리아, 일본, 포르투갈, 네덜란드, 한국 등 여러 나라와 함께 벌금, 방문객 수 제한, 임대 규정, 행동 제재 등 더 엄격한 관광 법규를 시행합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행 시 알아두어야 할 규정 변경 사항을 담고 있어 여행객에게 유용한 정보입니다. 기존에 유사한 내용의 기사가 없으므로 새로운 정보로 판단됩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Joins Switzerland, Italy, Japan, Portugal, Netherlands, South Korea, And Several Other Countries In Implementing Stricter Tourist Laws With Fines, Visitor Caps, Rental Regulations, And Behavioural Penalties - Travel And Tour World",
@@ -10373,21 +10362,18 @@
       ],
       "collected_at": "17:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxOU2stUzRzUENta0VjSVBJbjFwWjVkNHBHZ1pURjlFcng3YzZ0QVdlZEQ5aWRJN3ppNlJiT0JlQm9EVlQtR0IzM2lfWk9EWEtTUkpPQjliejJiWnFDRkVzMHRfT21MTXpHY3hLSGh2Wk1IVHRkdWlTZDA1eWZLV25NVS1VUjZQY1BwWnF0eFc1V2poQTdvTnlZOHczV0s3eVpnc0hwYkJGRFlWc1RGOC05Q2lOZWZVZjZOSFRRMUhYaVBLQ2FsSE5rS2Rxd1hBSl9NblVLQnQxNnk1ZndyVjJoeDFEbldMcVZRZUFZYVdmRE54a0pmMHgxUlk5eEhUbDRqMXBQdEw2M0U3QkFzTm5zRjFwX3dUbmRzQ3M0Z29SdmVfSEIyRjBfdFE4XzlEQXcwd05DZmhEbTk3WmlPbTg3TGlNQ0ttNHMxOVh1dWtyYzF3WkszbS1NVWh2OFU?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 비용 증가: 한국인 여행자, 방콕, 푸껫, 치앙마이 환율 변동에 적응",
       "summary": "- 태국 관광 비용 증가에 한국인 여행자들이 환율 변동에 적응하고 있습니다.\n- 방콕, 푸껫, 치앙마이 등 주요 관광 도시에서 환율 변동에 따른 여행 비용 변화가 나타나고 있습니다.\n- 다음 여행을 떠나기 전에 알아야 할 모든 것을 제공합니다.",
       "full_translated": "태국 관광 비용 증가: 한국인 여행자들이 방콕, 푸껫, 치앙마이 환율 변동에 적응 – 다음 여행 전에 알아야 할 모든 것 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 시 환율 변동에 따른 비용 변화는 여행객에게 중요한 정보입니다. 특히 방콕, 푸껫, 치앙마이 등 인기 지역에 대한 정보는 유용합니다.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 푸껫, 치앙마이",
-        "price": null,
-        "location_google_map_query": "방콕 푸껫 치앙마이"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 푸껫, 치앙마이', 'price': None, 'location_google_map_query': '방콕 푸껫 치앙마이'}",
       "references": [
         {
           "title": "Rising Costs in Thailand’s Tourism: How South Korean Travelers Are Adjusting to Exchange Rate Fluctuations in Bangkok, Phuket, and Chiang Mai – Everything You Need to Know Before Your Next Trip - Travel And Tour World",
@@ -10398,21 +10384,18 @@
       ],
       "collected_at": "17:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOeWFyTmh1X0l6Q0xvUkpjVUZ5Q3JVSUpfZnU1bmJvejJ4VU0yV3FJTU44dFZYaUdGVXBWYXIwVUFGSU1EN1BmeXprMS1tdmZOTFQtNWQ1U1FlcldYRl8wU1VKWkFLalB0TlZzS1cydzhidFY5T09Fc0pNaVFMV2NSS3ZaSDF0MU9NV0ZJNXNNaUM4OEVWVTBrdkVDNENmS2cwT19KN2N1UXdMZUhhb3liRDcyV2RwOUN5MlhoLUVsWWFBa3VJRlRJR0pRYjdtUDFmcGhmbTM5RG5wcVZqR0tpQWFYWUZZdU90N0J5LVdwWFpTeXZuSEdqR0lQUkZPRWtwZ3E4R0dXLU5EWFVua3Yxbks3c3JvV0NqSzU0a3BpaldzUHB0ZEhtalg3dDkyMl94REhBTnppRFRINkhtb2MxeW1ZRXF4eTZ1MlF2ZmhoeG1jSHly?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 대량 관광에서 지속 가능하고 웰빙 중심 여행으로 전환",
       "summary": "- 태국이 대량 관광에서 벗어나 문화 몰입과 경제 성장을 촉진하는 지속 가능한 웰빙 중심의 여행으로 초점을 옮기고 있습니다.\n- 이는 태국 관광 산업의 질적 성장과 긍정적인 변화를 목표로 합니다.\n- 구체적인 정책 변화나 새로운 관광 상품에 대한 정보는 아직 없습니다.",
       "full_translated": "태국은 대량 관광에서 지속 가능하고 웰빙 중심의 여행으로 초점을 전환하여 문화 몰입과 경제 성장을 촉진합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 정책의 방향 전환에 대한 정보로, 여행객들에게 장기적으로 영향을 줄 수 있으나, 즉각적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Shifts Focus From Mass Tourism to Sustainable, Wellness Oriented Travel That Promotes Cultural Immersion and Economic Growth - Travel And Tour World",
@@ -10423,6 +10406,133 @@
       ],
       "collected_at": "17:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQX2I5cXFqcHZkNVFROXhLLWFhV1FhMVByUWs1aFg2NjZvdGVZTVJqVEhUbUIzVkt0Zlp4SjQtVFNzUzAtdG5yMGZUU2RSUFJaWFhGSVdmLXNmRU5TaExKVmRETGlrdzA0S3VDa0hqanFvYVY5RmJXX2RzYVJPZ1M1TVZMdXZJVVEzRmFoTllkQUtmeXFHRU9kZTBsNFVxNENSSTh5aXNialByZ1J2UEtpcE1pMXplM1VlMFFfV1VobFRQeGtyN0tna3haMUhtSWJHTWlaa2dRQUgwZ1BGaU4yZDJrUE5zMEVPQldlUndzUjA2T2tmQVUwT05SdG5RVmNjX3FiYWFTSUZGc0tOb1E?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 단축 및 국경 강화 계획",
+      "summary": "- 태국 정부가 무비자 체류 기간을 단축하고 국경 통제를 강화할 계획입니다.\n- 구체적인 변경 사항은 아직 발표되지 않았지만, 관광객과 이민자 모두에게 영향을 미칠 수 있습니다.\n- 자세한 내용은 추후 발표될 예정입니다.",
+      "full_translated": "태국 정부가 무비자 체류 기간 단축과 국경 강화 계획을 발표했습니다. 자세한 내용은 아직 발표되지 않았지만, 관광객과 이민자 모두에게 영향을 미칠 수 있습니다. 관련 내용은 TravelMole에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 한국인 여행객에게 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand plans shorter free-visa stays and tighter borders - TravelMole",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OT3d3UGhzTkdRMTYyRERwNXU1M0pfVGhsWVRYdHZSTUVLNGNiY19LUjVzb1NWV2p1ZkNwYW8yUzVQYUprd0Z6dTVzclhPQlR6NENTZHYyOHVwRXlCTWxTMlloTktiR0JoUVE0MGZTVkRvSzg?oc=5",
+          "source": "TravelMole",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 범죄 악용 및 보안 위험 방지를 위해 비자 면제 체류 기간 30일로 단축 검토 – 미국, 캐나다, 베트남, 라오스 등",
+      "summary": "- 태국이 범죄 악용 및 보안 위험을 줄이기 위해 비자 면제 체류 기간을 30일로 단축하는 방안을 검토 중입니다.\n- 미국, 캐나다, 라오스, 베트남 등 여러 국가가 관련됩니다.\n- 이는 태국을 방문하는 여행객들에게 중요한 변화가 될 수 있습니다.",
+      "full_translated": "태국은 범죄 악용 및 보안 위험을 억제하기 위해 미국, 캐나다, 라오스 및 기타 국가들과 함께 비자 면제 체류 기간을 30일로 단축하는 방안을 모색하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경 가능성은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히, 기존에 비자 없이 장기 체류가 가능했던 여행객에게는 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Vietnam Joins United States, Canada, Laos, and More as Thailand Explores Reducing Visa-Free Stay to Thirty Days to Combat Criminal Exploitation and Security Risks - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQajE4aFFQR1JwY2I3Z0Jib1NTbDVBOExBYV9hcTRyRlNIeENYTkFsdndtVEhBbEc0b3AzNmRBOExyRzI0UUdWcW1IZWxKZ2xPbS1vSktsVXJsS2JHMGFTLTViOVh6RnpubWhvSGZMQlNESFp2cHJ4QzlrWUd6RUlyM0RwSTBqRURSajdjb2J3Vm9sd3p2bXhSTUNkcDdrZEJYNEZza05wcFR3U1Y4aFRKdThLajVzM29SaUIyY2lZSTgzQWgzY3I1VGhUMTBIOHhBNjNIbzZvLVhmM0p0NzVOZGM1a2V1WjhucHdrRHhYRXVOUW9kem85N0RyZlo1eDh5TzFXT0VneWFMdklnTzh3VlFJYnZUT1Y4T1FEdWFvM3Bwa0gtVHF0bjNTampGT1kwWHc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축: 2026년 관광객, 비즈니스 여행객에게 미치는 영향",
+      "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축합니다.\n- 이 변경 사항은 2026년부터 시행될 예정입니다.\n- 관광객과 비즈니스 여행객에게 큰 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "태국, 무비자 체류 기간 60일에서 30일로 단축: 2026년 관광객, 비즈니스 여행객, 글로벌 휴가객에게 미치는 이 대담한 변화의 의미!\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 2026년부터 적용되지만, 여행 계획에 영향을 줄 수 있어 미리 알리는 것이 중요하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Cuts Visa-Free Stay from Sixty to Thirty Days: What This Bold Change Means for Tourists, Business Travelers, and Global Holidaymakers in 2026! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNURRdFNMaWxaaUJSYTRzUVc2bnF4ay1pWmI2ME5JXzdWREdXWTU2T3lhX2w1dEdyNTRhbnA3WnN2ai1pTlJ1cXVDVWdpNGVMc2M4cnBJVHczSGcxS3kyN3U3aGpBY3dXNURrb3M3YWw4dy00TWQtUlZFLS1JeHZGMWZkOXBFc2djMGhMQTJ6WmFYWURfTlFJYXdfLVJ5THZfRDhwRXlzY015OVYzb2trY1JpajdmZ0xoNmJBdEdPcm01OGtzaV9ZV3BNRW9SOTBvcGh4djhVaFZ3SjdoM3NMSnI4R00zdXdacEx3SnBEQ01WRnR3X1NsemtSdEwxX1p5WkFvRWh0LTJvV1U1a3VSMlNNVkU1R004M3h3TFc5YU9hdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "쁘라쭈압 키리 칸, 요트 조선소 화재로 수십 억 바트 피해 발생",
+      "summary": "- 쁘라쭈압 키리 칸, 탑 사깨 지역의 해변가 요트 조선소에서 화재 발생.\n- 소방대가 출동하여 진화 작업 진행, 피해액은 수십 억 바트에 달함.\n- 정확한 화재 원인 조사 중.",
+      "full_translated": "쁘라쭈압 키리 칸, 탑 사깨 지역의 해변가에 위치한 요트 조선소에서 화재가 발생하여 수십 억 바트의 피해가 발생했습니다. 2069년 2월 14일 13시 30분경, 쁘라쭈압 키리 칸 경찰서의 수사관은 탑 사깨 지역, 3번 마을, 탑 사깨 구역, 해변가 요트 조선소에서 화재가 발생했다는 신고를 받았습니다. 스앙 룽르앙 탐마스탄 재단과 탑 사깨 지방 자치 단체의 소방차 약 10대가 화재 진압을 위해 현장으로 출동했습니다. 현장은 3층 규모의 요트 조선 공장으로, 약 200석 규모의 요트가 불길에 휩싸였습니다. 소방관들은 요트와 금속 지붕 구조물에 집중적으로 물을 뿌려 화재 확산을 막았습니다. 건물은 무너져 내렸고, 약 10개의 컨테이너도 불에 타 손실되었습니다. 씻티차이 싸왓디센 쁘라쭈압 키리 칸 도지사와 몬차이 누싸이 탑 사깨 군수는 현장을 방문하여 상황을 점검하고 지시를 내렸습니다. 목격자이자 수도승인 프라 쑤폿은 수행 중 화재를 목격하고 양동이에 물을 담아 불을 끄려 했으나 강한 바람으로 인해 실패했다고 진술했습니다. 짜란 쓰리채엠, 반 퉁 쁘라도ゥ 지역 사회 기업 회장은 화재를 목격하고 경찰에 신고했다고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "유명 관광지 인근 화재로 안전에 대한 정보 제공 필요. 여행 일정에 영향이 있을 수 있음.",
+      "event_info": {
+        "date": "2069-02-14",
+        "location": "บ้านทุ่งประดู่, อำเภอทับสะแก, จังหวัดประจวบคีรีขันธ์",
+        "price": "수십억 바트 피해",
+        "location_google_map_query": "บ้านทุ่งประดู่, อำเภอทับสะแก, จังหวัดประจวบคีรีขันธ์"
+      },
+      "references": [
+        {
+          "title": "ไฟไหม้อู่ต่อเรือยอร์ชริมหาดทุ่งประดู่ ทับสะแก ประจวบคีรีขันธ์ เสียหายหลายสิบล้าน",
+          "url": "https://www.thairath.co.th/news/local/2914246",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhPLnYbcwtO3.jpg"
+        }
+      ],
+      "collected_at": "17:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BhPLnYbcwtO3.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "방글라데시 총선, BNP 압승…총리 후보에 야당 지도자",
+      "summary": "- 방글라데시 총선에서 야당인 방글라데시 민족주의당(BNP)이 압승.\n- 탁월한 승리로 BNP 지도자 타리크 라만이 총리직에 오를 것으로 예상.\n- 경제 회복, 정치 안정, 투자 심리 회복이 주요 과제로 부상.",
+      "full_translated": "방글라데시 민족주의당(BNP) 연합이 압도적인 승리를 거두며, 전 총리 하시나의 인도에서의 범죄인 인도를 추진할 것을 약속했습니다. \n\n방글라데시, 다카 - 야당인 방글라데시 민족주의당이 금요일 총선에서 압승을 거두며 거의 20년 만에 권력을 되찾았으며, 타리크 라만 대표는 수개월간의 불안과 경제적 혼란에서 벗어나면서 총리가 될 위치에 놓였습니다. \n\n전 총리 칼레다 지아와 암살당한 전 대통령 지아우르 라만의 아들인 라만은 2024년 셰이크 하시나 전 총리의 정부 붕괴 이후 장기간의 혼란 이후 정치적 안정 회복, 투자자 신뢰 회복, 주요 산업(의류 부문 포함) 재건이라는 즉각적인 과제에 직면해 있습니다. 노벨상 수상자인 무함마드 유누스가 이끄는 임시 정부가 그 이후로 책임을 맡아 왔습니다. \n\n이번 투표에서 명확한 결과는 남아시아 국가 1억 7,500만 명에게 매일의 삶과 의류 제조를 포함한 산업을 방해한 수개월간의 치명적인 반(反) 하시나 불안 이후 중요한 것으로 여겨졌습니다. 방글라데시는 세계에서 두 번째로 큰 의류 수출국입니다. \n\n다카 대학교의 경제학 교수인 셀림 라이한은 “BNP는 압도적인 다수 의석을 확보하여 개혁을 효율적으로 통과시키고 입법 마비를 피할 수 있는 의회적 힘을 갖게 되었습니다. 그것만으로도 단기적인 정치적 안정을 창출할 수 있습니다.”라고 말했습니다. 남아시아 국가의 첫 번째 진정한 경쟁 선거로 간주된 투표의 공식 집계에서 BNP와 그",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 상황 변화는 여행 심리에 영향을 줄 수 있으므로 중간 점수 부여. 방글라데시 여행객에게는 중요 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Son of ex-leaders poised to be Bangladesh PM",
+          "url": "https://www.bangkokpost.com/world/3197344/son-of-exleaders-poised-to-be-bangladesh-pm",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197344_700.jpg"
+        }
+      ],
+      "collected_at": "17:51",
+      "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197344_700.jpg",
       "date": "2026-02-14"
     }
   ]
