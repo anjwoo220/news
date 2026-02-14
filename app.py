@@ -1670,8 +1670,9 @@ def render_tab_hotel():
             else:
                  with st.spinner(utils.t("analyzing")):
                      # [NEW] Check GSheets Cache First to save API costs
+                     current_lang = st.session_state.get('language', 'Korean')
                      hotel_name_to_check = st.session_state.get('_selected_hotel_label', '')
-                     cached_result = utils.get_hotel_cache(hotel_name_to_check)
+                     cached_result = utils.get_hotel_cache(hotel_name_to_check, language=current_lang)
                      
                      info = None
                      analysis = None
@@ -1701,7 +1702,7 @@ def render_tab_hotel():
                          info = utils.fetch_hotel_details(active_id, api_key)
                          
                          if info:
-                             analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key)
+                             analysis = utils.analyze_hotel_reviews(info['name'], info['rating'], info['reviews'], gemini_key, language=current_lang)
                              
                              # 랭킹 데이터 기록
                              if analysis and not isinstance(analysis, list) and "error" not in analysis:
@@ -1719,12 +1720,12 @@ def render_tab_hotel():
                                  # Combine info and analysis for a complete cache hit next time
                                  full_cached_json = {"info": info, "analysis": analysis}
                                  summary = analysis.get('one_line_verdict', '')
-                                 utils.save_hotel_cache(info['name'], summary, full_cached_json)
+                                 utils.save_hotel_cache(info['name'], summary, full_cached_json, language=current_lang)
                              elif isinstance(analysis, list) and len(analysis) > 0:
                                  # Some versions might return a list
                                  full_cached_json = {"info": info, "analysis": analysis[0]}
                                  summary = analysis[0].get('one_line_verdict', '')
-                                 utils.save_hotel_cache(info['name'], summary, full_cached_json)
+                                 utils.save_hotel_cache(info['name'], summary, full_cached_json, language=current_lang)
                                  analysis = analysis[0]
                      
                      if info and analysis:
@@ -1991,7 +1992,7 @@ def render_tab_food():
                     if exact_match:
                         st.success("📦 " + ("Found cached analysis!" if st.session_state.get('language') == 'English' else "기존 분석 데이터를 찾았습니다!"))
                         # Get full details (will hit cache and log)
-                        details = utils.get_restaurant_details(exact_match['location_id'], gemini_api_key=gemini_key)
+                        details = utils.get_restaurant_details(exact_match['location_id'], gemini_api_key=gemini_key, language=st.session_state.get('language', 'Korean'))
                         if details:
                             st.session_state["restaurant_details"] = details
                             st.rerun()
@@ -2029,7 +2030,7 @@ def render_tab_food():
             with st.spinner(utils.t("analyzing")):
                 # Get Gemini Key for analysis
                 # gemini_key is already global
-                details = utils.get_restaurant_details(selected_restaurant['location_id'], gemini_api_key=gemini_key)
+                details = utils.get_restaurant_details(selected_restaurant['location_id'], gemini_api_key=gemini_key, language=st.session_state.get('language', 'Korean'))
                 
                 if details:
                     # 랭킹 데이터 기록

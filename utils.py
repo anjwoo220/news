@@ -771,37 +771,38 @@ def get_hotel_gsheets_client():
         print(f"GSheets Auth Error: {e}")
         return None
 
-def get_hotel_cache(hotel_name):
-    """Checks if analysis for the given hotel already exists in GSheets."""
+def get_hotel_cache(hotel_name, language="Korean"):
+    """Checks if analysis for the given hotel already exists in GSheets (Language aware)."""
     client = get_hotel_gsheets_client()
     if not client: return None
     try:
-        # Worksheet name: hotel_cache_db
-        # We assume it's the first sheet (sheet1)
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        # Search for hotel_name in the first column
-        # Using exact match for reliability
-        cell = sheet.find(hotel_name)
-        if cell:
-            row_data = sheet.row_values(cell.row)
-            # Expecting: [hotel_name, cached_date, ai_summary, raw_json, agoda_url(optional)]
-            if len(row_data) >= 4:
-                result = {
-                    "hotel_name": row_data[0],
-                    "cached_date": row_data[1],
-                    "ai_summary": row_data[2],
-                    "raw_json": json.loads(row_data[3]),
-                    "agoda_url": row_data[4] if len(row_data) >= 5 else None  # 5번째 컬럼
-                }
-                return result
+        from gspread.utils import escape_for_json
+        # Search for hotel_name
+        cells = sheet.find(hotel_name, in_column=1)
+        if cells:
+             # There might be multiple entries for different languages
+             all_records = sheet.get_all_values()
+             for row in all_records:
+                 if row[0] == hotel_name:
+                     # Row: [name, date, summary, json, agoda, lang]
+                     cached_lang = row[5] if len(row) >= 6 else "Korean"
+                     if cached_lang == language:
+                        return {
+                            "hotel_name": row[0],
+                            "cached_date": row[1],
+                            "ai_summary": row[2],
+                            "raw_json": json.loads(row[3]),
+                            "agoda_url": row[4] if len(row) > 4 else None,
+                            "language": cached_lang
+                        }
     except Exception as e:
-        # If sheet doesn't exist or other error, return None
         print(f"Cache Lookup Error: {e}")
     return None
 
-def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None):
+def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None, language="Korean"):
     """Appends new analysis results to the hotel_cache_db GSheet."""
     client = get_hotel_gsheets_client()
     if not client: return
@@ -809,7 +810,7 @@ def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None):
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        # Header: [hotel_name, cached_date, ai_summary, raw_json, agoda_url]
+        # Header: [hotel_name, cached_date, ai_summary, raw_json, agoda_url, language]
         from datetime import datetime
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
         
@@ -818,10 +819,11 @@ def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None):
             now_str,
             ai_summary,
             json.dumps(raw_json_dict, ensure_ascii=False),
-            agoda_url or ""  # 5번째 컬럼: 직통 아고다 URL (없으면 빈값)
+            agoda_url or "",
+            language
         ]
         sheet.append_row(new_row)
-        print(f"✅ Cached analysis for: {hotel_name}")
+        print(f"✅ Cached ({language}) analysis for: {hotel_name}")
     except Exception as e:
         print(f"Cache Save Error: {e}")
 
@@ -1187,11 +1189,10 @@ def get_cached_restaurants_sheet():
         
         sheet = sh.get_worksheet(0)
         
-        # 헤더 동기화 로직 고도화 (기존 시트에 새 컬럼이 추가된 경우 대응)
         expected_headers = ['location_id', 'name', 'rating', 'num_reviews', 'food_rating', 
                            'atmosphere_rating', 'location_rating', 'price_level', 'price',
                            'cuisines', 'hours', 'address', 'phone', 'web_url', 'photos', 'ranking', 'maps_url',
-                           'editorial_summary', 'recommended_menu', 'analysis', 'weekday_text']
+                           'editorial_summary', 'recommended_menu', 'analysis', 'weekday_text', 'language']
         
         first_row = sheet.row_values(1)
         if not first_row:
@@ -1244,94 +1245,85 @@ def search_cached_restaurants(keyword):
         return []
 
 
-def get_cached_restaurant_details(location_id):
+def get_cached_restaurant_details(location_id, language="Korean"):
     """
-    캐시에서 식당 상세 정보를 가져옵니다.
-    
-    Args:
-        location_id: Google Places 위치 ID
-    
-    Returns:
-        dict or None: 캐시된 상세 정보
+    캐시에서 식당 상세 정보를 가져옵니다. (언어 인식)
     """
     sheet = get_cached_restaurants_sheet()
     if not sheet:
         return None
     
     try:
-        # location_id로 검색
-        cell = sheet.find(str(location_id))
-        if not cell:
-            return None
-        
-        # 해당 행 전체 데이터 가져오기
-        row_data = sheet.row_values(cell.row)
-        headers = sheet.row_values(1)
-        
-        data = {}
-        for i, header in enumerate(headers):
-            data[header] = row_data[i] if i < len(row_data) else ''
-        
-        # photos는 JSON으로 저장되어 있음
-        import json
-        photos = []
-        if data.get('photos'):
-            try:
-                photos = json.loads(data['photos'])
-            except:
-                photos = data['photos'].split(',') if data['photos'] else []
-        
-        cuisines = []
-        if data.get('cuisines'):
-            try:
-                cuisines = json.loads(data['cuisines'])
-            except:
-                cuisines = data['cuisines'].split(',') if data['cuisines'] else []
-        
-        recommended_menu = []
-        if data.get('recommended_menu'):
-            try:
-                recommended_menu = json.loads(data['recommended_menu'])
-            except:
-                recommended_menu = []
-                
-        analysis = {}
-        if data.get('analysis'):
-            try:
-                analysis = json.loads(data['analysis'])
-            except:
-                analysis = {}
+        # location_id로 검색 (동일 ID가 여러 언어로 있을 수 있음)
+        all_records = sheet.get_all_records()
+        for data in all_records:
+            if str(data.get('location_id')) == str(location_id):
+                # 언어가 명시되어 있고 현재 요청 언어와 같으면 반환
+                # (구버전 캐시는 language가 비어있으므로 Korean으로 간주)
+                cached_lang = data.get('language') or "Korean"
+                if cached_lang == language:
+                    # Parse logic...
+                    import json
+                    photos = []
+                    if data.get('photos'):
+                        try:
+                            photos = json.loads(data['photos'])
+                        except:
+                            photos = data['photos'].split(',') if data['photos'] else []
+                    
+                    cuisines = []
+                    if data.get('cuisines'):
+                        try:
+                            cuisines = json.loads(data['cuisines'])
+                        except:
+                            cuisines = data['cuisines'].split(',') if data['cuisines'] else []
+                    
+                    recommended_menu = []
+                    if data.get('recommended_menu'):
+                        try:
+                            recommended_menu = json.loads(data['recommended_menu'])
+                        except:
+                            recommended_menu = []
+                    
+                    analysis = {}
+                    if data.get('analysis'):
+                        try:
+                            analysis = json.loads(data['analysis'])
+                        except:
+                            analysis = {}
 
-        weekday_text = []
-        if data.get('weekday_text'):
-            try:
-                weekday_text = json.loads(data['weekday_text'])
-            except:
-                weekday_text = []
+                    weekday_text = []
+                    if data.get('weekday_text'):
+                        try:
+                            weekday_text = json.loads(data['weekday_text'])
+                        except:
+                            weekday_text = []
 
-        return {
-            'name': data.get('name', ''),
-            'rating': float(data.get('rating', 0) or 0),
-            'num_reviews': int(data.get('num_reviews', 0) or 0),
-            'food_rating': float(data.get('food_rating', 0) or 0),
-            'atmosphere_rating': float(data.get('atmosphere_rating', 0) or 0),
-            'location_rating': float(data.get('location_rating', 0) or 0),
-            'price_level': data.get('price_level', ''),
-            'price': data.get('price', ''),
-            'cuisines': cuisines,
-            'hours': data.get('hours', ''),
-            'weekday_text': weekday_text,
-            'address': data.get('address', ''),
-            'phone': data.get('phone', ''),
-            'web_url': data.get('web_url', ''),
-            'maps_url': data.get('maps_url', data.get('web_url', '')),
-            'photos': photos,
-            'ranking': data.get('ranking', ''),
-            'editorial_summary': data.get('editorial_summary', ''),
-            'recommended_menu': recommended_menu,
-            'analysis': analysis,
-            'is_cached': True
-        }
+                    return {
+                        'name': data.get('name', ''),
+                        'rating': float(data.get('rating', 0) or 0),
+                        'num_reviews': int(data.get('num_reviews', 0) or 0),
+                        'food_rating': float(data.get('food_rating', 0) or 0),
+                        'atmosphere_rating': float(data.get('atmosphere_rating', 0) or 0),
+                        'location_rating': float(data.get('location_rating', 0) or 0),
+                        'price_level': data.get('price_level', ''),
+                        'price': data.get('price', ''),
+                        'cuisines': cuisines,
+                        'hours': data.get('hours', ''),
+                        'weekday_text': weekday_text,
+                        'address': data.get('address', ''),
+                        'phone': data.get('phone', ''),
+                        'web_url': data.get('web_url', ''),
+                        'maps_url': data.get('maps_url', data.get('web_url', '')),
+                        'photos': photos,
+                        'ranking': data.get('ranking', ''),
+                        'editorial_summary': data.get('editorial_summary', ''),
+                        'recommended_menu': recommended_menu,
+                        'analysis': analysis,
+                        'language': cached_lang,
+                        'is_cached': True
+                    }
+        return None
     except Exception as e:
         print(f"Get Cached Details Error: {e}")
         return None
@@ -1381,7 +1373,8 @@ def save_restaurant_to_cache(location_id, details):
             details.get('editorial_summary', ''),
             json.dumps(details.get('recommended_menu', []), ensure_ascii=False),
             json.dumps(details.get('analysis', {}), ensure_ascii=False),
-            json.dumps(details.get('weekday_text', []), ensure_ascii=False)
+            json.dumps(details.get('weekday_text', []), ensure_ascii=False),
+            details.get('language', 'Korean')
         ]
         
         if existing:
@@ -1553,17 +1546,18 @@ def calculate_review_score(review):
     return score
 
 
-def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", num_reviews=0, api_key=None):
+def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", num_reviews=0, api_key=None, language="Korean"):
     """
-    리뷰 텍스트를 분석하여 장점, 단점, 한줄평을 도출합니다.
-    평점 기반의 냉정한 분석을 적용합니다.
+    리뷰 텍스트를 분석하여 장점, 단점, 한줄평을 도출합니다. (다국어 지원)
     """
+    is_english = (language == "English")
+    
     if not reviews:
         return {
-            'pros': ["정보 부족으로 장점 도출 불가"],
-            'cons': ["정보 부족으로 단점 도출 불가"],
-            'verdict': "데이터가 부족하여 분석할 수 없습니다.",
-            'one_line_verdict': "데이터가 부족하여 분석할 수 없습니다.",
+            'pros': ["No enough info" if is_english else "정보 부족으로 장점 도출 불가"],
+            'cons': ["No enough info" if is_english else "정보 부족으로 단점 도출 불가"],
+            'verdict': "No enough data to analyze." if is_english else "데이터가 부족하여 분석할 수 없습니다.",
+            'one_line_verdict': "No enough data to analyze." if is_english else "데이터가 부족하여 분석할 수 없습니다.",
             'warnings': [],
             'best_review': None
         }
@@ -1580,66 +1574,66 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", num_revi
                 text = r.get('text', '')
                 r_rating = r.get('rating', 0)
                 if text and len(text) > 10: # 최소 10자 이상
-                    reviews_text += f"- [{r_rating}점] {text}\n"
+                    reviews_text += f"- [{r_rating}/5] {text}\n"
 
             genai.configure(api_key=api_key)
             model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
 
-            # 평점 기반 톤 결정
-            if rating >= 4.5:
-                tone_instruction = "이 식당은 평점 4.5 이상의 '강력 추천' 급입니다. 단, 단점이 있다면 그것도 반드시 언급하세요."
-            elif rating >= 4.0:
-                tone_instruction = "이 식당은 평점 4.0~4.4의 '안정적인 선택'입니다. 장점과 단점을 균형 있게 서술하세요."
+            # 평점 및 언어 기반 지침
+            if is_english:
+                tone_instruction = f"Target Restaurant: {name}. Rating: {rating}. Be sharp and honest."
+                if rating >= 4.5:
+                    tone_instruction += " Highly recommended but finding subtle cons is mandatory."
+                else:
+                    tone_instruction += f" Lower rating ({rating}). Mention controversy or price issues."
+                
+                lang_instruction = "IMPORTANT: ALL JSON OUTPUT VALUES MUST BE IN ENGLISH."
+                persona = "You are a sharp-tongued food critic expert on Bangkok."
             else:
-                tone_instruction = f"⚠️ 주의: 이 식당은 평점 {rating}점으로 4.0 미만입니다. 아무리 유명해도 '강력 추천'이라고 절대 말하지 마세요. 반드시 '명성에 비해 평점이 낮음', '호불호 갈림', '가성비 논란' 등 부정적 뉘앙스를 한줄 요약에 포함하세요."
+                if rating >= 4.5:
+                    tone_instruction = "이 식당은 평점 4.5 이상의 '강력 추천' 급입니다. 단, 단점이 있다면 그것도 반드시 언급하세요."
+                elif rating >= 4.0:
+                    tone_instruction = "이 식당은 평점 4.0~4.4의 '안정적인 선택'입니다. 장점과 단점을 균형 있게 서술하세요."
+                else:
+                    tone_instruction = f"⚠️ 주의: 이 식당은 평점 {rating}점으로 4.0 미만입니다. 아무리 유명해도 '강력 추천'이라고 절대 말하지 마세요."
+                
+                lang_instruction = "중요: 모든 JSON 출력값은 반드시 한국어로 작성하세요."
+                persona = "당신은 방콕 현지 사정에 정통한 '독설가 음식 비평가'입니다."
 
             prompt = f"""
-            당신은 방콕 현지 사정에 정통한 '독설가 음식 비평가'입니다.
-            아래 제공된 [식당 정보]와 [방문자 리뷰]를 바탕으로, 가감 없는 팩트체크 리포트를 작성하세요.
+            {persona}
+            Analyze the [Restaurant Info] and [Visitor Reviews] provided and write a sharp, factual report.
+            {lang_instruction}
 
-            ---
-            ### 🚨 [치명적 중요 지침 - Knowledge Augmentation]
-            **제공된 리뷰 데이터가 "Good", "Delicious" 처럼 짧거나 정보가 부족할 경우, 당신이 이미 알고 있는 이 식당에 대한 '외부 지식(External Knowledge)'을 적극적으로 활용하여 내용을 보강하세요.**
+            -----
+            ### 🚨 [Knowledge Augmentation]
+            If the reviews are too short (e.g. "Good", "Delicious"), use your internal knowledge about {name} in Bangkok to provide detailed facts.
+            (e.g., for Wattana Panich: mention the 50-year-old soup, no AC, mixed reviews on hygiene).
 
-            * **대상 식당:** {name} (유명한 곳이라면 특징을 100% 반영할 것)
-            * **예시 (와타나파닛의 경우):**
-                - 리뷰에 없더라도 "거대한 솥에서 끓고 있는 50년 된 씨육수", "위생에 대한 호불호", "에어컨 없음" 같은 특징을 반드시 언급하세요.
-                - 단순히 "맛있다"고 하지 말고 대표 메뉴(소고기 국수, 양지살 등)를 구체적으로 언급하세요.
+            -----
+            ### [Guidelines]
+            1. **One Line Verdict:** Sharp, high-impact sentence summarizing pros and cons.
+            2. **Pros:** Specific food names, taste profiles, atmosphere. No generic terms.
+            3. **Cons:** Mandatory even for high-rated places. Hygiene, wait, heat, price, service, location.
+            4. **Warnings:** Practical tips (Cash only, No AC, Queue tips).
 
-            ---
+            -----
+            [Restaurant Info]
+            - Name: {name}
+            - Rating: {rating}
+            - Reviews Count: {num_reviews}
 
-            ### [분석 가이드라인]
-            1. **한줄 요약:**
-               - 형식: "**[가장 큰 장점/특징]**으로 명성이 자자하나, **[치명적 단점/호불호]**는 감수해야 하는 곳."
-               - 절대 "방문할 가치가 있다" 같은 뻔한 말 금지.
-               - 평점이 높더라도 단점을 찾아내서 균형을 맞출 것.
-
-            2. **장점 (Pros):**
-               - 추상적인 표현 금지. 구체적인 **메뉴 이름, 맛의 특징(식감, 향), 분위기**를 언급.
-
-            3. **단점 (Cons):**
-               - "단점 없음" 절대 금지.
-               - 위생, 웨이팅, 더위, 가격, 불친절, 위치 등 **불편한 진실**을 반드시 1개 이상 찾아낼 것.
-               - 만약 진짜 단점이 없다면 "너무 사람이 많아 정신없음"이라도 적을 것.
-
-            4. **주의사항 (Warnings):**
-               - 실질적인 이용 팁(현금 결제, 에어컨 유무, 웨이팅 등)을 짧은 태그로 추출.
-
-            ---
-            [식당 정보]
-            - 이름: {name}
-            - 평점: {rating}
-            - 리뷰 수: {num_reviews}
-
-            [수집된 리뷰 데이터]
+            [Review Data]
             {reviews_text}
             
-            **[출력 포맷 (JSON)]**
+            [Tone]: {tone_instruction}
+
+            **[Output Format (JSON)]**
             {{
-                "one_line_verdict": "위 한줄 요약 공식에 따른 날카로운 문장",
-                "pros": ["구체적인 장점1", "구체적인 장점2"],
-                "cons": ["구체적인 단점1", "구체적인 단점2"],
-                "warnings": ["주의사항1", "주의사항2"]
+                "one_line_verdict": "string",
+                "pros": ["string", "string"],
+                "cons": ["string", "string"],
+                "warnings": ["string", "string"]
             }}
             """
             
@@ -1851,15 +1845,22 @@ def search_restaurants(keyword):
         if google_places_key:
             url = "https://maps.googleapis.com/maps/api/place/textsearch/json"
             
-            # 태국 레스토랑으로 검색 범위 제한
+            # [FIX] Relax constraints to include cafes and places outside Bangkok
+            # Original: query="... restaurant Bangkok Thailand", type="restaurant"
             params = {
-                "query": f"{keyword} restaurant Bangkok Thailand",
-                "type": "restaurant",
+                "query": f"{keyword} Thailand", 
                 "language": "ko",
                 "key": google_places_key
             }
             
             response = requests.get(url, params=params, timeout=10)
+            
+            # Fallback: If no results with "Thailand", try just the keyword
+            if response.status_code == 200:
+                data = response.json()
+                if data.get('status') == 'ZERO_RESULTS':
+                    params["query"] = keyword
+                    response = requests.get(url, params=params, timeout=10)
             
             if response.status_code == 200:
                 data = response.json()
@@ -1895,23 +1896,11 @@ def search_restaurants(keyword):
     return combined[:10]  # 최대 10개
 
 
-def get_restaurant_details(place_id, gemini_api_key=None):
-    """
-    Google Places API로 식당 상세 정보를 가져옵니다.
-    캐시 우선: 먼저 캐시 확인 후 없으면 API 호출 및 캐시 저장
-    
-    Args:
-        place_id: Google Places ID
-    
-    Returns:
-        dict: 상세 정보 (이름, 평점, 리뷰수, 가격대, 사진 등)
-    """
-    import requests
-    
+def get_restaurant_details(place_id, gemini_api_key=None, language="Korean"):
     # 1단계: 캐시에서 먼저 확인 (API 비용 0)
-    cached = get_cached_restaurant_details(place_id)
+    cached = get_cached_restaurant_details(place_id, language=language)
     if cached:
-        print(f"✅ Cache hit for restaurant place_id: {place_id}")
+        print(f"✅ Cache hit ({language}) for restaurant place_id: {place_id}")
         # 캐시 히트 시에도 인기 랭킹용 로그 기록
         log_search(cached['name'], cached['rating'], 'food')
         return cached
@@ -2003,15 +1992,11 @@ def get_restaurant_details(place_id, gemini_api_key=None):
         # 리스트 중 가장 구체적인 1~2개만 사용
         cuisines = cuisines[:2]
         
-        # 리뷰 데이터 추출 및 분석 (고도화된 분석 함수 사용)
-        reviews = result_data.get('reviews', [])
-        name = result_data.get('name', '')
-        editorial_summary = result_data.get('editorial_summary', {}).get('text', '')
-        
-        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name, num_reviews=num_reviews, api_key=gemini_api_key)
+        analysis = analyze_restaurant_reviews(reviews, rating, price_level, name, num_reviews=num_reviews, api_key=gemini_api_key, language=language)
         recommended_menu = analyze_reviews_for_menu(reviews, editorial_summary)
         
         result = {
+            'language': language,
             'name': result_data.get('name', ''),
             'rating': rating,
             'num_reviews': num_reviews,
@@ -3698,10 +3683,12 @@ def fetch_hotel_details(place_id, api_key):
         st.error(f"상세 정보 처리 중 오류: {e}")
         return None
 
-def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
+def analyze_hotel_reviews(hotel_name, rating, reviews, api_key, language="Korean"):
     """
     Analyze hotel reviews using Gemini with a specific 'Cold Inspector' persona.
+    (Supports English and Korean)
     """
+    is_english = (language == "English")
     try:
         # 1. Prepare Review Text
         reviews_text = ""
@@ -3714,52 +3701,47 @@ def analyze_hotel_reviews(hotel_name, rating, reviews, api_key):
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
 
+        if is_english:
+            lang_instruction = "IMPORTANT: ALL JSON OUTPUT VALUES MUST BE IN ENGLISH."
+            persona = "You are a 'Cold Hotel Inspector'. Provide a blunt, factual analysis of the hotel based on facts and data, avoiding marketing fluff."
+            cons_instruction = "List only real issues like noise, dirt, bad breakfast, far location. If none, write: 'No significant drawbacks found. (Overall excellent evaluation)'"
+        else:
+            lang_instruction = "중요: 모든 JSON 출력값은 반드시 한국어로 작성하세요."
+            persona = "너는 '냉철한 호텔 검증가'야. 사용자가 이 호텔을 **'실제로 예약할지 말지'** 결정할 수 있도록, 광고 멘트는 빼고 오직 **팩트와 실제 후기**에 기반해서 분석해줘."
+            cons_instruction = "명확하게 지적된 부정적 키워드가 있을 때만 적어. 단점이 하나도 없다면: '특별한 단점이 발견되지 않았습니다. (전반적으로 우수한 평가)'라고 적어."
+
         prompt = f"""
-        너는 '냉철한 호텔 검증가'야. 사용자가 이 호텔을 **"실제로 예약할지 말지"** 결정할 수 있도록, 광고 멘트는 빼고 오직 **팩트와 실제 후기**에 기반해서 분석해줘.
+        {persona}
+        {lang_instruction}
 
-        **[분석 대상]**
-        * 호텔명: {hotel_name} (평점: {rating})
-        * 구글 맵 최신 리뷰 데이터: {reviews_text}
-        * **추가 지식:** 위 리뷰 외에도, 네가 이미 학습해서 알고 있는 이 호텔의 특징(위치, 브랜드 평판, 수영장, 조식 스타일 등)을 총동원해.
+        **[Information]**
+        * Hotel: {hotel_name} (Rating: {rating})
+        * Recent Reviews: {reviews_text}
+        * **Augment:** Use your internal knowledge about {hotel_name}'s location, brand, breakfast, and pool.
 
-        **[단점(Cons) 작성 절대 규칙 - 위반 시 오답 처리]**
-        1. 🔇 **'없음' 중계 금지:** "소음 관련 언급 없음", "수압 정보 부족", "조식 불만 없음" 같이 **데이터가 없다는 사실을 적지 마.** 사용자는 '진짜 문제점'만 궁금해해.
-        2. 🎯 **오직 '존재하는 불만'만:** 실제 리뷰나 데이터에서 **"시끄럽다", "더럽다", "맛없다", "멀다"** 처럼 명확하게 지적된 부정적 키워드가 있을 때만 적어.
-        3. 🛡️ **빈 칸 처리:** 만약 위 기준으로 분석했을 때 **명확한 단점이 하나도 없다면**, 억지로 만들어내지 말고 딱 한 줄만 적어:
-           👉 "특별한 단점이 발견되지 않았습니다. (전반적으로 우수한 평가)"
-        4. **금지 예시:** "위치 관련 정보 부족" (X), "한국인 입맛 확인 필요" (X)
+        **[Rules for Cons]**
+        1. Don't say 'No information about X'.
+        2. {cons_instruction}
 
-        **[비추천(Not Recommended) 작성 가이드 - 기계적 멘트 금지]**
-        1. 🚫 **금지 표현:** "단점에 예민한 사람", "완벽함을 추구하는 사람", "불편함을 싫어하는 사람" 같은 뻔한 말은 쓰지 마.
-        2. ✅ **구체적 조건 명시:** 비추천 대상은 반드시 **가격, 소음, 위치, 감성** 등 구체적 이유와 연결돼야 해.
-           - (소음) 👉 "잠귀가 밝거나 조용한 휴식을 최우선으로 하는 여행객"
-           - (위치) 👉 "지하철역까지 도보 이동을 선호하는 뚜벅이 여행객"
-           - (청결) 👉 "위생 상태에 민감하거나 아이와 함께하는 가족 여행객"
-        3. **단점이 없을 때:** 억지로 단점을 찾지 말고 **'가격'**이나 **'여행 목적'**을 언급해.
-           - (비싼 호텔) 👉 "가성비를 중요하게 생각하는 알뜰 여행객"
-           - (파티 호텔) 👉 "조용한 힐링을 원하는 휴양 목적 여행객"
+        **[Not Recommended Guide]**
+        Must be specific to Price, Noise, Location, or Mood. (e.g., 'Budget travelers seeking value' or 'Guests who prefer walking to BTS')
 
-        **[출력 포맷 (JSON)]**
-        응답은 반드시 아래 JSON 형식을 지켜줘.
-
+        **[Output Format (JSON)]**
         {{
-            "name_eng": "Trip.com 등 OTA에서 사용하는 호텔의 '정식 영문 풀네임' (예: Centara Grand at CentralWorld)",
-            "trip_keyword": "트립닷컴 검색용 '한국어' 핵심 키워드 (도시/국가명 제거, 브랜드+지점명만 남김. 예: 아마리 워터게이트)",
-            "price_level": "💰 or 💰💰 or 💰💰💰 or 💰💰💰💰 (1~4단계, 저렴/보통/비쌈/초호화)",
-            "price_range_text": "한국 원화 기준 예상 1박 요금 (예: 약 120,000원 ~ 180,000원, 시즌 변동 가능)",
-            "one_line_verdict": "한 줄 결론 (예: 위치는 깡패지만 귀마개 필수인 가성비 호텔)",
-            "recommendation_target": "추천: 긍정적인 서비스 경험을 중시하는 여행객, 비추천: 호텔의 성격(가격·분위기·위치)과 반대되는 여행자",
-            "location_analysis": "위치 및 동선 (역과의 거리, 주변 편의점/마사지샵, 치안, 도보 난이도)",
-            "room_condition": "객실 디테일 (청결도, 침구, 습기/냄새, 소음, 벌레, 뷰)",
-            "service_breakfast": "서비스 및 조식 (직원 친절도, 조식 메뉴 구성 및 맛, 한국인 입맛 적합도)",
-            "pool_facilities": "수영장 및 부대시설 (수영장 크기/수질/그늘 여부, 헬스장 등)",
-            "pros": ["장점1 (구체적 근거)", "장점2", "장점3", "장점4", "장점5"],
-            "cons": ["단점1 (치명적인 부분)", "단점2", "단점3", "단점4", "단점5"],
+            "name_eng": "Official English name (e.g. Centara Grand at CentralWorld)",
+            "trip_keyword": "Korean keyword for Trip.com search (city omitted, e.g. 아마리 워텔게이트)",
+            "price_level": "💰 step (1~4)",
+            "price_range_text": "Price range in KRW (e.g. 약 120,000원 ~ 180,000원)",
+            "one_line_verdict": "string",
+            "recommendation_target": "string",
+            "location_analysis": "string",
+            "room_condition": "string",
+            "service_breakfast": "string",
+            "pool_facilities": "string",
+            "pros": ["string", "string", "string"],
+            "cons": ["string", "string", "string"],
             "summary_score": {{
-                "cleanliness": 0,  // 5점 만점 (정수)
-                "location": 0,
-                "comfort": 0,
-                "value": 0
+                "cleanliness": 0, "location": 0, "comfort": 0, "value": 0
             }}
         }}
         """
