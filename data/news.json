@@ -11360,14 +11360,9 @@
       "summary": "- 인도 관광객이 태국 공항에서 살아있는 원숭이를 밀수하려다 적발되어 구금되었습니다.\n- 해당 관광객은 동물 밀수 혐의로 조사를 받고 있습니다.\n- 태국 당국은 밀수 시도에 대한 추가 조사를 진행할 예정입니다.",
       "full_translated": "인도 관광객이 태국 공항에서 살아있는 원숭이를 밀수하려다 구금되었습니다. MSN",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "동물 밀수는 범죄 행위이며, 공항 보안과 관련된 문제이므로 여행객에게 인지 필요.  관련 법규 위반에 대한 경각심을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "태국 공항",
-        "price": null,
-        "location_google_map_query": "태국 공항"
-      },
+      "event_info": "{'date': None, 'location': '태국 공항', 'price': None, 'location_google_map_query': '태국 공항'}",
       "references": [
         {
           "title": "Indian tourist detained in Thailand airport for trying to smuggle live monkeys - MSN",
@@ -11376,21 +11371,19 @@
         }
       ],
       "collected_at": "23:19",
-      "date": "2026-02-14"
+      "image_url": "",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHdKXzJ6dUhJUzE5WG5tR2NSUVVMWXVNVUNnMmdzQWlQd0xER1MzcWhKN3lMLTc2Vks3Qi10NmNiN0Y2ZUhvS1l0Tk1UY3VfZFdMLWRvaUNtbDg2bHhJWEFqVFRMT0tZS0cteXplU0xPdGQzYU5zTVlLcld5N2huQWRQRmdXcU4tVWFrb2IzSDMxZ09vZ2FWQXkzUE01ZHhDWlV4ZWVLQmxjUUtfV1A3VGhNMjFtUnlmdGJRX3lVdC1vN08wR2c?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 해변 난투극: 관광객과 트랜스젠더 여성 간 충돌",
       "summary": "- 파타야 해변에서 관광객과 반짝이 의상을 입은 트랜스젠더 여성들 사이에 난투극 발생.\n- 정확한 원인은 아직 밝혀지지 않았으며, 경찰 조사 진행 중.\n- 관광객 안전에 대한 우려 증가, 해당 지역 방문 시 주의 요망.",
       "full_translated": "파타야 해변에서 관광객과 반짝이 바지와 하이힐을 신은 태국 트랜스젠더 여성들 사이에 대규모 난투극이 벌어졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변에서 발생한 난투극으로 관광객 안전에 대한 우려를 야기하며, 잠재적 위험을 알리는 것이 중요하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Tourists in mass street brawl with Thai ladyboys in glittery pants and high heels - MSN",
@@ -11401,21 +11394,18 @@
       ],
       "collected_at": "23:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVGFKSENicTBUOXNzLUphcHI3ZWxVNXNSQWtSOEp5QzRFRzFwNmtwalJEejI4cmhnU0daeE1tMks0S1RzRklrZEMzTUhrZkRFWGJSel8teXhjN2hqc19ZZE5oQW1xRnBuWjFRV1JJWHp4bU56ZnZfNW8waFE5U0Frb2NmV3h6VzFCMHJIQVVjUzZ3NlRKR3lVRV94Z0M4OWZJb05HWTNQdGtNSVFmYWpsNDNEWWhiTG13YWdOa2NIVWNxTDJ5VVJjUFFIcw?oc=5",
+      "source": ""
     },
     {
       "title": "촌부리 카오 치 찬 축제에서 태국의 풍부한 문화적 화려함을 만나보세요",
       "summary": "- 촌부리에서 열리는 카오 치 찬 축제는 태국의 전통, 예술, 영성을 탐험할 수 있는 기회입니다.\n- 축제는 태국의 풍부한 문화적 화려함을 보여주는 행사입니다.\n- 여행객들은 이 축제를 통해 태국의 다양한 면모를 경험할 수 있습니다.",
       "full_translated": "촌부리에서 열리는 카오 치 찬 축제에서 태국의 풍부한 문화적 화려함을 만나보세요. 이 축제는 전통, 예술, 영성으로의 여정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 근처의 새로운 축제 관련 정보로, 여행객들에게 흥미로운 지역 행사 정보 제공. 기존 정보와 유사하나, 새로운 축제 개장 소식을 알림.",
-      "event_info": {
-        "date": null,
-        "location": "카오 치 찬, 촌부리",
-        "price": null,
-        "location_google_map_query": "카오 치 찬, 촌부리"
-      },
+      "event_info": "{'date': None, 'location': '카오 치 찬, 촌부리', 'price': None, 'location_google_map_query': '카오 치 찬, 촌부리'}",
       "references": [
         {
           "title": "Unveil the Rich Cultural Splendor of Thailand at the Spectacular Khao Chi Chan Festival in Chonburi With A Journey into Tradition, Art, and Spirituality - Travel And Tour World",
@@ -11424,21 +11414,19 @@
         }
       ],
       "collected_at": "23:19",
-      "date": "2026-02-14"
+      "image_url": "",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOXzN3M3hDajdKOWJUaFZ3LTBiOXlkRW1wdEZ6UWdnX0l5MlBIQVNHQnhuaDlTQm02VUE4bkVlbExtWFN1S01BdDhnSmd6NkFIZ0xsSkdaRmtqanFpbW0zeUExdS1RX3NKWWVWMWp3QVdZS3RDQS1pTk1DS05DYlBudlE3NER5d1BSOURlSjdaelM2eVdmbGNYVldwYks0OUloVzJRS29EVU1qNV81ZkFYZndMaE5FdXRLZEZ5TFcxdVhONjhONFJjMXd0QW8xbUtiaEZPVVdJb0FoWmhmbXFDWXozeDhscC1LMzNkZ252eWN3aWNhcTdkZlN5M1hUQjlGeVVNcElHU2lBNU54ejN4a2wyQnItU1ZRZTlreXlrWldaZXFiWUE?oc=5",
+      "source": ""
     },
     {
       "title": "뜨랑 러브 페스티벌 2026, 수중 결혼식과 문화 행사로 돌아온다",
       "summary": "- 뜨랑 러브 페스티벌 2026이 수중 결혼식과 문화 행사로 다시 개최됩니다.\n- 이 행사는 뜨랑의 아름다운 해변과 해양 생태계를 홍보합니다.\n- 축제는 지역 경제 활성화에 기여할 것으로 예상됩니다.",
       "full_translated": "뜨랑 러브 페스티벌 2026이 상징적인 수중 결혼식과 문화 행사로 돌아옵니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "뜨랑에서 열리는 축제 정보로, 여행객들에게 새로운 경험을 제공할 수 있다. 2026년에 개최되므로 미리 정보를 제공.",
-      "event_info": {
-        "date": "2026",
-        "location": "뜨랑",
-        "price": "미정",
-        "location_google_map_query": "뜨랑"
-      },
+      "event_info": "{'date': '2026', 'location': '뜨랑', 'price': '미정', 'location_google_map_query': '뜨랑'}",
       "references": [
         {
           "title": "Trang Love Festival 2026 returns with iconic underwater weddings and cultural celebrations - Pattaya Mail",
@@ -11449,6 +11437,33 @@
       ],
       "collected_at": "23:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUVVlcTJoSVl5V1F4T2ZnNXFKa2VxVFVnMnpzelhIdHo3SjRKSGhIZC1kcFd1UVV5MjJFTEhNbHdkeHUxTWF6aWRIMU5QZEJMbkxCRmJEU0JCd0FBZnl5Vk9ENUw0VlVpUUZXclNzMkx0UEZDcm9KeXByUWU3SE1MT1pUVkUyY0JFOE5JZC1kN1V3UmVCRmNqeVYzVXJlSk5nYzV4VTZRWW5xT3poa0F1bElHd0RFaWViV1JVbHF6bjN2b3AyRmx6UVFQUm1NVUYzV1VOWA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야 경찰, 발렌타인 데이에 절도 및 마약 용의자에게 장미꽃 전달하며 새 출발 촉구",
+      "summary": "- 파타야 경찰이 절도 및 마약 혐의로 체포된 여성에게 발렌타인 데이를 맞아 장미꽃을 전달하며 갱생의 기회를 제공함.\n- 경찰은 피해자의 신고와 CCTV 증거를 바탕으로 용의자를 추적하여 방람웅 지역의 한 방에서 체포함.\n- 용의자는 절도 및 마약류 소비 혐의로 기소되었으며, 경찰은 그녀에게 자숙하고 새로운 시작을 할 것을 권고함.",
+      "full_translated": "파타야 경찰은 방라뭉 경찰서의 사라웃 누차나트 서장의 감독 하에 이번 작전을 수행했습니다. 그는 용유트 완 누아 수사 부국장, 웃티퐁 카사 수사관, 낫탄 타니 잔타웡 수사 부관 및 수사팀과 함께 피해자가 불만을 제기하고 CCTV 영상을 증거로 제공한 후 용의자를 추적하도록 지시했습니다. 지속적인 수사 노력 끝에 당국은 파타야 방라뭉 지역 나클루아 지역의 임대 방에서 시사켓 지방 출신의 아차야 동댕(36세) 씨를 체포했습니다. 그녀는 다음 혐의로 기소되었습니다.\n1. 고용주로부터의 절도\n2. 1급 마약(메스암페타민)의 불법 소비\n발렌타인 데이의 낭만적인 분위기 속에서 경찰관들은 용의자에게 빨간 장미를 건넸습니다. 그들은 자기 성찰을 고취하고 재활, 개혁 및 합법적인 새로운 시작을 위한 기회를 잡도록 동기를 부여하기를 희망하면서 조언과 주의의 말을 전했습니다. 체포 후 여성은 수사관의 추가 처리 및 공식적인 법적 절차를 위해 방라뭉 경찰서로 이송되었습니다. 경찰은 범죄 단속에 대한 지속적인 의지를 표명하는 동시에 길을 잃은 사람들이 사회에 지속적으로 재통합될 수 있는 기회를 제공하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 발생한 범죄 소식이지만, 여행객에게 직접적인 위협은 아니므로 '보통'으로 분류. 다만, 경찰의 대응 방식이 특이하여 흥미로운 로컬 뉴스로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Na Kluea area of Banglamung District, Pattaya",
+        "price": null,
+        "location_google_map_query": "Na Kluea area of Banglamung District, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Police in Pattaya Offer Rose to Theft and Drug Suspect Arrested on Valentines Day, Urging Fresh Start",
+          "url": "https://thepattayanews.com/2026/02/14/police-in-pattaya-offer-rose-to-theft-and-drug-suspect-arrested-on-valentines-day-urging-fresh-start/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_2332377787438503827731578.jpg?v=1771086809"
+        }
+      ],
+      "collected_at": "23:54",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260214_2332377787438503827731578.jpg?v=1771086809",
       "date": "2026-02-14"
     }
   ]
