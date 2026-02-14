@@ -10635,14 +10635,9 @@
       "summary": "- 푸껫에서 도로 안전 개선 및 외국인 방문객 보호를 위해 무자격 운전자 및 불법 오토바이 임대에 대한 대대적인 단속을 시작했습니다.\n- 이번 단속은 푸껫의 교통 안전을 강화하고 관광객들에게 더 안전한 환경을 제공하기 위한 조치입니다.\n- 관련 당국은 불법 행위에 대한 감시를 강화하고 엄격한 처벌을 통해 유사 사례를 예방할 계획입니다.",
       "full_translated": "푸껫은 도로 안전을 개선하고 국제 방문객을 보호하기 위해 무자격 라이더와 불법 오토바이 렌탈에 대한 대대적인 단속을 시작했습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "푸껫을 방문하는 여행객들의 안전과 직접적인 관련이 있는 뉴스이며, 불법 오토바이 임대와 무자격 운전은 사고 위험을 높일 수 있으므로 중요하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫",
-        "price": null,
-        "location_google_map_query": "푸껫"
-      },
+      "event_info": "{'date': None, 'location': '푸껫', 'price': None, 'location_google_map_query': '푸껫'}",
       "references": [
         {
           "title": "Phuket Launches Major Crackdown on Unqualified Riders and Illegal Motorcycle Rentals Taking Strong Steps to Improve Road Safety and Protect International Visitors - Travel And Tour World",
@@ -10653,21 +10648,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOazU4WUUxZzZNM3NZT19NS2lFOGltZnFmemZ2VUJHUjl6blBfNUV0dWowV1h0eEtieFNxeWZnMGUwX3hGaWViY0NTdkRtMXZHVjBCQV9EV2FXelc5akJTU3dTWjRpeWxGNldmRDZTUUtYMU9WRFNlUmZobkY2d1RVTEVBeTRubmNUYmFjQkRjbXZMRjM1RnF5NUVMM0NHMEdKeGhzTEg2ZVdrZlRUUU01RnRhLXc0X2JFSWNfM2lhMWRRMENCd2lSTFNhSnpja3NVeDR6bDZwbkMyMENXRUxpRHk1bE5oZWMtS1U2VG1WNzVMU2poRkxhYUhWQXpycDVTYUwtWXR2anJvaFVoU0ZLQ2lDZlBUb2pvQmpfN2N0RjNhWGxkVzdvMHFnWWgtZmVWVTBlMUdn?oc=5",
+      "source": ""
     },
     {
       "title": "바베이도스, 인도 여권 소지자 대상 비자 면제 시행...태국, 자메이카 등과 함께 관광객 급증 기대",
       "summary": "- 바베이도스가 인도 여권 소지자에 대한 비자 면제를 발표하며 75계단 상승.\n- 태국, 자메이카, 도미니카 등 여러 국가와 함께 인도 관광객 유치 경쟁에 합류.\n- 이번 조치로 바베이도스는 관광 산업 성장을 기대.",
       "full_translated": "바베이도스가 자메이카, 태국, 도미니카, 중국, 말레이시아, 그레나다 등과 함께 인도 여권 소지자에 대한 비자 면제를 시행하며 75계단 상승했습니다. 이는 폭발적인 관광 급증을 촉발할 것으로 예상됩니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "인도 여권 소지자에게는 중요한 정보이며, 다른 국가의 정책에도 영향을 줄 수 있어 정보 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Barbados Joins Jamaica, Thailand, Dominica, China, Malaysia, Grenada, And More In A Monumental Seventy-five Rank Leap, Unveiling Visa-Free Travel For Indian Passport Holders And Igniting An Explosive Tourism Surge - Travel And Tour World",
@@ -10678,21 +10670,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQNTVYVzZvR0g3MVJJTGk0VHd0STdWX3JoRWc1VnBCZTFHWGVwNE1VaU1JVmlZTzM1d2ZnblU2V1lBSDdSLWVwRzlvMTdKLUxzbW9fMUJQc3ZJd0FLNkJHWWFGMUxsTHZUMzBUZnZpanRWZnJpSmhSRGktdjJtdjZzeFMzYUdobnlvWXExOWtnRHVnUjJDZjlKa3BsQjViQTBENllNcmdGTnFuczFzS2lqN1ZxZ2llel9idkE2OVUzX1hTOGtKb1VBVmsxZ0JDNG5PMHA0Uk95RkREV0xnZzc2U3NqMk5nM1Excjc5ckRiR1h6eHJKc2ZNQVp2Q2p1d3dnSnZkOVJ4N2puamdYNFRtN2NQdEZZa2RzQ3hEVmk3WEZ4MnFCd18xTElhbUFFSC0tVXFYcUJjbDZCbkQwbzVFdjRNRTMya09xMHNjaWVxNVdWb01UcHQ4MUVFTkVjUQ?oc=5",
+      "source": ""
     },
     {
       "title": "왓 사켓, “쭟찐마하몽콘” 행사 개최: พระอัฏฐารส와 루앙포모야에게 경배",
       "summary": "- 왓 사켓 사원과 지역 사회가 협력하여 중국 설 축제 개최\n- 2월 15일부터 19일까지 진행, 프라 앗타롯와 루앙 포 모 야에게 경배하는 행사\n- 다양한 문화 행사와 불교 의식 진행 예정",
       "full_translated": "왓 사켓 사원, 롯마이 왓 사켓 지역 사회, 탐마빤야람 사원과 협력하여 중국 설 축제 “뜨룻찐마하몽콘”을 개최합니다. 이 기간 동안 프라앗타롯와 프라파이쌋사야쿠루 (루엉포모야)에게 경배하는 행사가 진행됩니다.\n\n2월 15일부터 19일까지 진행되는 이 행사 기간 동안 왓 사켓 사원의 프라위한프라앗타롯와 황금산이 오후 9시까지 개방되며, 중국 설날 당일인 16일에는 프라위한프라앗타롯가 자정까지 개방됩니다. 16일 오후 11시부터 12시 59분까지 탐마빤야람 사원에서는 말의 해의 신, 재물의 신 (차이씽에이야), 수호신 (타이쑤웨에이야)을 맞이하는 의식이 진행됩니다.\n\n또한 축제 기간 동안 프라위한프라앗타롯 광장에서는 다양한 활동이 진행됩니다. 오전 10시에는 콩훅 의식, 오후 1시에는 ‘사타야이몬뜨라탐키타마하얀’ 의식, 오후 4시에는 ‘사타야이몬뜨라탐키타마하얀’ 의식이 진행됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국 설 축제 정보는 여행객에게 유용할 수 있으며, 특히 사원 방문을 계획하는 사람들에게는 더욱 그렇다. 행사 일정 및 관련 정보 제공.",
-      "event_info": {
-        "date": "2024-02-15~2024-02-19",
-        "location": "วัดสระเกศ ราชวรมหาวิหาร (왓 사켓)",
-        "price": "무료",
-        "location_google_map_query": "Wat Saket, Bangkok"
-      },
+      "event_info": "{'date': '2024-02-15~2024-02-19', 'location': 'วัดสระเกศ ราชวรมหาวิหาร (왓 사켓)', 'price': '무료', 'location_google_map_query': 'Wat Saket, Bangkok'}",
       "references": [
         {
           "title": "วัดสระเกศ จัดงาน “ตรุษจีนมหามงคล” สักการะขอพร “พระอัฏฐารส-หลวงพ่อหมอยา”",
@@ -10703,21 +10692,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BgxFRDiOrnif.jpg",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://www.thairath.co.th/news/local/bangkok/2914241",
+      "source": ""
     },
     {
       "title": "모잠비크, 태국 포함 주요 여행지들과 함께 디지털 E-비자 시스템으로 관광 활성화 추진",
       "summary": "- 모잠비크가 태국, 남아프리카공화국 등과 함께 디지털 E-비자 시스템을 도입하여 관광 산업 활성화를 추진합니다.\n- 이는 여행 경험을 간소화하고 혁신하기 위한 노력의 일환입니다.\n- 디지털 비자 시스템은 관광객 유치에 긍정적인 영향을 미칠 것으로 기대됩니다.",
       "full_translated": "모잠비크가 태국, 남아프리카공화국, 우즈베키스탄, 러시아, 칠레 및 기타 주요 목적지와 합류하여 디지털 E-비자 시스템이 여행 경험을 간소화하고 변화시키면서 관광을 강화하기 위한 대담한 추진을 하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국의 E-비자 시스템 관련 내용이 포함되어 있어 여행객에게 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Mozambique Joins Thailand, South Africa, Uzbekistan, Russia, Chile And Other Leading Destinations In A Bold Push To Enhance Tourism As Digital E-Visa Systems Simplify And Transform Travel Experiences - Travel And Tour World",
@@ -10728,21 +10714,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPVHpvMEtYMEV5dExnbDZiRnZIb1dQY05DVWFLbEtReWxtN3ZEMjl6UVZfdnVzd1ZJRFhkZFYxd1M2NUJueXROSUpEa1RuV1hGWTVjNUt3aFlyXzJyZEVBamN2ZlpSbEJ1dGwzTFl4Vi12RGxyMEEyeHZubENEU3E4dHpNQjZNRElMUzZsd0lDay15Z1I2ZXluUVhPc0pGNG9JU1UxWDFlRG5tY2VDRVg1RXdqdWlLRi1OTWxvbmZPcC1ETnpwdlJLa0ZTVlJSMUZrSm5fckJ1ZEdkQ0Npd1BDazhWM1NranlnR1k2d0xleHFXeTNMUlBWSEdRN3VIeVlKeXdvUWZONjdUaUJ5N0dobTFScVVYcjdyQ1FtV2Q1eFc5ckQ5ZFpfNjVCdXo1T011NEpJUEN5UDh2SG5EZ0NXMldEWm9ydWU3b2s5a19tMlpQZ25TdzgwUjg0SFZYM3lQQWc?oc=5",
+      "source": ""
     },
     {
       "title": "카존릿 콴몽콜, 뉴델리에서 태국-인도 관광 관계 강화 위한 리더십 역할 수행",
       "summary": "- 카존릿 콴몽콜이 뉴델리에서 태국과 인도의 관광 관계를 강화하기 위한 리더십 역할을 맡았습니다.\n- 이번 임무는 방콕, 푸껫, 치앙마이, 끄라비 등 태국 주요 관광지로의 여행 기회를 증진하는 데 중점을 둡니다.\n- 인도 관광객 유치를 위한 새로운 협력과 전략이 기대됩니다.",
       "full_translated": "카존릿 콴몽콜, 뉴델리에서 태국-인도 관광 관계 강화 위한 리더십 역할 수행: 방콕, 푸껫, 치앙마이, 끄라비 여행 기회에 대한 주요 인사이트 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "인도-태국 관광 관계 강화는 장기적으로 관광객 유치에 긍정적인 영향을 미치므로 중간 점수 부여. 새로운 리더십의 역할에 대한 정보는 업데이트로 간주.",
-      "event_info": {
-        "date": null,
-        "location": "뉴델리",
-        "price": null,
-        "location_google_map_query": "뉴델리"
-      },
+      "event_info": "{'date': None, 'location': '뉴델리', 'price': None, 'location_google_map_query': '뉴델리'}",
       "references": [
         {
           "title": "Khajornrit Khwanmongkol Assumes Leadership Role in New Delhi to Strengthen Thailand’s Tourism Relations with India: Key Insights into Future Travel Opportunities to Bangkok, Phuket, Chiang Mai, and Krabi - Travel And Tour World",
@@ -10753,6 +10736,133 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQVXBwLVlHck41M2Ryc0ZkX09WcVZxeVRXancyMkd2bFk3ekdMVXdyT09PUW9rc2R0TTE2SUowN0ltdE8zNENRa0FvbFI5WmNMVkZ3ZTZ5SEdLYnJlMVBKZnVtNE96TjV1eVhlOFktQ1VTam5nX2xOREVlVV9DNkI0Tm4tNjhiRzI1UmU3TFVEaWlDczZoR0lZRXJnUkJvWFhuaDVaMHp6ZDRJSWg4THhYb2NxTGJKeUZ5Mzd1WjcyUlpoMXUzS1ZBYnduaU5sQkpldzZrVHRUS0tXLWlnSUV2ZWQtd3VWVWJUaGtoNTJNMV9ZQ1dNd05Dczh0R3FlaE4zamtacmgwNVRhZEdHNUVTQk9qM0ZmcDl2UVdzR3VkXzlGNUtCS0ktcXZsZHlhYTcyRXBBXzJhMXlldmYtQ2xPTmp6Zk4wZXJhREd5aHlVQ0I0XzBKeFNIOA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 상점에서 22세 영국인 관광객 흉기 습격",
+      "summary": "- 태국에서 22세 영국인 관광객이 상점에서 물을 사던 중 흉기에 찔리는 사건 발생.\n- 충격적인 사건에 쇼핑객들은 공포에 질려 도망쳤습니다.\n- 현재 경찰은 용의자를 추적 중이며, 관광객의 상태는 아직 알려지지 않았습니다.",
+      "full_translated": "태국에서 22세 영국인 관광객이 상점에서 물을 사던 중 흉기에 찔리는 사건이 발생했습니다. 쇼핑객들은 공포에 질려 도망쳤으며, 경찰은 용의자를 추적 중입니다. 피해자의 상태는 아직 알려지지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "여행객 안전에 직접적인 위협이 되는 심각한 범죄 사건이므로 높은 점수를 부여합니다. 특히 외국인 대상 범죄는 여행 심리에 큰 영향을 미칩니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 내 상점 (구체적인 위치는 미상)",
+        "price": null,
+        "location_google_map_query": "태국 상점"
+      },
+      "references": [
+        {
+          "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYld2TGVaT21Fc0FjanVkNUZpa3VjZG9wX3Z1YWVVcnhmWVVDTTNTVUd5OThlWkpseGNqdE9BUVRqR2wwaU9LZE9nUTU3SXB1YzA3RjJuSUE2V1pwQ05BV0JvNXJMdDEwaHdZLUdDMDZFTlFXWVFZclV5RGd1Wlo0UHNmNVZpRVprUFE?oc=5",
+          "source": "The Sun",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "싱가포르, 비자 수수료 인상 및 새로운 입국 규정으로 인해 태국, 필리핀, 베트남, 브루나이를 앞지르다",
+      "summary": "- 싱가포르가 비자 수수료 인상 및 새로운 입국 규정 시행으로 주변국 관광 예산에 영향을 미칠 것으로 예상됨.\n- 2026년부터 시행될 변경 사항에 대한 여행객들의 주의가 필요함.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "Travel And Tour World에 따르면, 싱가포르가 비자 수수료 인상과 새로운 입국 규정으로 인해 태국, 필리핀, 베트남, 브루나이를 앞지르고 있습니다. 2026년부터 시행될 새로운 규정은 여행객들의 예산과 여행 계획에 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 및 입국 규정 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 2026년부터 시행 예정이지만, 미리 정보를 제공하여 여행 계획에 차질이 없도록 하는 것이 필요함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Singapore Beats Thailand, Philippines, Vietnam and Brunei with Booming Visa Fees Take Over Tourists Budget and New Immigration Rules Putting Travellers in Stress in 2026: What You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQNW9ST21pWHFsREJJdmJ6YkRaZUdCU09CSTZVbHU0aHctd1RNSzJReDRsYTl2RWxZS3JsSXJSUzJaRFVsbWZwd21BOGlFd1pWN3RnRWN5RmFpVkU2SVJ2SUNLZmtUbGlCSm8wdnBXVFRVWV9aSmdUMjROWXJKY1JIS1pHb1VNWG1oV1A2cHZiS1pSQ2FmNjBGcXBBZjRtNmZXYUR6Ym1EQlF5UmdQV2x5cHVfOGJvdi1EWnc5dEY0eXFuVWIzWDNSS2ZOYUxfaEIwMjNDWTM5eTRIUy1IX1NVTXYyQ3hNLUtlX2xKWlhSU1hWdk10OTdaWEo5aE41NVB4MDNsejFsOWVNOGZSMVJwZW16QktSalgtWWpzWmNFSjVFMzNaRmVZLTVJSkkwMk5pYVZhcEpUSG9EenRKX0J2QWRRTnpTQ29FbXlrVk9jMUktOUxDZWFpQjFn?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "미라클 라운지, 핌 피타-코이 아랏차폰 무단 촬영 사과 및 직원 징계 발표",
+      "summary": "- 미라클 라운지, 핌 피타와 코이 아랏차폰의 무단 촬영 사건에 대해 공식 사과 성명 발표.\n- 관련 직원에 대한 엄중한 징계 조치 시행 결정.\n- 고객의 사생활 보호를 최우선으로 하며, 재발 방지를 위해 내부 규정 강화할 것을 약속.",
+      "full_translated": "미라클 라운지가 핌 피타와 코이 아랏차폰의 무단 촬영 사건에 대해 공식 사과 성명을 발표하고 관련 직원에 대한 엄중한 징계 조치를 시행할 것이라고 밝혔습니다. 이번 사건은 고객의 사생활을 침해한 심각한 문제로, 회사 측은 깊이 반성하고 있으며, 앞으로 이러한 일이 재발하지 않도록 내부 규정을 강화하고 직원 교육을 철저히 할 것을 약속했습니다. 미라클 라운지는 고객의 사생활 보호를 최우선으로 생각하며, 앞으로 더욱 신뢰할 수 있는 서비스를 제공하기 위해 최선을 다할 것이라고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "유명인이 연루된 사건이지만, 여행객 안전이나 편의에 직접적인 영향은 없음. 다만, 공공장소에서의 사생활 보호에 대한 인식을 환기시키는 계기가 될 수 있다는 점에서 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "미라클 라운지",
+        "price": null,
+        "location_google_map_query": "Miracle Lounge"
+      },
+      "references": [
+        {
+          "title": "“มิราเคิล เล้าจน์” ร่อนแถลงขออภัย “ทิม พิธา-ก้อย อรัชพร” สั่งลงโทษพนักงานแอบถ่าย",
+          "url": "https://www.thairath.co.th/news/society/2914253",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8t9Wkq9iVed.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8t9Wkq9iVed.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "프아타이당, 품차이타이당 주도 연립 정부 구성 지지 (갱신)",
+      "summary": "- 프아타이당의 총리 후보인 Yodchanan Wongsawat이 품차이타이당이 주도하는 연립 정부에 참여하기로 한 결정에 대해 지지자들에게 사과함.\n- 당내 협의 결과, 당원 대다수가 연립 정부에 참여해야 한다는 결론을 내렸다고 밝힘.\n- 그는 이번 결정이 정부를 이끌고 정책적 성과를 달성해 온 당으로서 어려운 결정이었다고 인정하며 지지자들의 이해를 구함.",
+      "full_translated": "프아타이당 총리 후보인 Yodchanan Wongsawat이 품차이타이당이 주도하는 연립 정부에 참여하기로 한 결정에 대해 불편함을 느끼는 지지자들에게 사과했습니다. 그는 토요일 자신의 페이스북 페이지에 글을 올려 프아타이가 나아가야 할 방향에 대해 당 지지자들과 대중이 나뉘어져 있음을 인정했습니다. 내부 심의, 협의 및 당원들의 의견을 고려한 결과, 당내 대다수는 프아타이가 연립 정부에 참여해야 한다는 결론을 내렸다고 밝혔습니다. Yodchanan 씨는 품차이타이에 대한 지지를 선언한 결정이 정부를 이끌고 널리 인정받는 정책적 성과를 달성해 온 당으로서는 어려운 결정이었다고 인정했습니다. 그는 \"이번 결정에 대해 불편함을 느끼는 모든 분들께 진심으로 사과드립니다. 모든 의견을 읽고 들었으며 모든 관점을 존중합니다.\"라고 말했습니다. 지난 주 동안 그는 다양한 그룹 및 당 팀과 논의에 참여했다고 밝혔습니다. 대부분은 세계적 및 국내적 맥락이 크게 변화했으며 이번 선거의 정치적 요인이 복잡하다는 데 동의했습니다. 2월 8일 투표에서 당의 실망스러운 성과를 되돌아보며 그는 정치적 관리와 다양한 형태의 자원 사용이 중요한 역할을 했다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 상황 변화에 대한 정보 제공. 여행 자체에 직접적인 영향은 적으나, 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Yodchanan defends difficult decision to join coalition",
+          "url": "https://www.bangkokpost.com/thailand/politics/3197354/yodchanan-defends-difficult-decision-to-join-coalition",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197354_700.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.bangkokpost.com/media/content/20260214/c1_3197354_700.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 선거관리위원회, 2월 15일까지 투표 불참 사유 신고 마감일 경고",
+      "summary": "- 태국 선거관리위원회는 투표 불참 사유 신고 마감일을 2월 15일로 재차 강조하며 미신고 시 권리 제한 가능성을 경고했습니다.\n- 2026년 2월 8일 총선 및 국민투표 불참자는 2월 15일까지 불참 사유를 신고해야 합니다.\n- 신고는 선관위 웹사이트, 관할 구청 방문, 우편 접수 등 3가지 방법으로 가능합니다.",
+      "full_translated": "태국 선거관리위원회는 투표 불참 사유 신고 마감일을 상기시키며, 미신고 시 권리 제한을 받을 수 있다고 경고했습니다. 2026년 2월 14일 17시, 선거관리위원회는 2026년 2월 8일 일요일 총선 및 국민투표에 불참한 유권자, 그리고 2026년 2월 1일 일요일에 사전투표를 신청하고 투표하지 않은 유권자들에게 2026년 2월 15일까지 불참 사유를 신고할 것을 촉구했습니다. 불참 사유 신고는 3가지 방법으로 가능합니다: 1. 선거관리위원회 웹사이트(www.ect.go.th) 또는 행정부 웹사이트, '탕 랏' 앱, Smart Vote 앱을 통해 온라인으로 신고하거나, '쨍 헤 깟 르왁 탕 쏘 쏘' 또는 '쨍 헤 깟 억 씨앙 쁘라차무티 (판 라봅 므트 흐 르 컴피우떠)'를 검색하여 신고할 수 있습니다. 2. 증빙 서류를 지참하여 직접 관할 구청에 제출합니다. 3. 증빙 서류와 함께 등기 우편으로 발송합니다. 유권자는 위임장을 작성하여 다른 사람이 대신 제출하도록 할 수도 있습니다. 불참 사유를 신고하지 않으면 총선 또는 국민투표일로부터 2년간 권리가 제한됩니다. 제한되는 권리는 2018년 총선거법 35조에 명시되어 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "투표 관련 정보는 여행객에게 직접적인 영향은 없으나, 태국 정치 상황에 대한 간접적인 이해를 도울 수 있습니다. 다만, 마감일 정보이므로 중요도는 낮다고 판단됩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. เตือน 15 ก.พ. วันสุดท้ายอย่าลืมแจ้งเหตุไม่ไปใช้สิทธิเลือกตั้ง - ออกเสียงประชามติ",
+          "url": "https://www.thairath.co.th/news/politic/2914257",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8aGpVOCx8gX.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7B8aGpVOCx8gX.jpg",
       "date": "2026-02-14"
     }
   ]
