@@ -11206,14 +11206,9 @@
       "summary": "- 홍콩 여행객들이 설 연휴에 선호하는 여행지로 베트남, 터키, 모로코, 이집트, 한국, 태국, 중국 등이 꼽혔습니다.\n- 이는 다양한 문화 체험과 이국적인 경험을 추구하는 홍콩 여행객들의 성향을 반영합니다.\n- 특히 태국은 꾸준히 인기 있는 여행지로, 다채로운 매력을 제공합니다.",
       "full_translated": "홍콩인들이 이국적인 탈출을 추구하면서 베트남, 터키, 모로코, 이집트, 한국, 태국, 중국 등이 설 연휴 인기 여행지로 합류했습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "홍콩 여행객들에게 인기 있는 여행지 정보를 제공하므로 여행 계획에 참고할 만함. 태국이 포함되어 있어 관련 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Vietnam Joins Turkey, Morocco, Egypt, South Korea, Thailand, Mainland China, and More as Top Lunar New Year Travel Destinations for Hong Kongers Seeking Exotic Escapes - Travel And Tour World",
@@ -11224,21 +11219,18 @@
       ],
       "collected_at": "22:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-14"
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPRkNZY3pwZzRDOVBvYzRwaDFGZDhlN0RUbG9YeWRiaUZEc1JCUXgxNWp2MUgyWUI1Wk5xd3RTdnJhTC1fUnhwck1yeXB0Ykl1aklXVjdOX2ttUHJFZlhYRHc2QnpaNlNkQkNRR1ZYSXdLdVZ5YkNmZmEzREliX1FuUGZfbWtLdW9Nc1B5a2xiN21aWE91SU5WZHpSb1dZc21EbUwycjgzNzhLbmNYUEpkdUdxOU1feTYyZTNQdTlSMG9JMXNraVJLeEdQdTFyODNUWUNqY240YV9JcGxwZ0phb05XUDUtU2dCZDJEa0F3dk52UTlXdHd3aWhocEl2WURUeEE1NzF4aUdvTGcySWpGbTdvNTF0OVVUUVBPOTRlLXpxZjNjZ2NBWkxvWnlPb0EyeU1KYQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 춘절 지출 5% 증가 전망",
       "summary": "- 태국의 춘절 기간 동안 지출이 5% 증가할 것으로 예상됨.\n- 이는 경제 활성화에 기여할 것으로 보임.\n- 자세한 내용은 MSN에서 확인 가능.",
       "full_translated": "태국의 춘절 지출이 5% 증가할 것으로 예상됩니다. MSN",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 경제 상황을 보여주는 지표로, 여행객의 소비 심리에 간접적인 영향을 줄 수 있다. 하지만 직접적인 연관성은 낮다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand's Lunar New Year spending projected to rise 5% - MSN",
@@ -11249,6 +11241,133 @@
       ],
       "collected_at": "22:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQdHg1WF9iZkpBNU5TbnhuU201Nzh5UHhTNFk2TDRIUjhZOXMyTXdrTjF3UkxjY3ltOTY2WGNkRnFvRDdvRXp0Zm9BdTNhZ1QyMUtxNE81REt1MHMyVl9ubXFoaGFZQ2dhVW9GME00ODBhblVOMTUxMUFFSjc0cGVOejRJb1NhdXhtLUJMQ2tMQWhXMkhreTlOV0Z0OTZmNU1wcU9ycloxOUY5VFFSSFM1V3FSUkpYenRXcTBCbzdicE1jWFNfYlVlTE9XaDBhLTh1SDRqWVJBNy14RF9td005anU1MkluY0x3VXktRXl6S1ZYZnlUcHZpWmRDQ1ZEOFhTQk9aUGtpZzM0c2lJdG5qZzlBdnJFVDIxd2VXOUFBcE1fcGZYdlMwcU1LQnpDYjBKYnhSbVhvZkpybFVPM1E?oc=5",
+      "source": ""
+    },
+    {
+      "title": "인도인 관광객, 태국 공항에서 멸종 위기 원숭이 밀수 시도",
+      "summary": "- 인도인 관광객이 수하물에 숨겨 멸종 위기 원숭이를 밀수하려다 태국 공항에서 적발됨.\n- 해당 관광객은 동물 보호 관련 법률 위반으로 기소될 예정.\n- 태국 당국은 야생 동물 밀매 근절을 위한 감시를 강화할 계획.",
+      "full_translated": "인도인 관광객이 태국 공항에서 멸종 위기에 처한 원숭이를 수하물에 숨겨 밀수하려다 적발되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물 밀수는 심각한 범죄이며, 공항 보안에 대한 우려를 야기한다. 여행객의 안전과 관련된 문제로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Indian tourist caught smuggling endangered monkeys hidden in luggage at Thailand airport - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxQZXYwS1lwNlBMOGo2aFRIbDRkMExiOHpKdm9HcW1FbGg4X2hjcnU5MTYwYVJLZEFaNEJuZDBqS015MDJLeDl4UDRGeklWY3VkeDFwUEZtMVRPd21JMi1ncWVuYzh5ZkFiWFBxTUNKd2NrdnhKd0tBLW1IUEdWdXgyVTVVNFdHMlg4bmNNNmhzZkRRc0ZoUzBTUzZETnJaOWRTMUdzbXh4R0kwR0NzWDlNZFQ0Mmh4YTc4ZnNoUkJieGVzNE4tR000SjhUTkxIc0lXR21tdF9OSDJ2aklrd3AyenBySW5Ha0QweS1WU0E3UnVoanNCWUs4dFl2WWctTG9pbkxaeUZtck1SMXo0LUo2VlJIaGlrRW90MUI4TmNXVGE5UlotenpLZTdVeW1OWGliYmdfa0ZqZkhwWTFUTWFpcXRyS2MtdXFNOXAtbWlJQTNjdngxQjgxa29mWUQyanRNUVAyZGtubkhnZmV4UzJWSVY4ZkVUdGt6QUNWRjJoN0ZSUGdiVFhnVEozbnkzaU1mU0xSdWZRZjM4SXU4aUJxV0MtcFdMVnIzbkdz?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "씨라차 왓 카오 마이댕 사원에서 2,000명 이상의 신도가 토지 문서 축복 행사 참석",
+      "summary": "- 2,000명이 넘는 신자들이 토지, 주택, 상가 등의 토지 문서에 대한 축복을 받기 위해 왓 카오 마이댕에 참석했습니다.\n- 부동산 가치는 10만 바트에서 1,500만 바트에 이르며, 참석자들은 저주 제거 및 빠른 판매를 기원했습니다.\n- 행사는 루앙 포 상가를 비롯한 승려들이 진행했으며, 주요 인사들도 참석했습니다.",
+      "full_translated": "씨라차 왓 카오 마이댕 사원에서 루앙 포 상가가 주도하는 토지 문서 축복 행사에 2,000명 이상의 신도가 참석했습니다.\n\n이번 행사에는 2,000명이 넘는 신자들이 참여하여 토지, 주택, 건물, 상가 등 2,000개가 넘는 토지 문서(차놋)를 가져와 축복을 받았습니다. 부동산 가치는 10만 바트에서 1,500만 바트까지 다양했습니다. 많은 참석자들이 부동산에서 저주나 부정적인 영향(앗탓 또는 나쁜 징조)을 제거하고 더 빠른 판매를 촉진하기 위해 의식을 찾았습니다. 행사 동안 루앙 포 상가는 프라 크루 팔라드 노판(프라 크루 비우라고도 함)과 동행하여 고인이 된 존경받는 승려 프라 크루 탐마킷 코윗 또는 루앙 포 용윳 탐마코살로의 동상에 경의를 표하기 위해 걸어서 경배했습니다. 이 동상은 의식 구역 앞 몬돕 정자에 안치되어 있습니다. 주요 참석자로는 중앙 수사국 부국장인 폰. 마즈. 겐. 자룬키아트 판케우(빅 타오)의 아내인 Mrs. 팟나콘라위 판케우와 태국 부적 및 예배 재단 회장인 Dr. 사모 응이우암(퐁 수판으로 널리 알려짐)이 있었습니다. 이 의식에는 왓 얀나와의 승려 5명이 카라니야 메타 수타를 포함한 불교 경전을 암송하며 축복을 내렸습니다. 이 의식에는 프라매 토라니(대지 여신)를 불러 저주와 악영향을 쫓아내고 문서를 신성하게 만드는 것이 포함되었습니다. 주요 의식이 끝난 후 참가자들은 축복받은 권리증을 받았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 문화 행사에 대한 정보 제공. 종교적인 행사에 관심 있는 여행객에게 흥미로운 정보가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "왓 카오 마이댕, 스리라차",
+        "price": "무료",
+        "location_google_map_query": "Wat Khao Mai Daeng, Sri Racha"
+      },
+      "references": [
+        {
+          "title": "Over 2,000 Devotees Attend Land Title Blessing Ceremony in Sri Racha at Wat Khao Mai Daeng Led by Luang Pho Sanga",
+          "url": "https://thepattayanews.com/2026/02/14/over-2000-devotees-attend-land-title-blessing-ceremony-in-sri-racha-at-wat-khao-mai-daeng-led-by-luang-pho-sanga/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710824142651861772015530604941.jpg?v=1771082461"
+        }
+      ],
+      "collected_at": "22:47",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17710824142651861772015530604941.jpg?v=1771082461",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "영국, 러시아가 독화살개구리 독으로 나발니 암살 주장",
+      "summary": "- 영국 정부는 러시아가 알렉세이 나발니를 독화살개구리 독으로 암살했다고 주장했습니다.\n- 나발니의 시신에서 채취한 샘플에서 '에피바티딘'이라는 독성 물질이 발견되었다고 합니다.\n- 영국은 러시아가 화학무기 금지 협약을 위반했다고 보고, 국제기구에 이 문제를 제기했습니다.",
+      "full_translated": "영국은 러시아가 알렉세이 나발니 전 러시아 야권 지도자를 독화살개구리 독으로 살해했다고 주장했습니다. 그는 북극 교도소에 수감 중 2029년 2월 14일에 사망했습니다.\n\n영국 외무·영연방·개발부(FCDO)는 나발니의 시신에서 채취한 샘플을 분석한 결과 '에피바티딘'이라는 독성 물질이 발견되었다고 밝혔습니다. 이베트 쿠퍼 외무부 장관은 뮌헨 안보 회의에서 \"러시아 정부만이 나발니가 러시아에 구금되어 있는 동안 이 치명적인 독극물을 사용할 수 있는 수단, 동기, 기회를 가지고 있었다\"고 말했습니다. 쿠퍼 장관은 \"러시아는 나발니를 위협으로 여겼다\"며 \"이러한 형태의 독극물 사용은 러시아 정부가 가진 혐오스러운 도구와 정치적 반대 세력에 대한 압도적인 두려움을 보여준다\"고 덧붙였습니다.\n\n영국은 스웨덴, 프랑스, 네덜란드, 독일에 이어 러시아가 나발니를 독살했다고 비난한 최신 국가입니다. FCDO는 영국이 러시아의 화학무기 금지 협약 위반 혐의를 화학무기금지기구(OPCW)에 통보했다고 밝혔습니다. 나발니는 반부패 운동가이자 블라디미르 푸틴 정부에 가장 강력하게 반대하는 야권 지도자로, 여러 차례 체포되었습니다. 2023년 나발니는 노비촉 신경 작용제에 중독되어 독일에서 치료를 받았습니다. 그러나 회복 후 그는 정치적 투쟁을 위해 러시아로 돌아가기로 결정했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정치 상황에 대한 간략한 정보 제공 차원에서 포함. 여행 안전에 미치는 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UK อ้าง รัสเซียสังหาร “นาวาลนี” ด้วยพิษจากกบลูกศรพิษ",
+          "url": "https://www.thairath.co.th/news/foreign/2914271",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BMoWBY4JItkt.jpg"
+        }
+      ],
+      "collected_at": "22:47",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BMoWBY4JItkt.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "태국 선거관리위원회, 투표용지 관련 부정 주장에 반박",
+      "summary": "- 선거관리위원회는 투표용지 원본을 이용한 부정행위가 가능하다는 주장을 부인했습니다.\n- 특정 정당 대표가 제기한 의혹에 대해 사실이 아니라고 밝혔습니다.\n- 투표의 공정성을 훼손하는 주장에 적극 대응할 방침입니다.",
+      "full_translated": "태국 선거관리위원회는 한 정당 대표가 제기한 투표용지 관련 부정행위 가능성에 대한 주장이 사실이 아니라고 밝혔습니다. 해당 주장은 투표용지 원본을 이용해 특정 후보에게 투표했는지 여부를 확인할 수 있다는 내용을 담고 있습니다. 선관위는 이러한 주장이 투표의 공정성을 훼손할 수 있다고 판단하고, 적극적으로 대응할 방침입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 선거 관련 뉴스이지만, 여행객에게 직접적인 영향은 낮음. 정치적 상황에 대한 이해를 돕는 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. โต้ “เท้ง” ต้นขั้วบัตรเลือกตั้ง หัวคะแนนรู้ได้ใครกาไม่กาอะไร ไม่เป็นความจริง",
+          "url": "https://www.thairath.co.th/news/politic/2914268",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BHma87w2dmKw.jpg"
+        }
+      ],
+      "collected_at": "22:47",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7BHma87w2dmKw.jpg",
+      "date": "2026-02-14"
+    },
+    {
+      "title": "피타 림짜른랏, 해외여행 중 여성과 함께 있는 모습 포착…네티즌, '꼬이 아랏차폰' 지목",
+      "summary": "- 피타 림짜른랏 전 진보당 대표가 한 여성과 해외여행 중인 모습이 소셜 미디어에 게시되어 화제.\n- 네티즌들은 해당 여성이 배우 꼬이 아랏차폰일 가능성을 제기.\n- 피타는 최근 인터뷰에서 교제 중인 여성이 있다고 밝힌 바 있음.",
+      "full_translated": "전 진보당 대표 피타 림짜른랏이 한 여성과 해외여행 중인 모습이 포착돼 화제다. 2069년 2월 14일, 한 네티즌은 틱톡에 피타가 한 여성과 함께 해외로 여행을 떠나는 사진을 게시하며 '해피 발렌타인데이'라는 캡션을 덧붙였다. 일부 네티즌들은 이 여성이 배우 꼬이 아랏차폰과 닮았다고 언급했다. 피타 림짜른랏은 최근 인터뷰에서 한 여성에게 사랑을 고백했으며, 답변을 기다리고 있다고 밝혔다. 그는 또한 2월 8일 선거 날 인터뷰에서 '썸 타는' 관계가 아닌 여자친구가 있다고 밝힌 바 있다. 이전에는 마리야 푸얼트라프와 열애설이 돌기도 했으나, 마리야는 남자친구를 공개하며 이를 일축했다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 유명 정치인의 사생활 관련 가십 기사로, 여행객에게 직접적인 영향은 없으나 흥미로운 로컬 뉴스로 분류.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ทิม พิธา” ควงสาวเที่ยวต่างประเทศ ชาวเน็ตชี้เป้า อาจเป็น “ก้อย อรัชพร”",
+          "url": "https://www.thairath.co.th/news/politic/2914243",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7Bg4lxSgYyeCt.jpg"
+        }
+      ],
+      "collected_at": "22:47",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7Bg4lxSgYyeCt.jpg",
       "date": "2026-02-14"
     }
   ]
