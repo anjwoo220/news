@@ -158,6 +158,37 @@ UI_TEXT = {
     "distance": {"ko": "📏 예상 거리", "en": "📏 Estimated Distance"},
     "duration": {"ko": "⏱️ 소요 시간", "en": "⏱️ Estimated Time"},
     "fare_table": {"ko": "💰 교통수단별 적정 요금표", "en": "💰 Fair Fare by Transport"},
+    "tour_title": {"ko": "🎒 AI 투어 코디네이터", "en": "🎒 AI Travel Planner"},
+    "tour_desc": {"ko": "당신의 취향에 딱 맞는 태국 여행을 설계해드립니다. 원하는 조건을 선택하세요!", "en": "Design a Thailand trip that fits your style. Select your preferences!"},
+    "tour_who": {"ko": "누구와 함께 가시나요?", "en": "Who are you traveling with?"},
+    "tour_style": {"ko": "어떤 스타일의 여행을 선호하시나요?", "en": "What is your travel style?"},
+    "tour_budget": {"ko": "예산은 어느 정도 생각하시나요?", "en": "What is your budget?"},
+    "tour_find_btn": {"ko": "🚀 나에게 맞는 투어 찾기", "en": "🚀 Find Tours for Me"},
+    "tour_result_title": {"ko": "✨ AI 추천 투어 결과", "en": "✨ AI Recommended Tours"},
+    "tour_reason": {"ko": "추천 이유", "en": "Why we recommend this"},
+    "tour_pros": {"ko": "장점", "en": "Pros"},
+    "tour_tip": {"ko": "꿀팁", "en": "Tip"},
+    "tour_region_selector": {"ko": "떠나시는 여행지를 선택해주세요! 🇹🇭", "en": "Select your destination! 🇹🇭"},
+    # Planner Options Mapping
+    "who_alone": {"ko": "혼자", "en": "Alone"},
+    "who_couple": {"ko": "연인/부부", "en": "Couple"},
+    "who_friend": {"ko": "친구", "en": "Friends"},
+    "who_child": {"ko": "가족(아이동반)", "en": "Family (with children)"},
+    "who_parent": {"ko": "가족(부모님)", "en": "Family (with parents)"},
+    "style_healing": {"ko": "힐링/마사지", "en": "Healing/Massage"},
+    "style_photo": {"ko": "인생샷/사진", "en": "Photo-centric"},
+    "style_history": {"ko": "역사/문화", "en": "History/Culture"},
+    "style_activity": {"ko": "액티비티/스릴", "en": "Activity/Thrills"},
+    "style_food": {"ko": "맛집/식도락", "en": "Food/Gourmet"},
+    "style_night": {"ko": "야경/로맨틱", "en": "Night View/Romantic"},
+    "style_unique": {"ko": "이색체험", "en": "Unique Experience"},
+    "budget_low": {"ko": "가성비(저렴)", "en": "Economy (Budget)"},
+    "budget_mid": {"ko": "적당함", "en": "Moderate"},
+    "budget_high": {"ko": "럭셔리/프리미엄", "en": "Luxury (Premium)"},
+    "tour_fail": {"ko": "AI 추천을 가져오는데 실패했습니다. 아래 전체 목록에서 직접 선택해주세요!", "en": "Failed to get AI recommendations. Please select from the list below!"},
+    "added_to_cart": {"ko": "✅ 담기 완료", "en": "✅ Added"},
+    "add_to_cart": {"ko": "➕ 일정에 담기", "en": "➕ Add to Trip"},
+    "all_tours_title": {"ko": "{} 투어 전체 목록 ({}개)", "en": "All {} Tours ({} items)"},
     "board_title": {"ko": "🗣️ 여행자 수다방", "en": "🗣️ Traveler's Board"},
     "board_desc": {"ko": "여행 팁, 질문, 건의사항 등 자유롭게 이야기를 나눠보세요!", "en": "Share tips, ask questions, or suggest features!"},
     "write_btn": {"ko": "등록하기 📝", "en": "Post 📝"},
@@ -4382,7 +4413,7 @@ def analyze_wongnai_data(restaurant_data, api_key):
 # 🎒 AI Tour Recommendation Engine
 # ============================================
 
-def recommend_tours(who, style, budget, region="방콕"):
+def recommend_tours(who, style, budget, region="방콕", language="Korean"):
     """
     사용자 입력을 바탕으로 Gemini AI가 투어를 추천하는 함수.
     
@@ -4391,6 +4422,7 @@ def recommend_tours(who, style, budget, region="방콕"):
         style: 선호 스타일 리스트 (예: ["인생샷/사진", "역사/문화"])
         budget: 예산 선호 (예: "가성비(저렴)", "적당함", "럭셔리/프리미엄")
         region: 여행 지역 (예: "방콕", "파타야", "치앙마이")
+        language: 출력 언어 ("Korean" or "English")
     
     Returns:
         dict: {"recommendations": [{"tour_name": ..., "reason": ..., "tip": ...}, ...]}
@@ -4435,14 +4467,49 @@ def recommend_tours(who, style, budget, region="방콕"):
 
         # Build product catalog for prompt
         products_info = "\n".join([
-            f"- ID {t['id']}. {t['name']} (가격: {t['price']}): "
-            f"태그={t['type']}, 특징: {t['desc']}, 장점: {t['pros']}"
+            f"- ID {t['id']}. {t['name']} (Price: {t['price']}): "
+            f"Tag={t['type']}, Desc: {t['desc']}, Pros: {t['pros']}"
             for t in filtered_tours
         ])
         
-        style_str = ", ".join(style) if style else "특별한 선호 없음"
-        
-        prompt = f"""
+        style_str = ", ".join(style) if style else "No specific preference"
+        is_english = (language == "English")
+
+        if is_english:
+            prompt = f"""
+You are a 'Thailand Travel AI Coordinator' expert on {region}.
+Analyze the user's travel style and recommend the **top 6 perfect products** from the [Product Catalog] below.
+
+[User Info]
+- Region: {region}
+- With: {who}
+- Style: {style_str}
+- Budget/Other: {budget}
+
+[Product Catalog ({region} only)]
+{products_info}
+
+[Output Format - JSON]
+Output MUST be in the following JSON format ONLY. 
+Descriptions should be friendly, persuasive, and include emojis. 
+Write reasons specifically tailored to the user's companions and style. 
+ALL OUTPUT VALUES MUST BE IN ENGLISH.
+
+{{
+    "recommendations": [
+        {{
+            "tour_name": "Product Name (MUST match the name in the list exactly)",
+            "tour_name_en": "Translated English Product Name",
+            "tour_id": "Product ID (integer)",
+            "reason": "Why we recommend this (2-3 sentences, persuasive, emoji included)",
+            "tip": "One useful tip (e.g., Best at sunset, Raincoat needed, etc.)"
+        }},
+        ... (Total 6 recommendations)
+    ]
+}}
+"""
+        else:
+            prompt = f"""
 당신은 태국 {region} 여행 전문 'AI 투어 코디네이터'입니다.
 사용자의 여행 스타일을 분석하여, 아래 [상품 목록] 중 **가장 완벽한 상품 6개**를 추천해주세요.
 
@@ -4462,6 +4529,7 @@ def recommend_tours(who, style, budget, region="방콕"):
     "recommendations": [
         {{
             "tour_name": "상품명 (목록에 있는 이름과 정확히 일치)",
+            "tour_id": "상품 ID (숫자)",
             "reason": "이 투어를 추천하는 이유 (사용자 상황에 맞춰서 2~3문장으로 설득력 있게, 이모지 포함)",
             "tip": "꿀팁 한줄 (예: 일몰 시간대 5시 추천, 우기엔 우비 필수 등)"
         }},
@@ -4594,10 +4662,34 @@ CITY_LINKS = {
 }
 
 # UI에서 사용하는 지역 옵션 (이모지 포함)
-REGION_OPTIONS = ["🏙️ 방콕", "🏖️ 파타야", "🐘 치앙마이", "🏝️ 푸켓", "🌴 코사무이", "⛵ 끄라비"]
+# 지역별 옵션 및 매핑 (Localization 지원)
+def get_region_options():
+    lang = st.session_state.get('language', 'Korean')
+    if lang == 'English':
+        return ["🏙️ Bangkok", "🏖️ Pattaya", "🐘 Chiang Mai", "🏝️ Phuket", "🌴 Koh Samui", "⛵ Krabi"]
+    else:
+        return ["🏙️ 방콕", "🏖️ 파타야", "🐘 치앙마이", "🏝️ 푸켓", "🌴 코사무이", "⛵ 끄라비"]
 
-# 이모지 제거 헬퍼 (UI 라벨 → 데이터 키 변환)
-REGION_LABEL_TO_KEY = {opt: opt.split(" ", 1)[1] for opt in REGION_OPTIONS}
+def get_region_label_to_key():
+    lang = st.session_state.get('language', 'Korean')
+    if lang == 'English':
+        return {
+            "🏙️ Bangkok": "방콕",
+            "🏖️ Pattaya": "파타야",
+            "🐘 Chiang Mai": "치앙마이",
+            "🏝️ Phuket": "푸켓",
+            "🌴 Koh Samui": "코사무이",
+            "⛵ Krabi": "끄라비"
+        }
+    else:
+        return {
+            "🏙️ 방콕": "방콕",
+            "🏖️ 파타야": "파타야",
+            "🐘 치앙마이": "치앙마이",
+            "🏝️ 푸켓": "푸켓",
+            "🌴 코사무이": "코사무이",
+            "⛵ 끄라비": "끄라비"
+        }
 
 # Klook 전체보기 링크
 KLOOK_ALL_TOURS_LINK = "https://klook.tpx.li/P3FlPqvh"

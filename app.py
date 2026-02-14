@@ -2426,34 +2426,44 @@ def render_tab_tour():
     st.caption(utils.t("tour_desc"))
     
     # --- 0. 지역 선택 (Region Selector) ---
-    selected_region_label = st.pills("떠나시는 여행지를 선택해주세요! 🇹🇭", REGION_OPTIONS, default=REGION_OPTIONS[0], key="tour_region_selector", on_change=lambda: st.session_state.pop("tour_recommendations", None))
-    # Label to Key (e.g., "🏙️ 방콕" -> "방콕")
-    selected_region = REGION_LABEL_TO_KEY.get(selected_region_label, "방콕")
+    region_options = utils.get_region_options()
+    region_label_to_key = utils.get_region_label_to_key()
+    
+    selected_region_label = st.pills(utils.t("tour_region_selector"), region_options, default=region_options[0], key="tour_region_selector", on_change=lambda: st.session_state.pop("tour_recommendations", None))
+    # Label to Key (e.g., "🏙️ 방콕" or "🏙️ Bangkok" -> "방콕")
+    selected_region = region_label_to_key.get(selected_region_label, "방콕")
 
     # --- 1. 사용자 취향 입력 (Input) ---
     st.markdown("---")
     
     col1, col2 = st.columns(2)
     with col1:
-        who_options = ["혼자", "연인/부부", "친구", "가족(아이동반)", "가족(부모님)"]
-        who = st.radio(utils.t("tour_who"), who_options, key="tour_who_radio")
+        who_options_labels = [
+            utils.t("who_alone"), utils.t("who_couple"), utils.t("who_friend"), 
+            utils.t("who_child"), utils.t("who_parent")
+        ]
+        who_label = st.radio(utils.t("tour_who"), who_options_labels, key="tour_who_radio")
     with col2:
-        style_options = ["힐링/마사지", "인생샷/사진", "역사/문화", "액티비티/스릴", "맛집/식도락", "야경/로맨틱", "이색체험"]
-        style = st.multiselect(utils.t("tour_style"), style_options, default=["인생샷/사진"], key="tour_style_multi")
+        style_options_labels = [
+            utils.t("style_healing"), utils.t("style_photo"), utils.t("style_history"), 
+            utils.t("style_activity"), utils.t("style_food"), utils.t("style_night"), utils.t("style_unique")
+        ]
+        style_labels = st.multiselect(utils.t("tour_style"), style_options_labels, default=[utils.t("style_photo")], key="tour_style_multi")
     
-    budget_options = ["가성비(저렴)", "적당함", "럭셔리/프리미엄"]
-    budget = st.select_slider(utils.t("tour_budget"), options=budget_options, value="적당함", key="tour_budget_slider")
+    budget_options_labels = [utils.t("budget_low"), utils.t("budget_mid"), utils.t("budget_high")]
+    budget_label = st.select_slider(utils.t("tour_budget"), options=budget_options_labels, value=utils.t("budget_mid"), key="tour_budget_slider")
     
     # --- 2. 추천 버튼 & 결과 (Output) ---
     if st.button(utils.t("tour_find_btn"), use_container_width=True, type="primary", key="tour_find_button"):
-        with st.spinner(f"{selected_region} 투어를 분석 중입니다... 🤖"):
-            ai_result = utils.recommend_tours(who, style, budget, region=selected_region)
+        current_lang = st.session_state.get('language', 'Korean')
+        with st.spinner(f"{selected_region_label} " + ("analyzing..." if current_lang == 'English' else "투어를 분석 중입니다... 🤖")):
+            ai_result = utils.recommend_tours(who_label, style_labels, budget_label, region=selected_region, language=current_lang)
         
         if ai_result and ai_result.get("recommendations"):
             st.session_state["tour_recommendations"] = ai_result["recommendations"]
         else:
             st.session_state["tour_recommendations"] = None
-            st.warning("AI 추천을 가져오는데 실패했습니다. 아래 전체 목록에서 직접 선택해주세요!")
+            st.warning(utils.t("tour_fail"))
     
     # --- 추천 결과 표시 ---
     recs = st.session_state.get("tour_recommendations")
@@ -2463,11 +2473,18 @@ def render_tab_tour():
         
         for idx, rec in enumerate(recs):
             tour_name = rec.get("tour_name", "")
+            tour_id = rec.get("tour_id")
+            tour_name_en = rec.get("tour_name_en", tour_name)
             reason = rec.get("reason", "")
             tip = rec.get("tip", "")
             
-            # 매칭되는 투어 데이터 찾기
-            matched_tour = next((t for t in TOURS if t["name"] == tour_name), None)
+            # 매칭되는 투어 데이터 찾기 (ID 우선, 이름 차선)
+            matched_tour = None
+            if tour_id:
+                matched_tour = next((t for t in TOURS if str(t.get('id', '')) == str(tour_id)), None)
+            
+            if not matched_tour:
+                matched_tour = next((t for t in TOURS if t["name"] == tour_name), None)
             
             if not matched_tour:
                 # 부분 매칭 시도
@@ -2488,7 +2505,8 @@ def render_tab_tour():
                     if matched_tour.get("image"):
                         st.image(matched_tour["image"], use_container_width=True)
                 with c_info:
-                    st.subheader(f"{rank_emoji} {matched_tour['name']}")
+                    final_name = tour_name_en if st.session_state.get('language') == 'English' else matched_tour['name']
+                    st.subheader(f"{rank_emoji} {final_name}")
                     st.markdown(f"**{utils.t('tour_reason')}:** {reason}")
                     st.info(f"**{utils.t('tour_pros')}:** {matched_tour['pros']}")
                     if tip:
@@ -2507,16 +2525,17 @@ def render_tab_tour():
                         )
                     with b_col2:
                         if matched_tour['id'] in st.session_state['my_cart']:
-                            st.button("✅ 담기 완료", disabled=True, key=f"btn_dis_rec_{matched_tour['id']}", use_container_width=True)
+                            st.button(utils.t("added_to_cart"), disabled=True, key=f"btn_dis_rec_{matched_tour['id']}", use_container_width=True)
                         else:
-                            if st.button("➕ 일정에 담기", key=f"btn_add_rec_{matched_tour['id']}", use_container_width=True):
+                            if st.button(utils.t("add_to_cart"), key=f"btn_add_rec_{matched_tour['id']}", use_container_width=True):
                                 st.session_state['my_cart'].append(matched_tour['id'])
                                 # st.rerun() # Fragment handles local update automatically on interaction
                 
                 st.markdown("---")
             else:
                 # AI가 목록에 없는 이름을 반환한 경우
-                st.markdown(f"**{rank_emoji if idx == 0 else '🥈'} {tour_name}**")
+                final_name = tour_name_en if st.session_state.get('language') == 'English' else tour_name
+                st.markdown(f"**{rank_emoji if idx == 0 else '🥈'} {final_name}**")
                 st.markdown(f"**{utils.t('tour_reason')}:** {reason}")
                 if tip:
                     st.caption(f"{utils.t('tour_tip')}: {tip}")
@@ -2526,7 +2545,7 @@ def render_tab_tour():
     # Filter tours by region
     region_tours = [t for t in TOURS if t.get('region', '방콕') == selected_region]
     
-    with st.expander(f"{selected_region} 투어 전체 목록 ({len(region_tours)}개)"):
+    with st.expander(utils.t("all_tours_title").format(selected_region_label, len(region_tours))):
         for t in region_tours:
             c1, c2 = st.columns([1, 3])
             with c1:
@@ -4540,11 +4559,11 @@ else:
     
     # [MOD] Language-aware tab ordering
     is_english = st.session_state.get('language') == 'English'
-    if is_prod:
+    if is_mobile:
         if is_english:
             nav_options = [
-                utils.t("nav_guide"), utils.t("nav_hotel"), utils.t("nav_food"), 
-                utils.t("nav_taxi"), utils.t("nav_news"), utils.t("nav_board")
+                utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
+                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_board")
             ]
         else:
             # Korean Mode: Use Tour tab instead of Guide
@@ -4555,7 +4574,7 @@ else:
     else:
         if is_english:
             nav_options = [
-                utils.t("nav_guide"), utils.t("nav_hotel"), utils.t("nav_food"), 
+                utils.t("nav_tour"), utils.t("nav_hotel"), utils.t("nav_food"), 
                 utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_news"), utils.t("nav_board")
             ]
         else:
@@ -4668,9 +4687,7 @@ else:
         render_tab_hotel()
     elif page_mode == utils.t("nav_food"):
         render_tab_food()
-    elif page_mode == utils.t("nav_guide"):
-        render_tab_guide()
-    elif page_mode == utils.t("nav_tour"):
+    elif page_mode == utils.t("nav_guide") or page_mode == utils.t("nav_tour"):
         render_tab_tour()
     elif page_mode == utils.t("nav_taxi"):
         render_tab_taxi()
