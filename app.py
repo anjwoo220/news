@@ -2407,8 +2407,6 @@ def render_tab_guide():
 def render_tab_tour():
     """Render the AI Tour Coordinator tab (Korean mode replacement for Guide)."""
     # Use constants from utils
-    REGION_OPTIONS = utils.REGION_OPTIONS
-    REGION_LABEL_TO_KEY = utils.REGION_LABEL_TO_KEY
     TOURS = utils.load_tours()
     
     # Initialize Cart
@@ -3998,7 +3996,7 @@ if app_mode == "Admin Console":
 
             try:
                 TOURS = utils.load_tours()
-                REGION_OPTIONS = utils.REGION_OPTIONS
+                REGION_OPTIONS = utils.get_region_options()
                 import json
                 import pandas as pd
                 import time
