@@ -413,8 +413,8 @@ SEO_TITLES = {
         "en": "🏨 Bangkok Hotel Real Reviews | Thai Today"
     },
     "nav_food": {
-        "ko": "🍜 방콕 맛집 팩트체크 & 리뷰 | 오늘의 태국",
-        "en": "🍜 Bangkok Food Fact Check & Reviews | Thai Today"
+        "ko": "🍜 태국 맛집 팩트체크 & 리뷰 | 오늘의 태국",
+        "en": "🍜 Thailand Food Fact Check & Reviews | Thai Today"
     },
     "nav_guide": {
         "ko": "📘 태국 여행 가이드 2026 | 오늘의 태국",
@@ -1792,7 +1792,7 @@ def extract_restaurant_share_summary(name, details):
     pros = "\n- ".join(analysis.get('pros', ["전반적으로 무난함"]))
     cons = "\n- ".join(analysis.get('cons', ["특별한 단점 발견되지 않음"]))
     
-    summary = f"""[🇹🇭 방콕 맛집 팩트체크]
+    summary = f"""[🇹🇭 태국 맛집 팩트체크]
 
 🍽️ 식당명: {name} ({cuisines})
 ⭐ 평점: {details.get('rating', 0)} / 5.0 (리뷰 {details.get('num_reviews', 0):,}개)
