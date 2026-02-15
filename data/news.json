@@ -13521,8 +13521,114 @@
       "summary": "- 태국 정부가 무비자 체류 허용 기간을 60일에서 30일로 단축할 예정입니다.\n- 구체적인 시행 시기는 아직 발표되지 않았습니다.\n- 여행 계획에 차질이 없도록 최신 정보를 확인해야 합니다.",
       "full_translated": "VnExpress International에 따르면 태국은 곧 무비자 체류 허용 기간을 60일에서 30일로 단축할 예정입니다. 정확한 날짜는 아직 발표되지 않았지만, 태국 여행을 계획하고 있다면 주의해야 할 사항입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행 계획에 직접적인 영향을 미치므로 매우 중요합니다. 특히 장기 여행을 계획하는 여행객에게는 필수적인 정보입니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdm5leHByZXNzLm5ldC90aGFpbGFuZC10by1zbGFzaC12aXNhLWZyZWUtc3RheS1mcm9tLTYwLXRvLTMwLWRheXMtNDY5MTI0Ni5odG1s0gEA?oc=5",
+          "source": "VnExpress International"
+        }
+      ],
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdm5leHByZXNzLm5ldC90aGFpbGFuZC10by1zbGFzaC12aXNhLWZyZWUtc3RheS1mcm9tLTYwLXRvLTMwLWRheXMtNDY5MTI0Ni5odG1s0gEA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면 (Liverpool Echo)",
+      "summary": "- 태국에서 특정 행위로 인해 영국 관광객들이 감옥에 갈 위험에 처할 수 있다는 경고가 나왔습니다.\n- 전자 담배 소지, 불법 약물, 왕실 모독 등이 주요 원인입니다.\n- 태국 법률을 숙지하고 존중하는 것이 중요합니다.",
+      "full_translated": "Liverpool Echo에 따르면, 태국에서 휴가를 보내는 영국 관광객들이 특정 행동으로 인해 감옥에 갈 수 있다는 경고가 나왔습니다. 태국 법률에 대한 무지가 문제를 일으킬 수 있으며, 특히 전자 담배 소지, 불법 약물 및 왕실 모독과 관련된 법률을 주의해야 합니다. 태국 법률을 존중하고 준수하는 것이 중요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8.0,
+      "impact_reason": "해외 여행 중 법률 위반은 심각한 결과를 초래할 수 있으므로, 잠재적 위험을 알리고 예방하는 것이 중요합니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
+          "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy91ay13b3JsZC1uZXdzL3VrLXRvdXJpc3RzLWZhY2UtcHJpc29uLXdhcm5pbmctMjkyNjcyMjguc3B40gEA?oc=5",
+          "source": "Liverpool Echo"
+        }
+      ],
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy91ay13b3JsZC1uZXdzL3VrLXRvdXJpc3RzLWZhY2UtcHJpc29uLXdhcm5pbmctMjkyNjcyMjguc3B40gEA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면",
+      "summary": "- 태국 여행 중인 영국 관광객들에게 현지 법규 위반 시 감옥에 갈 수 있다는 경고가 내려졌습니다.\n- 전자 담배 소지, 불법 약물, 왕실 모독 등이 주요 위반 사례로 지적되었습니다.\n- 관광객들은 태국 법규를 숙지하고 준수하여 불이익을 당하지 않도록 주의해야 합니다.",
+      "full_translated": "영국 외무부는 태국을 방문하는 영국 시민들에게 태국 법률 위반 시 심각한 처벌을 받을 수 있다고 경고했습니다. 특히 전자 담배 소지 및 사용, 마약 관련 범죄, 왕실 모독 행위 등에 대한 처벌이 엄격합니다. 관광객들은 태국 법규를 철저히 숙지하고 준수하여 불미스러운 일에 휘말리지 않도록 주의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7.0,
+      "impact_reason": "여행객 안전 및 법률 관련. 잠재적 위험 고지.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
+          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/uk-tourists-face-prison-warning-28639282",
+          "source": "Liverpool Echo"
+        }
+      ],
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-16",
+      "link": "https://www.liverpoolecho.co.uk/news/uk-world-news/uk-tourists-face-prison-warning-28639282",
+      "source": ""
+    },
+    {
+      "title": "태국 사원 근처 비키니 일광욕 관광객, 비난 직면",
+      "summary": "- 태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객들이 논란이 되고 있습니다.\n- 현지 문화와 종교적 장소에 대한 존중 부족이 비판의 원인입니다.\n- 관련 당국은 유사 사례 재발 방지를 위해 관광객 대상 문화 교육 강화 필요성을 강조하고 있습니다.",
+      "full_translated": "태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객들이 현지 문화 존중 부족으로 비난을 받고 있습니다. 일부 네티즌들은 이러한 행동이 신성한 장소에 대한 무례함을 드러낸다고 지적하며 우려를 표명했습니다. 관련 당국은 관광객들에게 태국 문화와 전통에 대한 이해를 높이기 위한 교육 프로그램을 강화할 필요성을 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5.0,
+      "impact_reason": "문화적 민감성 관련 뉴스. 관광객에게 간접적 영향.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Tourists criticized for sunbathing in bikinis near Thai temple - MSN",
+          "url": "https://www.msn.com/en-us/news/world/tourists-criticized-for-sunbathing-in-bikinis-near-thai-temple/ar-BB1h93eJ",
+          "source": "MSN"
+        }
+      ],
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-16",
+      "link": "https://www.msn.com/en-us/news/world/tourists-criticized-for-sunbathing-in-bikinis-near-thai-temple/ar-BB1h93eJ",
+      "source": ""
+    },
+    {
+      "title": "아누틴 총리 대행, 차기 정부에서 안보 및 경제 문제 담당",
+      "summary": "- 아누틴 차른비라쿨 총리 대행은 다음 정부에서 자신의 Bhumjaithai당이 안보 및 경제 문제를 책임질 것이라고 밝혔습니다.\n- 그는 영토, 주권, 태국의 명예와 존엄성을 보호하기 위해 모든 형태와 방법을 취할 것이라고 강조했습니다.\n- 또한 태국 경제를 장기적인 함정에서 벗어나게 하기 위해 경제 문제를 전문 팀이 처리할 것이라고 약속했습니다.",
+      "full_translated": "아누틴 차른비라쿨 총리 대행은 다음 정부에서 자신의 Bhumjaithai당이 안보 및 경제 문제를 책임질 것이라고 말했습니다. 그는 페이스북에 Bhumjaithai당이 외교 및 군사적 조치를 통해 안보 문제를 처리할 것이라고 밝혔습니다. 그는 \"태국의 영토, 주권, 명예와 존엄성을 보호하기 위해 모든 형태와 방법을 취할 것을 주장합니다. 저는 태국 국민의 안전을 최우선으로 생각합니다.\"라고 썼습니다. 국경 폐쇄는 계속될 것이며 국경을 따라 \"보안 장벽\"을 강화하고 태국의 이익을 최대한 보호하기 위해 2001년 양해각서가 폐지될 것입니다. 그는 \"이것은 Bhumjaithai당에 대한 신뢰를 가진 동료 국민의 요구를 충족시키기 위한 것입니다.\"라고 썼습니다. 그는 캄보디아와의 국경 문제와 태국이 캄보디아와 체결한 해상 영토 관련 2001년 양해각서를 언급한 것으로 보입니다. 아누틴 총리 대행은 자신과 시하삭 푸앙켓케오 외무장관 대행이 \"태국을 존엄성을 갖고 세계 무대로 되돌릴 것이며 더 이상 누구도 태국 국민에게 성가신 위협을 가할 수 없을 것\"이라고 약속했습니다. 그는 또한 자신의 Bhumjaithai당이 태국 경제를 장기적인 함정에서 벗어나게 하기 위해 경제 문제를 처리할 것이라고 썼습니다. \"경제 업무는 아누틴이 이끄는 태국 팀인 전문가 팀이 수행해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4.0,
+      "impact_reason": "정치적 변화는 단기적으로 여행에 큰 영향을 미치지 않지만, 국경 정책이나 외교 관계 변화 가능성은 주시할 필요가 있습니다. 향후 정책 변화에 따라 여행 관련 규정이 변경될 수 있습니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "PM Anutin’s party to handle security and economic affairs",
+          "url": "https://www.bangkokpost.com/thailand/politics/3197914/pm-anutins-party-to-handle-security-and-economic-affairs",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197914_700.jpg"
+        }
+      ],
+      "collected_at": "0:19",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197914_700.jpg",
+      "date": "2026-02-16",
+      "link": "https://www.bangkokpost.com/thailand/politics/3197914/pm-anutins-party-to-handle-security-and-economic-affairs",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축",
+      "summary": "- 태국 정부가 무비자 체류 가능 기간을 단축.\n- 기존 60일에서 30일로 변경되어 여행객 주의 필요.\n- 변경 시점은 아직 발표되지 않음.",
+      "full_translated": "VnExpress International에 따르면 태국 정부가 무비자 체류 가능 기간을 60일에서 30일로 단축할 예정입니다. 자세한 시행 시기는 아직 발표되지 않았습니다. 태국 여행을 계획 중인 여행객들은 변경 사항을 주시해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 규정 변경은 여행 계획에 직접적인 영향을 미치므로 매우 중요. 특히 장기 여행객에게는 필수 정보.",
       "event_info": {
         "date": null,
         "location": null,
@@ -13532,89 +13638,20 @@
       "references": [
         {
           "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
-          "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vdm5leHByZXNzLm5ldC90aGFpbGFuZC10by1zbGFzaC12aXNhLWZyZWUtc3RheS1mcm9tLTYwLXRvLTMwLWRheXMtNDY5MTI0Ni5odG1s0gEA?oc=5",
+          "url": null,
           "source": "VnExpress International"
         }
       ],
-      "collected_at": "00:19",
+      "collected_at": "00:49",
       "date": "2026-02-16"
     },
     {
-      "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면 (Liverpool Echo)",
-      "summary": "- 태국에서 특정 행위로 인해 영국 관광객들이 감옥에 갈 위험에 처할 수 있다는 경고가 나왔습니다.\n- 전자 담배 소지, 불법 약물, 왕실 모독 등이 주요 원인입니다.\n- 태국 법률을 숙지하고 존중하는 것이 중요합니다.",
-      "full_translated": "Liverpool Echo에 따르면, 태국에서 휴가를 보내는 영국 관광객들이 특정 행동으로 인해 감옥에 갈 수 있다는 경고가 나왔습니다. 태국 법률에 대한 무지가 문제를 일으킬 수 있으며, 특히 전자 담배 소지, 불법 약물 및 왕실 모독과 관련된 법률을 주의해야 합니다. 태국 법률을 존중하고 준수하는 것이 중요합니다.",
-      "category": "POLITICS",
-      "tourist_impact_score": 8,
-      "impact_reason": "해외 여행 중 법률 위반은 심각한 결과를 초래할 수 있으므로, 잠재적 위험을 알리고 예방하는 것이 중요합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
-      "references": [
-        {
-          "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
-          "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmxpdmVycG9vbGVjaG8uY28udWsvbmV3cy91ay13b3JsZC1uZXdzL3VrLXRvdXJpc3RzLWZhY2UtcHJpc29uLXdhcm5pbmctMjkyNjcyMjguc3B40gEA?oc=5",
-          "source": "Liverpool Echo"
-        }
-      ],
-      "collected_at": "00:19",
-      "date": "2026-02-16"
-    },
-    {
-      "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면",
-      "summary": "- 태국 여행 중인 영국 관광객들에게 현지 법규 위반 시 감옥에 갈 수 있다는 경고가 내려졌습니다.\n- 전자 담배 소지, 불법 약물, 왕실 모독 등이 주요 위반 사례로 지적되었습니다.\n- 관광객들은 태국 법규를 숙지하고 준수하여 불이익을 당하지 않도록 주의해야 합니다.",
-      "full_translated": "영국 외무부는 태국을 방문하는 영국 시민들에게 태국 법률 위반 시 심각한 처벌을 받을 수 있다고 경고했습니다. 특히 전자 담배 소지 및 사용, 마약 관련 범죄, 왕실 모독 행위 등에 대한 처벌이 엄격합니다. 관광객들은 태국 법규를 철저히 숙지하고 준수하여 불미스러운 일에 휘말리지 않도록 주의해야 합니다.",
-      "category": "POLITICS",
-      "tourist_impact_score": 7,
-      "impact_reason": "여행객 안전 및 법률 관련. 잠재적 위험 고지.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
-      "references": [
-        {
-          "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
-          "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/uk-tourists-face-prison-warning-28639282",
-          "source": "Liverpool Echo"
-        }
-      ],
-      "collected_at": "00:19",
-      "date": "2026-02-16"
-    },
-    {
-      "title": "태국 사원 근처 비키니 일광욕 관광객, 비난 직면",
-      "summary": "- 태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객들이 논란이 되고 있습니다.\n- 현지 문화와 종교적 장소에 대한 존중 부족이 비판의 원인입니다.\n- 관련 당국은 유사 사례 재발 방지를 위해 관광객 대상 문화 교육 강화 필요성을 강조하고 있습니다.",
-      "full_translated": "태국 사원 근처에서 비키니를 입고 일광욕을 즐기는 관광객들이 현지 문화 존중 부족으로 비난을 받고 있습니다. 일부 네티즌들은 이러한 행동이 신성한 장소에 대한 무례함을 드러낸다고 지적하며 우려를 표명했습니다. 관련 당국은 관광객들에게 태국 문화와 전통에 대한 이해를 높이기 위한 교육 프로그램을 강화할 필요성을 강조했습니다.",
-      "category": "POLITICS",
-      "tourist_impact_score": 5,
-      "impact_reason": "문화적 민감성 관련 뉴스. 관광객에게 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
-      "references": [
-        {
-          "title": "Tourists criticized for sunbathing in bikinis near Thai temple - MSN",
-          "url": "https://www.msn.com/en-us/news/world/tourists-criticized-for-sunbathing-in-bikinis-near-thai-temple/ar-BB1h93eJ",
-          "source": "MSN"
-        }
-      ],
-      "collected_at": "00:19",
-      "date": "2026-02-16"
-    },
-    {
-      "title": "아누틴 총리 대행, 차기 정부에서 안보 및 경제 문제 담당",
-      "summary": "- 아누틴 차른비라쿨 총리 대행은 다음 정부에서 자신의 Bhumjaithai당이 안보 및 경제 문제를 책임질 것이라고 밝혔습니다.\n- 그는 영토, 주권, 태국의 명예와 존엄성을 보호하기 위해 모든 형태와 방법을 취할 것이라고 강조했습니다.\n- 또한 태국 경제를 장기적인 함정에서 벗어나게 하기 위해 경제 문제를 전문 팀이 처리할 것이라고 약속했습니다.",
-      "full_translated": "아누틴 차른비라쿨 총리 대행은 다음 정부에서 자신의 Bhumjaithai당이 안보 및 경제 문제를 책임질 것이라고 말했습니다. 그는 페이스북에 Bhumjaithai당이 외교 및 군사적 조치를 통해 안보 문제를 처리할 것이라고 밝혔습니다. 그는 \"태국의 영토, 주권, 명예와 존엄성을 보호하기 위해 모든 형태와 방법을 취할 것을 주장합니다. 저는 태국 국민의 안전을 최우선으로 생각합니다.\"라고 썼습니다. 국경 폐쇄는 계속될 것이며 국경을 따라 \"보안 장벽\"을 강화하고 태국의 이익을 최대한 보호하기 위해 2001년 양해각서가 폐지될 것입니다. 그는 \"이것은 Bhumjaithai당에 대한 신뢰를 가진 동료 국민의 요구를 충족시키기 위한 것입니다.\"라고 썼습니다. 그는 캄보디아와의 국경 문제와 태국이 캄보디아와 체결한 해상 영토 관련 2001년 양해각서를 언급한 것으로 보입니다. 아누틴 총리 대행은 자신과 시하삭 푸앙켓케오 외무장관 대행이 \"태국을 존엄성을 갖고 세계 무대로 되돌릴 것이며 더 이상 누구도 태국 국민에게 성가신 위협을 가할 수 없을 것\"이라고 약속했습니다. 그는 또한 자신의 Bhumjaithai당이 태국 경제를 장기적인 함정에서 벗어나게 하기 위해 경제 문제를 처리할 것이라고 썼습니다. \"경제 업무는 아누틴이 이끄는 태국 팀인 전문가 팀이 수행해야 합니다.",
-      "category": "POLITICS",
+      "title": "Thailand a Click Away. News Without Fear or Favor.",
+      "summary": "- Khaosod English에서 태국 뉴스를 제공합니다.\n- 두려움이나 호의 없이 뉴스를 전달합니다.\n- 태국 관련 소식을 빠르게 접할 수 있습니다.",
+      "full_translated": "Khaosod English는 두려움이나 호의 없이 태국 뉴스를 제공합니다. 태국 관련 소식을 빠르게 접할 수 있는 방법입니다.",
+      "category": "TRAVEL",
       "tourist_impact_score": 4,
-      "impact_reason": "정치적 변화는 단기적으로 여행에 큰 영향을 미치지 않지만, 국경 정책이나 외교 관계 변화 가능성은 주시할 필요가 있습니다. 향후 정책 변화에 따라 여행 관련 규정이 변경될 수 있습니다.",
+      "impact_reason": "태국 여행 정보를 얻을 수 있는 출처 정보 제공. 여행 관련 정보 접근성 향상.",
       "event_info": {
         "date": null,
         "location": null,
@@ -13623,14 +13660,14 @@
       },
       "references": [
         {
-          "title": "PM Anutin’s party to handle security and economic affairs",
-          "url": "https://www.bangkokpost.com/thailand/politics/3197914/pm-anutins-party-to-handle-security-and-economic-affairs",
-          "source": "Bangkokpost.com : Top Stories",
-          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197914_700.jpg"
+          "title": "Thailand a Click Away. News Without Fear or Favor. - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9EcE9yVG0tQUpjTHlFRGRzMnVJM0tRMnA0eHRrbmgyQjdwWDdZNXdqUF9VSTYxdEt0dVRERzA2ZFJPblFBMzlBQTln?oc=5",
+          "source": "Khaosod English",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:19",
-      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197914_700.jpg",
+      "collected_at": "00:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-16"
     }
   ]
