@@ -13083,14 +13083,9 @@
       "summary": "- 태국 정부가 무비자 체류 기간을 단축한다는 보도가 나왔으나, 공식 발표는 아님.\n- VnExpress International에 따르면 60일에서 30일로 단축될 수 있음.\n- 여행 계획에 차질이 없도록 공식 발표를 기다려야 함.",
       "full_translated": "VnExpress International의 보도에 따르면 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축할 예정이라고 합니다. 아직 공식 발표는 아니므로, 여행객들은 추후 발표를 예의주시해야 합니다. 만약 단축된다면 여행 계획에 큰 영향을 미칠 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수 부여. 공식 발표는 아니지만, 잠재적 변경 가능성을 알리는 것이 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
@@ -13099,21 +13094,19 @@
         }
       ],
       "collected_at": "18:16",
-      "date": "2026-02-15"
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdmluZXhwcmVzcy5uZXQvdGhhaWxhbmQtby1zbGFzaC12aXNhLWZyZWUtc3RheS1mcm9tLTYwLTMwLWRheXMtNDY5OTc4OC5odG1s0gEA?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026년에도 저렴한 여행지로 각광 받을 전망",
       "summary": "- Travel And Tour World에 따르면 태국은 2026년에도 예산 친화적인 여행지로 남을 것으로 예상됨.\n- 이는 다른 국가들의 여행 비용 상승 추세와 대조적임.\n- 태국은 저렴한 물가와 다양한 관광 명소로 인해 여전히 매력적인 여행지임.",
       "full_translated": "Travel And Tour World에 따르면 태국은 2026년에도 예산 친화적인 여행지로 남을 것으로 예상됩니다. 다른 국가들의 여행 비용 상승 추세와 대조적으로, 태국은 저렴한 물가와 다양한 관광 명소로 인해 여전히 매력적인 여행지로 평가받고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행 비용 관련 정보는 여행자에게 유용하며, 2026년 전망은 장기 여행 계획에 영향을 줄 수 있으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Defies Global Travel Cost Claims: A Budget Paradise Like No Other in 2026! - Travel And Tour World",
@@ -13124,6 +13117,58 @@
       ],
       "collected_at": "18:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZkUyaEJybnJwTXcwOVRjZENBOHl2Sjd4SXZWZm5rQ2JBV1dPODQ5TXpiYUcyWmN2dnJ5SDlyUDlDWGp6UmVEdllKaW9FNklraFN4LTBjRndfa3ludUxkT2FEQm1MeWt5ZU5icURDWDNzT3V5dTFRQWpubUVFTDBNbUhCS1lVa0dncG1vTFpYbFRSOVFVTmNoUmlZc0RmR2tnVnFIS3cyMWdXRHpxMFJYYWdkZWtWRFZac2FpWW9WMlhjXzNEanNjZFln?oc=5",
+      "source": ""
+    },
+    {
+      "title": "핫야이, 중국 설 연휴 예약 급감으로 관광업계 타격",
+      "summary": "- 핫야이의 중국 설 연휴 기간 호텔 예약률이 작년 대비 60% 급감하여 약 40%에 머무르고 있음.\n- 방문객 수도 예년의 5만~6만 명에 훨씬 못 미치는 2만 5천 명 수준으로 예상됨.\n- 홍수 피해 복구 지연과 말레이시아 관광객 감소, 행사 취소 등으로 약 70억 바트의 관광 손실이 발생할 것으로 추정.",
+      "full_translated": "핫야이 - 핫야이의 중국 설 연휴는 올해 현저히 침체되었습니다. 호텔 및 관광 사업자들은 일요일, 객실 예약이 급감했고 작년 홍수 이후 많은 사업체가 여전히 문을 닫고 있다고 말했습니다. 핫야이-송클라 호텔 협회 회장인 Sitthipong Sitthiphataraprabha는 2026년 축제 기간의 예약률이 약 40%로 작년 대비 60% 급감했다고 밝혔습니다. Matichon Online 보고서에 따르면 방문객 수는 평상시 최고조의 해에 비해 5만~6만 명에 훨씬 못 미치는 2만 5천 명에 불과할 것으로 예상됩니다. 올해 중국 설 연휴는 공식적으로 2월 17일부터 23일까지입니다. Sitthipong 씨는 축제 기간에는 비즈니스 지구의 모든 객실이 가득 찼지만 올해는 도시가 조용하다고 말했습니다. “많은 손님들이 더 잘 준비된 지방으로 이동하기 전에 사원을 방문하기 위해 옵니다.” Sitthipong 씨는 최근 제한적인 홍수 구제 지원으로 핫야이의 복구가 늦어졌으며, 많은 중소기업이 소액 보조금과 대출만 받아 대부분의 상점이 문을 열지 못하고 있다고 말했습니다. 거리 수준 사업체의 약 30%만이 운영되어 도시의 매력을 약화시키고 있습니다. 호텔은 자체 자금으로 대부분 재개장했지만, 도시의 많은 부분이 여전히 폐쇄된 상태에서는 방문객을 유치하기 어렵다고 사업자들은 말합니다. 협회는 홍수 피해, 말레이시아 관광객 감소 및 행사 취소로 인해 약 70억 바트의 관광 손실이 발생할 것으로 추정합니다. Sompol Cheewawattanapong, 전 대통령",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "핫야이 지역의 관광 산업 침체에 대한 정보로, 여행 계획에 영향을 줄 수 있으며, 특히 중국 설 연휴 기간에 여행하는 경우 고려해야 할 사항임.",
+      "event_info": {
+        "date": "2026-02-17",
+        "location": "핫야이",
+        "price": "정보 없음",
+        "location_google_map_query": "핫야이"
+      },
+      "references": [
+        {
+          "title": "Hat Yai tourism reels as Chinese New Year bookings plunge",
+          "url": "https://www.bangkokpost.com/thailand/general/3197888/hat-yai-tourism-reels-as-chinese-new-year-bookings-plunge",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197888_260215181504_700.jpg"
+        }
+      ],
+      "collected_at": "18:43",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197888_260215181504_700.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 시민단체, 선거관리위원회(꼬꼬떠) 해임 촉구 모의 국민투표 진행",
+      "summary": "- 태국 시민단체가 방콕 빠툼완 교차로 스카이워크에서 선거관리위원회(ก.ก.ต.)(꼬.꼬.떠.) 해임에 대한 모의 국민투표를 진행.\n- 2월 15일 17시부터 시작된 행사에는 학생 및 시민 대표들이 참여, ก.ก.ต.(꼬.꼬.떠.)의 책임 있는 자세를 촉구.\n- 경찰 50여 명이 현장에 배치되어 안전을 유지하고 있으며, 투표소, 연설대 등 실제 투표와 유사한 환경 조성.",
+      "full_translated": "시민단체가 상징적인 활동을 조직하여 선거관리위원회(꼬꼬떠.) 해임에 대한 모의 국민투표를 실시합니다. 빠툼완 교차로 스카이워크에서 많은 사람들이 참여하고 있으며, 선거가 헌법에 위배될 가능성이 있은 후 꼬꼬떠.의 책임을 요구하는 성명서가 발표되었습니다. 2026년 2월 15일, 기자들은 학생 및 시민 대표로 구성된 시민단체가 방콕 예술문화센터 근처 빠툼완 사거리 스카이워크에서 선거관리위원회(꼬꼬떠.) 해임을 위한 모의 국민투표를 조직했다고 보도했습니다. 활동 시간은 17시부터 시작되었습니다. 활동 시작 전 분위기는 16시부터 일부 시위자들이 활동 참여를 위해 모이기 시작했으며, 대부분 예술문화센터 앞 집결 지점에서 대기했습니다. 언론도 집회 활동에 대한 뉴스를 보도하기 위해 대기하고 있었습니다. 동시에 빠툼완 경찰서, 진압 부대, 여성 경찰, 이오디 팀 약 50명과 케이나인견이 주변 지역에 배치되어 안전을 유지하고 비정상적인 상황을 감시했습니다. ... 이후 16시 20분에 시위대는 연설용 스피커, 연단, 모의 투표소, 테이블, 펜, 종이, 투표함, 투표 집계용 바구니 등 활동에 필요한 장비를 가져왔습니다. 이는 시민단체의 상징적인 활동에서 선거관리위원회의 선거 및 국민투표 절차를 모방한 것입니다. 오늘 집회 활동은 \"귀하는 선거관리위원회의 해임에 동의하십니까?\"라는 질문으로 모의 국민투표를 실시하는 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "정치적 시위 관련 소식이지만, 여행객의 안전에 직접적인 위협은 아니라고 판단.",
+      "event_info": {
+        "date": "2026-02-15",
+        "location": "빠툼완 교차로 스카이워크, 방콕",
+        "price": "무료",
+        "location_google_map_query": "빠툼완 교차로 스카이워크"
+      },
+      "references": [
+        {
+          "title": "ภาคประชาชนจัดกิจกรรมประชามติจำลอง ชวนคนออกเสียงเห็นชอบสมควรถอดถอน กกต. หรือไม่",
+          "url": "https://www.thairath.co.th/news/politic/2914398",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5mXL7BBHdM22r.jpg"
+        }
+      ],
+      "collected_at": "18:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5mXL7BBHdM22r.jpg",
       "date": "2026-02-15"
     }
   ]
