@@ -12931,14 +12931,9 @@
       "summary": "- 태국이 관광 및 경제 활성화를 위해 비자 규정을 개정했습니다.\n- 60일 무비자 체류가 가능해졌습니다.\n- 디지털 입국 시스템이 도입될 예정입니다.",
       "full_translated": "태국이 관광 및 경제 활성화를 위해 비자 규정을 개정했습니다. 60일 무비자 체류가 가능해지고, 디지털 입국 시스템이 도입될 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 특히 무비자 체류 기간 연장은 큰 영향을 미칩니다. 최신 정보이므로 업데이트 가치가 높습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand revamps visa rules: 60-day visa-free stays, DTV, and digital entry system to boost tourism and economy - MSN",
@@ -12949,21 +12944,18 @@
       ],
       "collected_at": "16:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSjlJWTd1NUJMd1M5LTNYa2pZQXdCVk1ybWFVSU5ZbE5HMG15YVVJdUNKRHNhNXNUSUlRMXRtaEhWU0dvVmlmai1OdUlOSGFZMy1DUXh4a1pzUXdIdWlOS1pUeXl1QXVaMnVUWnBDOFVpd3F5NXZLVG1CejBtb0F5RWlZdzFTbEthNE5HaS1relA5RkJCcGJvTW5jRmpFUl9uQVNKa0xidjN5MkVrQ2ZBOHZMaFcycjExSGtmb0ZUOXRzSUFwSUtKRF9wTDdsQ3p4Tm1Ma2hyTThtSWw4bllZc0x0eHFJN1dHOEtON3F3?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 (VnExpress International)",
       "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축할 예정입니다.\n- VnExpress International에 따르면, 이는 관광객 유치 정책의 일환입니다.\n- 정확한 시행 시기는 아직 발표되지 않았으므로, 여행 계획 시 확인이 필요합니다.",
       "full_translated": "VnExpress International의 보도에 따르면, 태국 정부가 무비자 체류 허용 기간을 60일에서 30일로 단축할 계획이라고 합니다. 이는 관광객 유치 정책의 일환으로, 더 많은 관광객을 유치하기 위한 전략으로 풀이됩니다. \n\n정확한 시행 날짜는 아직 발표되지 않았으므로, 태국 여행을 계획 중인 여행객들은 최신 정보를 주의 깊게 확인해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 매우 중요합니다. 특히 체류 기간 단축은 여행 계획에 큰 변화를 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
@@ -12972,21 +12964,19 @@
         }
       ],
       "collected_at": "16:53",
-      "date": "2026-02-15"
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdi52bmV4cHJlc3MubmV0L3RoYWlsYW5kLXRvLXNsYXNoLXZpc2EtZnJlZS1zdGF5LWZyb20tNjAtdG8tMzAtNDY5MzE5NC5odG1s0gEA?oc=5",
+      "source": ""
     },
     {
       "title": "아시아 전역 항공편 차질 지속: 태국 푸껫 공항 등 항공편 지연",
       "summary": "- 아시아 지역 항공편 운항 차질이 계속되고 있으며, 태국 푸껫 공항도 영향을 받음.\n- 일본, 중국, 인도네시아 등 여러 국가에서 항공편 취소 및 지연 발생.\n- 여행객들은 항공편 운항 정보 확인 및 공항 혼잡에 대비해야 함.",
       "full_translated": "아시아 전역에서 항공편 운항 차질이 지속되고 있습니다. 일본, 중국, 인도네시아, 태국 등 여러 국가의 공항에서 항공편 취소 및 지연이 발생하고 있습니다. 특히 푸껫 공항도 영향을 받고 있어 여행객들의 주의가 필요합니다. 항공사들은 바틱 에어, 가루다, ANA, 젯스타, 스프링 항공, 티베트 항공 등이 있으며, 자카르타, 상하이, 나리타, 푸껫 등의 공항에서 문제가 발생하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "푸껫 공항은 태국 대표적인 관광지이므로 항공편 지연 정보는 여행객에게 중요한 정보. 기존 게시글과 내용 중복되나, '지속'되는 상황을 반영하여 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 공항",
-        "price": null,
-        "location_google_map_query": "푸껫 공항"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 공항', 'price': None, 'location_google_map_query': '푸껫 공항'}",
       "references": [
         {
           "title": "Massive Travel Disruptions Across Asia as Japan, China, Indonesia, Thailand and More Cancel 38 Flights and Delay 1,022, Affecting Airlines Like Batik Air, Garuda, All Nippon, Jetstar, Spring, Tibet Airlines and Others in Jakarta, Shanghai, Narita, Phuket and",
@@ -12995,21 +12985,19 @@
         }
       ],
       "collected_at": "16:53",
-      "date": "2026-02-15"
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": "https://www.travelandtourworld.com/news/asia/massive-travel-disruptions-across-asia-as-japan-china-indonesia-thailand-and-more-cancel-38-flights-and-delay-1022-affecting-airlines-like-batik-air-garuda-all-nippon-jetstar-spring-tibet-airlines-and-others-in-jakarta-shanghai-narita-phuket-and/",
+      "source": ""
     },
     {
       "title": "태국 여행 계획 중이신가요? 새로운 비자 규정으로 더 오래 머무르고 더 쉽게 입국하세요 - economictimes.com",
       "summary": "- 태국 여행을 계획 중이라면 새로운 비자 규정을 확인하세요.\n- 더 오래 머무르고 더 쉽게 입국할 수 있도록 변경되었습니다.\n- 자세한 내용은 economictimes.com에서 확인할 수 있습니다.",
       "full_translated": "태국 여행을 계획하고 계신가요? 새로운 비자 규정으로 인해 더 오랫동안 머무르고 입국이 더 쉬워졌습니다. 자세한 내용은 economictimes.com에서 확인하실 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 특히 입국 절차 간소화는 여행 편의성을 높입니다. 이전 뉴스에서 체류 기간 단축 뉴스가 있었으므로, 상반되는 정보에 대한 확인이 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Planning a Thailand trip? New visa rules allow longer stays and easier entry - economictimes.com",
@@ -13020,6 +13008,58 @@
       ],
       "collected_at": "16:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjdacFRZcGhHQXZqYmxkRnJkbnlMUWtKbGpsSHJXWHhUbHhrMzFkTUhJaFN5QjhtaE41VmpPTnNjMmxac3BYbktZMWNJT0dpcXlsRWhLNURUdjRpTFUzZmhRM25PNEVwbXdfYW5xamtUdW1FMGpMbF9vR3hXVmdNRUw1bDNFZnpGN1JhZ1ZfYTNQOHVZcnlqdjNDNmY5dkNhX056Tjl4TzRvb1BheWx0OERHNUZPYlE3TXYzdmFkbE9yWFdwTFJJRk9fQ0FZUXZJSnZSTURJejRwcm_SAdsBQVVfeXFMUE43WnBUWXBoR0F2amJsZEZyZG55TFFrSmxqbEhyV1h4VGx4azMxZE1ISWhTeUI4bWhONVZqT05zYzJsWnNwWG5LWTFjSU9HaXF5bEVoSzVEVHY0aUxVM2ZoUTNuTzRFcG13X2FucWprVHVtRTBqTGxfb0d4V1ZnTUVMNWwzRWZ6RjdSYWdWX2EzUDh1WXJ5anYzQzZmOXZDYV9Oek45eE80b29QYXlsdDhERzVGT2JRN012M3ZhZGxPclhXcExSSUZPX0NBWVF2SUp2Uk1ESXo0cHJv?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중국 설 연휴 기간 중국인 여행객 유치 경쟁에서 아시아 1위 차지",
+      "summary": "- 태국이 중국 설 연휴 기간 동안 중국인 여행객 유치 경쟁에서 베트남, 한국, 싱가포르 등을 제치고 아시아 1위를 차지했습니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 베트남, 한국, 싱가포르, 말레이시아, 캄보디아 등을 제치고 중국 설 연휴 기간 중국인 여행객 유치 경쟁에서 아시아 1위를 차지했습니다. - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중국 춘절 기간 여행객 유치 1위 정보는 여행객에게 유용한 정보이며, 기존 정보와 중복되지 않음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Beats Vietnam, South Korea, Singapore, Malaysia, Cambodia, and More in Asia, Leading the Race for Chinese Travelers This Lunar New Year - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPTmhLSy1rQ0NPaUJITGZLSGh0ZXhJeVJVbnA5ZmpDcHJja0d3TjNtM3FTTTFiX0xjeGdJenU1OUVqZHZSOFNFb28wTkRsNC1CQWlQUGpQbDFGN1lLNWtud3FEWmNGWGJQLTg3MFRVMjd3bmJvT0pPemJCZnZ5eC0zeHB4d21LSVpKY0xidGVpaktOZ0dWbWtaeVRxSTFxaF9sZzVNVmJJWlBZODd4TlJwdHIzS3A0Z0RYMEFCS3dKdWpzWWU4bDhOZV94YlJjVTVZVjJMRFVCc3ZwOHlQU3ByRGJlWDJSUzhsdmdvOWpBQ1hXMmpCeDBsZFNuY3ZqMmxJbUN4bVVneHNadVp2RzlORFg3bWNKUQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "치앙마이 국경에서 군, 메스암페타민 140만 정 압수... 총격전으로 5명 사망",
+      "summary": "- 치앙마이주 팡 지역 국경에서 태국 군과 마약 밀매 용의자 간 총격전 발생\n- 메스암페타민 약 140만 정 압수, 용의자 5명 사살\n- 정부와 태국 육군은 마약 밀매 단속 강화 정책을 시행 중",
+      "full_translated": "치앙마이 — 2026년 2월 15일, 팡 지역 국경에서 태국 군인들과 충돌 후 약 140만 정의 메스암페타민 알약이 압수되고 용의 마약 밀매업자 5명이 사망했다고 관계자들이 밝혔습니다. 이번 작전은 마약 밀매에 대한 단속을 강화하고, 공급업체와 구매자를 식별하기 위한 조사를 확대하고, 영향을 받는 지역에서 마약을 근절하기 위한 정부 및 태국 육군 정책에 따라 수행되었습니다. 파무앙 태스크 포스의 정보에 따르면 메스암페타민 선적이 국경을 넘어 태국으로 밀수되고 있었습니다. Capt. Jirayus Boonthong이 이끄는 Chaiyanuphap 태스크 포스 산하 4기병 중대(Phadong)의 순찰대와 제3군 지역 작전 센터 산하 3207 중대 Capt. Prakasit Prob-yon이 이끄는 레인저 부대가 Ban San Ju–Huai Nok Kok 지역 인근의 반농파이, 몬핀 하위 지역, 팡 지역에서 합동 순찰을 실시했습니다. 2026년 2월 14일 약 14:30에 군대는 태국 영토로 들어오는 국경을 넘는 마약 운반 용의자 그룹과 마주쳤습니다. 5분 이상 지속된 총격전이 벌어졌습니다. 용의자들은 군사용 무기로 무장한 것으로 알려졌습니다. 현장을 확보하기 위해 증원군이 배치되었습니다. 다음 날 아침 반경 2km를 수색하는 동안 경찰은 용의자 5명이 사망한 것을 발견했습니다. 총 약 1,400,000개의 메스암페타민 알약이 들어 있는 14개의 자루가 해당 지역에서 회수되었습니다. 이번 압수는 Maj.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "마약 관련 사건이지만, 여행객에게 직접적인 위협은 아니라고 판단. 다만 국경 지역 여행 시 주의가 필요할 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": "2026-02-14",
+        "location": "치앙마이주 팡 지역 국경",
+        "price": null,
+        "location_google_map_query": "팡 지역, 치앙마이, 태국"
+      },
+      "references": [
+        {
+          "title": "Five dead as troops intercept 1.4 million meth pills in Chiang Mai border firefight",
+          "url": "https://www.khaosodenglish.com/news/2026/02/15/five-dead-as-troops-intercept-1-4-million-meth-pills-in-chiang-mai-border-firefight/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/7thBag.jpg"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/7thBag.jpg",
       "date": "2026-02-15"
     }
   ]
