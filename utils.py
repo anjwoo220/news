@@ -271,6 +271,33 @@ DURATION_OPTIONS = [
     "장기 여행 (Long-term)"
 ]
 
+def parse_trip_duration(duration_str):
+    """
+    Parses max days from duration string.
+    e.g. "당일치기 (Day Trip)" -> 1
+         "1박 2일 (1 Night 2 Days)" -> 2
+         "3박 4일 (3 Nights 4 Days)" -> 4
+    """
+    import re
+    if "당일" in duration_str or "Day Trip" in duration_str:
+        return 1
+    
+    # Try to find "X일" or "X Days"
+    match = re.search(r'(\d+)\s*일', duration_str)
+    if match:
+        return int(match.group(1))
+    
+    match_en = re.search(r'(\d+)\s*Days', duration_str, re.IGNORECASE)
+    if match_en:
+        return int(match_en.group(1))
+    
+    if "1주일" in duration_str or "1 Week" in duration_str:
+        return 7
+    if "장기" in duration_str or "Long-term" in duration_str:
+        return 14
+    
+    return 3 # Default fallback
+
 def t(key):
     """
     Returns translated text based on st.session_state['language'].
@@ -4759,6 +4786,7 @@ def generate_tour_itinerary(tours, region="방콕", duration="당일치기 (Day 
         return "❌ API Key Missing"
 
     try:
+        max_days = parse_trip_duration(duration)
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel('gemini-2.0-flash')
         
@@ -4780,12 +4808,17 @@ def generate_tour_itinerary(tours, region="방콕", duration="당일치기 (Day 
         {tour_list_str}
         
         [여행 기간]
-        사용자의 여행 기간은 **{duration}** 입니다.
+        사용자의 여행 기간은 **{duration}** (최대 **{max_days}일**) 입니다.
         
+        [CRITICAL RULE]
+        1. **Hard Limit (절대 준수)**: 일정은 반드시 **{max_days}일**을 초과해서는 안 됩니다. (예: 2박 3일이면 Day 3에서 반드시 종료)
+        2. **우선순위 배치**: 만약 선택한 상품들이 {max_days}일 안에 모두 소화하기 너무 많다면, 물리적 거리와 테마가 가까운 순서대로 주요 일정에 배치하고 나머지는 과감히 생략하세요.
+        3. **제외 항목 표시**: {max_days}일 안에 배치하지 못한 남은 상품들은 일정표 맨 마지막에 **"⚠️ 시간 부족으로 제외된 곳 (Skipped)"** 섹션을 만들어 리스트업하고, 왜 제외되었는지 짧게(예: 동선 멀음, 시간 부족 등) 이유를 적어주세요.
+
         [필수 고려사항]
-        1. **일정 배치 및 기간 최적화 (매우 중요)**:
+        1. **일정 배치 및 기간 최적화**:
            - 선택한 투어 상품들을 사용자의 여행 기간(**{duration}**)에 맞춰서 무리하지 않게 적절히 분배해서 배치해주세요.
-           - 만약 선택한 상품이 기간에 비해 너무 많으면 '일정이 빡빡합니다'라고 조언해주고, 너무 적으면 '여유로운 일정입니다'라고 언급해주세요.
+           - 절대 추가적인 날짜(Day {max_days + 1} 등)를 생성하지 마세요.
            - 상품 태그에 **'전일투어'**, **'종일'**이 있거나, 혹은 태그가 없더라도 **아유타야(Ayutthaya), 칸차나부리(Kanchanaburi), 카오야이(Khao Yai) 등 외곽 지역 투어**와 같이 일반적으로 하루가 꼬박 소요되는 '널리 알려진 투어 상품'인 경우, 하루 전체(8~10시간)를 소요하는 것으로 간주하여 그날은 다른 큰 일정을 잡지 마세요.
            - **'반일투어'** 태그가 있거나 시내 사원 투어, 쿠킹 클래스 등 일반적으로 4시간 내외인 상품은 오전 또는 오후 중 하나에 배치하고, 남는 시간에는 가벼운 자유 일정이나 다른 짧은 코스를 결합하세요.
         2. **계절 및 날씨 (중요)**: 
@@ -4793,8 +4826,7 @@ def generate_tour_itinerary(tours, region="방콕", duration="당일치기 (Day 
            - **건기**인 경우, 야외 활동과 풍경 감상을 최대한 즐길 수 있도록 배치하세요.
         3. **교통 체증 및 이동 시간**: {region}의 교통 체증(트래픽 잼)을 고려하여 일정 사이의 이동 시간을 매우 넉넉하게(최소 1~1.5시간 이상) 배치하세요.
         4. **체력 및 피로도**: 여행자의 체력을 고려하여 하루에 너무 많은 투어를 몰아넣지 마세요. '느긋하고 여유로운 여행(Slow Travel)'이 되도록 배치하세요.
-        5. **유연한 기간 설정**: 선택된 투어의 개수와 성격에 따라 1~5일 이상의 장기 일정으로 자연스럽게 확장하여 구성하세요.
-        6. **식사 및 휴식**: 매일 적절한 점심, 저녁 식사 시간과 중간 휴식 시간을 반드시 포함하세요.
+        5. **식사 및 휴식**: 매일 적절한 점심, 저녁 식사 시간과 중간 휴식 시간을 반드시 포함하세요.
         
         [출력 형식]
         - 날짜별로 구분하여 출력하세요 (예: Day 1, Day 2...).
