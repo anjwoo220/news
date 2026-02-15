@@ -12557,14 +12557,9 @@
       "summary": "- 태국 국영철도(SRT)에 따르면 태국-중국 고속철도 1단계 공사가 51.74% 진행됨.\n- 방콕과 나콘라차시마를 연결하는 1단계 프로젝트 총 투자액은 1,794억 1천만 바트.\n- 상업 운행은 2030년에 시작될 예정이며, 250.77km 구간 중 188.68km는 고가, 54.09km는 지상, 8km는 터널로 건설.",
       "full_translated": "태국-중국 고속철도 프로젝트 1단계 공사가 51.74% 진행되었다고 태국 국영철도(SRT)가 밝혔습니다. 아난 폰임댕 SRT 총재 대행은 아유타야의 치앙락노이 역에서 열린 상원 교통위원회의 방문에서 이 업데이트를 제공했습니다. 아난 씨는 클롱동-팡아속 구간과 시키우-쿠트칙 구간을 포함한 두 개의 계약이 완료되었으며 다른 10개 구간에서 건설이 진행 중이라고 말했습니다. 방수-돈므앙 및 반포-프라깨오 구간을 포함하는 다른 두 계약은 아직 서명되지 않았다고 그는 말했습니다. 아난 씨는 SRT가 엔지니어링 및 안전 표준을 유지하면서 계약자가 타임라인을 엄격히 준수하도록 지시했다고 말했습니다. 방콕과 나콘라차시마를 연결하는 프로젝트 1단계는 총 투자액이 1,794억 1천만 바트로, 14개의 건설 계약과 1개의 열차 시스템 계약으로 구성됩니다. 250.77km 노선의 대부분인 약 188.68km는 평면 교차로를 줄이고 안전을 강화하기 위해 고가로 건설되며 54.09km는 지상으로 운행됩니다. 무악렉과 람타콩에 위치한 두 개의 터널은 총 8km 거리에 걸쳐 있습니다. 경로를 따라 크룽텝 아피왓, 돈므앙, 아유타야, 사라부리, 팍총 및 나콘라차시마의 6개 주요 역이 있습니다. 상업 운행은 2030년에 시작될 예정입니다. 나콘라차시마에서 농카이까지 운행하는 2단계는 내각의 승인을 받았고",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 시 교통 정보는 중요하며, 고속철도 개통은 장기적으로 여행에 큰 영향을 미치므로 정보 제공 가치 있음. 현재 공정률 및 개통 예정 시기는 여행 계획에 참고할 만한 정보.",
-      "event_info": {
-        "date": "2030",
-        "location": "Krung Thep Aphiwat, Don Mueang, Ayutthaya, Saraburi, Pak Chong, Nakhon Ratchasima",
-        "price": "Unknown",
-        "location_google_map_query": "Krung Thep Aphiwat Railway Station"
-      },
+      "event_info": "{'date': '2030', 'location': 'Krung Thep Aphiwat, Don Mueang, Ayutthaya, Saraburi, Pak Chong, Nakhon Ratchasima', 'price': 'Unknown', 'location_google_map_query': 'Krung Thep Aphiwat Railway Station'}",
       "references": [
         {
           "title": "Thai–Chinese high-speed rail phase 1 hits 51%",
@@ -12575,21 +12570,18 @@
       ],
       "collected_at": "14:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197473_260215065948_700.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.bangkokpost.com/thailand/general/3197473/thaichinese-highspeed-rail-phase-1-hits-51",
+      "source": ""
     },
     {
       "title": "태국 당국, 2억 2천만 바트 상당의 가짜 상품 42,000개 압수",
       "summary": "- 태국 세관 당국이 1월 13일부터 2월 6일까지 2억 2,300만 바트 상당의 위조품 및 불량품 42,451개를 압수했습니다.\n- 압수된 제품은 주로 루이비통, 디올, 구찌, 프라다, 발렌시아가 등 유명 브랜드의 가방, 신발, 시계, 향수와 자동차 부품, 태양열 램프 등입니다.\n- 당국은 지적 재산권 침해 단속을 강화하고 있으며, 작년 10월 1일부터 2월 6일까지 상표 및 저작권 침해 관련 38건을 처리하여 8억 8,500만 바트 이상의 피해를 추정하고 있습니다.",
       "full_translated": "세관 당국은 1월 13일부터 2월 6일까지 약 2억 2,300만 바트 상당의 위조품 및 불량품 42,451개를 압수했다고 정부 대변인 아이야린 판릿이 밝혔습니다. 당국은 지적재산권부, 세관부, 태국산업표준원 간의 합동 작전에서 총 42,451개의 품목을 압수했습니다. 압수된 제품의 대부분은 루이비통, 디올, 구찌, 프라다, 발렌시아가 등 유명 브랜드의 가방, 신발, 시계, 향수와 자동차 부품, 태양열 램프 등이었습니다. 당국은 지적 재산권 침해에 대한 단속을 강화했습니다. 작년 10월 1일부터 2월 6일까지 상표 및 저작권 침해 관련 38건을 처리했으며, 추정 피해액은 8억 8,500만 바트를 초과합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "위조품 단속 강화는 여행객들의 소비 활동에 영향을 줄 수 있으며, 특히 명품 구매 시 주의가 필요함을 알립니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Officials seize 42,000 fake goods worth B220m",
@@ -12600,21 +12592,18 @@
       ],
       "collected_at": "14:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197729_700.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.bangkokpost.com/thailand/general/3197729/officials-seize-42000-fake-goods-worth-b220m",
+      "source": ""
     },
     {
       "title": "태국 총선, 유권자들은 선관위에 만족하지만 부정행위 처벌 능력에는 의문 - NIDA 여론조사",
       "summary": "- NIDA 여론조사 결과, 태국 유권자들은 선거관리위원회의 선거 운영에 대체로 만족하는 것으로 나타났습니다.\n- 그러나 부정행위가 발생했다고 의심하는 유권자 대다수는 선관위가 부정행위자를 처벌할 수 있을지에 대해 회의적인 반응을 보였습니다.\n- 선거관리위원회의 능력에 대한 회의론은 여전하지만, 유권자들은 대체로 선거 진행 방식에 대해 긍정적으로 평가하는 것으로 나타났습니다.",
       "full_translated": "국립개발행정연구원(NIDA)의 여론조사에 따르면 대부분의 태국 유권자들은 선거관리위원회(EC)가 2월 8일 총선을 관리한 방식에 대해 최소한 어느 정도 만족하고 있지만, 부정행위가 의심되는 대다수는 선관위가 선거 부정행위자를 처벌할 수 있다고 믿지 않습니다. '선관위가 선거 부정행위자를 처벌할 수 있는가?'라는 제목의 이 여론조사는 2월 11~12일 전국 18세 이상 유권자 1,310명을 대상으로 실시되었습니다. 최근 투표에서 자신의 선거구에서 선거 부정행위가 발생했다고 생각하는지 묻는 질문에 응답자들은 다음과 같이 답했습니다. 여론조사관은 그런 다음 자신의 선거구에서 부정행위가 '확실히' 또는 '가능성'이 있다고 믿는 477명의 응답자에 초점을 맞췄습니다. 이 하위 그룹에서 잘못을 저지른 사람에게 책임을 물을 수 있는 선관위의 능력에 대한 신뢰도는 현저히 낮았습니다. 응답자들은 또한 선관위가 자신의 선거구에서 선거를 어떻게 수행했는지에 대한 만족도에 대해 질문을 받았습니다. 견해는 엇갈렸지만 긍정적인 경향을 보였습니다. 이번 조사 결과 유권자들은 선관위의 선거 관리에 대해 대체로 긍정적으로 평가하면서도 부정행위 혐의자에 대한 선거법 집행 능력에 대해서는 여전히 회의적인 시각을 갖고 있는 것으로 나타났습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거에 대한 여론은 여행 자체에 큰 영향을 미치지는 않지만, 정치적 안정성은 여행 환경에 간접적으로 영향을 줄 수 있으므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Nida poll: Voters satisfied with EC but doubt its ability to punish fraud",
@@ -12625,21 +12614,18 @@
       ],
       "collected_at": "14:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197800_700.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.bangkokpost.com/thailand/general/3197800/nida-poll-voters-satisfied-with-ec-but-doubt-its-ability-to-punish-fraud",
+      "source": ""
     },
     {
       "title": "프아타이당, 연립 정부 참여: 국민을 위해 일할 기회 확대, 품짜이타이당의 일부가 되는 것 부인",
       "summary": "- 프아타이당이 연립 정부에 참여하여 국민을 위한 문제 해결에 더 많은 기회를 얻게 되었다고 밝혔습니다.\n- 이는 국민의 선택에 대한 책임감 있는 결정이라고 강조했습니다.\n- 품짜이타이당의 일부가 되는 것을 부인하며, 국민을 위한 정책 추진 의지를 밝혔습니다.",
       "full_translated": "프아타이당의 줄라판 대표는 프아타이당(푸타.)이 품짜이타이당(퐁타.)과 함께 정부를 구성하기로 한 후 페이스북을 통해 다음과 같이 밝혔습니다. 프아타이당은 태국이 국민에게 기회와 안정, 더 나은 삶을 제공하는 국가가 될 수 있도록 전력을 다해 노력해 왔습니다. 우리는 태국 국민이 우리를 신뢰하여 정부 권력을 잡고 정책을 실행할 기회를 주기를 희망하며 선거 운동을 진행하고 정책을 제시했습니다.\n\n줄라판 대표는 계속해서 다음과 같이 밝혔습니다. 그러나 선거 결과, 우리는 충분한 표를 얻지 못했습니다. 이는 국민의 잘못이 아닙니다. 국민이 우리를 충분히 선택하지 않은 것은 우리가 존중하고 숙제로 삼아 우리의 정책 중 어떤 부분이 아직 해결책이 되지 못하는지, 그리고 앞으로 국민의 신뢰에 부응하기 위해 어떻게 개선할 것인지 검토해야 할 부분입니다. 동시에 국민이 품짜이타이당을 1위로 선택하고 2위와 상당한 표 차이를 보인 것은 우리가 존중해야 할 결정입니다. 왜냐하면 이것이 민주주의 체제에서 국민의 목소리이기 때문입니다.\n\n“3위 정당으로서 우리는 정부에 참여할지 야당이 될지 신중하게 고려해야 하며, 어느 쪽이 국민을 위해 진정으로 봉사할 수 있는 길인지 스스로에게 질문해야 합니다. 신중하게 고려한 결과, 연립 정부에 참여하는 것이 국민을 위해 문제를 해결할 기회를 더 많이 제공한다는 결론을 내렸습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เพื่อไทยร่วมรัฐบาล มีโอกาสทำงานให้ประชาชนได้มากกว่า ปัดกลายเป็นส่วนหนึ่งของภูมิใจไทย",
@@ -12650,21 +12636,18 @@
       ],
       "collected_at": "14:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5raBUgHMJePDU.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2914371",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 투표자 정보 공개 시 처벌 경고",
       "summary": "- 태국 선거관리위원회는 투표자의 개인 정보 보호를 강조하며 관련 법규 준수를 촉구.\n- 투표소 관계자가 투표자 정보를 공개할 경우 1년 이하의 징역 또는 2만 바트 이하의 벌금 부과 가능.\n- 투표의 자유와 비밀 보장을 위해 투표 정보는 엄격히 보호될 것이라고 강조.",
       "full_translated": "태국 선거관리위원회(꼬꼬떠.)는 투표소 관계자가 투표자의 세부 정보를 공개하는 것은 위법 행위임을 강조하며, 선거의 기본 원칙인 '직접 및 비밀 투표'를 준수할 것을 강조했습니다. 선거관리위원회는 2069년 2월 15일, 투표자의 비밀을 보호하는 법적 안전장치를 홍보하여 투표가 직접적이고 비밀리에 진행될 것이라는 확신을 심어주려 합니다. 2017년 태국 왕국 헌법 146조와 2018년 하원 의원 선거법 및 그 수정안에 따르면, 투표 시간 동안 투표소 관계자(꼬뻐너.)가 후보자 또는 정당에 유리하거나 불리하게 하기 위해 투표자 정보를 공개하는 경우, 1년 이하의 징역 또는 20,000바트 이하의 벌금 또는 둘 다에 처해질 수 있습니다. 투표 참여 정보는 법으로 보호되며 공개가 엄격히 금지되어 있습니다. 이는 투표자의 의사 결정의 자유를 보호하고 선거 과정에서의 압력이나 간섭을 방지하기 위함입니다. 선거관리위원회는 선거가 '직접 및 비밀 투표' 원칙 하에 진행되며, 모든 단계에서 법적 조치가 명확하게 뒷받침되어 투표자가 자신의 정보와 결정이 법에 따라 보호된다는 확신을 가지고 권리를 행사할 수 있도록 보장합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "선거 관련 정보이지만, 외국인 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. ย้ำ กปน. เผยรายละเอียดคนมาใช้สิทธิมีความผิด ยัน กฎหมายห้ามเปิดเผย",
@@ -12675,6 +12658,83 @@
       ],
       "collected_at": "14:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5q7VrHbx13lrt.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2914340",
+      "source": ""
+    },
+    {
+      "title": "나라티왓 연쇄 폭탄 테러 여파, 얄라 지역 보안 강화",
+      "summary": "- 나라티왓에서 발생한 7건의 폭탄 테러로 인해 얄라 지역의 보안이 최고 수준으로 강화되었습니다.\n- 얄라 지방 경찰은 검문소와 검문 지점에서 의심스러운 인물과 차량에 대한 검사를 강화하라는 긴급 명령을 내렸습니다.\n- 이번 보안 강화 조치는 다가오는 중국 설날 축제 기간 동안 치안 유지 및 안전 확보를 목표로 합니다.",
+      "full_translated": "얄라 — 2026년 2월 15일, 지난 48시간 동안 이웃 나라티왓에서 7건의 연쇄 폭탄 공격이 발생한 후 얄라에서 보안 노력이 강화되었습니다. 얄라 지방 경찰청은 2026년 2월 14~15일 나라티왓의 7개 지역에서 반군이 조직적인 폭탄 공격을 감행한 후 보안 수준을 최고 수준으로 끌어올렸습니다. 부상자는 보고되지 않았지만 당국은 추가 폭력 행위를 방지하고 남부 국경 지역 전반에 걸쳐 질서를 유지하기 위해 경계를 강화하고 있습니다. 얄라 지방 경찰청장 콩-아트 수완나캄(Kong-at Suwannakham) 경찰 총경은 모든 검문소와 검문소에 배치된 보안 요원에게 의심스러운 개인과 차량에 대한 검사를 강화하라는 긴급 명령을 내렸습니다. 경찰관들은 또한 표적이 되지 않도록 근무 중 경계를 강화하라는 지시를 받았습니다. 강화된 보안 조치는 다가오는 중국 설날 축제 기간 동안 대중의 신뢰를 높여 축제에 참여하는 태국-중국 주민의 안전을 보장하는 것을 목표로 합니다. 당국은 또한 다가오는 라마단 기간 동안 태국 무슬림 공동체가 금식 성월에 진입할 때 편의를 제공하고 보호할 준비를 하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "테러 발생 지역 인근의 보안 강화는 여행객 안전에 영향을 미칠 수 있으므로 높은 점수를 부여함. 특히 중국 설 연휴 기간 여행객에게 주의 필요.",
+      "event_info": {
+        "date": "2026-02-14",
+        "location": "나라티왓, 얄라",
+        "price": null,
+        "location_google_map_query": "나라티왓 얄라"
+      },
+      "references": [
+        {
+          "title": "Seven Narathiwat bombings prompt heightened security in Yala",
+          "url": "https://www.khaosodenglish.com/news/2026/02/15/seven-narathiwat-bombings-prompt-heightened-security-in-yala/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/600x900security-checkpoint.jpg"
+        }
+      ],
+      "collected_at": "15:22",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/600x900security-checkpoint.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "푸껫 상점, 40바트 입장료 부과 논란…중국 소셜 미디어 분노",
+      "summary": "- 푸껫 올드타운 상점에서 중국인 관광객에게 40바트 입장료를 요구해 논란 발생.\n- 관광객이 지불을 거부하자 상점 직원이 부적절한 언행과 인종차별적 제스처를 사용했다는 주장 제기.\n- 중국 및 태국 네티즌들은 태국 관광 이미지에 대한 잠재적 손상에 우려를 표명.",
+      "full_translated": "푸껫 – 2026년 2월 15일, 푸껫 올드타운의 한 상점에서 방문객에게 40바트의 입장료를 부과하는 영상이 중국 소셜 미디어에서 거센 비판을 불러일으키며 당국의 조사를 촉구하고 태국 관광 이미지에 미치는 영향에 대한 우려를 불러일으켰습니다. 페이스북 페이지 푸껫 타임즈는 2026년 2월 15일에 푸껫 올드타운 탈랑 로드에 있는 상점 내부에서 촬영된 영상 클립이 온라인에 공유된 후 논란이 중국 플랫폼, 특히 더우인에서 널리 퍼졌다고 보도했습니다. 게시물에 따르면 상점 안의 한 노파가 중국인 관광객에게 입장하여 제품을 둘러보는 데 40바트의 요금을 요구했습니다. 방문객이 지불을 거부하자 그녀는 부적절한 언어를 사용하고 관광객들 사이에 분노를 일으키는 조롱 및 인종적으로 모욕적인 것으로 인식되는 제스처를 취한 것으로 알려졌습니다. 클립이 유포된 후 중국과 태국의 사용자 모두로부터 광범위한 비판을 받았습니다. 많은 사람들이 태국 관광 평판에 대한 잠재적 손상에 의문을 제기하는 반면, 다른 사람들은 그러한 사건이 국가의 주요 시장인 중국 여행객의 신뢰를 약화시킬 수 있다고 경고했습니다. 일부 온라인 댓글은 방문객에 대한 지역 태도에 불만을 표명했으며 여러 사용자는 탈랑 로드의 다른 દુકાन에서도 유사한 사례가 발생했다고 주장했습니다. 다른 사람들은 이러한 성격의 사건으로 인해 관광객이 대체 목적지를 선택하게 될 수 있다고 말했습니다. 비디오를 검토한 결과 노파가 관광객과 대화하고 시청자가 부적절하다고 묘사한 방식으로 제스처를 취하는 모습이 보입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 대상 바가지 요금 및 불쾌한 경험은 태국 여행에 부정적인 영향을 미칠 수 있으므로 중요.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 올드타운 탈랑 로드",
+        "price": "40 바트",
+        "location_google_map_query": "푸껫 올드타운 탈랑 로드"
+      },
+      "references": [
+        {
+          "title": "Phuket shop’s 40-baht entry fee sparks online fury",
+          "url": "https://www.khaosodenglish.com/news/2026/02/15/phuket-shops-40-baht-entry-fee-sparks-online-fury/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Phuket-shops-40-baht-entry-fee-sparks-online-fury.jpg"
+        }
+      ],
+      "collected_at": "15:22",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Phuket-shops-40-baht-entry-fee-sparks-online-fury.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 교도소, 원숭이 두창 감염 사망자 발생 후 추가 감염 사례 아직 발견되지 않아",
+      "summary": "- 태국 교정 당국은 원숭이 두창으로 인한 수감자 사망 이후 추가 감염 사례는 없다고 발표함.\n- 위험군에 대한 백신 접종을 준비 중이며, 2월 13일부터 감염 통제 및 예방 조치를 시행하고 있음.\n- 현재까지 원숭이 두창 관련 증상을 보이는 수감자는 없으며, 모든 교도소는 보건부의 지침을 엄격히 준수하고 있다고 밝힘.",
+      "full_translated": "교정국은 최근 수감자 사망 사례 발생 이후 '원숭이 두창' 감염 사례가 추가로 발견되지 않았다고 밝혔으며, 위험군에 대한 백신 접종을 준비 중이다. 2069년 2월 15일, 교정국 대변인인 유타나 나크루앙스리 부국장은 수감자의 원숭이 두창 사망 사건과 관련하여 현재 Thonburi 특별 교도소가 관련 기관, 즉 교정 병원, 공중 보건부, 질병 통제국과 협력하여 2월 13일부터 감염 통제 및 예방 조치를 긴밀히 시행하고 있다고 밝혔다. 또한 Thonburi 특별 교도소 수감자들의 이상 징후를 지속적으로 검사하고 있으며, 2069년 2월 13일부터 21일 동안 감시를 실시할 예정이다. 현재까지 원숭이 두창 관련 증상을 보이는 수감자는 없으며, 2069년 2월 16일 교정국은 질병 통제국과 협력하여 위험군 및 사망자와 밀접 접촉한 수감자와 직원에게 백신을 접종할 예정이다. 모든 교도소는 질병 통제국의 조치에 따라 교정국이 지시한 원숭이 두창(MPox) 진단, 치료, 감시 및 예방 지침을 엄격히 준수하고 있으며, 모든 교도소는 안전하며 원숭이 두창이 확산되지 않고 있음을 확인한다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 감염병 관련 정보이므로 업데이트 차원에서 포함. 발생 가능성은 낮으나 인지하고 대비할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"ราชทัณฑ์\" ยังไม่พบป่วยเพิ่ม หลังมีผู้ต้องขังติดเชื้อ \"ฝีดาษลิง\" เสียชีวิต",
+          "url": "https://www.thairath.co.th/news/local/2914377",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5raK9SUDfypRz.jpg"
+        }
+      ],
+      "collected_at": "15:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5raK9SUDfypRz.jpg",
       "date": "2026-02-15"
     }
   ]
