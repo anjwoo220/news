@@ -14745,14 +14745,9 @@
       "summary": "- 인도 관광객이 수하물에 숨겨 멸종 위기에 처한 원숭이를 밀반입하려다 태국 공항에서 적발됨.\n- 해당 관광객은 동물 밀수 혐의로 기소될 예정이며, 원숭이들은 야생 동물 보호 센터로 옮겨질 예정임.\n- 태국은 야생 동물 밀매에 대한 처벌이 엄격하며, 여행객들은 관련 법규를 숙지해야 함.",
       "full_translated": "인도 관광객이 태국 공항에서 멸종 위기에 처한 원숭이를 수하물에 숨겨 밀반입하려다 적발되었습니다. 이 관광객은 동물 밀수 혐의로 기소될 예정이며, 원숭이들은 야생 동물 보호 센터로 옮겨질 예정입니다. 태국은 야생 동물 밀매에 대한 처벌이 엄격하며, 여행객들은 관련 법규를 숙지해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "야생동물 밀반입은 심각한 범죄이며, 여행객들이 주의해야 할 사항이므로 정보 제공 가치가 높음. 공항 이용 시 주의를 요하는 사항.",
-      "event_info": {
-        "date": null,
-        "location": "태국 공항",
-        "price": null,
-        "location_google_map_query": "태국 공항"
-      },
+      "event_info": "{'date': None, 'location': '태국 공항', 'price': None, 'location_google_map_query': '태국 공항'}",
       "references": [
         {
           "title": "Indian tourist caught smuggling endangered monkeys hidden in luggage at Thailand airport - MSN",
@@ -14761,23 +14756,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:18",
+      "collected_at": "6:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNSm5MYUpJVlh4NGNUbllQZXhkME5ENTNTS3R4VHJ6VlNxbXJIZjM1UFY0SmltR3o0cVN5Q0JlelZ0YTlENmVPUmhMTkliZzM5U3J4NTFtS2FtZGNyTFZwVkEtOGdCS1VycDJ6cW5faE1iM2ZTbVlXS0ZqbDlLLWM4LUdxUXRtR0ZHOWxhTWlpdDVIdS1oQ2pTbTFOWEpObzR6bGNHS3k1YVlCLTlIRWJLT0lZLUE4clJFb3FNTGdreG9LVlNnNjBzaUdSUlVTdDlyVUEwRlBwRHIwRmpyNnRPTmE2UWMwTVVQTXZCWURlZ2xiOGRCT1ZUOEM5NlhIdTBUVVhCeGd2Z2JBWm9xamZtOGtoOGtBS0VaOVZ0d2pRTl9pWDBRb1ZYcnREdFR6N2M1azU1N043THppNFREOTZuSXk4di1LUHhjNnA4cjV2djN4ZmVRWjY3Y0F6dVBscE4yRHFHYlp5Zmc1Zw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 내각, 비자 개편 승인",
       "summary": "- 태국 내각이 비자 정책 변경을 승인했습니다.\n- 구체적인 변경 사항은 아직 명확하지 않습니다.\n- 여행 및 관광 관련 변경 사항을 주시해야 합니다.",
       "full_translated": "태국 내각이 비자 개편을 승인했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요한 업데이트입니다. 세부 사항 확인 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai cabinet endorses visa revamp - MSN",
@@ -14786,23 +14778,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:18",
+      "collected_at": "6:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWN6WGViOTlGQ2ZNRm44RHNZZjR2Zno4Rm9jUzQyaDVUYmxuRnBkbzdwWHZyUWJqVV9xeS1lVlN3bmVXbzVFV2ZYbHUzajhMMTNwb0l4NmJqMmRkcXVDWXlrZkZ0RFFHcExfUHZtNlZJNjZFUUJYUW1WS1VCaHdIV256U2NaLWFmbUE?oc=5",
+      "source": ""
     },
     {
       "title": "치앙라이, 관광 활성화를 위해 매수아이 업그레이드 가속화",
       "summary": "- 치앙라이가 매수아이 지역의 관광 활성화를 위해 업그레이드를 가속화하고 있습니다.\n- 구체적인 업그레이드 내용은 기사에서 더 자세히 확인할 수 있습니다.\n- 여행객들은 개선된 관광 인프라를 통해 더욱 편리하고 즐거운 여행을 경험할 수 있을 것으로 기대됩니다.",
       "full_translated": "치앙라이가 매수아이 업그레이드를 가속화하여 관광을 활성화합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "치앙라이 지역 관광 인프라 개선에 대한 정보로, 여행객에게 소소한 편의를 제공할 수 있어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "Mae Suai, Chiang Rai",
-        "price": null,
-        "location_google_map_query": "Mae Suai, Chiang Rai"
-      },
+      "event_info": "{'date': None, 'location': 'Mae Suai, Chiang Rai', 'price': None, 'location_google_map_query': 'Mae Suai, Chiang Rai'}",
       "references": [
         {
           "title": "Chiang Rai Speeds Up Mae Suai Upgrades To Boost Tourism - Chiang Rai Times",
@@ -14811,23 +14800,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:18",
+      "collected_at": "6:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBSZVpMM2xyczhBWm9UVVZIZHV6UFhkQ2ZJSnRDdndITVNQaUtacWJidDE2NlU2bHFySDAwM3FtS2lzdjc0UHRvNWI4LVdkZm1rMXZXNjRJdlJ6bHVBOGUwNGJHeFJEeE81dmZINmt2Y2syVUtpbFpQU0R3?oc=5",
+      "source": ""
     },
     {
       "title": "외국인 관광객, 신성한 장소에서 성관계 중 물벼락 맞아",
       "summary": "- 캄보디아 호텔 직원이 신성한 장소에서 성관계를 갖던 외국인 관광객에게 물을 뿌린 사건 발생.\n- 해당 행위는 신성 모독으로 여겨져 논란이 일고 있음.\n- 사건 발생 장소와 관련된 추가 조사가 필요.",
       "full_translated": "캄보디아 호텔 직원이 신성한 장소에서 성관계를 갖던 외국인 관광객에게 물을 뿌린 사건이 발생했습니다. 이 행위는 신성 모독으로 여겨져 논란이 되고 있으며, 사건 발생 장소와 관련된 추가 조사가 필요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국은 아니지만, 유사한 문화적 배경을 가진 국가에서 발생한 사건으로, 태국 여행 시에도 공공장소에서의 예절에 대한 주의를 환기시킬 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Randy foreign tourist hosed down by Cambodian hotel employee having sex under a spirit house on grounds - Thai Examiner",
@@ -14836,23 +14822,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:18",
+      "collected_at": "6:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUWctQWxaSkNkaDdoNlhWRURTRTVyQTg3b2txdl9kMUtGd09UYktySU5iTXZ2bGhsS3dlQWRWRjkxWFJYM2dOSmE0VllIU3FZakhxSElUUmJRQkw1VXQzalp3ZzhNVlEtM1Z2TjJHeGVlZ2t0THdnZXlXMG1MbTRmU1JKTUdKSjlLQjd3Ml9YNmpCZ3VkbXlSWF80NmFxdE1zbmFEMmhwQ2xCUTZvbEhkQ1I3MktmOUlNelBTME1LSWxDWnl1aTJIbEtmd0NGWFNBc2JEOXBsc1JWM1dta0NkM0NKVUcwSF9EbHd2TFY4SDdpMVIwdTk3OQ?oc=5",
+      "source": ""
     },
     {
       "title": "우크라이나 前 에너지부 장관, 국외 도피 시도 중 체포",
       "summary": "- 우크라이나 前 에너지부 장관이 국외 도피 시도 중 체포됨.\n- 부패 혐의로 해임된 후, 우크라이나 당국에 의해 체포됨.\n- 현재 키이우로 이송되어 추가 조사 예정.",
       "full_translated": "우크라이나 당국은 前 에너지부 장관이 국외로 도피하려다 체포되었다고 발표했습니다. 이는 우크라이나의 부패 척결 노력의 일환으로 이루어졌습니다. 외신 보도에 따르면 2015년 부패 스캔들로 해임된 게르만 갈루셴코 前 에너지부 장관이 우크라이나를 떠나려던 기차 안에서 체포되었습니다. 그가 어디로 가려 했는지는 아직 불분명합니다. 우크라이나 국가부패방지국(NABU)은 일요일 성명을 통해 수사관들이 '국경을 넘으려던' 前 에너지부 장관을 구금했다고 밝혔습니다. 이 작전은 '마이다스 작전'의 일환으로 진행되었습니다. 성명은 갈루셴코의 이름을 명시적으로 언급하지 않았지만, 우크라이나 주요 언론 매체들은 이 남성이 갈루셴코라고 보도했습니다. NABU는 갈루셴코의 구금에 대한 추가적인 세부 사항을 제공하지 않았지만, 추후 진행 상황에 대한 정보를 제공할 것이라고 밝혔습니다. Radio Free Europe은 갈루셴코가 이민국 관리들에게 그가 도피를 시도할 경우 당국에 알리라는 지시가 내려진 후 추가 조사를 위해 키이우로 이송되었다고 보도했습니다. 갈루셴코는 2015년 1억 달러 규모의 자금 횡령 계획에 연루된 것으로 알려진 우크라이나 정부 고위 인사 중 한 명입니다. 이 스캔들은 러시아의 전면적인 침공 직전에 권력을 잡았고 부패 척결을 약속한 볼로디미르 젤렌스키 우크라이나 대통령 정부에 영향을 미칠 것으로 예상됩니다. 앞서 젤렌스키 대통령의 비서실장이자 핵심 측근인 안드리 예르막도...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에 직접적인 영향은 없으나, 국제 정세에 대한 정보 제공 차원에서 포함. 우크라이나 관련 뉴스는 테러, 전쟁 등 여행 안전에 영향을 줄 수 있으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อดีต รมต.พลังงานยูเครน ถูกจับกุมขณะพยายามหลบหนีออกจากประเทศ",
@@ -14861,8 +14844,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGTiJbysFJeLlj.jpg"
         }
       ],
-      "collected_at": "06:18",
+      "collected_at": "6:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGTiJbysFJeLlj.jpg",
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/foreign/2914428",
+      "source": ""
+    },
+    {
+      "title": "코팡안에서 5천만 바트 상당의 마약 소지 이스라엘 남성 체포",
+      "summary": "- 코팡안에서 이스라엘 남성이 5천만 바트 상당의 마약 소지 혐의로 체포됨.\n- 태국 당국은 마약 관련 범죄에 대한 단속을 강화하고 있음.\n- 여행 시 마약 관련 법규 위반에 주의해야 함.",
+      "full_translated": "코팡안에서 이스라엘 남성이 5천만 바트 상당의 마약 소지 혐의로 체포되었습니다. 태국 당국은 마약 관련 범죄에 대한 단속을 강화하고 있으며, 여행 시 마약 관련 법규 위반에 주의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 내 마약 관련 범죄 단속 강화는 여행객에게 영향을 미칠 수 있으며, 특히 코팡안을 방문하는 여행객은 주의가 필요함. 범죄 관련 소식은 여행 안전에 대한 인식을 높이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "코팡안",
+        "price": null,
+        "location_google_map_query": "Koh Phangan"
+      },
+      "references": [
+        {
+          "title": "Israeli man arrested in Koh Phangan with drugs worth 50 million baht - Thaiger",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTnBka3ZUbGpmRS1Ud2dIc3BJQXR5a0JCV2JSS3JIa1BpclFDMUpIUXhFYlFuQVpTWGpyLW5wTXVwZXpQWkYtTGNZdG1SRzlQX0RvU1JLTV8xZGlvSXVnZVQzV0lFN1EzYVNPekF4VWVad0c1bTlnTWx0QlM3OGluTTRtb2ZmWkdaT3ltZjRsVkxCa1hFTlRIOVRsdmFZbjBNUVIzMkpUaXI?oc=5",
+          "source": "Thaiger",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "고령 부부, 5시간 만에 관광 경찰 도움으로 코랏에서 재회 - 기쁨의 눈물",
+      "summary": "- 고령 부부가 코랏에서 5시간 동안 헤어진 후 관광 경찰의 도움으로 재회했습니다.\n- 부부는 무사히 재회하여 기쁨의 눈물을 흘렸습니다.\n- 관광 경찰의 신속한 대처가 돋보였습니다.",
+      "full_translated": "고령 부부가 코랏에서 5시간 동안 헤어진 후 관광 경찰의 도움으로 재회하며 기쁨의 눈물을 흘렸습니다. Thai Examiner",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 중 발생할 수 있는 안전 문제에 대한 정보를 제공하며, 관광 경찰의 역할에 대한 인식을 높입니다. 노인 여행객에게 특히 유용한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": "코랏",
+        "price": null,
+        "location_google_map_query": "코랏"
+      },
+      "references": [
+        {
+          "title": "Tears of joy as elderly couple are reunited by Tourist Police in Korat after five hour separation ordeal - Thai Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXFpZlJ1aTdTc0k4WUtsX2RNTldRRzhJYUxLVDBmZlM3cXVCbzVSNTJJZndDeXNyM2FYMjh2bUd4UlRpN1FPTTNoVV9CbFIyQ3ExRXFVVTlnaV9MN20yakluRmpHUWFvZjUtd09JZjdrUXZndmVpMjVwZV9IY3lRYzM3WkV4VHVhdThwNmtfUHB4Mkc0WEpwUFVPRjdtU3dhU0NhU0NhbHZ5MWZXbDZpRmZxZlZZVk12V0RkejcxRTZNUmwwdDFBWFNiUHBDXzcwblhyV0g2ajdRaVV4Wkp4X1RIV3MzQ3RYOWszY3c0Yk84RXBfa1FFRmNR?oc=5",
+          "source": "Thai Examiner",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 EEC 전력 시스템 업그레이드에 310억 바트 투자",
+      "summary": "- 태국 전력청(Egat)은 동부경제회랑(EEC)의 전력 전송 시스템 업그레이드를 위해 310억 바트를 투자합니다.\n- 이는 데이터 센터 개발 프로젝트에 대한 전력 공급 병목 현상을 완화하기 위한 조치입니다.\n- 이번 투자를 통해 Phan Thong 변전소의 총 전송 능력을 600MW에서 1,150MW로 늘릴 계획입니다.",
+      "full_translated": "태국 전력청(Egat)은 동부경제회랑(EEC)의 전력 전송 시스템 업그레이드를 위해 310억 바트를 투자하고 있습니다. 이는 데이터 센터 개발 프로젝트에 대한 전력 공급 병목 현상을 완화하기 위한 조치입니다.\n\n태국은 데이터 센터의 24시간 운영을 보장할 수 있는 충분한 전력을 보유하고 있지만, 여전히 전송 용량을 늘려야 합니다. 에너지 상임 비서관인 Prasert Sinsukprasert는 \"우리는 현재 글로벌 데이터 센터 기지입니다. 이러한 데이터 센터는 막대한 양의 전력을 필요로 합니다.\"라고 말했습니다.\n\n그는 Egat 소유의 Phan Thong 변전소를 방문하면서 이같이 말했습니다. Phan Thong 변전소는 촌부리 내의 Amata City Chon Buri 산업 단지에 전력을 공급하며, 이 산업 단지는 라용 및 차청사오와 함께 EEC를 구성합니다. Egat는 예산에서 15억 바트를 할당하여 Amata City Chon Buri 및 라용 지방의 산업 단지인 Amata City Rayong에 전력을 공급하는 Phan Thong의 전송 용량을 업그레이드했습니다.\n\nPrasert 씨는 \"목표는 총 전송 능력을 현재 600MW에서 1,150MW로 늘리는 것입니다.\"라고 말했습니다. Amata City Chon Buri에 4개의 데이터 센터가 건설 중이며 가스 발전소에서 전기를 공급받는 개선된 전송 시스템의 혜택을 받을 것으로 예상됩니다. 이들은 산업 단지의 전력 수요를 증가시킬 것으로 예상됩니다. 태국 투자청에 따르면 EEC에 16개의 새로운 데이터 센터가 개발될 예정입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "관광객에게 직접적인 영향은 적으나, 데이터센터 확충에 따른 인프라 개선은 장기적으로 긍정적인 영향을 줄 수 있음. 하지만 현재 시점에서는 낮은 점수.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Egat makes B31bn investment to upgrade EEC power system",
+          "url": "https://www.bangkokpost.com/business/general/3198190/egat-makes-b31bn-investment-to-upgrade-eec-power-system",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969460_700.jpg"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969460_700.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 파생상품 거래소, 소액 투자자를 위한 금 선물 상품 출시 계획",
+      "summary": "- 태국 파생상품 거래소(TFEX)는 소액 투자자들의 참여를 확대하기 위해 소규모 금 선물 계약을 도입할 예정입니다.\n- 금 가격이 지난 1년간 70% 이상 급등하여 국내 가격이 80,000바트/바트-웨이트를 넘어서면서 소액 투자자들의 접근성을 높이기 위함입니다.\n- 새로운 계약은 금 1바트-웨이트 단위로 거래될 수 있으며, 이는 5,000~10,000바트 상당의 가치를 가질 것으로 예상됩니다.",
+      "full_translated": "태국 파생상품 시장은 금 가격이 역사적인 랠리를 이어감에 따라 소액 투자자들의 참여를 확대하기 위해 향후 몇 달 안에 더 작은 규모의 금 선물 계약을 도입할 계획입니다. 금은 지난 1년 동안 70% 이상 급등했으며 국내 가격은 80,000바트/바트-웨이트를 넘어 사상 최고치를 기록했습니다. 급격한 상승은 태국 선물 거래소(TFEX)에서 금 선물 계약의 거래 수요를 급증시켜 소규모 투자자를 위한 보다 접근성 높은 상품을 개발하게 되었습니다.\n\nTFEX의 새로운 전무 이사인 Triwit Wangvorawudhi는 거래소가 소량 금 선물 계약을 도입하기 위한 계획을 마무리하고 있으며, 잠재적으로 금 1바트-웨이트로 규모가 정해질 수 있다고 말했습니다. 현재 가장 작은 계약은 금 10바트-웨이트에 대한 것이며 계약 가치는 100,000바트에 육박합니다. 그는 \"가장 적절한 규모를 연구하고 있지만 새로운 계약은 5,000~10,000바트 사이의 가치를 가질 가능성이 높습니다.\"라고 말했습니다. \"이를 통해 소액 투자자는 위험을 헤지하고 포트폴리오를 보다 효율적으로 관리할 수 있습니다.\" TFEX가 금 옵션에 대한 투자자 수요를 평가함에 따라 강력한 수익을 제공한 은 선물은 태국 투자자들에게 여전히 과소평가되고 있다고 Triwit씨는 말했습니다. 거래소는 올해 은 선물에 대한 시장 인식을 높일 계획입니다.\n\n변동성 통제: 상품 시장의 변동성이 높아짐에 따라 TFEX는 귀금속 선물에 대한 다단계 회로 차단기를 유지합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "금 가격 변동에 대한 정보는 여행자에게 직접적인 영향을 미치지 않지만, 투자에 관심 있는 여행자에게는 유용한 정보가 될 수 있습니다. 아침 브리핑에 포함하기에는 우선순위가 낮습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Gold fever to result in new futures",
+          "url": "https://www.bangkokpost.com/business/investment/3198210/gold-fever-to-result-in-new-futures",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969480_700.jpg"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969480_700.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 중앙은행, 경제 회복 위해 적극적 역할 모색",
+      "summary": "- 태국 중앙은행 총재, 경제 성장 둔화에 대한 우려 표명\n- 은행들에게 중소기업 대출 확대 및 금리 재검토 촉구\n- 중앙은행 역할 재조정 및 금융기관의 사회적 책임 강조",
+      "full_translated": "태국 중앙은행 총재 비타이 라타나콘은 실물 경제와의 더 많은 참여를 모색하고 있지만, 이는 위험을 수반합니다. \n\n태국 경제 성장이 올해 팬데믹 충격을 제외하고 10년 만에 최저 수준으로 떨어질 것으로 예상됨에 따라, 태국 중앙은행 총재 비타이 라타나콘은 최근 중앙은행의 역할에 대한 가능한 변화를 시사하며 실물 경제 문제에 대한 더 적극적인 참여를 모색하고 있습니다. \n\n지난해 10월 25대 총재로 취임한 비타이 씨는 태국의 장기적인 경기 침체가 뿌리 깊은 구조적 약점, 부패, 회색 자본의 지속성을 반영한다고 주장했습니다. 이러한 배경에서 그는 상업 은행들에게 경제를 지원하는 데 더 큰 역할을 할 것을 촉구했는데, 특히 중소기업(SME)에 대한 대출을 확대하고 특정 부문의 금리를 재검토하여 경제 상황을 더 잘 반영하도록 했습니다. \n\n이는 중앙은행이 역할을 재조정하고 상업 은행 및 금융 기관이 도덕적 설득 논리 하에 더 큰 사회적 책임을 보여주면서 가계 및 중소기업의 부채 부담을 완화하고 국가의 어려움을 겪고 있는 경제를 지원해야 할 시점인지에 대한 질문을 제기합니다. 도덕적 설득은 행동에 영향을 미치기 위해 윤리적 주장, 양심에 대한 호소 또는 공유된 가치를 언급하는 것을 의미합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 상황에 대한 내용으로, 여행객에게 직접적인 영향은 적으나 간접적인 정보 제공 가능성이 있어 낮은 점수 부여. 경제 상황은 여행 환경에 영향을 미칠 수 있지만, 현재로서는 미미한 수준.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Rethinking the central bank's role",
+          "url": "https://www.bangkokpost.com/business/general/3198260/rethinking-the-central-banks-role",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969580_700.jpg"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969580_700.jpg",
       "date": "2026-02-16"
     }
   ]
