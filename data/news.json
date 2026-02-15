@@ -13061,14 +13061,9 @@
       "summary": "- 콘캔 반툼 지역의 한 은행에서 강도 사건 발생.\n- 용의자는 26바트 상당의 금품을 갈취하여 도주.\n- 경찰이 용의자를 추격 중이며, 인근 지역 CCTV를 확인하고 있음.",
       "full_translated": "2024년 2월 15일 14시 7분, 반페 경찰서 수사관은 반툼 사거리 지역에 위치한 방콕 야오와랏 금은방에서 강도 사건이 발생했다는 신고를 받았습니다. 현장 조사 결과, 용의자는 오토바이를 이용한 남성 1명으로 밝혀졌습니다. 그는 금은방에 침입하여 약 26바트 상당의 금 장신구를 훔쳐 오토바이를 타고 빠르게 도주했습니다. 이 사건으로 인해 반툼 사거리 지역의 시민과 사업자들이 큰 혼란을 겪었습니다. 사건 발생 후 경찰은 도주 경로를 따라 수색을 확대하고 인근 CCTV를 확인하고 있으며, 용의자를 체포하기 위해 모든 노력을 기울이고 있습니다. 추가 정보가 입수되는 대로 계속 보고드리겠습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 대한 잠재적 위협 (범죄 발생). 사건 발생 지역에 대한 주의 필요.",
-      "event_info": {
-        "date": "2024-02-15",
-        "location": "반툼 사거리, 콘캔",
-        "price": "알 수 없음",
-        "location_google_map_query": "반툼 사거리 콘캔"
-      },
+      "event_info": "{'date': '2024-02-15', 'location': '반툼 사거리, 콘캔', 'price': '알 수 없음', 'location_google_map_query': '반툼 사거리 콘캔'}",
       "references": [
         {
           "title": "คนร้ายบุกเดี่ยว ปล้นทอง 26 บาท กลางสี่แยกบ้านทุ่มหลบหนี ตำรวจระดมกำลังไล่ล่าตัว",
@@ -13079,6 +13074,56 @@
       ],
       "collected_at": "17:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5mXvyS3PBtRj5.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/local/2914393",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 (확인 필요)",
+      "summary": "- 태국 정부가 무비자 체류 기간을 단축한다는 보도가 나왔으나, 공식 발표는 아님.\n- VnExpress International에 따르면 60일에서 30일로 단축될 수 있음.\n- 여행 계획에 차질이 없도록 공식 발표를 기다려야 함.",
+      "full_translated": "VnExpress International의 보도에 따르면 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축할 예정이라고 합니다. 아직 공식 발표는 아니므로, 여행객들은 추후 발표를 예의주시해야 합니다. 만약 단축된다면 여행 계획에 큰 영향을 미칠 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수 부여. 공식 발표는 아니지만, 잠재적 변경 가능성을 알리는 것이 중요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdmluZXhwcmVzcy5uZXQvdGhhaWxhbmQtby1zbGFzaC12aXNhLWZyZWUtc3RheS1mcm9tLTYwLTMwLWRheXMtNDY5OTc4OC5odG1s0gEA?oc=5",
+          "source": "VnExpress International"
+        }
+      ],
+      "collected_at": "18:16",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국, 2026년에도 저렴한 여행지로 각광 받을 전망",
+      "summary": "- Travel And Tour World에 따르면 태국은 2026년에도 예산 친화적인 여행지로 남을 것으로 예상됨.\n- 이는 다른 국가들의 여행 비용 상승 추세와 대조적임.\n- 태국은 저렴한 물가와 다양한 관광 명소로 인해 여전히 매력적인 여행지임.",
+      "full_translated": "Travel And Tour World에 따르면 태국은 2026년에도 예산 친화적인 여행지로 남을 것으로 예상됩니다. 다른 국가들의 여행 비용 상승 추세와 대조적으로, 태국은 저렴한 물가와 다양한 관광 명소로 인해 여전히 매력적인 여행지로 평가받고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 비용 관련 정보는 여행자에게 유용하며, 2026년 전망은 장기 여행 계획에 영향을 줄 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Defies Global Travel Cost Claims: A Budget Paradise Like No Other in 2026! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZkUyaEJybnJwTXcwOVRjZENBOHl2Sjd4SXZWZm5rQ2JBV1dPODQ5TXpiYUcyWmN2dnJ5SDlyUDlDWGp6UmVEdllKaW9FNklraFN4LTBjRndfa3ludUxkT2FEQm1MeWt5ZU5icURDWDNzT3V5dTFRQWpubUVFTDBNbUhCS1lVa0dncG1vTFpYbFRSOVFVTmNoUmlZc0RmR2tnVnFIS3cyMWdXRHpxMFJYYWdkZWtWRFZac2FpWW9WMlhjXzNEanNjZFln?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-15"
     }
   ]
