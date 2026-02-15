@@ -13890,14 +13890,9 @@
       "summary": "- 태국 내 상점에서 물을 사던 22세 영국인 관광객이 흉기에 찔려 쓰러짐.\n- 충격 받은 쇼핑객들은 현장에서 도망쳤다고 보도됨.\n- 현지 경찰이 수사 중.",
       "full_translated": "태국 내 상점에서 물을 사던 22세 영국인 관광객이 흉기에 찔려 쓰러졌습니다. 충격 받은 쇼핑객들은 현장에서 도망쳤다고 보도되었습니다. 현지 경찰이 수사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 대상 범죄 발생으로 안전에 대한 우려가 있어 높은 점수 부여. 특히 최근 24시간 내 유사 범죄 관련 뉴스가 없으므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Brit tourist, 22, collapses after being stabbed while buying water inside store in Thailand as horrified shoppers flee - The Irish Sun",
@@ -13906,23 +13901,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:29",
+      "collected_at": "2:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVQ0WkVVNmdTVm5mMTRreXFkOXRsclVuRjFsM1BMVWpvREYzSjdWcnpiNlBMaGhPdVhTT3ZPREhsYUZzQWExVXJOVnN5REZjYVdLNVZPVXJtZHBjMTZLb29mNlV4SV9NUDJkdkg2bHh2YUdBU2FFcGszQ1hPc1cwLWU4V2kwZw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 비자 2026 - Travel And Tour World",
       "summary": "- 태국 비자 관련 정보 제공 기사\n- 2026년 비자 정책에 대한 내용 포함\n- 여행 및 관광 산업 관련 정보 제공",
       "full_translated": "태국 비자 2026 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "비자 관련 정보는 여행객에게 유용하지만, 2026년 정보이므로 중요도가 높지 않음. 새로운 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand visa 2026 - Travel And Tour World",
@@ -13931,23 +13923,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:29",
+      "collected_at": "2:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvSTJFMEg5Sm92Tnl0RENDQjRCR0RSSklNZW1GMVlNM0pja2lfc3p0MjBrM3N2cGFWbWxnU210X0ZKNmRPUkRMUVBTbl84X0hnOTV0aVJnc2U0UzhKa3lZQjk3N0NITWVLd1RNVlBtTkQ0YVJ6VVZrRktqNA?oc=5",
+      "source": ""
     },
     {
       "title": "동남아시아 여행 트렌드 변화: 태국, 캄보디아 대신 베트남으로 여행객 몰려",
       "summary": "- 2026년까지 동남아 여행 트렌드가 변화할 것으로 예상됨.\n- 태국과 캄보디아를 떠나 베트남으로 여행객들이 몰리고 있음.\n- 베트남 관광 산업의 성장세가 두드러짐.",
       "full_translated": "동남아시아 여행 트렌드의 대전환이 2026년에 일어날 것으로 예상됩니다. 수백만 명의 여행객들이 태국과 캄보디아를 버리고 베트남으로 몰려드는 이유는 무엇일까요? 베트남 관광 산업의 거침없는 성장세에 주목해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동남아 여행 트렌드 변화에 대한 정보. 베트남으로 여행객이 몰리는 추세는 여행 계획에 참고할 만한 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "The Great Southeast Asian Power Shift of 2026: Why Millions of Travelers are Abandoning Thailand and Cambodia to Flock to the Unstoppable Tourism Empire of Vietnam! - Travel And Tour World",
@@ -13956,23 +13945,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:29",
+      "collected_at": "2:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQdVAyODhNMklPY29zcWR5NzRWcFptVlpWcFF1QTFheURnYVdPT3BNRXlnQmFuRnN1V0M0ZTk2TGk0bkJqMTE4dFZzQWQzZXJXOEkwRmRWMjBqSFlYNmNGb2lmV2ZEMW9FSVo3a1ZLZDZOb0cyWFVYdkFDa2lUQU9vYWFNRGpIZ016ZDFZc1pTRGNWajhYSE1DZ0VLQVltc0tDWlYyN3hPdFIzd3NJRmlPRUlJX2wyeV80ek03dWVqVm94MUpDbEY4cTNpZ3c4dXY2bjFQOHB5SHc0bWs4VC1KQmphc2JfcVR4NFJ3QjlqRlFNZk5YLVBoaWh0U3hGUkdzUDl3Q0w3cTFVX3NCSVFrZ0FtT1lXUjZYMjVqOXRGU0ZpMmhCeGdkRU1oNWtQYU1qSUNnNnB3?oc=5",
+      "source": ""
     },
     {
       "title": "캐나다 패럴림픽 선수 지미 펠티에, 태국에서 글로벌 사이클 투어 시작",
       "summary": "- 캐나다 패럴림픽 선수 지미 펠티에가 태국에서 글로벌 사이클 투어를 시작했습니다.\n- 태국 관광청(TAT)은 그의 방문을 환영하며 홍보에 활용할 예정입니다.\n- 펠티에 선수는 전 세계를 돌며 장애인 스포츠 홍보 및 인식 개선을 목표로 하고 있습니다.",
       "full_translated": "태국 관광청(TAT)은 캐나다 패럴림픽 선수 지미 펠티에가 글로벌 사이클 투어의 태국 구간을 시작하는 것을 환영합니다. &nbsp;&nbsp;파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "장애인 스포츠 홍보 차원의 방문으로, 태국 관광 이미지를 높이는 데 기여할 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TAT welcomes Canadian Paralympian Jimmy Pelletier as he begins Thailand leg of global cycling tour - Pattaya Mail",
@@ -13981,23 +13967,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:29",
+      "collected_at": "2:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN0dRbzR2SV9ucjRKMFd2S1F1aWVCamZiZnpETTMyQUV3YlQ0LVFDRFItT1dDWWpVT29EU1B0cUE0eFNUMWkwUk92Y21nREF3VnVPRV92NnNmRXFUSVlZZTdMQnllODA0Mk5QZS01bzc5emU1TDVsV2xGdDdKRFBLOWpoR1Y5OEs3ZjI3bGpFUnBhS2xZRU1NWDVSZ2d2NElEQ0lBVFk4R2pRUDhmUVo4MHhHaDhwTDU5TEhFSUd4cVBfYmhXTURQOGNzSWhSNElDekhkYmpYTQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광청 응답",
       "summary": "- 태국 관광청은 다양한 채널을 통해 관광 관련 정보를 제공하고 있습니다.\n- 여행 관련 문의에 대한 답변을 제공합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국 관광청 응답 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "일반적인 관광 정보 제공에 대한 내용이므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourism Authority of Thailand response - Travel And Tour World",
@@ -14006,7 +13989,107 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:29",
+      "collected_at": "2:29",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUmFxRzJ1WmE4ZlIta01xcDVVTjJxOFBSd3p2bV9GMFZhSmZiWHBBV2tldUo2SzdacnkzbFpJMDVDcVE1LVgwRHVxcDF4VE1Ya3M4WTQ0NjJaMDBIWHdUQ3MtZzFsNXZyOV9lMFg3bjZxamp3M1BYcWdWNHhDVW9hTnZYeUU5a2hPc25ZLWN4X2NVS0l3TlE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 30일로 단축 (기존 60일)",
+      "summary": "- 태국 정부가 무비자 체류 허용 기간을 60일에서 30일로 단축했습니다.\n- 변경 이유는 아직 명확하게 밝혀지지 않았습니다.\n- 여행 계획에 차질이 없도록 비자 규정 확인이 필요합니다.",
+      "full_translated": "VnExpress International의 보도에 따르면 태국 정부는 무비자 체류 허용 기간을 기존 60일에서 30일로 단축했습니다. 정확한 배경이나 이유는 아직 알려지지 않았습니다. 태국 여행을 계획 중인 여행객들은 변경된 비자 규정을 확인하여 불이익을 받지 않도록 주의해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 혼란을 야기할 수 있으므로 높은 점수를 부여합니다. 기존 뉴스에 이미 포함되었지만 중요한 변경 사항이므로 다시 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "Thailand"
+      },
+      "references": [
+        {
+          "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
+          "url": null,
+          "source": "VnExpress International"
+        }
+      ],
+      "collected_at": "02:47",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국, 비자 개혁 확정: 무비자 입국, TDAC 및 향후 변경 사항",
+      "summary": "- 태국 정부가 비자 규정 개혁을 확정 발표했습니다.\n- 무비자 입국 및 TDAC 관련 변경 사항이 포함되어 있습니다.\n- 자세한 내용은 관련 기사를 통해 확인할 수 있습니다.",
+      "full_translated": "태국이 비자 개혁을 확정했습니다: 무비자 입국, TDAC 및 향후 변경 사항. 자세한 내용은 아웃룩 트래블러에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 무비자 입국 및 TDAC 관련 정보는 여행 계획에 필수적입니다. 기존에 무비자 체류 기간 단축에 대한 뉴스가 있었지만, 이번 기사는 더 구체적인 내용을 담고 있어 업데이트로 간주합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Confirms Visa Reforms: Visa-Free Entry, TDAC, And What Changes Next - Outlook Traveller",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTkZ3S0s3UW0zcEExSTlsQ2Y4NzhIYklSU1U5UElGc2hBM0gtMlNpbUFkNUFCTHJPTlZmNS04bWRTN0kzV1VHbUhZZnJZTzJIaXBNVl9xY2ZnajRoX2ZvWnljeEFEMXJyYUtWdHE3ZUtILWdQcHl6UTFRcngzZjBUU01jemh2V05lOHQtQnQ3ZkpTcGgwYW55U3NlRHMtMlc1MUJ5M25zcFVwNXY5TDNSMtIBvgFBVV95cUxOMG1IRXd1emNyaW5VRzNfS3habGY1a3Nza0o2ck9ZcFJXNkx2RGEyYlduTzZkbXA1a05Rd2JfaHNJaHEzeDQ2Ymw4eldxVWpxcmJKdVoydEZCMHFucnlwelJ3UjZIdmJEd1ZReHZnbU1kdGFranl3MzRILVRXNThUTnF3dE5qUXNNMm9CNFNzUnF4bV9SSGNQS05uMHluUkdZZFp4RHY2c1RNbVhfUHBOeXc3VVlFczVDQ1o4SWVn?oc=5",
+          "source": "Outlook Traveller",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "인도 관광객, 살아있는 원숭이 밀수 시도 혐의로 태국 공항에서 구금 - MSN",
+      "summary": "- 인도 관광객이 태국 공항에서 살아있는 원숭이를 밀수하려다 적발되어 구금됨.\n- 해당 관광객의 신원과 원숭이 밀수 시도 이유는 아직 밝혀지지 않음.\n- 태국 당국은 해당 사건에 대해 조사 중이며, 동물 밀수에 대한 처벌을 강화할 예정.",
+      "full_translated": "인도 관광객이 태국 공항에서 살아있는 원숭이를 밀수하려다 구금되었습니다. &nbsp;MSN",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물 밀수는 범죄 행위이며, 외국인 여행객도 예외 없이 처벌받을 수 있음을 보여주는 사례. 공항에서 발생한 사건이므로 여행객에게 주의를 환기시킬 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "태국 공항",
+        "price": null,
+        "location_google_map_query": "태국 공항"
+      },
+      "references": [
+        {
+          "title": "Indian tourist detained in Thailand airport for trying to smuggle live monkeys - MSN",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcHdKXzJ6dUhJUzE5WG5tR2NSUVVMWXVNVUNnMmdzQWlQd0xER1MzcWhKN3lMLTc2Vks3Qi10NmNiN0Y2ZUhvS1l0Tk1UY3VfZFdMLWRvaUNtbDg2bHhJWEFqVFRMT0tZS0cteXplU0xPdGQzYU5zTVlLcld5N2huQWRQRmdXcU4tVWFrb2IzSDMxZ09vZ2FWQXkzUE01ZHhDWlV4ZWVLQmxjYUtfV1A3VGhNMjFtUnlmdGJRX3lVdC1vN08wR2c?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국, 세계와 기술 노하우 공유 준비 완료",
+      "summary": "- 태국 정부가 기술 분야에서 축적한 지식과 경험을 국제 사회와 공유할 준비를 마쳤습니다.\n- 특히 디지털 경제, 스마트 시티 개발, 농업 기술 등 분야에서 협력을 기대하고 있습니다.\n- 태국의 기술 공유는 개발도상국의 경제 성장과 발전에 기여할 것으로 예상됩니다.",
+      "full_translated": "태국은 이제 세계와 기술 노하우를 공유할 준비가 되었습니다. Gulf Today",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국의 기술 공유 계획 발표. 직접적인 여행 영향은 적지만, 장기적으로 스마트 시티 개발 등 관광 인프라 개선에 기여할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand now ready to share tech know-how with world - Gulf Today",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWdOTkE0Q0FoWGhtZTlXRDF1VEFJWjhNaGVob1p2S0tEVGhvam9CejZmS0FyRkw5UjJHOWEtdU5sSnhBLWtvZWxpbEZWQjVIcnM2RVU4WjFDYTA3clJXMVpwdDhRd2ZHZVZEOEdMYkNKWmZwTGpvWkVNSzhHdDdjZjQ3TTJoSkhFNFFfbjV5Y1gxZm5Pd0d3aw?oc=5",
+          "source": "Gulf Today",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-16"
     }
