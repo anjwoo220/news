@@ -12821,14 +12821,9 @@
       "summary": "- 태국 사이버 범죄 경찰이 위조 은행 계좌 운영 혐의로 외국 국적자 4명을 체포했습니다.\n- 이들은 현금을 인출하여 국경 너머로 보내는 온라인 사기 사건과 연루되었습니다.\n- 피해자는 페이스북을 통해 휴대폰을 구매하려다 80만 바트 이상의 손실을 입었습니다.",
       "full_translated": "태국 방콕 — 2026년 2월 15일, 태국 사이버 범죄 경찰은 위조 은행 계좌를 운영하고 현금을 인출하여 국경 너머로 보내는 혐의로 외국 국적자 4명을 체포했습니다. 이 사건은 피해자에게 80만 바트(18,000파운드) 이상의 손해를 입힌 온라인 사기 사건과 관련이 있습니다.\n\n체포는 사이버 범죄 수사국 사령관인 차나낫 사라트완파에트 경찰 소장의 명령에 따라 이루어졌으며, 그는 3과의 경찰관들에게 작전 수행을 지시했습니다. 캄보디아 국적자인 소폰(36세), 반나릿(23세), 소란(37세)은 사무트 프라칸 지방의 방푸마이 지역에서 체포되었습니다. 네 번째 용의자인 미얀마 국적의 탓(29세)은 같은 지방의 방플리야이 지역에서 구금되었습니다.\n\n이들은 범죄 단체 가입, 사칭을 통한 공공 사기, 컴퓨터 시스템에 허위 정보 입력 및 돈세탁 혐의를 받고 있습니다. 경찰은 피해자가 페이스북을 통해 휴대폰을 구매하려다 사기를 당했다는 신고를 받은 후 사건이 시작되었다고 밝혔습니다. 결제 후 피해자는 제품을 받지 못했습니다.\n\n피해자는 나중에 태국 중앙 수사국의 경찰관을 사칭한 용의자로부터 연락을 받아 손실된 자금을 회수하는 데 도움을 줄 수 있다고 주장하며 라인 메신저 앱을 통해 대화를 계속하도록 요청했습니다. 그런 다음 사기꾼은 피해자에게 주식 거래에 투자하도록 설득하여 이익과 이전 손실 복구를 약속했습니다. 피해자는 점점 더 많은 돈을 이체하여 총 손실액이 80만 바트를 초과했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 대상 온라인 사기 가능성 경고. 유사 범죄 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Bang Pu Mai, Samut Prakan",
-        "price": null,
-        "location_google_map_query": "Bang Pu Mai, Samut Prakan"
-      },
+      "event_info": "{'date': None, 'location': 'Bang Pu Mai, Samut Prakan', 'price': None, 'location_google_map_query': 'Bang Pu Mai, Samut Prakan'}",
       "references": [
         {
           "title": "3 Cambodians and 1 Burmese held in mule account scam",
@@ -12839,21 +12834,18 @@
       ],
       "collected_at": "16:25",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/3-Cambodians-and-1-Burmese-held-in-mule-account-scam.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.khaosodenglish.com/news/2026/02/15/3-cambodians-and-1-burmese-held-in-mule-account-scam/",
+      "source": ""
     },
     {
       "title": "방콕 외곽, 전선 절도 용의자 체포: 1억 바트 규모 전력 프로젝트 차질",
       "summary": "- 방콕 외곽 클롱 삼 지역에서 구리 전선 절도 용의자 체포\n- 절도로 인해 수백만 바트의 피해 발생, 대규모 기반 시설 계획 차질\n- 경찰은 용의자와 함께 절도 도구 및 오토바이를 압수",
       "full_translated": "파툼타니 – 2026년 2월 15일, 클롱 루앙 경찰은 클롱 삼 지역의 지하 전력 케이블 프로젝트에서 구리 버스바를 훔친 혐의로 용의자를 체포했습니다. 이로 인해 수백만 바트의 피해가 발생하고 1억 바트 규모의 주요 기반 시설 계획에 차질이 생겼습니다. 클롱 루앙 경찰서에서 고위 경찰관, 지역 공무원 및 파툼타니 지방 전력청(PEA) 대표는 체포 사실을 발표했습니다. 25~30세의 용의자는 클롱 루앙 지역 클롱 삼 하위 지역의 소이 6/3 맞은편 다리 근처에서 체포되었습니다. 경찰은 토치, 와이어 커터, 금속 톱, 오토바이와 함께 구리 버스바 12개를 압수했습니다. Kawinwet 경감은 같은 날 오전 3시경 경찰이 다리 근처에 앉아 있는 수상한 남자에 대한 정보를 시민으로부터 받았다고 말했습니다. 조사 결과 경찰은 용의자가 오토바이에 걸터앉아 있는 것을 발견했습니다. 오토바이 수색 결과 좌석 아래 검은색 천 가방 안에 버스바와 도구가 들어 있었습니다. 심문 과정에서 용의자는 클롱 삼 하위 지역 6번 빌리지의 Chalida Village 맞은편 클롱 삼 도로변의 전기 제어 캐비닛에서 물건을 훔쳤다고 자백했습니다. 그는 이것이 그의 첫 번째 범죄라고 주장하며 이전에 클롱 삼 지역에서 가스 배달 일을 했다고 말했습니다. 그는 야간 절도 및 범죄를 용이하게 하거나 도주하기 위해 차량을 사용한 절도 혐의로 기소되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객에게 직접적인 위협은 아니지만, 기반 시설 문제로 인한 잠재적 불편(정전 등) 가능성 존재. 치안 관련 정보이므로 포함.",
-      "event_info": {
-        "date": "2026-02-15",
-        "location": "클롱 삼, 파툼타니",
-        "price": null,
-        "location_google_map_query": "Khlong Sam, Pathum Thani"
-      },
+      "event_info": "{'date': '2026-02-15', 'location': '클롱 삼, 파툼타니', 'price': None, 'location_google_map_query': 'Khlong Sam, Pathum Thani'}",
       "references": [
         {
           "title": "Copper busbar theft halts 100-million-baht Khlong Sam power project",
@@ -12864,21 +12856,18 @@
       ],
       "collected_at": "16:25",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner1-600x900-1.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.khaosodenglish.com/news/2026/02/15/copper-busbar-theft-halts-100-million-baht-khlong-sam-power-project/",
+      "source": ""
     },
     {
       "title": "국립공원에서 10년 이상 불법 영업한 남성, 중대한 결과 직면",
       "summary": "- 한 남성이 국립공원에서 10년 이상 불법 영업을 한 혐의로 적발됨.\n- 그는 엄중한 처벌을 받을 것으로 예상됨.\n- 자세한 내용은 아직 공개되지 않았음.",
       "full_translated": "국립공원에서 10년 이상 불법 영업을 한 남성이 중대한 결과에 직면했습니다. - The Cool Down",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국립공원 관련 사건으로, 여행객 안전에 간접적인 영향 가능성이 있으나, 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Man faces major consequences after running illegal operation in national park for more than 10 years — here's what happened - The Cool Down",
@@ -12889,21 +12878,18 @@
       ],
       "collected_at": "16:25",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOQkp4MTJ3ay1QVEVqRE9KRXJDUG81UmV3dnhxSTlRUHpabUhkRU96TEY4Z2g1OV8yM1VJNmpaRk9lNHgxMUdsQWhxaDl0VENXRlBncVJVQUF0V1VoWXBma2wyZ01neUxHRkNBNVBaRF8xQUF2M3hqRTkxa2JmRTYzRU1zX1p6OXo3a2Zn?oc=5",
+      "source": ""
     },
     {
       "title": "태국-중국 수교 51주년 기념 CNY 축제 개최",
       "summary": "- 태국 관광청(TAT)은 태국-중국 수교 51주년을 기념하는 CNY 축제를 개최합니다.\n- 이 축제는 양국 간의 우호 관계를 강화하고 관광을 활성화하기 위한 것입니다.\n- 다양한 문화 행사와 특별 프로모션이 진행될 예정입니다.",
       "full_translated": "태국 관광청(TAT)은 태국-중국 수교 51주년을 기념하여 CNY 축제를 개최합니다. 이 행사는 양국 간의 오랜 우호 관계를 기념하고, 태국을 방문하는 중국인 관광객을 유치하기 위한 것입니다. 다양한 문화 행사와 특별 프로모션이 축제 기간 동안 진행될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국-중국 수교 기념 축제는 중국인 관광객 유치에 긍정적인 영향을 미칠 수 있으며, 여행객에게 다양한 문화 체험 기회를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TAT marks 51 years of Thailand–China ties at CNY festival - Nation Thailand",
@@ -12914,21 +12900,18 @@
       ],
       "collected_at": "16:25",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wQ2RkaFpkVzBQcXVVR0luck9rQzF2cWlpVUhjU094N0ZiWDBIRXRLWmdFM1lEa0RtVnBjLWNUX3JYQTdRR2xaMmdCTWRPUkZMMW9EejdZMXpVbzZkN3diOWVn?oc=5",
+      "source": ""
     },
     {
       "title": "2월 15일, 국회의원 선거 불참 사유 신고 마지막 날",
       "summary": "- 2026년 2월 8일에 실시된 국회의원 선거 및 국민투표에 불참한 경우, 오늘(2월 15일)까지 불참 사유를 신고해야 합니다.\n- 불참 사유는 선거일 이전 또는 이후에 온라인, 우편, 직접 방문 등의 방법으로 신고할 수 있습니다.\n- 정당한 사유 없이 불참 사유를 신고하지 않으면 정치적 권리가 제한될 수 있습니다.",
       "full_translated": "2026년 국회의원 선거: 2월 15일은 '국회의원 선거 불참 사유' 및 '국민투표 불참 사유'를 신고하는 마지막 날입니다. 절차 및 경로가 공개되었으며, 사유를 신고하지 않으면 정치적 권리가 상실됩니다. 2026년 2월 15일, 2월 1일에 사전 투표가 완료되었고, 2026년 2월 8일 일요일에 국회의원 총선거 및 국민투표가 완료된 후, 국회의원 선거와 국민투표에 참여하지 않은 사람들은 필요한 사유를 신고해야 함을 강조합니다. 오늘(15일)은 국회의원 선거에 참여할 수 없거나 국민투표에 참여할 수 없는 필요한 사유가 있는 경우, 다음과 같은 절차에 따라 불참 사유를 신고할 수 있는 마지막 날입니다.\n\n1. 국회의원 선거에 참여할 수 없는 경우, 선거권자는 다음과 같이 선거에 참여할 수 없는 사유를 신고할 수 있습니다.\n   - 선거일 이전: 2026년 2월 1일 - 7일\n   - 선거일 이후: 2026년 2월 9일 - 15일\n\n2. 사유 신고 채널\n   - 2.1 태국 선거관리위원회 웹사이트 www.ect.go.th 또는 행정부 웹사이트를 통해 전자적으로 신고 (국회의원 선거 불참 사유 신고 클릭) \"탕랏\" 애플리케이션 또는 Smart Vote 애플리케이션 또는 \"국회의원 선거 불참 사유 신고\" 입력 (휴대폰 또는 컴퓨터 시스템을 통해)\n   - 2.2 군 등록관 / 지역 등록관에게 직접 제출\n   - 2.3 등기 우편으로 발송\n   - 2.4 다른 사람이 대리 제출할 수 있도록 서면으로 위임합니다. 1.2-1.4에 따라 신고하는 경우 S.S. 1/8 양식(첨부 문서)을 제출하거나 주민등록번호, 주소, 국회의원 선거에 참여할 수 없는 사유를 명시한 서면으로 작성해야 합니다. 국회의원 선거에 참여하지 않는 경우,",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 거주 한국인에게는 중요한 정보이지만, 여행객에게는 중요도가 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "15 ก.พ. วันสุดท้าย แจ้งเหตุไม่ไปใช้สิทธิเลือกตั้ง สส. - ไม่ไปออกเสียงประชามติ",
@@ -12939,6 +12922,104 @@
       ],
       "collected_at": "16:25",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wxllymxYliLxLu2I.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2911818",
+      "source": ""
+    },
+    {
+      "title": "태국, 비자 규정 개정: 60일 무비자 체류, DTV 및 디지털 입국 시스템 도입으로 관광 및 경제 활성화",
+      "summary": "- 태국이 관광 및 경제 활성화를 위해 비자 규정을 개정했습니다.\n- 60일 무비자 체류가 가능해졌습니다.\n- 디지털 입국 시스템이 도입될 예정입니다.",
+      "full_translated": "태국이 관광 및 경제 활성화를 위해 비자 규정을 개정했습니다. 60일 무비자 체류가 가능해지고, 디지털 입국 시스템이 도입될 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 특히 무비자 체류 기간 연장은 큰 영향을 미칩니다. 최신 정보이므로 업데이트 가치가 높습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand revamps visa rules: 60-day visa-free stays, DTV, and digital entry system to boost tourism and economy - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSjlJWTd1NUJMd1M5LTNYa2pZQXdCVk1ybWFVSU5ZbE5HMG15YVVJdUNKRHNhNXNUSUlRMXRtaEhWU0dvVmlmai1OdUlOSGFZMy1DUXh4a1pzUXdIdWlOS1pUeXl1QXVaMnVUWnBDOFVpd3F5NXZLVG1CejBtb0F5RWlZdzFTbEthNE5HaS1relA5RkJCcGJvTW5jRmpFUl9uQVNKa0xidjN5MkVrQ2ZBOHZMaFcycjExSGtmb0ZUOXRzSUFwSUtKRF9wTDdsQ3p4Tm1Ma2hyTThtSWw4bllZc0x0eHFJN1dHOEtON3F3?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 (VnExpress International)",
+      "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축할 예정입니다.\n- VnExpress International에 따르면, 이는 관광객 유치 정책의 일환입니다.\n- 정확한 시행 시기는 아직 발표되지 않았으므로, 여행 계획 시 확인이 필요합니다.",
+      "full_translated": "VnExpress International의 보도에 따르면, 태국 정부가 무비자 체류 허용 기간을 60일에서 30일로 단축할 계획이라고 합니다. 이는 관광객 유치 정책의 일환으로, 더 많은 관광객을 유치하기 위한 전략으로 풀이됩니다. \n\n정확한 시행 날짜는 아직 발표되지 않았으므로, 태국 여행을 계획 중인 여행객들은 최신 정보를 주의 깊게 확인해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 매우 중요합니다. 특히 체류 기간 단축은 여행 계획에 큰 변화를 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vdi52bmV4cHJlc3MubmV0L3RoYWlsYW5kLXRvLXNsYXNoLXZpc2EtZnJlZS1zdGF5LWZyb20tNjAtdG8tMzAtNDY5MzE5NC5odG1s0gEA?oc=5",
+          "source": "VnExpress International"
+        }
+      ],
+      "collected_at": "16:53",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "아시아 전역 항공편 차질 지속: 태국 푸껫 공항 등 항공편 지연",
+      "summary": "- 아시아 지역 항공편 운항 차질이 계속되고 있으며, 태국 푸껫 공항도 영향을 받음.\n- 일본, 중국, 인도네시아 등 여러 국가에서 항공편 취소 및 지연 발생.\n- 여행객들은 항공편 운항 정보 확인 및 공항 혼잡에 대비해야 함.",
+      "full_translated": "아시아 전역에서 항공편 운항 차질이 지속되고 있습니다. 일본, 중국, 인도네시아, 태국 등 여러 국가의 공항에서 항공편 취소 및 지연이 발생하고 있습니다. 특히 푸껫 공항도 영향을 받고 있어 여행객들의 주의가 필요합니다. 항공사들은 바틱 에어, 가루다, ANA, 젯스타, 스프링 항공, 티베트 항공 등이 있으며, 자카르타, 상하이, 나리타, 푸껫 등의 공항에서 문제가 발생하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "푸껫 공항은 태국 대표적인 관광지이므로 항공편 지연 정보는 여행객에게 중요한 정보. 기존 게시글과 내용 중복되나, '지속'되는 상황을 반영하여 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 공항",
+        "price": null,
+        "location_google_map_query": "푸껫 공항"
+      },
+      "references": [
+        {
+          "title": "Massive Travel Disruptions Across Asia as Japan, China, Indonesia, Thailand and More Cancel 38 Flights and Delay 1,022, Affecting Airlines Like Batik Air, Garuda, All Nippon, Jetstar, Spring, Tibet Airlines and Others in Jakarta, Shanghai, Narita, Phuket and",
+          "url": "https://www.travelandtourworld.com/news/asia/massive-travel-disruptions-across-asia-as-japan-china-indonesia-thailand-and-more-cancel-38-flights-and-delay-1022-affecting-airlines-like-batik-air-garuda-all-nippon-jetstar-spring-tibet-airlines-and-others-in-jakarta-shanghai-narita-phuket-and/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "16:53",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 여행 계획 중이신가요? 새로운 비자 규정으로 더 오래 머무르고 더 쉽게 입국하세요 - economictimes.com",
+      "summary": "- 태국 여행을 계획 중이라면 새로운 비자 규정을 확인하세요.\n- 더 오래 머무르고 더 쉽게 입국할 수 있도록 변경되었습니다.\n- 자세한 내용은 economictimes.com에서 확인할 수 있습니다.",
+      "full_translated": "태국 여행을 계획하고 계신가요? 새로운 비자 규정으로 인해 더 오랫동안 머무르고 입국이 더 쉬워졌습니다. 자세한 내용은 economictimes.com에서 확인하실 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이며, 특히 입국 절차 간소화는 여행 편의성을 높입니다. 이전 뉴스에서 체류 기간 단축 뉴스가 있었으므로, 상반되는 정보에 대한 확인이 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Planning a Thailand trip? New visa rules allow longer stays and easier entry - economictimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTjdacFRZcGhHQXZqYmxkRnJkbnlMUWtKbGpsSHJXWHhUbHhrMzFkTUhJaFN5QjhtaE41VmpPTnNjMmxac3BYbktZMWNJT0dpcXlsRWhLNURUdjRpTFUzZmhRM25PNEVwbXdfYW5xamtUdW1FMGpMbF9vR3hXVmdNRUw1bDNFZnpGN1JhZ1ZfYTNQOHVZcnlqdjNDNmY5dkNhX056Tjl4TzRvb1BheWx0OERHNUZPYlE3TXYzdmFkbE9yWFdwTFJJRk9fQ0FZUXZJSnZSTURJejRwcm_SAdsBQVVfeXFMUE43WnBUWXBoR0F2amJsZEZyZG55TFFrSmxqbEhyV1h4VGx4azMxZE1ISWhTeUI4bWhONVZqT05zYzJsWnNwWG5LWTFjSU9HaXF5bEVoSzVEVHY0aUxVM2ZoUTNuTzRFcG13X2FucWprVHVtRTBqTGxfb0d4V1ZnTUVMNWwzRWZ6RjdSYWdWX2EzUDh1WXJ5anYzQzZmOXZDYV9Oek45eE80b29QYXlsdDhERzVGT2JRN012M3ZhZGxPclhXcExSSUZPX0NBWVF2SUp2Uk1ESXo0cHJv?oc=5",
+          "source": "economictimes.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-15"
     }
   ]
