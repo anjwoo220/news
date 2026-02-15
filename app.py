@@ -2451,6 +2451,14 @@ def render_tab_tour():
     budget_options_labels = [utils.t("budget_low"), utils.t("budget_mid"), utils.t("budget_high")]
     budget_label = st.select_slider(utils.t("tour_budget"), options=budget_options_labels, value=utils.t("budget_mid"), key="tour_budget_slider")
     
+    # --- [NEW] 여행 기간 선택 ---
+    trip_duration = st.selectbox(
+        utils.t("trip_duration"), 
+        utils.DURATION_OPTIONS, 
+        index=2, # Default to 2박 3일
+        key="selected_duration"
+    )
+    
     # --- 2. 추천 버튼 & 결과 (Output) ---
     if st.button(utils.t("tour_find_btn"), use_container_width=True, type="primary", key="tour_find_button"):
         current_lang = st.session_state.get('language', 'Korean')
@@ -2633,7 +2641,11 @@ def render_tab_tour():
             st.markdown("### 🤖 AI 트래블 메이커")
             if st.button("✨ AI로 최적 동선 & 일정표 만들기", type="primary", use_container_width=True):
                 with st.spinner("AI가 최적의 여행 동선을 계산 중입니다... (약 10초 소요)"):
-                    itinerary = utils.generate_tour_itinerary(cart_tours, region=selected_region)
+                    itinerary = utils.generate_tour_itinerary(
+                        cart_tours, 
+                        region=selected_region, 
+                        duration=st.session_state.get('selected_duration', "당일치기 (Day Trip)")
+                    )
                     st.session_state['generated_itinerary'] = itinerary
             
             if 'generated_itinerary' in st.session_state and st.session_state['generated_itinerary']:

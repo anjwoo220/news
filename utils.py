@@ -96,6 +96,7 @@ UI_TEXT = {
     "news_header": {"ko": "📅 {} 브리핑", "en": "📅 {} Briefing"},
     "air_quality": {"ko": "🌬️ 방콕 대기질", "en": "🌬️ Bangkok Air Quality"},
     "exchange_rate": {"ko": "💵 환율 (KRW/THB)", "en": "💵 Exchange Rate"},
+    "weather_humidity": {"ko": "습도", "en": "Humidity"},
     "stat_today": {"ko": "오늘", "en": "Today"},
     "stat_total": {"ko": "전체", "en": "Total"},
     "hotel_fact": {"ko": "🏨 호텔 팩트체크", "en": "🏨 Hotel Fact Check"},
@@ -182,6 +183,7 @@ UI_TEXT = {
     "style_food": {"ko": "맛집/식도락", "en": "Food/Gourmet"},
     "style_night": {"ko": "야경/로맨틱", "en": "Night View/Romantic"},
     "style_unique": {"ko": "이색체험", "en": "Unique Experience"},
+    "trip_duration": {"ko": "🗓️ 여행 기간", "en": "🗓️ Trip Duration"},
     "planner_title": {"ko": "📝 {} 자유여행 플래너", "en": "📝 {} DIY Trip Planner"},
     "planner_guide": {"ko": "위 목록에서 마음에 드는 투어를 '담기' 버튼으로 추가해보세요! AI가 일정을 짜드립니다. 🤖", "en": "Add tours you like from the list above using the 'Add' button! AI will create an itinerary for you. 🤖"},
     "planner_cart": {"ko": "🛒 내 여행 코스", "en": "🛒 My Trip Route"},
@@ -256,6 +258,18 @@ UI_TEXT = {
     "tour_tip": {"ko": "🎯 꿀팁", "en": "🎯 Pro Tip"},
     "tour_pros": {"ko": "👍 핵심 포인트", "en": "👍 Key Highlights"},
 }
+
+# --- Shared UI Constants ---
+DURATION_OPTIONS = [
+    "당일치기 (Day Trip)",
+    "1박 2일 (1 Night 2 Days)",
+    "2박 3일 (2 Nights 3 Days)",
+    "3박 4일 (3 Nights 4 Days)",
+    "4박 5일 (4 Nights 5 Days)",
+    "5박 6일 (5 Nights 6 Days)",
+    "1주일 이상 (1 Week+)",
+    "장기 여행 (Long-term)"
+]
 
 def t(key):
     """
@@ -4714,12 +4728,13 @@ def get_region_label_to_key():
 # Klook 전체보기 링크
 KLOOK_ALL_TOURS_LINK = "https://klook.tpx.li/P3FlPqvh"
 
-def generate_tour_itinerary(tours, region="방콕"):
+def generate_tour_itinerary(tours, region="방콕", duration="당일치기 (Day Trip)"):
     """
-    Generate a 1-day itinerary using the selected tours.
+    Generate a multi-day itinerary using the selected tours and specified duration.
     Args:
         tours: List of tour dictionaries (id, name, type, etc.)
         region: City name
+        duration: Selected trip duration string
     Returns:
         str: Markdown formatted itinerary
     """
@@ -4764,8 +4779,13 @@ def generate_tour_itinerary(tours, region="방콕"):
         [선택한 투어 목록]
         {tour_list_str}
         
+        [여행 기간]
+        사용자의 여행 기간은 **{duration}** 입니다.
+        
         [필수 고려사항]
-        1. **투어 시간 및 기간 (매우 중요)**:
+        1. **일정 배치 및 기간 최적화 (매우 중요)**:
+           - 선택한 투어 상품들을 사용자의 여행 기간(**{duration}**)에 맞춰서 무리하지 않게 적절히 분배해서 배치해주세요.
+           - 만약 선택한 상품이 기간에 비해 너무 많으면 '일정이 빡빡합니다'라고 조언해주고, 너무 적으면 '여유로운 일정입니다'라고 언급해주세요.
            - 상품 태그에 **'전일투어'**, **'종일'**이 있거나, 혹은 태그가 없더라도 **아유타야(Ayutthaya), 칸차나부리(Kanchanaburi), 카오야이(Khao Yai) 등 외곽 지역 투어**와 같이 일반적으로 하루가 꼬박 소요되는 '널리 알려진 투어 상품'인 경우, 하루 전체(8~10시간)를 소요하는 것으로 간주하여 그날은 다른 큰 일정을 잡지 마세요.
            - **'반일투어'** 태그가 있거나 시내 사원 투어, 쿠킹 클래스 등 일반적으로 4시간 내외인 상품은 오전 또는 오후 중 하나에 배치하고, 남는 시간에는 가벼운 자유 일정이나 다른 짧은 코스를 결합하세요.
         2. **계절 및 날씨 (중요)**: 
