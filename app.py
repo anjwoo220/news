@@ -3019,26 +3019,39 @@ if app_mode == "Admin Console":
         # --- Tab 1: Stats & Health ---
         with tab1:
             st.subheader("시스템 상태")
-            col1, col2 = st.columns(2)
+            col_list, col_form = st.columns([3, 1])
             
-            # File Check
-            with col1:
+            with col_list:
+                st.markdown("#### 📋 투어 현황 마스터보드")
+                try:
+                    df_tours = pd.DataFrame(utils.load_tours())
+                    if not df_tours.empty:
+                        st.dataframe(df_tours[['id', 'region', 'name', 'price']], use_container_width=True, height=400)
+                    else:
+                        st.info("데이터가 비어있습니다.")
+                except:
+                    st.info("데이터를 불러올 수 없습니다.")
+
+            with col_form:
+                # File Check
                 st.markdown("#### 📂 데이터 파일 상태")
                 files_to_check = [NEWS_FILE, COMMENTS_FILE, CONFIG_FILE]
                 for f in files_to_check:
-                    if os.path.exists(f):
-                        size = os.path.getsize(f) / 1024 # KB
-                        st.markdown(f"- ✅ `{f}`: {size:.2f} KB")
-                    else:
-                        st.markdown(f"- ❌ `{f}`: 없음")
-
-            # Visitor Stats
-            with col2:
+                    try:
+                        if os.path.exists(f):
+                            size = os.path.getsize(f) / 1024 # KB
+                            st.markdown(f"✅ `{f.split('/')[-1]}`: **{size:.1f} KB**")
+                        else:
+                            st.markdown(f"❌ `{f.split('/')[-1]}`: 없음")
+                    except:
+                        pass
+                
+                st.divider()
+                # Visitor Stats
                 st.markdown("#### 👥 방문자 현황")
-                # Visitor Stats (Admin)
                 current_total, current_daily = utils.get_visitor_stats()
-                st.metric("총 방문자 (API)", f"{current_total:,}명")
-                st.metric("오늘 방문자 (API)", f"{current_daily:,}명")
+                st.metric("총 방문자", f"{current_total:,}명")
+                st.metric("오늘 방문자", f"{current_daily:,}명")
 
         # --- Tab 2: News Management ---
         with tab2:
