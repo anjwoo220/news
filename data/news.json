@@ -13390,14 +13390,9 @@
       "summary": "- 파타야가 대기 오염을 줄이기 위한 전국 캠페인에 동참하여 개방된 장소에서의 소각 행위 근절을 촉구합니다.\n- 특히 건조한 시기 및 농작물 수확기에 PM2.5 먼지 문제가 심각하며, 이는 호흡기 질환 등의 위험을 증가시킵니다.\n- 파타야는 소각 중단, 불법 소각 신고, 친환경적 농업 폐기물 관리 방법을 통해 문제 해결에 동참할 것을 요청합니다.",
       "full_translated": "파타야는 대기 오염을 줄이기 위한 전국 캠페인에 동참했습니다. PM2.5 먼지 문제는 특히 건조한 시기와 농작물 수확기에 많은 지역에서 발생합니다. 주요 원인 중 하나는 대기 중 연기와 연무 축적을 초래하고 호흡기 질환, 심장병 및 알레르기 위험을 증가시키는 개방된 장소에서의 소각입니다. 특히 어린이, 노인 및 만성 질환자에게 위험합니다.\n\n정부는 다음과 같은 사전 조치를 지속적으로 시행하고 있습니다.\n\n- 위성 시스템을 통한 핫스팟 모니터링 및 추적\n- 지역 사회 이해를 구축하기 위한 홍보 활동\n- 농작물 잔류물을 토양에 다시 갈아 넣거나 퇴비를 만들고 농업 폐기물을 유익한 목적으로 활용하는 등의 방법 장려\n- 제한 구역 내 소각 금지 위반자에 대한 법률 엄격 집행\n\n동시에 파타야는 다음과 같이 문제 해결에 동참할 것을 요청합니다.\n\n✔ 개방된 장소에서 모든 종류의 폐기물 및 폐자재 소각 중단\n✔ 해당 지역 내 불법 소각 사건 1337로 신고\n✔ 농업 자재 관리를 위한 친환경적인 방법 지원\n\n오늘 \"소각 중단\"은 먼지를 줄이고, 깨끗한 공기를 만들고, 가족과 지역 사회의 건강을 지속 가능하게 보호하는 데 도움이 된다는 의미입니다. 파타야는 모든 부문에서 소각을 중단하고 PM2.5 먼지를 줄이기 위해 협력하여 모든 사람의 삶의 질을 향상시킬 것을 요청합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야의 대기 질 문제는 여행객의 건강에 직접적인 영향을 미칠 수 있으므로 정보 제공 가치가 있습니다. PM2.5 수치가 높은 시기에는 야외 활동을 자제하는 것이 좋습니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya Joins National Campaign to Stop Open Burning and Reduce Air Pollution",
@@ -13408,21 +13403,18 @@
       ],
       "collected_at": "23:19",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img202602151804167922551326019351074.jpg?v=1771171509",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://thepattayanews.com/2026/02/15/pattaya-joins-national-campaign-to-stop-open-burning-and-reduce-air-pollution/",
+      "source": ""
     },
     {
       "title": "혼다 LPGA 태국 2026, 이번 주 파타야에서 개최",
       "summary": "- 혼다 LPGA 태국 2026이 2026년 2월 19일부터 22일까지 파타야의 시암 컨트리 클럽 올드 코스에서 개최됩니다.\n- 파타야 시는 이 대회가 파타야의 스포츠 관광을 활성화하는 데 중요한 역할을 한다고 밝혔습니다.\n- 시는 홍보 및 미디어 지원을 통해 대회의 성공적인 개최를 지원할 예정입니다.",
       "full_translated": "세계적인 여자 골프 토너먼트인 '혼다 LPGA 태국 2026'이 2026년 2월 19일부터 22일까지 파타야의 시암 컨트리 클럽 올드 코스에서 개최될 예정입니다. 파타야 시청 132호실에서 파타야 부시장인 담롱키아트 피니차칸 씨와 파타야 시장 비서인 피티야 피롬온 박사도 참석했습니다. 이 권위 있는 세계적인 골프 토너먼트는 파타야 시의 스포츠 관광을 촉진하는 핵심 활동 중 하나입니다. 포라메세 시장은 혼다 LPGA 태국이 파타야 시의 잠재력과 준비성을 입증하는 전설적인 시암 컨트리 클럽 올드 코스에서 19년 동안 지속적으로 개최되었다고 밝혔습니다. 이 골프장은 국제 스포츠 대회를 개최할 수 있는 고품질 골프 코스를 갖추고 있습니다. 전 세계의 프로 골퍼는 물론, 종합적인 관광 명소를 수용하여 전 세계에서 많은 고급 골프 관광객을 파타야로 유치합니다. 이는 지역에 소득을 창출할 뿐만 아니라 파타야 시의 이미지를 세계 표준 골프 코스와 완벽한 관광 시설을 갖춘 도시로 홍보합니다. 이번 행사의 성공을 위해 파타야 시는 다양한 커뮤니케이션 채널을 통해 홍보를 지원하고, 현지 언론과 협력하여 대회 전체를 취재하여 선수와 전 세계 시청자에게 지속적인 인상을 남길 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 행사 정보이긴 하지만, 파타야에서 열리는 국제적인 골프 토너먼트 정보이므로 여행객에게 흥미로운 정보가 될 수 있다고 판단.",
-      "event_info": {
-        "date": "2026-02-19",
-        "location": "Siam Country Club, Old Course, Pattaya",
-        "price": "N/A",
-        "location_google_map_query": "Siam Country Club, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-19', 'location': 'Siam Country Club, Old Course, Pattaya', 'price': 'N/A', 'location_google_map_query': 'Siam Country Club, Pattaya'}",
       "references": [
         {
           "title": "Honda LPGA Thailand 2026 Begins THIS Week in Pattaya",
@@ -13433,21 +13425,18 @@
       ],
       "collected_at": "23:19",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17711720013634057577455090660964.jpg?v=1771172060",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://thepattayanews.com/2026/02/15/honda-lpga-thailand-2026-begins-this-week-in-pattaya/",
+      "source": ""
     },
     {
       "title": "농프루 시, '농프루 시티 런 2026'에 모든 연령대 참가자 초대",
       "summary": "- 농프루 시에서 2026년 2월 21일 맙프라찬 저수지에서 '농프루 시티 런 2026' 개최.\n- 5km 펀 런과 10km 미니 마라톤으로 구성, 초보자와 경험자 모두 참여 가능.\n- 건강 증진 및 지역 사회의 삶의 질 향상을 목표로 함.",
       "full_translated": "농프루, 방람웅 지역 – 농프루 시는 모든 성별과 연령대의 거주자, 러너, 피트니스 애호가들에게 연례 건강 중심 달리기 대회인 '농프루 시티 런 2026'(회계연도 2026)에 참여할 것을 따뜻하게 초대합니다. 이 행사는 2026년 2월 21일 토요일 맙프라찬 저수지에서 열릴 예정입니다.\n\n올해 행사의 주된 목표는 달리기를 모든 사람이 접근하고 즐길 수 있는 운동 형태로 만들어 어린이, 청소년 및 일반 대중이 건강을 우선시하도록 장려하는 것입니다. 규칙적인 신체 활동을 장려함으로써 시는 질병을 예방하고 전반적인 웰빙을 개선하며 지역 사회에서 지속 가능한 삶의 질을 구축하는 데 도움을 주고 싶어합니다. 공식 개막식은 방람웅 지역의 최고의 야외 피트니스 및 경치 좋은 랜드마크 중 하나인 마프라찬 저수지의 멋진 자연 배경을 배경으로 오후 7시에 열립니다.\n\n이 행사에는 5km 펀 런과 10km 미니 마라톤이 있으며, 초보자와 경험자 모두에게 적합하며, 황금 시간대에 아름다운 호숫가 경로를 즐길 수 있는 기회가 있습니다. 농프루 시는 더 건강한 지역 사회를 건설하기 위한 이 공동 노력에 모두가 동참할 것을 권장합니다. '농프루 시티 런 2026'에 참여하여 함께 더 나은 건강을 향해 나아가세요! 자세한 내용 및 문의 사항은 농프루 시 전화 0-3350-3100으로 문의하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객들에게 건강 관련 행사 참여 기회를 제공하며, 맙프라찬 저수지는 관광 명소로서의 가치가 있음.",
-      "event_info": {
-        "date": "2026-02-21",
-        "location": "Mapprachan Reservoir, Nongprue",
-        "price": "정보 없음",
-        "location_google_map_query": "Mapprachan Reservoir"
-      },
+      "event_info": "{'date': '2026-02-21', 'location': 'Mapprachan Reservoir, Nongprue', 'price': '정보 없음', 'location_google_map_query': 'Mapprachan Reservoir'}",
       "references": [
         {
           "title": "Nongprue Municipality Invites All Ages to Join the Upcoming NONGPRUE CITY RUN 2026 Running Event",
@@ -13456,21 +13445,19 @@
         }
       ],
       "collected_at": "23:19",
-      "date": "2026-02-15"
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": "https://thepattayanews.com/2026/02/15/nongprue-municipality-invites-all-ages-to-join-the-upcoming-nongprue-city-run-2026-running-event/",
+      "source": ""
     },
     {
       "title": "파타야 시, 청소년 밴드 경연대회 시상식 개최",
       "summary": "- 파타야에서 청소년 밴드 경연대회 시상식이 열렸습니다.\n- 우승팀에게는 2026년 파타야 뮤직 페스티벌 메인 무대 공연 특전이 주어집니다.\n- Soul Price Band와 Skinnydip이 공동 1위를 차지했습니다.",
       "full_translated": "파타야 시는 청소년 밴드 경연대회 시상식을 개최했습니다. 이날 심사에서는 고등학교 수준의 팀들이 경쟁했습니다. 우승팀은 2026년 파타야 뮤직 페스티벌 메인 무대에서 공연할 수 있는 특별한 기회를 얻어 젊은 인재들에게 영감을 주고 더 큰 공연 기회로 나아갈 수 있는 길을 열어줍니다.\n\n경연 결과:\n- 1위 (공동 수상): Soul Price Band 및 Skinnydip\n- 2위: SISSWEET\n- 3위: 카오 나 뻿\n\n개인 수상:\n- 최우수 리드 보컬: Soul Price Band, SISSWEET, 카오 나 뻿, Sunny Side Up\n- 최우수 드러머: Soul Price Band, Sunny Side Up\n- 최우수 베이시스트: Sunny Side Up\n- 최우수 기타리스트: 카오 나 뻿\n- 최우수 키보디스트: Soul Price Band\n- 인기상: Chonkanya Band\n\n현장은 활기찬 분위기였으며, 파타야 청소년들의 창의성과 재능을 보여주는 동시에 젊은이들의 음악 발전을 지원하려는 시의 지속적인 노력을 보여주었습니다. 이번 행사는 파타야 시 관광체육부 홍보과의 Siraprapa Thongsamut 씨가 보도하고 Chinanang Chumchue 씨가 촬영했습니다. The Pattaya News의 Adam Judd가 영어로 번역했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야에서 열리는 음악 행사 정보로, 여행객에게 흥미로운 지역 소식이 될 수 있음.",
-      "event_info": {
-        "date": "2026",
-        "location": "파타야 뮤직 페스티벌",
-        "price": "미정",
-        "location_google_map_query": "Pattaya Music Festival"
-      },
+      "event_info": "{'date': '2026', 'location': '파타야 뮤직 페스티벌', 'price': '미정', 'location_google_map_query': 'Pattaya Music Festival'}",
       "references": [
         {
           "title": "Pattaya City Holds Youth Band Competition Award Ceremony",
@@ -13481,6 +13468,54 @@
       ],
       "collected_at": "23:19",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17711700008189012217525374573227.jpg?v=1771170063",
+      "date": "2026-02-15",
+      "link": "https://thepattayanews.com/2026/02/15/pattaya-city-holds-youth-band-competition-award-ceremony/",
+      "source": ""
+    },
+    {
+      "title": "아시아 전역 항공편 대규모 차질: 태국 푸껫 등 38편 취소, 1,022편 지연",
+      "summary": "- 아시아 지역에서 항공편 취소 및 지연이 속출하고 있습니다.\n- 특히 일본, 중국, 인도네시아, 태국에서 많은 항공편이 영향을 받았습니다.\n- 푸껫 공항도 영향을 받아 여행객들의 주의가 필요합니다.",
+      "full_translated": "아시아 전역에서 대규모 여행 혼란이 발생하여 일본, 중국, 인도네시아, 태국 등에서 38편의 항공편이 취소되고 1,022편이 지연되었습니다. Batik Air, Garuda, All Nippon, Jetstar, Spring, Tibet Airlines 등의 항공사가 자카르타, 상하이, 나리타, 푸껫 등에서 영향을 받았습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "푸껫 공항의 항공편 취소 및 지연은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 공항 혼잡 관련 정보는 여행 계획에 필수적입니다.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 공항",
+        "price": null,
+        "location_google_map_query": "푸껫 공항"
+      },
+      "references": [
+        {
+          "title": "Massive Travel Disruptions Across Asia as Japan, China, Indonesia, Thailand and More Cancel 38 Flights and Delay 1,022, Affecting Airlines Like Batik Air, Garuda, All Nippon, Jetstar, Spring, Tibet Airlines and Others in Jakarta, Shanghai, Narita, Phuket and - Travel And Tour World",
+          "url": "https://travelandtourworld.com/news/article/massive-travel-disruptions-across-asia-as-japan-china-indonesia-thailand-and-more-cancel-38-flights-and-delay-1022-affecting-airlines-like-batik-air-garuda-all-nippon-jetstar-spring-tibet-airlines-and-others-in-jakarta-shanghai-narita-phuket-and/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "23:54",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "영국 관광객, 태국 휴가 중 감옥 경고 직면 (Liverpool Echo)",
+      "summary": "- 태국에서 특정 행위(예: 불법 약물 소지, 왕실 모독)는 엄격히 처벌될 수 있습니다.\n- 영국 관광객들에게 태국 법률 및 문화에 대한 인식이 요구됩니다.\n- 사전에 관련 정보를 숙지하여 불이익을 당하지 않도록 주의해야 합니다.",
+      "full_translated": "Liverpool Echo에 따르면, 태국 휴가 중인 영국 관광객들이 감옥에 갈 위험에 처할 수 있다는 경고가 나왔습니다. 태국은 특정 범죄에 대해 매우 엄격한 처벌을 내리며, 특히 약물 관련 범죄나 왕실에 대한 모독은 심각한 결과를 초래할 수 있습니다. 따라서 태국을 방문하는 관광객들은 태국 법률과 문화에 대해 충분히 숙지하고, 문제가 될 만한 행동은 삼가야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "해외여행 중 법률 위반은 심각한 결과를 초래할 수 있으므로, 여행객의 안전을 위해 관련 정보를 제공하는 것이 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UK tourists face prison warning over Thai holidays - Liverpool Echo",
+          "url": null,
+          "source": "Liverpool Echo"
+        }
+      ],
+      "collected_at": "23:54",
       "date": "2026-02-15"
     }
   ]
