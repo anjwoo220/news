@@ -13670,14 +13670,9 @@
       "summary": "- 이스라엘군이 가자 지구의 여러 지역을 공격하여 팔레스타인인 11명이 사망하고 여러 명이 부상당했습니다.\n- 이스라엘군은 하마스의 휴전 협정 위반에 대한 대응으로 테러리스트를 겨냥했다고 밝혔습니다.\n- 팔레스타인 적신월사는 이스라엘의 공격으로 가자 지구 북부의 난민 캠프가 공격받아 최소 6명이 사망했다고 밝혔습니다.",
       "full_translated": "이스라엘이 일요일 가자 지구의 여러 지역을 공격했습니다. 이스라엘군은 무장 단체를 목표로 삼았다고 주장했지만, 보건 당국은 포탄이 난민 텐트를 강타하여 11명이 사망했다고 밝혔습니다. 2069년 2월 15일 일요일, 팔레스타인 민방위대와 보건 당국은 이스라엘이 같은 날 아침 가자 지구의 여러 지역을 공격하여 팔레스타인인 11명이 사망하고 여러 명이 부상당했다고 보고했습니다. 이스라엘 방위군(IDF)은 하마스의 휴전 협정 위반에 대한 대응으로 테러리스트를 겨냥하여 공격했다고 밝혔고, 이스라엘 군대의 통제하에 있는 가자 지구 지역의 지하 터널에서 나온 무장 전투원을 사살했습니다. 그러나 팔레스타인 적신월사는 이스라엘의 공격으로 가자 지구 북부의 난민 텐트가 공격받아 최소 6명이 사망했다고 밝혔습니다. 가자 지구 남부에서 발생한 또 다른 공격으로 5명이 사망했습니다. 지난 10월 10일에 발효된 휴전 협정 이후 이스라엘과 하마스는 거의 매일같이 휴전 협정 위반을 서로에게 씌우고 있으며, 가자 지구에서 최소 600명이 사망했습니다. 최근 공격은 미국이 중재한 2차 휴전 협정 시행 준비가 진행 중인 가운데 발생했습니다. 지난 1월, 도널드 트럼프 미국 대통령은 유엔 안전보장이사회로부터 가자 지구 국경 지역의 보안을 유지하고 하마스 무장 해제를 감독할 국제 군대를 창설할 권한을 부여받은 '평화 위원회(Board of Peace)'라는 새로운 조직의 설립을 발표했습니다... 위원회는 회의를 열 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "가자지구에서 발생한 이스라엘-팔레스타인 분쟁 관련 소식. 여행 자체에 직접적인 영향은 적으나, 주변국 여행에 대한 불안감을 유발할 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "가자 지구",
-        "price": null,
-        "location_google_map_query": "가자 지구"
-      },
+      "event_info": "{'date': None, 'location': '가자 지구', 'price': None, 'location_google_map_query': '가자 지구'}",
       "references": [
         {
           "title": "อิสราเอลทิ้งบอมบ์กาซาหลายจุด ดับแล้ว 11 ศพ อ้างถล่มกลุ่มติดอาวุธ",
@@ -13686,23 +13681,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGThuQhWyEDtRF.jpg"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "1:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGThuQhWyEDtRF.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/foreign/2914425",
+      "source": ""
     },
     {
       "title": "태국, 전쟁 속 중립 경로로 부상",
       "summary": "- 태국은 지정학적 긴장 속에서 중립적인 여행 및 비즈니스 허브로서의 역할을 모색하고 있습니다.\n- 두바이와 함께 러시아를 포함한 여러 국가의 개인과 기업에게 안전한 피난처를 제공합니다.\n- 이러한 중립적 입장은 태국의 관광 산업과 경제에 긍정적인 영향을 미칠 수 있습니다.",
       "full_translated": "태국과 두바이는 전쟁 속 중립 경로로서 기능합니다. Karlobag.eu",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국이 중립국으로서 여행 및 비즈니스 허브로 부상하는 것은 장기적으로 관광객과 경제에 영향을 미칠 수 있지만, 당장 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand and Dubai as neutral routes amid the war - Karlobag.eu",
@@ -13711,23 +13703,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "1:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTGltTjJLdjJEVDZtSFU4Y2l4TldXMDVKX21LYUppQUh1NzI3R0xDenZQSzdLeFQ4ZGN6RUJUT3BkMWU3eVhmSVJZX3BLTVpQeF9JZEVFYkhtN24xY2lTZ2E0TDZoNzR0MVdRV3YwUzBieXFYb0g3V0x1eUdSQjRMMURfQ0MwM2NSblNWc281bW5GRTJmb0stTzMwcm56Q0wtYTkybWNPWnFXajJSTWRXUnM5czU2UU5QNWFFSi15bXZHeGJqWldiUDFtZDd2YmR2NTVHeF9EV3lXLVl4VThrb1RVNTItdUZKcXcxWFlGaTFlSVhDYjBvTQ?oc=5",
+      "source": ""
     },
     {
       "title": "동남아시아 2위 경제 대국, 여행 비용 증가 주장에 반박",
       "summary": "- 베트남, 여행 비용 상승 주장에 대해 공식적으로 이의 제기\n- 정부는 관광객 유치를 위해 가격 안정화 노력 중\n- 최근 경제 상황을 고려할 때 합리적인 가격 정책 유지 강조",
       "full_translated": "동남아시아 2위 경제 대국이 여행 비용 증가 주장을 일축했습니다. VnExpress International",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국은 아니지만, 인접 국가의 여행 관련 경제 뉴스로서 참고 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Southeast Asia's 2nd largest economy dismisses claims of escalating travel costs - VnExpress International",
@@ -13736,23 +13725,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "1:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa19BWVIybXBjcGUxcjYxcHc0MTZNX3RSelFjdEpBZklHYU1lZGt2Z3JSV05Zb2NuSE4xbDRqMU95TzhDTS0zeHVEV1hkb0h6WFJRX2JVNDFVQkhKeV9qVHBCb0JLNm51NEl2SkhhNnh2WS04RmJxaGZQcERGc3pLZjhtQzN1R1d3a2dXMFdoT1dEbDV5WlYwZ0U0cUhwYVhVekFmTW1wLVRSclNZR0NyOE9ZUnpwZDVMRVJFWWZqcXFOVWVHYmh5RA?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 러시아의 나발니 독살 시도에 대한 유럽의 주장에 '이의 없음'",
       "summary": "- 미국은 러시아 정부가 반정부 지도자 알렉세이 나발니를 독살하려 했다는 유럽의 주장에 이의를 제기하지 않음.\n- 영국은 러시아에 대한 새로운 제재 가능성을 시사함.\n- 유럽은 나발니의 시신에서 희귀 독성 물질인 '에피바티딘'이 발견됐다고 발표함.",
       "full_translated": "미국은 유럽이 러시아 정부가 2년 전 반정부 지도자 알렉세이 나발니를 살해하는 데 화살촉 독극물을 사용했다고 주장한 것에 대해 이의를 제기할 이유가 없다고 밝혔습니다. 미국은 유럽의 조사 결과에 이의를 제기하지 않는다고 발표했는데, 이 조사 결과에 따르면 러시아 반정부 지도자 알렉세이 나발니는 희귀한 화살촉 독극물에 의해 독살되었습니다. 한편 영국은 러시아에 대한 새로운 제재 가능성을 시사했습니다. 마르코 루비오 미국 국무장관은 일요일 슬로바키아를 방문하는 동안 유럽의 보고서를 '매우 우려스럽고' '매우 심각하다'고 불렀습니다. 토요일, 영국, 프랑스, 독일, 네덜란드, 스웨덴은 러시아 국가가 2년 전 시베리아 교도소에서 나발니를 살해했다고 비난했습니다. 5개국은 공동 성명에서 그의 몸에서 채취한 샘플을 실험실에서 분석한 결과 남아메리카 화살촉 개구리에서 발견되는 독성 물질인 '에피바티딘'이 발견되었으며, 해당 물질의 존재에 대한 무고한 설명은 없다고 주장했습니다. 2027년 2월 나발니 사망 2주기를 거의 정확히 맞춰 발표된 이번 발표는 러시아 정부에 대한 압력을 가중시키고 서방 국가들이 공동 조치를 취할 가능성을 높입니다. 워싱턴이 유럽의 공동 성명에 동참하지는 않았지만 루비오는 그러한 결정이 미국과 유럽 간의 불일치를 의미하지는 않는다고 말했습니다. 루비오는 '우리는 이 문제에 대해 질문할 이유가 없다'고 말하며 미국이 해당 조사 결과에 대해 유럽 동맹국과 '다투고' 싶어하지 않는다고 덧붙였습니다. ... 한편 이베트 쿠퍼 외무장관...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 사건이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สหรัฐฯ “ไม่โต้แย้ง” ยุโรปกล่าวหารัสเซีย วางยาพิษ “นาวาลนี”",
@@ -13761,23 +13747,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGTh20WP2S9f0o.jpg"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "1:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGTh20WP2S9f0o.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/foreign/2914427",
+      "source": ""
     },
     {
       "title": "혼다, 레트로 디자인과 첨단 기술이 결합된 New Honda GB350C 출시",
       "summary": "- 혼다가 레트로 스타일의 빅바이크 New Honda GB350C를 출시했습니다.\n- 클래식한 디자인과 현대적인 기술의 조화가 특징입니다.\n- 348cc 엔진을 탑재하여 부드럽고 강력한 주행 성능을 제공합니다.",
       "full_translated": "혼다 빅바이크가 '클래식의 영혼'이라는 컨셉으로 New Honda GB350C를 출시했습니다. 태국 혼다는 Honda Megafesto 2026에서 New Honda GB350C를 공식적으로 선보였습니다. New Honda GB350C는 시간을 초월하는 클래식한 매력을 '클래식의 영혼'이라는 컨셉으로 담아냈으며, 일본 수입 표준의 품질을 결합하여 디자인과 일상 생활에서 즐거운 주행 성능을 원하는 클래식 라이프스타일 애호가에게 적합합니다. 섬세한 디자인으로 클래식 자동차의 정신을 반영합니다. New Honda GB350C는 레트로 클래식 스타일의 물방울 모양 연료 탱크, 크롬 프레임의 원형 헤드라이트, 깊은 전후면 스틸 머드가드, 독특한 저음 사운드를 제공하는 클래식한 직선형 배기 파이프가 특징입니다. 레트로 디자인의 마그네슘 휠은 차량 스타일과 완벽하게 조화를 이루어 주행 안정성을 높입니다. 2단 분리형 시트는 차량 비율을 균형 있게 만들어주며, 아날로그 계기판과 필요한 모든 주행 정보를 제공하는 LCD 화면이 결합되어 클래식함과 현대 기술의 완벽한 조화를 이룹니다. 성능 면에서 New Honda GB350C는 공랭식 348cc 단기통 4행정 엔진으로 구동되어 부드럽고 강력하며 낮은 RPM에서 뛰어난 반응성을 제공하여 도시 주행과 편안한 여행에 모두 적합합니다. Assist & Slipper Clutch는 부드러운 기어 변속을 보장하고 H 시스템은 자신감을 더합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 관련 직접적인 정보는 아니지만, 태국 내 새로운 이동 수단 트렌드를 보여주는 정보이므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฮอนด้าบิ๊กไบค์ ส่ง New Honda GB350C ผสานดีไซน์เรโทรกับเทคโนโลยีล้ำสมัย",
@@ -13786,8 +13769,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9dI1xuvl3jO.jpg"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "1:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9dI1xuvl3jO.jpg",
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/auto/news/2914410",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 주요 비자 개혁 발표: 60일 무비자 입국, 디지털 도착 카드, 원격 근무 비자 도입",
+      "summary": "- 태국이 2026년부터 시행될 주요 비자 개혁안을 발표했습니다.\n- 60일 무비자 입국, 디지털 도착 카드, 원격 근무 비자 등이 포함됩니다.\n- 이러한 변화는 태국 여행 계획에 큰 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "태국이 2026년부터 시행될 주요 비자 개혁안을 발표했습니다. 60일 무비자 입국, 디지털 도착 카드, 원격 근무 비자 등이 포함됩니다. 이러한 변화는 태국 여행 계획에 큰 영향을 미칠 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 정책 변경은 여행 계획에 직접적인 영향을 미치므로 매우 중요합니다. 60일 무비자 체류는 큰 이점입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Unveils Major Visa Reforms for 2026 with 60-Day Visa-Free Entry, Digital Arrival Card, and Remote Worker Visas How These Changes Will Revolutionize Your Travel Plans - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNcWtVQ0V0NkxreEctTzhuN0xmaW81XzJNSklNN09FOWRuLWVKWmdhdmszQ2wzNERNNGhxcWViWHdhaXdGeE9sRFZmVHp5VUFOd2l6ZmFpbGZEaUk4U3JpRlpSeEhKc05LM3pXaFhKd2sxRzNrNEt3UzYwNE5ZWWIyeXh4cFlicHNvdnVZSkNZNXc1Mm5lVm9NNHJiS0ljTEc1MEdLbFZoZGlKZllkb0lyRWNJQ21fOURZSFJhMXFkMWFSeUNTb1pyenRoU09tNmwzS0ZXaTNGTk1KeFVrX29ETHlMNS13ZXprTktSLUFJUFpTWXpzOFVTRDZ6RWoxMmFGTnBjZ3VjWm52VWE5OWpqUThwbFYxREJIZGtYRG52UnBFaURWTHRnajM3X3JuTXQxV3FaUzhGNTU1eVZseHpCT0xCSQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국, 2026년 비자 개혁 발표: 방콕, 치앙마이, 푸켓 등 여행객을 위한 무비자 체류, 디지털 카드, 새로운 비자 카테고리 정보",
+      "summary": "- 태국 정부가 2026년부터 시행될 비자 개혁안 발표.\n- 무비자 체류, 디지털 카드 도입, 새로운 비자 카테고리 신설 예정.\n- 방콕, 치앙마이, 푸켓 등 주요 여행지에 적용.",
+      "full_translated": "태국은 2026년 비자 개혁을 통해 방콕, 치앙마이, 푸켓 등을 여행하는 여행객들에게 무비자 체류, 디지털 카드 및 새로운 카테고리에 대한 정보를 제공할 예정입니다. 자세한 내용은 Travel And Tour World에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "태국 여행 관련 비자 정책 변경은 여행객에게 중요한 정보이므로 높은 점수 부여. 2026년부터 적용되지만, 여행 계획에 영향을 줄 수 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 치앙마이, 푸켓",
+        "price": null,
+        "location_google_map_query": "방콕, 치앙마이, 푸켓"
+      },
+      "references": [
+        {
+          "title": "Thailand’s 2026 Visa Reforms: What Travelers to Bangkok, Chiang Mai, Phuket, and Beyond Must Know About Visa-Free Stays, Digital Cards, and New Categories - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPaFN0UHpzbENGYzNvcFFKWnA4d0RQSVhPQ1hTNXNmd2RNcEVoVmtGQTFra1pCREJ0c1Ita1A3MlVPeUtwaVZqUXphaVc3eWZnblkzaWhxMzNqY0IzdDFtQTNZODRiVDU5Mng1RGxqdC1BU29TVU15RzFnbkRlUGhtMkpyMGNLYVBkWlVMWkpGaWh5M3lDblgwbnpoc0FoOGozS24yZmxMLXhRcWFiNC1ld0dCNmlXV0dQVG5ROWdZcXNLUEZfV2tzbDJwemVjMk1ubkdrMXJRY2kyTTBkU0RQcEJWWnk4RmpyZUtJU1VBaHpDNE9nTk9USXB5RFpyOUZTSkg4bC1iLTU2YWF5dk14WVR4ald4UEx3cHZOS0hVMFFRUQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국, 중국 관광객 유치를 위한 새로운 캠페인 시작",
+      "summary": "- 태국이 중국 관광객 유치를 위한 새로운 캠페인을 시작했습니다.\n- 이번 캠페인은 경제적 효과를 높이고 문화적 유대를 강화하는 데 목적이 있습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 중국 관광객 유치를 위한 흥미로운 새 캠페인을 시작하여 경제적 영향력을 높이고 문화적 유대를 강화합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 관광객 유치 캠페인은 태국 여행 관련 중요한 정보이므로 6점 부여. 새로운 소식이므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Launches Exciting New Campaign to Draw Chinese Tourists, Elevating Economic Impact and Strengthening Cultural Ties - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPSjJoemZmdmpBYzc2RUsxZzJpTkRzc0tlYUJGRlFBbDY2S2xjODZIbkJoSGoyYmZrMkZ4XzVCNjM4c0FwanlyWHZWc2dGTzRCTTU0TnpZNXpsc2E5OGtTUU5FUjRXUU03STFvcGVQSTBIQWtMc3VwdXpZUkF2MGhGNzNzVVUzYXM1TTVKQnJiTnc5TWl4RV9HQUp4NWJSYkF1Zk9IWmt3YjhiZ1hzWjMySGwyUXFoSWZ2OUxDWjRSOFBRam4yenJpbjNqWUdZUHUzUjJHVGNaSUd5OFpnX0xxS1dCUTE5aDRYZWdLdFp1eHBjc3JjbEdTOU9PRG02a1dk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 최장 철도 터널 프로젝트, 53% 완료... 북부 지역 교통 연결 개선 기대",
+      "summary": "- 태국 최장 철도 터널 프로젝트가 53% 완료 단계에 접어들었습니다.\n- 이 프로젝트는 북부 지방 간의 교통 연결성을 향상시킬 것으로 예상됩니다.\n- 또한, 관광산업 확장에도 기여할 것으로 기대됩니다.",
+      "full_translated": "태국 최장 철도 터널 프로젝트가 53% 완료 단계에 접어들어 북부 지방 간의 교통 연결 개선, 여행 성장 및 관광 확장의 길을 열었습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "철도 연결 개선은 장기적으로 여행 편의성을 증진시키지만, 현재 시점에서는 공사 진행률 정보이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국 북부",
+        "price": null,
+        "location_google_map_query": "태국 북부 철도"
+      },
+      "references": [
+        {
+          "title": "Thailand’s Longest Rail Tunnel Project Hits Fifty-Three Percent Completion, Paving the Path for Improved Transport Links Between Northern Provinces, Travel Growth, and Tourism Expansion - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNTGhUZTNpTlVLQl9OOHllc3pSdWJlTTZuYzRsUTk1YmtPend4eW5sUDZFRFlpZEMweHM3RjhIRDFFWERPNk0xaHp5eDRpQWxEVHJLcURoOHRkczVkOHJoZEh2TkFXSDRwcWlob1BKWXdOcDA3VmVUVmE4enlGY0o4T3haemZ5UHdzcnI1d3JLbHV0TE5pdVJEbm1KeFdBOXF1bVA4bkxaMU9odXNSX1M4UDdkbVBQdGQ3VzZZdG0yTHd5S0hFdDkyenBTQUVoSmtJdHVXQXJ2ZmotbnRlb3d2RkVXeS1mQ09rbXdpbVNoZXZMWHRsc1lHR0trNTc4Rlg1dktwcHRRY3NCMjBHZEY5bzAyU2RDLXM0RElNdUxDRFhnM2p2N0FXNnlWYUJpcFlLa3dqWHZ2S3c3MVh4dnJjYi03ODF5aS1kNm4xMVhoNA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "아누틴 총리 대행, 파리야 고향 방문 및 지지 감사",
+      "summary": "- 아누틴 총리 대행이 부인 고향인 라농 지역을 방문하여 지지에 감사 표시\n- 품짜이타이 당 지지자들과 함께 승리 자축\n- 다음 정부에서 안보 및 경제 문제 담당",
+      "full_translated": "아누틴 총리 대행은 '와라우트', '트라이술리'와 함께 부인 '짜 타논'의 고향을 방문하여 지지자들에게 감사를 표했습니다. 그는 직접 빨간색 나무 2열 좌석 버스를 운전하며 라농 주민들에게 품짜이타이 당에 표를 준 것에 대해 감사를 표했습니다. 2069년 2월 15일, 아누틴 차른비라쿨 총리 대행 겸 내무부 장관은 품짜이타이 당 대표 자격으로 부인인 타논 니라미트, 혹은 짜로 알려진 이와 최근 결혼한 후 라농 지역 주민들에게 감사를 표하기 위해 방문했습니다. 아누틴 총리 대행이 라농 지역의 상징인 빨간색 나무 2열 좌석 버스를 직접 운전하며 2069년 선거 후 라농 주민들에게 감사를 표하는 모습이 포착되었습니다. 와라우트 실파아차 당 목록 의원은 “완전한 팀”이라고 말하며 사진을 찍었습니다. 또한 트라이술리 트라이사라나쿨 총리 비서관 겸 품짜이타이 당 등록관과 타논도 동행했습니다. 라농 지역에서는 품짜이타이 당의 콩크릿 찻마리랏 의원이 50,000표 이상을 얻어 경쟁자를 압도했습니다. 아누틴 총리 대행은 또한 13시 42분에 개인 페이스북에 운전하는 모습과 함께 \"공식 결과를 기다리는 동안 라농 지방 주민들에게 감사를 드립니다. 우리는 품짜이타이 당에 호의를 베풀어주신 모든 지방 주민들에게 감사를 드리기 위해 여행할 것입니다.\"라는 메시지를 게시했습니다. 라농 지역에서는 시민들이 열렬히 환영하며 손을 흔들고 가까이서 이야기를 나누었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "라농",
+        "price": null,
+        "location_google_map_query": "라농"
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” เยือนบ้านเกิด “จ๋า ธนนนท์” ขับรถสองแถวไม้แดงขอบคุณชาวระนอง เมตตาภูมิใจไทย",
+          "url": "https://www.thairath.co.th/news/politic/2914383",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5mwY9GPKdIv4h.jpg"
+        }
+      ],
+      "collected_at": "02:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5mwY9GPKdIv4h.jpg",
       "date": "2026-02-16"
     }
   ]
