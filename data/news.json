@@ -12469,14 +12469,9 @@
       "summary": "- 태국 해군, 트랏 지방 Ban Chamrak 지역에서 PMN-2 대인지뢰 6개 추가 발견.\n- 지뢰 제거 작전 중 새로 매설된 지뢰 발견, 캄보디아의 국제법 위반 행위 규탄.\n- 해당 지역에서 PMN-1 지뢰 3개와 POMZ 지뢰 1개도 추가로 발견됨.",
       "full_translated": "태국 해군이 트랏 지방 Ban Chamrak 지역 국경 지대에서 새로운 PMN-2 대인지뢰 6개를 추가로 발견했습니다. 해군은 지뢰 제거 작전 '트랏 피가트 파이리' 중 이러한 사실을 확인했으며, 이는 캄보디아가 국제법을 위반한 행위라고 규탄했습니다.  조사 결과, 발견된 지뢰는 기존에 매설된 것이 아니라 최근에 새로 설치된 것으로 밝혀졌습니다. 또한, 해당 지역에서는 PMN-1 지뢰 3개와 POMZ 지뢰 1개도 추가로 발견되었습니다. 태국 해군은 2023년 12월 27일 태국-캄보디아 공동 성명에 따라 인도주의적 원칙을 준수하며 대인지뢰 사용을 지지하지 않는다는 입장을 밝혔습니다. 태국은 이번 사태를 국제법 및 관련 국제기구에 따라 처리할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국경 지역의 지뢰 발견은 여행객의 안전에 잠재적인 위협이 될 수 있으므로 관련 정보 제공. 특히 트랏 지역 여행객에게 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Ban Chamrak, Trat",
-        "price": null,
-        "location_google_map_query": "Ban Chamrak Trat Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Ban Chamrak, Trat', 'price': None, 'location_google_map_query': 'Ban Chamrak Trat Thailand'}",
       "references": [
         {
           "title": "พบอีก 6 ทุ่น \"ทุ่นระเบิด PMN-2\" สภาพใหม่ ในพื้นที่บ้านชำราก ชายแดน จ.ตราด",
@@ -12487,21 +12482,18 @@
       ],
       "collected_at": "14:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5q7ik97m0xxQ6.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/local/east/2914342",
+      "source": ""
     },
     {
       "title": "태국 송크란 유네스코 등재, 캄보디아 추진에도 영향 없어",
       "summary": "- 태국 문화부 장관, 송크란 축제가 2026년에 이미 유네스코에 등재되었음을 확인.\n- 캄보디아의 유사한 축제 등재 추진은 태국의 지위에 영향을 미치지 않음.\n- 태국은 2029년 말에 전통 의상 등 추가적인 문화 유산을 유네스코에 등재할 계획.",
       "full_translated": "사비다 태국 문화부 장관은 캄보디아가 유네스코에 Mohasangkran chnam thmey, 캄보디아 전통 설날을 등재하려는 움직임이 있다는 언론 보도에 대해 사실임을 밝혔습니다. 사비다 장관은 이러한 움직임이 태국의 '송크란' 지위에 영향을 미치지 않는다고 확인했습니다. 태국은 이미 2026년에 인류의 무형 문화 유산으로 등재되었기 때문입니다. 따라서 태국의 등재는 완전하며 다른 국가의 제안에 의해 영향을 받지 않습니다. 유네스코 등재는 단일 국가의 소유권을 인정하는 것이 아니라 유사한 전통은 여러 국가에서 유사할 수 있습니다. 태국은 또한 태국 의상, 무에타이, 파카오마, 러이 끄라통 등 여러 항목을 추가로 제안할 예정입니다. '태국 의상'은 2029년 말 유네스코의 고려 대상이 될 예정입니다. 따라서 태국 국민들은 정부의 문화부가 태국 문화 자본과 모든 유형의 국가 유산을 보호하기 위해 모든 차원에서 적극적으로 노력하고 있다는 점을 안심해도 됩니다. 장관은 또한 관련 부서인 문화 진흥국에 국민에게 정확한 정보를 홍보하고 캄보디아의 진행 상황을 면밀히 모니터링하도록 지시했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "송크란 축제는 태국을 방문하는 관광객들에게 중요한 문화 체험이므로 관련 정보를 제공. 캄보디아의 유사 축제 등재 추진이 태국 송크란에 미치는 영향은 미미하지만, 관련 정보를 제공하여 혼란을 방지.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ซาบีดา” ชี้ “สงกรานต์ไทย” ขึ้นทะเบียน UNESCO ตั้งแต่ปี 2566 กรณีกัมพูชา ไม่กระทบไทย",
@@ -12512,21 +12504,18 @@
       ],
       "collected_at": "14:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5qzkrAfVO2acs.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2914352",
+      "source": ""
     },
     {
       "title": "니다폴, 부정 선거 문제 있다고 보는 사람들, 선관위가 가해자를 처벌할 것이라고 믿지 않아",
       "summary": "- 니다폴 여론조사 결과, 대부분의 사람들은 자신의 지역구에서 부정 행위가 없다고 응답함.\n- 선관위의 업무에 대체로 만족한다는 의견이 많았음.\n- 부정 행위가 있다고 답한 사람들은 선관위가 가해자를 처벌할 것이라고 믿지 않는다고 응답함.",
       "full_translated": "2069년 선거 후 니다폴 여론조사 결과, 대부분은 자신의 지역구에서 부정행위가 없다고 밝혔습니다. 선관위의 업무에 상당히 만족한다고 답했습니다. 2069년 2월 15일, 경영개발대학원(NIDA)의 여론조사센터 '니다폴'은 '선관위가 부정행위자를 처벌할 수 있는가'라는 여론조사 결과를 발표했습니다. 이 조사는 2069년 2월 11일부터 12일까지 전국 각 지역, 교육 수준, 직업 및 소득에 따라 18세 이상 유권자 1,310명을 대상으로 실시되었습니다. 선거 부정행위자를 처벌하는 선거관리위원회(선관위)의 업무에 대한 질문에서 2069년 2월 8일 자신의 선거구에서 선거 부정행위가 있었는지 묻는 질문에 응답자의 40.08%는 전혀 없다고 답했고, 23.51%는 확실하지 않다고 답했으며, 19.54%는 아마 있을 것이라고 답했고, 16.87%는 확실히 있다고 답했습니다. 2069년 2월 8일 자신의 선거구에서 선거 부정행위가 확실히 있었거나 아마 있을 것이라고 응답한 표본(477표본)에게 자신의 선거구에서 선거 부정행위자를 처벌하는 선관위의 능력에 대해 질문한 결과, 58.28%는 아무도 처벌할 수 없을 것이라고 답했고, 28.93%는 일부 사례에서 처벌할 수 있을 것이라고 답했으며, 11.32%는 확실히 처벌할 수 있을 것이라고 답했고, 1.47%는 응답하지 않거나 관심이 없다고 답했습니다. 마지막으로 2069년 2월 8일 자신의 선거구에서 선거를 관리하는 선관위의 업무에 대한 국민의 만족도를 묻는 질문에 38.55%가 상당히 만족한다고 답했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 선거 관련 여론조사 결과로, 여행객에게 직접적인 영향은 없으나, 태국 정치 상황에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "นิด้าโพล ชี้ กลุ่มคนมองมีเรื่องทุจริตเลือกตั้ง ไม่เชื่อ กกต. จะลงโทษผู้กระทำผิดได้",
@@ -12537,21 +12526,18 @@
       ],
       "collected_at": "14:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5qd27e4PswbAJ.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2914323",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 투표용지 바코드 관련 우려 해소",
       "summary": "- 선거관리위원회는 투표용지의 바코드가 투표의 비밀성을 침해하지 않는다고 밝혔습니다.\n- 투표 과정은 안전하게 분리되어 있으며, 법원 명령 없이는 누구도 정보에 접근할 수 없습니다.\n- 바코드는 투표용지 위조 및 부정행위 방지를 위한 안전장치로 사용됩니다.",
       "full_translated": "태국 선거관리위원회 사무총장인 '쌔왱 분미'는 투표용지의 바코드 사용이 국민의 투표 비밀을 보장한다고 밝혔습니다. 선거 과정과 원칙은 안전을 위해 분리되어 있으며, 법원 명령 없이는 누구도 정보에 접근할 수 없습니다. 그는 자신의 페이스북을 통해 바코드가 직접 및 비밀 투표의 기본 원칙과 투표용지의 안전 원칙을 준수한다고 강조했습니다. 바코드는 투표의 자유롭고 공정한 진행을 위해 투표용지 위조, 부정 사용, 구역 외 사용 등을 방지하는 데 사용됩니다. 선거관리위원회는 바코드가 투표의 직접 및 비밀성을 훼손하지 않도록 절차를 마련했다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "선거 관련 뉴스는 여행객에게 직접적인 영향은 적으나, 태국 정치 상황에 대한 배경지식 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เลขาฯ กกต. แจงปมบาร์โค้ดบนบัตร ยืนยัน การออกเสียงของประชาชนยังเป็นความลับ",
@@ -12562,6 +12548,133 @@
       ],
       "collected_at": "14:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5pa4hmAoOrLMx.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2914314",
+      "source": ""
+    },
+    {
+      "title": "태국-중국 고속철도 1단계 공정률 51% 달성",
+      "summary": "- 태국 국영철도(SRT)에 따르면 태국-중국 고속철도 1단계 공사가 51.74% 진행됨.\n- 방콕과 나콘라차시마를 연결하는 1단계 프로젝트 총 투자액은 1,794억 1천만 바트.\n- 상업 운행은 2030년에 시작될 예정이며, 250.77km 구간 중 188.68km는 고가, 54.09km는 지상, 8km는 터널로 건설.",
+      "full_translated": "태국-중국 고속철도 프로젝트 1단계 공사가 51.74% 진행되었다고 태국 국영철도(SRT)가 밝혔습니다. 아난 폰임댕 SRT 총재 대행은 아유타야의 치앙락노이 역에서 열린 상원 교통위원회의 방문에서 이 업데이트를 제공했습니다. 아난 씨는 클롱동-팡아속 구간과 시키우-쿠트칙 구간을 포함한 두 개의 계약이 완료되었으며 다른 10개 구간에서 건설이 진행 중이라고 말했습니다. 방수-돈므앙 및 반포-프라깨오 구간을 포함하는 다른 두 계약은 아직 서명되지 않았다고 그는 말했습니다. 아난 씨는 SRT가 엔지니어링 및 안전 표준을 유지하면서 계약자가 타임라인을 엄격히 준수하도록 지시했다고 말했습니다. 방콕과 나콘라차시마를 연결하는 프로젝트 1단계는 총 투자액이 1,794억 1천만 바트로, 14개의 건설 계약과 1개의 열차 시스템 계약으로 구성됩니다. 250.77km 노선의 대부분인 약 188.68km는 평면 교차로를 줄이고 안전을 강화하기 위해 고가로 건설되며 54.09km는 지상으로 운행됩니다. 무악렉과 람타콩에 위치한 두 개의 터널은 총 8km 거리에 걸쳐 있습니다. 경로를 따라 크룽텝 아피왓, 돈므앙, 아유타야, 사라부리, 팍총 및 나콘라차시마의 6개 주요 역이 있습니다. 상업 운행은 2030년에 시작될 예정입니다. 나콘라차시마에서 농카이까지 운행하는 2단계는 내각의 승인을 받았고",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 시 교통 정보는 중요하며, 고속철도 개통은 장기적으로 여행에 큰 영향을 미치므로 정보 제공 가치 있음. 현재 공정률 및 개통 예정 시기는 여행 계획에 참고할 만한 정보.",
+      "event_info": {
+        "date": "2030",
+        "location": "Krung Thep Aphiwat, Don Mueang, Ayutthaya, Saraburi, Pak Chong, Nakhon Ratchasima",
+        "price": "Unknown",
+        "location_google_map_query": "Krung Thep Aphiwat Railway Station"
+      },
+      "references": [
+        {
+          "title": "Thai–Chinese high-speed rail phase 1 hits 51%",
+          "url": "https://www.bangkokpost.com/thailand/general/3197473/thaichinese-highspeed-rail-phase-1-hits-51",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197473_260215065948_700.jpg"
+        }
+      ],
+      "collected_at": "14:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197473_260215065948_700.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 당국, 2억 2천만 바트 상당의 가짜 상품 42,000개 압수",
+      "summary": "- 태국 세관 당국이 1월 13일부터 2월 6일까지 2억 2,300만 바트 상당의 위조품 및 불량품 42,451개를 압수했습니다.\n- 압수된 제품은 주로 루이비통, 디올, 구찌, 프라다, 발렌시아가 등 유명 브랜드의 가방, 신발, 시계, 향수와 자동차 부품, 태양열 램프 등입니다.\n- 당국은 지적 재산권 침해 단속을 강화하고 있으며, 작년 10월 1일부터 2월 6일까지 상표 및 저작권 침해 관련 38건을 처리하여 8억 8,500만 바트 이상의 피해를 추정하고 있습니다.",
+      "full_translated": "세관 당국은 1월 13일부터 2월 6일까지 약 2억 2,300만 바트 상당의 위조품 및 불량품 42,451개를 압수했다고 정부 대변인 아이야린 판릿이 밝혔습니다. 당국은 지적재산권부, 세관부, 태국산업표준원 간의 합동 작전에서 총 42,451개의 품목을 압수했습니다. 압수된 제품의 대부분은 루이비통, 디올, 구찌, 프라다, 발렌시아가 등 유명 브랜드의 가방, 신발, 시계, 향수와 자동차 부품, 태양열 램프 등이었습니다. 당국은 지적 재산권 침해에 대한 단속을 강화했습니다. 작년 10월 1일부터 2월 6일까지 상표 및 저작권 침해 관련 38건을 처리했으며, 추정 피해액은 8억 8,500만 바트를 초과합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "위조품 단속 강화는 여행객들의 소비 활동에 영향을 줄 수 있으며, 특히 명품 구매 시 주의가 필요함을 알립니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Officials seize 42,000 fake goods worth B220m",
+          "url": "https://www.bangkokpost.com/thailand/general/3197729/officials-seize-42000-fake-goods-worth-b220m",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197729_700.jpg"
+        }
+      ],
+      "collected_at": "14:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197729_700.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 총선, 유권자들은 선관위에 만족하지만 부정행위 처벌 능력에는 의문 - NIDA 여론조사",
+      "summary": "- NIDA 여론조사 결과, 태국 유권자들은 선거관리위원회의 선거 운영에 대체로 만족하는 것으로 나타났습니다.\n- 그러나 부정행위가 발생했다고 의심하는 유권자 대다수는 선관위가 부정행위자를 처벌할 수 있을지에 대해 회의적인 반응을 보였습니다.\n- 선거관리위원회의 능력에 대한 회의론은 여전하지만, 유권자들은 대체로 선거 진행 방식에 대해 긍정적으로 평가하는 것으로 나타났습니다.",
+      "full_translated": "국립개발행정연구원(NIDA)의 여론조사에 따르면 대부분의 태국 유권자들은 선거관리위원회(EC)가 2월 8일 총선을 관리한 방식에 대해 최소한 어느 정도 만족하고 있지만, 부정행위가 의심되는 대다수는 선관위가 선거 부정행위자를 처벌할 수 있다고 믿지 않습니다. '선관위가 선거 부정행위자를 처벌할 수 있는가?'라는 제목의 이 여론조사는 2월 11~12일 전국 18세 이상 유권자 1,310명을 대상으로 실시되었습니다. 최근 투표에서 자신의 선거구에서 선거 부정행위가 발생했다고 생각하는지 묻는 질문에 응답자들은 다음과 같이 답했습니다. 여론조사관은 그런 다음 자신의 선거구에서 부정행위가 '확실히' 또는 '가능성'이 있다고 믿는 477명의 응답자에 초점을 맞췄습니다. 이 하위 그룹에서 잘못을 저지른 사람에게 책임을 물을 수 있는 선관위의 능력에 대한 신뢰도는 현저히 낮았습니다. 응답자들은 또한 선관위가 자신의 선거구에서 선거를 어떻게 수행했는지에 대한 만족도에 대해 질문을 받았습니다. 견해는 엇갈렸지만 긍정적인 경향을 보였습니다. 이번 조사 결과 유권자들은 선관위의 선거 관리에 대해 대체로 긍정적으로 평가하면서도 부정행위 혐의자에 대한 선거법 집행 능력에 대해서는 여전히 회의적인 시각을 갖고 있는 것으로 나타났습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거에 대한 여론은 여행 자체에 큰 영향을 미치지는 않지만, 정치적 안정성은 여행 환경에 간접적으로 영향을 줄 수 있으므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Nida poll: Voters satisfied with EC but doubt its ability to punish fraud",
+          "url": "https://www.bangkokpost.com/thailand/general/3197800/nida-poll-voters-satisfied-with-ec-but-doubt-its-ability-to-punish-fraud",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197800_700.jpg"
+        }
+      ],
+      "collected_at": "14:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197800_700.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "프아타이당, 연립 정부 참여: 국민을 위해 일할 기회 확대, 품짜이타이당의 일부가 되는 것 부인",
+      "summary": "- 프아타이당이 연립 정부에 참여하여 국민을 위한 문제 해결에 더 많은 기회를 얻게 되었다고 밝혔습니다.\n- 이는 국민의 선택에 대한 책임감 있는 결정이라고 강조했습니다.\n- 품짜이타이당의 일부가 되는 것을 부인하며, 국민을 위한 정책 추진 의지를 밝혔습니다.",
+      "full_translated": "프아타이당의 줄라판 대표는 프아타이당(푸타.)이 품짜이타이당(퐁타.)과 함께 정부를 구성하기로 한 후 페이스북을 통해 다음과 같이 밝혔습니다. 프아타이당은 태국이 국민에게 기회와 안정, 더 나은 삶을 제공하는 국가가 될 수 있도록 전력을 다해 노력해 왔습니다. 우리는 태국 국민이 우리를 신뢰하여 정부 권력을 잡고 정책을 실행할 기회를 주기를 희망하며 선거 운동을 진행하고 정책을 제시했습니다.\n\n줄라판 대표는 계속해서 다음과 같이 밝혔습니다. 그러나 선거 결과, 우리는 충분한 표를 얻지 못했습니다. 이는 국민의 잘못이 아닙니다. 국민이 우리를 충분히 선택하지 않은 것은 우리가 존중하고 숙제로 삼아 우리의 정책 중 어떤 부분이 아직 해결책이 되지 못하는지, 그리고 앞으로 국민의 신뢰에 부응하기 위해 어떻게 개선할 것인지 검토해야 할 부분입니다. 동시에 국민이 품짜이타이당을 1위로 선택하고 2위와 상당한 표 차이를 보인 것은 우리가 존중해야 할 결정입니다. 왜냐하면 이것이 민주주의 체제에서 국민의 목소리이기 때문입니다.\n\n“3위 정당으로서 우리는 정부에 참여할지 야당이 될지 신중하게 고려해야 하며, 어느 쪽이 국민을 위해 진정으로 봉사할 수 있는 길인지 스스로에게 질문해야 합니다. 신중하게 고려한 결과, 연립 정부에 참여하는 것이 국민을 위해 문제를 해결할 기회를 더 많이 제공한다는 결론을 내렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เพื่อไทยร่วมรัฐบาล มีโอกาสทำงานให้ประชาชนได้มากกว่า ปัดกลายเป็นส่วนหนึ่งของภูมิใจไทย",
+          "url": "https://www.thairath.co.th/news/politic/2914371",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5raBUgHMJePDU.jpg"
+        }
+      ],
+      "collected_at": "14:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5raBUgHMJePDU.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "태국 선거관리위원회, 투표자 정보 공개 시 처벌 경고",
+      "summary": "- 태국 선거관리위원회는 투표자의 개인 정보 보호를 강조하며 관련 법규 준수를 촉구.\n- 투표소 관계자가 투표자 정보를 공개할 경우 1년 이하의 징역 또는 2만 바트 이하의 벌금 부과 가능.\n- 투표의 자유와 비밀 보장을 위해 투표 정보는 엄격히 보호될 것이라고 강조.",
+      "full_translated": "태국 선거관리위원회(꼬꼬떠.)는 투표소 관계자가 투표자의 세부 정보를 공개하는 것은 위법 행위임을 강조하며, 선거의 기본 원칙인 '직접 및 비밀 투표'를 준수할 것을 강조했습니다. 선거관리위원회는 2069년 2월 15일, 투표자의 비밀을 보호하는 법적 안전장치를 홍보하여 투표가 직접적이고 비밀리에 진행될 것이라는 확신을 심어주려 합니다. 2017년 태국 왕국 헌법 146조와 2018년 하원 의원 선거법 및 그 수정안에 따르면, 투표 시간 동안 투표소 관계자(꼬뻐너.)가 후보자 또는 정당에 유리하거나 불리하게 하기 위해 투표자 정보를 공개하는 경우, 1년 이하의 징역 또는 20,000바트 이하의 벌금 또는 둘 다에 처해질 수 있습니다. 투표 참여 정보는 법으로 보호되며 공개가 엄격히 금지되어 있습니다. 이는 투표자의 의사 결정의 자유를 보호하고 선거 과정에서의 압력이나 간섭을 방지하기 위함입니다. 선거관리위원회는 선거가 '직접 및 비밀 투표' 원칙 하에 진행되며, 모든 단계에서 법적 조치가 명확하게 뒷받침되어 투표자가 자신의 정보와 결정이 법에 따라 보호된다는 확신을 가지고 권리를 행사할 수 있도록 보장합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "선거 관련 정보이지만, 외국인 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. ย้ำ กปน. เผยรายละเอียดคนมาใช้สิทธิมีความผิด ยัน กฎหมายห้ามเปิดเผย",
+          "url": "https://www.thairath.co.th/news/politic/2914340",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5q7VrHbx13lrt.jpg"
+        }
+      ],
+      "collected_at": "14:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5q7VrHbx13lrt.jpg",
       "date": "2026-02-15"
     }
   ]
