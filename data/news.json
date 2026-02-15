@@ -12118,14 +12118,9 @@
       "summary": "- 태국 정부가 무비자 체류 기간을 60일에서 30일로 단축합니다.\n- 정확한 시행 시기는 아직 발표되지 않았습니다.\n- 여행 계획에 차질이 없도록 변경 사항을 주시해야 합니다.",
       "full_translated": "VnExpress International에 따르면 태국은 무비자 체류 기간을 60일에서 30일로 단축할 예정입니다. 이는 여행 및 비자 정책의 중요한 변화이며, 태국 여행을 계획하는 사람들에게 영향을 미칩니다. 정확한 시행 날짜와 추가 세부 사항은 아직 발표되지 않았으므로, 변경 사항에 대한 최신 정보를 계속 확인하는 것이 중요합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여합니다. 이미 게시된 뉴스이지만, 변동사항이 있을 수 있으므로 재확인 차원에서 포함합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to slash visa-free stay from 60 to 30 days - VnExpress International",
@@ -12133,22 +12128,20 @@
           "source": "VnExpress International"
         }
       ],
-      "collected_at": "06:45",
-      "date": "2026-02-15"
+      "collected_at": "6:45",
+      "image_url": "",
+      "date": "2026-02-15",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국, 중국인 관광객 다시 유치 노력, 일본 인기 하락 속 기회 포착",
       "summary": "- 태국이 일본의 인기 하락을 틈타 중국인 관광객 유치에 적극적으로 나서고 있습니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "Travel And Tour World에 따르면, 태국은 일본의 인기 하락을 틈타 중국인 관광객을 다시 유치하기 위해 노력하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국인 관광객 유치 노력은 태국 여행 시장에 영향을 미치므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Why Thailand is Reclaiming Chinese Tourists as Japan’s Popularity Plummets - Travel And Tour World",
@@ -12157,23 +12150,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:45",
+      "collected_at": "6:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFJPU0N2dVRzeGNSd21rYXFIVnd1VHpsVU1aRXI0STJyNEM4NklVOXJfNlBQbjRrOUIzSEM1UTJYcjVRWktubVA2MTM1bXNXTDdCMnhEMnFUb05KS0JSLUNUVklVVlNtSEtxMm1weWwtSkhWY0pJSnVNZTNaTUhFN1I3SGx3RkFUdlFnN0g5M2UwemVWN3l2Q0JPc0xRckd3c0Q2M2NrT0w2ak9rNnRwVjZlM05nV3ZyMVlObnZjVQ?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 새해 여행 목적지로 태국 주목",
       "summary": "- 중국인 여행객들이 새해를 맞아 태국 여행을 선호하는 추세입니다.\n- 태국은 중국인 여행객에게 인기 있는 여행지 중 하나입니다.\n- 자세한 내용은 MSN에서 확인하세요.",
       "full_translated": "중국, 새해 여행 목적지로 태국 주목  MSN",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새해를 맞아 태국을 방문하는 중국인 관광객 증가 추세는 태국 여행 관련 비즈니스에 영향을 미칠 수 있으며, 여행 준비에 참고할 만한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chinese target Thailand for New Year travel - MSN",
@@ -12182,8 +12172,35 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:45",
+      "collected_at": "6:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-15",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZmh0dFh3TzJlOElxbG1QcTJmdk1ocVZhY3ZjdXdvczMwc2k1UnpKV0FQUlBEOGl5ZENuTGxqVklBZGQ3V3I2LTV0dUtnUnJ3OXhLb2pvMlBRc2g2bUIyQ0ttRGZRYXdMejhyZElhQ0p0TlNsVVJIR0FqM0pjQTNJeHFEQVhzTUg1WlpqdkRtQV93MzRPaUZF?oc=5",
+      "source": ""
+    },
+    {
+      "title": "카오야이 와일드 브리즈 런 2026, 주최 측의 불가피한 사정으로 취소",
+      "summary": "- 카오야이 와일드 브리즈 런 2026 행사 취소 발표. 주최측은 관리상의 불가피한 사정을 이유로 들었습니다.\n- 등록비는 전액 환불될 예정이며, 환불 절차는 3일 이내에 공지될 예정입니다.\n- 장소 미비, 출발점 미비, 숙소 부족 등 문제가 제기된 후 취소 결정이 내려졌습니다.",
+      "full_translated": "카오야이 와일드 브리즈 런 2026 행사가 주최측의 관리상 불가피한 사정으로 인해 취소되었습니다. 이번 결정은 장소 미비, 출발점 미비, 숙소 부족 등 여러 문제가 제기된 후 내려졌습니다. 주최측은 등록비 전액을 환불할 예정이며, 환불 절차는 3일 이내에 공지될 것이라고 밝혔습니다. 많은 참가자들이 불편을 겪게 되었으며, 주최측은 이에 대해 사과했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "카오야이에서 예정된 행사가 취소되어 해당 지역을 방문하려던 여행객들에게 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": "2026-02-15",
+        "location": "카오야이",
+        "price": "등록비 환불 예정",
+        "location_google_map_query": "카오야이"
+      },
+      "references": [
+        {
+          "title": "นักวิ่งเซ็ง \"งานวิ่งเขาใหญ่\" ล่ม ผู้จัดแจ้งยกเลิกด้วยเหตุสุดวิสัยด้านการจัดการ",
+          "url": "https://www.thairath.co.th/news/society/2914297",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DeA036MTtwe1.jpg"
+        }
+      ],
+      "collected_at": "08:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DeA036MTtwe1.jpg",
       "date": "2026-02-15"
     }
   ]
