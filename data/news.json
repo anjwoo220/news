@@ -13214,14 +13214,9 @@
       "summary": "- 태국 인도적 지뢰 제거 부대가 캄보디아 국경 인근에서 새로운 지뢰 6개 발견\n- 해당 지뢰는 최근 캄보디아 군에 의해 매설된 것으로 추정\n- 태국 해군은 해당 지역의 보안을 강화하고 주민 안전을 위한 제거 작전 진행 중",
       "full_translated": "태국 인도적 지뢰 제거 부대는 캄보디아 국경 인근 반참락 지역에서 최근 매설된 PMN-2 대인지뢰 6개를 발견했습니다. 태국 해군 대변인 파라치 라타나차이판 제독은 해당 지뢰가 '트랏 피캇 파이리' 계획에 따라 토요일 지역 보안 작전 중 발견되었다고 밝혔습니다. 그는 6개의 지뢰가 모두 새것이며, 과거 분쟁의 잔재가 아님을 시사한다고 덧붙였습니다. 주변 지역에서는 PMN-1 대인지뢰 3개와 POMZ 파편 지뢰 1개도 발견되었습니다. 파라치 제독은 지뢰 매설이 국제 인도법 및 지뢰 금지 의무에 대한 심각한 위반이라고 강조하며, 주민 안전을 위해 해당 지역의 보안을 강화하고 제거 작전을 계속할 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국경 지역의 안전 문제 발생, 여행객의 안전에 잠재적 위협이 될 수 있으므로 업데이트 필요. 다만, 국경 지역이므로 여행객에게 직접적인 영향이 적을 수 있다는 점을 감안하여 7점 부여",
-      "event_info": {
-        "date": null,
-        "location": "Ban Chamrak, Muang district, Trat",
-        "price": null,
-        "location_google_map_query": "Ban Chamrak, Muang district, Trat, Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Ban Chamrak, Muang district, Trat', 'price': None, 'location_google_map_query': 'Ban Chamrak, Muang district, Trat, Thailand'}",
       "references": [
         {
           "title": "Reports of 6 newly laid mines near Cambodia",
@@ -13232,21 +13227,18 @@
       ],
       "collected_at": "20:39",
       "image_url": "https://static.bangkokpost.com/media/content/20260215/c1_3197905_700.jpg",
-      "date": "2026-02-15"
+      "date": "2026-02-15",
+      "link": "https://www.bangkokpost.com/thailand/general/3197905/reports-of-6-newly-laid-mines-near-cambodia",
+      "source": ""
     },
     {
       "title": "태국 총리, 선거관리위원회 인증 후 정부 구성 가속화 지시",
       "summary": "- 아누틴 총리는 선거관리위원회의 공식 결과 발표 후 정부 구성을 서두르겠다고 밝혔습니다.\n- 품짜이타이 당이 안보 및 경제 분야를 통제할 것이라고 밝혔습니다.\n- 국경 보안 강화 및 MOU 싸씹씨 조항 폐지를 통해 국가 이익을 최우선으로 할 것을 약속했습니다.",
       "full_translated": "아누틴 총리는 선거관리위원회가 2569년 선거 결과를 인증한 후 정부 구성을 가속화할 것이라고 밝혔습니다. 품짜이타이 당이 안보 및 경제 분야를 직접 통제하며, 국경 검문소 폐쇄, 국경 지역 장벽 건설, MOU 44 조항 폐지를 추진할 것입니다.\n\n아누틴 총리는 2069년 2월 15일 19시 24분, 개인 페이스북을 통해 국민들에게 다음과 같이 밝혔습니다. 품짜이타이 당 대표로서, 정부 구성의 주축이 되도록 압도적인 신뢰를 보내주신 모든 분들께 감사드립니다. 선거관리위원회가 공식 선거 결과를 발표하는 즉시 국가를 운영하는 역할을 수행할 것입니다.\n\n품짜이타이 당에 투표해주신 모든 분들을 실망시키지 않고, 신뢰에 대한 보답으로 모든 표를 소중히 여기며 일할 것을 약속드립니다. 선거 운동 기간 동안 국민 여러분께 제시했던 모든 정책들을 품짜이타이 당과 함께 실천할 것을 약속드립니다.\n\n품짜이타이 당은 외교 및 군사적 조치를 통해 안보 관리 책임을 맡을 것이며, 국가의 영토와 주권, 태국의 명예와 존엄성을 지키기 위해 모든 형태와 방법으로 행동할 것입니다. 국민의 안전이 최우선입니다. 국경 검문소 폐쇄는 계속될 것이며, 국경을 따라 보안 장벽을 건설하여 더욱 강화될 것입니다. 또한 태국의 최대 이익을 보호하고 국민의 요구를 충족하기 위해 MOU 2001 조항을 폐지할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "정치적 상황 변화는 여행 및 정책 결정에 간접적인 영향을 미칠 수 있으므로 중간 점수 부여. 다만, 즉각적인 여행 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“อนุทิน” เร่งตั้งรัฐบาลหลัง กกต. รับรอง เผย พรรคภูมิใจไทยคุมความมั่นคง-เศรษฐกิจเอง",
@@ -13257,6 +13249,33 @@
       ],
       "collected_at": "20:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGSkOcMdsZR12Q.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/politic/2914409",
+      "source": ""
+    },
+    {
+      "title": "태국-미얀마 국경에서 마약 밀매 시도 중 무장 괴한 5명 사살",
+      "summary": "- 태국 군, 치앙마이 지역 국경에서 마약 밀매 시도하는 무장 괴한과 교전.\n- 괴한 5명 사살, 야바 140만 정 압수.\n- 군, 추가 조사 및 언론 브리핑 예정.",
+      "full_translated": "태국 군이 마약 밀매를 시도하던 무장 괴한 5명을 사살했습니다. 2024년 2월 15일, 제3군 작전사령부 소속 3207부대와 제4기병연대 병력이 치앙마이주 므앙군 몬핀 지역 도이찬, 후웨이 녹콕 일대에서 합동 순찰 중 국경을 넘어온 10~15명의 용의자를 발견했습니다. 이들은 배낭을 메고 있었으며, 군이 검문하려 하자 무기를 사용해 공격했습니다. 약 5분간의 교전 끝에 군은 지역을 통제하고 수색한 결과, 비료 포대를 개조한 배낭 14개에서 야바 140만 정과 괴한 시신 5구, 총기 1정을 발견했습니다. 파멩군 사령관은 관계 기관과 합동으로 현장에서 언론 브리핑을 진행할 예정입니다. 압수된 마약은 므앙 경찰서로 이송될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 북부 국경 지역의 마약 관련 치안 상황을 보여주는 뉴스. 여행객 안전에 직접적인 위협은 아니지만, 해당 지역 방문 시 주의를 요함.",
+      "event_info": {
+        "date": "2024-02-15",
+        "location": "치앙마이 주 므앙 군 몬핀 지역 도이찬, 후웨이 녹콕 일대 (태국-미얀마 국경)",
+        "price": "N/A",
+        "location_google_map_query": "Doi Chan, Mon Pin, Mueang Chiang Mai District, Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "ปะทะเดือด ทหารวิสามัญแก๊งคนร้าย เสียชีวิต 5 ศพ ขณะลอบขน \"ยาเสพติด\" เข้าไทย",
+          "url": "https://www.thairath.co.th/news/crime/2914412",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9m4HOKVQA39.jpg"
+        }
+      ],
+      "collected_at": "21:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9m4HOKVQA39.jpg",
       "date": "2026-02-15"
     }
   ]
