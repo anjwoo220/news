@@ -14087,14 +14087,9 @@
       "summary": "- 파타야 인근 고속도로에서 트럭 운전사가 구조 차량에 총격을 가하고 도주하는 사건 발생.\n- 용의자는 여성 동승자와 함께 도주 중이며, 경찰이 추격 중.\n- 트럭에서 크라톰 잎 약 500kg이 발견됨.",
       "full_translated": "파타야 뉴스에 따르면, 이번 사건은 밤 10시 36분경 후아이 야이 인근 라용 방향 고가 고속도로(Motorway) 129km와 131km 사이에서 발생했습니다. 고속도로 경찰 1지구 8구역에 따르면, 무장 용의자가 고속도로 구조 차량에 총격을 가해 손상을 입혔다는 신고가 접수되었습니다. 후아이 야이 경찰서의 수사관인 폴 Lt. Col. 프라카싯 팔라뎃은 지원 부대와 함께 현장으로 급파되었습니다. 현장에서 경찰은 방콕 번호판이 부착된 흰색 Isuzu D-Max 픽업트럭 형태의 손상된 구조 차량을 도로 갓길에 버려진 채 발견했습니다. 약 100미터 떨어진 곳에서 고속도로 구조 차량(방콕 번호판 3 떠 머 꼬 쌈 빤 롯)의 오른쪽 뒷바퀴와 휠 아치에 총알 자국이 있었습니다. 용의자와 그의 여성 동반자는 당국이 도착하기 전에 손을 잡고 인접한 산림 지역으로 도주한 것으로 알려졌습니다. 현장에서 수집된 증거에는 차량 외부에서 발견된 11mm 탄피 1개와 발사되지 않은 탄환 3개가 포함되었습니다. 픽업트럭 내부에서 경찰은 추가로 8개의 탄피를 회수했습니다. 이 품목들은 증거로 압수되었습니다. 트럭 짐칸에서 당국은 총 약 500kg 무게의 신선한 크라톰 잎 약 51봉지를 발견했습니다. 구조대원은 다음과 같이 진술했습니다. 그들은 고속도로 갓길의 위험한 장소에 주차된 흰색 픽업트럭에 접근하여 운전자에게 안전을 위해 경고했습니다. 남자는...",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총격 사건으로 여행객 안전에 대한 잠재적 위협이 존재하며, 특히 파타야를 방문하는 여행객에게는 관련 정보가 중요하다고 판단됨. 사건 발생 및 추적 상황에 대한 업데이트이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 인근 고속도로",
-        "price": null,
-        "location_google_map_query": "Pattaya Motorway"
-      },
+      "event_info": "{'date': None, 'location': '파타야 인근 고속도로', 'price': None, 'location_google_map_query': 'Pattaya Motorway'}",
       "references": [
         {
           "title": "Angry Truck Driver Fires on Rescue Vehicle Near Pattaya in Road Rage Incident, Flees on Foot With Passenger, Manhunt Takes Place",
@@ -14103,23 +14098,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17711849877366969030066447970388.jpg?v=1771185078"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17711849877366969030066447970388.jpg?v=1771185078",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://thepattayanews.com/2026/02/16/angry-truck-driver-fires-on-rescue-vehicle-near-pattaya-in-road-rage-incident-flees-on-foot-with-passenger-manhunt-takes-place/",
+      "source": ""
     },
     {
       "title": "파타야 경찰, 관광 이미지 개선 위해 성매매 단속 강화",
       "summary": "- 파타야 경찰이 관광 이미지 개선을 위해 성매매 단속을 강화하고 있습니다.\n- 이번 단속은 관광객 유치를 위한 노력의 일환으로 진행됩니다.\n- 파타야는 과거 성매매 관광지로 알려졌으나, 이미지 변신을 시도하고 있습니다.",
       "full_translated": "파타야 경찰은 관광 이미지 개선을 위해 성매매 단속을 강화하고 있습니다. Thaiger",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야의 이미지 개선 노력은 관광객에게 긍정적인 영향을 미칠 수 있지만, 직접적인 영향은 제한적이므로 중간 점수를 부여.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya police crackdown on prostitution to boost tourism image - Thaiger",
@@ -14128,23 +14120,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGY3Vzg2ajh5QmN0V1FWWFJLYUZBZ2lETjJGN3k3WjZDREpLdGt1bVhTejFxUVJ0VWpWUVI1UUxRblRZU0hzdDljM1lnUXhRSjBxNGpBX3d6QUZuQ3Q5V292dzJoRGJ6VXllSHJCMFNrdVhfZ3JadzhaWEkwRWN4SXh2UEpMOXlnX3lORDJVaUdsVVdMaFZ6OHVKajd5U3Bf?oc=5",
+      "source": ""
     },
     {
       "title": "국립공원에서 10년 이상 불법 운영한 남성, 중대한 결과에 직면",
       "summary": "- 한 남성이 국립공원에서 10년 이상 불법 운영을 해왔습니다.\n- 이로 인해 중대한 처벌을 받을 것으로 예상됩니다.\n- 자세한 내용은 기사를 통해 확인할 수 있습니다.",
       "full_translated": "국립공원에서 10년 이상 불법 운영한 남성이 중대한 결과에 직면했습니다. 자세한 내용은 기사를 참조하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국립공원 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Man faces major consequences after running illegal operation in national park for more than 10 years — here's what happened - MSN",
@@ -14153,23 +14142,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNYzRBRFJ1dWVHWlhEU0R2czhiTkU3eXQzYndobVpvNEZxX01UZFYwN3p4TkdrQVVNT3hxb3ozMkNOd19pSUNNeng2bWJETnRqRV94RmQ0SDlrT3BTdDg2V04zc21PeldiVFJpdDVKdmhQQWo4NFo4MEFFTXhVZXNIMEotMDVXQklDMU1YUVhQZDlqY3RHaVhUY2FtTnJrYmJWWUNTb21OcnY0SWZlZ0E0TThJNGhyX2NmZ2dVUWpWaEw1QVZvSUN0Qko4dkZLVG14OGExb0hqdzBPVTdBQlVhekdpMW1ZQTZuX1pjRlRSczVMWGFZY0RwQ3BwbWNVSWZRWTFacg?oc=5",
+      "source": ""
     },
     {
       "title": "2026 Honda LPGA 태국 필드: LPGA 투어 선수, 순위",
       "summary": "- 2026 Honda LPGA 태국 대회에 참가하는 LPGA 투어 선수 및 순위에 대한 정보입니다.\n- 골프 팬들에게 유용한 정보가 될 수 있습니다.\n- 대회 관련 최신 소식을 제공합니다.",
       "full_translated": "2026 Honda LPGA Thailand field: LPGA Tour players, rankings&nbsp;&nbsp;Golf News Net",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "일반적인 스포츠 뉴스이며, 관광객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2026",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국 Honda LPGA"
-      },
+      "event_info": "{'date': '2026', 'location': '태국', 'price': '미정', 'location_google_map_query': '태국 Honda LPGA'}",
       "references": [
         {
           "title": "2026 Honda LPGA Thailand field: LPGA Tour players, rankings - Golf News Net",
@@ -14178,23 +14164,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTTlJeGlJNGtXTmJoTWw1OXBPUzQ2M2ZDYndTOTJ4OENreS1meUlTWm03U0E3c3BZRE9fVGVGNWNMdXpxa0lsNGpKRzlZRnVTLVc1NkpuNDZsZWJDQnZBU3dZM3k3ZFZjbW4xdjhKQnlxMHo5TnJSYmhXQmZYenVOWVNZV2xjNE9oNTZMT2pGR0ZTV1ZPdkZOeV9qQk55ZV9BTmJZc25wQjVPbmdJbm1yaXRXYjBLTy0xdnFr?oc=5",
+      "source": ""
     },
     {
       "title": "전 총리 잉락 친나왓의 아들, 발렌타인데이 기념",
       "summary": "- 잉락 친나왓 전 총리의 아들 슈파섹 아몬찻이 여자친구와 함께 5번째 발렌타인데이를 기념했습니다.\n- 슈파섹은 현재 임페리얼 칼리지 런던에서 기계 공학 박사 과정을 밟고 있습니다.\n- 두 사람은 인스타그램을 통해 발렌타인데이 기념 사진을 공개했습니다.",
       "full_translated": "잉락 친나왓 전 총리의 아들 슈파섹 아몬찻이 여자친구와 함께 발렌타인데이를 기념하는 달콤한 사진이 공개되었습니다. 2069년 2월 15일, 슈파섹 아몬찻(23세)의 여자친구가 5번째 발렌타인데이를 기념하는 사진을 개인 인스타그램에 게시하며 \"Spending our fifth Valentine's Day together\"라는 캡션을 덧붙였습니다. 슈파섹 아몬찻은 현재 임페리얼 칼리지 런던에서 기계 공학 박사 과정을 밟고 있습니다. 사진 출처: 인스타그램",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 유명인의 소식이지만, 여행자에게 직접적인 영향은 없으므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "หวานฉ่ำ \"น้องไปป์\" ลูกชายอดีตนายกฯ \"ยิ่งลักษณ์\" ควงแฟนสาวฉลองวันวาเลนไทน์",
@@ -14203,8 +14186,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGThbFmcHhjD3W.jpg"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGThbFmcHhjD3W.jpg",
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/society/2914421",
+      "source": ""
+    },
+    {
+      "title": "BTS 투어, 전 세계 34개 도시 호텔 검색 6,700% 급증 - Nation Thailand",
+      "summary": "- BTS 투어로 인해 전 세계 34개 도시에서 호텔 검색이 급증했습니다.\n- 특히 태국 방콕의 호텔 검색이 크게 증가했습니다.\n- BTS의 영향력을 보여주는 사례입니다.",
+      "full_translated": "BTS 투어가 전 세계 34개 도시에서 호텔 검색을 6,700% 급증시켰습니다. Nation Thailand",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "BTS 투어가 호텔 검색 증가에 미치는 영향은 관광객 유치에 긍정적이지만, 정보 자체가 아주 새롭거나 시급한 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 호텔"
+      },
+      "references": [
+        {
+          "title": "BTS tour triggers 6,700% jump in hotel searches across 34 cities worldwide - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14UGl3STlTVnotcEdLU1JWRkNEcmVDM0g3LXFFTTVqZ0FJaEZMQ2tEdXluSnVRdDdmQjVKV0pKbjIwdnQ0Z0t4QVdVbzlSNjItVDJjS1B0MWJ4a3RDWEhBLUh5NTVYRzgwN0E?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "새 정부, 태국 대마 산업에 활력을 불어넣을까?",
+      "summary": "- 새 정부가 태국 대마 산업에 미칠 영향에 대한 분석.\n- 기존 정책의 변화 가능성과 경제적 효과 전망.\n- 관광객 및 현지 산업 관계자들의 기대와 우려.",
+      "full_translated": "기사 전문 (Markdown 형식 지원)\n새 정부가 태국 대마 산업에 활력을 불어넣을 수 있을지에 대한 심층 분석 기사입니다. 자세한 내용은 원본 기사를 참고하세요.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 대마 산업의 변화는 관광 정책과 연관될 수 있으나, 현재로서는 일반적인 산업 동향 분석에 해당.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Will a new government breathe life into Thailand’s gasping cannabis industry? - SMH.com.au",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPblVEVWFmamRfdEJQaXFUbTZhRndMOGJQUnFCakwyS2lod1B0V09nLXJXcmlZYVJIVkItdWdYRmtycVB4RjVJMDF0LUVqRE8yUFU2M1VlZzc3Y1dRaWhlUlRMdVNQNXp4czhtNDV1MEFBNElXc0pFQ2NaaDQ1SGc4UVBRcjlrVWo3TTRVR3lsVDZjREstRzhZOGNuOEdSRFNwREtsVjI2cFNtT0pOZlVLS21rV2F5T0lCcThEMzNMeTE3Wk1xNUp1MWVxWk5MOW5UcGt4T2dwS1pUQ2lTbkhYSkY1Tmo4MlVfSk16bV9ma2NYMzE5UjJ1OXhncW9URnpua0ZETw?oc=5",
+          "source": "SMH.com.au",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "중국 관광객, 일본 수요 감소로 러시아, 태국 선호 - The Daily Star",
+      "summary": "- 중국 관광객들이 일본 대신 러시아와 태국을 선호하는 추세입니다.\n- 이는 일본의 수요 감소에 따른 변화입니다.\n- 자세한 내용은 The Daily Star에서 확인할 수 있습니다.",
+      "full_translated": "중국 관광객들이 일본 수요 감소로 러시아, 태국 선호 - The Daily Star",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행 트렌드 변화에 대한 정보 제공. 일본 여행을 고려하는 여행객에게 대안 정보를 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese tourists favour Russia, Thailand as Japan demand fades - The Daily Star",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPeTZRTVNVaTEzNm9mZDFQeHNSSEFJeFlBa0J0MWp1VFMwRW80OE9SQy1BWGJsLTh0elVRa3VlQ0VIUEFJeWc5eDRNUmtkaGtCb0FUcWxIVkhRLUxwdU05Tm9aR0JranJYTkVjQlFkb0ZaOTlqWExQenhsMXI4TTZ4TXRDTVVmQ21BU3FZck0zdk96ZXkza3JJTGJGUWhYSzZDeFJaSXhKLS1DbEVrS2NOQjVhVlAxMG41N2c5SHAyeVQwZw?oc=5",
+          "source": "The Daily Star",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "대만, 미국, 캐나다, 영국, EU 국가 및 동남아시아 포함 50개국 이상에 대한 비자 면제 연장",
+      "summary": "- 대만이 미국, 캐나다, 영국, EU 국가 및 동남아시아를 포함한 50개 이상의 국가에 대한 비자 면제를 연장했습니다.\n- 이는 관광객과 여행자에게 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "대만이 미국, 캐나다, 영국, EU 국가 및 동남아시아를 포함한 50개 이상의 국가에 대한 비자 면제를 연장했습니다. 이는 관광객과 여행자에게 어떤 의미가 있을까요? Travel And Tour World에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행은 아니지만, 인접 국가인 대만의 비자 정책 변경은 여행 계획에 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Taiwan Extends Visa-Exemption to Fifty+ Countries, Including US, Canada, UK, EU Nations & Southeast Asia: What It Means Now for Tourists and Travelers - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNTFVvbjlLTEUyMlE5WU1RRFhfVTZFaVdSUVB3bVVXRmtSck1sOE5QXzAwWnFQcjFoMjZUemJyS3B1U2dCVm01ODhxejkxU3hLZGJXRG12YTZVVE1rQndoY3V3RmpabF9QYUcyQXBKcF9Zc2J6cTB4UDY3Yml0ZjZUVkJTRGVQMGxENFNNVy10WnlIbEN6VkNjQlFaV2VoTHB3RjM5N0JXaVhNWEoyQ2hnZDZzMWxLR2NkdXhqY1ItU0VoaDUwU0piLXRaVHVBSEliLVY2NWltWkIwNWJyc1pHUHhOSFFNNmFiVUdReUZkN1I3VnVidGhuaW91VklPMFI0SFRVa0ROSm43aEdUWVRranZyYmoxNF9oQ0pV?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 최장 철도 터널 프로젝트, 53% 완료",
+      "summary": "- 태국에서 가장 긴 철도 터널 프로젝트가 53% 완료 단계를 넘어섰습니다.\n- 해당 터널은 태국 철도망 개선에 중요한 역할을 할 것으로 기대됩니다.\n- 완공 시 태국 내 이동 시간 단축 및 물류 효율성 향상에 기여할 전망입니다.",
+      "full_translated": "태국에서 가장 긴 철도 터널 프로젝트가 53% 완료 단계를 넘어섰습니다. 자세한 내용은 Nation Thailand 웹사이트에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "철도망 개선은 장기적으로 여행 편의성을 증진시키지만, 현재 단계에서는 직접적인 영향이 크지 않아 4점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s longest rail tunnel project passes 53% completion milestone - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OQ3JzeDJKXzBKSjJ5SmRsakIwaWk3SmV3MEYzZEZCd2NDQkZDeExLUGNyOTdlbFcyc3lidEJzZTZ4b1E1UW1mRzhBV1RhYmRXLWU0VEM0V1VCUzRNMnczZWVFeWFVVEhtVVE?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-16"
     }
   ]
