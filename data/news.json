@@ -14416,14 +14416,9 @@
       "summary": "- 동남아시아에서 원숭이로 인한 관광객 피해 사례가 증가하고 있습니다.\n- 원숭이가 음식을 훔치거나 공격하는 등의 문제가 발생하고 있습니다.\n- 관광객들은 원숭이에게 먹이를 주거나 가까이 다가가지 않도록 주의해야 합니다.",
       "full_translated": "Monkey business: Primate claims plague tourists in Southeast Asia\nThe Australian",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "원숭이로 인한 관광객 피해는 여행 경험에 부정적인 영향을 미칠 수 있으므로 정보 제공 가치가 있다고 판단. 다만, 즉각적인 안전 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "동남아시아",
-        "price": null,
-        "location_google_map_query": "동남아시아 원숭이 피해 지역"
-      },
+      "event_info": "{'date': None, 'location': '동남아시아', 'price': None, 'location_google_map_query': '동남아시아 원숭이 피해 지역'}",
       "references": [
         {
           "title": "Monkey business: Primate claims plague tourists in Southeast Asia - The Australian",
@@ -14432,23 +14427,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:45",
+      "collected_at": "4:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTHpxQUxIbDlTX2dSMnBBN09vYWRFQ3FhQWdkM2FPbmJpUWFOd3UtNFV0bllvaUdtdHBxZzBhRGVyX2RmUDV3UGdtUXZrdkR0SlZ6Q25KVWhXSFhKYllJYzRYUDVqU0JkbFU3OWxtNlpaVnJHNVRfelRrUldqLS1KM1BSWWFrZmstT2NxemZqdGpyQ2R6bjZlcUVPV3czVXNJMlFaRHR5Qkw0Sm5qUjA4d0p5N1ZneUk0VF9EeGFWcVpfSTV1cGhtR0FvLVZ5V0ZYT01RcGEwSEg4aFNyOEZKNG1MRkZybG9EVkZZb1d3aGtnZGRmUS0tVtIB_gFBVV95cUxORURaUV9ackQtNi1YTGdaRjdDSGdyQk9KZkYzcy0zeEhHTFl4d3A1QWdtLUtsajhFcG5UV2VLS2ZJYXRUWklGVnFaallsd2E4dDAzYjNHVzMwR0ZzWFhDeEZXbGU3NUJQbDBsMXNrbi1PQzNRNkk4aDJfMVNBcl9RNU9NTFJWaFA4Sm9CcW9iU0VIR1dfTlJfZTZOZ1J3TmlmTU5iQXE2ZGdIS1FXX0lyZVFIakZwbDV1ejVfYzRmOV8zUDl2WmNITF9xSWJZWFZBcTZiZnlGZXpHc0NrTkJ2YVF6V0xxd3FNdGR0UE9TVEdCUUpqbm5IZDdfU1Nsdw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 인도 여행객에게 인기: 간소화된 비자, 저렴한 비용, 연결성 증진",
       "summary": "- Atlys Travel Access Report 2026에서 태국이 인도 여행객에게 인기 있는 여행지로 선정됨.\n- 간소화된 비자 절차, 저렴한 여행 비용, 뛰어난 연결성이 주요 요인.\n- 스리랑카, UAE도 인도 여행객들에게 인기 있는 목적지로 꼽힘.",
       "full_translated": "Atlys Travel Access Report 2026에 따르면 스리랑카, 태국, UAE가 인도 여행객들에게 가장 인기 있는 여행지로 꼽혔습니다. 이는 간소화된 비자 절차, 저렴한 여행 비용, 뛰어난 연결성 덕분입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "인도 여행객 대상 정보이지만, 태국 여행의 긍정적 요소를 간접적으로 시사하여 여행 정보로서의 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Sri Lanka, Thailand & UAE Top Atlys Travel Access Report 2026 for Indian Travellers: Simplified Visa, Affordability & Connectivity Propel Growth - Travel And Tour World",
@@ -14457,23 +14449,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:45",
+      "collected_at": "4:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNNEV5SjNUSkxKQWdTTGRSODQzajUtTWJkbFRaTlIxdFNZS3NlcVowSFViLXNiRjRVdG9USjBlQnFpSFJqNTBPUy1GMXZaV0hwNFJFMGg0OUhvWjJpcmJWbERTYW9lV2VvazdPLTl1ZEtJbTVMOFVRdzNxRXNlVWpkUjNlTFgtWFpHaHB3WUhSdUo2eWdIdldXdWttbGxUOE9wRUVGVkhVYzYyYmR5TmlGYXhlNDNwc2tlUWp0bFg1YVpnYXVGUVVQMGlXWmlpTGtuN3ozc0xsVW14cFhFRWNYSFU3Z3BKZkhGSHNrRWkyWmlwek1oU2dxUlJnbmZTTnh1TzdYWGkzWERJZGV1TFRLQy05U3k?oc=5",
+      "source": ""
     },
     {
       "title": "인도, 비자 없이 56개국 여행 가능해져…태국도 포함",
       "summary": "- 인도 여권 소지자, 75위 랭크로 무비자 여행 확대.\n- 모리셔스, 태국, 피지, 바베이도스, 케냐, 말레이시아 등 포함.\n- 여행객 편의 증진 기대.",
       "full_translated": "인도, 75위 랭크로 막강한 파워 업: 여행자들은 모리셔스, 태국, 피지, 바베이도스, 케냐, 말레이시아를 포함한 56개국을 비자 없이 여행할 수 있다는 것을 믿지 못할 것입니다! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 관련 비자 정보 업데이트, 여행 편의성 변화에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "India Got a Massive Power-Up with 75th Rank: Travellers Won’t Believe As They Can Travel Fifty Six Countries Including Mauritius, Thailand, Fiji, Barbados, Kenya, and Malaysia Without Visa! - Travel And Tour World",
@@ -14482,23 +14471,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:45",
+      "collected_at": "4:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQUGNiNWFMbzRXcm1iT2V5VVFiaEplbGJoOF80ZlBoVzhWRFpvczVONGtTOUpEOWxfSllmZ190M1BNck1laGtXOU9oYjgtdElSem1KMmdma0NMRXRZWDRDXzJISks2X19fVmNXOHpmeWpLX0lNZG1LYWdZNDZ3dEZvdzFWZlUya1RBQ2JKV2hDZ3FUbTE2R0dvRTR1aU9aSEZycVFIa3BMNFFDNWdLZHFTWjZWaDBOMXlLc0lIQlFUN2dGSkd3bFBnVXJMb0F0NFB1aDMtamkyLW9qZlhhalFhU0dWSGZXVHdJNkppME15R1pUVXl5YXlWdmd4N1BkZndfSDNyWHdmMVQyX1Q0MzF1NzBYMVFFNGFqTm9UUi03TjlPQUg3Nzg4N0F0b1FveWV0aklhNGhETG5oVDZGalRZZDQyM3pMekEzOGh4Yi1Bcw?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫 상점의 40바트 입장료, 온라인 분노 촉발",
       "summary": "- 푸껫의 한 상점이 외국인에게 40바트의 입장료를 부과하여 온라인에서 논란이 되고 있습니다.\n- 소셜 미디어 사용자들은 이중 가격 정책에 대해 비판하고 있습니다.\n- 일부는 가격이 저렴하다고 주장하지만, 다른 사람들은 외국인 차별이라고 주장합니다.",
       "full_translated": "푸껫의 한 상점이 외국인에게 40바트의 입장료를 부과하여 온라인에서 분노를 일으켰습니다. 소셜 미디어 사용자들은 이중 가격 책정에 대해 비판했습니다. 일부는 가격이 저렴하다고 주장하지만, 다른 사람들은 외국인 차별이라고 주장합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫 방문객에게 영향을 줄 수 있는 소소한 논란. 입장료 자체는 크지 않지만, 외국인 차별 논란이 불거질 수 있다는 점에서 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫",
-        "price": "40 바트",
-        "location_google_map_query": "푸껫"
-      },
+      "event_info": "{'date': None, 'location': '푸껫', 'price': '40 바트', 'location_google_map_query': '푸껫'}",
       "references": [
         {
           "title": "Phuket shop’s 40-baht entry fee sparks online fury - Khaosod English",
@@ -14507,23 +14493,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:45",
+      "collected_at": "4:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdDg2X09DWlNqRURWcmpDNXVYNlNmNEhZRmlKZWhfUjNrM3IwWGxGREdpNzF3WE9xRkFNblhib25udlZpNW5DQ2p1dGN5ZXJYNUJ6cTF2bndYUW9rYmFBVmhOUFg4ZGZscVF6NU1LVHJ3WWRLc0ZYdXBFYW9mTzB1cThtd1p0Q0U4MDRFS2tWMHRaWlRxVXZlLVR0dnVQUdIBowFBVV95cUxQMS1oaW5pblQ5d3N1eGxNTkN5SXVnT0ZldGVqUUtkLWlCdmF6aVhDdU5GeklWeUhHc2ppMlA4R19HSVF5ek5Db3lCTlZ6eDIzX0tJdXZicjJ6VXhJSFc1d0NXb0RLcUZhYVd6Z2RqaXMyQ21ocE9EeHE0V1ZqX0Nkd0VZR3RXRVl5N0VLX0xqM2RfeEZkYjNtUzlORThFTG5FUWxZ?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 농눅 정원에서 코끼리 등에 탄 커플, 웅장한 결혼식 올려",
       "summary": "- 파타야 농눅 정원에서 특별한 결혼식이 열려.\n- 코끼리 등에 탄 커플들이 결혼 등록을 마쳤습니다.\n- 잊지 못할 경험을 선사하며 많은 이들의 축복을 받았습니다.",
       "full_translated": "파타야 농눅 정원에서 코끼리 등에 탄 커플들이 웅장한 결혼식을 올렸습니다.  파타야 메일",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "특별한 이벤트 정보 제공. 파타야를 방문하는 여행객들에게 흥미로운 볼거리가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "농눅 정원, 파타야",
-        "price": null,
-        "location_google_map_query": "농눅 정원 파타야"
-      },
+      "event_info": "{'date': None, 'location': '농눅 정원, 파타야', 'price': None, 'location_google_map_query': '농눅 정원 파타야'}",
       "references": [
         {
           "title": "Love takes a majestic ride as couples register marriage on elephant backs at Nong Nooch Pattaya - Pattaya Mail",
@@ -14532,7 +14515,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:45",
+      "collected_at": "4:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWxEeXFRcFlhNlUwbnlCSUFjUGtFLWVoQVBTTzIyeUZ1SWhtWGc3bGNUN0pYVUU5c2J4dnFocmdWaWVRNENKWUNFS1NSeER1UERsQ1FacFBsc1lDTmNGcENXY2ZIbmlQb2JuRXplandycHBpdEZaVlItdU5XWVRxYVBkNkNESWw5VnYwUHoyQkxMWVc4d21xZ3I0VTNHM05LamZYcUdfdGM1bDJGTGd0TkpBdk53V1AtblNiM0NRdVBZY1BldS1hUUFwZ0Z1V2s2?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 정부, 설날 연휴 대비 24시간 비상 대기 명령",
+      "summary": "- 태국 정부가 설날 연휴 기간 동안 비상 사태에 대비하여 24시간 비상 대기 체제를 가동합니다.\n- 이는 연휴 기간 동안 발생할 수 있는 사고 및 긴급 상황에 신속하게 대응하기 위함입니다.\n- 여행객들은 긴급 상황 발생 시 정부의 지침에 따라 안전에 유의해야 합니다.",
+      "full_translated": "태국 정부는 설날 연휴 기간 동안 비상 사태에 대비하여 24시간 비상 대기 명령을 내렸습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "설 연휴 기간 동안의 안전 관련 이슈이므로 여행객에게 중요. 기존 뉴스와 내용이 다르므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai Government Orders 24-Hour Emergency Standby for Lunar New Year - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9JbE84bXlKVnZFVGlfUVZsa01YaExXVi1uQkhqWkFZTmFFckZ2djlwVkc4alB6NThoZkdXWDUtWGh2dlJtQTBldGI1ZTVKOS1UR0hBYkt6WHBTUnBGUk1pd2dn?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "중국, 2026년 해외여행 2억 2,500만 건 넘어설 전망 - Travel Daily News Asia-Pacific",
+      "summary": "- 중국의 해외여행이 2026년에 2억 2,500만 건을 넘어설 것으로 예상됨\n- 코로나19 팬데믹 이후 회복세에 따른 전망임\n- 태국 여행 산업에도 긍정적인 영향을 미칠 것으로 예상됨",
+      "full_translated": "중국 해외여행이 2026년에 2억 2,500만 건을 넘어설 것으로 예상됩니다. 코로나19 팬데믹 이후 회복세에 따른 전망이며, 태국 여행 산업에도 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 관광객 증가는 태국 관광 산업에 중요한 영향을 미치므로 정보 제공 가치가 있음. 새로운 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China outbound travel set to exceed 225 million trips in 2026 - Travel Daily News Asia-Pacific",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXZYbmJYUDlidGxmY0RYRWtSNVZMNXI4QVNPbTlCUVRmMkRpME84OGNoOThiYnVDOGpMY29PVlRuWUttT1piT2oxZ1FmcTdMbUduaU00NDRBd1lhdVNra2lHZmF6LWlnWk5xeDRyNjExQUtKN2dGVHBUUDZ4b0JzeFBORmM4NWVEUXhkOEpGU3ZZcHNDelN6T1U4R1pCX2F2TWRYWVJWSk44RlBlbTVDbkFqNA?oc=5",
+          "source": "Travel Daily News Asia-Pacific",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "파타야 해변에 외국인 매춘부가 계속 돌아오는 이유와 체포가 계속될 가능성이 있는 이유 - Pattaya Mail",
+      "summary": "- 파타야 해변에 외국인 매춘부들이 계속해서 돌아오고 있음.\n- 당국은 이들을 체포하고 있지만, 근본적인 해결책은 아님.\n- 관련 법 집행이 계속될 것으로 예상됨.",
+      "full_translated": "파타야 해변에 외국인 매춘부가 계속 돌아오는 이유와 체포가 계속될 가능성이 있는 이유&nbsp;&nbsp;Pattaya Mail",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야 지역의 치안 및 법 집행 관련 소식으로, 여행 시 주의를 요할 수 있음. 직접적인 여행 제한 사항은 아니나, 관련 정보를 제공하여 안전에 유의하도록 함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Why foreign prostitutes keep returning to Pattaya Beach and why arrests are likely to continue - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQmE0RmZ0M1RYS3UtN2lkZUV3b0RueGN4dzBQVmc2YW9tUk9sY213a1FCNjN2Wk1Sa2VyRE1VaDVXUXktcXc5TDVNaDBiQVNMUzFEVVNLOWVJLXYxeHNhdlRhaEVIS1ZVeHp4akoyd2RrZE9hdjhxZmVZQWtoMVItd3VlWUJYU2pwalkzQlhrOHpXU1dxOTVOTGpjSkJQTWhXazVNRjhFV3M2TlFEcXFiS1I3Tm01S2x3RlR6T2dlWGxpNjYyZk1BcE1UTHV5bGc?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 총선 이후 정부, 해결되지 않은 경제적 과제 직면 - 파타야 메일",
+      "summary": "- 태국 총선 이후 정부가 경제적 과제에 직면해 있습니다.\n- 파타야 메일에서 해당 내용을 보도했습니다.\n- 구체적인 내용은 기사를 참조하십시오.",
+      "full_translated": "태국 총선 이후 정부, 해결되지 않은 경제적 과제 직면 - 파타야 메일",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "총선 이후 정부의 경제적 과제는 여행객들에게 간접적인 영향을 미칠 수 있으므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s post-election government amid unresolved economic challenges - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdU5WeWpHUmtUVVNvR09pcllobUw2YmRGWUtQQ3l6OTRPRmswTGwxX2JGNTRBR09zTVRIS0tySXB2NUR4VjRlcjR0OV84X1ZsWEJIN0Q0SGl6T2Vmd1FjX1VlSXN3enlMNlBwaVYwUGkzSWItUkEzM0lWR1pDX01DOVlrUklLd0dDY2UwYjk0QXJydnNRNlhtaVQ4QTljdUQ4RTZKZzBPSW93Sk96NkIwako5NjJBUnpXenFmT3hn?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 경찰, 발렌타인데이에 벌금 대신 꽃을 전달",
+      "summary": "- 태국 경찰이 발렌타인데이를 맞아 벌금 대신 꽃을 전달하는 캠페인을 진행합니다.\n- 딱지 대신 꽃을 주면서 긍정적인 이미지 제고에 힘쓰고 있습니다.\n- 이 캠페인은 태국 전역에서 시행됩니다.",
+      "full_translated": "태국 경찰이 발렌타인데이를 맞아 벌금 대신 꽃을 전달합니다. 딱지 대신 꽃을 주면서 긍정적인 이미지 제고에 힘쓰고 있습니다. 이 캠페인은 태국 전역에서 시행됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경찰의 발렌타인데이 캠페인은 여행객에게 직접적인 영향을 미치지는 않지만, 태국의 긍정적인 이미지를 보여주는 소식입니다.",
+      "event_info": {
+        "date": "2024-02-14",
+        "location": "태국 전역",
+        "price": "무료",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Thai police replace fines with flowers for Valentine’s Day - Thaiger",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0hMdnZlUnBTaUs0WTQ2dm52bnpmWld4U3R2dms0RWJrckxWbm1uZWI4clg0TlZueVFrUmVBQ0VFTmE0MDhsS01jMmN0LU9Yd3k2NEpabThUMHFOM1JoNkUwTTM4UGdRUlRyeTBicWU5cGgxVmpzdU1ENDFiaHNWMmx4SW9TTmN5UnktX1RLaGhBSkx0emtzZ0Jn?oc=5",
+          "source": "Thaiger",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-16"
     }
