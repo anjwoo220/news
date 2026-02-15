@@ -12183,14 +12183,9 @@
       "summary": "- 카오야이 와일드 브리즈 런 2026 행사 취소 발표. 주최측은 관리상의 불가피한 사정을 이유로 들었습니다.\n- 등록비는 전액 환불될 예정이며, 환불 절차는 3일 이내에 공지될 예정입니다.\n- 장소 미비, 출발점 미비, 숙소 부족 등 문제가 제기된 후 취소 결정이 내려졌습니다.",
       "full_translated": "카오야이 와일드 브리즈 런 2026 행사가 주최측의 관리상 불가피한 사정으로 인해 취소되었습니다. 이번 결정은 장소 미비, 출발점 미비, 숙소 부족 등 여러 문제가 제기된 후 내려졌습니다. 주최측은 등록비 전액을 환불할 예정이며, 환불 절차는 3일 이내에 공지될 것이라고 밝혔습니다. 많은 참가자들이 불편을 겪게 되었으며, 주최측은 이에 대해 사과했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "카오야이에서 예정된 행사가 취소되어 해당 지역을 방문하려던 여행객들에게 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": "2026-02-15",
-        "location": "카오야이",
-        "price": "등록비 환불 예정",
-        "location_google_map_query": "카오야이"
-      },
+      "event_info": "{'date': '2026-02-15', 'location': '카오야이', 'price': '등록비 환불 예정', 'location_google_map_query': '카오야이'}",
       "references": [
         {
           "title": "นักวิ่งเซ็ง \"งานวิ่งเขาใหญ่\" ล่ม ผู้จัดแจ้งยกเลิกด้วยเหตุสุดวิสัยด้านการจัดการ",
@@ -12199,8 +12194,85 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DeA036MTtwe1.jpg"
         }
       ],
-      "collected_at": "08:22",
+      "collected_at": "8:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH7DeA036MTtwe1.jpg",
+      "date": "2026-02-15",
+      "link": "https://www.thairath.co.th/news/society/2914297",
+      "source": ""
+    },
+    {
+      "title": "브라질 경찰, 카니발 기간 중 변장술로 휴대폰 도둑 검거",
+      "summary": "- 브라질 리우데자네이루 경찰이 카니발 기간 동안 관광객으로 위장해 휴대폰 도둑을 체포했습니다.\n- 경찰은 캡틴 아메리카, 배트맨 등 유명 캐릭터로 변장하여 범죄자들을 속였습니다.\n- 체포된 용의자 중 한 명은 임신한 척하며 경찰을 속이려 했으나 실패했습니다.",
+      "full_translated": "브라질 리우데자네이루 경찰은 카니발 축제 기간 동안 관광객으로 위장하여 휴대폰 도둑을 체포했습니다. 경찰은 캡틴 아메리카, 배트맨 등 유명 캐릭터 의상을 입고 관광객으로 가장하여 범죄자들을 감시했습니다. 한 여성 용의자는 관광객의 휴대폰을 훔쳐 공범에게 전달하려다 현장에서 체포되었습니다. 체포 당시 여성은 임신한 척하며 경찰의 눈을 속이려 했지만 실패했습니다. 경찰은 이 작전이 'Operation Tracking'의 일환이며, 지금까지 13,000대 이상의 장비를 추적하고 4,400대 이상을 소유자에게 반환했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 뉴스는 아니지만, 해외 여행 시 발생할 수 있는 범죄 유형을 보여주므로 여행자들에게 간접적인 참고가 될 수 있음. 특별히 높은 점수를 줄 정도는 아님.",
+      "event_info": {
+        "date": null,
+        "location": "Rio de Janeiro",
+        "price": null,
+        "location_google_map_query": "Rio de Janeiro"
+      },
+      "references": [
+        {
+          "title": "ตำรวจบราซิลแต่งแฟนซี ล่อจับโจรขโมยโทรศัพท์มือถือช่วงเทศกาลคาร์นิวัลริโอ",
+          "url": "https://www.thairath.co.th/news/foreign/2914313",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5pbejOu8LPuLL.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5pbejOu8LPuLL.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "나콘시탐마랏에서 오토바이 사고로 10대 3명 사망",
+      "summary": "- 나콘시탐마랏에서 10대들이 오토바이를 타고 가다 나무를 들이받아 3명 사망.\n- 목격자들은 사고 직전 오토바이가 과속하는 소리를 들었다고 진술.\n- 경찰은 정확한 사고 원인을 조사 중.",
+      "full_translated": "나콘시탐마랏에서 10대들이 오토바이를 타고 가다 도로 옆 나무를 들이받아 3명이 사망하는 안타까운 사고가 발생했습니다. 주민들은 사고 직전 오토바이가 매우 빠른 속도로 달리는 소리를 들었다고 진술했습니다.\n\n2069년 2월 15일 05시 45분, 나콘시탐마랏 경찰은 의료진 및 구조대와 함께 사고 현장에 출동했습니다. 현장에서는 3명의 사망자가 나무 옆에 쓰러져 있었으며, 1명은 17세 남성으로 확인되었고, 나머지 2명은 신원이 확인되지 않았습니다. 사망자들은 모두 목이 부러졌고, 입과 코에서 피가 흐르는 상태였습니다. 사고 현장 20m 떨어진 곳에서 심하게 파손된 오토바이가 발견되었습니다.\n\n조사 결과, 사고 발생 전 주민들은 오토바이가 도로에서 과속으로 달리는 소리를 들었고, 이후 쓰레기통을 들이받고 나무에 충돌하는 소리를 들었습니다. 처음에는 개가 차에 치인 줄 알고 나가봤지만, 3명의 10대들이 나무 아래 쓰러져 있는 것을 발견했습니다. 경찰은 오토바이가 나콘시탐마랏 시내에서 출발하여 치앙야이 지역의 집으로 향하던 중 사고가 발생한 것으로 보고 있습니다. 경찰은 정확한 사고 원인을 조사하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 안전과 관련된 사고 소식이므로 중간 정도의 영향이 있다고 판단. 지역 교통 정보에 대한 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "나콘시탐마랏",
+        "price": null,
+        "location_google_map_query": "나콘시탐마랏"
+      },
+      "references": [
+        {
+          "title": "ดับสลด 3 ศพ วัยรุ่นซ้อน จยย. เสียหลักชนต้นมะขามริมถนน จ.นครศรีธรรมราช",
+          "url": "https://www.thairath.co.th/news/local/south/2914305",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5poap5LmdWV81.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5poap5LmdWV81.jpg",
+      "date": "2026-02-15"
+    },
+    {
+      "title": "타크바이 늪지대 2마리 이상의 '타콩' 서식 추정, 순찰 강화 및 보존 계획 수립",
+      "summary": "- 태국 남부 타크바이 지역에서 멸종 위기종 '타콩'(False Gharial) 최소 2마리 발견.\n- 야생동물 보호국, 사진 및 영상 증거 확보 후 개체 수 보존 위한 순찰 강화 및 보존 계획 발표.\n- 과거 동남아시아 지역에 서식했으나 서식지 파괴 및 불법 사냥으로 개체 수 급감.",
+      "full_translated": "야생동물 보호국은 태국 남부 늪지대 생태계의 완전성을 보여주는 '타콩'이 자연에서 발견된 후 최소 2마리가 서식하고 있는 것으로 추정된다고 밝혔습니다. 당국은 순찰을 강화하고 보존 계획을 수립할 예정입니다. 2069년 2월 15일, 야생동물 보호국 국장인 수키 분상(Sukhee Boonsang)은 야생동물 연구 그룹이 나라티왓 주 타크바이 지역의 자연 서식지에서 '타콩'(False Gharial)을 발견했다는 보고서를 발표한 후 또 다른 반가운 소식을 전했습니다. 이는 과거 태국에서 멸종된 것으로 여겨졌던 타콩의 존재를 확인하는 중요한 발견입니다. 이번 발견은 2069년 1월 25일에 지역 주민인 나트웃 윤촌(Natthawut Yuenchon)이 저녁 무렵 운하 둑에서 약 3미터 길이의 타콩을 촬영하면서 이루어졌습니다. 이후 야생동물 연구 그룹 산하의 파프루-할라발라 야생동물 연구소 직원들이 현장을 조사한 결과, 인근 지역에서 1.5미터 길이의 또 다른 타콩을 발견했습니다. 이 실증적 데이터는 타크바이 늪지대 생태계에 최소 2마리의 타콩이 서식하고 있으며, 크기가 다르다는 점은 향후 번식에 대한 희망적인 구조를 반영합니다. 과거 '타콩'은 동남아시아 지역의 독특한 파충류로 여겨졌으며, 태국 남부에서 말레이시아, 인도네시아의 수마트라 섬과 보르네오 섬까지 분포했습니다. 그러나 지난 수십 년 동안 농업을 위한 늪지대 침략, 댐 건설, 불법 사냥으로 인해 전 세계 타콩 개체 수가 급격히 감소했습니다. 태국의 경우 지난 수십 년 동안 학술 데이터에서 흔적이나 이야기가 발견되었지만...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "희귀 동물이 발견된 것은 흥미로운 로컬 뉴스이지만, 여행에 직접적인 영향을 미치지는 않음. 다만 생태 관광 자원으로서의 잠재력은 있음.",
+      "event_info": {
+        "date": null,
+        "location": "나라티왓 주 타크바이 지역",
+        "price": null,
+        "location_google_map_query": "타크바이 늪지대"
+      },
+      "references": [
+        {
+          "title": "คาด \"ตะโขง\" ป่าพรุตากใบ มีไม่น้อยกว่า 2 ตัว เร่งยกระดับลาดตระเวน ทำแผนอนุรักษ์",
+          "url": "https://www.thairath.co.th/news/local/2914312",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5pbaCldzpWu3w.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyH5pbaCldzpWu3w.jpg",
       "date": "2026-02-15"
     }
   ]
