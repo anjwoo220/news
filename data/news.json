@@ -14855,14 +14855,9 @@
       "summary": "- 코팡안에서 이스라엘 남성이 5천만 바트 상당의 마약 소지 혐의로 체포됨.\n- 태국 당국은 마약 관련 범죄에 대한 단속을 강화하고 있음.\n- 여행 시 마약 관련 법규 위반에 주의해야 함.",
       "full_translated": "코팡안에서 이스라엘 남성이 5천만 바트 상당의 마약 소지 혐의로 체포되었습니다. 태국 당국은 마약 관련 범죄에 대한 단속을 강화하고 있으며, 여행 시 마약 관련 법규 위반에 주의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 내 마약 관련 범죄 단속 강화는 여행객에게 영향을 미칠 수 있으며, 특히 코팡안을 방문하는 여행객은 주의가 필요함. 범죄 관련 소식은 여행 안전에 대한 인식을 높이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "코팡안",
-        "price": null,
-        "location_google_map_query": "Koh Phangan"
-      },
+      "event_info": "{'date': None, 'location': '코팡안', 'price': None, 'location_google_map_query': 'Koh Phangan'}",
       "references": [
         {
           "title": "Israeli man arrested in Koh Phangan with drugs worth 50 million baht - Thaiger",
@@ -14871,23 +14866,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTnBka3ZUbGpmRS1Ud2dIc3BJQXR5a0JCV2JSS3JIa1BpclFDMUpIUXhFYlFuQVpTWGpyLW5wTXVwZXpQWkYtTGNZdG1SRzlQX0RvU1JLTV8xZGlvSXVnZVQzV0lFN1EzYVNPekF4VWVad0c1bTlnTWx0QlM3OGluTTRtb2ZmWkdaT3ltZjRsVkxCa1hFTlRIOVRsdmFZbjBNUVIzMkpUaXI?oc=5",
+      "source": ""
     },
     {
       "title": "고령 부부, 5시간 만에 관광 경찰 도움으로 코랏에서 재회 - 기쁨의 눈물",
       "summary": "- 고령 부부가 코랏에서 5시간 동안 헤어진 후 관광 경찰의 도움으로 재회했습니다.\n- 부부는 무사히 재회하여 기쁨의 눈물을 흘렸습니다.\n- 관광 경찰의 신속한 대처가 돋보였습니다.",
       "full_translated": "고령 부부가 코랏에서 5시간 동안 헤어진 후 관광 경찰의 도움으로 재회하며 기쁨의 눈물을 흘렸습니다. Thai Examiner",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행 중 발생할 수 있는 안전 문제에 대한 정보를 제공하며, 관광 경찰의 역할에 대한 인식을 높입니다. 노인 여행객에게 특히 유용한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": "코랏",
-        "price": null,
-        "location_google_map_query": "코랏"
-      },
+      "event_info": "{'date': None, 'location': '코랏', 'price': None, 'location_google_map_query': '코랏'}",
       "references": [
         {
           "title": "Tears of joy as elderly couple are reunited by Tourist Police in Korat after five hour separation ordeal - Thai Examiner",
@@ -14896,23 +14888,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZXFpZlJ1aTdTc0k4WUtsX2RNTldRRzhJYUxLVDBmZlM3cXVCbzVSNTJJZndDeXNyM2FYMjh2bUd4UlRpN1FPTTNoVV9CbFIyQ3ExRXFVVTlnaV9MN20yakluRmpHUWFvZjUtd09JZjdrUXZndmVpMjVwZV9IY3lRYzM3WkV4VHVhdThwNmtfUHB4Mkc0WEpwUFVPRjdtU3dhU0NhU0NhbHZ5MWZXbDZpRmZxZlZZVk12V0RkejcxRTZNUmwwdDFBWFNiUHBDXzcwblhyV0g2ajdRaVV4Wkp4X1RIV3MzQ3RYOWszY3c0Yk84RXBfa1FFRmNR?oc=5",
+      "source": ""
     },
     {
       "title": "태국 EEC 전력 시스템 업그레이드에 310억 바트 투자",
       "summary": "- 태국 전력청(Egat)은 동부경제회랑(EEC)의 전력 전송 시스템 업그레이드를 위해 310억 바트를 투자합니다.\n- 이는 데이터 센터 개발 프로젝트에 대한 전력 공급 병목 현상을 완화하기 위한 조치입니다.\n- 이번 투자를 통해 Phan Thong 변전소의 총 전송 능력을 600MW에서 1,150MW로 늘릴 계획입니다.",
       "full_translated": "태국 전력청(Egat)은 동부경제회랑(EEC)의 전력 전송 시스템 업그레이드를 위해 310억 바트를 투자하고 있습니다. 이는 데이터 센터 개발 프로젝트에 대한 전력 공급 병목 현상을 완화하기 위한 조치입니다.\n\n태국은 데이터 센터의 24시간 운영을 보장할 수 있는 충분한 전력을 보유하고 있지만, 여전히 전송 용량을 늘려야 합니다. 에너지 상임 비서관인 Prasert Sinsukprasert는 \"우리는 현재 글로벌 데이터 센터 기지입니다. 이러한 데이터 센터는 막대한 양의 전력을 필요로 합니다.\"라고 말했습니다.\n\n그는 Egat 소유의 Phan Thong 변전소를 방문하면서 이같이 말했습니다. Phan Thong 변전소는 촌부리 내의 Amata City Chon Buri 산업 단지에 전력을 공급하며, 이 산업 단지는 라용 및 차청사오와 함께 EEC를 구성합니다. Egat는 예산에서 15억 바트를 할당하여 Amata City Chon Buri 및 라용 지방의 산업 단지인 Amata City Rayong에 전력을 공급하는 Phan Thong의 전송 용량을 업그레이드했습니다.\n\nPrasert 씨는 \"목표는 총 전송 능력을 현재 600MW에서 1,150MW로 늘리는 것입니다.\"라고 말했습니다. Amata City Chon Buri에 4개의 데이터 센터가 건설 중이며 가스 발전소에서 전기를 공급받는 개선된 전송 시스템의 혜택을 받을 것으로 예상됩니다. 이들은 산업 단지의 전력 수요를 증가시킬 것으로 예상됩니다. 태국 투자청에 따르면 EEC에 16개의 새로운 데이터 센터가 개발될 예정입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "관광객에게 직접적인 영향은 적으나, 데이터센터 확충에 따른 인프라 개선은 장기적으로 긍정적인 영향을 줄 수 있음. 하지만 현재 시점에서는 낮은 점수.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Egat makes B31bn investment to upgrade EEC power system",
@@ -14921,23 +14910,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969460_700.jpg"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969460_700.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.bangkokpost.com/business/general/3198190/egat-makes-b31bn-investment-to-upgrade-eec-power-system",
+      "source": ""
     },
     {
       "title": "태국 파생상품 거래소, 소액 투자자를 위한 금 선물 상품 출시 계획",
       "summary": "- 태국 파생상품 거래소(TFEX)는 소액 투자자들의 참여를 확대하기 위해 소규모 금 선물 계약을 도입할 예정입니다.\n- 금 가격이 지난 1년간 70% 이상 급등하여 국내 가격이 80,000바트/바트-웨이트를 넘어서면서 소액 투자자들의 접근성을 높이기 위함입니다.\n- 새로운 계약은 금 1바트-웨이트 단위로 거래될 수 있으며, 이는 5,000~10,000바트 상당의 가치를 가질 것으로 예상됩니다.",
       "full_translated": "태국 파생상품 시장은 금 가격이 역사적인 랠리를 이어감에 따라 소액 투자자들의 참여를 확대하기 위해 향후 몇 달 안에 더 작은 규모의 금 선물 계약을 도입할 계획입니다. 금은 지난 1년 동안 70% 이상 급등했으며 국내 가격은 80,000바트/바트-웨이트를 넘어 사상 최고치를 기록했습니다. 급격한 상승은 태국 선물 거래소(TFEX)에서 금 선물 계약의 거래 수요를 급증시켜 소규모 투자자를 위한 보다 접근성 높은 상품을 개발하게 되었습니다.\n\nTFEX의 새로운 전무 이사인 Triwit Wangvorawudhi는 거래소가 소량 금 선물 계약을 도입하기 위한 계획을 마무리하고 있으며, 잠재적으로 금 1바트-웨이트로 규모가 정해질 수 있다고 말했습니다. 현재 가장 작은 계약은 금 10바트-웨이트에 대한 것이며 계약 가치는 100,000바트에 육박합니다. 그는 \"가장 적절한 규모를 연구하고 있지만 새로운 계약은 5,000~10,000바트 사이의 가치를 가질 가능성이 높습니다.\"라고 말했습니다. \"이를 통해 소액 투자자는 위험을 헤지하고 포트폴리오를 보다 효율적으로 관리할 수 있습니다.\" TFEX가 금 옵션에 대한 투자자 수요를 평가함에 따라 강력한 수익을 제공한 은 선물은 태국 투자자들에게 여전히 과소평가되고 있다고 Triwit씨는 말했습니다. 거래소는 올해 은 선물에 대한 시장 인식을 높일 계획입니다.\n\n변동성 통제: 상품 시장의 변동성이 높아짐에 따라 TFEX는 귀금속 선물에 대한 다단계 회로 차단기를 유지합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "금 가격 변동에 대한 정보는 여행자에게 직접적인 영향을 미치지 않지만, 투자에 관심 있는 여행자에게는 유용한 정보가 될 수 있습니다. 아침 브리핑에 포함하기에는 우선순위가 낮습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Gold fever to result in new futures",
@@ -14946,23 +14932,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969480_700.jpg"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969480_700.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.bangkokpost.com/business/investment/3198210/gold-fever-to-result-in-new-futures",
+      "source": ""
     },
     {
       "title": "태국 중앙은행, 경제 회복 위해 적극적 역할 모색",
       "summary": "- 태국 중앙은행 총재, 경제 성장 둔화에 대한 우려 표명\n- 은행들에게 중소기업 대출 확대 및 금리 재검토 촉구\n- 중앙은행 역할 재조정 및 금융기관의 사회적 책임 강조",
       "full_translated": "태국 중앙은행 총재 비타이 라타나콘은 실물 경제와의 더 많은 참여를 모색하고 있지만, 이는 위험을 수반합니다. \n\n태국 경제 성장이 올해 팬데믹 충격을 제외하고 10년 만에 최저 수준으로 떨어질 것으로 예상됨에 따라, 태국 중앙은행 총재 비타이 라타나콘은 최근 중앙은행의 역할에 대한 가능한 변화를 시사하며 실물 경제 문제에 대한 더 적극적인 참여를 모색하고 있습니다. \n\n지난해 10월 25대 총재로 취임한 비타이 씨는 태국의 장기적인 경기 침체가 뿌리 깊은 구조적 약점, 부패, 회색 자본의 지속성을 반영한다고 주장했습니다. 이러한 배경에서 그는 상업 은행들에게 경제를 지원하는 데 더 큰 역할을 할 것을 촉구했는데, 특히 중소기업(SME)에 대한 대출을 확대하고 특정 부문의 금리를 재검토하여 경제 상황을 더 잘 반영하도록 했습니다. \n\n이는 중앙은행이 역할을 재조정하고 상업 은행 및 금융 기관이 도덕적 설득 논리 하에 더 큰 사회적 책임을 보여주면서 가계 및 중소기업의 부채 부담을 완화하고 국가의 어려움을 겪고 있는 경제를 지원해야 할 시점인지에 대한 질문을 제기합니다. 도덕적 설득은 행동에 영향을 미치기 위해 윤리적 주장, 양심에 대한 호소 또는 공유된 가치를 언급하는 것을 의미합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 내용으로, 여행객에게 직접적인 영향은 적으나 간접적인 정보 제공 가능성이 있어 낮은 점수 부여. 경제 상황은 여행 환경에 영향을 미칠 수 있지만, 현재로서는 미미한 수준.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Rethinking the central bank's role",
@@ -14971,8 +14954,85 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969580_700.jpg"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/16/5969580_700.jpg",
+      "date": "2026-02-16",
+      "link": "https://www.bangkokpost.com/business/general/3198260/rethinking-the-central-banks-role",
+      "source": ""
+    },
+    {
+      "title": "코팡안에서 '최대' 이스라엘 마약상 체포 - 방콕 포스트",
+      "summary": "- 코팡안에서 이스라엘 국적의 마약상이 체포됨.\n- 용의자는 해당 지역에서 가장 큰 마약 거래상으로 알려짐.\n- 방콕 포스트 보도.",
+      "full_translated": "코팡안에서 '최대' 이스라엘 마약상 체포 - 방콕 포스트",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전에 영향을 줄 수 있는 범죄 사건이므로 포함. 마약 관련 범죄는 특히 주의해야 할 사항. 코팡안은 관광객이 많이 찾는 지역이므로 안전 관련 정보를 제공하는 것이 중요.",
+      "event_info": {
+        "date": null,
+        "location": "코팡안",
+        "price": null,
+        "location_google_map_query": "코팡안"
+      },
+      "references": [
+        {
+          "title": "‘Biggest’ Israeli drug dealer on Koh Phangan arrested - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pmaUZOUHo5N0xRNUVJSHUzOWVNYlJNUzMwR1dNc2xocUVpVW1iV2VEb3FNS3RiTjdBNTB1Z0h6R1RoaTBOSHgyZ2hPRklpenNncHVYSVpYWXFBY244NkV2V2x2U0tfd3F0eDVVclVlNWxvWl93SFlSQ29BMThPWm9nVy14TU9HdnRibHdlZXFnYkpiekw4Xy0zWk9TSERSamF3?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "이스라엘 국적자, 태국 대규모 마약 단속 후 사형 직면",
+      "summary": "- 이스라엘 국적자가 태국에서 대규모 마약 단속으로 사형에 직면할 수 있습니다.\n- 자세한 내용은 아직 알려지지 않았습니다.\n- 여행객은 마약 관련 범죄에 연루되지 않도록 주의해야 합니다.",
+      "full_translated": "이스라엘 국적자가 태국에서 대규모 마약 단속으로 사형에 직면할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "마약 관련 범죄는 여행객에게 직접적인 영향을 줄 수 있으며, 특히 사형과 관련된 문제는 심각하므로 알릴 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Israeli National Faces Potential Death Penalty in Thailand After Massive Drug Bust - JFeed",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MbzdSRXpWXzBZQnR2a2NqMGhRdmM4UkFpUHhXMEhfb2VEaGdYNjIxWWM4UGI3RU80TFR3V19PN1otel9MVG5FN0YxV1p6Wmx0SF9rbmdMU1JkejZRRXY0RFBIbTNocHllamhkbVFiUTVPNXF5X01LS3d3Zw?oc=5",
+          "source": "JFeed",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "관광 협회, 경찰 부패 감소 요구 - 방콕 포스트",
+      "summary": "- 태국 관광 협회들이 경찰 부패 문제 해결을 촉구.\n- 관광객 대상의 부당한 금전 요구 및 괴롭힘 근절 필요성 강조.\n- 관광 산업 이미지 개선 및 관광객 안전 확보 목표.",
+      "full_translated": "관광 협회, 경찰 부패 감소 요구 - 방콕 포스트",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "경찰 부패 문제는 관광객의 안전과 직결될 수 있으며, 태국 여행 경험에 부정적인 영향을 미칠 수 있으므로 중간 수준의 점수를 부여함. 하지만 새로운 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism associations ask for less police corruption - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmlEbFVzMzc3WXpqSlYxeHIyb1hhZ1NuRF9leVJWNHY1R2NNVndNQjlMRm16QmtfUGh2NFFoaGhIbzU1YkJjLXZ2Rjc2TjluYzB2dmNoZU44ei1mWU9IWnljN3VNaHRnMG94dFdaZldVdnZZSVdfTHZoeG9NV2ROVVFhSnRobktkbHVTNGpWcDFiamJ0blV6MXJqLWFuME9JVHlnd2lqYkp5SUw5ZlUtaVJvQ1FFR3hiQ2lINWFxdDdEMWtzVW1saDBYSThGVzdIMnJuVnp2WDhNcVFBRlE2eko0NWxTSU1IMEpzbjBPTUhXa2dNOVROT25ja1JFYlBaZUtiT2xKbUYyb0g4NFIwdEVaelFHZWpHV0NaTjVYYUxtRFhwNHBJODV1cjRXVGhWeExKRlFleGxYNzhiQm5fWTljOGY1ZWdETjg5T0F5d01VaTc0QlhWLWhmeHpfN2h0LV90Q0pBRXRMbVlCNkE?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-16"
     }
   ]
