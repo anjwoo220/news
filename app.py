@@ -4068,7 +4068,7 @@ if app_mode == "Admin Console":
                             df_display[['id', 'region', 'name', 'price', 'type']], 
                             use_container_width=True,
                             on_select="rerun",
-                            selection_mode="single_row",
+                            selection_mode="single-row",
                             key="admin_tour_df",
                             height=600
                         )
