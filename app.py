@@ -4077,143 +4077,137 @@ if app_mode == "Admin Console":
                 import pandas as pd
                 import time
 
-                # Master-Detail Layout with Unique Variable Names
-                t_col_list, t_col_form = st.columns([3.2, 1])
-                
-                with t_col_list:
-                    st.markdown("#### 📋 등록된 투어 목록")
-                    with st.container(border=True):
-                        if TOURS:
-                            df_tours = pd.DataFrame(TOURS)
-                            # Ensure 'type' is a string for display if it's a list
-                            df_display = df_tours.copy()
-                            if 'type' in df_display.columns:
-                                df_display['type'] = df_display['type'].apply(lambda x: ", ".join(x) if isinstance(x, list) else x)
-                            
-                            # Using 'single-row' (standard Streamlit)
-                            event = st.dataframe(
-                                df_display[['id', 'region', 'name', 'price', 'type']], 
-                                use_container_width=True,
-                                on_select="rerun",
-                                selection_mode="single-row",
-                                key="admin_tour_df_v2",
-                                height=600
-                            )
-                            
-                            selected_rows = event.get("selection", {}).get("rows", [])
-                            target_tour = None
-                            if selected_rows:
-                                row_idx = selected_rows[0]
-                                selected_id = df_display.iloc[row_idx]['id']
-                                target_tour = next((t for t in TOURS if t['id'] == selected_id), None)
-                                st.success(f"선택됨: **{target_tour['name']}**")
-                            else:
-                                st.info("💡 리스트에서 투어를 선택하면 수정할 수 있습니다.")
-                        else:
-                            st.info("등록된 투어가 없습니다.")
-                            target_tour = None
-
-                with t_col_form:
-                    if target_tour:
-                        st.markdown("#### ✏️ 투어 수정")
-                        with st.form("edit_tour_form"):
-                            st.caption(f"수정 중: ID {target_tour['id']}")
-                            
-                            # Find current region index
-                            curr_reg = target_tour.get('region', '방콕')
-                            curr_reg_idx = 0
-                            for idx, opt in enumerate(REGION_OPTIONS):
-                                if curr_reg in opt:
-                                    curr_reg_idx = idx
-                                    break
-                            
-                            e_region = st.selectbox("지역", REGION_OPTIONS, index=curr_reg_idx)
-                            e_name = st.text_input("투어명 (KR)", value=target_tour.get('name', ''))
-                            e_name_en = st.text_input("투어명 (EN)", value=target_tour.get('name_en', ''))
-                            e_price = st.text_input("가격", value=target_tour.get('price', ''))
-                            e_link = st.text_input("Klook 링크", value=target_tour.get('link', ''))
-                            e_image = st.text_input("이미지 URL", value=target_tour.get('image', ''))
-                            e_type = st.text_input("태그", value=",".join(target_tour.get('type', [])))
-                            e_desc = st.text_area("설명 (KR)", value=target_tour.get('desc', ''))
-                            e_desc_en = st.text_area("설명 (EN)", value=target_tour.get('desc_en', ''))
-                            e_pros = st.text_input("장점/특징 (KR)", value=target_tour.get('pros', ''))
-                            e_pros_en = st.text_input("장점/특징 (EN)", value=target_tour.get('pros_en', ''))
-                            
-                            btn_save, btn_del = st.columns(2)
-                            with btn_save:
-                                if st.form_submit_button("수정 저장", use_container_width=True, type="primary"):
-                                    target_tour['region'] = e_region.split(" ", 1)[1]
-                                    target_tour['name'] = e_name
-                                    target_tour['name_en'] = e_name_en
-                                    target_tour['price'] = e_price
-                                    target_tour['link'] = e_link
-                                    target_tour['image'] = e_image
-                                    target_tour['type'] = [t.strip() for t in e_type.split(",") if t.strip()]
-                                    target_tour['desc'] = e_desc
-                                    target_tour['desc_en'] = e_desc_en
-                                    target_tour['pros'] = e_pros
-                                    target_tour['pros_en'] = e_pros_en
-                                    
-                                    utils.save_tours(TOURS)
-                                    st.success("수정 완료!")
-                                    time.sleep(1)
-                                    st.rerun()
-                            
-                            with btn_del:
-                                # Forms don't allow separate delete buttons easily without hacks
-                                # But we can use a small checkbox + button outside or just another radio
-                                pass
+                # Master-Detail Layout verticalized for better visibility
+                st.markdown("#### 📋 등록된 투어 목록")
+                with st.container(border=True):
+                    if TOURS:
+                        df_tours = pd.DataFrame(TOURS)
+                        # Ensure 'type' is a string for display if it's a list
+                        df_display = df_tours.copy()
+                        if 'type' in df_display.columns:
+                            df_display['type'] = df_display['type'].apply(lambda x: ", ".join(x) if isinstance(x, list) else x)
                         
-                        if st.button("🗑️ 이 투어 삭제", type="secondary", use_container_width=True):
-                            initial_len = len(TOURS)
-                            TOURS = [t for t in TOURS if t['id'] != target_tour['id']]
-                            utils.save_tours(TOURS)
-                            st.success("삭제 완료!")
-                            time.sleep(1)
-                            st.rerun()
-
-                        if st.button("➕ 새 투어 추가 모드로", use_container_width=True):
-                            # This just clears selection by rerunning without explicit selection
-                            st.rerun()
-
+                        # Using 'single-row' (standard Streamlit)
+                        event = st.dataframe(
+                            df_display[['id', 'region', 'name', 'price', 'type']], 
+                            use_container_width=True,
+                            on_select="rerun",
+                            selection_mode="single-row",
+                            key="admin_tour_df_v2",
+                            height=600
+                        )
+                        
+                        selected_rows = event.get("selection", {}).get("rows", [])
+                        target_tour = None
+                        if selected_rows:
+                            row_idx = selected_rows[0]
+                            selected_id = df_display.iloc[row_idx]['id']
+                            target_tour = next((t for t in TOURS if t['id'] == selected_id), None)
+                            st.success(f"선택됨: **{target_tour['name']}**")
+                        else:
+                            st.info("💡 리스트에서 투어를 선택하면 수정할 수 있습니다.")
                     else:
-                        st.markdown("#### ➕ 새 투어 추가")
-                        with st.form("add_tour_form"):
-                            new_id = max([t['id'] for t in TOURS]) + 1 if TOURS else 1
-                            st.caption(f"새 투어 ID: {new_id} (자동 생성)")
-                            
-                            n_region = st.selectbox("지역 (필수)", REGION_OPTIONS)
-                            n_name = st.text_input("투어명 (KR)")
-                            n_name_en = st.text_input("투어명 (EN)")
-                            n_price = st.text_input("가격 (예: 약 50,000원)")
-                            n_link = st.text_input("Klook 링크")
-                            n_image = st.text_input("이미지 URL")
-                            n_type = st.text_input("태그 (콤마로 구분)")
-                            n_desc = st.text_area("설명 (KR)")
-                            n_desc_en = st.text_area("설명 (EN)")
-                            n_pros = st.text_input("장점/특징 (KR)")
-                            n_pros_en = st.text_input("장점/특징 (EN)")
-                            
-                            if st.form_submit_button("저장", use_container_width=True, type="primary"):
-                                new_tour = {
-                                    "id": new_id,
-                                    "region": n_region.split(" ", 1)[1],
-                                    "name": n_name,
-                                    "name_en": n_name_en,
-                                    "type": [t.strip() for t in n_type.split(",") if t.strip()],
-                                    "price": n_price,
-                                    "desc": n_desc,
-                                    "desc_en": n_desc_en,
-                                    "pros": n_pros,
-                                    "pros_en": n_pros_en,
-                                    "link": n_link,
-                                    "image": n_image
-                                }
-                                TOURS.append(new_tour)
+                        st.info("등록된 투어가 없습니다.")
+                        target_tour = None
+
+                st.markdown("---") # Divider for visual separation
+                
+                if target_tour:
+                    st.markdown("#### ✏️ 투어 수정")
+                    with st.form("edit_tour_form"):
+                        st.caption(f"수정 중: ID {target_tour['id']}")
+                        
+                        # Find current region index
+                        curr_reg = target_tour.get('region', '방콕')
+                        curr_reg_idx = 0
+                        for idx, opt in enumerate(REGION_OPTIONS):
+                            if curr_reg in opt:
+                                curr_reg_idx = idx
+                                break
+                        
+                        e_region = st.selectbox("지역", REGION_OPTIONS, index=curr_reg_idx)
+                        e_name = st.text_input("투어명 (KR)", value=target_tour.get('name', ''))
+                        e_name_en = st.text_input("투어명 (EN)", value=target_tour.get('name_en', ''))
+                        e_price = st.text_input("가격", value=target_tour.get('price', ''))
+                        e_link = st.text_input("Klook 링크", value=target_tour.get('link', ''))
+                        e_image = st.text_input("이미지 URL", value=target_tour.get('image', ''))
+                        e_type = st.text_input("태그", value=",".join(target_tour.get('type', [])))
+                        e_desc = st.text_area("설명 (KR)", value=target_tour.get('desc', ''))
+                        e_desc_en = st.text_area("설명 (EN)", value=target_tour.get('desc_en', ''))
+                        e_pros = st.text_input("장점/특징 (KR)", value=target_tour.get('pros', ''))
+                        e_pros_en = st.text_input("장점/특징 (EN)", value=target_tour.get('pros_en', ''))
+                        
+                        btn_save, btn_del = st.columns(2)
+                        with btn_save:
+                            if st.form_submit_button("수정 저장", use_container_width=True, type="primary"):
+                                target_tour['region'] = e_region.split(" ", 1)[1]
+                                target_tour['name'] = e_name
+                                target_tour['name_en'] = e_name_en
+                                target_tour['price'] = e_price
+                                target_tour['link'] = e_link
+                                target_tour['image'] = e_image
+                                target_tour['type'] = [t.strip() for t in e_type.split(",") if t.strip()]
+                                target_tour['desc'] = e_desc
+                                target_tour['desc_en'] = e_desc_en
+                                target_tour['pros'] = e_pros
+                                target_tour['pros_en'] = e_pros_en
+                                
                                 utils.save_tours(TOURS)
-                                st.success("추가 완료!")
+                                st.success("수정 완료!")
                                 time.sleep(1)
                                 st.rerun()
+                        with btn_del:
+                            pass
+                    
+                    if st.button("🗑️ 이 투어 삭제", type="secondary", use_container_width=True):
+                        initial_len = len(TOURS)
+                        TOURS = [t for t in TOURS if t['id'] != target_tour['id']]
+                        utils.save_tours(TOURS)
+                        st.success("삭제 완료!")
+                        time.sleep(1)
+                        st.rerun()
+
+                    if st.button("➕ 새 투어 추가 모드로", use_container_width=True):
+                        st.rerun()
+
+                else:
+                    st.markdown("#### ➕ 새 투어 추가")
+                    with st.form("add_tour_form"):
+                        new_id = max([t['id'] for t in TOURS]) + 1 if TOURS else 1
+                        st.caption(f"새 투어 ID: {new_id} (자동 생성)")
+                        
+                        n_region = st.selectbox("지역 (필수)", REGION_OPTIONS)
+                        n_name = st.text_input("투어명 (KR)")
+                        n_name_en = st.text_input("투어명 (EN)")
+                        n_price = st.text_input("가격 (예: 약 50,000원)")
+                        n_link = st.text_input("Klook 링크")
+                        n_image = st.text_input("이미지 URL")
+                        n_type = st.text_input("태그 (콤마로 구분)")
+                        n_desc = st.text_area("설명 (KR)")
+                        n_desc_en = st.text_area("설명 (EN)")
+                        n_pros = st.text_input("장점/특징 (KR)")
+                        n_pros_en = st.text_input("장점/특징 (EN)")
+                        
+                        if st.form_submit_button("저장", use_container_width=True, type="primary"):
+                            new_tour = {
+                                "id": new_id,
+                                "region": n_region.split(" ", 1)[1],
+                                "name": n_name,
+                                "name_en": n_name_en,
+                                "type": [t.strip() for t in n_type.split(",") if t.strip()],
+                                "price": n_price,
+                                "desc": n_desc,
+                                "desc_en": n_desc_en,
+                                "pros": n_pros,
+                                "pros_en": n_pros_en,
+                                "link": n_link,
+                                "image": n_image
+                            }
+                            TOURS.append(new_tour)
+                            utils.save_tours(TOURS)
+                            st.success("추가 완료!")
+                            time.sleep(1)
+                            st.rerun()
 
             except Exception as e:
                 import traceback
