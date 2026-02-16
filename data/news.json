@@ -15031,14 +15031,9 @@
       "summary": "- 캄보디아 '프라삿 크나' 사원 근처에서 화재 발생, 작은 총알 터지는 듯한 소리 들림.\n- 화재로 인해 국경 지역에 남겨진 무기가 폭발했을 가능성이 있음.\n- 태국 군부, 상황을 면밀히 주시하며 추가 정보 확인 중.",
       "full_translated": "태국 제2군에 따르면 캄보디아 '프라삿 크나' 사원 근처에서 화재가 발생했으며, 작은 총알이 터지는 듯한 소리가 들렸습니다. 군은 화재로 인해 국경 지역에 남겨진 무기가 폭발했을 가능성을 염두에 두고 상황을 면밀히 주시하고 있습니다. 2월 16일, 제2군 페이스북 페이지에는 21시경 프라삿 크나 인근에서 발생한 화재 상황에 대한 보고서가 게시되었습니다. 보고서에는 \"캄보디아 쪽 프라삿 크나 동쪽에서 화재가 발생했으며, 작은 총알이 터지는 듯한 소리가 간헐적으로 들립니다. 화재로 인해 국경 지역에 남겨진 무기가 폭발했을 가능성이 있습니다. 모든 부서는 공식 페이지에서 정보를 확인하시기 바랍니다. 상황을 면밀히 주시하고 있습니다.\" 라는 내용이 담겨 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국경 지역 화재 및 폭발 가능성으로 안전에 잠재적 위협. 여행객 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "프라삿 크나 사원 인근 (캄보디아 국경)",
-        "price": null,
-        "location_google_map_query": "Prasat Khna"
-      },
+      "event_info": "{'date': None, 'location': '프라삿 크나 사원 인근 (캄보디아 국경)', 'price': None, 'location_google_map_query': 'Prasat Khna'}",
       "references": [
         {
           "title": "เกิดเหตุไฟป่าใกล้ \"ปราสาทคนา\" ฝั่งกัมพูชามีเสียงปะทุ คล้ายกระสุนปืนเล็กเป็นระยะ",
@@ -15049,21 +15044,18 @@
       ],
       "collected_at": "11:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGRxMGOxXqC1iw.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/local/northeast/2914454",
+      "source": ""
     },
     {
       "title": "방콕 짜오른끄룽 지역, 발코니 빵집 인기 폭발",
       "summary": "- '게으른' 제빵사가 발코니 아이디어로 입소문\n- Yupadee Simim, 옥상에서 빵을 내려 판매\n- 안전 문제 지적에도 팬들의 지지로 영업 지속",
       "full_translated": "방콕 짜오른끄룽 지역에서 스스로를 \"게으르다\"고 칭하는 제빵사가 기발한 발코니 아이디어를 통해 온라인에서 큰 인기를 얻고 있습니다. Yupadee Simim은 Taidana.pan의 소유주로, 갓 구운 버터 빵을 옥상에서 미소를 짓는 고객들에게 내려줍니다. 이로 인해 많은 사람들이 몰려들고 안전에 대한 비판도 있지만, 그녀의 독특한 가게를 계속 열 수 있을 만큼 충분한 팬들의 지지를 받고 있습니다. 방콕 포스트의 전체 내용을 즐기려면 광고 차단기를 비활성화하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 핫플레이스로 여행객들의 흥미를 끌 수 있으며, 독특한 가게 경험을 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 짜오른끄룽",
-        "price": null,
-        "location_google_map_query": "Taidana.pan, Charoenkrung, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '방콕 짜오른끄룽', 'price': None, 'location_google_map_query': 'Taidana.pan, Charoenkrung, Bangkok'}",
       "references": [
         {
           "title": "Balcony bakery brings down the house",
@@ -15074,21 +15066,18 @@
       ],
       "collected_at": "11:01",
       "image_url": "https://static.bangkokpost.com/media/content/20260216/c1_3198375_700.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.bangkokpost.com/video/thailand/3198375/balcony-bakery-brings-down-the-house-in-charoen-krung-bangkok-thailand",
+      "source": ""
     },
     {
       "title": "탄 파스콘라티, 콘서트 무대에서 떨어진 후 최신 상태 업데이트. 걱정해주신 모든 분들께 감사드립니다.",
       "summary": "- 탄 이치탄, 콘서트 무대에서 2미터 높이에서 떨어진 후 최신 상태 업데이트\n- 모든 사람의 걱정에 감사하며 현재는 괜찮고 약간의 허리 통증만 있다고 밝혔습니다.\n- 그는 병원에서 퇴원하여 곧 일을 할 수 있다고 말했습니다. 또한 모든 사람에게 놀라게 해서 죄송하다고 사과하며, 중국 설날에 모든 사람이 부자가 되기를 기원했습니다.",
       "full_translated": "탄 이치탄 또는 탄 파스콘라티는 콘서트 무대에서 2미터 높이에서 떨어진 후 최신 상태를 업데이트했습니다. 그는 모든 사람의 걱정에 감사하며 현재는 괜찮고 약간의 허리 통증만 있다고 밝혔습니다. 앞서 구조대원들이 '탄 파스콘라티' 또는 '탄 이치탄'을 급히 병원으로 이송한 바 있습니다. 그는 지난 2월 15일, 촌부리 주 사타힙 구 카오 치찬의 원더 원 뮤직 페스티벌(@วันชีจรรย์ เขาชีจรรย์ พัทยา) 콘서트 마지막 날, 거의 2미터 높이의 무대에서 떨어져 목과 등 부위에 통증을 느꼈습니다. 최근 2월 16일, 탄 파스콘라티 페이스북 페이지에 최신 상태를 업데이트하는 비디오 클립이 게시되었습니다. 그는 모든 사람의 걱정에 감사하며 현재는 괜찮고 약간의 허리 통증만 있다고 말했습니다. 곧 병원에서 퇴원하여 일을 할 수 있을 것입니다. 모든 사람에게 놀라게 해서 죄송하며, 중국 설날에 모든 사람이 부자가 되기를 기원했습니다. 해당 클립이 공개된 후, 많은 사람들이 댓글을 통해 탄에게 응원을 보냈고 빠른 쾌유와 건강 회복을 기원했습니다. ... 페이스북 탄 파스콘라티에서 제공한 정보 ... ...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "유명인의 사고 소식이지만, 콘서트장 안전에 대한 간접적인 영향이 있을 수 있고, 현재 상태가 괜찮다는 업데이트이므로 포함.",
-      "event_info": {
-        "date": "2024-02-15",
-        "location": "원더 원 뮤직 페스티벌 @วันชีจรรย์ เขาชีจรรย์ พัทยา, 촌부리 주 사타힙 구",
-        "price": null,
-        "location_google_map_query": "วันชีจรรย์ เขาชีจรรย์ พัทยา"
-      },
+      "event_info": "{'date': '2024-02-15', 'location': '원더 원 뮤직 페스티벌 @วันชีจรรย์ เขาชีจรรย์ พัทยา, 촌부리 주 사타힙 구', 'price': None, 'location_google_map_query': 'วันชีจรรย์ เขาชีจรรย์ พัทยา'}",
       "references": [
         {
           "title": "\"ตัน ภาสกรนที\" อัปเดตอาการล่าสุด หลังตกเวทีงานคอนเสิร์ต ขอบคุณทุกคนที่เป็นห่วง",
@@ -15099,21 +15088,18 @@
       ],
       "collected_at": "11:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGSEgp6ekRSUKV.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/society/2914465",
+      "source": ""
     },
     {
       "title": "야마하, XMAX & NMAX 25주년 기념 스페셜 에디션 스쿠터 공개",
       "summary": "- 야마하 모터, XMAX 및 NMAX 스페셜 25주년 기념 모델 출시.\n- MAX 시리즈 25주년 기념 'THE ULTIMATE PRIDE OF MAX' 컨셉.\n- 특별 디자인, 그래픽, 엠블럼, 색상 및 OHLINS/PROFENDER 쇼크 업소버 적용.",
       "full_translated": "THAI YAMAHA MOTOR는 NEW YAMAHA XMAX 및 NEW YAMAHA NMAX 스페셜 25주년 기념 MAX 시리즈 스포츠 오토매틱 모터사이클을 출시하며 'THE ULTIMATE PRIDE OF MAX' 컨셉으로 MAX SERIES 모터사이클 25주년을 기념합니다. 이 오토매틱 모델은 2001년 TMAX를 통해 스포츠 프리미엄의 선구자로서 첫 발을 내딛었으며, 2008년 XMAX와 2015년 NMAX로 성공을 이어가며 세계적으로 지속적인 인기를 얻고 있는 프리미엄 스포츠 오토매틱 모델 중 하나가 되었습니다. NEW YAMAHA XMAX 및 NEW YAMAHA NMAX 스페셜 25주년 기념 MAX 시리즈는 2001년부터 현재까지 MAX SERIES의 성공적인 역사를 담은 특별한 디자인과 새로운 그래픽으로 스포츠 DNA를 전달합니다. 또한 전면 양쪽에 25주년 기념 MAX 시리즈 엠블럼이 부착되어 있으며, 25주년 기념 모델 전용 특별 색상이 적용되었습니다. 25주년 기념 MAX 시리즈 로고가 새겨진 블랙/레드 색상의 특별 디자인 시트, 레드 스티치가 특징입니다. YAMAHA XMAX 25주년 기념 MAX 시리즈에는 하이엔드 스타일의 블랙 OHLINS 리어 쇼크 업소버 Limited Edition이 장착되어 있습니다. Rebound, Preload 및 Compression을 완벽하게 조절할 수 있어 MAX SERIES의 짜릿하고 자신감 넘치는 라이딩 성능을 제공하며 모든 라이딩 스타일에 부합합니다. YAMAHA NMAX 25주년 기념 MAX 시리즈는 PROFENDER 리어 쇼크 업소버 Limited Edition으로 제어 성능을 향상시켰습니다. Rebound, Preload 및 Compression을 완벽하게 조절할 수 있으며 가벼운 무게로 모든 도로에서 자신감 있는 라이딩과 제어가 가능합니다. NEW YAMAHA XMAX 오너를 위해...",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "새로운 스쿠터 모델 정보는 여행객에게 교통 수단 선택지를 제공하므로 정보 가치가 있다고 판단됨.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สกู๊ตเตอร์เกียร์ออโต้รุ่นใหม่ YAMAHA XMAX & NMAX รุ่นพิเศษ 25th Anniversary MAX Series",
@@ -15124,21 +15110,18 @@
       ],
       "collected_at": "11:01",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNg9cEq9WUijS5gjOn.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/auto/news/2914422",
+      "source": ""
     },
     {
       "title": "전기차 12V 배터리의 역할: 알아두면 유용한 정보",
       "summary": "- 전기차에도 일반 차량처럼 12V 배터리가 탑재되어 있습니다.\n- 12V 배터리는 차량의 전장 시스템, 잠금 장치, 경보 장치 등에 전력을 공급합니다.\n- 고전압 메인 배터리의 전력 변동을 줄여 시스템의 안정성을 유지하는 역할도 수행합니다.",
       "full_translated": "전기차에도 일반 차량처럼 12V 배터리가 있다는 사실, 알고 계셨나요? 많은 사람들이 전기차에는 대용량 배터리만 있다고 생각하지만, 12V 배터리는 중요한 역할을 수행합니다. 이 배터리는 차량이 작동하지 않을 때 잠금 장치, 경보 장치, 안전 시스템과 같은 전장 시스템에 전력을 공급합니다. 또한 차량 내 컴퓨터 및 모니터링 시스템에도 전원을 공급하며, 고전압 메인 배터리를 시동하는 데에도 사용됩니다. 12V 배터리는 고전압 배터리의 전력 변동을 완충하여 차량 전기 시스템에 안정적인 전력 공급을 보장하는 역할도 합니다. 고전압 배터리를 직접 사용하는 대신 12V 배터리를 사용하는 이유는, 고전압 배터리가 차량 구동에 최적화되어 있고, 전장 시스템에 지속적으로 전력을 공급하는 데에는 부담이 될 수 있기 때문입니다. 또한 고전압 배터리는 크고 무거워 차량 무게를 증가시킬 수 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "전기차 이용 여행객에게 유용한 정보이며, 차량 시스템에 대한 이해를 돕습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "แบตเตอรี่ 12 โวลต์ในรถยนต์ไฟฟ้า ทำหน้าที่อะไร",
@@ -15149,6 +15132,133 @@
       ],
       "collected_at": "11:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9MZCBHIno81.jpg",
+      "date": "2026-02-16",
+      "link": "https://www.thairath.co.th/news/auto/tips/2914417",
+      "source": ""
+    },
+    {
+      "title": "인도네시아 아체 지역에 거대 싱크홀 발생, 주변 지역 위협",
+      "summary": "- 인도네시아 아체 주에서 거대한 싱크홀이 발생하여 주변 지역으로 확산되고 있습니다.\n- 싱크홀은 이미 18라이(약 29,000 제곱미터)의 농경지를 덮쳤으며, 주거 지역과의 거리가 400미터까지 좁혀져 주민들의 우려가 커지고 있습니다.\n- 당국은 피해를 막기 위해 전력 시설을 이전하고 대체 도로를 건설하는 등 적극적인 조치를 취하고 있습니다.",
+      "full_translated": "인도네시아 아체 주의 폰독 발렉 게톨 마을에서 발생한 지질 재해 상황이 악화되고 있습니다. 항공 사진에 따르면 '거대 싱크홀' 지역의 토지 이동이 계속 확대되고 있습니다. 최근에는 농경지를 덮고 주거 지역을 광범위하게 위협하며, 그 면적이 18라이(약 29,000 제곱미터)를 넘어섰습니다. 싱크홀은 하루에 약 1미터씩 계속 확장되고 있습니다.\n\n이 거대한 싱크홀은 인도네시아 아체 주 중앙 아체 군에 위치해 있으며, 아체 에너지 및 광물 자원 사무소에 따르면 올해에만 18.75라이까지 확장되었으며, 계속해서 하루에 약 1미터씩 가라앉고 있습니다. 피해 지역은 대부분 주민들의 농경지이며, 특히 고추 농장이 피해를 입어 농부들은 경제 작물과 주요 수입원을 잃었습니다.\n\n현장 조사 결과, 싱크홀 가장자리가 붕괴되고 확장되는 속도가 하루 평균 1미터에 달하는 것으로 나타났습니다. 현재 싱크홀 입구와 지역 사회 간의 거리는 약 400미터에 불과하여 지역 주민들의 우려가 커지고 있습니다. 국가 재난 관리국(BNPB) 국장인 수하르얀토 중장은 정부가 기반 시설 피해를 방지하기 위해 적극적인 조치를 취하고 있다고 밝혔습니다. 여기에는 위험 지역에서 고압 전선을 옮기고, 주민들이 정상적으로 이동할 수 있도록 대체 도로를 신속하게 건설하는 것이 포함됩니다. 공공사업부는 토양을 약화시키고 추가 붕괴를 유발하는 요인을 줄이기 위해 해당 지역으로의 폐수 방류를 일시적으로 중단하라고 명령했습니다.\n\n공공사업부 관계자인 물야디는 \"현재 기술팀이 싱크홀 확산을 막기 위한 해결책을 찾기 위해 정밀 기술 연구를 진행하고 있습니다.\"라고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국은 아니지만 인접 국가에서 발생한 재난으로, 여행 전에 알아두면 좋을 정보입니다. 싱크홀 발생 지역이 관광지와 멀리 떨어져 있고, 현재까지 태국 여행에 직접적인 영향을 미치지는 않지만, 주변 국가 여행 시 주의가 필요할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "인도네시아 아체 주 중앙 아체 군",
+        "price": null,
+        "location_google_map_query": "아체 주 중앙 아체 군"
+      },
+      "references": [
+        {
+          "title": "\"หลุมยุบยักษ์\" อาเจะห์ ลามไม่หยุด กินพื้นที่แล้ว 18 ไร่ จ่อประชิดชุมชนห่างเพียง 400 เมตร",
+          "url": "https://www.thairath.co.th/news/foreign/2914487",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGPu51HXYlBNMg.jpg"
+        }
+      ],
+      "collected_at": "12:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGPu51HXYlBNMg.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "We Watch, 선거관리위원회에 100% 공식 투표 결과 공개 압박 및 사퇴 권고",
+      "summary": "- We Watch 그룹이 선거관리위원회( กกต. -> 꼬꼬또.)에 2569년 선거의 공식 투표 결과 100% 공개를 요구하며 시위.\n- 이들은 선관위가 발생한 문제에 대해 책임을 지고 사퇴할 것을 권고.\n- 또한 선관위의 과도한 권한을 개혁하고 축소해야 한다고 주장.",
+      "full_translated": "We Watch 그룹이 선거관리위원회 앞에서 2569년 선거의 공식 투표 결과 100% 공개를 요구하며 집회를 가졌다. 그들은 발생한 문제에 대한 책임을 지고 사퇴할 것을 권고하며, 선관위의 권한이 과도하게 크다고 지적하며 개혁과 권한 축소를 요구했다. 2월 16일 오전 10시, We Watch를 대표하는 시민단체들이 정부청사 내 선거관리위원회 사무실에 모여 성명서를 제출했다. 성명서에는 2월 1일 사전투표와 2월 8일 총선에서 발생한 투명성, 부정행위, 공정성, 효율성, 전문성, 독립성, 책임감 등의 문제에 대한 책임 있는 해결을 촉구하는 내용이 담겨 있다. We Watch는 선관위에 2단계에 걸쳐 문제 해결을 요구했다. 첫 번째 단계는 사회적 의혹을 해소하기 위한 긴급 조치로, 1. 선관위는 ECT 보고서 시스템을 통해 공식 선거 결과를 100% 공개하고, 투표소별 결과 요약 문서를 공개해야 한다. 가능하다면 투표소별 득표 현황판과 모든 유형의 사전투표 용지 점수를 공개해야 한다. 2. 점수 감소 또는 데이터 불일치 문제, 시스템 보고 오류 또는 웹사이트 다운 문제, 바코드 및 QR 코드 투표용지 문제 등 발생한 문제에 대한 의혹을 체계적으로 설명하고, 모든 문제를 자세히 설명하며 증거를 제시하고 검증할 수 있도록 해야 한다. 3. 문제가 있거나 의심스러운 투표소에 한해 재검표를 실시하고, 시민, 참관인, 언론이 참여한 가운데 개표를 진행해야 한다. 4. 관련 부서에 시민 참여 공간을 열어...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 시위는 여행에 직접적인 위협은 아니지만, 정치적 불안정은 여행객에게 불편을 초래할 수 있으므로 중간 점수 부여. 현재 시위의 규모나 영향력이 구체적으로 명시되지 않아 낮은 우선순위로 분류.",
+      "event_info": {
+        "date": null,
+        "location": "สำนักงานคณะกรรมการการเลือกตั้ง ที่ศูนย์ราชการฯ แจ้งวัฒนะ อาคารบี",
+        "price": null,
+        "location_google_map_query": "สำนักงานคณะกรรมการการเลือกตั้ง ที่ศูนย์ราชการฯ แจ้งวัฒนะ อาคารบี"
+      },
+      "references": [
+        {
+          "title": "We Watch จี้ กกต. เปิดผลคะแนนทางการ 100% แนะลาออก รับผิดชอบปัญหาที่เกิดขึ้น",
+          "url": "https://www.thairath.co.th/news/politic/2914493",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGQUwxRokO7KpL.jpg"
+        }
+      ],
+      "collected_at": "12:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGQUwxRokO7KpL.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국, 불법 담배 단속 강화 촉구: 정부 세수 손실 심각",
+      "summary": "- 태국 내 불법 담배 유통이 심각하며, 정부는 연간 240억 바트의 세수 손실을 입고 있습니다.\n- 불법 담배는 주로 말레이시아 등 주변국에서 밀수되며, 온라인 플랫폼을 통해 유통되고 있습니다.\n- 정부는 스캠 범죄에 준하는 강력한 단속을 통해 불법 담배 유통을 근절해야 한다는 주장이 제기되었습니다.",
+      "full_translated": "태국담배공사 노동조합은 불법 담배 단속이 미흡하여 정부 세수 손실이 막대하다고 밝혔습니다. 2068년 4분기 조사 결과, 불법 담배 소비율은 전체 소비량의 25%에 달하며, 약 700개의 컨테이너 물량이 국내에 유입되는 것으로 추정됩니다. 이는 국가 경제에 심각한 타격을 주고 있습니다. 국제적인 불법 담배 조직은 빠르게 변화하고 있으며, 주로 중동 또는 아세안 국가에서 생산된 담배가 다른 아세안 국가를 거쳐 태국 남부 지역으로 밀수됩니다. 이러한 담배는 송클라, 나라티왓, 파타니 등지를 통해 유입되어 핫야이를 거점으로 전국으로 유통됩니다. 특히 페이스북 등 온라인 플랫폼을 통해 불법적으로 판매 및 광고가 이루어지고 있습니다. 불법 담배로 인한 피해는 정부 세수 감소, 산업 생태계 파괴, 법 집행의 불공정성 등 3가지 측면에서 발생합니다. 모든 담배에는 소비세, 내무세, 지방자치단체세 등 세금이 부과되지만, 불법 담배는 이러한 세금을 회피하여 정부 수입을 감소시킵니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "불법 담배 문제는 관광객에게 직접적인 영향을 미치지는 않지만, 태국 경제 상황과 간접적으로 연관될 수 있으며, 구매하려는 경우 불법 제품 구매에 연루될 수 있어 주의가 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "จี้ล้างบางทุนเทาบุหรี่เถื่อนทำรัฐสูญรายได้ แนะยกเป็นวาระเร่งด่วนเทียบเท่าสแกมเมอร์",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2914480",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGPuoVV5AiqfYe.jpg"
+        }
+      ],
+      "collected_at": "12:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGPuoVV5AiqfYe.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "태국 경쟁력 문제, 아이디어 부족 아닌 실행력 부재",
+      "summary": "- 태국 경제 성장 둔화 및 생산성 저하의 원인은 의사 결정 지연 및 실행력 부족 때문임.\n- 많은 계획과 발표에도 불구하고 현실은 크게 변하지 않고 있으며, 야망과 영향력 사이의 격차가 커지고 있음.\n- 인재, 자본, 기술 부족이 문제라는 일반적인 인식과 달리, 명확한 의사 결정과 실행의 어려움이 경쟁력 약화의 주요 원인임.",
+      "full_translated": "태국에서 첫 커피를 마시기도 전에 태국이 어떻게 더 빨리 성장하고, 더 혁신적이 되며, 글로벌 경제에서 더 잘 경쟁할 수 있을지에 대한 또 다른 계획, 로드맵 또는 발표에 대해 읽었을 것입니다. 하지만 현실은 완고하게 변하지 않은 것처럼 느껴집니다. 경제 성장은 여전히 약합니다. 생산성은 지역 경쟁국에 뒤쳐져 있습니다. 많은 조직이 항상 바쁘지만 결과는 천천히 움직입니다. 야망과 영향력 사이의 격차는 계속 커지고 있습니다.\n\n대부분의 리더에게 태국을 억제하는 요인이 무엇인지 물어보면 익숙한 답변을 들을 수 있습니다. 인재 부족. 자본 부족. 기술 부족. 하지만 진짜 문제는 더 간단하고 인정하기 어렵습니다. 우리는 명확한 결정을 내리고 실행하는 데 어려움을 겪습니다. 태국 조직은 활동에 매우 능숙합니다. 우리는 회의를 열고, 위원회를 구성하고, 이니셔티브를 시작하고, 연구를 의뢰합니다. 조율이 중요하게 여겨집니다. 조화가 보호됩니다. 아무도 배를 흔들고 싶어하지 않습니다. 그러나 활동은 종종 발전으로 오인됩니다. 결정은 모두가 편안하다고 느낄 때까지 지연됩니다. 책임은 너무 광범위하게 분산되어 누구도 진정으로 결과를 소유하지 않습니다. 결과가 실망스러우면 조정하는 대신 설명합니다. 더 느린 세상에서는 이 접근 방식이 효과가 있었을 수 있습니다. 오늘날의 환경에서는 심각한 경쟁력 약점입니다. 태국은 실제 경제적 압력에 직면해 있습니다. 성장은 잠재력 이하로 유지되고, 가계 부채는 높고, 수출은 부진합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국의 경제 상황에 대한 분석 기사로, 여행 자체에는 직접적인 영향이 적으나, 현지 물가나 경제 상황을 간접적으로 파악하는 데 도움이 될 수 있음. 경쟁력 약화에 대한 내용이므로 3점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s competitiveness problem is not about ideas. It’s about getting things done",
+          "url": "https://www.bangkokpost.com/business/general/3198385/thailands-competitiveness-problem-is-not-about-ideas-its-about-getting-things-done",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260216/c1_3198385_700.jpg"
+        }
+      ],
+      "collected_at": "12:48",
+      "image_url": "https://static.bangkokpost.com/media/content/20260216/c1_3198385_700.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "탁신, '프아타이당' 정부 참여 결정은 당 지도부에 달려",
+      "summary": "- 탁신 치나왓 전 총리는 프아타이당의 정부 참여 결정은 당 지도부의 몫이라고 강조.\n- 자신은 단순한 국민일 뿐이며, 재검표 요구는 증거와 사실에 따라 진행되어야 한다고 언급.\n- 변호인은 탁신 전 총리가 사건 진행 상황을 인지하고 있으며 법적 절차에 따라 진행될 것이라고 전함.",
+      "full_translated": "탁신 전 총리의 변호인은 프아타이당의 정부 참여 결정은 당 지도부의 결의에 달려 있으며, 자신은 단순한 국민일 뿐이라고 강조했습니다. 재검표 요구에 대해서는 증거와 사실에 따라 진행되어야 한다는 입장을 밝혔습니다. 2월 16일 오전 10시 45분, 탁신 전 총리의 변호사인 위냐트 차트몬트리는 가족을 대표하여 클롱프렘 중앙 교도소를 방문했습니다. 약 45분간의 면회 후, 위냐트는 오늘 탁신 전 총리와의 만남은 안부 인사와 관련된 것이었으며, 사건과 관련된 보고가 있었다고 밝혔습니다. 국내 상황에 대해서도 인지하고 있으며 법적 절차에 따라 진행될 것이라고 언급했습니다. 재검표 요구에 대해서는 개인적으로 논의했으며, 사실과 증거에 따라 진행되어야 한다는 입장을 밝혔습니다. 위냐트는 자신이 언급한 모든 내용은 자신과 탁신 전 총리가 국민으로서 나눈 대화일 뿐이며, 탁신 전 총리는 뉴스를 주시하고 있지만 특별한 의견은 없다고 덧붙였습니다. 정부 참여 여부는 당 지도부의 회의를 통해 결정될 것이며, 자신은 단순한 국민일 뿐이라고 거듭 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"ทักษิณ\" ย้ำแค่ประชาชนคนหนึ่ง \"เพื่อไทย\" ร่วมรัฐบาล อยู่ที่ผู้บริหารพรรค",
+          "url": "https://www.thairath.co.th/news/politic/2914494",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGQUOXfvuVh9Nf.jpg"
+        }
+      ],
+      "collected_at": "12:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGQUOXfvuVh9Nf.jpg",
       "date": "2026-02-16"
     }
   ]
