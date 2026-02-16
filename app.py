@@ -2998,7 +2998,27 @@ if query_params.get("mode") == "admin":
 
 if app_mode == "Admin Console":
     # Definitive fix: add class to Top-Level Body via JS (Iframe bypass)
-    st.markdown("<script>window.parent.document.body.classList.add('admin-mode-active')</script>", unsafe_allow_html=True)
+    st.html("""
+        <script>
+            function applyAdminLayout() {
+                try {
+                    // Target parent body for global overrides
+                    if (window.parent && window.parent.document.body) {
+                        window.parent.document.body.classList.add('admin-mode-active');
+                    }
+                    // Target current body for local overrides
+                    document.body.classList.add('admin-mode-active');
+                } catch (e) {
+                    console.error('Failed to apply admin layout:', e);
+                }
+            }
+            applyAdminLayout();
+            // Re-apply periodically to handle Streamlit re-renders
+            if (!window._adminLayoutInterval) {
+                window._adminLayoutInterval = setInterval(applyAdminLayout, 500);
+            }
+        </script>
+    """)
     st.markdown('<div class="admin-mode-active">', unsafe_allow_html=True)
     # Exit Button
     st.sidebar.markdown("---")
