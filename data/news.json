@@ -14965,14 +14965,9 @@
       "summary": "- 코팡안에서 이스라엘 국적의 마약상이 체포됨.\n- 용의자는 해당 지역에서 가장 큰 마약 거래상으로 알려짐.\n- 방콕 포스트 보도.",
       "full_translated": "코팡안에서 '최대' 이스라엘 마약상 체포 - 방콕 포스트",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 범죄 사건이므로 포함. 마약 관련 범죄는 특히 주의해야 할 사항. 코팡안은 관광객이 많이 찾는 지역이므로 안전 관련 정보를 제공하는 것이 중요.",
-      "event_info": {
-        "date": null,
-        "location": "코팡안",
-        "price": null,
-        "location_google_map_query": "코팡안"
-      },
+      "event_info": "{'date': None, 'location': '코팡안', 'price': None, 'location_google_map_query': '코팡안'}",
       "references": [
         {
           "title": "‘Biggest’ Israeli drug dealer on Koh Phangan arrested - Bangkok Post",
@@ -14981,23 +14976,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb0pmaUZOUHo5N0xRNUVJSHUzOWVNYlJNUzMwR1dNc2xocUVpVW1iV2VEb3FNS3RiTjdBNTB1Z0h6R1RoaTBOSHgyZ2hPRklpenNncHVYSVpYWXFBY244NkV2V2x2U0tfd3F0eDVVclVlNWxvWl93SFlSQ29BMThPWm9nVy14TU9HdnRibHdlZXFnYkpiekw4Xy0zWk9TSERSamF3?oc=5",
+      "source": ""
     },
     {
       "title": "이스라엘 국적자, 태국 대규모 마약 단속 후 사형 직면",
       "summary": "- 이스라엘 국적자가 태국에서 대규모 마약 단속으로 사형에 직면할 수 있습니다.\n- 자세한 내용은 아직 알려지지 않았습니다.\n- 여행객은 마약 관련 범죄에 연루되지 않도록 주의해야 합니다.",
       "full_translated": "이스라엘 국적자가 태국에서 대규모 마약 단속으로 사형에 직면할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "마약 관련 범죄는 여행객에게 직접적인 영향을 줄 수 있으며, 특히 사형과 관련된 문제는 심각하므로 알릴 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Israeli National Faces Potential Death Penalty in Thailand After Massive Drug Bust - JFeed",
@@ -15006,23 +14998,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MbzdSRXpWXzBZQnR2a2NqMGhRdmM4UkFpUHhXMEhfb2VEaGdYNjIxWWM4UGI3RU80TFR3V19PN1otel9MVG5FN0YxV1p6Wmx0SF9rbmdMU1JkejZRRXY0RFBIbTNocHllamhkbVFiUTVPNXF5X01LS3d3Zw?oc=5",
+      "source": ""
     },
     {
       "title": "관광 협회, 경찰 부패 감소 요구 - 방콕 포스트",
       "summary": "- 태국 관광 협회들이 경찰 부패 문제 해결을 촉구.\n- 관광객 대상의 부당한 금전 요구 및 괴롭힘 근절 필요성 강조.\n- 관광 산업 이미지 개선 및 관광객 안전 확보 목표.",
       "full_translated": "관광 협회, 경찰 부패 감소 요구 - 방콕 포스트",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "경찰 부패 문제는 관광객의 안전과 직결될 수 있으며, 태국 여행 경험에 부정적인 영향을 미칠 수 있으므로 중간 수준의 점수를 부여함. 하지만 새로운 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourism associations ask for less police corruption - Bangkok Post",
@@ -15031,8 +15020,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-16",
+      "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOcmlEbFVzMzc3WXpqSlYxeHIyb1hhZ1NuRF9leVJWNHY1R2NNVndNQjlMRm16QmtfUGh2NFFoaGhIbzU1YkJjLXZ2Rjc2TjluYzB2dmNoZU44ei1mWU9IWnljN3VNaHRnMG94dFdaZldVdnZZSVdfTHZoeG9NV2ROVVFhSnRobktkbHVTNGpWcDFiamJ0blV6MXJqLWFuME9JVHlnd2lqYkp5SUw5ZlUtaVJvQ1FFR3hiQ2lINWFxdDdEMWtzVW1saDBYSThGVzdIMnJuVnp2WDhNcVFBRlE2eko0NWxTSU1IMEpzbjBPTUhXa2dNOVROT25ja1JFYlBaZUtiT2xKbUYyb0g4NFIwdEVaelFHZWpHV0NaTjVYYUxtRFhwNHBJODV1cjRXVGhWeExKRlFleGxYNzhiQm5fWTljOGY1ZWdETjg5T0F5d01VaTc0QlhWLWhmeHpfN2h0LV90Q0pBRXRMbVlCNkE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "캄보디아 국경 인근 화재 발생, 태국 여행객 안전 주의",
+      "summary": "- 캄보디아 '프라삿 크나' 사원 근처에서 화재 발생, 작은 총알 터지는 듯한 소리 들림.\n- 화재로 인해 국경 지역에 남겨진 무기가 폭발했을 가능성이 있음.\n- 태국 군부, 상황을 면밀히 주시하며 추가 정보 확인 중.",
+      "full_translated": "태국 제2군에 따르면 캄보디아 '프라삿 크나' 사원 근처에서 화재가 발생했으며, 작은 총알이 터지는 듯한 소리가 들렸습니다. 군은 화재로 인해 국경 지역에 남겨진 무기가 폭발했을 가능성을 염두에 두고 상황을 면밀히 주시하고 있습니다. 2월 16일, 제2군 페이스북 페이지에는 21시경 프라삿 크나 인근에서 발생한 화재 상황에 대한 보고서가 게시되었습니다. 보고서에는 \"캄보디아 쪽 프라삿 크나 동쪽에서 화재가 발생했으며, 작은 총알이 터지는 듯한 소리가 간헐적으로 들립니다. 화재로 인해 국경 지역에 남겨진 무기가 폭발했을 가능성이 있습니다. 모든 부서는 공식 페이지에서 정보를 확인하시기 바랍니다. 상황을 면밀히 주시하고 있습니다.\" 라는 내용이 담겨 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "국경 지역 화재 및 폭발 가능성으로 안전에 잠재적 위협. 여행객 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "프라삿 크나 사원 인근 (캄보디아 국경)",
+        "price": null,
+        "location_google_map_query": "Prasat Khna"
+      },
+      "references": [
+        {
+          "title": "เกิดเหตุไฟป่าใกล้ \"ปราสาทคนา\" ฝั่งกัมพูชามีเสียงปะทุ คล้ายกระสุนปืนเล็กเป็นระยะ",
+          "url": "https://www.thairath.co.th/news/local/northeast/2914454",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGRxMGOxXqC1iw.jpg"
+        }
+      ],
+      "collected_at": "11:01",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGRxMGOxXqC1iw.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "방콕 짜오른끄룽 지역, 발코니 빵집 인기 폭발",
+      "summary": "- '게으른' 제빵사가 발코니 아이디어로 입소문\n- Yupadee Simim, 옥상에서 빵을 내려 판매\n- 안전 문제 지적에도 팬들의 지지로 영업 지속",
+      "full_translated": "방콕 짜오른끄룽 지역에서 스스로를 \"게으르다\"고 칭하는 제빵사가 기발한 발코니 아이디어를 통해 온라인에서 큰 인기를 얻고 있습니다. Yupadee Simim은 Taidana.pan의 소유주로, 갓 구운 버터 빵을 옥상에서 미소를 짓는 고객들에게 내려줍니다. 이로 인해 많은 사람들이 몰려들고 안전에 대한 비판도 있지만, 그녀의 독특한 가게를 계속 열 수 있을 만큼 충분한 팬들의 지지를 받고 있습니다. 방콕 포스트의 전체 내용을 즐기려면 광고 차단기를 비활성화하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 핫플레이스로 여행객들의 흥미를 끌 수 있으며, 독특한 가게 경험을 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 짜오른끄룽",
+        "price": null,
+        "location_google_map_query": "Taidana.pan, Charoenkrung, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Balcony bakery brings down the house",
+          "url": "https://www.bangkokpost.com/video/thailand/3198375/balcony-bakery-brings-down-the-house-in-charoen-krung-bangkok-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260216/c1_3198375_700.jpg"
+        }
+      ],
+      "collected_at": "11:01",
+      "image_url": "https://static.bangkokpost.com/media/content/20260216/c1_3198375_700.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "탄 파스콘라티, 콘서트 무대에서 떨어진 후 최신 상태 업데이트. 걱정해주신 모든 분들께 감사드립니다.",
+      "summary": "- 탄 이치탄, 콘서트 무대에서 2미터 높이에서 떨어진 후 최신 상태 업데이트\n- 모든 사람의 걱정에 감사하며 현재는 괜찮고 약간의 허리 통증만 있다고 밝혔습니다.\n- 그는 병원에서 퇴원하여 곧 일을 할 수 있다고 말했습니다. 또한 모든 사람에게 놀라게 해서 죄송하다고 사과하며, 중국 설날에 모든 사람이 부자가 되기를 기원했습니다.",
+      "full_translated": "탄 이치탄 또는 탄 파스콘라티는 콘서트 무대에서 2미터 높이에서 떨어진 후 최신 상태를 업데이트했습니다. 그는 모든 사람의 걱정에 감사하며 현재는 괜찮고 약간의 허리 통증만 있다고 밝혔습니다. 앞서 구조대원들이 '탄 파스콘라티' 또는 '탄 이치탄'을 급히 병원으로 이송한 바 있습니다. 그는 지난 2월 15일, 촌부리 주 사타힙 구 카오 치찬의 원더 원 뮤직 페스티벌(@วันชีจรรย์ เขาชีจรรย์ พัทยา) 콘서트 마지막 날, 거의 2미터 높이의 무대에서 떨어져 목과 등 부위에 통증을 느꼈습니다. 최근 2월 16일, 탄 파스콘라티 페이스북 페이지에 최신 상태를 업데이트하는 비디오 클립이 게시되었습니다. 그는 모든 사람의 걱정에 감사하며 현재는 괜찮고 약간의 허리 통증만 있다고 말했습니다. 곧 병원에서 퇴원하여 일을 할 수 있을 것입니다. 모든 사람에게 놀라게 해서 죄송하며, 중국 설날에 모든 사람이 부자가 되기를 기원했습니다. 해당 클립이 공개된 후, 많은 사람들이 댓글을 통해 탄에게 응원을 보냈고 빠른 쾌유와 건강 회복을 기원했습니다. ... 페이스북 탄 파스콘라티에서 제공한 정보 ... ...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "유명인의 사고 소식이지만, 콘서트장 안전에 대한 간접적인 영향이 있을 수 있고, 현재 상태가 괜찮다는 업데이트이므로 포함.",
+      "event_info": {
+        "date": "2024-02-15",
+        "location": "원더 원 뮤직 페스티벌 @วันชีจรรย์ เขาชีจรรย์ พัทยา, 촌부리 주 사타힙 구",
+        "price": null,
+        "location_google_map_query": "วันชีจรรย์ เขาชีจรรย์ พัทยา"
+      },
+      "references": [
+        {
+          "title": "\"ตัน ภาสกรนที\" อัปเดตอาการล่าสุด หลังตกเวทีงานคอนเสิร์ต ขอบคุณทุกคนที่เป็นห่วง",
+          "url": "https://www.thairath.co.th/news/society/2914465",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGSEgp6ekRSUKV.jpg"
+        }
+      ],
+      "collected_at": "11:01",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGSEgp6ekRSUKV.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "야마하, XMAX & NMAX 25주년 기념 스페셜 에디션 스쿠터 공개",
+      "summary": "- 야마하 모터, XMAX 및 NMAX 스페셜 25주년 기념 모델 출시.\n- MAX 시리즈 25주년 기념 'THE ULTIMATE PRIDE OF MAX' 컨셉.\n- 특별 디자인, 그래픽, 엠블럼, 색상 및 OHLINS/PROFENDER 쇼크 업소버 적용.",
+      "full_translated": "THAI YAMAHA MOTOR는 NEW YAMAHA XMAX 및 NEW YAMAHA NMAX 스페셜 25주년 기념 MAX 시리즈 스포츠 오토매틱 모터사이클을 출시하며 'THE ULTIMATE PRIDE OF MAX' 컨셉으로 MAX SERIES 모터사이클 25주년을 기념합니다. 이 오토매틱 모델은 2001년 TMAX를 통해 스포츠 프리미엄의 선구자로서 첫 발을 내딛었으며, 2008년 XMAX와 2015년 NMAX로 성공을 이어가며 세계적으로 지속적인 인기를 얻고 있는 프리미엄 스포츠 오토매틱 모델 중 하나가 되었습니다. NEW YAMAHA XMAX 및 NEW YAMAHA NMAX 스페셜 25주년 기념 MAX 시리즈는 2001년부터 현재까지 MAX SERIES의 성공적인 역사를 담은 특별한 디자인과 새로운 그래픽으로 스포츠 DNA를 전달합니다. 또한 전면 양쪽에 25주년 기념 MAX 시리즈 엠블럼이 부착되어 있으며, 25주년 기념 모델 전용 특별 색상이 적용되었습니다. 25주년 기념 MAX 시리즈 로고가 새겨진 블랙/레드 색상의 특별 디자인 시트, 레드 스티치가 특징입니다. YAMAHA XMAX 25주년 기념 MAX 시리즈에는 하이엔드 스타일의 블랙 OHLINS 리어 쇼크 업소버 Limited Edition이 장착되어 있습니다. Rebound, Preload 및 Compression을 완벽하게 조절할 수 있어 MAX SERIES의 짜릿하고 자신감 넘치는 라이딩 성능을 제공하며 모든 라이딩 스타일에 부합합니다. YAMAHA NMAX 25주년 기념 MAX 시리즈는 PROFENDER 리어 쇼크 업소버 Limited Edition으로 제어 성능을 향상시켰습니다. Rebound, Preload 및 Compression을 완벽하게 조절할 수 있으며 가벼운 무게로 모든 도로에서 자신감 있는 라이딩과 제어가 가능합니다. NEW YAMAHA XMAX 오너를 위해...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "새로운 스쿠터 모델 정보는 여행객에게 교통 수단 선택지를 제공하므로 정보 가치가 있다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สกู๊ตเตอร์เกียร์ออโต้รุ่นใหม่ YAMAHA XMAX & NMAX รุ่นพิเศษ 25th Anniversary MAX Series",
+          "url": "https://www.thairath.co.th/news/auto/news/2914422",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNg9cEq9WUijS5gjOn.jpg"
+        }
+      ],
+      "collected_at": "11:01",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNg9cEq9WUijS5gjOn.jpg",
+      "date": "2026-02-16"
+    },
+    {
+      "title": "전기차 12V 배터리의 역할: 알아두면 유용한 정보",
+      "summary": "- 전기차에도 일반 차량처럼 12V 배터리가 탑재되어 있습니다.\n- 12V 배터리는 차량의 전장 시스템, 잠금 장치, 경보 장치 등에 전력을 공급합니다.\n- 고전압 메인 배터리의 전력 변동을 줄여 시스템의 안정성을 유지하는 역할도 수행합니다.",
+      "full_translated": "전기차에도 일반 차량처럼 12V 배터리가 있다는 사실, 알고 계셨나요? 많은 사람들이 전기차에는 대용량 배터리만 있다고 생각하지만, 12V 배터리는 중요한 역할을 수행합니다. 이 배터리는 차량이 작동하지 않을 때 잠금 장치, 경보 장치, 안전 시스템과 같은 전장 시스템에 전력을 공급합니다. 또한 차량 내 컴퓨터 및 모니터링 시스템에도 전원을 공급하며, 고전압 메인 배터리를 시동하는 데에도 사용됩니다. 12V 배터리는 고전압 배터리의 전력 변동을 완충하여 차량 전기 시스템에 안정적인 전력 공급을 보장하는 역할도 합니다. 고전압 배터리를 직접 사용하는 대신 12V 배터리를 사용하는 이유는, 고전압 배터리가 차량 구동에 최적화되어 있고, 전장 시스템에 지속적으로 전력을 공급하는 데에는 부담이 될 수 있기 때문입니다. 또한 고전압 배터리는 크고 무거워 차량 무게를 증가시킬 수 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "전기차 이용 여행객에게 유용한 정보이며, 차량 시스템에 대한 이해를 돕습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "แบตเตอรี่ 12 โวลต์ในรถยนต์ไฟฟ้า ทำหน้าที่อะไร",
+          "url": "https://www.thairath.co.th/news/auto/tips/2914417",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9MZCBHIno81.jpg"
+        }
+      ],
+      "collected_at": "11:01",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIGS9MZCBHIno81.jpg",
       "date": "2026-02-16"
     }
   ]
