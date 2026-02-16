@@ -4052,41 +4052,43 @@ if app_mode == "Admin Console":
                 import pandas as pd
                 import time
 
-                # Master-Detail Layout
-                col_list, col_form = st.columns([3, 1])
+                # Master-Detail Layout with Unique Variable Names
+                t_col_list, t_col_form = st.columns([3.2, 1])
                 
-                with col_list:
+                with t_col_list:
                     st.markdown("#### 📋 등록된 투어 목록")
-                    if TOURS:
-                        df_tours = pd.DataFrame(TOURS)
-                        # Ensure 'type' is a string for display if it's a list
-                        df_display = df_tours.copy()
-                        if 'type' in df_display.columns:
-                            df_display['type'] = df_display['type'].apply(lambda x: ", ".join(x) if isinstance(x, list) else x)
-                        
-                        event = st.dataframe(
-                            df_display[['id', 'region', 'name', 'price', 'type']], 
-                            use_container_width=True,
-                            on_select="rerun",
-                            selection_mode="single-row",
-                            key="admin_tour_df",
-                            height=600
-                        )
-                        
-                        selected_rows = event.get("selection", {}).get("rows", [])
-                        target_tour = None
-                        if selected_rows:
-                            row_idx = selected_rows[0]
-                            selected_id = df_display.iloc[row_idx]['id']
-                            target_tour = next((t for t in TOURS if t['id'] == selected_id), None)
-                            st.info(f"선택됨: **{target_tour['name']}** (ID: {target_tour['id']})")
+                    with st.container(border=True):
+                        if TOURS:
+                            df_tours = pd.DataFrame(TOURS)
+                            # Ensure 'type' is a string for display if it's a list
+                            df_display = df_tours.copy()
+                            if 'type' in df_display.columns:
+                                df_display['type'] = df_display['type'].apply(lambda x: ", ".join(x) if isinstance(x, list) else x)
+                            
+                            # Using 'single-row' (standard Streamlit)
+                            event = st.dataframe(
+                                df_display[['id', 'region', 'name', 'price', 'type']], 
+                                use_container_width=True,
+                                on_select="rerun",
+                                selection_mode="single-row",
+                                key="admin_tour_df_v2",
+                                height=600
+                            )
+                            
+                            selected_rows = event.get("selection", {}).get("rows", [])
+                            target_tour = None
+                            if selected_rows:
+                                row_idx = selected_rows[0]
+                                selected_id = df_display.iloc[row_idx]['id']
+                                target_tour = next((t for t in TOURS if t['id'] == selected_id), None)
+                                st.success(f"선택됨: **{target_tour['name']}**")
+                            else:
+                                st.info("💡 리스트에서 투어를 선택하면 수정할 수 있습니다.")
                         else:
-                            st.info("💡 리스트에서 투어를 선택하면 수정할 수 있습니다.")
-                    else:
-                        st.info("등록된 투어가 없습니다.")
-                        target_tour = None
+                            st.info("등록된 투어가 없습니다.")
+                            target_tour = None
 
-                with col_form:
+                with t_col_form:
                     if target_tour:
                         st.markdown("#### ✏️ 투어 수정")
                         with st.form("edit_tour_form"):
