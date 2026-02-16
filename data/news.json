@@ -16350,14 +16350,9 @@
       "summary": "- 핫야이의 Phatong Prathan Khiriwat 학교에서 17세 남학생이 총기 난사 사건을 일으켜 교장이 사망함.\n- 교장은 다른 교사와 학생들을 보호하기 위해 용감하게 공격자에 맞섰음.\n- 용의자는 체포되었으며, 사건 경위 조사 중.",
       "full_translated": "17세 남학생이 총기를 들고 캠퍼스에 난입하여 다른 교사와 학생들을 보호하기 위해 용감하게 공격자에 맞선 학교 교장을 총으로 쏘아 사망하게 한 비극적인 사건이 Phatong Prathan Khiriwat 학교에서 발생했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 사건 발생은 여행객 안전에 대한 우려를 야기할 수 있음. 특히 핫야이는 관광객 방문이 많은 지역임.",
-      "event_info": {
-        "date": "2026-02-15",
-        "location": "핫야이",
-        "price": null,
-        "location_google_map_query": "Hat Yai, Songkhla, Thailand"
-      },
+      "event_info": "{'date': '2026-02-15', 'location': '핫야이', 'price': None, 'location_google_map_query': 'Hat Yai, Songkhla, Thailand'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week, Bhumjaithai Party Claims Victory in General Election, and More",
@@ -16368,21 +16363,18 @@
       ],
       "collected_at": "23:33",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/628029445_1444620207046415_4013793029109781132_n.jpg?v=1771211607",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://thepattayanews.com/2026/02/16/top-national-thailand-stories-from-the-past-week-bhumjaithai-party-claims-victory-in-general-election-and-more/",
+      "source": ""
     },
     {
       "title": "은행 관리자에게 휘발유를 뿌리고 5백만 바트를 요구한 남성 체포",
       "summary": "- 방콕 인근 쇼핑몰에서 은행 관리자에게 휘발유를 뿌리고 돈을 요구한 남성이 체포됨.\n- 용의자는 실직 상태로, 돈을 훔치기 위해 다른 지역에서 이동한 것으로 밝혀짐.\n- 경찰은 용의자를 구금하고 강도 혐의로 기소할 예정.",
       "full_translated": "사뭇프라칸: 한 남성이 쇼핑센터에서 여성 은행 관리자에게 휘발유를 뿌리고 5백만 바트를 요구했습니다. 그러나 목격자들이 그를 제압했습니다.\n\n방플리 경찰서장인 파이로트 펫플로이 경찰 대령은 촌부리 반부엥 지역 출신의 수티돌 팡스리산(48세)이 휘발유 병을 들고 오후 3시 40분경 므앙 지역 방플리 야이 탐본 쇼핑몰 내부 은행의 관리자에게 휘발유를 뿌렸다고 말했습니다. 그 남자는 관리자의 재킷을 잡고 은행 직원에게 현금 5백만 바트를 요구했습니다. 여성 은행 관리자는 나중에 스스로를 풀어 현장에서 도망쳤고, 목격자들은 강도가 도망치려고 하는 동안 그를 제압했습니다. 강도는 결국 얼굴이 붓고 멍이 들고 코피를 흘렸습니다. 강도는 경찰에 실직 상태이며 은행을 털기 위해 촌부리에서 사뭇프라칸 쇼핑몰까지 차를 몰고 왔다고 말했습니다. 파이로트 경찰 대령은 공격자를 구금 및 강도 혐의로 기소할 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객들이 많이 방문하는 쇼핑몰에서 발생한 강도 사건이므로 안전에 대한 인식을 높일 필요가 있음. 범행 수법이 과격하므로 주의 요망.",
-      "event_info": {
-        "date": "2026-02-16",
-        "location": "방플리 야이 탐본 쇼핑몰 (사뭇프라칸)",
-        "price": null,
-        "location_google_map_query": "Bang Phli Yai Shopping Mall, Samut Prakan"
-      },
+      "event_info": "{'date': '2026-02-16', 'location': '방플리 야이 탐본 쇼핑몰 (사뭇프라칸)', 'price': None, 'location_google_map_query': 'Bang Phli Yai Shopping Mall, Samut Prakan'}",
       "references": [
         {
           "title": "Man splashed petrol on bank manager and demanded B5m at mall",
@@ -16393,21 +16385,18 @@
       ],
       "collected_at": "23:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260216/c1_3198588_700.jpg",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://www.bangkokpost.com/thailand/general/3198588/man-splashed-petrol-on-bank-manager-and-demanded-b5m-at-mall",
+      "source": ""
     },
     {
       "title": "푸껫-베통행 버스 전복 사고, 30여 명 부상",
       "summary": "- 푸껫에서 베통으로 향하던 2층 버스가 트랑 후아이욧 지역에서 전복되어 30명 이상이 부상당함.\n- 부상자 중 10명은 중상이며, 운전자는 다리를 잃음.\n- 사고 원인은 아직 조사 중.",
       "full_translated": "푸껫에서 베통으로 향하던 2층 버스가 토요일 밤 트랑의 후아이욧 지역에서 전복되어 30명 이상의 승객이 부상당했으며 그중 10명은 중상을 입었습니다. 운전자는 다리를 잃었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 교통사고 발생. 특히 푸껫-베통 노선은 관광객 이용률이 높을 수 있음.",
-      "event_info": {
-        "date": "2026-02-15",
-        "location": "트랑, 후아이욧",
-        "price": null,
-        "location_google_map_query": "Huai Yot, Trang, Thailand"
-      },
+      "event_info": "{'date': '2026-02-15', 'location': '트랑, 후아이욧', 'price': None, 'location_google_map_query': 'Huai Yot, Trang, Thailand'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week, Bhumjaithai Party Claims Victory in General Election, and More",
@@ -16418,21 +16407,18 @@
       ],
       "collected_at": "23:33",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/628029445_1444620207046415_4013793029109781132_n.jpg?v=1771211607",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://thepattayanews.com/2026/02/16/top-national-thailand-stories-from-the-past-week-bhumjaithai-party-claims-victory-in-general-election-and-more/",
+      "source": ""
     },
     {
       "title": "코팡안에서 5천만 바트 상당의 불법 마약 유통한 이스라엘인 체포",
       "summary": "- 태국 당국이 코팡안에서 대규모 마약 밀매 조직을 적발하고, 이스라엘 국적의 레스토랑 주인을 체포함.\n- 체포된 이스라엘인은 외국인 관광객에게 마약을 공급하는 마피아 스타일의 네트워크를 운영한 혐의를 받음.\n- 코팡안 방문 여행객은 마약 관련 범죄에 연루되지 않도록 주의해야 함.",
       "full_translated": "태국 당국은 코팡안에서 주요 마약 밀매 작전을 해체했다고 발표하며, 외국인 관광객에게 마약을 공급하는 마피아 스타일의 네트워크를 운영한 혐의를 받는 42세 이스라엘 국적의 레스토랑 주인을 체포했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "코팡안은 인기있는 관광지이므로, 마약 관련 소식은 여행객 안전 및 주의 환기 차원에서 중요함.",
-      "event_info": {
-        "date": null,
-        "location": "코팡안",
-        "price": null,
-        "location_google_map_query": "Ko Phangan, Surat Thani, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '코팡안', 'price': None, 'location_google_map_query': 'Ko Phangan, Surat Thani, Thailand'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week, Bhumjaithai Party Claims Victory in General Election, and More",
@@ -16443,21 +16429,18 @@
       ],
       "collected_at": "23:33",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/628029445_1444620207046415_4013793029109781132_n.jpg?v=1771211607",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://thepattayanews.com/2026/02/16/top-national-thailand-stories-from-the-past-week-bhumjaithai-party-claims-victory-in-general-election-and-more/",
+      "source": ""
     },
     {
       "title": "파타야, 주민 참여 통해 2026년 지역 개발 계획 발전 추진",
       "summary": "- 파타야 시는 주민들의 적극적인 참여를 유도하여 지역 사회 발전을 위한 계획을 수립하고 있습니다.\n- 주민들은 브레인스토밍을 통해 주요 요구 사항을 식별하고 문제점을 보고하며, 해결책을 제안합니다.\n- 제안된 지역 사회 계획은 파타야 시의 지역 개발 프레임워크에 통합되어 경제, 사회, 환경, 삶의 질 측면에서 발전을 추진합니다.",
       "full_translated": "파타야 시는 사회 복지국 산하 지역 사회 개발과의 주관으로 주민들이 지역 사회의 미래를 형성하는 데 적극적으로 참여할 수 있도록 지원하는 이니셔티브를 조직했습니다. 브레인스토밍 세션을 통해 지역 주민들은 시급한 요구 사항을 식별하고 문제점을 보고하며 다양한 정부 기관에 걸쳐 해결책을 제안하기 위해 시 공무원들과 협력합니다. 결과적으로 도출된 지역 사회 계획은 파타야 시의 지역 개발 프레임워크에 통합되어 경제, 사회, 환경 및 삶의 질 측면에서 발전을 추진합니다. 이번 세션에는 톤 크라복, 반 후아 퉁, 소이 우체국, 농 타박 등 4개 지역 사회 대표들이 함께했습니다. 지역 사회 지도자들과 많은 주민들이 참여하여 우려 사항을 밝혔습니다. 주요 긴급 우선순위는 다음과 같이 4개 지역 사회 전체에서 일관되게 나타났습니다. – 도로 표면 복원 및 복구(도로 재포장 및 복구). – 향상된 보안을 위해 사각지대에 추가 CCTV 카메라 설치. – 머리 위 통신 케이블 정리 및 정돈. – 지역 사회에 대형 쓰레기통 제공 및 쓰레기통 밖에 쓰레기를 버리는 것을 금지하는 표지판 부착. – 비상 심장 사건에 대비하기 위해 전략적 위치에 자동 제세동기(AED)를 배치하고 사용법에 대한 기본 교육을 실시합니다. 이러한 포럼에서 주민들의 피드백과 제안은 실행 가능한 프로젝트를 형성하는 데 분석되어 파타야 시의 향후 지역 계획에 통합될 것이므로 대중의 참여가 매우 중요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 지역 사회 개발 계획에 대한 소식으로, 여행객의 생활 환경과 관련하여 소소한 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya City Advances 2026 Community Development Plan Through Resident Participation",
@@ -16468,7 +16451,136 @@
       ],
       "collected_at": "23:33",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17712590388704766386516271827289.jpg?v=1771259079",
-      "date": "2026-02-16"
+      "date": "2026-02-16",
+      "link": "https://thepattayanews.com/2026/02/16/pattaya-city-advances-2026-community-development-plan-through-resident-participation/",
+      "source": ""
+    }
+  ],
+  "2026-02-17": [
+    {
+      "title": "태국, 국내 물가 상승에도 불구하고 한국 및 말레이시아 관광객에게 저렴한 여행지로 명성 유지",
+      "summary": "- 태국은 여전히 한국 및 말레이시아 관광객에게 저렴한 여행지로 인식됨.\n- 국내 물가 상승에도 불구하고 관광 비용이 증가했다는 주장을 반박함.\n- 태국 관광 산업은 경쟁력 있는 가격을 유지하기 위해 노력하고 있음.",
+      "full_translated": "태국은 국내 물가 상승에도 불구하고 한국 및 말레이시아 관광객에게 저렴한 여행지로 명성을 유지하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행 비용에 대한 인식을 제공하여 여행 계획에 영향을 줄 수 있음. 물가 상승에 대한 우려를 해소.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Maintains Its Reputation as an Affordable Destination for South Korean and Malaysian Tourists in Tourism, Rejecting Claims of Rising Costs Due to Domestic Inflation - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUWRLaFA2WHJFc2pKMC1zWUVWWEh2b1ZybHE4NzJFN0hDZHNqS044Tmd5a0NKUWpPMzRCaDc0RHRHZm9JeVdpaFlzMmltekZncHRmXy1YaGlJRHBiVGQ3cEJJS3hlTm5vMU93M09qWUVWU1QxUEF2VzFxQzFMdmJKdUpkbGQtbExLU0xNVUd3bll4eFNVWG1pb25DMGw5U0dKcjFIb3Y2ZmU5Rk9PVkFDamZDaUJjLXg5TVlqc0pPcXdyM2h2aWhtME8wcWJERlBseDFWVWpWN1NCcGJtbmlBbjEtR2NvSW9BTmJsM0plT2RGeGxYcTZWQmRaUWRVMkc3V3Y0WWE4ZjRLTm9lVVg4aWd2VmVNRVc0WkJsNURKMzQzLWQzbTVjaGdvTkk3bndDYnVNcUtTWWNtcFZvWXc4RFB6RQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:32",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "파타야에서 친절한 선장에 의해 바다에서 구조된 그물무늬 비단뱀",
+      "summary": "- 파타야 인근 해상에서 그물무늬 비단뱀이 발견되어 구조됨.\n- 한 어부가 바다에서 낚시 부표에 매달려 있는 거대한 뱀을 발견하고 구조 요청.\n- 구조대는 뱀을 안전하게 포획하여 육지로 옮겼으며, 뱀의 길이는 약 3~4미터에 달함.",
+      "full_translated": "파타야 뉴스에 따르면, 한 친절한 선장이 파타야 해상에서 그물무늬 비단뱀을 구조했습니다. 이 사건은 구조 장면을 담은 영상이 소셜 미디어에 퍼지면서 주목을 받았습니다. 기자들은 현장을 방문하여 구조 작전에 참여한 타나콘 만유엔(29) 씨와 이야기를 나누었습니다. 그는 다른 선장이 라em차방 방파제 근처에서 작살 낚시를 하던 중 바다 한가운데 있는 조명이 켜진 낚시 부표에 거대한 비단뱀이 매달려 있는 것을 발견했다고 설명했습니다. 선장은 뱀이 해안에서 멀리 떨어진 곳에 있고 쇠약해지거나 굶어 죽을 위험이 있다고 판단하여 즉시 타나콘 씨와 그의 그룹에 도움을 요청했습니다. 타나콘 씨는 \"이 뱀들은 가끔 발견되지만 많은 사람들이 두려워 접근하지 않습니다.\"라고 말했습니다. \"다른 선장들은 뱀이 며칠 동안 먹지 못했을 것이라고 생각하고 불쌍히 여겼습니다. 아침에 전화가 오자마자 우리는 배 축복식을 마치고 즉시 달려갔습니다.\" 구조대는 현장에 도착하여 큰 비단뱀이 부표에 웅크리고 있는 것을 발견했습니다. 뱀은 배가 가까워지자 방어적인 행동을 보이며 쉿 소리를 냈습니다. 뱀은 결국 물속으로 미끄러져 들어갔고, 구조대는 조심스럽게 뱀을 몰아 밧줄이 달린 나무 막대기를 사용하여 해를 끼치지 않고 몸을 고정했습니다. 비단뱀은 사람 허벅지 굵기와 비슷하고 길이가 약 3~4미터에 달하는 매우 큰 것으로 묘사되었습니다. 뱀을 배에 안전하게 데려온 후 구조대는",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야 해상에서 발생한 비단뱀 구조 소식으로, 관광객 안전에 직접적인 위협은 아니지만 파타야 지역의 특이한 사건이므로 흥미로운 정보로 간주. 다만, 뱀 출몰 지역에 대한 정보가 없어 안전 관련 정보로 보기 어려움.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해상",
+        "price": null,
+        "location_google_map_query": "Pattaya Sea"
+      },
+      "references": [
+        {
+          "title": "Reticulated Python Rescued From Sea in Pattaya by Kind Boat Captain",
+          "url": "https://thepattayanews.com/2026/02/16/reticulated-python-rescued-from-sea-in-pattaya-by-kind-boat-captain/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17712516984988207663070706549589.jpg?v=1771251743"
+        }
+      ],
+      "collected_at": "00:32",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17712516984988207663070706549589.jpg?v=1771251743",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "아랍 국가들, 이스라엘의 웨스트뱅크 토지 등록 승인에 분노",
+      "summary": "- 이스라엘이 웨스트뱅크 지역의 토지 등록 절차를 승인하여 국제적인 비난을 받고 있습니다.\n- 아랍 국가들은 이를 팔레스타인 영토를 점령하려는 시도로 규탄하고 있습니다.\n- 이스라엘 외무부는 이번 조치가 법적 분쟁 해결에 도움이 될 것이라고 밝혔습니다.",
+      "full_translated": "이스라엘이 웨스트뱅크 지역의 토지 등록 절차를 '국유 재산'으로 승인한 것에 대해 아랍 국가들을 중심으로 국제적인 비난이 쏟아지고 있습니다. 이들은 이번 조치가 팔레스타인 영토를 합병하려는 시도를 가속화할 것이라고 우려하고 있습니다.\n\n이스라엘 외무부는 2월 15일 늦은 밤 승인된 이번 조치가 '법적 분쟁 해결을 위한 투명하고 철저한 권리 명확화'에 도움이 될 것이며, 팔레스타인 자치 정부(PA)의 통제 하에 있는 지역에서 부당한 토지 등록이 발생한 후 필요한 조치라고 밝혔습니다. \n\n그러나 이집트, 카타르, 요르단은 이스라엘의 이러한 움직임이 국제법에 위반된다고 비판했습니다. 특히 이집트는 이번 조치가 갈등을 고조시키는 위험한 행위이며, 이스라엘이 점령한 팔레스타인 영토(웨스트뱅크)에 대한 통제를 강화하려는 목적을 가지고 있다고 지적했습니다. 카타르 외무부 역시 웨스트뱅크의 토지를 '국유 재산'으로 전환하는 것은 팔레스타인 국민의 권리를 박탈하는 행위라고 비난했습니다.\n\n람알라에 위치한 팔레스타인 자치 정부는 국제 사회에 개입을 촉구하며, 사실상의 영토 합병 절차가 시작되는 것을 막고 팔레스타인 국가의 기반을 훼손하는 것을 막아달라고 요청했습니다. 이번 토지 등록은 웨스트뱅크 전체 면적의 약 60%를 차지하며 이스라엘의 완전한 통제하에 있는 C구역에서만 진행될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 국내 뉴스는 아니지만, 국제 정세 변화에 따른 잠재적 영향 가능성 존재. 여행 자체에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ชาติอาหรับเดือด อิสราเอลอนุมัติขึ้นทะเบียนที่ดินในเขตเวสต์แบงก์",
+          "url": "https://www.thairath.co.th/news/foreign/2914622",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfTFmQ5hN9P2.jpg"
+        }
+      ],
+      "collected_at": "00:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfTFmQ5hN9P2.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "파타야 뉴스, 이번 주 중국 설 연휴로 인해 주간 무료 커피 및 뉴스 채팅 모임 취소",
+      "summary": "- 파타야 뉴스는 2월 17일 화요일 중국 설 연휴 행사 참석으로 인해 이번 주 주간 모임을 취소합니다.\n- 다음 모임은 2월 24일에 재개될 예정입니다.\n- 이 모임은 매주 화요일 오후 3시부터 5시까지 좀티엔에 있는 Rage Ringside Cafe에서 열립니다.",
+      "full_translated": "공지: 2월 17일 화요일 중국 설날 행사 참석으로 인해 이번 주 주간 모임은 없습니다. 2월 24일에 다시 시작합니다. 매주 화요일 오후 3시부터 5시까지 콘텐츠 책임자인 Adam이 Thrappraya Road의 Grand Solaire Condo 건설 현장 뒤쪽인 Soi Thrappraya 15의 Jomtien에 있는 Rage Fight Academy 옆 Rage Ringside Cafe에서 캐주얼하고 비공식적인 뉴스 및 커피 세션을 진행합니다. 이것은 매우 비공식적인 음료 및 채팅 모임이며, 의제, 연설, 그룹 세션, 격식 및 압력이 없으며 The Pattaya News의 사람들을 만날 수 있는 기회입니다. 거기서 뵙기를 바랍니다! 음료 또는 식사 비용 외에는 모임은 무료입니다! 예, 카페에서는 술도 판매합니다. 그리고 모든 카페 고객은 수영장을 무료로 이용할 수 있습니다! 참고: 심각한 뉴스 관련 문제, 불만 사항 또는 법적 문제가 있는 경우 이곳이 적합하지 않습니다. Editor@thepattayanews.com으로 이메일을 보내 개인 회의 또는 토론을 주선하십시오. 이것은 종종 12명 이상의 사람들을 끌어들이는 캐주얼한 모임이며 복잡한 개인 문제는 비공식적이고 편안하며 캐주얼한 느낌을 자세히 설명하는 경향이 있으므로 개인적으로 문의하십시오. 판매 관련 질문이나 광고에 관심이 있는 분은 sales@thepattayanews.com으로 이메일을 보내주십시오. 이것은 매우 캐주얼하고 친근하며 비공식적인 세션입니다. 거기서 뵙겠습니다!",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야에서 열리는 소규모 모임 취소 정보. 여행자에게 직접적인 큰 영향은 없으나, 파타야 방문객에게는 소소한 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-02-17",
+        "location": "Rage Ringside Cafe, Jomtien, Soi Thrappraya 15, Pattaya",
+        "price": "음료 또는 식사 비용",
+        "location_google_map_query": "Rage Ringside Cafe Pattaya"
+      },
+      "references": [
+        {
+          "title": "No Weekly Free In Person Coffee and News Chat With The Pattaya News Team This Week Due to Chinese New Year",
+          "url": "https://thepattayanews.com/2026/02/16/new-weekly-coffee-and-news-chat-with-the-pattaya-news-team/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131"
+        }
+      ],
+      "collected_at": "00:32",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "태국, 2026년 투자 및 관광 회복에 힘입어 2% 성장 전망 - Thai Enquirer",
+      "summary": "- 태국은 투자와 관광 산업 회복에 따라 2026년에 2%의 완만한 성장을 예상합니다.\n- Thai Enquirer에서 보도했습니다.\n- 자세한 내용은 기사를 참조하십시오.",
+      "full_translated": "태국은 투자 및 관광 회복에 힘입어 2026년 2% 성장 전망 Thai Enquirer",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 전망에 대한 정보이지만, 관광객에게 직접적인 즉각적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Forecasts Modest 2% Growth in 2026 as Investment and Tourism Recovery Continue - Thai Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlJ0Qy1yZW5CMVB5Z3FyMXQ2UUszZkhUT0lTeDZBM3Rjalk5MWJtdGR3R0ZzU182b0ZDQ2dMV3BYandkbjY3YkFyb21GSkVrT2k0TUNLUHMxVERpSXFXelppeTk2Z2JnRlBVWjRqSF9rT1VhSUFtTkRRaTB4elVsR04wZXhuVkItRnRhVzIxNDdKQWhvcTV5V3VwRWY4TFVpSW05Qks2UjVkTVFMNzRTelVCZmpIUUljLVNlZzVxcw?oc=5",
+          "source": "Thai Enquirer",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:32",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
     }
   ]
 }
