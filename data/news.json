@@ -16900,14 +16900,9 @@
       "summary": "- 태국-캄보디아 국경 지역 사업체, 국경 폐쇄 장기화에 대비.\n- 총선 후 새 정부 구성에도 국경 재개방 기대 어려워.\n- 국내 시장으로 전환하며 생존 모색.",
       "full_translated": "뜨랏 지방의 태국-캄보디아 국경 지역 사업체들이 국경 폐쇄 장기화에 대비하고 있으며, 당국에 검문소 재개방을 촉구하는 한편 생존을 위해 국내 시장으로 빠르게 전환하고 있습니다. 국경 간 상업이 오랫동안 생계를 유지해 온 클롱야이 지역의 상인들은 품짜이타이당이 가장 많은 하원 의석을 차지하고 새 정부를 구성함에 따라 반핫렉 검문소가 조만간 재개방될 것으로 기대하지 않는다고 말합니다.\n\n태국-캄보디아 수출업체이자 클롱야이 하위 구역의 촌장인 타나킷 타나킷은 사업자들이 캄보디아와의 협상이 현 단계에서는 불가능할 것으로 받아들였으며, 국경 무역은 불확실한 상태라고 말했습니다. 그는 \"현재 정치적 방향으로는 빠른 재개방을 기대하기 어렵다\"며 \"기업들은 즉시 적응해야 한다\"고 말했습니다. 건설 자재 및 기타 상품을 캄보디아로 수출하는 타나킷의 회사는 뜨랏 및 인근 지역의 국내 고객으로 전환했습니다. 레스토랑, 여행사 및 소규모 소매업체를 포함한 다른 국경 의존 기업들도 손실된 수익을 상쇄하기 위해 태국 고객으로 눈을 돌리고 있습니다. 한편 해산물 가공 공장은 국경 채널을 통해 조달되던 원자재 및 노동력 부족에 직면해 있습니다. 이러한 혼란이 계속되면 일부는 운영을 중단해야 할 수도 있습니다. 타나킷은 \"올해 초부터 적응하기 시작했다\"고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국경 폐쇄가 여행 및 관련 사업에 미치는 영향. 단기적으로는 큰 영향 없으나, 장기화될 경우 여행 관련 서비스 및 물가에 영향 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "Trat Province",
-        "price": null,
-        "location_google_map_query": "Trat Province"
-      },
+      "event_info": "{'date': None, 'location': 'Trat Province', 'price': None, 'location_google_map_query': 'Trat Province'}",
       "references": [
         {
           "title": "Trat businesses brace for lengthy closures",
@@ -16916,9 +16911,11 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198868_260217015657_700.jpg"
         }
       ],
-      "collected_at": "03:53",
+      "collected_at": "3:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198868_260217015657_700.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/thailand/general/3198868/trat-businesses-brace-for-lengthy-closures",
+      "source": ""
     }
   ]
 }
