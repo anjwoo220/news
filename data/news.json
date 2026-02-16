@@ -16944,14 +16944,9 @@
       "summary": "- 태국이 한국인 여행객을 다시 유치하기 위해 웰니스 관광으로 방향을 전환하고 있다.\n- '치유가 새로운 럭셔리'라는 개념을 강조하며 다양한 웰니스 프로그램을 제공할 예정이다.\n- 이는 태국 관광 산업의 회복을 가속화하는 데 기여할 것으로 기대된다.",
       "full_translated": "태국이 한국인 여행객을 다시 유치하기 위해 '치유가 새로운 럭셔리'라는 개념을 내세워 웰니스 관광으로 전환하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "한국인 여행객을 대상으로 한 웰니스 관광 정보는 여행 계획에 참고할 만한 가치가 있음. 새로운 관광 트렌드를 제시.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘Healing is the new luxury': Thailand pivots to wellness to lure back Korean travelers - The Korea Times",
@@ -16960,23 +16955,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORk5Xdi1KaVVFWEtISFRubVlvR1liMnpLRzdoTXJRLXNuVUNJUGJSZm5zNUg1eWEwQ0tKUy1aOF8xTjVVaG5oeDRLOUlpN0IzS3haYkF2amxjNFBfcHU1WUMyTVY4eUlSZUd3SE5PWlEzUlJTLXJIV0w3Y3FNZjlwd3BCQ2hfdVJiSkRKRmJDbXQ5dW9EblVoNlphOVlTazZqZUliajFRMVhOR1lWTnBvcmF6M0RqWGdMMVNpVVVwbjEwSWhtSGgtNTZNaWFRemp5NWpocF9aLW5uNU3SAeABQVVfeXFMTW5fM3VoaUxtMzV6QWR1TC1oQzNjRTZaNVdvR1pkQWR6QTUtUFpDck1RbURxZGpBVVpCMlhIbUlGcEtOdFVGUnZqMDVNMWNFUU5Gd3dJQTFzRUpLTU9yQndRWmhaYnN1eS1vak1KcHdfdnN1MEtUS0E4TXgzNVRPX3owX25xLVIwbWtJRWg3eHpmNUlQZ1JES3h6Y2xrV19EUlpWRFo3aU1SbDdYZGoyQ2J4RXNpN3oyNVBkZk95TWROd0s1T21CZHoxdkNrUUlyT1k1QmdnNzZYXzFESjQ2b1I?oc=5",
+      "source": ""
     },
     {
       "title": "선거 무효화 요구 청원, 법원에 제출",
       "summary": "- 정치 단체 및 시민 사회, 2월 8일 선거 무효화 청원.\n- 선거관리위원회가 투표용지에 바코드 및 QR 코드를 넣어 유권자 익명성을 침해 주장.\n- 법원에 선거 결과 인증을 일시 중단하고 새로운 선거를 조직할 것을 요청.",
       "full_translated": "정치인, 시민 사회 단체, 9개 대학의 학생 대표들이 중앙 행정 법원에 2월 8일 선거를 무효화해 달라는 청원서를 제출했습니다. 그들은 선거관리위원회(EC)가 바코드와 QR 코드가 포함된 투표용지를 발행하여 헌법 원칙을 위반했으며, 이는 유권자의 익명성을 훼손할 수 있다고 주장했습니다. 쭐랄롱꼰 대학교, 탐마삿 대학교, 카세삿 대학교, 콘캔 대학교, 킹 몽쿳 공과대학교 라드크라방, 치앙마이 대학교, 매 파 루앙 대학교, 람캄행 대학교, 스리나카린위롯 대학교 대표들이 EC와 사무총장을 상대로 소송을 제기했습니다. 이 그룹은 EC가 투표용지에 바코드를 인쇄하면 유권자를 식별하거나 추적할 수 있어 2017년 헌법에 따른 직접적이고 비밀 선거에 대한 헌법적 요구 사항을 위반할 수 있다고 주장했습니다. 그들은 법원에 2월 8일 선거가 불법이라고 선언하고 EC에 법률을 준수하여 새로운 선거를 조직하도록 명령할 것을 요청했습니다. 청원서는 또한 EC 및 관련 기관이 향후 투표에서 투표용지를 개별 유권자에게 연결할 수 있는 QR 코드 또는 모든 기술을 사용하는 것을 금지할 것을 요구합니다. 청원서는 최종 판결이 내려질 때까지 긴급 검토와 선거 결과 인증의 임시 중단을 요청했습니다. 별도로 209명의 강사, 법률 전문가 및 학자들이",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 결과에 대한 불확실성은 정치적 불안정을 야기할 수 있으며, 이는 여행에도 간접적인 영향을 줄 수 있습니다. 하지만 현재로서는 직접적인 위협은 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Petition urges court to invalidate polls",
@@ -16985,23 +16977,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198633_260217045042_700.jpg"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198633_260217045042_700.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/thailand/politics/3198633/petition-urges-court-to-invalidate-polls",
+      "source": ""
     },
     {
       "title": "BJT, 클라탐당 지지 확보: 정부 구성에 힘 실어",
       "summary": "- 클라탐당, 품차이타이당(BJT)에 무조건적인 지지 약속하며 새 정부 구성에 협력.\n- 클라탐당 사무총장, 품차이타이당 사무총장과 협력 관계 확인, 농업부 장관직 요구설 일축.\n- 품차이타이당과 클라탐당 간 공식 회담은 아직 발표되지 않았으며, 목요일에 첫 집행위원회 회의 개최 예정.",
       "full_translated": "클라탐당이 품차이타이당(BJT)을 지지합니다.\n\n'무조건적인' 지지 약속\n게시일: 2026년 2월 17일 04:12\n작성자: Chairith Yonpiam 및 Apinya Wipatayotin\n\n클라탐당은 새로운 정부 구성에 있어 어떠한 정치적 조건이나 요구 없이 품차이타이당에 전폭적인 지지를 보낼 것이라고 확인했습니다.\n\n파이 리크 클라탐당 사무총장은 월요일 품차이타이당 사무총장 차이차녹 치드촉과 통화하여 당의 입장을 밝혔다고 말했습니다. 그는 클라탐당이 특히 농업협동조합부와 관련하여 협상 조건을 설정했다는 보도를 일축하며 그러한 조건은 존재하지 않는다고 주장했습니다. 파이 씨는 \"클라탐당은 어떠한 정치적 협상 카드나 조건도 가지고 있지 않습니다.\"라며 당의 지도 원칙은 여전히 국가 이익과 국민의 복지라고 덧붙였습니다. 그는 화요일 내각 회의에서 클라탐당의 수석 고문인 타마낫 프롬포 농업협동조합부 장관이 아누틴 찬비라쿨 총리 겸 품차이타이당 대표를 만날 것으로 예상됨에 따라 더 명확한 내용이 나올 수 있다고 말했습니다. 품차이타이당과 클라탐당 간의 공식 회담에 대해서는 아직 공식적으로 발표되지 않았다고 그는 말했습니다. 당 소식통은 타마낫 대위가 2월 8일 선거 이후 클라탐당의 첫 집행위원회 회의를 목요일에 개최하도록 지시했다고 밝혔습니다. 타마낫 대위의 기존 해외 출장은 당의 입장을 확정하고 협상을 마무리하기 위해 연기된 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 상황 변화는 여행에 간접적인 영향을 줄 수 있지만, 현재로서는 직접적인 영향이 적다고 판단. 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BJT gains Klatham backing",
@@ -17010,8 +16999,60 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198608_260217044333_700.jpg"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198608_260217044333_700.jpg",
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/thailand/politics/3198608/bjt-gains-klatham-backing",
+      "source": ""
+    },
+    {
+      "title": "Flydubai, 두바이와 태국 간 관광 활성화를 위한 신규 항공편 발표",
+      "summary": "- Flydubai가 두바이와 태국 간 새로운 항공편을 통해 관광 산업 활성화에 나섭니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "Flydubai, 두바이와 태국 간 관광 활성화를 위한 신규 항공편 발표: 알아야 할 모든 것 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "두바이-태국 노선 추가는 여행객의 선택지를 넓히므로 중간 점수 부여. 항공편 정보는 여행 계획에 유용할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Flydubai Unveils Next-Level Tourism Between Dubai And Thailand With New Flights: All You Need To Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnJhNUw3MENNeFFNMUNBQnZmcmpobEdHT2lqSEdlaVlnUnp2b3RmRS1hMEEtNl85RklyZWpKY3l5aVZ0djl3dUVjbGxhNVItMU9JY0pCTUtlV1YwUGlqc01rVm1VcHMwcnBIekN0V2pIUTNRdWlkbXE4TmFYS3BxdlFHWk5xclhSRFV3UTlOS05PcmFhR2RvNGJmaW9XcGxJYTNyVFpNcWNUS0hSWGphbEgxSWV5anNDM2NmMjZXTFgtS0dZT3RSN0xhc3dtLXVoT1UzYmtWbmxrcERKbWtYS29CMA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "IHG, 일본, 태국, 베트남, 중국에서 럭셔리 프리미엄 호텔 확장으로 아시아 태평양 지역 관광 활성화",
+      "summary": "- IHG 호텔 그룹이 아시아 태평양 지역에서 럭셔리 및 프리미엄 호텔을 확장합니다.\n- 일본, 태국, 베트남, 중국의 관광 산업 성장에 기여할 것으로 예상됩니다.\n- 구체적인 호텔 위치 및 추가 정보는 기사에서 확인할 수 있습니다.",
+      "full_translated": "IHG Expands Luxury Premium Hotels in Japan, Thailand, Vietnam, and China Boosting APAC Tourism  Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "호텔 확장 소식은 여행객들에게 새로운 숙박 옵션을 제공하므로 중간 정도의 영향력이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Japan, Thailand, Vietnam, China",
+        "price": null,
+        "location_google_map_query": "Japan, Thailand, Vietnam, China"
+      },
+      "references": [
+        {
+          "title": "IHG Expands Luxury Premium Hotels in Japan, Thailand, Vietnam, and China Boosting APAC Tourism - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeWRBTTNCWXV5RTdDWllfN21oVk42SDRtUmRFV01EbEQ2Z2RIdzN5M1dhZW9oWG5pXzRDRjJBREEzS2pFYjBMZXNLaUcxNGxuaGNYamhHbEZweXZ3eUJhVDdYRVJ5Z2VvbE93bDZwcE5iWnRiSUpjME9mY3lLaGdpNEtYLW84dkZSWGVxZVlVQ3ZKSW0xQ0FncS0zYjdmYkgxU0VReEZBb2N1V1dwOGJfTzZycFlhX2NES2VBZk1UbXROamNYa1FGakZKOGtaMTlUVjBmS2cwMA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-17"
     }
   ]
