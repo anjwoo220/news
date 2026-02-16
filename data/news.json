@@ -17010,14 +17010,9 @@
       "summary": "- Flydubai가 두바이와 태국 간 새로운 항공편을 통해 관광 산업 활성화에 나섭니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "Flydubai, 두바이와 태국 간 관광 활성화를 위한 신규 항공편 발표: 알아야 할 모든 것 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "두바이-태국 노선 추가는 여행객의 선택지를 넓히므로 중간 점수 부여. 항공편 정보는 여행 계획에 유용할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Flydubai Unveils Next-Level Tourism Between Dubai And Thailand With New Flights: All You Need To Know - Travel And Tour World",
@@ -17026,23 +17021,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:54",
+      "collected_at": "5:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTnJhNUw3MENNeFFNMUNBQnZmcmpobEdHT2lqSEdlaVlnUnp2b3RmRS1hMEEtNl85RklyZWpKY3l5aVZ0djl3dUVjbGxhNVItMU9JY0pCTUtlV1YwUGlqc01rVm1VcHMwcnBIekN0V2pIUTNRdWlkbXE4TmFYS3BxdlFHWk5xclhSRFV3UTlOS05PcmFhR2RvNGJmaW9XcGxJYTNyVFpNcWNUS0hSWGphbEgxSWV5anNDM2NmMjZXTFgtS0dZT3RSN0xhc3dtLXVoT1UzYmtWbmxrcERKbWtYS29CMA?oc=5",
+      "source": ""
     },
     {
       "title": "IHG, 일본, 태국, 베트남, 중국에서 럭셔리 프리미엄 호텔 확장으로 아시아 태평양 지역 관광 활성화",
       "summary": "- IHG 호텔 그룹이 아시아 태평양 지역에서 럭셔리 및 프리미엄 호텔을 확장합니다.\n- 일본, 태국, 베트남, 중국의 관광 산업 성장에 기여할 것으로 예상됩니다.\n- 구체적인 호텔 위치 및 추가 정보는 기사에서 확인할 수 있습니다.",
       "full_translated": "IHG Expands Luxury Premium Hotels in Japan, Thailand, Vietnam, and China Boosting APAC Tourism  Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "호텔 확장 소식은 여행객들에게 새로운 숙박 옵션을 제공하므로 중간 정도의 영향력이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Japan, Thailand, Vietnam, China",
-        "price": null,
-        "location_google_map_query": "Japan, Thailand, Vietnam, China"
-      },
+      "event_info": "{'date': None, 'location': 'Japan, Thailand, Vietnam, China', 'price': None, 'location_google_map_query': 'Japan, Thailand, Vietnam, China'}",
       "references": [
         {
           "title": "IHG Expands Luxury Premium Hotels in Japan, Thailand, Vietnam, and China Boosting APAC Tourism - Travel And Tour World",
@@ -17051,8 +17043,60 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:54",
+      "collected_at": "5:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeWRBTTNCWXV5RTdDWllfN21oVk42SDRtUmRFV01EbEQ2Z2RIdzN5M1dhZW9oWG5pXzRDRjJBREEzS2pFYjBMZXNLaUcxNGxuaGNYamhHbEZweXZ3eUJhVDdYRVJ5Z2VvbE93bDZwcE5iWnRiSUpjME9mY3lLaGdpNEtYLW84dkZSWGVxZVlVQ3ZKSW0xQ0FncS0zYjdmYkgxU0VReEZBb2N1V1dwOGJfTzZycFlhX2NES2VBZk1UbXROamNYa1FGakZKOGtaMTlUVjBmS2cwMA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "2026년 태국 여행 비용 충격적인 진실: 예산 친화적이고 기억에 남는 관광 경험을 위한 완벽 가이드",
+      "summary": "- 2026년 태국 여행 비용에 대한 가이드 제공.\n- 예산 친화적인 여행 팁과 기억에 남는 경험을 위한 정보 포함.\n- 여행 계획에 도움이 될 최신 정보 제공.",
+      "full_translated": "2026년 태국 여행 비용 충격적인 진실: 예산 친화적이고 기억에 남는 관광 경험을 위한 완벽 가이드 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 관련 예산 및 정보 업데이트. 2026년 정보를 제공하여 장기 여행 계획에 유용할 수 있음. 기존에 '저렴한 여행지'로 명성을 유지하고 있다는 기사와 연관.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Shocking Truth About Thailand Travel Costs: A Complete 2026 Guide for Budget-Friendly and Memorable Tourist Experiences - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQamVCa1NMekJhYWRDS2dLS2FDdEdpV2RHSGdSWENRZ0NTaGxxWTB6RGlhbUpPSW1xQk9BazNzV2lnYzV3dTB3RGREcWNLd3pfV2ZUdjdRZVppVHBQNXRlOUtab2JtU3M1b25uaGgyR19tY2FFVkxjOV9tN3hYRzVQX1JZamY0Vjd5UGxmMzZRdGt0QTRsdTdXNjJkeXN4NE5leHhjVF9LVXBIbVA3U2hTYy0ySzQ3MGVQSERGblRCVjV0M1ZIR0lTRlBXRzBwOU40bHZkbk5helE1UDl0eWJ1M3BxanNYNjVzdG9IOUpVNnVVbTJ5WVRTeDE2dw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "태국 경제, '중환자실 벗어났다' - 재무 수석",
+      "summary": "- 태국 경제가 회복세를 보이며 2025년 4분기에 2.5% 성장률 기록, 연간 성장률 2.4% 달성\n- 정부는 2026년에 3% 이상의 경제 성장을 목표로 투자 확대를 추진할 계획\n- 외국인 직접 투자 유치를 위해 BoI의 Fast Pass 제도 활용 예정",
+      "full_translated": "태국 경제가 2025년 4분기에 2.5% 성장률을 기록하며 '중환자실을 벗어났다'고 에크니티 니티탄프라팟 임시 재무장관이 밝혔습니다. 이는 기존 예상치인 1.8%를 상회하는 수치이며, 2025년 전체 성장률도 2% 예상치를 넘어선 2.4%를 기록했습니다. \n\n에크니티 장관은 2025년 4분기 GDP 성장률이 재무부 예상치인 1.8%와 국가경제사회개발위원회(NESDC)의 예상치인 0.3%를 모두 넘어섰다고 언급하며, 이는 경제가 침체에서 벗어났음을 시사한다고 밝혔습니다. NESDC는 2026년 성장률을 2%로 전망하고 있습니다.\n\n에크니티 장관은 \"이제 환자가 중환자실을 나갔다는 것을 알게 되었습니다. 문제는 이 환자를 어떻게 다시 강하게 만들 수 있느냐입니다. 우리는 운동을 통해 신체적인 힘을 키워 몸이 달릴 준비가 되도록 해야 합니다. 이것이 핵심 요소입니다.\"라고 말했습니다.\n\n올해 경제 성장과 관련하여 에크니티 장관은 정부가 태국 경제를 3% 이상 성장시키기 위해 노력할 것이라고 밝혔습니다. 이를 달성하기 위한 핵심 전략은 '투자의 해'를 통해 경제 잠재력을 강화하는 것입니다. 정부는 특히 외국인 직접 투자(FDI) 유입을 가속화하기 위해 BoI의 Fast Pass 제도를 통해 투자를 지속적으로 확대할 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 성장 관련 소식으로, 여행객에게 직접적인 영향은 적으나, 전반적인 여행 환경에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Economy has 'left ICU', says finance chief",
+          "url": "https://www.bangkokpost.com/business/general/3198723/economy-has-left-icu-says-finance-chief",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198723_260217054905_700.jpg"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198723_260217054905_700.jpg",
       "date": "2026-02-17"
     }
   ]
