@@ -16462,14 +16462,9 @@
       "summary": "- 태국은 여전히 한국 및 말레이시아 관광객에게 저렴한 여행지로 인식됨.\n- 국내 물가 상승에도 불구하고 관광 비용이 증가했다는 주장을 반박함.\n- 태국 관광 산업은 경쟁력 있는 가격을 유지하기 위해 노력하고 있음.",
       "full_translated": "태국은 국내 물가 상승에도 불구하고 한국 및 말레이시아 관광객에게 저렴한 여행지로 명성을 유지하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행 비용에 대한 인식을 제공하여 여행 계획에 영향을 줄 수 있음. 물가 상승에 대한 우려를 해소.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Maintains Its Reputation as an Affordable Destination for South Korean and Malaysian Tourists in Tourism, Rejecting Claims of Rising Costs Due to Domestic Inflation - Travel And Tour World",
@@ -16478,23 +16473,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPUWRLaFA2WHJFc2pKMC1zWUVWWEh2b1ZybHE4NzJFN0hDZHNqS044Tmd5a0NKUWpPMzRCaDc0RHRHZm9JeVdpaFlzMmltekZncHRmXy1YaGlJRHBiVGQ3cEJJS3hlTm5vMU93M09qWUVWU1QxUEF2VzFxQzFMdmJKdUpkbGQtbExLU0xNVUd3bll4eFNVWG1pb25DMGw5U0dKcjFIb3Y2ZmU5Rk9PVkFDamZDaUJjLXg5TVlqc0pPcXdyM2h2aWhtME8wcWJERlBseDFWVWpWN1NCcGJtbmlBbjEtR2NvSW9BTmJsM0plT2RGeGxYcTZWQmRaUWRVMkc3V3Y0WWE4ZjRLTm9lVVg4aWd2VmVNRVc0WkJsNURKMzQzLWQzbTVjaGdvTkk3bndDYnVNcUtTWWNtcFZvWXc4RFB6RQ?oc=5",
+      "source": ""
     },
     {
       "title": "파타야에서 친절한 선장에 의해 바다에서 구조된 그물무늬 비단뱀",
       "summary": "- 파타야 인근 해상에서 그물무늬 비단뱀이 발견되어 구조됨.\n- 한 어부가 바다에서 낚시 부표에 매달려 있는 거대한 뱀을 발견하고 구조 요청.\n- 구조대는 뱀을 안전하게 포획하여 육지로 옮겼으며, 뱀의 길이는 약 3~4미터에 달함.",
       "full_translated": "파타야 뉴스에 따르면, 한 친절한 선장이 파타야 해상에서 그물무늬 비단뱀을 구조했습니다. 이 사건은 구조 장면을 담은 영상이 소셜 미디어에 퍼지면서 주목을 받았습니다. 기자들은 현장을 방문하여 구조 작전에 참여한 타나콘 만유엔(29) 씨와 이야기를 나누었습니다. 그는 다른 선장이 라em차방 방파제 근처에서 작살 낚시를 하던 중 바다 한가운데 있는 조명이 켜진 낚시 부표에 거대한 비단뱀이 매달려 있는 것을 발견했다고 설명했습니다. 선장은 뱀이 해안에서 멀리 떨어진 곳에 있고 쇠약해지거나 굶어 죽을 위험이 있다고 판단하여 즉시 타나콘 씨와 그의 그룹에 도움을 요청했습니다. 타나콘 씨는 \"이 뱀들은 가끔 발견되지만 많은 사람들이 두려워 접근하지 않습니다.\"라고 말했습니다. \"다른 선장들은 뱀이 며칠 동안 먹지 못했을 것이라고 생각하고 불쌍히 여겼습니다. 아침에 전화가 오자마자 우리는 배 축복식을 마치고 즉시 달려갔습니다.\" 구조대는 현장에 도착하여 큰 비단뱀이 부표에 웅크리고 있는 것을 발견했습니다. 뱀은 배가 가까워지자 방어적인 행동을 보이며 쉿 소리를 냈습니다. 뱀은 결국 물속으로 미끄러져 들어갔고, 구조대는 조심스럽게 뱀을 몰아 밧줄이 달린 나무 막대기를 사용하여 해를 끼치지 않고 몸을 고정했습니다. 비단뱀은 사람 허벅지 굵기와 비슷하고 길이가 약 3~4미터에 달하는 매우 큰 것으로 묘사되었습니다. 뱀을 배에 안전하게 데려온 후 구조대는",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야 해상에서 발생한 비단뱀 구조 소식으로, 관광객 안전에 직접적인 위협은 아니지만 파타야 지역의 특이한 사건이므로 흥미로운 정보로 간주. 다만, 뱀 출몰 지역에 대한 정보가 없어 안전 관련 정보로 보기 어려움.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해상",
-        "price": null,
-        "location_google_map_query": "Pattaya Sea"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해상', 'price': None, 'location_google_map_query': 'Pattaya Sea'}",
       "references": [
         {
           "title": "Reticulated Python Rescued From Sea in Pattaya by Kind Boat Captain",
@@ -16503,23 +16495,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17712516984988207663070706549589.jpg?v=1771251743"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17712516984988207663070706549589.jpg?v=1771251743",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://thepattayanews.com/2026/02/16/reticulated-python-rescued-from-sea-in-pattaya-by-kind-boat-captain/",
+      "source": ""
     },
     {
       "title": "아랍 국가들, 이스라엘의 웨스트뱅크 토지 등록 승인에 분노",
       "summary": "- 이스라엘이 웨스트뱅크 지역의 토지 등록 절차를 승인하여 국제적인 비난을 받고 있습니다.\n- 아랍 국가들은 이를 팔레스타인 영토를 점령하려는 시도로 규탄하고 있습니다.\n- 이스라엘 외무부는 이번 조치가 법적 분쟁 해결에 도움이 될 것이라고 밝혔습니다.",
       "full_translated": "이스라엘이 웨스트뱅크 지역의 토지 등록 절차를 '국유 재산'으로 승인한 것에 대해 아랍 국가들을 중심으로 국제적인 비난이 쏟아지고 있습니다. 이들은 이번 조치가 팔레스타인 영토를 합병하려는 시도를 가속화할 것이라고 우려하고 있습니다.\n\n이스라엘 외무부는 2월 15일 늦은 밤 승인된 이번 조치가 '법적 분쟁 해결을 위한 투명하고 철저한 권리 명확화'에 도움이 될 것이며, 팔레스타인 자치 정부(PA)의 통제 하에 있는 지역에서 부당한 토지 등록이 발생한 후 필요한 조치라고 밝혔습니다. \n\n그러나 이집트, 카타르, 요르단은 이스라엘의 이러한 움직임이 국제법에 위반된다고 비판했습니다. 특히 이집트는 이번 조치가 갈등을 고조시키는 위험한 행위이며, 이스라엘이 점령한 팔레스타인 영토(웨스트뱅크)에 대한 통제를 강화하려는 목적을 가지고 있다고 지적했습니다. 카타르 외무부 역시 웨스트뱅크의 토지를 '국유 재산'으로 전환하는 것은 팔레스타인 국민의 권리를 박탈하는 행위라고 비난했습니다.\n\n람알라에 위치한 팔레스타인 자치 정부는 국제 사회에 개입을 촉구하며, 사실상의 영토 합병 절차가 시작되는 것을 막고 팔레스타인 국가의 기반을 훼손하는 것을 막아달라고 요청했습니다. 이번 토지 등록은 웨스트뱅크 전체 면적의 약 60%를 차지하며 이스라엘의 완전한 통제하에 있는 C구역에서만 진행될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 국내 뉴스는 아니지만, 국제 정세 변화에 따른 잠재적 영향 가능성 존재. 여행 자체에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ชาติอาหรับเดือด อิสราเอลอนุมัติขึ้นทะเบียนที่ดินในเขตเวสต์แบงก์",
@@ -16528,23 +16517,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfTFmQ5hN9P2.jpg"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfTFmQ5hN9P2.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.thairath.co.th/news/foreign/2914622",
+      "source": ""
     },
     {
       "title": "파타야 뉴스, 이번 주 중국 설 연휴로 인해 주간 무료 커피 및 뉴스 채팅 모임 취소",
       "summary": "- 파타야 뉴스는 2월 17일 화요일 중국 설 연휴 행사 참석으로 인해 이번 주 주간 모임을 취소합니다.\n- 다음 모임은 2월 24일에 재개될 예정입니다.\n- 이 모임은 매주 화요일 오후 3시부터 5시까지 좀티엔에 있는 Rage Ringside Cafe에서 열립니다.",
       "full_translated": "공지: 2월 17일 화요일 중국 설날 행사 참석으로 인해 이번 주 주간 모임은 없습니다. 2월 24일에 다시 시작합니다. 매주 화요일 오후 3시부터 5시까지 콘텐츠 책임자인 Adam이 Thrappraya Road의 Grand Solaire Condo 건설 현장 뒤쪽인 Soi Thrappraya 15의 Jomtien에 있는 Rage Fight Academy 옆 Rage Ringside Cafe에서 캐주얼하고 비공식적인 뉴스 및 커피 세션을 진행합니다. 이것은 매우 비공식적인 음료 및 채팅 모임이며, 의제, 연설, 그룹 세션, 격식 및 압력이 없으며 The Pattaya News의 사람들을 만날 수 있는 기회입니다. 거기서 뵙기를 바랍니다! 음료 또는 식사 비용 외에는 모임은 무료입니다! 예, 카페에서는 술도 판매합니다. 그리고 모든 카페 고객은 수영장을 무료로 이용할 수 있습니다! 참고: 심각한 뉴스 관련 문제, 불만 사항 또는 법적 문제가 있는 경우 이곳이 적합하지 않습니다. Editor@thepattayanews.com으로 이메일을 보내 개인 회의 또는 토론을 주선하십시오. 이것은 종종 12명 이상의 사람들을 끌어들이는 캐주얼한 모임이며 복잡한 개인 문제는 비공식적이고 편안하며 캐주얼한 느낌을 자세히 설명하는 경향이 있으므로 개인적으로 문의하십시오. 판매 관련 질문이나 광고에 관심이 있는 분은 sales@thepattayanews.com으로 이메일을 보내주십시오. 이것은 매우 캐주얼하고 친근하며 비공식적인 세션입니다. 거기서 뵙겠습니다!",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야에서 열리는 소규모 모임 취소 정보. 여행자에게 직접적인 큰 영향은 없으나, 파타야 방문객에게는 소소한 정보가 될 수 있음.",
-      "event_info": {
-        "date": "2026-02-17",
-        "location": "Rage Ringside Cafe, Jomtien, Soi Thrappraya 15, Pattaya",
-        "price": "음료 또는 식사 비용",
-        "location_google_map_query": "Rage Ringside Cafe Pattaya"
-      },
+      "event_info": "{'date': '2026-02-17', 'location': 'Rage Ringside Cafe, Jomtien, Soi Thrappraya 15, Pattaya', 'price': '음료 또는 식사 비용', 'location_google_map_query': 'Rage Ringside Cafe Pattaya'}",
       "references": [
         {
           "title": "No Weekly Free In Person Coffee and News Chat With The Pattaya News Team This Week Due to Chinese New Year",
@@ -16553,23 +16539,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://thepattayanews.com/2026/02/16/new-weekly-coffee-and-news-chat-with-the-pattaya-news-team/",
+      "source": ""
     },
     {
       "title": "태국, 2026년 투자 및 관광 회복에 힘입어 2% 성장 전망 - Thai Enquirer",
       "summary": "- 태국은 투자와 관광 산업 회복에 따라 2026년에 2%의 완만한 성장을 예상합니다.\n- Thai Enquirer에서 보도했습니다.\n- 자세한 내용은 기사를 참조하십시오.",
       "full_translated": "태국은 투자 및 관광 회복에 힘입어 2026년 2% 성장 전망 Thai Enquirer",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 전망에 대한 정보이지만, 관광객에게 직접적인 즉각적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Forecasts Modest 2% Growth in 2026 as Investment and Tourism Recovery Continue - Thai Enquirer",
@@ -16578,7 +16561,132 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:32",
+      "collected_at": "0:32",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVlJ0Qy1yZW5CMVB5Z3FyMXQ2UUszZkhUT0lTeDZBM3Rjalk5MWJtdGR3R0ZzU182b0ZDQ2dMV3BYandkbjY3YkFyb21GSkVrT2k0TUNLUHMxVERpSXFXelppeTk2Z2JnRlBVWjRqSF9rT1VhSUFtTkRRaTB4elVsR04wZXhuVkItRnRhVzIxNDdKQWhvcTV5V3VwRWY4TFVpSW05Qks2UjVkTVFMNzRTelVCZmpIUUljLVNlZzVxcw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "오스트리아 남성, 테일러 스위프트 콘서트 공격 계획 혐의로 기소",
+      "summary": "- 2년 전 비엔나에서 열릴 예정이었던 테일러 스위프트 콘서트 공격을 계획한 21세 오스트리아 남성이 테러 혐의로 기소됨.\n- 용의자는 테러 단체 회원, 폭발물 제조, 불법 무기 조달 혐의를 받고 있으며, 유죄 판결 시 최대 20년 징역형에 처해질 수 있음.\n- 미국 CIA의 정보 제공으로 체포되었으며, 당시 콘서트는 취소되었고, 관련자 3명이 체포됨.",
+      "full_translated": "외신 보도에 따르면 2년 전 비엔나에서 열릴 예정이었던 가수 테일러 스위프트의 콘서트 공격을 계획한 주요 용의자가 테러 혐의 등으로 기소되어 20년 이상의 징역형을 받을 수 있습니다. 오스트리아 검찰은 용의자인 베란 A가 테러 단체의 일원이며 폭발물을 제조하고 불법적으로 무기를 구하려 했다고 밝혔습니다. 그는 또한 무장 단체 ISIS를 선전한 혐의도 받고 있습니다. 미국 CIA의 정보 제공으로 오스트리아 당국에 체포되었으며, 유죄 판결 시 20년형을 받을 수 있습니다. 이 사건으로 인해 비엔나에서 열릴 예정이었던 테일러 스위프트의 콘서트가 취소되었으며, 당시 관련자 3명이 체포되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "테러 관련 소식은 여행객 안전에 영향을 미칠 수 있으므로 정보를 제공합니다. 콘서트 취소로 인해 여행 계획에 차질이 생길 수 있습니다.",
+      "event_info": {
+        "date": "2024-02-16",
+        "location": "비엔나",
+        "price": null,
+        "location_google_map_query": "비엔나"
+      },
+      "references": [
+        {
+          "title": "หนุ่มออสเตรียโดนข้อหาก่อการร้าย วางแผนโจมตีคอนเสิร์ต \"เทย์เลอร์ สวิฟต์\"",
+          "url": "https://www.thairath.co.th/news/foreign/2914624",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfeIvNEbm1UA.jpg"
+        }
+      ],
+      "collected_at": "01:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfeIvNEbm1UA.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "인도 관광객, 태국 공항에서 멸종 위기 원숭이 밀수 시도",
+      "summary": "- 인도 관광객이 수하물에 숨겨 멸종 위기 원숭이를 밀수하려다 태국 공항에서 적발됨.\n- 당국은 해당 관광객을 체포하고 원숭이들을 안전하게 구조함.\n- 밀수 시도에 대한 추가 조사 진행 중.",
+      "full_translated": "인도 관광객이 태국 공항에서 수하물에 숨겨 멸종 위기 원숭이를 밀수하려다 적발되었습니다. 당국은 해당 관광객을 체포하고 원숭이들을 안전하게 구조했으며, 밀수 시도에 대한 추가 조사를 진행하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물 밀수는 국제법 위반이며, 공항 보안에 대한 우려를 야기합니다. 여행객의 안전과 관련된 사항으로 볼 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 공항",
+        "price": null,
+        "location_google_map_query": "태국 공항"
+      },
+      "references": [
+        {
+          "title": "Indian tourist caught smuggling endangered monkeys hidden in luggage at Thailand airport - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNanBkRmk4blgzMGlsdW5ra3dMUVl3RjRoNC01SVlmQUg2VWpUUkxGQzN1eGdnRmFTMW5JNmFlck9EekZBQi1LM3hSOUF5M09naGExb01pcHlWS1VpWEdIVUNwOFBMXzFjYnBCZjBSSWNuSFRZa0k4aEpMWHVSY0w4Nko1aTR1Y0hUMm5CR1VhaHJza2VJVkgwSTlqVE9naW1wRV85bS10ZXdUUHRJb3dYemNqejRONjZJdmhSSzhvcVF3MlplVTVuTmgwR3hPZ1I2U3F3?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:32",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "2026년 태국 설날 축제, 말의 해의 길조를 열다",
+      "summary": "- 태국은 2026년 설날을 기념하는 축제를 개최합니다.\n- 이 축제는 말의 해를 상징하며 행운을 가져다 줄 것으로 기대됩니다.\n- 자세한 내용은 Travel Daily Media에서 확인할 수 있습니다.",
+      "full_translated": "Amazing Thailand Happy Chinese New Year 2026 Festival serves as an auspicious opening to the Year of the Horse  Travel Daily Media",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 설날 축제 정보는 여행객에게 문화 체험 기회를 제공하므로, 중간 정도의 영향력을 가진다고 판단했습니다. 2026년이라는 시점이 멀어 현재 시점에서는 중요도가 낮습니다.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "태국 전역",
+        "price": "미정",
+        "location_google_map_query": "태국 설날 축제"
+      },
+      "references": [
+        {
+          "title": "Amazing Thailand Happy Chinese New Year 2026 Festival serves as an auspicious opening to the Year of the Horse - Travel Daily Media",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3NLanpCbG9Nd2xpQkwxR3NLOUIwVnNTWVh2bkh3WG9IMW5qdWFEdWoxWkxTWmFlOWoxbDVvUm5VaEZnTGs0MkRBTmJSX2ZJQ0ZCUjc0bkNJNWVGMkw3cHdoSUNNZm4xUVVTamJPSUdJazRmM21xUlZKX2RRWGNLb0QtbURKekwxOGJFLXVGUmVhZnd3UjJIcGR4dWthbUZVZGd6ZW9JNExic1M0VXZfT0pnaFNBaENBMEowcThWdnpSaldhdnE4Vld6RHhibkxrVmZodmRhRnFKdERz?oc=5",
+          "source": "Travel Daily Media",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:32",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "태국 경제, 관광 감소와 팬데믹에도 회복세 보여 - South China Morning Post",
+      "summary": "- 태국 경제가 관광 산업의 침체와 팬데믹 상황 속에서도 회복세를 나타내고 있다는 South China Morning Post의 보도입니다.\n- 자세한 내용은 기사를 통해 확인할 수 있습니다.\n- 경제 회복의 요인과 전망에 대한 분석이 포함될 것으로 예상됩니다.",
+      "full_translated": "태국 경제, 관광 감소와 팬데믹에도 회복세 보여 - South China Morning Post",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 회복세는 장기적으로 관광 산업에도 긍정적인 영향을 미칠 수 있으나, 당장의 여행 계획에 직접적인 영향을 주는 정보는 아니므로 중간 점수를 부여합니다. 경제 상황은 여행객의 소비 및 물가에 간접적인 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s economy rebounds despite tourism decline, pandemic - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVERoZGwzUGlmVXhOOUJWTDNZcTlNZWxoTm9fbE04QV95d0txRGxpbTE2VkEwMEJfVUNsc2MyY2ZzS2JoNFc3LUFvU1B1aWk4TXFZVmtPaFlGekRKTUM0QW1uOW1KY29JUE9PaW4wQTVDS3NTTnZWYXVTZ1RMTy1abGk1Q0NBMmVsMzU3VmphUUZwLVBWMkthalRyek9YSE9RWW9RdDFiUlV5b3UzYkVncVlDd1d6RGFzUlJ1bHN30gG-AUFVX3lxTE5nOXA3NGRKdnJnSzVjYU5qQjB4RTdMVTVLT2szdVpnUTFIdzItQnFjcE44SHRZM19TX09Fb3hiWFVBMVJ3N19CU3BBOE1wQUkxN3lGZEtDeEd3STNKeTcxbkVOajJLeDR0c2laSkcwcEJhTVBxQks5ZHhvRVhfVlRHSWhvVlk4SGtib0RURUJfcG1FejNSX081WDVRVy1rSDJubGpqREFaZUpOaFBSRE9OTFlkb1BNU3kxM2RnTnc?oc=5",
+          "source": "South China Morning Post"
+        }
+      ],
+      "collected_at": "01:32",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "AGIBOT, 스마트 관광 및 국가 디지털 전환을 위한 휴머노이드 로봇 쇼케이스로 태국 시장 진출 가속화",
+      "summary": "- AGIBOT이 태국 시장에 진출하여 스마트 관광과 디지털 전환을 위한 휴머노이드 로봇 기술을 선보입니다.\n- 이 회사는 자동화 솔루션을 통해 태국 관광 산업의 혁신을 목표로 합니다.\n- AGIBOT의 기술은 다양한 산업 분야에 적용될 수 있으며, 태국의 디지털 경제 발전에 기여할 것으로 기대됩니다.",
+      "full_translated": "AGIBOT은 스마트 관광 및 국가 디지털 전환을 위한 휴머노이드 로봇 쇼케이스로 태국 시장 진출을 가속화합니다. Yahoo Finance Singapore",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 산업의 디지털 전환에 대한 내용으로, 장기적으로 여행 경험에 영향을 줄 수 있으나, 즉각적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "AGIBOT Accelerates Thailand Market Entry with Humanoid Robotics Showcase for Smart Tourism and National Digital Transformation - Yahoo Finance Singapore",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFp3a3F0bTdDaGNIUnA2UEhPV2NjaFhKTHdDeTVuVzNNZGhPbHZ1TElQaklwZzJaU2xhOG9lcmFSZTNlcGVieWxsWmRRN1RrZ3ZqV2gtNmx3ZTJoMzRodjVKMmE2YUxEdjc3R1VLcjMyMTNQTWxyWU9GUjVJaC1uNTM5b1hZS0QxVEY3cnhSZ01lRWc?oc=5",
+          "source": "Yahoo Finance Singapore",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:32",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-17"
     }
