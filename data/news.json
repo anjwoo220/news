@@ -16791,14 +16791,9 @@
       "summary": "- 촌부리 농캄 지역에서 22륜 트럭이 오토바이를 덮쳐 남녀 2명이 현장에서 사망했습니다.\n- 트럭 운전사는 경찰 조사에서 차량을 회전하던 중 사고가 발생했다고 진술했습니다.\n- 피해자 중 여성은 신원이 확인되지 않았으며, 휴대폰 GPS는 파타야 시내를 목적지로 설정되어 있었습니다.",
       "full_translated": "촌부리에서 중국 설 연휴 기간 중 교통사고가 발생했습니다. 22륜 트럭이 오토바이를 덮쳐 2명이 사망했습니다.\n\n사고는 오후 3시경, 촌부리 농캄 지역의 9km 교통 신호등 교차로 직전, 램차방 방향 고속도로 병행 도로를 따라 컨테이너 야드 입구 근처에서 발생했습니다. 사왕 프라텝 스리라차 구조대는 트럭 트레일러가 오토바이를 덮쳐 2명이 사망했다는 신고를 받았습니다. 그들은 농캄 경찰서의 수사관인 셋타폰 싱녹 경감과 협력하여 조사했습니다. 현장에는 쁘라친 부리 70-4121 번호판의 파란색 Foton 22륜 트럭이 야드로 이어지는 경사로에 주차되어 있었습니다. 운전자는 32세의 타차이 캄댕 씨로 확인되었습니다. 트럭 차체 아래에는 쁘라 나콘 씨 아유타야 1 꺼 여 2512 번호판의 검은색 야마하 스파크 오토바이가 뒤집혀 있었습니다. 불행히도 남녀 두 명의 희생자의 시신이 뒷바퀴 부위에 갇혀 훼손되었습니다. 트럭은 오토바이와 탑승자를 약 10미터 야드 안으로 끌고 갔습니다. 남성 희생자는 21세의 타나톤 룽피마이 씨로 확인되었습니다. 여성 희생자의 신원은 즉시 확인되지 않았습니다. 그러나 피해자 중 한 명의 휴대폰이 현장에서 회수되었으며, GPS는 여전히 활성화되어 파타야 시내의 목적지로 설정되어 있었습니다. 예비 경찰 조사에 따르면 트럭 운전사는 대형 차량을 회전하여 야드로 들어가려고 할 때...",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 교통사고 소식이므로 중요도가 높습니다. 특히 파타야 인근 지역에서 발생한 사고이므로 여행객에게 직접적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": "2026-02-17",
-        "location": "촌부리 농캄",
-        "price": null,
-        "location_google_map_query": "촌부리 농캄"
-      },
+      "event_info": "{'date': '2026-02-17', 'location': '촌부리 농캄', 'price': None, 'location_google_map_query': '촌부리 농캄'}",
       "references": [
         {
           "title": "Tragic Chinese New Year Accident in Chonburi as 22-Wheeler Truck Crushes Motorcycle, Killing Two Riders",
@@ -16807,23 +16802,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17712673974323069571740290556216.jpg?v=1771267478"
         }
       ],
-      "collected_at": "02:51",
+      "collected_at": "2:51",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17712673974323069571740290556216.jpg?v=1771267478",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://thepattayanews.com/2026/02/17/tragic-chinese-new-year-accident-in-chonburi-as-22-wheeler-truck-crushes-motorcycle-killing-two-riders/",
+      "source": ""
     },
     {
       "title": "태국, 젊은층의 HIV 감염 급증",
       "summary": "- 태국에서 젊은층의 HIV 감염이 급증하고 있어 우려가 커지고 있습니다.\n- 정부 데이터에 따르면 신규 HIV 감염의 3분의 1 이상이 젊은층에서 발생합니다.\n- 에이즈헬스케어재단은 콘돔 사용을 장려하는 'Just Use It' 캠페인을 시작했습니다.",
       "full_translated": "에이즈헬스케어재단 태국(AHF Thailand)은 정부 데이터에 따르면 젊은층이 전국적으로 새로 보고된 HIV 감염의 3분의 1 이상을 차지한다는 것을 보여준 후 'Just Use It' 캠페인을 시작했습니다. 이 캠페인은 매년 2월 13일에 기념되는 국제 콘돔의 날을 앞두고 지난주 치앙마이의 Yupparaj Wittayalai School에서 소개되었습니다. 이 캠페인은 HIV, 기타 성병(STI) 및 원치 않는 임신을 예방하기 위해 청소년들 사이에서 콘돔 사용과 더 안전한 성행위를 장려하는 것을 목표로 합니다. 국제 콘돔의 날은 HIV 및 기타 STI 예방에서 콘돔이 수행하는 중요한 역할에 대한 전 세계적 인식을 높이기 위해 2009년 에이즈헬스케어재단에 의해 제정되었습니다. 치앙마이 보건소 감염병 통제부의 Songyos Khamchai 부장은 청소년과 젊은 성인 사이의 HIV 감염이 여전히 시급한 문제라고 말했습니다. 공중보건부 산하 질병통제부의 수치에 따르면 작년에 전국적으로 13,357명이 새로 HIV 진단을 받았으며 태국에서 HIV 감염자와 함께 사는 사람들의 누적 수는 547,556명입니다. 새로운 사례 중 35%는 15~24세 개인에서 발생했습니다. 보건 당국은 감염의 96.4%가 보호되지 않은 성관계와 관련이 있다고 밝혔습니다. 치앙마이에서는 작년에 731건의 새로운 HIV 사례가 기록되었습니다. 이 지방에는 22,387명의 HIV 감염자가 살고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 HIV 감염 증가 소식은 여행자들에게 성병 예방의 중요성을 상기시키고, 안전한 여행을 위한 정보를 제공하므로 게시.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "HIV infections rising sharply among youth",
@@ -16832,23 +16824,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970893_700.jpg"
         }
       ],
-      "collected_at": "02:51",
+      "collected_at": "2:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970893_700.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/thailand/general/3198858/hiv-infections-rising-sharply-among-youth",
+      "source": ""
     },
     {
       "title": "방콕, 오토바이 택시 전기차 전환 프로젝트 시작: 대기 질 개선 및 비용 절감 기대",
       "summary": "- 방콕시와 독일국제협력단(GIZ) 협력, 오토바이 택시의 전기차 전환 지원 프로젝트 개시\n- 전기차 전환 시 운행 비용 최대 7배 절감, 미세먼지 배출량 연간 16톤 감축 기대\n- 시범 프로젝트 통해 딘댕, 파야타이 지역 오토바이 택시 운전사 및 환경미화원 대상 전기차 테스트 기회 제공",
       "full_translated": "방콕 메트로폴리탄 관리국(BMA)은 독일국제협력단(GIZ)과 협력하여 오토바이 택시 운전자의 전기 자동차 전환을 지원하는 프로젝트를 진행합니다. 관계자들은 이러한 움직임이 운전자의 운영 비용을 최대 7배까지 줄이고 미세 먼지 배출량을 연간 약 16톤까지 줄일 수 있다고 말합니다.\n\n'오토바이 택시용 EV'라고 불리는 이 이니셔티브는 태국-독일 에너지, 모빌리티 및 기후 협력의 일환으로 어제 시작되었습니다. 이 계획은 킹 몽쿳 기술 대학교 통부리(King Mongkut's University of Technology Thonburi)와 태국 전기 자동차 협회(Electric Vehicle Association of Thailand)의 지원을 받습니다.\n\nGIZ 연구에 따르면 방콕 전역의 약 5,300개 지역에서 89,000대 이상의 오토바이 택시가 운행되고 있습니다. 이 오토바이는 연간 80,000~100,000톤의 이산화탄소와 약 16톤의 PM2.5 오염 물질을 발생시킵니다.\n\n시범 프로젝트에 따라 딘댕(Din Daeng)과 파야타이(Phaya Thai) 지역의 200명 이상의 오토바이 택시 운전사와 BMA 거리 청소부는 75~140바트의 비용으로 다양한 EV를 테스트할 기회를 갖게 됩니다. 이 요금에는 충전 및 배터리 교환 스테이션 이용이 포함됩니다. 이 그룹에서 30명의 라이더는 잠재적인 확장을 위한 자세한 운영 데이터를 수집하기 위해 설계된 1개월 무료 평가판에 참여할 자격이 주어집니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "방콕의 대기 질 개선 노력은 여행객의 건강에 간접적으로 긍정적인 영향을 미치며, 새로운 교통 정책에 대한 정보는 유용할 수 있음",
-      "event_info": {
-        "date": null,
-        "location": "딘댕, 파야타이 지역",
-        "price": "75-140 바트 (테스트 참가 비용)",
-        "location_google_map_query": "Din Daeng Bangkok, Phaya Thai Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '딘댕, 파야타이 지역', 'price': '75-140 바트 (테스트 참가 비용)', 'location_google_map_query': 'Din Daeng Bangkok, Phaya Thai Bangkok'}",
       "references": [
         {
           "title": "New project to help riders switch to EVs",
@@ -16857,8 +16846,58 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198713_260217020212_700.jpg"
         }
       ],
-      "collected_at": "02:51",
+      "collected_at": "2:51",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198713_260217020212_700.jpg",
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/thailand/general/3198713/new-project-to-help-riders-switch-to-evs",
+      "source": ""
+    },
+    {
+      "title": "태국 정부, 관광 및 경제 활성화를 위한 비자 정책 인정",
+      "summary": "- 태국 정부가 관광 산업 활성화를 위한 비자 정책을 인정했습니다.\n- 자세한 내용은 태국 비즈니스 뉴스를 통해 확인할 수 있습니다.\n- 구체적인 비자 정책 변경 사항은 아직 발표되지 않았습니다.",
+      "full_translated": "태국 정부가 관광 및 경제 활성화를 위한 비자 정책을 인정했습니다. Thailand Business News",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경 가능성은 여행객에게 중요한 정보이므로 포함. 세부 내용 발표 후 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Cabinet Acknowledges Visa Measures to Boost Thailand’s Tourism and Economy - Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR28wNGlOT0ZPZkZRUFpoQnhnOHlQTXNJd09wUjg1ZmxqY2tMV2NzTmFiY1ZBSHFPQmVJdVh1SGRxMl9iQXdIZkVQeElWY2VWYnZzcjJGQW9zUmt4RFZSRTBhX2FfaElXLW56b0s2WWdLNDR2aFItUXVGaVA3Z0NSbjJ3ZHVEb3l3WkRyT3YxTUMtSTlaZjdRcndIUE9HbE1ZbWt6d29BSFlNelRHUXVNaUZaNVEzWjNjODRJNGFJNS1FWG9GMng4?oc=5",
+          "source": "Thailand Business News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "태국, 2026년 투자 및 관광 회복에 힘입어 2% 성장 전망",
+      "summary": "- 태국은 투자 및 관광 산업 회복에 따라 2026년에 2%의 경제 성장을 전망함.\n- 관광 산업은 태국 경제 성장의 주요 동력으로 작용할 것으로 예상됨.\n- 정부는 투자 유치 및 관광객 증가를 위한 정책을 지속적으로 추진할 계획임.",
+      "full_translated": "Thai Enquirer에 따르면 태국은 투자 및 관광 회복이 지속됨에 따라 2026년에 2%의 완만한 성장을 보일 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 경제 성장 전망은 관광객들에게 간접적인 영향을 미칠 수 있으며, 경제 상황은 여행 경험의 질과 관련될 수 있음. 기존 뉴스에 포함되었으나 경제 성장률에 대한 구체적인 언급이 있어 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Forecasts Modest 2% Growth in 2026 as Investment and Tourism Recovery Continue - Thai Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoYWllbnF1aXJlci5jb20vMjAyNC8wMi90aGFpbGFuZC1mb3JlY2FzdHMtbW9kZXN0LTItZ3Jvd3RoLWluLTIwMjYtYXMt investment-and-tourism-recovery-continuevSAQA?oc=5",
+          "source": "Thai Enquirer"
+        }
+      ],
+      "collected_at": "03:20",
       "date": "2026-02-17"
     }
   ]
