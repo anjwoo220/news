@@ -16572,14 +16572,9 @@
       "summary": "- 2년 전 비엔나에서 열릴 예정이었던 테일러 스위프트 콘서트 공격을 계획한 21세 오스트리아 남성이 테러 혐의로 기소됨.\n- 용의자는 테러 단체 회원, 폭발물 제조, 불법 무기 조달 혐의를 받고 있으며, 유죄 판결 시 최대 20년 징역형에 처해질 수 있음.\n- 미국 CIA의 정보 제공으로 체포되었으며, 당시 콘서트는 취소되었고, 관련자 3명이 체포됨.",
       "full_translated": "외신 보도에 따르면 2년 전 비엔나에서 열릴 예정이었던 가수 테일러 스위프트의 콘서트 공격을 계획한 주요 용의자가 테러 혐의 등으로 기소되어 20년 이상의 징역형을 받을 수 있습니다. 오스트리아 검찰은 용의자인 베란 A가 테러 단체의 일원이며 폭발물을 제조하고 불법적으로 무기를 구하려 했다고 밝혔습니다. 그는 또한 무장 단체 ISIS를 선전한 혐의도 받고 있습니다. 미국 CIA의 정보 제공으로 오스트리아 당국에 체포되었으며, 유죄 판결 시 20년형을 받을 수 있습니다. 이 사건으로 인해 비엔나에서 열릴 예정이었던 테일러 스위프트의 콘서트가 취소되었으며, 당시 관련자 3명이 체포되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "테러 관련 소식은 여행객 안전에 영향을 미칠 수 있으므로 정보를 제공합니다. 콘서트 취소로 인해 여행 계획에 차질이 생길 수 있습니다.",
-      "event_info": {
-        "date": "2024-02-16",
-        "location": "비엔나",
-        "price": null,
-        "location_google_map_query": "비엔나"
-      },
+      "event_info": "{'date': '2024-02-16', 'location': '비엔나', 'price': None, 'location_google_map_query': '비엔나'}",
       "references": [
         {
           "title": "หนุ่มออสเตรียโดนข้อหาก่อการร้าย วางแผนโจมตีคอนเสิร์ต \"เทย์เลอร์ สวิฟต์\"",
@@ -16588,23 +16583,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfeIvNEbm1UA.jpg"
         }
       ],
-      "collected_at": "01:32",
+      "collected_at": "1:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfeIvNEbm1UA.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.thairath.co.th/news/foreign/2914624",
+      "source": ""
     },
     {
       "title": "인도 관광객, 태국 공항에서 멸종 위기 원숭이 밀수 시도",
       "summary": "- 인도 관광객이 수하물에 숨겨 멸종 위기 원숭이를 밀수하려다 태국 공항에서 적발됨.\n- 당국은 해당 관광객을 체포하고 원숭이들을 안전하게 구조함.\n- 밀수 시도에 대한 추가 조사 진행 중.",
       "full_translated": "인도 관광객이 태국 공항에서 수하물에 숨겨 멸종 위기 원숭이를 밀수하려다 적발되었습니다. 당국은 해당 관광객을 체포하고 원숭이들을 안전하게 구조했으며, 밀수 시도에 대한 추가 조사를 진행하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "동물 밀수는 국제법 위반이며, 공항 보안에 대한 우려를 야기합니다. 여행객의 안전과 관련된 사항으로 볼 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국 공항",
-        "price": null,
-        "location_google_map_query": "태국 공항"
-      },
+      "event_info": "{'date': None, 'location': '태국 공항', 'price': None, 'location_google_map_query': '태국 공항'}",
       "references": [
         {
           "title": "Indian tourist caught smuggling endangered monkeys hidden in luggage at Thailand airport - MSN",
@@ -16613,23 +16605,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:32",
+      "collected_at": "1:32",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNanBkRmk4blgzMGlsdW5ra3dMUVl3RjRoNC01SVlmQUg2VWpUUkxGQzN1eGdnRmFTMW5JNmFlck9EekZBQi1LM3hSOUF5M09naGExb01pcHlWS1VpWEdIVUNwOFBMXzFjYnBCZjBSSWNuSFRZa0k4aEpMWHVSY0w4Nko1aTR1Y0hUMm5CR1VhaHJza2VJVkgwSTlqVE9naW1wRV85bS10ZXdUUHRJb3dYemNqejRONjZJdmhSSzhvcVF3MlplVTVuTmgwR3hPZ1I2U3F3?oc=5",
+      "source": ""
     },
     {
       "title": "2026년 태국 설날 축제, 말의 해의 길조를 열다",
       "summary": "- 태국은 2026년 설날을 기념하는 축제를 개최합니다.\n- 이 축제는 말의 해를 상징하며 행운을 가져다 줄 것으로 기대됩니다.\n- 자세한 내용은 Travel Daily Media에서 확인할 수 있습니다.",
       "full_translated": "Amazing Thailand Happy Chinese New Year 2026 Festival serves as an auspicious opening to the Year of the Horse  Travel Daily Media",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 설날 축제 정보는 여행객에게 문화 체험 기회를 제공하므로, 중간 정도의 영향력을 가진다고 판단했습니다. 2026년이라는 시점이 멀어 현재 시점에서는 중요도가 낮습니다.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "태국 전역",
-        "price": "미정",
-        "location_google_map_query": "태국 설날 축제"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '태국 전역', 'price': '미정', 'location_google_map_query': '태국 설날 축제'}",
       "references": [
         {
           "title": "Amazing Thailand Happy Chinese New Year 2026 Festival serves as an auspicious opening to the Year of the Horse - Travel Daily Media",
@@ -16638,23 +16627,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:32",
+      "collected_at": "1:32",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3NLanpCbG9Nd2xpQkwxR3NLOUIwVnNTWVh2bkh3WG9IMW5qdWFEdWoxWkxTWmFlOWoxbDVvUm5VaEZnTGs0MkRBTmJSX2ZJQ0ZCUjc0bkNJNWVGMkw3cHdoSUNNZm4xUVVTamJPSUdJazRmM21xUlZKX2RRWGNLb0QtbURKekwxOGJFLXVGUmVhZnd3UjJIcGR4dWthbUZVZGd6ZW9JNExic1M0VXZfT0pnaFNBaENBMEowcThWdnpSaldhdnE4Vld6RHhibkxrVmZodmRhRnFKdERz?oc=5",
+      "source": ""
     },
     {
       "title": "태국 경제, 관광 감소와 팬데믹에도 회복세 보여 - South China Morning Post",
       "summary": "- 태국 경제가 관광 산업의 침체와 팬데믹 상황 속에서도 회복세를 나타내고 있다는 South China Morning Post의 보도입니다.\n- 자세한 내용은 기사를 통해 확인할 수 있습니다.\n- 경제 회복의 요인과 전망에 대한 분석이 포함될 것으로 예상됩니다.",
       "full_translated": "태국 경제, 관광 감소와 팬데믹에도 회복세 보여 - South China Morning Post",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 회복세는 장기적으로 관광 산업에도 긍정적인 영향을 미칠 수 있으나, 당장의 여행 계획에 직접적인 영향을 주는 정보는 아니므로 중간 점수를 부여합니다. 경제 상황은 여행객의 소비 및 물가에 간접적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s economy rebounds despite tourism decline, pandemic - South China Morning Post",
@@ -16662,22 +16648,20 @@
           "source": "South China Morning Post"
         }
       ],
-      "collected_at": "01:32",
-      "date": "2026-02-17"
+      "collected_at": "1:32",
+      "image_url": "",
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVERoZGwzUGlmVXhOOUJWTDNZcTlNZWxoTm9fbE04QV95d0txRGxpbTE2VkEwMEJfVUNsc2MyY2ZzS2JoNFc3LUFvU1B1aWk4TXFZVmtPaFlGekRKTUM0QW1uOW1KY29JUE9PaW4wQTVDS3NTTnZWYXVTZ1RMTy1abGk1Q0NBMmVsMzU3VmphUUZwLVBWMkthalRyek9YSE9RWW9RdDFiUlV5b3UzYkVncVlDd1d6RGFzUlJ1bHN30gG-AUFVX3lxTE5nOXA3NGRKdnJnSzVjYU5qQjB4RTdMVTVLT2szdVpnUTFIdzItQnFjcE44SHRZM19TX09Fb3hiWFVBMVJ3N19CU3BBOE1wQUkxN3lGZEtDeEd3STNKeTcxbkVOajJLeDR0c2laSkcwcEJhTVBxQks5ZHhvRVhfVlRHSWhvVlk4SGtib0RURUJfcG1FejNSX081WDVRVy1rSDJubGpqREFaZUpOaFBSRE9OTFlkb1BNU3kxM2RnTnc?oc=5",
+      "source": ""
     },
     {
       "title": "AGIBOT, 스마트 관광 및 국가 디지털 전환을 위한 휴머노이드 로봇 쇼케이스로 태국 시장 진출 가속화",
       "summary": "- AGIBOT이 태국 시장에 진출하여 스마트 관광과 디지털 전환을 위한 휴머노이드 로봇 기술을 선보입니다.\n- 이 회사는 자동화 솔루션을 통해 태국 관광 산업의 혁신을 목표로 합니다.\n- AGIBOT의 기술은 다양한 산업 분야에 적용될 수 있으며, 태국의 디지털 경제 발전에 기여할 것으로 기대됩니다.",
       "full_translated": "AGIBOT은 스마트 관광 및 국가 디지털 전환을 위한 휴머노이드 로봇 쇼케이스로 태국 시장 진출을 가속화합니다. Yahoo Finance Singapore",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업의 디지털 전환에 대한 내용으로, 장기적으로 여행 경험에 영향을 줄 수 있으나, 즉각적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "AGIBOT Accelerates Thailand Market Entry with Humanoid Robotics Showcase for Smart Tourism and National Digital Transformation - Yahoo Finance Singapore",
@@ -16686,8 +16670,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:32",
+      "collected_at": "1:32",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbFp3a3F0bTdDaGNIUnA2UEhPV2NjaFhKTHdDeTVuVzNNZGhPbHZ1TElQaklwZzJaU2xhOG9lcmFSZTNlcGVieWxsWmRRN1RrZ3ZqV2gtNmx3ZTJoMzRodjVKMmE2YUxEdjc3R1VLcjMyMTNQTWxyWU9GUjVJaC1uNTM5b1hZS0QxVEY3cnhSZ01lRWc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕 삼센 도로 싱크홀 복구, 2027년에 완료 예정",
+      "summary": "- 방콕 삼센 도로의 싱크홀 복구 작업이 2027년 10월에 완료될 예정입니다.\n- 싱크홀은 2026년 9월에 발생하여 교통 혼잡을 야기했으며, 현재 복구 작업 중입니다.\n- 복구 작업에는 좁은 도로, 지하철 건설, 수도관 손상 등 여러 요인으로 인해 어려움이 있습니다.",
+      "full_translated": "방콕포스트 보도에 따르면, 방콕 주지사 차차트 시티푼트는 시의회 회의에서 바지라 병원과 삼센 경찰서 사이의 삼센 도로 구간 복구가 2027년 10월 이전에 완료될 것으로 예상한다고 밝혔습니다. 해당 구간은 30 x 30미터 크기에 깊이 약 50미터의 싱크홀로 2026년 9월에 붕괴되어 방콕에서 가장 혼잡한 지역 중 한 곳의 교통을 마비시켰습니다. 해당 지역은 태국 고속철도청(MRTA)이 건설 중인 퍼플 라인의 남쪽 연장선에 속하며 복구를 위해 폐쇄된 상태입니다. 좀 통 의회 의원 수티차이 위라쿨선톤은 싱크홀로 인해 바지라 병원 환자와 인근 사업체들이 특히 어려움을 겪고 있다고 말했습니다. 이에 대해 차차트 씨는 좁은 도로로 인해 MRTA가 철도 노선을 위한 스택 터널을 건설해야 하는 등 여러 요인으로 인해 복구 작업이 복잡하다고 말했습니다. 수도국 상수도 사업소와 연결된 주요 수도관도 붕괴로 부분적으로 손상되었습니다. 그는 복구의 초기 단계에는 인근 건물에 영향을 미칠 수 있는 추가적인 토양 이동을 방지하기 위해 공극을 채우는 작업이 포함된다고 말했습니다. 계약자들은 이후 터널 수리를 진행하고 현장 주변에 옹벽을 설치할 예정입니다. 교통 관리를 위해 시청은 상칼록 도로와 수코타이 도로 사이의 구간을 단일 차선 통행을 허용하는 대신 완전히 폐쇄했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "교통에 미치는 영향이 크고, 완료 시점이 1년 이상 남아있어 여행 계획에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": "2027-10-01",
+        "location": "Samsen Road between Vajira Hospital and Samsen police station, Bangkok",
+        "price": "N/A",
+        "location_google_map_query": "Samsen Road, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Samsen Road sinkhole repairs to finish in 2027",
+          "url": "https://www.bangkokpost.com/thailand/general/3198883/samsen-road-sinkhole-repairs-to-finish-in-2027",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198883_260217015146_700.jpg"
+        }
+      ],
+      "collected_at": "02:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198883_260217015146_700.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "방콕시, 시청 광장 공공 주차장 개방: 야간 및 주말 무료 (최대 5시간)",
+      "summary": "- 방콕시, 시청 앞 란 콘 무앙 광장 지하 주차장을 일반에 개방.\n- 평일 저녁 6시부터 아침 6시까지, 주말 및 공휴일은 24시간 이용 가능.\n- 최초 15분 무료, 이후 시간당 20바트 요금 적용 (5시간 이후 30바트).",
+      "full_translated": "방콕 수도청(BMA)이 시청 운영 시간 외에 란 콘 무앙(시청 광장) 아래에 있는 BMA 공공 주차장을 일반에 개방한다고 방콕 주지사 차차트 시티푼트가 밝혔습니다. 2층 지하 주차장은 500대의 차량을 수용할 수 있으며, 평일 오후 6시부터 오전 6시까지, 주말 및 공휴일에는 24시간 개방됩니다. 주차장은 보안 요원이 감시하고 있으며 66개의 화장실이 있습니다. 주차장은 원래 정부 차량과 방문 관리를 위해 예약되어 있었기 때문에 근무 시간 외, 주말 및 공휴일에는 거의 사용되지 않았습니다. 2월 1일에 시작된 이 이니셔티브는 왓 수탓, 자이언트 스윙, 샌 차오포 스아와 같은 다양한 관광 명소가 있는 프라 나콘 지역을 방문객이 탐험하도록 돕기 위한 것입니다. 이 지역은 관광객들에게 인기가 있지만 프라 나콘 지역은 특히 주말과 공휴일에 주차 공간이 부족합니다. 방문객은 처음 15분 동안 무료로 주차할 수 있으며, 이후 처음 5시간 동안 시간당 20바트의 요금이 적용됩니다. 6시간 이후부터는 시간당 30바트의 요금이 적용됩니다. 오토바이 운전자는 무료로 주차할 수 있지만 다음 날 오전 6시 이전에 차량을 이동해야 합니다. 월 2,000바트의 요금으로 월별 임대할 수 있는 20개의 자리가 있습니다. 주차장을 사용하고 싶다면 언제든지 환영합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "프라나콘 지역의 주차난 해소에 기여, 여행객 편의 증진. 야간 및 주말에 무료 또는 저렴한 비용으로 주차 가능.",
+      "event_info": {
+        "date": "N/A",
+        "location": "란 콘 무앙 광장 지하 주차장 (방콕 시청 앞)",
+        "price": "최초 15분 무료, 이후 시간당 20바트 (5시간 이후 30바트), 오토바이 무료",
+        "location_google_map_query": "Lan Khon Muang, Bangkok"
+      },
+      "references": [
+        {
+          "title": "BMA opens car park for public use",
+          "url": "https://www.bangkokpost.com/thailand/general/3198908/bma-opens-car-park-for-public-use",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198908_260217015000_700.jpg"
+        }
+      ],
+      "collected_at": "02:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198908_260217015000_700.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "태국, 교통 안전 개선을 위한 데이터 활용 노력 강화",
+      "summary": "- 태국이 교통사고 사망자 감소를 위해 일본의 성공 사례를 벤치마킹하고 있습니다.\n- 방콕에서 열린 제3회 태국 도로 교통 안전 포럼에서 이 문제가 강조되었습니다.\n- 일본은 안전 기술 발전, 안전 시스템 관리, 전국적인 안전 문화 조성 등 3단계 접근 방식을 통해 도로 사망자를 꾸준히 줄여왔습니다.",
+      "full_translated": "태국은 도로 교통 사망자 감소에 대한 일본의 장기적인 성공에서 영감을 받아 도로 안전 분야에서 중요한 학습 및 개혁 시기에 접어들고 있습니다. 최근 방콕에서 열린 제3회 태국 도로 교통 안전 포럼에서 이 메시지가 강조되었습니다. 태국 사고 연구 센터(Tarc)가 주최한 이 행사에는 고속도로국, 정부 기관 및 사고 예방 단체의 관계자들이 모였습니다. 와세다대학교 창조과학공학부 토목환경공학과 아키노리 모리모토 교수는 일본의 교통 안전에 대한 기조 연설을 통해 동아시아 국가가 수십 년에 걸쳐 체계적인 조치를 통해 도로 사망자를 꾸준히 줄여온 방법을 설명했습니다. 그는 일본의 접근 방식이 3단계로 발전했다고 말했습니다. 안전 기술 발전, '안전 시스템' 관리 프레임워크 채택, 전국적인 도로 안전 문화 조성이었습니다. 일본의 도로 안전 계획(2021~2026)은 연간 사망자 수를 2026년까지 2,000명 미만으로 줄이는 것을 목표로 하고 있습니다(2021년 2,839명에서 감소). 또한 일본은 매년 135만 명 이상의 도로 사망자를 줄이는 데 도움이 되도록 국제 협력과 지식 공유를 강조하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 교통 안전 문제는 여행객에게도 중요한 정보이며, 일본의 성공 사례를 통해 개선 노력이 이루어지고 있다는 점을 알립니다.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Harnessing data to boost road safety",
+          "url": "https://www.bangkokpost.com/thailand/general/3198898/harnessing-data-to-boost-road-safety",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970928_700.jpg"
+        }
+      ],
+      "collected_at": "02:27",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970928_700.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "송클라 호수 가로지르는 다리 건설 계획 발표",
+      "summary": "- 태국 농촌 도로국(DRR)은 송클라와 팟탈룽 지방 간 교통 혼잡 완화 및 경제/관광 연결 강화를 위해 47억 바트 규모의 송클라 호수 횡단 다리 건설 계획 발표.\n- 공사 입찰 절차 완료, 낙찰 업체 공식 발표 대기 중이며 올해 착공하여 2029년 완공 목표.\n- 다리 완공 시 두 지방 간 이동 시간이 약 2시간에서 15분으로 단축되고 도로 안전성 향상 기대.",
+      "full_translated": "농촌 도로국(DRR)은 교통 혼잡을 완화하고 송클라와 팟탈룽 지방 간의 경제 및 관광 연결을 강화하기 위해 47억 바트의 비용으로 송클라 호수를 가로지르는 다리를 건설할 계획을 발표했습니다. DRR 소식통에 따르면 이 프로젝트는 입찰 절차를 완료했으며 낙찰 업체에 대한 공식 발표를 기다리고 있습니다. 건설은 올해 시작되어 2029년에 완료될 것으로 예상됩니다. 완공되면 이 다리는 두 지방 간의 이동 시간을 약 2시간에서 15분으로 단축하는 동시에 도로 안전성을 향상시킬 것입니다. 이 프로젝트는 지역 연결성을 강화하고, 운송 효율성을 개선하며, 물류를 지원하고, 관광을 촉진하는 동시에 지역 주민의 전반적인 삶의 질을 향상시킬 것으로 예상됩니다. 경로는 팟탈룽 카오 차이손 지구의 촘 타논 탐본에 있는 농촌 고속도로 4004의 킬로미터 마커 3+300에서 시작됩니다. 송클라 호수를 가로질러 송클라 크라사에 신 지구 코 야이 탐본의 반 램 양에 있는 송클라 지방 행정 기구 도로에서 끝납니다. 이 구조물은 각 방향으로 2개의 차선으로 구성되며 프리스트레스트 콘크리트 박스 거더와 케이블 지지 부분을 사용합니다. 길이는 7km이며 지역 문화적 정체성을 반영하는 디자인 요소를 통합합니다. DRR은 또한 도로 네트워크 개발 계획을 준비했습니다. 송클라 쪽에서는 다리가 연결됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객의 이동 편의성 및 시간 단축에 기여할 수 있는 새로운 인프라 건설 계획으로, 여행 관련 정보에 해당.",
+      "event_info": {
+        "date": null,
+        "location": "송클라 호수",
+        "price": "47억 바트 (예상)",
+        "location_google_map_query": "Songkhla Lake"
+      },
+      "references": [
+        {
+          "title": "Department unveils plan for Songkhla Lake bridge",
+          "url": "https://www.bangkokpost.com/thailand/general/3198953/department-unveils-plan-for-songkhla-lake-bridge",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198953_260217014254_700.jpg"
+        }
+      ],
+      "collected_at": "02:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198953_260217014254_700.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "방콕 시청, 실롬선 연장 관련 의견 수렴",
+      "summary": "- 방콕 시청은 방와에서 딸링찬까지 실롬선 연장 사업에 대한 시장 조사 실시.\n- 총 140억~150억 바트 규모의 대중교통 프로젝트이며, 민간 부문의 의견을 수렴하여 투자 모델 개선 예정.\n- 현재 정책은 총비용 모델을 선호하며, 정부의 단일 요금 정책에 따라 요금 수준을 직접 통제할 수 있음.",
+      "full_translated": "방콕 시청은 방와에서 딸링찬까지 실롬선 연장 사업에 대한 시장 조사에 착수했습니다. 이 프로젝트는 140억~150억 바트 규모의 대중교통 사업입니다.\n\n이번 협의는 민관 협력(PPP)법에 따라 진행되며, 예상 승객 수요와 경제 상황에 맞춰 투자 모델을 개선하기 위해 민간 부문의 의견을 수렴하는 것을 목표로 합니다. 방콕 광역시는 인프라 설계, 역 위치, 환경 영향 평가, 재정적 타당성, 운영 계획 및 노선에 따른 대중 참여를 다루는 연구를 완료했습니다.\n\n방콕 교통수송부의 싯티폰 솜키드산 국장은 3가지 PPP 옵션이 처음 고려되었지만 현재 정책은 총비용 모델을 선호한다고 밝혔습니다. 이 모델에서는 국가가 요금 수입을 보유하면서 민간 운영업체와 서비스 운영 계약을 체결합니다. 이를 통해 당국은 통근자들의 생활비 부담을 완화하기 위한 정부의 단일 요금 정책에 따라 요금 수준을 직접 통제할 수 있습니다. 이 프로젝트는 원래 내무부 산하 BMA에서 감독했습니다. 그러나 국가 교통 정책 위원회의 결정에 따라 실롬선의 책임이 교통부로 이전되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "실롬선 연장 계획에 대한 의견 수렴 소식. 진행 상황에 따라 교통 혼잡 개선에 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 실롬선"
+      },
+      "references": [
+        {
+          "title": "City Hall gathers feedback on Silom Line extension",
+          "url": "https://www.bangkokpost.com/thailand/general/3198943/city-hall-gathers-feedback-on-silom-line-extension",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198943_260217014723_700.jpg"
+        }
+      ],
+      "collected_at": "02:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198943_260217014723_700.jpg",
       "date": "2026-02-17"
     }
   ]
