@@ -2997,6 +2997,9 @@ if query_params.get("mode") == "admin":
         app_mode = "Admin Console"
 
 if app_mode == "Admin Console":
+    # Definitive fix: add class to Top-Level Body via JS (Iframe bypass)
+    st.markdown("<script>window.parent.document.body.classList.add('admin-mode-active')</script>", unsafe_allow_html=True)
+    st.markdown('<div class="admin-mode-active">', unsafe_allow_html=True)
     # Exit Button
     st.sidebar.markdown("---")
     if st.sidebar.button("🚪 관리자 모드 종료", width='stretch'):
@@ -3011,15 +3014,16 @@ if app_mode == "Admin Console":
         utils.render_custom_header("🛠️ 통합 운영 관제탑 (Admin Console)", level=1)
         
         # Tabs for better organization
-        # Tabs for better organization
         # Main Tab Layout
-        # Main Tab Layout
-        tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "📘 가이드 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽", "🎒 투어 관리"])
+        # Using a container to force full width and reset layout shifts
+        with st.container():
+            tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12 = st.tabs(["📊 상태/통계", "✏️ 뉴스 관리", "🛡️ 커뮤니티", "📢 설정/공지", "📡 RSS 관리", "🎉 이벤트/여행", "🏨 호텔 관리", "📘 가이드 관리", "⚙️ 소스 관리", "🌴 매거진 관리", "🎨 인포그래픽", "🎒 투어 관리"])
         
         # --- Tab 1: Stats & Health ---
         with tab1:
             st.subheader("시스템 상태")
-            col_list, col_form = st.columns([3, 1])
+            # Improved ratio for desktop visibility
+            col_list, col_form = st.columns([3.2, 1])
             
             with col_list:
                 st.markdown("#### 📋 투어 현황 마스터보드")
@@ -3197,7 +3201,7 @@ if app_mode == "Admin Console":
             with col_u:
                 agoda_direct_url = st.text_input("아고다 직통 URL", key="agoda_direct_url", placeholder="https://www.agoda.com/ko-kr/...")
             
-            if st.button("💾 직통 링크 저장", key="save_agoda_url"):
+            if st.button("💾 직통 링크 저장", key="save_agoda_url", use_container_width=True):
                 if not agoda_hotel_name or not agoda_direct_url:
                     st.error("호텔 이름과 URL을 모두 입력해주세요.")
                 elif not agoda_direct_url.startswith('http'):
@@ -4031,6 +4035,7 @@ if app_mode == "Admin Console":
 
         # --- Tab 12: Tour Management (New) ---
         with tab12:
+            st.markdown('<div class="admin-tab-container">', unsafe_allow_html=True)
             st.subheader("🎒 투어 상품 데이터 관리")
             st.info(f"데이터는 **Google Sheets**와 `data/tours.json`에 이중 저장됩니다.\n시트: `{utils.TOURS_SHEET_NAME}`")
             
@@ -4194,6 +4199,10 @@ if app_mode == "Admin Console":
                 import traceback
                 st.error(f"오류 발생: {e}")
                 st.code(traceback.format_exc())
+            
+            st.markdown('</div>', unsafe_allow_html=True)
+    
+    st.markdown('</div>', unsafe_allow_html=True) # Close admin-mode-active
 
 else:
     # --- Viewer Mode ---
