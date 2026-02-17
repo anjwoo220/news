@@ -18486,14 +18486,9 @@
       "summary": "- 라드룸깨우 경찰, 총기 소지 '꽝인' 추적에 총력.\n- 해당 지역 여러 학교, 학생 안전 위해 임시 휴교 결정.\n- 경찰, 상황 진전 있을 시 추가 보고 예정.",
       "full_translated": "경찰이 총기를 소지한 '광인'을 쫓고 있습니다. 최근 라트룸 깨우 지역의 여러 학교가 긴급 휴교를 명령했습니다. 2069년 2월 17일, 라트룸 깨우 경찰서가 총기를 소지하고 숨어있는 '광인'을 추적하고 있다는 보고가 있었습니다. 팟툼타니 지방 라트룸 깨우 지역의 여러 학교는 2069년 2월 18일 수요일 학생들의 안전을 위해 임시 휴교를 발표했습니다. 상황이 진전되면 추가 보고가 있을 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 관련 사건으로 여행객 안전에 잠재적 위협. 학교 휴교령은 해당 지역 혼란을 암시.",
-      "event_info": {
-        "date": "2069-02-18",
-        "location": "라드หลุมแก้ว 지역, 팟툼타니",
-        "price": null,
-        "location_google_map_query": "ลาดหลุมแก้ว, ปทุมธานี"
-      },
+      "event_info": "{'date': '2069-02-18', 'location': '라드หลุมแก้ว 지역, 팟툼타니', 'price': None, 'location_google_map_query': 'ลาดหลุมแก้ว, ปทุมธานี'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -18502,23 +18497,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPrw0QekmKGPD.jpg"
         }
       ],
-      "collected_at": "00:31",
+      "collected_at": "0:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPrw0QekmKGPD.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/crime/2914843",
+      "source": ""
     },
     {
       "title": "방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교",
       "summary": "- 파툼타니 주 라드 룸 깨우 지역에서 총기를 소지한 남성이 난동을 부려 경찰이 추적 중.\n- 이로 인해 해당 지역 여러 학교가 학생 안전을 위해 임시 휴교를 결정.\n- 휴교하는 학교 목록이 발표되었으며, 상황이 진전되면 추가 보고 예정.",
       "full_translated": "파툼타니 주 라드 룸 깨우 지역의 학교들이 총기를 소지한 '남성 난동' 사건 발생 후 임시 휴교를 명령했습니다. 사건은 랏룸깨우 경찰서가 총기를 소지한 '남성 광인'을 추적하는 과정에서 발생했습니다. 2026년 2월 18일 0시 10분 현재, 랏룸깨우 지역의 여러 학교가 학생들의 안전을 위해 2026년 2월 18일 수요일 임시 휴교를 결정했습니다. 휴교하는 학교는 다음과 같습니다: 왓 부아 콴 학교, 삼와 위타야 학교, 부아깨우 껫손 학교, 쁘라춤 위타야 학교, 부아수완 쁘라딧 학교, 왓 네깜마람 학교, 클롱락 콘 학교, 사왕랏 밤룽 학교, 왓 보 응언 학교, 반 클롱쾅 본 학교, 클롱랏 창 학교, 춤촌 왓 나마이 학교, 상카락 밤룽 학교, 왓 람마하멕 학교 등입니다. 상황이 진전되면 계속해서 보고하겠습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총기 사건으로 인한 학교 휴교는 여행객 안전에 잠재적 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 해당 지역 방문 예정인 여행객은 참고 필요.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "파툼타니 주 라드 룸 깨우 지역",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo, Pathum Thani"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': '파툼타니 주 라드 룸 깨우 지역', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo, Pathum Thani'}",
       "references": [
         {
           "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
@@ -18527,23 +18519,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPsLYYSjfFTq9.jpg"
         }
       ],
-      "collected_at": "00:31",
+      "collected_at": "0:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPsLYYSjfFTq9.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/local/2914844",
+      "source": ""
     },
     {
       "title": "방콕에서 미국인, 미얀마 여성과의 관계 회복 시도 중 살해당해",
       "summary": "- 방콕에서 미국인 남성이 미얀마 여성과의 관계를 재개하려다 흉기에 찔려 사망.\n- 미얀마 남성 4명이 범행 후 경찰에 자수.\n- 피해자는 55세의 콜 스테인 히스(Cole Stein Heath)로, 흉기에 찔린 상처와 다리 골절을 입음.",
       "full_translated": "방콕포스트에 따르면, 2026년 2월 17일, 미얀마 남성 4명이 방콕에서 미국인 관광객을 폭행해 살해한 혐의로 경찰에 자수했습니다. 이들은 숨진 미국인 남성이 미얀마 여성과의 관계를 재개하려던 시도에 불만을 품고 범행을 저지른 것으로 알려졌습니다. 경찰은 현장에서 흉기와 쇠파이프를 소지한 채 대기 중이던 용의자들을 체포했습니다. 피해자는 55세의 콜 스테인 히스(Cole Stein Heath)로, 흉기에 찔린 상처와 다리 골절을 입은 채 발견되었습니다. 용의자들은 피해자가 흉기를 들고 먼저 공격했으며, 이에 대응하여 흉기와 쇠파이프를 사용했다고 진술했습니다. 경찰은 추가 조사를 진행 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으므로 정보 제공 가치가 있음. 특히 방콕에서 발생했으므로 여행객 주의가 필요.",
-      "event_info": {
-        "date": "2026-02-17",
-        "location": "방콕, Chom Thong 지역, Phuttha Bucha 39 Road",
-        "price": null,
-        "location_google_map_query": "Phuttha Bucha 39 Road, Chom Thong, Bangkok"
-      },
+      "event_info": "{'date': '2026-02-17', 'location': '방콕, Chom Thong 지역, Phuttha Bucha 39 Road', 'price': None, 'location_google_map_query': 'Phuttha Bucha 39 Road, Chom Thong, Bangkok'}",
       "references": [
         {
           "title": "American slain trying to resume love affair",
@@ -18552,23 +18541,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3199090_700.jpg"
         }
       ],
-      "collected_at": "00:31",
+      "collected_at": "0:31",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3199090_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3199090/american-slain-trying-to-resume-love-affair",
+      "source": ""
     },
     {
       "title": "미국-이란, 제네바에서 핵 협상 시작… 트럼프, 합의 기대",
       "summary": "- 미국과 이란이 제네바에서 핵 프로그램 문제 해결을 위한 간접 협상을 시작함.\n- 도널드 트럼프 대통령은 이란이 합의 불이행의 결과를 원치 않기 때문에 합의가 이루어질 것이라고 믿음.\n- 협상에는 스티브 윗코프 미국 특사와 자레드 쿠슈너가 참여하며, 오만이 중재 역할을 수행.",
       "full_translated": "미국과 이란 관리들이 핵 프로그램에 대한 해결책을 찾기 위해 제네바에서 간접 협상을 시작했습니다. 도널드 트럼프 대통령은 이란이 합의 불이행의 결과를 겪고 싶어하지 않기 때문에 합의가 이루어질 것이라고 믿고 있습니다.\n\n2069년 2월 17일 화요일, 미국과 이란 관리들은 오랫동안 지속된 핵 프로그램 분쟁에 대한 해결책을 찾기 위해 제네바에서 간접 협상을 시작했습니다. 이란 최고 지도자는 미국의 정부 전복 시도가 실패할 것이라고 경고했습니다.\n\n미국과 이란의 관계는 지난 몇 달 동안 다시 긴장되었습니다. 미국은 이스라엘과 함께 작년 6월 이란의 핵 시설을 공습했으며, 이란 정부를 압박하기 위해 페르시아 만 지역에 전함을 보냈습니다. 도널드 트럼프 미국 대통령은 이란의 '정권 교체'가 일어날 수 있는 최선의 일이라고 말했습니다. 이란은 월요일 호르무즈 해협에서 군사 훈련을 시작했는데, 이 해협은 세계 주요 석유 운송 경로 중 하나이며 이란은 미국이 공격할 경우 이 항로를 폐쇄하겠다고 위협했습니다.\n\n로이터 통신은 협상에 정통한 소식통의 말을 인용해 스티브 윗코프 미국 특사와 자레드 쿠슈너가 오만의 중재 하에 아바스 아락치 이란 외무장관과 함께 협상에 참여하고 있다고 보도했습니다. 트럼프 대통령은 앞서 언론에 제네바 협상에 '간접적으로' 참여할 것이며 테헤란이 합의를 원한다고 믿는다고 말했습니다. 트럼프는 기자들에게 \"그들이 합의 불이행의 결과를 원한다고 생각하지 않는다\"라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 상황 변화는 여행 심리에 영향을 줄 수 있지만, 직접적인 위협은 아니므로 낮은 점수 부여. 현재 시각이 늦은 밤이므로, 아침 브리핑에 비해 우선순위가 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สหรัฐฯ-อิหร่าน เริ่มเจรจานิวเคลียร์ที่เจนีวา ทรัมป์เชื่อบรรลุข้อตกลง",
@@ -18577,23 +18563,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPrs1jVcAHfId.jpg"
         }
       ],
-      "collected_at": "00:31",
+      "collected_at": "0:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPrs1jVcAHfId.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/foreign/2914842",
+      "source": ""
     },
     {
       "title": "태국 정치인, 마약 스캔들 관련 논쟁 가열",
       "summary": "- 전 국회의원, 마약 관련 주장에 대해 공개 서한 통해 반박.\n- 정치적 동기 의혹 제기하며 명예훼손 시도 중단 촉구.\n- 법적 절차 진행 중이며, 법정에서 진실 밝힐 것을 강조.",
       "full_translated": "전 방콕 국회의원인 '티싸나'는 '아마랏'에게 보내는 공개 서한을 통해 마약 관련 주장에 반박했습니다. 정책으로 경쟁할 수 없으니 비열한 방법으로 명예를 훼손하려 한다고 비난하며, 추문 조성을 위해 아이들과 가족을 정치판에 끌어들이는 것을 중단하라고 촉구했습니다. 티싸나는 SNS에 아마랏 초크파밋꾼 여사에 대한 공개 서한을 게시하며, 이는 정책 비판이 아닌 신뢰를 떨어뜨리기 위한 표준적인 책략이라고 주장했습니다. 이유로 논쟁할 수 없고, 사실로 반박할 수 없고, 정책 분야에서 질 때 도덕 공격으로 싸움을 격하시키며, 모호한 힌트를 던져 사회적으로 '의심'하게 만든다고 덧붙였습니다. 증거 대신 모호함을 이용하려는 것은 비열하고 비겁하며 민주주의 문화를 훼손하는 행위입니다. 진정한 좌파는 적법 절차를 준수해야 하며, 소셜 미디어에서 마녀사냥을 하거나 비윤리적인 집단 비난을 해서는 안 됩니다. 자신을 '진보적'이라고 주장하면서 마녀사냥 방식을 사용하는 정치는 자신들이 반대한다고 주장하는 권력 구조와 다를 바 없습니다. 현재 이 문제는 사법 절차에 있으므로 자세한 질문에 답변하지 않겠으며, 언론을 통한 정보 제공은 사건에 영향을 미칠 수 있습니다. 법정에서 사실을 증명할 것이며, 이 문제는 자신뿐 아니라 십대 자녀를 포함한 가족에게도 영향을 미친다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 논쟁으로, 여행객에게 직접적인 영향은 적으나 태국 사회 분위기를 간접적으로 보여줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ธิษะณา” โต้ “อมรัตน์” เรื่องยาเสพติด จี้หยุดลากเด็กมาสู่การเมืองเพื่อสร้างเรื่องอื้อฉาว",
@@ -18602,8 +18585,146 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMOwhSM61AEmTZ.jpg"
         }
       ],
-      "collected_at": "00:31",
+      "collected_at": "0:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMOwhSM61AEmTZ.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/politic/2914839",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동, 학교 긴급 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 발생\n- 해당 지역 학교들 긴급 휴교 조치\n- 경찰, 용의자 추적 중",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성의 난동으로 인해 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 지역 주민들의 안전 확보에 주력하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동은 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 이미 게시된 뉴스지만, 휴교 조치 등 상황 업데이트 발생.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "01:44",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역, 총기 소지 남성 난동으로 학교 임시 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성으로 인해 여러 학교가 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전 확보가 최우선.\n- 여행객들은 해당 지역 방문 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 중요.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성의 난동으로 인해 여러 학교가 임시 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역을 방문하는 여행객들은 안전에 유의해야 합니다. 현지 당국의 지침을 따르는 것이 중요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 관련 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 학교 휴교 정보는 여행 일정에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "01:44",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 사건, 학교 휴교령",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어감.\n- 경찰은 용의자를 추적 중이며, 학생들의 안전 확보에 주력하고 있음.\n- 해당 지역 여행 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 중요함.",
+      "full_translated": "급히, 라드룸깨우 경찰서에서 \"차이 클랑\" 추적에 박차 - 여러 학교 긴급 휴교령\n\n방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교\n\n\"어. 라드룸깨우\" 지역의 임시 휴교령이 내려진 학교 명단: 차이 클랑 사건 발생 후",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 기존 보도에서 상황 업데이트는 없지만, 여행자 안전 관련 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우 지역",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [],
+      "collected_at": "01:44",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 용의자 추적 중, 학교 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 주민들에게 안전에 유의할 것을 당부함.\n- 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 확인해야 함.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성이 난동을 부려 여러 학교가 임시 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역 주민들과 여행객들은 안전에 유의해야 합니다. 관련 학교 목록은 다음과 같습니다 (원문 기사 참조).",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동 사건은 여행객의 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여함. 특히 학교가 휴교할 정도의 상황은 심각성을 나타냄. 기존 뉴스에서 '추적 중'이라는 상황이 업데이트되어 포함.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우 지역",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 '광인' 추적 중 - 여러 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "01:44",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국 선거관리위원회, 20개 투표소에서 재검표 명령할 수도",
+      "summary": "- 태국 선거관리위원회(EC)는 투표 용지 수와 유권자 수의 불일치로 인해 20개 이상의 투표소에서 재검표를 명령할 것으로 예상됩니다.\n- 이는 투표한 사람 수와 실제 투표 용지 수 간에 차이가 발견된 데 따른 것입니다.\n- EC는 추가 재검표를 진행할 경우 2월 말에 실시될 것으로 예상한다고 밝혔습니다.",
+      "full_translated": "방콕 — 2026년 2월 17일, 태국 선거관리위원회(EC)는 투표 용지 수와 기록된 유권자 수 사이의 불일치가 발견된 후 20개 이상의 투표소에서 투표 재검표를 명령할 것으로 예상됩니다. 이번 조치는 투표 용지 수가 투표자 수와 일치하지 않는 소위 \"초과 투표 용지\"가 발견된 후 EC 사무국의 제안에 따른 것입니다. 이러한 불일치는 처음 EC 보고서 69 웹사이트(위원회의 비공식 선거 결과 플랫폼)에 게시된 수치를 통해 확인되었습니다. 데이터에 따르면 지역구 의원과 정당 명부 의원에 대해 기록된 투표율 간에 66,000명 이상의 유권자 격차가 있습니다. 이러한 불일치로 인해 EC는 공식 선거 결과를 발표하지 못하고 있습니다. 위원회가 추가 재검표를 진행하기로 결정하면 2월 말에 실시될 것으로 예상한다고 관계자들은 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 결과 지연 가능성은 정치적 불안정을 야기할 수 있으며, 이는 여행객에게 간접적인 영향을 미칠 수 있습니다. 직접적인 위협은 아니지만 상황을 주시할 필요가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai EC May Order Recounts at 20 Polling Units",
+          "url": "https://www.khaosodenglish.com/politics/2026/02/17/thai-ec-may-order-recounts-at-20-polling-units/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-EC-May-Order-Recounts-at-20-Polling-Units.jpg"
+        }
+      ],
+      "collected_at": "01:44",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-EC-May-Order-Recounts-at-20-Polling-Units.jpg",
       "date": "2026-02-18"
     }
   ]
