@@ -3864,7 +3864,7 @@ def analyze_hotel_reviews(hotel_name, rating, reviews, api_key, language="Korean
             "pros": ["string", "string", "string"],
             "cons": ["string", "string", "string"],
             "summary_score": {{
-                "cleanliness": 0, "location": 0, "comfort": 0, "value": 0
+                "cleanliness": integer 1-5, "location": integer 1-5, "comfort": integer 1-5, "value": integer 1-5
             }}
         }}
         """

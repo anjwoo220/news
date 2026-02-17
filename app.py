@@ -1890,10 +1890,10 @@ def render_tab_hotel():
                          if scores:
                              st.markdown(f"### {utils.t('score_title')}")
                              sc1, sc2, sc3, sc4 = st.columns(4)
-                             sc1.metric(utils.t("cleanliness"), f"{scores.get('cleanliness', 0)}/5")
-                             sc2.metric(utils.t("location"), f"{scores.get('location', 0)}/5")
-                             sc3.metric(utils.t("comfort"), f"{scores.get('comfort', 0)}/5")
-                             sc4.metric(utils.t("value"), f"{scores.get('value', 0)}/5")
+                             sc1.metric(utils.t("cleanliness"), f"{round(scores.get('cleanliness', 0))}/5")
+                             sc2.metric(utils.t("location"), f"{round(scores.get('location', 0))}/5")
+                             sc3.metric(utils.t("comfort"), f"{round(scores.get('comfort', 0))}/5")
+                             sc4.metric(utils.t("value"), f"{round(scores.get('value', 0))}/5")
                          
                          # --- 📢 팩트체크 결과 공유하기 (즉시 표시) ---
                          st.divider()
