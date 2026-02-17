@@ -18721,14 +18721,9 @@
       "summary": "- 방콕 인근 라드룸깨우 지역에서 발생한 총기 난동 사건으로 학교들이 휴교를 연장하고 있습니다.\n- 경찰은 용의자를 추적 중이며, 주민들의 안전 확보에 주력하고 있습니다.\n- 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따라야 합니다.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역의 안전 확보를 위해 노력하고 있습니다. 여행 중인 분들은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따르는 것이 좋습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여합니다. 기존 뉴스에 비해 상황이 지속되고 있다는 정보를 업데이트했습니다.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo, Thailand'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -18736,22 +18731,20 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "02:41",
-      "date": "2026-02-18"
+      "collected_at": "2:41",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "미국-이란, 핵 협상에서 '원칙적 합의' 도달… 추가 협상 필요",
       "summary": "- 이란, 미국과의 핵 프로그램 분쟁 해결을 위한 '원칙적 합의' 도달 발표\n- 제네바에서 협상 진행, 이란은 추가적인 노력이 필요하다고 언급\n- 미국은 아직 공식 반응 없음, 오만 외무장관은 긍정적 진전 평가",
       "full_translated": "이란 당국자는 미국과의 핵 프로그램 관련 분쟁 해결을 위한 '원칙적 합의'에 도달했다고 밝혔습니다. 제네바에서 진행된 협상 이후 나온 발표이지만, 아직 완료해야 할 과제가 남아있다고 인정했습니다. 외신 보도에 따르면 이란과 미국은 테헤란 정부의 핵 프로그램 해결책을 모색하기 위한 간접 협상을 마쳤습니다. 이란 측은 미국과의 '원칙적 합의'에 도달했다고 밝혔습니다. 아바스 아락치 이란 외무부 장관은 협상 종료 후 이러한 진전을 밝혔지만, 아직 완료해야 할 작업이 많다고 덧붙였습니다. 미국 측은 아직 공식적인 입장을 발표하지 않았습니다. 협상 중재 역할을 한 오만의 바드르 알부사이디 외무장관은 이번 협상이 '공동 목표와 관련 기술적 문제 해결을 향한 긍정적인 진전'으로 마무리되었다고 평가했습니다. 이번 회의는 도널드 트럼프 미국 대통령이 이란의 시위 진압과 핵 활동과 관련하여 군사력 사용을 위협한 이후에 열렸습니다. 미국은 이란이 합의에 도달하도록 압박하기 위해 페르시아만에 전함을 파견했습니다. 미국과 유럽 동맹국들은 이란이 핵무기를 개발하고 있다고 의심해 왔지만, 테헤란 정부는 이러한 혐의를 부인해 왔습니다. 스위스 제네바 주재 오만 대사관에서 열린 협상에 앞서 이란은 이번 논의가 자국의 핵 프로그램과 미국이 부과한 경제 제재 해제 가능성에 초점을 맞출 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "핵 협상 관련 뉴스로, 여행 안전에 직접적인 영향은 없으나, 외교적 관계 변화 가능성을 내포하고 있어 낮은 점수 부여. 현재 여행 중인 한국인에게 직접적인 영향은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": "제네바",
-        "price": null,
-        "location_google_map_query": "제네바"
-      },
+      "event_info": "{'date': None, 'location': '제네바', 'price': None, 'location_google_map_query': '제네바'}",
       "references": [
         {
           "title": "อิหร่านเผย บรรลุ “หลักการแนวทาง” กับสหรัฐฯ หลังเจรจานิวเคลียร์",
@@ -18760,23 +18753,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPagyNPKmnaRZ.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPagyNPKmnaRZ.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/foreign/2914854",
+      "source": ""
     },
     {
       "title": "미국, 마약 운반 혐의로 태평양 및 카리브해에서 선박 3척 격침, 11명 사망",
       "summary": "- 미국은 마약 운반 혐의로 태평양과 카리브해에서 선박 3척을 공격하여 11명이 사망했다고 발표함.\n- 미국 측은 사망자들을 '마약 테러리스트'라고 칭하며, 해당 선박들이 마약 밀매 경로를 따르고 있었다고 주장함.\n- 트럼프 정부 이후 유사한 공격이 40회 이상 발생, 130명 이상 사망했으나, 마두로 체포 작전 이후 빈도가 감소함.",
       "full_translated": "미국은 태평양과 카리브해에서 마약 밀매 혐의로 의심되는 선박 3척을 공격하여 11명이 사망했다고 밝혔습니다. 2069년 2월 17일 화요일, 미국군은 동태평양과 카리브해에서 마약 밀매에 연루되었다고 주장하는 선박 3척을 공격했다고 발표했습니다. 미국 관리에 따르면 사망한 11명의 남성 '마약 테러리스트'는 각각 동태평양의 첫 번째 선박에서 4명, 두 번째 선박에서 4명, 카리브해의 세 번째 선박에서 3명이었습니다. 미국 남부 사령부는 소셜 미디어 게시물에서 '정보에 따르면 이 선박들은 잘 알려진 마약 밀매 경로를 따라 이동하고 마약 밀매 작전에 참여하고 있었습니다.'라고 밝혔습니다. 트럼프 정부는 작년 9월부터 카리브해와 태평양에서 마약 운반 혐의 선박에 대한 공격을 수행해 왔으며 40건 이상의 공격으로 130명 이상이 사망했습니다. 그러나 미국군이 1월 초 카라카스에서 니콜라스 마두로 베네수엘라 대통령을 체포한 이후 공격 빈도가 현저히 감소했습니다. 미국은 마두로 정부가 마약 갱단과 협력하고 있다고 비난했습니다. 피트 핵세스 국방부 장관은 전반적인 작전 목표가 '우리 반구에서 마약 테러리스트를 제거'하고 '우리 국민을 죽이는 마약으로부터 미국을 보호'하는 것이라고 말했습니다. 그러나 미국은 지금까지 공격당한 선박이 마약을 운반하고 있다는 주장을 뒷받침할 증거를 제시하지 못했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 사건은 아니지만, 국제 정세에 대한 정보 제공. 여행 안전에 직접적인 영향은 적으나 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กองทัพสหรัฐฯ จมเรือ 3 ลำ ดับ 11 ศพ อ้างกำลังขนยาเสพติด",
@@ -18785,23 +18775,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPbCTCgradofP.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPbCTCgradofP.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/foreign/2914852",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 3개 투표구의 투표용지 재인쇄 논의",
       "summary": "- 태국 선거관리위원회(EC)는 2026년 2월 22일로 예정된 3개 투표구의 새로운 투표를 위해 투표용지 재인쇄 형식을 논의 중.\n- 논의의 핵심은 재인쇄될 투표용지가 2월 8일 총선에 사용된 것과 동일한 형식(일련번호, 투표용지 번호, 바코드 포함)을 유지할지 여부.\n- 바코드 및 번호 체계가 없으면 총선에 사용된 투표용지와 새로운 투표에 사용된 투표용지 간의 차이로 인해 법적 분쟁이 발생할 수 있다는 우려가 제기됨.",
       "full_translated": "방콕 — 2026년 2월 17일, 태국 선거관리위원회(EC)는 2026년 2월 22일로 예정된 3개 투표구의 새로운 투표를 위해 투표용지 재인쇄 형식에 대한 치열한 논의를 17일에 개최했습니다. 회의는 앞서 EC가 3개 투표구에서 새로운 투표를 명령한 후 새로운 투표용지 인쇄에 대한 이전 날의 심의를 계속했습니다. 위원들은 재인쇄된 투표용지가 일련번호, 투표용지 번호 및 바코드를 포함하여 2월 8일 총선에 사용된 것과 동일한 형식을 유지할지 여부에 대한 결론을 아직 내리지 못했습니다. 바코드 및 번호 체계가 없으면 총선에 사용된 투표용지와 새로운 투표에 사용된 투표용지 간의 차이로 인해 법적 분쟁이 발생할 수 있다는 우려가 제기되었습니다. 관리들은 이러한 불일치가 투표용지에 바코드를 인쇄하는 것이 헌법을 위반하고 선거를 무효화할 수 있다고 주장하는 지속적인 법적 이의 제기에서 EC의 방어를 복잡하게 만들 수 있다고 우려합니다. 위원회는 또한 선거 기간 동안 했던 것처럼 기자 회견을 여는 것이 최선의 이익이 아닐 수 있다는 데 동의했습니다. 관리들은 이전 브리핑이 기관에 해를 끼치는 방식으로 해석되고 확장되었다고 말했습니다. EC는 대신 서면 성명 발표에 집중할 것입니다. 한편, 유권자 식별을 가능하게 한다는 이유로 개인 정보 보호 위원회에 청원이 제출된 후 EC 사무소는 공식적으로 답변했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이지만, 여행에 직접적인 영향은 낮음. 선거 관련 혼란 가능성 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai Election Body Debates Ballot Reprint for 3 Units",
@@ -18810,23 +18797,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Election-Body-Debates-Ballot-Reprint-for-3-Units.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Election-Body-Debates-Ballot-Reprint-for-3-Units.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.khaosodenglish.com/politics/2026/02/17/thai-election-body-debates-ballot-reprint-for-3-units/",
+      "source": ""
     },
     {
       "title": "미국 시민 운동 지도자 제시 잭슨 사망",
       "summary": "- 미국의 저명한 시민 운동 지도자 제시 잭슨이 84세의 나이로 사망했습니다.\n- 그는 마틴 루터 킹 주니어의 동료였으며, 민주당 대통령 후보로 두 번 출마했습니다.\n- 잭슨은 흑인과 소외된 사람들의 권리를 옹호했으며, 파킨슨병을 앓고 있었습니다.",
       "full_translated": "미국의 카리스마 넘치는 시민 운동 지도자 제시 잭슨이 84세의 나이로 사망했습니다. 그는 감동적인 웅변가였으며, 마틴 루터 킹 주니어의 가까운 동료였고, 민주당 대통령 후보로 두 번 출마했습니다. 잭슨의 가족은 그가 억압받고, 목소리 없는, 간과된 사람들을 위한 봉사자였다고 밝혔습니다. 그는 2017년에 파킨슨병 진단을 받았습니다. 잭슨의 죽음은 도널드 트럼프 행정부가 미국의 제도들을 공격하는 시기에 발생했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "제시 잭슨의 사망은 국제적인 뉴스이지만, 태국 여행객에게 직접적인 영향을 미치지는 않습니다. 다만 역사적 인물의 사망 소식이므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "US civil rights leader Jesse Jackson dies",
@@ -18835,8 +18819,138 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3199338_260217202305_700.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3199338_260217202305_700.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/world/3199338/us-civil-rights-leader-jesse-jackson-dies",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 발생, 학교에 긴급 휴교령",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건 발생.\n- 해당 지역 여러 학교에 긴급 휴교령이 내려짐.\n- 경찰이 용의자를 추적 중이며, 주민들의 안전에 주의 요망.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건이 발생하여, 해당 지역 여러 학교에 긴급 휴교령이 내려졌습니다. 경찰은 용의자를 추적 중이며, 주민들의 안전에 주의가 요구됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 되므로 높은 점수 부여. 기존 게시글과 동일 내용이나, 사건이 현재 진행 중이므로 정보 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lad Lum Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "03:28",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕에서 미국인 남성, 미얀마인 4명에게 살해당해",
+      "summary": "- 방콕에서 55세 미국인 남성이 미얀마 남성 4명에게 살해당함.\n- 피해자는 흉기에 찔리고 둔기에 맞아 사망, 용의자들은 현장에서 체포됨.\n- 범행 동기는 피해자와 용의자 간의 과거 관계 문제로 추정됨.",
+      "full_translated": "태국 경찰에 따르면 콜 스타인 히스(55세)로 확인된 피해자는 심각한 부상을 입고 현장에서 사망한 채 발견되었습니다. 그는 몸에 5군데의 자상과 양쪽 다리에 골절을 입었습니다. 경찰 보고서에 따르면 히스는 폭행 직후 사망 선고를 받았으며, 사건은 용의자들이 고용된 재활용 센터 근처의 Soi Suksawat 26에서 오후 5-6시경에 발생했습니다. 현장 초기 보고서에는 치명적인 폭력으로 끝난 혼란스러운 대결이 묘사되었습니다. 히스의 시신은 정확한 사망 원인을 밝히기 위해 Siriraj 병원으로 옮겨져 부검을 실시할 예정이며, 예비 조사에서는 다량의 혈액 손실과 구타 및 자상으로 인한 외상이 지적되었습니다. 용의자 Zaw Nyrin Oo, Zaw Thet, Zaw Jemin Thu, Thero는 Bang Mod 경찰서의 경찰관에 의해 범죄 현장에서 즉시 체포되었습니다. 그들은 인근 고물상 및 재활용 시설의 지역 주민과 고용주의 신고를 받고 도착하자마자 당국에 자수했다고 합니다. 경찰은 공격에 사용된 무기인 10인치 칼과 1미터 철근을 회수했는데, 용의자들은 다툼 중에 휘둘렀다고 합니다. 용의자 중 한 명인 Zaw Nyrin Oo는 몸싸움 중 부상을 입어 구금되기 전에 Charoenkrung Pracharak 병원에서 치료를 받았습니다. 방 모드 경찰서장 Pol Col Sonchai Poonpol이 이끄는 수사관들은 동기가 히스의 과거 관계와 관련된 개인적인 분쟁에 뿌리를 두고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 강력 범죄 발생. 여행객 안전에 대한 우려를 야기할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "Soi Suksawat 26, 방콕",
+        "price": null,
+        "location_google_map_query": "Soi Suksawat 26 Bangkok"
+      },
+      "references": [
+        {
+          "title": "55-Year-Old American Man Murdered by Four Myanmar Men in Bangkok Over Relationship Dispute",
+          "url": "https://thepattayanews.com/2026/02/18/55-year-old-american-man-murdered-by-four-myanmar-men-in-bangkok-over-relationship-dispute/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771316238045-1.jpg"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771316238045-1.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "파타야 워킹 스트리트, 설날 맞아 관광객 인파로 북적",
+      "summary": "- 파타야에서 설날 기념 행사 진행 중\n- 워킹 스트리트에 붉은 등불, 용 조형물 등 설치\n- 2월 말까지 촌부리 지역 주요 장소에서 문화 행사 및 공연 예정",
+      "full_translated": "파타야 시 부시장은 음력설을 기념하여 용춤 공연 개막식을 주재했습니다. 이는 전 세계 중국 공동체와 중국계 태국인들에게 큰 명절입니다. 아침에 전통적인 조상 숭배 의식과 신의 축복에 이어, 2월 10일부터 24일까지 진행되는 더 넓은 파타야 설날 축제 행사의 일환으로 많은 가족들이 인기 명소로 향했습니다. 워킹 스트리트는 공연을 보고 기억에 남는 사진을 찍기 위해 몰려든 많은 방문객들로 인해 중심지가 되었습니다. 저녁에는 거리 전체를 따라 관객을 사로잡는 인상적인 대규모 용춤이 펼쳐져 스릴과 경외감을 선사했습니다. 축제 분위기를 더하기 위해 시는 워킹 스트리트 전체에 붉은 등불, 중국 인형, 웅장한 용 모형, 사자 조각상으로 장식했습니다. 상점과 시설은 그에 따라 장식되었으며, 많은 장소의 직원들은 명절 분위기를 완전히 받아들이기 위해 전통 치파오 의상을 입었습니다. 이러한 행사들은 파타야의 관광 이미지를 높이고, 지역 경제를 활성화했으며, 이 주요 축제 기간 동안 태국과 중국 문화의 완벽한 조화를 보여주었습니다. 파타야 설날 축제는 2월 말까지 계속되며, 나끄아의 란 포 공원과 다른 중심지를 포함한 주요 장소에서 지속적인 장식, 문화 쇼, 공연이 진행될 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 진행 중인 설날 축제 정보. 관광객들에게 유용한 정보이며, 특히 2월에 파타야를 방문하는 여행객들에게는 더욱 유용함. 행사 기간 및 장소 정보 포함.",
+      "event_info": {
+        "date": "2026-02-10 ~ 2026-02-24",
+        "location": "파타야 워킹 스트리트, 란 포 공원 (나끄아)",
+        "price": "무료",
+        "location_google_map_query": "Pattaya Walking Street, Lan Pho Public Park Naklua"
+      },
+      "references": [
+        {
+          "title": "Pattaya Heats Up for Chinese New Year as Golden Dragon Towers Over Walking Street, Drawing Massive Crowds of Tourists",
+          "url": "https://thepattayanews.com/2026/02/17/pattaya-heats-up-for-chinese-new-year-as-golden-dragon-towers-over-walking-street-drawing-massive-crowds-of-tourists/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713456094155774076347068806384.jpg?v=1771345729"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713456094155774076347068806384.jpg?v=1771345729",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "파타야, 중국 설 기념 성스러운 수호자 기리는 경건한 의식 개최 (2026년)",
+      "summary": "- 파타야 시에서 중국 설을 기념하여 다양한 장소에서 경건한 의식 거행.\n- 파타야 시장 및 시 관계자, 시민, 관광객들이 참여하여 문화 행사 관람 및 행운 기원.\n- 용과 사자춤 공연, 중국 설 등불 장식 등 축제 분위기 고조.",
+      "full_translated": "파타야 시는 2026년 중국 설을 맞아 성스러운 수호자들을 기리는 경건한 의식을 개최했습니다. 행사는 파타야 시장 Poramese Ngampichet과 시 간부, 시의회 의원, 부서장 및 관련 공무원들의 주도하에 세 곳에서 열렸습니다. 오전 8시, 첫 번째 의식은 파타야 시청 앞 King Taksin the Great Monument에서 열렸습니다. 참가자들은 조상의 관습에 따라 전통적인 태국-중국 희생 제물을 바쳤습니다. 용과 사자춤 공연이 행사를 더욱 활기차게 만들고 새해의 축복을 상징했습니다. 이후 일행은 파타야의 Khao S. Tor의 경치 좋은 전망대에 있는 Prince of Chumphon Monument (Krom Luang Chumphon Khet Udomsak, 애정 어린 \"Seh Tia\"로 알려짐)으로 이동하여 비슷한 제물과 공연을 진행했습니다. 의식은 파타야의 Sawang Boriboon Thammasathan Foundation에서 마무리되었으며, 상서로움을 더하기 위해 더 많은 용과 사자춤이 등장했습니다. 세 곳 모두 문화적 전시를 목격하고 다가오는 해에 행운을 빌기 위해 모인 지역 주민과 관광객들로 붐볐습니다. 오전 의식 외에도 파타야 시는 오늘 저녁 Naklua의 Lan Pho Public Park에서 \"Tee-Muai Chinese Boy & Girl Pattaya Contest\" 결승전을 개최했습니다. 축제 분위기를 더욱 고조시키기 위해 시는 황금 말의 해를 기념하여 주요 지역을 아름다운 중국 설 등불로 장식했습니다. 장식된 장소로는 파타야 시청 앞, South P의 Walking Street 입구 등이 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "2026년 행사 정보이긴 하지만, 파타야에서 열리는 문화 행사 정보이므로 관광객들에게 흥미로울 수 있음. 축제 분위기를 미리 알 수 있도록 정보 제공.",
+      "event_info": {
+        "date": "2026-02-17",
+        "location": "파타야 시청 앞 King Taksin the Great Monument, Prince of Chumphon Monument (Khao S. Tor), Sawang Boriboon Thammasathan Foundation",
+        "price": "무료",
+        "location_google_map_query": "파타야 King Taksin the Great Monument"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Holds Auspicious Ceremonies to Honor Sacred Guardians For Chinese New Year 2026",
+          "url": "https://thepattayanews.com/2026/02/17/pattaya-city-holds-auspicious-ceremonies-to-honor-sacred-guardians-for-chinese-new-year-2026/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713472328765171026409023721613.jpg?v=1771347341"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713472328765171026409023721613.jpg?v=1771347341",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "리봉 섬 인근, 부상당한 듀공 드론 구조 작전 개시",
+      "summary": "- 2026년 2월 17일, 끄라비 인근 리봉 섬에서 어망에 걸려 부상당한 듀공 구조 작전이 시작됨.\n- 해양자원부는 드론을 이용하여 듀공의 위치를 추적하고 있으며, 부상 정도를 파악 중임.\n- 듀공의 지느러미에 깊은 상처가 있으며, 먹이 활동은 정상적으로 수행 중이나 경계심이 높아진 상태임.",
+      "full_translated": "뜨랑 – 2026년 2월 17일, 당국은 꼬 리봉 근처에서 어구에 얽혀 깊은 상처를 입은 듀공을 구하기 위해 드론 구조 작전을 시작했습니다. 해양 연안 자원부(DMCR)는 하부 안다만 해양 연안 자원 연구 센터를 통해 해양 국립공원 연구 및 연구 센터 3(뜨랑)과 협력하여 부상당한 동물을 추적하고 지원하고 있습니다. 이번 작전은 2월 14일 라엠 주 호이와 꼬 리봉의 핫 툽 해역에서 관리들이 실시한 드론 조사에 따른 것입니다. 초기 수색에서 듀공 8마리가 발견되었으며, 그 중 한 마리는 양쪽 지느러미에 심한 밧줄 부상을 입었습니다. 상처는 부어오르고 깊게 베인 것으로 보아 밧줄이 오랫동안 동물 주위에 감겨 있었음을 시사합니다. 부상에도 불구하고 항공 관찰 결과 듀공은 여전히 정상적으로 수영, 다이빙 및 먹이를 먹을 수 있었습니다. 신체 상태 점수는 5점 만점에 3점으로 평가되었으며, 호흡수는 5분당 2회였습니다. 아오 반 프라오에서 라엠 주 호이까지의 해역을 다룬 후속 드론 조사에서 관리들은 부상당한 듀공을 꼬 리봉 동쪽에서 다른 듀공 12마리와 함께 수영하는 것을 발견했습니다. 밧줄은 여전히 양쪽 지느러미에 단단히 감겨 있으며, 눈에 띄는 매듭이 몸 뒤쪽으로 이어져 있습니다. 고해상도 드론 영상은 해당 동물이 안정적인 신체 상태와 호흡 패턴을 유지하며 정상적으로 수영하고 먹이를 먹고 있음을 확인했습니다. 그러나 경계심이 높아져 무리로 후퇴하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 해양 생태계 보호 노력을 보여주는 뉴스. 여행객들에게 환경 보호에 대한 인식을 높일 수 있으며, 관련 관광 상품(듀공 관찰 투어 등)에 간접적인 영향을 줄 수 있음.",
+      "event_info": {
+        "date": "2026-02-17",
+        "location": "Koh Libong, Trang",
+        "price": null,
+        "location_google_map_query": "Koh Libong, Trang"
+      },
+      "references": [
+        {
+          "title": "Drone rescue launched for injured dugong entangled near Koh Libong",
+          "url": "https://www.khaosodenglish.com/news/2026/02/17/drone-rescue-launched-for-injured-dugong-entangled-near-koh-libong/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner2-1.jpg"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner2-1.jpg",
       "date": "2026-02-18"
     }
   ]
