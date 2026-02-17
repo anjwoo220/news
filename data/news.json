@@ -19211,14 +19211,9 @@
       "summary": "- 라드룸깨우 지역에서 발생한 총기 소지 남성 난동으로 학교 휴교가 지속되고 있습니다.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전 확보가 최우선입니다.\n- 여행객은 해당 지역 방문을 자제하고, 최신 정보를 확인해야 합니다.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건이 발생하여, 해당 지역 학교들이 긴급 휴교를 지속하고 있습니다. 경찰은 용의자를 추적하고 있으며, 지역 주민과 학생들의 안전을 확보하기 위해 노력하고 있습니다. 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 되므로, 관련 정보 업데이트 및 주의 요망.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "라드룸깨우"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': '라드룸깨우'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -19231,22 +19226,20 @@
           "source": "unknown"
         }
       ],
-      "collected_at": "05:22",
-      "date": "2026-02-18"
+      "collected_at": "5:22",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": "unknown",
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 지역 총기 난동범 추적 중 – 학교 휴교 연장",
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건 발생.\n- 경찰이 용의자를 추적 중이며, 여러 학교가 안전을 위해 휴교를 연장함.\n- 여행자는 해당 지역 방문을 자제하고, 당국의 지침을 따르는 것이 좋음.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 경찰이 용의자를 추적 중입니다. 이로 인해 해당 지역의 여러 학교가 학생들의 안전을 위해 휴교를 연장했습니다. 여행자들은 해당 지역 방문을 자제하고, 당국의 최신 정보를 주시하며 안전에 유의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 상황 업데이트 반영 (휴교 연장).",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우, 방콕 인근",
-        "price": null,
-        "location_google_map_query": "라드룸깨우"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우, 방콕 인근', 'price': None, 'location_google_map_query': '라드룸깨우'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -19264,22 +19257,20 @@
           "source": "온라인 뉴스"
         }
       ],
-      "collected_at": "05:22",
-      "date": "2026-02-18"
+      "collected_at": "5:22",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": "https://www.example.com/news1",
+      "source": ""
     },
     {
       "title": "나 좀티엔 메리어트 리조트 & 스파, 토리엔 레스토랑 및 루프탑 바 개장",
       "summary": "- 나 좀티엔 메리어트 리조트 & 스파에 현대적인 일본 분위기의 토리엔 레스토랑과 루프탑 바가 새롭게 문을 열었습니다.\n- 개장 기념 런치 행사에서는 정교한 일본 요리에 이탈리아 풍미를 더한 특별한 메뉴를 선보였습니다.\n- 세심하게 고려된 와인 컬렉션과 창의적인 요리, 그리고 특별한 사운드스케이프가 돋보입니다.",
       "full_translated": "나 좀티엔의 메리어트 리조트 & 스파에 토리엔 레스토랑과 루프탑 바가 새롭게 문을 열었습니다. 손님들은 미니멀리즘과 풍요로움이 만나는 현대적인 일본 분위기에 즉시 매료됩니다. 인테리어는 차분한 질감, 조각적인 형태, 절제된 고급스러움이 조화를 이루는 현대적인 디자인의 정수입니다. 위로는 천장이 숨막힐 듯 아름다운 등불 축제로 펼쳐져 공간 전체에 따뜻하고 은은한 빛을 드리웁니다. 극적이면서도 친밀한 이 빛나는 설치물은 전통적인 일본 축제의 정신을 불러일으키면서도 매혹적이고 잊을 수 없는 분위기를 연출합니다. 2월 9일 월요일에 열린 기념 런치 행사에서는 토리엔의 독특한 요리 철학, 즉 세련된 이탈리아 풍미를 통해 승화된 훌륭한 일본 요리를 선보였습니다. 메뉴는 예술성과 정밀성을 모두 보여주며 섬세한 풍미와 우아한 프레젠테이션을 통해 엄선된 여정을 제공합니다. 깨끗한 해산물과 능숙하게 만들어진 스시부터 지중해 기술에서 영감을 받은 혁신적인 요리에 이르기까지 각 코스는 탁월함에 대한 타협하지 않는 헌신을 반영합니다. 손님들은 프리미엄 사케, 고급 와인, 광범위한 셀러에서 엄선된 희귀한 셀렉션의 조화로운 페어링을 즐기며 만족감을 더했습니다. 토리엔의 모든 요소는 세심한 주의를 기울여 고려되었습니다. 와인 컬렉션은 광범위하고 안목 있으며 감정가와 탐험가 모두에게 어필하도록 설계되었습니다. 요리 제공은 진정성과 창의성의 균형을 맞추는 사려 깊습니다. 존경받는 손님들은 특별한 대접을 받았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "새로운 레스토랑 정보는 여행객에게 유용할 수 있지만, 안전이나 편의에 직접적인 영향을 미치지는 않으므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-02-09",
-        "location": "나 좀티엔 메리어트 리조트 & 스파",
-        "price": "정보 없음",
-        "location_google_map_query": "나 좀티엔 메리어트 리조트 & 스파"
-      },
+      "event_info": "{'date': '2026-02-09', 'location': '나 좀티엔 메리어트 리조트 & 스파', 'price': '정보 없음', 'location_google_map_query': '나 좀티엔 메리어트 리조트 & 스파'}",
       "references": [
         {
           "title": "Marriot Resort and Spa in Na Jomtien Opens Torien Restaurant and Rooftop Bar",
@@ -19288,23 +19279,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/S__3940414-scaled.jpg?v=1771351982"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/S__3940414-scaled.jpg?v=1771351982",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://thepattayanews.com/2026/02/17/marriot-resort-and-spa-in-na-jomtien-opens-torien-restaurant-and-rooftop-bar/",
+      "source": ""
     },
     {
       "title": "클라탐당, 정부 참여 불확실성 속에서 연정 협상 진행",
       "summary": "- 클라탐당의 정부 참여 전망이 불투명하며, 58명의 의원들이 연립 정부에 합류할지 불확실.\n- 쁘라차랏당 고위 관계자 간 비공식 접촉은 있었지만, 아직 공식 협상은 진행되지 않음.\n- 클라탐당은 연정에 참여 조건은 없다고 밝혔으나, 차기 내각에 참여할 수 있다는 추측이 있음.",
       "full_translated": "클라탐당의 쁘라차랏당(BJT) 주도 정부 참여 전망은 불확실합니다. 최대 정당 내부의 저항과 전략적 우려로 인해 클라탐당의 58명의 의원들이 새로운 연립 정부에 포함될지 의문이 제기되고 있습니다.\n\n고위 관계자 간의 비공식 접촉은 있었지만 아직 공식 협상은 진행되지 않았습니다. BJT 사무총장인 차이차녹 치드좁은 클라탐당 사무총장인 파이 리케와 짧은 전화 통화를 했다고 확인했지만, 실질적인 논의는 추후 당 지도자 간에 이루어져야 한다고 말했습니다. 그는 BJT를 차기 정부 구성의 핵심 정당으로 지지하는 것에 대한 예비 논의가 있었다고 말했지만, 명확성은 총리와 BJT 지도자인 아누틴 차른비라쿨과 클라탐당의 최고 고문인 타마낫 프롬포우 대위 간의 논의에 달려 있다고 덧붙였습니다.\n\n차이차녹 씨는 클라탐당이 연정에 참여하는 데 조건은 없을 것이라고 밝혔으며, 이미 내각 직책에 대한 논의가 있었다는 추측을 일축했습니다. 그가 내무부 장관이 될 것이라는 소문은 근거가 없으며, 선거 결과가 공식적으로 승인될 때까지는 어떤 직책도 확정되지 않을 것이라고 강조했습니다.\n\n정치 소식통은 BJT 주도 연합이 현재 총 297석을 가진 15개 정당의 지지를 받고 있다고 말합니다. BJT는 193석, 프어타이당은 74석을 보유하고 있으며, 몇몇 소규모 정당이 뒤따르고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 상황 변화 가능성이 있지만, 여행객에게 직접적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Klatham govt role in doubt",
@@ -19313,23 +19301,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3199413_260218045204_700.jpg"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3199413_260218045204_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/politics/3199413/klatham-govt-role-in-doubt",
+      "source": ""
     },
     {
       "title": "방글라데시, 타릭 라흐만 신임 총리 취임",
       "summary": "- 타릭 라흐만이 방글라데시 신임 총리로 취임했습니다.\n- 그는 총선에서 압승을 거둔 BNP당 대표입니다.\n- 정치 안정 회복, 투자자 신뢰 구축, 섬유 산업 재건 등 과제가 산적해 있습니다.",
       "full_translated": "타릭 라흐만은 방글라데시의 새 총리로 취임했습니다. 그의 당은 지난주 총선에서 압승을 거두었습니다. 해외 언론에 따르면 방글라데시 민족주의당(BNP)의 대표인 타릭 라흐만은 2월 17일 화요일 새 총리직에 취임했습니다. 이는 2567년 학생 시위로 전 총리 셰이크 하시나의 권좌가 무너진 이후 중요한 정치적 변화입니다. 60세의 라흐만은 암살당한 전 총리 칼레다 지아와 대통령 지아우르 라흐만의 아들입니다. 그는 지난주 총선에서 그의 당이 압승을 거둔 후 취임했습니다. 그러나 그는 이제 정치적 안정 회복, 투자자 신뢰 구축, 2567년 시위로 인한 혼란 이후 섬유와 같은 국가 주요 산업 재건을 포함한 시급한 과제에 직면해 있습니다. 국가의 새로운 시대를 열기 위해 야외 취임식은 대통령 관저인 방가바반 대신 국회 사우스 플라자에서 열렸습니다. 모하메드 샤하부딘 대통령이 의식을 주재했으며 라흐만과 49명의 내각은 정치계 주요 인사, 외교관, 공무원, 군인, 중국, 인도, 파키스탄과 같은 국가의 대표들 앞에서 취임 선서를 했습니다. 새 정부는 정치적 경험과 기술적 전문성 간의 균형을 맞추려는 노력의 일환으로 고위급과 신진 장관으로 구성됩니다. 정부는 경제 회복에 집중하는 동안...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "방글라데시 정치 상황은 태국 여행객에게 직접적인 영향은 적으나, 관련 정보에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทาริก เราะห์มาน สาบานตนรับตำแหน่งนายกรัฐมนตรีบังกลาเทศ",
@@ -19338,8 +19323,133 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPa0YIefndvx8.jpg"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPa0YIefndvx8.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/foreign/2914850",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동, 학교 긴급 휴교 (속보)",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어갔습니다.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전을 위해 휴교 조치가 내려졌습니다.\n- 해당 지역 여행 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 현재 용의자를 추적하고 있으며, 추가적인 피해를 막기 위해 최선을 다하고 있습니다. 해당 지역을 여행 중이거나 여행 예정인 분들은 현지 뉴스를 주시하고, 당국의 지침에 따라 안전에 유의하시기 바랍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 되므로 높은 점수를 부여. 이미 게시된 기사와 동일한 내용이지만, 새로운 정보가 있을 수 있고, 아침 브리핑이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우 지역",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "05:56",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "중국 설 연휴, 항공 수요 급증 예상",
+      "summary": "- 중국 설 연휴 기간(2월 17일-26일) 동안 태국-중국 항공편 하루 평균 3,000편 운항 예상, 전년 대비 8.3% 증가.\n- 수완나품 공항 하루 평균 1,150편, 돈므앙 공항 700편, 푸껫, 치앙마이 공항 220편 운항 예상.\n- Aerothai는 항공 교통 관리 조치를 시행하고 비상 상황 대비 계획을 수립.",
+      "full_translated": "태국 항공 무선(Aerothai)은 중국 설 연휴 기간 동안 항공 교통량 급증에 대비하고 있다고 밝혔습니다. 2월 17일부터 26일까지 중국과 태국 간 항공편은 하루 평균 약 3,000편으로 예상되며, 이는 작년 동기 대비 8.3% 증가한 수치입니다. 수라차이 누프롬 사장 대행은 항공 여행 활동이 축제에 앞서 증가하기 시작했으며, 2월 10일부터 하루 평균 항공편이 2,895편으로 증가하여 전년 대비 7% 증가했다고 밝혔습니다. 일부 날에는 항공편 수가 3,000편을 초과했습니다. Aerothai는 10일간의 중국 설 연휴 기간 동안 총 29,096편의 항공편, 즉 하루 평균 2,910편을 예상합니다. 태국과 중국 간 국제선 노선이 하루 평균 약 330편으로 가장 높으며, 1월 이후 상당한 회복세를 보이고 있습니다. 인도와 말레이시아 노선이 각각 하루 평균 130편과 98편으로 그 뒤를 잇고 있습니다. 축제 기간 동안 가장 붐비는 4개의 공항은 수완나품(하루 평균 1,150편), 돈므앙(700편), 푸껫, 치앙마이(220편)가 될 것으로 예상됩니다. 수라차이 씨는 Aerothai가 공항 수용 능력에 따른 슬롯 배정 조정 및 강화된 항공 교통 흐름 관리 절차를 포함한 항공 교통 관리 조치를 시행했다고 밝혔습니다. 인력 수준, 장비 및 기술이 강화되었으며, 성수기 동안 비상 사태에 대처하기 위한 비상 계획이 마련되었습니다. 그는 \"이번 중국 설 연휴 기간 동안 항공편 수가 증가한 것은 분명한",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중국 설 연휴 기간 동안 항공 교통량 증가로 인한 공항 혼잡 예상. 여행객에게 시간 여유를 가지고 공항에 도착할 것을 권장.",
+      "event_info": {
+        "date": "2026-02-17",
+        "location": "수완나품, 돈므앙, 푸껫, 치앙마이 공항",
+        "price": "해당사항 없음",
+        "location_google_map_query": "Suvarnabhumi Airport, Don Mueang Airport, Phuket Airport, Chiang Mai Airport"
+      },
+      "references": [
+        {
+          "title": "Lunar New Year lifts demand for flights",
+          "url": "https://www.bangkokpost.com/thailand/general/3199493/lunar-new-year-lifts-demand-for-flights",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "05:56",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "일본, 메콩강 유역 사기 조직 소탕에 124만 바트 지원",
+      "summary": "- 일본이 메콩 지역의 초국가적 범죄 대응을 위해 UNODC에 124만 바트를 지원.\n- 온라인 사기 증가와 인권 침해 우려에 따른 조치.\n- 태국, 베트남, 캄보디아, 라오스의 프로젝트 지원 예정.",
+      "full_translated": "일본이 메콩 지역의 초국가적 조직 범죄에 대한 국경 간 협력을 강화하기 위해 유엔 마약범죄사무소(UNODC)에 5억 1600만 엔(1억 2400만 바트)을 지원하기로 약속했습니다. 이번 조치는 온라인 사기로 인한 손실 증가와 관련 인권 침해에 대한 우려가 커짐에 따라 이루어졌습니다.\n\n이번 지원금은 방콕에 있는 일본 대사관저에서 월요일 서명 및 교환 각서 행사에서 공식화되었습니다. 이번 자금은 태국, 베트남, 캄보디아, 라오스의 프로젝트를 지원할 예정입니다.\n\n오타카 마사토 주태국 일본 대사는 초국가적 범죄가 작년에 온라인 사기로 3억 2천만 엔의 손실을 기록한 일본을 포함하여 모든 국가에 무차별적으로 영향을 미치고 있다고 말했습니다. 그는 많은 작전이 동남아시아, 특히 메콩 하위 지역의 범죄 조직과 연결되어 있으며, 이 네트워크는 온라인 사기를 통해 전 세계 피해자를 대상으로 하는 국경 간 기업으로 진화했다고 말했습니다. 이러한 범죄는 종종 인신매매 및 강제 범죄와 얽혀 있습니다.\n\n이러한 위협은 다국적 신디케이트가 인공 지능, 첨단 기술 및 관할 격차를 악용하면서 더욱 복잡해졌습니다. 오타카 씨는 \"일본도 이러한 문제에 직면하고 있습니다.\"라고 말했습니다. 그는 이번 자금이 수사 역량을 강화하고, 법 집행 공조를 개선하며, 4개국 간의 국제 협력을 강화할 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "메콩 지역 여행 시 온라인 사기 및 인권 문제에 대한 인식을 높이고 주의를 환기시킬 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Japan backs drive against Mekong scammer gangs",
+          "url": "https://www.bangkokpost.com/thailand/general/3199548/japan-backs-drive-against-mekong-scammer-gangs",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "05:56",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "LPGA 스타들, 툭툭 타고 태국 문화 체험",
+      "summary": "- 혼다 LPGA 태국 2026 개최 기념, 선수들이 툭툭 체험.\n- 파자리 아난나루칸 등 유명 선수들이 참여하여 태국 문화 홍보.\n- 툭툭은 태국의 상징으로, 골프와 현지 문화의 조화를 보여줌.",
+      "full_translated": "혼다 LPGA 태국 2026을 앞두고 스타들이 툭툭을 타고 태국 문화를 체험했습니다. 태국 스타 파자리 아난나루칸은 뉴질랜드의 리디아 고, 중국의 허 무니, 일본의 요시다 유리, 이탈리아의 베네데타 모레스코와 함께 태국 문화 축하 행사에 참여했습니다. 선수들은 시암 컨트리클럽 올드 코스에서 열리는 대회에 앞서 태국의 상징인 '툭툭'을 타고 태국 문화를 알리는 특별한 포토 세션을 가졌습니다. 선수들은 툭툭을 타고 다니며 즐거운 시간을 보냈습니다. 툭툭은 태국의 가장 상징적인 이미지 중 하나이며, 교통 수단이자 현지 라이프스타일과 관광의 상징으로 국제적으로 알려져 있습니다. 이 활동은 토너먼트 주간에 활기를 더했을 뿐만 아니라 세계적인 스포츠와 지역 문화 간의 다리 역할을 했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 문화를 체험하는 LPGA 스타들의 모습은 관광객들에게 태국에 대한 긍정적인 이미지를 심어줄 수 있다. 하지만 직접적인 여행 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "Siam Country Club Old Course, Chon Buri",
+        "price": "N/A",
+        "location_google_map_query": "Siam Country Club Old Course, Chon Buri"
+      },
+      "references": [
+        {
+          "title": "Stars ride tuk-tuk, soak up Thai culture",
+          "url": "https://www.bangkokpost.com/sports/3199423/stars-ride-tuktuk-soak-up-thai-culture",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972188_700.jpg"
+        }
+      ],
+      "collected_at": "05:56",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972188_700.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "푸껫, 장기 체류 비자 정책에 반발…부동산 투자 기준 완화 우려",
+      "summary": "- 푸껫 관광 사업자들이 정부의 부동산 투자 연계 장기 체류 비자 정책에 반대\n- 투자 기준이 낮아 불법 활동 외국인 유치 및 부동산 가격 상승 우려\n- 최소 300만 바트 콘도 구매 또는 월 85,000바트 임대 시 1년 장기 비자 신청 가능",
+      "full_translated": "푸껫 관광 사업자들이 정부의 부동산 투자 연계 장기 체류 비자 정책에 반대하고 있습니다. 300만 바트 상당의 부동산을 구매하는 외국인에게 장기 체류 비자를 허용하는 정부 정책에 대해, 투자 기준이 너무 낮아 불법 활동에 관여할 수 있는 '비 양질' 방문객을 유치하고, 부동산 가격 상승을 초래하여 지역 주민들의 주택 구매 능력을 저하시킬 수 있다고 주장합니다. 이민국에 따르면 2025년 10월 1일부터 최소 300만 바트 상당의 콘도를 구매하거나 월 85,000바트 이상으로 주택을 임대하는 외국인은 1년 장기 체류 비자를 신청할 수 있습니다. 가족 구성원 또는 부양 가족도 구매자와 함께 체류하기 위한 비자를 신청할 수 있습니다. 푸껫 관광 협회 회장인 타넷 탄티피리야키는 푸껫이 높은 생활비 때문에 장기 여행자를 유치하는 데 치앙마이와 같은 도시보다 일반적으로 성공적이지 못했지만, 새로운 규정으로 인해 외국인이 태국에서 부동산을 취득하는 것이 너무 쉬워질 것이라고 우려한다고 밝혔습니다. 그는 외국인 구매자가 장기 거주권을 확보할 권리를 포함하여 기대하는 혜택에 비해 필요한 부동산 투자액 300만 바트는 너무 낮다고 말했습니다. 그는 그들의 부양 가족이 추가 투자 없이 체류를 신청할 자격이 있다고 덧붙였습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "푸껫 부동산 시장 관련 정책 변경에 대한 내용으로, 단기 여행객보다는 장기 체류 희망 여행객에게 정보 제공 가치가 있다고 판단됨. 부동산 투자 관련 내용이므로 BUSINESS 카테고리로 분류.",
+      "event_info": {
+        "date": null,
+        "location": "Phuket",
+        "price": "최소 300만 바트 콘도 구매 또는 월 85,000바트 임대",
+        "location_google_map_query": "Phuket"
+      },
+      "references": [
+        {
+          "title": "Phuket up in arms on long‑stay visa",
+          "url": "https://www.bangkokpost.com/business/general/3199538/phuket-up-in-arms-on-longstay-visa",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972258_700.jpg"
+        }
+      ],
+      "collected_at": "05:56",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972258_700.jpg",
       "date": "2026-02-18"
     }
   ]
