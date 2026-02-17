@@ -1692,11 +1692,15 @@ def render_tab_hotel():
                                  utils.log_search(info['name'], fact_score, 'hotel')
                              else:
                                  utils.log_search(info['name'], info['rating'], 'hotel')
-                         # 캐시된 아고다 URL 저장 (하이브리드 링크용)
                          if cached_result.get('agoda_url'):
                              st.session_state['cached_agoda_url'] = cached_result['agoda_url']
                          else:
                              st.session_state['cached_agoda_url'] = None
+                         # 캐시된 마이리얼트립 URL 저장
+                         if cached_result.get('myrealtrip_url'):
+                             st.session_state['cached_myrealtrip_url'] = cached_result['myrealtrip_url']
+                         else:
+                             st.session_state['cached_myrealtrip_url'] = None
                      else:
                          # Cache Miss: Proceed with Google Maps + Gemini Analysis
                          info = utils.fetch_hotel_details(active_id, api_key)
@@ -1842,6 +1846,18 @@ def render_tab_hotel():
                                          f"allianceid={aid}&sid={sid}"
                                      )
                                      st.link_button(f"🏨 트립닷컴에서도 비교하기", trip_url, use_container_width=True, type="secondary")
+                             except: pass
+                             
+                             # MyRealTrip 버튼
+                             try:
+                                 import urllib.parse as _urlparse
+                                 cached_mrt = st.session_state.get('cached_myrealtrip_url')
+                                 hotel_display_name = info.get('name', '')
+                                 if cached_mrt and cached_mrt.strip() and cached_mrt.startswith('http'):
+                                     st.link_button("🛫 마이리얼트립에서 바로 예약하기", cached_mrt.strip(), use_container_width=True, type="primary")
+                                 else:
+                                     mrt_search_url = f"https://www.myrealtrip.com/q/{_urlparse.quote(hotel_display_name)}?adult=2"
+                                     st.link_button("🛫 마이리얼트립에서 검색하기", mrt_search_url, use_container_width=True, type="secondary")
                              except: pass
                                  
                              st.info(f"💡 **" + ("Verdict" if st.session_state.get('language') == 'English' else "한 줄 요약") + f":** {analysis.get('one_line_verdict', 'N/A')}")
@@ -3234,6 +3250,38 @@ if app_mode == "Admin Console":
                             st.balloons()
                         else:
                             st.error(f"❌ '{agoda_hotel_name}' 호텔을 찾을 수 없습니다. 정확한 캐시된 이름을 입력해주세요.")
+            
+            st.divider()
+            
+            # --- 마이리얼트립 직통 링크 관리 ---
+            st.subheader("🛫 마이리얼트립 직통 링크 관리")
+            st.info("""
+            **사용법:** 호텔 이름(정확히 캐시된 이름)과 마이리얼트립 호텔 페이지 URL을 입력하면 
+            Google Sheets에 저장됩니다. 이후 해당 호텔 분석 시 "🛫 마이리얼트립에서 바로 예약하기" 버튼이 표시됩니다.
+            
+            💡 **팁:** 마이리얼트립에서 호텔 페이지 URL을 그대로 복사해서 붙여넣으세요!
+            """)
+            
+            col_mh, col_mu = st.columns([1, 2])
+            with col_mh:
+                mrt_hotel_name = st.text_input("호텔 이름 (캐시된 이름)", key="mrt_hotel_name", placeholder="예: Siam Kempinski Hotel Bangkok")
+            with col_mu:
+                mrt_direct_url = st.text_input("마이리얼트립 URL", key="mrt_direct_url", placeholder="https://www.myrealtrip.com/offers/...")
+            
+            if st.button("💾 마이리얼트립 링크 저장", key="save_mrt_url", use_container_width=True):
+                if not mrt_hotel_name or not mrt_direct_url:
+                    st.error("호텔 이름과 URL을 모두 입력해주세요.")
+                elif not mrt_direct_url.startswith('http'):
+                    st.error("올바른 URL 형식이 아닙니다. (http로 시작해야 함)")
+                else:
+                    with st.spinner("Google Sheets 업데이트 중..."):
+                        success = utils.update_hotel_myrealtrip_url(mrt_hotel_name.strip(), mrt_direct_url.strip())
+                        if success:
+                            st.success(f"✅ '{mrt_hotel_name}' 호텔의 마이리얼트립 링크가 저장되었습니다!")
+                            st.balloons()
+                        else:
+                            st.error(f"❌ '{mrt_hotel_name}' 호텔을 찾을 수 없습니다. 정확한 캐시된 이름을 입력해주세요.")
+
         # --- Tab 3: Community Management ---
         with tab3:
             st.subheader("🛡️ 커뮤니티 관리")

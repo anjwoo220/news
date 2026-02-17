@@ -862,7 +862,7 @@ def get_hotel_cache(hotel_name, language="Korean"):
              all_records = sheet.get_all_values()
              for row in all_records:
                  if row[0] == hotel_name:
-                     # Row: [name, date, summary, json, agoda, lang]
+                     # Row: [name, date, summary, json, agoda, lang, myrealtrip_url]
                      cached_lang = row[5] if len(row) >= 6 else "Korean"
                      if cached_lang == language:
                         return {
@@ -871,7 +871,8 @@ def get_hotel_cache(hotel_name, language="Korean"):
                             "ai_summary": row[2],
                             "raw_json": json.loads(row[3]),
                             "agoda_url": row[4] if len(row) > 4 else None,
-                            "language": cached_lang
+                            "language": cached_lang,
+                            "myrealtrip_url": row[6] if len(row) > 6 else None
                         }
     except Exception as e:
         print(f"Cache Lookup Error: {e}")
@@ -885,7 +886,7 @@ def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None, lang
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        # Header: [hotel_name, cached_date, ai_summary, raw_json, agoda_url, language]
+        # Header: [hotel_name, cached_date, ai_summary, raw_json, agoda_url, language, myrealtrip_url]
         from datetime import datetime
         now_str = datetime.now().strftime("%Y-%m-%d %H:%M")
         
@@ -895,7 +896,8 @@ def save_hotel_cache(hotel_name, ai_summary, raw_json_dict, agoda_url=None, lang
             ai_summary,
             json.dumps(raw_json_dict, ensure_ascii=False),
             agoda_url or "",
-            language
+            language,
+            ""  # myrealtrip_url (기본값 빈 문자열)
         ]
         sheet.append_row(new_row)
         print(f"✅ Cached ({language}) analysis for: {hotel_name}")
@@ -925,6 +927,31 @@ def update_hotel_agoda_url(hotel_name, agoda_url):
             return False
     except Exception as e:
         print(f"Update Error: {e}")
+        return False
+
+
+def update_hotel_myrealtrip_url(hotel_name, myrealtrip_url):
+    """
+    특정 호텔의 마이리얼트립 URL을 업데이트합니다.
+    관리자가 직통 링크를 수동으로 입력할 때 사용.
+    """
+    client = get_hotel_gsheets_client()
+    if not client: return False
+    try:
+        sh = client.open("hotel_cache_db")
+        sheet = sh.get_worksheet(0)
+        
+        cell = sheet.find(hotel_name)
+        if cell:
+            # 7번째 컬럼(G열)에 URL 업데이트
+            sheet.update_cell(cell.row, 7, myrealtrip_url)
+            print(f"✅ Updated MyRealTrip URL for: {hotel_name}")
+            return True
+        else:
+            print(f"❌ Hotel not found: {hotel_name}")
+            return False
+    except Exception as e:
+        print(f"MyRealTrip Update Error: {e}")
         return False
 
 
