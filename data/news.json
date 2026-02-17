@@ -18944,13 +18944,127 @@
       "summary": "- 방콕 인근 라드룸깨우 지역에서 발생한 총기 소지 남성 난동으로 학교들이 휴교를 지속하고 있습니다.\n- 경찰은 용의자를 추적 중이며, 학생들의 안전 확보를 최우선으로 하고 있습니다.\n- 여행객들은 해당 지역 방문 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 여러 학교가 임시 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 주민들의 안전을 위해 최선을 다하고 있습니다. 해당 지역을 여행하는 여행객들은 최신 정보를 확인하고, 안전에 유의하시기 바랍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 기존 뉴스에서 상황이 업데이트되었으므로 포함.",
+      "event_info": "{'date': None, 'location': '라드룸깨우 지역', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo'}",
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "4:02",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
+    },
+    {
+      "title": "나좀티엔 해변, 정체불명 배수관에서 오염수 유출… 주민 우려",
+      "summary": "- 나좀티엔 해변에서 검은 오염수를 뿜어내는 배수관 발견.\n- 악취와 오염으로 관광객과 주민들이 불편을 겪고 있음.\n- 관계 당국에 빠른 조치 촉구.",
+      "full_translated": "파타야 뉴스에 따르면 나좀티엔 해변의 '푸 레스토랑' 근처에서 검은 오염수를 방출하는 배수관이 발견되었습니다. 해당 배수관은 모래와 흙에 묻혀 있다가 최근 갑자기 해변에 모습을 드러낸 것으로 보입니다. 배출되는 오염수는 해변으로 퍼져나가 악취를 풍기며, 이로 인해 많은 방문객과 주민들이 불편을 겪고 있습니다. 15세 소녀 아피라냐 분감과 카녹폰 순톤사닛은 이 배수관이 두 달 이상 존재했으며, 누가 설치했는지, 왜 방치되었는지에 대해 의문을 제기했습니다. 지역 주민들은 관계 당국이 신속하게 문제 해결에 나서줄 것을 촉구하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7.0,
+      "impact_reason": "해변 오염은 관광객 경험에 직접적인 악영향을 미치므로 여행 관련 정보로 분류. 수질 오염 및 악취는 관광객의 불쾌감을 유발할 수 있으며, 해변 이용을 저해할 수 있음.",
+      "event_info": "{'date': None, 'location': '나좀티엔 해변', 'price': None, 'location_google_map_query': 'Na Jomtien Beach'}",
+      "references": [
+        {
+          "title": "Residents Alarmed by Mysterious Drainage Pipe Emerging on Na Jomtien Beach, Polluting the Sea with Black Wastewater",
+          "url": "https://thepattayanews.com/2026/02/18/residents-alarmed-by-mysterious-drainage-pipe-emerging-on-na-jomtien-beach-polluting-the-sea-with-black-wastewater/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713616557663223035600823561012.jpg?v=1771361753"
+        }
+      ],
+      "collected_at": "4:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713616557663223035600823561012.jpg?v=1771361753",
+      "date": "2026-02-18",
+      "link": "https://thepattayanews.com/2026/02/18/residents-alarmed-by-mysterious-drainage-pipe-emerging-on-na-jomtien-beach-polluting-the-sea-with-black-wastewater/",
+      "source": ""
+    },
+    {
+      "title": "방라뭉 경찰, 소포 배달 이용한 마약 네트워크 적발…36세 남성과 에이전트 체포",
+      "summary": "- 방라뭉 지역에서 소포 배달을 이용한 마약 유통 조직이 적발되어 용의자 Natthawat(36세)이 체포됨.\n- 경찰은 손상된 소포에서 크리스탈 메스암페타민(ice) 58.5g을 발견하고 수사를 시작, CCTV를 통해 용의자를 특정함.\n- 추가 조사 결과, 용의자는 소셜 미디어에 구매자를 유치하는 광고를 게시하고, Line 앱을 통해 고객과 연락한 것으로 드러남.",
+      "full_translated": "방라뭉 경찰서의 사라웃 누차나트 서장의 지휘 하에 용윳 완 느아 수사 부서장과 우티퐁 카사 수사관이 팀을 이끌었습니다. 사건은 2월 16일, 방라뭉 지역의 한 사설 소포 배달 가게 주인이 손상된 소포를 발견한 후 경찰에 신고하면서 시작되었습니다. 소포 안에는 약 58.5g에 달하는 17개 이상의 크리스탈 메스암페타민(‘ice’) 봉지가 들어 있었습니다. 이에 놀란 가게 주인은 즉시 당국에 연락하여 조사를 요청했습니다. 경찰 수사관은 CCTV 영상을 검토하고 증거를 수집하여 발신자가 36세의 Natthawat Wichaidit(Nat으로도 알려짐)임을 신속하게 확인했습니다. 경찰은 그를 추적하여 체포하고 추가 메스암페타민, 포장 상자, 포장에 사용된 알루미늄 호일 및 기타 관련 장비를 압수했습니다. 심문과 추가 수사 과정에서 Natthawat은 해당 지역의 에이전트인 Tong Saengsakun으로부터 마약을 받았다고 자백했습니다. 경찰은 통제된 구매 작전을 설정하여 나 클루아 하위 구역의 한 사원에서 인계하도록 했습니다. 전달 즉시 경찰은 투입하여 에이전트를 체포하고 5g 이상의 크리스탈 메스암페타민을 압수했습니다. Natthawat은 메스암페타민 구매에 관심이 있는 구매자를 유치하기 위해 소셜 미디어에 광고를 게시했다고 인정했습니다. 고객은 그의 개인 Line 애플리케이션을 통해 그에게 연락했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6.0,
+      "impact_reason": "마약 관련 범죄 발생은 여행객의 안전에 간접적인 영향을 줄 수 있으며, 특히 밤 시간대에 주의가 필요함을 알릴 필요가 있음. 파타야 지역 여행자에게 정보를 제공.",
+      "event_info": "{'date': None, 'location': '방라뭉', 'price': None, 'location_google_map_query': '방라뭉'}",
+      "references": [
+        {
+          "title": "Banglamung Police Bust Drug Network Using Parcel Delivery, Arrest 36-Year-Old Man and Agent",
+          "url": "https://thepattayanews.com/2026/02/17/banglamung-police-bust-drug-network-using-parcel-delivery-arrest-36-year-old-man-and-agent/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260217_2304297110359297142973324.jpg?v=1771344371"
+        }
+      ],
+      "collected_at": "4:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260217_2304297110359297142973324.jpg?v=1771344371",
+      "date": "2026-02-18",
+      "link": "https://thepattayanews.com/2026/02/17/banglamung-police-bust-drug-network-using-parcel-delivery-arrest-36-year-old-man-and-agent/",
+      "source": ""
+    },
+    {
+      "title": "파타야 및 좀티엔 지역, 버추얼 키친 배달 서비스 확장",
+      "summary": "- 버추얼 키친, 파타야 및 좀티엔 지역에서 배달 전용 레스토랑 컨셉 확장.\n- 다양한 요리를 한 번에 주문 가능하며, 음식의 질과 빠른 배달에 집중.\n- 고객은 집, 사무실, 호텔에서 다양한 맛을 즐길 수 있으며, 10개 이상의 전문 브랜드를 통해 선택의 폭을 넓힘.",
+      "full_translated": "파타야 뉴스에 따르면 버추얼 키친이 파타야와 좀티엔 지역에서 배달 전용 서비스를 확장합니다. 이 서비스는 고객이 퀄리티를 저하시키지 않으면서 편리하게 다양한 레스토랑 컨셉을 이용할 수 있도록 설계되었습니다. 태국 향신료와 길거리 음식부터 미국식 편안한 음식, 라틴 아메리카의 풍미까지, 이 플랫폼은 파타야 전역의 가정, 사무실, 호텔로 세계 각국의 맛을 직접 배달합니다. 버추얼 키친 대변인은 “우리의 목표는 훌륭한 음식을 매우 쉽게 이용할 수 있도록 하는 것입니다. 우리의 존재를 확장함으로써 고객이 거주하고, 일하고, 여행하는 곳에서 고객을 만나고 있습니다. 동시에 단일 레스토랑이 제공할 수 있는 것보다 더 많은 선택권을 제공합니다.”라고 밝혔습니다.\n\n기존의 식당과는 달리 버추얼 키친의 모델은 배달에 특화되어 있습니다. 각 브랜드는 속도, 일관성 및 신선도에 최적화된 전문 주방 허브에서 운영됩니다. 이를 통해 회사는 음식의 품질과 효율적인 준비에 전적으로 집중할 수 있으며, 식사가 뜨겁고 포장이 잘 되어 즐길 준비가 되도록 보장합니다. 버추얼 키친은 파타야에서 가장 활발한 지역에 걸쳐 신속한 배달 서비스를 제공합니다. 고객이 근무 시간 동안 점심을 주문하든, 가족과 함께 저녁 식사를 하든, 늦은 밤 편안한 음식을 주문하든, 확장된 네트워크는 신뢰성을 향상시키고 대기 시간을 줄입니다.\n\n버추얼 키친의 매력의 핵심은 10개 이상의 전문 브랜드 포트폴리오입니다. 여러 레스토랑과 배달료 중에서 선택하는 대신 고객은 요리를 혼합하고 일치시킬 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5.0,
+      "impact_reason": "여행객들이 파타야에서 다양한 음식을 편리하게 즐길 수 있도록 서비스 확장 소식을 제공. 새로운 레스토랑 정보에 대한 업데이트는 여행 만족도 향상에 기여.",
+      "event_info": "{'date': None, 'location': '파타야, 좀티엔', 'price': None, 'location_google_map_query': '파타야 버추얼 키친'}",
+      "references": [
+        {
+          "title": "Virtual Kitchen Expands Its Delivery-First Service, Serving Multiple Brands and Creating New Product Experiences Across the Pattaya and Jomtien Areas",
+          "url": "https://thepattayanews.com/2026/02/18/virtual-kitchen-expands-its-delivery-first-service-serving-multiple-brands-and-creating-new-product-experiences-across-the-pattaya-and-jomtien-areas/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1-1024x683.png"
+        }
+      ],
+      "collected_at": "4:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1-1024x683.png",
+      "date": "2026-02-18",
+      "link": "https://thepattayanews.com/2026/02/18/virtual-kitchen-expands-its-delivery-first-service-serving-multiple-brands-and-creating-new-product-experiences-across-the-pattaya-and-jomtien-areas/",
+      "source": ""
+    },
+    {
+      "title": "카오키여우 오픈 동물원, 무뎅을 위한 새로운 하마 마을 계획 발표",
+      "summary": "- 카오키여우 오픈 동물원이 하마 '무뎅'을 포함한 하마들을 위해 새로운 '하마 마을' 조성 계획을 발표했습니다.\n- 기존 사육장의 청결 및 생활 환경에 대한 비판에 대응하여 사육 환경 개선을 목표로 합니다.\n- 약 4에이커 규모로 확장될 예정이며, 6마리의 피그미 하마와 7마리의 일반 하마를 수용할 수 있도록 설계될 것입니다.",
+      "full_translated": "카오키여우 오픈 동물원은 최근 성명을 통해 무뎅의 사육장의 청결 및 생활 환경에 대한 온라인 토론과 비판에 대해 언급했습니다. 동물원 관계자는 소셜 미디어에 퍼진 이미지가 하마의 자연스러운 행동, 즉 영역 표시를 위해 물이나 땅에 배설하는 모습을 담은 것일 수 있다고 밝혔습니다. 사육사들은 세계 동물원 및 수족관 협회(WAZA) 지침에 따라 매일 아침 일상적인 관리의 일환으로 사육장의 폐기물을 청소하고 제거합니다.\n\n동물원은 피그미 하마가 번성하려면 습도가 높은 환경이 필요하다고 설명했습니다. 토양, 진흙 및 수생 식물을 포함한 사육장의 디자인은 동물들이 본능적인 행동을 보이고 건강한 피부를 유지할 수 있도록 생물학적 원칙에 기반하여 의도적으로 설계되었습니다. 이 설정은 방치가 아니라 그들의 자연스러운 필요와 웰빙을 지원하기 위한 의도적인 노력입니다.\n\n카오키여우 오픈 동물원은 '하마 마을'이라는 장기 개발 프로젝트를 추진할 계획이라고 발표했습니다. 이미 동물원 위원회의 설계 승인을 받은 이 계획은 전용 하마 서식지를 약 10라이(약 4에이커)로 확장할 것입니다. 업그레이드된 지역은 무뎅을 포함한 현재 6마리의 피그미 하마와 7마리의 일반 하마를 편안하게 수용할 수 있도록 더 넓고 생태학적으로 적절한 생활 환경을 제공할 것입니다. 건설은 소음이나 활동과 같은 교란을 최소화하기 위해 최대한의 주의를 기울여 진행될 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4.0,
+      "impact_reason": "동물원 환경 개선 소식은 관광객들에게 흥미로운 정보가 될 수 있지만, 여행에 직접적인 영향을 미치지는 않으므로 중간 점수를 부여합니다.",
+      "event_info": "{'date': None, 'location': 'Khao Kheow Open Zoo', 'price': None, 'location_google_map_query': 'Khao Kheow Open Zoo'}",
+      "references": [
+        {
+          "title": "Khao Kheow Open Zoo Planning New Hippo Village For Moo Deng and Other Hippos, Addresses Recent Criticism on Current Enclosure",
+          "url": "https://thepattayanews.com/2026/02/17/khao-kheow-open-zoo-planning-new-hippo-village-for-moo-deng-and-other-hippos-addresses-recent-criticism-on-current-enclosure/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713421161551572937788539215249.jpg?v=1771342239"
+        }
+      ],
+      "collected_at": "4:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713421161551572937788539215249.jpg?v=1771342239",
+      "date": "2026-02-18",
+      "link": "https://thepattayanews.com/2026/02/17/khao-kheow-open-zoo-planning-new-hippo-village-for-moo-deng-and-other-hippos-addresses-recent-criticism-on-current-enclosure/",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역, 총기 소지 남성 난동으로 학교 긴급 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어감.\n- 경찰이 해당 남성을 추적 중이며, 학생들의 안전 확보가 최우선.\n- 해당 지역을 방문하는 여행객은 안전에 유의하고, 현지 당국의 지침을 따르는 것이 중요.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 해당 남성을 추적하고 있으며, 주민과 학생들의 안전을 확보하기 위해 최선을 다하고 있습니다. 여행객은 해당 지역 방문 시 안전에 각별히 유의하시고, 현지 당국의 안내에 따라주시기 바랍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 이미 게시된 뉴스이지만, 상황이 진행 중이므로 재게시.",
       "event_info": {
         "date": null,
-        "location": "라드룸깨우 지역",
+        "location": "라드룸깨우",
         "price": null,
-        "location_google_map_query": "Lat Lum Kaeo"
+        "location_google_map_query": "Lat Lum Kaeo, Thailand"
       },
       "references": [
         {
@@ -18964,107 +19078,145 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "04:53",
       "date": "2026-02-18"
     },
     {
-      "title": "나좀티엔 해변, 정체불명 배수관에서 오염수 유출… 주민 우려",
-      "summary": "- 나좀티엔 해변에서 검은 오염수를 뿜어내는 배수관 발견.\n- 악취와 오염으로 관광객과 주민들이 불편을 겪고 있음.\n- 관계 당국에 빠른 조치 촉구.",
-      "full_translated": "파타야 뉴스에 따르면 나좀티엔 해변의 '푸 레스토랑' 근처에서 검은 오염수를 방출하는 배수관이 발견되었습니다. 해당 배수관은 모래와 흙에 묻혀 있다가 최근 갑자기 해변에 모습을 드러낸 것으로 보입니다. 배출되는 오염수는 해변으로 퍼져나가 악취를 풍기며, 이로 인해 많은 방문객과 주민들이 불편을 겪고 있습니다. 15세 소녀 아피라냐 분감과 카녹폰 순톤사닛은 이 배수관이 두 달 이상 존재했으며, 누가 설치했는지, 왜 방치되었는지에 대해 의문을 제기했습니다. 지역 주민들은 관계 당국이 신속하게 문제 해결에 나서줄 것을 촉구하고 있습니다.",
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동, 학교 긴급 휴교 (상황 업데이트)",
+      "summary": "- 라드룸깨우 지역에서 총기 소지 남성으로 인해 학교들이 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 주민들의 안전 확보에 주력하고 있음.\n- 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 주시해야 함.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여, 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 현재 용의자를 추적 중이며, 추가적인 안전 확보를 위해 노력하고 있습니다. 해당 지역을 방문 예정인 여행객은 안전을 위해 방문을 자제하고, 관련 소식을 지속적으로 확인하시기 바랍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "최근 24시간 내 동일 제목의 기사가 게시되었으나, 상황이 계속 진행 중이므로 업데이트된 정보 제공. 여행객 안전에 대한 잠재적 위협이 있으므로 높은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 '광인' 추적 중 - 여러 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드룸깨우 지역 총기 난동, 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 남성 난동으로 학교 임시 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "04:53",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "파타야 배달 기사, 오토바이 운전자에게 쇠막대기 공격 받아",
+      "summary": "- 파타야에서 배달 기사가 역주행하는 오토바이 운전자에게 항의했다가 쇠막대기로 공격받음.\n- 피해자는 경찰에 신고하고 치료를 받았으며, 경찰은 용의자를 추적 중.\n- 도로 안전 위반은 위험한 상황으로 이어질 수 있으므로 주의 요망.",
+      "full_translated": "파타야 뉴스에 따르면, 쑤파촉 삼매멕 씨는 새벽 1시 20분경 파타야 경찰서에 신고했습니다. 쑤파촉 씨는 인기 음식 배달 앱을 통해 배달 기사로 일하고 있으며, 포티산 7 골목에서 사건이 발생했다고 설명했습니다. 그는 주문을 받아 배달을 위해 골목으로 들어가던 중 역주행하는 오토바이 운전자와 마주쳤습니다. 위험한 운전에 놀란 그는 무심코 \"히아\" (태국 욕설)라고 외쳐 불만을 표현했습니다. 젊은 남성으로 알려진 다른 운전자는 이 외침을 듣고 격분했습니다. 그는 오토바이를 돌려 쇠막대기로 무장한 채 쑤파촉 씨를 뒤쫓아와 그에게 맞섰습니다. 상황은 빠르게 언쟁으로 번졌고, 이후 물리적 충돌로 이어졌습니다. 공격자는 쇠막대기로 쑤파촉 씨를 때려 부상을 입힌 것으로 알려졌습니다. 충격과 고통에 쑤파촉 씨는 치료를 받고 부상 증거로 진단서를 받았습니다. 그런 다음 경찰서에 공식 신고했습니다. 경찰은 이 보고서를 초기 증거로 기록했으며, 경찰관들이 용의자를 추적하여 법적 절차를 진행할 것이라고 밝혔습니다. 당국은 역주행과 같은 도로 안전 위반은 위험한 대립으로 이어질 수 있다고 상기시키며, 정보가 있는 사람은 누구든 신고해 줄 것을 당부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 외국인 대상 범죄 발생 가능성을 보여주므로 여행 안전에 영향을 줄 수 있음. 특히 늦은 밤 배달 서비스를 이용하는 여행객에게 주의를 요함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야, Soi Phothisarn 7",
+        "price": null,
+        "location_google_map_query": "Soi Phothisarn 7, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Delivery Rider Says He Was Attacked With Iron Bar After Reprimanding Motorcyclist Driving Wrong Way",
+          "url": "https://thepattayanews.com/2026/02/18/pattaya-delivery-rider-says-he-was-attacked-with-iron-bar-after-reprimanding-motorcyclist-driving-wrong-way/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260218_0418057380009998506726779.jpg?v=1771363134"
+        }
+      ],
+      "collected_at": "04:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260218_0418057380009998506726779.jpg?v=1771363134",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국, 춘절 맞아 하루 3만 명의 중국인 관광객 맞이 - VisaHQ",
+      "summary": "- 태국이 춘절 연휴 기간 동안 하루 3만 명의 중국인 관광객을 맞이하고 있습니다.\n- 이는 태국 관광 산업에 큰 활력을 불어넣을 것으로 예상됩니다.\n- 비자 관련 정보는 VisaHQ에서 확인할 수 있습니다.",
+      "full_translated": "태국은 춘절 연휴가 시작됨에 따라 하루 3만 명의 중국인 관광객을 맞이하고 있습니다. VisaHQ",
       "category": "TRAVEL",
       "tourist_impact_score": 7,
-      "impact_reason": "해변 오염은 관광객 경험에 직접적인 악영향을 미치므로 여행 관련 정보로 분류. 수질 오염 및 악취는 관광객의 불쾌감을 유발할 수 있으며, 해변 이용을 저해할 수 있음.",
+      "impact_reason": "춘절 기간 동안 태국을 방문하는 중국인 관광객 수 증가에 대한 정보로, 여행객에게 유용한 정보입니다. 공항 혼잡, 인기 관광지 붐빔 등이 예상되므로 여행 계획에 참고할 수 있습니다.",
       "event_info": {
         "date": null,
-        "location": "나좀티엔 해변",
+        "location": null,
         "price": null,
-        "location_google_map_query": "Na Jomtien Beach"
+        "location_google_map_query": null
       },
       "references": [
         {
-          "title": "Residents Alarmed by Mysterious Drainage Pipe Emerging on Na Jomtien Beach, Polluting the Sea with Black Wastewater",
-          "url": "https://thepattayanews.com/2026/02/18/residents-alarmed-by-mysterious-drainage-pipe-emerging-on-na-jomtien-beach-polluting-the-sea-with-black-wastewater/",
-          "source": "The Pattaya News",
-          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713616557663223035600823561012.jpg?v=1771361753"
+          "title": "Thailand Greets 30,000 Chinese Tourists per Day as Lunar New Year Peak Begins - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVNueWZhRFlzTDZGUzZVTGN5Mm4xOGFTY0swVmwta2lhVlRQREtBeTNyZndKZ3lJQWc3TU0yak9uRzJqc0VHdlBKNmU0SzVSdlJVU0JFLXJ3MTlaVlZ0ZFhjR3R4QUdMbUNxSlc2ZVBHZ2RhY0pCLURObzgycGhsQjBvNVd4bVl2NmZvdndLM3ExOEt4NjJycUVVMENKbGkxVjlxZW9BajlIcEQxWmZ4eW4xOUZPTUEtQ0xZ?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:02",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713616557663223035600823561012.jpg?v=1771361753",
+      "collected_at": "04:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-18"
     },
     {
-      "title": "방라뭉 경찰, 소포 배달 이용한 마약 네트워크 적발…36세 남성과 에이전트 체포",
-      "summary": "- 방라뭉 지역에서 소포 배달을 이용한 마약 유통 조직이 적발되어 용의자 Natthawat(36세)이 체포됨.\n- 경찰은 손상된 소포에서 크리스탈 메스암페타민(ice) 58.5g을 발견하고 수사를 시작, CCTV를 통해 용의자를 특정함.\n- 추가 조사 결과, 용의자는 소셜 미디어에 구매자를 유치하는 광고를 게시하고, Line 앱을 통해 고객과 연락한 것으로 드러남.",
-      "full_translated": "방라뭉 경찰서의 사라웃 누차나트 서장의 지휘 하에 용윳 완 느아 수사 부서장과 우티퐁 카사 수사관이 팀을 이끌었습니다. 사건은 2월 16일, 방라뭉 지역의 한 사설 소포 배달 가게 주인이 손상된 소포를 발견한 후 경찰에 신고하면서 시작되었습니다. 소포 안에는 약 58.5g에 달하는 17개 이상의 크리스탈 메스암페타민(‘ice’) 봉지가 들어 있었습니다. 이에 놀란 가게 주인은 즉시 당국에 연락하여 조사를 요청했습니다. 경찰 수사관은 CCTV 영상을 검토하고 증거를 수집하여 발신자가 36세의 Natthawat Wichaidit(Nat으로도 알려짐)임을 신속하게 확인했습니다. 경찰은 그를 추적하여 체포하고 추가 메스암페타민, 포장 상자, 포장에 사용된 알루미늄 호일 및 기타 관련 장비를 압수했습니다. 심문과 추가 수사 과정에서 Natthawat은 해당 지역의 에이전트인 Tong Saengsakun으로부터 마약을 받았다고 자백했습니다. 경찰은 통제된 구매 작전을 설정하여 나 클루아 하위 구역의 한 사원에서 인계하도록 했습니다. 전달 즉시 경찰은 투입하여 에이전트를 체포하고 5g 이상의 크리스탈 메스암페타민을 압수했습니다. Natthawat은 메스암페타민 구매에 관심이 있는 구매자를 유치하기 위해 소셜 미디어에 광고를 게시했다고 인정했습니다. 고객은 그의 개인 Line 애플리케이션을 통해 그에게 연락했습니다.",
-      "category": "POLITICS",
-      "tourist_impact_score": 6,
-      "impact_reason": "마약 관련 범죄 발생은 여행객의 안전에 간접적인 영향을 줄 수 있으며, 특히 밤 시간대에 주의가 필요함을 알릴 필요가 있음. 파타야 지역 여행자에게 정보를 제공.",
-      "event_info": {
-        "date": null,
-        "location": "방라뭉",
-        "price": null,
-        "location_google_map_query": "방라뭉"
-      },
-      "references": [
-        {
-          "title": "Banglamung Police Bust Drug Network Using Parcel Delivery, Arrest 36-Year-Old Man and Agent",
-          "url": "https://thepattayanews.com/2026/02/17/banglamung-police-bust-drug-network-using-parcel-delivery-arrest-36-year-old-man-and-agent/",
-          "source": "The Pattaya News",
-          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260217_2304297110359297142973324.jpg?v=1771344371"
-        }
-      ],
-      "collected_at": "04:02",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260217_2304297110359297142973324.jpg?v=1771344371",
-      "date": "2026-02-18"
-    },
-    {
-      "title": "파타야 및 좀티엔 지역, 버추얼 키친 배달 서비스 확장",
-      "summary": "- 버추얼 키친, 파타야 및 좀티엔 지역에서 배달 전용 레스토랑 컨셉 확장.\n- 다양한 요리를 한 번에 주문 가능하며, 음식의 질과 빠른 배달에 집중.\n- 고객은 집, 사무실, 호텔에서 다양한 맛을 즐길 수 있으며, 10개 이상의 전문 브랜드를 통해 선택의 폭을 넓힘.",
-      "full_translated": "파타야 뉴스에 따르면 버추얼 키친이 파타야와 좀티엔 지역에서 배달 전용 서비스를 확장합니다. 이 서비스는 고객이 퀄리티를 저하시키지 않으면서 편리하게 다양한 레스토랑 컨셉을 이용할 수 있도록 설계되었습니다. 태국 향신료와 길거리 음식부터 미국식 편안한 음식, 라틴 아메리카의 풍미까지, 이 플랫폼은 파타야 전역의 가정, 사무실, 호텔로 세계 각국의 맛을 직접 배달합니다. 버추얼 키친 대변인은 “우리의 목표는 훌륭한 음식을 매우 쉽게 이용할 수 있도록 하는 것입니다. 우리의 존재를 확장함으로써 고객이 거주하고, 일하고, 여행하는 곳에서 고객을 만나고 있습니다. 동시에 단일 레스토랑이 제공할 수 있는 것보다 더 많은 선택권을 제공합니다.”라고 밝혔습니다.\n\n기존의 식당과는 달리 버추얼 키친의 모델은 배달에 특화되어 있습니다. 각 브랜드는 속도, 일관성 및 신선도에 최적화된 전문 주방 허브에서 운영됩니다. 이를 통해 회사는 음식의 품질과 효율적인 준비에 전적으로 집중할 수 있으며, 식사가 뜨겁고 포장이 잘 되어 즐길 준비가 되도록 보장합니다. 버추얼 키친은 파타야에서 가장 활발한 지역에 걸쳐 신속한 배달 서비스를 제공합니다. 고객이 근무 시간 동안 점심을 주문하든, 가족과 함께 저녁 식사를 하든, 늦은 밤 편안한 음식을 주문하든, 확장된 네트워크는 신뢰성을 향상시키고 대기 시간을 줄입니다.\n\n버추얼 키친의 매력의 핵심은 10개 이상의 전문 브랜드 포트폴리오입니다. 여러 레스토랑과 배달료 중에서 선택하는 대신 고객은 요리를 혼합하고 일치시킬 수 있습니다.",
+      "title": "파타야 인근 차이 포 위티 도로, 시공사 수년간 방치로 주민 불편 가중",
+      "summary": "- 파타야 인근 차이 포 위티 도로가 수년간 방치되어 주민들의 불만이 커지고 있습니다.\n- 300m가 넘는 구간에 큰 구덩이가 파여 방치되었고, 대형 시멘트 파이프도 흩어져 있습니다.\n- 시공사는 최근 임시방편으로 보수 작업을 시작했지만, 주민들은 신속한 공사 완료를 촉구하고 있습니다.",
+      "full_translated": "파타야 뉴스팀은 피해를 입은 마을 주민들의 불만을 접수하고 현장을 방문하여 도로 상태를 점검했습니다. 300미터가 넘는 구간에 걸쳐 도로가 여러 개의 큰 구덩이로 파헤쳐진 채 수년간 방치되어 있습니다. 대형 시멘트 파이프도 마을 앞 길가에 놓여 방치되어 있는데, 이는 배수관 설치 프로젝트의 일환임을 시사합니다. 반 이우아-아톤 나 클루아 앞 지역은 폭우가 내릴 때마다 심각한 침수를 겪고 있어 배수 개선 노력이 이루어진 것으로 보입니다. 그러나 프로젝트를 감독하는 책임 기관 또는 부서는 불분명합니다. 인근 주민들은 좌절감을 토로하며 다음과 같이 말했습니다. \"그들은 파헤쳐 놓고 아무것도 하지 않았습니다. 이렇게 몇 년 동안 방치할 거면 왜 서둘러 파헤쳤을까요? 고통받는 것은 우리입니다.\" 작은 구멍으로 시작된 것이 장기간의 노출과 교통으로 인해 큰 구덩이로 확장되었습니다. 구덩이는 빽빽하게 흩어져 있어 안전하게 피할 수 있는 길이 없어 이동이 매우 어렵고 위험합니다. 마을 주민들은 당국에 어떤 방법을 사용하든 신속하게 공사를 완료할 것을 촉구하고 있습니다. \"제발 끝내주세요, 무슨 수를 써서라도!\" 최근 시공업체는 3명의 인부를 현장에 파견했습니다. 그들은 시멘트를 섞어 임시방편으로 움푹 들어간 곳을 메우기 시작했습니다. 외국인 노동자인 그들은 임시 조치를 완료할 것으로 예상한다고 밝혔습니다.",
       "category": "TRAVEL",
       "tourist_impact_score": 5,
-      "impact_reason": "여행객들이 파타야에서 다양한 음식을 편리하게 즐길 수 있도록 서비스 확장 소식을 제공. 새로운 레스토랑 정보에 대한 업데이트는 여행 만족도 향상에 기여.",
+      "impact_reason": "파타야 지역 도로 공사 지연으로 인한 교통 불편은 여행객에게도 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단.",
       "event_info": {
         "date": null,
-        "location": "파타야, 좀티엔",
+        "location": "차이 포 위티 도로, 파타야",
         "price": null,
-        "location_google_map_query": "파타야 버추얼 키친"
+        "location_google_map_query": "Chai Phor Withi Road, Pattaya"
       },
       "references": [
         {
-          "title": "Virtual Kitchen Expands Its Delivery-First Service, Serving Multiple Brands and Creating New Product Experiences Across the Pattaya and Jomtien Areas",
-          "url": "https://thepattayanews.com/2026/02/18/virtual-kitchen-expands-its-delivery-first-service-serving-multiple-brands-and-creating-new-product-experiences-across-the-pattaya-and-jomtien-areas/",
+          "title": "Residents Frustrated as Contractor Leaves Road Excavated for Years on Chai Phor Withi Road Near Pattaya",
+          "url": "https://thepattayanews.com/2026/02/17/residents-frustrated-as-contractor-leaves-road-excavated-for-years-on-chai-phor-withi-road-near-pattaya/",
           "source": "The Pattaya News",
-          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1-1024x683.png"
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771351331618-scaled.jpg?v=1771351401"
         }
       ],
-      "collected_at": "04:02",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1-1024x683.png",
-      "date": "2026-02-18"
-    },
-    {
-      "title": "카오키여우 오픈 동물원, 무뎅을 위한 새로운 하마 마을 계획 발표",
-      "summary": "- 카오키여우 오픈 동물원이 하마 '무뎅'을 포함한 하마들을 위해 새로운 '하마 마을' 조성 계획을 발표했습니다.\n- 기존 사육장의 청결 및 생활 환경에 대한 비판에 대응하여 사육 환경 개선을 목표로 합니다.\n- 약 4에이커 규모로 확장될 예정이며, 6마리의 피그미 하마와 7마리의 일반 하마를 수용할 수 있도록 설계될 것입니다.",
-      "full_translated": "카오키여우 오픈 동물원은 최근 성명을 통해 무뎅의 사육장의 청결 및 생활 환경에 대한 온라인 토론과 비판에 대해 언급했습니다. 동물원 관계자는 소셜 미디어에 퍼진 이미지가 하마의 자연스러운 행동, 즉 영역 표시를 위해 물이나 땅에 배설하는 모습을 담은 것일 수 있다고 밝혔습니다. 사육사들은 세계 동물원 및 수족관 협회(WAZA) 지침에 따라 매일 아침 일상적인 관리의 일환으로 사육장의 폐기물을 청소하고 제거합니다.\n\n동물원은 피그미 하마가 번성하려면 습도가 높은 환경이 필요하다고 설명했습니다. 토양, 진흙 및 수생 식물을 포함한 사육장의 디자인은 동물들이 본능적인 행동을 보이고 건강한 피부를 유지할 수 있도록 생물학적 원칙에 기반하여 의도적으로 설계되었습니다. 이 설정은 방치가 아니라 그들의 자연스러운 필요와 웰빙을 지원하기 위한 의도적인 노력입니다.\n\n카오키여우 오픈 동물원은 '하마 마을'이라는 장기 개발 프로젝트를 추진할 계획이라고 발표했습니다. 이미 동물원 위원회의 설계 승인을 받은 이 계획은 전용 하마 서식지를 약 10라이(약 4에이커)로 확장할 것입니다. 업그레이드된 지역은 무뎅을 포함한 현재 6마리의 피그미 하마와 7마리의 일반 하마를 편안하게 수용할 수 있도록 더 넓고 생태학적으로 적절한 생활 환경을 제공할 것입니다. 건설은 소음이나 활동과 같은 교란을 최소화하기 위해 최대한의 주의를 기울여 진행될 것입니다.",
-      "category": "POLITICS",
-      "tourist_impact_score": 4,
-      "impact_reason": "동물원 환경 개선 소식은 관광객들에게 흥미로운 정보가 될 수 있지만, 여행에 직접적인 영향을 미치지는 않으므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": "Khao Kheow Open Zoo",
-        "price": null,
-        "location_google_map_query": "Khao Kheow Open Zoo"
-      },
-      "references": [
-        {
-          "title": "Khao Kheow Open Zoo Planning New Hippo Village For Moo Deng and Other Hippos, Addresses Recent Criticism on Current Enclosure",
-          "url": "https://thepattayanews.com/2026/02/17/khao-kheow-open-zoo-planning-new-hippo-village-for-moo-deng-and-other-hippos-addresses-recent-criticism-on-current-enclosure/",
-          "source": "The Pattaya News",
-          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713421161551572937788539215249.jpg?v=1771342239"
-        }
-      ],
-      "collected_at": "04:02",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17713421161551572937788539215249.jpg?v=1771342239",
+      "collected_at": "04:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771351331618-scaled.jpg?v=1771351401",
       "date": "2026-02-18"
     }
   ]
