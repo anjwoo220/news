@@ -909,6 +909,7 @@ def update_hotel_agoda_url(hotel_name, agoda_url):
     """
     특정 호텔의 아고다 직통 URL을 업데이트합니다.
     관리자가 직통 링크를 수동으로 입력할 때 사용.
+    동일 호텔의 모든 행(한국어/영어 등)에 대해 일괄 업데이트합니다.
     """
     client = get_hotel_gsheets_client()
     if not client: return False
@@ -916,11 +917,17 @@ def update_hotel_agoda_url(hotel_name, agoda_url):
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        cell = sheet.find(hotel_name)
-        if cell:
-            # 5번째 컬럼(E열)에 URL 업데이트
-            sheet.update_cell(cell.row, 5, agoda_url)
-            print(f"✅ Updated Agoda URL for: {hotel_name}")
+        # 모든 행에서 호텔명 검색 (다중 언어 행 모두 업데이트)
+        all_values = sheet.get_all_values()
+        updated_count = 0
+        for idx, row in enumerate(all_values):
+            if row and row[0] == hotel_name:
+                # 5번째 컬럼(E열)에 URL 업데이트
+                sheet.update_cell(idx + 1, 5, agoda_url)
+                updated_count += 1
+        
+        if updated_count > 0:
+            print(f"✅ Updated Agoda URL for: {hotel_name} ({updated_count} rows)")
             return True
         else:
             print(f"❌ Hotel not found: {hotel_name}")
@@ -934,6 +941,7 @@ def update_hotel_myrealtrip_url(hotel_name, myrealtrip_url):
     """
     특정 호텔의 마이리얼트립 URL을 업데이트합니다.
     관리자가 직통 링크를 수동으로 입력할 때 사용.
+    동일 호텔의 모든 행(한국어/영어 등)에 대해 일괄 업데이트합니다.
     """
     client = get_hotel_gsheets_client()
     if not client: return False
@@ -941,11 +949,17 @@ def update_hotel_myrealtrip_url(hotel_name, myrealtrip_url):
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        cell = sheet.find(hotel_name)
-        if cell:
-            # 7번째 컬럼(G열)에 URL 업데이트
-            sheet.update_cell(cell.row, 7, myrealtrip_url)
-            print(f"✅ Updated MyRealTrip URL for: {hotel_name}")
+        # 모든 행에서 호텔명 검색 (다중 언어 행 모두 업데이트)
+        all_values = sheet.get_all_values()
+        updated_count = 0
+        for idx, row in enumerate(all_values):
+            if row and row[0] == hotel_name:
+                # 7번째 컬럼(G열)에 URL 업데이트 (행 인덱스는 1-based)
+                sheet.update_cell(idx + 1, 7, myrealtrip_url)
+                updated_count += 1
+        
+        if updated_count > 0:
+            print(f"✅ Updated MyRealTrip URL for: {hotel_name} ({updated_count} rows)")
             return True
         else:
             print(f"❌ Hotel not found: {hotel_name}")
@@ -953,6 +967,7 @@ def update_hotel_myrealtrip_url(hotel_name, myrealtrip_url):
     except Exception as e:
         print(f"MyRealTrip Update Error: {e}")
         return False
+
 
 
 def get_hotel_link(hotel_name, cached_agoda_url=None):
