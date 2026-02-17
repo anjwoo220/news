@@ -19334,14 +19334,9 @@
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어갔습니다.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전을 위해 휴교 조치가 내려졌습니다.\n- 해당 지역 여행 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 현재 용의자를 추적하고 있으며, 추가적인 피해를 막기 위해 최선을 다하고 있습니다. 해당 지역을 여행 중이거나 여행 예정인 분들은 현지 뉴스를 주시하고, 당국의 지침에 따라 안전에 유의하시기 바랍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 되므로 높은 점수를 부여. 이미 게시된 기사와 동일한 내용이지만, 새로운 정보가 있을 수 있고, 아침 브리핑이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우 지역",
-        "price": null,
-        "location_google_map_query": "라드룸깨우"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우 지역', 'price': None, 'location_google_map_query': '라드룸깨우'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -19349,22 +19344,20 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "05:56",
-      "date": "2026-02-18"
+      "collected_at": "5:56",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "중국 설 연휴, 항공 수요 급증 예상",
       "summary": "- 중국 설 연휴 기간(2월 17일-26일) 동안 태국-중국 항공편 하루 평균 3,000편 운항 예상, 전년 대비 8.3% 증가.\n- 수완나품 공항 하루 평균 1,150편, 돈므앙 공항 700편, 푸껫, 치앙마이 공항 220편 운항 예상.\n- Aerothai는 항공 교통 관리 조치를 시행하고 비상 상황 대비 계획을 수립.",
       "full_translated": "태국 항공 무선(Aerothai)은 중국 설 연휴 기간 동안 항공 교통량 급증에 대비하고 있다고 밝혔습니다. 2월 17일부터 26일까지 중국과 태국 간 항공편은 하루 평균 약 3,000편으로 예상되며, 이는 작년 동기 대비 8.3% 증가한 수치입니다. 수라차이 누프롬 사장 대행은 항공 여행 활동이 축제에 앞서 증가하기 시작했으며, 2월 10일부터 하루 평균 항공편이 2,895편으로 증가하여 전년 대비 7% 증가했다고 밝혔습니다. 일부 날에는 항공편 수가 3,000편을 초과했습니다. Aerothai는 10일간의 중국 설 연휴 기간 동안 총 29,096편의 항공편, 즉 하루 평균 2,910편을 예상합니다. 태국과 중국 간 국제선 노선이 하루 평균 약 330편으로 가장 높으며, 1월 이후 상당한 회복세를 보이고 있습니다. 인도와 말레이시아 노선이 각각 하루 평균 130편과 98편으로 그 뒤를 잇고 있습니다. 축제 기간 동안 가장 붐비는 4개의 공항은 수완나품(하루 평균 1,150편), 돈므앙(700편), 푸껫, 치앙마이(220편)가 될 것으로 예상됩니다. 수라차이 씨는 Aerothai가 공항 수용 능력에 따른 슬롯 배정 조정 및 강화된 항공 교통 흐름 관리 절차를 포함한 항공 교통 관리 조치를 시행했다고 밝혔습니다. 인력 수준, 장비 및 기술이 강화되었으며, 성수기 동안 비상 사태에 대처하기 위한 비상 계획이 마련되었습니다. 그는 \"이번 중국 설 연휴 기간 동안 항공편 수가 증가한 것은 분명한",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중국 설 연휴 기간 동안 항공 교통량 증가로 인한 공항 혼잡 예상. 여행객에게 시간 여유를 가지고 공항에 도착할 것을 권장.",
-      "event_info": {
-        "date": "2026-02-17",
-        "location": "수완나품, 돈므앙, 푸껫, 치앙마이 공항",
-        "price": "해당사항 없음",
-        "location_google_map_query": "Suvarnabhumi Airport, Don Mueang Airport, Phuket Airport, Chiang Mai Airport"
-      },
+      "event_info": "{'date': '2026-02-17', 'location': '수완나품, 돈므앙, 푸껫, 치앙마이 공항', 'price': '해당사항 없음', 'location_google_map_query': 'Suvarnabhumi Airport, Don Mueang Airport, Phuket Airport, Chiang Mai Airport'}",
       "references": [
         {
           "title": "Lunar New Year lifts demand for flights",
@@ -19373,23 +19366,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "05:56",
+      "collected_at": "5:56",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3199493/lunar-new-year-lifts-demand-for-flights",
+      "source": ""
     },
     {
       "title": "일본, 메콩강 유역 사기 조직 소탕에 124만 바트 지원",
       "summary": "- 일본이 메콩 지역의 초국가적 범죄 대응을 위해 UNODC에 124만 바트를 지원.\n- 온라인 사기 증가와 인권 침해 우려에 따른 조치.\n- 태국, 베트남, 캄보디아, 라오스의 프로젝트 지원 예정.",
       "full_translated": "일본이 메콩 지역의 초국가적 조직 범죄에 대한 국경 간 협력을 강화하기 위해 유엔 마약범죄사무소(UNODC)에 5억 1600만 엔(1억 2400만 바트)을 지원하기로 약속했습니다. 이번 조치는 온라인 사기로 인한 손실 증가와 관련 인권 침해에 대한 우려가 커짐에 따라 이루어졌습니다.\n\n이번 지원금은 방콕에 있는 일본 대사관저에서 월요일 서명 및 교환 각서 행사에서 공식화되었습니다. 이번 자금은 태국, 베트남, 캄보디아, 라오스의 프로젝트를 지원할 예정입니다.\n\n오타카 마사토 주태국 일본 대사는 초국가적 범죄가 작년에 온라인 사기로 3억 2천만 엔의 손실을 기록한 일본을 포함하여 모든 국가에 무차별적으로 영향을 미치고 있다고 말했습니다. 그는 많은 작전이 동남아시아, 특히 메콩 하위 지역의 범죄 조직과 연결되어 있으며, 이 네트워크는 온라인 사기를 통해 전 세계 피해자를 대상으로 하는 국경 간 기업으로 진화했다고 말했습니다. 이러한 범죄는 종종 인신매매 및 강제 범죄와 얽혀 있습니다.\n\n이러한 위협은 다국적 신디케이트가 인공 지능, 첨단 기술 및 관할 격차를 악용하면서 더욱 복잡해졌습니다. 오타카 씨는 \"일본도 이러한 문제에 직면하고 있습니다.\"라고 말했습니다. 그는 이번 자금이 수사 역량을 강화하고, 법 집행 공조를 개선하며, 4개국 간의 국제 협력을 강화할 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "메콩 지역 여행 시 온라인 사기 및 인권 문제에 대한 인식을 높이고 주의를 환기시킬 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Japan backs drive against Mekong scammer gangs",
@@ -19398,23 +19388,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "05:56",
+      "collected_at": "5:56",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3199548/japan-backs-drive-against-mekong-scammer-gangs",
+      "source": ""
     },
     {
       "title": "LPGA 스타들, 툭툭 타고 태국 문화 체험",
       "summary": "- 혼다 LPGA 태국 2026 개최 기념, 선수들이 툭툭 체험.\n- 파자리 아난나루칸 등 유명 선수들이 참여하여 태국 문화 홍보.\n- 툭툭은 태국의 상징으로, 골프와 현지 문화의 조화를 보여줌.",
       "full_translated": "혼다 LPGA 태국 2026을 앞두고 스타들이 툭툭을 타고 태국 문화를 체험했습니다. 태국 스타 파자리 아난나루칸은 뉴질랜드의 리디아 고, 중국의 허 무니, 일본의 요시다 유리, 이탈리아의 베네데타 모레스코와 함께 태국 문화 축하 행사에 참여했습니다. 선수들은 시암 컨트리클럽 올드 코스에서 열리는 대회에 앞서 태국의 상징인 '툭툭'을 타고 태국 문화를 알리는 특별한 포토 세션을 가졌습니다. 선수들은 툭툭을 타고 다니며 즐거운 시간을 보냈습니다. 툭툭은 태국의 가장 상징적인 이미지 중 하나이며, 교통 수단이자 현지 라이프스타일과 관광의 상징으로 국제적으로 알려져 있습니다. 이 활동은 토너먼트 주간에 활기를 더했을 뿐만 아니라 세계적인 스포츠와 지역 문화 간의 다리 역할을 했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 문화를 체험하는 LPGA 스타들의 모습은 관광객들에게 태국에 대한 긍정적인 이미지를 심어줄 수 있다. 하지만 직접적인 여행 정보는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "Siam Country Club Old Course, Chon Buri",
-        "price": "N/A",
-        "location_google_map_query": "Siam Country Club Old Course, Chon Buri"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': 'Siam Country Club Old Course, Chon Buri', 'price': 'N/A', 'location_google_map_query': 'Siam Country Club Old Course, Chon Buri'}",
       "references": [
         {
           "title": "Stars ride tuk-tuk, soak up Thai culture",
@@ -19423,23 +19410,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972188_700.jpg"
         }
       ],
-      "collected_at": "05:56",
+      "collected_at": "5:56",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972188_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/sports/3199423/stars-ride-tuktuk-soak-up-thai-culture",
+      "source": ""
     },
     {
       "title": "푸껫, 장기 체류 비자 정책에 반발…부동산 투자 기준 완화 우려",
       "summary": "- 푸껫 관광 사업자들이 정부의 부동산 투자 연계 장기 체류 비자 정책에 반대\n- 투자 기준이 낮아 불법 활동 외국인 유치 및 부동산 가격 상승 우려\n- 최소 300만 바트 콘도 구매 또는 월 85,000바트 임대 시 1년 장기 비자 신청 가능",
       "full_translated": "푸껫 관광 사업자들이 정부의 부동산 투자 연계 장기 체류 비자 정책에 반대하고 있습니다. 300만 바트 상당의 부동산을 구매하는 외국인에게 장기 체류 비자를 허용하는 정부 정책에 대해, 투자 기준이 너무 낮아 불법 활동에 관여할 수 있는 '비 양질' 방문객을 유치하고, 부동산 가격 상승을 초래하여 지역 주민들의 주택 구매 능력을 저하시킬 수 있다고 주장합니다. 이민국에 따르면 2025년 10월 1일부터 최소 300만 바트 상당의 콘도를 구매하거나 월 85,000바트 이상으로 주택을 임대하는 외국인은 1년 장기 체류 비자를 신청할 수 있습니다. 가족 구성원 또는 부양 가족도 구매자와 함께 체류하기 위한 비자를 신청할 수 있습니다. 푸껫 관광 협회 회장인 타넷 탄티피리야키는 푸껫이 높은 생활비 때문에 장기 여행자를 유치하는 데 치앙마이와 같은 도시보다 일반적으로 성공적이지 못했지만, 새로운 규정으로 인해 외국인이 태국에서 부동산을 취득하는 것이 너무 쉬워질 것이라고 우려한다고 밝혔습니다. 그는 외국인 구매자가 장기 거주권을 확보할 권리를 포함하여 기대하는 혜택에 비해 필요한 부동산 투자액 300만 바트는 너무 낮다고 말했습니다. 그는 그들의 부양 가족이 추가 투자 없이 체류를 신청할 자격이 있다고 덧붙였습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "푸껫 부동산 시장 관련 정책 변경에 대한 내용으로, 단기 여행객보다는 장기 체류 희망 여행객에게 정보 제공 가치가 있다고 판단됨. 부동산 투자 관련 내용이므로 BUSINESS 카테고리로 분류.",
-      "event_info": {
-        "date": null,
-        "location": "Phuket",
-        "price": "최소 300만 바트 콘도 구매 또는 월 85,000바트 임대",
-        "location_google_map_query": "Phuket"
-      },
+      "event_info": "{'date': None, 'location': 'Phuket', 'price': '최소 300만 바트 콘도 구매 또는 월 85,000바트 임대', 'location_google_map_query': 'Phuket'}",
       "references": [
         {
           "title": "Phuket up in arms on long‑stay visa",
@@ -19448,8 +19432,134 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972258_700.jpg"
         }
       ],
-      "collected_at": "05:56",
+      "collected_at": "5:56",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972258_700.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/business/general/3199538/phuket-up-in-arms-on-longstay-visa",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 용의자 추적 중, 학교 긴급 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 경찰이 추적 중.\n- 해당 지역 여러 학교에 긴급 휴교령이 내려짐.\n- 여행객은 해당 지역 방문을 자제하고, 최신 정보를 주시해야 함.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성의 난동 사건이 발생하여 경찰이 용의자를 추적 중입니다. 이로 인해 해당 지역의 여러 학교가 학생들의 안전을 위해 긴급 휴교를 결정했습니다. 여행자들은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따르는 것이 좋습니다. 추가적인 정보는 계속 업데이트될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 되므로 높은 점수 부여. 기존 뉴스에 사건 발생 사실만 있었으나, 현재 용의자 추적 중이므로 '업데이트'로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "มิตรภาพยังดี “อนุทิน-นฤมล” ร่วมวงทานข้าวเย็น ก่อนขึ้นเครื่องกลับ กทม.",
+          "url": "https://www.thairath.co.th/news/politic/2914835",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMOw0F4OZLa8WE.jpg"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMOw0F4OZLa8WE.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역, 총기 소지 남성 추적 중 - 여러 학교 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성을 경찰이 추적 중.\n- 해당 지역의 여러 학교가 긴급 휴교 조치.\n- 여행객 안전에 위협이 될 수 있으므로 주의 필요.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 발견되어 경찰이 추적 중입니다. 이로 인해 해당 지역의 여러 학교가 학생들의 안전을 위해 긴급 휴교에 들어갔습니다. 해당 지역을 여행하는 여행객들은 안전에 유의하시기 바랍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 관련 사건은 여행객의 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여. 특히 학교 휴교는 사건의 심각성을 나타내므로 정보 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lad Lum Kaeo"
+      },
+      "references": [
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 '광인' 추적 중 - 여러 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "06:21",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 용의자 추적 중, 학교 휴교령",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 발생.\n- 해당 지역 여러 학교에 긴급 휴교령 내려짐.\n- 경찰, 용의자 추적에 총력.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적 중입니다. 이는 여행객의 안전에 영향을 미칠 수 있으므로 주의가 필요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동으로 인한 여행객 안전 위협. 동일 사건에 대한 업데이트 발생 (용의자 특정 및 추적)",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "다수의 태국 언론"
+        }
+      ],
+      "collected_at": "06:21",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동, 학교 긴급 휴교 지속 (06:21 업데이트)",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동으로 학교들이 긴급 휴교를 지속하고 있습니다.\n- 경찰이 용의자를 추적 중이며, 주민들의 안전에 대한 우려가 커지고 있습니다.\n- 여행 시 해당 지역 방문을 자제하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건이 발생하여 여러 학교가 긴급 휴교를 지속하고 있습니다. 경찰은 용의자를 추적하고 있으며, 주민들의 안전에 대한 우려가 커지고 있습니다. 여행자들은 해당 지역 방문을 자제하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 필수적으로 포함. 아침 업데이트이므로 현 상황을 반영.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "06:21",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국에서 히브리어 사용 이유로 이스라엘 관광객 공격 발생",
+      "summary": "- 태국에서 히브리어를 사용했다는 이유로 이스라엘 관광객에 대한 공격이 발생했습니다.\n- 정확한 공격 위치와 공격자는 아직 확인되지 않았습니다.\n- 현지 경찰이 사건을 조사 중입니다.",
+      "full_translated": "태국에서 히브리어를 사용했다는 이유로 관광객들이 이스라엘 사람들을 공격했습니다. - The Jerusalem Post",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 대상 범죄이므로 여행 안전에 영향을 줄 수 있으며, 특히 특정 국적을 대상으로 하기에 정보 제공 필요.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Tourists attack Israelis in Thailand for speaking Hebrew - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjM2xqZG9pSjNuajc1aHZleHlrRl9PVmVkbnJfYXMtVEh6dW0takVLcFRkTjB6OXBwWWJxSFdvcUhwWko5Sy1sV3huYmRnQkZCbjdTTE5XRWI1X2pBdUxzc1I3dUFWVGVCZlE?oc=5",
+          "source": "The Jerusalem Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-18"
     }
   ]
