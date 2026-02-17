@@ -18596,14 +18596,9 @@
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 발생\n- 해당 지역 학교들 긴급 휴교 조치\n- 경찰, 용의자 추적 중",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성의 난동으로 인해 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 지역 주민들의 안전 확보에 주력하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동은 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 이미 게시된 뉴스지만, 휴교 조치 등 상황 업데이트 발생.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -18616,22 +18611,20 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "01:44",
-      "date": "2026-02-18"
+      "collected_at": "1:44",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 지역, 총기 소지 남성 난동으로 학교 임시 휴교",
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성으로 인해 여러 학교가 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전 확보가 최우선.\n- 여행객들은 해당 지역 방문 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 중요.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성의 난동으로 인해 여러 학교가 임시 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역을 방문하는 여행객들은 안전에 유의해야 합니다. 현지 당국의 지침을 따르는 것이 중요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 관련 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 학교 휴교 정보는 여행 일정에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo, Thailand'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -18644,39 +18637,35 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "01:44",
-      "date": "2026-02-18"
+      "collected_at": "1:44",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 지역 총기 난동 사건, 학교 휴교령",
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어감.\n- 경찰은 용의자를 추적 중이며, 학생들의 안전 확보에 주력하고 있음.\n- 해당 지역 여행 시 안전에 유의하고, 현지 당국의 지침을 따르는 것이 중요함.",
       "full_translated": "급히, 라드룸깨우 경찰서에서 \"차이 클랑\" 추적에 박차 - 여러 학교 긴급 휴교령\n\n방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교\n\n\"어. 라드룸깨우\" 지역의 임시 휴교령이 내려진 학교 명단: 차이 클랑 사건 발생 후",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여. 기존 보도에서 상황 업데이트는 없지만, 여행자 안전 관련 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우 지역",
-        "price": null,
-        "location_google_map_query": "라드룸깨우"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우 지역', 'price': None, 'location_google_map_query': '라드룸깨우'}",
       "references": [],
-      "collected_at": "01:44",
-      "date": "2026-02-18"
+      "collected_at": "1:44",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": "",
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 지역 총기 난동 용의자 추적 중, 학교 휴교",
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 주민들에게 안전에 유의할 것을 당부함.\n- 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 확인해야 함.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성이 난동을 부려 여러 학교가 임시 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역 주민들과 여행객들은 안전에 유의해야 합니다. 관련 학교 목록은 다음과 같습니다 (원문 기사 참조).",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동 사건은 여행객의 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여함. 특히 학교가 휴교할 정도의 상황은 심각성을 나타냄. 기존 뉴스에서 '추적 중'이라는 상황이 업데이트되어 포함.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우 지역",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우 지역', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo, Thailand'}",
       "references": [
         {
           "title": "방콕 인근 라드룸깨우 지역, 총기 소지 '광인' 추적 중 - 여러 학교 긴급 휴교",
@@ -18699,22 +18688,20 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "01:44",
-      "date": "2026-02-18"
+      "collected_at": "1:44",
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 20개 투표소에서 재검표 명령할 수도",
       "summary": "- 태국 선거관리위원회(EC)는 투표 용지 수와 유권자 수의 불일치로 인해 20개 이상의 투표소에서 재검표를 명령할 것으로 예상됩니다.\n- 이는 투표한 사람 수와 실제 투표 용지 수 간에 차이가 발견된 데 따른 것입니다.\n- EC는 추가 재검표를 진행할 경우 2월 말에 실시될 것으로 예상한다고 밝혔습니다.",
       "full_translated": "방콕 — 2026년 2월 17일, 태국 선거관리위원회(EC)는 투표 용지 수와 기록된 유권자 수 사이의 불일치가 발견된 후 20개 이상의 투표소에서 투표 재검표를 명령할 것으로 예상됩니다. 이번 조치는 투표 용지 수가 투표자 수와 일치하지 않는 소위 \"초과 투표 용지\"가 발견된 후 EC 사무국의 제안에 따른 것입니다. 이러한 불일치는 처음 EC 보고서 69 웹사이트(위원회의 비공식 선거 결과 플랫폼)에 게시된 수치를 통해 확인되었습니다. 데이터에 따르면 지역구 의원과 정당 명부 의원에 대해 기록된 투표율 간에 66,000명 이상의 유권자 격차가 있습니다. 이러한 불일치로 인해 EC는 공식 선거 결과를 발표하지 못하고 있습니다. 위원회가 추가 재검표를 진행하기로 결정하면 2월 말에 실시될 것으로 예상한다고 관계자들은 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 결과 지연 가능성은 정치적 불안정을 야기할 수 있으며, 이는 여행객에게 간접적인 영향을 미칠 수 있습니다. 직접적인 위협은 아니지만 상황을 주시할 필요가 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai EC May Order Recounts at 20 Polling Units",
@@ -18723,8 +18710,133 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-EC-May-Order-Recounts-at-20-Polling-Units.jpg"
         }
       ],
-      "collected_at": "01:44",
+      "collected_at": "1:44",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-EC-May-Order-Recounts-at-20-Polling-Units.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.khaosodenglish.com/politics/2026/02/17/thai-ec-may-order-recounts-at-20-polling-units/",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 사건, 학교 휴교령 지속",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 발생한 총기 난동 사건으로 학교들이 휴교를 연장하고 있습니다.\n- 경찰은 용의자를 추적 중이며, 주민들의 안전 확보에 주력하고 있습니다.\n- 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따라야 합니다.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역의 안전 확보를 위해 노력하고 있습니다. 여행 중인 분들은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따르는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여합니다. 기존 뉴스에 비해 상황이 지속되고 있다는 정보를 업데이트했습니다.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "02:41",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "미국-이란, 핵 협상에서 '원칙적 합의' 도달… 추가 협상 필요",
+      "summary": "- 이란, 미국과의 핵 프로그램 분쟁 해결을 위한 '원칙적 합의' 도달 발표\n- 제네바에서 협상 진행, 이란은 추가적인 노력이 필요하다고 언급\n- 미국은 아직 공식 반응 없음, 오만 외무장관은 긍정적 진전 평가",
+      "full_translated": "이란 당국자는 미국과의 핵 프로그램 관련 분쟁 해결을 위한 '원칙적 합의'에 도달했다고 밝혔습니다. 제네바에서 진행된 협상 이후 나온 발표이지만, 아직 완료해야 할 과제가 남아있다고 인정했습니다. 외신 보도에 따르면 이란과 미국은 테헤란 정부의 핵 프로그램 해결책을 모색하기 위한 간접 협상을 마쳤습니다. 이란 측은 미국과의 '원칙적 합의'에 도달했다고 밝혔습니다. 아바스 아락치 이란 외무부 장관은 협상 종료 후 이러한 진전을 밝혔지만, 아직 완료해야 할 작업이 많다고 덧붙였습니다. 미국 측은 아직 공식적인 입장을 발표하지 않았습니다. 협상 중재 역할을 한 오만의 바드르 알부사이디 외무장관은 이번 협상이 '공동 목표와 관련 기술적 문제 해결을 향한 긍정적인 진전'으로 마무리되었다고 평가했습니다. 이번 회의는 도널드 트럼프 미국 대통령이 이란의 시위 진압과 핵 활동과 관련하여 군사력 사용을 위협한 이후에 열렸습니다. 미국은 이란이 합의에 도달하도록 압박하기 위해 페르시아만에 전함을 파견했습니다. 미국과 유럽 동맹국들은 이란이 핵무기를 개발하고 있다고 의심해 왔지만, 테헤란 정부는 이러한 혐의를 부인해 왔습니다. 스위스 제네바 주재 오만 대사관에서 열린 협상에 앞서 이란은 이번 논의가 자국의 핵 프로그램과 미국이 부과한 경제 제재 해제 가능성에 초점을 맞출 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "핵 협상 관련 뉴스로, 여행 안전에 직접적인 영향은 없으나, 외교적 관계 변화 가능성을 내포하고 있어 낮은 점수 부여. 현재 여행 중인 한국인에게 직접적인 영향은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": "제네바",
+        "price": null,
+        "location_google_map_query": "제네바"
+      },
+      "references": [
+        {
+          "title": "อิหร่านเผย บรรลุ “หลักการแนวทาง” กับสหรัฐฯ หลังเจรจานิวเคลียร์",
+          "url": "https://www.thairath.co.th/news/foreign/2914854",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPagyNPKmnaRZ.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPagyNPKmnaRZ.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "미국, 마약 운반 혐의로 태평양 및 카리브해에서 선박 3척 격침, 11명 사망",
+      "summary": "- 미국은 마약 운반 혐의로 태평양과 카리브해에서 선박 3척을 공격하여 11명이 사망했다고 발표함.\n- 미국 측은 사망자들을 '마약 테러리스트'라고 칭하며, 해당 선박들이 마약 밀매 경로를 따르고 있었다고 주장함.\n- 트럼프 정부 이후 유사한 공격이 40회 이상 발생, 130명 이상 사망했으나, 마두로 체포 작전 이후 빈도가 감소함.",
+      "full_translated": "미국은 태평양과 카리브해에서 마약 밀매 혐의로 의심되는 선박 3척을 공격하여 11명이 사망했다고 밝혔습니다. 2069년 2월 17일 화요일, 미국군은 동태평양과 카리브해에서 마약 밀매에 연루되었다고 주장하는 선박 3척을 공격했다고 발표했습니다. 미국 관리에 따르면 사망한 11명의 남성 '마약 테러리스트'는 각각 동태평양의 첫 번째 선박에서 4명, 두 번째 선박에서 4명, 카리브해의 세 번째 선박에서 3명이었습니다. 미국 남부 사령부는 소셜 미디어 게시물에서 '정보에 따르면 이 선박들은 잘 알려진 마약 밀매 경로를 따라 이동하고 마약 밀매 작전에 참여하고 있었습니다.'라고 밝혔습니다. 트럼프 정부는 작년 9월부터 카리브해와 태평양에서 마약 운반 혐의 선박에 대한 공격을 수행해 왔으며 40건 이상의 공격으로 130명 이상이 사망했습니다. 그러나 미국군이 1월 초 카라카스에서 니콜라스 마두로 베네수엘라 대통령을 체포한 이후 공격 빈도가 현저히 감소했습니다. 미국은 마두로 정부가 마약 갱단과 협력하고 있다고 비난했습니다. 피트 핵세스 국방부 장관은 전반적인 작전 목표가 '우리 반구에서 마약 테러리스트를 제거'하고 '우리 국민을 죽이는 마약으로부터 미국을 보호'하는 것이라고 말했습니다. 그러나 미국은 지금까지 공격당한 선박이 마약을 운반하고 있다는 주장을 뒷받침할 증거를 제시하지 못했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 사건은 아니지만, 국제 정세에 대한 정보 제공. 여행 안전에 직접적인 영향은 적으나 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กองทัพสหรัฐฯ จมเรือ 3 ลำ ดับ 11 ศพ อ้างกำลังขนยาเสพติด",
+          "url": "https://www.thairath.co.th/news/foreign/2914852",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPbCTCgradofP.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMPbCTCgradofP.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국 선거관리위원회, 3개 투표구의 투표용지 재인쇄 논의",
+      "summary": "- 태국 선거관리위원회(EC)는 2026년 2월 22일로 예정된 3개 투표구의 새로운 투표를 위해 투표용지 재인쇄 형식을 논의 중.\n- 논의의 핵심은 재인쇄될 투표용지가 2월 8일 총선에 사용된 것과 동일한 형식(일련번호, 투표용지 번호, 바코드 포함)을 유지할지 여부.\n- 바코드 및 번호 체계가 없으면 총선에 사용된 투표용지와 새로운 투표에 사용된 투표용지 간의 차이로 인해 법적 분쟁이 발생할 수 있다는 우려가 제기됨.",
+      "full_translated": "방콕 — 2026년 2월 17일, 태국 선거관리위원회(EC)는 2026년 2월 22일로 예정된 3개 투표구의 새로운 투표를 위해 투표용지 재인쇄 형식에 대한 치열한 논의를 17일에 개최했습니다. 회의는 앞서 EC가 3개 투표구에서 새로운 투표를 명령한 후 새로운 투표용지 인쇄에 대한 이전 날의 심의를 계속했습니다. 위원들은 재인쇄된 투표용지가 일련번호, 투표용지 번호 및 바코드를 포함하여 2월 8일 총선에 사용된 것과 동일한 형식을 유지할지 여부에 대한 결론을 아직 내리지 못했습니다. 바코드 및 번호 체계가 없으면 총선에 사용된 투표용지와 새로운 투표에 사용된 투표용지 간의 차이로 인해 법적 분쟁이 발생할 수 있다는 우려가 제기되었습니다. 관리들은 이러한 불일치가 투표용지에 바코드를 인쇄하는 것이 헌법을 위반하고 선거를 무효화할 수 있다고 주장하는 지속적인 법적 이의 제기에서 EC의 방어를 복잡하게 만들 수 있다고 우려합니다. 위원회는 또한 선거 기간 동안 했던 것처럼 기자 회견을 여는 것이 최선의 이익이 아닐 수 있다는 데 동의했습니다. 관리들은 이전 브리핑이 기관에 해를 끼치는 방식으로 해석되고 확장되었다고 말했습니다. EC는 대신 서면 성명 발표에 집중할 것입니다. 한편, 유권자 식별을 가능하게 한다는 이유로 개인 정보 보호 위원회에 청원이 제출된 후 EC 사무소는 공식적으로 답변했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 여행에 직접적인 영향은 낮음. 선거 관련 혼란 가능성 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai Election Body Debates Ballot Reprint for 3 Units",
+          "url": "https://www.khaosodenglish.com/politics/2026/02/17/thai-election-body-debates-ballot-reprint-for-3-units/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Election-Body-Debates-Ballot-Reprint-for-3-Units.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Election-Body-Debates-Ballot-Reprint-for-3-Units.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "미국 시민 운동 지도자 제시 잭슨 사망",
+      "summary": "- 미국의 저명한 시민 운동 지도자 제시 잭슨이 84세의 나이로 사망했습니다.\n- 그는 마틴 루터 킹 주니어의 동료였으며, 민주당 대통령 후보로 두 번 출마했습니다.\n- 잭슨은 흑인과 소외된 사람들의 권리를 옹호했으며, 파킨슨병을 앓고 있었습니다.",
+      "full_translated": "미국의 카리스마 넘치는 시민 운동 지도자 제시 잭슨이 84세의 나이로 사망했습니다. 그는 감동적인 웅변가였으며, 마틴 루터 킹 주니어의 가까운 동료였고, 민주당 대통령 후보로 두 번 출마했습니다. 잭슨의 가족은 그가 억압받고, 목소리 없는, 간과된 사람들을 위한 봉사자였다고 밝혔습니다. 그는 2017년에 파킨슨병 진단을 받았습니다. 잭슨의 죽음은 도널드 트럼프 행정부가 미국의 제도들을 공격하는 시기에 발생했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "제시 잭슨의 사망은 국제적인 뉴스이지만, 태국 여행객에게 직접적인 영향을 미치지는 않습니다. 다만 역사적 인물의 사망 소식이므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "US civil rights leader Jesse Jackson dies",
+          "url": "https://www.bangkokpost.com/world/3199338/us-civil-rights-leader-jesse-jackson-dies",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3199338_260217202305_700.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3199338_260217202305_700.jpg",
       "date": "2026-02-18"
     }
   ]
