@@ -847,7 +847,8 @@ def get_hotel_gsheets_client():
         return None
 
 def get_hotel_cache(hotel_name, language="Korean"):
-    """Checks if analysis for the given hotel already exists in GSheets (Language aware)."""
+    """Checks if analysis for the given hotel already exists in GSheets (Language aware).
+    Also searches across ALL language rows for agoda_url and myrealtrip_url."""
     client = get_hotel_gsheets_client()
     if not client: return None
     try:
@@ -858,11 +859,21 @@ def get_hotel_cache(hotel_name, language="Korean"):
         # Search for hotel_name
         cells = sheet.find(hotel_name, in_column=1)
         if cells:
-             # There might be multiple entries for different languages
              all_records = sheet.get_all_values()
+             
+             # 1단계: 모든 행에서 agoda_url과 myrealtrip_url 수집 (언어 무관)
+             best_agoda = None
+             best_myrealtrip = None
              for row in all_records:
                  if row[0] == hotel_name:
-                     # Row: [name, date, summary, json, agoda, lang, myrealtrip_url]
+                     if len(row) > 4 and row[4] and row[4].strip():
+                         best_agoda = row[4]
+                     if len(row) > 6 and row[6] and row[6].strip():
+                         best_myrealtrip = row[6]
+             
+             # 2단계: 언어가 일치하는 행 찾기
+             for row in all_records:
+                 if row[0] == hotel_name:
                      cached_lang = row[5] if len(row) >= 6 else "Korean"
                      if cached_lang == language:
                         return {
@@ -870,9 +881,9 @@ def get_hotel_cache(hotel_name, language="Korean"):
                             "cached_date": row[1],
                             "ai_summary": row[2],
                             "raw_json": json.loads(row[3]),
-                            "agoda_url": row[4] if len(row) > 4 else None,
+                            "agoda_url": best_agoda,
                             "language": cached_lang,
-                            "myrealtrip_url": row[6] if len(row) > 6 else None
+                            "myrealtrip_url": best_myrealtrip
                         }
     except Exception as e:
         print(f"Cache Lookup Error: {e}")
