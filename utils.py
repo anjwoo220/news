@@ -855,7 +855,7 @@ def get_hotel_cache(hotel_name, language="Korean"):
         sh = client.open("hotel_cache_db")
         sheet = sh.get_worksheet(0)
         
-        from gspread.utils import escape_for_json
+        
         # Search for hotel_name
         cells = sheet.find(hotel_name, in_column=1)
         if cells:
