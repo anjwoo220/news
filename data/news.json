@@ -17098,14 +17098,9 @@
       "summary": "- 태국 관광 협의회는 관광 산업이 올해 GDP 성장의 주요 동력이 될 것으로 예상.\n- 현재 태국은 하루 13만 명 이상의 관광객을 맞이하고 있으며, 중국인 관광객은 하루 3만 명으로 증가.\n- 온라인 여행사의 탈세 및 불법 외국인 운영자 문제가 해결해야 할 과제로 남아있음.",
       "full_translated": "태국 관광 협의회(TCT)는 항공편과 도착이 계속 회복됨에 따라 관광 산업이 올해 GDP 성장의 주요 동력이 될 것으로 예상합니다. 그러나 세금이 부과되지 않는 온라인 여행사와 불법 외국인 운영자가 계속 증가하여 회복의 완전한 이점을 제한하고 있습니다.\n\n관광부에 따르면 태국은 현재 하루 13만 명 이상의 관광객을 맞이하고 있으며, 중국인 관광객은 1만 명에서 3만 명으로 증가했습니다. 국가경제사회개발위원회는 작년 GDP가 2.4% 성장한 후 올해 1.5~2.5%의 경제 성장을 예측합니다.\n\nTCT의 라차폰 풀사와디 부사장은 오늘날 강력한 관광 성장은 높은 여행 시즌과 음력 설 연휴로 인해 중국 및 기타 장거리 시장에서 항공편 증가를 통해 방문객이 유입되었기 때문이라고 말했습니다. 그는 관광 산업이 2025년부터 예상되는 관광 회복으로 인해 다른 부문에 비해 GDP의 10~20%를 차지하는 국가 GDP를 견인하는 중요한 부문으로 계속 작용해야 한다고 말했습니다. \n\n그러나 라차폰 씨는 수익이 시스템 외부로 흘러나가는 문제가 여전히 남아 있다고 말했습니다. 여기에는 주로 해외에 상장된 온라인 여행사가 태국에서 객실을 판매할 때 세금을 내지 않는다는 점과 외국인이 운영하는 거대한 불법 사업이 포함됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업의 전반적인 상황을 알려주는 기사로, 여행객의 만족도와 관련될 수 있으므로 중간 점수 부여. 최신 정보를 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Council sees tourism as key driver of GDP",
@@ -17114,23 +17109,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198663_260217061240_700.jpg"
         }
       ],
-      "collected_at": "06:50",
+      "collected_at": "6:50",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198663_260217061240_700.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/business/general/3198663/council-sees-tourism-as-key-driver-of-gdp",
+      "source": ""
     },
     {
       "title": "태국 신용국, 가계 부채 증가 및 불법 대출 증가에 대한 우려 표명",
       "summary": "- 태국 신용국(NCB)은 은행 부문의 대출 성장 둔화와 가계 부채 감소 속에서도 불법 대출이 증가할 가능성에 대해 우려를 표명했습니다.\n- 가계 소득이 완전히 회복되지 않아 전반적인 가계 부채 수준이 여전히 높을 것으로 예상됩니다.\n- 개인 대출 수요는 여전히 견조하지만, 금융 시스템 전반의 신용 성장은 여전히 둔화되고 있어 불법 대출 증가에 대한 우려가 커지고 있습니다.",
       "full_translated": "태국 신용국(NCB)은 은행 부문의 대출 성장 둔화와 가계 부채 감소 속에서도 불법 대출이 증가할 가능성에 대해 우려를 표명했습니다.\n\nNCB 최고 경영자인 Luxamon Attapich는 은행 산업의 대출 성장 둔화와 지속적인 부채 축소로 인해 올해 가계 부채/GDP 비율이 전반적으로 안정적으로 유지될 것으로 예상한다고 밝혔습니다. 그러나 새로운 정부가 경기 부양책을 도입하고 GDP가 상승하면 전년 대비 비율이 완화될 수 있습니다.\n\n비율은 감소할 수 있지만 가계 소득이 아직 완전히 회복되지 않아 전반적인 가계 부채 수준은 여전히 높을 것으로 예상됩니다. 이는 차용인의 채무 상환 능력을 약화시키는 주요 요인으로 남아 있습니다.\n\n그녀는 \"개인 대출 수요는 여전히 견조하지만 금융 시스템 전반의 신용 성장은 계속 둔화되고 있습니다. 이러한 시나리오에서 우리는 불법 대출 증가에 대해 우려하고 있습니다.\"라고 말했습니다.\n\n국가경제사회개발위원회에 따르면 2025년 2분기 태국의 가계 부채는 16조 3천억 바트로 전 분기보다 0.3% 감소했습니다. 이는 GDP의 86.8%를 차지합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 경제 상황에 대한 정보로, 여행객의 소비 및 환전에 간접적인 영향을 줄 수 있습니다. 직접적인 영향은 적으나, 현지 물가 및 경제 동향을 파악하는 데 도움이 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "NCB frets over potential uptick in informal debt",
@@ -17139,23 +17131,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198718_260217012314_700.jpg"
         }
       ],
-      "collected_at": "06:50",
+      "collected_at": "6:50",
       "image_url": "https://static.bangkokpost.com/media/content/20260217/c1_3198718_260217012314_700.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/business/general/3198718/ncb-frets-over-potential-uptick-in-informal-debt",
+      "source": ""
     },
     {
       "title": "태국, 전기차 충전소 및 수소 연료 인프라 국가 표준 설정 추진",
       "summary": "- 에너지 사업부는 전기차 충전 및 수소 연료 인프라에 대한 국가 표준을 설정하여 투자 효율성을 높이고 안전을 보장하고자 함.\n- 이는 청정 에너지로의 전환을 가속화하고, 단일 안전 프로토콜 및 표준을 만들어 운전자 편의성을 높이고 투자자에게 명확성을 제공하기 위함임.\n- 2021년 국가 에너지 정책 위원회의 결의에 따라, 2030년까지 자동차 생산량의 30%를 전기차로 전환하는 '30@30' 정책과도 부합함.",
       "full_translated": "태국 에너지 사업부(DOEB)는 전기 자동차(EV) 충전 및 수소 연료 인프라에 대한 국가 표준을 수립하여 투자를 간소화하고 태국이 청정 에너지로 전환하는 과정에서 안전을 보장하고자 합니다. DOEB 국장인 Sarawut Kaewtathip은 이번 계획이 통일된 안전 프로토콜과 대체 연료에 대한 단일 표준을 만드는 것을 목표로 한다고 밝혔습니다. 목표는 하류 에너지 부문에 진입하는 투자자에게 명확성을 제공하면서 운전자가 서비스를 더 쉽게 이용할 수 있도록 하는 것입니다. 관계자들은 USB Type-C 채택 이전 휴대폰 산업에서 발생했던 비호환성 문제를 피하고자 합니다. Sarawut은 “대체 에너지 채택이 휴대폰 충전기만큼 불편해지는 것을 원하지 않습니다.”라고 말했습니다. 1월에 DOEB는 주유소에 EV 충전소를 설치하기 위한 새로운 표준이 4월에 발효될 것이라고 발표했습니다. 지침은 사고 발생 시 전원을 차단하는 비상 스위치를 포함한 설계 및 설치 요구 사항과 기관 전체의 승인 프로세스를 명확하게 정의하는 내용을 포함합니다. 라이선스 및 표준화를 감독하기 위해 전담 워킹 그룹이 구성되었습니다. 이번 조치는 EV 투자를 촉진하기 위한 2021년 8월 국가 에너지 정책 위원회의 결의와 일치합니다. '30@30' 정책에 따라 태국은...",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "전기차 충전 표준화는 장기적으로 여행 편의성에 영향을 줄 수 있지만, 즉각적인 영향은 제한적이므로 보통 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Department to set standards for EV charging stations",
@@ -17164,23 +17153,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970948_700.jpg"
         }
       ],
-      "collected_at": "06:50",
+      "collected_at": "6:50",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970948_700.jpg",
-      "date": "2026-02-17"
+      "date": "2026-02-17",
+      "link": "https://www.bangkokpost.com/business/motoring/3198923/department-to-set-standards-for-ev-charging-stations",
+      "source": ""
     },
     {
       "title": "유명 유튜버 로건 폴, 희귀 포켓몬 카드 5억 바트에 판매하며 기록 경신",
       "summary": "- 유튜버 겸 레슬러 로건 폴, 희귀 포켓몬 카드 '피카츄 일러스트레이터'를 약 5억 바트에 판매.\n- 이는 포켓몬 카드 사상 최고가 기록을 경신한 것임.\n- 구매자는 앤서니 스카라무치의 아들인 투자자 AJ 스카라무치.",
       "full_translated": "유명 유튜버이자 레슬러인 로건 폴이 자신이 소유한 희귀 포켓몬 카드를 1,650만 달러, 한화 약 5억 바트에 판매했습니다. 외신 보도에 따르면, 로건 폴은 '피카츄 일러스트레이터' 카드를 최고가에 판매하며 세계에서 가장 비싼 포켓몬 카드 기록을 경신했습니다. 그는 2021년 약 1억 6,500만 바트에 이 카드를 구매한 바 있습니다. 경매 회사 Goldin에 따르면 PSA 8 등급의 피카츄 일러스트레이터 카드는 시장에서 약 1,500만 바트에 판매됩니다. 구매자는 앤서니 스카라무치의 아들인 AJ 스카라무치 투자자입니다. 로건 폴은 유튜브 라이브 방송에서 이번 경매 결과에 대해 놀라움을 표했으며, 기네스 세계 기록 관계자가 참석하여 경매에서 판매된 가장 비싼 트레이딩 카드임을 공식 발표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 관련 정보는 아니지만, 흥미로운 소식으로 가볍게 소개. 여행 관련도는 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "การ์ดโปเกมอนหายากของ โลแกน พอล ขายออกทุบสถิติ 500 ล้านบาท",
@@ -17189,8 +17175,85 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfjaSQC9dos4.jpg"
         }
       ],
-      "collected_at": "06:50",
+      "collected_at": "6:50",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIDgfjaSQC9dos4.jpg",
+      "date": "2026-02-17",
+      "link": "https://www.thairath.co.th/news/foreign/2914627",
+      "source": ""
+    },
+    {
+      "title": "태국, 모든 사람을 위한 포용적인 관광 추구",
+      "summary": "- 태국이 포용적인 관광을 목표로 다양한 관광객을 위한 접근성 개선 노력.\n- 장애인, 고령자, 가족 단위 여행객 등 모두가 편리하게 여행할 수 있도록 지원.\n- 교통, 숙박, 관광 명소 등 전반적인 인프라 개선 및 맞춤형 서비스 제공에 집중.",
+      "full_translated": "태국은 포용적인 관광을 추구합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "모든 여행객을 대상으로 접근성을 개선하려는 노력은 긍정적이지만, 당장 여행에 미치는 영향은 제한적이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "inclusive tourism Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUGlkNkxfZnV6SFdTZFREck1nUWVmYndhNnNVTVhTSk01X1JZMkdLVFBnOHNIcVpaa3c2Slk2WlNSWGxvd1dWdEFDUWZyQkVBanBhUHdia3lVRFRJSUw0Q2d1eWc3NHgtaDlHdHcxMUJxR041SGRKeVVVQnBCZXBUV2xIUXZmdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "경찰, 춘절 '앙파오' 봉투 수수 논란 해명",
+      "summary": "- 온라인에서 경찰관들이 춘절 '앙파오' 봉투를 받는 모습이 논란이 됨.\n- 방콕 경찰청은 해당 기업이 전통에 따라 봉투를 나눠준 것이라고 해명.\n- 불법적인 의도나 대가성은 없었으며, 법적으로 허용된 범위 내에서 이루어졌다고 밝힘.",
+      "full_translated": "최근 온라인상에서 경찰관들이 줄을 서서 '앙파오' 봉투를 받는 사진이 논란이 되었습니다. 이에 방콕 경찰청(버처.너.)은 해당 사안을 조사한 결과, 봉투를 배포한 회사가 춘절 전통에 따라 진행한 것이라고 밝혔습니다. 2026년 2월 17일, 한 온라인 커뮤니티에서 경찰관들이 낮 시간 동안 한 제약 회사 앞에서 줄을 서 있는 사진이 공유되면서 '앙파오'를 받기 위해 기다리는 것이 아니냐는 의혹이 제기되었습니다. 이에 방콕 경찰청은 해당 사건에 대한 진상 조사를 실시했습니다. 경찰청은 해당 날짜와 장소에서 사건이 발생한 것이 사실이며, 회사 측은 춘절을 맞아 전통에 따라 '앙파오' 봉투를 나눠주는 것이라고 설명했습니다. 회사는 특정 인물을 대상으로 하지 않고, 지정된 장소에서 일반인 누구나 받을 수 있도록 공개적으로 초청했으며, 경찰관 및 공무원 역시 시민들과 마찬가지로 행운과 사기 진작을 위해 참여할 수 있도록 했습니다. 어떠한 숨겨진 의도나 보상 심리는 없었으며, 단순히 전통적인 관례에 따른 것이라고 해명했습니다. 또한, 제공된 재산적 가치는 법적으로 허용된 범위를 초과하지 않았습니다. 방콕 경찰청은 춘절 기간 동안 발생할 수 있는 사건에 대비하여 예방 및 단속 조치를 강화하고 있으며, 시민들의 안전을 위해 최선을 다할 것을 약속드립니다. 경찰관들에게는 복장과 언행에 대한 규정을 준수하고 부당한 이익을 취하는 행위를 금지할 것을 엄격히 지시했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "경찰 관련 이슈로, 여행객에게 직접적인 영향은 적으나, 치안 관련 인식을 줄 수 있는 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "โซเชียลวิจารณ์สนั่น ภาพตำรวจยื่นต่อแถวรับซอง \"อั่งเปา\" ล่าสุด บช.น. ชี้แจงแล้ว",
+          "url": "https://www.thairath.co.th/news/crime/2914631",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCpQyYTykBTm9cMO.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCpQyYTykBTm9cMO.jpg",
+      "date": "2026-02-17"
+    },
+    {
+      "title": "태국 식품 산업, 건강 트렌드에 힘입어 성장",
+      "summary": "- 태국 식품 산업은 건강에 초점을 맞춘 제품을 중심으로 지속적인 성장세를 보이고 있습니다.\n- 소비자들은 건강하고 환경에 미치는 영향이 적은 식품을 선호하는 경향이 강해지고 있습니다.\n- 혁신은 고부가가치 상품 개발에 필수적이며, 기업은 연구 개발에 적극적으로 참여해야 합니다.",
+      "full_translated": "태국 식품 산업은 올해에도 지속적으로 성장하고 있으며, 특히 건강과 장수에 초점을 맞춘 건강 식품 분야에서 두드러진 성장을 보이고 있습니다. 식품 산업 베테랑들은 소비자 수요를 충족하는 새로운 제품 개발에 혁신이 중요하다고 강조합니다. 태국 상공회의소 가공 식품 및 미래 식품 위원회 위원장인 비지트 림루르차는 장수 트렌드가 커짐에 따라 소비자들은 환경에 미치는 영향이 적은 건강 식품을 점점 더 찾고 있다고 말했습니다. 그는 \"기능성 식품과 음료, 가공이 덜 된 식품이 소비자들에게 인기가 높으며, 소비자들은 단맛, 기름기, 짠맛이 덜한 제품과 맞춤형 단맛 수준을 제공하는 음료를 선호합니다.\"라고 말했습니다. 그는 원자재를 고부가가치 상품으로 가공하는 데 혁신이 중요하며, 태국 식품 제품이 건강 및 웰빙 요구 사항에 부응하고 건강에 실제로 좋다는 것을 입증하여 새로운 판매 포인트를 창출해야 한다고 지적했습니다. 그는 기업가들이 혁신 개발에 참여하는 것을 지지하며, 기업들이 업계 요구 사항을 충족할 수 있도록 연구 개발자들에게 요구 사항을 전달하도록 장려했습니다. 태국 산업 연맹 식품 및 음료 산업 클럽 회장인 차로엔 카오숙사이는 공급망 전반에 걸친 협력을 촉구하며 각 분야의 전문성을 가진 파트너를 참여시킬 것을 제안했습니다. 차로엔 회장은 대학 및 연구 기관이 민간 부문과 협력할 것을 촉구했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에 큰 영향은 없지만, 태국 내 식품 트렌드를 파악하는 데 도움이 될 수 있습니다. 아침 브리핑이므로 최신 비즈니스 동향 정보를 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Food industry growth fuelled by health",
+          "url": "https://www.bangkokpost.com/business/general/3198698/food-industry-growth-fuelled-by-health",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970683_700.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/17/5970683_700.jpg",
       "date": "2026-02-17"
     }
   ]
