@@ -20398,14 +20398,9 @@
       "summary": "- 태국 정부가 60일 무비자 체류 기간 단축을 검토 중.\n- 외국인들이 무비자 제도를 악용하여 불법 행위를 저지른다는 불만이 제기됨.\n- 부동산 투자 최소 금액 기준이 낮아 '저질' 방문객을 유치하고 부동산 가격을 상승시킨다는 지적도 있음.",
       "full_translated": "태국 정부는 외국인들이 불법 행위에 가담하거나 지역 주민을 착취하기 위해 제도를 악용한다는 수많은 불만에 따라 60일 무비자 체류 기간 단축을 고려하고 있습니다. 시하삭 푸앙케트케우 외무부 장관은 수요일 푸껫을 방문한 자리에서 관광 사업자들이 관광 진흥을 목적으로 했던 제도의 단점에 대해 특히 목소리를 높였습니다. 푸껫의 불만 제기자들은 또한 외국인이 장기 체류 비자를 받기 위한 최소 3백만 바트의 부동산 투자 요건을 비판했습니다. 그들은 그 수치가 너무 낮고 불법 행위에 가담할 수 있는 '비우량' 방문객을 유치할 수 있을 뿐만 아니라 부동산 가격을 상승시켜 지역 주민들의 주택 구매력을 떨어뜨릴 수 있다고 말합니다. 시하삭 씨는 정부가 비자 면제 제도를 포함한 비자 조치의 적절성을 검토할 준비를 하고 있다고 말했습니다. 93개국 외국인이 최대 60일까지 태국에 체류할 수 있도록 허용하는 비자 면제 프로그램은 2024년 중반 쁘라윳 짠오차 총리 정부 당시 관광 활성화 노력의 일환으로 시작되었습니다. 시하삭 씨는 대부분의 방문객이 평균 15~30일만 머물기 때문에 60일 기간이 너무 길 수 있다고 말했습니다. 초국가적 범죄에 대한 우려 속에서...",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경 가능성은 여행자에게 직접적인 영향을 미치므로 중요도가 높음. 현재 논의 중이지만, 정책 변경 가능성이 있으므로 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫",
-        "price": null,
-        "location_google_map_query": "푸껫"
-      },
+      "event_info": "{'date': None, 'location': '푸껫', 'price': None, 'location_google_map_query': '푸껫'}",
       "references": [
         {
           "title": "Thailand reviewing visa-free stays as local complaints pile up",
@@ -20416,21 +20411,18 @@
       ],
       "collected_at": "18:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200100_260218171504_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3200100/thailand-reviewing-visafree-stays-as-local-complaints-pile-up",
+      "source": ""
     },
     {
       "title": "방콕 택시, QR 코드로 요금 확인 및 불만 제기 가능",
       "summary": "- 방콕 모든 미터 택시에 QR 코드 부착 의무화.\n- 승객은 QR 코드를 통해 운전자 정보 확인, 요금 견적, 서비스 평가 가능.\n- 2027년까지 다른 지역으로 확대 예정.",
       "full_translated": "태국의 모든 미터 택시는 승객이 운전자 정보를 확인하고, 요금을 추정하고, 서비스 등급을 평가하고, 불만을 제기할 수 있도록 하는 3개의 QR 코드를 표시해야 합니다(육운부). 화요일 왕립 관보에 발표된 이 발표는 대중교통 서비스 개선을 위한 부서 캠페인의 일부입니다. 새로운 규칙에 따라 7석 이하의 대중 교통 차량은 투명성을 높이고 서비스 감독을 강화하기 위해 추가 표지판을 설치해야 합니다. 이 부서는 이 시스템이 승객에게 필수 정보에 대한 즉각적인 액세스를 제공하고 필요한 경우 긍정적인 피드백과 불만 사항에 대한 신속한 대응을 위한 보다 명확한 채널을 제공하기 위한 것이라고 말했습니다. 보라색으로 칠해진 첫 번째 QR 코드는 운전자 앞에 위치해야 합니다. 이는 운전자 식별 및 차량이 고용을 위해 작동할 때마다 활성 상태를 유지해야 하는 'DLT GPS-Notice' 애플리케이션을 통한 근무 교대 활성화에 사용됩니다. 파란색의 두 번째 코드는 왼쪽 뒤쪽 승객 창에 배치됩니다. 이를 통해 승객은 운전자 세부 정보를 확인하고, 서비스 품질을 평가하고, 부서에 직접 칭찬이나 불만을 제출하고, 여행 전이나 여행 중에 예상 요금을 계산할 수 있습니다. 세 번째 코드는 빨간색으로 왼쪽 뒷문 외부에 부착되어 있으며 긴급 상황에 사용됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "택시 이용 시 편의성 및 안전성 향상에 기여. 외국인 여행객에게 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 택시"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 택시'}",
       "references": [
         {
           "title": "QR codes in taxis will enable fare checks, complaints",
@@ -20441,21 +20433,18 @@
       ],
       "collected_at": "18:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200108_260218172334_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3200108/qr-codes-in-taxis-will-enable-fare-checks-complaints",
+      "source": ""
     },
     {
       "title": "부리람, '천년 도자기' 축제 34회 개최 준비…분쟁 후 경제 활성화 기대",
       "summary": "- 부리람 반끄루앗 지역에서 '천년 도자기' 축제 개최 예정 (2월 28일 - 3월 5일).\n- 고대 도자기 생산 유적 및 유물 전시, 1만 명 이상 관광객 유치 목표.\n- 태국-캄보디아 간 분쟁 이후 지역 경제 활성화에 기여할 것으로 기대.",
       "full_translated": "부리람은 '천년 도자기, 반끄루앗 전통' 축제 34회를 개최할 준비를 하고 있습니다. 도자기 생산의 역사적, 고고학적 증거를 감상할 수 있으며, 10,000명 이상의 관광객이 방문할 것으로 예상됩니다. 2월 18일, 반끄루앗 지구, 부리람 지방은 '천년 도자기, 반끄루앗 전통 및 반끄루앗 지구 적십자 박람회'를 개최할 준비를 하고 있다고 보고되었습니다. 이는 태국 군대와 캄보디아 군대 간의 두 차례 충돌 이후 처음으로 개최되는 행사입니다. 반끄루앗 지구의 책임자인 엑카왓 푸앙쁘라콘 씨는 2월 28일부터 3월 5일까지 열리는 행사를 발표한 후, 반끄루앗 지구는 태국의 중요한 고대 문명 지역 중 하나로 알려져 있다고 밝혔습니다. 그 이유는 과거의 번영을 나타내는 역사적, 고고학적 증거가 나타났기 때문입니다. 특히 유약 도자기 또는 크메르 도자기라고 불리는 도자기 생산 산업은 1000년 이상 된 고대 도자기 생산의 중심지로 밝혀졌으며, 이 지역의 여러 도시와 지역으로 판매되었습니다. 또한 반끄루앗 지구에는 약 100개의 고대 가마 7개 그룹이 있으며, 모든 지역과 마을에서 일반적으로 발견되는 독특한 아름다움을 지닌 유약이 있다는 것을 발견했습니다. 반끄루앗 지구의 책임자는 현재 국경 상황은 안정적이며, 제2군과의 협력을 통해 행사 기간 동안 어떤 상황도 발생하지 않을 것이라고 믿고 있다고 말했습니다. 캄보디아 측은 아직 준비가 되어 있지 않아 안전하다고 확신하며, 10,000명 이상의 관광객이 이 행사를 방문하여 수십만 바트가 유통될 것으로 예상됩니다. 이 행사는 지난 두 차례의 전투 이후 반끄루앗 지구의 경제를 활성화하는 데 기여할 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "지역 축제 정보는 여행자에게 유용할 수 있으며, 분쟁 이후 처음 열리는 행사라는 점에서 의미가 있음. 관광객 유치 예상 규모도 상당함.",
-      "event_info": {
-        "date": "2069-02-28 ~ 2069-03-05",
-        "location": "반끄루앗 지역, 부리람",
-        "price": "정보 없음",
-        "location_google_map_query": "반끄루앗 부리람"
-      },
+      "event_info": "{'date': '2069-02-28 ~ 2069-03-05', 'location': '반끄루앗 지역, 부리람', 'price': '정보 없음', 'location_google_map_query': '반끄루앗 부리람'}",
       "references": [
         {
           "title": "บุรีรัมย์เตรียมจัดงานใหญ่ “เครื่องเคลือบพันปี” ครั้งที่ 34 กระตุ้นเศรษฐกิจหลังเหตุปะทะ",
@@ -20466,6 +20455,106 @@
       ],
       "collected_at": "18:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77p4XeB3MylmPK.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/local/localbusiness/2915030",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 소지 남성 추적, 여러 학교 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 출몰하여 경찰이 추적 중.\n- 해당 지역 여러 학교에서 학생 안전을 위해 긴급 휴교 조치.\n- 여행객은 해당 지역 방문을 자제하고, 최신 정보에 주의해야 함.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성을 경찰이 추적하고 있습니다. 이로 인해 해당 지역의 여러 학교가 긴급 휴교에 들어갔습니다. 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 발표에 주의를 기울이는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 관련 사건은 여행객 안전에 직접적인 위협이 되므로, 관련 정보를 신속하게 제공해야 함. 이미 게시된 뉴스이지만 상황이 종료되지 않았으므로 재게시.",
+      "event_info": {
+        "date": "2024-05-16",
+        "location": "라드룸깨우 지역",
+        "price": "해당 사항 없음",
+        "location_google_map_query": "Lat Lum Kaeo"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": "알 수 없음",
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "19:40",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국 관광청, '리사(LISA)를 찾아라' 캠페인으로 관광 활성화 추진",
+      "summary": "- 태국 관광청(터터터.)이 'feel all the feelings' 캠페인의 일환으로 '리사' 찾기 이벤트 진행.\n- BTS 전철 내·외부에 리사 광고 래핑, 주요 9개 역에서 캠페인 이미지 전시.\n- 관광청은 광고를 통해 태국의 다양한 매력을 알리고 관광객 유치에 힘쓸 예정.",
+      "full_translated": "태국 관광청(터터터.)은 'feel all the feelings' 캠페인을 통해 태국 여행의 모든 감각을 경험할 수 있도록 '리사(LISA)'를 찾는 이벤트를 진행합니다. 3월 말 'feel all the feelings' 광고 캠페인에 리사-라리사 마노반이 참여하여 태국의 매력을 널리 알린 후, 관광청은 전국적으로 '리사'를 찾아보는 캠페인을 시작합니다. 사람들은 태국 전역의 주요 랜드마크에서 '리사' 광고를 찾고, 캠페인에 참여할 수 있습니다. BTS 스쿰빗 라인(연두색)과 실롬 라인(진한 녹색)의 전철은 'Amazing Thailand x LISA' 캠페인 광고로 래핑되어 있으며, 승객들은 일상적인 여행 중에도 캠페인의 분위기를 느낄 수 있습니다. 이 광고는 2025년 5월까지 진행됩니다. 전철 내부는 태국 전역의 주요 관광지 이미지와 함께 캠페인 이미지로 꾸며져 있으며, 시암, 파야타이, 승전기념탑, 칫롬, 온눗, 총논시, 살라댕, 아속, 프롬퐁 등 주요 9개 역을 운행합니다. 이 캠페인은 여행 중 '리사'를 만나는 특별한 경험을 제공하며, 승객들은 여행 내내 인상적인 사진을 찍고 'feel all the feelings' 캠페인과 함께 모든 감정을 경험할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "유명인을 활용한 관광 캠페인 정보는 여행객에게 흥미로운 요소이며, BTS 광고 위치 정보는 실질적인 여행 계획에 도움이 될 수 있음.",
+      "event_info": {
+        "date": "2024-05-16",
+        "location": "방콕 BTS 스쿰빗/실롬 라인",
+        "price": "BTS 탑승 요금",
+        "location_google_map_query": "BTS 스쿰빗 라인, BTS 실롬 라인"
+      },
+      "references": [
+        {
+          "title": "\"ลิซ่าอยู่ไหน\" ททท. ชวนเที่ยวตามรอย แชร์โมเมนต์ดีต่อใจ \"ประเทศไทยให้ความรู้สึกแบบไหน\"",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2915042",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pkZUXZXYCcVN.jpg"
+        }
+      ],
+      "collected_at": "19:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pkZUXZXYCcVN.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국 NBTC, 기술 범죄 악용 '유령 SIM 카드' 단속 강화",
+      "summary": "- 태국 국가방송통신위원회(NBTC)가 기술 범죄에 악용될 수 있는 '유령 SIM 카드' 단속을 강화합니다.\n- 2026년 1월까지 전국적으로 28,112개 이상의 번호를 폐쇄했으며, 특히 국경 지역에서 불법 사용이 집중되고 있습니다.\n- NBTC는 이동통신 사업자와 협력하여 비정상적인 사용 패턴을 보이는 번호를 지속적으로 감시하고 차단할 예정입니다.",
+      "full_translated": "태국 국가방송통신위원회(NBTC)는 기술 범죄에 악용될 수 있는 '유령 SIM 카드' 단속을 2026년 1월까지 지속적으로 강화하여 전국적으로 28,112개 이상의 번호를 폐쇄했습니다. 타이랏 위리야시리쿨 사무차장 대행은 NBTC가 이동통신 사업자와 협력하여 비정상적인 사용 패턴을 보이는 번호를 감시하고 차단하는 조치를 계속 시행할 것이라고 밝혔습니다. 단속 결과, 범죄 악용 사례는 주로 국경 지역인 사깨오, 치앙라이, 농카이, 나라티왓 등에서 집중적으로 발생했으며, 방콕 및 수도권에서도 일부 적발되었습니다. NBTC는 이동통신 사업자에게 비정상적인 전화 사용을 감시하고 차단할 의무를 부과하여 기술 범죄 예방을 위해 노력할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 기술 범죄 예방 노력에 대한 정보로, 여행 시 SIM 카드 사용에 대한 주의를 환기시키고 잠재적 위험을 인지하도록 돕습니다. 여행자에게 직접적인 위협은 아니지만 알아두면 유용한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역 (주로 국경 지역)",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "ตัดวงจรมิจฉาชีพ กสทช. ลุยปิด \"ซิมผี\" ม.ค. 69 ระงับแล้วกว่า 2.8 หมื่นเบอร์ เข้มพื้นที่ชายแดน",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2915031",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77p4eAfnlxXXDf.jpg"
+        }
+      ],
+      "collected_at": "19:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77p4eAfnlxXXDf.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "MRT 쑤언 짜뚜짝 역 메트로 몰, 중국 설날 & 발렌타인 데이 기념 행사",
+      "summary": "- MRT 쑤언 짜뚜짝 역 메트로 몰에서 중국 설날과 발렌타인 데이 기념 행사 개최.\n- 'Lucky Love Harmony' 컨셉으로 사랑과 행운, 조화 테마.\n- 2월 13일부터 27일까지 진행, 다양한 이벤트와 볼거리 제공.",
+      "full_translated": "MRT 쑤언 짜뚜짝 역의 메트로 몰(Metro Mall)에서 중국 설날과 발렌타인 데이를 기념하는 행사가 열립니다. 'Lucky Love Harmony'라는 컨셉으로 사랑, 행운, 조화라는 테마를 담고 있으며, 2월 13일부터 27일까지 다양한 이벤트와 볼거리를 제공합니다. 방문객들은 행사를 통해 긍정적인 에너지를 얻고 특별한 경험을 할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객들에게 흥미로운 문화 체험 기회를 제공하며, MRT 역에서 쉽게 접근 가능. 행사 기간 동안 해당 지역 혼잡 예상.",
+      "event_info": {
+        "date": "2026-02-13 ~ 2026-02-27",
+        "location": "Metro Mall, MRT Suan Chatuchak",
+        "price": "무료",
+        "location_google_map_query": "Metro Mall MRT Suan Chatuchak"
+      },
+      "references": [
+        {
+          "title": "เมโทร มอลล์ ฉลองตรุษจีน-วาเลนไทน์ ต้อนรับปีม้าไฟ พร้อมรับอั่งเปามงคล ที่ MRT สวนจตุจักร",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2915040",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pkj8f6jaZsB6.jpg"
+        }
+      ],
+      "collected_at": "19:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pkj8f6jaZsB6.jpg",
       "date": "2026-02-18"
     }
   ]
