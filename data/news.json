@@ -20730,14 +20730,9 @@
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어갔습니다.\n- 경찰은 용의자를 추적 중이며, 학생들의 안전 확보에 주력하고 있습니다.\n- 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
       "full_translated": "현재 방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 주민들의 안전을 최우선으로 하고 있습니다. 해당 지역을 여행 중이거나 방문 예정인 여행객들은 최신 정보를 확인하고, 당국의 지시에 따르는 것이 좋습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여. 사건 발생 후 상황이 업데이트되었으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "라드룸깨우"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': '라드룸깨우'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -20761,21 +20756,19 @@
         }
       ],
       "collected_at": "23:15",
-      "date": "2026-02-18"
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 지역 총기 난동범 추적 중, 학교 휴교",
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전 확보가 최우선 과제임.\n- 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 주시해야 함.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성의 난동으로 인해 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역을 여행하는 여행객들은 안전을 위해 방문을 자제하고 최신 정보를 확인해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여. 이미 게시된 뉴스지만, 상황이 진행 중이므로 업데이트 정보로서 포함.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo, Thailand'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -20784,21 +20777,19 @@
         }
       ],
       "collected_at": "23:15",
-      "date": "2026-02-18"
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, '공식' 결과 발표…일부 지역 재검표 및 재투표 실시",
       "summary": "- 태국 선거관리위원회가 2월 8일 총선 및 헌법 국민투표의 '공식' 결과를 발표했습니다.\n- 일부 투표소에서는 재검표 및 재투표가 필요한 상황입니다.\n- 선관위는 결과 인증을 서두르고 있으며, 선거 결과 취소 및 전국적인 재투표를 요구하는 법적 조치에 직면해 있습니다.",
       "full_translated": "태국 선거관리위원회는 수요일 2월 8일 총선 및 헌법 국민투표의 '공식' 결과를 발표하면서 일부 투표소에서 재검표와 새로운 투표가 필요하다고 인정했습니다.\n\n선관위는 400개 선거구 모두에 대해 투표 집계 보고서를 이제 ectreport69 웹사이트 또는 모든 지방 및 방콕의 선관위 사무실 웹사이트에서 확인할 수 있다고 밝혔습니다. 이용 가능한 정보에는 선거구 및 정당 목록 의원에 대한 투표 집계 보고서가 포함되어 있으며, 이는 전국적으로 거의 10만 개에 달하는 투표소별로 확인할 수 있습니다.\n\n일부 선거구에서는 재검표 또는 새로운 투표가 필요한 투표소가 있기 때문에 집계가 아직 완료되지 않았다고 밝혔습니다. 전체 결과에 큰 영향을 미치지는 않을 것으로 예상됩니다.\n\n화요일 선관위는 방콕의 한 곳을 포함한 8곳에서 투표 재검표를, 파야오의 한 투표소에서 새로운 선거를 명령했습니다.\n\n공식적으로 선관위는 투표일로부터 최대 60일 이내에 결과를 인증해야 하지만, 새 정부 구성의 지연을 줄이기 위해 가능한 한 빨리 인증하도록 압력을 받고 있습니다.\n\n선관위는 2월 8일 투표 처리 방식에 대한 불만으로 넘쳐나고 있으며, 일부 법적 조치가 이미 진행 중이며 선거 결과 취소와 전국적인 새로운 투표를 요구하고 있습니다. 유권자와 정당은 선관위가 부정 행위를 저질렀다고 주장하며 법원에 소송을 제기했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치적 불안정 가능성이 있으나, 여행객에게 직접적인 영향은 제한적일 것으로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Election Commission posts ‘official’ results",
@@ -20809,21 +20800,18 @@
       ],
       "collected_at": "23:15",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200170_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/politics/3200170/election-commission-posts-official-results",
+      "source": ""
     },
     {
       "title": "품미짜이, 소규모 정당 2곳 추가 합류 및 장관직 배분 부인",
       "summary": "- 푸미차이타이(푸미차이타이당)은 2개의 소규모 정당이 추가로 합류한다고 발표했습니다.\n- 동시에 끌라탐(클라탐당)에게 3개의 장관직을 배분한다는 소문을 부인했습니다.\n- 푸미차이타이당은 총리 선출 투표가 끝난 후 장관직 비율에 대해 논의할 것이라고 밝혔습니다.",
       "full_translated": "푸미차이타이당은 2개의 소규모 정당, 즉 타이 싼 타이당(2석)과 탈루악 마이당(1석)이 정부에 합류할 것이라고 발표했습니다. 이는 이전에 발표된 정당들과 합쳐 아누틴 차른비라쿨 정부가 총 281석을 확보하게 됨을 의미합니다. 동시에 푸미차이타이당 고위 소식통은 클라탐당과의 연립 정부 구성 협상 및 고등 교육, 과학 연구 및 혁신부, 사회 개발 및 인간 안보부, 노동부 등 3개 주요 부처를 배분한다는 소문을 부인했습니다. 클라탐당 역시 선거 이후 아누틴 대표 또는 푸미차이타이당의 주요 지도자들과의 어떠한 접촉도 없었다고 확인했습니다. 모든 관심은 클라탐당이 푸미차이타이당 총리 후보를 지지할 것인지에 쏠리고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황 변화에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단. 하지만 향후 정책 변화 가능성을 고려하여 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ภท. ต้อนอีก 2 พรรคเล็กเข้าคอก ปัดดีลแบ่ง 3 กระทรวงให้ \"กล้าธรรม\"",
@@ -20834,21 +20822,18 @@
       ],
       "collected_at": "23:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxumNLnqpIEh.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/politic/2915068",
+      "source": ""
     },
     {
       "title": "태국, 차기 에너지부 장관으로 쁘리디 다오차이 임명 예상",
       "summary": "- 쁘리디 다오차이가 차기 에너지부 장관으로 임명될 가능성이 높음.\n- 그는 과거 재무부 장관을 역임했으며, 카시콘 은행에서 오랜 경력을 쌓음.\n- 새 정부의 에너지 정책에 어떤 영향을 미칠지 주목됨.",
       "full_translated": "쁘리디 다오차이가 차기 에너지부 장관으로 임명될 것이라는 소식이 있습니다. 그는 20일 동안 재무부 장관을 역임한 후 사임했으며, 현재 아누틴 정부에서 에너지부 장관으로 복귀할 가능성이 제기되고 있습니다. 쁘리디 다오차이는 1958년 9월 9일에 태어났으며, 탐마삿 대학교 법학과를 졸업하고 일리노이 대학교 어바나-샴페인에서 법학 석사 학위를 받았습니다. 그는 카시콘 은행에서 35년 이상 근무한 금융 전문가입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "에너지 정책 변화는 간접적으로 여행 관련 비용에 영향을 줄 수 있지만, 직접적인 영향은 미미하므로 중간 점수를 부여. 정책 방향에 따라 여행 및 물류 산업에 영향이 있을 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ประวัติ “ปรีดี ดาวฉาย” จากอดีตรมว.คลัง ยุคลุงตู่ สู่ว่าที่ รมว.พลังงานยุคอนุทิน",
@@ -20859,7 +20844,136 @@
       ],
       "collected_at": "23:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxNic7ROo0ol.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/politic/2915066",
+      "source": ""
+    }
+  ],
+  "2026-02-19": [
+    {
+      "title": "고속철도 건설 현장 붕괴 사고 피해자 보상 완료",
+      "summary": "- 고속철도 건설 현장 붕괴 사고 관련 사망자 및 부상자 보험금 지급 완료.\n- 총 140만 바트 이상의 보험금이 지급됨.\n- 관련 기관은 피해자 지원에 최선을 다할 것을 약속.",
+      "full_translated": "사고로 인해 사망 및 부상을 입은 사람들에게 140만 바트 이상의 보상금이 지급되었습니다. 사회보장사무소는 피해자와 그 가족을 돕기 위해 최선을 다하고 있으며, 필요한 모든 지원과 혜택을 제공할 것입니다. 2069년 1월 14일 시키우 지역에서 발생한 고속철도 건설 프로젝트 붕괴 사고로 인해 발생한 피해에 대한 보상입니다. 이 사고로 인해 방콕-우본랏차타니 노선의 열차가 손상되고 화재가 발생하여 많은 사망자와 부상자가 발생했습니다. 사회보장사무소는 사망자 유족에게 장례비, 사망 위로금, 노령 연금 등의 혜택을 제공하고, 부상자에게는 사회보장기금과 근로자 보상 기금에서 치료비와 보상금을 지급합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "사고 피해에 대한 보상 완료 소식. 직접적인 여행 영향은 적으나 안전 관련 정보로서 의미가 있음",
+      "event_info": {
+        "date": "2069-01-14",
+        "location": "시키우 지역",
+        "price": "1,421,450.29 바트",
+        "location_google_map_query": "Sikhio District, Nakhon Ratchasima"
+      },
+      "references": [
+        {
+          "title": "เยียวยาผู้ประกันตน \"เครนถล่มสีคิ้ว\" จ่ายสิทธิประโยชน์รวมกว่า 1.4 ล้านบาท",
+          "url": "https://www.thairath.co.th/news/local/northeast/2915069",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxyq9BpMnkHI.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxyq9BpMnkHI.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "방콕 야나와 지역, 정신 질환 남성이 음식 훔쳐…피해자는 처벌 원치 않아",
+      "summary": "- 야나와 경찰, 음식 절도 신고 받고 출동\n- 정신 질환 있는 남성이 배달된 음식 훔쳐\n- 피해자는 남성의 딱한 사정 고려해 처벌 원치 않아",
+      "full_translated": "야나와 경찰은 절도 신고를 받고 출동했습니다. 정신 질환이 있는 남성이 몇 백 바트 상당의 음식을 훔쳤지만, 피해자는 처벌을 원하지 않는다고 밝혔습니다. 가족들은 어려운 상황을 인정했으며, 경찰이 설득하려 했음에도 소용없었습니다. 2월 17일 23시 40분, 야나와 경찰서의 경찰관들은 34세의 남성을 야간 절도 혐의로 체포했습니다. 그는 자전거와 123바트 상당의 라면, 125바트 상당의 차슈멘, 88바트 상당의 만두가 들어있는 비닐 봉투를 소지하고 있었습니다. 피해자는 배달원이 17시 45분에 배달해 놓은 음식을 도둑맞았다고 신고했습니다. 용의자는 빨간색 티셔츠, 검은색 반바지, 짧은 머리를 하고 파란색 자전거를 타고 음식을 훔쳐 달아났습니다. 경찰은 용의자를 추적하여 체포했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 직접적인 위협은 아니지만, 방콕의 치안 상황을 보여주는 뉴스이므로 정보 제공 가치가 있다고 판단. 경범죄 발생 정보.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 야나와 지역",
+        "price": null,
+        "location_google_map_query": "야나와 방콕"
+      },
+      "references": [
+        {
+          "title": "ฟังสองมุม หนุ่มสติไม่สมประกอบขโมยถุงกับข้าวไม่กี่ร้อย เจ้าของไม่ยอมยืนยันดำเนินคดี",
+          "url": "https://www.thairath.co.th/news/crime/2915067",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxQNArocrblO.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxQNArocrblO.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "민주당, 연립 정부 구성 협상보다 선거 조사 우선",
+      "summary": "- 민주당은 선거 부정 의혹 조사를 최우선 과제로 설정했습니다.\n- 공정한 선거에 대한 국민적 신뢰가 중요하다고 강조했습니다.\n- 선거 관리 위원회의 투명성에 대한 의문이 제기되고 있습니다.",
+      "full_translated": "민주당은 품자이타이 당이 새로운 연립 정부에 참여하기 위해 접근할지 여부보다 선거 부정 의혹 조사를 최우선 순위로 두고 있습니다. 당은 선거관리위원회가 감독한 과정의 투명성과 공정성에 대한 의문이 제기됨에 따라 2월 8일 선거에서 발생한 수많은 불만과 부정행위를 조사하기 위한 실무 그룹을 구성했습니다. 차이웃 반나왓 사무총장은 아핏싯 웨차치와 당 대표가 니핏 인타라솜밧 민주당 고위 인사가 이끄는 패널 구성을 승인했다고 밝혔습니다. 이 패널은 최근 투표 진행과 관련된 정보 및 문제를 검토한 후 결과를 당 임원에게 제출할 예정입니다. 선거관리위원회는 투표 관리에 대한 불만으로 넘쳐나고 있으며, 일부 청원인은 이미 결과를 무효화하고 전국적인 재투표를 요구하고 있습니다. 화요일 밤, 선거관리위원회는 방콕을 포함한 8개 지역에서 재검표를 명령했고, 파야오의 투표소에서 새로운 투표를 명령했습니다. 차이웃 씨는 연립 정부 구성에 대한 논의는 이 단계에서는 '부차적'이라고 말하면서, 민주당은 우선 선거관리위원회가 국민, 정당, 학계에서 제기된 우려를 어떻게 해결하고 있는지 명확히 하기를 원한다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 정치적 불안정이 심화될 경우 여행에 영향을 줄 수 있으므로 낮은 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Democrats put election probe ahead of coalition talks",
+          "url": "https://www.bangkokpost.com/thailand/politics/3200020/democrats-put-election-probe-ahead-of-coalition-talks",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200020_260218152435_700.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200020_260218152435_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "프랑스, 극우 활동가 폭행 사망 사건 관련 용의자 11명 체포",
+      "summary": "- 프랑스에서 극우 활동가 폭행 사망 사건과 관련하여 11명의 용의자가 체포됨.\n- 용의자들은 좌익 무장단체의 소행으로 추정되며, 정치적 긴장감이 고조된 상황에서 발생.\n- 체포된 용의자 중에는 좌파 정당 LFI 소속 정치인의 보좌관도 포함되어 논란이 일고 있음.",
+      "full_translated": "프랑스에서 지난주 극우 활동가를 집단 폭행해 사망에 이르게 한 용의자 11명을 체포했습니다. 주요 선거를 앞두고 정치적 상황이 격렬해지는 가운데 외신에 따르면 프랑스 당국은 수요일(2월 18일) 젊은 학생 운동가의 살인 사건에 연루된 용의자 2명을 추가로 구금했습니다. 그는 리옹에서 좌익 무장 단체의 소행으로 추정되는 극우 운동가였습니다. 이로써 현재 구금된 사람은 총 11명입니다. 23세의 콘스탄틴 데롱은 지난주 시위 중 구타와 발길질로 인해 심각한 뇌 손상으로 사망했습니다. 시위는 유럽 의회 의원 리마 하산(Rima Hassan)의 토론회장 밖에서 발생했습니다. 하산은 극좌 정당인 France Unbowed(LFI) 소속입니다. 현장에서 촬영된 비디오 영상에는 바닥에 누워 있는 3명이 더 큰 그룹에 의해 구타당하는 모습이 담겨 있습니다. 모든 가해자는 얼굴을 가리는 후드를 쓰고 있었습니다. 이민자에 반대하는 페미니스트 그룹인 '네메시스'는 데롱이 단체 구성원을 보호하기 위해 행사 장소 밖에 나타났다고 밝혔습니다. 네메시스 그룹은 '영 가드' 그룹이 공격의 배후에 있다고 비난했지만 영 가드 그룹은 혐의를 부인했습니다. 가장 최근의 급습은 수요일에 시작되었으며 체포된 사람 중에는 라파엘 아르놀트 LFI 정치인의 의회 보좌관인 자크-엘리 파브로도 포함되었습니다. 아르놀트는 그의 보좌관인 파브로가 의회에서 모든 일을 그만두었고 현재 고용 계약을 취소하는 과정에 있다고 밝혔습니다. ... 그러나.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에는 직접적인 영향이 없으나, 국제적인 정치 상황에 대한 정보 제공 차원에서 포함. 여행 안전에 대한 직접적인 위협은 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ฝรั่งเศสจับแล้ว 11 ผู้ต้องสงสัยรุมทำร้ายนักเคลื่อนไหวหนุ่มจนตาย",
+          "url": "https://www.thairath.co.th/news/foreign/2915073",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obrE20d6OFGC.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obrE20d6OFGC.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "러시아-우크라이나 평화 협상, 영토 문제로 난항",
+      "summary": "- 러시아와 우크라이나 간 평화 협상이 큰 진전 없이 종료됨.\n- 영토 문제에 대한 양측의 입장차가 여전히 큼.\n- 군사적 문제에서는 일부 진전이 있었으나, 핵심 쟁점 해결은 불투명.",
+      "full_translated": "러시아와 우크라이나 간의 두 번째 평화 협상이 미미한 진전만을 보인 채 영토 문제로 인해 난항을 겪고 있습니다. 외신 보도에 따르면, 4년 가까이 지속된 전쟁을 종식시키기 위한 러시아, 우크라이나, 미국의 협상이 2569년 2월 18일 수요일에 어떠한 돌파구도 마련하지 못하고 종료되었습니다. 군사적 문제에서는 일부 진전이 있었지만 말입니다. 제네바에서 열린 3자 회담은 단 2시간 만에 종료되었는데, 화요일 첫날 회의가 늦게까지 진행되었음에도 불구하고 말입니다. 스티브 윗코프 미국 대표는 이번 협상에 대한 자신감을 표명했지만, 러시아 협상 대표와 볼로디미르 젤렌스키 우크라이나 대통령은 모두 회담이 \"어려웠다\"고 밝혔습니다. 주요 협상이 끝난 후, 크렘린의 협상팀 대표인 블라디미르 메딘스키는 우크라이나 측과 비공개 회담을 위해 다시 회의장으로 돌아갔고, 약 1시간 30분 동안 진행된 이 회담에 대한 자세한 내용은 공개되지 않았습니다. 우크라이나 외교부 소식통에 따르면, 전선 획정과 휴전 감시를 포함한 \"군사적 문제\"에서 일부 진전이 있었습니다. 그러나 휴전 합의를 고려하는 데 필수적인 요소인 영토 문제에 대한 합의는 아직 이루어지지 않았는데, 이는 러시아와 우크라이나의 입장이 매우 다르기 때문입니다. 러시아는 우크라이나 동부의 도네츠크와 루한스크 지역으로 구성된 돈바스 지역을 완전히 통제하려는 입장을 굽히지 않고 있지만, 우크라이나 측은 이 요구를 받아들일 수 없다고 주장합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세에 대한 기본적인 이해를 돕기 위해 포함. 여행 관련 정보는 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัสเซีย-ยูเครน เจรจาวันที่ 2 คืบหน้าเล็กน้อย แต่ยังติดปัญหาเรื่องดินแดน",
+          "url": "https://www.thairath.co.th/news/foreign/2915072",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obhWM2rQ5kXd.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obhWM2rQ5kXd.jpg",
+      "date": "2026-02-19"
     }
   ]
 }
