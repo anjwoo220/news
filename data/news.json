@@ -20965,14 +20965,9 @@
       "summary": "- 고속철도 건설 현장 붕괴 사고 관련, 경찰이 190명 이상의 증인을 조사했으나 아직 기소된 사람은 없음.\n- 사고는 나콘랏차시마 지역 시키우에서 발생했으며 30명이 사망하고 70명이 부상함.\n- 사고 지점은 현재 열차 운행이 재개되었으며, 붕괴된 크레인은 철거되었고 해당 지역 건설은 중단됨.",
       "full_translated": "나콘랏차시마 - 고속철도 건설 현장 붕괴 사고와 관련하여 시키우 경찰서장은 190명 이상의 증인을 조사했지만 아직 개인이나 기관에 대한 기소는 이루어지지 않았다고 밝혔습니다. 사고는 2069년 1월 14일 시키우 지역에서 발생하여 30명이 사망하고 70명이 부상했습니다. 경찰은 목격자, 부상자 및 피해자 190명 이상을 조사했습니다. 회사 대표도 소환 조사했지만 세부 사항은 공개할 수 없습니다. 전문가의 조사 결과를 기다려야 하므로 아직 기소하지 않았습니다. 엔지니어링 협회에 문의한 결과 여러 부서의 검사 결과를 기다려야 한다고 합니다. 검사 결과는 3월 말경에 나올 것으로 예상되며, 그 후 수집된 모든 증거를 종합하여 위반자를 기소할 것입니다. 사고 지점은 안전 점검 후 사고 발생 5일 후부터 열차 운행이 재개되었습니다. 현재는 정상적으로 운행되고 있습니다. 붕괴된 크레인은 철거되었고 해당 지역 건설은 중단되었습니다. 경찰은 해당 지역을 봉쇄하여 누구도 작업을 수행할 수 없도록 했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사고 관련 진행 상황 업데이트. 열차 운행 재개 정보 포함.",
-      "event_info": {
-        "date": "2069-01-14",
-        "location": "시키우 지역, 나콘랏차시마",
-        "price": null,
-        "location_google_map_query": "Sikhio, Nakhon Ratchasima"
-      },
+      "event_info": "{'date': '2069-01-14', 'location': '시키우 지역, 나콘랏차시마', 'price': None, 'location_google_map_query': 'Sikhio, Nakhon Ratchasima'}",
       "references": [
         {
           "title": "คดีเครนถล่มทับรถไฟ 1 เดือนผ่านไป ตำรวจสอบปากคำพยาน 190 ปาก ยังไม่แจ้งข้อหาใคร",
@@ -20981,23 +20976,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77plQBlVEnkiQw.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77plQBlVEnkiQw.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/crime/2915048",
+      "source": ""
     },
     {
       "title": "중국 춘절 폭죽 가게 폭발 사고로 12명 사망",
       "summary": "- 중국에서 춘절을 맞아 폭죽 가게에서 연쇄 폭발 사고 발생\n- 후베이성에서 발생한 폭발로 최소 12명 사망\n- 당국은 전국 폭죽 판매점에 대한 안전 점검 강화 지시",
       "full_translated": "중국에서 두 번째 폭죽 가게 폭발 사고가 발생하여 12명이 사망했습니다. 중국 정부 CCTV는 중국 중부 지역의 한 폭죽 가게에서 수요일(2월 18일) 폭발이 발생하여 최소 12명이 사망했다고 보도했습니다. 폭죽과 폭죽을 터뜨리는 것은 중국 축제, 특히 춘절 기간 동안 일반적인 관행입니다. 올해는 화요일에 시작되었습니다. 최근 몇 년 동안 베이징을 포함한 여러 대도시에서 오염 문제로 인해 폭죽이 금지되었지만, 작은 도시와 농촌 지역에서는 연휴 내내 폭죽 소리가 계속 울려 퍼지고 있습니다. CCTV는 현지 당국을 인용하여 2월 18일 오후 2시경 후베이성 정지 마을의 폭죽 가게에서 화재와 폭발이 발생했으며, 화재 면적은 약 50제곱미터에 달해 12명이 사망했다고 보도했습니다. 정확한 원인은 조사 중입니다. 이는 최근 며칠 동안 중국에서 발생한 두 번째 폭죽 가게 폭발 사고입니다. 지난 일요일(2월 15일) 중국 동부 장쑤성의 폭죽 가게에서 폭발이 발생하여 8명이 사망하고 2명이 부상했습니다. 이 사건으로 인해 긴급 관리부는 전국 폭죽 판매 사업장에 대한 통제를 강화하고 상세한 안전 점검을 실시하도록 지시했습니다. 또한, 당국은 국민들에게 폭죽을 시험하거나 가게 앞에서 담배를 피우는 것과 같은 위험한 행위를 피하도록 경고했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국 춘절 기간 폭죽 사고 발생. 여행객 안전에 간접적인 영향.",
-      "event_info": {
-        "date": "2024-02-18",
-        "location": "후베이성 정지 마을",
-        "price": null,
-        "location_google_map_query": "정지 마을 후베이성 중국"
-      },
+      "event_info": "{'date': '2024-02-18', 'location': '후베이성 정지 마을', 'price': None, 'location_google_map_query': '정지 마을 후베이성 중국'}",
       "references": [
         {
           "title": "ร้านพลุจีนระเบิดอีกแห่ง ดับแล้ว 12 ศพ สลดเทศกาลตรุษจีน",
@@ -21006,23 +20998,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ow8Z1oWAa9CZ.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ow8Z1oWAa9CZ.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915063",
+      "source": ""
     },
     {
       "title": "태국 장례 지원 협회 취소 논란, 주민 불안 확산",
       "summary": "- 태국 내 여러 장례 지원 협회가 취소되어 주민들의 불안감이 커지고 있음.\n- 특히 고령층을 중심으로 오랫동안 협회에 가입하여 납부금을 낸 사람들의 우려가 심각함.\n- 협회는 영리 목적이 아닌 상호 부조를 위한 단체로, 회원 사망 시 장례 지원 및 유족 지원을 제공.",
       "full_translated": "최근 여러 장례 지원 협회의 취소 발표로 인해 많은 태국 주민들이 불안감을 느끼고 있습니다. 특히 오랫동안 협회 회원으로 가입하여 납부금을 내온 고령층의 우려가 큽니다. 장례 지원 협회는 회원 간 상호 부조를 목적으로 운영되며, 회원의 사망 시 장례 지원금 또는 유족 지원금을 제공합니다. 이는 정부 지원에만 의존하지 않고 지역 사회 내에서 서로를 돕는 방식으로, 가족의 재정적 부담을 덜어주는 역할을 합니다. 협회 가입 조건은 성년(20세 이상) 또는 결혼한 17세 이상의 남녀이며, 파산자 또는 무능력자가 아니어야 하고 건강해야 합니다. 각 협회마다 추가적인 가입 조건이 있을 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 사회의 단면을 보여주는 로컬 뉴스. 여행 자체에 직접적인 영향은 적으나, 장례 문화에 대한 이해를 돕고 현지 정서에 대한 간접 경험을 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ดราม่า \"เงินฌาปนกิจ\" ชาวบ้านหวั่นใจ \"สมาคมฌาปนกิจสงเคราะห์\" หลายแห่งถูกยกเลิก",
@@ -21031,23 +21020,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxXGB7HnLNwC.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxXGB7HnLNwC.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/society/2915064",
+      "source": ""
     },
     {
       "title": "“디 아이콘 그룹” 사건 관련, 검찰총장 “보스 샘-보스 민” 기소 명령",
       "summary": "- 검찰총장이 “디 아이콘 그룹” 사건의 “보스 민-보스 샘” 기소를 명령함.\n- 법원에 기소하기 위해 소환 예정이며, 불응 시 체포영장 발부 예정.\n- 이들은 과거 증거 불충분으로 불기소 처분되었으나, 특별수사국장의 이의 제기로 재수사.",
       "full_translated": "속보! 검찰총장이 “디 아이콘 그룹” 사건의 “보스 민-보스 샘”을 기소하라는 의견을 제시했습니다. 특별 검찰은 이들을 법원에 기소하기 위해 소환할 예정입니다. 만약 나타나지 않을 경우, 특별수사국(DSI)이 이들을 체포하여 검찰에 넘겨 기소할 것입니다.\n\n이 사건은 유라난트 팜몬몬트리 또는 보스 샘과 피차야 와타나몬트리 또는 보스 민에 대한 특별 검찰의 불기소 처분으로 시작되었습니다. 당시 검찰은 증거가 불충분하다고 판단하여 이들을 석방했습니다. 그러나 특별수사국장인 욧타나 프래담은 이의를 제기하며 보스 샘과 보스 민을 5가지 중죄로 기소해야 한다고 주장했습니다. 절차에 따라 이 이의 제기는 검찰총장에게 보내져 최종 결정이 내려지게 됩니다.\n\n최근 보고에 따르면 2569년 2월 17일, 검찰총장의 최종 결정서가 특별 검찰청으로 보내졌으며, 특별수사국장의 의견에 따라 두 용의자를 기소해야 한다는 의견을 제시했습니다. 다음 단계로 특별 검찰은 용의자들을 소환하여 검찰총장의 명령에 따라 기소할 예정입니다. 만약 용의자들이 특별 검찰의 소환에 응하지 않을 경우, 특별 검찰청은 특별수사국에 이들을 체포하여 형사 법원에 기소하도록 요청할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 사회의 주목을 받는 사건으로, 여행객들이 현지 뉴스에 대한 이해도를 높이는 데 도움이 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ด่วน อสส. ชี้ขาดสั่งฟ้อง “บอสแซม-บอสมิน” ต่อศาล คดี “ดิไอ콘 กรุ๊ป”",
@@ -21056,23 +21042,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXXANJX26jzE.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXXANJX26jzE.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/crime/2915057",
+      "source": ""
     },
     {
       "title": "태국 총리, 캄보디아 총리의 영토 침범 주장에 답변 거부",
       "summary": "- 아누틴 찬위라꾼 태국 총리가 캄보디아 총리의 영토 침범 주장에 대한 기자들의 질문에 답변을 거부함.\n- 총리는 목이 아픈 제스처를 취하며 답변을 회피함.\n- 해당 질문은 워싱턴 D.C.에서 열린 평화위원회 회의에서 캄보디아 총리가 태국이 캄보디아 영토를 침범했다는 주장을 한 것에 대한 것임.",
       "full_translated": "아누틴 찬위라꾼 태국 총리는 2069년 2월 18일 정부청사에서 기자들이 워싱턴 D.C.에서 열린 평화위원회 회의에 대해 질문하자 답변을 거부했습니다. 훈 마넷 캄보디아 총리는 태국이 캄보디아 영토를 점령하여 캄보디아 국민들에게 고통을 안겨주었다고 연설했습니다. 아누틴 총리는 타이 쿠 파 빌딩으로 올라가는 길에 기자들의 질문을 듣기 위해 손으로 귀를 막는 제스처를 취했습니다. 그는 목을 가리키고 기침하는 시늉을 하며 답변을 거부한 뒤 차에 올라 즉시 정부청사를 떠났습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국-캄보디아 간의 외교적 긴장 가능성이 있지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "ทำเนียบรัฐบาล (정부청사)",
-        "price": null,
-        "location_google_map_query": "Thai Government House"
-      },
+      "event_info": "{'date': None, 'location': 'ทำเนียบรัฐบาล (정부청사)', 'price': None, 'location_google_map_query': 'Thai Government House'}",
       "references": [
         {
           "title": "นายกฯ ทำท่าไอ - เจ็บคอ ปฏิเสธให้สัมภาษณ์ หลังถาม “ฮุน มาเนต” ฟ้องโลกไทยรุกดินแดน",
@@ -21081,8 +21064,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pX1ak0ZArXRk.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pX1ak0ZArXRk.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915051",
+      "source": ""
+    },
+    {
+      "title": "수완나품 공항에서 야생 동물 밀수범 체포",
+      "summary": "- 인도 남성이 수완나품 공항에서 살아있는 희귀 야생동물 15마리를 밀수하려다 적발됨.\n- 짐 수색 결과 풀루 거북이 13마리, 랑구르 1마리, 긴팔원숭이 1마리가 발견됨.\n- 용의자는 야생생물 보존 및 보호법 위반 혐의로 기소될 예정.",
+      "full_translated": "태국 당국은 수완나품 공항에서 희귀 야생 동물을 본국으로 밀반출하려던 인도 남성을 체포했습니다. 공항 야생 동물 검사관 Komkrit Pinsai에 따르면, 화요일 늦은 밤 세관 당국은 이 남성의 수하물에서 살아있는 동물 15마리를 발견했습니다. 용의자는 인도 국적의 Naveen Kumar(38)로, 타이 항공편으로 인도 콜카타로 출발할 예정이었습니다. 그는 국제선 출발 터미널 C2A 게이트 검문소에서 체포되어 야생 동물 검사소 사무실로 이송되었습니다. 수색 결과, 회색 바퀴 달린 여행 가방 안에서 플라스틱 바구니 또는 천 가방에 담겨 개인 소지품 사이에 숨겨진 살아있는 야생 동물 15마리가 발견되었습니다. 여기에는 풀루 거북이와 민물 거북이 13마리, 랑구르 1마리, 긴팔원숭이 1마리가 포함됩니다. 당국은 또한 범죄와 관련하여 사용된 것으로 보이는 오래된 휴대폰을 증거로 압수했습니다. 용의자는 야생생물 보존 및 보호법 위반 혐의로 기소될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항에서 발생한 범죄 사건으로, 여행객 안전에 영향을 줄 수 있으며, 야생 동물 밀수 관련 법규 인지 필요.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "수완나품 공항",
+        "price": null,
+        "location_google_map_query": "Suvarnabhumi Airport"
+      },
+      "references": [
+        {
+          "title": "Wildlife smuggler caught at Suvarnabhumi Airport",
+          "url": "https://www.bangkokpost.com/thailand/general/3200049/wildlife-smuggler-caught-at-suvarnabhumi-airport",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200049_260218161541_700.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200049_260218161541_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "러시아인, 태국 행운 의식 참여 위해 방콕 인근 사원 방문",
+      "summary": "- 러시아 관광객, 행운을 빌기 위해 나콘나욕 사원에서 관에 눕는 의식 참여\n- 장례 의식 상징은 '진짜 죽음 전 죽음 연습', 삶의 무상함을 상기시킴\n- 사원 관계자는 이 의식이 불운을 쫓을 뿐 아니라 마음챙김과 성찰을 장려한다고 언급",
+      "full_translated": "나콘나욕 — 러시아 관광객들이 불운을 쫓고 행운을 증진시키는 것으로 여겨지는 관에 눕는 의식에 참여하기 위해 나콘나욕 지방의 왓 루앙 포 팍댕 사원을 방문했습니다. 반야이 하위 지역, 므앙 지역의 사원에서 열린 이 의식은 텔레비전과 온라인 매체의 보도 후 러시아 방문객과 태국 신자 모두를 끌어들였습니다. 참가자들은 승려들이 장례 의식을 외우는 동안 사원에 마련된 5개의 관 중 하나에 누웠습니다. 이 의식은 참가자들에게 삶의 무상함을 상기시키면서 '진짜 죽음 전에 죽음을 연습하는 것'을 상징합니다. 의식 동안 승려들은 몸을 서쪽에서 동쪽으로 돌리고, 기도를 낭송하고, 축복을 내리고, 불운을 막기 위해 성수를 뿌렸습니다. 이 행사는 나콘나욕 지방 교회 수장이자 왓 프라 마니의 수도원장인 프라 랏차프롬쿤이 주재했습니다. 관 의식 외에도 참가자들은 이마와 손바닥에 신성한 표식을 받았고, 번영을 위해 지갑에 얀트라 비문을 새겼습니다. 사원 관계자는 이 의식이 불운을 쫓을 뿐 아니라 마음챙김과 죽음의 불가피성에 대한 성찰을 장려하기 위한 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국에서 경험할 수 있는 독특한 문화 체험 정보 제공. 관광객들에게 흥미로운 선택지가 될 수 있음.",
+      "event_info": {
+        "date": "N/A",
+        "location": "Wat Luang Phor Pak Daeng Temple, Nakhon Nayok",
+        "price": "N/A",
+        "location_google_map_query": "Wat Luang Phor Pak Daeng Temple, Nakhon Nayok"
+      },
+      "references": [
+        {
+          "title": "From Moscow to the coffin: Russians join Thai fortune ritual",
+          "url": "https://www.khaosodenglish.com/life/2026/02/18/from-moscow-to-the-coffin-russians-join-thai-fortune-ritual/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news111680_v5hI6Z2IF917712374548888888888888888888888888.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news111680_v5hI6Z2IF917712374548888888888888888888888888.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 장례 지원 협회 해산 논란, 지방 정부 승인 필요",
+      "summary": "- 태국 인적자원사회개발부(포모.)는 장례 지원 협회 해산 시 지방 정부의 승인이 필요하다고 강조함.\n- 지방 정부는 협회 해산 명령을 내리고 이를 협회에 공고해야 함.\n- 중앙 정부는 지방 정부의 명령에 따라 협회 해산 발표.",
+      "full_translated": "인적자원사회개발부(폼.) 차관은 장례 지원 협회 해산은 반드시 지방 정부의 검토와 해산 명령을 거쳐야 한다고 확인했습니다. 칸타퐁 랑시사왕 인적자원사회개발부(폼.) 차관은 온라인에서 많은 회원에게 영향을 미치는 장례 지원 협회 해산에 대한 공유 사례에 대해 다음과 같이 밝혔습니다. 장례 지원 협회는 사망 시 서로를 돕거나 사망 시 장례를 치르고 회원의 가족을 돕기 위해 여러 사람이 모인 단체입니다. 이는 이익이나 소득을 나누지 않고 간단히 말해서 마을 사람들이 장례식에 기부하는 사업입니다. 친구가 친구를 돕는 방식으로 말입니다. 협회 설립-해산 절차 칸타퐁은 협회 설립은 시청, 자치구, 방콕 구청에서 등록을 신청할 수 있다고 말했습니다. 여성가족부(서커.) 인적자원사회개발부(폼.)는 이러한 임무를 해당 지방 정부 기구에 이관하여 감독 및 감독하도록 했습니다. 협회 설립 등록 승인 및 장례 지원 협회 해산은 해당 지역 등록관의 권한입니다. 해산 명령을 작성하여 협회에 게시하고 해당 해산 명령을 중앙 등록관에게 보내야 합니다. 여성가족부(서커.) 사무총장 칸타퐁 랑시사왕 인적자원사회개발부(폼.)는 중앙 등록관이 지방 등록관의 명령에 따라 협회 해산 공고를 발표하도록 했습니다. 그런 다음 사무국으로 보내 각료 회의에 게시합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국의 사회 시스템에 대한 이해를 돕고 로컬 뉴스에 대한 흥미로운 정보를 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปลัดพม.ยันเลิกสมาคมฌาปนกิจสงเคราะห์ ต้องผ่านการพิจารณาและสั่งเลิกจากนายทะเบียนท้องที่ก่อนเท่านั้น",
+          "url": "https://www.thairath.co.th/news/politic/2915061",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxG3KKdFUQ5p.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxG3KKdFUQ5p.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "러시아 대사, Matichon 방문: 미디어 협력 및 양국 관계 강조",
+      "summary": "- 러시아 대사가 태국 Matichon 그룹 본사를 방문하여 임원진과 회담.\n- 태국-러시아 간 오랜 관계의 중요성을 강조하며 인적 교류 증가를 언급.\n- 미디어 협력 강화 및 가짜 뉴스 문제에 대한 공동 대응 필요성을 강조.",
+      "full_translated": "방콕 — 2월 18일, 에브게니 토미힌 주태국 러시아 대사가 Matichon Public Company Limited를 방문하여 방콕에 있는 회사 본사에서 Matichon 그룹 임원들을 만났습니다. 쁘랍 분판 Matichon 그룹 매니징 디렉터가 이끄는 Matichon 대표단은 대사와 그의 대표단을 환영했습니다.\n\n회담에서 토미힌 대사는 태국과 러시아 간의 오랜 관계의 중요성을 강조했습니다. 그는 매년 더 많은 러시아 관광객이 태국을 여행하고 많은 태국인이 겨울에 러시아를 방문하면서 인적 교류가 계속 증가하고 있다고 언급했습니다. 경제 및 무역 협력은 양국 관계의 핵심 기둥으로 남아 있다고 그는 말했습니다. \n\n대사는 또한 현재의 세계 환경에서 언론의 역할을 강조하면서 러시아는 특히 정보 교환 분야에서 태국과의 협력을 강화하고자 한다고 밝혔습니다. 그는 태국-캄보디아 국경을 따라 러시아 용병이 캄보디아를 지원했다는 거짓 보고서가 유포되는 등 가짜 뉴스라는 세계적인 문제점을 언급하며 이는 사실이 아니라고 밝혔습니다.\n\n토미힌은 2018년 11월 2일 태국 왕국 주재 러시아 연방 특명 전권 대사이자 방콕에 있는 유엔 아시아 태평양 경제사회위원회 상임 대표로 임명되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "양국 관계 및 관광객 증가에 대한 간략한 언급이 있으나, 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2024-02-18",
+        "location": "Matichon Public Company Limited, Bangkok",
+        "price": null,
+        "location_google_map_query": "Matichon Public Company Limited, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Russian ambassador visits Matichon, highlights media cooperation and bilateral ties",
+          "url": "https://www.khaosodenglish.com/news/2026/02/18/russian-ambassador-visits-matichon-highlights-media-cooperation-and-bilateral-ties/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/S__254795798_0.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/S__254795798_0.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "터키, 이스라엘의 '소말릴란드' 승인에 경고",
+      "summary": "- 터키 대통령 에르도안, 이스라엘의 소말릴란드 승인이 지역 상황을 악화시킬 수 있다고 경고.\n- 이스라엘은 소말리아에서 분리 독립을 선언한 소말릴란드를 승인한 최초의 국가.\n- 소말릴란드는 터키에 지역 긴장을 고조시키는 행위를 자제할 것을 촉구.",
+      "full_translated": "터키 지도자가 이스라엘에 경고했습니다. 이스라엘은 '소말릴란드'를 독립 국가로 승인한 첫 번째 국가가 되었으며, 이러한 행위가 지역 상황을 악화시킬 수 있다고 밝혔습니다. \n\n외신에 따르면 레제프 타이이프 에르도안 터키 대통령은 이스라엘이 소말리아에서 분리된 지역인 '소말릴란드'를 독립 국가로 인정한 것을 거부하며, 이는 지역 상황을 악화시킬 수 있다고 지적했습니다. \n\n지난 12월, 이스라엘은 소말리아에서 30년 이상 독립을 선언한 소말릴란드를 승인한 첫 번째 국가가 되었습니다. 이 움직임은 소말릴란드를 자국 영토의 일부로 간주하는 모가디슈 정부의 불만을 샀습니다. 에르도안 대통령은 수요일(2월 18일) 에티오피아를 방문하는 동안 이러한 행동이 이미 취약하고 불안정한 지역에 위험한 영향을 미칠 수 있다고 말했습니다. \n\n에르도안 대통령은 “아프리카의 뿔은 외국 군대의 전장이 되어서는 안 됩니다. 우리는 이 지역의 국가들이 스스로 문제를 해결해야 한다고 믿습니다.”라고 말했습니다. \n\n이에 대해 소말릴란드 외무부는 터키가 지역 긴장을 더욱 고조시키는 행위를 자제해야 한다고 밝혔습니다. 최근 몇 년 동안 터키는 여러 국가 및 지역의 분쟁을 중재하는 역할을 해왔습니다. 에르도안 대통령은 소말리아에 불만을 야기한 소말릴란드에 항구 건설을 위해 토지를 임대한 에티오피아 간의 분쟁을 해결하는 중재자입니다. 이로 인해 사건이 광범위한 갈등으로 확대될 것이라는 우려가 커지고 있습니다. 아비 아흐메드 에티오피아 총리는 에르도안 대통령과 함께한 기자회견에서 터키에 지지를 요청했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행과는 직접적인 관련은 없으나, 국제 정세 불안정은 간접적으로 여행 심리에 영향을 줄 수 있으며, 터키를 경유하는 여행객에게는 더 중요한 정보일 수 있음. 하지만 현재 시점에서는 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ตุรกีเตือนอิสราเอล รับรอง “โซมาลีแลนด์” อาจทำสถานการณ์แย่ลง",
+          "url": "https://www.thairath.co.th/news/foreign/2915077",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ob7e82HA0kZI.jpg"
+        }
+      ],
+      "collected_at": "02:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ob7e82HA0kZI.jpg",
       "date": "2026-02-19"
     }
   ]
