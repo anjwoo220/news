@@ -20285,14 +20285,9 @@
       "summary": "- 총기 소지 혐의로 수배 중이던 '앨'이 경찰에 자수함.\n- 학생들의 안전을 우려하여 자수를 결심했다고 밝힘.\n- 이로 인해 임시 휴교했던 학교들은 정상 운영될 예정.",
       "full_translated": "총기 불법 소지 혐의로 수배를 받던 '앨'이 자수했습니다. 그는 자신의 행동으로 인해 학생들이 피해를 입는 것을 보고 자수를 결심했다고 밝혔습니다. '앨'은 경찰 조사에서 혐의를 인정했으며, 현재 경찰은 정확한 사건 경위를 조사 중입니다. 이번 사건으로 인해 임시 휴교에 들어갔던 라드룸깨우 지역 학교들은 곧 정상 운영될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총기 난동 용의자 검거로 지역 사회 불안 해소. 여행객 안전에 긍정적 영향. 기존 보도에서 상황 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo'}",
       "references": [
         {
           "title": "\"แอล\" เปิดสาเหตุเข้ามอบตัว ยอมรับหลบหนีจริง ลั่นไม่คิดจะเดือดร้อนกันขนาดนี้",
@@ -20303,21 +20298,18 @@
       ],
       "collected_at": "16:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIKDAcBdDAHB2xS.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/crime/2914999",
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 지역 총기 난동범 추적 중, 학교 휴교령",
       "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 주민들에게 안전 주의 당부.\n- 휴교령이 내려진 학교 목록은 관련 뉴스에서 확인 가능.",
       "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성이 난동을 부려 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 주민들은 안전에 유의해야 합니다. 휴교령이 내려진 학교 목록은 관련 뉴스에서 확인할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총기 난동 사건으로 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "라드룸깨우 지역",
-        "price": null,
-        "location_google_map_query": "Lat Lum Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '라드룸깨우 지역', 'price': None, 'location_google_map_query': 'Lat Lum Kaeo, Thailand'}",
       "references": [
         {
           "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
@@ -20331,21 +20323,19 @@
         }
       ],
       "collected_at": "16:38",
-      "date": "2026-02-18"
+      "image_url": "",
+      "date": "2026-02-18",
+      "link": null,
+      "source": ""
     },
     {
       "title": "방콕 인근 라드룸깨우 총기 난동 용의자 자수, 피해자에게 사과",
       "summary": "- 총기 난동 및 구급차 총격 용의자 '앨'이 경찰에 자수함.\n- 경찰 조사에 협조하며 자신의 행동에 대해 사과함.\n- 라드룸깨우 지역 학교들의 휴교령은 해제될 예정.",
       "full_translated": "총격 협박과 구급차 총격 혐의를 받는 '앨'이 경찰에 자수했습니다. 그는 파툼타니 지방 경찰 본부에서 캄론위트 경찰 중장의 안내를 받아 자수했으며, 자신의 행동에 대해 손을 모아 사과했습니다. 앞서 랏룸깨우 지역 학교에서 발생한 총기 난동 및 어린이 위협 사건으로 인해 1 지방 경찰청장 왓타나 이진은 용의자 체포 영장을 발부하고 검문소를 설치하여 용의자를 추적하도록 지시했습니다. 경찰은 불법 총기 소지 및 공공장소에서의 총기 휴대 혐의로 그를 기소할 예정입니다. 경찰은 어제 오전부터 회의를 열어 용의자 추적 및 체포 계획을 논의했으며, 용의자가 지역 지도자를 통해 자수 의사를 밝혔다고 밝혔습니다. 경찰은 용의자가 자수할 것을 촉구했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "최근 방콕 인근에서 발생한 총기 난동 사건의 용의자가 자수함. 초기에는 학교 휴교령까지 내려졌으나, 용의자 자수로 상황이 해결 국면으로 접어들어 안전 우려가 감소했으므로 여행객에게 중간 정도의 영향이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "ปทุมธานี(파툼타니)",
-        "price": null,
-        "location_google_map_query": "ปทุมธานี 태국"
-      },
+      "event_info": "{'date': None, 'location': 'ปทุมธานี(파툼타니)', 'price': None, 'location_google_map_query': 'ปทุมธานี 태국'}",
       "references": [
         {
           "title": "ด่วน \"แอล\" มอบตัวแล้ว หลังถือปืนขู่ ยิงรถกู้ภัย พร้อมยกมือไหว้ขอโทษ",
@@ -20356,6 +20346,56 @@
       ],
       "collected_at": "16:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77rDLs4YRinJBA.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/crime/2915001",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동 사건 발생, 여러 학교 긴급 휴교 (속보)",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 지역 주민들의 안전에 대한 우려가 커지고 있음.\n- 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 주시해야 함.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적 중이며, 지역 주민들의 안전에 대한 우려가 커지고 있습니다. 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 주시해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 난동 사건은 여행객의 안전에 직접적인 위협이 되므로 높은 점수를 부여. 사건이 진행 중이므로 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우 지역",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "17:35",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 지역 총기 불법 거래 용의자 체포",
+      "summary": "- 사이버 경찰이 페이스북 비밀 그룹에서 총기 불법 판매를 적발, 용의자 2명 체포.\n- 자동차 수리점 주인과 직원이 연루되었으며, 총기 4정과 탄약 13발 압수.\n- 용의자들은 불법 총기 소지 혐의로 기소될 예정.",
+      "full_translated": "사이버 경찰이 페이스북 비밀 그룹에서 불법 총기 판매를 유인하여 자동차 수리점 주인과 직원을 포함한 용의자 2명을 체포하고 총기 4정과 탄약 13발을 압수했습니다. 2069년 2월 18일, 수라폰 프렘부트라 중장과 나라데스 팁락 중장, 콤크릿 숙타이 소장의 지시 하에 경찰은 합동 작전을 통해 25세의 프라이완과 57세의 수리점 주인 시리퐁을 체포했습니다. \n\n수사 결과, 프라이완은 시리퐁의 의뢰를 받아 소셜 미디어에 총기를 판매했으며, 총기 한 정당 4,000바트의 수수료를 받기로 했습니다. 경찰은 시리퐁의 수리점에서 추가로 9mm, .380 구경, 미확인 구경의 수제 총기 3정과 다양한 종류의 탄약 13발을 발견했습니다. 용의자들은 관할 등록관의 허가 없이 총기와 탄약을 소지한 혐의로 기소될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "총기 관련 범죄는 여행객 안전에 간접적인 영향을 줄 수 있으나, 특정 지역에 한정된 사건이며, 이미 유사 사건에 대한 보도가 있으므로 중요도를 낮춤. 하지만 새로운 정보이므로 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": "농힌 지역",
+        "price": null,
+        "location_google_map_query": "Nong Hin, Thailand"
+      },
+      "references": [
+        {
+          "title": "ตร.ไซเบอร์ รวบเจ้าของอู่ซ่อมรถ ใช้ลูกน้องลักลอบขายปืนเถื่อนในกลุ่มลับเฟซบุ๊ก",
+          "url": "https://www.thairath.co.th/news/crime/2915007",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77rDRwaeE2KFCH.jpg"
+        }
+      ],
+      "collected_at": "17:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77rDRwaeE2KFCH.jpg",
       "date": "2026-02-18"
     }
   ]
