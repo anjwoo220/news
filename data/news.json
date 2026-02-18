@@ -20642,14 +20642,9 @@
       "summary": "- 마약 단속 경찰이 우타이타니 반라이 지역에서 개조된 정화조 트럭에서 830만 개의 스피드 알약을 압수했습니다.\n- 운전자는 체포되었으며 마약 운송에 50만 바트를 받기로 고용되었다고 자백했습니다.\n- 마약은 북부 국경 지역에서 남부에서 활동하는 네트워크로 운송될 예정이었습니다.",
       "full_translated": "마약 단속 경찰은 우타이타니 반라이 지역에서 개조된 정화조 트럭에서 830만 개의 스피드 알약을 압수했습니다. 운전자는 체포되었으며 마약 운송에 50만 바트를 받기로 고용되었다고 자백했습니다.\n\n마약단속국(NSB) 국장인 아차욘 크라이통 경찰 중장과 체포 담당 경찰관은 화요일에 마약 압수를 발표했습니다. 경찰은 마약을 숨기기 위해 개조되었고 북부 국경 지역에서 남부에서 활동하는 네트워크로 화물을 운송하는 것으로 알려진 정화조 진공 트럭을 차단했다고 체포팀은 밝혔습니다.\n\n이번 작전은 월요일에 마약 밀수 조직이 은닉 칸이 있는 차량을 사용하여 북부 국경 지역에서 불법 약물을 운반하고 있다는 정보원의 정보에서 비롯되었습니다. 이 경로는 치앙마이의 매아이 지역에서 시작하여 치앙라이, 람팡, 수코타이, 캄팽펫, 나콘사완, 우타이타니, 수판부리를 거쳐 남쪽으로 향하는 여러 지방을 통과하는 것으로 알려졌습니다.\n\n월요일 오후 12시 5분경 마약 단속 경찰관은 우타이타니 지방 반라이 지역 후아이 행 탐본의 반라이-단창 도로를 따라 333번 고속도로에서 감시를 시작했습니다. 부리 롬 번호판을 단 수상한 정화조 트럭이 신고된 경로를 따라 이동하는 것이 발견되어 면밀히 미행했습니다. 잠시 후 경찰관은 반라이 지역에서 트럭을 세우라는 신호를 보냈습니다. 트럭은 나중에 옮겨졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "마약 관련 소식은 여행객 안전에 간접적인 영향을 줄 수 있으므로 포함. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "Uthai Thani",
-        "price": null,
-        "location_google_map_query": "Uthai Thani"
-      },
+      "event_info": "{'date': None, 'location': 'Uthai Thani', 'price': None, 'location_google_map_query': 'Uthai Thani'}",
       "references": [
         {
           "title": "8.3 million speed pills found in septic-tank truck",
@@ -20660,21 +20655,18 @@
       ],
       "collected_at": "22:11",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200000_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3200000/83-million-speed-pills-found-in-septictank-truck",
+      "source": ""
     },
     {
       "title": "태국, 미얀마 총선 후 화해 지원 준비",
       "summary": "- 태국이 미얀마를 아세안으로 복귀시키기 위한 '교량' 역할을 자처하며 적극적으로 나서고 있습니다.\n- 시하삭 푸앙케트깨우 태국 외무장관은 미얀마가 아세안과 국제사회의 우려에 응답해야 한다고 촉구했습니다.\n- 태국은 미얀마가 소수민족과의 대화, 인도적 지원 접근 허용, 민간인 공격 중단 등 실질적인 진전을 보여주기를 기대하고 있습니다.",
       "full_translated": "태국은 미얀마가 아세안 가족으로 재통합하는 데 도움이 될 수 있도록 총선 후 '교량' 역할을 하기 위해 보다 적극적으로 움직이고 있으며, 나아가 네피도가 지역 블록과 더 넓은 국제 사회가 제기한 우려에 대응할 것을 촉구하고 있습니다.\n\n시하삭 푸앙케트깨우 외무장관은 수요일 푸껫에서 탄 스웨 미얀마 외무장관과 회담을 가진 후 태국의 정책은 국경을 따라 전개되는 상황에 직접적인 영향을 받는 최전선 국가로서 미얀마와 점진적으로 관계를 맺는 것이라고 말했습니다. 그의 목표는 미얀마를 아세안으로 다시 끌어들이는 데 도움을 주는 것이라고 그는 말했습니다.\n\n\"태국은 교량 역할을 하고 미얀마가 아세안 가족으로 돌아오는 데 도움을 줄 것입니다. 그러나 미얀마도 아세안과 국제 사회의 우려에 응답함으로써 우리를 도와야 합니다.\"라고 그는 말했습니다. 방콕은 미얀마에 소수 민족과의 대화 시작, 취약한 공동체에 대한 인도적 접근 확대, 민간인에 대한 공격 회피 등 실질적인 진전을 보여줄 것을 촉구했습니다. 시하삭은 이러한 분야에서 실질적인 조치를 취하는 것이 긍정적인 신호로 간주될 것이라고 말하면서 미얀마가 2021년에 합의한 아세안 5개 항목 합의에 대한 의미 있는 이행이 지난 5년 동안 거의 없었다고 지적했습니다. 그는 미얀마가 논의 중에 이러한 제안에 긍정적인 반응을 보였다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "미얀마 상황이 태국에 간접적으로 영향을 줄 수 있으며, 특히 국경 지역 여행에 대한 고려가 필요할 수 있으므로 관련 정보를 제공.",
-      "event_info": {
-        "date": null,
-        "location": "Phuket",
-        "price": null,
-        "location_google_map_query": "Phuket"
-      },
+      "event_info": "{'date': None, 'location': 'Phuket', 'price': None, 'location_google_map_query': 'Phuket'}",
       "references": [
         {
           "title": "Thailand ready to help post-poll Myanmar",
@@ -20685,21 +20677,18 @@
       ],
       "collected_at": "22:11",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200135_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3200135/thailand-ready-to-help-postpoll-myanmar",
+      "source": ""
     },
     {
       "title": "태국, Toyota Land Cruiser FJ 모델 출시 예정 (2069년 3월 말)",
       "summary": "- Toyota Land Cruiser FJ 모델이 2069년 3월 말 태국에서 출시될 예정입니다.\n- 이 차량은 튼튼한 차체와 실용적인 디자인을 특징으로 하는 SUV입니다.\n- 오프로드 성능과 사용자 맞춤형 기능이 강조될 것으로 보입니다.",
       "full_translated": "Toyota Land Cruiser FJ 모델이 2069년 3월 말 태국에서 출시될 예정입니다. 이 차량은 Body On Frame 방식을 채택한 SUV로, 실용적인 디자인과 튼튼한 차체를 자랑합니다. 특히, 오프로드 성능과 사용자 맞춤형 기능을 강조하여 다양한 환경에서 활용할 수 있도록 설계되었습니다. 분리 가능한 범퍼, 넓은 시야를 제공하는 대시보드, 조절 가능한 뒷좌석 등이 특징입니다. Toyota Safety Sense 안전 기술도 탑재되어 안전한 주행을 지원합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "신차 출시 정보는 여행객에게 직접적인 영향은 없지만, 차량 렌트 등을 고려할 때 참고할 만한 정보이므로 보통 점수를 부여합니다.",
-      "event_info": {
-        "date": "2069-03-31",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "Thailand"
-      },
+      "event_info": "{'date': '2069-03-31', 'location': '태국', 'price': '미정', 'location_google_map_query': 'Thailand'}",
       "references": [
         {
           "title": "ส่องจุดเด่นของรถ Toyota Land Cruiser FJ ที่กำลังเปิดตัวในไทยปลายมี.ค.69",
@@ -20710,21 +20699,18 @@
       ],
       "collected_at": "22:11",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxANAz5AyPkW.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/auto/news/2915060",
+      "source": ""
     },
     {
       "title": "2026년 라마단 시작일 발표: 2월 19일",
       "summary": "- 태국 쭐라라차몬뜨리 사무국, 2026년 라마단 시작일 발표\n- 라마단 금식은 2026년 2월 19일 목요일 시작\n- 무슬림 대상, 초승달 관측 후 공식 발표",
       "full_translated": "쭐라라차몬뜨리 사무국은 라마단 1일이 2026년 2월 19일이라고 발표했습니다. 2026년 2월 18일, 쭐라라차몬뜨리 사무국은 '히즈라력 1447년 라마단 1일 결정'에 관한 발표를 했습니다. 발표에 따르면 '태국 무슬림 동포들에게 히즈라력 1447년 라마단 1일을 결정하기 위해 2026년 2월 18일 수요일 해가 진 후 초승달을 관측하도록 했습니다. 초승달을 본 사람이 있어 널리 알립니다. 히즈라력 1447년 라마단 1일은 2026년 2월 19일 목요일입니다.'",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "라마단은 태국 내 무슬림 인구에게 중요한 행사이며, 여행자에게는 문화적 경험의 기회가 될 수 있음. 해당 기간에는 일부 상점 운영 시간 변경이나 행사 등이 있을 수 있어 정보 제공 가치 존재.",
-      "event_info": {
-        "date": "2026-02-19",
-        "location": "태국 전역",
-        "price": "무료 (라마단 관련 행사 참여 시)",
-        "location_google_map_query": "태국 모스크"
-      },
+      "event_info": "{'date': '2026-02-19', 'location': '태국 전역', 'price': '무료 (라마단 관련 행사 참여 시)', 'location_google_map_query': '태국 모스크'}",
       "references": [
         {
           "title": "\"สำนักจุฬาราชมนตรี\" กำหนดวันที่ 1 เดือนรอมฎอน ตรงกับวันที่ 19 กุมภาพันธ์ 2569",
@@ -20735,6 +20721,144 @@
       ],
       "collected_at": "22:11",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXIqkFyerAg6.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.thairath.co.th/news/society/2915059",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동: 학교 휴교령",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어갔습니다.\n- 경찰은 용의자를 추적 중이며, 학생들의 안전 확보에 주력하고 있습니다.\n- 여행객들은 해당 지역 방문을 자제하고, 현지 당국의 지침을 따르는 것이 좋습니다.",
+      "full_translated": "현재 방콕 인근 라드룸깨우 지역에서 총기 난동 사건이 발생하여 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 주민들의 안전을 최우선으로 하고 있습니다. 해당 지역을 여행 중이거나 방문 예정인 여행객들은 최신 정보를 확인하고, 당국의 지시에 따르는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여. 사건 발생 후 상황이 업데이트되었으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "라드룸깨우"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 '광인' 추적 중 - 여러 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "23:15",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 난동범 추적 중, 학교 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 학교들이 긴급 휴교에 들어감.\n- 경찰이 용의자를 추적 중이며, 학생들의 안전 확보가 최우선 과제임.\n- 여행객들은 해당 지역 방문을 자제하고, 최신 정보를 주시해야 함.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기를 소지한 남성의 난동으로 인해 여러 학교가 긴급 휴교에 들어갔습니다. 경찰은 용의자를 추적하고 있으며, 해당 지역을 여행하는 여행객들은 안전을 위해 방문을 자제하고 최신 정보를 확인해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 난동 사건으로 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여. 이미 게시된 뉴스지만, 상황이 진행 중이므로 업데이트 정보로서 포함.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "23:15",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국 선거관리위원회, '공식' 결과 발표…일부 지역 재검표 및 재투표 실시",
+      "summary": "- 태국 선거관리위원회가 2월 8일 총선 및 헌법 국민투표의 '공식' 결과를 발표했습니다.\n- 일부 투표소에서는 재검표 및 재투표가 필요한 상황입니다.\n- 선관위는 결과 인증을 서두르고 있으며, 선거 결과 취소 및 전국적인 재투표를 요구하는 법적 조치에 직면해 있습니다.",
+      "full_translated": "태국 선거관리위원회는 수요일 2월 8일 총선 및 헌법 국민투표의 '공식' 결과를 발표하면서 일부 투표소에서 재검표와 새로운 투표가 필요하다고 인정했습니다.\n\n선관위는 400개 선거구 모두에 대해 투표 집계 보고서를 이제 ectreport69 웹사이트 또는 모든 지방 및 방콕의 선관위 사무실 웹사이트에서 확인할 수 있다고 밝혔습니다. 이용 가능한 정보에는 선거구 및 정당 목록 의원에 대한 투표 집계 보고서가 포함되어 있으며, 이는 전국적으로 거의 10만 개에 달하는 투표소별로 확인할 수 있습니다.\n\n일부 선거구에서는 재검표 또는 새로운 투표가 필요한 투표소가 있기 때문에 집계가 아직 완료되지 않았다고 밝혔습니다. 전체 결과에 큰 영향을 미치지는 않을 것으로 예상됩니다.\n\n화요일 선관위는 방콕의 한 곳을 포함한 8곳에서 투표 재검표를, 파야오의 한 투표소에서 새로운 선거를 명령했습니다.\n\n공식적으로 선관위는 투표일로부터 최대 60일 이내에 결과를 인증해야 하지만, 새 정부 구성의 지연을 줄이기 위해 가능한 한 빨리 인증하도록 압력을 받고 있습니다.\n\n선관위는 2월 8일 투표 처리 방식에 대한 불만으로 넘쳐나고 있으며, 일부 법적 조치가 이미 진행 중이며 선거 결과 취소와 전국적인 새로운 투표를 요구하고 있습니다. 유권자와 정당은 선관위가 부정 행위를 저질렀다고 주장하며 법원에 소송을 제기했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 불안정 가능성이 있으나, 여행객에게 직접적인 영향은 제한적일 것으로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Election Commission posts ‘official’ results",
+          "url": "https://www.bangkokpost.com/thailand/politics/3200170/election-commission-posts-official-results",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200170_700.jpg"
+        }
+      ],
+      "collected_at": "23:15",
+      "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200170_700.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "품미짜이, 소규모 정당 2곳 추가 합류 및 장관직 배분 부인",
+      "summary": "- 푸미차이타이(푸미차이타이당)은 2개의 소규모 정당이 추가로 합류한다고 발표했습니다.\n- 동시에 끌라탐(클라탐당)에게 3개의 장관직을 배분한다는 소문을 부인했습니다.\n- 푸미차이타이당은 총리 선출 투표가 끝난 후 장관직 비율에 대해 논의할 것이라고 밝혔습니다.",
+      "full_translated": "푸미차이타이당은 2개의 소규모 정당, 즉 타이 싼 타이당(2석)과 탈루악 마이당(1석)이 정부에 합류할 것이라고 발표했습니다. 이는 이전에 발표된 정당들과 합쳐 아누틴 차른비라쿨 정부가 총 281석을 확보하게 됨을 의미합니다. 동시에 푸미차이타이당 고위 소식통은 클라탐당과의 연립 정부 구성 협상 및 고등 교육, 과학 연구 및 혁신부, 사회 개발 및 인간 안보부, 노동부 등 3개 주요 부처를 배분한다는 소문을 부인했습니다. 클라탐당 역시 선거 이후 아누틴 대표 또는 푸미차이타이당의 주요 지도자들과의 어떠한 접촉도 없었다고 확인했습니다. 모든 관심은 클라탐당이 푸미차이타이당 총리 후보를 지지할 것인지에 쏠리고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정치 상황 변화에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단. 하지만 향후 정책 변화 가능성을 고려하여 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ภท. ต้อนอีก 2 พรรคเล็กเข้าคอก ปัดดีลแบ่ง 3 กระทรวงให้ \"กล้าธรรม\"",
+          "url": "https://www.thairath.co.th/news/politic/2915068",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxumNLnqpIEh.jpg"
+        }
+      ],
+      "collected_at": "23:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxumNLnqpIEh.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국, 차기 에너지부 장관으로 쁘리디 다오차이 임명 예상",
+      "summary": "- 쁘리디 다오차이가 차기 에너지부 장관으로 임명될 가능성이 높음.\n- 그는 과거 재무부 장관을 역임했으며, 카시콘 은행에서 오랜 경력을 쌓음.\n- 새 정부의 에너지 정책에 어떤 영향을 미칠지 주목됨.",
+      "full_translated": "쁘리디 다오차이가 차기 에너지부 장관으로 임명될 것이라는 소식이 있습니다. 그는 20일 동안 재무부 장관을 역임한 후 사임했으며, 현재 아누틴 정부에서 에너지부 장관으로 복귀할 가능성이 제기되고 있습니다. 쁘리디 다오차이는 1958년 9월 9일에 태어났으며, 탐마삿 대학교 법학과를 졸업하고 일리노이 대학교 어바나-샴페인에서 법학 석사 학위를 받았습니다. 그는 카시콘 은행에서 35년 이상 근무한 금융 전문가입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "에너지 정책 변화는 간접적으로 여행 관련 비용에 영향을 줄 수 있지만, 직접적인 영향은 미미하므로 중간 점수를 부여. 정책 방향에 따라 여행 및 물류 산업에 영향이 있을 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ปรีดี ดาวฉาย” จากอดีตรมว.คลัง ยุคลุงตู่ สู่ว่าที่ รมว.พลังงานยุคอนุทิน",
+          "url": "https://www.thairath.co.th/news/politic/2915066",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxNic7ROo0ol.jpg"
+        }
+      ],
+      "collected_at": "23:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxNic7ROo0ol.jpg",
       "date": "2026-02-18"
     }
   ]
