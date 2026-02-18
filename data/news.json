@@ -21075,14 +21075,9 @@
       "summary": "- 인도 남성이 수완나품 공항에서 살아있는 희귀 야생동물 15마리를 밀수하려다 적발됨.\n- 짐 수색 결과 풀루 거북이 13마리, 랑구르 1마리, 긴팔원숭이 1마리가 발견됨.\n- 용의자는 야생생물 보존 및 보호법 위반 혐의로 기소될 예정.",
       "full_translated": "태국 당국은 수완나품 공항에서 희귀 야생 동물을 본국으로 밀반출하려던 인도 남성을 체포했습니다. 공항 야생 동물 검사관 Komkrit Pinsai에 따르면, 화요일 늦은 밤 세관 당국은 이 남성의 수하물에서 살아있는 동물 15마리를 발견했습니다. 용의자는 인도 국적의 Naveen Kumar(38)로, 타이 항공편으로 인도 콜카타로 출발할 예정이었습니다. 그는 국제선 출발 터미널 C2A 게이트 검문소에서 체포되어 야생 동물 검사소 사무실로 이송되었습니다. 수색 결과, 회색 바퀴 달린 여행 가방 안에서 플라스틱 바구니 또는 천 가방에 담겨 개인 소지품 사이에 숨겨진 살아있는 야생 동물 15마리가 발견되었습니다. 여기에는 풀루 거북이와 민물 거북이 13마리, 랑구르 1마리, 긴팔원숭이 1마리가 포함됩니다. 당국은 또한 범죄와 관련하여 사용된 것으로 보이는 오래된 휴대폰을 증거로 압수했습니다. 용의자는 야생생물 보존 및 보호법 위반 혐의로 기소될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항에서 발생한 범죄 사건으로, 여행객 안전에 영향을 줄 수 있으며, 야생 동물 밀수 관련 법규 인지 필요.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "수완나품 공항",
-        "price": null,
-        "location_google_map_query": "Suvarnabhumi Airport"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': '수완나품 공항', 'price': None, 'location_google_map_query': 'Suvarnabhumi Airport'}",
       "references": [
         {
           "title": "Wildlife smuggler caught at Suvarnabhumi Airport",
@@ -21091,23 +21086,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200049_260218161541_700.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200049_260218161541_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/general/3200049/wildlife-smuggler-caught-at-suvarnabhumi-airport",
+      "source": ""
     },
     {
       "title": "러시아인, 태국 행운 의식 참여 위해 방콕 인근 사원 방문",
       "summary": "- 러시아 관광객, 행운을 빌기 위해 나콘나욕 사원에서 관에 눕는 의식 참여\n- 장례 의식 상징은 '진짜 죽음 전 죽음 연습', 삶의 무상함을 상기시킴\n- 사원 관계자는 이 의식이 불운을 쫓을 뿐 아니라 마음챙김과 성찰을 장려한다고 언급",
       "full_translated": "나콘나욕 — 러시아 관광객들이 불운을 쫓고 행운을 증진시키는 것으로 여겨지는 관에 눕는 의식에 참여하기 위해 나콘나욕 지방의 왓 루앙 포 팍댕 사원을 방문했습니다. 반야이 하위 지역, 므앙 지역의 사원에서 열린 이 의식은 텔레비전과 온라인 매체의 보도 후 러시아 방문객과 태국 신자 모두를 끌어들였습니다. 참가자들은 승려들이 장례 의식을 외우는 동안 사원에 마련된 5개의 관 중 하나에 누웠습니다. 이 의식은 참가자들에게 삶의 무상함을 상기시키면서 '진짜 죽음 전에 죽음을 연습하는 것'을 상징합니다. 의식 동안 승려들은 몸을 서쪽에서 동쪽으로 돌리고, 기도를 낭송하고, 축복을 내리고, 불운을 막기 위해 성수를 뿌렸습니다. 이 행사는 나콘나욕 지방 교회 수장이자 왓 프라 마니의 수도원장인 프라 랏차프롬쿤이 주재했습니다. 관 의식 외에도 참가자들은 이마와 손바닥에 신성한 표식을 받았고, 번영을 위해 지갑에 얀트라 비문을 새겼습니다. 사원 관계자는 이 의식이 불운을 쫓을 뿐 아니라 마음챙김과 죽음의 불가피성에 대한 성찰을 장려하기 위한 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국에서 경험할 수 있는 독특한 문화 체험 정보 제공. 관광객들에게 흥미로운 선택지가 될 수 있음.",
-      "event_info": {
-        "date": "N/A",
-        "location": "Wat Luang Phor Pak Daeng Temple, Nakhon Nayok",
-        "price": "N/A",
-        "location_google_map_query": "Wat Luang Phor Pak Daeng Temple, Nakhon Nayok"
-      },
+      "event_info": "{'date': 'N/A', 'location': 'Wat Luang Phor Pak Daeng Temple, Nakhon Nayok', 'price': 'N/A', 'location_google_map_query': 'Wat Luang Phor Pak Daeng Temple, Nakhon Nayok'}",
       "references": [
         {
           "title": "From Moscow to the coffin: Russians join Thai fortune ritual",
@@ -21116,23 +21108,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news111680_v5hI6Z2IF917712374548888888888888888888888888.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/news111680_v5hI6Z2IF917712374548888888888888888888888888.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.khaosodenglish.com/life/2026/02/18/from-moscow-to-the-coffin-russians-join-thai-fortune-ritual/",
+      "source": ""
     },
     {
       "title": "태국 장례 지원 협회 해산 논란, 지방 정부 승인 필요",
       "summary": "- 태국 인적자원사회개발부(포모.)는 장례 지원 협회 해산 시 지방 정부의 승인이 필요하다고 강조함.\n- 지방 정부는 협회 해산 명령을 내리고 이를 협회에 공고해야 함.\n- 중앙 정부는 지방 정부의 명령에 따라 협회 해산 발표.",
       "full_translated": "인적자원사회개발부(폼.) 차관은 장례 지원 협회 해산은 반드시 지방 정부의 검토와 해산 명령을 거쳐야 한다고 확인했습니다. 칸타퐁 랑시사왕 인적자원사회개발부(폼.) 차관은 온라인에서 많은 회원에게 영향을 미치는 장례 지원 협회 해산에 대한 공유 사례에 대해 다음과 같이 밝혔습니다. 장례 지원 협회는 사망 시 서로를 돕거나 사망 시 장례를 치르고 회원의 가족을 돕기 위해 여러 사람이 모인 단체입니다. 이는 이익이나 소득을 나누지 않고 간단히 말해서 마을 사람들이 장례식에 기부하는 사업입니다. 친구가 친구를 돕는 방식으로 말입니다. 협회 설립-해산 절차 칸타퐁은 협회 설립은 시청, 자치구, 방콕 구청에서 등록을 신청할 수 있다고 말했습니다. 여성가족부(서커.) 인적자원사회개발부(폼.)는 이러한 임무를 해당 지방 정부 기구에 이관하여 감독 및 감독하도록 했습니다. 협회 설립 등록 승인 및 장례 지원 협회 해산은 해당 지역 등록관의 권한입니다. 해산 명령을 작성하여 협회에 게시하고 해당 해산 명령을 중앙 등록관에게 보내야 합니다. 여성가족부(서커.) 사무총장 칸타퐁 랑시사왕 인적자원사회개발부(폼.)는 중앙 등록관이 지방 등록관의 명령에 따라 협회 해산 공고를 발표하도록 했습니다. 그런 다음 사무국으로 보내 각료 회의에 게시합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국의 사회 시스템에 대한 이해를 돕고 로컬 뉴스에 대한 흥미로운 정보를 제공하므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ปลัดพม.ยันเลิกสมาคมฌาปนกิจสงเคราะห์ ต้องผ่านการพิจารณาและสั่งเลิกจากนายทะเบียนท้องที่ก่อนเท่านั้น",
@@ -21141,23 +21130,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxG3KKdFUQ5p.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxG3KKdFUQ5p.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915061",
+      "source": ""
     },
     {
       "title": "러시아 대사, Matichon 방문: 미디어 협력 및 양국 관계 강조",
       "summary": "- 러시아 대사가 태국 Matichon 그룹 본사를 방문하여 임원진과 회담.\n- 태국-러시아 간 오랜 관계의 중요성을 강조하며 인적 교류 증가를 언급.\n- 미디어 협력 강화 및 가짜 뉴스 문제에 대한 공동 대응 필요성을 강조.",
       "full_translated": "방콕 — 2월 18일, 에브게니 토미힌 주태국 러시아 대사가 Matichon Public Company Limited를 방문하여 방콕에 있는 회사 본사에서 Matichon 그룹 임원들을 만났습니다. 쁘랍 분판 Matichon 그룹 매니징 디렉터가 이끄는 Matichon 대표단은 대사와 그의 대표단을 환영했습니다.\n\n회담에서 토미힌 대사는 태국과 러시아 간의 오랜 관계의 중요성을 강조했습니다. 그는 매년 더 많은 러시아 관광객이 태국을 여행하고 많은 태국인이 겨울에 러시아를 방문하면서 인적 교류가 계속 증가하고 있다고 언급했습니다. 경제 및 무역 협력은 양국 관계의 핵심 기둥으로 남아 있다고 그는 말했습니다. \n\n대사는 또한 현재의 세계 환경에서 언론의 역할을 강조하면서 러시아는 특히 정보 교환 분야에서 태국과의 협력을 강화하고자 한다고 밝혔습니다. 그는 태국-캄보디아 국경을 따라 러시아 용병이 캄보디아를 지원했다는 거짓 보고서가 유포되는 등 가짜 뉴스라는 세계적인 문제점을 언급하며 이는 사실이 아니라고 밝혔습니다.\n\n토미힌은 2018년 11월 2일 태국 왕국 주재 러시아 연방 특명 전권 대사이자 방콕에 있는 유엔 아시아 태평양 경제사회위원회 상임 대표로 임명되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "양국 관계 및 관광객 증가에 대한 간략한 언급이 있으나, 여행에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2024-02-18",
-        "location": "Matichon Public Company Limited, Bangkok",
-        "price": null,
-        "location_google_map_query": "Matichon Public Company Limited, Bangkok"
-      },
+      "event_info": "{'date': '2024-02-18', 'location': 'Matichon Public Company Limited, Bangkok', 'price': None, 'location_google_map_query': 'Matichon Public Company Limited, Bangkok'}",
       "references": [
         {
           "title": "Russian ambassador visits Matichon, highlights media cooperation and bilateral ties",
@@ -21166,23 +21152,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/S__254795798_0.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/S__254795798_0.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.khaosodenglish.com/news/2026/02/18/russian-ambassador-visits-matichon-highlights-media-cooperation-and-bilateral-ties/",
+      "source": ""
     },
     {
       "title": "터키, 이스라엘의 '소말릴란드' 승인에 경고",
       "summary": "- 터키 대통령 에르도안, 이스라엘의 소말릴란드 승인이 지역 상황을 악화시킬 수 있다고 경고.\n- 이스라엘은 소말리아에서 분리 독립을 선언한 소말릴란드를 승인한 최초의 국가.\n- 소말릴란드는 터키에 지역 긴장을 고조시키는 행위를 자제할 것을 촉구.",
       "full_translated": "터키 지도자가 이스라엘에 경고했습니다. 이스라엘은 '소말릴란드'를 독립 국가로 승인한 첫 번째 국가가 되었으며, 이러한 행위가 지역 상황을 악화시킬 수 있다고 밝혔습니다. \n\n외신에 따르면 레제프 타이이프 에르도안 터키 대통령은 이스라엘이 소말리아에서 분리된 지역인 '소말릴란드'를 독립 국가로 인정한 것을 거부하며, 이는 지역 상황을 악화시킬 수 있다고 지적했습니다. \n\n지난 12월, 이스라엘은 소말리아에서 30년 이상 독립을 선언한 소말릴란드를 승인한 첫 번째 국가가 되었습니다. 이 움직임은 소말릴란드를 자국 영토의 일부로 간주하는 모가디슈 정부의 불만을 샀습니다. 에르도안 대통령은 수요일(2월 18일) 에티오피아를 방문하는 동안 이러한 행동이 이미 취약하고 불안정한 지역에 위험한 영향을 미칠 수 있다고 말했습니다. \n\n에르도안 대통령은 “아프리카의 뿔은 외국 군대의 전장이 되어서는 안 됩니다. 우리는 이 지역의 국가들이 스스로 문제를 해결해야 한다고 믿습니다.”라고 말했습니다. \n\n이에 대해 소말릴란드 외무부는 터키가 지역 긴장을 더욱 고조시키는 행위를 자제해야 한다고 밝혔습니다. 최근 몇 년 동안 터키는 여러 국가 및 지역의 분쟁을 중재하는 역할을 해왔습니다. 에르도안 대통령은 소말리아에 불만을 야기한 소말릴란드에 항구 건설을 위해 토지를 임대한 에티오피아 간의 분쟁을 해결하는 중재자입니다. 이로 인해 사건이 광범위한 갈등으로 확대될 것이라는 우려가 커지고 있습니다. 아비 아흐메드 에티오피아 총리는 에르도안 대통령과 함께한 기자회견에서 터키에 지지를 요청했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행과는 직접적인 관련은 없으나, 국제 정세 불안정은 간접적으로 여행 심리에 영향을 줄 수 있으며, 터키를 경유하는 여행객에게는 더 중요한 정보일 수 있음. 하지만 현재 시점에서는 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ตุรกีเตือนอิสราเอล รับรอง “โซมาลีแลนด์” อาจทำสถานการณ์แย่ลง",
@@ -21191,8 +21174,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ob7e82HA0kZI.jpg"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ob7e82HA0kZI.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915077",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 배달 기사, 도로 분노 사건으로 부상",
+      "summary": "- 파타야에서 32세 배달 기사가 10대들에게 쇠파이프로 공격당했다고 경찰에 신고\n- 기사는 오토바이를 타고 역주행하는 청소년들에게 욕설을 퍼부었고, 이에 청소년들이 쇠파이프를 휘두르며 추격\n- 경찰은 증거를 확보하고 피해자에게 치료 및 진단서 발급을 권고했으며, 용의자를 추적할 예정",
+      "full_translated": "파타야 — 2026년 2월 18일, 한 음식 배달 기사가 태국 동부에서 발생한 도로 분노 사건으로 10대에게 쇠파이프로 공격당했다며 01시 20분에 경찰에 신고했습니다. 32세 남성은 촌부리 방라뭉 지역 농프루 하위 구역 소이 포티산 7에서 발생한 싸움에서 부상을 입었다고 파타야 시 경찰서의 경찰관들에게 말했습니다. 기사는 모바일 애플리케이션을 통해 배달 주문을 수락하고 골목에서 음식을 내려놓기 위해 이동하던 중 교통을 거슬러 운전하는 세 명의 청소년을 태운 오토바이를 만났다고 말했습니다. 충격을 받은 그는 그들에게 욕설을 퍼부었고, 이에 청소년들은 쇠파이프를 휘두르며 그를 쫓아갔습니다. 그는 상황이 악화되어 물리적 폭행으로 이어지기 전에 언쟁이 벌어졌다고 말했습니다. 사건 후 기사는 방라뭉 지역에 있는 파타야 경찰에 공격 사실을 신고했습니다. 당국은 불만을 증거로 기록하고 피해자에게 치료를 받고 진단서를 받도록 조언했습니다. 경찰은 모든 당사자에게 공정성을 보장하기 위해 용의자를 추적할 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객에게 안전 관련 정보는 중요. 파타야는 주요 관광지이므로 관련 정보를 제공. 폭력 사건 발생 가능성 경고.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "파타야, 소이 포티산 7",
+        "price": null,
+        "location_google_map_query": "Soi Phothisan 7, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Delivery rider hurt in Pattaya road rage incident",
+          "url": "https://www.khaosodenglish.com/news/2026/02/18/delivery-rider-hurt-in-pattaya-road-rage-incident/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Delivery-rider-hurt-in-Pattaya-road-rage-incident.jpg"
+        }
+      ],
+      "collected_at": "03:29",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Delivery-rider-hurt-in-Pattaya-road-rage-incident.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "파타야 국제 연 날리기 축제, 2026년 2월 25일부터 개최",
+      "summary": "- 파타야 해변에서 '행복의 하늘 낙원' 콘셉트로 국제 연 날리기 축제 개최.\n- 태국 최초로 캐릭터 연 대거 등장, 센트럴 파타야 마스코트 'MR. SUN' 연 첫선.\n- 먹거리, 쇼핑, 체험 활동 등 다양한 즐길 거리 제공.",
+      "full_translated": "센트럴 파타야는 유수의 공공 및 민간 부문 파트너와 협력하여 파타야 해변 하늘을 화려하게 수놓을 국제 연 축제 5회, “PATTAYA INTERNATIONAL KITE ON THE BEACH 2026”을 ‘행복의 하늘 낙원’이라는 콘셉트로 개최합니다. 이 행사는 파타야의 이미지를 ‘최고의 해변 목적지’로 강화하고 성수기 동안 태국 및 해외 관광객을 맞이할 준비가 되었습니다.\n\n주요 볼거리:\n태국 최초로 유명 브랜드의 캐릭터 연이 하늘을 가득 채울 예정이며, 센트럴 파타야의 사랑스러운 마스코트인 MR. SUN이 12미터 높이로 바람에 휘날리는 첫 모습을 선보입니다. 그 외에도 재미있는 “Muek Groob” 연, 플라밍고 연, 3미터 높이의 PEA 마스코트 연, 그리고 전 세계 12개국에서 온 150개 이상의 독특한 디자인의 국제 연이 있습니다. 이들은 파타야 해변 1km 이상을 따라 여름 하늘을 다채로운 색으로 물들일 것입니다.\n\n축제는 또한 MR. SUN 캐릭터 연 페인팅 워크숍, 해변가에서 편안한 분위기 속에서 30개 이상의 길거리 음식 판매점과 함께하는 “Shop, Taste, Chill” 체험 등 다양한 흥미진진한 활동을 제공합니다. 센트럴 파타야 쇼핑객은 캠페인 최고 지출자(최소 500,000바트 지출)에게 홍콩 고급 여행을 제공하는 기회를 포함한 독점 프로모션을 누릴 수 있습니다. 또한 해외 방문객을 위한 특별 혜택도 제공됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변에서 열리는 대규모 축제 정보로, 여행객에게 유용한 정보라고 판단됨.",
+      "event_info": {
+        "date": "2026-02-25",
+        "location": "파타야 해변",
+        "price": "미정",
+        "location_google_map_query": "Pattaya Beach"
+      },
+      "references": [
+        {
+          "title": "Pattaya International Kite on The Beach 2026 Returns From February 25th",
+          "url": "https://thepattayanews.com/2026/02/18/pattaya-international-kite-on-the-beach-2026-returns-from-february-25th/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17714210654725954231421841918643.jpg?v=1771421326"
+        }
+      ],
+      "collected_at": "03:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17714210654725954231421841918643.jpg?v=1771421326",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "시사껫 프리미엄 소고기 축제 2026 개최, 태국 소고기 세계 시장 진출 목표",
+      "summary": "- 시사껫주, 고품질 소고기 세계 시장 진출을 목표로 '시사껫 프리미엄 소고기 축제 2026' 개최\n- 2026년 3월 5일부터 8일까지 므앙 지역 란 아옷 롯 공원에서 음악 및 고기 축제 형태로 진행\n- 'Less for More' 모델을 통해 고품질, 표준, 혁신 강조하며 국내외 고가치 시장 공략",
+      "full_translated": "시사껫 — 2026년 2월 17일, 시사껫주는 고품질 소를 세계 시장에 진출시키고 가치 중심의 새로운 축산 전략을 홍보하기 위해 “시사껫 프리미엄 소고기 축제 2026”을 시작했습니다. 아누랏 탐프라탐짓 시사껫 지사, 낫타웨롯 부차팟 주 축산국장, 라타윗 앙카사쿨키아트 시사껫 상공회의소 회장은 월요일 18시 므앙 지역 란 아옷 롯 공원에서 2026년 3월 5일부터 8일까지 같은 장소에서 열리는 “시사껫 프리미엄 소고기 축제 2026” 또는 음악 및 고기 축제를 발표했습니다. 아누랏 지사는 주가 고용량, 저가치 생산에서 고품질 국내외 시장을 위한 품질, 표준 및 혁신을 강조하는 “Less for More” 모델로 축산 개발 전략에서 주요 전환을 겪고 있다고 말했습니다. 지사는 주가 “시사껫 프리미엄 소고기”를 신뢰할 수 있는 소비자 브랜드로 끌어올리는 것을 목표로 한다고 말했습니다. “Less for More” 접근 방식은 단순한 슬로건이 아니라 업스트림에서 다운스트림까지의 포괄적인 공급망 정비로, 생산 비용을 절감하고 환경 영향을 줄이며 농업 효율성을 개선하고 체험 마케팅을 통해 가치를 더합니다. 이 전략은 정부의 바이오-순환-녹색(BCG) 경제 모델과 일치합니다. 낫타웨롯 박사는 현재 시사껫에 503,429마리 이상의 소가 있어 북동부의 주요 생산 기지 중 하나라고 말했습니다. 주의 강점은 차얀 품종과 같은 높은 수요 품종에 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "2026년에 열리는 축제이지만, 여행 관련 이벤트 정보로서 가치가 있다고 판단. 태국 소고기에 대한 관심 유발 가능.",
+      "event_info": {
+        "date": "2026-03-05",
+        "location": "Lan Aod Lod Public Park, Muang district, Sisaket",
+        "price": "Unknown",
+        "location_google_map_query": "Lan Aod Lod Public Park, Sisaket"
+      },
+      "references": [
+        {
+          "title": "Upcoming Sisaket Premium Beef Festival 2026 aims to push Thai beef to global market",
+          "url": "https://www.khaosodenglish.com/news/2026/02/18/sisaket-premium-beef-festival-2026-aims-to-push-thai-beef-to-global-market/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Upcoming-Sisaket-Premium-Beef-Festival-2026-aims-to-push-Thai-beef-to-global-market-1.jpg"
+        }
+      ],
+      "collected_at": "03:29",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Upcoming-Sisaket-Premium-Beef-Festival-2026-aims-to-push-Thai-beef-to-global-market-1.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "파타야 시장, 로이 랑 지역 보건 자원봉사자 방문 및 추가 모집 독려",
+      "summary": "- 파타야 시장은 로이 랑 지역 보건 센터의 자원봉사자들을 격려하고 운영 효율성 강화를 위한 추가 모집을 발표했습니다.\n- 현재 자원봉사자들은 고령화되어 소셜 미디어 활용에 어려움을 겪고 있으며, 65세 이하의 신규 자원봉사자를 모집합니다.\n- 로이 랑 센터는 수요일에는 센터에서, 목요일에는 가정 방문을 통해 주민들에게 기본적인 건강 평가 및 의약품을 제공합니다.",
+      "full_translated": "파타야 시장이 로이 랑 지역 사회 보건 자원봉사자들을 방문하여 공중 보건 노력 강화를 위한 새로운 자원봉사자 모집을 촉구했습니다.\n\n이번 시찰에서 관계자들은 로이 랑 센터의 활동적인 자원봉사자 대부분이 고령 거주자라는 사실을 확인했습니다. 이러한 인구 구성으로 인해 특히 소셜 미디어 및 스마트폰과 같은 최신 도구를 활용한 커뮤니케이션 및 봉사 활동에서 운영 효율성에 일부 제한이 있었습니다. 이를 해결하고 팀의 역량을 강화하기 위해 센터는 추가 자원봉사 보건 요원을 모집할 계획을 발표했습니다. 관심 있는 개인은 65세 이하이어야 하며 로이 랑 지역 사회 기본 공중 보건 센터에 직접 신청할 수 있습니다. 현재 로이 랑 센터는 기본적인 건강 평가를 제공하고 일반 가정용 의약품을 제공합니다. 센터에는 11명의 마을 보건 자원봉사자와 추가 자원봉사자 1명이 근무하며, 지역 사회에서 약 15가구당 1명의 자원봉사자를 담당합니다. 수요일과 목요일 오전 9시부터 12시까지 서비스를 제공하며, 수요일 세션은 센터 자체에서, 목요일 방문은 환자를 확인하기 위해 주민의 집에서 직접 진행됩니다.\n\n비어 시장(태국 별명)은 지역 사회 기반 자원봉사자들이 접근 가능한 1차 진료를 제공하고 풀뿌리 수준에서 공중 보건 이니셔티브를 지원하는 데 있어 중요한 역할을 한다고 설명했습니다. 이번 모집 운동은 서비스 제공을 강화하고 대응력을 높이며 고령화된 자원봉사 인력이 직면한 현재의 운영 제약을 극복하기 위한 광범위한 노력의 일환입니다. 주민과 관심 있는 분들은",
+      "category": "TRAVEL",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객에게 직접적인 영향은 없지만, 파타야 지역의 의료 서비스 관련 정보를 제공하여 여행 중 발생할 수 있는 건강 관련 문제에 대한 인식을 높일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "Roi Lang Community Basic Public Health Center",
+        "price": "무료",
+        "location_google_map_query": "Roi Lang Community Basic Public Health Center, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Mayor Visits Community Health Volunteers in Roi Lang, Calls for New Volunteers to Boost Public Health Efforts",
+          "url": "https://thepattayanews.com/2026/02/18/pattaya-mayor-visits-community-health-volunteers-in-roi-lang-calls-for-new-volunteers-to-boost-public-health-efforts/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714194728065941707311274087082.jpg?v=1771419546"
+        }
+      ],
+      "collected_at": "03:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714194728065941707311274087082.jpg?v=1771419546",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "파타야 시장, Laem Ratchawet 지역 사회 보건 자원봉사 활동 현장 방문",
+      "summary": "- 파타야 시장이 지역 사회 보건 자원봉사자들의 활동을 점검하고 애로사항을 청취함.\n- Laem Ratchawet 센터에는 7명의 자원봉사자가 활동하며, 환자 이송에 어려움을 겪고 있음.\n- 파타야 시는 응급 상황 발생 시 병원과 협력하여 환자 이송을 지원하고, 32개의 보건 센터를 운영 중임.",
+      "full_translated": "파타야 시장은 Laem Ratchawet 지역 사회 보건 자원봉사자들의 활동을 지속적으로 점검하기 위해 현장 방문을 이어갔습니다. 이번 방문은 자원봉사자들의 성과를 평가하고, 피드백을 듣고, 지역 사회에 기본적인 의료 서비스를 제공하는 데 있어 직면하는 어려움이나 장애물을 파악하기 위한 것입니다. 팀과의 논의 과정에서 Laem Ratchawet 센터에는 현재 해당 지역 주민들을 돌보는 7명의 활동적인 보건 자원봉사자들이 있다는 사실이 밝혀졌습니다. 제기된 문제 중 하나는 거동이 불편한 환자를 치료를 위해 병원으로 이송하는 데 어려움이 있다는 것입니다. 많은 피해 가정들이 재정적인 어려움을 겪고 있으며 환자 이송에 적합한 차량이 부족하여 자원봉사자들은 응급 상황 및 필요한 경우를 위해 구급차 또는 전용 이송 차량 형태의 지원을 요청했습니다. 이에 파타야 시 공중 보건 사무소는 즉시 파타야 시립 병원과 협력하여 긴급 상황 발생 시 구급차를 이용할 수 있도록 조치하고 필요한 경우 환자 이동에 적절한 지원을 제공하기로 했습니다. 파타야 시는 관할 구역 전체에 걸쳐 총 32개의 1차 보건 센터를 운영하고 있습니다. 이러한 시설은 초기 건강 평가, 건강 상담, 증상에 따른 일반 가정용 의약품 제공, 거동이 불편한 환자를 모니터링하기 위한 주간 가정 방문 등 필수 서비스를 제공합니다. 또한 센터는 지역 사회 구성원의 삶의 질을 향상시키기 위해 가족들에게 지속적인 상담을 제공합니다. Beer라는 태국어 별명을 가진 시장은 또한 최전선에서 활동하는 이러한 자원봉사자들에 대한 지원을 강화하는 것의 중요성에 대해 이야기했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야 지역 사회 보건 서비스에 대한 정보로, 여행객에게 직접적인 영향은 적으나 지역 사회의 안전 및 복지 수준을 간접적으로 보여줌. 아침 브리핑에 포함하기에는 우선순위가 낮음.",
+      "event_info": {
+        "date": null,
+        "location": "Laem Ratchawet, Pattaya",
+        "price": null,
+        "location_google_map_query": "Laem Ratchawet Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Mayor Continues Field Visits to Monitor Community Health Volunteers Work at Laem Ratchawet",
+          "url": "https://thepattayanews.com/2026/02/18/pattaya-mayor-continues-field-visits-to-monitor-community-health-volunteers-work-at-laem-ratchawet/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714189269317563815082010570440.jpg?v=1771418970"
+        }
+      ],
+      "collected_at": "03:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714189269317563815082010570440.jpg?v=1771418970",
       "date": "2026-02-19"
     }
   ]
