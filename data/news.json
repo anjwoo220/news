@@ -19555,14 +19555,9 @@
       "summary": "- 태국 관광 산업이 회복세를 보이며 2026년까지 3,500만 명의 방문객 유치를 목표로 하고 있습니다.\n- 이는 전 세계 여행객과 여행 계획가들에게 긍정적인 신호로 해석됩니다.\n- 태국 정부는 관광 산업 활성화를 위해 다양한 정책과 프로모션을 추진할 계획입니다.",
       "full_translated": "태국 관광 회복 탄력: 2026년 3,500만 명 방문객 유치가 전 세계 여행객과 여행 계획가에게 의미하는 것은? Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업 회복에 대한 정보는 여행객들에게 전반적인 여행 환경에 대한 긍정적인 신호를 줄 수 있으나, 당장 여행에 미치는 직접적인 영향은 제한적이므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourism Revival Gains Momentum: What 35 Million Visitors in 2026 Means for Global Travellers and Travel Planners Worldwide - Travel And Tour World",
@@ -19571,23 +19566,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPWHp1dzYwT0RERl9JdGZBbjZtNVBIU2xsSDAwTUhaUlZuNllOWk5nRlV3MUVDYUFIMlpfY2xhSGpGQXRhMU1RQllmVFY0YU5PTEJlRkdJbVNXaU55amkwVDZwaDU4dm05NGJEbXhyMEdPRG90VnJHcUNzcWl0ZWZHRWhtMXdlaFUyTUFqcVNya01NUEpVU3NNRGtwbHI5eVdMZUlvbWtPal9ScXRDQmc3dEE4ZkRyYUlsdl8wRW52NHVqVEZfWkJfYURJQUJlZkJFeDQ2UlFnZU5vTGJ2OGZGZkF2WWZFTTFVVDBENHA2VWNtNDFOeVk1anNPMzhEZDllQl82SEs4ZTNPTGU1?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 산업의 양극화 심화: 주요 도시 집중 현상",
       "summary": "- 태국 관광 수입이 상위 5개 도시에 집중되어 불균형 심화.\n- 방콕, 푸껫, 촌부리, 수랏타니, 치앙마이가 전체 수입의 대부분 차지.\n- 관광 소득 불균형 해소를 위한 정책 필요.",
       "full_translated": "태국 관광 산업은 핵심 산업이지만, 지난 10년간 주요 관광지와 2선 도시 간의 소득 불균형이라는 심각한 문제에 직면해 있습니다. 태국 관광청(TAT)은 이러한 불균형을 인지하고 2018년에 22개의 주요 지역과 55개의 2선 지역을 분리하여 덜 인기 있는 지역을 활성화하기 위한 세금 감면 등의 혜택을 제공하는 방안을 도입했지만, 불균형은 여전히 지속되고 있습니다. 2025년 최신 자료에 따르면 지역별 관광 수입의 불평등은 여전합니다. 관광체육부에 따르면 방콕, 푸껫, 촌부리, 수랏타니, 치앙마이 등 상위 5개 지역이 지난해 전체 관광 수입 2조 7천억 바트 중 2조 바트 이상을 벌어들여 관광 부문을 장악했습니다. 태국 산업단지공단(Industrial Estate Authority of Thailand) 회장이자 TAT의 전 총재인 유타삭 수파손(Yuthasak Supasorn)은 태국이 관광 소득의 심각한 과잉 집중 현상에 직면해 있다고 말했습니다. 상위 5개 지역의 수입은 전체의 약 70%를 차지했으며, 상위 10개 지역은 약 81%를 차지하여 나머지 67개 지역은 단 18.7%만을 공유하게 되었습니다. 관문 도시인 방콕은 8,990억 바트를 벌어들였는데, 이는 암낫 차런이 창출한 4억 6,800만 바트의 약 1,923배에 달하는 금액입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "관광객의 소비가 특정 지역에 집중되어 있다는 정보는 여행 계획 시 참고할 만함. 특정 지역의 혼잡도를 예상하고 다른 지역을 고려할 수 있는 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourism's 2-speed economy",
@@ -19596,23 +19588,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3199543_260218055224_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3199543_260218055224_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/business/general/3199543/tourisms-2speed-economy",
+      "source": ""
     },
     {
       "title": "여왕의 어머니 시리킷 여왕의 화장터 건설, 2월 23일 시작",
       "summary": "- 정부는 시리킷 여왕의 어머니의 화장터 건설을 2월 23일에 시작한다고 발표했습니다.\n- 화장터 건설은 10월 31일까지 완료하는 것을 목표로 합니다.\n- 부총리가 주재하는 회의에서 건설 일정 및 관련 준비 사항이 논의되었습니다.",
       "full_translated": "정부는 시리킷 여왕의 어머니의 화장터 건설을 2월 23일에 시작한다고 밝혔습니다. 이 날짜는 화요일 정부가 왕실 화장 의식 준비를 진행하기 위한 회의를 소집한 후 합의되었습니다. 당국은 의식을 완벽하게 준비하기 위해 10월 31일까지 건설을 완료하는 것을 목표로 하고 있습니다.\n\n왕실 화장터, 부속 건물 건설, 왕실 마차 및 가마 복원을 감독하는 위원회 회의가 올해 두 번째로 개최되었습니다. Borwornsak Uwanno 부총리가 정부 청사에서 미술부, 공공사업부, 도시계획부 및 관련 기관의 고위 관리들이 참석한 가운데 회의를 주재했습니다.\n\n기초 마커 설치를 기념하는 전통 의식은 2월 23일로 예정되어 있습니다. 건설은 단계적으로 진행됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "왕실 관련 행사 정보는 여행객에게 문화적 경험을 제공할 수 있지만, 직접적인 영향은 크지 않다고 판단.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "방콕 왕궁 인근",
-        "price": "무료 (예상)",
-        "location_google_map_query": "방콕 왕궁"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': '방콕 왕궁 인근', 'price': '무료 (예상)', 'location_google_map_query': '방콕 왕궁'}",
       "references": [
         {
           "title": "Work to begin Feb 23",
@@ -19621,23 +19610,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972248_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972248_700.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3199523/work-to-begin-feb-23",
+      "source": ""
     },
     {
       "title": "방콕-나콘랏차시마 M6 고속도로, 정부 지연으로 민간 사업자에게 조기 보상 승인",
       "summary": "- 태국 정부가 M6 고속도로 사업 지연으로 민간 사업자에게 조기 보상을 승인함.\n- 총 1억 2,855만 바트 규모의 시스템 작업 완료분에 대한 부분 지급이 가능해짐.\n- 총 30년의 사업 기간은 변경되지 않으며, 추가적인 보상은 없음.",
       "full_translated": "태국 정부는 M6 고속도로(방파인-나콘랏차시마)에 대한 민관 파트너십(PPP) 계약 수정안을 승인하여, 정부의 건설 지연으로 인해 일정에 차질이 생긴 후 민간 사업자에게 조기 지급을 허용했습니다.\n\n랄리다 페르스비바타나 정부 부대변인은 교통부가 민간 파트너의 재정적 부담을 완화하기 위해 수정안을 제안했다고 밝혔습니다. 이는 정부가 토목 작업 구역 인도를 25개월 지연시킨 데 따른 것입니다. 원래 계약에는 시스템 작업에 대한 지불이 고속도로 개통 후에만 이루어질 수 있다고 규정되어 있었습니다. 수정안에 따라 고속도로국(DoH)은 개통 전에 완료 및 검증된 작업에 대해 부분 지불을 할 수 있습니다. 랄리다 씨는 완료된 작업이 최근 1억 2,855만 바트로 평가되었다고 밝혔습니다. 그녀는 이번 변경이 지불 시기에만 영향을 미치며 총액에는 영향을 미치지 않으며 추가 보상을 구성하지 않는다고 강조했습니다. 민간 파트너는 손해 배상을 추구하지 않기로 합의했으며, 또한 30년의 양허 기간은 변경되지 않습니다. 피야퐁 지와타나쿨파이산 DoH 국장은 시스템 설치가 95.91% 완료되었다고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "고속도로 공사 관련 소식이지만, 여행객에게 직접적인 영향은 크지 않다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Cabinet clears early M6 payouts",
@@ -19646,23 +19632,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-18"
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/thailand/general/3199483/cabinet-clears-early-m6-payouts",
+      "source": ""
     },
     {
       "title": "태국 중앙은행, Gulf의 KBank 지분 확대에 대한 감독 강화",
       "summary": "- 태국 중앙은행(BoT)은 Gulf Development Plc의 Kasikornbank(KBank) 지분 10% 인수에 대한 감독을 강화할 예정임.\n- 중앙은행 규정에 따라 금융 기관 총 납입 자본의 최소 5%를 보유한 주요 주주는 지분율을 보고해야 함.\n- Gulf의 KBank 지분은 2025년 3월 13일 4.53%에서 작년 11월 5% 이상으로 증가함.",
       "full_translated": "태국 중앙은행은 Gulf Development Plc의 Kasikornbank(KBank) 지분 10% 인수에 대한 감독을 강화할 것이라고 밝혔습니다. 중앙은행 규정에 따라 금융 기관 총 납입 자본의 최소 5%를 보유한 주요 주주는 태국 중앙은행에 지분율을 보고해야 합니다. 또한 지분율이 10%에 도달하는 주주는 규제 당국의 사전 승인을 받아야 합니다. Gulf의 KBank 지분은 2025년 3월 13일 4.53%에서 작년 11월 5% 이상으로 증가했습니다. 태국 중앙은행 금융 기관 감독 담당 Somchai Lertlarpwasin 보조 총재에 따르면 KBank는 Gulf의 지분이 은행 총 발행 주식의 5%에 도달했을 때 이전에 주주를 보고했습니다. 금융 기관의 주요 주주는 또한 지분 보유 목적과 장기 투자 계획에 대한 정보를 중앙은행에 제출해야 합니다. 규제 당국은 규제 요구 사항 준수 및 금융 시스템 안정성 유지를 위해 개발 상황을 지속적으로 모니터링할 것입니다. 중앙은행은 또한 금융 기관 운영에서 기업 지배 구조를 우선시합니다. 예를 들어 은행은 은행 자본금의 5%를 초과하거나 단일 한도 25%를 초과하여 주요 주주에게 신용을 제공하는 것이 금지됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 금융 시스템에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BoT to monitor KBank after Gulf purchase",
@@ -19671,8 +19654,123 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972178_700.jpg"
         }
       ],
-      "collected_at": "06:51",
+      "collected_at": "6:51",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/18/5972178_700.jpg",
+      "date": "2026-02-18",
+      "link": "https://www.bangkokpost.com/business/general/3199408/bot-to-monitor-kbank-after-gulf-purchase",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역 총기 소지 남성 추적 중 – 학교 휴교",
+      "summary": "- 방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 목격되어 경찰이 추적 중입니다.\n- 해당 지역의 여러 학교가 학생들의 안전을 위해 임시 휴교에 들어갔습니다.\n- 여행객은 해당 지역 방문 시 주의가 필요하며, 현지 당국의 안내에 따라야 합니다.",
+      "full_translated": "방콕 인근 라드룸깨우 지역에서 총기 소지 남성이 난동을 부려 경찰이 추적 중이며, 여러 학교가 임시 휴교에 들어갔습니다. 여행객은 해당 지역 방문을 자제하고, 현지 당국의 안내에 따라 안전에 유의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "총기 소지 남성 추적은 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수를 부여합니다. 이미 여러 차례 보도되었으나, 상황이 종료되지 않았으므로 재게시합니다.",
+      "event_info": {
+        "date": null,
+        "location": "라드룸깨우, 방콕 인근",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo, Bangkok"
+      },
+      "references": [
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 '광인' 추적 중 - 여러 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드 룸 깨우 지역 학교들, 총기 소지 남성 난동으로 임시 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드룸깨우 지역 총기 난동, 학교 긴급 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "เปิดรายชื่อโรงเรียนใน \"อ.ลาดหลุมแก้ว\" สั่งปิดเรียนฉุกเฉิน หลังเกิดเหตุชายคลั่ง",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "방콕 인근 라드룸깨우 지역, 총기 소지 남성 난동으로 학교 임시 휴교",
+          "url": null,
+          "source": "Google News"
+        },
+        {
+          "title": "ด่วน สภ.ลาดหลุมแก้ว เร่งล่าตัว \"ชายคลั่ง\" หลายโรงเรียนสั่งหยุดเรียนฉุกเฉินแล้ว",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "08:20",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "방콕 인근 라드룸깨우 지역, 총기 소지 용의자 추적 중 - 학교 안전 비상",
+      "summary": "- 파툼타니 경찰, 라드룸깨우에서 총기 소지 및 도주 용의자 체포 작전 개시.\n- 용의자는 과거 고속도로에서 구조대 차량에 총격을 가한 혐의.\n- 해당 지역 13개 학교는 안전을 위해 임시 휴교 조치.",
+      "full_translated": "파툼타니 경찰청장이 라드룸깨우 지역에서 총기 소지 및 도주 중인 용의자를 체포하기 위해 인력을 동원하라고 지시했습니다. 용의자는 자수를 압박받고 있으며, 현재까지 학교를 위협하는 행위는 보고되지 않았습니다. 2월 18일 0시 30분, 파툼타니 경찰청장은 라드룸깨우 경찰서를 방문하여 해당 사건에 대한 자세한 내용을 확인했습니다. \n\n사건은 2월 16일 오후 11시경, 31세의 노파랏 진토 씨가 고속도로에서 구조대 차량에 총격을 가한 사건에서 비롯되었습니다. 노파랏 씨는 자신의 차량을 갓길에 주차한 것에 대해 구조대가 경고하자 이에 불만을 품고 총격을 가한 것으로 알려졌습니다. 이후 차량을 버리고 숲으로 도주했으며, 차량에서는 500kg 상당의 크라톰 잎 51 봉지가 발견되었습니다. 2월 17일 새벽 2시경, 노파랏 씨는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "총기 관련 사건으로 여행객 안전에 대한 직접적인 위협이 될 수 있으며, 학교 휴교로 인한 교통 혼잡 및 관련 정보 확인 필요.",
+      "event_info": {
+        "date": "2024-02-18",
+        "location": "라드룸깨우",
+        "price": null,
+        "location_google_map_query": "Lat Lum Kaeo, Pathum Thani"
+      },
+      "references": [
+        {
+          "title": "\"ลาดหลุมแก้ว\" เร่งระดมกำลังเจ้าหน้าที่ ล่าตัวผู้ต้องหา พกอาวุธปืน-หนีการจับกุม",
+          "url": "https://www.thairath.co.th/news/crime/2914866",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMQdoOCpoXgDKn.jpg"
+        }
+      ],
+      "collected_at": "08:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIMQdoOCpoXgDKn.jpg",
+      "date": "2026-02-18"
+    },
+    {
+      "title": "태국에서 휴가 중인 이스라엘인 공격받아, '국가주의적 동기' 주장 - Ynetnews",
+      "summary": "- 태국에서 휴가 중인 이스라엘인들이 공격을 받음.\n- 피해자들은 공격의 배후에 '국가주의적 동기'가 있다고 주장함.\n- 현재 당국에서 사건을 조사 중.",
+      "full_translated": "태국에서 휴가 중인 이스라엘인들이 공격을 받았다는 소식이 Ynetnews를 통해 보도되었습니다. 피해자들은 공격의 배후에 국가주의적 동기가 있다고 주장하고 있으며, 현재 당국에서 정확한 사건 경위를 조사하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄는 여행객 안전에 영향을 줄 수 있으므로 7점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Israelis attacked on vacation in Thailand, claim 'nationalist motive' - Ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1GUmhobHJWRGtYWXZoaW1pbURHbV8yR2VEYkNLRDBCRFVNU2Fwb3dHTTFOWFp0dFVMNG1pOG10QnNTeG1VaWpKSGcydmQxR3VXcFVJeXBFaw?oc=5",
+          "source": "Ynetnews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-18"
     }
   ]
