@@ -21405,14 +21405,9 @@
       "summary": "- Aviation A2Z에 따르면 미국 항공사들은 여전히 세계에서 가장 많이 방문하는 도시로의 직항편을 기피하고 있습니다.\n- 구체적인 이유는 밝혀지지 않았지만, 여러 요인이 복합적으로 작용하는 것으로 보입니다.\n- 이는 태국 방콕을 방문하려는 여행객들에게 불편을 초래할 수 있습니다.",
       "full_translated": "미국 항공사, 세계에서 가장 많이 방문하는 도시에 직항편을 여전히 기피하는 이유는?\nAviation A2Z",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕 여행객들의 항공편 선택에 영향을 줄 수 있으므로 관련 정보 제공. 직항편 부재는 여행 편의성에 영향을 미침.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "US Airlines Still Avoid Non-Stop Flights to Most Visited City in the World, Why? - Aviation A2Z",
@@ -21421,23 +21416,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXJrd1ZvclBnd0pPR25peDM4MWxvZUZBY3Vtd3hXVk9IQ1IwWHY3eTA0REJlNldNRDVjTTZZVEdMcjg1TDV2NVRiR25fc3JjeGJYQWZLWUFoWVdQckVYcFpZQkQxU2VfOERDLXYxVm1jYjJ6Ylk2c2d3elJ1Q2hQLXY4YlJicXlTMTFCRUE1Nko3elMxajVEZDBXQUhPRm8?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 대규모 관광 재개 - eTurboNews",
       "summary": "- 태국이 대규모 관광을 재개합니다.\n- 자세한 내용은 eTurboNews에서 확인할 수 있습니다.",
       "full_translated": "태국이 대규모 관광을 재개합니다. eTurboNews",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 재개에 대한 일반적인 정보 제공. 새로운 핫플 정보나 특별한 이벤트 정보는 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Return to Mass Tourism - eTurboNews",
@@ -21446,23 +21438,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lMTA5eXZyY2J2UlQ1RVFLdmpHYlNBTTY3Wk1VVDR4VTZyN1F6cDZsWGFKTEF0eGVRTG9aTC1NbG1mZ3RWeFVfcXd3SGtmUG5xY05PM3lsbElMSV85Wi1fc0tXRFVnUQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 춘절 연휴 맞아 중국인 관광객 유치",
       "summary": "- 태국이 춘절 연휴 기간 동안 중국인 관광객 유치에 적극적으로 나서고 있습니다.\n- 이는 태국 관광 산업 회복에 중요한 계기가 될 것으로 기대됩니다.\n- 자세한 내용은 NHK 웹사이트에서 확인할 수 있습니다.",
       "full_translated": "태국이 춘절 연휴를 맞아 중국인 관광객을 유치하고 있습니다. 자세한 내용은 NHK 웹사이트에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "춘절 기간 태국 방문을 고려하는 여행객에게 유용한 정보이며, 태국 관광 산업 관련 내용이 포함되어 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand draws Chinese tourists for Lunar New Year holiday - nhk.or.jp",
@@ -21471,23 +21460,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CN25YakN1WDR4STY3M0QxMHJMb2VZM3dkUl9TeUVQbVk1WTVxYjlFemJNb2dpVy1URHkzQWFrcEc5Z0loVnBuWWswRkhTQmkwVTZLTWJKaS1HZHI4d2hWSll3?oc=5",
+      "source": ""
     },
     {
       "title": "블랙핑크 리사 효과, 태국 '레드 로터스 씨' 관광객 급증",
       "summary": "- 블랙핑크 리사의 입소문 마케팅 효과로 태국 '레드 로터스 씨'의 관광객이 급증했습니다.\n- 유명인의 영향력이 지역 관광 활성화에 미치는 긍정적인 사례입니다.\n- 새로운 핫플레이스 정보로 여행객에게 유용할 수 있습니다.",
       "full_translated": "블랙핑크 리사의 입소문 마케팅으로 태국 '레드 로터스 씨'의 관광객이 급증했습니다. AOL.com",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유명인의 입소문 효과로 새로운 관광 명소에 대한 관심이 증가하고 있어 여행 정보로서의 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "레드 로터스 씨 (Red Lotus Sea), 태국",
-        "price": null,
-        "location_google_map_query": "Red Lotus Sea, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '레드 로터스 씨 (Red Lotus Sea), 태국', 'price': None, 'location_google_map_query': 'Red Lotus Sea, Thailand'}",
       "references": [
         {
           "title": "Viral endorsement from Blackpink star Lisa sees tourism spike at Thailand’s ‘Red Lotus Sea’ - AOL.com",
@@ -21496,23 +21482,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1l4VnFXQTRsT3laN1M2T2g1c0FoS1lhamRoREMwS0Y5aW0xUGVma3FNWUF2M010bW02VG15dUE0QnItaUxha3NvQjBMOFVLMXRVbmFHSDB2SWY4dzZzTGJ5ekxTby1zM2t6UTVjZ29WMVpKS2gxMnJicjdEbFV1bU10OFBVNURH?oc=5",
+      "source": ""
     },
     {
       "title": "국민당, 회원 가입 페이지에서 레이저 ID 입력 불필요하도록 변경",
       "summary": "- 국민당은 회원 가입 시 레이저 ID 입력 요구가 법률 위반 소지가 있다는 논란에 대응.\n- 당은 과거 미래전진당과 전진당이 개인 정보 이용 허가를 받았었다고 주장.\n- 현재 스마트 카드 정보 판독 및 디지털 신원 확인 시스템 사용 허가만 남은 상태.",
       "full_translated": "국민당은 회원 가입 과정에서 레이저 ID 입력을 요구하는 것이 법률을 위반할 수 있다는 논란에 대해 해명했습니다. 당은 과거 미래전진당과 전진당이 개인 정보 이용 허가를 받았었다고 주장하며, 현재 스마트 카드 정보 판독 및 디지털 신원 확인 시스템 사용 허가만 남은 상태라고 밝혔습니다. 당은 회원 가입 페이지를 수정하여 더 이상 레이저 ID를 입력하지 않아도 되도록 변경했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 논쟁에 관한 기사로, 여행객에게 직접적인 영향은 적으나 향후 정당 활동 변화에 따라 정책 변화 가능성 존재.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "พรรคประชาชน ปรับหน้าเพจสำหรับสมัครสมาชิกไม่ให้กรอก Laser ID แล้ว",
@@ -21521,8 +21504,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXiq8MG03NFW.jpg"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXiq8MG03NFW.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915055",
+      "source": ""
+    },
+    {
+      "title": "태국, 삼각관계 격화로 미국인 관광객 사망",
+      "summary": "- 태국에서 삼각관계가 격화되어 미국인 관광객이 사망하는 사건 발생\n- 경찰은 폭력적인 대립 상황에서 벌어진 살인 사건으로 보고 수사 중\n- 자세한 사건 경위는 아직 조사 중이며, 추가 정보 확인 필요",
+      "full_translated": "태국에서 미국인 관광객이 삼각관계로 인해 사망했습니다. 경찰은 폭력적인 대립이 치명적인 결과로 이어졌다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으므로 게시. 다만, 현재까지는 개인적인 다툼으로 보이며, 여행객 대상 무차별 범죄 가능성은 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police - Fox News",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOME9PZ2FPTW82V1puM18wd2gxZlU4RUNBRWc4clNSZHBhdFJuclRJUG5lbG5Xd1poa1l5ejg3UkhxZmxKalFGZmM1MGpLdXNCUXJxcXlHU2NuQWdDdkhlT0ZEV1F5a04tN1J6dWtEUlptX0lVVTdYTl9ieVYtSkw5U0hCRi1mc2dXbk5tLVE1czI4cjZiTXA0VlZ5dDNfOS1YTG9nNDNETWVfT29fVlZGczlsZEFPWFBOSzk3Ql85c9IBxAFBVV95cUxNMVVKNW4tdkNIUHc2cVBWT1lEX3B3SUF6V2x2N0s2V3o4NEpWRjJ2UGdaWXlNTzZxOE8xUEY1bWhzdUJKamcxN0xLM1JoT0w5NHdrYS1JX210TDlhbmlhTWNUazVKWW1jSU5tZVE3VzVMME5nREpzUnAyalVBVGl2QlNxSE1zREFvdlNFVGV0YWJqS0NCaExvcjZYSHVXQnFpWmJFUVRmNTl4YlJuaDNXTk5tMXB6TkR0T3ZDTHdPRzhwOWw0?oc=5",
+          "source": "Fox News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국, 국경 지역 상품 통제 강화: 국가 안보 및 범죄 억제 목적",
+      "summary": "- 태국 정부가 국가 안보 강화와 초국가적 범죄 억제를 위해 특정 국경 지역을 상품 통제 구역으로 지정하는 각료 규정 초안을 승인했습니다.\n- 미얀마 및 캄보디아 국경 지역과 태국 영해 일부가 통제 구역에 포함됩니다.\n- 해당 규정은 마약 밀매, 콜센터 사기 등 불법적인 목적으로 상품이 유용되는 것을 방지하는 데 목적이 있습니다.",
+      "full_translated": "태국 정부는 국가 안보를 강화하고 초국가적 범죄를 억제하기 위해 특정 국경 지역을 상품 통제 구역으로 지정하는 각료 규정 초안을 승인했습니다. 이 결정은 화요일 각료 회의에서 통과되었으며, 국가 안보 또는 공공 질서에 대한 위협을 방지하기 위해 필요한 경우 특정 국경 지역 또는 해양 구역을 통제 구역으로 선포할 수 있도록 권한을 부여하는 1981년 국경 상품 통제에 관한 행정 법령에 따른 국방부 발표를 지지합니다. 국방부는 국경 지역에서 판매되는 특정 상품이 국가 안보에 위협이 된다고 판단되는 개인이나 단체에게 이익이 될 수 있으며, 따라서 더 엄격한 통제가 필요하다고 밝혔습니다. 이 규정은 마약 밀매, 콜센터 사기 및 기타 조직적인 초국가적 범죄를 포함한 불법적인 목적으로 상품이 유용되는 것을 방지하는 데 목적이 있습니다. 통제 구역은 미얀마 국경을 따라 있는 깐차나부리, 치앙라이, 딱, 매홍손의 일부 지역과 캄보디아와 접경한 7개 주, 그리고 태국의 내수와 영해를 포함합니다. 초안에 따르면 미얀마 국경을 따라 통제되는 지역에는 깐차나부리 주의 무앙 지역의 반카오 땀본과 상클라 부리 지역, 치앙라이 주의 매사이, 치앙콩, 치앙센 지역, 딱 주의 매솟, 매라마, 타송양 지역, 매홍손 주의 매사리앙 지역이 포함됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국경 지역을 여행하는 여행객에게는 소지품 검사 강화 등의 불편이 발생할 수 있으므로 관련 정보 인지 필요. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "깐차나부리, 치앙라이, 딱, 매홍손 (미얀마 국경 지역)",
+        "price": null,
+        "location_google_map_query": "깐차나부리"
+      },
+      "references": [
+        {
+          "title": "Goods controls at border to ramp up",
+          "url": "https://www.bangkokpost.com/thailand/general/3200385/goods-controls-at-border-to-ramp-up",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200385_260219045541_700.jpg"
+        }
+      ],
+      "collected_at": "05:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200385_260219045541_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 1월 산업 신뢰도 상승, 관광 및 생산 반등... 비용 및 PM2.5는 여전히 문제",
+      "summary": "- 태국의 1월 산업 신뢰도가 관광 및 생산 반등에 힘입어 상승했습니다.\n- 그러나 높은 비용과 PM2.5 미세먼지 문제는 여전히 주요 우려 사항입니다.\n- 자세한 내용은 Thai Enquirer에서 확인할 수 있습니다.",
+      "full_translated": "태국의 산업 신뢰도가 관광 및 생산 반등에 힘입어 1월에 상승했습니다. 그러나 높은 비용과 PM2.5 미세먼지 문제는 여전히 주요 우려 사항입니다. &nbsp;&nbsp;Thai Enquirer",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "PM2.5 관련 정보는 여행자 건강에 영향을 줄 수 있으며, 관광 산업 관련 소식은 여행 계획에 간접적으로 영향을 미칠 수 있습니다. 매일 업데이트되는 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Industrial confidence edges up in January on tourism, production rebound; costs and PM2.5 remain concerns - Thai Enquirer",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzZobUEyczRGcWIwc2hVeFdLZDNxS1BTZU5XNTJLT3pJcU8ydEEwWTN3TFZPZ056ZEhxTUtLN2N3cVpQYnQtYW10bDZDYl9aLW1Id2l3QnYxZzhCZm1icTA5WFNlOEFsOWFUeHFaUUFyeTlQdDVjTDBIcHVMQnRVYUZpeFJPTktpcHlfcGR1N09SVE1XVHk0aG5XZWhfSVFFY0FVS3R6c1o3QXl4ajB1Y01haFFtc2l0UmlhdDJtR1ZLNV83M1E4aXhWdzBQNlBscHZTbDV3?oc=5",
+          "source": "Thai Enquirer",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "파타야 뉴스, 유튜브 채널 개설 및 운영",
+      "summary": "- 파타야 뉴스가 유튜브 채널을 통해 지역 뉴스를 제공.\n- 고화질 영상, 사실 기반 보도, 간결한 내용이 특징.\n- 구독 시 새로운 콘텐츠 알림을 받을 수 있음.",
+      "full_translated": "파타야 뉴스가 유튜브에서 제공된다는 사실을 알고 계셨습니까?\n\n유튜브는 세계에서 가장 인기 있는 비디오 플랫폼이며 다른 일부 미디어 플랫폼보다 장점이 있습니다. 유튜브의 비디오는 크고 작은 화면 모두에서 고화질로 볼 수 있습니다. 일부 다른 소셜 미디어 플랫폼에서는 세로 또는 '세로' 화면 비율을 사용하는 것을 권장하지만 이는 촬영 방식이 아닌 경우가 많습니다. 이렇게 하면 그림의 일부만 보게 되는 경우가 많습니다. 유튜브에서는 이러한 비디오를 올바른 가로 또는 '가로' 형식으로 볼 수 있습니다.\n\n유튜브를 구독하고 파타야 뉴스가 새로운 콘텐츠를 업로드할 때마다 알림을 받는 것은 쉽고 무료입니다. 유튜브에서 파타야 뉴스를 구독하여 뉴스를 원래 의도대로 시청하세요. 파타야 뉴스 유튜브 채널은 일반적으로 하루에 몇 개의 비디오를 게시하며 실제 현지 뉴스에 중점을 두고 실제 현장 기자들이 촬영합니다. 우리는 사실에 집중하고 의견을 배제하여 시청자만이 뉴스에 대한 의견을 갖도록 합니다. 또한 우리는 토론 스타일의 비디오를 믿지 않으므로 시청하는 뉴스가 다른 미디어에서 흔히 볼 수 있는 의견 다툼이 아닌 실제 뉴스임을 확신할 수 있습니다. 또한 보고서를 짧고 간결하며 명확하게 유지하여 시청자에게 알아야 할 사실을 제공합니다.\n\n마지막으로 시청자의 폭력 및 그래픽 콘텐츠에 대한 민감도 및 관용 수준이 다양하다는 것을 알고 있으므로 일부 시청자를 불쾌하게 할 수 있는 내용은 보여주지 않으면서 콘텐츠와 컨텍스트를 제공합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야 지역 여행객에게 유용한 정보 채널을 소개하고, 최신 소식을 접할 수 있는 방법을 제공한다. 뉴스 채널을 통해 여행 관련 정보를 얻을 수 있다는 점에서 4점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": "무료",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Are You Aware That The Pattaya News is Available on YouTube?",
+          "url": "https://thepattayanews.com/2026/02/18/are-you-aware-that-the-pattaya-news-is-available-on-youtube/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475"
+        }
+      ],
+      "collected_at": "05:24",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 외무부, 훈 마넷 캄보디아 총리의 국경 관련 주장에 반박",
+      "summary": "- 캄보디아 훈 마넷 총리가 태국 군대가 분쟁 지역을 계속 점령하고 있다고 주장한 것에 대해 태국 외무부가 반박 성명 발표.\n- 태국 외무부는 캄보디아 측에 오해를 불러일으킬 수 있는 정보를 유포하지 말 것을 촉구.\n- 태국은 작년 12월 27일 양국이 발표한 공동 성명을 엄격히 준수하고 있으며, 양국 간의 직접적인 협상을 지지한다고 밝힘.",
+      "full_translated": "태국 외무부(MFA)는 캄보디아 훈 마넷 총리의 발언에 반박했습니다. 훈 마넷 총리는 도널드 트럼프 미국 대통령의 중재 노력에도 불구하고 태국 군대가 분쟁 지역을 계속 점령하고 있다고 주장했습니다. \n\n외무부는 그가 오해의 소지가 있는 정보를 퍼뜨리는 것을 자제할 것을 촉구했습니다. 외무부 정보부서장인 파니돈 파침사왓은 태국이 작년 12월 27일에 양국이 발표한 공동 성명을 엄격히 준수했다고 말했습니다. 그는 국제 사회가 휴전을 널리 환영하고 있으며 미결 문제를 해결하기 위해 방콕과 프놈펜 간의 지속적인 직접 협의를 지지한다고 말했습니다. \n\n양자 메커니즘은 단계적으로 진행되고 있으며, 시하삭 푸앙케트케우 외무장관은 캄보디아 외무장관과 정기적인 소통을 유지하고 있으며 군사 채널도 활발하게 유지되고 있다고 그는 덧붙였습니다. 지역 국경 위원회(RBC) 하의 최근 회담을 통해 보다 심층적인 기술 논의가 가능했지만 최종 결론에는 도달하지 못했는데, 파니돈 씨는 이를 민감한 협상에서 정상적인 상황이라고 설명했습니다. 그는 또한 태국이 새로운 정부를 구성하면 공동 경계 위원회(JBC)가 업무를 재개할 것이라고 말했습니다. \n\n국장은 태국 정부가 캄보디아의 도발적인 행동과 잘못된 정보라고 부르는 것에 대해 우려를 표명하며 기존의 양자 간 협의를 더 많이 활용할 것을 촉구했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "국경 분쟁 관련 뉴스로, 여행객의 안전에 직접적인 위협은 아니지만, 정치적 상황에 대한 인식을 제공하므로 낮은 점수 부여. 기존 뉴스에 포함되지 않았으므로 추가.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "MFA rebuts Hun Manet's border claims",
+          "url": "https://www.bangkokpost.com/thailand/general/3200355/mfa-rebuts-hun-manets-border-claims",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200355_260219045030_700.jpg"
+        }
+      ],
+      "collected_at": "05:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200355_260219045030_700.jpg",
       "date": "2026-02-19"
     }
   ]
