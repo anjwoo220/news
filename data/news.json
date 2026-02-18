@@ -21185,14 +21185,9 @@
       "summary": "- 파타야에서 32세 배달 기사가 10대들에게 쇠파이프로 공격당했다고 경찰에 신고\n- 기사는 오토바이를 타고 역주행하는 청소년들에게 욕설을 퍼부었고, 이에 청소년들이 쇠파이프를 휘두르며 추격\n- 경찰은 증거를 확보하고 피해자에게 치료 및 진단서 발급을 권고했으며, 용의자를 추적할 예정",
       "full_translated": "파타야 — 2026년 2월 18일, 한 음식 배달 기사가 태국 동부에서 발생한 도로 분노 사건으로 10대에게 쇠파이프로 공격당했다며 01시 20분에 경찰에 신고했습니다. 32세 남성은 촌부리 방라뭉 지역 농프루 하위 구역 소이 포티산 7에서 발생한 싸움에서 부상을 입었다고 파타야 시 경찰서의 경찰관들에게 말했습니다. 기사는 모바일 애플리케이션을 통해 배달 주문을 수락하고 골목에서 음식을 내려놓기 위해 이동하던 중 교통을 거슬러 운전하는 세 명의 청소년을 태운 오토바이를 만났다고 말했습니다. 충격을 받은 그는 그들에게 욕설을 퍼부었고, 이에 청소년들은 쇠파이프를 휘두르며 그를 쫓아갔습니다. 그는 상황이 악화되어 물리적 폭행으로 이어지기 전에 언쟁이 벌어졌다고 말했습니다. 사건 후 기사는 방라뭉 지역에 있는 파타야 경찰에 공격 사실을 신고했습니다. 당국은 불만을 증거로 기록하고 피해자에게 치료를 받고 진단서를 받도록 조언했습니다. 경찰은 모든 당사자에게 공정성을 보장하기 위해 용의자를 추적할 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객에게 안전 관련 정보는 중요. 파타야는 주요 관광지이므로 관련 정보를 제공. 폭력 사건 발생 가능성 경고.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "파타야, 소이 포티산 7",
-        "price": null,
-        "location_google_map_query": "Soi Phothisan 7, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': '파타야, 소이 포티산 7', 'price': None, 'location_google_map_query': 'Soi Phothisan 7, Pattaya'}",
       "references": [
         {
           "title": "Delivery rider hurt in Pattaya road rage incident",
@@ -21201,23 +21196,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Delivery-rider-hurt-in-Pattaya-road-rage-incident.jpg"
         }
       ],
-      "collected_at": "03:29",
+      "collected_at": "3:29",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Delivery-rider-hurt-in-Pattaya-road-rage-incident.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.khaosodenglish.com/news/2026/02/18/delivery-rider-hurt-in-pattaya-road-rage-incident/",
+      "source": ""
     },
     {
       "title": "파타야 국제 연 날리기 축제, 2026년 2월 25일부터 개최",
       "summary": "- 파타야 해변에서 '행복의 하늘 낙원' 콘셉트로 국제 연 날리기 축제 개최.\n- 태국 최초로 캐릭터 연 대거 등장, 센트럴 파타야 마스코트 'MR. SUN' 연 첫선.\n- 먹거리, 쇼핑, 체험 활동 등 다양한 즐길 거리 제공.",
       "full_translated": "센트럴 파타야는 유수의 공공 및 민간 부문 파트너와 협력하여 파타야 해변 하늘을 화려하게 수놓을 국제 연 축제 5회, “PATTAYA INTERNATIONAL KITE ON THE BEACH 2026”을 ‘행복의 하늘 낙원’이라는 콘셉트로 개최합니다. 이 행사는 파타야의 이미지를 ‘최고의 해변 목적지’로 강화하고 성수기 동안 태국 및 해외 관광객을 맞이할 준비가 되었습니다.\n\n주요 볼거리:\n태국 최초로 유명 브랜드의 캐릭터 연이 하늘을 가득 채울 예정이며, 센트럴 파타야의 사랑스러운 마스코트인 MR. SUN이 12미터 높이로 바람에 휘날리는 첫 모습을 선보입니다. 그 외에도 재미있는 “Muek Groob” 연, 플라밍고 연, 3미터 높이의 PEA 마스코트 연, 그리고 전 세계 12개국에서 온 150개 이상의 독특한 디자인의 국제 연이 있습니다. 이들은 파타야 해변 1km 이상을 따라 여름 하늘을 다채로운 색으로 물들일 것입니다.\n\n축제는 또한 MR. SUN 캐릭터 연 페인팅 워크숍, 해변가에서 편안한 분위기 속에서 30개 이상의 길거리 음식 판매점과 함께하는 “Shop, Taste, Chill” 체험 등 다양한 흥미진진한 활동을 제공합니다. 센트럴 파타야 쇼핑객은 캠페인 최고 지출자(최소 500,000바트 지출)에게 홍콩 고급 여행을 제공하는 기회를 포함한 독점 프로모션을 누릴 수 있습니다. 또한 해외 방문객을 위한 특별 혜택도 제공됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변에서 열리는 대규모 축제 정보로, 여행객에게 유용한 정보라고 판단됨.",
-      "event_info": {
-        "date": "2026-02-25",
-        "location": "파타야 해변",
-        "price": "미정",
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': '2026-02-25', 'location': '파타야 해변', 'price': '미정', 'location_google_map_query': 'Pattaya Beach'}",
       "references": [
         {
           "title": "Pattaya International Kite on The Beach 2026 Returns From February 25th",
@@ -21226,23 +21218,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17714210654725954231421841918643.jpg?v=1771421326"
         }
       ],
-      "collected_at": "03:29",
+      "collected_at": "3:29",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17714210654725954231421841918643.jpg?v=1771421326",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://thepattayanews.com/2026/02/18/pattaya-international-kite-on-the-beach-2026-returns-from-february-25th/",
+      "source": ""
     },
     {
       "title": "시사껫 프리미엄 소고기 축제 2026 개최, 태국 소고기 세계 시장 진출 목표",
       "summary": "- 시사껫주, 고품질 소고기 세계 시장 진출을 목표로 '시사껫 프리미엄 소고기 축제 2026' 개최\n- 2026년 3월 5일부터 8일까지 므앙 지역 란 아옷 롯 공원에서 음악 및 고기 축제 형태로 진행\n- 'Less for More' 모델을 통해 고품질, 표준, 혁신 강조하며 국내외 고가치 시장 공략",
       "full_translated": "시사껫 — 2026년 2월 17일, 시사껫주는 고품질 소를 세계 시장에 진출시키고 가치 중심의 새로운 축산 전략을 홍보하기 위해 “시사껫 프리미엄 소고기 축제 2026”을 시작했습니다. 아누랏 탐프라탐짓 시사껫 지사, 낫타웨롯 부차팟 주 축산국장, 라타윗 앙카사쿨키아트 시사껫 상공회의소 회장은 월요일 18시 므앙 지역 란 아옷 롯 공원에서 2026년 3월 5일부터 8일까지 같은 장소에서 열리는 “시사껫 프리미엄 소고기 축제 2026” 또는 음악 및 고기 축제를 발표했습니다. 아누랏 지사는 주가 고용량, 저가치 생산에서 고품질 국내외 시장을 위한 품질, 표준 및 혁신을 강조하는 “Less for More” 모델로 축산 개발 전략에서 주요 전환을 겪고 있다고 말했습니다. 지사는 주가 “시사껫 프리미엄 소고기”를 신뢰할 수 있는 소비자 브랜드로 끌어올리는 것을 목표로 한다고 말했습니다. “Less for More” 접근 방식은 단순한 슬로건이 아니라 업스트림에서 다운스트림까지의 포괄적인 공급망 정비로, 생산 비용을 절감하고 환경 영향을 줄이며 농업 효율성을 개선하고 체험 마케팅을 통해 가치를 더합니다. 이 전략은 정부의 바이오-순환-녹색(BCG) 경제 모델과 일치합니다. 낫타웨롯 박사는 현재 시사껫에 503,429마리 이상의 소가 있어 북동부의 주요 생산 기지 중 하나라고 말했습니다. 주의 강점은 차얀 품종과 같은 높은 수요 품종에 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년에 열리는 축제이지만, 여행 관련 이벤트 정보로서 가치가 있다고 판단. 태국 소고기에 대한 관심 유발 가능.",
-      "event_info": {
-        "date": "2026-03-05",
-        "location": "Lan Aod Lod Public Park, Muang district, Sisaket",
-        "price": "Unknown",
-        "location_google_map_query": "Lan Aod Lod Public Park, Sisaket"
-      },
+      "event_info": "{'date': '2026-03-05', 'location': 'Lan Aod Lod Public Park, Muang district, Sisaket', 'price': 'Unknown', 'location_google_map_query': 'Lan Aod Lod Public Park, Sisaket'}",
       "references": [
         {
           "title": "Upcoming Sisaket Premium Beef Festival 2026 aims to push Thai beef to global market",
@@ -21251,23 +21240,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Upcoming-Sisaket-Premium-Beef-Festival-2026-aims-to-push-Thai-beef-to-global-market-1.jpg"
         }
       ],
-      "collected_at": "03:29",
+      "collected_at": "3:29",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Upcoming-Sisaket-Premium-Beef-Festival-2026-aims-to-push-Thai-beef-to-global-market-1.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.khaosodenglish.com/news/2026/02/18/sisaket-premium-beef-festival-2026-aims-to-push-thai-beef-to-global-market/",
+      "source": ""
     },
     {
       "title": "파타야 시장, 로이 랑 지역 보건 자원봉사자 방문 및 추가 모집 독려",
       "summary": "- 파타야 시장은 로이 랑 지역 보건 센터의 자원봉사자들을 격려하고 운영 효율성 강화를 위한 추가 모집을 발표했습니다.\n- 현재 자원봉사자들은 고령화되어 소셜 미디어 활용에 어려움을 겪고 있으며, 65세 이하의 신규 자원봉사자를 모집합니다.\n- 로이 랑 센터는 수요일에는 센터에서, 목요일에는 가정 방문을 통해 주민들에게 기본적인 건강 평가 및 의약품을 제공합니다.",
       "full_translated": "파타야 시장이 로이 랑 지역 사회 보건 자원봉사자들을 방문하여 공중 보건 노력 강화를 위한 새로운 자원봉사자 모집을 촉구했습니다.\n\n이번 시찰에서 관계자들은 로이 랑 센터의 활동적인 자원봉사자 대부분이 고령 거주자라는 사실을 확인했습니다. 이러한 인구 구성으로 인해 특히 소셜 미디어 및 스마트폰과 같은 최신 도구를 활용한 커뮤니케이션 및 봉사 활동에서 운영 효율성에 일부 제한이 있었습니다. 이를 해결하고 팀의 역량을 강화하기 위해 센터는 추가 자원봉사 보건 요원을 모집할 계획을 발표했습니다. 관심 있는 개인은 65세 이하이어야 하며 로이 랑 지역 사회 기본 공중 보건 센터에 직접 신청할 수 있습니다. 현재 로이 랑 센터는 기본적인 건강 평가를 제공하고 일반 가정용 의약품을 제공합니다. 센터에는 11명의 마을 보건 자원봉사자와 추가 자원봉사자 1명이 근무하며, 지역 사회에서 약 15가구당 1명의 자원봉사자를 담당합니다. 수요일과 목요일 오전 9시부터 12시까지 서비스를 제공하며, 수요일 세션은 센터 자체에서, 목요일 방문은 환자를 확인하기 위해 주민의 집에서 직접 진행됩니다.\n\n비어 시장(태국 별명)은 지역 사회 기반 자원봉사자들이 접근 가능한 1차 진료를 제공하고 풀뿌리 수준에서 공중 보건 이니셔티브를 지원하는 데 있어 중요한 역할을 한다고 설명했습니다. 이번 모집 운동은 서비스 제공을 강화하고 대응력을 높이며 고령화된 자원봉사 인력이 직면한 현재의 운영 제약을 극복하기 위한 광범위한 노력의 일환입니다. 주민과 관심 있는 분들은",
       "category": "TRAVEL",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 없지만, 파타야 지역의 의료 서비스 관련 정보를 제공하여 여행 중 발생할 수 있는 건강 관련 문제에 대한 인식을 높일 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "Roi Lang Community Basic Public Health Center",
-        "price": "무료",
-        "location_google_map_query": "Roi Lang Community Basic Public Health Center, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Roi Lang Community Basic Public Health Center', 'price': '무료', 'location_google_map_query': 'Roi Lang Community Basic Public Health Center, Pattaya'}",
       "references": [
         {
           "title": "Pattaya Mayor Visits Community Health Volunteers in Roi Lang, Calls for New Volunteers to Boost Public Health Efforts",
@@ -21276,23 +21262,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714194728065941707311274087082.jpg?v=1771419546"
         }
       ],
-      "collected_at": "03:29",
+      "collected_at": "3:29",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714194728065941707311274087082.jpg?v=1771419546",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://thepattayanews.com/2026/02/18/pattaya-mayor-visits-community-health-volunteers-in-roi-lang-calls-for-new-volunteers-to-boost-public-health-efforts/",
+      "source": ""
     },
     {
       "title": "파타야 시장, Laem Ratchawet 지역 사회 보건 자원봉사 활동 현장 방문",
       "summary": "- 파타야 시장이 지역 사회 보건 자원봉사자들의 활동을 점검하고 애로사항을 청취함.\n- Laem Ratchawet 센터에는 7명의 자원봉사자가 활동하며, 환자 이송에 어려움을 겪고 있음.\n- 파타야 시는 응급 상황 발생 시 병원과 협력하여 환자 이송을 지원하고, 32개의 보건 센터를 운영 중임.",
       "full_translated": "파타야 시장은 Laem Ratchawet 지역 사회 보건 자원봉사자들의 활동을 지속적으로 점검하기 위해 현장 방문을 이어갔습니다. 이번 방문은 자원봉사자들의 성과를 평가하고, 피드백을 듣고, 지역 사회에 기본적인 의료 서비스를 제공하는 데 있어 직면하는 어려움이나 장애물을 파악하기 위한 것입니다. 팀과의 논의 과정에서 Laem Ratchawet 센터에는 현재 해당 지역 주민들을 돌보는 7명의 활동적인 보건 자원봉사자들이 있다는 사실이 밝혀졌습니다. 제기된 문제 중 하나는 거동이 불편한 환자를 치료를 위해 병원으로 이송하는 데 어려움이 있다는 것입니다. 많은 피해 가정들이 재정적인 어려움을 겪고 있으며 환자 이송에 적합한 차량이 부족하여 자원봉사자들은 응급 상황 및 필요한 경우를 위해 구급차 또는 전용 이송 차량 형태의 지원을 요청했습니다. 이에 파타야 시 공중 보건 사무소는 즉시 파타야 시립 병원과 협력하여 긴급 상황 발생 시 구급차를 이용할 수 있도록 조치하고 필요한 경우 환자 이동에 적절한 지원을 제공하기로 했습니다. 파타야 시는 관할 구역 전체에 걸쳐 총 32개의 1차 보건 센터를 운영하고 있습니다. 이러한 시설은 초기 건강 평가, 건강 상담, 증상에 따른 일반 가정용 의약품 제공, 거동이 불편한 환자를 모니터링하기 위한 주간 가정 방문 등 필수 서비스를 제공합니다. 또한 센터는 지역 사회 구성원의 삶의 질을 향상시키기 위해 가족들에게 지속적인 상담을 제공합니다. Beer라는 태국어 별명을 가진 시장은 또한 최전선에서 활동하는 이러한 자원봉사자들에 대한 지원을 강화하는 것의 중요성에 대해 이야기했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야 지역 사회 보건 서비스에 대한 정보로, 여행객에게 직접적인 영향은 적으나 지역 사회의 안전 및 복지 수준을 간접적으로 보여줌. 아침 브리핑에 포함하기에는 우선순위가 낮음.",
-      "event_info": {
-        "date": null,
-        "location": "Laem Ratchawet, Pattaya",
-        "price": null,
-        "location_google_map_query": "Laem Ratchawet Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Laem Ratchawet, Pattaya', 'price': None, 'location_google_map_query': 'Laem Ratchawet Pattaya'}",
       "references": [
         {
           "title": "Pattaya Mayor Continues Field Visits to Monitor Community Health Volunteers Work at Laem Ratchawet",
@@ -21301,8 +21284,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714189269317563815082010570440.jpg?v=1771418970"
         }
       ],
-      "collected_at": "03:29",
+      "collected_at": "3:29",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714189269317563815082010570440.jpg?v=1771418970",
+      "date": "2026-02-19",
+      "link": "https://thepattayanews.com/2026/02/18/pattaya-mayor-continues-field-visits-to-monitor-community-health-volunteers-work-at-laem-ratchawet/",
+      "source": ""
+    },
+    {
+      "title": "태국, 60일 무비자 정책 재검토…불법 행위 악용 사례 증가",
+      "summary": "- 태국 정부가 60일 무비자 입국 정책을 재검토 중. 관광 활성화 목적으로 시행되었으나, 일부 외국인들의 불법 활동 악용 사례 증가.",
+      "full_translated": "태국 외무부 장관은 93개 국가 및 지역 국민에게 관광, 단기 사업 등의 목적으로 비자 없이 60일 동안 태국에 입국할 수 있도록 허용하는 정책이 우려되는 시민들의 불만으로 이어졌다고 태국 언론에 밝혔습니다. 보고서에 따르면 일부 외국인들이 허가받지 않은 취업, 사기 또는 현지 주민 착취를 포함한 불법 활동에 장기 체류를 악용하거나, 다른 외국인들은 태국을 인접 국가의 범죄 활동을 위한 경유지로 사용했습니다. 이러한 문제들은 국가 안보, 경제적 영향, 그리고 태국의 국제적 이미지에 대한 경각심을 불러일으켰습니다. 비자 면제 제도는 이전의 제한 조치 이후 관광을 활성화하고 경제 회복을 촉진하기 위한 광범위한 노력의 일환으로 2024년 중반(2024년 7월 15일부터 시행)부터 60일로 확대 및 연장되었습니다. 이는 이전의 임시 조치를 기반으로 구축되었으며 입국 절차를 간소화하여 더 많은 방문객을 유치하기 위해 고안되었지만, 현재 해임된 전 총리인 스레타 타비신에 의해 마련되었습니다. 그 이후 캄보디아와의 국경 분쟁과 부미자이타이의 증가하는 힘과 인기가 태국의 지형을 극적으로 변화시켰습니다. 또한 시행 이후 당국은 남용을 허용하는 허점을 발견했습니다. 이에 대응하여 아누틴 찬위라쿨 총리는 비자 정책을 포괄적으로 재평가하기 위한 전담 위원회를 구성했습니다. 장관은 이러한 검토의 목표가 문제를 해결하면서 관광 부문에 미치는 영향을 최소화하는 것이라고 강조했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 정책 변경 가능성을 알리는 것은 여행 계획에 차질이 없도록 돕는 정보임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai Foreign Minister Confirms That 60 Day Visa Free Entry Policy For Tourists is Under Review For Potential Reduction",
+          "url": "https://thepattayanews.com/2026/02/18/thai-foreign-minister-confirms-that-60-day-visa-free-entry-policy-for-tourists-is-under-review-for-potential-reduction/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771345641709.jpg?v=1771413788"
+        }
+      ],
+      "collected_at": "04:05",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771345641709.jpg?v=1771413788",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "파타야 인근 무장 도주범, 파툼타니에서 검거…학교 휴교 소동",
+      "summary": "- 파타야 인근에서 총격 사건을 일으킨 무장 용의자가 파툼타니에서 검거됨.\n- 경찰은 만일의 사태에 대비하여 해당 지역 학교에 휴교령을 내렸음.\n- 용의자는 가족 간 갈등으로 범행을 저지른 것으로 보이며, 학교를 직접 위협한 증거는 없음.",
+      "full_translated": "파타야 뉴스에 따르면, 교육부는 공공 안전을 확보하기 위한 예방 조치로 오늘 아침 일찍 비상 조치를 발표하여 수천 명의 학생과 교직원에게 영향을 미쳤습니다. 경찰은 학생들을 직접적으로 위협하는 보고는 확인되지 않았지만, 용의자의 불안정한 행동에 대한 확인되지 않은 소셜 미디어 게시물과 지역 소문으로 인해 휴교령이 내려졌습니다. 랏룸깨오 경찰서 관계자는 오늘 발표한 성명에서 “동기는 가족 간 갈등에서 비롯된 것으로 보이며, 학교를 표적으로 삼은 위협에 대한 증거는 없다”고 밝혔습니다. 그럼에도 불구하고 파툼타니 지방 경찰을 포함한 지역 당국은 해당 지역과 주변 지역을 수색하기 위해 팀을 동원했습니다. \n\n젠토의 문제는 며칠 전 촌부리 지방, 파타야 근처에서 시작되었는데, 그는 방콕-라용 고속도로에서 난폭 운전으로 인해 고속도로 구조 차량에 총을 쏜 혐의를 받고 있습니다. 파타야 뉴스의 보도에 따르면, 이 사건은 2026년 2월 15일 늦은 밤 방콕-라용 고속도로 파타야 인근에서 발생했습니다. 트럭을 운전하던 젠토는 여자 친구 또는 아내로 추정되는 여성 승객과 말다툼을 벌이던 중 위험하게 주차했습니다. 구조대원들이 그에게 차를 옮기고 진정하라고 조언하자 그는 구조 차량을 쫓아가 두 번 총을 쏴 차량 후미를 맞혔다고 합니다. 그는 여성과 함께 인근 숲으로 도망쳐 즉시 체포를 모면하고 촌부리 지역에서 초기 수색을 촉발했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "무장 도주범 발생 및 검거로 인한 치안 불안 및 학교 휴교령. 여행객 안전에 잠재적 영향.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "파툼타니",
+        "price": null,
+        "location_google_map_query": "파툼타니"
+      },
+      "references": [
+        {
+          "title": "Armed Fugitive From Near Pattaya Surrenders After Day of Manhunts and School Closings in Pathum Thani",
+          "url": "https://thepattayanews.com/2026/02/18/20-schools-in-pathum-thani-shut-down-today-as-manhunt-intensifies-for-armed-fugitive-from-near-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17711850042765258275718686355560.jpg?v=1771185095"
+        }
+      ],
+      "collected_at": "04:05",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17711850042765258275718686355560.jpg?v=1771185095",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국, 2026년 초 500만 명 이상의 관광객 유치 예상 – 중국 시장 회복세",
+      "summary": "- 태국이 2026년 초까지 500만 명 이상의 관광객을 유치할 것으로 예상됨.\n- 중국 시장의 회복이 주요 동력으로 작용하고 있음.\n- 관광 산업 활성화를 위한 다양한 정책 및 프로모션이 진행될 예정임.",
+      "full_translated": "태국은 2026년 초까지 500만 명 이상의 관광객을 맞이할 것으로 예상되며, 중국 시장의 회복이 주요 동력으로 작용하고 있습니다. 관광 산업 활성화를 위해 다양한 정책과 프로모션이 진행될 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업의 회복세는 긍정적이지만, 현재 시점에서는 일반적인 정보로 간주. 핫플이나 특별한 프로모션 정보가 없어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand welcomes over five million tourists in early 2026 as Chinese market powers recovery - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGlpdHFoZ19xRHRBT1lxdnBGeHMzZF84WjBMdWZGVmZqbV9qQ19nWGNQUjJ3aEktNjlaYVFyRDdnUDVud1pBVUNvSHU4bUdoMkVWNGx0S3BGN1I5WC1EdVZfX0FpS3JjRGVTMGI2ZENhNnk3WEhWRlV4eWsyUE43UlYtWENWMk0yZHpPQXY4WUhvUEc2SXl6TG9hUnphU3h3WHR0R1Y2Z1FUWDllazRuaXhTQXlvTFcyYU5FRDNaZU1PZmNUNzFRd2EycXNpMGwzNjFDYmxOOA?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:05",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 관광 붐, 장기 체류 방문객 신뢰 상실로 파타야 경제 위협",
+      "summary": "- 태국 관광 산업은 붐을 이루고 있지만, 장기 체류 방문객들의 신뢰 상실로 파타야 경제가 위협받고 있음.\n- 이는 여행 경험에도 영향을 미칠 수 있는 새로운 업데이트임.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "태국의 관광 붐은 장기 체류 방문객의 신뢰 상실로 파타야 경제와 여행 경험을 위협하는 숨겨진 어려움을 감추고 있습니다. - 새로운 업데이트 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야 경제에 대한 잠재적 영향과 여행 경험에 대한 언급이 있어 여행자에게 중간 정도의 영향을 미칠 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Boom Masks Hidden Struggles as Long-Stay Visitors Lose Confidence Threatening Pattaya’s Economy and Your Travel Experience – New Update - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeFpLN2hzMW5mb3NnQVoxRUxfM2MwdmlyVzNmU0NlOTRTa3Y3bzEybFB4cnB3NmNKWmNEaTFBbFhyY25tMi1uS0pLUDQxZFZsVVA2MXhRbFE2WkpPMk9GdTdQbURYS0lmYVhQOENYVjR1TnloTGZoWkZaZG92bFd2US1DZWpnR2FBS0RxbXBTQnlGX3N6MC1qSnZMTFhUQkZWWnhEZER1R002RGF3OWt4MWtaSW8tdHZBWlJDRnF3Q1FLcmxldklZYjR6SlI2ZHluLXJfZU9WV0JWa3pUeUstZEViWUhqa25hZVdFVnplT2RQMjhSYzN0Nzk4ODZvQU5XLUFnd05YQ0ZUQ2FobFg0U052VGRSaVN2dlpQS1dwVEV0RERWdWc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:05",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "아누틴 총리, 무슬림에게 라마단 축복 기원",
+      "summary": "- 아누틴 총리가 무슬림에게 라마단 축복을 기원하는 메시지를 발표했습니다.\n- 총리는 무슬림들이 라마단 기간 동안 신앙심과 인내심을 시험하고 나눔을 실천하며 마음을 정화할 것이라고 언급했습니다.\n- 그는 무슬림들이 알라의 가르침을 따르고 평화로운 사회를 건설하는 데 기여할 것이라고 믿는다고 덧붙였습니다.",
+      "full_translated": "아누틴 총리가 라마단 달을 맞아 태국 무슬림들에게 축복을 기원했습니다. 2026년 2월 18일 20시, 아누틴 찬위라꾼 총리 겸 내무부 장관은 2026년(히즈라력 1447년) 라마단 달을 맞아 다음과 같이 말했습니다. \n\n사랑하는 태국 무슬림 형제자매 여러분, 라마단 달을 맞아 정부를 대표하여 진심으로 축하를 드립니다. 라마단 달은 신앙심과 인내심을 시험하는 달이며, 나눔을 실천하고 마음을 정화하는 시기입니다. 이는 모든 무슬림에게 소중한 시간입니다. 이러한 아름다운 가치는 서로 돕고 보살피며 평화롭게 공존하는 사회를 건설하는 데 중요한 기반이 됩니다. 또한 신앙심으로 알라께서 무슬림 형제자매에게 주신 코란을 기억하고, 그 가르침을 삶에서 따르는 훌륭한 기회입니다.\n\n이 뜻깊은 시기에 저는 전능하신 알라께서 태국 무슬림 형제자매 여러분에게 자비와 기쁨, 건강을 베풀어주시기를 기원합니다. 그리하여 종교적 의무를 완수하고 소망을 이루어 자신과 가족, 국가의 행복과 번영을 이루어 나갈 수 있기를 바랍니다. 모든 분에게 평화와 안녕이 함께하기를.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 무슬림 문화 관련 소식으로, 여행객에게 직접적인 영향은 적으나 문화 이해에 도움을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกฯ อนุทิน อวยพรชาวไทยมุสลิม ขอองค์พระอัลเลาะห์อำนวยพรในเดือนรอมฎอน",
+          "url": "https://www.thairath.co.th/news/politic/2915058",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXFzLXQNXvys.jpg"
+        }
+      ],
+      "collected_at": "04:05",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXFzLXQNXvys.jpg",
       "date": "2026-02-19"
     }
   ]
