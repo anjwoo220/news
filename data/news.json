@@ -21295,14 +21295,9 @@
       "summary": "- 태국 정부가 60일 무비자 입국 정책을 재검토 중. 관광 활성화 목적으로 시행되었으나, 일부 외국인들의 불법 활동 악용 사례 증가.",
       "full_translated": "태국 외무부 장관은 93개 국가 및 지역 국민에게 관광, 단기 사업 등의 목적으로 비자 없이 60일 동안 태국에 입국할 수 있도록 허용하는 정책이 우려되는 시민들의 불만으로 이어졌다고 태국 언론에 밝혔습니다. 보고서에 따르면 일부 외국인들이 허가받지 않은 취업, 사기 또는 현지 주민 착취를 포함한 불법 활동에 장기 체류를 악용하거나, 다른 외국인들은 태국을 인접 국가의 범죄 활동을 위한 경유지로 사용했습니다. 이러한 문제들은 국가 안보, 경제적 영향, 그리고 태국의 국제적 이미지에 대한 경각심을 불러일으켰습니다. 비자 면제 제도는 이전의 제한 조치 이후 관광을 활성화하고 경제 회복을 촉진하기 위한 광범위한 노력의 일환으로 2024년 중반(2024년 7월 15일부터 시행)부터 60일로 확대 및 연장되었습니다. 이는 이전의 임시 조치를 기반으로 구축되었으며 입국 절차를 간소화하여 더 많은 방문객을 유치하기 위해 고안되었지만, 현재 해임된 전 총리인 스레타 타비신에 의해 마련되었습니다. 그 이후 캄보디아와의 국경 분쟁과 부미자이타이의 증가하는 힘과 인기가 태국의 지형을 극적으로 변화시켰습니다. 또한 시행 이후 당국은 남용을 허용하는 허점을 발견했습니다. 이에 대응하여 아누틴 찬위라쿨 총리는 비자 정책을 포괄적으로 재평가하기 위한 전담 위원회를 구성했습니다. 장관은 이러한 검토의 목표가 문제를 해결하면서 관광 부문에 미치는 영향을 최소화하는 것이라고 강조했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 정책 변경 가능성을 알리는 것은 여행 계획에 차질이 없도록 돕는 정보임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai Foreign Minister Confirms That 60 Day Visa Free Entry Policy For Tourists is Under Review For Potential Reduction",
@@ -21311,23 +21306,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771345641709.jpg?v=1771413788"
         }
       ],
-      "collected_at": "04:05",
+      "collected_at": "4:05",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771345641709.jpg?v=1771413788",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://thepattayanews.com/2026/02/18/thai-foreign-minister-confirms-that-60-day-visa-free-entry-policy-for-tourists-is-under-review-for-potential-reduction/",
+      "source": ""
     },
     {
       "title": "파타야 인근 무장 도주범, 파툼타니에서 검거…학교 휴교 소동",
       "summary": "- 파타야 인근에서 총격 사건을 일으킨 무장 용의자가 파툼타니에서 검거됨.\n- 경찰은 만일의 사태에 대비하여 해당 지역 학교에 휴교령을 내렸음.\n- 용의자는 가족 간 갈등으로 범행을 저지른 것으로 보이며, 학교를 직접 위협한 증거는 없음.",
       "full_translated": "파타야 뉴스에 따르면, 교육부는 공공 안전을 확보하기 위한 예방 조치로 오늘 아침 일찍 비상 조치를 발표하여 수천 명의 학생과 교직원에게 영향을 미쳤습니다. 경찰은 학생들을 직접적으로 위협하는 보고는 확인되지 않았지만, 용의자의 불안정한 행동에 대한 확인되지 않은 소셜 미디어 게시물과 지역 소문으로 인해 휴교령이 내려졌습니다. 랏룸깨오 경찰서 관계자는 오늘 발표한 성명에서 “동기는 가족 간 갈등에서 비롯된 것으로 보이며, 학교를 표적으로 삼은 위협에 대한 증거는 없다”고 밝혔습니다. 그럼에도 불구하고 파툼타니 지방 경찰을 포함한 지역 당국은 해당 지역과 주변 지역을 수색하기 위해 팀을 동원했습니다. \n\n젠토의 문제는 며칠 전 촌부리 지방, 파타야 근처에서 시작되었는데, 그는 방콕-라용 고속도로에서 난폭 운전으로 인해 고속도로 구조 차량에 총을 쏜 혐의를 받고 있습니다. 파타야 뉴스의 보도에 따르면, 이 사건은 2026년 2월 15일 늦은 밤 방콕-라용 고속도로 파타야 인근에서 발생했습니다. 트럭을 운전하던 젠토는 여자 친구 또는 아내로 추정되는 여성 승객과 말다툼을 벌이던 중 위험하게 주차했습니다. 구조대원들이 그에게 차를 옮기고 진정하라고 조언하자 그는 구조 차량을 쫓아가 두 번 총을 쏴 차량 후미를 맞혔다고 합니다. 그는 여성과 함께 인근 숲으로 도망쳐 즉시 체포를 모면하고 촌부리 지역에서 초기 수색을 촉발했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "무장 도주범 발생 및 검거로 인한 치안 불안 및 학교 휴교령. 여행객 안전에 잠재적 영향.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "파툼타니",
-        "price": null,
-        "location_google_map_query": "파툼타니"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': '파툼타니', 'price': None, 'location_google_map_query': '파툼타니'}",
       "references": [
         {
           "title": "Armed Fugitive From Near Pattaya Surrenders After Day of Manhunts and School Closings in Pathum Thani",
@@ -21336,23 +21328,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17711850042765258275718686355560.jpg?v=1771185095"
         }
       ],
-      "collected_at": "04:05",
+      "collected_at": "4:05",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17711850042765258275718686355560.jpg?v=1771185095",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://thepattayanews.com/2026/02/18/20-schools-in-pathum-thani-shut-down-today-as-manhunt-intensifies-for-armed-fugitive-from-near-pattaya/",
+      "source": ""
     },
     {
       "title": "태국, 2026년 초 500만 명 이상의 관광객 유치 예상 – 중국 시장 회복세",
       "summary": "- 태국이 2026년 초까지 500만 명 이상의 관광객을 유치할 것으로 예상됨.\n- 중국 시장의 회복이 주요 동력으로 작용하고 있음.\n- 관광 산업 활성화를 위한 다양한 정책 및 프로모션이 진행될 예정임.",
       "full_translated": "태국은 2026년 초까지 500만 명 이상의 관광객을 맞이할 것으로 예상되며, 중국 시장의 회복이 주요 동력으로 작용하고 있습니다. 관광 산업 활성화를 위해 다양한 정책과 프로모션이 진행될 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업의 회복세는 긍정적이지만, 현재 시점에서는 일반적인 정보로 간주. 핫플이나 특별한 프로모션 정보가 없어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand welcomes over five million tourists in early 2026 as Chinese market powers recovery - Pattaya Mail",
@@ -21361,23 +21350,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:05",
+      "collected_at": "4:05",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTGlpdHFoZ19xRHRBT1lxdnBGeHMzZF84WjBMdWZGVmZqbV9qQ19nWGNQUjJ3aEktNjlaYVFyRDdnUDVud1pBVUNvSHU4bUdoMkVWNGx0S3BGN1I5WC1EdVZfX0FpS3JjRGVTMGI2ZENhNnk3WEhWRlV4eWsyUE43UlYtWENWMk0yZHpPQXY4WUhvUEc2SXl6TG9hUnphU3h3WHR0R1Y2Z1FUWDllazRuaXhTQXlvTFcyYU5FRDNaZU1PZmNUNzFRd2EycXNpMGwzNjFDYmxOOA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 붐, 장기 체류 방문객 신뢰 상실로 파타야 경제 위협",
       "summary": "- 태국 관광 산업은 붐을 이루고 있지만, 장기 체류 방문객들의 신뢰 상실로 파타야 경제가 위협받고 있음.\n- 이는 여행 경험에도 영향을 미칠 수 있는 새로운 업데이트임.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "태국의 관광 붐은 장기 체류 방문객의 신뢰 상실로 파타야 경제와 여행 경험을 위협하는 숨겨진 어려움을 감추고 있습니다. - 새로운 업데이트 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 경제에 대한 잠재적 영향과 여행 경험에 대한 언급이 있어 여행자에게 중간 정도의 영향을 미칠 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand’s Tourism Boom Masks Hidden Struggles as Long-Stay Visitors Lose Confidence Threatening Pattaya’s Economy and Your Travel Experience – New Update - Travel And Tour World",
@@ -21386,23 +21372,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:05",
+      "collected_at": "4:05",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNeFpLN2hzMW5mb3NnQVoxRUxfM2MwdmlyVzNmU0NlOTRTa3Y3bzEybFB4cnB3NmNKWmNEaTFBbFhyY25tMi1uS0pLUDQxZFZsVVA2MXhRbFE2WkpPMk9GdTdQbURYS0lmYVhQOENYVjR1TnloTGZoWkZaZG92bFd2US1DZWpnR2FBS0RxbXBTQnlGX3N6MC1qSnZMTFhUQkZWWnhEZER1R002RGF3OWt4MWtaSW8tdHZBWlJDRnF3Q1FLcmxldklZYjR6SlI2ZHluLXJfZU9WV0JWa3pUeUstZEViWUhqa25hZVdFVnplT2RQMjhSYzN0Nzk4ODZvQU5XLUFnd05YQ0ZUQ2FobFg0U052VGRSaVN2dlpQS1dwVEV0RERWdWc?oc=5",
+      "source": ""
     },
     {
       "title": "아누틴 총리, 무슬림에게 라마단 축복 기원",
       "summary": "- 아누틴 총리가 무슬림에게 라마단 축복을 기원하는 메시지를 발표했습니다.\n- 총리는 무슬림들이 라마단 기간 동안 신앙심과 인내심을 시험하고 나눔을 실천하며 마음을 정화할 것이라고 언급했습니다.\n- 그는 무슬림들이 알라의 가르침을 따르고 평화로운 사회를 건설하는 데 기여할 것이라고 믿는다고 덧붙였습니다.",
       "full_translated": "아누틴 총리가 라마단 달을 맞아 태국 무슬림들에게 축복을 기원했습니다. 2026년 2월 18일 20시, 아누틴 찬위라꾼 총리 겸 내무부 장관은 2026년(히즈라력 1447년) 라마단 달을 맞아 다음과 같이 말했습니다. \n\n사랑하는 태국 무슬림 형제자매 여러분, 라마단 달을 맞아 정부를 대표하여 진심으로 축하를 드립니다. 라마단 달은 신앙심과 인내심을 시험하는 달이며, 나눔을 실천하고 마음을 정화하는 시기입니다. 이는 모든 무슬림에게 소중한 시간입니다. 이러한 아름다운 가치는 서로 돕고 보살피며 평화롭게 공존하는 사회를 건설하는 데 중요한 기반이 됩니다. 또한 신앙심으로 알라께서 무슬림 형제자매에게 주신 코란을 기억하고, 그 가르침을 삶에서 따르는 훌륭한 기회입니다.\n\n이 뜻깊은 시기에 저는 전능하신 알라께서 태국 무슬림 형제자매 여러분에게 자비와 기쁨, 건강을 베풀어주시기를 기원합니다. 그리하여 종교적 의무를 완수하고 소망을 이루어 자신과 가족, 국가의 행복과 번영을 이루어 나갈 수 있기를 바랍니다. 모든 분에게 평화와 안녕이 함께하기를.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 무슬림 문화 관련 소식으로, 여행객에게 직접적인 영향은 적으나 문화 이해에 도움을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "นายกฯ อนุทิน อวยพรชาวไทยมุสลิม ขอองค์พระอัลเลาะห์อำนวยพรในเดือนรอมฎอน",
@@ -21411,8 +21394,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXFzLXQNXvys.jpg"
         }
       ],
-      "collected_at": "04:05",
+      "collected_at": "4:05",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXFzLXQNXvys.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915058",
+      "source": ""
+    },
+    {
+      "title": "미국 항공사, 세계에서 가장 많이 방문하는 도시에 직항편을 여전히 기피하는 이유는?",
+      "summary": "- Aviation A2Z에 따르면 미국 항공사들은 여전히 세계에서 가장 많이 방문하는 도시로의 직항편을 기피하고 있습니다.\n- 구체적인 이유는 밝혀지지 않았지만, 여러 요인이 복합적으로 작용하는 것으로 보입니다.\n- 이는 태국 방콕을 방문하려는 여행객들에게 불편을 초래할 수 있습니다.",
+      "full_translated": "미국 항공사, 세계에서 가장 많이 방문하는 도시에 직항편을 여전히 기피하는 이유는?\nAviation A2Z",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕 여행객들의 항공편 선택에 영향을 줄 수 있으므로 관련 정보 제공. 직항편 부재는 여행 편의성에 영향을 미침.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "US Airlines Still Avoid Non-Stop Flights to Most Visited City in the World, Why? - Aviation A2Z",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVXJrd1ZvclBnd0pPR25peDM4MWxvZUZBY3Vtd3hXVk9IQ1IwWHY3eTA0REJlNldNRDVjTTZZVEdMcjg1TDV2NVRiR25fc3JjeGJYQWZLWUFoWVdQckVYcFpZQkQxU2VfOERDLXYxVm1jYjJ6Ylk2c2d3elJ1Q2hQLXY4YlJicXlTMTFCRUE1Nko3elMxajVEZDBXQUhPRm8?oc=5",
+          "source": "Aviation A2Z",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국, 대규모 관광 재개 - eTurboNews",
+      "summary": "- 태국이 대규모 관광을 재개합니다.\n- 자세한 내용은 eTurboNews에서 확인할 수 있습니다.",
+      "full_translated": "태국이 대규모 관광을 재개합니다. eTurboNews",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 재개에 대한 일반적인 정보 제공. 새로운 핫플 정보나 특별한 이벤트 정보는 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Return to Mass Tourism - eTurboNews",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9lMTA5eXZyY2J2UlQ1RVFLdmpHYlNBTTY3Wk1VVDR4VTZyN1F6cDZsWGFKTEF0eGVRTG9aTC1NbG1mZ3RWeFVfcXd3SGtmUG5xY05PM3lsbElMSV85Wi1fc0tXRFVnUQ?oc=5",
+          "source": "eTurboNews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국, 춘절 연휴 맞아 중국인 관광객 유치",
+      "summary": "- 태국이 춘절 연휴 기간 동안 중국인 관광객 유치에 적극적으로 나서고 있습니다.\n- 이는 태국 관광 산업 회복에 중요한 계기가 될 것으로 기대됩니다.\n- 자세한 내용은 NHK 웹사이트에서 확인할 수 있습니다.",
+      "full_translated": "태국이 춘절 연휴를 맞아 중국인 관광객을 유치하고 있습니다. 자세한 내용은 NHK 웹사이트에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "춘절 기간 태국 방문을 고려하는 여행객에게 유용한 정보이며, 태국 관광 산업 관련 내용이 포함되어 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand draws Chinese tourists for Lunar New Year holiday - nhk.or.jp",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9CN25YakN1WDR4STY3M0QxMHJMb2VZM3dkUl9TeUVQbVk1WTVxYjlFemJNb2dpVy1URHkzQWFrcEc5Z0loVnBuWWswRkhTQmkwVTZLTWJKaS1HZHI4d2hWSll3?oc=5",
+          "source": "nhk.or.jp",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "블랙핑크 리사 효과, 태국 '레드 로터스 씨' 관광객 급증",
+      "summary": "- 블랙핑크 리사의 입소문 마케팅 효과로 태국 '레드 로터스 씨'의 관광객이 급증했습니다.\n- 유명인의 영향력이 지역 관광 활성화에 미치는 긍정적인 사례입니다.\n- 새로운 핫플레이스 정보로 여행객에게 유용할 수 있습니다.",
+      "full_translated": "블랙핑크 리사의 입소문 마케팅으로 태국 '레드 로터스 씨'의 관광객이 급증했습니다. AOL.com",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "유명인의 입소문 효과로 새로운 관광 명소에 대한 관심이 증가하고 있어 여행 정보로서의 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "레드 로터스 씨 (Red Lotus Sea), 태국",
+        "price": null,
+        "location_google_map_query": "Red Lotus Sea, Thailand"
+      },
+      "references": [
+        {
+          "title": "Viral endorsement from Blackpink star Lisa sees tourism spike at Thailand’s ‘Red Lotus Sea’ - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa1l4VnFXQTRsT3laN1M2T2g1c0FoS1lhamRoREMwS0Y5aW0xUGVma3FNWUF2M010bW02VG15dUE0QnItaUxha3NvQjBMOFVLMXRVbmFHSDB2SWY4dzZzTGJ5ekxTby1zM2t6UTVjZ29WMVpKS2gxMnJicjdEbFV1bU10OFBVNURH?oc=5",
+          "source": "AOL.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "국민당, 회원 가입 페이지에서 레이저 ID 입력 불필요하도록 변경",
+      "summary": "- 국민당은 회원 가입 시 레이저 ID 입력 요구가 법률 위반 소지가 있다는 논란에 대응.\n- 당은 과거 미래전진당과 전진당이 개인 정보 이용 허가를 받았었다고 주장.\n- 현재 스마트 카드 정보 판독 및 디지털 신원 확인 시스템 사용 허가만 남은 상태.",
+      "full_translated": "국민당은 회원 가입 과정에서 레이저 ID 입력을 요구하는 것이 법률을 위반할 수 있다는 논란에 대해 해명했습니다. 당은 과거 미래전진당과 전진당이 개인 정보 이용 허가를 받았었다고 주장하며, 현재 스마트 카드 정보 판독 및 디지털 신원 확인 시스템 사용 허가만 남은 상태라고 밝혔습니다. 당은 회원 가입 페이지를 수정하여 더 이상 레이저 ID를 입력하지 않아도 되도록 변경했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 논쟁에 관한 기사로, 여행객에게 직접적인 영향은 적으나 향후 정당 활동 변화에 따라 정책 변화 가능성 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "พรรคประชาชน ปรับหน้าเพจสำหรับสมัครสมาชิกไม่ให้กรอก Laser ID แล้ว",
+          "url": "https://www.thairath.co.th/news/politic/2915055",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXiq8MG03NFW.jpg"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXiq8MG03NFW.jpg",
       "date": "2026-02-19"
     }
   ]
