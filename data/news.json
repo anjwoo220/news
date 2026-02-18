@@ -21625,14 +21625,9 @@
       "summary": "- 춘절 수요로 항공편 증편, 승객 수 코로나 이후 최고치 기록\n- 2월 16~22일 중국, 대만 주요 노선 항공편 69편 증편\n- 하루 승객 36,554명으로 팬데믹 이후 최고 수준",
       "full_translated": "치앙마이 국제공항은 춘절 수요를 맞이하여 항공사들이 69편의 추가 항공편과 전세기를 투입함에 따라 승객 수가 코로나 이후 최고치를 기록했습니다. Karan Thanakuljeerapat 공항장은 2월 16일부터 22일까지 상하이, 쿤밍, 광저우, 시안, 타이페이, 타이중 등 중국과 대만 주요 노선에 항공편을 증편했다고 밝혔습니다. 2월 한 달 동안 이 노선의 항공편 수는 180편 증가했으며, 이는 치앙마이 관광 잠재력에 대한 항공사들의 자신감과 중국인 방문객의 강력한 복귀를 반영합니다. 2월 12일, 공항은 하루 동안 36,554명의 승객을 처리했는데, 이는 팬데믹 이후 항공 여행 회복이 시작된 이후 가장 높은 수준입니다. 현재 공항은 태국 북부의 항공 허브이자 주요 국제 관문으로서의 역할을 강조하며 11개의 국내선과 22개의 국제선을 운항하고 있습니다. 공항 관계자들은 방문객 경험을 향상시키기 위해 인력을 늘리고 보안 조치를 강화하는 한편, 터미널을 축제 분위기로 장식했습니다. Karan 씨는 중국인 도착 증가는 치앙마이의 소득, 고용 및 광범위한 비즈니스 활동을 지원하고 있으며, 지속적인 성장을 수용하기 위해 추가 시설 개선이 계획되어 있다고 말했습니다. 한편, 홍수로 피해를 입은 핫야이 지역에서는 춘절 축제가 열렸습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "공항 혼잡도 정보는 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. Lunar New Year 기간 동안의 상황 업데이트이므로 중요.",
-      "event_info": {
-        "date": "2026-02-19",
-        "location": "Chiang Mai International Airport",
-        "price": null,
-        "location_google_map_query": "Chiang Mai International Airport"
-      },
+      "event_info": "{'date': '2026-02-19', 'location': 'Chiang Mai International Airport', 'price': None, 'location_google_map_query': 'Chiang Mai International Airport'}",
       "references": [
         {
           "title": "Chiang Mai airport sees traffic spike",
@@ -21641,23 +21636,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200280_260219051446_700.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200280_260219051446_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/general/3200280/chiang-mai-airport-sees-traffic-spike",
+      "source": ""
     },
     {
       "title": "미국 캘리포니아 스키장 실종자 8명 사망, 1명 여전히 실종",
       "summary": "- 캘리포니아주 산악지대에서 발생한 눈사태로 실종된 스키어 9명 중 8명의 시신이 발견됨.\n- 나머지 1명은 여전히 실종 상태이며, 악천후로 수색에 어려움을 겪고 있음.\n- 사고는 시에라네바다 산맥의 타호 호수 인근 캐슬 피크에서 발생했으며, 구조대원 40여 명이 수색에 참여함.",
       "full_translated": "미국 경찰은 캘리포니아주 산악 지역에서 눈사태로 실종된 스키어 9명 중 8명의 시신을 발견했다고 발표했습니다. 나머지 1명은 여전히 실종 상태이며, 악천후로 인해 수색 작업에 어려움을 겪고 있습니다. 사고는 지난 화요일 캐슬 피크에서 발생했으며, 구조대원 40명 이상이 수색에 참여했습니다. 생존자 6명이 발견되었으며, 이 중 2명은 병원으로 이송되었습니다. 당국은 실종된 마지막 1명을 찾기 위해 최선을 다하고 있지만, 폭풍으로 인해 수색 작업이 매우 어렵다고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전 관련 사고 발생. 태국은 아니지만, 겨울철 산악 액티비티에 대한 안전 경각심을 일깨울 수 있음.",
-      "event_info": {
-        "date": "2069-02-17",
-        "location": "미국 캘리포니아, 타호 호수 인근 캐슬 피크",
-        "price": null,
-        "location_google_map_query": "캐슬 피크, 타호 호수, 캘리포니아"
-      },
+      "event_info": "{'date': '2069-02-17', 'location': '미국 캘리포니아, 타호 호수 인근 캐슬 피크', 'price': None, 'location_google_map_query': '캐슬 피크, 타호 호수, 캘리포니아'}",
       "references": [
         {
           "title": "สลด พบศพ 8 นักสกีที่สูญหายในแคลิฟอร์เนียแล้ว อีก 1 คนยังหาไม่พบ",
@@ -21666,23 +21658,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tvbQGLuSrvdo.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tvbQGLuSrvdo.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915080",
+      "source": ""
     },
     {
       "title": "페차부리에서 고대 전쟁 드럼 발견",
       "summary": "- 페차부리 반돈플랍에서 청동 전쟁 드럼 2개 발견, 도내 최초 발견.\n- 전문가들은 이 유적지가 1,500년 이상 거슬러 올라갈 수 있으며, 선사 시대 후기 또는 초기 드바라바티 시기와 관련이 있을 것으로 추정.\n- 발견된 드럼은 로프 패턴 손잡이와 빗살무늬 장식 모티프가 특징이며, 인근 라차부리 쿠부아 유적지에서 발견된 유물과 유사.",
       "full_translated": "페차부리 반랏 지역의 반돈플랍에서 마호라투엑 드럼으로 알려진 청동 전쟁 드럼 2개가 발견되어 새로운 고고학적 발견이 이루어졌다고 미술부가 발표했습니다. 이는 이 지방에서 처음 발견된 사례입니다. 전문가들은 이 유적지가 1,500년 이상 거슬러 올라갈 수 있으며, 선사 시대 후기 또는 초기 드바라바티 시기와 관련이 있을 것으로 추정합니다.\n\n파놈부트 찬타라초테 부장은 드럼이 논에서 발견되었으며 해당 유적지는 라차부리 고고학 사무소에 발굴을 위해 배정되었다고 밝혔습니다. 첫 번째 드럼은 로프 패턴 손잡이와 빗살무늬 장식 모티프가 특징이며 거의 손상되지 않았습니다. 직경 40cm, 높이 23cm이며, 로스트 왁스 기법을 사용했음을 나타내는 주조 이음매가 보입니다. 두 번째 드럼은 심하게 손상되었습니다. 파편은 동심원으로 둘러싸인 11개의 뾰족한 별 또는 태양 모티프가 새겨진 장식된 면을 보여줍니다. 고고학자들은 추가 조각이 유적지에 묻혀 있을 수 있다고 믿습니다. 발견된 다른 유물로는 도자기 3개와 유리 구슬 2개가 있으며, 이는 해당 품목이 의식 또는 의례 활동에 사용되었다는 이론을 뒷받침합니다. 드럼은 인근 라차부리 쿠부아 유적지에서 발견된 유물과 매우 유사하며, 태국 서부와 남부 지역 사회 간의 문화적 연결 고리를 시사합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "페차부리에 새로운 유적지 발견은 여행객들에게 흥미로운 관광 명소가 될 수 있으나, 현재 시점에서는 큰 영향은 없음.",
-      "event_info": {
-        "date": null,
-        "location": "반돈플랍, 반랏, 페차부리",
-        "price": null,
-        "location_google_map_query": "Ban Don Phlap, Ban Lat, Phetchaburi"
-      },
+      "event_info": "{'date': None, 'location': '반돈플랍, 반랏, 페차부리', 'price': None, 'location_google_map_query': 'Ban Don Phlap, Ban Lat, Phetchaburi'}",
       "references": [
         {
           "title": "Archaeologists uncover war drums in Phetchaburi",
@@ -21691,23 +21680,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973995_700.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973995_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/general/3200375/archaeologists-uncover-war-drums-in-phetchaburi",
+      "source": ""
     },
     {
       "title": "태국 최고 법원, 왕실 모독죄로 3년 4개월 징역형 확정",
       "summary": "- 태국 최고 법원은 소셜 미디어 게시물을 통해 왕실 모독죄를 위반한 남성에게 3년 4개월의 징역형을 선고한 하급 법원 판결을 확정했습니다.\n- 이 사건은 2020년 페이스북 게시물에서 라마 8세의 사망에 대한 의견을 표현하며 라마 9세를 부정적으로 언급한 데서 비롯되었습니다.\n- 법원은 사후에도 전직 군주를 비방하는 것은 국가 안보에 영향을 미칠 수 있다고 판결했으며, 이는 왕실 모독죄에 대한 합리적인 해석이라고 밝혔습니다.",
       "full_translated": "최고 법원은 남성이 라마 8세 국왕의 사망에 대한 소셜 미디어 게시물과 관련하여 왕실 모독죄를 위반한 혐의로 3년 4개월의 징역형을 선고한 하급 법원의 판결을 확정했습니다. 인권 변호사 단체는 수요일 최고 법원이 '우티팟'(가명) 사건에 대한 제1심 항소 법원의 판결을 확인했다고 밝혔습니다. 이 사건은 2020년에 작성된 페이스북 게시물에서 라마 8세 국왕의 1946년 사망에 대한 의견을 표명하면서 라마 9세를 부정적으로 언급한 데서 비롯되었습니다. 법원은 사후에도 전직 군주를 비방하는 것은 국가 안보에 영향을 미칠 수 있다고 판결했습니다. 또한 그러한 해석은 왕실 모독죄로 알려진 형법 112조의 의도와 일치하며, 법률에 대한 지나치게 광범위한 해석을 구성하지 않는다고 밝혔습니다. 2022년 3월 25일, 사무트 프라칸 지방 법원은 아유타야 출신의 29세 회사원인 우티팟에 대해 112조 혐의에 대해 무죄를 선고했습니다. 법원은 112조가 현재 재임 중인 국왕, 왕비, 왕위 계승자, 섭정의 네 가지 직위만 보호한다고 판단했습니다. 라마 9세 국왕은 2016년에 사망했기 때문에 법원은 해당 게시물 당시 112조에 따른 요건을 충족하지 못한다고 판결했습니다. 그러나 법원은 공공의 해를 끼칠 수 있는 방식으로 컴퓨터 시스템에 허위 정보를 입력한 혐의로 컴퓨터 범죄법 14조 1항에 따라 유죄 판결을 내렸습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "왕실 모독죄 관련 판결은 외국인 여행객에게 직접적인 영향을 미치지는 않지만, 태국 내 법률 및 정치적 상황에 대한 이해를 돕고 주의를 환기시키는 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "3-year term upheld by top court",
@@ -21716,23 +21702,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/general/3200360/3year-term-upheld-by-top-court",
+      "source": ""
     },
     {
       "title": "Thailand Tourism 2026 붐 예상: 전문가의 통찰력, 주요 시장 및 모든 국제 여행객을 위한 필수 방문 목적지 - Travel And Tour World",
       "summary": "- 태국 관광 산업은 2026년에 큰 성장을 이룰 것으로 예상됨.\n- 전문가들은 주요 시장과 필수 방문 목적지에 대한 통찰력을 제공함.\n- 국제 여행객들에게 유용한 정보가 될 것임.",
       "full_translated": "Thailand Tourism 2026 붐 예상: 전문가의 통찰력, 주요 시장 및 모든 국제 여행객을 위한 필수 방문 목적지 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업 전망에 대한 기사로, 여행 계획에 참고할 만한 정보가 될 수 있음. 하지만 현재 시점에서는 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Tourism 2026 Boom Explained: Expert Travel Insights, Key Markets, and Must-Visit Destinations for Every International Traveller - Travel And Tour World",
@@ -21741,8 +21724,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOSmloRXAwLVdFTUxZTVpmSF9XQnZGc2p4MVQyaEdRbEUyMVNBS3hxS0NKazRfcUtuODA3eWNtSTk4ZUdvRXNzUVVWR2swSVJwZ2RHX09wbGZKVkJsWlN4RzROWHlWbGlsb0ZDVUVIeldPdl95VklvZUFaOEhGeUFCMEVnemRmT05fenNTcktVa01jWTAtYUNfVVNsNl9xWm5QSHVLeXJfcm9HQlE3Z3A1RUxXMGRFeXE5X28xTnYxeGlPVjFGMEZZM2x2c1lZVnNCMnAtUGxqOThad1pPYmdtcC1oLVZ1OXFhZGFGZldWRENWeWEtUk1LY0tkN0Q0S1RMSkNlNGRkS3R2NDdJMGpZ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국-캄보디아 국경 지역, 관광 활성화 위한 경기 부양책 요구",
+      "summary": "- 태국-캄보디아 국경 7개 지역, 관광객 감소로 어려움 호소\n- 관광위원회, 정부에 맞춤형 경기 부양책 요청 (개인/기업/정부 회의 지원 등)\n- 우본랏차타니 등 지역, 2025년 중반 이후 관광 활동 부진",
+      "full_translated": "태국-캄보디아 국경 7개 주의 임원들이 관광 신뢰도 하락 문제를 해결하기 위해 하원 관광위원회와 만났습니다. 이들 지역 시장은 국경 지역의 비교적 평화로운 상황에도 불구하고 여전히 침체되어 있습니다. 우본랏차타니 관광협회 회장인 위추타 루앙릉시디스쿨은 우본랏차타니, 시사켓, 수린, 부리람, 사깨오, 찬타부리, 트랏의 관광 시장이 회복되지 않고 있으며 관광객들이 이 지역 방문을 꺼리고 있다고 말했습니다. 그녀는 이러한 주의 모든 지역이 공격의 영향을 받은 것은 아니지만, 대부분의 지역 관광객, 특히 다른 지역 출신의 관광객들은 2025년 중반 이후 이 7개 주 여행을 피하고 있어 관광 활동이 부진하다고 말했습니다. 위추타 씨는 \"7월 이후 시장이 조용했고, 촛불 행렬 축제와 같은 상징적인 전통 행사에도 평소보다 훨씬 적은 관광객이 찾았습니다.\"라고 말했습니다. 위원회와의 회의에서 관광 사업자들은 해당 지역에 맞춤화된 효과적인 경기 부양책을 정부에 요청했습니다. 예를 들어, 7개 주에서 열리는 개인, 기업 및 정부 회의에 보조금을 제공할 수 있습니다. 보조금은 방문객을 유치할 만큼 매력적이어야 하며, 1인당 3,000바트의 공동 지불 등이 있을 수 있습니다. 이 지역의 관광 사업자들은 다른 지역과 달리 성수기의 혜택을 누릴 수 없었습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국경 지역 관광 침체 정보는 여행객에게 지역 경제 상황을 인지시키고 여행 계획에 참고할 정보를 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": "우본랏차타니, 시사켓, 수린, 부리람, 사깨오, 찬타부리, 트랏",
+        "price": null,
+        "location_google_map_query": "우본랏차타니"
+      },
+      "references": [
+        {
+          "title": "Call for stimulus in border provinces",
+          "url": "https://www.bangkokpost.com/business/general/3200390/call-for-stimulus-in-border-provinces",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5974005_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5974005_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "지노 티티쿨, 혼다 LPGA 태국 대회 출전 준비",
+      "summary": "- 세계 랭킹 1위 지노 티티쿨, 태국 팬들 앞에서 혼다 LPGA 우승 도전.\n- 산악 캠핑으로 재충전 후 시암 컨트리클럽 올드 코스에서 열리는 대회 참가.\n- 2025년 말 손목 부상 치료 및 휴식 통해 몸과 마음을 회복.",
+      "full_translated": "지노 티티쿨은 탁 지방의 산에서 상쾌한 캠핑 휴가를 보낸 후 이번 주 시암 컨트리클럽의 올드 코스에서 새로운 정상을 목표로 하고 있습니다. 세계 랭킹 1위로서의 부담감을 잠시 잊고 태국 슈퍼스타는 혼다 LPGA 태국 19회 대회를 통해 다시 중심 무대로 돌아옵니다. 그녀는 이 대회를 소중히 여기며, 자신의 뛰어난 이력에 우승을 추가하고 싶어합니다. 14세 때 처음 참가한 이 대회에서 지노는 준우승 1회, 3위 2회를 기록했습니다. “모든 선수들이 모든 토너먼트에서 우승하고 싶어합니다. 저는 이미 올해가 제 해라고 생각합니다. 세계 랭킹 1위로 태국 팬들 앞에서 경기하는 것이 처음이기 때문입니다. 하지만 결과가 어떻게 될지는 모릅니다. 저는 제 자신만 통제할 수 있습니다. 최선을 다해 노력하고, 올해가 제 해가 되기를 바랍니다.” 지노는 2025년 말에 몸과 마음을 회복하기 위해 휴식을 취한 후 더욱 활기찬 모습입니다. 지노는 방콕에서 북쪽으로 430km 떨어진 탁 지방으로 여행을 떠나 휴식을 취했습니다. “캠핑을 좋아합니다. 골프를 치는 동안은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 열리는 LPGA 대회 정보. 태국을 방문하는 골프 팬들에게는 흥미로운 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-02-19",
+        "location": "시암 컨트리클럽 올드 코스, 파타야",
+        "price": "미정",
+        "location_google_map_query": "Siam Country Club Old Course Pattaya"
+      },
+      "references": [
+        {
+          "title": "Camp to champ? Jeeno ready to rule",
+          "url": "https://www.bangkokpost.com/sports/3200295/camp-to-champ-jeeno-ready-to-rule",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973950_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973950_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "클라탐당, 연립 정부 참여 불확실 속 야당 역할 준비",
+      "summary": "- 클라탐당은 연립 정부 구성 협상이 불확실한 가운데 야당 역할도 준비 중이라고 밝혔습니다.\n- 부미자이타이당과의 협상은 초기 단계에 머물러 있으며, 선거관리위원회의 결과 인증을 기다리고 있습니다.\n- 클라탐당은 정부 구성 논의가 너무 이르다며, 선거 관련 문제에 대한 국민적 우려를 해소하는 것이 우선이라고 강조했습니다.",
+      "full_translated": "클라탐당의 타마낫 프롬파우 수석 고문은 수요일, 부미자이타이당(BJT)이 구성 중인 연립 정부에 참여할지 불확실성이 지속되는 가운데 당이 야당에서 활동할 준비가 되어 있다고 밝혔습니다. 그의 발언은 BJT 사무총장인 차이차녹 치드초브가 화요일 정부 구성에 대한 양당 간의 논의가 예비 단계에 머물러 있다고 말한 후에 나왔습니다. 차이차녹 씨는 클라탐 사무총장인 파이 리크와 짧은 전화 통화만 가졌으며 공식 협상은 지도부 수준에서 이루어질 것이라고 말했습니다. 타마낫 씨는 초기 접촉 외에 추가적인 진전은 없었으며 목요일에 해외 여행을 떠나기 전에 선출된 후보자들의 회의를 개최할 것이라고 말했습니다. 장관직 배치에 대한 세부 사항을 파이 씨에게 문의했는지 묻는 질문에 그는 선거관리위원회(EC)가 아직 선거 결과를 보증하지 않았기 때문에 내각 직책에 대해 이야기하기에는 너무 이르다고 말했습니다. 그는 정부 관련 논의를 이끌더라도 결과가 더 명확해질 때까지 협상을 자제할 것이라고 말했습니다. 클라탐의 실력자는 당이 야당으로 밀려날 것이라는 언론의 추측을 일축하며 클라탐과 BJT 모두 관리 정부에서 활동하며 정기적으로 만난다고 언급했습니다. 그는 현재 우선 순위는 EC가 선거 결과를 인증하고 널리 퍼진 선거 관련 문제에 대한 국민적 우려를 해결하는 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 현재 여행자에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Klatham 'won't be pushed'",
+          "url": "https://www.bangkokpost.com/thailand/politics/3200210/klatham-wont-be-pushed",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973895_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973895_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "N.C. 하우징, 수요 부진으로 프로젝트 축소",
+      "summary": "- N.C. 하우징은 소비자 구매력 약화로 인해 올해 신규 프로젝트를 축소할 계획임.\n- 파타야 콘도 프로젝트와 방콕 북부 저층 주택 프로젝트 등 총 20억 바트 규모의 프로젝트 2개만 출시 예정임.\n- 이는 지난해 5개 프로젝트를 출시한 것에 비해 크게 줄어든 수치이며, 200만~600만 바트 사이의 저렴한 가격대에 집중할 계획임.",
+      "full_translated": "상장 개발업체인 N.C. 하우징은 소비자 구매력 약화에 대한 신중한 태도를 유지하면서 올해 총 20억 바트 규모의 프로젝트 2개만 출시할 계획입니다. 이는 이전 연도보다 낮은 수치입니다.\n\n솜느억 탄타퇴탐 전무는 부동산 시장의 지출이 작년보다 약간 개선될 것으로 예상되지만, 은행 대출 제한으로 인해 어려움이 남아 있다고 말했습니다. 솜느억 씨는 \"지출력이 따라갈 수 없기 때문에 너무 빨리 확장해서는 안 됩니다.\"라고 말했습니다. \"회사는 대신 시장을 공략하기 위해 적절한 시기와 목표 세그먼트에 집중해야 합니다.\"\n\n그는 수요가 향후 몇 년 동안 개선되면 새로운 프로젝트를 수용할 수 있는 여러 토지를 여전히 소유하고 있다고 말했습니다. N.C. 하우징은 올해 파타야 콘도 프로젝트(6억~8억 바트)와 방콕 북부 저층 주택 프로젝트(10억 바트 이상) 등 2개의 프로젝트를 출시할 계획입니다. 이는 지난해 출시된 5개의 신규 프로젝트와 비교됩니다.\n\n그는 두 프로젝트 모두 콘도 가격이 200만~500만 바트부터 시작하고 500~600세대로 구성된 저렴한 부문에 초점을 맞출 것이라고 말했습니다. 500세대 저층 주택 프로젝트에는 단독 주택, 트윈 하우스, 타운하우스가 혼합되어 있으며 가격은 200만~600만 바트입니다.\n\n솜느억 씨는 이번이 팬데믹 이후 5년 만에 처음으로 새로운 콘도 출시라고 밝혔습니다. 파타야의 공급이 완화되는 동안 수요가 개선되었기 때문입니다. 고급 부문의 경우...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "부동산 시장 동향은 여행객에게 직접적인 영향은 적으나, 장기적으로 숙박 시설 등에 영향을 줄 수 있어 낮은 점수 부여. 특별한 업데이트는 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "N.C. Housing slashes projects amid weak demand",
+          "url": "https://www.bangkokpost.com/property/3200365/nc-housing-slashes-projects-amid-weak-demand",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973985_700.jpg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973985_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 SETCarbon 플랫폼, 기업 온실가스 배출 관리 참여 확대",
+      "summary": "- 태국 증권 거래소(SET)의 기업 온실가스 배출 관리 플랫폼인 SETCarbon에 380개 이상의 기업 등록, 6개월 만에 30% 이상 증가.\n- Krungsri 은행과의 협력을 통해 중소기업의 지속 가능한 금융 접근성을 강화하고 탄소 데이터 인프라를 금융 시스템에 통합.\n- SET는 다른 5개 상업 은행과도 협력하여 탄소 데이터 인프라를 태국 금융 시스템에 더욱 깊이 통합할 계획.",
+      "full_translated": "태국은 환경, 사회 및 거버넌스(ESG) 고려 사항을 통합하고 기후 변화를 전환하려는 노력을 가속화하고 있으며, 이는 자본 시장을 빠르게 재편하고 태국 증권 거래소(SET)가 중소기업(SME)에 대한 지속 가능한 금융 접근성을 강화하기 위해 은행 제휴를 확대하도록 유도하고 있습니다. SET에 따르면 380개 이상의 조직이 SETCarbon에 등록되어 있으며, 이는 기업 온실 가스 배출을 관리하고 보고하기 위한 디지털 플랫폼으로 6개월 동안 30% 이상 증가했습니다. 증권 거래소는 표준화된 탄소 데이터에 대한 기업의 수요가 급증했다고 언급했습니다. 사용자의 약 85%는 상장 기업이고 15%는 비상장 기업으로, 주식 시장을 넘어 광범위한 채택을 반영합니다. SET는 Krungsri 은행과 파트너십을 맺어 은행의 기업 고객이 표준화된 배출 보고를 위해 SETCarbon을 활용할 수 있도록 했습니다. 이 계약은 작년에 TMBThanachart Bank와 태국 수출입 은행이 체결한 유사한 계약에 따른 것입니다. 증권 거래소는 탄소 데이터 인프라를 태국 금융 시스템에 더 깊이 포함시키는 것을 목표로 하는 'Join Force' 이니셔티브를 확장하기 위해 다른 5개 상업 은행과 논의 중이라고 SET의 최고 전략 및 재무 책임자인 Soraphol Tulayasathien이 말했습니다. 탄소 데이터는 글로벌 무역 규칙이 점점 더 연결되면서 기본적인 경제 인프라가 되고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국의 ESG 경영 트렌드를 보여주는 비즈니스 뉴스. 여행객에게 직접적인 영향은 적지만, 태국 경제 상황에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "More firms join SETCarbon platform",
+          "url": "https://www.bangkokpost.com/sustainability/3200370/more-firms-join-setcarbon-platform",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973990_700.jpeg"
+        }
+      ],
+      "collected_at": "06:31",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973990_700.jpeg",
       "date": "2026-02-19"
     }
   ]
