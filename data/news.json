@@ -20855,14 +20855,9 @@
       "summary": "- 고속철도 건설 현장 붕괴 사고 관련 사망자 및 부상자 보험금 지급 완료.\n- 총 140만 바트 이상의 보험금이 지급됨.\n- 관련 기관은 피해자 지원에 최선을 다할 것을 약속.",
       "full_translated": "사고로 인해 사망 및 부상을 입은 사람들에게 140만 바트 이상의 보상금이 지급되었습니다. 사회보장사무소는 피해자와 그 가족을 돕기 위해 최선을 다하고 있으며, 필요한 모든 지원과 혜택을 제공할 것입니다. 2069년 1월 14일 시키우 지역에서 발생한 고속철도 건설 프로젝트 붕괴 사고로 인해 발생한 피해에 대한 보상입니다. 이 사고로 인해 방콕-우본랏차타니 노선의 열차가 손상되고 화재가 발생하여 많은 사망자와 부상자가 발생했습니다. 사회보장사무소는 사망자 유족에게 장례비, 사망 위로금, 노령 연금 등의 혜택을 제공하고, 부상자에게는 사회보장기금과 근로자 보상 기금에서 치료비와 보상금을 지급합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "사고 피해에 대한 보상 완료 소식. 직접적인 여행 영향은 적으나 안전 관련 정보로서 의미가 있음",
-      "event_info": {
-        "date": "2069-01-14",
-        "location": "시키우 지역",
-        "price": "1,421,450.29 바트",
-        "location_google_map_query": "Sikhio District, Nakhon Ratchasima"
-      },
+      "event_info": "{'date': '2069-01-14', 'location': '시키우 지역', 'price': '1,421,450.29 바트', 'location_google_map_query': 'Sikhio District, Nakhon Ratchasima'}",
       "references": [
         {
           "title": "เยียวยาผู้ประกันตน \"เครนถล่มสีคิ้ว\" จ่ายสิทธิประโยชน์รวมกว่า 1.4 ล้านบาท",
@@ -20871,23 +20866,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxyq9BpMnkHI.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxyq9BpMnkHI.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/northeast/2915069",
+      "source": ""
     },
     {
       "title": "방콕 야나와 지역, 정신 질환 남성이 음식 훔쳐…피해자는 처벌 원치 않아",
       "summary": "- 야나와 경찰, 음식 절도 신고 받고 출동\n- 정신 질환 있는 남성이 배달된 음식 훔쳐\n- 피해자는 남성의 딱한 사정 고려해 처벌 원치 않아",
       "full_translated": "야나와 경찰은 절도 신고를 받고 출동했습니다. 정신 질환이 있는 남성이 몇 백 바트 상당의 음식을 훔쳤지만, 피해자는 처벌을 원하지 않는다고 밝혔습니다. 가족들은 어려운 상황을 인정했으며, 경찰이 설득하려 했음에도 소용없었습니다. 2월 17일 23시 40분, 야나와 경찰서의 경찰관들은 34세의 남성을 야간 절도 혐의로 체포했습니다. 그는 자전거와 123바트 상당의 라면, 125바트 상당의 차슈멘, 88바트 상당의 만두가 들어있는 비닐 봉투를 소지하고 있었습니다. 피해자는 배달원이 17시 45분에 배달해 놓은 음식을 도둑맞았다고 신고했습니다. 용의자는 빨간색 티셔츠, 검은색 반바지, 짧은 머리를 하고 파란색 자전거를 타고 음식을 훔쳐 달아났습니다. 경찰은 용의자를 추적하여 체포했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객에게 직접적인 위협은 아니지만, 방콕의 치안 상황을 보여주는 뉴스이므로 정보 제공 가치가 있다고 판단. 경범죄 발생 정보.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 야나와 지역",
-        "price": null,
-        "location_google_map_query": "야나와 방콕"
-      },
+      "event_info": "{'date': None, 'location': '방콕 야나와 지역', 'price': None, 'location_google_map_query': '야나와 방콕'}",
       "references": [
         {
           "title": "ฟังสองมุม หนุ่มสติไม่สมประกอบขโมยถุงกับข้าวไม่กี่ร้อย เจ้าของไม่ยอมยืนยันดำเนินคดี",
@@ -20896,23 +20888,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxQNArocrblO.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxQNArocrblO.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/crime/2915067",
+      "source": ""
     },
     {
       "title": "민주당, 연립 정부 구성 협상보다 선거 조사 우선",
       "summary": "- 민주당은 선거 부정 의혹 조사를 최우선 과제로 설정했습니다.\n- 공정한 선거에 대한 국민적 신뢰가 중요하다고 강조했습니다.\n- 선거 관리 위원회의 투명성에 대한 의문이 제기되고 있습니다.",
       "full_translated": "민주당은 품자이타이 당이 새로운 연립 정부에 참여하기 위해 접근할지 여부보다 선거 부정 의혹 조사를 최우선 순위로 두고 있습니다. 당은 선거관리위원회가 감독한 과정의 투명성과 공정성에 대한 의문이 제기됨에 따라 2월 8일 선거에서 발생한 수많은 불만과 부정행위를 조사하기 위한 실무 그룹을 구성했습니다. 차이웃 반나왓 사무총장은 아핏싯 웨차치와 당 대표가 니핏 인타라솜밧 민주당 고위 인사가 이끄는 패널 구성을 승인했다고 밝혔습니다. 이 패널은 최근 투표 진행과 관련된 정보 및 문제를 검토한 후 결과를 당 임원에게 제출할 예정입니다. 선거관리위원회는 투표 관리에 대한 불만으로 넘쳐나고 있으며, 일부 청원인은 이미 결과를 무효화하고 전국적인 재투표를 요구하고 있습니다. 화요일 밤, 선거관리위원회는 방콕을 포함한 8개 지역에서 재검표를 명령했고, 파야오의 투표소에서 새로운 투표를 명령했습니다. 차이웃 씨는 연립 정부 구성에 대한 논의는 이 단계에서는 '부차적'이라고 말하면서, 민주당은 우선 선거관리위원회가 국민, 정당, 학계에서 제기된 우려를 어떻게 해결하고 있는지 명확히 하기를 원한다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 정치적 불안정이 심화될 경우 여행에 영향을 줄 수 있으므로 낮은 점수를 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Democrats put election probe ahead of coalition talks",
@@ -20921,23 +20910,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200020_260218152435_700.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260218/c1_3200020_260218152435_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/politics/3200020/democrats-put-election-probe-ahead-of-coalition-talks",
+      "source": ""
     },
     {
       "title": "프랑스, 극우 활동가 폭행 사망 사건 관련 용의자 11명 체포",
       "summary": "- 프랑스에서 극우 활동가 폭행 사망 사건과 관련하여 11명의 용의자가 체포됨.\n- 용의자들은 좌익 무장단체의 소행으로 추정되며, 정치적 긴장감이 고조된 상황에서 발생.\n- 체포된 용의자 중에는 좌파 정당 LFI 소속 정치인의 보좌관도 포함되어 논란이 일고 있음.",
       "full_translated": "프랑스에서 지난주 극우 활동가를 집단 폭행해 사망에 이르게 한 용의자 11명을 체포했습니다. 주요 선거를 앞두고 정치적 상황이 격렬해지는 가운데 외신에 따르면 프랑스 당국은 수요일(2월 18일) 젊은 학생 운동가의 살인 사건에 연루된 용의자 2명을 추가로 구금했습니다. 그는 리옹에서 좌익 무장 단체의 소행으로 추정되는 극우 운동가였습니다. 이로써 현재 구금된 사람은 총 11명입니다. 23세의 콘스탄틴 데롱은 지난주 시위 중 구타와 발길질로 인해 심각한 뇌 손상으로 사망했습니다. 시위는 유럽 의회 의원 리마 하산(Rima Hassan)의 토론회장 밖에서 발생했습니다. 하산은 극좌 정당인 France Unbowed(LFI) 소속입니다. 현장에서 촬영된 비디오 영상에는 바닥에 누워 있는 3명이 더 큰 그룹에 의해 구타당하는 모습이 담겨 있습니다. 모든 가해자는 얼굴을 가리는 후드를 쓰고 있었습니다. 이민자에 반대하는 페미니스트 그룹인 '네메시스'는 데롱이 단체 구성원을 보호하기 위해 행사 장소 밖에 나타났다고 밝혔습니다. 네메시스 그룹은 '영 가드' 그룹이 공격의 배후에 있다고 비난했지만 영 가드 그룹은 혐의를 부인했습니다. 가장 최근의 급습은 수요일에 시작되었으며 체포된 사람 중에는 라파엘 아르놀트 LFI 정치인의 의회 보좌관인 자크-엘리 파브로도 포함되었습니다. 아르놀트는 그의 보좌관인 파브로가 의회에서 모든 일을 그만두었고 현재 고용 계약을 취소하는 과정에 있다고 밝혔습니다. ... 그러나.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에는 직접적인 영향이 없으나, 국제적인 정치 상황에 대한 정보 제공 차원에서 포함. 여행 안전에 대한 직접적인 위협은 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฝรั่งเศสจับแล้ว 11 ผู้ต้องสงสัยรุมทำร้ายนักเคลื่อนไหวหนุ่มจนตาย",
@@ -20946,23 +20932,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obrE20d6OFGC.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obrE20d6OFGC.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915073",
+      "source": ""
     },
     {
       "title": "러시아-우크라이나 평화 협상, 영토 문제로 난항",
       "summary": "- 러시아와 우크라이나 간 평화 협상이 큰 진전 없이 종료됨.\n- 영토 문제에 대한 양측의 입장차가 여전히 큼.\n- 군사적 문제에서는 일부 진전이 있었으나, 핵심 쟁점 해결은 불투명.",
       "full_translated": "러시아와 우크라이나 간의 두 번째 평화 협상이 미미한 진전만을 보인 채 영토 문제로 인해 난항을 겪고 있습니다. 외신 보도에 따르면, 4년 가까이 지속된 전쟁을 종식시키기 위한 러시아, 우크라이나, 미국의 협상이 2569년 2월 18일 수요일에 어떠한 돌파구도 마련하지 못하고 종료되었습니다. 군사적 문제에서는 일부 진전이 있었지만 말입니다. 제네바에서 열린 3자 회담은 단 2시간 만에 종료되었는데, 화요일 첫날 회의가 늦게까지 진행되었음에도 불구하고 말입니다. 스티브 윗코프 미국 대표는 이번 협상에 대한 자신감을 표명했지만, 러시아 협상 대표와 볼로디미르 젤렌스키 우크라이나 대통령은 모두 회담이 \"어려웠다\"고 밝혔습니다. 주요 협상이 끝난 후, 크렘린의 협상팀 대표인 블라디미르 메딘스키는 우크라이나 측과 비공개 회담을 위해 다시 회의장으로 돌아갔고, 약 1시간 30분 동안 진행된 이 회담에 대한 자세한 내용은 공개되지 않았습니다. 우크라이나 외교부 소식통에 따르면, 전선 획정과 휴전 감시를 포함한 \"군사적 문제\"에서 일부 진전이 있었습니다. 그러나 휴전 합의를 고려하는 데 필수적인 요소인 영토 문제에 대한 합의는 아직 이루어지지 않았는데, 이는 러시아와 우크라이나의 입장이 매우 다르기 때문입니다. 러시아는 우크라이나 동부의 도네츠크와 루한스크 지역으로 구성된 돈바스 지역을 완전히 통제하려는 입장을 굽히지 않고 있지만, 우크라이나 측은 이 요구를 받아들일 수 없다고 주장합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세에 대한 기본적인 이해를 돕기 위해 포함. 여행 관련 정보는 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รัสเซีย-ยูเครน เจรจาวันที่ 2 คืบหน้าเล็กน้อย แต่ยังติดปัญหาเรื่องดินแดน",
@@ -20971,8 +20954,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obhWM2rQ5kXd.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77obhWM2rQ5kXd.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915072",
+      "source": ""
+    },
+    {
+      "title": "고속철도 건설 현장 붕괴 사고, 경찰 190명 증언 확보...아직 기소는 없어",
+      "summary": "- 고속철도 건설 현장 붕괴 사고 관련, 경찰이 190명 이상의 증인을 조사했으나 아직 기소된 사람은 없음.\n- 사고는 나콘랏차시마 지역 시키우에서 발생했으며 30명이 사망하고 70명이 부상함.\n- 사고 지점은 현재 열차 운행이 재개되었으며, 붕괴된 크레인은 철거되었고 해당 지역 건설은 중단됨.",
+      "full_translated": "나콘랏차시마 - 고속철도 건설 현장 붕괴 사고와 관련하여 시키우 경찰서장은 190명 이상의 증인을 조사했지만 아직 개인이나 기관에 대한 기소는 이루어지지 않았다고 밝혔습니다. 사고는 2069년 1월 14일 시키우 지역에서 발생하여 30명이 사망하고 70명이 부상했습니다. 경찰은 목격자, 부상자 및 피해자 190명 이상을 조사했습니다. 회사 대표도 소환 조사했지만 세부 사항은 공개할 수 없습니다. 전문가의 조사 결과를 기다려야 하므로 아직 기소하지 않았습니다. 엔지니어링 협회에 문의한 결과 여러 부서의 검사 결과를 기다려야 한다고 합니다. 검사 결과는 3월 말경에 나올 것으로 예상되며, 그 후 수집된 모든 증거를 종합하여 위반자를 기소할 것입니다. 사고 지점은 안전 점검 후 사고 발생 5일 후부터 열차 운행이 재개되었습니다. 현재는 정상적으로 운행되고 있습니다. 붕괴된 크레인은 철거되었고 해당 지역 건설은 중단되었습니다. 경찰은 해당 지역을 봉쇄하여 누구도 작업을 수행할 수 없도록 했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "사고 관련 진행 상황 업데이트. 열차 운행 재개 정보 포함.",
+      "event_info": {
+        "date": "2069-01-14",
+        "location": "시키우 지역, 나콘랏차시마",
+        "price": null,
+        "location_google_map_query": "Sikhio, Nakhon Ratchasima"
+      },
+      "references": [
+        {
+          "title": "คดีเครนถล่มทับรถไฟ 1 เดือนผ่านไป ตำรวจสอบปากคำพยาน 190 ปาก ยังไม่แจ้งข้อหาใคร",
+          "url": "https://www.thairath.co.th/news/crime/2915048",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77plQBlVEnkiQw.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77plQBlVEnkiQw.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "중국 춘절 폭죽 가게 폭발 사고로 12명 사망",
+      "summary": "- 중국에서 춘절을 맞아 폭죽 가게에서 연쇄 폭발 사고 발생\n- 후베이성에서 발생한 폭발로 최소 12명 사망\n- 당국은 전국 폭죽 판매점에 대한 안전 점검 강화 지시",
+      "full_translated": "중국에서 두 번째 폭죽 가게 폭발 사고가 발생하여 12명이 사망했습니다. 중국 정부 CCTV는 중국 중부 지역의 한 폭죽 가게에서 수요일(2월 18일) 폭발이 발생하여 최소 12명이 사망했다고 보도했습니다. 폭죽과 폭죽을 터뜨리는 것은 중국 축제, 특히 춘절 기간 동안 일반적인 관행입니다. 올해는 화요일에 시작되었습니다. 최근 몇 년 동안 베이징을 포함한 여러 대도시에서 오염 문제로 인해 폭죽이 금지되었지만, 작은 도시와 농촌 지역에서는 연휴 내내 폭죽 소리가 계속 울려 퍼지고 있습니다. CCTV는 현지 당국을 인용하여 2월 18일 오후 2시경 후베이성 정지 마을의 폭죽 가게에서 화재와 폭발이 발생했으며, 화재 면적은 약 50제곱미터에 달해 12명이 사망했다고 보도했습니다. 정확한 원인은 조사 중입니다. 이는 최근 며칠 동안 중국에서 발생한 두 번째 폭죽 가게 폭발 사고입니다. 지난 일요일(2월 15일) 중국 동부 장쑤성의 폭죽 가게에서 폭발이 발생하여 8명이 사망하고 2명이 부상했습니다. 이 사건으로 인해 긴급 관리부는 전국 폭죽 판매 사업장에 대한 통제를 강화하고 상세한 안전 점검을 실시하도록 지시했습니다. 또한, 당국은 국민들에게 폭죽을 시험하거나 가게 앞에서 담배를 피우는 것과 같은 위험한 행위를 피하도록 경고했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중국 춘절 기간 폭죽 사고 발생. 여행객 안전에 간접적인 영향.",
+      "event_info": {
+        "date": "2024-02-18",
+        "location": "후베이성 정지 마을",
+        "price": null,
+        "location_google_map_query": "정지 마을 후베이성 중국"
+      },
+      "references": [
+        {
+          "title": "ร้านพลุจีนระเบิดอีกแห่ง ดับแล้ว 12 ศพ สลดเทศกาลตรุษจีน",
+          "url": "https://www.thairath.co.th/news/foreign/2915063",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ow8Z1oWAa9CZ.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77ow8Z1oWAa9CZ.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 장례 지원 협회 취소 논란, 주민 불안 확산",
+      "summary": "- 태국 내 여러 장례 지원 협회가 취소되어 주민들의 불안감이 커지고 있음.\n- 특히 고령층을 중심으로 오랫동안 협회에 가입하여 납부금을 낸 사람들의 우려가 심각함.\n- 협회는 영리 목적이 아닌 상호 부조를 위한 단체로, 회원 사망 시 장례 지원 및 유족 지원을 제공.",
+      "full_translated": "최근 여러 장례 지원 협회의 취소 발표로 인해 많은 태국 주민들이 불안감을 느끼고 있습니다. 특히 오랫동안 협회 회원으로 가입하여 납부금을 내온 고령층의 우려가 큽니다. 장례 지원 협회는 회원 간 상호 부조를 목적으로 운영되며, 회원의 사망 시 장례 지원금 또는 유족 지원금을 제공합니다. 이는 정부 지원에만 의존하지 않고 지역 사회 내에서 서로를 돕는 방식으로, 가족의 재정적 부담을 덜어주는 역할을 합니다. 협회 가입 조건은 성년(20세 이상) 또는 결혼한 17세 이상의 남녀이며, 파산자 또는 무능력자가 아니어야 하고 건강해야 합니다. 각 협회마다 추가적인 가입 조건이 있을 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 사회의 단면을 보여주는 로컬 뉴스. 여행 자체에 직접적인 영향은 적으나, 장례 문화에 대한 이해를 돕고 현지 정서에 대한 간접 경험을 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ดราม่า \"เงินฌาปนกิจ\" ชาวบ้านหวั่นใจ \"สมาคมฌาปนกิจสงเคราะห์\" หลายแห่งถูกยกเลิก",
+          "url": "https://www.thairath.co.th/news/society/2915064",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxXGB7HnLNwC.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77oxXGB7HnLNwC.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "“디 아이콘 그룹” 사건 관련, 검찰총장 “보스 샘-보스 민” 기소 명령",
+      "summary": "- 검찰총장이 “디 아이콘 그룹” 사건의 “보스 민-보스 샘” 기소를 명령함.\n- 법원에 기소하기 위해 소환 예정이며, 불응 시 체포영장 발부 예정.\n- 이들은 과거 증거 불충분으로 불기소 처분되었으나, 특별수사국장의 이의 제기로 재수사.",
+      "full_translated": "속보! 검찰총장이 “디 아이콘 그룹” 사건의 “보스 민-보스 샘”을 기소하라는 의견을 제시했습니다. 특별 검찰은 이들을 법원에 기소하기 위해 소환할 예정입니다. 만약 나타나지 않을 경우, 특별수사국(DSI)이 이들을 체포하여 검찰에 넘겨 기소할 것입니다.\n\n이 사건은 유라난트 팜몬몬트리 또는 보스 샘과 피차야 와타나몬트리 또는 보스 민에 대한 특별 검찰의 불기소 처분으로 시작되었습니다. 당시 검찰은 증거가 불충분하다고 판단하여 이들을 석방했습니다. 그러나 특별수사국장인 욧타나 프래담은 이의를 제기하며 보스 샘과 보스 민을 5가지 중죄로 기소해야 한다고 주장했습니다. 절차에 따라 이 이의 제기는 검찰총장에게 보내져 최종 결정이 내려지게 됩니다.\n\n최근 보고에 따르면 2569년 2월 17일, 검찰총장의 최종 결정서가 특별 검찰청으로 보내졌으며, 특별수사국장의 의견에 따라 두 용의자를 기소해야 한다는 의견을 제시했습니다. 다음 단계로 특별 검찰은 용의자들을 소환하여 검찰총장의 명령에 따라 기소할 예정입니다. 만약 용의자들이 특별 검찰의 소환에 응하지 않을 경우, 특별 검찰청은 특별수사국에 이들을 체포하여 형사 법원에 기소하도록 요청할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 사회의 주목을 받는 사건으로, 여행객들이 현지 뉴스에 대한 이해도를 높이는 데 도움이 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ด่วน อสส. ชี้ขาดสั่งฟ้อง “บอสแซม-บอสมิน” ต่อศาล คดี “ดิไอ콘 กรุ๊ป”",
+          "url": "https://www.thairath.co.th/news/crime/2915057",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXXANJX26jzE.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pXXANJX26jzE.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 총리, 캄보디아 총리의 영토 침범 주장에 답변 거부",
+      "summary": "- 아누틴 찬위라꾼 태국 총리가 캄보디아 총리의 영토 침범 주장에 대한 기자들의 질문에 답변을 거부함.\n- 총리는 목이 아픈 제스처를 취하며 답변을 회피함.\n- 해당 질문은 워싱턴 D.C.에서 열린 평화위원회 회의에서 캄보디아 총리가 태국이 캄보디아 영토를 침범했다는 주장을 한 것에 대한 것임.",
+      "full_translated": "아누틴 찬위라꾼 태국 총리는 2069년 2월 18일 정부청사에서 기자들이 워싱턴 D.C.에서 열린 평화위원회 회의에 대해 질문하자 답변을 거부했습니다. 훈 마넷 캄보디아 총리는 태국이 캄보디아 영토를 점령하여 캄보디아 국민들에게 고통을 안겨주었다고 연설했습니다. 아누틴 총리는 타이 쿠 파 빌딩으로 올라가는 길에 기자들의 질문을 듣기 위해 손으로 귀를 막는 제스처를 취했습니다. 그는 목을 가리키고 기침하는 시늉을 하며 답변을 거부한 뒤 차에 올라 즉시 정부청사를 떠났습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국-캄보디아 간의 외교적 긴장 가능성이 있지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "ทำเนียบรัฐบาล (정부청사)",
+        "price": null,
+        "location_google_map_query": "Thai Government House"
+      },
+      "references": [
+        {
+          "title": "นายกฯ ทำท่าไอ - เจ็บคอ ปฏิเสธให้สัมภาษณ์ หลังถาม “ฮุน มาเนต” ฟ้องโลกไทยรุกดินแดน",
+          "url": "https://www.thairath.co.th/news/politic/2915051",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pX1ak0ZArXRk.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77pX1ak0ZArXRk.jpg",
       "date": "2026-02-19"
     }
   ]
