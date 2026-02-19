@@ -23255,14 +23255,9 @@
       "summary": "- 태국 경찰, 캄보디아 사기 센터에서 탈출한 외국인 조사 위해 뜨랏 지역 방문\n- 탈출자들은 중국인이 운영하는 센터에서 폭력 행위에 시달렸다고 증언\n- 경찰은 해당 센터가 태국 국경과 마주한 지역에 위치해 있음을 확인",
       "full_translated": "태국 동부 뜨랏 지역에서 캄보디아 사기 센터에서 탈출한 외국인 관련 사건이 발생하여 경찰이 조사에 나섰습니다. 부국장은 더 많은 사람들이 Thmor Da 단지에서 탈출할 것으로 예상됨에 따라 조치를 촉구했습니다. 경찰 부국장 Pol Gen Thatchai Pitaneelabut는 헬리콥터를 타고 목요일 이 동부 지방의 국경 지역으로 날아가 캄보디아의 사기 단지에서 도망친 외국인 관련 사건을 추적했습니다. 이번 방문은 Thmor Da 지역에서 운영되는 콜센터 갱단에 의해 잔인한 대우를 피해 목숨을 걸고 도망친 외국 국적자 10명(베트남인 6명, 중국인 4명)을 체포한 데 따른 것입니다. 탈출자들은 지난 2~3일 동안 태국으로 건너와 도움을 요청했으며, 찬타부리 및 뜨랏 국경 방어 사령부 해병대에 의해 체포되어 인도적 지원을 제공받았습니다. Pol Gen Thatchai는 Ban Tha Luen 국경 지역을 방문하여 해병대 태스크 포스으로부터 자세한 브리핑을 받고 Ban Tha Luen 경찰서를 방문하여 탈출자 10명을 심문했습니다. 초기 증언에 따르면 Thmor Da의 중국인이 운영하는 지역 내에서 심각한 폭력이 발생하여 피해자들이 필사적으로 탈출하게 되었습니다. Pol Gen Thatchai는 항공 측량 및 정보 보고서를 통해 사기 조직의 운영 기지가 뜨랏 지방의 Ban Tha Luen 바로 맞은편에 있다는 것을 확인했습니다. 해당 지역은 2~4층 건물로 구성되어 있으며 3개의 주요 구역으로 나뉩니다. 당국은 수백, 아마도 수천 명의 외국 국적자(베트남인, 중국인, 인도네시아인, 필리핀인, 방글라데시인)가 있을 것으로 믿고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사기 센터 관련 사건은 여행객 안전에 잠재적 위협이 될 수 있으므로 관련 정보 제공. 다만, 직접적인 여행 제한이나 위험은 아니므로 6점 부여.",
-      "event_info": {
-        "date": null,
-        "location": "뜨랏 지역",
-        "price": null,
-        "location_google_map_query": "뜨랏"
-      },
+      "event_info": "{'date': None, 'location': '뜨랏 지역', 'price': None, 'location_google_map_query': '뜨랏'}",
       "references": [
         {
           "title": "Senior police officer questions scam centre escapees in Trat",
@@ -23271,23 +23266,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200760_700.jpg"
         }
       ],
-      "collected_at": "00:27",
+      "collected_at": "0:27",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200760_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3200760/senior-police-officer-questions-scam-centre-escapees-in-trat",
+      "source": ""
     },
     {
       "title": "태국 최초 자체 제작 경전철, 콘캔에서 시험 운행 시작",
       "summary": "- 태국 연구진이 설계하고 제작한 최초의 경전철이 콘캔의 라자망갈라 기술대학교에서 시험 운행을 시작했습니다.\n- 이 시범 운행은 대학 캠퍼스 내 450m 트랙에서 진행되며, 1년 이내에 정식 운행을 목표로 하고 있습니다.\n- 이 프로젝트는 태국 내에서 생산된 경전철 시스템을 콘캔, 치앙마이, 푸켓과 같은 도시에 배치하는 것을 목표로 합니다.",
       "full_translated": "태국 콘캔 — 태국 최초 국내 설계 및 제작 경전철이 콘캔에 있는 라자망갈라 기술대학교 이산(RMUTI) 캠퍼스에서 시험 운행을 시작하여 온라인에서 광범위한 관심을 끌고 있습니다. 태국 연구진이 개발한 이 시범 경전철은 현재 대학 내 450m 트랙에서 매일 시범 운행을 하고 있으며, 정문에서 캠퍼스 건물을 지나 유지보수 센터까지 운행합니다. 시험 운행은 12월에 시작되었으며, 1년 이내에 정식 운행이 시작될 것으로 예상됩니다. 이 프로젝트는 콘캔 RMUTI 공학부의 Paiwan Kerdtruat 조교수의 주도하에 6~7년 동안 연구 개발이 진행되었습니다. 연구는 2020년에 경쟁력 관리 부서(PMUC)의 3년 동안의 자금 지원으로 공식적으로 시작되었습니다. Paiwan은 이 경전철이 독일, 일본, 중국의 철도 시스템을 연구한 태국 엔지니어들이 전적으로 설계했다고 말했습니다. 이 계획은 콘캔, 치앙마이, 푸켓과 같은 도시에 배치될 수 있는 국내 생산 경전철 시스템을 만드는 것을 목표로 합니다. 콘캔은 26km 길이의 장기 경전철 프로젝트를 계획하고 있지만 아직 구체화되지는 않았습니다. 3량으로 구성된 이 경전철은 최대 120명의 승객을 수용할 수 있습니다. 배터리와 가공 전선으로 구동되는 하이브리드 시스템을 갖추고 있으며, 향후 수소 동력 버전으로 개발할 계획입니다. 현재 학생들과 방문 대표단은 시험 운행 기간 동안 경전철을 탈 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "콘캔 지역의 새로운 교통 수단 도입 가능성을 보여주는 정보로, 여행객의 이동 편의성에 영향을 줄 수 있습니다. 당장 큰 영향은 없지만, 향후 여행 계획에 참고 자료가 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "라자망갈라 기술대학교 이산(RMUTI) 콘캔 캠퍼스",
-        "price": null,
-        "location_google_map_query": "Rajamangala University of Technology Isan Khon Kaen Campus"
-      },
+      "event_info": "{'date': None, 'location': '라자망갈라 기술대학교 이산(RMUTI) 콘캔 캠퍼스', 'price': None, 'location_google_map_query': 'Rajamangala University of Technology Isan Khon Kaen Campus'}",
       "references": [
         {
           "title": "First Thai-built light rail tram begins test runs in Khon Kaen",
@@ -23296,23 +23288,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/634300703_10234223439222364_2072199321962662068_n.jpg"
         }
       ],
-      "collected_at": "00:27",
+      "collected_at": "0:27",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/634300703_10234223439222364_2072199321962662068_n.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.khaosodenglish.com/news/2026/02/19/first-thai-built-light-rail-tram-begins-test-runs-in-khon-kaen/",
+      "source": ""
     },
     {
       "title": "태국 강에 멸종 위기 샴악어 방생",
       "summary": "- 펫차부리 강에서 순종 샴악어 2마리 발견 및 방생\n- IUCN 적색 목록에 멸종 위기종으로 분류\n- 인간의 방해 위협으로 동남아시아 상업 농장에서 70만 마리 이상 사육",
       "full_translated": "펫차부리에서 발견된 두 마리의 파충류가 순종임이 확인되었습니다. \n\n켕 크라찬 국립공원 책임자인 Mongkol Chaipakdee는 두 마리의 담수 악어가 펫차부리 강에서 발견되었으며, 더 자세한 조사를 위해 지방 어업 사무소로 옮겨졌다고 말했습니다. DNA 검사 결과 둘 다 다른 종과 혼성화되지 않은 강 상류 지역이 원산지인 샴악어로 확인되었다고 Mongkol 씨는 말했습니다. \n\n인도네시아, 브루나이, 동말레이시아, 라오스, 캄보디아, 미얀마, 태국 및 베트남이 원산지인 이 종은 IUCN 적색 목록에서 멸종 위기에 처한 것으로 분류되어 있으며 태국 국립공원 웹사이트에 따르면 이미 많은 지역에서 사라졌습니다. 인간의 교란 위협에 직면하여 동남아시아의 상업 악어 농장에서 700,000마리 이상의 파충류가 사육되고 있다고 언급했습니다. \n\nDNA 검사 및 확인 후 두 마리의 악어는 어업부에서 원래의 보호 서식지로 방생하기 위해 인계되었습니다. 방생은 켕 크라찬 국립공원과 태국 야생동물보존협회(WCS)의 관리들이 실시했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 멸종 위기 동물을 보호하기 위한 노력을 보여주는 기사로, 여행객들에게 흥미로운 정보가 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Phetchaburi River",
-        "price": null,
-        "location_google_map_query": "Phetchaburi River"
-      },
+      "event_info": "{'date': None, 'location': 'Phetchaburi River', 'price': None, 'location_google_map_query': 'Phetchaburi River'}",
       "references": [
         {
           "title": "Critically endangered Siamese crocodiles released into Thai river",
@@ -23321,23 +23310,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200739_260219151630_700.jpg"
         }
       ],
-      "collected_at": "00:27",
+      "collected_at": "0:27",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200739_260219151630_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3200739/critically-endangered-siamese-crocodiles-released-into-thai-river",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 투표용지 불일치 원인 해명",
       "summary": "- 선거관리위원회(꼬꼬떠.)는 지역구 및 비례대표 투표용지 수 불일치가 보고 방식 분리 때문이라고 주장.\n- 95% 이상 정확한 보고만 집계, 부정확한 데이터는 제외되어 차이 발생.\n- 선거의 신뢰도 및 공정성에 대한 우려 해소를 위해 투표 집계 절차 상세히 설명.",
       "full_translated": "태국 선거관리위원회(꼬꼬떠.)는 지역구 투표와 비례대표 투표의 용지 수가 다른 이유가 결과 보고를 분리했기 때문이라고 밝혔습니다. 각 기관에서 보고한 결과가 95%를 초과하는 경우에만 ECT 보고서 69를 통해 제공되며, 그렇지 않은 경우에는 제외되어 두 유형의 점수가 같지 않게 됩니다. 2069년 2월 19일, 쌈낙응안 꼬꼬떠.는 선거 결과 보고 방법과 절차를 설명했습니다. 지역구 써써 선거와 비례대표 명단에 대한 정보가 상당히 다르거나 같지 않은 경우(일명 “투표용지 불일치”)가 있다는 지적이 제기되었기 때문입니다. 사실 각 유권자는 지역구와 비례대표 투표 용지 2장을 받아야 하므로 선거의 신뢰도, 청렴성 및 공정성, 그리고 꼬꼬떠.의 이미지에 영향을 미칩니다. 꼬꼬떠.는 국민에게 알리기 위해 2069년 2월 8일 지역구 써써 선거와 비례대표 명단에 대한 개표 결과 보고 절차를 다음과 같이 설명합니다. 1. 투표소 위원회(꺼뻐뻐너.)가 개표를 완료하면 지역구 써써 선거 결과 보고서(써.써. 5/18)와 해당 투표소의 써써 비례대표 명단 결과 보고서(써.써. 5/18 (버처))를 작성하여 투표소에 게시하여 해당 투표소 구역에 있는 국민이나 관계자가 알 수 있도록 합니다. 정보가 정확하지 않거나 사실과 다른 경우 꺼뻐뻐너.은 해당 사건을 증거로 기록해야 합니다(선거일 전에 투표한 투표 용지 개표 위원회(꺼너커.)의 운영 포함).",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 선거 관련 내용으로, 정치적 불안정 가능성이 낮아 여행객에게 미치는 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. อ้างเหตุบัตรเขย่งเลือกตั้งทั้ง 2 แบบไม่เท่ากัน เพราะแยกรายงานผล",
@@ -23346,23 +23332,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HpwTtrG9gh2u.jpg"
         }
       ],
-      "collected_at": "00:27",
+      "collected_at": "0:27",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HpwTtrG9gh2u.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/politic/2915284",
+      "source": ""
     },
     {
       "title": "영국 경찰, 앤드루 마운트배튼-윈저 공직 부정행위 혐의로 체포",
       "summary": "- 앤드루 마운트배튼-윈저(전 앤드루 왕자)가 공직 부정행위 혐의로 체포됨.\n- 제프리 엡스타인 성범죄 네트워크 연루 의혹과 관련된 새로운 증거 발견됨.\n- 현재 경찰은 관련 부동산 수색 중이며, 앤드루는 구금 상태.",
       "full_translated": "영국 경찰이 앤드루 마운트배튼-윈저(전 앤드루 왕자)를 공직 부정행위 혐의로 체포했습니다. 경찰은 노퍽의 샌드링엄 영지 내 그의 거주지에서 그를 체포했습니다. 이번 체포는 제프리 엡스타인 성범죄 네트워크와 관련된 새로운 증거가 발견된 후 이루어졌습니다. 경찰은 현재 바크셔와 노퍽 지역의 여러 부동산을 수색하고 있으며, 앤드루는 현재 구금 상태입니다. 이번 조치는 앤드루와 엡스타인 간의 '기밀 정보' 공유에 대한 새로운 증거와 요청을 경찰이 접수한 후에 이루어졌습니다. 엡스타인은 과거 아동 성추행 혐의로 유죄 판결을 받은 전직 금융가입니다. 앤드루에 대한 압박은 엡스타인 사건 파일에서 그의 관계에 대한 자세한 내용이 담긴 최신 문서가 공개된 후 더욱 커졌습니다. 키어 스타머 영국 총리는 앤드루에게 투명성을 위해 이러한 연결에 대해 공식적으로 증언할 것을 촉구했습니다. 수석 경찰관 올리버 라이트는 수사 과정에서...",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 여행객에게 직접적인 영향은 없으나, 국제적인 뉴스이므로 정보 제공 가치가 있다고 판단. 다만 여행 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ตำรวจอังกฤษจับกุม \"แอนดรูว์ เมาท์แบตเทน-วินด์เซอร์\" ประพฤติมิชอบในตำแหน่งสาธารณะ",
@@ -23371,8 +23354,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItjjZD777YXG.jpg"
         }
       ],
-      "collected_at": "00:27",
+      "collected_at": "0:27",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItjjZD777YXG.jpg",
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/foreign/2915256",
+      "source": ""
+    },
+    {
+      "title": "파타야 워킹 스트리트, 2026년 공청회에서 긴급 문제 제기",
+      "summary": "- 파타야 워킹 스트리트에서 2026년 지역 포럼의 일환으로 공청회가 개최됨.\n- 교통 체증, 대마초 냄새, 어린이들의 물건 판매 등 문제점이 제기됨.\n- 파타야 시는 주차 규정 강화, 문제 해결을 위해 노력할 것을 약속함.",
+      "full_translated": "파타야 시의 2026년 지역 포럼 및 지역 계획 개발 프로젝트의 일환으로 워킹 스트리트 지역에서 지역 회의가 개최되었습니다. 끄릿사나 분사와트 파타야 부시장이 주재했으며, 또 다른 부시장인 담롱키아트 피니차칸도 참석했습니다. 참석자로는 4구 시의회 의원, 관련 정부 기관장, 방라뭉 지역, 파타야 시 경찰서, 지방 전력청, 지방 수도청, 출입국 경찰과 같은 기관 대표가 포함되었습니다. 수카랏 칸라 워킹 스트리트 파타야 커뮤니티 회장은 지역 기업가 및 주민과 함께 \"워킹 스트리트 파타야\"로 알려진 보행자 거리의 장기적인 지속 가능성과 세계적인 매력을 보장하기 위해 우려 사항을 적극적으로 제기하고 개발 아이디어를 제시했습니다. 커뮤니티에서 제기한 주요 긴급 문제는 다음과 같습니다. 1. 소이 14-16의 교통 체증: 오토바이가 무질서하게 주차되어 출입구를 막고 있다는 보고가 있었습니다. 파타야 시의회는 이 문제를 인지하고 주차 규정을 엄격히 시행하고 위반 차량에 대해서는 즉시 견인할 것을 약속했습니다. 2. 대마초 냄새: 주민들은 대마초 냄새가 이 지역의 관광 이미지와 전반적인 분위기에 부정적인 영향을 미치고 있다고 우려를 표명했습니다. 3. 꽃을 파는 어린이: 거리에서 물건을 파는 어린이를 사용하는 것은 목적지에 부적절한 이미지를 만들고 있다고 지적되었습니다. 출입국 경찰 대표...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 주요 관광지 관련 문제 발생. 교통 혼잡, 이미지 문제 등 여행 경험에 직접적인 영향.",
+      "event_info": {
+        "date": "2026-02-20",
+        "location": "파타야 워킹 스트리트",
+        "price": "무료",
+        "location_google_map_query": "Walking Street Pattaya"
+      },
+      "references": [
+        {
+          "title": "Walking Street Community Voices Urgent Concerns in 2026 Public Forum in Pattaya",
+          "url": "https://thepattayanews.com/2026/02/20/walking-street-community-voices-urgent-concerns-in-2026-public-forum-in-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715230359552059260478110607748.jpg?v=1771523125"
+        }
+      ],
+      "collected_at": "01:10",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715230359552059260478110607748.jpg?v=1771523125",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "파타야 시, Soi 6 교통 체증 해결 위한 주민 회의 개최",
+      "summary": "- 파타야 시는 Soi 6의 심각한 교통 체증 문제 해결을 위해 주민 포럼 개최.\n- 지역 주민, 공무원, 경찰 등 다양한 관계자들이 참여하여 문제점 논의 및 해결 방안 모색.\n- Soi 6는 보행자 통행량이 많은 지역으로, 노점상과 상점 직원들의 도로 점거로 인해 교통 혼잡이 심화되고 있다는 의견 제시.",
+      "full_translated": "2026년 2월 19일 오후 2시, 파타야 부시장 Damrongkiat Phinitkan은 Wat Nong O에서 열린 제6차 주민 포럼 개회식을 주재했으며, 지역 지도자 및 주민들이 대거 참여했습니다. 이 포럼에는 농오 및 Soi 6 지역 사회 대표, 파타야 시 간부, 방라뭉 지역 공무원, 파타야 시 경찰 교통 경찰관 및 기타 관련 당국이 함께했습니다. 많은 지역 사회 회장과 주민들이 두 지역에서 대거 참석했습니다. 파타야 시는 2026년 지역 사회 계획 및 참여 프로젝트의 일환으로 지역 사회 포럼 시리즈를 계속 진행하고 있습니다. 이는 지역 주민들이 필요 사항을 표명하고 문제를 식별하며 당국과 협력하여 실질적인 해결책을 찾아 지역 사회 개발 방향을 적극적으로 형성할 수 있도록 권한을 부여하기 위한 것입니다. 이러한 계획은 파타야 전반에 걸쳐 전체적인 발전을 추진하기 위해 구현됩니다. 최신 세션에서 지역 사회는 시급한 문제에 대해 논의했으며, 가장 두드러진 문제는 Soi 6의 심각한 교통 병목 현상으로, Second Road와 Beach Road까지 확장됩니다. 주민들은 이 지역이 워킹 스트리트 외에 가장 많은 보행자 통행량을 가지고 있지만 보행자 통행량 수준에 대한 전체적인 교통 계획이 없는 것 같다고 말했습니다. 주민들은 하루 종일 도로를 따라 음식 카트와 트레일러를 주차하여 차선을 좁히고 흐름을 방해하는 노점상을 지적했습니다. 또한 바와 상점 직원들이 종종 거리에 서서 지역 주민의 이동을 더욱 방해합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야의 주요 지역 교통 문제에 대한 논의. 여행객에게 불편을 초래할 수 있는 정보이므로 포함.",
+      "event_info": {
+        "date": "2026-02-19",
+        "location": "Wat Nong O, Pattaya",
+        "price": null,
+        "location_google_map_query": "Wat Nong O Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Holds Community Meeting on Resolving Worsening Traffic Problems on Soi 6",
+          "url": "https://thepattayanews.com/2026/02/19/pattaya-city-holds-community-meeting-on-resolving-worsening-traffic-problems-on-soi-6/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771506891591.jpg?v=1771509071"
+        }
+      ],
+      "collected_at": "01:10",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771506891591.jpg?v=1771509071",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "야생동물 통로, 성공적인 결과 보여",
+      "summary": "- 태국 304번 고속도로의 야생동물 통로가 성공적으로 운영되고 있음.\n- 2019년부터 운영된 이 통로는 도로 안전 개선과 생태학적 이득을 가져옴.\n- 7년간의 모니터링 결과, 다양한 종이 꾸준히 이 통로를 이용하는 것으로 나타남.",
+      "full_translated": "프라친 부리: 고속도로국(DoH)은 2019년부터 운영 중인 304번 고속도로의 야생동물 통로가 성공적이라고 평가하며, 도로 안전 개선과 측정 가능한 생태학적 이득을 언급했습니다. 이 통로는 카빈 부리와 팍 통 차이를 연결하는 주요 경로인 304번 고속도로를 따라 카오야이 국립공원과 탑란 국립공원을 관통하면서 발생하는 환경 문제를 해결하기 위해 개발되었습니다. 두 공원은 유네스코 세계 유산인 동파야옌-카오야이 산림 단지의 일부를 형성합니다. 이 프로젝트는 도로 수준의 터널과 그 위의 야생 동물 통로를 특징으로 하여 동물이 안전하게 건너고 자연적인 이동 경로를 유지할 수 있도록 합니다. 이 디자인은 주변 산림 지역의 야생 동물 행동에 대한 광범위한 생태학적 연구를 반영합니다. 파콘 씨판웡 국장은 지난 7년간의 모니터링 결과 다양한 종이 꾸준히 이 통로를 이용하는 것으로 나타났다고 밝혔습니다. 해당 지역의 생물 다양성은 원래 EIA 보고서에 기록된 156종에서 17종으로 증가했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "국립공원 방문객에게 유용한 정보이며, 여행 안전과 관련된 간접적인 정보이므로.",
+      "event_info": {
+        "date": null,
+        "location": "카오야이 국립공원, 탑란 국립공원",
+        "price": null,
+        "location_google_map_query": "Khao Yai National Park, Thap Lan National Park"
+      },
+      "references": [
+        {
+          "title": "Overpass for wildlife 'a success'",
+          "url": "https://www.bangkokpost.com/thailand/general/3201100/overpass-for-wildlife-a-success",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975505_700.jpg"
+        }
+      ],
+      "collected_at": "01:10",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975505_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "이스라엘 관광객, 태국인 불친절 지적 영상 확산",
+      "summary": "- 이스라엘 관광객이 태국 여행 중 불친절함을 느꼈다는 인터뷰 영상이 온라인에서 화제.\n- 방콕 야오와랏(차이나타운)에서 촬영된 영상에서, 필리핀과 비교하며 태국인들이 서두르고 불친절하다고 언급.\n- 해당 영상은 태국 소셜 미디어에서 논쟁을 불러일으키며 태국인들의 친절함에 대한 갑론을박이 벌어짐.",
+      "full_translated": "방콕 — YouTube 채널 Winomicss가 게시한 거리 인터뷰가 이스라엘 관광객이 태국에서의 경험에 대한 비판적인 의견을 공유한 후 입소문을 타고 있습니다. 이 비디오는 호스트가 정기적으로 방문객을 인터뷰하는 방콕의 야오와랏, 차이나타운에서 촬영되었습니다. 클립에서 호스트는 이스라엘에서 온 여성 관광객에게 다음과 같이 질문했습니다. \"여기 온 지 이틀 만에 태국이 개선할 수 있는 점이 뭐라고 생각하십니까?\" 그녀는 다음과 같이 대답했습니다. \"그들은 더 친절해야 합니다. 저는 필리핀에 있었는데 아시아인들이 너무 친절했습니다. 여기 [태국에서] 그들은 덜 친절합니다.\" 구체적인 예를 들어달라는 요청에 그녀는 다음과 같이 말했습니다. \"태국 사람들은 항상 서두르고 항상 당신에게 '해, 해'와 같이 빨리 하도록 강요하는데 기분이 좋지 않습니다.\" 이 클립은 나중에 태국 소셜 미디어 플랫폼에서 널리 공유되어 네티즌들의 반응을 불러일으켰습니다. 일부 사용자는 태국인의 환대를 옹호했습니다. 한 댓글은 다음과 같습니다. \"태국 사람들은 친절과 존경을 보이는 사람들에게 친절합니다. 태국에 있는 것이 즐겁지 않다면 떠나도 좋습니다.\" 또 다른 댓글은 다음과 같이 썼습니다. \"당신은 여기 온 지 이틀밖에 되지 않았습니다. 당신은 판단하기 위해 몇 명의 태국 사람들을 만났습니까?\" 다른 사람들은 더 신중한 어조를 취하여 관광객이 운이 나쁜 사람들을 만났을 수도 있다고 제안하고 앞으로 더 나은 경험을 할 수 있기를 희망했습니다. 비디오는 한 개인의 의견을 반영하며 반드시 태국 방문객의 더 넓은 경험을 나타내는 것은 아닙니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행에 대한 일반적인 불만을 다루고 있으며, 여행객의 경험에 영향을 줄 수 있는 내용이므로 4점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 야오와랏",
+        "price": null,
+        "location_google_map_query": "Yaowarat Bangkok"
+      },
+      "references": [
+        {
+          "title": "Israeli tourist says Thais “should be more nice,” clip goes viral",
+          "url": "https://www.khaosodenglish.com/news/2026/02/19/israeli-tourist-says-thais-should-be-more-nice-clip-goes-viral/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/801.jpg"
+        }
+      ],
+      "collected_at": "01:10",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/801.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "찰스 3세, 동생 앤드루 왕자의 체포 후 법적 절차 준수 강조",
+      "summary": "- 찰스 3세는 앤드루 왕자의 체포 소식을 접하고 우려를 표명함.\n- 법적 절차가 올바르게 진행될 것이라고 강조함.\n- 왕실은 관련 당국에 전폭적인 지원과 협력을 제공할 것이라고 밝힘.",
+      "full_translated": "찰스 3세는 동생인 앤드루 왕자가 공직 부정행위 혐의로 체포된 후 성명을 발표했습니다. 그는 법적 절차가 올바르게 진행되어야 한다고 강조했습니다. 찰스 3세는 이번 사건에 대해 깊은 우려를 표명하며, 관련된 모든 당국에 전폭적인 지원과 협력을 제공할 것이라고 밝혔습니다. 윌리엄 왕세자와 케이트 미들턴 왕세자비도 찰스 3세의 성명을 지지한다고 밝혔습니다. 앤드루 왕자는 노퍽의 샌드링엄 영지에서 체포되었으며, 미국에서 공개된 문서와 관련된 공직 부정행위 혐의를 받고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "영국 왕실 관련 뉴스이므로 태국 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คิงชาร์ลส์ยืนยัน กฎหมายต้องเป็นไปตามขั้นตอน หลังพระอนุชาถูกจับกุม",
+          "url": "https://www.thairath.co.th/news/foreign/2915285",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75Hp4NO4uQGxEJ.jpg"
+        }
+      ],
+      "collected_at": "01:10",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75Hp4NO4uQGxEJ.jpg",
       "date": "2026-02-20"
     }
   ]
