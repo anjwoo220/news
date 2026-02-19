@@ -23805,14 +23805,9 @@
       "summary": "- 태국이 장기 관광객 증가로 인해 무비자 체류에 대한 변경을 고려 중입니다.\n- 정확한 변경 사항은 아직 발표되지 않았습니다.\n- 비자 정책 변경에 대한 최신 정보를 확인해야 합니다.",
       "full_translated": "태국은 장기 관광객으로 인한 부담에 직면하여 무비자 체류에 대한 대대적인 변경을 고려하고 있습니다. 최신 세부 정보를 확인하세요. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 무비자 정책 변경 가능성은 여행객에게 중요한 정보이므로 7점 부여. 비자 및 입국 규정은 여행 계획에 직접적인 영향을 미침.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Facing Strain from Long-Term Tourists, Thailand Considers Drastic Changes to Visa-Free Stays: Find Out The Latest Details Here - Travel And Tour World",
@@ -23821,23 +23816,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxON1BMWXN3ZUNZQ1FOUVpXVklvUmlaNXFNM3JDcHlTVXZTX0x0aFNUeDdST2p5SEdIdVh1bWpzakxHTzhJT29GQThkcEsyaTJBS1hwcVFkWVU4QTBKUGFEU1BtTzNaWDNSMHY1dzFvNlZjSFZob2RlZkdoY2RwNHZqQktrd3RoOFo4TVFrMTlmdFBwNFo2c3diTU9scG9OYzBKTWp6R1VZQzAwX3BISlRLNVM2Szh6d2RCeEdMYzI4MU4tOHRGSWJPUUowNHpFUmNsZDdMVlAzOXFqaTdKNTN2ZDk0QzdwTWlLc3VrNkhYSVZLc1I4SW01RGFJYzdyaTZkNUxF?oc=5",
+      "source": ""
     },
     {
       "title": "2월 19일: 태국에서의 Samra 체포, 여행 보험 및 프로모터 위험 증가 - Meyka",
       "summary": "- Meyka에 따르면 태국에서 Samra 체포로 여행 보험 및 프로모터 위험이 증가했습니다.\n- 자세한 내용은 기사를 참조하십시오.\n- 여행 관련 보험 및 안전에 대한 정보 확인이 필요합니다.",
       "full_translated": "2월 19일: 태국에서의 Samra 체포, 여행 보험 및 프로모터 위험 증가 Meyka",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 체포 사건으로 인해 여행 보험 및 안전에 대한 관심이 높아질 수 있으므로 여행 관련 정보를 제공합니다.",
-      "event_info": {
-        "date": "2024-02-19",
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2024-02-19', 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "February 19: Samra Arrest in Thailand Raises Tour Insurance, Promoter Risk - Meyka",
@@ -23846,23 +23838,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEN5WkNDZ0kwYWFEaE9xYTZxamlmSkIwSWttbkxzamdBZjQ4eWRxR3pBVFpzUnhUYldXM3lGeVNaRDE2aUNudl9IbGhxNzVMLXV1ZkRndE1Hc1dMVW1mVmRPQ0NQN0NmcC0xQXNGV3dFRnFlZ0tRWEFVd2NtNVlQREdoSnVWeFkyOFJ2RTNMeGgxem9GVGROWDlXOVZCYlVkUkxv?oc=5",
+      "source": ""
     },
     {
       "title": "태국 남부 문화유산 쇼케이스 투어 - 방콕 포스트",
       "summary": "- 방콕 포스트에서 태국 남부 문화유산을 소개하는 투어 쇼케이스 진행.\n- 다양한 문화 유적지와 전통 체험 기회 제공.\n- 관광객들에게 태국의 숨겨진 매력을 알리는 데 기여.",
       "full_translated": "태국 남부 문화유산 쇼케이스 투어&nbsp;&nbsp;방콕 포스트",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 남부 지역의 문화유산을 소개하는 투어 정보는 여행객에게 새로운 여행 옵션을 제공하므로.",
-      "event_info": {
-        "date": null,
-        "location": "태국 남부",
-        "price": null,
-        "location_google_map_query": "태국 남부 문화 유적지"
-      },
+      "event_info": "{'date': None, 'location': '태국 남부', 'price': None, 'location_google_map_query': '태국 남부 문화 유적지'}",
       "references": [
         {
           "title": "Tour showcases southern Thai heritage - Bangkok Post",
@@ -23871,7 +23860,82 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2owQWItcldYOC1udUd1TDJKVVdEYS14WGg3QVJTX2dXa0JNeVp6MExLQ3FWMk1HVkc4aklMWmhaY1NrdzlVRUlxMDJVeTM3R0RUSXNuX1dkZHl4QmdqYXYzcHdyTDN0NnRyOC1UVXhLSDN0ck1mZmoycjZEVVNuZG9LcDhmNU4tbE9taGJCbTBfYnpz?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 무료 항공권 프로모션 가능성 시사",
+      "summary": "- 태국 정부가 특정 조건을 충족하는 여행객에게 무료 항공권을 제공하는 프로모션을 고려 중입니다.\n- 자세한 내용은 추후 발표될 예정이며, 여행 성수기를 맞아 관광객 유치를 위한 전략으로 보입니다.\n- 해당 프로모션은 태국 여행에 대한 매력을 높이고, 경제 활성화에 기여할 것으로 기대됩니다.",
+      "full_translated": "태국 정부가 곧 특정 조건을 충족하는 여행객에게 무료 항공권을 제공하는 프로모션을 시행할 가능성이 있습니다. 자세한 내용은 추후 발표될 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 유치 가능성 및 항공편 관련 정보이므로 여행 관련성이 높음. 무료 항공권 프로모션은 여행객에게 직접적인 이득을 제공할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "You may soon be able to score a free flight to Thailand with this deal - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxORzIxajdGajRlWEh4UFplYU1VSkV3UU43aWJFTldtM2RSXzlTWHNTcW9fYkR2SnB1VVZsbWF5MDljMk52SzgxczJRb05saUN0cXV1a0ZhdUN1dl9yN1czWndQRGVlLUIyRjFWakw4U0Q4QThXam40VV9IV2JPdG1qd3E1YWpEZy1aNnQ5bVhGbmN6eFFRVVI3VFI1RG5aSkpLcXZVanRsMExycmttUUpYdmhIWlVMbUFzRUFVcXpDSWNEYXkxSlpyLWtfR2tvZVpYTS1velZROV9LMGdGM0ZiVVRFdXRvUnZDcHh0OWt0SVpOdkpvWEVfQ1dJN09zaWtiOE1OaVNIT3YwczRXdkxlTmhlTktDRElTVVZsTERnOS15WmFVVVJJdi1pREYtdE53UVdvR3o5OEd1UTI5RV8tSjk0TF9pZlJPaXRObTFQa2RLZkk?oc=5",
+          "source": "MSN"
+        }
+      ],
+      "collected_at": "04:26",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "2026년 태국 여행 계획: 안정적인 관광 트렌드 및 시즌별 정보 활용법",
+      "summary": "- 2026년 태국 여행을 위한 관광 트렌드 분석.\n- 최적의 여행 시기 및 맞춤형 여행 계획 수립 방법.\n- 안정적인 관광 시장을 활용한 여행 극대화 전략.",
+      "full_translated": "2026년 태국 어드벤처 계획: 안정적인 관광 트렌드와 시즌별 인사이트로 여행을 극대화하는 방법 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "2026년 여행 계획 정보 제공. 여행 시기 및 트렌드 정보는 여행 계획에 참고 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Plan Your 2026 Thailand Adventure: How Stable Tourism Trends and Seasonal Insights Can Maximise Your Trip - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkh3VFd4U1NjQVA4QUNtNVZqMEt0Q1M1Z3RyN0hNNzloNjdjbkRjaEpvWFd2QTc5RXV4blhDNDJaUEJqQURjeTZCRkhhRzNwNkdHLVNVaUppX0RqZ3BZY0RIMmxoTG5HVmJGTFp3TzhpUV9BbnpYYUdMYTN6ZFVYTUdFMDc3THFodE1Zb1BYMFJaelJlZVoxU1VDZ3FoVDc3cmp1QVUtYlhEWG9QTWpsMUlNOUtVSndTUEJ6aURCMW5pQng3aUI4bVZKa1lRWUxWV3pOT0xQSHFuTTBVQzQtelJHWm9DRnR1?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "리츠칼튼 요트 컬렉션, 럭셔리 여행의 새로운 지평을 열다: 태국 크루즈 여행의 미래를 만나보세요",
+      "summary": "- 리츠칼튼 요트 컬렉션이 태국에서 럭셔리 크루즈 여행의 새로운 가능성을 제시합니다.\n- 고급스러운 시설과 서비스를 통해 특별한 경험을 제공할 예정입니다.\n- 태국 여행객들에게 새로운 형태의 여행 옵션을 제공할 것으로 기대됩니다.",
+      "full_translated": "리츠칼튼 요트 컬렉션이 럭셔리 여행의 새로운 지평을 열고 태국에서 크루즈 여행의 미래를 선보입니다. &nbsp;&nbsp;트래블 앤 투어 월드",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 형태의 럭셔리 여행 옵션을 소개하고 있어 여행객들의 관심도가 높을 것으로 예상되지만, 일반적인 여행에 큰 영향을 미치는 정보는 아니므로 5점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "The Ritz-Carlton Yacht Collection Takes Luxury Travel To New Heights, Discover The Future Of Cruising In Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdGFkd2F1RjBLSEptS293U0Ryem03ZmI1VmpyOTFBYkxBQTVvanJXTklUdWU1LTZLYklGN2RGZHJKYjV6a1ZpVG45UC01QlktNG1mTWpUdlktYXdJODY2MnV3NFplUHFjUllIcmg3amVTWWptWjNWcDNXLUM0dkxqTG1XWUFYR1BzRnByUlhWT3NOeThlVWNBUTlrM2RNT2NsTDNYYnpONFpYNkFJLU9BWHhkZWl5RHVpZ1RQNU1UMHo1ZGN4NUlQM1pZc3lPN2ZVRU01REg1UWdjZ3p4dzlOUkpKZ0Zpd1dNR2t2RV9CemZDeUk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-20"
     }
