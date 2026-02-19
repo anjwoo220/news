@@ -24156,14 +24156,9 @@
       "summary": "- 전 부총리 위싸누 크레아-응암, 투표용지 바코드의 투표 비밀 보장 훼손 우려 제기\n- 바코드가 2월 8일 선거를 무효화할 수 있다고 경고\n- 투표의 익명성 침해 가능성 강조",
       "full_translated": "전 부총리 위싸누 크레아-응암은 투표용지에 바코드를 포함하는 것이 투표의 비밀을 훼손하고 잠재적으로 2월 8일 선거를 무효화할 수 있다고 경고했습니다. 그는 바코드가 투표의 익명성을 침해할 수 있다고 주장합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "선거 관련 정보는 여행자에게 직접적인 영향을 미치지 않지만, 정치적 불안정 가능성을 시사하므로 어느 정도의 주의가 필요함. 여행 일정 변경 가능성 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "'Barcodes may make poll void'",
@@ -24172,23 +24167,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200940_260220011435_700.jpg"
         }
       ],
-      "collected_at": "05:57",
+      "collected_at": "5:57",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200940_260220011435_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/politics/3200940/barcodes-may-make-poll-void",
+      "source": ""
     },
     {
       "title": "태국 경제 성장, 정부 구성 지연 시 1.5% 미만으로 하락 가능성 경고",
       "summary": "- 경제 전문가들은 새 정부 구성의 지연이 태국 GDP 성장을 1.5% 미만으로 떨어뜨릴 수 있다고 경고함.\n- Bhumjaithai당 주도의 연립 정부가 4년 임기를 완수하면 연간 3% 성장이 가능하다고 분석함.\n- 2025년 4분기 GDP 성장률은 2.5%로 예상치를 상회하며 경제 회복에 대한 기대감을 높임.",
       "full_translated": "태국 경제는 Bhumjaithai당 주도의 연립 정부가 4년 임기를 완료할 경우 연간 3% 성장할 수 있다고 경제학자들이 밝혔습니다. 그러나 정부 구성의 지연은 올해 GDP 성장을 1.5% 미만으로 떨어뜨릴 수 있다고 경고했습니다. Bhumjaithai당이 2월 8일 선거에서 압승을 거두고 재무, 상무, 외무부를 포함한 주요 부처를 장악할 것으로 예상되면서 국가 신뢰도가 회복되었습니다. Thammasat University의 경제학자이자 강사인 Kiatanantha Lounkaew는 이렇게 말했습니다. 월요일 국가경제사회개발위원회가 발표한 2025년 4분기 GDP 수치가 2.5% 성장률을 기록하여 예상보다 좋게 나오면서 투자 심리가 더욱 고조되었습니다. 엑니티 니티탄프라파스 재무부 장관 대행은 새 내각에서 자리를 유지할 것으로 널리 예상되며, '경제가 중환자실을 떠났고 정부는 올해 GDP 성장을 3%로 끌어올리기 위해 노력할 것'이라고 언급했습니다. Kiatanantha는 '새 정부가 중단 없이 4년 임기를 마칠 수 있다면 연간 GDP 3% 성장이 가능하며, 태국이 더 이상 '아시아의 병자'가 아님을 분명히 보여주기 위해서는 2~3분기 동안 성장 모멘텀이 지속되어야 한다'고 말했습니다. 성장을 촉진하기 위해 단기 경기 부양책은 100일 이내에 도입되어야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 분석 기사로, 여행 자체에는 직접적인 영향은 없으나, 경제 상황에 따라 여행 관련 소비 심리에 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Analysts warn disruption could slow GDP growth",
@@ -24197,23 +24189,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975530_700.jpg"
         }
       ],
-      "collected_at": "05:57",
+      "collected_at": "5:57",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975530_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201130/analysts-warn-disruption-could-slow-gdp-growth",
+      "source": ""
     },
     {
       "title": "수입 관세, 바트 강세로 급락",
       "summary": "- 세관 부서는 환율, 경제 상황, 자유 무역 협정(FTA)으로 인해 수입 관세 수입에 영향을 받음.\n- 2026 회계연도 처음 3개월 동안 목표보다 8% 낮은 징수액 기록.\n- 바트 강세가 주요 원인으로 분석됨.",
       "full_translated": "세관 부서에 따르면 환율, 경제 상황 및 자유 무역 협정(FTA)으로 인해 수입 관세 수입에 영향을 받아 2026 회계연도 처음 3개월 동안 징수액이 목표보다 8% 낮았습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "환율 변동에 대한 정보는 여행자에게 간접적인 영향을 미칠 수 있지만, 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Import duties plunge thanks to strong baht",
@@ -24221,22 +24210,20 @@
           "source": "Bangkokpost.com : Top Stories"
         }
       ],
-      "collected_at": "05:57",
-      "date": "2026-02-20"
+      "collected_at": "5:57",
+      "image_url": "",
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201145/import-duties-plunge-thanks-to-strong-baht",
+      "source": ""
     },
     {
       "title": "태국군, 훈 마넷 캄보디아 총리의 주장을 반박하며 국제법 준수 강조",
       "summary": "- 태국군은 훈 마넷 캄보디아 총리의 국경 상황 관련 왜곡 주장에 반박하며 국제법에 따른 주권 수호를 강조함.\n- 훈 마넷 총리는 태국군이 캄보디아 영토를 점령하고 컨테이너와 철조망을 설치하여 약 8만 명의 이재민 귀환을 막고 있다고 주장함.\n- 태국군은 해당 지역이 태국 영토로 인정되며, 과거 캄보디아 난민에게 피난처를 제공했으나 일부 캄보디아 민간인과 군인이 귀환하지 않았다고 반박함.",
       "full_translated": "방콕 – 태국군은 목요일 훈 마넷 캄보디아 총리의 발언을 반박하며 국경 상황에 대한 사실 왜곡을 비난하고 태국이 국제법에 따라 주권을 방어하기 위해 행동하고 있다고 주장했습니다. 육군 대변인 Winthai Suvaree 소장은 훈 마넷이 2025년 12월 27일 제3차 특별 국경 위원회(GBC) 회의에서 양측이 서명한 공동 성명에 따른 태국군과 휴전 협정에 관해 로이터에 제공한 2월 17일 인터뷰에 응답했습니다. 훈 마넷은 태국군이 캄보디아 영토를 점령하고 약 80,000명의 이재민의 귀환을 막는 컨테이너와 철조망을 설치했다고 말했습니다. Winthai는 문제 지역이 태국 영토로 인정된다고 말했습니다. 그는 태국이 이전에 분쟁에서 도피하는 캄보디아 난민들이 국경 측에 피난처를 제공하도록 허용했다고 말했습니다. 그러나 전투가 끝난 후 일부 캄보디아 민간인과 군인들은 돌아오지 않았습니다. 그는 공동체가 나중에 태국 주권 영토로 확장되었고, 태국이 양자 메커니즘을 통해 반복적으로 항의했음에도 불구하고 그렇게 했다고 주장했습니다. 그는 이 그룹을 \"이재민\"으로 묘사해서는 안 되며, 태국 영토를 불법적으로 침범하여 태국 시민의 해당 지역 접근에 영향을 미치는 개인으로 간주해야 한다고 말했습니다. 영토 점령 및 컨테이너 및 철조망 설치 주장에 대해 군은 태국이 휴전 조건을 엄격히 준수했다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국-캄보디아 국경 분쟁 관련 뉴스. 직접적인 여행 영향은 낮으나, 국경 지역 여행 시 주의가 필요할 수 있어 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai Army rejects Hun Manet’s claims, says Thailand acting within international law",
@@ -24245,23 +24232,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page80.jpg"
         }
       ],
-      "collected_at": "05:57",
+      "collected_at": "5:57",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page80.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.khaosodenglish.com/news/2026/02/19/thai-army-rejects-hun-manets-claims-says-thailand-acting-within-international-law/",
+      "source": ""
     },
     {
       "title": "Gianna Clemente, 태국에서 프로 시즌 시작 및 Nike 합류에 대한 기쁨 표명 - LPGA",
       "summary": "- Gianna Clemente가 태국에서 프로 시즌을 시작하며 Nike 가족에 합류하게 된 것에 대한 기쁨을 나타냈습니다.\n- LPGA 소속으로 활동할 예정입니다.\n- 태국에서 프로 데뷔를 하게 되어 기대감을 표현했습니다.",
       "full_translated": "Gianna Clemente “Thrilled” to Jumpstart First Pro Season in Thailand, Join Nike Family&nbsp;&nbsp;LPGA",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "스포츠 뉴스이며, 태국에서 열리는 스포츠 이벤트에 대한 정보이므로 여행객에게 약간의 흥미를 유발할 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Gianna Clemente “Thrilled” to Jumpstart First Pro Season in Thailand, Join Nike Family - LPGA",
@@ -24270,8 +24254,131 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:57",
+      "collected_at": "5:57",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHUzOUFYdjR6b1U2ZVJQSXZKRWxWMDFCbjZIbjU3Tmh5UDdPR0wwbkVIbWhvYUo1YlVoSE1HM0NBdDQwbWRQSlZ5QmRBdVZnUGJaSFJyaUowYVM3Z1FJdG1CeW9KdUNpcTIxRUNIS253eFBqX2owREVSRVNjeHNIbEo0MUdxUi1mVFliTlNBMnJaUk4wMjBUTVJicnhKVXRsaDRiSURsMzh0UVlDU09KNm16cTk?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야, 이미지 개선 노력 속에서 어두운 그림자 드리워",
+      "summary": "- 태국 정부가 국가 이미지 개선을 위해 노력하는 가운데, 파타야는 그 이면의 문제점들을 드러내고 있음.\n- 파타야의 어두운 면은 관광객 유치에 부정적인 영향을 미칠 수 있다는 우려가 제기됨.\n- 이미지 개선 노력과 함께 파타야가 직면한 문제 해결이 시급하다는 지적.",
+      "full_translated": "태국은 이미지를 개선하는 반면 파타야는 그 대가를 치르고 있습니다. 파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야의 문제점을 지적하여 여행자에게 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand polishes its image while Pattaya pays the price - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkxlVnV3VS1yTEFSeXZWb1lPM1hoT2p3MFNJYnZBUGpHMTFEdFg5RUVZRC1pYjJjb0xkWEgteTBJcXl3S0RwVjBkc25NS1lPd3JPM3Zwc2VSOXN0X09NVkxJbk93bEJTZzNLYUQ5LUZscmRseC16ZHNDSmpxWGs5bmFDQmc0QldxaU41NnhTM3hyS1I0XzJJU2I4eVk?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:27",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "부리람 유나이티드, AFC 챔피언스리그 16강에서 멜버른 시티와 격돌",
+      "summary": "- 태국 리그1 챔피언 부리람 유나이티드가 AFC 챔피언스리그 엘리트 16강에서 멜버른 시티와 맞붙습니다.\n- 경기는 다음 달에 열릴 예정입니다.\n- 부리람 유나이티드는 태국 축구 클럽입니다.",
+      "full_translated": "태국 리그1 챔피언 부리람 유나이티드가 다음 달 AFC 챔피언스리그 엘리트 16강에서 멜버른 시티와 맞붙습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 축구 소식은 스포츠 팬 여행자에게 흥미로운 정보가 될 수 있지만, 여행에 직접적인 영향은 적습니다.",
+      "event_info": {
+        "date": null,
+        "location": "부리람",
+        "price": null,
+        "location_google_map_query": "부리람"
+      },
+      "references": [
+        {
+          "title": "Buriram United book Melbourne clash",
+          "url": "https://www.bangkokpost.com/sports/3201045/buriram-united-book-melbourne-clash",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "06:27",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 생명 보험, 2026년 1조 바트 돌파 예상",
+      "summary": "- 태국 생명 보험 산업, 건강 및 중병 보장 성장으로 2026년에 총 보험료 1조 바트 돌파 전망\n- 경제 역풍에도 불구하고 생명 및 비생명 보험 모두 강력한 성장세 예상\n- 이는 태국 보험 산업의 중요한 이정표가 될 것으로 보임",
+      "full_translated": "태국의 생명 보험 산업은 중대한 해를 맞이할 준비가 되어 있습니다. 건강 및 중병 보장의 강력한 성장에 힘입어 생명 및 비생명 보험 모두 총 보험료가 사상 처음으로 1조 바트를 초과할 것으로 예상됩니다. 이는 지속적인 경제 역풍에도 불구하고 달성될 것으로 보입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 경제 상황에 대한 간접적인 정보 제공. 핫플레이스나 안전 정보는 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Life segment forecasts watershed year in 2026",
+          "url": "https://www.bangkokpost.com/business/general/3201080/life-segment-forecasts-watershed-year-in-2026",
+          "source": "Bangkokpost.com : Top Stories"
+        }
+      ],
+      "collected_at": "06:27",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국, 국가 안보 위한 자체 기술 개발 중요성 강조",
+      "summary": "- 태국은 장기적인 국가 안보와 경제 성장을 위해 자체 기술 및 혁신적인 인프라 개발이 필수적이라고 전문가들이 강조.\n- 외산 기술 의존의 보이지 않는 비용에 대한 우려 제기. 데이터 보안 및 디지털 주권 확보를 위해 자체 솔루션 개발 필요.\n- 군사 작전 시 외부 지원 없이 자체적으로 기술적 대응책을 마련하고 신속하게 배치할 수 있어야 한다고 공군 관계자가 밝힘.",
+      "full_translated": "태국은 장기적인 국가 안보와 경제 성장을 보장하기 위해 자체 기술 및 혁신적인 인프라를 개발해야 한다고 기술 연구원과 군 관계자가 밝혔습니다.\n\n태국 국립전자컴퓨터기술센터(Nectec)가 40주년을 기념하여 주최한 '태국 전환점' 세미나에서 공군 참모차장인 ACM Prapas Sornchaidee는 \"태국 혁신을 국가 의제 항목으로 격상시키는 것은 더 이상 선택 사항이 아니며, 특히 국가 방어를 보호하는 데 필수적입니다.\"라고 말했습니다. \"기술 수입만으로는 태국을 확보할 수 없습니다. 진정한 안전은 자체 솔루션을 만드는 데 있습니다.\"\n\n주요 관심사는 외국 플랫폼에 의존하는 보이지 않는 비용입니다. ACM Prapas는 외국 기술을 사용하면 사용자 데이터가 지속적으로 수집되고 수확된다고 말했습니다. 그는 국가가 기술을 현지에서 발명하고 개발함으로써 자체 데이터를 효과적으로 보호하여 디지털 주권을 보호하고 국가 안보를 강화할 수 있다고 말했습니다.\n\n드론 배치 또는 방어와 같은 군사 작전에서 ACM Prapas는 완전한 독립의 필요성을 강조했습니다. 위협이 발생하면 군인은 외부 지원이나 기술 지원을 기다릴 여유가 없습니다. 군대는 자체적으로 기술적 대응책을 준비, 조립 및 신속하게 배치할 수 있는 장비를 갖추어야 한다고 그는 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국의 기술 및 안보 관련 정책 방향을 이해하는 데 도움이 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Sovereign technology key to national security, say pundits",
+          "url": "https://www.bangkokpost.com/business/general/3201025/sovereign-technology-key-to-national-security-say-pundits",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975480_700.jpg"
+        }
+      ],
+      "collected_at": "06:27",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975480_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "요드차난, 장관직 맡지 않을 수도",
+      "summary": "- 프어 타이 총리 후보 요드차난, 새 정부에서 장관직을 맡지 않을 수 있다는 추측이 제기됨.\n- 그의 부모인 솜차이 전 총리와 야오와파는 탁신 친나왓 전 총리를 클롱프렘 교도소에서 방문.\n- 선거관리위원회가 400명의 지역구 의원을 모두 승인하여 품짜이타이당이 연립 정부 협상을 진행할 수 있게 됨.",
+      "full_translated": "프어 타이 총리 후보인 요드차난 웡사왓이 품짜이타이당(BJT)이 구성하는 새 정부에서 장관직을 맡지 않을 수 있다는 추측이 일고 있습니다. 요드차난 씨는 그의 부모인 솜차이 전 총리와 야오와파가 목요일 방콕의 클롱프렘 중앙 교도소에서 탁신 친나왓 전 총리를 방문한 후 더욱 주목을 받았습니다. 이번 방문은 선거관리위원회가 400명의 지역구 의원을 모두 승인하여 2월 8일 선거에서 가장 많은 의석을 차지한 BJT가 아누틴 찬비라쿨 대표를 총리로 추대하고 연립 정부 협상을 진행할 수 있도록 길을 열어준 후에 이루어졌습니다. 솜차이는 교도소 방문 후 요드차난의 미래에 대한 질문에 대해, 그가 내각 직책을 맡기로 결정하든 그렇지 않든 그의 결정을 존중한다고 말했습니다. 그는 또한 정치적인 문제는 가족 내에서 논의되지 않으며 부모로서 지지할 뿐이라고 언급했습니다. 한편 탁신은 요드차난에게 아무런 메시지가 없었고 단지 도덕적 지지만 보냈다고 솜차이는 덧붙였습니다. 솜차이는 또한 프어 타이와 BJT의 정치적 파트너십에 대해 언급을 거부했습니다. 한편, 목요일 방콕의 프어 타이 본부에는 당이 가입하는 것에 대한 지지를 표명하기 위해 붉은 셔츠 지지자들이 모였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Yodchanan may not take ministry post",
+          "url": "https://www.bangkokpost.com/thailand/politics/3200950/yodchanan-may-not-take-ministry-post",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200950_260220010003_700.jpg"
+        }
+      ],
+      "collected_at": "06:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200950_260220010003_700.jpg",
       "date": "2026-02-20"
     }
   ]
