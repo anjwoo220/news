@@ -21845,14 +21845,9 @@
       "summary": "- 태국 교도소에서 원숭이두창 확진자 발생, 보건 자원봉사자 2명 감염 확인.\n- 교도소 내 확산 방지를 위해 백신 추가 접종 및 방역 강화 조치 시행.\n- 수감자 이동 제한, 원격 면회 전환 등 추가적인 확산 방지 노력.",
       "full_translated": "태국 질병통제국 국장은 교도소 내 원숭이두창 감염 사례와 관련하여, 밀접 접촉자 2명이 감염되었으며 이들은 교도소 보건 자원봉사자라고 밝혔습니다. 다행히 증상은 심각하지 않으며, 상황은 통제 가능한 수준입니다. 관련 기관들은 협력하여 교도소 외부로의 확산을 막기 위해 노력하고 있습니다. 45명에게 백신을 추가 접종하고 치료제를 준비 중이며, 석방 예정인 고위험군에게는 자가 증상 관찰 및 지역 보건 당국과의 협력을 권고하고 있습니다. 교도소는 면회 방식을 원격으로 전환하고, 모든 구역의 수감자를 면밀히 감시하고 있습니다. 2월 11일, 44세 남성 수감자가 원숭이두창으로 사망한 사례가 보고된 후, 질병통제국은 교도소와 협력하여 즉각적인 예방 및 통제 조치를 시행했습니다. 동일 구역 내 밀접 접촉자 32명을 격리 및 감시하고, 위험 지역 내 수감자 이동을 중단했습니다. 21일 동안 하루 2회 체온을 측정하고, 면회를 중단하며, 대대적인 환경 소독과 표준에 따른 감염성 폐기물 관리를 엄격히 시행하고 있습니다. 의료진과 관련 담당자를 중심으로 병원 내 접촉자를 면밀히 추적하고, 고위험군에게 백신을 지원하고 있습니다. 최근 2월 18일, 질병통제국 국장은 교도소 내 원숭이두창 역학 조사를 위해 교도소 및 관련 기관과 협력한 결과, 환자 간호와 관련된 수감자 및 보건 자원봉사자 49명이 고위험군으로 확인되었다고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "교도소 내 발생이지만, 여행객 안전에 대한 간접적 영향 가능성 존재. 확산 방지 노력에 대한 정보 제공 가치.",
-      "event_info": {
-        "date": null,
-        "location": "태국 교도소",
-        "price": null,
-        "location_google_map_query": "태국 교도소"
-      },
+      "event_info": "{'date': None, 'location': '태국 교도소', 'price': None, 'location_google_map_query': '태국 교도소'}",
       "references": [
         {
           "title": "พบ 2 อสม.คุก ใกล้ชิด มีเชื้อ \"ฝีดาษลิง\" ทั้งคู่ ราชทัณฑ์สั่งคุมเข้ม จัดวัคซีนฉีดป้องกัน",
@@ -21861,23 +21856,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiW7J4zSJ19n.jpg"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiW7J4zSJ19n.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/2915093",
+      "source": ""
     },
     {
       "title": "이탈리아 관광객, 태국 펍에서 황금 사자상 훔치다 체포 - MSN",
       "summary": "- 52세 이탈리아 남성이 태국 펍에서 황금 사자상을 훔쳐 체포됨.\n- 해당 남성은 관광객으로, 펍에서 장식용으로 놓여 있던 조각상을 훔침.\n- 현지 경찰은 그를 절도 혐의로 기소할 예정.",
       "full_translated": "52세의 이탈리아 관광객이 태국 펍에서 황금 사자상을 훔치다 체포되었습니다. - MSN",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광지에서 발생한 절도 사건으로, 여행객 대상 범죄에 대한 경각심을 줄 수 있음. 여행객 안전에 대한 잠재적 위협 요소.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Italian tourist, 52, caught stealing golden lion statue from pub in Thailand - MSN",
@@ -21886,23 +21878,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmxzWGZ2c3pld1AzekVrSkVwUjNfaV9lSV9oZ2xzVFVvY093c1hjOS1EZlJuMUd1ZkdBTzdTT2dJbGItNmNRU1N6NUhiZUFQbnItaEh4dEZjMnJEc2NhQnFuT09vdGlFb253ZVJySlVlS3BBdTdFR3BBeFNuSXdZQ0I4MEw1YjljS09TdHE2d0xQa2w1NkF0VXZRNDkwMmlVVTVYcnhiM01TQ1V1ZC1zV011WjdSeng5dlcxMUc1djQ3Zw?oc=5",
+      "source": ""
     },
     {
       "title": "차층사오 주에서 새끼 코끼리, 올무에 걸려 사망",
       "summary": "- 차층사오 주에서 1살 된 새끼 코끼리가 올무에 걸려 죽은 채 발견됨.\n- 코끼리 발목에 올무가 묶여 있었으며, 상처가 심하게 곪아 있었음.\n- 당국은 밀렵꾼들에게 야생 동물 학대 행위를 중단할 것을 촉구.",
       "full_translated": "차층사오 주에서 1살 된 새끼 코끼리가 늪지대에서 죽은 채 발견되었습니다. 코끼리의 왼쪽 앞발목에는 올무가 꽉 조여져 있었습니다. 관계자들은 카오 앙 르나이 야생동물 보호구역에서 해당 새끼 코끼리의 사체를 발견했습니다. 새끼 코끼리는 숲 속의 농야웅 지역, 7번 빌리지, 클롱 타크라오 구역, 타타키압 지역, 차층사오 주에서 발견되었습니다. 조사 결과, 새끼 코끼리는 수컷이었고, 1살 이상으로 추정됩니다. 왼쪽 앞발목에는 올무가 묶여 있었습니다. 카오 앙 르나이 야생동물 보호구역의 책임자인 에카차이 센디는 경찰에 연락하여 증거를 수집하고, 야생동물 지원 센터 2의 의료팀에 검사를 요청했습니다. 새끼 코끼리의 눈은 매우 슬퍼 보였습니다. 조직 샘플은 절차에 따라 검사를 위해 수집될 예정입니다. 에카차이 센디는 수사관의 승인을 받아 새끼 코끼리의 사체를 해당 지역에 묻어 폐기했습니다. 그는 사냥꾼들에게 야생 동물 학대를 중단할 것을 촉구했습니다. 위반자는 징역형과 벌금형을 받을 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 야생 동물 보호에 대한 인식을 높이는 뉴스이며, 여행객들에게 야생 동물 보호의 중요성을 상기시킬 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "차층사오 주",
-        "price": null,
-        "location_google_map_query": "차층사오 주"
-      },
+      "event_info": "{'date': None, 'location': '차층사오 주', 'price': None, 'location_google_map_query': '차층사오 주'}",
       "references": [
         {
           "title": "พบ \"ลูกช้างป่า\" วัย 1 ปี ล้มตายริมหนองน้ำ ข้อเท้าซ้ายขาหน้า มีบ่วงเชือกรัดแน่น",
@@ -21911,23 +21900,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiaIQUkLiWv0.jpg"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiaIQUkLiWv0.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/east/2915092",
+      "source": ""
     },
     {
       "title": "태국-파키스탄, 보편적 건강 보장 및 의료 관광 협력",
       "summary": "- 태국과 파키스탄이 보편적 건강 보장 및 의료 관광 분야에서 협력합니다.\n- 이 협력은 양국 간의 의료 서비스 접근성 향상에 기여할 것으로 예상됩니다.\n- 구체적인 협력 내용은 아직 공개되지 않았습니다.",
       "full_translated": "태국과 파키스탄이 보편적 건강 보장 및 의료 관광 분야에서 협력합니다. The Diplomatic Insight",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "의료 관광객에게 잠재적인 영향이 있을 수 있지만, 즉각적인 영향은 제한적이라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand, Pakistan to Cooperate on Universal Health Coverage and Medical Tourism - The Diplomatic Insight",
@@ -21936,23 +21922,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEszWDF0QldPZ2lXNS1QUkMwcmN2RWMtQ2xuUFYzS1lCakgyN2ZsbE5IbGwyeHNudmloTTlWWDVWN1d5c25veUdKMG9zX2NRRHl2YnRFODNZX2VhYUxjdV9FSElYbFRlRVdCYVItR0Y1cGJXMWJ0Qm5LbU5zeUpPYjhFOEk?oc=5",
+      "source": ""
     },
     {
       "title": "태국 1월 산업 신뢰도 소폭 상승",
       "summary": "- 태국의 1월 산업 신뢰도가 소폭 상승했습니다.\n- 구체적인 상승 폭에 대한 정보는 제공되지 않았습니다.\n- 여행객에게 미치는 직접적인 영향은 제한적일 것으로 판단됩니다.",
       "full_translated": "태국의 1월 산업 신뢰도가 소폭 상승했습니다. AzerNews",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 동향에 대한 정보이지만, 여행객에게 직접적인 영향을 미치지 않으므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Industrial confidence in Thailand saw modest increase in January - AzerNews",
@@ -21961,8 +21944,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:19",
+      "collected_at": "8:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10RFhDMEpwbDFfOXpqNzVuVkRmRWdNbWRUNEhwX1VyR1RlSV81OGVQdk00bnJ6Qy14dWJHYjZab2RRMHRzQXA4RHFBakZSamRWbS1JaA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, PM2.5 미세먼지 감지를 위한 '전자 코' 개발 및 배치",
+      "summary": "- 태국 정부가 PM2.5 미세먼지 문제 해결을 위해 '전자 코' 기술 도입.\n- 5개 시범 구역에 100개의 전자 코 장치를 배치하여 오염원 추적.\n- 농업 화재 및 산업 활동으로 인한 미세먼지 발생 원인 파악 및 정책 결정 지원.",
+      "full_translated": "태국의 PM2.5 대기 오염의 지속적인 위협으로 인해 이러한 환경 문제를 완화하기 위한 자체 솔루션이 만들어졌습니다. 이번 개발은 기술 수입을 줄이고 국내 기술 역량을 강화하여 기술 주권을 강화할 것으로 예상됩니다. 국립나노기술센터(Nanotec)는 오염 통제 부서 및 태국 전력청과 협력하여 5개의 시범 구역에 100개의 지능형 전자 코 또는 'e-nose' 장치를 배치할 계획입니다. 이 이니셔티브는 특히 농업 소각 및 산업 활동에서 발생하는 미세 먼지(PM2.5)의 출처를 추적하고 국가 정책 결정을 지원하기 위한 매우 정확한 빅 데이터 플랫폼을 구축하는 것을 목표로 합니다. Nanotec의 Uracha Ruktanonchai 전무이사는 '특히 미세 먼지 오염과 같은 환경 문제는 국가 최우선 과제로 남아 있습니다.'라고 말했습니다. Nanotec의 전략은 나노 기술을 사용하여 영향만 모니터링하는 것이 아니라 오염원을 식별하는 데 중점을 둡니다. 전자 코 기술은 식품 품질 관리 및 향기 테스트와 같은 분야에서 상업적으로 사용되었습니다. 센터는 최근 대기 오염 관리의 정확성과 지속 가능성을 향상시키기 위해 전자 코 시스템을 본격적인 적용을 위해 업그레이드했습니다. Rungroj Maulan",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "방콕 여행 시 미세먼지 농도는 여행객 건강에 중요한 영향을 미치므로 관련 정보 제공. 특히, 새로운 기술 도입에 대한 업데이트이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "‘E-nose’ to sniff out air pollution",
+          "url": "https://www.bangkokpost.com/business/general/3200405/enose-to-sniff-out-air-pollution",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200405_260219060515_700.jpg"
+        }
+      ],
+      "collected_at": "10:57",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200405_260219060515_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "델타 항공 여객기, 조종실 침입 시도 승객 발생으로 비상 착륙",
+      "summary": "- 델타 항공 국내선 2557편이 승객의 조종실 침입 시도로 휴스턴 공항에 비상 착륙했습니다.\n- 승객 85명과 승무원 5명이 탑승한 항공기는 휴스턴에서 애틀랜타로 향하던 중이었습니다.\n- 조종사는 관제탑에 승객의 침입 시도를 알리고 비상 착륙을 요청했으며, 착륙 후 용의자는 체포되었습니다.",
+      "full_translated": "델타 항공 국내선 여객기가 승객의 조종실 침입 시도로 인해 휴스턴 공항에 비상 착륙하는 소동이 발생했습니다. 2월 18일, 델타 항공 2557편(보잉 717)은 휴스턴에서 이륙하여 애틀랜타로 향하던 중, 이륙 직후 조종사가 관제탑에 승객이 조종실로 침입하려 한다고 신고하며 비상 착륙을 요청했습니다. 항공기에는 승객 85명과 승무원 5명이 탑승하고 있었으며, 비상 착륙 후 용의자는 체포되어 조사를 받고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공기 비상 착륙은 여행객의 항공편 이용에 차질을 줄 수 있으므로 여행 관련 정보로 분류. 안전 관련 이슈이므로 높은 점수 부여.",
+      "event_info": {
+        "date": "2069-02-18",
+        "location": "휴스턴 하비 공항",
+        "price": null,
+        "location_google_map_query": "Houston Hobby Airport"
+      },
+      "references": [
+        {
+          "title": "ระทึก เครื่องบิน \"เดลตา แอร์ไลน์ส\" ลงจอดฉุกเฉิน หลังนักบินแจ้งว่ามีผู้โดยสารพยายามบุกห้องนักบิน",
+          "url": "https://www.thairath.co.th/news/foreign/2915120",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx799wveYcmRmOaa.jpg"
+        }
+      ],
+      "collected_at": "10:57",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx799wveYcmRmOaa.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국-캄보디아 국경, 사이버 범죄 연루 외국인 무더기 적발",
+      "summary": "- 태국 해군, 불법 입국한 중국인 5명과 캄보디아인 1명 체포.\n- 이들은 사이버 범죄 조직과 연계되어 있으며, 270대의 휴대폰 압수.\n- 캄보디아는 불법 도박 및 사이버 사기의 근거지로 알려져 있음.",
+      "full_translated": "태국 해군은 국가 안보와 지역 안정을 보호하기 위한 적극적인 조치를 계속하고 있습니다. 특히 사이버 범죄(Cyber Scam)는 전 세계 여러 국가의 사람들에게 영향을 미치고 있습니다. \n\n지난 18일, 짠타부리 및 트랏 국경 방어 사령부는 6명의 불법 입국자를 체포했습니다. 이들은 중국 국적 남성 5명과 캄보디아 국적 남성 1명으로 구성되어 있으며, 270대의 휴대폰과 다수의 유심카드, 그리고 여러 통화를 소지하고 있었습니다. 이는 태국-캄보디아 국경의 네언딘댕 마을 인근에서 국제 사이버 범죄 네트워크를 지원하는 것과 관련된 것으로 보입니다. \n\n초기 심문에서 이들은 캄보디아에서 도망쳐 왔다고 진술했습니다. 캄보디아는 불법 도박 사업과 사이버 사기 네트워크와 같은 불법 활동의 중심지로 국제적으로 알려져 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "국경 지역에서 외국인 범죄 조직 적발. 여행객 대상 범죄 가능성 및 주의 필요. 사이버 범죄 관련 내용 포함.",
+      "event_info": {
+        "date": "2024-02-19",
+        "location": "태국-캄보디아 국경, 네언딘댕 마을",
+        "price": null,
+        "location_google_map_query": "네언딘댕 마을 태국 캄보디아 국경"
+      },
+      "references": [
+        {
+          "title": "จับเครือข่ายอาชญากรรมไซเบอร์ข้ามชาติ ลักลอบเข้าเมือง พร้อมมือถือ 270 เครื่อง",
+          "url": "https://www.thairath.co.th/news/local/east/2915123",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx799whvbhErIPZa.jpg"
+        }
+      ],
+      "collected_at": "10:57",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx799whvbhErIPZa.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "방콕, 가면라이더 테마의 국수 맛집 개업",
+      "summary": "- 전직 은행원이 어린 시절의 영웅 가면라이더를 테마로 한 식당 개업\n- '라이더 투인원' 똠얌 국수가 대표 메뉴이며, 다양한 수집품으로 장식\n- 방콕 락시 지역, 응암웡완 로드에 위치",
+      "full_translated": "61세의 전직 은행가가 어린 시절의 가면라이더 사랑을 바탕으로 '라이더 국수'라는 테마 식당을 열었습니다. 이 식당은 '라이더 투인원' 똠얌으로 유명하며, 다양한 수집품으로 장식되어 있습니다. 국수 가게는 태국 방콕 락시 지역 응암웡완 로드에 위치해 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "특이한 테마 식당 정보는 여행객에게 흥미로운 선택지가 될 수 있음",
+      "event_info": {
+        "date": null,
+        "location": "Ngamwongwan Road, Thung Song Hong, Lak Si district, Bangkok",
+        "price": null,
+        "location_google_map_query": "Ngamwongwan Road, Thung Song Hong, Lak Si district, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Bangkok's noodles with a Kamen Rider Kick",
+          "url": "https://www.bangkokpost.com/video/thailand/3200643/kamen-rider-noodle-shop-in-bangkok-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200643_700.jpg"
+        }
+      ],
+      "collected_at": "10:57",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200643_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "나콘랏차시마 지역, 지방 의원 사망 사건 발생...선거 관련 갈등 추정",
+      "summary": "- 나콘라차시마 지역 탐본 관리 기구(어버떠) 의원이 총에 맞아 사망한 채 발견됨.\n- 유족은 지방 선거 관련 갈등 가능성을 제기하며 정확한 사인 조사를 요구하고 있음.\n- 경찰은 여러 가능성을 열어두고 수사 진행 중.",
+      "full_translated": "나콘라차시마주 부아야이 지역의 논밭에서 탐본 관리 기구 (어버떠) 의원인 수넷 파크디 (69세) 씨가 총에 맞아 사망한 채 발견되었습니다. 현장에는 .38 구경 권총이 함께 발견되었으며, 그의 아내는 남편이 스스로 목숨을 끊었을 가능성은 낮다고 주장했습니다. 경찰은 선거 관련 소송으로 인한 스트레스 가능성을 포함하여 모든 가능성을 열어두고 수사를 진행하고 있습니다. 목격자 증언에 따르면 사건 당일 아침 피해자가 차를 몰고 나가는 것을 보았으며, 이후 총소리가 들렸다는 증언도 있습니다. 유족들은 선거 과정에서 발생한 마을 기금 관리 관련 민원 제기가 이번 사건과 관련이 있을 수 있다고 보고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 지역 사회의 불안감을 야기할 수 있는 사건. 여행 시 주의를 요함.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "나콘라차시마 주 부아야이 지역",
+        "price": null,
+        "location_google_map_query": "Bua Yai District, Nakhon Ratchasima, Thailand"
+      },
+      "references": [
+        {
+          "title": "สมาชิก อบต.ด่านช้าง เสียชีวิตปริศนาท้ายหมู่บ้าน เมียคาดปมเลือกตั้งท้องถิ่น",
+          "url": "https://www.thairath.co.th/news/local/northeast/2914768",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIBZoQRUwkzD0Up.jpg"
+        }
+      ],
+      "collected_at": "10:57",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIBZoQRUwkzD0Up.jpg",
       "date": "2026-02-19"
     }
   ]
