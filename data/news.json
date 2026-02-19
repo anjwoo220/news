@@ -21955,14 +21955,9 @@
       "summary": "- 태국 정부가 PM2.5 미세먼지 문제 해결을 위해 '전자 코' 기술 도입.\n- 5개 시범 구역에 100개의 전자 코 장치를 배치하여 오염원 추적.\n- 농업 화재 및 산업 활동으로 인한 미세먼지 발생 원인 파악 및 정책 결정 지원.",
       "full_translated": "태국의 PM2.5 대기 오염의 지속적인 위협으로 인해 이러한 환경 문제를 완화하기 위한 자체 솔루션이 만들어졌습니다. 이번 개발은 기술 수입을 줄이고 국내 기술 역량을 강화하여 기술 주권을 강화할 것으로 예상됩니다. 국립나노기술센터(Nanotec)는 오염 통제 부서 및 태국 전력청과 협력하여 5개의 시범 구역에 100개의 지능형 전자 코 또는 'e-nose' 장치를 배치할 계획입니다. 이 이니셔티브는 특히 농업 소각 및 산업 활동에서 발생하는 미세 먼지(PM2.5)의 출처를 추적하고 국가 정책 결정을 지원하기 위한 매우 정확한 빅 데이터 플랫폼을 구축하는 것을 목표로 합니다. Nanotec의 Uracha Ruktanonchai 전무이사는 '특히 미세 먼지 오염과 같은 환경 문제는 국가 최우선 과제로 남아 있습니다.'라고 말했습니다. Nanotec의 전략은 나노 기술을 사용하여 영향만 모니터링하는 것이 아니라 오염원을 식별하는 데 중점을 둡니다. 전자 코 기술은 식품 품질 관리 및 향기 테스트와 같은 분야에서 상업적으로 사용되었습니다. 센터는 최근 대기 오염 관리의 정확성과 지속 가능성을 향상시키기 위해 전자 코 시스템을 본격적인 적용을 위해 업그레이드했습니다. Rungroj Maulan",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "방콕 여행 시 미세먼지 농도는 여행객 건강에 중요한 영향을 미치므로 관련 정보 제공. 특히, 새로운 기술 도입에 대한 업데이트이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘E-nose’ to sniff out air pollution",
@@ -21973,21 +21968,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200405_260219060515_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/business/general/3200405/enose-to-sniff-out-air-pollution",
+      "source": ""
     },
     {
       "title": "델타 항공 여객기, 조종실 침입 시도 승객 발생으로 비상 착륙",
       "summary": "- 델타 항공 국내선 2557편이 승객의 조종실 침입 시도로 휴스턴 공항에 비상 착륙했습니다.\n- 승객 85명과 승무원 5명이 탑승한 항공기는 휴스턴에서 애틀랜타로 향하던 중이었습니다.\n- 조종사는 관제탑에 승객의 침입 시도를 알리고 비상 착륙을 요청했으며, 착륙 후 용의자는 체포되었습니다.",
       "full_translated": "델타 항공 국내선 여객기가 승객의 조종실 침입 시도로 인해 휴스턴 공항에 비상 착륙하는 소동이 발생했습니다. 2월 18일, 델타 항공 2557편(보잉 717)은 휴스턴에서 이륙하여 애틀랜타로 향하던 중, 이륙 직후 조종사가 관제탑에 승객이 조종실로 침입하려 한다고 신고하며 비상 착륙을 요청했습니다. 항공기에는 승객 85명과 승무원 5명이 탑승하고 있었으며, 비상 착륙 후 용의자는 체포되어 조사를 받고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공기 비상 착륙은 여행객의 항공편 이용에 차질을 줄 수 있으므로 여행 관련 정보로 분류. 안전 관련 이슈이므로 높은 점수 부여.",
-      "event_info": {
-        "date": "2069-02-18",
-        "location": "휴스턴 하비 공항",
-        "price": null,
-        "location_google_map_query": "Houston Hobby Airport"
-      },
+      "event_info": "{'date': '2069-02-18', 'location': '휴스턴 하비 공항', 'price': None, 'location_google_map_query': 'Houston Hobby Airport'}",
       "references": [
         {
           "title": "ระทึก เครื่องบิน \"เดลตา แอร์ไลน์ส\" ลงจอดฉุกเฉิน หลังนักบินแจ้งว่ามีผู้โดยสารพยายามบุกห้องนักบิน",
@@ -21998,21 +21990,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx799wveYcmRmOaa.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915120",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경, 사이버 범죄 연루 외국인 무더기 적발",
       "summary": "- 태국 해군, 불법 입국한 중국인 5명과 캄보디아인 1명 체포.\n- 이들은 사이버 범죄 조직과 연계되어 있으며, 270대의 휴대폰 압수.\n- 캄보디아는 불법 도박 및 사이버 사기의 근거지로 알려져 있음.",
       "full_translated": "태국 해군은 국가 안보와 지역 안정을 보호하기 위한 적극적인 조치를 계속하고 있습니다. 특히 사이버 범죄(Cyber Scam)는 전 세계 여러 국가의 사람들에게 영향을 미치고 있습니다. \n\n지난 18일, 짠타부리 및 트랏 국경 방어 사령부는 6명의 불법 입국자를 체포했습니다. 이들은 중국 국적 남성 5명과 캄보디아 국적 남성 1명으로 구성되어 있으며, 270대의 휴대폰과 다수의 유심카드, 그리고 여러 통화를 소지하고 있었습니다. 이는 태국-캄보디아 국경의 네언딘댕 마을 인근에서 국제 사이버 범죄 네트워크를 지원하는 것과 관련된 것으로 보입니다. \n\n초기 심문에서 이들은 캄보디아에서 도망쳐 왔다고 진술했습니다. 캄보디아는 불법 도박 사업과 사이버 사기 네트워크와 같은 불법 활동의 중심지로 국제적으로 알려져 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국경 지역에서 외국인 범죄 조직 적발. 여행객 대상 범죄 가능성 및 주의 필요. 사이버 범죄 관련 내용 포함.",
-      "event_info": {
-        "date": "2024-02-19",
-        "location": "태국-캄보디아 국경, 네언딘댕 마을",
-        "price": null,
-        "location_google_map_query": "네언딘댕 마을 태국 캄보디아 국경"
-      },
+      "event_info": "{'date': '2024-02-19', 'location': '태국-캄보디아 국경, 네언딘댕 마을', 'price': None, 'location_google_map_query': '네언딘댕 마을 태국 캄보디아 국경'}",
       "references": [
         {
           "title": "จับเครือข่ายอาชญากรรมไซเบอร์ข้ามชาติ ลักลอบเข้าเมือง พร้อมมือถือ 270 เครื่อง",
@@ -22023,21 +22012,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx799whvbhErIPZa.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/east/2915123",
+      "source": ""
     },
     {
       "title": "방콕, 가면라이더 테마의 국수 맛집 개업",
       "summary": "- 전직 은행원이 어린 시절의 영웅 가면라이더를 테마로 한 식당 개업\n- '라이더 투인원' 똠얌 국수가 대표 메뉴이며, 다양한 수집품으로 장식\n- 방콕 락시 지역, 응암웡완 로드에 위치",
       "full_translated": "61세의 전직 은행가가 어린 시절의 가면라이더 사랑을 바탕으로 '라이더 국수'라는 테마 식당을 열었습니다. 이 식당은 '라이더 투인원' 똠얌으로 유명하며, 다양한 수집품으로 장식되어 있습니다. 국수 가게는 태국 방콕 락시 지역 응암웡완 로드에 위치해 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "특이한 테마 식당 정보는 여행객에게 흥미로운 선택지가 될 수 있음",
-      "event_info": {
-        "date": null,
-        "location": "Ngamwongwan Road, Thung Song Hong, Lak Si district, Bangkok",
-        "price": null,
-        "location_google_map_query": "Ngamwongwan Road, Thung Song Hong, Lak Si district, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'Ngamwongwan Road, Thung Song Hong, Lak Si district, Bangkok', 'price': None, 'location_google_map_query': 'Ngamwongwan Road, Thung Song Hong, Lak Si district, Bangkok'}",
       "references": [
         {
           "title": "Bangkok's noodles with a Kamen Rider Kick",
@@ -22048,21 +22034,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200643_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/video/thailand/3200643/kamen-rider-noodle-shop-in-bangkok-thailand",
+      "source": ""
     },
     {
       "title": "나콘랏차시마 지역, 지방 의원 사망 사건 발생...선거 관련 갈등 추정",
       "summary": "- 나콘라차시마 지역 탐본 관리 기구(어버떠) 의원이 총에 맞아 사망한 채 발견됨.\n- 유족은 지방 선거 관련 갈등 가능성을 제기하며 정확한 사인 조사를 요구하고 있음.\n- 경찰은 여러 가능성을 열어두고 수사 진행 중.",
       "full_translated": "나콘라차시마주 부아야이 지역의 논밭에서 탐본 관리 기구 (어버떠) 의원인 수넷 파크디 (69세) 씨가 총에 맞아 사망한 채 발견되었습니다. 현장에는 .38 구경 권총이 함께 발견되었으며, 그의 아내는 남편이 스스로 목숨을 끊었을 가능성은 낮다고 주장했습니다. 경찰은 선거 관련 소송으로 인한 스트레스 가능성을 포함하여 모든 가능성을 열어두고 수사를 진행하고 있습니다. 목격자 증언에 따르면 사건 당일 아침 피해자가 차를 몰고 나가는 것을 보았으며, 이후 총소리가 들렸다는 증언도 있습니다. 유족들은 선거 과정에서 발생한 마을 기금 관리 관련 민원 제기가 이번 사건과 관련이 있을 수 있다고 보고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 지역 사회의 불안감을 야기할 수 있는 사건. 여행 시 주의를 요함.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "나콘라차시마 주 부아야이 지역",
-        "price": null,
-        "location_google_map_query": "Bua Yai District, Nakhon Ratchasima, Thailand"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': '나콘라차시마 주 부아야이 지역', 'price': None, 'location_google_map_query': 'Bua Yai District, Nakhon Ratchasima, Thailand'}",
       "references": [
         {
           "title": "สมาชิก อบต.ด่านช้าง เสียชีวิตปริศนาท้ายหมู่บ้าน เมียคาดปมเลือกตั้งท้องถิ่น",
@@ -22073,6 +22056,133 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyIBZoQRUwkzD0Up.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/northeast/2914768",
+      "source": ""
+    },
+    {
+      "title": "태국 기상청, 23-25일 여름 폭풍 주의보 발령",
+      "summary": "- 태국 북부 지역에 23일부터 25일까지 여름 폭풍 주의보 발령\n- 강풍, 뇌우, 번개 동반 예상\n- 야외 활동 및 취약한 구조물 접근 자제 권고",
+      "full_translated": "태국 기상청은 2월 23일부터 25일까지 태국 북부 지역에 여름 폭풍에 대비할 것을 경고했습니다. 많은 지역에서 뇌우, 강풍, 번개가 예상됩니다. 2069년 2월 19일, 수카냐니 야윈찬 기상청장은 태국이 2069년 2월 22일에 공식적으로 여름에 접어들었다고 발표했습니다. 기상청은 특히 태국 북동부, 중부 및 동부 지역에 여름 폭풍에 대한 경고를 발령했습니다. 중국에서 온 냉기류와 태국이 더워지기 시작하면서 남동풍과 남풍으로부터 유입되는 습기로 인해 2069년 2월 23-25일 동안 뇌우, 강풍 및 번개가 일부 지역에서 발생할 것으로 예상됩니다. 따라서 국민들에게 야외, 큰 나무 아래, 부실한 건물, 광고판, 농업 지역에 머무르는 것을 피하도록 경고합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 영향을 줄 수 있는 날씨 정보이며, 특히 23-25일 기간에 대한 구체적인 예보를 제공하므로 업데이트 가치가 높다고 판단.",
+      "event_info": {
+        "date": "2069-02-23",
+        "location": "태국 북부 지역",
+        "price": null,
+        "location_google_map_query": "태국 북부"
+      },
+      "references": [
+        {
+          "title": "กรมอุตุฯ เตือนไทยตอนบนรับมือ “พายุฤดูร้อน” ฝนฟ้าคะนอง 23-25 ก.พ. 69",
+          "url": "https://www.thairath.co.th/news/local/2915158",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AA69Un84544br.jpg"
+        }
+      ],
+      "collected_at": "12:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AA69Un84544br.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "일본, 4월부터 항공기 내 보조 배터리 사용 금지… 잦은 화재 사고 때문",
+      "summary": "- 일본 국토교통성이 4월부터 항공기 내 보조 배터리 사용 및 충전 금지 예정\n- 리튬 이온 배터리 화재 사고 방지 위한 조치, 탑승객은 보조 배터리 2개까지만 소지 가능\n- 과거 한국, 일본 항공기에서 보조 배터리 관련 화재 및 연기 발생 사례 존재",
+      "full_translated": "일본 국토교통성이 새로운 지침을 발표하여 4월부터 일본을 오가는 항공기 내에서 승객의 보조 배터리 사용 및 충전을 금지할 예정입니다. 이는 리튬 이온 배터리의 화재 발생을 방지하기 위한 조치입니다. 개정된 지침에 따라 승객은 비행 중 스마트폰이나 기타 전자 기기를 보조 배터리로 충전할 수 없으며, 좌석의 전원 콘센트에 연결하여 충전하는 것도 금지됩니다. 또한, 승객이 기내에 반입할 수 있는 보조 배터리 수량은 1인당 2개로 제한됩니다. 2025년 1월에는 한국 부산에서 출발 예정이던 항공기에서 보조 배터리 화재가 발생했으며, 2025년 9월에는 일본항공 국제선 항공기 내에서 스마트폰 충전 중 보조 배터리에서 연기가 발생하는 사고가 있었습니다. 이전에도 일부 외국 항공사에서는 기내 보조 배터리 사용을 금지한 바 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "항공기 이용 시 보조 배터리 사용 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 안전 관련 규정 변경이므로 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ญี่ปุ่นสั่งห้ามใช้ \"พาวเวอร์แบงก์\" บนเครื่องบิน เริ่มเม.ย.นี้ หลังเกิดเหตุแบตฯ ลุกไหม้หลายครั้ง",
+          "url": "https://www.thairath.co.th/news/foreign/2915134",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AAS7BnFaeHHkK.jpg"
+        }
+      ],
+      "collected_at": "12:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AAS7BnFaeHHkK.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 민간항공청, 춘절 기간 항공권 가격 엄격 통제… 모든 노선, 상한가 초과하지 않아",
+      "summary": "- 태국 민간항공청(CAAT)은 춘절 기간 항공권 가격을 면밀히 감시하고 있으며, 모든 노선이 상한가를 넘지 않는 것을 확인했습니다.\n- 온라인 플랫폼에서 비정상적으로 높은 가격이 발견되어 항공사에 즉시 시정 조치를 요청했습니다.\n- CAAT는 승객들에게 항공권 구매 전 여러 채널에서 가격을 확인하고, 이상 가격 발견 시 항공사 직접 판매 채널을 이용할 것을 권고합니다.",
+      "full_translated": "태국 민간항공청(CAAT)은 춘절 기간 항공권 가격을 면밀히 감시하고 있으며, 모든 노선이 상한가를 넘지 않는 것을 확인했습니다. CAAT는 2569년 2월 18일부터 22일까지의 춘절 기간 동안 국내 항공권 가격을 면밀히 모니터링하고 있습니다. 모니터링 결과 모든 노선의 항공권 가격이 여전히 상한선 내에 있음을 확인했습니다. 그러나 가격 수준이 상승하는 추세이며 많은 항공편이 매진된 것으로 나타났는데, 이는 특히 푸껫 및 핫야이와 같은 남부 지방으로의 여행 수요가 크게 증가했음을 반영합니다. \n\n또한 CAAT는 온라인 여행사(OTA) 플랫폼을 통해 항공권 가격 표시를 점검한 결과 일부 사례에서 비정상적으로 높은 가격이 표시되는 것을 발견하여 관련 OTA의 가격 표시 시스템의 정확성을 신속하게 확인하도록 항공사에 요청했습니다. 오류가 발견되면 즉시 수정하고 결과를 CAAT에 즉시 보고하도록 했습니다. CAAT는 전자거래개발원(ETDA)에 해당 정보를 통보하여 기관 간 협력을 통해 디지털 플랫폼에서 서비스 제공을 공동으로 모니터링하고 있습니다. CAAT는 승객들에게 항공권 구매를 결정하기 전에 여러 채널에서 항공권 가격을 확인하도록 권장하며, 비정상적으로 높은 가격을 발견한 경우 CAAT가 승인한 상한선 내에서 가격이 책정되는 항공사의 직접 판매 채널을 통해 구매하는 것이 좋습니다. CAAT는 특히 연휴나 수요가 많은 기간에는 여행 계획을 미리 세울 것을 권장합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "춘절 기간 동안의 항공권 가격 관련 정보는 여행객에게 직접적인 영향을 미치므로, 관련 정보를 제공하는 것이 유용하다고 판단됨. 특히 가격 변동 및 구매 팁은 여행 계획에 도움이 됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กพท. คุมเข้มราคาตั๋วเครื่องบินช่วงตรุษจีน 69 ยันทุกเส้นทางยังไม่เกินเพดานราคา",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2915142",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AAwNxao56xQXe.jpg"
+        }
+      ],
+      "collected_at": "12:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AAwNxao56xQXe.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "프아 타이당, 아누틴 총리 지지 선언…총 281석 확보 주장",
+      "summary": "- 프아 타이당이 아누틴을 총리로 지지하며 새로운 선택지를 제시.\n- 총 281석을 확보했다고 발표.\n- 프아 타이당은 기존 정부 구성에 참여하지 않고 독자 노선을 걷기로 함.",
+      "full_translated": "프아 타이당이 아누틴을 총리로 지지하며 새로운 선택지를 제시했습니다. 281석을 확보했다고 발표했습니다. 프아 타이당은 기존 정부 구성에 참여하지 않고 독자 노선을 걷기로 했습니다. 19일 오전 10시 30분, 프아 타이당 당사에서 라첸 트라쿨위앙 신당 대표를 비롯한 소수 정당 대표들이 회의를 위해 방문했습니다. 차왈릿 위차야수팃 프아 타이당 부대표와 우돔뎃 라타나사티안 프아 타이당 비례대표 후보도 함께 했습니다. 이들은 송삭 통스리 프아 타이당 대표, 시라폽 두앙솟스리 당 대표와 정부 구성 방향에 대해 논의했습니다. 프아 타이당 사무총장과 대변인은 송삭 대표가 프아 타이당과 신당에 정부 구성에 참여할 것을 요청했다고 밝혔습니다. 우돔뎃은 송삭 대표로부터 연락을 받았다고 말했습니다. 그는 현재 경제 및 국경 안보 문제와 같은 문제를 해결하기 위해 강력한 정부가 필요하다고 강조했습니다. 그는 득표 결과에 따라 다수당을 지지할 것이라고 덧붙였습니다. 라첸은 선거에서 승리한 다수당의 규칙을 존중한다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정치 상황에 대한 정보로 여행 중 발생할 수 있는 상황 변화에 대한 인지 및 주의를 높임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เปิดตัว ไทยสร้างไทย-ทางเลือกใหม่ ประกาศหนุน “อนุทิน” นั่งนายกฯ รวมเสียงทะลุ 281 เสียง",
+          "url": "https://www.thairath.co.th/news/politic/2915143",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AAwJDJfqUQRdb.jpg"
+        }
+      ],
+      "collected_at": "12:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AAwJDJfqUQRdb.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 재정 적자, 2026년 위기 촉발 가능성",
+      "summary": "- 2025년 태국 경제는 외국 자금 유입으로 성장했지만, 2026년에는 외자 유입 감소로 재정 위기가 예상됨.\n- 2026년에는 8600억 바트의 예산 적자와 부채 상환으로 인해 총 1.2조 바트의 외화가 필요하지만, 확보가 어려울 수 있음.\n- 외국 자금 조달에 실패할 경우 태국 경제는 심각한 위기에 직면할 수 있다는 분석.",
+      "full_translated": "만약 독자들이 2026년에 금융 위기가 닥칠 것이라는 확신을 원한다면, 3분 안에 설명할 수 있습니다. 독자들은 첨부된 표의 마지막 두 열, 즉 2025년(실제)과 2026년(예상) 태국 경제의 자금 조달 상황을 보면 됩니다. 이 숫자는 태국이 더 이상 은행 부문에서 신용, 즉 돈을 창출하지 못하기 때문에 경제를 자금 조달할 능력이 없다는 것을 의심할 여지 없이 증명합니다. 경제 자금 조달은 전적으로 외국 자금 조달에 의존해 왔고 앞으로도 그럴 것입니다. 2025년 외국 자금 조달(표의 마지막 행에 표시됨)은 1조 바트에 육박하여 6000억 바트의 예산 적자를 충당하고 민간 부문이 은행 대출과 만기 채권을 상환할 수 있는 충분한 금액을 남겼습니다. 자금 부족이 없었기 때문에 경제는 금융 위기를 모면하고 2.4%의 GDP 성장을 달성했습니다. 2.4% 성장률에 대해서는 두 개의 기사를 더 통해 다시 설명하겠습니다. 2026년에는 외국 자금 조달이 절반으로 줄어들어 4500억 바트가 될 수 있으므로 상황이 훨씬 덜 장밋빛으로 예상됩니다. 이 금액은 8600억 바트의 예산 적자, 1860억 바트의 대출 회수 및 1350억 바트의 만기 채권을 충당하기에 충분하지 않습니다. 2026년에 필요한 총 외국 자금 조달액은 1.2조 바트이며, 이는 미화 400억 달러에 해당합니다. 제 생각에는 그러한 규모의 외국 자본 유입을 확보하는 것은 거의 불가능합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제에 대한 분석 기사로, 여행 자체에는 직접적인 영향이 없으나 경제 상황은 여행객에게 간접적인 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Fiscal deficit will trigger 2026 crisis",
+          "url": "https://www.bangkokpost.com/opinion/opinion/3200420/fiscal-deficit-will-trigger-2026-crisis",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5974020_700.jpg"
+        }
+      ],
+      "collected_at": "12:20",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5974020_700.jpg",
       "date": "2026-02-19"
     }
   ]
