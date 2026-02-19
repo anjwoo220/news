@@ -23871,14 +23871,9 @@
       "summary": "- 태국 정부가 특정 조건을 충족하는 여행객에게 무료 항공권을 제공하는 프로모션을 고려 중입니다.\n- 자세한 내용은 추후 발표될 예정이며, 여행 성수기를 맞아 관광객 유치를 위한 전략으로 보입니다.\n- 해당 프로모션은 태국 여행에 대한 매력을 높이고, 경제 활성화에 기여할 것으로 기대됩니다.",
       "full_translated": "태국 정부가 곧 특정 조건을 충족하는 여행객에게 무료 항공권을 제공하는 프로모션을 시행할 가능성이 있습니다. 자세한 내용은 추후 발표될 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 유치 가능성 및 항공편 관련 정보이므로 여행 관련성이 높음. 무료 항공권 프로모션은 여행객에게 직접적인 이득을 제공할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "You may soon be able to score a free flight to Thailand with this deal - MSN",
@@ -23886,22 +23881,20 @@
           "source": "MSN"
         }
       ],
-      "collected_at": "04:26",
-      "date": "2026-02-20"
+      "collected_at": "4:26",
+      "image_url": "",
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxORzIxajdGajRlWEh4UFplYU1VSkV3UU43aWJFTldtM2RSXzlTWHNTcW9fYkR2SnB1VVZsbWF5MDljMk52SzgxczJRb05saUN0cXV1a0ZhdUN1dl9yN1czWndQRGVlLUIyRjFWakw4U0Q4QThXam40VV9IV2JPdG1qd3E1YWpEZy1aNnQ5bVhGbmN6eFFRVVI3VFI1RG5aSkpLcXZVanRsMExycmttUUpYdmhIWlVMbUFzRUFVcXpDSWNEYXkxSlpyLWtfR2tvZVpYTS1velZROV9LMGdGM0ZiVVRFdXRvUnZDcHh0OWt0SVpOdkpvWEVfQ1dJN09zaWtiOE1OaVNIT3YwczRXdkxlTmhlTktDRElTVVZsTERnOS15WmFVVVJJdi1pREYtdE53UVdvR3o5OEd1UTI5RV8tSjk0TF9pZlJPaXRObTFQa2RLZkk?oc=5",
+      "source": ""
     },
     {
       "title": "2026년 태국 여행 계획: 안정적인 관광 트렌드 및 시즌별 정보 활용법",
       "summary": "- 2026년 태국 여행을 위한 관광 트렌드 분석.\n- 최적의 여행 시기 및 맞춤형 여행 계획 수립 방법.\n- 안정적인 관광 시장을 활용한 여행 극대화 전략.",
       "full_translated": "2026년 태국 어드벤처 계획: 안정적인 관광 트렌드와 시즌별 인사이트로 여행을 극대화하는 방법 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 여행 계획 정보 제공. 여행 시기 및 트렌드 정보는 여행 계획에 참고 가능.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Plan Your 2026 Thailand Adventure: How Stable Tourism Trends and Seasonal Insights Can Maximise Your Trip - Travel And Tour World",
@@ -23910,23 +23903,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVkh3VFd4U1NjQVA4QUNtNVZqMEt0Q1M1Z3RyN0hNNzloNjdjbkRjaEpvWFd2QTc5RXV4blhDNDJaUEJqQURjeTZCRkhhRzNwNkdHLVNVaUppX0RqZ3BZY0RIMmxoTG5HVmJGTFp3TzhpUV9BbnpYYUdMYTN6ZFVYTUdFMDc3THFodE1Zb1BYMFJaelJlZVoxU1VDZ3FoVDc3cmp1QVUtYlhEWG9QTWpsMUlNOUtVSndTUEJ6aURCMW5pQng3aUI4bVZKa1lRWUxWV3pOT0xQSHFuTTBVQzQtelJHWm9DRnR1?oc=5",
+      "source": ""
     },
     {
       "title": "리츠칼튼 요트 컬렉션, 럭셔리 여행의 새로운 지평을 열다: 태국 크루즈 여행의 미래를 만나보세요",
       "summary": "- 리츠칼튼 요트 컬렉션이 태국에서 럭셔리 크루즈 여행의 새로운 가능성을 제시합니다.\n- 고급스러운 시설과 서비스를 통해 특별한 경험을 제공할 예정입니다.\n- 태국 여행객들에게 새로운 형태의 여행 옵션을 제공할 것으로 기대됩니다.",
       "full_translated": "리츠칼튼 요트 컬렉션이 럭셔리 여행의 새로운 지평을 열고 태국에서 크루즈 여행의 미래를 선보입니다. &nbsp;&nbsp;트래블 앤 투어 월드",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 형태의 럭셔리 여행 옵션을 소개하고 있어 여행객들의 관심도가 높을 것으로 예상되지만, 일반적인 여행에 큰 영향을 미치는 정보는 아니므로 5점 부여.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': '미정', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "The Ritz-Carlton Yacht Collection Takes Luxury Travel To New Heights, Discover The Future Of Cruising In Thailand - Travel And Tour World",
@@ -23935,8 +23925,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdGFkd2F1RjBLSEptS293U0Ryem03ZmI1VmpyOTFBYkxBQTVvanJXTklUdWU1LTZLYklGN2RGZHJKYjV6a1ZpVG45UC01QlktNG1mTWpUdlktYXdJODY2MnV3NFplUHFjUllIcmg3amVTWWptWjNWcDNXLUM0dkxqTG1XWUFYR1BzRnByUlhWT3NOeThlVWNBUTlrM2RNT2NsTDNYYnpONFpYNkFJLU9BWHhkZWl5RHVpZ1RQNU1UMHo1ZGN4NUlQM1pZc3lPN2ZVRU01REg1UWdjZ3p4dzlOUkpKZ0Zpd1dNR2t2RV9CemZDeUk?oc=5",
+      "source": ""
+    },
+    {
+      "title": "치앙마이 공항, 춘절 맞아 팬데믹 이후 최고 기록 경신 - 한국, 태국 포함 글로벌 급증",
+      "summary": "- 치앙마이 공항이 춘절 연휴 기간 동안 팬데믹 이후 최고 기록을 경신했습니다.\n- 한국과 태국을 포함한 전 세계 여행객 증가가 주요 원인입니다.\n- 공항 혼잡이 예상되므로 여행객들은 충분한 시간을 갖고 공항에 도착하는 것이 좋습니다.",
+      "full_translated": "치앙마이 공항이 춘절을 맞아 한국과 태국을 포함한 전 세계 여행객의 급증으로 팬데믹 이후 최고 기록을 경신했습니다.  여행객들은 공항 혼잡에 대비하여 충분한 시간을 가지고 도착하는 것이 좋습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "춘절 연휴 기간 공항 혼잡도 증가 예상. 여행객들에게 시간 여유를 가지고 공항에 도착하도록 안내 필요.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이 공항",
+        "price": null,
+        "location_google_map_query": "Chiang Mai Airport"
+      },
+      "references": [
+        {
+          "title": "Chiang Mai Airport Smashes Post-Pandemic Records as Lunar New Year Brings Global Surge, Including South Korea and Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNl8wUm4welVtWmFmNlg2NFZWMllvMzVmQXZ3RlFVbFhkNlhJRW91cFFrUlJmakdNdHFRY3VROUtxV18ydDVlQVozY2tsaFNma0pIYmtWVkRwZ3l4TWV6aTdGMEhWX3o0ZDRYWHRpUkREVTdrdTJLNHFMWEo4eFJiODZoaVJWUWhFOHktNVQyRnFBT1pQbENkc25yRjBSUW5LcHl4djlzVll4OHZwaHZ3RkoxaFdUUExJYzkybWlKNlRtaS04ck5uMWNPYU5Mak9jY2RscVU4aEx1NHBTRGhMNW9QNkZ5M29iWVpPZkotcTlmQTRzVmdsNXdjYjVuUkk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 비자 정책 변경 가능성 - 여행 및 관광 월드",
+      "summary": "- 태국 비자 정책에 대한 잠재적 영향 논의\n- 여행 및 관광 산업에 미치는 영향 분석\n- 정책 변경 시 여행객에게 필요한 정보 제공",
+      "full_translated": "비자 정책이 태국에 미치는 영향 - 여행 및 관광 월드",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 여행객에게 중요한 정보이므로 높은 점수 부여. 현재 정책 변경이 확정된 것은 아니지만, 잠재적 변경 가능성을 알리는 것이 유용하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "visa policy impact Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUJ4UW9ZTXphbzZueTdFX3BzeC12dmlmRFVfTlp0VzZhdnp5UU9PSmxST3V3eFlORmFlQVhKRy1BX2p3cmtwT3BVN08xaWRTZkxoVWlCWmdzdXhzX3hRb19mbm9yUHZxMkxTWWkzb0N3VU16eElrcGRzX1c5aWlfaXNoYnhtekE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "한국, 중국 여행 보이콧 속 일본 관광 붐 주도 국가 합류",
+      "summary": "- 한국이 대만, 홍콩, 태국, 싱가포르, 필리핀 등과 함께 일본 관광 붐을 일으키는 데 기여.\n- 중국의 여행 보이콧이 영향을 미친 것으로 분석됨.\n- 자세한 내용은 Travel And Tour World에서 확인 가능.",
+      "full_translated": "South Korea Joins Taiwan, Hong Kong, Thailand, Singapore, the Philippines, and Other Countries in Propelling Tourism Boom Across Japan Amid China Travel Boycott Last Year: Everything You Need to Know  Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "일본 여행 정보에 대한 간략한 언급이 있어 여행 관련 뉴스로 분류, 한국 여행객들에게 간접적인 영향이 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Taiwan, Hong Kong, Thailand, Singapore, the Philippines, and Other Countries in Propelling Tourism Boom Across Japan Amid China Travel Boycott Last Year: Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPdFp5ZENfWmg1Nlg0MWhzQUllZFpTMGpVSjZnWFlESXc0M1l0VEJydXYtYXExNk1renp5cUYwTDcwU0ZNS2VBTXpvaGtFcWt6Sks1OVlOc0VLOXlTM25EMmM3T0twOHQ1UkdGUUNkdnV2YW1kel9TTlo0bHV3YkxGSzRrRDAwY2FRM3ktakFTYlV2eWFnTmhxQng5SmJPb3hUWEFUUHJVck9KbFY2Z1lGb1NoOGFEZlRyUnBnY2JnSE9KaTV6clhGY0xhb3dlcWxuMzFKdVFSUkhpekJycXE5SFZkOEhQNzRhWHR3RmdHUWVfZWpLMHBXUkQ1OW9mZktWdUZHV21ELUExMXJjRTdkcFF2cHNnTVFlN1NZMGlwdjdNdUxlVWtPYjVtQUtMVllpdllQWXhTT0ZPU1BxTWF3RHdrRml5Vkg1TmI5RmtJcjF1blpsdHh1OUJrcldEUEk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "한국, 대만, 태국, 인도네시아, 싱가포르와 함께 일본 관광 활성화에 기여",
+      "summary": "- 한국이 대만, 태국, 인도네시아, 싱가포르와 함께 일본 관광 산업 부흥에 동참하고 있습니다.\n- 중국인 관광객 감소에도 불구하고 일본은 이들 국가의 방문객 증가에 힘입어 관광 산업을 회복하고 있습니다.\n- 자세한 정보는 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "South Korea Joins Taiwan, Thailand, Indonesia and Singapore in Boosting Japan’s Tourism While Chinese Visitor Numbers Tumble, Here is All You Need to Know&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "한국인의 일본 여행 증가 추세 관련 정보. 태국 여행 자체와 직접적인 관련은 없으나, 인접국 여행 트렌드 참고 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Taiwan, Thailand, Indonesia and Singapore in Boosting Japan’s Tourism While Chinese Visitor Numbers Tumble, Here is All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbFN0ckhxcTJZMW5POWpoMHlkMzZVM05peUYzQ0REMGZSX2NVcmI3RWNDcUg1dExjNFNRdEtRN1VxZGx1aXJpLVIzSFdkVGtKWngtTjlfR1VjMVdpT3NRbFhxeVVPNGEzclJCWGptRVZ2Ri1YeDduVnJOeGR3WUxROVdBYWljYTBEV1VadGhrdDFDdkZ1ZFQwM00weGVLZHFnQ2VKMnlCXzZaNmI1VlhLYnRQSk15M3ZDYVkwN29KSjNVWkx0U1lsbmhsSVpmMWJsTTJxcDRFX1VCdkdvd0FsSG9WTHBad1d1OWFyMTJhSy1PenR2NGpfQXpUUHZ5d2RWNUN4YjdpNzNtZ0ZfSE94SVJCNTBZMU05UFBQd1hqSmFya0RkRkE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "헝가리, 러시아 석유 분쟁으로 우크라이나에 대한 전기 및 가스 수출 중단 고려",
+      "summary": "- 헝가리가 우크라이나를 통과하는 러시아 석유 수송 중단에 따라 우크라이나에 대한 전기 및 가스 수출 중단을 고려 중임.\n- 빅토르 오르반 총리 수석 보좌관은 키예프가 드루즈바 송유관을 통해 러시아 석유를 다시 헝가리로 수송하지 않으면 수출을 중단할 것이라고 밝힘.\n- 헝가리와 슬로바키아는 러시아 석유를 사용하는 EU 국가로, 유크라이나가 러시아 드론 공격으로 송유관이 손상됐다고 주장한 이후 석유 공급 안정성을 유지하기 위해 노력하고 있음.",
+      "full_translated": "헝가리를 포함한 슬로바키아가 우크라이나를 통과하는 러시아 석유 수송 중단 이후 우크라이나에 대한 전기 및 천연 가스 공급을 중단할 준비를 하고 있습니다. 키예프는 송유관이 드론 공격으로 손상되었다고 주장합니다. 로이터 통신에 따르면 빅토르 오르반 총리 수석 보좌관은 목요일 (2월 19일) 기자 회견에서 헝가리가 키예프가 드루즈바 송유관을 통해 러시아 석유를 헝가리로 다시 수송하지 않는 한 우크라이나에 대한 전기 및 가스 수출을 중단하는 것을 고려하고 있다고 밝혔습니다. 헝가리와 슬로바키아는 드루즈바 송유관을 통해 러시아 석유를 사용하는 정유 공장이 있는 EU의 두 국가뿐이며, 7월 27일 송유관을 통한 석유 수송이 중단된 이후 석유 공급 안정성을 유지하기 위해 노력하고 있습니다. 우크라이나는 러시아 드론이 송유관을 공격해 손상됐다고 주장합니다. 정유 공장들은 정부 비축량에서 석유를 사용하기 시작할 계획이며, 슬로바키아 정부는 수요일에 25만 톤의 석유 대출을 승인했습니다. 오르반 총리 수석 보좌관 게르게이 굴야스는 헝가리 정부도 정유 회사 MOL의 요청에 따라 전략적 비축량에서 석유를 사용하는 것을 승인했다고 밝혔습니다. 헝가리와 슬로바키아는 우크라이나가 정치적인 이유로 석유 수송 재개를 의도적으로 지연시키고 있다고 비난했으며, 수요일에는 양국이 우크라이나에 대한 디젤 수출을 중단한다고 발표했습니다. 한편, 헝가리 총리 빅토르 오르반은 우크라이나의 유럽 연합 가입 노력에 명확하게 반대하는 입장을 표명했으며, 헝가리와 슬로바키아는 블라디미르 푸틴 러시아 대통령과 좋은 관계를 유지하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 국내 뉴스가 아니고, 여행 자체에 큰 영향을 미치지 않으므로 낮은 점수 부여. 에너지 관련 이슈는 간접적인 영향이 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ฮังการีเล็งระงับส่งออกไฟฟ้า-ก๊าซให้ยูเครน ปมพิพาทน้ำมันรัสเซีย",
+          "url": "https://www.thairath.co.th/news/foreign/2915300",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MRVYWC03LZfW.jpg"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MRVYWC03LZfW.jpg",
       "date": "2026-02-20"
     }
   ]
