@@ -24046,14 +24046,9 @@
       "summary": "- 프랑스가 아랍에미리트, 태국, 중국, 스리랑카, 콜롬비아 등과 함께 관광 활성화 및 양자 관계 강화를 위한 비자 면제 여행 개혁에 동참합니다.\n- 이번 조치는 관광 산업 부흥과 국가 간 협력 증진을 목표로 합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "프랑스가 아랍에미리트, 태국, 중국, 스리랑카, 콜롬비아 및 기타 국가와 함께 관광 활성화와 양자 관계 강화를 목표로 하는 비자 면제 여행 개혁에 참여합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행객의 비자 정책에 직접적인 영향을 미치므로, 여행 편의성 증가와 관련된 중요한 정보입니다. 비자 면제 관련 사항은 여행 계획에 필수적인 요소입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "France Joins United Arab Emirates, Thailand, China, Sri Lanka, Colombia, And Other Nations In Pioneering Visa-Free Travel Reforms Aimed At Boosting Tourism And Strengthening Bilateral Relations - Travel And Tour World",
@@ -24062,23 +24057,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:24",
+      "collected_at": "5:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOZnVETzBEb3Rjall2cHR3RDNHRk5uVzhXT3V4YzJvTlVpMFdtRlF3Tjk0Zy1aM1pLbVM3WlAzYXFvdUd2RHJ3VWEzOTRHa21uQzBmM09Jb041MEV5bFU3MEhMZG5GSVZuNG1QRGhoRVdRNXpvUXRGQ1JyTmFheWJoeWRfaGQ3UTQxZWF4bWhhZGRHUkktNGViV3JITENfckxqQ3FZMzk1Z2ZobTJfWnFvaENHNGJjVFhlLTQ5aWt1UGJqQVRtVHlEVVVPQ21GNWlkcFVBUWpTXzJHYXBHWC10MUdqY2paOUowWXByZXNRdVdid0UtTndLWWdPa1h5X3dJYnI0Y2ZxYUQyX0tTVFIyQmNoZlZnaF9reXMtRHQxdUNCbVA0Q1pmN0hjSi1yOEwwWTMtXzU3OEJBNjdmblZ4ZkY4ajNZekFjYjAxNmljczNOekZ6bk03aw?oc=5",
+      "source": ""
     },
     {
       "title": "영국 경찰, 앤드루 왕자 공직 부정행위 혐의 체포 후 석방",
       "summary": "- 앤드루 왕자가 제프리 엡스타인 관련 공직 부정행위 혐의로 체포됨.\n- 템스 밸리 경찰은 앤드루 왕자를 심문 후 석방, 수사 진행 중.\n- 앤드루 왕자는 과거 미성년자 성범죄 스캔들에 연루된 바 있음.",
       "full_translated": "영국 앤드루 왕자가 공무 수행 중 부정행위 혐의로 체포된 후 풀려났습니다.\n\n외신 보도에 따르면 앤드루 마운트배튼-윈저 왕자는 제프리 엡스타인에게 비밀 문서를 보낸 혐의로 체포되었습니다. 그는 직권 남용 혐의로 하루 종일 심문을 받았습니다. 앤드루 왕자는 같은 날 66세가 되었습니다.\n\n경찰은 그가 아직 기소되지 않았지만 수사가 계속되고 있다고 밝혔습니다. 앤드루 왕자는 오랫동안 엡스타인이 제공한 여성들을 성적으로 학대했다는 비난을 받아왔지만 부인했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 자체에 직접적인 영향은 없으나, 국제적인 뉴스이며 과거 논란이 있었던 인물의 체포 소식이므로 인지 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อดีตเจ้าชายแอนดรูว์ได้รับการปล่อยตัวแล้ว หลังถูกจับคดีประพฤติมิชอบ",
@@ -24087,23 +24079,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MRPWoznU3qbI.jpg"
         }
       ],
-      "collected_at": "05:24",
+      "collected_at": "5:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MRPWoznU3qbI.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/foreign/2915301",
+      "source": ""
     },
     {
       "title": "말레이시아, 중국, 한국, 태국, 캄보디아 등과 함께 폭발적인 관광 성장 달성",
       "summary": "- 말레이시아가 중국, 한국, 태국, 캄보디아 등과 함께 관광 산업에서 높은 성장률을 기록하고 있습니다.\n- 필리핀은 팬데믹 이전의 방문객 수를 회복하는 데 어려움을 겪고 있습니다.\n- 태국을 포함한 여러 아시아 국가들이 관광 산업 부흥을 위해 노력하고 있습니다.",
       "full_translated": "말레이시아가 중국, 한국, 태국, 캄보디아 등과 함께 폭발적인 관광 성장을 달성했습니다. 반면 필리핀은 팬데믹 이전의 방문객 수를 회복하는 데 어려움을 겪고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업 성장 관련 소식이지만, 이미 여러 번 언급된 내용이므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Malaysia Joins China, South Korea, Thailand, Cambodia and More in Achieving Explosive Tourism Growth, While the Philippines Struggles to Reclaim Pre-Pandemic Visitor Numbers - Travel And Tour World",
@@ -24112,23 +24101,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:24",
+      "collected_at": "5:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNSEVydS1nb0dXT21kcWE2SUVHbDhnN2JMVmRfT0dWd0dFajNtM0ZrRkpsLU5udEhoRWhSa3ozNkY2RnppXzF5Tl9BV2RTOTFmSllhZWdaT0xXRGpwSHZjc2lud3Njd1ZOeGRNWm9nZnVaQzdHOGhOcUxfdHJrM1Z2OFJwN3VpTjZKdlhBUEk0Zy1pZTJuTHl1RGNzN3F6YUZObnM0WUZ3cElyZ2dEZlVDbmktS1Fnb01iSkxFenpnUnNRUVE3SzFhenJuQUNzWDlDMll4V0xKc3Y2WFZnQXZoY095aTc4X2FtNWtjTjBDTEVCNFB2TDV1WDEtZzBobUVGU1ZBd3RzM2FnMVcwVWJ6X1hFaC1oS2xtenRkWV9uTzByM2JXZU1HbTZXcGk2QzhEVk5PN1lMSm42TW82UXk0?oc=5",
+      "source": ""
     },
     {
       "title": "베트남, 태국에 강력한 경쟁자로 부상: 저렴한 가격과 접근성으로 중국 설 연휴 관광객 유치",
       "summary": "- 베트남이 설 연휴 동안 태국에 강력한 경쟁자로 부상하고 있습니다.\n- 저렴한 가격과 용이한 접근성이 주요 경쟁 요인입니다.\n- 일본은 높은 비용과 복잡성으로 인해 중국 여행객에게 외면받고 있습니다.",
       "full_translated": "베트남이 태국에 강력한 경쟁자로 부상하고 있습니다. 이는 놀라운 가치와 접근성을 제공하며, 일본의 높은 비용과 복잡성은 중국 여행객을 단념시키고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행에 대한 경쟁 국가의 부상 정보. 여행객의 선택에 영향을 줄 수 있고, 흥미로운 로컬 뉴스에 해당.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Vietnam Rises as a Powerful Competitor to Thailand for Lunar New Year Tourism, Offering Incredible Value and Accessibility, While Japan’s Costs and Complexities Deter Chinese Travelers - Travel And Tour World",
@@ -24137,23 +24123,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:24",
+      "collected_at": "5:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxNX3RidjZVTFJBZkFUS0p5cklUbC1oVlVTd1J1TV9iM0Z5U3BUMDhYMlI4R3EwMnkzWG5Lb2xXazFFVTA0enVIbFpFN2E0cVRLcndubXJZUmJ5MXdpOVlQNmliZkpoTXJjMUo3MVNrbW12X2tpbVFvZXNGZDVoeDdfSGZxRjg5Yy1KSUtiUmZPaW14YXdyNDhjN0hZbG9mRUxCc1BEcEZ6djFpZnRQTjVTRk1kTHJBSlI3X21JbE5KRG1kYkNHSzBQN1hDd2lseXkxMFNJaC1ZNWF6RlYtVmFkNTc3dnk3clZEUkZIZXozNktQQzFkT192dmZhd3ItLWNwRW9scWx3SjdqMFJPZ25RMTNSOHFKWVotbnRiQ3I5cXF4RjFaWmRTZmFxLTV6ZUJlNWdtQkVfb3pOOWVXOTYxTkhQS2RMZ0N6NUIwZFJMVQ?oc=5",
+      "source": ""
     },
     {
       "title": "앙골라, 나미비아의 비자 면제 여행으로 태국, 마카오 등과 함께 관광 호황을 누릴 것으로 예상",
       "summary": "- 나미비아가 76개국에 대한 새로운 비자 면제 여행을 시행하며 관광 산업 활성화 기대.\n- 앙골라, 태국, 마카오, 세인트루시아, 브라질, 쿡 제도, 홍콩, 그레나다, 이란, 라오스 등이 수혜.\n- 자세한 내용은 Travel And Tour World에서 확인 가능.",
       "full_translated": "앙골라가 나미비아의 76개국에 대한 새로운 비자 면제 여행으로 태국, 마카오, 세인트루시아, 브라질, 쿡 제도, 홍콩, 그레나다, 이란, 라오스 등과 함께 관광 호황을 누릴 것으로 예상됩니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "나미비아 비자 정책 변경으로 인한 관광객 증가 예상, 태국 관련 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Angola Joins Thailand, Macao, St. Lucia, Brazil, Cook Islands, Hong Kong, Grenada, Iran, Laos, and More to Boom in Tourism with Namibia’s New Visa Free Travel Access to Seventy Six Countries - Travel And Tour World",
@@ -24162,7 +24145,132 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:24",
+      "collected_at": "5:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPaE5CMzJNcE85Y2pNbHNZTl93MVVUcHFaNUM5NkZacXhFY3BJNmRndjZNSFFhZFU0dXRvSzlHRHVyOFI1S0JibTJRVTk2SHNWNmNPX3FpQnJjb0poUXdQejU0V1ItMGhyRmlQZmJqSXp1X1Bqc05FNXBObEpyMUcyS1Zva1pNTGFwUkF0N3dzX2FoY3VVRThtMEpBSTJvR3A2V250NUtkdnczRjZoVkRTZmcyM2NBc3RyUkhLZXdvaE9vY1Z2ZjMzM1pFQXVPUDBGb0FERUdhOWlxa2tNdDZsLURDTmFyYzRtVTRleXRVRlE2Zjl5UkVzS29aSl9rTDhfcmFGeHZielRFM2E3LVZnd2xXNE1mb2xrdXRsQTFwcklQYVJUYjg0OVp2ZzJub2xHdXhkODVfUWsxdUNOeEJwTEJ2Qmxsb0lXNzJQYg?oc=5",
+      "source": ""
+    },
+    {
+      "title": "투표용지 바코드, 선거 무효화 가능성 경고",
+      "summary": "- 전 부총리 위싸누 크레아-응암, 투표용지 바코드의 투표 비밀 보장 훼손 우려 제기\n- 바코드가 2월 8일 선거를 무효화할 수 있다고 경고\n- 투표의 익명성 침해 가능성 강조",
+      "full_translated": "전 부총리 위싸누 크레아-응암은 투표용지에 바코드를 포함하는 것이 투표의 비밀을 훼손하고 잠재적으로 2월 8일 선거를 무효화할 수 있다고 경고했습니다. 그는 바코드가 투표의 익명성을 침해할 수 있다고 주장합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "선거 관련 정보는 여행자에게 직접적인 영향을 미치지 않지만, 정치적 불안정 가능성을 시사하므로 어느 정도의 주의가 필요함. 여행 일정 변경 가능성 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "'Barcodes may make poll void'",
+          "url": "https://www.bangkokpost.com/thailand/politics/3200940/barcodes-may-make-poll-void",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200940_260220011435_700.jpg"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200940_260220011435_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 경제 성장, 정부 구성 지연 시 1.5% 미만으로 하락 가능성 경고",
+      "summary": "- 경제 전문가들은 새 정부 구성의 지연이 태국 GDP 성장을 1.5% 미만으로 떨어뜨릴 수 있다고 경고함.\n- Bhumjaithai당 주도의 연립 정부가 4년 임기를 완수하면 연간 3% 성장이 가능하다고 분석함.\n- 2025년 4분기 GDP 성장률은 2.5%로 예상치를 상회하며 경제 회복에 대한 기대감을 높임.",
+      "full_translated": "태국 경제는 Bhumjaithai당 주도의 연립 정부가 4년 임기를 완료할 경우 연간 3% 성장할 수 있다고 경제학자들이 밝혔습니다. 그러나 정부 구성의 지연은 올해 GDP 성장을 1.5% 미만으로 떨어뜨릴 수 있다고 경고했습니다. Bhumjaithai당이 2월 8일 선거에서 압승을 거두고 재무, 상무, 외무부를 포함한 주요 부처를 장악할 것으로 예상되면서 국가 신뢰도가 회복되었습니다. Thammasat University의 경제학자이자 강사인 Kiatanantha Lounkaew는 이렇게 말했습니다. 월요일 국가경제사회개발위원회가 발표한 2025년 4분기 GDP 수치가 2.5% 성장률을 기록하여 예상보다 좋게 나오면서 투자 심리가 더욱 고조되었습니다. 엑니티 니티탄프라파스 재무부 장관 대행은 새 내각에서 자리를 유지할 것으로 널리 예상되며, '경제가 중환자실을 떠났고 정부는 올해 GDP 성장을 3%로 끌어올리기 위해 노력할 것'이라고 언급했습니다. Kiatanantha는 '새 정부가 중단 없이 4년 임기를 마칠 수 있다면 연간 GDP 3% 성장이 가능하며, 태국이 더 이상 '아시아의 병자'가 아님을 분명히 보여주기 위해서는 2~3분기 동안 성장 모멘텀이 지속되어야 한다'고 말했습니다. 성장을 촉진하기 위해 단기 경기 부양책은 100일 이내에 도입되어야 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 상황에 대한 분석 기사로, 여행 자체에는 직접적인 영향은 없으나, 경제 상황에 따라 여행 관련 소비 심리에 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Analysts warn disruption could slow GDP growth",
+          "url": "https://www.bangkokpost.com/business/general/3201130/analysts-warn-disruption-could-slow-gdp-growth",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975530_700.jpg"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975530_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "수입 관세, 바트 강세로 급락",
+      "summary": "- 세관 부서는 환율, 경제 상황, 자유 무역 협정(FTA)으로 인해 수입 관세 수입에 영향을 받음.\n- 2026 회계연도 처음 3개월 동안 목표보다 8% 낮은 징수액 기록.\n- 바트 강세가 주요 원인으로 분석됨.",
+      "full_translated": "세관 부서에 따르면 환율, 경제 상황 및 자유 무역 협정(FTA)으로 인해 수입 관세 수입에 영향을 받아 2026 회계연도 처음 3개월 동안 징수액이 목표보다 8% 낮았습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "환율 변동에 대한 정보는 여행자에게 간접적인 영향을 미칠 수 있지만, 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Import duties plunge thanks to strong baht",
+          "url": "https://www.bangkokpost.com/business/general/3201145/import-duties-plunge-thanks-to-strong-baht",
+          "source": "Bangkokpost.com : Top Stories"
+        }
+      ],
+      "collected_at": "05:57",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국군, 훈 마넷 캄보디아 총리의 주장을 반박하며 국제법 준수 강조",
+      "summary": "- 태국군은 훈 마넷 캄보디아 총리의 국경 상황 관련 왜곡 주장에 반박하며 국제법에 따른 주권 수호를 강조함.\n- 훈 마넷 총리는 태국군이 캄보디아 영토를 점령하고 컨테이너와 철조망을 설치하여 약 8만 명의 이재민 귀환을 막고 있다고 주장함.\n- 태국군은 해당 지역이 태국 영토로 인정되며, 과거 캄보디아 난민에게 피난처를 제공했으나 일부 캄보디아 민간인과 군인이 귀환하지 않았다고 반박함.",
+      "full_translated": "방콕 – 태국군은 목요일 훈 마넷 캄보디아 총리의 발언을 반박하며 국경 상황에 대한 사실 왜곡을 비난하고 태국이 국제법에 따라 주권을 방어하기 위해 행동하고 있다고 주장했습니다. 육군 대변인 Winthai Suvaree 소장은 훈 마넷이 2025년 12월 27일 제3차 특별 국경 위원회(GBC) 회의에서 양측이 서명한 공동 성명에 따른 태국군과 휴전 협정에 관해 로이터에 제공한 2월 17일 인터뷰에 응답했습니다. 훈 마넷은 태국군이 캄보디아 영토를 점령하고 약 80,000명의 이재민의 귀환을 막는 컨테이너와 철조망을 설치했다고 말했습니다. Winthai는 문제 지역이 태국 영토로 인정된다고 말했습니다. 그는 태국이 이전에 분쟁에서 도피하는 캄보디아 난민들이 국경 측에 피난처를 제공하도록 허용했다고 말했습니다. 그러나 전투가 끝난 후 일부 캄보디아 민간인과 군인들은 돌아오지 않았습니다. 그는 공동체가 나중에 태국 주권 영토로 확장되었고, 태국이 양자 메커니즘을 통해 반복적으로 항의했음에도 불구하고 그렇게 했다고 주장했습니다. 그는 이 그룹을 \"이재민\"으로 묘사해서는 안 되며, 태국 영토를 불법적으로 침범하여 태국 시민의 해당 지역 접근에 영향을 미치는 개인으로 간주해야 한다고 말했습니다. 영토 점령 및 컨테이너 및 철조망 설치 주장에 대해 군은 태국이 휴전 조건을 엄격히 준수했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국-캄보디아 국경 분쟁 관련 뉴스. 직접적인 여행 영향은 낮으나, 국경 지역 여행 시 주의가 필요할 수 있어 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai Army rejects Hun Manet’s claims, says Thailand acting within international law",
+          "url": "https://www.khaosodenglish.com/news/2026/02/19/thai-army-rejects-hun-manets-claims-says-thailand-acting-within-international-law/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page80.jpg"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page80.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "Gianna Clemente, 태국에서 프로 시즌 시작 및 Nike 합류에 대한 기쁨 표명 - LPGA",
+      "summary": "- Gianna Clemente가 태국에서 프로 시즌을 시작하며 Nike 가족에 합류하게 된 것에 대한 기쁨을 나타냈습니다.\n- LPGA 소속으로 활동할 예정입니다.\n- 태국에서 프로 데뷔를 하게 되어 기대감을 표현했습니다.",
+      "full_translated": "Gianna Clemente “Thrilled” to Jumpstart First Pro Season in Thailand, Join Nike Family&nbsp;&nbsp;LPGA",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "스포츠 뉴스이며, 태국에서 열리는 스포츠 이벤트에 대한 정보이므로 여행객에게 약간의 흥미를 유발할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Gianna Clemente “Thrilled” to Jumpstart First Pro Season in Thailand, Join Nike Family - LPGA",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHUzOUFYdjR6b1U2ZVJQSXZKRWxWMDFCbjZIbjU3Tmh5UDdPR0wwbkVIbWhvYUo1YlVoSE1HM0NBdDQwbWRQSlZ5QmRBdVZnUGJaSFJyaUowYVM3Z1FJdG1CeW9KdUNpcTIxRUNIS253eFBqX2owREVSRVNjeHNIbEo0MUdxUi1mVFliTlNBMnJaUk4wMjBUTVJicnhKVXRsaDRiSURsMzh0UVlDU09KNm16cTk?oc=5",
+          "source": "LPGA",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:57",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-20"
     }
