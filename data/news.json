@@ -23695,14 +23695,9 @@
       "summary": "- 태국에서 대마는 더 이상 오락용으로 합법이 아닙니다.\n- 이전에는 합법이었으나 현재는 규제가 강화되었습니다.\n- 자세한 내용은 herb.co에서 확인할 수 있습니다.",
       "full_translated": "태국에서 대마는 합법인가? 오락용 사용이 더 이상 허용되지 않는 이유는 herb.co에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "최근 태국 대마 정책 변화에 대한 정보 제공. 여행자들에게 중요한 정보이며, 특히 정책 변화는 업데이트로 간주.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Is Weed Legal in Thailand? Why Recreational Use Is No Longer Allowed - herb.co",
@@ -23711,23 +23706,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:23",
+      "collected_at": "3:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RbWZ4d1lhamlucTc3Sl9jZGR6V0JUN0c4WmNRY1o3aTFtODJZTXp1VUstWjMyRUYwTFAtRk9nV1VXelZTZ0R6dUozalBsaklSZlhuV25lOWZIUkRlVmxv?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 안전한 여행지: 혼란을 피하고 멋진 휴가를 즐기는 궁극적인 가이드",
       "summary": "- 태국은 여전히 안전하고 매력적인 여행지입니다.\n- 혼란을 피하고 휴가를 최대한 즐기기 위한 팁을 제공합니다.\n- 자세한 내용은 Travel And Tour World에서 확인하세요.",
       "full_translated": "태국의 멋진 휴가지들은 여전히 안전합니다 – 혼란을 이겨내고 싶은 관광객을 위한 궁극적인 가이드! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 관련 일반 정보 제공. 혼란을 피하는 팁은 유용할 수 있으나, 긴급하거나 필수적인 정보는 아님.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Stunning Vacation Spots Remain Safe – The Ultimate Guide for Tourists Who Want to Beat the Chaos! - Travel And Tour World",
@@ -23736,23 +23728,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:23",
+      "collected_at": "3:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMUhWT3l6WG9QZU13NmZYYUpoN2RCbHRVR2dFeWIyZXNpTmVqQ3ItTnZUd0xVVHF2SnYxREl6alBpbGQwYm9EZjNrbjlFY29GWS1zc0dhN3JBU0FqSVRaLXNCOGVGdVFEY2dERHRwejBoMElhTTE2TWN2VU5PZ2ZCT2NLdGw0ekdscGp5TzNaZU0tMVIyaXlRNVRjZ01XYWt5VGtSOEhsZ0ZyRnpXd29VekpPM210RW03aTRGMnF6RHFJdmYzYXdDTHZsSzl1ZnJTNmJyNEpiY21YcXE4VWJVd0gtb3AzdURD?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 새로운 UNSEEN 루트 시작과 함께 Ban Pam Bok이 10대 문화 관광 커뮤니티에 합류",
       "summary": "- 태국이 새로운 UNSEEN 루트를 시작하며 Ban Pam Bok이 10대 문화 관광 커뮤니티에 선정됨.\n- Ban Pam Bok은 태국 북부에 위치한 작은 마을로, 전통적인 태국 문화를 경험할 수 있는 곳임.\n- 새로운 UNSEEN 루트는 태국의 숨겨진 매력을 발견할 수 있는 기회를 제공할 것으로 기대됨.",
       "full_translated": "Ban Pam Bok이 태국이 새로운 UNSEEN 루트를 시작함에 따라 10대 문화 관광 커뮤니티에 합류했습니다. &nbsp;&nbsp;Pattaya Mail",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 관광 루트 정보는 여행객에게 흥미로운 선택지를 제공하므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "Ban Pam Bok, 태국 북부",
-        "price": null,
-        "location_google_map_query": "Ban Pam Bok, Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Ban Pam Bok, 태국 북부', 'price': None, 'location_google_map_query': 'Ban Pam Bok, Thailand'}",
       "references": [
         {
           "title": "Ban Pam Bok joins top 10 cultural tourism communities as Thailand launches new UNSEEN route - Pattaya Mail",
@@ -23761,23 +23750,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:23",
+      "collected_at": "3:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVER1Ql9ucnVvbXJtLTZxZm1uTFBJZURKdHRBcS1VaXZTMkh3eThvM05GdkJ5MVZxRTR0dVo0Zm12NGlqRFNNc2tXdEpScHZEYWZ3UHRWOS1nQjg3dXpjd1JTYS1iWlZjeEYxdGg1YnZzanlTSWRRMGxrTnJiV0E3NUgyN0pUU0pSY2E2b05kTzdVQlg5VTdzdHdTMHdWUUlqNzFXLXZDcGJjdDVHRldpQUMzWFBmN0ZaanM4bEVRcTNoZWpZb2NOZGlNYTMyM2dYZ2VWRXF3?oc=5",
+      "source": ""
     },
     {
       "title": "영국 경찰, 앤드루 왕자 공직 부정행위 혐의로 체포: 왕실 스캔들 파장",
       "summary": "- 앤드루 마운트배튼-윈저 왕자가 공직 부정행위 혐의로 체포됨.\n- 런던 경찰은 2010년 제프리 엡스타인에게 무역 보고서를 보낸 혐의 조사 중.\n- 왕실의 이미지 실추 및 영국 사회에 큰 파장 예상.",
       "full_translated": "런던 (AP) — 영국 경찰이 목요일 앤드루 마운트배튼-윈저를 공직 부정행위 혐의로 체포했습니다. 런던 서쪽 지역을 관할하는 템스 밸리 경찰은 마운트배튼-윈저의 이전 거주지를 포함하여, 전 앤드루 왕자가 2010년 유죄 판결을 받은 성범죄자 제프리 엡스타인에게 무역 보고서를 보냈다는 보고서를 '평가'하고 있다고 밝혔습니다. 이번 평가는 엡스타인에 대한 미국 수사와 관련된 수백만 페이지 분량의 문서 공개에 따른 것입니다. 경찰은 영국 법에 따라 일반적으로 마운트배튼-윈저의 이름을 밝히지 않았습니다. 그러나 체포 여부를 묻는 질문에 경찰은 60대 남성을 체포했다는 성명을 언급했습니다. 마운트배튼-윈저는 66세입니다. 성명은 “철저한 평가 결과, 우리는 이제 공직 부정행위 혐의에 대한 수사를 개시했습니다.”라고 밝혔습니다. “우리는 파트너와 협력하여 이 혐의를 조사하면서 수사의 무결성과 객관성을 보호하는 것이 중요합니다.” 성명은 덧붙였습니다. “우리는 이 사건에 대한 상당한 대중의 관심을 이해하고 있으며 적절한 시기에 업데이트를 제공할 것입니다.” 온라인에 유포된 사진에는 노퍽의 샌드링엄 영지에 있는 우드 팜에 표식이 없는 경찰차가 있는 것으로 보이며, 사복 경찰관들이 마운트배튼-윈저의 집 밖에 모여 있는 모습이 나타났습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "영국 왕실 관련 뉴스이지만, 태국 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Former Prince Andrew arrested on suspicion of misconduct in public office",
@@ -23786,23 +23772,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26050372156316.jpg"
         }
       ],
-      "collected_at": "03:23",
+      "collected_at": "3:23",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26050372156316.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.khaosodenglish.com/news/international/2026/02/19/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office/",
+      "source": ""
     },
     {
       "title": "태국 경제, 관광 침체와 팬데믹에도 회복세 보여",
       "summary": "- 태국 경제는 관광 산업 침체에도 불구하고 회복세를 보이고 있음.\n- 팬데믹 상황 속에서도 경제 성장 동력을 유지하고 있는 것으로 분석됨.\n- 자세한 경제 회복 요인과 전망은 기사 본문을 통해 확인할 수 있음.",
       "full_translated": "태국 경제, 관광 침체와 팬데믹에도 회복세 보여&nbsp;&nbsp;MSN",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 상황은 여행객의 전반적인 여행 경험에 간접적인 영향을 미칠 수 있으며, 환율 및 물가 변동에 대한 정보를 제공할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s economy rebounds despite tourism decline, pandemic - MSN",
@@ -23811,7 +23794,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:23",
+      "collected_at": "3:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTNWTnVYdVhVUHlZbnlwRUc0WWdqYUxMNGw2cFhmVFZzU3B5cm94X2x1blVGNUlGQkJHaUlqVEtROExwdHFLRVJOZnVIM1Fhc1p4RmpqM2xTVFNJTDNLSlFpVFo0dVItbGdlYU1MeUJ3QllTVk9CdUN3ZGd4TUpVQW9RTXNrVHJSUnhfZEpDcFpRUVhvWWRXU0FtVkFEWDQ4dDlGeHEzWDJHV3pkRmc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 장기 관광객 증가로 무비자 체류에 대한 대대적인 변경 고려",
+      "summary": "- 태국이 장기 관광객 증가로 인해 무비자 체류에 대한 변경을 고려 중입니다.\n- 정확한 변경 사항은 아직 발표되지 않았습니다.\n- 비자 정책 변경에 대한 최신 정보를 확인해야 합니다.",
+      "full_translated": "태국은 장기 관광객으로 인한 부담에 직면하여 무비자 체류에 대한 대대적인 변경을 고려하고 있습니다. 최신 세부 정보를 확인하세요. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 무비자 정책 변경 가능성은 여행객에게 중요한 정보이므로 7점 부여. 비자 및 입국 규정은 여행 계획에 직접적인 영향을 미침.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Facing Strain from Long-Term Tourists, Thailand Considers Drastic Changes to Visa-Free Stays: Find Out The Latest Details Here - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxON1BMWXN3ZUNZQ1FOUVpXVklvUmlaNXFNM3JDcHlTVXZTX0x0aFNUeDdST2p5SEdIdVh1bWpzakxHTzhJT29GQThkcEsyaTJBS1hwcVFkWVU4QTBKUGFEU1BtTzNaWDNSMHY1dzFvNlZjSFZob2RlZkdoY2RwNHZqQktrd3RoOFo4TVFrMTlmdFBwNFo2c3diTU9scG9OYzBKTWp6R1VZQzAwX3BISlRLNVM2Szh6d2RCeEdMYzI4MU4tOHRGSWJPUUowNHpFUmNsZDdMVlAzOXFqaTdKNTN2ZDk0QzdwTWlLc3VrNkhYSVZLc1I4SW01RGFJYzdyaTZkNUxF?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "2월 19일: 태국에서의 Samra 체포, 여행 보험 및 프로모터 위험 증가 - Meyka",
+      "summary": "- Meyka에 따르면 태국에서 Samra 체포로 여행 보험 및 프로모터 위험이 증가했습니다.\n- 자세한 내용은 기사를 참조하십시오.\n- 여행 관련 보험 및 안전에 대한 정보 확인이 필요합니다.",
+      "full_translated": "2월 19일: 태국에서의 Samra 체포, 여행 보험 및 프로모터 위험 증가 Meyka",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 내 체포 사건으로 인해 여행 보험 및 안전에 대한 관심이 높아질 수 있으므로 여행 관련 정보를 제공합니다.",
+      "event_info": {
+        "date": "2024-02-19",
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "February 19: Samra Arrest in Thailand Raises Tour Insurance, Promoter Risk - Meyka",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEN5WkNDZ0kwYWFEaE9xYTZxamlmSkIwSWttbkxzamdBZjQ4eWRxR3pBVFpzUnhUYldXM3lGeVNaRDE2aUNudl9IbGhxNzVMLXV1ZkRndE1Hc1dMVW1mVmRPQ0NQN0NmcC0xQXNGV3dFRnFlZ0tRWEFVd2NtNVlQREdoSnVWeFkyOFJ2RTNMeGgxem9GVGROWDlXOVZCYlVkUkxv?oc=5",
+          "source": "Meyka",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 남부 문화유산 쇼케이스 투어 - 방콕 포스트",
+      "summary": "- 방콕 포스트에서 태국 남부 문화유산을 소개하는 투어 쇼케이스 진행.\n- 다양한 문화 유적지와 전통 체험 기회 제공.\n- 관광객들에게 태국의 숨겨진 매력을 알리는 데 기여.",
+      "full_translated": "태국 남부 문화유산 쇼케이스 투어&nbsp;&nbsp;방콕 포스트",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 남부 지역의 문화유산을 소개하는 투어 정보는 여행객에게 새로운 여행 옵션을 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": "태국 남부",
+        "price": null,
+        "location_google_map_query": "태국 남부 문화 유적지"
+      },
+      "references": [
+        {
+          "title": "Tour showcases southern Thai heritage - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU2owQWItcldYOC1udUd1TDJKVVdEYS14WGg3QVJTX2dXa0JNeVp6MExLQ3FWMk1HVkc4aklMWmhaY1NrdzlVRUlxMDJVeTM3R0RUSXNuX1dkZHl4QmdqYXYzcHdyTDN0NnRyOC1UVXhLSDN0ck1mZmoycjZEVVNuZG9LcDhmNU4tbE9taGJCbTBfYnpz?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-20"
     }
