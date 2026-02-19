@@ -22505,14 +22505,9 @@
       "summary": "- 마하사라캄 지역에서 83세 여성이 밭에서 성추행 당하는 사건 발생\n- 용의자는 오토바이를 타고 접근, 피해자에게 추행 후 도주\n- 경찰은 용의자를 추적 중이며, 추가 피해 예방을 위해 순찰 강화",
       "full_translated": "마하사라캄 지방에서 83세 여성이 밭에서 게를 잡던 중 젊은 남성에게 성추행을 당하는 사건이 발생했습니다. 용의자는 오토바이를 타고 접근하여 피해자에게 추행을 가한 후 도주했습니다. 피해 여성은 경찰에 신고했으며, 경찰은 용의자를 추적하고 있습니다. 지역 주민들은 추가 피해를 우려하며 불안해하고 있습니다. 경찰은 해당 지역 순찰을 강화하고, 유사 범죄 예방에 힘쓸 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 내에서 발생한 범죄 사건으로, 여행객 안전에 대한 잠재적 위협이 될 수 있으므로 알림. 특히 고령 여행자에게 주의를 요함.",
-      "event_info": {
-        "date": null,
-        "location": "마하사라캄",
-        "price": null,
-        "location_google_map_query": "마하사라캄"
-      },
+      "event_info": "{'date': None, 'location': '마하사라캄', 'price': None, 'location_google_map_query': '마하사라캄'}",
       "references": [
         {
           "title": "ล่าตัว “ไอ้หื่นหน้าหล่อ” บุกอนาจารยายวัย 83 กลางทุ่งนาก่อนหลบหนี",
@@ -22523,21 +22518,18 @@
       ],
       "collected_at": "16:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75K3dwmh4vYSvT.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/northeast/2915236",
+      "source": ""
     },
     {
       "title": "왕궁, 시리키트 왕비 애도 기간 변경 발표",
       "summary": "- 왕궁은 시리키트 왕비 애도 기간의 관람 시간을 변경합니다.\n- 2월 21일부터 매일 08:00~20:00까지 애도가 가능합니다.\n- 복장 규정을 준수해야 하며, 남성은 청바지를 입을 수 없고 여성은 치마 또는 전통 의상을 입어야 합니다.",
       "full_translated": "왕궁은 시리키트 왕비의 애도 기간 동안 왕궁 두씻 마하 쁘라쌋 궁전에서 참배 시간을 변경한다고 발표했습니다. 2069년 2월 21일 토요일부터 왕궁은 시리키트 왕비의 애도 기간 동안 왕궁 두씻 마하 쁘라쌋 궁전에서 참배 시간을 변경하고 관광객을 위한 관람 경로를 변경한다고 발표했습니다. 왕궁은 애도 기간 동안 참배 시간과 경로, 그리고 왕궁과 왓 프라 깨오 사원 관람 경로를 다음과 같이 정했습니다.\n\n1. 시리키트 왕비의 애도는 매일 08:00~20:00까지 왕궁 두씻 마하 쁘라쌋 궁전에서 가능합니다(2069년 2월 21일 토요일부터). 5개의 시간대로 나뉘며, 검문소를 통과하고 참배 순서를 받아야 합니다. 앞마당 도로 아래 터널 통로에서 검문소를 통과해야 합니다(검문소는 19:00에 닫습니다). 마니 놉파랏 문을 통해 입장하고 왕궁이 정한 경로를 따라 이동합니다. 복장 규정을 준수하고 애도를 표해야 합니다. 남성은 청바지를 입을 수 없고 여성은 치마 또는 전통 의상을 입어야 합니다.\n\n2. 왕궁과 왓 프라 깨오 사원 관람은 2068년 11월 9일부터 08:30~15:30까지 가능합니다. 마니 놉파랏 문을 통해 입장하고 보안 검색대를 통과해야 합니다. 두씻 마하 쁘라쌋 궁전은 관람할 수 없습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "왕궁 방문 시간 변경은 여행객에게 중요한 정보이며, 특히 복장 규정은 사전에 알아야 할 필수 사항입니다. 애도 기간에 대한 정보 업데이트는 여행 계획에 영향을 줄 수 있으므로 중요합니다.",
-      "event_info": {
-        "date": "2069-02-21",
-        "location": "왕궁 두씻 마하 쁘라쌋 궁전",
-        "price": "왕궁 입장료 별도",
-        "location_google_map_query": "Dusit Maha Prasat Palace, Bangkok"
-      },
+      "event_info": "{'date': '2069-02-21', 'location': '왕궁 두씻 마하 쁘라쌋 궁전', 'price': '왕궁 입장료 별도', 'location_google_map_query': 'Dusit Maha Prasat Palace, Bangkok'}",
       "references": [
         {
           "title": "สำนักพระราชวัง แจ้งเปลี่ยนแปลงเวลาเข้ากราบถวายบังคมพระบรมศพ \"สมเด็จพระพันปีหลวง\"",
@@ -22548,21 +22540,18 @@
       ],
       "collected_at": "16:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75K3rfJZGOj9nk.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/royal/2915230",
+      "source": ""
     },
     {
       "title": "네덜란드 관광객, 태국 경찰의 신속한 Cartier 시계 회수에 감사",
       "summary": "- 네덜란드 관광객 Hakan Kasap 씨가 분실한 35만 바트 상당의 Cartier 시계를 태국 경찰이 찾아 돌려줌.\n- Kasap 씨는 사톤 누에아 지역의 마사지 가게에서 시계를 분실했다고 신고했으나, 경찰 조사 결과 콘도에서 떨어진 것으로 확인됨.\n- 그는 태국 경찰의 신속하고 효율적인 업무 처리에 감사를 표함.",
       "full_translated": "한 네덜란드 관광객이 야나와 경찰서 수사팀이 35만 바트 상당의 고급 시계 '카르티에'를 찾아 돌려준 것에 대해 기뻐했습니다. 그는 시계를 도난당했다고 생각했지만, 2월 19일 오후 1시에 콘도에서 떨어뜨린 것으로 밝혀졌습니다. 야나와 경찰서장인 판사 아마라피탁 경찰 대령은 수사 부서 부국장인 아팃 차티낙롭 경찰 중령, 수사 과장인 킷자팟 퐁팟타나킷자 경찰 소령, 수사관인 수파킷 콩추엔 경찰 소령과 함께 약 35만 바트 상당의 카르티에 손목시계를 하칸 카삽 씨에게 돌려주었습니다. 하칸 씨는 2월 18일에 재산 분실 신고를 했습니다. 2월 17일 오후 3시 30분경 사톤 누에아 거리에 있는 마사지 가게를 이용하기 전에 시계를 포함한 소지품을 마사지 실내 테이블 위에 놓았습니다. 서비스를 마친 후 가게를 떠났고, 2월 18일 오전 9시에 소지품을 확인했을 때 손목시계가 없어진 것을 알았습니다. 야나와 경찰서 수사팀은 가게 내부 CCTV 영상을 확인한 결과, 피해자가 손목시계를 포함한 소지품을 가방에 넣은 것을 확인했습니다. 다른 사람이 가져간 흔적은 없었습니다. 그 후 숙소인 고급 콘도까지의 경로를 따라 CCTV를 계속 확인했고, 콘도 구역 내에서 손목시계가 떨어진 것을 발견했습니다. 야나와 경찰서 수사팀은 손목시계를 피해자 하칸 씨에게 돌려주었습니다. 하칸 씨는 판사 아마라피탁 경찰 대령을 포함한 경찰관들의 업무 수행에 감사를 표하고 칭찬했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객의 소지품 분실/도난 사건에 대한 경찰의 대응을 보여주는 기사로, 치안 관련 정보를 제공. 다만, 사건 자체가 경미하고 해결되었으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "사톤 누에아",
-        "price": null,
-        "location_google_map_query": "사톤 누에아"
-      },
+      "event_info": "{'date': None, 'location': '사톤 누에아', 'price': None, 'location_google_map_query': '사톤 누에아'}",
       "references": [
         {
           "title": "นักท่องเที่ยวชาวดัตช์ ชื่นชมตำรวจไทย แกะรอยวงจรปิด ตามคืนนาฬิกา Cartier 3.5 แสน",
@@ -22573,21 +22562,18 @@
       ],
       "collected_at": "16:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75K36pgf1ZaDe5.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/local/2915233",
+      "source": ""
     },
     {
       "title": "태국 인민당, Spectre C 논란과 성범죄 연루 후보 관련 사과",
       "summary": "- 인민당 대변인, Spectre C 회사의 정보 조작 연루 의혹 부인하며 법적 책임은 회피.\n- 과거 성범죄로 유죄 판결을 받은 후보를 공천한 것에 대해 피해자에게 사과.\n- 당 해산 청구 가능성에 대해서는 법적으로 문제없다는 입장.",
       "full_translated": "인민당의 대변인인 '프릿'은 Spectre C 회사와 관련된 당의 해산 청구 가능성에 대해 언급하며, 정보 조작(IO)을 위해 회사를 고용한 적이 없다고 거듭 강조했습니다. 람푼 지방 자치 단체 달력과 관련된 사실은 아직 확인하지 못했으며, 마하사라캄 지역의 국회의원 후보가 최근 법원에서 유죄 판결을 받은 사건에 대해 피해자들에게 사과했습니다. 2026년 2월 19일, 프릿은 당 사무실에서 기자들과 만나 정치 운동가인 스리수완 잔야가 인민당 해산 청원을 제기한 사건에 대해 언급했습니다. Spectre C 주식회사가 정보 운영을 수행하도록 고용했다는 주장에 대해 당을 대표하여 답변하면서, 그러한 주장은 사실이 아니라고 밝혔습니다. 그는 일반적으로 정보 운영은 가짜 계정을 만들어 소셜 미디어에서 특정 행동을 수행하여 대중이 동의하거나 반대하도록 만들거나 정보를 왜곡하는 것을 의미한다고 설명했습니다. 인민당은 그러한 행위를 한 적이 없으며, 어떤 회사도 고용한 적이 없다고 강조했습니다. 그는 당이 모든 법률을 준수하고 있다고 확신하며, 따라서 당 해산으로 이어지지 않을 것이라고 덧붙였습니다. Spectre C 회사와 관련된 문제는 회사의 책임이며 당의 책임이 아니라고 언급하며, 회사가 곧 성명을 발표할 것으로 예상한다고 밝혔습니다. 또한 일부 국회의원 보좌관이 Spectre C 회사에서 일하는 것이 법률 위반에 해당될 위험이 있는지에 대한 질문에 프릿은 당이 모든 조사를 환영하며, 법률팀이 이미 관련 규정이나 법률을 위반하지 않았는지 확인했다고 답변했습니다. 마지막으로, 프릿은 인민당이 과거에 마하사라캄 지역의 국회의원 후보를 보낸 것에 대해 피해자들에게 사과했습니다. 최근 대법원에서 강간 혐의로 유죄 판결을 받은 이 후보의 자격은 법적으로 상실되었지만, 이 사건은 인민당이 교훈을 얻고 앞으로 더 신중하게 후보를 선택해야 한다는 점을 상기시켜주는 사건이라고 생각한다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 내용으로 여행 자체에는 큰 영향이 없으나, 인민당 관련 이슈가 태국 사회에 미치는 영향력을 고려하여 낮은 점수 부여. 여행 시위나 집회 가능성도 배제할 수 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ไม่หวั่นถูกยื่นยุบพรรค ปม Spectre C “ไอติม” ตัวแทน ปชน. ขอโทษเหยื่อ หลังผู้สมัครถูกจำคุก",
@@ -22598,6 +22584,133 @@
       ],
       "collected_at": "16:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75LJD5K96q0rTS.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915223",
+      "source": ""
+    },
+    {
+      "title": "태국 정부, 공공장소 총기 소지 시 5년 징역 강조 및 총기 허가 제한",
+      "summary": "- 태국 정부는 공공장소에서 총기 소지 시 5년 징역형을 받을 수 있다고 재차 강조했습니다.\n- 총기 소지 허가(뽀.씹썽) 발급을 중단하고 전국 등록관에게 엄격한 규제를 지시했습니다.\n- 아누틴 찬위라쿨 총리의 지시에 따라 총기 규제 강화 및 관련 조치를 검토하고 있습니다.",
+      "full_translated": "태국 정부는 총기 규제를 강화하고 있습니다. 전국 등록관에게 총기 허가(뻐.쌈 - 뻐.씨)를 엄격히 통제하고 뻐.씹썽 발급을 중단하며, 공공장소에서 총기 소지 시 5년 징역형을 받을 수 있음을 강조했습니다. 또한, 지방 행정부에 현장 불시 점검을 지시하여 법 집행을 강화하고 있습니다. 아유린 판릿 부총리실 대변인은 아누틴 찬위라쿨 총리의 지시에 따라 총기 규제를 강화하고 관련 조치를 검토하고 있다고 밝혔습니다. 내무부 산하 행정부는 전국 행정부에 다음과 같은 긴급 지시를 내렸습니다.\n\n1. 총기 구매 허가(뻐.쌈) 발급 시 등록관은 신청자의 자격 요건을 엄격히 심사하고 1947년 총기법 13조에 따른 금지 사항을 철저히 확인해야 합니다. 또한, 개인적인 행동, 가까운 사람, 불법 행위 관련 이력을 면밀히 조사해야 합니다.\n\n2. 허가 소지자(뻐.씨) 감독 시 등록관과 행정 공무원은 주 정부 관리, 이장, 지역 주민 네트워크를 통해 허가 소지자를 감시하고 허가 소지자가 자격을 유지하고 있는지 확인해야 합니다. 질서에 영향을 미칠 수 있는 행위가 발견되면 등록관은 행정 및 형사상 법률을 엄격히 집행해야 합니다.\n\n3. 총기 휴대 허가(뻐.씹썽) 임시 중단. 내무부는 20일부터 총기 휴대 허가 발급을 일시적으로 중단하는 조치를 유지하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "총기 관련 규제 강화는 여행객 안전에 영향을 미칠 수 있으므로 관련 정보 제공. 다만, 직접적인 위협은 아니므로 7점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัฐบาลย้ำ พกปืนในที่สาธารณะคุก 5 ปี กำชับนายทะเบียนงดออกใบอนุญาต ป.12",
+          "url": "https://www.thairath.co.th/news/politic/2915254",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItaLSg7Osvc9.jpg"
+        }
+      ],
+      "collected_at": "17:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItaLSg7Osvc9.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "방콕 Sukhumvit 50 금은방 강도, 치앙라이에서 검거",
+      "summary": "- 방콕 Sukhumvit 50의 금은방 강도 용의자가 치앙라이에서 검거됨.\n- 용의자는 주변 국가로 도주하려던 중 체포됨.\n- 피해액은 1천만 바트 이상으로 추정.",
+      "full_translated": "방콕 Sukhumvit 지역의 유명 쇼핑몰에서 발생한 금은방 강도 사건의 용의자가 체포되었습니다. 경찰은 용의자가 인근 국가로 도주하려던 중 치앙라이에서 검거했다고 밝혔습니다. 용의자는 금 약 198바트와 현금 약 17만 바트를 훔쳐 달아났으며, 피해액은 1천만 바트 이상으로 추정됩니다. 경찰은 용의자를 방콕으로 압송하여 추가 조사를 진행할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 밀집 지역에서 발생한 강도 사건으로, 여행객 안전에 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Sukhumvit 50, Bangkok",
+        "price": null,
+        "location_google_map_query": "Sukhumvit 50 Bangkok"
+      },
+      "references": [
+        {
+          "title": "ด่วน จับได้แล้ว โจรชิงทองห้างดัง สุขุมวิท 50 จนมุมเชียงราย เตรียมเผ่นออกนอก",
+          "url": "https://www.thairath.co.th/news/crime/2915248",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JBkuG27mvPF4.jpg"
+        }
+      ],
+      "collected_at": "17:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JBkuG27mvPF4.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 보건부, 조류독감 예방 위한 안전한 가금류 섭취 권고",
+      "summary": "- 태국 보건부는 춘절 기간 안전한 가금류 섭취를 권고하며 조류독감 위험 감소 강조.\n- '선택-회피-세척' 원칙 준수: 익힌 고기 선택, 병든 가금류 회피, 철저한 손씻기.\n- 가금류 접촉 후 발열, 기침 등 증상 시 즉시 병원 방문 및 관련 정보 제공.",
+      "full_translated": "태국 정부 대변인은 질병통제국이 국민들에게 안전한 가금류 섭취를 권고하며, 특히 춘절 기간 동안 조류독감의 위험을 줄이기 위해 '선택-회피-세척' 원칙을 강조했다고 밝혔습니다. \n\n질병통제국은 닭고기, 오리고기, 계란 등을 구매할 때 표준화된 곳에서 구매하고 완전히 익혀서 섭취할 것을 권고합니다. 또한, 아프거나, 기운이 없거나, 깃털이 헝클어져 있거나, 비정상적으로 죽은 가금류는 섭취하지 않도록 당부했습니다. 아픈 가금류나 죽은 가금류와의 접촉을 피하고, 깨끗하고 안전하며 정식 등록된 상점에서 가금류를 구매해야 합니다. 마지막으로, 특히 동물이나 동물의 분비물과 접촉한 후에는 비누와 물로 손을 자주 씻어야 합니다. \n\n만약 가금류와 접촉한 후 14일 이내에 발열, 기침 또는 호흡 곤란 증상이 나타나면 즉시 병원을 방문하여 자세한 접촉 이력을 알리고 신속한 진단과 치료를 받아야 합니다. 정부는 신뢰할 수 있는 곳에서 구매한다면 닭고기와 오리고기를 안전하게 섭취할 수 있다고 재차 강조했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 중 음식 섭취 관련 안전 정보. 조류독감은 드물지만 여행자에게도 잠재적 위험이 될 수 있으므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กรมควบคุมโรค ย้ำหลัก “เลือก-หลีก-ล้าง” แนะเลือกบริโภคสัตว์ปีกอย่างปลอดภัย ลดเสี่ยงไข้หวัดนก",
+          "url": "https://www.thairath.co.th/news/politic/2915246",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JAt8lVltQ7Qt.jpg"
+        }
+      ],
+      "collected_at": "17:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JAt8lVltQ7Qt.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 특별 차량 번호판, '볼 통통', '예쁘고 부자', '돈 잘 버는' 등 44개 신규 단어 추가",
+      "summary": "- 태국 정부, 특별 차량 번호판에 사용될 44개의 새로운 단어 발표\n- '볼 통통(깬붐)', '예쁘고 부자(쑤어이 뤄이)', '돈 잘 버는(뤄이 껠)' 등 재미있는 단어 포함\n- 차량 소유주의 개성을 표현하고, 도로 안전 기금 마련에 기여할 것으로 기대",
+      "full_translated": "태국 관보(ราชกิจจานุเบกษา)에서 특별 차량 번호판에 사용될 44개의 새로운 단어를 발표했습니다. 여기에는 '깬붐(볼 통통)', '루어이겡(돈 잘 버는)' 등의 단어가 포함되어 있습니다. 2026년 2월 19일, 관보 웹사이트에는 수도권에 등록된 7인승 이하의 개인 차량에 대한 문자 및 차량 번호 사용 규정 발표가 게시되었습니다. 이는 2025년 3월 17일, 2025년 3월 30일, 2022년 7월 8일, 2022년 10월 7일, 2023년 1월 13일, 2023년 6월 29일, 2023년 11월 16일, 2024년 5월 20일, 2024년 8월 7일, 2024년 11월 27일, 2025년 3월 12일 및 2025년 6월 9일에 발표된 내용에 따른 것입니다. 국민과 도로안전기금사무소는 기존 발표에 추가하여 문자, 단어 또는 문구를 제안했으며, 특별 차량 번호판에 사용되는 문자 검토 소위원회는 2025년 11월 12일 회의에서 44개의 문자를 추가하기로 합의했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "특별 차량 번호판에 대한 소식은 흥미로운 태국 문화 정보로, 여행객에게 소소한 재미를 줄 수 있습니다. 언어와 관련된 내용이므로, 아주 기본적인 수준에서 흥미를 유발할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ราชกิจจานุเบกษา ประกาศ 44 คำใหม่ ป้ายทะเบียนพิเศษ \"แก้มบุ๋ม-สวยรวย-รวยเก่ง\"",
+          "url": "https://www.thairath.co.th/news/society/2915247",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JA2Z3ZhJuNc1.jpg"
+        }
+      ],
+      "collected_at": "17:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JA2Z3ZhJuNc1.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "푸미짜이 태국 주도 연립 정부에 소규모 정당 2곳 추가 지지",
+      "summary": "- Bhumjaithai당 대표 Anutin Charnvirakul 총리 지지 확보\n- Thai Sang Thai당과 New Alternative당이 Bhumjaithai당 지지 약속\n- 연립 정부는 하원 500석 중 286석 확보 전망",
+      "full_translated": "Bhumjaithai당은 2월 8일 총선 이후 Anutin Charnvirakul 대표가 총리직을 유지하는 데 대해 소규모 정당으로부터 더 많은 지지를 얻고 있으며, 연립 정부는 현재 하원 500석 중 286석을 확보할 것으로 예상됩니다. Thai Sang Thai당과 New Alternative당 대표들은 목요일 방콕에 있는 Bhumjaithai당 본사를 방문하여 Anutin 씨에 대한 지지를 약속했습니다. Thai Sang Thai당은 2명의 의원을, New Alternative당은 1명의 의원을 확보할 것으로 보입니다. Bhumjaithai당 대변인 Boonthida Somchai는 기자 회견에서 두 정당에 대한 초대는 Bhumjaithai당 고위 인사이며 관리 부총리인 Songsak Thongsri로부터 왔다고 밝혔습니다. 소식통에 따르면 Bhumjaithai당은 현재 관리 총리인 Anutin 씨가 새 정부를 이끌도록 투표할 286명의 의원 당선자를 확보할 수 있습니다. 이 블록은 Bhumjaithai당 193명, Pheu Thai당 74명, Palang Pracharath당 5명, 경제당 3명, 9개의 소규모 정당에서 각각 1~2표로 구성됩니다. Ms. Boonthida는 Bhumjaithai당이 금요일에 또 다른 기자 회견을 열 계획이라고 밝혔습니다. 다른 소식통은 Prachachat당에서 4명의 의원 당선자가 그날 Bhumjaithai당 본사를 방문할 것이라고 밝혔습니다. 그러나 Bhumjaithai당과 58명의 의원을 가진 Klatham당이 합의에 도달할 수 있을지, 아니면...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 정부 구성 관련 내용.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Two more mini-parties back Bhumjaithai-led coalition",
+          "url": "https://www.bangkokpost.com/thailand/politics/3200743/two-more-miniparties-back-bhumjaithailed-coalition",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200743_260219155320_700.jpg"
+        }
+      ],
+      "collected_at": "17:34",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200743_260219155320_700.jpg",
       "date": "2026-02-19"
     }
   ]
