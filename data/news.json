@@ -23143,14 +23143,9 @@
       "summary": "- 방콕 수쿰윗 지역 금은방 강도 사건 용의자가 3주간의 추격 끝에 치앙라이에서 체포됨.\n- 용의자는 모자와 가발로 변장하며 도주, 경찰은 추적 끝에 매 수아이 댐 근처에서 체포.\n- 용의자는 범행을 자백했으며, 현재 강도 혐의로 기소될 예정.",
       "full_translated": "방콕 수쿰윗 지역의 금은방을 습격하여 약 1,500만 바트 상당의 금을 훔쳐 달아난 강도가 3주간의 추격 끝에 치앙라이 지방에서 체포되었습니다. 경찰은 용의자가 모자와 가발로 여러 차례 변장하여 추적을 피하려 했음에도 불구하고, 매 수아이 지역의 매 수아이 댐 근처 은신처에서 체포했습니다.\n\n경찰청장은 용의자 Jalor(29세)가 강도 혐의를 자백했으며, 범죄가 발생한 프라 카농 경찰서로 이송되어 심문과 기소를 받을 예정이라고 밝혔습니다. 수사관들은 용의자가 체포를 피하기 위해 모자와 가발로 변장하고 계속 이동하는 것을 추적했습니다.\n\nJalor는 야간 무장 강도, 보호 장벽 침입, 범죄 및 재산 이동을 용이하게 하기 위해 차량을 사용한 혐의로 체포 영장이 발부된 상태입니다. 경찰은 훔친 금과 현금과 관련된 증거를 계속 수집하고 있습니다.\n\n강도 사건은 1월 30일 오후 11시 30분 방콕 클롱 토이 지역의 Lotus's hypermarket 내 Aurora 금은방에서 발생했습니다. 폐쇄 회로 TV(CCTV)에는 긴 소매 파란색 셔츠, 긴 바지, 챙 모자를 쓴 남성이 포착되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 여행객이 많이 찾는 수쿰빗 지역에서 발생했던 강도 사건의 용의자가 체포된 것은 여행객 안전에 대한 우려를 다소 해소해 줄 수 있으므로 관련 정보를 제공.",
-      "event_info": {
-        "date": "2026-01-30",
-        "location": "방콕 수쿰윗 지역 (Aurora 금은방, Lotus's hypermarket 내)",
-        "price": "1500만 바트 상당의 금",
-        "location_google_map_query": "Lotus's hypermarket Bangkok"
-      },
+      "event_info": "{'date': '2026-01-30', 'location': \"방콕 수쿰윗 지역 (Aurora 금은방, Lotus's hypermarket 내)\", 'price': '1500만 바트 상당의 금', 'location_google_map_query': \"Lotus's hypermarket Bangkok\"}",
       "references": [
         {
           "title": "Sukhumvit gold heist suspect nabbed after three-week chase",
@@ -23161,21 +23156,18 @@
       ],
       "collected_at": "23:09",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200844_260219192459_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/general/3200844/sukhumvitgold-heist-suspect-nabbed-after-threeweek-chase",
+      "source": ""
     },
     {
       "title": "방콕시, 란콘무앙 주차장 매각 의혹 부인",
       "summary": "- 방콕시는 란콘무앙 지하 주차장 매각 또는 사유화 주장을 부인함.\n- 민간 운영자에게 관리를 위탁하여 효율성을 개선하고 대중 접근성을 확대하기 위한 조치라고 설명함.\n- 주차장은 시청 운영 시간 외에 운영되어 구시가지 주차 공간을 늘리고 불법 주차 및 교통 체증을 줄이는 데 기여할 것으로 기대됨.",
       "full_translated": "방콕 메트로폴리탄 관리국(BMA)은 란콘무앙 지하 주차 시설 매각 또는 개인 소유로의 이전 주장에 대한 논란을 잠재우기 위해 나섰습니다. BMA 사무국장 수파르륵 후타이송은 목요일, 민간 운영자에게 지하 주차장 관리를 허용하는 결정은 자산 민영화가 아닌 효율성 개선과 대중 접근성 확대를 위한 것이라고 밝혔습니다. \n\n딘소 로드에 있는 방콕 시청 앞 란콘무앙 광장 아래에 위치한 이 주차 시설은 오랫동안 제대로 활용되지 못했다고 그는 말했습니다. 개정된 모델에 따라 운영자는 공식 근무 시간 외에 시설을 관리하여 구시가지 지역의 주차 가용성을 높이고 불법 노상 주차 및 교통 체증을 줄이는 데 도움을 줄 것입니다. \n\n수파르륵 씨는 이 계약이 시간 제한적인 관리 양허이며 BMA가 완전한 소유권과 규제 권한을 보유하고 있다고 강조했습니다. 이 프로젝트는 BMA 자산 조례 BE 2538(1995)을 준수하며 관련 위원회의 승인을 받았다고 덧붙였습니다. \n\n이번 주 초, 방콕 주지사 차차트 시티푼트는 방문객들이 이제 시청 운영 시간 외에 란콘무앙 아래 주차장에 주차할 수 있다고 말했습니다. 이 지역은 관광객들에게 인기가 있지만, 프라나콘 지역은 특히 주말에 주차 공간이 부족합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕 구시가지 주차 문제 해결 노력에 대한 정보. 여행객의 주차 편의성 향상과 관련 있음.",
-      "event_info": {
-        "date": null,
-        "location": "란콘무앙 광장 (방콕 시청 앞)",
-        "price": null,
-        "location_google_map_query": "Lan Khon Mueang, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '란콘무앙 광장 (방콕 시청 앞)', 'price': None, 'location_google_map_query': 'Lan Khon Mueang, Bangkok'}",
       "references": [
         {
           "title": "Bangkok Metropolitan Administration denies selling car park",
@@ -23186,21 +23178,18 @@
       ],
       "collected_at": "23:09",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200869_260219201911_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/general/3200869/bangkok-metropolitan-administration-denies-selling-car-park",
+      "source": ""
     },
     {
       "title": "트럼프, 가자 지구 지원 위해 70억 달러 기부 약속",
       "summary": "- 도널드 트럼프 미국 대통령이 가자 지구 지원을 위해 70억 달러를 기부하겠다고 발표함.\n- 이는 기존에 발표했던 50억 달러에서 증가한 금액임.\n- 카자흐스탄, 아제르바이잔, UAE 등 9개국이 기부에 참여함.",
       "full_translated": "도널드 트럼프 미국 대통령이 워싱턴 D.C.에서 제1차 평화위원회 회의를 열고 가자 지구 지원을 위해 70억 달러를 기부하겠다고 발표했습니다. 이는 기존에 발표했던 50억 달러에서 증가한 금액입니다.\n\n트럼프 대통령은 여러 국가의 지도자들을 환영하며, 이들이 자신의 '훌륭한 친구'가 되었다고 언급했습니다. 또한 평화위원회가 자신이 관여한 가장 중요하고 광범위한 영향을 미치는 것 중 하나라고 덧붙였습니다.\n\n트럼프 대통령은 카자흐스탄, 아제르바이잔, 아랍에미리트, 모로코, 바레인, 카타르, 사우디아라비아, 우즈베키스탄, 쿠웨이트 등 9개국이 가자 지구 재건을 위해 총 70억 달러를 기부하기로 약속했다고 밝혔습니다. 그는 \"지불되는 모든 달러는 안정과 조화로운 지역 사회를 건설하기 위한 희망에 대한 투자\"라고 말하며 기부자들에게 감사를 표했습니다. 트럼프 대통령은 또한 평화위원회에 100억 달러를 모금하겠다고 발표했지만, 이 자금이 어디에 사용될지는 구체적으로 밝히지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없지만, 국제 정세에 대한 이해를 돕고 잠재적 영향(테러 위험 증가 등)을 고려하여 낮은 점수 부여. 한국인이 알아두면 좋을 국제 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์เปิดฉาก ประชุม “คกก.สันติภาพ” สัญญามอบเงิน 7 พันล้านช่วยกาซา",
@@ -23211,21 +23200,18 @@
       ],
       "collected_at": "23:09",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HSzK4MZKeL6R.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/foreign/2915290",
+      "source": ""
     },
     {
       "title": "국민당, 성폭행 유죄 판결받은 전 후보자 관련 사과",
       "summary": "- 국민당 사무총장이 전 마하사라캄 지역구 후보자의 성폭행 유죄 판결에 대해 사과.\n- 후보자 선정 과정에서의 과실 인정, 향후 윤리 기준 강화 약속.\n- 피해자와 국민에게 사죄하며, 재발 방지를 위해 노력할 것이라고 밝힘.",
       "full_translated": "국민당 사무총장이 전 마하사라캄 지역구 후보인 티라왓 판나 씨의 성폭행 혐의에 대한 대법원 판결과 관련하여 국민들에게 사과했습니다. 사무총장은 후보자 선정 과정에서 실수가 있었음을 인정하고, 향후 후보 선정 시 당의 윤리 기준을 법적 기준보다 높게 적용하여 국민들의 신뢰를 회복하겠다고 약속했습니다. 그는 이번 사건을 통해 영향을 받은 모든 사람들에게 사과하며, 이러한 일이 다시 발생하지 않도록 노력할 것이라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เลขา ปชน. ขอโทษ ปมอดีตผู้สมัครถูกศาลสั่งจำคุก คดีข่มขืนกระทำชำเรา",
@@ -23236,21 +23222,18 @@
       ],
       "collected_at": "23:09",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JLf8ecZti7xL.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915278",
+      "source": ""
     },
     {
       "title": "태국 상무부, 양파 가격 하락 문제 해결 위해 수입 제한 및 가격 안정화 조치 시행",
       "summary": "- 태국 상무부는 양파 가격 하락 문제 해결을 위해 수입 제한 조치를 강화하고 가격 안정화 대책을 발표했습니다.\n- 최근 양파 생산량 증가와 함께 저가 수입이 늘면서 국내 가격이 폭락한 데 따른 조치입니다.\n- 2월 21일부터 28일까지 시장 가격보다 높은 가격으로 1,000톤의 양파를 구매할 계획이며, 추가적인 가격 안정화 대책을 준비 중입니다.",
       "full_translated": "태국 상무부가 양파 가격 하락 문제를 해결하기 위해 적극적으로 나서고 있습니다. 최근 생산량이 증가하고 수입량이 급증하면서 양파 가격이 킬로그램당 5-6바트까지 떨어졌습니다. 특히 2023년 12월부터 수입량이 급증했는데, 수입 가격을 지나치게 낮게 신고하여 국내 시장에서 가격 경쟁력을 확보, 국내 가격 하락을 부추겼습니다. \n\n지라윳 수완나앗 상무부 차관은 치앙마이주 매왕 지역을 방문하여 농민과 기업인들의 의견을 청취한 후 이같이 밝혔습니다. 그는 수입업자들이 실제보다 낮은 가격으로 수입 신고를 하고 있으며, 이로 인해 국내 생산품과의 가격 경쟁이 심화되고 있다고 지적했습니다. \n\n상무부는 세관과 협력하여 양파 수입 및 운송에 대한 감독을 강화하고 불법 수입을 막기 위해 노력할 것입니다. 또한 수입업체는 양파 수입 시 허가를 받아 상세 정보를 신고해야 하며, 이를 통해 상품의 이동 경로를 추적할 수 있도록 할 것입니다. 가격 하락 문제를 해결하기 위해 2월 21일부터 28일까지 시장 가격보다 높은 가격으로 1,000톤의 양파를 구매하는 프로젝트를 진행할 예정입니다. 이 외에도 3월 초, 생산량이 가장 많은 시기에 맞춰 추가적인 대책을 마련할 계획입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 농산물 가격 하락 관련 뉴스. 여행 자체에는 큰 영향이 없으나, 태국 경제 상황에 대한 이해를 돕고 현지 물가 등에 간접적으로 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": "2024-02-21",
-        "location": "치앙마이 주 매왕 지역",
-        "price": "시장 가격 이상",
-        "location_google_map_query": "매왕 치앙마이"
-      },
+      "event_info": "{'date': '2024-02-21', 'location': '치앙마이 주 매왕 지역', 'price': '시장 가격 이상', 'location_google_map_query': '매왕 치앙마이'}",
       "references": [
         {
           "title": "\"พาณิชย์\" แก้ \"หอมใหญ่\" ราคาตกต่ำ เร่งสกัดนำเข้า กางมาตรการรักษาเสถียรภาพ",
@@ -23261,7 +23244,136 @@
       ],
       "collected_at": "23:09",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JrJSQqdqKuFn.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2915260",
+      "source": ""
+    }
+  ],
+  "2026-02-20": [
+    {
+      "title": "태국 뜨랏 지역, 사기 센터 탈출자 관련 경찰 조사",
+      "summary": "- 태국 경찰, 캄보디아 사기 센터에서 탈출한 외국인 조사 위해 뜨랏 지역 방문\n- 탈출자들은 중국인이 운영하는 센터에서 폭력 행위에 시달렸다고 증언\n- 경찰은 해당 센터가 태국 국경과 마주한 지역에 위치해 있음을 확인",
+      "full_translated": "태국 동부 뜨랏 지역에서 캄보디아 사기 센터에서 탈출한 외국인 관련 사건이 발생하여 경찰이 조사에 나섰습니다. 부국장은 더 많은 사람들이 Thmor Da 단지에서 탈출할 것으로 예상됨에 따라 조치를 촉구했습니다. 경찰 부국장 Pol Gen Thatchai Pitaneelabut는 헬리콥터를 타고 목요일 이 동부 지방의 국경 지역으로 날아가 캄보디아의 사기 단지에서 도망친 외국인 관련 사건을 추적했습니다. 이번 방문은 Thmor Da 지역에서 운영되는 콜센터 갱단에 의해 잔인한 대우를 피해 목숨을 걸고 도망친 외국 국적자 10명(베트남인 6명, 중국인 4명)을 체포한 데 따른 것입니다. 탈출자들은 지난 2~3일 동안 태국으로 건너와 도움을 요청했으며, 찬타부리 및 뜨랏 국경 방어 사령부 해병대에 의해 체포되어 인도적 지원을 제공받았습니다. Pol Gen Thatchai는 Ban Tha Luen 국경 지역을 방문하여 해병대 태스크 포스으로부터 자세한 브리핑을 받고 Ban Tha Luen 경찰서를 방문하여 탈출자 10명을 심문했습니다. 초기 증언에 따르면 Thmor Da의 중국인이 운영하는 지역 내에서 심각한 폭력이 발생하여 피해자들이 필사적으로 탈출하게 되었습니다. Pol Gen Thatchai는 항공 측량 및 정보 보고서를 통해 사기 조직의 운영 기지가 뜨랏 지방의 Ban Tha Luen 바로 맞은편에 있다는 것을 확인했습니다. 해당 지역은 2~4층 건물로 구성되어 있으며 3개의 주요 구역으로 나뉩니다. 당국은 수백, 아마도 수천 명의 외국 국적자(베트남인, 중국인, 인도네시아인, 필리핀인, 방글라데시인)가 있을 것으로 믿고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "사기 센터 관련 사건은 여행객 안전에 잠재적 위협이 될 수 있으므로 관련 정보 제공. 다만, 직접적인 여행 제한이나 위험은 아니므로 6점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "뜨랏 지역",
+        "price": null,
+        "location_google_map_query": "뜨랏"
+      },
+      "references": [
+        {
+          "title": "Senior police officer questions scam centre escapees in Trat",
+          "url": "https://www.bangkokpost.com/thailand/general/3200760/senior-police-officer-questions-scam-centre-escapees-in-trat",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200760_700.jpg"
+        }
+      ],
+      "collected_at": "00:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200760_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 최초 자체 제작 경전철, 콘캔에서 시험 운행 시작",
+      "summary": "- 태국 연구진이 설계하고 제작한 최초의 경전철이 콘캔의 라자망갈라 기술대학교에서 시험 운행을 시작했습니다.\n- 이 시범 운행은 대학 캠퍼스 내 450m 트랙에서 진행되며, 1년 이내에 정식 운행을 목표로 하고 있습니다.\n- 이 프로젝트는 태국 내에서 생산된 경전철 시스템을 콘캔, 치앙마이, 푸켓과 같은 도시에 배치하는 것을 목표로 합니다.",
+      "full_translated": "태국 콘캔 — 태국 최초 국내 설계 및 제작 경전철이 콘캔에 있는 라자망갈라 기술대학교 이산(RMUTI) 캠퍼스에서 시험 운행을 시작하여 온라인에서 광범위한 관심을 끌고 있습니다. 태국 연구진이 개발한 이 시범 경전철은 현재 대학 내 450m 트랙에서 매일 시범 운행을 하고 있으며, 정문에서 캠퍼스 건물을 지나 유지보수 센터까지 운행합니다. 시험 운행은 12월에 시작되었으며, 1년 이내에 정식 운행이 시작될 것으로 예상됩니다. 이 프로젝트는 콘캔 RMUTI 공학부의 Paiwan Kerdtruat 조교수의 주도하에 6~7년 동안 연구 개발이 진행되었습니다. 연구는 2020년에 경쟁력 관리 부서(PMUC)의 3년 동안의 자금 지원으로 공식적으로 시작되었습니다. Paiwan은 이 경전철이 독일, 일본, 중국의 철도 시스템을 연구한 태국 엔지니어들이 전적으로 설계했다고 말했습니다. 이 계획은 콘캔, 치앙마이, 푸켓과 같은 도시에 배치될 수 있는 국내 생산 경전철 시스템을 만드는 것을 목표로 합니다. 콘캔은 26km 길이의 장기 경전철 프로젝트를 계획하고 있지만 아직 구체화되지는 않았습니다. 3량으로 구성된 이 경전철은 최대 120명의 승객을 수용할 수 있습니다. 배터리와 가공 전선으로 구동되는 하이브리드 시스템을 갖추고 있으며, 향후 수소 동력 버전으로 개발할 계획입니다. 현재 학생들과 방문 대표단은 시험 운행 기간 동안 경전철을 탈 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "콘캔 지역의 새로운 교통 수단 도입 가능성을 보여주는 정보로, 여행객의 이동 편의성에 영향을 줄 수 있습니다. 당장 큰 영향은 없지만, 향후 여행 계획에 참고 자료가 될 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "라자망갈라 기술대학교 이산(RMUTI) 콘캔 캠퍼스",
+        "price": null,
+        "location_google_map_query": "Rajamangala University of Technology Isan Khon Kaen Campus"
+      },
+      "references": [
+        {
+          "title": "First Thai-built light rail tram begins test runs in Khon Kaen",
+          "url": "https://www.khaosodenglish.com/news/2026/02/19/first-thai-built-light-rail-tram-begins-test-runs-in-khon-kaen/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/634300703_10234223439222364_2072199321962662068_n.jpg"
+        }
+      ],
+      "collected_at": "00:27",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/634300703_10234223439222364_2072199321962662068_n.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 강에 멸종 위기 샴악어 방생",
+      "summary": "- 펫차부리 강에서 순종 샴악어 2마리 발견 및 방생\n- IUCN 적색 목록에 멸종 위기종으로 분류\n- 인간의 방해 위협으로 동남아시아 상업 농장에서 70만 마리 이상 사육",
+      "full_translated": "펫차부리에서 발견된 두 마리의 파충류가 순종임이 확인되었습니다. \n\n켕 크라찬 국립공원 책임자인 Mongkol Chaipakdee는 두 마리의 담수 악어가 펫차부리 강에서 발견되었으며, 더 자세한 조사를 위해 지방 어업 사무소로 옮겨졌다고 말했습니다. DNA 검사 결과 둘 다 다른 종과 혼성화되지 않은 강 상류 지역이 원산지인 샴악어로 확인되었다고 Mongkol 씨는 말했습니다. \n\n인도네시아, 브루나이, 동말레이시아, 라오스, 캄보디아, 미얀마, 태국 및 베트남이 원산지인 이 종은 IUCN 적색 목록에서 멸종 위기에 처한 것으로 분류되어 있으며 태국 국립공원 웹사이트에 따르면 이미 많은 지역에서 사라졌습니다. 인간의 교란 위협에 직면하여 동남아시아의 상업 악어 농장에서 700,000마리 이상의 파충류가 사육되고 있다고 언급했습니다. \n\nDNA 검사 및 확인 후 두 마리의 악어는 어업부에서 원래의 보호 서식지로 방생하기 위해 인계되었습니다. 방생은 켕 크라찬 국립공원과 태국 야생동물보존협회(WCS)의 관리들이 실시했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 멸종 위기 동물을 보호하기 위한 노력을 보여주는 기사로, 여행객들에게 흥미로운 정보가 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Phetchaburi River",
+        "price": null,
+        "location_google_map_query": "Phetchaburi River"
+      },
+      "references": [
+        {
+          "title": "Critically endangered Siamese crocodiles released into Thai river",
+          "url": "https://www.bangkokpost.com/thailand/general/3200739/critically-endangered-siamese-crocodiles-released-into-thai-river",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200739_260219151630_700.jpg"
+        }
+      ],
+      "collected_at": "00:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200739_260219151630_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 선거관리위원회, 투표용지 불일치 원인 해명",
+      "summary": "- 선거관리위원회(꼬꼬떠.)는 지역구 및 비례대표 투표용지 수 불일치가 보고 방식 분리 때문이라고 주장.\n- 95% 이상 정확한 보고만 집계, 부정확한 데이터는 제외되어 차이 발생.\n- 선거의 신뢰도 및 공정성에 대한 우려 해소를 위해 투표 집계 절차 상세히 설명.",
+      "full_translated": "태국 선거관리위원회(꼬꼬떠.)는 지역구 투표와 비례대표 투표의 용지 수가 다른 이유가 결과 보고를 분리했기 때문이라고 밝혔습니다. 각 기관에서 보고한 결과가 95%를 초과하는 경우에만 ECT 보고서 69를 통해 제공되며, 그렇지 않은 경우에는 제외되어 두 유형의 점수가 같지 않게 됩니다. 2069년 2월 19일, 쌈낙응안 꼬꼬떠.는 선거 결과 보고 방법과 절차를 설명했습니다. 지역구 써써 선거와 비례대표 명단에 대한 정보가 상당히 다르거나 같지 않은 경우(일명 “투표용지 불일치”)가 있다는 지적이 제기되었기 때문입니다. 사실 각 유권자는 지역구와 비례대표 투표 용지 2장을 받아야 하므로 선거의 신뢰도, 청렴성 및 공정성, 그리고 꼬꼬떠.의 이미지에 영향을 미칩니다. 꼬꼬떠.는 국민에게 알리기 위해 2069년 2월 8일 지역구 써써 선거와 비례대표 명단에 대한 개표 결과 보고 절차를 다음과 같이 설명합니다. 1. 투표소 위원회(꺼뻐뻐너.)가 개표를 완료하면 지역구 써써 선거 결과 보고서(써.써. 5/18)와 해당 투표소의 써써 비례대표 명단 결과 보고서(써.써. 5/18 (버처))를 작성하여 투표소에 게시하여 해당 투표소 구역에 있는 국민이나 관계자가 알 수 있도록 합니다. 정보가 정확하지 않거나 사실과 다른 경우 꺼뻐뻐너.은 해당 사건을 증거로 기록해야 합니다(선거일 전에 투표한 투표 용지 개표 위원회(꺼너커.)의 운영 포함).",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 선거 관련 내용으로, 정치적 불안정 가능성이 낮아 여행객에게 미치는 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. อ้างเหตุบัตรเขย่งเลือกตั้งทั้ง 2 แบบไม่เท่ากัน เพราะแยกรายงานผล",
+          "url": "https://www.thairath.co.th/news/politic/2915284",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HpwTtrG9gh2u.jpg"
+        }
+      ],
+      "collected_at": "00:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HpwTtrG9gh2u.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "영국 경찰, 앤드루 마운트배튼-윈저 공직 부정행위 혐의로 체포",
+      "summary": "- 앤드루 마운트배튼-윈저(전 앤드루 왕자)가 공직 부정행위 혐의로 체포됨.\n- 제프리 엡스타인 성범죄 네트워크 연루 의혹과 관련된 새로운 증거 발견됨.\n- 현재 경찰은 관련 부동산 수색 중이며, 앤드루는 구금 상태.",
+      "full_translated": "영국 경찰이 앤드루 마운트배튼-윈저(전 앤드루 왕자)를 공직 부정행위 혐의로 체포했습니다. 경찰은 노퍽의 샌드링엄 영지 내 그의 거주지에서 그를 체포했습니다. 이번 체포는 제프리 엡스타인 성범죄 네트워크와 관련된 새로운 증거가 발견된 후 이루어졌습니다. 경찰은 현재 바크셔와 노퍽 지역의 여러 부동산을 수색하고 있으며, 앤드루는 현재 구금 상태입니다. 이번 조치는 앤드루와 엡스타인 간의 '기밀 정보' 공유에 대한 새로운 증거와 요청을 경찰이 접수한 후에 이루어졌습니다. 엡스타인은 과거 아동 성추행 혐의로 유죄 판결을 받은 전직 금융가입니다. 앤드루에 대한 압박은 엡스타인 사건 파일에서 그의 관계에 대한 자세한 내용이 담긴 최신 문서가 공개된 후 더욱 커졌습니다. 키어 스타머 영국 총리는 앤드루에게 투명성을 위해 이러한 연결에 대해 공식적으로 증언할 것을 촉구했습니다. 수석 경찰관 올리버 라이트는 수사 과정에서...",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행객에게 직접적인 영향은 없으나, 국제적인 뉴스이므로 정보 제공 가치가 있다고 판단. 다만 여행 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ตำรวจอังกฤษจับกุม \"แอนดรูว์ เมาท์แบตเทน-วินด์เซอร์\" ประพฤติมิชอบในตำแหน่งสาธารณะ",
+          "url": "https://www.thairath.co.th/news/foreign/2915256",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItjjZD777YXG.jpg"
+        }
+      ],
+      "collected_at": "00:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItjjZD777YXG.jpg",
+      "date": "2026-02-20"
     }
   ]
 }
