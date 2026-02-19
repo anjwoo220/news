@@ -21735,14 +21735,9 @@
       "summary": "- 태국-캄보디아 국경 7개 지역, 관광객 감소로 어려움 호소\n- 관광위원회, 정부에 맞춤형 경기 부양책 요청 (개인/기업/정부 회의 지원 등)\n- 우본랏차타니 등 지역, 2025년 중반 이후 관광 활동 부진",
       "full_translated": "태국-캄보디아 국경 7개 주의 임원들이 관광 신뢰도 하락 문제를 해결하기 위해 하원 관광위원회와 만났습니다. 이들 지역 시장은 국경 지역의 비교적 평화로운 상황에도 불구하고 여전히 침체되어 있습니다. 우본랏차타니 관광협회 회장인 위추타 루앙릉시디스쿨은 우본랏차타니, 시사켓, 수린, 부리람, 사깨오, 찬타부리, 트랏의 관광 시장이 회복되지 않고 있으며 관광객들이 이 지역 방문을 꺼리고 있다고 말했습니다. 그녀는 이러한 주의 모든 지역이 공격의 영향을 받은 것은 아니지만, 대부분의 지역 관광객, 특히 다른 지역 출신의 관광객들은 2025년 중반 이후 이 7개 주 여행을 피하고 있어 관광 활동이 부진하다고 말했습니다. 위추타 씨는 \"7월 이후 시장이 조용했고, 촛불 행렬 축제와 같은 상징적인 전통 행사에도 평소보다 훨씬 적은 관광객이 찾았습니다.\"라고 말했습니다. 위원회와의 회의에서 관광 사업자들은 해당 지역에 맞춤화된 효과적인 경기 부양책을 정부에 요청했습니다. 예를 들어, 7개 주에서 열리는 개인, 기업 및 정부 회의에 보조금을 제공할 수 있습니다. 보조금은 방문객을 유치할 만큼 매력적이어야 하며, 1인당 3,000바트의 공동 지불 등이 있을 수 있습니다. 이 지역의 관광 사업자들은 다른 지역과 달리 성수기의 혜택을 누릴 수 없었습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역 관광 침체 정보는 여행객에게 지역 경제 상황을 인지시키고 여행 계획에 참고할 정보를 제공하므로.",
-      "event_info": {
-        "date": null,
-        "location": "우본랏차타니, 시사켓, 수린, 부리람, 사깨오, 찬타부리, 트랏",
-        "price": null,
-        "location_google_map_query": "우본랏차타니"
-      },
+      "event_info": "{'date': None, 'location': '우본랏차타니, 시사켓, 수린, 부리람, 사깨오, 찬타부리, 트랏', 'price': None, 'location_google_map_query': '우본랏차타니'}",
       "references": [
         {
           "title": "Call for stimulus in border provinces",
@@ -21751,23 +21746,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5974005_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5974005_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/business/general/3200390/call-for-stimulus-in-border-provinces",
+      "source": ""
     },
     {
       "title": "지노 티티쿨, 혼다 LPGA 태국 대회 출전 준비",
       "summary": "- 세계 랭킹 1위 지노 티티쿨, 태국 팬들 앞에서 혼다 LPGA 우승 도전.\n- 산악 캠핑으로 재충전 후 시암 컨트리클럽 올드 코스에서 열리는 대회 참가.\n- 2025년 말 손목 부상 치료 및 휴식 통해 몸과 마음을 회복.",
       "full_translated": "지노 티티쿨은 탁 지방의 산에서 상쾌한 캠핑 휴가를 보낸 후 이번 주 시암 컨트리클럽의 올드 코스에서 새로운 정상을 목표로 하고 있습니다. 세계 랭킹 1위로서의 부담감을 잠시 잊고 태국 슈퍼스타는 혼다 LPGA 태국 19회 대회를 통해 다시 중심 무대로 돌아옵니다. 그녀는 이 대회를 소중히 여기며, 자신의 뛰어난 이력에 우승을 추가하고 싶어합니다. 14세 때 처음 참가한 이 대회에서 지노는 준우승 1회, 3위 2회를 기록했습니다. “모든 선수들이 모든 토너먼트에서 우승하고 싶어합니다. 저는 이미 올해가 제 해라고 생각합니다. 세계 랭킹 1위로 태국 팬들 앞에서 경기하는 것이 처음이기 때문입니다. 하지만 결과가 어떻게 될지는 모릅니다. 저는 제 자신만 통제할 수 있습니다. 최선을 다해 노력하고, 올해가 제 해가 되기를 바랍니다.” 지노는 2025년 말에 몸과 마음을 회복하기 위해 휴식을 취한 후 더욱 활기찬 모습입니다. 지노는 방콕에서 북쪽으로 430km 떨어진 탁 지방으로 여행을 떠나 휴식을 취했습니다. “캠핑을 좋아합니다. 골프를 치는 동안은...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 열리는 LPGA 대회 정보. 태국을 방문하는 골프 팬들에게는 흥미로운 정보가 될 수 있음.",
-      "event_info": {
-        "date": "2026-02-19",
-        "location": "시암 컨트리클럽 올드 코스, 파타야",
-        "price": "미정",
-        "location_google_map_query": "Siam Country Club Old Course Pattaya"
-      },
+      "event_info": "{'date': '2026-02-19', 'location': '시암 컨트리클럽 올드 코스, 파타야', 'price': '미정', 'location_google_map_query': 'Siam Country Club Old Course Pattaya'}",
       "references": [
         {
           "title": "Camp to champ? Jeeno ready to rule",
@@ -21776,23 +21768,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973950_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973950_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/sports/3200295/camp-to-champ-jeeno-ready-to-rule",
+      "source": ""
     },
     {
       "title": "클라탐당, 연립 정부 참여 불확실 속 야당 역할 준비",
       "summary": "- 클라탐당은 연립 정부 구성 협상이 불확실한 가운데 야당 역할도 준비 중이라고 밝혔습니다.\n- 부미자이타이당과의 협상은 초기 단계에 머물러 있으며, 선거관리위원회의 결과 인증을 기다리고 있습니다.\n- 클라탐당은 정부 구성 논의가 너무 이르다며, 선거 관련 문제에 대한 국민적 우려를 해소하는 것이 우선이라고 강조했습니다.",
       "full_translated": "클라탐당의 타마낫 프롬파우 수석 고문은 수요일, 부미자이타이당(BJT)이 구성 중인 연립 정부에 참여할지 불확실성이 지속되는 가운데 당이 야당에서 활동할 준비가 되어 있다고 밝혔습니다. 그의 발언은 BJT 사무총장인 차이차녹 치드초브가 화요일 정부 구성에 대한 양당 간의 논의가 예비 단계에 머물러 있다고 말한 후에 나왔습니다. 차이차녹 씨는 클라탐 사무총장인 파이 리크와 짧은 전화 통화만 가졌으며 공식 협상은 지도부 수준에서 이루어질 것이라고 말했습니다. 타마낫 씨는 초기 접촉 외에 추가적인 진전은 없었으며 목요일에 해외 여행을 떠나기 전에 선출된 후보자들의 회의를 개최할 것이라고 말했습니다. 장관직 배치에 대한 세부 사항을 파이 씨에게 문의했는지 묻는 질문에 그는 선거관리위원회(EC)가 아직 선거 결과를 보증하지 않았기 때문에 내각 직책에 대해 이야기하기에는 너무 이르다고 말했습니다. 그는 정부 관련 논의를 이끌더라도 결과가 더 명확해질 때까지 협상을 자제할 것이라고 말했습니다. 클라탐의 실력자는 당이 야당으로 밀려날 것이라는 언론의 추측을 일축하며 클라탐과 BJT 모두 관리 정부에서 활동하며 정기적으로 만난다고 언급했습니다. 그는 현재 우선 순위는 EC가 선거 결과를 인증하고 널리 퍼진 선거 관련 문제에 대한 국민적 우려를 해결하는 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이지만, 현재 여행자에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Klatham 'won't be pushed'",
@@ -21801,23 +21790,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973895_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973895_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/politics/3200210/klatham-wont-be-pushed",
+      "source": ""
     },
     {
       "title": "N.C. 하우징, 수요 부진으로 프로젝트 축소",
       "summary": "- N.C. 하우징은 소비자 구매력 약화로 인해 올해 신규 프로젝트를 축소할 계획임.\n- 파타야 콘도 프로젝트와 방콕 북부 저층 주택 프로젝트 등 총 20억 바트 규모의 프로젝트 2개만 출시 예정임.\n- 이는 지난해 5개 프로젝트를 출시한 것에 비해 크게 줄어든 수치이며, 200만~600만 바트 사이의 저렴한 가격대에 집중할 계획임.",
       "full_translated": "상장 개발업체인 N.C. 하우징은 소비자 구매력 약화에 대한 신중한 태도를 유지하면서 올해 총 20억 바트 규모의 프로젝트 2개만 출시할 계획입니다. 이는 이전 연도보다 낮은 수치입니다.\n\n솜느억 탄타퇴탐 전무는 부동산 시장의 지출이 작년보다 약간 개선될 것으로 예상되지만, 은행 대출 제한으로 인해 어려움이 남아 있다고 말했습니다. 솜느억 씨는 \"지출력이 따라갈 수 없기 때문에 너무 빨리 확장해서는 안 됩니다.\"라고 말했습니다. \"회사는 대신 시장을 공략하기 위해 적절한 시기와 목표 세그먼트에 집중해야 합니다.\"\n\n그는 수요가 향후 몇 년 동안 개선되면 새로운 프로젝트를 수용할 수 있는 여러 토지를 여전히 소유하고 있다고 말했습니다. N.C. 하우징은 올해 파타야 콘도 프로젝트(6억~8억 바트)와 방콕 북부 저층 주택 프로젝트(10억 바트 이상) 등 2개의 프로젝트를 출시할 계획입니다. 이는 지난해 출시된 5개의 신규 프로젝트와 비교됩니다.\n\n그는 두 프로젝트 모두 콘도 가격이 200만~500만 바트부터 시작하고 500~600세대로 구성된 저렴한 부문에 초점을 맞출 것이라고 말했습니다. 500세대 저층 주택 프로젝트에는 단독 주택, 트윈 하우스, 타운하우스가 혼합되어 있으며 가격은 200만~600만 바트입니다.\n\n솜느억 씨는 이번이 팬데믹 이후 5년 만에 처음으로 새로운 콘도 출시라고 밝혔습니다. 파타야의 공급이 완화되는 동안 수요가 개선되었기 때문입니다. 고급 부문의 경우...",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "부동산 시장 동향은 여행객에게 직접적인 영향은 적으나, 장기적으로 숙박 시설 등에 영향을 줄 수 있어 낮은 점수 부여. 특별한 업데이트는 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "N.C. Housing slashes projects amid weak demand",
@@ -21826,23 +21812,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973985_700.jpg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973985_700.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/property/3200365/nc-housing-slashes-projects-amid-weak-demand",
+      "source": ""
     },
     {
       "title": "태국 SETCarbon 플랫폼, 기업 온실가스 배출 관리 참여 확대",
       "summary": "- 태국 증권 거래소(SET)의 기업 온실가스 배출 관리 플랫폼인 SETCarbon에 380개 이상의 기업 등록, 6개월 만에 30% 이상 증가.\n- Krungsri 은행과의 협력을 통해 중소기업의 지속 가능한 금융 접근성을 강화하고 탄소 데이터 인프라를 금융 시스템에 통합.\n- SET는 다른 5개 상업 은행과도 협력하여 탄소 데이터 인프라를 태국 금융 시스템에 더욱 깊이 통합할 계획.",
       "full_translated": "태국은 환경, 사회 및 거버넌스(ESG) 고려 사항을 통합하고 기후 변화를 전환하려는 노력을 가속화하고 있으며, 이는 자본 시장을 빠르게 재편하고 태국 증권 거래소(SET)가 중소기업(SME)에 대한 지속 가능한 금융 접근성을 강화하기 위해 은행 제휴를 확대하도록 유도하고 있습니다. SET에 따르면 380개 이상의 조직이 SETCarbon에 등록되어 있으며, 이는 기업 온실 가스 배출을 관리하고 보고하기 위한 디지털 플랫폼으로 6개월 동안 30% 이상 증가했습니다. 증권 거래소는 표준화된 탄소 데이터에 대한 기업의 수요가 급증했다고 언급했습니다. 사용자의 약 85%는 상장 기업이고 15%는 비상장 기업으로, 주식 시장을 넘어 광범위한 채택을 반영합니다. SET는 Krungsri 은행과 파트너십을 맺어 은행의 기업 고객이 표준화된 배출 보고를 위해 SETCarbon을 활용할 수 있도록 했습니다. 이 계약은 작년에 TMBThanachart Bank와 태국 수출입 은행이 체결한 유사한 계약에 따른 것입니다. 증권 거래소는 탄소 데이터 인프라를 태국 금융 시스템에 더 깊이 포함시키는 것을 목표로 하는 'Join Force' 이니셔티브를 확장하기 위해 다른 5개 상업 은행과 논의 중이라고 SET의 최고 전략 및 재무 책임자인 Soraphol Tulayasathien이 말했습니다. 탄소 데이터는 글로벌 무역 규칙이 점점 더 연결되면서 기본적인 경제 인프라가 되고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국의 ESG 경영 트렌드를 보여주는 비즈니스 뉴스. 여행객에게 직접적인 영향은 적지만, 태국 경제 상황에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "More firms join SETCarbon platform",
@@ -21851,8 +21834,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973990_700.jpeg"
         }
       ],
-      "collected_at": "06:31",
+      "collected_at": "6:31",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/19/5973990_700.jpeg",
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/sustainability/3200370/more-firms-join-setcarbon-platform",
+      "source": ""
+    },
+    {
+      "title": "태국 교도소 내 원숭이두창 확산: 보건 자원봉사자 2명 감염, 백신 추가 접종",
+      "summary": "- 태국 교도소에서 원숭이두창 확진자 발생, 보건 자원봉사자 2명 감염 확인.\n- 교도소 내 확산 방지를 위해 백신 추가 접종 및 방역 강화 조치 시행.\n- 수감자 이동 제한, 원격 면회 전환 등 추가적인 확산 방지 노력.",
+      "full_translated": "태국 질병통제국 국장은 교도소 내 원숭이두창 감염 사례와 관련하여, 밀접 접촉자 2명이 감염되었으며 이들은 교도소 보건 자원봉사자라고 밝혔습니다. 다행히 증상은 심각하지 않으며, 상황은 통제 가능한 수준입니다. 관련 기관들은 협력하여 교도소 외부로의 확산을 막기 위해 노력하고 있습니다. 45명에게 백신을 추가 접종하고 치료제를 준비 중이며, 석방 예정인 고위험군에게는 자가 증상 관찰 및 지역 보건 당국과의 협력을 권고하고 있습니다. 교도소는 면회 방식을 원격으로 전환하고, 모든 구역의 수감자를 면밀히 감시하고 있습니다. 2월 11일, 44세 남성 수감자가 원숭이두창으로 사망한 사례가 보고된 후, 질병통제국은 교도소와 협력하여 즉각적인 예방 및 통제 조치를 시행했습니다. 동일 구역 내 밀접 접촉자 32명을 격리 및 감시하고, 위험 지역 내 수감자 이동을 중단했습니다. 21일 동안 하루 2회 체온을 측정하고, 면회를 중단하며, 대대적인 환경 소독과 표준에 따른 감염성 폐기물 관리를 엄격히 시행하고 있습니다. 의료진과 관련 담당자를 중심으로 병원 내 접촉자를 면밀히 추적하고, 고위험군에게 백신을 지원하고 있습니다. 최근 2월 18일, 질병통제국 국장은 교도소 내 원숭이두창 역학 조사를 위해 교도소 및 관련 기관과 협력한 결과, 환자 간호와 관련된 수감자 및 보건 자원봉사자 49명이 고위험군으로 확인되었다고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "교도소 내 발생이지만, 여행객 안전에 대한 간접적 영향 가능성 존재. 확산 방지 노력에 대한 정보 제공 가치.",
+      "event_info": {
+        "date": null,
+        "location": "태국 교도소",
+        "price": null,
+        "location_google_map_query": "태국 교도소"
+      },
+      "references": [
+        {
+          "title": "พบ 2 อสม.คุก ใกล้ชิด มีเชื้อ \"ฝีดาษลิง\" ทั้งคู่ ราชทัณฑ์สั่งคุมเข้ม จัดวัคซีนฉีดป้องกัน",
+          "url": "https://www.thairath.co.th/news/local/2915093",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiW7J4zSJ19n.jpg"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiW7J4zSJ19n.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "이탈리아 관광객, 태국 펍에서 황금 사자상 훔치다 체포 - MSN",
+      "summary": "- 52세 이탈리아 남성이 태국 펍에서 황금 사자상을 훔쳐 체포됨.\n- 해당 남성은 관광객으로, 펍에서 장식용으로 놓여 있던 조각상을 훔침.\n- 현지 경찰은 그를 절도 혐의로 기소할 예정.",
+      "full_translated": "52세의 이탈리아 관광객이 태국 펍에서 황금 사자상을 훔치다 체포되었습니다. - MSN",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광지에서 발생한 절도 사건으로, 여행객 대상 범죄에 대한 경각심을 줄 수 있음. 여행객 안전에 대한 잠재적 위협 요소.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Italian tourist, 52, caught stealing golden lion statue from pub in Thailand - MSN",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdmxzWGZ2c3pld1AzekVrSkVwUjNfaV9lSV9oZ2xzVFVvY093c1hjOS1EZlJuMUd1ZkdBTzdTT2dJbGItNmNRU1N6NUhiZUFQbnItaEh4dEZjMnJEc2NhQnFuT09vdGlFb253ZVJySlVlS3BBdTdFR3BBeFNuSXdZQ0I4MEw1YjljS09TdHE2d0xQa2w1NkF0VXZRNDkwMmlVVTVYcnhiM01TQ1V1ZC1zV011WjdSeng5dlcxMUc1djQ3Zw?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "차층사오 주에서 새끼 코끼리, 올무에 걸려 사망",
+      "summary": "- 차층사오 주에서 1살 된 새끼 코끼리가 올무에 걸려 죽은 채 발견됨.\n- 코끼리 발목에 올무가 묶여 있었으며, 상처가 심하게 곪아 있었음.\n- 당국은 밀렵꾼들에게 야생 동물 학대 행위를 중단할 것을 촉구.",
+      "full_translated": "차층사오 주에서 1살 된 새끼 코끼리가 늪지대에서 죽은 채 발견되었습니다. 코끼리의 왼쪽 앞발목에는 올무가 꽉 조여져 있었습니다. 관계자들은 카오 앙 르나이 야생동물 보호구역에서 해당 새끼 코끼리의 사체를 발견했습니다. 새끼 코끼리는 숲 속의 농야웅 지역, 7번 빌리지, 클롱 타크라오 구역, 타타키압 지역, 차층사오 주에서 발견되었습니다. 조사 결과, 새끼 코끼리는 수컷이었고, 1살 이상으로 추정됩니다. 왼쪽 앞발목에는 올무가 묶여 있었습니다. 카오 앙 르나이 야생동물 보호구역의 책임자인 에카차이 센디는 경찰에 연락하여 증거를 수집하고, 야생동물 지원 센터 2의 의료팀에 검사를 요청했습니다. 새끼 코끼리의 눈은 매우 슬퍼 보였습니다. 조직 샘플은 절차에 따라 검사를 위해 수집될 예정입니다. 에카차이 센디는 수사관의 승인을 받아 새끼 코끼리의 사체를 해당 지역에 묻어 폐기했습니다. 그는 사냥꾼들에게 야생 동물 학대를 중단할 것을 촉구했습니다. 위반자는 징역형과 벌금형을 받을 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 야생 동물 보호에 대한 인식을 높이는 뉴스이며, 여행객들에게 야생 동물 보호의 중요성을 상기시킬 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "차층사오 주",
+        "price": null,
+        "location_google_map_query": "차층사오 주"
+      },
+      "references": [
+        {
+          "title": "พบ \"ลูกช้างป่า\" วัย 1 ปี ล้มตายริมหนองน้ำ ข้อเท้าซ้ายขาหน้า มีบ่วงเชือกรัดแน่น",
+          "url": "https://www.thairath.co.th/news/local/east/2915092",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiaIQUkLiWv0.jpg"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx77tiaIQUkLiWv0.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국-파키스탄, 보편적 건강 보장 및 의료 관광 협력",
+      "summary": "- 태국과 파키스탄이 보편적 건강 보장 및 의료 관광 분야에서 협력합니다.\n- 이 협력은 양국 간의 의료 서비스 접근성 향상에 기여할 것으로 예상됩니다.\n- 구체적인 협력 내용은 아직 공개되지 않았습니다.",
+      "full_translated": "태국과 파키스탄이 보편적 건강 보장 및 의료 관광 분야에서 협력합니다. The Diplomatic Insight",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "의료 관광객에게 잠재적인 영향이 있을 수 있지만, 즉각적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand, Pakistan to Cooperate on Universal Health Coverage and Medical Tourism - The Diplomatic Insight",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaEszWDF0QldPZ2lXNS1QUkMwcmN2RWMtQ2xuUFYzS1lCakgyN2ZsbE5IbGwyeHNudmloTTlWWDVWN1d5c25veUdKMG9zX2NRRHl2YnRFODNZX2VhYUxjdV9FSElYbFRlRVdCYVItR0Y1cGJXMWJ0Qm5LbU5zeUpPYjhFOEk?oc=5",
+          "source": "The Diplomatic Insight",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 1월 산업 신뢰도 소폭 상승",
+      "summary": "- 태국의 1월 산업 신뢰도가 소폭 상승했습니다.\n- 구체적인 상승 폭에 대한 정보는 제공되지 않았습니다.\n- 여행객에게 미치는 직접적인 영향은 제한적일 것으로 판단됩니다.",
+      "full_translated": "태국의 1월 산업 신뢰도가 소폭 상승했습니다. AzerNews",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 동향에 대한 정보이지만, 여행객에게 직접적인 영향을 미치지 않으므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Industrial confidence in Thailand saw modest increase in January - AzerNews",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10RFhDMEpwbDFfOXpqNzVuVkRmRWdNbWRUNEhwX1VyR1RlSV81OGVQdk00bnJ6Qy14dWJHYjZab2RRMHRzQXA4RHFBakZSamRWbS1JaA?oc=5",
+          "source": "AzerNews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-19"
     }
   ]
