@@ -22593,14 +22593,9 @@
       "summary": "- 태국 정부는 공공장소에서 총기 소지 시 5년 징역형을 받을 수 있다고 재차 강조했습니다.\n- 총기 소지 허가(뽀.씹썽) 발급을 중단하고 전국 등록관에게 엄격한 규제를 지시했습니다.\n- 아누틴 찬위라쿨 총리의 지시에 따라 총기 규제 강화 및 관련 조치를 검토하고 있습니다.",
       "full_translated": "태국 정부는 총기 규제를 강화하고 있습니다. 전국 등록관에게 총기 허가(뻐.쌈 - 뻐.씨)를 엄격히 통제하고 뻐.씹썽 발급을 중단하며, 공공장소에서 총기 소지 시 5년 징역형을 받을 수 있음을 강조했습니다. 또한, 지방 행정부에 현장 불시 점검을 지시하여 법 집행을 강화하고 있습니다. 아유린 판릿 부총리실 대변인은 아누틴 찬위라쿨 총리의 지시에 따라 총기 규제를 강화하고 관련 조치를 검토하고 있다고 밝혔습니다. 내무부 산하 행정부는 전국 행정부에 다음과 같은 긴급 지시를 내렸습니다.\n\n1. 총기 구매 허가(뻐.쌈) 발급 시 등록관은 신청자의 자격 요건을 엄격히 심사하고 1947년 총기법 13조에 따른 금지 사항을 철저히 확인해야 합니다. 또한, 개인적인 행동, 가까운 사람, 불법 행위 관련 이력을 면밀히 조사해야 합니다.\n\n2. 허가 소지자(뻐.씨) 감독 시 등록관과 행정 공무원은 주 정부 관리, 이장, 지역 주민 네트워크를 통해 허가 소지자를 감시하고 허가 소지자가 자격을 유지하고 있는지 확인해야 합니다. 질서에 영향을 미칠 수 있는 행위가 발견되면 등록관은 행정 및 형사상 법률을 엄격히 집행해야 합니다.\n\n3. 총기 휴대 허가(뻐.씹썽) 임시 중단. 내무부는 20일부터 총기 휴대 허가 발급을 일시적으로 중단하는 조치를 유지하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총기 관련 규제 강화는 여행객 안전에 영향을 미칠 수 있으므로 관련 정보 제공. 다만, 직접적인 위협은 아니므로 7점 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รัฐบาลย้ำ พกปืนในที่สาธารณะคุก 5 ปี กำชับนายทะเบียนงดออกใบอนุญาต ป.12",
@@ -22611,21 +22606,18 @@
       ],
       "collected_at": "17:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItaLSg7Osvc9.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915254",
+      "source": ""
     },
     {
       "title": "방콕 Sukhumvit 50 금은방 강도, 치앙라이에서 검거",
       "summary": "- 방콕 Sukhumvit 50의 금은방 강도 용의자가 치앙라이에서 검거됨.\n- 용의자는 주변 국가로 도주하려던 중 체포됨.\n- 피해액은 1천만 바트 이상으로 추정.",
       "full_translated": "방콕 Sukhumvit 지역의 유명 쇼핑몰에서 발생한 금은방 강도 사건의 용의자가 체포되었습니다. 경찰은 용의자가 인근 국가로 도주하려던 중 치앙라이에서 검거했다고 밝혔습니다. 용의자는 금 약 198바트와 현금 약 17만 바트를 훔쳐 달아났으며, 피해액은 1천만 바트 이상으로 추정됩니다. 경찰은 용의자를 방콕으로 압송하여 추가 조사를 진행할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 밀집 지역에서 발생한 강도 사건으로, 여행객 안전에 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Sukhumvit 50, Bangkok",
-        "price": null,
-        "location_google_map_query": "Sukhumvit 50 Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'Sukhumvit 50, Bangkok', 'price': None, 'location_google_map_query': 'Sukhumvit 50 Bangkok'}",
       "references": [
         {
           "title": "ด่วน จับได้แล้ว โจรชิงทองห้างดัง สุขุมวิท 50 จนมุมเชียงราย เตรียมเผ่นออกนอก",
@@ -22636,21 +22628,18 @@
       ],
       "collected_at": "17:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JBkuG27mvPF4.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/crime/2915248",
+      "source": ""
     },
     {
       "title": "태국 보건부, 조류독감 예방 위한 안전한 가금류 섭취 권고",
       "summary": "- 태국 보건부는 춘절 기간 안전한 가금류 섭취를 권고하며 조류독감 위험 감소 강조.\n- '선택-회피-세척' 원칙 준수: 익힌 고기 선택, 병든 가금류 회피, 철저한 손씻기.\n- 가금류 접촉 후 발열, 기침 등 증상 시 즉시 병원 방문 및 관련 정보 제공.",
       "full_translated": "태국 정부 대변인은 질병통제국이 국민들에게 안전한 가금류 섭취를 권고하며, 특히 춘절 기간 동안 조류독감의 위험을 줄이기 위해 '선택-회피-세척' 원칙을 강조했다고 밝혔습니다. \n\n질병통제국은 닭고기, 오리고기, 계란 등을 구매할 때 표준화된 곳에서 구매하고 완전히 익혀서 섭취할 것을 권고합니다. 또한, 아프거나, 기운이 없거나, 깃털이 헝클어져 있거나, 비정상적으로 죽은 가금류는 섭취하지 않도록 당부했습니다. 아픈 가금류나 죽은 가금류와의 접촉을 피하고, 깨끗하고 안전하며 정식 등록된 상점에서 가금류를 구매해야 합니다. 마지막으로, 특히 동물이나 동물의 분비물과 접촉한 후에는 비누와 물로 손을 자주 씻어야 합니다. \n\n만약 가금류와 접촉한 후 14일 이내에 발열, 기침 또는 호흡 곤란 증상이 나타나면 즉시 병원을 방문하여 자세한 접촉 이력을 알리고 신속한 진단과 치료를 받아야 합니다. 정부는 신뢰할 수 있는 곳에서 구매한다면 닭고기와 오리고기를 안전하게 섭취할 수 있다고 재차 강조했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 중 음식 섭취 관련 안전 정보. 조류독감은 드물지만 여행자에게도 잠재적 위험이 될 수 있으므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กรมควบคุมโรค ย้ำหลัก “เลือก-หลีก-ล้าง” แนะเลือกบริโภคสัตว์ปีกอย่างปลอดภัย ลดเสี่ยงไข้หวัดนก",
@@ -22661,21 +22650,18 @@
       ],
       "collected_at": "17:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JAt8lVltQ7Qt.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/politic/2915246",
+      "source": ""
     },
     {
       "title": "태국 특별 차량 번호판, '볼 통통', '예쁘고 부자', '돈 잘 버는' 등 44개 신규 단어 추가",
       "summary": "- 태국 정부, 특별 차량 번호판에 사용될 44개의 새로운 단어 발표\n- '볼 통통(깬붐)', '예쁘고 부자(쑤어이 뤄이)', '돈 잘 버는(뤄이 껠)' 등 재미있는 단어 포함\n- 차량 소유주의 개성을 표현하고, 도로 안전 기금 마련에 기여할 것으로 기대",
       "full_translated": "태국 관보(ราชกิจจานุเบกษา)에서 특별 차량 번호판에 사용될 44개의 새로운 단어를 발표했습니다. 여기에는 '깬붐(볼 통통)', '루어이겡(돈 잘 버는)' 등의 단어가 포함되어 있습니다. 2026년 2월 19일, 관보 웹사이트에는 수도권에 등록된 7인승 이하의 개인 차량에 대한 문자 및 차량 번호 사용 규정 발표가 게시되었습니다. 이는 2025년 3월 17일, 2025년 3월 30일, 2022년 7월 8일, 2022년 10월 7일, 2023년 1월 13일, 2023년 6월 29일, 2023년 11월 16일, 2024년 5월 20일, 2024년 8월 7일, 2024년 11월 27일, 2025년 3월 12일 및 2025년 6월 9일에 발표된 내용에 따른 것입니다. 국민과 도로안전기금사무소는 기존 발표에 추가하여 문자, 단어 또는 문구를 제안했으며, 특별 차량 번호판에 사용되는 문자 검토 소위원회는 2025년 11월 12일 회의에서 44개의 문자를 추가하기로 합의했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "특별 차량 번호판에 대한 소식은 흥미로운 태국 문화 정보로, 여행객에게 소소한 재미를 줄 수 있습니다. 언어와 관련된 내용이므로, 아주 기본적인 수준에서 흥미를 유발할 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ราชกิจจานุเบกษา ประกาศ 44 คำใหม่ ป้ายทะเบียนพิเศษ \"แก้มบุ๋ม-สวยรวย-รวยเก่ง\"",
@@ -22686,21 +22672,18 @@
       ],
       "collected_at": "17:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JA2Z3ZhJuNc1.jpg",
-      "date": "2026-02-19"
+      "date": "2026-02-19",
+      "link": "https://www.thairath.co.th/news/society/2915247",
+      "source": ""
     },
     {
       "title": "푸미짜이 태국 주도 연립 정부에 소규모 정당 2곳 추가 지지",
       "summary": "- Bhumjaithai당 대표 Anutin Charnvirakul 총리 지지 확보\n- Thai Sang Thai당과 New Alternative당이 Bhumjaithai당 지지 약속\n- 연립 정부는 하원 500석 중 286석 확보 전망",
       "full_translated": "Bhumjaithai당은 2월 8일 총선 이후 Anutin Charnvirakul 대표가 총리직을 유지하는 데 대해 소규모 정당으로부터 더 많은 지지를 얻고 있으며, 연립 정부는 현재 하원 500석 중 286석을 확보할 것으로 예상됩니다. Thai Sang Thai당과 New Alternative당 대표들은 목요일 방콕에 있는 Bhumjaithai당 본사를 방문하여 Anutin 씨에 대한 지지를 약속했습니다. Thai Sang Thai당은 2명의 의원을, New Alternative당은 1명의 의원을 확보할 것으로 보입니다. Bhumjaithai당 대변인 Boonthida Somchai는 기자 회견에서 두 정당에 대한 초대는 Bhumjaithai당 고위 인사이며 관리 부총리인 Songsak Thongsri로부터 왔다고 밝혔습니다. 소식통에 따르면 Bhumjaithai당은 현재 관리 총리인 Anutin 씨가 새 정부를 이끌도록 투표할 286명의 의원 당선자를 확보할 수 있습니다. 이 블록은 Bhumjaithai당 193명, Pheu Thai당 74명, Palang Pracharath당 5명, 경제당 3명, 9개의 소규모 정당에서 각각 1~2표로 구성됩니다. Ms. Boonthida는 Bhumjaithai당이 금요일에 또 다른 기자 회견을 열 계획이라고 밝혔습니다. 다른 소식통은 Prachachat당에서 4명의 의원 당선자가 그날 Bhumjaithai당 본사를 방문할 것이라고 밝혔습니다. 그러나 Bhumjaithai당과 58명의 의원을 가진 Klatham당이 합의에 도달할 수 있을지, 아니면...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 정부 구성 관련 내용.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Two more mini-parties back Bhumjaithai-led coalition",
@@ -22711,6 +22694,133 @@
       ],
       "collected_at": "17:34",
       "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200743_260219155320_700.jpg",
+      "date": "2026-02-19",
+      "link": "https://www.bangkokpost.com/thailand/politics/3200743/two-more-miniparties-back-bhumjaithailed-coalition",
+      "source": ""
+    },
+    {
+      "title": "차네티, 혼다 LPGA 태국 대회 공동 선두",
+      "summary": "- 태국 선수 차네티 와나사엔, 혼다 LPGA 태국 대회 1라운드에서 7언더파 65타 기록하며 공동 선두.\n- 일본의 하타오카 나사와 공동 선두이며, 한국의 이미소와 최혜진이 1타 차 공동 3위.\n- 세계 랭킹 1위인 태국의 지노 티티쿨은 5언더파로 선두에 2타 뒤진 공동 그룹에 속해 있음.",
+      "full_translated": "태국 선수 차네티 와나사엔이 목요일 파타야에서 열린 혼다 LPGA 태국 토너먼트 첫 라운드에서 9개의 버디와 2개의 보기로 7언더파 65타를 기록하며 공동 선두를 차지했습니다. 이미 LPGA에서 2승을 거두고 세계 랭킹 56위인 치앙마이 출신의 21세 선수는 일본의 하타오카 나사와 공동 선두를 달리고 있습니다. 한국의 이미소와 최혜진, 스코틀랜드의 젬마 드라이버그는 6언더파로 1타 뒤진 공동 3위를 기록했습니다. 차네티는 촌부리 시암 컨트리클럽에 모여 세계 최고의 골퍼들과 경쟁하는 대규모 태국 선수단을 보기 위해 온 열정적인 관중들의 응원을 받았습니다. 많은 사람들이 세계 랭킹 1위인 지노 티티쿨을 보기 위해 왔고, 그녀는 5언더파로 선두에 2타 뒤진 공동 그룹에 속하며 실망시키지 않았습니다. 그녀는 2021년 챔피언 아리야 주타누간과 명예의 전당 입회자 리디아 고(뉴질랜드)도 포함된 큰 그룹에 속해 있습니다. 2025년 CME 그룹 투어 챔피언십에서 준우승을 차지하며 스타일을 마무리한 태국의 파자리 아난나루칸은 4언더파로 또 다른 큰 그룹에 속해 있습니다. 디펜딩 챔피언인 미국의 앤젤 윤은 이날 3언더파를 기록했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 열리는 국제 스포츠 이벤트 정보. 여행객에게 흥미로운 볼거리를 제공할 수 있으며, 교통 혼잡 가능성도 존재.",
+      "event_info": {
+        "date": "2026-02-19",
+        "location": "Siam Country Club, Chon Buri",
+        "price": "정보 없음",
+        "location_google_map_query": "Siam Country Club, Chon Buri"
+      },
+      "references": [
+        {
+          "title": "Chanettee tied for lead at Honda LPGA Thailand",
+          "url": "https://www.bangkokpost.com/sports/3200830/chanettee-tied-for-lead-at-honda-lpga-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200830_700.jpg"
+        }
+      ],
+      "collected_at": "18:32",
+      "image_url": "https://static.bangkokpost.com/media/content/20260219/c1_3200830_700.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국 총선 재검표 및 재투표 관련, 푸어타이당 선거관리위원회에 투명한 해명 요구",
+      "summary": "- 푸어타이당, 2월 22일 재검표 및 재투표에 앞서 선거관리위원회에 명확한 해명 촉구.\n- 부정선거 의혹 해소 및 투표 과정의 투명성 확보 요구.\n- 푸어타이당, 개표 결과 데이터 오류 및 QR코드/바코드 사용 문제 제기.",
+      "full_translated": "푸어타이당은 선거관리위원회(꺼꺼떠.)에 2월 22일로 예정된 재검표 및 재투표 이전에 선거 관련 문제에 대해 명확하게 해명할 것을 촉구했습니다. 푸어타이당 사무총장은 선거관리위원회가 개표 결과를 발표한 후 지역구 의원 후보들에게 개표 결과를 철저히 검토하라고 지시했습니다.\n\n푸어타이당 대변인인 쑤깟 시리좀콴(나이 쓱씻 시리좀콴)은 2월 22일 일요일에 있을 재검표 및 재투표와 관련하여 선거관리위원회(꺼꺼떠.)가 해당 절차를 진행하기 전에 공공에게 사실을 명확히 해명할 것을 요구했습니다. 현재 사회는 일부 투표소에서 개표 결과 수치에 오류가 있고, QR 코드 및 바코드를 사용한 것에 대해 국민들이 의문을 제기하는 등 과거 선거 과정에 대해 여러 질문을 던지고 있습니다.\n\n쑤깟 대변인은 “재검표나 재투표를 실시하기 전에 꺼꺼떠.는 수치의 정확성, 확인 방법, 투표 정보 보호 조치 등 모든 세부 사항을 명확하게 설명하여 국민들이 전체 과정이 투명하고 유권자의 권리에 영향을 미치지 않는다는 것을 확신할 수 있도록 해야 합니다.”라고 강조했습니다. 또한, 사전 해명이 필요하다고 덧붙였습니다. 의혹이 누적되면 민주주의 과정 전반에 대한 국민의 신뢰에 영향을 미칠 수 있기 때문입니다. 현재 푸어타이당 사무총장은 지역구 국회의원 후보들에게 꺼꺼떠.가 점진적으로 공개하는 각 투표소의 개표 결과 데이터를 신속하게 확인하고 실제 투표일에 기록된 개표 결과 사진과 비교하여 시스템에 기록된 데이터에 오류가 없는지 확인하고 당에 제출하여 절차에 따라 처리할 것을 지시했습니다.\n\n쑤깟은 푸어타이당이 꺼꺼떠.와 긴밀히 협력하여 선거 과정의 투명성을 높이고 국민의 신뢰를 회복할 것이라고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 불안정은 여행에 간접적인 영향을 줄 수 있지만, 현재로서는 직접적인 위협은 아니므로 '보통' 수준으로 평가.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เพื่อไทยจี้ กกต. เร่งแจงปัญหาก่อนนับคะแนน-ออกเสียงใหม่ 22 ก.พ. สร้างความมั่นใจประชาชน",
+          "url": "https://www.thairath.co.th/news/politic/2915261",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JrN4qjd1IZWp.jpg"
+        }
+      ],
+      "collected_at": "18:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JrN4qjd1IZWp.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "왓 빠 차나 짜이, 토지 침범 혐의로 경찰 조사 중",
+      "summary": "- 사라부리 지역 왓 빠 차나 짜이 사원, 토지 침범 혐의로 경찰 조사 중\n- 해당 토지는 농민에게 경작 목적으로 할당된 토지이며, 매매 불가\n- 사원 측은 해당 토지를 매입했으나, 이는 불법으로 간주됨",
+      "full_translated": "사라부리 지방의 왓 빠 차나 짜이 사원이 토지 침범 혐의로 경찰 조사를 받고 있습니다. 경찰 조사에 따르면, 해당 토지는 원래 농민들에게 경작 목적으로 할당된 토지이며, 매매가 불가능합니다. 사원 측은 해당 토지를 농민들로부터 매입했다고 주장하지만, 이는 토지법 위반으로 간주됩니다. 현재 자금 출처를 조사 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "주요 관광지 관련 이슈는 아니지만, 사원 관련 소식으로 여행자들에게 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "사라부리 วัดป่าชนะใจ",
+        "price": null,
+        "location_google_map_query": "วัดป่าชนะใจ 사라부리"
+      },
+      "references": [
+        {
+          "title": "“ผู้การเอนก” เผยวัดป่าชนะใจ บุกรุกชัด ที่ดิน สปก. มีไว้จัดสรรให้ชาวบ้านทำกินเท่านั้น",
+          "url": "https://www.thairath.co.th/news/crime/2915258",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItFEsNMlANtj.jpg"
+        }
+      ],
+      "collected_at": "18:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75ItFEsNMlANtj.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "DSI, '디아이콘' 사건 2부 수사 진행…피해액 6억 바트 넘어, 18명 추가 기소",
+      "summary": "- DSI는 디아이콘 그룹 관련 사기 사건의 2부 수사를 계속 진행하며 피해 규모가 6억 8,600만 바트에 달한다고 발표함.\n- 2,535명 이상의 피해자가 발생했으며, 이 중에는 태국 국내뿐 아니라 국외 거주자도 포함됨.\n- 수사팀은 관련자들을 추가 기소하고 '보스 민'과 '보스 챔'을 소환할 예정임.",
+      "full_translated": "DSI 대변인은 디아이콘 사건 2부가 계속 진행 중이며, 2건의 특별 사건으로 분리되어 추가 수사가 진행될 것이라고 밝혔습니다. 그 이유는 '왕국 외부-왕국 내부'에서 추가 피해자가 발생했기 때문이며, 총 2,535명 이상으로 피해액은 6억 8,600만 바트에 달합니다. 수사팀은 디아이콘의 보스들을 추가로 기소하기 위해 교도소에 들어갈 준비를 하고 있으며, '보스 민'과 '보스 챔'에게 소환장을 발부할 것입니다. 특별수사부의 지휘 하에 있는 พ.ต.ต.ยุทธนา แพรดำ 특별수사부 국장은 폰따롯 야웃타나 패러담 특별수사부 국장은 불법 금융 사업 사건 담당 부서와 특별수사팀이 협력하여 디아이콘 그룹 주식회사와 관련된 형사 사건 또는 디아이콘 연쇄 사기 사건 및 디아이콘 그룹 주식회사의 자금 세탁 사건에 대한 특별 사건 119/2567을 조사하고 확장했습니다. 2023년 12월 20일, 특별수사팀은 피고인 18명과 법인 1곳을 사기, 컴퓨터 범죄에 관한 법률, 1984년 사기 대출 긴급 법령, 2002년 직접 판매 및 직접 마케팅 법률 등 5가지 혐의로 기소하기로 만장일치로 결정했습니다. 그런 다음 사건을 요약하고 2023년 12월 23일에 특별 검찰에 보냈습니다. 특별 검찰은 ยุรนันท์ ภมรมนตรี 또는 보스 챔과 유라난 파몬몬뜨리 또는 보스 챔과 น.ส.พีชญา วัฒนามนตรี 또는 보스 민 등 피고인 2명을 기소하지 않기로 결정했습니다. 넝싸오 피차야 와타나몬뜨리 또는 보스 민 등 피고인 2명을 기소하지 않기로 결정했습니다. 그 결과 그들은 방콕 특별 교도소와 중앙 여성 교도소에서 임시 구금에서 풀려났습니다. 그 후 특별 검찰은 불기소 의견과 명령과 함께 특별 사건 조사법 2004에 따라 불기소 명령에 이의를 제기할지 여부를 고려하기 위해 특별 수사부 국장에게 사건을 보냈습니다. 2024년 4월 6일, 특별 수사부 국장...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 사기 사건에 대한 수사 진행 상황 보도. 여행자에게 직접적인 영향은 적으나, 경제 범죄 관련 정보이므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ดีเอสไอ ลุยต่อคดี “ดิไอคอน” ภาค 2 พบมูลค่าความเสียหายกว่า 600 ล้านบาท 18 บอสโดนอีก",
+          "url": "https://www.thairath.co.th/news/crime/2915262",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JrVXFGjNJKnU.jpg"
+        }
+      ],
+      "collected_at": "18:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75JrVXFGjNJKnU.jpg",
+      "date": "2026-02-19"
+    },
+    {
+      "title": "태국, 미국과의 세금 협상 7월 내 마무리 목표",
+      "summary": "- 태국 정부는 미국과의 세금 협상을 7월 내로 마무리 짓기 위해 노력 중.\n- 미국은 태국에 세금 면제 요청 상품 목록 제출을 허용.\n- 인도네시아, 말레이시아와 경쟁 속에서 19%의 세금으로 경쟁력 유지.",
+      "full_translated": "쑤파지 상무부 장관은 태국이 미국과의 세금 협상을 지속적으로 진행하고 있으며, 7월 내에 협상을 마무리 짓는 것을 목표로 하고 있다고 밝혔습니다. 미국은 태국이 세금 면제 혜택을 받고자 하는 품목 목록 또는 기타 제안을 제출할 수 있도록 허용했지만, 요청한 대로 받을 수 있을지는 협상에 달려 있습니다. 쑤파지 장관은 인도네시아와 말레이시아가 이미 협상을 타결했지만, 태국은 19%의 세금으로도 경쟁할 수 있다고 강조했습니다. 최근 2월 12일 태국과 미국은 국장급 회담을 가졌으며, 미국은 태국의 선거가 원만하게 치러진 것을 환영하고 새 정부가 예정대로 구성될 것으로 예상했습니다. 상무부는 양측 모두에게 이익이 되는 협상 결과를 7월 내에 마무리할 수 있도록 추진할 계획입니다. 또한 미국은 태국이 9월 5일 발표된 행정 명령 14346의 부록 3에 따라 세금 면제 대상 품목 목록을 제출하는 것을 반대하지 않으며, 협상 결과를 마무리하기 전에 다른 제안을 제출하는 것도 반대하지 않습니다. 그러나 태국이 제안한 대로 받을 수 있을지는 협상 결과에 따라 달라집니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "미국과의 세금 협상 진행 상황에 대한 업데이트. 여행객에게 직접적인 영향은 적으나, 경제 상황에 간접적인 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ศุภจี” มั่นใจไทยไม่เสียเปรียบอาเซียน เร่งปิดดีลภาษีสหรัฐฯ ก.ค.นี้ เปิดช่องยื่นบัญชีเว้นภาษี",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2915252",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75It5HgFST90d7.jpg"
+        }
+      ],
+      "collected_at": "18:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75It5HgFST90d7.jpg",
       "date": "2026-02-19"
     }
   ]
