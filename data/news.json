@@ -23585,14 +23585,9 @@
       "summary": "- 새벽 5시경 파타야 인근 스쿰빗 도로에서 승합차 2대와 SUV 1대가 연쇄 추돌하는 사고 발생.\n- 이 사고로 3명이 현장에서 사망하고 16명이 부상을 입어 인근 병원으로 이송됨.\n- 경찰은 생존자들의 증언을 토대로 정확한 사고 원인을 조사 중.",
       "full_translated": "파타야 뉴스에 따르면, 새벽 5시경 퉁 수클라 지역의 반 나 다리 근처 커브길에서 사고가 발생했습니다. Sawang Prateep Sri Racha 재단의 구조팀은 신고를 받고 즉시 Laem Chabang 병원, Samitivej 병원, Queen Sirikit 해군 병원의 응급 의료 서비스와 Laem Chabang 경찰서의 경찰관과 협력했습니다.\n\n사고 현장에는 심하게 손상된 차량 3대가 있었습니다. 촌부리 등록 번호판이 부착된 흰색 Ford Everest SUV는 앞 왼쪽이 심하게 손상되어 맨 오른쪽 차선에 있었고, 차량 밑에서 남성 시신 1구가 발견되었습니다. 방콕 등록 번호판 허 쏫 1552가 부착된 흰색 Toyota 승합차는 전복되어 중앙 차선에서 심하게 파손되었습니다. 방콕 등록 번호판 허 퍼 2203이 부착된 또 다른 밴도 뒤집히고 파손되어 여러 명의 부상자가 갇혔습니다. 구조대원들은 유압 절단 도구를 사용하여 피해자들을 구출하고, 초기 응급 처치를 제공한 후 인근 병원으로 이송했습니다.\n\n총 16명이 부상을 입었고, 남성 2명과 여성 1명은 현장에서 사망했습니다. 사망자 중에는 밴의 운전자와 앞 좌석 승객이 있었는데, 일부는 충격으로 차량 밖으로 튕겨져 나갔습니다. 파타야 방향으로 향하던 Ford Everest의 승객을 포함한 생존자들의 진술에 따르면, 한 승합차가 통제력을 잃으면서 일련의 사건이 시작되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "새벽 시간 파타야 인근에서 발생한 대형 교통사고로 여행객 안전에 영향을 미칠 수 있으며, 해당 지역 교통 혼잡이 예상되므로 관련 정보 제공 필요.",
-      "event_info": {
-        "date": "2024-05-03",
-        "location": "스쿰빗 도로, 파타야 인근",
-        "price": null,
-        "location_google_map_query": "Sukhumvit Road near Pattaya"
-      },
+      "event_info": "{'date': '2024-05-03', 'location': '스쿰빗 도로, 파타야 인근', 'price': None, 'location_google_map_query': 'Sukhumvit Road near Pattaya'}",
       "references": [
         {
           "title": "3 People Dead, 16 Injured in Major Dawn Accident Involving Multiple Passenger Vans on Sukhumvit Road Near Pattaya",
@@ -23601,23 +23596,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714962624754709251564864119543.jpg?v=1771496380"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714962624754709251564864119543.jpg?v=1771496380",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/19/3-people-dead-16-injured-in-major-dawn-accident-involving-multiple-passenger-vans-on-sukhumvit-road-near-pattaya/",
+      "source": ""
     },
     {
       "title": "파타야 좀티엔 해변에서 이번 주말 오징어 축제 개최",
       "summary": "- 파타야 오징어 축제가 2026년 2월 20일부터 21일까지 좀티엔 해변에서 열립니다.\n- 촌부리 지방 행정 기구와 협력하여 '어부의 판타지 마을'을 테마로 진행됩니다.\n- 지역 경제 활성화와 관광객들에게 어촌 생활 체험 기회를 제공할 예정입니다.",
       "full_translated": "파타야, 태국 – 최근 파타야 시장 포라메세 응암피쳇은 촌부리 지방 행정 기구(PAO) 회장 비칫 요플렘 및 다양한 정부 및 민간 부문 파트너와 협력하여 열리는 파타야 오징어 축제 2026을 발표하는 기자 회견에 시 사무차장 시와치 분커드를 대표로 임명했습니다. '어부의 판타지 마을'을 테마로 한 이번 행사는 촌부리 지방 센트럴 파타야 쇼핑 센터 1층 행사장에서 열렸습니다. 이번 행사에서는 파타야 시립 학교 4(왓 농 야이) 초등학생들이 왕실 작곡 '코 나이 판'(꿈속의 섬)을 특별 공연했습니다.\n\n시 사무차장 시와치 분커드는 파타야 뉴스와의 인터뷰에서 지역 정체성을 보존하면서 창조적인 관광을 촉진하려는 파타야의 노력을 강조했습니다. 그는 “파타야 오징어 축제 2026은 관광 경제를 활성화하고 지역 기업가의 소득을 창출하며 주민과 방문객에게 아름다운 좀티엔 해변 분위기 속에서 현대적인 스타일로 어부의 삶의 방식을 경험할 수 있는 기회를 제공하는 핵심 활동입니다.”라고 말했습니다. 그는 파타야 시가 도시를 세계적 수준의 관광지로 끌어올리기 위해 2026년 연중 관광 활동을 전폭적으로 지원할 준비가 되어 있다고 덧붙였습니다.\n\n파타야 오징어 축제 2026은 2026년 2월 20~21일, 좀티엔 해변 야이막 시장 근처에서 개최됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "이번 주말 파타야에서 열리는 축제 정보로, 여행자에게 유용한 정보이며, 기존 뉴스에 포함되지 않았습니다.",
-      "event_info": {
-        "date": "2026-02-20",
-        "location": "좀티엔 해변 야이막 시장 근처",
-        "price": "미정",
-        "location_google_map_query": "Jomtien Beach Yaimak Market"
-      },
+      "event_info": "{'date': '2026-02-20', 'location': '좀티엔 해변 야이막 시장 근처', 'price': '미정', 'location_google_map_query': 'Jomtien Beach Yaimak Market'}",
       "references": [
         {
           "title": "Pattaya Squid Fair Taking Place THIS Weekend on Jomtien Beach",
@@ -23626,23 +23618,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17715049661883779719094162597466.jpg?v=1771505138"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17715049661883779719094162597466.jpg?v=1771505138",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/19/pattaya-squid-fair-taking-place-this-weekend-on-jomtien-beach/",
+      "source": ""
     },
     {
       "title": "파타야, 코브라 골드 2026 훈련 준비: 다음 주부터 8,000명 이상의 참가국 인원 도착 예정",
       "summary": "- 파타야에서 2026년 코브라 골드 훈련이 다음 주 후반부터 3월 초까지 진행될 예정입니다.\n- 태국, 미국, 싱가포르, 인도네시아, 일본, 한국, 말레이시아 등 30개국 이상에서 8,000명 이상의 인원이 참가합니다.\n- 훈련 기간 동안 파타야는 참가자들의 휴식 및 훈련 장소로 활용되며, 치안 유지 및 교통 관리가 강화될 예정입니다.",
       "full_translated": "파타야 시 경찰서와 후아이 야이 경찰서 관계자들은 다가오는 훈련에 앞서 수요일 미국 군사 외교관을 맞아 보안 협정에 대해 논의했습니다. 제45차 태국-미국 합동 군사 훈련인 코브라 골드 2026은 2월 말부터 3월 초까지 진행될 예정입니다. 태국, 미국, 싱가포르, 인도네시아, 일본, 한국, 말레이시아 등 핵심 참가국을 포함하여 30개국 이상에서 8,000명 이상의 인원이 참여할 예정입니다. 왕립 태국군과 미국 인도-태평양 사령부가 공동 주최하는 이 훈련은 육지, 바다, 공중, 우주 및 사이버 영역 전반에 걸친 상호 운용성에 중점을 둡니다. 활동에는 지휘 통제 훈련, 인도적 지원 및 재해 구호 작전, 수륙 양용 상륙, 실사격 훈련 등을 특징으로 하는 야전 훈련이 포함됩니다. 촌부리 지방의 주요 관광 중심지인 파타야와 인근 후아이 야이 지역은 훈련 기간 동안 휴식, 레크리에이션 및 일부 훈련 구성 요소의 주요 위치 역할을 합니다. 수천 명의 외국 군대가 훈련 및 휴식을 위해 도착할 것으로 예상됨에 따라 지역 당국은 번화한 리조트 도시에서 공공 안전, 교통 관리 및 질서 유지를 유지해야 하는 이중 과제에 대해 이야기했습니다. 경찰은 도시의 관광 이미지에 영향을 미칠 수 있는 혼란, 사고 또는 사건을 예방하기 위해 원활한 협조의 중요성에 대해 논의했습니다. 보안, 법 집행 및 전반적인 지원을 제공하기로 합의했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 군사 훈련으로 인한 파타야의 치안 강화 및 교통 혼잡 가능성. 여행객 안전 및 이동에 영향.",
-      "event_info": {
-        "date": "2026년 2월 말 ~ 3월 초",
-        "location": "파타야 및 후아이 야이 지역",
-        "price": "정보 없음",
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': '2026년 2월 말 ~ 3월 초', 'location': '파타야 및 후아이 야이 지역', 'price': '정보 없음', 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "Pattaya Prepares for Cobra Gold 2026 Starting Next Week and Arrival of Over 8,000 Personnel From Participating Nations Like The United States",
@@ -23651,23 +23640,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17715025281482964095167641358443.jpg?v=1771502649"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17715025281482964095167641358443.jpg?v=1771502649",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/19/pattaya-prepares-for-cobra-gold-2026-starting-next-week-and-arrival-of-over-8000-personnel-from-participating-nations-like-the-united-states/",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 긴장 고조, 태국군 대비태세 강화 및 외교적 해결 노력",
       "summary": "- 태국군, 캄보디아 국경 지역에서 영토 주권 보호를 위한 대비태세 강화\n- 캄보디아 총리의 영토 침범 주장에 대해 외교 채널을 통한 해결 노력\n- 군 관계자는 상황을 면밀히 감시하며 필요한 모든 조치를 취하고 있다고 밝힘",
       "full_translated": "태국 왕립군(RTA)은 국가 주권을 보호할 준비가 되어 있으며 캄보디아 훈 마넷 총리의 태국 영토 침범 주장에 대해 외교 채널을 통해 대응하고 있다고 국민에게 확언했습니다. 차이프루악 두옹프라팟 RTA 참모총장은 태국군이 태국-캄보디아 국경을 따라 지속적으로 감시를 유지하고 있으며 필요에 따라 인력과 감시 시스템을 배치하고 있다고 밝혔습니다. 그는 \"우리는 끊임없이 경계를 유지하고 있으며 해당 지역을 감시하기 위해 사용 가능한 모든 도구와 인력을 사용하고 있습니다. 군은 행동할 준비가 되어 있으며 큰 문제는 없을 것으로 예상합니다.\"라고 말했습니다. 훈 마넷의 태국이 선적 컨테이너와 철조망을 설치하여 캄보디아 영토를 침범했다는 주장에 대해 차이프루악 장군은 태국이 이미 외무부를 통해 대응했으며 외교적 수단을 통해 이 문제를 해결하고 있다고 밝혔습니다. 그는 \"우려할 필요가 없습니다. 우리는 외교 채널을 통해 이 문제를 해결하고 있으며 군은 현장에서 보안을 계속 유지하고 있습니다.\"라고 덧붙였습니다. 차이프루악 장군은 또한 해당 지역에 새로 배치된 일부 캄보디아 군대가 현지 상황에 익숙하지 않을 수 있으며, 그들의 준비 부족이 오해를 야기했을 수 있다고 지적했습니다. 그는 태국 군인들이 훈련을 잘 받고 완전히 준비되어 있다고 강조했습니다. 별도로 육군 대변인 윈타이 수바리 소장은 어제 훈 마넷에게 연설했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역 긴장 고조는 여행에 미치는 영향은 적으나, 상황 변화에 따라 안전 문제가 발생할 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "태국-캄보디아 국경",
-        "price": null,
-        "location_google_map_query": "Thai-Cambodian Border"
-      },
+      "event_info": "{'date': None, 'location': '태국-캄보디아 국경', 'price': None, 'location_google_map_query': 'Thai-Cambodian Border'}",
       "references": [
         {
           "title": "RTA stresses readiness, diplomatic action",
@@ -23676,23 +23662,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201070_260220011651_700.jpg"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201070_260220011651_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3201070/rta-stresses-readiness-diplomatic-action",
+      "source": ""
     },
     {
       "title": "스리라차에서 71세 남성, 오토바이에 깔려 사망",
       "summary": "- 스리라차에서 71세 남성이 쓰러진 오토바이에 깔려 사망.\n- 이 남성은 과거 회계사였으며, 사고 당시 천식 흡입기를 소지하고 있었음.\n- 이웃이 발견하여 구조대에 신고했으나, 현장에서 사망 판정.",
       "full_translated": "스리라차에서 71세 남성인 Suwit Tangloetpanya 씨가 오토바이에 깔려 사망하는 사고가 발생했습니다. 사고는 2026년 2월 19일 오전 9시 30분경 조용한 마을 주거 지역에서 발생했습니다. Sawang Prateep Sriracha 구조 센터와 스리라차 경찰서가 현장에 출동하여 조사했습니다. \n\n피해자는 집 앞에서 등을 대고 누워 있는 상태로 발견되었으며, 그의 검은색 Honda Scoopy i 오토바이가 넘어져 다리를 덮고 있었습니다. 그는 반응이 없었고 맥박도 감지되지 않았으며, 외상이나 폭행의 흔적은 보이지 않았습니다. 소지품에서 천식 치료에 사용되는 기관지 확장제 흡입기 2개와 지갑, 신분증, 현금이 발견되었습니다.\n\n길 건너편에 사는 이웃은 차를 타고 귀가하던 중 집 앞에서 넘어진 오토바이를 발견했다고 합니다. 오토바이가 일으켜 세워지지 않은 것을 이상하게 여겨 다가갔다가 Suwit 씨가 의식을 잃은 채 눈을 뜬 채 경련을 일으키고 있는 것을 발견했습니다. 이웃은 즉시 주변 주민들에게 도움을 요청했고, 구조대에 신고했습니다. 피해자의 며느리는 오전 8시 40분경 출근하기 위해 집을 나섰고, 오전 9시 직후 이웃으로부터 시아버지가 돌아가셨다는 전화를 받았다고 합니다. 그녀는 급히 집으로 돌아와 시아버지의 상태를 보고 큰 충격을 받았습니다. 그녀는 Suwit 씨가 과거에 천식을 앓았다고 언급했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 지역 내 사고 소식이므로 인지 필요. 교통사고는 아니지만, 유사 사고에 대한 주의 환기 차원에서 게시.",
-      "event_info": {
-        "date": "2026-02-19",
-        "location": "스리라차",
-        "price": null,
-        "location_google_map_query": "스리라차"
-      },
+      "event_info": "{'date': '2026-02-19', 'location': '스리라차', 'price': None, 'location_google_map_query': '스리라차'}",
       "references": [
         {
           "title": "71-Year-Old Man Collapses and Dies Under Fallen Motorcycle in Sri Racha",
@@ -23701,8 +23684,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714948625083610701693976469466.jpg?v=1771494907"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17714948625083610701693976469466.jpg?v=1771494907",
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/19/71-year-old-man-collapses-and-dies-under-fallen-motorcycle-in-sri-racha/",
+      "source": ""
+    },
+    {
+      "title": "태국 대마 합법? 오락용 사용이 더 이상 허용되지 않는 이유 - herb.co",
+      "summary": "- 태국에서 대마는 더 이상 오락용으로 합법이 아닙니다.\n- 이전에는 합법이었으나 현재는 규제가 강화되었습니다.\n- 자세한 내용은 herb.co에서 확인할 수 있습니다.",
+      "full_translated": "태국에서 대마는 합법인가? 오락용 사용이 더 이상 허용되지 않는 이유는 herb.co에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "최근 태국 대마 정책 변화에 대한 정보 제공. 여행자들에게 중요한 정보이며, 특히 정책 변화는 업데이트로 간주.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Is Weed Legal in Thailand? Why Recreational Use Is No Longer Allowed - herb.co",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RbWZ4d1lhamlucTc3Sl9jZGR6V0JUN0c4WmNRY1o3aTFtODJZTXp1VUstWjMyRUYwTFAtRk9nV1VXelZTZ0R6dUozalBsaklSZlhuV25lOWZIUkRlVmxv?oc=5",
+          "source": "herb.co",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국, 안전한 여행지: 혼란을 피하고 멋진 휴가를 즐기는 궁극적인 가이드",
+      "summary": "- 태국은 여전히 안전하고 매력적인 여행지입니다.\n- 혼란을 피하고 휴가를 최대한 즐기기 위한 팁을 제공합니다.\n- 자세한 내용은 Travel And Tour World에서 확인하세요.",
+      "full_translated": "태국의 멋진 휴가지들은 여전히 안전합니다 – 혼란을 이겨내고 싶은 관광객을 위한 궁극적인 가이드! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행 관련 일반 정보 제공. 혼란을 피하는 팁은 유용할 수 있으나, 긴급하거나 필수적인 정보는 아님.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Stunning Vacation Spots Remain Safe – The Ultimate Guide for Tourists Who Want to Beat the Chaos! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMUhWT3l6WG9QZU13NmZYYUpoN2RCbHRVR2dFeWIyZXNpTmVqQ3ItTnZUd0xVVHF2SnYxREl6alBpbGQwYm9EZjNrbjlFY29GWS1zc0dhN3JBU0FqSVRaLXNCOGVGdVFEY2dERHRwejBoMElhTTE2TWN2VU5PZ2ZCT2NLdGw0ekdscGp5TzNaZU0tMVIyaXlRNVRjZ01XYWt5VGtSOEhsZ0ZyRnpXd29VekpPM210RW03aTRGMnF6RHFJdmYzYXdDTHZsSzl1ZnJTNmJyNEpiY21YcXE4VWJVd0gtb3AzdURD?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국, 새로운 UNSEEN 루트 시작과 함께 Ban Pam Bok이 10대 문화 관광 커뮤니티에 합류",
+      "summary": "- 태국이 새로운 UNSEEN 루트를 시작하며 Ban Pam Bok이 10대 문화 관광 커뮤니티에 선정됨.\n- Ban Pam Bok은 태국 북부에 위치한 작은 마을로, 전통적인 태국 문화를 경험할 수 있는 곳임.\n- 새로운 UNSEEN 루트는 태국의 숨겨진 매력을 발견할 수 있는 기회를 제공할 것으로 기대됨.",
+      "full_translated": "Ban Pam Bok이 태국이 새로운 UNSEEN 루트를 시작함에 따라 10대 문화 관광 커뮤니티에 합류했습니다. &nbsp;&nbsp;Pattaya Mail",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 관광 루트 정보는 여행객에게 흥미로운 선택지를 제공하므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "Ban Pam Bok, 태국 북부",
+        "price": null,
+        "location_google_map_query": "Ban Pam Bok, Thailand"
+      },
+      "references": [
+        {
+          "title": "Ban Pam Bok joins top 10 cultural tourism communities as Thailand launches new UNSEEN route - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVER1Ql9ucnVvbXJtLTZxZm1uTFBJZURKdHRBcS1VaXZTMkh3eThvM05GdkJ5MVZxRTR0dVo0Zm12NGlqRFNNc2tXdEpScHZEYWZ3UHRWOS1nQjg3dXpjd1JTYS1iWlZjeEYxdGg1YnZzanlTSWRRMGxrTnJiV0E3NUgyN0pUU0pSY2E2b05kTzdVQlg5VTdzdHdTMHdWUUlqNzFXLXZDcGJjdDVHRldpQUMzWFBmN0ZaanM4bEVRcTNoZWpZb2NOZGlNYTMyM2dYZ2VWRXF3?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "영국 경찰, 앤드루 왕자 공직 부정행위 혐의로 체포: 왕실 스캔들 파장",
+      "summary": "- 앤드루 마운트배튼-윈저 왕자가 공직 부정행위 혐의로 체포됨.\n- 런던 경찰은 2010년 제프리 엡스타인에게 무역 보고서를 보낸 혐의 조사 중.\n- 왕실의 이미지 실추 및 영국 사회에 큰 파장 예상.",
+      "full_translated": "런던 (AP) — 영국 경찰이 목요일 앤드루 마운트배튼-윈저를 공직 부정행위 혐의로 체포했습니다. 런던 서쪽 지역을 관할하는 템스 밸리 경찰은 마운트배튼-윈저의 이전 거주지를 포함하여, 전 앤드루 왕자가 2010년 유죄 판결을 받은 성범죄자 제프리 엡스타인에게 무역 보고서를 보냈다는 보고서를 '평가'하고 있다고 밝혔습니다. 이번 평가는 엡스타인에 대한 미국 수사와 관련된 수백만 페이지 분량의 문서 공개에 따른 것입니다. 경찰은 영국 법에 따라 일반적으로 마운트배튼-윈저의 이름을 밝히지 않았습니다. 그러나 체포 여부를 묻는 질문에 경찰은 60대 남성을 체포했다는 성명을 언급했습니다. 마운트배튼-윈저는 66세입니다. 성명은 “철저한 평가 결과, 우리는 이제 공직 부정행위 혐의에 대한 수사를 개시했습니다.”라고 밝혔습니다. “우리는 파트너와 협력하여 이 혐의를 조사하면서 수사의 무결성과 객관성을 보호하는 것이 중요합니다.” 성명은 덧붙였습니다. “우리는 이 사건에 대한 상당한 대중의 관심을 이해하고 있으며 적절한 시기에 업데이트를 제공할 것입니다.” 온라인에 유포된 사진에는 노퍽의 샌드링엄 영지에 있는 우드 팜에 표식이 없는 경찰차가 있는 것으로 보이며, 사복 경찰관들이 마운트배튼-윈저의 집 밖에 모여 있는 모습이 나타났습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "영국 왕실 관련 뉴스이지만, 태국 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Former Prince Andrew arrested on suspicion of misconduct in public office",
+          "url": "https://www.khaosodenglish.com/news/international/2026/02/19/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26050372156316.jpg"
+        }
+      ],
+      "collected_at": "03:23",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26050372156316.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 경제, 관광 침체와 팬데믹에도 회복세 보여",
+      "summary": "- 태국 경제는 관광 산업 침체에도 불구하고 회복세를 보이고 있음.\n- 팬데믹 상황 속에서도 경제 성장 동력을 유지하고 있는 것으로 분석됨.\n- 자세한 경제 회복 요인과 전망은 기사 본문을 통해 확인할 수 있음.",
+      "full_translated": "태국 경제, 관광 침체와 팬데믹에도 회복세 보여&nbsp;&nbsp;MSN",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황은 여행객의 전반적인 여행 경험에 간접적인 영향을 미칠 수 있으며, 환율 및 물가 변동에 대한 정보를 제공할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s economy rebounds despite tourism decline, pandemic - MSN",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTNWTnVYdVhVUHlZbnlwRUc0WWdqYUxMNGw2cFhmVFZzU3B5cm94X2x1blVGNUlGQkJHaUlqVEtROExwdHFLRVJOZnVIM1Fhc1p4RmpqM2xTVFNJTDNLSlFpVFo0dVItbGdlYU1MeUJ3QllTVk9CdUN3ZGd4TUpVQW9RTXNrVHJSUnhfZEpDcFpRUVhvWWRXU0FtVkFEWDQ4dDlGeHEzWDJHV3pkRmc?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-20"
     }
   ]
