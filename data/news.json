@@ -24265,14 +24265,9 @@
       "summary": "- 태국 정부가 국가 이미지 개선을 위해 노력하는 가운데, 파타야는 그 이면의 문제점들을 드러내고 있음.\n- 파타야의 어두운 면은 관광객 유치에 부정적인 영향을 미칠 수 있다는 우려가 제기됨.\n- 이미지 개선 노력과 함께 파타야가 직면한 문제 해결이 시급하다는 지적.",
       "full_translated": "태국은 이미지를 개선하는 반면 파타야는 그 대가를 치르고 있습니다. 파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야의 문제점을 지적하여 여행자에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand polishes its image while Pattaya pays the price - Pattaya Mail",
@@ -24281,23 +24276,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:27",
+      "collected_at": "6:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkxlVnV3VS1yTEFSeXZWb1lPM1hoT2p3MFNJYnZBUGpHMTFEdFg5RUVZRC1pYjJjb0xkWEgteTBJcXl3S0RwVjBkc25NS1lPd3JPM3Zwc2VSOXN0X09NVkxJbk93bEJTZzNLYUQ5LUZscmRseC16ZHNDSmpxWGs5bmFDQmc0QldxaU41NnhTM3hyS1I0XzJJU2I4eVk?oc=5",
+      "source": ""
     },
     {
       "title": "부리람 유나이티드, AFC 챔피언스리그 16강에서 멜버른 시티와 격돌",
       "summary": "- 태국 리그1 챔피언 부리람 유나이티드가 AFC 챔피언스리그 엘리트 16강에서 멜버른 시티와 맞붙습니다.\n- 경기는 다음 달에 열릴 예정입니다.\n- 부리람 유나이티드는 태국 축구 클럽입니다.",
       "full_translated": "태국 리그1 챔피언 부리람 유나이티드가 다음 달 AFC 챔피언스리그 엘리트 16강에서 멜버른 시티와 맞붙습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 축구 소식은 스포츠 팬 여행자에게 흥미로운 정보가 될 수 있지만, 여행에 직접적인 영향은 적습니다.",
-      "event_info": {
-        "date": null,
-        "location": "부리람",
-        "price": null,
-        "location_google_map_query": "부리람"
-      },
+      "event_info": "{'date': None, 'location': '부리람', 'price': None, 'location_google_map_query': '부리람'}",
       "references": [
         {
           "title": "Buriram United book Melbourne clash",
@@ -24305,22 +24297,20 @@
           "source": "Bangkokpost.com : Most recent"
         }
       ],
-      "collected_at": "06:27",
-      "date": "2026-02-20"
+      "collected_at": "6:27",
+      "image_url": "",
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/sports/3201045/buriram-united-book-melbourne-clash",
+      "source": ""
     },
     {
       "title": "태국 생명 보험, 2026년 1조 바트 돌파 예상",
       "summary": "- 태국 생명 보험 산업, 건강 및 중병 보장 성장으로 2026년에 총 보험료 1조 바트 돌파 전망\n- 경제 역풍에도 불구하고 생명 및 비생명 보험 모두 강력한 성장세 예상\n- 이는 태국 보험 산업의 중요한 이정표가 될 것으로 보임",
       "full_translated": "태국의 생명 보험 산업은 중대한 해를 맞이할 준비가 되어 있습니다. 건강 및 중병 보장의 강력한 성장에 힘입어 생명 및 비생명 보험 모두 총 보험료가 사상 처음으로 1조 바트를 초과할 것으로 예상됩니다. 이는 지속적인 경제 역풍에도 불구하고 달성될 것으로 보입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 경제 상황에 대한 간접적인 정보 제공. 핫플레이스나 안전 정보는 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Life segment forecasts watershed year in 2026",
@@ -24328,22 +24318,20 @@
           "source": "Bangkokpost.com : Top Stories"
         }
       ],
-      "collected_at": "06:27",
-      "date": "2026-02-20"
+      "collected_at": "6:27",
+      "image_url": "",
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201080/life-segment-forecasts-watershed-year-in-2026",
+      "source": ""
     },
     {
       "title": "태국, 국가 안보 위한 자체 기술 개발 중요성 강조",
       "summary": "- 태국은 장기적인 국가 안보와 경제 성장을 위해 자체 기술 및 혁신적인 인프라 개발이 필수적이라고 전문가들이 강조.\n- 외산 기술 의존의 보이지 않는 비용에 대한 우려 제기. 데이터 보안 및 디지털 주권 확보를 위해 자체 솔루션 개발 필요.\n- 군사 작전 시 외부 지원 없이 자체적으로 기술적 대응책을 마련하고 신속하게 배치할 수 있어야 한다고 공군 관계자가 밝힘.",
       "full_translated": "태국은 장기적인 국가 안보와 경제 성장을 보장하기 위해 자체 기술 및 혁신적인 인프라를 개발해야 한다고 기술 연구원과 군 관계자가 밝혔습니다.\n\n태국 국립전자컴퓨터기술센터(Nectec)가 40주년을 기념하여 주최한 '태국 전환점' 세미나에서 공군 참모차장인 ACM Prapas Sornchaidee는 \"태국 혁신을 국가 의제 항목으로 격상시키는 것은 더 이상 선택 사항이 아니며, 특히 국가 방어를 보호하는 데 필수적입니다.\"라고 말했습니다. \"기술 수입만으로는 태국을 확보할 수 없습니다. 진정한 안전은 자체 솔루션을 만드는 데 있습니다.\"\n\n주요 관심사는 외국 플랫폼에 의존하는 보이지 않는 비용입니다. ACM Prapas는 외국 기술을 사용하면 사용자 데이터가 지속적으로 수집되고 수확된다고 말했습니다. 그는 국가가 기술을 현지에서 발명하고 개발함으로써 자체 데이터를 효과적으로 보호하여 디지털 주권을 보호하고 국가 안보를 강화할 수 있다고 말했습니다.\n\n드론 배치 또는 방어와 같은 군사 작전에서 ACM Prapas는 완전한 독립의 필요성을 강조했습니다. 위협이 발생하면 군인은 외부 지원이나 기술 지원을 기다릴 여유가 없습니다. 군대는 자체적으로 기술적 대응책을 준비, 조립 및 신속하게 배치할 수 있는 장비를 갖추어야 한다고 그는 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국의 기술 및 안보 관련 정책 방향을 이해하는 데 도움이 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Sovereign technology key to national security, say pundits",
@@ -24352,23 +24340,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975480_700.jpg"
         }
       ],
-      "collected_at": "06:27",
+      "collected_at": "6:27",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/20/5975480_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201025/sovereign-technology-key-to-national-security-say-pundits",
+      "source": ""
     },
     {
       "title": "요드차난, 장관직 맡지 않을 수도",
       "summary": "- 프어 타이 총리 후보 요드차난, 새 정부에서 장관직을 맡지 않을 수 있다는 추측이 제기됨.\n- 그의 부모인 솜차이 전 총리와 야오와파는 탁신 친나왓 전 총리를 클롱프렘 교도소에서 방문.\n- 선거관리위원회가 400명의 지역구 의원을 모두 승인하여 품짜이타이당이 연립 정부 협상을 진행할 수 있게 됨.",
       "full_translated": "프어 타이 총리 후보인 요드차난 웡사왓이 품짜이타이당(BJT)이 구성하는 새 정부에서 장관직을 맡지 않을 수 있다는 추측이 일고 있습니다. 요드차난 씨는 그의 부모인 솜차이 전 총리와 야오와파가 목요일 방콕의 클롱프렘 중앙 교도소에서 탁신 친나왓 전 총리를 방문한 후 더욱 주목을 받았습니다. 이번 방문은 선거관리위원회가 400명의 지역구 의원을 모두 승인하여 2월 8일 선거에서 가장 많은 의석을 차지한 BJT가 아누틴 찬비라쿨 대표를 총리로 추대하고 연립 정부 협상을 진행할 수 있도록 길을 열어준 후에 이루어졌습니다. 솜차이는 교도소 방문 후 요드차난의 미래에 대한 질문에 대해, 그가 내각 직책을 맡기로 결정하든 그렇지 않든 그의 결정을 존중한다고 말했습니다. 그는 또한 정치적인 문제는 가족 내에서 논의되지 않으며 부모로서 지지할 뿐이라고 언급했습니다. 한편 탁신은 요드차난에게 아무런 메시지가 없었고 단지 도덕적 지지만 보냈다고 솜차이는 덧붙였습니다. 솜차이는 또한 프어 타이와 BJT의 정치적 파트너십에 대해 언급을 거부했습니다. 한편, 목요일 방콕의 프어 타이 본부에는 당이 가입하는 것에 대한 지지를 표명하기 위해 붉은 셔츠 지지자들이 모였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이지만, 여행에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Yodchanan may not take ministry post",
@@ -24377,8 +24362,133 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200950_260220010003_700.jpg"
         }
       ],
-      "collected_at": "06:27",
+      "collected_at": "6:27",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3200950_260220010003_700.jpg",
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/politics/3200950/yodchanan-may-not-take-ministry-post",
+      "source": ""
+    },
+    {
+      "title": "인도, 태국과 함께 60일 무비자 입국 허용으로 관광객, 비즈니스 리더, 원격 근무자들의 원활한 여행 지원",
+      "summary": "- 인도가 태국과 함께 60일 무비자 입국을 허용하여 여행이 더욱 편리해짐.\n- 관광객, 비즈니스 리더, 원격 근무자들에게 유용한 정보.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "인도가 태국과 함께 60일 무비자 입국을 허용하여 관광객, 비즈니스 리더 및 원격 근무자들의 원활한 여행을 지원합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여. 기존 뉴스에 없던 새로운 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "India Joins Thailand In Extending Visa-Free Access With 60-Day Stays, Enabling Seamless Travel For Tourists, Business Leaders, And Remote Workers - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxON3dWTy1ycWJDY1F4emNiR0JmSVR3c09COE1ndTVmQS1iTU43bHY0X196TUQyRlhiRXVjbWpXb1N4R0VxdXJyRk5lZHVGc25UNWx4VkVlV3dGY3RPeXM0c09VaVNSMWxXLVpsX0RjSXF2czFjbkJHYXBmT0MtNFlsX0ZVSnFFNkR6OUdMSzNkS3dRS1VuS3dzdjMwMHJIWEZFRks5NXUtaEZJUjdpaHRidGo1b1g1WkhOZ01lMEdJczVXSklobm5KQzItX281ZDZrOE80R29uMG9TMXVKSUMzczZPdTMwbkxYaElRaFRQQ2Q4dzU4SkpudF9PZmstNDU2Mzd5WW1fWFF4dFMzZkxEVThnV3FfQzV4bG44?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "중국-일본 외교 갈등, 춘절 기간 중국인 관광객의 일본 여행 감소로 이어져, 한국, 태국, 베트남 방문객 급증",
+      "summary": "- 중국과 일본의 외교적 긴장으로 인해 중국인 관광객들이 춘절 연휴 동안 일본 대신 한국, 태국, 베트남을 선택하고 있다.\n- 이는 해당 국가들의 관광 산업에 긍정적인 영향을 미치며, 특히 태국은 중국인 관광객 유치에 적극적인 노력을 기울이고 있다.\n- 여행객들은 최신 업데이트를 확인하여 여행 계획에 참고해야 한다.",
+      "full_translated": "베이징-도쿄 외교 갈등으로 인해 중국인 관광객들이 이번 춘절에 일본을 건너뛰고 한국, 태국, 베트남으로 몰리고 있습니다: 알아야 할 새로운 업데이트 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중국-일본 외교 갈등으로 인한 여행 패턴 변화는 태국 여행에 영향을 미칠 수 있으며, 특히 중국인 관광객 증가 가능성을 고려하여 여행 편의 및 관련 정보를 제공할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Beijing-Tokyo Diplomatic Rift Causes Chinese Tourists to Skip Japan This Lunar New Year, South Korea, Thailand, and Vietnam See Surge in Visitors: What New Updates You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcS10MjhRSzllMzc3U3R6V19zMGxpLXBDczMtRUlLR1YwbWVYSHVtdFNtaUhHN3ZyQ1MwRFRyWWkzclhOZlc1MjVkLUhVRFlNSXVVSm5ma3QtMTkySWZzN25GdmsxbkZwQm1sRWNTWGlhWlpaRG43MWhXWWtaU0owZ3VvMHVNNjlYTjJWUEtyZ29CZzJNd1o0bVU3MUZMT2tTZHNmaEJlQzBDZWxhU2ZwZC0wMTN1bUs4U2J4UHRjS3VDX0RSQ0drRWV0MzhyQ0JoakJWWjBCWTN1cl9OLTlRYzJuTnhDcjRnYlJFRWpjSl9kVzdaalFZRm1DR1JFeVdYTXhHOG8yVzhZUTFLZDFCendsOUdmUG80eEtEYTVJZHNGQzJ2Q3pObGtTY045dnFjZUlCdk5FMVhrY2o3SzVHMmc4ck5vUHZC?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국, 시리킷 여왕 애도 기간…여행객 유의사항",
+      "summary": "- 태국은 시리킷 여왕의 애도 기간에 들어갔으며, 이는 관광객에게 영향을 미칠 수 있습니다.\n- 애도 기간 동안에는 특정 행사나 축제가 취소되거나 축소될 수 있습니다.\n- 관광객은 공공장소에서 예의를 지키고, 애도 분위기를 존중하는 것이 중요합니다.",
+      "full_translated": "태국은 현재 시리킷 여왕을 1년 동안 애도하고 있습니다. 이것이 관광객에게 어떤 의미가 있을까요? MSN",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여왕 애도 기간으로 인한 행사 취소 및 축소 가능성, 공공장소에서의 예의 준수 필요성을 고려하여 여행객에게 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeW1PZVBtWUl1Z1JLbVZ5UHo5VFE0MXB4NG02VktsQlB5eUszblM1eml2MGhnTVlZUVJiMXlRdnhacnpUcEV5UkJMVk5KeWNZb21LeC1KSnpIQmFPU1dqWk9pQnp5RUsxM0pnYktteks1aWJ5U0ZfcERYWXg0cGdrbnZsdlprQWxYR2xKaXlJX1JNQjQxU3lNOUk0SHh0ZldqWmp2YU5VNEdwRXRqWEVXYzBjVFVCdWxKdWZFdGdIc0JfVXAtMUlZaExzV0ZmRjNKbTBiNjVjZ1NsY2JwYy1NdUpVNUs2clZiWVZTZG5YbVZidGRLMm9acGE4dnZRRVV1LWdn?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 회전 초밥 레스토랑 인기 상승, 일본 음식점 성장세 둔화",
+      "summary": "- 태국 내 회전 초밥 레스토랑이 성장 잠재력을 보임.\n- 반면, 전체 일본 음식점 분야는 올해 성장세가 둔화될 것으로 예상됨.\n- MAI 상장 기업인 Maguro Group Plc.의 분석 결과.",
+      "full_translated": "MAI 상장 기업인 Maguro Group Plc.에 따르면 태국 내 회전 초밥 레스토랑은 성장 잠재력이 있으며, 전체 일본 음식점 분야는 올해 성장세가 둔화될 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객들에게 새로운 식당 선택지를 제공할 수 있는 정보. 일본 음식에 대한 관심이 높은 여행객들에게 유용할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Conveyor belt sushi rises as Japanese dining cools",
+          "url": "https://www.bangkokpost.com/business/general/3201005/conveyor-belt-sushi-rises-as-japanese-dining-cools",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "06:53",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "파타야 유나이티드, 나콘파톰 유나이티드와 1-1 무승부",
+      "summary": "- 파타야 유나이티드는 홈에서 나콘파톰 유나이티드와 1-1로 비겼습니다.\n- 그레고리 로차가 후반전 시작 직후 득점하며 파타야에 리드를 안겼습니다.\n- 나콘파톰은 86분에 동점골을 넣어 경기를 무승부로 마쳤습니다.",
+      "full_translated": "파타야 유나이티드는 2025/26 시즌 25라운드 홈 경기에서 열정적인 관중 앞에서 나콘파톰 유나이티드를 맞이했습니다. 이번 경기는 앞선 첫 번째 경기에서 1-1 무승부를 기록한 후 열린 경기였으며, 승격 경쟁을 벌이는 중요한 경기였습니다. 전반전은 흥미진진한 공방전으로 펼쳐졌습니다. 나콘파톰은 일찍 리드를 잡았다고 생각했지만, 오프사이드 판정으로 골이 취소되어 홈 팬들을 안도하게 했습니다. 파타야 유나이티드는 점차 주도권을 잡으며 페널티 박스 바로 바깥에서 위험한 프리킥을 얻는 등 기회를 만들었지만, 방문팀의 수비를 뚫지 못했습니다. 양 팀은 0-0으로 전반전을 마쳤습니다. 하프타임에는 팬들을 위한 경품 추첨과 풀만 파타야 호텔 G의 숙박 바우처가 포함된 행운권 추첨 등 다양한 이벤트가 진행되어 활기찬 분위기를 고조시켰습니다. 후반전은 시작 직후 활기를 띠었습니다. 후반전이 시작된 지 불과 1분 만인 46분, 파타야 유나이티드의 그레고리 로차가 높이 뛰어올라 헤딩골을 터뜨려 홈 관중을 열광시키고 팀에 1-0 리드를 안겼습니다. 그들은 리드를 확대하기 위해 공격적으로 압박했습니다. 나콘파톰은 즉시 공격적인 교체 선수 투입을 통해 새로운 에너지를 불어넣었습니다. 파타야 역시 측면에서 페이스를 유지하기 위해 교체 선수를 투입했습니다. 마지막 20분은 양 팀이 결정적인 골을 넣기 위해 필사적으로 공격하며 맹렬하고 공개적인 공방전으로 바뀌었습니다. 전환점은 86분에 찾아왔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야에서 열린 축구 경기 결과. 파타야 방문객에게 소소한 흥미를 유발할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야 축구 경기장"
+      },
+      "references": [
+        {
+          "title": "Match Report: Pattaya United Draws 1-1 With Nakhon Pathom United",
+          "url": "https://thepattayanews.com/2026/02/19/match-report-pattaya-united-draws-1-1-with-nakhon-pathom-united/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771493645936.jpg?v=1771493714"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771493645936.jpg?v=1771493714",
       "date": "2026-02-20"
     }
   ]
