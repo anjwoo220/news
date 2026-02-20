@@ -26593,14 +26593,9 @@
       "summary": "- 태국 정부가 인도 여행객 대상 무비자 체류 기간을 30일에서 60일로 연장했습니다.\n- 이는 태국 관광 산업 활성화를 위한 조치입니다.\n- 자세한 내용은 VisaHQ에서 확인할 수 있습니다.",
       "full_translated": "태국 정부는 인도 여행객에 대한 무비자 체류 기간을 60일로 두 배로 늘렸습니다. VisaHQ",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 중요한 정보이므로 높은 점수를 부여합니다. 특히, 인도 여행객에게는 직접적인 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand doubles visa-free stay for Indian travellers to 60 days - VisaHQ",
@@ -26609,23 +26604,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:47",
+      "collected_at": "4:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOamtRaHo3MlRCcy05cXRkNjU3bDM1dGV4V21oOW1kZVBqUDQ2QndjcnMxUEJLdFljdF9tUktsa3M5Mk1GbmlDMG9IR0hCY1BSMDhBRXlKZ0Z4TVpueVYzOVNGSDJxdFVYeXlTY1RBN0FSZldlaHVtLWEybEVlcXJzbHlGaEgyRmN2UWM3eGwya1lsdmFodzlSa2x0eEI1ck1VdXNXS0hSMWhMUzQ?oc=5",
+      "source": ""
     },
     {
       "title": "Tourist in Thailand allegedly robbed of S$800 after inviting transgender woman to hotel room - mustsharenews.com",
       "summary": "- 태국 여행 중인 관광객이 호텔 방에 트랜스젠더 여성을 초대 후 800 싱가포르 달러를 도난당했다고 주장함.\n- 현재 사건에 대한 조사가 진행 중임.\n- 여행객들은 낯선 사람과의 만남에 주의해야 함.",
       "full_translated": "태국 여행 중인 관광객이 호텔 방에 트랜스젠더 여성을 초대한 후 800 싱가포르 달러 (약 600 미국 달러)를 도난당했다고 주장하는 사건이 발생했습니다. mustsharenews.com에 따르면 현재 경찰은 사건에 대한 조사를 진행 중이며, 여행객들에게 낯선 사람과의 만남에 주의할 것을 당부했습니다. 특히 밤 늦은 시간에 술에 취한 상태로 낯선 사람을 만나는 것은 위험할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 대상 범죄 사건이므로 주의를 요하며, 유사 사건 방지를 위해 정보 제공. 호텔이라는 특정 장소에서 발생한 사건이므로 여행객에게 직접적인 관련성이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "Thailand"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': 'Thailand'}",
       "references": [
         {
           "title": "Tourist in Thailand allegedly robbed of S$800 after inviting transgender woman to hotel room - mustsharenews.com",
@@ -26633,7 +26625,85 @@
           "source": "mustsharenews.com"
         }
       ],
-      "collected_at": "04:47",
+      "collected_at": "4:47",
+      "image_url": "",
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IVlBONWV3S3JJem1Zejhyb2NEUm83Z0M2WHJueHdISFJtTGlKRGVYbkRqcDl6dmJod2p0bzNRUDI5VXpxRFB5UmRjc196REU1VG1hYm9SUVZaNnp5aFNVYVZ4RWfSAWpBVV95cUxPWmdFbS1qT1UzalFvVURTSjUwd2htYW5LbmUzb29XWDVKRldDNVpjWHlZNzZyZ0p6Qk9zYkJZbEwyV3NTeEJfNVVSelh4T3I1R3Zzc053VlNOdWNxM2VLOXA5RWtzSTkyazd3?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, '저질' 관광객 불만 속 60일 무비자 체류 단축 충격 발표 – 향후 여행에 미치는 영향!",
+      "summary": "- 태국이 무비자 체류 기간을 단축하여 관광객에게 미치는 영향이 클 것으로 예상됨.\n- '저질' 관광객에 대한 불만이 증가하면서 태국 정부가 이러한 결정을 내린 것으로 보임.\n- 향후 태국 여행을 계획하는 여행객들은 비자 정책 변화에 주의해야 함.",
+      "full_translated": "태국의 충격적인 행보, '저질' 관광객에 대한 불만 속 60일 무비자 체류 단축 – 향후 여행에 미치는 영향! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 무비자 체류 기간 단축은 여행 계획에 차질을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Shocking Move to Cut 60-Day Visa-Free Stay Amid Complaints of ‘Non-Quality’ Tourists – What This Means for Future Travel! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1lRQTNkVVlIS0tBSW1sLU9xaWVHR2VadVJDczhtbEZLLWZnLTkyc29kZHEzaFBsZnBsWWVXMjEwUDZFdm1iN0tzcFZyeEtmbXNwUEdsMFFYaGFJUmcwRmZhcGE5UmlaTS11bXVqMmdHY0FsUm9ZWEpCcUJRSEs3TzQ0eGIzbXJLUmlNME9uOUl2WTB6TzZGa1BqVjNjVDVMYnFUazBSejlIUVV3SEMwMnQ2dld6aXdvVTQwVlJjdENPYlRNdE5oeW9zcDZLQ3ZkdTVLUEY0cG5QTmNVTk1RUVU0d0FwWWJWbHN1Zm9xam45YWJMSEl1c1EtUFlQVFFZcWxzSDBR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 관광, 한국, 중국, 말레이시아, 러시아, 인도 등이 주요 국가로 부상",
+      "summary": "- 태국 관광 산업에서 한국이 주요 국가 중 하나로 부상했습니다.\n- 올해 첫 45일 동안 관광객 수가 약 8% 감소했습니다.\n- 자세한 내용은 기사에서 확인할 수 있습니다.",
+      "full_translated": "South Korea Joins China, Malaysia, Russia, India, and Others as Top Sources for Thailand Tourism Amid Nearly Eight Percent Decline in the First Forty Five Days of This Year: Everything You Need to Know&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업의 변화를 보여주는 정보로, 한국 여행객에게 참고가 될 수 있습니다. 다만, 현재 여행에 직접적인 영향을 주는 정보는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins China, Malaysia, Russia, India, and Others as Top Sources for Thailand Tourism Amid Nearly Eight Percent Decline in the First Forty Five Days of This Year: Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZEczMDYzNzdacGZyZUZudE04ejBpN0VPVUlUaU5FU041Q2N5M3ROOWs3aTktV0FSd3lYem1vXzRpZ3dOSUh0c1IzYmdGbk1sNi0zNVVQZy1GYW94anNmRDFEd1ZWTWxnU29RQWV6LUxWd1M0TXppMEFPeTR2ekVCU2c4U014MVhreGp1ZjYxNnJ0TEtjT1ljdG5TRVIyVmhXMjRvREJnSEVqeEljVVdodGwwNS10clBtNDNPbjFnWVdGbWhnMzlpSDhjM3Q1NTVvM20tbXRlQmJmWWxHT2xkd3YwMlBDV0FEOHEzbElpSThlM3ZWRnVSeF9INFg4bVcwb2tITjlTRWpTOVlDT1pDdUNpRTNrem15NkhJY0Q5MEo3dzdyVzhQZHdSREFPZXBnM1dkbV9rQjl0RDY2NnJ2c0hWV1JCN3R2dkFqanNEbEhtOHVCMXVxbnFpeFVyaThLanc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "우즈베키스탄발 해외여행 급증, 태국 등 신흥국 관광 활성화",
+      "summary": "- 우즈베키스탄의 해외여행 수요 증가로 중국, 사우디 아라비아, UAE, 태국, 이집트, 카자흐스탄 등 신흥국들이 수혜를 보고 있음.\n- 이는 세계 관광 역학의 변화를 의미하며, 새로운 관광 목적지로서의 가능성을 보여줌.\n- 특히 태국은 우즈베키스탄 관광객 유치를 통해 관광 산업 성장을 기대.",
+      "full_translated": "우즈베키스탄의 해외여행 급증은 중국, 사우디 아라비아, UAE, 태국, 이집트, 카자흐스탄 및 기타 신흥 목적지에 혜택을 주며, 세계 관광 역학의 변화를 나타냅니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 관광 목적지로 언급되었고, 여행 트렌드 변화를 보여주므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Turkey Joins China, Saudi Arabia, UAE, Thailand, Egypt, Kazakhstan, And Other Emerging Destinations In Benefiting From The Sharp Rise In Outbound Travel From Uzbekistan, Signaling A Shift In Global Tourism Dynamics - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNcExyeFRyZG9NbUh5REpoN29VcWYzNjFKQ1lmRUVYemJxaktTLWd0cWM2UmVPQksya0lBc0UtZ21Xa3QyR2I5TUZ2dm4tN2RoWFBQMDRxVkxhWWdmREtqZ2dNUVRvSVpXTXU5dTBIMl9RbFRHejQwTW9mU00zQU5mc0xhMUVHNmRSNlBTMTlCcTZrZDZoTWFndGpVX0NSQW5xTVR2U0Y4QW5vREpheU9raVRDZzVLRURGZUlIdXJqb0xwNC15QVR5M3luRjgyc01YX1dkMERtUmZIa1l2aGIwNDBLX1VEbWxuX1FvMEFmcWJmaFhIbm1ESXY1ak9ubmczVERCZW9zV2lNbXpWVlJSQUZHOHNOYko3Nms5Zm9lTVFGZldZZmw2YnVzSy1SOTl5ZnRaeXNJMWk1dUJYajNpUS14QVZJb2N2OGotNmFGTERjTEdlcVg3aFBXWnE5YTA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-21"
     }
   ]
