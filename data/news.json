@@ -24592,14 +24592,9 @@
       "summary": "- 도이인타논 국립공원, 2월 22일 공식적인 여름 시작에도 불구하고 여전히 추운 날씨 유지.\n- 정상 기온 9도, 키우매판 10도, 공원 사무소 14도 기록. 관광객 꾸준히 방문.\n- 2월 23-25일 북부 지역에 여름 폭풍 예상. 기상청, 강풍과 우박 주의 당부.",
       "full_translated": "태국 북부 치앙마이의 도이인타논 국립공원은 2월 22일 공식적인 여름 시작을 앞두고 있지만, 여전히 추운 날씨를 유지하고 있습니다. 2월 20일 오전 9시 기준, 도이인타논 정상의 최저 기온은 9도, 키우매판은 10도, 국립공원 사무소는 14도로 측정되었습니다. 많은 관광객들이 시원한 공기를 즐기기 위해 방문하고 있습니다. 현재 날씨는 맑고 대기 질도 좋습니다. 국립공원 측은 전염병 예방을 위해 주요 지점에 소독제를 살포하고 있습니다.\n\n치앙마이 기상청은 2월 23일부터 25일까지 태국 북부 지역에 여름 폭풍이 발생할 것으로 예보했습니다. 강풍, 천둥, 번개, 우박 등이 예상되므로, 주민들은 안전에 유의해야 합니다. 서쪽에서 불어오는 바람이 북부와 북동부 지역을 지나면서 대기가 불안정해져 폭풍이 발생할 가능성이 높습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "도이인타논은 인기 관광지이므로 날씨 정보는 여행자에게 중요. 특히 여름 폭풍 예보는 안전에 영향을 미침.",
-      "event_info": {
-        "date": "2024-02-20",
-        "location": "도이인타논 국립공원",
-        "price": "국립공원 입장료",
-        "location_google_map_query": "Doi Inthanon National Park"
-      },
+      "event_info": "{'date': '2024-02-20', 'location': '도이인타논 국립공원', 'price': '국립공원 입장료', 'location_google_map_query': 'Doi Inthanon National Park'}",
       "references": [
         {
           "title": "ใกล้เข้าฤดูร้อน แต่ยอดดอยอินทนนท์ยังหนาว วัดได้ 9 องศาฯ นักท่องเที่ยวยังแน่น",
@@ -24610,21 +24605,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NeYF5wOLjpxe.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/local/north/2915346",
+      "source": ""
     },
     {
       "title": "태국 형사 법원, '암 시아나이드' 및 '아논 남파' 관련 2건의 중요 사건 판결 예정",
       "summary": "- 태국 형사 법원은 오늘 '암 시아나이드'와 '아논 남파' 관련 2건의 중요 사건에 대한 판결을 내릴 예정입니다.\n- '암 시아나이드'는 경찰 중령 니파 샌찬에게 시아나이드 독극물을 투여하여 살해한 혐의를 받고 있습니다.\n- 아논 남파는 왕실 모독죄로 기소되었습니다. 법원 판결에 관심이 집중되고 있습니다.",
       "full_translated": "2069년 2월 20일, 랏차다피섹 도로에 위치한 형사 법원은 '암 시아나이드'의 '사라랏 랑시우타폰'이 계획적으로 경찰 중령 니파 샌찬에게 음식 또는 음료에 독극물(시아나이드)을 투여하여 살해한 혐의와 '아논 남파'와 그의 일행의 왕실 모독죄 관련 2건의 사건에 대한 판결을 내릴 예정입니다. 오늘 아침 교도소 관계자들은 사라랏 랑시우타폰 또는 '암 시아나이드'를 813호 법정으로, 아논 남파를 801호 법정으로 이송했습니다. 재판은 오전 9시부터 시작될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "법원 판결 자체는 여행에 직접적인 영향은 적으나, 사회적 관심이 높은 사건이므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": "2069-02-20",
-        "location": "태국 형사 법원, 랏차다피섹 도로",
-        "price": "알 수 없음",
-        "location_google_map_query": "Ratchadaphisek Road Criminal Court Thailand"
-      },
+      "event_info": "{'date': '2069-02-20', 'location': '태국 형사 법원, 랏차다피섹 도로', 'price': '알 수 없음', 'location_google_map_query': 'Ratchadaphisek Road Criminal Court Thailand'}",
       "references": [
         {
           "title": "จับตา \"ศาลอาญา\" นัดตัดสิน 2 คดีสำคัญ \"แอม ไซยาไนด์ - อานนท์ นำภา\"",
@@ -24635,21 +24627,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NeOXmfon6NqE.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/crime/2915348",
+      "source": ""
     },
     {
       "title": "태국 전역의 모든 브랜드 차량을 관리하는 Toyota의 FIX FIT 서비스 센터",
       "summary": "- Toyota는 모든 브랜드의 차량을 관리하는 FIX FIT 서비스 센터 네트워크를 확장합니다.\n- FIX FIT은 엔진 오일 교환, 타이어, 배터리, 브레이크 등 기본적인 차량 유지 보수를 제공합니다.\n- 현재 태국 전역에 22개의 센터가 있으며 지속적으로 확장 중입니다.",
       "full_translated": "Toyota Motor Thailand는 Toyota 딜러 및 비즈니스 파트너와 협력하여 FIX FIT 서비스 센터 네트워크를 확장하고 있습니다. FIX FIT은 Easy & Quality Service를 목표로 하며 엔진 오일 교환, 타이어, 배터리, 브레이크, 서스펜션, 일반 수리와 같은 기본적인 차량 유지 보수를 제공합니다. 품질이 좋은 대체 부품과 숙련된 기술자 팀을 통해 서비스를 제공하며, 6개월 또는 10,000km의 수리 보증을 제공합니다. FIX FIT은 보증 기간이 만료된 고객에게 편리하고 비용 효율적이며 신뢰할 수 있는 품질의 서비스를 제공하는 것을 목표로 합니다. 현재 태국 전역에 22개의 서비스 센터가 있으며 지속적으로 네트워크를 확장하고 있습니다. 특별 혜택 및 프로모션으로는 특정 모델에 대해 10% 타이어 할인 또는 3개 구매 시 1개 무료 제공, 부품 및 화학 제품 최대 25% 할인, 최대 10개월 0% 할부 등이 있습니다. 2024년 1월~2월에 새로운 FIX FIT 5개 지점이 오픈했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 중 차량 문제가 발생했을 때 이용할 수 있는 서비스 센터 정보. 렌트카 이용객에게 유용할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "태국 전역",
-        "price": "정보 없음",
-        "location_google_map_query": "Toyota FIX FIT 서비스 센터"
-      },
+      "event_info": "{'date': None, 'location': '태국 전역', 'price': '정보 없음', 'location_google_map_query': 'Toyota FIX FIT 서비스 센터'}",
       "references": [
         {
           "title": "พาทัวร์ FIX FIT ศูนย์ซ่อมรถทางเลือกจาก Toyota ที่พร้อมดูแลรถยนต์ทุกยี่ห้อ",
@@ -24660,21 +24649,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MjKETWWgIVVK.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/auto/news/2915335",
+      "source": ""
     },
     {
       "title": "중국, 태국을 통한 러시아 드론 수출 증가",
       "summary": "- 중국 드론, 태국 경유 러시아로 수출되는 새로운 경로 발견됨.\n- 태국 회사 Skyhub Technologies Ltd가 주요 수입업체로 확인됨.\n- 태국-러시아 간 드론 거래는 합법적이나, 우크라이나 측에서 주시하고 있음.",
       "full_translated": "방콕 시내 Chartered Square 빌딩 30층에 위치한 Skyhub Technologies Ltd는 눈에 띄지 않지만 빠르게 성장하는 무역의 중심지 역할을 하고 있습니다. 서비스 제공업체에서 임대한 이 공간은 회사의 유일한 이사와 가끔 중국인들이 방문하는 것으로 알려졌습니다. 온라인 등록 문서에는 연락처가 나와 있지 않습니다. Bloomberg News가 1월 말 방문했을 때 아무도 만날 수 없었습니다. 겉으로는 활동이 없는 것처럼 보이지만, 이곳은 첨단 드론의 주요 통로입니다. 무역 문서에 따르면 Skyhub Technologies는 태국에서 두 번째로 큰 중국산 무인 항공기(UAV) 수입업체입니다. 태국으로 수입된 드론의 대부분이 러시아로 재수출되고 있지만, 이후의 행방은 기록되지 않고 있습니다. 태국은 지금까지 러시아로 가는 경로로 거의 주목받지 못했습니다. 그러나 태국 공식 무역 데이터 분석 결과, 블라디미르 푸틴 대통령이 우크라이나에 대한 전면 침공을 명령한 2022년 이후 태국의 러시아 드론 수출이 급증했으며, 이는 태국이 중국에서 수입하는 드론 수 증가와 밀접하게 관련되어 있습니다. 이러한 추세는 우크라이나 관리들에 의해 감지되었습니다. 베이징은 러시아를 군사적으로 지원하지 않는다고 밝혔지만, 중국산 기술이 러시아에서 발견되고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에는 직접적인 영향은 없으나, 국제 정세와 관련된 정보이므로 흥미로운 로컬 뉴스로 분류. 여행객 안전에 직접적인 위협은 아니므로 낮은 점수.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China’s drone exports to Russia use a new route through Thailand",
@@ -24685,21 +24671,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201334_260220093435_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201334/chinas-drone-exports-to-russia-use-a-new-route-through-thailand",
+      "source": ""
     },
     {
       "title": "태국 선거 투표용지 바코드 논란, 헌법 위반 지적",
       "summary": "- 니핏 전 문화부 장관, 투표용지 바코드의 위헌 소지 제기\n- 바코드로 유권자 추적 가능성, 비밀 투표 원칙에 어긋난다고 주장\n- 선거 무효화 가능성 언급하며 재선거 대비 자금 준비 촉구",
       "full_translated": "니핏 인트라솜밧 전 문화부 장관이자 민주당 법률 자문위원이 투표용지의 바코드 문제가 헌법에 위배된다고 지적했습니다. 그는 사무국 설명과 2006년 헌법재판소 판결을 인용하며 이 주장을 뒷받침했습니다. 니핏은 자신의 페이스북에 '비밀인가, 아닌가'라는 제목으로 글을 올려, 선거관리위원회의 바코드가 있는 투표용지가 유권자를 추적할 수 있다면 헌법 85조에 위배된다고 주장했습니다. 헌법 85조는 '다른 사람이 유권자가 어떻게 투표했는지 알 수 없도록 해야 한다'고 규정합니다. 그는 2006년 헌법재판소 판결을 언급하며 선거가 무효화될 경우 재선거를 준비해야 한다고 덧붙였습니다. 니핏은 자신이 최고 득표자라면 재선거를 위해 1억 바트를 준비하겠다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 내용이지만, 선거 관련 이슈는 여행에 직접적인 영향이 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“นิพิฏฐ์” ชี้ปมบัตรเลือกตั้งมีบาร์โค้ด “ไม่ลับ” ขัด รธน. แนะผู้สมัคร สส. หาเงินเตรียมเลือกตั้งใหม่",
@@ -24710,6 +24693,133 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NecGSh4grrBs.jpg",
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/politic/2915345",
+      "source": ""
+    },
+    {
+      "title": "학대받은 강아지 '몰리' 결국 사망: 솜방망이 처벌 우려",
+      "summary": "- 송클라에서 бензин 방화로 학대받은 강아지 '몰리'가 치료 중 사망.\n- 범인은 아직 잡히지 않아.\n- 동물 학대에 대한 강력한 처벌 촉구 여론 확산.",
+      "full_translated": "매우 슬픔, 주인이 여러 날 동안 상처의 독을 견디다 평화롭게 세상을 떠난 \"น้องมอลลี่(농 몰리)\"의 사망 원인을 밝힘. 한편 경찰은 범인을 체포하여 기소하는 데 속도를 내고 있습니다. 개 사이베리안 종, 이름 มอลลี่(몰리), 암컷, 2살이 성별과 나이를 알 수 없는 범인에 의해 길 한가운데서 학대를 당했는데, 개에게 휘발유를 붓고 불을 붙여 개 전체가 불길에 휩싸였습니다. 그 후 개는 불이 붙은 채로 집으로 도망쳐 심각한 부상을 입었고, 사건은 2026년 2월 14일 송클라주 므앙군 파웡구 쏘이 4 반램 콴 지역에서 발생했으며, เจ้ามอลลี่(짜오 몰리)는 송클라나카린 대학교 동물 병원 (머어) 클롱홍구, 핫야이군, 송클라주에서 치료를 받았습니다. 그 후 2026년 2월 19일, 사이베리안 개의 주인은 \"พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว(프라밧솜뎃프라와치라클라오차오유후아)께서 몰리를 왕실 후원하에 두시는 자비를 베푸셨습니다. 내일 (2월 20일) 왕실 비서관이 머어 동물 병원에서 몰리를 데려와 치료를 위해 방콕으로 보낼 것입니다. 가능한 최상의 치료를 받기 위해서입니다.\" 2026년 2월 20일 오전 07시 57분, 사이베리안 개의 주인이 슬픈 소식을 알리는 글을 게시했는데, \"RIP 천국으로 가세요, 내 사랑. 엄마가 너를 데리러 갈게\"라고 밝혔습니다. 이미 뉴스로 보도된 바와 같이 (\"농 몰리\" 사이베리안 개가 불에 타 죽음, 최근 개별로 돌아갔습니다). 최근, 솜차이 차나와노 씨 (52세)는 น้องมอลลี่(농 몰리)가 오늘 아침 6시에 여러 날 동안 상처의 독을 견디고 자신이 오기를 기다리는 듯 애썼지만 결국 혈류 감염 합병증과 내부 장기 부전으로 평화롭게 세상을 떠났다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물 학대 사건은 여행객에게 직접적인 위협은 아니지만, 사회적 분위기와 안전에 대한 간접적인 영향을 줄 수 있음. 특히 동물을 사랑하는 여행객에게는 중요한 정보.",
+      "event_info": {
+        "date": "2026-02-20",
+        "location": "송클라",
+        "price": null,
+        "location_google_map_query": "Songkhla"
+      },
+      "references": [
+        {
+          "title": "เจ้าของเศร้า เผยสาเหตุการตาย \"น้องมอลลี่\" หลังทนพิษบาดแผลมาหลายวัน ก่อนจากไปอย่างสงบ",
+          "url": "https://www.thairath.co.th/news/society/2915377",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76OABy0OPPgx7r.jpg"
+        }
+      ],
+      "collected_at": "12:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76OABy0OPPgx7r.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "“사이안화물 앰” 살인 사건, 법원 사형 선고 후 종신형으로 감형",
+      "summary": "- '사이안화물 앰'이 경찰 간부에게 독극물 투여한 혐의로 사형 선고를 받았으나 감형됨.\n- 법원은 계획적인 살인으로 판단, 피고인의 진술이 일부 도움이 되어 종신형으로 감형 결정.\n- 피해자 가족은 판결에 실망감을 표했으며, 경찰은 철저한 수사를 통해 사건의 진실을 밝힘.",
+      "full_translated": "방콕 형사 법원은 '사이안화물 앰'으로 알려진 사라랏 랑시우타폰에게 경찰 간부인 니파 센찬에게 사이안화물을 투여하여 살해한 혐의로 사형을 선고했습니다. 법원은 계획적인 살인으로 판단했으며, 피고인의 진술이 일부 도움이 되어 형을 감형하여 종신형을 선고했습니다. \n\n사건은 2023년 4월 1일에 발생했으며, 앰은 피해자에게 음식이나 음료에 사이안화물을 섞어 투여하여 살해한 혐의를 받고 있습니다. 범행 동기는 피해자에 대한 사기 범죄를 은폐하기 위한 것으로 밝혀졌습니다.\n\n법원의 판결 후 피해자의 가족들은 실망감을 감추지 못했습니다. 경찰은 철저한 수사를 통해 사건의 진실을 밝혀냈으며, 법원은 이를 근거로 유죄 판결을 내렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행자 안전에 직접적인 위협은 아니지만, 외국에서 발생한 범죄 사건에 대한 인지도를 높여 잠재적 위험에 대한 경각심을 주는 정보.",
+      "event_info": {
+        "date": "2023-02-20",
+        "location": "방콕 형사 법원",
+        "price": null,
+        "location_google_map_query": "방콕 형사 법원"
+      },
+      "references": [
+        {
+          "title": "ศาลพิพากษา ประหารชีวิต “แอม ไซยาไนด์” วางยา “สารวัตรปู” ลดโทษเหลือคุกตลอดชีวิต",
+          "url": "https://www.thairath.co.th/news/crime/2915373",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76OAaHd9x4n1uj.jpg"
+        }
+      ],
+      "collected_at": "12:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76OAaHd9x4n1uj.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "품차이타이, 쁘라차찻 당 의원 공개 지지, 5표 확보 확인. \"타위\"의 카오크라동 관련 업무 해명",
+      "summary": "- ภูมิใจไทย는 연립 정부에 참여하는 \"쁘라차찻당\"을 공개 지지\n- \"수카르노 마타\"는 5표 모두 당의 결의임을 확인\n- \"타위\"는 카오크라동 문제에 대해 당시 법무부 장관으로서의 직무를 수행했다고 해명",
+      "full_translated": "푸미짜이타이는 \"쁘라차찻당\"이 아누틴 찬위라꾼 총리 후보를 지지한다고 밝혔습니다. 수카르노 마타는 5표 모두 당의 결의에 따른 것이라고 확인했습니다. 타위는 카오크라동 문제에 대해 당시 법무부 장관으로서의 직무를 수행했다고 해명했습니다. 그는 정치를 스포츠에 비유하며 게임이 끝나면 친구가 될 수 있다고 말했습니다. 2069년 2월 20일 오전 10시 30분, 푸미짜이타이 당사에서 푸미짜이타이 대변인 난 부닛티다 솜차이는 현재 아누틴 찬위라꾼 총리 후보를 지지할 준비가 된 모든 국회의원을 보유한 정당이 있다고 말했습니다. 오늘 쁘라차찻당 사무총장이 푸미짜이타이 당에 아누틴을 총리로 지지하겠다는 의사를 표명하기 위해 왔습니다. 절차에 관해서는 선거관리위원회(꼬꼬따)의 승인을 기다려야 합니다. 그 후 다양한 문제에 대한 명확성이 있을 것입니다. 우선 명확하게 보이는 법적 절차를 따르도록 요청해야 합니다. 쁘라차찻당 사무총장 수카르노 마타는 푸미짜이타이 사무총장에게 당의 결의를 알리고 당 행정위원회(꼬꼬.버허.)에 알렸습니다. 쁘라차찻당이 푸미짜이타이당의 고위 인사들과 논의했기 때문에 논의 내용을 당 회의에서 발표하기로 결의했습니다. 쁘라차찻당은 당 행정위원회를 개최하여 쁘라차찻당의 5표 모두 아누틴을 총리로 지지하고 푸미짜이타이가 정부를 구성하는 데 협력할 준비가 되어 있다는 만장일치 결의를 했습니다. 공동 정부 당으로서 푸미짜이타이와 협력할 준비가 되어 있습니다. 쁘라차찻당의 결정은 당의 결의에 따른 결정입니다. 결의가 만장일치로 내려졌으므로 쁘라차찻당의 5표가 아누틴을 총리로 지지합니다. 저는 당의 결의이므로 당 대표 타위 소드송 경찰 대령을 믿어야 한다고 믿습니다. 그는 오늘 여기에 오지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "단순 정치 관련 뉴스이므로 낮은 점수 부여. 여행객에게 직접적인 영향은 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ภท. เปิดตัว สส.พรรคประชาชาติ ยัน 5 เสียงมาหมด แจง “ทวี” ทำตามหน้าที่เรื่องเขากระโดง",
+          "url": "https://www.thairath.co.th/news/politic/2915384",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76O2l5IRXbkZIu.jpg"
+        }
+      ],
+      "collected_at": "12:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76O2l5IRXbkZIu.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국, 부패 혐의로 전직 경찰관 3명의 계급 박탈 및 훈장 회수",
+      "summary": "- 태국 왕실 관보, 전직 경찰관 3명의 계급 박탈 및 훈장 회수 발표.\n- 2016년부터 2021년 사이 중대한 규율 위반으로 해고된 경찰관들.\n- 관련 법규에 따라 계급 박탈 및 훈장 회수 결정.",
+      "full_translated": "태국 왕실 관보에 따르면, 3명의 전직 경찰관이 계급 박탈 및 훈장 회수 처분을 받았습니다. \n\n2024년 2월 20일 왕실 관보는 총리실의 발표를 인용하여 3명의 전직 경찰관에 대한 계급 박탈 및 훈장 회수 조치를 발표했습니다. 이는 2025년 국가 경찰법 58조 및 2025년 경찰 계급 박탈 규정 4(4)항에 따른 것입니다. 또한, 2048년 총리실 규정 6조 및 7(4)항에 따라 훈장 회수 조치가 이루어졌습니다.\n\n계급 박탈 대상자는 다음과 같습니다:\n\n1.  경찰 중령 우텐 탁시노: 2016년 11월 7일부로 계급 박탈. 중대한 규율 위반으로 해고되었으며, 1등 태국 코끼리 훈장, 3등 태국 왕관 훈장, 4등 태국 코끼리 훈장 회수.\n2.  경찰 대위 와수왓 또는 파융삭 티라메타세트 또는 솜로이크라이소라킷: 2020년 8월 25일부로 계급 박탈. 중대한 규율 위반으로 해고되었으며, 4등 태국 왕관 훈장, 금 코끼리 훈장 및 차크라 말라 훈장 회수.\n3.  경찰 중위 판야와치라 찬다: 2021년 11월 4일부로 계급 박탈. 중대한 규율 위반으로 해고되었으며, 훈장 회수.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에는 직접적인 영향은 없으나, 태국의 공직 사회 관련 뉴스이므로 간략히 요약. 과거 비리 관련 내용이므로 업데이트로 간주하지 않음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "โปรดเกล้าฯ ให้ถอดยศ 3 นายตำรวจและเรียกคืนเครื่องราชอิสริยาภรณ์",
+          "url": "https://www.thairath.co.th/news/politic/2915378",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76N9oTCW34imt4.jpg"
+        }
+      ],
+      "collected_at": "12:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76N9oTCW34imt4.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "영국 청년 실업률 사상 최고치 기록",
+      "summary": "- 영국 청년 실업률이 2025년 마지막 분기에 16.1%로 사상 최고치를 기록했습니다.\n- 노동 세금 인상과 최저 임금 인상이 주요 원인으로 분석됩니다.\n- 영국 청년 45%는 교육, 고용, 훈련 시스템에 참여하지 못하고 뒤쳐질 위험에 처해있습니다.",
+      "full_translated": "영국 청년 실업률이 사상 최고치를 기록했습니다. 2025년 마지막 분기에 16.1%까지 상승했으며, 이는 '실업 세대'의 도래를 알리는 신호탄입니다. 영국 통계청에 따르면 이는 노동 세금 인상과 최저 임금 인상의 결과로 분석됩니다. 레스토랑과 상점들은 청년 고용 비용이 너무 높다고 불만을 토로하고 있으며, 전문가들은 정부의 최저 임금 인상 시도가 고용 시장을 더욱 악화시킬 것이라고 경고합니다. Resolution Foundation은 영국이 유럽 국가 평균 실업률 14.9%를 넘어선 최초의 국가라고 밝혔습니다. 노동조합 대표는 현재 교육 시스템에 속하지 않고 고용되지 않았으며, 고용 경험이 없는 24세 미만 영국 청년 45%가 정부의 무능함으로 인해 뒤쳐질 것이라고 경고했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 세계 경제 상황에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "วัยรุ่นชาวอังกฤษส่อเเววตกงานมากเป็นประวัติการณ์",
+          "url": "https://www.thairath.co.th/news/foreign/2915375",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76N90FYUx3SoF8.jpg"
+        }
+      ],
+      "collected_at": "12:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76N90FYUx3SoF8.jpg",
       "date": "2026-02-20"
     }
   ]
