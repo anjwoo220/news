@@ -25977,14 +25977,9 @@
       "summary": "- 태국 기상청은 2월 23일부터 25일까지 전국적으로 여름 폭풍이 예상된다고 경고했습니다.\n- 중국발 한랭 기류가 태국으로 이동하면서 고온다습한 공기와 만나 뇌우를 유발할 것으로 예상됩니다.\n- 강풍, 번개, 짧은 시간 동안의 폭우에 대비하고, 농작물 피해 예방에 주의해야 합니다.",
       "full_translated": "태국 – 태국 기상청(TMD)은 전국적으로 불안정한 기상 조건이 발달함에 따라 2월 23일에서 25일 사이에 여름 폭풍이 예상된다고 경고했습니다. 중국에서 오는 새로운 한랭 기류가 태국으로 이동하여 지배적인 고온 다습한 공기와 상호 작용하여 여러 지역에서 뇌우를 유발할 것으로 예상됩니다. 폭풍은 강풍, 번개, 짧은 시간 동안의 폭우를 동반할 것으로 예상됩니다. 강우량은 전국적으로 증가할 것으로 예상되며, 2월 24일에 광범위한 소나기가 예상되고 폭풍 활동이 2월 26일까지 계속될 수 있습니다. 주민들은 폭풍 중 예방 조치를 취하고, 개방된 장소를 피하고, 강풍에 무너질 수 있는 불안정한 구조물이나 광고판을 멀리해야 합니다. 농부들은 잠재적인 피해로부터 작물을 보호해야 합니다. TMD는 실시간 정보를 위해 공식 날씨 업데이트를 면밀히 따르도록 권장합니다. 강우량 증가는 대기 오염을 완화하고 PM2.5 수치를 낮추는 데 도움이 될 것으로 예상됩니다. 한랭 기단이 약화되어 멀어지면 태국은 본격적으로 여름 시즌에 접어들 것으로 예상되며, 치앙마이, 람팡, 매홍손과 같은 분지 지역에서는 열이 더 강하게 축적될 수 있는 더 높은 온도가 예상됩니다. 앞의 내용은 태국 정부 홍보부의 보도 자료입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행자 안전에 직접적인 영향을 미칠 수 있는 기상 악화 예보. 특히 야외 활동 시 주의가 필요하며, 항공편 및 교통편 지연 가능성도 고려해야 함. 일일 브리핑 성격.",
-      "event_info": {
-        "date": "2024-02-23",
-        "location": "전국",
-        "price": null,
-        "location_google_map_query": "Thailand"
-      },
+      "event_info": "{'date': '2024-02-23', 'location': '전국', 'price': None, 'location_google_map_query': 'Thailand'}",
       "references": [
         {
           "title": "Thai Meteorological Department Warns of Summer Storms Across Thailand",
@@ -25995,21 +25990,18 @@
       ],
       "collected_at": "23:27",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/378960893_607991941542840_8461213119965799631_n-2.jpg?v=1771601227",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/20/thai-meteorological-department-warns-of-summer-storms-across-thailand/",
+      "source": ""
     },
     {
       "title": "태국, 총기 규제 강화 및 공공장소 휴대 금지",
       "summary": "- 태국 정부는 전국적인 총기 소지 허가 규제를 강화하고 공공장소 휴대 허가를 중단했습니다.\n- 정당한 사유 없이 공공장소에서 총기를 소지할 경우 최대 5년의 징역형을 받을 수 있습니다.\n- Anutin Charnvirakul 총리 대행은 당국에 총기 규제를 엄격히 시행하고 전체 규제 시스템을 검토하도록 지시했습니다.",
       "full_translated": "방콕 – 2월 19일, 정부는 전국적인 총기 소지 허가 규제를 강화하고 공공장소 휴대 허가를 중단했으며, 정당한 사유 없이 공공장소에서 총기를 소지할 경우 최대 5년의 징역형을 받을 수 있다고 경고했습니다. 2월 19일, Anutin Charnvirakul 총리 대행 겸 내무부 장관은 당국에 총기 규제를 엄격히 시행하고 전체 규제 시스템을 검토하도록 지시했습니다. 내무부 산하 지방 행정부는 공공 안전을 강화하고 재산을 보호하기 위해 모든 차원에서 총기 규제 조치를 강화하라는 긴급 지시를 전국 행정 공무원에게 내렸습니다.\n\n명령에 따라: \"정부는 정당한 사유 없이 도시, 마을 또는 공공장소에 총기를 반입하는 것은 형법 371조 및 총기법 B.E. 2490 (1947) 8조에 위반되는 행위임을 재차 강조합니다.\"라고 성명은 밝혔습니다. 총기 소지 및 사용 허가(Por.4)를 받은 사람이라도 공공장소에서 휴대할 권리가 없으며, 긴급한 필요가 있는 경우를 제외하고는 생명과 재산 보호를 위해 자택에 보관해야 합니다. 법률 72조 2항에 따라 위반 시 최대 5년의 징역, 최대 10,000바트의 벌금 또는 둘 다에 처해질 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "총기 규제 강화는 여행객 안전에 간접적인 영향을 미칠 수 있으므로 관련 정보를 제공함. 기존에 총기 관련 뉴스가 없었으므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Tightens Gun Licences, Public Carry Ban",
@@ -26020,21 +26012,18 @@
       ],
       "collected_at": "23:27",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thailand-Tightens-Gun-Licences-Public-Carry-Ban.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.khaosodenglish.com/news/2026/02/20/thailand-tightens-gun-licences-public-carry-ban/",
+      "source": ""
     },
     {
       "title": "파타야 경찰, 센트럴 파타야에서 총기 난사 대비 훈련 실시",
       "summary": "- 파타야 경찰이 센트럴 파타야에서 총기 난사 상황을 가정한 훈련을 실시하여 안전 의식을 높였습니다.\n- 촌부리 지방 경찰 사령관 등이 참여하여 여러 기관과 협력했습니다.\n- 쇼핑객과 직원의 사상자를 가정한 고위험 시나리오로 진행되었습니다.",
       "full_translated": "파타야 경찰은 안전을 강화하기 위해 센트럴 파타야에서 실제 총격범 훈련을 실시했습니다. Nantawut Suwannalaong 지방 경찰청 부사령관은 촌부리 지방 경찰청 사령관 Phongphan Wongmanithet, 파타야 시 경찰서장 Anek Sarathongyu와 함께 훈련을 진행했습니다. 그들은 훈련을 수행하기 위해 여러 기관의 담당자들과 협력했습니다. 몰이 열리기 몇 시간 전에 실시된 훈련은 무장한 용의자 2명이 몰에 들어가 무차별 총격을 가하고 금은방을 털고 출동한 경찰과 총격전을 벌이는 고위험 사건을 모의로 진행했습니다. 이 시나리오는 폭발 장치와 유사한 의심스러운 물체의 발견으로 확대되어 쇼핑객과 직원들 사이에서 사상자가 발생했습니다. 경찰은 신속하게 해당 지역을 봉쇄하고 상황을 통제하고 부상자에게 의료 지원을 제공하고 폭발물 처리반(EOD)과 협력하여 엄격한 안전 프로토콜에 따라 의심되는 폭탄 위협을 검사하고 무력화했습니다. 훈련의 핵심 요소에는 기관 간 통합 명령 및 통신, 고위험 구역 확보, 사상자 분류, 민간인 안전 대피, 주변 지역의 교통 관리 등이 포함되었습니다. 이번 훈련은 신속한 대응을 보장하고 잠재적 손실을 최소화하며 주민과 방문객의 공공 신뢰를 구축하는 것을 목표로 했습니다. 참여 부대는 파타야 시 경찰서, 파타야 시 행정부, Sawang Boriboon 재단 등이었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 발생할 수 있는 테러 또는 총기 난사 사건에 대비한 훈련으로, 여행객 안전에 대한 인식을 높이고 관련 정보를 제공하여 안전을 확보할 수 있도록 함. 실제 사건은 아니지만, 유사시 대처 능력을 보여주는 훈련이므로 정보로서 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "센트럴 파타야",
-        "price": null,
-        "location_google_map_query": "센트럴 파타야"
-      },
+      "event_info": "{'date': None, 'location': '센트럴 파타야', 'price': None, 'location_google_map_query': '센트럴 파타야'}",
       "references": [
         {
           "title": "Pattaya Police Conduct Active Shooter Drill at Central Pattaya to Boost Safety",
@@ -26045,21 +26034,18 @@
       ],
       "collected_at": "23:27",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771597639682669498425665815841.jpg?v=1771597760",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/20/pattaya-police-conduct-active-shooter-drill-at-central-pattaya-to-boost-safety/",
+      "source": ""
     },
     {
       "title": "태국 SEC, Bitazza에 대한 형사 고발 제기",
       "summary": "- 태국 증권거래위원회(SEC)가 Bitazza Co Ltd와 임원 2명에 대해 형사 고발을 제기함.\n- 허가 없이 디지털 자산 거래소를 운영한 혐의.\n- Bitazza Global과 Bitazza Thailand 웹사이트 및 앱을 통해 플랫폼 접근 제공.",
       "full_translated": "태국 증권거래위원회(SEC)가 Bitazza Co Ltd, 관련 회사 및 임원 2명에 대해 허가 없이 디지털 자산 거래소를 운영한 혐의로 형사 고발을 제기했습니다. 고발 대상에는 Bitazza International Ltd (Bitazza Global), Bitazza Co Ltd, Kavin Phongpandecha (Bitazza Thailand의 공동 창립자 겸 전 최고 경영자), Tanawat Sutuntivorakoon (현재 CEO)이 포함되었습니다. SEC는 Bitazza Global과 태국에서 디지털 자산 브로커로 허가받은 Bitazza가 공동으로 디지털 자산 거래 또는 교환 플랫폼을 제공하고 거래 수수료를 징수했다고 밝혔습니다. 이 플랫폼은 2023년 5월 Bitazza의 소셜 미디어 채널을 통해 태국에서 홍보되었으며, 특히 태국 거주자를 대상으로 했습니다. Bitazza Global과 고객 간의 조건은 태국 정부 당국을 참조했습니다. Bitazza Global에 대한 접근은 Bitazza의 태국 웹사이트 및 모바일 애플리케이션을 통해 가능했습니다. 이러한 채널을 통해 등록하는 고객은 추가 신원 확인 없이 자동으로 Bitazza Global 계정 보유자로 취급되었습니다. 또한 Bitazza는 Bitazza Global에 주요 운영 시스템을 제공한 것으로 밝혀졌습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "암호화폐 관련 투자 주의 필요. 거래소 이용 시 확인 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "SEC files criminal complaint against Bitazza",
@@ -26070,21 +26056,18 @@
       ],
       "collected_at": "23:27",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201704_260220195730_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201704/sec-files-criminal-complaint-against-bitazza",
+      "source": ""
     },
     {
       "title": "미국 대법원, 트럼프의 글로벌 관세 조치 폐지 판결",
       "summary": "- 미국 대법원이 트럼프 전 대통령의 글로벌 관세 부과 조치를 위법으로 판결했습니다.\n- 법원은 트럼프 행정부가 의회 승인 없이 비상 권한을 남용했다고 밝혔습니다.\n- 이번 판결은 미국의 무역 정책에 큰 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "미국 대법원이 도널드 트럼프 대통령이 발표한 전 세계 상품에 대한 수입 관세 인상을 취소하는 판결을 내렸습니다. 백악관이 의회의 승인을 우회하기 위해 1977년 비상 법률에 따른 권한을 행사한 후 나온 결정입니다. 그러나 세금이 환급될지는 아직 불확실합니다. 2069년 2월 20일, 미국 대법원은 도널드 트럼프 대통령이 발표한 전 세계 상품에 대한 수입 관세 인상을 취소하라는 판결을 내렸습니다. 법원은 의회의 승인을 구하지 않고 비상 상황법에 따라 권한을 사용하는 것이 범위를 넘어선다고 지적했습니다. 트럼프의 관세 조치는 작년에 많은 국가에 대해 발표되었으며, 트럼프는 이를 미국 내 생산 부문을 보호하고 장려하기 위한 것이라고 설명했습니다. 그러나 정부는 의회에 법안을 제출하는 대신 '국제 비상 경제 권한법 1977'에 따라 권한을 행사했습니다. 비상사태를 선포함으로써 행정부는 입법부의 승인 없이 즉시 명령을 내릴 수 있었습니다. 앞서 2068년 8월 미국 항소법원은 트럼프 대통령의 대부분의 관세 조치가 불법이라고 판결했지만 임시로 효력을 유지했습니다. 이후 백악관은 대법원에 항소법원의 판결을 검토하고 번복해 달라는 청원서를 제출하여 대법원이 이 사건에 관여하게 되었습니다. 이번 판결은 트럼프 행정부의 무역 정책에 큰 영향을 미치며, 앞으로 미국과 교역국 간의 무역 관계 방향에 영향을 미칠 수 있습니다. 판결의 자세한 내용은 추가 검토 중입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "미국 정책 변화에 대한 뉴스이지만, 태국 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ศาลสูงสหรัฐฯ สั่งยกเลิกมาตรการภาษีทั่วโลกของ \"โดนัลด์ ทรัมป์\" ชี้ใช้อำนาจฉุกเฉินเกินขอบเขต",
@@ -26095,7 +26078,134 @@
       ],
       "collected_at": "23:27",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F8uxpgUiqdnBU.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/foreign/2915517",
+      "source": ""
+    }
+  ],
+  "2026-02-21": [
+    {
+      "title": "파타야 북부, 36세 태국 남성, 관광버스 충돌 사고로 사망",
+      "summary": "- 파타야-나클루아 도로에서 오토바이 사고 발생, 36세 남성 사망\n- 관광버스 운전자는 관광객 하차를 위해 이동 중이었으며, 오토바이가 갑자기 나타난 보행자를 피하려다 사고 발생했다고 진술\n- 경찰은 정확한 사고 원인을 조사 중",
+      "full_translated": "2026년 2월 18일 밤 10시 20분경, 파타야-나클루아 도로 무앙 파타야 9 학교 앞에서 사고가 발생했습니다. 파타야 시 경찰서의 치와팟 차이아칸 부국장은 관광버스와 오토바이의 충돌로 인해 오토바이 운전자가 중상을 입었다는 신고를 받았습니다. 경찰은 즉시 구조대와 의료팀을 현장에 급파했습니다. 현장에서는 흰색과 녹색의 혼다 드림 오토바이가 도로 중앙에 전복되어 있었고, 오토바이 앞부분은 심하게 파손되어 잔해가 도로에 흩어져 있었습니다. 근처에는 의식을 잃은 36세의 Worakorn Bandasak 씨가 쓰러져 있었습니다. 구조대원들은 응급 처치를 실시하며 인근 병원으로 이송했지만, 그는 곧 사망했습니다. 사고에 연루된 다른 차량은 방콕 번호판 32-8123번의 흰색 Sunlong 관광버스였습니다. 버스 오른쪽 앞 범퍼가 손상되고 헤드라이트가 깨져 충격의 흔적을 보여주었습니다. 63세의 운전사 Sangwian Rakkhao 씨는 현장에 남아 경찰에 협조했습니다. Sangwian 씨에 따르면, 그는 관광객을 내려주기 위해 나클루아 방향으로 운전하던 중 파타야 반대 방향으로 향하는 오토바이를 만났습니다. 동시에 한 여성이 갑자기 길을 건너려고 했다고 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 발생한 교통사고로, 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "Pattaya–Na Kluea Road in front of Muang Pattaya 9 School",
+        "price": null,
+        "location_google_map_query": "Muang Pattaya 9 School"
+      },
+      "references": [
+        {
+          "title": "36-Year-Old Thai Man Dies After Crashing Into Tour Bus in North Pattaya, Rider Was Reportedly Trying to Avoid Sudden Jaywalker",
+          "url": "https://thepattayanews.com/2026/02/20/36-year-old-thai-man-dies-after-crashing-into-tour-bus-rider-was-reportedly-trying-to-avoid-sudden-jaywalker/",
+          "source": "The Pattaya News"
+        }
+      ],
+      "collected_at": "00:06",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "파타야 콘도에서 ASOS 공동 창업자 사망: 추락사",
+      "summary": "- 영국 온라인 패션 소매업체 ASOS의 공동 창업자 퀜틴 그리피스가 파타야 콘도에서 추락사.\n- 경찰 조사 결과 타살 혐의는 없으며, 자살 가능성에 무게.\n- CCTV 확인 결과, 사건 당시 그리피스의 방에 출입한 사람은 없는 것으로 확인.",
+      "full_translated": "태국 파타야 – 세계적인 온라인 패션 소매업체 ASOS의 공동 창업자인 58세의 영국인 퀜틴 그리피스가 이번 달 초 태국 파타야의 콘도 17층에서 추락하여 사망했습니다. 태국 경찰은 영국 국적의 그리피스가 2월 9일 해변 휴양 도시의 그의 거주지 발코니 아래에서 사망한 채 발견되었다고 확인했습니다. 당국은 사건 신고를 받고 현장에 출동하여 수사를 통해 사망자를 확인했습니다. 원래 이 사건은 영국 언론이 피해자의 신원을 파악하기 전까지는 현지 언론에서 거의 보도되지 않았습니다.\n\n발견 후 실시된 부검 결과, 폭행을 암시하는 외부 상해나 범죄의 징후는 발견되지 않았다고 태국 언론에 보도된 경찰 성명에서 밝혔습니다. 초기 조사에 따르면 추락은 자해로 인한 것으로 보이지만 정확한 상황은 아직 조사 중입니다. 그의 스위트룸 문은 이중 잠금장치로 내부에서 잠겨 있었던 것으로 알려져 있으며, 그가 당시 혼자였다는 것을 뒷받침합니다. 태국 경찰은 콘도 CCTV 영상에서 해당 기간 동안 그리피스의 방에 출입한 사람은 아무도 없다고 밝혔습니다.\n\n그리피스는 2000년 닉 로버트슨 등과 함께 ASOS를 공동 창업했으며, 2003년 리브랜딩하기 전에는 원래 'As Seen on Screen'으로 출시했습니다. 이 회사는 세계적인 패스트 패션 전자 상거래 플랫폼 중 하나로 성장했습니다. 그는 2005년에 사업을 떠났지만 상당한 지분을 유지했습니다. ASOS를 떠난 후 그리피스는 다른 사업을 추구했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 발생한 외국인 사망 사건으로, 여행객 안전에 대한 인식을 높일 필요가 있음. 다만, 사건 자체가 여행객에게 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2024-02-09",
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야 콘도"
+      },
+      "references": [
+        {
+          "title": "British Co Founder of Global Online Fashion Retailer ASOS Dies in Condominium Fall in Pattaya",
+          "url": "https://thepattayanews.com/2026/02/20/british-co-founder-of-global-online-fashion-retailer-asos-dies-in-condominium-fall-in-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260220_1945084759204365497646082.jpg?v=1771591530"
+        }
+      ],
+      "collected_at": "00:06",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260220_1945084759204365497646082.jpg?v=1771591530",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "촌부리 사립대학, 등록금 미납 문제로 졸업장 발급 거부. 전 부학감 고소.",
+      "summary": "- 촌부리 소재 사립대학에서 등록금 납부 내역이 확인되지 않아 학생에게 졸업장 발급을 거부함.\n- 25세 Miriam은 부학감이 제공한 계좌로 등록금을 납부했으나 학교 시스템에 기록되지 않음.\n- 대학 측은 해당 부학감을 고소하고 피해 학생들을 돕고 있다고 밝힘.",
+      "full_translated": "촌부리 – 2026년 2월 20일, 촌부리 지방의 한 직업 전문 대학이 10명 이상의 학생들이 등록금 납부 내역이 학교 공식 재무 시스템에 나타나지 않았다고 보고한 후 전 부학감을 상대로 법적 조치를 취하고 있습니다. 피해 학생 중 한 명인 Miriam(25세)은 방라뭉 지역의 농프루 경찰서에 신고했습니다. 그녀는 2021년에 이 대학에 입학하여 2024년에 외국어 직업 프로그램을 마쳤다고 말했습니다. 그녀의 진술에 따르면 마지막 학기 동안 그녀는 등록금을 당시 재정 문제를 담당했던 부학감이 제공한 은행 계좌로 이체했습니다. 그녀는 합법적으로 보이는 영수증을 받았다고 말했습니다. 학업을 마친 후 대학은 그녀의 등록금이 공식 시스템에 기록되지 않았고 22,000바트를 여전히 빚지고 있다고 말하며 졸업장 발급을 거부했습니다. 나중에 영수증을 제시했을 때 대학은 해당 문서가 공식 시스템에서 인정되지 않으며 위조된 것으로 추정된다고 알렸습니다. 전 부학감은 이후 사임했습니다. 10명 이상의 학생들이 유사한 문제를 겪었지만, 많은 학생들이 이후 문제를 해결하고 졸업장을 받았습니다. 대학의 한 고위 학술 관계자는 문제를 인정하고 학교가 전 부학감을 상대로 법적 조치를 취하고 있다고 말했습니다. 대학은 누락된 자금을 회수하는 데 피해 학생들을 돕고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 태국 내 교육기관 관련 사건이므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리",
+        "price": null,
+        "location_google_map_query": "촌부리"
+      },
+      "references": [
+        {
+          "title": "Student denied diploma after tuition payments not reflected in college system",
+          "url": "https://www.khaosodenglish.com/news/2026/02/20/student-denied-diploma-after-tuition-payments-not-reflected-in-college-system/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/miriam-1.jpg"
+        }
+      ],
+      "collected_at": "00:06",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/miriam-1.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "플로리다, 팜비치 공항 이름 '도널드 트럼프 공항'으로 변경 승인",
+      "summary": "- 플로리다 주의회, 팜비치 국제공항 명칭 변경안 통과. 공화당은 찬성, 민주당은 반대.\n- 명칭 변경 법안은 현재 주지사의 승인을 기다리는 중.\n- 트럼프 대통령 기념 도서관 건설 계획과 연관되어 추진.",
+      "full_translated": "플로리다 주 의원들은 팜비치 국제공항의 이름을 도널드 트럼프 공항으로 바꾸는 것을 승인했습니다. 공화당 의원들은 찬성표를 던졌고, 민주당 의원들은 반대했습니다. 어제(2월 19일) 팜비치 국제공항을 도널드 트럼프 국제공항으로 변경하는 법안이 플로리다 주의회에서 상원 25대 11, 하원 81대 30으로 통과되었습니다. 공화당 의원들은 이 법안을 지지했고, 민주당 의원들은 반대했습니다. 웨스트팜비치 지역구의 민주당 로이스 프랭클 하원의원은 공화당이 장악한 플로리다 주의회가 공항 이름 변경을 추진하는 것은 국민의 반대를 무시하고 팜비치 카운티 주민들이 이 중대한 변화에 대해 의견을 제시할 기회를 주지 않는 것은 잘못되고 불공정하다고 말했습니다. 다음 단계로 이 법안은 공화당 소속의 론 드산티스 플로리다 주지사에게 보내질 것이며, 그는 이 법안에 서명할지 여부를 아직 밝히지 않았습니다. 주지사실, 백악관, 팜비치 카운티 대변인, 트럼프 재단은 모두 논평을 거부했습니다. 트럼프 대통령의 이름을 딴 공항 이름 변경 추진은 플로리다주가 작년에 마이애미 시내에 트럼프 대통령 기념 도서관 건설 부지로 기부하는 계획을 승인한 후에 시작되었습니다. 도널드 트럼프 대통령은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "미국 플로리다 주의 공항 이름 변경에 대한 내용으로, 태국 여행객에게 직접적인 영향은 없다고 판단됨. 다만 국제적인 정치적 이슈에 대한 정보 제공 차원에서 낮은 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัฐฟลอริดาไฟเขียว เปลี่ยนชื่อสนามบินปาล์มบีชเป็น สนามบิน “โดนัลด์ ทรัมป์”",
+          "url": "https://www.thairath.co.th/news/foreign/2915467",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWCYhIPJWGWF3.jpg"
+        }
+      ],
+      "collected_at": "00:06",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWCYhIPJWGWF3.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 가짜 뉴스 센터, '매낙' 설화 캄보디아 기원설 반박",
+      "summary": "- 태국 가짜 뉴스 센터는 '매낙' 설화가 캄보디아에서 유래했다는 주장은 거짓이라고 밝혔습니다.\n- 문화부 산하 예술국 확인 결과, 해당 주장을 뒷받침할 근거는 없는 것으로 확인되었습니다.\n- '매낙' 설화는 태국 프라카농 지역과 관련된 태국 고유의 민속 설화로 오랫동안 기록되어 왔습니다.",
+      "full_translated": "태국 — 2026년 2월 20일 — 태국 가짜 뉴스 센터는 온라인에서 떠도는 '매낙'이 원래 '매낙 바탐방'이라는 이름으로 캄보디아 민속 설화라는 주장이 거짓이라고 밝혔습니다. 문화부 산하 예술국의 확인을 인용했습니다. 당국은 학술 자료와 신뢰할 수 있는 문화 매체를 검토한 결과, '매낙'이 캄보디아 민담이거나 원래 '매낙 바탐방'으로 알려졌다는 주장을 뒷받침하는 증거를 찾지 못했습니다. 매낙 프라카농의 전설은 오랫동안 방콕의 프라카농 지역과 관련된 태국 민속의 일부로 기록되고 인정되었습니다. 이 이야기는 태국 문학, 영화 및 민속 연구에 두드러지게 등장했습니다. 대조적으로 국제 학술 자료와 캄보디아 문화 문서는 주장된 이름이나 온라인에 인용된 맥락에서 해당 전설을 언급하지 않습니다. 태국 가짜 뉴스 센터는 매낙 이야기가 캄보디아에서 시작되어 나중에 '매낙 바탐방'으로 리브랜딩되었다는 주장을 뒷받침할 구체적인 역사적 또는 민속적 증거가 없다고 밝혔습니다. 그들은 게시물에 검증 가능한 학술 참고 문헌이 부족하고 문화적 문제에 대한 오해를 일으킬 수 있다고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 문화 관련 정보이지만, 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "The Anti-Fake News Center debunks Mae Nak Cambodia claim",
+          "url": "https://www.khaosodenglish.com/news/2026/02/20/the-anti-fake-news-center-debunks-mae-nak-cambodia-claim/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/The-Anti-Fake-News-Center-debunks-Mae-Nak-Cambodia-claim.jpg"
+        }
+      ],
+      "collected_at": "00:06",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/The-Anti-Fake-News-Center-debunks-Mae-Nak-Cambodia-claim.jpg",
+      "date": "2026-02-21"
     }
   ]
 }
