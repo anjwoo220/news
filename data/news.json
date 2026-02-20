@@ -25867,14 +25867,9 @@
       "summary": "- 세계적인 의류 브랜드 Asos의 공동 창업자 퀀틴 그리피스가 파타야의 고층 건물에서 추락하여 사망했습니다.\n- 경찰은 외부 침입 흔적이 없고, 방이 안에서 잠겨 있었다고 밝혔습니다.\n- 사망자는 두 건의 소송을 진행 중이었으며, 이로 인한 스트레스가 있었을 가능성이 제기되었습니다.",
       "full_translated": "세계적인 온라인 패션 브랜드 'Asos'의 공동 창업자인 퀀틴 그리피스가 파타야의 고층 건물에서 추락하여 사망했습니다. 경찰은 방이 안에서 잠겨 있었고 외부 침입 흔적이 없다고 밝혔습니다. 2069년 2월 20일, BBC 뉴스 웹사이트는 퀀틴 그리피스가 2월 9일 촌부리주 파타야에서 고층 건물에서 추락하여 사망했다고 보도했습니다. 관계자는 사망자가 영국 여권을 소지하고 있었으며, 17층 스위트룸에 장기 투숙한 고급 호텔 외부에서 발견되었다고 밝혔습니다. 수사관은 BBC에 그리피스가 혼자 있었고, 방은 안에서 잠겨 있었으며, 강제 침입이나 침입 흔적이 없었다고 말했습니다. 부검 결과 범죄 혐의를 시사하는 증거는 발견되지 않았습니다. 파타야 경찰은 사망자가 두 건의 소송을 진행 중이었으며, 이로 인해 스트레스가 발생했을 수 있다고 밝혔습니다. 또한 태국인인 두 번째 아내와 별거했으며, 공동 사업에 대한 법적 분쟁이 진행 중인 것으로 알려졌습니다. 현재 당국은 공식 수사 보고서를 마무리하고 있습니다. 최근 영국 외무부 대변인은 당국이 이 영국 시민의 가족을 지원하고 있으며 태국 현지 당국과 협력하고 있다고 밝혔습니다. 보고서에 따르면 그리피스는 2043년 닉 로버트슨, 앤드루 리건, 데보라 소프와 함께 런던에서 ASOS를 공동 설립했으며 5년 후 회사를 떠났지만 여전히 상당한 지분을 보유하고 있습니다. 브랜드 이름 ASOS는 원래 \"As Seen On Screen\"의 약자로 영화 및 TV 스타의 패션에서 영감을 받은 의류를 판매했기 때문입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 유명 인사의 사망 사건 발생. 여행객 안전에 대한 간접적인 영향 가능성 존재. 이미 파타야 관련 뉴스가 게시되었으나 새로운 정보이므로 포함.",
-      "event_info": {
-        "date": "2069-02-09",
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2069-02-09', 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "ผู้ร่วมก่อตั้ง Asos แบรนด์เสื้อผ้าระดับโลก เสียชีวิต หลังตกคอนโดฯ พัทยา ตร.ชี้ไม่พบร่องรอยฆาตกรรม",
@@ -25885,21 +25880,18 @@
       ],
       "collected_at": "22:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F8uw0z23c0Z96.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/foreign/2915516",
+      "source": ""
     },
     {
       "title": "소비자 단체, 방콕 도시 계획 변경에 대한 소송 제기",
       "summary": "- 태국 소비자 협의회, 새로운 방콕 도시 계획에 반대하는 소송을 제기함.\n- 소송 대상은 방콕 시장, 방콕 광역시, 도시 계획 개발 사무소 등 5개 기관임.\n- 공청회에서 정보 부족과 지역 사회 영향 고려 미흡 등 문제 제기.",
       "full_translated": "태국 소비자 협의회(TCC)는 새로운 방콕 도시 계획의 초안 작성 및 승인에 관여한 5개의 국가 기관을 상대로 중앙 행정 법원에 소송을 제기하여 절차 중단 및 초안 전체 취소를 요구했습니다. 소송 대상에는 차차트 시티푼트 방콕 시장, 방콕 광역시(BMA), 도시 계획 개발 사무소, 공공 사업 및 도시 계획 부서, 도시 계획 위원회가 포함되었습니다. 협의회 대표인 Kongsak Sahasakmontri는 공청회 과정에서 방콕 인구 580만 명 중 1% 미만이 참여했다고 밝혔습니다. 모든 50개 구역에서 진행된 공청회는 발표와 질문에 각각 1시간만 할애되었는데, 이는 문제의 복잡성을 고려할 때 불충분했다고 그는 금요일에 말했습니다. 그는 또한 사업 이익을 위해 특정 정보가 '숨겨져' 있다고 주장했는데, 예를 들어 대중 교통 역에서 500~800m 이내의 고층 건물 건설에 대한 제한을 완화하면서 지역 사회에 미치는 영향을 충분히 고려하지 않았습니다. Ekachai, Chom Thong, Bang Khun Thian 및 Thung Khru의 지역 사회 대표들은 주민들이 새로운 도시 계획에서 제안된 도로와 관련된 토지 수용 가능성에 대해 혼란스러워하며, 이는 1,000 가구 이상에 영향을 미칠 수 있다고 말했습니다. 그들은 지역 사회가 새로운 도시 계획에 대한 반대 의견을 지속적으로 표명했다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "도시 계획 변경은 장기적으로 여행 환경에 영향을 줄 수 있지만, 현재 단계에서는 직접적인 영향이 크지 않다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Consumer group files suit over new Bangkok city plan",
@@ -25910,21 +25902,18 @@
       ],
       "collected_at": "22:31",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201753_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3201753/consumer-group-files-suit-over-new-bangkok-city-plan",
+      "source": ""
     },
     {
       "title": "태국 당국, 범죄 조직 자산 7억 7,800만 바트 압류",
       "summary": "- 태국 자금세탁방지청(Amlo), 주요 범죄 네트워크 관련 자산 압류 및 동결 승인.\n- 마약 거래, 부패, 사기, 온라인 도박 등 범죄 연루.\n- 압류된 자산은 토지, 콘도, 차량, 디지털 자산, 은행 예금 등 총 1,307건, 7억 7,800만 바트 상당.",
       "full_translated": "태국 자금세탁방지청(Amlo)은 주요 범죄 네트워크와 관련된 자산의 압류 및 동결을 승인했으며, 총 가치는 7억 7,800만 바트에 달합니다. 해당 자산은 마약 거래, 공직 부패, 사기, 온라인 도박 및 기타 범죄와 관련되어 있다고 기관은 밝혔습니다. 이 수치는 이전에 보고된 4건의 사기 관련 사건은 제외한 것입니다.\n\n총 당국은 58건의 사건에서 1,307건의 자산을 압류하거나 동결했습니다. 34건의 사건은 토지, 콘도미니엄, 차량, 디지털 자산 및 은행 예금을 포함한 835건의 항목을 대상으로 6억 7,600만 바트 상당의 압류 및 제한 명령을 포함합니다. 주요 사례 중 하나는 'Freddy'라는 용의자가 이끄는 마약 네트워크와 관련된 것으로, 3,100만 바트 상당의 자산이 몰수되었습니다. 또 다른 주요 사례는 'Thada'라는 용의자가 이끄는 온라인 도박 네트워크와 관련된 것으로, 약 4억 2,100만 바트 상당의 자산이 압류되었습니다. 별도의 사기 사건에서는 풍수 전문가 Thanawan Jiracharoenwes와 관련자들이 중국에서 수입했다고 주장하는 '신성한' 조각된 돌을 판매하여 피해자들을 속인 혐의를 받고 있습니다. 당국은 약 3,400만 바트 상당의 자산을 압류했습니다. 기타 조치로는 The New Concept Co가 운영하는 콘도 투자 계획과 관련된 5,300만 바트 상당의 자산 압류와 동결이 포함되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 범죄 관련 소식은 인지하는 것이 좋음. 자산 압류는 빈번하게 발생하는 사건은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "B778 million in assets seized from criminal groups",
@@ -25935,21 +25924,18 @@
       ],
       "collected_at": "22:31",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201699_260220203659_700.jpeg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3201699/b778-million-in-assets-seized-from-criminal-groups",
+      "source": ""
     },
     {
       "title": "태국 총리, 수랏타니 방문하여 지역 경제 활성화 및 사원 참배",
       "summary": "- 아누틴 총리가 부인과 함께 수랏타니 지역 사회 관광을 장려하고 경제 기반을 활성화하기 위해 방문함.\n- 왓 파타나라암 사원에서 유명한 승려 루앙 포 팟 나로토의 동상을 참배하고, 주지사인 프라 와치라프리야폰에게 축복을 받음.\n- 정부는 지역 관광을 활성화하고 경제 성장을 촉진하는 데 중점을 두고 있음.",
       "full_translated": "아누틴 총리는 그의 부인 자 타논과 함께 수랏타니 지역 사회 관광을 따라가며 경제 기반을 활성화하고 루앙 포 팟 나로토에게 경의를 표하고 프라 와치라프리야폰에게 축복을 구했습니다. 2069년 2월 20일 18:00, 므앙 수랏타니 지역에 있는 왓 파타나라암 왕립 사원에서 아누틴 찬비라쿨 총리와 내무부 장관은 넉 점심 니라미스 장관 부인 및 내무부 가정 협회 명예 고문, 아르싯 삼판랏 내무부 차관, 진나라 삼판랏 내무부 가정 협회 회장, 시암 시리몽콘 지역 개발 국장이 지역의 경제 기반을 활성화하기 위해 지역 사회 관광을 장려하는 것을 따라갔습니다. 수랏타니 부지사 소파 칸차나와 수랏타니 지방 자치 단체 회장이 지역에 참여했습니다. 이 기회에 아누틴과 그의 일행은 이전 왓 파타나라암 주지사였던 루앙 포 팟 나로토의 동상에게 경의를 표했습니다. 수랏타니 지역의 유명한 승려이자 남부 지역에서 오랫동안 수랏타니 사람들과 남부 지역의 신자들에게 존경을 받아온 교사입니다. ... 그 후, 본당의 주불상에게 경의를 표하고 왓 파타나라암 주지사인 수랏타니 지역의 프라 와치라프리야폰에게 경의를 표했습니다. 프라 와치라프리야폰은 총리의 견장에 성수를 뿌리고 축복을 주었습니다. 그 후 무티타 짓탐마스타티온 재단으로 이동하여 태국에서 가장 큰 화강암으로 조각된 관음보살 동상에게 경의를 표했습니다. 지방 자치 구역으로 여행하는 사람들과 관광객들이 축복을 구하기 위해 경의를 표하기 위해 여행하는 랜드마크입니다. 정부와 내무부는 임무를 추진하여 경제를 활성화하는 것을 강조합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 총리의 국내 지역 방문 및 경제 활성화 노력에 대한 기사로, 관광객에게 직접적인 영향을 미치지는 않지만 태국 국내 상황을 이해하는 데 도움이 될 수 있음. 새로운 정보이며 기존 뉴스에 없음.",
-      "event_info": {
-        "date": null,
-        "location": "수랏타니",
-        "price": null,
-        "location_google_map_query": "수랏타니"
-      },
+      "event_info": "{'date': None, 'location': '수랏타니', 'price': None, 'location_google_map_query': '수랏타니'}",
       "references": [
         {
           "title": "นายกฯ ควง “จ๋า ธนนนท์” ไปสุราษฎร์ธานี กราบขอพร “พระวชิรปริยัตยาภรณ์”",
@@ -25960,21 +25946,18 @@
       ],
       "collected_at": "22:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F8uqo3NdQrcmA.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/politic/2915515",
+      "source": ""
     },
     {
       "title": "태국 총리, 라마단 금식 종료 기념 만찬 주최",
       "summary": "- 아누틴 총리가 피팟 부총리에게 라마단 금식 종료 기념 만찬 주최를 위임했습니다.\n- 이 행사에는 태국 무슬림 지도자, 각국 대사, 정부 관계자들이 참석했습니다.\n- 피팟 부총리는 무슬림들의 헌신을 기리고, 라마단 기간의 평화와 번영을 기원했습니다.",
       "full_translated": "아누틴 총리는 피팟 랏차킷프라칸 부총리 겸 교통부 장관에게 라마단 금식 종료 기념 만찬 주최를 위임했습니다. 2069년 2월 20일 19:00, 방콕 수안루앙 지역 람캄행 로드에 위치한 알 미로즈 호텔에서 행사가 열렸습니다. 산티 삐야탓 총리실 장관, 삭다 위치안신 내무부 차관, 아룬 분촘 태국 쭐라랏차몬ตรี, 태국 주재 무슬림 대사 대표, 각국 외교 사절, 태국 이슬람 중앙위원회, 무슬림 대표 등이 참석했습니다. 부총리는 모든 사람에게 평화가 있기를 기원했습니다. 라마단은 무슬림 형제자매들이 알라께서 삶의 지침으로 주신 코란을 기억하고, 금식하며 인내를 훈련하고, 마음을 정화하고, 기부와 나눔으로 사회를 건설하는 중요한 달입니다. 부총리는 라마단 기간 동안 금식하며 헌신하는 모든 무슬림을 칭찬했습니다. \"이 뜻깊은 라마단 달에 알라의 축복이 모든 분들에게 가득하길 기원합니다.\"",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "라마단 기간에 대한 문화적 이해를 높일 수 있지만, 여행에 직접적인 영향은 적습니다. 태국 문화와 종교에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": "2069-02-20",
-        "location": "알 미로즈 호텔, 방콕",
-        "price": "알 수 없음",
-        "location_google_map_query": "알 미로즈 호텔 방콕"
-      },
+      "event_info": "{'date': '2069-02-20', 'location': '알 미로즈 호텔, 방콕', 'price': '알 수 없음', 'location_google_map_query': '알 미로즈 호텔 방콕'}",
       "references": [
         {
           "title": "นายกรัฐมนตรี มอบ พิพัฒน์ เป็นเจ้าภาพงานเลี้ยงละศีลอด เดือนรอมฎอน ปี ฮ.ศ. 1447",
@@ -25985,6 +25968,133 @@
       ],
       "collected_at": "22:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F8uOxJDA7m1p7.jpg",
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/politic/2915510",
+      "source": ""
+    },
+    {
+      "title": "태국 기상청, 전국 여름 폭풍 주의보 발령",
+      "summary": "- 태국 기상청은 2월 23일부터 25일까지 전국적으로 여름 폭풍이 예상된다고 경고했습니다.\n- 중국발 한랭 기류가 태국으로 이동하면서 고온다습한 공기와 만나 뇌우를 유발할 것으로 예상됩니다.\n- 강풍, 번개, 짧은 시간 동안의 폭우에 대비하고, 농작물 피해 예방에 주의해야 합니다.",
+      "full_translated": "태국 – 태국 기상청(TMD)은 전국적으로 불안정한 기상 조건이 발달함에 따라 2월 23일에서 25일 사이에 여름 폭풍이 예상된다고 경고했습니다. 중국에서 오는 새로운 한랭 기류가 태국으로 이동하여 지배적인 고온 다습한 공기와 상호 작용하여 여러 지역에서 뇌우를 유발할 것으로 예상됩니다. 폭풍은 강풍, 번개, 짧은 시간 동안의 폭우를 동반할 것으로 예상됩니다. 강우량은 전국적으로 증가할 것으로 예상되며, 2월 24일에 광범위한 소나기가 예상되고 폭풍 활동이 2월 26일까지 계속될 수 있습니다. 주민들은 폭풍 중 예방 조치를 취하고, 개방된 장소를 피하고, 강풍에 무너질 수 있는 불안정한 구조물이나 광고판을 멀리해야 합니다. 농부들은 잠재적인 피해로부터 작물을 보호해야 합니다. TMD는 실시간 정보를 위해 공식 날씨 업데이트를 면밀히 따르도록 권장합니다. 강우량 증가는 대기 오염을 완화하고 PM2.5 수치를 낮추는 데 도움이 될 것으로 예상됩니다. 한랭 기단이 약화되어 멀어지면 태국은 본격적으로 여름 시즌에 접어들 것으로 예상되며, 치앙마이, 람팡, 매홍손과 같은 분지 지역에서는 열이 더 강하게 축적될 수 있는 더 높은 온도가 예상됩니다. 앞의 내용은 태국 정부 홍보부의 보도 자료입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행자 안전에 직접적인 영향을 미칠 수 있는 기상 악화 예보. 특히 야외 활동 시 주의가 필요하며, 항공편 및 교통편 지연 가능성도 고려해야 함. 일일 브리핑 성격.",
+      "event_info": {
+        "date": "2024-02-23",
+        "location": "전국",
+        "price": null,
+        "location_google_map_query": "Thailand"
+      },
+      "references": [
+        {
+          "title": "Thai Meteorological Department Warns of Summer Storms Across Thailand",
+          "url": "https://thepattayanews.com/2026/02/20/thai-meteorological-department-warns-of-summer-storms-across-thailand/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/378960893_607991941542840_8461213119965799631_n-2.jpg?v=1771601227"
+        }
+      ],
+      "collected_at": "23:27",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/378960893_607991941542840_8461213119965799631_n-2.jpg?v=1771601227",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국, 총기 규제 강화 및 공공장소 휴대 금지",
+      "summary": "- 태국 정부는 전국적인 총기 소지 허가 규제를 강화하고 공공장소 휴대 허가를 중단했습니다.\n- 정당한 사유 없이 공공장소에서 총기를 소지할 경우 최대 5년의 징역형을 받을 수 있습니다.\n- Anutin Charnvirakul 총리 대행은 당국에 총기 규제를 엄격히 시행하고 전체 규제 시스템을 검토하도록 지시했습니다.",
+      "full_translated": "방콕 – 2월 19일, 정부는 전국적인 총기 소지 허가 규제를 강화하고 공공장소 휴대 허가를 중단했으며, 정당한 사유 없이 공공장소에서 총기를 소지할 경우 최대 5년의 징역형을 받을 수 있다고 경고했습니다. 2월 19일, Anutin Charnvirakul 총리 대행 겸 내무부 장관은 당국에 총기 규제를 엄격히 시행하고 전체 규제 시스템을 검토하도록 지시했습니다. 내무부 산하 지방 행정부는 공공 안전을 강화하고 재산을 보호하기 위해 모든 차원에서 총기 규제 조치를 강화하라는 긴급 지시를 전국 행정 공무원에게 내렸습니다.\n\n명령에 따라: \"정부는 정당한 사유 없이 도시, 마을 또는 공공장소에 총기를 반입하는 것은 형법 371조 및 총기법 B.E. 2490 (1947) 8조에 위반되는 행위임을 재차 강조합니다.\"라고 성명은 밝혔습니다. 총기 소지 및 사용 허가(Por.4)를 받은 사람이라도 공공장소에서 휴대할 권리가 없으며, 긴급한 필요가 있는 경우를 제외하고는 생명과 재산 보호를 위해 자택에 보관해야 합니다. 법률 72조 2항에 따라 위반 시 최대 5년의 징역, 최대 10,000바트의 벌금 또는 둘 다에 처해질 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "총기 규제 강화는 여행객 안전에 간접적인 영향을 미칠 수 있으므로 관련 정보를 제공함. 기존에 총기 관련 뉴스가 없었으므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tightens Gun Licences, Public Carry Ban",
+          "url": "https://www.khaosodenglish.com/news/2026/02/20/thailand-tightens-gun-licences-public-carry-ban/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thailand-Tightens-Gun-Licences-Public-Carry-Ban.jpg"
+        }
+      ],
+      "collected_at": "23:27",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thailand-Tightens-Gun-Licences-Public-Carry-Ban.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "파타야 경찰, 센트럴 파타야에서 총기 난사 대비 훈련 실시",
+      "summary": "- 파타야 경찰이 센트럴 파타야에서 총기 난사 상황을 가정한 훈련을 실시하여 안전 의식을 높였습니다.\n- 촌부리 지방 경찰 사령관 등이 참여하여 여러 기관과 협력했습니다.\n- 쇼핑객과 직원의 사상자를 가정한 고위험 시나리오로 진행되었습니다.",
+      "full_translated": "파타야 경찰은 안전을 강화하기 위해 센트럴 파타야에서 실제 총격범 훈련을 실시했습니다. Nantawut Suwannalaong 지방 경찰청 부사령관은 촌부리 지방 경찰청 사령관 Phongphan Wongmanithet, 파타야 시 경찰서장 Anek Sarathongyu와 함께 훈련을 진행했습니다. 그들은 훈련을 수행하기 위해 여러 기관의 담당자들과 협력했습니다. 몰이 열리기 몇 시간 전에 실시된 훈련은 무장한 용의자 2명이 몰에 들어가 무차별 총격을 가하고 금은방을 털고 출동한 경찰과 총격전을 벌이는 고위험 사건을 모의로 진행했습니다. 이 시나리오는 폭발 장치와 유사한 의심스러운 물체의 발견으로 확대되어 쇼핑객과 직원들 사이에서 사상자가 발생했습니다. 경찰은 신속하게 해당 지역을 봉쇄하고 상황을 통제하고 부상자에게 의료 지원을 제공하고 폭발물 처리반(EOD)과 협력하여 엄격한 안전 프로토콜에 따라 의심되는 폭탄 위협을 검사하고 무력화했습니다. 훈련의 핵심 요소에는 기관 간 통합 명령 및 통신, 고위험 구역 확보, 사상자 분류, 민간인 안전 대피, 주변 지역의 교통 관리 등이 포함되었습니다. 이번 훈련은 신속한 대응을 보장하고 잠재적 손실을 최소화하며 주민과 방문객의 공공 신뢰를 구축하는 것을 목표로 했습니다. 참여 부대는 파타야 시 경찰서, 파타야 시 행정부, Sawang Boriboon 재단 등이었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 발생할 수 있는 테러 또는 총기 난사 사건에 대비한 훈련으로, 여행객 안전에 대한 인식을 높이고 관련 정보를 제공하여 안전을 확보할 수 있도록 함. 실제 사건은 아니지만, 유사시 대처 능력을 보여주는 훈련이므로 정보로서 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "센트럴 파타야",
+        "price": null,
+        "location_google_map_query": "센트럴 파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Conduct Active Shooter Drill at Central Pattaya to Boost Safety",
+          "url": "https://thepattayanews.com/2026/02/20/pattaya-police-conduct-active-shooter-drill-at-central-pattaya-to-boost-safety/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771597639682669498425665815841.jpg?v=1771597760"
+        }
+      ],
+      "collected_at": "23:27",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771597639682669498425665815841.jpg?v=1771597760",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 SEC, Bitazza에 대한 형사 고발 제기",
+      "summary": "- 태국 증권거래위원회(SEC)가 Bitazza Co Ltd와 임원 2명에 대해 형사 고발을 제기함.\n- 허가 없이 디지털 자산 거래소를 운영한 혐의.\n- Bitazza Global과 Bitazza Thailand 웹사이트 및 앱을 통해 플랫폼 접근 제공.",
+      "full_translated": "태국 증권거래위원회(SEC)가 Bitazza Co Ltd, 관련 회사 및 임원 2명에 대해 허가 없이 디지털 자산 거래소를 운영한 혐의로 형사 고발을 제기했습니다. 고발 대상에는 Bitazza International Ltd (Bitazza Global), Bitazza Co Ltd, Kavin Phongpandecha (Bitazza Thailand의 공동 창립자 겸 전 최고 경영자), Tanawat Sutuntivorakoon (현재 CEO)이 포함되었습니다. SEC는 Bitazza Global과 태국에서 디지털 자산 브로커로 허가받은 Bitazza가 공동으로 디지털 자산 거래 또는 교환 플랫폼을 제공하고 거래 수수료를 징수했다고 밝혔습니다. 이 플랫폼은 2023년 5월 Bitazza의 소셜 미디어 채널을 통해 태국에서 홍보되었으며, 특히 태국 거주자를 대상으로 했습니다. Bitazza Global과 고객 간의 조건은 태국 정부 당국을 참조했습니다. Bitazza Global에 대한 접근은 Bitazza의 태국 웹사이트 및 모바일 애플리케이션을 통해 가능했습니다. 이러한 채널을 통해 등록하는 고객은 추가 신원 확인 없이 자동으로 Bitazza Global 계정 보유자로 취급되었습니다. 또한 Bitazza는 Bitazza Global에 주요 운영 시스템을 제공한 것으로 밝혀졌습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "암호화폐 관련 투자 주의 필요. 거래소 이용 시 확인 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "SEC files criminal complaint against Bitazza",
+          "url": "https://www.bangkokpost.com/business/general/3201704/sec-files-criminal-complaint-against-bitazza",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201704_260220195730_700.jpg"
+        }
+      ],
+      "collected_at": "23:27",
+      "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201704_260220195730_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "미국 대법원, 트럼프의 글로벌 관세 조치 폐지 판결",
+      "summary": "- 미국 대법원이 트럼프 전 대통령의 글로벌 관세 부과 조치를 위법으로 판결했습니다.\n- 법원은 트럼프 행정부가 의회 승인 없이 비상 권한을 남용했다고 밝혔습니다.\n- 이번 판결은 미국의 무역 정책에 큰 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "미국 대법원이 도널드 트럼프 대통령이 발표한 전 세계 상품에 대한 수입 관세 인상을 취소하는 판결을 내렸습니다. 백악관이 의회의 승인을 우회하기 위해 1977년 비상 법률에 따른 권한을 행사한 후 나온 결정입니다. 그러나 세금이 환급될지는 아직 불확실합니다. 2069년 2월 20일, 미국 대법원은 도널드 트럼프 대통령이 발표한 전 세계 상품에 대한 수입 관세 인상을 취소하라는 판결을 내렸습니다. 법원은 의회의 승인을 구하지 않고 비상 상황법에 따라 권한을 사용하는 것이 범위를 넘어선다고 지적했습니다. 트럼프의 관세 조치는 작년에 많은 국가에 대해 발표되었으며, 트럼프는 이를 미국 내 생산 부문을 보호하고 장려하기 위한 것이라고 설명했습니다. 그러나 정부는 의회에 법안을 제출하는 대신 '국제 비상 경제 권한법 1977'에 따라 권한을 행사했습니다. 비상사태를 선포함으로써 행정부는 입법부의 승인 없이 즉시 명령을 내릴 수 있었습니다. 앞서 2068년 8월 미국 항소법원은 트럼프 대통령의 대부분의 관세 조치가 불법이라고 판결했지만 임시로 효력을 유지했습니다. 이후 백악관은 대법원에 항소법원의 판결을 검토하고 번복해 달라는 청원서를 제출하여 대법원이 이 사건에 관여하게 되었습니다. 이번 판결은 트럼프 행정부의 무역 정책에 큰 영향을 미치며, 앞으로 미국과 교역국 간의 무역 관계 방향에 영향을 미칠 수 있습니다. 판결의 자세한 내용은 추가 검토 중입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "미국 정책 변화에 대한 뉴스이지만, 태국 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ศาลสูงสหรัฐฯ สั่งยกเลิกมาตรการภาษีทั่วโลกของ \"โดนัลด์ ทรัมป์\" ชี้ใช้อำนาจฉุกเฉินเกินขอบเขต",
+          "url": "https://www.thairath.co.th/news/foreign/2915517",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F8uxpgUiqdnBU.jpg"
+        }
+      ],
+      "collected_at": "23:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F8uxpgUiqdnBU.jpg",
       "date": "2026-02-20"
     }
   ]
