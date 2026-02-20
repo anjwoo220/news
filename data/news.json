@@ -24482,14 +24482,9 @@
       "summary": "- 태국 정부가 비자 면제 체류 정책을 재검토하고 있습니다.\n- 이는 외국인들의 착취 및 안전 문제에 대한 우려가 커지고 있기 때문입니다.\n- 새로운 정책은 이러한 문제 해결에 초점을 맞출 것으로 예상됩니다.",
       "full_translated": "태국은 착취와 안전에 대한 우려가 커짐에 따라 비자 면제 체류 정책을 재고하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경 가능성은 여행객에게 직접적인 영향을 미치므로 중요. 현재 정책 재검토 단계이므로 7점 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "How Thailand is Rethinking Its Visa-Free Stay Policy to Address Growing Concerns Over Exploitation and Safety - Travel And Tour World",
@@ -24498,23 +24493,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTjM3NWJBX3o5R25weDNvT1o0Q1dhUHJiaGI5T2FtclVRalVGOUkyVkJrM3ZpUWdublRkM3l4T2FzMkNCMFRjMjR0a1pLMzBycjJUVWE0QVRlOVRqR2FQaEl3aVFyd0lRa2MwUzVYSVVWQ25ycmx4WGlxdGN5YndhVVA1bFNNSktKVTUxck5yMEU0LVNYcnpEZjJYdDNSRmRrc0FqT1R0Sm10a0h1cTZKOENDRFNmay1rcHRxdGVqMUJOTEUzWWdQQUNzMFpYMXd0QnE4MWtvR1QyUk9wZVpHRG1nWnJwRWhIQXJDd3dwaw?oc=5",
+      "source": ""
     },
     {
       "title": "치앙라이 공항, 2026년 중국 설맞이 문화 행사로 관광 수익 증대 기대",
       "summary": "- 치앙라이 공항이 2026년 중국 설을 맞아 특별한 문화 환영 행사를 개최합니다.\n- 이번 행사는 태국 항공 산업의 성장과 함께 관광 수익 증대를 목표로 합니다.\n- 수백만 명의 여행객들에게 특별한 경험을 선사할 것으로 기대됩니다.",
       "full_translated": "치앙라이 공항이 2026년 중국 설맞이 문화 행사를 통해 관광 수익을 증대시키고 태국 항공 산업의 호황 속에서 수백만 명의 여행객들에게 감동을 선사할 예정입니다!",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국 춘절 기간 동안 태국 여행을 계획하는 여행객에게 치앙라이 공항의 문화 행사는 방문 가치를 높일 수 있는 정보입니다. 하지만 2026년이라는 시점이 멀어 중요도가 높지 않습니다.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "Chiang Rai Airport",
-        "price": "미정",
-        "location_google_map_query": "Chiang Rai Airport"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': 'Chiang Rai Airport', 'price': '미정', 'location_google_map_query': 'Chiang Rai Airport'}",
       "references": [
         {
           "title": "Chiang Rai Airport Unveils Stunning Cultural Welcome for Chinese New Year 2026, Boosting Tourism Revenue and Thrilling Millions of Travellers in Thailand’s Booming Aviation Industry! - Travel And Tour World",
@@ -24523,23 +24515,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPWEtSdUZma2hXdDJMV1o4TE9PY21lQjBha1A2NjBkaGR3TjFtNlJqa1ZobmV5UEdTOXBsaVlScllrb3ZoVVJVOEIwT1FIQUVyNUxTeEVxRWdkUnNPdUsxRzFpU0I1UXdoV2tlV2JidUt0c1RTTlhmZ1FfMmJ2TElkTlA4UGktb21fUFFpY0tZMFJwMkFSTXlpR1J4a04yRjlEUkQ2V0Z6N3NpdWVzbTRQcktCOGpqclo1dm1nU2RQWmowYXBBWHV2V2hJZy1mLTUyRnFKUXhHaE5EVFBlbDY4VUM5WENBaUN6cUtvdl96dXlWR3NtdTFxZ3V6Vnpsbm9FVHJWbGZlQ2s2MU5FMlI3VVVVZlo0MzNveWdiazF1b05ORmZhRVVGZkJCekh6UlhVU0JkdmJUZG1aa1QyTXA1OHhSdW93bUtRMWhYcA?oc=5",
+      "source": ""
     },
     {
       "title": "고생했다면 태국으로 떠나세요. 기업 보상 여행이 전략이 되고 있습니다 - 매일경제",
       "summary": "- 기업의 보상 여행 목적지로 태국이 인기를 얻고 있음\n- 열심히 일한 직원들을 위한 특별한 경험 제공\n- 태국 관광 산업 활성화에 기여",
       "full_translated": "만약 열심히 일했다면, 태국으로 떠나세요. 기업 보상 여행이 전략이 되고 있습니다. - 매일경제",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 활성화에 대한 정보 제공. 기업 보상 여행 트렌드는 여행객 증가에 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "\"If you've worked hard, leave for Thailand.\"Corporate compensation travel is becoming a strategy of - 매일경제",
@@ -24548,23 +24537,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tZVVTNlJpTWtrVWs4ZG8zdUd0VDgzZWJuLXJlQ0NyOW13b0l2S0NhSUlwTFZ6X281ZWZsZ19yMUpnRkJ4OUpWQ19QVUh3ZWxrUHc?oc=5",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 지방, 관광 회복 조치 모색 - Vietnam+",
       "summary": "- 태국과 캄보디아 국경 지방이 관광 산업 회복을 위한 협력 방안을 모색하고 있습니다.\n- 양국은 관광객 유치를 위한 공동 프로모션 및 상품 개발을 논의 중입니다.\n- 코로나19 팬데믹으로 타격을 입은 지역 경제 활성화에 기여할 것으로 기대됩니다.",
       "full_translated": "태국-캄보디아 국경 지방이 관광 회복 조치를 모색합니다. Vietnam+ (VietnamPlus)",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국-캄보디아 국경 지역 관광 활성화 노력은 여행자에게 새로운 여행 옵션을 제공할 수 있으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "태국-캄보디아 국경 지방",
-        "price": null,
-        "location_google_map_query": "태국 캄보디아 국경"
-      },
+      "event_info": "{'date': None, 'location': '태국-캄보디아 국경 지방', 'price': None, 'location_google_map_query': '태국 캄보디아 국경'}",
       "references": [
         {
           "title": "Thai-Cambodian border provinces seek tourism recovery measures - Vietnam+ (VietnamPlus)",
@@ -24573,23 +24559,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFRTTlZVcmRjUTUxSUU4WVpDd1luVEVROUVMRkRDSHBDeXViZWF4WFVaeGl5N0NRcUkxV0M0cUQxOG1DaGlQNXl4ZFl6TWFWeXNNM0dpZ21tc3hTWEJBZjk0ZWxxSXRpZ2xXa0tuMnpBRzFQS2dXWU5QZFRCU20yWkJqLWNpTjBRTlY3ZE1WMXU0d3FmcjgwVkRXamRTb0FHWHRkbVFB?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 혼인 건수 증가에도 출산율 위기 심화",
       "summary": "- 2025년 중국 혼인 건수 10.8% 증가했으나, 출산율은 사상 최저 기록.\n- 정부의 출산 장려 정책에도 불구하고, 2025년 출생아 수는 792만 명으로 감소.\n- 전문가들은 젊은 세대의 결혼관 변화와 과거 '한 자녀 정책'의 영향을 지적.",
       "full_translated": "2025년 중국의 혼인 건수가 10년 가까이 지속된 감소세에서 벗어나 증가했지만, 출산율은 사상 최저 수준으로 떨어졌습니다. 외신 보도에 따르면 2025년 중국의 혼인 등록 건수는 676만 건으로 2024년 최저 기록보다 약 10.8% 증가했습니다. 그러나 이는 거의 10년 동안의 혼인 건수 감소 이후에 나타난 증가이며, 작년 등록 건수는 2015년에 기록된 1225만 건의 절반 수준에 불과합니다.\n\n한편 중국의 출산율은 계속 감소하여 2025년에는 792만 명의 신생아가 태어나 사상 최저치를 기록했습니다. 이로 인해 중국은 급속한 고령화 사회로 진입하고 있습니다. 한 중국 노인은 젊은 세대가 결혼에 대한 관점이 바뀌었다고 믿고 있으며, 특히 인구 증가를 억제하기 위해 1970년대에 도입되어 2015년에 공식적으로 종료된 '한 자녀 정책'의 영향을 언급했습니다. 그는 “형제자매와 함께 자란 우리와 달리 가족 관계를 매우 중요하게 생각합니다. 그러나 80년대 이후 세대는 형제자매 간의 유대감과 같은 '자산'이 없기 때문에 매우 독립적이며, 이것이 오늘날 결혼이 복잡해진 이유일 수 있습니다.”라고 말했습니다.\n\n혼인 건수 증가는 중국 정부가 지속적으로 시행하고 있는 혼인 장려 정책의 결과일 수 있습니다. 2025년 5월부터 커플은 결혼 등록이 허용되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없지만, 중국의 사회 변화를 보여주는 흥미로운 로컬 뉴스. 관광객의 관심사가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ชาวจีนแต่งงานมากขึ้นในปี 2568 แต่อัตราเกิดยังวิกฤติ",
@@ -24598,8 +24581,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HTJ9Bva1GfeQ.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HTJ9Bva1GfeQ.jpg",
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/foreign/2915294",
+      "source": ""
+    },
+    {
+      "title": "태국 북부, 여름 다가오지만 도이인타논 산 정상은 여전히 추워: 9도",
+      "summary": "- 도이인타논 국립공원, 2월 22일 공식적인 여름 시작에도 불구하고 여전히 추운 날씨 유지.\n- 정상 기온 9도, 키우매판 10도, 공원 사무소 14도 기록. 관광객 꾸준히 방문.\n- 2월 23-25일 북부 지역에 여름 폭풍 예상. 기상청, 강풍과 우박 주의 당부.",
+      "full_translated": "태국 북부 치앙마이의 도이인타논 국립공원은 2월 22일 공식적인 여름 시작을 앞두고 있지만, 여전히 추운 날씨를 유지하고 있습니다. 2월 20일 오전 9시 기준, 도이인타논 정상의 최저 기온은 9도, 키우매판은 10도, 국립공원 사무소는 14도로 측정되었습니다. 많은 관광객들이 시원한 공기를 즐기기 위해 방문하고 있습니다. 현재 날씨는 맑고 대기 질도 좋습니다. 국립공원 측은 전염병 예방을 위해 주요 지점에 소독제를 살포하고 있습니다.\n\n치앙마이 기상청은 2월 23일부터 25일까지 태국 북부 지역에 여름 폭풍이 발생할 것으로 예보했습니다. 강풍, 천둥, 번개, 우박 등이 예상되므로, 주민들은 안전에 유의해야 합니다. 서쪽에서 불어오는 바람이 북부와 북동부 지역을 지나면서 대기가 불안정해져 폭풍이 발생할 가능성이 높습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "도이인타논은 인기 관광지이므로 날씨 정보는 여행자에게 중요. 특히 여름 폭풍 예보는 안전에 영향을 미침.",
+      "event_info": {
+        "date": "2024-02-20",
+        "location": "도이인타논 국립공원",
+        "price": "국립공원 입장료",
+        "location_google_map_query": "Doi Inthanon National Park"
+      },
+      "references": [
+        {
+          "title": "ใกล้เข้าฤดูร้อน แต่ยอดดอยอินทนนท์ยังหนาว วัดได้ 9 องศาฯ นักท่องเที่ยวยังแน่น",
+          "url": "https://www.thairath.co.th/news/local/north/2915346",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NeYF5wOLjpxe.jpg"
+        }
+      ],
+      "collected_at": "10:44",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NeYF5wOLjpxe.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 형사 법원, '암 시아나이드' 및 '아논 남파' 관련 2건의 중요 사건 판결 예정",
+      "summary": "- 태국 형사 법원은 오늘 '암 시아나이드'와 '아논 남파' 관련 2건의 중요 사건에 대한 판결을 내릴 예정입니다.\n- '암 시아나이드'는 경찰 중령 니파 샌찬에게 시아나이드 독극물을 투여하여 살해한 혐의를 받고 있습니다.\n- 아논 남파는 왕실 모독죄로 기소되었습니다. 법원 판결에 관심이 집중되고 있습니다.",
+      "full_translated": "2069년 2월 20일, 랏차다피섹 도로에 위치한 형사 법원은 '암 시아나이드'의 '사라랏 랑시우타폰'이 계획적으로 경찰 중령 니파 샌찬에게 음식 또는 음료에 독극물(시아나이드)을 투여하여 살해한 혐의와 '아논 남파'와 그의 일행의 왕실 모독죄 관련 2건의 사건에 대한 판결을 내릴 예정입니다. 오늘 아침 교도소 관계자들은 사라랏 랑시우타폰 또는 '암 시아나이드'를 813호 법정으로, 아논 남파를 801호 법정으로 이송했습니다. 재판은 오전 9시부터 시작될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "법원 판결 자체는 여행에 직접적인 영향은 적으나, 사회적 관심이 높은 사건이므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2069-02-20",
+        "location": "태국 형사 법원, 랏차다피섹 도로",
+        "price": "알 수 없음",
+        "location_google_map_query": "Ratchadaphisek Road Criminal Court Thailand"
+      },
+      "references": [
+        {
+          "title": "จับตา \"ศาลอาญา\" นัดตัดสิน 2 คดีสำคัญ \"แอม ไซยาไนด์ - อานนท์ นำภา\"",
+          "url": "https://www.thairath.co.th/news/crime/2915348",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NeOXmfon6NqE.jpg"
+        }
+      ],
+      "collected_at": "10:44",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NeOXmfon6NqE.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 전역의 모든 브랜드 차량을 관리하는 Toyota의 FIX FIT 서비스 센터",
+      "summary": "- Toyota는 모든 브랜드의 차량을 관리하는 FIX FIT 서비스 센터 네트워크를 확장합니다.\n- FIX FIT은 엔진 오일 교환, 타이어, 배터리, 브레이크 등 기본적인 차량 유지 보수를 제공합니다.\n- 현재 태국 전역에 22개의 센터가 있으며 지속적으로 확장 중입니다.",
+      "full_translated": "Toyota Motor Thailand는 Toyota 딜러 및 비즈니스 파트너와 협력하여 FIX FIT 서비스 센터 네트워크를 확장하고 있습니다. FIX FIT은 Easy & Quality Service를 목표로 하며 엔진 오일 교환, 타이어, 배터리, 브레이크, 서스펜션, 일반 수리와 같은 기본적인 차량 유지 보수를 제공합니다. 품질이 좋은 대체 부품과 숙련된 기술자 팀을 통해 서비스를 제공하며, 6개월 또는 10,000km의 수리 보증을 제공합니다. FIX FIT은 보증 기간이 만료된 고객에게 편리하고 비용 효율적이며 신뢰할 수 있는 품질의 서비스를 제공하는 것을 목표로 합니다. 현재 태국 전역에 22개의 서비스 센터가 있으며 지속적으로 네트워크를 확장하고 있습니다. 특별 혜택 및 프로모션으로는 특정 모델에 대해 10% 타이어 할인 또는 3개 구매 시 1개 무료 제공, 부품 및 화학 제품 최대 25% 할인, 최대 10개월 0% 할부 등이 있습니다. 2024년 1월~2월에 새로운 FIX FIT 5개 지점이 오픈했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 중 차량 문제가 발생했을 때 이용할 수 있는 서비스 센터 정보. 렌트카 이용객에게 유용할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역",
+        "price": "정보 없음",
+        "location_google_map_query": "Toyota FIX FIT 서비스 센터"
+      },
+      "references": [
+        {
+          "title": "พาทัวร์ FIX FIT ศูนย์ซ่อมรถทางเลือกจาก Toyota ที่พร้อมดูแลรถยนต์ทุกยี่ห้อ",
+          "url": "https://www.thairath.co.th/news/auto/news/2915335",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MjKETWWgIVVK.jpg"
+        }
+      ],
+      "collected_at": "10:44",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76MjKETWWgIVVK.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "중국, 태국을 통한 러시아 드론 수출 증가",
+      "summary": "- 중국 드론, 태국 경유 러시아로 수출되는 새로운 경로 발견됨.\n- 태국 회사 Skyhub Technologies Ltd가 주요 수입업체로 확인됨.\n- 태국-러시아 간 드론 거래는 합법적이나, 우크라이나 측에서 주시하고 있음.",
+      "full_translated": "방콕 시내 Chartered Square 빌딩 30층에 위치한 Skyhub Technologies Ltd는 눈에 띄지 않지만 빠르게 성장하는 무역의 중심지 역할을 하고 있습니다. 서비스 제공업체에서 임대한 이 공간은 회사의 유일한 이사와 가끔 중국인들이 방문하는 것으로 알려졌습니다. 온라인 등록 문서에는 연락처가 나와 있지 않습니다. Bloomberg News가 1월 말 방문했을 때 아무도 만날 수 없었습니다. 겉으로는 활동이 없는 것처럼 보이지만, 이곳은 첨단 드론의 주요 통로입니다. 무역 문서에 따르면 Skyhub Technologies는 태국에서 두 번째로 큰 중국산 무인 항공기(UAV) 수입업체입니다. 태국으로 수입된 드론의 대부분이 러시아로 재수출되고 있지만, 이후의 행방은 기록되지 않고 있습니다. 태국은 지금까지 러시아로 가는 경로로 거의 주목받지 못했습니다. 그러나 태국 공식 무역 데이터 분석 결과, 블라디미르 푸틴 대통령이 우크라이나에 대한 전면 침공을 명령한 2022년 이후 태국의 러시아 드론 수출이 급증했으며, 이는 태국이 중국에서 수입하는 드론 수 증가와 밀접하게 관련되어 있습니다. 이러한 추세는 우크라이나 관리들에 의해 감지되었습니다. 베이징은 러시아를 군사적으로 지원하지 않는다고 밝혔지만, 중국산 기술이 러시아에서 발견되고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에는 직접적인 영향은 없으나, 국제 정세와 관련된 정보이므로 흥미로운 로컬 뉴스로 분류. 여행객 안전에 직접적인 위협은 아니므로 낮은 점수.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China’s drone exports to Russia use a new route through Thailand",
+          "url": "https://www.bangkokpost.com/business/general/3201334/chinas-drone-exports-to-russia-use-a-new-route-through-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201334_260220093435_700.jpg"
+        }
+      ],
+      "collected_at": "10:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201334_260220093435_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 선거 투표용지 바코드 논란, 헌법 위반 지적",
+      "summary": "- 니핏 전 문화부 장관, 투표용지 바코드의 위헌 소지 제기\n- 바코드로 유권자 추적 가능성, 비밀 투표 원칙에 어긋난다고 주장\n- 선거 무효화 가능성 언급하며 재선거 대비 자금 준비 촉구",
+      "full_translated": "니핏 인트라솜밧 전 문화부 장관이자 민주당 법률 자문위원이 투표용지의 바코드 문제가 헌법에 위배된다고 지적했습니다. 그는 사무국 설명과 2006년 헌법재판소 판결을 인용하며 이 주장을 뒷받침했습니다. 니핏은 자신의 페이스북에 '비밀인가, 아닌가'라는 제목으로 글을 올려, 선거관리위원회의 바코드가 있는 투표용지가 유권자를 추적할 수 있다면 헌법 85조에 위배된다고 주장했습니다. 헌법 85조는 '다른 사람이 유권자가 어떻게 투표했는지 알 수 없도록 해야 한다'고 규정합니다. 그는 2006년 헌법재판소 판결을 언급하며 선거가 무효화될 경우 재선거를 준비해야 한다고 덧붙였습니다. 니핏은 자신이 최고 득표자라면 재선거를 위해 1억 바트를 준비하겠다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 내용이지만, 선거 관련 이슈는 여행에 직접적인 영향이 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“นิพิฏฐ์” ชี้ปมบัตรเลือกตั้งมีบาร์โค้ด “ไม่ลับ” ขัด รธน. แนะผู้สมัคร สส. หาเงินเตรียมเลือกตั้งใหม่",
+          "url": "https://www.thairath.co.th/news/politic/2915345",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NecGSh4grrBs.jpg"
+        }
+      ],
+      "collected_at": "10:44",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx76NecGSh4grrBs.jpg",
       "date": "2026-02-20"
     }
   ]
