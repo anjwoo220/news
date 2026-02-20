@@ -25318,14 +25318,9 @@
       "summary": "- Sararat “Aem Cyanide” Rangsiwuthaporn은 경찰관을 시안화물로 독살한 혐의로 종신형을 선고받았습니다.\n- 그녀는 2023년 4월 1일 나콘파톰 지방에서 경찰관 Nipa Sangchan을 독살한 혐의를 받고 있습니다.\n- 법원은 그녀가 범죄를 은폐하고 금전적 이득을 취하려는 의도로 살인을 저질렀다고 판단했습니다.",
       "full_translated": "방콕 형사 법원은 목요일 Sararat “Aem Cyanide” Rangsiwuthaporn에게 나콘파톰 지방에서 시안화물로 경찰관을 독살한 혐의로 종신형을 선고했습니다. \n\n39세의 Sararat은 시안화물로 14명을 살해한 혐의를 받고 있으며 이미 한 건의 살인 혐의로 유죄 판결을 받았습니다. 방콕 법원은 그녀가 2023년 4월 1일 Phra Pathom Chedi 근처에서 음식이나 음료에 시안화물을 섞어 Pol Maj Nipa Sangchan — “Inspector Pu”로 알려짐 —을 고의로 독살했다고 판결했습니다. Pol Maj Nipa는 시안화물로 인한 급성 심부전으로 사망했습니다. \n\n판사들은 Sararat이 해당 경찰관에 대한 사기 행위로 금전적 이득을 얻기 위해 살인의 의도를 가지고 행동했다고 말했습니다. 법원은 처음에 사형을 선고했지만 피고가 자백하고 유용한 증언을 했기 때문에 종신형으로 감형했습니다. \n\n2024년 11월 20일, 형사 법원은 Sararat에게 친구인 Siriporn Khanwong을 시안화칼륨으로 독살한 혐의로 사형을 선고했습니다. 법원은 그녀가 Siriporn의 소비재에 시안화칼륨을 넣고 죽도록 내버려둔 후 그녀의 소지품을 훔쳤다는 사실을 발견했습니다. 치명적인 수준의 시안화물이 나중에 피해자의 장기에서 발견되었습니다. Sararat은 절도 목적으로 계획된 살인 및 범죄 은폐 시도 혐의로 기소되었습니다. 그녀는 혐의를 부인했습니다. 수사관들은 Sararat이 2015년에서 2023년 사이에 14명에게 시안화칼륨을 투여한 것으로 의심하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "범죄 관련 소식이지만, 이미 유사한 내용이 보도되었고, 여행객에게 직접적인 영향은 적다고 판단. 다만, 안전에 대한 경각심을 위해 포함.",
-      "event_info": {
-        "date": "2023-04-01",
-        "location": "나콘파톰",
-        "price": null,
-        "location_google_map_query": "나콘파톰"
-      },
+      "event_info": "{'date': '2023-04-01', 'location': '나콘파톰', 'price': None, 'location_google_map_query': '나콘파톰'}",
       "references": [
         {
           "title": "‘Aem Cyanide’ sentenced to life for murder of police officer",
@@ -25336,21 +25331,18 @@
       ],
       "collected_at": "18:03",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201475_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3201475/aem-cyanide-sentenced-to-life-for-murder-of-police-officer",
+      "source": ""
     },
     {
       "title": "태국 노동부, 외국인 노동자 비자 연장 조치 발표 (3월 31일까지)",
       "summary": "- 태국 노동부가 외국인 노동자 37만 명의 비자 연장.",
       "full_translated": "태국 노동부 장관은 외국인 노동자 정책 위원회의 의장으로서 미얀마, 라오스, 베트남 국적의 37만 명 이상의 노동자들의 비자 연장을 승인했습니다. 이는 생산 부문에 미칠 수 있는 영향에 대한 우려 때문입니다. 당초 2월 24일에 만료될 예정이었던 건강 보험 서류, 건강 검진 결과, 노동 허가 수수료 납부 기한을 2026년 3월 31일까지 연장하여 문제점을 해결하고 절차상의 혼잡을 줄이기 위한 것입니다. 이번 조치는 89만 명 이상의 외국인 노동자 중 아직 절차를 완료하지 못한 375,038명의 노동자들이 불법 노동자가 되는 것을 방지하고, 인력 부족으로 인한 고용주와 사업장의 심각한 영향을 완화하기 위한 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 외국인 노동 관련 정책 변경은 잠재적으로 여행 관련 서비스 인력에 영향을 줄 수 있으며, 해당 산업에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ตรีนุช” สั่งอุ้ม 3 แสนแรงงานต่างด้าว ต่อใบอนุญาตถึง 31 มี.ค. สกัดวิกฤตขาดแคลนแรงงาน",
@@ -25361,21 +25353,18 @@
       ],
       "collected_at": "18:03",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWbv4liabhqwo.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/politic/2915474",
+      "source": ""
     },
     {
       "title": "태국 법원, 왕실 개혁 요구 변호사 형량 연장",
       "summary": "- 인권 변호사 아논 남파, 왕실 모독 및 선동 혐의로 추가 2년 8개월 형 선고\n- 2020년 방콕 시위 연설 관련, 총 30년 이상 복역 예정\n- 최소 291명이 왕실 모독죄로 기소됨",
       "full_translated": "방콕 형사 법원은 인권 변호사 아논 남파에게 2020년 11월 방콕 시위에서 한 연설과 관련하여 왕실 모독 및 선동 혐의로 추가 2년 8개월의 징역형을 선고했다고 한 인권 단체가 금요일 밝혔다. 이로써 그의 총 형량은 30년 이상으로 늘어났다. 41세의 로이 엣 출신인 그는 2020년 방콕에서 전례 없는 청년 주도의 민주화 운동 시위에서 두드러진 인물이었으며, 왕정 개혁을 공개적으로 요구했다. 아논이 한 연설은 왕족의 이름을 언급하지 않았지만 누가 언급되고 있는지 분명했으며, 법률 지원 단체인 태국 인권 변호사(TLHR)에 따르면 그러한 언급은 형법 112조, 즉 왕실 모독법에 따라 명예를 훼손하는 것이었다. 금요일 판결은 수감된 활동가가 직면한 14건의 왕실 모욕 사건 중 11번째 판결이었다. 아논은 금요일 페이스북에 메시지를 올려 법정을 가득 채운 약 100명의 지지자들에게 감사를 표하며 일부는 2시간 이상 서 있었다. 그의 형기는 현재 31년 9개월이라고 그는 썼다. TLHR은 2020년 이후 최소 291명이 왕실 모독죄로 기소되었다고 밝혔다. 수요일, 대법원은 라마 8세 국왕의 죽음에 대한 소셜 미디어 게시물에 대해 왕실 모독법을 위반한 혐의로 남성에게 3년 4개월의 징역형을 선고한 하급 법원 판결을 확정했다. 법원은 해당 게시물이 라마 9세 국왕을 부정적으로 언급했다고 판결했다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "정치적 시위 및 법 집행 관련 뉴스는 여행 시 주의를 요하므로 정보 제공 가치 있음. 다만, 직접적인 여행 제한과는 거리가 멀어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 형사 법원",
-        "price": null,
-        "location_google_map_query": "Bangkok Criminal Court"
-      },
+      "event_info": "{'date': None, 'location': '방콕 형사 법원', 'price': None, 'location_google_map_query': 'Bangkok Criminal Court'}",
       "references": [
         {
           "title": "Court extends sentence for lawyer who called for monarchy reform",
@@ -25386,21 +25375,18 @@
       ],
       "collected_at": "18:03",
       "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201580_700.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/thailand/general/3201580/court-extends-sentence-for-lawyer-who-called-for-monarchy-reform",
+      "source": ""
     },
     {
       "title": "반퐁 국수 축제, 지역 경제 활성화 및 문화유산 계승",
       "summary": "- 반퐁 지역의 독특한 국수 축제가 2월 27일부터 3월 3일까지 열립니다.\n- 축제는 지역 경제를 활성화하고 태국-중국 문화를 기념합니다.\n- 다양한 국수 요리와 수공예품을 맛보고 즐길 수 있습니다.",
       "full_translated": "반퐁 국수 축제가 2월 27일부터 3월 3일까지 반퐁 시에서 열립니다. 이 축제는 반퐁 지역의 국수 생산자, 지방 자치 단체, 그리고 다양한 네트워크가 협력하여 개최되며, 지역 경제를 활성화하고 태국-중국 문화유산을 보존하는 데 목적을 두고 있습니다. 축제 기간 동안 방문객들은 다양한 국수 요리를 맛보고 수공예품을 구경할 수 있습니다. 이 축제는 지역 사회의 전통과 경제적 발전을 결합한 행사로 평가받고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객들에게 새로운 문화 체험 기회를 제공하며, 지역 음식을 맛볼 수 있는 기회. 축제 정보는 여행 계획에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": "2069-02-27 ~ 2069-03-03",
-        "location": "ตลาดดงมะพร้าว เขตเทศบาลเมืองบ้านโป่ง",
-        "price": "무료 (음식 및 상품 구매 비용 별도)",
-        "location_google_map_query": "ตลาดดงมะพร้าว 반퐁"
-      },
+      "event_info": "{'date': '2069-02-27 ~ 2069-03-03', 'location': 'ตลาดดงมะพร้าว เขตเทศบาลเมืองบ้านโป่ง', 'price': '무료 (음식 및 상품 구매 비용 별도)', 'location_google_map_query': 'ตลาดดงมะพร้าว 반퐁'}",
       "references": [
         {
           "title": "เทศกาลโคมไฟ นู้ดเดิลแลนด์ฯ ชูอัตลักษณ์หมี่เตี๊ยวบ้านโป่ง กระตุ้นเศรษฐกิจคู่การสืบสานวัฒนธรรม",
@@ -25411,21 +25397,18 @@
       ],
       "collected_at": "18:03",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWcGq7XMSlQFJ.jpg",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/local/localbusiness/2915470",
+      "source": ""
     },
     {
       "title": "빠툼타니 통신 케이블 절도단 검거, 경비원 총격 부인 및 폭죽 사용 주장",
       "summary": "- 빠툼타니에서 통신 케이블을 훔친 2인조 절도단 검거.\n- 용의자들은 경비원에게 총을 쏘지 않았으며 도주를 위해 폭죽을 던졌다고 주장.\n- 경찰은 추가 공범을 추적하고 있으며, 절도에 사용된 장비와 케이블을 압수.",
       "full_translated": "경찰이 통신 케이블 절도단을 체포하여 2명의 용의자와 증거물을 확보했습니다. 용의자들은 경비원에게 총을 쏘지 않았으며 도주를 위해 폭죽을 던졌다고 부인했습니다. 2월 19일 20시 30분, Pak Khlong Rangsit 경찰서의 경찰은 용의자 2명을 체포하여 언론에 발표했습니다. 수사 결과, 2026년 2월 11일 0시 20분경, 한 회사의 입구에서 전화선을 절단하는 사건이 발생했습니다. 경찰은 CCTV를 확인하고 4명의 남성이 오토바이를 이용해 범행을 저지른 것을 확인, 법원으로부터 체포 영장을 발부받았습니다. 2월 19일 저녁, 경찰은 31세의 Kritsaphat Chayawatphokim과 24세의 Triwit Srimontha를 체포했습니다. 용의자들은 범행을 시인했으며, 도주한 공범 2명과 함께 범행을 저질렀다고 진술했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "통신 케이블 절도가 여행객에게 직접적인 영향을 미치지는 않지만, 치안 문제와 관련되어 주의가 필요할 수 있음. 여행 중 통신 장애 발생 가능성 암시.",
-      "event_info": {
-        "date": null,
-        "location": "빠툼타니",
-        "price": null,
-        "location_google_map_query": "빠툼타니"
-      },
+      "event_info": "{'date': None, 'location': '빠툼타니', 'price': None, 'location_google_map_query': '빠툼타니'}",
       "references": [
         {
           "title": "รวบแก๊งลักตัดสายสื่อสารที่ปทุมฯ ปัดยิงใส่ รปภ. อ้างโยนประทัด เปิดทางหนี",
@@ -25436,6 +25419,133 @@
       ],
       "collected_at": "18:03",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWcBS0ZwC0wHG.jpg",
+      "date": "2026-02-20",
+      "link": "https://www.thairath.co.th/news/crime/2915473",
+      "source": ""
+    },
+    {
+      "title": "코랏 지역 광견병 주의 경고: 54세 남성 사망",
+      "summary": "- 나콘라차시마-수라탐피탁 군부대 경계 지역에서 광견병 감염으로 54세 남성 사망.\n- 개나 고양이에게 물린 경우 즉시 병원 방문 권고. 치료 시기를 놓치면 사망 위험 100%.\n- 2026년 2월 20일, 관련 보건 당국이 광견병 상황을 설명하고 주민들에게 위험성을 알림.",
+      "full_translated": "나콘라차시마 시-수라탐피탁 군부대 경계 지역에서 광견병 감염으로 54세 남성이 사망하여 광견병에 대한 경고가 발령되었습니다. 감염된 경우 즉시 의사의 진료를 받는 것이 좋습니다. 2026년 2월 20일, 농플루앙마나오 병원 회의실에서 관계자들이 모여 광견병 상황을 설명했습니다. 사망자는 12월 6일에 개에 물렸고, 2월 11-13일에 발열과 피로감을 느껴 병원에 입원했으나 2월 15일에 사망했습니다. 보건 당국은 개나 고양이에게 물린 경우 즉시 병원에 방문할 것을 권고합니다. 특히 백신 접종을 받지 않은 동물의 경우 위험하며, 치료 시기를 놓치면 사망 위험이 100%에 달합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전과 관련된 질병 발생 정보. 광견병은 예방 접종을 통해 피할 수 있으나, 감염 시 치사율이 높아 주의가 필요. 해당 지역 방문객에게 주의를 요하는 정보.",
+      "event_info": {
+        "date": null,
+        "location": "나콘라차시마",
+        "price": null,
+        "location_google_map_query": "나콘라차시마"
+      },
+      "references": [
+        {
+          "title": "เตือนระวังโรคพิษสุนัขบ้า รอยต่อเมืองโคราช-ค่ายสุรธรรมพิทักษ์ พบชาย 54 ปี เสียชีวิต",
+          "url": "https://www.thairath.co.th/news/local/2915476",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWbkps0zlaNbk.jpg"
+        }
+      ],
+      "collected_at": "18:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWbkps0zlaNbk.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "방콕 시청, 공원 규정 대대적 개편 추진",
+      "summary": "- 방콕 시청이 20년 만에 공원 규정 전면 재검토에 착수, 현대화 목표.\n- 공원 내 다양한 활동 반영 및 이용자 간 마찰 줄이기 위해.\n- 시민 의견 수렴을 위한 공청회 개최, 동물 행동 변화, 자전거 도로 등에 대한 논의.",
+      "full_translated": "방콕 수도권청(BMA)은 20년 만에 공원 규정을 광범위하게 재검토하여 오랫동안 유지되어 온 규칙을 현대화하고 오늘날 방콕 주민들이 녹지 공간을 사용하는 방식을 더 잘 반영하는 것을 목표로 하고 있습니다. BMA는 최근 온라인 및 현장에서 두 차례의 공청회를 개최하여 주민들이 도시 공원의 사용 방식을 결정하는 데 도움을 주었습니다. 2003년부터 시행된 기존 규정은 시 공원에서 흔히 볼 수 있는 점점 더 다양한 활동과 더 이상 일치하지 않는다고 관계자들은 말합니다. 지난 3년 동안 BMA는 라이브 음악 세션, 커뮤니티 활동 클럽 및 지정된 애완 동물 구역을 포함하도록 레크리에이션 제공을 확대했습니다. 이러한 추가 사항은 접근성을 넓혔지만 공원 사용자 간의 마찰을 야기하여 시청이 마찰을 줄이고 '모두를 위한' 공원을 만들기 위해 규칙을 재검토하게 되었습니다. 시청은 공원 이용객들 사이에서 자주 발생하는 7가지 주요 문제에 대한 의견을 제시했습니다. 특히 왕도마뱀과 같은 공원 내 동물의 행동 변화, 먹이 공급으로 인한 변화, 공원의 생태적 균형에 영향을 미치는 길 잃은 고양이의 증가에 대한 우려가 커지고 있습니다. 자전거 도로 및 공유 도로 역시 명확성이 필요한 영역으로 언급되고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "방콕 공원 이용에 대한 규정 변경은 여행객의 공원 방문 경험에 영향을 줄 수 있으므로 관련 정보 제공. 공청회 개최 및 규정 변경 논의 사항에 대한 정보 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 시내 공원",
+        "price": "무료 (공원 이용료)",
+        "location_google_map_query": "방콕 공원"
+      },
+      "references": [
+        {
+          "title": "City Hall launches major overhaul of park rules",
+          "url": "https://www.bangkokpost.com/thailand/general/3201619/city-hall-launches-major-overhaul-of-park-rules",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201619_260220165659_700.jpg"
+        }
+      ],
+      "collected_at": "18:51",
+      "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201619_260220165659_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "쁘라차랏당, 아누틴 총리 후보 지지",
+      "summary": "- 쁘라차랏당이 아누틴 차른비라쿨을 총리 후보로 공식 지지한다고 발표했습니다.\n- 쁘라차랏당 소속 의원 5명이 아누틴을 지지하며 협력할 예정입니다.\n- 타위 소드송은 과거 품짜이타이당과의 연루 의혹으로 인해 이번 연합에서 빠질 것으로 예상됩니다.",
+      "full_translated": "쁘라차랏당, 아누틴을 총리 후보로 지지\n\n품차이타이당에 5석 추가\n\n2026년 2월 20일 16:11 발행\n\n작성자: Apinya Wipatayotin\n\n쁘라차랏당은 금요일 품차이타이당 대표 아누틴 차른비라쿨을 새로운 총리로 공식 지지한다고 밝혔습니다. 그러나 쁘라차랏당 대표 폴. 콜. 타위 소드송은 품차이타이당과 관련된 사건에 연루되었다는 의혹 때문에 연합에서 빠질 것으로 예상됩니다. 쁘라차랏당 사무총장 수가르노 마타는 금요일 다른 국회의원 당선자 3명과 함께 품차이타이당 임원들과 함께 정치적 지지를 발표하고, 5명의 국회의원 당선자 모두 아누틴과 협력할 것이라고 말했습니다. 폴. 콜. 타위는 당 사무총장이 다른 약속으로 묶여 있다고 말했기 때문에 방콕에 있는 품차이타이당 본부 방문에 참여하지 않았습니다. 선거에서 승리한 품차이타이당은 공식 투표 결과 발표 후 구성될 연립 정부에 폴. 콜. 타위를 참여시키지 말 것을 쁘라차랏당에 요구한 것으로 알려졌습니다. 탁신 치나왓 전 총리의 지지자인 폴. 콜. 타위는 프아 타이당이 집권했을 당시 법무부 장관이었으며, 부리람 북동부 지역의 무앙 지역의 카오 끄라동 토지 분쟁과 상원 선거에서의 담합 의혹을 해결하도록 임명되었는데, 이 두 가지 모두 품차이타이당과 관련이 있는 것으로 알려졌습니다. 쁘라차랏당은 2월 8일 총선에서 5석을 얻었는데, 이는 2023년 5월 14일 총선보다 4석 적은 수치입니다. 쁘라차랏당을 편에 둔 품차이타이당은 새로운 정부를 이끌 아누틴을 위해 291명의 국회의원 당선자를 확보했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 여행 자체에 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Prachachart Party supports Anutin to be PM",
+          "url": "https://www.bangkokpost.com/thailand/politics/3201555/prachachart-party-supports-anutin-to-be-pm",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201555_700.jpg"
+        }
+      ],
+      "collected_at": "18:51",
+      "image_url": "https://static.bangkokpost.com/media/content/20260220/c1_3201555_700.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 신임 법무부 장관 임명 예정",
+      "summary": "- 수파차이 짜이싸뭇(Supachai Jaismut) 전 국회의원이 법무부 장관으로 임명될 예정입니다.\n- 그는 품짜이타이(Bhumjaithai)당 소속으로, 과거 여러 요직을 거쳤습니다.\n- 그의 임명은 2029년 2월 20일로 예상됩니다.",
+      "full_translated": "쑤파차이 짜이싸뭇의 이력: 아누틴 정부의 법무부 장관 임명 예정\n\n차이 칟첩 전 국회의장의 고문이자 품짜이타이당 소속인 쑤파차이 짜이싸뭇의 이력이 공개되었습니다. 그는 과거 법무부 장관 비서관을 역임했으며, 2029년 2월 20일에 법무부 장관으로 임명될 것으로 보입니다. 품짜이타이당이 총선에서 1위를 차지한 후 정부 구성에 대한 소식이 흘러나오고 있으며, 이번에 주목할 만한 자리 중 하나는 법무부 장관입니다. 현재 법무부 장관 비서관이자 법무부 대변인인 쑤파차이 짜이싸뭇이 법무부 장관 자리에 오를 것이라는 소문이 있습니다.\n\n쑤파차이 짜이싸뭇은 1958년 9월 27일에 태어났으며, 현재 67세입니다. 그는 뜨랑 지역 출신으로, 람캄행 대학교 법학과 학사 학위와 태국 국립개발행정대학원(NIDA)에서 행정학 석사 학위를 받았습니다. 그는 정치에 입문하기 전 변호사로 활동하며 법률 전문가로 명성을 쌓았습니다. 그는 처음으로 뜨랑 지역 국회의원 선거에 출마했지만 낙선했습니다. 이후 내무부 장관 비서관과 국민의 힘당 부대변인을 역임했습니다. 이후 \"네윈 친구 그룹\"이 국민의 힘당에서 분리되어 나오자, 그는 총리실 부대변인직을 사임하고 품짜이타이당 창당에 참여했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ศุภชัย ใจสมุทร” ผงาดขึ้นแท่นว่าที่รัฐมนตรีว่าการกระทรวงยุติธรรม ในรัฐบาลอนุทิน",
+          "url": "https://www.thairath.co.th/news/politic/2915478",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWbbAeB1ldSdb.jpg"
+        }
+      ],
+      "collected_at": "18:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EWbbAeB1ldSdb.jpg",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국 사회 보험 개혁 자문위원회, 외부 전문가 배제 결정",
+      "summary": "- 태국 노동부 차관, 사회 보험 개혁 자문위원회에 외부 정치인 참여 불필요하다고 밝혀.\n- 말레이시아, 한국, 일본 등 선진국 사회 보험 모델 연구 지시.\n- 위원회는 독립적인 연구 기관을 통해 공식 연구 진행 예정.",
+      "full_translated": "태국 노동부 차관은 아이스 라차녹과 사하왓 등 외부 인사의 사회 보험 개혁 자문위원회 참여를 불허했습니다. 2069년 2월 20일, 완나퐁 코차락 노동부 차관은 사회 보험 사무소(SSO) 개혁 구조 연구 위원회 회의 후 말레이시아, 한국, 일본, 스웨덴, 캐나다 등 선진국의 사회 보험 모델을 연구하도록 지시했다고 밝혔습니다. 주요 과제는 SSO가 정부 기관 형태를 유지할지, 준정부 기관으로 전환할지, 독립 기관으로 변경할지 검토하는 것입니다. 다음 단계는 연구 기관이나 전문가 팀을 고용하기 위한 TOR을 작성하는 것입니다. 라차녹 스리노크(아이스)와 사하왓 쿰콩 등 야당 의원 2명을 자문위원으로 임명하자는 제안에 대해 그는 \"현재는 외부 인사를 기용하지 않으며, 제안된 바도 없다\"고 밝혔습니다. 연구 과정에 이미 전문가들이 참여하고 있기 때문에 정치권 대표를 추가할 필요가 없다는 것입니다. 칸차나 풀깨우 사회 보험 사무소 사무총장은 2월 14일에 마감된 사회 보험 이사회 선거 규정 초안에 대한 의견 수렴 결과, 역대 최대인 1,244,260명이 참여했다고 밝혔습니다. 이제 모든 의견을 면밀히 분석하여 원칙에 부합하는지 확인해야 하며, 단순히 찬성 또는 반대로 결론 내리는 것이 아니라 신중하게 검토할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없지만, 장기적으로 사회 보험 시스템 변화는 거주 외국인에게 영향을 줄 수 있음. 현재 여행자에게는 낮은 관련성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ไอซ์-สหัสวัต” ชวดนั่งที่ปรึกษาปฏิรูปประกันสังคม ปลัดแรงงานยันไม่จำเป็น",
+          "url": "https://www.thairath.co.th/news/politic/2915455",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EW93D6W1GlK5P.jpg"
+        }
+      ],
+      "collected_at": "18:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8EW93D6W1GlK5P.jpg",
       "date": "2026-02-20"
     }
   ]
