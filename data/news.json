@@ -26308,14 +26308,9 @@
       "summary": "- 태국이 60일 무비자 정책에 대한 주요 변경 사항을 발표했습니다.\n- 2026년부터 적용될 예정이며, 여행객들은 변경 사항을 미리 알아두는 것이 중요합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국이 60일 무비자 정책에 대한 주요 변경 사항을 발표했습니다. 2026년부터 적용될 예정이며, 여행객들은 변경 사항을 미리 알아두는 것이 중요합니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경은 여행객에게 중요한 정보이며, 2026년부터 적용되므로 미리 알아두는 것이 좋습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s 60-Day Visa-Free Policy Faces Major Changes: What You Need to Know for 2026 - Travel And Tour World",
@@ -26324,23 +26319,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3E2dFJvSEo4ZU1iQlJBa1FZVE16NThwdHpTZW1lc2xSRjhHYjk5UW9TMjBCSXNUUXNCVnJUNWJ4eVIxRGdoQjIzYUVoMEYzaF9RODRvMmlULTF0N1pEbnNJM2Q3Nl85bm9ZYXdGNTlnT2JGLUJJRFRLSFl4eXduWlRLSUJyTHJJajlyZTB2OHFaSkl5c3U0VEFvWWNhNWx2RjMxNENXXzhUT2R3VXdRUmdqV2I3Znd1NElnZXNUWHdjZUJiX0RWTk5zS2hkQQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 외국인 방문객 대상 60일 무비자 체류 제도 검토",
       "summary": "- 태국 정부가 외국인 관광객 유치를 위해 60일 무비자 체류 제도를 검토 중이다.\n- 현재 30일 무비자 체류가 가능하며, 연장 가능성이 논의되고 있다.\n- 경제 활성화에 기여할 것으로 기대된다.",
       "full_translated": "태국 정부가 외국인 방문객을 대상으로 60일 무비자 체류 제도를 검토하고 있다는 소식입니다. 현재 태국은 많은 국가의 방문객에게 30일 무비자 체류를 허용하고 있으며, 관광 산업 활성화를 위해 이를 연장하는 방안을 고려 중입니다. 이 정책 변경은 태국 경제에 상당한 긍정적 영향을 미칠 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요. 60일 무비자 체류가 시행되면 여행 계획 수립에 큰 변화를 가져올 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand reviews 60-day visa-free stay scheme for foreign visitors - The Economic Times",
@@ -26349,23 +26341,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVi1tc1dMRTQ1blREWnVmTVIzNDVkZGJzckIyRHdXeWhsTGg3TlNpaHgxcVU2ak1yM3dTLTRDbnZESE42YmxZWjl5U2JDWGdmQlFsMXRBOS1ycE16NnJzVzBldGE1bDdtdU04SXVMQXl3RUQ0Q1ZxcjY2bFdnRk44NFo2U0NQbkRQaFBwaS1Dck5nTFFtT3hrNGREVVRyWU9nbHVKWVpaaGJSRm01SHpNbWFqUmtta1BZdXh1dTJyYlhLSWVGMW5MRm1n0gHPAUFVX3lxTFBJdDJMZ2xJVUlGS0pkVm1QZFBkRlZmVFlDNjNaS2VQbTJLZnJhZG1RMTl3SC1oUjhibGhHczRydU5yNjl3UXFOX0d2MTFIQnU4TjRfdkQ2RDk4TWtCbElPUnZab3dfTmpFSF8wS1FfalIzOV9BbXgtUUx4UXRGUGxCdloyVkdkekpTcjZmVDhXd3dUc3kybVdWZmRuSVA5eVR6VGFHS2R3cklicUVITWVnMV9xX3V4c3dnbERieHRIdlBMSjZiOG5kYVVlcXhqcw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 여행 비용 증가: 국제 여행객 서비스 요금 53% 인상 - Mint",
       "summary": "- 태국 여행 시 국제 여행객에게 부과되는 서비스 요금이 53% 인상될 예정입니다.\n- 정확한 인상 시점과 구체적인 요금은 아직 발표되지 않았습니다.\n- 여행 예산 계획에 참고하여 추가 비용을 고려해야 합니다.",
       "full_translated": "태국 여행 비용이 증가합니다. 국제 여행객 서비스 요금이 53% 인상됩니다. Mint",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행 시 발생하는 추가 비용은 여행객에게 직접적인 영향을 미치므로 관련 정보를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Travel to Thailand gets more expensive: Service charge for international travellers to rise 53% - Mint",
@@ -26374,23 +26363,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcThqS20xbVRTYkhjeDlfR0h5RWJGNnRzbDFzN2hzM1NNMHJhU2RxaTllWjdqMVhqX01EY0ZyQXVUR2RrT25tcnRkNnVKa0pac3VkblpOUGo3Y1plWnEzOTFDRVhRaENaUHVEam1RRFIwTE1DSVVMVmZWdVd2MjhRdW5MTThNS0FIdDNPdHU1S1VtWlFMbnM1LWN0ZzhpMUZWMnlDWVI3X1VlNHF2Ym5DVG01bGdPS1RraFFqd3VDRTVMSjBSNjRLSG40NlpzSUdqOFZhZzdNM2stalFrbWQ5dnk5NNIB6AFBVV95cUxNSHNIS1QzdWlDTVQxeGZ4TkJHc3FNN0lxODNwWHFmMXkwUWEwZGJZeDF2Q2V5TmxJQ0ZqQWp2QzV4SXYwWV9ueFZuZ29EazdVZVV6UXFtTVFZekNtb0xZNklWcW1ZSnl6VDhQekVqalNWZmZpakU0MXlXTmM3YlFoM3U4WEVLLVo2dWRJN2tva2pPX0dIcDZ2eHl5Q01MT3pIM0FnQjZXLWk1Z2JMMEtKTmNWcG9ad0h5TkRXLUpOZVRIWGdNYUFubzR1Z3lSbWdaUlZhS3ptYkR4UVpRR3ZGa0pDenBDWnZH?oc=5",
+      "source": ""
     },
     {
       "title": "구걸하는 외국인 증가 문제 심각: 파타야, 강제 추방 후 재입국 사례 발생",
       "summary": "- 파타야에서 구걸하는 외국인 수가 증가하고 있어 문제가 되고 있음.\n- 일부는 이미 강제 추방된 후 재입국한 경우도 있음.\n- 관광객들에게 부정적인 영향을 미치므로 당국의 강력한 법 집행이 요구됨.",
       "full_translated": "파타야에서 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 지역 치안 문제 관련. 관광객에게 잠재적 위협.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Concerned Residents Point Out Increasing Number of Beggars in Pattaya, Some Being Foreigners Previously Deported",
@@ -26398,7 +26384,60 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
+      "image_url": "",
+      "date": "2026-02-21",
+      "link": null,
+      "source": ""
+    },
+    {
+      "title": "영국인 관광객, 태국에서 오토바이 사고로 혼수상태 후 사망 - GB News",
+      "summary": "- 영국인 관광객 Tiger Duggan이 태국에서 오토바이 사고로 혼수상태에 빠진 후 사망했습니다.\n- 사고 경위 및 자세한 내용은 아직 알려지지 않았습니다.\n- 태국 여행 시 안전에 유의해야 합니다.",
+      "full_translated": "Tiger Duggan: 영국인 관광객이 태국에서 오토바이 사고로 혼수상태에 빠진 후 사망 - GB News",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 관광객 사망 사건으로, 태국 여행 안전에 대한 인식을 환기시키므로 게시.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Tiger Duggan: British tourist dies in Thailand after motorbike crash left him in a coma - GB News",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR1UybzkzcVE5OHdJSTFLZ0J6R3FobWUwaTBuSTZ3dlhJUm9IXzJ1cGhTamMzWXVMcXpXVG03TnV6cy1zRnBxQVhzR3pnUTRCdWxiUC1TYjhOWjF4TDVOR29zQ0g5RGtublZkVlJtOERKdVF2N1RUeFNKM0xRcm9lRlZ6QUJYOWN5OHNCY196OF8tUG9sSXc?oc=5",
+          "source": "GB News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 호텔업계, 안전 문제로 2026년 외국인 관광객 도착 정체 전망 - TTG Asia",
+      "summary": "- 태국 호텔업계는 안전 문제로 인해 2026년 외국인 관광객 도착이 정체될 것으로 예상합니다.\n- 이는 태국 관광 산업 회복에 대한 우려를 제기합니다.\n- 자세한 내용은 TTG Asia에서 확인할 수 있습니다.",
+      "full_translated": "태국 호텔업계는 안전 문제로 인해 2026년 외국인 관광객 도착이 정체될 것으로 예상합니다. TTG Asia",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광객 안전에 대한 우려가 언급되었으므로 여행 관련 정보로 간주.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai hoteliers forecast flat 2026 foreign arrivals, cite safety concerns - TTG Asia",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUGRxVWVTTVJXLWU0cWRYc1FObTktS0FpZldIR1VJcE5Id24yZmQtRV9CdWtTUFVPLS1rMUd5MUhaaTVnd2VYbW4xNkVfRzU5UVdRdU5KT2t1SDAxbzFEdWx5ZXBPR01OVm5OaThzemhZc3lJTTRoeU9YbGo4VDVpVFpQR3lYU3lMTDlOVXJuV2k4aWQ0VnpVSGw5Q1FJOUhpalZGa2s2OFlKWmc?oc=5",
+          "source": "TTG Asia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-21"
     }
   ]
