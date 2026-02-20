@@ -26198,14 +26198,9 @@
       "summary": "- 파타야에서 외국인 구걸 행위 증가, 특히 캄보디아 국적자가 많음.\n- 과거 강제 추방된 여성이 불법으로 재입국하여 구걸 행위를 하고 있다고 진술.\n- 관광객에게 동정심을 유발하여 기부를 받는 방식으로 생계 유지.",
       "full_translated": "파타야 해변 도로와 파타야 세컨드 로드에서 2026년 2월 19일 오후 9시 30분경, 외국인 여성 구걸 행위가 발생했다는 신고가 접수되었습니다. 현지 주민들은 붐비는 유흥가에서 한 여성이 2~3개월 된 아기를 안고, 5~7세 정도의 아이가 옆에 앉아있는 것을 목격한 후 언론에 알렸습니다. 이들은 관광객들에게 동정심을 유발하기 위해 사탕을 팔고 기부를 요청했습니다. \n\n취재진이 여성에게 질문하자, 그녀는 최소 두 번 이상 캄보디아로 체포 및 송환된 적이 있다고 인정했습니다. 그녀는 자연 국경을 통해 불법적으로 태국에 재입국했으며, 검문소가 덜 활발한 시기에 밴을 타고 파타야로 이동했다고 주장했습니다. 여성은 총 세 명의 자녀가 있으며, 가족을 재정적으로 지원하기 위해 구걸을 한다고 밝혔습니다. \n\n취재진은 주변에 있던 다른 외국인들이 언론의 존재를 눈치채자마자 아이들을 데리고 밤 속으로 사라지는 것을 목격했습니다. 이는 당국의 감시를 피하려는 노력의 일환으로 보입니다. 현지 소식통은 이 문제가 반복적으로 발생하고 있으며, 주로 캄보디아 출신의 서류 미비 외국인들이 당국의 단속, 체포, 추방 후에도 파타야의 주요 관광 지역에서 구걸을 위해 반복적으로 돌아오고 있다고 설명했습니다. 이민 경찰, 관광 경찰, 현지 관리들이 주기적으로 단속 작전을 펼치고 있지만, 문제는 지속되고 있으며 관광 산업에 부정적인 영향을 미치고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야의 치안 및 관광 이미지에 부정적인 영향을 줄 수 있으며, 여행객의 안전 문제와도 연관될 수 있어 정보 제공 가치가 높음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변 도로, 파타야 세컨드 로드",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach Road, Pattaya Second Road"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변 도로, 파타야 세컨드 로드', 'price': None, 'location_google_map_query': 'Pattaya Beach Road, Pattaya Second Road'}",
       "references": [
         {
           "title": "Concerned Residents Point Out Increasing Number of Beggars in Pattaya, Some Being Foreigners Previously Deported",
@@ -26214,23 +26209,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771560130827-scaled.jpg?v=1771560252"
         }
       ],
-      "collected_at": "01:00",
+      "collected_at": "1:00",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771560130827-scaled.jpg?v=1771560252",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/20/concerned-residents-point-out-increasing-number-of-beggars-in-pattaya-some-being-foreigners-previously-deported/",
+      "source": ""
     },
     {
       "title": "파타야 해변 노숙자의 부적절한 행동, 관광객 충격 및 강력한 법 집행 요구",
       "summary": "- 파타야 해변에서 노숙자가 부적절한 행위를 하여 관광객들에게 충격을 줌.\n- 목격자는 해당 남성이 해변에 자주 출몰하며, 과거에도 유사한 행동을 보였다고 진술.\n- 지역 주민들은 정부, 경찰, 사회복지 부서에 해변 지역 규제를 위한 지속적인 조치를 촉구.",
       "full_translated": "파타야 뉴스 기자들은 사건 발생 직후 현장을 방문했지만, 용의자를 찾을 수 없었습니다. 현지 목격자인 캄파낫 우에사쿨(38세)씨는 그 남자가 해변에 자주 나타나고, 종종 걷거나 잠을 자는 모습이 목격된다고 진술했습니다. 사건 당일 밤, 그는 모래 한가운데 누워 음란한 행위를 하다가 누군가 촬영을 시작하자 일어나 어둠 속으로 사라졌습니다. 인근 주민들은 파타야 해변에 거주하는 노숙자 문제에 대해 지속적인 불만을 표하고 있습니다. 당국의 주기적인 단속에도 불구하고 많은 사람들이 공공장소에서 생활하며 방문객들의 안전에 대한 우려를 더하고 있습니다. 지역사회 구성원들은 지방 정부, 경찰, 사회복지 부서를 포함한 관련 기관에 해변 지역을 규제하기 위한 더 진지하고 지속적인 조치를 시행할 것을 촉구하고 있습니다. 그들은 이러한 사건이 최고의 국제 관광지로서의 파타야의 명성을 손상시키고 모든 방문객을 위한 안전하고 가족 친화적인 환경을 보장하기 위한 즉각적인 조치를 요구했습니다. 당국은 이번 보고서와 관련된 구체적인 후속 조치에 대해 아직 언급하지 않았지만, 과거 유사한 사건으로 인해 해당 지역의 취약한 사람들을 위한 일시적인 단속 및 지원 프로그램이 시행되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변에서 발생한 노숙자의 부적절한 행위는 관광객들에게 불쾌감을 주고 안전에 대한 우려를 야기할 수 있으므로 관광객에게 잠재적인 영향을 미친다고 판단. 또한 파타야의 이미지에도 부정적인 영향을 줄 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': 'Pattaya Beach'}",
       "references": [
         {
           "title": "Homeless Man’s Indecent Behavior on Pattaya Beach Shocks Tourists, Sparks Calls for Stricter Enforcement",
@@ -26239,23 +26231,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715572883855205115192561860322.jpg?v=1771557806"
         }
       ],
-      "collected_at": "01:00",
+      "collected_at": "1:00",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715572883855205115192561860322.jpg?v=1771557806",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/20/homeless-mans-indecent-behavior-on-pattaya-beach-shocks-tourists-sparks-calls-for-stricter-enforcement/",
+      "source": ""
     },
     {
       "title": "태국에서 미국인 관광객 칼에 찔려 사망",
       "summary": "- 미국인 관광객이 여자친구를 되찾으려 태국에 갔다가 칼에 찔려 사망함.\n- 사건은 태국에서 발생했으며, 현재 현지 경찰이 수사 중임.\n- 피해자는 칼에 찔리고 구타를 당해 사망한 것으로 알려짐.",
       "full_translated": "태국에서 미국인 관광객이 여자친구를 되찾으려던 중 칼에 찔려 사망했습니다. People.com에 따르면, 이 사건은 태국에서 발생했으며, 현지 경찰이 자세한 경위를 조사하고 있습니다. 피해자는 칼에 찔리고 구타를 당해 사망한 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 강력 범죄 발생은 여행객 안전에 직접적인 영향을 줄 수 있으므로 포함. 특히 밤 시간대에는 더욱 주의가 필요함.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "American Tourist Stabbed, Beaten to Death in Thailand While on Quest to Win Lover Back - People.com",
@@ -26264,23 +26253,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:00",
+      "collected_at": "1:00",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcGhNZkpEU1NzcmVZWnlMbWdPeElrZUpLUFI5NjZlUzlOOGFkcmd6ZXFKT0ZIVXlOZXBtQllSdEVZbnpYUlJVM1FaOHFVVkIzeGtIZkd4U1h5Z0tzNTdUaFcxa1BEMm9nYVJ5U2k5bkg3WlNmaHBMTHhKOHpOYm0xYl9ZY21fTmhsWWc?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 주민 포럼 개최: 지역 현안 논의 및 삶의 질 개선 모색",
       "summary": "- 파타야 시, 4개 지역 주민 대표와 함께 지역 사회 포럼 개최\n- 주요 논의 과제: 공공 인프라 개선, 마약 문제 해결, 주민 안전 강화\n- 수렴된 의견은 파타야 시 및 관련 기관에 전달, 실행 계획 수립 예정",
       "full_translated": "파타야 시는 촌부리 지방 행정 기구(PAO) 위원인 나콘 폴 룩 인 씨의 주재 하에 춤사이 지역 보건 센터에서 지역 사회 포럼을 개최했습니다. 담롱키앗 피닛칸 파타야 부시장, 시의회 의원, 정부 기관 관계자 및 지역 사회 대표들이 참석했습니다. 이번 포럼에는 춤사이, 봉콧, 아루노타이, 파타야 타이 팟타나 등 4개 지역 사회 대표들이 참여하여 우려 사항을 공유하고 문제점을 논의하며 아이디어를 교환했습니다. 주요 논의 사항은 다음과 같습니다.\n\n- 기본적인 공공 인프라 및 유틸리티 개선\n- 지역 사회 내 마약 문제 해결 대책\n- 주민의 생명과 재산 보호를 위한 안전 강화\n- 기타 주민들이 당국에 즉시 해결을 촉구하는 시급한 문제\n\n지역 사회에서 수집된 모든 피드백, 의견 및 권장 사항은 파타야 시 및 관련 기관에 제출되어 고려될 예정입니다. 관계자들은 이러한 의견을 바탕으로 구체적인 실행 계획과 개선 방안을 개발할 계획입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 지역의 공공 서비스 및 안전 관련 논의는 여행객에게 간접적인 영향을 미칠 수 있으므로 중간 점수 부여. 특히 마약 문제는 여행객 안전과도 연관될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "춤사이 지역 보건 센터",
-        "price": null,
-        "location_google_map_query": "Chumsai Community Primary Health Center Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '춤사이 지역 보건 센터', 'price': None, 'location_google_map_query': 'Chumsai Community Primary Health Center Pattaya'}",
       "references": [
         {
           "title": "Pattaya City Hosts Community Forum with Four Neighborhoods to Address Urgent Issues and Promote Sustainable Quality of Life Improvements",
@@ -26289,23 +26275,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715623825276994540488589049022.jpg?v=1771562453"
         }
       ],
-      "collected_at": "01:00",
+      "collected_at": "1:00",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715623825276994540488589049022.jpg?v=1771562453",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/20/pattaya-city-hosts-community-forum-with-four-neighborhoods-to-address-urgent-issues-and-promote-sustainable-quality-of-life-improvements/",
+      "source": ""
     },
     {
       "title": "태국 관광, 2026년에는 가격 아닌 품질로 경쟁해야 - TCT",
       "summary": "- 태국 관광위원회(TCT)는 태국 관광이 가격 경쟁에서 벗어나 품질 경쟁으로 전환해야 한다고 강조함.\n- 2026년까지 고품질 관광 상품 및 서비스 개발에 집중할 것을 제안함.\n- 지속 가능한 관광 성장을 위해 새로운 전략과 투자가 필요하다고 언급함.",
       "full_translated": "태국 관광위원회(TCT)는 태국 관광이 2026년에는 가격이 아닌 품질로 경쟁해야 한다고 밝혔습니다. \n\nTCT는 태국 관광이 가격 경쟁에서 벗어나 고품질 관광 상품 및 서비스를 개발하는 데 집중해야 한다고 강조했습니다. 이를 통해 지속 가능한 관광 성장을 이루고 더 많은 고소득 관광객을 유치할 수 있을 것으로 기대하고 있습니다. 새로운 전략과 투자를 통해 태국 관광의 경쟁력을 강화해야 할 필요성을 언급했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광의 장기적인 방향성에 대한 제안으로, 여행객에게 직접적인 영향은 적지만 향후 서비스 품질 개선 가능성을 내포하고 있어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TCT: Thai tourism must compete on quality, not price, in 2026 - Nation Thailand",
@@ -26314,8 +26297,108 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:00",
+      "collected_at": "1:00",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5hNDR4TVFJOGJ4b0tPWTNNNHhZbXFXRjdfSjhLZ3RYdnV0cVF4OXZQOFM2Mk5tLTF3blYzNmsyRTR4cV9JY3hiWUJ1dWVKU21NaFlsMlNWaG1oWktXWDV4UVFn?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 60일 무비자 정책, 2026년 주요 변경 사항 안내 - Travel And Tour World",
+      "summary": "- 태국이 60일 무비자 정책에 대한 주요 변경 사항을 발표했습니다.\n- 2026년부터 적용될 예정이며, 여행객들은 변경 사항을 미리 알아두는 것이 중요합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 60일 무비자 정책에 대한 주요 변경 사항을 발표했습니다. 2026년부터 적용될 예정이며, 여행객들은 변경 사항을 미리 알아두는 것이 중요합니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 여행객에게 중요한 정보이며, 2026년부터 적용되므로 미리 알아두는 것이 좋습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s 60-Day Visa-Free Policy Faces Major Changes: What You Need to Know for 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON3E2dFJvSEo4ZU1iQlJBa1FZVE16NThwdHpTZW1lc2xSRjhHYjk5UW9TMjBCSXNUUXNCVnJUNWJ4eVIxRGdoQjIzYUVoMEYzaF9RODRvMmlULTF0N1pEbnNJM2Q3Nl85bm9ZYXdGNTlnT2JGLUJJRFRLSFl4eXduWlRLSUJyTHJJajlyZTB2OHFaSkl5c3U0VEFvWWNhNWx2RjMxNENXXzhUT2R3VXdRUmdqV2I3Znd1NElnZXNUWHdjZUJiX0RWTk5zS2hkQQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국, 외국인 방문객 대상 60일 무비자 체류 제도 검토",
+      "summary": "- 태국 정부가 외국인 관광객 유치를 위해 60일 무비자 체류 제도를 검토 중이다.\n- 현재 30일 무비자 체류가 가능하며, 연장 가능성이 논의되고 있다.\n- 경제 활성화에 기여할 것으로 기대된다.",
+      "full_translated": "태국 정부가 외국인 방문객을 대상으로 60일 무비자 체류 제도를 검토하고 있다는 소식입니다. 현재 태국은 많은 국가의 방문객에게 30일 무비자 체류를 허용하고 있으며, 관광 산업 활성화를 위해 이를 연장하는 방안을 고려 중입니다. 이 정책 변경은 태국 경제에 상당한 긍정적 영향을 미칠 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요. 60일 무비자 체류가 시행되면 여행 계획 수립에 큰 변화를 가져올 수 있다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand reviews 60-day visa-free stay scheme for foreign visitors - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVi1tc1dMRTQ1blREWnVmTVIzNDVkZGJzckIyRHdXeWhsTGg3TlNpaHgxcVU2ak1yM3dTLTRDbnZESE42YmxZWjl5U2JDWGdmQlFsMXRBOS1ycE16NnJzVzBldGE1bDdtdU04SXVMQXl3RUQ0Q1ZxcjY2bFdnRk44NFo2U0NQbkRQaFBwaS1Dck5nTFFtT3hrNGREVVRyWU9nbHVKWVpaaGJSRm01SHpNbWFqUmtta1BZdXh1dTJyYlhLSWVGMW5MRm1n0gHPAUFVX3lxTFBJdDJMZ2xJVUlGS0pkVm1QZFBkRlZmVFlDNjNaS2VQbTJLZnJhZG1RMTl3SC1oUjhibGhHczRydU5yNjl3UXFOX0d2MTFIQnU4TjRfdkQ2RDk4TWtCbElPUnZab3dfTmpFSF8wS1FfalIzOV9BbXgtUUx4UXRGUGxCdloyVkdkekpTcjZmVDhXd3dUc3kybVdWZmRuSVA5eVR6VGFHS2R3cklicUVITWVnMV9xX3V4c3dnbERieHRIdlBMSjZiOG5kYVVlcXhqcw?oc=5",
+          "source": "The Economic Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 여행 비용 증가: 국제 여행객 서비스 요금 53% 인상 - Mint",
+      "summary": "- 태국 여행 시 국제 여행객에게 부과되는 서비스 요금이 53% 인상될 예정입니다.\n- 정확한 인상 시점과 구체적인 요금은 아직 발표되지 않았습니다.\n- 여행 예산 계획에 참고하여 추가 비용을 고려해야 합니다.",
+      "full_translated": "태국 여행 비용이 증가합니다. 국제 여행객 서비스 요금이 53% 인상됩니다. Mint",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 시 발생하는 추가 비용은 여행객에게 직접적인 영향을 미치므로 관련 정보를 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Travel to Thailand gets more expensive: Service charge for international travellers to rise 53% - Mint",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcThqS20xbVRTYkhjeDlfR0h5RWJGNnRzbDFzN2hzM1NNMHJhU2RxaTllWjdqMVhqX01EY0ZyQXVUR2RrT25tcnRkNnVKa0pac3VkblpOUGo3Y1plWnEzOTFDRVhRaENaUHVEam1RRFIwTE1DSVVMVmZWdVd2MjhRdW5MTThNS0FIdDNPdHU1S1VtWlFMbnM1LWN0ZzhpMUZWMnlDWVI3X1VlNHF2Ym5DVG01bGdPS1RraFFqd3VDRTVMSjBSNjRLSG40NlpzSUdqOFZhZzdNM2stalFrbWQ5dnk5NNIB6AFBVV95cUxNSHNIS1QzdWlDTVQxeGZ4TkJHc3FNN0lxODNwWHFmMXkwUWEwZGJZeDF2Q2V5TmxJQ0ZqQWp2QzV4SXYwWV9ueFZuZ29EazdVZVV6UXFtTVFZekNtb0xZNklWcW1ZSnl6VDhQekVqalNWZmZpakU0MXlXTmM3YlFoM3U4WEVLLVo2dWRJN2tva2pPX0dIcDZ2eHl5Q01MT3pIM0FnQjZXLWk1Z2JMMEtKTmNWcG9ad0h5TkRXLUpOZVRIWGdNYUFubzR1Z3lSbWdaUlZhS3ptYkR4UVpRR3ZGa0pDenBDWnZH?oc=5",
+          "source": "Mint",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "구걸하는 외국인 증가 문제 심각: 파타야, 강제 추방 후 재입국 사례 발생",
+      "summary": "- 파타야에서 구걸하는 외국인 수가 증가하고 있어 문제가 되고 있음.\n- 일부는 이미 강제 추방된 후 재입국한 경우도 있음.\n- 관광객들에게 부정적인 영향을 미치므로 당국의 강력한 법 집행이 요구됨.",
+      "full_translated": "파타야에서 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야 지역 치안 문제 관련. 관광객에게 잠재적 위협.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Concerned Residents Point Out Increasing Number of Beggars in Pattaya, Some Being Foreigners Previously Deported",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "01:54",
       "date": "2026-02-21"
     }
   ]
