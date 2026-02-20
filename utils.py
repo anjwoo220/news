@@ -874,7 +874,7 @@ def get_hotel_cache(hotel_name, language="Korean"):
              # 2단계: 언어가 일치하는 행 찾기
              for row in all_records:
                  if row[0] == hotel_name:
-                     cached_lang = row[5] if len(row) >= 6 else "Korean"
+                     cached_lang = row[5].strip() if len(row) >= 6 and row[5].strip() else "Korean"
                      if cached_lang == language:
                         return {
                             "hotel_name": row[0],
