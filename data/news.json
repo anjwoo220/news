@@ -24373,14 +24373,9 @@
       "summary": "- 인도가 태국과 함께 60일 무비자 입국을 허용하여 여행이 더욱 편리해짐.\n- 관광객, 비즈니스 리더, 원격 근무자들에게 유용한 정보.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "인도가 태국과 함께 60일 무비자 입국을 허용하여 관광객, 비즈니스 리더 및 원격 근무자들의 원활한 여행을 지원합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여. 기존 뉴스에 없던 새로운 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "India Joins Thailand In Extending Visa-Free Access With 60-Day Stays, Enabling Seamless Travel For Tourists, Business Leaders, And Remote Workers - Travel And Tour World",
@@ -24389,23 +24384,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxON3dWTy1ycWJDY1F4emNiR0JmSVR3c09COE1ndTVmQS1iTU43bHY0X196TUQyRlhiRXVjbWpXb1N4R0VxdXJyRk5lZHVGc25UNWx4VkVlV3dGY3RPeXM0c09VaVNSMWxXLVpsX0RjSXF2czFjbkJHYXBmT0MtNFlsX0ZVSnFFNkR6OUdMSzNkS3dRS1VuS3dzdjMwMHJIWEZFRks5NXUtaEZJUjdpaHRidGo1b1g1WkhOZ01lMEdJczVXSklobm5KQzItX281ZDZrOE80R29uMG9TMXVKSUMzczZPdTMwbkxYaElRaFRQQ2Q4dzU4SkpudF9PZmstNDU2Mzd5WW1fWFF4dFMzZkxEVThnV3FfQzV4bG44?oc=5",
+      "source": ""
     },
     {
       "title": "중국-일본 외교 갈등, 춘절 기간 중국인 관광객의 일본 여행 감소로 이어져, 한국, 태국, 베트남 방문객 급증",
       "summary": "- 중국과 일본의 외교적 긴장으로 인해 중국인 관광객들이 춘절 연휴 동안 일본 대신 한국, 태국, 베트남을 선택하고 있다.\n- 이는 해당 국가들의 관광 산업에 긍정적인 영향을 미치며, 특히 태국은 중국인 관광객 유치에 적극적인 노력을 기울이고 있다.\n- 여행객들은 최신 업데이트를 확인하여 여행 계획에 참고해야 한다.",
       "full_translated": "베이징-도쿄 외교 갈등으로 인해 중국인 관광객들이 이번 춘절에 일본을 건너뛰고 한국, 태국, 베트남으로 몰리고 있습니다: 알아야 할 새로운 업데이트 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중국-일본 외교 갈등으로 인한 여행 패턴 변화는 태국 여행에 영향을 미칠 수 있으며, 특히 중국인 관광객 증가 가능성을 고려하여 여행 편의 및 관련 정보를 제공할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Beijing-Tokyo Diplomatic Rift Causes Chinese Tourists to Skip Japan This Lunar New Year, South Korea, Thailand, and Vietnam See Surge in Visitors: What New Updates You Need to Know - Travel And Tour World",
@@ -24414,23 +24406,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOcS10MjhRSzllMzc3U3R6V19zMGxpLXBDczMtRUlLR1YwbWVYSHVtdFNtaUhHN3ZyQ1MwRFRyWWkzclhOZlc1MjVkLUhVRFlNSXVVSm5ma3QtMTkySWZzN25GdmsxbkZwQm1sRWNTWGlhWlpaRG43MWhXWWtaU0owZ3VvMHVNNjlYTjJWUEtyZ29CZzJNd1o0bVU3MUZMT2tTZHNmaEJlQzBDZWxhU2ZwZC0wMTN1bUs4U2J4UHRjS3VDX0RSQ0drRWV0MzhyQ0JoakJWWjBCWTN1cl9OLTlRYzJuTnhDcjRnYlJFRWpjSl9kVzdaalFZRm1DR1JFeVdYTXhHOG8yVzhZUTFLZDFCendsOUdmUG80eEtEYTVJZHNGQzJ2Q3pObGtTY045dnFjZUlCdk5FMVhrY2o3SzVHMmc4ck5vUHZC?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 시리킷 여왕 애도 기간…여행객 유의사항",
       "summary": "- 태국은 시리킷 여왕의 애도 기간에 들어갔으며, 이는 관광객에게 영향을 미칠 수 있습니다.\n- 애도 기간 동안에는 특정 행사나 축제가 취소되거나 축소될 수 있습니다.\n- 관광객은 공공장소에서 예의를 지키고, 애도 분위기를 존중하는 것이 중요합니다.",
       "full_translated": "태국은 현재 시리킷 여왕을 1년 동안 애도하고 있습니다. 이것이 관광객에게 어떤 의미가 있을까요? MSN",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여왕 애도 기간으로 인한 행사 취소 및 축소 가능성, 공공장소에서의 예의 준수 필요성을 고려하여 여행객에게 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
@@ -24439,23 +24428,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-20"
+      "date": "2026-02-20",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOeW1PZVBtWUl1Z1JLbVZ5UHo5VFE0MXB4NG02VktsQlB5eUszblM1eml2MGhnTVlZUVJiMXlRdnhacnpUcEV5UkJMVk5KeWNZb21LeC1KSnpIQmFPU1dqWk9pQnp5RUsxM0pnYktteks1aWJ5U0ZfcERYWXg0cGdrbnZsdlprQWxYR2xKaXlJX1JNQjQxU3lNOUk0SHh0ZldqWmp2YU5VNEdwRXRqWEVXYzBjVFVCdWxKdWZFdGdIc0JfVXAtMUlZaExzV0ZmRjNKbTBiNjVjZ1NsY2JwYy1NdUpVNUs2clZiWVZTZG5YbVZidGRLMm9acGE4dnZRRVV1LWdn?oc=5",
+      "source": ""
     },
     {
       "title": "태국 회전 초밥 레스토랑 인기 상승, 일본 음식점 성장세 둔화",
       "summary": "- 태국 내 회전 초밥 레스토랑이 성장 잠재력을 보임.\n- 반면, 전체 일본 음식점 분야는 올해 성장세가 둔화될 것으로 예상됨.\n- MAI 상장 기업인 Maguro Group Plc.의 분석 결과.",
       "full_translated": "MAI 상장 기업인 Maguro Group Plc.에 따르면 태국 내 회전 초밥 레스토랑은 성장 잠재력이 있으며, 전체 일본 음식점 분야는 올해 성장세가 둔화될 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객들에게 새로운 식당 선택지를 제공할 수 있는 정보. 일본 음식에 대한 관심이 높은 여행객들에게 유용할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Conveyor belt sushi rises as Japanese dining cools",
@@ -24463,22 +24449,20 @@
           "source": "Bangkokpost.com : Most recent"
         }
       ],
-      "collected_at": "06:53",
-      "date": "2026-02-20"
+      "collected_at": "6:53",
+      "image_url": "",
+      "date": "2026-02-20",
+      "link": "https://www.bangkokpost.com/business/general/3201005/conveyor-belt-sushi-rises-as-japanese-dining-cools",
+      "source": ""
     },
     {
       "title": "파타야 유나이티드, 나콘파톰 유나이티드와 1-1 무승부",
       "summary": "- 파타야 유나이티드는 홈에서 나콘파톰 유나이티드와 1-1로 비겼습니다.\n- 그레고리 로차가 후반전 시작 직후 득점하며 파타야에 리드를 안겼습니다.\n- 나콘파톰은 86분에 동점골을 넣어 경기를 무승부로 마쳤습니다.",
       "full_translated": "파타야 유나이티드는 2025/26 시즌 25라운드 홈 경기에서 열정적인 관중 앞에서 나콘파톰 유나이티드를 맞이했습니다. 이번 경기는 앞선 첫 번째 경기에서 1-1 무승부를 기록한 후 열린 경기였으며, 승격 경쟁을 벌이는 중요한 경기였습니다. 전반전은 흥미진진한 공방전으로 펼쳐졌습니다. 나콘파톰은 일찍 리드를 잡았다고 생각했지만, 오프사이드 판정으로 골이 취소되어 홈 팬들을 안도하게 했습니다. 파타야 유나이티드는 점차 주도권을 잡으며 페널티 박스 바로 바깥에서 위험한 프리킥을 얻는 등 기회를 만들었지만, 방문팀의 수비를 뚫지 못했습니다. 양 팀은 0-0으로 전반전을 마쳤습니다. 하프타임에는 팬들을 위한 경품 추첨과 풀만 파타야 호텔 G의 숙박 바우처가 포함된 행운권 추첨 등 다양한 이벤트가 진행되어 활기찬 분위기를 고조시켰습니다. 후반전은 시작 직후 활기를 띠었습니다. 후반전이 시작된 지 불과 1분 만인 46분, 파타야 유나이티드의 그레고리 로차가 높이 뛰어올라 헤딩골을 터뜨려 홈 관중을 열광시키고 팀에 1-0 리드를 안겼습니다. 그들은 리드를 확대하기 위해 공격적으로 압박했습니다. 나콘파톰은 즉시 공격적인 교체 선수 투입을 통해 새로운 에너지를 불어넣었습니다. 파타야 역시 측면에서 페이스를 유지하기 위해 교체 선수를 투입했습니다. 마지막 20분은 양 팀이 결정적인 골을 넣기 위해 필사적으로 공격하며 맹렬하고 공개적인 공방전으로 바뀌었습니다. 전환점은 86분에 찾아왔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야에서 열린 축구 경기 결과. 파타야 방문객에게 소소한 흥미를 유발할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야 축구 경기장"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야 축구 경기장'}",
       "references": [
         {
           "title": "Match Report: Pattaya United Draws 1-1 With Nakhon Pathom United",
@@ -24487,8 +24471,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771493645936.jpg?v=1771493714"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771493645936.jpg?v=1771493714",
+      "date": "2026-02-20",
+      "link": "https://thepattayanews.com/2026/02/19/match-report-pattaya-united-draws-1-1-with-nakhon-pathom-united/",
+      "source": ""
+    },
+    {
+      "title": "태국, 비자 면제 정책 재검토: 악용 및 안전 문제 증가에 대한 우려",
+      "summary": "- 태국 정부가 비자 면제 체류 정책을 재검토하고 있습니다.\n- 이는 외국인들의 착취 및 안전 문제에 대한 우려가 커지고 있기 때문입니다.\n- 새로운 정책은 이러한 문제 해결에 초점을 맞출 것으로 예상됩니다.",
+      "full_translated": "태국은 착취와 안전에 대한 우려가 커짐에 따라 비자 면제 체류 정책을 재고하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경 가능성은 여행객에게 직접적인 영향을 미치므로 중요. 현재 정책 재검토 단계이므로 7점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "How Thailand is Rethinking Its Visa-Free Stay Policy to Address Growing Concerns Over Exploitation and Safety - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTjM3NWJBX3o5R25weDNvT1o0Q1dhUHJiaGI5T2FtclVRalVGOUkyVkJrM3ZpUWdublRkM3l4T2FzMkNCMFRjMjR0a1pLMzBycjJUVWE0QVRlOVRqR2FQaEl3aVFyd0lRa2MwUzVYSVVWQ25ycmx4WGlxdGN5YndhVVA1bFNNSktKVTUxck5yMEU0LVNYcnpEZjJYdDNSRmRrc0FqT1R0Sm10a0h1cTZKOENDRFNmay1rcHRxdGVqMUJOTEUzWWdQQUNzMFpYMXd0QnE4MWtvR1QyUk9wZVpHRG1nWnJwRWhIQXJDd3dwaw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "치앙라이 공항, 2026년 중국 설맞이 문화 행사로 관광 수익 증대 기대",
+      "summary": "- 치앙라이 공항이 2026년 중국 설을 맞아 특별한 문화 환영 행사를 개최합니다.\n- 이번 행사는 태국 항공 산업의 성장과 함께 관광 수익 증대를 목표로 합니다.\n- 수백만 명의 여행객들에게 특별한 경험을 선사할 것으로 기대됩니다.",
+      "full_translated": "치앙라이 공항이 2026년 중국 설맞이 문화 행사를 통해 관광 수익을 증대시키고 태국 항공 산업의 호황 속에서 수백만 명의 여행객들에게 감동을 선사할 예정입니다!",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 춘절 기간 동안 태국 여행을 계획하는 여행객에게 치앙라이 공항의 문화 행사는 방문 가치를 높일 수 있는 정보입니다. 하지만 2026년이라는 시점이 멀어 중요도가 높지 않습니다.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "Chiang Rai Airport",
+        "price": "미정",
+        "location_google_map_query": "Chiang Rai Airport"
+      },
+      "references": [
+        {
+          "title": "Chiang Rai Airport Unveils Stunning Cultural Welcome for Chinese New Year 2026, Boosting Tourism Revenue and Thrilling Millions of Travellers in Thailand’s Booming Aviation Industry! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPWEtSdUZma2hXdDJMV1o4TE9PY21lQjBha1A2NjBkaGR3TjFtNlJqa1ZobmV5UEdTOXBsaVlScllrb3ZoVVJVOEIwT1FIQUVyNUxTeEVxRWdkUnNPdUsxRzFpU0I1UXdoV2tlV2JidUt0c1RTTlhmZ1FfMmJ2TElkTlA4UGktb21fUFFpY0tZMFJwMkFSTXlpR1J4a04yRjlEUkQ2V0Z6N3NpdWVzbTRQcktCOGpqclo1dm1nU2RQWmowYXBBWHV2V2hJZy1mLTUyRnFKUXhHaE5EVFBlbDY4VUM5WENBaUN6cUtvdl96dXlWR3NtdTFxZ3V6Vnpsbm9FVHJWbGZlQ2s2MU5FMlI3VVVVZlo0MzNveWdiazF1b05ORmZhRVVGZkJCekh6UlhVU0JkdmJUZG1aa1QyTXA1OHhSdW93bUtRMWhYcA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "고생했다면 태국으로 떠나세요. 기업 보상 여행이 전략이 되고 있습니다 - 매일경제",
+      "summary": "- 기업의 보상 여행 목적지로 태국이 인기를 얻고 있음\n- 열심히 일한 직원들을 위한 특별한 경험 제공\n- 태국 관광 산업 활성화에 기여",
+      "full_translated": "만약 열심히 일했다면, 태국으로 떠나세요. 기업 보상 여행이 전략이 되고 있습니다. - 매일경제",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 활성화에 대한 정보 제공. 기업 보상 여행 트렌드는 여행객 증가에 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"If you've worked hard, leave for Thailand.\"Corporate compensation travel is becoming a strategy of - 매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tZVVTNlJpTWtrVWs4ZG8zdUd0VDgzZWJuLXJlQ0NyOW13b0l2S0NhSUlwTFZ6X281ZWZsZ19yMUpnRkJ4OUpWQ19QVUh3ZWxrUHc?oc=5",
+          "source": "매일경제",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "태국-캄보디아 국경 지방, 관광 회복 조치 모색 - Vietnam+",
+      "summary": "- 태국과 캄보디아 국경 지방이 관광 산업 회복을 위한 협력 방안을 모색하고 있습니다.\n- 양국은 관광객 유치를 위한 공동 프로모션 및 상품 개발을 논의 중입니다.\n- 코로나19 팬데믹으로 타격을 입은 지역 경제 활성화에 기여할 것으로 기대됩니다.",
+      "full_translated": "태국-캄보디아 국경 지방이 관광 회복 조치를 모색합니다. Vietnam+ (VietnamPlus)",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국-캄보디아 국경 지역 관광 활성화 노력은 여행자에게 새로운 여행 옵션을 제공할 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국-캄보디아 국경 지방",
+        "price": null,
+        "location_google_map_query": "태국 캄보디아 국경"
+      },
+      "references": [
+        {
+          "title": "Thai-Cambodian border provinces seek tourism recovery measures - Vietnam+ (VietnamPlus)",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFRTTlZVcmRjUTUxSUU4WVpDd1luVEVROUVMRkRDSHBDeXViZWF4WFVaeGl5N0NRcUkxV0M0cUQxOG1DaGlQNXl4ZFl6TWFWeXNNM0dpZ21tc3hTWEJBZjk0ZWxxSXRpZ2xXa0tuMnpBRzFQS2dXWU5QZFRCU20yWkJqLWNpTjBRTlY3ZE1WMXU0d3FmcjgwVkRXamRTb0FHWHRkbVFB?oc=5",
+          "source": "Vietnam+ (VietnamPlus)",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-20"
+    },
+    {
+      "title": "중국, 혼인 건수 증가에도 출산율 위기 심화",
+      "summary": "- 2025년 중국 혼인 건수 10.8% 증가했으나, 출산율은 사상 최저 기록.\n- 정부의 출산 장려 정책에도 불구하고, 2025년 출생아 수는 792만 명으로 감소.\n- 전문가들은 젊은 세대의 결혼관 변화와 과거 '한 자녀 정책'의 영향을 지적.",
+      "full_translated": "2025년 중국의 혼인 건수가 10년 가까이 지속된 감소세에서 벗어나 증가했지만, 출산율은 사상 최저 수준으로 떨어졌습니다. 외신 보도에 따르면 2025년 중국의 혼인 등록 건수는 676만 건으로 2024년 최저 기록보다 약 10.8% 증가했습니다. 그러나 이는 거의 10년 동안의 혼인 건수 감소 이후에 나타난 증가이며, 작년 등록 건수는 2015년에 기록된 1225만 건의 절반 수준에 불과합니다.\n\n한편 중국의 출산율은 계속 감소하여 2025년에는 792만 명의 신생아가 태어나 사상 최저치를 기록했습니다. 이로 인해 중국은 급속한 고령화 사회로 진입하고 있습니다. 한 중국 노인은 젊은 세대가 결혼에 대한 관점이 바뀌었다고 믿고 있으며, 특히 인구 증가를 억제하기 위해 1970년대에 도입되어 2015년에 공식적으로 종료된 '한 자녀 정책'의 영향을 언급했습니다. 그는 “형제자매와 함께 자란 우리와 달리 가족 관계를 매우 중요하게 생각합니다. 그러나 80년대 이후 세대는 형제자매 간의 유대감과 같은 '자산'이 없기 때문에 매우 독립적이며, 이것이 오늘날 결혼이 복잡해진 이유일 수 있습니다.”라고 말했습니다.\n\n혼인 건수 증가는 중국 정부가 지속적으로 시행하고 있는 혼인 장려 정책의 결과일 수 있습니다. 2025년 5월부터 커플은 결혼 등록이 허용되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행에 직접적인 영향은 없지만, 중국의 사회 변화를 보여주는 흥미로운 로컬 뉴스. 관광객의 관심사가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ชาวจีนแต่งงานมากขึ้นในปี 2568 แต่อัตราเกิดยังวิกฤติ",
+          "url": "https://www.thairath.co.th/news/foreign/2915294",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HTJ9Bva1GfeQ.jpg"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx75HTJ9Bva1GfeQ.jpg",
       "date": "2026-02-20"
     }
   ]
