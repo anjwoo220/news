@@ -26461,14 +26461,9 @@
       "summary": "- 리사의 태국 관광 캠페인으로 인해 Red Lotus Sea 방문 방법에 대한 관심 증가.\n- Red Lotus Sea는 태국에서 꼭 방문해야 할 명소 중 하나.\n- 방문 시기와 교통편, 숙소 정보 등을 제공.",
       "full_translated": "리사의 태국 관광 캠페인으로 인해 Red Lotus Sea 방문 방법에 대한 관심이 증가하고 있습니다. Red Lotus Sea는 태국에서 꼭 방문해야 할 명소 중 하나이며, 방문 시기와 교통편, 숙소 정보 등을 제공합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "새로운 관광 명소 정보는 여행객들에게 유용하므로 중간 이상의 점수 부여. 리사 캠페인 연관성 고려.",
-      "event_info": {
-        "date": null,
-        "location": "Red Lotus Sea, Thailand",
-        "price": null,
-        "location_google_map_query": "Red Lotus Sea Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Red Lotus Sea, Thailand', 'price': None, 'location_google_map_query': 'Red Lotus Sea Thailand'}",
       "references": [
         {
           "title": "How to visit the Red Lotus Sea in Lisa’s viral Thailand tourism campaign - Lifestyle Asia Hong Kong",
@@ -26477,7 +26472,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:52",
+      "collected_at": "3:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRVNMZFZwRTU2MDVERk9ZUUtEcVVfMEZwREVaYTYtcC0zVERtbHZaeC1PTHFoZVRxN1l4VUJ2ei1FV1U5RzhBMkhqbXZiTjRkT080QV96ZWt6RFV6N1M2eno4UklQOEh5cmNnM2MtTkFMOGQ0Uy1laks5d2xXb0xjaXdaMFNrWDRPLV9mQTV0VTRYa1hEREJLRDFKZ2tIeHlvV0NyVUxwT0FSYlZVcXhjZloyY0bSAboBQVVfeXFMTm9qQ1dmWFExdU1VdC0xS0RxRWFhdW9CX0ZQM0FHMm0xUXNUSmFqTnRmbklVWEE1SU96YkhXRHA1NnJfZnVwbEZmR2pSUm1SRjlucHRVdk43WWZORTRFUUtGbmVKUklFTmpISUY1OW9EN1JIa3haUmM0Y0hoQkhBazFoanpLdGR2eE5Yd2Y4b1ZpUEJrRHhzNDhzTjgtVjJjaG9qVGhZVWV5NTAzeEhVV0ZJQ2xQUUM4TGxR?oc=5",
+      "source": ""
+    },
+    {
+      "title": "송끄란 2026: 최고의 물 축제 경험을 위한 태국 최고의 여행지 공개 – 방콕, 치앙마이, 파타야 등 – 지금 알아야 할 모든 것",
+      "summary": "- 송끄란 2026 축제는 태국에서 가장 큰 행사 중 하나입니다.\n- 방콕, 치앙마이, 파타야 등 다양한 지역에서 축제를 즐길 수 있습니다.\n- 각 지역별 특징과 행사 정보를 미리 확인하여 최고의 경험을 계획하세요.",
+      "full_translated": "송끄란 2026: 최고의 물 축제 경험을 위한 태국 최고의 여행지 공개 – 방콕, 치앙마이, 파타야 등 – 지금 알아야 할 모든 것 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "송끄란 축제 정보는 여행객에게 유용하지만, 2026년 정보이므로 당장 필요한 정보는 아님. 하지만 주요 도시 정보는 참고할 만함.",
+      "event_info": {
+        "date": "2026-04-13",
+        "location": "방콕, 치앙마이, 파타야",
+        "price": "무료 (일부 행사 제외)",
+        "location_google_map_query": "방콕 송끄란 축제, 치앙마이 송끄란 축제, 파타야 송끄란 축제"
+      },
+      "references": [
+        {
+          "title": "Songkran 2026 : Unveil Thailand’s Top Travel Destinations for the Ultimate Water Festival Experience – Bangkok, Chiang Mai, Pattaya And More – All You Need To Know Now - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPbGszSnphcDVBTFQxS3o5Q1huV2Y5djJRbmh3SkxqMTlsMEMtcTlBa0VpTWEyRWNBV0UxOWRQUWF1LUVvZWRWSXVad2d0UFJKcHBlN1BpQlVFQ1FJRThvbHBhWjVDRUg3TjZwSGc0MFNoMHl0bWkyRm5XT1dnam8zcjRXaVFLSHJPVktoZDRqMlA0VDkyRVYycEQyS1Y4YnRDR0NlOVRlaFFLMER6OC1rNENxdU5FTDV0M2FfanFZMDJ4dlE2azBCdXpGWGI3eXJmTl9odDlxTlVtUzJZWnp2ZjNxcXpUaEh4OFFkVDlhVVVZYTIxZ2tTOEkxWHktWC1nWXg0SVY4aGE4SFlKdTZ5QkwtNk90Vk5aOTl4dlFfWGVJdGVOeFh4YUEtUGNlTzRQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 관광청, '양보다 가치' 강조하며 '태국에서의 즉각적인 행복' 캠페인 추진",
+      "summary": "- 태국 관광청(TAT)이 '태국에서의 즉각적인 행복' 캠페인을 통해 관광객 유치 전략을 변경.\n- 양적 성장보다 질적 성장에 집중하여 고부가가치 관광객 유치에 힘쓸 예정.\n- 태국의 다양한 매력을 강조하여 관광객들에게 즉각적인 행복을 선사하는 데 초점을 맞춤.",
+      "full_translated": "태국 관광청(TAT)은 '태국에서의 즉각적인 행복'이라는 캠페인 하에 '양보다 가치'를 강조하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광청의 새로운 캠페인 정보로, 여행객들에게 태국 여행의 매력을 알리고 만족도를 높이는 데 기여할 수 있어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TAT promotes ‘instant happiness in Thailand’ under value over volume - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0ybmtVZVFsWFdNbWd2RVJCald1bHFVVy1taDFaZGJYVUpWNXR3ZUNuREREb0ljTHpldENlYmJLLTdtaHpCb2lqRlBVWHI0LU11dTBYTnZKN2tENUdacDlJbjVR?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 관광산업 회복세, 호주, 인도, 미국 관광객 증가: Qantas, Virgin Australia, OYO, Marriott, Hilton 호텔 수혜 예상",
+      "summary": "- 태국 관광산업이 회복세를 보이며, 호주, 인도, 미국 관광객이 증가하고 있습니다.\n- Qantas와 Virgin Australia는 태국 관광산업의 미래에 큰 기대를 걸고 투자하고 있습니다.\n- OYO, Marriott, Hilton 등 글로벌 호텔 체인들이 태국 관광객 증가로 수익을 얻을 것으로 예상됩니다.",
+      "full_translated": "호주, 태국, 인도, 미국에서 관광객 급증: Qantas & Virgin Australia, 미래에 큰 투자 — OYO, Marriott & Hilton과 같은 글로벌 호텔들은 어떻게 이익을 얻을 수 있을까! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업 회복세 정보는 여행객들에게 유용하며, 관련 호텔 정보는 숙박 시설 선택에 도움이 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Australia, Thailand, India, and the U.S. See Tourism Surge: Qantas & Virgin Australia Betting Big on the Future — How Global Hotels Like OYO, Marriott & Hilton Are Set to Profit! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQMGtRQm5xYW9WazFXRkV0OVNzVjdNTGNTYTJDd3hGS2ZvX2RHTHZJNEV0N0hfa3JVYXZtc0ItYnZFNzVaWDFMcG9nMTN4SVVNLU42MmgyODBkUHlOZnJ6ekVfdGE1WEVDVEF1WUtNdHlvVUFFM1lTcXh4MG5rTkpSZmZfUkUzV0FrbWhuNFRmcEdpNG15NUp5N3oyTy14MkFvN1M4M0NPZkptYTE4X002UmtfdzhuNzhHREhrU181MFN1eUE1MzBGQU5kT2VUbThMMW02TldVZFl1TFBWQTBWOFFXNEJqWDJtTHhwSXlPMzdDeFJnY0VBMXk4Ym1JVXZidEs0NmJobDB0ZDdQMGd3aWpzWTBienRKUW55OVNqSnZlTnNKRklnUUZNY3c0V2JQU1JINWV5XzlEZw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 산호 냉동 보존소, 죽어가는 산호초의 시간을 벌기 위해 노력",
+      "summary": "- 태국에서 산호 냉동 보존소가 죽어가는 산호초를 살리기 위해 노력하고 있다.\n- 몽고베이는 이 노력을 자세히 보도했다.\n- 산호초 보존의 중요성이 강조되고 있다.",
+      "full_translated": "태국에서 산호 냉동 보존소가 죽어가는 산호초의 시간을 벌기 위해 노력하고 있습니다. 몽고베이",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행 관련 환경 뉴스, 흥미로운 로컬 뉴스",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "In Thailand, a coral cryobank tries to buy time for dying reefs - Mongabay",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYTBmbXl6QUNzU21mZU5ZLW1tbk9TdHJSSF81MjFkdnZVMlVjeXpsRXJ0NnFEQm1ZZzJxNkx0b2wzcDA1cGVMWmFsNU9PN3FTdHp2MnlkWlEzaGItR0ZkNzJQNFd5c3M4MnV2LW0yMDlnbXl5aF9VMUxzUGRpV0NzdkUzS3B0MkJ5ZkQzTjZSdWY3SU0zWnU4VThYUjhtUdIBowFBVV95cUxPb0lLSE1rSk42NnZ0eHNDQ1JtLXBfTXV6ak1iWEVoc2lNc1d4VWh1QVpHRmFJN3FNMU1KX0ZQaTlVb2Z2V21OVklfZ0NOeGVRVjJkNDE4Tk1JNHo5SGNGUE5scTlsWE1iT3hObEF5eUZHaW5LT2J3ZkRuOExoTGZZMDl3UjNGOFNNWlMyd0ROclVmYm14QkFzQnl0MS05NVZuRjNB?oc=5",
+          "source": "Mongabay",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "음력 설, 해외여행 붐을 일으키지만 일본은 아니다 - 마카오 뉴스",
+      "summary": "- 음력 설 연휴 기간 동안 해외여행 수요가 증가하고 있습니다.\n- 특히 일본이 아닌 다른 지역으로 여행객이 몰리고 있습니다.\n- 자세한 내용은 마카오 뉴스 기사를 참조하세요.",
+      "full_translated": "마카오 뉴스 - 음력 설 연휴는 해외여행 붐을 일으키고 있지만, 일본은 아닙니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행객에게 직접적인 영향은 없으나, 여행 트렌드 변화를 보여주므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "The Lunar New Year sparks an outbound tourism boom, but not to Japan - Macao News",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95a3hlcDFQZkllRENlVzU5UHdhYm1wbld2WGpNb2FKTlBZeTUxRloyY0VNazMwUXBKZmhDeTVGdXBnaWZfOU52b2d4aUFJejNjWXF2UEk4aHlqZ2g5NUV1Wk10ZEhZYTdBNU1TR1MyZXczMjJ6U1E?oc=5",
+          "source": "Macao News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-21"
     }
