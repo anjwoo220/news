@@ -26636,14 +26636,9 @@
       "summary": "- 태국이 무비자 체류 기간을 단축하여 관광객에게 미치는 영향이 클 것으로 예상됨.\n- '저질' 관광객에 대한 불만이 증가하면서 태국 정부가 이러한 결정을 내린 것으로 보임.\n- 향후 태국 여행을 계획하는 여행객들은 비자 정책 변화에 주의해야 함.",
       "full_translated": "태국의 충격적인 행보, '저질' 관광객에 대한 불만 속 60일 무비자 체류 단축 – 향후 여행에 미치는 영향! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 무비자 체류 기간 단축은 여행 계획에 차질을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Shocking Move to Cut 60-Day Visa-Free Stay Amid Complaints of ‘Non-Quality’ Tourists – What This Means for Future Travel! - Travel And Tour World",
@@ -26652,23 +26647,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:16",
+      "collected_at": "5:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQa1lRQTNkVVlIS0tBSW1sLU9xaWVHR2VadVJDczhtbEZLLWZnLTkyc29kZHEzaFBsZnBsWWVXMjEwUDZFdm1iN0tzcFZyeEtmbXNwUEdsMFFYaGFJUmcwRmZhcGE5UmlaTS11bXVqMmdHY0FsUm9ZWEpCcUJRSEs3TzQ0eGIzbXJLUmlNME9uOUl2WTB6TzZGa1BqVjNjVDVMYnFUazBSejlIUVV3SEMwMnQ2dld6aXdvVTQwVlJjdENPYlRNdE5oeW9zcDZLQ3ZkdTVLUEY0cG5QTmNVTk1RUVU0d0FwWWJWbHN1Zm9xam45YWJMSEl1c1EtUFlQVFFZcWxzSDBR?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광, 한국, 중국, 말레이시아, 러시아, 인도 등이 주요 국가로 부상",
       "summary": "- 태국 관광 산업에서 한국이 주요 국가 중 하나로 부상했습니다.\n- 올해 첫 45일 동안 관광객 수가 약 8% 감소했습니다.\n- 자세한 내용은 기사에서 확인할 수 있습니다.",
       "full_translated": "South Korea Joins China, Malaysia, Russia, India, and Others as Top Sources for Thailand Tourism Amid Nearly Eight Percent Decline in the First Forty Five Days of This Year: Everything You Need to Know&nbsp;&nbsp;Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업의 변화를 보여주는 정보로, 한국 여행객에게 참고가 될 수 있습니다. 다만, 현재 여행에 직접적인 영향을 주는 정보는 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Joins China, Malaysia, Russia, India, and Others as Top Sources for Thailand Tourism Amid Nearly Eight Percent Decline in the First Forty Five Days of This Year: Everything You Need to Know - Travel And Tour World",
@@ -26677,23 +26669,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:16",
+      "collected_at": "5:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPZEczMDYzNzdacGZyZUZudE04ejBpN0VPVUlUaU5FU041Q2N5M3ROOWs3aTktV0FSd3lYem1vXzRpZ3dOSUh0c1IzYmdGbk1sNi0zNVVQZy1GYW94anNmRDFEd1ZWTWxnU29RQWV6LUxWd1M0TXppMEFPeTR2ekVCU2c4U014MVhreGp1ZjYxNnJ0TEtjT1ljdG5TRVIyVmhXMjRvREJnSEVqeEljVVdodGwwNS10clBtNDNPbjFnWVdGbWhnMzlpSDhjM3Q1NTVvM20tbXRlQmJmWWxHT2xkd3YwMlBDV0FEOHEzbElpSThlM3ZWRnVSeF9INFg4bVcwb2tITjlTRWpTOVlDT1pDdUNpRTNrem15NkhJY0Q5MEo3dzdyVzhQZHdSREFPZXBnM1dkbV9rQjl0RDY2NnJ2c0hWV1JCN3R2dkFqanNEbEhtOHVCMXVxbnFpeFVyaThLanc?oc=5",
+      "source": ""
     },
     {
       "title": "우즈베키스탄발 해외여행 급증, 태국 등 신흥국 관광 활성화",
       "summary": "- 우즈베키스탄의 해외여행 수요 증가로 중국, 사우디 아라비아, UAE, 태국, 이집트, 카자흐스탄 등 신흥국들이 수혜를 보고 있음.\n- 이는 세계 관광 역학의 변화를 의미하며, 새로운 관광 목적지로서의 가능성을 보여줌.\n- 특히 태국은 우즈베키스탄 관광객 유치를 통해 관광 산업 성장을 기대.",
       "full_translated": "우즈베키스탄의 해외여행 급증은 중국, 사우디 아라비아, UAE, 태국, 이집트, 카자흐스탄 및 기타 신흥 목적지에 혜택을 주며, 세계 관광 역학의 변화를 나타냅니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 관광 목적지로 언급되었고, 여행 트렌드 변화를 보여주므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Turkey Joins China, Saudi Arabia, UAE, Thailand, Egypt, Kazakhstan, And Other Emerging Destinations In Benefiting From The Sharp Rise In Outbound Travel From Uzbekistan, Signaling A Shift In Global Tourism Dynamics - Travel And Tour World",
@@ -26702,8 +26691,85 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:16",
+      "collected_at": "5:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNcExyeFRyZG9NbUh5REpoN29VcWYzNjFKQ1lmRUVYemJxaktTLWd0cWM2UmVPQksya0lBc0UtZ21Xa3QyR2I5TUZ2dm4tN2RoWFBQMDRxVkxhWWdmREtqZ2dNUVRvSVpXTXU5dTBIMl9RbFRHejQwTW9mU00zQU5mc0xhMUVHNmRSNlBTMTlCcTZrZDZoTWFndGpVX0NSQW5xTVR2U0Y4QW5vREpheU9raVRDZzVLRURGZUlIdXJqb0xwNC15QVR5M3luRjgyc01YX1dkMERtUmZIa1l2aGIwNDBLX1VEbWxuX1FvMEFmcWJmaFhIbm1ESXY1ak9ubmczVERCZW9zV2lNbXpWVlJSQUZHOHNOYko3Nms5Zm9lTVFGZldZZmw2YnVzSy1SOTl5ZnRaeXNJMWk1dUJYajNpUS14QVZJb2N2OGotNmFGTERjTEdlcVg3aFBXWnE5YTA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "트럼프, 미국 대법원의 세금 조치 취소에 분노하며 전 세계에 10%의 새로운 세금 발표",
+      "summary": "- 도널드 트럼프 미국 대통령은 대법원의 결정에 불만을 표하며 즉각 새로운 세금 10%를 부과하겠다고 발표함.\n- 트럼프는 1974년 법률에 따라 권한을 행사하여 일시적으로 세금을 부과할 것이라고 주장함.\n- 대법원은 트럼프의 기존 세금 부과가 위헌이라고 판결했으며, 트럼프는 이에 대해 강하게 반발하고 있음.",
+      "full_translated": "2069년 2월 21일 도널드 트럼프 미국 대통령은 대법원의 판결에 반박하는 성명을 발표했습니다. 대법원은 6대 3으로 다수의 국가에 적용되는 전 세계 수입세 조치를 취소하라는 명령을 내렸고, 트럼프는 이 판결을 '매우 실망스럽고' '수치스럽다'고 불렀습니다. 그는 즉시 전 세계 수입품에 대해 10%의 새로운 세금을 부과하겠다고 발표했습니다.\n\n트럼프는 1974년 무역법 122조에 따라 일시적으로 10%의 세금을 징수할 권한을 행사할 것이라고 밝혔습니다. 이 조항은 대통령이 심각한 수지 균형 문제를 해결하기 위해 세금을 징수할 수 있도록 허용하지만, 의회의 승인을 받지 않는 한 150일을 초과할 수 없으며 세율은 15%를 초과할 수 없습니다. 트럼프는 이 새로운 조치가 법원에서 취소된 이전 세금 세트를 대체하기 위해 즉시 효력을 발생할 것이라고 밝혔습니다. 또한 상무부의 조사를 거쳐야 하는 232조와 같은 다른 경로를 사용할 수 있다는 신호를 보냈습니다.\n\n앞서 대법원의 판결에서는 트럼프가 1977년 비상 권한법에 따라 발표한 세금이 세금을 징수할 권한이 행정부가 아닌 의회에 있기 때문에 위헌이라고 밝혔습니다. 존 로버츠 대법원장은 판결에서 헌법 제정자들이 세금 관련 권한을 행정부에 부여하지 않았다고 지적했습니다. 그러나 새뮤얼 알리토, 클래런스 토마스, 브렛 캐버노 판사는 반대 의견을 표명했으며, 캐버노는 트럼프의 세금 조치가 합법적이라고 밝혔습니다. 트럼프 대통령은 또한 증거 없이 다수의 판사가 외국 이익의 영향을 받았을 수 있다고 비난했으며, 증거에 대한 질문을 받자 '곧 알게 될 것'이라고 말했습니다. 이 사건은 미국 법원에 계류 중인 많은 중요한 문제 중 하나입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "미국 정책 변화가 국제 무역에 영향을 미칠 수 있지만, 태국 여행객에게 직접적인 즉각적 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์เดือด ซัดศาลสูงสหรัฐฯ สั่งยกเลิกมาตรการภาษี ลั่นประกาศภาษีใหม่ 10% ทั่วโลก",
+          "url": "https://www.thairath.co.th/news/foreign/2915524",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F9pR9TFos1BD0.jpg"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F9pR9TFos1BD0.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "촌부리, 아동 및 청소년 발전을 위한 '아동 친화 도시' 프로젝트 시작",
+      "summary": "- 촌부리 주에서 아동 및 청소년 발전을 위한 '아동 친화 도시' 프로젝트를 시작했습니다.\n- 방라뭉에 위치한 노인 학습 및 훈련 센터에서 개막식이 열렸습니다.\n- 이 프로젝트는 지역 수준에서 아동 및 청소년 발전을 가속화하는 것을 목표로 합니다.",
+      "full_translated": "촌부리 주에서 아동 및 청소년 발전을 위한 '아동 친화 도시' 프로젝트를 시작했습니다. 개막식은 오늘 방라뭉에 위치한 노인 학습 및 훈련 센터에서 열렸습니다. 아피냐 촘푸마스 아동청소년부 국장이 행사를 주재했으며, 퐁타싯 피자난 촌부리 부지사와 담롱키앗 피닛찬 파타야 부시장이 함께했습니다. 이 프로젝트는 주의 전체 개발 전략에 맞춰 지역 수준에서 아동 및 청소년 발전을 가속화하는 것을 목표로 합니다. 모든 부문에 걸친 통합적인 팀워크에 초점을 맞춰 삶의 질을 향상시키고 아동 및 청소년을 위한 전체적인 기회를 창출합니다. 이 계획에는 지역 내 아동 및 청소년의 현재 상황에 대한 데이터를 수집하여 적절한 개발 방향을 식별하는 것이 포함됩니다. 이 계획은 곧 촌부리 주 아동 보호 위원회에 추가 검토 및 승인을 위해 제출될 예정입니다. 최근 자료에 따르면 촌부리에는 총 488,676명의 아동 및 청소년이 거주하고 있으며, 3개의 주요 연령 그룹으로 나뉩니다. - 출생부터 6세까지의 아동: 101,202명 - 기초적인 돌봄과 발달이 필요한 중요한 유아기 단계입니다. - 7~18세: 239,596명 - 교육 및 기술 개발에 대한 지원이 필요한 학령기 청소년입니다. - 19~25세: 147,878명 - 고등 교육 및 노동 시장으로 전환하는 성인입니다. 오늘 '아동 친화적' 행사",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야 및 촌부리 지역 가족 여행객들에게 유용한 정보. 새로운 프로젝트 시작 소식.",
+      "event_info": {
+        "date": null,
+        "location": "방라뭉 노인 학습 및 훈련 센터",
+        "price": null,
+        "location_google_map_query": "Banglamung Elderly Learning and Training Center"
+      },
+      "references": [
+        {
+          "title": "Chonburi Launches “Child-Friendly City” Project to Advance Provincial Child and Youth Development Plan",
+          "url": "https://thepattayanews.com/2026/02/20/chonburi-launches-child-friendly-city-project-to-advance-provincial-child-and-youth-development-plan/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715962946486483090551342877792.jpg?v=1771596346"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715962946486483090551342877792.jpg?v=1771596346",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "촌부리에서 고전압 변전소 및 송전선로 관련 교육 프로그램 진행",
+      "summary": "- EGAT, 촌부리에서 지역사회 대상 고전압 설비 및 안전한 전기 사용법 교육 실시\n- 태국 동부 지역의 전기 수요 증가에 따른 송전 용량 확대 필요성 강조\n- 지역 주민과 관련 기관 간의 건설적인 대화 및 의견 교환 플랫폼 제공",
+      "full_translated": "EGAT(태국 발전 공사)는 촌부리에서 고전압 변전소, 지역 사회 내 송전선로 및 안전한 가정용 전기 사용에 대한 교육 프로그램을 실시했습니다. \n\n이번 행사는 타키안 티아 부구청장인 위차이 수아 씨의 환영사와 함께 시작되었습니다. 왕실 수도 및 주변 지역의 송전 시스템 개발 프로젝트 책임자인 콥뎃 시하나른 씨는 공식 개회식에서 프로젝트 목표를 설명했습니다. 그는 태국 동부 지역의 전기 수요가 가정, 기업 및 산업의 증가하는 요구로 인해 증가하고 있다고 언급했습니다. 이러한 증가는 지속적인 지역 사회 확장과 경제 발전으로 인해 발생합니다. 결과적으로 해당 지역의 송전 용량을 개선하고 확장하는 동시에 송전 시스템의 안정성을 강화하는 것이 중요한 과제입니다. 이러한 노력은 주민들이 충분하고 안정적이며 안전한 전기를 공급받을 수 있도록 보장합니다.\n\n이번 교육 세션의 주요 목표는 참가자들에게 고전압 변전소, 지역 사회 내 전기 송전선로, 적절하고 안전한 가정용 전기 소비에 대한 정확한 지식과 이해를 구축하는 것입니다. 또한 이 활동은 관련 기관과 지역 주민 간의 건설적인 대화와 의견 교환을 위한 플랫폼을 제공합니다. 위차이 수아 부구청장은 타키안 티아 부구청을 대표하여 EGAT 팀과 모든 참가자를 환영하게 되어 기쁘고 영광스럽다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에 큰 영향을 주진 않으나, 지역 사회 관련 정보 제공 및 안전 관련 내용 포함.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리",
+        "price": null,
+        "location_google_map_query": "촌부리"
+      },
+      "references": [
+        {
+          "title": "EGAT Conducts Training Program on High-Voltage Substations, Transmission Lines in Communities, and Safe Household Electricity Use in Chonburi",
+          "url": "https://thepattayanews.com/2026/02/20/egat-conducts-training-program-on-high-voltage-substations-transmission-lines-in-communities-and-safe-household-electricity-use-in-chonburi/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715652952322624203519613102653.jpg?v=1771565441"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17715652952322624203519613102653.jpg?v=1771565441",
       "date": "2026-02-21"
     }
   ]
