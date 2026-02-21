@@ -29350,14 +29350,9 @@
       "summary": "- 파타야에서 외국인 구걸 문제가 심각해지고 있으며, 관광객들에게 부정적인 영향을 미치고 있습니다.\n- 강제 추방된 외국인이 다시 입국하여 구걸하는 사례도 발생하고 있습니다.\n- 당국은 이 문제에 대한 해결책을 모색하고 있지만, 근본적인 해결이 어려운 상황입니다.",
       "full_translated": "파타야에서 외국인 구걸 문제가 심각한 수준에 이르렀습니다. 관광객들은 외국인들이 구걸하는 모습에 불편함을 느끼고 있으며, 이는 파타야의 관광 이미지를 저해하는 요인으로 작용하고 있습니다. 특히, 강제 추방된 외국인들이 다시 입국하여 구걸하는 사례가 발생하면서 당국의 단속 노력이 무색해지고 있습니다. 파타야 당국은 이 문제에 대한 해결책을 모색하고 있지만, 외국인 구걸 문제는 복잡한 사회경제적 요인과 얽혀 있어 근본적인 해결이 어려운 상황입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광지 이미지를 훼손하고 관광객에게 부정적인 영향을 줄 수 있으므로 높은 점수를 부여. 반복되는 문제에 대한 새로운 사례 언급.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
@@ -29365,16 +29360,40 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "05:15",
-      "date": "2026-02-22"
+      "collected_at": "5:15",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": null,
+      "source": ""
     },
     {
       "title": "일본 관광, 한국인 방문객 증가로 기록 경신",
       "summary": "- 한국인 방문객 증가로 일본 관광 산업이 기록적인 성장을 보임.\n- 한국은 중국, 태국, 미국 등을 제치고 일본 관광 시장에서 중요한 위치를 차지함.\n- 일본 관광청은 2026년까지 더 많은 관광객 유치를 위한 전략을 수립 중.",
       "full_translated": "일본 관광 산업이 한국인 방문객의 증가에 힘입어 기록적인 성장을 이루고 있습니다. 한국은 중국, 태국, 미국, 싱가포르, 호주, 필리핀 및 기타 여러 국가를 제치고 기록적인 도착 및 수요로 일본 관광의 중요한 이정표를 세웠습니다. 일본 관광청은 2026년까지 더 많은 관광객을 유치하기 위한 다양한 프로모션과 전략을 계획하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "한국인 관광객이 일본을 많이 방문하는 것은 태국 여행에 대한 간접적인 경쟁 요소로 작용할 수 있으며, 여행 트렌드 파악에 도움이 된다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "South Korea Surpasses China, Thailand, United States, Singapore, Australia, Philippines, And A Range Of Other Countries To Set Japan’s Tourism Milestone With Record Breaking Arrivals And Demand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vc291dGgta29yZWEtc3VycGFzc2VzLWNoaW5hLXRoYWlsYW5kLXVuaXRlZC1zdGF0ZXMtc2luZ2Fwb3JlLWF1c3RyYWxpYS1waGlsaXBwaW5lcy1hbmQtYS1yYW5nZS1vZi1vdGhlci1jb3VudHJpZXMtdG8tc2V0LWphcGFucy10b3VyaXNtLW1pbGVzdG9uZS13aXRoLXJlY29yZC1icmVha2luZy1hcnJpdmFscy1hbmQtZGUtYW5kL9IBAA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "5:15",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vc291dGgta29yZWEtc3VycGFzc2VzLWNoaW5hLXRoYWlsYW5kLXVuaXRlZC1zdGF0ZXMtc2luZ2Fwb3JlLWF1c3RyYWxpYS1waGlsaXBwaW5lcy1hbmQtYS1yYW5nZS1vZi1vdGhlci1jb3VudHJpZXMtdG8tc2V0LWphcGFucy10b3VyaXNtLW1pbGVzdG9uZS13aXRoLXJlY29yZC1icmVha2luZy1hcnJpdmFscy1hbmQtZGUtYW5kL9IBAA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "프랑스, 디지털 및 생체 인식 비자 요구 사항 강화: 태국 포함 아시아 국가에 영향",
+      "summary": "- 프랑스가 새로운 디지털 및 생체 인식 비자 시스템을 도입하여 태국을 포함한 아시아 국가 여행객에게 영향을 미칠 예정입니다.\n- 온라인 시스템을 통해 비자 신청 절차가 의무화됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "프랑스가 디지털 및 생체 인식 비자 요구 사항을 의무 온라인 시스템 하에 도입함에 따라 태국을 포함한 아시아 국가들이 영향을 받게 되었습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "프랑스 입국 시 비자 관련 규정 변경은 여행객에게 중요한 정보이므로 포함. 특히 디지털 및 생체 인식 정보 요구는 준비에 시간이 필요할 수 있으므로 높은 점수 부여.",
       "event_info": {
         "date": null,
         "location": null,
@@ -29383,12 +29402,39 @@
       },
       "references": [
         {
-          "title": "South Korea Surpasses China, Thailand, United States, Singapore, Australia, Philippines, And A Range Of Other Countries To Set Japan’s Tourism Milestone With Record Breaking Arrivals And Demand - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vc291dGgta29yZWEtc3VycGFzc2VzLWNoaW5hLXRoYWlsYW5kLXVuaXRlZC1zdGF0ZXMtc2luZ2Fwb3JlLWF1c3RyYWxpYS1waGlsaXBwaW5lcy1hbmQtYS1yYW5nZS1vZi1vdGhlci1jb3VudHJpZXMtdG8tc2V0LWphcGFucy10b3VyaXNtLW1pbGVzdG9uZS13aXRoLXJlY29yZC1icmVha2luZy1hcnJpdmFscy1hbmQtZGUtYW5kL9IBAA?oc=5",
-          "source": "Travel And Tour World"
+          "title": "China Joins India, Thailand, Russia, Saudi Arabia, Kazakhstan, Bangladesh, And Other Asian Nations In Facing France’s New Digital And Biometric Visa Requirements Under Mandatory Online System - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQNGd1WGxlODI3a0pQbHo1U0pvTkNKTmttek01Z2lhQS1CbWFwX2xsMVZpQ2haS2FYblhCVE1KMm9meXZPQm5xZUx6eUNLTmZpU1M2QmN0Z3hCd1h3d0hLTTV3OVRmS05zMkJRTGFYSUNDUjdiSEphb251QzF0MGdMWWZIRm9oTUxIX3JlS1Zrd1R3LXZKd0UyZDFRSkVHcy1VU1Z0MmR1UmNuYjNrZmY1MkFKVU9wTUtFdmdqdmRSUVdCMmtidDVLRkQ2dGVuZHRrOHJubWVxNTJnUlU1Wld4RG1jU0dVVmZBRXp2Sy1IQ3ZqdGIyRGRKbGRKdFNJRFUwNE04ZFBqLXR3LTJwbUVNOGpleXBBSS1VNldtOWNYWWVuRU9keWlfelFZeTlkZ1lUY2pRbDUxdkprQ1RENTJxd05Iem1hdFI3ekJsa0Y4Vnl5UUU?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "캐나다, 정치적 불안정 및 보안 위협으로 태국 포함 다수 국가에 새로운 여행 주의보 발령",
+      "summary": "- 캐나다가 정치적 불안정, 보안 위협, 시위 등으로 인해 태국을 포함한 여러 국가에 새로운 여행 주의보를 발령했습니다.\n- 해당 국가는 이탈리아, 멕시코, 사우디 아라비아, 남극, 파라과이 등이 포함됩니다.\n- 여행자들은 여행 전에 최신 정보를 확인하고 안전에 유의해야 합니다.",
+      "full_translated": "캐나다가 정치적 불안정, 보안 위협 및 지속적인 시위로 인해 이탈리아, 멕시코, 태국, 사우디 아라비아, 남극, 파라과이 등을 포함한 여러 국가에 새로운 여행 주의보를 발령했습니다. 여행 및 관광 산업에 미치는 영향에 대한 추가 정보가 제공될 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행에 대한 캐나다의 여행 주의보 발령은 여행객 안전에 대한 잠재적 위협을 시사하므로 여행자들에게 정보를 제공할 필요가 있습니다. 새로운 정보이므로 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China Joins Italy, Mexico, Thailand, Saudi Arabia, Antarctica, Paraguay And More As Canada Issues New Travel Advisory Amid Political Instability, Security Threats, And Ongoing Demonstrations - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNYk9GQmZIak1ZQjZvUy0xaHB5S0xLY0U3TG5USHYyRjJqcDY5Q2tWb3VJX3hqRm1qdER6ckNzWmlRVkxXTEtmLUpSREwzRGlYQm10ZEd6ekVfOU40SUNYMnRhcnk0Z2lyNF9ZVTZBS0QzS2hTMkFJMFYtcm9YRDNfTXBhZkh4VEo2T05qTWhmN0NPYmozY2YyQnJSRVdxTjMwVUxGWEI4eEZZd01QQzROaThYWE1LeHRsZU15SFJnZ1F6TDdtcUpxZS1SQ3ZGZ1F5R0FaS3A1dWl2UzA1bHlOUnVPaGFpVEpYSUJCamdXWTBVQTY3VW1RUDZXcHZMVnhKVVFRejVlMmNRZXRkT04yZGJfWFFMZmFqdWctNWk5aUZNM3N0YW9talZvTnh3TlJqTzJHaXIzLXZwbkd4U0JfSGN0bW9rQ0p5NzFrM0M5ako4UQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
   ]
