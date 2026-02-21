@@ -27471,14 +27471,9 @@
       "summary": "- 태국 경찰은 음주운전에 대해 경고 없이 즉시 처벌할 방침임을 강조함.\n- 음주 측정 거부 시에도 음주운전으로 간주하여 처벌함.\n- 음주운전 적발 시 벌금 5,000~20,000바트 또는 1년 이하 징역, 면허 정지/취소 가능.",
       "full_translated": "태국 경찰청은 \"음주운전\"에 대해 경고 없이 즉시 처벌할 것이라고 밝혔습니다. 음주 측정을 거부하는 경우에도 \"음주운전\"으로 간주하여 즉시 법적 조치를 취할 것입니다.\n\n2069년 2월 21일, 국가 경찰 부사령관인 삼란 누알마 소장은 국가 경찰청의 2069 회계 연도 행정 정책에 따라 경찰청장이 교통 규율을 엄격히 단속하고 강화하도록 지시했다고 밝혔습니다. 경찰청은 전국 교통 경찰에게 법 집행을 엄격히 시행할 것을 지시했으며, 특히 음주운전의 경우 경고 조치 없이 즉시 처벌할 것입니다.\n\n부사령관은 음주 상태에서 운전하는 것은 국민의 생명과 재산에 심각한 위험을 초래할 수 있는 행위이므로 법을 엄격하고 공정하며 투명하게 시행해야 한다고 말했습니다.\n\n예를 들어, 2069년 2월 20일 한 운전자가 술에 취한 상태로 음주 측정을 거부하고 도주를 시도하며 교통 경찰관을 폭행했습니다. 이후 체포되어 혈중 알코올 농도가 법정 기준치를 초과하는 126mg%로 측정되었습니다. 해당 행위는 여러 법률 위반에 해당하며 법적 절차에 따라 처리되었습니다.\n\n1979년 육상 교통법 및 개정안에 따르면 법정 기준치를 초과하는 알코올 농도로 운전한 운전자는 5,000~20,000바트의 벌금 또는 1년 이하의 징역 또는 벌금과 징역 모두에 처해질 수 있으며, 법원은 면허를 정지하거나 취소할 수 있습니다. 타인에게 심각한 부상이나 사망을 초래한 경우 최대 10년의 징역형에 처해질 수 있으며, 2년 이내에 재범하는 경우 2년 이하의 징역과 벌금형에 처해집니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행자 안전에 직접적인 영향을 미치는 정보(음주운전 처벌 강화)이므로 중요도가 높음. 특히 야간에 활동하는 여행자에게 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ตร. ย้ำชัด “เมาแล้วขับ” ไม่มีเตือนก่อนปรับ “ไม่ยอมเป่าเท่ากับเมาแล้วขับ” ดำเนินคดีทันที",
@@ -27489,21 +27484,18 @@
       ],
       "collected_at": "14:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArRGckDKBsDQx.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/crime/2915608",
+      "source": ""
     },
     {
       "title": "태국 경찰, 사자춤 공연단으로 위장해 절도범 체포 작전",
       "summary": "- 태국 경찰이 절도범 체포를 위해 사자춤 공연단으로 위장하는 작전을 펼쳤습니다.\n- 여러 차례 체포를 피한 절도범을 잡기 위한 기발한 위장술이었습니다.\n- 작전은 방콕 수도권 경찰국에서 주도했습니다.",
       "full_translated": "태국 수도권 경찰국 소속 경찰관들은 수요일 밤(2월 18일) 이전에 여러 차례 체포를 피했던 수배 중인 절도범을 잡기 위해 사자춤 공연단으로 위장했다고 현지 언론이 보도했습니다. - 로이터. 방콕 포스트의 전체 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 경찰의 특이한 작전 방식으로 흥미를 유발할 수 있으며, 여행 중 소매치기 등 범죄에 대한 경각심을 환기할 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai police go undercover as lion dance crew to catch burglar",
@@ -27514,21 +27506,18 @@
       ],
       "collected_at": "14:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202225_700.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/video/thailand/3202225/thai-police-go-undercover-as-lion-dance-crew-to-catch-burglar",
+      "source": ""
     },
     {
       "title": "교통사고 피해 여아 어머니, 보험금 수령 후 딸을 위한 기금 마련",
       "summary": "- 7세 여아가 학교 앞에서 교통사고로 사망한 사건.\n- 어머니가 보험금을 수령하여 딸을 위한 기금을 마련.\n- 아직 합의되지 않은 보상금은 법원의 결정에 따를 예정.",
       "full_translated": "7세 여아 '농 겔'이 학교 앞 횡단보도에서 교통사고로 사망한 사건과 관련하여, 어머니가 보험금을 수령하여 딸을 위한 기금을 마련하게 되어 기뻐하고 있습니다. 나머지 보상금은 법원의 결정에 맡기기로 했습니다. \n\n농 겔은 지난 1월 22일, 나콘라차시마 출신의 32세 공무원인 'N.S. 카녹완'이 운전하는 차량에 치여 사망했습니다. 최근 농 겔의 어머니는 보험 회사로부터 50만 바트씩 총 100만 바트를 지급받게 되었습니다. 어머니는 이 돈으로 딸을 위한 기금을 마련할 것이라고 밝혔습니다. 아직 합의되지 않은 보상금에 대해서는 법원의 판단에 맡기기로 했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "사건 자체는 안타깝지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2024-02-21",
-        "location": "나콘라차시마",
-        "price": null,
-        "location_google_map_query": "나콘라차시마"
-      },
+      "event_info": "{'date': '2024-02-21', 'location': '나콘라차시마', 'price': None, 'location_google_map_query': '나콘라차시마'}",
       "references": [
         {
           "title": "\"แม่น้องเกล\" ดีใจได้เงินประกันมาทำบุญให้ลูกแล้ว ส่วนเงินเยียวยาปล่อยศาลตัดสิน",
@@ -27539,21 +27528,18 @@
       ],
       "collected_at": "14:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArYlBFkXTywv6.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/local/2915611",
+      "source": ""
     },
     {
       "title": "태국 석유화학 산업, 정체 예상",
       "summary": "- 중국의 과잉 공급, 지정학적 긴장, 환경 규제 강화 등으로 어려움 예상\n- IRPC, 유동성 확보 위해 자산 매각 및 채권 발행 등 전략 추진\n- 순환 경제 및 청정 에너지 목표에 부합하는 고분자 및 첨단 소재에 집중",
       "full_translated": "태국의 석유화학 산업은 또 다른 평탄한 해에 직면할 것으로 예상되며, 주요 기업들은 비용 절감과 부가가치 제품 출시를 통해 적응해야 한다는 압박을 받고 있습니다. 중국의 과잉 공급, 지정학적 긴장, 엄격한 환경 규제 등이 이 부문을 끌어내리는 주요 요인입니다. 업계 관계자들은 팬데믹 시대로 거슬러 올라가는 장기적인 과잉 생산 능력이 생산자들이 수요와 공급의 균형을 맞추기 위해 고군분투하고 있는 반면, 세계적인 불확실성이 계속해서 마진과 투자 신뢰를 약화시키고 있다고 지적합니다. PTT Plc의 주력 석유화학 부문인 IRPC는 자산 매각, 임대 및 최근 110억 바트 규모의 채권 발행을 포함하여 유동성을 보호하기 위한 일련의 전략을 발표했습니다. 테드키아트 프롬물 사장 겸 CEO는 회사가 글로벌 변동성에 대비하기 위해 '국내 우선' 전략하에 국내 판매를 우선시할 것이라고 말했습니다. 그는 순환 경제 및 청정 에너지 목표에 부합하는 특수 폴리머 및 첨단 소재에 집중할 것이라고 강조했습니다. 앞서 IRPC, PTT, Boon Rawd Brewery는 폐수병에서 추출한 재활용 폴리에틸렌 테레프탈레이트와 사용한 우유통, 샴푸병, 세제 용기에서 추출한 재활용 고밀도 폴리에틸렌을 결합한 새로운 재활용 플라스틱 혼합물에 대한 성공적인 특허를 공동으로 발표했습니다. 이렇게 만들어진 플라스틱 펠릿은 사용하도록 설계되었습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Petrochemical sector faces stagnant year",
@@ -27564,21 +27550,18 @@
       ],
       "collected_at": "14:49",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/21/5977075_700.jpeg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/business/general/3202005/petrochemical-sector-faces-stagnant-year",
+      "source": ""
     },
     {
       "title": "태국 고위 정치인, 롤스로이스 등 고급 차량 30대 이상 소유 논란",
       "summary": "- 탐마낫 프롬파오 태국 정치인이 롤스로이스 고스트 2010년식을 포함, 30대 이상의 차량을 소유한 것으로 밝혀짐.\n- 롤스로이스 고스트는 6.6리터 V12 트윈 터보 엔진을 장착, 최고 속도 250km/h에 달하는 고급 리무진임.\n- 정치인의 재산 공개는 흔히 투명성 논란으로 이어지며, 이번 경우에도 여론의 관심이 집중될 것으로 예상됨.",
       "full_translated": "탐마낫 프롬파오 정치인의 차량 수집\n\n2066년 정치인 재산 신고에 따르면 탐마낫 프롬파오가 소유한 자동차 중 가장 눈에 띄는 것은 2010년 롤스로이스 고스트 모델입니다. 그는 자동차 수집가로 10년 이상 차량을 소유해 온 것으로 알려졌습니다.  2066년 재산 신고에 따르면 탐마낫 프롬파오는 총 30대 이상의 자동차를 소유하고 있습니다. \n\n주요 차량:\n\n롤스로이스: 최소 3대 이상 수집, 2010년 고스트 모델 포함 (약 1700만 ~ 2200만 바트 상당).\n\n롤스로이스 고스트 2010: 럭셔리 리무진으로, 5.4m 길이에 최고급 자재로 제작되었습니다. 실내는 부드러운 가죽, 알루미늄, 고급 목재로 마감되었으며, 6.6리터 V12 트윈 터보 엔진(563마력, 780Nm 토크)을 장착했습니다. ZF 8단 자동 변속기와 에어 서스펜션을 통해 부드러운 승차감을 제공하며, 정지 상태에서 100km/h까지 4.9초 만에 가속합니다. 최고 속도는 250km/h입니다.\n\n벤틀리: Conti...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치인의 재산 문제는 일반적인 가십이나 흥미로운 로컬 뉴스에 해당되나, 여행 자체에는 직접적인 영향이 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เจาะรถสะสม ร.อ.ธรรมนัส พรหมเผ่า",
@@ -27589,6 +27572,131 @@
       ],
       "collected_at": "14:49",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNgUCJT33uxFtkgP04.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/auto/news/2915497",
+      "source": ""
+    },
+    {
+      "title": "방콕, 150kg 아이스 마약 운반범 체포: 차량 지붕 은닉, 15만 바트 수수",
+      "summary": "- 방콕 경찰, 150kg의 아이스 마약을 차량 지붕에 숨겨 운반한 남성 체포.\n- 용의자는 치앙라이에서 마약을 운반했으며, 한 번 운반에 15만 바트를 받았다고 진술.\n- 경찰은 마약 밀매 네트워크를 소탕하는 과정에서 용의자를 검거.",
+      "full_translated": "2월 21일 12시, 수도경찰청 수사과에서 경찰청장 수라체트 반딧의 지휘 하에 기자 회견이 열렸습니다. 경찰은 농플링 경찰서와 협력하여 나라유트 부아붓(41세)을 체포했습니다. 그는 아유타야 출신입니다. 증거물로는 150kg의 아이스 마약이 토요타 Commuter 밴 차량 지붕 밑 비밀 공간에서 발견되었습니다. 차량 번호는 ㄴㅈ 육팔사 이 치앙마이이고, 휴대폰 2대가 압수되었습니다. 그는 2월 19일 16시, 농플링 경찰서 앞에서 체포되었습니다. 수라체트 반딧 경찰청장은 관할 경찰서 11곳과 협력하여 마약 소탕 정책을 시행하라고 지시했습니다. 수사 결과, 아유타야의 마약 밀매 네트워크가 마약을 수도 방콕으로 운반하는 것으로 드러났습니다. 용의자는 북부 지역으로 이동하여 마약을 운반한 후 수도권의 소매상들에게 분배했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "마약 관련 범죄 소식은 여행객의 안전에 대한 인식을 높일 수 있으며, 특정 지역에 대한 경각심을 일깨울 수 있음. 여행객이 주의해야 할 지역을 파악하는 데 도움이 됨.",
+      "event_info": {
+        "date": null,
+        "location": "농플링 경찰서",
+        "price": null,
+        "location_google_map_query": "Nakhon Sawan, Nong Pling Police Station"
+      },
+      "references": [
+        {
+          "title": "รวบหนุ่มขนยาไอซ์ 150 กิโล ซุกใต้ช่องลับหลังคารถตู้ ค่าจ้างครั้งละ 1.5 แสนบาท",
+          "url": "https://www.thairath.co.th/news/crime/2915613",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArYs3VJ8avMsH.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArYs3VJ8avMsH.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 관광청, 'LISA를 찾아라' 캠페인으로 관광객 유치",
+      "summary": "- 태국 관광청(TAT)이 'Amazing Thailand - feel all the feelings' 캠페인을 통해 관광객 유치에 나섰습니다.\n- 블랙핑크 리사(LISA)를 앰배서더로 활용, 태국 곳곳의 랜드마크에서 리사를 찾아 인증하는 참여형 이벤트를 진행합니다.\n- 리사의 시각으로 태국의 매력을 경험하고, '태국은 어떤 느낌인가?'라는 질문에 답하며 다채로운 매력을 느껴보도록 장려합니다.",
+      "full_translated": "태국 관광청(TAT)은 1월 말 랄리사 \"LISA\" 마노반을 '어메이징 타일랜드' 앰배서더로 임명하고 TV 광고를 대대적으로 공개한 후 관광 모멘텀을 계속 추진하고 있습니다. 최근 TAT는 태국 전역 주요 랜드마크의 다양한 미디어 디스플레이에 나타나는 LISA의 특정 위치를 찾아 식별하는 참여형 활동에 모두를 초대했습니다. TAT는 \"feel all the feelings\" TV 광고 출시와 함께 \"태국은 어떤 느낌인가?\"라는 질문을 통해 LISA의 관점을 제시합니다. 태국 관광의 다면적인 매력을 경험하는 여정을 제공합니다. 휴식과 영적 재충전의 순간부터 모든 삶의 단계에서 발견되는 절묘한 아름다움에 이르기까지, 전국 곳곳의 숨막힐 듯 아름다운 여행지를 통해 이러한 요소들은 세계 어느 곳에서도 비할 데 없는 태국만의 독특한 정체성을 반영합니다. 캠페인 시작에 따라 TAT는 \"Following LISA’s F",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "블랙핑크 리사를 활용한 관광 캠페인 정보로, 새로운 핫플 정보는 아니지만, 여행객의 흥미를 유발할 수 있는 로컬 뉴스에 해당.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역 주요 랜드마크",
+        "price": "무료",
+        "location_google_map_query": "태국 랜드마크"
+      },
+      "references": [
+        {
+          "title": "Where is LISA? TAT Inviting Visitors to Discover LISA",
+          "url": "https://thepattayanews.com/2026/02/21/where-is-lisa-tat-inviting-visitors-to-discover-lisa/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/Amazing-x-Thailand-Finding-LISAs-OOH-Cover-scaled.jpg?v=1771655931"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/Amazing-x-Thailand-Finding-LISAs-OOH-Cover-scaled.jpg?v=1771655931",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국, 기후 변화 대응에 본격적으로 나서다",
+      "summary": "- 태국, 기후 변화 법률 시행 준비 중\n- 경제 및 환경 정책에 큰 영향 예상\n- 탄소 중립 목표 달성 노력 강화",
+      "full_translated": "태국은 획기적인 조치로서, 수십 년 동안 국가 경제와 환경 정책을 재편할 수 있는 최초의 기후 변화법 시행을 준비하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 환경 정책 변화는 장기적으로 관광 산업에도 영향을 미칠 수 있으므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand finally gets serious about climate action",
+          "url": "https://www.bangkokpost.com/sustainability/3202180/thailand-finally-gets-serious-about-climate-action",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "15:20",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "팔랑쁘라차랏당, 2월 24일 이사회 소집: 아누틴 총리 지지 결의",
+      "summary": "- 팔랑쁘라차랏당(PPRP)이 2월 24일 이사회를 소집하여 아누틴 차른비라쿨 Bhumjaithai당 대표의 총리직 지지를 결의할 예정입니다.\n- 3월 7일에는 당 대표를 트리눗 티안통으로 임명하는 총회를 개최합니다.\n- PPRP는 5명의 당선자가 아누틴 대표를 총리로 지지하도록 결의할 것을 요청할 계획입니다.",
+      "full_translated": "팔랑쁘라차랏당(PPRP)이 2월 24일 이사회를 소집합니다. 3월 7일 총회 전에 아누틴을 총리로 지지하기 위한 결의안을 요청합니다. 트리눗 티안통을 차기 당 대표로 임명합니다. 2026년 2월 21일, 기자들은 PPRP의 움직임을 보도했습니다. 트리눗 티안통 사깨오 지역구 의원 당선자이자 팔랑쁘라차랏당 대표 대행은 2월 24일 오후 1시 30분에 이사회를 소집하여 5명의 당선자가 아누틴 차른비라쿨 Bhumjaithai당 대표를 총리로 지지하도록 결의할 것을 요청할 예정입니다. 보고서에 따르면 3월 7일 팔랑쁘라차랏당은 트리눗을 팔랑쁘라차랏당 대표로 임명하기 위한 결의안을 요청하기 위해 당 회의를 열 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-02-24",
+        "location": "팔랑쁘라차랏당 당사",
+        "price": null,
+        "location_google_map_query": "Palang Pracharath Party Thailand"
+      },
+      "references": [
+        {
+          "title": "พปชร. เรียกประชุม กก.บห. 24 ก.พ. นี้ ขอมติหนุน “อนุทิน” นั่งนายกฯ",
+          "url": "https://www.thairath.co.th/news/politic/2915612",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArY0KooYUUg2X.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArY0KooYUUg2X.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 정치: 품짜이타이당, 300석 확보 정부 구성 협상 마무리 단계",
+      "summary": "- 품차이타이당이 끌라탐당을 배제하고 300석 규모의 정부 구성 협상을 마무리 중이라는 보도에 대해, 끌라탐당 관계자는 아직 확인된 바 없다고 밝혔습니다.\n- 관련 소식에 따르면, 끌라탐당은 현재 해외에 있어 상황 파악이 어려운 것으로 알려졌습니다.\n- 향후 끌라탐당의 참여 여부에 따라 태국 정치 구도에 변동이 있을 수 있습니다.",
+      "full_translated": "파이 릭 끌라탐당 사무총장은 품짜이타이당이 끌라탐당을 배제하고 300석 규모의 정부를 구성한다는 소식을 알지 못한다고 밝혔습니다. 끌라탐당 대변인 또한 아직 소식을 듣지 못했다고 전했습니다. 2569년 2월 21일, 파이 릭 끌라탐당 사무총장은 품짜이타이당(ภท.)이 끌라탐당 없이 300석 규모의 정부를 구성한다는 소식에 대해 짧게 인터뷰하며, 현재 해외에 있어 상황을 알지 못한다고 답했습니다. 끌라탐당 대변인인 꽁뜨리 타나크릿 찟아리랏는 자신도 해당 소식을 듣지 못했으며, 고위 관계자로부터 전달받은 내용이 없다고 밝혔습니다. 만약 상황이 있다면 당이나 경영진을 통해 알게 될 것이지만, 현재까지는 특별한 움직임은 없으며, 끌라탐당 자문위원장인 러 러 땀마낫 프롬파오가 언론에 알린 내용과 같습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ไผ่ ลิกค์” ไม่ทราบข่าวพรรคภูมิใจไทย ปิดดีลตั้งรัฐบาล 300 เสียง ไร้พรรคกล้าธรรม",
+          "url": "https://www.thairath.co.th/news/politic/2915604",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArRcGrUU5kIU6.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArRcGrUU5kIU6.jpg",
       "date": "2026-02-21"
     }
   ]
