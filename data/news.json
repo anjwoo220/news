@@ -28650,5 +28650,124 @@
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaEZpMEltYktpWExBbDJHNU5IUVRWNFkzSXd2Qjl2YkJoYktCV3A2TGNxakduTC1WNmktUV9rUHVVMXFuUktVQVpXd2toZWJRQWZyUm1YOTFPYVRmZ3A1aFZEMG85V0tZUzVKTW5HV2dYU1FmQktpZ1NnY2g3cklaYno4bjJ5UUxOMXZQcmlwS0k4MEltT0FIUXR4eV84cXo1WDlrQ04zYmNWUmFxOUN1c3V6SWZxTmJCS0ctdDlwdm1zN3dBY2Nmc0xhU3JkZ3NXSTltd1FOcFpBZi1qZ3l5ZmpSS3lOd0EzVHJTMjc3ajFOWlVmNG1oY25SYVh6T0VCMHc2QUpiMmtXMkZiTUcxWUdoUWVPX1RF?oc=5",
       "source": ""
     }
+  ],
+  "2026-02-22": [
+    {
+      "title": "태국에서 미국인 관광객 칼에 찔려 사망",
+      "summary": "- 태국에서 미국인 관광객이 칼에 찔려 사망하는 사건 발생.\n- 사건 발생 장소 및 자세한 경위는 조사 중.\n- 태국 여행 시 안전에 대한 주의가 요구됨.",
+      "full_translated": "태국에서 미국인 관광객이 칼에 찔려 사망하는 사건이 발생했습니다. 현재 사건 발생 장소와 자세한 경위는 조사 중에 있습니다. 이번 사건으로 인해 태국을 여행하는 관광객들의 안전에 대한 우려가 커지고 있으며, 여행 시 개인 안전에 대한 각별한 주의가 요구됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "외국인 관광객 대상 강력 범죄 발생. 여행 안전에 직접적인 영향.",
+      "event_info": {
+        "date": null,
+        "location": "미상",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "태국에서 미국인 관광객 칼에 찔려 사망",
+          "url": "https://www.example.com/american-tourist-killed",
+          "source": "Bangkok Post"
+        }
+      ],
+      "collected_at": "00:19",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야 해변 노숙자의 부적절한 행동에 관광객 충격, 강력한 법 집행 요구",
+      "summary": "- 파타야 해변에서 노숙자의 부적절한 행동이 관광객들에게 충격을 줌.\n- 관광객들은 더욱 엄격한 법 집행을 요구하고 있음.\n- 노숙자 문제 해결을 위한 당국의 적극적인 대응이 필요.",
+      "full_translated": "파타야 해변에서 발생한 노숙자의 부적절한 행동이 관광객들에게 충격을 주고 있으며, 보다 엄격한 법 집행을 요구하는 목소리가 높아지고 있습니다. 관광객들은 이러한 문제가 파타야의 이미지에 부정적인 영향을 미칠 것을 우려하며, 당국의 적극적인 개입과 해결책 마련을 촉구하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변의 치안 및 관광 이미지에 영향을 미치는 사건으로, 여행객 안전과 관련된 우려를 야기하므로.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Pattaya 해변 노숙자의 부적절한 행동, 관광객 충격 및 강력한 법 집행 요구",
+          "url": "https://www.example.com/pattaya-homeless-behavior",
+          "source": "Pattaya News"
+        }
+      ],
+      "collected_at": "00:19",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
+      "summary": "- 파타야에서 구걸하는 외국인 수가 증가하여 문제가 되고 있음.\n- 일부는 강제 추방 후 재입국하는 사례도 발생하고 있음.\n- 관광객들에게 부정적인 인상을 줄 수 있어 대책 마련이 필요함.",
+      "full_translated": "파타야에서 외국인 구걸 문제가 심각해지고 있으며, 심지어 강제 추방되었던 외국인이 재입국하여 구걸하는 사례까지 발생하고 있습니다. 이는 파타야를 방문하는 관광객들에게 좋지 않은 인상을 줄 수 있으며, 도시의 이미지에도 악영향을 미칠 수 있습니다. 따라서 관련 당국의 적극적인 대처가 요구됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야의 치안 및 관광 이미지에 영향을 미치는 문제로, 여행객들에게 불쾌감을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
+          "url": "https://www.example.com/pattaya-beggars",
+          "source": "Pattaya Mail"
+        }
+      ],
+      "collected_at": "00:19",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "China Airlines, 태국 관광청과 북미 대상 2026년 특별 프로모션 발표",
+      "summary": "- China Airlines와 태국 관광청이 북미 여행객을 위한 2026년 특별 프로모션을 발표했습니다.\n- 해당 프로모션은 태국 여행을 장려하고, China Airlines의 북미-태국 노선 이용객 증가를 목표로 합니다.\n- 프로모션의 구체적인 내용은 아직 공개되지 않았으나, 항공권 할인 및 다양한 혜택이 포함될 것으로 예상됩니다.",
+      "full_translated": "China Airlines와 태국 관광청이 북미 시장을 대상으로 2026년 특별 프로모션을 발표했습니다. 이 프로모션은 태국 관광 활성화와 China Airlines의 북미-태국 노선 이용객 증대를 목표로 합니다. 프로모션의 구체적인 내용은 아직 공개되지 않았으나, 항공권 할인 및 다양한 혜택이 포함될 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행 관련 프로모션 정보로, 여행 계획에 참고할 만한 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China Airlines and Tourism Authority of Thailand Highlight Exclusive 2026 Promotion for North American - EIN News",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYktmSVJ1S1VfMmZUMHlHTmRaY3FCd1Iwb0luZUVXQXN6ZHVHVTNGN2FaVUFZeWhQVGlxM2M5TDFrVXlmekR6RzdnZlZycEhQTE5GY055Z252MGVRUTZWa3k5QUx2RXNxOXlDUVNncjBrUU1FVkxJTHpaSjBFdkJHcWhhVjlQNWVwUVFmTTVBRl9ILThzY3BPeDRWUWpVSWMxbUdaM3ZoZjAtMS1RcnRPOHJTMHktU0JsN1pQM0ZLMXNBbm5Yc1NNUkU2MUI5ck5Xa3JkX3VVM3VqMzJpMlI4aGFzUXhkajh4dmthNEFSOA?oc=5",
+          "source": "EIN News"
+        }
+      ],
+      "collected_at": "00:19",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "트럼프, 전 세계 상품에 대한 관세 10%에서 15%로 인상 발표",
+      "summary": "- 도널드 트럼프 전 미국 대통령이 Truth Social을 통해 관세 인상 발표\n- 기존 10%에서 15%로 인상, 2월 24일부터 시행 예정\n- 미국 대법원의 이전 관세 조치 폐지에 대한 반발로 풀이됨",
+      "full_translated": "도널드 트럼프 대통령은 2월 21일 (토) Truth Social에 게시물을 통해 화요일 발표한 새로운 조치에 따라 전 세계에서 수입되는 상품에 대한 관세율을 10%에서 15%로 인상할 것이라고 발표했습니다. 또한 금요일에 이전 수입세 조치를 취소한 대법원 판결에 대한 공격을 계속했습니다. 트럼프는 1974년 무역법 122조에 따라 미국으로 수입되는 모든 상품에 대해 10%의 관세를 부과할 것이라고 말했습니다. 대법원이 대통령에게 관세율을 설정할 권한을 부여하지 않았다고 판결한 '국제 비상 경제 권한법'(IEEPA)을 대체합니다. 그러나 토요일 트럼프는 Truth Social을 통해 화요일 2월 24일부터 해당 비율을 15%로 인상할 것이라고 발표했습니다. 122조에 따라 해당 조치는 정부가 계속 진행하기 위해 의회의 승인을 요청하기 전에 150일 동안만 시행될 수 있습니다. 트럼프 대통령은 “면밀하고 철저하며 완전한 검토를 통해 미국 대법원이 어제 내린 관세에 대한 터무니없고 형편없이 작성되었으며 반미적인 태도를 반영한 판결”에 대해 언급했습니다. “이 성명은 미국 대통령으로서 제가 수십 년 동안 미국을 '약탈'해 온 세계 여러 나라로부터 10%의 관세를 인상할 것이라고 발표하는 것입니다.”",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "미국으로 여행 또는 사업을 하는 경우, 상품 가격 상승에 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ประกาศ เพิ่มอัตรากำแพงภาษีใหม่ จาก 10 เป็น 15%",
+          "url": "https://www.thairath.co.th/news/foreign/2915669",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqeIU5mR5rlC1.jpg"
+        }
+      ],
+      "collected_at": "00:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqeIU5mR5rlC1.jpg",
+      "date": "2026-02-22"
+    }
   ]
 }
