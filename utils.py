@@ -2408,6 +2408,8 @@ def fetch_balanced_rss(feeds_config, processed_urls=None):
             
         try:
             print(f"Fetching [{category}] {url}...")
+            import time
+            time.sleep(1) # Add a 1 second delay to avoid rapid-fire requests
             response = requests.get(url, headers=headers, timeout=10)
             
             if response.status_code != 200:
@@ -3326,6 +3328,8 @@ def fetch_trend_hunter_items(api_key, existing_links=None):
             rss_url = f"https://news.google.com/rss/search?q=site:{target['domain']}&hl=en-TH&gl=TH&ceid=TH:en"
             print(f"Reading RSS: {target['name']}...")
             
+            import time
+            time.sleep(1) # Add delay to avoid rapid-fire requests
             resp = requests.get(rss_url, headers=headers, timeout=10)
             feed = feedparser.parse(resp.content)
             
