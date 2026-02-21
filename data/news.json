@@ -29122,14 +29122,9 @@
       "summary": "- 태국 정부가 인도 여행객 대상 무비자 체류 가능 기간을 연장했습니다.\n- 기존 30일에서 60일로 늘어나 여행 편의성이 증대될 것으로 예상됩니다.\n- 자세한 내용은 VisaHQ에서 확인할 수 있습니다.",
       "full_translated": "태국, 인도 여행객 대상 무비자 체류 기간 두 배로 연장 VisaHQ",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 체류 기간 연장은 여행 계획에 큰 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand doubles visa-free stay duration for Indian travellers - VisaHQ",
@@ -29138,40 +29133,35 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:15",
+      "collected_at": "3:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUR2b0RrMTg1Mkp5RnpueDF2T3drQjJEY0hqNTZSUW52bGZnRW9NbGVIaTJnSjc2bDRsS3VhUDhrNWFPcGdib0VCVjROUWVNbF9mNU1yYTZOY19Ub2JHM1dNNVJXVnNaY0NfVjVfbXdMNzhhMDZEZDcwWmJiUHN4c3Mya01JOEVQZWdaeC1KTG5WMXQ1VXE2N2xrR2dzakxTZ2pTWGpuc2k?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 해변 노숙자 문제 심각: 관광객 충격, 강력한 법 집행 요구",
       "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동으로 관광객들이 불쾌감을 느끼고 있습니다.\n- 관광객들은 노숙자 문제 해결을 위한 강력한 법 집행을 요구하고 있습니다.\n- 파타야 당국은 노숙자 문제 해결을 위해 노력할 것을 약속했습니다.",
       "full_translated": "파타야 해변에서 노숙자들이 관광객들에게 불쾌감을 주는 행동을 하여 문제가 되고 있습니다. 관광객들은 이러한 문제에 대한 강력한 법 집행을 요구하고 있으며, 당국은 문제 해결을 위해 노력할 것을 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객에게 직접적인 영향을 미치는 문제이며, 법 집행 요구가 있어 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Pattaya Beach",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': None, 'location': 'Pattaya Beach', 'price': None, 'location_google_map_query': 'Pattaya Beach'}",
       "references": [],
-      "collected_at": "03:15",
-      "date": "2026-02-22"
+      "collected_at": "3:15",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "",
+      "source": ""
     },
     {
       "title": "태국 호랑이 공원에서 바이러스로 수십 마리 호랑이 폐사",
       "summary": "- 태국 호랑이 공원에서 바이러스 감염으로 인해 수십 마리의 호랑이가 폐사했습니다.\n- 해당 바이러스는 호랑이 개체 수에 심각한 위협이 되고 있습니다.\n- 공원 당국은 바이러스 확산 방지를 위해 노력하고 있습니다.",
       "full_translated": "태국 호랑이 공원에서 바이러스로 수십 마리 호랑이 폐사 The Standard (HK)",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "동물원이나 공원을 방문하려는 여행객에게 영향을 줄 수 있으며, 해당 지역의 안전 문제에 대한 관심이 필요합니다. 여행객 안전에 대한 잠재적 영향이 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국 호랑이 공원",
-        "price": null,
-        "location_google_map_query": "태국 호랑이 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 호랑이 공원', 'price': None, 'location_google_map_query': '태국 호랑이 공원'}",
       "references": [
         {
           "title": "Virus kills dozens of tigers in Thailand park - The Standard (HK)",
@@ -29180,23 +29170,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:15",
+      "collected_at": "3:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnJLQ29PbzNmRjEtRnhNTWpDalN4RzVfazFMMERGRXlzTjhDX3NMa2hMQVhRQ3B1VlZRcWNKdzdXY3FjU21wVmVyWlhNcHctc19GZ1lTZ0prQ2RnTkNFQUgzWUwzbFJBTzhZeVhnU29pajM1WHJGTkZIZmFZMm8zUGZ3UUhkWDN0cjJPbFYzZzRRUGl6SWk3VTJHbW1QNUlpUEVfYw?oc=5",
+      "source": ""
     },
     {
       "title": "치앙라이, 태국: 매 야오 강에서 지속 가능한 관광 부흥으로 환경 역경을 전환",
       "summary": "- 치앙라이의 매 야오 강에서 환경 문제 해결을 통해 지속 가능한 관광을 부활시키고 있습니다.\n- 지역 사회 참여와 환경 보호 노력을 통해 관광객들에게 매력적인 경험을 제공합니다.\n- 지속 가능한 관광 모델을 구축하여 지역 경제 활성화와 환경 보전에 기여하고 있습니다.",
       "full_translated": "치앙라이, 태국: 매 야오 강에서 지속 가능한 관광 부흥으로 환경 역경을 전환&nbsp;&nbsp;Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "치앙라이 지역의 관광 활성화 노력에 대한 정보로, 여행객들에게 새로운 관광지에 대한 정보를 제공하므로.",
-      "event_info": {
-        "date": null,
-        "location": "치앙라이, 매 야오 강",
-        "price": null,
-        "location_google_map_query": "Mae Yao River, Chiang Rai"
-      },
+      "event_info": "{'date': None, 'location': '치앙라이, 매 야오 강', 'price': None, 'location_google_map_query': 'Mae Yao River, Chiang Rai'}",
       "references": [
         {
           "title": "Chiang Rai, Thailand: Transforming Environmental Adversity into a Sustainable Tourism Revival on the Mae Yao River - Travel And Tour World",
@@ -29205,7 +29192,51 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:15",
+      "collected_at": "3:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFUxb0tyRG9keHUxOWgzUTB5VVJsMFhwa2lMMGowckFOMFJPVlJLRVF3eWZaNGgzN05kdGRJX2pDTVhCZFcwRVA4R29Fam9GN3JKci1KWUlEdks0UkRBdUlXTDJ5alR3dXN6WlU4ai1wSTFpaF9ZVm9rc3R2YmQ2dzlna2Z2dlJqbnpJTmdQZlhhdjNpMHhNREF1UWs4R3ZEOGpnWE9TVEUwNVdzdDdldnNQSlMzSFVmNDBiMGZ2dWZ6SFRvMDU0QldwMUhwNUxfZEJNbTFaT2Y3VTEzUS03NE9DdUZsOVBzbUxnTG0tMTJKRkE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변 노숙자 문제 심각: 관광객 불쾌감 및 강력한 법 집행 요구",
+      "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동으로 관광객들이 불쾌감을 느끼고 있습니다.\n- 관광객들은 이러한 문제 해결을 위해 강력한 법 집행을 요구하고 있습니다.\n- 노숙자 문제 해결과 함께 파타야의 관광 이미지 개선이 시급합니다.",
+      "full_translated": "파타야 해변에서 노숙자들의 부적절한 행동으로 인해 관광객들이 불쾌감을 느끼고 있으며, 지역 사회는 이러한 문제 해결을 위해 강력한 법 집행을 요구하고 있습니다. 관광객들은 파타야 해변의 노숙자들이 공공장소에서 부적절한 행동을 하는 것에 대해 우려를 표명하고 있으며, 이는 파타야의 관광 이미지를 훼손할 수 있다고 지적합니다. 따라서, 관련 기관은 노숙자 문제에 대한 적극적인 대응과 함께 관광객들에게 안전하고 쾌적한 환경을 제공하기 위한 노력을 기울여야 할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변의 노숙자 문제는 관광객의 안전과 직결되는 문제이며, 관광 경험에 부정적인 영향을 미칠 수 있습니다. 따라서 관련 법 집행 강화 및 노숙자 지원 정책이 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [],
+      "collected_at": "03:46",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "PETA 아시아, 태국 사설 공원의 호랑이 '비참한 삶' 고발 및 관광객 방문 자제 촉구",
+      "summary": "- PETA 아시아는 태국 사설 공원의 호랑이들이 비참한 환경에서 살고 있다고 주장.\n- 관광객들에게 이러한 공원 방문을 자제할 것을 촉구.\n- 동물 학대 문제에 대한 인식을 높이고 윤리적인 관광을 장려.",
+      "full_translated": "동물 권리 단체 PETA 아시아는 태국 사설 공원의 호랑이들이 '비참한 삶'을 살고 있다고 밝히며 관광객들에게 방문 자제를 촉구했습니다. themercury.com",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업에 대한 잠재적 이미지 손상 및 동물 복지 관련 우려를 제기하여 관광객들에게 간접적인 영향을 미칠 수 있음. 동물 윤리에 대한 관심 증가 추세를 반영.",
+      "event_info": {
+        "date": null,
+        "location": "태국 사설 공원",
+        "price": null,
+        "location_google_map_query": "태국 사설 공원"
+      },
+      "references": [
+        {
+          "title": "Animal rights group PETA Asia says tigers live in 'misery', urging tourists to stay away from private parks - themercury.com",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUzNyU3ZUc2V4SkNsazJnekhCOHZUNUZuWjR0SjN2UExyeG5MMjNQaWFFd3hnVDJiQUtlRkdTclVtTXppcWZ0SVhYZmw5Mk54QXFCNGMzWFdEQWNFWU9YTGJMRW5nWFFuQlB0djdkZUZEM0xOZDdpMDI1LXlJcUlvZlJLalBTcDdXWXNVS296TkNhMVBxczFGTVJ4eVQ4bnhYTFFmZExrQXJtVURzcXI1bllhNEZESE1qRUNzWlVQeDZqMC1ZcWtvMzNXaGFVZ1dnRDRxbkNNZUhrNkZ1UWJzRjR5bmk4b25rOHBic0d3SGFJQzdfZ2RpYXVRczRZWmM?oc=5",
+          "source": "themercury.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
