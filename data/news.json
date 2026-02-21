@@ -27844,14 +27844,9 @@
       "summary": "- 태국 치앙마이의 인기 관광지에서 치명적인 바이러스 발생.\n- 호랑이 72마리 폐사, 공원 폐쇄됨.\n- 정확한 바이러스 종류와 감염 경로는 아직 조사 중.",
       "full_translated": "태국에서 치명적인 바이러스가 발생하여 치앙마이의 인기 관광지인 동물원이 폐쇄되었습니다. 이번 바이러스로 인해 호랑이 72마리가 폐사했습니다. 정확한 바이러스 종류와 감염 경로는 아직 조사 중입니다. Mint에서 보도했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객이 많이 찾는 치앙마이 동물원에서 발생한 사건으로, 여행 안전에 대한 우려를 불러일으킬 수 있다. 동물원 폐쇄로 인해 관광 계획에 차질이 생길 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이 동물원",
-        "price": null,
-        "location_google_map_query": "치앙마이 동물원"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이 동물원', 'price': None, 'location_google_map_query': '치앙마이 동물원'}",
       "references": [
         {
           "title": "72 tigers die in deadly virus outbreak in Thailand; popular tourist attraction Chiang Mai park closed — What we know - Mint",
@@ -27862,21 +27857,18 @@
       ],
       "collected_at": "16:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTnB1MlpXclVaWFYzVDhCanpQYjlEY2ZsQ3F5bmhMYUxqbEZid21aQjJFOUxjREVmZVZRdTdURllhT0ZPNF8wR1FLci1KNklIRGJRTWdOME51SmhjcjNkeUdkc2tSajIwWWFMdm9WZHZnek85VkNFb3RJaWlBWUdjTkczQ2NXYmdBVGgzQWN4Y2dLWXViUklSaWZINXp3ZTFXM2Fpa3JXVXMzVldlMnRQb0FaTlZXcDNTYUgzN2ZmTnUtMWc2bVlVb2lWbW5uNGEyRTVZOVdYS2tHMDI0RHNZd25lMlQzREY1R3FERlRoMndYMS04LWVZVTNDUXJnUdIBgwJBVV95cUxOTHRnT3dMdXd2bl84N09jeUJCbHpRdVFqX2pJMzJPRm5VWVhZS0JIRHA2U05iejNCWldsNWlKT0VYakxBOUxGZzk1VHpZemVtQ1ViRm5wNDNVT3VSS2pKZmQySll3ZFJLVzNFQnlXTXg2TmhhRG5RWXZKQklZbW1YTG9DY0RFLTZwelZLN1JOYnRCcnRndFRFa1M1eEZtcjE2RW0xOHpoSTlSN0xxMWZ5MVVBWHYzSVczZ0ZKdVBEbHhDU3VjZTNMa1kyalhfWVczVmF4T2ZWWER5UEM4NTBvMmF2NV9lUDI3NXFGb2JfcEUwRlljREV6MVctTzVRN0Z3NFNv?oc=5",
+      "source": ""
     },
     {
       "title": "방콕 인근, 60대 여성 폭행한 40대 남성 체포: 총기법 위반 혐의",
       "summary": "- 방콕 인근 논타부리에서 40대 남성이 60대 여성 폭행 후 총기 난사 혐의로 체포됨.\n- 용의자는 총기 소지 허가 없이 총기를 소지하고 공공장소에서 발사한 혐의를 받음.\n- 경찰은 용의자를 상대로 범행 동기 및 추가 혐의를 조사 중.",
       "full_translated": "방부아통 경찰서는 60세의 얼음 가게 주인을 때리고 발로 찬 남자를 체포했습니다. 총기법에 따른 영장이 발부되었으며 하늘로 총을 쏜 혐의도 받고 있습니다.\n\n사건은 2월 20일 오전 6시경 논타부리 방쿠랏 지역의 한 얼음 가게 앞에서 발생했습니다. 피해자인 두앙다오 짓사놋(60세)과 그의 딸인 크리티야니 산타와(29세)는 테프릿 우쑤꾼 또는 테프(40-45세)라는 남성에게 공격을 받았습니다. 테프는 총기를 휘두르며 두앙다오의 얼굴을 3차례 때리고 배를 1차례 찼습니다.\n\n경찰 조사 결과, 테프는 사건 발생 후 도로 한복판에서 5~6발의 총을 하늘로 쏜 것으로 드러났습니다. 그는 총기 소지 허가 없이 총기를 소지하고, 공공장소에서 총기를 발사한 혐의를 받고 있습니다.\n\n경찰은 테프를 체포하여 범행 동기를 조사하고 있으며, 추가 혐의를 적용할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕 인근에서 발생한 폭력 사건으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": "2024-02-20",
-        "location": "논타부리 방쿠랏",
-        "price": null,
-        "location_google_map_query": "방쿠랏 논타부리"
-      },
+      "event_info": "{'date': '2024-02-20', 'location': '논타부리 방쿠랏', 'price': None, 'location_google_map_query': '방쿠랏 논타부리'}",
       "references": [
         {
           "title": "จับแล้ว หนุ่มกร่างตบหน้าป้าร้านน้ำแข็ง โดนหมายจับ พ.ร.บ.อาวุธปืน พบยิงปืนขึ้นฟ้าด้วย",
@@ -27887,6 +27879,133 @@
       ],
       "collected_at": "16:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9X69HMtjx2T.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/crime/2915627",
+      "source": ""
+    },
+    {
+      "title": "태국 북부 및 방콕, 여름 폭풍 주의보",
+      "summary": "- 태국 북부와 방콕에 다음 주 여름 폭풍과 폭우 예상.\n- 기상청은 중국에서 내려오는 고기압의 영향이라고 밝힘.\n- 강풍, 우박, 번개를 동반한 폭우에 대비하고, 농작물 피해 예방 필요.",
+      "full_translated": "태국 북부 지역과 방콕은 다음 주에 여름 폭풍과 폭우를 겪을 것으로 예상된다고 기상청이 토요일에 발표했습니다. 수구냐니 야빈찬 기상청장은 중국에서 고기압 또는 찬 공기 덩어리가 내려오고 있다고 밝혔습니다. 이 시스템은 북동부, 중앙 평원, 동부 및 태국 만에 남풍과 남동풍을 가져오고 북부와 북동부를 통과하는 우세한 서풍과 결합될 것이라고 그녀는 말했습니다. 특히 월요일부터 수요일 사이에 이러한 지역에서 예상되는 날씨 조건에는 뇌우, 강한 돌풍, 우박, 폭우 및 때때로 번개가 포함되며 태국 북부는 덥거나 매우 더운 상태를 유지합니다. 방콕과 그 외곽 지역도 영향을 받을 것이라고 예보관들은 말했습니다. 사람들은 개방된 장소와 큰 나무 아래, 약한 구조물이나 광고판 근처에 머무르지 않도록 권고받고 있습니다. 농부들은 농산물과 가축을 가능한 피해로부터 보호할 준비를 해야 한다고 기상청은 밝혔습니다. 금요일 밤, 치앙마이의 Chom Thong 지역에 폭우를 동반한 뇌우가 발생했습니다. 이 폭풍으로 인해 거의 1,000가구가 피해를 입었고 일시적인 정전이 발생했다고 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 영향을 줄 수 있는 날씨 정보이므로 중요도가 높음. 특히 우기에는 더욱 주의해야 함. 매일 업데이트되는 일기 예보 성격.",
+      "event_info": {
+        "date": "2026-02-24",
+        "location": "방콕 및 태국 북부",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Summer storm warning for upper Thailand and Bangkok",
+          "url": "https://www.bangkokpost.com/thailand/general/3202315/summer-storm-warning-for-upper-thailand-and-bangkok",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202315_260221155748_700.jpg"
+        }
+      ],
+      "collected_at": "17:17",
+      "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202315_260221155748_700.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국, 악용 및 보안 위험 증가로 60일 무비자 정책 재검토",
+      "summary": "- 태국 정부가 60일 무비자 정책의 악용 및 보안 위험 증가에 따라 정책 변경을 고려 중입니다.\n- 구체적인 변경 사항은 아직 발표되지 않았으나, 비자 정책 강화 가능성이 제기되고 있습니다.\n- 여행객들은 향후 태국 입국 시 비자 관련 변경 사항을 주의 깊게 확인할 필요가 있습니다.",
+      "full_translated": "태국은 악용 및 보안 위험 증가로 인해 60일 무비자 정책을 재고하고 있으며, 잠재적인 변경이 임박했습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높습니다. 현재 재검토 단계이지만, 잠재적 변경 가능성을 알리는 것이 유용합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Reconsiders its Sixty-Day Visa-Free Policy Amid Rising Concerns Over Misuse and Security Risks, With Potential Changes on the Horizon - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQci1rd09Sa0xhZ05NMUNlQm5zTi1qMkpOeFVaeWNMUnV6c3VWb0hwTGxxTFhGT2lqbGs3UU1sQmJpUmZCSUJ1Nm5sVVRjc2dhMW1ucWdXalFla3VvX2hMNVp4Y0Z3S2xJdVJ0eXVfdjJ5cTRpckFqOWZTWG5rRGNlcjFpdkhFdXU5OFBGLUg5OXJYUVd4RU5TLU9Venp2WUVCSUtHSmF3Rk82N3JEc09Pc2NWaHRnR2plNS1la1Y1cmhBYm9mdmtwQkdjVGpOOEpZVkVRdVNna01TUGhEcURzUGNab1FUNFNfQlF2bmVSdE1QcTdiMTV2bGp6RW8yenlWbXBXNm5iLWdaSVE5VnpqcWVaOUVnOWMwMUE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국, 잇따른 묻지마 범죄에 학교 폐쇄 잇따라. 정신 건강 위기 심각",
+      "summary": "- 최근 태국에서 묻지마 범죄가 잇따라 발생하며 사회적 불안감이 고조되고 있습니다.\n- 학교들은 학생 안전을 위해 임시 휴교를 결정하는 등 비상 조치를 취하고 있습니다.\n- 전문가들은 이러한 현상이 태국 사회의 정신 건강 위기를 반영한다고 지적하며, 정부 차원의 적극적인 대책 마련을 촉구하고 있습니다.",
+      "full_translated": "전 교육부 차관 '린티폰'은 최근 잇따른 묻지마 범죄로 인해 학교들이 폐쇄되는 상황이 태국인의 정신 건강 위기를 반영한다고 지적하며, 문제 해결을 위한 3가지 긴급 대책을 제안했습니다.\n\n2069년 2월 21일, 푸에타이당 부총장이자 전 교육부 차관인 린티폰 와린왓차롯은 개인 페이지에 빠툼타니 지역에서 발생한 총기 난사 사건과 쿠라부리 지역에서 발생한 흉기 난동 사건으로 인해 여러 학교가 안전을 위해 임시 휴교에 들어갔다고 밝혔습니다.\n\n린티폰은 지난 2일 동안 학교에서 직접 발생하지는 않았지만 사회에서 발생하는 폭력 사건 소식을 여러 번 접했으며, 이는 학생, 교사, 가족들에게 불안감과 안전하지 않다는 느낌을 주고 있다고 말했습니다. 특히 최근 유사한 사건이 잇따라 발생하면서 학교는 즉각적인 결정을 내리고 학부모와 소통하며 취약한 시기에 학습 분위기를 유지해야 하는 어려움에 직면하고 있습니다.\n\n린티폰은 많은 학교가 이미 위기 대응 계획을 가지고 있으며, 일부 학교는 모의 훈련, 소통, 실제 상황에서 학생들을 돌보는 등 매우 잘 대처하고 있다고 언급했습니다. 그러나 지역별로 준비 상태가 다르다는 점을 지적하며 교육부에 다음 사항을 촉구했습니다.\n\n1. 모든 학교에서 매달 체계적인 훈련 계획을 수립하고, 모든 지역의 학교가 동일한 수준의 보호를 받을 수 있도록 합니다.\n2. 교사와 학생들에게 긍정적인 훈육 방법과 공감 능력의 중요성을 강조합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 사회 불안 증가 및 학교 폐쇄로 인한 여행객 안전에 대한 간접적 영향. 하지만 현재까지 여행객 직접 피해 사례는 보고되지 않음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ลิณธิภรณ์” ชี้เหตุคนคลั่งหลายเคส จนต้องปิดเรียน สะท้อนวิกฤตสุขภาพจิตคนไทย เสนอ 3 มาตรการเร่งแก้",
+          "url": "https://www.thairath.co.th/news/politic/2915623",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9u4cJVTwoQR.jpg"
+        }
+      ],
+      "collected_at": "17:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9u4cJVTwoQR.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국 정치 불안정 경고: 새 정부, 강력한 야당에 직면",
+      "summary": "- 차이우트, 새 정부가 300석을 확보해도 강력한 야당의 도전을 받을 것이라고 경고\n- 경제 정책에 대한 약속 이행 촉구, '국민이 견딜 수 없을 정도로 부유해지는' 공약 실현 가능성에 대한 의문 제기\n- 야당의 감시 역할 강조하며 정부의 정책 실행에 대한 철저한 검증 예고",
+      "full_translated": "차이우트 국가애국당 대표는 아누틴이 이끄는 새 정부가 300석을 확보했지만 안심할 수 없다고 밝혔습니다. 그는 '국민이 견딜 수 없을 정도로 부유해지는' 공약을 잊지 말라고 촉구하며, 강력한 야당의 견제를 받을 것이라고 경고했습니다.\n\n차이우트 대표는 2069년 2월 21일 14:00, 푸미차이타이당이 주도하는 새 정부 구성에 대해 300석을 확보한 것은 예상 밖의 일은 아니지만, 야당의 핵심 3인방인 쁘라차촌, 끌라탐, 쁘라차티팟의 협공을 조심해야 한다고 말했습니다. 그는 또한 선거 당시 공약이었던 국민이 견딜 수 없을 정도로 부유해지는 정책이 실현될 수 있을지 의문을 제기했습니다.\n\n차이우트 대표는 푸미차이타이당이 주도하는 정부 구성이 순조롭게 진행되는 것처럼 보이지만, 이는 가장 강력한 야당과의 대결을 의미한다고 언급했습니다. 그는 야당의 감시 역할이 정부 견제에 효율성을 더하고, 하원 의원들의 활동에도 도움이 될 것이라고 덧붙였습니다. 차이우트 대표는 또한 새 정부의 경제 정책에 대한 기대감을 표하며, 국민들이 오랫동안 기다려온 정책들이 즉시 시행되어야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 불안정은 장기적으로 관광 산업에 영향을 미칠 수 있으나, 당장의 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ชัยวุฒิ” มั่นใจรัฐบาล “อนุทิน” มั่นคง จี้อย่าลืมคำสัญญา “รวยจนทนไม่ไหว” เตือนเจอฝ่ายค้านสายแข็ง",
+          "url": "https://www.thairath.co.th/news/politic/2915617",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArYZ5Sk2khqGE.jpg"
+        }
+      ],
+      "collected_at": "17:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArYZ5Sk2khqGE.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "랑시만 롬, 탐마낫이 야당이 되더라도 계속 조사할 것…'회색 세력'이 권력을 잡는 것을 원치 않아",
+      "summary": "- 랑시만 로마는 탐마낫 펌파오의 กล้าธรรม (끌라탐) 당이 야당이 되더라도 계속 조사할 것이라고 밝혔다.\n- 특히 벤 스미스와 안구 스캔 MOU에 대한 조사를 강조하며, 회색 경력의 장관이 나오는 것을 원치 않는다고 말했다.\n- 그는 누가 야당이 되는지에 관심이 없으며,ทุนสีเทา(회색 자본)에 대한 조사를 계속할 것이라고 덧붙였다.",
+      "full_translated": "랑시만 로마는 끌라탐 당이 야당으로 밀려나더라도 계속 조사를 진행할 것이라고 확인했습니다. 특히 '벤 스미스 - 안구 스캔 MOU' 건에 대해 강조하며, 회색 이력의 장관이 나오는 것을 원치 않는다고 밝혔습니다.\n\n2069년 2월 21일 15시 00분, 푸에아촌(ปชน.)당 부대표 랑시만 로마는 끌라탐 당의 자문위원장인 탐마낫 펌파오의 끌라탐 당이 야당이 될 가능성이 높다는 뉴스 보도에 대해 푸에아촌 당이 환영하는지 묻는 질문에 다음과 같이 답했습니다. '환영하는지 여부는 말할 수 없습니다. 왜냐하면 야당은 서로 손을 잡는 것으로 생기는 것이 아니기 때문입니다. 푸에아촌 당은 역할을 다하고 있으며, 누가 야당이 되는지는 관심 없습니다. 환영하거나 불쾌해하지 않습니다.' 회색 자본 문제에 대해서는 계속 조사를 진행할 수 있다고 덧붙였습니다. 만약 탐마낫 펌파오가 뉴스에 보도된 대로 실제로 야당이 된다고 해도 탐마낫 펌파오를 조사하지 않는다는 의미는 아닙니다. 벤 스미스 문제도 계속 진행해야 합니다. 벤 스미스 문제는 탐마낫 펌파오 한 사람만의 문제가 아니라 안구 스캔과 관련된 싱가포르 기업의 MOU 서명 문제 등 여러 사람이 관련되어 있습니다. 우리는 계속해서 역할을 수행하고 싶습니다. 국가의 피해가 뿌리 깊게 박힐 것이기 때문에 회색 세력이 정부 권력을 갖는 것을 원치 않습니다.\n\n장관 할당량 문제가 끌라탐 당이 이번 정부에 참여하지 못한 원인이 될 수 있다는 질문에 랑시만은 푸에아촌 당이 정부를 구성한다면 업무에 필요한 지식, 능력, 전문성을 갖춘 사람들의 자질을 중시할 것이라고 말했습니다. 이는 단순히 파벌이나 정치 그룹의 반영이 아닐 것입니다. 그는 장관이 될 사람은 지식과 능력을 갖춘 사람이어야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“โรม” ตรวจสอบต่อ แม้ “ธรรมนัส” จ่อเป็นฝ่ายค้าน ไม่อยากเห็นพวกสีเทามามีอำนาจ",
+          "url": "https://www.thairath.co.th/news/politic/2915624",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9heCQ5NFWl6.jpg"
+        }
+      ],
+      "collected_at": "17:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9heCQ5NFWl6.jpg",
       "date": "2026-02-21"
     }
   ]
