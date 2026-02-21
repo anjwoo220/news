@@ -29240,14 +29240,9 @@
       "summary": "- 태국에서 바이러스 발생으로 호랑이 72마리 폐사.",
       "full_translated": "태국에서 바이러스 발생으로 호랑이 72마리가 폐사하여 인기 관광 명소가 폐쇄되었습니다. 사망은 2월 8일에 시작되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광 명소 폐쇄로 여행 일정에 차질이 생길 수 있으며, 동물 관련 여행에 대한 우려를 야기할 수 있음. 안전 관련 정보 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Virus outbreak kills 72 tigers in Thailand, popular tourist attraction closed | The deaths began on February 8 | Inshorts - Inshorts",
@@ -29256,23 +29251,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:15",
+      "collected_at": "4:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0xGcGplblFXenRzTkt6X0IwMm9FN2NtX0thMEVjSDdfOVlrM0ZPVmotMFVZNXpFbThyQm5wcm9GUWJlRUZqMUlFcjZfbXBhczQ5Y0lGSGhvYlItVXNJVXpaaHBTalRrYkl1RHJ5X0Z2a1FqdzZ6RGZZdVBEQW5KeGhFSkhpTUdiRnVqNllDYm9hTkJ2ZnQxNFZKMEZTcnF2ZUszWTcxVkhtZkVweDlRYWk3YzFPdG9FZnoxaHo2M1ROQdIBwgFBVV95cUxNR0xGcGplblFXenRzTkt6X0IwMm9FN2NtX0thMEVjSDdfOVlrM0ZPVmotMFVZNXpFbThyQm5wcm9GUWJlRUZqMUlFcjZfbXBhczQ5Y0lGSGhvYlItVXNJVXpaaHBTalRrYkl1RHJ5X0Z2a1FqdzZ6RGZZdVBEQW5KeGhFSkhpTUdiRnVqNllDYm9hTkJ2ZnQxNFZKMEZTcnF2ZUszWTcxVkhtZkVweDlRYWk3YzFPdG9FZnoxaHo2M1ROQQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 좀티엔 해변 여행객 수영 안전 선언: 정부의 집중적인 수질 모니터링 및 해안 환경 보호 강화",
       "summary": "- 태국 정부는 좀티엔 해변에 대한 집중적인 수질 모니터링을 실시.\n- 해안 환경 보호를 강화하여 여행객들이 안전하게 수영을 즐길 수 있다고 선언.\n- 좀티엔 해변은 관광객들에게 인기 있는 명소로, 이번 조치로 더욱 안심하고 방문할 수 있게 됨.",
       "full_translated": "태국은 정부의 집중적인 수질 모니터링 및 강화된 해안 환경 보호를 통해 좀티엔 해변이 여행객들이 수영하기에 안전하다고 선언했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "좀티엔 해변의 안전 관련 업데이트는 여행객에게 직접적인 영향을 미치므로 포함. 특히 수질 관련 이슈는 여행 만족도에 중요.",
-      "event_info": {
-        "date": null,
-        "location": "Jomtien Beach, 태국",
-        "price": null,
-        "location_google_map_query": "Jomtien Beach, 태국"
-      },
+      "event_info": "{'date': None, 'location': 'Jomtien Beach, 태국', 'price': None, 'location_google_map_query': 'Jomtien Beach, 태국'}",
       "references": [
         {
           "title": "Thailand Declares Jomtien Beach Safe for Travelers Swimming Amid Intensive Government Water Quality Monitoring and Strengthened Coastal Environmental Protection - Travel And Tour World",
@@ -29281,8 +29273,85 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:15",
+      "collected_at": "4:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPdGNnYkczMkE0OUo3a0JIOFhMbWM3QnZyMmIwMUV3ZUZkdzluWXR6Rlc2c3J5bzg2MVdfMjJGRUNLVG5lYXpWY1N0N1ZXT2w0dlFiS2VZTVZjVDJxTjVONWdHdEpVMk42dnl2ZjljZGVMOEVxZ2dJaEpLMkc4UTJnd0JTaTZ6dkNmRUJta0VDbUlvenByNHZUQmRNejlPM0tmWFJiV3NpQ0dCcEkwVUl0a2ZTc3ZJdlB5VHZkM2g2akhzd0d1aFFpUkduRnA0ZmM5Ty12RWtvNUluLUt0VEpCUVhqVXRIUEFqWGNqQkZELWxOZGlkU1gybVBJVlRRdXU2bTdkQzBJTEhmNHVKanpWZ1pXaTliak5KWVVaUUc5d2k5VGpRVGVzX0dUWlNJX1U0ZEZv?oc=5",
+      "source": ""
+    },
+    {
+      "title": "Cannabis in Thailand 2026: Reform, Regulation, and the Reality Behind the Headlines",
+      "summary": "- 태국 대마초 정책의 변화와 규제에 대한 기사입니다.\n- 2026년까지의 대마초 관련 개혁 및 규제 내용을 다룹니다.\n- 여행자들에게는 대마초 관련 법규 변화에 대한 정보를 제공합니다.",
+      "full_translated": "태국 대마초 정책은 2026년까지 많은 변화가 있을 것으로 예상됩니다. 이 기사는 현재 태국에서 진행 중인 대마초 관련 개혁, 규제, 그리고 그 이면에 숨겨진 현실을 심층적으로 분석합니다. 여행자들은 태국 방문 시 대마초 관련 법규를 숙지하는 것이 중요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 대마초 정책 변화는 여행객에게 영향을 줄 수 있으므로 포함. 2026년까지의 변화를 다루는 내용이 주를 이루어 시급성은 다소 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Cannabis in Thailand 2026: Reform, Regulation, and the Reality Behind the Headlines - Respect My Region",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRVW9NNGNna0VFcFRXOWVMWU1kY2huajhqeHZFWW1UUkMzNEFvQ1NDVEpYY09FeWJhRDc5QzRyeEhhaUVEaldOU2htdDQxY3hLM2NsUHB4b2ZZUm84N2gxRXFaeFBvR0J3YUpYUnR3dmJ3QVZL?oc=5",
+          "source": "Respect My Region",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "방콕 및 치앙마이 2026년 송크란 축제: 귀향 여정 확보",
+      "summary": "- 2026년 송크란 축제를 위한 방콕 및 치앙마이 여행 정보 제공.\n- 항공편 및 숙박 예약 서두르라는 내용.\n- 축제 기간 동안의 교통 혼잡에 대비.",
+      "full_translated": "방콕과 치앙마이 송크란 2026: 즐거운 축제를 위해 귀향 여정을 확보하세요 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "송크란 축제는 여행객에게 중요한 이벤트이므로 관련 정보를 제공함. 2026년이라는 시간적 여유가 있어 중요도는 다소 낮음.",
+      "event_info": {
+        "date": "2026-04-13~15 (예상)",
+        "location": "방콕, 치앙마이",
+        "price": "변동",
+        "location_google_map_query": "방콕 송크란 축제, 치앙마이 송크란 축제"
+      },
+      "references": [
+        {
+          "title": "Bangkok and Chiang Mai Songkran 2026: Secure Your Journey Home for the Festival of Joy - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS1FY2tzajQzQkxYLUd4Slo2T2JqUjc5Rjk2NHNRcjFCb3d1MjQ1eVcxYmhvSGNYN3NxbzVELVU0YmtlQTZsNDZWaDVmY3RNd1ROcUFGMmVpbTgzYTVBUEpwY3FZYlM3dUY2MmpES2RyOHpvejd0ekExbzkxdWNlenF1UTJaYXBhWk5ZZk96WGJuQW5ZWVEwOUsweTVGZkFCUjgteDB5ajNQOVJtT0V0dlV2NU81c2ZhWmxpLVdFaFRBWUlacW1VZFBsd3lMak0?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "이탈리아, 냉동 손상된 심장 이식받은 2세 아동 사망",
+      "summary": "- 이탈리아에서 2세 아동이 냉동 손상된 심장을 이식받은 후 사망했습니다.\n- 이식된 심장은 운송 중 냉동고에 노출되어 심각한 손상을 입었습니다.\n- 검찰은 사건 조사에 착수했으며, 의료진 6명이 공식 조사 대상에 올랐습니다.",
+      "full_translated": "이탈리아에서 2세 아동이 심장 이식 후 사망했습니다. 이 아동은 이식받은 심장이 운송 과정에서 손상되어 심각한 상태에 이르렀고 결국 회복하지 못했습니다. 외신 보도에 따르면 도메니코라는 이름의 2세 아동은 현지 시간으로 2026년 2월 21일 토요일 오전 9시 30분경 사망했습니다. 그는 몇 달 전 냉동으로 인해 손상된 심장을 이식받은 후유증으로 고통받았습니다. \n\n아이가 치료를 받았던 모날디 병원은 2세 아동이 “갑작스럽고 되돌릴 수 없는 임상적 악화”를 겪었다고 밝혔습니다. 보도에 따르면 도메니코에게 이식된 심장은 지난 12월 말 병원으로 운송될 때 드라이 아이스에 직접 노출되어 조직이 심하게 손상되었습니다. \n\n현재 검찰은 사건에 대한 조사에 착수했으며 6명의 의료진이 공식적인 조사 대상에 올랐습니다. 이탈리아 전역에서 국민들의 분노가 거세지고 있습니다. 도메니코의 가족 변호사인 프란체스코 페트루치는 언론에 장기가 “극심한 추위로 인해 조직이 파괴된” 상태로 도착했다고 말했습니다. 이 장기는 볼차노에서 나폴리까지 800km 이상을 부적절한 용기에 담겨 얼음 옆에 놓인 채 운송되었으며, 온도가 너무 낮을 경우 의료진에게 경고할 온도계도 없었습니다. 2세 아동은 나폴리에서 거의 2달 동안 생명 유지 장치에 의존해야 했습니다. 그의 어머니인 파트리치아 메르콜리노는 아들을 도와달라는 간청을 교황에게 보내기도 했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 안전과 관련된 의료 시스템 문제 발생 가능성 인지. 이탈리아 여행 예정자에게 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เด็กอิตาลีดับสลด หลังได้รับการปลูกถ่าย หัวใจที่เป็นแผลน้ำแข็งกัด",
+          "url": "https://www.thairath.co.th/news/foreign/2915672",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqgBIg1VPy5d.jpg"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqgBIg1VPy5d.jpg",
       "date": "2026-02-22"
     }
   ]
