@@ -28019,14 +28019,9 @@
       "summary": "- 대형차 주변 운전 시 사각지대 주의 필요.\n- 전방, 좌측, 우측, 후방 모두 위험 존재.\n- 안전거리 확보 및 주의 운전 요망.",
       "full_translated": "소형차 운전자는 알아야 합니다. 트럭, 트레일러 등 대형차 근처에서 운전할 경우 사각지대를 주의해야 합니다. 급제동 시 사고 위험이 있습니다. 앞쪽: 대형차에 너무 가까이 가면 위험합니다. 급제동 시 사고 위험이 있으며, 높이로 인해 시야 확보가 어렵고, 대형차는 무게가 많이 나가 급제동이 어렵습니다. 권장 사항: 차량 2~3대 간격 유지. 왼쪽: 가장 위험합니다. 사이드 미러가 멀리 있어 시야가 좁아 다른 차량을 보기 어렵습니다. 권장 사항: 나란히 운전하지 말고 트럭 왼쪽에서 운전하는 것을 피하십시오. 오른쪽: 높은 차량은 사각지대가 있어 사이드 미러로 옆 차선의 차량을 볼 수 없습니다. 권장 사항: 소형차는 트럭이나 대형차 옆에서 운전하지 마십시오. 사이드 미러 범위 내 또는 대형차 객실 뒤쪽부터 운전하십시오. 대형차 사이드 미러에 보이는 범위 내, 즉 대형차 객실 뒤쪽부터 거리를 두십시오. 뒤쪽: 높은 컨테이너는 백미러 시야를 가려 뒤쪽 차량이 보이지 않습니다. 권장 사항: 소형차는 대형차와 간격을 두고 주차하고, 대형차의 브레이크등을 항상 주시하십시오. 정보 제공: 육상 교통국.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 도로교통 안전 관련 정보로, 특히 렌터카 이용 여행객에게 유용할 수 있어 안전사고 예방 차원에서 포함. 교통사고 위험에 대한 경고는 여행객 안전에 직접적인 영향을 미침.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รถเล็กควรรู้ ขับใกล้กับรถใหญ่ ต้องระวังจุดอับสายตาถ้าเบรกไม่ทันมีเบียดแน่",
@@ -28037,21 +28032,18 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsZ3OLYx2L4jR.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/auto/tips/2915636",
+      "source": ""
     },
     {
       "title": "제노 티티쿨, 혼다 LPGA 태국 최종 라운드 선두",
       "summary": "- 세계 랭킹 1위 제노 티티쿨, 홈에서 혼다 LPGA 태국 우승 노려\n- 3라운드에서 6언더파 66타를 기록하며 단독 선두 유지\n- 김효주와 이소미 등 한국 선수들도 상위권에 랭크",
       "full_translated": "세계 랭킹 1위 제노 티티쿨이 토요일 6언더파 66타를 기록하며 혼다 LPGA 태국 토너먼트 최종 라운드에서 선두를 달리고 있습니다. 라차부리 출신의 제노는 20언더파로 4라운드를 시작하며, 한국의 김효주보다 2타 앞서 있습니다. 이소미는 17언더파로 미국 선수 앨리슨 코푸즈, 일본 선수 이와이 치사토와 함께 공동 3위입니다. ",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야에서 열리는 LPGA 경기는 한국인 관광객들에게도 관심도가 높을 수 있으며, 특히 한국 선수들의 활약 여부에 따라 더욱 그러함.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "Siam Country Club Old Course, Pattaya",
-        "price": "Various ticket options available",
-        "location_google_map_query": "Siam Country Club Old Course Pattaya"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': 'Siam Country Club Old Course, Pattaya', 'price': 'Various ticket options available', 'location_google_map_query': 'Siam Country Club Old Course Pattaya'}",
       "references": [
         {
           "title": "Jeeno in driver’s seat for final round in Pattaya",
@@ -28060,21 +28052,19 @@
         }
       ],
       "collected_at": "18:15",
-      "date": "2026-02-21"
+      "image_url": "",
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/sports/3202334/jeeno-in-drivers-seat-for-final-round-in-pattaya",
+      "source": ""
     },
     {
       "title": "태국 해군, 자국 영해 침범한 외국 어선 나포...나포 과정에서 위협",
       "summary": "- 태국 해군 제3함대가 리페 섬 인근 해역에서 태국 영해를 침범한 외국 어선을 나포함.\n- 나포 과정에서 해당 어선이 해군 함정에 위협적인 행동을 보여, 국제법과 비례의 원칙에 따라 대응했다고 밝힘.\n- 현재 부상자는 병원으로 이송되었고, 나머지 선원들은 법적 절차를 위해 경찰에 인계됨.",
       "full_translated": "태국 해군 대변인은 해군 제3함대가 태국 영해를 침범한 외국 어선을 리페 섬 인근에서 나포했다고 밝혔습니다. 해군은 국제법과 비례의 원칙에 따라 대응했으며, 어선은 나포 과정에서 위협적인 행동을 보였습니다. 2025년 2월 21일, 파랏 랏차이판 해군 대변인은 어제(2월 20일) 해양 국가 이익 보호를 위한 제3해군구역 사령부가 어업 네트워크로부터 외국 어선 여러 척이 태국 영해에서 불법 조업을 하고 있다는 보고를 받았다고 밝혔습니다. 해당 어선들은 리페 섬 동쪽 약 8해리 해상에 있었습니다. 이에 따라 T.994 함정을 보내 조사하도록 지시했습니다. 현장에 도착했을 때, 약 8~10척의 외국 어선이 태국 영해에서 조업 중인 것을 발견했습니다. 당국은 신분을 밝히고 조업 중단을 요청했지만, 해당 어선들은 도주를 시도했습니다. 체포 과정에서 한 척의 어선이 T.994 함정을 향해 돌진하는 적대적인 행동을 보였고, 이는 인력과 장비에 위험을 초래할 수 있었습니다. 이에 당국은 비례적인 대응으로 경고 사격을 가하여 어선을 제지했습니다. 그 결과, 어선 1척과 선원 3명을 통제할 수 있었으며, 이 과정에서 1명이 부상을 입었습니다. 어선은 상황 통제 후 침몰했습니다. 사건 이후 당국은 즉시 인도적 지원을 제공하여 부상자를 사툰 병원으로 이송하고 나머지 2명의 용의자를 수사관에게 넘겨 법에 따라 처리했습니다. 파랏 제독은 해군의 작전이 국제법 원칙과 법 집행의 비례성에 따라 수행되었음을 확인하며, 이는 국제적으로 인정되는 관행이며 해상 주권과 인력의 안전을 보장하는 데 중점을 둔다고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 해군의 외국 어선 나포 사건. 직접적인 여행객 피해는 없으나, 해상 안전 관련 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "리페 섬 인근 해상",
-        "price": null,
-        "location_google_map_query": "Koh Lipe, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '리페 섬 인근 해상', 'price': None, 'location_google_map_query': 'Koh Lipe, Thailand'}",
       "references": [
         {
           "title": "ทัพเรือภาคที่ 3 สกัดเรือประมงต่างชาติ รุกน่านน้ำไทย มีพฤติการณ์คุกคาม",
@@ -28085,21 +28075,18 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsZY4oopwCgai.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/politic/2915633",
+      "source": ""
     },
     {
       "title": "크루바 차이야왓, 갑작스러운 병환으로 입원, 왓 빠 차나차이, 모든 조사에 협조할 것",
       "summary": "- 크루바 차이야왓, 심장 부정맥으로 갑작스럽게 병원에 입원\n- 왓 빠 차나차이 사원 측, 토지 침범 의혹 관련 모든 조사에 협조할 것을 발표\n- 변호인단, 관련 자료 수집 중이며, 사원 측은 의혹을 해소하기 위해 적극적으로 대응할 예정",
       "full_translated": "크루바 차이야왓이 갑작스러운 심장 부정맥으로 병원에 입원했습니다. 왓 빠 차나차이 사원 측은 모든 조사에 협조하겠다는 입장을 밝혔습니다. 변호사 수라삭 미차이는 2069년 2월 21일 14:00에 크루바 차이야왓이 심장 질환과 휴식 부족으로 입원했다고 밝혔습니다. 사원과 재단 대표는 공식적으로 모든 의혹에 대해 정부 기관과 언론에 해명할 준비가 되어 있다고 밝혔습니다. 현재 변호인단과 재단은 토지 소유권 및 자금 출처와 관련된 중요한 문서를 수집하고 있습니다. 한편, 사원에서 수행했던 사람들의 비판 속에서 사원을 대표하는 수녀의 전체 진술이 공개되었습니다. 수녀는 크루바 차이야왓이 매우 자비롭고 왜곡된 가르침이 없다고 주장하며 이전 수녀가 정신적으로 불안정하고 환청을 들었으며 3번이나 자해를 시도했다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 사원의 토지 침범 의혹 및 관련 인물의 건강 문제에 대한 뉴스. 여행 자체에 직접적인 영향은 없으나, 관련 지역 방문 시 참고할 만한 정보.",
-      "event_info": {
-        "date": null,
-        "location": "므악렉 지역",
-        "price": null,
-        "location_google_map_query": "므악렉 사원"
-      },
+      "event_info": "{'date': None, 'location': '므악렉 지역', 'price': None, 'location_google_map_query': '므악렉 사원'}",
       "references": [
         {
           "title": "“ครูบาชัยวัฒน์” ป่วยกะทันหัน วัดป่าชนะใจประกาศจุดยืน พร้อมให้ตรวจสอบทุกกรณี",
@@ -28110,21 +28097,18 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsZ4xcBBiJacO.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/society/2915635",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 바코드 신뢰성 강조: 부정행위 방지에 기여",
       "summary": "- 버원싹 전 부총리는 선거 용지 바코드와 QR 코드가 부정행위 방지에 도움이 된다고 주장.\n- 투표의 '비밀성'은 정보 접근 권한이 없는 사람으로부터 보호하는 것을 의미한다고 설명.\n- 장애인의 투표를 돕는 행위는 법적으로 허용되므로 비밀이 아니라고 강조.",
       "full_translated": "보원삭 전 부총리는 선거 용지에 있는 바코드와 QR 코드가 부정행위 방지에 도움이 된다고 밝혔습니다. 그는 '비밀'이라는 단어는 세상에 아무도 모르는 것이 아니라, 정보 접근 권한이 없는 사람이 알 수 없도록 보호하는 것을 의미한다고 설명했습니다. 선거법 93조에 따라 장애인의 투표를 돕는 행위는 법적으로 허용되므로 비밀이 아니라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 선거 관련 내용으로, 여행객에게 직접적인 영향은 적으나, 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“บวรศักดิ์” ปลุก กกต. เรียกความเชื่อมั่นเรื่องบาร์โค้ด ยันมีประโยชน์ช่วยจับทุจริตได้",
@@ -28135,6 +28119,83 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsY7rOuPtBNOC.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/politic/2915638",
+      "source": ""
+    },
+    {
+      "title": "태국, 인도인 대상 60일 무비자 체류 허용 및 30일 연장 가능",
+      "summary": "- 태국이 인도인 여행객에게 60일 무비자 체류를 허용합니다.\n- 30일 추가 연장이 가능합니다.\n- 자격 요건을 확인하세요.",
+      "full_translated": "태국이 인도인에게 60일 무비자 체류를 허용하고 30일 연장을 제공합니다. 오늘 자격 요건을 확인하십시오. Y-Axis Overseas Careers",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여합니다. 인도인 여행객들에게 직접적인 영향을 미칩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Grants Indians 60-Day Visa-Free Stay with 30-Day Extension – Check Eligibility Today - Y-Axis Overseas Careers",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMlFqc0E5RnNKc1VzREZERWtSVHdFS3NFM1I5U0hSSnR4UkVXTVBxTWFJNW5qaUdRY3ozUVJBTVRfbnBTdTZRa1lyWTV6T0laZ09JcHZBTnctTk1wd1dVTk1faFNTVy1NSlhKdU5IaEIzLWZHZ3pQQ1Q4dnZWbzkxbG03dDZOT3M1WExIYTREUGphQXl0dEtqajd4V01MQ2Fha0tz?oc=5",
+          "source": "Y-Axis Overseas Careers",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "전직 경찰 간부, 위조 번호판 단 캠리 차량 절도 연루 혐의로 체포",
+      "summary": "- 전직 경찰 간부가 도난 차량을 불법 개조하려 한 혐의로 체포됨.\n- 용의자는 차량을 담보로 받았다고 주장하며 도난 사실을 몰랐다고 진술함.\n- 경찰은 용의자를 상대로 추가 수사를 진행 중.",
+      "full_translated": "전직 경찰 간부가 위조 번호판을 단 캠리 차량과 함께 체포되었습니다. 용의자는 차량이 도난당한 차량이라는 사실을 몰랐다고 주장하며, 다른 사람으로부터 담보로 받았다고 진술했습니다.\n\n경찰은 2019년 2월 21일에 도난 신고된 차량을 추적하던 중 용의자를 발견했습니다. 용의자는 차량을 분해하여 부품을 판매하려 한 것으로 보입니다. 용의자는 현재 공문서 위조 및 장물 취득 혐의로 기소되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 대상 범죄는 아니지만, 경찰 간부 연루 사건이므로 치안 관련 간접적 영향이 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "깐차나부리",
+        "price": null,
+        "location_google_map_query": "깐차나부리"
+      },
+      "references": [
+        {
+          "title": "จับร้อยตำรวจเอก พร้อมคัมรี่ป้ายแดงปลอม รถถูกขโมยมา อ้างไม่รู้ รับจำนำต่อมาอีกทอด",
+          "url": "https://www.thairath.co.th/news/crime/2915639",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsY2JiFGU2mBJ.jpg"
+        }
+      ],
+      "collected_at": "18:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsY2JiFGU2mBJ.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "아누틴 총리, '프라 나콘 키리-므앙 펫' 행사 개막 전 따이홍 사당 참배",
+      "summary": "- 아누틴 총리는 2069년 2월 21일 저녁, 펫차부리에서 열리는 '프라 나콘 키리-므앙 펫' 행사에 참석하기 전 따이홍 사당에서 참배했습니다.\n- 이 행사는 펫차부리의 중요한 문화 유산을 기념하고 관광을 장려하기 위해 개최됩니다.\n- 2069년 춘절 기간 동안 포텍텽 재단은 2월 16일부터 25일까지 행사를 개최하며, 루앙푸 따이홍에게 경의를 표하고 새해의 행운을 기원합니다.",
+      "full_translated": "아누틴 총리, '프라 나콘 키리 – 므앙 펫' 행사 개막 전 따이홍 사당 참배\n\n2069년 2월 21일, 아누틴 총리는 방콕 플랍플라차이의 포텍텽 재단 따이홍 사당에서 루앙푸 따이홍에게 경의를 표하고 춘절을 맞아 공익 자금 기부에 참여했습니다. 이후 저녁에는 펫차부리로 이동하여 프라 나콘 키리 국왕 기념 공원에서 열리는 제39회 '프라 나콘 키리 – 므앙 펫' 행사에 참석할 예정입니다. 이 행사는 펫차부리의 관광을 장려하고 중요한 문화 유산을 기념하기 위해 개최됩니다.\n\n포텍텽 재단의 2069년 춘절 행사는 2월 16일부터 25일까지 진행됩니다. 재단은 모든 신도와 대중에게 루앙푸 따이홍에게 경의를 표하고 새해의 행운을 빌며, 가족의 행복과 번영을 기원하는 의식에 참여하도록 초대합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 춘절 행사 정보는 여행자에게 유용한 정보가 될 수 있으며, 특히 펫차부리 지역 방문 예정인 여행객에게 도움이 될 수 있습니다.",
+      "event_info": {
+        "date": "2069-02-21",
+        "location": "ศาลเจ้าไต้ฮงกง มูลนิธิป่อเต็กตึ๊ง, อุทยานเฉลิมพระเกียรติพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว พระนครคีรี (따이홍 사당, 프라 나콘 키리 국왕 기념 공원)",
+        "price": "무료",
+        "location_google_map_query": "따이홍 사당, 펫차부리 프라 나콘 키리 국왕 기념 공원"
+      },
+      "references": [
+        {
+          "title": "นายกฯ อนุทิน ไหว้ศาลเจ้าไต้ฮงกง ก่อนไปเปิดงาน “พระนครคีรี – เมืองเพชร” เย็นนี้",
+          "url": "https://www.thairath.co.th/news/politic/2915641",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ApkguzQmo6Ilq.jpg"
+        }
+      ],
+      "collected_at": "18:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ApkguzQmo6Ilq.jpg",
       "date": "2026-02-21"
     }
   ]
