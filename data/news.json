@@ -28392,14 +28392,9 @@
       "summary": "- 파타야 해변에서 노숙자의 부적절한 행동이 관광객들에게 충격을 주고 있습니다.\n- 주민들은 강력한 법 집행을 요구하고 있습니다.\n- 노숙자 문제 해결을 위한 실질적인 대책 마련이 시급합니다.",
       "full_translated": "파타야 해변에서 노숙자의 부적절한 행동이 관광객들에게 충격을 주면서 보다 엄격한 법 집행을 요구하는 목소리가 높아지고 있습니다. 관광객들은 파타야 해변의 이미지 훼손을 우려하며, 관련 당국의 적극적인 개입을 촉구하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 해변의 치안 및 이미지에 영향을 미쳐 관광객에게 직간접적인 영향을 줄 수 있습니다. 법 집행 강화 요구는 잠재적 위험을 시사합니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Homeless Man’s Indecent Behavior on Pattaya Beach Shocks Tourists, Sparks Calls for Stricter Enforcement",
@@ -28408,21 +28403,19 @@
         }
       ],
       "collected_at": "21:21",
-      "date": "2026-02-21"
+      "image_url": "",
+      "date": "2026-02-21",
+      "link": "https://www.example.com",
+      "source": ""
     },
     {
       "title": "송클라, 사이베리안 허스키 '몰리' 방화 살해 용의자 수색: 현상금 87,000 바트(บาท)로 증가",
       "summary": "- 송클라에서 사이베리안 허스키 '몰리'가 방화로 살해당한 사건 발생.\n- 경찰, 용의자 수색을 위해 관련 주택 수색 및 증거 수집 중.\n- 현상금이 87,000 바트(บาท)로 증가하며, 범인 검거에 박차.",
       "full_translated": "송클라에서 발생한 사이베리안 허스키 '몰리' 방화 살해 사건과 관련하여 경찰이 용의자를 추적하고 있습니다. 경찰은 5개 부대를 동원하여 현장 수색을 진행하고 있으며, 용의자 거주지로 의심되는 주택을 수색하여 증거를 수집하고 있습니다. 현재 현상금은 8만 7천 밧으로 증가했습니다. 이 사건은 많은 동물 애호가들에게 충격을 주었으며, '몰리'는 2살 된 암컷 사이베리안 허스키로, 누군가에 의해 기름이 뿌려지고 불에 타 심각한 부상을 입었습니다. 안타깝게도 몰리는 결국 조용히 숨을 거두었고, 주인과 네티즌들의 애도가 이어지고 있습니다. 경찰은 주택에서 기름 흔적과 기름통을 발견했으며, DNA 샘플을 수집하여 분석을 의뢰했습니다. 또한, 주변 주민들을 상대로 탐문 수사를 진행했지만, 아직까지 범행을 자백하는 사람은 나오지 않았습니다. 경찰은 모든 가용한 자원을 동원하여 범인 검거에 총력을 기울이고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물 학대 사건이지만, 현상금 증가 및 수사 진행 상황 업데이트는 여행객들에게 간접적인 안전 관련 정보를 제공할 수 있다고 판단.",
-      "event_info": {
-        "date": "2024-02-21",
-        "location": "สงขลา",
-        "price": "87,000 바트 (현상금)",
-        "location_google_map_query": "สงขลา"
-      },
+      "event_info": "{'date': '2024-02-21', 'location': 'สงขลา', 'price': '87,000 바트 (현상금)', 'location_google_map_query': 'สงขลา'}",
       "references": [
         {
           "title": "ค้นบ้านต้องสงสัยเผาฆ่า “น้องมอลลี่” สุนัขพันธุ์ไซบีเรียน รางวัลนำจับพุ่ง 87,000 บาท",
@@ -28433,6 +28426,33 @@
       ],
       "collected_at": "21:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ap9qYfhHnWJut.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/crime/2915652",
+      "source": ""
+    },
+    {
+      "title": "콘캔 금은방 강도 용의자 체포, 190만 바트 상당 금품 회수",
+      "summary": "- 콘캔 지역 금은방에서 발생한 190만 바트 상당의 금품 강도 사건 용의자 체포.\n- 용의자는 48세 남성 '캐'로, CCTV 분석 및 거주지 인근 고무 농장 감시를 통해 추적됨.\n- 훔친 금은 기둥 안에 숨겨져 있었으며, 도주에 사용된 오토바이도 회수.",
+      "full_translated": "콘캔: 경찰은 므앙 지역 반툼에서 발생한 금은방 강도 사건의 용의자를 체포했습니다. 이 사건으로 약 190만 바트 상당의 26바트 무게의 금 목걸이가 지난 일요일에 도난당했습니다. 용의자는 '캐'(48세)로 확인되었으며, 수사관들이 CCTV 영상을 검토하고 반라오폰통에 있는 그의 거주지 근처 고무 농장에서의 움직임을 감시한 후 추적되었습니다. 체포 당시 그는 경찰관들을 자신의 집으로 안내했고, 그곳에서 훔친 금이 짚으로 가려진 강철 기둥 안에 숨겨져 있는 것을 발견했습니다. 도주에 사용된 그의 오토바이도 인근 수역에 버려진 후 회수되었습니다. 경찰은 앞서 체포로 이어지는 정보에 대해 10만 바트의 보상금을 제공했습니다. 놉카오 소마나스 지방 경찰청 부청장은 일요일 정오 이전에 범죄 재연이 실시될 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 범죄 발생 소식은 인지하는 것이 좋다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "콘캔",
+        "price": "190만 바트",
+        "location_google_map_query": "콘캔 금은방"
+      },
+      "references": [
+        {
+          "title": "Police nab suspect in 1.9m-baht gold robbery",
+          "url": "https://www.bangkokpost.com/thailand/general/3202375/police-nab-suspect-in-19mbaht-gold-robbery",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202375_260221201738_700.jpg"
+        }
+      ],
+      "collected_at": "21:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202375_260221201738_700.jpg",
       "date": "2026-02-21"
     }
   ]
