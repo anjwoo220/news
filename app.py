@@ -4587,12 +4587,40 @@ else:
 
     # --- Status Dashboard (Mobile-First: 4 columns on PC, 2x2 grid on Mobile) ---
     # Get weather data (Bangkok)
+    @st.cache_data(ttl=1800)
     def get_weather_data():
-        """Fetch weather from OpenWeatherMap or fallback"""
+        """Fetch weather from Open-Meteo for Bangkok"""
         try:
-            # Use a simple approach for now
-            return {"temp": 32, "desc": "맑음", "icon": "☀️"}  # Default sunny
-        except:
+            import requests
+            url = "https://api.open-meteo.com/v1/forecast?latitude=13.7563&longitude=100.5018&current_weather=true"
+            response = requests.get(url, timeout=5)
+            response.raise_for_status()
+            data = response.json()
+            current = data.get("current_weather", {})
+            temp = current.get("temperature", 32)
+            code = current.get("weathercode", 0)
+            
+            if code == 0:
+                icon, desc = "☀️", "맑음"
+            elif code in [1, 2]:
+                icon, desc = "🌤️", "구름조금"
+            elif code == 3:
+                icon, desc = "☁️", "흐림"
+            elif code in [45, 48]:
+                icon, desc = "🌫️", "안개"
+            elif code in [51, 53, 55, 56, 57]:
+                icon, desc = "🌧️", "이슬비"
+            elif code in [61, 63, 65, 66, 67]:
+                icon, desc = "🌧️", "비"
+            elif code in [80, 81, 82]:
+                icon, desc = "🌦️", "소나기"
+            elif code in [95, 96, 99]:
+                icon, desc = "⛈️", "뇌우"
+            else:
+                icon, desc = "🌡️", "알수없음"
+                
+            return {"temp": round(temp), "desc": desc, "icon": icon}
+        except Exception:
             return {"temp": "--", "desc": "로딩중", "icon": "🌡️"}
     
     # Cache exchange rate
