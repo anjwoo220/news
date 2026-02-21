@@ -28386,6 +28386,54 @@
       "date": "2026-02-21",
       "link": "https://www.bangkokpost.com/business/general/3202365/little-reprieve-for-thailand-after-us-tariff-ruling",
       "source": ""
+    },
+    {
+      "title": "파타야 해변 노숙자 문제 심각, 관광객 충격 및 법 집행 강화 요구",
+      "summary": "- 파타야 해변에서 노숙자의 부적절한 행동이 관광객들에게 충격을 주고 있습니다.\n- 주민들은 강력한 법 집행을 요구하고 있습니다.\n- 노숙자 문제 해결을 위한 실질적인 대책 마련이 시급합니다.",
+      "full_translated": "파타야 해변에서 노숙자의 부적절한 행동이 관광객들에게 충격을 주면서 보다 엄격한 법 집행을 요구하는 목소리가 높아지고 있습니다. 관광객들은 파타야 해변의 이미지 훼손을 우려하며, 관련 당국의 적극적인 개입을 촉구하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야 해변의 치안 및 이미지에 영향을 미쳐 관광객에게 직간접적인 영향을 줄 수 있습니다. 법 집행 강화 요구는 잠재적 위험을 시사합니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Homeless Man’s Indecent Behavior on Pattaya Beach Shocks Tourists, Sparks Calls for Stricter Enforcement",
+          "url": "https://www.example.com",
+          "source": "Pattaya News"
+        }
+      ],
+      "collected_at": "21:21",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "송클라, 사이베리안 허스키 '몰리' 방화 살해 용의자 수색: 현상금 87,000 바트(บาท)로 증가",
+      "summary": "- 송클라에서 사이베리안 허스키 '몰리'가 방화로 살해당한 사건 발생.\n- 경찰, 용의자 수색을 위해 관련 주택 수색 및 증거 수집 중.\n- 현상금이 87,000 바트(บาท)로 증가하며, 범인 검거에 박차.",
+      "full_translated": "송클라에서 발생한 사이베리안 허스키 '몰리' 방화 살해 사건과 관련하여 경찰이 용의자를 추적하고 있습니다. 경찰은 5개 부대를 동원하여 현장 수색을 진행하고 있으며, 용의자 거주지로 의심되는 주택을 수색하여 증거를 수집하고 있습니다. 현재 현상금은 8만 7천 밧으로 증가했습니다. 이 사건은 많은 동물 애호가들에게 충격을 주었으며, '몰리'는 2살 된 암컷 사이베리안 허스키로, 누군가에 의해 기름이 뿌려지고 불에 타 심각한 부상을 입었습니다. 안타깝게도 몰리는 결국 조용히 숨을 거두었고, 주인과 네티즌들의 애도가 이어지고 있습니다. 경찰은 주택에서 기름 흔적과 기름통을 발견했으며, DNA 샘플을 수집하여 분석을 의뢰했습니다. 또한, 주변 주민들을 상대로 탐문 수사를 진행했지만, 아직까지 범행을 자백하는 사람은 나오지 않았습니다. 경찰은 모든 가용한 자원을 동원하여 범인 검거에 총력을 기울이고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물 학대 사건이지만, 현상금 증가 및 수사 진행 상황 업데이트는 여행객들에게 간접적인 안전 관련 정보를 제공할 수 있다고 판단.",
+      "event_info": {
+        "date": "2024-02-21",
+        "location": "สงขลา",
+        "price": "87,000 바트 (현상금)",
+        "location_google_map_query": "สงขลา"
+      },
+      "references": [
+        {
+          "title": "ค้นบ้านต้องสงสัยเผาฆ่า “น้องมอลลี่” สุนัขพันธุ์ไซบีเรียน รางวัลนำจับพุ่ง 87,000 บาท",
+          "url": "https://www.thairath.co.th/news/crime/2915652",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ap9qYfhHnWJut.jpg"
+        }
+      ],
+      "collected_at": "21:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ap9qYfhHnWJut.jpg",
+      "date": "2026-02-21"
     }
   ]
 }
