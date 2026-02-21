@@ -28894,14 +28894,9 @@
       "summary": "- 태국이 주요 공항 업그레이드를 위해 2026년 6월부터 국제선 여객 서비스 요금을 53% 인상한다.\n- 이는 공항 시설 개선 및 운영 비용 증가에 따른 조치이다.\n- 여행객들은 항공권 구매 시 인상된 요금을 고려해야 한다.",
       "full_translated": "태국은 주요 공항 업그레이드를 지원하기 위해 2026년 6월부터 국제선 여객 서비스 요금을 53% 인상할 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항 이용료 인상은 여행 비용에 직접적인 영향을 미치므로 여행객에게 중요한 정보이다. 인상 시기가 2026년으로 다소 멀었지만, 미리 인지하고 여행 계획에 반영할 수 있도록 한다.",
-      "event_info": {
-        "date": "2026-06-01",
-        "location": "태국 주요 공항",
-        "price": "53% 인상",
-        "location_google_map_query": "태국 주요 공항"
-      },
+      "event_info": "{'date': '2026-06-01', 'location': '태국 주요 공항', 'price': '53% 인상', 'location_google_map_query': '태국 주요 공항'}",
       "references": [
         {
           "title": "International Passenger Service Charges in Thailand to Be Raised by Fifty-Three Percent from June Two Thousand Twenty-Six to Support Major Airport Upgrades - Travel And Tour World",
@@ -28910,23 +28905,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:58",
+      "collected_at": "1:58",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNNHc1TWU2R1p0cG94OFlySl96RzNYM0NzZkNrejg0TERNWkp3aDdGeDVnTDg5QTdMbnhDWWJxeFZsTGxuYkxoRjkwU1hrRWU2Z08wa2d1QW1tMUw0dFNYRF9YNmpRU2dQc0x2VExPRjhxdjJsLVVFUWJvZUZGSWJCN0lPUlhmdkVfOWZ3OFRHOHlhbFowZ2oxQi1pNGRJa3NzMTFvc0stVXc1bHZtd0c2YWw2Y20wTjROQTUtSlBQWXlETkpNVE50SDVldlctRzBhZHdEZUVfLXlsbjlnczRSdzJrZ0tlUGR6VndMcTFPS2xmVlQ5NGFjNmZGR0JCR3VZZ3FPZElybTV2Q0YwZkJaVzFYOUFjYlMyeHNyZDE3MFhVcVNzX1Q0ZlNMVHc?oc=5",
+      "source": ""
     },
     {
       "title": "태국 공항 이용료 인상",
       "summary": "- 태국 공항 이용료가 인상될 예정입니다.\n- 정확한 인상 시기와 인상폭은 아직 미정입니다.\n- 여행객들은 추가 비용 발생에 대비해야 합니다.",
       "full_translated": "태국 공항 이용료 인상&nbsp;&nbsp;Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항 이용료 인상은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 다만, 아직 구체적인 정보가 부족하여 7점으로 설정합니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국 공항",
-        "price": "미정",
-        "location_google_map_query": "태국 공항"
-      },
+      "event_info": "{'date': None, 'location': '태국 공항', 'price': '미정', 'location_google_map_query': '태국 공항'}",
       "references": [
         {
           "title": "Thailand airport fee hike - Travel And Tour World",
@@ -28935,23 +28927,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:58",
+      "collected_at": "1:58",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdUaXJpbHFxQTk2SHFIb2pxTkw2WVo0Z3hUdzhhZDM2eVpmZ2pNOVFDYWNzQzY4V3hpbTBnVlQyWllJaEFDUHlrelhMSlhmM0Z0SktaV241a2JlVnMyQlRRMzkybTlnYWNpLXhTRE42Y0l1bk5OX2hVSkV5ODNoYlN1Yzk?oc=5",
+      "source": ""
     },
     {
       "title": "베트남 관광 붐에 태국도 합류: 2026년 새해 첫 3일간 급증",
       "summary": "- 태국이 한국, 중국, 홍콩, 말레이시아 등과 함께 베트남 관광 붐을 주도.\n- 2026년 새해 첫 3일간 관광객 급증.\n- 베트남 관광 시장의 성장 가능성 확인.",
       "full_translated": "Travel And Tour World에 따르면, 태국은 한국, 중국, 홍콩, 말레이시아 등과 함께 베트남의 관광 붐을 일으키고 있습니다. 2026년 새해 첫 3일 동안 관광객이 급증했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행객들이 베트남으로 이동할 가능성을 시사하며, 여행 트렌드 변화에 대한 정보 제공.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "베트남",
-        "price": "정보 없음",
-        "location_google_map_query": "베트남"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '베트남', 'price': '정보 없음', 'location_google_map_query': '베트남'}",
       "references": [
         {
           "title": "Thailand Joins South Korea, China, Hong Kong, Malaysia and Others in Asia Propelling Tourism Boom Across Vietnam with a Surge in Tourist Arrival within First Three Days of New Year 2026: All You Need to Know - Travel And Tour World",
@@ -28960,23 +28949,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:58",
+      "collected_at": "1:58",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQV0plLThFNldGZE1OV2hHbGV3U3ZUem94UnZVWkhsOW9XcXhqNEFsQzBQQ3Q4OFNSbFA1WldtSXkyN1UxZFRpUVJ3WXdJUjl0Q2s5bHNrM2pnbGdxRmdJU1BMMkRWM1RmOTF3ejRCSkJZUFVZWld6MFhLa2JzTURjWjJ2WVluMHJteTZUTWlZem5BR2YxR1NaZHRBUWRZWFlRN2gzTUsteDdISDRicl9wOFU4ZnEweXRFSnNpaHNIUks4UFhUakJYWVpTT3VVQ1RHa0lhdm10Z0tnblUzTXVTYUduUjNIQ1R3bi1BWjBVM3JCeDFPbWRiX2FlRmR6b210WFBha0tFR3NWQk9Zc0ljVWliVjlqSEVFdjZ1T2UySDBVcWxZYVlIVTNSZHhkcV9TUnZJWUJaWlNMZVlXN2ZmdU5KOFNrNjRWR0xWcFBlWTBoSGttaGlhSkZVYUdfVTBfc3c?oc=5",
+      "source": ""
     },
     {
       "title": "중국 아웃바운드 관광 2026: 태국 해변, 러시아 겨울, 호주 어드벤처가 춘절 여행 버킷리스트 상위권 - Travel And Tour World",
       "summary": "- 중국 관광객들이 2026년 춘절에 태국 해변, 러시아 겨울, 호주 어드벤처를 선호하는 것으로 나타남.\n- 이는 중국 아웃바운드 관광 시장의 변화를 보여주는 중요한 지표.\n- 태국 관광 산업은 중국 관광객 유치를 위한 마케팅 전략을 강화해야 할 것.",
       "full_translated": "중국 아웃바운드 관광 2026: 태국의 해변, 러시아의 겨울, 호주의 모험이 춘절 버킷 리스트의 상위권을 차지합니다 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국인 관광객의 선호도 변화는 태국 관광 시장에 영향을 미칠 수 있으므로 관련 정보 업데이트 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chinese Outbound Tourism 2026: Thailand’s Beaches, Russian Winters and Australian Adventures Top Lunar New Year Bucket Lists - Travel And Tour World",
@@ -28985,23 +28971,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:58",
+      "collected_at": "1:58",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGVGMlFPcV9MLVRMcG5lQm9EUXlpb1UzT0dkQWFpcEFTOU1ER3RneVBVVmNmSDlaVHhYM1pyN21NaXZKTnNSTk9NeEZoenViMmZWdHlKclljVWJlMHAyclY4elZBNG5kRU5lV0xZRDdpSnZQcVFSRnpONldMa3dhMXJzNW5tWjlhT3JuY29NZ2hkLXZqTjZHR3NhZHlvY2JfVVJoYWJFc21mRWc2NU1pbWRyYjd3WDZaQUFvZkdBakxjcm9OVVNRVVhta250bGJXbkIxQUdTTmJaQ2hvZnRnM3JlLUhyREJKRnIwc1pJaV9sSEZrNzVYYXBUcERRa0k?oc=5",
+      "source": ""
     },
     {
       "title": "Flydubai, 방콕 돈므앙 공항 매일 운항으로 태국행 주간 항공편 증편",
       "summary": "- Flydubai가 방콕 돈므앙 공항으로 매일 운항하는 서비스를 통해 태국행 주간 항공편을 늘립니다.\n- 이번 증편은 태국 여행객들에게 더 많은 선택지를 제공합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "Flydubai가 방콕, 태국행 주간 항공편을 늘립니다. 돈므앙 공항으로 매일 운항하는 서비스에 대한 모든 정보 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "항공편 증편은 여행객의 편의성을 높이는 요소이며, 돈므앙 공항 이용객에게 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 돈므앙 공항",
-        "price": null,
-        "location_google_map_query": "방콕 돈므앙 공항"
-      },
+      "event_info": "{'date': None, 'location': '방콕 돈므앙 공항', 'price': None, 'location_google_map_query': '방콕 돈므앙 공항'}",
       "references": [
         {
           "title": "Flydubai Increases Weekly Flights to Bangkok, Thailand with Daily Service to Don Mueang Airport: Everything You Need to Know - Travel And Tour World",
@@ -29010,7 +28993,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:58",
+      "collected_at": "1:58",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbkpoRHRibm5jZ1o1TXlFSWVFRER0U28wLVFSWG9Gb2J3MTJoX3U5SXBOVUpBbmRIM1RpRmJoQXJIXzZiN19YZnhVaU1IZnpWUTV4NTJFaTdhM01xdUhTdkM5TlJHWTBqX2JZcUxSSTBsQmtuNm55NzRrZWdBQU1RUkVpM1ZyMzBQUFFfR3lyV2s5QnhpZVlCM0RRazFzbUZaUERkQTRzUUdrVXB2djYweF9sUHZZYXZySTdTQUNURk83Z1EwcjhqcWFhek4xMm1FcUVQWmoyS2N3WXpDMW9YbE8zdm5wZHdBUmx5MFZZWmZ5RjE3U256cXJDZFZjQkEw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "바이칼 호수 미니버스 침몰 사고, 중국인 관광객 8명 사망",
+      "summary": "- 러시아 바이칼 호수에서 중국인 관광객을 태운 미니버스가 침몰해 8명이 사망했습니다.\n- 사고는 미니버스가 얼음판을 뚫고 호수에 빠지면서 발생했습니다.\n- 러시아 당국은 사고 원인을 조사 중이며, 관광객들에게 안전에 유의할 것을 당부했습니다.",
+      "full_translated": "러시아 당국은 지난 금요일 시베리아 바이칼 호수에 추락한 중국인 관광객을 태운 미니버스 사고로 사망한 사람들의 시신을 수습했다고 발표하고, 이 비극의 원인을 조사하고 있습니다. 2069년 2월 21일 토요일, 러시아 당국은 잠수부들이 금요일 미니버스가 얼음판을 뚫고 호수 바닥으로 가라앉은 후 시베리아 바이칼 호수에서 중국인 관광객 7명과 러시아인 운전기사 1명으로 구성된 사망자 8명의 시신을 수습했다고 밝혔습니다. 이고르 코브제프 이르쿠츠크 주지사는 \"희생자 가족과 친구들에게 깊은 애도를 표합니다\"라고 말했습니다. 그는 앞서 중국인 관광객 1명이 차량에서 탈출했다고 밝혔습니다. 바이칼 호수는 인기 있는 관광지이며, 최대 깊이가 1,642m인 세계에서 가장 깊은 호수입니다. 시베리아의 혹독한 겨울 동안 호수 표면은 종종 얼어붙고, 지난 몇 년 동안 여러 차례 치명적인 사고가 발생했습니다. 코브제프는 텔레그램 앱에 올린 메시지를 통해 버스가 금요일 3m 너비의 얼음 균열에 빠져 18m 깊이로 가라앉았다고 밝혔습니다. 이로 인해 잠수부들은 수색 작업에 수중 카메라를 사용해야 했습니다. 코브제프는 \"바이칼 호수의 얼음 위로 나가는 것은 금지되어 있을 뿐만 아니라 생명을 위협하는 행위라는 점을 다시 한번 상기시켜 드립니다.\"라며 관광객들에게 공식 허가를 받은 여행사만 이용할 것을 촉구했습니다. 그는 또한 관광객이...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "해외에서 발생한 사고 소식으로, 여행객 안전에 대한 경각심을 일깨우고 주의를 환기할 필요가 있습니다. 태국 관련 뉴스는 아니지만, 해외여행 안전 관련 정보로서 의미가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "바이칼 호수, 러시아",
+        "price": null,
+        "location_google_map_query": "바이칼 호수"
+      },
+      "references": [
+        {
+          "title": "รัสเซียพบแล้ว 8 ศพ มินิบัสนักท่องเที่ยวจีน จมก้นทะเลสาบไบคาล",
+          "url": "https://www.thairath.co.th/news/foreign/2915671",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqS7ExQcwKRT.jpg"
+        }
+      ],
+      "collected_at": "02:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqS7ExQcwKRT.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야, 하루 외국인 입국자 13만 명 기록하며 활기: 태국, '고품질 관광' 추진으로 신뢰 구축",
+      "summary": "- 파타야는 하루 외국인 입국자 수가 13만 명에 달하며 활기를 띠고 있음.\n- 태국은 '고품질 관광'을 추진하여 관광 산업에 대한 신뢰를 구축하고자 함.\n- 자세한 내용은 Pattaya Mail에서 확인할 수 있음.",
+      "full_translated": "파타야는 하루 외국인 입국자 수가 13만 명에 달하며 활기를 띠고 있으며, 태국은 '고품질 관광'을 추진하여 신뢰를 구축하고 있습니다. Pattaya Mail에서 더 많은 정보를 얻으십시오.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야의 관광 현황 업데이트 및 태국 정부의 관광 정책 방향을 제시하므로 여행자에게 어느 정도 유용하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya bustles as foreign arrivals hit 130,000 a day, Thailand pushes ‘Quality Tourism’ to build confidence - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcjNGVWMtTVl4ZVpSZVdkWEJzZ3FYcEhKLWJaTjdCWFdYb29VWXpkQVAwUWlQbUJFRVRxME1aakcxcXRoWXJVSEFQQXNqM1JwYmtNYmg4U2lJcnIyOW9QZjgzRm55RkhoRHpiM1pxOURMYTI3Zkx2YXlMdEh4SUVOcjVUOGZQTkFFeUZ0RmFYSU96N3BqbnMteVpJNlg4dVU3aWV1cUhRN2RfRUpXMHBrbDZQSlpfRW1DYmp1R01WVjRoZ2wzQjJ2Rl9rSkpRMEFzLVRkWVh1WWdJeDJm?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "싱가포르 마리나 베이, 디즈니 크루즈 라인과 협력하여 아시아 데뷔 기념 행사 개최 (태국, 말레이시아, 인도네시아, 베트남 시장 포함)",
+      "summary": "- 싱가포르 마리나 베이가 디즈니 어드벤처의 아시아 데뷔를 기념하는 특별한 해안가 축제를 개최합니다.\n- 이번 행사는 싱가포르뿐 아니라 태국, 말레이시아, 인도네시아, 베트남 시장을 대상으로 합니다.\n- 디즈니 크루즈 라인과의 협력을 통해 더욱 풍성한 볼거리를 제공할 예정입니다.",
+      "full_translated": "싱가포르 마리나 베이가 디즈니 어드벤처의 아시아 데뷔를 기념하기 위해 디즈니 크루즈 라인과 협력하여 화려한 해안가 축제를 개최합니다. 이번 행사는 싱가포르뿐만 아니라 태국, 말레이시아, 인도네시아, 베트남 시장을 대상으로 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "디즈니 관련 행사 정보는 가족 단위 여행객에게 흥미로운 요소이며, 태국 시장도 포함되어 있어 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "싱가포르 마리나 베이",
+        "price": "미정",
+        "location_google_map_query": "싱가포르 마리나 베이"
+      },
+      "references": [
+        {
+          "title": "Singapore Marina Bay And Disney Cruise Line Unite For A Spectacular Waterfront Celebration Ahead Of Disney Adventure’s Asia Debut In Singapore, Thailand, Malaysia, Indonesia, And Vietnam Markets - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQTkhuQlZ3SGtfWXdTT09BQTZORllXTTJOWVNRRjVNdGJmS0RtdjlpU0UwTXhyRkE3WUQzMjM3ZVJpU0FBaU8xU2QyWWJNUXVvVFlRN0xtcDZ3ZDBIUkJQWHR2emh5UEZvdC1FU0xfMDhXU1ZEUERnbklBRl9sRjlTMW9aaVY3QmJ0blNCNGd5REk0R0ZmSGU0NlBBUW1YenBHYklBY0h0NDFMS3VKX2ktbkt5anNkd1llSDdIa0xEUHc3X19TM0dZdzhSTnpNX2Etal9Ja1JiLVhJcG4tQ2Z1aURXdVpRYTlVMDRrSVpvUGJsR3g0cWdXSUZaQk1rSFNkTVkzNlB4UDRlWk1ieXlMY0paZkNTRGpHdkJfc21WdWNTMWZPWXBvU01fWWpuMW9KQVZRWGI5VFY5amoyZ3AwZTI3SU9wN2lDT01hNWFjMkVjcFRwUXhz?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
