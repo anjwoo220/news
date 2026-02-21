@@ -28567,14 +28567,9 @@
       "summary": "- 태국은 2026년까지 관광 산업 발전을 목표로 비자 면제 정책을 시행하고 있습니다.\n- 파타야와 사무이에서는 관광객 증가와 함께 사회적 문제들이 발생하고 있습니다.\n- 지속 가능한 관광 개발 및 사회 문제 해결이 중요한 과제입니다.",
       "full_translated": "태국 관광 2026: 비자 면제 여행 성공과 파타야 & 사무이의 사회적 도전\n\n태국은 관광 산업 발전을 위해 2026년까지 비자 면제 정책을 적극적으로 추진하고 있습니다. 이 정책은 관광객 유치에 큰 성공을 거두고 있지만, 파타야와 사무이 같은 인기 지역에서는 사회적 문제들이 함께 발생하고 있습니다. 증가하는 관광객 수에 따른 환경 문제, 쓰레기 처리 문제, 교통 혼잡, 그리고 지역 주민들과의 문화적 충돌 등이 주요 과제로 떠오르고 있습니다. 태국 정부와 관련 기관은 지속 가능한 관광 개발을 위해 이러한 문제들을 해결하고, 관광 산업의 장기적인 성장과 지역 사회의 번영을 동시에 추구해야 할 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "비자 면제 정책과 관광지의 사회적 문제 관련 정보는 여행객에게 유용할 수 있으나, 즉각적인 안전 문제는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "파타야, 사무이",
-        "price": null,
-        "location_google_map_query": "Pattaya, Samui"
-      },
+      "event_info": "{'date': None, 'location': '파타야, 사무이', 'price': None, 'location_google_map_query': 'Pattaya, Samui'}",
       "references": [
         {
           "title": "Thailand Tourism 2026: Visa-Free Travel Success vs. Social Challenges in Pattaya & Samui - Travel And Tour World",
@@ -28585,21 +28580,18 @@
       ],
       "collected_at": "22:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaXlVcjVNWUkxWndSaTFnN1YzZ1Z2RW5vNERBVlQzazl4NHE1Nk9vOU9Eall5OG5Sd0tULVZEN3QzSTlna2IzcFd4VVpkWlI1TW83bG14by1TY1BlOGZJUWNxWDF2enRMTFlRNHBySGJsaTBlb0xwSWRyTnN4RDRnbk11VHo4dzBqS2pNal9HS1RKSEdUaG00T2NXN09UMDJ1Z1M4cmdrMWQ1TWt1RHlBX3BKZnRnTmRndVRveFU3SmYxZ3Nxd2ticVdQeTFBZw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 바이러스 확산으로 호랑이 왕국에서 수십 마리의 호랑이 폐사",
       "summary": "- 태국 호랑이 왕국에서 바이러스 감염으로 수십 마리의 호랑이가 폐사함.\n- 관광 명소의 동물 복지에 대한 우려가 제기됨.\n- 추가적인 정보는 제공되지 않음.",
       "full_translated": "The Independent에 따르면, 태국의 호랑이 왕국에서 바이러스가 확산되어 수십 마리의 호랑이가 폐사했습니다. 이는 태국 관광 명소의 동물 복지에 대한 심각한 문제를 야기합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "동물원 및 관광 시설의 동물 복지 문제는 여행 경험에 영향을 미칠 수 있으며, 특정 시설 방문에 대한 고려가 필요할 수 있음. 전염병 확산에 대한 안전 문제도 간접적인 영향을 미침.",
-      "event_info": {
-        "date": null,
-        "location": "Tiger Kingdom, Thailand",
-        "price": null,
-        "location_google_map_query": "Tiger Kingdom Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Tiger Kingdom, Thailand', 'price': None, 'location_google_map_query': 'Tiger Kingdom Thailand'}",
       "references": [
         {
           "title": "Tiger Kingdom deaths: Dozens of tigers die as virus hits Thai tourist attractions - The Independent",
@@ -28610,21 +28602,18 @@
       ],
       "collected_at": "22:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWFTcTlKalFpSldFZFJnY0NzQ1V5QzBrQVl4bXVmNHdnUEQySXdIOUhYbjloU1cxcmJlNzZmb2FtaW9nM21Nc0M2cXJZczhiNlNTM0JIeTRQY0RsNlBjRmw0NXg3YWs0Wm9mSGlpb3pUTnBCdDVqemV2SllILXN0dUp0RFJHbzdvRzIzRlo0VWM?oc=5",
+      "source": ""
     },
     {
       "title": "태국 총리, 정부 구성 협상 '아직'…총선 무효표 논란은 선관위 소관",
       "summary": "- 태국 총리는 정부 구성 협상이 아직 시작되지 않았다고 밝힘.\n- 민주당 배제 가능성은 일축하며 상황이 안정되기를 기다리겠다고 언급.\n- 총선 무효표 문제는 선거관리위원회의 책임이라고 강조.",
       "full_translated": "2069년 2월 21일, 페차부리에서 아누틴 차른비라쿨 태국 총리 겸 내무부 장관은 정부 구성에 관한 질문에 다음과 같이 답했습니다. 300석 확보 뉴스와 관련하여 그는 '아직 협상이 시작조차 되지 않았다'고 언급했습니다. 상황이 안정된 후 곧바로 발표할 것이며, 민주당을 배제하지 않을 것이라고 덧붙였습니다. 총선 무효표 문제는 선거관리위원회의 소관이며, 선관위는 순수한 의도로 업무를 수행할 것이라고 믿는다고 밝혔습니다. 또한, 선거 결과가 한 달 이내에 확정되는 경우는 드물며, 법적으로 최대 두 달까지 소요될 수 있다고 언급했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황에 대한 업데이트. 여행 자체에 직접적인 영향은 적으나, 정치적 불안정성은 여행 심리에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“อนุทิน” ยันยังไม่ปิดดีลตั้งรัฐบาล ไม่ปิดกั้นปชป. เลือกตั้งโมฆะเป็นหน้าที่ กกต.",
@@ -28635,6 +28624,33 @@
       ],
       "collected_at": "22:46",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Aqdx5r5YcQ7jJ.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/politic/2915665",
+      "source": ""
+    },
+    {
+      "title": "태국, 얼굴 인식 시스템으로 공항 혁신 추진",
+      "summary": "- 태국이 미국, 영국, 인도, 방글라데시와 함께 새로운 얼굴 인식 시스템을 도입하여 항공 여행에 혁신을 가져올 예정입니다.\n- DigiYatra는 태국 공항의 운영 방식을 획기적으로 변화시킬 것으로 기대됩니다.\n- 이 시스템은 보안 강화 및 여행객 편의성 증진을 목표로 합니다.",
+      "full_translated": "미국, 영국, 인도, 방글라데시, 그리고 태국의 새로운 얼굴 인식 시스템이 항공 여행에 혁신을 일으키고 있습니다! DigiYatra가 모든 것을 어떻게 바꿀 것인지 알아보세요!\n\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 이용 절차 간소화 및 보안 강화에 대한 정보는 여행객에게 유용하며, 새로운 시스템 도입은 여행 경험에 영향을 줄 수 있음",
+      "event_info": {
+        "date": null,
+        "location": "태국 공항",
+        "price": null,
+        "location_google_map_query": "태국 공항"
+      },
+      "references": [
+        {
+          "title": "USA, UK, India, Bangladesh, and Thailand’s New Facial Recognition System Is Revolutionising Air Travel, Here’s How DigiYatra Will Change Everything! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaEZpMEltYktpWExBbDJHNU5IUVRWNFkzSXd2Qjl2YkJoYktCV3A2TGNxakduTC1WNmktUV9rUHVVMXFuUktVQVpXd2toZWJRQWZyUm1YOTFPYVRmZ3A1aFZEMG85V0tZUzVKTW5HV2dYU1FmQktpZ1NnY2g3cklaYno4bjJ5UUxOMXZQcmlwS0k4MEltT0FIUXR4eV84cXo1WDlrQ04zYmNWUmFxOUN1c3V6SWZxTmJCS0ctdDlwdm1zN3dBY2Nmc0xhU3JkZ3NXSTltd1FOcFpBZi1qZ3l5ZmpSS3lOd0EzVHJTMjc3ajFOWlVmNG1oY25SYVh6T0VCMHc2QUpiMmtXMkZiTUcxWUdoUWVPX1RF?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-21"
     }
   ]
