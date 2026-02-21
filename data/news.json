@@ -28828,14 +28828,9 @@
       "summary": "- 태국에서 온라인 리뷰 작성 시 형사 명예훼손법에 따라 외국인이 위험에 처할 수 있음.\n- 부적절한 리뷰는 안전과 평판에 영향을 미칠 수 있으므로 주의해야 함.\n- 관련 법률 및 위험 요소를 숙지하여 불이익을 예방하는 것이 중요.",
       "full_translated": "태국은 형사 명예훼손법으로 인해 외국인이 온라인 리뷰를 게시할 때 법적 위험에 처할 수 있습니다. 외국인 거주자는 온라인에서 의견을 공유할 때 주의해야 하며, 자신의 발언이 미칠 수 있는 잠재적인 영향을 이해해야 합니다. 이러한 법률에 대한 인식 부족은 예기치 않은 법적 문제로 이어질 수 있습니다. 외국인들은 의견을 표현할 때 자신의 권리와 책임을 이해하기 위해 법적 자문을 구하는 것이 좋습니다. 태국에서 온라인에 리뷰를 게시할 때는 신중하고 정보를 충분히 숙지하는 것이 중요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "온라인 리뷰 관련 법적 위험을 경고하여 여행자에게 잠재적 위험을 알림. 여행 중 발생할 수 있는 문제에 대한 인식을 높임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Legal Risks Put Expats in Danger When Posting Online Reviews as Criminal Defamation Laws Could Impact Their Safety and Reputation – All You Need to Know - Travel And Tour World",
@@ -28844,23 +28839,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:22",
+      "collected_at": "1:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRlEzT3pmdHVCc29hUmNPcGh3Q3pzdFh1V2ZuN09IZ3BZUE9hc2lnUWtWRzRVYTVra1BPclgxZGtRUG1kellnMFVQaGthVi1Va2lhZFlWQ2Z1bkJSWk5MX0ZCOWctWmhkVEt1Y3MyQlY0bUx0QlhELWZVMnJKZjQwMUNRUHVTWExiRlNOdG5NSlg1TnlXNUZQaFdkUGdFZGd6cTZ0MVdPTVFWWGVQdWFlYUROWXFjR2ptWkJ4cUdrc0RkdXVKcjBWaFI3VTNOX29GeXBpMU9oVDJBVG0zQjZKWTAtMDdFMVJOSjB6QzVaUFotQzFzNF9SOC1Nc09pYzE2cU84SmFVd0Vid0dacjBRWW94QTFkT2tTMEN3azdsSkJNb3MzOC1WTXA1RG9RZFdqSEE?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 디지털 노마드 비자 발급으로 말레이시아, 필리핀, 인도네시아, 베트남을 제치고 관광객 유치 선두",
       "summary": "- 태국이 디지털 노마드 비자 도입으로 관광객 유치 경쟁에서 우위를 점하고 있습니다.\n- 2026년까지 태국으로 이주하려는 디지털 노마드를 위한 정보 제공을 목표로 합니다.\n- 폭발적인 혜택을 누릴 수 있는 기회에 대한 관심이 높아지고 있습니다.",
       "full_translated": "태국이 디지털 노마드 비자를 통해 말레이시아, 필리핀, 인도네시아, 베트남을 제치고 관광객 유치 경쟁에서 선두를 달리고 있습니다. 2026년에 이주하려는 사람들을 위한 정보도 제공합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "디지털 노마드 비자 관련 정보는 여행 및 장기 체류에 영향을 미치므로 여행객에게 유용합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Overtakes Malaysia, Philippines, Indonesia and Vietnam with Tourists Heading with Digital Nomad Visa as Travel Boom Makes Clear of Explosive Benefits: What You Need to Know If You Want to Move in 2026 - Travel And Tour World",
@@ -28869,23 +28861,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:22",
+      "collected_at": "1:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaER4S2xUdEtwek9fREZKdmV3c2k3Zms3VVdyVG45eTFFYms4LURzSm5GSFJ1ajlkY1pIT2VHQ2lULTh6THRDQkRuNEYtdEVzT1U5TE1NV0hfcVIzdU9Ub3kzcXRrLWR6aVhsNzdOaEFQcFB1ZEJhRkdkWXF6QUllNHN4ODdFMzVqRmxLMVVrSDNvTGFyN1FtbU5fTE9kendJWF9xa3V3cFZWYzR1bjFfRG51aE8tUWJxaW1iOGJkcE5jd0Y5YzNPSjVVVE40Uld2TkVxOFVvN1BkaHE5Z01NeFVzWnZZbTJnb1hYS09veVNISFZKLURuTVp6YWQxV29GOWFhRFdzekhRNXNOeHZmZGJlRFpKNV9fcmhCU0tXUVF2Q0tmc1NCd1UybjRkcGdyZEFha0g4ektRRVhiM3h4RWRqU1pFcjJXZ2xyVzZzdHQ5WFBtaF9oQThuZi1xa1I4UGtPWg?oc=5",
+      "source": ""
     },
     {
       "title": "탐마낫, 정부 구성 소식 속에서 핀란드에서 아내, 자녀와 함께 여유로운 휴가",
       "summary": "- 탐마낫 부총리는 핀란드에서 가족과 함께 휴가를 보내고 있습니다.\n- 그의 아내는 핀란드에서 찍은 사진과 영상을 SNS에 게시했습니다.\n- 그는 2월 25일에 태국으로 돌아와 업무에 복귀할 예정입니다.",
       "full_translated": "탐마낫 부총리는 그의 아내 줍찝 타나폰 스리위랏과 자녀들과 함께 핀란드에서 휴가를 보내며 눈밭을 걷고 오로라를 구경하고 있습니다. 이는 끌라탐당 없이 정부를 구성한다는 소식이 전해지는 가운데 이루어졌습니다. 2069년 2월 21일, 탐마낫 프롬파오 부총리 겸 농업협동조합 장관이자 끌라탐당의 고문으로서 최근 그의 아내인 타나폰 스리위랏 또는 줍찝은 핀란드에서 휴가를 보내는 동안 찍은 사진과 비디오를 인스타그램 스토리를 통해 게시했습니다. 탐마낫 부총리는 오렌지색과 검은색 스노우 슈트를 입고 아내와 아들과 함께 눈밭을 걷고 집 앞에서 눈을 치우는 모습이 담겨 있습니다. 이전에는 탐마낫 부총리가 언론에 가족과 함께 오로라를 보러 휴가를 갈 것이라고 말했습니다. 한편, 품차이타이당이 끌라탐당 없이 300석으로 정부 구성을 완료했다는 소식이 있습니다. 보고서에 따르면 탐마낫 부총리는 2월 25일에 태국으로 돌아와 농업협동조합부에서 즉시 업무를 시작할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 소식이지만 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "핀란드",
-        "price": null,
-        "location_google_map_query": "Finland"
-      },
+      "event_info": "{'date': None, 'location': '핀란드', 'price': None, 'location_google_map_query': 'Finland'}",
       "references": [
         {
           "title": "“ธรรมนัส” ยังชิล พา “จุ๊บจิ๊บ-ลูก” เล่นหิมะที่ฟินแลนด์ ท่ามกลางข่าวตั้งรัฐบาลไร้กล้าธรรม",
@@ -28894,8 +28883,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqANauSXl7S2H.jpg"
         }
       ],
-      "collected_at": "01:22",
+      "collected_at": "1:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqANauSXl7S2H.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/politic/2915654",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 6월부터 국제선 여객 서비스 요금 53% 인상",
+      "summary": "- 태국이 주요 공항 업그레이드를 위해 2026년 6월부터 국제선 여객 서비스 요금을 53% 인상한다.\n- 이는 공항 시설 개선 및 운영 비용 증가에 따른 조치이다.\n- 여행객들은 항공권 구매 시 인상된 요금을 고려해야 한다.",
+      "full_translated": "태국은 주요 공항 업그레이드를 지원하기 위해 2026년 6월부터 국제선 여객 서비스 요금을 53% 인상할 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 이용료 인상은 여행 비용에 직접적인 영향을 미치므로 여행객에게 중요한 정보이다. 인상 시기가 2026년으로 다소 멀었지만, 미리 인지하고 여행 계획에 반영할 수 있도록 한다.",
+      "event_info": {
+        "date": "2026-06-01",
+        "location": "태국 주요 공항",
+        "price": "53% 인상",
+        "location_google_map_query": "태국 주요 공항"
+      },
+      "references": [
+        {
+          "title": "International Passenger Service Charges in Thailand to Be Raised by Fifty-Three Percent from June Two Thousand Twenty-Six to Support Major Airport Upgrades - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNNHc1TWU2R1p0cG94OFlySl96RzNYM0NzZkNrejg0TERNWkp3aDdGeDVnTDg5QTdMbnhDWWJxeFZsTGxuYkxoRjkwU1hrRWU2Z08wa2d1QW1tMUw0dFNYRF9YNmpRU2dQc0x2VExPRjhxdjJsLVVFUWJvZUZGSWJCN0lPUlhmdkVfOWZ3OFRHOHlhbFowZ2oxQi1pNGRJa3NzMTFvc0stVXc1bHZtd0c2YWw2Y20wTjROQTUtSlBQWXlETkpNVE50SDVldlctRzBhZHdEZUVfLXlsbjlnczRSdzJrZ0tlUGR6VndMcTFPS2xmVlQ5NGFjNmZGR0JCR3VZZ3FPZElybTV2Q0YwZkJaVzFYOUFjYlMyeHNyZDE3MFhVcVNzX1Q0ZlNMVHc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:58",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 공항 이용료 인상",
+      "summary": "- 태국 공항 이용료가 인상될 예정입니다.\n- 정확한 인상 시기와 인상폭은 아직 미정입니다.\n- 여행객들은 추가 비용 발생에 대비해야 합니다.",
+      "full_translated": "태국 공항 이용료 인상&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 이용료 인상은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 다만, 아직 구체적인 정보가 부족하여 7점으로 설정합니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 공항",
+        "price": "미정",
+        "location_google_map_query": "태국 공항"
+      },
+      "references": [
+        {
+          "title": "Thailand airport fee hike - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMWdUaXJpbHFxQTk2SHFIb2pxTkw2WVo0Z3hUdzhhZDM2eVpmZ2pNOVFDYWNzQzY4V3hpbTBnVlQyWllJaEFDUHlrelhMSlhmM0Z0SktaV241a2JlVnMyQlRRMzkybTlnYWNpLXhTRE42Y0l1bk5OX2hVSkV5ODNoYlN1Yzk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:58",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "베트남 관광 붐에 태국도 합류: 2026년 새해 첫 3일간 급증",
+      "summary": "- 태국이 한국, 중국, 홍콩, 말레이시아 등과 함께 베트남 관광 붐을 주도.\n- 2026년 새해 첫 3일간 관광객 급증.\n- 베트남 관광 시장의 성장 가능성 확인.",
+      "full_translated": "Travel And Tour World에 따르면, 태국은 한국, 중국, 홍콩, 말레이시아 등과 함께 베트남의 관광 붐을 일으키고 있습니다. 2026년 새해 첫 3일 동안 관광객이 급증했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행객들이 베트남으로 이동할 가능성을 시사하며, 여행 트렌드 변화에 대한 정보 제공.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "베트남",
+        "price": "정보 없음",
+        "location_google_map_query": "베트남"
+      },
+      "references": [
+        {
+          "title": "Thailand Joins South Korea, China, Hong Kong, Malaysia and Others in Asia Propelling Tourism Boom Across Vietnam with a Surge in Tourist Arrival within First Three Days of New Year 2026: All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQV0plLThFNldGZE1OV2hHbGV3U3ZUem94UnZVWkhsOW9XcXhqNEFsQzBQQ3Q4OFNSbFA1WldtSXkyN1UxZFRpUVJ3WXdJUjl0Q2s5bHNrM2pnbGdxRmdJU1BMMkRWM1RmOTF3ejRCSkJZUFVZWld6MFhLa2JzTURjWjJ2WVluMHJteTZUTWlZem5BR2YxR1NaZHRBUWRZWFlRN2gzTUsteDdISDRicl9wOFU4ZnEweXRFSnNpaHNIUks4UFhUakJYWVpTT3VVQ1RHa0lhdm10Z0tnblUzTXVTYUduUjNIQ1R3bi1BWjBVM3JCeDFPbWRiX2FlRmR6b210WFBha0tFR3NWQk9Zc0ljVWliVjlqSEVFdjZ1T2UySDBVcWxZYVlIVTNSZHhkcV9TUnZJWUJaWlNMZVlXN2ZmdU5KOFNrNjRWR0xWcFBlWTBoSGttaGlhSkZVYUdfVTBfc3c?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:58",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "중국 아웃바운드 관광 2026: 태국 해변, 러시아 겨울, 호주 어드벤처가 춘절 여행 버킷리스트 상위권 - Travel And Tour World",
+      "summary": "- 중국 관광객들이 2026년 춘절에 태국 해변, 러시아 겨울, 호주 어드벤처를 선호하는 것으로 나타남.\n- 이는 중국 아웃바운드 관광 시장의 변화를 보여주는 중요한 지표.\n- 태국 관광 산업은 중국 관광객 유치를 위한 마케팅 전략을 강화해야 할 것.",
+      "full_translated": "중국 아웃바운드 관광 2026: 태국의 해변, 러시아의 겨울, 호주의 모험이 춘절 버킷 리스트의 상위권을 차지합니다 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "중국인 관광객의 선호도 변화는 태국 관광 시장에 영향을 미칠 수 있으므로 관련 정보 업데이트 차원에서 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese Outbound Tourism 2026: Thailand’s Beaches, Russian Winters and Australian Adventures Top Lunar New Year Bucket Lists - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNMGVGMlFPcV9MLVRMcG5lQm9EUXlpb1UzT0dkQWFpcEFTOU1ER3RneVBVVmNmSDlaVHhYM1pyN21NaXZKTnNSTk9NeEZoenViMmZWdHlKclljVWJlMHAyclY4elZBNG5kRU5lV0xZRDdpSnZQcVFSRnpONldMa3dhMXJzNW5tWjlhT3JuY29NZ2hkLXZqTjZHR3NhZHlvY2JfVVJoYWJFc21mRWc2NU1pbWRyYjd3WDZaQUFvZkdBakxjcm9OVVNRVVhta250bGJXbkIxQUdTTmJaQ2hvZnRnM3JlLUhyREJKRnIwc1pJaV9sSEZrNzVYYXBUcERRa0k?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:58",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "Flydubai, 방콕 돈므앙 공항 매일 운항으로 태국행 주간 항공편 증편",
+      "summary": "- Flydubai가 방콕 돈므앙 공항으로 매일 운항하는 서비스를 통해 태국행 주간 항공편을 늘립니다.\n- 이번 증편은 태국 여행객들에게 더 많은 선택지를 제공합니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "Flydubai가 방콕, 태국행 주간 항공편을 늘립니다. 돈므앙 공항으로 매일 운항하는 서비스에 대한 모든 정보 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "항공편 증편은 여행객의 편의성을 높이는 요소이며, 돈므앙 공항 이용객에게 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 돈므앙 공항",
+        "price": null,
+        "location_google_map_query": "방콕 돈므앙 공항"
+      },
+      "references": [
+        {
+          "title": "Flydubai Increases Weekly Flights to Bangkok, Thailand with Daily Service to Don Mueang Airport: Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNbkpoRHRibm5jZ1o1TXlFSWVFRER0U28wLVFSWG9Gb2J3MTJoX3U5SXBOVUpBbmRIM1RpRmJoQXJIXzZiN19YZnhVaU1IZnpWUTV4NTJFaTdhM01xdUhTdkM5TlJHWTBqX2JZcUxSSTBsQmtuNm55NzRrZWdBQU1RUkVpM1ZyMzBQUFFfR3lyV2s5QnhpZVlCM0RRazFzbUZaUERkQTRzUUdrVXB2djYweF9sUHZZYXZySTdTQUNURk83Z1EwcjhqcWFhek4xMm1FcUVQWmoyS2N3WXpDMW9YbE8zdm5wZHdBUmx5MFZZWmZ5RjE3U256cXJDZFZjQkEw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:58",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
   ]
