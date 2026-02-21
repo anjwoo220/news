@@ -28435,14 +28435,9 @@
       "summary": "- 콘캔 지역 금은방에서 발생한 190만 바트 상당의 금품 강도 사건 용의자 체포.\n- 용의자는 48세 남성 '캐'로, CCTV 분석 및 거주지 인근 고무 농장 감시를 통해 추적됨.\n- 훔친 금은 기둥 안에 숨겨져 있었으며, 도주에 사용된 오토바이도 회수.",
       "full_translated": "콘캔: 경찰은 므앙 지역 반툼에서 발생한 금은방 강도 사건의 용의자를 체포했습니다. 이 사건으로 약 190만 바트 상당의 26바트 무게의 금 목걸이가 지난 일요일에 도난당했습니다. 용의자는 '캐'(48세)로 확인되었으며, 수사관들이 CCTV 영상을 검토하고 반라오폰통에 있는 그의 거주지 근처 고무 농장에서의 움직임을 감시한 후 추적되었습니다. 체포 당시 그는 경찰관들을 자신의 집으로 안내했고, 그곳에서 훔친 금이 짚으로 가려진 강철 기둥 안에 숨겨져 있는 것을 발견했습니다. 도주에 사용된 그의 오토바이도 인근 수역에 버려진 후 회수되었습니다. 경찰은 앞서 체포로 이어지는 정보에 대해 10만 바트의 보상금을 제공했습니다. 놉카오 소마나스 지방 경찰청 부청장은 일요일 정오 이전에 범죄 재연이 실시될 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 범죄 발생 소식은 인지하는 것이 좋다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "콘캔",
-        "price": "190만 바트",
-        "location_google_map_query": "콘캔 금은방"
-      },
+      "event_info": "{'date': None, 'location': '콘캔', 'price': '190만 바트', 'location_google_map_query': '콘캔 금은방'}",
       "references": [
         {
           "title": "Police nab suspect in 1.9m-baht gold robbery",
@@ -28453,6 +28448,133 @@
       ],
       "collected_at": "21:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202375_260221201738_700.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/thailand/general/3202375/police-nab-suspect-in-19mbaht-gold-robbery",
+      "source": ""
+    },
+    {
+      "title": "치앙마이 호랑이 폐사, 질병 관련 – 인체 위험 없음",
+      "summary": "- 치앙마이 호랑이 왕국에서 호랑이들이 질병으로 폐사하여 일시 폐쇄됨.\n- 개 디스템퍼 바이러스(CDV)와 마이코플라스마 박테리아가 검출됨.\n- 해당 질병은 인체에 전염되지 않으며, 시설은 방역 후 재개장 예정.",
+      "full_translated": "치앙마이 – 치앙마이 지방 축산 사무소는 매림 지역의 치앙마이 호랑이 왕국에서 발생한 호랑이 폐사 관련 보고서를 명확히 했습니다. 그 원인은 질병이며 인간에게는 위험을 초래하지 않는다고 확인했습니다. 해당 시설은 이달 초 여러 마리의 호랑이가 병에 걸려 죽은 후 14일 동안 일시적으로 방문객에게 폐쇄되었습니다. 북부 수의학 연구 개발 센터의 검사 결과 인플루엔자 A 바이러스의 증거는 발견되지 않았습니다. 그러나 개 디스템퍼 바이러스(CDV)와 마이코플라스마 박테리아가 검출되었습니다. 당국은 두 병원체의 동시 감염이 사망의 원인일 가능성이 높다고 밝혔습니다. 이러한 질병은 야생 및 포획된 고양이에게 영향을 미칠 수 있으며 밀접한 접촉, 체액 또는 곤충 매개체를 통해 확산될 수 있습니다. 스트레스, 날씨 변동 및 기저 질환이 동물의 취약성을 증가시켰을 수 있습니다. 관계자들은 검출된 병원체가 인간에게 전염되지 않는다고 확인했습니다. 모든 직원과 간병인은 건강 검진을 받았으며 정상적인 건강 상태인 것으로 나타났습니다. 대중은 당황하지 말라는 권고를 받았으며, 해당 시설은 위생 조치가 필요한 안전 기준을 충족하면 다시 문을 열 것입니다. 위 내용은 태국 정부 홍보부의 보도 자료입니다. 관계자들은 검출된 병원체가 인간에게 전염되지 않는다고 확인했습니다. 모든 직원과 간병인은 건강 검진을 받았으며 정상적인 건강 상태인 것으로 나타났습니다. 대중은 당황하지 말라는 권고를 받았으며, 해당 시설은 필요한 안전 기준을 충족하면 다시 문을 열 것입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "치앙마이 인기 관광지 관련 소식. 인체에 무해하나, 방문 계획에 차질이 있을 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "Tiger Kingdom Chiang Mai, Mae Rim",
+        "price": null,
+        "location_google_map_query": "Tiger Kingdom Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Chiang Mai Tiger Deaths Linked to Disease, No Risk to Humans",
+          "url": "https://thepattayanews.com/2026/02/21/chiang-mai-tiger-deaths-linked-to-disease-no-risk-to-humans/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/571221554_1253562843467699_6664924702657502922_n.jpg?v=1771684463"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/571221554_1253562843467699_6664924702657502922_n.jpg?v=1771684463",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "페차부리에서 아누틴 총리, 전통 의상 입고 행사 참석 및 지지자들에게 감사 표해",
+      "summary": "- 아누틴 총리가 페차부리에서 열린 '프라나콘키리-므앙펫' 행사에 부인과 함께 참석, 전통 의상을 입고 지역 사회의 지지에 감사를 표했습니다.\n- 행사에는 상무부 장관, 문화부 장관 등 주요 인사들이 참석하여 페차부리 주의 관광 활성화 및 문화유산 기념을 축하했습니다.\n- 아누틴 총리는 행사장에서 지지자들과 소통하며 다가오는 복권 추첨에 대한 질문에 재치 있게 답변하기도 했습니다.",
+      "full_translated": "아누틴 총리와 부인이 태국 전통 의상을 입고 펫차부리 시민들에게 감사 인사를 전하며, 펫차부리 전체가 프라차이타이당을 선택했습니다.\n\n아누틴 총리는 부인과 함께 태국 전통 의상을 입고 고풍스러운 자동차를 타고 '프라나콘키리 – 므앙펫' 행사를 개막했습니다. 펫차부리 여성들은 \"우리는 누 형님을 사랑해요. 너무 달콤해요\"라고 말하며 정부 복권 3개 번호가 300인지 묻는 언론의 질문에 웃었습니다. 펫차부리 시민들이 프라차이타이당을 선택해 주셔서 감사합니다.\n\n2월 21일 18시 45분, 펫차부리 주 므앙펫차부리 군 프라나콘키리 기념 공원에서 아누틴 찬위라꾼 총리 겸 내무부 장관은 타논 니라미스 여사와 함께 펫차부리 주의 중요한 문화유산 관광을 장려하고 기념하기 위해 제39회 '프라나콘키리 – 므앙펫' 행사를 개막했습니다. 수파지 수탐판 상무부 장관, 사비다 타이어셋 문화부 장관, 삭다 위치얀신 내무부 차관, 와라웃 실파아차 프라차이타이당 (퍼떠.) 비례대표 의원 후보가 참석했습니다. 봅차녹 찰라누크 펫차부리 주지사, 정부 부처장, 공공 및 민간 부문, 국민이 행사에 참여했습니다. 아누틴 총리와 부인은 고풍스러운 차량을 타고 행사에 입장했으며, 아누틴 총리는 감청색 벨벳 셔츠에 금색 실로 장식된 태국 전통 의상을 입고 보라색 종아리를 입었습니다. 타논 여사는 태국 전통 의상을 입고 감청색 종아리를 입었습니다. 삭다 위치얀신 내무부 차관의 딸인 위수다 위치얀신 칸차나부리 의원 후보도 앞에 앉았습니다. 아누틴 총리는 경호원이 되기 위해 왔다고 말했습니다...\n\n아누틴 총리가 도착하자마자 기자들은 오늘 탄쿤(고위 관료)처럼 옷을 입었다고 농담하며 정부 복권에 대한 3개의 직접 번호를 알려달라고 요청했습니다. 300인가요? 아누틴 총리는 37이 확실하다고 농담했습니다. 기자들은 깜짝 놀라며 370인가요?라고 되물었습니다. 아누틴 총리는 웃으며 차에서 내려 시민들에게 인사했습니다. 펫차부리 주의 여러 지역 사회 여성 단체들이 아누틴 총리를 기다리고 환영하며 외쳤습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 총리의 지역 행사 참여 소식. 직접적인 여행 영향은 적으나, 태국 정치/문화 관련 정보로 흥미를 유발할 수 있음.",
+      "event_info": {
+        "date": "2026-02-21",
+        "location": "프라나콘키리 기념 공원, 펫차부리",
+        "price": "알 수 없음",
+        "location_google_map_query": "프라나콘키리 기념 공원, 펫차부리"
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” ควง “จ๋า” แต่งชุดไทย ขอบคุณคนเมืองเพชรฯ เลือกภูมิใจไทยยกจังหวัด",
+          "url": "https://www.thairath.co.th/news/politic/2915659",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ap9QSsSlrBQVa.jpg"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ap9QSsSlrBQVa.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "방콕포스트 포럼, '펫 인 더 시티' 개최: 반려동물 양육 책임 강조",
+      "summary": "- 방콕포스트와 SIRI 캠퍼스가 공동으로 '펫 인 더 시티' 포럼 개최.\n- 도시화 사회에서 책임감 있는 반려동물 양육 방안 모색.\n- 반려동물 친화적인 차량 기능 소개 및 관련 산업 논의.",
+      "full_translated": "방콕포스트, SIRI 캠퍼스와 함께 책임감 있는 반려동물 양육 방안 모색\n방콕포스트, 몽콜 방프라파 기자: 방콕포스트와 SIRI 캠퍼스는 토요일, 수쿰빗 77의 SIRI 캠퍼스에서 제3회 방콕포스트 포럼 '펫 인 더 시티 - 도시 반려동물을 위한 더 스마트한 삶'을 개최했습니다. 이번 행사에는 공무원, 부동산 개발업자, 수의사, 반려동물 산업 관계자들이 모여 도시화가 심화되는 사회에서 책임감 있는 반려동물 양육에 대해 논의했습니다. 또한 반려동물 소유자를 위해 설계된 고급 기능을 갖춘 AVATR 11 및 AVATR 07 모델의 자동차 쇼케이스도 진행되었습니다. 두 차량 모두 실내 온도를 유지하고 반려동물의 털과 먼지 입자를 걸러주는 펫 모드가 있어 주인이 볼일을 보는 동안 개나 고양이를 안전하게 내부에 둘 수 있습니다. 또한 이 모델은 최대 99.99%의 박테리아를 제거하는 항균 시트 코팅 기술을 적용하여 운전자와 승객 모두의 건강, 안전 및 편안함에 대한 AVATR의 중점을 강조합니다. 이 기능은 방콕포스트 편집장인 순루트 분야마니의 환영사로 시작되었고, 이어 '행복한 꼬리, 건강한 도시'라는 제목의 패널 토론이 이어졌습니다. 방콕포스트 지식 포럼 EP.3 펫 인 더 시티: 도시 반려동물을 위한 더 스마트한 삶에서 사람들이 반려동물 양육 활동에 참여하고 있습니다. (사진: 아피차트 지나쿨) 연사로는 방콕 메트로폴리탄 행정부(BMA) 보건부 공중 수의 사무국 국장인 시타폴 이암위수트 박사, 스리암파이 라타나마윤 최고 마케팅 책임자 등이 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "반려동물 동반 여행객에게 유용한 정보 제공. 특별한 이벤트 정보 포함.",
+      "event_info": {
+        "date": "2026-02-21",
+        "location": "SIRI Campus, Sukhumvit 77, Bangkok",
+        "price": "Unknown",
+        "location_google_map_query": "SIRI Campus Sukhumvit 77 Bangkok"
+      },
+      "references": [
+        {
+          "title": "Fewer families lead to local pet craze",
+          "url": "https://www.bangkokpost.com/thailand/general/3202390/fewer-families-lead-to-local-pet-craze",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202390_700.jpg"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202390_700.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "GWM ORA 5, 디자인 상 수상: 태국 전기차 브랜드의 쾌거",
+      "summary": "- GWM ORA 5가 런던 디자인 어워드에서 자동차 디자인 부문 최고상을 수상했습니다.\n- 자연의 아름다움을 담은 디자인으로 국제적인 인정을 받았습니다.\n- 태국 전기차 시장에서 GWM의 입지를 강화하는 계기가 될 것으로 보입니다.",
+      "full_translated": "GWM ORA 5가 런던 디자인 어워드에서 자동차 디자인 부문 최고상을 수상하며 세계 최초의 기록을 세웠습니다. GWM (태국)에 따르면, 모든 종류의 동력원을 포괄하는 자동차 브랜드로 도약하여 모든 사용자 그룹의 요구를 충족시키고 있습니다. All Scenarios – All Powertrains – All Users라는 컨셉 하에, 품질, 첨단 기술, 고객 중심의 서비스로 태국에서 가장 신뢰받는 중국 자동차 브랜드이자 최고의 서비스 브랜드가 되는 것을 목표로 하고 있습니다. 이번 런던 디자인 어워드 2025 수상은 GWM ORA 5의 자연스러운 아름다움을 담은 디자인이 국제적으로 인정받은 결과입니다. 이 상은 International Awards Associate (IAA)에서 주최하는 국제 디자인 공모전으로, 창의적인 작품을 장려하고 인정하는 데 중요한 역할을 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 전기차 시장에 대한 정보이지만, 여행객에게 직접적인 영향은 적음. 흥미로운 로컬 뉴스.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "GWM ORA 5 ขึ้นแท่นรถคันแรกของโลก คว้ารางวัลใหญ่ด้านดีไซน์ ด้วยเส้นสายโค้งมน",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2915660",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqdXwJ091cuK4.jpg"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqdXwJ091cuK4.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "아피싯, 선거관리위원회의 국민투표 용지 해명에 반박 \"동문서답\"",
+      "summary": "- 아피싯 전 총리가 선거관리위원회의 국민투표 용지 관련 해명에 대해 '동문서답'이라고 비판.\n- 그는 투표용지에 바코드나 QR코드가 있는 것은 비밀투표 원칙에 위배된다고 주장.\n- 선관위는 국민투표 용지가 안전하며 법률을 준수한다고 해명했지만, 아피싯은 이를 받아들이지 않음.",
+      "full_translated": "아피싯 전 총리가 선거관리위원회의 국민투표 용지 관련 해명에 대해 페이스북을 통해 반박했습니다. 그는 선관위가 국민투표와 총선이 공정하게 진행되었다고 해명한 것에 대해 '동문서답'이라고 비판하며, 투표용지에 바코드나 QR코드가 있는 것은 비밀투표 원칙에 위배된다고 주장했습니다. 그는 선관위가 투표 용지 집계표를 공개하여 투명성을 입증해야 한다고 요구했습니다. 선관위는 아피싯 전 총리의 '국민투표 용지가 안전하지 않다'는 의견에 대해 용지에 보안 조치가 되어있고 법률을 준수하고 있다고 해명했지만, 아피싯 전 총리는 이를 받아들이지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 현재 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“อภิสิทธิ์” ตอกกลับ กกต. ปมแจงบัตรออกเสียงประชามติ “ถามช้าง ตอบม้า”",
+          "url": "https://www.thairath.co.th/news/politic/2915643",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ApkYSYWtfuQOm.jpg"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ApkYSYWtfuQOm.jpg",
       "date": "2026-02-21"
     }
   ]
