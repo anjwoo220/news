@@ -29284,14 +29284,9 @@
       "summary": "- 태국 대마초 정책의 변화와 규제에 대한 기사입니다.\n- 2026년까지의 대마초 관련 개혁 및 규제 내용을 다룹니다.\n- 여행자들에게는 대마초 관련 법규 변화에 대한 정보를 제공합니다.",
       "full_translated": "태국 대마초 정책은 2026년까지 많은 변화가 있을 것으로 예상됩니다. 이 기사는 현재 태국에서 진행 중인 대마초 관련 개혁, 규제, 그리고 그 이면에 숨겨진 현실을 심층적으로 분석합니다. 여행자들은 태국 방문 시 대마초 관련 법규를 숙지하는 것이 중요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 대마초 정책 변화는 여행객에게 영향을 줄 수 있으므로 포함. 2026년까지의 변화를 다루는 내용이 주를 이루어 시급성은 다소 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Cannabis in Thailand 2026: Reform, Regulation, and the Reality Behind the Headlines - Respect My Region",
@@ -29300,23 +29295,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRVW9NNGNna0VFcFRXOWVMWU1kY2huajhqeHZFWW1UUkMzNEFvQ1NDVEpYY09FeWJhRDc5QzRyeEhhaUVEaldOU2htdDQxY3hLM2NsUHB4b2ZZUm84N2gxRXFaeFBvR0J3YUpYUnR3dmJ3QVZL?oc=5",
+      "source": ""
     },
     {
       "title": "방콕 및 치앙마이 2026년 송크란 축제: 귀향 여정 확보",
       "summary": "- 2026년 송크란 축제를 위한 방콕 및 치앙마이 여행 정보 제공.\n- 항공편 및 숙박 예약 서두르라는 내용.\n- 축제 기간 동안의 교통 혼잡에 대비.",
       "full_translated": "방콕과 치앙마이 송크란 2026: 즐거운 축제를 위해 귀향 여정을 확보하세요 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "송크란 축제는 여행객에게 중요한 이벤트이므로 관련 정보를 제공함. 2026년이라는 시간적 여유가 있어 중요도는 다소 낮음.",
-      "event_info": {
-        "date": "2026-04-13~15 (예상)",
-        "location": "방콕, 치앙마이",
-        "price": "변동",
-        "location_google_map_query": "방콕 송크란 축제, 치앙마이 송크란 축제"
-      },
+      "event_info": "{'date': '2026-04-13~15 (예상)', 'location': '방콕, 치앙마이', 'price': '변동', 'location_google_map_query': '방콕 송크란 축제, 치앙마이 송크란 축제'}",
       "references": [
         {
           "title": "Bangkok and Chiang Mai Songkran 2026: Secure Your Journey Home for the Festival of Joy - Travel And Tour World",
@@ -29325,23 +29317,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLS1FY2tzajQzQkxYLUd4Slo2T2JqUjc5Rjk2NHNRcjFCb3d1MjQ1eVcxYmhvSGNYN3NxbzVELVU0YmtlQTZsNDZWaDVmY3RNd1ROcUFGMmVpbTgzYTVBUEpwY3FZYlM3dUY2MmpES2RyOHpvejd0ekExbzkxdWNlenF1UTJaYXBhWk5ZZk96WGJuQW5ZWVEwOUsweTVGZkFCUjgteDB5ajNQOVJtT0V0dlV2NU81c2ZhWmxpLVdFaFRBWUlacW1VZFBsd3lMak0?oc=5",
+      "source": ""
     },
     {
       "title": "이탈리아, 냉동 손상된 심장 이식받은 2세 아동 사망",
       "summary": "- 이탈리아에서 2세 아동이 냉동 손상된 심장을 이식받은 후 사망했습니다.\n- 이식된 심장은 운송 중 냉동고에 노출되어 심각한 손상을 입었습니다.\n- 검찰은 사건 조사에 착수했으며, 의료진 6명이 공식 조사 대상에 올랐습니다.",
       "full_translated": "이탈리아에서 2세 아동이 심장 이식 후 사망했습니다. 이 아동은 이식받은 심장이 운송 과정에서 손상되어 심각한 상태에 이르렀고 결국 회복하지 못했습니다. 외신 보도에 따르면 도메니코라는 이름의 2세 아동은 현지 시간으로 2026년 2월 21일 토요일 오전 9시 30분경 사망했습니다. 그는 몇 달 전 냉동으로 인해 손상된 심장을 이식받은 후유증으로 고통받았습니다. \n\n아이가 치료를 받았던 모날디 병원은 2세 아동이 “갑작스럽고 되돌릴 수 없는 임상적 악화”를 겪었다고 밝혔습니다. 보도에 따르면 도메니코에게 이식된 심장은 지난 12월 말 병원으로 운송될 때 드라이 아이스에 직접 노출되어 조직이 심하게 손상되었습니다. \n\n현재 검찰은 사건에 대한 조사에 착수했으며 6명의 의료진이 공식적인 조사 대상에 올랐습니다. 이탈리아 전역에서 국민들의 분노가 거세지고 있습니다. 도메니코의 가족 변호사인 프란체스코 페트루치는 언론에 장기가 “극심한 추위로 인해 조직이 파괴된” 상태로 도착했다고 말했습니다. 이 장기는 볼차노에서 나폴리까지 800km 이상을 부적절한 용기에 담겨 얼음 옆에 놓인 채 운송되었으며, 온도가 너무 낮을 경우 의료진에게 경고할 온도계도 없었습니다. 2세 아동은 나폴리에서 거의 2달 동안 생명 유지 장치에 의존해야 했습니다. 그의 어머니인 파트리치아 메르콜리노는 아들을 도와달라는 간청을 교황에게 보내기도 했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 안전과 관련된 의료 시스템 문제 발생 가능성 인지. 이탈리아 여행 예정자에게 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เด็กอิตาลีดับสลด หลังได้รับการปลูกถ่าย หัวใจที่เป็นแผลน้ำแข็งกัด",
@@ -29350,8 +29339,56 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqgBIg1VPy5d.jpg"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqgBIg1VPy5d.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915672",
+      "source": ""
+    },
+    {
+      "title": "파타야, 외국인 구걸 문제 심각: 강제 추방 후 재입국 사례 발생",
+      "summary": "- 파타야에서 외국인 구걸 문제가 심각해지고 있으며, 관광객들에게 부정적인 영향을 미치고 있습니다.\n- 강제 추방된 외국인이 다시 입국하여 구걸하는 사례도 발생하고 있습니다.\n- 당국은 이 문제에 대한 해결책을 모색하고 있지만, 근본적인 해결이 어려운 상황입니다.",
+      "full_translated": "파타야에서 외국인 구걸 문제가 심각한 수준에 이르렀습니다. 관광객들은 외국인들이 구걸하는 모습에 불편함을 느끼고 있으며, 이는 파타야의 관광 이미지를 저해하는 요인으로 작용하고 있습니다. 특히, 강제 추방된 외국인들이 다시 입국하여 구걸하는 사례가 발생하면서 당국의 단속 노력이 무색해지고 있습니다. 파타야 당국은 이 문제에 대한 해결책을 모색하고 있지만, 외국인 구걸 문제는 복잡한 사회경제적 요인과 얽혀 있어 근본적인 해결이 어려운 상황입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광지 이미지를 훼손하고 관광객에게 부정적인 영향을 줄 수 있으므로 높은 점수를 부여. 반복되는 문제에 대한 새로운 사례 언급.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
+          "url": null,
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "05:15",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "일본 관광, 한국인 방문객 증가로 기록 경신",
+      "summary": "- 한국인 방문객 증가로 일본 관광 산업이 기록적인 성장을 보임.\n- 한국은 중국, 태국, 미국 등을 제치고 일본 관광 시장에서 중요한 위치를 차지함.\n- 일본 관광청은 2026년까지 더 많은 관광객 유치를 위한 전략을 수립 중.",
+      "full_translated": "일본 관광 산업이 한국인 방문객의 증가에 힘입어 기록적인 성장을 이루고 있습니다. 한국은 중국, 태국, 미국, 싱가포르, 호주, 필리핀 및 기타 여러 국가를 제치고 기록적인 도착 및 수요로 일본 관광의 중요한 이정표를 세웠습니다. 일본 관광청은 2026년까지 더 많은 관광객을 유치하기 위한 다양한 프로모션과 전략을 계획하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "한국인 관광객이 일본을 많이 방문하는 것은 태국 여행에 대한 간접적인 경쟁 요소로 작용할 수 있으며, 여행 트렌드 파악에 도움이 된다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Surpasses China, Thailand, United States, Singapore, Australia, Philippines, And A Range Of Other Countries To Set Japan’s Tourism Milestone With Record Breaking Arrivals And Demand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vc291dGgta29yZWEtc3VycGFzc2VzLWNoaW5hLXRoYWlsYW5kLXVuaXRlZC1zdGF0ZXMtc2luZ2Fwb3JlLWF1c3RyYWxpYS1waGlsaXBwaW5lcy1hbmQtYS1yYW5nZS1vZi1vdGhlci1jb3VudHJpZXMtdG8tc2V0LWphcGFucy10b3VyaXNtLW1pbGVzdG9uZS13aXRoLXJlY29yZC1icmVha2luZy1hcnJpdmFscy1hbmQtZGUtYW5kL9IBAA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "05:15",
       "date": "2026-02-22"
     }
   ]
