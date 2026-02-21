@@ -28633,14 +28633,9 @@
       "summary": "- 태국이 미국, 영국, 인도, 방글라데시와 함께 새로운 얼굴 인식 시스템을 도입하여 항공 여행에 혁신을 가져올 예정입니다.\n- DigiYatra는 태국 공항의 운영 방식을 획기적으로 변화시킬 것으로 기대됩니다.\n- 이 시스템은 보안 강화 및 여행객 편의성 증진을 목표로 합니다.",
       "full_translated": "미국, 영국, 인도, 방글라데시, 그리고 태국의 새로운 얼굴 인식 시스템이 항공 여행에 혁신을 일으키고 있습니다! DigiYatra가 모든 것을 어떻게 바꿀 것인지 알아보세요!\n\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항 이용 절차 간소화 및 보안 강화에 대한 정보는 여행객에게 유용하며, 새로운 시스템 도입은 여행 경험에 영향을 줄 수 있음",
-      "event_info": {
-        "date": null,
-        "location": "태국 공항",
-        "price": null,
-        "location_google_map_query": "태국 공항"
-      },
+      "event_info": "{'date': None, 'location': '태국 공항', 'price': None, 'location_google_map_query': '태국 공항'}",
       "references": [
         {
           "title": "USA, UK, India, Bangladesh, and Thailand’s New Facial Recognition System Is Revolutionising Air Travel, Here’s How DigiYatra Will Change Everything! - Travel And Tour World",
@@ -28651,7 +28646,9 @@
       ],
       "collected_at": "23:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaEZpMEltYktpWExBbDJHNU5IUVRWNFkzSXd2Qjl2YkJoYktCV3A2TGNxakduTC1WNmktUV9rUHVVMXFuUktVQVpXd2toZWJRQWZyUm1YOTFPYVRmZ3A1aFZEMG85V0tZUzVKTW5HV2dYU1FmQktpZ1NnY2g3cklaYno4bjJ5UUxOMXZQcmlwS0k4MEltT0FIUXR4eV84cXo1WDlrQ04zYmNWUmFxOUN1c3V6SWZxTmJCS0ctdDlwdm1zN3dBY2Nmc0xhU3JkZ3NXSTltd1FOcFpBZi1qZ3l5ZmpSS3lOd0EzVHJTMjc3ajFOWlVmNG1oY25SYVh6T0VCMHc2QUpiMmtXMkZiTUcxWUdoUWVPX1RF?oc=5",
+      "source": ""
     }
   ]
 }
