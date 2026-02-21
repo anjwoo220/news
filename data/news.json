@@ -28763,14 +28763,9 @@
       "summary": "- 파타야 시는 지역 사회 포럼 및 2026년 지역 사회 개발 계획 프로젝트의 일환으로 포럼을 개최함.\n- 반 끄라복 33 지역 주민들은 공공 인프라 개선, 마약 문제 해결, 안전 강화 등 다양한 문제를 제기함.\n- 파타야 시 관계자는 주민들의 의견을 수렴하여 삶의 질을 향상시키고 지속 가능한 지역 사회 개발을 추진할 계획임.",
       "full_translated": "파타야 시는 반 끄라복 33 지역에서 제9회 커뮤니티 포럼을 개최하여 지역 주민들의 우려 사항을 해결하고 2026년 개발 계획을 논의했습니다. \n\n이번 회의에는 파타야 시의회 의원, 부시 서기, 관련 정부 기관장, 다양한 부서 대표가 참석했습니다. 많은 반 끄라복 33 지역 주민들과 지역 사회 지도자들이 토론에 참여했습니다. 촌부리 지방 행정 기구 의회 의원인 나콘 폴 룩 인도 참관하고 의견을 경청하기 위해 참석했습니다.\n\n이번 포럼은 파타야 시가 진행 중인 커뮤니티 포럼 및 2026년 커뮤니티 개발 계획 프로젝트의 일환으로 조직한 일련의 포럼 중 아홉 번째입니다. 이는 각 지역 주민들이 문제를 제기하고, 자유롭게 의견을 공유하며, 시 당국에 직접 어려움, 장애물 및 제안을 강조할 수 있는 공개 플랫폼을 제공하기 위함입니다. 우리는 지난 주, 특히 소이 식스 교통 문제와 워킹 스트리트 문제에 대한 논의와 같이 더 큰 관광 주도 지역에서 이러한 포럼을 많이 다루었습니다. \n\n이번 세션에서 제기된 주요 주제에는 기본적인 공공 인프라 개선, 지역 사회 내 마약 문제 퇴치 방안, 생명과 재산에 대한 안전 강화, 그리고 주민들이 정부가 즉시 해결할 것을 촉구한 기타 시급한 어려움이 포함되었습니다.\n\n파타야 시 관계자는 참가자로부터 수집된 모든 피드백, 제안 및 제안을 수집하기 위해 노력했습니다. 이는 주민들의 삶의 질을 향상시키고 지속 가능하고 안정적인 지역 사회 개발을 추진한다는 목표로 신중하게 검토되어 구체적인 실행 계획에 통합될 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 지역 사회의 문제 해결 및 개발 계획에 대한 논의는 여행객에게 간접적인 영향을 미칠 수 있으며, 지역 사회의 안정과 개선은 여행 환경에도 긍정적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "Ban Krabok 33, Pattaya",
-        "price": null,
-        "location_google_map_query": "Ban Krabok 33 Pattaya Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Ban Krabok 33, Pattaya', 'price': None, 'location_google_map_query': 'Ban Krabok 33 Pattaya Thailand'}",
       "references": [
         {
           "title": "Pattaya City Holds 9th Community Forum in Ban Krabok 33 to Address Local Concerns and Plan 2026 Development",
@@ -28779,23 +28774,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_177167942224324001312873823396.jpg?v=1771679465"
         }
       ],
-      "collected_at": "00:48",
+      "collected_at": "0:48",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_177167942224324001312873823396.jpg?v=1771679465",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://thepattayanews.com/2026/02/21/pattaya-city-holds-9th-community-forum-in-ban-krabok-33-to-address-local-concerns-and-plan-2026-development/",
+      "source": ""
     },
     {
       "title": "일본 관광, 한국인 방문객 증가로 기록 경신 - Travel And Tour World",
       "summary": "- 한국이 중국, 태국, 미국, 싱가포르, 호주, 필리핀 등을 제치고 일본 관광객 수에서 새로운 기록을 세웠습니다.\n- 이는 일본 관광 산업에 중요한 이정표가 될 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "대한민국이 중국, 태국, 미국, 싱가포르, 호주, 필리핀 및 기타 여러 국가를 제치고 기록적인 도착 및 수요로 일본 관광의 이정표를 세웠습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "일본 여행 관련 소식이지만, 태국 여행객에게 직접적인 영향은 적으므로 중간 점수 부여. 한국인 여행객에게 일본 여행에 대한 관심이 높을 수 있다는 점을 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Surpasses China, Thailand, United States, Singapore, Australia, Philippines, And A Range Of Other Countries To Set Japan’s Tourism Milestone With Record Breaking Arrivals And Demand - Travel And Tour World",
@@ -28803,22 +28795,20 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "00:48",
-      "date": "2026-02-22"
+      "collected_at": "0:48",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcXgwSHRTNXVhbjRRWjBtSHNHRi1uSF9TRGFNeE5HQm1SSndySUotSU5MZ1BLMnY5NWJ0Q282b1BiTU5iUTdWOW1JdzdRUkJZd3l5eUx4QlE5M2JQdlhnWEZrWm00LVNmUWNPYU1RTXZnc0VBZklIVThEOFJPSVR1LWl1bUNaRnFTcmV5MlVwa2czTkQ2SnZlY3RmMkpQOEEtTFpjRF9IZ1YtUUhMLWJtMEkzZE9uellkT3FlTDFlenhYNTRUSVhmWjJCaUV4WGNlTHgwdUx0QTkwV3Jvam5NNHNCaDlUVUc3UUF2YTRTekRjdGVmcVpDREFCdGQ5em9rNnBmS2hyeW56UFpQWnMzWTd4SUUyYm9TaGRNQk5kc29wYWtsNmlqQ1JZZ082TVNqVXdvNDNWWTFKVWoxWVZLRC1XbW5fQ0NoUFhzWFh5U201TW9x?oc=5",
+      "source": ""
     },
     {
       "title": "인도에서 흑마술 혐의로 모녀 화형 사건 발생",
       "summary": "- 인도에서 한 여성과 그녀의 10개월 된 아기가 흑마술을 행했다는 혐의로 마을 주민들에 의해 산 채로 불태워졌습니다.\n- 피해 여성의 남편도 화상을 입고 병원에서 치료 중입니다.\n- 경찰은 살인 및 범죄 공모 혐의로 4명을 체포했으며, 추가 관련자를 조사 중입니다.",
       "full_translated": "인도에서 한 여성과 아기가 흑마술을 행했다는 혐의로 마을 주민들에 의해 산 채로 불태워졌습니다. 이 사건은 인도 동부 자르칸드 주에서 발생했으며, 경찰은 현재 용의자 4명을 체포했습니다. 사망한 여성은 조티 싱쿠(Jyoti Sinku)로, 그녀의 10개월 된 아들과 함께 화형을 당했습니다. 피해 여성의 남편 역시 공격을 받아 심각한 화상을 입고 병원에서 치료를 받고 있습니다. 경찰은 추가 관련자를 추적하고 있으며, 체포된 용의자들에게는 살인 및 범죄 공모 혐의가 적용되었습니다. 인도 국가범죄기록국에 따르면 2000년부터 2016년 사이에 인도에서 흑마술이나 마녀로 의심받아 살해된 사람은 2,500명이 넘으며, 대부분 여성입니다. 이번 사건은 자르칸드 주와 인접한 비하르 주에서 한 가족 5명이 흑마술 혐의로 잔인하게 살해당하고 불태워진 지 불과 몇 달 만에 발생했습니다. 이러한 사건은 주로 소외된 민족 공동체가 거주하는 지역에서 발생하며, 미신에 대한 믿음이 강하고 공공 의료 시스템이 부족하여 주민들이 질병 치료를 위해 돌팔이 의사에게 의존하는 경향이 있습니다. 이번 살인 사건은 약 50채의 흙집으로 이루어진 외딴 민족 공동체인 쿠드사이 마을에서 발생했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행 안전에 직접적인 영향은 없으나, 특정 지역의 치안 및 문화적 특성을 간접적으로 보여주는 뉴스. 다만, 여행객에게 미치는 영향은 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ช็อก แม่-ทารกอินเดีย ถูกเผาทั้งเป็น ถูกกล่าวหาฝึกมนต์ดำ",
@@ -28827,8 +28817,85 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqdpkJgSqDQso.jpg"
         }
       ],
-      "collected_at": "00:48",
+      "collected_at": "0:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqdpkJgSqDQso.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915667",
+      "source": ""
+    },
+    {
+      "title": "태국, 온라인 리뷰 게시 시 외국인 법적 위험 경고: 형사 명예훼손법 주의 필요",
+      "summary": "- 태국에서 온라인 리뷰 작성 시 형사 명예훼손법에 따라 외국인이 위험에 처할 수 있음.\n- 부적절한 리뷰는 안전과 평판에 영향을 미칠 수 있으므로 주의해야 함.\n- 관련 법률 및 위험 요소를 숙지하여 불이익을 예방하는 것이 중요.",
+      "full_translated": "태국은 형사 명예훼손법으로 인해 외국인이 온라인 리뷰를 게시할 때 법적 위험에 처할 수 있습니다. 외국인 거주자는 온라인에서 의견을 공유할 때 주의해야 하며, 자신의 발언이 미칠 수 있는 잠재적인 영향을 이해해야 합니다. 이러한 법률에 대한 인식 부족은 예기치 않은 법적 문제로 이어질 수 있습니다. 외국인들은 의견을 표현할 때 자신의 권리와 책임을 이해하기 위해 법적 자문을 구하는 것이 좋습니다. 태국에서 온라인에 리뷰를 게시할 때는 신중하고 정보를 충분히 숙지하는 것이 중요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "온라인 리뷰 관련 법적 위험을 경고하여 여행자에게 잠재적 위험을 알림. 여행 중 발생할 수 있는 문제에 대한 인식을 높임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Legal Risks Put Expats in Danger When Posting Online Reviews as Criminal Defamation Laws Could Impact Their Safety and Reputation – All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQRlEzT3pmdHVCc29hUmNPcGh3Q3pzdFh1V2ZuN09IZ3BZUE9hc2lnUWtWRzRVYTVra1BPclgxZGtRUG1kellnMFVQaGthVi1Va2lhZFlWQ2Z1bkJSWk5MX0ZCOWctWmhkVEt1Y3MyQlY0bUx0QlhELWZVMnJKZjQwMUNRUHVTWExiRlNOdG5NSlg1TnlXNUZQaFdkUGdFZGd6cTZ0MVdPTVFWWGVQdWFlYUROWXFjR2ptWkJ4cUdrc0RkdXVKcjBWaFI3VTNOX29GeXBpMU9oVDJBVG0zQjZKWTAtMDdFMVJOSjB6QzVaUFotQzFzNF9SOC1Nc09pYzE2cU84SmFVd0Vid0dacjBRWW94QTFkT2tTMEN3azdsSkJNb3MzOC1WTXA1RG9RZFdqSEE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국, 디지털 노마드 비자 발급으로 말레이시아, 필리핀, 인도네시아, 베트남을 제치고 관광객 유치 선두",
+      "summary": "- 태국이 디지털 노마드 비자 도입으로 관광객 유치 경쟁에서 우위를 점하고 있습니다.\n- 2026년까지 태국으로 이주하려는 디지털 노마드를 위한 정보 제공을 목표로 합니다.\n- 폭발적인 혜택을 누릴 수 있는 기회에 대한 관심이 높아지고 있습니다.",
+      "full_translated": "태국이 디지털 노마드 비자를 통해 말레이시아, 필리핀, 인도네시아, 베트남을 제치고 관광객 유치 경쟁에서 선두를 달리고 있습니다. 2026년에 이주하려는 사람들을 위한 정보도 제공합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "디지털 노마드 비자 관련 정보는 여행 및 장기 체류에 영향을 미치므로 여행객에게 유용합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Overtakes Malaysia, Philippines, Indonesia and Vietnam with Tourists Heading with Digital Nomad Visa as Travel Boom Makes Clear of Explosive Benefits: What You Need to Know If You Want to Move in 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQaER4S2xUdEtwek9fREZKdmV3c2k3Zms3VVdyVG45eTFFYms4LURzSm5GSFJ1ajlkY1pIT2VHQ2lULTh6THRDQkRuNEYtdEVzT1U5TE1NV0hfcVIzdU9Ub3kzcXRrLWR6aVhsNzdOaEFQcFB1ZEJhRkdkWXF6QUllNHN4ODdFMzVqRmxLMVVrSDNvTGFyN1FtbU5fTE9kendJWF9xa3V3cFZWYzR1bjFfRG51aE8tUWJxaW1iOGJkcE5jd0Y5YzNPSjVVVE40Uld2TkVxOFVvN1BkaHE5Z01NeFVzWnZZbTJnb1hYS09veVNISFZKLURuTVp6YWQxV29GOWFhRFdzekhRNXNOeHZmZGJlRFpKNV9fcmhCU0tXUVF2Q0tmc1NCd1UybjRkcGdyZEFha0g4ektRRVhiM3h4RWRqU1pFcjJXZ2xyVzZzdHQ5WFBtaF9oQThuZi1xa1I4UGtPWg?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "탐마낫, 정부 구성 소식 속에서 핀란드에서 아내, 자녀와 함께 여유로운 휴가",
+      "summary": "- 탐마낫 부총리는 핀란드에서 가족과 함께 휴가를 보내고 있습니다.\n- 그의 아내는 핀란드에서 찍은 사진과 영상을 SNS에 게시했습니다.\n- 그는 2월 25일에 태국으로 돌아와 업무에 복귀할 예정입니다.",
+      "full_translated": "탐마낫 부총리는 그의 아내 줍찝 타나폰 스리위랏과 자녀들과 함께 핀란드에서 휴가를 보내며 눈밭을 걷고 오로라를 구경하고 있습니다. 이는 끌라탐당 없이 정부를 구성한다는 소식이 전해지는 가운데 이루어졌습니다. 2069년 2월 21일, 탐마낫 프롬파오 부총리 겸 농업협동조합 장관이자 끌라탐당의 고문으로서 최근 그의 아내인 타나폰 스리위랏 또는 줍찝은 핀란드에서 휴가를 보내는 동안 찍은 사진과 비디오를 인스타그램 스토리를 통해 게시했습니다. 탐마낫 부총리는 오렌지색과 검은색 스노우 슈트를 입고 아내와 아들과 함께 눈밭을 걷고 집 앞에서 눈을 치우는 모습이 담겨 있습니다. 이전에는 탐마낫 부총리가 언론에 가족과 함께 오로라를 보러 휴가를 갈 것이라고 말했습니다. 한편, 품차이타이당이 끌라탐당 없이 300석으로 정부 구성을 완료했다는 소식이 있습니다. 보고서에 따르면 탐마낫 부총리는 2월 25일에 태국으로 돌아와 농업협동조합부에서 즉시 업무를 시작할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 소식이지만 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "핀란드",
+        "price": null,
+        "location_google_map_query": "Finland"
+      },
+      "references": [
+        {
+          "title": "“ธรรมนัส” ยังชิล พา “จุ๊บจิ๊บ-ลูก” เล่นหิมะที่ฟินแลนด์ ท่ามกลางข่าวตั้งรัฐบาลไร้กล้าธรรม",
+          "url": "https://www.thairath.co.th/news/politic/2915654",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqANauSXl7S2H.jpg"
+        }
+      ],
+      "collected_at": "01:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqANauSXl7S2H.jpg",
       "date": "2026-02-22"
     }
   ]
