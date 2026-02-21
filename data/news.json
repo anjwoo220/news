@@ -29070,14 +29070,9 @@
       "summary": "- 태국 정부가 인도 관광객 유치를 위해 무비자 체류 기간을 30일에서 60일로 연장했습니다.\n- 도착 비자(VOA) 수수료도 면제하여 인도 여행객의 비용 부담을 줄였습니다.\n- 이 조치는 태국 관광 산업 활성화에 기여할 것으로 예상됩니다.",
       "full_translated": "태국이 인도인 대상 무비자 체류 기간을 60일로 연장하고 도착 비자 수수료를 면제합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "인도 여행객 대상 비자 규정 변경은 여행 편의성을 크게 향상시키므로 높은 점수를 부여합니다. 비자 수수료 면제는 비용 절감 효과도 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Doubles Visa-Free Stay for Indians to 60 Days, Drops VOA Fee - VisaHQ",
@@ -29086,34 +29081,74 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:43",
+      "collected_at": "2:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGxvYVRMYzM5TnMtdGVHNEpPaHVybk5mWDlNc1VoLXBBcUxDdTBKTVdhMTlzSmI2V0FId2t1X3RySm1tdlVhLS02a2dvTFNYTVY2YV8xWTltZ1B5UU1iTXFIcnNxNkU2WkxhYUJjdm4tZjd6Y1lqZEhkdzFkbHNsTGZTZGtpNlI2by1MVDZFSmVhd0stU24yRFl3T282cFlMVklmeW4zc0Q1dzNKLVJkMQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국에서 미국인 관광객 칼에 찔려 사망 (재확인)",
       "summary": "- 기존 보도 재확인: 태국에서 미국인 관광객이 칼에 찔려 사망하는 사건 발생.\n- 사건의 새로운 진행 상황이나 추가 정보는 없음.\n- 여행객 안전에 대한 인식을 환기시키는 차원에서 포함.",
       "full_translated": "기존에 보도된 내용과 동일합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 직접적인 영향을 미치는 사건이므로 포함. 기존 기사 재확인.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [],
-      "collected_at": "02:43",
-      "date": "2026-02-22"
+      "collected_at": "2:43",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "",
+      "source": ""
     },
     {
       "title": "파타야 해변 노숙자의 부적절한 행동에 관광객 충격, 강력한 법 집행 요구 (재확인)",
       "summary": "- 기존 보도 재확인: 파타야 해변에서 노숙자의 부적절한 행동으로 관광객들이 충격을 받고 법 집행 강화 요구.\n- 새로운 업데이트는 없음.\n- 여행 시 주의를 요하는 사항이므로 포함.",
       "full_translated": "기존 보도 내용과 동일합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광지 이미지를 훼손하고 잠재적 위험을 내포하므로 포함. 기존 기사 재확인.",
+      "event_info": "{'date': None, 'location': 'Pattaya Beach', 'price': None, 'location_google_map_query': 'Pattaya Beach'}",
+      "references": [],
+      "collected_at": "2:43",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "",
+      "source": ""
+    },
+    {
+      "title": "태국, 인도 여행객 대상 무비자 체류 기간 두 배로 연장 - VisaHQ",
+      "summary": "- 태국 정부가 인도 여행객 대상 무비자 체류 가능 기간을 연장했습니다.\n- 기존 30일에서 60일로 늘어나 여행 편의성이 증대될 것으로 예상됩니다.\n- 자세한 내용은 VisaHQ에서 확인할 수 있습니다.",
+      "full_translated": "태국, 인도 여행객 대상 무비자 체류 기간 두 배로 연장 VisaHQ",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 체류 기간 연장은 여행 계획에 큰 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand doubles visa-free stay duration for Indian travellers - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQUR2b0RrMTg1Mkp5RnpueDF2T3drQjJEY0hqNTZSUW52bGZnRW9NbGVIaTJnSjc2bDRsS3VhUDhrNWFPcGdib0VCVjROUWVNbF9mNU1yYTZOY19Ub2JHM1dNNVJXVnNaY0NfVjVfbXdMNzhhMDZEZDcwWmJiUHN4c3Mya01JOEVQZWdaeC1KTG5WMXQ1VXE2N2xrR2dzakxTZ2pTWGpuc2k?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야 해변 노숙자 문제 심각: 관광객 충격, 강력한 법 집행 요구",
+      "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동으로 관광객들이 불쾌감을 느끼고 있습니다.\n- 관광객들은 노숙자 문제 해결을 위한 강력한 법 집행을 요구하고 있습니다.\n- 파타야 당국은 노숙자 문제 해결을 위해 노력할 것을 약속했습니다.",
+      "full_translated": "파타야 해변에서 노숙자들이 관광객들에게 불쾌감을 주는 행동을 하여 문제가 되고 있습니다. 관광객들은 이러한 문제에 대한 강력한 법 집행을 요구하고 있으며, 당국은 문제 해결을 위해 노력할 것을 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광객에게 직접적인 영향을 미치는 문제이며, 법 집행 요구가 있어 업데이트로 판단.",
       "event_info": {
         "date": null,
         "location": "Pattaya Beach",
@@ -29121,7 +29156,57 @@
         "location_google_map_query": "Pattaya Beach"
       },
       "references": [],
-      "collected_at": "02:43",
+      "collected_at": "03:15",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 호랑이 공원에서 바이러스로 수십 마리 호랑이 폐사",
+      "summary": "- 태국 호랑이 공원에서 바이러스 감염으로 인해 수십 마리의 호랑이가 폐사했습니다.\n- 해당 바이러스는 호랑이 개체 수에 심각한 위협이 되고 있습니다.\n- 공원 당국은 바이러스 확산 방지를 위해 노력하고 있습니다.",
+      "full_translated": "태국 호랑이 공원에서 바이러스로 수십 마리 호랑이 폐사 The Standard (HK)",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "동물원이나 공원을 방문하려는 여행객에게 영향을 줄 수 있으며, 해당 지역의 안전 문제에 대한 관심이 필요합니다. 여행객 안전에 대한 잠재적 영향이 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 호랑이 공원",
+        "price": null,
+        "location_google_map_query": "태국 호랑이 공원"
+      },
+      "references": [
+        {
+          "title": "Virus kills dozens of tigers in Thailand park - The Standard (HK)",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVnJLQ29PbzNmRjEtRnhNTWpDalN4RzVfazFMMERGRXlzTjhDX3NMa2hMQVhRQ3B1VlZRcWNKdzdXY3FjU21wVmVyWlhNcHctc19GZ1lTZ0prQ2RnTkNFQUgzWUwzbFJBTzhZeVhnU29pajM1WHJGTkZIZmFZMm8zUGZ3UUhkWDN0cjJPbFYzZzRRUGl6SWk3VTJHbW1QNUlpUEVfYw?oc=5",
+          "source": "The Standard (HK)",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "치앙라이, 태국: 매 야오 강에서 지속 가능한 관광 부흥으로 환경 역경을 전환",
+      "summary": "- 치앙라이의 매 야오 강에서 환경 문제 해결을 통해 지속 가능한 관광을 부활시키고 있습니다.\n- 지역 사회 참여와 환경 보호 노력을 통해 관광객들에게 매력적인 경험을 제공합니다.\n- 지속 가능한 관광 모델을 구축하여 지역 경제 활성화와 환경 보전에 기여하고 있습니다.",
+      "full_translated": "치앙라이, 태국: 매 야오 강에서 지속 가능한 관광 부흥으로 환경 역경을 전환&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "치앙라이 지역의 관광 활성화 노력에 대한 정보로, 여행객들에게 새로운 관광지에 대한 정보를 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": "치앙라이, 매 야오 강",
+        "price": null,
+        "location_google_map_query": "Mae Yao River, Chiang Rai"
+      },
+      "references": [
+        {
+          "title": "Chiang Rai, Thailand: Transforming Environmental Adversity into a Sustainable Tourism Revival on the Mae Yao River - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOFUxb0tyRG9keHUxOWgzUTB5VVJsMFhwa2lMMGowckFOMFJPVlJLRVF3eWZaNGgzN05kdGRJX2pDTVhCZFcwRVA4R29Fam9GN3JKci1KWUlEdks0UkRBdUlXTDJ5alR3dXN6WlU4ai1wSTFpaF9ZVm9rc3R2YmQ2dzlna2Z2dlJqbnpJTmdQZlhhdjNpMHhNREF1UWs4R3ZEOGpnWE9TVEUwNVdzdDdldnNQSlMzSFVmNDBiMGZ2dWZ6SFRvMDU0QldwMUhwNUxfZEJNbTFaT2Y3VTEzUS03NE9DdUZsOVBzbUxnTG0tMTJKRkE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
   ]
