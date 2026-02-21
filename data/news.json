@@ -27800,14 +27800,9 @@
       "summary": "- 태국에서 삼각관계로 인한 폭력 사태 발생\n- 미국인 관광객이 칼에 찔려 사망\n- 경찰 조사 진행 중",
       "full_translated": "태국에서 삼각관계가 치명적인 폭력 사태로 번지면서 미국인 관광객이 사망했습니다. 경찰 조사 진행 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "외국인 대상 범죄 발생. 여행객 안전에 직접적인 위협. 유사 사건 재발 방지를 위한 정보 제공 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police - AOL.com",
@@ -27818,21 +27813,18 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzE4UlFaVTNfOHBYZ3JONUlsSGZ4R0l5QXRZMngxbHJIUERnMWpwQWNPaXZPSkV5VmZyNnVLWXF3SFduelZaN0dLRFNjYlh6TFVROC1YaW1NeVczcXo1LXpKNTFvMmJKenB0aWt2WXdpdDdEUEFJdFF0T0p3MVEtOEI4T3dmX240?oc=5",
+      "source": ""
     },
     {
       "title": "국수 판매상, 빚 때문에 금품 강도로 전락: 사라진 금 5바트",
       "summary": "- 전 국수 판매상이 빚에 시달리다 금품 강도로 전락하여 26바트를 훔침.\n- 경찰은 용의자를 체포하고 훔친 금 21바트를 회수, 나머지 5바트는 찾는 중.\n- 용의자는 범행 후 집에서 소셜 미디어를 통해 경찰 수사를 지켜봄.",
       "full_translated": "경찰청 부청장이 4부 수사 결과 발표. 경찰은 전직 중개인이자 국수 판매상이었던 남성을 체포. 빚에 시달리던 그는 강도로 변신하여 금 26바트를 강탈. 범행 후 집에서 소셜 미디어를 통해 경찰 수사를 지켜봤다고 자백. 사라진 금 5바트를 추적 중.\n\n2069년 2월 21일 오전 11시, 4부 수사본부에서 놉까오 솜마낫 경찰청 부청장, 품팟 팟타라시리웡차이 4부 수사본부장, 쁘리차 깽사리낏 콘깬 지방 경찰 부본부장, 팍품 데차르엉신 반뻿 경찰서장이 공동으로 기자회견을 열어 촌라팁(가명 께) 사라캄(47세, 콘깬 거주)을 체포했다고 발표했습니다. 그는 재물 또는 인신 보호 장치를 손상시키고 차량을 이용하여 범죄를 저지르거나 재물을 운반하거나 체포를 피하려 한 혐의를 받고 있습니다. 압수품으로는 길이 1미터의 각목 1개, 길이 1미터의 뾰족한 철제 상자 1개, 금 목걸이 9개 (총 21바트)가 있습니다.\n\n체포는 2069년 2월 15일에 발생한 사건에서 비롯되었습니다. 한 남성이 콘깬 지역의 반툼 구역 12번 마을에 있는 방콕 야오와랏 금은방에서 금 목걸이 11개 (총 26바트, 190만 바트 상당)를 강탈하여 도주했습니다. 경찰은 4부 수사팀, 콘깬 지방 경찰, 반뻿 경찰서가 협력하여 용의자를 추적했습니다. 용의자 제보자에게는 10만 바트의 현상금이 걸렸습니다.\n\n경찰 조사 결과 용의자는 금은방에서 약 20미터 떨어진 골목길에 등록되지 않은 회색 혼다 웨이브 오토바이를 주차했습니다. 범행 후 오토바이를 타고 도주했습니다. 경찰은...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국에서 발생한 범죄 사건으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있음. 사건의 개요와 진행 상황을 요약하여 제공.",
-      "event_info": {
-        "date": "2069-02-15",
-        "location": "콘깬 지역의 반툼 구역 12번 마을 방콕 야오와랏 금은방",
-        "price": "190만 바트 (금품)",
-        "location_google_map_query": "방콕 야오와랏 금은방 콘깬"
-      },
+      "event_info": "{'date': '2069-02-15', 'location': '콘깬 지역의 반툼 구역 12번 마을 방콕 야오와랏 금은방', 'price': '190만 바트 (금품)', 'location_google_map_query': '방콕 야오와랏 금은방 콘깬'}",
       "references": [
         {
           "title": "พ่อค้าบะหมี่ สารภาพปัญหาหนี้สินรุมเร้าผันตัวเป็นโจร เผยทองของกลางหายไป 5 บาท",
@@ -27843,6 +27835,58 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArX5QnS8UmK8w.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/crime/2915619",
+      "source": ""
+    },
+    {
+      "title": "치앙마이 동물원, 바이러스 발생으로 호랑이 72마리 폐사",
+      "summary": "- 태국 치앙마이의 인기 관광지에서 치명적인 바이러스 발생.\n- 호랑이 72마리 폐사, 공원 폐쇄됨.\n- 정확한 바이러스 종류와 감염 경로는 아직 조사 중.",
+      "full_translated": "태국에서 치명적인 바이러스가 발생하여 치앙마이의 인기 관광지인 동물원이 폐쇄되었습니다. 이번 바이러스로 인해 호랑이 72마리가 폐사했습니다. 정확한 바이러스 종류와 감염 경로는 아직 조사 중입니다. Mint에서 보도했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객이 많이 찾는 치앙마이 동물원에서 발생한 사건으로, 여행 안전에 대한 우려를 불러일으킬 수 있다. 동물원 폐쇄로 인해 관광 계획에 차질이 생길 수 있다.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이 동물원",
+        "price": null,
+        "location_google_map_query": "치앙마이 동물원"
+      },
+      "references": [
+        {
+          "title": "72 tigers die in deadly virus outbreak in Thailand; popular tourist attraction Chiang Mai park closed — What we know - Mint",
+          "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOTnB1MlpXclVaWFYzVDhCanpQYjlEY2ZsQ3F5bmhMYUxqbEZid21aQjJFOUxjREVmZVZRdTdURllhT0ZPNF8wR1FLci1KNklIRGJRTWdOME51SmhjcjNkeUdkc2tSajIwWWFMdm9WZHZnek85VkNFb3RJaWlBWUdjTkczQ2NXYmdBVGgzQWN4Y2dLWXViUklSaWZINXp3ZTFXM2Fpa3JXVXMzVldlMnRQb0FaTlZXcDNTYUgzN2ZmTnUtMWc2bVlVb2lWbW5uNGEyRTVZOVdYS2tHMDI0RHNZd25lMlQzREY1R3FERlRoMndYMS04LWVZVTNDUXJnUdIBgwJBVV95cUxOTHRnT3dMdXd2bl84N09jeUJCbHpRdVFqX2pJMzJPRm5VWVhZS0JIRHA2U05iejNCWldsNWlKT0VYakxBOUxGZzk1VHpZemVtQ1ViRm5wNDNVT3VSS2pKZmQySll3ZFJLVzNFQnlXTXg2TmhhRG5RWXZKQklZbW1YTG9DY0RFLTZwelZLN1JOYnRCcnRndFRFa1M1eEZtcjE2RW0xOHpoSTlSN0xxMWZ5MVVBWHYzSVczZ0ZKdVBEbHhDU3VjZTNMa1kyalhfWVczVmF4T2ZWWER5UEM4NTBvMmF2NV9lUDI3NXFGb2JfcEUwRlljREV6MVctTzVRN0Z3NFNv?oc=5",
+          "source": "Mint",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "방콕 인근, 60대 여성 폭행한 40대 남성 체포: 총기법 위반 혐의",
+      "summary": "- 방콕 인근 논타부리에서 40대 남성이 60대 여성 폭행 후 총기 난사 혐의로 체포됨.\n- 용의자는 총기 소지 허가 없이 총기를 소지하고 공공장소에서 발사한 혐의를 받음.\n- 경찰은 용의자를 상대로 범행 동기 및 추가 혐의를 조사 중.",
+      "full_translated": "방부아통 경찰서는 60세의 얼음 가게 주인을 때리고 발로 찬 남자를 체포했습니다. 총기법에 따른 영장이 발부되었으며 하늘로 총을 쏜 혐의도 받고 있습니다.\n\n사건은 2월 20일 오전 6시경 논타부리 방쿠랏 지역의 한 얼음 가게 앞에서 발생했습니다. 피해자인 두앙다오 짓사놋(60세)과 그의 딸인 크리티야니 산타와(29세)는 테프릿 우쑤꾼 또는 테프(40-45세)라는 남성에게 공격을 받았습니다. 테프는 총기를 휘두르며 두앙다오의 얼굴을 3차례 때리고 배를 1차례 찼습니다.\n\n경찰 조사 결과, 테프는 사건 발생 후 도로 한복판에서 5~6발의 총을 하늘로 쏜 것으로 드러났습니다. 그는 총기 소지 허가 없이 총기를 소지하고, 공공장소에서 총기를 발사한 혐의를 받고 있습니다.\n\n경찰은 테프를 체포하여 범행 동기를 조사하고 있으며, 추가 혐의를 적용할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕 인근에서 발생한 폭력 사건으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": "2024-02-20",
+        "location": "논타부리 방쿠랏",
+        "price": null,
+        "location_google_map_query": "방쿠랏 논타부리"
+      },
+      "references": [
+        {
+          "title": "จับแล้ว หนุ่มกร่างตบหน้าป้าร้านน้ำแข็ง โดนหมายจับ พ.ร.บ.อาวุธปืน พบยิงปืนขึ้นฟ้าด้วย",
+          "url": "https://www.thairath.co.th/news/crime/2915627",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9X69HMtjx2T.jpg"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Ar9X69HMtjx2T.jpg",
       "date": "2026-02-21"
     }
   ]
