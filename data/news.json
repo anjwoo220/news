@@ -28128,14 +28128,9 @@
       "summary": "- 태국이 인도인 여행객에게 60일 무비자 체류를 허용합니다.\n- 30일 추가 연장이 가능합니다.\n- 자격 요건을 확인하세요.",
       "full_translated": "태국이 인도인에게 60일 무비자 체류를 허용하고 30일 연장을 제공합니다. 오늘 자격 요건을 확인하십시오. Y-Axis Overseas Careers",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행객에게 매우 중요한 정보이므로 높은 점수를 부여합니다. 인도인 여행객들에게 직접적인 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Grants Indians 60-Day Visa-Free Stay with 30-Day Extension – Check Eligibility Today - Y-Axis Overseas Careers",
@@ -28146,21 +28141,18 @@
       ],
       "collected_at": "18:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMlFqc0E5RnNKc1VzREZERWtSVHdFS3NFM1I5U0hSSnR4UkVXTVBxTWFJNW5qaUdRY3ozUVJBTVRfbnBTdTZRa1lyWTV6T0laZ09JcHZBTnctTk1wd1dVTk1faFNTVy1NSlhKdU5IaEIzLWZHZ3pQQ1Q4dnZWbzkxbG03dDZOT3M1WExIYTREUGphQXl0dEtqajd4V01MQ2Fha0tz?oc=5",
+      "source": ""
     },
     {
       "title": "전직 경찰 간부, 위조 번호판 단 캠리 차량 절도 연루 혐의로 체포",
       "summary": "- 전직 경찰 간부가 도난 차량을 불법 개조하려 한 혐의로 체포됨.\n- 용의자는 차량을 담보로 받았다고 주장하며 도난 사실을 몰랐다고 진술함.\n- 경찰은 용의자를 상대로 추가 수사를 진행 중.",
       "full_translated": "전직 경찰 간부가 위조 번호판을 단 캠리 차량과 함께 체포되었습니다. 용의자는 차량이 도난당한 차량이라는 사실을 몰랐다고 주장하며, 다른 사람으로부터 담보로 받았다고 진술했습니다.\n\n경찰은 2019년 2월 21일에 도난 신고된 차량을 추적하던 중 용의자를 발견했습니다. 용의자는 차량을 분해하여 부품을 판매하려 한 것으로 보입니다. 용의자는 현재 공문서 위조 및 장물 취득 혐의로 기소되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 대상 범죄는 아니지만, 경찰 간부 연루 사건이므로 치안 관련 간접적 영향이 있을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "깐차나부리",
-        "price": null,
-        "location_google_map_query": "깐차나부리"
-      },
+      "event_info": "{'date': None, 'location': '깐차나부리', 'price': None, 'location_google_map_query': '깐차나부리'}",
       "references": [
         {
           "title": "จับร้อยตำรวจเอก พร้อมคัมรี่ป้ายแดงปลอม รถถูกขโมยมา อ้างไม่รู้ รับจำนำต่อมาอีกทอด",
@@ -28171,21 +28163,18 @@
       ],
       "collected_at": "18:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AsY2JiFGU2mBJ.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/crime/2915639",
+      "source": ""
     },
     {
       "title": "아누틴 총리, '프라 나콘 키리-므앙 펫' 행사 개막 전 따이홍 사당 참배",
       "summary": "- 아누틴 총리는 2069년 2월 21일 저녁, 펫차부리에서 열리는 '프라 나콘 키리-므앙 펫' 행사에 참석하기 전 따이홍 사당에서 참배했습니다.\n- 이 행사는 펫차부리의 중요한 문화 유산을 기념하고 관광을 장려하기 위해 개최됩니다.\n- 2069년 춘절 기간 동안 포텍텽 재단은 2월 16일부터 25일까지 행사를 개최하며, 루앙푸 따이홍에게 경의를 표하고 새해의 행운을 기원합니다.",
       "full_translated": "아누틴 총리, '프라 나콘 키리 – 므앙 펫' 행사 개막 전 따이홍 사당 참배\n\n2069년 2월 21일, 아누틴 총리는 방콕 플랍플라차이의 포텍텽 재단 따이홍 사당에서 루앙푸 따이홍에게 경의를 표하고 춘절을 맞아 공익 자금 기부에 참여했습니다. 이후 저녁에는 펫차부리로 이동하여 프라 나콘 키리 국왕 기념 공원에서 열리는 제39회 '프라 나콘 키리 – 므앙 펫' 행사에 참석할 예정입니다. 이 행사는 펫차부리의 관광을 장려하고 중요한 문화 유산을 기념하기 위해 개최됩니다.\n\n포텍텽 재단의 2069년 춘절 행사는 2월 16일부터 25일까지 진행됩니다. 재단은 모든 신도와 대중에게 루앙푸 따이홍에게 경의를 표하고 새해의 행운을 빌며, 가족의 행복과 번영을 기원하는 의식에 참여하도록 초대합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 춘절 행사 정보는 여행자에게 유용한 정보가 될 수 있으며, 특히 펫차부리 지역 방문 예정인 여행객에게 도움이 될 수 있습니다.",
-      "event_info": {
-        "date": "2069-02-21",
-        "location": "ศาลเจ้าไต้ฮงกง มูลนิธิป่อเต็กตึ๊ง, อุทยานเฉลิมพระเกียรติพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว พระนครคีรี (따이홍 사당, 프라 나콘 키리 국왕 기념 공원)",
-        "price": "무료",
-        "location_google_map_query": "따이홍 사당, 펫차부리 프라 나콘 키리 국왕 기념 공원"
-      },
+      "event_info": "{'date': '2069-02-21', 'location': 'ศาลเจ้าไต้ฮงกง มูลนิธิป่อเต็กตึ๊ง, อุทยานเฉลิมพระเกียรติพระบาทสมเด็จพระจอมเกล้าเจ้าอยู่หัว พระนครคีรี (따이홍 사당, 프라 나콘 키리 국왕 기념 공원)', 'price': '무료', 'location_google_map_query': '따이홍 사당, 펫차부리 프라 나콘 키리 국왕 기념 공원'}",
       "references": [
         {
           "title": "นายกฯ อนุทิน ไหว้ศาลเจ้าไต้ฮงกง ก่อนไปเปิดงาน “พระนครคีรี – เมืองเพชร” เย็นนี้",
@@ -28196,6 +28185,108 @@
       ],
       "collected_at": "18:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ApkguzQmo6Ilq.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/politic/2915641",
+      "source": ""
+    },
+    {
+      "title": "파타야 뮤직 페스티벌 2026, 3월 매주 주말 개최",
+      "summary": "- 파타야의 주요 행사로, 4주 동안 다양한 무대와 아티스트 라인업 제공.\n- 2026년 3월 6일부터 28일까지 매주 주말 다른 장소에서 진행 (파타야 해변, 좀티엔 해변, 코 란, 나클루아 공원).\n- 모든 행사 무료로, 현지인, 관광객, 가족 모두에게 접근성 높음.",
+      "full_translated": "파타야 이벤트 일정의 주요 하이라이트로 조직된 이 페스티벌은 4주 동안 다양한 무대를 통해 논스톱 엔터테인먼트를 약속하며 다양한 아티스트 라인업을 선보입니다. 이 행사는 무료로 참석할 수 있어 현지인, 관광객 및 가족 모두에게 접근성이 높습니다. 다음은 전체 장소 일정입니다.\n\n– 1주차: 2026년 3월 6~7일 — 파타야 해변 (중앙 해변 무대, 주요 산책로를 따라 군중과 함께 시리즈 시작).\n– 2주차: 2026년 3월 13~14일 — 좀티엔 해변 (편안한 남쪽 해변 분위기).\n– 3주차: 2026년 3월 20~21일 — 코 란 (섬 낙원 설정, 경치 좋은 연안 반전 추가).\n– 4주차: 2026년 3월 27~28일 — 란 포 공원, 나클루아 (나클루아 지역의 녹지 공간).\n\n이 축제는 다양한 취향에 맞게 인기 있는 태국 팝, 록, 힙합 및 기타 장르의 혼합을 선보일 예정입니다. 파타야는 해변에서의 휴식과 세계적 수준의 이벤트를 결합하여 태국의 최고의 \"페스티벌 도시\"이자 일상적인 목적지로 자리매김하고 있습니다. 올해 에디션은 방문객들이 별빛 아래에서 음악, 바닷바람, 열대 분위기를 즐길 수 있는 재미있고 가족 친화적인 장소로서 도시의 매력을 강화합니다. 달력에 표시하고 준비하세요. 파타야가 부르고 있습니다! 오랜 팬이든 잊을 수 없는 밤을 보내고 싶든 파타야 뮤직 페스티벌 2026은 바닷가 3월에 완벽한 사운드트랙을 제공합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 열리는 대규모 축제 정보로, 여행객에게 유용한 정보 제공. 특히 음악을 좋아하는 여행객에게 높은 관심사. 2026년이라는 미래의 이벤트 정보이긴 하지만, 미리 계획하는 여행객에게는 도움이 될 수 있다.",
+      "event_info": {
+        "date": "2026-03-06 ~ 2026-03-28 (매주 주말)",
+        "location": "파타야 해변, 좀티엔 해변, 코 란, 나클루아 공원",
+        "price": "무료",
+        "location_google_map_query": "Pattaya Beach, Jomtien Beach, Koh Larn, Lan Pho Public Park Naklua"
+      },
+      "references": [
+        {
+          "title": "Pattaya Music Festival 2026 Arrives Every Weekend in March",
+          "url": "https://thepattayanews.com/2026/02/21/pattaya-music-festival-2026-arrives-every-weekend-in-march/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17716739006397068173601778579508.jpg?v=1771675763"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17716739006397068173601778579508.jpg?v=1771675763",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "방콕 람캄행 지역에서 '웃음 가스' 500통 숨긴 중국인 체포",
+      "summary": "- 방콕 람캄행 지역의 한 주택에서 100만 바트 상당의 웃음 가스 500통을 숨긴 중국인이 체포됨.\n- 경찰은 온라인을 통해 주문한 고객에게 배송하려던 용의자를 현장에서 체포.\n- 용의자는 해외 자본가를 위해 상품을 관리하고 배송하는 역할을 맡았으며 월 3만 바트를 받았다고 진술.",
+      "full_translated": "태국 경찰은 람캄행 지역의 한 주택에서 100만 바트가 넘는 가치의 '웃음 가스'(아산화질소) 500통을 숨긴 중국인 남성 바이 창보(54세)를 체포했습니다. 그는 세관을 거치지 않고 왕국 내로 반입된 물품을 숨기고, 판매하고, 운반하거나, 처분한 혐의를 받고 있습니다. 경찰은 그가 온라인 채널을 통해 상품을 주문한 고객에게 배송하려던 중 체포되었으며, 그는 해외에 있는 자본가를 위해 상품을 관리하고 배송하는 역할을 맡았으며 월 3만 바트를 받았다고 진술했습니다. 이번 체포는 지난 1월 대규모 웃음 가스 밀수 및 판매 조직을 체포한 후 지속적인 수사 확대로 이뤄졌습니다. 경찰은 해당 남성이 람캄행 지역에 상품을 보관하고 온라인으로 주문한 고객에게 오토바이로 배달한다는 정보를 입수하여 수색 영장을 발부받아 체포했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "범죄 관련 뉴스이지만, 특정 지역에서 발생했으며, 여행객에게 직접적인 위협을 가하는 종류의 범죄는 아니므로 중간 점수 부여. 다만, 방콕 특정 지역에서 발생한 사건이므로 인지할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "람캄행, 방콕",
+        "price": null,
+        "location_google_map_query": "람캄행 방콕"
+      },
+      "references": [
+        {
+          "title": "จับจีนเทา ซุกแก๊สหัวเราะ 500 ถัง มูลค่ากว่า 1 ล้านบาท คาบ้านย่านรามคำแหง",
+          "url": "https://www.thairath.co.th/news/crime/2915647",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Apktl31t0pC4O.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Apktl31t0pC4O.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "내일 재투표 시 주목해야 할 5가지: 2월 8일 투표와 달라진 점은?",
+      "summary": "- 시민들에게 내일(22일) 재투표에서 5가지 사항을 주시할 것을 촉구.\n- 투표용지 바코드, 유권자 대기열, 투표 절차 등을 8일 투표와 비교.\n- 부정 선거 의혹 해소를 위해 투명하고 공정한 절차 준수 강조.",
+      "full_translated": "2월 21일, 파릿 와차라신투 민중당 대변인은 내일(22일) 재투표에 대한 성명을 발표했습니다. 그는 모든 시민에게 일부 지역(예: 방콕, 선거구 15, 투표소 9)에서 진행될 재투표를 면밀히 관찰하고 주시할 것을 요청했습니다. 만약 선거관리위원회가 지난 2월 8일 총선이 모든 면에서 정확하고 '비밀'리에 진행되었다고 주장한다면, 2월 22일 일요일에 우리가 보게 될 것은 2월 8일에 보았던 모든 것과 똑같아야 합니다. 즉, 1. 투표용지는 이전과 동일한 바코드/QR 코드를 가지고 있어야 합니다. 최소한 하원 의원 명부(분홍색) 투표용지는 각 투표용지마다 다른 바코드를 가지고 있어야 하며, '책 번호' 또는 '투표소 번호'뿐만 아니라 특정 '투표용지 코드'를 식별할 수 있어야 합니다. 2. 공무원으로부터 투표용지를 받을 때, 투표하러 가는 시민들은 자신이 받은 투표용지 원본에 있는 '투표용지 코드'(예: Axxxxx0001)를 볼 수 있어야 합니다. 3. 투표용지를 받기 위해 두 사람이 줄을 서 있다면, 두 사람의 원본에 있는 '투표용지 코드'는 순서대로 배열된 코드 또는 숫자여야 합니다(예: Axxxxx0001 & Axxxxx0002). 4. 공무원으로부터 투표용지를 받을 때, 공무원은 투표용지를 받는 사람의 '순서'(투표자 명부 순서, 투표용지 수령 순서 아님)를 원본에 적습니다. ... 5. 투표소에서 투표를 집계할 때, 공무원은 시민들 앞에서 투표용지를 들어 올려 득표수를 불러야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 총선 관련 재투표 진행 상황에 대한 정보 제공. 정치적 상황에 대한 인식을 높일 수 있지만, 여행 자체에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2024-02-22",
+        "location": "태국 일부 지역 (예: 방콕 15 선거구 9 투표소)",
+        "price": null,
+        "location_google_map_query": "방콕 15 선거구"
+      },
+      "references": [
+        {
+          "title": "“พริษฐ์” ชวนจับสังเกต 5 อย่าง ลงคะแนนใหม่พรุ่งนี้ เปลี่ยนไปจาก 8 ก.พ. หรือไม่",
+          "url": "https://www.thairath.co.th/news/politic/2915648",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AplJRHRTMpBUn.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AplJRHRTMpBUn.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "송클라, 강아지 학대 용의자 체포 명령. 경찰, 수사 속도 가속화",
+      "summary": "- 경찰청장, 송클라 지역에서 발생한 강아지 '몰리' 학대 사건의 용의자 체포를 명령.\n- 2월 13일, 용의자는 강아지에게 기름을 붓고 불을 질러 학대했으며, 강아지는 결국 사망.\n- 경찰은 법 집행을 강화하고, 사건의 진실을 밝히기 위해 수사를 신속하게 진행할 것을 강조.",
+      "full_translated": "경찰청장은 송클라 지역에서 발생한 강아지 '몰리' 학대 사건의 용의자 체포를 명령했습니다. 2024년 2월 21일, 경찰청 부대변인 차이트팟 수완나락은 이번 사건이 국민들에게 큰 충격을 주었으며 언론의 관심이 집중되었다고 밝혔습니다. 용의자는 2024년 2월 13일 송클라에서 시베리안 허스키 종의 강아지 '몰리'에게 기름을 붓고 불을 질러 학대했습니다. 강아지는 이후 사망했습니다. 경찰청장 킷랏 판펫은 경찰청 9지방경찰청장과 송클라 경찰청장에게 수사를 면밀히 감독하고, 법 집행의 효율성을 높이며, 사건의 진실을 밝히기 위해 용의자 체포에 속도를 낼 것을 지시했습니다. 이는 경찰청의 지침에 따른 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "동물 학대 사건이지만, 여행객 안전에 직접적인 위협은 아님. 다만, 지역 사회의 치안 문제와 관련될 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2024-02-13",
+        "location": "สงขลา (Songkhla)",
+        "price": null,
+        "location_google_map_query": "Songkhla, Thailand"
+      },
+      "references": [
+        {
+          "title": "ผบ.ตร. กำชับเร่งสืบสวน ติดตามจับกุมคนร้ายทารุณกรรมสุนัข “น้องมอลลี่” ในพื้นที่ จ.สงขลา",
+          "url": "https://www.thairath.co.th/news/society/2915644",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Apkvy5l9rXOUF.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Apkvy5l9rXOUF.jpg",
       "date": "2026-02-21"
     }
   ]
