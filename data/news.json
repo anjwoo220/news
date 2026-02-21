@@ -28657,14 +28657,9 @@
       "summary": "- 태국에서 미국인 관광객이 칼에 찔려 사망하는 사건 발생.\n- 사건 발생 장소 및 자세한 경위는 조사 중.\n- 태국 여행 시 안전에 대한 주의가 요구됨.",
       "full_translated": "태국에서 미국인 관광객이 칼에 찔려 사망하는 사건이 발생했습니다. 현재 사건 발생 장소와 자세한 경위는 조사 중에 있습니다. 이번 사건으로 인해 태국을 여행하는 관광객들의 안전에 대한 우려가 커지고 있으며, 여행 시 개인 안전에 대한 각별한 주의가 요구됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "외국인 관광객 대상 강력 범죄 발생. 여행 안전에 직접적인 영향.",
-      "event_info": {
-        "date": null,
-        "location": "미상",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '미상', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "태국에서 미국인 관광객 칼에 찔려 사망",
@@ -28672,22 +28667,20 @@
           "source": "Bangkok Post"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-02-22"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "https://www.example.com/american-tourist-killed",
+      "source": ""
     },
     {
       "title": "파타야 해변 노숙자의 부적절한 행동에 관광객 충격, 강력한 법 집행 요구",
       "summary": "- 파타야 해변에서 노숙자의 부적절한 행동이 관광객들에게 충격을 줌.\n- 관광객들은 더욱 엄격한 법 집행을 요구하고 있음.\n- 노숙자 문제 해결을 위한 당국의 적극적인 대응이 필요.",
       "full_translated": "파타야 해변에서 발생한 노숙자의 부적절한 행동이 관광객들에게 충격을 주고 있으며, 보다 엄격한 법 집행을 요구하는 목소리가 높아지고 있습니다. 관광객들은 이러한 문제가 파타야의 이미지에 부정적인 영향을 미칠 것을 우려하며, 당국의 적극적인 개입과 해결책 마련을 촉구하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변의 치안 및 관광 이미지에 영향을 미치는 사건으로, 여행객 안전과 관련된 우려를 야기하므로.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Pattaya 해변 노숙자의 부적절한 행동, 관광객 충격 및 강력한 법 집행 요구",
@@ -28695,22 +28688,20 @@
           "source": "Pattaya News"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-02-22"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "https://www.example.com/pattaya-homeless-behavior",
+      "source": ""
     },
     {
       "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
       "summary": "- 파타야에서 구걸하는 외국인 수가 증가하여 문제가 되고 있음.\n- 일부는 강제 추방 후 재입국하는 사례도 발생하고 있음.\n- 관광객들에게 부정적인 인상을 줄 수 있어 대책 마련이 필요함.",
       "full_translated": "파타야에서 외국인 구걸 문제가 심각해지고 있으며, 심지어 강제 추방되었던 외국인이 재입국하여 구걸하는 사례까지 발생하고 있습니다. 이는 파타야를 방문하는 관광객들에게 좋지 않은 인상을 줄 수 있으며, 도시의 이미지에도 악영향을 미칠 수 있습니다. 따라서 관련 당국의 적극적인 대처가 요구됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야의 치안 및 관광 이미지에 영향을 미치는 문제로, 여행객들에게 불쾌감을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
@@ -28718,22 +28709,20 @@
           "source": "Pattaya Mail"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-02-22"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "https://www.example.com/pattaya-beggars",
+      "source": ""
     },
     {
       "title": "China Airlines, 태국 관광청과 북미 대상 2026년 특별 프로모션 발표",
       "summary": "- China Airlines와 태국 관광청이 북미 여행객을 위한 2026년 특별 프로모션을 발표했습니다.\n- 해당 프로모션은 태국 여행을 장려하고, China Airlines의 북미-태국 노선 이용객 증가를 목표로 합니다.\n- 프로모션의 구체적인 내용은 아직 공개되지 않았으나, 항공권 할인 및 다양한 혜택이 포함될 것으로 예상됩니다.",
       "full_translated": "China Airlines와 태국 관광청이 북미 시장을 대상으로 2026년 특별 프로모션을 발표했습니다. 이 프로모션은 태국 관광 활성화와 China Airlines의 북미-태국 노선 이용객 증대를 목표로 합니다. 프로모션의 구체적인 내용은 아직 공개되지 않았으나, 항공권 할인 및 다양한 혜택이 포함될 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 관련 프로모션 정보로, 여행 계획에 참고할 만한 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China Airlines and Tourism Authority of Thailand Highlight Exclusive 2026 Promotion for North American - EIN News",
@@ -28741,22 +28730,20 @@
           "source": "EIN News"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-02-22"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYktmSVJ1S1VfMmZUMHlHTmRaY3FCd1Iwb0luZUVXQXN6ZHVHVTNGN2FaVUFZeWhQVGlxM2M5TDFrVXlmekR6RzdnZlZycEhQTE5GY055Z252MGVRUTZWa3k5QUx2RXNxOXlDUVNncjBrUU1FVkxJTHpaSjBFdkJHcWhhVjlQNWVwUVFmTTVBRl9ILThzY3BPeDRWUWpVSWMxbUdaM3ZoZjAtMS1RcnRPOHJTMHktU0JsN1pQM0ZLMXNBbm5Yc1NNUkU2MUI5ck5Xa3JkX3VVM3VqMzJpMlI4aGFzUXhkajh4dmthNEFSOA?oc=5",
+      "source": ""
     },
     {
       "title": "트럼프, 전 세계 상품에 대한 관세 10%에서 15%로 인상 발표",
       "summary": "- 도널드 트럼프 전 미국 대통령이 Truth Social을 통해 관세 인상 발표\n- 기존 10%에서 15%로 인상, 2월 24일부터 시행 예정\n- 미국 대법원의 이전 관세 조치 폐지에 대한 반발로 풀이됨",
       "full_translated": "도널드 트럼프 대통령은 2월 21일 (토) Truth Social에 게시물을 통해 화요일 발표한 새로운 조치에 따라 전 세계에서 수입되는 상품에 대한 관세율을 10%에서 15%로 인상할 것이라고 발표했습니다. 또한 금요일에 이전 수입세 조치를 취소한 대법원 판결에 대한 공격을 계속했습니다. 트럼프는 1974년 무역법 122조에 따라 미국으로 수입되는 모든 상품에 대해 10%의 관세를 부과할 것이라고 말했습니다. 대법원이 대통령에게 관세율을 설정할 권한을 부여하지 않았다고 판결한 '국제 비상 경제 권한법'(IEEPA)을 대체합니다. 그러나 토요일 트럼프는 Truth Social을 통해 화요일 2월 24일부터 해당 비율을 15%로 인상할 것이라고 발표했습니다. 122조에 따라 해당 조치는 정부가 계속 진행하기 위해 의회의 승인을 요청하기 전에 150일 동안만 시행될 수 있습니다. 트럼프 대통령은 “면밀하고 철저하며 완전한 검토를 통해 미국 대법원이 어제 내린 관세에 대한 터무니없고 형편없이 작성되었으며 반미적인 태도를 반영한 판결”에 대해 언급했습니다. “이 성명은 미국 대통령으로서 제가 수십 년 동안 미국을 '약탈'해 온 세계 여러 나라로부터 10%의 관세를 인상할 것이라고 발표하는 것입니다.”",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "미국으로 여행 또는 사업을 하는 경우, 상품 가격 상승에 영향을 줄 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ประกาศ เพิ่มอัตรากำแพงภาษีใหม่ จาก 10 เป็น 15%",
@@ -28765,8 +28752,83 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqeIU5mR5rlC1.jpg"
         }
       ],
-      "collected_at": "00:19",
+      "collected_at": "0:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqeIU5mR5rlC1.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915669",
+      "source": ""
+    },
+    {
+      "title": "파타야, 지역 주민과의 포럼 개최: 반 끄라복 33 지역의 문제 해결 및 2026년 개발 계획 논의",
+      "summary": "- 파타야 시는 지역 사회 포럼 및 2026년 지역 사회 개발 계획 프로젝트의 일환으로 포럼을 개최함.\n- 반 끄라복 33 지역 주민들은 공공 인프라 개선, 마약 문제 해결, 안전 강화 등 다양한 문제를 제기함.\n- 파타야 시 관계자는 주민들의 의견을 수렴하여 삶의 질을 향상시키고 지속 가능한 지역 사회 개발을 추진할 계획임.",
+      "full_translated": "파타야 시는 반 끄라복 33 지역에서 제9회 커뮤니티 포럼을 개최하여 지역 주민들의 우려 사항을 해결하고 2026년 개발 계획을 논의했습니다. \n\n이번 회의에는 파타야 시의회 의원, 부시 서기, 관련 정부 기관장, 다양한 부서 대표가 참석했습니다. 많은 반 끄라복 33 지역 주민들과 지역 사회 지도자들이 토론에 참여했습니다. 촌부리 지방 행정 기구 의회 의원인 나콘 폴 룩 인도 참관하고 의견을 경청하기 위해 참석했습니다.\n\n이번 포럼은 파타야 시가 진행 중인 커뮤니티 포럼 및 2026년 커뮤니티 개발 계획 프로젝트의 일환으로 조직한 일련의 포럼 중 아홉 번째입니다. 이는 각 지역 주민들이 문제를 제기하고, 자유롭게 의견을 공유하며, 시 당국에 직접 어려움, 장애물 및 제안을 강조할 수 있는 공개 플랫폼을 제공하기 위함입니다. 우리는 지난 주, 특히 소이 식스 교통 문제와 워킹 스트리트 문제에 대한 논의와 같이 더 큰 관광 주도 지역에서 이러한 포럼을 많이 다루었습니다. \n\n이번 세션에서 제기된 주요 주제에는 기본적인 공공 인프라 개선, 지역 사회 내 마약 문제 퇴치 방안, 생명과 재산에 대한 안전 강화, 그리고 주민들이 정부가 즉시 해결할 것을 촉구한 기타 시급한 어려움이 포함되었습니다.\n\n파타야 시 관계자는 참가자로부터 수집된 모든 피드백, 제안 및 제안을 수집하기 위해 노력했습니다. 이는 주민들의 삶의 질을 향상시키고 지속 가능하고 안정적인 지역 사회 개발을 추진한다는 목표로 신중하게 검토되어 구체적인 실행 계획에 통합될 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야 지역 사회의 문제 해결 및 개발 계획에 대한 논의는 여행객에게 간접적인 영향을 미칠 수 있으며, 지역 사회의 안정과 개선은 여행 환경에도 긍정적인 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "Ban Krabok 33, Pattaya",
+        "price": null,
+        "location_google_map_query": "Ban Krabok 33 Pattaya Thailand"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Holds 9th Community Forum in Ban Krabok 33 to Address Local Concerns and Plan 2026 Development",
+          "url": "https://thepattayanews.com/2026/02/21/pattaya-city-holds-9th-community-forum-in-ban-krabok-33-to-address-local-concerns-and-plan-2026-development/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_177167942224324001312873823396.jpg?v=1771679465"
+        }
+      ],
+      "collected_at": "00:48",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_177167942224324001312873823396.jpg?v=1771679465",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "일본 관광, 한국인 방문객 증가로 기록 경신 - Travel And Tour World",
+      "summary": "- 한국이 중국, 태국, 미국, 싱가포르, 호주, 필리핀 등을 제치고 일본 관광객 수에서 새로운 기록을 세웠습니다.\n- 이는 일본 관광 산업에 중요한 이정표가 될 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "대한민국이 중국, 태국, 미국, 싱가포르, 호주, 필리핀 및 기타 여러 국가를 제치고 기록적인 도착 및 수요로 일본 관광의 이정표를 세웠습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "일본 여행 관련 소식이지만, 태국 여행객에게 직접적인 영향은 적으므로 중간 점수 부여. 한국인 여행객에게 일본 여행에 대한 관심이 높을 수 있다는 점을 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Surpasses China, Thailand, United States, Singapore, Australia, Philippines, And A Range Of Other Countries To Set Japan’s Tourism Milestone With Record Breaking Arrivals And Demand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPcXgwSHRTNXVhbjRRWjBtSHNHRi1uSF9TRGFNeE5HQm1SSndySUotSU5MZ1BLMnY5NWJ0Q282b1BiTU5iUTdWOW1JdzdRUkJZd3l5eUx4QlE5M2JQdlhnWEZrWm00LVNmUWNPYU1RTXZnc0VBZklIVThEOFJPSVR1LWl1bUNaRnFTcmV5MlVwa2czTkQ2SnZlY3RmMkpQOEEtTFpjRF9IZ1YtUUhMLWJtMEkzZE9uellkT3FlTDFlenhYNTRUSVhmWjJCaUV4WGNlTHgwdUx0QTkwV3Jvam5NNHNCaDlUVUc3UUF2YTRTekRjdGVmcVpDREFCdGQ5em9rNnBmS2hyeW56UFpQWnMzWTd4SUUyYm9TaGRNQk5kc29wYWtsNmlqQ1JZZ082TVNqVXdvNDNWWTFKVWoxWVZLRC1XbW5fQ0NoUFhzWFh5U201TW9x?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "00:48",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "인도에서 흑마술 혐의로 모녀 화형 사건 발생",
+      "summary": "- 인도에서 한 여성과 그녀의 10개월 된 아기가 흑마술을 행했다는 혐의로 마을 주민들에 의해 산 채로 불태워졌습니다.\n- 피해 여성의 남편도 화상을 입고 병원에서 치료 중입니다.\n- 경찰은 살인 및 범죄 공모 혐의로 4명을 체포했으며, 추가 관련자를 조사 중입니다.",
+      "full_translated": "인도에서 한 여성과 아기가 흑마술을 행했다는 혐의로 마을 주민들에 의해 산 채로 불태워졌습니다. 이 사건은 인도 동부 자르칸드 주에서 발생했으며, 경찰은 현재 용의자 4명을 체포했습니다. 사망한 여성은 조티 싱쿠(Jyoti Sinku)로, 그녀의 10개월 된 아들과 함께 화형을 당했습니다. 피해 여성의 남편 역시 공격을 받아 심각한 화상을 입고 병원에서 치료를 받고 있습니다. 경찰은 추가 관련자를 추적하고 있으며, 체포된 용의자들에게는 살인 및 범죄 공모 혐의가 적용되었습니다. 인도 국가범죄기록국에 따르면 2000년부터 2016년 사이에 인도에서 흑마술이나 마녀로 의심받아 살해된 사람은 2,500명이 넘으며, 대부분 여성입니다. 이번 사건은 자르칸드 주와 인접한 비하르 주에서 한 가족 5명이 흑마술 혐의로 잔인하게 살해당하고 불태워진 지 불과 몇 달 만에 발생했습니다. 이러한 사건은 주로 소외된 민족 공동체가 거주하는 지역에서 발생하며, 미신에 대한 믿음이 강하고 공공 의료 시스템이 부족하여 주민들이 질병 치료를 위해 돌팔이 의사에게 의존하는 경향이 있습니다. 이번 살인 사건은 약 50채의 흙집으로 이루어진 외딴 민족 공동체인 쿠드사이 마을에서 발생했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "여행 안전에 직접적인 영향은 없으나, 특정 지역의 치안 및 문화적 특성을 간접적으로 보여주는 뉴스. 다만, 여행객에게 미치는 영향은 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ช็อก แม่-ทารกอินเดีย ถูกเผาทั้งเป็น ถูกกล่าวหาฝึกมนต์ดำ",
+          "url": "https://www.thairath.co.th/news/foreign/2915667",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqdpkJgSqDQso.jpg"
+        }
+      ],
+      "collected_at": "00:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqdpkJgSqDQso.jpg",
       "date": "2026-02-22"
     }
   ]
