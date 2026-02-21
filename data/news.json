@@ -28282,14 +28282,9 @@
       "summary": "- 방콕에서 '난폭한 젊은이'가 차량 문제로 총을 쏜 사건 발생. 피해자 추가 신고.\n- 피해자는 얼음 공장 직원으로, 커피를 마시던 중 총에 맞았다고 진술.\n- 용의자는 과거 얼음 가게 주인을 폭행한 전력이 있는 동일 인물로 추정.",
       "full_translated": "방콕에서 '난폭한 젊은이' 총격 사건의 피해자가 추가로 신고했습니다. 피해자는 자신이 얼음 공장에서 일하며, 커피를 마시던 중 용의자가 다가와 총을 3발 쐈다고 진술했습니다. 총알은 팔을 스쳤습니다. 용의자는 얼음 공장 트럭이 자신의 차량을 막았다고 주장했지만, 오해였다며 사과하고 도주했습니다. 피해자는 용의자가 과거 60세의 얼음 가게 주인을 폭행한 사건과 동일인물이라고 밝혔습니다. 경찰은 용의자를 추적 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "총기 사건은 여행객의 안전에 잠재적 위협이 될 수 있으므로 중간 점수 부여. 범죄 발생 지역을 여행 시 주의가 필요함.",
-      "event_info": {
-        "date": "2024-02-21",
-        "location": "방콕, Bang Bua Thong 지역 얼음 공장",
-        "price": null,
-        "location_google_map_query": "Bang Bua Thong 얼음 공장"
-      },
+      "event_info": "{'date': '2024-02-21', 'location': '방콕, Bang Bua Thong 지역 얼음 공장', 'price': None, 'location_google_map_query': 'Bang Bua Thong 얼음 공장'}",
       "references": [
         {
           "title": "เหยื่อ \"หนุ่มกร่าง\" โผล่แจ้งความเพิ่ม ถูกชักปืนยิงใส่ กระสุนเฉี่ยวแขน",
@@ -28300,21 +28295,18 @@
       ],
       "collected_at": "20:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AplMR7VKffOpK.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/crime/2915649",
+      "source": ""
     },
     {
       "title": "파타야 좀티엔 해변, 2026 파타야 오징어 축제 성황리에 개최",
       "summary": "- 파타야 시와 지역 주요 인사들이 개막식에 참석, 축제 목표 발표.\n- 신선한 해산물, 지역 특산품, 지역 사회 제품을 판매하는 다양한 부스 운영.\n- 전통 어업 민속을 예술적으로 표현하는 코란 기업의 예술 워크숍, 요트 시연, 민속 공연 등 다채로운 행사 진행.",
       "full_translated": "파타야 오징어 축제 2026이 좀티엔 해변에서 성황리에 개최되었습니다. 개막식에는 파타야 시와 촌부리 지역의 주요 인사들이 참석하여 자리를 빛냈습니다. 추티마 지라몽콜 파타야 시 사업 및 관광 협회장은 행사 목표에 대한 보고를 했습니다. 위타야 쿤플롬 촌부리 지방 행정기구 회장은 공식 개막을 선언했습니다. 축제에는 신선한 해산물, 지역 특산물, 지역 사회 제품을 판매하는 다양한 부스가 마련되어 있습니다. 주요 행사로는 코란 기업에서 주관하는 예술 워크숍이 있으며, 전통 어업 민속을 예술적 표현으로 선보입니다. 태국 요트 협회와 파타야 요트 협회는 요트 시연을 선보였으며, 젊은 공연자들은 민요를 연주하여 관객들을 즐겁게 했습니다. 촌부리 지방 행정기구 회장과 파타야 시장은 특별 해산물 딥핑 소스 준비 시연을 했습니다. 방문객들은 신나는 Sea Fun Challenge 게임을 즐겼으며, 경품이 제공되어 해변 전체에 활기찬 분위기를 조성했습니다. 포라메세 응암피쳇 시장은 정부, 민간 부문, 지역 사회 구성원 간의 팀워크를 구축하여 문화 관광 활동을 지속적으로 개발하겠다는 파타야의 의지를 강조했습니다. 그는 파타야 오징어 축제 2026이 풀뿌리 경제 성장을 촉진하고 주민들에게 새로운 기회를 창출하기를 희망한다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 열리는 축제 정보는 여행객에게 유용하며, 다양한 볼거리와 즐길 거리를 제공한다. 2026년으로 날짜가 명시되어 있지만, 매년 개최되는 행사일 가능성이 있으므로 포함.",
-      "event_info": {
-        "date": "2026-02-21",
-        "location": "Jomtien Beach, Pattaya",
-        "price": "무료",
-        "location_google_map_query": "Jomtien Beach, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-21', 'location': 'Jomtien Beach, Pattaya', 'price': '무료', 'location_google_map_query': 'Jomtien Beach, Pattaya'}",
       "references": [
         {
           "title": "Pattaya Squid Fair 2026 A Big Hit on Jomtien Beach",
@@ -28325,21 +28317,18 @@
       ],
       "collected_at": "20:24",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img202602201743241504262646324100415.jpg?v=1771677952",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/21/pattaya-squid-fair-2026-a-big-hit-on-jomtien-beach/",
+      "source": ""
     },
     {
       "title": "태국, 연휴 맞아 중국인 관광객 맞이",
       "summary": "- 태국은 중국 춘절 연휴 기간 동안 중국인 관광객의 귀환을 환영하고 있습니다.\n- 이는 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다.\n- 태국 정부는 중국인 관광객 유치를 위해 다양한 정책을 시행하고 있습니다.",
       "full_translated": "태국은 중국 춘절 연휴 기간 동안 중국인 관광객의 귀환을 환영합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국인 관광객 증가는 태국 여행 환경에 영향을 미치므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand greets return of Chinese tourists in holiday rush - Xinhua",
@@ -28350,21 +28339,18 @@
       ],
       "collected_at": "20:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tQ2JEX21tYWJwcENwb09IZjZFdlVNX1Z0cHVBTVR5TDktZXRSNXNpUXp0VUotS0tqNkZld2tCWVdxSExRRWRqamJZZ25oal9ueHlyZHA0dFR4Wk9lTGIxdmhZbVJGa0NaZTFyRGQ0eE9hbS1ScmoxV2pqTkg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광지 호랑이 72마리, 바이러스 발생으로 폐사 - The Independent",
       "summary": "- 태국 관광 공원에서 사육 중인 호랑이 72마리가 바이러스 감염으로 폐사했습니다.\n- 해당 바이러스는 호랑이에게 치명적인 질병을 일으키는 것으로 알려졌습니다.\n- 관광객 안전 및 공원 위생에 대한 우려가 제기되고 있습니다.",
       "full_translated": "태국 관광 공원에서 바이러스가 발생하여 사육 중인 호랑이 72마리가 폐사했습니다. 해당 바이러스는 호랑이에게 치명적인 질병을 일으키는 것으로 알려져 관광객 안전 및 공원 위생에 대한 우려를 낳고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "동물원 또는 호랑이 관련 관광 상품을 이용하는 여행객에게 잠재적인 영향을 줄 수 있으며, 공원 방문 시 주의가 필요합니다. 야생 동물 관련 질병 발생은 여행객에게 간접적인 불안감을 유발할 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "Virus outbreak kills 72 captive tigers at Thailand tourist parks - The Independent",
@@ -28375,21 +28361,18 @@
       ],
       "collected_at": "20:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOGU4cUtxZ1VETkMzeXFrNlFmLWswUnNDYmxqZVNyWVZNUW1uVmNSSjZPR3lFNmgxNG5LTVZReWxxWXEyWWNIMlhRcHFVS0FZWUVMSmh1X3E1dGpmc29mdmZXWDRxeXNkRnM1SmRpZ2lHNlc1dEIta1Y5RWZiQjUyZXduZ3NveHNlWW1OS2dKUXhrRG5va3dBSWo0NzQzMXVN?oc=5",
+      "source": ""
     },
     {
       "title": "미국 관세 판결 후 태국에 '약간의 유예'",
       "summary": "- 미국 대법원이 트럼프 대통령의 긴급 권한을 통한 관세 부과에 제동을 걸었습니다.\n- 태국 수출업체와 경제학자들은 미국의 정책 명확성이 필요하다고 말합니다.\n- 트럼프 대통령은 수입 외국 상품에 10%의 글로벌 관세를 발표했습니다.",
       "full_translated": "미국 관세 문제는 이제 미국 대법원이 도널드 트럼프 대통령의 긴급 권한을 이용한 관세 부과를 무산시켰기 때문에 더욱 심화될 것으로 예상된다고 태국 수출업체와 경제학자들이 말합니다. 고등 법원은 금요일 6-3으로 트럼프 대통령이 보복 관세를 부과하기 위해 국제 비상 경제 권한법(IEEPA)을 사용한 것이 위헌이라는 하급 법원의 결정을 지지했습니다. 헌법에 따라 관세 부과 권한은 의회에 있다고 밝혔습니다. 판결은 IEEPA에 따라 부과된 관세에만 적용되며, 이는 작년에 수십 개의 미국 무역 파트너에게 새로운 세금이 부과된 이후 징수된 모든 관세 수입의 약 절반을 차지합니다. 미국은 2025년 8월 이후 태국 상품에 19%의 상호 관세를 부과했으며, 세율 인하를 목표로 협상이 진행 중입니다. 태국은 관세 인하 가능성에 대한 대가로 항공기, 무기, 에너지 및 농산물과 같은 특정 미국 제품을 구매할 것을 제안했습니다. 법원의 결정에 대응하여 트럼프 대통령은 이미 적용된 정상(非 IEEPA) 관세 외에도 수입 외국 상품에 대해 10%의 글로벌 관세를 발표했습니다. 백악관에 따르면 이 조치는 화요일부터 150일 동안 시행됩니다. 새로운 기준 관세는 무역법 122조에 따라 부과됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "미국 관세 정책 변화가 태국 수출에 미치는 영향. 여행객의 물가 및 상품 구매에 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘Little reprieve’ for Thailand after US tariff ruling",
@@ -28400,7 +28383,9 @@
       ],
       "collected_at": "20:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202365_260221190611_700.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/business/general/3202365/little-reprieve-for-thailand-after-us-tariff-ruling",
+      "source": ""
     }
   ]
 }
