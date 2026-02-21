@@ -29004,14 +29004,9 @@
       "summary": "- 러시아 바이칼 호수에서 중국인 관광객을 태운 미니버스가 침몰해 8명이 사망했습니다.\n- 사고는 미니버스가 얼음판을 뚫고 호수에 빠지면서 발생했습니다.\n- 러시아 당국은 사고 원인을 조사 중이며, 관광객들에게 안전에 유의할 것을 당부했습니다.",
       "full_translated": "러시아 당국은 지난 금요일 시베리아 바이칼 호수에 추락한 중국인 관광객을 태운 미니버스 사고로 사망한 사람들의 시신을 수습했다고 발표하고, 이 비극의 원인을 조사하고 있습니다. 2069년 2월 21일 토요일, 러시아 당국은 잠수부들이 금요일 미니버스가 얼음판을 뚫고 호수 바닥으로 가라앉은 후 시베리아 바이칼 호수에서 중국인 관광객 7명과 러시아인 운전기사 1명으로 구성된 사망자 8명의 시신을 수습했다고 밝혔습니다. 이고르 코브제프 이르쿠츠크 주지사는 \"희생자 가족과 친구들에게 깊은 애도를 표합니다\"라고 말했습니다. 그는 앞서 중국인 관광객 1명이 차량에서 탈출했다고 밝혔습니다. 바이칼 호수는 인기 있는 관광지이며, 최대 깊이가 1,642m인 세계에서 가장 깊은 호수입니다. 시베리아의 혹독한 겨울 동안 호수 표면은 종종 얼어붙고, 지난 몇 년 동안 여러 차례 치명적인 사고가 발생했습니다. 코브제프는 텔레그램 앱에 올린 메시지를 통해 버스가 금요일 3m 너비의 얼음 균열에 빠져 18m 깊이로 가라앉았다고 밝혔습니다. 이로 인해 잠수부들은 수색 작업에 수중 카메라를 사용해야 했습니다. 코브제프는 \"바이칼 호수의 얼음 위로 나가는 것은 금지되어 있을 뿐만 아니라 생명을 위협하는 행위라는 점을 다시 한번 상기시켜 드립니다.\"라며 관광객들에게 공식 허가를 받은 여행사만 이용할 것을 촉구했습니다. 그는 또한 관광객이...",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해외에서 발생한 사고 소식으로, 여행객 안전에 대한 경각심을 일깨우고 주의를 환기할 필요가 있습니다. 태국 관련 뉴스는 아니지만, 해외여행 안전 관련 정보로서 의미가 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "바이칼 호수, 러시아",
-        "price": null,
-        "location_google_map_query": "바이칼 호수"
-      },
+      "event_info": "{'date': None, 'location': '바이칼 호수, 러시아', 'price': None, 'location_google_map_query': '바이칼 호수'}",
       "references": [
         {
           "title": "รัสเซียพบแล้ว 8 ศพ มินิบัสนักท่องเที่ยวจีน จมก้นทะเลสาบไบคาล",
@@ -29020,23 +29015,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqS7ExQcwKRT.jpg"
         }
       ],
-      "collected_at": "02:24",
+      "collected_at": "2:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqqS7ExQcwKRT.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915671",
+      "source": ""
     },
     {
       "title": "파타야, 하루 외국인 입국자 13만 명 기록하며 활기: 태국, '고품질 관광' 추진으로 신뢰 구축",
       "summary": "- 파타야는 하루 외국인 입국자 수가 13만 명에 달하며 활기를 띠고 있음.\n- 태국은 '고품질 관광'을 추진하여 관광 산업에 대한 신뢰를 구축하고자 함.\n- 자세한 내용은 Pattaya Mail에서 확인할 수 있음.",
       "full_translated": "파타야는 하루 외국인 입국자 수가 13만 명에 달하며 활기를 띠고 있으며, 태국은 '고품질 관광'을 추진하여 신뢰를 구축하고 있습니다. Pattaya Mail에서 더 많은 정보를 얻으십시오.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야의 관광 현황 업데이트 및 태국 정부의 관광 정책 방향을 제시하므로 여행자에게 어느 정도 유용하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya bustles as foreign arrivals hit 130,000 a day, Thailand pushes ‘Quality Tourism’ to build confidence - Pattaya Mail",
@@ -29045,23 +29037,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:24",
+      "collected_at": "2:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNcjNGVWMtTVl4ZVpSZVdkWEJzZ3FYcEhKLWJaTjdCWFdYb29VWXpkQVAwUWlQbUJFRVRxME1aakcxcXRoWXJVSEFQQXNqM1JwYmtNYmg4U2lJcnIyOW9QZjgzRm55RkhoRHpiM1pxOURMYTI3Zkx2YXlMdEh4SUVOcjVUOGZQTkFFeUZ0RmFYSU96N3BqbnMteVpJNlg4dVU3aWV1cUhRN2RfRUpXMHBrbDZQSlpfRW1DYmp1R01WVjRoZ2wzQjJ2Rl9rSkpRMEFzLVRkWVh1WWdJeDJm?oc=5",
+      "source": ""
     },
     {
       "title": "싱가포르 마리나 베이, 디즈니 크루즈 라인과 협력하여 아시아 데뷔 기념 행사 개최 (태국, 말레이시아, 인도네시아, 베트남 시장 포함)",
       "summary": "- 싱가포르 마리나 베이가 디즈니 어드벤처의 아시아 데뷔를 기념하는 특별한 해안가 축제를 개최합니다.\n- 이번 행사는 싱가포르뿐 아니라 태국, 말레이시아, 인도네시아, 베트남 시장을 대상으로 합니다.\n- 디즈니 크루즈 라인과의 협력을 통해 더욱 풍성한 볼거리를 제공할 예정입니다.",
       "full_translated": "싱가포르 마리나 베이가 디즈니 어드벤처의 아시아 데뷔를 기념하기 위해 디즈니 크루즈 라인과 협력하여 화려한 해안가 축제를 개최합니다. 이번 행사는 싱가포르뿐만 아니라 태국, 말레이시아, 인도네시아, 베트남 시장을 대상으로 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "디즈니 관련 행사 정보는 가족 단위 여행객에게 흥미로운 요소이며, 태국 시장도 포함되어 있어 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "싱가포르 마리나 베이",
-        "price": "미정",
-        "location_google_map_query": "싱가포르 마리나 베이"
-      },
+      "event_info": "{'date': None, 'location': '싱가포르 마리나 베이', 'price': '미정', 'location_google_map_query': '싱가포르 마리나 베이'}",
       "references": [
         {
           "title": "Singapore Marina Bay And Disney Cruise Line Unite For A Spectacular Waterfront Celebration Ahead Of Disney Adventure’s Asia Debut In Singapore, Thailand, Malaysia, Indonesia, And Vietnam Markets - Travel And Tour World",
@@ -29070,8 +29059,69 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:24",
+      "collected_at": "2:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQTkhuQlZ3SGtfWXdTT09BQTZORllXTTJOWVNRRjVNdGJmS0RtdjlpU0UwTXhyRkE3WUQzMjM3ZVJpU0FBaU8xU2QyWWJNUXVvVFlRN0xtcDZ3ZDBIUkJQWHR2emh5UEZvdC1FU0xfMDhXU1ZEUERnbklBRl9sRjlTMW9aaVY3QmJ0blNCNGd5REk0R0ZmSGU0NlBBUW1YenBHYklBY0h0NDFMS3VKX2ktbkt5anNkd1llSDdIa0xEUHc3X19TM0dZdzhSTnpNX2Etal9Ja1JiLVhJcG4tQ2Z1aURXdVpRYTlVMDRrSVpvUGJsR3g0cWdXSUZaQk1rSFNkTVkzNlB4UDRlWk1ieXlMY0paZkNTRGpHdkJfc21WdWNTMWZPWXBvU01fWWpuMW9KQVZRWGI5VFY5amoyZ3AwZTI3SU9wN2lDT01hNWFjMkVjcFRwUXhz?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 인도인 대상 무비자 체류 기간 60일로 연장, 도착 비자 수수료 면제 - VisaHQ",
+      "summary": "- 태국 정부가 인도 관광객 유치를 위해 무비자 체류 기간을 30일에서 60일로 연장했습니다.\n- 도착 비자(VOA) 수수료도 면제하여 인도 여행객의 비용 부담을 줄였습니다.\n- 이 조치는 태국 관광 산업 활성화에 기여할 것으로 예상됩니다.",
+      "full_translated": "태국이 인도인 대상 무비자 체류 기간을 60일로 연장하고 도착 비자 수수료를 면제합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "인도 여행객 대상 비자 규정 변경은 여행 편의성을 크게 향상시키므로 높은 점수를 부여합니다. 비자 수수료 면제는 비용 절감 효과도 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Doubles Visa-Free Stay for Indians to 60 Days, Drops VOA Fee - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGxvYVRMYzM5TnMtdGVHNEpPaHVybk5mWDlNc1VoLXBBcUxDdTBKTVdhMTlzSmI2V0FId2t1X3RySm1tdlVhLS02a2dvTFNYTVY2YV8xWTltZ1B5UU1iTXFIcnNxNkU2WkxhYUJjdm4tZjd6Y1lqZEhkdzFkbHNsTGZTZGtpNlI2by1MVDZFSmVhd0stU24yRFl3T282cFlMVklmeW4zc0Q1dzNKLVJkMQ?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국에서 미국인 관광객 칼에 찔려 사망 (재확인)",
+      "summary": "- 기존 보도 재확인: 태국에서 미국인 관광객이 칼에 찔려 사망하는 사건 발생.\n- 사건의 새로운 진행 상황이나 추가 정보는 없음.\n- 여행객 안전에 대한 인식을 환기시키는 차원에서 포함.",
+      "full_translated": "기존에 보도된 내용과 동일합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전에 직접적인 영향을 미치는 사건이므로 포함. 기존 기사 재확인.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [],
+      "collected_at": "02:43",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야 해변 노숙자의 부적절한 행동에 관광객 충격, 강력한 법 집행 요구 (재확인)",
+      "summary": "- 기존 보도 재확인: 파타야 해변에서 노숙자의 부적절한 행동으로 관광객들이 충격을 받고 법 집행 강화 요구.\n- 새로운 업데이트는 없음.\n- 여행 시 주의를 요하는 사항이므로 포함.",
+      "full_translated": "기존 보도 내용과 동일합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광지 이미지를 훼손하고 잠재적 위험을 내포하므로 포함. 기존 기사 재확인.",
+      "event_info": {
+        "date": null,
+        "location": "Pattaya Beach",
+        "price": null,
+        "location_google_map_query": "Pattaya Beach"
+      },
+      "references": [],
+      "collected_at": "02:43",
       "date": "2026-02-22"
     }
   ]
