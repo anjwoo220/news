@@ -29392,14 +29392,9 @@
       "summary": "- 프랑스가 새로운 디지털 및 생체 인식 비자 시스템을 도입하여 태국을 포함한 아시아 국가 여행객에게 영향을 미칠 예정입니다.\n- 온라인 시스템을 통해 비자 신청 절차가 의무화됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "프랑스가 디지털 및 생체 인식 비자 요구 사항을 의무 온라인 시스템 하에 도입함에 따라 태국을 포함한 아시아 국가들이 영향을 받게 되었습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "프랑스 입국 시 비자 관련 규정 변경은 여행객에게 중요한 정보이므로 포함. 특히 디지털 및 생체 인식 정보 요구는 준비에 시간이 필요할 수 있으므로 높은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China Joins India, Thailand, Russia, Saudi Arabia, Kazakhstan, Bangladesh, And Other Asian Nations In Facing France’s New Digital And Biometric Visa Requirements Under Mandatory Online System - Travel And Tour World",
@@ -29408,23 +29403,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQNGd1WGxlODI3a0pQbHo1U0pvTkNKTmttek01Z2lhQS1CbWFwX2xsMVZpQ2haS2FYblhCVE1KMm9meXZPQm5xZUx6eUNLTmZpU1M2QmN0Z3hCd1h3d0hLTTV3OVRmS05zMkJRTGFYSUNDUjdiSEphb251QzF0MGdMWWZIRm9oTUxIX3JlS1Zrd1R3LXZKd0UyZDFRSkVHcy1VU1Z0MmR1UmNuYjNrZmY1MkFKVU9wTUtFdmdqdmRSUVdCMmtidDVLRkQ2dGVuZHRrOHJubWVxNTJnUlU1Wld4RG1jU0dVVmZBRXp2Sy1IQ3ZqdGIyRGRKbGRKdFNJRFUwNE04ZFBqLXR3LTJwbUVNOGpleXBBSS1VNldtOWNYWWVuRU9keWlfelFZeTlkZ1lUY2pRbDUxdkprQ1RENTJxd05Iem1hdFI3ekJsa0Y4Vnl5UUU?oc=5",
+      "source": ""
     },
     {
       "title": "캐나다, 정치적 불안정 및 보안 위협으로 태국 포함 다수 국가에 새로운 여행 주의보 발령",
       "summary": "- 캐나다가 정치적 불안정, 보안 위협, 시위 등으로 인해 태국을 포함한 여러 국가에 새로운 여행 주의보를 발령했습니다.\n- 해당 국가는 이탈리아, 멕시코, 사우디 아라비아, 남극, 파라과이 등이 포함됩니다.\n- 여행자들은 여행 전에 최신 정보를 확인하고 안전에 유의해야 합니다.",
       "full_translated": "캐나다가 정치적 불안정, 보안 위협 및 지속적인 시위로 인해 이탈리아, 멕시코, 태국, 사우디 아라비아, 남극, 파라과이 등을 포함한 여러 국가에 새로운 여행 주의보를 발령했습니다. 여행 및 관광 산업에 미치는 영향에 대한 추가 정보가 제공될 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행에 대한 캐나다의 여행 주의보 발령은 여행객 안전에 대한 잠재적 위협을 시사하므로 여행자들에게 정보를 제공할 필요가 있습니다. 새로운 정보이므로 포함합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China Joins Italy, Mexico, Thailand, Saudi Arabia, Antarctica, Paraguay And More As Canada Issues New Travel Advisory Amid Political Instability, Security Threats, And Ongoing Demonstrations - Travel And Tour World",
@@ -29433,7 +29425,59 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNYk9GQmZIak1ZQjZvUy0xaHB5S0xLY0U3TG5USHYyRjJqcDY5Q2tWb3VJX3hqRm1qdER6ckNzWmlRVkxXTEtmLUpSREwzRGlYQm10ZEd6ekVfOU40SUNYMnRhcnk0Z2lyNF9ZVTZBS0QzS2hTMkFJMFYtcm9YRDNfTXBhZkh4VEo2T05qTWhmN0NPYmozY2YyQnJSRVdxTjMwVUxGWEI4eEZZd01QQzROaThYWE1LeHRsZU15SFJnZ1F6TDdtcUpxZS1SQ3ZGZ1F5R0FaS3A1dWl2UzA1bHlOUnVPaGFpVEpYSUJCamdXWTBVQTY3VW1RUDZXcHZMVnhKVVFRejVlMmNRZXRkT04yZGJfWFFMZmFqdWctNWk5aUZNM3N0YW9talZvTnh3TlJqTzJHaXIzLXZwbkd4U0JfSGN0bW9rQ0p5NzFrM0M5ako4UQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "문화 관광 패키지, 축제 기간 외국인 방문객 지출 촉진 - VisaHQ",
+      "summary": "- VisaHQ에 따르면 문화 관광 패키지가 축제 기간 동안 외국인 방문객의 지출을 촉진하고 있습니다.\n- 자세한 내용은 VisaHQ에서 확인하세요.\n- (기사 내용이 매우 짧으므로 추가 정보 파악 필요)",
+      "full_translated": "문화 관광 패키지, 축제 기간 외국인 방문객 지출 촉진 VisaHQ",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광객 지출에 영향을 미치는 문화 관광 패키지에 대한 정보이므로 여행 관련성이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Cultural Tourism Packages Spur Foreign Visitor Spend During Festival Break - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZUVETjF6dENTczkxZHJCNGxTSUd2Qk05ZnFyZm5LLWV6ZXREVzYzMHpZWlR2VEtRTzV6R0dmTEtRUVdtQnlpT2hITnNaaDJyQWpqLWpKdllaMUhtaHRIMTlBajg2NU4wUlJFNzBzbktCdXdRQ2hnc2tpWHBqVEhLanN0cHN3c2NDZTRDbGUtR2huel96a1J3UUxna1BhazdFdUNHU09sODZsSnJkaS1hQVhXRk5yWnBh?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국에서 인파를 피해 갈 수 있는 곳 - 런던 이브닝 스탠다드",
+      "summary": "- 런던 이브닝 스탠다드가 태국에서 인파를 피해 한적하게 즐길 수 있는 장소를 소개합니다.\n- 번잡한 관광지 대신 숨겨진 명소를 방문하여 진정한 태국의 아름다움을 경험할 수 있습니다.\n- 구체적인 장소 정보는 기사 본문을 참조하세요.",
+      "full_translated": "태국에서 인파를 피해 갈 수 있는 곳  런던 이브닝 스탠다드",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "새로운 장소 정보 제공, 혼잡을 피하고 싶은 여행자에게 유용.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Where to go to escape the crowds in Thailand - London Evening Standard",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPblFzU3VDUFZaTjZwSU5qVmo2aWs3cDhwWTRlUWRwTkM1ek83aGxSaFE1U093NFNZOHR3c1NNNlR2ZVA1SW5zQkY3R0tkRFdCSmVtRXhlcGJJQmlDS0NJZ0MxbFdmSjNJU0pTdXZ1cmQtUGRXNWtNX1lKTldXRVZtYzRDV29UMlE4ZnJTVWN4VkpvNjN4c3ZsRUdwdEc4dDdJQ1hpSA?oc=5",
+          "source": "London Evening Standard",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
