@@ -26943,14 +26943,9 @@
       "summary": "- 태국 기상청, 23-25일 북부 지역에 여름 폭풍 발생 예보.\n- 뇌우, 강풍, 우박 및 폭우에 대한 경고 발령.\n- 야외 활동 자제 및 농작물 피해 예방 권고.",
       "full_translated": "태국 기상청은 23일부터 25일까지 태국 북부 지역에 여름 폭풍이 발생할 것이라고 발표했습니다. 이번 폭풍은 북동부 지역에서 시작되어 북부, 중부, 방콕 및 주변 지역, 동부 지역으로 확대될 것으로 예상됩니다. 뇌우, 강풍, 우박, 폭우, 낙뢰 등에 대한 주의가 필요합니다. 기상청은 국민들에게 야외 활동을 자제하고, 큰 나무나 불안정한 구조물 아래에 머무르지 않도록 권고하고 있습니다. 농민들은 농작물 피해를 예방하기 위해 대비해야 합니다. 기상청 웹사이트(https://www.tmd.go.th) 또는 0-2399-4012-13 및 1182를 통해 24시간 정보를 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 기상 악화 예보. 특히 아침 브리핑이므로 오늘의 날씨 정보 제공 필요.",
-      "event_info": {
-        "date": "2024-02-23",
-        "location": "태국 북부 지역",
-        "price": null,
-        "location_google_map_query": "태국 북부"
-      },
+      "event_info": "{'date': '2024-02-23', 'location': '태국 북부 지역', 'price': None, 'location_google_map_query': '태국 북부'}",
       "references": [
         {
           "title": "ประกาศฉบับ 1 เตือน \"พายุฤดูร้อน\" บริเวณไทยตอนบน มีผลกระทบช่วงวันที่ 23-25 ก.พ.",
@@ -26959,23 +26954,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F9aENrcYOtMqw.jpg"
         }
       ],
-      "collected_at": "08:13",
+      "collected_at": "8:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F9aENrcYOtMqw.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/local/2915532",
+      "source": ""
     },
     {
       "title": "방라뭉 지역, 파타야 해변 순찰 강화: 부랑, 마약, 부적절한 행위 단속",
       "summary": "- 방라뭉 지역, 파타야 해변에서 부랑자, 마약, 부적절한 행위 단속을 위한 순찰 강화\n- 최근 해변에서 부랑자들의 마약 사용 및 외설 행위로 파타야 이미지 훼손\n- 경찰, 마약 소지, 무기, 불법 판매, 구걸 행위 집중 단속 및 예방 활동 실시",
       "full_translated": "방라뭉 지역의 아누삭 피리야몬 지역장은 나탓왓 소폰세와실 부지역장에게 파타야시의 민정부서 행정관과 특별 작전 담당자로 구성된 합동팀을 이끌도록 지시했습니다. 이 팀은 파타야 해변 지역을 순찰하며 질서 유지, 공공 안전 확보, 태국 및 외국인 방문객 모두에게 안전을 보장하는 데 집중했습니다. 이번 작전은 이전에 부랑자들이 해변에서 불법 약물을 공개적으로 사용하고 외설적인 행위를 하는 것이 관찰된 사건에 따른 것입니다. 이러한 행동은 파타야를 최고의 관광지로써 이미지를 손상시키고 이 지역에서 휴식을 취하려는 방문객들에게 불안감을 조성했습니다. 이에 대응하여 방라뭉 지역 당국은 파타야시와 협력하여 사전 예방 조치를 시행했습니다. 여기에는 위반 행위를 억제하기 위한 정기 검사와 모든 형태의 불법 활동, 특히 마약 소지 및 사용, 무기, 금지 품목의 무단 판매를 목표로 하는 소탕 작전이 포함됩니다. 또한 이들은 특히 외국인에 의한 구걸 행위를 근절하는 데 집중하고 있습니다. 2월 20일 순찰 중 경찰은 불법 약물, 무기 또는 범죄를 저지르는 개인을 발견하지 못했다고 보고했습니다. 대신 팀은 공공 인식 제고 노력에 참여하여 위험에 처한 개인에게 심각한 법적 처벌에 대해 조언했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "파타야 해변의 안전 및 치안 관련 뉴스. 외국인 대상 범죄 및 불법 행위 단속 강화는 여행객 안전에 직접적인 영향을 미치므로 중요도가 높음. 특히, 최근 파타야에서 외국인 대상 범죄가 증가하고 있어 더욱 중요.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Banglamung District Intensifies Foot Patrols on Pattaya Beach to Crack Down on Vagrancy, Drug Use, and Indecent Behavior",
@@ -26984,23 +26976,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17716331075903315133159940765965.jpg?v=1771633160"
         }
       ],
-      "collected_at": "08:13",
+      "collected_at": "8:13",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17716331075903315133159940765965.jpg?v=1771633160",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/21/banglamung-district-intensifies-foot-patrols-on-pattaya-beach-to-crack-down-on-vagrancy-drug-use-and-indecent-behavior/",
+      "source": ""
     },
     {
       "title": "파타야, 호텔 절도 피해 영국인 관광객 지원: 여행 경찰의 신속한 대처",
       "summary": "- 파타야 호텔에서 도난 사건 발생, 영국인 관광객이 금전, 신분증 등을 잃고 어려움에 처함.\n- 파타야 관광 경찰이 영국 대사관에 연락하여 필요한 지원을 요청하고, 방콕행 버스 터미널까지 교통편을 제공.\n- 관광 경찰은 여행객의 안전과 복지에 최선을 다할 것이며, 어려움에 처한 경우 즉각적인 도움을 제공할 준비가 되어 있다고 밝힘.",
       "full_translated": "경찰 보고서에 따르면, 해당 관광객은 2026년 2월 18일 오후 1시경 호텔에 체크인했습니다. 그는 나중에 소지품이 없어진 것을 발견하고 시설 내부의 누군가가 절도를 저질렀을 것이라고 의심했습니다. 피해자는 호텔 CCTV 영상을 검토하고 사건을 기록하기 위해 공식 경찰 신고서를 이미 제출했습니다. 돈, 신분증, 비용을 충당할 수단 없이 남겨진 관광객은 영국으로 귀국하고 싶은 간절한 마음을 표현했습니다. 이용 가능한 자원이 없어서 그는 영국 대사관과 협력하기 위해 당국에 지원을 요청했습니다. 관광 경찰관은 즉시 관광객을 대신하여 대사관에 연락했습니다. 대사관 관계자는 지원을 제공할 것이라고 확인하고 개인에게 긴급 여행 서류를 얻는 등 필요한 절차를 진행하기 위해 직접 사무실을 방문하라고 지시했습니다. 관광객이 방콕에 안전하게 도착할 수 있도록 파타야 관광 경찰은 관광 지원 센터(TAC)의 경찰관과 함께 그를 방콕으로 가는 버스 터미널까지 호송하여 교통 지원을 제공했습니다. 그들은 또한 여행 비용을 충당하기 위한 초기 재정 지원을 제공하여 대사관으로 가서 필요한 절차를 완료할 수 있도록 했습니다. 파타야 관광 경찰은 방문객의 복지에 대한 헌신을 밝혔으며, 어려움에 처했을 때 즉각적인 도움을 제공할 준비가 되어 있다고 밝혔습니다. 긴급한 도움이 필요한 관광객은 격려를 받습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 발생한 절도 사건에 대한 관광 경찰의 신속한 대응을 보여주는 기사로, 여행객 안전에 대한 정보를 제공. 유사 사건 발생 시 대처 방안 참고 가능.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "Pattaya Tourist Police Swiftly Assist Stranded British Tourist After Theft at Local Hotel",
@@ -27009,23 +26998,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17716306094608572587895985591344.jpg?v=1771630904"
         }
       ],
-      "collected_at": "08:13",
+      "collected_at": "8:13",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17716306094608572587895985591344.jpg?v=1771630904",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/21/pattaya-tourist-police-swiftly-assist-stranded-british-tourist-after-theft-at-local-hotel/",
+      "source": ""
     },
     {
       "title": "싱가포르, 니파 바이러스 대응 완화: 공항 체온 검사 중단",
       "summary": "- 싱가포르가 2월 23일부터 공항 및 항구에서 여행객 체온 검사를 중단합니다.\n- 인도 서벵골 지역의 니파 바이러스 상황이 안정화됨에 따른 조치입니다.\n- 싱가포르 내에서는 아직 니파 바이러스 감염 사례가 보고되지 않았습니다.",
       "full_translated": "싱가포르가 2월 23일부터 공항과 항구에서 여행객 체온 검사를 중단한다고 발표했습니다. 이는 인도 서벵골 지역의 니파 바이러스 발생 상황이 안정화됨에 따른 결정입니다. 싱가포르 방역 당국(CDA)은 성명을 통해 이같이 밝히며, 인도 내 상황이 진정됨에 따라 검역 조치를 완화한다고 설명했습니다. 싱가포르는 앞서 바이러스 확산 지역발 항공편에 대한 경계를 강화했지만, 현재까지 싱가포르 내에서 인도 관련 니파 바이러스 감염 사례는 발견되지 않았습니다. CDA는 서벵골 지역에서 추가 감염 사례가 보고되지 않았으며, 방글라데시에서도 사람 간 감염은 발견되지 않았다고 밝혔습니다. 싱가포르는 일부 조치를 완화하지만, 기본적인 수준의 질병 감시는 유지하며, 국경 검문소에서 여행객에게 니파 바이러스 관련 건강 권고 자료 배포는 중단합니다. 그러나 질병 추적을 위해 니파 바이러스는 SG Arrival 및 Maritime Declaration of Health 건강 신고서에 포함됩니다. 싱가포르 노동부는 외국인 노동자 관리 센터에서 감시 조치를 유지하며, 노동자들에게 예방 조치를 준수하고 위생을 유지하며 아프면 즉시 의사의 진료를 받도록 강조할 것입니다. CDA는 또한 의료진에게 니파 바이러스 감염 징후가 있는 환자를 발견하고 위험 지역을 여행한 병력이 있는 경우 주의를 기울일 것을 경고합니다. 의료 시설 및 실험실은 잠재적 감염 사례를 진단하고 보고할 수 있도록 준비해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "니파 바이러스 관련 검역 완화는 여행객에게 긍정적인 영향을 미치므로 관련 정보 제공. 다만, 심각한 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "싱가포르 창이 공항, 싱가포르 항구",
-        "price": null,
-        "location_google_map_query": "싱가포르 창이 공항"
-      },
+      "event_info": "{'date': None, 'location': '싱가포르 창이 공항, 싱가포르 항구', 'price': None, 'location_google_map_query': '싱가포르 창이 공항'}",
       "references": [
         {
           "title": "สิงคโปร์คลายมาตรการรับมือ \"ไวรัสนิปาห์\" ยุติคัดกรองอุณหภูมิสนามบิน หลังสถานการณ์เริ่มทรงตัว",
@@ -27034,23 +27020,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F9ZZcSWBrxW1U.jpg"
         }
       ],
-      "collected_at": "08:13",
+      "collected_at": "8:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8F9ZZcSWBrxW1U.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/foreign/2915535",
+      "source": ""
     },
     {
       "title": "태국, 유권자 절반 이상이 돈 선거 인지: KPI 여론조사",
       "summary": "- 킹 프라자디폭 연구소(KPI) 여론조사 결과, 태국인의 53.6%가 지역구 내 돈 선거 인지.\n- 응답자의 76.8%는 돈 선거에 관여된 금액이 500~1,000바트 사이라고 응답.\n- 지역별 인지도는 남부(65.3%), 북동부(64.9%), 북부(56.5%) 순으로 높았으며, 방콕은 26.5%로 가장 낮음.",
       "full_translated": "킹 프라자디폭 연구소(KPI)의 새로운 여론조사에 따르면 태국인의 절반 이상이 자신의 지역구에서 돈 선거를 인지하고 있으며, 대부분 500~1,000바트의 지불을 언급했습니다. KPI 여론조사는 2월 13일부터 16일까지 전국 18세 이상 응답자 2,000명을 대상으로 실시되었으며, 53.6%가 해당 지역에서 돈 선거에 대해 들어본 적이 있다고 답했고, 46.4%는 그렇지 않다고 답했습니다. 인지도는 지역에 따라 크게 달랐으며, 이는 지역 정치 역학과 커뮤니티 네트워크가 대중의 인식에 영향을 미친다는 것을 시사합니다. 그러한 관행을 알고 있는 사람들 중 76.8%는 관련된 금액이 500에서 1,000바트 사이라고 말했습니다. 더 적은 비율이 500바트 미만(15.3%)과 1,000바트 초과(7.9%) 금액을 언급했는데, 이는 돈 선거가 일반적으로 비교적 적지만 접근 가능한 지불을 포함한다는 견해를 강화합니다. 지역적으로 남부는 65.3%로 가장 높은 인지도를 보였고, 북동부는 64.9%, 북부는 56.5%로 그 뒤를 이었습니다. 동부는 46.3%, 중부 지역은 37.7%였습니다. 방콕은 26.5%로 가장 낮은 수준을 기록했습니다. 이 조사는 또한 선거 사기를 방지하기 위한 선거 관리 위원회의 노력에 대한 대중의 만족도를 측정했습니다. 불만족도가 40.8%로 가장 높았고, 31.9%는 성과가 좋음에서 상당히 좋음으로 평가했으며 25.8%는 보통으로 평가했습니다. 1.5%만이 의견이 없었습니다. 선호하는 정부 구성 모델에 대해 41.7%는 선호도가 없었고 28.5%는 품자이타이(BJT), 푸에타이, 민주당의 연합을 선호합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식으로 여행 자체에 큰 영향은 없으나, 태국 사회의 분위기를 이해하는 데 도움이 될 수 있음. 돈 선거에 대한 인지도는 지역별로 다르므로, 특정 지역 여행 시 참고할 만함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Over half of Thais aware of vote-buying",
@@ -27059,8 +27042,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3201890_260221061533_700.jpg"
         }
       ],
-      "collected_at": "08:13",
+      "collected_at": "8:13",
       "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3201890_260221061533_700.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/thailand/general/3201890/over-half-of-thais-aware-of-votebuying",
+      "source": ""
+    },
+    {
+      "title": "후쿠오카 주민 10명, 캄보디아 콜센터 사기 연루 추정",
+      "summary": "- 일본 경찰, 후쿠오카 주민 10명이 캄보디아에서 연락 두절.\n- 이들이 콜센터 사기 조직에 연루되었을 가능성 수사 중.\n- 소셜 미디어를 통한 해외여행 제안이나 고수익 알바 광고에 주의 당부.",
+      "full_translated": "일본 후쿠오카현 경찰은 최근 2년간 후쿠오카 주민 약 10명이 캄보디아로 여행을 간 후 연락이 두절되었다고 밝혔습니다. 경찰은 이들이 캄보디아 내 콜센터 사기 조직에 연루되었을 가능성을 염두에 두고 수사를 진행 중입니다. 이들은 소셜 미디어를 통해 해외여행 무료 제공 또는 고수익 알바 광고에 현혹되어 캄보디아로 간 것으로 보입니다. 경찰은 이러한 광고가 국제 범죄 조직으로 유인하는 수법일 수 있다며 주의를 당부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 대상 사기 가능성이 있으므로 주의 필요. 직접적인 위협은 아니지만 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "캄보디아",
+        "price": null,
+        "location_google_map_query": "캄보디아"
+      },
+      "references": [
+        {
+          "title": "ตร.ญี่ปุ่นเผย ชาวฟุกุโอกะหายตัวเกือบ 10 คน เชื่อพัวพันแก๊งคอลเซ็นเตอร์ในกัมพูชา",
+          "url": "https://www.thairath.co.th/news/foreign/2915542",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAgz7GXzqGB5I.jpg"
+        }
+      ],
+      "collected_at": "10:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAgz7GXzqGB5I.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국, 부패 척결 위한 개헌 추진에 탄력",
+      "summary": "- 타이 르엉 찰랏당, 부패 척결 위한 개헌안 지지 의사 밝혀\n- 아이팀 프릿, 국민 권한 강화를 위한 개헌 추진\n- 모든 정당 협력하여 부패 척결 법안 통과 기대",
+      "full_translated": "타이 르엉 찰랏당의 대변인인 프리예스는 타이 르엉 찰랏당이 지속적으로 부패 척결을 위한 개헌을 제안해왔다고 밝혔습니다. 그는 아이팀 프릿 또는 프릿 와차라신투 대변인이 국민 권한을 강화하는 개별 조항 개정을 통해 부패를 척결하겠다는 의사를 밝힌 것을 환영했습니다. 이전 의회에서 타이 르엉 찰랏당은 여러 당사자, 특히 프아 타이당(이전의 카오 카이)의 협력을 요청했지만 충분한 응답을 받지 못했습니다. 프리예스는 모든 당사자가 야당이나 정부라는 용어에 얽매이지 않고 협력한다면 타이 르엉 찰랏당이 준비한 법안이 국회에 제출될 수 있다고 말했습니다. 이번에 그는 여러 차례 프릿을 만났고, 프아 타이당으로부터 새 헌법을 만드는 것과 함께 개별 조항을 수정하는 접근 방식을 추진할 것이라는 확답을 받았습니다. 이는 모든 정당이 함께 협력하여 부패와의 싸움에 도움이 되는 법안을 현실화할 수 있는 좋은 징조입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 정치 상황에 대한 이해를 돕는 뉴스. 직접적인 여행 영향은 적으나, 장기적으로 정책 변화에 따른 간접 영향 가능성 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "พรรคไทยสร้างไทย ยินดี “ไอติม พริษฐ์” ตอบรับแก้รัฐธรรมนูญรายมาตรา เพื่อปราบโกง",
+          "url": "https://www.thairath.co.th/news/politic/2915550",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAOsKxJuLeKhs.jpg"
+        }
+      ],
+      "collected_at": "10:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAOsKxJuLeKhs.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국-캄보디아 국경 지역 총격전 부인: 태국 군, 자제 및 협력 강조",
+      "summary": "- 태국 제2군, 캄보디아 군인에 대한 총기 사용 보도 부인.\n- 해당 지역(총 안 마)에서 태국 군은 최대한 자제하며 국경 협력 메커니즘 준수.\n- 오해를 방지하고 국경 지역의 평화를 유지하기 위해 공동 조사를 제안.",
+      "full_translated": "태국 제2군은 총 아안 마 지역에서 캄보디아 군인에 대한 총기 사용 보도를 부인했습니다. 태국 군은 최대한 자제하며 국경 협력 메커니즘을 엄격히 준수하고 있다고 밝혔습니다. 또한, 사실 확인을 위한 협력을 제안했습니다. 제2군은 페이스북을 통해 해당 지역에서 캄보디아 군인에 대한 총기 사용은 없었다고 밝혔으며, 오해를 방지하고 국경 지역의 평화를 유지하기 위해 공동 조사를 제안했습니다. 잘못된 정보의 확산은 양국 관계와 국경 지역의 평화로운 분위기에 영향을 미칠 수 있다고 경고했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "국경 지역 긴장 고조 가능성, 여행객 안전에 간접적 영향. 현재로서는 직접적인 위협은 아니지만 상황 주시 필요.",
+      "event_info": {
+        "date": null,
+        "location": "ช่องอานม้า (태국-캄보디아 국경 지역)",
+        "price": null,
+        "location_google_map_query": "ช่องอานม้า 국경"
+      },
+      "references": [
+        {
+          "title": "กองทัพภาคที่ 2 โต้ข่าวใช้อาวุธปืนต่อกำลังพลกัมพูชา บริเวณพื้นที่ช่องอานม้า",
+          "url": "https://www.thairath.co.th/news/local/northeast/2915547",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAhQm9p07ZYsh.jpg"
+        }
+      ],
+      "collected_at": "10:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAhQm9p07ZYsh.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "태국, 악라 금광 분쟁 종결: 아누틴 총리의 적극적인 전략 주효",
+      "summary": "- 타나콘 산업부 장관, 악라 금광 분쟁 종결은 아누틴 총리의 적극적인 전략 덕분이라고 밝힘.\n- 총리의 지시에 따라 법률 자문단과 협력하여 국제 사회에서 태국의 입장을 강력하게 표명.\n- 우호적인 협상과 법률 준수 원칙 하에 태국에 불리한 조건 없이 분쟁 해결.",
+      "full_translated": "타나콘 산업부 장관은 악라 금광 분쟁 종결의 성공은 아누틴 총리의 적극적인 전략 덕분이라고 밝혔습니다. 그는 우호적인 협상을 통해 분쟁 당사자들이 자발적으로 분쟁을 종결하도록 유도했으며, 쁘라윳 총리 시절의 자문팀에게 조언을 구했다고 밝혔습니다.\n\n2069년 2월 21일, 타나콘 왕분콩차나 산업부 장관은 악라 금광 관련 분쟁 해결의 성공에 대해 인터뷰했습니다. 그는 2563년 피라판 살리랏타위팍이 금광 사건을 담당하기 위해 추가 위원으로 임명되었지만, 해당 위원회의 역할은 2566년 8월 정부 임기가 만료됨에 따라 종료되었다고 설명했습니다. 2568년 5월, 낫타폰 랑싯폰 산업부 차관을 위원장으로 하는 악라 금광 투자 분쟁 해결 실무 그룹이 새롭게 구성되었으며, 이는 문제 해결에 중요한 전환점이 되었습니다.\n\n타나콘 장관은 이번 성공이 피라판의 역할 때문이라는 주장에 대해, 아누틴 차른비라쿨 총리가 자신에게 체계적인 소송 전략을 수립하도록 지시했기 때문이라고 답했습니다. 이에 따라 산업부 차관은 법률 자문단과 긴밀히 협력하여 국제 사회에서 태국의 입장을 강력하게 표명했습니다. 태국은 중재 재판에서 끝까지 싸울 준비가 되어 있으며, 우호적인 협상을 진행하되 법률을 준수하고 태국에 부담을 주는 조건은 절대 받아들이지 않겠다는 입장을 분명히 했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "금광 분쟁 해결은 국가 이미지에 영향을 미치지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ธนกร” ชู “อนุทิน” กำชับใช้กลยุทธ์เชิงรุก ทำยุติข้อพิพาทเหมืองทองอัคราสำเร็จ",
+          "url": "https://www.thairath.co.th/news/politic/2915553",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAOuYr99Wl1H3.jpg"
+        }
+      ],
+      "collected_at": "10:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8GAOuYr99Wl1H3.jpg",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "강간 전과 후보 공천으로 인민당 조사 촉구 청원",
+      "summary": "- 정치 운동가 스리수완 잔야, 선거관리위원회에 인민당 조사 촉구 청원 제출\n- 인민당, 강간 유죄 판결을 받은 후보를 공천하여 정치 정당법 위반 혐의\n- 법원은 인민당 전 국회의원 후보 티라왓 판나에게 징역 4년형 선고",
+      "full_translated": "정치 운동가 스리수완 잔야는 금요일 선거관리위원회(EC)와 정당 등록기관에 인민당이 강간으로 유죄 판결을 받은 후보를 출마시키기로 한 결정에 대한 조사를 촉구하는 청원서를 제출했습니다. 이는 당 해산으로 이어질 수 있는 상황입니다. 스리수완 잔야는 사랑국가사랑국민기구의 대표이며, 당의 배경에 대한 사전 경고에도 불구하고 후보를 지지함으로써 정당법을 위반했는지 여부를 조사할 것을 당국에 촉구했습니다. 이번 청원은 수요일 마하사라캄 지방 법원에서 선고된 대법원 판결에 따른 것입니다. 이 사건은 2020년 1월에 발생한 사건에서 비롯되었습니다. 법원은 마하사라캄 1구의 전 국회의원 후보인 티라왓 판나가 약물에 취해 저항할 수 없는 준의식 상태의 피해자를 강간한 혐의로 유죄 판결을 내렸습니다. 티라왓은 징역 4년형을 선고받았으며, 이후 정상 참작으로 인해 징역 2년 8개월로 감형되었습니다. 그는 또한 연 5%의 이자와 함께 20만 바트를 배상하라는 명령을 받았습니다. 스리수완은 이번 판결이 당이 공공질서나 선량한 도덕에 해로운 행위를 지지하거나 조장하는 것을 금지하는 정당법 45조를 위반했을 수 있음을 보여준다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "정치적 사건이며, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "마하사라캄",
+        "price": null,
+        "location_google_map_query": "Maha Sarakham"
+      },
+      "references": [
+        {
+          "title": "Petitioner challenges People's Party over rapist candidate",
+          "url": "https://www.bangkokpost.com/thailand/politics/3201965/petitioner-challenges-peoples-party-over-rapist-candidate",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3201965_260221085255_700.jpg"
+        }
+      ],
+      "collected_at": "10:35",
+      "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3201965_260221085255_700.jpg",
       "date": "2026-02-21"
     }
   ]
