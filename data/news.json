@@ -29203,31 +29203,24 @@
       "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동으로 관광객들이 불쾌감을 느끼고 있습니다.\n- 관광객들은 이러한 문제 해결을 위해 강력한 법 집행을 요구하고 있습니다.\n- 노숙자 문제 해결과 함께 파타야의 관광 이미지 개선이 시급합니다.",
       "full_translated": "파타야 해변에서 노숙자들의 부적절한 행동으로 인해 관광객들이 불쾌감을 느끼고 있으며, 지역 사회는 이러한 문제 해결을 위해 강력한 법 집행을 요구하고 있습니다. 관광객들은 파타야 해변의 노숙자들이 공공장소에서 부적절한 행동을 하는 것에 대해 우려를 표명하고 있으며, 이는 파타야의 관광 이미지를 훼손할 수 있다고 지적합니다. 따라서, 관련 기관은 노숙자 문제에 대한 적극적인 대응과 함께 관광객들에게 안전하고 쾌적한 환경을 제공하기 위한 노력을 기울여야 할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변의 노숙자 문제는 관광객의 안전과 직결되는 문제이며, 관광 경험에 부정적인 영향을 미칠 수 있습니다. 따라서 관련 법 집행 강화 및 노숙자 지원 정책이 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [],
-      "collected_at": "03:46",
-      "date": "2026-02-22"
+      "collected_at": "3:46",
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "",
+      "source": ""
     },
     {
       "title": "PETA 아시아, 태국 사설 공원의 호랑이 '비참한 삶' 고발 및 관광객 방문 자제 촉구",
       "summary": "- PETA 아시아는 태국 사설 공원의 호랑이들이 비참한 환경에서 살고 있다고 주장.\n- 관광객들에게 이러한 공원 방문을 자제할 것을 촉구.\n- 동물 학대 문제에 대한 인식을 높이고 윤리적인 관광을 장려.",
       "full_translated": "동물 권리 단체 PETA 아시아는 태국 사설 공원의 호랑이들이 '비참한 삶'을 살고 있다고 밝히며 관광객들에게 방문 자제를 촉구했습니다. themercury.com",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업에 대한 잠재적 이미지 손상 및 동물 복지 관련 우려를 제기하여 관광객들에게 간접적인 영향을 미칠 수 있음. 동물 윤리에 대한 관심 증가 추세를 반영.",
-      "event_info": {
-        "date": null,
-        "location": "태국 사설 공원",
-        "price": null,
-        "location_google_map_query": "태국 사설 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 사설 공원', 'price': None, 'location_google_map_query': '태국 사설 공원'}",
       "references": [
         {
           "title": "Animal rights group PETA Asia says tigers live in 'misery', urging tourists to stay away from private parks - themercury.com",
@@ -29236,7 +29229,59 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:46",
+      "collected_at": "3:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQUzNyU3ZUc2V4SkNsazJnekhCOHZUNUZuWjR0SjN2UExyeG5MMjNQaWFFd3hnVDJiQUtlRkdTclVtTXppcWZ0SVhYZmw5Mk54QXFCNGMzWFdEQWNFWU9YTGJMRW5nWFFuQlB0djdkZUZEM0xOZDdpMDI1LXlJcUlvZlJLalBTcDdXWXNVS296TkNhMVBxczFGTVJ4eVQ4bnhYTFFmZExrQXJtVURzcXI1bllhNEZESE1qRUNzWlVQeDZqMC1ZcWtvMzNXaGFVZ1dnRDRxbkNNZUhrNkZ1UWJzRjR5bmk4b25rOHBic0d3SGFJQzdfZ2RpYXVRczRZWmM?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국에서 바이러스 발생으로 호랑이 72마리 폐사, 인기 관광 명소 폐쇄",
+      "summary": "- 태국에서 바이러스 발생으로 호랑이 72마리 폐사.",
+      "full_translated": "태국에서 바이러스 발생으로 호랑이 72마리가 폐사하여 인기 관광 명소가 폐쇄되었습니다. 사망은 2월 8일에 시작되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광 명소 폐쇄로 여행 일정에 차질이 생길 수 있으며, 동물 관련 여행에 대한 우려를 야기할 수 있음. 안전 관련 정보 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Virus outbreak kills 72 tigers in Thailand, popular tourist attraction closed | The deaths began on February 8 | Inshorts - Inshorts",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR0xGcGplblFXenRzTkt6X0IwMm9FN2NtX0thMEVjSDdfOVlrM0ZPVmotMFVZNXpFbThyQm5wcm9GUWJlRUZqMUlFcjZfbXBhczQ5Y0lGSGhvYlItVXNJVXpaaHBTalRrYkl1RHJ5X0Z2a1FqdzZ6RGZZdVBEQW5KeGhFSkhpTUdiRnVqNllDYm9hTkJ2ZnQxNFZKMEZTcnF2ZUszWTcxVkhtZkVweDlRYWk3YzFPdG9FZnoxaHo2M1ROQdIBwgFBVV95cUxNR0xGcGplblFXenRzTkt6X0IwMm9FN2NtX0thMEVjSDdfOVlrM0ZPVmotMFVZNXpFbThyQm5wcm9GUWJlRUZqMUlFcjZfbXBhczQ5Y0lGSGhvYlItVXNJVXpaaHBTalRrYkl1RHJ5X0Z2a1FqdzZ6RGZZdVBEQW5KeGhFSkhpTUdiRnVqNllDYm9hTkJ2ZnQxNFZKMEZTcnF2ZUszWTcxVkhtZkVweDlRYWk3YzFPdG9FZnoxaHo2M1ROQQ?oc=5",
+          "source": "Inshorts",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국, 좀티엔 해변 여행객 수영 안전 선언: 정부의 집중적인 수질 모니터링 및 해안 환경 보호 강화",
+      "summary": "- 태국 정부는 좀티엔 해변에 대한 집중적인 수질 모니터링을 실시.\n- 해안 환경 보호를 강화하여 여행객들이 안전하게 수영을 즐길 수 있다고 선언.\n- 좀티엔 해변은 관광객들에게 인기 있는 명소로, 이번 조치로 더욱 안심하고 방문할 수 있게 됨.",
+      "full_translated": "태국은 정부의 집중적인 수질 모니터링 및 강화된 해안 환경 보호를 통해 좀티엔 해변이 여행객들이 수영하기에 안전하다고 선언했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "좀티엔 해변의 안전 관련 업데이트는 여행객에게 직접적인 영향을 미치므로 포함. 특히 수질 관련 이슈는 여행 만족도에 중요.",
+      "event_info": {
+        "date": null,
+        "location": "Jomtien Beach, 태국",
+        "price": null,
+        "location_google_map_query": "Jomtien Beach, 태국"
+      },
+      "references": [
+        {
+          "title": "Thailand Declares Jomtien Beach Safe for Travelers Swimming Amid Intensive Government Water Quality Monitoring and Strengthened Coastal Environmental Protection - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPdGNnYkczMkE0OUo3a0JIOFhMbWM3QnZyMmIwMUV3ZUZkdzluWXR6Rlc2c3J5bzg2MVdfMjJGRUNLVG5lYXpWY1N0N1ZXT2w0dlFiS2VZTVZjVDJxTjVONWdHdEpVMk42dnl2ZjljZGVMOEVxZ2dJaEpLMkc4UTJnd0JTaTZ6dkNmRUJta0VDbUlvenByNHZUQmRNejlPM0tmWFJiV3NpQ0dCcEkwVUl0a2ZTc3ZJdlB5VHZkM2g2akhzd0d1aFFpUkduRnA0ZmM5Ty12RWtvNUluLUt0VEpCUVhqVXRIUEFqWGNqQkZELWxOZGlkU1gybVBJVlRRdXU2bTdkQzBJTEhmNHVKanpWZ1pXaTliak5KWVVaUUc5d2k5VGpRVGVzX0dUWlNJX1U0ZEZv?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
