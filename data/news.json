@@ -27690,14 +27690,9 @@
       "summary": "- 2026년 2월 21일 새벽 1시경, 좀티엔 세컨드 로드에서 오토바이 사고 발생.\n- 25~30세 태국인 남성이 주차된 차량 밑에 깔려 중상을 입음.\n- 구조대는 시민들의 도움을 받아 차량을 들어올려 피해자를 구조, 응급 치료 후 병원으로 이송.",
       "full_translated": "좀티엔에서 오토바이 충돌 사고로 운전자가 중상을 입었습니다.\n\n사고는 2026년 2월 21일 새벽 1시경 좀티엔 세컨드 로드, 뷰 탈레이 2 콘도미니엄 앞에서 발생했습니다. 싸왕 보리분 파타야 레스큐 센터는 오토바이 사고로 심각한 부상을 입고 차 밑에 깔린 피해자가 있다는 긴급 신고를 받았습니다. 현장에 도착한 파타야 시 경찰 순찰대와 싸왕 보리분 구조대는 많은 사람들이 모여 있는 것을 발견했습니다. 부상자는 25~30세로 추정되는 태국 국적의 남성으로, 주차된 세단 옆에 엎드린 채 머리가 차량 밑에 깔려 있었습니다. 그는 입에서 심하게 피를 흘리고 있었습니다. 구조대는 시민들의 도움을 받아 세단 앞부분을 조심스럽게 들어 올려 피해자를 구조했습니다. 응급 처치가 현장에서 이루어졌고, 파타야 시립 병원의 앰뷸런스가 그를 긴급 치료를 위해 급히 이송했습니다. 수사관들은 현장에서 두 대의 오토바이를 발견했습니다. 하나는 Honda Wave 125R로, 사무트 쁘라칸의 번호판 1 꺼커 8162를 달고 있었고, 측면에 경미한 손상이 있었습니다. 이는 오토바이 택시 운전사인 끼아티삭 얀송크로(19세)의 소유였습니다. 그는 다치지 않았습니다. 피해자의 오토바이는 검은색 Honda Scoopy로, 농부아람푸의 번호판 1 꼬돗 3363을 달고 있었고, 앞부분이 손상된 채 근처에 쓰러져 있었습니다. 경찰에 대한 끼아티삭의 진술에 따르면 그는 프라탐낙 힐에서 좀티엔 방향으로 내리막길을 달려 승객을 태우러 가고 있었습니다. 그는 평소처럼 왼쪽 차선으로 주행하고 있었는데, 다른 오토바이가 갑자기 왼쪽에서 접근했다고 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전과 관련된 사고 소식이므로 파타야 방문객에게 주의를 요함. 최근 파타야에서 오토바이 관련 사고가 증가하고 있어 업데이트 필요.",
-      "event_info": {
-        "date": "2026-02-21",
-        "location": "좀티엔 세컨드 로드",
-        "price": null,
-        "location_google_map_query": "좀티엔 세컨드 로드"
-      },
+      "event_info": "{'date': '2026-02-21', 'location': '좀티엔 세컨드 로드', 'price': None, 'location_google_map_query': '좀티엔 세컨드 로드'}",
       "references": [
         {
           "title": "Motorcyclist Seriously Injured After Collision in Jomtien",
@@ -27708,21 +27703,18 @@
       ],
       "collected_at": "15:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17716411112443401605921389993970.jpg?v=1771641202",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://thepattayanews.com/2026/02/21/motorcyclist-seriously-injured-after-collision-in-jomtien/",
+      "source": ""
     },
     {
       "title": "치앙마이 동물원, 호랑이 72마리 폐사: 개 홍역 바이러스 및 세균 감염 확인",
       "summary": "- 치앙마이 동물원에서 호랑이 72마리가 폐사했으며, 원인은 개 홍역 바이러스와 세균 감염으로 밝혀짐.\n- 수의 당국은 2월 8일부터 18일 사이에 매림 지역에서 21마리, 매땡 지역에서 51마리가 폐사했다고 발표함.\n- 당국은 해당 질병이 사람에게는 전염되지 않는다고 강조하며, 추가 확산 방지에 주력하고 있음.",
       "full_translated": "สำนักงานปศุสัตว์เขต 5(제5축산사무소)는 호랑이 72마리가 사망한 원인에 대한 조사 결과를 발표했습니다. 사망 원인은 개 홍역 바이러스와 세균 감염으로 밝혀졌으며, 인간에게 전염되지 않는다고 강조했습니다. 2069년 2월 21일, 제5축산사무소는 쿰수아 트라칸 회사의 동물원에서 2월 8일부터 18일까지 호랑이가 사망한 사건에 대한 사실 확인서를 발표했습니다. 총 72마리의 호랑이가 사망했으며, 매림 지역의 쿰수아에서 21마리, 매땡 지역의 쿰수아에서 51마리가 사망했습니다. 피라폰 노이나파이 수의사와 치앙마이 주 축산 담당관은 2069년 2월 13일부터 병리학적 샘플을 수집한 후 조사 결과를 발표했습니다. A형 인플루엔자 바이러스 또는 조류 인플루엔자 바이러스(AIV)의 유전자 코드는 발견되지 않았지만, 주요 원인으로 개 홍역 바이러스(Canine Distemper Virus: CDV)와 마이코플라스마(Mycoplasma spp.) 박테리아 감염이 확인되었습니다. 이 두 가지 요인이 호랑이의 질병과 사망의 주요 원인이었습니다. 개 홍역은 직접적인 분비물 접촉과 공기 중 확산을 통해 쉽게 전파되는 질병으로 호흡기, 소화기, 신경계에 심각한 영향을 미칩니다. 마이코플라스마 박테리아는 진드기, 벼룩, 파리를 매개로 하여 적혈구를 파괴하여 빈혈을 유발합니다. 스트레스와 급격한 기후 변화가 동물을 자극하는 요인으로 작용합니다. 바이러스와 박테리아의 복합 감염은 질병의 증상을 더욱 악화시킵니다. 축산사무소는 공식적으로 이 질병이 동물에서 사람으로 전염되지 않는다고 확인했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "동물원 방문객은 주의가 필요하며, 관련 정보를 숙지하는 것이 좋음. 전염병 관련 정보는 여행객에게 유용한 정보임.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이 동물원",
-        "price": null,
-        "location_google_map_query": "Chiang Mai Zoo"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이 동물원', 'price': None, 'location_google_map_query': 'Chiang Mai Zoo'}",
       "references": [
         {
           "title": "\"ปศุสัตว์เขต 5\" ชี้แจงผลชันสูตร \"เสือ\" ตาย 72 ตัว ย้ำไม่ติดต่อสู่คน",
@@ -27733,21 +27725,18 @@
       ],
       "collected_at": "15:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArX74lYU7plKh.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/local/2915618",
+      "source": ""
     },
     {
       "title": "육군 간부, 정화조 구덩이 징계로 기소",
       "summary": "- 육군 간부가 병사에게 정화조 구덩이에 들어가게 하고 몽둥이로 때린 혐의로 기소됨.\n- 해당 사건은 소셜 미디어에 영상이 공유되면서 알려짐.\n- 군 당국은 형사 처벌 및 징계 절차를 진행할 것이라고 밝힘.",
       "full_translated": "쁘라친부리 지방의 한 캠프에서 육군 하사가 온라인에 공유된 영상에서 한 병사에게 정화조 구덩이로 들어가게 하고 몽둥이로 등을 때린 혐의로 형사 기소 및 징계 처벌을 받을 예정입니다. 이 사건은 금요일 전 인민당 국회의원 후보였던 니차난 왕카핫에 의해 제기되었습니다. 그녀는 페이스북에 영상을 게시하고 지휘관들에게 조사를 촉구하며, 군기에서 규정된 처벌을 넘어섰다고 말했습니다. 이에 대해 태국 왕립 육군 대변인팀은 해당 사건이 실제임을 확인했습니다. 사건은 쁘라친부리에 있는 제2보병연대 제2보병대대에서 발생했습니다. 가해자는 나타쿨 팍디 하사로 확인되었다고 육군은 밝혔습니다. 해당 병사는 나타쿨 하사에 대한 형사 고소를 위해 경찰에 공식 고소장을 제출했습니다. 육군은 또한 징계 절차를 시작했다고 밝혔습니다. 육군 대변인팀은 이 사건이 법과 규정에 따라 최대한도로 추진될 것이라고 강조했습니다. 언론 보도에 따르면 문제의 처벌은 해당 병사가 늦게 캠프로 돌아왔기 때문에 가해진 것으로 알려졌습니다. 태국에서는 징집병 학대 사례가 빈번하며, 심지어 사망에 이르는 경우도 있습니다. 과거 조사 결과 군은 징집병 처우 개선을 약속했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 군대 내 가혹 행위는 여행객 안전에 직접적인 위협은 아니지만, 사회적 분위기를 반영하며 잠재적인 불안 요소가 될 수 있음. 징계 절차 진행 상황에 따라 추가 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "쁘라친부리",
-        "price": null,
-        "location_google_map_query": "쁘라친부리"
-      },
+      "event_info": "{'date': None, 'location': '쁘라친부리', 'price': None, 'location_google_map_query': '쁘라친부리'}",
       "references": [
         {
           "title": "Army officer prosecuted over septic pit punishment",
@@ -27758,21 +27747,18 @@
       ],
       "collected_at": "15:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202309_260221145743_700.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/thailand/general/3202309/army-officer-prosecuted-over-septic-pit-punishment",
+      "source": ""
     },
     {
       "title": "푸미차이타이당 주도 연립 정부 '최종 확정', 클라탐당 제외",
       "summary": "- 차기 태국 정부는 품짜이타이당을 중심으로 구성될 예정입니다.\n- 프아타이당과 소수 정당들이 연합하여 총 300석을 확보할 것으로 보입니다.\n- 클라탐당은 연립 정부에서 제외되었으며, '검은 돈' 연루 의혹이 원인으로 추정됩니다.",
       "full_translated": "ภูมิใจไทย 당이 주도하는 연립 정부가 클라탐당을 제외하고 총 300석으로 최종 확정되었다고 소식통이 밝혔습니다. 핵심 정당인 품짜이타이당(193석)에 Pheu Thai당(74석)과 소수 정당(총 33석)이 합류할 예정입니다. 야당은 국민당(118석), 클라탐당(58석), 민주당(22석), 연합태국민족당(2석)으로 구성되어 총 200석을 확보합니다. 익명을 요구한 소식통은 품짜이타이당 고위 인사들이 500석 규모의 하원에서 300석을 확보하면 충분한 안정성을 확보할 수 있다고 믿고 있다고 전했습니다. 핵심 당 인사들은 또한 품짜이타이당 대표인 아누틴 찬위라쿨이 이끄는 새로운 행정부에 대한 긍정적인 이미지를 투사하기를 열망하고 있습니다. 클라탐당과 그의 수석 고문인 타마낫 프롬포우는 \"검은 돈\" 연계 주장을 불식시키기 위해 고군분투하고 있습니다. 타마낫은 또한 쁘라윳 찬오차 총리의 지위를 약화시키려는 시도가 실패하여 팔랑 쁘라차랏당에서 축출된 이후 팀 플레이어로 간주되지 않습니다. 또한 더 많은 연립 파트너를 추가하려면 추가 내각 정원을 할당해야 하며, 이미 5개 자리가 비의원 장관을 위해 예약되어 있습니다. 할당을 더 확대하면 품짜이타이당에 영향을 미칠 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Bhumjaithai-led coalition ‘finalised’, minus Klatham",
@@ -27783,21 +27769,18 @@
       ],
       "collected_at": "15:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260221/c1_3202300_700.jpg",
-      "date": "2026-02-21"
+      "date": "2026-02-21",
+      "link": "https://www.bangkokpost.com/thailand/politics/3202300/bhumjaithailed-coalition-finalised-minus-klatham",
+      "source": ""
     },
     {
       "title": "아누틴, '타닌'과 함께 73세 맞은 '솜뎃 통차이' 축복",
       "summary": "- 아누틴 총리와 주요 인사들이 솜뎃 프라 마하라차몽콘무니의 73세 생일 축하 행사에 참석했습니다.\n- 불교 의식에는 타닌 치아라와논 CP 그룹 회장 등 경제계 인사도 함께 했습니다.\n- 행사는 방콕 트라이밋 위타야람 사원에서 열렸습니다.",
       "full_translated": "아누틴 총리가 솜뎃 프라 마하라차몽콘무니 (통차이 탐마초)의 73세 생일 축하 의식에 참여했습니다. 이 행사에는 타닌 치아라와논 CP 그룹 회장, 촌난 스리깨우 전 보건부 장관, 수왓 립타판롭 국가개발당 대표 등 정계 인사들도 참석했습니다. 행사는 2069년 2월 21일 오전 9시 30분 방콕 트라이밋 위타야람 사원에서 열렸습니다. 솜뎃 프라풋타찬 (사닛 추안판뇨)이 의식을 주재하고 트라이밋 위타야람 사원의 승려들이 의식을 거행했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치계 주요 인사의 행사 관련 소식으로, 여행객에게 직접적인 영향은 적으나 태국 사회 분위기를 파악하는 데 도움이 될 수 있다고 판단.",
-      "event_info": {
-        "date": "2069-02-21",
-        "location": "วัดไตรมิตรวิทยารามวรวิหาร (방콕 트라이밋 위타야람 사원)",
-        "price": null,
-        "location_google_map_query": "วัดไตรมิตรวิทยารามวรวิหาร 방콕"
-      },
+      "event_info": "{'date': '2069-02-21', 'location': 'วัดไตรมิตรวิทยารามวรวิหาร (방콕 트라이밋 위타야람 사원)', 'price': None, 'location_google_map_query': 'วัดไตรมิตรวิทยารามวรวิหาร 방콕'}",
       "references": [
         {
           "title": "“อนุทิน-เจ้าสัวธนินท์” เจริญพระพุทธมนต์ทำบุญอายุ ครบ 73 ปี “สมเด็จธงชัย”",
@@ -27808,6 +27791,58 @@
       ],
       "collected_at": "15:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArYhUNs3imXy9.jpg",
+      "date": "2026-02-21",
+      "link": "https://www.thairath.co.th/news/politic/2915616",
+      "source": ""
+    },
+    {
+      "title": "태국, 삼각관계 다툼 중 미국인 관광객 사망",
+      "summary": "- 태국에서 삼각관계로 인한 폭력 사태 발생\n- 미국인 관광객이 칼에 찔려 사망\n- 경찰 조사 진행 중",
+      "full_translated": "태국에서 삼각관계가 치명적인 폭력 사태로 번지면서 미국인 관광객이 사망했습니다. 경찰 조사 진행 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "외국인 대상 범죄 발생. 여행객 안전에 직접적인 위협. 유사 사건 재발 방지를 위한 정보 제공 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzE4UlFaVTNfOHBYZ3JONUlsSGZ4R0l5QXRZMngxbHJIUERnMWpwQWNPaXZPSkV5VmZyNnVLWXF3SFduelZaN0dLRFNjYlh6TFVROC1YaW1NeVczcXo1LXpKNTFvMmJKenB0aWt2WXdpdDdEUEFJdFF0T0p3MVEtOEI4T3dmX240?oc=5",
+          "source": "AOL.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-21"
+    },
+    {
+      "title": "국수 판매상, 빚 때문에 금품 강도로 전락: 사라진 금 5바트",
+      "summary": "- 전 국수 판매상이 빚에 시달리다 금품 강도로 전락하여 26바트를 훔침.\n- 경찰은 용의자를 체포하고 훔친 금 21바트를 회수, 나머지 5바트는 찾는 중.\n- 용의자는 범행 후 집에서 소셜 미디어를 통해 경찰 수사를 지켜봄.",
+      "full_translated": "경찰청 부청장이 4부 수사 결과 발표. 경찰은 전직 중개인이자 국수 판매상이었던 남성을 체포. 빚에 시달리던 그는 강도로 변신하여 금 26바트를 강탈. 범행 후 집에서 소셜 미디어를 통해 경찰 수사를 지켜봤다고 자백. 사라진 금 5바트를 추적 중.\n\n2069년 2월 21일 오전 11시, 4부 수사본부에서 놉까오 솜마낫 경찰청 부청장, 품팟 팟타라시리웡차이 4부 수사본부장, 쁘리차 깽사리낏 콘깬 지방 경찰 부본부장, 팍품 데차르엉신 반뻿 경찰서장이 공동으로 기자회견을 열어 촌라팁(가명 께) 사라캄(47세, 콘깬 거주)을 체포했다고 발표했습니다. 그는 재물 또는 인신 보호 장치를 손상시키고 차량을 이용하여 범죄를 저지르거나 재물을 운반하거나 체포를 피하려 한 혐의를 받고 있습니다. 압수품으로는 길이 1미터의 각목 1개, 길이 1미터의 뾰족한 철제 상자 1개, 금 목걸이 9개 (총 21바트)가 있습니다.\n\n체포는 2069년 2월 15일에 발생한 사건에서 비롯되었습니다. 한 남성이 콘깬 지역의 반툼 구역 12번 마을에 있는 방콕 야오와랏 금은방에서 금 목걸이 11개 (총 26바트, 190만 바트 상당)를 강탈하여 도주했습니다. 경찰은 4부 수사팀, 콘깬 지방 경찰, 반뻿 경찰서가 협력하여 용의자를 추적했습니다. 용의자 제보자에게는 10만 바트의 현상금이 걸렸습니다.\n\n경찰 조사 결과 용의자는 금은방에서 약 20미터 떨어진 골목길에 등록되지 않은 회색 혼다 웨이브 오토바이를 주차했습니다. 범행 후 오토바이를 타고 도주했습니다. 경찰은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국에서 발생한 범죄 사건으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있음. 사건의 개요와 진행 상황을 요약하여 제공.",
+      "event_info": {
+        "date": "2069-02-15",
+        "location": "콘깬 지역의 반툼 구역 12번 마을 방콕 야오와랏 금은방",
+        "price": "190만 바트 (금품)",
+        "location_google_map_query": "방콕 야오와랏 금은방 콘깬"
+      },
+      "references": [
+        {
+          "title": "พ่อค้าบะหมี่ สารภาพปัญหาหนี้สินรุมเร้าผันตัวเป็นโจร เผยทองของกลางหายไป 5 บาท",
+          "url": "https://www.thairath.co.th/news/crime/2915619",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArX5QnS8UmK8w.jpg"
+        }
+      ],
+      "collected_at": "16:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8ArX5QnS8UmK8w.jpg",
       "date": "2026-02-21"
     }
   ]
