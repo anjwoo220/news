@@ -31555,14 +31555,9 @@
       "summary": "- 태국 공항(AOT)이 국제선 출발 수수료를 1,120바트로 인상 추진.\n- 인상된 수수료는 항공권 가격에 포함될 예정.\n- 여행자들은 갑작스러운 수수료 인상에 당혹감.",
       "full_translated": "태국 여행자들이 AOT의 국제선 출발 수수료 1,120바트 인상 추진에 경악하고 있습니다. 파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국제선 출발 수수료 인상은 여행 비용 증가로 이어져 여행객에게 직접적인 영향을 미치므로 '보통' 수준의 영향으로 판단. 다만, 금액이 적지 않아 7점 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": "1120 바트",
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': '1120 바트', 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand travelers alarmed as AOT pushes international departure fee to 1,120 baht - Pattaya Mail",
@@ -31571,23 +31566,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:49",
+      "collected_at": "0:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObEFVM291WGJLODdGMFNtZUQyd0VWZWFBZVlzRnFhRWs4dUFzalNDbERGLU1pcEo3WnRXTnlQNlpLdHB0aW94bmtFTEtHLVhkZWVmdVIwbTNhVFAwMlZnUU1BRGtDVjZHVWN5TmFkc2hsMFF2czF3dm9fRVR0aXJHZTh6YnduU3J3QTkwM05BZnlKNmJWZDR4cldPd0JuMEdTdWNqZUhjUGp3QlFGRTNLY1JXcFlVLVNXV3hsZDd2dDJkUVhURFY0WFBWbGs?oc=5",
+      "source": ""
     },
     {
       "title": "‘Thank you Thailand’ 트렌드, 외국인 관광객 사이에서 입소문 - Khaosod English",
       "summary": "- 외국인 관광객들이 태국에 대한 감사를 표하는 '#ThankYouThailand' 트렌드가 소셜 미디어에서 확산되고 있습니다.\n- 이 캠페인은 태국의 아름다움, 문화, 그리고 따뜻한 환대에 대한 감사를 표현하는 것을 목표로 합니다.\n- 많은 관광객들이 태국 여행 경험을 공유하며 태국에 대한 긍정적인 반응을 보이고 있습니다.",
       "full_translated": "‘Thank you Thailand’ 트렌드가 외국인 관광객 사이에서 입소문을 타고 있습니다.\n\n외국인 관광객들이 태국에 대한 감사를 표하는 '#ThankYouThailand' 트렌드가 소셜 미디어에서 빠르게 확산되고 있습니다. 이 캠페인은 태국의 아름다움, 문화, 그리고 따뜻한 환대에 대한 감사를 표현하는 것을 목표로 합니다. 많은 관광객들이 태국 여행 경험을 공유하며 태국에 대한 긍정적인 반응을 보이고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행에 대한 긍정적인 트렌드를 나타내는 기사로, 여행 심리에 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘Thank you Thailand’ trend goes viral among foreign tourists - Khaosod English",
@@ -31596,23 +31588,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:49",
+      "collected_at": "0:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkRKOFVfeU9ENHVHWlFJTG5yX18zbFluNkN5N0lELWxuTlhaakVIeXR5eEJ3LUc4VE1DMFpDR1MyUUM5OGlLSUZjTHhyS2UxeGFqZFRUN2VDd0tVdVotR3g0M09LU0VhU1VnUWNpVUYwY2FjMDFHOTY3WnlDU21WN1J0bXJyeDcwX2xDMnhnMzB0WkZRb0xjWWVOQWhmSzV2NnNVcVlMaTEtLUNPTTg00gG0AUFVX3lxTFB6dmJ0bnlfZXZjSXFlZ19OR0hTTnZnZ0tLYzZQVkM1Sm5QWHVhM1NORE42cWxsNkVkWGJud1d5VFY2RFVadVVyTEM5T0w1YVQ1dWNjNnlHa2lzREltbGVFWmxRdnphdDNzSFVSUTZ1QUxOT2tIbkJIdEdYY1p4STlFWDN1TmJNejNaYWpOeE5DN3NWLUY2aVdqczRhMUdaSHIzZmNLcFp5eXhkRWcwb2NpU3NUeg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 내 나이지리아 공동체: 미국을 넘어선 장기적인 삶의 건설",
       "summary": "- 나이지리아인들이 미국을 넘어 태국에서 장기적인 삶을 구축하고 있다.\n- 이들은 다양한 분야에서 활동하며 태국 사회에 기여하고 있다.\n- 태국은 비교적 안정적인 경제와 개방적인 사회 분위기로 인해 나이지리아인들에게 매력적인 이주 목적지로 부상하고 있다.",
       "full_translated": "Vanguard News에 따르면, 나이지리아인들이 미국을 넘어 태국에서 장기적인 삶을 건설하고 있습니다. 이들은 다양한 분야에서 활동하며 태국 사회에 기여하고 있습니다. 태국은 비교적 안정적인 경제와 개방적인 사회 분위기로 인해 나이지리아인들에게 매력적인 이주 목적지로 부상하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 외국인 커뮤니티에 대한 정보는 흥미롭지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Beyond America: How Nigerians are building long-term lives in Thailand - Vanguard News",
@@ -31621,23 +31610,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:49",
+      "collected_at": "0:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORElweGtjSEtEYUpqQ3BUMHB0VF9yTmxtUWVISUtjVlBGVnNnV0tmeEdSS2dXNXdjc24zOGJPeFZWRHZDNWlQUW1UWm9kdmlsVXQ4S3N6MGlmcnprMlh3WFNPenVoVXZNcmdkaUluTFlLbS1qT0F5WmRPWW1JQ0NOVW1mYUY1dGFTbi1DQTY4T2hreUo2WHhpYWhMazFoZkNaeHh5NkdoWU1xUdIBrwFBVV95cUxQMXVVSktQR1BqcTVUbDRtWUdNY3RnOXEwRE1HX2RTNFJoakJRTGlmbWZRNUNtV3oyOXVXM2k5TG9RaTkyRmhCaVR5aFd5Y08xYnRLLWxvMHdsTnMyNVhwZ25BbjM4UnRZN1M0aUpQRXE1d04za3BwYXpzZnUybGlaek5kV1FqVzZOTDVsc3Vmc0wxY2dxRjRVNDgtdzBkM2xyV01mNEVuVzc3alZ5cXE0?oc=5",
+      "source": ""
     },
     {
       "title": "방콕 칸나야오 지역 재선거 결과: '국민당' 압승",
       "summary": "- 2월 22일 칸나야오 지역 재선거 결과, 국민당이 지역구 및 비례대표 모두 석권.\n- 폭우로 인한 투표용지 손상으로 재선거 실시.\n- 투표율은 높았으며, 정치인들의 참관도 활발.",
       "full_translated": "2월 22일, 재선거가 종료된 후 방콕 15구 칸나야오 지역 9번 투표소의 개표 결과가 발표되었습니다. 공식적인 결과는 아니지만, 국민당이 지역구 의석과 비례대표 모두를 휩쓸었습니다. 주민투표에서는 찬성표가 반대표보다 많았습니다.\n\n오후 5시 26분, 투표 관리 위원회 (꺼뻐뻐 너.)는 칸나야오 지역 15구 9번 투표소에서 하원 의원 (써 써.) 선거 투표 용지, 비례대표 투표 용지, 그리고 주민 투표 용지에 대한 개표를 시작했다고 보도했습니다. 해당 투표소는 칸나야오 지구의 아몬판 채텔라이트 콘도 타운(R4)에 위치해 있습니다. 이는 2월 8일에 발생한 폭우로 인해 투표용지가 손상되어 다시 실시된 투표입니다. 많은 시민들과 정치인들이 투표 과정을 참관했습니다.\n\n오후 6시 16분, 투표관리위원회는 3가지 투표용지에 대한 개표를 완료했습니다. 15구 9번 투표소의 비공식 결과는 다음과 같습니다.\n\n1위: 위타왓 티차와닛, 국민당 후보, 134표\n2위: 폴품 위파티품프라텟, 프아타이당, 76표\n3위: 타놈 온켓폰, 품차이타이당, 50표\n4위: 팃타야콘 폰로차나쿤, 민주당, 18표\n\n비례대표 투표 결과:\n1위: 국민당, 143표\n2위: 품차이타이당, 63표\n3위: 프아타이당, 39표\n4위: 민주당, 23표\n5위: 타이팍디당, 6표\n\n주민투표 결과: 찬성 203표, 반대 87표, 무효 13표",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행 자체에는 큰 영향이 없으나, 태국 정치 상황에 대한 정보 제공 차원에서 낮은 점수 부여. 한국인 밀집 지역은 아니므로 안전 문제는 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "칸나야오 지역, 방콕",
-        "price": null,
-        "location_google_map_query": "칸나야오 지역 방콕"
-      },
+      "event_info": "{'date': None, 'location': '칸나야오 지역, 방콕', 'price': None, 'location_google_map_query': '칸나야오 지역 방콕'}",
       "references": [
         {
           "title": "กทม. หน่วย 10 เขต 15 นับคะแนนเสร็จแล้ว “พรรคประชาชน” เหมาทั้งเขต-ปาร์ตี้ลิสต์",
@@ -31646,23 +31632,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZh9zSAbJ6D62.jpg"
         }
       ],
-      "collected_at": "00:49",
+      "collected_at": "0:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZh9zSAbJ6D62.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/politic/2915773",
+      "source": ""
     },
     {
       "title": "찰스 3세, 동생 앤드루 왕자 체포로 새로운 위기 직면",
       "summary": "- 앤드루 왕자의 체포는 찰스 3세 즉위 후 일어난 여러 개인적인 충격 중 최신 사건임.\n- 해리 왕자의 폭로, 찰스 3세와 케이트 미들턴의 건강 문제 등이 왕실에 끊임없이 부정적인 영향을 미침.\n- 찰스 3세는 즉위 초부터 여러 어려움과 위기에 직면해 왔으며, 왕실의 미래에 대한 우려가 커지고 있음.",
       "full_translated": "찰스 3세는 동생 앤드루 왕자의 체포로 인해 새로운 시험대에 오르게 되었습니다. 이는 그의 통치에 흠집을 내는 일련의 고통스러운 개인적인 충격 중 가장 최근의 사건입니다.\n\n왕실 해설가 에드 오웬스는 AFP에 \"찰스는 2022년 9월 왕위에 오른 이후 둘째 아들 해리, 자신의 건강, 케이트의 건강, 또는 매우 파괴적인 인물인 앤드루와 관련된 어려움과 위기에 시달려 왔습니다.\"라고 말했습니다.\n\n수십 년을 기다린 끝에 찰스는 2022년 9월 어머니 엘리자베스 2세 여왕이 서거하면서 왕이 되었습니다. 엘리자베스 2세 여왕은 70년 동안 통치하며 깊은 대중의 애정과 존경을 받았습니다. 2023년 5월 6일 그의 대관식은 화려함으로 가득 차 있었고, 연속성과 전통을 보여주었습니다. 그러나 왕관이 그의 머리에 씌워지기도 전에 문제가 생겼습니다. 2023년 1월, 그의 막내 아들 해리는 폭발적인 회고록 \"Spare\"를 발표하여 왕실에 대한 반복적인 공격을 가하고 전 세계 관객들이 열광하는 사적인 분쟁을 방송했습니다. 2020년부터 아내 메건과 함께 캘리포니아에 살면서 가족과 소원해진 해리는 오랫동안 흔들리지 않는 것으로 여겨졌던 기관에 개인적, 상업적 이익을 위해 피해를 입혔다는 비판을 받았습니다. 해리는 이후 화해를 모색했지만 불화는 여전합니다. 그런 다음 2024년 2월, 현재 77세인 찰스는 자신의 암 치료를 받고 있다고 밝혔지만 어떤 종류인지는 밝히지 않아 공무를 축소해야 했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "왕실 관련 소식이지만, 현재 여행자에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Andrew's arrest just King Charles' latest royal crisis",
@@ -31671,8 +31654,58 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_5978670_700.jpg"
         }
       ],
-      "collected_at": "00:49",
+      "collected_at": "0:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_5978670_700.jpg",
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/world/3202830/andrews-arrest-just-king-charles-latest-royal-crisis",
+      "source": ""
+    },
+    {
+      "title": "파타야 시, 실종된 호주 남성에 대한 실종자 경보 발령",
+      "summary": "- 파타야 시 당국이 2026년 2월 18일부터 방사레이 지역 숙소에서 실종된 호주 남성에 대한 공식 실종자 경보를 발표했습니다.\n- 그는 나클루아의 7-Eleven 란포 지점 근처에서 마지막으로 목격되었습니다.\n- 정보를 알고 있다면 095-396-5229 (쿤 아옴)으로 전화하십시오.",
+      "full_translated": "파타야 시 법 집행 당국은 아래 남성에 대한 공식 실종자 경보를 발표했습니다. 그는 2026년 2월 18일부터 방사레이 지역 숙소에서 실종된 호주 남성입니다. 그는 나클루아의 7-Eleven 란포 지점 근처에서 마지막으로 목격되었습니다. 그를 보셨거나 정보가 있으시면 095-396-5229 (쿤 아옴)으로 전화하십시오.\n\n편집자 주: 실종자 보고서를 게시해 달라는 요청을 자주 받습니다. 이 사건과 마찬가지로 관련 태국 정부 관리의 공식적인 공개 지원 요청만 게시합니다. 전체 정책은 여기에 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "실종 사건은 여행객 안전과 관련된 문제이므로, 정보 제공을 통해 추가 피해를 막을 수 있도록 게시합니다. 파타야 지역에서 발생한 사건이므로 여행자에게 직접적인 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": "2026-02-18",
+        "location": "방사레이 지역, 나클루아 7-Eleven 란포 지점",
+        "price": null,
+        "location_google_map_query": "7-Eleven Lan Pho, Na Kluea, 파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Municipality Releases Missing Person Alert For Australian Man",
+          "url": "https://thepattayanews.com/2026/02/23/pattaya-city-municipality-releases-missing-person-alert-for-australian-man/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1771768973999.jpg?v=1771784248"
+        }
+      ],
+      "collected_at": "01:23",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1771768973999.jpg?v=1771784248",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 국제선 출발 수수료 인상 추진에 여행자들 우려",
+      "summary": "- 태국 공항 공사(AOT)가 국제선 출발 수수료를 1,120바트로 인상 추진.\n- 인상된 수수료는 공항 시설 개선 및 운영 비용에 사용될 예정.\n- 여행자들은 항공권 가격 인상 및 여행 비용 증가에 대한 우려 표명.",
+      "full_translated": "태국 공항 공사(AOT)가 국제선 출발 수수료를 1,120바트로 인상하는 방안을 추진하면서 여행자들의 우려가 커지고 있습니다. 이번 인상안은 공항 시설 개선 및 운영 비용 충당을 위해 계획되었으며, 인상된 수수료는 항공권 가격에 포함될 가능성이 높습니다. 여행자들은 항공권 가격 인상과 전체 여행 비용 증가에 대한 우려를 표명하며, 이번 인상안이 태국 여행에 미치는 영향에 주목하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "수수료 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보임. 기존 게시된 기사와 동일 내용이므로 업데이트는 아니지만, 여행 관련 중요도 감안하여 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand travelers alarmed as AOT pushes international departure fee to 1,120 baht - Pattaya Mail",
+          "url": "https://www.pattayamail.com/thailand-news/thailand-travelers-alarmed-as-aot-pushes-international-departure-fee-to-1120-baht-467367",
+          "source": "Pattaya Mail"
+        }
+      ],
+      "collected_at": "01:23",
       "date": "2026-02-23"
     }
   ]
