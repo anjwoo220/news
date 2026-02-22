@@ -30052,14 +30052,9 @@
       "summary": "- 파타야 관광 경찰이 AI 카메라 시스템을 활용하여 도주범을 체포했습니다.\n- 용의자는 파타야 지방 법원의 체포 영장이 발부된 상태였습니다.\n- AI 카메라는 관광객이 많은 지역에서 도주범을 탐지하고 체포하는 데 효과적인 것으로 입증되었습니다.",
       "full_translated": "파타야 관광 경찰은 AI 카메라 시스템을 사용하여 도주범을 체포했습니다.\n\n이번 체포는 관광 경찰관들이 담당 구역에서 일상적인 근무를 수행하던 중 오후 5시 30분경에 이루어졌습니다. 이번 성과는 중앙수사국의 전국 영장 데이터베이스와 통합된 AI 기반 CCTV 시스템 덕분이었습니다. 스마트 카메라는 해당 개인을 파타야 지방 법원에서 발부한 유효한 체포 영장과 일치하는 것으로 식별했습니다.\n\n용의자는 파타야 시 법원의 영장에 명시된 다음과 같은 여러 가지 심각한 혐의를 받고 있습니다.\n\n– 범죄를 용이하게 하거나 훔친 재산을 운송하는 데 사용된 차량과 관련된 공동 절도\n– 공동 사기 (파타야 시 법원의 체포 영장에 따름)\n– 공공에게 해를 끼칠 가능성이 있는 방식으로 다른 사람의 문서를 공동으로 가져가 처분\n– 공문서 위조 및 위조 문서 사용 공동 행위\n\n이번 체포는 관광객이 많은 지역에서 도주범을 탐지하고 구금하는 데 중요한 역할을 해온 촌부리 지역의 파타야 및 주변 지역에서 관광 경찰의 AI 감시 기술이 지속적으로 효과적임을 보여줍니다. 이 시스템은 카메라에 포착된 얼굴을 미해결 영장과 자동으로 상호 참조하여 근무 중인 경찰관의 신속한 대응을 가능하게 합니다.\n\n구금된 개인은 기소를 위해 관련 당국으로 이송하는 것을 포함하여 추가 법적 절차를 위해 구금되었습니다. 관광 경찰 관계자는 공식적인 기소 및 법원 절차가 진행 중이므로 용의자의 신원을 공개하지 않았습니다. AI 카메라의 배치는 점점 더...",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 AI를 이용한 범죄자 체포는 관광객 안전에 긍정적인 영향을 미치므로 포함. 기존 뉴스에 유사 내용이 없으므로 새로운 정보로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Tourist Police in Pattaya Arrest Fugitive Using AI Camera System",
@@ -30070,21 +30065,18 @@
       ],
       "collected_at": "14:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717410994443393692023786145301.jpg?v=1771741481",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://thepattayanews.com/2026/02/22/tourist-police-in-pattaya-arrest-fugitive-using-ai-camera-system/",
+      "source": ""
     },
     {
       "title": "나라티왓에서 폭탄 테러, 군인 부대 겨냥 실패",
       "summary": "- 나라티왓 주에서 폭탄 테러 발생, 군인 부대가 목표였으나 실패.\n- 폭탄은 도로에 설치되었으며, 깊이 1미터, 폭 3미터 크기의 구멍을 냄.\n- 군인들은 무사하며, 현재 당국이 현장을 조사 중.",
       "full_translated": "나라티왓 – 2월 22일 오전 10시, 나라티왓 주에서 폭탄 테러 시도가 있었으나, 목표로 했던 군인 부대가 경로를 이탈하여 실패했습니다. 폭탄은 차에 의해 폭발하도록 설정되었고, 결과적으로 깊이 1미터, 폭 3미터의 구멍이 생겼습니다. 아피난 차짓타 나라티왓 지역 대표, 위라삭 포슬래 경찰 서장, 낫타폴 순톤논 제49 군사 경찰 부대 사령관, 폭탄 처리반, 법의학 담당관, 경찰, 군인 등 합동팀이 현장으로 급파되었습니다. 사건은 2월 21일 오전 11시 50분에 발생했으며, 현장은 아이르자셍 마을로 향하는 도로였습니다. 사고 당시 위라삭 서장은 제4902 군사 경찰 부대의 지원을 받아 안전을 확보하고 관련 담당자에게 조사를 요청했습니다. 현장 조사 결과, 도로 중앙에 폭탄 구덩이가 있었고, 25kg 무게의 부탄 가스통으로 만든 사제 폭탄 잔해가 발견되었습니다. 폭탄은 긴 전선을 사용하여 배터리로 점화되었습니다. 다행히 부상자나 사망자는 발생하지 않았습니다. 위라삭 서장은 이번 공격이 군인들을 목표로 계획된 것으로 보고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 남부 지역의 테러 사건으로, 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공. 다만, 특정 지역에 한정된 사건이며, 현재까지 여행객 대상의 직접적인 위협은 보고되지 않아 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-02-21",
-        "location": "나라티왓 주, 아이르자셍 마을 인근 도로",
-        "price": null,
-        "location_google_map_query": "아이르자셍 마을 나라티왓"
-      },
+      "event_info": "{'date': '2026-02-21', 'location': '나라티왓 주, 아이르자셍 마을 인근 도로', 'price': None, 'location_google_map_query': '아이르자셍 마을 나라티왓'}",
       "references": [
         {
           "title": "คนร้ายลอบบึม สังหารเจ้าหน้าที่ ฉก.นราฯ แต่เดาเส้นทางผิด ทหารรอดตาย",
@@ -30095,21 +30087,18 @@
       ],
       "collected_at": "14:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYnlRSs1cHzwa.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/south/2915743",
+      "source": ""
     },
     {
       "title": "파타야, 좀티엔 지역 노숙자 단속 강화",
       "summary": "- 파타야 시 당국이 좀티엔 지역에서 합동 단속을 실시했습니다.\n- 노숙자들에게 필요한 지원을 제공하고 임시 보호소로 이송했습니다.\n- 파타야는 도시의 청결, 질서, 안전을 유지하기 위해 지속적으로 노력할 것입니다.",
       "full_translated": "좀티엔 시청은 파타야 시 관리, 파타야 경찰, 촌부리 지방 사회 개발 및 인간 안보 사무소, 방라뭉 지역 관리 및 기타 관련 기관과 함께 좀티엔에서 합동 검사 및 집행 작전을 수행했습니다. 작전 중 당국은 영향을받는 개인을 심사하고 지원을 제공하여 도움이 필요한 사람들을 추가 지원 및 치료를 위해 궁핍하고 노숙자를 위한 촌부리 지방 보호소로 보냈습니다. 이는 도시 전반에 걸쳐 청결, 질서 및 보안을 유지하기 위한 파타야의 지속적인 노력의 일환입니다. 관계자들은 대중에게 그러한 조치가 사회 복지 문제를 동정적으로 해결하면서 주요 관광지로써 지역의 매력을 보존하는 데 도움이 된다고 밝혔습니다. 이 작전은 공공 장소를 관리하고 조정된 다중 기관 조치를 통해 취약한 인구를 지원하기 위해 파타야와 주변 지역에서 최근에 수행된 유사한 노력과 일치합니다. 또한 파타야 뉴스에 따르면 최근 파타야 해변에서 발생한 노숙자 관련 바이럴 사건 및 문제도 따릅니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야의 노숙자 문제는 관광객에게 불편을 초래할 수 있으므로 관련 정보 업데이트. 기존 뉴스에 유사 내용이 있지만, 단속 강화 소식이므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Jomtien",
-        "price": null,
-        "location_google_map_query": "Jomtien"
-      },
+      "event_info": "{'date': None, 'location': 'Jomtien', 'price': None, 'location_google_map_query': 'Jomtien'}",
       "references": [
         {
           "title": "Pattaya Authorities Continue Crackdown on Vagrants in Jomtien Area",
@@ -30120,21 +30109,18 @@
       ],
       "collected_at": "14:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717391565373197450001198047239.jpg?v=1771740132",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://thepattayanews.com/2026/02/22/pattaya-authorities-continue-crackdown-on-vagrants-in-jomtien-area/",
+      "source": ""
     },
     {
       "title": "태국 관광, 중국인 관광객 급증으로 활기 되찾아",
       "summary": "- 태국이 중국인 관광객의 귀환으로 관광 붐을 누리고 있음.\n- 팬데믹 이후 중국인 관광객 급증은 태국 경제에 긍정적인 신호.\n- 태국 정부는 관광 산업 회복을 위해 다양한 프로모션과 지원 정책을 시행 중.",
       "full_translated": "태국은 중국인 관광객이 몰려들면서 관광 붐으로 '활기'를 띠고 있습니다. South China Morning Post",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국인 관광객 증가 추세는 태국 여행 환경에 영향을 미치므로 관련 정보를 제공. 최신 트렌드를 반영하여 여행객의 의사 결정에 도움을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand ‘buzzing’ with travel boom as Chinese tourists back in droves - South China Morning Post",
@@ -30145,21 +30131,18 @@
       ],
       "collected_at": "14:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWtrQ24wcGc0TW9RdnY2aHBtVWFENlRtckpfcXdaUTNjZXRvXzdOSDhadEtYRkJsZlFOVlIzZk10aktyN2FvbHdjQUZJY21ZMnp1ZEpZcVpfaW9aRzg2OVhsU01hVG5yZUlGYUh3YzF3WVhyUkFuUVdRTGRRVzRSRmQteFhhU25nYTFrSmVNUmtIa2VmZF9NcXBlUHZ0Z2Uxc182TGIta3phOUpnYmdUSzk0TTNiMFU3Xy1iUlQyTEp3LTVE0gHEAUFVX3lxTFBZSGpjQURyZVNqYjhBTWdFOVVaR1VleTJWQzREbXlkVXdCRDJEajdsNHVtcmRMRU1odnQyQ1RzTUk3X19HV3NKZTRLVmVHMmpqUW80ZjNRcWFLbFhvdzU1VHl6aWZRdHVkNG1oNUhtREd4SkhwblZnOVZCeTlaLXJxbWw1b2JtTG5ORVFOTEVBY3MyS0hSWHJVVUZaYmlDUDhZbzZSOGVITGJJM1FrZi1SVHdSLWFrejM4TlZ5ZkloZi1Ycjk?oc=5",
+      "source": ""
     },
     {
       "title": "송클라에서 시베리안 허스키 '몰리'를 끔찍하게 불태운 용의자 체포",
       "summary": "- 송클라 지방 법원의 체포 영장에 따라 '야오'라는 별명을 가진 차로엔이 구금됨.\n- 그는 재물 손괴 방화, 동물 학대 혐의로 기소됨.\n- 용의자는 자신의 닭장에 들어와 싸움닭을 다치게 했다는 이유로 개에게 엔진 오일을 붓고 불을 붙인 혐의를 받고 있음.",
       "full_translated": "태국 경찰이 송클라에서 시베리안 허스키 '몰리'를 끔찍하게 불태운 용의자를 체포했습니다.\n\n용의자는 차로엔(일명 '야오') 캄운으로, 송클라 지방 법원이 발부한 체포 영장에 따라 구금되었습니다. 그는 태국 형법 217조 및 358조, 그리고 동물 학대 방지 및 동물 복지법 B.E. 2557(2014) 20조에 따라 재물 손괴 방화 및 동물 학대 혐의로 기소되었습니다.\n\n경찰 조사에 따르면 사건은 송클라 8번 마을에서 발생했습니다. 용의자는 새벽 2시경 개가 자신의 닭장에 들어와 싸움닭 한 마리를 다치게 하자 격분하여 개에게 폐 엔진 오일을 붓고 종이에 불을 붙여 불을 붙인 혐의를 받고 있습니다. 몰리는 특히 등과 엉덩이에 심각한 화상을 입었고, 송클라 왕자 대학 동물 병원에서 응급 치료를 받았지만 결국 며칠 후 부상으로 사망하여 이전 주인과 그녀의 상태를 면밀히 지켜본 온라인 커뮤니티를 황폐화시켰습니다.\n\n사건 이후 경찰은 해당 마을의 운하 근처에서 철저한 현장 조사를 실시하고 목격자 진술을 수집하고 물리적 증거를 수집했습니다. 용의자의 거주지를 급습한 결과 공격에 사용된 것으로 추정되는 오일 용기를 포함한 추가 품목이 발견되었으며, 이는 사건 파일을 뒷받침하는 증거로 압수되었습니다. 무앙 송클라 경찰서에서 심문하는 동안...",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물 학대 사건이지만, 여행객 안전에 직접적인 위협은 아니므로 중간 점수 부여. 파타야 지역 뉴스를 제공하는 매체의 소식.",
-      "event_info": {
-        "date": null,
-        "location": "송클라 8번 마을",
-        "price": null,
-        "location_google_map_query": "송클라 8번 마을"
-      },
+      "event_info": "{'date': None, 'location': '송클라 8번 마을', 'price': None, 'location_google_map_query': '송클라 8번 마을'}",
       "references": [
         {
           "title": "Thai Police Arrest Suspect in Horrific Burning of Siberian Husky “Molly” in Songkhla",
@@ -30170,6 +30153,133 @@
       ],
       "collected_at": "14:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717422746645652424088473440358.jpg?v=1771742591",
+      "date": "2026-02-22",
+      "link": "https://thepattayanews.com/2026/02/22/thai-police-arrest-suspect-in-horrific-burning-of-siberian-husky-molly-in-songkhla/",
+      "source": ""
+    },
+    {
+      "title": "태국, 60일 무비자 체류 재검토: 디지털 노마드 및 장기 여행객에게 미치는 영향",
+      "summary": "- 태국이 60일 무비자 체류를 재검토하여 디지털 노마드와 장기 여행객에게 장기 여행의 새로운 가능성을 제시할 수 있습니다.\n- 이번 검토는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 60일 무비자 체류를 재검토하여 디지털 노마드와 장기 여행객에게 장기 여행의 새로운 가능성을 제시할 수 있습니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경 가능성은 여행자에게 직접적인 영향을 미치므로 중요합니다. 특히 디지털 노마드에게는 더욱 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Explore How Thailand’s Review of the Sixty-Day Visa-Free Stay Could Transform Long-Term Travel for Digital Nomads and Extended Vacationers Find Out The Details Here - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPem1OWmhPTTFjTFcyZ25QQTMyRlF5Z2ROWWF4RE1meGtVUU40c25MTW5fNGJMR3RBekZlN05hTnBKZ1BKYTRUNmcyczNQcXZ5YWRlbUQ3Z3dEMzkySmQtZGg3Y0pJR3pJcE1VTkZMYkxBUjJ1VE0xMnNCT2FLejZTc3JRWU5TcFVRdFlxeENiVXI1SmlPdEZhak0wZU5iWmpiTEFKY0tHWmE1dG5YSTBJbEU1QV9OcjVGdkJDTWluU2sxT3lOWXd0NmU1VF9pSVgzcjE1d2N0WllXc2d4UWxSdWFYdlh6QlhLeFUzSkVwdnN2TVY2NGpmQ1NNZE1nblZadGZ4TEVWVEFFb2FwdHNDTEdGZV9zeTZGb05DMXVscnYxcVB0U3NQRVVuODZ3R1BqdEhVUlFLYw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "매홍손 지역, 악천후 속 환자 이송 중 사망: 열악한 도로 사정의 심각성",
+      "summary": "- 매홍손 지역에서 폭우로 도로가 막혀 환자를 6km 동안 들것으로 이송해야 했습니다.\n- 환자는 병원에 도착 후 사망했으며, 이는 열악한 도로 사정이 긴급 환자 이송에 미치는 심각한 영향을 보여줍니다.\n- 20년 넘게 가난한 지역으로 분류된 매홍손의 도로 개선이 시급함을 강조합니다.",
+      "full_translated": "매홍손 지역의 열악한 교통 상황이 도마 위에 올랐습니다. 매사리앙 지역 주민들은 폭우로 도로가 막히자 6km가 넘는 거리를 들것에 환자를 싣고 이동해야 했습니다. 환자는 병원에 도착했지만 결국 사망했습니다. 이 사건은 외딴 지역의 교통 문제가 얼마나 심각한지를 보여줍니다. 매사리앙 지역 책임자인 워라삭 판통은 개인 페이스북에 '생명의 순간이 어려운 길에 굴복해야 했다'는 글과 함께 사진을 게시했습니다. 2월 20일 저녁 6시경, 그는 70세의 매러이보이 사마짓오바옴이 사망했다는 보고를 받았습니다. 그녀는 매포 마을 주민이었으며, 마을 조수인 카몬 사마짓오바옴의 어머니였습니다. 이 사건은 그가 작년에 이 마을을 방문했을 때의 기억을 되살려주었습니다. 지도상의 거리는 멀지 않아 보이지만, 실제로는 도로 상태가 가장 큰 장애물이며 주민들의 생명에 직접적인 영향을 미칩니다. 폭우가 내리면 도로 표면이 진흙탕으로 변해 차량이 정상적으로 통행할 수 없습니다. 매러이보이의 병세가 악화되자 주민들은 들것을 메고 험난한 길을 따라 산비탈을 지나 매콩카 마을로 이송한 후 구급차를 타고 매사리앙 병원으로 옮겼습니다. 의료진은 심폐소생술(CPR)을 시행하며 최선을 다했지만, 결국 거리와 시간이 그녀를 앗아갔습니다. 이것은 단순히 가난의 문제가 아니라 생사를 가르는 교통 문제에 대한 것입니다. 매홍손은 20년 넘게 가난한 지역으로 분류되었지만, 가장 큰 문제는 도로망입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 특정 지역의 교통 문제로 인해 여행객의 안전 및 이동에 불편이 발생할 수 있음을 알립니다. 특히 우기에는 더욱 주의가 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "매홍손 지역",
+        "price": null,
+        "location_google_map_query": "Mae Hong Son, Thailand"
+      },
+      "references": [
+        {
+          "title": "ชาวบ้านแม่ปอ หามเปลลุยโคลน 6 กม. ส่งผู้ป่วยรักษาต่อ สุดยื้อเสียชีวิตหลังถึง รพ.",
+          "url": "https://www.thairath.co.th/news/local/2915742",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYnnqP8YDBz9g.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYnnqP8YDBz9g.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "방콕 인근 촌부리에서 새벽 오토바이 폭주족 79명 체포, 오토바이 58대 압수",
+      "summary": "- 방콕 인근 촌부리 지역에서 새벽에 오토바이 폭주족 79명이 경찰에 체포됨.\n- 경찰은 소음 민원 신고를 받고 해당 지역을 급습하여 폭주족들을 검거함.\n- 총 58대의 오토바이가 압수되었으며, 관련자들은 법적 처벌을 받을 예정임.",
+      "full_translated": "경찰이 새벽 작전을 개시하여 유명 마을 앞에서 79명의 오토바이 폭주족을 체포하고 58대의 오토바이를 압수했습니다. 이들은 소음으로 주민들에게 불편을 초래한 혐의를 받고 있습니다. 2월 22일 0시 5분, 파투남 출라롱콘 경찰서의 아디렉 포티판 서장은 나탓왓 타쿤차이콘 부서장, 피랏 삿차 수사 부서장과 함께 순찰 수사대를 이끌고 시왈리 마을 앞 오토바이 그룹을 급습하여 79명을 체포하고 오토바이 57대와 픽업트럭 1대를 압수했습니다. 아디렉 포티판 서장은 교통 경쟁 및 안전을 고려하지 않은 운전, 집단 모임 등으로 인해 인근 주민들에게 불편을 초래한다는 민원을 접수받았다고 밝혔습니다. 경찰은 파툼타니 지방 경찰청의 피라폰 초틱사티안 사령관과 위사누락 프롬멧 부사령관의 지시에 따라 파투남 출라롱콘 경찰서가 신속하게 대응하여 오늘 집결 정보를 입수, 시왈리 마을 앞에서 폭주족 단속 작전을 펼쳐 35명의 성인과 44명의 청소년을 포함한 총 79명을 체포하고 오토바이 57대와 픽업트럭 1대를 압수했습니다. 이들은 공동으로 차량 경주를 시도한 혐의로 기소될 예정이며, 청소년들의 부모는 경찰서로 소환되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 안전 관련 소식이므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2025-02-22",
+        "location": "시왈리 마을 앞, 촌부리",
+        "price": null,
+        "location_google_map_query": "시왈리 마을, 촌부리, 태국"
+      },
+      "references": [
+        {
+          "title": "เปิดปฏิบัติการฟ้าสาง ตร.ล้อมจับแก๊งเด็กแว้น 79 คน ยึดรถ 58 คันหน้าหมู่บ้านดัง",
+          "url": "https://www.thairath.co.th/news/local/2915748",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYoJbjvhB6mNb.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYoJbjvhB6mNb.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 재선거 투표용지, 이전과 달라 소셜 미디어에서 논란",
+      "summary": "- 2월 22일 재선거에서 투표용지 원본이 이전과 다르다는 소셜 미디어의 의견이 제기됨.\n- 투표용지 꼬리표에 일련번호가 사라졌다는 의혹이 제기됨.\n- IT 전문가 타나라트 씨는 '이제 끝났다'라는 메시지를 게시.",
+      "full_translated": "2월 22일 재선거 투표에서 투표용지 원본이 이전과 다르다는 소셜 미디어의 의견이 제기되었습니다. 일부 내용이 누락되었다는 지적이 있습니다. 타나라트 씨는 '이제 끝났다'라는 메시지와 함께 사진을 게시했습니다. 2069년 2월 22일, 하원 의원 선거 투표 및 국민투표가 방콕 칸나야오 지역의 제9선거구 및 제15선거구에서 오전 8시부터 시작되었습니다. 유권자들이 계속 투표에 참여하고 있습니다. 한편, IT 전문가인 타나라트 끄아와타나판 씨는 2069년 선거 투표용지의 바코드 문제를 제기한 바 있습니다. 그는 투표소에서 참관하며 자신의 페이스북에 새로운 투표용지 꼬리표 사진을 게시했습니다. 게시된 투표용지는 정당 선택 용지이며, '이제 끝났다'라는 메시지를 덧붙였습니다. 많은 페이스북 사용자들이 댓글을 달고 공유했습니다. 여러 페이스북 사용자들은 새로운 투표용지에 꼬리표 상단의 일련번호가 없다는 점을 지적했습니다. 이는 2월 8일 투표용지와 대조됩니다. 하단의 바코드는 여전히 존재합니다. 일부는 이것이 선거 무효로 이어질 수 있는지 의문을 제기합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식은 정치적 불안정을 야기할 수 있지만, 관광객에게 직접적인 영향은 제한적이므로 중간 점수 부여. 재선거 결과에 따라 정책 변화 가능성 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ออกเสียงเลือกตั้งใหม่ โซเชียลตั้งข้อสังเกต “ต้นขั้วบัตร” ไม่เหมือนเดิม",
+          "url": "https://www.thairath.co.th/news/politic/2915731",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYJkVe13knc8T.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYJkVe13knc8T.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "베네수엘라, 정치범 1,500명 이상 사면 요청 접수",
+      "summary": "- 베네수엘라 국회, 새로운 법률에 따라 1,500명 이상의 정치범 사면 요청 접수\n- 정부는 즉시 심사 진행, 최종적으로 11,000명까지 사면 목표\n- 인권 단체는 사면 조건에 대한 우려 제기, 특히 외국 군사 개입 요청자 배제 조항 비판",
+      "full_translated": "베네수엘라 국회의장은 새로운 법률에 따라 1,500명 이상의 정치범이 사면을 요청했다고 밝혔습니다. 당국은 법률에 따라 석방 절차를 시작했으며, 며칠 전 국회를 통과했습니다. 야당과 인권 단체들은 사면의 불확실성과 제한된 범위에 대해 비판했습니다.\n\n호르헤 로드리게스 베네수엘라 국회의장은 토요일(2월 21일) 최근 발표된 새로운 법률에 따라 현재 1,557명의 정치범이 사면을 요청했다고 밝혔습니다. 로드리게스 의장은 정부가 청원을 '즉시' 처리하고 있으며, 이 법률이 최종적으로 11,000명의 수감자를 석방하는 것을 목표로 하고 있다고 밝혔습니다. 가장 먼저 석방될 그룹은 카라카스에 있는 악명 높은 감옥인 '엘 헬리코이드'에 수감된 사람들로, 몇 시간 안에 자유를 얻을 것으로 예상됩니다.\n\n이번 조치는 미국이 1월 3일 니콜라스 마두로를 체포하기 위해 군대를 파견한 이후에 이루어졌습니다. 이후 미국은 마두로 정권 시대에 오랫동안 수감되어 온 정치범들을 석방하도록 압력을 가했습니다. 정치인 후안 파블로 과니파를 포함한 수감자 석방 소식에도 불구하고 인권 단체와 학자들은 이 법률에 '숨겨진 조건'이 있다고 지적했습니다. 특히 베네수엘라에 대한 외국 군사 개입을 촉구한 사람들에게는 사면을 허용하지 않는다는 조항이 있습니다. 법률 전문가들은 이 조항이 최근 노벨 평화상을 수상한 마리아 코리나 마차도를 겨냥한 것이라고 보고 있습니다. 또한, 이 법은 과거 쿠데타를 시도했던 수십 명의 군인들을 배제하는 것으로 보입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에는 직접적인 영향이 없으나, 국제 정세에 대한 기본적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เวเนซุเอลารับคำขออภัยโทษนักโทษการเมืองกว่า 1,500 คน",
+          "url": "https://www.thairath.co.th/news/foreign/2915722",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DXwFpEx2Q6zcU.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DXwFpEx2Q6zcU.jpg",
       "date": "2026-02-22"
     }
   ]
