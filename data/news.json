@@ -31708,14 +31708,9 @@
       "summary": "- 태국 관광청은 2026년 설 연휴 기간 동안 중국인 관광객의 급증을 예상하고 있습니다.\n- 이는 중국 정부의 해외여행 재개 정책에 따른 결과로 분석됩니다.\n- 태국은 중국 관광객 유치를 위해 다양한 프로모션과 편의 시설 개선에 힘쓰고 있습니다.",
       "full_translated": "태국은 2026년 설 연휴 기간 동안 중국인 관광객의 급증을 예상하고 있습니다. 중국 정부의 해외여행 재개 정책에 따라 태국 관광청은 중국 관광객 유치를 위해 다양한 프로모션과 편의 시설 개선에 힘쓰고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "2026년 설 연휴는 아직 멀었지만, 중국인 관광객 증가 추세는 여행 관련 사업에 영향을 줄 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Sees Resurgence in Chinese Tourist Arrivals During Lunar New Year 2026 - Travel And Tour World",
@@ -31724,8 +31719,33 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:59",
+      "collected_at": "1:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2FWaVVtRHRoOFVWNDhJS21sckpFRXI3aDNEZGNsNlVPOTRmRDdSN3cyUk0xTmpwT1lhU0ZUeVhNUE5CcC05Z3BzRHFEdWwzYkltaHo3cnlPbHFNMXI0bnNMQi1IMldhYWhkMG1iVjZfTXpsS1Z4T3Y4LVlBMHk5eHFScy0tN2tKbTV2VFBzdXpQUWZaT2dNSGdfQXd2TU8xSDJlYTdTcThGeTEzS2lWcFY1eEpYOFRHNENvZjVPZmNEMkNDdFBj?oc=5",
+      "source": ""
+    },
+    {
+      "title": "'Thank you Thailand' 트렌드, 외국인 관광객 사이에서 입소문",
+      "summary": "- 태국에 대한 감사를 표현하는 '#ThankYouThailand' 트렌드가 외국인 관광객들 사이에서 인기를 얻고 있음.\n- 태국의 아름다운 풍경, 문화, 음식, 친절한 사람들에 대한 긍정적인 경험 공유가 확산되고 있음.\n- 소셜 미디어를 통해 태국의 매력을 알리는 데 기여하고 있음.",
+      "full_translated": "카오솟 영어(Khaosod English)에 따르면, 태국에 대한 감사를 표현하는 '#ThankYouThailand' 트렌드가 외국인 관광객들 사이에서 빠르게 확산되고 있습니다. 이 트렌드는 태국의 아름다운 풍경, 독특한 문화, 맛있는 음식, 그리고 특히 태국 사람들의 친절함에 대한 긍정적인 경험을 공유하는 방식으로 나타나고 있습니다. 소셜 미디어를 통해 태국의 긍정적인 이미지를 확산시키고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 대한 긍정적 경험 공유는 여행 심리를 자극하고 잠재적 방문객에게 어필할 수 있는 정보임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "‘Thank you Thailand’ trend goes viral among foreign tourists - Khaosod English",
+          "url": "https://www.khaosodenglish.com/travel/2024/05/08/thank-you-thailand-trend-goes-viral-among-foreign-tourists/",
+          "source": "Khaosod English"
+        }
+      ],
+      "collected_at": "02:26",
       "date": "2026-02-23"
     }
   ]
