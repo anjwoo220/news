@@ -29546,14 +29546,9 @@
       "summary": "- 태국 북부 지역에 2월 23일부터 25일까지 여름 폭풍 발생 예고.\n- 뇌우, 강풍, 우박, 폭우 및 번개 동반 가능성 주의.\n- 기상청은 최신 정보를 계속 확인하고, 야외 활동 자제 및 농작물 관리에 유의 당부.",
       "full_translated": "태국 기상청이 제2호 여름 폭풍을 발표하며, 태국 북부 지역에 영향을 미칠 것으로 예상됩니다. 2월 23일부터 25일까지 뇌우, 강풍, 우박, 폭우 및 번개가 발생할 수 있으므로 주의가 필요합니다. 특히, 북동부 지역부터 시작하여 북부, 중부, 방콕 및 주변 지역, 동부 순으로 영향을 받을 것으로 예상됩니다. 기상청은 국민들에게 야외 활동을 자제하고, 불안정한 구조물이나 큰 나무 아래에 머무는 것을 피하며, 농작물 피해 예방을 위해 대비할 것을 당부했습니다. 최신 기상 정보는 기상청 웹사이트(https://www.tmd.go.th) 또는 전화 0-2399-4012-13 및 1182를 통해 24시간 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행자 안전에 영향을 줄 수 있는 기상 정보이며, 여행 일정에 차질을 줄 수 있으므로 포함. 매일 업데이트되는 날씨 정보이므로 업데이트로 간주.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "태국 북부 지역",
-        "price": null,
-        "location_google_map_query": "태국 북부"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': '태국 북부 지역', 'price': None, 'location_google_map_query': '태국 북부'}",
       "references": [
         {
           "title": "อุตุฯ ประกาศ \"พายุฤดูร้อน\" ฉบับที่ 2 เตือนพื้นที่เฝ้าระวังฟ้าคะนอง ลมกระโชกแรง",
@@ -29562,23 +29557,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqpoDPvuw5FnF.jpg"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AqpoDPvuw5FnF.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/2915678",
+      "source": ""
     },
     {
       "title": "치앙마이 비극: 태국에서 72마리의 호랑이 폐사",
       "summary": "- 치앙마이에서 발생한 비극적인 사건\n- 72마리의 호랑이가 폐사함\n- 여행객들에게 영향을 줄 수 있는 동물 관련 이슈",
       "full_translated": "치앙마이 비극: 태국에서 72마리의 호랑이 폐사 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물원 방문객 감소 및 관련 관광 상품에 영향 가능성. 직접적인 위협은 아니지만 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Chiang Mai",
-        "price": null,
-        "location_google_map_query": "Chiang Mai"
-      },
+      "event_info": "{'date': None, 'location': 'Chiang Mai', 'price': None, 'location_google_map_query': 'Chiang Mai'}",
       "references": [
         {
           "title": "Chiang Mai Tragedy: Heartbreak as 72 Tigers Perish in Thailand Outbreak - Travel And Tour World",
@@ -29587,23 +29579,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjRkeWNvc2VaVldFdzhEaFNUMUl2a1VtQm9YQ2lBTGpJTzR6SnZSWjdfbEs3aFFjaEZwUTVWMFhFV0hBZ2RMWHFJN05nTHRRRkQzOU9hNkU4WnNVYjZLNFR6ZlFvaHdOXzloM2RKQmFEU1dPZTdaMnJXWkRBZ3NVbFdPRVNiOUdiTUNIVlBIcTc2eVd0VWo5U1pyanladFcxYUozVmk0cDBYTUE0REp0OWVocGNlaEpSd2NN?oc=5",
+      "source": ""
     },
     {
       "title": "태국 육군, 캄보디아 국경 지역 총격 주장 부인",
       "summary": "- 태국 육군이 캄보디아 국경 지역에서 캄보디아군에 총격을 가했다는 주장을 부인했습니다.\n- 캄보디아 언론은 Preah Vihear 지방에서 태국군이 캄보디아 군인에게 부상을 입혔다고 보도했습니다.\n- 태국 육군 대변인은 해당 보도가 부정확하며 태국-캄보디아 국경 상황에 대한 오해를 일으킬 위험이 있다고 밝혔습니다.",
       "full_translated": "태국 육군, 국경 총격 주장 부인\n\n게시일: 2026년 2월 22일 01:01\n신문 섹션: 뉴스\n작성자: Post 기자들\n\n태국 육군은 Preah Vihear 지방의 국경 지역 근처에서 태국군이 캄보디아군에 총격을 가해 한 명의 군인이 부상을 입었다는 캄보디아 언론 보도를 부인했습니다. 이번 해명은 TFA/Khmer 페이스북 페이지에 올라온 게시물에 따른 것입니다. 해당 게시물은 태국군이 Ubon Ratchathani의 Nam Yuen 지역의 Anma 교차로 맞은편 Chom Krasan 지역의 An Ses 지역에 있는 캄보디아 군사 기지를 공격했다고 주장했습니다. 해당 게시물은 이 사건으로 캄보디아 군인 한 명이 부상을 입었다고 밝혔습니다. 육군 대변인 Winthai Suvaree 소장은 어제 해당 보고가 부정확하며 태국-캄보디아 국경을 따라 상황에 대한 오해를 일으킬 위험이 있다고 말했습니다. 그는 금요일 오전 9시 30분경 제2군 지역이 Anma 지역의 태국 자위선에 더 가까워진 캄보디아군의 증가된 주둔과 이동을 관찰했다고 말했습니다. 태국군은 예방 조치에 따라 구두 경고를 발령하여 대응했습니다. 태국군은 총기나 기타 무기를 사용하지 않았다고 그는 말했습니다. 오전 10시 45분경 캄보디아 측은 지역 협력 채널을 통해 태국 당국에 5~7발로 추정되는 총성이 들렸고 캄보디아 군인 한 명이 무릎 부상을 입었다고 알렸습니다. 태국 측은 자국 군대가 합의를 엄격히 준수했다고 거듭 강조하고 모든 당사자에게 특히 일반 국경 위원회(GBC)에 따라 도달한 이해를 준수할 것을 촉구했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국경 지역 긴장 가능성, 여행객에게 직접적인 위협은 아니지만 상황 주시 필요. 기존 게시글과 내용이 다르므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Preah Vihear province (국경 지역)",
-        "price": null,
-        "location_google_map_query": "Preah Vihear province"
-      },
+      "event_info": "{'date': None, 'location': 'Preah Vihear province (국경 지역)', 'price': None, 'location_google_map_query': 'Preah Vihear province'}",
       "references": [
         {
           "title": "Army denies border gunfire claim",
@@ -29612,8 +29601,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202549_260222073923_700.jpg"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202549_260222073923_700.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.bangkokpost.com/thailand/general/3202549/army-denies-border-gunfire-claim",
+      "source": ""
+    },
+    {
+      "title": "차이나트 교차로에서 트럭 충돌 사고 발생, 5명 사망, 4명 중상",
+      "summary": "- 차이나트의 찬타나람 사원 교차로에서 트럭이 적색 신호를 위반하여 사고 발생\n- 노동자를 수송하던 트럭을 들이받고 전봇대를 들이받아 차량이 두 동강 남\n- 사망자 5명, 부상자 4명 발생. 부상자 중 1명은 병원에서 사망",
+      "full_translated": "차이나트, 찬타나람 사원에서 발생한 비극적인 사고. 트럭이 적색 신호를 위반하여 노동자 수송 차량을 들이받고 전봇대를 충돌, 차량이 두 동강이 나는 사고가 발생했습니다. 이 사고로 5명이 사망하고 4명이 부상을 입었습니다. 2069년 2월 22일 05시 30분, 차이나트의 사크부리 경찰서의 소손 숙깨우 경감이 사고 신고를 받았습니다. 사고는 찬타나람 사원 교차로 1번지에서 발생했으며, 트럭이 적색 신호를 위반하여 노동자를 수송하던 트럭을 들이받고 전봇대를 들이받았습니다. 이로 인해 여러 명의 사망자와 부상자가 발생했습니다. 현장에는 차이나트 자원 봉사 재단과 사크부리 병원 의료진이 출동했습니다. 사고 현장에서는 이스즈 D맥스 트럭이 심하게 파손되어 두 동강이 난 채 발견되었으며, 총 9명의 부상자와 사망자가 발생했습니다. 부상자 5명은 심각한 부상을 입어 사크부리 병원과 사파야 병원으로 이송되었습니다. 부상자 중 25세의 수팟트라 클라이통 씨는 병원에서 사망했습니다. 현장에서 사망한 4명의 신원은 다음과 같습니다: 28세의 왓차폰 수앙암(트럭 운전사), 23세의 낫폰 나미, 26세의 자루완 싱하, 24세의 티티마 클린통. 이들은 모두 사크부리 출신으로, 여러 곳에서 골절상을 입었습니다. 조사 결과, 해당 트럭은 교통 신호등 기둥부터 충돌하며 미끄러져 노동자 수송 트럭을 들이받고 전봇대를 들이받은 것으로 확인되었습니다. 이 사고로 인해 차량에 탑승했던 사람들이 흩어졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "교통사고로 인한 인명 피해 발생. 여행객 이동에 영향을 줄 수 있으며 안전에 대한 주의 필요.  사망자/부상자 발생으로 '업데이트' 필요.",
+      "event_info": {
+        "date": "2069-02-22",
+        "location": "차이나트, 찬타나람 사원 교차로",
+        "price": null,
+        "location_google_map_query": "찬타나람 사원 교차로 차이나트"
+      },
+      "references": [
+        {
+          "title": "อุบัติเหตุสลด กระบะชนสนั่น กลางสี่แยกไฟแดง จ.ชัยนาท ดับ 5 บาดเจ็บสาหัส 4",
+          "url": "https://www.thairath.co.th/news/local/2915692",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AucTRym02W2Ic.jpg"
+        }
+      ],
+      "collected_at": "10:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AucTRym02W2Ic.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "후아이 카캥 야생동물 보호구역, 호랑이 출산으로 '혼 녹융' 폐쇄",
+      "summary": "- 후아이 카캥 야생동물 보호구역 내 '혼 녹융' 지역이 호랑이 '손사'의 출산으로 인해 폐쇄됨.\n- 새끼 호랑이는 한 달 미만이며, 어미 호랑이의 보호가 필요한 시기임.\n- 탐방객 안전 확보 및 호랑이의 자연스러운 행동 유지를 위해 2월 21일부터 폐쇄 조치.",
+      "full_translated": "후아이 카캥 야생동물 보호구역에서 '혼 녹융' 지역의 자연 학습 및 관광을 중단한다고 발표했습니다. 암컷 호랑이 '손사'가 와서 새끼를 낳았기 때문입니다. 2069년 2월 22일, 후아이 카캥 야생동물 보호구역 페이스북 페이지에서 혼 녹융 동물 관찰탑 지역에 암컷 호랑이 '손사'가 와서 새끼를 낳았기 때문에 자연 학습 및 관광을 중단한다고 알렸습니다. 새끼 호랑이는 생후 1개월 미만으로, 어미의 보살핌과 보호가 필요한 시기입니다. 방해를 받으면 새끼를 매우 보호하고 영역을 지키는 어미 호랑이의 자연스러운 행동에 영향을 미칠 수 있으며, 스트레스를 받아 새끼를 버릴 수도 있습니다. 또한, 혼 녹융 동물 관찰탑 지역에서 자연 학습을 하는 사람들의 안전에 위험을 초래할 수도 있습니다. 후아이 카캥 야생동물 보호구역은 호랑이의 새끼 보호 및 영역 행동으로부터 자연 학습을 위해 해당 지역에 들어오는 사람들에게 발생할 수 있는 위험을 방지하고, 호랑이의 새끼 양육 영역을 방해하지 않기 위해 2069년 2월 21일부터 혼 녹융 지역의 자연 학습 및 관광을 중단하기로 결정했습니다. 퉁팩 부대에서 사무실 구역으로 가는 경로의 5km~14km 구간에 차량을 주차하지 말아 주시기 바랍니다. 박물관은 평소와 같이 방문할 수 있습니다. 불편을 드려 죄송합니다. 후아이 카캥 야생동물 보호구역 페이스북 페이지의 정보를 인용했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "특정 지역의 접근 제한 정보는 여행 계획에 영향을 줄 수 있으며, 야생 동물 보호 관련 소식은 여행자들에게 흥미로운 정보가 될 수 있습니다.",
+      "event_info": {
+        "date": "2069-02-21",
+        "location": "후아이 카캥 야생동물 보호구역 '혼 녹융' 지역",
+        "price": "해당사항 없음",
+        "location_google_map_query": "Huai Kha Khaeng Wildlife Sanctuary"
+      },
+      "references": [
+        {
+          "title": "เขตรักษาพันธุ์ฯ ห้วยขาแข้ง ปิด \"หอนกยูง\" หลังเสือโคร่ง \"สอนสา\" มาอาศัยและตกลูก",
+          "url": "https://www.thairath.co.th/news/local/2915699",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AubkPZXEXr2k5.jpg"
+        }
+      ],
+      "collected_at": "10:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AubkPZXEXr2k5.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 총선에 대한 우려 증가: 투명성 부족 및 부정행위 의혹",
+      "summary": "- 태국 국민들은 다가오는 총선에서 투명성 부족과 부정행위에 대한 우려를 표명.\n- 최근 여론 조사에 따르면 유권자들은 선거관리위원회의 업무 수행에 불만을 느끼는 것으로 나타남.\n- 응답자들은 선거가 태국 정치 상황을 개선하는 데 도움이 될지에 대해 회의적인 반응을 보임.",
+      "full_translated": "สวนดุสิตโพล에 따르면 대다수의 사람들이 투명성 부족과 선거 부정행위에 대해 우려하고 있으며, 선거관리위원회의 업무 수행에 만족하지 못하는 것으로 나타났습니다. 사람들은 태국 정치의 전반적인 상황이 이전과 같을 것이라고 생각합니다. 2069년 2월 22일, 쑤언 두씻 폴, 마하 위타얄라이 쑤언 두씻은 2069년 2월 8일 선거에 대한 전국적인 여론 조사를 실시했습니다. 1,231명의 표본 (온라인 및 현장 조사)은 2069년 2월 17일부터 20일까지 조사되었습니다. 결과는 다음과 같습니다. 1. 2069년 2월 8일 선거 관리의 만족도는 10점 만점에 평균 5.17점입니다. 2. 2069년 2월 8일 투표권 행사에 대한 사람들의 우려는 다음과 같습니다. 1위는 선거의 투명성 부족과 부정행위(67.99%), 2위는 복잡한 절차 또는 투표소의 혼란(40.45%), 3위는 각 정당의 정책이 실제로 실현되지 않을 수 있다는 점(40.37%), 4위는 정치적 갈등(37.94%), 5위는 정치적 공격 및 비방(35.09%)입니다. 3. 지난 선거에서 선거관리위원회(꺼꺼떠.)의 업무 수행에 대한 만족도는 어떻습니까? 1위는 다소 불만족(33.68%), 2위는 다소 만족(32.91%), 3위는 불만족(26.09%), 4위는 매우 만족(7.32%)입니다. 4. 사람들은 이번 선거가 태국 정치의 전반적인 상황을 개선하는 데 도움이 될 것이라고 생각합니까? 1위는 이전과 같음(49.31%), 2위는 악화됨(31.52%), 3위는 개선됨(19.17%)입니다... 닥터 폰판 부아텅 쑤언 두씻 폴 의장은 여론 조사 결과가 선거 과정에 대한 신뢰가 아직 강하지 않다는 것을 반영한다고 밝혔습니다. 사람들은 선거의 청렴성, 투명성 및 표준에 주목하고 중요하게 생각합니다. 동시에 이번 선거로 인해 태국 정치의 전반적인 상황이 이전과 같을 것이라고 생각하므로 첫 번째 시험대가 될 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 불안정은 여행 심리에 영향을 줄 수 있지만, 직접적인 위협은 아니므로 중간 점수 부여. 선거 관련 우려는 간접적인 영향만 미침.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ดุสิตโพล คนกังวลความไม่โปร่งใส-ทุจริตเลือกตั้ง 2568 ไม่ค่อยพอใจการทำงาน กกต.",
+          "url": "https://www.thairath.co.th/news/politic/2915696",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Aub76w7eOncth.jpg"
+        }
+      ],
+      "collected_at": "10:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Aub76w7eOncth.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "트럼프, 그린란드에 병원선 파견 발표: 의료 지원 및 영토 확보 시도",
+      "summary": "- 트럼프 대통령이 그린란드에 의료 지원을 명목으로 병원선 파견 발표.\n- 과거 그린란드 매입 시도와 함께 의료 지원을 통해 영향력 확대하려는 의도로 해석.\n- 덴마크 및 나토와의 갈등 속에서 미국-그린란드 관계 변화 주목.",
+      "full_translated": "도널드 트럼프 대통령이 루이지애나 주지사와의 협력을 발표하며 그린란드로 향하는 병원선을 파견한다고 발표했습니다. 이는 치료를 받지 못하는 많은 환자들을 돕기 위한 것이라고 주장하며, 덴마크 및 나토 동맹국들과의 갈등 속에서 이루어졌습니다. 트럼프는 과거 그린란드를 인수하려는 계획을 강력하게 추진한 바 있습니다.\n\n트럼프 대통령은 트루스 소셜을 통해 미국 병원선이 석양 속 바다를 항해하는 그래픽 이미지와 함께 그린란드에 의료 지원을 제공할 계획을 발표했습니다. 트럼프는 \"우리는 뛰어난 루이지애나 주지사 제프 랜드리와 협력하여 아프고 치료를 받지 못하는 많은 사람들을 돌보기 위해 대형 병원선을 그린란드로 보낼 것입니다. 배는 이미 출발했습니다!\"라고 밝혔습니다.\n\n그러나 그린란드 당국이 이러한 지원을 요청했는지, 트럼프가 왜 그린란드 국민들이 적절한 의료 서비스를 받지 못한다고 판단했는지는 불분명합니다. 트럼프는 그린란드가 러시아와 중국에 가까운 지정학적 위치를 가지고 있다는 이유로 \"국가 안보\"를 내세워 덴마크로부터 그린란드를 인수하려는 시도를 계속해왔습니다. 그린란드와 덴마크는 모두 이러한 제안에 강력히 반대하고 있습니다. 지난 1월 덴마크는 프랑스, 독일, 영국과 같은 나토 동맹국들과 함께 미군에 대응하기 위해 해당 지역에 군대를 배치했습니다.\n\n트럼프는 과거 북극과 그린란드의 안보에 대해 나토 사무총장 마르크 뤼터와 \"합의 아이디어\"에 도달했다고 밝혔으며, 이는 복잡하지만 모든 당사자에게 이익이 될 것이라고 언급했습니다. 트럼프는 그린란드를 인수하려는 열망을 거듭 밝혔지만, 덴마크는 그린란드는 판매 대상이 아니라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체와는 직접적인 관련은 없으나, 국제 정세 변화가 여행 심리에 간접적으로 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"ทรัมป์\" ประกาศส่งเรือพยาบาลไปกรีนแลนด์ อ้างช่วยคนป่วย พร้อมเดินหน้าแผนซื้อเกาะ",
+          "url": "https://www.thairath.co.th/news/foreign/2915698",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AubbMcds9BqEC.jpg"
+        }
+      ],
+      "collected_at": "10:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AubbMcds9BqEC.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "러시아, 우크라이나 내 '오레오' 공장 공격...미국 사업 이익 겨냥",
+      "summary": "- 러시아가 우크라이나 수미 지역의 오레오 공장을 미사일로 공격, 두 번째 피해 발생\n- 우크라이나 외무장관은 이번 공격을 미국 사업 이익에 대한 공격으로 규정하고 비난\n- 이 공장은 오레오, 밀카, 토블론 등 유명 브랜드 제품 생산 기지로, 우크라이나와 미국 경제에 기여",
+      "full_translated": "우크라이나 외무장관은 러시아가 북동부 수미 지역을 드론과 미사일로 공격하여 미국 회사 '몬델리즈'의 오레오 쿠키 생산 공장이 전쟁 이후 두 번째 피해를 입었다고 밝혔습니다. 또한 구급차에 대한 드론 공격으로 4명이 사망한 사건을 규탄하며, 이는 미국 사업 이익을 공격하는 것이 목표라고 지적했습니다. 안드리 시비하 우크라이나 외무장관은 지난 토요일(2월 21일) X 플랫폼을 통해 러시아 미사일이 수미 지역 트로스티아니츠에 위치한 미국 식품 대기업 몬델리즈 인터내셔널의 생산 공장을 공격했다고 밝혔습니다. 이 공장은 오레오 쿠키, 밀카 초콜릿, 토블론 등 세계적인 유명 브랜드 제품 생산 기지입니다. 시비하는 이곳이 군사 목표물이 아닌 1990년대부터 운영되어 온 공장이며 우크라이나인을 고용하고 우크라이나와 미국 경제 모두에 수익을 창출하고 있다고 언급했습니다. 우크라이나 외무장관은 \"러시아 미사일이 이런 곳을 공격할 때 그들은 우크라이나뿐만 아니라 유럽에서 미국 사업 이익을 공격하고 있는 것\"이라고 덧붙였습니다. 또한 모스크바는 미국 기업의 생산 기지를 공격하면서 미국과의 경제 협상에 대해 이야기해서는 안 된다고 강조했습니다. 산업 공장 공격 외에도 올레흐 흐리호로프 수미 주지사는 러시아 국경에서 불과 4km 떨어진 스놉-노프호로드스케 마을에서 2월 21일 드론과 미사일 공격으로 총 4명이 사망했다고 보고했습니다. 이 사건은 드론에서 투하된 폭탄으로 형제 한 쌍이 부상을 입으면서 시작되었으며, 구급차가 이들을 병원으로 이송하는 동안...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 상황은 아니지만, 국제 정세 불안정은 여행 심리에 간접적 영향. 다만, 직접적인 위협은 아니므로 낮은 점수.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัสเซียถล่มโรงงาน \"โอรีโอ\" ในยูเครน ชี้มุ่งเป้าโจมตีผลประโยชน์ธุรกิจสหรัฐฯ (คลิป)",
+          "url": "https://www.thairath.co.th/news/foreign/2915695",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Aub4DQBjQZ5ki.jpg"
+        }
+      ],
+      "collected_at": "10:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8Aub4DQBjQZ5ki.jpg",
       "date": "2026-02-22"
     }
   ]
