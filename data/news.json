@@ -31730,14 +31730,9 @@
       "summary": "- 태국에 대한 감사를 표현하는 '#ThankYouThailand' 트렌드가 외국인 관광객들 사이에서 인기를 얻고 있음.\n- 태국의 아름다운 풍경, 문화, 음식, 친절한 사람들에 대한 긍정적인 경험 공유가 확산되고 있음.\n- 소셜 미디어를 통해 태국의 매력을 알리는 데 기여하고 있음.",
       "full_translated": "카오솟 영어(Khaosod English)에 따르면, 태국에 대한 감사를 표현하는 '#ThankYouThailand' 트렌드가 외국인 관광객들 사이에서 빠르게 확산되고 있습니다. 이 트렌드는 태국의 아름다운 풍경, 독특한 문화, 맛있는 음식, 그리고 특히 태국 사람들의 친절함에 대한 긍정적인 경험을 공유하는 방식으로 나타나고 있습니다. 소셜 미디어를 통해 태국의 긍정적인 이미지를 확산시키고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행에 대한 긍정적 경험 공유는 여행 심리를 자극하고 잠재적 방문객에게 어필할 수 있는 정보임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘Thank you Thailand’ trend goes viral among foreign tourists - Khaosod English",
@@ -31745,8 +31740,11 @@
           "source": "Khaosod English"
         }
       ],
-      "collected_at": "02:26",
-      "date": "2026-02-23"
+      "collected_at": "2:26",
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "https://www.khaosodenglish.com/travel/2024/05/08/thank-you-thailand-trend-goes-viral-among-foreign-tourists/",
+      "source": ""
     }
   ]
 }
