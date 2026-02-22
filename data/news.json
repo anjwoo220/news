@@ -29942,14 +29942,9 @@
       "summary": "- 태국 북부 지역에 2월 23일부터 25일까지 여름 폭풍 발생 예고\n- 폭풍, 강풍, 우박, 폭우 및 번개 동반\n- 기상청은 야외 활동 자제, 농작물 보호 등 안전 예방 조치 당부",
       "full_translated": "태국 기상청은 태국 북부 지역에 2월 23일부터 25일 사이에 여름 폭풍이 발생할 것이라고 발표했습니다. 이번 폭풍은 강풍, 우박, 폭우 및 번개를 동반할 수 있습니다. 기상청은 해당 지역 주민들에게 야외 활동을 자제하고, 나무 밑이나 불안정한 구조물 근처에 있지 않도록 당부했습니다. 또한 농부들에게는 농작물을 보호하고 가축을 안전하게 관리할 것을 권고했습니다. 기상청은 계속해서 상황을 주시하고 있으며, 추가 정보가 있을 경우 발표할 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 기상 정보이므로 포함. 특히 야외 활동 계획에 차질을 줄 수 있음.",
-      "event_info": {
-        "date": "2025-02-23",
-        "location": "태국 북부 지역",
-        "price": null,
-        "location_google_map_query": "태국 북부"
-      },
+      "event_info": "{'date': '2025-02-23', 'location': '태국 북부 지역', 'price': None, 'location_google_map_query': '태국 북부'}",
       "references": [
         {
           "title": "ประกาศ \"พายุฤดูร้อน\" ฉบับ 3 เตือนพายุฝนฟ้าคะนอง ลมกระโชกแรง ช่วง 23–25 ก.พ. 69",
@@ -29960,21 +29955,18 @@
       ],
       "collected_at": "14:10",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DXwd1kwGPUxsB.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/2915729",
+      "source": ""
     },
     {
       "title": "외국인 관광객 사이에서 'Thank you Thailand' 트렌드 확산",
       "summary": "- 태국 여행을 마친 외국인 관광객들이 'Thank you Thailand' 비디오를 게시하며 감사를 표하는 새로운 소셜 미디어 트렌드가 확산되고 있습니다.\n- 방문객들은 태국에서 보낸 날짜, 걸음 수, 사용한 금액 등 상세한 경험을 공유하며 태국 음식, 마사지, 관광 명소, 현지인들의 따뜻함에 대한 감탄을 표현합니다.\n- 태국 네티즌들은 이러한 비디오가 현지인들이 간과할 수 있는 태국의 긍정적인 측면을 부각한다고 호평하며, 특히 유럽 관광객의 증가에 주목하고 있습니다.",
       "full_translated": "방콕 - 외국인 관광객들이 태국 여행을 마무리하면서 감사를 표하는 'Thank you Thailand' 비디오를 게시하는 새로운 소셜 미디어 트렌드가 확산되고 있습니다. 이 비디오에서 방문객들은 태국에서 보낸 날짜, 걸음 수, 사용한 금액 등을 상세히 설명합니다. 툭툭이나 Grab을 몇 번 탔는지, 7-Eleven은 몇 번 방문했는지, 태국 마사지는 몇 번 받았는지, 팟타이와 망고 찹쌀밥은 몇 접시나 먹었는지, 심지어 모기에 몇 번 물렸는지, 식중독은 몇 번 걸렸는지까지 열거하며 집으로 가져갈 추억을 이야기합니다. 대부분의 리뷰는 태국 음식, 전통 마사지, 아름다운 관광 명소, 현지인들의 따뜻함에 대한 감탄을 표현합니다. 태국 네티즌들은 이러한 비디오가 현지인들이 간과할 수 있는 태국의 긍정적인 측면을 부각한다고 호평하며, 좋은 주최자가 되어 방문객을 이용하려는 행동을 피하는 것이 태국 관광 산업에 도움이 될 것이라고 언급합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "최근 외국인 관광객들 사이에서 긍정적인 경험 공유 트렌드를 보여주는 기사로, 태국 여행에 대한 관심을 유발할 수 있어 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘Thank you Thailand’ trend goes viral among foreign tourists",
@@ -29985,21 +29977,18 @@
       ],
       "collected_at": "14:10",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/95.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.khaosodenglish.com/featured/2026/02/22/thank-you-thailand-trend-goes-viral-among-foreign-tourists/",
+      "source": ""
     },
     {
       "title": "태국 군대, 병사가 오물통에 들어가도록 강요한 사건 조사 및 고소",
       "summary": "- 태국 군대에서 사병이 상관에 의해 오물통에 강제로 들어가게 된 사건 발생.\n- 피해자는 고소장을 제출했으며, 가해자는 구금되어 법적 절차를 기다리는 중.\n- 군은 이번 사건을 심각하게 받아들이고 있으며, 가해자에 대한 징계 및 법적 처벌을 약속.",
       "full_translated": "태국 군대가 쁘라찐부리 지방의 한 군부대에서 사병이 상관의 강요로 오물통에 들어가게 된 사건을 조사하고 있습니다. 피해자는 고소장을 제출했으며, 가해자는 구금되었습니다. 군 당국은 이 사건을 심각하게 받아들이고 있으며, 징계 및 법적 처벌을 약속했습니다. 사건은 사병이 늦게 귀대했다는 이유로 발생했으며, 상관은 그에게 오물통에 들어가게 하고 구타했습니다. 군은 이러한 행위를 용납하지 않으며, 철저한 조사를 통해 책임을 물을 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 군대 내 가혹 행위는 여행객에게 직접적인 영향은 없으나, 태국의 사회 분위기를 간접적으로 보여줄 수 있으며, 치안 관련 불안감을 야기할 수 있어 포함.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "쁘라찐부리 지방 군부대",
-        "price": null,
-        "location_google_map_query": "쁘라찐부리 군부대"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': '쁘라찐부리 지방 군부대', 'price': None, 'location_google_map_query': '쁘라찐부리 군부대'}",
       "references": [
         {
           "title": "ทบ. ตรวจพบเกิดขึ้นจริง เคส \"สิบเอก\" บังคับพลทหารมุด \"บ่อเกรอะ\" พาแจ้งความแล้ว",
@@ -30010,16 +29999,18 @@
       ],
       "collected_at": "14:10",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8AuE1MT5F5Asxt.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/2915683",
+      "source": ""
     },
     {
       "title": "클래식 쿠페 인기 모델 5종",
       "summary": "- 클래식 자동차 수집은 단순한 소유 이상의 깊은 의미를 지닙니다.\n- 시대를 초월하는 예술적 가치와 디자인, 아날로그 드라이빙 경험을 제공합니다.\n- 희귀한 모델은 시간이 지날수록 가치가 상승하는 투자 자산이 될 수 있습니다.",
       "full_translated": "클래식 자동차 수집은 단순한 오래된 차량을 소유하는 것 이상으로, 깊은 이유가 숨겨진 열정입니다. 다음은 수집가들이 이러한 자동차를 사랑하는 5가지 주요 이유입니다.\n\n1. 시대를 초월하는 예술적 가치와 디자인: 클래식 자동차는 종종 독특한 외관을 가지고 있으며, 이는 현재와 같은 엄격한 공기역학 또는 안전 규제가 없던 시대의 장인 정신과 디자인을 반영합니다. 많은 사람들이 이것을 \"움직이는 예술\"이라고 생각합니다.\n\n2. 심리적 유대감과 과거에 대한 향수 (향수): 일부 모델은 어린 시절의 드림카이거나 가족 및 과거 시대와 관련된 개인적인 추억이 있을 수 있습니다. 소유하고 운전하는 것은 마치 과거로 돌아가 그 분위기를 다시 경험하는 것과 같습니다.\n\n3. 아날로그 드라이빙 경험: 클래식 자동차는 ECU 컴퓨터 시스템이나 많은 전자 장치가 없는, 원초적이고 직접적인 경험을 제공합니다. 엔진 소리, 기화기의 공기 흡입 소리 또는 구식 연료 분사 레일 + 노출된 에어 필터, 진동을 느끼고 자동차를 완전히 제어하는 ​​데 기술을 사용해야 하는 것은 현대 자동차가 제공할 수 없는 매력입니다.\n\n4. 유지 보수 및 복원의 자부심: 수집가에게 희귀 부품을 찾고 자동차를 수리하거나 복원하여 아름다운 상태로 되돌리는 것은 기쁨과 도전이며, 이는 소유자와 자동차 간의 강력한 관계를 구축하는 데 도움이 됩니다.\n\n5. 시간이 지남에 따라 가치가 증가하는 투자: 많은 클래식 자동차 모델은 제한된 수량으로 인해 희귀합니다. 따라서 시간이 지남에 따라 가치가 높아지는 경향이 있습니다. 많은 수집가들은 이를 좋은 수익을 제공하고 소유하는 즐거움을 누릴 수 있는 유형 자산에 대한 투자로 간주합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 클래식카 수집 문화에 대한 소개. 여행 자체에는 큰 영향 X",
-      "event_info": {},
+      "event_info": "{}",
       "references": [
         {
           "title": "รวมรถคลาสสิกคูเป้ยอดนิยม 5 รุ่น",
@@ -30030,21 +30021,18 @@
       ],
       "collected_at": "14:10",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHChrnLhif7RC4UIS.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/auto/review/2915562",
+      "source": ""
     },
     {
       "title": "태국 육군, 사병 사망 사건 관련 해명: 급성 심부전이 원인",
       "summary": "- 태국 육군이 쁘라찐부리 지역의 한 병사가 의식 불명 후 사망한 사건에 대해 해명함.\n- 사인은 급성 심부전으로 밝혀졌으며, 폭행 흔적은 없다고 발표함.\n- 해당 병사는 군기 위반으로 구금 중이었으며, 부대는 정확한 경위를 조사했다고 덧붙임.",
       "full_translated": "태국 육군이 2069년 2월 22일, 쁘라찐부리 주 뽐요티 캠프 소속 제2포병연대 소속 펫차랏 캄랑잉 일병이 의식 불명 상태로 사망한 사건에 대한 사실을 밝혔습니다. 군 대변인 윈타이 수와리는 해당 병사가 제12군사령부 구치소에 수감 중 의식을 잃었으며, 동료 병사들이 발견했다고 밝혔습니다. 부대는 즉시 병사를 짜끄라퐁 캠프 병원으로 이송했으나 사망했습니다. 의사의 소견에 따르면 사인은 급성 심부전이며, 폭행 흔적은 발견되지 않았습니다. 사건 발생 전 펫차랏 일병은 심부전 증세를 보였으며, 여러 명의 동료 병사들과 함께 10일 동안 구금되어 있었습니다. 부대는 이 기간 동안 폭력 행위가 있었는지 면밀히 조사했으며, 다행히 그러한 정황은 발견되지 않았습니다. 해당 부대와 제1군은 펫차랏 일병이 무단결근으로 군기 위반 혐의로 구금되었다고 밝혔습니다. 사고 당일인 2068년 11월 10일 18시 7분경, 동료들은 그가 정상적으로 보였다고 증언했습니다. 그러나 18시 18분, 갑자기 의식을 잃고 쓰러졌고, 동료 병사들이 그를 도왔습니다. 부대는 즉시 짜끄라퐁 캠프 병원 응급실로 이송하여 치료를 받도록 했으나 사망했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행 안전에 직접적인 영향은 없으나, 군 관련 사건이므로 인지 차원에서 낮은 점수 부여. 기존 뉴스에 유사 내용 없음.",
-      "event_info": {
-        "date": null,
-        "location": "ปราจีนบุรี 주",
-        "price": null,
-        "location_google_map_query": "ปราจีนบุรี"
-      },
+      "event_info": "{'date': None, 'location': 'ปราจีนบุรี 주', 'price': None, 'location_google_map_query': 'ปราจีนบุรี'}",
       "references": [
         {
           "title": "กองทัพบก ชี้แจงข้อเท็จจริง พลทหารหมดสติเสียชีวิต สาเหตุหัวใจวายเฉียบพลัน",
@@ -30055,6 +30043,133 @@
       ],
       "collected_at": "14:10",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DXZKkBRQ3Ls1w.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/politic/2915715",
+      "source": ""
+    },
+    {
+      "title": "파타야, AI 카메라 시스템으로 도주범 체포: 관광 경찰의 활약",
+      "summary": "- 파타야 관광 경찰이 AI 카메라 시스템을 활용하여 도주범을 체포했습니다.\n- 용의자는 파타야 지방 법원의 체포 영장이 발부된 상태였습니다.\n- AI 카메라는 관광객이 많은 지역에서 도주범을 탐지하고 체포하는 데 효과적인 것으로 입증되었습니다.",
+      "full_translated": "파타야 관광 경찰은 AI 카메라 시스템을 사용하여 도주범을 체포했습니다.\n\n이번 체포는 관광 경찰관들이 담당 구역에서 일상적인 근무를 수행하던 중 오후 5시 30분경에 이루어졌습니다. 이번 성과는 중앙수사국의 전국 영장 데이터베이스와 통합된 AI 기반 CCTV 시스템 덕분이었습니다. 스마트 카메라는 해당 개인을 파타야 지방 법원에서 발부한 유효한 체포 영장과 일치하는 것으로 식별했습니다.\n\n용의자는 파타야 시 법원의 영장에 명시된 다음과 같은 여러 가지 심각한 혐의를 받고 있습니다.\n\n– 범죄를 용이하게 하거나 훔친 재산을 운송하는 데 사용된 차량과 관련된 공동 절도\n– 공동 사기 (파타야 시 법원의 체포 영장에 따름)\n– 공공에게 해를 끼칠 가능성이 있는 방식으로 다른 사람의 문서를 공동으로 가져가 처분\n– 공문서 위조 및 위조 문서 사용 공동 행위\n\n이번 체포는 관광객이 많은 지역에서 도주범을 탐지하고 구금하는 데 중요한 역할을 해온 촌부리 지역의 파타야 및 주변 지역에서 관광 경찰의 AI 감시 기술이 지속적으로 효과적임을 보여줍니다. 이 시스템은 카메라에 포착된 얼굴을 미해결 영장과 자동으로 상호 참조하여 근무 중인 경찰관의 신속한 대응을 가능하게 합니다.\n\n구금된 개인은 기소를 위해 관련 당국으로 이송하는 것을 포함하여 추가 법적 절차를 위해 구금되었습니다. 관광 경찰 관계자는 공식적인 기소 및 법원 절차가 진행 중이므로 용의자의 신원을 공개하지 않았습니다. AI 카메라의 배치는 점점 더...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 AI를 이용한 범죄자 체포는 관광객 안전에 긍정적인 영향을 미치므로 포함. 기존 뉴스에 유사 내용이 없으므로 새로운 정보로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Tourist Police in Pattaya Arrest Fugitive Using AI Camera System",
+          "url": "https://thepattayanews.com/2026/02/22/tourist-police-in-pattaya-arrest-fugitive-using-ai-camera-system/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717410994443393692023786145301.jpg?v=1771741481"
+        }
+      ],
+      "collected_at": "14:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717410994443393692023786145301.jpg?v=1771741481",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "나라티왓에서 폭탄 테러, 군인 부대 겨냥 실패",
+      "summary": "- 나라티왓 주에서 폭탄 테러 발생, 군인 부대가 목표였으나 실패.\n- 폭탄은 도로에 설치되었으며, 깊이 1미터, 폭 3미터 크기의 구멍을 냄.\n- 군인들은 무사하며, 현재 당국이 현장을 조사 중.",
+      "full_translated": "나라티왓 – 2월 22일 오전 10시, 나라티왓 주에서 폭탄 테러 시도가 있었으나, 목표로 했던 군인 부대가 경로를 이탈하여 실패했습니다. 폭탄은 차에 의해 폭발하도록 설정되었고, 결과적으로 깊이 1미터, 폭 3미터의 구멍이 생겼습니다. 아피난 차짓타 나라티왓 지역 대표, 위라삭 포슬래 경찰 서장, 낫타폴 순톤논 제49 군사 경찰 부대 사령관, 폭탄 처리반, 법의학 담당관, 경찰, 군인 등 합동팀이 현장으로 급파되었습니다. 사건은 2월 21일 오전 11시 50분에 발생했으며, 현장은 아이르자셍 마을로 향하는 도로였습니다. 사고 당시 위라삭 서장은 제4902 군사 경찰 부대의 지원을 받아 안전을 확보하고 관련 담당자에게 조사를 요청했습니다. 현장 조사 결과, 도로 중앙에 폭탄 구덩이가 있었고, 25kg 무게의 부탄 가스통으로 만든 사제 폭탄 잔해가 발견되었습니다. 폭탄은 긴 전선을 사용하여 배터리로 점화되었습니다. 다행히 부상자나 사망자는 발생하지 않았습니다. 위라삭 서장은 이번 공격이 군인들을 목표로 계획된 것으로 보고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 남부 지역의 테러 사건으로, 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공. 다만, 특정 지역에 한정된 사건이며, 현재까지 여행객 대상의 직접적인 위협은 보고되지 않아 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-02-21",
+        "location": "나라티왓 주, 아이르자셍 마을 인근 도로",
+        "price": null,
+        "location_google_map_query": "아이르자셍 마을 나라티왓"
+      },
+      "references": [
+        {
+          "title": "คนร้ายลอบบึม สังหารเจ้าหน้าที่ ฉก.นราฯ แต่เดาเส้นทางผิด ทหารรอดตาย",
+          "url": "https://www.thairath.co.th/news/local/south/2915743",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYnlRSs1cHzwa.jpg"
+        }
+      ],
+      "collected_at": "14:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYnlRSs1cHzwa.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야, 좀티엔 지역 노숙자 단속 강화",
+      "summary": "- 파타야 시 당국이 좀티엔 지역에서 합동 단속을 실시했습니다.\n- 노숙자들에게 필요한 지원을 제공하고 임시 보호소로 이송했습니다.\n- 파타야는 도시의 청결, 질서, 안전을 유지하기 위해 지속적으로 노력할 것입니다.",
+      "full_translated": "좀티엔 시청은 파타야 시 관리, 파타야 경찰, 촌부리 지방 사회 개발 및 인간 안보 사무소, 방라뭉 지역 관리 및 기타 관련 기관과 함께 좀티엔에서 합동 검사 및 집행 작전을 수행했습니다. 작전 중 당국은 영향을받는 개인을 심사하고 지원을 제공하여 도움이 필요한 사람들을 추가 지원 및 치료를 위해 궁핍하고 노숙자를 위한 촌부리 지방 보호소로 보냈습니다. 이는 도시 전반에 걸쳐 청결, 질서 및 보안을 유지하기 위한 파타야의 지속적인 노력의 일환입니다. 관계자들은 대중에게 그러한 조치가 사회 복지 문제를 동정적으로 해결하면서 주요 관광지로써 지역의 매력을 보존하는 데 도움이 된다고 밝혔습니다. 이 작전은 공공 장소를 관리하고 조정된 다중 기관 조치를 통해 취약한 인구를 지원하기 위해 파타야와 주변 지역에서 최근에 수행된 유사한 노력과 일치합니다. 또한 파타야 뉴스에 따르면 최근 파타야 해변에서 발생한 노숙자 관련 바이럴 사건 및 문제도 따릅니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야의 노숙자 문제는 관광객에게 불편을 초래할 수 있으므로 관련 정보 업데이트. 기존 뉴스에 유사 내용이 있지만, 단속 강화 소식이므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Jomtien",
+        "price": null,
+        "location_google_map_query": "Jomtien"
+      },
+      "references": [
+        {
+          "title": "Pattaya Authorities Continue Crackdown on Vagrants in Jomtien Area",
+          "url": "https://thepattayanews.com/2026/02/22/pattaya-authorities-continue-crackdown-on-vagrants-in-jomtien-area/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717391565373197450001198047239.jpg?v=1771740132"
+        }
+      ],
+      "collected_at": "14:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717391565373197450001198047239.jpg?v=1771740132",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 관광, 중국인 관광객 급증으로 활기 되찾아",
+      "summary": "- 태국이 중국인 관광객의 귀환으로 관광 붐을 누리고 있음.\n- 팬데믹 이후 중국인 관광객 급증은 태국 경제에 긍정적인 신호.\n- 태국 정부는 관광 산업 회복을 위해 다양한 프로모션과 지원 정책을 시행 중.",
+      "full_translated": "태국은 중국인 관광객이 몰려들면서 관광 붐으로 '활기'를 띠고 있습니다. South China Morning Post",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국인 관광객 증가 추세는 태국 여행 환경에 영향을 미치므로 관련 정보를 제공. 최신 트렌드를 반영하여 여행객의 의사 결정에 도움을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand ‘buzzing’ with travel boom as Chinese tourists back in droves - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeWtrQ24wcGc0TW9RdnY2aHBtVWFENlRtckpfcXdaUTNjZXRvXzdOSDhadEtYRkJsZlFOVlIzZk10aktyN2FvbHdjQUZJY21ZMnp1ZEpZcVpfaW9aRzg2OVhsU01hVG5yZUlGYUh3YzF3WVhyUkFuUVdRTGRRVzRSRmQteFhhU25nYTFrSmVNUmtIa2VmZF9NcXBlUHZ0Z2Uxc182TGIta3phOUpnYmdUSzk0TTNiMFU3Xy1iUlQyTEp3LTVE0gHEAUFVX3lxTFBZSGpjQURyZVNqYjhBTWdFOVVaR1VleTJWQzREbXlkVXdCRDJEajdsNHVtcmRMRU1odnQyQ1RzTUk3X19HV3NKZTRLVmVHMmpqUW80ZjNRcWFLbFhvdzU1VHl6aWZRdHVkNG1oNUhtREd4SkhwblZnOVZCeTlaLXJxbWw1b2JtTG5ORVFOTEVBY3MyS0hSWHJVVUZaYmlDUDhZbzZSOGVITGJJM1FrZi1SVHdSLWFrejM4TlZ5ZkloZi1Ycjk?oc=5",
+          "source": "South China Morning Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "송클라에서 시베리안 허스키 '몰리'를 끔찍하게 불태운 용의자 체포",
+      "summary": "- 송클라 지방 법원의 체포 영장에 따라 '야오'라는 별명을 가진 차로엔이 구금됨.\n- 그는 재물 손괴 방화, 동물 학대 혐의로 기소됨.\n- 용의자는 자신의 닭장에 들어와 싸움닭을 다치게 했다는 이유로 개에게 엔진 오일을 붓고 불을 붙인 혐의를 받고 있음.",
+      "full_translated": "태국 경찰이 송클라에서 시베리안 허스키 '몰리'를 끔찍하게 불태운 용의자를 체포했습니다.\n\n용의자는 차로엔(일명 '야오') 캄운으로, 송클라 지방 법원이 발부한 체포 영장에 따라 구금되었습니다. 그는 태국 형법 217조 및 358조, 그리고 동물 학대 방지 및 동물 복지법 B.E. 2557(2014) 20조에 따라 재물 손괴 방화 및 동물 학대 혐의로 기소되었습니다.\n\n경찰 조사에 따르면 사건은 송클라 8번 마을에서 발생했습니다. 용의자는 새벽 2시경 개가 자신의 닭장에 들어와 싸움닭 한 마리를 다치게 하자 격분하여 개에게 폐 엔진 오일을 붓고 종이에 불을 붙여 불을 붙인 혐의를 받고 있습니다. 몰리는 특히 등과 엉덩이에 심각한 화상을 입었고, 송클라 왕자 대학 동물 병원에서 응급 치료를 받았지만 결국 며칠 후 부상으로 사망하여 이전 주인과 그녀의 상태를 면밀히 지켜본 온라인 커뮤니티를 황폐화시켰습니다.\n\n사건 이후 경찰은 해당 마을의 운하 근처에서 철저한 현장 조사를 실시하고 목격자 진술을 수집하고 물리적 증거를 수집했습니다. 용의자의 거주지를 급습한 결과 공격에 사용된 것으로 추정되는 오일 용기를 포함한 추가 품목이 발견되었으며, 이는 사건 파일을 뒷받침하는 증거로 압수되었습니다. 무앙 송클라 경찰서에서 심문하는 동안...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물 학대 사건이지만, 여행객 안전에 직접적인 위협은 아니므로 중간 점수 부여. 파타야 지역 뉴스를 제공하는 매체의 소식.",
+      "event_info": {
+        "date": null,
+        "location": "송클라 8번 마을",
+        "price": null,
+        "location_google_map_query": "송클라 8번 마을"
+      },
+      "references": [
+        {
+          "title": "Thai Police Arrest Suspect in Horrific Burning of Siberian Husky “Molly” in Songkhla",
+          "url": "https://thepattayanews.com/2026/02/22/thai-police-arrest-suspect-in-horrific-burning-of-siberian-husky-molly-in-songkhla/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717422746645652424088473440358.jpg?v=1771742591"
+        }
+      ],
+      "collected_at": "14:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717422746645652424088473440358.jpg?v=1771742591",
       "date": "2026-02-22"
     }
   ]
