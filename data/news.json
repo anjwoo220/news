@@ -30382,14 +30382,9 @@
       "summary": "- 부리람 지역 노래방 업주가 미성년자를 고용하여 손님 접대 및 성매매를 알선한 혐의로 체포됨.\n- 경찰은 해당 노래방에서 15세, 17세 소녀 2명을 발견하여 보호 조치함.\n- 업주는 미성년자 성매매 알선 혐의로 기소되었으며, 경찰은 추가 조사를 진행할 예정.",
       "full_translated": "2026년 2월 22일, 인신매매 단속반(뻐커머.)은 부리람 지역의 한 노래방 업주가 15-17세 미성년자 3명을 고용하여 술 시중을 들게 하고 성매매를 알선한 혐의로 체포했습니다. 경찰은 짠지라 응언카오(짠찌라 응아운 까오, 31세)를 인신매매 혐의로 체포했으며, 그녀는 15세에서 18세 사이의 어린이를 매춘으로 부당한 이익을 취하려 한 혐의를 받고 있습니다. 경찰 조사 결과, 해당 업주는 미성년자들의 화대를 갈취하는 방식으로 이익을 취한 것으로 드러났습니다. 경찰은 노래방에서 17세 소녀와 15세 소녀를 발견하여 보호 조치했으며, 이들을 사회개발인간안보부(쌈낙응안 파타나 쌍콤 래 쾀만콩 커 므눗)와 협력하여 인신매매 피해자로서 보호하고 지원할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행 지역 내 미성년자 관련 범죄 발생은 여행 안전에 대한 우려를 높일 수 있으며, 특히 가족 단위 여행객에게 중요한 정보임. 해당 지역 방문 시 주의를 요함.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "부리람 지역",
-        "price": null,
-        "location_google_map_query": "부리람"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': '부리람 지역', 'price': None, 'location_google_map_query': '부리람'}",
       "references": [
         {
           "title": "บุกจับร้านคาราโอเกะเมืองบุรีรัมย์ นำเด็กอายุ 15-17 ปี นั่งดริงก์ แฝงค้าประเวณี",
@@ -30400,21 +30395,18 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3kJ11zZYvR5.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/crime/2915757",
+      "source": ""
     },
     {
       "title": "페차부리 프라 나콘 키리 축제 개막",
       "summary": "- 아누틴 총리, 프라 나콘 키리 역사 공원에서 축제 개막\n- 2월 20일부터 3월 1일까지 진행, 관광 활성화 및 문화유산 기념 목적\n- 전통 의상 착용 캠페인, 전시, 불꽃놀이, 문화 공연 등 다양한 행사 포함",
       "full_translated": "페차부리 — 아누틴 찬비라쿨 총리는 그의 부인 타나논 니라밋과 함께 2026년 2월 21일 페차부리 프라 나콘 키리 역사 공원에서 제39회 “프라 나콘 키리 – 므앙 펫” 축제 개막식에 참석했습니다. 매년 2월 20일부터 3월 1일까지 프라 나콘 키리(카오 왕이라고도 함)에서 열리는 이 행사는 “프라 나콘 키리의 천상의 궁전, 시암의 보석”이라는 주제로 관광을 촉진하고 지방의 문화 유산을 기념하는 것을 목표로 합니다. 총리와 그의 부인은 방문객들이 문화 관광 분위기를 고취하기 위해 시대 의상을 입도록 권장하는 캠페인에 맞춰 전통 태국 의상을 입었습니다. 행사에는 왕실 개발 프로젝트 전시, 5,000발 이상의 야간 불꽃놀이, 8개 모든 지역의 퍼레이드, 문화 공연, 전통 공예 시연, 향토 음식 쇼케이스, 빛과 소리 프레젠테이션, 미술부의 120명 이상의 예술가들이 참여하는 콘 공연 등이 포함됩니다. 축제는 또한 모터쇼, OTOP 제품 부스, 유네스코 음식 창의 도시로서 페차부리의 위상을 강조하는 음식 박람회를 특징으로 하며, 주최측은 관광 수입을 늘리고 음식, 예술 및 역사 분야에서 지방의 소프트 파워를 홍보하는 것을 목표로 합니다. 프라 나콘 키리는 도시를 내려다보는 역사적인 언덕 꼭대기의 복합 건물입니다. 몽꿋 왕이 여름 궁전으로 건설하여 1860년에 완공되었으며, 95미터 언덕의 세 봉우리에 걸쳐 세 개의 건물 그룹으로 구성되어 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "페차부리 지역에서 진행되는 대규모 축제 정보로, 여행객에게 유용한 정보 제공. 축제 기간, 위치, 주요 행사 내용 등을 포함.",
-      "event_info": {
-        "date": "2026-02-20 ~ 2026-03-01",
-        "location": "Phra Nakhon Khiri Historical Park, Phetchaburi",
-        "price": "정보 없음",
-        "location_google_map_query": "Phra Nakhon Khiri Historical Park Phetchaburi"
-      },
+      "event_info": "{'date': '2026-02-20 ~ 2026-03-01', 'location': 'Phra Nakhon Khiri Historical Park, Phetchaburi', 'price': '정보 없음', 'location_google_map_query': 'Phra Nakhon Khiri Historical Park Phetchaburi'}",
       "references": [
         {
           "title": "Anutin opens Phra Nakhon Khiri festival in Phetchaburi",
@@ -30425,21 +30417,18 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/20260221210536_6226.jpeg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.khaosodenglish.com/news/2026/02/22/anutin-opens-phra-nakhon-khiri-festival-in-phetchaburi/",
+      "source": ""
     },
     {
       "title": "송클라에서 허스키 '몰리' 잔혹하게 죽인 남성 기소",
       "summary": "- 56세 남성이 애완견 시베리안 허스키 '몰리'를 불태워 죽인 혐의로 기소됨.\n- 남성은 닭이 물렸다는 이유로 개에게 윤활유를 뿌리고 불을 붙였다고 자백함.\n- 경찰은 동물 학대 및 재물 손괴 혐의로 남성을 체포함.",
       "full_translated": "송클라 – 56세 남성이 애완견 시베리안 허스키 '몰리'를 불태워 죽인 혐의로 기소되어 경찰에 \"개가 싸움닭을 물었다\"고 진술했습니다.\n\n경찰청 9지방 경찰청장인 Piyawat Chalermsei 경찰 중장은 Charoen Khamwun이 동물 학대 및 타인 재산 손괴 혐의로 체포되었다고 일요일에 밝혔습니다.\n\nCharoen 씨는 자신의 싸움닭을 가둔 우리에 침입하여 물자 자신의 개에게 윤활유를 뿌리고 불을 붙였다고 자백한 것으로 알려졌습니다. 인접한 Phatthalung 지방 출신인 Charoen 씨는 2월 13일 새벽 2시경 닭이 시끄럽게 울부짖는 소리에 잠을 설쳤다고 말했습니다. 그는 무슨 일이 일어났는지 보러 나갔습니다. 그는 우리 안에 개가 있고 자신의 싸움닭이 부상을 입은 것을 보고 개가 새를 공격했다고 생각했습니다. 그는 집에서 윤활유를 가져와 개에게 뿌렸습니다. 그는 종이 조각에 불을 붙여 기름에 젖은 개에게 던졌고, 개는 불길에 휩싸여 몸 대부분을 덮었습니다.\n\n그 남자는 tambon Phawong의 Laem Khwan Road에 살고 있습니다. 살해당한 개의 주인은 인접한 Bang Poo Road에 살고 있습니다. 2살 된 몰리는 며칠 동안 실종되었습니다. 그녀는 2월 15일 같은 동네 연못 근처에서 심하게 불에 탄 채 발견되었습니다. 그녀는 급히 수의 진료를 받았지만 금요일에 부상으로 사망했습니다.\n\n매일 업데이트, 속보 및 독점 콘텐츠를 보려면 뉴스레터를 구독하십시오. Bangkok Post의 전체 경험을 즐기려면",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "동물 학대 사건이지만, 외국인 여행객의 안전에 직접적인 위협은 아니므로 '보통'으로 분류. 다만, 태국 사회의 동물 보호에 대한 인식을 보여주는 뉴스이므로 흥미로운 로컬 뉴스로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Laem Khwan Road, tambon Phawong, Songkhla",
-        "price": null,
-        "location_google_map_query": "Laem Khwan Road, tambon Phawong, Songkhla"
-      },
+      "event_info": "{'date': None, 'location': 'Laem Khwan Road, tambon Phawong, Songkhla', 'price': None, 'location_google_map_query': 'Laem Khwan Road, tambon Phawong, Songkhla'}",
       "references": [
         {
           "title": "Man charged in cruel death of husky 'Molly'",
@@ -30450,21 +30439,18 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202784_260222135447_700.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.bangkokpost.com/thailand/general/3202784/man-charged-in-cruel-death-of-husky-molly",
+      "source": ""
     },
     {
       "title": "태국 해군, 태국 해역에서 캄보디아 어선 나포",
       "summary": "- 태국 해군 제1구역이 2026년 2월 22일, 끄롱 야이 지역 해역에서 캄보디아 어선을 나포했습니다.\n- 어선에는 3명의 캄보디아 선원이 타고 있었으며, 태국어 소통이 불가능하고 신분증이나 합법적인 서류가 없었습니다.\n- 선박과 선원들은 법적 절차를 위해 끄롱 야이 다목적 항구로 이송되었으며, 당국은 추가 조사를 위해 태국 해양 법 집행 사령부와 협력하고 있습니다.",
       "full_translated": "태국 해군 제1구역은 2026년 2월 22일 끄롱 야이 지역의 태국 영해에서 캄보디아 어선을 나포했다고 당국이 밝혔습니다. 순찰선 Tor 996의 사령관은 오전 10시에 체포를 보고했습니다. 선박은 북위 11°31.51’, 동경 102°53.40’에서 발견되었습니다. 3명의 캄보디아 선원이 탑승하고 있었습니다. 관리들은 그들이 태국어로 의사 소통을 할 수 없었고 태국 해역에 들어오기 위한 신분증이나 법적 서류가 없다고 말했습니다. 배에서 신선한 오징어 상자 2개가 발견되었습니다. 선원들은 태국 해역에서 이틀 동안 조업했다고 밝혔습니다. 선박과 선원들은 법적 절차를 위해 끄롱 야이 다목적 항구로 이송되었습니다. 당국은 추가 조사를 위해 트랏의 태국 해양 법 집행 사령부와 협력하고 있습니다. 이 사건은 태국 법률에 따라 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "영해 침범은 여행객에게 직접적인 영향은 없으나, 해양 활동 관련 안전 문제 간접적 영향 가능성이 있음.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "끄롱 야이 지역",
-        "price": null,
-        "location_google_map_query": "Khlong Yai"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': '끄롱 야이 지역', 'price': None, 'location_google_map_query': 'Khlong Yai'}",
       "references": [
         {
           "title": "Navy Region 1 seizes Cambodian fishing boat in Thai waters",
@@ -30475,21 +30461,18 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/S__40173795_0.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.khaosodenglish.com/news/2026/02/22/navy-region-1-seizes-cambodian-fishing-boat-in-thai-waters/",
+      "source": ""
     },
     {
       "title": "캄보디아 기자 2명, 태국 국경 충돌 사진 유포 혐의로 반역죄 유죄 판결 항소",
       "summary": "- 캄보디아 기자 2명이 태국과의 국경 충돌 관련 사진을 페이스북에 게시한 혐의로 반역죄 유죄 판결을 받고 14년형을 선고받아 항소했습니다.\n- 이들은 제한된 군사 지역에서 사진을 찍었고, 그중 하나는 지뢰를 보여주어 캄보디아의 지뢰 사용 부인 주장을 훼손한 혐의를 받고 있습니다.\n- 이 사건은 언론 자유에 대한 우려를 불러일으키고 있으며, 인권 단체들은 이들의 석방을 촉구하고 있습니다.",
       "full_translated": "프놈펜, 캄보디아 (AP) — 캄보디아 기자 2명이 작년 태국과의 국경 충돌과 관련된 사진을 페이스북에 게시한 혐의로 반역죄 유죄 판결과 14년형을 선고받은 것에 대해 항소했다고 금요일 한 사람의 배우자와 법원 관계자가 말했습니다. Battambang Post TV Online의 Phorn Sopheap과 TSP 68 TV Online의 Pheap Pheara는 취재 여행에서 돌아오던 중 7월 31일 서로 다른 장소에서 체포되었습니다. 당국은 그들이 제한된 군사 지역에서 사진을 찍었고, 그중 하나는 지뢰를 보여주어 캄보디아의 그러한 무기 사용 부인을 공식적으로 부인하는 것을 불신하게 만들었다고 말합니다. 그들은 12월에 시엠립 지방 법원에서 “외국에 국방에 불리한 정보를 제공한” 혐의로 유죄 판결을 받고 형을 선고받았습니다. 반역죄 유죄 판결은 7년에서 15년의 징역형을 받습니다. 국경 없는 기자회의 2025 세계 언론 자유 지수에서 캄보디아는 180개 국가 및 영토 중 161위를 차지하여 “언론 자유 상황이 '매우 심각'하다고 간주되는 국가 중 하나에 속합니다.”라고 파리에 본부를 둔 조직은 밝혔습니다. 뉴욕에 본사를 둔 언론인 보호 위원회의 동남아시아 선임 대표인 숀 크리스핀은 금요일 성명에서 “캄보디아 당국은 피합 파라와 포른 소피프의 터무니없는 유죄 판결에 대한 항의에 이의를 제기해서는 안 되며, 모호한 국가 안보법을 사용하여 합법적인 보도를 범죄화하는 것을 중단해야 합니다.”라고 말했습니다. 캄보디아 권리 단체인 Licadho는 다음과 같이 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 국경 지역에서 발생한 사건으로, 여행 안전에 대한 간접적인 영향이 있을 수 있지만, 직접적인 위협은 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "2 Cambodian journalists appeal treason convictions over a photo from Thai border clash",
@@ -30500,6 +30483,133 @@
       ],
       "collected_at": "16:22",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/AP26051383105806.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.khaosodenglish.com/news/international/2026/02/22/2-cambodian-journalists-appeal-treason-convictions-over-a-photo-from-thai-border-clash/",
+      "source": ""
+    },
+    {
+      "title": "태국, Meta와 협력하여 52,000개 이상의 사기 Facebook 페이지 제거",
+      "summary": "- 태국 경찰은 Meta(Facebook, Instagram, WhatsApp 모회사)와 협력 강화.\n- 불법 온라인 도박 사이트, 고리대금 앱, 해외 사기 취업 광고 집중 단속.\n- 2025년 10월부터 2026년 2월까지 52,000개 이상의 사기 페이지 차단.",
+      "full_translated": "태국 왕립 경찰(RTP)은 Facebook, Instagram 및 WhatsApp의 모회사인 Meta와의 파트너십을 강화하여 불법 온라인 도박 사이트, 약탈적 대출 애플리케이션(일반적으로 “고리대금” 앱으로 알려짐) 및 피해자를 해외 사기 운영으로 유인하는 기만적인 구인 광고를 목표로 삼았습니다. 태국 당국은 기술 범죄 진압 부서와 같은 RTP의 사이버 범죄 부서를 통해 Meta의 정책 및 집행 팀과 긴밀히 협력했습니다. 여기에는 새로운 위협을 모니터링하고, 정보를 공유하고, 신속한 조치를 구현하기 위한 정기적인 월별 조정 회의가 포함됩니다. 파트너십에 따른 주요 조치에는 불법 플랫폼에 대한 액세스를 사전에 차단하고, 사기 페이지와 계정을 제거하고, 플랫폼 정책과 태국 법률을 위반하는 오해의 소지가 있는 광고를 억제하는 것이 포함됩니다. 2025년 10월부터 2026년 2월까지 이 공동 노력으로 Facebook 및 관련 Meta 서비스에서 52,000개 이상의 의심스러운 페이지가 차단되었습니다. 이러한 페이지는 무면허 도박 홍보, 채무 주기로 차용인을 가두는 고금리 불법 대출, 인신매매로 이어지는 가짜 구인 제안 등 다양한 사이버 범죄와 연결되었습니다. 이 이니셔티브는 당국이 Meta 및 FBI와 같은 국제 파트너와 협력하여 2025년 말에 초국가적 표적을 목표로 하는 “공동 중단 주간”과 같은 작전을 수행한 태국의 광범위한 사기 방지 캠페인을 기반으로 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국에서 발생하는 사이버 범죄 및 사기 관련 정보를 제공하여 여행자들의 주의를 환기시키고 잠재적 위험을 예방하는 데 도움이 될 수 있음. 특히 구직 관련 사기는 여행객에게 큰 피해를 줄 수 있으므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Over 52,000 Scam Facebook Pages Removed in Joint Scam Crackdown by Thailand and Meta",
+          "url": "https://thepattayanews.com/2026/02/22/over-52000-scam-facebook-pages-removed-in-joint-scam-crackdown-by-thailand-and-meta/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717525289861972495013806112823.jpg?v=1771753266"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717525289861972495013806112823.jpg?v=1771753266",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "선거관리위원회(꼬 꼬 떠.)의 신뢰 위기: 투명한 진상 규명 요구",
+      "summary": "- 타위 의원은 선거표 불일치 문제에 대한 철저한 조사를 촉구하며 선거관리위원회의 위기 극복 노력을 강조함.\n- 부정 선거 의혹 해소를 위해 법적 메커니즘을 통한 진실 공개를 요구함.\n- 선거의 공정성이 훼손될 경우 사회적 갈등이 심화될 수 있다고 경고하며 적극적인 대처를 촉구.",
+      "full_translated": "타위 의원은 '투표용지 불일치'가 단순한 기술적 오류가 아니라고 주장하며 선거관리위원회(꺼꺼떠.)의 신뢰 회복을 촉구했습니다. 그는 진실을 밝히기 위해 조사위원회를 구성하고 법적 메커니즘을 활용할 것을 요구했습니다.\n\n쁘라차찻당 대표인 타위 솟송(타위 솟송)은 페이스북에 선거표 불일치 문제는 단순한 수치상의 오류가 아니라 선거의 신성함이 도전받고 있다는 위험 신호라고 밝혔습니다. 그는 선거가 민주주의의 근간이며, 정직과 공정성이 국가와 국민 간의 '사회적 계약'이라고 강조했습니다. 그러나 이 과정에 의문이 제기되면 신뢰는 흔들리고 사회적 갈등은 불가피하게 심화될 것이라고 경고했습니다.\n\n타위 의원은 선거관리위원회가 2026년 2월 8일 국회의원 선거 결과를 발표한 후 폐쇄한 Ect Report 69 웹사이트에 대한 의혹을 제기했습니다. 해당 웹사이트는 써. 써. 지역구 및 비례대표 선거 결과가 게시되었으나, 이후 학자들의 통계 분석 결과 #밧크헹 (투표용지 과다) 및 #밧크욤 (투표용지 부족) 사례가 약 324,000건에 달하는 것으로 나타났습니다. 타위 의원은 선거관리위원회가 2월 20일 해당 웹사이트를 폐쇄하여 외부의 검증을 어렵게 만들었다고 비판하며, 적극적인 대응을 촉구했습니다.\n\n타위 의원은 수십만 건에 달하는 '투표용지 불일치' 문제를 단순한 인적 오류로 치부할 수 없다고 강조하며, 선거관리위원회가 적극적으로 조사에 나서야 한다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식은 정치적 불안감을 야기할 수 있으나, 현재까지 여행객에게 직접적인 영향을 미치는 상황은 아니므로 중간 점수 부여. 선거 결과에 대한 불확실성은 잠재적인 시위나 집회로 이어질 수 있으므로 상황을 주시할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ทวี”เรียกร้อง กกต. กู้วิกฤตศรัทธา ตั้งคณะทำงานตรวจสอบใช้กลไกทางกฎหมายเปิดเผยความจริง",
+          "url": "https://www.thairath.co.th/news/politic/2915762",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZTlMhpe8lrS5.jpg"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZTlMhpe8lrS5.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 군대 내 가혹 행위 논란: 병사 사망 및 학대 사례 발생",
+      "summary": "- 태국에서 군 복무 중인 병사가 사망하고, 다른 병사는 학대당하는 사건이 발생하여 논란이 일고 있습니다.\n- 한 병사는 훈련 중 사망했으며, 다른 병사는 부적절한 처벌을 받은 것으로 알려졌습니다.\n- 이러한 사건에 대해 철저한 조사와 책임자 처벌을 요구하는 목소리가 높아지고 있습니다.",
+      "full_translated": "위롯'은 군대 내 가혹 행위에 대한 두 가지 사례를 게시했습니다. 한 군인은 사망했고 다른 한 명은 정화조에 잠수하는 처벌을 받았습니다. 실종 방지법에 따라 기소해야 합니다.\n\n위롯'은 격렬하게 비난했습니다. 실종 방지법에 따라 군인 사망 사건을 기소해야 합니다. 쁘라찐부리 캠프에서 구금된 후 사망한 군인. 그는 아웃사이더 군인 때문에 죽어서는 안 된다고 선언했습니다. 또 다른 사례는 정화조에 잠수하는 처벌을 받아 인간으로서의 존엄성이 짓밟혔습니다.\n\n2026년 2월 22일 오전 10시 54분, 쁘라차촌당 부대표인 위롯 락카나아디손 씨는 자신의 페이스북을 통해 쁘라찐부리 주 폼요티 캠프 제2 포병 연대 소속인 페차랏 캄랑잉 군인의 사망 사건에 대해 언급했습니다. 그는 이 사건이 사회가 묵과해서는 안 될 작은 문제가 아니라고 말했습니다. 적과의 전투에서 한 군인을 잃는 것은 우리를 분노하게 하지만, 이것은 군대 내에서 의심스러운 상황에서 발생한 사망입니다. 같은 국적의 군인에 의한 고문으로 사망했을 가능성이 있다는 추측이 있습니다. 만약 그렇다면, 그것은 군대의 수치스러운 일입니다. 초기 보고에 따르면 페차랏 군인은 휴가를 과도하게 사용하여 처벌을 받았으며, 12 군구 감옥에 15일 동안 구금되었습니다. 그러나 그는 구금 10일째에 발작을 일으키며 의식을 잃고 감옥에서 사망했습니다. 동료 수감자가 응급 처치를 하고 짜끄라퐁 캠프 병원으로 이송했습니다. 그 후 의사는 페차랏 군인이 생명 징후가 없다고 알렸습니다.\n\n위롯 씨는 계속해서 이것이 구금 중에 발생한 사망이며, 법에 따라 의사와 수사관뿐만 아니라 검사와 군수품 수준 이상의 행정관도 검사에 참여해야 한다고 밝혔습니다. 또한 부검이 완료되면 수사관은 검사와 함께 사건을 작성하고 법원에 사망 조사를 요청해야 합니다. 법원은 사망자가 누구인지, 언제 어디서 사망했는지, 사망 원인과 상황을 명시하는 명령을 내려야 합니다...\"",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 군대 내 사건 사고는 여행 안전에 간접적인 영향을 줄 수 있으므로 관련 정보를 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“วิโรจน์” โพสต์ 2 เคส ทหารเสียชีวิต-ถูกลงโทษมุดบ่อเกรอะ ต้องดำเนินคดี พ.ร.บ.อุ้มหาย",
+          "url": "https://www.thairath.co.th/news/politic/2915759",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY2uja7Wsvq0X.jpg"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY2uja7Wsvq0X.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "자동차 시동 시 나타나는 강아지 그림과 물뿌리개 모양 경고등의 의미는?",
+      "summary": "- 태국 네티즌들이 자동차 계기판에 나타나는 경고등의 의미에 대해 활발하게 논의 중.\n- 강아지 그림은 에어백 시스템 이상을, 물뿌리개는 엔진 오일 압력 부족을 나타냄.\n- 해당 경고등이 켜지면 즉시 서비스 센터에 방문하여 점검을 받는 것이 안전함.",
+      "full_translated": "한 네티즌이 '토요타 비오스 클럽'에 자동차 시동 시 나타나는 강아지 그림과 물뿌리개 모양의 경고등이 무엇을 의미하는지 질문했습니다. 이에 많은 네티즌들이 답변을 달았습니다. 어떤 사람들은 농담을 하기도 했지만, 대부분은 경고등의 의미를 정확하게 설명했습니다. '물뿌리개' 모양은 엔진 오일 압력 부족을 의미하며, '강아지' 모양은 에어백 시스템의 이상을 나타냅니다. 에어백 경고등이 켜진 상태로 사고가 발생하면 에어백이 작동하지 않을 수 있으므로 즉시 서비스 센터에 방문하여 점검을 받는 것이 좋습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 중 렌터카 이용 시 발생할 수 있는 문제에 대한 정보 제공. 안전 관련 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "แฟนคลับรถช่วยค้นหาสัญลักษณ์​ ไฟรูปลูกหมา กับกระถางรดน้ำ ตอนสตาร์ต​รถ หมายถึงอะไร",
+          "url": "https://www.thairath.co.th/news/auto/news/2915756",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3iImjBGCwrQ.jpg"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3iImjBGCwrQ.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "지노 티티쿨, 홈에서 혼다 LPGA 태국 첫 우승 차지",
+      "summary": "- 지노 티티쿨이 파타야에서 열린 혼다 LPGA 태국에서 우승하며 태국 골프 역사를 새로 썼습니다.\n- 최종 라운드에서 4언더파 68타를 기록, 최종 합계 23언더파로 일본의 이와이 치즈루를 한 타 차로 제쳤습니다.\n- 이번 우승은 티티쿨에게 의미가 깊으며, 태국인으로서 세 번째 혼다 LPGA 태국 우승자가 되었습니다.",
+      "full_translated": "지노 티티쿨이 열정적인 홈 관중 앞에서 시암 컨트리 클럽 올드 코스에서 열린 혼다 LPGA 태국에서 첫 우승을 차지했습니다. 티티쿨은 최종 라운드에서 4언더파 68타를 기록하며 최종 합계 23언더파로 토너먼트를 마감했습니다. 일본의 이와이 치즈루를 한 타 차로 제쳤고, 한국의 김효주가 3위로 바짝 뒤쫓았습니다. 23세의 태국 스타는 개막전 67타, 두 번째 라운드 생일에 보기 없는 9언더파 63타, 토요일 마지막 세 홀에서 버디를 기록한 6언더파 66타로 2주 샷 리드로 최종일에 들어섰습니다. 그녀의 꾸준한 플레이와 도전자들의 압박을 처리하는 능력은 일요일에 결정적인 것으로 입증되었습니다. 이번 승리는 티티쿨에게 역사적인 이정표가 되었습니다. 그녀는 혼다 LPGA 태국 역사상 세 번째 태국 골퍼가 되었습니다. 이번 우승은 티티쿨이 14세의 스폰서 초대로 처음 이 대회에 참가했고 오랫동안 트로피를 들어 올리는 것을 꿈꿔온 홈에서 특히 의미가 깊습니다. 티티쿨은 주 초에 \"세계 랭킹 1위로 자국에서 뛰는 것은 저뿐만 아니라 제 팀과 자랑스러워할 수 있는 모든 태국 사람들에게 큰 의미가 있습니다.\"라고 말했습니다. 그녀의 성과는 팬들에게 영감을 주고 그녀의 놀라운 경력에 또 다른 장을 추가하면서 그러한 감정을 전달했습니다. 혼다 LPGA 태국은 아시아 최고의 무대 중 하나에서 최고의 재능을 계속 선보이고 있으며 티티쿨의 압도적인 모습은 그녀의 현재 뛰어난 선수로서의 위상을 정말 잘 보여줍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야에서 열린 LPGA 경기 결과는 스포츠 팬들에게 흥미로운 소식이 될 수 있지만, 일반 여행객에게 미치는 직접적인 영향은 크지 않음.",
+      "event_info": {
+        "date": "2026-02-22",
+        "location": "Siam Country Club Old Course, 파타야",
+        "price": "정보 없음",
+        "location_google_map_query": "Siam Country Club Old Course Pattaya"
+      },
+      "references": [
+        {
+          "title": "Jeeno Thitikul Captures First Honda LPGA Thailand Title in Pattaya on Home Soil",
+          "url": "https://thepattayanews.com/2026/02/22/jeeno-thitikul-captures-first-honda-lpga-thailand-title-in-pattaya-on-home-soil/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717511308138805510162968703673.jpg?v=1771751430"
+        }
+      ],
+      "collected_at": "16:51",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717511308138805510162968703673.jpg?v=1771751430",
       "date": "2026-02-22"
     }
   ]
