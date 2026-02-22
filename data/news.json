@@ -30778,14 +30778,9 @@
       "summary": "- 파타야 남쪽 좀티엔 해변에 다량의 쓰레기가 밀려와 해변을 덮었습니다.\n- 플라스틱, 나무 조각, 스티로폼 상자, 물병, 심지어 철 못까지 발견되었습니다.\n- 관광객들은 해변을 걷거나 깨끗한 지역에 머물며 물에 들어가는 것을 피하고 있습니다.",
       "full_translated": "파타야 - 일요일, 도시 바로 남쪽에 위치한 인기 있는 좀티엔 해변에 엄청난 양의 쓰레기가 밀려와 모래를 덮고 관광객들을 쫓아냈습니다. 쓰레기는 해변을 따라 몇 킬로미터에 걸쳐 흩어져 있었고, 눈에 띄게 플라스틱 조각, 나무 조각, 스티로폼 상자, 물병, 심지어 철 못까지 포함되어 있었습니다. 일요일에는 해변이 보통 태국인과 외국인으로 붐볐을 테지만, 방문객 수는 분명히 줄었습니다. 대부분은 해변을 따라 난 길이나 해변의 깨끗한 부분에서 걷는 것을 선택했고, 물에 들어가는 것을 피했습니다. 해변 의자를 빌려주는 노점상은 바다가 거칠 때마다 쓰레기가 정기적으로 해변에 밀려온다고 말했습니다. 관광객들은 다치거나 병에 걸릴까 봐 두려워하며 수영을 피했습니다. 파타야 시 청소부들이 쓰레기를 수거하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해변의 쓰레기 문제가 관광객에게 직접적인 불편을 초래하고 있어 여행 관련 정보로 분류. 파타야를 방문하는 여행객들에게 영향을 줄 수 있으므로 포함.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "좀티엔 해변, 파타야",
-        "price": null,
-        "location_google_map_query": "Jomtien Beach, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': '좀티엔 해변, 파타야', 'price': None, 'location_google_map_query': 'Jomtien Beach, Pattaya'}",
       "references": [
         {
           "title": "Pattaya’s Jomtien beach covered in garbage",
@@ -30796,21 +30791,18 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202824_700.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.bangkokpost.com/thailand/general/3202824/pattayas-jomtien-beach-covered-in-garbage",
+      "source": ""
     },
     {
       "title": "태국 전역, 총리 지시로 2026년 가뭄 대비 및 국민 고통 완화 총력",
       "summary": "- 태국 총리가 2026년 가뭄에 대비하여 전국 모든 지역에 선제적 조치를 지시했습니다.\n- 물 관리 시스템 구축 및 국민 생활과 농업 지원에 초점을 맞추고 있습니다.\n- 기상 상황을 면밀히 모니터링하고 비상 계획을 수립하여 신속하게 대응할 예정입니다.",
       "full_translated": "태국 내무부 장관은 '아누틴 총리'가 2069년 가뭄 예방 및 대처 방안을 추진하기 위해 모든 지역에 긴급 지시를 내렸다고 밝혔습니다. 이는 체계적인 물 관리를 통해 모든 지역 주민의 어려움을 완화하는 데 중점을 둡니다. 2069년 2월 22일, 아르싯 삼판타랏 내무부 차관은 기상청의 2069년 2월 19일자 태국 여름철 진입 발표에 따라 태국이 공식적으로 2069년 여름철에 진입했다고 밝혔습니다. 이는 2069년 5월 중순까지 지속되며 태국의 기온 상승을 야기할 것입니다. 특히 건조한 날씨로 인해 여러 지역의 물 부족에 영향을 미칠 것으로 예상됩니다. 이에 아누틴 찬위라꾼 총리 겸 내무부 장관은 국가 재난 예방 및 완화 사령관으로서 2069년 가뭄 예방 및 해결을 위한 실천 방안을 수립하고 모든 지역에 다음과 같은 사항을 지시했습니다. 첫째, 지역 내 모든 기관이 협력하여 국민 생활과 농업 지역을 보호합니다. 둘째, 기상 조건, 저수량, 다양한 부문의 물 사용 문제, 강우량을 분석하고 지역의 물 수요를 주기적으로 평가하기 위한 실무 그룹을 구성하여 '지역의 물 상황을 면밀히 모니터링하고 감시'합니다. 셋째, 실제 상황에 맞는 '지역 가뭄 비상 계획을 신속하게 수립'하고 관련 기관, 민간, 군 관계자와 함께 공동 실천 방안에 대한 이해를 돕습니다. 이를 통해 사고 발생 시 신속하고 체계적인 지원이 가능하도록 합니다. 넷째, 지역 내 기관이 '국민의 어려움을 완화하기 위해 모든 장비, 기계, 인력을 준비'하도록 지시합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 전역의 가뭄 대비 상황은 여행 중 물 사용에 대한 고려가 필요하며, 관련 정보를 제공하는 것이 유용하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "นายกฯ สั่งด่วนผู้ว่าฯ ทุกจังหวัด ป้องกันรับมือภัยแล้งปี 69 บรรเทาความเดือดร้อนประชาชน",
@@ -30821,21 +30813,18 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZTL8cu1BMcEJ.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/politic/2915769",
+      "source": ""
     },
     {
       "title": "태국, 고수익 투자 사기로 은퇴자 2400만 바트(약 9억원) 피해",
       "summary": "- 75세 은퇴자가 온라인 투자 사기에 2400만 바트를 잃었습니다.\n- 사기꾼들은 유명 식당 브랜드를 도용하고 Line 앱을 통해 피해자를 유인했습니다.\n- 금융 및 투자 사기가 가장 큰 손실을 초래했으며, 컴퓨터 기반 투자 사기 상위 10건의 손실액은 3490만 바트에 달합니다.",
       "full_translated": "태국 방콕포스트에 따르면 75세 은퇴한 공무원이 온라인 투자 사기로 거의 2400만 바트를 잃었습니다. 사기꾼들은 유명 식당 브랜드의 이름을 도용하고 Line 메신저 앱을 사용하여 피해자를 유인했습니다. 반부패 사이버 사기 센터(ACSC) 부국장인 Jirabhop Bhuridej 경찰 중장은 일요일에 자세한 내용을 밝혔습니다. 그는 구매 및 서비스 사기가 가장 많이 보고된 사기였지만 금융 및 투자 사기가 가장 큰 손실을 초래하여 지난주 사건의 49.7%를 차지했다고 밝혔습니다. 상위 10개 컴퓨터 기반 투자 사기로 인한 손실은 3490만 바트를 넘어섰습니다. 가장 큰 단일 손실은 Line 앱에서 'Ohkajhu' 브랜드를 허위로 사용하여 투자를 유도하는 광고에 응답한 노인의 경우였습니다. Ohkajhu는 유기농, 팜투테이블 음식을 전문으로 하는 태국 레스토랑 체인입니다. 사기꾼들은 빠른 시장 수익률을 약속하고 개인 \"코치\"를 배정하여 단계별로 안내하고 지시를 엄격히 따르도록 했습니다. 피해자는 합법적인 투자 플랫폼이라고 믿는 곳으로 돈을 이체하기 시작했습니다. 맞춤형 시스템은 성장하는 원금과 이익, 주식 차트 및 \"잔액 확인\" 웹사이트 링크가 포함된 설득력 있는 대시보드를 표시했습니다. 사이트의 다른 영역에는 액세스할 수 없었다고 Pol Lt Gen Jirabhop이 말했습니다. 처음에는 남자가 소액을 인출할 수 있었는데, 이는 신뢰를 구축했습니다. 인출은 나중에 차단되었고 운영자는 추가 자금을 요구했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객도 사기 피해를 입을 수 있으므로 주의가 필요. 투자 관련 사기 수법을 알리고 예방하는 것이 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Retiree duped out of B24m in ‘high-yield’ investment scam",
@@ -30846,21 +30835,18 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202819_260222171329_700.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.bangkokpost.com/thailand/general/3202819/retiree-duped-out-of-b24m-in-highyield-investment-scam",
+      "source": ""
     },
     {
       "title": "송클라에서 훼손된 아기 시신 발견, 경찰 수사 착수",
       "summary": "- 송클라의 한 주택 앞에서 훼손된 아기 시신이 발견되었습니다.\n- 시신은 약 2주 전에 사망한 것으로 추정됩니다.\n- 경찰은 CCTV를 확인하여 용의자를 찾고 있습니다.",
       "full_translated": "송클라 지방의 임대 주택 앞에서 마른 아기 시신이 발견되었습니다. 사망한 지 2주 된 것으로 추정됩니다. 집주인은 집 앞에서 아기가 사망했다는 사실을 몰랐다고 진술했습니다. 2069년 2월 22일, 코홍 경찰서의 아피찻 완 서장은 주민으로부터 생후 1~2개월 된 아기의 시신이 코홍 구, 반 퉁야이, 무 6 지역의 임대 주택 앞 주차장에서 발견되었다는 신고를 받았습니다. 신고를 받은 후 코홍 경찰서 수사팀은 송클라 지방 증거 조사반 및 송클라 나카린 대학교 병원의 의사와 함께 현장에 출동했습니다. 현장 조사 결과, 흰색 곰돌이 옷을 입고 기저귀를 착용한 성별 불명의 생후 1~2개월 된 아기의 시신이 임대 주택 앞 주차장에서 발견되었습니다. 시신은 마른 상태로 사망한 지 약 2주 된 것으로 추정됩니다. 75세의 여성 웡캐로 알려진 집주인은 혼자 살고 있었습니다. 웡캐는 전기 기술자가 알려주기 전까지는 몰랐다고 진술했습니다. 그녀는 집 앞에 아기 시신이 있다는 것을 몰랐으며, 평소 집을 드나들 때 차를 후진하여 나갔다가 들어올 때도 차를 돌려 주차했기 때문에 시신을 보지 못했다고 말했습니다. 수사팀은 아기 시신을 유기한 용의자를 찾기 위해 CCTV를 확인하고 있습니다. 수사관은 시신을 송클라 나카린 대학교 병원으로 보내 부검을 실시할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 해당 지역의 치안에 대한 우려를 불러일으킬 수 있는 사건입니다. 여행 시 주의를 기울여야 함을 알립니다.",
-      "event_info": {
-        "date": null,
-        "location": "송클라",
-        "price": null,
-        "location_google_map_query": "송클라"
-      },
+      "event_info": "{'date': None, 'location': '송클라', 'price': None, 'location_google_map_query': '송클라'}",
       "references": [
         {
           "title": "พบศพทารกปริศนาหน้าบ้านเช่า แห้งเหลือแต่กระดูก เร่งตรวจสอบกล้องวงจรปิด",
@@ -30871,6 +30857,108 @@
       ],
       "collected_at": "18:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZhzleqHpUkp3.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/south/2915771",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변, 약물 사용 및 부적절한 행위 증가에 따라 안전 순찰 강화",
+      "summary": "- 파타야 해변에서 약물 사용 및 부적절한 행위 증가에 따라 안전 순찰이 강화됩니다.\n- 특히 중국, 인도, 말레이시아 관광객들은 주의해야 합니다.\n- 휴가 여행에 미칠 영향에 대한 내용도 포함되어 있습니다.",
+      "full_translated": "파타야 해변에서 약물 사용 및 부적절한 행위가 증가함에 따라 안전 순찰이 강화됩니다. 특히 중국, 인도, 말레이시아 관광객들은 주의해야 합니다. 휴가 여행에 미칠 영향에 대한 내용도 포함되어 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변의 안전 문제 관련하여 여행객에게 직접적인 영향을 줄 수 있으며, 기존 게시글과 유사하지만 최신 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Thailand, China, India, and Malaysia Tourists Beware: Pattaya Beach Intensifies Safety Patrols Amid Rising Drug Use and Indecent Behaviour – What This Means for Your Vacation! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmI1czcyR25hR2lXSWFCV2lyYTMwM2hPM2J2WlBXQUozYklld1JQb240OFNJOEFNcUozejlCTkZrZlZKMENRLXV6cjlMUVRLbU5yLXdoV1hDQnpXSlhydDl6TWkwS2hSODV3anZyaEV0M1pxZ3Z0NVNNMk1XcHJGWXlKNXphVElKekVoeGNlal9SWXkyTFEySW5KcFgydGhhVC1QOEtXSUdib1UyS1hzNHlsczRfNkdBN2gzTmNVc1JVU2RrU0JZN3NLU1RLRzNXdEdPaTdROGp2LXJmTDRmN1VMSEtWLUxJbTBYMzVfQ3U5SllkRnJ5UmFsQ19XQ3Nvc010aXNGQUhnWlZzeG82X1F1ckVIZkhLNWswNUZRMTcwaURFSFlkcktRQzFFb0t3aWg4Y2ZxRjVaS2g2YUE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야 및 주요 관광 도시, 음주 운전 단속 강화",
+      "summary": "- 태국 경찰, 파타야 등 관광 도시에서 음주 운전 단속 강화.\n- 음주 운전에 대한 무관용 정책 시행.\n- 관광객 안전 확보 및 사고 예방 목적.",
+      "full_translated": "태국 경찰이 파타야 및 주요 관광 도시에서 음주 운전에 대한 무관용 정책을 시행하며 단속을 강화합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 안전에 직접적인 영향을 미치는 음주 운전 단속 강화 소식이므로 포함. 여행 중 주의를 요하는 사항.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 및 주요 관광 도시",
+        "price": null,
+        "location_google_map_query": "Pattaya"
+      },
+      "references": [
+        {
+          "title": "Thailand police enforce zero tolerance on drunk driving as Pattaya and tourist cities face tighter checks - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWkhSMFhZQTNtM0o5OTVsTU9nVFRxenFpcmJIOWpMbUsyUTVXb3RaUVpaT0JyVG5ydUJXOGxuME1FQzIwT2o0SmNIZFM5MjVqaEJYdy1LTi1ZNV9ReWZrcEJLYXU2aXY1RmxneFNicndUdHRjNzdBbHV4akVId29wTUxkQlZ1c1JqaGJ6QXJrcXR3UnFKbFpleGt6UVVQMUN0bjdFc1l5dGhDRWdSVkZvX0ZPOWNfVl9JU2ZhakVNRzVUNEhxTVZSZkVpUmxxVHRtZzZCdTV4SXZsTlVTdFE?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "중국, 2026년 춘절 맞아 한국, 태국 등 해외여행 급증 예상 - Travel And Tour World",
+      "summary": "- 중국의 2026년 춘절 연휴 기간 동안 해외여행이 급증할 것으로 예상됨.\n- 특히 한국과 태국이 주요 여행지로 부상하고 있음.\n- 이는 글로벌 관광 산업에 큰 영향을 미칠 것으로 전망됨.",
+      "full_translated": "중국의 2026년 여행 붐은 기록적인 해외 여행으로 이어져 춘절이 한국, 태국 및 그 외 지역으로의 글로벌 관광 급증을 촉발합니다! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "2026년까지의 예측이지만, 중국 관광객 증가에 따른 영향 (혼잡도, 물가 상승 등)을 고려하여 정보 제공.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "한국, 태국",
+        "price": "변동 가능",
+        "location_google_map_query": "한국 태국 관광"
+      },
+      "references": [
+        {
+          "title": "China’s 2026 Travel Boom Record‑Breaking Outbound Journeys as Spring Festival Sparks a Global Tourism Surge to South Korea, Thailand, and Beyond! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPLXB3RmNrZEJCZ2FaWXQyRnpJd092QVU4UXRpMTVJMk40aXF6cm9DSGZ3QW0tZTVtc3NEUmRsQ05JR2ozajhVMGtGclEwdnVvWlk2NEkzampaUUJnWThvTmJLemRsb1BPS2p5NTRCWXR2aU1VbVRmWkRFX01lQklQb1l3YWNmMzA5US1FcDBPbkFCZEJ5N3gyZk5BV1NiTWJMZ0lYVDRxS2JkQ3A2dElYekx5Sk1ZRzh6eWw2UmVkNWZTcHpZWG5DT0JZS01WM1pFV2VKaUVQdTB0MjByWEoteGc5SHFTUDduNWdEV3ppNEFpbklpOWh2RFZScWpYYUV4SmwxcjZtU3ZnVmVsVFFpRHFlbUVZSDJ2R0lKdGVnM1Y3Q0FG?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "지노 티티쿨, 혼다 LPGA 태국 우승",
+      "summary": "- 태국 파타야에서 열린 혼다 LPGA 태국에서 지노 티티쿨이 우승을 차지했습니다.\n- 마지막 날 일본의 치사토 '치지' 이와이와의 접전 끝에 승리했습니다.\n- 시암 컨트리클럽 올드 코스에서 팬들의 응원 속에 우승을 확정지었습니다.",
+      "full_translated": "파타야: 열렬한 팬들의 함성이 시암 컨트리클럽 올드 코스를 가득 채운 가운데, 지노 티티쿨이 일본의 치사토 '치지' 이와이와의 마지막 날 접전 끝에 혼다 LPGA 태국 19회 대회에서 우승을 차지했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 열린 스포츠 경기 결과. 관광객에게 직접적인 영향은 적지만, 태국 관련 소식으로 흥미를 유발할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "시암 컨트리클럽 올드 코스, 파타야",
+        "price": null,
+        "location_google_map_query": "Siam Country Club Old Course, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Jeeno scores ‘A+++’ win on home soil",
+          "url": "https://www.bangkokpost.com/sports/3202843/jeeno-scores-a-win-on-home-soil",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202843_700.jpg"
+        }
+      ],
+      "collected_at": "18:42",
+      "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202843_700.jpg",
       "date": "2026-02-22"
     }
   ]
