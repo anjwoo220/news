@@ -31415,14 +31415,9 @@
       "summary": "- 플로리다 마라라고 리조트에 총기 난입 시도 발생\n- 경호 인력, 용의자 사살. 다른 부상자는 없음\n- 트럼프 대통령은 당시 워싱턴 D.C.에 있었음",
       "full_translated": "경찰 비밀 경호국은 총과 기름통을 들고 트럼프 대통령의 마라라고 리조트 구역에 침입하려던 남성을 사살했습니다. 이 사건으로 다른 부상자는 발생하지 않았습니다. 사건은 2069년 2월 22일 일요일에 발생했습니다. 미국 대통령 경호국은 20대 남성이 플로리다 주 팜비치에 있는 도널드 트럼프 대통령의 마라라고 리조트에 침입하려다 사살됐다고 밝혔습니다. 팜비치 카운티의 릭 브래드쇼 보안관은 기자들에게 보안 요원이 휘발유통과 엽총을 들고 있는 백인 남성을 발견했다고 말했습니다. 요원과 부보안관은 현지 시간으로 일요일 오전 1시 30분에 금지 구역 안으로 침입한 남성과 대치했습니다. 요원들은 그 남성에게 무기를 내려놓으라고 명령했고, 그는 기름통은 내려놓았지만 엽총을 들어 올렸습니다. 그러자 요원들은 '위협을 제압하기 위해' 발포하기로 결정했습니다. 브래드쇼는 이 사건으로 부상당한 요원은 없다고 밝혔습니다. 트럼프 대통령은 당시 워싱턴 D.C.에 머물고 있었습니다. 당국은 아직 용의자의 이름이나 기타 신상 정보를 공개하지 않았으며, 요원들이 몇 발을 쐈는지, 용의자의 총에 총알이 장전되어 있었는지 여부도 불분명합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "미국 대통령 관련 사건이나, 태국 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2069-02-22",
-        "location": "마라라고 리조트, 플로리다",
-        "price": null,
-        "location_google_map_query": "Mar-a-Lago, Palm Beach, Florida"
-      },
+      "event_info": "{'date': '2069-02-22', 'location': '마라라고 리조트, 플로리다', 'price': None, 'location_google_map_query': 'Mar-a-Lago, Palm Beach, Florida'}",
       "references": [
         {
           "title": "จนท.วิสามัญฯ ชายถือปืนลูกซอง บุกรีสอร์ต มาร์-อา-ลาโก ของทรัมป์",
@@ -31433,21 +31428,18 @@
       ],
       "collected_at": "22:46",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUafXNUa4s1jk.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915793",
+      "source": ""
     },
     {
       "title": "치앙마이 관광 명소에서 정체불명의 바이러스 발생으로 호랑이 72마리 폐사",
       "summary": "- 치앙마이의 한 관광 명소에서 정체불명의 바이러스가 발생했습니다.\n- 이로 인해 호랑이 72마리가 폐사했습니다.\n- 당국은 바이러스의 원인과 추가 확산 방지를 위해 조사 중입니다.",
       "full_translated": "치앙마이 관광 명소에서 정체불명의 바이러스 발생으로 호랑이 72마리 폐사",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광 명소에서 발생한 사건이므로 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이",
-        "price": null,
-        "location_google_map_query": "치앙마이 관광 명소"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이', 'price': None, 'location_google_map_query': '치앙마이 관광 명소'}",
       "references": [
         {
           "title": "72 tigers die following mysterious virus outbreak at Chiang Mai tourist attraction , Asia News - AsiaOne",
@@ -31458,7 +31450,9 @@
       ],
       "collected_at": "22:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjFTS05mbklDZEZuWnJhOVo1V3ZVeXZoZWR3NTdVX3U0cGFxM1lqYXhrYjI1d1dpcV9qbWE5c1pIQmpTU0VKQkpaSUQtUGxELUlCSE9UMjZsa3hKeFRRWVFQbnljRWJNMzNIMmlaN3d5TXRrc01ZaWJSMEkwbEVmMjBDVnNMTFRORFhxUVFOUmhITndvdnptV2VWVFFmNGNFU2RlUGRrakYtWlhN?oc=5",
+      "source": ""
     }
   ]
 }
