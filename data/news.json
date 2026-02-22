@@ -31064,14 +31064,9 @@
       "summary": "- 태국이 국제공항 이용료를 인상하여 방콕, 푸껫, 치앙마이 등 주요 공항 이용객에게 영향을 미칠 예정입니다.\n- 인상된 요금은 항공권 가격에 반영되어 여행 비용 증가로 이어질 수 있습니다.\n- 이번 인상은 태국을 방문하는 여행객들에게 추가적인 부담을 줄 것으로 예상됩니다.",
       "full_translated": "태국이 국제공항 이용료를 인상함에 따라 방콕, 푸껫, 치앙마이 및 기타 지역의 승객들에게 영향을 미칠 것입니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항 이용료 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보입니다. 특히 방콕, 푸껫, 치앙마이 등 인기 여행지에 해당되므로 높은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 푸껫, 치앙마이",
-        "price": "인상된 공항 이용료",
-        "location_google_map_query": "방콕 공항, 푸껫 공항, 치앙마이 공항"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 푸껫, 치앙마이', 'price': '인상된 공항 이용료', 'location_google_map_query': '방콕 공항, 푸껫 공항, 치앙마이 공항'}",
       "references": [
         {
           "title": "Thailand Increases International Airport Fees, Impacting Passengers in Bangkok, Phuket, Chiang Mai, and Beyond - Travel And Tour World",
@@ -31082,21 +31077,18 @@
       ],
       "collected_at": "20:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWEVMb0NRdGdZeTRiVzFtS2lxLXhkRFlrR21EWXEyNGNFakI4ZkVrcUwzWEo3Qm04OHRKZXU2Y3dMcTBwVnJ1aUNHYkpQaEd2aDM2bjdNM01jQ2JULXJmbVdMU3NqYzYyTjR0bDlZd2lIMUxXQ0VMMEpZQXA3VHRDdXcxSWNacWVfaFR1UlZQNVV1a3BmTzhVbjkweFdiUFFqTTdxVkNpVV83MmJsdzNaVEx6T2hXTmhuWnVrR2lDaTNJZDVvZVVTdng0Ti1oZ0RRdlpLemVyVy0ta0pqR1lnNmpaSERPdlNjdUZB?oc=5",
+      "source": ""
     },
     {
       "title": "태국, Architectural Digest 선정 '2026년 살기 좋은 나라'에 포함",
       "summary": "- Architectural Digest가 선정한 '2026년 살기 좋은 나라' 목록에 태국이 포함됨.\n- 디자인, 도시 계획, 예술적 표현이 뛰어난 국가로 인정받음.\n- 낮은 생활비와 디지털 노마드에게 인기 있는 허브로 강조됨.",
       "full_translated": "태국이 Architectural Digest 잡지의 '살기 좋은 최고의 나라: 2026년 최고의 선택' 목록에 포함되어 디자인 애호가들을 위한 세계 최고의 목적지 중 하나로 인정받았습니다. 웹사이트에 게재된 최신 기사에서 Architectural Digest는 살기 좋은 최고의 나라는 경외심을 불러일으키는 건축, 혁신적인 도시 계획, 예술적 표현이 풍부한 문화를 결합한 것이라고 밝혔습니다. 디자인 우수성이 경제력이나 군사력과 직접적인 관련이 없을 수 있지만, 잡지는 디자인에 대한 강력한 집중이 삶의 질을 크게 향상시킬 수 있다고 언급했습니다. 순위는 여러 글로벌 지수를 활용하여 U.S. News & World Report의 가장 최근 세계 최고 국가 목록을 출발점으로 사용했습니다. 그런 다음 편집자들은 Aston의 2026년 삶의 질을 위한 최고의 국가, Global Citizen Solutions의 최신 10개의 살기 좋은 국가 목록, World Population Review의 2026년 살기 좋은 국가 보고서를 고려하여 상위 20개 디자인 선진국을 식별했습니다. 목록에 포함된 20개국은 스위스, 일본, 미국, 호주, 스웨덴, 독일, 영국, 뉴질랜드, 덴마크, 프랑스, 네덜란드, 싱가포르, 이탈리아, 한국, 핀란드, 아이슬란드, 룩셈부르크, 태국, 브라질, 멕시코입니다. 태국에 대해 잡지는 많은 서유럽 국가에 비해 상대적으로 낮은 생활비를 강조하면서 이 나라가 디지털 유목민을 위한 점점 더 인기 있는 허브가 되었다고 언급했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 살기 좋은 나라로 선정된 것은 장기 여행객이나 이주를 고려하는 여행자에게 긍정적인 정보가 될 수 있으며, 태국 여행에 대한 관심을 유발할 수 있음. 다만, 즉각적인 여행 안전이나 편의에 직접적인 영향을 미치는 정보는 아님.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand named among Architectural Digest’s best countries to live in for 2026",
@@ -31107,21 +31099,18 @@
       ],
       "collected_at": "20:26",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/wat-arun-temple-twilight-bangkok-thailand-2.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.khaosodenglish.com/life/2026/02/22/thailand-named-among-architectural-digests-best-countries-to-live-in-for-2026/",
+      "source": ""
     },
     {
       "title": "수코타이 역사 공원, 지속 가능한 관광 부문에서 세계적인 인정받아",
       "summary": "- 수코타이 역사 공원이 태국 지속 가능한 관광 부문에서 권위 있는 국제적 인정을 받았습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.\n- 수코타이 역사 공원은 태국의 중요한 문화유산입니다.",
       "full_translated": "Sukhothai Historic Sites Awarded Prestigious Global Recognition for Sustainable Tourism Excellence in Thailand  Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "수코타이 역사 공원에 대한 긍정적인 소식이므로 관광객들에게 참고가 될 만하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "수코타이 역사 공원",
-        "price": null,
-        "location_google_map_query": "수코타이 역사 공원"
-      },
+      "event_info": "{'date': None, 'location': '수코타이 역사 공원', 'price': None, 'location_google_map_query': '수코타이 역사 공원'}",
       "references": [
         {
           "title": "Sukhothai Historic Sites Awarded Prestigious Global Recognition for Sustainable Tourism Excellence in Thailand - Travel And Tour World",
@@ -31132,6 +31121,83 @@
       ],
       "collected_at": "20:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd29IYzAyVG1iT3FiUnd1LTFyMVNDbDZFc3dwdWYxcXpzU0E3RmliQmdITUdYWFFfbWgySzVLMnpBcVIwNDdvZWViTVFGN0JhTzd4dmtRemJlY0lESDM2SDZZbkpDRFkza1JqOXVSOFpiR0F4RDNhaUx5TS1pOUQ2NTZ4UThmVzBCeE16aGRWeUVtajdzX25qVkFEZjB4QnVNZ0ppNTdYRjg0dnlHTW1sN1M5QWFpSzluOUZRWUFxSU1YRkxkSmVxbm5DRFdEUzlGcC1MSWdybjFYNW1FX2Rnc0NrU2t0RmFBUUtucjdxS3o?oc=5",
+      "source": ""
+    },
+    {
+      "title": "푸껫 해변, 공공에 '안전'",
+      "summary": "- 푸껫 주변 해수의 질은 안전하며, 기름 오염이 검출되지 않았습니다.\n- 파나마 국적 화물선 SEALLOYD ARC 침몰 사고 이후 주요 해변 5곳을 조사했습니다.\n- Rawai, Nai Harn, Kata Noi, Kata Yai, Karon 해변에서 기름 흔적을 발견하지 못했습니다.",
+      "full_translated": "푸껫 해변은 공공에 '안전'\n\n게시됨: 2026년 2월 22일 20:33\n작가: Achadthaya Chuenniran\n오염 통제 부서(PCD)는 파나마 국적 화물선 SEALLOYD ARC가 이달 초 침몰한 후 푸껫 주변 해수의 질이 안전하며 5개의 주요 해변에서 기름 오염이 검출되지 않았다고 밝혔습니다.\nPCD 사무총장 Surin Worakitthamrong은 제3해군 지역 사령부 산하에 “워룸”이 설치되어 2월 7일 사건 이후 대응 노력을 조정하고 있다고 말했습니다. 태국 해양 집행 사령부 센터장인 Veerudom Muangjeen 해군 소장과 푸껫 지사 Nirat Phongsitthithavorn은 해상 안전, 기름 유출 방지, 선박 및 화물 컨테이너 인양에 초점을 맞춰 일상적인 운영을 감독하고 있습니다.\n전문가들은 OILMAP 소프트웨어를 사용하여 난파선 지점에서 기름띠의 이동을 추적했다고 관계자들은 말했습니다. 예보에 따르면 기름띠는 아침에 남서쪽으로 표류하다가 늦은 오후에는 북서쪽으로 이동한 후 결국 서쪽으로 이동하여 일요일에는 약 7.6해리를 덮을 것으로 나타났습니다.\nPCD의 Rawai, Nai Harn, Kata Noi, Kata Yai 및 Karon 해변에 대한 3차 검사에서 모래 또는 해수에서 기름 흔적을 발견하지 못했습니다. 예비 수질 결과는 Category 4 연안 표준 내에 유지되어 물이 수영 및 수상 스포츠와 같은 레크리에이션 활동에 적합함을 나타냅니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "푸껫 해변의 안전 상태 정보는 여행객에게 중요하며, 특히 최근 사고 이후 업데이트된 정보이므로 포함.",
+      "event_info": {
+        "date": "2026-02-07",
+        "location": "푸껫 인근 해변",
+        "price": null,
+        "location_google_map_query": "푸껫 해변"
+      },
+      "references": [
+        {
+          "title": "Phuket beaches ‘safe’ for public",
+          "url": "https://www.bangkokpost.com/thailand/general/3202863/phuket-beaches-safe-for-public",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202863_700.jpg"
+        }
+      ],
+      "collected_at": "20:58",
+      "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202863_700.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "방콕 선거관리위원회, QR 코드 논란 속 재투표 실시",
+      "summary": "- 방콕 암언판 위성 콘도 타운에서 재투표 진행, 투표 과정 감시 강화\n- 유권자 716명 대상, 투표율 70% 예상\n- QR 코드 및 바코드 사용 여부 논란, 선거의원회는 투표 비밀 유지 강조",
+      "full_translated": "선거관리위원회(EC)는 일요일 3개 투표소에서 재투표를, 1개 투표소에서 재검표를 실시했으며, QR 코드와 바코드가 포함된 투표용지가 여전히 사용되고 있는지에 대한 대중의 감시가 강화되었습니다. 방콕 칸나야오 지역의 암언판 위성 콘도 타운(R4)에 위치한 15번 선거구의 투표소 분위기는 아침 일찍부터 활기가 넘쳤습니다. 태국 및 외국 언론, 상원 의원 및 IT 전문가들이 투표 과정을 관찰하고 투표 용지 형식을 검사하기 위해 모였습니다. 방콕 선거 사무소 국장인 삼판 생캄러드 중위는 전반적인 운영이 순조롭게 진행되었다고 말했습니다. 3개 투표소에는 총 716명의 유권자가 있었으며, 투표율은 약 70%, 약 500명의 유권자가 될 것으로 예상됩니다. 투표소는 2월 8일 폭풍우로 텐트가 무너져 투표용지가 손상되어 새로운 투표가 불가피해지자 실내로 이전되었습니다. 삼판 중위는 새 투표용지에 QR 코드와 바코드가 여전히 포함되어 있는지 확인하지 않았으며, 아직 직접 검사하지 않았다고 말했습니다. 그는 또한 개표 중에 공무원들이 코드를 숨길 것인지 여부에 대해서도 밝히지 않았습니다. 그는 선거관리위원회가 비밀 유지를 위해 노력하고 있으며 투표용지를 유권자에게 추적할 수 있다는 증거는 없다고 주장했습니다. 노라셋 프랏차야콘 상원 의원은 2월 8일부터 QR 코드가 투표 비밀을 침해할 수 있다는 우려가 제기되었으므로 참관인으로 참석하여 추적 불가능성을 보장하는 것이 중요하다고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식은 정치적 불안정을 야기할 수 있으므로 여행 시 주의가 필요. 직접적인 여행 영향은 적지만, 관련 정보 인지 필요.",
+      "event_info": {
+        "date": "2026-02-22",
+        "location": "암언판 위성 콘도 타운 (R4), 칸나야오, 방콕",
+        "price": "N/A",
+        "location_google_map_query": "Amornphan Satellite Condominium Town Bangkok"
+      },
+      "references": [
+        {
+          "title": "QR concerns hit EC Bangkok revote",
+          "url": "https://www.bangkokpost.com/thailand/politics/3202853/qr-concerns-hit-ec-bangkok-revote",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202853_700.jpg"
+        }
+      ],
+      "collected_at": "20:58",
+      "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202853_700.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "트럼프, 이란 핵 합의 압박 위한 군사적 공격 위협: 역효과 위험",
+      "summary": "- 트럼프 대통령은 이란과의 새로운 핵 합의를 위해 제한적인 군사 공격을 고려 중.\n- 그러나 이는 중동 지역의 불안정을 야기하고 갈등을 심화시킬 수 있다는 우려가 제기됨.\n- 전문가들은 협상 중 군사적 공격은 합의를 방해하고 보복을 초래할 수 있다고 경고.",
+      "full_translated": "트럼프 대통령은 이란에 새로운 핵 합의 서명을 강요하기 위해 제한적인 군사적 공격을 고려하고 있다고 밝혔지만, 이란을 폭격하는 것은 정반대의 결과를 초래하여 중동 지역의 새로운 불안정적인 분쟁을 야기할 위험이 있습니다. 국방부는 두 척의 항공모함, 전투기, 공중 급유기를 포함하여 이 지역에 대규모 병력을 배치하여 트럼프 대통령에게 이란에 대한 제한적이거나 확대된 작전을 개시할 수 있는 옵션을 제공했습니다. 그러나 트럼프 대통령과 다른 행정부 관리들은 테헤란과의 새로운 합의에서 실제로 무엇을 원하는지에 대해 상반된 공개적인 설명을 했습니다. 그리고 이란 전문가들은 협상 도중에 이란을 폭격하는 것은 합의를 방해할 수 있으며 치명적인 보복의 순환을 촉발할 수 있다고 주장합니다. 한 고위 정부 관리는 미국이 공격을 감행할 경우 테헤란은 협상 참여를 중단할 가능성이 높다고 밝혔습니다. 스팀슨 센터의 바바라 슬래빈 연구원은 \"그가 이란을 다시 공격하면 이란으로부터 외교적 합의를 얻어내지 못할 것\"이라고 말했습니다. 트럼프 대통령은 10일에서 15일 사이의 마감일을 제시했지만, 제한적이든 아니든 새로운 공습이 실제로 무엇을 달성할 수 있을지는 여전히 불분명합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "중동 지역 불안정 심화 가능성이 있지만, 태국 여행에 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Trump’s threatened strikes to force an Iran deal risk backfiring",
+          "url": "https://www.bangkokpost.com/world/3202800/trumps-threatened-strikes-to-force-an-iran-deal-risk-backfiring",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202800_260222180746_700.jpg"
+        }
+      ],
+      "collected_at": "20:58",
+      "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202800_260222180746_700.jpg",
       "date": "2026-02-22"
     }
   ]
