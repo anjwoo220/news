@@ -31483,48 +31483,39 @@
       "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동이 관광객들에게 불쾌감을 주고 있음.\n- 관광객들은 노숙자 문제 해결을 위한 강력한 법 집행을 요구하고 있음.\n- 관련 당국은 문제 해결을 위한 대책 마련에 나설 것으로 예상됨.",
       "full_translated": "파타야 해변에서 노숙자들이 관광객들에게 충격을 주고 있으며, 이들의 부적절한 행동에 대한 강력한 법 집행 요구가 거세지고 있습니다. 관광객들은 파타야의 이미지를 훼손하는 노숙자 문제를 해결하기 위한 실질적인 조치를 촉구하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 해변의 치안 및 관광객 경험에 영향을 미치므로.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [],
-      "collected_at": "00:19",
-      "date": "2026-02-23"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "",
+      "source": ""
     },
     {
       "title": "파타야, 구걸하는 외국인 증가 문제 심각: 강제 추방 후 재입국 사례 발생",
       "summary": "- 파타야에서 구걸하는 외국인 수가 증가하여 사회 문제로 대두되고 있음.\n- 강제 추방된 외국인이 다시 입국하여 구걸하는 사례도 발생하고 있음.\n- 당국은 외국인 구걸 행위에 대한 단속을 강화할 것으로 예상됨.",
       "full_translated": "파타야에서 외국인 구걸 행위가 증가하면서 심각한 사회 문제로 번지고 있습니다. 특히 강제 추방 후 재입국하여 구걸하는 사례까지 발생하여 당국의 골칫거리가 되고 있습니다. 관광객들에게 부정적인 인상을 줄 수 있으므로 주의가 필요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야의 이미지와 치안에 부정적인 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [],
-      "collected_at": "00:19",
-      "date": "2026-02-23"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "",
+      "source": ""
     },
     {
       "title": "China Airlines, 태국 관광청과 북미 대상 2026년 특별 프로모션 발표",
       "summary": "- China Airlines와 태국 관광청이 북미 지역 관광객 유치를 위한 특별 프로모션을 발표했습니다.\n- 2026년 특별 프로모션은 북미 시장을 대상으로 합니다.\n- 자세한 프로모션 내용은 발표 자료를 통해 확인할 수 있습니다.",
       "full_translated": "China Airlines와 태국 관광청은 북미 지역 관광객 유치를 위한 2026년 특별 프로모션을 발표했습니다. 이 프로모션은 북미 시장을 대상으로 하며, 태국 관광 활성화에 기여할 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "관광객 유치 프로모션 정보는 여행 계획에 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "태국",
-        "price": "프로모션 내용에 따라 다름",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '태국', 'price': '프로모션 내용에 따라 다름', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "China Airlines and Tourism Authority of Thailand Highlight Exclusive 2026 Promotion for North American - EIN News",
@@ -31532,22 +31523,20 @@
           "source": "EIN News"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-02-23"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMiRmh0dHBzOi8vd3d3LmVpbi5uZ3MvcHJlc3NyZWxlYXNlLzY5MDk4NDkxMi9jaGluYS1haXJsaW5lcy1hbmQtdG91cmlzbS1hdXRob3JpdHktdGFpbGFuZC1oaWdobGlnaHQtZXhjbHVzaXZlLTIwMjYtcHJvbW90aW9uLWZvci1ub3J0aC1hbWVyaWNhbtIBAA?oc=5",
+      "source": ""
     },
     {
       "title": "일본 관광, 한국인 방문객 증가로 기록 경신 - Travel And Tour World",
       "summary": "- 한국인 방문객 증가로 일본 관광이 기록을 경신했습니다.\n- 한국은 중국, 태국, 미국 등을 넘어 일본 관광 시장에서 중요한 위치를 차지했습니다.\n- 일본 방문을 계획하는 한국인 여행객에게 유용한 정보입니다.",
       "full_translated": "한국인 방문객의 증가로 일본 관광 산업이 기록적인 성장을 이루었습니다. 대한민국은 중국, 태국, 미국, 싱가포르, 호주, 필리핀 및 기타 여러 국가를 넘어 일본 관광의 새로운 이정표를 세웠습니다. 이는 한국인 여행객의 수요 증가를 보여주는 중요한 지표입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "주변국 관광 트렌드는 여행 계획에 간접적인 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": "일본",
-        "price": null,
-        "location_google_map_query": "일본"
-      },
+      "event_info": "{'date': None, 'location': '일본', 'price': None, 'location_google_map_query': '일본'}",
       "references": [
         {
           "title": "South Korea Surpasses China, Thailand, United States, Singapore, Australia, Philippines, And A Range Of Other Countries To Set Japan’s Tourism Milestone With Record Breaking Arrivals And Demand - Travel And Tour World",
@@ -31555,7 +31544,135 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "00:19",
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vbmV3cy9hcnRpY2xlL3NvdXRoLWtvcmVhLXN1cnBhc3Nlcy1jaGluYS10aGFpbGFuZC11bml0ZWQtc3RhdGVzLXNpbmdhcG9yZS1hdXN0cmFsaWEtcGhpbGlwcGluZXMtdG8tc2V0LWphcGFucy10b3VyaXNtLW1pbGVzdG9uZS13aXRoLXJlY29yZC1icmVha2luZy1hcnJpdmFscy1hbmQtZGUtbmV3cy8SAQA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 국제선 출발 수수료 인상 추진에 여행자들 우려 - 파타야 메일",
+      "summary": "- 태국 공항(AOT)이 국제선 출발 수수료를 1,120바트로 인상 추진.\n- 인상된 수수료는 항공권 가격에 포함될 예정.\n- 여행자들은 갑작스러운 수수료 인상에 당혹감.",
+      "full_translated": "태국 여행자들이 AOT의 국제선 출발 수수료 1,120바트 인상 추진에 경악하고 있습니다. 파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "국제선 출발 수수료 인상은 여행 비용 증가로 이어져 여행객에게 직접적인 영향을 미치므로 '보통' 수준의 영향으로 판단. 다만, 금액이 적지 않아 7점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "1120 바트",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand travelers alarmed as AOT pushes international departure fee to 1,120 baht - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObEFVM291WGJLODdGMFNtZUQyd0VWZWFBZVlzRnFhRWs4dUFzalNDbERGLU1pcEo3WnRXTnlQNlpLdHB0aW94bmtFTEtHLVhkZWVmdVIwbTNhVFAwMlZnUU1BRGtDVjZHVWN5TmFkc2hsMFF2czF3dm9fRVR0aXJHZTh6YnduU3J3QTkwM05BZnlKNmJWZDR4cldPd0JuMEdTdWNqZUhjUGp3QlFGRTNLY1JXcFlVLVNXV3hsZDd2dDJkUVhURFY0WFBWbGs?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "‘Thank you Thailand’ 트렌드, 외국인 관광객 사이에서 입소문 - Khaosod English",
+      "summary": "- 외국인 관광객들이 태국에 대한 감사를 표하는 '#ThankYouThailand' 트렌드가 소셜 미디어에서 확산되고 있습니다.\n- 이 캠페인은 태국의 아름다움, 문화, 그리고 따뜻한 환대에 대한 감사를 표현하는 것을 목표로 합니다.\n- 많은 관광객들이 태국 여행 경험을 공유하며 태국에 대한 긍정적인 반응을 보이고 있습니다.",
+      "full_translated": "‘Thank you Thailand’ 트렌드가 외국인 관광객 사이에서 입소문을 타고 있습니다.\n\n외국인 관광객들이 태국에 대한 감사를 표하는 '#ThankYouThailand' 트렌드가 소셜 미디어에서 빠르게 확산되고 있습니다. 이 캠페인은 태국의 아름다움, 문화, 그리고 따뜻한 환대에 대한 감사를 표현하는 것을 목표로 합니다. 많은 관광객들이 태국 여행 경험을 공유하며 태국에 대한 긍정적인 반응을 보이고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 대한 긍정적인 트렌드를 나타내는 기사로, 여행 심리에 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "‘Thank you Thailand’ trend goes viral among foreign tourists - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMkRKOFVfeU9ENHVHWlFJTG5yX18zbFluNkN5N0lELWxuTlhaakVIeXR5eEJ3LUc4VE1DMFpDR1MyUUM5OGlLSUZjTHhyS2UxeGFqZFRUN2VDd0tVdVotR3g0M09LU0VhU1VnUWNpVUYwY2FjMDFHOTY3WnlDU21WN1J0bXJyeDcwX2xDMnhnMzB0WkZRb0xjWWVOQWhmSzV2NnNVcVlMaTEtLUNPTTg00gG0AUFVX3lxTFB6dmJ0bnlfZXZjSXFlZ19OR0hTTnZnZ0tLYzZQVkM1Sm5QWHVhM1NORE42cWxsNkVkWGJud1d5VFY2RFVadVVyTEM5T0w1YVQ1dWNjNnlHa2lzREltbGVFWmxRdnphdDNzSFVSUTZ1QUxOT2tIbkJIdEdYY1p4STlFWDN1TmJNejNaYWpOeE5DN3NWLUY2aVdqczRhMUdaSHIzZmNLcFp5eXhkRWcwb2NpU3NUeg?oc=5",
+          "source": "Khaosod English",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 내 나이지리아 공동체: 미국을 넘어선 장기적인 삶의 건설",
+      "summary": "- 나이지리아인들이 미국을 넘어 태국에서 장기적인 삶을 구축하고 있다.\n- 이들은 다양한 분야에서 활동하며 태국 사회에 기여하고 있다.\n- 태국은 비교적 안정적인 경제와 개방적인 사회 분위기로 인해 나이지리아인들에게 매력적인 이주 목적지로 부상하고 있다.",
+      "full_translated": "Vanguard News에 따르면, 나이지리아인들이 미국을 넘어 태국에서 장기적인 삶을 건설하고 있습니다. 이들은 다양한 분야에서 활동하며 태국 사회에 기여하고 있습니다. 태국은 비교적 안정적인 경제와 개방적인 사회 분위기로 인해 나이지리아인들에게 매력적인 이주 목적지로 부상하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 외국인 커뮤니티에 대한 정보는 흥미롭지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Beyond America: How Nigerians are building long-term lives in Thailand - Vanguard News",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORElweGtjSEtEYUpqQ3BUMHB0VF9yTmxtUWVISUtjVlBGVnNnV0tmeEdSS2dXNXdjc24zOGJPeFZWRHZDNWlQUW1UWm9kdmlsVXQ4S3N6MGlmcnprMlh3WFNPenVoVXZNcmdkaUluTFlLbS1qT0F5WmRPWW1JQ0NOVW1mYUY1dGFTbi1DQTY4T2hreUo2WHhpYWhMazFoZkNaeHh5NkdoWU1xUdIBrwFBVV95cUxQMXVVSktQR1BqcTVUbDRtWUdNY3RnOXEwRE1HX2RTNFJoakJRTGlmbWZRNUNtV3oyOXVXM2k5TG9RaTkyRmhCaVR5aFd5Y08xYnRLLWxvMHdsTnMyNVhwZ25BbjM4UnRZN1M0aUpQRXE1d04za3BwYXpzZnUybGlaek5kV1FqVzZOTDVsc3Vmc0wxY2dxRjRVNDgtdzBkM2xyV01mNEVuVzc3alZ5cXE0?oc=5",
+          "source": "Vanguard News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "방콕 칸나야오 지역 재선거 결과: '국민당' 압승",
+      "summary": "- 2월 22일 칸나야오 지역 재선거 결과, 국민당이 지역구 및 비례대표 모두 석권.\n- 폭우로 인한 투표용지 손상으로 재선거 실시.\n- 투표율은 높았으며, 정치인들의 참관도 활발.",
+      "full_translated": "2월 22일, 재선거가 종료된 후 방콕 15구 칸나야오 지역 9번 투표소의 개표 결과가 발표되었습니다. 공식적인 결과는 아니지만, 국민당이 지역구 의석과 비례대표 모두를 휩쓸었습니다. 주민투표에서는 찬성표가 반대표보다 많았습니다.\n\n오후 5시 26분, 투표 관리 위원회 (꺼뻐뻐 너.)는 칸나야오 지역 15구 9번 투표소에서 하원 의원 (써 써.) 선거 투표 용지, 비례대표 투표 용지, 그리고 주민 투표 용지에 대한 개표를 시작했다고 보도했습니다. 해당 투표소는 칸나야오 지구의 아몬판 채텔라이트 콘도 타운(R4)에 위치해 있습니다. 이는 2월 8일에 발생한 폭우로 인해 투표용지가 손상되어 다시 실시된 투표입니다. 많은 시민들과 정치인들이 투표 과정을 참관했습니다.\n\n오후 6시 16분, 투표관리위원회는 3가지 투표용지에 대한 개표를 완료했습니다. 15구 9번 투표소의 비공식 결과는 다음과 같습니다.\n\n1위: 위타왓 티차와닛, 국민당 후보, 134표\n2위: 폴품 위파티품프라텟, 프아타이당, 76표\n3위: 타놈 온켓폰, 품차이타이당, 50표\n4위: 팃타야콘 폰로차나쿤, 민주당, 18표\n\n비례대표 투표 결과:\n1위: 국민당, 143표\n2위: 품차이타이당, 63표\n3위: 프아타이당, 39표\n4위: 민주당, 23표\n5위: 타이팍디당, 6표\n\n주민투표 결과: 찬성 203표, 반대 87표, 무효 13표",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "여행 자체에는 큰 영향이 없으나, 태국 정치 상황에 대한 정보 제공 차원에서 낮은 점수 부여. 한국인 밀집 지역은 아니므로 안전 문제는 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "칸나야오 지역, 방콕",
+        "price": null,
+        "location_google_map_query": "칸나야오 지역 방콕"
+      },
+      "references": [
+        {
+          "title": "กทม. หน่วย 10 เขต 15 นับคะแนนเสร็จแล้ว “พรรคประชาชน” เหมาทั้งเขต-ปาร์ตี้ลิสต์",
+          "url": "https://www.thairath.co.th/news/politic/2915773",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZh9zSAbJ6D62.jpg"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZh9zSAbJ6D62.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "찰스 3세, 동생 앤드루 왕자 체포로 새로운 위기 직면",
+      "summary": "- 앤드루 왕자의 체포는 찰스 3세 즉위 후 일어난 여러 개인적인 충격 중 최신 사건임.\n- 해리 왕자의 폭로, 찰스 3세와 케이트 미들턴의 건강 문제 등이 왕실에 끊임없이 부정적인 영향을 미침.\n- 찰스 3세는 즉위 초부터 여러 어려움과 위기에 직면해 왔으며, 왕실의 미래에 대한 우려가 커지고 있음.",
+      "full_translated": "찰스 3세는 동생 앤드루 왕자의 체포로 인해 새로운 시험대에 오르게 되었습니다. 이는 그의 통치에 흠집을 내는 일련의 고통스러운 개인적인 충격 중 가장 최근의 사건입니다.\n\n왕실 해설가 에드 오웬스는 AFP에 \"찰스는 2022년 9월 왕위에 오른 이후 둘째 아들 해리, 자신의 건강, 케이트의 건강, 또는 매우 파괴적인 인물인 앤드루와 관련된 어려움과 위기에 시달려 왔습니다.\"라고 말했습니다.\n\n수십 년을 기다린 끝에 찰스는 2022년 9월 어머니 엘리자베스 2세 여왕이 서거하면서 왕이 되었습니다. 엘리자베스 2세 여왕은 70년 동안 통치하며 깊은 대중의 애정과 존경을 받았습니다. 2023년 5월 6일 그의 대관식은 화려함으로 가득 차 있었고, 연속성과 전통을 보여주었습니다. 그러나 왕관이 그의 머리에 씌워지기도 전에 문제가 생겼습니다. 2023년 1월, 그의 막내 아들 해리는 폭발적인 회고록 \"Spare\"를 발표하여 왕실에 대한 반복적인 공격을 가하고 전 세계 관객들이 열광하는 사적인 분쟁을 방송했습니다. 2020년부터 아내 메건과 함께 캘리포니아에 살면서 가족과 소원해진 해리는 오랫동안 흔들리지 않는 것으로 여겨졌던 기관에 개인적, 상업적 이익을 위해 피해를 입혔다는 비판을 받았습니다. 해리는 이후 화해를 모색했지만 불화는 여전합니다. 그런 다음 2024년 2월, 현재 77세인 찰스는 자신의 암 치료를 받고 있다고 밝혔지만 어떤 종류인지는 밝히지 않아 공무를 축소해야 했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "왕실 관련 소식이지만, 현재 여행자에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Andrew's arrest just King Charles' latest royal crisis",
+          "url": "https://www.bangkokpost.com/world/3202830/andrews-arrest-just-king-charles-latest-royal-crisis",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_5978670_700.jpg"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_5978670_700.jpg",
       "date": "2026-02-23"
     }
   ]
