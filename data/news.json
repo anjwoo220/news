@@ -30162,14 +30162,9 @@
       "summary": "- 태국이 60일 무비자 체류를 재검토하여 디지털 노마드와 장기 여행객에게 장기 여행의 새로운 가능성을 제시할 수 있습니다.\n- 이번 검토는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국이 60일 무비자 체류를 재검토하여 디지털 노마드와 장기 여행객에게 장기 여행의 새로운 가능성을 제시할 수 있습니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 정책 변경 가능성은 여행자에게 직접적인 영향을 미치므로 중요합니다. 특히 디지털 노마드에게는 더욱 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Explore How Thailand’s Review of the Sixty-Day Visa-Free Stay Could Transform Long-Term Travel for Digital Nomads and Extended Vacationers Find Out The Details Here - Travel And Tour World",
@@ -30180,21 +30175,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPem1OWmhPTTFjTFcyZ25QQTMyRlF5Z2ROWWF4RE1meGtVUU40c25MTW5fNGJMR3RBekZlN05hTnBKZ1BKYTRUNmcyczNQcXZ5YWRlbUQ3Z3dEMzkySmQtZGg3Y0pJR3pJcE1VTkZMYkxBUjJ1VE0xMnNCT2FLejZTc3JRWU5TcFVRdFlxeENiVXI1SmlPdEZhak0wZU5iWmpiTEFKY0tHWmE1dG5YSTBJbEU1QV9OcjVGdkJDTWluU2sxT3lOWXd0NmU1VF9pSVgzcjE1d2N0WllXc2d4UWxSdWFYdlh6QlhLeFUzSkVwdnN2TVY2NGpmQ1NNZE1nblZadGZ4TEVWVEFFb2FwdHNDTEdGZV9zeTZGb05DMXVscnYxcVB0U3NQRVVuODZ3R1BqdEhVUlFLYw?oc=5",
+      "source": ""
     },
     {
       "title": "매홍손 지역, 악천후 속 환자 이송 중 사망: 열악한 도로 사정의 심각성",
       "summary": "- 매홍손 지역에서 폭우로 도로가 막혀 환자를 6km 동안 들것으로 이송해야 했습니다.\n- 환자는 병원에 도착 후 사망했으며, 이는 열악한 도로 사정이 긴급 환자 이송에 미치는 심각한 영향을 보여줍니다.\n- 20년 넘게 가난한 지역으로 분류된 매홍손의 도로 개선이 시급함을 강조합니다.",
       "full_translated": "매홍손 지역의 열악한 교통 상황이 도마 위에 올랐습니다. 매사리앙 지역 주민들은 폭우로 도로가 막히자 6km가 넘는 거리를 들것에 환자를 싣고 이동해야 했습니다. 환자는 병원에 도착했지만 결국 사망했습니다. 이 사건은 외딴 지역의 교통 문제가 얼마나 심각한지를 보여줍니다. 매사리앙 지역 책임자인 워라삭 판통은 개인 페이스북에 '생명의 순간이 어려운 길에 굴복해야 했다'는 글과 함께 사진을 게시했습니다. 2월 20일 저녁 6시경, 그는 70세의 매러이보이 사마짓오바옴이 사망했다는 보고를 받았습니다. 그녀는 매포 마을 주민이었으며, 마을 조수인 카몬 사마짓오바옴의 어머니였습니다. 이 사건은 그가 작년에 이 마을을 방문했을 때의 기억을 되살려주었습니다. 지도상의 거리는 멀지 않아 보이지만, 실제로는 도로 상태가 가장 큰 장애물이며 주민들의 생명에 직접적인 영향을 미칩니다. 폭우가 내리면 도로 표면이 진흙탕으로 변해 차량이 정상적으로 통행할 수 없습니다. 매러이보이의 병세가 악화되자 주민들은 들것을 메고 험난한 길을 따라 산비탈을 지나 매콩카 마을로 이송한 후 구급차를 타고 매사리앙 병원으로 옮겼습니다. 의료진은 심폐소생술(CPR)을 시행하며 최선을 다했지만, 결국 거리와 시간이 그녀를 앗아갔습니다. 이것은 단순히 가난의 문제가 아니라 생사를 가르는 교통 문제에 대한 것입니다. 매홍손은 20년 넘게 가난한 지역으로 분류되었지만, 가장 큰 문제는 도로망입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 특정 지역의 교통 문제로 인해 여행객의 안전 및 이동에 불편이 발생할 수 있음을 알립니다. 특히 우기에는 더욱 주의가 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "매홍손 지역",
-        "price": null,
-        "location_google_map_query": "Mae Hong Son, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '매홍손 지역', 'price': None, 'location_google_map_query': 'Mae Hong Son, Thailand'}",
       "references": [
         {
           "title": "ชาวบ้านแม่ปอ หามเปลลุยโคลน 6 กม. ส่งผู้ป่วยรักษาต่อ สุดยื้อเสียชีวิตหลังถึง รพ.",
@@ -30205,21 +30197,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYnnqP8YDBz9g.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/2915742",
+      "source": ""
     },
     {
       "title": "방콕 인근 촌부리에서 새벽 오토바이 폭주족 79명 체포, 오토바이 58대 압수",
       "summary": "- 방콕 인근 촌부리 지역에서 새벽에 오토바이 폭주족 79명이 경찰에 체포됨.\n- 경찰은 소음 민원 신고를 받고 해당 지역을 급습하여 폭주족들을 검거함.\n- 총 58대의 오토바이가 압수되었으며, 관련자들은 법적 처벌을 받을 예정임.",
       "full_translated": "경찰이 새벽 작전을 개시하여 유명 마을 앞에서 79명의 오토바이 폭주족을 체포하고 58대의 오토바이를 압수했습니다. 이들은 소음으로 주민들에게 불편을 초래한 혐의를 받고 있습니다. 2월 22일 0시 5분, 파투남 출라롱콘 경찰서의 아디렉 포티판 서장은 나탓왓 타쿤차이콘 부서장, 피랏 삿차 수사 부서장과 함께 순찰 수사대를 이끌고 시왈리 마을 앞 오토바이 그룹을 급습하여 79명을 체포하고 오토바이 57대와 픽업트럭 1대를 압수했습니다. 아디렉 포티판 서장은 교통 경쟁 및 안전을 고려하지 않은 운전, 집단 모임 등으로 인해 인근 주민들에게 불편을 초래한다는 민원을 접수받았다고 밝혔습니다. 경찰은 파툼타니 지방 경찰청의 피라폰 초틱사티안 사령관과 위사누락 프롬멧 부사령관의 지시에 따라 파투남 출라롱콘 경찰서가 신속하게 대응하여 오늘 집결 정보를 입수, 시왈리 마을 앞에서 폭주족 단속 작전을 펼쳐 35명의 성인과 44명의 청소년을 포함한 총 79명을 체포하고 오토바이 57대와 픽업트럭 1대를 압수했습니다. 이들은 공동으로 차량 경주를 시도한 혐의로 기소될 예정이며, 청소년들의 부모는 경찰서로 소환되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객에게 직접적인 영향은 적으나, 안전 관련 소식이므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": "2025-02-22",
-        "location": "시왈리 마을 앞, 촌부리",
-        "price": null,
-        "location_google_map_query": "시왈리 마을, 촌부리, 태국"
-      },
+      "event_info": "{'date': '2025-02-22', 'location': '시왈리 마을 앞, 촌부리', 'price': None, 'location_google_map_query': '시왈리 마을, 촌부리, 태국'}",
       "references": [
         {
           "title": "เปิดปฏิบัติการฟ้าสาง ตร.ล้อมจับแก๊งเด็กแว้น 79 คน ยึดรถ 58 คันหน้าหมู่บ้านดัง",
@@ -30230,21 +30219,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYoJbjvhB6mNb.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/2915748",
+      "source": ""
     },
     {
       "title": "태국 재선거 투표용지, 이전과 달라 소셜 미디어에서 논란",
       "summary": "- 2월 22일 재선거에서 투표용지 원본이 이전과 다르다는 소셜 미디어의 의견이 제기됨.\n- 투표용지 꼬리표에 일련번호가 사라졌다는 의혹이 제기됨.\n- IT 전문가 타나라트 씨는 '이제 끝났다'라는 메시지를 게시.",
       "full_translated": "2월 22일 재선거 투표에서 투표용지 원본이 이전과 다르다는 소셜 미디어의 의견이 제기되었습니다. 일부 내용이 누락되었다는 지적이 있습니다. 타나라트 씨는 '이제 끝났다'라는 메시지와 함께 사진을 게시했습니다. 2069년 2월 22일, 하원 의원 선거 투표 및 국민투표가 방콕 칸나야오 지역의 제9선거구 및 제15선거구에서 오전 8시부터 시작되었습니다. 유권자들이 계속 투표에 참여하고 있습니다. 한편, IT 전문가인 타나라트 끄아와타나판 씨는 2069년 선거 투표용지의 바코드 문제를 제기한 바 있습니다. 그는 투표소에서 참관하며 자신의 페이스북에 새로운 투표용지 꼬리표 사진을 게시했습니다. 게시된 투표용지는 정당 선택 용지이며, '이제 끝났다'라는 메시지를 덧붙였습니다. 많은 페이스북 사용자들이 댓글을 달고 공유했습니다. 여러 페이스북 사용자들은 새로운 투표용지에 꼬리표 상단의 일련번호가 없다는 점을 지적했습니다. 이는 2월 8일 투표용지와 대조됩니다. 하단의 바코드는 여전히 존재합니다. 일부는 이것이 선거 무효로 이어질 수 있는지 의문을 제기합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식은 정치적 불안정을 야기할 수 있지만, 관광객에게 직접적인 영향은 제한적이므로 중간 점수 부여. 재선거 결과에 따라 정책 변화 가능성 존재.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ออกเสียงเลือกตั้งใหม่ โซเชียลตั้งข้อสังเกต “ต้นขั้วบัตร” ไม่เหมือนเดิม",
@@ -30255,21 +30241,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DYJkVe13knc8T.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/politic/2915731",
+      "source": ""
     },
     {
       "title": "베네수엘라, 정치범 1,500명 이상 사면 요청 접수",
       "summary": "- 베네수엘라 국회, 새로운 법률에 따라 1,500명 이상의 정치범 사면 요청 접수\n- 정부는 즉시 심사 진행, 최종적으로 11,000명까지 사면 목표\n- 인권 단체는 사면 조건에 대한 우려 제기, 특히 외국 군사 개입 요청자 배제 조항 비판",
       "full_translated": "베네수엘라 국회의장은 새로운 법률에 따라 1,500명 이상의 정치범이 사면을 요청했다고 밝혔습니다. 당국은 법률에 따라 석방 절차를 시작했으며, 며칠 전 국회를 통과했습니다. 야당과 인권 단체들은 사면의 불확실성과 제한된 범위에 대해 비판했습니다.\n\n호르헤 로드리게스 베네수엘라 국회의장은 토요일(2월 21일) 최근 발표된 새로운 법률에 따라 현재 1,557명의 정치범이 사면을 요청했다고 밝혔습니다. 로드리게스 의장은 정부가 청원을 '즉시' 처리하고 있으며, 이 법률이 최종적으로 11,000명의 수감자를 석방하는 것을 목표로 하고 있다고 밝혔습니다. 가장 먼저 석방될 그룹은 카라카스에 있는 악명 높은 감옥인 '엘 헬리코이드'에 수감된 사람들로, 몇 시간 안에 자유를 얻을 것으로 예상됩니다.\n\n이번 조치는 미국이 1월 3일 니콜라스 마두로를 체포하기 위해 군대를 파견한 이후에 이루어졌습니다. 이후 미국은 마두로 정권 시대에 오랫동안 수감되어 온 정치범들을 석방하도록 압력을 가했습니다. 정치인 후안 파블로 과니파를 포함한 수감자 석방 소식에도 불구하고 인권 단체와 학자들은 이 법률에 '숨겨진 조건'이 있다고 지적했습니다. 특히 베네수엘라에 대한 외국 군사 개입을 촉구한 사람들에게는 사면을 허용하지 않는다는 조항이 있습니다. 법률 전문가들은 이 조항이 최근 노벨 평화상을 수상한 마리아 코리나 마차도를 겨냥한 것이라고 보고 있습니다. 또한, 이 법은 과거 쿠데타를 시도했던 수십 명의 군인들을 배제하는 것으로 보입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에는 직접적인 영향이 없으나, 국제 정세에 대한 기본적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เวเนซุเอลารับคำขออภัยโทษนักโทษการเมืองกว่า 1,500 คน",
@@ -30280,6 +30263,133 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DXwFpEx2Q6zcU.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915722",
+      "source": ""
+    },
+    {
+      "title": "방콕 위파와디 랑싯 도로, 불법 레이싱 단속 및 오토바이 압수",
+      "summary": "- 방콕 위파와디 랑싯 도로에서 불법 레이싱을 벌인 17명 체포, 10명은 미성년자.\n- 경찰은 CCTV 영상과 차량 등록 데이터를 활용하여 수 주간 감시 및 조사 진행.\n- 용의자들은 위파와디 소이 17 입구에 모여 돈므앙 공항 방향으로 레이싱을 벌인 것으로 확인.",
+      "full_translated": "방콕포스트에 따르면 2026년 2월 22일, 방콕의 위파와디 랑싯 도로에서 심야 레이싱을 벌인 17명의 불법 레이서들이 체포되었으며, 이 중 10명은 미성년자입니다. 14대의 개조된 오토바이도 압수되었습니다. 경찰은 CCTV 카메라 영상, 사진, 차량 등록 데이터 등을 활용하여 수 주간의 감시와 자세한 조사를 통해 이번 단속을 진행했다고 밝혔습니다. 경찰은 위파와디 랑싯 도로를 불법 경주로로 사용하는 오토바이 그룹에 대한 민원이 접수된 후 \"안전한 위파와디 도로\" 작전을 시작했습니다. 조사 결과, 17명의 용의자들은 정기적으로 위파와디 소이 17 입구에 모여 주요 도로의 외곽 차선을 따라 이동한 후 돈므앙 공항 방향으로 돌아 Sutthisan 교차로까지 레이싱을 벌인 것으로 밝혀졌습니다. 이들은 모든 차선을 점거하고 고속으로 질주하며 다른 도로 사용자에게 위험을 초래했습니다. 체포된 성인 레이서 7명은 방콕 북부 지방 법원에서 징역 1개월에 집행 유예 1년을 선고받았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "불법 레이싱은 여행객의 안전에 위협이 될 수 있으며, 특히 야간 이동 시 주의가 필요함. 하지만 단속이 이루어져 위험이 감소했다는 점을 고려하여 6점 부여.",
+      "event_info": {
+        "date": "2026-02-22",
+        "location": "Vibhavadi Rangsit Road, Bangkok",
+        "price": null,
+        "location_google_map_query": "Vibhavadi Rangsit Road, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Vibhavadi street racers caught, bikes seized",
+          "url": "https://www.bangkokpost.com/thailand/general/3202794/vibhavadi-street-racers-caught-bikes-seized",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202794_700.jpg"
+        }
+      ],
+      "collected_at": "15:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202794_700.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 기업들, 관광 활성화를 위해 법 집행 개혁 촉구",
+      "summary": "- 태국 기업들이 관광 산업 활성화를 위해 법 집행 개혁을 촉구하고 있다.\n- 자세한 내용은 Vietnam+ (VietnamPlus)에서 확인할 수 있다.\n- 관광객 안전 및 편의 증진을 위한 노력이 필요하다.",
+      "full_translated": "태국: 기업들, 관광 활성화를 위해 법 집행 개혁 촉구 Vietnam+ (VietnamPlus)",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광객에게 간접적인 영향을 미치는 법 집행 개혁 관련 뉴스. 관광 경험 개선에 기여할 수 있으나 직접적인 영향은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand: Businesses urge law enforcement reforms to boost tourism - Vietnam+ (VietnamPlus)",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkg1aklWblR6eUcyZThjOXJwV25zYlg3VDYzVlJzZ2tIQjh4aDVpb19pNHhxYU5GOGEzZ05rQWFQVzFSdGplS0YtSVQzU25JaDVfNHAtZlYxZnRNU1J1d19taUt0WkpJNEhEaUhzYXpTR21Ta0NhdERSRFl2bWFlTk1aeHQyMHNzN3ZEaEhDRFJ6WG9VV01PdG53clJpQ1QtVUlTSUwtQmJ6dw?oc=5",
+          "source": "Vietnam+ (VietnamPlus)",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "15:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "수코타이, Green Destinations 금상 수상으로 살기 좋고 방문하기 좋은 이미지 제고",
+      "summary": "- 수코타이가 Green Destinations에서 금상을 수상했습니다.\n- 이는 수코타이의 이미지를 개선하는 데 도움이 될 것입니다.\n- Nation Thailand에서 보도했습니다.",
+      "full_translated": "수코타이가 Green Destinations 금상을 수상하여 살기 좋고 방문하기 좋은 이미지를 높였습니다. Nation Thailand",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행에 긍정적인 영향을 미칠 수 있는 정보이지만, 당장 시급한 정보는 아니므로 4점 부여. 새로운 소식.",
+      "event_info": {
+        "date": null,
+        "location": "수코타이",
+        "price": null,
+        "location_google_map_query": "수코타이"
+      },
+      "references": [
+        {
+          "title": "Sukhothai wins Green Destinations gold, boosts liveable-visitible image - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MSkxkMFV6V05GRjRaVy1yT3dhYzBMMld4eUY3VWR5anFQMUpVWGFGazdxdTZ4NW1CdUJZU2pzYThyQ1NyWmlETUlOQ2RaNHRmR1BFd3l1aTRVOU9vLVNqTlVzeU9nNjI1YXc?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "15:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 '국민당', 선거 패배 원인 분석 및 정치 상황 대비 워크숍 개최",
+      "summary": "- 국민당은 선거 패배 원인을 분석하고 향후 정치 상황에 대비하기 위한 대규모 워크숍을 개최했습니다.\n- 워크숍에는 당 지도부와 진보 운동 관계자들이 강사로 참여하여 지난 선거의 교훈을 되새겼습니다.\n- 지역별 그룹 토론을 통해 패배 원인을 분석하고 정보 및 의견을 교환했습니다.",
+      "full_translated": "국민당은 선거 패배 원인을 분석하고 국회의원들이 정치 상황에 대처할 수 있도록 집중 교육하는 대규모 워크숍을 개최했습니다. 2월 22일 방콕 라마 가든 호텔에서 국민당은 대규모 워크숍을 개최했으며, 타나톤 쯩룽르엉낏 진보 운동 의장, 삐야붓 쌩까녹꾼 진보 운동 사무총장과 같은 국민당 지도부와 진보 운동 인사들이 강사로 참여했습니다. 약 500명의 국회의원 당선자 및 국민당 국회의원 후보들이 참여하여 지난 선거의 교훈을 되새기고 새로운 국회의원의 업무 준비 및 향후 발생할 정치 상황에 대비했습니다. 워크숍은 2월 21일부터 시작되었습니다. 오늘 워크숍에서는 지역별 그룹을 나누어 국민당이 특정 지역에서 선거에서 승리하지 못한 이유를 요약하고 정보와 의견을 교환할 기회를 제공했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2024-02-22",
+        "location": "라마 가든 호텔, 방콕",
+        "price": "알 수 없음",
+        "location_google_map_query": "라마 가든 호텔 방콕"
+      },
+      "references": [
+        {
+          "title": "“พรรคประชาชน” จัดสัมมนาใหญ่ถอดบทเรียนความพ่ายแพ้ ติวเข้ม สส. รับมือสถานการณ์การเมือง",
+          "url": "https://www.thairath.co.th/news/politic/2915753",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3SOJsdXXHmA.jpg"
+        }
+      ],
+      "collected_at": "15:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3SOJsdXXHmA.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "선거구 위원장, 투표용지 원본 공개 거부",
+      "summary": "- 방콕 칸나야오 지역 선거구 위원장이 투표용지 원본 공개를 거부함.\n- 2월 22일 투표용지에 일련번호가 없다는 의혹이 제기된 후 발생.\n- 중앙선거관리위원회(꼬 ก ก 따.)에 문의하라고 답변.",
+      "full_translated": "칸나야오 9구역 선거관리위원장은 분홍색 투표용지의 원본을 보여주는 것을 거부하며 중앙선거관리위원회(꼬꼬따)에 해명을 요청했습니다. 2026년 2월 22일, 상원 의원(쏘쏘) 투표 용지 또는 분홍색 투표 용지에 대한 질문이 제기된 후, 지난 2026년 2월 8일 투표 용지의 원본에는 책 번호와 투표 용지 번호가 명시되어 있지만 이번 관찰 결과 해당 번호가 투표 용지에 명시되어 있지 않습니다. 이에 기자들은 선거구 위원장(쁘라탄 꼬뽀노)에게 문의했는데, 처음에는 번호가 있다고 확인했습니다. 분홍색 투표 용지에 해당 번호가 없다는 관찰 결과에 대해 다시 묻자, 위원장은 선거관리위원회(꼬꼬따)로부터 보여줄 수 있는지에 대한 지침을 받지 못했다고 밝혔습니다. 그 후 기자들은 투표 용지 원본을 확인하고 해당 번호가 있는지 확인해 달라고 요청했고, 위원장은 있다고 확인했습니다. 이후 직원은 업무를 먼저 처리해 달라고 말했고, 이 문제는 중앙선거관리위원회가 확인해야 한다고 덧붙였습니다. 이후 기자들은 방콕 선거관리위원회(퍼어. 꼬꼬따. 꼬토모.) 위원장에게 확인을 요청하려 했으나 인터뷰를 거부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "선거 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "칸나야오, 방콕",
+        "price": null,
+        "location_google_map_query": "칸나야오 방콕"
+      },
+      "references": [
+        {
+          "title": "ปธ.กปน. หน่วย 9 เขตคันนายาว ปฏิเสธให้ดูต้นขั้วบัตรเลือกตั้งสีชมพู โยน กกต.กลาง แจง",
+          "url": "https://www.thairath.co.th/news/politic/2915750",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3VyoqZgOrs4.jpg"
+        }
+      ],
+      "collected_at": "15:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DY3VyoqZgOrs4.jpg",
       "date": "2026-02-22"
     }
   ]
