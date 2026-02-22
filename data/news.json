@@ -31350,14 +31350,9 @@
       "summary": "- 태국에서 미국인 관광객이 삼각관계로 인한 다툼 중 흉기에 찔려 사망하는 사건 발생\n- 현지 경찰은 용의자를 체포하여 사건 경위를 조사 중\n- 관광객 안전에 대한 우려가 제기되고 있어 주의 요망",
       "full_translated": "태국에서 미국인 관광객이 삼각관계로 인한 격렬한 다툼 중에 흉기에 찔려 사망했습니다. 경찰은 용의자를 체포하여 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "외국인 대상 강력 범죄 발생으로 여행객 안전에 대한 직접적인 위협. 유사 사건 재발 방지를 위한 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police - AOL.com",
@@ -31368,21 +31363,18 @@
       ],
       "collected_at": "22:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFNicFlPNV9INGV2SXl4c3EwUVVtRkc3amhRT0lmTENFa3RSSTEwejctYWRqYzh1alQ4Q0luVmxJZ1hjbnZUT2ZjNEM3eGNJc2RlQ0hmMFZiNWdsdTFMLWdEOW5yN3lBTVlGUGxvN0xVUVFjMFFqbzU5LW9MZHA2ZGVkWkYtVnlK?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 해변 노숙자 문제 심각: 관광객 충격 및 강력한 법 집행 요구",
       "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동으로 관광객들이 불쾌감을 느끼고 있습니다.\n- 관광객들은 이러한 문제 해결을 위해 강력한 법 집행을 요구하고 있습니다.\n- 파타야 당국은 노숙자 문제 해결을 위한 대책 마련에 나서야 할 것으로 보입니다.",
       "full_translated": "파타야 해변에서 노숙자들이 관광객들에게 불편을 주는 사례가 빈번하게 발생하고 있습니다. 관광객들은 노숙자들의 부적절한 행동에 충격을 받았으며, 이러한 문제를 해결하기 위해 강력한 법 집행을 요구하고 있습니다. 관련 당국은 파타야 해변의 노숙자 문제를 해결하고 관광객들에게 안전하고 쾌적한 환경을 제공하기 위한 대책을 시급히 마련해야 할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변의 노숙자 문제가 관광객의 안전과 만족도를 저해할 수 있으므로 포함. 기존 게시물과 동일 내용이나, 관광객의 불만이 증가하고 있다는 점을 강조.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Pattaya 해변 노숙자의 부적절한 행동, 관광객 충격 및 강력한 법 집행 요구",
@@ -31391,21 +31383,19 @@
         }
       ],
       "collected_at": "22:17",
-      "date": "2026-02-22"
+      "image_url": "",
+      "date": "2026-02-22",
+      "link": "unavailable",
+      "source": ""
     },
     {
       "title": "파키스탄, 아프가니스탄 공습으로 18명 사망",
       "summary": "- 파키스탄이 아프가니스탄을 공습하여 최소 18명이 사망했습니다.\n- 사망자는 모두 한 가족 구성원이며, 주로 여성과 어린이가 포함되었습니다.\n- 파키스탄은 자국 내 자살 폭탄 테러 이후 무장 단체 은신처를 목표로 했다고 주장합니다.",
       "full_translated": "파키스탄이 아프가니스탄에 새로운 공습을 감행하여 최소 18명이 사망했습니다. 사망자들은 모두 낭가르하르 주의 동일 가족 구성원입니다. 외신 보도에 따르면, 파키스탄군은 2069년 2월 22일 토요일에서 일요일로 넘어가는 밤 동안 아프가니스탄의 여러 지역을 공습했습니다. 아프가니스탄 탈레반 정부는 이번 공격으로 여성과 어린이를 포함해 최소 18명이 사망했다고 밝혔습니다. 파키스탄 정부는 이번 공격이 파키스탄-아프가니스탄 국경 근처의 무장 단체 캠프와 은신처 7곳을 목표로 했다고 주장했습니다. 이번 공격은 최근 파키스탄에서 발생한 자살 폭탄 테러 이후에 이루어졌습니다. 그러나 아프가니스탄은 파키스탄의 공습을 강력히 규탄하며, 낭가르하르 주와 팍티카 주의 민간인 주택과 종교 학교를 목표로 했다고 비난했습니다. 낭가르하르 주 비흐수드 지역의 기르디가스 마을에 사는 샤하부딘이라는 남성은 언론과의 인터뷰에서 가족 23명 중 5명만이 이번 공격에서 살아남았다고 말했습니다. 이번 공격은 아프가니스탄과 파키스탄이 2068년 10월에 양국 간 격렬한 국경 충돌 이후 미국이 개입하여 어렵게 체결한 휴전 협정이 깨진 후에 발생했습니다. 휴전 협정 이후에도 양국 간 산발적인 충돌이 계속되었습니다. 현지 관리들과 주민들은 BBC에 베르말 지역과 팍티카 주의 우르군 지역의 게스트하우스와 종교 학교도 공격 목표가 되었지만, 공격 당시 건물 안에 아무도 없었다고 전했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역의 불안정은 여행 안전에 영향을 미칠 수 있으며, 특히 해당 지역 방문 계획이 있는 경우 주의가 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "아프가니스탄 낭가르하르 주",
-        "price": null,
-        "location_google_map_query": "낭가르하르 주"
-      },
+      "event_info": "{'date': None, 'location': '아프가니스탄 낭가르하르 주', 'price': None, 'location_google_map_query': '낭가르하르 주'}",
       "references": [
         {
           "title": "ปากีสถานโจมตีทางอากาศถล่มอัฟกานิสถาน ดับแล้ว 18 ศพ",
@@ -31416,6 +31406,58 @@
       ],
       "collected_at": "22:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUaZNSQF8rka7.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/foreign/2915792",
+      "source": ""
+    },
+    {
+      "title": "트럼프 마라라고 리조트 침입 시도 용의자 사살",
+      "summary": "- 플로리다 마라라고 리조트에 총기 난입 시도 발생\n- 경호 인력, 용의자 사살. 다른 부상자는 없음\n- 트럼프 대통령은 당시 워싱턴 D.C.에 있었음",
+      "full_translated": "경찰 비밀 경호국은 총과 기름통을 들고 트럼프 대통령의 마라라고 리조트 구역에 침입하려던 남성을 사살했습니다. 이 사건으로 다른 부상자는 발생하지 않았습니다. 사건은 2069년 2월 22일 일요일에 발생했습니다. 미국 대통령 경호국은 20대 남성이 플로리다 주 팜비치에 있는 도널드 트럼프 대통령의 마라라고 리조트에 침입하려다 사살됐다고 밝혔습니다. 팜비치 카운티의 릭 브래드쇼 보안관은 기자들에게 보안 요원이 휘발유통과 엽총을 들고 있는 백인 남성을 발견했다고 말했습니다. 요원과 부보안관은 현지 시간으로 일요일 오전 1시 30분에 금지 구역 안으로 침입한 남성과 대치했습니다. 요원들은 그 남성에게 무기를 내려놓으라고 명령했고, 그는 기름통은 내려놓았지만 엽총을 들어 올렸습니다. 그러자 요원들은 '위협을 제압하기 위해' 발포하기로 결정했습니다. 브래드쇼는 이 사건으로 부상당한 요원은 없다고 밝혔습니다. 트럼프 대통령은 당시 워싱턴 D.C.에 머물고 있었습니다. 당국은 아직 용의자의 이름이나 기타 신상 정보를 공개하지 않았으며, 요원들이 몇 발을 쐈는지, 용의자의 총에 총알이 장전되어 있었는지 여부도 불분명합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "미국 대통령 관련 사건이나, 태국 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2069-02-22",
+        "location": "마라라고 리조트, 플로리다",
+        "price": null,
+        "location_google_map_query": "Mar-a-Lago, Palm Beach, Florida"
+      },
+      "references": [
+        {
+          "title": "จนท.วิสามัญฯ ชายถือปืนลูกซอง บุกรีสอร์ต มาร์-อา-ลาโก ของทรัมป์",
+          "url": "https://www.thairath.co.th/news/foreign/2915793",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUafXNUa4s1jk.jpg"
+        }
+      ],
+      "collected_at": "22:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUafXNUa4s1jk.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "치앙마이 관광 명소에서 정체불명의 바이러스 발생으로 호랑이 72마리 폐사",
+      "summary": "- 치앙마이의 한 관광 명소에서 정체불명의 바이러스가 발생했습니다.\n- 이로 인해 호랑이 72마리가 폐사했습니다.\n- 당국은 바이러스의 원인과 추가 확산 방지를 위해 조사 중입니다.",
+      "full_translated": "치앙마이 관광 명소에서 정체불명의 바이러스 발생으로 호랑이 72마리 폐사",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광 명소에서 발생한 사건이므로 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이",
+        "price": null,
+        "location_google_map_query": "치앙마이 관광 명소"
+      },
+      "references": [
+        {
+          "title": "72 tigers die following mysterious virus outbreak at Chiang Mai tourist attraction , Asia News - AsiaOne",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjFTS05mbklDZEZuWnJhOVo1V3ZVeXZoZWR3NTdVX3U0cGFxM1lqYXhrYjI1d1dpcV9qbWE5c1pIQmpTU0VKQkpaSUQtUGxELUlCSE9UMjZsa3hKeFRRWVFQbnljRWJNMzNIMmlaN3d5TXRrc01ZaWJSMEkwbEVmMjBDVnNMTFRORFhxUVFOUmhITndvdnptV2VWVFFmNGNFU2RlUGRrakYtWlhN?oc=5",
+          "source": "AsiaOne",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-22"
     }
   ]
