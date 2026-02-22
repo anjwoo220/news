@@ -31794,14 +31794,9 @@
       "summary": "- 미국 플로리다 마-아-라고 리조트에 총격범 침입, 사살됨.\n- 범인은 21세 오스틴 티. 마틴으로, 노스캐롤라이나 출신.\n- FBI는 사건 경위 조사 중, 대통령 경호국과 협력.",
       "full_translated": "미국 언론은 도널드 트럼프의 마-아-라고 리조트 금지 구역에 침입해 사살된 총을 소지한 남성의 이름을 공개했습니다. 조사 결과 그는 21세였으며 노스캐롤라이나 주 출신이었습니다. CBS 뉴스를 포함한 여러 미국 언론은 대통령 경호국 또는 비밀경호국 요원이 2069년 2월 22일 일요일 새벽에 도널드 트럼프 대통령의 마-아-라고 리조트에 침입하려다 사살된 남성이 오스틴 티. 마틴(21세)이라고 보도했습니다. 마틴 씨는 노스캐롤라이나 주 캐머런 출신입니다. CBS는 마틴의 가족이 지난 토요일에 실종 신고를 했다고 덧붙였습니다. 관계자들은 그가 마-아-라고에 침입할 당시 엽총과 연료통을 소지하고 있었다고 밝혔습니다. 그는 마-아-라고 북쪽 문을 통해 손님이 나오던 틈을 타 침입했습니다. 현재 관계자들은 그가 노스캐롤라이나 주에서 플로리다 주로 운전하는 동안 총을 구입했는지, 다른 방법으로 총을 입수했는지 조사하고 있습니다. 캐시 파텔 FBI 국장은 소셜 미디어를 통해 FBI가 “오늘 아침 트럼프 대통령의 마-아-라고에서 발생한 사건 조사에 필요한 모든 노력과 자원을 쏟고 있다”고 간략하게 밝혔습니다. 그는 또한 “무기를 소지한 사람이 금지 구역에 불법적으로 침입한 후 사살되었다”고 확인했습니다. FBI는 대통령 경호국과 주 및 연방 파트너와 협력하고 있으며 추가 정보가 있을 때 업데이트할 예정입니다. ... 이전에 릭 브래드쇼 씨는...",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유명 관광지에 발생한 총격 사건으로, 여행객 안전에 대한 우려를 야기할 수 있으므로 정보 제공. 다만, 사건이 종결되었고, 직접적인 위협은 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "마-아-라고 리조트, 플로리다, 미국",
-        "price": null,
-        "location_google_map_query": "Mar-a-Lago Resort, Florida"
-      },
+      "event_info": "{'date': None, 'location': '마-아-라고 리조트, 플로리다, 미국', 'price': None, 'location_google_map_query': 'Mar-a-Lago Resort, Florida'}",
       "references": [
         {
           "title": "สหรัฐฯ เผยชื่อมือปืนวัย 21 ปี บุกรีสอร์ต มาร์-อา-ลาโก ก่อนถูกยิงดับ",
@@ -31810,9 +31805,11 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUbP5J7zufx77.jpg"
         }
       ],
-      "collected_at": "03:48",
+      "collected_at": "3:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUbP5J7zufx77.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/foreign/2915798",
+      "source": ""
     }
   ]
 }
