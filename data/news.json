@@ -31284,14 +31284,9 @@
       "summary": "- 중국 관광객들이 철도 연결, 비자 정책, 저렴한 여행 옵션을 통해 라오스를 동남아시아 여행의 관문으로 활용하고 있습니다.\n- 라오스는 태국, 말레이시아, 싱가포르 등 다른 동남아시아 국가로 쉽게 이동할 수 있는 허브 역할을 합니다.\n- 중국-라오스 철도 개통 이후 라오스를 방문하는 중국 관광객 수가 급증했습니다.",
       "full_translated": "라오스가 철도 연결, 비자 정책, 저렴한 여행 옵션을 통해 중국 관광객들이 동남아시아를 탐험하는 관문으로 부상하고 있습니다. \n\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국 관광객 증가 및 라오스를 통한 동남아 여행 증가 가능성. 여행 경로 및 숙박 시설에 영향 가능.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Laos Emerging as the Gateway for Chinese Tourists Exploring Southeast Asia Through Rail Links Visa Policies and Affordable Travel Options - Travel And Tour World",
@@ -31302,21 +31297,18 @@
       ],
       "collected_at": "21:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOTWM1Qnp5RUhYdU9rVXZicS0zV1dQODE2Yk5oUE5xWm1CbVAxdC1SZmJlQ0t3Zk5kWGVQa3VtR1FnRG5rX0NSV2VLZF9VWWx2ZG12dU5WT29lYUk5ZG1ESVNrQlpHSzVfRUY1Ykl3cGhQRDdscmp0Z3RDaEw4eWZUUkpuZFcyX1RyV3FPeFYxTzFmcFpGUlZxc2NpekFtOGtRUG1zS1FsY1hyWHVIbDlzNDdzd3pETm1WVzhuckZEV2hCQlZSVkhSQl9lcnNyUko2N1I0Y2p1bkdWajYwYks3LThrUFF2bjNUbGY5NDA5WVRSeEVXUEpiZzNYSXQ4bW9zaF9KalMwZWd2cTl3Mjd4WHJHRl8?oc=5",
+      "source": ""
     },
     {
       "title": "15세 소년, 리게(태국 전통극)에 대한 사랑으로 꿈을 이루다",
       "summary": "- 15세 소년 'น้องออม'이 [농 엄] 어려운 환경 속에서도 리게에 대한 열정으로 라이브 공연을 통해 가족을 부양.\n- 유명 리게 스승에게 발탁되어 첫 무대에 데뷔하는 꿈을 이루게 됨.\n- 재능을 알아본 스승의 지도 아래 리게 기술을 배우며 꿈을 향해 나아갈 예정.",
       "full_translated": "15세 소년 노파낫 차티요 또는 \"농엄\"은 가족을 돕기 위해 접시 닦이 일을 하며 어렵게 생활하면서도 어린 시절부터 리게 공연을 좋아했습니다. 초등학교 졸업 후 가족을 돕기 위해 돈을 벌고, 리게 의상을 사서 어머니의 페이스북 계정 \"수리 차티요\"를 통해 리게 시와 노래를 라이브로 공연하며 시청자들에게 온라인 화환을 부탁하여 가족을 부양했습니다. 라이브 방송을 통해 얻는 수입은 한 번에 200-300바트에 불과했습니다.\n\n그러던 중, 2월 21일, 깜팽펫 지역의 유명한 리게 스승인 사틷 나크므앙 또는 \"크루 퍼\"가 이 소식을 듣고 노파낫 또는 \"농엄\"에게 연락하여 제자로 받아들여 리게를 가르치겠다고 제안했습니다. 스승은 또한 \"잡므\" (몸에서 나쁜 기운을 쫓아내는 의식)를 해야 한다고 말했습니다. 농엄은 이 소식을 듣고 매우 기뻐하며 스승의 집으로 가서 의식을 치렀습니다. 리게 스승은 태국 리게 기술의 다양한 자세와 동작을 가르쳤고, 농엄은 잘 이해하고 매주 토요일과 일요일에 훈련을 받을 준비가 되었습니다. 깜팽펫 지역에서 유명한 리게 극단인 \"피라팟 찻카이\"의 소유주인 암누아이폰 소이손은 농엄을 지원하고 싶어합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 전통 문화에 대한 흥미로운 소식이며, 여행객들에게 로컬 문화를 접할 기회를 제공할 수 있어 보통 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "깜팽펫",
-        "price": null,
-        "location_google_map_query": "กำแพงเพชร"
-      },
+      "event_info": "{'date': None, 'location': '깜팽펫', 'price': None, 'location_google_map_query': 'กำแพงเพชร'}",
       "references": [
         {
           "title": "“น้องออม” หนุ่มน้อยใจรักลิเกสู้ชีวิต ได้ทำตามฝัน หลังครูลิเกชื่อดังรับเป็นศิษย์",
@@ -31327,21 +31319,18 @@
       ],
       "collected_at": "21:50",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUWjGTlY5gAMW.jpg",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://www.thairath.co.th/news/local/2915789",
+      "source": ""
     },
     {
       "title": "홍콩, 그린피스의 사이쿵 컨트리 파크 관광 급증 경고에 환경 보호 촉구에 동참",
       "summary": "- 홍콩이 중국, 일본, 태국, 인도네시아, 필리핀과 함께 사이쿵 컨트리 파크의 환경 위험에 대한 보호를 강화한다.\n- 그린피스는 2026년 관광 급증으로 인한 환경 위험을 경고했다.\n- 관련 정보는 Travel And Tour World에서 확인할 수 있다.",
       "full_translated": "홍콩이 중국, 일본, 태국, 인도네시아, 필리핀과 함께 그린피스가 2026년 사이쿵 컨트리 파크의 관광 급증으로 인한 환경 위험을 경고함에 따라 더 나은 보호를 촉구합니다: 알아야 할 모든 것 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "관광객 증가로 인한 환경 문제에 대한 잠재적 영향. 직접적인 위협은 아니지만 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "사이쿵 컨트리 파크, 홍콩",
-        "price": null,
-        "location_google_map_query": "사이쿵 컨트리 파크"
-      },
+      "event_info": "{'date': None, 'location': '사이쿵 컨트리 파크, 홍콩', 'price': None, 'location_google_map_query': '사이쿵 컨트리 파크'}",
       "references": [
         {
           "title": "Hong Kong Joins China, Japan, Thailand, Indonesia and Philippines in Urging Better Protection as Greenpeace Alerts Environmental Risks Due to Tourism Surge in Sai Kung Country Park in 2026: All You Need to Know - Travel And Tour World",
@@ -31352,6 +31341,81 @@
       ],
       "collected_at": "21:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxOU1ZsRDBxUFJDeWNvSl9XZmFfdlI1WDdrWk1PZFVFZ2JZaUNyQ1dzbE5URnNlZmZ5QmdZZXRuN0hjMFFBeksySkRGb25GSlE3blpfUmphTmg1anZYODVfSjFJanNtOERUQVRtLUN3bDdGWUM0b1ZUSE5BSkhlOWF4RnpKNmJRX0p1c29Lam1iNG16Tk5rZVFsam1nSk5BRWF6QkZ4b20wdG45VkhWMXpFaVZ1cktrRmtzUDNIUVA3Y1RaSnV4ejRuSnc5ckV3VjZFLU1qRGZUS1JzeUZjNmJsRU9pTHg1cjZQVjFrc0EySEt4V2xjZnMxVW1lRUhkNmNCYVAxd0kxdWRDR3g4SnZaSVFqR1g5RkhXQ2FSdnhTc2dELXVYdjFzMVVGb2ZiSzQzQ2NXX29GWERnMUI3U2hUbzFqWTVVNm8taEc2c3k5RXBObU43TkZsX2ZrUy1aMjNXN3A4?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국에서 미국인 관광객, 삼각관계 다툼 중 흉기에 찔려 사망",
+      "summary": "- 태국에서 미국인 관광객이 삼각관계로 인한 다툼 중 흉기에 찔려 사망하는 사건 발생\n- 현지 경찰은 용의자를 체포하여 사건 경위를 조사 중\n- 관광객 안전에 대한 우려가 제기되고 있어 주의 요망",
+      "full_translated": "태국에서 미국인 관광객이 삼각관계로 인한 격렬한 다툼 중에 흉기에 찔려 사망했습니다. 경찰은 용의자를 체포하여 조사 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "외국인 대상 강력 범죄 발생으로 여행객 안전에 대한 직접적인 위협. 유사 사건 재발 방지를 위한 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFNicFlPNV9INGV2SXl4c3EwUVVtRkc3amhRT0lmTENFa3RSSTEwejctYWRqYzh1alQ4Q0luVmxJZ1hjbnZUT2ZjNEM3eGNJc2RlQ0hmMFZiNWdsdTFMLWdEOW5yN3lBTVlGUGxvN0xVUVFjMFFqbzU5LW9MZHA2ZGVkWkYtVnlK?oc=5",
+          "source": "AOL.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야 해변 노숙자 문제 심각: 관광객 충격 및 강력한 법 집행 요구",
+      "summary": "- 파타야 해변에서 노숙자들의 부적절한 행동으로 관광객들이 불쾌감을 느끼고 있습니다.\n- 관광객들은 이러한 문제 해결을 위해 강력한 법 집행을 요구하고 있습니다.\n- 파타야 당국은 노숙자 문제 해결을 위한 대책 마련에 나서야 할 것으로 보입니다.",
+      "full_translated": "파타야 해변에서 노숙자들이 관광객들에게 불편을 주는 사례가 빈번하게 발생하고 있습니다. 관광객들은 노숙자들의 부적절한 행동에 충격을 받았으며, 이러한 문제를 해결하기 위해 강력한 법 집행을 요구하고 있습니다. 관련 당국은 파타야 해변의 노숙자 문제를 해결하고 관광객들에게 안전하고 쾌적한 환경을 제공하기 위한 대책을 시급히 마련해야 할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변의 노숙자 문제가 관광객의 안전과 만족도를 저해할 수 있으므로 포함. 기존 게시물과 동일 내용이나, 관광객의 불만이 증가하고 있다는 점을 강조.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Pattaya 해변 노숙자의 부적절한 행동, 관광객 충격 및 강력한 법 집행 요구",
+          "url": "unavailable",
+          "source": "unavailable"
+        }
+      ],
+      "collected_at": "22:17",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파키스탄, 아프가니스탄 공습으로 18명 사망",
+      "summary": "- 파키스탄이 아프가니스탄을 공습하여 최소 18명이 사망했습니다.\n- 사망자는 모두 한 가족 구성원이며, 주로 여성과 어린이가 포함되었습니다.\n- 파키스탄은 자국 내 자살 폭탄 테러 이후 무장 단체 은신처를 목표로 했다고 주장합니다.",
+      "full_translated": "파키스탄이 아프가니스탄에 새로운 공습을 감행하여 최소 18명이 사망했습니다. 사망자들은 모두 낭가르하르 주의 동일 가족 구성원입니다. 외신 보도에 따르면, 파키스탄군은 2069년 2월 22일 토요일에서 일요일로 넘어가는 밤 동안 아프가니스탄의 여러 지역을 공습했습니다. 아프가니스탄 탈레반 정부는 이번 공격으로 여성과 어린이를 포함해 최소 18명이 사망했다고 밝혔습니다. 파키스탄 정부는 이번 공격이 파키스탄-아프가니스탄 국경 근처의 무장 단체 캠프와 은신처 7곳을 목표로 했다고 주장했습니다. 이번 공격은 최근 파키스탄에서 발생한 자살 폭탄 테러 이후에 이루어졌습니다. 그러나 아프가니스탄은 파키스탄의 공습을 강력히 규탄하며, 낭가르하르 주와 팍티카 주의 민간인 주택과 종교 학교를 목표로 했다고 비난했습니다. 낭가르하르 주 비흐수드 지역의 기르디가스 마을에 사는 샤하부딘이라는 남성은 언론과의 인터뷰에서 가족 23명 중 5명만이 이번 공격에서 살아남았다고 말했습니다. 이번 공격은 아프가니스탄과 파키스탄이 2068년 10월에 양국 간 격렬한 국경 충돌 이후 미국이 개입하여 어렵게 체결한 휴전 협정이 깨진 후에 발생했습니다. 휴전 협정 이후에도 양국 간 산발적인 충돌이 계속되었습니다. 현지 관리들과 주민들은 BBC에 베르말 지역과 팍티카 주의 우르군 지역의 게스트하우스와 종교 학교도 공격 목표가 되었지만, 공격 당시 건물 안에 아무도 없었다고 전했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국경 지역의 불안정은 여행 안전에 영향을 미칠 수 있으며, 특히 해당 지역 방문 계획이 있는 경우 주의가 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "아프가니스탄 낭가르하르 주",
+        "price": null,
+        "location_google_map_query": "낭가르하르 주"
+      },
+      "references": [
+        {
+          "title": "ปากีสถานโจมตีทางอากาศถล่มอัฟกานิสถาน ดับแล้ว 18 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2915792",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUaZNSQF8rka7.jpg"
+        }
+      ],
+      "collected_at": "22:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUaZNSQF8rka7.jpg",
       "date": "2026-02-22"
     }
   ]
