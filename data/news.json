@@ -31860,14 +31860,9 @@
       "summary": "- Siam Paragon이 TAT, Kasikornbank와 협력하여 'Siam Paragon A Prosperous Chinese New Year 2026'을 개최합니다.\n- 번영의 해를 기념하는 태국 차이니즈 뉴 이어 축제가 열립니다.\n- 자세한 내용은 The Manila Times에서 확인할 수 있습니다.",
       "full_translated": "Siam Paragon은 태국 관광청(TAT), Kasikornbank와 협력하여 'Siam Paragon A Prosperous Chinese New Year 2026'을 개최합니다. 이 행사는 번영의 해를 기념하는 태국 차이니즈 뉴 이어 축제입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 설날 축제 정보는 여행객에게 유용할 수 있으며, 특히 해당 기간에 태국을 방문하는 여행객에게는 더욱 그렇습니다.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "Siam Paragon",
-        "price": "미정",
-        "location_google_map_query": "Siam Paragon, Bangkok"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': 'Siam Paragon', 'price': '미정', 'location_google_map_query': 'Siam Paragon, Bangkok'}",
       "references": [
         {
           "title": "Ushering in a Year of Prosperity: Celebrating Thailand’s Chinese New Year Festival Siam Paragon Joins Forces with TAT and Kasikornbank to Launch 'Siam Paragon A Prosperous Chinese New Year 2026' - The Manila Times",
@@ -31876,23 +31871,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQeGMyYjZnY1pXUVdVYXdCN2dVNFZfXzZiLWZTLWRlX0xzWDIyTnZfTHFqTmNxQ1pQVE9XWWU1RGxFdXI5VzZSYVNuNWVEc1dVaDBEb1pfRjJGU1hvUjhkeElFNzFQUXJLamxBM2hXZ2F6eVZKSll2MjRsbHB5cm1rVllGMEllMXhtSFRGakNDckREYVdKME9CTDVWcUNpc2hSY2Z5blBLLXZXVE82S1B2TW1yX214UUoxQm1KOGluVkE5U0tfcUxjQ05ndXl6M0M3SWhQdG5ST1dLMGgtUkpQWUNCSkFzSlZuTGxWSlF0T09qUzlpZHFXZ29JYWVCYlhFVFQzZjZyUXJ6MTBGaWlVUkhzWl90cXVjUEhoUEotU0d2TVhjellSMy1UQlNhY2Q0alUxUDllYzZWNnNuRGRsVFJVRDkzNjI5dUpzQy1sZW8wdTJ2UFZyR2w5NmFNanQtSWpuX3o1enVxV2swZm53eFprN1V2Y3locVJpR3J0eGZFSlVKZXIwTTRR0gGPA0FVX3lxTE1BNGZMUTdLUUNZTHZNcG1zbmNXX1ZYNDFaLVdwMTU1bTV0NlZqOTM2WlViVDBCd09RUjVKeXRQTnB2b1RjWW85cWFqT2t2bzhFLU4wWW9KM1phekhmVnFzZU90N0dNZnJlbVZCQmdCdmJPSVBrQWZJdHcwZEhCUEV1ZmFoSkdmcUtYN3FscEFGSTJLeVRKTFhxR29LM2E2ODNJUUxCZm9lWjhnSXc0cGxlYmFpZHlseGNMS0JSdEljSXA4RVNLaWh6aFFIbmRnRnVGNlhPVDltSEY3aHZaSjdvazgxanFISkxnX0Y1RVE2U3ZGTmtFbU9lNHVhUy1xYjloYjdCR2NRY2h6RkJrS3k3bk4wVlNqXzVXSlpjSUw4dkhqdHRIZG8zSXNQR3ZsQ0VnVUpOSWhwc0lfOVNiNExCY29xWTE0Y1I1UkpiaUs2RW9uSGpSSXJCR21fbWpvTTl0b0RIdXI1am9CMkxQaU5Jc0kyeG4xZDlVeEhjMEhKTEFtd183bU1KcGVFTmZYbw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 경제 회복 난항: 기업, 정부에 구조 개혁 촉구",
       "summary": "- 태국 경제, 아시아 국가 중 부진한 성적 기록.\n- 기업들, 새 정부에 경제 회복 위한 구조 개혁 요구.\n- 새 정부 구성 시 정치적 할당에 따른 인선 우려.",
       "full_translated": "태국이 주변 국가들에 비해 저조한 성적을 거두면서 기업들은 새 정부가 국가 경제 건전성을 회복하기 위한 주요 구조 개혁을 시행할 것을 요구하고 있습니다. \n\n'아시아의 병자'라는 낙인이 찍히면서 태국은 '만성적인 경제 질병'을 일으키는 오랜 문제들을 재평가하게 되었습니다. 그러나 새 정부가 이전 정부를 그대로 반영할 것으로 예상되면서, 재포장된 지도자들이 필요한 구조 개혁과 관련하여 국가를 경제적 침체에서 깨울 수 있을지 의문을 제기하고 있습니다.\n\n태국 산업 연맹(FTI)의 크리앙크라이 티엔누쿨 회장은 새 정부가 각료 구성원을 정치적 할당량에 따라 선정하면 태국이 실제로 '죽은 사람'이 될 위험이 있다고 말했습니다. 그는 사업 부문이 아누틴 차른비라쿨을 총리로 지지하는 대가로 정당들이 얼마나 많은 내각 의석을 얻을 수 있는지에 따라 정치 정당 간 협상이 주로 진행될 것으로 예상됨에 따라 품차이타이당 주도의 연립 정부 하에서 태국 경제가 어떻게 회복될지에 대한 우려에 휩싸여 있다고 말했습니다. 언론 보도에 따르면 품차이타이는 일부 소규모 정당뿐만 아니라 프아 타이당과 손을 잡을 가능성이 높습니다. 참여 정당들이 원하는 부처를 감독할 수 있도록 6개월마다 내각 개편이 있을 수 있다고 정치권은 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 뉴스이지만, 당장 여행객에게 직접적인 영향을 미치지는 않음. 다만, 경제 상황 악화는 장기적으로 여행 관련 서비스 질 저하 등으로 이어질 수 있으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Dead man walking",
@@ -31901,23 +31893,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5979025_700.jpg"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5979025_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203135/dead-man-walking",
+      "source": ""
     },
     {
       "title": "태국, 베트남에 경제 성장 잠재력 추월당할 위기 직면",
       "summary": "- 태국 경제, 의미 있는 개혁 없이는 2년 안에 베트남에 GDP 추월당할 수 있다는 경고 제기됨.\n- 베트남, 외국인 직접 투자 및 수출 가치에서 태국을 앞서고 있으며, 교육 수준도 빠르게 향상 중.\n- 태국 경제 문제 해결 위해 경제 부양책과 함께 농업, 수출 경쟁력 등 구조적 개혁 필요.",
       "full_translated": "태국은 의미 있는 경제 개혁을 단행하지 않는다면 2년 안에 베트남에 GDP가 추월당할 가능성이 있다고 두 명의 학자가 경고했다. 독립 경제학자인 앗 피산와니치는 태국의 GDP가 약 5천억 달러인 반면 베트남은 이미 4천억 달러가 넘는다고 말했다. 외국인 직접 투자와 수출 가치 모두 베트남이 태국보다 높다. 교육의 질 측면에서 호치민시 경제대학교는 세계 500위 안에 랭크되어 있으며, 이는 출라롱콘 대학교와 같은 수준이다. 베트남은 태국보다 양질의 대학이 적지만, 5년 안에 하노이의 대학들을 세계 300위 안에 진입시키는 것을 목표로 하고 있다. 1인당 소득을 기준으로 말레이시아는 연간 1인당 15,000달러를 창출하는 선진국으로 간주된다. 태국은 오랫동안 1인당 약 7,000달러에 머물러 있다. 베트남은 또한 약 1억 명으로 태국의 6,600만 명에 비해 훨씬 더 많은 인구를 가지고 있다. 그는 태국의 경제 문제를 해결하려면 경제 부양책과 함께 농업 또는 수출 경쟁력과 같은 근본 원인을 해결하기 위한 구조적 개혁이라는 두 가지 병행 접근 방식이 필요하다고 말했다. 이 전략은 또한 부패 척결과 정치적 제휴 때문에 사람을 임명하기보다는 유능한 사람을 선택하여 공무원을 개혁해야 한다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 분석 기사. 직접적인 여행 정보는 아니지만, 장기적으로 여행 환경에 영향을 줄 수 있음. 아침 브리핑에 포함하기에는 시의성이 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand is losing ground to Vietnam",
@@ -31926,8 +31915,58 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5978950_700.jpg"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5978950_700.jpg",
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203105/thailand-is-losing-ground-to-vietnam",
+      "source": ""
+    },
+    {
+      "title": "'Thank you Thailand' 트렌드, 외국인 관광객 사이에서 입소문 - Khaosod English",
+      "summary": "- 외국인 관광객 사이에서 태국에 대한 감사를 표현하는 'Thank you Thailand' 트렌드가 확산 중.\n- 태국의 환대와 아름다운 풍경, 저렴한 물가 등이 인기 요인으로 분석됨.\n- 소셜 미디어를 통해 빠르게 공유되며 태국 관광에 긍정적인 영향을 미치고 있음.",
+      "full_translated": "카오솟 잉글리시에 따르면, 외국인 관광객 사이에서 태국에 대한 감사를 표현하는 'Thank you Thailand' 트렌드가 입소문을 타고 있습니다. 태국의 환대와 아름다운 풍경, 저렴한 물가 등이 인기 요인으로 분석됩니다. 이 트렌드는 소셜 미디어를 통해 빠르게 공유되며 태국 관광에 긍정적인 영향을 미치고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "'Thank you Thailand' 트렌드는 태국 여행 분위기를 간접적으로 나타내므로 여행 관련 정보로 유용합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "‘Thank you Thailand’ trend goes viral among foreign tourists - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMiXmh0dHBzOi8vd3d3LmtoYW9zb2QuY28udGgvb3Bpbmlvbi9uZXdzXzgwNjU0NzjSAQA?oc=5",
+          "source": "Khaosod English"
+        }
+      ],
+      "collected_at": "05:48",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "파타야 뉴스팀과 함께하는 주간 커피 & 뉴스 채팅",
+      "summary": "- 매주 화요일 오후 3-5시, 좀티엔 Rage Ringside Cafe에서 진행.\n- 파타야 뉴스 콘텐츠 책임자와 편안하게 뉴스 및 다양한 주제에 대해 대화.\n- 음료 또는 식사 비용 외에는 무료이며, 수영장도 이용 가능.",
+      "full_translated": "매주 화요일 오후 3시부터 5시까지, 콘텐츠 책임자 Adam이 좀티엔에 있는 Rage Ringside Cafe(Soi Thrappraya 15, Grand Solaire Condo 건설 현장 뒤)에서 뉴스 및 커피 세션을 진행합니다. 편안하게 음료를 마시며 대화하는 모임이며, 특별한 의제, 연설, 그룹 세션, 형식, 부담이 없습니다. 파타야 뉴스 팀을 만날 수 있는 기회입니다. 음료 또는 식사 비용 외에는 무료입니다! 카페에서는 술도 판매하며, 카페 고객은 수영장을 무료로 이용할 수 있습니다! 심각한 뉴스 관련 문제, 불만 사항 또는 법적 문제는 Editor@thepattayanews.com으로 이메일을 보내 개인 미팅을 요청하십시오. 이 모임은 비공식적이며 편안한 분위기이며, 종종 12명 이상의 사람들이 모입니다. 복잡한 개인적인 문제는 비공식적인 분위기를 해칠 수 있으므로 개인적으로 문의하십시오. 판매 관련 질문이나 광고에 관심이 있으신 분은 sales@thepattayanews.com으로 이메일을 보내주십시오. 편안하고 친근한 세션입니다. ",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야에서 여행자들이 참여할 수 있는 주간 모임 정보. 최신 정보 제공.",
+      "event_info": {
+        "date": "매주 화요일",
+        "location": "Rage Ringside Cafe, Jomtien",
+        "price": "개인 음료/식사 비용",
+        "location_google_map_query": "Rage Ringside Cafe Jomtien"
+      },
+      "references": [
+        {
+          "title": "Join Us For Our Weekly Free In Person Coffee and News Chat With The Pattaya News Team Every Tuesday Afternoon",
+          "url": "https://thepattayanews.com/2026/02/23/new-weekly-coffee-and-news-chat-with-the-pattaya-news-team/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131",
       "date": "2026-02-23"
     }
   ]
