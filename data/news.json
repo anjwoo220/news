@@ -30866,14 +30866,9 @@
       "summary": "- 파타야 해변에서 약물 사용 및 부적절한 행위 증가에 따라 안전 순찰이 강화됩니다.\n- 특히 중국, 인도, 말레이시아 관광객들은 주의해야 합니다.\n- 휴가 여행에 미칠 영향에 대한 내용도 포함되어 있습니다.",
       "full_translated": "파타야 해변에서 약물 사용 및 부적절한 행위가 증가함에 따라 안전 순찰이 강화됩니다. 특히 중국, 인도, 말레이시아 관광객들은 주의해야 합니다. 휴가 여행에 미칠 영향에 대한 내용도 포함되어 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 해변의 안전 문제 관련하여 여행객에게 직접적인 영향을 줄 수 있으며, 기존 게시글과 유사하지만 최신 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Thailand, China, India, and Malaysia Tourists Beware: Pattaya Beach Intensifies Safety Patrols Amid Rising Drug Use and Indecent Behaviour – What This Means for Your Vacation! - Travel And Tour World",
@@ -30884,21 +30879,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQcmI1czcyR25hR2lXSWFCV2lyYTMwM2hPM2J2WlBXQUozYklld1JQb240OFNJOEFNcUozejlCTkZrZlZKMENRLXV6cjlMUVRLbU5yLXdoV1hDQnpXSlhydDl6TWkwS2hSODV3anZyaEV0M1pxZ3Z0NVNNMk1XcHJGWXlKNXphVElKekVoeGNlal9SWXkyTFEySW5KcFgydGhhVC1QOEtXSUdib1UyS1hzNHlsczRfNkdBN2gzTmNVc1JVU2RrU0JZN3NLU1RLRzNXdEdPaTdROGp2LXJmTDRmN1VMSEtWLUxJbTBYMzVfQ3U5SllkRnJ5UmFsQ19XQ3Nvc010aXNGQUhnWlZzeG82X1F1ckVIZkhLNWswNUZRMTcwaURFSFlkcktRQzFFb0t3aWg4Y2ZxRjVaS2g2YUE?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 및 주요 관광 도시, 음주 운전 단속 강화",
       "summary": "- 태국 경찰, 파타야 등 관광 도시에서 음주 운전 단속 강화.\n- 음주 운전에 대한 무관용 정책 시행.\n- 관광객 안전 확보 및 사고 예방 목적.",
       "full_translated": "태국 경찰이 파타야 및 주요 관광 도시에서 음주 운전에 대한 무관용 정책을 시행하며 단속을 강화합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객 안전에 직접적인 영향을 미치는 음주 운전 단속 강화 소식이므로 포함. 여행 중 주의를 요하는 사항.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 및 주요 관광 도시",
-        "price": null,
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야 및 주요 관광 도시', 'price': None, 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "Thailand police enforce zero tolerance on drunk driving as Pattaya and tourist cities face tighter checks - Pattaya Mail",
@@ -30909,21 +30901,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWkhSMFhZQTNtM0o5OTVsTU9nVFRxenFpcmJIOWpMbUsyUTVXb3RaUVpaT0JyVG5ydUJXOGxuME1FQzIwT2o0SmNIZFM5MjVqaEJYdy1LTi1ZNV9ReWZrcEJLYXU2aXY1RmxneFNicndUdHRjNzdBbHV4akVId29wTUxkQlZ1c1JqaGJ6QXJrcXR3UnFKbFpleGt6UVVQMUN0bjdFc1l5dGhDRWdSVkZvX0ZPOWNfVl9JU2ZhakVNRzVUNEhxTVZSZkVpUmxxVHRtZzZCdTV4SXZsTlVTdFE?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 2026년 춘절 맞아 한국, 태국 등 해외여행 급증 예상 - Travel And Tour World",
       "summary": "- 중국의 2026년 춘절 연휴 기간 동안 해외여행이 급증할 것으로 예상됨.\n- 특히 한국과 태국이 주요 여행지로 부상하고 있음.\n- 이는 글로벌 관광 산업에 큰 영향을 미칠 것으로 전망됨.",
       "full_translated": "중국의 2026년 여행 붐은 기록적인 해외 여행으로 이어져 춘절이 한국, 태국 및 그 외 지역으로의 글로벌 관광 급증을 촉발합니다! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년까지의 예측이지만, 중국 관광객 증가에 따른 영향 (혼잡도, 물가 상승 등)을 고려하여 정보 제공.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "한국, 태국",
-        "price": "변동 가능",
-        "location_google_map_query": "한국 태국 관광"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '한국, 태국', 'price': '변동 가능', 'location_google_map_query': '한국 태국 관광'}",
       "references": [
         {
           "title": "China’s 2026 Travel Boom Record‑Breaking Outbound Journeys as Spring Festival Sparks a Global Tourism Surge to South Korea, Thailand, and Beyond! - Travel And Tour World",
@@ -30934,21 +30923,18 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-22"
+      "date": "2026-02-22",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPLXB3RmNrZEJCZ2FaWXQyRnpJd092QVU4UXRpMTVJMk40aXF6cm9DSGZ3QW0tZTVtc3NEUmRsQ05JR2ozajhVMGtGclEwdnVvWlk2NEkzampaUUJnWThvTmJLemRsb1BPS2p5NTRCWXR2aU1VbVRmWkRFX01lQklQb1l3YWNmMzA5US1FcDBPbkFCZEJ5N3gyZk5BV1NiTWJMZ0lYVDRxS2JkQ3A2dElYekx5Sk1ZRzh6eWw2UmVkNWZTcHpZWG5DT0JZS01WM1pFV2VKaUVQdTB0MjByWEoteGc5SHFTUDduNWdEV3ppNEFpbklpOWh2RFZScWpYYUV4SmwxcjZtU3ZnVmVsVFFpRHFlbUVZSDJ2R0lKdGVnM1Y3Q0FG?oc=5",
+      "source": ""
     },
     {
       "title": "지노 티티쿨, 혼다 LPGA 태국 우승",
       "summary": "- 태국 파타야에서 열린 혼다 LPGA 태국에서 지노 티티쿨이 우승을 차지했습니다.\n- 마지막 날 일본의 치사토 '치지' 이와이와의 접전 끝에 승리했습니다.\n- 시암 컨트리클럽 올드 코스에서 팬들의 응원 속에 우승을 확정지었습니다.",
       "full_translated": "파타야: 열렬한 팬들의 함성이 시암 컨트리클럽 올드 코스를 가득 채운 가운데, 지노 티티쿨이 일본의 치사토 '치지' 이와이와의 마지막 날 접전 끝에 혼다 LPGA 태국 19회 대회에서 우승을 차지했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 열린 스포츠 경기 결과. 관광객에게 직접적인 영향은 적지만, 태국 관련 소식으로 흥미를 유발할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "시암 컨트리클럽 올드 코스, 파타야",
-        "price": null,
-        "location_google_map_query": "Siam Country Club Old Course, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '시암 컨트리클럽 올드 코스, 파타야', 'price': None, 'location_google_map_query': 'Siam Country Club Old Course, Pattaya'}",
       "references": [
         {
           "title": "Jeeno scores ‘A+++’ win on home soil",
@@ -30959,6 +30945,133 @@
       ],
       "collected_at": "18:42",
       "image_url": "https://static.bangkokpost.com/media/content/20260222/c1_3202843_700.jpg",
+      "date": "2026-02-22",
+      "link": "https://www.bangkokpost.com/sports/3202843/jeeno-scores-a-win-on-home-soil",
+      "source": ""
+    },
+    {
+      "title": "태국 60개 주에 여름 폭풍 주의보: 2월 23~25일 폭우 및 강풍 예보",
+      "summary": "- 태국 북부, 동북부, 중부, 방콕에 2월 23일부터 25일까지 여름 폭풍 주의보 발령.\n- 뇌우, 강풍, 우박, 집중 호우 및 번개 발생 가능성 존재.\n- 재난 예방 완화국(DDPM)은 60개 주에 경고를 발령하고 대비 태세 유지.",
+      "full_translated": "재난 예방 완화국(DDPM)은 태국 북부, 동북부, 중부 및 방콕의 60개 주에 2월 23일부터 25일까지 뇌우와 강풍에 대한 경고를 발표했습니다. 2월 22일, 티라팟 캇차맛 DDPM 국장은 기상 조건과 위험 요소를 고려하여 2026년 2월 23일부터 25일까지 태국 상부에 영향을 미치는 여름 폭풍에 대한 기상청 발표를 인용하여 발표했습니다. 중국에서 오는 고기압 또는 찬 공기가 태국 북동부와 남중국해를 덮을 것으로 예상됩니다. 이로 인해 남풍과 남동풍이 태국 북동부, 중부, 동부 및 태국 만을 덮을 것입니다. 서쪽에서 불어오는 바람은 북부와 북동부를 지나갈 것으로 예상됩니다. 태국 상부는 덥거나 매우 더울 것으로 예상됩니다. 북부, 북동부, 중부, 방콕 및 주변 지역에서 뇌우가 발생할 수 있습니다. 강풍, 우박, 집중 호우 및 번개 발생 가능성이 있습니다. 2026년 2월 23일부터 25일까지 뇌우와 강풍 발생 가능성이 있는 지역은 다음과 같습니다.\n\n- 북부: 모든 주\n- 북동부: 모든 주\n- 중부: 펫차부리 및 쁘라쭈압 키리 칸 주를 제외한 모든 주\n- 방콕\n\nDDPM은 60개 주와 위험 지역의 지역 DDPM 센터에 경고를 발령하고 대비 태세를 유지하도록 요청했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행 안전에 영향을 미치는 기상 악화 예보. 특히 2월 23~25일 여행객은 주의가 필요함. 매일 업데이트되는 날씨 정보이므로 게시 필요.",
+      "event_info": {
+        "date": "2026-02-23",
+        "location": "태국 북부, 동북부, 중부, 방콕",
+        "price": null,
+        "location_google_map_query": "태국 북부, 동북부, 중부, 방콕"
+      },
+      "references": [
+        {
+          "title": "เตือน 60 จังหวัด เฝ้าระวัง “พายุฤดูร้อน” ฝนถล่ม ลมกระโชกแรง 23-25 ก.พ. 69",
+          "url": "https://www.thairath.co.th/news/local/2915776",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZiMMl10RDsqn.jpg"
+        }
+      ],
+      "collected_at": "19:30",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZiMMl10RDsqn.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "수판부리에서 가족과 쇼핑 가던 남성, 운전 부주의로 운하에 빠져 3명 사망, 10세 소녀 생존",
+      "summary": "- 수판부리에서 29세 남성이 가족과 함께 쇼핑을 가던 중 운하에 빠지는 사고 발생.\n- 이 사고로 운전자와 23세 남성, 17세 여성이 사망하고 10세 소녀는 구조됨.\n- 경찰은 정확한 사고 경위를 조사 중.",
+      "full_translated": "수판부리 – 29세 남성이 가족을 태우고 쇼핑을 가던 중 운전 부주의로 운하에 빠져 3명이 사망하고 10세 어린이가 생존했습니다. 2월 22일 오후 2시 45분경, 수판부리 주 드엄방낭부앗 경찰서의 나타콘 데초킷타왓 경위는 드엄방낭부앗 - 싱부리 3032번 도로 옆 운하에 차량이 추락했다는 신고를 받았습니다. 경찰과 구조대는 현장에 도착하여 이수즈 D-맥스 차량이 운하에 잠겨 있는 것을 발견했습니다. 시민들이 10세 소녀 낫차야를 구조하여 드엄방낭부앗 병원으로 이송했습니다. 소녀는 차량에 3명이 더 있다고 말했습니다. 구조대는 차량에 갇힌 사람들을 구조하여 심폐소생술을 시도했지만, 3명 모두 사망했습니다. 사망자는 운전자인 29세의 사콘, 23세의 피라퐁, 17세의 수판사로 확인되었습니다. 이들은 모두 친척 관계이며, 쇼핑을 가던 중 사고가 발생한 것으로 알려졌습니다. 경찰은 정확한 사고 경위를 조사하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 교통사고 소식은 여행객 안전에 영향을 줄 수 있으며, 특히 렌터카 이용 시 주의를 요함. 사망자 발생으로 인해 정보 제공 가치 높음.",
+      "event_info": {
+        "date": "2024-02-22",
+        "location": "수판부리 주 เดิมบางนางบวช",
+        "price": null,
+        "location_google_map_query": "เดิมบางนางบวช 수판부리"
+      },
+      "references": [
+        {
+          "title": "อุบัติเหตุสลด หนุ่มขับกระบะพาญาติไปซื้อของ เสียหลักตกคลอง ดับ 3 ศพ เด็ก 10 ขวบรอด",
+          "url": "https://www.thairath.co.th/news/local/2915777",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZiU8KN03nhyw.jpg"
+        }
+      ],
+      "collected_at": "19:30",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZiU8KN03nhyw.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "파타야, 몬순으로 인한 좀티엔 해변 해양 쓰레기 제거 작업 완료",
+      "summary": "- 파타야 시 위생팀과 해변 관리팀이 몬순으로 인해 밀려온 해양 쓰레기 수거 및 제거 완료.\n- 해변 청결 복원 작업 완료로 방문객에게 안전하고 쾌적한 환경 제공.\n- 관계자들은 이번 계절적 기상 이변 기간 동안 추가적인 임무를 수행한 모든 담당자들의 노고에 감사를 표함.",
+      "full_translated": "파타야의 관계자들은 몬순으로 인해 밀려온 해양 쓰레기를 좀티엔 해변에서 치우는 작업을 완료했습니다. 지역 위생팀과 해변 유지보수팀은 즉각적으로 대응하여 해변의 청결을 회복하기 위해 부지런히 씻겨 내려온 쓰레기를 수집하고 제거했습니다. 청소 작업이 완료되어 해안선이 방문객에게 안전하고 쾌적하게 유지됩니다. 관계자들은 이 어려운 계절적 날씨 기간 동안 추가적인 임무를 맡은 모든 관련 인력의 노고에 감사를 표했습니다. 그들의 노력은 점점 더 많은 관광객을 맞이할 준비를 하면서 좀티엔 해변의 매력을 유지하는 데 도움이 됩니다. 이번 사건은 해류가 종종 먼 곳에서 쓰레기를 지역 해안으로 운반하는 해안 지역에 대한 몬순 계절의 지속적인 영향을 보여줍니다. 당국은 책임감 있는 폐기물 관리의 중요성을 계속해서 강조합니다. 이는 모든 주민과 방문객에게 해양에 쓰레기를 버리지 말고 태국의 아름다운 해변을 보호하기 위한 노력을 지원할 것을 촉구하는 #CampaignAgainstDumpingTrashInTheSea 운동을 상기시켜 줍니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야 해변의 청결 유지 관련 소식으로 여행객들에게 해변 이용 정보를 제공. 해변 환경에 대한 관심도를 높일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "좀티엔 해변",
+        "price": null,
+        "location_google_map_query": "Jomtien Beach Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Officials Clearing Monsoon-Driven Marine Debris from Jomtien Beach",
+          "url": "https://thepattayanews.com/2026/02/22/pattaya-officials-clearing-monsoon-driven-marine-debris-from-jomtien-beach/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717610180471797184509356042083.jpg?v=1771761177"
+        }
+      ],
+      "collected_at": "19:30",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17717610180471797184509356042083.jpg?v=1771761177",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "태국 이산 소시지 위생 논란: 길거리 음식의 현실?",
+      "summary": "- 태국의 인기 있는 이산 소시지 제조 과정이 온라인에서 위생 논란을 일으킴.\n- 노점상에서 소시지를 햇볕에 말리는 방식에 대한 갑론을박이 이어짐.\n- 일부는 전통적인 방식이라고 옹호하는 반면, 다른 이들은 위생 문제를 제기하며 우려를 표명.",
+      "full_translated": "방콕 — 태국에서 가장 인기 있는 북동부 요리 중 하나인 이산 소시지가 노점상의 건조 과정 사진이 소셜 미디어에서 널리 퍼지면서 온라인 논쟁의 초점이 되었습니다. 2026년 2월 22일, 한 페이스북 사용자가 한 그룹에 지상에서 비교적 낮은 높이에서 햇볕에 말리는 소시지 사진을 공유했습니다. 게시물은 다른 노점상들이 물건을 내리는 행사장에 위치해 먼지, 지면 오염 및 대기 오염에 대한 우려를 제기하면서 위생 기준에 의문을 제기했습니다.\n\n이 게시물은 엇갈린 반응을 보였습니다. 일부 댓글 작성자들은 식품 안전 검사가 엄격하고 위반 시 벌금 또는 폐쇄로 이어질 수 있는 선진국에서는 이러한 관행이 용납되지 않을 것이라고 주장했습니다. 다른 사람들은 청결을 보장하기 위해 냉동고에서 공장 포장 제품을 구입하는 것을 선호한다고 말했습니다. 한 사용자는 이 상황을 \"정상이 아니어야 할 일\"이라고 묘사했습니다. 그러나 일부 네티즌들은 햇볕에 말리는 것이 전통적인 방법이며 길거리 음식 환경은 다양하다고 말하면서 노점상을 옹호했습니다. 일부는 그러한 조건이 불편한 비평가들은 대신 쇼핑몰이나 식당에서 식사해야 한다고 제안했습니다.\n\n상점 주인의 딸은 나중에 댓글에서 노점이 어머니의 사업임을 밝혔습니다. 그녀는 이 방법이 비위생적이거나 맛이 없어 보이는지 묻고 실수가 있는지 몰랐다면서 건설적인 조언을 요청했습니다. 댓글 작성자들은 구역을 개선하여 위생을 개선할 것을 권장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 길거리 음식에 대한 위생 논란은 여행자들에게 식당 선택에 대한 고려 사항을 제시하므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "‘Normal or Not?’ Viral Isan sausage post divides netizens",
+          "url": "https://www.khaosodenglish.com/news/2026/02/22/normal-or-not-viral-isan-sausage-post-divides-netizens/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/639694221_10236691895669348_6348583589587547943_n9999999999999999999999999.jpg"
+        }
+      ],
+      "collected_at": "19:30",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/639694221_10236691895669348_6348583589587547943_n9999999999999999999999999.jpg",
+      "date": "2026-02-22"
+    },
+    {
+      "title": "군 교도소장, 사병 사망 사건 해명: X선 촬영 결과 몸에서 '숟가락' 발견되지 않아",
+      "summary": "- 군 교도소에서 발생한 사병 사망 사건에 대해 교도소장이 해명함.\n- X선 촬영 결과, 사망한 사병의 몸에서 숟가락이 발견되지 않았다고 밝힘.\n- 응급 환자 이송 등 필요한 조치를 신속하게 취했다고 강조함.",
+      "full_translated": "쁘라찐부리 – 몬톤타한복 티씹썽 (MTHB.씹썽) 치แจง끄라니 폰타한 시아치윗 도이 라부와 필름엑스레이 마이 폽 “촌” 나이 랑까이 푸 시아치윗 래 야ืน얀와 다이 팟야얌 추와르으아 송뚜아 푸ป่วย 양 랭두완 래우\n\n짝 끄라니 폰타한 와이 썽씹썽 삐 쌍กัด 끄롬 쁜야이 티 썽 락싸 프라옹 캄프롬요티 쩌. 쁘라찐부리 티 미 삳단 위나이 짝 떤쌍กัด 다이 툭 송뚜아 마 쿠압쿰 티 르안짬 몬톤타한복 티 씹썽 (MTHB.씹썽) 래 못스띠 크나첵욧 떤 짜 카오 르안넌 래 시아치윗 나이 웰라 또마 티 롱파야반\n\n떠마, 로옥 온라인 다이 미깐 딴커썽사이 틍 사켓깐 시아치윗 콩 폰타한 라이 당끄라오 르앙짝 미깐 폽 “촌싼” 나이 끄라둑 콩 푸따이 (안 카오 : 코싹 톱. 치 커썽사이 뽐 “촌싼” 끄라니 폰타한 시아치윗 마이 다이 유 나이 폰깐 찬수)\n\n라쑫 므아 웰라 씨씹 몬. 완티 이씹썽 껨. 혹씹까오 티 사남낄라 테싸반 램파파 떠. 램파파 어. 프라사뭇쩨디 쩌. 사뭇쁘라깐 포.또. 쁘라파스 부쁠랍 팝.르안짬 MTHB.씹썽 다이 뽄프어이와 헷깐 당끄라오 껃 므아 완티 씹 폰. 혹씹뺏 도이 다이 쨱짝 씹웬와 미 푸 뚱캉 뿌어이 못스띠 쯩 아누맏 하이 뽓 쁘라뚜 르안캉 쁘아 추와르으아 래 쌍 롯 남뚜아 송 롱파야반 양 랭두완\n\n폰타한 티 못스띠 난 미 톳 탕 위나이 때 로끄라짬뚜아 폼 마이 삽 쁘러 다이 뺀 푸방캅반차 도이 똥 쯩 락싸나 도이 투와바이 마이미 로크 두 탕 까야팝 빠까띠 팡 짝깐 라오 콩 푸 뚱캉 티 유 끌라이칫 삽와 미 아깐 척껫 래우 못스띠 도이 쑤안뚜아 폼 마이 삽와 촌 마 다이 양응아이 타오 티 삽...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "사병 사망 사건 자체는 여행객에게 직접적인 영향은 없으나, 태국 군 관련 사건에 대한 인지 차원에서 낮은 점수 부여. 사건 경과 업데이트.",
+      "event_info": {
+        "date": "2024-02-22",
+        "location": "ปราจีนบุรี",
+        "price": null,
+        "location_google_map_query": "ปราจีนบุรี"
+      },
+      "references": [
+        {
+          "title": "ผบ.เรือนจำ มทบ.12 แจงปมพลทหารเสียชีวิต เผยฟิล์มเอกซเรย์ไม่ปรากฏ “ช้อน” ในร่างกาย",
+          "url": "https://www.thairath.co.th/news/local/2915767",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZTZXd6DZUduI.jpg"
+        }
+      ],
+      "collected_at": "19:30",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DZTZXd6DZUduI.jpg",
       "date": "2026-02-22"
     }
   ]
