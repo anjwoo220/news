@@ -31665,14 +31665,9 @@
       "summary": "- 파타야 시 당국이 2026년 2월 18일부터 방사레이 지역 숙소에서 실종된 호주 남성에 대한 공식 실종자 경보를 발표했습니다.\n- 그는 나클루아의 7-Eleven 란포 지점 근처에서 마지막으로 목격되었습니다.\n- 정보를 알고 있다면 095-396-5229 (쿤 아옴)으로 전화하십시오.",
       "full_translated": "파타야 시 법 집행 당국은 아래 남성에 대한 공식 실종자 경보를 발표했습니다. 그는 2026년 2월 18일부터 방사레이 지역 숙소에서 실종된 호주 남성입니다. 그는 나클루아의 7-Eleven 란포 지점 근처에서 마지막으로 목격되었습니다. 그를 보셨거나 정보가 있으시면 095-396-5229 (쿤 아옴)으로 전화하십시오.\n\n편집자 주: 실종자 보고서를 게시해 달라는 요청을 자주 받습니다. 이 사건과 마찬가지로 관련 태국 정부 관리의 공식적인 공개 지원 요청만 게시합니다. 전체 정책은 여기에 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "실종 사건은 여행객 안전과 관련된 문제이므로, 정보 제공을 통해 추가 피해를 막을 수 있도록 게시합니다. 파타야 지역에서 발생한 사건이므로 여행자에게 직접적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": "2026-02-18",
-        "location": "방사레이 지역, 나클루아 7-Eleven 란포 지점",
-        "price": null,
-        "location_google_map_query": "7-Eleven Lan Pho, Na Kluea, 파타야"
-      },
+      "event_info": "{'date': '2026-02-18', 'location': '방사레이 지역, 나클루아 7-Eleven 란포 지점', 'price': None, 'location_google_map_query': '7-Eleven Lan Pho, Na Kluea, 파타야'}",
       "references": [
         {
           "title": "Pattaya City Municipality Releases Missing Person Alert For Australian Man",
@@ -31681,17 +31676,40 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1771768973999.jpg?v=1771784248"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "1:23",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1771768973999.jpg?v=1771784248",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://thepattayanews.com/2026/02/23/pattaya-city-municipality-releases-missing-person-alert-for-australian-man/",
+      "source": ""
     },
     {
       "title": "태국 국제선 출발 수수료 인상 추진에 여행자들 우려",
       "summary": "- 태국 공항 공사(AOT)가 국제선 출발 수수료를 1,120바트로 인상 추진.\n- 인상된 수수료는 공항 시설 개선 및 운영 비용에 사용될 예정.\n- 여행자들은 항공권 가격 인상 및 여행 비용 증가에 대한 우려 표명.",
       "full_translated": "태국 공항 공사(AOT)가 국제선 출발 수수료를 1,120바트로 인상하는 방안을 추진하면서 여행자들의 우려가 커지고 있습니다. 이번 인상안은 공항 시설 개선 및 운영 비용 충당을 위해 계획되었으며, 인상된 수수료는 항공권 가격에 포함될 가능성이 높습니다. 여행자들은 항공권 가격 인상과 전체 여행 비용 증가에 대한 우려를 표명하며, 이번 인상안이 태국 여행에 미치는 영향에 주목하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "수수료 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보임. 기존 게시된 기사와 동일 내용이므로 업데이트는 아니지만, 여행 관련 중요도 감안하여 포함.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand travelers alarmed as AOT pushes international departure fee to 1,120 baht - Pattaya Mail",
+          "url": "https://www.pattayamail.com/thailand-news/thailand-travelers-alarmed-as-aot-pushes-international-departure-fee-to-1120-baht-467367",
+          "source": "Pattaya Mail"
+        }
+      ],
+      "collected_at": "1:23",
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "https://www.pattayamail.com/thailand-news/thailand-travelers-alarmed-as-aot-pushes-international-departure-fee-to-1120-baht-467367",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 설 연휴 기간 중국인 관광객 급증 예상",
+      "summary": "- 태국 관광청은 2026년 설 연휴 기간 동안 중국인 관광객의 급증을 예상하고 있습니다.\n- 이는 중국 정부의 해외여행 재개 정책에 따른 결과로 분석됩니다.\n- 태국은 중국 관광객 유치를 위해 다양한 프로모션과 편의 시설 개선에 힘쓰고 있습니다.",
+      "full_translated": "태국은 2026년 설 연휴 기간 동안 중국인 관광객의 급증을 예상하고 있습니다. 중국 정부의 해외여행 재개 정책에 따라 태국 관광청은 중국 관광객 유치를 위해 다양한 프로모션과 편의 시설 개선에 힘쓰고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "2026년 설 연휴는 아직 멀었지만, 중국인 관광객 증가 추세는 여행 관련 사업에 영향을 줄 수 있으므로 정보 제공.",
       "event_info": {
         "date": null,
         "location": null,
@@ -31700,12 +31718,14 @@
       },
       "references": [
         {
-          "title": "Thailand travelers alarmed as AOT pushes international departure fee to 1,120 baht - Pattaya Mail",
-          "url": "https://www.pattayamail.com/thailand-news/thailand-travelers-alarmed-as-aot-pushes-international-departure-fee-to-1120-baht-467367",
-          "source": "Pattaya Mail"
+          "title": "Thailand Sees Resurgence in Chinese Tourist Arrivals During Lunar New Year 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ2FWaVVtRHRoOFVWNDhJS21sckpFRXI3aDNEZGNsNlVPOTRmRDdSN3cyUk0xTmpwT1lhU0ZUeVhNUE5CcC05Z3BzRHFEdWwzYkltaHo3cnlPbHFNMXI0bnNMQi1IMldhYWhkMG1iVjZfTXpsS1Z4T3Y4LVlBMHk5eHFScy0tN2tKbTV2VFBzdXpQUWZaT2dNSGdfQXd2TU8xSDJlYTdTcThGeTEzS2lWcFY1eEpYOFRHNENvZjVPZmNEMkNDdFBj?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:23",
+      "collected_at": "01:59",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-23"
     }
   ]

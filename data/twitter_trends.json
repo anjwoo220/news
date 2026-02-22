@@ -1,6 +1,6 @@
 {
-  "topic": "#ทวิตล่ม",
-  "reason": "트위터 접속 장애 발생. 불편이 예상됩니다.",
-  "severity": "info",
-  "collected_at": "2026-02-17 06:54:30"
+  "topic": "#แผ่นดินไหว",
+  "reason": "태국에서 지진 발생, 추가 정보 확인 중",
+  "severity": "warning",
+  "collected_at": "2026-02-23 02:03:13"
 }
