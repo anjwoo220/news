@@ -31453,6 +31453,31 @@
       "date": "2026-02-22",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSjFTS05mbklDZEZuWnJhOVo1V3ZVeXZoZWR3NTdVX3U0cGFxM1lqYXhrYjI1d1dpcV9qbWE5c1pIQmpTU0VKQkpaSUQtUGxELUlCSE9UMjZsa3hKeFRRWVFQbnljRWJNMzNIMmlaN3d5TXRrc01ZaWJSMEkwbEVmMjBDVnNMTFRORFhxUVFOUmhITndvdnptV2VWVFFmNGNFU2RlUGRrakYtWlhN?oc=5",
       "source": ""
+    },
+    {
+      "title": "우크라이나, 경찰 유인 폭탄 테러 발생: 1명 사망, 25명 부상",
+      "summary": "- 우크라이나 서부 르비프에서 경찰이 상점 침입 신고를 받고 출동했다가 폭탄 테러 발생.\n- 23세 여성 경찰관 사망, 25명 부상. 부상자 중 11명은 병원으로 이송 (경찰 6명 포함).\n- 용의자는 이미 체포되었으며, 러시아 정보기관의 사주를 받은 33세 여성으로 밝혀짐.",
+      "full_translated": "우크라이나 서부 도시에서 경찰이 강도 신고를 받고 출동했다가 폭탄 테러를 당해 경찰관 1명이 사망하고 25명이 부상했습니다. 우크라이나 경찰청은 2569년 2월 22일 일요일, 경찰팀이 자정 직후 상점 침입 신고를 받고 르비프(Lviv) 시내 중심가를 조사하던 중 쓰레기통에 숨겨진 사제 폭탄 2개가 폭발했다고 밝혔습니다. 경찰은 첫 번째 폭발은 경찰차가 강도 신고를 받고 현장에 도착한 직후 발생했으며, 두 번째 폭발은 두 번째 경찰팀이 도착했을 때 발생했다고 밝혔습니다. 이번 폭발로 23세 여성 경찰관이 사망하고 25명이 부상했으며, 이 중 11명이 병원으로 이송되었고, 경찰관 6명이 중상을 입었습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 이번 테러 용의자가 체포되었다고 확인했으며, 르비프 시장인 안드리 사도비는 용의자가 우크라이나 여성이라고 밝혔습니다. 이후 우크라이나 경찰은 용의자인 33세 여성이 러시아 특수 정보기관의 '지시'에 따라 폭탄을 제조하고 설치했다고 밝혔습니다. 사망한 여성 경찰관은 빅토리아 슈필카(Viktoria Shpylka)로 밝혀졌으며, 러시아가 헤르손 지역을 전면적으로 침공하기 시작한 후 임무를 수행했습니다. 이호르 클리멘코 내무부 장관은 용의자가 북서부 리브네(Rivne) 지역 거주자라고 밝혔으며, 경찰과 우크라이나 보안군은 이번 범죄에 연루된 다른 인물을 확인하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관련 뉴스는 아니지만, 여행객 안전에 영향을 줄 수 있는 테러 사건이므로 정보 제공. 다만, 발생 위치가 우크라이나이므로 낮은 점수 부여.",
+      "event_info": {
+        "date": "2069-02-22",
+        "location": "르비프, 우크라이나",
+        "price": null,
+        "location_google_map_query": "Lviv, Ukraine"
+      },
+      "references": [
+        {
+          "title": "ช็อกยูเครน คนร้ายล่อตำรวจไปโดนระเบิด ดับ 1 ศพ เจ็บอีก 25 ราย",
+          "url": "https://www.thairath.co.th/news/foreign/2915795",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUbCOoq78gDym.jpg"
+        }
+      ],
+      "collected_at": "23:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx8DUbCOoq78gDym.jpg",
+      "date": "2026-02-22"
     }
   ]
 }
