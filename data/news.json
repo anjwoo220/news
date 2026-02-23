@@ -33112,14 +33112,9 @@
       "summary": "- 치앙마이 타패 게이트에서 중국인 관광객에게 부적절한 행동을 한 남성이 경찰에 체포됨.\n- 해당 남성은 관광객에게 손가락질과 혀를 내미는 등 불쾌감을 주는 행동을 함.\n- 그는 중국인 관광객들이 먼저 불쾌하게 했다고 주장하며, 과거에도 비슷한 문제로 여러 번 체포된 적이 있음.",
       "full_translated": "치앙마이 관광 경찰이 중국인 관광객에게 손가락질하고 혀를 내미는 등 불쾌한 행동을 한 타패 게이트의 새 모이 판매 남성을 체포했습니다. 경찰은 해당 남성이 관광객에게 먼저 욕설을 들었다고 주장했습니다. 소셜 미디어에 치앙마이 시내 타패 게이트에서 관광객에게 사진 촬영과 새 모이를 판매하는 사람이 관광객과 논쟁하고 부적절한 행동을 하는 영상이 공유되면서 논란이 일었습니다. 그는 관광객에게 혀를 내밀며 도발하는 행동을 했고, 이는 치앙마이 관광 이미지에 부정적인 영향을 미칠 수 있다는 비판을 받았습니다. 최근(2069년 2월 23일) 경찰은 수사관들과 함께 현장을 조사하여 31세의 Somchai 씨를 체포했습니다. 그는 사건 당시 입었던 옷을 증거물로 압수했습니다. 조사 결과 Somchai 씨는 영상 속 인물임을 인정하며, 사건 발생 전 중국인 관광객 2팀이 동시에 사진 촬영을 요청하여 먼저 한 팀에게 서비스를 제공했더니 다른 팀이 불만을 표하며 중국어로 욕설을 했다고 주장했습니다. 그는 중국어를 이해하고 구사할 수 있어서 감정을 억누르지 못하고 대응했으며 영상에 나온 것처럼 손가락 욕설을 했다고 진술했습니다. Somchai 씨는 타패 게이트 맞은편 고급 호텔을 임대하여 숙박하고 있으며, 낮에는 중국인 관광객에게 사진 촬영 서비스를 제공하여 하루에 수천 바트의 수입을 올리고 고급 호텔 방을 편안하게 임대할 수 있을 정도로 돈을 벌고 있었습니다. 그는 오랫동안 타패 게이트에서 장사했으며 중국인 관광객과 자주 문제가 발생하여 여러 번 체포된 적이 있습니다. 경찰은 Somchai 씨를 경찰서로 이송하여 \"공공장소에서의 소란 행위\" 혐의로 기소했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광지에서 발생한 사건으로, 관광객에게 불쾌감을 줄 수 있는 내용이므로 정보를 제공. 다만, 기존 뉴스에 비해 심각성이 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "타패 게이트, 치앙마이",
-        "price": null,
-        "location_google_map_query": "타패 게이트 치앙마이"
-      },
+      "event_info": "{'date': None, 'location': '타패 게이트, 치앙마이', 'price': None, 'location_google_map_query': '타패 게이트 치앙마이'}",
       "references": [
         {
           "title": "ตร.ท่องเที่ยว รวบหนุ่มขายอาหารนกประตูท่าแพ หลังชูนิ้ว-แลบลิ้นใส่นักท่องเที่ยวจีน",
@@ -33130,21 +33125,18 @@
       ],
       "collected_at": "21:02",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHChyVY0eMtECjrI0.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/crime/2915988",
+      "source": ""
     },
     {
       "title": "아유타야에서 10대들, 무기 들고 난투극: 주민들 불안 호소",
       "summary": "- 아유타야 지역에서 10대들이 무기를 들고 싸움을 벌여 온라인에서 논란.\n- 학생들은 칼과 흉기를 사용, 도로를 점거하고 난투극을 벌임.\n- 주민들은 불안감을 호소하며 관계 당국의 신속한 대응을 촉구.",
       "full_translated": "아유타야에서 10대들이 무기를 들고 난투극을 벌이는 영상이 온라인에 퍼지면서 논란이 되고 있습니다. 해당 영상은 학생들이 칼과 흉기를 사용해 도로 한복판에서 싸우는 모습을 담고 있습니다. 주민들은 이러한 폭력 행위에 불안감을 느끼며 관련 기관에 신속한 조사와 재발 방지 대책 마련을 요구하고 있습니다. 현지 언론은 해당 사건을 자세히 보도하며 지역 사회의 우려를 전하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 치안 관련 사건으로, 여행객 안전에 대한 간접적 영향이 있을 수 있다고 판단. 직접적인 위협은 아니지만, 여행 중 주의를 요하는 정보.",
-      "event_info": {
-        "date": "2024-02-23",
-        "location": "아유타야 주 왕노이 지역",
-        "price": null,
-        "location_google_map_query": "아유타야 왕노이"
-      },
+      "event_info": "{'date': '2024-02-23', 'location': '아유타야 주 왕노이 지역', 'price': None, 'location_google_map_query': '아유타야 왕노이'}",
       "references": [
         {
           "title": "วิญญาณนักรบ เข้าสิงวัยรุ่นอยุธยา ถืออาวุธครบมือยกพวกตีกันกลางถนน",
@@ -33155,21 +33147,18 @@
       ],
       "collected_at": "21:02",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzZDbFKptZDeJ.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/local/2915981",
+      "source": ""
     },
     {
       "title": "배우 '나나', 1억 바트 사기 사건으로 래퍼 남편과 함께 기소",
       "summary": "- 배우 리베나 '나나' 인타차이와 래퍼 남편 프린야가 사기 혐의로 기소됨.\n- 이들은 2021년 4월부터 2025년 10월까지 최소 11명을 속여 투자 명목으로 약 1억 7천만 바트를 편취한 혐의를 받음.\n- 투자자들에게 월 4~7%의 높은 수익률을 약속했으나, 이는 불법적인 수준이었음.",
       "full_translated": "배우 리베나 '나나' 인타차이, 그녀의 래퍼 남편 프린야 '웨이 타이타늄'과 두 회사가 1억 바트 이상의 사기 대출 및 문서 위조 사건으로 기소되었습니다. 경제범죄수사2과 검사들은 월요일 방콕 형사법원에서 4명의 피고인을 기소했습니다. \n\n리베나(44세), 그녀의 남편 프린야(44세), 그리고 여배우가 운영하는 두 회사인 Flick of the Light Productions와 Rybena 2016이 첫 번째부터 네 번째 피고인으로 지명되었습니다. 그들은 공동 사기, 대출을 통한 공공 사기, 위조 문서 위조 및 사용 혐의를 받고 있습니다. \n\n기소장에 따르면 피고인들은 2021년 4월부터 2025년 10월 사이에 허위 진술을 하고 중요한 사실을 숨겨 최소 11명을 공동으로 속였습니다. 그들은 피해자들에게 개인 대출 사업, 자산 거래, 스포츠 관련 기업, 투자 펀드, 해외 레스토랑 및 주식 시장 투자를 포함한 다양한 투자 계획에 돈을 빌리도록 장려한 혐의를 받고 있습니다. 그들은 월 4%에서 7% 또는 투자 자본의 최대 40%의 월별 수익을 약속했다고 합니다. 피해자들은 이후 피고인이 지정한 은행 계좌로 자금을 이체했습니다. 피해자들은 약 1억 7천만 바트를 이체했다고 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사기 사건은 여행자들에게 주의를 요하며, 특히 투자 관련 제안에 대한 경각심을 높일 필요가 있음. 금액이 크고 여러 명이 피해를 입은 사건이므로 '보통' 수준의 영향으로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 형사법원",
-        "price": null,
-        "location_google_map_query": "방콕 형사법원"
-      },
+      "event_info": "{'date': None, 'location': '방콕 형사법원', 'price': None, 'location_google_map_query': '방콕 형사법원'}",
       "references": [
         {
           "title": "Actress 'Nana’, rapper husband indicted in B100m fraud case",
@@ -33180,21 +33169,18 @@
       ],
       "collected_at": "21:02",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203450_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/thailand/general/3203450/actress-nana-rapper-husband-indicted-in-b100m-fraud-case",
+      "source": ""
     },
     {
       "title": "3월 3일 마카 부차 날, 맨눈으로 볼 수 있는 완전한 월식",
       "summary": "- 2069년 3월 3일 마카 부차 날에 완전 월식 관측 가능.\n- 태국 시간으로 15:44부터 시작하여 21:23에 종료.\n- 달은 18:23경 동쪽 하늘에 붉은 색으로 나타나 약 39분간 관측 가능.",
       "full_translated": "2069년 3월 3일 '마카 부차' 날에 '완전 월식'을 관측할 수 있습니다. 붉은 벽돌색을 띠는 완전 월식은 태국 전역에서 맨눈으로 볼 수 있습니다. 2069년 2월 23일, NARIT(국립천문학연구소) 팬 페이지는 3월 3일에 월식 현상이 발생할 것이라고 밝혔습니다. 이 현상은 '마카 부차' 날과 겹치며, (방콕 기준 태국 시간) 15:44-21:23에 진행됩니다. 달은 15:44에 지구의 반영에 들어가기 시작하고 16:50에 지구 그림자로 이동하여 부분 월식이 발생합니다. 18:04-19:02에 '완전 월식' 단계에 진입합니다. 이후 달의 일부가 움푹 패인 모습으로 나타나 지구 그림자에서 서서히 벗어나며 20:17에 부분 월식 현상이 끝나고 21:23에 반영에서 완전히 벗어나 현상이 종료됩니다. 태국에서는 이날 달이 동쪽 지평선 위로 떠오르는 시간이 18:23경이며, 이때 완전 월식이 진행 중입니다. 붉은 벽돌색의 보름달이 지평선에서 떠오르는 것을 태국 전역에서 맨눈으로 볼 수 있습니다(시간은 지역에 따라 다를 수 있음). 약 19:02까지 총 39분 동안 관측할 수 있으며, 이후 부분 월식, 반영 월식이 차례로 나타나고 현상이 종료됩니다. 태국 외에도 유럽 동부, 아시아, 호주, 북미, 남미, 태평양, 대서양, 인도양, 북극 및 남극 등 전 세계 여러 지역에서 관측할 수 있습니다.\n\n'월식 현상'은 태양, 지구, 달이 궤도를 돌다가 일직선으로 정렬되는 현상으로, 지구가 태양과 달 사이에 위치합니다. 보름달이 뜨는 날에만 발생합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국에서 볼 수 있는 천문 현상 정보. 여행 중 특별한 경험을 원하는 여행객에게 흥미로운 정보가 될 수 있음. 하지만 시간대가 2069년으로, 현재 여행자에게는 관련성이 떨어짐.",
-      "event_info": {
-        "date": "2069-03-03",
-        "location": "태국 전역",
-        "price": "무료",
-        "location_google_map_query": "Thailand"
-      },
+      "event_info": "{'date': '2069-03-03', 'location': '태국 전역', 'price': '무료', 'location_google_map_query': 'Thailand'}",
       "references": [
         {
           "title": "3 มีนาคม เตรียมชม “จันทรุปราคาเต็มดวง” วันมาฆบูชา มองเห็นด้วยตาเปล่าทั่วไป",
@@ -33205,21 +33191,18 @@
       ],
       "collected_at": "21:02",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxwAC44AsBjjf.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/society/2915976",
+      "source": ""
     },
     {
       "title": "태국 금 수입 관세 부과 계획에 업계 비판 고조",
       "summary": "- 태국 정부가 금 수입에 관세를 부과하려는 계획에 금 거래 업계가 강력히 반발하고 있습니다.\n- 업계는 관세 부과 시 태국이 금 거래 허브로서의 위상을 잃을 수 있다고 경고합니다.\n- 금 거래 협회는 관세가 부과될 경우 금 가격이 상승하여 투자 자산으로서의 매력을 잃을 것이라고 주장합니다.",
       "full_translated": "태국 금 거래 업계는 정부의 금 수입 관세 부과 계획에 강력히 반대하며, 관세가 시행될 경우 태국이 금 거래 허브로서의 위상을 잃을 수 있다고 경고했습니다. 그들은 현재 금이 관세 대상 상품이 아닌 투자 자산으로 간주되고 있다고 덧붙였습니다. 금 거래 협회(GTA) 회장 Jitti Tangsithpakdi는 태국이 금 수입에 1%의 세금만 부과하더라도 업계가 심각한 타격을 입을 것이라고 월요일에 말했습니다. 이는 국가가 거의 20년 전에 귀금속에 대한 수입세를 폐지한 이후 주요 후퇴를 의미합니다. 그는 \"1% 세금은 금 가격이 1,000바트 이상 상승한다는 것을 의미합니다. 현재 금은 77,000바트에 거래되고 있습니다. 가격이 1,000바트 더 비싸면 구매하시겠습니까?\"라고 물었습니다. Jitti 씨는 협회가 화요일에 이 문제를 논의하기 위해 긴급 회의를 개최할 것이라고 말했습니다. 그는 \"현재 금은 전 세계 중앙 은행이 보유하고 있는 투자 자산 또는 일종의 통화입니다. 금은 현재 관세 대상 상품이 아닙니다.\"라고 방콕 포스트에 말했습니다. 관세청장 Phantong Loykulnanta는 금 수입 관세 부과는 새 정부의 정책에 달려 있다고 말했습니다. 관세청은 이미 금 수입 관세에 대한 연구를 수행했으며, 여러 개발도상국이 금 수입 관세를 부과하고 있음을 발견했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "금 가격 상승은 여행객의 귀금속 구매 심리에 영향을 줄 수 있으므로 관련 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Plan to tax gold imports stokes Thai industry criticism",
@@ -33230,6 +33213,133 @@
       ],
       "collected_at": "21:02",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203500_260223192027_700.jpg",
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203500/plan-to-tax-gold-imports-stokes-thai-industry-criticism",
+      "source": ""
+    },
+    {
+      "title": "14세 소녀, 선배의 유인으로 5명의 청소년에게 성폭행 및 영상 유포 피해",
+      "summary": "- 14세 소녀가 16세 선배에게 속아 5명의 청소년에게 술에 취한 채 성폭행 당하고 영상이 유포됨.\n- 피해자는 성매매를 거부한 후 협박을 받았으며, 사건은 차이나트 지역에서 발생.\n- 경찰은 가해 청소년 5명과 유인한 선배를 소환 조사할 예정.",
+      "full_translated": "14세 소녀가 16세 선배에게 속아 13-16세 사이의 남자 청소년 5명에게 술에 취한 채 성폭행을 당하고 영상이 유포된 사건이 발생했습니다. 피해자는 성매매를 거부한 후 협박을 받았으며, 사건은 차이나트 지역에서 발생했습니다. 경찰은 가해 청소년 5명과 유인한 선배를 소환 조사할 예정입니다. 피해자는 1월 1일 친구들과 함께 사원 축제에 갔다가 선배인 A양이 친구 집에 가자고 꼬드겨 C군의 집으로 갔습니다. 그곳에서 술을 마시게 되었고, 술에 취해 정신을 잃은 사이 남자 친구들에게 성폭행을 당했습니다. 이후 A양은 피해자를 깨워 집으로 돌려보냈습니다. 피해자는 나중에 친구들에게 성폭행을 당했다는 사실을 알게 되었고, 영상에는 전자담배와 오토바이 쇼크 업소버를 이용한 행위도 담겨 있었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행자 안전에 대한 잠재적 위협(범죄)이 있으므로 정보 제공. 특히 미성년자 대상 범죄는 심각한 문제.",
+      "event_info": {
+        "date": "2069-02-29",
+        "location": "차이나트 주, 느언캄 지역",
+        "price": null,
+        "location_google_map_query": "느언캄 지역, 차이나트 주"
+      },
+      "references": [
+        {
+          "title": "สลดใจ เหยื่อสาววัย 14 ร้องโดนรุ่นพี่ลวงให้ 5 ทรชนล่วงละเมิด-ปล่อยคลิปว่อน",
+          "url": "https://www.thairath.co.th/news/crime/2915992",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzzdHhNkyhl3F.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzzdHhNkyhl3F.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "네팔에서 버스 추락 사고 발생, 영국인 포함 19명 사망",
+      "summary": "- 네팔에서 버스가 200m 계곡 아래로 추락하여 19명이 사망했습니다.\n- 사망자 중에는 영국인 관광객도 포함되어 있습니다.\n- 사고 버스는 포카라에서 카트만두로 향하던 중이었습니다.",
+      "full_translated": "네팔에서 버스가 200m 이상 깊이의 계곡으로 추락하여 최소 19명이 사망했습니다. 사망자 중에는 영국인 관광객도 포함되어 있습니다. 2069년 2월 23일 월요일, 네팔 경찰은 버스가 산길에서 미끄러져 트리슐리 강둑의 200m 깊이 계곡으로 추락했다고 밝혔습니다. 사고 버스는 관광 도시 포카라에서 카트만두로 향하던 중이었습니다. 경찰에 따르면 탑승자 44명 중 19명이 사망했고, 25명이 치료를 받고 있습니다. 사망자 중에는 영국 국적자 1명이 포함되어 있으며, 중국인 1명과 뉴질랜드인 1명도 부상을 입었습니다. 구조 작업은 완료되었으며 부상자들은 치료를 받고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전 관련 사고 소식이며, 외국인 사망자가 포함되어 있어 정보 제공 가치가 있다고 판단됨. 여행 주의 필요.",
+      "event_info": {
+        "date": "2069-02-23",
+        "location": "네팔, 다딩 지구",
+        "price": null,
+        "location_google_map_query": "다딩 지구 네팔"
+      },
+      "references": [
+        {
+          "title": "รถบัสเนปาล ตกเหวลึก 200 ม. ดับแล้ว 19 ศพ รวมชาว UK",
+          "url": "https://www.thairath.co.th/news/foreign/2915993",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzzj2SzxDHqPQ.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzzj2SzxDHqPQ.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 지진 경보 해제: 독일 지구과학연구센터, 오보 가능성 확인",
+      "summary": "- 독일 지구과학연구센터(GFZ)가 태국에서 발생했다는 규모 6.5 지진 경보를 해제함.\n- GFZ 대변인은 초기 보고가 '오류'인지 확인 중이라고 밝힘.\n- 태국 기상청은 태국 내에서 지진이 발생하지 않았다고 발표.",
+      "full_translated": "독일 지구과학연구센터(GFZ)는 월요일 새벽 태국에서 규모 6.5의 지진이 발생했다는 경고를 웹사이트에서 삭제했습니다. GFZ 대변인은 해당 기관이 더 이상 태국에서 지진을 보고하지 않으며 초기 보고가 '오류'인지 확인하고 있다고 확인했습니다. 태국 기상청은 태국 내에서 진앙이 있는 지진은 없었다고 밝혔습니다. GFZ는 인근 보르네오 섬 해안에서 발생한 지진에 대한 별도 보고서가 나온 지 몇 분 만에 태국에서 지진을 보고했습니다. 보르네오 보고서는 삭제되지 않았습니다. 다른 지진 감시 공공 기관과 마찬가지로 독일 연구 센터는 추가 정보로 보고서를 자주 업데이트하고 허위로 판명된 보고서를 때때로 삭제합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "지진 발생 정보는 여행 안전에 영향을 줄 수 있으므로 중요. 다만 오보로 판명되어 경보가 해제되었으므로, 여행객에게 혼란을 주지 않도록 신속하게 업데이트된 정보를 제공하는 것이 중요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "GFZ removes alert on Thailand quake",
+          "url": "https://www.bangkokpost.com/thailand/general/3203230/gfz-removes-alert-on-thailand-quake",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "미얀마 스캠 거점에서 도피한 중국인들, 딱 주에서 체포",
+      "summary": "- 미얀마 Shwe Kokko의 악명 높은 스캠 허브에서 도피한 중국인 20명이 딱 지방의 매솟 지역으로 넘어와 불법 입국 혐의로 체포됨.\n- 군 병력이 이들이 짐을 들고 강을 건너 태국 영토로 들어오는 것을 발견, 검거함.\n- 이들은 합법적인 국경 통과 지점을 통하지 않고 입국하여 불법 체류한 혐의를 받고 있으며, 딱 출입국 관리소로 넘겨져 법적 절차를 밟을 예정.",
+      "full_translated": "미얀마 Shwe Kokko의 악명 높은 스캠 허브에서 도피한 중국인 20명이 월요일 아침 태국 딱 지방의 매솟 지역으로 Moei 강을 건너 불법 입국 혐의로 체포되었습니다. 육군 라차마누 태스크 포스 부대는 이들이 매솟 지역의 매파 탐본 반 왕깨우 2 마을에서 강을 건너 태국 영토로 들어오는 동안 가방을 높이 들고 있는 것을 발견했습니다. 일단 건너자마자 그들은 구금되어 수색을 받았습니다. 태스크 포스 대변인은 그들 중 4명만이 여권을 소지하고 있었다고 말했습니다. 나머지는 여행 서류가 없었습니다. 그들은 허가된 자연 국경 통과 지점을 통해 왕국에 입국하고 불법적으로 국내에 체류한 법률을 위반했습니다. 구금자들은 법적 절차를 위해 딱 출입국 관리소 관리들에게 넘겨졌습니다. 당국은 태국-미얀마 국경을 따라 불법 국경 통과가 끊이지 않고 있으며, 특히 매솟 지역 왕깨우 마을 맞은편의 Shwe Kokko에서 온라인 스캠 작전에서 도피하는 외국인들이 많다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국-미얀마 국경 지역의 치안 문제와 관련된 뉴스로, 여행객 안전에 영향을 미칠 수 있는 요소가 존재함. 불법적인 활동이 증가할 가능성이 있어 주의가 필요.",
+      "event_info": {
+        "date": "2026-02-23",
+        "location": "딱 주 매솟 지역 반 왕깨우",
+        "price": null,
+        "location_google_map_query": "Ban Wang Kaew, Mae Sot District, Tak, Thailand"
+      },
+      "references": [
+        {
+          "title": "Chinese fleeing Myanmar scam hub arrested in Tak province",
+          "url": "https://www.bangkokpost.com/thailand/general/3203333/chinese-fleeing-myanmar-scam-hub-arrested-in-tak-province",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203333_700.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203333_700.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "쁘라찐부리 군 부대 내 병사 사망 사건, 사령관 직위 해제 및 조사 착수",
+      "summary": "- 병사 사망 원인에 대한 의혹 제기로 사령관 직위 해제\n- 군, 중앙 조사위원회 구성하여 투명하고 공정한 조사 약속\n- 유족에게 깊은 위로를 표하며, 잘못이 있을 경우 엄중 처벌할 것",
+      "full_translated": "쁘라찐부리 지방의 한 군부대에서 발생한 병사 사망 사건과 관련하여, 제1군단은 사령관을 직위 해제하고 중앙에서 파견된 조사위원회를 구성하여 사건의 진상을 철저히 조사할 것을 명령했습니다. 사망한 병사는 펫차랏 일병으로, 초기 부검 결과 급성 심부전으로 인한 사망으로 밝혀졌으나, 유족 측에서 사망 원인에 대한 의혹을 제기하여 군에서 추가 조사를 진행하게 되었습니다. 군은 이번 조사를 통해 모든 의혹을 해소하고 투명하게 결과를 공개할 것을 약속했으며, 만약 부대 내 잘못이 발견될 경우 관련자들을 엄중히 처벌할 것이라고 밝혔습니다. 또한 군은 펫차랏 일병의 유족에게 깊은 위로를 전하며, 이번 사건으로 인해 발생한 모든 어려움에 대해 최대한 지원할 것을 약속했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 내 사회 이슈에 대한 정보 제공 차원에서 포함. 군 관련 사건은 여행 시 주의를 요할 수 있는 간접적인 요소.",
+      "event_info": {
+        "date": null,
+        "location": "ปราจีนบุรี (Prachinburi)",
+        "price": null,
+        "location_google_map_query": "Prachinburi Thailand"
+      },
+      "references": [
+        {
+          "title": "“ทภ.1” สั่งเด้ง ผบ.เรือนจำ มทบ.12 เข้ากรุ ตั้งกรรมการสอบเพิ่มปมพลทหารเสียชีวิต",
+          "url": "https://www.thairath.co.th/news/politic/2915997",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzz716HRJac8V.jpg"
+        }
+      ],
+      "collected_at": "22:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzz716HRJac8V.jpg",
       "date": "2026-02-23"
     }
   ]
