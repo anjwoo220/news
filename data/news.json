@@ -33443,14 +33443,9 @@
       "summary": "- 멕시코의 악명 높은 마약 카르텔 두목 '엘 멘초'가 군사 작전 중 사망했습니다.\n- 그의 사망 후 여러 주에서 폭력 시위가 발생, 주요 고속도로가 봉쇄되고 차량이 불탔습니다.\n- 푸에르토 발라르타와 과달라하라행 항공편이 취소되거나 변경되어 여행에 차질이 예상됩니다.",
       "full_translated": "멕시코, 할리스코 – 멕시코에서 가장 악명 높은 마약 두목인 '엘 멘초'로 알려진 네메시오 오세게라 세르반테스가 멕시코 서부에서 벌어진 군사 작전으로 59세의 나이로 사망했다고 당국이 밝혔습니다. 이번 작전에는 미국이 정보 지원을 제공했습니다. 그의 사망은 여러 주에서 폭력적인 시위를 촉발시켰고, 무장 단체들이 고속도로를 봉쇄하고 차량을 불태우며 오랫동안 그의 범죄 네트워크와 연관된 지역에서 보안군과 충돌했습니다. 엘 멘초는 그의 조직의 거점으로 여겨지는 할리스코 서부의 타팔파에서 총에 맞았습니다. 관계자들은 그가 병원으로 이송되던 중 사망했다고 밝혔습니다. 멕시코 보안 내각은 이후 시위 기간 동안 시행된 도로 폐쇄가 완화되기 시작했지만 여러 지역에서 보안 작전이 계속 진행 중이라고 밝혔습니다. 그의 죽음에 따른 폭력 사태는 멕시코 서부 및 중부 지역의 일상 생활을 혼란에 빠뜨렸습니다. 현지 언론은 버스와 상업용 차량이 불타는 모습을 보여주었고, 일부 고속도로는 보안 문제로 인해 일시적으로 폐쇄되었습니다. 항공 여행 또한 영향을 받았습니다. 여러 항공사가 할리스코 주의 주요 도시인 푸에르토 발라르타와 과달라하라를 오가는 항공편을 취소하거나 우회했습니다. 푸에르토 발라르타는 북미 관광객들에게 가장 인기 있는 해변 여행지 중 하나입니다. 에어 캐나다와 유나이티드 항공을 포함한 항공사들은 보안 문제로 인해 푸에르토 발라르타행 서비스를 일시적으로 중단했습니다. 다른 항공사들은 당국이 영향을 받은 지역을 안정시키기 위해 노력하면서 차질을 보고했습니다. 미국...",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "멕시코 주요 관광 도시 항공편에 영향을 미치는 심각한 치안 불안정 상황 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 즉시 알릴 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "멕시코, 할리스코 주",
-        "price": null,
-        "location_google_map_query": "할리스코 주"
-      },
+      "event_info": "{'date': None, 'location': '멕시코, 할리스코 주', 'price': None, 'location_google_map_query': '할리스코 주'}",
       "references": [
         {
           "title": "Mexico cartel leader “El Mencho” killed in military operation, unrest spreads across multiple states",
@@ -33459,23 +33454,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner5-1.jpg"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner5-1.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/02/23/mexico-cartel-leader-el-mencho-killed-in-military-operation-unrest-spreads-across-multiple-states/",
+      "source": ""
     },
     {
       "title": "촌부리에서 전기 자전거 충전 중 폭발, 주택 화재 발생",
       "summary": "- 촌부리에서 전기 자전거 충전 중 폭발로 화재 발생, 주택 전체가 화염에 휩싸일 뻔함.\n- 경찰은 2026년 2월 23일 오전 10시 30분에 방라뭉 지역의 한 주택에서 화재 신고를 받음.\n- 화재는 주차장에 있던 전기 자전거에서 시작되었으며, 차량과 보관 선반에도 피해를 입힘.",
       "full_translated": "촌부리 — 2026년 2월 23일, 전기 자전거를 충전하던 중 폭발하여 촌부리 지방의 한 주택 전체가 화염에 휩싸일 뻔한 화재가 발생했다고 경찰이 밝혔습니다. 오전 10시 30분, 방라뭉 경찰서의 수사 부국장인 찬다 데트판 경위는 방라뭉 지역 농프루 하위 지역 75/8 Moo 11에 있는 주택에서 화재 신고를 받았습니다. 파타야 시의 재난 예방 담당관, 소방차 3대, 사왕 보리분 탐마사탄 구조 재단의 자원 봉사자들이 현장으로 파견되었습니다. 두 채의 집이 같은 구역 내에 있었고, 중앙 구역은 주차장으로 사용되었습니다. 화염은 주차장에서 타오르고 있었습니다. 소방관들은 약 10분 만에 불길을 제압했습니다. 전기 자전거는 완전히 파괴되었습니다. 번호판 Kor Thor 8681 촌부리인 흰색 닛산 마치 차량은 오른쪽 후미 부분이 손상되었고, 근처의 보관 선반도 손상되었습니다. 집주인의 남동생인 43세의 요차이 캄팡시는 2층에 있다가 많은 연기를 발견했다고 말했습니다. 그는 아래층으로 달려가 충전기에 꽂혀 있던 전기 자전거가 화염에 휩싸인 것을 발견하고 당국에 신고했습니다. 경찰은 현장을 조사하고 목격자 심문을 시작했습니다. 초기 조사 결과 화재는 전기 자전거를 방치한 채 충전하다 발생한 것으로 보입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "전기 자전거 화재는 여행자 안전에 영향을 미칠 수 있으므로 관련 정보 제공. 이미 게시된 뉴스와 유사한 화재 소식이지만, 지역과 원인이 다르므로 업데이트로 판단.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "촌부리 방라뭉 지역 농프루 하위 지역 75/8 Moo 11",
-        "price": null,
-        "location_google_map_query": "75/8 Moo 11, Nong Prue, Bang Lamung District, Chonburi"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': '촌부리 방라뭉 지역 농프루 하위 지역 75/8 Moo 11', 'price': None, 'location_google_map_query': '75/8 Moo 11, Nong Prue, Bang Lamung District, Chonburi'}",
       "references": [
         {
           "title": "E-bike charging blast nearly engulfs house",
@@ -33484,23 +33476,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/E-bike-charging-blast-nearly-engulfs-house.jpg"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/E-bike-charging-blast-nearly-engulfs-house.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.khaosodenglish.com/news/2026/02/23/e-bike-charging-blast-nearly-engulfs-house/",
+      "source": ""
     },
     {
       "title": "중국인 쇼핑객, 아시아 공항에서 가장 큰 지출을 기록",
       "summary": "- 중국인 여행객들이 아시아 공항에서 선물, 음식, 명품 구매에 가장 많은 돈을 쓰고 있음.\n- 코로나19 팬데믹 이후 아시아 공항 소매업 회복을 주도하며, 지역 평균보다 두 배 많은 명품 소비.\n- 2024년 중국 아웃바운드 여행 시장은 1,400억 달러 규모이며, 2033년에는 3,860억 달러에 이를 것으로 예상.",
       "full_translated": "홍콩 — 중국 여행객들이 아시아 지역 공항에서 선물, 음식 및 고급 제품을 구매하는 데 있어 아시아 동료들보다 더 많은 돈을 쓰고 있는 것으로 무역 협회에서 밝혔습니다. \n\n공항협회국제(ACI) 아시아 태평양 및 중동 지부가 이달 초 발표한 연구에 따르면 중국 승객은 코로나바이러스 2019(Covid-19) 팬데믹 이후 아시아 공항 소매업 회복을 주도하며 고급 제품에 대한 지출이 지역 평균의 두 배에 달했습니다. \n\n스테파노 바론치 협회 사무총장은 이달 초 중국 여행객이 팬데믹 이후 기간 동안 '국적별 1인당 최고 지출액'을 기록했다고 밝혔습니다. 그는 지출 회복세가 승객 수 회복세를 앞질렀다고 덧붙였습니다. \n\n이러한 추세는 중국 경제의 다른 부문에서 수요가 부진한 상태에서도 팬데믹 이후 강력하게 반등한 중국 아웃바운드 여행 시장의 강점을 반영합니다. HSBC 보고서에 따르면 이 시장은 2024년에 약 1,400억 달러의 가치가 있었으며 2033년에는 3,860억 달러에 이를 것으로 예상됩니다. \n\n바론치에 따르면 많은 중국 여행객들이 집으로 돌아갈 때 선물로 주기 위해 공항에서 제과류 제품을 구매하는 것을 선택합니다. 승객의 약 27%가 이러한 과자를 '선호하는 범주'라고 불렀고, 현지 제품이 17%, 고급 제품이 12%였습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국인 관광객 소비 패턴 변화는 태국 면세점 및 관련 사업에 간접적인 영향을 줄 수 있으며, 쇼핑 전략에 참고 가능.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chinese shoppers are Asia's biggest airport spenders",
@@ -33509,23 +33498,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203458_700.jpg"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203458_700.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.bangkokpost.com/business/general/3203458/chinese-shoppers-are-asias-biggest-airport-spenders-study-finds",
+      "source": ""
     },
     {
       "title": "태국 현지인들이 영어 못한다고 무례하다는 틱톡커 논란",
       "summary": "- 틱톡커 Farah Shams가 태국 여행 중 현지인들이 영어를 못하거나 번역 앱을 사용하지 않는다고 비판해 논란이 일고 있음.\n- 그녀는 태국을 좋아하지만, 영어를 이해하지 못하고 무시하는 태도가 무례하다고 주장함.\n- 일부 네티즌들은 그녀에게 태국에 오지 말라고 하거나 태국을 옹호하는 반응을 보임.",
       "full_translated": "방콕 – 240만 명이 넘는 틱톡 팔로워를 보유한 소셜 미디어 인플루언서 Farah Shams가 태국 현지인 대다수의 무례한 행동에 대한 비판 영상을 게시하여 논란을 일으켰습니다. 조회수 40만 회에 육박하는 이 영상에서 Shams는 태국을 '진심으로' 사랑하고 '사랑스러운 곳'이라고 칭찬했지만, '대다수'의 현지인들이 왜 외국인과 관광객에게 무례하게 대하는지에 대해 의문을 제기했습니다. 그녀는 현지인들에게 영어로 말을 걸었을 때 많은 사람들이 그녀를 이해하지 못하고 소통하려는 시도조차 없이 무시하는 것처럼 보였다고 말했습니다. \n\n“언어 장벽은 인간에게 매우 자연스러운 현상이며, 특히 세계 반대편으로 갈 때는 더욱 그렇습니다.”라고 그녀는 말했습니다. “하지만 제가 무슨 말을 하는지 이해가 안 된다면 구글 번역기를 꺼내세요. 저를 무시하지 마세요. 그냥 '영어를 못한다'고 말하세요.” Shams는 자신의 경험을 터키와 이집트 여행과 비교하며, 그곳도 '꽤 나쁘다'고 말했지만 태국이 '그 모든 곳을 능가한다'고 덧붙였습니다. 일부 현지인들은 '사랑스럽다'고 언급하면서도 대다수가 '내가 만난 사람 중 가장 무례한 사람들'이라고 말했습니다. 비판에도 불구하고 그녀는 여전히 태국을 사랑하기 때문에 다시 돌아올 것이라고 말했습니다. \n\n이 영상은 온라인에서 강력한 반응을 불러일으켰습니다. 일부 사용자는 그녀에게 '오지 말라'고 말하는 반면, 다른 사용자는 태국을 옹호했습니다. 한 댓글 작성자는 번역 앱은 양방향으로 작동한다고 말했고, 다른 댓글 작성자는 태국에 살았다고 썼습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 중 발생할 수 있는 문화적 차이 및 오해에 대한 정보 제공. 여행객의 불쾌감을 야기할 수 있는 상황에 대한 간접적 인지. 다만 심각한 안전 문제는 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TikToker says most Thai locals are rude for not speaking English or using translation apps",
@@ -33534,23 +33520,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page00000-1.jpg"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page00000-1.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.khaosodenglish.com/life/2026/02/23/tiktoker-says-most-thai-locals-are-rude-for-not-speaking-english-or-using-translation-apps/",
+      "source": ""
     },
     {
       "title": "싱가포르, 까마귀 공격 급증에 따라 '까마귀 사살' 조치 재개",
       "summary": "- 싱가포르에서 까마귀 개체 수가 급증하고 공격 사례가 늘어남에 따라 까마귀 사살 조치를 재개할 예정임.\n- 2069년 2월 23일, 국가개발부 장관은 3월 하반기부터 까마귀 개체 수 관리를 위해 사살 조치를 다시 시행할 것이라고 밝힘.\n- 2063년 이후 다른 방법들이 효과적이지 않아 사살 조치가 재개되며, 안전 수칙을 철저히 준수할 예정임.",
       "full_translated": "싱가포르가 까마귀 공격 증가로 인해 '까마귀 사살' 조치를 다시 시작합니다. 6년 이상 중단되었던 조치가 다시 시행되는 이유는 까마귀 개체 수가 증가했기 때문입니다. 2069년 2월 23일, 치 홍 탓 국가개발부 장관은 국립공원위원회(NParks)가 3월 하반기부터 '사살'을 통해 까마귀를 제거하는 조치를 재개할 것이라고 밝혔습니다. 이러한 결정은 국가개발부와 내무부, 싱가포르 경찰청 간의 논의 끝에 이루어졌습니다. 까마귀 사살 작전은 2063년, 담당자가 총을 쏘다가 민가에 맞히는 사고가 발생한 후 중단되었습니다. 그러나 치 장관은 이후 까마귀 개체 수 관리를 위한 다른 조치들, 예를 들어 까마귀 포획 및 이동, 둥지 제거, 인간이 만들어내는 먹이원 감소 노력 등이 사살 조치와 함께 사용되지 않으면 충분하지 않다는 것이 입증되었다고 말했습니다. 치 장관은 “2068년 한 해 동안에만 시정촌 서비스 사무소는 까마귀 관련 불만 사항을 약 15,000건 접수했는데, 이는 2063년에 비해 3배 이상 증가한 수치입니다.”라고 말하며, 까마귀 공격 보고 건수도 4배 증가하여 같은 해 2,000건이 넘었다고 덧붙였습니다. “까마귀 개체 수가 계속 증가하면 까마귀 공격이 더욱 빈번해져 주민들의 안전에 영향을 미칠 것입니다.”라고 치 장관은 말했습니다. “이러한 이유로 저는 NParks에게 싱가포르의 까마귀 개체 수를 줄이는 방법 중 하나로 사살 조치를 다시 시행하라고 지시했습니다.” 치 장관은 까마귀 사살 작전이 산탄총 사용으로 인해 어느 정도 위험이 따를 것이라는 점을 인정하면서, 사살 임무를 수행하는 사람은 엄격한 안전 조치를 준수해야 한다고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 도심 환경과 관련된 정보이므로 포함. 까마귀 공격에 대한 주의를 환기.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สิงคโปร์ จ่อเริ่มมาตรการ “ยิงอีกา” อีกครั้ง หลังเหตุกาโจมตีพุ่ง 4 เท่า",
@@ -33559,8 +33542,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZvEbZkwfE0q.jpg"
         }
       ],
-      "collected_at": "00:35",
+      "collected_at": "0:35",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZvEbZkwfE0q.jpg",
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/foreign/2916000",
+      "source": ""
+    },
+    {
+      "title": "멕시코, '엘 멘초' 사망 후 20개 주에서 폭력 사태 발생, 군인 25명 사망",
+      "summary": "- 멕시코 주요 마약 카르텔 두목 '엘 멘초' 사망 후 20개 주에서 폭력 사태 발생.\n- 군인 25명이 치안 유지 중 사망.\n- 멕시코 정부, 치안 강화를 위해 군 병력 2,500명 서부 지역에 급파.",
+      "full_translated": "멕시코에서 주요 마약상인 '엘 멘초'의 사망 이후 최소 20개 주에서 불안이 발생했으며, 치안 유지 임무 중 군인 25명이 사망했습니다. 2069년 2월 23일 월요일, 멕시코 보안부 장관은 최소 25명의 국가 방위군이 '엘 멘초'의 사망 이후 할리스코 주에서 발생한 대규모 폭력 사태로 사망했다고 밝혔습니다. 네메시오 오세게라 세르반테스, 즉 '엘 멘초'로 더 잘 알려진 인물이 지난 일요일 구금 중 사망한 이후 멕시코 전역 최소 20개 주에서 폭동과 불안이 발생했습니다. 그는 멕시코 특수부대에 의해 체포된 직후 사망했습니다. 리카르도 트레비야 국방장관은 월요일 멕시코가 국가 서부 지역에 2,500명의 군인을 급파하여 보안을 강화했다고 발표했습니다. 엘 멘초는 멕시코에서 가장 끔찍한 범죄 조직 중 하나인 '할리스코 신세대 카르텔'(CJNG)의 수장이었으며, 멕시코 당국이 가장 필요로 하는 범죄자였습니다. 멕시코 국방장관은 '엘 멘초'가 지난 일요일 체포되었다고 밝혔습니다. 그는 정부 추적 결과 한 애인을 만나러 간 것으로 밝혀졌습니다. 그러나 엘 멘초는 그의 경호원과 군의 코만도 부대 간의 치열한 총격전에서 심각한 부상을 입었고, 군이 그를 할리스코 주 타팔파에서 멕시코시티로 이송하던 중 사망했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "마약 카르텔 관련 폭력 사태는 여행객 안전에 심각한 위협이 될 수 있으므로 중요도가 높음. 특히 멕시코 일부 지역 여행을 계획 중인 여행객에게는 필수 정보임. 기존 보도보다 사망자 수가 구체적으로 업데이트됨.",
+      "event_info": {
+        "date": "2069-02-23",
+        "location": "멕시코 20개 주",
+        "price": null,
+        "location_google_map_query": "멕시코"
+      },
+      "references": [
+        {
+          "title": "เม็กซิโกเดือด 20 รัฐ หลัง “เอล เมนโช” ถูกสังหาร ทหารดับแล้ว 25 นาย",
+          "url": "https://www.thairath.co.th/news/foreign/2916002",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZ4ej5mbDPI6.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZ4ej5mbDPI6.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "시라차에서 오토바이 사고 발생, 1명 중상",
+      "summary": "- 어제 오후 3시 45분경 시라차에서 오토바이와 픽업트럭 충돌 사고 발생\n- 오토바이 운전자는 중상을 입고 병원으로 이송됨\n- 픽업트럭 운전자는 타이어 가게에 들어가려다 사고 발생했다고 진술",
+      "full_translated": "어제 오후 3시 45분경, 9번 고속도로(7번 도로)의 타이어 가게 앞에서 사고가 발생했습니다. Sawang Prateep Sri Racha 재단의 구조대원에 따르면 오토바이가 픽업트럭과 충돌하여 한 명이 중상을 입었다는 신고를 받았습니다. Laem Chabang Advanced Life Support 및 Sri Racha 경찰서의 긴급 구조대가 현장으로 출동했습니다. 현장에서는 검은색 Isuzu Highlander 픽업트럭이 길가에 주차되어 있었고, 앞 왼쪽 휠 아치 위에 긁힌 자국과 긴 긁힘 손상이 있었습니다. 운전자는 'Mr. Dew'(가명)로, 다치지 않았습니다. 근처에는 중년 남성인 부상당한 오토바이 운전자가 의식을 잃은 채 바닥에 누워 있었습니다. 그는 머리에 큰 상처를 입었고, 몸 전체에 찰과상을 입었으며, 오른쪽 약지가 부러진 것으로 의심됩니다. 구조대는 응급 처치를 제공한 후 추가 치료를 위해 Laem Chabang 병원으로 급히 이송했습니다. 픽업트럭 운전자는 경찰에 자신이 타이어를 교체하기 위해 도로를 따라 운전하고 있었다고 말했습니다. 도착하자마자 속도를 줄이고 좌회전 신호를 켜고 백미러를 확인했지만 접근하는 차량이 보이지 않았습니다. 갑자기 오토바이가 뒤에서 빠른 속도로 접근하여 왼쪽으로 추월하다가 트럭 왼쪽 앞부분을 들이받고 통제력을 잃고 가게 앞의 장식용 깃대를 들이받고 도로를 가로질러 미끄러져 근처 주택 벽에 부딪혔습니다. CCTV 영상에...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "교통 사고 정보는 여행자 안전에 영향을 미칠 수 있으므로 포함. 해당 지역 여행 시 주의 필요.",
+      "event_info": {
+        "date": "2024-07-03",
+        "location": "Highway 9 Kilometer Road (Road No. 7), Sri Racha",
+        "price": null,
+        "location_google_map_query": "Highway 9 Kilometer Road Sri Racha"
+      },
+      "references": [
+        {
+          "title": "CCTV Footage Captures Severe Motorcycle Crash in Sri Racha as Rider Overtakes Pickup Truck Turning into Tire Shop",
+          "url": "https://thepattayanews.com/2026/02/24/cctv-footage-captures-severe-motorcycle-crash-in-sri-racha-as-rider-overtakes-pickup-truck-turning-into-tire-shop/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0044572405720757062897222.jpg?v=1771868791"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0044572405720757062897222.jpg?v=1771868791",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "파타야, 불법 포커 도박장 급습…14명 체포",
+      "summary": "- 파타야 농프루 지역에서 불법 포커 도박장이 적발되어 경찰이 급습했습니다.\n- 현장에서 14명이 체포되었으며, 도박 장비와 현금 등이 압수되었습니다.\n- 용의자들은 불법 도박 혐의로 농프루 경찰서로 이송되어 조사를 받고 있습니다.",
+      "full_translated": "2026년 2월 22일 저녁, 당국은 농프루 지역의 한 장소에서 무허가 도박 활동이 있다는 제보를 받고 작전을 개시했습니다. 농프루 경찰서장 낫타폰퐁숙스쿨 대령의 감독 하에, 범죄 진압 부서장 위랏 텟통 중령과 범죄 진압 검사 카므론 롯마 중령이 급습을 지휘했습니다. 순찰 경찰관과 특수 작전 요원들로 구성된 팀이 해당 구역을 철저히 수색했습니다. 건물에 진입한 경찰은 14명이 포커를 치며 돈과 자산을 걸고 불법 도박을 하는 것을 발견했습니다. 현장에는 전문 장비를 갖춘 도박 테이블이 있었고, 이들은 완전히 기습을 당했습니다. 혼란 속에서 경찰은 모든 참가자를 별다른 사고 없이 체포했습니다. 압수된 증거물로는 다양한 액수의 포커 칩, 카드 6덱, 전문 포커 테이블 1개, CCTV 카메라 1대와 메모리 카드 등이 있습니다. 용의자 14명은 모두 태국 도박법 위반으로 불법 도박(포커)에 공동으로 참여한 혐의로 기소되었습니다. 이들은 압수품과 함께 구금되어 농프루 경찰서 수사관에게 넘겨져 추가 법적 절차를 밟게 되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 발생한 불법 도박장 급습 사건으로, 여행객들에게 잠재적인 범죄 위험을 알리고 주의를 환기시킬 필요가 있습니다. 직접적인 안전 위협은 아니지만, 파타야 지역의 치안 상황을 간접적으로 보여주는 정보입니다.",
+      "event_info": {
+        "date": "2026-02-22",
+        "location": "파타야, 농프루 지역",
+        "price": "N/A",
+        "location_google_map_query": "Nong Prue, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Thai Police Raid Underground Poker Den in Pattaya Community, Arrest 14 Gamblers",
+          "url": "https://thepattayanews.com/2026/02/24/thai-police-raid-underground-poker-den-in-pattaya-community-arrest-14-gamblers/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771867257634-scaled.jpg?v=1771867376"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771867257634-scaled.jpg?v=1771867376",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "스리라차 14세 소녀, 학교 건물에서 추락 후 안전; 어머니, 사기꾼 처벌 요구; 교장 방문",
+      "summary": "- 스리라차의 한 14세 소녀가 학교 건물 5층에서 추락하여 중상을 입었습니다.\n- 소녀는 틱톡 광고를 통해 음악 감상으로 돈을 벌 수 있다는 사기에 속아 돈을 이체했습니다.\n- 소녀는 돈을 더 이상 지불할 수 없게 되자 협박을 받고 두려움에 학교 건물에서 뛰어내렸습니다.",
+      "full_translated": "스리라차에 있는 Wat Nong Kho Community School의 14세 8학년 학생이자 여자 배구 선수인 소녀에게 사고가 발생했습니다. 2026년 2월 22일, 그녀는 학교 건물 5층 화장실 창문에서 떨어져 다리 열상, 허리 통증, 타박상 등 심각한 부상을 입었습니다.\n\n친구들과 초기 경찰 보고서에 따르면 소녀는 틱톡 광고를 통해 음악 감상으로 돈을 벌 수 있다는 사기 gang에게 속았습니다. 사기는 그녀를 유혹하여 소위 보상을 받기 위한 \"예금\" 또는 수수료로 돈을 이체하도록 했습니다. 그녀는 처음에는 수익을 기대하며 100바트를 이체했지만 사기꾼들은 나중에 \"작업\"과 보상에 대한 추가 금액을 요구했습니다.\n\n그녀는 친구와 가족에게 돈을 빌려 친구에게서 700바트, 할머니에게서 나중에 3,000바트를 빌려 총 약 3,600바트의 요구를 충족했습니다. 더 이상 지불할 수 없게 되자 gang은 그녀가 한 시간 이내에 추가 자금을 이체하지 못하면 가상 손해 배상금으로 140,000바트 이상으로 그녀를 고소하겠다고 위협했습니다. 두려움과 스트레스에 압도된 그녀는 침착성을 잃고 학교 건물에서 뛰어내렸습니다.\n\n2026년 2월 23일, Wat Nong Kho Community School의 교장인 Ms. Prapaisri Buachapo는 교사들과 함께 Somdet Phra Borom Ratchathewi Na Si Racha Hospital에서 소녀를 방문했습니다. 그들은 이미 참석한 소녀의 어머니 Ms. Paphatsarin Sriwiset와 친척들을 만났습니다.\n\n교장은 소녀가 이제 말하고 의사 소통할 수 있다고 보고했습니다. 그녀는 학기말 시험을 놓치는 것에 대해 걱정했지만 교장은",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행자도 사기 피해를 입을 수 있으므로 주의가 필요합니다. 범죄 관련 정보이므로 POLITICS로 분류합니다.",
+      "event_info": {
+        "date": "2026-02-22",
+        "location": "Wat Nong Kho Community School, 스리라차",
+        "price": null,
+        "location_google_map_query": "Wat Nong Kho Community School 스리라차"
+      },
+      "references": [
+        {
+          "title": "14-Year-Old Sri Racha Girl Safe After Fall from School Building; Mother Calls for Punishment of Scammers Involved; School Principal Visits",
+          "url": "https://thepattayanews.com/2026/02/24/14-year-old-sri-racha-girl-safe-after-fall-from-school-building-mother-calls-for-punishment-of-scammers-involved-school-principal-visits/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_000518304318459672699143.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_000518304318459672699143.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "태국 1월 수출입, 사상 최고치 기록",
+      "summary": "- 태국의 1월 수출액이 315억 7천만 달러로 24.4% 증가, 수입액은 348억 7천만 달러로 29.4% 증가하며 사상 최고치를 기록함.\n- 중국과의 무역에서는 적자를, 미국과의 무역에서는 흑자를 지속함.\n- 전자제품, 자동차 부품 등 AI 및 데이터센터 기술 전환 관련 제품의 성장세가 두드러짐.",
+      "full_translated": "태국 무역정책전략사무소(손 커.)에 따르면 2069년 1월 수출액은 315억 7310만 달러(9807억 4400만 바트)로 전년 동월 대비 24.4% 증가했으며, 수입액은 348억 7650만 달러(1조 970억 바트)로 29.4% 증가했습니다. 이는 각각 사상 최고치입니다. 이로 인해 33억 340만 달러(1167억 바트)의 무역 적자가 발생했습니다. 중국과의 무역에서는 72억 2380만 달러의 적자를 기록했으며, 미국과의 무역에서는 4억 7380만 달러의 흑자를 기록했습니다. 수출 증가의 주요 요인은 AI 및 데이터센터 기술 전환에 따른 전자제품의 성장이며, 전기 제품, 자동차 및 부품의 수출도 높은 수준을 유지했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황에 대한 정보로, 여행객의 소비 및 물가에 간접적인 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ส่งออก-นำเข้าไทย ม.ค. 69 พุ่งสูงเป็นประวัติการณ์ สนค.จับตาแก้เกมภาษีสหรัฐฯ ลุยขยายตลาด",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2915964",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxlrc7AEizsqL.jpg"
+        }
+      ],
+      "collected_at": "01:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxlrc7AEizsqL.jpg",
       "date": "2026-02-24"
     }
   ]
