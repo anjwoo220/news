@@ -33332,14 +33332,9 @@
       "summary": "- 방콕에서 자전거 공유 서비스가 대중적인 교통수단으로 자리 잡고 있습니다.\n- BTS, MRT 역 근처에 공유 자전거가 배치되어 'first and last mile' 문제를 해결합니다.\n- Hello PunPun, HelloRide 등 다양한 플랫폼이 운영 중이며, 단거리 이동에 유용합니다.",
       "full_translated": "방콕의 거리가 조용히 변화하고 있습니다. 이번 변화는 새로운 철도 노선이나 고속도로보다는 자전거에 의해 주도되고 있습니다. BTS 역 아래에 주차된 공유 자전거부터 아스팔트를 되찾는 심야 그룹 라이딩에 이르기까지, 사이클링은 외국인과 현지인 모두에게 수도를 이동하는 실용적이고 예상외로 즐거운 방법으로 부상하고 있습니다. 한때 위험한 환상처럼 느껴졌던 것이 자전거 공유 제도가 돌아오고 점점 더 많은 라이더들이 페달 수준에서 방콕을 시험하면서 주류로 진입하고 있습니다. 이러한 부활은 Hello PunPun 및 HelloRide와 같은 서비스에 의해 촉진되었으며, 이들은 도시가 가장 필요로 하는 곳에 공유 자전거를 배치합니다. BTS 및 MRT 역 근처에 도킹된 이 자전거는 방콕의 고질적인 'first and last mile' 문제를 해결하는 데 도움이 됩니다. 통근자들은 오토바이 택시에 몸을 싣거나 교통 체증에 갇히지 않고 기차에서 내려 여정을 계속할 수 있어 짧은 도시 여행을 더 빠르고 종종 더 평온하게 만들 수 있습니다. 그들은 더 이상 혼자가 아닙니다. 기술 사이트 DroidSans는 현재 방콕에서 운영 중인 Anywheel, GCOO, Pundai 및 Hello PunPun을 포함한 여러 자전거 공유 플랫폼을 나열하며, 주요 지역에 수백 대의 자전거가 흩어져 있습니다. 시범 단계에서는 일부 계획에서 매일 무료 사용을 제공하여 자전거에 대해 궁금하지만 자신의 자전거를 구입하기를 꺼리는 초보자의 장벽을 낮추기도 했습니다. 공식은 의도적으로 간단합니다. 짧은 라이딩, 직관적인 앱, 사람들이 이미 매일 지나다니는 곳에 배치된 스테이션.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕의 교통수단 변화에 대한 정보로, 여행자들의 이동 편의성에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Two wheels reshape Bangkok’s daily commute",
@@ -33350,21 +33345,18 @@
       ],
       "collected_at": "23:10",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c2_3203464_260223170656.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/life/travel/3203464/two-wheels-reshape-bangkoks-daily-commute",
+      "source": ""
     },
     {
       "title": "말레이시아, 태국 국경 불법 경로에 보안 철조망 추가 설치",
       "summary": "- 말레이시아 당국, 태국과의 불법 국경 경로에 보안 철조망 추가 설치 계획\n- 국경 통제 강화 및 밀수, 인신매매, 마약 등 범죄 억제 목적\n- 1차로 나라티왓 주 순가이 콜록 지역 맞은편 27개 경로에 1.5km 철조망 설치 완료",
       "full_translated": "말레이시아 보안 당국은 1단계 완료 후 태국과 접경한 나머지 불법 경로에 가시 철조망을 설치하기 위해 정부로부터 추가 예산을 요청할 예정입니다. Ahmad Radzi 말레이시아 여단장은 국가안보위원회를 통해 정부의 재정 지원을 요청하여 69개의 철거된 부두에 있는 69개의 쥐 길을 영구적으로 폐쇄하기 위한 보안 울타리를 추가로 설치할 것이라고 Bernama가 보도했습니다. 이번 조치는 이번 달 나라티왓 주 순가이 콜록 지역 맞은편 27개 경로에 1.5km의 가시 철조망 건설 1단계가 완료된 데 따른 것입니다. 모든 불법 경로는 골록 강을 따라 무단으로 건설된 부두에서 시작됩니다. 말레이시아는 이미 클란탄 주와 나라티왓 사이의 밀수, 인신매매, 불법 약물 및 기타 국경 횡단 범죄를 퇴치하기 위해 모든 부두를 철거했습니다. 전체 울타리 프로젝트 비용은 100,000 링깃(800,000 바트)으로 추산됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역 여행 시 주의 필요. 범죄 관련 소식은 여행객 안전에 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": "나라티왓 주 순가이 콜록",
-        "price": "800,000 바트 (예상)",
-        "location_google_map_query": "Sungai Kolok, Narathiwat"
-      },
+      "event_info": "{'date': None, 'location': '나라티왓 주 순가이 콜록', 'price': '800,000 바트 (예상)', 'location_google_map_query': 'Sungai Kolok, Narathiwat'}",
       "references": [
         {
           "title": "Malaysia to install more security wire on illegal routes bordering Thailand",
@@ -33375,21 +33367,18 @@
       ],
       "collected_at": "23:10",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203350_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/thailand/general/3203350/malaysia-to-install-more-security-wire-on-illegal-routes-bordering-thailand",
+      "source": ""
     },
     {
       "title": "푸껫, 2032/33년 전문 엑스포 유치 재도전",
       "summary": "- 푸껫이 2032년 또는 2033년 전문 엑스포 유치를 위해 재도전한다.\n- '장수' 테마를 통해 웰빙 및 지속 가능한 관광 부문을 홍보할 계획이다.\n- 2027년 엑스포 유치 실패 후, 마이 카오 지역 개발 계획을 되살릴 예정이다.",
       "full_translated": "푸껫은 올해 전문 엑스포 유치를 위해 재도전할 예정이며, 새로운 '장수' 테마 하에 2032년 또는 2033년에 이 행사를 개최하는 것을 목표로 섬의 웰빙 및 지속 가능한 관광 부문을 홍보할 계획입니다. 지속 가능한 관광 개발 재단의 회장이자 푸껫 관광 협회의 자문위원장인 Bhummikitti Ruktaengam은 월요일 푸껫과 태국 컨벤션 전시국(TCEB)이 2027년 에디션에 대한 첫 번째 시도에서 실패한 후 두 번째 기회를 모색할 것이라고 말했습니다. 푸껫은 2023년에 5명의 후보 중 하나였으며, 세르비아가 2023년에 '인류를 위한 놀이 – 모두를 위한 스포츠와 음악'이라는 테마로 2027년 5월부터 8월 사이에 엑스포를 개최하기로 선정되었습니다. Bhummikitti씨는 푸껫의 마이 카오 지역에 있는 141라이 면적의 이전 개발 계획이 새로운 엑스포 입찰을 위해 되살아날 것이라고 말했습니다. 엑스포 부지는 Ratchaphatsadu Land가 소유하고 공중 보건부와 Vajira 병원에서 관리합니다. 이전 입찰에 따르면 푸껫 엑스포는 '삶의 미래, 조화로운 삶, 번영 공유'라는 테마로 발표되었으며 490만 명의 방문객을 유치하여 490억 바트의 수익과 113,000개의 일자리를 창출할 것으로 예상되었습니다. Bhummikitti씨는 입찰 실패 후 계획된 엑스포 후 시설이 건설되지 않았다고 말했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫 엑스포 유치 재도전은 관광객 유치 및 지역 경제 활성화에 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 2032년 또는 2033년에 개최 예정이므로 당장 급한 정보는 아님.",
-      "event_info": {
-        "date": "2032-2033",
-        "location": "푸껫, 마이 카오 지역",
-        "price": "미정",
-        "location_google_map_query": "Mai Khao Phuket"
-      },
+      "event_info": "{'date': '2032-2033', 'location': '푸껫, 마이 카오 지역', 'price': '미정', 'location_google_map_query': 'Mai Khao Phuket'}",
       "references": [
         {
           "title": "Phuket in fresh bid for Specialised Expo",
@@ -33398,21 +33387,19 @@
         }
       ],
       "collected_at": "23:10",
-      "date": "2026-02-23"
+      "image_url": "",
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203533/phuket-in-fresh-bid-for-Specialised-Expo",
+      "source": ""
     },
     {
       "title": "태국 수출, 바트화 강세에도 불구하고 4년 만에 최고치 기록",
       "summary": "- 태국의 1월 수출이 전년 대비 24.4% 증가하여 315억 달러를 기록, 4년 만에 최고 성장률을 보임.\n- 이는 인공지능 기술 발전과 디지털 인프라 개발에 따른 전자 제품의 지속적인 글로벌 수요 증가에 힘입은 결과임.\n- 주요 수출 품목은 전기 제품, 자동차 및 자동차 부품이며, 두리안, 망고스틴, 자스민 쌀, 냉동 새우와 같은 농산물 및 가공 식품도 견조한 성장세를 보임.",
       "full_translated": "태국 무역정책전략실(TPSO)에 따르면 미국의 수입품에 대한 15% 관세 부과 결정 이후 바트화 가치가 수출에 가장 중요한 영향을 미치고 있으며, 태국 수출은 1월에 4년 만에 가장 강력한 성장세를 기록했습니다. 수출은 전년 대비 24.4% 증가한 315억 달러를 기록했으며, 이는 인공지능(AI) 기술로의 전환과 전 세계 디지털 인프라의 가속화된 개발에 따라 전자 제품에 대한 지속적인 글로벌 수요에 의해 주도되었습니다. 한편, 수입은 29.4% 증가한 348억 달러로 33억 달러의 무역 적자를 기록했습니다. 전기 제품, 자동차 및 자동차 부품의 수출은 높은 수준에서 지속적인 성장을 보여 태국이 이 지역에서 신뢰할 수 있는 제조 허브로서의 강력한 입지를 강조했습니다. 두리안, 망고스틴, 자스민 쌀, 냉동 새우와 같은 농산물 및 가공 식품은 이번 달에 견조한 성장세를 재개했습니다. 상무부 산하 TPSO 사무총장인 Nantapong Chiralerspong은 수출 성장이 지속되지만 상승세는 올해 6월까지 둔화될 수 있다고 말했습니다. 수출에 대한 주요 지원 요인으로는 반도체 수요와 글로벌 기술 산업의 지속적인 성장, 강력한 경제 성장을 보이는 주요 교역 파트너의 견조한 수요, 식량 및 과일 수출의 반등 등이 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 상황에 대한 정보. 환율 변동에 따라 여행 예산에 영향을 줄 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai exports hit 4-year high despite strong baht",
@@ -33423,21 +33410,18 @@
       ],
       "collected_at": "23:10",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203513_260223193141_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203513/thai-exports-hit-4year-high-despite-strong-baht",
+      "source": ""
     },
     {
       "title": "태국판 '런닝맨', 온라인에서 뜨거운 반응",
       "summary": "- 한국 인기 예능 '런닝맨'의 태국 버전이 첫 방송 후 온라인에서 큰 호응을 얻고 있습니다.\n- 태국 유명 연예인들이 출연하여 다양한 게임과 미션을 수행합니다.\n- 매주 일요일 One31 채널과 IQIYI 앱에서 시청 가능합니다.",
       "full_translated": "태국에서 방영된 '런닝맨 태국' 파일럿 에피소드가 온라인에서 큰 인기를 얻고 있습니다. 지난 일요일 첫 방송된 이 프로그램은 한국의 인기 예능 쇼가 태국에 상륙한 것입니다. IQIYI는 Pramote \"Oat\" Pathan, Worakamol \"Jeff\" Satur, Waruntorn \"Ink\" Paonil, Tawan \"Tay\" Vihokratana, Chawarin \"Nunew\" Perdpiriyawong, Pittaya \"Daou\" Saechua 및 Pongsatorn \"Phuak\" Jongwilas를 포함한 화려한 라인업으로 히트 한국 버라이어티 쇼 \"Running Man\"을 태국에 선보입니다. 이 쇼는 각 에피소드에서 연예인들이 치열한 경쟁과 도전적인 미션을 통과하는 과정을 따라갈 예정입니다. 또한 현재 비밀로 유지되고 있는 특별 게스트 스타들이 출연할 예정입니다. 일부는 한국에서 직접 비행기로 옵니다. 파일럿 에피소드는 지난 2월 22일 일요일에 초연되었으며 매주 일요일 오후 6시에 One31 채널에서 새로운 에피소드가 방영됩니다. 시청자들은 같은 날 오후 8시에 IQIYI 앱에서 무삭제 버전을 시청할 수도 있습니다. \"Running Man Thailand\"는 게임 디자인, 스크립트 작성 및 프로그램 구조를 지원하여 원래의 감각을 잃지 않고 태국 관객에게 더 적합하도록 히트 쇼를 변경할 한국 SBS 스튜디오와의 협업입니다. 이 쇼는 중국, 필리핀, 베트남과 같은 아시아 국가에서 큰 성공을 거두었습니다. 태국에 대한 그들의 첫 번째 벤처는 처음에는 온라인에서 큰 피드백을 받아 X와 같은 소셜 미디어 플랫폼에서 차트를 석권했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 인기 있는 엔터테인먼트 트렌드를 보여주는 기사로, 한류에 관심 있는 관광객에게 흥미로운 정보 제공. 태국 문화 경험에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "One31 채널, IQIYI 앱",
-        "price": "유료/무료 (IQIYI 앱)",
-        "location_google_map_query": "One31 Channel Thailand, IQIYI Thailand"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': 'One31 채널, IQIYI 앱', 'price': '유료/무료 (IQIYI 앱)', 'location_google_map_query': 'One31 Channel Thailand, IQIYI Thailand'}",
       "references": [
         {
           "title": "'Running Man Thailand' pilot episode receives great cheer online",
@@ -33448,7 +33432,136 @@
       ],
       "collected_at": "23:10",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203470_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/life/arts-and-entertainment/3203470/running-man-thailand-pilot-episode-receives-great-cheer-online",
+      "source": ""
+    }
+  ],
+  "2026-02-24": [
+    {
+      "title": "멕시코 카르텔 두목 '엘 멘초' 군사 작전 중 사망, 여러 주에서 폭동 발생: 푸에르토 발라르타 및 과달라하라 항공편 차질",
+      "summary": "- 멕시코의 악명 높은 마약 카르텔 두목 '엘 멘초'가 군사 작전 중 사망했습니다.\n- 그의 사망 후 여러 주에서 폭력 시위가 발생, 주요 고속도로가 봉쇄되고 차량이 불탔습니다.\n- 푸에르토 발라르타와 과달라하라행 항공편이 취소되거나 변경되어 여행에 차질이 예상됩니다.",
+      "full_translated": "멕시코, 할리스코 – 멕시코에서 가장 악명 높은 마약 두목인 '엘 멘초'로 알려진 네메시오 오세게라 세르반테스가 멕시코 서부에서 벌어진 군사 작전으로 59세의 나이로 사망했다고 당국이 밝혔습니다. 이번 작전에는 미국이 정보 지원을 제공했습니다. 그의 사망은 여러 주에서 폭력적인 시위를 촉발시켰고, 무장 단체들이 고속도로를 봉쇄하고 차량을 불태우며 오랫동안 그의 범죄 네트워크와 연관된 지역에서 보안군과 충돌했습니다. 엘 멘초는 그의 조직의 거점으로 여겨지는 할리스코 서부의 타팔파에서 총에 맞았습니다. 관계자들은 그가 병원으로 이송되던 중 사망했다고 밝혔습니다. 멕시코 보안 내각은 이후 시위 기간 동안 시행된 도로 폐쇄가 완화되기 시작했지만 여러 지역에서 보안 작전이 계속 진행 중이라고 밝혔습니다. 그의 죽음에 따른 폭력 사태는 멕시코 서부 및 중부 지역의 일상 생활을 혼란에 빠뜨렸습니다. 현지 언론은 버스와 상업용 차량이 불타는 모습을 보여주었고, 일부 고속도로는 보안 문제로 인해 일시적으로 폐쇄되었습니다. 항공 여행 또한 영향을 받았습니다. 여러 항공사가 할리스코 주의 주요 도시인 푸에르토 발라르타와 과달라하라를 오가는 항공편을 취소하거나 우회했습니다. 푸에르토 발라르타는 북미 관광객들에게 가장 인기 있는 해변 여행지 중 하나입니다. 에어 캐나다와 유나이티드 항공을 포함한 항공사들은 보안 문제로 인해 푸에르토 발라르타행 서비스를 일시적으로 중단했습니다. 다른 항공사들은 당국이 영향을 받은 지역을 안정시키기 위해 노력하면서 차질을 보고했습니다. 미국...",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "멕시코 주요 관광 도시 항공편에 영향을 미치는 심각한 치안 불안정 상황 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 즉시 알릴 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "멕시코, 할리스코 주",
+        "price": null,
+        "location_google_map_query": "할리스코 주"
+      },
+      "references": [
+        {
+          "title": "Mexico cartel leader “El Mencho” killed in military operation, unrest spreads across multiple states",
+          "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/02/23/mexico-cartel-leader-el-mencho-killed-in-military-operation-unrest-spreads-across-multiple-states/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner5-1.jpg"
+        }
+      ],
+      "collected_at": "00:35",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner5-1.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "촌부리에서 전기 자전거 충전 중 폭발, 주택 화재 발생",
+      "summary": "- 촌부리에서 전기 자전거 충전 중 폭발로 화재 발생, 주택 전체가 화염에 휩싸일 뻔함.\n- 경찰은 2026년 2월 23일 오전 10시 30분에 방라뭉 지역의 한 주택에서 화재 신고를 받음.\n- 화재는 주차장에 있던 전기 자전거에서 시작되었으며, 차량과 보관 선반에도 피해를 입힘.",
+      "full_translated": "촌부리 — 2026년 2월 23일, 전기 자전거를 충전하던 중 폭발하여 촌부리 지방의 한 주택 전체가 화염에 휩싸일 뻔한 화재가 발생했다고 경찰이 밝혔습니다. 오전 10시 30분, 방라뭉 경찰서의 수사 부국장인 찬다 데트판 경위는 방라뭉 지역 농프루 하위 지역 75/8 Moo 11에 있는 주택에서 화재 신고를 받았습니다. 파타야 시의 재난 예방 담당관, 소방차 3대, 사왕 보리분 탐마사탄 구조 재단의 자원 봉사자들이 현장으로 파견되었습니다. 두 채의 집이 같은 구역 내에 있었고, 중앙 구역은 주차장으로 사용되었습니다. 화염은 주차장에서 타오르고 있었습니다. 소방관들은 약 10분 만에 불길을 제압했습니다. 전기 자전거는 완전히 파괴되었습니다. 번호판 Kor Thor 8681 촌부리인 흰색 닛산 마치 차량은 오른쪽 후미 부분이 손상되었고, 근처의 보관 선반도 손상되었습니다. 집주인의 남동생인 43세의 요차이 캄팡시는 2층에 있다가 많은 연기를 발견했다고 말했습니다. 그는 아래층으로 달려가 충전기에 꽂혀 있던 전기 자전거가 화염에 휩싸인 것을 발견하고 당국에 신고했습니다. 경찰은 현장을 조사하고 목격자 심문을 시작했습니다. 초기 조사 결과 화재는 전기 자전거를 방치한 채 충전하다 발생한 것으로 보입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "전기 자전거 화재는 여행자 안전에 영향을 미칠 수 있으므로 관련 정보 제공. 이미 게시된 뉴스와 유사한 화재 소식이지만, 지역과 원인이 다르므로 업데이트로 판단.",
+      "event_info": {
+        "date": "2026-02-23",
+        "location": "촌부리 방라뭉 지역 농프루 하위 지역 75/8 Moo 11",
+        "price": null,
+        "location_google_map_query": "75/8 Moo 11, Nong Prue, Bang Lamung District, Chonburi"
+      },
+      "references": [
+        {
+          "title": "E-bike charging blast nearly engulfs house",
+          "url": "https://www.khaosodenglish.com/news/2026/02/23/e-bike-charging-blast-nearly-engulfs-house/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/E-bike-charging-blast-nearly-engulfs-house.jpg"
+        }
+      ],
+      "collected_at": "00:35",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/E-bike-charging-blast-nearly-engulfs-house.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "중국인 쇼핑객, 아시아 공항에서 가장 큰 지출을 기록",
+      "summary": "- 중국인 여행객들이 아시아 공항에서 선물, 음식, 명품 구매에 가장 많은 돈을 쓰고 있음.\n- 코로나19 팬데믹 이후 아시아 공항 소매업 회복을 주도하며, 지역 평균보다 두 배 많은 명품 소비.\n- 2024년 중국 아웃바운드 여행 시장은 1,400억 달러 규모이며, 2033년에는 3,860억 달러에 이를 것으로 예상.",
+      "full_translated": "홍콩 — 중국 여행객들이 아시아 지역 공항에서 선물, 음식 및 고급 제품을 구매하는 데 있어 아시아 동료들보다 더 많은 돈을 쓰고 있는 것으로 무역 협회에서 밝혔습니다. \n\n공항협회국제(ACI) 아시아 태평양 및 중동 지부가 이달 초 발표한 연구에 따르면 중국 승객은 코로나바이러스 2019(Covid-19) 팬데믹 이후 아시아 공항 소매업 회복을 주도하며 고급 제품에 대한 지출이 지역 평균의 두 배에 달했습니다. \n\n스테파노 바론치 협회 사무총장은 이달 초 중국 여행객이 팬데믹 이후 기간 동안 '국적별 1인당 최고 지출액'을 기록했다고 밝혔습니다. 그는 지출 회복세가 승객 수 회복세를 앞질렀다고 덧붙였습니다. \n\n이러한 추세는 중국 경제의 다른 부문에서 수요가 부진한 상태에서도 팬데믹 이후 강력하게 반등한 중국 아웃바운드 여행 시장의 강점을 반영합니다. HSBC 보고서에 따르면 이 시장은 2024년에 약 1,400억 달러의 가치가 있었으며 2033년에는 3,860억 달러에 이를 것으로 예상됩니다. \n\n바론치에 따르면 많은 중국 여행객들이 집으로 돌아갈 때 선물로 주기 위해 공항에서 제과류 제품을 구매하는 것을 선택합니다. 승객의 약 27%가 이러한 과자를 '선호하는 범주'라고 불렀고, 현지 제품이 17%, 고급 제품이 12%였습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중국인 관광객 소비 패턴 변화는 태국 면세점 및 관련 사업에 간접적인 영향을 줄 수 있으며, 쇼핑 전략에 참고 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Chinese shoppers are Asia's biggest airport spenders",
+          "url": "https://www.bangkokpost.com/business/general/3203458/chinese-shoppers-are-asias-biggest-airport-spenders-study-finds",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203458_700.jpg"
+        }
+      ],
+      "collected_at": "00:35",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203458_700.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "태국 현지인들이 영어 못한다고 무례하다는 틱톡커 논란",
+      "summary": "- 틱톡커 Farah Shams가 태국 여행 중 현지인들이 영어를 못하거나 번역 앱을 사용하지 않는다고 비판해 논란이 일고 있음.\n- 그녀는 태국을 좋아하지만, 영어를 이해하지 못하고 무시하는 태도가 무례하다고 주장함.\n- 일부 네티즌들은 그녀에게 태국에 오지 말라고 하거나 태국을 옹호하는 반응을 보임.",
+      "full_translated": "방콕 – 240만 명이 넘는 틱톡 팔로워를 보유한 소셜 미디어 인플루언서 Farah Shams가 태국 현지인 대다수의 무례한 행동에 대한 비판 영상을 게시하여 논란을 일으켰습니다. 조회수 40만 회에 육박하는 이 영상에서 Shams는 태국을 '진심으로' 사랑하고 '사랑스러운 곳'이라고 칭찬했지만, '대다수'의 현지인들이 왜 외국인과 관광객에게 무례하게 대하는지에 대해 의문을 제기했습니다. 그녀는 현지인들에게 영어로 말을 걸었을 때 많은 사람들이 그녀를 이해하지 못하고 소통하려는 시도조차 없이 무시하는 것처럼 보였다고 말했습니다. \n\n“언어 장벽은 인간에게 매우 자연스러운 현상이며, 특히 세계 반대편으로 갈 때는 더욱 그렇습니다.”라고 그녀는 말했습니다. “하지만 제가 무슨 말을 하는지 이해가 안 된다면 구글 번역기를 꺼내세요. 저를 무시하지 마세요. 그냥 '영어를 못한다'고 말하세요.” Shams는 자신의 경험을 터키와 이집트 여행과 비교하며, 그곳도 '꽤 나쁘다'고 말했지만 태국이 '그 모든 곳을 능가한다'고 덧붙였습니다. 일부 현지인들은 '사랑스럽다'고 언급하면서도 대다수가 '내가 만난 사람 중 가장 무례한 사람들'이라고 말했습니다. 비판에도 불구하고 그녀는 여전히 태국을 사랑하기 때문에 다시 돌아올 것이라고 말했습니다. \n\n이 영상은 온라인에서 강력한 반응을 불러일으켰습니다. 일부 사용자는 그녀에게 '오지 말라'고 말하는 반면, 다른 사용자는 태국을 옹호했습니다. 한 댓글 작성자는 번역 앱은 양방향으로 작동한다고 말했고, 다른 댓글 작성자는 태국에 살았다고 썼습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 중 발생할 수 있는 문화적 차이 및 오해에 대한 정보 제공. 여행객의 불쾌감을 야기할 수 있는 상황에 대한 간접적 인지. 다만 심각한 안전 문제는 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TikToker says most Thai locals are rude for not speaking English or using translation apps",
+          "url": "https://www.khaosodenglish.com/life/2026/02/23/tiktoker-says-most-thai-locals-are-rude-for-not-speaking-english-or-using-translation-apps/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page00000-1.jpg"
+        }
+      ],
+      "collected_at": "00:35",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/page00000-1.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "싱가포르, 까마귀 공격 급증에 따라 '까마귀 사살' 조치 재개",
+      "summary": "- 싱가포르에서 까마귀 개체 수가 급증하고 공격 사례가 늘어남에 따라 까마귀 사살 조치를 재개할 예정임.\n- 2069년 2월 23일, 국가개발부 장관은 3월 하반기부터 까마귀 개체 수 관리를 위해 사살 조치를 다시 시행할 것이라고 밝힘.\n- 2063년 이후 다른 방법들이 효과적이지 않아 사살 조치가 재개되며, 안전 수칙을 철저히 준수할 예정임.",
+      "full_translated": "싱가포르가 까마귀 공격 증가로 인해 '까마귀 사살' 조치를 다시 시작합니다. 6년 이상 중단되었던 조치가 다시 시행되는 이유는 까마귀 개체 수가 증가했기 때문입니다. 2069년 2월 23일, 치 홍 탓 국가개발부 장관은 국립공원위원회(NParks)가 3월 하반기부터 '사살'을 통해 까마귀를 제거하는 조치를 재개할 것이라고 밝혔습니다. 이러한 결정은 국가개발부와 내무부, 싱가포르 경찰청 간의 논의 끝에 이루어졌습니다. 까마귀 사살 작전은 2063년, 담당자가 총을 쏘다가 민가에 맞히는 사고가 발생한 후 중단되었습니다. 그러나 치 장관은 이후 까마귀 개체 수 관리를 위한 다른 조치들, 예를 들어 까마귀 포획 및 이동, 둥지 제거, 인간이 만들어내는 먹이원 감소 노력 등이 사살 조치와 함께 사용되지 않으면 충분하지 않다는 것이 입증되었다고 말했습니다. 치 장관은 “2068년 한 해 동안에만 시정촌 서비스 사무소는 까마귀 관련 불만 사항을 약 15,000건 접수했는데, 이는 2063년에 비해 3배 이상 증가한 수치입니다.”라고 말하며, 까마귀 공격 보고 건수도 4배 증가하여 같은 해 2,000건이 넘었다고 덧붙였습니다. “까마귀 개체 수가 계속 증가하면 까마귀 공격이 더욱 빈번해져 주민들의 안전에 영향을 미칠 것입니다.”라고 치 장관은 말했습니다. “이러한 이유로 저는 NParks에게 싱가포르의 까마귀 개체 수를 줄이는 방법 중 하나로 사살 조치를 다시 시행하라고 지시했습니다.” 치 장관은 까마귀 사살 작전이 산탄총 사용으로 인해 어느 정도 위험이 따를 것이라는 점을 인정하면서, 사살 임무를 수행하는 사람은 엄격한 안전 조치를 준수해야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 도심 환경과 관련된 정보이므로 포함. 까마귀 공격에 대한 주의를 환기.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สิงคโปร์ จ่อเริ่มมาตรการ “ยิงอีกา” อีกครั้ง หลังเหตุกาโจมตีพุ่ง 4 เท่า",
+          "url": "https://www.thairath.co.th/news/foreign/2916000",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZvEbZkwfE0q.jpg"
+        }
+      ],
+      "collected_at": "00:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZvEbZkwfE0q.jpg",
+      "date": "2026-02-24"
     }
   ]
 }
