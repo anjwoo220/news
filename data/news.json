@@ -33222,14 +33222,9 @@
       "summary": "- 14세 소녀가 16세 선배에게 속아 5명의 청소년에게 술에 취한 채 성폭행 당하고 영상이 유포됨.\n- 피해자는 성매매를 거부한 후 협박을 받았으며, 사건은 차이나트 지역에서 발생.\n- 경찰은 가해 청소년 5명과 유인한 선배를 소환 조사할 예정.",
       "full_translated": "14세 소녀가 16세 선배에게 속아 13-16세 사이의 남자 청소년 5명에게 술에 취한 채 성폭행을 당하고 영상이 유포된 사건이 발생했습니다. 피해자는 성매매를 거부한 후 협박을 받았으며, 사건은 차이나트 지역에서 발생했습니다. 경찰은 가해 청소년 5명과 유인한 선배를 소환 조사할 예정입니다. 피해자는 1월 1일 친구들과 함께 사원 축제에 갔다가 선배인 A양이 친구 집에 가자고 꼬드겨 C군의 집으로 갔습니다. 그곳에서 술을 마시게 되었고, 술에 취해 정신을 잃은 사이 남자 친구들에게 성폭행을 당했습니다. 이후 A양은 피해자를 깨워 집으로 돌려보냈습니다. 피해자는 나중에 친구들에게 성폭행을 당했다는 사실을 알게 되었고, 영상에는 전자담배와 오토바이 쇼크 업소버를 이용한 행위도 담겨 있었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행자 안전에 대한 잠재적 위협(범죄)이 있으므로 정보 제공. 특히 미성년자 대상 범죄는 심각한 문제.",
-      "event_info": {
-        "date": "2069-02-29",
-        "location": "차이나트 주, 느언캄 지역",
-        "price": null,
-        "location_google_map_query": "느언캄 지역, 차이나트 주"
-      },
+      "event_info": "{'date': '2069-02-29', 'location': '차이나트 주, 느언캄 지역', 'price': None, 'location_google_map_query': '느언캄 지역, 차이나트 주'}",
       "references": [
         {
           "title": "สลดใจ เหยื่อสาววัย 14 ร้องโดนรุ่นพี่ลวงให้ 5 ทรชนล่วงละเมิด-ปล่อยคลิปว่อน",
@@ -33240,21 +33235,18 @@
       ],
       "collected_at": "22:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzzdHhNkyhl3F.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/crime/2915992",
+      "source": ""
     },
     {
       "title": "네팔에서 버스 추락 사고 발생, 영국인 포함 19명 사망",
       "summary": "- 네팔에서 버스가 200m 계곡 아래로 추락하여 19명이 사망했습니다.\n- 사망자 중에는 영국인 관광객도 포함되어 있습니다.\n- 사고 버스는 포카라에서 카트만두로 향하던 중이었습니다.",
       "full_translated": "네팔에서 버스가 200m 이상 깊이의 계곡으로 추락하여 최소 19명이 사망했습니다. 사망자 중에는 영국인 관광객도 포함되어 있습니다. 2069년 2월 23일 월요일, 네팔 경찰은 버스가 산길에서 미끄러져 트리슐리 강둑의 200m 깊이 계곡으로 추락했다고 밝혔습니다. 사고 버스는 관광 도시 포카라에서 카트만두로 향하던 중이었습니다. 경찰에 따르면 탑승자 44명 중 19명이 사망했고, 25명이 치료를 받고 있습니다. 사망자 중에는 영국 국적자 1명이 포함되어 있으며, 중국인 1명과 뉴질랜드인 1명도 부상을 입었습니다. 구조 작업은 완료되었으며 부상자들은 치료를 받고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전 관련 사고 소식이며, 외국인 사망자가 포함되어 있어 정보 제공 가치가 있다고 판단됨. 여행 주의 필요.",
-      "event_info": {
-        "date": "2069-02-23",
-        "location": "네팔, 다딩 지구",
-        "price": null,
-        "location_google_map_query": "다딩 지구 네팔"
-      },
+      "event_info": "{'date': '2069-02-23', 'location': '네팔, 다딩 지구', 'price': None, 'location_google_map_query': '다딩 지구 네팔'}",
       "references": [
         {
           "title": "รถบัสเนปาล ตกเหวลึก 200 ม. ดับแล้ว 19 ศพ รวมชาว UK",
@@ -33265,21 +33257,18 @@
       ],
       "collected_at": "22:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzzj2SzxDHqPQ.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/foreign/2915993",
+      "source": ""
     },
     {
       "title": "태국 지진 경보 해제: 독일 지구과학연구센터, 오보 가능성 확인",
       "summary": "- 독일 지구과학연구센터(GFZ)가 태국에서 발생했다는 규모 6.5 지진 경보를 해제함.\n- GFZ 대변인은 초기 보고가 '오류'인지 확인 중이라고 밝힘.\n- 태국 기상청은 태국 내에서 지진이 발생하지 않았다고 발표.",
       "full_translated": "독일 지구과학연구센터(GFZ)는 월요일 새벽 태국에서 규모 6.5의 지진이 발생했다는 경고를 웹사이트에서 삭제했습니다. GFZ 대변인은 해당 기관이 더 이상 태국에서 지진을 보고하지 않으며 초기 보고가 '오류'인지 확인하고 있다고 확인했습니다. 태국 기상청은 태국 내에서 진앙이 있는 지진은 없었다고 밝혔습니다. GFZ는 인근 보르네오 섬 해안에서 발생한 지진에 대한 별도 보고서가 나온 지 몇 분 만에 태국에서 지진을 보고했습니다. 보르네오 보고서는 삭제되지 않았습니다. 다른 지진 감시 공공 기관과 마찬가지로 독일 연구 센터는 추가 정보로 보고서를 자주 업데이트하고 허위로 판명된 보고서를 때때로 삭제합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "지진 발생 정보는 여행 안전에 영향을 줄 수 있으므로 중요. 다만 오보로 판명되어 경보가 해제되었으므로, 여행객에게 혼란을 주지 않도록 신속하게 업데이트된 정보를 제공하는 것이 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "GFZ removes alert on Thailand quake",
@@ -33290,21 +33279,18 @@
       ],
       "collected_at": "22:12",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/thailand/general/3203230/gfz-removes-alert-on-thailand-quake",
+      "source": ""
     },
     {
       "title": "미얀마 스캠 거점에서 도피한 중국인들, 딱 주에서 체포",
       "summary": "- 미얀마 Shwe Kokko의 악명 높은 스캠 허브에서 도피한 중국인 20명이 딱 지방의 매솟 지역으로 넘어와 불법 입국 혐의로 체포됨.\n- 군 병력이 이들이 짐을 들고 강을 건너 태국 영토로 들어오는 것을 발견, 검거함.\n- 이들은 합법적인 국경 통과 지점을 통하지 않고 입국하여 불법 체류한 혐의를 받고 있으며, 딱 출입국 관리소로 넘겨져 법적 절차를 밟을 예정.",
       "full_translated": "미얀마 Shwe Kokko의 악명 높은 스캠 허브에서 도피한 중국인 20명이 월요일 아침 태국 딱 지방의 매솟 지역으로 Moei 강을 건너 불법 입국 혐의로 체포되었습니다. 육군 라차마누 태스크 포스 부대는 이들이 매솟 지역의 매파 탐본 반 왕깨우 2 마을에서 강을 건너 태국 영토로 들어오는 동안 가방을 높이 들고 있는 것을 발견했습니다. 일단 건너자마자 그들은 구금되어 수색을 받았습니다. 태스크 포스 대변인은 그들 중 4명만이 여권을 소지하고 있었다고 말했습니다. 나머지는 여행 서류가 없었습니다. 그들은 허가된 자연 국경 통과 지점을 통해 왕국에 입국하고 불법적으로 국내에 체류한 법률을 위반했습니다. 구금자들은 법적 절차를 위해 딱 출입국 관리소 관리들에게 넘겨졌습니다. 당국은 태국-미얀마 국경을 따라 불법 국경 통과가 끊이지 않고 있으며, 특히 매솟 지역 왕깨우 마을 맞은편의 Shwe Kokko에서 온라인 스캠 작전에서 도피하는 외국인들이 많다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국-미얀마 국경 지역의 치안 문제와 관련된 뉴스로, 여행객 안전에 영향을 미칠 수 있는 요소가 존재함. 불법적인 활동이 증가할 가능성이 있어 주의가 필요.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "딱 주 매솟 지역 반 왕깨우",
-        "price": null,
-        "location_google_map_query": "Ban Wang Kaew, Mae Sot District, Tak, Thailand"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': '딱 주 매솟 지역 반 왕깨우', 'price': None, 'location_google_map_query': 'Ban Wang Kaew, Mae Sot District, Tak, Thailand'}",
       "references": [
         {
           "title": "Chinese fleeing Myanmar scam hub arrested in Tak province",
@@ -33315,21 +33301,18 @@
       ],
       "collected_at": "22:12",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203333_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/thailand/general/3203333/chinese-fleeing-myanmar-scam-hub-arrested-in-tak-province",
+      "source": ""
     },
     {
       "title": "쁘라찐부리 군 부대 내 병사 사망 사건, 사령관 직위 해제 및 조사 착수",
       "summary": "- 병사 사망 원인에 대한 의혹 제기로 사령관 직위 해제\n- 군, 중앙 조사위원회 구성하여 투명하고 공정한 조사 약속\n- 유족에게 깊은 위로를 표하며, 잘못이 있을 경우 엄중 처벌할 것",
       "full_translated": "쁘라찐부리 지방의 한 군부대에서 발생한 병사 사망 사건과 관련하여, 제1군단은 사령관을 직위 해제하고 중앙에서 파견된 조사위원회를 구성하여 사건의 진상을 철저히 조사할 것을 명령했습니다. 사망한 병사는 펫차랏 일병으로, 초기 부검 결과 급성 심부전으로 인한 사망으로 밝혀졌으나, 유족 측에서 사망 원인에 대한 의혹을 제기하여 군에서 추가 조사를 진행하게 되었습니다. 군은 이번 조사를 통해 모든 의혹을 해소하고 투명하게 결과를 공개할 것을 약속했으며, 만약 부대 내 잘못이 발견될 경우 관련자들을 엄중히 처벌할 것이라고 밝혔습니다. 또한 군은 펫차랏 일병의 유족에게 깊은 위로를 전하며, 이번 사건으로 인해 발생한 모든 어려움에 대해 최대한 지원할 것을 약속했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 내 사회 이슈에 대한 정보 제공 차원에서 포함. 군 관련 사건은 여행 시 주의를 요할 수 있는 간접적인 요소.",
-      "event_info": {
-        "date": null,
-        "location": "ปราจีนบุรี (Prachinburi)",
-        "price": null,
-        "location_google_map_query": "Prachinburi Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'ปราจีนบุรี (Prachinburi)', 'price': None, 'location_google_map_query': 'Prachinburi Thailand'}",
       "references": [
         {
           "title": "“ทภ.1” สั่งเด้ง ผบ.เรือนจำ มทบ.12 เข้ากรุ ตั้งกรรมการสอบเพิ่มปมพลทหารเสียชีวิต",
@@ -33340,6 +33323,131 @@
       ],
       "collected_at": "22:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xzz716HRJac8V.jpg",
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/politic/2915997",
+      "source": ""
+    },
+    {
+      "title": "방콕, 자전거 공유 서비스 확산으로 새로운 교통수단으로 부상",
+      "summary": "- 방콕에서 자전거 공유 서비스가 대중적인 교통수단으로 자리 잡고 있습니다.\n- BTS, MRT 역 근처에 공유 자전거가 배치되어 'first and last mile' 문제를 해결합니다.\n- Hello PunPun, HelloRide 등 다양한 플랫폼이 운영 중이며, 단거리 이동에 유용합니다.",
+      "full_translated": "방콕의 거리가 조용히 변화하고 있습니다. 이번 변화는 새로운 철도 노선이나 고속도로보다는 자전거에 의해 주도되고 있습니다. BTS 역 아래에 주차된 공유 자전거부터 아스팔트를 되찾는 심야 그룹 라이딩에 이르기까지, 사이클링은 외국인과 현지인 모두에게 수도를 이동하는 실용적이고 예상외로 즐거운 방법으로 부상하고 있습니다. 한때 위험한 환상처럼 느껴졌던 것이 자전거 공유 제도가 돌아오고 점점 더 많은 라이더들이 페달 수준에서 방콕을 시험하면서 주류로 진입하고 있습니다. 이러한 부활은 Hello PunPun 및 HelloRide와 같은 서비스에 의해 촉진되었으며, 이들은 도시가 가장 필요로 하는 곳에 공유 자전거를 배치합니다. BTS 및 MRT 역 근처에 도킹된 이 자전거는 방콕의 고질적인 'first and last mile' 문제를 해결하는 데 도움이 됩니다. 통근자들은 오토바이 택시에 몸을 싣거나 교통 체증에 갇히지 않고 기차에서 내려 여정을 계속할 수 있어 짧은 도시 여행을 더 빠르고 종종 더 평온하게 만들 수 있습니다. 그들은 더 이상 혼자가 아닙니다. 기술 사이트 DroidSans는 현재 방콕에서 운영 중인 Anywheel, GCOO, Pundai 및 Hello PunPun을 포함한 여러 자전거 공유 플랫폼을 나열하며, 주요 지역에 수백 대의 자전거가 흩어져 있습니다. 시범 단계에서는 일부 계획에서 매일 무료 사용을 제공하여 자전거에 대해 궁금하지만 자신의 자전거를 구입하기를 꺼리는 초보자의 장벽을 낮추기도 했습니다. 공식은 의도적으로 간단합니다. 짧은 라이딩, 직관적인 앱, 사람들이 이미 매일 지나다니는 곳에 배치된 스테이션.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕의 교통수단 변화에 대한 정보로, 여행자들의 이동 편의성에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Two wheels reshape Bangkok’s daily commute",
+          "url": "https://www.bangkokpost.com/life/travel/3203464/two-wheels-reshape-bangkoks-daily-commute",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c2_3203464_260223170656.jpg"
+        }
+      ],
+      "collected_at": "23:10",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c2_3203464_260223170656.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "말레이시아, 태국 국경 불법 경로에 보안 철조망 추가 설치",
+      "summary": "- 말레이시아 당국, 태국과의 불법 국경 경로에 보안 철조망 추가 설치 계획\n- 국경 통제 강화 및 밀수, 인신매매, 마약 등 범죄 억제 목적\n- 1차로 나라티왓 주 순가이 콜록 지역 맞은편 27개 경로에 1.5km 철조망 설치 완료",
+      "full_translated": "말레이시아 보안 당국은 1단계 완료 후 태국과 접경한 나머지 불법 경로에 가시 철조망을 설치하기 위해 정부로부터 추가 예산을 요청할 예정입니다. Ahmad Radzi 말레이시아 여단장은 국가안보위원회를 통해 정부의 재정 지원을 요청하여 69개의 철거된 부두에 있는 69개의 쥐 길을 영구적으로 폐쇄하기 위한 보안 울타리를 추가로 설치할 것이라고 Bernama가 보도했습니다. 이번 조치는 이번 달 나라티왓 주 순가이 콜록 지역 맞은편 27개 경로에 1.5km의 가시 철조망 건설 1단계가 완료된 데 따른 것입니다. 모든 불법 경로는 골록 강을 따라 무단으로 건설된 부두에서 시작됩니다. 말레이시아는 이미 클란탄 주와 나라티왓 사이의 밀수, 인신매매, 불법 약물 및 기타 국경 횡단 범죄를 퇴치하기 위해 모든 부두를 철거했습니다. 전체 울타리 프로젝트 비용은 100,000 링깃(800,000 바트)으로 추산됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국경 지역 여행 시 주의 필요. 범죄 관련 소식은 여행객 안전에 간접적 영향.",
+      "event_info": {
+        "date": null,
+        "location": "나라티왓 주 순가이 콜록",
+        "price": "800,000 바트 (예상)",
+        "location_google_map_query": "Sungai Kolok, Narathiwat"
+      },
+      "references": [
+        {
+          "title": "Malaysia to install more security wire on illegal routes bordering Thailand",
+          "url": "https://www.bangkokpost.com/thailand/general/3203350/malaysia-to-install-more-security-wire-on-illegal-routes-bordering-thailand",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203350_700.jpg"
+        }
+      ],
+      "collected_at": "23:10",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203350_700.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "푸껫, 2032/33년 전문 엑스포 유치 재도전",
+      "summary": "- 푸껫이 2032년 또는 2033년 전문 엑스포 유치를 위해 재도전한다.\n- '장수' 테마를 통해 웰빙 및 지속 가능한 관광 부문을 홍보할 계획이다.\n- 2027년 엑스포 유치 실패 후, 마이 카오 지역 개발 계획을 되살릴 예정이다.",
+      "full_translated": "푸껫은 올해 전문 엑스포 유치를 위해 재도전할 예정이며, 새로운 '장수' 테마 하에 2032년 또는 2033년에 이 행사를 개최하는 것을 목표로 섬의 웰빙 및 지속 가능한 관광 부문을 홍보할 계획입니다. 지속 가능한 관광 개발 재단의 회장이자 푸껫 관광 협회의 자문위원장인 Bhummikitti Ruktaengam은 월요일 푸껫과 태국 컨벤션 전시국(TCEB)이 2027년 에디션에 대한 첫 번째 시도에서 실패한 후 두 번째 기회를 모색할 것이라고 말했습니다. 푸껫은 2023년에 5명의 후보 중 하나였으며, 세르비아가 2023년에 '인류를 위한 놀이 – 모두를 위한 스포츠와 음악'이라는 테마로 2027년 5월부터 8월 사이에 엑스포를 개최하기로 선정되었습니다. Bhummikitti씨는 푸껫의 마이 카오 지역에 있는 141라이 면적의 이전 개발 계획이 새로운 엑스포 입찰을 위해 되살아날 것이라고 말했습니다. 엑스포 부지는 Ratchaphatsadu Land가 소유하고 공중 보건부와 Vajira 병원에서 관리합니다. 이전 입찰에 따르면 푸껫 엑스포는 '삶의 미래, 조화로운 삶, 번영 공유'라는 테마로 발표되었으며 490만 명의 방문객을 유치하여 490억 바트의 수익과 113,000개의 일자리를 창출할 것으로 예상되었습니다. Bhummikitti씨는 입찰 실패 후 계획된 엑스포 후 시설이 건설되지 않았다고 말했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "푸껫 엑스포 유치 재도전은 관광객 유치 및 지역 경제 활성화에 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 2032년 또는 2033년에 개최 예정이므로 당장 급한 정보는 아님.",
+      "event_info": {
+        "date": "2032-2033",
+        "location": "푸껫, 마이 카오 지역",
+        "price": "미정",
+        "location_google_map_query": "Mai Khao Phuket"
+      },
+      "references": [
+        {
+          "title": "Phuket in fresh bid for Specialised Expo",
+          "url": "https://www.bangkokpost.com/business/general/3203533/phuket-in-fresh-bid-for-Specialised-Expo",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "23:10",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 수출, 바트화 강세에도 불구하고 4년 만에 최고치 기록",
+      "summary": "- 태국의 1월 수출이 전년 대비 24.4% 증가하여 315억 달러를 기록, 4년 만에 최고 성장률을 보임.\n- 이는 인공지능 기술 발전과 디지털 인프라 개발에 따른 전자 제품의 지속적인 글로벌 수요 증가에 힘입은 결과임.\n- 주요 수출 품목은 전기 제품, 자동차 및 자동차 부품이며, 두리안, 망고스틴, 자스민 쌀, 냉동 새우와 같은 농산물 및 가공 식품도 견조한 성장세를 보임.",
+      "full_translated": "태국 무역정책전략실(TPSO)에 따르면 미국의 수입품에 대한 15% 관세 부과 결정 이후 바트화 가치가 수출에 가장 중요한 영향을 미치고 있으며, 태국 수출은 1월에 4년 만에 가장 강력한 성장세를 기록했습니다. 수출은 전년 대비 24.4% 증가한 315억 달러를 기록했으며, 이는 인공지능(AI) 기술로의 전환과 전 세계 디지털 인프라의 가속화된 개발에 따라 전자 제품에 대한 지속적인 글로벌 수요에 의해 주도되었습니다. 한편, 수입은 29.4% 증가한 348억 달러로 33억 달러의 무역 적자를 기록했습니다. 전기 제품, 자동차 및 자동차 부품의 수출은 높은 수준에서 지속적인 성장을 보여 태국이 이 지역에서 신뢰할 수 있는 제조 허브로서의 강력한 입지를 강조했습니다. 두리안, 망고스틴, 자스민 쌀, 냉동 새우와 같은 농산물 및 가공 식품은 이번 달에 견조한 성장세를 재개했습니다. 상무부 산하 TPSO 사무총장인 Nantapong Chiralerspong은 수출 성장이 지속되지만 상승세는 올해 6월까지 둔화될 수 있다고 말했습니다. 수출에 대한 주요 지원 요인으로는 반도체 수요와 글로벌 기술 산업의 지속적인 성장, 강력한 경제 성장을 보이는 주요 교역 파트너의 견조한 수요, 식량 및 과일 수출의 반등 등이 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황에 대한 정보. 환율 변동에 따라 여행 예산에 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai exports hit 4-year high despite strong baht",
+          "url": "https://www.bangkokpost.com/business/general/3203513/thai-exports-hit-4year-high-despite-strong-baht",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203513_260223193141_700.jpg"
+        }
+      ],
+      "collected_at": "23:10",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203513_260223193141_700.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국판 '런닝맨', 온라인에서 뜨거운 반응",
+      "summary": "- 한국 인기 예능 '런닝맨'의 태국 버전이 첫 방송 후 온라인에서 큰 호응을 얻고 있습니다.\n- 태국 유명 연예인들이 출연하여 다양한 게임과 미션을 수행합니다.\n- 매주 일요일 One31 채널과 IQIYI 앱에서 시청 가능합니다.",
+      "full_translated": "태국에서 방영된 '런닝맨 태국' 파일럿 에피소드가 온라인에서 큰 인기를 얻고 있습니다. 지난 일요일 첫 방송된 이 프로그램은 한국의 인기 예능 쇼가 태국에 상륙한 것입니다. IQIYI는 Pramote \"Oat\" Pathan, Worakamol \"Jeff\" Satur, Waruntorn \"Ink\" Paonil, Tawan \"Tay\" Vihokratana, Chawarin \"Nunew\" Perdpiriyawong, Pittaya \"Daou\" Saechua 및 Pongsatorn \"Phuak\" Jongwilas를 포함한 화려한 라인업으로 히트 한국 버라이어티 쇼 \"Running Man\"을 태국에 선보입니다. 이 쇼는 각 에피소드에서 연예인들이 치열한 경쟁과 도전적인 미션을 통과하는 과정을 따라갈 예정입니다. 또한 현재 비밀로 유지되고 있는 특별 게스트 스타들이 출연할 예정입니다. 일부는 한국에서 직접 비행기로 옵니다. 파일럿 에피소드는 지난 2월 22일 일요일에 초연되었으며 매주 일요일 오후 6시에 One31 채널에서 새로운 에피소드가 방영됩니다. 시청자들은 같은 날 오후 8시에 IQIYI 앱에서 무삭제 버전을 시청할 수도 있습니다. \"Running Man Thailand\"는 게임 디자인, 스크립트 작성 및 프로그램 구조를 지원하여 원래의 감각을 잃지 않고 태국 관객에게 더 적합하도록 히트 쇼를 변경할 한국 SBS 스튜디오와의 협업입니다. 이 쇼는 중국, 필리핀, 베트남과 같은 아시아 국가에서 큰 성공을 거두었습니다. 태국에 대한 그들의 첫 번째 벤처는 처음에는 온라인에서 큰 피드백을 받아 X와 같은 소셜 미디어 플랫폼에서 차트를 석권했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 인기 있는 엔터테인먼트 트렌드를 보여주는 기사로, 한류에 관심 있는 관광객에게 흥미로운 정보 제공. 태국 문화 경험에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": "2026-02-22",
+        "location": "One31 채널, IQIYI 앱",
+        "price": "유료/무료 (IQIYI 앱)",
+        "location_google_map_query": "One31 Channel Thailand, IQIYI Thailand"
+      },
+      "references": [
+        {
+          "title": "'Running Man Thailand' pilot episode receives great cheer online",
+          "url": "https://www.bangkokpost.com/life/arts-and-entertainment/3203470/running-man-thailand-pilot-episode-receives-great-cheer-online",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203470_700.jpg"
+        }
+      ],
+      "collected_at": "23:10",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203470_700.jpg",
       "date": "2026-02-23"
     }
   ]
