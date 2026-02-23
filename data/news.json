@@ -33663,14 +33663,9 @@
       "summary": "- 태국 정부가 관광객 대상 60일 무비자 입국 정책을 축소하는 방안을 검토 중임.\n- 외국인 관광객의 무비자 정책 악용 사례 증가에 따른 조치임.\n- 비자 정책 변경은 태국을 방문하는 여행자들에게 큰 영향을 미칠 수 있음.",
       "full_translated": "태국 정부는 최근 외국인 관광객의 무비자 정책 악용에 대한 우려가 커짐에 따라 현재 60일 무비자 입국 정책을 적극적으로 검토하고 있으며, 허용된 체류 기간을 단축하는 방안을 고려하고 있습니다. 태국 외무장관은 확인되지 않은 소문과 추측이 한 달 동안 이어진 후 이번 주에 이를 확인했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객의 입국 및 체류 계획에 직접적인 영향을 미치므로 중요도가 높음. 아침 브리핑에 포함하여 여행객에게 사전 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week: 60 Day Visa Free Entry Under Review For Reduction, and More",
@@ -33679,23 +33674,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/top-national-thailand-stories-from-the-past-week-60-day-visa-free-entry-under-review-for-reduction-and-more/",
+      "source": ""
     },
     {
       "title": "방콕, 미얀마인 4명이 미국인 남성 살해: 관계 다툼이 원인",
       "summary": "- 방콕 촘 통 지역에서 55세 미국인 남성이 미얀마인 4명에게 폭행당해 사망함.\n- 범행 동기는 피해자와 가해자 간의 관계 문제로 추정됨.\n- 여행객 안전에 대한 우려를 야기할 수 있는 사건임.",
       "full_translated": "방콕 촘 통의 길가에서 55세 미국인 남성이 미얀마 국적의 남성 4명에게 잔혹하게 폭행당해 살해당했습니다. 55세 미국인 남성은 관계 분쟁으로 인해 방콕에서 미얀마 남성 4명에게 살해당했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄는 여행객 안전에 직접적인 위협이 되므로 중요함. 해당 지역 여행객에게 주의를 요망하는 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "Chom Thong, Bangkok",
-        "price": null,
-        "location_google_map_query": "Chom Thong Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'Chom Thong, Bangkok', 'price': None, 'location_google_map_query': 'Chom Thong Bangkok'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week: 60 Day Visa Free Entry Under Review For Reduction, and More",
@@ -33704,23 +33696,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/top-national-thailand-stories-from-the-past-week-60-day-visa-free-entry-under-review-for-reduction-and-more/",
+      "source": ""
     },
     {
       "title": "파타야 인근 무장 도주범, 파툼타니에서 검거: 학교 폐쇄 소동",
       "summary": "- 파타야 인근 촌부리에서 발생한 사건의 용의자가 파툼타니 지역에서 도주 중 체포됨.\n- 용의자는 총기 사용 및 폭행 등 다수의 범죄 혐의를 받고 있음.\n- 도주 과정에서 해당 지역 20개 학교가 일시 폐쇄되는 소동이 벌어짐.",
       "full_translated": "당국은 파툼타니 지방의 랏 룸 깨오 지역에서 무장 용의자에 대한 우려가 커짐에 따라 20개 학교에 폐쇄 명령을 내렸습니다. 이 남성은 파타야 인근 촌부리 지방에서 발생한 폭행 및 불법 총기 사용을 포함한 여러 범죄와 관련하여 수배 중입니다. 이후 이 남성은 평화롭게 경찰에 자수했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 인근 지역에서 발생한 사건으로, 여행객 안전에 간접적인 영향을 미칠 수 있음. 특히 해당 지역 방문 예정인 여행객에게 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "Pathum Thani",
-        "price": null,
-        "location_google_map_query": "Pathum Thani"
-      },
+      "event_info": "{'date': None, 'location': 'Pathum Thani', 'price': None, 'location_google_map_query': 'Pathum Thani'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week: 60 Day Visa Free Entry Under Review For Reduction, and More",
@@ -33729,23 +33718,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/top-national-thailand-stories-from-the-past-week-60-day-visa-free-entry-under-review-for-reduction-and-more/",
+      "source": ""
     },
     {
       "title": "제사다, 선거관리위원회의 위법 행위에 대해 감옥행 경고",
       "summary": "- 제사다 토나와닉 Rak Chart Party 총리 후보는 선거관리위원회가 위법 행위를 계속할 경우 투옥될 수 있다고 경고했습니다.\n- 그는 선관위의 선거 관리가 모호하고 갑작스러운 변경으로 가득 차 있다고 비판했습니다.\n- 제사다는 선관위가 시민의 권리와 자유 침해 의혹에 대한 의혹을 해소하지 못하면 법적 위험에 직면할 수 있다고 경고했습니다.",
       "full_translated": "방콕 — 2026년 2월 23일, Rak Chart Party의 총리 후보인 제사다 토나와닉은 선거관리위원회(EC)가 투표용지 변경에 대한 논란이 거세지는 가운데 불법적으로 직무를 계속 수행할 경우 투옥될 수 있다고 경고했습니다. \n\n인터뷰에서 제사다는 선관위의 선거 관리가 모호함과 갑작스러운 변경으로 가득 차 있으며, 특히 투표용지와 관련하여 대중에게 명확한 설명 없이 이루어졌다고 말했습니다. 그가 부당한 행위라고 묘사한 것을 위원회가 계속 고집한다면 \"감옥이 기다리고 있다\"고 그는 말했습니다. 그는 선관위가 투표용지 디자인과 같은 세부 사항을 조정하는 데 \"특히 부지런\"하면서도 대중에게 제대로 알리지 못한다고 비판했습니다. \n\n그는 처음부터 위원회가 녹색 또는 분홍색 투표용지가 몇 종류인지, 모양은 어떤지, 노란색 국민투표 투표용지의 목적을 포함하여 각각의 용도가 무엇인지 명확히 해야 했다고 말했습니다. 대신 QR 코드 및 바코드 사용을 포함하여 적절한 설명 없이 새로운 투표용지가 도입되었다고 그는 말했습니다. \n\n제사다는 선관위가 시민의 권리와 자유 침해 의혹에 대한 의혹을 해소하지 못하면 법적 위험에 직면할 수 있으며, 잠재적으로 선거를 무효화하기 위한 법적 조치로 이어질 수 있다고 경고했습니다. 그러한 결과는 특정 지역구의 보궐선거뿐만 아니라 이미 수행된 전체 선거 절차를 해체해야 할 수도 있기 때문에 막대한 피해를 초래할 것이라고 그는 말했습니다. 그는 선관위가 명확하게",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 선거 관련 불확실성은 정치적 불안정으로 이어질 수 있으며, 여행자에게 간접적인 영향을 미칠 수 있습니다. 다만, 직접적인 위협은 아니므로 중간 점수를 부여합니다. 아침 브리핑에 적합합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Jesada warns Election Commission over jail risk",
@@ -33754,23 +33740,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Jesada-warns-Election-Commission-over-jail-risk-1.jpg"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Jesada-warns-Election-Commission-over-jail-risk-1.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.khaosodenglish.com/news/2026/02/23/jesada-warns-election-commission-over-jail-risk/",
+      "source": ""
     },
     {
       "title": "시라차 배달 기사, 첫 주문 배달 중 오토바이 도난으로 큰 피해",
       "summary": "- 시라차에서 배달 기사가 아침 첫 주문을 위해 오토바이를 잠시 세워둔 사이 도난당함.\n- 피해자는 오토바이가 유일한 수입원이며, 할부금도 남아 있어 생계에 어려움을 겪고 있다고 호소함.\n- 경찰은 CCTV 영상을 확보하여 용의자를 추적 중.",
       "full_translated": "시라차에 거주하며 배달 기사로 일하는 마룻 쟁우암(또는 쟁 아움)씨는 오늘 아침 6시 40분경 무 8리에 있는 신선 시장 앞에서 오토바이를 도난당했다고 신고했습니다. 마룻씨에 따르면 그는 구운 생선과 바비큐 돼지고기인 첫 주문을 받기 위해 검은색과 회색 혼다 웨이브 100 오토바이(번호판 싸암 꺼 퍼 하 쩌 9 싸암 쩌 촌부리)를 시장 밖에 주차했습니다. 그는 물건을 받기 위해 재빨리 안으로 들어가면서 키를 꽂아둔 채로 있었습니다. 잠시 후 돌아왔을 때 배달 상자가 부착된 오토바이가 사라졌습니다. 충격과 절망에 빠진 마룻씨는 즉시 시장 CCTV 카메라 영상을 요청했습니다. 영상에는 용의자가 명확하게 보입니다. 그는 날씬하고 키가 중간 정도 되는 남성으로 녹색 셔츠와 긴 바지를 입고 있었습니다. 도둑은 주차된 오토바이 근처에서 서성이며 주변을 돌다가 접근하여 올라타고 시라차 중심으로 향해 달아났습니다. 그는 아무런 방해 없이 도주했으며 아직 잡히지 않았습니다. 마룻씨는 CCTV 증거를 가지고 시라차 경찰서에 정식 고소장을 제출했습니다. 기자들에게 마룻씨는 이번 사건에 대해 깊은 고통을 표현했습니다. 그는 \"이 오토바이는 저의 유일한 수입원입니다. 다른 직업이 없고 가족을 부양하기 위해 전적으로 음식 배달에 의존하고 있습니다.\"라고 말했습니다. \"지금 심각한 곤경에 처했습니다. 오토바이는 아직 이만 바트가 남아 있는 할부 중이며 매달 납부해야 합니다. 게다가 제 업무용 전화도 할부 중이고, 월세, 식비, 생활비도 있습니다. 저는 하루 벌어 하루 먹고 살고 있습니다.\"",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "오토바이 도난 사건은 여행자에게 직접적인 위협은 아니지만, 현지 치안 상황을 간접적으로 보여주므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "시라차",
-        "price": null,
-        "location_google_map_query": "시라차 시장"
-      },
+      "event_info": "{'date': None, 'location': '시라차', 'price': None, 'location_google_map_query': '시라차 시장'}",
       "references": [
         {
           "title": "Delivery Rider in Sri Racha Devastated After Motorcycle Stolen While Picking Up First Order of the Day",
@@ -33779,8 +33762,133 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771859276759798789871775689645.jpg?v=1771859353"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771859276759798789871775689645.jpg?v=1771859353",
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/delivery-rider-in-sri-racha-devastated-after-motorcycle-stolen-while-picking-up-first-order-of-the-day/",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 18륜 트럭이 상업 건물 들이받아 2명 부상",
+      "summary": "- 파타야에서 18륜 트럭이 상업 건물을 들이받아 건물과 주변 상점 파손.\n- 트럭 운전자와 노점상인 부상, 병원으로 이송.\n- 경찰은 사고 경위를 조사 중.",
+      "full_translated": "파타야 뉴스에 따르면 방라뭉 경찰서의 수사관인 싯티왓 차와크루테라트 경찰 중령은 고속도로 7호선(모터웨이)과 평행한 도로, Moo 4의 킬로미터 표지 112+600-700 근처에서 발생한 충돌 보고에 응답했습니다. 경찰은 파타야의 Sawang Boriboon Thammasathan 재단 구조팀과 함께 현장에 도착했습니다. 현장에는 흰색 Hino 18륜 트럭(번호판 75-6354 촌부리)이 4층, 7개 유닛 상업 건물 중앙으로 직접 돌진했습니다. 트럭의 운전석이 벽을 뚫고 구조물 깊숙이 침투하여 건물이 심하게 손상되었습니다. 구내에 주차된 오토바이와 세단은 무너지는 콘크리트 벽에 깔렸습니다. 충격 지점 옆에는 \"위치안부리 구운 닭\"으로 알려진 인기있는 쏨땀(파파야 샐러드)과 구운 닭 노점이 있었는데, 충돌의 힘으로 거의 모든 장비와 상품이 파괴되었습니다. 트럭 운전자인 45세의 Jit Ti Hongdee 씨와 쏨땀 노점상인 53세의 Lek Phan Kluang 씨 두 명이 경미한 부상을 입고 파타야 팟마쿤 병원으로 이송되었습니다. 구운 닭 가게 주인인 58세의 위티야 자이 티앙 씨는 파타야 뉴스에 끔찍한 순간을 설명했습니다. 그는 하루를 시작하기 위해 그릴에 불을 붙이려고 준비하고 있었는데, 거대한 트럭이 갑자기 경고 없이 건물로 돌진했습니다. 충격으로 모든 것이 쓸려나가 재료를 준비하던 아내가 잔해 속에서 쓰러져 부상을 입었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "사고로 인한 부상자 발생 및 주변 상점 파손. 여행자 안전에 잠재적 영향.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "Pattaya"
+      },
+      "references": [
+        {
+          "title": "Two People Injured in Pattaya After 18 Wheeler Smashes Into Commercial Building Causing Significant Damage",
+          "url": "https://thepattayanews.com/2026/02/23/two-people-injured-in-pattaya-after-18-wheeler-smashes-Into-commercial-building-causing-significant-damage/",
+          "source": "The Pattaya News"
+        }
+      ],
+      "collected_at": "03:36",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "파타야 좀티엔 해변, 몬순으로 해양 쓰레기 몸살…당국, 긴급 정화 작업",
+      "summary": "- 파타야 당국이 좀티엔 해변에 밀려온 대량의 해양 쓰레기 제거 작업에 돌입했습니다.\n- 몬순 기후로 인해 플라스틱, 스티로폼, 나무 조각 등 다양한 쓰레기가 해변을 덮쳤습니다.\n- 당국은 해변의 매력을 되살리고 방문객 안전을 확보하기 위해 정화 작업에 총력을 기울이고 있으며, 시민들에게 해양 환경 보호를 당부했습니다.",
+      "full_translated": "파타야시 천연자원환경국 산하 위생 및 환경자원부서는 누적된 쓰레기를 지속적으로 수거 및 제거하기 위해 공무원 팀과 함께 중장비를 배치했습니다. 이번 작전은 해변의 매력을 되살리고 방문객의 안전을 최대한 빨리 확보하기 위한 것입니다. 플라스틱 파편, 스티로폼 상자, 물병, 유목, 통나무, 철못과 같은 위험한 물품을 포함한 쓰레기의 유입은 계절풍 조건 때문입니다. 3월에서 4월 사이에는 탁월풍이 육지로 불어 해류를 유발하여 먼 곳에서 쓰레기를 해안으로 운반합니다. 이러한 자연 현상으로 인해 해상 상황이 거칠어지면 세척된 폐기물의 양이 증가하는 경우가 많습니다. 지역 상인과 해변 이용객은 날씨가 폭풍우로 변하면 이러한 사건이 정기적으로 발생하며 날카롭거나 위험한 물체가 쓰레기에 섞여 부상을 입을 수 있다는 우려 때문에 관광객이 수영을 자제하는 경우도 있다고 언급했습니다. 파타야 당국은 대중에게 호소하여 태국 전역의 주민과 방문객에게 환경에 대한 집단적 책임을 져달라고 촉구했습니다. 그들은 사람들에게 폐기물을 바다에 버리거나 공공 장소에 몰래 버리거나 어떤 식으로든 쓰레기를 버리지 말라고 요청했습니다. 성명은 “버려지는 모든 쓰레기는 결국 우리 해안으로 돌아온다”고 밝혔습니다. “아름다운 바다는 한 사람만으로 이루어지는 것이 아니라 모두가 협력하여 보호하기 때문에 아름다워지는 것입니다.” 라고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "해변 환경 오염으로 인한 여행 경험 저하 가능성. 안전 문제 및 미관상 문제 발생.",
+      "event_info": {
+        "date": null,
+        "location": "좀티엔 해변, 파타야",
+        "price": null,
+        "location_google_map_query": "좀티엔 해변, 파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya Authorities Mobilize to Clear Extensive Marine Debris Washed Ashore on Jomtien Beach",
+          "url": "https://thepattayanews.com/2026/02/23/pattaya-authorities-mobilize-to-clear-extensive-marine-debris-washed-ashore-on-jomtien-beach/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718403781152117276251380179595.jpg?v=1771840812"
+        }
+      ],
+      "collected_at": "03:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718403781152117276251380179595.jpg?v=1771840812",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "태국 국방부 장관 대행, 캄보디아 군의 무분별한 국경 방화 비난 및 충돌 가능성 경고",
+      "summary": "- 태국 국방부 장관 대행이 캄보디아 군의 국경 지역 방화 행위를 비난하며 긴장 고조.\n- 분쟁 지역 내 지뢰 문제에 대한 우려 표명과 함께 외교적 노력을 훼손하는 행위라고 지적.\n- 양국 간 오랜 국경 분쟁의 배경 속에서, 추가적인 무력 충돌 가능성을 경고.",
+      "full_translated": "태국 국방부 장관 대행인 겐. 나탑폰은 월요일 고위급 국방 회의 후 기자들에게 태국의 우려를 표명하기 위해 캄보디아 상대인 겐. 티 세이하에게 직접 연락했다고 밝혔습니다. 그는 태국이 이전에 분쟁 지역에 심어진 지뢰에 대해 경고음을 울렸으며 현재 국경 화재로 인해 똑같이 어려움을 겪고 있다고 말했습니다. “캄보디아가 진정으로 문제를 평화롭게 해결하길 원한다면 이것은 방법이 되어서는 안 됩니다.”라고 겐. 나탑폰은 말하며 그러한 행동은 외교적 노력을 훼손하고 위험을 고조시킨다고 덧붙였습니다. 이번 비난은 프랑스로부터 캄보디아가 독립한 후 1950년대부터 시작된 태국과 캄보디아 간의 오랜 국경 분쟁을 배경으로 이루어졌습니다. 이 갈등은 고대 프레아 비히어 사원을 포함한 영토 주장을 중심으로 전개되었으며, 2025년 무력 충돌과 부분적인 미국 중재 휴전이 포함된 가장 최근의 주요 확대와 함께 주기적으로 격화되었습니다. 최근 몇 달 동안 지뢰와 관련된 사건으로 태국 군인들이 부상을 입었고 방콕은 휴전 협정을 중단하겠다고 위협했습니다. 태국 당국은 또한 캄보디아 측의 총격전과 도발 혐의를 보고했습니다. 겐. 나탑폰은 또한 캄보디아 군이 태국 군인들이 캄보디아 인력을 쏘아 부상시켰다는 근거 없는 주장을 포함하여 태국군에 대한 허위 주장을 퍼뜨리고 있다고 주장했습니다. 그는 이용 가능한 증거가 이러한 주장을 뒷받침하지 않으며, 이를 선동하려는 시도라고 설명했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국-캄보디아 국경 분쟁 관련 소식으로, 여행객의 안전에 직접적인 위협은 아니지만, 해당 지역 여행 시 주의가 필요할 수 있음. 최신 정보이므로 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai Acting Defense Minister Accuses Cambodian Troops of Undisciplined Border Burning, Warns of Potential Clashes",
+          "url": "https://thepattayanews.com/2026/02/23/thai-acting-defense-minister-accuses-cambodian-troops-of-undisciplined-border-burning-warns-of-potential-clashes/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260223_2032232895650749227991460.jpg?v=1771853593"
+        }
+      ],
+      "collected_at": "03:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260223_2032232895650749227991460.jpg?v=1771853593",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "파타야, 불법 건축물 소유주에 대한 추가 법적 조치",
+      "summary": "- 파타야 시 당국이 건설 중단 명령을 위반한 해안가 콘도 소유주에 대해 법적 조치를 취함.\n- 해당 건물은 2014년부터 법적 문제로 건설이 중단된 상태이며, 건물 사용 금지 명령을 위반함.\n- 위반 시 최대 6개월의 징역 또는 10만 바트의 벌금, 또는 둘 다에 처해질 수 있으며, 규정 준수 시까지 매일 최대 3만 바트의 벌금이 부과됨.",
+      "full_translated": "파타야 시 당국은 2026년 2월 22일, 파타야 경찰 수사관에게 정식 고소장을 제출했습니다. 이번 조치는 파타야 시 엔지니어링 부서 산하 건축 통제 부서의 전문가에 의해 시작되었습니다. 건물 통제 검사관 역할을 하는 지식이 풍부한 이 지정된 공무원은 위반에 대한 사실적 증거를 토대로 고소장을 제출했습니다. 시 공무원들은 조사 과정에서 건물 소유주가 2014년부터 법적 문제로 건설이 중단된 건물의 사용을 금지하거나 어떤 사람이든 사용하도록 허용하는 명령을 어겼다는 사실을 발견했습니다. 이 위반 행위는 건물 통제법 40조 1항 또는 41조 1항에 해당합니다. 위반 행위는 특히 건물 허가인 Kor 6 양식에 따라 승인된 계획에서 벗어난 건물의 건설, 수정, 재배치 또는 철거와 관련됩니다. 이러한 행위는 B.E. 2522 (1979) 건물 통제법 67조에 따른 범죄를 구성하며, 개정되었습니다. 이 범죄에 대한 처벌은 최대 6개월의 징역, 최대 10만 바트의 벌금 또는 둘 다를 포함합니다. 주요 처벌 외에도 위반자는 규정에 따라 상황이 시정될 때까지 매일 최대 3만 바트의 벌금을 부과받습니다. 비어 시장은 파타야 시가 공공 안전을 보장하고 도시 기준을 유지하기 위해 건축법을 엄격히 시행할 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 파타야 방문 시 숙박 시설에 영향을 줄 수 있고, 잠재적인 법적 문제에 대한 인식을 높임.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Takes Further Legal Action Against Troubled Waterfront Condo Building Owner for Violating Construction Orders",
+          "url": "https://thepattayanews.com/2026/02/23/pattaya-city-takes-further-legal-action-against-troubled-waterfront-condo-building-owner-for-violating-construction-orders/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718375605205791525211957864783.jpg?v=1771839365"
+        }
+      ],
+      "collected_at": "03:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718375605205791525211957864783.jpg?v=1771839365",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "방프라 시장 및 의회 선거 후보 등록 활발",
+      "summary": "- 방프라 지방 자치 단체장 및 의회 의원 선거 후보 등록 시작\n- 시장 후보 2명 등록, 각 3개 선거구에 의회 의원 후보 전체 출마\n- 지지자들이 장미, 금잔화 화환 등으로 후보자 응원하며 축제 분위기 연출",
+      "full_translated": "방프라 지방 자치 단체장 및 의회 의원 선거 후보 등록이 방프라 지방 자치 단체 홀 2층 회의실에서 진행되었습니다. 두 명의 후보가 시장 자리를 놓고 공식적으로 경쟁에 나섰습니다. 두 후보 모두 3개 선거구 전체를 아우르는 의회 의원 후보 전체 명단을 가지고 도착했습니다. 방프라 소구 행정기구(현재 업그레이드됨)의 전 시장인 솜삭 케트와타 씨는 3개 구 전체에 걸쳐 완전한 의회 후보 팀을 구성한 “방프라 개발팀”을 이끌고 있습니다. 지라팟 솜분탑 씨는 “우리 모두의 방프라 팀”을 이끌고 있으며, 모든 구에 대한 의회 후보 라인업 전체를 발표했습니다. 신청서 제출 후 시장 후보자에게 번호를 할당하기 위해 추첨이 진행되었습니다. 지라팟 씨는 1번을 뽑았고, 솜삭 씨는 2번을 받았습니다. 시의회 후보의 경우, 팀은 할당된 번호에 대해 상호 합의했습니다. “우리 모두의 방프라 팀”은 1번부터 6번까지, “방프라 개발팀”은 7번부터 12번까지 확보했습니다. 지지자들은 양 진영에서 많은 수로 도착하여 지지를 표명하며 하루 종일 활기찬 분위기가 유지되었습니다. 그들은 후보자와 그들의 팀에게 장미, 금잔화 화환 및 기타 격려의 토큰을 선물하여 개장일부터 축제적이고 경쟁적인 환경을 조성했습니다. 시장 및 시의회 후보 등록은 매일 2026년 2월 27일까지 계속됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 지방 선거 관련 소식. 여행에 직접적인 영향은 적지만, 현지 정치 상황에 대한 이해를 돕는다.",
+      "event_info": {
+        "date": null,
+        "location": "Bang Phra Municipality Hall",
+        "price": null,
+        "location_google_map_query": "Bang Phra Municipality Hall"
+      },
+      "references": [
+        {
+          "title": "Energetic Start to Candidate Registration for Bang Phra Municipality Mayor and Council Election",
+          "url": "https://thepattayanews.com/2026/02/23/energetic-start-to-candidate-registration-for-bang-phra-municipality-mayor-and-council-election/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718656210175646301602542991354.jpg?v=1771865719"
+        }
+      ],
+      "collected_at": "03:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718656210175646301602542991354.jpg?v=1771865719",
       "date": "2026-02-24"
     }
   ]
