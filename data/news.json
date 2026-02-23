@@ -33553,14 +33553,9 @@
       "summary": "- 멕시코 주요 마약 카르텔 두목 '엘 멘초' 사망 후 20개 주에서 폭력 사태 발생.\n- 군인 25명이 치안 유지 중 사망.\n- 멕시코 정부, 치안 강화를 위해 군 병력 2,500명 서부 지역에 급파.",
       "full_translated": "멕시코에서 주요 마약상인 '엘 멘초'의 사망 이후 최소 20개 주에서 불안이 발생했으며, 치안 유지 임무 중 군인 25명이 사망했습니다. 2069년 2월 23일 월요일, 멕시코 보안부 장관은 최소 25명의 국가 방위군이 '엘 멘초'의 사망 이후 할리스코 주에서 발생한 대규모 폭력 사태로 사망했다고 밝혔습니다. 네메시오 오세게라 세르반테스, 즉 '엘 멘초'로 더 잘 알려진 인물이 지난 일요일 구금 중 사망한 이후 멕시코 전역 최소 20개 주에서 폭동과 불안이 발생했습니다. 그는 멕시코 특수부대에 의해 체포된 직후 사망했습니다. 리카르도 트레비야 국방장관은 월요일 멕시코가 국가 서부 지역에 2,500명의 군인을 급파하여 보안을 강화했다고 발표했습니다. 엘 멘초는 멕시코에서 가장 끔찍한 범죄 조직 중 하나인 '할리스코 신세대 카르텔'(CJNG)의 수장이었으며, 멕시코 당국이 가장 필요로 하는 범죄자였습니다. 멕시코 국방장관은 '엘 멘초'가 지난 일요일 체포되었다고 밝혔습니다. 그는 정부 추적 결과 한 애인을 만나러 간 것으로 밝혀졌습니다. 그러나 엘 멘초는 그의 경호원과 군의 코만도 부대 간의 치열한 총격전에서 심각한 부상을 입었고, 군이 그를 할리스코 주 타팔파에서 멕시코시티로 이송하던 중 사망했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "마약 카르텔 관련 폭력 사태는 여행객 안전에 심각한 위협이 될 수 있으므로 중요도가 높음. 특히 멕시코 일부 지역 여행을 계획 중인 여행객에게는 필수 정보임. 기존 보도보다 사망자 수가 구체적으로 업데이트됨.",
-      "event_info": {
-        "date": "2069-02-23",
-        "location": "멕시코 20개 주",
-        "price": null,
-        "location_google_map_query": "멕시코"
-      },
+      "event_info": "{'date': '2069-02-23', 'location': '멕시코 20개 주', 'price': None, 'location_google_map_query': '멕시코'}",
       "references": [
         {
           "title": "เม็กซิโกเดือด 20 รัฐ หลัง “เอล เมนโช” ถูกสังหาร ทหารดับแล้ว 25 นาย",
@@ -33569,23 +33564,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZ4ej5mbDPI6.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZ4ej5mbDPI6.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/foreign/2916002",
+      "source": ""
     },
     {
       "title": "시라차에서 오토바이 사고 발생, 1명 중상",
       "summary": "- 어제 오후 3시 45분경 시라차에서 오토바이와 픽업트럭 충돌 사고 발생\n- 오토바이 운전자는 중상을 입고 병원으로 이송됨\n- 픽업트럭 운전자는 타이어 가게에 들어가려다 사고 발생했다고 진술",
       "full_translated": "어제 오후 3시 45분경, 9번 고속도로(7번 도로)의 타이어 가게 앞에서 사고가 발생했습니다. Sawang Prateep Sri Racha 재단의 구조대원에 따르면 오토바이가 픽업트럭과 충돌하여 한 명이 중상을 입었다는 신고를 받았습니다. Laem Chabang Advanced Life Support 및 Sri Racha 경찰서의 긴급 구조대가 현장으로 출동했습니다. 현장에서는 검은색 Isuzu Highlander 픽업트럭이 길가에 주차되어 있었고, 앞 왼쪽 휠 아치 위에 긁힌 자국과 긴 긁힘 손상이 있었습니다. 운전자는 'Mr. Dew'(가명)로, 다치지 않았습니다. 근처에는 중년 남성인 부상당한 오토바이 운전자가 의식을 잃은 채 바닥에 누워 있었습니다. 그는 머리에 큰 상처를 입었고, 몸 전체에 찰과상을 입었으며, 오른쪽 약지가 부러진 것으로 의심됩니다. 구조대는 응급 처치를 제공한 후 추가 치료를 위해 Laem Chabang 병원으로 급히 이송했습니다. 픽업트럭 운전자는 경찰에 자신이 타이어를 교체하기 위해 도로를 따라 운전하고 있었다고 말했습니다. 도착하자마자 속도를 줄이고 좌회전 신호를 켜고 백미러를 확인했지만 접근하는 차량이 보이지 않았습니다. 갑자기 오토바이가 뒤에서 빠른 속도로 접근하여 왼쪽으로 추월하다가 트럭 왼쪽 앞부분을 들이받고 통제력을 잃고 가게 앞의 장식용 깃대를 들이받고 도로를 가로질러 미끄러져 근처 주택 벽에 부딪혔습니다. CCTV 영상에...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "교통 사고 정보는 여행자 안전에 영향을 미칠 수 있으므로 포함. 해당 지역 여행 시 주의 필요.",
-      "event_info": {
-        "date": "2024-07-03",
-        "location": "Highway 9 Kilometer Road (Road No. 7), Sri Racha",
-        "price": null,
-        "location_google_map_query": "Highway 9 Kilometer Road Sri Racha"
-      },
+      "event_info": "{'date': '2024-07-03', 'location': 'Highway 9 Kilometer Road (Road No. 7), Sri Racha', 'price': None, 'location_google_map_query': 'Highway 9 Kilometer Road Sri Racha'}",
       "references": [
         {
           "title": "CCTV Footage Captures Severe Motorcycle Crash in Sri Racha as Rider Overtakes Pickup Truck Turning into Tire Shop",
@@ -33594,23 +33586,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0044572405720757062897222.jpg?v=1771868791"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0044572405720757062897222.jpg?v=1771868791",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/24/cctv-footage-captures-severe-motorcycle-crash-in-sri-racha-as-rider-overtakes-pickup-truck-turning-into-tire-shop/",
+      "source": ""
     },
     {
       "title": "파타야, 불법 포커 도박장 급습…14명 체포",
       "summary": "- 파타야 농프루 지역에서 불법 포커 도박장이 적발되어 경찰이 급습했습니다.\n- 현장에서 14명이 체포되었으며, 도박 장비와 현금 등이 압수되었습니다.\n- 용의자들은 불법 도박 혐의로 농프루 경찰서로 이송되어 조사를 받고 있습니다.",
       "full_translated": "2026년 2월 22일 저녁, 당국은 농프루 지역의 한 장소에서 무허가 도박 활동이 있다는 제보를 받고 작전을 개시했습니다. 농프루 경찰서장 낫타폰퐁숙스쿨 대령의 감독 하에, 범죄 진압 부서장 위랏 텟통 중령과 범죄 진압 검사 카므론 롯마 중령이 급습을 지휘했습니다. 순찰 경찰관과 특수 작전 요원들로 구성된 팀이 해당 구역을 철저히 수색했습니다. 건물에 진입한 경찰은 14명이 포커를 치며 돈과 자산을 걸고 불법 도박을 하는 것을 발견했습니다. 현장에는 전문 장비를 갖춘 도박 테이블이 있었고, 이들은 완전히 기습을 당했습니다. 혼란 속에서 경찰은 모든 참가자를 별다른 사고 없이 체포했습니다. 압수된 증거물로는 다양한 액수의 포커 칩, 카드 6덱, 전문 포커 테이블 1개, CCTV 카메라 1대와 메모리 카드 등이 있습니다. 용의자 14명은 모두 태국 도박법 위반으로 불법 도박(포커)에 공동으로 참여한 혐의로 기소되었습니다. 이들은 압수품과 함께 구금되어 농프루 경찰서 수사관에게 넘겨져 추가 법적 절차를 밟게 되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 발생한 불법 도박장 급습 사건으로, 여행객들에게 잠재적인 범죄 위험을 알리고 주의를 환기시킬 필요가 있습니다. 직접적인 안전 위협은 아니지만, 파타야 지역의 치안 상황을 간접적으로 보여주는 정보입니다.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "파타야, 농프루 지역",
-        "price": "N/A",
-        "location_google_map_query": "Nong Prue, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': '파타야, 농프루 지역', 'price': 'N/A', 'location_google_map_query': 'Nong Prue, Pattaya'}",
       "references": [
         {
           "title": "Thai Police Raid Underground Poker Den in Pattaya Community, Arrest 14 Gamblers",
@@ -33619,23 +33608,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771867257634-scaled.jpg?v=1771867376"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771867257634-scaled.jpg?v=1771867376",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/24/thai-police-raid-underground-poker-den-in-pattaya-community-arrest-14-gamblers/",
+      "source": ""
     },
     {
       "title": "스리라차 14세 소녀, 학교 건물에서 추락 후 안전; 어머니, 사기꾼 처벌 요구; 교장 방문",
       "summary": "- 스리라차의 한 14세 소녀가 학교 건물 5층에서 추락하여 중상을 입었습니다.\n- 소녀는 틱톡 광고를 통해 음악 감상으로 돈을 벌 수 있다는 사기에 속아 돈을 이체했습니다.\n- 소녀는 돈을 더 이상 지불할 수 없게 되자 협박을 받고 두려움에 학교 건물에서 뛰어내렸습니다.",
       "full_translated": "스리라차에 있는 Wat Nong Kho Community School의 14세 8학년 학생이자 여자 배구 선수인 소녀에게 사고가 발생했습니다. 2026년 2월 22일, 그녀는 학교 건물 5층 화장실 창문에서 떨어져 다리 열상, 허리 통증, 타박상 등 심각한 부상을 입었습니다.\n\n친구들과 초기 경찰 보고서에 따르면 소녀는 틱톡 광고를 통해 음악 감상으로 돈을 벌 수 있다는 사기 gang에게 속았습니다. 사기는 그녀를 유혹하여 소위 보상을 받기 위한 \"예금\" 또는 수수료로 돈을 이체하도록 했습니다. 그녀는 처음에는 수익을 기대하며 100바트를 이체했지만 사기꾼들은 나중에 \"작업\"과 보상에 대한 추가 금액을 요구했습니다.\n\n그녀는 친구와 가족에게 돈을 빌려 친구에게서 700바트, 할머니에게서 나중에 3,000바트를 빌려 총 약 3,600바트의 요구를 충족했습니다. 더 이상 지불할 수 없게 되자 gang은 그녀가 한 시간 이내에 추가 자금을 이체하지 못하면 가상 손해 배상금으로 140,000바트 이상으로 그녀를 고소하겠다고 위협했습니다. 두려움과 스트레스에 압도된 그녀는 침착성을 잃고 학교 건물에서 뛰어내렸습니다.\n\n2026년 2월 23일, Wat Nong Kho Community School의 교장인 Ms. Prapaisri Buachapo는 교사들과 함께 Somdet Phra Borom Ratchathewi Na Si Racha Hospital에서 소녀를 방문했습니다. 그들은 이미 참석한 소녀의 어머니 Ms. Paphatsarin Sriwiset와 친척들을 만났습니다.\n\n교장은 소녀가 이제 말하고 의사 소통할 수 있다고 보고했습니다. 그녀는 학기말 시험을 놓치는 것에 대해 걱정했지만 교장은",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행자도 사기 피해를 입을 수 있으므로 주의가 필요합니다. 범죄 관련 정보이므로 POLITICS로 분류합니다.",
-      "event_info": {
-        "date": "2026-02-22",
-        "location": "Wat Nong Kho Community School, 스리라차",
-        "price": null,
-        "location_google_map_query": "Wat Nong Kho Community School 스리라차"
-      },
+      "event_info": "{'date': '2026-02-22', 'location': 'Wat Nong Kho Community School, 스리라차', 'price': None, 'location_google_map_query': 'Wat Nong Kho Community School 스리라차'}",
       "references": [
         {
           "title": "14-Year-Old Sri Racha Girl Safe After Fall from School Building; Mother Calls for Punishment of Scammers Involved; School Principal Visits",
@@ -33644,23 +33630,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_000518304318459672699143.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_000518304318459672699143.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/24/14-year-old-sri-racha-girl-safe-after-fall-from-school-building-mother-calls-for-punishment-of-scammers-involved-school-principal-visits/",
+      "source": ""
     },
     {
       "title": "태국 1월 수출입, 사상 최고치 기록",
       "summary": "- 태국의 1월 수출액이 315억 7천만 달러로 24.4% 증가, 수입액은 348억 7천만 달러로 29.4% 증가하며 사상 최고치를 기록함.\n- 중국과의 무역에서는 적자를, 미국과의 무역에서는 흑자를 지속함.\n- 전자제품, 자동차 부품 등 AI 및 데이터센터 기술 전환 관련 제품의 성장세가 두드러짐.",
       "full_translated": "태국 무역정책전략사무소(손 커.)에 따르면 2069년 1월 수출액은 315억 7310만 달러(9807억 4400만 바트)로 전년 동월 대비 24.4% 증가했으며, 수입액은 348억 7650만 달러(1조 970억 바트)로 29.4% 증가했습니다. 이는 각각 사상 최고치입니다. 이로 인해 33억 340만 달러(1167억 바트)의 무역 적자가 발생했습니다. 중국과의 무역에서는 72억 2380만 달러의 적자를 기록했으며, 미국과의 무역에서는 4억 7380만 달러의 흑자를 기록했습니다. 수출 증가의 주요 요인은 AI 및 데이터센터 기술 전환에 따른 전자제품의 성장이며, 전기 제품, 자동차 및 부품의 수출도 높은 수준을 유지했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 상황에 대한 정보로, 여행객의 소비 및 물가에 간접적인 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ส่งออก-นำเข้าไทย ม.ค. 69 พุ่งสูงเป็นประวัติการณ์ สนค.จับตาแก้เกมภาษีสหรัฐฯ ลุยขยายตลาด",
@@ -33669,8 +33652,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxlrc7AEizsqL.jpg"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxlrc7AEizsqL.jpg",
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2915964",
+      "source": ""
+    },
+    {
+      "title": "태국, 60일 무비자 정책 축소 검토: 외국인 악용 우려 증가",
+      "summary": "- 태국 정부가 관광객 대상 60일 무비자 입국 정책을 축소하는 방안을 검토 중임.\n- 외국인 관광객의 무비자 정책 악용 사례 증가에 따른 조치임.\n- 비자 정책 변경은 태국을 방문하는 여행자들에게 큰 영향을 미칠 수 있음.",
+      "full_translated": "태국 정부는 최근 외국인 관광객의 무비자 정책 악용에 대한 우려가 커짐에 따라 현재 60일 무비자 입국 정책을 적극적으로 검토하고 있으며, 허용된 체류 기간을 단축하는 방안을 고려하고 있습니다. 태국 외무장관은 확인되지 않은 소문과 추측이 한 달 동안 이어진 후 이번 주에 이를 확인했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객의 입국 및 체류 계획에 직접적인 영향을 미치므로 중요도가 높음. 아침 브리핑에 포함하여 여행객에게 사전 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: 60 Day Visa Free Entry Under Review For Reduction, and More",
+          "url": "https://thepattayanews.com/2026/02/23/top-national-thailand-stories-from-the-past-week-60-day-visa-free-entry-under-review-for-reduction-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608"
+        }
+      ],
+      "collected_at": "02:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "방콕, 미얀마인 4명이 미국인 남성 살해: 관계 다툼이 원인",
+      "summary": "- 방콕 촘 통 지역에서 55세 미국인 남성이 미얀마인 4명에게 폭행당해 사망함.\n- 범행 동기는 피해자와 가해자 간의 관계 문제로 추정됨.\n- 여행객 안전에 대한 우려를 야기할 수 있는 사건임.",
+      "full_translated": "방콕 촘 통의 길가에서 55세 미국인 남성이 미얀마 국적의 남성 4명에게 잔혹하게 폭행당해 살해당했습니다. 55세 미국인 남성은 관계 분쟁으로 인해 방콕에서 미얀마 남성 4명에게 살해당했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄는 여행객 안전에 직접적인 위협이 되므로 중요함. 해당 지역 여행객에게 주의를 요망하는 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "Chom Thong, Bangkok",
+        "price": null,
+        "location_google_map_query": "Chom Thong Bangkok"
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: 60 Day Visa Free Entry Under Review For Reduction, and More",
+          "url": "https://thepattayanews.com/2026/02/23/top-national-thailand-stories-from-the-past-week-60-day-visa-free-entry-under-review-for-reduction-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608"
+        }
+      ],
+      "collected_at": "02:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "파타야 인근 무장 도주범, 파툼타니에서 검거: 학교 폐쇄 소동",
+      "summary": "- 파타야 인근 촌부리에서 발생한 사건의 용의자가 파툼타니 지역에서 도주 중 체포됨.\n- 용의자는 총기 사용 및 폭행 등 다수의 범죄 혐의를 받고 있음.\n- 도주 과정에서 해당 지역 20개 학교가 일시 폐쇄되는 소동이 벌어짐.",
+      "full_translated": "당국은 파툼타니 지방의 랏 룸 깨오 지역에서 무장 용의자에 대한 우려가 커짐에 따라 20개 학교에 폐쇄 명령을 내렸습니다. 이 남성은 파타야 인근 촌부리 지방에서 발생한 폭행 및 불법 총기 사용을 포함한 여러 범죄와 관련하여 수배 중입니다. 이후 이 남성은 평화롭게 경찰에 자수했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야 인근 지역에서 발생한 사건으로, 여행객 안전에 간접적인 영향을 미칠 수 있음. 특히 해당 지역 방문 예정인 여행객에게 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "Pathum Thani",
+        "price": null,
+        "location_google_map_query": "Pathum Thani"
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: 60 Day Visa Free Entry Under Review For Reduction, and More",
+          "url": "https://thepattayanews.com/2026/02/23/top-national-thailand-stories-from-the-past-week-60-day-visa-free-entry-under-review-for-reduction-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608"
+        }
+      ],
+      "collected_at": "02:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/600264072_122146150544730858_8094560245047498975_n-1.jpg?v=1771856608",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "제사다, 선거관리위원회의 위법 행위에 대해 감옥행 경고",
+      "summary": "- 제사다 토나와닉 Rak Chart Party 총리 후보는 선거관리위원회가 위법 행위를 계속할 경우 투옥될 수 있다고 경고했습니다.\n- 그는 선관위의 선거 관리가 모호하고 갑작스러운 변경으로 가득 차 있다고 비판했습니다.\n- 제사다는 선관위가 시민의 권리와 자유 침해 의혹에 대한 의혹을 해소하지 못하면 법적 위험에 직면할 수 있다고 경고했습니다.",
+      "full_translated": "방콕 — 2026년 2월 23일, Rak Chart Party의 총리 후보인 제사다 토나와닉은 선거관리위원회(EC)가 투표용지 변경에 대한 논란이 거세지는 가운데 불법적으로 직무를 계속 수행할 경우 투옥될 수 있다고 경고했습니다. \n\n인터뷰에서 제사다는 선관위의 선거 관리가 모호함과 갑작스러운 변경으로 가득 차 있으며, 특히 투표용지와 관련하여 대중에게 명확한 설명 없이 이루어졌다고 말했습니다. 그가 부당한 행위라고 묘사한 것을 위원회가 계속 고집한다면 \"감옥이 기다리고 있다\"고 그는 말했습니다. 그는 선관위가 투표용지 디자인과 같은 세부 사항을 조정하는 데 \"특히 부지런\"하면서도 대중에게 제대로 알리지 못한다고 비판했습니다. \n\n그는 처음부터 위원회가 녹색 또는 분홍색 투표용지가 몇 종류인지, 모양은 어떤지, 노란색 국민투표 투표용지의 목적을 포함하여 각각의 용도가 무엇인지 명확히 해야 했다고 말했습니다. 대신 QR 코드 및 바코드 사용을 포함하여 적절한 설명 없이 새로운 투표용지가 도입되었다고 그는 말했습니다. \n\n제사다는 선관위가 시민의 권리와 자유 침해 의혹에 대한 의혹을 해소하지 못하면 법적 위험에 직면할 수 있으며, 잠재적으로 선거를 무효화하기 위한 법적 조치로 이어질 수 있다고 경고했습니다. 그러한 결과는 특정 지역구의 보궐선거뿐만 아니라 이미 수행된 전체 선거 절차를 해체해야 할 수도 있기 때문에 막대한 피해를 초래할 것이라고 그는 말했습니다. 그는 선관위가 명확하게",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 선거 관련 불확실성은 정치적 불안정으로 이어질 수 있으며, 여행자에게 간접적인 영향을 미칠 수 있습니다. 다만, 직접적인 위협은 아니므로 중간 점수를 부여합니다. 아침 브리핑에 적합합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Jesada warns Election Commission over jail risk",
+          "url": "https://www.khaosodenglish.com/news/2026/02/23/jesada-warns-election-commission-over-jail-risk/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Jesada-warns-Election-Commission-over-jail-risk-1.jpg"
+        }
+      ],
+      "collected_at": "02:53",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Jesada-warns-Election-Commission-over-jail-risk-1.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "시라차 배달 기사, 첫 주문 배달 중 오토바이 도난으로 큰 피해",
+      "summary": "- 시라차에서 배달 기사가 아침 첫 주문을 위해 오토바이를 잠시 세워둔 사이 도난당함.\n- 피해자는 오토바이가 유일한 수입원이며, 할부금도 남아 있어 생계에 어려움을 겪고 있다고 호소함.\n- 경찰은 CCTV 영상을 확보하여 용의자를 추적 중.",
+      "full_translated": "시라차에 거주하며 배달 기사로 일하는 마룻 쟁우암(또는 쟁 아움)씨는 오늘 아침 6시 40분경 무 8리에 있는 신선 시장 앞에서 오토바이를 도난당했다고 신고했습니다. 마룻씨에 따르면 그는 구운 생선과 바비큐 돼지고기인 첫 주문을 받기 위해 검은색과 회색 혼다 웨이브 100 오토바이(번호판 싸암 꺼 퍼 하 쩌 9 싸암 쩌 촌부리)를 시장 밖에 주차했습니다. 그는 물건을 받기 위해 재빨리 안으로 들어가면서 키를 꽂아둔 채로 있었습니다. 잠시 후 돌아왔을 때 배달 상자가 부착된 오토바이가 사라졌습니다. 충격과 절망에 빠진 마룻씨는 즉시 시장 CCTV 카메라 영상을 요청했습니다. 영상에는 용의자가 명확하게 보입니다. 그는 날씬하고 키가 중간 정도 되는 남성으로 녹색 셔츠와 긴 바지를 입고 있었습니다. 도둑은 주차된 오토바이 근처에서 서성이며 주변을 돌다가 접근하여 올라타고 시라차 중심으로 향해 달아났습니다. 그는 아무런 방해 없이 도주했으며 아직 잡히지 않았습니다. 마룻씨는 CCTV 증거를 가지고 시라차 경찰서에 정식 고소장을 제출했습니다. 기자들에게 마룻씨는 이번 사건에 대해 깊은 고통을 표현했습니다. 그는 \"이 오토바이는 저의 유일한 수입원입니다. 다른 직업이 없고 가족을 부양하기 위해 전적으로 음식 배달에 의존하고 있습니다.\"라고 말했습니다. \"지금 심각한 곤경에 처했습니다. 오토바이는 아직 이만 바트가 남아 있는 할부 중이며 매달 납부해야 합니다. 게다가 제 업무용 전화도 할부 중이고, 월세, 식비, 생활비도 있습니다. 저는 하루 벌어 하루 먹고 살고 있습니다.\"",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "오토바이 도난 사건은 여행자에게 직접적인 위협은 아니지만, 현지 치안 상황을 간접적으로 보여주므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "시라차",
+        "price": null,
+        "location_google_map_query": "시라차 시장"
+      },
+      "references": [
+        {
+          "title": "Delivery Rider in Sri Racha Devastated After Motorcycle Stolen While Picking Up First Order of the Day",
+          "url": "https://thepattayanews.com/2026/02/23/delivery-rider-in-sri-racha-devastated-after-motorcycle-stolen-while-picking-up-first-order-of-the-day/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771859276759798789871775689645.jpg?v=1771859353"
+        }
+      ],
+      "collected_at": "02:53",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1771859276759798789871775689645.jpg?v=1771859353",
       "date": "2026-02-24"
     }
   ]
