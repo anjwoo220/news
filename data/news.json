@@ -33970,14 +33970,9 @@
       "summary": "- 태국 사이버 사기 방지 센터(ACSC)는 온라인 사기 사건이 전반적으로 감소했다고 보고함.\n- 온라인 쇼핑 사기가 여전히 가장 흔하지만 피해액은 적음.\n- 투자 사기가 급증하여 재정적 손실의 주요 원인이 되었으며 피해액은 1억 2,300만 바트를 초과함.",
       "full_translated": "사이버 사기 방지 센터(ACSC)는 최신 주간 검토에서 온라인 사기 사건이 전반적으로 감소했다고 보고했지만, 투자 사기가 급증하여 재정적 손실의 주요 원인이 되었으며 피해액은 1억 2,300만 바트를 초과한다고 경고했습니다.\n\n이 수치는 Pol Gen Thana Chuwong 국가 경찰 부국장 겸 센터 국장과 Pol Lt Gen Jirabhop Bhuridej 경찰 부국장 겸 센터 부국장의 감독 하에 월요일에 발표되었습니다.\n\n2월 15일부터 21일까지 당국은 Thaipoliceonline 시스템을 통해 6,736건의 민원을 접수했으며 총 피해액은 4억 2,930만 바트로 보고되었습니다. 이전 주(2월 8일부터 14일)와 비교했을 때 사건 수는 551건 감소했으며 재정적 손실은 7,060만 바트 이상 감소했습니다.\n\n분석가들은 전반적인 추세를 명확한 개선으로 묘사했으며 최근 몇 달 동안 가장 긍정적인 통계 주 중 하나라고 평가했습니다. 양적으로는 온라인 쇼핑 사기가 여전히 가장 흔한 범죄로 보고된 사건의 70.1%를 차지했습니다. 경찰은 사기가 일반적으로 피해자당 비교적 적은 금액과 관련되지만 광범위한 대중에게 영향을 미친다고 밝혔습니다. 두 번째로 가장 빈번한 범주는 선불 이체에 대한 대가로 추가 소득을 약속하는 사기성 제안과 전화 기반 위협 및 협박 계획과 관련되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "온라인 사기는 여행자에게도 발생할 수 있으므로 주의가 필요하며, 최신 통계 정보이므로 업데이트 가치가 있음. 투자 사기가 증가했다는 점은 특히 주의해야 할 부분.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Fraud complaints 'declining'",
@@ -33986,23 +33981,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203740_260224050608_700.jpg"
         }
       ],
-      "collected_at": "05:33",
+      "collected_at": "5:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203740_260224050608_700.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.bangkokpost.com/thailand/general/3203740/fraud-complaints-declining",
+      "source": ""
     },
     {
       "title": "How to visit the Red Lotus Sea in Lisa’s viral Thailand tourism campaign - Prestige Hong Kong",
       "summary": "- 리사가 태국 관광 캠페인에서 홍련 바다를 소개하며 화제가 되었습니다.\n- 홍련 바다를 방문하는 방법에 대한 기사입니다.\n- 태국 관광에 대한 관심이 높아질 것으로 예상됩니다.",
       "full_translated": "리사의 바이럴 태국 관광 캠페인에서 붉은 연꽃 바다를 방문하는 방법 - Prestige Hong Kong",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 관광 명소에 대한 정보이므로 중간 점수를 부여합니다. 특히 리사의 영향력을 고려할 때 홍련 바다에 대한 관심이 증가할 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "Red Lotus Sea",
-        "price": null,
-        "location_google_map_query": "Red Lotus Sea Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Red Lotus Sea', 'price': None, 'location_google_map_query': 'Red Lotus Sea Thailand'}",
       "references": [
         {
           "title": "How to visit the Red Lotus Sea in Lisa’s viral Thailand tourism campaign - Prestige Hong Kong",
@@ -34011,23 +34003,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:33",
+      "collected_at": "5:33",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFhuaHlQTmpiOUNxMUZDUW1tek1DMEpRWmlKNGF3NVF0TDNHZUpVRm9oLUlSbE9pQ2RUeFhTUHBJaTdVa1FoVkJQdENPWFZuU0lvMmdkNzF4SURMRV9NZ0YzTHdHQ1B6OF84bDZVeERCRzlUVjhTNVk1Sno3anlyU2FuVEZaOU1NMWNCSnlrYnFnN2N3Y3ZnaGF0dkVwQV92d09TRVA0LXNoUdIBrwFBVV95cUxORTBCdTAxWjFWaG5qQW01QWI3SGZKeWlOaHZWRmQxaF9qWTZJV0MtNFRHNlZtYnBGOUxoN3hjOGIxbktmMDh2R1hCX0xXbVhXUm4xekJzUVl6RkwyUGZqQmp2eUoyLVFiU2EtWTRFU01QSmdoemhfUzZDekI0amEtc2k2OFl3TlUxb2s3eFF2eXJIMHJGaFBjM2kyVk03SFNveDdmVm52dTQ3dFhKS01V?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, 부가가치세(VAT) 인상 계획 없음",
       "summary": "- 차기 정부는 경제 회복에 집중할 것이며, 부가가치세율을 10%로 인상할 계획이 없음.\n- 3년 이내에는 VAT 인상이 없을 것이며, 세수 증대 방안은 경제 상황 개선 이후에 논의될 예정.\n- 현재 VAT 상한선은 7%로 유지될 것.",
       "full_translated": "차기 정부는 경제 회복에 집중할 것이며, 향후 3년간 부가가치세(VAT) 세율을 10%로 인상하지 않을 것이라고 품자이타이당(BJT) 고위 관계자가 밝혔습니다. BJT 부대표인 시리퐁 앙카사쿨키앗은 지난주 경제, 통화 및 재정 관련 상원 소위원회가 제안한 내용에 대한 답변으로 월요일에 이같이 밝혔습니다. 해당 소위원회는 VAT를 단계적으로 10%까지 인상하는 것을 포함하여 세금 시스템을 점진적으로 재구성할 것을 제안하여 차기 정부가 현재 7%로 제한된 VAT 상한선을 인상하는 것을 고려할 수 있다는 추측을 불러일으켰습니다. 시리퐁은 VAT 인상 가능성에 대한 우려를 일축하며 정부는 단기적으로 VAT를 인상할 계획이 없다고 말했습니다. 그는 세수 증대에 대한 논의가 있었다는 것을 인정했지만, 이러한 조치는 2~3년 후의 의제가 될 것이라고 강조했습니다. 세금 정책의 재검토는 사람들이 경제가 분명히 개선되었다고 느낄 때만 이루어질 것이라고 그는 말했습니다. 시리퐁은 \"최우선 과제는 더 높은 VAT를 부과하여 더 많은 세수를 징수하는 것이 아니라 경제를 회복하는 것\"이라고 말했습니다. 상원 소위원회는 지난주 세무부 및 증권거래위원회 등 다양한 기관의 대표들이 참석한 세금 구조 조정에 관한 세미나를 개최했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "VAT 인상 계획 없음은 여행 시 물가 변동에 영향을 미치므로 정보 제공 가치가 있음. 단, 단기적인 영향은 미미하므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "'No plan' for VAT rate hike",
@@ -34036,8 +34025,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203565_260224043440_700.jpg"
         }
       ],
-      "collected_at": "05:33",
+      "collected_at": "5:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203565_260224043440_700.jpg",
+      "date": "2026-02-24",
+      "link": "https://www.bangkokpost.com/thailand/general/3203565/no-plan-for-vat-rate-hike",
+      "source": ""
+    },
+    {
+      "title": "타이 에어아시아, 5월부터 서울행 항공편 개편",
+      "summary": "- 타이 에어아시아가 5월 1일부터 방콕 돈므앙-인천 노선에 직항편 운항.\n- 기존 타이 에어아시아 X 대신 에어버스 A320neo 기종 투입, 하루 2회 운항.\n- 국내 시장 점유율을 40%에서 45%로 늘리는 목표.",
+      "full_translated": "타이 에어아시아가 5월 1일부터 서울행 직항편 운항을 개편합니다. \n\n아시아 항공 PCL과 타이 에어아시아의 최고 경영자인 파이랏 폰파타나낭군에 따르면 타이 에어아시아는 5월 1일부터 돈므앙 국제공항에서 인천 국제공항으로 에어버스 A320neo를 운항하며, 타이 에어아시아 X의 운항을 대체하여 하루 2회 운항합니다. 그는 타이 에어아시아 X의 광동체 항공기에서 타이 에어아시아의 단일 통로 항공기로 변경해도 수요에 영향을 미치지 않을 것이라고 말했습니다. 태국과 한국 항공사 모두 오랫동안 좁은 통로 항공기로 운항해 왔기 때문입니다. \n\n이 노선 외에도 좁은 통로 항공기의 범위가 중거리 서비스에 적합하지 않기 때문에 타이 에어아시아 X의 노선을 대체할 추가 계획은 없습니다. 대신, 루앙프라방에서 하노이로 비행하는 것과 같이 두 외국 간을 비행할 수 있는 제5의 자유권 활용에 집중하여 두 번째 국가에서 최종 목적지로 통근하는 승객으로부터 더 큰 기회를 창출하는 데 주력하고 있습니다.\n\n국내 노선의 경우 파이랏 씨는 작년에 항공사가 40%의 가장 큰 시장 점유율을 유지했으며 25개 목적지에 42개 노선을 운영하고 있으며, 여기에는 9개의 지역 간 노선이 포함된다고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "5월부터 방콕-서울 노선 항공편 변경 정보. 여행 계획에 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "Don Mueang International Airport, Incheon International Airport",
+        "price": null,
+        "location_google_map_query": "Don Mueang International Airport, Incheon International Airport"
+      },
+      "references": [
+        {
+          "title": "Thai AirAsia to revamp flights to Seoul from May",
+          "url": "https://www.bangkokpost.com/business/general/3203825/thai-airasia-to-revamp-flights-to-seoul-from-may",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/24/5980195_700.jpg"
+        }
+      ],
+      "collected_at": "06:28",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/24/5980195_700.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "에크니티, 미국의 최신 관세 조치 환영: 태국 경제 성장 전망",
+      "summary": "- 미국의 15% 균일 관세 부과가 태국 경제에 긍정적 신호로 작용할 것으로 예상됨.\n- 에크니티 재무장관 대행은 태국의 GDP 성장률이 2% 이상으로 상승할 수 있다고 전망함.\n- 하지만 세계 무역 및 투자의 변동성, 무력 충돌 등의 위험 요인도 여전히 존재한다고 경고함.",
+      "full_translated": "에크니티 니티타న్프라팟 재무장관 대행은 미국의 최신 관세 조치가 태국 경제에 긍정적인 신호이며, 태국의 GDP 성장률을 2% 이상으로 끌어올리는 데 도움이 될 것으로 예상한다고 밝혔습니다. 미국의 새로운 관세 조치는 전 세계 상품에 대해 15%의 균일한 수입 관세를 부과합니다.\n\n그러나 그는 태국 경제가 여전히 세계 무역 및 투자의 변동성, 그리고 세계 여러 지역에서 벌어지는 무력 충돌로 인한 위험에 직면해 있다고 경고했습니다. 에크니티 장관은 또한 미국 대법원의 상호 관세 조치에 대한 판결이 지난주 후반에 내려졌으며, 이로 인해 미국의 수입 관세가 일요일에 모든 국가에 대해 15%의 균일한 수준으로 조정되었다고 덧붙였습니다. 이는 시장 심리와 태국 경제의 전반적인 전망을 개선하는 데 도움이 되는 핵심적인 긍정적 요인이 되었습니다.\n\n에크니티 장관은 “새로운 관세율은 경쟁력을 강화하고 공정한 경쟁의 장을 만들 것으로 예상됩니다. 이전에는 태국 제품이 최대 19%의 수입 관세에 직면했지만, 싱가포르와 같은 경쟁국은 10%의 관세만 적용받았습니다.”라고 말했습니다. 그는 “따라서 15%의 균일한 세율로의 감축은 태국에 '비교 우위'를 제공합니다. 이전의 관세 불이익이 제거되었고 이제 모든 국가에 공통 기준이 적용되기 때문입니다.”라고 덧붙였습니다.\n\n에크니티 장관에 따르면, 15%의 관세는 또한 특히 단기적으로, 즉 관세 인하 조치가 시행되는 150일 동안 수출을 촉진할 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제에 대한 긍정적 전망을 제시하나, 여행객에게 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Ekniti welcomes latest US tariff measures",
+          "url": "https://www.bangkokpost.com/business/general/3203755/ekniti-welcomes-latest-us-tariff-measures",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/24/5980145_700.jpg"
+        }
+      ],
+      "collected_at": "06:28",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/24/5980145_700.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "소매업체, 지출 경기 부양책 이상의 추가 지원 촉구",
+      "summary": "- 태국 소매업체들은 정부의 '콘 라 크루eng 플러스' 공동 지불 제도와 같은 일시적인 해결책보다는 장기적인 경제 개선을 위한 정책을 요구합니다.\n- 중소기업 지원 및 대기업과의 경쟁력 강화를 위한 정책, 세금 관련 조치 도입을 강조합니다.\n- 새로운 정부가 경제에 획기적인 개선을 가져올 정책을 도입할 가능성에 대해 회의적인 시각을 보입니다.",
+      "full_translated": "소매업체들은 지출 경기 부양책 이상의 더 많은 지원을 촉구합니다.\n그들은 태국에 주요 개혁이 필요하다고 말합니다. 2026년 2월 24일 05:31에 발행됨. 신문 섹션: 비즈니스. 작성자: Kuakul Mornkum. Bhumjaithai 당이 다음 정부를 이끌 준비를 하면서 중요한 캠페인 약속 중 하나는 '콘 라 크루eng 플러스' 공동 지불 제도를 부활시키는 것이었습니다. 그러나 도매 및 소매 부문의 사람들은 이 이니셔티브를 국가의 부진한 경제에 대한 장기적인 해결책보다는 일시적인 해결책으로 간주합니다. 콘 라 크루eng 플러스 프로그램은 등록된 개인이 지역 상점에서 구매한 상품 가격의 절반만 지불할 수 있도록 허용했으며, 정부가 나머지를 보조했습니다.\n\n태국 도매 및 소매 무역 협회의 명예 고문인 Somchai Pornrattanacharoen은 \"나는 이러한 종류의 정책이 너무 자주 사용되어서는 안 된다고 여러 번 말했습니다. 왜냐하면 그것들은 단지 진통제일 뿐이기 때문입니다.\"라고 말했습니다. 그는 새 정부가 장관급에서 익숙한 얼굴들을 포함할 가능성이 높기 때문에 새로운 정책을 도입하거나 상당한 경제 개선으로 이어질 것이라는 비관적인 전망을 밝혔습니다. 그는 공동 지불 제도에 집중하기보다는 정부가 중소기업 운영자를 지원하고 대기업과의 경쟁력을 강화하기 위한 목표 정책을 시행해야 한다고 강조했습니다. 그는 또한 대기업이 교외 및 시골 지역에 진출하려는 시도에 대해 유리한 혜택을 제공하여 지역 기업을 보호하기 위한 세금 관련 조치를 도입해야 할 필요성을 지적했습니다. Somchai 씨는 소매업체들이...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 태국 경제 상황에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Retailers call for more help than just spending stimulus",
+          "url": "https://www.bangkokpost.com/business/general/3203665/retailers-call-for-more-help-than-just-spending-stimulus",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/24/5980090_700.jpg"
+        }
+      ],
+      "collected_at": "06:28",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/24/5980090_700.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "프아타이당, 연립 정부 구성 위한 내각 회담 부인",
+      "summary": "- 프아타이당은 연립 정부 구성을 위한 내각 할당량 협상을 위해 품짜이타이 당과 회담을 가질 예정이라는 보도를 부인함.\n- 쭐라푼 아몬위왓 대표는 선거관리위원회의 공식 결과 인증을 기다리고 있다고 밝힘.\n- 특정 부처에 대한 보도는 언론의 추측이며, 내각 직책 분할에 대한 자세한 협상은 없었다고 강조함.",
+      "full_translated": "프아타이당은 연립 정부 구성을 위한 내각 할당량 협상을 위해 화요일 품짜이타이 당과 회담을 가질 예정이라는 보도를 단호히 부인하며, 그러한 약속은 준비되지 않았다고 주장했습니다. 당 본부에서 쭐라푼 아몬비왓 프아타이 대표는 이전에 고위 인사들이 이전 초대에 따라 논의를 가졌지만 이후 추가 논의는 없었다고 밝혔습니다. 그는 예비 이해가 이미 이루어졌으며 모든 당사자가 현재 협상을 재개하기 전에 선거관리위원회의 공식 선거 결과 인증을 기다리고 있다고 말했습니다. 프아타이당이 다시 접근할 경우 회담에 참석할 것인지 묻는 질문에 쭐라푼 대표는 조율이 이루어지지 않았다고 거듭 밝혔습니다. 그는 \"현재로서는 연락이 없었습니다.\"라고 말했습니다. 장관 할당에 대한 추측에 대해 그는 이전 논의가 내각 직책 분할이 아닌 향후 정책 방향을 광범위하게 설명하는 데 초점을 맞추었다고 강조했습니다. 그는 \"특정 부처에 대한 보고서는 언론의 추측입니다.\"라고 말했습니다. \"그 문제에 대한 자세한 협상은 없었습니다.\" 쭐라푼 대표는 예상되는 300석 연립 정부가 정치적 안정을 제공할 것인지 묻는 질문에 프아타이당은 그러한 계산에 관여하지 않았다고 말했습니다. 그는 승리한 당이 하원에서 다수당을 통합해야 한다고 주장했습니다. 쭐라푼 대표는 또한 프아타이당, 끄라탐당 및 라이벌 연합을 시사하는 소문을 일축했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 현재 여행객에게 직접적인 영향은 없다고 판단됨. 다만, 정부 구성 관련 논의는 향후 정책 변화에 영향을 줄 수 있으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pheu Thai denies cabinet talks",
+          "url": "https://www.bangkokpost.com/thailand/politics/3203630/pheu-thai-denies-cabinet-talks",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203630_260224044217_700.jpg"
+        }
+      ],
+      "collected_at": "06:28",
+      "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203630_260224044217_700.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "BYD, 일본 시장 겨냥한 경차 전기차 'Racco' 공개",
+      "summary": "- 중국 자동차 제조사 BYD, 일본 시장을 겨냥한 경차 전기차 Racco 공개.\n- 2029년 중반 공식 판매 예정, 스탠다드 및 롱 레인지 모델 제공.\n- 해변에서 노는 수달 연상시키는 디자인, 20kWh/30kWh 배터리 장착.",
+      "full_translated": "중국 거대 자동차 제조업체 BYD가 일본 시장을 공략하기 위해 개발된 경차 전기차 BYD Racco의 이미지를 공개했습니다. 2029년 중반에 공식 판매될 예정입니다. BYD Racco는 2028년 일본 모빌리티 쇼에서 처음 공개되었지만 자세한 내용은 공개되지 않았습니다. 최근 BYD는 해당 모델의 객실 사진을 공개했으며 몇 달 안에 판매를 준비하고 있다고 발표했습니다. BYD Racco는 Dolphin, Seal, Seagull 및 Sealion과 같은 Ocean Series 전기 자동차입니다. 일본어로 Racco는 바다 수달을 의미합니다. BYD Racco는 스탠다드 레인지 모델(20kWh 배터리, 주행 거리 약 200km)과 롱 레인지 모델(30kWh 배터리, 주행 거리 약 300km)로 제공됩니다. 둘 다 전륜 구동 시스템을 사용합니다. ... 객실의 콘솔 패널과 에어컨 통풍구는 곡선형으로 디자인되었으며 3-스포크 스티어링 휠이 제공됩니다. 중앙 화면과 운전 정보 화면이 각각 1개씩 설치되어 있습니다. 다른 모델처럼 터치 스크린에만 의존하지 않고 기어 스틱과 기능 제어 버튼이 유지됩니다. 현재 BYD는 뒷좌석 사진을 공개하지 않았지만 뒷좌석은 일반 경차와 마찬가지로 2인승을 지원할 것으로 예상됩니다. 좁은 공간에서 출입이 용이하도록 뒷면에 슬라이딩 도어가 추가되었습니다. 그러나 2029년 중반에 출시될 것으로 예상되며 한 소식통은 판매 가격이 약 2,500,000엔, 즉 약 501,000바트부터 시작될 것이라고 밝혔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "일본 여행 계획이 있다면 참고할 만한 새로운 전기차 정보. 당장 여행에 큰 영향은 없으나, 향후 렌터카 선택에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": "2029-Mid",
+        "location": "Japan",
+        "price": "2,500,000 Yen (예상)",
+        "location_google_map_query": "Japan"
+      },
+      "references": [
+        {
+          "title": "พาไปดู BYD Racco รถไฟฟ้า Kei car ที่ผลิตขายเจาะตลาดญี่ปุ่นโดยเฉพาะ",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2915966",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxlfKSh6Y7sWq.jpg"
+        }
+      ],
+      "collected_at": "06:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7xxlfKSh6Y7sWq.jpg",
       "date": "2026-02-24"
     }
   ]
