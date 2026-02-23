@@ -33773,14 +33773,9 @@
       "summary": "- 파타야에서 18륜 트럭이 상업 건물을 들이받아 건물과 주변 상점 파손.\n- 트럭 운전자와 노점상인 부상, 병원으로 이송.\n- 경찰은 사고 경위를 조사 중.",
       "full_translated": "파타야 뉴스에 따르면 방라뭉 경찰서의 수사관인 싯티왓 차와크루테라트 경찰 중령은 고속도로 7호선(모터웨이)과 평행한 도로, Moo 4의 킬로미터 표지 112+600-700 근처에서 발생한 충돌 보고에 응답했습니다. 경찰은 파타야의 Sawang Boriboon Thammasathan 재단 구조팀과 함께 현장에 도착했습니다. 현장에는 흰색 Hino 18륜 트럭(번호판 75-6354 촌부리)이 4층, 7개 유닛 상업 건물 중앙으로 직접 돌진했습니다. 트럭의 운전석이 벽을 뚫고 구조물 깊숙이 침투하여 건물이 심하게 손상되었습니다. 구내에 주차된 오토바이와 세단은 무너지는 콘크리트 벽에 깔렸습니다. 충격 지점 옆에는 \"위치안부리 구운 닭\"으로 알려진 인기있는 쏨땀(파파야 샐러드)과 구운 닭 노점이 있었는데, 충돌의 힘으로 거의 모든 장비와 상품이 파괴되었습니다. 트럭 운전자인 45세의 Jit Ti Hongdee 씨와 쏨땀 노점상인 53세의 Lek Phan Kluang 씨 두 명이 경미한 부상을 입고 파타야 팟마쿤 병원으로 이송되었습니다. 구운 닭 가게 주인인 58세의 위티야 자이 티앙 씨는 파타야 뉴스에 끔찍한 순간을 설명했습니다. 그는 하루를 시작하기 위해 그릴에 불을 붙이려고 준비하고 있었는데, 거대한 트럭이 갑자기 경고 없이 건물로 돌진했습니다. 충격으로 모든 것이 쓸려나가 재료를 준비하던 아내가 잔해 속에서 쓰러져 부상을 입었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사고로 인한 부상자 발생 및 주변 상점 파손. 여행자 안전에 잠재적 영향.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "Two People Injured in Pattaya After 18 Wheeler Smashes Into Commercial Building Causing Significant Damage",
@@ -33788,22 +33783,20 @@
           "source": "The Pattaya News"
         }
       ],
-      "collected_at": "03:36",
-      "date": "2026-02-24"
+      "collected_at": "3:36",
+      "image_url": "",
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/two-people-injured-in-pattaya-after-18-wheeler-smashes-Into-commercial-building-causing-significant-damage/",
+      "source": ""
     },
     {
       "title": "파타야 좀티엔 해변, 몬순으로 해양 쓰레기 몸살…당국, 긴급 정화 작업",
       "summary": "- 파타야 당국이 좀티엔 해변에 밀려온 대량의 해양 쓰레기 제거 작업에 돌입했습니다.\n- 몬순 기후로 인해 플라스틱, 스티로폼, 나무 조각 등 다양한 쓰레기가 해변을 덮쳤습니다.\n- 당국은 해변의 매력을 되살리고 방문객 안전을 확보하기 위해 정화 작업에 총력을 기울이고 있으며, 시민들에게 해양 환경 보호를 당부했습니다.",
       "full_translated": "파타야시 천연자원환경국 산하 위생 및 환경자원부서는 누적된 쓰레기를 지속적으로 수거 및 제거하기 위해 공무원 팀과 함께 중장비를 배치했습니다. 이번 작전은 해변의 매력을 되살리고 방문객의 안전을 최대한 빨리 확보하기 위한 것입니다. 플라스틱 파편, 스티로폼 상자, 물병, 유목, 통나무, 철못과 같은 위험한 물품을 포함한 쓰레기의 유입은 계절풍 조건 때문입니다. 3월에서 4월 사이에는 탁월풍이 육지로 불어 해류를 유발하여 먼 곳에서 쓰레기를 해안으로 운반합니다. 이러한 자연 현상으로 인해 해상 상황이 거칠어지면 세척된 폐기물의 양이 증가하는 경우가 많습니다. 지역 상인과 해변 이용객은 날씨가 폭풍우로 변하면 이러한 사건이 정기적으로 발생하며 날카롭거나 위험한 물체가 쓰레기에 섞여 부상을 입을 수 있다는 우려 때문에 관광객이 수영을 자제하는 경우도 있다고 언급했습니다. 파타야 당국은 대중에게 호소하여 태국 전역의 주민과 방문객에게 환경에 대한 집단적 책임을 져달라고 촉구했습니다. 그들은 사람들에게 폐기물을 바다에 버리거나 공공 장소에 몰래 버리거나 어떤 식으로든 쓰레기를 버리지 말라고 요청했습니다. 성명은 “버려지는 모든 쓰레기는 결국 우리 해안으로 돌아온다”고 밝혔습니다. “아름다운 바다는 한 사람만으로 이루어지는 것이 아니라 모두가 협력하여 보호하기 때문에 아름다워지는 것입니다.” 라고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "해변 환경 오염으로 인한 여행 경험 저하 가능성. 안전 문제 및 미관상 문제 발생.",
-      "event_info": {
-        "date": null,
-        "location": "좀티엔 해변, 파타야",
-        "price": null,
-        "location_google_map_query": "좀티엔 해변, 파타야"
-      },
+      "event_info": "{'date': None, 'location': '좀티엔 해변, 파타야', 'price': None, 'location_google_map_query': '좀티엔 해변, 파타야'}",
       "references": [
         {
           "title": "Pattaya Authorities Mobilize to Clear Extensive Marine Debris Washed Ashore on Jomtien Beach",
@@ -33812,23 +33805,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718403781152117276251380179595.jpg?v=1771840812"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718403781152117276251380179595.jpg?v=1771840812",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/pattaya-authorities-mobilize-to-clear-extensive-marine-debris-washed-ashore-on-jomtien-beach/",
+      "source": ""
     },
     {
       "title": "태국 국방부 장관 대행, 캄보디아 군의 무분별한 국경 방화 비난 및 충돌 가능성 경고",
       "summary": "- 태국 국방부 장관 대행이 캄보디아 군의 국경 지역 방화 행위를 비난하며 긴장 고조.\n- 분쟁 지역 내 지뢰 문제에 대한 우려 표명과 함께 외교적 노력을 훼손하는 행위라고 지적.\n- 양국 간 오랜 국경 분쟁의 배경 속에서, 추가적인 무력 충돌 가능성을 경고.",
       "full_translated": "태국 국방부 장관 대행인 겐. 나탑폰은 월요일 고위급 국방 회의 후 기자들에게 태국의 우려를 표명하기 위해 캄보디아 상대인 겐. 티 세이하에게 직접 연락했다고 밝혔습니다. 그는 태국이 이전에 분쟁 지역에 심어진 지뢰에 대해 경고음을 울렸으며 현재 국경 화재로 인해 똑같이 어려움을 겪고 있다고 말했습니다. “캄보디아가 진정으로 문제를 평화롭게 해결하길 원한다면 이것은 방법이 되어서는 안 됩니다.”라고 겐. 나탑폰은 말하며 그러한 행동은 외교적 노력을 훼손하고 위험을 고조시킨다고 덧붙였습니다. 이번 비난은 프랑스로부터 캄보디아가 독립한 후 1950년대부터 시작된 태국과 캄보디아 간의 오랜 국경 분쟁을 배경으로 이루어졌습니다. 이 갈등은 고대 프레아 비히어 사원을 포함한 영토 주장을 중심으로 전개되었으며, 2025년 무력 충돌과 부분적인 미국 중재 휴전이 포함된 가장 최근의 주요 확대와 함께 주기적으로 격화되었습니다. 최근 몇 달 동안 지뢰와 관련된 사건으로 태국 군인들이 부상을 입었고 방콕은 휴전 협정을 중단하겠다고 위협했습니다. 태국 당국은 또한 캄보디아 측의 총격전과 도발 혐의를 보고했습니다. 겐. 나탑폰은 또한 캄보디아 군이 태국 군인들이 캄보디아 인력을 쏘아 부상시켰다는 근거 없는 주장을 포함하여 태국군에 대한 허위 주장을 퍼뜨리고 있다고 주장했습니다. 그는 이용 가능한 증거가 이러한 주장을 뒷받침하지 않으며, 이를 선동하려는 시도라고 설명했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국-캄보디아 국경 분쟁 관련 소식으로, 여행객의 안전에 직접적인 위협은 아니지만, 해당 지역 여행 시 주의가 필요할 수 있음. 최신 정보이므로 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai Acting Defense Minister Accuses Cambodian Troops of Undisciplined Border Burning, Warns of Potential Clashes",
@@ -33837,23 +33827,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260223_2032232895650749227991460.jpg?v=1771853593"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260223_2032232895650749227991460.jpg?v=1771853593",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/thai-acting-defense-minister-accuses-cambodian-troops-of-undisciplined-border-burning-warns-of-potential-clashes/",
+      "source": ""
     },
     {
       "title": "파타야, 불법 건축물 소유주에 대한 추가 법적 조치",
       "summary": "- 파타야 시 당국이 건설 중단 명령을 위반한 해안가 콘도 소유주에 대해 법적 조치를 취함.\n- 해당 건물은 2014년부터 법적 문제로 건설이 중단된 상태이며, 건물 사용 금지 명령을 위반함.\n- 위반 시 최대 6개월의 징역 또는 10만 바트의 벌금, 또는 둘 다에 처해질 수 있으며, 규정 준수 시까지 매일 최대 3만 바트의 벌금이 부과됨.",
       "full_translated": "파타야 시 당국은 2026년 2월 22일, 파타야 경찰 수사관에게 정식 고소장을 제출했습니다. 이번 조치는 파타야 시 엔지니어링 부서 산하 건축 통제 부서의 전문가에 의해 시작되었습니다. 건물 통제 검사관 역할을 하는 지식이 풍부한 이 지정된 공무원은 위반에 대한 사실적 증거를 토대로 고소장을 제출했습니다. 시 공무원들은 조사 과정에서 건물 소유주가 2014년부터 법적 문제로 건설이 중단된 건물의 사용을 금지하거나 어떤 사람이든 사용하도록 허용하는 명령을 어겼다는 사실을 발견했습니다. 이 위반 행위는 건물 통제법 40조 1항 또는 41조 1항에 해당합니다. 위반 행위는 특히 건물 허가인 Kor 6 양식에 따라 승인된 계획에서 벗어난 건물의 건설, 수정, 재배치 또는 철거와 관련됩니다. 이러한 행위는 B.E. 2522 (1979) 건물 통제법 67조에 따른 범죄를 구성하며, 개정되었습니다. 이 범죄에 대한 처벌은 최대 6개월의 징역, 최대 10만 바트의 벌금 또는 둘 다를 포함합니다. 주요 처벌 외에도 위반자는 규정에 따라 상황이 시정될 때까지 매일 최대 3만 바트의 벌금을 부과받습니다. 비어 시장은 파타야 시가 공공 안전을 보장하고 도시 기준을 유지하기 위해 건축법을 엄격히 시행할 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 파타야 방문 시 숙박 시설에 영향을 줄 수 있고, 잠재적인 법적 문제에 대한 인식을 높임.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya City Takes Further Legal Action Against Troubled Waterfront Condo Building Owner for Violating Construction Orders",
@@ -33862,23 +33849,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718375605205791525211957864783.jpg?v=1771839365"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718375605205791525211957864783.jpg?v=1771839365",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/pattaya-city-takes-further-legal-action-against-troubled-waterfront-condo-building-owner-for-violating-construction-orders/",
+      "source": ""
     },
     {
       "title": "방프라 시장 및 의회 선거 후보 등록 활발",
       "summary": "- 방프라 지방 자치 단체장 및 의회 의원 선거 후보 등록 시작\n- 시장 후보 2명 등록, 각 3개 선거구에 의회 의원 후보 전체 출마\n- 지지자들이 장미, 금잔화 화환 등으로 후보자 응원하며 축제 분위기 연출",
       "full_translated": "방프라 지방 자치 단체장 및 의회 의원 선거 후보 등록이 방프라 지방 자치 단체 홀 2층 회의실에서 진행되었습니다. 두 명의 후보가 시장 자리를 놓고 공식적으로 경쟁에 나섰습니다. 두 후보 모두 3개 선거구 전체를 아우르는 의회 의원 후보 전체 명단을 가지고 도착했습니다. 방프라 소구 행정기구(현재 업그레이드됨)의 전 시장인 솜삭 케트와타 씨는 3개 구 전체에 걸쳐 완전한 의회 후보 팀을 구성한 “방프라 개발팀”을 이끌고 있습니다. 지라팟 솜분탑 씨는 “우리 모두의 방프라 팀”을 이끌고 있으며, 모든 구에 대한 의회 후보 라인업 전체를 발표했습니다. 신청서 제출 후 시장 후보자에게 번호를 할당하기 위해 추첨이 진행되었습니다. 지라팟 씨는 1번을 뽑았고, 솜삭 씨는 2번을 받았습니다. 시의회 후보의 경우, 팀은 할당된 번호에 대해 상호 합의했습니다. “우리 모두의 방프라 팀”은 1번부터 6번까지, “방프라 개발팀”은 7번부터 12번까지 확보했습니다. 지지자들은 양 진영에서 많은 수로 도착하여 지지를 표명하며 하루 종일 활기찬 분위기가 유지되었습니다. 그들은 후보자와 그들의 팀에게 장미, 금잔화 화환 및 기타 격려의 토큰을 선물하여 개장일부터 축제적이고 경쟁적인 환경을 조성했습니다. 시장 및 시의회 후보 등록은 매일 2026년 2월 27일까지 계속됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 지방 선거 관련 소식. 여행에 직접적인 영향은 적지만, 현지 정치 상황에 대한 이해를 돕는다.",
-      "event_info": {
-        "date": null,
-        "location": "Bang Phra Municipality Hall",
-        "price": null,
-        "location_google_map_query": "Bang Phra Municipality Hall"
-      },
+      "event_info": "{'date': None, 'location': 'Bang Phra Municipality Hall', 'price': None, 'location_google_map_query': 'Bang Phra Municipality Hall'}",
       "references": [
         {
           "title": "Energetic Start to Candidate Registration for Bang Phra Municipality Mayor and Council Election",
@@ -33887,8 +33871,110 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718656210175646301602542991354.jpg?v=1771865719"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718656210175646301602542991354.jpg?v=1771865719",
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/23/energetic-start-to-candidate-registration-for-bang-phra-municipality-mayor-and-council-election/",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변에서 독일인 관광객, 트랜스젠더 여성들에게 폭행 및 강도 피해",
+      "summary": "- 파타야 해변에서 독일인 관광객 마르쿠스가 트랜스젠더 여성들에게 폭행 및 강도 피해를 입었습니다.\n- 그는 한 여성을 자신의 숙소로 초대했지만, 그녀가 트랜스젠더라는 사실을 알고 내보낸 후 현금 도난 사실을 알게 되었습니다.\n- 돈을 되찾으려다 다른 트랜스젠더들에게 집단 폭행을 당했으며, 주변 사람들의 도움으로 지갑은 되찾았지만, 용의자들은 도주했습니다.",
+      "full_translated": "파타야 시 경찰서의 경찰 보고서에 따르면, 이번 사건은 파타야 13번 소이 맞은편 해변 도로에서 새벽 시간에 발생했습니다. 목격자들과 구경꾼들이 촬영한 바이럴 영상에는 트랜스젠더 여성들이 외국인을 둘러싸고 공격하며 몸싸움을 벌이는 모습이 담겨 있습니다. 영상 속에서 지갑이나 소지품을 빼앗으라는 외침도 들립니다.\n\n피해자는 55세의 독일 국적 남성 마르쿠스로 확인되었으며, 그는 경찰에 자신이 트랜스젠더 여성을 시스젠더 여성으로 착각하여 잠시 쉬려고 숙소로 초대했다고 진술했습니다. 샤워 후 그녀가 트랜스젠더라는 사실을 알게 되자 방에서 내보냈습니다. 돌아온 후 그는 방 금고에서 35,000바트와 1,200유로가 사라진 것을 발견했습니다. 그는 방문객을 의심하여 파타야 해변을 따라 수색하다가 자신이 알아본 트랜스젠더 여성을 발견했습니다. \n\n마르쿠스는 사라진 돈에 대해 이야기하기 위해 그녀를 경찰서로 데려가려고 시도했지만, 4~5명의 트랜스젠더 동료들이 개입하여 그를 폭행하고 부상을 입혔습니다. 근처에 있던 한 선한 사마리아인이 바닥에 떨어진 피해자의 지갑을 되찾아 돌려주었고, 이는 그들을 더욱 분노하게 만들었습니다. 공격자들은 주변 사람들이 개입하고 일부가 사건을 촬영하기 시작하자 현장에서 도주했습니다. 용의자 중 한 명은 사람들에게 촬영하지 말라고 소리치는 것이 들렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 중요 정보로 판단. 특히 새벽 시간대에 발생한 사건이므로 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "Pattaya Beach"
+      },
+      "references": [
+        {
+          "title": "German Tourist Assaulted and Robbed by Group of Transgender Women in Pattaya Beach Incident",
+          "url": "https://thepattayanews.com/2026/02/24/german-tourist-assaulted-and-robbed-by-group-of-transgender-women-in-pattaya-beach-incident/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718823997351645478501213522668.jpg?v=1771882509"
+        }
+      ],
+      "collected_at": "04:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718823997351645478501213522668.jpg?v=1771882509",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "태국 관광 공원, 치명적인 바이러스 발생으로 호랑이 72마리 폐사",
+      "summary": "- 태국 전역의 관광 공원에서 치명적인 바이러스 발생\n- 이로 인해 호랑이 72마리가 폐사함\n- 관광객 안전에 대한 우려 증가",
+      "full_translated": "태국 전역의 관광 공원에서 치명적인 바이러스가 발생하여 호랑이 72마리가 폐사했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객들이 방문하는 공원에서 호랑이 폐사가 발생했으므로 안전에 대한 우려가 있어 여행에 영향을 줄 수 있다고 판단. 특히 가족 단위 여행객에게는 중요한 정보가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역 관광 공원",
+        "price": null,
+        "location_google_map_query": "Tourist parks across Thailand"
+      },
+      "references": [
+        {
+          "title": "72 Tigers Dead After Lethal Virus Outbreak at Tourist Parks Across Thailand - People.com",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1lDNzczb29JOG9zNF9TLVJYbTd3TGREQVlRRk9aMTl1cjd5QV91VHFTZTRSMU9kUVFCcjhmLXB1dGQteEVpTHJDNjE3OFJCWEdkcGhGUklVSGctU3IyN2hiTllTMEdSbWFnaTZuNjNNbFVIY3NrSEJxSEVUOS1UR1VRUzBPcEhtZGljMl8wc0Q?oc=5",
+          "source": "People.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:36",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "파타야에서 활동하는 러시아 갱단, 사기 혐의로 체포",
+      "summary": "- 소비자 보호 범죄 진압 부서에서 작전을 수행했습니다.\n- 러시아 국적의 남성과 태국 국적의 여성이 체포되었습니다.\n- ATM 카드, 휴대폰 등 증거물이 압수되었습니다.",
+      "full_translated": "소비자 보호 범죄 진압 부서(1부)가 중앙 수사국의 감독하에 작전을 수행했습니다. 폴 마지 장군 콩크릿 뢰트시티쿤 소비자 보호 범죄 진압 국장과 폴 콜 아누왓 락차로엔 부국장, 폴 콜 크라이윗 센타위숙 1분과장 및 폴 Lt Col 파이라트 프롬웡, 폴 Lt Col 푸미팟 부아랏나쿨, 폴 Lt Col (f) 솜와디 포티왓 등은 촌부리 지방 법원에서 발부한 체포 영장을 근거로 체포를 집행했습니다. 2026년 2월 23일, 당국은 러시아 국적의 세르게이 카바로프(35세)를 2026년 2월 23일자 체포 영장 102/2569호에 따라 체포했습니다. 그는 공공에 피해를 줄 수 있는 방식으로 시스템에 허위 컴퓨터 데이터를 부정직하게 또는 기만적으로 도입하여 사기를 공모하고, 대중을 상대로 사기를 공모하거나, 개인적인 용도로 사용할 의도 없이 은행 예금 계좌를 개설하거나 사용하는 데 동의한 혐의를 받고 있습니다. 체포는 소이 부냐칸자나 5의 콘도미니엄에서 이루어졌습니다. 별도의 동시 작전에서 경찰은 태국 국적의 사시비몬 손차로엔(20세)을 동일한 혐의로 2026년 2월 23일자 체포 영장 98/2569호에 따라 체포했습니다. 그녀는 28/19번지, 무 2에 있는 건강 마사지 상점 앞에서 구금되었습니다. 압수된 증거물은 다음과 같습니다. – ATM 카드 9개 – 휴대폰 3개",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 외국인 대상 사기 범죄 발생. 여행자들에게 주의를 요함. 기존 뉴스에 유사 내용 없으므로 새로운 뉴스로 판단.",
+      "event_info": {
+        "date": "2026-02-23",
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "CIB Busts Russian-Led Scam Gang Operating in Pattaya, Involving Millions in Circulating Funds",
+          "url": "https://thepattayanews.com/2026/02/24/cib-busts-russian-led-scam-gang-operating-in-pattaya-involving-millions-in-circulating-funds/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0338045925897388566617945.jpg?v=1771879188"
+        }
+      ],
+      "collected_at": "04:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0338045925897388566617945.jpg?v=1771879188",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "미국, 중국의 핵무기 증강 비난하며 군축 조약 촉구",
+      "summary": "- 미국 정부는 중국이 핵무기 비축량을 급격히 늘리고 있다고 비난하며 러시아와 함께 새로운 군축 조약에 참여할 것을 촉구했습니다.\n- 미국은 중국이 비밀리에 핵실험을 진행하고 있다고 주장하며, 미국-러시아 간의 New START 조약에 중국을 포함하는 '더 나은 합의'를 이루고자 합니다.\n- 중국은 3자 군축 조약 협상을 거부하고 있으며, 미국은 중국이 향후 4~5년 안에 핵무기에서 미국과 동등한 수준에 도달할 수 있다고 경고했습니다.",
+      "full_translated": "미국은 중국이 핵무기를 급격히 확장하고 있다고 비난하며, 중국이 미국과 러시아와 함께 새로운 무기 통제 조약에 참여할 것을 촉구했습니다. 2069년 2월 23일 월요일, 미국 정부는 중국이 핵무기 비축량을 빠르게 늘리고 있다고 비난하며, 베이징이 비밀리에 핵실험을 진행하고 있다는 주장을 되풀이하고 중국에 미래의 무기 통제 조약에 참여할 것을 다시 한번 촉구했습니다. 워싱턴은 미국과 러시아 간의 마지막 핵무기 통제 협정인 New START 조약이 이달 초 종료된 것이 베이징을 포함하는 '더 나은 합의'에 도달할 수 있는 기회라고 밝혔습니다. 그러나 중국 당국은 3자 조약 협상에 참여하는 것을 거부했습니다. 크리스토퍼 여우 미국 국무부 군축 및 비확산 담당 차관보는 제네바 군축 회의에서 기존의 New START 조약에 심각한 결함이 있다고 말했습니다. 여우 차관보는 “New START의 가장 큰 결함은 중국의 전례 없는 신속하고 비밀스럽고 계획적인 핵무기 축적을 다루지 못한다는 점일 수 있습니다.”라고 말했습니다. 그는 또한 “중국이 반대 주장을 펴고 있음에도 불구하고 중국은 제한이나 투명성 없이 핵무기 비축량을 대규모로 확장했으며, 이러한 축적의 의도나 최종 목표를 밝히지 않았습니다.”라고 덧붙였습니다. 여우 차관보는 자세한 내용은 밝히지 않았지만 “우리는 중국이 4~5년 안에 '동등' 수준에 도달할 수 있다고 믿습니다.”라고 말했습니다. 노벨 평화상을 수상한 ICAN 캠페인 그룹의 데이터에 따르면 러시아는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향은 없으나, 국제 정세 변화에 대한 정보 제공 차원에서 포함. 다만 여행 관련 우선순위가 낮으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สหรัฐฯ กล่าวหาจีน ขยายคลังแสงนิวเคลียร์ จี้ทำสัญญาควบคุมอาวุธ",
+          "url": "https://www.thairath.co.th/news/foreign/2916004",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZbUSdzkXS9G.jpg"
+        }
+      ],
+      "collected_at": "04:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZbUSdzkXS9G.jpg",
       "date": "2026-02-24"
     }
   ]
