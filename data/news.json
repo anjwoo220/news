@@ -33882,14 +33882,9 @@
       "summary": "- 파타야 해변에서 독일인 관광객 마르쿠스가 트랜스젠더 여성들에게 폭행 및 강도 피해를 입었습니다.\n- 그는 한 여성을 자신의 숙소로 초대했지만, 그녀가 트랜스젠더라는 사실을 알고 내보낸 후 현금 도난 사실을 알게 되었습니다.\n- 돈을 되찾으려다 다른 트랜스젠더들에게 집단 폭행을 당했으며, 주변 사람들의 도움으로 지갑은 되찾았지만, 용의자들은 도주했습니다.",
       "full_translated": "파타야 시 경찰서의 경찰 보고서에 따르면, 이번 사건은 파타야 13번 소이 맞은편 해변 도로에서 새벽 시간에 발생했습니다. 목격자들과 구경꾼들이 촬영한 바이럴 영상에는 트랜스젠더 여성들이 외국인을 둘러싸고 공격하며 몸싸움을 벌이는 모습이 담겨 있습니다. 영상 속에서 지갑이나 소지품을 빼앗으라는 외침도 들립니다.\n\n피해자는 55세의 독일 국적 남성 마르쿠스로 확인되었으며, 그는 경찰에 자신이 트랜스젠더 여성을 시스젠더 여성으로 착각하여 잠시 쉬려고 숙소로 초대했다고 진술했습니다. 샤워 후 그녀가 트랜스젠더라는 사실을 알게 되자 방에서 내보냈습니다. 돌아온 후 그는 방 금고에서 35,000바트와 1,200유로가 사라진 것을 발견했습니다. 그는 방문객을 의심하여 파타야 해변을 따라 수색하다가 자신이 알아본 트랜스젠더 여성을 발견했습니다. \n\n마르쿠스는 사라진 돈에 대해 이야기하기 위해 그녀를 경찰서로 데려가려고 시도했지만, 4~5명의 트랜스젠더 동료들이 개입하여 그를 폭행하고 부상을 입혔습니다. 근처에 있던 한 선한 사마리아인이 바닥에 떨어진 피해자의 지갑을 되찾아 돌려주었고, 이는 그들을 더욱 분노하게 만들었습니다. 공격자들은 주변 사람들이 개입하고 일부가 사건을 촬영하기 시작하자 현장에서 도주했습니다. 용의자 중 한 명은 사람들에게 촬영하지 말라고 소리치는 것이 들렸습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 중요 정보로 판단. 특히 새벽 시간대에 발생한 사건이므로 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': 'Pattaya Beach'}",
       "references": [
         {
           "title": "German Tourist Assaulted and Robbed by Group of Transgender Women in Pattaya Beach Incident",
@@ -33898,23 +33893,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718823997351645478501213522668.jpg?v=1771882509"
         }
       ],
-      "collected_at": "04:36",
+      "collected_at": "4:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17718823997351645478501213522668.jpg?v=1771882509",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/24/german-tourist-assaulted-and-robbed-by-group-of-transgender-women-in-pattaya-beach-incident/",
+      "source": ""
     },
     {
       "title": "태국 관광 공원, 치명적인 바이러스 발생으로 호랑이 72마리 폐사",
       "summary": "- 태국 전역의 관광 공원에서 치명적인 바이러스 발생\n- 이로 인해 호랑이 72마리가 폐사함\n- 관광객 안전에 대한 우려 증가",
       "full_translated": "태국 전역의 관광 공원에서 치명적인 바이러스가 발생하여 호랑이 72마리가 폐사했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객들이 방문하는 공원에서 호랑이 폐사가 발생했으므로 안전에 대한 우려가 있어 여행에 영향을 줄 수 있다고 판단. 특히 가족 단위 여행객에게는 중요한 정보가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "태국 전역 관광 공원",
-        "price": null,
-        "location_google_map_query": "Tourist parks across Thailand"
-      },
+      "event_info": "{'date': None, 'location': '태국 전역 관광 공원', 'price': None, 'location_google_map_query': 'Tourist parks across Thailand'}",
       "references": [
         {
           "title": "72 Tigers Dead After Lethal Virus Outbreak at Tourist Parks Across Thailand - People.com",
@@ -33923,23 +33915,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:36",
+      "collected_at": "4:36",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV1lDNzczb29JOG9zNF9TLVJYbTd3TGREQVlRRk9aMTl1cjd5QV91VHFTZTRSMU9kUVFCcjhmLXB1dGQteEVpTHJDNjE3OFJCWEdkcGhGUklVSGctU3IyN2hiTllTMEdSbWFnaTZuNjNNbFVIY3NrSEJxSEVUOS1UR1VRUzBPcEhtZGljMl8wc0Q?oc=5",
+      "source": ""
     },
     {
       "title": "파타야에서 활동하는 러시아 갱단, 사기 혐의로 체포",
       "summary": "- 소비자 보호 범죄 진압 부서에서 작전을 수행했습니다.\n- 러시아 국적의 남성과 태국 국적의 여성이 체포되었습니다.\n- ATM 카드, 휴대폰 등 증거물이 압수되었습니다.",
       "full_translated": "소비자 보호 범죄 진압 부서(1부)가 중앙 수사국의 감독하에 작전을 수행했습니다. 폴 마지 장군 콩크릿 뢰트시티쿤 소비자 보호 범죄 진압 국장과 폴 콜 아누왓 락차로엔 부국장, 폴 콜 크라이윗 센타위숙 1분과장 및 폴 Lt Col 파이라트 프롬웡, 폴 Lt Col 푸미팟 부아랏나쿨, 폴 Lt Col (f) 솜와디 포티왓 등은 촌부리 지방 법원에서 발부한 체포 영장을 근거로 체포를 집행했습니다. 2026년 2월 23일, 당국은 러시아 국적의 세르게이 카바로프(35세)를 2026년 2월 23일자 체포 영장 102/2569호에 따라 체포했습니다. 그는 공공에 피해를 줄 수 있는 방식으로 시스템에 허위 컴퓨터 데이터를 부정직하게 또는 기만적으로 도입하여 사기를 공모하고, 대중을 상대로 사기를 공모하거나, 개인적인 용도로 사용할 의도 없이 은행 예금 계좌를 개설하거나 사용하는 데 동의한 혐의를 받고 있습니다. 체포는 소이 부냐칸자나 5의 콘도미니엄에서 이루어졌습니다. 별도의 동시 작전에서 경찰은 태국 국적의 사시비몬 손차로엔(20세)을 동일한 혐의로 2026년 2월 23일자 체포 영장 98/2569호에 따라 체포했습니다. 그녀는 28/19번지, 무 2에 있는 건강 마사지 상점 앞에서 구금되었습니다. 압수된 증거물은 다음과 같습니다. – ATM 카드 9개 – 휴대폰 3개",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 외국인 대상 사기 범죄 발생. 여행자들에게 주의를 요함. 기존 뉴스에 유사 내용 없으므로 새로운 뉴스로 판단.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "CIB Busts Russian-Led Scam Gang Operating in Pattaya, Involving Millions in Circulating Funds",
@@ -33948,23 +33937,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0338045925897388566617945.jpg?v=1771879188"
         }
       ],
-      "collected_at": "04:36",
+      "collected_at": "4:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_0338045925897388566617945.jpg?v=1771879188",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://thepattayanews.com/2026/02/24/cib-busts-russian-led-scam-gang-operating-in-pattaya-involving-millions-in-circulating-funds/",
+      "source": ""
     },
     {
       "title": "미국, 중국의 핵무기 증강 비난하며 군축 조약 촉구",
       "summary": "- 미국 정부는 중국이 핵무기 비축량을 급격히 늘리고 있다고 비난하며 러시아와 함께 새로운 군축 조약에 참여할 것을 촉구했습니다.\n- 미국은 중국이 비밀리에 핵실험을 진행하고 있다고 주장하며, 미국-러시아 간의 New START 조약에 중국을 포함하는 '더 나은 합의'를 이루고자 합니다.\n- 중국은 3자 군축 조약 협상을 거부하고 있으며, 미국은 중국이 향후 4~5년 안에 핵무기에서 미국과 동등한 수준에 도달할 수 있다고 경고했습니다.",
       "full_translated": "미국은 중국이 핵무기를 급격히 확장하고 있다고 비난하며, 중국이 미국과 러시아와 함께 새로운 무기 통제 조약에 참여할 것을 촉구했습니다. 2069년 2월 23일 월요일, 미국 정부는 중국이 핵무기 비축량을 빠르게 늘리고 있다고 비난하며, 베이징이 비밀리에 핵실험을 진행하고 있다는 주장을 되풀이하고 중국에 미래의 무기 통제 조약에 참여할 것을 다시 한번 촉구했습니다. 워싱턴은 미국과 러시아 간의 마지막 핵무기 통제 협정인 New START 조약이 이달 초 종료된 것이 베이징을 포함하는 '더 나은 합의'에 도달할 수 있는 기회라고 밝혔습니다. 그러나 중국 당국은 3자 조약 협상에 참여하는 것을 거부했습니다. 크리스토퍼 여우 미국 국무부 군축 및 비확산 담당 차관보는 제네바 군축 회의에서 기존의 New START 조약에 심각한 결함이 있다고 말했습니다. 여우 차관보는 “New START의 가장 큰 결함은 중국의 전례 없는 신속하고 비밀스럽고 계획적인 핵무기 축적을 다루지 못한다는 점일 수 있습니다.”라고 말했습니다. 그는 또한 “중국이 반대 주장을 펴고 있음에도 불구하고 중국은 제한이나 투명성 없이 핵무기 비축량을 대규모로 확장했으며, 이러한 축적의 의도나 최종 목표를 밝히지 않았습니다.”라고 덧붙였습니다. 여우 차관보는 자세한 내용은 밝히지 않았지만 “우리는 중국이 4~5년 안에 '동등' 수준에 도달할 수 있다고 믿습니다.”라고 말했습니다. 노벨 평화상을 수상한 ICAN 캠페인 그룹의 데이터에 따르면 러시아는...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향은 없으나, 국제 정세 변화에 대한 정보 제공 차원에서 포함. 다만 여행 관련 우선순위가 낮으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สหรัฐฯ กล่าวหาจีน ขยายคลังแสงนิวเคลียร์ จี้ทำสัญญาควบคุมอาวุธ",
@@ -33973,8 +33959,85 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZbUSdzkXS9G.jpg"
         }
       ],
-      "collected_at": "04:36",
+      "collected_at": "4:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSZbUSdzkXS9G.jpg",
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/foreign/2916004",
+      "source": ""
+    },
+    {
+      "title": "온라인 사기 신고 감소 추세, 투자 사기는 급증",
+      "summary": "- 태국 사이버 사기 방지 센터(ACSC)는 온라인 사기 사건이 전반적으로 감소했다고 보고함.\n- 온라인 쇼핑 사기가 여전히 가장 흔하지만 피해액은 적음.\n- 투자 사기가 급증하여 재정적 손실의 주요 원인이 되었으며 피해액은 1억 2,300만 바트를 초과함.",
+      "full_translated": "사이버 사기 방지 센터(ACSC)는 최신 주간 검토에서 온라인 사기 사건이 전반적으로 감소했다고 보고했지만, 투자 사기가 급증하여 재정적 손실의 주요 원인이 되었으며 피해액은 1억 2,300만 바트를 초과한다고 경고했습니다.\n\n이 수치는 Pol Gen Thana Chuwong 국가 경찰 부국장 겸 센터 국장과 Pol Lt Gen Jirabhop Bhuridej 경찰 부국장 겸 센터 부국장의 감독 하에 월요일에 발표되었습니다.\n\n2월 15일부터 21일까지 당국은 Thaipoliceonline 시스템을 통해 6,736건의 민원을 접수했으며 총 피해액은 4억 2,930만 바트로 보고되었습니다. 이전 주(2월 8일부터 14일)와 비교했을 때 사건 수는 551건 감소했으며 재정적 손실은 7,060만 바트 이상 감소했습니다.\n\n분석가들은 전반적인 추세를 명확한 개선으로 묘사했으며 최근 몇 달 동안 가장 긍정적인 통계 주 중 하나라고 평가했습니다. 양적으로는 온라인 쇼핑 사기가 여전히 가장 흔한 범죄로 보고된 사건의 70.1%를 차지했습니다. 경찰은 사기가 일반적으로 피해자당 비교적 적은 금액과 관련되지만 광범위한 대중에게 영향을 미친다고 밝혔습니다. 두 번째로 가장 빈번한 범주는 선불 이체에 대한 대가로 추가 소득을 약속하는 사기성 제안과 전화 기반 위협 및 협박 계획과 관련되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "온라인 사기는 여행자에게도 발생할 수 있으므로 주의가 필요하며, 최신 통계 정보이므로 업데이트 가치가 있음. 투자 사기가 증가했다는 점은 특히 주의해야 할 부분.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Fraud complaints 'declining'",
+          "url": "https://www.bangkokpost.com/thailand/general/3203740/fraud-complaints-declining",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203740_260224050608_700.jpg"
+        }
+      ],
+      "collected_at": "05:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203740_260224050608_700.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "How to visit the Red Lotus Sea in Lisa’s viral Thailand tourism campaign - Prestige Hong Kong",
+      "summary": "- 리사가 태국 관광 캠페인에서 홍련 바다를 소개하며 화제가 되었습니다.\n- 홍련 바다를 방문하는 방법에 대한 기사입니다.\n- 태국 관광에 대한 관심이 높아질 것으로 예상됩니다.",
+      "full_translated": "리사의 바이럴 태국 관광 캠페인에서 붉은 연꽃 바다를 방문하는 방법 - Prestige Hong Kong",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 관광 명소에 대한 정보이므로 중간 점수를 부여합니다. 특히 리사의 영향력을 고려할 때 홍련 바다에 대한 관심이 증가할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "Red Lotus Sea",
+        "price": null,
+        "location_google_map_query": "Red Lotus Sea Thailand"
+      },
+      "references": [
+        {
+          "title": "How to visit the Red Lotus Sea in Lisa’s viral Thailand tourism campaign - Prestige Hong Kong",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVFhuaHlQTmpiOUNxMUZDUW1tek1DMEpRWmlKNGF3NVF0TDNHZUpVRm9oLUlSbE9pQ2RUeFhTUHBJaTdVa1FoVkJQdENPWFZuU0lvMmdkNzF4SURMRV9NZ0YzTHdHQ1B6OF84bDZVeERCRzlUVjhTNVk1Sno3anlyU2FuVEZaOU1NMWNCSnlrYnFnN2N3Y3ZnaGF0dkVwQV92d09TRVA0LXNoUdIBrwFBVV95cUxORTBCdTAxWjFWaG5qQW01QWI3SGZKeWlOaHZWRmQxaF9qWTZJV0MtNFRHNlZtYnBGOUxoN3hjOGIxbktmMDh2R1hCX0xXbVhXUm4xekJzUVl6RkwyUGZqQmp2eUoyLVFiU2EtWTRFU01QSmdoemhfUzZDekI0amEtc2k2OFl3TlUxb2s3eFF2eXJIMHJGaFBjM2kyVk03SFNveDdmVm52dTQ3dFhKS01V?oc=5",
+          "source": "Prestige Hong Kong",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:33",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "태국 정부, 부가가치세(VAT) 인상 계획 없음",
+      "summary": "- 차기 정부는 경제 회복에 집중할 것이며, 부가가치세율을 10%로 인상할 계획이 없음.\n- 3년 이내에는 VAT 인상이 없을 것이며, 세수 증대 방안은 경제 상황 개선 이후에 논의될 예정.\n- 현재 VAT 상한선은 7%로 유지될 것.",
+      "full_translated": "차기 정부는 경제 회복에 집중할 것이며, 향후 3년간 부가가치세(VAT) 세율을 10%로 인상하지 않을 것이라고 품자이타이당(BJT) 고위 관계자가 밝혔습니다. BJT 부대표인 시리퐁 앙카사쿨키앗은 지난주 경제, 통화 및 재정 관련 상원 소위원회가 제안한 내용에 대한 답변으로 월요일에 이같이 밝혔습니다. 해당 소위원회는 VAT를 단계적으로 10%까지 인상하는 것을 포함하여 세금 시스템을 점진적으로 재구성할 것을 제안하여 차기 정부가 현재 7%로 제한된 VAT 상한선을 인상하는 것을 고려할 수 있다는 추측을 불러일으켰습니다. 시리퐁은 VAT 인상 가능성에 대한 우려를 일축하며 정부는 단기적으로 VAT를 인상할 계획이 없다고 말했습니다. 그는 세수 증대에 대한 논의가 있었다는 것을 인정했지만, 이러한 조치는 2~3년 후의 의제가 될 것이라고 강조했습니다. 세금 정책의 재검토는 사람들이 경제가 분명히 개선되었다고 느낄 때만 이루어질 것이라고 그는 말했습니다. 시리퐁은 \"최우선 과제는 더 높은 VAT를 부과하여 더 많은 세수를 징수하는 것이 아니라 경제를 회복하는 것\"이라고 말했습니다. 상원 소위원회는 지난주 세무부 및 증권거래위원회 등 다양한 기관의 대표들이 참석한 세금 구조 조정에 관한 세미나를 개최했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "VAT 인상 계획 없음은 여행 시 물가 변동에 영향을 미치므로 정보 제공 가치가 있음. 단, 단기적인 영향은 미미하므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "'No plan' for VAT rate hike",
+          "url": "https://www.bangkokpost.com/thailand/general/3203565/no-plan-for-vat-rate-hike",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203565_260224043440_700.jpg"
+        }
+      ],
+      "collected_at": "05:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3203565_260224043440_700.jpg",
       "date": "2026-02-24"
     }
   ]
