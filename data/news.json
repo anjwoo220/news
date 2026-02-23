@@ -32012,14 +32012,9 @@
       "summary": "- 말레이시아 사바 주 해안에서 규모 7.1의 강진이 발생했으나, 쓰나미 경보는 발령되지 않았습니다.\n- 진앙은 코타키나발루에서 북동쪽으로 100km 떨어진 해역이며, 깊이는 약 619.8km입니다.\n- 진동은 사바 주 서부 해안, 사라왁 주 일부, 싱가포르에서도 감지되었으며, 현재까지 피해 보고는 없습니다.",
       "full_translated": "2069년 2월 23일, 말레이시아 사바 주 해안에서 규모 7.1의 강진이 발생했습니다. 미국 지질조사국(USGS)에 따르면 진앙은 코타키나발루에서 북동쪽으로 100km 떨어진 해역이며, 깊이는 약 619.8km입니다. 말레이시아 기상청은 진앙이 쿠닷에서 서쪽으로 49km 떨어진 해역이며, 깊이는 약 678km라고 밝혔습니다. 이번 지진은 깊이가 깊어 쓰나미 위험이 낮아 미국 쓰나미 경보 센터는 경보를 발령하지 않았습니다. 현지 언론은 사바 주 서부 해안, 사라왁 주 일부, 싱가포르에서도 진동이 감지되었다고 보도했습니다. 사바 소방 구조대는 아직까지 피해나 부상자 보고는 없다고 밝혔습니다. 말레이시아 당국은 상황을 면밀히 주시하고 있으며, 추가 진동이 감지되면 보고해 줄 것을 요청했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 인접 국가에서 발생한 지진으로, 여행객의 안전에 영향을 줄 수 있는 정보입니다. 쓰나미 경보는 없지만, 혹시 모를 상황에 대비하여 정보를 제공합니다.",
-      "event_info": {
-        "date": "2069-02-23",
-        "location": "사바 주 해안",
-        "price": null,
-        "location_google_map_query": "사바 주 해안"
-      },
+      "event_info": "{'date': '2069-02-23', 'location': '사바 주 해안', 'price': None, 'location_google_map_query': '사바 주 해안'}",
       "references": [
         {
           "title": "แผ่นดินไหวรุนแรง 7.1 นอกชายฝั่งรัฐซาบาห์ มาเลเซีย ช่วงกลางดึก ไม่มีเตือนสึนามิ",
@@ -32028,23 +32023,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3hGxWP5hhav.jpg"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3hGxWP5hhav.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/foreign/2915811",
+      "source": ""
     },
     {
       "title": "말레이시아 보르네오섬 7.1 강진 발생, 태국 영향 없어",
       "summary": "- 2월 22일 말레이시아 보르네오섬에서 규모 7.1의 지진 발생.\n- 진앙은 북위 6.870도, 동경 116.260도이며 깊이는 633km.\n- 태국 기상청은 이번 지진이 태국에 미치는 영향은 없다고 발표.",
       "full_translated": "23시 57분, 말레이시아 보르네오에서 규모 7.1의 지진이 발생했습니다. 태국 기상청은 이번 지진이 태국에 영향을 미치지 않을 것이라고 밝혔습니다. 국민들은 지진 감시 부서의 정보만을 참고해 주시기 바랍니다. 기상청은 보르네오 지진에 대한 발표에서 2069년 2월 22일 23시 57분에 북위 6.870도, 동경 116.260도에서 규모 7.1, 깊이 633km의 지진이 발생했으며 태국에 영향을 미치지 않을 것이라고 밝혔습니다. 추가 정보가 있으면 즉시 알려드리겠습니다. 00시 52분 지진 TMD 페이지는 현재 태국에 중심을 둔 대규모 지진은 없다고 밝혔습니다. 지진 감시 부서의 정보만 참고하시기 바랍니다. ... 지진 감시 센터, 지진 TMD 페이지, 국가 재난 경고 센터의 정보에 감사드립니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국에 직접적인 영향은 없으나, 인접 지역에서 발생한 지진 정보는 여행자 안전을 위해 필요하다고 판단.",
-      "event_info": {
-        "date": "2069-02-22",
-        "location": "보르네오 섬",
-        "price": null,
-        "location_google_map_query": "Borneo"
-      },
+      "event_info": "{'date': '2069-02-22', 'location': '보르네오 섬', 'price': None, 'location_google_map_query': 'Borneo'}",
       "references": [
         {
           "title": "แผ่นดินไหวขนาด 7.1 ที่เกาะเบอร์เนียว มาเลเซีย อุตุฯ ย้ำไม่ส่งผลกระทบประเทศไทย",
@@ -32053,23 +32045,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3kiPuyEca6a.jpg"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3kiPuyEca6a.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.thairath.co.th/news/society/2915810",
+      "source": ""
     },
     {
       "title": "태국, 2026년 최고의 거주 국가로 선정: 활기 넘치는 도시, 유네스코 디자인 허브, 풍부한 문화가 여행객의 낙원을 만들다",
       "summary": "- 태국이 2026년 최고의 거주 국가 중 하나로 선정되었습니다.\n- 활기찬 도시, 유네스코 디자인 허브, 풍부한 문화가 주요 요인으로 꼽힙니다.\n- 여행객에게 매력적인 관광지로 자리매김할 것으로 기대됩니다.",
       "full_translated": "태국이 2026년 최고의 거주 국가로 선정되었습니다. 활기찬 도시, 유네스코 디자인 허브, 풍부한 문화가 여행객의 낙원을 만듭니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 살기 좋은 나라로 선정된 것은 여행객에게도 긍정적인 영향을 미칠 수 있다는 점에서 정보 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Best Countries to Live in 2026 Recognition: How Its Vibrant Cities, UNESCO Design Hubs, and Cultural Richness Make It a Traveler’s Paradise - Travel And Tour World",
@@ -32078,23 +32067,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQd190NEdxOHA1Q3pLNkd0QkpiQ2NwbjV3V1VCRGtKSGMzT0p1UllqcVNobXBoY2ZxNERfTzBqOFRtU1kySG8tZG4zcWpfeElUT0ZjRlhPVTlBN3JZOWpBZ1FVS25BYkhDY0tjeVFCYVkySG5IZ09TWFBJVjBhZjNoaEx1bVpsWDBkb2ZBWTg2Y09QUnM5NmhLQ2llM2xKMnlvRlo4T1ZJaXFhbWNyUmZHMTFEckJKVlBwWE9ZRXMwWW8zUV9TZWVhdkg3YVFPazY1UFNZanhsd2dwZTdZQnFtWEtOdzVZUm1MSjBWMmozUGVEeENoTk5CWERlRzBXNGo0ZWN4bGd3QVN2WGttNkp5UkxRVExPQnZlc2EzeEt3?oc=5",
+      "source": ""
     },
     {
       "title": "태국 은행, 신용 점수 기반 대출 금리 모델 도입: 소비자 금융에 미치는 영향",
       "summary": "- 태국 은행들이 개인 대출 금리 결정 시 소득 대신 신용 점수를 활용하는 모델을 도입.\n- TMBThanachart Bank(ttb)가 최초로 위험 기반 가격 책정(RBP) 모델을 도입하여 금리 결정 방식을 전환.\n- 신용 점수가 높은 차용인은 낮은 금리를, 위험도가 높은 고객은 높은 금리를 적용받게 됨.",
       "full_translated": "태국 은행들은 개인 대출에 대한 이자를 결정하기 위해 차용인의 월 소득에 의존해 왔습니다. 이제 개인의 신용 점수가 이자율을 결정하는 데 도움이 될 수 있으며, 이는 소비자의 차용 방식과 은행의 위험 관리 방식에 변화를 가져올 수 있습니다. 이러한 변화는 TMBThanachart Bank(ttb)가 주도하고 있으며, 개인 대출 상품에 대한 위험 기반 가격 책정(RBP) 모델을 도입하여 태국 최초로 소득이 아닌 고객의 신용 점수를 기준으로 이자율을 책정하는 은행이 되었습니다. 새로운 접근 방식에 따라 상환 행동이 양호한 차용인은 더 낮은 이자율을 기대할 수 있는 반면, 위험도가 높은 고객은 계속해서 더 높은 비용에 직면하게 될 것입니다.\n\n신용 점수 집중 조명\n\n신용 정보 사업법은 신용 점수를 신용 정보를 분석하는 통계적 방법을 사용하여 계산된 채무 상환 가능성 지표로 정의합니다. National Credit Bureau(NCB)의 최고 경영자인 Luxamon Attapich에 따르면, NCB는 2016년부터 신용 기록 데이터를 기반으로 구축된 통계적 모델을 사용하여 신용 점수 평가 방법을 개발해 왔습니다. 금융 기관은 NCB 데이터베이스의 신용 점수를 활용하여 RBP 모델을 지원할 수 있습니다. RBP 방식에 따라 대출 신청자는",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 금융 시스템 변화에 대한 정보로, 여행자 신용 카드 사용 및 대출에 간접적인 영향을 줄 수 있음. 다만, 직접적인 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Using credit scores to gauge interest",
@@ -32103,23 +32089,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203090_260223052114_700.jpg"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203090_260223052114_700.jpg",
-      "date": "2026-02-23"
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203090/using-credit-scores-to-gauge-interest",
+      "source": ""
     },
     {
       "title": "쿠코인 태국, 자본 확충 시한 연장: 2026년 3월 30일까지",
       "summary": "- 태국 증권거래위원회(SEC)가 쿠코인 태국(구 ERX)의 자본 확충 시한을 2026년 3월 30일까지 연장함.\n- 이는 디지털 자산 브로커 라이선스 신청을 위한 자본 요건 충족을 위한 마지막 기회임.\n- 현재 쿠코인 태국은 운영이 일시 중단되었으며, 고객은 자산 인출만 가능함.",
       "full_translated": "태국 증권 규제 당국이 쿠코인 태국(구 ERX)의 자본 확충 시한을 2026년 3월 30일까지 연장하면서, 디지털 자산 플랫폼이 자금 확보 또는 폐쇄 위기를 벗어날 마지막 기회를 얻게 되었습니다. 3억 5천만 바트 이상으로 추정되는 자본 증가는 순자본(NC) 규칙 준수 회복 및 디지털 자산 브로커 라이선스 신청 계획 재개를 위해 필요합니다. 증권거래위원회(SEC)가 승인한 이번 시한 연장은 2026년 2월 12일의 이전 마감일에 이은 것입니다. 쿠코인의 운영은 자본 상황이 규제 요건을 충족하고 SEC가 재개를 승인할 때까지 일시적으로 중단됩니다. 이 기간 동안 고객은 평소와 같이 자산을 인출할 수 있습니다. 회사의 어려움은 부분적으로 복잡한 주주 구조 및 해외 주주 문제에서 비롯됩니다. 일부 외국 주주는 논란이 많은 사업가 벤 스미스를 포함한 외국인의 돈세탁 혐의와 관련되어 쿠코인에 대한 평판 하락으로 이어졌습니다. 해당 사건들은 쿠코인 태국의 운영과는 별개이지만, 최근 언론 보도가 신뢰에 영향을 미쳤습니다. 투자자 그룹 간의 핵심 중개인으로 여겨졌던 헨리 첸 전 이사는 사임했습니다. 최고 경영자인 앗 통야이 아사.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 암호화폐 거래소 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Crypto exchange KuCoin receives stay of execution",
@@ -32128,8 +32111,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5978905_700.jpg"
         }
       ],
-      "collected_at": "08:18",
+      "collected_at": "8:18",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5978905_700.jpg",
+      "date": "2026-02-23",
+      "link": "https://www.bangkokpost.com/business/general/3203080/crypto-exchange-kucoin-receives-stay-of-execution",
+      "source": ""
+    },
+    {
+      "title": "뉴욕, 10년 만의 최악 폭설로 도시 전체 여행 금지령 발령",
+      "summary": "- 뉴욕 시장, 폭설로 인해 비상 이동 외 모든 교통망 폐쇄 명령\n- 일요일 오후 9시부터 월요일 정오까지 뉴욕시 전역 도로, 고속도로, 교량 통제\n- 일부 지역에는 시간당 최대 7.5cm의 폭설과 최대 60cm 이상의 적설량 예상",
+      "full_translated": "뉴욕 시장은 일요일, 북동부에 몰아치는 강력한 폭설로 인해 비상 이동을 제외한 도시 전체의 교통망 폐쇄를 명령했습니다. 해당 명령은 일요일 오후 9시부터 월요일 정오까지 적용되며, 8백만 명이 넘는 뉴욕 시민들에게 영향을 미칩니다. 시장은 뉴욕이 10년 이상 이 정도 수준의 폭풍에 직면한 적이 없다며 불필요한 이동을 자제할 것을 요청했습니다. 미국 국립 기상청(NWS)은 메릴랜드에서 뉴잉글랜드 남동부에 이르는 지역에 폭설 경보를 발령했으며, 일부 지역에서는 시간당 5~7.5cm의 폭설이 예상되고, 최대 적설량은 60cm를 넘을 것으로 예상됩니다. 최대 풍속 100km/h의 강풍이 동반될 수 있으며, 약 5,400만 명이 폭풍의 영향권에 있습니다. 뉴저지에서는 22,895 가구가 정전되었으며, 메사추세츠 주 보스턴 시장은 월요일 모든 공립학교와 정부 건물을 폐쇄하고 시민들에게 안전을 위해 집에 머물 것을 권고했습니다. 국립 기상청은 또한 델라웨어에서 케이프코드에 이르는 해안 지역에 심각한 해안 홍수 가능성을 경고했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "여행객 안전에 직접적인 위협(폭설, 교통 통제). 뉴욕 방문 예정 여행객에게 필수 정보.",
+      "event_info": {
+        "date": null,
+        "location": "뉴욕",
+        "price": null,
+        "location_google_map_query": "뉴욕"
+      },
+      "references": [
+        {
+          "title": "พายุหิมะถล่มสหรัฐ! นิวยอร์กสั่ง \"แบนเดินทางทั่วเมือง\" เตือนเลวร้ายสุดในรอบทศวรรษ",
+          "url": "https://www.thairath.co.th/news/foreign/2915834",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wqURDf74C0yjK.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wqURDf74C0yjK.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 북부 지역, 여름 폭풍 대비: 2월 23일 날씨 예보",
+      "summary": "- 2월 23일, 태국 북부 지역에 여름 폭풍 발생 가능성, 강풍과 번개 동반.\n- 고기압이 베트남 북부와 중국 남부를 덮으면서 태국 북동부로 이동, 남풍과 남동풍 영향.\n- 기상청은 야외 활동 자제, 농민들은 농작물 피해 예방을 당부.",
+      "full_translated": "2월 23일 날씨 예보에 따르면 태국 북부 지역에 '여름 폭풍'이 발생할 가능성이 있습니다. 오늘 북동부 지역을 중심으로 강풍과 함께 뇌우가 예상됩니다.\n\n기상청 페이스북 페이지는 각 지역별 날씨 예보와 함께 위험 지역 지도를 게시했습니다. 24시간 예보(2월 23일)에 따르면 태국 북부 지역에 뇌우, 강풍, 번개 등을 동반한 여름 폭풍이 발생할 것으로 예상됩니다. 고기압 또는 찬 공기가 베트남 북부와 중국 남부를 덮으면서 북동부 지역으로 이동할 것으로 예상됩니다. 이로 인해 남풍과 남동풍이 북동부, 중부, 동부 지역과 태국 만을 덮을 것으로 예상됩니다.\n\n태국 북부 지역은 더운 날씨가 예상되므로, 해당 지역 주민들은 여름 폭풍으로 인한 피해에 주의해야 합니다. 특히 야외 활동을 자제하고, 나무 밑이나 부실한 건축물, 광고판 근처에 머무르지 않도록 주의해야 합니다. 농민들은 과일나무를 보강하고 농작물과 가축 피해를 예방해야 하며, 더운 날씨에 건강 관리에도 유의해야 합니다.\n\n태국 남부 지역은 뇌우가 예상되며, 태국 만 남부 지역은 파도가 1~2m로 높게 일 수 있습니다. 뇌우가 치는 지역은 파도가 2m 이상으로 더 높을 수 있으므로, 해당 지역을 항해하는 선박은 주의해야 합니다.\n\n최근 태국 북부 지역은 먼지와 연기가 많이 쌓여 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전에 영향을 줄 수 있는 날씨 정보. 특히 야외 활동에 대한 주의가 필요하며, 선박 운항에도 영향을 줄 수 있음. 매일 업데이트되는 날씨 정보이므로 게시 필요.",
+      "event_info": {
+        "date": "2024-02-23",
+        "location": "태국 북부 지역",
+        "price": null,
+        "location_google_map_query": "태국 북부 지역"
+      },
+      "references": [
+        {
+          "title": "สภาพอากาศวันนี้ 23 ก.พ. เตรียมรับมือฝน ไทยตอนบนจะมี \"พายุฤดูร้อน\" เกิดขึ้น",
+          "url": "https://www.thairath.co.th/news/local/2915828",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wpzRKxu2w8UO1.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wpzRKxu2w8UO1.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "일본 '나체 축제'서 부상자 속출: 6명 병원 이송, 안전 문제 논란",
+      "summary": "- 일본 오카야마현에서 열린 나체 축제에서 6명이 부상을 입어 병원으로 이송됨.\n- 부상자 중 3명은 의식을 잃은 상태로, 안전 문제가 제기되고 있음.\n- 500년 이상 이어져 온 이 축제는 매년 수천 명이 참여하는 행사임.",
+      "full_translated": "일본 당국은 금년 '나체 축제'에 참가했다가 부상당해 병원으로 이송된 사람이 6명이라고 밝혔습니다. 2월 23일 NHK는 오카야마현 사이다이지 칸논 사원에서 열린 일본의 나체 축제(Hadaka Matsuri)에서 6명이 부상당했으며, 그 중 3명은 의식을 잃은 상태라고 보도했습니다. 일본 재난방지청은 축제 참가자 중 부상자가 발생했다는 신고를 밤 10시경 접수했다고 밝혔으며, 주최측은 만 명이 넘는 사람들이 참가했다고 밝혔습니다. '하다카 마쓰리'는 젊은이, 중년, 노인들이 훈도시(일본 전통 속옷)만 입고 사원에 모여 복을 기원하는 500년 이상의 역사를 가진 축제입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "일본에서 열리는 축제 소식. 한국인 여행객이 일본 여행 시 참고할 수 있는 정보이므로 포함. 부상자 발생으로 안전에 대한 인식을 제고.",
+      "event_info": {
+        "date": "2025-02-23",
+        "location": "오카야마현 사이다이지 칸논 사원",
+        "price": "미확인",
+        "location_google_map_query": "사이다이지 칸논 사원"
+      },
+      "references": [
+        {
+          "title": "เผย \"เทศกาลเปลือย\" ประเพณีเก่าแก่ของญี่ปุ่นปีนี้ มีผู้บาดเจ็บหลายราย",
+          "url": "https://www.thairath.co.th/news/foreign/2915837",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wqUAVgI1NaXEG.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wqUAVgI1NaXEG.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 정부, VAT 10% 인상 계획 부인: 경제 회복 우선",
+      "summary": "- 태국 정부는 현재 VAT를 10%로 인상할 계획이 없다고 발표.\n- 경제 회복이 최우선 과제이며, 세금 인상은 고려하고 있지 않음.\n- 관련 논의는 있었지만, 단기적으로 시행될 가능성은 낮음.",
+      "full_translated": "시리퐁 앙카스쿤키아트 품 짜이 타이 당 부대표는 상원 경제, 금융 및 재정위원회가 VAT를 10%로 점진적으로 인상하는 세금 구조 조정을 제안한 것에 대해 반박하며, 정부는 VAT를 10%로 인상할 계획이 없다고 밝혔습니다. 그는 정부의 시급한 정책은 경제를 회복하는 것이며, 국민에게 세금을 부과하는 것이 아니라 침체에서 벗어나도록 하는 것이라고 강조했습니다. 또한 신용 평가 기관이 태국의 통화 및 재정 정책에 대한 관점과 제안을 제시하여 새로운 정부가 선거 후 세금을 인상하려 한다는 비판에 대해 이는 사실이 아니라고 일축했습니다. 정부는 올해 여러 경제적 문제에 직면해 있으며, 정부의 정책은 경제를 회복하는 데 초점을 맞추고 있습니다. 시리퐁은 태국의 신용을 평가하는 기관을 지원하기 위한 추가적인 수입 징수에 대한 논의가 있었지만, 이는 단기적으로 시행될 계획은 아니라고 설명했습니다. 경제가 개선되고 국민들이 경제가 좋다고 느낄 때, VAT 조정이 고려될 수 있지만, 2~3년 안에는 없을 것이라고 강조했습니다. 그는 아누틴 찬위라쿨 총리와 경제팀을 믿어달라고 요청했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "VAT 인상 가능성에 대한 정부 입장 발표. 여행 관련 직접적인 영향은 적으나, 장기적으로 물가 상승 가능성이 있어 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เบรก สว. “สิริพงศ์” แจงรัฐบาลไม่มีแนวคิดขึ้น VAT 10% ชี้นโยบายเร่งด่วนฟื้นฟูเศรษฐกิจ",
+          "url": "https://www.thairath.co.th/news/politic/2915830",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wqUi0R9AK76hd.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wqUi0R9AK76hd.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 기업들, AI 도입에도 불구하고 운영 시스템 문제로 어려움 겪어",
+      "summary": "- 태국 기업들이 AI 기술 도입에 많은 투자를 하고 있지만, 의사 결정 속도와 예산 배분 등의 운영 시스템 문제로 인해 효율성을 제대로 발휘하지 못하고 있음.\n- AI 기술의 빠른 발전 속도를 따라가지 못하는 경직된 의사 결정 구조와 부서 간의 협력 부족이 문제점으로 지적됨.\n- 기업들은 AI 기술 도입뿐만 아니라 운영 시스템 개선을 통해 AI의 잠재력을 최대한 활용해야 할 것임.",
+      "full_translated": "태국의 대부분 조직은 여전히 느린 속도로 운영되는 시스템을 사용하고 있습니다. \n\n태국의 모든 이사회는 AI에 대해 이야기하고 있지만, 현실적인 문제에 직면하려는 의지는 부족합니다. AI가 제약이 아니라 운영 시스템이 문제입니다. 지난 2년간 조직들은 AI 도구, 대시보드, 자동화 및 분석에 많은 투자를 했습니다. 그러나 여전히 성과 격차가 존재하고, 의사 결정 속도는 여전히 느리며, 예산은 여전히 연간 단위로 고정되어 있고, 승인은 여전히 여러 단계를 거쳐야 합니다. 사일로는 여전히 조치를 지연시킵니다. 엔진은 업그레이드했지만 기계를 재설계하지 않았습니다. \n\nAI 시대는 시간을 압축했습니다. 시장은 몇 년이 아닌 몇 주 만에 변화하고, 고객 감정은 즉각적으로 움직이며, 경쟁자들은 지속적으로 테스트하고 출시합니다. 데이터는 실시간으로 흐릅니다. 그러나 대부분의 조직은 여전히 느린 속도로 운영되는 시스템을 사용하고 있습니다. 전략은 연간 단위로 수립되고, 자본 배분은 경직되어 있으며, 핵심 성과 지표는 분산되어 있고, 의사 결정 권한은 불분명합니다. \n\n이는 기술적인 문제가 아니라 속도 문제입니다. 조직이 감지하고, 결정하고, 행동하는 리듬인 운영 속도가 전략적 이점이 되었습니다. 그리고 지금 당장 많은 기업들이 동기화되지 않고 있습니다. AI는 통찰력을 가속화하지만, 권한 없는 통찰력은 쓸모가 없습니다. 거버넌스 속도가 정보 속도와 일치하지 않으면 마찰이 발생하고, 기회는 사라지고, 인재는 이탈합니다. 불편한 진실은 AI가 구조적 약점을 드러낸다는 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 기업의 운영 시스템 문제를 다루는 기사로, 여행 자체에는 직접적인 영향이 없으나, 태국 경제 및 사회 전반에 대한 이해를 돕는 정보임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Stop blaming AI. Fix your operating system",
+          "url": "https://www.bangkokpost.com/business/general/3203259/stop-blaming-ai-fix-your-operating-system",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203259_700.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203259_700.jpg",
       "date": "2026-02-23"
     }
   ]
