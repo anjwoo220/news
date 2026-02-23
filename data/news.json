@@ -32006,6 +32006,131 @@
       "date": "2026-02-23",
       "link": "https://www.bangkokpost.com/thailand/general/3202930/us-tariff-game-not-yet-over",
       "source": ""
+    },
+    {
+      "title": "말레이시아 사바 주 해안에서 규모 7.1 강진 발생, 쓰나미 경보는 발령되지 않음",
+      "summary": "- 말레이시아 사바 주 해안에서 규모 7.1의 강진이 발생했으나, 쓰나미 경보는 발령되지 않았습니다.\n- 진앙은 코타키나발루에서 북동쪽으로 100km 떨어진 해역이며, 깊이는 약 619.8km입니다.\n- 진동은 사바 주 서부 해안, 사라왁 주 일부, 싱가포르에서도 감지되었으며, 현재까지 피해 보고는 없습니다.",
+      "full_translated": "2069년 2월 23일, 말레이시아 사바 주 해안에서 규모 7.1의 강진이 발생했습니다. 미국 지질조사국(USGS)에 따르면 진앙은 코타키나발루에서 북동쪽으로 100km 떨어진 해역이며, 깊이는 약 619.8km입니다. 말레이시아 기상청은 진앙이 쿠닷에서 서쪽으로 49km 떨어진 해역이며, 깊이는 약 678km라고 밝혔습니다. 이번 지진은 깊이가 깊어 쓰나미 위험이 낮아 미국 쓰나미 경보 센터는 경보를 발령하지 않았습니다. 현지 언론은 사바 주 서부 해안, 사라왁 주 일부, 싱가포르에서도 진동이 감지되었다고 보도했습니다. 사바 소방 구조대는 아직까지 피해나 부상자 보고는 없다고 밝혔습니다. 말레이시아 당국은 상황을 면밀히 주시하고 있으며, 추가 진동이 감지되면 보고해 줄 것을 요청했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 인접 국가에서 발생한 지진으로, 여행객의 안전에 영향을 줄 수 있는 정보입니다. 쓰나미 경보는 없지만, 혹시 모를 상황에 대비하여 정보를 제공합니다.",
+      "event_info": {
+        "date": "2069-02-23",
+        "location": "사바 주 해안",
+        "price": null,
+        "location_google_map_query": "사바 주 해안"
+      },
+      "references": [
+        {
+          "title": "แผ่นดินไหวรุนแรง 7.1 นอกชายฝั่งรัฐซาบาห์ มาเลเซีย ช่วงกลางดึก ไม่มีเตือนสึนามิ",
+          "url": "https://www.thairath.co.th/news/foreign/2915811",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3hGxWP5hhav.jpg"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3hGxWP5hhav.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "말레이시아 보르네오섬 7.1 강진 발생, 태국 영향 없어",
+      "summary": "- 2월 22일 말레이시아 보르네오섬에서 규모 7.1의 지진 발생.\n- 진앙은 북위 6.870도, 동경 116.260도이며 깊이는 633km.\n- 태국 기상청은 이번 지진이 태국에 미치는 영향은 없다고 발표.",
+      "full_translated": "23시 57분, 말레이시아 보르네오에서 규모 7.1의 지진이 발생했습니다. 태국 기상청은 이번 지진이 태국에 영향을 미치지 않을 것이라고 밝혔습니다. 국민들은 지진 감시 부서의 정보만을 참고해 주시기 바랍니다. 기상청은 보르네오 지진에 대한 발표에서 2069년 2월 22일 23시 57분에 북위 6.870도, 동경 116.260도에서 규모 7.1, 깊이 633km의 지진이 발생했으며 태국에 영향을 미치지 않을 것이라고 밝혔습니다. 추가 정보가 있으면 즉시 알려드리겠습니다. 00시 52분 지진 TMD 페이지는 현재 태국에 중심을 둔 대규모 지진은 없다고 밝혔습니다. 지진 감시 부서의 정보만 참고하시기 바랍니다. ... 지진 감시 센터, 지진 TMD 페이지, 국가 재난 경고 센터의 정보에 감사드립니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국에 직접적인 영향은 없으나, 인접 지역에서 발생한 지진 정보는 여행자 안전을 위해 필요하다고 판단.",
+      "event_info": {
+        "date": "2069-02-22",
+        "location": "보르네오 섬",
+        "price": null,
+        "location_google_map_query": "Borneo"
+      },
+      "references": [
+        {
+          "title": "แผ่นดินไหวขนาด 7.1 ที่เกาะเบอร์เนียว มาเลเซีย อุตุฯ ย้ำไม่ส่งผลกระทบประเทศไทย",
+          "url": "https://www.thairath.co.th/news/society/2915810",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3kiPuyEca6a.jpg"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wq3kiPuyEca6a.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국, 2026년 최고의 거주 국가로 선정: 활기 넘치는 도시, 유네스코 디자인 허브, 풍부한 문화가 여행객의 낙원을 만들다",
+      "summary": "- 태국이 2026년 최고의 거주 국가 중 하나로 선정되었습니다.\n- 활기찬 도시, 유네스코 디자인 허브, 풍부한 문화가 주요 요인으로 꼽힙니다.\n- 여행객에게 매력적인 관광지로 자리매김할 것으로 기대됩니다.",
+      "full_translated": "태국이 2026년 최고의 거주 국가로 선정되었습니다. 활기찬 도시, 유네스코 디자인 허브, 풍부한 문화가 여행객의 낙원을 만듭니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 살기 좋은 나라로 선정된 것은 여행객에게도 긍정적인 영향을 미칠 수 있다는 점에서 정보 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Best Countries to Live in 2026 Recognition: How Its Vibrant Cities, UNESCO Design Hubs, and Cultural Richness Make It a Traveler’s Paradise - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQd190NEdxOHA1Q3pLNkd0QkpiQ2NwbjV3V1VCRGtKSGMzT0p1UllqcVNobXBoY2ZxNERfTzBqOFRtU1kySG8tZG4zcWpfeElUT0ZjRlhPVTlBN3JZOWpBZ1FVS25BYkhDY0tjeVFCYVkySG5IZ09TWFBJVjBhZjNoaEx1bVpsWDBkb2ZBWTg2Y09QUnM5NmhLQ2llM2xKMnlvRlo4T1ZJaXFhbWNyUmZHMTFEckJKVlBwWE9ZRXMwWW8zUV9TZWVhdkg3YVFPazY1UFNZanhsd2dwZTdZQnFtWEtOdzVZUm1MSjBWMmozUGVEeENoTk5CWERlRzBXNGo0ZWN4bGd3QVN2WGttNkp5UkxRVExPQnZlc2EzeEt3?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "태국 은행, 신용 점수 기반 대출 금리 모델 도입: 소비자 금융에 미치는 영향",
+      "summary": "- 태국 은행들이 개인 대출 금리 결정 시 소득 대신 신용 점수를 활용하는 모델을 도입.\n- TMBThanachart Bank(ttb)가 최초로 위험 기반 가격 책정(RBP) 모델을 도입하여 금리 결정 방식을 전환.\n- 신용 점수가 높은 차용인은 낮은 금리를, 위험도가 높은 고객은 높은 금리를 적용받게 됨.",
+      "full_translated": "태국 은행들은 개인 대출에 대한 이자를 결정하기 위해 차용인의 월 소득에 의존해 왔습니다. 이제 개인의 신용 점수가 이자율을 결정하는 데 도움이 될 수 있으며, 이는 소비자의 차용 방식과 은행의 위험 관리 방식에 변화를 가져올 수 있습니다. 이러한 변화는 TMBThanachart Bank(ttb)가 주도하고 있으며, 개인 대출 상품에 대한 위험 기반 가격 책정(RBP) 모델을 도입하여 태국 최초로 소득이 아닌 고객의 신용 점수를 기준으로 이자율을 책정하는 은행이 되었습니다. 새로운 접근 방식에 따라 상환 행동이 양호한 차용인은 더 낮은 이자율을 기대할 수 있는 반면, 위험도가 높은 고객은 계속해서 더 높은 비용에 직면하게 될 것입니다.\n\n신용 점수 집중 조명\n\n신용 정보 사업법은 신용 점수를 신용 정보를 분석하는 통계적 방법을 사용하여 계산된 채무 상환 가능성 지표로 정의합니다. National Credit Bureau(NCB)의 최고 경영자인 Luxamon Attapich에 따르면, NCB는 2016년부터 신용 기록 데이터를 기반으로 구축된 통계적 모델을 사용하여 신용 점수 평가 방법을 개발해 왔습니다. 금융 기관은 NCB 데이터베이스의 신용 점수를 활용하여 RBP 모델을 지원할 수 있습니다. RBP 방식에 따라 대출 신청자는",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 금융 시스템 변화에 대한 정보로, 여행자 신용 카드 사용 및 대출에 간접적인 영향을 줄 수 있음. 다만, 직접적인 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Using credit scores to gauge interest",
+          "url": "https://www.bangkokpost.com/business/general/3203090/using-credit-scores-to-gauge-interest",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203090_260223052114_700.jpg"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://static.bangkokpost.com/media/content/20260223/c1_3203090_260223052114_700.jpg",
+      "date": "2026-02-23"
+    },
+    {
+      "title": "쿠코인 태국, 자본 확충 시한 연장: 2026년 3월 30일까지",
+      "summary": "- 태국 증권거래위원회(SEC)가 쿠코인 태국(구 ERX)의 자본 확충 시한을 2026년 3월 30일까지 연장함.\n- 이는 디지털 자산 브로커 라이선스 신청을 위한 자본 요건 충족을 위한 마지막 기회임.\n- 현재 쿠코인 태국은 운영이 일시 중단되었으며, 고객은 자산 인출만 가능함.",
+      "full_translated": "태국 증권 규제 당국이 쿠코인 태국(구 ERX)의 자본 확충 시한을 2026년 3월 30일까지 연장하면서, 디지털 자산 플랫폼이 자금 확보 또는 폐쇄 위기를 벗어날 마지막 기회를 얻게 되었습니다. 3억 5천만 바트 이상으로 추정되는 자본 증가는 순자본(NC) 규칙 준수 회복 및 디지털 자산 브로커 라이선스 신청 계획 재개를 위해 필요합니다. 증권거래위원회(SEC)가 승인한 이번 시한 연장은 2026년 2월 12일의 이전 마감일에 이은 것입니다. 쿠코인의 운영은 자본 상황이 규제 요건을 충족하고 SEC가 재개를 승인할 때까지 일시적으로 중단됩니다. 이 기간 동안 고객은 평소와 같이 자산을 인출할 수 있습니다. 회사의 어려움은 부분적으로 복잡한 주주 구조 및 해외 주주 문제에서 비롯됩니다. 일부 외국 주주는 논란이 많은 사업가 벤 스미스를 포함한 외국인의 돈세탁 혐의와 관련되어 쿠코인에 대한 평판 하락으로 이어졌습니다. 해당 사건들은 쿠코인 태국의 운영과는 별개이지만, 최근 언론 보도가 신뢰에 영향을 미쳤습니다. 투자자 그룹 간의 핵심 중개인으로 여겨졌던 헨리 첸 전 이사는 사임했습니다. 최고 경영자인 앗 통야이 아사.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 암호화폐 거래소 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Crypto exchange KuCoin receives stay of execution",
+          "url": "https://www.bangkokpost.com/business/general/3203080/crypto-exchange-kucoin-receives-stay-of-execution",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5978905_700.jpg"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/23/5978905_700.jpg",
+      "date": "2026-02-23"
     }
   ]
 }
