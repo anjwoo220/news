@@ -36136,14 +36136,9 @@
       "summary": "- 태국 육상교통부(DLT)가 택시 안전 및 서비스 개선을 위해 QR 코드 시스템을 도입했습니다.\n- 승객은 택시에 부착된 QR 코드를 스캔하여 운전자 정보, 차량 정보, 예상 요금을 확인하고 실시간으로 불만을 제기할 수 있습니다.\n- 이 시스템은 택시 기사의 신원 확인, 요금 투명성 확보, 승객 불만 처리 개선을 목표로 합니다.",
       "full_translated": "태국이 택시 안전과 실시간 불만 접수를 위한 혁신적인 QR 코드 시스템을 시작했습니다.\n\n이 시스템은 DLT GPS NOTICE 모바일 애플리케이션 하에 출시되었으며, 승객은 택시에 부착된 QR 코드 스티커를 스캔하여 운전자의 신원, 차량 정보, 예상 요금을 즉시 확인하고 실시간으로 불만을 제기할 수 있습니다. 관계자들은 이를 택시 서비스에 대한 포괄적인 실시간 검사를 통합하는 환상적인 새로운 접근 방식이라고 설명합니다. 출시 행사는 최근 DLT 사무총장 소라퐁 파이툰퐁의 주도하에 열렸습니다. 이는 태국, 특히 방콕 및 주변 지역에서 대중 택시가 많이 사용되는 지역에서 택시 안전, 요금 투명성 및 운전자 행동에 대한 오랜 우려를 해결하기 위한 것입니다.\n\n* 택시 디 프롬 시스템의 주요 기능은 다음과 같습니다.\n\n– 3가지 색상의 QR 코드 스티커: DLT에서 무료로 제공 및 설치\n\n– 보라색: 운전석 쪽 앞 유리 오른쪽 상단에 부착되며, 운전자가 교대 근무를 시작하기 전에 앱을 통해 자신의 신원을 확인하는 데 사용됩니다. 운전자는 등록 및 스캔을 통해 실제 운영자임을 확인해야 하며, 활성 검증을 유지하기 위해 4시간마다 알림이 표시됩니다.\n\n– 파란색: 뒷 왼쪽 승객 창문(내부)에 위치하여 승객이 운전자 사진, 이름, 차량 정보, 세금 만료일 및 라이선스 상태를 스캔할 수 있도록 합니다. 예비 요금을 추정합니다. 서비스(청결도, 예의, 운전 및 복장)를 평가합니다. 일반적인 피드백이나 불만을 제출합니다.\n\n– 빨간색: 외부 승객 창문에 위치하며, 요금 과다 청구와 같은 긴급 불만을 위한 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "택시 이용 시 안전과 편의를 높이는 시스템 도입으로 여행객에게 직접적인 영향을 미침. 특히 요금 관련 문제 해결에 도움이 될 수 있음. 아침 시간대 택시 이용이 잦다는 점을 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Launches Innovative QR Code System For Taxi Safety and Real Time Complaints",
@@ -36152,23 +36147,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260224_1411345309298099907944691.jpg?v=1771917418"
         }
       ],
-      "collected_at": "04:56",
+      "collected_at": "4:56",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260224_1411345309298099907944691.jpg?v=1771917418",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://thepattayanews.com/2026/02/24/thailand-launches-innovative-qr-code-system-for-taxi-safety-and-real-time-complaints/",
+      "source": ""
     },
     {
       "title": "태국, 무비자 체류 기간 단축 고려",
       "summary": "- 시암 리갈 국제 법률 법인이 태국 이민국 정책 변경에 대한 우려 제기\n- 태국 정부가 무비자 체류 기간 단축을 고려 중\n- 여행 및 비자 정책에 대한 지속적인 관심 필요",
       "full_translated": "시암 리갈 국제 법률 법인은 태국이 무비자 체류를 줄이는 것을 고려함에 따라 태국 이민 정책 변경에 대해 논의합니다. El Paso Times",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 무비자 체류 기간 단축은 여행 계획에 큰 변수가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Siam Legal International Law Firm Addresses Thailand Immigration Policy Changes as Thailand Considers Reducing Visa-Free Stays - El Paso Times",
@@ -36177,23 +36169,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:56",
+      "collected_at": "4:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcEIyRHB3dUhSNnBiQTk5MGFHQ1F6TllTWUNRbmNCcXRPUExvTU1fbWdJdTNpcmdicTBZZlQ5Q3RzQlZSb2tHbXIwNmVjckxzcm0xZjc3X1VXb09QVGlVelBJamxLaXFfeVFuX1J6UEF4S1o1MTNzRm9ZTEFsVm04dmlRVzJ4UlYtQXdiOFh5T0pKaDU5SnBRcDdBUE9Rd3hpdkZfYXozc1NRWTdLMklGQ3NoM1I2OVpQUHYxc1RGbTRsdFJNNVZObTRyVURvRzJETy04RDY4SWhCT21sV1VobVdRMmJTNHdycXRkSTF5MEl4ak1RRF9xcE9qYmNWTE85LWMtZjZyTEtHSWF5WERv?oc=5",
+      "source": ""
     },
     {
       "title": "관광 공원의 호랑이 72마리, 개 디스템퍼로 사망",
       "summary": "- 태국 당국은 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망했다고 발표.\n- 조류 독감에 대한 우려를 잠재우기 위한 조치.\n- 추가적인 정보는 AP 통신에서 확인할 수 있음.",
       "full_translated": "태국 당국은 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망했으며 조류 독감에 대한 우려를 잠재우고 있다고 밝혔습니다. Associated Press News",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물원의 질병 발생 정보는 여행 시 주의를 요하므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "Thai officials say 72 tigers at tourist parks died of canine distemper, allaying bird flu fears - Associated Press News",
@@ -36202,23 +36191,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:56",
+      "collected_at": "4:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3RzNVh3SThPMWpDWVVXZWpycy1Ibk1POEt4YjM0VEpiMlhaWGR4Q3FGazdIZFdxcjZRSlhBbTB6U0RaUl96aEJwOXZCbkRoeHU5R0p2SW85T19VSDFFSy14eGRlck5iV3prVEF1TnRUODdxRzlPRHNjTWpYZXgzVzNsU2dLV2VuODRrVGJJR1pxdW9vVm02Uk53TWFxczhCUFlMUnpsNzhwM1E?oc=5",
+      "source": ""
     },
     {
       "title": "루브르 박물관장, 보물 도난 사건으로 사임",
       "summary": "- 루브르 박물관장이 보물 도난 사건에 대한 책임으로 사임했습니다.\n- 도난 사건은 2025년 10월 발생했으며, 현재까지 도난품은 회수되지 않았습니다.\n- 도난당한 보물은 약 32억 바트 상당의 프랑스 왕실 보물입니다.",
       "full_translated": "루브르 박물관장이 몇 달 전 세계적인 박물관 내에서 발생한 왕관 보석 도난 사건 이후 사임했습니다. 현재까지 도난품은 회수되지 않았습니다. 외신에 따르면 로렌스 데 카르 루브르 박물관장은 2025년 2월 24일 화요일, 에마뉘엘 마크롱 대통령에게 사임서를 제출했습니다. 이는 프랑스 왕가의 왕관 보석 도난 사건이 발생한 지 몇 달 되지 않아 발생한 것으로, 보안에 대한 의문이 제기되었습니다. 도난 사건은 2025년 10월 19일 아침에 발생했으며, 강도들은 훔친 기계식 리프트 트럭을 사용하여 센 강 쪽 발코니로 올라가 아폴로 갤러리(Galerie d'Apollon)에 침입하여 총 8,800만 유로(약 32억 바트) 상당의 왕관 보석을 훔쳤습니다. 현재 주요 용의자 4명이 체포되었지만, 귀중한 보석 8점은 여전히 실종 상태이며, 전문가들은 이를 회수할 수 없을 것이라고 우려하고 있습니다. 도난당한 재산에는 나폴레옹 황제가 황후에게 준 다이아몬드와 에메랄드 목걸이가 포함되어 있습니다. 도주하는 동안 도둑들은 외제니 황후의 19세기 다이아몬드 왕관을 떨어뜨려 손상시키기도 했습니다. 이달 초 루브르 박물관은 사건 이후 처음으로 왕관의 손상된 모습을 공개하며 왕관이 여전히 '거의 완벽한' 상태이며 완전히 복원할 수 있다고 밝혔습니다. 루브르 박물관은 레오나르도 다 빈치의 '모나리자'를 포함하여 헤아릴 수 없는 귀중한 예술 작품을 소장하고 있습니다. 그러나 도난 사건이 발생한 지 며칠 후, 데 카르는 다...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "루브르 박물관은 많은 관광객이 방문하는 명소이므로 관련 사건에 대한 정보 제공 가치가 있음. 다만, 사건 자체가 여행에 직접적인 영향을 미치지는 않으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "루브르 박물관",
-        "price": null,
-        "location_google_map_query": "루브르 박물관"
-      },
+      "event_info": "{'date': None, 'location': '루브르 박물관', 'price': None, 'location_google_map_query': '루브르 박물관'}",
       "references": [
         {
           "title": "ผอ.พิพิธภัณฑ์ลูฟวร์ ลาออก เซ่นปมโจรขโมยเครื่องราชกกุธภัณฑ์",
@@ -36227,8 +36213,58 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3TMMj722it8.jpg"
         }
       ],
-      "collected_at": "04:56",
+      "collected_at": "4:56",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3TMMj722it8.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/foreign/2916271",
+      "source": ""
+    },
+    {
+      "title": "중국인 관광객 증가, 일본 여행 기피 현상 속 태국 관광 회복 견인 - Bloomberg",
+      "summary": "- 중국인 관광객들이 일본 대신 태국을 선택하며 태국 관광 산업이 회복세를 보이고 있음.\n- 지정학적 요인과 경제적 요인이 결합되어 이러한 변화를 주도하고 있음.\n- 태국은 중국 관광객 유치를 위한 노력을 지속할 계획.",
+      "full_translated": "블룸버그 통신에 따르면 중국인 관광객들이 일본 여행을 기피하면서 태국 관광 산업이 회복세를 보이고 있습니다. 여러 요인들이 복합적으로 작용한 결과로 보입니다. 태국은 중국 관광객 유치에 더욱 힘쓸 예정입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "최근 태국 관광 산업에 긍정적인 영향을 미치는 요인이며, 여행객들에게 유용한 정보임. 일본 여행을 고려하던 여행객에게는 대안 정보가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Avoiding Japan, Chinese Tourists Fuel Rebound in Thai Tourism - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXF1TlMwTnVFQmtKZURDVklLV2g2LUtrRTR2Rkp6ZjdlYlRjcmpKU1NtemZOUEVtRld6cWhWTEhkbDN5YThBSUZKQndTdkZ3WnFVOUowVjNxTFNkXzdRZkJKX2lLZ2ltLWJfUHAxUVFkdlE5ZUQ1OGFxbzhFdDk1anJpaVVNcWlxN0gwZXdQSll5eklSZlpaWU9CRTA2bGZNcWZMVnBhN2J2bU8tMi1qbA?oc=5",
+          "source": "Bloomberg",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 중앙은행, 4분기 호조에 힘입어 태국 GDP 성장률 전망치 상향",
+      "summary": "- 태국 중앙은행은 4분기 경제 성장률이 예상보다 높아 올해 GDP 성장률 전망치를 기존 1.5%에서 1.9%로 상향 조정했습니다.\n- 이는 태국의 경제 전망이 긍정적으로 변화하고 있음을 시사합니다.\n- 여행 및 관광 산업에도 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "태국 중앙은행은 국가 경제 성장 전망에 대해 낙관적이며, 4분기의 경제 성장세가 예상보다 강세를 보임에 따라 올해 GDP 성장률을 기존 1.5%에서 1.9%로 상향 조정했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "GDP 성장률 증가는 전반적인 경제 상황 개선을 의미하며, 이는 관광 산업에도 간접적으로 긍정적인 영향을 미칠 수 있습니다. 경제 상황이 개선되면 여행객들의 소비 심리가 개선될 수 있기 때문입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BoT upgrades Thai GDP forecast after robust Q4",
+          "url": "https://www.bangkokpost.com/business/general/3204480/bot-upgrades-thai-gdp-forecast-after-robust-q4",
+          "source": "Bangkokpost.com : Top Stories"
+        }
+      ],
+      "collected_at": "05:28",
       "date": "2026-02-25"
     }
   ]
