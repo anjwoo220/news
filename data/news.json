@@ -35982,14 +35982,9 @@
       "summary": "- 태국 민간항공청(CAAT), 공항 보안 기준 강화의 일환으로 수하물 검사 절차 변경.\n- 승객 부재 시 의심스러운 수하물 검사 가능, 검사 과정은 비디오로 녹화.\n- 2025년 ICAO 감사 결과에 따른 후속 조치로, 1월 1일부터 휴대용 금속 탐지기 사용 중단.",
       "full_translated": "태국 민간항공청(CAAT)은 국가 항공 보안 기준의 광범위한 개편의 일환으로 공항 보안 요원이 승객이 없는 상태에서 의심스러운 수하물을 검사할 수 있도록 허용할 예정입니다. 이러한 검사는 10월 16일부터 시작됩니다.\n\n새로운 수하물 검색 규칙에 따라 보안 직원은 폭발물, 위험물 또는 기타 금지 품목이 의심되는 경우 항공기 화물칸으로 향하는 수하물을 열 수 있습니다. CAAT는 이러한 모든 검사를 비디오로 녹화하여 승객이 나중에 프로세스를 검토할 수 있도록 해야 한다고 밝혔습니다. 또 다른 직원이 검사를 참관해야 하며, 승객은 수하물이 열리고 검사되었음을 확인하는 서면 통지를 받아야 합니다.\n\n이번 변경은 2025년 말 국제민간항공기구(ICAO)의 USAP(Universal Security Audit Programme)에 따른 것으로, 태국의 검색 절차에서 단점을 확인했습니다. 감사는 휴대용 금속 탐지기의 일관성 없는 사용을 발견하여 특정 신체 부위의 불완전한 검색을 초래했습니다. 이는 접근 통제 25%, 승객 및 객실 보안 57%를 포함한 주요 보안 영역에서 태국의 낮은 유효 구현(EI) 점수에 기여했습니다. CAAT는 모든 공항에 1월 1일부터 휴대용 금속 탐지기 사용을 중단하도록 명령했습니다. 신체 검색 방법은 신체 수색, 워크스루 금속 탐지기, ",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항 보안 검색 절차 변경은 여행객에게 직접적인 영향을 미침. ICAO 감사 결과에 따른 변화이므로 신뢰성 높음. 혼란을 방지하기 위해 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "CAAT rejigs screenings at all airports",
@@ -35998,23 +35993,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204535_260225020631_700.jpg"
         }
       ],
-      "collected_at": "03:26",
+      "collected_at": "3:26",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204535_260225020631_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204535/caat-rejigs-screenings-at-all-airports",
+      "source": ""
     },
     {
       "title": "태국 리비에라 프로젝트: 타나오 스리 키리 팟 관광 도로 건설 추진",
       "summary": "- 태국 농촌 도로국(DRR)이 지역 경제 활성화를 목표로 타나오 스리 키리 팟 관광 도로 건설을 추진 중.\n- 이 프로젝트는 태국 서부 걸프 연안의 해안 고속도로 네트워크를 개선하고 관광 성장을 촉진하기 위한 태국 리비에라 계획의 일환임.\n- 총 예산 7억 1,430만 바트가 투입되며, 2030년 완공 예정. 주요 구간은 아스팔트 콘크리트, 2차선, 교량 및 안전 시설을 포함.",
       "full_translated": "페차부리: 농촌 도로국(DRR)은 반 카오 반다이와 반 남푸 론을 연결하는 37.2km 길이의 타나오 스리 키리 팟 관광 도로 건설을 추진하고 있으며, 이는 지역 경제를 활성화하는 것을 목표로 합니다. 이 프로젝트는 태국 리비에라 계획의 일부로, 태국 서부 걸프 연안을 따라 해안 고속도로 네트워크를 개선하고 안전을 향상시키며 관광 중심의 경제 성장을 촉진하도록 설계되었습니다. DRR 사무총장 피칫 훈시리는 새로운 도로가 고속도로 4호선(펫카셈 도로)의 대체 도로가 되어 여행 성수기 동안의 혼잡을 줄일 것이라고 말했습니다. 7억 1,430만 바트의 예산이 투입되는 이 프로젝트는 2030년 완공될 예정입니다. 현재 작업에는 도로 기초 및 철근 콘크리트 배수 시스템이 포함됩니다. 또한 조경, 휴게소 및 후아이 매 프라찬 저수지 다리 교차로의 경치 좋은 전망대가 특징입니다. 건설은 4개 섹션으로 나뉩니다. 섹션 1은 반 카오 반다이-반 남푸 론(Km 21+600 ~ Km 43+730)으로, 아스팔트 콘크리트, 2차선, 3개의 교량 및 안전 시설로 건설되었습니다. 섹션 2는 농촌 도로 1015(고속도로 4에서 반 푸 타키안까지)로, 13.7km에 걸쳐 있으며, 처음 4km는 철근 콘크리트, 그 이후에는 아스팔트 콘크리트로 배수 및 안전 시스템을 포함합니다. 섹션 3에서는 대체 도로(Km 37+655 ~ Km 38+453)가 어깨가 있는 아스팔트 콘크리트, 2차선으로 건설됩니다. 섹션 4는 공동으로 이루어집니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 도로 건설은 장기적으로 관광객 이동 편의성을 높이지만, 현재 공사로 인한 교통 체증 가능성이 있음.",
-      "event_info": {
-        "date": "2030년 완공 예정",
-        "location": "반 카오 반다이 - 반 남푸 론",
-        "price": "7억 1,430만 바트",
-        "location_google_map_query": "Ban Khao Bandai to Ban Namphu Ron"
-      },
+      "event_info": "{'date': '2030년 완공 예정', 'location': '반 카오 반다이 - 반 남푸 론', 'price': '7억 1,430만 바트', 'location_google_map_query': 'Ban Khao Bandai to Ban Namphu Ron'}",
       "references": [
         {
           "title": "Dept advances Riviera road",
@@ -36023,8 +36015,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204550_260225014419_700.jpg"
         }
       ],
-      "collected_at": "03:26",
+      "collected_at": "3:26",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204550_260225014419_700.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204550/dept-advances-riviera-road",
+      "source": ""
+    },
+    {
+      "title": "파타야, 독일인 관광객 대상 강도 및 폭행 사건 용의자 신속 체포",
+      "summary": "- 파타야에서 독일인 관광객이 트랜스젠더 여성들에게 강도를 당하고 폭행당한 사건 발생.\n- 피해자는 경찰에 신고, 경찰은 신속하게 용의자들을 체포함.\n- 피해자는 경찰의 신속한 대응에 감사를 표함.",
+      "full_translated": "2026년 2월 24일 새벽, 사건이 발생했습니다. 마르쿠스 씨는 파타야 시 경찰서에 파타야 세컨드 로드에 있는 콘도미니엄에서 트랜스젠더 태국인 2명(초기 보고서에는 1명으로 명시)을 이성 여성으로 착각하여 자신의 방으로 초대했다고 신고했습니다. 조사에 따르면, 마르쿠스 씨와 용의자 중 한 명인 24세의 핌마다 타나리가 화장실에 있는 동안, 밖에 있던 다른 용의자인 22세의 케왈린 숙무앙이 욕심으로 봉투에서 현금을 발견하고 훔쳤다고 합니다. 도난당한 총액은 35,000 태국 바트와 1,200유로였습니다. 동반 서비스 합의가 틀어지고 마르쿠스 씨가 여성들이 트랜스젠더라는 사실을 알게 된 후 합의된 조건과 일치하지 않자, 두 용의자 모두 방을 떠났습니다. 그들은 나중에 돈을 나누어 케왈린이 15,000바트를, 핌마다가 18,500바트를 가져갔다고 인정했습니다. 도난 사실을 발견한 마르쿠스 씨는 서둘러 아래층으로 내려가 파타야 해변 근처에서 핌마다를 발견하고 경찰에 도움을 요청하는 동안 그녀를 구금하려고 했습니다. 핌마다는 도움을 요청했고, 26세의 마윈 플랍플렝, 21세의 워라윗 포사와왕, 그리고 다른 공범 2명이 합세하여 피해자를 폭행하여 부상을 입혔습니다. 파타야 시 경찰서장 아넥 사라통유 경감과 수사 부서장 아루스 사파논 경감, 수사팀, 파타야 관광 경찰, 출입국 경찰.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 영향을 줄 수 있으므로 정보 제공 가치 높음. 기존 '트랜스젠더 여성 5명이 독일인 관광객 폭행' 기사와 관련이 있지만, 체포 정보가 추가되었으므로 업데이트로 간주.",
+      "event_info": {
+        "date": "2026-02-24",
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "German Tourist Praises Pattaya Police for Swift Arrest of Suspects in Robbery and Assault Case",
+          "url": "https://thepattayanews.com/2026/02/24/german-tourist-praises-pattaya-police-for-swift-arrest-of-suspects-in-robbery-and-assault-case/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_195251891601040770743339.jpg?v=1771937626"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_195251891601040770743339.jpg?v=1771937626",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 청소년, 위험 행동 증가 추세: 전자담배 및 온라인 도박 급증",
+      "summary": "- 태국 청소년들의 위험 행동이 증가하고 있으며, 특히 전자담배 사용과 온라인 도박이 심각한 수준임.\n- 2022년 청소년 전자담배 사용자는 2021년 대비 10배 이상 증가한 269,533명으로 급증함.\n- 2023년 연구에 따르면 태국 청소년의 32.3%가 온라인 도박에 참여하며, 월평균 1,633바트를 소비하는 것으로 나타남.",
+      "full_translated": "태국 건강 증진 재단(ThaiHealth)에 따르면 태국 청소년들이 위험한 행동에 점점 더 빠져들고 있으며, 전자담배 사용이 급증하고 온라인 도박이 심각한 수준에 도달했습니다. \n\nThaiHealth의 Paranee Phuprasert 부매니저는 아동과 십 대들이 전자담배 및 온라인 베팅 플랫폼 마케팅의 공격적인 표적이 되고 있다고 말했습니다. 그녀는 최근 마히돌 대학교 팀과 공동으로 작성한 2025년 태국 건강 보고서의 결과를 인용했습니다. \n\n이 보고서에 따르면 청소년 전자담배 사용은 단 1년 만에 24,050명(2021년)에서 269,533명(2022년)으로 10배 급증하여 젊은이들 사이에서 전자담배 제품이 빠르게 확산되고 있음을 반영합니다. 온라인 도박도 마찬가지로 심각한 추세를 보입니다. 도박 문제 연구 센터의 2023년 연구에 따르면 태국 청소년의 32.3%가 온라인 도박에 참여한 것으로 나타났습니다. 젊은 도박꾼은 평균적으로 월 1,633바트를 소비하며, 이 연령대에서만 연간 약 587억 바트의 도박 자금이 순환되는 것으로 추정된다고 Paranee는 말하면서 정신 건강 문제 증가, 긴장된 가족 관계 및 학업 동기 저하 가능성에 대해 경고했습니다. \n\n이에 대응하여 ThaiHealth는 2017년부터 지역 사회 수준에서 청소년 참여를 강화하여 안전하고 지원적인 환경을 조성하기 위해 노력해 왔습니다. 이 이니셔티브는 1,0",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 태국 사회의 변화를 보여주는 흥미로운 정보. 다만, 여행 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Rise seen in 'risky' youth behaviours",
+          "url": "https://www.bangkokpost.com/thailand/general/3204590/rise-seen-in-risky-youth-behaviours",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204590_260225020149_700.jpg"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204590_260225020149_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 외무장관, 캄보디아의 '점령' 주장에 반박",
+      "summary": "- 태국 외무장관은 캄보디아 총리의 태국 점령 주장을 부인하며 양국이 휴전에 합의했다고 밝혔습니다.\n- 휴전은 여전히 취약하며, 긴장 완화와 신뢰 구축이 필요하다고 강조했습니다.\n- 과거 캄보디아의 태국 영토 침범 사례가 있었다고 주장하며, 양측의 도발과 오보도를 피해야 한다고 말했습니다.",
+      "full_translated": "파리 - 2026년 2월 23일, 태국 외무장관 시하삭 푸앙께트케오는 캄보디아 총리 훈 마넷이 태국이 캄보디아 영토를 계속 점령하고 있다는 주장에 대해 양측이 휴전에 합의했으며, 국경 문제 해결을 위해 노력하는 동안 양국 군대가 현재 위치에 머물기로 합의했다고 반박했습니다. 시하삭 장관은 월요일 파리 방문 중 프랑스 24와의 인터뷰에서 휴전이 여전히 '취약'하다고 말하며 긴장 완화와 신뢰 구축 조치를 촉구했습니다. 그는 \"우선 휴전 협정에 도달했지만 사실 휴전은 여전히 취약합니다.\"라고 말했습니다. \"현재로서는 상황을 완화하고 신뢰를 구축하여 관계를 진전시켜야 합니다.\" 훈 마넷은 미국에서 태국군이 캄보디아 깊숙한 지역을 점령하고 있다고 주장했는데, 시하삭은 양국이 휴전 협정의 일환으로 군대가 현재 위치에 머물기로 합의했다고 말했습니다. 그는 최근 분쟁 이전에 캄보디아 측이 태국 영토를 명백히 침범한 사례가 있었다고 주장했습니다. 그는 \"우리는 사실을 봐야 합니다.\"라고 덧붙이며 양측은 긴장 고조, 도발 및 오보도를 피해야 한다고 말했습니다. 태국군이 이전에 캄보디아 영토로 인정된 지역에 컨테이너와 철조망을 설치했다는 주장에 대해 시하삭은 그러한 조치가 태국 영토 내에서 캄보디아의 침범이 시간이 지남에 따라 발생한 지역에서 취해졌다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국-캄보디아 국경 지역 긴장 관련 뉴스. 여행객 안전에 직접적인 위협은 아니지만, 상황을 주시할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai FM hits back at Cambodia’s ‘occupation’ claim in France 24 interview",
+          "url": "https://www.khaosodenglish.com/news/2026/02/24/thai-fm-hits-back-at-cambodias-occupation-claim-in-france-24-interview/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/messageImage_1771917187679.jpg"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/messageImage_1771917187679.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "스리랑카, 2026년 태국과의 관계 강화 추진",
+      "summary": "- 스리랑카는 양국 관계 70주년을 기념하여 2026년 태국과의 관계를 더욱 강화할 계획임.\n- 투자 및 관광 홍보 활동, 양자 협의, 실론 차 홍보 행사 등이 예정되어 있음.\n- 특히 자유 무역 협정 이행을 통해 노동 협력 및 경제 발전을 도모할 예정.",
+      "full_translated": "스리랑카는 양국 관계 70주년을 기념한 후 2026년에 태국과의 관계를 더욱 강화하고자 한다고 스리랑카 대사관이 밝혔습니다. EAS 위자얀티 에디리싱헤 태국 주재 스리랑카 대사는 투자 및 관광 홍보 활동, 태국과의 제6차 양자 협의 성공적 개최, 관광, 실론 차 홍보, 베삭 축하 행사 등 다양한 행사가 지난 한 해 동안 관계 증진을 목표로 했다고 말했습니다. 에디리싱헤 대사는 방콕에서 열린 스리랑카 독립 78주년 기념 리셉션에서 올해도 외교 활동이 계속될 것이라고 말했습니다. 그녀는 \"2026년에는 서명된 자유 무역 협정 이행을 통해 노동 협력 및 경제 발전의 새로운 영역에서 이러한 관계를 더욱 강화할 수 있기를 기대합니다.\"라고 말했습니다. 리셉션에 참석한 스리랑카 산업 기업가 개발 장관 수닐 한두네티는 태국 기업가들을 6월 18일부터 21일까지 콜롬보에서 열리는 스리랑카 엑스포 2026에 초대했습니다. 수닐 씨는 스리랑카가 양국 간의 오랜 관계를 소중히 여긴다고 말했습니다. 사베다 태국 문화부 장관은 태국이 스리랑카를 문화, 종교 및 인적 교류 증진의 핵심 파트너로 간주한다고 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국-스리랑카 관계 강화는 장기적으로 관광객에게 간접적인 영향을 줄 수 있으나, 당장 여행에 미치는 영향은 미미함.",
+      "event_info": {
+        "date": "2026-06-18",
+        "location": "Colombo, Sri Lanka",
+        "price": "Unknown",
+        "location_google_map_query": "Sri Lanka Expo 2026, Colombo"
+      },
+      "references": [
+        {
+          "title": "Sri Lanka looks to forge closer ties in 2026",
+          "url": "https://www.bangkokpost.com/thailand/general/3204415/sri-lanka-looks-to-forge-closer-ties-in-2026",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981655_700.jpg"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981655_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "탁신, 5월 가석방 신청 자격 얻어",
+      "summary": "- 탁신 친나왓 전 총리가 5월에 가석방 신청 자격을 얻게 됨.\n- 형기의 3분의 2를 복역해야 한다는 규정에 따름.\n- 교도소, 교정국, 법무부의 심의를 거쳐 신청이 가능.",
+      "full_translated": "탁신 친나왓 전 총리가 형기의 3분의 2를 복역해야 한다는 규정에 따라 5월에 가석방 신청 자격을 얻게 된다고 Rutthapon Naowarat 법무부 장관이 밝혔다. 그는 교도소, 교정국, 법무부의 위원회와 이 사건에 대해 협의했으며, 이 과정은 일상적인 절차이며 확립된 절차를 따를 것이라고 강조했다. 그는 \"신청은 정상적으로 제출될 수 있다\"고 말했다. \"탁신의 경우 가석방 자격은 2026년 5월에 해당된다. 형기의 3분의 2를 복역해야 한다는 규정에 따라 그는 가석방을 신청할 자격이 있다.\" 76세의 탁신은 대법원이 경찰 종합 병원의 VIP실에서 6개월간 머문 것이 3건의 형사 사건으로 복역해야 할 1년 형에 포함되지 않는다고 판결한 후 지난해 9월 9일 클롱 프렘 중앙 교도소에 구금되었다. 클롱 프렘 중앙 교도소의 한 소식통은 그의 가석방이 여전히 검토 중이라고 말했다. 교도소는 일반 가석방 심사 기준을 충족하는 수감자 목록을 작성하고 있다. 가석방된 사람들은 지정된 보호자의 감독 하에 등록된 거주지에서 보호 관찰을 받게 된다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 사건이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "May parole for Thaksin",
+          "url": "https://www.bangkokpost.com/thailand/general/3204500/may-parole-for-thaksin",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204500_260225014954_700.jpg"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204500_260225014954_700.jpg",
       "date": "2026-02-25"
     }
   ]
