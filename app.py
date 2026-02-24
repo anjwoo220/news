@@ -1326,9 +1326,26 @@ def render_tab_news():
                 spacer_left, center_col, spacer_right = st.columns([1, 1.5, 1])
                 
                 with center_col:
-                    st.markdown('<div class="pagination-buttons">', unsafe_allow_html=True)
+                    st.markdown("""
+                    <style>
+                        /* 페이지네이션 하단 영역의 버튼 스타일 강제 초기화 */
+                        div[data-testid="column"] .stButton > button:has(p:contains("이전")),
+                        div[data-testid="column"] .stButton > button:has(p:contains("다음")),
+                        div[data-testid="column"] .stButton > button:has(p:contains("Previous")),
+                        div[data-testid="column"] .stButton > button:has(p:contains("Next")) {
+                            width: 100% !important;
+                            margin: 0 !important;
+                            padding: 0.5rem 1rem !important;
+                            border-radius: 8px !important;
+                            position: relative !important;
+                            transform: none !important;
+                            display: flex !important;
+                            justify-content: center !important;
+                        }
+                    </style>
+                    """, unsafe_allow_html=True)
                     # Row 1: Left and Right buttons
-                    col_prev, col_next = st.columns(2, gap="large")
+                    col_prev, col_next = st.columns(2, gap="medium")
                     
                     with col_prev:
                         btn_label_prev = "⬅️ Previous" if st.session_state.get('language') == 'English' else "⬅️ 이전"
@@ -1347,7 +1364,6 @@ def render_tab_news():
                                 st.rerun()
                         else:
                             st.button(btn_label_next, disabled=True, use_container_width=True, key="p_next_dis")
-                    st.markdown('</div>', unsafe_allow_html=True)
                             
                     # Row 2: Page selection input
                     st.markdown("<br>", unsafe_allow_html=True)

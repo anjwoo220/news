@@ -175,8 +175,8 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .glass-car
 
 /* --- 5. Button Styling --- */
 /* Primary Buttons - Royal Gold Capsule (Exclude pagination buttons) */
-div:not(.pagination-buttons)>div>button[kind="primary"],
-div:not(.pagination-buttons)>div>.stButton>button {
+button[kind="primary"],
+.stButton>button {
     background-color: transparent !important;
     color: #D4AF37 !important;
     border: 2px solid #D4AF37 !important;
@@ -188,8 +188,8 @@ div:not(.pagination-buttons)>div>.stButton>button {
     transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
 }
 
-div:not(.pagination-buttons)>div>button[kind="primary"]:hover,
-div:not(.pagination-buttons)>div>.stButton>button:hover {
+button[kind="primary"]:hover,
+.stButton>button:hover {
     background-color: #4B0082 !important;
     color: white !important;
     border-color: #4B0082 !important;
@@ -197,36 +197,42 @@ div:not(.pagination-buttons)>div>.stButton>button:hover {
 }
 
 /* Secondary/Ghost Buttons */
-div:not(.pagination-buttons)>div>button[kind="secondary"] {
+button[kind="secondary"] {
     background-color: transparent !important;
     color: #2D2D2D !important;
     border: 1px solid #ccc !important;
 }
 
-div:not(.pagination-buttons)>div>button[kind="secondary"]:hover {
+button[kind="secondary"]:hover {
     background-color: #4B0082 !important;
     color: white !important;
     border-color: #4B0082 !important;
 }
 
 /* Dark Mode Button Overrides */
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div:not(.pagination-buttons)>div>.stButton>button {
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stButton>button {
     color: #D4AF37 !important;
     border-color: #D4AF37 !important;
 }
 
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div:not(.pagination-buttons)>div>.stButton>button:hover {
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stButton>button:hover {
     background-color: #4B0082 !important;
     color: white !important;
 }
 
 /* Pagination Buttons Specific Overrides (Resetting padding/margins to let use_container_width work properly) */
-.pagination-buttons .stButton>button {
+button[kind="secondary"]:has(p:contains("이전")),
+button[kind="secondary"]:has(p:contains("다음")),
+button[kind="secondary"]:has(p:contains("Previous")),
+button[kind="secondary"]:has(p:contains("Next")) {
     width: 100% !important;
-    padding: 8px 0 !important;
+    padding: 0.5rem 1rem !important;
     border-radius: 8px !important;
-    /* Less pill-shaped for pagination */
     margin: 0 !important;
+    position: relative !important;
+    transform: none !important;
+    display: flex !important;
+    justify-content: center !important;
     white-space: nowrap !important;
     overflow: hidden !important;
     text-overflow: ellipsis !important;
