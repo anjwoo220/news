@@ -34256,14 +34256,9 @@
       "summary": "- 시암 파라곤, TAT, Kasikornbank와 협력하여 '시암 파라곤 번영하는 중국 설 2026' 개최\n- 태국 전역에서 중국 설 축제 진행\n- 다양한 행사와 프로모션 진행 예정",
       "full_translated": "시암 파라곤, 태국 관광청(TAT), Kasikornbank와 협력하여 '시암 파라곤 번영하는 중국 설 2026'을 개최합니다. 태국 전역에서 중국 설 축제가 열릴 예정이며, 다양한 행사와 프로모션이 진행될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국에서 열리는 중국 설 축제 정보로, 여행객들에게 문화 체험 기회를 제공할 수 있으나, 2026년에 개최되므로 당장 필요한 정보는 아님.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "Siam Paragon, Thailand",
-        "price": "정보 없음",
-        "location_google_map_query": "Siam Paragon Thailand"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': 'Siam Paragon, Thailand', 'price': '정보 없음', 'location_google_map_query': 'Siam Paragon Thailand'}",
       "references": [
         {
           "title": "Ushering in a Year of Prosperity: Celebrating Thailand’s Chinese New Year Festival Siam Paragon Joins Forces with TAT and Kasikornbank to Launch 'Siam Paragon A Prosperous Chinese New Year 2026' - The Manila Times",
@@ -34271,22 +34266,20 @@
           "source": "The Manila Times"
         }
       ],
-      "collected_at": "08:16",
-      "date": "2026-02-24"
+      "collected_at": "8:16",
+      "image_url": "",
+      "date": "2026-02-24",
+      "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxQcTl5bGRkZ1kxalZkempkRDJzMTJUbmRmSWYtUFV3elMxckdBZjZTbVdVNnNLS1pKLURsRkZEaDk2dGttdTl6a0ZxaFRYci1heHdCNmE2WmN4MW9NSUs2bTBodi1tUmJtWUJXMTdkNmJFdjlLSzlxeU9sNjNEaHlBa1pLcnB2QTl0Tm05TUdBWU4tZ0NZQUp3VnpVMy1qbjNhbE9jX1RoY1hlT1UteFV4VWxPTjkwVU1sbU9iaC1fTHd1VEZMQy1DN2JoRlp5cFRjZElLdEpPcWpoYzNsX1NxaTkxM0R6cFJQUW15aVFydjZnTW1vc2EtUXBFWVVrME50bGpzYzNDbkpsVVFyRW5mcE14ZmF5eXRjRWdncWdyRUtLZUc4OE92NVRBRTRaNW9wbmFnMzVlR05QeEhEcVgwU2FzZ2NYcEVOQmtuSXFtZGlHVFp6XzFuZVBjZFlXQW9qMUlPR21fNlBoNWdQLWxJWmV6eEpaazFfX0dpYjBBZ25WR1d3VlEwamFB0gGPA0FVX3lxTE5VZzJlbnhwZjdQc0RmQW5zdEdhYklGQVg0VUdKZHlNZnVkVVl1dTU1c1VKSklkYjFKMDY0SExpaG8wdHRKa1BYeXV6OVpoR2hpYzUwdkg2Z1g5R2hHazVFdUF6Znp2RVB3ZVRrdzNGU1V3WUpaQmpGT2lBQ29mY3FrS0EyRUcwQXQ2NS1ydlhRRFdGdUtTMURhR2dTOEd6Tk5lazE4eV9wUmxFNVkxZlZUWDlxMGVWQUNrUmh6TDFhaFFzVjN5ZlF4WEpHcjRjMVVlbUsxa294eUYwTUpLOG80RWU1R014OUtyWXBrTV9JQmI5bHBGaVMzR2hsYjhCSHVaSUFHNmd5Q1BiMkxzWGVJZUt0RDZnV29VaGEzVXpRUk00Z0p1b3NLeUxyOE85TDhMXzItN2JXOW9GYWJINWZHWkhTTGhDS09PMGt3OXNIaVNBVjhyY3h5SUV4V29iaFlmMnhGUG5PZGdJMHdBMHJLYjFmZmdnX3p6bVZNRUtfMDJXTkxKU2xhRkYwekJrZw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 외무장관, 프랑스 방문…국경 문제 중립적 입장 지지 및 스캔 사기 정보 교환",
       "summary": "- 태국 외무장관이 프랑스를 방문하여 양국 관계를 강화하고 170주년 기념 논의\n- 양국은 고위급 교류와 협력을 통해 '전략적 동반자 관계'로 발전시키기로 함\n- 태국-캄보디아 국경 문제에 대한 프랑스의 중립적 역할에 감사를 표하고, 스캔 사기 정보 교환",
       "full_translated": "2025년 2월 23일, 태국 외무부 장관은 프랑스 유럽 및 외무부 장관과 양자 회담을 가졌습니다. 양측은 태국-프랑스 관계 수립 170주년을 맞아 긴밀하고 오랜 양자 관계를 강화하는 방안에 대해 논의했습니다. 특히 양국 간 고위급 교류를 지속적으로 추진하고, 협력을 증진하여 '전략적 파트너십'으로 관계를 격상시키기로 했습니다. 논의는 국민 및 문화 교류까지 포괄했습니다. 양측은 또한 지정학적 과제와 동남아시아 지역의 안보 문제에 대해서도 논의했으며, 태국 외무부 장관은 특히 태국-캄보디아 국경 상황과 관련하여 평화와 안정 구축에 대한 프랑스의 중립적이고 건설적인 역할에 감사를 표하고 미얀마 상황과 지역의 온라인 사기 퇴치 노력에 대한 정보를 제공했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국과 프랑스 관계 강화는 장기적으로 관광객에게 긍정적인 영향을 줄 수 있지만, 당장의 직접적인 영향은 제한적임. 국경 문제에 대한 논의는 외교적 차원의 이슈이며, 스캔 사기 정보 교환은 잠재적 위험에 대한 인식을 높이는 데 기여할 수 있음",
-      "event_info": {
-        "date": null,
-        "location": "파리, 프랑스",
-        "price": null,
-        "location_google_map_query": "Paris, France"
-      },
+      "event_info": "{'date': None, 'location': '파리, 프랑스', 'price': None, 'location_google_map_query': 'Paris, France'}",
       "references": [
         {
           "title": "\"สีหศักดิ์\" เยือนฝรั่งเศส ชื่นชมวางตัวเป็นกลางปมชายแดน แลกเปลี่ยนข้อมูลสแกมเมอร์",
@@ -34295,23 +34288,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmR6n7rNbumRZD.jpg"
         }
       ],
-      "collected_at": "08:16",
+      "collected_at": "8:16",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmR6n7rNbumRZD.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/politic/2916010",
+      "source": ""
     },
     {
       "title": "중국, 베트남, 태국, 미국, 시아누크빌의 아세안 스마트 시티 그린 허브 및 럭셔리 해변 발전 견인",
       "summary": "- 에미레이트 항공, 에어아시아, 캄보디아 앙코르 항공, 메리어트, 힐튼 등이 확장 주도\n- '평화 속 관광 성장' 엑스포에서 시아누크빌의 부상 강조\n- 아시아의 새로운 넥스트인가?",
       "full_translated": "중국, 베트남, 태국, 미국이 에미레이트 항공, 에어아시아, 캄보디아 앙코르 항공 및 메리어트, 힐튼 확장을 주도하며 시아누크빌이 \"평화 속 관광 성장\" 엑스포에서 아세안의 스마트 시티 그린 허브 및 럭셔리 해변 강국으로 부상하고 있습니다. 이것이 아시아의 넥스트인가?",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 포함된 아세안 지역 관광 산업의 성장과 관련된 뉴스이며, 항공 및 호텔 산업 확장에 대한 정보는 여행객에게 유용할 수 있음. 시아누크빌의 새로운 허브로서의 부상은 여행객의 관심과 여행 계획에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "시아누크빌",
-        "price": null,
-        "location_google_map_query": "시아누크빌"
-      },
+      "event_info": "{'date': None, 'location': '시아누크빌', 'price': None, 'location_google_map_query': '시아누크빌'}",
       "references": [
         {
           "title": "China, Vietnam, Thailand, USA Drive Emirates, AirAsia, Cambodia Angkor Air and Marriott, Hilton Expansion as Sihanoukville Emerges as ASEAN’s Smart City Green Hub and Luxury Beach Powerhouse at “Tourism Grows in Peace” Expo — Is This Asia’s Nex - Travel And Tour World",
@@ -34320,8 +34310,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:16",
+      "collected_at": "8:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-24",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOOVMyQXIzb1BrQnJLRW9GWFFqc2ZCamFtRFlFZ0NXTEVCcHZsRV9sSWdjVVhONW5LSnVVQmVXNjhPOG9STXBLM25fZGVmTnFWT2xZWWJ4NXVGei1ieXZQdzVGZ0MwcE43R0ZTYVV3OTk3MkpBTjljbmg5aDV1Y1hFR3ZNM0dRODY4R3dVeGlIcXZ1UmxmTWcyYWpxMjVNV0FMMGdzNWxLaFV0djhoaVRzOEFKS3ZPTEJBVllCaHNzbUZ5djlQNkVjc1hYeTFONENLUFhYT3dGY2tpR2d1dGtkX0kzX0FnUUNxMjFnSjlab3VIdEkxR0FtcDN2QXRaOW4tdnZLSkR4RFpUUjNTbnlqV25wVEg4dG5sU3pQbXQwZ2g5c21lWE1LZDNqUWctWDhJWTR2RzFUUndhNzF0T09nZ0pvV0pRSWlSUmJscVhrTHVpR2pJ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "사라부리에서 5세 딸 실종 신고, 숲에서 발견된 시신과의 연관성 우려",
+      "summary": "- 사라부리에서 5세 여아가 실종되어 경찰에 신고됨.\n- 아이 엄마는 부부싸움 후 아이 둘을 데리고 집을 나감.\n- 경찰은 발견된 여자아이 시신과의 연관성을 조사 중.",
+      "full_translated": "사라부리 지방의 한 아버지가 5세 딸이 실종되었다고 신고하며, 숲에서 발견된 여자아이 시신 사건과의 연관성을 우려하고 있습니다. 아내는 부부싸움 후 아이들을 데리고 집을 나갔으며, 경찰은 최근 이 사건을 수사하며 시신으로 발견된 여자아이 사건과의 연관성을 조사하고 있습니다. 2월 23일에 발생한 이 사건은 도로 옆 숲에서 3~5세로 추정되는 여자아이의 시신이 발견된 끔찍한 사건입니다. 시신은 엎드린 채 부패가 진행 중이었고, 오른쪽 팔이 없었으며, 청바지와 분홍색 겨울옷을 입고 있었습니다. 발견 당시 기저귀와 파란색 양말을 착용하고 있었으며, 시신 옆에는 흰색 수건이 있었습니다. 경찰은 시신이 최소 5일 전에 사망한 것으로 추정하고 있습니다. 3미터 떨어진 곳에서는 인형 무늬가 있는 보라색 침대 시트도 발견되었습니다. 실종된 아이의 아버지인 솜분 씨는 아내와 다툰 후 아내가 2월 18일에 8세 아들과 5세 딸을 데리고 집을 나갔다고 밝혔습니다. 그는 경찰에 신고했지만, 경찰은 단순한 부부싸움으로 간주하여 사건을 접수하지 않았습니다. 현재 경찰은 솜분 씨를 불러 심문하고 시신의 신원을 확인하고 있습니다. 경찰은 수사를 진행 중이며, 추가 정보가 나오는 대로 보고할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "실종 사건은 여행객 안전에 대한 간접적인 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "사라부리",
+        "price": null,
+        "location_google_map_query": "사라부리"
+      },
+      "references": [
+        {
+          "title": "พ่อชาวสระบุรี แจ้งเบาะแสลูกสาว 5 ขวบ หายตัวไป หวั่นโยงเคสพบศพ ด.ญ. ถูกทิ้งป่า",
+          "url": "https://www.thairath.co.th/news/local/2916033",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSrebwnc7u0tI.jpg"
+        }
+      ],
+      "collected_at": "10:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSrebwnc7u0tI.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "태국, 교육 시스템 유연화: 국민 ID 카드로 학점 은행제 도입",
+      "summary": "- 태국 정부는 국민 ID 카드를 활용한 학점 은행 시스템 도입을 추진합니다.\n- 이는 학교 밖 청소년의 교육 접근성을 높이고, 유연한 학습 환경을 제공하기 위함입니다.\n- 2026년까지 정부 데이터베이스를 연계하여 위기 상황에 놓인 학생들을 지원할 계획입니다.",
+      "full_translated": "태국 국가 아동 및 청소년 교육 시스템 이탈 방지 위원회(TZD)는 국민 ID 카드를 학점 은행 계정으로 변경하는 방안을 승인했습니다. 이는 태국 교육 시스템에서 이탈하는 학생 수를 줄이기 위한 조치입니다. 위원회는 유연 학습(Flexible Learning) 정책을 지지하며, 'Learning Passport' 프로젝트를 추진하여 국민 ID 카드를 개인 학습 계정(ILA)으로 전환합니다. 2023년 100만 명 이상이었던 교육 시스템 이탈 아동 수가 60만 명으로 감소한 성공을 바탕으로, 2026년까지 정부 데이터베이스를 연결하여 학습 센터 아동, 12조 학생 및 위기 상황에 놓인 학생 그룹(Crisis PLUS)을 포함한 지원을 확대할 예정입니다. 쁘람푼 칫첩(프어 펀 칫첩) 경찰청장은 교육 시스템에서 이탈하는 아동 문제를 해결하는 것이 정부의 지속적인 우선 과제라고 밝혔습니다. 모든 부문의 협력을 통해 시스템 외 아동 수가 실질적으로 감소했으며, 2023년 102만 명에서 최근 (2023년 11월 기준) 603,095명으로 줄었습니다. 이러한 성공을 바탕으로 회의에서는 유연 학습 및 Learning Passport에 대한 접근 방식을 승인하고 교실에 얽매이지 않고 생활 기본 기술(Foundational Skills)을 구축하는 새로운 학습 생태계를 추진하기로 했습니다. 이는 꺼 쏘 쏘 의 연구를 기반으로 디지털 기술, 정서적 및 사회적 기술, 기업가 정신의 세 가지 주요 영역에서 이루어집니다. ... 개인 학습 계정(Individual Learning Accounts – ILA) 개발을 통해 추진될 예정이며, 국민 ID 카드 하나로 학점 축적 시스템 역할을 하는 Learning Passport이 될 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 교육 시스템의 변화는 장기적으로 외국인 커뮤니티에도 영향을 줄 수 있으나, 즉각적인 여행 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TZD ไฟเขียว เปลี่ยนบัตรประชาชน เป็นบัญชีคลังหน่วยกิต ลดเด็กหลุดจากระบบการศึกษาไทย",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2916043",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhaWBN2kVcOtuydfv.jpg"
+        }
+      ],
+      "collected_at": "10:56",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhaWBN2kVcOtuydfv.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "파야오 선거구 재선거 및 4개 주에서 재검표 실시",
+      "summary": "- 3월 1일 파야오 지역구 1의 6번 투표소에서 재선거 실시.\n- 2월 26-27일, 4개 주 7개 투표소에서 정당 명부 투표 재검표 진행.\n- 유권자 수와 투표 용지 수가 불일치하여 재선거 및 재검표 결정.",
+      "full_translated": "선거관리위원회(꼬꼬또.)는 3월 1일 파야오 지역구 1의 6번 투표소에서 지역구 및 정당 명부 투표 모두 재선거를 실시한다고 밝혔습니다. 이는 투표자 수와 투표 용지 수가 일치하지 않기 때문입니다. 2월 26일부터 27일까지 4개 주 7개 투표소에서 정당 명부 투표 재검표가 진행됩니다.\n\n재선거는 파야오 므앙파야오 지역 타왕통 구역 4번 마을의 반살라 학교 식당에서 3월 1일 오전 8시부터 오후 5시까지 진행됩니다. 선거관리위원회는 유권자들에게 해당 날짜와 시간에 투표에 참여할 것을 요청했습니다.\n\n재검표는 다음과 같은 장소에서 진행됩니다. 오전 10시: 1. 쁘라쭈압키리칸 주 1 선거구 삼로이욧 지역 2번 투표소, 라이마이 구역, 삼로이욧 지역 회의장. 2. 쁘라쭈압키리칸 주 1 선거구 삼로이욧 지역 8번 투표소, 삼로이욧 구역, 삼로이욧 지역 회의장. 3. 펫차분 주 1 선거구 므앙펫차분 지역 1번 투표소, 나이얌 구역, 펫차분 지방자치기구. 4. 펫차분 주 4 선거구 농파이 지역 2번 투표소, 농파이 구역, 촌대 지역 회의장. 오후 3시: 5. 깜팽펫 주 1 선거구 므앙깜팽펫 지역 8번 투표소, 니콤퉁포탈레 구역, 깜팽펫 지방 선거관리위원회 사무소...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 국내 정치 관련 뉴스이지만, 선거로 인한 교통 통제 또는 집회 가능성을 고려하여 중간 점수 부여. 여행에 직접적인 영향은 적을 수 있으나, 알아두면 유용한 정보.",
+      "event_info": {
+        "date": "2029-03-01",
+        "location": "파야오 므앙파야오 지역 타왕통 구역 4번 마을의 반살라 학교 식당",
+        "price": null,
+        "location_google_map_query": "반살라 학교 파야오"
+      },
+      "references": [
+        {
+          "title": "1 มี.ค. เลือกตั้งใหม่พะเยา เขต 1 หน่วย 6 ส่วน 26-27 ก.พ. นับคะแนนใหม่ 7 หน่วย 4 จว.",
+          "url": "https://www.thairath.co.th/news/politic/2916036",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSrrmAWR3Rqas.jpg"
+        }
+      ],
+      "collected_at": "10:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSrrmAWR3Rqas.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "탁신 전 총리, 2026년 5월 가석방 가능",
+      "summary": "- 탁신 친나왓 전 총리의 가석방 가능 시기는 2026년 5월로 예상됨.\n- 이는 수감 규정에 따라 형기의 2/3를 채운 후 가석방 심사 대상이 될 수 있기 때문임.\n- 법무부 장관은 관련 절차가 정상적으로 진행될 것이라고 밝힘.",
+      "full_translated": "2026년 2월 24일, 룻타폰 나오와랏 법무부 장관은 탁신 친나왓 전 총리의 가석방 시기와 관련하여, 정상적인 절차에 따라 진행될 것이라고 밝혔습니다. 그는 탁신 전 총리의 가석방 가능 시기가 2026년 5월이며, 이는 수감 규정에 따라 형기의 2/3를 채운 경우 가석방 심사를 받을 수 있기 때문이라고 설명했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "탁신 전 총리의 가석방 관련 뉴스는 태국 정치 상황에 대한 간접적인 정보를 제공하지만, 여행객에게 직접적인 영향을 미치지 않으므로 낮은 점수를 부여함. 다만, 정치 상황에 대한 관심도가 높은 여행자에게는 흥미로운 정보일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รมว.ยุติธรรม ย้ำ “ทักษิณ” ครบกำหนดพักโทษ พ.ค.นี้ ตามระเบียบที่ถูกคุมขัง 2 ใน 3",
+          "url": "https://www.thairath.co.th/news/politic/2916038",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSqinbuVZjfMS.jpg"
+        }
+      ],
+      "collected_at": "10:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOmSqinbuVZjfMS.jpg",
+      "date": "2026-02-24"
+    },
+    {
+      "title": "현대 PALISADE 디젤 및 SANTA FE 하이브리드, 태국 시장 출시: 가격 및 특징",
+      "summary": "- 현대자동차가 PALISADE 디젤과 SANTA FE 하이브리드 모델을 태국 시장에 출시하며 SUV 라인업 강화.\n- PALISADE 디젤은 2.2L 터보 엔진, SANTA FE 하이브리드는 1.6L 터보 하이브리드 엔진 탑재.\n- 두 모델 모두 Hyundai SmartSense 시스템 적용 및 특별 금융 프로모션 제공.",
+      "full_translated": "현대 PALISADE 디젤 7인승은 2.2리터 터보 197마력 엔진을 탑재하여 잦은 장거리 여행을 하는 가족에게 적합하며 실내 편안함에 중점을 둡니다. 장기간 사용에 안정적이며 4륜 구동(Prestige 모델)과 2륜 구동(Exclusive 모델)이 있습니다.\n\nSanta Fe 1.6 Turbo Hybrid Exclusive: 1,599,000 바트\nSanta Fe 1.6 Turbo Hybrid Prestige: 1,749,000 바트\nPalisade 2.2 Exclusive 2WD: 2,299,000 바트\nPalisade 2.2 Prestige 4WD: 2,499,000 바트\n\nHyundai all-new SANTA FE Hybrid는 최대 연비 19.6km/리터와 일상 및 휴일 라이프스타일에 다양한 활용성을 제공하는 6인승 하이브리드입니다. 232마력의 1.6 Turbo Parallel Hybrid 엔진이 함께 제공됩니다. 두 모델 모두 운전자의 피로를 줄이고 온 가족의 안전을 보장하기 위해 11가지 자동 운전자 지원 시스템인 Hyundai SmartSense가 탑재되어 있습니다.\n\n현대자동차는 \"Hyundai Pay Less\" 캠페인을 통해 최대 300,000바트(월 12,500바트, 24개월)의 할부 지원과 특별 금리 0%*를 제공합니다. (오늘부터 2026년 2월 28일까지)\n\n... 오늘날 SUV는 가족용 다목적 차량에서 운전자의 취향, 개성 및 라이프스타일을 반영하는 차량으로 발전했습니다. 따라서 뛰어난 SUV는 디자인, 기술 및 실제 사용의 가치를 모두 갖추어야 합니다. 현대자동차는 실제 사용을 이해하는 두 가지 컨셉의 플래그십 SUV를 제공하여 다양한 라이프스타일 역할을 지원합니다. 현대 PALISADE 디젤은 대형 D-SUV 디젤 차량으로, 강력한 인상으로 \"한국 보스가 선택한 차\"라고 불립니다. 이 차량은 웅장한 리더십 이미지를 전달하며 대가족과 장거리 운전자에게 프리미엄 공간과 편안함을 제공합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 자동차 시장 정보. 여행객에게 직접적인 영향은 적으나, 장기 체류나 차량 구매/렌트 고려 시 참고 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ส่องความคุ้ม Hyundai PALISADE Diesel และ Hyundai all-new SANTA FE Hybrid",
+          "url": "https://www.thairath.co.th/news/auto/news/2915808",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNgS1BxUsNptkY55Tc.jpg"
+        }
+      ],
+      "collected_at": "10:56",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNgS1BxUsNptkY55Tc.jpg",
       "date": "2026-02-24"
     }
   ]
