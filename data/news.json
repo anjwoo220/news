@@ -35872,14 +35872,9 @@
       "summary": "- 23세 태국 여성, 가짜 구인 광고에 속아 캄보디아 사기 조직에 납치됨.\n- 방콕에서 일자리를 잃은 후 페이스북 광고를 통해 사 깨오 지방의 행정직을 지원했다가 인신매매 피해를 입음.\n- 치앙라이 경찰의 도움으로 고향으로 안전하게 돌아왔으며, 30명 이상의 태국인이 억류되어 사기 활동을 강요받고 있다고 진술.",
       "full_translated": "치앙라이: 23세 여성이 캄보디아 사기 작전에서 탈출하여 고향으로 안전하게 돌아왔습니다. 그녀는 30명 이상의 태국인이 억류되어 사기 활동을 강요받았다고 말했습니다. 나파사라(성 숨김)로 확인된 이 여성은 가짜 구인 광고에 속아 인신매매를 당해 국경 너머의 사기 단지로 끌려갔다고 말했습니다. 어제 치앙라이 지방 경찰 본부에서 열린 환영식에서 마놉 세나쿨 지방 경찰 사령관은 경찰이 그녀를 집으로 데려온 후 나파사라와 그녀의 가족을 환영했습니다. 나파사라는 이전에 방콕에서 관리 직원으로 일했지만, 실직 후 페이스북을 통해 새로운 직업을 찾았다고 말했습니다. 그녀는 특별한 기술이 필요 없이 월 20,000바트의 급여를 제공하는 사 깨오 지방의 관리직을 광고하는 게시물을 발견했습니다. 그녀는 지원하기로 결정하고 2월 12일 방콕 랏프라오 지역의 쇼핑몰에서 모집 담당자들을 만났고, 5~6명의 다른 지원자들과 함께 여행했습니다. 그러나 사 깨오에 도착하자 그룹은 사탕수수 밭으로 끌려가 국경을 넘어 캄보디아로 강제로 도망쳐야 했습니다. 거동이 불편한 나파사라는 캄보디아인들에게 붙잡혀 캄보디아 포이펫으로 이송되기 전에 밭을 건너는 데 어려움을 겪었다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국인을 대상으로 한 인신매매 및 사기 범죄 관련 기사로, 여행객 안전에 대한 잠재적 위협이 있으므로 포함. 유사 사례에 대한 경각심을 높이고 주의를 환기시킬 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Woman safe after fleeing Cambodian scam centre",
@@ -35888,23 +35883,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204450_260225020223_700.jpg"
         }
       ],
-      "collected_at": "02:44",
+      "collected_at": "2:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204450_260225020223_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204450/woman-safe-after-fleeing-cambodian-scam-centre",
+      "source": ""
     },
     {
       "title": "태국 경찰, 길거리 반려동물 관련 분쟁 증가에 경고",
       "summary": "- 방콕에서 길거리 반려동물로 인한 이웃 간 분쟁 증가.\n- 경찰, 책임 의식 없는 애견가에 벌금 및 징역형 경고.\n- 동물 학대 시 최대 징역 2년 또는 벌금 4만 바트 부과.",
       "full_translated": "태국 경찰(RTP)은 자유롭게 돌아다니는 개와 고양이로 인해 발생하는 이웃 간의 갈등이 고조되는 것에 대해 우려를 표명하며, 애완동물 소유자들에게 더 큰 책임을 지거나 법적 처벌을 받을 수 있다고 경고했습니다.\n\nRTP 대변인인 시리와트 디포르 경찰 소장은 국가 경찰청장인 킷랏 판펫 경찰청장이 애완동물이 이웃의 재산에 침입하여 피해를 주는 데서 비롯되는 분쟁에 대해 우려하고 있다고 밝혔습니다. 어떤 경우에는 이러한 갈등이 폭력과 동물 학대로 이어졌으며, 이는 형사 범죄입니다. 합당한 이유 없이 동물을 다치게 하거나 불구로 만들거나 죽이는 것은 동물 학대 방지 및 복지법 B.E. 2557(2014)을 위반하는 것으로, 최대 2년의 징역, 최대 4만 바트의 벌금 또는 둘 다에 처해질 수 있습니다.\n\n동물에게 주인이 있는 경우, 가해자는 형법 358조에 따라 재산 피해에 대한 혐의로 기소될 수도 있으며, 이는 최대 3년의 징역, 최대 6만 바트의 벌금 또는 둘 다에 처해질 수 있습니다. 애완동물이 다른 동물에게 공격을 받거나 재산이 손상된 경우, 피해자는 경찰이나 지역 행정 당국에 신고하여 중재를 촉진하거나 민사 보상을 추구해야 합니다. 스스로 문제를 해결하려다가는 형사 고발을 당할 수 있습니다.\n\n소유자는 법적으로 적절한 동물 복지를 제공하고 애완동물이 해를 끼치거나 폐를 끼치지 않도록 할 의무가 있습니다. 과실은 동물 복지법 23조를 위반할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행 중 애완동물 관련 분쟁 발생 가능성 및 법적 책임 고지. 동물 학대 방지 관련 법규 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Police warn over stray pet conflicts",
@@ -35913,23 +35905,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204525_260225015417_700.jpg"
         }
       ],
-      "collected_at": "02:44",
+      "collected_at": "2:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204525_260225015417_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204525/police-warn-over-stray-pet-conflicts",
+      "source": ""
     },
     {
       "title": "태국, 트럼프의 글로벌 관세 인상에 대한 경계 강화",
       "summary": "- 아누틴 총리, 미국 트럼프 대통령의 15% 글로벌 관세 인상 계획에 대한 면밀한 모니터링 지시\n- 단기적으로 태국이 이익을 얻을 수 있지만 장기적인 무역 및 경제 영향 경고\n- 태국-미국 무역 협상팀에 워싱턴과의 논의 지속 지시 및 관계 부처에 대응 준비 촉구",
       "full_translated": "아누틴 차른비라쿨 총리는 에크니티 니티탄프라파스 재무장관과 수파지 수툼푼 상무장관에게 미국의 15% 글로벌 관세 부과 계획을 면밀히 감시하도록 지시했다고 밝혔다. 총리는 단기적으로 태국이 낮은 관세로 이익을 얻을 수 있지만, 장기적으로 국가의 무역과 경제에 미칠 수 있는 영향에 대해 경고했다. 아누틴 총리는 태국-미국 무역 협상팀에 워싱턴과의 논의를 계속하고, 양 장관에게 '팀 태국'과 협력하여 대응을 준비하도록 요청했다. 이번 조치는 도널드 트럼프 미국 대통령이 Truth Social에 글로벌 관세를 10%로 설정한 지 하루 만에 15%로 인상하겠다고 발표한 데 따른 것이다. 트럼프 대통령의 게시글에 따르면 새로운 관세는 즉시 발효된다. 수파지 장관은 내각 회의 후 단기적으로 태국이 이전에 19%의 관세를 부과받았기 때문에 이익을 얻을 것이라고 말했다. 그러나 정부는 150일 후 관세 정책에 대한 더 명확한 세부 사항을 기다릴 것이다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "관세 인상이 태국 경제에 미치는 영향은 간접적으로 여행 물가에 영향을 줄 수 있으나, 단기적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PM orders vigilance over Trump's global tariff move",
@@ -35938,23 +35927,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204370_260225015029_700.jpg"
         }
       ],
-      "collected_at": "02:44",
+      "collected_at": "2:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204370_260225015029_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204370/pm-orders-vigilance-over-trumps-global-tariff-move",
+      "source": ""
     },
     {
       "title": "태국 총선 무효 주장한 정당 간부, 당에서 직무 정지",
       "summary": "- 태국 신대안당이 몽콘킷 수크신타라논 사무총장의 직무를 정지시켰습니다.\n- 당 이미지 훼손을 이유로 들었으며, 총선 무효 주장이 영향을 미친 것으로 보입니다.\n- 몽콘킷은 직무 정지 기간 동안 당을 대표하여 어떠한 활동도 할 수 없습니다.",
       "full_translated": "신대안당이 '테 프라람 7'으로 불리는 몽콘킷 수크신타라논의 직무를 정지시켰습니다. 이는 당의 이미지를 보호하기 위한 조치이며, 그가 제기한 총선 무효 주장이 당에 압박을 가한 결과로 풀이됩니다. 2069년 2월 24일, 라첸 트라쿤위앙 신대안당 대표는 당 명령 3/2069호에 서명하여 몽콘킷 수크신타라논의 사무총장 직무를 일시적으로 정지시켰습니다. 당 문서에 따르면, 이는 당의 이미지와 이념을 유지하기 위한 것입니다. 명령의 세부 사항은 다음과 같습니다. 당은 몽콘킷 수크신타라논을 사무총장으로 임명하여 당의 행정 업무를 관리하고 정책에 따라 업무를 조정했습니다. 신대안당의 운영을 질서 있고 효율적으로 수행하고 당의 이상에 따라 좋은 이미지를 유지하기 위해 당 대표는 당 규정 37조에 따라 다음과 같이 명령합니다. 몽콘킷의 사무총장 직무를 일시적으로 정지합니다. 직무 정지 기간 동안 사무총장 명의로 어떠한 행위도 할 수 없으며, 신대안당에 법적 또는 정치적 의무를 발생시킬 수 있는 행위를 할 수 없습니다. 당 규정에 따라 권한을 가진 자 또는 위임받은 자가 별도의 명령이 있을 때까지 직무를 대행합니다. 몽콘킷의 사무총장 직무를 일시적으로 정지합니다. 직무 정지 기간 동안 사무총장 명의로 어떠한 행위도 할 수 없으며, 신대안당에 법적 또는 정치적 의무를 발생시킬 수 있는 행위를 할 수 없습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이지만, 여행 안전이나 편의에 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทางเลือกใหม่พักงาน \"เต้ มงคลกิตติ์\" เจ้าตัวลั่นเชื่อเหตุร้อง “เลือกตั้งโมฆะ” ทำพรรคผวา",
@@ -35963,23 +35949,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjRCXKQ0nQ8AM8.jpg"
         }
       ],
-      "collected_at": "02:44",
+      "collected_at": "2:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjRCXKQ0nQ8AM8.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/politic/2916239",
+      "source": ""
     },
     {
       "title": "유명 변호사 'Tum' 압류 자산 반환 명령",
       "summary": "- 법원이 유명 변호사 Sittra Biabangkerd와 그의 아내에게 압류된 7400만 바트 이상의 자산 반환을 명령했습니다.\n- 돈세탁 방지법에 따른 몰수를 뒷받침할 충분한 증거를 당국이 제시하지 못했다는 이유입니다.\n- Jatuporn Ubonlert의 온라인 복권 거래 애플리케이션 개발 자금 사기 주장이 있었으나, 법원은 증거 불충분으로 판단했습니다.",
       "full_translated": "민사 법원은 어제 유명 변호사 'Tum'으로 널리 알려진 Sittra Biabangkerd 변호사와 그의 아내에게 압류된 7400만 바트 이상의 자산을 반환하라고 명령했습니다. 법원은 당국이 돈세탁 방지법에 따른 몰수를 뒷받침할 만큼 충분히 강력한 증거를 제시하지 못했다고 판결했습니다.\n\n이 사건은 공공 검찰이 부부 소유의 26개 자산을 일시적으로 동결한 후 돈세탁 방지 사무소(Amlo)에 의해 제기되었습니다. 자산에는 은행 계좌, 토지, 주택 및 명품이 포함되었습니다. 당국은 이들이 Jatuporn Ubonlert의 불만과 관련된 사기 및 돈세탁을 저질렀다고 주장했습니다. Ms. Jatuporn은 부부가 온라인 복권 거래 애플리케이션 개발 자금을 위해 7100만 바트 이상을 이체하도록 속였다고 비난했습니다. 둘 다 혐의와 관련하여 작년 2월에 구금되었습니다.\n\n법정에서 검찰은 금융 기록과 경찰 조사 결과를 요약한 Amlo 수사 전문가를 제시했습니다. 그러나 판사는 증인의 증언 대부분이 전문적인 것이라고 판단하면서 증인이 사기 혐의에 직접적인 역할을 하지 않았다고 지적했습니다. 고소인과 수사관 모두 증언하지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "사건 자체가 여행객에게 직접적인 영향을 주지는 않으나, 태국 사회의 법 집행 및 사법 시스템 관련 이슈를 보여주는 뉴스임. 다만, 현재 시각이 새벽이므로 우선순위는 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "'Lawyer Tum' gets confiscated funds back",
@@ -35988,8 +35971,60 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204380_260225020315_700.jpg"
         }
       ],
-      "collected_at": "02:44",
+      "collected_at": "2:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204380_260225020315_700.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204380/lawyer-tum-gets-confiscated-funds-back",
+      "source": ""
+    },
+    {
+      "title": "태국 공항, 보안 검색 강화: 수하물 검사 절차 변경",
+      "summary": "- 태국 민간항공청(CAAT), 공항 보안 기준 강화의 일환으로 수하물 검사 절차 변경.\n- 승객 부재 시 의심스러운 수하물 검사 가능, 검사 과정은 비디오로 녹화.\n- 2025년 ICAO 감사 결과에 따른 후속 조치로, 1월 1일부터 휴대용 금속 탐지기 사용 중단.",
+      "full_translated": "태국 민간항공청(CAAT)은 국가 항공 보안 기준의 광범위한 개편의 일환으로 공항 보안 요원이 승객이 없는 상태에서 의심스러운 수하물을 검사할 수 있도록 허용할 예정입니다. 이러한 검사는 10월 16일부터 시작됩니다.\n\n새로운 수하물 검색 규칙에 따라 보안 직원은 폭발물, 위험물 또는 기타 금지 품목이 의심되는 경우 항공기 화물칸으로 향하는 수하물을 열 수 있습니다. CAAT는 이러한 모든 검사를 비디오로 녹화하여 승객이 나중에 프로세스를 검토할 수 있도록 해야 한다고 밝혔습니다. 또 다른 직원이 검사를 참관해야 하며, 승객은 수하물이 열리고 검사되었음을 확인하는 서면 통지를 받아야 합니다.\n\n이번 변경은 2025년 말 국제민간항공기구(ICAO)의 USAP(Universal Security Audit Programme)에 따른 것으로, 태국의 검색 절차에서 단점을 확인했습니다. 감사는 휴대용 금속 탐지기의 일관성 없는 사용을 발견하여 특정 신체 부위의 불완전한 검색을 초래했습니다. 이는 접근 통제 25%, 승객 및 객실 보안 57%를 포함한 주요 보안 영역에서 태국의 낮은 유효 구현(EI) 점수에 기여했습니다. CAAT는 모든 공항에 1월 1일부터 휴대용 금속 탐지기 사용을 중단하도록 명령했습니다. 신체 검색 방법은 신체 수색, 워크스루 금속 탐지기, ",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 보안 검색 절차 변경은 여행객에게 직접적인 영향을 미침. ICAO 감사 결과에 따른 변화이므로 신뢰성 높음. 혼란을 방지하기 위해 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "CAAT rejigs screenings at all airports",
+          "url": "https://www.bangkokpost.com/thailand/general/3204535/caat-rejigs-screenings-at-all-airports",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204535_260225020631_700.jpg"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204535_260225020631_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 리비에라 프로젝트: 타나오 스리 키리 팟 관광 도로 건설 추진",
+      "summary": "- 태국 농촌 도로국(DRR)이 지역 경제 활성화를 목표로 타나오 스리 키리 팟 관광 도로 건설을 추진 중.\n- 이 프로젝트는 태국 서부 걸프 연안의 해안 고속도로 네트워크를 개선하고 관광 성장을 촉진하기 위한 태국 리비에라 계획의 일환임.\n- 총 예산 7억 1,430만 바트가 투입되며, 2030년 완공 예정. 주요 구간은 아스팔트 콘크리트, 2차선, 교량 및 안전 시설을 포함.",
+      "full_translated": "페차부리: 농촌 도로국(DRR)은 반 카오 반다이와 반 남푸 론을 연결하는 37.2km 길이의 타나오 스리 키리 팟 관광 도로 건설을 추진하고 있으며, 이는 지역 경제를 활성화하는 것을 목표로 합니다. 이 프로젝트는 태국 리비에라 계획의 일부로, 태국 서부 걸프 연안을 따라 해안 고속도로 네트워크를 개선하고 안전을 향상시키며 관광 중심의 경제 성장을 촉진하도록 설계되었습니다. DRR 사무총장 피칫 훈시리는 새로운 도로가 고속도로 4호선(펫카셈 도로)의 대체 도로가 되어 여행 성수기 동안의 혼잡을 줄일 것이라고 말했습니다. 7억 1,430만 바트의 예산이 투입되는 이 프로젝트는 2030년 완공될 예정입니다. 현재 작업에는 도로 기초 및 철근 콘크리트 배수 시스템이 포함됩니다. 또한 조경, 휴게소 및 후아이 매 프라찬 저수지 다리 교차로의 경치 좋은 전망대가 특징입니다. 건설은 4개 섹션으로 나뉩니다. 섹션 1은 반 카오 반다이-반 남푸 론(Km 21+600 ~ Km 43+730)으로, 아스팔트 콘크리트, 2차선, 3개의 교량 및 안전 시설로 건설되었습니다. 섹션 2는 농촌 도로 1015(고속도로 4에서 반 푸 타키안까지)로, 13.7km에 걸쳐 있으며, 처음 4km는 철근 콘크리트, 그 이후에는 아스팔트 콘크리트로 배수 및 안전 시스템을 포함합니다. 섹션 3에서는 대체 도로(Km 37+655 ~ Km 38+453)가 어깨가 있는 아스팔트 콘크리트, 2차선으로 건설됩니다. 섹션 4는 공동으로 이루어집니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 도로 건설은 장기적으로 관광객 이동 편의성을 높이지만, 현재 공사로 인한 교통 체증 가능성이 있음.",
+      "event_info": {
+        "date": "2030년 완공 예정",
+        "location": "반 카오 반다이 - 반 남푸 론",
+        "price": "7억 1,430만 바트",
+        "location_google_map_query": "Ban Khao Bandai to Ban Namphu Ron"
+      },
+      "references": [
+        {
+          "title": "Dept advances Riviera road",
+          "url": "https://www.bangkokpost.com/thailand/general/3204550/dept-advances-riviera-road",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204550_260225014419_700.jpg"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204550_260225014419_700.jpg",
       "date": "2026-02-25"
     }
   ]
