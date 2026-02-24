@@ -36224,14 +36224,9 @@
       "summary": "- 중국인 관광객들이 일본 대신 태국을 선택하며 태국 관광 산업이 회복세를 보이고 있음.\n- 지정학적 요인과 경제적 요인이 결합되어 이러한 변화를 주도하고 있음.\n- 태국은 중국 관광객 유치를 위한 노력을 지속할 계획.",
       "full_translated": "블룸버그 통신에 따르면 중국인 관광객들이 일본 여행을 기피하면서 태국 관광 산업이 회복세를 보이고 있습니다. 여러 요인들이 복합적으로 작용한 결과로 보입니다. 태국은 중국 관광객 유치에 더욱 힘쓸 예정입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "최근 태국 관광 산업에 긍정적인 영향을 미치는 요인이며, 여행객들에게 유용한 정보임. 일본 여행을 고려하던 여행객에게는 대안 정보가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Avoiding Japan, Chinese Tourists Fuel Rebound in Thai Tourism - Bloomberg",
@@ -36240,17 +36235,63 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "5:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQXF1TlMwTnVFQmtKZURDVklLV2g2LUtrRTR2Rkp6ZjdlYlRjcmpKU1NtemZOUEVtRld6cWhWTEhkbDN5YThBSUZKQndTdkZ3WnFVOUowVjNxTFNkXzdRZkJKX2lLZ2ltLWJfUHAxUVFkdlE5ZUQ1OGFxbzhFdDk1anJpaVVNcWlxN0gwZXdQSll5eklSZlpaWU9CRTA2bGZNcWZMVnBhN2J2bU8tMi1qbA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 중앙은행, 4분기 호조에 힘입어 태국 GDP 성장률 전망치 상향",
       "summary": "- 태국 중앙은행은 4분기 경제 성장률이 예상보다 높아 올해 GDP 성장률 전망치를 기존 1.5%에서 1.9%로 상향 조정했습니다.\n- 이는 태국의 경제 전망이 긍정적으로 변화하고 있음을 시사합니다.\n- 여행 및 관광 산업에도 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "태국 중앙은행은 국가 경제 성장 전망에 대해 낙관적이며, 4분기의 경제 성장세가 예상보다 강세를 보임에 따라 올해 GDP 성장률을 기존 1.5%에서 1.9%로 상향 조정했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "GDP 성장률 증가는 전반적인 경제 상황 개선을 의미하며, 이는 관광 산업에도 간접적으로 긍정적인 영향을 미칠 수 있습니다. 경제 상황이 개선되면 여행객들의 소비 심리가 개선될 수 있기 때문입니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "BoT upgrades Thai GDP forecast after robust Q4",
+          "url": "https://www.bangkokpost.com/business/general/3204480/bot-upgrades-thai-gdp-forecast-after-robust-q4",
+          "source": "Bangkokpost.com : Top Stories"
+        }
+      ],
+      "collected_at": "5:28",
+      "image_url": "",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/business/general/3204480/bot-upgrades-thai-gdp-forecast-after-robust-q4",
+      "source": ""
+    },
+    {
+      "title": "나콘랏차시마, 라용과의 T1 리그 생존 경쟁",
+      "summary": "- 나콘랏차시마는 홈에서 라용을 상대로 승점 3점을 노립니다.\n- 수요일 80주년 기념 경기장에서 경기가 열립니다.\n- 나콘랏차시마는 T1 리그에서 생존을 위해 싸우고 있습니다.",
+      "full_translated": "나콘랏차시마는 수요일 80주년 기념 경기장에서 라용을 상대로 태국 리그 1에서 승점 3점을 얻기를 희망합니다. 나콘랏차시마는 T1 리그에서 생존을 위해 싸우고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 프로 축구 리그 관련 소식으로, 스포츠 팬들에게는 흥미로운 정보가 될 수 있습니다.",
+      "event_info": {
+        "date": "2024-06-26",
+        "location": "80th Anniversary Stadium, Nakhon Ratchasima",
+        "price": "경기 티켓 가격은 변동될 수 있으므로, 공식 웹사이트에서 확인하십시오.",
+        "location_google_map_query": "80th Anniversary Stadium Nakhon Ratchasima"
+      },
+      "references": [
+        {
+          "title": "Swat Cats take on Rayong with T1 survival on line",
+          "url": "https://www.bangkokpost.com/sports/3204425/swat-cats-take-on-rayong-with-t1-survival-on-line",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "06:00",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 통화정책위원회, 정책 금리 동결 전망",
+      "summary": "- 태국 중앙은행 통화정책위원회(MPC)는 오늘 회의에서 정책 금리를 1.25%로 동결할 것으로 예상됨.\n- 이는 예상보다 강력한 경제 성장과 개선된 정치 전망에 힘입은 결과임.\n- CIMB Thai Bank의 수석 이코노미스트는 경제 정책의 연속성을 지지하는 선거 결과도 금리 동결에 영향을 미쳤다고 분석함.",
+      "full_translated": "태국 중앙은행 통화정책위원회(MPC)는 예상보다 강력한 경제 성장과 개선된 정치 전망에 힘입어 오늘 회의에서 정책 금리를 변경하지 않을 것으로 예상됩니다. CIMB Thai Bank의 수석 이코노미스트인 Amonthep Chawla는 작년 4분기의 놀라운 경제 성과 덕분에 중앙은행이 정책 금리를 1.25%로 유지할 가능성이 높다고 말했습니다. 태국 국가경제사회개발위원회(NESDC)는 태국 경제가 2025년 4분기에 전년 대비 2.5% 성장하여 이전 분기의 1.2%에서 반등했다고 보고했습니다. 2025년 전체 성장률은 2.4%로 이전 예상치인 2.0~2.2%를 넘어섰습니다. Amonthep 씨는 \"선거 결과는 정치적 불확실성을 줄이고 경제 정책의 연속성을 보장하여 올해 경제 모멘텀을 뒷받침할 것입니다.\"라고 말했습니다. \"결과적으로 중앙은행이 연중 내내 정책 금리를 1.25%로 유지할 것으로 예상합니다.\" 마찬가지로 Kasikorn Research Center(K-Research)의 수석 이코노미스트인 Burin Adulwattana는 주로 작년 4분기의 경제 반등과 더 명확한 정치 환경으로 인해 정책 금리가 오늘 1.25%로 유지될 것으로 예상한다고 말했습니다. K-Research는 선거 결과가 정치적 불확실성을 완화하고 정부 경제 정책, 특히 '콘라크룽 플러스' 공동 지불 프로그램의 연속성을 지원해야 한다고 밝혔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
       "event_info": {
         "date": null,
         "location": null,
@@ -36259,12 +36300,89 @@
       },
       "references": [
         {
-          "title": "BoT upgrades Thai GDP forecast after robust Q4",
-          "url": "https://www.bangkokpost.com/business/general/3204480/bot-upgrades-thai-gdp-forecast-after-robust-q4",
-          "source": "Bangkokpost.com : Top Stories"
+          "title": "Monetary Policy Committee policy rate likely to remain unchanged",
+          "url": "https://www.bangkokpost.com/business/general/3204655/monetary-policy-committee-policy-rate-likely-to-remain-unchanged",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981820_700.jpg"
         }
       ],
-      "collected_at": "05:28",
+      "collected_at": "06:00",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981820_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "아누틴, 연립 정부 구성 협상 완료 부인",
+      "summary": "- 아누틴 총리는 연립 정부 구성 협상이 완료되지 않았다고 부인함.\n- 선거관리위원회의 의석수 재검토 및 인증이 아직 진행 중이라고 언급함.\n- 최종 합의가 이루어지기 전에는 내각 배분이나 총리 투표 약속에 대한 논의는 부적절하다고 밝힘.",
+      "full_translated": "아누틴 총리와 품자이타이당(BJT) 대표인 아누틴 찬위라쿨은 새로운 정부 구성을 위한 협상이 마무리되었다는 주장을 부인하며, 논의가 계속 진행 중이며 자신이 이 과정을 주도하고 있다고 주장했습니다. 화요일 정부청사에서 아누틴 총리는 300석 규모의 연립 정부가 이미 확보되었다는 고위 당 관계자들의 발언에 대해 답변했습니다. 기자들의 질문에 그는 \"협상하는 사람은 나\"라고 반박하며 최종 합의가 이루어지지 않았으며 완료된 합의에 대한 추측은 시기상조라고 분명히 했습니다. 그는 선거관리위원회가 여러 지역구에서 정당 명부 의석수를 재산정하고 인증하고 있으며, 이는 정확한 의회 산술이 아직 확정되지 않았음을 의미한다고 말했습니다. 결과의 공식적인 승인이 완료될 때까지 구속력 있는 연립 협정, 내각 할당 또는 총리 투표 약속에 대해 논의하는 것은 부적절하다고 그는 말했습니다. 아누틴은 BJT가 장관직이 할당되기 전에 총리 투표를 주장할 것인지 여부를 밝히기를 거부했으며, MP 의석수에 대한 명확성이 먼저 와야 한다고만 말했습니다. 그는 또한 클라탐당의 수석 고문인 탐마낫 프롬포우 대위가 주요 정치적 놀라움을 준비하고 있다는 보도를 듣지 못했다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Anutin denies coalition deal is done",
+          "url": "https://www.bangkokpost.com/thailand/politics/3204385/anutin-denies-coalition-deal-is-done",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204385_260225053635_700.jpg"
+        }
+      ],
+      "collected_at": "06:00",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204385_260225053635_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "불교 원칙, 긴장 완화에 도움될 것",
+      "summary": "- 태국-캄보디아 긴장 속에서 불교 원칙을 활용하자는 주장이 제기됨.\n- 학자들과 시민 지도자들은 양국이 공유하는 정신적 유산을 대화의 기반으로 삼을 것을 촉구함.\n- 갈등 해결을 위한 실질적인 도구로 올바른 이해, 올바른 언어, 올바른 행동과 같은 핵심 가르침이 제시됨.",
+      "full_translated": "태국-캄보디아의 긴장이 다시 고조되는 가운데, 학자들과 시민 지도자들은 불교 원칙을 적용하여 분열을 완화하고 양국 사회가 공유하는 정신적 유산을 대화와 화해의 기반으로 삼을 것을 촉구했습니다. 이러한 호소는 방콕에서 '분쟁 해결을 위한 불교의 길: 태국-캄보디아 대화'라는 포럼에서 나왔습니다. 참가자들은 양국 간의 반복되는 긴장이 정치적, 사회적 역학 관계에 따라 심화되거나 완화되는 경향이 있다고 말하며, 공식적인 외교를 넘어 지속적인 국민 간의 교류가 필요하다고 강조했습니다. 마하출라롱콘라자비달라야 대학교 불교학부 학장인 Phra Methivorayan 조교수는 수완나품(미얀마 남부, 태국, 메콩 삼각주, 말레이 반도를 포괄하는 동남아시아의 번성한 지역을 지칭하는 고대 용어)은 역사적으로 불교를 문화적 기반으로 삼아 평화를 유지해 왔다고 말했습니다. 그는 분쟁 해결을 위한 실질적인 도구로 올바른 이해, 올바른 언어, 올바른 행동과 같은 핵심 가르침을 언급했습니다. 그는 갈등이 인간 사회의 지속적인 부분이라고 지적했습니다. 중요한 것은 자기 이익이나 정치적 동기에 의해 발생하는지와 같은 갈등의 근원을 조사하는 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국-캄보디아 관계에 대한 내용으로, 여행 자체에 직접적인 영향은 적으나, 국경 지역 방문 예정인 여행객은 참고할 만한 정보임. 하지만 직접적인 위협은 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Buddhist principles urged to ease tensions",
+          "url": "https://www.bangkokpost.com/thailand/general/3204675/buddhist-principles-urged-to-ease-tensions",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204675_260225015722_700.jpg"
+        }
+      ],
+      "collected_at": "06:00",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204675_260225015722_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 1월 자동차 수출 6% 감소, 2022년 5월 이후 최저",
+      "summary": "- 태국의 1월 자동차 수출량이 전년 대비 6% 감소한 58,405대로, 2022년 5월 이후 최저치를 기록했습니다.\n- 이는 강화된 환경 규제와 환율 변동에 따른 것으로 분석됩니다.\n- 특히 호주의 강화된 탄소 배출 기준이 특정 모델에 대한 수요 감소를 야기했습니다.",
+      "full_translated": "태국의 자동차 수출이 1월에 감소하여 전년 대비 6% 감소한 58,405대를 기록했습니다. 이는 2022년 5월 이후 최저 수준이며, 태국산업연맹(FTI)은 강화된 환경 규제와 환율 변동이 원인이라고 밝혔습니다. 이러한 둔화는 세계 자동차 시장이 직면한 광범위한 어려움을 반영합니다. 특히 호주가 2025년 중반부터 시행한 엄격한 탄소 배출 법규로 인해 특정 모델에 대한 수요가 감소했습니다. 구형 차량 라인의 생산 중단 또한 태국의 수출량 감소에 영향을 미쳤습니다. FTI 부회장이자 자동차 산업 클럽 대변인인 수라퐁 파이싯파타나퐁은 아시아, 아프리카, 북미, 라틴 아메리카 및 중앙 아메리카 전반에 걸쳐 수출이 감소했다고 말했습니다. 수출액은 전년 대비 5.6% 감소한 390억 바트였습니다. 환율 변동 또한 압력을 더했습니다. 바트화가 지역 경쟁국에 비해 크게 평가절상되어 어제 달러당 31바트를 기록했습니다. 바트화 강세는 경쟁력을 약화시켜 태국 차량을 해외에서 더 비싸게 만들었습니다. 이러한 평가는 부분적으로 도널드 트럼프 미국 대통령의 15% 관세 발표에 대한 세계 시장의 반응으로 달러화가 약화되었기 때문입니다. 수라퐁 씨는 '우리는 글로벌 관세와 이것이 무역 및 태국 경제에 미치는 영향을 주시하고 있습니다.'라고 말하며 정부에 수출업체를 보호하기 위해 환율을 관리할 것을 촉구했습니다. 수출은 약화되었지만 태국의 전체 자동차 생산량은 증가했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 2,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 경제 상황에 대한 간접적인 정보 제공. 환율 변동 관련 언급은 여행 경비에 영향을 줄 수 있으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Car exports decline by 6% in January",
+          "url": "https://www.bangkokpost.com/business/motoring/3204620/car-exports-decline-by-6-in-january",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204620_260225050848_700.jpg"
+        }
+      ],
+      "collected_at": "06:00",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204620_260225050848_700.jpg",
       "date": "2026-02-25"
     }
   ]
