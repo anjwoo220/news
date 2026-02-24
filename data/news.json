@@ -35540,14 +35540,9 @@
       "summary": "- 수린에서 국경 순찰 경찰 21 지휘 센터의 무기고에서 큰 화재 발생.\n- 로켓 추진 수류탄과 박격포탄이 먼저 폭발했으며, 이후 소총 탄약이 보관된 창고로 확산.\n- 차량은 우회 도로를 피하도록 명령되었으며, 폭발로 인한 진동이 3km 떨어진 수린 라자밧 대학교에서도 느껴짐.",
       "full_translated": "수린 - 캄보디아와 국경을 접하고 있는 이 북동부 지방에서 화요일 밤 국경 순찰 경찰 21 지휘 센터의 무기고에서 거대한 화염이 솟아오르면서 계속적인 폭발음이 들렸습니다. 화염이 너무 강렬해서 소방관들이 초기에 단지 진입하는 것이 방해를 받았습니다. 현장은 무인 상태였고 경미한 부상자 1명만 보고되었습니다. 육군 대변인 팀은 화재가 국경에서 북쪽으로 약 50km 떨어진 무앙 지역의 우회 도로에 위치한 단지의 탄약고에서 오후 7시 30분에 발생했다고 보고했습니다. 안전을 위해 자동차 운전자들은 우회 도로를 피하라는 명령을 받았습니다. 폭발로 인한 진동이 너무 강해서 현지 언론 보도에 따르면 3km 떨어진 수린 라자밧 대학교에서도 느껴졌습니다. 수린 주지사 참로엔 만펫은 오후 9시 15분에 로켓 추진 수류탄과 박격포탄이 창고에서 먼저 폭발했고, 화재는 소총 탄약이 보관된 인접 창고로 확산되었다고 말했습니다. 폭발성 물질이 들어 있는 3개의 창고는 약 20m 떨어진 곳에 위치해 있어서 안전하지 않은 거리라고 그는 말했습니다. 소방관들은 초기에 안전을 위해 현장에서 약 100m 떨어진 곳에 머물렀습니다. 한 사람이 파편에 다리를 맞아 지역 병원에서 치료를 받고 있었습니다. 수린 박디 캠프에 있는 국경 순찰 경찰과 그 가족의 인근 아파트도...",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객의 안전에 영향을 줄 수 있는 사건 발생. 폭발 위치가 주요 관광지와 멀리 떨어져 있지만, 만약의 사태에 대비하여 정보 제공.",
-      "event_info": {
-        "date": "2026-02-24",
-        "location": "수린, 무앙 지역",
-        "price": null,
-        "location_google_map_query": "Muang Surin"
-      },
+      "event_info": "{'date': '2026-02-24', 'location': '수린, 무앙 지역', 'price': None, 'location_google_map_query': 'Muang Surin'}",
       "references": [
         {
           "title": "Huge blaze as border patrol police arsenal explodes in Surin",
@@ -35558,21 +35553,18 @@
       ],
       "collected_at": "23:34",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204309_260224221335_700.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.bangkokpost.com/thailand/general/3204309/huge-blaze-as-border-patrol-police-arsenal-explodes-in-surin",
+      "source": ""
     },
     {
       "title": "치앙마이, 가축 습격 사건의 미스터리",
       "summary": "- 치앙마이 도이 인타논 인근에서 가축 습격 사건 발생, 야생 동물 사냥 시작.\n- 초기에는 호랑이로 추정되었으나, 공원 관리자들은 확신하지 못하고 카메라를 설치하여 추적 중.\n- 반 루앙 지역 주민들의 가축 세 마리가 목 부위에 물린 채 발견됨.",
       "full_translated": "치앙마이에서 가축 습격 사건이 발생하여 미스터리로 남아 있습니다.\n\n최초 보고에서는 길 잃은 호랑이를 지목했지만, 공원 관리자들은 더 이상 확신하지 못하고 있습니다. 2026년 2월 24일 19:46에 게시되었으며, 22:16에 업데이트되었습니다. 작성자: 온라인 기자\n\n치앙마이의 야생 동물 관리인들은 도이 인타논 인근의 지역 주민 소유의 소 세 마리를 죽인 동물의 종류를 찾기 위해 카메라 트랩을 설치했습니다. 공격은 북부 지방의 촘 통 지역 반 루앙 탐본에서 발생한 것으로 보고되었습니다. 처음에는 사육되던 호랑이가 탈출하여 범인으로 의심되었고, 화요일 오후에 경고가 발령되었습니다. 국립 공원, 야생 동물 및 식물 보존 부서는 대중에게 우리에서 탈출했을 수 있는 동물에 대해 경계를 늦추지 말라고 경고했습니다. 또한 모든 부대, 특히 촘 통에 있는 부대에 관할 구역 내의 지역 사회에서 울타리를 검사하도록 경고했습니다. Athapol Charoenshunsa 부서장은 반 루앙의 반 매 파 코 마을 근처 숲에서 큰 호랑이처럼 보이는 야생 동물을 목격했다는 지역 주민의 보고가 있었다고 말했습니다. 공원 관리인들이 해당 지역을 수색한 결과 목에 물린 자국이 있는 소 세 마리의 사체를 발견했으며, 서로 약 50미터 떨어져 있었습니다. 관리인들은 또한 폭이 약 6~7센티미터인 많은 동물 발자국을 발견했지만 어떤 종류의 동물이 남겼는지 식별할 수 없었습니다. 그들은 답을 찾기 위해 해당 지역에 카메라 트랩을 설치했습니다. Athapol 씨는 호랑이라면 이미...",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "치앙마이 지역의 야생 동물 관련 사건으로, 여행객 안전에 대한 잠재적 영향이 있을 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": "2026-02-24",
-        "location": "치앙마이 도이 인타논 인근 반 루앙 지역",
-        "price": null,
-        "location_google_map_query": "Ban Luang, Chom Thong District, Chiang Mai"
-      },
+      "event_info": "{'date': '2026-02-24', 'location': '치앙마이 도이 인타논 인근 반 루앙 지역', 'price': None, 'location_google_map_query': 'Ban Luang, Chom Thong District, Chiang Mai'}",
       "references": [
         {
           "title": "Chiang Mai livestock mauling a mystery",
@@ -35583,21 +35575,18 @@
       ],
       "collected_at": "23:34",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204208_260224202929_700.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.bangkokpost.com/thailand/general/3204208/chiang-mai-livestock-mauling-a-mystery",
+      "source": ""
     },
     {
       "title": "수린 지방 국경 수비대 탄약고 폭발, 1명 부상",
       "summary": "- 수린 지방 국경 수비대 21기지 탄약고에서 폭발 사고 발생\n- 폭발로 인해 화재 발생, 부상자 1명 발생 (파편에 다리 부상)\n- 현재 정확한 사고 원인 조사 중",
       "full_translated": "수린 주지사는 국경 수비대 21기지 탄약고 폭발 사고에 대해 부상자 1명이 발생했으며, 폭발 파편에 다리를 다쳤지만 생명에는 지장이 없다고 밝혔습니다. 사건은 2월 24일 오후 7시 30분경 수린팍디 캠프 내 21 국경 수비대 탄약고에서 발생했으며, 격렬한 화재와 함께 폭발음이 계속되었습니다. 현재 사고 원인은 조사 중입니다. 가장 최근인 오후 8시 40분에 짬른 웬펫 수린 주지사는 탄약고에서 화재가 발생했으며 폭발이 계속해서 발생하고 있지만 현재는 진정되기 시작했지만 여전히 상황이 안전하지 않아 당국이 현장에 접근할 수 없다고 밝혔습니다. 초기 보고에 따르면 폭발 지점에서 약 100m 떨어진 곳에 있던 한 관리가 파편에 맞아 다리를 다쳐 부상을 입었습니다. 그는 현재 치료를 받았고 걸을 수 있습니다. 탄약고 안에는 아무도 없었던 것으로 추정되며 부상자는 1명뿐입니다. 피해 규모는 아직 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 폭발 사고는 여행객의 안전에 영향을 줄 수 있으므로 정보 제공. 부상자가 발생했지만, 현재 상황은 안정화 단계에 접어들어 점수를 보통으로 책정.",
-      "event_info": {
-        "date": "2024-02-24",
-        "location": "수린팍디 캠프, 수린",
-        "price": null,
-        "location_google_map_query": "Surinpakdee Camp, Surin"
-      },
+      "event_info": "{'date': '2024-02-24', 'location': '수린팍디 캠프, 수린', 'price': None, 'location_google_map_query': 'Surinpakdee Camp, Surin'}",
       "references": [
         {
           "title": "คลังอาวุธระเบิดที่ ตชด.21 สุรินทร์ เจ้าหน้าที่เจ็บ 1 ราย โดนสะเก็ดระเบิดกระเด็นใส่ขา",
@@ -35608,21 +35597,18 @@
       ],
       "collected_at": "23:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjQi1jPQypLbfG.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/local/northeast/2916251",
+      "source": ""
     },
     {
       "title": "일본, 2031년까지 대만 인근 섬에 미사일 시스템 배치 예정",
       "summary": "- 일본 정부는 중국과의 긴장 속에서 대만 인근 요나구니 섬에 지대공 미사일 시스템을 배치할 계획이라고 발표했습니다.\n- 이는 방공 능력을 강화하기 위한 조치로, 2031년 3월까지 완료될 예정입니다.\n- 요나구니 섬은 대만에서 약 110km 떨어져 있으며, 이번 배치는 일본과 중국 간의 갈등을 심화시킬 수 있습니다.",
       "full_translated": "일본 국방부 장관은 중국 정부와의 긴장 속에서 2031년까지 대만 인근 섬에 지대공 미사일 시스템을 설치할 것이라고 발표했습니다. 2월 24일 화요일, 일본 국방부 장관은 정부가 2031년 3월까지 대만에서 멀리 떨어진 서쪽의 요나구니 섬에 지대공 미사일을 설치할 계획이라고 밝혔습니다. 일본이 해당 섬에 병력을 배치할 시기를 명시한 것은 이번이 처음입니다. 국방부는 이미 2022년에 요나구니 섬의 방공 능력을 강화하기 위해 유사한 계획을 발표한 바 있습니다. 현재 요나구니 섬에는 일본 기지가 있습니다. 신지로 코이즈미 일본 국방부 장관은 도쿄에서 열린 정례 기자회견에서 요나구니 섬의 미사일 시스템 배치는 다음 해 3월에 종료될 2030 회계연도 내에 이루어질 것이라고 말했습니다. 이번 발표는 일본과 중국 간의 수개월에 걸친 갈등 속에 나왔습니다. 화요일, 베이징은 일본의 군사력 강화에 관여한 것으로 알려진 수십 개의 일본 회사에 대한 수출 제한 조치를 발표했습니다. 요나구니 섬은 대만에서 동쪽으로 약 110km, 도쿄에서 남서쪽으로 약 1,900km 떨어져 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 적으나, 동아시아 정세 불안정은 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "요나구니 섬",
-        "price": null,
-        "location_google_map_query": "요나구니 섬"
-      },
+      "event_info": "{'date': None, 'location': '요나구니 섬', 'price': None, 'location_google_map_query': '요나구니 섬'}",
       "references": [
         {
           "title": "ญี่ปุ่นเตรียมติดตั้ง ระบบขีปนาวุธบนเกาะใกล้ไต้หวันภายในปี 2574",
@@ -35633,21 +35619,18 @@
       ],
       "collected_at": "23:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPWVQw7FYcxhC.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/foreign/2916265",
+      "source": ""
     },
     {
       "title": "태국 국왕, 14개 왕실 경호 부대 명칭 변경 승인",
       "summary": "- 태국 국왕, 14개 왕실 경호 부대 명칭 변경 승인\n- 관보에 따르면, 이번 조치는 2017년 헌법 8조에 따른 것임\n- 변경된 부대 명칭은 관보 웹사이트에서 확인 가능",
       "full_translated": "태국 관보 웹사이트에 14개 왕실 경호 부대 명칭 변경 승인 내용이 게시되었습니다. 라마 10세 국왕의 명령에 따른 이번 조치는 2017년 태국 헌법 8조에 의거합니다. 변경된 부대 명칭은 관보 웹사이트에서 확인할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "왕실 경호 부대 명칭 변경은 일반 여행객에게 직접적인 영향을 미치지 않지만, 태국 정치/사회 상황에 대한 이해를 돕는 정보입니다. 따라서 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "โปรดเกล้าฯ พระราชทานเปลี่ยนนามหน่วยทหารรักษาพระองค์ 14 หน่วย",
@@ -35658,7 +35641,136 @@
       ],
       "collected_at": "23:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjQjeo1Djxvw7W.jpg",
-      "date": "2026-02-24"
+      "date": "2026-02-24",
+      "link": "https://www.thairath.co.th/news/politic/2916259",
+      "source": ""
+    }
+  ],
+  "2026-02-25": [
+    {
+      "title": "태국인, 멕시코 여행 주의: 멕시코시티 태국 대사관, 여행 연기 권고",
+      "summary": "- 멕시코 내 정부와 마약 카르텔 간의 무력 충돌 심화로 태국 대사관이 여행 주의보 발령.\n- 할리스코 신세대 카르텔(CJNG) 두목 '엘 멘초' 사망 후 폭력 사태 확산, 최소 25명의 국가 방위군 사망.\n- 대사관은 태국 여행객에게 뉴스 주시, 현지 당국 지침 준수, 혼잡한 장소 피할 것을 권고하며, 장거리 여행 자제를 당부.",
+      "full_translated": "멕시코 여행은 연기해야 한다고 태국 대사관이 밝혔습니다.\n\n멕시코에 거주하거나 여행을 계획 중인 태국인들은 정부와 살해된 마약 두목 엘 멘초의 추종자들 간의 공개적인 전쟁이 여러 주에서 계속됨에 따라 각별한 주의를 기울이거나 여행을 연기하는 것이 좋습니다. 이번 여행 경고는 멕시코시티 주재 태국 대사관에서 발표했습니다.\n\n할리스코 신세대 카르텔(CJNG)의 지도자인 네메시오 \"엘 멘초\" 오세게라는 일요일 할리스코 주 타팔파 마을에서 군인들과의 총격전 중 치명적인 부상을 입었습니다. 그는 멕시코시티로 이송되던 중 사망했다고 당국은 밝혔습니다. 그의 사망은 마약 카르텔 조직원들의 폭력 사태를 촉발하여 25명의 국가 방위군을 포함해 많은 생명을 앗아갔다고 AFP는 화요일 보도했습니다.\n\n대사관은 태국 거주민과 방문 예정자들에게 뉴스를 면밀히 주시하고, 상황을 평가하고, 현지 당국의 지시를 따르고, 혼잡한 장소를 피할 것을 권고했습니다. 불안에는 공동체 재산 방화, 차량 방화, 정부 관리들에 대한 무장 공격, 도로 봉쇄 등이 포함됩니다. 따라서 이 기간 동안 장거리 도로 여행은 피해야 합니다.\n\n대사관은 극도의 주의가 필요한 18개 주를 열거했습니다. 여행이 필수적이지 않은 경우, 여행 예정자는 자신의 안전을 위해 멕시코 방문을 연기하는 것을 고려해야 한다고 대사관은 덧붙였습니다.\n\n태국 국민을 위한 긴급 지원은 전화 55-2564-2662 또는 LINE ID: thaiconsulate.mx를 통해 가능합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "멕시코 내 카르텔 관련 치안 불안정으로 태국 여행객에게 직접적인 안전 위협이 될 수 있으므로 필수적으로 포함. 기존 게시글과 달리 대사관 발표 내용과 구체적인 주의 사항이 추가되어 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "멕시코",
+        "price": null,
+        "location_google_map_query": "멕시코"
+      },
+      "references": [
+        {
+          "title": "Travel warning for Thais visiting war-torn Mexico",
+          "url": "https://www.bangkokpost.com/thailand/general/3204073/travel-warning-for-thais-visiting-wartorn-mexico",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204073_260224113958_700.jpg"
+        }
+      ],
+      "collected_at": "00:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204073_260224113958_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "방콕, 2026년 심화되는 폭염 대비 냉방 센터 운영",
+      "summary": "- 방콕시, 기온 상승에 대비하여 냉방 센터를 운영하여 주민들을 보호합니다.\n- 냉방 센터는 단기적인 더위 피난처를 제공하고 장기적인 도시 계획과 결합됩니다.\n- 2월 말부터 5월 중순까지 지속될 태국 더위에 대비하여 취약 계층을 보호합니다.",
+      "full_translated": "방콕은 2026년 기온 상승과 기후 위험 증가에 대비하여 수도 전역에 에어컨이 설치된 냉방 센터를 운영하여 강화된 더위에 대한 대응을 강화하고 있습니다. 이는 주민들을 보호하기 위한 광범위한 열 관리 계획의 일환입니다. 방콕 메트로폴리탄 관리국(BMA)이 주도하는 이 최근 이니셔티브는 단기적인 구호와 장기적인 도시 계획을 결합합니다. 냉방실, 폭염 경보 및 확장된 녹지 공간은 이 전략의 핵심을 구성하며, 방콕 시 공무원들은 이 전략이 더위와 습도가 위험한 수준에 도달하는 가장 힘든 달 동안 취약 계층을 보호하도록 설계되었다고 말합니다. 이번 조치는 태국의 더운 계절이 2월 말부터 5월 중순까지 이어질 것이며 극심한 폭염 현상이 더욱 빈번하고 심각해질 것이라는 예측에 따른 것입니다. 방콕 당국은 건설 현장, 시장, 공원, 오토바이 택시 승강장, 빽빽하게 들어선 동네와 같이 개방되거나 인구 밀도가 높은 지역을 중심으로 도시 전역에 379개의 폭염 위험 구역을 확인했습니다. BKK 냉방 센터는 https://greener.bangkok.go.th/en/heat-escape-room 지도에서 찾을 수 있습니다. 즉각적인 대응의 중심에는 냉방실이라고도 알려진 BKK 냉방 센터가 있습니다. 이곳은 사람들이 방콕의 뜨거운 더위로부터 일시적으로 피난할 수 있는 에어컨이 설치된 실내 공간을 제공합니다. BMA는 이 센터의 목표가 열사병 및 일사병 환자 수를 줄이는 것이라고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객의 건강과 안전에 직접적인 영향을 미치는 정보이며, 특히 더위에 취약한 여행객에게 유용합니다. 2026년 정보이긴 하지만, 폭염에 대한 대비는 현재에도 유효합니다.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 전역",
+        "price": "무료",
+        "location_google_map_query": "방콕 냉방 센터"
+      },
+      "references": [
+        {
+          "title": "Bangkok rolls out cooling centres as heat risks rise in 2026",
+          "url": "https://www.bangkokpost.com/thailand/general/3204284/bangkok-rolls-out-cooling-centres-as-heat-risks-rise-in-2026",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204284_260224181707_700.jpg"
+        }
+      ],
+      "collected_at": "00:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204284_260224181707_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "미스 티파니 2026 수영복 라운드",
+      "summary": "- 태국 트랜스젠더 모델이자 배우인 Wasita \"Meepooh\" Chaikunchensakun이 미스 티파니 유니버스 2026 미인 대회에 참가합니다.\n- 미스 티파니 2026 (MTU2026) 결승전은 2월 28일 토요일, 태국 파타야의 티파니 쇼 파타야 극장에서 열립니다.\n- 이 대회는 태국 트랜스젠더 커뮤니티를 위한 중요한 행사입니다.",
+      "full_translated": "Wasita \"Meepooh\" Chaikunchensakun을 만나보세요. 그녀는 태국 트랜스젠더 모델이자 배우이며 미스 티파니 유니버스 2026 미인 대회에 참가하고 있습니다. 미스 티파니 2026 (MTU2026) 결승전은 2월 28일 토요일, 태국 파타야의 티파니 쇼 파타야 극장에서 열릴 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야에서 열리는 유명 트랜스젠더 미인 대회 정보. 관심 있는 여행객에게는 흥미로운 이벤트 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-02-28",
+        "location": "Tiffany's Show Pattaya Theatre, Pattaya, Thailand",
+        "price": "Unknown",
+        "location_google_map_query": "Tiffany's Show Pattaya Theatre"
+      },
+      "references": [
+        {
+          "title": "Miss Tiffany 2026 swimsuit round",
+          "url": "https://www.bangkokpost.com/video/thailand/3204233/miss-tiffany-2026-swimsuit-round",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204233_700.jpg"
+        }
+      ],
+      "collected_at": "00:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204233_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "미국 배우 로버트 카라딘, 71세로 사망",
+      "summary": "- 영화 'The Long Riders'와 'Revenge of the Nerds' 등으로 유명한 배우 로버트 카라딘이 71세의 나이로 사망했습니다.\n- 그는 수십 년간 양극성 장애와 싸워왔으며, 가족들은 그의 용감한 투병을 기립니다.\n- 가족은 정신 질환에 대한 사회적 낙인을 없애는 데 기여하기를 희망한다고 밝혔습니다.",
+      "full_translated": "미국 배우 로버트 카라딘이 71세의 나이로 사망했습니다. 그는 영화 'The Long Riders', 'Revenge of the Nerds', 그리고 TV 시리즈 'Lizzie McGuire'에서 활약했습니다. 그의 가족은 그가 수십 년 동안 양극성 장애와 싸워왔다고 밝혔습니다.\n\n가족들은 성명을 통해 \"때로는 어두워 보이는 세상에서 바비는 항상 주변 사람들에게 빛을 가져다주는 존재였습니다. 우리는 이 아름다운 영혼의 상실에 가슴 아파하며, 바비가 거의 20년 동안 양극성 장애와 용감하게 싸워온 것을 기립니다.\"라고 전했습니다. 또한, 그들은 그의 투병이 정신 질환 환자에 대한 사회적 낙인을 없애는 데 도움이 되기를 바란다고 덧붙였습니다.\n\n로버트 카라딘은 1954년 3월 24일에 태어났으며, 배우 존 카라딘의 막내 아들이자 데이비드 카라딘, 키스 카라딘, 크리스토퍼 카라딘의 동생입니다. 키스 카라딘은 Deadline과의 인터뷰에서 가족들이 동생의 양극성 장애 투병 이야기를 공유하고 싶어한다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "여행 관련 직접적인 영향은 없으나, 유명 배우의 사망 소식은 흥미로운 정보로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "โรเบิร์ต คาร์ราดีน นักแสดงรุ่นใหญ่ เสียชีวิตในวัย 71 ปี",
+          "url": "https://www.thairath.co.th/news/foreign/2916269",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVQzGgOpiig5.jpg"
+        }
+      ],
+      "collected_at": "00:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVQzGgOpiig5.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 성 평등 활동가, 정치적 중립 선언",
+      "summary": "- 태국 성 평등 운동가 Thanyawat Kamolwongwat이 정치적 중립을 선언하고 모든 정당과 협력할 의사를 밝힘.\n- 최근 성 평등을 위한 성명에 이름이 올라간 것에 대해, 공식적인 동의를 하지 않았다고 해명함.\n- 앞으로 지식, 연구, 프로젝트 및 공공 커뮤니케이션을 통해 성 평등 문제를 독립적으로 추진할 계획임.",
+      "full_translated": "2024년 2월 24일, 전 인민당 하원 의원인 타냐왓 카몰웡왓은 페이스북에 성명을 발표했습니다. 성 평등을 위한 실무 그룹의 성명과 관련하여 다음과 같이 알립니다. 마하사라캄 지방의 후보자 선발 과정에 대한 실망감을 표명한 2024년 2월 24일 인민당은 타냐왓 카몰웡왓의 이름을 성명서 공동 서명자로 언급했습니다. 대중에게 명확히 하기 위해 다음과 같이 설명합니다. 1. 현재의 지위와 역할 현재 Tanya는 공공 정책 분석가이자 인권 운동가로 일하고 있습니다. 지식, 연구, 프로젝트 및 공공 커뮤니케이션 수준에서 성 평등 문제를 추진하는 데 중점을 둡니다. 앞으로의 작업은 독립적으로 수행될 것입니다. 어떤 정당의 소속이나 역할에 속하지 않고 모든 부문과 모든 정당과 동등하게 협력할 준비가 되어 있습니다. 2. 성명서 공동 서명 문제 Tanya는 아직 성명서 공동 서명을 확인하지 않았습니다. 이전에는 Sasinin Thamnithinan 씨로부터 때때로 자문을 구하는 연락을 받았습니다. 원칙적으로 태국 사회에서 성 평등을 추진하는 데 도움이 된다면 모든 정당에 기꺼이 자문을 제공합니다. 그러나 본 성명서의 경우 Tanya로부터 공식적인 서명 확인이 없었습니다. 공동 서명 요청 메시지는 밤에 보내졌고, 다시 알게 되었을 때는 이미 이름과 함께 성명이 게시되었습니다... Tanya는 반대 의견이 없습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ครูธัญ” แจ้งไม่ได้ลงชื่อแถลงการณ์คณะเสมอภาคทางเพศ ย้ำขอวางบทบาทเป็นกลาง",
+          "url": "https://www.thairath.co.th/news/politic/2916263",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVxLKcGVShhn.jpg"
+        }
+      ],
+      "collected_at": "00:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVxLKcGVShhn.jpg",
+      "date": "2026-02-25"
     }
   ]
 }
