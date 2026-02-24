@@ -36026,14 +36026,9 @@
       "summary": "- 파타야에서 독일인 관광객이 트랜스젠더 여성들에게 강도를 당하고 폭행당한 사건 발생.\n- 피해자는 경찰에 신고, 경찰은 신속하게 용의자들을 체포함.\n- 피해자는 경찰의 신속한 대응에 감사를 표함.",
       "full_translated": "2026년 2월 24일 새벽, 사건이 발생했습니다. 마르쿠스 씨는 파타야 시 경찰서에 파타야 세컨드 로드에 있는 콘도미니엄에서 트랜스젠더 태국인 2명(초기 보고서에는 1명으로 명시)을 이성 여성으로 착각하여 자신의 방으로 초대했다고 신고했습니다. 조사에 따르면, 마르쿠스 씨와 용의자 중 한 명인 24세의 핌마다 타나리가 화장실에 있는 동안, 밖에 있던 다른 용의자인 22세의 케왈린 숙무앙이 욕심으로 봉투에서 현금을 발견하고 훔쳤다고 합니다. 도난당한 총액은 35,000 태국 바트와 1,200유로였습니다. 동반 서비스 합의가 틀어지고 마르쿠스 씨가 여성들이 트랜스젠더라는 사실을 알게 된 후 합의된 조건과 일치하지 않자, 두 용의자 모두 방을 떠났습니다. 그들은 나중에 돈을 나누어 케왈린이 15,000바트를, 핌마다가 18,500바트를 가져갔다고 인정했습니다. 도난 사실을 발견한 마르쿠스 씨는 서둘러 아래층으로 내려가 파타야 해변 근처에서 핌마다를 발견하고 경찰에 도움을 요청하는 동안 그녀를 구금하려고 했습니다. 핌마다는 도움을 요청했고, 26세의 마윈 플랍플렝, 21세의 워라윗 포사와왕, 그리고 다른 공범 2명이 합세하여 피해자를 폭행하여 부상을 입혔습니다. 파타야 시 경찰서장 아넥 사라통유 경감과 수사 부서장 아루스 사파논 경감, 수사팀, 파타야 관광 경찰, 출입국 경찰.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 영향을 줄 수 있으므로 정보 제공 가치 높음. 기존 '트랜스젠더 여성 5명이 독일인 관광객 폭행' 기사와 관련이 있지만, 체포 정보가 추가되었으므로 업데이트로 간주.",
-      "event_info": {
-        "date": "2026-02-24",
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026-02-24', 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "German Tourist Praises Pattaya Police for Swift Arrest of Suspects in Robbery and Assault Case",
@@ -36042,23 +36037,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_195251891601040770743339.jpg?v=1771937626"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260224_195251891601040770743339.jpg?v=1771937626",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://thepattayanews.com/2026/02/24/german-tourist-praises-pattaya-police-for-swift-arrest-of-suspects-in-robbery-and-assault-case/",
+      "source": ""
     },
     {
       "title": "태국 청소년, 위험 행동 증가 추세: 전자담배 및 온라인 도박 급증",
       "summary": "- 태국 청소년들의 위험 행동이 증가하고 있으며, 특히 전자담배 사용과 온라인 도박이 심각한 수준임.\n- 2022년 청소년 전자담배 사용자는 2021년 대비 10배 이상 증가한 269,533명으로 급증함.\n- 2023년 연구에 따르면 태국 청소년의 32.3%가 온라인 도박에 참여하며, 월평균 1,633바트를 소비하는 것으로 나타남.",
       "full_translated": "태국 건강 증진 재단(ThaiHealth)에 따르면 태국 청소년들이 위험한 행동에 점점 더 빠져들고 있으며, 전자담배 사용이 급증하고 온라인 도박이 심각한 수준에 도달했습니다. \n\nThaiHealth의 Paranee Phuprasert 부매니저는 아동과 십 대들이 전자담배 및 온라인 베팅 플랫폼 마케팅의 공격적인 표적이 되고 있다고 말했습니다. 그녀는 최근 마히돌 대학교 팀과 공동으로 작성한 2025년 태국 건강 보고서의 결과를 인용했습니다. \n\n이 보고서에 따르면 청소년 전자담배 사용은 단 1년 만에 24,050명(2021년)에서 269,533명(2022년)으로 10배 급증하여 젊은이들 사이에서 전자담배 제품이 빠르게 확산되고 있음을 반영합니다. 온라인 도박도 마찬가지로 심각한 추세를 보입니다. 도박 문제 연구 센터의 2023년 연구에 따르면 태국 청소년의 32.3%가 온라인 도박에 참여한 것으로 나타났습니다. 젊은 도박꾼은 평균적으로 월 1,633바트를 소비하며, 이 연령대에서만 연간 약 587억 바트의 도박 자금이 순환되는 것으로 추정된다고 Paranee는 말하면서 정신 건강 문제 증가, 긴장된 가족 관계 및 학업 동기 저하 가능성에 대해 경고했습니다. \n\n이에 대응하여 ThaiHealth는 2017년부터 지역 사회 수준에서 청소년 참여를 강화하여 안전하고 지원적인 환경을 조성하기 위해 노력해 왔습니다. 이 이니셔티브는 1,0",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 태국 사회의 변화를 보여주는 흥미로운 정보. 다만, 여행 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Rise seen in 'risky' youth behaviours",
@@ -36067,23 +36059,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204590_260225020149_700.jpg"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204590_260225020149_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204590/rise-seen-in-risky-youth-behaviours",
+      "source": ""
     },
     {
       "title": "태국 외무장관, 캄보디아의 '점령' 주장에 반박",
       "summary": "- 태국 외무장관은 캄보디아 총리의 태국 점령 주장을 부인하며 양국이 휴전에 합의했다고 밝혔습니다.\n- 휴전은 여전히 취약하며, 긴장 완화와 신뢰 구축이 필요하다고 강조했습니다.\n- 과거 캄보디아의 태국 영토 침범 사례가 있었다고 주장하며, 양측의 도발과 오보도를 피해야 한다고 말했습니다.",
       "full_translated": "파리 - 2026년 2월 23일, 태국 외무장관 시하삭 푸앙께트케오는 캄보디아 총리 훈 마넷이 태국이 캄보디아 영토를 계속 점령하고 있다는 주장에 대해 양측이 휴전에 합의했으며, 국경 문제 해결을 위해 노력하는 동안 양국 군대가 현재 위치에 머물기로 합의했다고 반박했습니다. 시하삭 장관은 월요일 파리 방문 중 프랑스 24와의 인터뷰에서 휴전이 여전히 '취약'하다고 말하며 긴장 완화와 신뢰 구축 조치를 촉구했습니다. 그는 \"우선 휴전 협정에 도달했지만 사실 휴전은 여전히 취약합니다.\"라고 말했습니다. \"현재로서는 상황을 완화하고 신뢰를 구축하여 관계를 진전시켜야 합니다.\" 훈 마넷은 미국에서 태국군이 캄보디아 깊숙한 지역을 점령하고 있다고 주장했는데, 시하삭은 양국이 휴전 협정의 일환으로 군대가 현재 위치에 머물기로 합의했다고 말했습니다. 그는 최근 분쟁 이전에 캄보디아 측이 태국 영토를 명백히 침범한 사례가 있었다고 주장했습니다. 그는 \"우리는 사실을 봐야 합니다.\"라고 덧붙이며 양측은 긴장 고조, 도발 및 오보도를 피해야 한다고 말했습니다. 태국군이 이전에 캄보디아 영토로 인정된 지역에 컨테이너와 철조망을 설치했다는 주장에 대해 시하삭은 그러한 조치가 태국 영토 내에서 캄보디아의 침범이 시간이 지남에 따라 발생한 지역에서 취해졌다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국-캄보디아 국경 지역 긴장 관련 뉴스. 여행객 안전에 직접적인 위협은 아니지만, 상황을 주시할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai FM hits back at Cambodia’s ‘occupation’ claim in France 24 interview",
@@ -36092,23 +36081,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/messageImage_1771917187679.jpg"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/messageImage_1771917187679.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.khaosodenglish.com/news/2026/02/24/thai-fm-hits-back-at-cambodias-occupation-claim-in-france-24-interview/",
+      "source": ""
     },
     {
       "title": "스리랑카, 2026년 태국과의 관계 강화 추진",
       "summary": "- 스리랑카는 양국 관계 70주년을 기념하여 2026년 태국과의 관계를 더욱 강화할 계획임.\n- 투자 및 관광 홍보 활동, 양자 협의, 실론 차 홍보 행사 등이 예정되어 있음.\n- 특히 자유 무역 협정 이행을 통해 노동 협력 및 경제 발전을 도모할 예정.",
       "full_translated": "스리랑카는 양국 관계 70주년을 기념한 후 2026년에 태국과의 관계를 더욱 강화하고자 한다고 스리랑카 대사관이 밝혔습니다. EAS 위자얀티 에디리싱헤 태국 주재 스리랑카 대사는 투자 및 관광 홍보 활동, 태국과의 제6차 양자 협의 성공적 개최, 관광, 실론 차 홍보, 베삭 축하 행사 등 다양한 행사가 지난 한 해 동안 관계 증진을 목표로 했다고 말했습니다. 에디리싱헤 대사는 방콕에서 열린 스리랑카 독립 78주년 기념 리셉션에서 올해도 외교 활동이 계속될 것이라고 말했습니다. 그녀는 \"2026년에는 서명된 자유 무역 협정 이행을 통해 노동 협력 및 경제 발전의 새로운 영역에서 이러한 관계를 더욱 강화할 수 있기를 기대합니다.\"라고 말했습니다. 리셉션에 참석한 스리랑카 산업 기업가 개발 장관 수닐 한두네티는 태국 기업가들을 6월 18일부터 21일까지 콜롬보에서 열리는 스리랑카 엑스포 2026에 초대했습니다. 수닐 씨는 스리랑카가 양국 간의 오랜 관계를 소중히 여긴다고 말했습니다. 사베다 태국 문화부 장관은 태국이 스리랑카를 문화, 종교 및 인적 교류 증진의 핵심 파트너로 간주한다고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국-스리랑카 관계 강화는 장기적으로 관광객에게 간접적인 영향을 줄 수 있으나, 당장 여행에 미치는 영향은 미미함.",
-      "event_info": {
-        "date": "2026-06-18",
-        "location": "Colombo, Sri Lanka",
-        "price": "Unknown",
-        "location_google_map_query": "Sri Lanka Expo 2026, Colombo"
-      },
+      "event_info": "{'date': '2026-06-18', 'location': 'Colombo, Sri Lanka', 'price': 'Unknown', 'location_google_map_query': 'Sri Lanka Expo 2026, Colombo'}",
       "references": [
         {
           "title": "Sri Lanka looks to forge closer ties in 2026",
@@ -36117,23 +36103,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981655_700.jpg"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981655_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204415/sri-lanka-looks-to-forge-closer-ties-in-2026",
+      "source": ""
     },
     {
       "title": "탁신, 5월 가석방 신청 자격 얻어",
       "summary": "- 탁신 친나왓 전 총리가 5월에 가석방 신청 자격을 얻게 됨.\n- 형기의 3분의 2를 복역해야 한다는 규정에 따름.\n- 교도소, 교정국, 법무부의 심의를 거쳐 신청이 가능.",
       "full_translated": "탁신 친나왓 전 총리가 형기의 3분의 2를 복역해야 한다는 규정에 따라 5월에 가석방 신청 자격을 얻게 된다고 Rutthapon Naowarat 법무부 장관이 밝혔다. 그는 교도소, 교정국, 법무부의 위원회와 이 사건에 대해 협의했으며, 이 과정은 일상적인 절차이며 확립된 절차를 따를 것이라고 강조했다. 그는 \"신청은 정상적으로 제출될 수 있다\"고 말했다. \"탁신의 경우 가석방 자격은 2026년 5월에 해당된다. 형기의 3분의 2를 복역해야 한다는 규정에 따라 그는 가석방을 신청할 자격이 있다.\" 76세의 탁신은 대법원이 경찰 종합 병원의 VIP실에서 6개월간 머문 것이 3건의 형사 사건으로 복역해야 할 1년 형에 포함되지 않는다고 판결한 후 지난해 9월 9일 클롱 프렘 중앙 교도소에 구금되었다. 클롱 프렘 중앙 교도소의 한 소식통은 그의 가석방이 여전히 검토 중이라고 말했다. 교도소는 일반 가석방 심사 기준을 충족하는 수감자 목록을 작성하고 있다. 가석방된 사람들은 지정된 보호자의 감독 하에 등록된 거주지에서 보호 관찰을 받게 된다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 사건이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "May parole for Thaksin",
@@ -36142,8 +36125,110 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204500_260225014954_700.jpg"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204500_260225014954_700.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204500/may-parole-for-thaksin",
+      "source": ""
+    },
+    {
+      "title": "태국, 택시 안전 및 실시간 불만 접수를 위한 QR 코드 시스템 도입",
+      "summary": "- 태국 육상교통부(DLT)가 택시 안전 및 서비스 개선을 위해 QR 코드 시스템을 도입했습니다.\n- 승객은 택시에 부착된 QR 코드를 스캔하여 운전자 정보, 차량 정보, 예상 요금을 확인하고 실시간으로 불만을 제기할 수 있습니다.\n- 이 시스템은 택시 기사의 신원 확인, 요금 투명성 확보, 승객 불만 처리 개선을 목표로 합니다.",
+      "full_translated": "태국이 택시 안전과 실시간 불만 접수를 위한 혁신적인 QR 코드 시스템을 시작했습니다.\n\n이 시스템은 DLT GPS NOTICE 모바일 애플리케이션 하에 출시되었으며, 승객은 택시에 부착된 QR 코드 스티커를 스캔하여 운전자의 신원, 차량 정보, 예상 요금을 즉시 확인하고 실시간으로 불만을 제기할 수 있습니다. 관계자들은 이를 택시 서비스에 대한 포괄적인 실시간 검사를 통합하는 환상적인 새로운 접근 방식이라고 설명합니다. 출시 행사는 최근 DLT 사무총장 소라퐁 파이툰퐁의 주도하에 열렸습니다. 이는 태국, 특히 방콕 및 주변 지역에서 대중 택시가 많이 사용되는 지역에서 택시 안전, 요금 투명성 및 운전자 행동에 대한 오랜 우려를 해결하기 위한 것입니다.\n\n* 택시 디 프롬 시스템의 주요 기능은 다음과 같습니다.\n\n– 3가지 색상의 QR 코드 스티커: DLT에서 무료로 제공 및 설치\n\n– 보라색: 운전석 쪽 앞 유리 오른쪽 상단에 부착되며, 운전자가 교대 근무를 시작하기 전에 앱을 통해 자신의 신원을 확인하는 데 사용됩니다. 운전자는 등록 및 스캔을 통해 실제 운영자임을 확인해야 하며, 활성 검증을 유지하기 위해 4시간마다 알림이 표시됩니다.\n\n– 파란색: 뒷 왼쪽 승객 창문(내부)에 위치하여 승객이 운전자 사진, 이름, 차량 정보, 세금 만료일 및 라이선스 상태를 스캔할 수 있도록 합니다. 예비 요금을 추정합니다. 서비스(청결도, 예의, 운전 및 복장)를 평가합니다. 일반적인 피드백이나 불만을 제출합니다.\n\n– 빨간색: 외부 승객 창문에 위치하며, 요금 과다 청구와 같은 긴급 불만을 위한 것입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "택시 이용 시 안전과 편의를 높이는 시스템 도입으로 여행객에게 직접적인 영향을 미침. 특히 요금 관련 문제 해결에 도움이 될 수 있음. 아침 시간대 택시 이용이 잦다는 점을 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Launches Innovative QR Code System For Taxi Safety and Real Time Complaints",
+          "url": "https://thepattayanews.com/2026/02/24/thailand-launches-innovative-qr-code-system-for-taxi-safety-and-real-time-complaints/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260224_1411345309298099907944691.jpg?v=1771917418"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/20260224_1411345309298099907944691.jpg?v=1771917418",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국, 무비자 체류 기간 단축 고려",
+      "summary": "- 시암 리갈 국제 법률 법인이 태국 이민국 정책 변경에 대한 우려 제기\n- 태국 정부가 무비자 체류 기간 단축을 고려 중\n- 여행 및 비자 정책에 대한 지속적인 관심 필요",
+      "full_translated": "시암 리갈 국제 법률 법인은 태국이 무비자 체류를 줄이는 것을 고려함에 따라 태국 이민 정책 변경에 대해 논의합니다. El Paso Times",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 정책 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 무비자 체류 기간 단축은 여행 계획에 큰 변수가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Siam Legal International Law Firm Addresses Thailand Immigration Policy Changes as Thailand Considers Reducing Visa-Free Stays - El Paso Times",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPcEIyRHB3dUhSNnBiQTk5MGFHQ1F6TllTWUNRbmNCcXRPUExvTU1fbWdJdTNpcmdicTBZZlQ5Q3RzQlZSb2tHbXIwNmVjckxzcm0xZjc3X1VXb09QVGlVelBJamxLaXFfeVFuX1J6UEF4S1o1MTNzRm9ZTEFsVm04dmlRVzJ4UlYtQXdiOFh5T0pKaDU5SnBRcDdBUE9Rd3hpdkZfYXozc1NRWTdLMklGQ3NoM1I2OVpQUHYxc1RGbTRsdFJNNVZObTRyVURvRzJETy04RDY4SWhCT21sV1VobVdRMmJTNHdycXRkSTF5MEl4ak1RRF9xcE9qYmNWTE85LWMtZjZyTEtHSWF5WERv?oc=5",
+          "source": "El Paso Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "관광 공원의 호랑이 72마리, 개 디스템퍼로 사망",
+      "summary": "- 태국 당국은 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망했다고 발표.\n- 조류 독감에 대한 우려를 잠재우기 위한 조치.\n- 추가적인 정보는 AP 통신에서 확인할 수 있음.",
+      "full_translated": "태국 당국은 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망했으며 조류 독감에 대한 우려를 잠재우고 있다고 밝혔습니다. Associated Press News",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물원의 질병 발생 정보는 여행 시 주의를 요하므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "Thai officials say 72 tigers at tourist parks died of canine distemper, allaying bird flu fears - Associated Press News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3RzNVh3SThPMWpDWVVXZWpycy1Ibk1POEt4YjM0VEpiMlhaWGR4Q3FGazdIZFdxcjZRSlhBbTB6U0RaUl96aEJwOXZCbkRoeHU5R0p2SW85T19VSDFFSy14eGRlck5iV3prVEF1TnRUODdxRzlPRHNjTWpYZXgzVzNsU2dLV2VuODRrVGJJR1pxdW9vVm02Uk53TWFxczhCUFlMUnpsNzhwM1E?oc=5",
+          "source": "Associated Press News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "루브르 박물관장, 보물 도난 사건으로 사임",
+      "summary": "- 루브르 박물관장이 보물 도난 사건에 대한 책임으로 사임했습니다.\n- 도난 사건은 2025년 10월 발생했으며, 현재까지 도난품은 회수되지 않았습니다.\n- 도난당한 보물은 약 32억 바트 상당의 프랑스 왕실 보물입니다.",
+      "full_translated": "루브르 박물관장이 몇 달 전 세계적인 박물관 내에서 발생한 왕관 보석 도난 사건 이후 사임했습니다. 현재까지 도난품은 회수되지 않았습니다. 외신에 따르면 로렌스 데 카르 루브르 박물관장은 2025년 2월 24일 화요일, 에마뉘엘 마크롱 대통령에게 사임서를 제출했습니다. 이는 프랑스 왕가의 왕관 보석 도난 사건이 발생한 지 몇 달 되지 않아 발생한 것으로, 보안에 대한 의문이 제기되었습니다. 도난 사건은 2025년 10월 19일 아침에 발생했으며, 강도들은 훔친 기계식 리프트 트럭을 사용하여 센 강 쪽 발코니로 올라가 아폴로 갤러리(Galerie d'Apollon)에 침입하여 총 8,800만 유로(약 32억 바트) 상당의 왕관 보석을 훔쳤습니다. 현재 주요 용의자 4명이 체포되었지만, 귀중한 보석 8점은 여전히 실종 상태이며, 전문가들은 이를 회수할 수 없을 것이라고 우려하고 있습니다. 도난당한 재산에는 나폴레옹 황제가 황후에게 준 다이아몬드와 에메랄드 목걸이가 포함되어 있습니다. 도주하는 동안 도둑들은 외제니 황후의 19세기 다이아몬드 왕관을 떨어뜨려 손상시키기도 했습니다. 이달 초 루브르 박물관은 사건 이후 처음으로 왕관의 손상된 모습을 공개하며 왕관이 여전히 '거의 완벽한' 상태이며 완전히 복원할 수 있다고 밝혔습니다. 루브르 박물관은 레오나르도 다 빈치의 '모나리자'를 포함하여 헤아릴 수 없는 귀중한 예술 작품을 소장하고 있습니다. 그러나 도난 사건이 발생한 지 며칠 후, 데 카르는 다...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "루브르 박물관은 많은 관광객이 방문하는 명소이므로 관련 사건에 대한 정보 제공 가치가 있음. 다만, 사건 자체가 여행에 직접적인 영향을 미치지는 않으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "루브르 박물관",
+        "price": null,
+        "location_google_map_query": "루브르 박물관"
+      },
+      "references": [
+        {
+          "title": "ผอ.พิพิธภัณฑ์ลูฟวร์ ลาออก เซ่นปมโจรขโมยเครื่องราชกกุธภัณฑ์",
+          "url": "https://www.thairath.co.th/news/foreign/2916271",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3TMMj722it8.jpg"
+        }
+      ],
+      "collected_at": "04:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3TMMj722it8.jpg",
       "date": "2026-02-25"
     }
   ]
