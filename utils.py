@@ -2274,7 +2274,8 @@ def convert_thai_year(text: str) -> str:
         if year > 2500:  # typical Buddhist year
             return str(year - 543)
         return match.group()
-    return re.sub(r'\b\d{4}\b', repl, text)
+    # Use negative lookbehind/lookahead to match exactly 4 digits even if attached to Thai characters (since Thai script often lacks spaces)
+    return re.sub(r'(?<!\d)\d{4}(?!\d)', repl, text)
 
 # Helper: Translate text to Korean using Gemini
 def translate_text(text: str, dest: str = "ko") -> str:
