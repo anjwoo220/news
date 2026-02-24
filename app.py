@@ -1326,41 +1326,40 @@ def render_tab_news():
                 spacer_left, center_col, spacer_right = st.columns([1, 1.5, 1])
                 
                 with center_col:
-                    col_prev, col_center, col_next = st.columns([1, 1.2, 1], vertical_alignment="bottom")
+                    # Row 1: Left and Right buttons
+                    col_prev, col_next = st.columns(2)
                     
                     with col_prev:
+                        btn_label_prev = "⬅️ Previous" if st.session_state.get('language') == 'English' else "⬅️ 이전"
                         if st.session_state["current_page"] > 1:
-                            if st.button(utils.t("prev"), use_container_width=True, key="p_prev"):
+                            if st.button(btn_label_prev, use_container_width=True, key="p_prev"):
                                 st.session_state["current_page"] -= 1
                                 st.rerun()
                         else:
-                            st.button(utils.t("prev"), disabled=True, use_container_width=True, key="p_prev_dis")
+                            st.button(btn_label_prev, disabled=True, use_container_width=True, key="p_prev_dis")
                             
-                    with col_center:
-                        # Direct Page Input (Top)
-                        page_label = "Page" if st.session_state.get('language') == 'English' else "페이지"
-                        new_page = st.number_input(
-                            page_label,
-                            min_value=1,
-                            max_value=total_pages,
-                            value=st.session_state["current_page"],
-                            key="direct_page_input",
-                            label_visibility="collapsed"
-                        )
-                        if new_page != st.session_state["current_page"]:
-                            st.session_state["current_page"] = new_page
-                            st.rerun()
-                        
-                        # Total Pages Text (Bottom Component stacked in the same column)
-                        st.markdown(f"<div style='text-align: center; font-size: 13px; margin-top: 5px;'>/ {total_pages}</div>", unsafe_allow_html=True)
-                        
                     with col_next:
+                        btn_label_next = "Next ➡️" if st.session_state.get('language') == 'English' else "다음 ➡️"
                         if st.session_state["current_page"] < total_pages:
-                            if st.button(utils.t("next"), use_container_width=True, key="p_next"):
+                            if st.button(btn_label_next, use_container_width=True, key="p_next"):
                                 st.session_state["current_page"] += 1
                                 st.rerun()
                         else:
-                            st.button(utils.t("next"), disabled=True, use_container_width=True, key="p_next_dis")
+                            st.button(btn_label_next, disabled=True, use_container_width=True, key="p_next_dis")
+                            
+                    # Row 2: Page selection input
+                    st.markdown("<br>", unsafe_allow_html=True)
+                    page_label = f"Jump to page (1 ~ {total_pages})" if st.session_state.get('language') == 'English' else f"페이지 이동 (1 ~ {total_pages})"
+                    new_page = st.number_input(
+                        page_label,
+                        min_value=1,
+                        max_value=total_pages,
+                        value=st.session_state["current_page"],
+                        key="direct_page_input"
+                    )
+                    if new_page != st.session_state["current_page"]:
+                        st.session_state["current_page"] = new_page
+                        st.rerun()
 
 @st.fragment
 def render_tab_taxi():
