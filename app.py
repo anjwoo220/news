@@ -1326,18 +1326,18 @@ def render_tab_news():
                 spacer_left, center_col, spacer_right = st.columns([1, 1.5, 1])
                 
                 with center_col:
-                    col_prev, col_input, col_total, col_next = st.columns([2, 2, 1, 2], vertical_alignment="bottom")
+                    col_prev, col_center, col_next = st.columns([1, 1.2, 1], vertical_alignment="bottom")
                     
                     with col_prev:
                         if st.session_state["current_page"] > 1:
-                            if st.button(utils.t("prev"), width='stretch', key="p_prev"):
+                            if st.button(utils.t("prev"), use_container_width=True, key="p_prev"):
                                 st.session_state["current_page"] -= 1
                                 st.rerun()
                         else:
-                            st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
+                            st.button(utils.t("prev"), disabled=True, use_container_width=True, key="p_prev_dis")
                             
-                    with col_input:
-                        # Direct Page Input
+                    with col_center:
+                        # Direct Page Input (Top)
                         page_label = "Page" if st.session_state.get('language') == 'English' else "페이지"
                         new_page = st.number_input(
                             page_label,
@@ -1350,18 +1350,17 @@ def render_tab_news():
                         if new_page != st.session_state["current_page"]:
                             st.session_state["current_page"] = new_page
                             st.rerun()
-                    
-                    with col_total:
-                        # Centered text with padding to align with the input box vertically
-                        st.markdown(f"<div style='text-align: center; padding-bottom: 10px; font-size: 0.95rem; font-weight: bold;'>/ {total_pages}</div>", unsafe_allow_html=True)
+                        
+                        # Total Pages Text (Bottom Component stacked in the same column)
+                        st.markdown(f"<div style='text-align: center; font-size: 13px; margin-top: 5px;'>/ {total_pages}</div>", unsafe_allow_html=True)
                         
                     with col_next:
                         if st.session_state["current_page"] < total_pages:
-                            if st.button(utils.t("next"), width='stretch', key="p_next"):
+                            if st.button(utils.t("next"), use_container_width=True, key="p_next"):
                                 st.session_state["current_page"] += 1
                                 st.rerun()
                         else:
-                            st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
+                            st.button(utils.t("next"), disabled=True, use_container_width=True, key="p_next_dis")
 
 @st.fragment
 def render_tab_taxi():
