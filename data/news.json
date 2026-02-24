@@ -35762,14 +35762,9 @@
       "summary": "- 파타야 해변 도로에서 독일인 관광객이 태국 트랜스젠더 여성들에게 폭행당하는 사건 발생.\n- 목격자들은 이 장면을 촬영하여 경찰에 증거로 제출했으며, 영상에는 5명의 트랜스젠더 여성들이 관광객과 싸우는 모습이 담겨 있음.\n- 피해자는 55세 독일 국적의 마르쿠스 산틀 씨로, 경찰에 진술에서 한 트랜스젠더 여성을 이전에 호텔 방으로 데려갔었다고 밝힘.",
       "full_translated": "파타야 — 2월 24일, 파타야 해변 도로에서 태국 트랜스젠더 여성 그룹과 독일인 관광객 간의 심야 다툼으로 관광객이 부상을 입었다고 경찰이 밝혔습니다. 이 사건은 파타야 해변 소이 13 맞은편에서 발생하여 주변 사람들에게 경각심을 불러일으켰습니다. 사건의 일부는 목격자들이 영상으로 촬영하여 나중에 경찰에 증거로 제출했습니다. 영상에는 약 5명의 트랜스젠더 여성들이 외국인 관광객과 싸우고 폭행하는 모습이 담겨 있으며, 양측 모두 싸우는 동안 도로로 넘어졌습니다. 관광객은 부상을 입었습니다. 영상에서 누군가가 외국인의 지갑을 가져오라고 외치는 소리를 들을 수 있습니다. 어느 시점에서 관광객은 벗어나는 데 성공했습니다. 그룹 중 한 명이 흩어지기 전에 다른 사람들에게 사건을 녹화하지 말라고 경고하는 것을 들었습니다. 당국은 또한 현장의 빗물 배수구에 떨어진 휴대폰을 발견했습니다. 소방관들이 장치를 회수하기 위해 호출되었습니다. 한 선한 사마리아인은 기자들에게 관광객이 공격을 받고 가방을 가져가라는 외침을 들었다고 말했습니다. 관광객의 가방이 땅에 떨어지자 목격자는 가방을 집어 그에게 돌려주었고, 그룹을 화나게 했습니다. 다툼의 동기는 불분명하다고 목격자는 말했습니다. 부상당한 관광객은 나중에 55세의 독일 국적의 마르쿠스 산틀 씨로 확인되었습니다. 그는 경찰에 그날 밤 일찍 한 트랜스젠더 여성을 생물학적 여성으로 믿고 자신의 호텔 방으로 데려갔다고 말했습니다. 그 사람을 데리고 나간 후, 그는 나중에 3",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 영향을 줄 수 있으므로 게시 필요.",
-      "event_info": {
-        "date": "2026-02-24",
-        "location": "파타야 해변 도로",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach Road"
-      },
+      "event_info": "{'date': '2026-02-24', 'location': '파타야 해변 도로', 'price': None, 'location_google_map_query': 'Pattaya Beach Road'}",
       "references": [
         {
           "title": "Five transgender women beat German tourist in Pattaya",
@@ -35778,23 +35773,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/7777888.jpg"
         }
       ],
-      "collected_at": "01:50",
+      "collected_at": "1:50",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/7777888.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/02/24/five-transgender-women-beat-german-tourist-in-pattaya/",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 지역 긴장 고조: 캄보디아군 포격에 태국군 응사",
       "summary": "- 태국 육군은 캄보디아군이 시사켓 지방에서 40mm 포탄을 발사하여 태국 영토를 침범했다고 발표함.\n- 이에 태국군은 교전 규칙에 따라 M79 유탄 발사기로 대응 사격함.\n- 양측 사상자는 없었으며, 태국군은 해당 지역의 보안을 강화하고 상황을 면밀히 감시하고 있음.",
       "full_translated": "태국 육군은 캄보디아군이 월요일 아침 시사켓 지방에서 정찰 임무 중 태국 영토에 40mm 박격포탄을 발사하여 교전 규칙에 따라 대응했다고 밝혔습니다. 부상자는 보고되지 않았습니다. 육군 대변인 윈타이 수바리 소장은 2월 24일, 제2군 지역이 시사켓의 플란 힌 패트 콘 근처에서 오전 8시 50분에 사건이 발생했다고 보고했다고 밝혔습니다. 태국군은 정상적인 정찰을 수행하던 중 캄보디아군이 태국 순찰 지점 근처에 40mm 박격포탄 1발을 발사했습니다. 폭발로 인해 태국 인명 피해는 발생하지 않았습니다. 사건 이후 태국군은 확립된 교전 규칙에 따라 사격 원점을 향해 M79 유탄 발사기로 대응 사격했습니다. 육군은 이 조치를 인원에 대한 보호와 할당된 지역 확보를 위한 경고이자 자위 행위로 설명했습니다. 윈타이 대변인은 캄보디아의 행동이 2025년 12월 27일 양측이 서명한 공동 성명에 명시된 휴전 협정을 위반했다고 말했습니다. 예비 평가는 이번 사건이 캄보디아 측의 부대 교체에서 비롯되었을 수 있으며, 새로 배치된 인력이 해당 지역의 작전 절차 및 지휘 감독에 대한 지식이 부족할 수 있음을 시사했습니다. 육군은 지상 부대가 보안 조치를 강화하고 상황 감시를 강화했으며 진행 중인 작전에서 고도의 주의를 기울이고 있으며, 병력의 안전을 강조하고 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "국경 지역 긴장 고조는 여행객 안전에 잠재적 위협이 될 수 있으므로 관련 정보를 제공. 현재까지 직접적인 위협은 없으나, 상황을 주시할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "시사켓 지방, 태국-캄보디아 국경",
-        "price": null,
-        "location_google_map_query": "Si Sa Ket Province"
-      },
+      "event_info": "{'date': None, 'location': '시사켓 지방, 태국-캄보디아 국경', 'price': None, 'location_google_map_query': 'Si Sa Ket Province'}",
       "references": [
         {
           "title": "Army: Cambodian 40mm round hits Thai soil, troops return fire with M79",
@@ -35803,23 +35795,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/jjjj.jpg"
         }
       ],
-      "collected_at": "01:50",
+      "collected_at": "1:50",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/jjjj.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.khaosodenglish.com/featured/2026/02/24/army-cambodian-40mm-round-hits-thai-soil-troops-return-fire-with-m79/",
+      "source": ""
     },
     {
       "title": "수완나품 공항, 엑스레이 검색대 직원 응대에 대한 사과",
       "summary": "- 수완나품 공항이 엑스레이 검색대 직원의 부적절한 행동에 대해 사과하고 서비스 개선을 약속했습니다.\n- 공항 측은 소셜 미디어의 비판에 대응하여 직원들의 태도와 감정 통제에 대한 우려를 해소하고자 한다고 밝혔습니다.\n- 공항은 모든 피드백을 직원 성과 개선에 활용하고, 정중한 태도와 명확한 의사소통을 강조할 것이라고 밝혔습니다.",
       "full_translated": "수완나품 공항이 엑스레이 검색대 직원의 행동에 대해 사과했습니다. 방콕 – 2026년 2월 24일, 수완나품 공항은 엑스레이 검문소 보안 직원의 부적절한 행동에 대한 불만이 제기된 후 승객들에게 사과하고 검사 서비스 개선을 약속했습니다. 2월 24일에 발표된 성명에서 공항은 2026년 2월 23일에 게시된 소셜 미디어 비판에 대응하고 있다고 밝혔습니다. 해당 게시물은 수완나품 공항의 엑스레이 수하물 검사 직원이 왜 그렇게 사나운가? 의사소통 및 감정 통제에 대한 교육이 왜 더 잘 되어 있지 않은가? 라는 질문을 제기했습니다. 이 댓글은 수하물 엑스레이 검문소 담당 직원의 부적절한 언어 사용 및 몸짓에 대한 광범위한 소셜 미디어 불만을 촉발했습니다. 공항은 이번 사건에 대해 모든 승객에게 사과하고 제기된 우려 사항을 인정한다고 밝혔습니다. 또한 모든 피드백을 직원 성과 개선에 활용하여 정중한 태도, 예의 바름 및 명확한 의사소통을 강조할 것이라고 밝혔습니다. 수완나품 공항은 수하물 엑스레이 검문소의 보안 운영을 담당하는 회사에 서비스 효율성을 개선하도록 지시했습니다. 또한 해당 회사에 운영 준비 태세, 정중한 서비스, 정확하고 적절한 정보를 승객에게 제공해야 할 필요성을 강조하면서 각 근무조 전에 모든 직원과 매일 브리핑을 실시하라는 명령을 내렸습니다. 공항은 또한 해당 회사에 추가 고객 서비스 교육을 실시하도록 지시했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "공항 서비스 관련 불만 사항 개선 약속. 여행객 경험에 직접적인 영향. 공항 이용 시 불편함 감소 기대.",
-      "event_info": {
-        "date": null,
-        "location": "수완나품 공항",
-        "price": null,
-        "location_google_map_query": "Suvarnabhumi Airport"
-      },
+      "event_info": "{'date': None, 'location': '수완나품 공항', 'price': None, 'location_google_map_query': 'Suvarnabhumi Airport'}",
       "references": [
         {
           "title": "Suvarnabhumi apologises over X-ray staff conduct",
@@ -35828,23 +35817,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Suvarnabhumi-apologises-over-X-ray-staff-conduct.jpg"
         }
       ],
-      "collected_at": "01:50",
+      "collected_at": "1:50",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Suvarnabhumi-apologises-over-X-ray-staff-conduct.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.khaosodenglish.com/news/2026/02/24/suvarnabhumi-apologises-over-x-ray-staff-conduct/",
+      "source": ""
     },
     {
       "title": "태국 반부패위원회, 검찰총장과 사건 이송 문제 논의",
       "summary": "- 태국 반부패위원회(P.P.C.)는 검찰총장과 사건 이송 절차의 문제점을 해결하기 위한 회의를 개최함.\n- 회의 주요 내용은 불완전한 사안 결정, 공동 위원회 회의 문제, 기소 또는 반부패위로 사건 반환 문제 등임.\n- 양 기관은 부패 사건 처리의 효율성을 높이기 위해 협력 방안을 모색하고 있음.",
       "full_translated": "태국 반부패위원회(P.P.C.)는 검찰총장과 협력하여 두 기관 간 사건 이송 과정에서 발생하는 문제점을 해결하기 위한 회의를 개최했습니다. 2069년 2월 24일, 반부패위원회 사무국은 반부패위원회와 검찰총장 간의 업무 협력 및 문제 해결을 위한 실무 그룹 회의를 개최했습니다. \n\n수라퐁 인타라타본 반부패위원회 사무총장이 회의 의장을 맡았고, 러차타 파놈완 부패 방지 사무차장, 반부패위원회 사무국 실무 그룹, 검찰총장 사무국 실무 그룹이 회의에 참석했습니다. 회의는 반부패위원회 사무국 4층 논타부리 3 회의실에서 진행되었습니다. 솜시리 참난차난 부패 방지 사무국 검사장은 화상 회의 시스템을 통해 회의에 참여했습니다.\n\n이번 회의의 목적은 반부패위원회와 검찰총장의 권한에 따른 업무 수행 과정에서 발생하는 문제점을 해결하고, 다른 분야에서의 공식적인 문제와 실무 지침에 대해 논의하며, 회의 결과를 반부패위원회에 보고하여 실무 지침을 결정하는 것입니다. 회의에서는 다음과 같은 다양한 문제에 대한 논의가 이루어졌습니다. 1) 문제점을 결정하고 불완전한 사항을 고려하는 방법 2) 공동 위원회 회의의 문제점 3) 기소를 위해 검찰총장에게 사건을 이송하거나 반부패위원회에 사건을 반환하여 자체적으로 기소하도록 하는 문제점 ... 4) 반부패위원회 사무국 직원과 검사 간의 사건 조정 문제 5) 검찰총장에게 이송된 사건의 진행 상황.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 부패 관련 기관의 협력에 대한 내용으로, 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 태국 사회의 이슈를 이해하는 데 도움이 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ป.ป.ช.หารืออัยการสูงสุด แก้ไขปัญหาข้อขัดข้องส่งต่อสำนวนคดีระหว่างองค์กร",
@@ -35853,23 +35839,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjQMetH3ta7SA9.jpg"
         }
       ],
-      "collected_at": "01:50",
+      "collected_at": "1:50",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjQMetH3ta7SA9.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/politic/2916248",
+      "source": ""
     },
     {
       "title": "우크라이나 전쟁 4년, 평화를 원하는 우크라이나 국민, 목표 달성 못 했다는 러시아",
       "summary": "- 러시아의 우크라이나 침공 4주년, 우크라이나 국민들은 계속되는 공격과 기반 시설 파괴로 고통받고 있음.\n- 키이우 시민들은 전쟁 발발 당시를 회상하며 평화를 염원하고 있으며, 러시아 대통령의 결단에 전쟁 종식이 달려 있다고 보고 있음.\n- 젤렌스키 대통령은 푸틴 대통령에게 협상 테이블에 앉을 것을 촉구했지만, 러시아는 목표 달성까지 전쟁을 계속할 것이라고 밝힘.",
       "full_translated": "러시아의 우크라이나 전면 침공이 4년을 맞이했습니다. 우크라이나 국민은 언제 끝날지 모르는 전쟁 속에서 고통스러운 삶을 이어가고 있으며, 러시아는 아직 전쟁 목표를 달성하지 못했다고 밝혔습니다. 외신 보도에 따르면, 러시아의 우크라이나 전면 침공이 2069년 2월 24일 4주년을 맞았습니다. 우크라이나 국민들은 매일 계속되는 공격에 시달리고 있으며, 기반 시설 파괴로 인해 전기와 수도 공급이 끊긴 채 생활하고 있습니다.\n\n키이우 시민들은 러시아의 전면 침공 4주년을 맞아 전쟁의 기억을 되새겼습니다. 48세의 스비틀라나 유르 씨는 \"전쟁이 일어나지 않기를 마지막 순간까지 희망했다\"고 말했습니다. 그녀는 로이터 통신과의 인터뷰에서 \"2022년 2월 24일 아침, 폭발 소리에 잠에서 깼을 때도 타이어가 터지는 소리인 줄 알았다\"고 회상했습니다. 많은 사람들이 이 전쟁이 얼마나 더 오래 지속될지 궁금해합니다. 63세의 교사 빅토르 부이놉스키 씨는 모든 것이 푸틴 대통령에게 달려 있다고 생각합니다. 그는 \"모든 것은 단 한 사람, 즉 러시아 대통령에게 달려 있습니다. 그가 이 전쟁을 시작했고, 그가 끝내야 합니다.\"라고 말했습니다. 키이우 시민이자 참전 군인의 어머니인 루드밀라 타란 씨는 전쟁이 가능한 한 빨리 끝나기를 바라고 있습니다. 그녀는 \"내 아들이 4년 동안 전선에 있습니다. 오늘이라도 당장 끝나기를 바랍니다.\"라며, \"윗선에 있는 사람들이 이 문제를 해결해야 합니다. 그들이 어떤 결정을 내리든 상관없지만, 나는 평화를 원합니다.\"라고 덧붙였습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 블라디미르 푸틴 러시아 대통령에게 협상 테이블에 앉을 것을 촉구했지만, 드미트리 페스코프 크렘린궁 대변인은 러시아가 우크라이나에서 '특별 군사 작전'의 목표를 달성할 때까지 계속할 것이라고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세에 대한 배경지식 제공. 여행 안전에 영향을 주는 요소는 아니므로 낮은 점수.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สงครามครบ 4 ปี ชาวยูเครนต้องการสันติ รัสเซียลั่นยังไม่บรรลุเป้าหมาย",
@@ -35878,8 +35861,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3WDe4Q0Uy8d.jpg"
         }
       ],
-      "collected_at": "01:50",
+      "collected_at": "1:50",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3WDe4Q0Uy8d.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/foreign/2916270",
+      "source": ""
+    },
+    {
+      "title": "태국 여성, 캄보디아 사기 센터에서 탈출 후 안전 귀환",
+      "summary": "- 23세 태국 여성, 가짜 구인 광고에 속아 캄보디아 사기 조직에 납치됨.\n- 방콕에서 일자리를 잃은 후 페이스북 광고를 통해 사 깨오 지방의 행정직을 지원했다가 인신매매 피해를 입음.\n- 치앙라이 경찰의 도움으로 고향으로 안전하게 돌아왔으며, 30명 이상의 태국인이 억류되어 사기 활동을 강요받고 있다고 진술.",
+      "full_translated": "치앙라이: 23세 여성이 캄보디아 사기 작전에서 탈출하여 고향으로 안전하게 돌아왔습니다. 그녀는 30명 이상의 태국인이 억류되어 사기 활동을 강요받았다고 말했습니다. 나파사라(성 숨김)로 확인된 이 여성은 가짜 구인 광고에 속아 인신매매를 당해 국경 너머의 사기 단지로 끌려갔다고 말했습니다. 어제 치앙라이 지방 경찰 본부에서 열린 환영식에서 마놉 세나쿨 지방 경찰 사령관은 경찰이 그녀를 집으로 데려온 후 나파사라와 그녀의 가족을 환영했습니다. 나파사라는 이전에 방콕에서 관리 직원으로 일했지만, 실직 후 페이스북을 통해 새로운 직업을 찾았다고 말했습니다. 그녀는 특별한 기술이 필요 없이 월 20,000바트의 급여를 제공하는 사 깨오 지방의 관리직을 광고하는 게시물을 발견했습니다. 그녀는 지원하기로 결정하고 2월 12일 방콕 랏프라오 지역의 쇼핑몰에서 모집 담당자들을 만났고, 5~6명의 다른 지원자들과 함께 여행했습니다. 그러나 사 깨오에 도착하자 그룹은 사탕수수 밭으로 끌려가 국경을 넘어 캄보디아로 강제로 도망쳐야 했습니다. 거동이 불편한 나파사라는 캄보디아인들에게 붙잡혀 캄보디아 포이펫으로 이송되기 전에 밭을 건너는 데 어려움을 겪었다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국인을 대상으로 한 인신매매 및 사기 범죄 관련 기사로, 여행객 안전에 대한 잠재적 위협이 있으므로 포함. 유사 사례에 대한 경각심을 높이고 주의를 환기시킬 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Woman safe after fleeing Cambodian scam centre",
+          "url": "https://www.bangkokpost.com/thailand/general/3204450/woman-safe-after-fleeing-cambodian-scam-centre",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204450_260225020223_700.jpg"
+        }
+      ],
+      "collected_at": "02:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204450_260225020223_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 경찰, 길거리 반려동물 관련 분쟁 증가에 경고",
+      "summary": "- 방콕에서 길거리 반려동물로 인한 이웃 간 분쟁 증가.\n- 경찰, 책임 의식 없는 애견가에 벌금 및 징역형 경고.\n- 동물 학대 시 최대 징역 2년 또는 벌금 4만 바트 부과.",
+      "full_translated": "태국 경찰(RTP)은 자유롭게 돌아다니는 개와 고양이로 인해 발생하는 이웃 간의 갈등이 고조되는 것에 대해 우려를 표명하며, 애완동물 소유자들에게 더 큰 책임을 지거나 법적 처벌을 받을 수 있다고 경고했습니다.\n\nRTP 대변인인 시리와트 디포르 경찰 소장은 국가 경찰청장인 킷랏 판펫 경찰청장이 애완동물이 이웃의 재산에 침입하여 피해를 주는 데서 비롯되는 분쟁에 대해 우려하고 있다고 밝혔습니다. 어떤 경우에는 이러한 갈등이 폭력과 동물 학대로 이어졌으며, 이는 형사 범죄입니다. 합당한 이유 없이 동물을 다치게 하거나 불구로 만들거나 죽이는 것은 동물 학대 방지 및 복지법 B.E. 2557(2014)을 위반하는 것으로, 최대 2년의 징역, 최대 4만 바트의 벌금 또는 둘 다에 처해질 수 있습니다.\n\n동물에게 주인이 있는 경우, 가해자는 형법 358조에 따라 재산 피해에 대한 혐의로 기소될 수도 있으며, 이는 최대 3년의 징역, 최대 6만 바트의 벌금 또는 둘 다에 처해질 수 있습니다. 애완동물이 다른 동물에게 공격을 받거나 재산이 손상된 경우, 피해자는 경찰이나 지역 행정 당국에 신고하여 중재를 촉진하거나 민사 보상을 추구해야 합니다. 스스로 문제를 해결하려다가는 형사 고발을 당할 수 있습니다.\n\n소유자는 법적으로 적절한 동물 복지를 제공하고 애완동물이 해를 끼치거나 폐를 끼치지 않도록 할 의무가 있습니다. 과실은 동물 복지법 23조를 위반할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 중 애완동물 관련 분쟁 발생 가능성 및 법적 책임 고지. 동물 학대 방지 관련 법규 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Police warn over stray pet conflicts",
+          "url": "https://www.bangkokpost.com/thailand/general/3204525/police-warn-over-stray-pet-conflicts",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204525_260225015417_700.jpg"
+        }
+      ],
+      "collected_at": "02:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204525_260225015417_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국, 트럼프의 글로벌 관세 인상에 대한 경계 강화",
+      "summary": "- 아누틴 총리, 미국 트럼프 대통령의 15% 글로벌 관세 인상 계획에 대한 면밀한 모니터링 지시\n- 단기적으로 태국이 이익을 얻을 수 있지만 장기적인 무역 및 경제 영향 경고\n- 태국-미국 무역 협상팀에 워싱턴과의 논의 지속 지시 및 관계 부처에 대응 준비 촉구",
+      "full_translated": "아누틴 차른비라쿨 총리는 에크니티 니티탄프라파스 재무장관과 수파지 수툼푼 상무장관에게 미국의 15% 글로벌 관세 부과 계획을 면밀히 감시하도록 지시했다고 밝혔다. 총리는 단기적으로 태국이 낮은 관세로 이익을 얻을 수 있지만, 장기적으로 국가의 무역과 경제에 미칠 수 있는 영향에 대해 경고했다. 아누틴 총리는 태국-미국 무역 협상팀에 워싱턴과의 논의를 계속하고, 양 장관에게 '팀 태국'과 협력하여 대응을 준비하도록 요청했다. 이번 조치는 도널드 트럼프 미국 대통령이 Truth Social에 글로벌 관세를 10%로 설정한 지 하루 만에 15%로 인상하겠다고 발표한 데 따른 것이다. 트럼프 대통령의 게시글에 따르면 새로운 관세는 즉시 발효된다. 수파지 장관은 내각 회의 후 단기적으로 태국이 이전에 19%의 관세를 부과받았기 때문에 이익을 얻을 것이라고 말했다. 그러나 정부는 150일 후 관세 정책에 대한 더 명확한 세부 사항을 기다릴 것이다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "관세 인상이 태국 경제에 미치는 영향은 간접적으로 여행 물가에 영향을 줄 수 있으나, 단기적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "PM orders vigilance over Trump's global tariff move",
+          "url": "https://www.bangkokpost.com/thailand/general/3204370/pm-orders-vigilance-over-trumps-global-tariff-move",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204370_260225015029_700.jpg"
+        }
+      ],
+      "collected_at": "02:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204370_260225015029_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 총선 무효 주장한 정당 간부, 당에서 직무 정지",
+      "summary": "- 태국 신대안당이 몽콘킷 수크신타라논 사무총장의 직무를 정지시켰습니다.\n- 당 이미지 훼손을 이유로 들었으며, 총선 무효 주장이 영향을 미친 것으로 보입니다.\n- 몽콘킷은 직무 정지 기간 동안 당을 대표하여 어떠한 활동도 할 수 없습니다.",
+      "full_translated": "신대안당이 '테 프라람 7'으로 불리는 몽콘킷 수크신타라논의 직무를 정지시켰습니다. 이는 당의 이미지를 보호하기 위한 조치이며, 그가 제기한 총선 무효 주장이 당에 압박을 가한 결과로 풀이됩니다. 2069년 2월 24일, 라첸 트라쿤위앙 신대안당 대표는 당 명령 3/2069호에 서명하여 몽콘킷 수크신타라논의 사무총장 직무를 일시적으로 정지시켰습니다. 당 문서에 따르면, 이는 당의 이미지와 이념을 유지하기 위한 것입니다. 명령의 세부 사항은 다음과 같습니다. 당은 몽콘킷 수크신타라논을 사무총장으로 임명하여 당의 행정 업무를 관리하고 정책에 따라 업무를 조정했습니다. 신대안당의 운영을 질서 있고 효율적으로 수행하고 당의 이상에 따라 좋은 이미지를 유지하기 위해 당 대표는 당 규정 37조에 따라 다음과 같이 명령합니다. 몽콘킷의 사무총장 직무를 일시적으로 정지합니다. 직무 정지 기간 동안 사무총장 명의로 어떠한 행위도 할 수 없으며, 신대안당에 법적 또는 정치적 의무를 발생시킬 수 있는 행위를 할 수 없습니다. 당 규정에 따라 권한을 가진 자 또는 위임받은 자가 별도의 명령이 있을 때까지 직무를 대행합니다. 몽콘킷의 사무총장 직무를 일시적으로 정지합니다. 직무 정지 기간 동안 사무총장 명의로 어떠한 행위도 할 수 없으며, 신대안당에 법적 또는 정치적 의무를 발생시킬 수 있는 행위를 할 수 없습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행 안전이나 편의에 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทางเลือกใหม่พักงาน \"เต้ มงคลกิตติ์\" เจ้าตัวลั่นเชื่อเหตุร้อง “เลือกตั้งโมฆะ” ทำพรรคผวา",
+          "url": "https://www.thairath.co.th/news/politic/2916239",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjRCXKQ0nQ8AM8.jpg"
+        }
+      ],
+      "collected_at": "02:44",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjRCXKQ0nQ8AM8.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "유명 변호사 'Tum' 압류 자산 반환 명령",
+      "summary": "- 법원이 유명 변호사 Sittra Biabangkerd와 그의 아내에게 압류된 7400만 바트 이상의 자산 반환을 명령했습니다.\n- 돈세탁 방지법에 따른 몰수를 뒷받침할 충분한 증거를 당국이 제시하지 못했다는 이유입니다.\n- Jatuporn Ubonlert의 온라인 복권 거래 애플리케이션 개발 자금 사기 주장이 있었으나, 법원은 증거 불충분으로 판단했습니다.",
+      "full_translated": "민사 법원은 어제 유명 변호사 'Tum'으로 널리 알려진 Sittra Biabangkerd 변호사와 그의 아내에게 압류된 7400만 바트 이상의 자산을 반환하라고 명령했습니다. 법원은 당국이 돈세탁 방지법에 따른 몰수를 뒷받침할 만큼 충분히 강력한 증거를 제시하지 못했다고 판결했습니다.\n\n이 사건은 공공 검찰이 부부 소유의 26개 자산을 일시적으로 동결한 후 돈세탁 방지 사무소(Amlo)에 의해 제기되었습니다. 자산에는 은행 계좌, 토지, 주택 및 명품이 포함되었습니다. 당국은 이들이 Jatuporn Ubonlert의 불만과 관련된 사기 및 돈세탁을 저질렀다고 주장했습니다. Ms. Jatuporn은 부부가 온라인 복권 거래 애플리케이션 개발 자금을 위해 7100만 바트 이상을 이체하도록 속였다고 비난했습니다. 둘 다 혐의와 관련하여 작년 2월에 구금되었습니다.\n\n법정에서 검찰은 금융 기록과 경찰 조사 결과를 요약한 Amlo 수사 전문가를 제시했습니다. 그러나 판사는 증인의 증언 대부분이 전문적인 것이라고 판단하면서 증인이 사기 혐의에 직접적인 역할을 하지 않았다고 지적했습니다. 고소인과 수사관 모두 증언하지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "사건 자체가 여행객에게 직접적인 영향을 주지는 않으나, 태국 사회의 법 집행 및 사법 시스템 관련 이슈를 보여주는 뉴스임. 다만, 현재 시각이 새벽이므로 우선순위는 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "'Lawyer Tum' gets confiscated funds back",
+          "url": "https://www.bangkokpost.com/thailand/general/3204380/lawyer-tum-gets-confiscated-funds-back",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204380_260225020315_700.jpg"
+        }
+      ],
+      "collected_at": "02:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204380_260225020315_700.jpg",
       "date": "2026-02-25"
     }
   ]
