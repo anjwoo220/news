@@ -36267,14 +36267,9 @@
       "summary": "- 나콘랏차시마는 홈에서 라용을 상대로 승점 3점을 노립니다.\n- 수요일 80주년 기념 경기장에서 경기가 열립니다.\n- 나콘랏차시마는 T1 리그에서 생존을 위해 싸우고 있습니다.",
       "full_translated": "나콘랏차시마는 수요일 80주년 기념 경기장에서 라용을 상대로 태국 리그 1에서 승점 3점을 얻기를 희망합니다. 나콘랏차시마는 T1 리그에서 생존을 위해 싸우고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 프로 축구 리그 관련 소식으로, 스포츠 팬들에게는 흥미로운 정보가 될 수 있습니다.",
-      "event_info": {
-        "date": "2024-06-26",
-        "location": "80th Anniversary Stadium, Nakhon Ratchasima",
-        "price": "경기 티켓 가격은 변동될 수 있으므로, 공식 웹사이트에서 확인하십시오.",
-        "location_google_map_query": "80th Anniversary Stadium Nakhon Ratchasima"
-      },
+      "event_info": "{'date': '2024-06-26', 'location': '80th Anniversary Stadium, Nakhon Ratchasima', 'price': '경기 티켓 가격은 변동될 수 있으므로, 공식 웹사이트에서 확인하십시오.', 'location_google_map_query': '80th Anniversary Stadium Nakhon Ratchasima'}",
       "references": [
         {
           "title": "Swat Cats take on Rayong with T1 survival on line",
@@ -36282,22 +36277,20 @@
           "source": "Bangkokpost.com : Most recent"
         }
       ],
-      "collected_at": "06:00",
-      "date": "2026-02-25"
+      "collected_at": "6:00",
+      "image_url": "",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/sports/3204425/swat-cats-take-on-rayong-with-t1-survival-on-line",
+      "source": ""
     },
     {
       "title": "태국 통화정책위원회, 정책 금리 동결 전망",
       "summary": "- 태국 중앙은행 통화정책위원회(MPC)는 오늘 회의에서 정책 금리를 1.25%로 동결할 것으로 예상됨.\n- 이는 예상보다 강력한 경제 성장과 개선된 정치 전망에 힘입은 결과임.\n- CIMB Thai Bank의 수석 이코노미스트는 경제 정책의 연속성을 지지하는 선거 결과도 금리 동결에 영향을 미쳤다고 분석함.",
       "full_translated": "태국 중앙은행 통화정책위원회(MPC)는 예상보다 강력한 경제 성장과 개선된 정치 전망에 힘입어 오늘 회의에서 정책 금리를 변경하지 않을 것으로 예상됩니다. CIMB Thai Bank의 수석 이코노미스트인 Amonthep Chawla는 작년 4분기의 놀라운 경제 성과 덕분에 중앙은행이 정책 금리를 1.25%로 유지할 가능성이 높다고 말했습니다. 태국 국가경제사회개발위원회(NESDC)는 태국 경제가 2025년 4분기에 전년 대비 2.5% 성장하여 이전 분기의 1.2%에서 반등했다고 보고했습니다. 2025년 전체 성장률은 2.4%로 이전 예상치인 2.0~2.2%를 넘어섰습니다. Amonthep 씨는 \"선거 결과는 정치적 불확실성을 줄이고 경제 정책의 연속성을 보장하여 올해 경제 모멘텀을 뒷받침할 것입니다.\"라고 말했습니다. \"결과적으로 중앙은행이 연중 내내 정책 금리를 1.25%로 유지할 것으로 예상합니다.\" 마찬가지로 Kasikorn Research Center(K-Research)의 수석 이코노미스트인 Burin Adulwattana는 주로 작년 4분기의 경제 반등과 더 명확한 정치 환경으로 인해 정책 금리가 오늘 1.25%로 유지될 것으로 예상한다고 말했습니다. K-Research는 선거 결과가 정치적 불확실성을 완화하고 정부 경제 정책, 특히 '콘라크룽 플러스' 공동 지불 프로그램의 연속성을 지원해야 한다고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Monetary Policy Committee policy rate likely to remain unchanged",
@@ -36306,23 +36299,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981820_700.jpg"
         }
       ],
-      "collected_at": "06:00",
+      "collected_at": "6:00",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981820_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/business/general/3204655/monetary-policy-committee-policy-rate-likely-to-remain-unchanged",
+      "source": ""
     },
     {
       "title": "아누틴, 연립 정부 구성 협상 완료 부인",
       "summary": "- 아누틴 총리는 연립 정부 구성 협상이 완료되지 않았다고 부인함.\n- 선거관리위원회의 의석수 재검토 및 인증이 아직 진행 중이라고 언급함.\n- 최종 합의가 이루어지기 전에는 내각 배분이나 총리 투표 약속에 대한 논의는 부적절하다고 밝힘.",
       "full_translated": "아누틴 총리와 품자이타이당(BJT) 대표인 아누틴 찬위라쿨은 새로운 정부 구성을 위한 협상이 마무리되었다는 주장을 부인하며, 논의가 계속 진행 중이며 자신이 이 과정을 주도하고 있다고 주장했습니다. 화요일 정부청사에서 아누틴 총리는 300석 규모의 연립 정부가 이미 확보되었다는 고위 당 관계자들의 발언에 대해 답변했습니다. 기자들의 질문에 그는 \"협상하는 사람은 나\"라고 반박하며 최종 합의가 이루어지지 않았으며 완료된 합의에 대한 추측은 시기상조라고 분명히 했습니다. 그는 선거관리위원회가 여러 지역구에서 정당 명부 의석수를 재산정하고 인증하고 있으며, 이는 정확한 의회 산술이 아직 확정되지 않았음을 의미한다고 말했습니다. 결과의 공식적인 승인이 완료될 때까지 구속력 있는 연립 협정, 내각 할당 또는 총리 투표 약속에 대해 논의하는 것은 부적절하다고 그는 말했습니다. 아누틴은 BJT가 장관직이 할당되기 전에 총리 투표를 주장할 것인지 여부를 밝히기를 거부했으며, MP 의석수에 대한 명확성이 먼저 와야 한다고만 말했습니다. 그는 또한 클라탐당의 수석 고문인 탐마낫 프롬포우 대위가 주요 정치적 놀라움을 준비하고 있다는 보도를 듣지 못했다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Anutin denies coalition deal is done",
@@ -36331,23 +36321,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204385_260225053635_700.jpg"
         }
       ],
-      "collected_at": "06:00",
+      "collected_at": "6:00",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204385_260225053635_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/politics/3204385/anutin-denies-coalition-deal-is-done",
+      "source": ""
     },
     {
       "title": "불교 원칙, 긴장 완화에 도움될 것",
       "summary": "- 태국-캄보디아 긴장 속에서 불교 원칙을 활용하자는 주장이 제기됨.\n- 학자들과 시민 지도자들은 양국이 공유하는 정신적 유산을 대화의 기반으로 삼을 것을 촉구함.\n- 갈등 해결을 위한 실질적인 도구로 올바른 이해, 올바른 언어, 올바른 행동과 같은 핵심 가르침이 제시됨.",
       "full_translated": "태국-캄보디아의 긴장이 다시 고조되는 가운데, 학자들과 시민 지도자들은 불교 원칙을 적용하여 분열을 완화하고 양국 사회가 공유하는 정신적 유산을 대화와 화해의 기반으로 삼을 것을 촉구했습니다. 이러한 호소는 방콕에서 '분쟁 해결을 위한 불교의 길: 태국-캄보디아 대화'라는 포럼에서 나왔습니다. 참가자들은 양국 간의 반복되는 긴장이 정치적, 사회적 역학 관계에 따라 심화되거나 완화되는 경향이 있다고 말하며, 공식적인 외교를 넘어 지속적인 국민 간의 교류가 필요하다고 강조했습니다. 마하출라롱콘라자비달라야 대학교 불교학부 학장인 Phra Methivorayan 조교수는 수완나품(미얀마 남부, 태국, 메콩 삼각주, 말레이 반도를 포괄하는 동남아시아의 번성한 지역을 지칭하는 고대 용어)은 역사적으로 불교를 문화적 기반으로 삼아 평화를 유지해 왔다고 말했습니다. 그는 분쟁 해결을 위한 실질적인 도구로 올바른 이해, 올바른 언어, 올바른 행동과 같은 핵심 가르침을 언급했습니다. 그는 갈등이 인간 사회의 지속적인 부분이라고 지적했습니다. 중요한 것은 자기 이익이나 정치적 동기에 의해 발생하는지와 같은 갈등의 근원을 조사하는 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국-캄보디아 관계에 대한 내용으로, 여행 자체에 직접적인 영향은 적으나, 국경 지역 방문 예정인 여행객은 참고할 만한 정보임. 하지만 직접적인 위협은 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Buddhist principles urged to ease tensions",
@@ -36356,23 +36343,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204675_260225015722_700.jpg"
         }
       ],
-      "collected_at": "06:00",
+      "collected_at": "6:00",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204675_260225015722_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204675/buddhist-principles-urged-to-ease-tensions",
+      "source": ""
     },
     {
       "title": "태국 1월 자동차 수출 6% 감소, 2022년 5월 이후 최저",
       "summary": "- 태국의 1월 자동차 수출량이 전년 대비 6% 감소한 58,405대로, 2022년 5월 이후 최저치를 기록했습니다.\n- 이는 강화된 환경 규제와 환율 변동에 따른 것으로 분석됩니다.\n- 특히 호주의 강화된 탄소 배출 기준이 특정 모델에 대한 수요 감소를 야기했습니다.",
       "full_translated": "태국의 자동차 수출이 1월에 감소하여 전년 대비 6% 감소한 58,405대를 기록했습니다. 이는 2022년 5월 이후 최저 수준이며, 태국산업연맹(FTI)은 강화된 환경 규제와 환율 변동이 원인이라고 밝혔습니다. 이러한 둔화는 세계 자동차 시장이 직면한 광범위한 어려움을 반영합니다. 특히 호주가 2025년 중반부터 시행한 엄격한 탄소 배출 법규로 인해 특정 모델에 대한 수요가 감소했습니다. 구형 차량 라인의 생산 중단 또한 태국의 수출량 감소에 영향을 미쳤습니다. FTI 부회장이자 자동차 산업 클럽 대변인인 수라퐁 파이싯파타나퐁은 아시아, 아프리카, 북미, 라틴 아메리카 및 중앙 아메리카 전반에 걸쳐 수출이 감소했다고 말했습니다. 수출액은 전년 대비 5.6% 감소한 390억 바트였습니다. 환율 변동 또한 압력을 더했습니다. 바트화가 지역 경쟁국에 비해 크게 평가절상되어 어제 달러당 31바트를 기록했습니다. 바트화 강세는 경쟁력을 약화시켜 태국 차량을 해외에서 더 비싸게 만들었습니다. 이러한 평가는 부분적으로 도널드 트럼프 미국 대통령의 15% 관세 발표에 대한 세계 시장의 반응으로 달러화가 약화되었기 때문입니다. 수라퐁 씨는 '우리는 글로벌 관세와 이것이 무역 및 태국 경제에 미치는 영향을 주시하고 있습니다.'라고 말하며 정부에 수출업체를 보호하기 위해 환율을 관리할 것을 촉구했습니다. 수출은 약화되었지만 태국의 전체 자동차 생산량은 증가했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 경제 상황에 대한 간접적인 정보 제공. 환율 변동 관련 언급은 여행 경비에 영향을 줄 수 있으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Car exports decline by 6% in January",
@@ -36381,8 +36365,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204620_260225050848_700.jpg"
         }
       ],
-      "collected_at": "06:00",
+      "collected_at": "6:00",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204620_260225050848_700.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/business/motoring/3204620/car-exports-decline-by-6-in-january",
+      "source": ""
+    },
+    {
+      "title": "브라질 남부, 심각한 홍수로 23명 사망, 수백 명 대피",
+      "summary": "- 브라질 남동부 지역에 폭우로 인한 홍수와 산사태 발생\n- 최소 23명 사망, 수백 명 대피\n- 기상청, 추가적인 폭우 예보",
+      "full_translated": "브라질 남동부 도시들이 폭우로 심각한 홍수와 산사태를 겪고 있습니다. 현재까지 23명이 사망했으며 수백 명이 대피했습니다. 2026년 2월 24일 화요일, 브라질 당국은 국가 남동부의 심각한 홍수로 인해 최소 23명이 사망하고 미나스제라이스 주에서 수십 명이 실종되었다고 밝혔습니다. 기상학자들은 이 지역에 며칠 동안 더 많은 폭우가 내릴 것이라고 경고했습니다. 폭우는 월요일 주이스 데 포라와 우바에서 시작되었고, 이 두 도시는 리우데자네이루에서 북쪽으로 약 310km 떨어져 있으며, 약 440명의 주민이 집에서 대피해야 했습니다. 미나스제라이스 주 소방서는 월요일 늦은 밤부터 실종된 거의 45명을 수색하고 있습니다. 당국이 공개한 영상에는 주이스 데 포라와 우바의 침수된 도로가 보이며, 강이 제방을 넘어 방향을 바꾸어 지역을 침수시켰습니다. 당국은 또한 사람들에게 산사태 위험 지역을 피하라고 경고했습니다. 루이스 이나시우 룰라 다 실바 브라질 대통령은 자신의 소셜 미디어를 통해 보안군이 홍수로 피해를 입은 사람들에게 긴급 구조 및 지원을 제공하기 위해 신속하게 대응하고 있다고 밝혔습니다. 브라질 국립 기상 연구소(Inmet)는 성명에서 언덕, 계곡 및 경사면 근처에 위치한 미나스제라이스 주에 더 많은 비가 내릴 것이라고 밝혔습니다. 주이스 데 포라 시는 2월에 예상했던 것보다 더 많은 강우량을 받았다고 발표했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 안전에 대한 잠재적 위협 (홍수). 태국에서 먼 지역이지만, 해외여행 안전에 대한 인식을 높이는 차원에서 포함.",
+      "event_info": {
+        "date": null,
+        "location": "브라질 남동부",
+        "price": null,
+        "location_google_map_query": "브라질 남동부"
+      },
+      "references": [
+        {
+          "title": "บราซิลอ่วม น้ำท่วมรุนแรงในภาคใต้ ดับแล้ว 23 ศพ อพยพนับร้อย",
+          "url": "https://www.thairath.co.th/news/foreign/2916276",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP23UFrrsZj7M.jpg"
+        }
+      ],
+      "collected_at": "06:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP23UFrrsZj7M.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "미국 뉴스 앵커, 실종된 어머니 찾기 위해 100만 달러 현상금 걸어",
+      "summary": "- 미국 유명 뉴스 앵커, 실종된 어머니를 찾는 데 결정적인 정보 제공자에게 100만 달러 제공.\n- 84세인 어머니는 애리조나주 투손의 집에서 납치된 것으로 추정.\n- 가족은 기적을 바라며, 어머니의 무사 귀환을 위해 모든 노력을 기울이고 있음.",
+      "full_translated": "미국의 유명 여성 뉴스 앵커가 납치된 것으로 추정되어 거의 한 달 동안 실종된 어머니를 찾는 데 도움이 되는 정보 제공자에게 100만 달러의 상금을 제공했습니다. 2069년 2월 24일 화요일, 미국의 유명 뉴스 앵커인 사바나 거스리는 가족들이 84세의 어머니를 데려오는 정보에 대해 100만 달러의 상금을 제공할 것이라고 발표했습니다. NBC 뉴스 쇼의 발표자는 눈물을 글썽이며 인스타그램 비디오를 통해 그들은 애리조나 주 투손에 있는 집에서 납치된 것으로 의심되는 낸시 거스리의 실종으로 큰 고통을 겪고 있다고 말했습니다. \"우리는 여전히 기적을 믿고 있습니다. 우리는 희망이 희미하더라도 그녀가 집에 돌아갈 수 있다고 믿습니다.\"라고 뉴스 앵커는 말했습니다. \"동시에 우리는 그녀가 길을 잃었거나 세상을 떠났거나 그녀가 사랑하는 하나님께 돌아갔을 수도 있다는 것을 알고 있습니다.\" 사바나 거스리는 또한 그녀의 가족이 실종 및 착취 아동을 위한 국립 센터에 50만 달러를 기부할 것이라고 말하며 \"부디 이 메시지를 듣고 기다리고 있지만 확신이 서지 않는다면 이것이 앞으로 나아갈 수 있는 신호가 되기를 바랍니다. 당신이 알고 있는 것을 말하고 우리가 사랑하는 어머니를 집으로 데려와 기적적인 귀환을 함께 축하하거나 어머니가 평생 살아오신 아름답고 용감하며 숭고한 삶을 함께 기릴 수 있도록 도와주세요.\" 피닉스 FBI는 X 플랫폼을 통해 거스리의 행방에 대한 \"직접적인 정보\"를 가진 사람은 연락해 달라고 게시했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 사건은 아니지만, 해외에서 발생한 납치 사건에 대한 내용으로 여행객들에게 주의를 환기시킬 필요가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "투손, 애리조나",
+        "price": "100만 달러 (현상금)",
+        "location_google_map_query": "투손, 애리조나"
+      },
+      "references": [
+        {
+          "title": "ผู้ประกาศข่าวสหรัฐฯ เสนอรางวัล 1 ล้านดอลลาร์ ตามหาแม่ที่ถูกลักพาตัว",
+          "url": "https://www.thairath.co.th/news/foreign/2916273",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3GmDICT96eu.jpg"
+        }
+      ],
+      "collected_at": "06:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3GmDICT96eu.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "파타야, 국제 평화 도시 20주년 기념 행사 개최",
+      "summary": "- 파타야는 2006년 태국 최초로 로터리 국제 평화 도시로 지정됨.\n- 기념식은 파타야 평화공원에서 평화 기념비를 중심으로 진행됨.\n- 로터리 클럽은 다양한 기관과 협력하여 매년 평화 이니셔티브를 추진하고 있음.",
+      "full_translated": "파타야 시장은 “파타야 로터리 국제 평화 도시” 20주년 기념 행사에 참여하여 글로벌 평화 허브로서의 역할을 강화했습니다.\n\n이 행사는 오전 10시에 카오 프라 탐낙(프라툼낙 언덕)의 파타야 평화공원에 있는 평화 기념비(파타야 평화 기념비라고도 함)에서 열렸습니다. 이 기념식은 2006년 2월 23일(불기 2549년) 파타야가 로터리 인터내셔널과 지역 당국에 의해 태국 최초로 로터리 국제 평화 도시로 공식 지정된 역사적인 순간을 기념했습니다. 그 이후로 파타야 로터리 클럽은 마음의 평화, 가정의 평화, 지역 사회의 평화, 세계의 평화의 네 가지 차원에서 매년 다양한 조직과 협력하여 평화 이니셔티브를 추진해 왔습니다. 이러한 노력의 핵심 상징은 검은 화강암으로 만들어졌으며 “지구에 평화가 깃들기를”이라는 메시지가 새겨진 “평화의 기둥”이 특징인 평화 기념비 자체입니다. 아름다운 파타야 평화공원에 위치한 이 기념비는 평화가 달성 가능하며 모두가 함께 만들어갈 수 있는 공유 가치라는 강력한 메시지를 전달합니다.\n\n로터리 인터내셔널 평화 도시 프로그램은 1992년 와가 와가 쿠링가이 로터리 클럽에서 시작되었으며, 지역 사회 수준에서 평화 문화를 개발하는 것을 목표로 합니다. 매년 전 세계 클럽은 로터리의 세계 평화 및 이해의 날에 평화 구축 및 지역 사회 봉사 노력을 기리는 행사를 개최하고, 로터리 클럽, 정부 기관 및 기타 조직 간의 팀워크를 장려합니다. 기념 행사에서는 또한 최신 정보를 선보였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야의 지역 행사 정보 제공. 여행객들에게 특별한 영향은 적으나, 파타야 방문객에게는 흥미로운 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-02-23",
+        "location": "Pattaya Peace Park, Khao Phra Tamnak",
+        "price": "무료",
+        "location_google_map_query": "Pattaya Peace Park"
+      },
+      "references": [
+        {
+          "title": "Pattaya Mayor Joins Celebration of 20th Anniversary of “Pattaya Rotary International City of Peace,” Reinforcing Role as a Global Peace Hub",
+          "url": "https://thepattayanews.com/2026/02/24/pattaya-mayor-joins-celebration-of-20th-anniversary-of-pattaya-rotary-international-city-of-peace-reinforcing-role-as-a-global-peace-hub/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718812862393401531152903873569.jpg?v=1771881670"
+        }
+      ],
+      "collected_at": "06:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718812862393401531152903873569.jpg?v=1771881670",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 사육 호랑이 산업, 72마리 폐사 후 반발 직면",
+      "summary": "- 태국의 사육 호랑이 산업이 큰 비판에 직면했습니다.\n- 최근 사육 중인 호랑이 72마리가 폐사한 사건이 발생했습니다.\n- 이 사건으로 인해 동물 복지 및 사육 환경에 대한 우려가 커지고 있습니다.",
+      "full_translated": "태국의 사육 호랑이 산업은 72마리의 큰 고양이가 죽은 후 반발에 직면해 있습니다. 사우스 차이나 모닝 포스트",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "동물 복지 문제는 여행객에게 간접적인 영향을 줄 수 있으며, 관련 시설 방문 시 주의가 필요할 수 있음. 다만, 직접적인 위협은 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s captive tiger industry faces backlash after 72 big cats die - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVNad0t6R1ItRktWWVJIZDdmdGgxMFB1NnVwSHlCRFpWVXJCalJ3NzlldElJbFg1eGc0ejNfZ0tUYkJDSTlMMTlUekNnV054WUZvc25wRzNuQzdnWWdsUnFYODRFbVZYU2dvZzltNXNERnBMQzBhZnNmbk5uSl95NHp4Q3pISFl6N2NlRFpSYlZPcVYyNU9KemdmZjJmMk1POWdTRE0tNzZjRC1HSjlxbW9mOWRJQWc4cGdCLVNuNmPSAcABQVVfeXFMUHlLcEltRTJsMzd1MmFsV01aT19rWGlWQVBUZWJHWG5uWjhXcjh1Vng0bFc0MWIwOGJuNmctZjVfV3ZBVXFLdjRxMFl5aDV2S1poOW1JWjVBalhQMnZiRFFacUs5WGhpTENyY0o4SEtVOTlVWk5uS0RLc1JEb0xEamYxY3ljNm1yOUUzMWhLUnBKNTF1WDc4NTRtWndBLWh4Uzc2cXBTODRrTlBrVXBfZFpjQklBdktpRW8zb0Q1ZlVY?oc=5",
+          "source": "South China Morning Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:36",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 산업 부동산, 불확실성 속에서도 강세 유지",
+      "summary": "- CBRE 태국에 따르면 산업 및 물류 부동산 부문은 견조한 수요와 정부 지원에 힘입어 다른 부문보다 뛰어난 성과를 보이고 있음.\n- 데이터 센터 투자는 작년에 6배 증가하여 6천억 바트 이상을 기록했으며, 반도체를 포함한 고부가가치 서비스는 3배 증가한 1,750억 바트 이상을 기록함.\n- 전기차(EV)는 2023년에 비해 2025년에는 70~80억 바트로 급격히 감소했지만, 산업용 토지에 대한 수요는 2026년부터 정상화될 것으로 예상됨.",
+      "full_translated": "산업 및 물류 부동산 부문은 다른 부문보다 뛰어난 성과를 지속적으로 보여주고 있으며, 이는 견조한 수요와 지속적인 정부 지원에 힘입은 결과라고 부동산 컨설팅 회사 CBRE 태국이 밝혔습니다. CBRE 태국의 컨설팅 및 연구 책임자인 초티카 퉁시리스럽은 산업 부문이 지난 5년간 뛰어난 성과를 거두었으며 2026년까지도 견조한 성과를 이어갈 것으로 예상된다고 말했습니다. 그녀는 “이 부문의 성장은 높은 사전 약정 수준과 지속적인 정부 지원에 의해 뒷받침되고 있습니다.”라고 덧붙였습니다. 미국 대통령 트럼프의 관세가 불법이라는 대법원의 판결에도 불구하고 투자자들의 결정은 바뀌지 않았는데, 이는 모든 사람이 그 문제가 여전히 불확실하다는 것을 이해하고 있기 때문입니다. 태국 투자청(BoI)의 승인을 기준으로 한 세 가지 주요 목표 산업 중 데이터 센터에 대한 투자는 작년에 6배 증가하여 6천억 바트 이상을 기록하며 가장 강력한 성장세를 보였습니다. 그 뒤를 이어 반도체를 포함한 고부가가치 서비스가 3배 증가하여 1,750억 바트 이상을 기록했습니다. 2023년 최고의 성과를 냈던 전기차(EV)는 2025년에는 70~80억 바트로 급격히 둔화되었는데, 이는 2023년의 거의 300억 바트에서 감소한 수치입니다. EV 산업에 힘입어 4년 연속 성장한 후 새롭게 서비스된 산업용 토지에 대한 수요는 2026년부터 정상화되기 시작할 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 동향 관련 정보로, 여행객에게 직접적인 영향은 적으나 참고할 만한 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Industrial property defies uncertainty",
+          "url": "https://www.bangkokpost.com/business/general/3204570/industrial-property-defies-uncertainty",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204570_260225010459_700.jpg"
+        }
+      ],
+      "collected_at": "06:36",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204570_260225010459_700.jpg",
       "date": "2026-02-25"
     }
   ]
