@@ -1321,42 +1321,47 @@ def render_tab_news():
             st.markdown("---")
             with st.container():
                 st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
-                col_prev, col_input, col_total, col_next = st.columns([2, 2, 1, 2], vertical_alignment="bottom")
                 
-                with col_prev:
-                    if st.session_state["current_page"] > 1:
-                        if st.button(utils.t("prev"), width='stretch', key="p_prev"):
-                            st.session_state["current_page"] -= 1
-                            st.rerun()
-                    else:
-                        st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
-                        
-                with col_input:
-                    # Direct Page Input
-                    page_label = "Page" if st.session_state.get('language') == 'English' else "페이지"
-                    new_page = st.number_input(
-                        page_label,
-                        min_value=1,
-                        max_value=total_pages,
-                        value=st.session_state["current_page"],
-                        key="direct_page_input",
-                        label_visibility="collapsed"
-                    )
-                    if new_page != st.session_state["current_page"]:
-                        st.session_state["current_page"] = new_page
-                        st.rerun()
+                # Outer columns for centering on PC
+                spacer_left, center_col, spacer_right = st.columns([1, 1.5, 1])
                 
-                with col_total:
-                    # Centered text with padding to align with the input box vertically
-                    st.markdown(f"<div style='text-align: center; padding-bottom: 10px; font-size: 0.95rem; font-weight: bold;'>/ {total_pages}</div>", unsafe_allow_html=True)
+                with center_col:
+                    col_prev, col_input, col_total, col_next = st.columns([2, 2, 1, 2], vertical_alignment="bottom")
                     
-                with col_next:
-                    if st.session_state["current_page"] < total_pages:
-                        if st.button(utils.t("next"), width='stretch', key="p_next"):
-                            st.session_state["current_page"] += 1
+                    with col_prev:
+                        if st.session_state["current_page"] > 1:
+                            if st.button(utils.t("prev"), width='stretch', key="p_prev"):
+                                st.session_state["current_page"] -= 1
+                                st.rerun()
+                        else:
+                            st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
+                            
+                    with col_input:
+                        # Direct Page Input
+                        page_label = "Page" if st.session_state.get('language') == 'English' else "페이지"
+                        new_page = st.number_input(
+                            page_label,
+                            min_value=1,
+                            max_value=total_pages,
+                            value=st.session_state["current_page"],
+                            key="direct_page_input",
+                            label_visibility="collapsed"
+                        )
+                        if new_page != st.session_state["current_page"]:
+                            st.session_state["current_page"] = new_page
                             st.rerun()
-                    else:
-                        st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
+                    
+                    with col_total:
+                        # Centered text with padding to align with the input box vertically
+                        st.markdown(f"<div style='text-align: center; padding-bottom: 10px; font-size: 0.95rem; font-weight: bold;'>/ {total_pages}</div>", unsafe_allow_html=True)
+                        
+                    with col_next:
+                        if st.session_state["current_page"] < total_pages:
+                            if st.button(utils.t("next"), width='stretch', key="p_next"):
+                                st.session_state["current_page"] += 1
+                                st.rerun()
+                        else:
+                            st.button(utils.t("next"), disabled=True, width='stretch', key="p_next_dis")
 
 @st.fragment
 def render_tab_taxi():
