@@ -1321,7 +1321,7 @@ def render_tab_news():
             st.markdown("---")
             with st.container():
                 st.markdown('<div class="pagination-container"></div>', unsafe_allow_html=True)
-                col_prev, col_info, col_next = st.columns([1, 0.8, 1])
+                col_prev, col_input, col_total, col_next = st.columns([2, 2, 1, 2], vertical_alignment="bottom")
                 
                 with col_prev:
                     if st.session_state["current_page"] > 1:
@@ -1331,7 +1331,7 @@ def render_tab_news():
                     else:
                         st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
                         
-                with col_info:
+                with col_input:
                     # Direct Page Input
                     page_label = "Page" if st.session_state.get('language') == 'English' else "페이지"
                     new_page = st.number_input(
@@ -1345,8 +1345,10 @@ def render_tab_news():
                     if new_page != st.session_state["current_page"]:
                         st.session_state["current_page"] = new_page
                         st.rerun()
-                    
-                    st.markdown(f"<div class='pagination-info' style='text-align:center; font-size: 0.9rem; margin-top: -5px;'><b>/ {total_pages}</b></div>", unsafe_allow_html=True)
+                
+                with col_total:
+                    # Centered text with padding to align with the input box vertically
+                    st.markdown(f"<div style='text-align: center; padding-bottom: 10px; font-size: 0.95rem; font-weight: bold;'>/ {total_pages}</div>", unsafe_allow_html=True)
                     
                 with col_next:
                     if st.session_state["current_page"] < total_pages:
