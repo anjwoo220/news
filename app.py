@@ -298,25 +298,6 @@ st.markdown("""
             padding-top: 70px !important;
         }
     }
-    
-        /* Pagination Row Fixes */
-        div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] {
-            display: flex !important; flex-direction: row !important; flex-wrap: nowrap !important;
-            align-items: center !important; justify-content: space-between !important; gap: 5px !important;
-        }
-        div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] > div {
-            min-width: 0 !important; flex: 1 1 0% !important;
-        }
-        div[data-testid="stVerticalBlock"]:has(.pagination-container) div[data-testid="stHorizontalBlock"] > div:nth-child(2) {
-            flex: 0.8 1 0% !important;
-        }
-        div[data-testid="stVerticalBlock"]:has(.pagination-container) button {
-            padding: 2px 5px !important; font-size: 0.75rem !important; min-height: 2.2rem !important; white-space: nowrap !important;
-        }
-        .pagination-info {
-            font-size: 0.85rem !important; padding-top: 5px !important;
-        }
-    }
 
     /* Dark Mode Support    /* Fixed Nav Dark Mode Fix */
     [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
@@ -1328,15 +1309,27 @@ def render_tab_news():
                 with center_col:
                     st.markdown("""
                     <style>
-                        /* 페이지네이션 버튼 강제 정상화 (알약 모양 해제) */
+                        /* 페이지네이션 구역 버튼 및 텍스트 강제 정상화 */
+                        div[data-testid="stHorizontalBlock"] div[data-testid="stButton"] {
+                            width: 100% !important;
+                            flex: 1 1 0% !important;
+                        }
                         div[data-testid="stHorizontalBlock"] div[data-testid="stButton"] > button {
                             width: 100% !important;
-                            max-width: 100% !important;
                             min-width: 100% !important;
-                            border-radius: 8px !important; /* 원래 Streamlit 기본 테두리 */
-                            padding: 0.5rem 1rem !important;
+                            height: auto !important;
+                            padding: 0.7rem 1rem !important;
+                            display: flex !important;
+                            justify-content: center !important;
+                            align-items: center !important;
+                        }
+                        /* 글자가 튀어나가는 현상(Overflow) 완벽 차단 */
+                        div[data-testid="stHorizontalBlock"] div[data-testid="stButton"] > button * {
+                            position: static !important;
+                            width: auto !important;
+                            overflow: visible !important;
+                            white-space: nowrap !important;
                             margin: 0 !important;
-                            display: block !important;
                         }
                     </style>
                     """, unsafe_allow_html=True)
