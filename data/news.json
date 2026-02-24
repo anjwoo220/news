@@ -35652,14 +35652,9 @@
       "summary": "- 멕시코 내 정부와 마약 카르텔 간의 무력 충돌 심화로 태국 대사관이 여행 주의보 발령.\n- 할리스코 신세대 카르텔(CJNG) 두목 '엘 멘초' 사망 후 폭력 사태 확산, 최소 25명의 국가 방위군 사망.\n- 대사관은 태국 여행객에게 뉴스 주시, 현지 당국 지침 준수, 혼잡한 장소 피할 것을 권고하며, 장거리 여행 자제를 당부.",
       "full_translated": "멕시코 여행은 연기해야 한다고 태국 대사관이 밝혔습니다.\n\n멕시코에 거주하거나 여행을 계획 중인 태국인들은 정부와 살해된 마약 두목 엘 멘초의 추종자들 간의 공개적인 전쟁이 여러 주에서 계속됨에 따라 각별한 주의를 기울이거나 여행을 연기하는 것이 좋습니다. 이번 여행 경고는 멕시코시티 주재 태국 대사관에서 발표했습니다.\n\n할리스코 신세대 카르텔(CJNG)의 지도자인 네메시오 \"엘 멘초\" 오세게라는 일요일 할리스코 주 타팔파 마을에서 군인들과의 총격전 중 치명적인 부상을 입었습니다. 그는 멕시코시티로 이송되던 중 사망했다고 당국은 밝혔습니다. 그의 사망은 마약 카르텔 조직원들의 폭력 사태를 촉발하여 25명의 국가 방위군을 포함해 많은 생명을 앗아갔다고 AFP는 화요일 보도했습니다.\n\n대사관은 태국 거주민과 방문 예정자들에게 뉴스를 면밀히 주시하고, 상황을 평가하고, 현지 당국의 지시를 따르고, 혼잡한 장소를 피할 것을 권고했습니다. 불안에는 공동체 재산 방화, 차량 방화, 정부 관리들에 대한 무장 공격, 도로 봉쇄 등이 포함됩니다. 따라서 이 기간 동안 장거리 도로 여행은 피해야 합니다.\n\n대사관은 극도의 주의가 필요한 18개 주를 열거했습니다. 여행이 필수적이지 않은 경우, 여행 예정자는 자신의 안전을 위해 멕시코 방문을 연기하는 것을 고려해야 한다고 대사관은 덧붙였습니다.\n\n태국 국민을 위한 긴급 지원은 전화 55-2564-2662 또는 LINE ID: thaiconsulate.mx를 통해 가능합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "멕시코 내 카르텔 관련 치안 불안정으로 태국 여행객에게 직접적인 안전 위협이 될 수 있으므로 필수적으로 포함. 기존 게시글과 달리 대사관 발표 내용과 구체적인 주의 사항이 추가되어 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "멕시코",
-        "price": null,
-        "location_google_map_query": "멕시코"
-      },
+      "event_info": "{'date': None, 'location': '멕시코', 'price': None, 'location_google_map_query': '멕시코'}",
       "references": [
         {
           "title": "Travel warning for Thais visiting war-torn Mexico",
@@ -35668,23 +35663,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204073_260224113958_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204073_260224113958_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204073/travel-warning-for-thais-visiting-wartorn-mexico",
+      "source": ""
     },
     {
       "title": "방콕, 2026년 심화되는 폭염 대비 냉방 센터 운영",
       "summary": "- 방콕시, 기온 상승에 대비하여 냉방 센터를 운영하여 주민들을 보호합니다.\n- 냉방 센터는 단기적인 더위 피난처를 제공하고 장기적인 도시 계획과 결합됩니다.\n- 2월 말부터 5월 중순까지 지속될 태국 더위에 대비하여 취약 계층을 보호합니다.",
       "full_translated": "방콕은 2026년 기온 상승과 기후 위험 증가에 대비하여 수도 전역에 에어컨이 설치된 냉방 센터를 운영하여 강화된 더위에 대한 대응을 강화하고 있습니다. 이는 주민들을 보호하기 위한 광범위한 열 관리 계획의 일환입니다. 방콕 메트로폴리탄 관리국(BMA)이 주도하는 이 최근 이니셔티브는 단기적인 구호와 장기적인 도시 계획을 결합합니다. 냉방실, 폭염 경보 및 확장된 녹지 공간은 이 전략의 핵심을 구성하며, 방콕 시 공무원들은 이 전략이 더위와 습도가 위험한 수준에 도달하는 가장 힘든 달 동안 취약 계층을 보호하도록 설계되었다고 말합니다. 이번 조치는 태국의 더운 계절이 2월 말부터 5월 중순까지 이어질 것이며 극심한 폭염 현상이 더욱 빈번하고 심각해질 것이라는 예측에 따른 것입니다. 방콕 당국은 건설 현장, 시장, 공원, 오토바이 택시 승강장, 빽빽하게 들어선 동네와 같이 개방되거나 인구 밀도가 높은 지역을 중심으로 도시 전역에 379개의 폭염 위험 구역을 확인했습니다. BKK 냉방 센터는 https://greener.bangkok.go.th/en/heat-escape-room 지도에서 찾을 수 있습니다. 즉각적인 대응의 중심에는 냉방실이라고도 알려진 BKK 냉방 센터가 있습니다. 이곳은 사람들이 방콕의 뜨거운 더위로부터 일시적으로 피난할 수 있는 에어컨이 설치된 실내 공간을 제공합니다. BMA는 이 센터의 목표가 열사병 및 일사병 환자 수를 줄이는 것이라고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객의 건강과 안전에 직접적인 영향을 미치는 정보이며, 특히 더위에 취약한 여행객에게 유용합니다. 2026년 정보이긴 하지만, 폭염에 대한 대비는 현재에도 유효합니다.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 전역",
-        "price": "무료",
-        "location_google_map_query": "방콕 냉방 센터"
-      },
+      "event_info": "{'date': None, 'location': '방콕 전역', 'price': '무료', 'location_google_map_query': '방콕 냉방 센터'}",
       "references": [
         {
           "title": "Bangkok rolls out cooling centres as heat risks rise in 2026",
@@ -35693,23 +35685,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204284_260224181707_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204284_260224181707_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/thailand/general/3204284/bangkok-rolls-out-cooling-centres-as-heat-risks-rise-in-2026",
+      "source": ""
     },
     {
       "title": "미스 티파니 2026 수영복 라운드",
       "summary": "- 태국 트랜스젠더 모델이자 배우인 Wasita \"Meepooh\" Chaikunchensakun이 미스 티파니 유니버스 2026 미인 대회에 참가합니다.\n- 미스 티파니 2026 (MTU2026) 결승전은 2월 28일 토요일, 태국 파타야의 티파니 쇼 파타야 극장에서 열립니다.\n- 이 대회는 태국 트랜스젠더 커뮤니티를 위한 중요한 행사입니다.",
       "full_translated": "Wasita \"Meepooh\" Chaikunchensakun을 만나보세요. 그녀는 태국 트랜스젠더 모델이자 배우이며 미스 티파니 유니버스 2026 미인 대회에 참가하고 있습니다. 미스 티파니 2026 (MTU2026) 결승전은 2월 28일 토요일, 태국 파타야의 티파니 쇼 파타야 극장에서 열릴 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야에서 열리는 유명 트랜스젠더 미인 대회 정보. 관심 있는 여행객에게는 흥미로운 이벤트 정보가 될 수 있음.",
-      "event_info": {
-        "date": "2026-02-28",
-        "location": "Tiffany's Show Pattaya Theatre, Pattaya, Thailand",
-        "price": "Unknown",
-        "location_google_map_query": "Tiffany's Show Pattaya Theatre"
-      },
+      "event_info": "{'date': '2026-02-28', 'location': \"Tiffany's Show Pattaya Theatre, Pattaya, Thailand\", 'price': 'Unknown', 'location_google_map_query': \"Tiffany's Show Pattaya Theatre\"}",
       "references": [
         {
           "title": "Miss Tiffany 2026 swimsuit round",
@@ -35718,23 +35707,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204233_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260224/c1_3204233_700.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/video/thailand/3204233/miss-tiffany-2026-swimsuit-round",
+      "source": ""
     },
     {
       "title": "미국 배우 로버트 카라딘, 71세로 사망",
       "summary": "- 영화 'The Long Riders'와 'Revenge of the Nerds' 등으로 유명한 배우 로버트 카라딘이 71세의 나이로 사망했습니다.\n- 그는 수십 년간 양극성 장애와 싸워왔으며, 가족들은 그의 용감한 투병을 기립니다.\n- 가족은 정신 질환에 대한 사회적 낙인을 없애는 데 기여하기를 희망한다고 밝혔습니다.",
       "full_translated": "미국 배우 로버트 카라딘이 71세의 나이로 사망했습니다. 그는 영화 'The Long Riders', 'Revenge of the Nerds', 그리고 TV 시리즈 'Lizzie McGuire'에서 활약했습니다. 그의 가족은 그가 수십 년 동안 양극성 장애와 싸워왔다고 밝혔습니다.\n\n가족들은 성명을 통해 \"때로는 어두워 보이는 세상에서 바비는 항상 주변 사람들에게 빛을 가져다주는 존재였습니다. 우리는 이 아름다운 영혼의 상실에 가슴 아파하며, 바비가 거의 20년 동안 양극성 장애와 용감하게 싸워온 것을 기립니다.\"라고 전했습니다. 또한, 그들은 그의 투병이 정신 질환 환자에 대한 사회적 낙인을 없애는 데 도움이 되기를 바란다고 덧붙였습니다.\n\n로버트 카라딘은 1954년 3월 24일에 태어났으며, 배우 존 카라딘의 막내 아들이자 데이비드 카라딘, 키스 카라딘, 크리스토퍼 카라딘의 동생입니다. 키스 카라딘은 Deadline과의 인터뷰에서 가족들이 동생의 양극성 장애 투병 이야기를 공유하고 싶어한다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행 관련 직접적인 영향은 없으나, 유명 배우의 사망 소식은 흥미로운 정보로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "โรเบิร์ต คาร์ราดีน นักแสดงรุ่นใหญ่ เสียชีวิตในวัย 71 ปี",
@@ -35743,23 +35729,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVQzGgOpiig5.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVQzGgOpiig5.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/foreign/2916269",
+      "source": ""
     },
     {
       "title": "태국 성 평등 활동가, 정치적 중립 선언",
       "summary": "- 태국 성 평등 운동가 Thanyawat Kamolwongwat이 정치적 중립을 선언하고 모든 정당과 협력할 의사를 밝힘.\n- 최근 성 평등을 위한 성명에 이름이 올라간 것에 대해, 공식적인 동의를 하지 않았다고 해명함.\n- 앞으로 지식, 연구, 프로젝트 및 공공 커뮤니케이션을 통해 성 평등 문제를 독립적으로 추진할 계획임.",
       "full_translated": "2024년 2월 24일, 전 인민당 하원 의원인 타냐왓 카몰웡왓은 페이스북에 성명을 발표했습니다. 성 평등을 위한 실무 그룹의 성명과 관련하여 다음과 같이 알립니다. 마하사라캄 지방의 후보자 선발 과정에 대한 실망감을 표명한 2024년 2월 24일 인민당은 타냐왓 카몰웡왓의 이름을 성명서 공동 서명자로 언급했습니다. 대중에게 명확히 하기 위해 다음과 같이 설명합니다. 1. 현재의 지위와 역할 현재 Tanya는 공공 정책 분석가이자 인권 운동가로 일하고 있습니다. 지식, 연구, 프로젝트 및 공공 커뮤니케이션 수준에서 성 평등 문제를 추진하는 데 중점을 둡니다. 앞으로의 작업은 독립적으로 수행될 것입니다. 어떤 정당의 소속이나 역할에 속하지 않고 모든 부문과 모든 정당과 동등하게 협력할 준비가 되어 있습니다. 2. 성명서 공동 서명 문제 Tanya는 아직 성명서 공동 서명을 확인하지 않았습니다. 이전에는 Sasinin Thamnithinan 씨로부터 때때로 자문을 구하는 연락을 받았습니다. 원칙적으로 태국 사회에서 성 평등을 추진하는 데 도움이 된다면 모든 정당에 기꺼이 자문을 제공합니다. 그러나 본 성명서의 경우 Tanya로부터 공식적인 서명 확인이 없었습니다. 공동 서명 요청 메시지는 밤에 보내졌고, 다시 알게 되었을 때는 이미 이름과 함께 성명이 게시되었습니다... Tanya는 반대 의견이 없습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ครูธัญ” แจ้งไม่ได้ลงชื่อแถลงการณ์คณะเสมอภาคทางเพศ ย้ำขอวางบทบาทเป็นกลาง",
@@ -35768,8 +35751,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVxLKcGVShhn.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPVxLKcGVShhn.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/politic/2916263",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 트랜스젠더 여성 5명이 독일인 관광객 폭행",
+      "summary": "- 파타야 해변 도로에서 독일인 관광객이 태국 트랜스젠더 여성들에게 폭행당하는 사건 발생.\n- 목격자들은 이 장면을 촬영하여 경찰에 증거로 제출했으며, 영상에는 5명의 트랜스젠더 여성들이 관광객과 싸우는 모습이 담겨 있음.\n- 피해자는 55세 독일 국적의 마르쿠스 산틀 씨로, 경찰에 진술에서 한 트랜스젠더 여성을 이전에 호텔 방으로 데려갔었다고 밝힘.",
+      "full_translated": "파타야 — 2월 24일, 파타야 해변 도로에서 태국 트랜스젠더 여성 그룹과 독일인 관광객 간의 심야 다툼으로 관광객이 부상을 입었다고 경찰이 밝혔습니다. 이 사건은 파타야 해변 소이 13 맞은편에서 발생하여 주변 사람들에게 경각심을 불러일으켰습니다. 사건의 일부는 목격자들이 영상으로 촬영하여 나중에 경찰에 증거로 제출했습니다. 영상에는 약 5명의 트랜스젠더 여성들이 외국인 관광객과 싸우고 폭행하는 모습이 담겨 있으며, 양측 모두 싸우는 동안 도로로 넘어졌습니다. 관광객은 부상을 입었습니다. 영상에서 누군가가 외국인의 지갑을 가져오라고 외치는 소리를 들을 수 있습니다. 어느 시점에서 관광객은 벗어나는 데 성공했습니다. 그룹 중 한 명이 흩어지기 전에 다른 사람들에게 사건을 녹화하지 말라고 경고하는 것을 들었습니다. 당국은 또한 현장의 빗물 배수구에 떨어진 휴대폰을 발견했습니다. 소방관들이 장치를 회수하기 위해 호출되었습니다. 한 선한 사마리아인은 기자들에게 관광객이 공격을 받고 가방을 가져가라는 외침을 들었다고 말했습니다. 관광객의 가방이 땅에 떨어지자 목격자는 가방을 집어 그에게 돌려주었고, 그룹을 화나게 했습니다. 다툼의 동기는 불분명하다고 목격자는 말했습니다. 부상당한 관광객은 나중에 55세의 독일 국적의 마르쿠스 산틀 씨로 확인되었습니다. 그는 경찰에 그날 밤 일찍 한 트랜스젠더 여성을 생물학적 여성으로 믿고 자신의 호텔 방으로 데려갔다고 말했습니다. 그 사람을 데리고 나간 후, 그는 나중에 3",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 영향을 줄 수 있으므로 게시 필요.",
+      "event_info": {
+        "date": "2026-02-24",
+        "location": "파타야 해변 도로",
+        "price": null,
+        "location_google_map_query": "Pattaya Beach Road"
+      },
+      "references": [
+        {
+          "title": "Five transgender women beat German tourist in Pattaya",
+          "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/02/24/five-transgender-women-beat-german-tourist-in-pattaya/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/7777888.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/7777888.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국-캄보디아 국경 지역 긴장 고조: 캄보디아군 포격에 태국군 응사",
+      "summary": "- 태국 육군은 캄보디아군이 시사켓 지방에서 40mm 포탄을 발사하여 태국 영토를 침범했다고 발표함.\n- 이에 태국군은 교전 규칙에 따라 M79 유탄 발사기로 대응 사격함.\n- 양측 사상자는 없었으며, 태국군은 해당 지역의 보안을 강화하고 상황을 면밀히 감시하고 있음.",
+      "full_translated": "태국 육군은 캄보디아군이 월요일 아침 시사켓 지방에서 정찰 임무 중 태국 영토에 40mm 박격포탄을 발사하여 교전 규칙에 따라 대응했다고 밝혔습니다. 부상자는 보고되지 않았습니다. 육군 대변인 윈타이 수바리 소장은 2월 24일, 제2군 지역이 시사켓의 플란 힌 패트 콘 근처에서 오전 8시 50분에 사건이 발생했다고 보고했다고 밝혔습니다. 태국군은 정상적인 정찰을 수행하던 중 캄보디아군이 태국 순찰 지점 근처에 40mm 박격포탄 1발을 발사했습니다. 폭발로 인해 태국 인명 피해는 발생하지 않았습니다. 사건 이후 태국군은 확립된 교전 규칙에 따라 사격 원점을 향해 M79 유탄 발사기로 대응 사격했습니다. 육군은 이 조치를 인원에 대한 보호와 할당된 지역 확보를 위한 경고이자 자위 행위로 설명했습니다. 윈타이 대변인은 캄보디아의 행동이 2025년 12월 27일 양측이 서명한 공동 성명에 명시된 휴전 협정을 위반했다고 말했습니다. 예비 평가는 이번 사건이 캄보디아 측의 부대 교체에서 비롯되었을 수 있으며, 새로 배치된 인력이 해당 지역의 작전 절차 및 지휘 감독에 대한 지식이 부족할 수 있음을 시사했습니다. 육군은 지상 부대가 보안 조치를 강화하고 상황 감시를 강화했으며 진행 중인 작전에서 고도의 주의를 기울이고 있으며, 병력의 안전을 강조하고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "국경 지역 긴장 고조는 여행객 안전에 잠재적 위협이 될 수 있으므로 관련 정보를 제공. 현재까지 직접적인 위협은 없으나, 상황을 주시할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "시사켓 지방, 태국-캄보디아 국경",
+        "price": null,
+        "location_google_map_query": "Si Sa Ket Province"
+      },
+      "references": [
+        {
+          "title": "Army: Cambodian 40mm round hits Thai soil, troops return fire with M79",
+          "url": "https://www.khaosodenglish.com/featured/2026/02/24/army-cambodian-40mm-round-hits-thai-soil-troops-return-fire-with-m79/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/jjjj.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/jjjj.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "수완나품 공항, 엑스레이 검색대 직원 응대에 대한 사과",
+      "summary": "- 수완나품 공항이 엑스레이 검색대 직원의 부적절한 행동에 대해 사과하고 서비스 개선을 약속했습니다.\n- 공항 측은 소셜 미디어의 비판에 대응하여 직원들의 태도와 감정 통제에 대한 우려를 해소하고자 한다고 밝혔습니다.\n- 공항은 모든 피드백을 직원 성과 개선에 활용하고, 정중한 태도와 명확한 의사소통을 강조할 것이라고 밝혔습니다.",
+      "full_translated": "수완나품 공항이 엑스레이 검색대 직원의 행동에 대해 사과했습니다. 방콕 – 2026년 2월 24일, 수완나품 공항은 엑스레이 검문소 보안 직원의 부적절한 행동에 대한 불만이 제기된 후 승객들에게 사과하고 검사 서비스 개선을 약속했습니다. 2월 24일에 발표된 성명에서 공항은 2026년 2월 23일에 게시된 소셜 미디어 비판에 대응하고 있다고 밝혔습니다. 해당 게시물은 수완나품 공항의 엑스레이 수하물 검사 직원이 왜 그렇게 사나운가? 의사소통 및 감정 통제에 대한 교육이 왜 더 잘 되어 있지 않은가? 라는 질문을 제기했습니다. 이 댓글은 수하물 엑스레이 검문소 담당 직원의 부적절한 언어 사용 및 몸짓에 대한 광범위한 소셜 미디어 불만을 촉발했습니다. 공항은 이번 사건에 대해 모든 승객에게 사과하고 제기된 우려 사항을 인정한다고 밝혔습니다. 또한 모든 피드백을 직원 성과 개선에 활용하여 정중한 태도, 예의 바름 및 명확한 의사소통을 강조할 것이라고 밝혔습니다. 수완나품 공항은 수하물 엑스레이 검문소의 보안 운영을 담당하는 회사에 서비스 효율성을 개선하도록 지시했습니다. 또한 해당 회사에 운영 준비 태세, 정중한 서비스, 정확하고 적절한 정보를 승객에게 제공해야 할 필요성을 강조하면서 각 근무조 전에 모든 직원과 매일 브리핑을 실시하라는 명령을 내렸습니다. 공항은 또한 해당 회사에 추가 고객 서비스 교육을 실시하도록 지시했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "공항 서비스 관련 불만 사항 개선 약속. 여행객 경험에 직접적인 영향. 공항 이용 시 불편함 감소 기대.",
+      "event_info": {
+        "date": null,
+        "location": "수완나품 공항",
+        "price": null,
+        "location_google_map_query": "Suvarnabhumi Airport"
+      },
+      "references": [
+        {
+          "title": "Suvarnabhumi apologises over X-ray staff conduct",
+          "url": "https://www.khaosodenglish.com/news/2026/02/24/suvarnabhumi-apologises-over-x-ray-staff-conduct/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Suvarnabhumi-apologises-over-X-ray-staff-conduct.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Suvarnabhumi-apologises-over-X-ray-staff-conduct.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 반부패위원회, 검찰총장과 사건 이송 문제 논의",
+      "summary": "- 태국 반부패위원회(P.P.C.)는 검찰총장과 사건 이송 절차의 문제점을 해결하기 위한 회의를 개최함.\n- 회의 주요 내용은 불완전한 사안 결정, 공동 위원회 회의 문제, 기소 또는 반부패위로 사건 반환 문제 등임.\n- 양 기관은 부패 사건 처리의 효율성을 높이기 위해 협력 방안을 모색하고 있음.",
+      "full_translated": "태국 반부패위원회(P.P.C.)는 검찰총장과 협력하여 두 기관 간 사건 이송 과정에서 발생하는 문제점을 해결하기 위한 회의를 개최했습니다. 2069년 2월 24일, 반부패위원회 사무국은 반부패위원회와 검찰총장 간의 업무 협력 및 문제 해결을 위한 실무 그룹 회의를 개최했습니다. \n\n수라퐁 인타라타본 반부패위원회 사무총장이 회의 의장을 맡았고, 러차타 파놈완 부패 방지 사무차장, 반부패위원회 사무국 실무 그룹, 검찰총장 사무국 실무 그룹이 회의에 참석했습니다. 회의는 반부패위원회 사무국 4층 논타부리 3 회의실에서 진행되었습니다. 솜시리 참난차난 부패 방지 사무국 검사장은 화상 회의 시스템을 통해 회의에 참여했습니다.\n\n이번 회의의 목적은 반부패위원회와 검찰총장의 권한에 따른 업무 수행 과정에서 발생하는 문제점을 해결하고, 다른 분야에서의 공식적인 문제와 실무 지침에 대해 논의하며, 회의 결과를 반부패위원회에 보고하여 실무 지침을 결정하는 것입니다. 회의에서는 다음과 같은 다양한 문제에 대한 논의가 이루어졌습니다. 1) 문제점을 결정하고 불완전한 사항을 고려하는 방법 2) 공동 위원회 회의의 문제점 3) 기소를 위해 검찰총장에게 사건을 이송하거나 반부패위원회에 사건을 반환하여 자체적으로 기소하도록 하는 문제점 ... 4) 반부패위원회 사무국 직원과 검사 간의 사건 조정 문제 5) 검찰총장에게 이송된 사건의 진행 상황.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 부패 관련 기관의 협력에 대한 내용으로, 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 태국 사회의 이슈를 이해하는 데 도움이 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ป.ป.ช.หารืออัยการสูงสุด แก้ไขปัญหาข้อขัดข้องส่งต่อสำนวนคดีระหว่างองค์กร",
+          "url": "https://www.thairath.co.th/news/politic/2916248",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjQMetH3ta7SA9.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjQMetH3ta7SA9.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "우크라이나 전쟁 4년, 평화를 원하는 우크라이나 국민, 목표 달성 못 했다는 러시아",
+      "summary": "- 러시아의 우크라이나 침공 4주년, 우크라이나 국민들은 계속되는 공격과 기반 시설 파괴로 고통받고 있음.\n- 키이우 시민들은 전쟁 발발 당시를 회상하며 평화를 염원하고 있으며, 러시아 대통령의 결단에 전쟁 종식이 달려 있다고 보고 있음.\n- 젤렌스키 대통령은 푸틴 대통령에게 협상 테이블에 앉을 것을 촉구했지만, 러시아는 목표 달성까지 전쟁을 계속할 것이라고 밝힘.",
+      "full_translated": "러시아의 우크라이나 전면 침공이 4년을 맞이했습니다. 우크라이나 국민은 언제 끝날지 모르는 전쟁 속에서 고통스러운 삶을 이어가고 있으며, 러시아는 아직 전쟁 목표를 달성하지 못했다고 밝혔습니다. 외신 보도에 따르면, 러시아의 우크라이나 전면 침공이 2069년 2월 24일 4주년을 맞았습니다. 우크라이나 국민들은 매일 계속되는 공격에 시달리고 있으며, 기반 시설 파괴로 인해 전기와 수도 공급이 끊긴 채 생활하고 있습니다.\n\n키이우 시민들은 러시아의 전면 침공 4주년을 맞아 전쟁의 기억을 되새겼습니다. 48세의 스비틀라나 유르 씨는 \"전쟁이 일어나지 않기를 마지막 순간까지 희망했다\"고 말했습니다. 그녀는 로이터 통신과의 인터뷰에서 \"2022년 2월 24일 아침, 폭발 소리에 잠에서 깼을 때도 타이어가 터지는 소리인 줄 알았다\"고 회상했습니다. 많은 사람들이 이 전쟁이 얼마나 더 오래 지속될지 궁금해합니다. 63세의 교사 빅토르 부이놉스키 씨는 모든 것이 푸틴 대통령에게 달려 있다고 생각합니다. 그는 \"모든 것은 단 한 사람, 즉 러시아 대통령에게 달려 있습니다. 그가 이 전쟁을 시작했고, 그가 끝내야 합니다.\"라고 말했습니다. 키이우 시민이자 참전 군인의 어머니인 루드밀라 타란 씨는 전쟁이 가능한 한 빨리 끝나기를 바라고 있습니다. 그녀는 \"내 아들이 4년 동안 전선에 있습니다. 오늘이라도 당장 끝나기를 바랍니다.\"라며, \"윗선에 있는 사람들이 이 문제를 해결해야 합니다. 그들이 어떤 결정을 내리든 상관없지만, 나는 평화를 원합니다.\"라고 덧붙였습니다. 볼로디미르 젤렌스키 우크라이나 대통령은 블라디미르 푸틴 러시아 대통령에게 협상 테이블에 앉을 것을 촉구했지만, 드미트리 페스코프 크렘린궁 대변인은 러시아가 우크라이나에서 '특별 군사 작전'의 목표를 달성할 때까지 계속할 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세에 대한 배경지식 제공. 여행 안전에 영향을 주는 요소는 아니므로 낮은 점수.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สงครามครบ 4 ปี ชาวยูเครนต้องการสันติ รัสเซียลั่นยังไม่บรรลุเป้าหมาย",
+          "url": "https://www.thairath.co.th/news/foreign/2916270",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3WDe4Q0Uy8d.jpg"
+        }
+      ],
+      "collected_at": "01:50",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3WDe4Q0Uy8d.jpg",
       "date": "2026-02-25"
     }
   ]
