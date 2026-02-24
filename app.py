@@ -1326,8 +1326,9 @@ def render_tab_news():
                 spacer_left, center_col, spacer_right = st.columns([1, 1.5, 1])
                 
                 with center_col:
+                    st.markdown('<div class="pagination-buttons">', unsafe_allow_html=True)
                     # Row 1: Left and Right buttons
-                    col_prev, col_next = st.columns(2)
+                    col_prev, col_next = st.columns(2, gap="large")
                     
                     with col_prev:
                         btn_label_prev = "⬅️ Previous" if st.session_state.get('language') == 'English' else "⬅️ 이전"
@@ -1346,6 +1347,7 @@ def render_tab_news():
                                 st.rerun()
                         else:
                             st.button(btn_label_next, disabled=True, use_container_width=True, key="p_next_dis")
+                    st.markdown('</div>', unsafe_allow_html=True)
                             
                     # Row 2: Page selection input
                     st.markdown("<br>", unsafe_allow_html=True)
