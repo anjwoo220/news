@@ -1332,7 +1332,21 @@ def render_tab_news():
                         st.button(utils.t("prev"), disabled=True, width='stretch', key="p_prev_dis")
                         
                 with col_info:
-                    st.markdown(f"<div class='pagination-info' style='text-align:center; padding-top:10px;'><b>{st.session_state['current_page']} / {total_pages}</b></div>", unsafe_allow_html=True)
+                    # Direct Page Input
+                    page_label = "Page" if st.session_state.get('language') == 'English' else "페이지"
+                    new_page = st.number_input(
+                        page_label,
+                        min_value=1,
+                        max_value=total_pages,
+                        value=st.session_state["current_page"],
+                        key="direct_page_input",
+                        label_visibility="collapsed"
+                    )
+                    if new_page != st.session_state["current_page"]:
+                        st.session_state["current_page"] = new_page
+                        st.rerun()
+                    
+                    st.markdown(f"<div class='pagination-info' style='text-align:center; font-size: 0.9rem; margin-top: -5px;'><b>/ {total_pages}</b></div>", unsafe_allow_html=True)
                     
                 with col_next:
                     if st.session_state["current_page"] < total_pages:
