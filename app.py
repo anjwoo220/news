@@ -1328,19 +1328,15 @@ def render_tab_news():
                 with center_col:
                     st.markdown("""
                     <style>
-                        /* 페이지네이션 하단 영역의 버튼 스타일 강제 초기화 */
-                        div[data-testid="column"] .stButton > button:has(p:contains("이전")),
-                        div[data-testid="column"] .stButton > button:has(p:contains("다음")),
-                        div[data-testid="column"] .stButton > button:has(p:contains("Previous")),
-                        div[data-testid="column"] .stButton > button:has(p:contains("Next")) {
+                        /* 페이지네이션 버튼 강제 정상화 (알약 모양 해제) */
+                        div[data-testid="stHorizontalBlock"] div[data-testid="stButton"] > button {
                             width: 100% !important;
-                            margin: 0 !important;
+                            max-width: 100% !important;
+                            min-width: 100% !important;
+                            border-radius: 8px !important; /* 원래 Streamlit 기본 테두리 */
                             padding: 0.5rem 1rem !important;
-                            border-radius: 8px !important;
-                            position: relative !important;
-                            transform: none !important;
-                            display: flex !important;
-                            justify-content: center !important;
+                            margin: 0 !important;
+                            display: block !important;
                         }
                     </style>
                     """, unsafe_allow_html=True)
