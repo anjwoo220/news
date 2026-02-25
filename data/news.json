@@ -36376,14 +36376,9 @@
       "summary": "- 브라질 남동부 지역에 폭우로 인한 홍수와 산사태 발생\n- 최소 23명 사망, 수백 명 대피\n- 기상청, 추가적인 폭우 예보",
       "full_translated": "브라질 남동부 도시들이 폭우로 심각한 홍수와 산사태를 겪고 있습니다. 현재까지 23명이 사망했으며 수백 명이 대피했습니다. 2026년 2월 24일 화요일, 브라질 당국은 국가 남동부의 심각한 홍수로 인해 최소 23명이 사망하고 미나스제라이스 주에서 수십 명이 실종되었다고 밝혔습니다. 기상학자들은 이 지역에 며칠 동안 더 많은 폭우가 내릴 것이라고 경고했습니다. 폭우는 월요일 주이스 데 포라와 우바에서 시작되었고, 이 두 도시는 리우데자네이루에서 북쪽으로 약 310km 떨어져 있으며, 약 440명의 주민이 집에서 대피해야 했습니다. 미나스제라이스 주 소방서는 월요일 늦은 밤부터 실종된 거의 45명을 수색하고 있습니다. 당국이 공개한 영상에는 주이스 데 포라와 우바의 침수된 도로가 보이며, 강이 제방을 넘어 방향을 바꾸어 지역을 침수시켰습니다. 당국은 또한 사람들에게 산사태 위험 지역을 피하라고 경고했습니다. 루이스 이나시우 룰라 다 실바 브라질 대통령은 자신의 소셜 미디어를 통해 보안군이 홍수로 피해를 입은 사람들에게 긴급 구조 및 지원을 제공하기 위해 신속하게 대응하고 있다고 밝혔습니다. 브라질 국립 기상 연구소(Inmet)는 성명에서 언덕, 계곡 및 경사면 근처에 위치한 미나스제라이스 주에 더 많은 비가 내릴 것이라고 밝혔습니다. 주이스 데 포라 시는 2월에 예상했던 것보다 더 많은 강우량을 받았다고 발표했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전에 대한 잠재적 위협 (홍수). 태국에서 먼 지역이지만, 해외여행 안전에 대한 인식을 높이는 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": "브라질 남동부",
-        "price": null,
-        "location_google_map_query": "브라질 남동부"
-      },
+      "event_info": "{'date': None, 'location': '브라질 남동부', 'price': None, 'location_google_map_query': '브라질 남동부'}",
       "references": [
         {
           "title": "บราซิลอ่วม น้ำท่วมรุนแรงในภาคใต้ ดับแล้ว 23 ศพ อพยพนับร้อย",
@@ -36392,23 +36387,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP23UFrrsZj7M.jpg"
         }
       ],
-      "collected_at": "06:36",
+      "collected_at": "6:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP23UFrrsZj7M.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/foreign/2916276",
+      "source": ""
     },
     {
       "title": "미국 뉴스 앵커, 실종된 어머니 찾기 위해 100만 달러 현상금 걸어",
       "summary": "- 미국 유명 뉴스 앵커, 실종된 어머니를 찾는 데 결정적인 정보 제공자에게 100만 달러 제공.\n- 84세인 어머니는 애리조나주 투손의 집에서 납치된 것으로 추정.\n- 가족은 기적을 바라며, 어머니의 무사 귀환을 위해 모든 노력을 기울이고 있음.",
       "full_translated": "미국의 유명 여성 뉴스 앵커가 납치된 것으로 추정되어 거의 한 달 동안 실종된 어머니를 찾는 데 도움이 되는 정보 제공자에게 100만 달러의 상금을 제공했습니다. 2069년 2월 24일 화요일, 미국의 유명 뉴스 앵커인 사바나 거스리는 가족들이 84세의 어머니를 데려오는 정보에 대해 100만 달러의 상금을 제공할 것이라고 발표했습니다. NBC 뉴스 쇼의 발표자는 눈물을 글썽이며 인스타그램 비디오를 통해 그들은 애리조나 주 투손에 있는 집에서 납치된 것으로 의심되는 낸시 거스리의 실종으로 큰 고통을 겪고 있다고 말했습니다. \"우리는 여전히 기적을 믿고 있습니다. 우리는 희망이 희미하더라도 그녀가 집에 돌아갈 수 있다고 믿습니다.\"라고 뉴스 앵커는 말했습니다. \"동시에 우리는 그녀가 길을 잃었거나 세상을 떠났거나 그녀가 사랑하는 하나님께 돌아갔을 수도 있다는 것을 알고 있습니다.\" 사바나 거스리는 또한 그녀의 가족이 실종 및 착취 아동을 위한 국립 센터에 50만 달러를 기부할 것이라고 말하며 \"부디 이 메시지를 듣고 기다리고 있지만 확신이 서지 않는다면 이것이 앞으로 나아갈 수 있는 신호가 되기를 바랍니다. 당신이 알고 있는 것을 말하고 우리가 사랑하는 어머니를 집으로 데려와 기적적인 귀환을 함께 축하하거나 어머니가 평생 살아오신 아름답고 용감하며 숭고한 삶을 함께 기릴 수 있도록 도와주세요.\" 피닉스 FBI는 X 플랫폼을 통해 거스리의 행방에 대한 \"직접적인 정보\"를 가진 사람은 연락해 달라고 게시했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 사건은 아니지만, 해외에서 발생한 납치 사건에 대한 내용으로 여행객들에게 주의를 환기시킬 필요가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "투손, 애리조나",
-        "price": "100만 달러 (현상금)",
-        "location_google_map_query": "투손, 애리조나"
-      },
+      "event_info": "{'date': None, 'location': '투손, 애리조나', 'price': '100만 달러 (현상금)', 'location_google_map_query': '투손, 애리조나'}",
       "references": [
         {
           "title": "ผู้ประกาศข่าวสหรัฐฯ เสนอรางวัล 1 ล้านดอลลาร์ ตามหาแม่ที่ถูกลักพาตัว",
@@ -36417,23 +36409,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3GmDICT96eu.jpg"
         }
       ],
-      "collected_at": "06:36",
+      "collected_at": "6:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP3GmDICT96eu.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/foreign/2916273",
+      "source": ""
     },
     {
       "title": "파타야, 국제 평화 도시 20주년 기념 행사 개최",
       "summary": "- 파타야는 2006년 태국 최초로 로터리 국제 평화 도시로 지정됨.\n- 기념식은 파타야 평화공원에서 평화 기념비를 중심으로 진행됨.\n- 로터리 클럽은 다양한 기관과 협력하여 매년 평화 이니셔티브를 추진하고 있음.",
       "full_translated": "파타야 시장은 “파타야 로터리 국제 평화 도시” 20주년 기념 행사에 참여하여 글로벌 평화 허브로서의 역할을 강화했습니다.\n\n이 행사는 오전 10시에 카오 프라 탐낙(프라툼낙 언덕)의 파타야 평화공원에 있는 평화 기념비(파타야 평화 기념비라고도 함)에서 열렸습니다. 이 기념식은 2006년 2월 23일(불기 2549년) 파타야가 로터리 인터내셔널과 지역 당국에 의해 태국 최초로 로터리 국제 평화 도시로 공식 지정된 역사적인 순간을 기념했습니다. 그 이후로 파타야 로터리 클럽은 마음의 평화, 가정의 평화, 지역 사회의 평화, 세계의 평화의 네 가지 차원에서 매년 다양한 조직과 협력하여 평화 이니셔티브를 추진해 왔습니다. 이러한 노력의 핵심 상징은 검은 화강암으로 만들어졌으며 “지구에 평화가 깃들기를”이라는 메시지가 새겨진 “평화의 기둥”이 특징인 평화 기념비 자체입니다. 아름다운 파타야 평화공원에 위치한 이 기념비는 평화가 달성 가능하며 모두가 함께 만들어갈 수 있는 공유 가치라는 강력한 메시지를 전달합니다.\n\n로터리 인터내셔널 평화 도시 프로그램은 1992년 와가 와가 쿠링가이 로터리 클럽에서 시작되었으며, 지역 사회 수준에서 평화 문화를 개발하는 것을 목표로 합니다. 매년 전 세계 클럽은 로터리의 세계 평화 및 이해의 날에 평화 구축 및 지역 사회 봉사 노력을 기리는 행사를 개최하고, 로터리 클럽, 정부 기관 및 기타 조직 간의 팀워크를 장려합니다. 기념 행사에서는 또한 최신 정보를 선보였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야의 지역 행사 정보 제공. 여행객들에게 특별한 영향은 적으나, 파타야 방문객에게는 흥미로운 정보가 될 수 있음.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "Pattaya Peace Park, Khao Phra Tamnak",
-        "price": "무료",
-        "location_google_map_query": "Pattaya Peace Park"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': 'Pattaya Peace Park, Khao Phra Tamnak', 'price': '무료', 'location_google_map_query': 'Pattaya Peace Park'}",
       "references": [
         {
           "title": "Pattaya Mayor Joins Celebration of 20th Anniversary of “Pattaya Rotary International City of Peace,” Reinforcing Role as a Global Peace Hub",
@@ -36442,23 +36431,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718812862393401531152903873569.jpg?v=1771881670"
         }
       ],
-      "collected_at": "06:36",
+      "collected_at": "6:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17718812862393401531152903873569.jpg?v=1771881670",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://thepattayanews.com/2026/02/24/pattaya-mayor-joins-celebration-of-20th-anniversary-of-pattaya-rotary-international-city-of-peace-reinforcing-role-as-a-global-peace-hub/",
+      "source": ""
     },
     {
       "title": "태국 사육 호랑이 산업, 72마리 폐사 후 반발 직면",
       "summary": "- 태국의 사육 호랑이 산업이 큰 비판에 직면했습니다.\n- 최근 사육 중인 호랑이 72마리가 폐사한 사건이 발생했습니다.\n- 이 사건으로 인해 동물 복지 및 사육 환경에 대한 우려가 커지고 있습니다.",
       "full_translated": "태국의 사육 호랑이 산업은 72마리의 큰 고양이가 죽은 후 반발에 직면해 있습니다. 사우스 차이나 모닝 포스트",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "동물 복지 문제는 여행객에게 간접적인 영향을 줄 수 있으며, 관련 시설 방문 시 주의가 필요할 수 있음. 다만, 직접적인 위협은 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s captive tiger industry faces backlash after 72 big cats die - South China Morning Post",
@@ -36467,23 +36453,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:36",
+      "collected_at": "6:36",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYVNad0t6R1ItRktWWVJIZDdmdGgxMFB1NnVwSHlCRFpWVXJCalJ3NzlldElJbFg1eGc0ejNfZ0tUYkJDSTlMMTlUekNnV054WUZvc25wRzNuQzdnWWdsUnFYODRFbVZYU2dvZzltNXNERnBMQzBhZnNmbk5uSl95NHp4Q3pISFl6N2NlRFpSYlZPcVYyNU9KemdmZjJmMk1POWdTRE0tNzZjRC1HSjlxbW9mOWRJQWc4cGdCLVNuNmPSAcABQVVfeXFMUHlLcEltRTJsMzd1MmFsV01aT19rWGlWQVBUZWJHWG5uWjhXcjh1Vng0bFc0MWIwOGJuNmctZjVfV3ZBVXFLdjRxMFl5aDV2S1poOW1JWjVBalhQMnZiRFFacUs5WGhpTENyY0o4SEtVOTlVWk5uS0RLc1JEb0xEamYxY3ljNm1yOUUzMWhLUnBKNTF1WDc4NTRtWndBLWh4Uzc2cXBTODRrTlBrVXBfZFpjQklBdktpRW8zb0Q1ZlVY?oc=5",
+      "source": ""
     },
     {
       "title": "태국 산업 부동산, 불확실성 속에서도 강세 유지",
       "summary": "- CBRE 태국에 따르면 산업 및 물류 부동산 부문은 견조한 수요와 정부 지원에 힘입어 다른 부문보다 뛰어난 성과를 보이고 있음.\n- 데이터 센터 투자는 작년에 6배 증가하여 6천억 바트 이상을 기록했으며, 반도체를 포함한 고부가가치 서비스는 3배 증가한 1,750억 바트 이상을 기록함.\n- 전기차(EV)는 2023년에 비해 2025년에는 70~80억 바트로 급격히 감소했지만, 산업용 토지에 대한 수요는 2026년부터 정상화될 것으로 예상됨.",
       "full_translated": "산업 및 물류 부동산 부문은 다른 부문보다 뛰어난 성과를 지속적으로 보여주고 있으며, 이는 견조한 수요와 지속적인 정부 지원에 힘입은 결과라고 부동산 컨설팅 회사 CBRE 태국이 밝혔습니다. CBRE 태국의 컨설팅 및 연구 책임자인 초티카 퉁시리스럽은 산업 부문이 지난 5년간 뛰어난 성과를 거두었으며 2026년까지도 견조한 성과를 이어갈 것으로 예상된다고 말했습니다. 그녀는 “이 부문의 성장은 높은 사전 약정 수준과 지속적인 정부 지원에 의해 뒷받침되고 있습니다.”라고 덧붙였습니다. 미국 대통령 트럼프의 관세가 불법이라는 대법원의 판결에도 불구하고 투자자들의 결정은 바뀌지 않았는데, 이는 모든 사람이 그 문제가 여전히 불확실하다는 것을 이해하고 있기 때문입니다. 태국 투자청(BoI)의 승인을 기준으로 한 세 가지 주요 목표 산업 중 데이터 센터에 대한 투자는 작년에 6배 증가하여 6천억 바트 이상을 기록하며 가장 강력한 성장세를 보였습니다. 그 뒤를 이어 반도체를 포함한 고부가가치 서비스가 3배 증가하여 1,750억 바트 이상을 기록했습니다. 2023년 최고의 성과를 냈던 전기차(EV)는 2025년에는 70~80억 바트로 급격히 둔화되었는데, 이는 2023년의 거의 300억 바트에서 감소한 수치입니다. EV 산업에 힘입어 4년 연속 성장한 후 새롭게 서비스된 산업용 토지에 대한 수요는 2026년부터 정상화되기 시작할 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 동향 관련 정보로, 여행객에게 직접적인 영향은 적으나 참고할 만한 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Industrial property defies uncertainty",
@@ -36492,8 +36475,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204570_260225010459_700.jpg"
         }
       ],
-      "collected_at": "06:36",
+      "collected_at": "6:36",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204570_260225010459_700.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.bangkokpost.com/business/general/3204570/industrial-property-defies-uncertainty",
+      "source": ""
+    },
+    {
+      "title": "태국 북부 지역, 오늘 폭풍우 주의: 강풍 및 우박 가능성",
+      "summary": "- 태국 북부 지역에 오늘 폭풍우가 예상됩니다.\n- 강풍, 우박, 번개를 동반한 폭우가 내릴 수 있습니다.\n- 여행자는 야외 활동을 피하고 안전에 유의해야 합니다.",
+      "full_translated": "2월 25일 날씨 예보에 따르면 오늘 태국 북부 지역에 폭풍우가 다소 약해졌지만, 여전히 많은 지역에서 폭우와 강풍이 예상됩니다. 관련 지역에 계신 분들은 주의를 기울여야 합니다.\n\n기상청 페이스북 페이지에 따르면, 오늘 폭풍우는 약해졌지만 태국 북부 지역에는 여전히 뇌우와 강풍이 예상됩니다. 일부 지역에서는 우박과 번개가 동반될 수 있습니다. 앞으로 24시간 동안 태국 북부 지역에는 뇌우를 동반한 폭풍우가 예상되며, 강풍, 우박, 폭우, 번개가 칠 수 있습니다. 이는 중국에서 불어오는 고기압 또는 찬 공기가 북동부 지역과 남중국해를 덮으면서 동풍과 남동풍이 불어와 북동부, 중부, 동부 지역과 태국 만에 습기를 공급하기 때문입니다. 또한 미얀마에서 불어오는 서풍이 북부와 북동부 지역을 덮고 있습니다. 태국 북부 지역은 더운 날씨가 예상됩니다. 해당 지역의 주민들은 폭풍우로 인한 위험에 주의해야 하며, 야외, 큰 나무 아래, 불안정한 건물 및 광고판 아래에 머무르는 것을 피해야 합니다. 농부들은 과일 나무를 보강하고 농작물과 가축에 대한 피해를 예방해야 합니다. 태국 남부 지역은 동풍과 남동풍의 영향으로 뇌우가 예상됩니다. 태국 만의 파도는 약 1m 높이이며, 뇌우가 치는 지역에서는 2m 이상으로 높아질 수 있습니다. 태국 만과 안다만 해의 선박은 주의해서 항해해야 합니다. 이 기간 동안 태국 북부 지역에는 먼지나 연기가 중간 정도 수준으로 축적될 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전에 영향을 미치는 날씨 정보. 특히 북부 지역 여행객에게는 중요한 정보이며, 매일 업데이트되는 일일 예보라는 점을 고려하여 점수를 부여함.",
+      "event_info": {
+        "date": null,
+        "location": "태국 북부",
+        "price": null,
+        "location_google_map_query": "태국 북부"
+      },
+      "references": [
+        {
+          "title": "สภาพอากาศ 25 ก.พ. 69 \"พายุฤดูร้อน\" เบาลง แต่ไทยตอนบนยังมีฝนตก เช็กจังหวัดเสี่ยง",
+          "url": "https://www.thairath.co.th/news/local/2916281",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjOzZdMu5WjuMc.jpg"
+        }
+      ],
+      "collected_at": "08:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjOzZdMu5WjuMc.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 당국, 바이러스로 인한 호랑이 72마리 폐사 조사 - BBC",
+      "summary": "- 태국에서 바이러스 감염으로 호랑이 72마리가 폐사하여 당국이 조사에 착수했습니다.\n- 폐사한 호랑이들은 태국의 한 사육 시설에서 발생했습니다.\n- 당국은 정확한 바이러스 종류와 감염 경로를 파악하기 위해 노력하고 있습니다.",
+      "full_translated": "태국 당국이 바이러스로 인해 호랑이 72마리가 폐사한 사건에 대해 조사 중입니다. BBC 보도에 따르면, 해당 사건은 태국 내 한 사육 시설에서 발생했으며, 당국은 정확한 바이러스 종류와 감염 경로를 파악하기 위해 조사에 착수했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "동물원이나 사육시설 방문객에게는 주의가 필요할 수 있으며, 관련 시설의 위생 상태에 대한 우려를 야기할 수 있음. 여행 안전 정보로서의 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand: Authorities investigate death of 72 tigers due to virus - BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56allDN2VVRnJCNUpCd05heFVwY19BSk9oMmdRMUdsYzVWQ0lTRG5iZmgyOXgwb2hRb2J3akNfMkJHcW1aWWNscDYxeDJ0NklWN1NPREdxZHVldw?oc=5",
+          "source": "BBC",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 관광, '양'에서 '글로벌 경제 플랫폼'으로 전환해야 - Nation Thailand",
+      "summary": "- 태국 관광 산업이 양적 성장에서 질적 성장으로 전환해야 한다는 주장이 제기됨.\n- Proudputh는 태국 관광 산업이 글로벌 경제 플랫폼으로 발전해야 한다고 강조.\n- Nation Thailand 보도.",
+      "full_translated": "Proudputh: 태국 관광은 '양'에서 '글로벌 경제 플랫폼'으로 전환해야 합니다. Nation Thailand",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 정책 방향에 대한 제안으로, 여행객 경험에 간접적인 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Proudputh: Thailand tourism should shift from \"quantity\" to a \"global economic platform\" - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GU3hhSHc1enNHRkVHNEJObmtRVGlvLTJvZ042UmRBTnNNSnplT2pibV9HTU5EVHdaWi1ucTJjaWN4b3I0NHR4MlBnempDU3gwZkRrR1F1OXpTNEhEUnFiSVFR?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국 미디어 산업, 2026년 균형 성장 전망: 온라인에서 전통 매체로의 회귀?",
+      "summary": "- 태국 미디어 산업 지출, 2026년에 1.7% 성장하여 873억 바트 도달 예상.\n- 브랜드들이 단기적 성과 마케팅에서 벗어나 균형 잡힌 성장 전략으로 전환.\n- 온라인 디지털 미디어 성장세는 둔화, 방송 TV와 옥외 미디어의 전략적 중요성 회복 전망.",
+      "full_translated": "태국 미디어 산업 지출은 2026년에 1.7% 성장하여 873억 바트에 이를 것으로 예상됩니다. 이는 브랜드들이 단기적인 성과 마케팅에서 벗어나 보다 균형 잡히고 구조적으로 주도되는 성장 전략으로 전환하기 때문입니다.\n\n미디어 에이전시인 Media Intelligence Group (MI Group)은 2026년을 '균형 성장'의 해로 묘사하며, 전환 중심 캠페인에서 즉각적인 판매와 장기적인 브랜드 가치를 강화하는 보다 통합된 커뮤니케이션 접근 방식으로의 전환을 의미합니다. MI Group은 올해 미디어 광고 지출에 대한 전망치를 상향 조정했습니다. 이는 소비자 신뢰도 개선과 많은 부문에서 소비자 구매력이 강화된 징후와 일치합니다.\n\n온라인 미디어(인플루언서 마케팅 포함)와 TV는 291억 바트로 광고 지출의 가장 큰 비중을 계속 차지할 것이며, 옥외 미디어가 179억 바트로 그 뒤를 이을 것입니다. 온라인 디지털 미디어에 대한 지출은 계속 증가했지만 속도는 느려졌습니다. 방송 TV와 옥외 미디어는 종종 전통적인 미디어로 분류되지만 전략적 중요성을 되찾을 것으로 예상됩니다. MI Group은 2026년에 보다 균형 잡힌 미디어 믹스 예산을 예상합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "미디어 산업 동향은 직접적인 여행 정보는 아니지만, 장기적인 관점에서 태국 시장 변화를 이해하는 데 도움이 될 수 있음. 아침 브리핑에 포함하기에는 우선순위가 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Traditional media stages 2026 comeback",
+          "url": "https://www.bangkokpost.com/business/general/3204585/traditional-media-stages-2026-comeback",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981765_700.jpg"
+        }
+      ],
+      "collected_at": "08:21",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/25/5981765_700.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "호주, '시드니 할아버지' 살인 사건 용의자 2명 체포: 납치 오인",
+      "summary": "- 호주 경찰이 '시드니 할아버지' 크리스 백사리안 살인 사건 용의자 2명을 체포했습니다.\n- 피해자는 납치 오인으로 인해 희생되었으며, 시신은 골프장 근처에서 발견되었습니다.\n- 경찰은 피해자와 가족이 범죄 조직과 관련이 없다고 밝혔으며, 온라인에 부상당한 피해자 영상이 공유되었습니다.",
+      "full_translated": "호주 경찰이 크리스 백사리안, 일명 '시드니 할아버지' 살인 사건 용의자 2명을 체포했습니다. 그는 지난달 납치 오인의 희생자가 되었으며, 그의 시신은 월요일에 발견되었습니다. 보도에 따르면 경찰은 24세와 29세 남성을 체포하여 심문하고 있습니다. 백사리안은 노스 라이드 자택에서 납치되었으며, 경찰은 그가 표적이 아니었고 범죄 조직과 연관된 가족을 노린 것이라고 밝혔습니다. 체포는 경찰이 교외 골프장 근처에서 백사리안으로 추정되는 시신을 발견한 지 하루 만에 이루어졌습니다. 납치 후 경찰은 그의 건강 문제와 약물 필요성을 강조하며 안전하게 귀환시켜 달라고 호소했습니다. 당국은 백사리안과 그의 가족이 범죄 조직과 연관이 없다고 확신하고 있습니다. 부상당한 백사리안의 영상이 온라인에 공유되면서 가족들은 큰 충격을 받았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "해외에서 발생한 살인사건으로 태국 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ออสเตรเลียจับแล้ว 2 คดีฆาตกรรม“ปู่ซิดนีย์” หลังลักพาตัวผิดคน",
+          "url": "https://www.thairath.co.th/news/foreign/2916279",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP2mNg1k7yd0M.jpg"
+        }
+      ],
+      "collected_at": "08:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjP2mNg1k7yd0M.jpg",
       "date": "2026-02-25"
     }
   ]
