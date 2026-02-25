@@ -38365,14 +38365,9 @@
       "summary": "- 관광 공원에서 72마리의 호랑이가 바이러스로 인해 폐사했습니다.\n- 방문객들은 해당 지역 방문 시 안전에 유의해야 합니다.\n- 관련 공원 방문 전 최신 정보를 확인하세요.",
       "full_translated": "태국 내 관광 공원에서 바이러스 감염으로 인해 72마리의 호랑이가 폐사했습니다. 해당 공원들을 방문하려는 관광객들은 바이러스 감염 가능성에 대한 최신 정보를 확인하고, 필요한 안전 조치를 취해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "동물원이나 호랑이 관련 관광지 방문객에게 잠재적 위험을 알리고, 여행 계획 변경 또는 위생 관리를 고려하도록 안내합니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "Virus blamed for deaths of 72 tigers at tourist parks - FOX 8 News",
@@ -38381,23 +38376,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3hqbkdmdU1vYnBRaHpHdkNoTkRwUXpfWk43QnZGQlM0UEpDdjNmc09TeDBydEV4dk9URlRtaEJNcGlOZ3MxYmlmajFxaWt0RHpwb282QWJBZlFFWm52akRTdFp6MWpvVGk3SHBadHFiWlV6c1k1ZldBOXRXLWZhODhB0gGHAUFVX3lxTFBVcy1aX2NPUkZQQklaMnJwb3ZLOGVOdW1peExENFprZktyN1UySHBMbEJUOFBrcllpVlNmSUVfYWRzUTdKTmEzNHFsdkRySUFMUWthbTUxN0xsVkk3YldWU29sVFNFNUNBbUhyVUt3SU9BWVUxX1JXMzRuVGhQRzV2NXFRSUVsYw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 산업 호황: 외국인 방문객 590만 명, 3천억 바트 수익 육박",
       "summary": "- 태국 관광 산업이 급성장하여 현재까지 외국인 방문객 590만 명을 기록했습니다.\n- 관광 수입은 3천억 바트에 육박하며 경제 활성화에 기여하고 있습니다.\n- 태국 정부는 관광 산업 활성화를 위한 다양한 정책을 추진 중입니다.",
       "full_translated": "태국의 관광 산업이 급성장하고 있습니다. 현재까지 590만 명의 외국인 방문객이 태국을 방문했으며, 이는 3천억 바트의 수익에 육박하는 수치입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업 현황에 대한 업데이트 정보 제공. 여행객 규모와 경제적 효과를 파악하는 데 도움을 줌.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand's Tourism Soars To Date: 5.9 Million Foreign Visitors, Nearing 300 Billion Baht in Revenue - Nation Thailand",
@@ -38406,23 +38398,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tMmtxZDZ3RTdVSk85VlNHX2pwWDZqTFppUmtocmJVRkx4aFN3UmVnYXluU0Z0bTZkTVRMNFliZzJlN2tWd2tTZFVlRFJhRlp0ZWJTdFhvY2NBNlBrQnczUF9n?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 바이러스로 인해 72마리의 호랑이 폐사",
       "summary": "- 태국에서 바이러스 감염으로 72마리의 호랑이가 폐사함.\n- 열악한 사육 환경이 바이러스 확산의 원인으로 지적됨.\n- 동물 보호 단체, 태국 정부에 동물 복지 개선을 촉구.",
       "full_translated": "태국에서 바이러스로 인해 72마리의 호랑이가 폐사했습니다. World Animal Protection에 따르면 열악한 사육 환경이 바이러스 확산의 주요 원인으로 지적되고 있으며, 동물 복지 개선의 필요성이 제기되고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "동물 학대 문제는 관광객의 윤리적 소비에 영향을 미칠 수 있으며, 동물원 방문 시 주의가 필요함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Seventy two tigers die in Thailand as virus exposes captivity risks - World Animal Protection",
@@ -38431,23 +38420,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHZhc1RINmZGa3JJaWVLVjJPRml4YmVqSzdYUFBhLWU3eEZqendCR0h2MU04dUp2bENFSWF2anpMTjFWZnk0d21UOUdfa3pWSGlwVGJ5RFRpdmhqam16SGxQbWp0VHZPUW5rYUhCWWh1TTJHR2NmWnRHREZseGJFU0MzbjBfNHI0TUpUVE93SFBzLVBhZGtteDNZMUE3VThPN3A3Y2xwSE04TGd2NkE?oc=5",
+      "source": ""
     },
     {
       "title": "새 내각 구성 시작: 품차이타이당, 주요 부처 장악",
       "summary": "- 새 내각 구성이 진행 중이며, 품짜이타이당이 주요 부처를 확보하며 중심 역할 수행.\n- 품짜이타이당은 총 14개 부처에서 19개 장관직을 확보할 것으로 예상됨.\n- 총리 겸 내무부 장관으로 아누틴 차른비라쿨이 유력하며, 국방부 장관은 외부 인사가 임명될 가능성 존재.",
       "full_translated": "연립 파트너들이 합의된 공식에 따라 장관직 배분을 협상함에 따라 새로운 내각 구성이 시작되고 있으며, 아누틴 차른비라쿨 총리 지명자가 이끄는 미래 행정부에서 품짜이타이당(BJT)이 지배적인 세력으로 부상하고 있습니다. 수요일 언론 보도에 따르면 품짜이타이당은 14개 부처에 걸쳐 19개의 내각 의석을 확보하여 의회 다수 확보에서 중심 역할을 수행하고 있습니다. 이 중 5개 자리는 총리 할당량에 속하며, 주요 장관 포트폴리오와 결합된 부총리직을 포함합니다. 국방부는 여전히 고려 중이며, 정치적 균형을 맞추고 연립 파트너를 안심시키기 위해 외부 후보자, 즉 소위 '외부인'이 임명될 수 있다는 추측이 있습니다. 제안된 할당에 따라 품짜이타이당은 내무부, 재무부, 상무부, 외무부, 교통부, 에너지부, 관광체육부, 천연자원환경부, 산업부, 공중보건부, 문화부, 법무부, 디지털 경제 사회부, 총리실을 감독할 것으로 예상됩니다. 이러한 포트폴리오의 범위는 하원에서의 당의 수적 강점과 연립 협상에서의 영향력을 반영합니다. 아누틴 씨는 총리와 내무부 장관을 겸임하여 지방 행정 및 안보에 대한 권한을 강화할 것으로 예상됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이지만, 내각 구성은 정책 변화를 야기할 수 있으므로 낮은 점수 부여. 여행 자체에는 직접적인 영향이 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Cabinet starts to take shape",
@@ -38456,8 +38442,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205130_260226042511_700.jpg"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205130_260226042511_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/politics/3205130/cabinet-starts-to-take-shape",
+      "source": ""
+    },
+    {
+      "title": "태국 관광 비자 정보",
+      "summary": "- 태국 관광 비자 관련 최신 정보 제공.",
+      "full_translated": "태국 관광 비자에 대한 정보 제공 기사입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 관련 비자 정보는 여행자에게 중요한 정보이므로 포함. 비자 규정은 여행 계획에 직접적인 영향을 미침.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand tourism visa - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yQldWTVZKUHg1dC0zLWdWSDdnaGJxS0h4d29DZl9ucmNLdWk3Z1FzLTI3RjB1eTFQSUdRbnVnenFpZjN4bUUxWlBRVEVkWTd1TENWNFZrUWFhX0dKWl9aM0ltM0JObG1aTExHejBRRTRpbFVjSnlkVExlMHh5RVk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 관광 공원의 호랑이 72마리, 개 디스템퍼로 사망 - 조류 독감 우려 완화",
+      "summary": "- 태국 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망했습니다.\n- 당국은 조류 독감의 가능성을 배제하고 있습니다.\n- 관광객 안전에 대한 우려를 해소하기 위해 관련 정보를 투명하게 공개하고 있습니다.",
+      "full_translated": "태국 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망, 조류 독감 공포 완화 - vocal.media",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물원 및 관광 시설 방문객에게 영향을 줄 수 있는 소식이므로 정보 제공 가치가 있다고 판단됨. 그러나 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "Thai Officials Say 72 Tigers at Tourist Parks Died of Canine Distemper, Allaying Bird Flu Fears - vocal.media",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGxxRVcwV0szYWVvSGtnOWNLMDhwOWYyR1JvWUMySGdnY09xcDZsWElGaHl6U0Ftc3AzUFZXell1UGRWRkFQZnJqWHFsZlJrdlZ2aUNKcUtxSnZDaDZXc1M3TTBEOVlscTEyeV9ZWnIzN1plQXgxVDdJRl9qLXE2R3N2Um5hMDV3Ni1ESGlwaGVMNTNOcVBxRWFmQ3I0MmVHLTFROF9rVEtkQ1FmZUY0UmMzdUdEZE9KUnNHWnNZaw?oc=5",
+          "source": "vocal.media",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국-중국 무역 협력 강화 논의: 쌀 수출 및 투자 확대",
+      "summary": "- 태국 총리와 중국 대사가 만나 쌀 수출 확대 방안 논의\n- 중국은 올해 안에 태국 쌀 50만 톤 수입 목표를 달성하기 위해 구매 가속화 의사 밝혀\n- 중국, 불법 투자 행위 단속 및 로봇 산업 등 첨단 기술 분야 투자 확대 계획",
+      "full_translated": "쁘라윳 총리와 수파지 수툼푼 상무부 장관은 장젠웨이 태국 주재 중국 대사를 만나 이달 태국 쌀 4만 톤 수출 계획을 논의했으며, 이는 연말까지 50만 톤 목표의 일환입니다. 쁘라윳 총리는 화요일 밤 방콕 중국 대사관에서 장 대사의 초청으로 만찬 회의에 참석했습니다. 총리는 태국 쌀 수입에 대한 중국의 지원과 관광 부문에서 중요한 역할에 대해 감사를 표했습니다. 그는 매일 약 3만 명의 중국인 관광객이 태국을 방문하여 양국 간의 강력한 유대와 신뢰를 반영한다고 말했습니다. 양측은 무역 협력, 특히 중국에 50만 톤을 공급하기로 한 계약에 따른 태국의 쌀 수출 진행 상황을 검토했습니다. 첫 선적분 4만 톤은 이달 말까지 배송될 예정입니다. 중국은 올해 안에 50만 톤 목표를 달성하기 위해 추가 구매를 가속화할 것이라고 밝혔습니다. 중국 투자와 관련하여 장 대사는 중국은 투자자 또는 사업 운영자의 불법 행위를 묵인하지 않으며 법 집행 및 규제 감독에서 태국과 협력할 준비가 되어 있다고 말했습니다. 그는 또한 중국의 첨단 기술 산업, 특히 로봇 산업의 급속한 발전을 강조하면서 중국의 주요 기업들이 태국에 투자를 확대할 것으로 예상된다고 말했습니다. 총 투자액은 100억 바트를 초과하여 일자리를 창출하고 강화될 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국-중국 간 경제 협력 강화는 관광객에게 직접적인 영향은 적지만, 경제 상황에 대한 정보는 유용할 수 있음. 특히 쌀 수출 및 중국 관광객 수치는 참고할 만함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "PM, China envoy talk trade deal",
+          "url": "https://www.bangkokpost.com/business/general/3205335/pm-china-envoy-talk-trade-deal",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205335_260226044534_700.jpg"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205335_260226044534_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "스페인, 1981년 쿠데타 시도 관련 기밀 문서 공개…음모론 잠재우기 위한 조치",
+      "summary": "- 스페인 정부가 1981년 발생한 쿠데타 시도와 관련된 153건의 기밀 문서를 공개했습니다.\n- 이는 쿠데타 이후 제기된 각종 음모론을 해소하기 위한 목적입니다.\n- 공개된 문서는 경찰 및 사법부 보고서, 녹취록 등을 포함하며 정부 웹사이트를 통해 공개되었습니다.",
+      "full_translated": "스페인이 1981년 쿠데타 시도와 관련된 기밀 문서를 공개하여 수십 년 동안 발생한 다양한 음모론을 잠재우려고 합니다. 2026년 2월 24일 수요일, 스페인 정부는 45년 전 쿠데타 시도와 관련된 153건의 문서를 공개했습니다. 이는 국가 역사에서 중요한 사건으로, 사건 이후 발생한 다양한 음모론을 잠재울 수 있기를 희망합니다. 쿠데타는 1981년 2월 23일 안토니오 테헤로 몰리나가 이끄는 무장 관료 그룹이 국회 본회의장에 침입하여 새 정부가 취임 선서를 하는 동안 정치인들을 위협하면서 발생했습니다. 그들은 국가를 다시 독재 정권으로 되돌리려고 했습니다. 그러나 후안 카를로스 국왕이 지원을 거부했기 때문에 시도는 실패했습니다. 그러나 그 이후로 국왕이 쿠데타 시도에 대해 미리 알고 있었거나 심지어 사건에 적극적으로 관여했을 수도 있다는 의혹을 포함하여 많은 음모론이 제기되었습니다. 문서 공개는 쿠데타 지도자 테헤로가 93세의 나이로 사망한 날과 같은 날에 이루어졌습니다. 기밀 문서 공개는 정부 웹사이트가 일시적으로 다운될 정도로 큰 기대를 모았습니다. ... 이 문서에는 경찰 및 사법 절차 보고서, 기록 등이 포함되어 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행과는 직접적인 관련은 없지만, 국제 정세에 대한 정보 제공 차원에서 포함. 스페인 여행 계획이 있는 여행객에게는 역사적 맥락 이해에 도움이 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สเปนเปิดเอกสารลับ เหตุพยายามรัฐประหารปี 2524 หวังดับทฤษฎีสมคบคิด",
+          "url": "https://www.thairath.co.th/news/foreign/2916512",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4u7lX37Rhqk.jpg"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4u7lX37Rhqk.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 1월 국경 무역 11% 증가, 중국이 주요 환승 시장",
+      "summary": "- 태국의 1월 전체 국경 및 환승 무역액은 1611억 3500만 바트로 전년 대비 10.9% 증가.\n- 중국은 주요 환승 시장으로 부상했으며, 수출은 12.6%, 수입은 9.0% 증가하여 148억 바트의 무역 흑자를 기록.\n- 말레이시아, 라오스, 미얀마, 캄보디아와의 국경 무역은 감소했지만, 제3국과의 환승 무역은 크게 증가.",
+      "full_translated": "태국의 1월 전체 국경 및 환승 무역액은 총 1611억 3500만 바트에 달해 전년 대비 10.9% 증가했으며, 중국이 주요 환승 시장으로 자리매김했다고 Lalida Persvivatana 정부 부대변인이 밝혔습니다. 수출은 12.6% 증가한 879억 바트, 수입은 9.0% 증가한 731억 바트를 기록했습니다. 이로 인해 1월 한 달 동안 148억 바트의 무역 흑자를 달성했습니다. 말레이시아, 라오스, 미얀마, 캄보디아 등 4개 인접 국가와의 국경 무역액은 1월에 총 686억 바트로, 전년 동기 대비 18.2% 감소했습니다. 수출은 23.4% 감소한 387억 바트, 수입은 10.3% 감소한 298억 바트로 평가되었습니다. 그럼에도 불구하고 태국은 국경 무역에서 88억 바트의 무역 흑자를 유지했습니다. 말레이시아는 300억 4300만 바트의 무역 가치를 가진 태국의 최대 국경 무역 파트너였으며, 라오스가 241억 바트, 미얀마가 144억 바트로 그 뒤를 이었습니다. 태국과 캄보디아 간의 국경 무역은 해당 월 동안 가치가 0으로 기록되었습니다. 주요 국경 수출 품목으로는 디젤 연료(36억 바트), 집적 회로(12억 바트), 기타 정제 연료(12억 바트)가 포함되었습니다. 제3국으로의 환승 무역은 총 925억 바트로 크게 성장하여 전년 대비 50.7% 증가했습니다. 수출은 78.9% 급증한 492억 바트, 수입은 27.8% 증가한 432억 바트를 기록했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에는 직접적인 영향이 없으나, 태국 경제 상황을 간접적으로 파악할 수 있는 정보. 아침 브리핑에 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Border traffic up 11% in Jan",
+          "url": "https://www.bangkokpost.com/business/general/3205270/border-traffic-up-11-in-jan",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205270_260226043641_700.jpg"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205270_260226043641_700.jpg",
       "date": "2026-02-26"
     }
   ]
