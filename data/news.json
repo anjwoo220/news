@@ -38673,14 +38673,9 @@
       "summary": "- 타이 에어아시아는 2026년에 6~9%의 매출 성장을 목표로 하고 있으며, 2350만 명의 승객과 85%의 탑승률을 예상함.\n- 태국 주요 공항의 국제선 승객 서비스 요금(PSC) 인상이 여행 수요에 급격한 영향을 미치지 않을 것으로 예상함.\n- 올해 5대의 항공기를 추가하여 2350만 명의 승객을 수송하고 탑승률을 85%까지 끌어올릴 계획임.",
       "full_translated": "타이 에어아시아(TAA)는 낙관적인 관광 전망을 가정하여 2026년에 6~9%의 전년 대비 매출 성장을 목표로 하고 있으며, 2,350만 명의 승객과 85%의 탑승률을 예상하고 있습니다. 태국 주요 공항의 더 높은 국제선 승객 서비스 요금(PSC)이 여행 수요에 갑작스러운 영향을 미치지 않을 것이라고 회사는 언급했습니다. 아시아 항공 Plc와 TAA의 최고 경영자인 Phairat Pornpathananangoon은 태국 관광청이 올해 3,670만 명의 외국인 입국 목표를 설정했으며, 항공사가 강력한 국내 네트워크를 갖춘 지역 항공사로서 예측에 맞춰 운영을 최적화하도록 촉구했다고 말했습니다. Phairat 씨는 \"2026년은 우리가 진정으로 코로나19를 극복하는 첫 해가 될 것입니다.\"라고 말했습니다. 2019년에 TAA는 2,610만 석의 좌석 용량으로 63대의 항공기를 운영하여 2,210만 명의 승객을 수송했습니다. 작년에는 2,520만 석의 좌석 용량으로 62대의 항공기를 운영하여 2,100만 명의 승객을 수송했습니다. 올해 항공사는 5대의 항공기를 추가하여 2,350만 명의 승객을 수송하고 탑승률을 2%포인트 높여 85%까지 끌어올릴 계획입니다. TAA는 올해 6~9%의 매출 성장을 목표로 하고 있으며, 이자, 세금, 감가상각비 및 상각 전 수익 마진은 2025년 17%에서 20%로 증가할 것입니다. Phairat 씨는 회사가 국내선 항공편 증가와 같이 기존 노선을 강화하는 데 집중할 것이라고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 항공 산업의 성장 전망을 보여주는 기사로, 여행객들에게 항공편 이용 정보와 관련된 간접적인 영향을 줄 수 있음. 항공편 증가 및 서비스 개선에 대한 기대감을 제공할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai AirAsia pins growth hopes on China, long-haul markets",
@@ -38689,23 +38684,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205260_260226062043_700.jpg"
         }
       ],
-      "collected_at": "06:29",
+      "collected_at": "6:29",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205260_260226062043_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/general/3205260/thai-airasia-pins-growth-hopes-on-china-longhaul-markets",
+      "source": ""
     },
     {
       "title": "'변호사 Tum' 자산 압류 시도 검토 중",
       "summary": "- 태국 법무부는 '변호사 Tum'으로 알려진 Sittra Biabungkerd와 그의 아내의 자산 압류를 기각한 민사 법원의 결정을 검토 중입니다.\n- 해당 자산은 사업가 Jatuporn Ubonlert에게서 빼앗은 1억 바트 이상의 사기 사건과 관련되어 있습니다.\n- 검찰은 항소 여부를 결정하기 위해 법원의 판결을 검토하고 있으며, 형사 재판은 계속 진행될 예정입니다.",
       "full_translated": "법무부는 '변호사 Tum'으로 알려진 Sittra Biabungkerd와 그의 아내의 자산(7100만~7400만 바트 상당)을 압류하라는 국가의 청원을 기각한 민사 법원의 결정을 이번 주에 검토하고 있습니다. 해당 자산은 사업가 Jatuporn Ubonlert, 'Je Aoy'로 알려진 사람에게서 빼앗은 1억 바트 이상의 사기 사건과 관련이 있습니다.\n\n검찰은 항소 여부를 결정하기 위해 법원의 판결을 검토하고 있습니다. 항소는 판결 후 30일 이내에 제기해야 하며, 필요한 경우 연장이 허용될 수 있습니다. 관계자들은 판결의 인증 사본을 얻는 과정에 있으며, 1~2주가 소요될 것으로 예상됩니다.\n\n한편, Yamfao Pandin 재단의 회장이자 Jatuporn 여사의 법률 고문인 Panthep Puapongpan은 민사 법원의 명령은 존중되지만 진행 중인 형사 소송에는 영향을 미치지 않는다고 말했습니다. 그는 민사 판결이 형사 사건을 구속하지 않으며, 형사 사건은 계속 진행 중이라고 언급했습니다. 형사 법원은 3월 3일에 증인 심문을 시작할 예정입니다.\n\nSittra 씨는 6명의 공동 피고인과 함께 사기, 컴퓨터 관련 범죄, 공무원에 대한 허위 진술, 문서 위조 등 여러 혐의로 기소되었습니다. 피고인 4명은 자백했습니다. Jatuporn 여사는 그 부부가 온라인 복권 거래 애플리케이션 개발 자금을 지원하기 위해 7100만 바트 이상을 이체하도록 속였다고 비난했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "사기 사건에 대한 법적 절차가 진행 중이며, 여행객들이 관련될 가능성은 낮지만 인지하는 것이 좋습니다.",
-      "event_info": {
-        "date": "2026-03-03",
-        "location": "태국 형사 법원",
-        "price": "알 수 없음",
-        "location_google_map_query": "태국 형사 법원"
-      },
+      "event_info": "{'date': '2026-03-03', 'location': '태국 형사 법원', 'price': '알 수 없음', 'location_google_map_query': '태국 형사 법원'}",
       "references": [
         {
           "title": "'Lawyer Tum' asset grab bid under review",
@@ -38714,23 +38706,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205255_260226052724_700.jpg"
         }
       ],
-      "collected_at": "06:29",
+      "collected_at": "6:29",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205255_260226052724_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205255/lawyer-tum-asset-grab-bid-under-review",
+      "source": ""
     },
     {
       "title": "태국 정부, 프랑스에 미얀마 상황 브리핑",
       "summary": "- 태국 외무장관, 프랑스 유럽·외무부 장관과 회담.\n- 미얀마 문제 논의, 태국의 역할 강조.\n- 국경 보안 및 지역 안정 유지 우선.",
       "full_translated": "태국 외무부 장관 시하삭 푸앙케오에 따르면 프랑스는 미얀마의 상황 전개에 깊은 관심을 표명했으며, 태국은 국경 보안을 지키고 지역 안정을 증진하는 것을 우선시하고 있다. 화요일 제네바에서 기자들에게 시하삭 장관은 전날 프랑스 유럽·외무부 장관 장-노엘 바로와 회담 결과를 설명했다. 논의는 올해 170주년을 맞이하는 태국-프랑스 양국 관계를 다루었으며, 특히 태국 경제가 기술 전환을 겪고 있는 상황에서 협력을 확대할 기회를 모색했다. 프랑스는 태국의 경제 전환을 지원할 수 있는 여러 선진 분야에 전문 지식을 보유하고 있다고 그는 말했다. 미얀마는 프랑스가 인도-태평양 지역에서 더 적극적인 역할을 수행하고자 하는 바람과 이 문제에 대한 태국의 외교적 관여 증가를 인정한 것을 반영하여 또 다른 핵심 주제였다. 프랑스는 태국의 관점, 특히 푸껫에서 열린 태국의 미얀마 외무장관 탄 스웨와의 최근 회담 이후의 상황에 대해 문의했다고 시하삭 장관은 말했다. 태국은 미얀마에 선거만으로는 국가 위기를 해결할 수 없으며 포용적인 대화와 진정한 평화 과정이 뒤따라야 한다고 전달했다고 그는 말했다. 시하삭 장관은 태국이 공유 국경과 소수 민족 그룹을 고려할 때 미얀마 군사 당국과 관계를 맺는 것을 피할 수 없다고 말했다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 외교적 노력에 대한 정보. 여행 자체에 직접적인 영향은 적지만, 동남아 정세에 대한 이해를 돕는다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt briefs France on Myanmar",
@@ -38739,23 +38728,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:29",
+      "collected_at": "6:29",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205310/govt-briefs-france-on-myanmar",
+      "source": ""
     },
     {
       "title": "국민당, 선거관리위원회에 소송 제기 예정",
       "summary": "- 국민당(PP)이 선거관리위원회의 부정행위를 주장하며 소송을 제기할 예정입니다.\n- 2월 8일 총선과 관련된 부정행위 혐의이며, 투표용지 인쇄 업체에 대한 소환도 요구합니다.\n- 국민당은 선거 무효화가 아닌, 형법 157조에 따른 직무 유기를 주장하고 있습니다.",
       "full_translated": "국민당(PP)은 선거관리위원회(EC)의 부정행위를 주장하며 형사 소송을 제기하고 투표용지 인쇄 계약자에 대한 법원 소환을 요구할 예정이다. PP 부대표인 와요 아사와룽루앙 박사는 수요일 당이 7명의 선거관리위원과 EC 사무총장, 선거 지원 책임자 등 총 9명의 관료에 대해 소송을 제기할 것이라고 밝혔다. 캄마콘 카오 쿠이 녹 초르 텔레비전 프로그램에서 와요 박사는 청원서가 부패 및 비행 사건에 대한 형사 법원에 제출될 것이라고 말했다. 이번 조치는 투표 용지가 개별 유권자에게 소급하여 추적될 수 있다는 사실이 인정되면서 투표 비밀에 대한 우려가 제기된 데 따른 것이다. 와요 박사는 당이 선거를 무효화하거나 취소하려는 것이 아니라고 말했다. 대신 EC의 행위가 당, MP 후보 및 유권자에게 영향을 미쳤다고 주장하면서 형법 157조에 따른 직무 유기를 주장할 것이다. 그는 피해가 2월 8일 투표 중에 발생했으며 2월 22일 방콕의 세 지역에서 다시 실시된 재투표에서 반복되었다고 말했다. 당은 법원에 위사누 크레아-응암을 포함한 핵심 증인, 투표 용지를 인쇄한 회사 대표, 회사의 전무 이사, 조달 문서, 참고 조건(TOR), 계약 및 회의록을 소환하도록 요청할 것이다. 와요",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PP to lodge complaint against election body",
@@ -38764,23 +38750,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205235_260226050210_700.jpg"
         }
       ],
-      "collected_at": "06:29",
+      "collected_at": "6:29",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205235_260226050210_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205235/pp-to-lodge-complaint-against-election-body",
+      "source": ""
     },
     {
       "title": "태국 선물 거래소, 상품 대대적 개편 통해 투자자 200만 명 목표",
       "summary": "- 태국 선물 거래소(TFEX)는 투자 기반을 200만 계좌로 두 배 늘리기 위해 대대적인 확장을 준비 중입니다.\n- 더 작고 접근하기 쉬운 상품을 출시하고 파생 상품 시장을 투기적 영역이 아닌 위험 관리 플랫폼으로 재포지셔닝하는 노력을 가속화할 계획입니다.\n- 올해 하반기에 미니 금 선물 및 단기 SET50 옵션을 도입할 예정이며, 투자자 요구에 더 부합하도록 현물과 유사한 특성을 갖도록 설계되었습니다.",
       "full_translated": "태국 선물 거래소(TFEX)는 소규모의 접근성이 더 좋은 상품을 출시하고 파생 상품 시장을 투기적 영역이 아닌 위험 관리 플랫폼으로 재포지셔닝하기 위한 노력을 가속화하여 투자자 기반을 200만 계좌로 두 배로 늘리는 것을 목표로 하는 주요 확장을 준비하고 있습니다. 트리윗 왕보라웃 TFEX 상무이사는 올해 하반기에 미니 금 선물과 단기 SET50 옵션을 도입할 것이라고 밝혔습니다. 새로운 계약은 투자자 요구에 더 잘 부합하도록 현물과 유사한 특징을 갖도록 설계되었습니다. TFEX는 또한 현재 투자자들의 큰 관심을 끌고 있는 기초 자산에 연동된 영구 스타일 상품 출시의 타당성을 조사하고 있으며, 가격이 계약당 약 30,000~40,000바트로 급등한 후 은 계약 사양을 수정하고 있습니다. 더 작은 계약 규모로의 전환은 시장 역학의 변화를 반영합니다. 금 가격은 지난 2~3년 동안 거의 100% 상승하여 금 온라인 선물에 대한 마진이 급격히 높아졌습니다. 이전에는 투자자가 계약당 약 50,000바트가 필요했습니다. 오늘날 10바트 금 계약의 경우 마진은 110,000~120,000바트 사이이며 표준 실물 금 선물 계약은 50바트 크기를 유지합니다. 계획된 미니 금 온라인 선물 계약은 포지션 규모를 크게 줄여 마진 요구 사항을 계약당 약 10,000바트로 낮추고 소매 투자자가 더 쉽게 접근할 수 있도록 할 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 선물 거래소의 변화는 일반적인 여행객보다는 투자자에게 더 큰 영향을 미치지만, 소규모 투자 상품 출시로 태국 경제에 대한 관심이 높아질 수 있다는 점에서 낮은 점수를 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TFEX targets 2m investors with major overhaul of products",
@@ -38789,8 +38772,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983350_700.jpeg"
         }
       ],
-      "collected_at": "06:29",
+      "collected_at": "6:29",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983350_700.jpeg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/investment/3205285/tfex-targets-2m-investors-with-major-overhaul-of-products",
+      "source": ""
+    },
+    {
+      "title": "태국 중앙은행, 경제 지원 위해 금리 인하 단행",
+      "summary": "- 태국 중앙은행(BoT)이 경제 지원을 위해 정책 금리를 0.25%p 인하하여 1%로 조정함.\n- 금리 인하 사이클은 종료된 것으로 보이나, 미국 관세 정책 불확실성에 대비하여 50bp의 정책 여력은 유지.\n- 2025년 4분기에 태국 경제가 예상보다 빠르게 성장했지만, 2026년과 2027년 성장률은 잠재 성장률인 2.7%를 밑돌 것으로 예상.",
+      "full_translated": "태국 중앙은행은 수요일 정책 금리 인하가 태국 경제를 지원하기에 충분하다고 판단, 정책 금리 인하 사이클이 종료되었다고 밝혔습니다. 통화정책위원회(MPC)는 수요일 회의에서 정책 금리를 25bp 인하하여 즉시 1%로 조정하는 데 4-2로 표결했습니다. MPC 사무총장인 돈 나콘탑에 따르면 2명의 위원은 정책 금리를 1.25%로 유지하는 데 찬성했습니다. 그는 태국 경제가 위원회의 평가와 일치하게 진행된다면 금리 인하 사이클은 끝난 것으로 간주될 수 있다고 말했습니다. 그러나 MPC는 도널드 트럼프 미국 대통령의 관세 정책으로 인한 불확실성이 고조됨에 따라 팬데믹 기간 동안의 최저치인 0.5%에 비해 50bp의 정책 여력을 유지했습니다. 돈 씨는 \"최근 금리 인하는 시기적으로 시장을 놀라게 했을 수 있지만, 시장은 이미 올해 정책 금리가 1%로 인하될 것으로 예상했습니다.\"라고 말했습니다. \"이번 인하는 향후 몇 달 동안 태국 경제를 지원하기 위한 선제적 조치입니다.\" 기준 시나리오에서 중앙은행은 미국 대법원이 트럼프 대통령의 관세 제도를 기각한 후 태국 수출에 부과되는 미국의 관세율이 19%로 유지될 것으로 가정합니다. MPC는 관세 변화를 모니터링할 계획입니다. 2025년 4분기에 태국 경제가 예상보다 빠르게 성장했지만, 구조적인 문제로 인해 2026년과 2027년 성장률은 잠재 성장률인 2.7%를 밑돌 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "금리 인하가 여행 관련 산업에 간접적인 영향을 미칠 수 있으며, 환율 변동 가능성도 존재함. 다만, 직접적인 영향은 크지 않다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BoT slashes rate in surprise move to support economy",
+          "url": "https://www.bangkokpost.com/business/general/3205175/bot-slashes-rate-in-surprise-move-to-support-economy",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983260_700.jpg"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983260_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "3월부터 온라인 금 거래 플랫폼 규제 강화",
+      "summary": "- 태국 중앙은행, 바트화 영향 억제를 위해 온라인 금 거래 플랫폼 규제 강화\n- 3월 1일부터 시행, 1인당 플랫폼당 거래 한도 5천만 바트\n- 기존 금 보유자는 시간 제한 없이 매도 가능, 달러 결제, 전통 금 상점, 금 저축 플랫폼은 해당 X",
+      "full_translated": "태국 중앙은행은 바트화에 미치는 영향을 억제하기 위해 온라인 금 거래 플랫폼에 대한 통제를 강화했으며, 새로운 규칙은 3월 1일부터 시행될 예정입니다. 정부 부대변인 랄리다 페르스비바타나에 따르면 1월 말 기준으로 이미 한도 이상의 금을 보유한 사람은 시간 제한 없이 기존 보유 자산을 판매할 수 있습니다. 그녀는 중앙은행이 고가 거래에 대한 감독을 강화하고 투명성을 높이며 바트화 안정에 대한 위험을 줄이기 위해 바트화로 결제되는 온라인 플랫폼에서 금 거래에 대한 규정을 도입했다고 말했습니다. 주요 조치는 바트화로 결제하는 플랫폼에 적용되는 1인당 플랫폼당 거래당 5천만 바트의 거래 한도입니다. 이는 미국 달러로 결제되는 거래, 전통적인 금 상점, 판매를 허용하지 않는 금 저축 플랫폼 또는 선물 시장 거래에는 적용되지 않습니다. 그러나 2026년 1월 30일 기준으로 5천만 바트 이상의 금을 보유한 투자자는 시간 제한 없이 기존 보유 자산을 판매할 수 있습니다. 바트화와 미국 달러로 결제되는 온라인 금 플랫폼에 대한 추가 거래 규칙이 도입되었습니다. 새로운 요구 사항에 따라 결제를 받거나 지불하기 위해 제3자 계정을 사용하는 것은 엄격히 금지되며 모든 거래는 전자 결제 시스템을 통해 이루어져야 합니다. 전액 결제는...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객에게 직접적인 영향은 적지만, 금융 거래 관련 규제 변경은 알아두면 유용한 정보. 다만, 거래액이 높아 일반 여행객에게는 영향이 적을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Stricter rules for online gold platforms in March",
+          "url": "https://www.bangkokpost.com/business/investment/3205440/stricter-rules-for-online-gold-platforms-in-march",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983485_700.jpg"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983485_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 부동산 시장 회복세",
+      "summary": "- 2025년 4분기 주택 시장이 회복세로 전환됨.\n- 주택 이전 건수 및 가치가 전 분기 대비 증가.\n- 정부의 지원 정책 연장이 시장 모멘텀 유지에 중요.",
+      "full_translated": "부동산 연구원에 따르면 국내 주택 시장은 이미 바닥을 쳤으며, 공급과 수요가 더욱 균형 잡힌 수준으로 이동하고 있습니다. 부동산정보센터(REIC)에 따르면 정부는 시장 모멘텀을 유지하기 위해 지원책을 확대해야 합니다. REIC의 마케팅 사업 담당 수석 부사장인 Narongpol Prapanirin은 2025년 4분기 주거용 부동산 이전 건수가 3분기 대비 단위 기준으로 5.7%, 가치 기준으로 9.3% 증가했다고 밝혔습니다. 4분기에 신규 승인된 주택 융자는 전 분기 대비 1.3% 증가했습니다. 2025년 4분기는 태국 부동산 부문의 회복 조짐을 분명히 반영했으며, 국내 부동산 시장이 최저점을 지났다고 그는 말했습니다. 연간 총 주거용 이전 건수는 316,000건으로 전년 대비 9.1% 감소했고, 총 가치는 8,640억 바트로 11.8% 감소했지만, 2025년 매 분기 상황이 개선되었습니다. 전국의 주거용 부동산 이전 총 가치는 작년 매 분기 증가하여 1분기에 1,810억 바트, 2분기에 2,100억 바트, 3분기에 2,260억 바트, 마지막 분기에 2,470억 바트를 기록했습니다. 신규 주택과 중고 주택 모두의 이전 총 건수는 1분기에 65,200건, 2분기에 77,300건, 3분기에 84,300건, 4분기에 89,100건을 기록했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "부동산 시장 동향은 단기 여행객에게는 직접적인 영향이 적으나, 장기 체류 또는 투자 목적 방문객에게는 유용한 정보가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai property market rebounds",
+          "url": "https://www.bangkokpost.com/property/3205280/thai-property-market-rebounds",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983345_700.jpg"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983345_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 주식 시장, 정치 안정에 힘입어 상승",
+      "summary": "- 태국 선거관리위원회의 새 국회의원 승인과 태국 중앙은행의 2026년 GDP 성장률 전망치 상향 조정에 힘입어 태국 주식 시장이 상승세를 보임.\n- SET 지수는 1,511 포인트로 마감하며 800억 바트의 거래량을 기록.\n- 품짜이타이당(Bhumjaithai Party)이 새로운 연립 정부에서 다수당을 차지하여 정치적 안정성이 높아졌다는 분석.",
+      "full_translated": "태국 주식 시장 투자 심리가 고조되고 있으며, 이는 선거관리위원회의 2월 8일 총선에서 선출된 새 국회의원 승인과 태국 중앙은행의 2026년 GDP 성장률 전망치 상향 조정에 힘입은 결과입니다. 이러한 요인들이 복합적으로 작용하여 태국 지수는 수요일에 1,500 포인트를 넘어섰습니다.\n\n크룽스리 증권의 코라팟 보라체트 부사장은 선거관리위원회가 거의 400명에 달하는 국회의원을 1차로 승인했다는 소식에 힘입어 SET 지수가 20포인트 이상 급등하여 정오에 1,511 포인트로 마감했으며, 거래 가치는 약 800억 바트에 달했다고 밝혔습니다.\n\n그는 \"품짜이타이 당이 새로운 연립 정부에서 다수당을 차지하면서 새로운 행정부와 태국 정치가 더욱 안정화될 것\"이라며, \"이는 시장에 긍정적이며, 임시 재무장관 엑니티 니티탄프라파스가 최근 제안한 '빅 윈' 프레임워크에 따라 투자 중심의 경제 조치를 추진하기 위한 품짜이타이 당 주도의 연립 정부 구성을 지지합니다.\"라고 덧붙였습니다.\n\n또한, 중앙은행 총재 위타이 라타나콘이 화요일에 규제 당국이 올해 GDP 성장률을 이전 전망치인 1.5%에서 1.9%로 상향 조정할 것이라고 밝히면서 주식 시장은 경제 전망 개선에 힘입어 상승했습니다.\n\nBBL 자산 운용(BBLAM)의 이사라 오르디돌체스트 부사장은 최근 발표된 4분기 재무 데이터에서 태국 경제가 상당한 성장을 기록했다고 밝혔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 안정과 경제 성장 관련 뉴스. 여행 자체에는 직접적인 영향이 적지만, 태국 경제 상황을 이해하는 데 도움이 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai stocks balloon  as politics stabilises",
+          "url": "https://www.bangkokpost.com/business/investment/3205315/thai-stocks-balloon-as-politics-stabilises",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205315_260226062347_700.jpg"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205315_260226062347_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "지리 리다라, 태국 전기 픽업트럭 생산 모색",
+      "summary": "- 중국 자동차 제조업체 지리(Geely)의 전기 픽업 브랜드 리다라(Riddara)가 태국 내 전기차 공장 설립 계획을 검토 중.\n- 태국 픽업 시장은 성장 잠재력이 높으며, 전기 픽업트럭이 화석 연료 차량보다 에너지 절약 효과가 크다고 판단.\n- 리다라는 태국을 동남아시아 허브로 삼아 미얀마, 라오스, 필리핀, 말레이시아 등으로 시장을 확대할 계획.",
+      "full_translated": "지리 리다라 태국, 중국 자동차 제조업체 지리의 전기 픽업 브랜드 리다라의 현지 법인은 태국 내 전기 자동차(EV) 공장 설립 계획을 모색하여 태국의 성장하는 EV 시장을 활용하고자 합니다. \n\n카오 펑 지리 리다라 태국 총괄 매니저는 태국의 픽업 시장이 전반적인 픽업 판매 둔화에도 불구하고 배터리 구동 차량에 대한 강력한 잠재력을 제공한다고 말했습니다. 그는 \"이 나라는 픽업 시장에 기회가 있는 시장입니다. 판매가 둔화되었지만 장기적으로 전기 픽업은 화석 연료로 작동하는 차량보다 에너지를 더 절약하므로 계속 성장할 것이라고 확신합니다.\"라고 말했습니다. \n\n태국은 지리가 리다라 브랜드를 확장한 중국 외 첫 번째 국가로, 태국을 동남아시아 허브로 만들고자 하는 회사의 야망을 강조합니다. 리다라는 이미 미얀마, 라오스, 필리핀에서 마케팅 노력을 시작했으며 말레이시아에서도 기회를 연구하고 있습니다. 회사는 올해 태국에서 3,000~5,000대 판매 목표를 설정했습니다. 이를 달성하기 위해 리다라는 법인 구매자와 가족을 대상으로 하는 싱글캡 픽업을 포함한 새로운 모델을 출시할 계획입니다. 2025년에는 태국에서 총 1,000대를 판매했습니다. 입지를 강화하기 위해 리다라는 소매 및 서비스 네트워크를 확장하고 있습니다. 회사는 쇼룸과 서비스 센터 수를 늘릴 계획입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 전기차 산업 동향에 대한 정보. 여행 자체에 직접적인 영향은 적으나, 장기적으로 교통/환경 변화에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Geely Riddara explores Thai EV pickup production",
+          "url": "https://www.bangkokpost.com/business/motoring/3205265/geely-riddara-explores-thai-ev-pickup-production",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983340_700.jpg"
+        }
+      ],
+      "collected_at": "06:53",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983340_700.jpg",
       "date": "2026-02-26"
     }
   ]
