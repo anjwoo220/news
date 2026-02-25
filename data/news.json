@@ -36596,14 +36596,9 @@
       "summary": "- 도이인타논 국립공원에서 호랑이로 추정되는 흔적과 소의 사체가 발견됨.\n- 국립공원 측은 주민 안전을 위해 예방 및 감시 조치를 강화하고, 출입 금지 구역을 설정함.\n- 드론을 이용한 정찰, 수의사 준비, 순찰 강화 등을 통해 상황을 주시하고 있습니다.",
       "full_translated": "도이인타논 국립공원이 호랑이 흔적 발견 후 예방 조치를 발표했습니다. 치앙마이 주민들이 소 3마리가 물려 죽은 채 발견된 사건에 불안감을 느끼고 있으며, 이는 호랑이의 소행으로 추정됩니다.  2월 25일, 도이인타논 국립공원 페이스북 페이지는 호랑이로 추정되는 흔적과 목 부위를 물린 소의 사체가 촘통 지역의 반 무앙 앙에서 발견되었다고 밝혔습니다.  이에 따라 국립공원 측은 지역 주민의 안전을 위해 다음과 같은 예방 및 감시 조치를 시행합니다:\n\n1. 드론을 이용해 해당 지역의 숲을 정찰합니다.\n2. 호랑이 발견 시 즉시 투입될 수 있도록 수의사 팀을 준비합니다.\n3. 지역 사회 주변 지역에 대한 순찰 및 감시를 강화합니다.\n4. 소 사체 발견 지역 주변 주민들에게 경고합니다.\n5. 가축 소유주들에게 가축을 우리에 넣도록 요청합니다.\n\n국립공원 측은 또한 해당 지역 주민들에게 숲에 들어가지 말 것을 경고하고 있으며, 핫라인 1362를 통해 신고할 것을 당부했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국립공원 방문객 안전에 영향을 줄 수 있으며, 여행 시 주의가 필요. 자연 속 액티비티 참여 시 안전 문제 발생 가능성.",
-      "event_info": {
-        "date": null,
-        "location": "도이인타논 국립공원",
-        "price": null,
-        "location_google_map_query": "Doi Inthanon National Park"
-      },
+      "event_info": "{'date': None, 'location': '도이인타논 국립공원', 'price': None, 'location_google_map_query': 'Doi Inthanon National Park'}",
       "references": [
         {
           "title": "อุทยานฯ ดอยอินทนนท์ ออกมาตรการป้องกัน หลังพบร่องรอยคล้ายเสือ - ซากวัวถูกกัดคอ",
@@ -36614,21 +36609,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhsYJieYAW7xP5.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/local/2916305",
+      "source": ""
     },
     {
       "title": "태국, 올해 초 외국인 관광객 600만 명 유치, 3천억 바트 수입 기록",
       "summary": "- 2069년 1월 1일부터 2월 22일까지 외국인 관광객 594만 7434명 방문, 약 2931억 1900만 바트의 수입 창출.\n- 중국, 말레이시아, 러시아, 인도, 한국 순으로 관광객이 많았음.\n- 최근 주간(2월 16~22일) 관광객 수는 감소했지만, 말레이시아와 러시아 관광객은 증가.",
       "full_translated": "태국 정부는 2069년 1월 1일부터 2월 22일까지 총 5,947,434명의 외국인 관광객이 태국을 방문하여 약 293,119백만 바트의 수입을 올렸다고 발표했습니다. 관광객 수 상위 5개국은 중국(969,505명), 말레이시아(573,323명), 러시아(457,250명), 인도(376,738명), 한국(283,623명)입니다.\n\n최근 주간(2월 16일~22일)에는 총 879,587명의 외국인 관광객이 방문하여 이전 주에 비해 소폭 감소(0.34%)했지만, 말레이시아와 러시아 관광객은 각각 33.02%와 7.57% 증가했습니다. 특히 말레이시아 관광객은 8주 만에 11만 명을 넘어섰습니다. 반면 한국, 인도, 중국 관광객은 각각 18.19%, 10.78%, 0.68% 감소했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "최근 태국 방문 외국인 관광객 수 및 주요 국가별 현황 정보는 여행 계획 수립에 참고가 될 수 있으므로 게시.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รัฐบาลปลื้มภาพรวมต้นปี 69 ต่างชาติเที่ยวไทยเกือบ 6 ล้านคน สร้างรายได้เกือบ 3 แสนล้าน",
@@ -36639,21 +36631,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhsYZHrRSvYAaq.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/politic/2916308",
+      "source": ""
     },
     {
       "title": "태국 중앙은행, 3월 1일부터 금 거래 플랫폼 규제 강화: 투명성 제고",
       "summary": "- 태국 중앙은행(BOT)은 3월 1일부터 바트화 결제 금 거래 플랫폼에 대한 규제를 강화합니다.\n- 이는 거래 투명성을 높이고 바트화 가치에 미치는 영향을 줄이기 위한 조치입니다.\n- 개인의 금 매수/매도 한도는 플랫폼당 5천만 바트로 제한됩니다.",
       "full_translated": "태국 정부 부대변인은 태국 중앙은행(BOT)이 바트화로 결제되는 온라인 플랫폼에서의 금 거래를 규제하는 조치를 발표했다고 밝혔습니다. 이 조치는 2026년 3월 1일부터 시행되며, 고액 거래에 대한 감독을 강화하고 투명성을 높이며 바트화 안정에 미치는 영향을 줄이는 것을 목표로 합니다. \n\n주요 내용은 다음과 같습니다.\n\n1.  바트화로 결제되는 플랫폼에서 개인의 금 매수 또는 매도 한도를 플랫폼당 5천만 바트로 제한합니다 (미국 달러로 결제되는 거래, 일반 금 가게, 판매할 수 없는 금 저축 플랫폼, 선물 시장 거래는 제외). 2026년 1월 30일 기준으로 5천만 바트 이상의 금을 보유한 사람들은 기존 보유량에 대해 제한 없이 판매할 수 있습니다.\n2.  플랫폼에서의 금 거래에 대한 추가 조건은 다음과 같습니다. 다른 사람의 계정을 사용하여 자금을 수령하거나 지불하는 것이 금지됩니다. 지불은 전자 시스템을 통해서만 이루어져야 하며 전액 지불해야 합니다. 부분 결제 (순 결제)는 허용되지 않습니다. 금은 직접 수령해야 하며, 금 판매 시 시스템에 금이 있어야 하고 지불이 완료되어야 합니다 (공매도 금지).\n\n이번 조치는 바트화의 변동성을 줄이고 금 거래 기준을 높이는 것을 목표로 하며, 한도 제한은 일반 고객에게만 적용되며 금 사업자 또는 관련 제품 제조업체에는 적용되지 않습니다. 5천만 바트 이하로 거래하는 일반 고객은 영향을 받지 않습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "금 거래 관련 규제 변경은 여행객에게 직접적인 영향을 미치지 않으나, 태국 경제 상황을 이해하는 데 도움이 될 수 있습니다. 다만, 거래 금액 제한이 있어 일반 여행객에게는 영향이 적을 것으로 판단됩니다.",
-      "event_info": {
-        "date": "2026-03-01",
-        "location": "태국",
-        "price": "N/A",
-        "location_google_map_query": "Thailand"
-      },
+      "event_info": "{'date': '2026-03-01', 'location': '태국', 'price': 'N/A', 'location_google_map_query': 'Thailand'}",
       "references": [
         {
           "title": "เริ่ม 1 มี.ค.นี้ ธปท. กำหนดวงเงินซื้อขายทองคำบนแพลตฟอร์มชำระเงินบาท ยกระดับโปร่งใส",
@@ -36664,21 +36653,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOjPJdWtyC4M8CJ.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/politic/2916297",
+      "source": ""
     },
     {
       "title": "태국 총리, 경찰위원회 논의: 수린주 탄약고 폭발 사고는 경찰 대변인에게 설명 요청",
       "summary": "- 아누틴 총리, 경찰위원회에서 수사관 직위 조정 및 승진 평가 기준 논의\n- 수린주 국경경비대 탄약고 폭발 사고 관련, 경찰 대변인에게 상세 내용 설명 지시\n- 수사관 직위 조정은 경찰 개혁의 중요한 단계로 간주됨",
       "full_translated": "아누틴 총리 겸 내무부 장관은 경찰청을 방문하여 경찰정책위원회(꺼.떠.처.) 회의와 경찰공무원위원회(꺼.떠.) 회의를 주재했습니다. 주요 의제는 수사관 직위를 조정하여 직무와 전문성에 따라 직급을 조정할 수 있도록 하는 것, 그리고 승진 평가 기준을 정하는 것입니다. 총리는 수린주 21 국경경비대 탄약고 폭발 사고에 대해 경찰 대변인이 설명하도록 했습니다. 이번 수사관 직위 조정은 경찰 개혁의 중요한 단계로 간주됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "폭발 사고 자체는 여행에 직접적인 위협이 아니지만, 관련 논의는 치안 상황에 대한 간접적인 정보 제공. 여행객 안전에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "수린 주",
-        "price": null,
-        "location_google_map_query": "수린 주"
-      },
+      "event_info": "{'date': None, 'location': '수린 주', 'price': None, 'location_google_map_query': '수린 주'}",
       "references": [
         {
           "title": "นายกฯ ถก ก.ตร. โยนโฆษกตำรวจแจงเหตุระเบิดคลังสรรพาวุธ ตชด.21 สุรินทร์",
@@ -36689,21 +36675,18 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhst3VCpdbJIMF.jpg",
-      "date": "2026-02-25"
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/politic/2916310",
+      "source": ""
     },
     {
       "title": "BYD SEAL 5 DM-i SUPER PHEV, 599,900 바트 가격에 1,100km 주행 가능",
       "summary": "- BYD SEAL 5 DM-i SUPER PHEV 스탠다드 모델이 599,900 바트에 출시됨.\n- 플러그인 하이브리드 차량으로 엔진과 전기 모터 결합, 1,000km 이상 주행 가능.\n- 13.8kWh 배터리 탑재, 순수 전기 모드로 85km 주행 가능하며, 연비는 28.6km/L (제조사 발표).",
       "full_translated": "BYD SEAL 5 DM-i SUPER PHEV STANDARD 모델이 599,900 바트에 출시되었습니다. 이 플러그인 하이브리드 차량은 엔진과 전기 모터의 결합으로 1,000km 이상 주행이 가능합니다. 연비 효율성에 중점을 두어 장거리 운전에 적합하며, 특히 낮은 연료 소비율을 자랑합니다. BYD Blade Battery 13.8 kWh 배터리를 탑재하여 안전성과 내구성을 높였습니다. 순수 전기 모드로 최대 85km까지 주행 가능하며 (NEDC 기준), 1.5리터 가솔린 엔진을 탑재하여 효율적인 에너지 관리를 제공합니다. BYD는 이 차량의 연비를 28.6km/L로 발표했으며, 실제 테스트 결과 90-100km/h 속도에서 24.8km/L를 기록했습니다.\n\nSEAL 5 STANDARD 모델은 현대적인 디자인을 갖추고 있으며, OCEAN AESTHETIC 디자인 컨셉을 반영한 전면 그릴과 LED 헤드라이트를 특징으로 합니다. 17인치 투톤 알로이 휠과 215/55 R17 타이어가 장착되어 있으며, 외장 색상은 Horizon White와 Quantum Black 두 가지 옵션으로 제공됩니다. SEAL 5 DM-i는 C-Segment에 속합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 신차 출시 정보. 여행 자체에는 큰 영향이 없으나, 차량 이용 여행객에게 참고 정보가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": "599,900 바트 (STANDARD 모델)",
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': '599,900 바트 (STANDARD 모델)', 'location_google_map_query': None}",
       "references": [
         {
           "title": "ประกอบไทย ราคาโดนใจ วิ่งไกล 1,100 กิโลเมตร BYD SEAL 5 DM-i SUPER PHEV รุ่นย่อย STANDARD",
@@ -36714,6 +36697,133 @@
       ],
       "collected_at": "10:57",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNgTwzWgbdykqADQdz.jpg",
+      "date": "2026-02-25",
+      "link": "https://www.thairath.co.th/news/auto/testdrive/2915662",
+      "source": ""
+    },
+    {
+      "title": "수판부리에서 학생 수송 차량 충돌 사고 발생, 25명 부상",
+      "summary": "- 2월 25일 오전 7시 30분경, 수판부리에서 학생 수송 차량 2대가 충돌 후 트럭과 추돌하는 사고 발생.\n- 이 사고로 7세에서 17세 사이의 학생 25명이 부상을 입었으며, 2명은 차량에 갇혔다가 구조됨.\n- 사고는 스쿨 버스가 골목에서 나오다 다른 스쿨 버스와 충돌 후, 갓길에 주차된 트럭을 들이받으면서 발생함.",
+      "full_translated": "2월 25일 오전 7시 30분경, 수판부리 지역의 340번 도로 45-46km 지점에서 학생 수송 차량 2대가 충돌 후 트럭과 추돌하는 사고가 발생했습니다. 이 사고로 25명의 학생들이 부상을 입었으며, 그 중 2명은 차량 내에 갇혀 구조대의 도움을 받아 구조되었습니다. 구조대는 유압 절단 장비를 사용하여 학생들을 구조했으며, 부상자들은 방플라마 병원으로 이송되었습니다. 사고는 스쿨 버스 2대가 충돌하면서 발생했으며, 한 버스는 골목에서 나오다가 다른 버스와 충돌 후 갓길에 주차된 트럭을 들이받았습니다. 경찰은 정확한 사고 원인을 조사 중입니다. 부상자 중 일부는 머리가 찢어지거나 팔다리에 상처를 입었으며, 학부모들은 병원으로 달려와 자녀들의 상태를 확인했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "학생 수송 차량 사고로 교통 혼잡이 발생할 수 있으며, 여행객의 이동에 영향을 줄 수 있습니다. 특히 아침 시간대에 발생하여 출근 및 통학에 지장을 줄 가능성이 큽니다.",
+      "event_info": {
+        "date": "2024-02-25",
+        "location": "수판부리 340번 도로 45-46km 지점",
+        "price": null,
+        "location_google_map_query": "340번 도로 수판부리"
+      },
+      "references": [
+        {
+          "title": "รถรับ-ส่งนักเรียน 2 คันพุ่งชนกัน ก่อนเสยท้ายรถพ่วง เด็กเจ็บระนาว 25 ราย",
+          "url": "https://www.thairath.co.th/news/local/2916342",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhq9NdfRCqX5tk.jpg"
+        }
+      ],
+      "collected_at": "12:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhq9NdfRCqX5tk.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "짠타부리 과일 거상 살해 사건: 33세 남성, 채무 관계 살인 혐의로 체포",
+      "summary": "- 짠타부리 지역의 과일 거상이 총에 맞아 사망, 용의자는 33세 남성으로 밝혀짐.\n- 용의자는 피해자와의 채무 문제로 다툼을 벌이다 범행을 저질렀다고 자백.\n- 경찰은 용의자를 체포하고 범행에 사용된 총기와 피해자의 금목걸이를 회수.",
+      "full_translated": "짠타부리 과일 거상 살해 사건. 33세 남성이 짠타부리 지역의 과일 거상을 총으로 쏴 살해하고 금목걸이 5바트를 훔쳐 금은방에 팔았으며, 총과 휴대폰을 물에 버렸습니다. 개인적인 채무 문제로 인한 범행이라고 자백했습니다.\n\n사건은 2월 24일 아침, 뜨랏 지역의 맹그로브 숲 근처에서 과일 거상인 나이 탓사나 분우이가 차량 안에서 총에 맞아 사망한 채 발견되면서 시작되었습니다. 경찰은 살해 동기를 2가지로 추정하고 용의자를 추적해왔습니다.\n\n최근 경찰은 나이 능(33세)을 용의자로 체포하여 범행 현장에서 범행을 재연하고 증거물을 찾는 데 협조하도록 했습니다. 용의자는 피해자와 함께 차를 타고 가던 중 채무 문제로 다투다가 미리 준비한 .38 구경 권총으로 피해자를 쏴 살해했다고 진술했습니다. 이후 피해자의 휴대폰을 물에 버리고 금목걸이를 훔쳐 팔았습니다. 용의자의 여자친구는 금목걸이의 출처를 모른 채 금은방에 팔았다고 합니다.\n\n경찰은 금은방에서 금목걸이를 추적하여 용의자의 여자친구를 먼저 체포한 후 용의자를 체포했습니다. 현재 경찰은 용의자와 여자친구를 분리하여 심문하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 여행객이 많은 지역(뜨랏, 짠타부리)에서 발생한 살인 사건으로, 여행객 안전에 대한 잠재적 위협이 될 수 있다고 판단. 사건 경위가 상세하게 업데이트되었으므로 포함.",
+      "event_info": {
+        "date": "2024-02-24",
+        "location": "뜨랏 지역",
+        "price": null,
+        "location_google_map_query": "Trat, Thailand"
+      },
+      "references": [
+        {
+          "title": "ฆ่าล้างหนี้ จับหนุ่มวัย 33 ยิงเสี่ยผลไม้เมืองจันท์ ชิงทอง 5 บาท โยนปืน-มือถือทิ้งน้ำ",
+          "url": "https://www.thairath.co.th/news/crime/2916338",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhti0YpCB1SZaZ.jpg"
+        }
+      ],
+      "collected_at": "12:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhti0YpCB1SZaZ.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "태국-캄보디아 국경 긴장 고조: 캄보디아 포격에 접경 지역 주민 불안",
+      "summary": "- 캄보디아에서 발사된 40mm 포탄이 태국 국경 근처에 떨어짐.\n- 과거 충돌 경험이 있는 주민들은 추가 충돌에 대비하며 대피 준비.\n- 정부에 상황 대비 및 적절한 보상 지원을 요청.",
+      "full_translated": "최근 캄보디아에서 발사된 40mm 포탄이 태국 시사켓주 칸타락 지역의 '팔란힌 팻 곤' 근처에 떨어지는 사건이 발생했습니다. 이로 인해 과거 캄보디아와의 충돌을 겪었던 접경 지역 주민들은 추가적인 충돌 상황에 대비하며 대피 준비를 하고 있습니다.\n\n주민들은 정부에 상황 대비 태세 유지와 함께 적절한 보상 지원을 요청하고 있습니다. 특히, 국경 지역에서 농사를 짓는 주민들은 생계에 어려움을 겪을 수 있어 정부의 지원이 절실한 상황입니다.\n\n현지 주민 락사쿨(70세)은 과거 여러 차례의 충돌을 경험했기 때문에 이번 사건에 크게 동요하지는 않지만, 여전히 국경 지역에서 생업을 이어가는 주민들을 걱정하고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "국경 지역 긴장 고조는 여행객 안전에 잠재적 위협이 될 수 있으며, 특히 해당 지역 방문 계획이 있는 여행객에게는 정보 제공 필요.",
+      "event_info": {
+        "date": null,
+        "location": "시사켓주 칸타락 지역 (태국-캄보디아 국경)",
+        "price": null,
+        "location_google_map_query": "Kantralak, Sisaket, Thailand"
+      },
+      "references": [
+        {
+          "title": "ชาวบ้านไม่ประมาท หลังกัมพูชายิงระเบิดตกใกล้พลาญหินแปดก้อน พร้อมอพยพหากปะทะรอบ 3",
+          "url": "https://www.thairath.co.th/news/local/northeast/2916332",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCdgUUV2ni9cOdE6.jpg"
+        }
+      ],
+      "collected_at": "12:21",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCdgUUV2ni9cOdE6.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "혼다, City 1.0 터보 고객에게 냉각수 시스템 점검 및 부품 교체 안내",
+      "summary": "- 혼다 오토모빌 태국은 Honda City 1.0 터보 고객에게 냉각수 시스템 점검 및 부품 교체를 권장합니다.\n- 품질이 개선된 새로운 부품으로 교체하여 내구성을 향상시키는 것이 목적입니다.\n- 대상 차량 확인은 웹사이트(https://vinsearch.honda.co.th) 또는 혼다 서비스 센터에서 가능합니다.",
+      "full_translated": "혼다 오토모빌 태국은 Honda City 1.0 터보 사용자에게 개선된 품질의 냉각수 시스템 점검 및 부품 교체를 요청했습니다. 2069년 2월 25일, 혼다 오토모빌 태국은 Honda City 1.0 터보 사용 고객에게 운전 조건에서 내구성을 향상시키기 위해 개선된 품질의 새로운 냉각수 시스템 점검 및 부품 교체 서비스를 받을 것을 요청한다고 밝혔습니다. 차량이 대상인지 확인하려면 웹사이트 https://vinsearch.honda.co.th 에서 확인하거나 전국 혼다 서비스 센터 및 혼다 콜센터 02 341 7777에서 확인할 수 있습니다. 부품 교체를 위해 많은 고객이 서비스를 이용할 수 있으므로 전국 혼다 서비스 센터에 사전 예약을 하는 것이 좋습니다. 점검 및 교체는 무료로 제공됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 중 렌터카를 이용하는 여행객에게 차량 점검 정보는 중요할 수 있으며, 특히 혼다 City 1.0 터보 모델을 이용하는 경우 관련성이 높습니다. 안전과 관련된 정보이므로 안내 가치가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "전국 혼다 서비스 센터",
+        "price": "무료",
+        "location_google_map_query": "Honda service center Thailand"
+      },
+      "references": [
+        {
+          "title": "ฮอนด้า เชิญลูกค้า Honda City 1.0 Turbo ตรวจสอบและเปลี่ยนอะไหล่ชุดหม้อน้ำใหม่",
+          "url": "https://www.thairath.co.th/news/auto/news/2916324",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhs5ux54hJAvLM.jpg"
+        }
+      ],
+      "collected_at": "12:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhs5ux54hJAvLM.jpg",
+      "date": "2026-02-25"
+    },
+    {
+      "title": "칼라신에서 여름 폭풍으로 30채 이상의 가옥 파손",
+      "summary": "- 칼라신 지역에 여름 폭풍으로 인해 주택 23채가 파손되었습니다.\n- 누적 3일 동안 2개 지역, 35가구에 피해가 발생했습니다.\n- 관계 당국은 피해 상황을 조사하고 지원을 제공하고 있습니다.",
+      "full_translated": "칼라신에서 '여름 폭풍'이 몰아쳐 강한 바람과 폭우로 23채의 가옥이 파손되었습니다. 2026년 2월 25일, 재해 예방 및 완화 본부는 2026년 2월 24일 저녁과 밤에 발생한 폭풍으로 인한 피해 상황을 보고했습니다. 캄무앙 지역에서 폭풍 피해가 발생했으며 칼라신 지역의 여러 지역에서 폭우가 내렸습니다. 초기 조사 결과, 피해 지역은 캄무앙 지역의 나탄 지역 4개 마을로 확인되었습니다. 총 23가구가 피해를 입었고, 23채의 주택이 부분적으로 파손되었으며, 곡물 창고 1채와 가축 우리 1채가 파손되었습니다. 부상자나 사망자는 없습니다. 캄무앙 지역 당국은 지역 행정 기관과 협력하여 피해 상황을 신속하게 조사하고 지원을 제공하고 있습니다. 2026년 2월 22일부터 24일까지 칼라신 지역에서 발생한 여름 폭풍으로 인한 피해는 총 2개 지역(후아이멕 및 캄무앙 지역, 3개 구역 7개 마을)에서 발생했습니다. 35가구가 어려움을 겪고 있으며, 30채의 주택, 곡물 창고, 가축 우리, 농업용 건물, 버섯 재배 시설 및 직업 장비 등이 각각 1개씩 파손되었습니다. 칼라신 기상청의 오라타이 분소이 국장은 2026년 2월 24일 칼라신 지역의 강우량이 여러 지역에 분포되어 있다고 보고했습니다. 후아이멕 지역에서 75.0mm로 가장 높은 강우량을 기록했으며, 카오웡 지역에서 54mm의 강우량을 기록했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 북동부 지역의 기상 악화 소식으로, 여행객 안전에 영향을 줄 수 있습니다. 폭풍 피해 지역을 여행하는 경우 주의가 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "칼라신",
+        "price": null,
+        "location_google_map_query": "칼라신"
+      },
+      "references": [
+        {
+          "title": "พายุฤดูร้อนถล่มกาฬสินธุ์ พัดบ้านพังกว่า 30 หลัง ผู้ว่าฯ สั่งเร่งสำรวจช่วยเหลือ",
+          "url": "https://www.thairath.co.th/news/local/northeast/2916326",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhs5gzlDq8WpEn.jpg"
+        }
+      ],
+      "collected_at": "12:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOhs5gzlDq8WpEn.jpg",
       "date": "2026-02-25"
     }
   ]
