@@ -37867,14 +37867,9 @@
       "summary": "- 방콕 파툼완 교차로 인근에서 툭툭을 타고 가던 중국인 여성 관광객 2명의 가방이 오토바이 날치기범에 의해 도난당함.\n- 피해자는 여권, 현금, 아이폰 등을 도난당했으며, 손톱이 찢어지는 부상을 입음.\n- 경찰은 CCTV 영상을 분석하여 용의자를 추적 중.",
       "full_translated": "방콕포스트.com : 태국\n2026년 2월 25일 17:34 게시\n온라인 기자\n경찰은 방콕 파툼완 교차로 근처에서 늦은 밤 움직이는 툭툭을 탄 두 명의 중국 여성으로부터 귀중품을 날치기한 오토바이 도둑 두 명을 쫓고 있습니다. 이번 사건은 화요일 밤 라마 1세 도로 파툼완 공과대학 앞 버스 정류장에서 발생했다고 파툼완 경찰서의 수사관인 몬트리 캄카오 경찰 중령이 말했습니다. 중국인 관광객 창 씨 웽(21세)과 그녀의 홍콩 친구는 이 사건으로 충격을 받았다고 말했습니다. 창 씨는 덩치가 크고 검은색 셔츠를 입은 남성 용의자 2명을 태운 오토바이가 그녀와 친구가 타고 있던 툭툭 옆으로 다가왔다고 말했습니다. 남성 중 한 명이 움직이는 차량에서 그녀의 흰색 숄더백을 낚아챘습니다. 창 씨는 가방을 되찾으려다 실패했고, 이 과정에서 손톱이 찢어졌습니다. 가방 안에는 여권, 홍콩 신분증, 아이폰 X, 지갑, 현금 1,000바트, 홍콩 달러 500달러(2,000바트)가 들어 있었지만 아직 찾지 못했습니다. 용의자들은 오토바이를 타고 파툼완 교차로 방향으로 도주한 것으로 알려졌습니다. 당국은 범인을 추적하기 위해 CCTV 영상을 검토하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객을 대상으로 한 범죄 발생. 특히 툭툭 이용 시 주의가 필요하며, 여권 등 중요 소지품 관리에 대한 경각심을 일깨움.",
-      "event_info": {
-        "date": "2026-02-25",
-        "location": "방콕 파툼완 교차로 인근",
-        "price": null,
-        "location_google_map_query": "Pathumwan intersection Bangkok"
-      },
+      "event_info": "{'date': '2026-02-25', 'location': '방콕 파툼완 교차로 인근', 'price': None, 'location_google_map_query': 'Pathumwan intersection Bangkok'}",
       "references": [
         {
           "title": "Duo on motorbike snatch bag from tuk-tuk tourists",
@@ -37883,23 +37878,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205023_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205023_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205023/duo-on-motorbike-snatch-bag-from-tuktuk-tourists",
+      "source": ""
     },
     {
       "title": "카놈 크록, 2026년 태국 최고의 디저트로 선정",
       "summary": "- 코코넛 라이스 팬케이크, 세계적인 음식 플랫폼 TasteAtlas에서 2026년 태국 최고의 디저트로 선정됨.\n- 전 세계 소비자 및 음식 애호가들의 리뷰와 평가를 기반으로 순위 결정.\n- 코코넛 밀크의 풍부한 향, 바삭한 겉면과 부드러운 속, 세심한 준비 과정이 특징.",
       "full_translated": "코코넛 라이스 팬케이크인 카놈 크록이 세계적인 음식 플랫폼인 TasteAtlas에서 2026년 태국 최고의 디저트로 선정되었습니다. 이 플랫폼은 종종 '세계 음식 지도'라고 불립니다.\n\n이번 순위는 전 세계 소비자 및 음식 애호가들의 리뷰와 평가를 기반으로 했습니다. 아이야린 판릿 정부 부대변인은 이번 결과가 태국 디저트의 매력이 국경을 넘어 여러 문화권 사람들의 마음을 사로잡았음을 반영한다고 밝혔습니다.\n\n카놈 크록은 코코넛 밀크의 풍부한 향, 바삭한 겉면과 부드러운 속, 세심한 준비 과정 등 독특한 특징으로 돋보입니다. 이 모든 것이 대대로 전해 내려오는 태국 요리의 지혜를 구현합니다.\n\n카놈 크록 외에도 카오 니에오 마무앙(망고 찹쌀밥), 카놈 찬(레이어드 젤리 디저트), 롯 총(판단 쌀국수 코코넛 밀크), 람 밋(혼합 열대 디저트), 차오 쿠아이(풀 젤리), 클루아이 톳(바나나 튀김), 파 통 코(태국식 도넛) 등 다른 태국 과자와 인기 간식도 순위에 올랐습니다.\n\n아이아린 씨는 이러한 태국 디저트가 태국 요리 유산의 다양성을 강조하고 음식이 소프트 파워의 중요한 기둥으로서의 역할을 강조한다고 말했습니다. 카놈 크록의 성공은 태국인, 특히 지역 사회, 기업가 및 전통 디저트 제조의 관리자들의 집단적 성과를 나타냅니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 음식에 대한 정보는 여행객에게 흥미로운 로컬 뉴스가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Khanom krok named Thailand’s best dessert of 2026",
@@ -37908,23 +37900,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205068_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205068_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205068/khanom-krok-named-thailands-best-dessert-of-2026",
+      "source": ""
     },
     {
       "title": "푸미자이타이당, 3월 8~9일 부리람에서 의원 총회 개최",
       "summary": "- 푸미자이타이당은 3월 8일과 9일 부리람에서 193명의 의원이 참석하는 첫 공식 회의를 개최할 예정입니다.\n- 아누틴 찬위라쿨 당 대표는 차기 정부의 우선순위와 정책 성명을 발표할 것으로 예상됩니다.\n- 회의는 뉴인 치드초브 당 원로 소유의 창 인터내셔널 서킷에서 열립니다.",
       "full_translated": "푸미자이타이당은 3월 8일과 9일 부리람에서 193명의 의원이 참석하는 첫 공식 회의를 개최할 예정이며, 아누틴 찬위라쿨 당 대표는 차기 정부의 우선순위와 정책 성명을 발표할 것으로 예상됩니다.\n\n당 소식통에 따르면 회의는 뉴인 치드초브 당 원로 소유의 창 인터내셔널 서킷에서 열리며, 아누틴 대표, 총리 후보를 포함한 당의 고위 지도부가 참석할 예정입니다. 또한 엑니티 니티탄프라팟(차기 내각에서 부총리 겸 재무장관을 역임할 것으로 예상), 시하삭 푸앙켓케오(부총리 겸 외무장관 지명), 수파지 수툼푼(부총리 겸 상무장관 제안) 등 주요 인사들이 참석할 예정입니다.\n\n화요일 선거관리위원회의 400개 지역구 의원 중 396명에 대한 인증으로 새로운 의회 회기가 가까워지고 있습니다. 비례대표 후보 100명은 다음 주에 인증될 것으로 예상됩니다. 최소 475명의 의원이 인증되면 의회는 15일 이내에 소집하여 의장을 선출하고 하원에서 총리를 선출해야 합니다.\n\n부리람 회의는 차기 정부 지도자로서 푸미자이타이당 의원들의 업무 방향을 설정할 것입니다. 아누틴 대표는 전국에서 수집한 조사 결과를 발표할 것으로 예상됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황에 대한 정보로, 여행에 직접적인 영향은 적으나 알아두면 유용할 수 있습니다. 정당 정책 방향은 향후 관광 정책에 간접 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": "2026-03-08",
-        "location": "Chang International Circuit, Buri Ram",
-        "price": null,
-        "location_google_map_query": "Chang International Circuit Buri Ram"
-      },
+      "event_info": "{'date': '2026-03-08', 'location': 'Chang International Circuit, Buri Ram', 'price': None, 'location_google_map_query': 'Chang International Circuit Buri Ram'}",
       "references": [
         {
           "title": "All Bhumjaithai MPs to meet in Buri Ram on March 8-9",
@@ -37933,23 +37922,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205058_700.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205058_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205058/all-bhumjaithai-mps-to-meet-in-buri-ram-on-march-89",
+      "source": ""
     },
     {
       "title": "이란, 트럼프의 핵 개발 주장에 '거짓말'이라고 반박",
       "summary": "- 이란은 트럼프 대통령의 이란 핵 개발 주장을 거짓이라고 일축함.\n- 트럼프는 이란이 미국까지 도달할 수 있는 미사일 개발을 가속화하고 있다고 주장했음.\n- 이란 외무부 대변인은 트럼프의 발언을 '거대한 거짓말'이라고 비난하며 정보 왜곡 캠페인이라고 비판함.",
       "full_translated": "이란이 도널드 트럼프 미국 대통령의 발언에 대해 '거짓말'이라고 반박했습니다. 트럼프 대통령은 이란이 미국까지 도달할 수 있는 미사일을 개발하고 핵무기 프로그램을 재개하려 한다고 주장했습니다.\n\n2026년 2월 25일 수요일, 이란은 트럼프 대통령의 연례 정책 연설 중 발언을 '거대한 거짓말'이라고 비난했습니다. 트럼프 대통령은 테헤란이 미국 본토까지 도달할 수 있는 미사일을 개발하고 핵무기 프로그램을 재개하려 한다고 말했습니다.\n\n트럼프 대통령은 \"그들은 이미 유럽과 해외 기지를 위협할 수 있는 미사일을 개발했으며, 이제 곧 미국에 도달할 수 있는 미사일을 만들려고 합니다.\"라고 말했습니다. \"그들은 핵무기 프로그램을 재개하려는 시도를 하지 말라는 경고를 받았지만, 계속하고 있습니다. 그들은 모든 과정을 다시 시작하고 있습니다.\"\n\nAP통신이 분석한 위성 사진에 따르면 이란은 지난 6월 미국이 공격한 미사일 생산 기지를 복구하고 3개의 핵 시설 지역에서 활동을 재개한 것으로 나타났습니다.\n\n그러나 이란 외무부 대변인 에스마일 바가이는 트럼프 대통령의 발언을 아돌프 히틀러의 선전 장관인 요제프 괴벨스의 발언에 비유하며 트럼프와 미국 정부가 이란에 대한 '정보 왜곡 및 허위 정보 캠페인'을 벌이고 있다고 비난했습니다.\n\n바가이는 플랫폼을 통해 \"이란의 핵 프로그램, 유도 미사일, 1월 불안 사태 사망자 수에 대해 그들이 주장하는 것은 '거대한 거짓말'의 재탕일 뿐입니다.\"라고 썼습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체와 직접적인 관련은 없으나, 국제 정세 불안은 잠재적으로 여행 심리에 영향을 줄 수 있으므로 낮은 점수로 기록. 기존 뉴스에 포함되지 않았던 내용이므로 추가.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านจวกทรัมป์ “โกหกคำโต” ยันไม่ได้กำลังพัฒนาอาวุธนิวเคลียร์",
@@ -37958,23 +37944,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrGX0dTcxEBryl.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrGX0dTcxEBryl.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/foreign/2916505",
+      "source": ""
     },
     {
       "title": "펫카셈 경찰서, 지역 사회 안정 구축을 위한 자원 봉사 활동",
       "summary": "- 펫까셈 경찰서 경찰관들이 지역 사회 발전을 위해 자원 봉사 활동에 참여했습니다.\n- '코크 농 나 모델' 프로젝트는 자립적인 농업 및 수자원 관리를 목표로 합니다.\n- 가뭄, 홍수 문제 해결, 식량 안보 구축 및 지역 사회 경제 활성화를 목표로 합니다.",
       "full_translated": "펫카셈 경찰서장 펌. 떠. 어. 쁘라못 짠분깨우은 경찰관 자원 봉사자들과 함께 '콕 농 나' 조경 개선을 위해 현장에 참여하여 농업 또는 생태계 복원에 적합한 지역으로 조정했습니다. 펌. 떠. 어. 쁘라못 짠분깨우 펫카셈 경찰서장은 '콕 농 나 모델' 프로젝트의 주요 목표는 자급 자족적인 농업 및 수자원 관리를 위해 충분한 경제 철학과 새로운 이론을 적용하는 것이라고 말했습니다. 농업 지역과 수자원을 관리하여 가뭄과 홍수 문제를 해결하고 식량 안보를 구축하고 지역 사회 경제를 지속 가능하게 개선하고 유기농 농업을 통해 환경을 복원하여 농민이 일년 내내 스스로 음식을 생산할 수 있도록합니다. 위기 상황에서 소득 부족의 위험을 줄이고 지역 사회의 안정을 구축하고 주민과 경찰을 돕습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 적지만, 지역 사회 관련 정보이므로 낮은 점수를 부여.",
-      "event_info": {
-        "date": null,
-        "location": "เพชรเกษม",
-        "price": null,
-        "location_google_map_query": "เพชรเกษม"
-      },
+      "event_info": "{'date': None, 'location': 'เพชรเกษม', 'price': None, 'location_google_map_query': 'เพชรเกษม'}",
       "references": [
         {
           "title": "สน.เพชรเกษม บก.น.9 จิตอาสาพัฒนา “โคก หนอง นา” สร้างความมั่นคงในชุมชน",
@@ -37983,8 +37966,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsGrrCz5D3fUYm.jpg"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsGrrCz5D3fUYm.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/crime/2916483",
+      "source": ""
+    },
+    {
+      "title": "핏사눌록 버스 쓰레기통에서 발견된 신생아",
+      "summary": "- 핏사눌록의 시외버스에서 신생아가 발견되어 경찰이 수사에 착수했습니다.\n- 탯줄과 태반이 붙어있는 신생아는 버스 화장실 쓰레기통에서 발견되었습니다.\n- 경찰은 신생아를 유기한 여성을 찾고 있으며, 정보 제공을 요청하고 있습니다.",
+      "full_translated": "핏사눌록 — 경찰은 시외버스 쓰레기통에서 신생아가 발견된 후 여성을 찾고 있습니다. 법의학 조사가 시작되었습니다. \n\n수요일 오전 8시경, 핏사눌록 지방 왕통 지역의 차고지에서 운행하는 버스 화장실 쓰레기통에서 탯줄과 태반이 붙어있는 신생아가 발견되었습니다. 당국은 시신을 왕통 병원으로 옮겨 검사를 진행했습니다. \n\n해당 버스는 우돈타니-핏사눌록 야간 노선을 운행했으며, 우돈타니, 농부아람푸, 나클랑, 에라완, 르이 지방의 왕사풍을 거쳐 핏사눌록 버스 터미널 2와 터미널 1에 도착했습니다. 차량은 전날 저녁 6시경부터 차고지에 주차되어 있었습니다.\n\n시신은 버스 승무원인 도클리우 사마티(52세)가 오전 11시 우돈타니행 출발을 위해 차량을 준비하던 중 발견했습니다. 그녀는 쓰레기통을 들어 올렸을 때 평소보다 무겁게 느껴져 신생아를 발견했다고 경찰에 진술했습니다.\n\n르이 지방에서 탑승한 키가 크고 마른 체형에 청바지를 입고 몸이 좋지 않아 보이는 여성 승객이 화장실 근처에 앉아 있다가 핏사눌록 터미널 1에서 하차한 것으로 알려졌습니다. 경찰은 정보가 있는 사람들의 제보를 기다리고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행 지역(핏사눌록)에서 발생한 사건이며, 여행객 안전에 잠재적 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": "2026-02-25",
+        "location": "핏사눌록 버스 터미널",
+        "price": null,
+        "location_google_map_query": "Phitsanulok Bus Terminal"
+      },
+      "references": [
+        {
+          "title": "Newborn found in bus bin in Phitsanulok",
+          "url": "https://www.bangkokpost.com/thailand/general/3204969/newborn-found-in-bus-bin-in-phitsanulok",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204969_700.jpg"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204969_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국, 국경 보안 강화: 인근 국가 단속 피해 도망치는 사기꾼들 증가",
+      "summary": "- 태국 경찰청은 인접 국가의 강화된 단속을 피해 태국으로 몰래 들어오려는 사이버 사기 조직의 시도를 감지하고 국경 보안을 강화했습니다.\n- 외국인 범죄자들은 당국의 급습과 기소 강화로 인해 불법적으로 태국에 입국하려 하고 있습니다.\n- 태국 경찰은 어떠한 형태의 조직 범죄에도 태국이 안식처, 운영 기지, 또는 경유 허브로 사용되는 것을 용납하지 않을 것이라고 강조했습니다.",
+      "full_translated": "태국 경찰청(RTP)은 인접 국가에서 강화된 단속을 피해 태국으로 몰래 들어오려는 초국가적 사기 조직의 시도를 감지하고 국경 보안을 강화하라고 지시했습니다. 외사부 사령관이자 RTP 부대변인인 Jaturapat Piromkaew 경찰 소장은 수요일 당국의 급습과 기소 강화로 인해 국경 간 사이버 사기 네트워크와 관련된 외국인들이 불법적으로 태국에 입국하려는 시도가 증가하고 있다고 밝혔습니다. 그는 태국 경찰의 무관용 정책을 강조하며 태국이 어떠한 형태의 조직 범죄에도 안식처, 운영 기지, 또는 경유 허브로 사용되는 것을 용납하지 않을 것이라고 강조했습니다. 최근 몇 주 동안 경찰은 이민국, 군, 지역 행정 기관과 협력하여 국경을 강화하고 불법 입국을 차단하고 있습니다. 주목할 만한 체포 사례로는 미얀마에서 탁 지방의 매솟 강을 건너려다 체포된 중국인 그룹이 있습니다. 중국인 구금자들은 경찰에게 콜센터 갱단의 강제 노동에서 벗어나기 위해 먀와디의 슈웨 코코에서 도망쳐 태국을 거쳐 본국으로 돌아가려 했다고 진술했습니다. 동부 국경에서는 찬타부리 주 소이 다오 지역의 임시 검문소에서 콜센터 네트워크와 연계된 혐의를 받는 중국인 6명이 자연 경로를 통해 입국하려다 체포되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "최근 태국 국경을 통해 입국하려는 범죄자들이 증가하고 있으며, 이는 잠재적으로 여행객의 안전에 영향을 미칠 수 있습니다. 다만, 직접적인 위협은 아니므로 중간 정도의 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Border security tightened as more scammers flee crackdowns",
+          "url": "https://www.bangkokpost.com/thailand/general/3204974/border-security-tightened-as-more-scammers-flee-crackdowns",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204974_260225144225_700.jpg"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204974_260225144225_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "짠타부리에서 과일 거물, 빚 관련 다툼 끝에 총에 맞아 사망",
+      "summary": "- 짠타부리에서 33세 남성이 과일 거물을 총으로 쏴 살해한 혐의로 체포됨.\n- 피해자는 트랏 지방의 맹그로브 숲 근처 픽업 트럭 안에서 눈에 총을 맞고 발견됨.\n- 용의자는 개인적인 채무 분쟁으로 인해 범행을 저질렀다고 자백함.",
+      "full_translated": "짠타부리 – 경찰은 짠타부리에서 지역 과일 거물을 총으로 쏴 살해하고 약 375,000바트 상당의 금 5바트 무게를 훔친 혐의로 33세 남성을 체포했습니다. 금은 나중에 팔렸고, 총과 휴대 전화는 인근 개울에 버려졌습니다.\n\n피해자인 탓사나 부누이는 화요일 트랏 지방의 맹그로브 숲 근처 픽업 트럭 안에서 눈에 총을 맞고 발견되었습니다. 경찰은 5바트 (76그램) 금 목걸이와 휴대 전화 등 그의 소지품 일부가 없어진 것을 발견했습니다.\n\n같은 날 오후 9시, 경찰은 주요 용의자인 33세의 차크릿 “능” 수넷을 체포했습니다. 그는 개인적인 채무 분쟁으로 인해 범행이 발생했으며 마약과는 관련이 없다고 자백한 것으로 알려졌습니다. 자백 후 용의자는 트랏 시 경찰서에서 추가 심문을 위해 구금되었습니다.\n\n용의자는 수사관에게 금전적 분쟁이 스피커 및 오디오 장비 판매와 관련이 있다고 말한 것으로 알려졌습니다. 그는 30만~40만 바트의 빚을 지고 있었고, 복리 이자로 인해 금액이 계속 증가했습니다. (사진: 자크릿 웨우크라이홍) 수사관은 차크릿 씨와 탓사나 씨가 함께 차에 타고 빚에 대해 다투었다고 말했습니다. 상황이 악화되자 용의자는 .38 구경 권총을 꺼내 피해자를 쐈습니다. 현장에서 도주한 후 용의자는 피해자의 휴대 전화를 약 50미터 떨어진 개울에 던졌고, 총은 다른 200미터 떨어진 곳에 버렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객에게 직접적인 위협은 아니지만, 지역 범죄 소식이므로 인지할 필요가 있음. 특히 짠타부리 지역을 여행하는 경우 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "Chanthaburi, Trat province",
+        "price": null,
+        "location_google_map_query": "Chanthaburi, Trat province"
+      },
+      "references": [
+        {
+          "title": "Fruit tycoon shot to death in debt-related argument",
+          "url": "https://www.bangkokpost.com/thailand/general/3205010/fruit-tycoon-shot-to-death-in-debtrelated-argument",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205010_260225161133_700.jpg"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205010_260225161133_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "타이랏 TV, 'Thailand Social Awards 14회' 수상",
+      "summary": "- 타이랏 TV와 타이랏 뉴스쇼가 'Thailand Social Awards 14회'에서 2개 부문 수상.\n- 타이랏 TV는 방송 부문 최우수상(Winner), 타이랏 뉴스쇼는 뉴스 프로그램 부문 결승 진출(Finalist).\n- 콘텐츠 책임자 Pranat Vilepsuwan은 이번 수상이 언론사로서 타이랏에 대한 신뢰를 보장한다고 언급.",
+      "full_translated": "타이랏 TV와 타이랏 뉴스쇼가 태국 최대 소셜 시상식인 'Thailand Social Awards 14회'에서 2개 상을 받았습니다. WiseSight (Thailand) Co., Ltd.가 주최한 이 행사에서 타이랏 TV는 방송 부문(소셜 미디어 최고의 브랜드 성과)에서 위너상을 수상했으며, 타이랏 뉴스쇼는 뉴스 프로그램 부문(소셜 미디어 최고의 콘텐츠 성과)에서 결승 진출자 상을 받았습니다. Pranat Vilepsuwan 콘텐츠 관리 책임자, Puttichat Jindawong 온라인 뉴스 편집장, Picheth Pantri 타이랏 TV 수석 소셜 콘텐츠 제작 매니저가 True Icon Hall at Iconsiam에서 상을 받았습니다. Pranat Vilepsuwan은 이번 수상은 타이랏이 언론사 1위로서 신뢰를 받고 있다는 것을 보장하는 것이라고 말했습니다. 2025년에는 STO 건물 붕괴, 태국-캄보디아 간 2차례 충돌, Paetongtarn Shinawatra 총리직 사퇴, Anutin Charnvirakul의 총리직 승계, 핫야이 대홍수 등 큰 뉴스가 있었습니다. 타이랏 TV의 소셜 미디어에 대한 이러한 뉴스 보도에 대한 반응은 타이랏이 신문, TV에서 온라인에 이르기까지의 여정을 입증하는 것으로 간주됩니다. 시청자와 독자는 조부모 세대에서 부모 세대로, 그리고 현재 온라인 플랫폼에서 자녀 세대로 신뢰를 전달하고 있으며, 이는 타이랏이 모든 중요한 사건에 대해 모든 측면에서 사실을 보고하기 위해 노력해야 하는 중요한 임무입니다. Thailand Social Awards의 상은 권위 있는 상이며 소셜 미디어 세계에서의 성공을 입증합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 미디어 산업 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ไทยรัฐทีวี-ไทยรัฐนิวส์โชว์ ผงาดคว้ารางวัล “Thailand Social Awards ครั้งที่ 14”",
+          "url": "https://www.thairath.co.th/news/local/2916463",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHkQj1KZPkH3A.jpg"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHkQj1KZPkH3A.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 선거관리위원회, 5개 주 9개 투표소에서 재검표 명령",
+      "summary": "- 태국 선거관리위원회(EC)는 방콕 및 4개 주 9개 투표소에서 재검표를 명령했습니다.\n- 이는 투표소 및 개표위원회 운영의 부정행위 의혹에 따른 조치입니다.\n- 재검표는 투명성 및 공공 신뢰를 유지하기 위해 3월 1일까지 완료될 예정입니다.",
+      "full_translated": "태국 선거관리위원회(EC)는 방콕 및 기타 4개 주의 9개 투표소에서 투표 재검표를 명령했습니다. EC 사무국과 지방 및 방콕 선거 사무소의 사실 조사 보고서 권고에 따라 9개 투표소에서 지역구 의원 및 비례대표 의원에 대한 새로운 집계를 실시하기로 했습니다. EC 사무국은 월요일, 9개 투표소는 수판부리 4곳, 찬타부리 2곳, 방콕, 트랑, 사뭇사콘에 각각 1곳씩 있다고 밝혔습니다. 이번 조치는 2026년 2월 1일과 2월 8일에 투표소 또는 개표위원회의 부정행위 의혹을 제기하는 언론 보도와 불만에 따른 것입니다. 지적된 문제에는 후보자 명단 불완전 게시, 투표용지를 표시하지 않고 투표 수를 읽는 행위, 명확한 가시성 없이 집계 표시, 과도한 집계 표시 등이 포함되었습니다. EC는 재검표가 투명성과 공공 신뢰를 유지하기 위해 법률에 따라 정직하고 공정하게 실시되도록 하는 데 목적이 있다고 밝혔습니다. 모든 9개 투표소는 3월 1일까지 재검표를 완료하도록 지시받았습니다. 2월 17일, EC는 방콕 1곳을 포함한 8곳에서 재검표를 명령하고 파야오 주 1곳에서 새로운 선거를 명령했습니다. 2월 8일 총선에서는 99,487개의 투표소가 있었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "선거 관련 뉴스는 여행 자체에 직접적인 영향은 적으나, 정치적 불안정 가능성을 내포하고 있어 낮은 점수 부여. 최신 업데이트이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "EC orders recount at nine more polling stations in five provinces",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205003/ec-orders-recount-at-nine-more-polling-stations-in-five-provinces",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205003_700.jpg"
+        }
+      ],
+      "collected_at": "01:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205003_700.jpg",
       "date": "2026-02-26"
     }
   ]
