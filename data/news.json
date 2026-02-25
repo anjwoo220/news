@@ -38174,14 +38174,9 @@
       "summary": "- 파타야에서 한국인 관광객이 트랜스젠더 여성에게 2만 바트를 도난당함.\n- 용의자는 독일인 관광객 폭행 사건에도 연루된 'Fueang Fah'로 추정됨.\n- 경찰은 용의자를 추적 중이며, 관광객 안전에 주의 요망.",
       "full_translated": "파타야 경찰은 독일인 관광객 폭행 사건의 용의자인 트랜스젠더 'Fueang Fah'가 한국인 관광객 대상 절도 및 난동 사건에도 연루된 것으로 보고 수사 중입니다. 최초 사건은 2026년 2월 24일 자정 무렵, 55세 독일인 관광객 Markus 씨가 파타야 해변 근처에서 5~6명의 트랜스젠더 여성에게 폭행당했다는 신고에서 시작되었습니다. 보고에 따르면 Santl 씨는 두 명의 트랜스젠더 여성을 호텔 방으로 초대했지만, 생물학적으로 여성이 아니라는 사실을 알고 나가달라고 요청했습니다. 이후 그는 방에서 많은 현금이 사라진 것을 알게 되었습니다. 돈을 돌려달라고 요구하며 용의자들을 쫓아가자, 그들은 그를 심하게 구타하여 부상을 입혔습니다. 경찰은 폭행과 관련하여 4명의 용의자를 체포했으며, 짙은 흰색 바디 크림을 바르는 습관으로 알려진 'Fueang Fah'를 포함한 2명은 아직 도주 중입니다. 놀랍게도 수사관들은 'Fueang Fah'가 얼마 지나지 않아 또 다른 범죄를 저지른 것으로 의심하고 있습니다. 같은 날 오전 3시 53분경, 해변 폭행 사건 이후 불과 2시간 30분 만에 46세 한국인 김상열 씨는 동료 2명과 함께 파타야 남부 해변 지역에서 'Fueang Fah'를 포함한 3명의 트랜스젠더 여성을 후아이 야이 하위 구역 1번 빌리지에 있는 임대 풀 빌라로 초대하여 파티와 음주를 즐겼습니다. 술자리 도중 김 씨는 현금 2만 바트가 없어진 것을 발견했습니다. 그가 일행에게 질문하자 'Fueang Fah'는 흥분하여 과민 반응을 보이며 '미친' 행동을 보였다고 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "한국인 관광객 대상 범죄 발생. 용의자가 다른 범죄에도 연루되어 있어 추가 피해 우려.",
-      "event_info": {
-        "date": "2026-02-24",
-        "location": "파타야 해변, 후아이 야이",
-        "price": "20000 바트 도난",
-        "location_google_map_query": "Pattaya Beach, Huai Yai"
-      },
+      "event_info": "{'date': '2026-02-24', 'location': '파타야 해변, 후아이 야이', 'price': '20000 바트 도난', 'location_google_map_query': 'Pattaya Beach, Huai Yai'}",
       "references": [
         {
           "title": "Pattaya Police Link Fugitive Transgender Suspect in Assault on German Tourist to Second Theft and Rampage Incident Against Korean Tourist",
@@ -38190,40 +38185,35 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260225_1445345523577215974117780.jpg?v=1772005617"
         }
       ],
-      "collected_at": "03:27",
+      "collected_at": "3:27",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260225_1445345523577215974117780.jpg?v=1772005617",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://thepattayanews.com/2026/02/25/pattaya-police-link-fugitive-transgender-suspect-in-assault-on-german-tourist-to-second-theft-and-rampage-incident-against-korean-tourist/",
+      "source": ""
     },
     {
       "title": "국경 보안 강화: 인근 국가 단속 피해 도망치는 사기꾼들 증가",
       "summary": "- 태국이 국경 보안을 강화하고 있습니다.\n- 인근 국가에서 단속을 피해 도망치는 사기꾼들이 증가하고 있기 때문입니다.\n- 여행 시 주의가 필요합니다.",
       "full_translated": "태국은 인근 국가의 단속을 피해 도망치는 사기꾼들이 증가함에 따라 국경 보안을 강화하고 있습니다. 이는 여행객들에게 잠재적인 위협이 될 수 있으므로 주의가 필요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 대상 사기 증가 가능성. 국경 지역 여행 시 주의 요망.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [],
-      "collected_at": "03:27",
-      "date": "2026-02-26"
+      "collected_at": "3:27",
+      "image_url": "",
+      "date": "2026-02-26",
+      "link": "",
+      "source": ""
     },
     {
       "title": "파타야 코코넛 숲에서 해골과 뼈 발견",
       "summary": "- 파타야의 코코넛 숲에서 라오스 노동자가 해골과 뼈 조각을 발견했습니다.\n- 유골은 최소 2~3개월 전에 사망한 것으로 추정됩니다.\n- 경찰은 유골 주변에서 여성 의류가 담긴 가방을 발견하고 연관성을 조사 중입니다.",
       "full_translated": "파타야에서 끔찍한 발견이 있었습니다. 라오스 노동자가 꿈에서 본 환영에 이끌려 코코넛 숲에서 사람의 해골과 뼈를 발견했습니다.\n\n오전 10시 20분경, 방라뭉 경찰서 부감인 마놋 티펫 경감은 반 나 왕 – 퐁 사켓 도로를 따라 무 5의 카오 송 피 농 근처 코코넛 숲에서 사람 뼈 조각이 발견되었다는 신고를 받았습니다. 경찰은 수사관, 촌부리 지역 2 과학 수사국의 법의학 담당관, 파타야 파툼쿤 병원의 의사, 사왕 보리분 재단 파타야 지부의 구조대원과 함께 현장으로 급히 달려갔습니다.\n\n새로 심은 코코넛 나무로 개발 중인 농장 지역에서 경찰은 해골 1개, 위팔 부분 2개, 골반뼈 1개, 그리고 여러 개의 작은 조각을 포함한 흩어진 사람 뼈 조각을 발견했습니다. 유골은 40~50미터 간격으로 흩어져 있었습니다. 예비 추정치에 따르면 개인은 최소 2~3개월 전에 사망했습니다. 반경 100~200미터 이내에서 추가 주요 뼈는 발견되지 않았습니다. 그러나 해골에서 약 10미터 떨어진 곳에서 경찰은 6~7점의 여성 의류가 들어 있는 가방을 발견했습니다. 의류가 유골과 관련이 있는지는 불분명합니다.\n\n발견자인 잠캇(23세) 씨는 코코넛 숲에서 일하는 라오스 국적자로, 아침에 새 나무에 물을 주러 왔다가 처음에는 가짜 사람 해골이라고 생각한 것을 발견했다고 경찰에 말했습니다. 자세히 살펴보니 진짜인 것을 알고 즉시 고용주에게 알렸습니다. 잠캇 씨는 전날 밤의 충격적인 경험에 대해 파타야 뉴스에 다음과 같이 말했습니다. 꿈에서 한 여성이...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "범죄 사건은 여행객 안전에 영향을 줄 수 있으므로 중간 점수 부여. 파타야 지역 방문객에게 주의를 환기시키는 목적.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 반 나 왕 – 퐁 사켓 도로 인근 코코넛 숲",
-        "price": null,
-        "location_google_map_query": "Ban Na Wang – Pong Saket Road, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야 반 나 왕 – 퐁 사켓 도로 인근 코코넛 숲', 'price': None, 'location_google_map_query': 'Ban Na Wang – Pong Saket Road, Pattaya'}",
       "references": [
         {
           "title": "Chilling Discovery in Pattaya as Human Skull and Bones Found in Coconut Grove, Laotian Worker Claims Dream Vision Guided Him to Remains",
@@ -38232,23 +38222,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17720105999947362446060493003746.jpg?v=1772010756"
         }
       ],
-      "collected_at": "03:27",
+      "collected_at": "3:27",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17720105999947362446060493003746.jpg?v=1772010756",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://thepattayanews.com/2026/02/25/chilling-discovery-in-pattaya-as-human-skull-and-bones-found-in-coconut-grove-laotian-worker-claims-dream-vision-guided-him-to-remains/",
+      "source": ""
     },
     {
       "title": "파타야, 제13회 성 패트릭 데이 퍼레이드 2026 개최 발표: 관광 및 공동체 정신 활성화",
       "summary": "- 파타야 시는 2026년 성 패트릭 데이 퍼레이드를 개최하여 관광 산업을 활성화하고 공동체 정신을 고취할 예정입니다.\n- 퍼레이드는 센트럴 파타야 해변에서 시작하여 도시 주요 도로를 따라 진행되며, 파타야 시 학교 8에서 마무리됩니다.\n- 올해 행사는 아일랜드 문화 축하뿐만 아니라 지역 경제 및 관광 활성화에 기여할 것으로 기대됩니다.",
       "full_translated": "파타야 시는 관광 및 공동체 정신을 활성화하기 위해 제13회 성 패트릭 데이 퍼레이드 2026 개최를 발표했습니다.\n\n시장과 함께 파더 레이 재단의 코 키앗 디스리 신부, 파타야 시의회 의원 반종 분툰프라육, 라이온스 클럽 파타야 탁신 지구 310 C 대표, 아일랜드 커뮤니티 회원 및 관련 정부 기관과 민간 부문 기업 대표들이 참석했습니다. 13회째를 맞는 이 퍼레이드는 성 패트릭 데이를 기념하고 정부, 민간 부문 및 지역 비즈니스 소유자 간의 긍정적인 관계를 구축하며 파타야의 관광을 촉진하기 위한 것입니다. 개막식 및 퍼레이드 시작은 센트럴 파타야 해변 활동 구역에서 진행됩니다. 행렬은 도시의 주요 경로를 따라 진행된 후 파타야 시 학교 8 (왓 얀상와라람 학교, 일명 파타야누쿤 학교) 운동장에서 마무리됩니다.\n\n포라메세 응암피쳇 시장은 이 행사가 아일랜드 문화를 기념하는 것 이상이라고 밝혔습니다. 그는 “올해 퍼레이드는 아일랜드 전통에 대한 헌사일 뿐만 아니라 파타야의 지역 경제와 관광을 활성화하는 핵심 활동입니다.”라고 말했습니다. “행렬은 도시의 주요 도로를 따라 이동하며 상쾌한 바닷바람이 파타야 해변을 따라 녹색 깃발을 흔들며 우리 도시에 흥분을 가져다 줄 것입니다. 정부, 민간 부문 및 대중 간의 단결을 촉진하는 동시에 다양한 행사를 개최할 수 있는 최고의 목적지로서 파타야의 이미지를 강화합니다.”\n\n성 패트릭 데이는 아일랜드의 수호성인인 성 패트릭을 기리기 위해 3월 17일에 열리는 연례 아일랜드 축제입니다. 서기 3년에 태어났습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야에서 열리는 축제 정보. 여행객들에게 흥미로운 이벤트가 될 수 있음.",
-      "event_info": {
-        "date": "2026-03-17",
-        "location": "Central Pattaya Beach and main city routes",
-        "price": "무료",
-        "location_google_map_query": "Central Pattaya Beach"
-      },
+      "event_info": "{'date': '2026-03-17', 'location': 'Central Pattaya Beach and main city routes', 'price': '무료', 'location_google_map_query': 'Central Pattaya Beach'}",
       "references": [
         {
           "title": "Pattaya City Announces 13th Annual St. Patrick’s Day Parade 2026 to Boost Tourism and Community Spirit",
@@ -38257,8 +38244,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_1772019549904285242962942315507.jpg?v=1772020319"
         }
       ],
-      "collected_at": "03:27",
+      "collected_at": "3:27",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_1772019549904285242962942315507.jpg?v=1772020319",
+      "date": "2026-02-26",
+      "link": "https://thepattayanews.com/2026/02/25/pattaya-city-announces-13th-annual-st-patricks-day-parade-2026-to-boost-tourism-and-community-spirit/",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변, 독일인 관광객 습격 사건 후 관광객 안전 강화 위한 순찰 강화",
+      "summary": "- 방라뭉 지역 책임자가 파타야 해변에서 관광객 안전 강화를 위한 순찰을 강화하고 있습니다.\n- 최근 독일인 관광객이 트랜스젠더 여성들에게 습격당하는 사건이 발생하여 관광 경찰과 협력하여 순찰을 강화합니다.\n- 주요 목표는 범죄 예방, 관광객 안전 확보, 파타야의 안전한 관광 허브 이미지 회복입니다.",
+      "full_translated": "방라뭉 지역 책임자가 파타야 해변에서 관광객 안전을 강화하기 위한 집중 순찰을 지휘하고 있습니다. 이는 독일인 관광객이 파타야 해변에서 트랜스젠더 여성들에게 강도를 당하고 폭행당한 사건이 발생한 후 이루어진 조치입니다. 이번 작전에는 방라뭉 지역의 공무원들이 파타야 관광 경찰서의 파윗 침팔리 서장과 협력하여 경찰 인력과 함께 참여했습니다. 팀은 파타야 해변 도로의 마이크 쇼핑몰 앞 관광 경찰 검문소에 모여 해변 전체를 따라 도보로 철저한 검사를 실시했습니다. 순찰의 주요 목표는 범죄 활동을 예방 및 억제하고, 거주민과 관광객의 생명과 재산을 보호하며, 파타야의 안전한 관광 허브로서의 이미지를 회복하는 것입니다. 대규모 관광객이 모이는 고위험 지역과 장소에서 사전 모니터링에 중점을 두었습니다. 이러한 강화된 조치는 앞서 언급한 바와 같이 55세의 독일인 관광객이 파타야 해변 도로에서 트랜스젠더 태국 여성 그룹에게 폭행 및 강도를 당한 사건 이후에 이루어졌습니다. 관광객 호텔 방에서 돈이 사라진 것에 대한 다툼에서 비롯된 이 다툼은 피해자에게 부상을 입혔고, 해당 지역의 안전에 대한 인식을 부정적으로 만들면서 상당한 언론의 관심을 끌었습니다. 순찰 중 경찰관은 펍에 모인 그룹을 적극적으로 검사했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "최근 파타야 해변에서 발생한 관광객 대상 범죄로 인해 관광객 안전에 대한 우려가 커지고 있으며, 이에 대한 대응으로 순찰이 강화되어 여행 안전에 직접적인 영향을 미치므로 높은 점수를 부여합니다. 시간 경과에 따른 업데이트로 볼 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변",
+        "price": null,
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Banglamung District Chief Leads Intensified Foot Patrols on Pattaya Beach to Boost Tourist Safety Following Assault on German Tourist",
+          "url": "https://thepattayanews.com/2026/02/25/banglamung-district-chief-leads-intensified-foot-patrols-on-pattaya-beach-to-boost-tourist-safety-following-assault-on-german-tourist/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17719843100082317641996220535899.jpg?v=1771984486"
+        }
+      ],
+      "collected_at": "04:01",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17719843100082317641996220535899.jpg?v=1771984486",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "코브라 골드 2026 훈련 시작: 다국적 군사 협력 강화",
+      "summary": "- 코브라 골드 2026 훈련이 태국에서 공식적으로 시작되었습니다.\n- 30개국 8,000명 이상 참여, 인도-태평양 지역 안보 협력 강화 목표입니다.\n- 육해공, 사이버 등 전 영역 통합 작전 수행 능력 향상에 집중합니다.",
+      "full_translated": "코브라 골드 2026 훈련이 공식적으로 시작되었습니다. 개막식에는 우크릿 분타논다 태국군 최고 사령관, 숀 K. 오닐 주태국 미국 대사, 매튜 맥팔레인 미국 제1군단 사령관 등이 참석했습니다. 싱가포르, 인도네시아, 대한민국, 일본, 말레이시아의 태국 주재 대사들도 이 행사에 참석했습니다. 올해 훈련은 2026년 2월 23일부터 3월 6일까지 진행되며(주요 활동은 2월 24일부터 시작), 30개 참가국에서 8,000명 이상의 인원이 참여합니다. 이번 훈련은 태국군과 미국 인도-태평양 사령부가 공동 주최합니다. 코브라 골드 2026의 주요 목표는 인도-태평양 전역에서 상호 운용성, 전투 준비 태세 및 지역 안보 협력을 강화하는 것입니다. 이번 훈련은 육해공, 우주 및 사이버 영역을 통합하는 완전한 스펙트럼의 합동 전 영역 작전(CJADO)에 중점을 둡니다. 활동은 중앙 작전 센터를 통해 지휘소 훈련(CPX)과 야전 훈련(FTX)을 연결합니다. 주요 구성 요소에는 육상, 해상 및 공중에서의 다국적 작전과 우주 및 사이버 영역에 대한 지속적인 강조가 포함됩니다. 추가 훈련은 지리 공간 정보(GEOINT), 신호 정보(SIGINT) 및 인도적 지원 및 재해 구호(HADR)를 다룹니다. 훈련의 하이라이트는 태국의 K9 USAR 팀과 유명한 'Mi-6'을 특징으로 하는 HADR 역량 시연입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "대규모 훈련으로 일부 지역 교통 혼잡 예상, 테러 대비 필요성 환기.",
+      "event_info": {
+        "date": "2026-02-23",
+        "location": "태국 (훈련 장소는 다양)",
+        "price": "정보 없음",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Cobra Gold 2026 Officially Underway",
+          "url": "https://thepattayanews.com/2026/02/25/cobra-gold-2026-officially-underway/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17719857520864946503606729105817.jpg?v=1771986268"
+        }
+      ],
+      "collected_at": "04:01",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17719857520864946503606729105817.jpg?v=1771986268",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 쌀 수출 급감, 2026년 5년 만에 최저치 전망",
+      "summary": "- 1월 태국 쌀 수출량 17.5% 감소, 수출액 30.7% 급감.\n- 강세 바트화와 글로벌 경쟁 심화로 2026년 수출량 5년 만에 최저치 예상.\n- 미국 수입 관세 및 글로벌 공급 과잉도 수출 감소 요인으로 작용.",
+      "full_translated": "태국의 쌀 수출이 1월에 급격히 감소하여 2026년 수출량이 강세 바트화와 심화되는 세계 경쟁 속에서 5년 만에 최저치를 기록할 수 있다는 우려가 제기되었습니다. 태국 쌀 수출 협회의 명예 회장인 추키앗 오파스웡세는 1월 수출량이 총 53만 톤으로 전년 동기 대비 17.5% 감소했으며 수출액은 97억 바트로 30.7% 급감했다고 밝혔습니다. 이 부문이 거센 역풍에 직면함에 따라 올해 중반까지 월평균 약 50만 톤의 수출량이 예상됩니다. 협회는 2026년 총 쌀 수출량을 703만 톤으로 전망하며 이는 2025년 790만 톤에서 11% 감소한 수치로 5년 만에 최저 수준입니다. 수출액은 1,300억~1,400억 바트로 12.3% 감소할 것으로 예상됩니다. 수출업체들은 5가지 주요 위험 요인을 언급했습니다. 가장 큰 요인은 미국 달러 대비 약 31바트 수준으로 강세를 보이는 바트화로 태국 쌀 가격을 경쟁국보다 비싸게 만듭니다. 현재 태국 자스민 쌀 가격은 톤당 약 1,200달러로 세계에서 가장 높으며 인도 바스마티 쌀은 약 970달러, 베트남과 캄보디아의 유사 등급 쌀은 800~830달러입니다. 태국 5% 백미 가격도 주요 경쟁국보다 높습니다. 다른 압력으로는 섹션 122에 따른 임시 미국 수입 관세가 있으며 이는 150일 동안 15%의 일괄 관세를 부과하여 태국 자스민 쌀의 미국 수출을 15~20% 줄일 수 있습니다. 미국은 태국 최대의 자스민 쌀 시장으로 총 자스민 수출의 약 절반을 차지합니다. 인도에서 기록적인 생산량을 포함한 글로벌 공급 과잉, 수입 r",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 쌀 가격 상승이 단기적으로 여행 비용에 미치는 영향은 미미.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai rice exports fall 17.5% in January, 2026 outlook seen at five-year low",
+          "url": "https://www.khaosodenglish.com/tech/2026/02/25/thai-rice-exports-fall-17-5-in-january-2026-outlook-seen-at-five-year-low/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/closeup-food-staple-white-wooden.jpg"
+        }
+      ],
+      "collected_at": "04:01",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/closeup-food-staple-white-wooden.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "파타야 뉴스, YouTube 채널에서 시청 가능",
+      "summary": "- 파타야 뉴스가 YouTube 채널을 통해 실시간 현지 뉴스를 제공합니다.\n- 고화질 영상으로 사실에 기반한 뉴스를 짧고 명확하게 전달합니다.\n- 폭력적이거나 불쾌감을 줄 수 있는 장면은 자제하여 시청자의 불편함을 최소화합니다.",
+      "full_translated": "YouTube는 세계에서 가장 인기 있는 비디오 플랫폼이며 다른 미디어 플랫폼에 비해 장점이 있습니다. YouTube의 비디오는 대형 및 소형 화면 모두에서 고화질로 볼 수 있습니다. 일부 다른 소셜 미디어 플랫폼은 세로 또는 '세로' 화면 비율을 권장하지만 이는 촬영 방식과 다른 경우가 많습니다. 이로 인해 그림의 일부만 보이는 경우가 많습니다. YouTube에서는 이러한 비디오를 올바른 가로 또는 '가로' 형식으로 볼 수 있습니다. YouTube를 구독하고 The Pattaya News가 새로운 콘텐츠를 업로드할 때마다 알림을 받는 것은 쉽고 무료입니다. The Pattaya News YouTube 채널을 구독하여 뉴스를 원래 의도대로 시청하십시오. The Pattaya News YouTube 채널은 일반적으로 하루에 몇 개의 비디오를 게시하며 실제 현지 뉴스에 중점을 두고 실제 현장 기자가 촬영합니다. 우리는 사실에 초점을 맞추고 의견을 배제하여 시청자만이 뉴스에 대한 의견을 갖도록 합니다. 또한 토론 스타일의 비디오를 믿지 않으므로 시청하는 뉴스가 다른 미디어에서 흔히 볼 수 있는 논쟁적인 의견이 아닌 실제 뉴스임을 확신할 수 있습니다. 또한 보고서를 짧고 간결하며 명확하게 유지하여 시청자에게 알아야 할 사실을 제공합니다. 마지막으로 시청자는 폭력 및 그래픽 콘텐츠에 대한 다양한 민감도와 허용 수준을 가지고 있다는 것을 알고 있으므로 일부 시청자의 감정을 상하게 할 수 있는 것은 보여주지 않으면서도 콘텐츠와 컨텍스트를 제공합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야 지역 정보 접근성 향상. 여행자에게 유용한 정보 채널 소개이지만, 기존 뉴스 매체 홍보 성격이 강하여 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Are You Aware That The Pattaya News is Available on YouTube?",
+          "url": "https://thepattayanews.com/2026/02/25/are-you-aware-that-the-pattaya-news-is-available-on-youtube/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475"
+        }
+      ],
+      "collected_at": "04:01",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 국토방위군, 1,713명에게 계급 수여",
+      "summary": "- 태국 국토방위군에 공헌한 1,713명에게 계급 수여\n- 2026년 2월 17일부터 효력 발생\n- 총리실, 관보를 통해 발표",
+      "full_translated": "관보에 따르면 2026년 국토방위군에 공헌한 1,713명에게 계급이 수여되었습니다. 해당 조치는 2026년 2월 17일부터 효력이 발생합니다.  총리실은 관보를 통해 해당 사실을 발표했습니다.  자세한 내용은 여기에서 확인할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 국토방위군 관련 소식으로, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "โปรดเกล้าฯ พระราชทานยศกองอาสารักษาดินแดน จำนวน 1,713 ราย",
+          "url": "https://www.thairath.co.th/news/politic/2916497",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHMznen4RxFii.jpg"
+        }
+      ],
+      "collected_at": "04:01",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHMznen4RxFii.jpg",
       "date": "2026-02-26"
     }
   ]
