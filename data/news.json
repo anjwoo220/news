@@ -37977,14 +37977,9 @@
       "summary": "- 핏사눌록의 시외버스에서 신생아가 발견되어 경찰이 수사에 착수했습니다.\n- 탯줄과 태반이 붙어있는 신생아는 버스 화장실 쓰레기통에서 발견되었습니다.\n- 경찰은 신생아를 유기한 여성을 찾고 있으며, 정보 제공을 요청하고 있습니다.",
       "full_translated": "핏사눌록 — 경찰은 시외버스 쓰레기통에서 신생아가 발견된 후 여성을 찾고 있습니다. 법의학 조사가 시작되었습니다. \n\n수요일 오전 8시경, 핏사눌록 지방 왕통 지역의 차고지에서 운행하는 버스 화장실 쓰레기통에서 탯줄과 태반이 붙어있는 신생아가 발견되었습니다. 당국은 시신을 왕통 병원으로 옮겨 검사를 진행했습니다. \n\n해당 버스는 우돈타니-핏사눌록 야간 노선을 운행했으며, 우돈타니, 농부아람푸, 나클랑, 에라완, 르이 지방의 왕사풍을 거쳐 핏사눌록 버스 터미널 2와 터미널 1에 도착했습니다. 차량은 전날 저녁 6시경부터 차고지에 주차되어 있었습니다.\n\n시신은 버스 승무원인 도클리우 사마티(52세)가 오전 11시 우돈타니행 출발을 위해 차량을 준비하던 중 발견했습니다. 그녀는 쓰레기통을 들어 올렸을 때 평소보다 무겁게 느껴져 신생아를 발견했다고 경찰에 진술했습니다.\n\n르이 지방에서 탑승한 키가 크고 마른 체형에 청바지를 입고 몸이 좋지 않아 보이는 여성 승객이 화장실 근처에 앉아 있다가 핏사눌록 터미널 1에서 하차한 것으로 알려졌습니다. 경찰은 정보가 있는 사람들의 제보를 기다리고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행 지역(핏사눌록)에서 발생한 사건이며, 여행객 안전에 잠재적 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": "2026-02-25",
-        "location": "핏사눌록 버스 터미널",
-        "price": null,
-        "location_google_map_query": "Phitsanulok Bus Terminal"
-      },
+      "event_info": "{'date': '2026-02-25', 'location': '핏사눌록 버스 터미널', 'price': None, 'location_google_map_query': 'Phitsanulok Bus Terminal'}",
       "references": [
         {
           "title": "Newborn found in bus bin in Phitsanulok",
@@ -37993,17 +37988,107 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204969_700.jpg"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204969_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3204969/newborn-found-in-bus-bin-in-phitsanulok",
+      "source": ""
     },
     {
       "title": "태국, 국경 보안 강화: 인근 국가 단속 피해 도망치는 사기꾼들 증가",
       "summary": "- 태국 경찰청은 인접 국가의 강화된 단속을 피해 태국으로 몰래 들어오려는 사이버 사기 조직의 시도를 감지하고 국경 보안을 강화했습니다.\n- 외국인 범죄자들은 당국의 급습과 기소 강화로 인해 불법적으로 태국에 입국하려 하고 있습니다.\n- 태국 경찰은 어떠한 형태의 조직 범죄에도 태국이 안식처, 운영 기지, 또는 경유 허브로 사용되는 것을 용납하지 않을 것이라고 강조했습니다.",
       "full_translated": "태국 경찰청(RTP)은 인접 국가에서 강화된 단속을 피해 태국으로 몰래 들어오려는 초국가적 사기 조직의 시도를 감지하고 국경 보안을 강화하라고 지시했습니다. 외사부 사령관이자 RTP 부대변인인 Jaturapat Piromkaew 경찰 소장은 수요일 당국의 급습과 기소 강화로 인해 국경 간 사이버 사기 네트워크와 관련된 외국인들이 불법적으로 태국에 입국하려는 시도가 증가하고 있다고 밝혔습니다. 그는 태국 경찰의 무관용 정책을 강조하며 태국이 어떠한 형태의 조직 범죄에도 안식처, 운영 기지, 또는 경유 허브로 사용되는 것을 용납하지 않을 것이라고 강조했습니다. 최근 몇 주 동안 경찰은 이민국, 군, 지역 행정 기관과 협력하여 국경을 강화하고 불법 입국을 차단하고 있습니다. 주목할 만한 체포 사례로는 미얀마에서 탁 지방의 매솟 강을 건너려다 체포된 중국인 그룹이 있습니다. 중국인 구금자들은 경찰에게 콜센터 갱단의 강제 노동에서 벗어나기 위해 먀와디의 슈웨 코코에서 도망쳐 태국을 거쳐 본국으로 돌아가려 했다고 진술했습니다. 동부 국경에서는 찬타부리 주 소이 다오 지역의 임시 검문소에서 콜센터 네트워크와 연계된 혐의를 받는 중국인 6명이 자연 경로를 통해 입국하려다 체포되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "최근 태국 국경을 통해 입국하려는 범죄자들이 증가하고 있으며, 이는 잠재적으로 여행객의 안전에 영향을 미칠 수 있습니다. 다만, 직접적인 위협은 아니므로 중간 정도의 점수를 부여합니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Border security tightened as more scammers flee crackdowns",
+          "url": "https://www.bangkokpost.com/thailand/general/3204974/border-security-tightened-as-more-scammers-flee-crackdowns",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204974_260225144225_700.jpg"
+        }
+      ],
+      "collected_at": "1:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204974_260225144225_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3204974/border-security-tightened-as-more-scammers-flee-crackdowns",
+      "source": ""
+    },
+    {
+      "title": "짠타부리에서 과일 거물, 빚 관련 다툼 끝에 총에 맞아 사망",
+      "summary": "- 짠타부리에서 33세 남성이 과일 거물을 총으로 쏴 살해한 혐의로 체포됨.\n- 피해자는 트랏 지방의 맹그로브 숲 근처 픽업 트럭 안에서 눈에 총을 맞고 발견됨.\n- 용의자는 개인적인 채무 분쟁으로 인해 범행을 저질렀다고 자백함.",
+      "full_translated": "짠타부리 – 경찰은 짠타부리에서 지역 과일 거물을 총으로 쏴 살해하고 약 375,000바트 상당의 금 5바트 무게를 훔친 혐의로 33세 남성을 체포했습니다. 금은 나중에 팔렸고, 총과 휴대 전화는 인근 개울에 버려졌습니다.\n\n피해자인 탓사나 부누이는 화요일 트랏 지방의 맹그로브 숲 근처 픽업 트럭 안에서 눈에 총을 맞고 발견되었습니다. 경찰은 5바트 (76그램) 금 목걸이와 휴대 전화 등 그의 소지품 일부가 없어진 것을 발견했습니다.\n\n같은 날 오후 9시, 경찰은 주요 용의자인 33세의 차크릿 “능” 수넷을 체포했습니다. 그는 개인적인 채무 분쟁으로 인해 범행이 발생했으며 마약과는 관련이 없다고 자백한 것으로 알려졌습니다. 자백 후 용의자는 트랏 시 경찰서에서 추가 심문을 위해 구금되었습니다.\n\n용의자는 수사관에게 금전적 분쟁이 스피커 및 오디오 장비 판매와 관련이 있다고 말한 것으로 알려졌습니다. 그는 30만~40만 바트의 빚을 지고 있었고, 복리 이자로 인해 금액이 계속 증가했습니다. (사진: 자크릿 웨우크라이홍) 수사관은 차크릿 씨와 탓사나 씨가 함께 차에 타고 빚에 대해 다투었다고 말했습니다. 상황이 악화되자 용의자는 .38 구경 권총을 꺼내 피해자를 쐈습니다. 현장에서 도주한 후 용의자는 피해자의 휴대 전화를 약 50미터 떨어진 개울에 던졌고, 총은 다른 200미터 떨어진 곳에 버렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5.0,
+      "impact_reason": "여행객에게 직접적인 위협은 아니지만, 지역 범죄 소식이므로 인지할 필요가 있음. 특히 짠타부리 지역을 여행하는 경우 주의 필요.",
+      "event_info": "{'date': None, 'location': 'Chanthaburi, Trat province', 'price': None, 'location_google_map_query': 'Chanthaburi, Trat province'}",
+      "references": [
+        {
+          "title": "Fruit tycoon shot to death in debt-related argument",
+          "url": "https://www.bangkokpost.com/thailand/general/3205010/fruit-tycoon-shot-to-death-in-debtrelated-argument",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205010_260225161133_700.jpg"
+        }
+      ],
+      "collected_at": "1:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205010_260225161133_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205010/fruit-tycoon-shot-to-death-in-debtrelated-argument",
+      "source": ""
+    },
+    {
+      "title": "타이랏 TV, 'Thailand Social Awards 14회' 수상",
+      "summary": "- 타이랏 TV와 타이랏 뉴스쇼가 'Thailand Social Awards 14회'에서 2개 부문 수상.\n- 타이랏 TV는 방송 부문 최우수상(Winner), 타이랏 뉴스쇼는 뉴스 프로그램 부문 결승 진출(Finalist).\n- 콘텐츠 책임자 Pranat Vilepsuwan은 이번 수상이 언론사로서 타이랏에 대한 신뢰를 보장한다고 언급.",
+      "full_translated": "타이랏 TV와 타이랏 뉴스쇼가 태국 최대 소셜 시상식인 'Thailand Social Awards 14회'에서 2개 상을 받았습니다. WiseSight (Thailand) Co., Ltd.가 주최한 이 행사에서 타이랏 TV는 방송 부문(소셜 미디어 최고의 브랜드 성과)에서 위너상을 수상했으며, 타이랏 뉴스쇼는 뉴스 프로그램 부문(소셜 미디어 최고의 콘텐츠 성과)에서 결승 진출자 상을 받았습니다. Pranat Vilepsuwan 콘텐츠 관리 책임자, Puttichat Jindawong 온라인 뉴스 편집장, Picheth Pantri 타이랏 TV 수석 소셜 콘텐츠 제작 매니저가 True Icon Hall at Iconsiam에서 상을 받았습니다. Pranat Vilepsuwan은 이번 수상은 타이랏이 언론사 1위로서 신뢰를 받고 있다는 것을 보장하는 것이라고 말했습니다. 2025년에는 STO 건물 붕괴, 태국-캄보디아 간 2차례 충돌, Paetongtarn Shinawatra 총리직 사퇴, Anutin Charnvirakul의 총리직 승계, 핫야이 대홍수 등 큰 뉴스가 있었습니다. 타이랏 TV의 소셜 미디어에 대한 이러한 뉴스 보도에 대한 반응은 타이랏이 신문, TV에서 온라인에 이르기까지의 여정을 입증하는 것으로 간주됩니다. 시청자와 독자는 조부모 세대에서 부모 세대로, 그리고 현재 온라인 플랫폼에서 자녀 세대로 신뢰를 전달하고 있으며, 이는 타이랏이 모든 중요한 사건에 대해 모든 측면에서 사실을 보고하기 위해 노력해야 하는 중요한 임무입니다. Thailand Social Awards의 상은 권위 있는 상이며 소셜 미디어 세계에서의 성공을 입증합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3.0,
+      "impact_reason": "태국 미디어 산업 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "ไทยรัฐทีวี-ไทยรัฐนิวส์โชว์ ผงาดคว้ารางวัล “Thailand Social Awards ครั้งที่ 14”",
+          "url": "https://www.thairath.co.th/news/local/2916463",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHkQj1KZPkH3A.jpg"
+        }
+      ],
+      "collected_at": "1:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHkQj1KZPkH3A.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/local/2916463",
+      "source": ""
+    },
+    {
+      "title": "태국 선거관리위원회, 5개 주 9개 투표소에서 재검표 명령",
+      "summary": "- 태국 선거관리위원회(EC)는 방콕 및 4개 주 9개 투표소에서 재검표를 명령했습니다.\n- 이는 투표소 및 개표위원회 운영의 부정행위 의혹에 따른 조치입니다.\n- 재검표는 투명성 및 공공 신뢰를 유지하기 위해 3월 1일까지 완료될 예정입니다.",
+      "full_translated": "태국 선거관리위원회(EC)는 방콕 및 기타 4개 주의 9개 투표소에서 투표 재검표를 명령했습니다. EC 사무국과 지방 및 방콕 선거 사무소의 사실 조사 보고서 권고에 따라 9개 투표소에서 지역구 의원 및 비례대표 의원에 대한 새로운 집계를 실시하기로 했습니다. EC 사무국은 월요일, 9개 투표소는 수판부리 4곳, 찬타부리 2곳, 방콕, 트랑, 사뭇사콘에 각각 1곳씩 있다고 밝혔습니다. 이번 조치는 2026년 2월 1일과 2월 8일에 투표소 또는 개표위원회의 부정행위 의혹을 제기하는 언론 보도와 불만에 따른 것입니다. 지적된 문제에는 후보자 명단 불완전 게시, 투표용지를 표시하지 않고 투표 수를 읽는 행위, 명확한 가시성 없이 집계 표시, 과도한 집계 표시 등이 포함되었습니다. EC는 재검표가 투명성과 공공 신뢰를 유지하기 위해 법률에 따라 정직하고 공정하게 실시되도록 하는 데 목적이 있다고 밝혔습니다. 모든 9개 투표소는 3월 1일까지 재검표를 완료하도록 지시받았습니다. 2월 17일, EC는 방콕 1곳을 포함한 8곳에서 재검표를 명령하고 파야오 주 1곳에서 새로운 선거를 명령했습니다. 2월 8일 총선에서는 99,487개의 투표소가 있었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3.0,
+      "impact_reason": "선거 관련 뉴스는 여행 자체에 직접적인 영향은 적으나, 정치적 불안정 가능성을 내포하고 있어 낮은 점수 부여. 최신 업데이트이므로 포함.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "EC orders recount at nine more polling stations in five provinces",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205003/ec-orders-recount-at-nine-more-polling-stations-in-five-provinces",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205003_700.jpg"
+        }
+      ],
+      "collected_at": "1:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205003_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/politics/3205003/ec-orders-recount-at-nine-more-polling-stations-in-five-provinces",
+      "source": ""
+    },
+    {
+      "title": "태국 국경 보안 강화: 인근 국가 단속 피해 도망치는 사기꾼들 증가",
+      "summary": "- 태국 정부가 인근 국가의 단속을 피해 도주하는 사기꾼들의 유입을 막기 위해 국경 보안을 강화하고 있습니다.\n- 최근 주변국에서 사기 범죄 단속이 강화됨에 따라 태국으로 도피하는 범죄자들이 늘고 있습니다.\n- 여행객들은 이러한 상황을 인지하고 개인 소지품 관리에 더욱 주의를 기울여야 합니다.",
+      "full_translated": "태국 정부는 인근 국가에서 사기 단속이 강화됨에 따라 국경 보안을 강화하고 있습니다. 이는 다른 국가에서 단속을 피해 태국으로 도피하려는 사기꾼들의 유입을 막기 위한 조치입니다. 여행객들은 이러한 상황을 인지하고 귀중품을 포함한 개인 소지품 관리에 각별히 주의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "사기꾼 유입 증가로 여행객 대상 범죄 발생 가능성 증가. 여행객 안전에 직접적인 영향을 줄 수 있으므로 포함.",
       "event_info": {
         "date": null,
         "location": null,
@@ -38013,47 +38098,70 @@
       "references": [
         {
           "title": "Border security tightened as more scammers flee crackdowns",
-          "url": "https://www.bangkokpost.com/thailand/general/3204974/border-security-tightened-as-more-scammers-flee-crackdowns",
-          "source": "Bangkokpost.com : Thailand",
-          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204974_260225144225_700.jpg"
+          "url": null,
+          "source": "Google News"
         }
       ],
-      "collected_at": "01:54",
-      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3204974_260225144225_700.jpg",
+      "collected_at": "02:45",
       "date": "2026-02-26"
     },
     {
-      "title": "짠타부리에서 과일 거물, 빚 관련 다툼 끝에 총에 맞아 사망",
-      "summary": "- 짠타부리에서 33세 남성이 과일 거물을 총으로 쏴 살해한 혐의로 체포됨.\n- 피해자는 트랏 지방의 맹그로브 숲 근처 픽업 트럭 안에서 눈에 총을 맞고 발견됨.\n- 용의자는 개인적인 채무 분쟁으로 인해 범행을 저질렀다고 자백함.",
-      "full_translated": "짠타부리 – 경찰은 짠타부리에서 지역 과일 거물을 총으로 쏴 살해하고 약 375,000바트 상당의 금 5바트 무게를 훔친 혐의로 33세 남성을 체포했습니다. 금은 나중에 팔렸고, 총과 휴대 전화는 인근 개울에 버려졌습니다.\n\n피해자인 탓사나 부누이는 화요일 트랏 지방의 맹그로브 숲 근처 픽업 트럭 안에서 눈에 총을 맞고 발견되었습니다. 경찰은 5바트 (76그램) 금 목걸이와 휴대 전화 등 그의 소지품 일부가 없어진 것을 발견했습니다.\n\n같은 날 오후 9시, 경찰은 주요 용의자인 33세의 차크릿 “능” 수넷을 체포했습니다. 그는 개인적인 채무 분쟁으로 인해 범행이 발생했으며 마약과는 관련이 없다고 자백한 것으로 알려졌습니다. 자백 후 용의자는 트랏 시 경찰서에서 추가 심문을 위해 구금되었습니다.\n\n용의자는 수사관에게 금전적 분쟁이 스피커 및 오디오 장비 판매와 관련이 있다고 말한 것으로 알려졌습니다. 그는 30만~40만 바트의 빚을 지고 있었고, 복리 이자로 인해 금액이 계속 증가했습니다. (사진: 자크릿 웨우크라이홍) 수사관은 차크릿 씨와 탓사나 씨가 함께 차에 타고 빚에 대해 다투었다고 말했습니다. 상황이 악화되자 용의자는 .38 구경 권총을 꺼내 피해자를 쐈습니다. 현장에서 도주한 후 용의자는 피해자의 휴대 전화를 약 50미터 떨어진 개울에 던졌고, 총은 다른 200미터 떨어진 곳에 버렸습니다.",
+      "title": "파타야, 2026년 국제 연 축제 개최 (센트럴 파타야 협력)",
+      "summary": "- 파타야 해변에서 2026년 2월 25일부터 3월 1일까지 국제 연 축제 개최.\n- 10개국 이상에서 온 150개 이상의 연이 1km 해변에 전시될 예정.\n- 거대한 팽창식 디자인, 만화 테마 창작물, LED 야간 쇼 등 다양한 볼거리 제공.",
+      "full_translated": "파타야 시청 부시장인 Siwatch Boonkoed 씨는 파타야 시장 Poramese Ngampichet 씨를 대신하여 오후 3시에 개막식을 주재했습니다. 이 행사는 센트럴 파타야 쇼핑 센터 바로 맞은편 파타야 해변에서 열렸으며, 시원한 해안 분위기를 즐기려는 현지인, 태국 방문객, 외국인 관광객들이 몰려들었습니다. 센트럴 마리나 아울렛의 제트팟 차로엔피팟굴 부총괄(센트럴 파타야 대표)은 축제의 하이라이트에 대한 보고서를 발표했습니다. 개막식에는 Peerapong Sampru 방라뭉 지역장, Panrada Attohi 파타야 부시장, 태국 관광청(TAT) 파타야 사무소의 Chaiwat Tamthai 소장, Thaitan Kite Team Thailand의 Worakit Nawasakulkiat 설립자, 파타야 해양부 대표, 관광 개발 국장 및 관련 기관 관계자 등이 참석했습니다. 2026년 2월 25일부터 3월 1일까지 열리는 이 축제에는 10개국 이상에서 온 국제 연 팀의 인상적인 전시가 있으며, 150개 이상의 연이 1km가 넘는 해변을 따라 하늘을 날아다닐 예정입니다. 하이라이트로는 거대한 팽창식 디자인의 동기화된 퍼레이드, 만화 테마 창작물, LED 조명이 켜진 야간 쇼(날씨에 따라), 어린이를 위한 연 만들기 워크숍과 같은 인터랙티브 활동이 있습니다. 센트럴 파타야를 포함한 공공 및 민간 부문과의 협력으로 조직된 이 행사는",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "국제적인 축제 소식으로, 파타야를 방문하는 관광객에게 유용한 정보 제공. 2026년에 열리는 행사이지만, 미리 정보를 제공하여 여행 계획에 참고할 수 있도록 함.",
+      "event_info": {
+        "date": "2026-02-25 ~ 2026-03-01",
+        "location": "Pattaya Beach directly opposite Central Pattaya shopping center",
+        "price": "무료",
+        "location_google_map_query": "Pattaya Beach Central Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Launches 2026 International Kite Festival on Beachfront In Partnership With Central Pattaya",
+          "url": "https://thepattayanews.com/2026/02/25/pattaya-launches-2026-international-kite-festival-on-beachfront-in-partnership-with-central-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_1772032293588804296978445953278.jpg?v=1772032517"
+        }
+      ],
+      "collected_at": "02:45",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_1772032293588804296978445953278.jpg?v=1772032517",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "우돈타니 생일 파티에서 마약 소탕 작전, 12만 8천 정 압수",
+      "summary": "- 우돈타니에서 생일 파티 중 마약 소지 혐의로 9명 체포.\n- 메스암페타민 12만 8천 정, 케타민, 콜라겐 혼합 마약 등 압수.\n- 현금, 금, 차량 등 총 220만 바트 상당의 자산 압류.",
+      "full_translated": "우돈타니 – 2026년 2월 25일 — 경찰은 생일 파티에서 마약 소지 혐의로 9명을 체포하고 약 220만 바트 상당의 자산과 함께 메스암페타민 12만 8천 정을 압수했다고 수요일 관계자들이 밝혔다. 피싯 차이 아파이야굴 부지사와 고위 경찰관은 우돈타니 지방 경찰 본부 밖에서 열린 11시 30분 기자 회견에서 체포를 발표했다. 구금된 사람들은 경찰에 의해 Frame(28세), Phu(22세), Jay(20세), Pongphisit(20세), Pongphon(28세), Patcharita(29세), Nattreeya(30세), Ek(30세), Art(35세)라는 닉네임과 나이로만 확인되었다. 압수된 품목에는 메스암페타민 정제 128,000개, 케타민 11팩(57.77그램), 메스암페타민과 혼합된 콜라겐 16팩, 케타민 베이프 포드 4개, 휴대 전화 10대가 포함되었다. 당국은 또한 방콕에 등록된 흰색 혼다 시티, 방콕에 등록된 주황색 4도어 포드 레인저 픽업 트럭, 검은색 혼다 리드 오토바이, 1바트 무게의 금 목걸이, 1살룽 무게의 금 반지, 현금 40,000바트, 은행 계좌에 보관된 345,460바트 등의 자산을 압수했다. 총 가치는 220만 바트로 추산되었다. 경찰은 수사관들이 Frame이 우돈타니 시내에서 메스암페타민을 판매하고 있다는 정보를 입수한 2월 24일 밤에 작전이 시작되었다고 밝혔다. Frame은 Yai로 알려진 주요 지역 딜러로부터 마약 구매를 주선하기 위한 함정 수사에 사용되었다. 대신 Yai는 Phu를 보내 약물을 전달한 혐의를 받고 있다. Phu는 5팩과 함께 체포되었다.",
       "category": "POLITICS",
       "tourist_impact_score": 5,
-      "impact_reason": "여행객에게 직접적인 위협은 아니지만, 지역 범죄 소식이므로 인지할 필요가 있음. 특히 짠타부리 지역을 여행하는 경우 주의 필요.",
+      "impact_reason": "마약 관련 범죄는 여행객 안전에 간접적인 영향을 미칠 수 있으며, 특히 우돈타니 지역을 여행하는 경우 주의가 필요.",
       "event_info": {
-        "date": null,
-        "location": "Chanthaburi, Trat province",
+        "date": "2026-02-24",
+        "location": "우돈타니",
         "price": null,
-        "location_google_map_query": "Chanthaburi, Trat province"
+        "location_google_map_query": "우돈타니"
       },
       "references": [
         {
-          "title": "Fruit tycoon shot to death in debt-related argument",
-          "url": "https://www.bangkokpost.com/thailand/general/3205010/fruit-tycoon-shot-to-death-in-debtrelated-argument",
-          "source": "Bangkokpost.com : Thailand",
-          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205010_260225161133_700.jpg"
+          "title": "Birthday drug party bust nets 128,000 pills",
+          "url": "https://www.khaosodenglish.com/news/2026/02/25/birthday-drug-party-bust-nets-128000-pills/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Birthday-drug-party-bust-nets-128000-pills.jpg"
         }
       ],
-      "collected_at": "01:54",
-      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205010_260225161133_700.jpg",
+      "collected_at": "02:45",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Birthday-drug-party-bust-nets-128000-pills.jpg",
       "date": "2026-02-26"
     },
     {
-      "title": "타이랏 TV, 'Thailand Social Awards 14회' 수상",
-      "summary": "- 타이랏 TV와 타이랏 뉴스쇼가 'Thailand Social Awards 14회'에서 2개 부문 수상.\n- 타이랏 TV는 방송 부문 최우수상(Winner), 타이랏 뉴스쇼는 뉴스 프로그램 부문 결승 진출(Finalist).\n- 콘텐츠 책임자 Pranat Vilepsuwan은 이번 수상이 언론사로서 타이랏에 대한 신뢰를 보장한다고 언급.",
-      "full_translated": "타이랏 TV와 타이랏 뉴스쇼가 태국 최대 소셜 시상식인 'Thailand Social Awards 14회'에서 2개 상을 받았습니다. WiseSight (Thailand) Co., Ltd.가 주최한 이 행사에서 타이랏 TV는 방송 부문(소셜 미디어 최고의 브랜드 성과)에서 위너상을 수상했으며, 타이랏 뉴스쇼는 뉴스 프로그램 부문(소셜 미디어 최고의 콘텐츠 성과)에서 결승 진출자 상을 받았습니다. Pranat Vilepsuwan 콘텐츠 관리 책임자, Puttichat Jindawong 온라인 뉴스 편집장, Picheth Pantri 타이랏 TV 수석 소셜 콘텐츠 제작 매니저가 True Icon Hall at Iconsiam에서 상을 받았습니다. Pranat Vilepsuwan은 이번 수상은 타이랏이 언론사 1위로서 신뢰를 받고 있다는 것을 보장하는 것이라고 말했습니다. 2025년에는 STO 건물 붕괴, 태국-캄보디아 간 2차례 충돌, Paetongtarn Shinawatra 총리직 사퇴, Anutin Charnvirakul의 총리직 승계, 핫야이 대홍수 등 큰 뉴스가 있었습니다. 타이랏 TV의 소셜 미디어에 대한 이러한 뉴스 보도에 대한 반응은 타이랏이 신문, TV에서 온라인에 이르기까지의 여정을 입증하는 것으로 간주됩니다. 시청자와 독자는 조부모 세대에서 부모 세대로, 그리고 현재 온라인 플랫폼에서 자녀 세대로 신뢰를 전달하고 있으며, 이는 타이랏이 모든 중요한 사건에 대해 모든 측면에서 사실을 보고하기 위해 노력해야 하는 중요한 임무입니다. Thailand Social Awards의 상은 권위 있는 상이며 소셜 미디어 세계에서의 성공을 입증합니다.",
+      "title": "태국, 한번 가면 빠져나올 수 없는 매력?",
+      "summary": "- 외국인 틱톡 사용자가 태국 여행의 중독성을 유머러스하게 경고하는 영상이 화제.\n- 영상 속 사용자는 태국에 짧게 방문하면 일상에 적응하기 힘들어진다고 주장.\n- 태국 사용자들은 해당 영상에 유쾌하게 반응하며 공감하는 분위기.",
+      "full_translated": "외국인 틱톡 사용자가 태국을 방문하지 말라는 내용의 영상으로 입소문을 탔습니다. 역설적이게도 태국이 그를 사랑에 빠지게 만들었다는 이유를 설명합니다.\n\n영상에서 Alex Glabdorf(@alex.glandorf)는 운전하면서 카메라를 향해 \"태국에 가지 마세요. 절대 가지 마세요.\"라고 반복해서 말합니다. 그는 1~2주 여행을 예약한 여행객은 결국 집으로 돌아가야 할 것이며, 돌아가면 태국 생각을 멈출 수 없어 직장과 평범한 삶을 \"싫어하게\" 될 것이라고 농담합니다. 그는 방문객들이 모든 것을 팔고 영구적으로 돌아가고 싶어할 것이라고 주장하며, 자신도 돈이 바닥나기 전에 1년 동안 태국에서 지냈다고 말합니다. 그는 \"태국이 내 돈을 다 가져갔다\"고 말하며 4월 송끄란 축제에 누가 갈 것인지 묻는 것으로 영상을 마무리합니다.\n\n이 영상은 빠르게 온라인에서 인기를 얻으며 태국 사용자들로부터 유쾌하고 자랑스럽다는 반응을 얻었습니다. 많은 외국인 시청자들도 자신의 경험과 여행 계획을 공유하며 토론에 참여했습니다. 일부는 며칠 안에 태국으로 간다고 말했고, 다른 사람들은 이미 여러 번 방문했으며 다음 여행을 간절히 기다리고 있다고 썼으며, 태국을 \"최고의 나라\"이자 \"최고의 사람들\"이 있는 곳이라고 묘사했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
-      "impact_reason": "태국 미디어 산업 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 매력을 간접적으로 홍보하는 내용으로, 여행 심리를 자극할 수 있어 중간 점수 부여. 직접적인 여행 정보는 아니지만, 잠재적 여행객에게 흥미를 유발할 수 있음.",
       "event_info": {
         "date": null,
         "location": null,
@@ -38062,39 +38170,14 @@
       },
       "references": [
         {
-          "title": "ไทยรัฐทีวี-ไทยรัฐนิวส์โชว์ ผงาดคว้ารางวัล “Thailand Social Awards ครั้งที่ 14”",
-          "url": "https://www.thairath.co.th/news/local/2916463",
-          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
-          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHkQj1KZPkH3A.jpg"
+          "title": "“Don’t Go to Thailand,” Foreigner says here’s why",
+          "url": "https://www.khaosodenglish.com/life/2026/02/25/dont-go-to-thailand-foreigner-says-heres-why/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/022222.jpg"
         }
       ],
-      "collected_at": "01:54",
-      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHkQj1KZPkH3A.jpg",
-      "date": "2026-02-26"
-    },
-    {
-      "title": "태국 선거관리위원회, 5개 주 9개 투표소에서 재검표 명령",
-      "summary": "- 태국 선거관리위원회(EC)는 방콕 및 4개 주 9개 투표소에서 재검표를 명령했습니다.\n- 이는 투표소 및 개표위원회 운영의 부정행위 의혹에 따른 조치입니다.\n- 재검표는 투명성 및 공공 신뢰를 유지하기 위해 3월 1일까지 완료될 예정입니다.",
-      "full_translated": "태국 선거관리위원회(EC)는 방콕 및 기타 4개 주의 9개 투표소에서 투표 재검표를 명령했습니다. EC 사무국과 지방 및 방콕 선거 사무소의 사실 조사 보고서 권고에 따라 9개 투표소에서 지역구 의원 및 비례대표 의원에 대한 새로운 집계를 실시하기로 했습니다. EC 사무국은 월요일, 9개 투표소는 수판부리 4곳, 찬타부리 2곳, 방콕, 트랑, 사뭇사콘에 각각 1곳씩 있다고 밝혔습니다. 이번 조치는 2026년 2월 1일과 2월 8일에 투표소 또는 개표위원회의 부정행위 의혹을 제기하는 언론 보도와 불만에 따른 것입니다. 지적된 문제에는 후보자 명단 불완전 게시, 투표용지를 표시하지 않고 투표 수를 읽는 행위, 명확한 가시성 없이 집계 표시, 과도한 집계 표시 등이 포함되었습니다. EC는 재검표가 투명성과 공공 신뢰를 유지하기 위해 법률에 따라 정직하고 공정하게 실시되도록 하는 데 목적이 있다고 밝혔습니다. 모든 9개 투표소는 3월 1일까지 재검표를 완료하도록 지시받았습니다. 2월 17일, EC는 방콕 1곳을 포함한 8곳에서 재검표를 명령하고 파야오 주 1곳에서 새로운 선거를 명령했습니다. 2월 8일 총선에서는 99,487개의 투표소가 있었습니다.",
-      "category": "POLITICS",
-      "tourist_impact_score": 3,
-      "impact_reason": "선거 관련 뉴스는 여행 자체에 직접적인 영향은 적으나, 정치적 불안정 가능성을 내포하고 있어 낮은 점수 부여. 최신 업데이트이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
-      "references": [
-        {
-          "title": "EC orders recount at nine more polling stations in five provinces",
-          "url": "https://www.bangkokpost.com/thailand/politics/3205003/ec-orders-recount-at-nine-more-polling-stations-in-five-provinces",
-          "source": "Bangkokpost.com : Thailand",
-          "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205003_700.jpg"
-        }
-      ],
-      "collected_at": "01:54",
-      "image_url": "https://static.bangkokpost.com/media/content/20260225/c1_3205003_700.jpg",
+      "collected_at": "02:45",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/022222.jpg",
       "date": "2026-02-26"
     }
   ]
