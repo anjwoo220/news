@@ -38563,14 +38563,9 @@
       "summary": "- 쿠바 해안 경비대가 미국 등록 고속정에 사격하여 4명이 사망하고 6명이 부상했습니다.\n- 쿠바는 고속정이 쿠바 영해에 진입했다고 주장하며, 선박에 탑승한 사람들이 먼저 사격을 시작했다고 밝혔습니다.\n- 미국은 이 사건에 대한 조사를 요구하고 있으며, 희생자 중 미국 시민이나 합법적 거주자가 있는지 확인하고 있습니다.",
       "full_translated": "쿠바 당국은 자국 해안 경비대가 미국에 등록된 고속정에 발포하여 4명이 사망하고 6명이 부상했다고 발표했습니다. 외신에 따르면 쿠바 정부는 자국 해안 경비대가 미국에 등록되어 쿠바 영해로 들어온 고속정에 총격을 가해 4명이 사망하고 6명이 부상했다고 밝혔습니다. 쿠바 내무부는 X에 게시된 성명에서 플로리다에 등록된 선박(등록 번호 FL7726SH)이 지난 수요일 아침 비야클라라주 카요 팔코네스 섬 근처에서 발견되었다고 밝혔습니다. 쿠바 해안 경비대원 5명이 탑승한 쿠바 선박이 검문하기 위해 접근하자, 고속정 탑승자들이 먼저 총격을 가해 쿠바 측 지휘관 1명이 부상했습니다. 이에 쿠바 당국은 대응 사격을 가해 4명이 사망하고 6명이 부상했습니다. 부상자들은 모두 이송되어 치료를 받고 있으며, 고속정 탑승자의 신원과 그들이 이 지역에 들어온 목적은 아직 불분명합니다. 쿠바 정부는 사건의 진상을 조사하기 위한 절차를 시작했다고 밝혔습니다. 플로리다주 하원 의원인 카를로스 기메네스는 이번 사건에 대한 조사를 요구하며, 이를 '학살'이라고 비난하고 미국 당국이 '피해자 중 미국 시민이나 합법적 거주자가 있는지 확인해야 한다'고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "사건 자체가 태국과는 무관하지만, 해외에서 발생한 사건/사고 소식은 여행객 안전에 대한 간접적인 영향을 줄 수 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ยามฝั่งคิวบา ยิงสปีดโบ๊ทจดทะเบียนในสหรัฐฯ ดับ 4 ศพเจ็บ 6 ราย",
@@ -38579,23 +38574,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4GvvVjUfy6a.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4GvvVjUfy6a.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/foreign/2916515",
+      "source": ""
     },
     {
       "title": "선거관리위원회, 재검표 방해 혐의로 고발",
       "summary": "- 선거관리위원회(EC)는 방콕 칸나야오 지역의 투표소에서 재검표를 방해한 혐의로 시민들을 경찰에 고발했습니다.\n- EC는 투표용지를 촬영하여 비밀 투표 원칙을 훼손했다고 주장합니다.\n- 경찰은 선거법 위반 혐의로 조사에 착수했습니다.",
       "full_translated": "선거관리위원회(EC)는 수요일 방콕 칸나야오 지역의 투표소에서 투표 재검표를 감시한 시민들의 행위가 투표의 비밀을 훼손했다는 혐의로 경찰에 고발장을 제출했습니다.\n\n중앙수사국의 민원센터에서 칸칫 차로엔인 EC 사무차장과 방콕 선거관리소장 대행 삼판 생담럴트 중위는 투표용지가 촬영된 증거가 나타난 후 고발장을 제출했습니다.\n\n칸칫 씨는 EC가 2월 22일 재검표 과정에서 발생한 사건과 관련된 온라인에 유포된 비디오 클립과 언론 사진을 제출할 것을 요청했다고 말했습니다. 당시 4~5명의 민간 참관인이 칸나야오 지역의 투표 재검표에 참석했습니다. EC는 이들이 투표용지를 촬영하고, 투표 집계 코드 과정을 기록하고, 선거가 비밀 투표로 진행되지 않았음을 입증하기 위해 QR 코드 이미지를 캡처하여 공무원의 직무 수행을 방해했다고 밝혔습니다.\n\n그는 법의 테두리 안에서 감시는 허용되지만, 그 한계를 넘어서는 행위는 법적 절차를 밟아야 한다고 말했습니다. 이러한 행위는 용납할 수 있는 범위를 넘어섰기 때문에 고발을 제기하게 되었습니다.\n\n혐의는 공무원의 직무 수행을 방해하는 선거법 위반에 관한 것입니다. 추가 조사 결과 추가적인 개인이 관련된 것으로 밝혀질 경우",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식으로, 여행객에게 직접적인 영향은 적으나 알아두면 좋을 정보. 정치적 불안정으로 이어질 가능성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": "Kannayao district, Bangkok",
-        "price": null,
-        "location_google_map_query": "Kannayao district, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'Kannayao district, Bangkok', 'price': None, 'location_google_map_query': 'Kannayao district, Bangkok'}",
       "references": [
         {
           "title": "EC files complaint over obstruction of re-count",
@@ -38604,23 +38596,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205140_260226051422_700.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205140_260226051422_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/politics/3205140/ec-files-complaint-over-obstruction-of-recount",
+      "source": ""
     },
     {
       "title": "총리, 사보타주 가능성 일축: 수린 탄약고 폭발은 사고",
       "summary": "- 태국 수린 지역의 탄약고 폭발은 사보타주가 아닌 사고로 결론.\n- 아누틴 총리는 국경 긴장과 무관하며, 주민 대피는 예방 조치였다고 밝힘.\n- 더운 날씨가 탄약고 내 화재 및 폭발의 원인으로 추정.",
       "full_translated": "몽콜 방프라파, 와싸요스 응암캄 기자: 수린 지방의 국경 순찰 경찰 탄약고에서 발생한 화재 및 폭발은 사고이며, 사보타주 행위가 아니라고 아누틴 찬위라쿨 총리가 수요일 밝혔습니다. 그는 수요일 이 사건이 국경 긴장과 관련이 없다고 말했습니다. 주민 대피는 예방 조치로 시행되었으며, 탄약고에 보관된 일부 물질이 추가 점화에 민감할 수 있기 때문입니다. 주민들은 전국 주지사가 준비한 지방 비상 대응 계획에 따라 더 안전한 장소로 이동했다고 아누틴 씨는 덧붙이며 상황이 현재 통제되고 있다고 말했습니다. 화재는 화요일 오후 7시 40분경 므앙 지역의 국경 순찰 경찰 21 지휘소 탄약고에서 발생했습니다. 경미한 부상만 발생했습니다. 보안 당국은 폭발이 총기와 탄약이 보관된 창고에 영향을 미치는 더운 날씨로 인해 발생했다고 믿고 있습니다. 이 복합 단지는 캄보디아 국경에서 북쪽으로 약 50km 떨어진 우회 도로에 위치하고 있습니다. 참로엔 만펫 수린 주지사는 화요일 밤 로켓 추진 수류탄과 박격포탄이 한 창고에서 폭발하여 화재가 소총 탄약이 보관된 인접 건물로 번졌다고 말했습니다. 킷타랏 푼펫 경찰청장은 수요일 이 복합 단지에 7개의 무기고가 있으며, 탄약과 로켓 추진 수류탄 발사기가 들어있는 2곳에서 폭발이 보고되었다고 말했습니다. 킷타랏 경찰청장은 사보타주...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 없으나, 사고 발생 지역 인근 여행 시 주의 필요. 최신 정보이므로 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": "수린",
-        "price": null,
-        "location_google_map_query": "Surin, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '수린', 'price': None, 'location_google_map_query': 'Surin, Thailand'}",
       "references": [
         {
           "title": "Premier rules out sabotage",
@@ -38629,23 +38618,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205240_260226050729_700.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205240_260226050729_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205240/premier-rules-out-sabotage",
+      "source": ""
     },
     {
       "title": "탁신, 5월 9일 가석방 자격 얻어",
       "summary": "- 탁신 친나왓 전 총리가 형기의 3분의 2를 채워 5월 9일 가석방 자격을 얻게 됨.\n- 법무부 장관은 탁신이 5월 9일에 8개월 형기를 마치게 되며, 이는 가석방 조건에 부합한다고 밝힘.\n- 교정국 대변인은 가석방 대상자 명단이 아직 확정되지 않았으며, 통상 1~2개월 전에 준비된다고 설명.",
       "full_translated": "교정국은 탁신 친나왓 전 총리가 1년 형기의 3분의 2를 복역한 후 5월 9일에 가석방 자격을 얻을 것이라고 수요일 확인했습니다. 이는 룻타폰 나오와랏 법무부 장관이 탁신이 5월 9일에 8개월 형기를 마치게 되며, 이는 1년 형기의 3분의 2에 해당하여 가석방 조건에 부합한다고 밝힌 것에 따른 것입니다. 규정에 따라 형기의 3분의 2를 복역한 수감자는 교도소, 교정 및 법무부 위원회의 승인을 받아 가석방을 신청할 수 있습니다. 유타나 나크렁스리 교정국 대변인은 클롱 프렘 중앙 교도소 위원회가 아직 가석방 대상자 명단을 확정하지 않았다고 밝혔습니다. 일반적으로 이러한 명단은 1~2개월 전에 준비됩니다. 그는 교도소에서 500명 미만의 수감자가 자격을 갖출 수 있다고 추정했습니다. 위원회는 권고안을 제출하기 전에 결정을 내릴 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치적으로 민감한 사안이지만, 여행 자체에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thaksin eligible for parole on May 9",
@@ -38654,23 +38640,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983240_700.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983240_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/politics/3205155/thaksin-eligible-for-parole-on-may-9",
+      "source": ""
     },
     {
       "title": "티사나, 이념 굴복 거부",
       "summary": "- 전 인민당 의원 티사나 추나하반, 당 운영의 부정행위 주장하며 논란 야기\n- 그녀의 주장은 선거 후보 자격 박탈에 대한 실망감 또는 더 깊은 이념적 차이에서 비롯되었다는 분석\n- 티사나는 민주주의, 인권, 이주 노동자 권리 보호, 결혼 평등 등을 옹호",
       "full_translated": "전 인민당 의원인 티사나 추나하반은 당 운영의 부정행위를 주장하며 논란을 일으켰습니다. 일부 관측통들은 티사나의 폭로가 최근 선거 후보 자격 박탈에 대한 실망감에서 비롯된 것으로 보고 있습니다. 다른 사람들은 그녀의 비판이 더 깊은 이념적 차이를 반영한다고 주장합니다. 티사나는 저명한 추나하반 정치 가문의 상속자입니다. 그녀의 할아버지인 차티차이 추나하반 전 총리는 1990년대 초 무역 지향적 개혁을 추진하여 이웃 국가와의 군사적 대결보다 경제적 참여를 선호했습니다. 친기업 자본주의 형태를 장려한 그의 행정부는 1991년 수친다 크라프라윤 장군이 이끄는 국가평화유지위원회(NPKC)에 의해 부패를 이유로 전복되었습니다. 티사나는 아버지인 크라이삭 추나하반의 정치적 이상을 지지한다고 밝혔습니다. 그는 민주주의와 인권을 중심으로 한 견해를 가지고 있었습니다. 고 크라이삭은 탁신 시나와트라의 저명한 비판가이기도 했습니다. 그녀는 진정으로 국민이 작성한 헌법, 책임 없는 독립 기관의 개혁 또는 제거, 군사 개혁, 이주 노동자 권리 보호, 결혼 평등 및 정치적 범죄에 대한 사면을 옹호해 왔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tisana refuses to cave on ideology",
@@ -38679,8 +38662,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983325_700.jpg"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983325_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/politics/3205225/tisana-refuses-to-cave-on-ideology",
+      "source": ""
+    },
+    {
+      "title": "타이 에어아시아, 중국 및 장거리 시장에서 성장 기대",
+      "summary": "- 타이 에어아시아는 2026년에 6~9%의 매출 성장을 목표로 하고 있으며, 2350만 명의 승객과 85%의 탑승률을 예상함.\n- 태국 주요 공항의 국제선 승객 서비스 요금(PSC) 인상이 여행 수요에 급격한 영향을 미치지 않을 것으로 예상함.\n- 올해 5대의 항공기를 추가하여 2350만 명의 승객을 수송하고 탑승률을 85%까지 끌어올릴 계획임.",
+      "full_translated": "타이 에어아시아(TAA)는 낙관적인 관광 전망을 가정하여 2026년에 6~9%의 전년 대비 매출 성장을 목표로 하고 있으며, 2,350만 명의 승객과 85%의 탑승률을 예상하고 있습니다. 태국 주요 공항의 더 높은 국제선 승객 서비스 요금(PSC)이 여행 수요에 갑작스러운 영향을 미치지 않을 것이라고 회사는 언급했습니다. 아시아 항공 Plc와 TAA의 최고 경영자인 Phairat Pornpathananangoon은 태국 관광청이 올해 3,670만 명의 외국인 입국 목표를 설정했으며, 항공사가 강력한 국내 네트워크를 갖춘 지역 항공사로서 예측에 맞춰 운영을 최적화하도록 촉구했다고 말했습니다. Phairat 씨는 \"2026년은 우리가 진정으로 코로나19를 극복하는 첫 해가 될 것입니다.\"라고 말했습니다. 2019년에 TAA는 2,610만 석의 좌석 용량으로 63대의 항공기를 운영하여 2,210만 명의 승객을 수송했습니다. 작년에는 2,520만 석의 좌석 용량으로 62대의 항공기를 운영하여 2,100만 명의 승객을 수송했습니다. 올해 항공사는 5대의 항공기를 추가하여 2,350만 명의 승객을 수송하고 탑승률을 2%포인트 높여 85%까지 끌어올릴 계획입니다. TAA는 올해 6~9%의 매출 성장을 목표로 하고 있으며, 이자, 세금, 감가상각비 및 상각 전 수익 마진은 2025년 17%에서 20%로 증가할 것입니다. Phairat 씨는 회사가 국내선 항공편 증가와 같이 기존 노선을 강화하는 데 집중할 것이라고 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 항공 산업의 성장 전망을 보여주는 기사로, 여행객들에게 항공편 이용 정보와 관련된 간접적인 영향을 줄 수 있음. 항공편 증가 및 서비스 개선에 대한 기대감을 제공할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai AirAsia pins growth hopes on China, long-haul markets",
+          "url": "https://www.bangkokpost.com/business/general/3205260/thai-airasia-pins-growth-hopes-on-china-longhaul-markets",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205260_260226062043_700.jpg"
+        }
+      ],
+      "collected_at": "06:29",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205260_260226062043_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "'변호사 Tum' 자산 압류 시도 검토 중",
+      "summary": "- 태국 법무부는 '변호사 Tum'으로 알려진 Sittra Biabungkerd와 그의 아내의 자산 압류를 기각한 민사 법원의 결정을 검토 중입니다.\n- 해당 자산은 사업가 Jatuporn Ubonlert에게서 빼앗은 1억 바트 이상의 사기 사건과 관련되어 있습니다.\n- 검찰은 항소 여부를 결정하기 위해 법원의 판결을 검토하고 있으며, 형사 재판은 계속 진행될 예정입니다.",
+      "full_translated": "법무부는 '변호사 Tum'으로 알려진 Sittra Biabungkerd와 그의 아내의 자산(7100만~7400만 바트 상당)을 압류하라는 국가의 청원을 기각한 민사 법원의 결정을 이번 주에 검토하고 있습니다. 해당 자산은 사업가 Jatuporn Ubonlert, 'Je Aoy'로 알려진 사람에게서 빼앗은 1억 바트 이상의 사기 사건과 관련이 있습니다.\n\n검찰은 항소 여부를 결정하기 위해 법원의 판결을 검토하고 있습니다. 항소는 판결 후 30일 이내에 제기해야 하며, 필요한 경우 연장이 허용될 수 있습니다. 관계자들은 판결의 인증 사본을 얻는 과정에 있으며, 1~2주가 소요될 것으로 예상됩니다.\n\n한편, Yamfao Pandin 재단의 회장이자 Jatuporn 여사의 법률 고문인 Panthep Puapongpan은 민사 법원의 명령은 존중되지만 진행 중인 형사 소송에는 영향을 미치지 않는다고 말했습니다. 그는 민사 판결이 형사 사건을 구속하지 않으며, 형사 사건은 계속 진행 중이라고 언급했습니다. 형사 법원은 3월 3일에 증인 심문을 시작할 예정입니다.\n\nSittra 씨는 6명의 공동 피고인과 함께 사기, 컴퓨터 관련 범죄, 공무원에 대한 허위 진술, 문서 위조 등 여러 혐의로 기소되었습니다. 피고인 4명은 자백했습니다. Jatuporn 여사는 그 부부가 온라인 복권 거래 애플리케이션 개발 자금을 지원하기 위해 7100만 바트 이상을 이체하도록 속였다고 비난했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "사기 사건에 대한 법적 절차가 진행 중이며, 여행객들이 관련될 가능성은 낮지만 인지하는 것이 좋습니다.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "태국 형사 법원",
+        "price": "알 수 없음",
+        "location_google_map_query": "태국 형사 법원"
+      },
+      "references": [
+        {
+          "title": "'Lawyer Tum' asset grab bid under review",
+          "url": "https://www.bangkokpost.com/thailand/general/3205255/lawyer-tum-asset-grab-bid-under-review",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205255_260226052724_700.jpg"
+        }
+      ],
+      "collected_at": "06:29",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205255_260226052724_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 정부, 프랑스에 미얀마 상황 브리핑",
+      "summary": "- 태국 외무장관, 프랑스 유럽·외무부 장관과 회담.\n- 미얀마 문제 논의, 태국의 역할 강조.\n- 국경 보안 및 지역 안정 유지 우선.",
+      "full_translated": "태국 외무부 장관 시하삭 푸앙케오에 따르면 프랑스는 미얀마의 상황 전개에 깊은 관심을 표명했으며, 태국은 국경 보안을 지키고 지역 안정을 증진하는 것을 우선시하고 있다. 화요일 제네바에서 기자들에게 시하삭 장관은 전날 프랑스 유럽·외무부 장관 장-노엘 바로와 회담 결과를 설명했다. 논의는 올해 170주년을 맞이하는 태국-프랑스 양국 관계를 다루었으며, 특히 태국 경제가 기술 전환을 겪고 있는 상황에서 협력을 확대할 기회를 모색했다. 프랑스는 태국의 경제 전환을 지원할 수 있는 여러 선진 분야에 전문 지식을 보유하고 있다고 그는 말했다. 미얀마는 프랑스가 인도-태평양 지역에서 더 적극적인 역할을 수행하고자 하는 바람과 이 문제에 대한 태국의 외교적 관여 증가를 인정한 것을 반영하여 또 다른 핵심 주제였다. 프랑스는 태국의 관점, 특히 푸껫에서 열린 태국의 미얀마 외무장관 탄 스웨와의 최근 회담 이후의 상황에 대해 문의했다고 시하삭 장관은 말했다. 태국은 미얀마에 선거만으로는 국가 위기를 해결할 수 없으며 포용적인 대화와 진정한 평화 과정이 뒤따라야 한다고 전달했다고 그는 말했다. 시하삭 장관은 태국이 공유 국경과 소수 민족 그룹을 고려할 때 미얀마 군사 당국과 관계를 맺는 것을 피할 수 없다고 말했다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 외교적 노력에 대한 정보. 여행 자체에 직접적인 영향은 적지만, 동남아 정세에 대한 이해를 돕는다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Govt briefs France on Myanmar",
+          "url": "https://www.bangkokpost.com/thailand/general/3205310/govt-briefs-france-on-myanmar",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "06:29",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "국민당, 선거관리위원회에 소송 제기 예정",
+      "summary": "- 국민당(PP)이 선거관리위원회의 부정행위를 주장하며 소송을 제기할 예정입니다.\n- 2월 8일 총선과 관련된 부정행위 혐의이며, 투표용지 인쇄 업체에 대한 소환도 요구합니다.\n- 국민당은 선거 무효화가 아닌, 형법 157조에 따른 직무 유기를 주장하고 있습니다.",
+      "full_translated": "국민당(PP)은 선거관리위원회(EC)의 부정행위를 주장하며 형사 소송을 제기하고 투표용지 인쇄 계약자에 대한 법원 소환을 요구할 예정이다. PP 부대표인 와요 아사와룽루앙 박사는 수요일 당이 7명의 선거관리위원과 EC 사무총장, 선거 지원 책임자 등 총 9명의 관료에 대해 소송을 제기할 것이라고 밝혔다. 캄마콘 카오 쿠이 녹 초르 텔레비전 프로그램에서 와요 박사는 청원서가 부패 및 비행 사건에 대한 형사 법원에 제출될 것이라고 말했다. 이번 조치는 투표 용지가 개별 유권자에게 소급하여 추적될 수 있다는 사실이 인정되면서 투표 비밀에 대한 우려가 제기된 데 따른 것이다. 와요 박사는 당이 선거를 무효화하거나 취소하려는 것이 아니라고 말했다. 대신 EC의 행위가 당, MP 후보 및 유권자에게 영향을 미쳤다고 주장하면서 형법 157조에 따른 직무 유기를 주장할 것이다. 그는 피해가 2월 8일 투표 중에 발생했으며 2월 22일 방콕의 세 지역에서 다시 실시된 재투표에서 반복되었다고 말했다. 당은 법원에 위사누 크레아-응암을 포함한 핵심 증인, 투표 용지를 인쇄한 회사 대표, 회사의 전무 이사, 조달 문서, 참고 조건(TOR), 계약 및 회의록을 소환하도록 요청할 것이다. 와요",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "PP to lodge complaint against election body",
+          "url": "https://www.bangkokpost.com/thailand/general/3205235/pp-to-lodge-complaint-against-election-body",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205235_260226050210_700.jpg"
+        }
+      ],
+      "collected_at": "06:29",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205235_260226050210_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 선물 거래소, 상품 대대적 개편 통해 투자자 200만 명 목표",
+      "summary": "- 태국 선물 거래소(TFEX)는 투자 기반을 200만 계좌로 두 배 늘리기 위해 대대적인 확장을 준비 중입니다.\n- 더 작고 접근하기 쉬운 상품을 출시하고 파생 상품 시장을 투기적 영역이 아닌 위험 관리 플랫폼으로 재포지셔닝하는 노력을 가속화할 계획입니다.\n- 올해 하반기에 미니 금 선물 및 단기 SET50 옵션을 도입할 예정이며, 투자자 요구에 더 부합하도록 현물과 유사한 특성을 갖도록 설계되었습니다.",
+      "full_translated": "태국 선물 거래소(TFEX)는 소규모의 접근성이 더 좋은 상품을 출시하고 파생 상품 시장을 투기적 영역이 아닌 위험 관리 플랫폼으로 재포지셔닝하기 위한 노력을 가속화하여 투자자 기반을 200만 계좌로 두 배로 늘리는 것을 목표로 하는 주요 확장을 준비하고 있습니다. 트리윗 왕보라웃 TFEX 상무이사는 올해 하반기에 미니 금 선물과 단기 SET50 옵션을 도입할 것이라고 밝혔습니다. 새로운 계약은 투자자 요구에 더 잘 부합하도록 현물과 유사한 특징을 갖도록 설계되었습니다. TFEX는 또한 현재 투자자들의 큰 관심을 끌고 있는 기초 자산에 연동된 영구 스타일 상품 출시의 타당성을 조사하고 있으며, 가격이 계약당 약 30,000~40,000바트로 급등한 후 은 계약 사양을 수정하고 있습니다. 더 작은 계약 규모로의 전환은 시장 역학의 변화를 반영합니다. 금 가격은 지난 2~3년 동안 거의 100% 상승하여 금 온라인 선물에 대한 마진이 급격히 높아졌습니다. 이전에는 투자자가 계약당 약 50,000바트가 필요했습니다. 오늘날 10바트 금 계약의 경우 마진은 110,000~120,000바트 사이이며 표준 실물 금 선물 계약은 50바트 크기를 유지합니다. 계획된 미니 금 온라인 선물 계약은 포지션 규모를 크게 줄여 마진 요구 사항을 계약당 약 10,000바트로 낮추고 소매 투자자가 더 쉽게 접근할 수 있도록 할 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 선물 거래소의 변화는 일반적인 여행객보다는 투자자에게 더 큰 영향을 미치지만, 소규모 투자 상품 출시로 태국 경제에 대한 관심이 높아질 수 있다는 점에서 낮은 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TFEX targets 2m investors with major overhaul of products",
+          "url": "https://www.bangkokpost.com/business/investment/3205285/tfex-targets-2m-investors-with-major-overhaul-of-products",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983350_700.jpeg"
+        }
+      ],
+      "collected_at": "06:29",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983350_700.jpeg",
       "date": "2026-02-26"
     }
   ]
