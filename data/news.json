@@ -38255,14 +38255,9 @@
       "summary": "- 방라뭉 지역 책임자가 파타야 해변에서 관광객 안전 강화를 위한 순찰을 강화하고 있습니다.\n- 최근 독일인 관광객이 트랜스젠더 여성들에게 습격당하는 사건이 발생하여 관광 경찰과 협력하여 순찰을 강화합니다.\n- 주요 목표는 범죄 예방, 관광객 안전 확보, 파타야의 안전한 관광 허브 이미지 회복입니다.",
       "full_translated": "방라뭉 지역 책임자가 파타야 해변에서 관광객 안전을 강화하기 위한 집중 순찰을 지휘하고 있습니다. 이는 독일인 관광객이 파타야 해변에서 트랜스젠더 여성들에게 강도를 당하고 폭행당한 사건이 발생한 후 이루어진 조치입니다. 이번 작전에는 방라뭉 지역의 공무원들이 파타야 관광 경찰서의 파윗 침팔리 서장과 협력하여 경찰 인력과 함께 참여했습니다. 팀은 파타야 해변 도로의 마이크 쇼핑몰 앞 관광 경찰 검문소에 모여 해변 전체를 따라 도보로 철저한 검사를 실시했습니다. 순찰의 주요 목표는 범죄 활동을 예방 및 억제하고, 거주민과 관광객의 생명과 재산을 보호하며, 파타야의 안전한 관광 허브로서의 이미지를 회복하는 것입니다. 대규모 관광객이 모이는 고위험 지역과 장소에서 사전 모니터링에 중점을 두었습니다. 이러한 강화된 조치는 앞서 언급한 바와 같이 55세의 독일인 관광객이 파타야 해변 도로에서 트랜스젠더 태국 여성 그룹에게 폭행 및 강도를 당한 사건 이후에 이루어졌습니다. 관광객 호텔 방에서 돈이 사라진 것에 대한 다툼에서 비롯된 이 다툼은 피해자에게 부상을 입혔고, 해당 지역의 안전에 대한 인식을 부정적으로 만들면서 상당한 언론의 관심을 끌었습니다. 순찰 중 경찰관은 펍에 모인 그룹을 적극적으로 검사했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "최근 파타야 해변에서 발생한 관광객 대상 범죄로 인해 관광객 안전에 대한 우려가 커지고 있으며, 이에 대한 대응으로 순찰이 강화되어 여행 안전에 직접적인 영향을 미치므로 높은 점수를 부여합니다. 시간 경과에 따른 업데이트로 볼 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Banglamung District Chief Leads Intensified Foot Patrols on Pattaya Beach to Boost Tourist Safety Following Assault on German Tourist",
@@ -38271,23 +38266,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17719843100082317641996220535899.jpg?v=1771984486"
         }
       ],
-      "collected_at": "04:01",
+      "collected_at": "4:01",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17719843100082317641996220535899.jpg?v=1771984486",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://thepattayanews.com/2026/02/25/banglamung-district-chief-leads-intensified-foot-patrols-on-pattaya-beach-to-boost-tourist-safety-following-assault-on-german-tourist/",
+      "source": ""
     },
     {
       "title": "코브라 골드 2026 훈련 시작: 다국적 군사 협력 강화",
       "summary": "- 코브라 골드 2026 훈련이 태국에서 공식적으로 시작되었습니다.\n- 30개국 8,000명 이상 참여, 인도-태평양 지역 안보 협력 강화 목표입니다.\n- 육해공, 사이버 등 전 영역 통합 작전 수행 능력 향상에 집중합니다.",
       "full_translated": "코브라 골드 2026 훈련이 공식적으로 시작되었습니다. 개막식에는 우크릿 분타논다 태국군 최고 사령관, 숀 K. 오닐 주태국 미국 대사, 매튜 맥팔레인 미국 제1군단 사령관 등이 참석했습니다. 싱가포르, 인도네시아, 대한민국, 일본, 말레이시아의 태국 주재 대사들도 이 행사에 참석했습니다. 올해 훈련은 2026년 2월 23일부터 3월 6일까지 진행되며(주요 활동은 2월 24일부터 시작), 30개 참가국에서 8,000명 이상의 인원이 참여합니다. 이번 훈련은 태국군과 미국 인도-태평양 사령부가 공동 주최합니다. 코브라 골드 2026의 주요 목표는 인도-태평양 전역에서 상호 운용성, 전투 준비 태세 및 지역 안보 협력을 강화하는 것입니다. 이번 훈련은 육해공, 우주 및 사이버 영역을 통합하는 완전한 스펙트럼의 합동 전 영역 작전(CJADO)에 중점을 둡니다. 활동은 중앙 작전 센터를 통해 지휘소 훈련(CPX)과 야전 훈련(FTX)을 연결합니다. 주요 구성 요소에는 육상, 해상 및 공중에서의 다국적 작전과 우주 및 사이버 영역에 대한 지속적인 강조가 포함됩니다. 추가 훈련은 지리 공간 정보(GEOINT), 신호 정보(SIGINT) 및 인도적 지원 및 재해 구호(HADR)를 다룹니다. 훈련의 하이라이트는 태국의 K9 USAR 팀과 유명한 'Mi-6'을 특징으로 하는 HADR 역량 시연입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "대규모 훈련으로 일부 지역 교통 혼잡 예상, 테러 대비 필요성 환기.",
-      "event_info": {
-        "date": "2026-02-23",
-        "location": "태국 (훈련 장소는 다양)",
-        "price": "정보 없음",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-02-23', 'location': '태국 (훈련 장소는 다양)', 'price': '정보 없음', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Cobra Gold 2026 Officially Underway",
@@ -38296,23 +38288,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17719857520864946503606729105817.jpg?v=1771986268"
         }
       ],
-      "collected_at": "04:01",
+      "collected_at": "4:01",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17719857520864946503606729105817.jpg?v=1771986268",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://thepattayanews.com/2026/02/25/cobra-gold-2026-officially-underway/",
+      "source": ""
     },
     {
       "title": "태국 쌀 수출 급감, 2026년 5년 만에 최저치 전망",
       "summary": "- 1월 태국 쌀 수출량 17.5% 감소, 수출액 30.7% 급감.\n- 강세 바트화와 글로벌 경쟁 심화로 2026년 수출량 5년 만에 최저치 예상.\n- 미국 수입 관세 및 글로벌 공급 과잉도 수출 감소 요인으로 작용.",
       "full_translated": "태국의 쌀 수출이 1월에 급격히 감소하여 2026년 수출량이 강세 바트화와 심화되는 세계 경쟁 속에서 5년 만에 최저치를 기록할 수 있다는 우려가 제기되었습니다. 태국 쌀 수출 협회의 명예 회장인 추키앗 오파스웡세는 1월 수출량이 총 53만 톤으로 전년 동기 대비 17.5% 감소했으며 수출액은 97억 바트로 30.7% 급감했다고 밝혔습니다. 이 부문이 거센 역풍에 직면함에 따라 올해 중반까지 월평균 약 50만 톤의 수출량이 예상됩니다. 협회는 2026년 총 쌀 수출량을 703만 톤으로 전망하며 이는 2025년 790만 톤에서 11% 감소한 수치로 5년 만에 최저 수준입니다. 수출액은 1,300억~1,400억 바트로 12.3% 감소할 것으로 예상됩니다. 수출업체들은 5가지 주요 위험 요인을 언급했습니다. 가장 큰 요인은 미국 달러 대비 약 31바트 수준으로 강세를 보이는 바트화로 태국 쌀 가격을 경쟁국보다 비싸게 만듭니다. 현재 태국 자스민 쌀 가격은 톤당 약 1,200달러로 세계에서 가장 높으며 인도 바스마티 쌀은 약 970달러, 베트남과 캄보디아의 유사 등급 쌀은 800~830달러입니다. 태국 5% 백미 가격도 주요 경쟁국보다 높습니다. 다른 압력으로는 섹션 122에 따른 임시 미국 수입 관세가 있으며 이는 150일 동안 15%의 일괄 관세를 부과하여 태국 자스민 쌀의 미국 수출을 15~20% 줄일 수 있습니다. 미국은 태국 최대의 자스민 쌀 시장으로 총 자스민 수출의 약 절반을 차지합니다. 인도에서 기록적인 생산량을 포함한 글로벌 공급 과잉, 수입 r",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 쌀 가격 상승이 단기적으로 여행 비용에 미치는 영향은 미미.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai rice exports fall 17.5% in January, 2026 outlook seen at five-year low",
@@ -38321,23 +38310,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/closeup-food-staple-white-wooden.jpg"
         }
       ],
-      "collected_at": "04:01",
+      "collected_at": "4:01",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/closeup-food-staple-white-wooden.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.khaosodenglish.com/tech/2026/02/25/thai-rice-exports-fall-17-5-in-january-2026-outlook-seen-at-five-year-low/",
+      "source": ""
     },
     {
       "title": "파타야 뉴스, YouTube 채널에서 시청 가능",
       "summary": "- 파타야 뉴스가 YouTube 채널을 통해 실시간 현지 뉴스를 제공합니다.\n- 고화질 영상으로 사실에 기반한 뉴스를 짧고 명확하게 전달합니다.\n- 폭력적이거나 불쾌감을 줄 수 있는 장면은 자제하여 시청자의 불편함을 최소화합니다.",
       "full_translated": "YouTube는 세계에서 가장 인기 있는 비디오 플랫폼이며 다른 미디어 플랫폼에 비해 장점이 있습니다. YouTube의 비디오는 대형 및 소형 화면 모두에서 고화질로 볼 수 있습니다. 일부 다른 소셜 미디어 플랫폼은 세로 또는 '세로' 화면 비율을 권장하지만 이는 촬영 방식과 다른 경우가 많습니다. 이로 인해 그림의 일부만 보이는 경우가 많습니다. YouTube에서는 이러한 비디오를 올바른 가로 또는 '가로' 형식으로 볼 수 있습니다. YouTube를 구독하고 The Pattaya News가 새로운 콘텐츠를 업로드할 때마다 알림을 받는 것은 쉽고 무료입니다. The Pattaya News YouTube 채널을 구독하여 뉴스를 원래 의도대로 시청하십시오. The Pattaya News YouTube 채널은 일반적으로 하루에 몇 개의 비디오를 게시하며 실제 현지 뉴스에 중점을 두고 실제 현장 기자가 촬영합니다. 우리는 사실에 초점을 맞추고 의견을 배제하여 시청자만이 뉴스에 대한 의견을 갖도록 합니다. 또한 토론 스타일의 비디오를 믿지 않으므로 시청하는 뉴스가 다른 미디어에서 흔히 볼 수 있는 논쟁적인 의견이 아닌 실제 뉴스임을 확신할 수 있습니다. 또한 보고서를 짧고 간결하며 명확하게 유지하여 시청자에게 알아야 할 사실을 제공합니다. 마지막으로 시청자는 폭력 및 그래픽 콘텐츠에 대한 다양한 민감도와 허용 수준을 가지고 있다는 것을 알고 있으므로 일부 시청자의 감정을 상하게 할 수 있는 것은 보여주지 않으면서도 콘텐츠와 컨텍스트를 제공합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야 지역 정보 접근성 향상. 여행자에게 유용한 정보 채널 소개이지만, 기존 뉴스 매체 홍보 성격이 강하여 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Are You Aware That The Pattaya News is Available on YouTube?",
@@ -38346,23 +38332,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475"
         }
       ],
-      "collected_at": "04:01",
+      "collected_at": "4:01",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2025/12/IMG20251206174325-scaled.jpg?v=1765322475",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://thepattayanews.com/2026/02/25/are-you-aware-that-the-pattaya-news-is-available-on-youtube/",
+      "source": ""
     },
     {
       "title": "태국 국토방위군, 1,713명에게 계급 수여",
       "summary": "- 태국 국토방위군에 공헌한 1,713명에게 계급 수여\n- 2026년 2월 17일부터 효력 발생\n- 총리실, 관보를 통해 발표",
       "full_translated": "관보에 따르면 2026년 국토방위군에 공헌한 1,713명에게 계급이 수여되었습니다. 해당 조치는 2026년 2월 17일부터 효력이 발생합니다.  총리실은 관보를 통해 해당 사실을 발표했습니다.  자세한 내용은 여기에서 확인할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 국토방위군 관련 소식으로, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "โปรดเกล้าฯ พระราชทานยศกองอาสารักษาดินแดน จำนวน 1,713 ราย",
@@ -38371,8 +38354,110 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHMznen4RxFii.jpg"
         }
       ],
-      "collected_at": "04:01",
+      "collected_at": "4:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsHMznen4RxFii.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/politic/2916497",
+      "source": ""
+    },
+    {
+      "title": "Virus blamed for deaths of 72 tigers at tourist parks",
+      "summary": "- 관광 공원에서 72마리의 호랑이가 바이러스로 인해 폐사했습니다.\n- 방문객들은 해당 지역 방문 시 안전에 유의해야 합니다.\n- 관련 공원 방문 전 최신 정보를 확인하세요.",
+      "full_translated": "태국 내 관광 공원에서 바이러스 감염으로 인해 72마리의 호랑이가 폐사했습니다. 해당 공원들을 방문하려는 관광객들은 바이러스 감염 가능성에 대한 최신 정보를 확인하고, 필요한 안전 조치를 취해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "동물원이나 호랑이 관련 관광지 방문객에게 잠재적 위험을 알리고, 여행 계획 변경 또는 위생 관리를 고려하도록 안내합니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "Virus blamed for deaths of 72 tigers at tourist parks - FOX 8 News",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3hqbkdmdU1vYnBRaHpHdkNoTkRwUXpfWk43QnZGQlM0UEpDdjNmc09TeDBydEV4dk9URlRtaEJNcGlOZ3MxYmlmajFxaWt0RHpwb282QWJBZlFFWm52akRTdFp6MWpvVGk3SHBadHFiWlV6c1k1ZldBOXRXLWZhODhB0gGHAUFVX3lxTFBVcy1aX2NPUkZQQklaMnJwb3ZLOGVOdW1peExENFprZktyN1UySHBMbEJUOFBrcllpVlNmSUVfYWRzUTdKTmEzNHFsdkRySUFMUWthbTUxN0xsVkk3YldWU29sVFNFNUNBbUhyVUt3SU9BWVUxX1JXMzRuVGhQRzV2NXFRSUVsYw?oc=5",
+          "source": "FOX 8 News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 관광 산업 호황: 외국인 방문객 590만 명, 3천억 바트 수익 육박",
+      "summary": "- 태국 관광 산업이 급성장하여 현재까지 외국인 방문객 590만 명을 기록했습니다.\n- 관광 수입은 3천억 바트에 육박하며 경제 활성화에 기여하고 있습니다.\n- 태국 정부는 관광 산업 활성화를 위한 다양한 정책을 추진 중입니다.",
+      "full_translated": "태국의 관광 산업이 급성장하고 있습니다. 현재까지 590만 명의 외국인 방문객이 태국을 방문했으며, 이는 3천억 바트의 수익에 육박하는 수치입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업 현황에 대한 업데이트 정보 제공. 여행객 규모와 경제적 효과를 파악하는 데 도움을 줌.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand's Tourism Soars To Date: 5.9 Million Foreign Visitors, Nearing 300 Billion Baht in Revenue - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tMmtxZDZ3RTdVSk85VlNHX2pwWDZqTFppUmtocmJVRkx4aFN3UmVnYXluU0Z0bTZkTVRMNFliZzJlN2tWd2tTZFVlRFJhRlp0ZWJTdFhvY2NBNlBrQnczUF9n?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국, 바이러스로 인해 72마리의 호랑이 폐사",
+      "summary": "- 태국에서 바이러스 감염으로 72마리의 호랑이가 폐사함.\n- 열악한 사육 환경이 바이러스 확산의 원인으로 지적됨.\n- 동물 보호 단체, 태국 정부에 동물 복지 개선을 촉구.",
+      "full_translated": "태국에서 바이러스로 인해 72마리의 호랑이가 폐사했습니다. World Animal Protection에 따르면 열악한 사육 환경이 바이러스 확산의 주요 원인으로 지적되고 있으며, 동물 복지 개선의 필요성이 제기되고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "동물 학대 문제는 관광객의 윤리적 소비에 영향을 미칠 수 있으며, 동물원 방문 시 주의가 필요함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Seventy two tigers die in Thailand as virus exposes captivity risks - World Animal Protection",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZHZhc1RINmZGa3JJaWVLVjJPRml4YmVqSzdYUFBhLWU3eEZqendCR0h2MU04dUp2bENFSWF2anpMTjFWZnk0d21UOUdfa3pWSGlwVGJ5RFRpdmhqam16SGxQbWp0VHZPUW5rYUhCWWh1TTJHR2NmWnRHREZseGJFU0MzbjBfNHI0TUpUVE93SFBzLVBhZGtteDNZMUE3VThPN3A3Y2xwSE04TGd2NkE?oc=5",
+          "source": "World Animal Protection",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "새 내각 구성 시작: 품차이타이당, 주요 부처 장악",
+      "summary": "- 새 내각 구성이 진행 중이며, 품짜이타이당이 주요 부처를 확보하며 중심 역할 수행.\n- 품짜이타이당은 총 14개 부처에서 19개 장관직을 확보할 것으로 예상됨.\n- 총리 겸 내무부 장관으로 아누틴 차른비라쿨이 유력하며, 국방부 장관은 외부 인사가 임명될 가능성 존재.",
+      "full_translated": "연립 파트너들이 합의된 공식에 따라 장관직 배분을 협상함에 따라 새로운 내각 구성이 시작되고 있으며, 아누틴 차른비라쿨 총리 지명자가 이끄는 미래 행정부에서 품짜이타이당(BJT)이 지배적인 세력으로 부상하고 있습니다. 수요일 언론 보도에 따르면 품짜이타이당은 14개 부처에 걸쳐 19개의 내각 의석을 확보하여 의회 다수 확보에서 중심 역할을 수행하고 있습니다. 이 중 5개 자리는 총리 할당량에 속하며, 주요 장관 포트폴리오와 결합된 부총리직을 포함합니다. 국방부는 여전히 고려 중이며, 정치적 균형을 맞추고 연립 파트너를 안심시키기 위해 외부 후보자, 즉 소위 '외부인'이 임명될 수 있다는 추측이 있습니다. 제안된 할당에 따라 품짜이타이당은 내무부, 재무부, 상무부, 외무부, 교통부, 에너지부, 관광체육부, 천연자원환경부, 산업부, 공중보건부, 문화부, 법무부, 디지털 경제 사회부, 총리실을 감독할 것으로 예상됩니다. 이러한 포트폴리오의 범위는 하원에서의 당의 수적 강점과 연립 협상에서의 영향력을 반영합니다. 아누틴 씨는 총리와 내무부 장관을 겸임하여 지방 행정 및 안보에 대한 권한을 강화할 것으로 예상됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 내각 구성은 정책 변화를 야기할 수 있으므로 낮은 점수 부여. 여행 자체에는 직접적인 영향이 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Cabinet starts to take shape",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205130/cabinet-starts-to-take-shape",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205130_260226042511_700.jpg"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205130_260226042511_700.jpg",
       "date": "2026-02-26"
     }
   ]
