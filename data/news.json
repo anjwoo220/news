@@ -38453,14 +38453,9 @@
       "summary": "- 태국 관광 비자 관련 최신 정보 제공.",
       "full_translated": "태국 관광 비자에 대한 정보 제공 기사입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행 관련 비자 정보는 여행자에게 중요한 정보이므로 포함. 비자 규정은 여행 계획에 직접적인 영향을 미침.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand tourism visa - Travel And Tour World",
@@ -38469,23 +38464,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yQldWTVZKUHg1dC0zLWdWSDdnaGJxS0h4d29DZl9ucmNLdWk3Z1FzLTI3RjB1eTFQSUdRbnVnenFpZjN4bUUxWlBRVEVkWTd1TENWNFZrUWFhX0dKWl9aM0ltM0JObG1aTExHejBRRTRpbFVjSnlkVExlMHh5RVk?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 공원의 호랑이 72마리, 개 디스템퍼로 사망 - 조류 독감 우려 완화",
       "summary": "- 태국 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망했습니다.\n- 당국은 조류 독감의 가능성을 배제하고 있습니다.\n- 관광객 안전에 대한 우려를 해소하기 위해 관련 정보를 투명하게 공개하고 있습니다.",
       "full_translated": "태국 관광 공원의 호랑이 72마리가 개 디스템퍼로 사망, 조류 독감 공포 완화 - vocal.media",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물원 및 관광 시설 방문객에게 영향을 줄 수 있는 소식이므로 정보 제공 가치가 있다고 판단됨. 그러나 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "Thai Officials Say 72 Tigers at Tourist Parks Died of Canine Distemper, Allaying Bird Flu Fears - vocal.media",
@@ -38494,23 +38486,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOGxxRVcwV0szYWVvSGtnOWNLMDhwOWYyR1JvWUMySGdnY09xcDZsWElGaHl6U0Ftc3AzUFZXell1UGRWRkFQZnJqWHFsZlJrdlZ2aUNKcUtxSnZDaDZXc1M3TTBEOVlscTEyeV9ZWnIzN1plQXgxVDdJRl9qLXE2R3N2Um5hMDV3Ni1ESGlwaGVMNTNOcVBxRWFmQ3I0MmVHLTFROF9rVEtkQ1FmZUY0UmMzdUdEZE9KUnNHWnNZaw?oc=5",
+      "source": ""
     },
     {
       "title": "태국-중국 무역 협력 강화 논의: 쌀 수출 및 투자 확대",
       "summary": "- 태국 총리와 중국 대사가 만나 쌀 수출 확대 방안 논의\n- 중국은 올해 안에 태국 쌀 50만 톤 수입 목표를 달성하기 위해 구매 가속화 의사 밝혀\n- 중국, 불법 투자 행위 단속 및 로봇 산업 등 첨단 기술 분야 투자 확대 계획",
       "full_translated": "쁘라윳 총리와 수파지 수툼푼 상무부 장관은 장젠웨이 태국 주재 중국 대사를 만나 이달 태국 쌀 4만 톤 수출 계획을 논의했으며, 이는 연말까지 50만 톤 목표의 일환입니다. 쁘라윳 총리는 화요일 밤 방콕 중국 대사관에서 장 대사의 초청으로 만찬 회의에 참석했습니다. 총리는 태국 쌀 수입에 대한 중국의 지원과 관광 부문에서 중요한 역할에 대해 감사를 표했습니다. 그는 매일 약 3만 명의 중국인 관광객이 태국을 방문하여 양국 간의 강력한 유대와 신뢰를 반영한다고 말했습니다. 양측은 무역 협력, 특히 중국에 50만 톤을 공급하기로 한 계약에 따른 태국의 쌀 수출 진행 상황을 검토했습니다. 첫 선적분 4만 톤은 이달 말까지 배송될 예정입니다. 중국은 올해 안에 50만 톤 목표를 달성하기 위해 추가 구매를 가속화할 것이라고 밝혔습니다. 중국 투자와 관련하여 장 대사는 중국은 투자자 또는 사업 운영자의 불법 행위를 묵인하지 않으며 법 집행 및 규제 감독에서 태국과 협력할 준비가 되어 있다고 말했습니다. 그는 또한 중국의 첨단 기술 산업, 특히 로봇 산업의 급속한 발전을 강조하면서 중국의 주요 기업들이 태국에 투자를 확대할 것으로 예상된다고 말했습니다. 총 투자액은 100억 바트를 초과하여 일자리를 창출하고 강화될 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국-중국 간 경제 협력 강화는 관광객에게 직접적인 영향은 적지만, 경제 상황에 대한 정보는 유용할 수 있음. 특히 쌀 수출 및 중국 관광객 수치는 참고할 만함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PM, China envoy talk trade deal",
@@ -38519,23 +38508,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205335_260226044534_700.jpg"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205335_260226044534_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/general/3205335/pm-china-envoy-talk-trade-deal",
+      "source": ""
     },
     {
       "title": "스페인, 1981년 쿠데타 시도 관련 기밀 문서 공개…음모론 잠재우기 위한 조치",
       "summary": "- 스페인 정부가 1981년 발생한 쿠데타 시도와 관련된 153건의 기밀 문서를 공개했습니다.\n- 이는 쿠데타 이후 제기된 각종 음모론을 해소하기 위한 목적입니다.\n- 공개된 문서는 경찰 및 사법부 보고서, 녹취록 등을 포함하며 정부 웹사이트를 통해 공개되었습니다.",
       "full_translated": "스페인이 1981년 쿠데타 시도와 관련된 기밀 문서를 공개하여 수십 년 동안 발생한 다양한 음모론을 잠재우려고 합니다. 2026년 2월 24일 수요일, 스페인 정부는 45년 전 쿠데타 시도와 관련된 153건의 문서를 공개했습니다. 이는 국가 역사에서 중요한 사건으로, 사건 이후 발생한 다양한 음모론을 잠재울 수 있기를 희망합니다. 쿠데타는 1981년 2월 23일 안토니오 테헤로 몰리나가 이끄는 무장 관료 그룹이 국회 본회의장에 침입하여 새 정부가 취임 선서를 하는 동안 정치인들을 위협하면서 발생했습니다. 그들은 국가를 다시 독재 정권으로 되돌리려고 했습니다. 그러나 후안 카를로스 국왕이 지원을 거부했기 때문에 시도는 실패했습니다. 그러나 그 이후로 국왕이 쿠데타 시도에 대해 미리 알고 있었거나 심지어 사건에 적극적으로 관여했을 수도 있다는 의혹을 포함하여 많은 음모론이 제기되었습니다. 문서 공개는 쿠데타 지도자 테헤로가 93세의 나이로 사망한 날과 같은 날에 이루어졌습니다. 기밀 문서 공개는 정부 웹사이트가 일시적으로 다운될 정도로 큰 기대를 모았습니다. ... 이 문서에는 경찰 및 사법 절차 보고서, 기록 등이 포함되어 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행과는 직접적인 관련은 없지만, 국제 정세에 대한 정보 제공 차원에서 포함. 스페인 여행 계획이 있는 여행객에게는 역사적 맥락 이해에 도움이 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สเปนเปิดเอกสารลับ เหตุพยายามรัฐประหารปี 2524 หวังดับทฤษฎีสมคบคิด",
@@ -38544,23 +38530,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4u7lX37Rhqk.jpg"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4u7lX37Rhqk.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/foreign/2916512",
+      "source": ""
     },
     {
       "title": "태국 1월 국경 무역 11% 증가, 중국이 주요 환승 시장",
       "summary": "- 태국의 1월 전체 국경 및 환승 무역액은 1611억 3500만 바트로 전년 대비 10.9% 증가.\n- 중국은 주요 환승 시장으로 부상했으며, 수출은 12.6%, 수입은 9.0% 증가하여 148억 바트의 무역 흑자를 기록.\n- 말레이시아, 라오스, 미얀마, 캄보디아와의 국경 무역은 감소했지만, 제3국과의 환승 무역은 크게 증가.",
       "full_translated": "태국의 1월 전체 국경 및 환승 무역액은 총 1611억 3500만 바트에 달해 전년 대비 10.9% 증가했으며, 중국이 주요 환승 시장으로 자리매김했다고 Lalida Persvivatana 정부 부대변인이 밝혔습니다. 수출은 12.6% 증가한 879억 바트, 수입은 9.0% 증가한 731억 바트를 기록했습니다. 이로 인해 1월 한 달 동안 148억 바트의 무역 흑자를 달성했습니다. 말레이시아, 라오스, 미얀마, 캄보디아 등 4개 인접 국가와의 국경 무역액은 1월에 총 686억 바트로, 전년 동기 대비 18.2% 감소했습니다. 수출은 23.4% 감소한 387억 바트, 수입은 10.3% 감소한 298억 바트로 평가되었습니다. 그럼에도 불구하고 태국은 국경 무역에서 88억 바트의 무역 흑자를 유지했습니다. 말레이시아는 300억 4300만 바트의 무역 가치를 가진 태국의 최대 국경 무역 파트너였으며, 라오스가 241억 바트, 미얀마가 144억 바트로 그 뒤를 이었습니다. 태국과 캄보디아 간의 국경 무역은 해당 월 동안 가치가 0으로 기록되었습니다. 주요 국경 수출 품목으로는 디젤 연료(36억 바트), 집적 회로(12억 바트), 기타 정제 연료(12억 바트)가 포함되었습니다. 제3국으로의 환승 무역은 총 925억 바트로 크게 성장하여 전년 대비 50.7% 증가했습니다. 수출은 78.9% 급증한 492억 바트, 수입은 27.8% 증가한 432억 바트를 기록했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에는 직접적인 영향이 없으나, 태국 경제 상황을 간접적으로 파악할 수 있는 정보. 아침 브리핑에 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Border traffic up 11% in Jan",
@@ -38569,8 +38552,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205270_260226043641_700.jpg"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205270_260226043641_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/general/3205270/border-traffic-up-11-in-jan",
+      "source": ""
+    },
+    {
+      "title": "쿠바 해안 경비대, 미국 등록 고속정 사격으로 4명 사망, 6명 부상",
+      "summary": "- 쿠바 해안 경비대가 미국 등록 고속정에 사격하여 4명이 사망하고 6명이 부상했습니다.\n- 쿠바는 고속정이 쿠바 영해에 진입했다고 주장하며, 선박에 탑승한 사람들이 먼저 사격을 시작했다고 밝혔습니다.\n- 미국은 이 사건에 대한 조사를 요구하고 있으며, 희생자 중 미국 시민이나 합법적 거주자가 있는지 확인하고 있습니다.",
+      "full_translated": "쿠바 당국은 자국 해안 경비대가 미국에 등록된 고속정에 발포하여 4명이 사망하고 6명이 부상했다고 발표했습니다. 외신에 따르면 쿠바 정부는 자국 해안 경비대가 미국에 등록되어 쿠바 영해로 들어온 고속정에 총격을 가해 4명이 사망하고 6명이 부상했다고 밝혔습니다. 쿠바 내무부는 X에 게시된 성명에서 플로리다에 등록된 선박(등록 번호 FL7726SH)이 지난 수요일 아침 비야클라라주 카요 팔코네스 섬 근처에서 발견되었다고 밝혔습니다. 쿠바 해안 경비대원 5명이 탑승한 쿠바 선박이 검문하기 위해 접근하자, 고속정 탑승자들이 먼저 총격을 가해 쿠바 측 지휘관 1명이 부상했습니다. 이에 쿠바 당국은 대응 사격을 가해 4명이 사망하고 6명이 부상했습니다. 부상자들은 모두 이송되어 치료를 받고 있으며, 고속정 탑승자의 신원과 그들이 이 지역에 들어온 목적은 아직 불분명합니다. 쿠바 정부는 사건의 진상을 조사하기 위한 절차를 시작했다고 밝혔습니다. 플로리다주 하원 의원인 카를로스 기메네스는 이번 사건에 대한 조사를 요구하며, 이를 '학살'이라고 비난하고 미국 당국이 '피해자 중 미국 시민이나 합법적 거주자가 있는지 확인해야 한다'고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "사건 자체가 태국과는 무관하지만, 해외에서 발생한 사건/사고 소식은 여행객 안전에 대한 간접적인 영향을 줄 수 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ยามฝั่งคิวบา ยิงสปีดโบ๊ทจดทะเบียนในสหรัฐฯ ดับ 4 ศพเจ็บ 6 ราย",
+          "url": "https://www.thairath.co.th/news/foreign/2916515",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4GvvVjUfy6a.jpg"
+        }
+      ],
+      "collected_at": "05:59",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrG4GvvVjUfy6a.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "선거관리위원회, 재검표 방해 혐의로 고발",
+      "summary": "- 선거관리위원회(EC)는 방콕 칸나야오 지역의 투표소에서 재검표를 방해한 혐의로 시민들을 경찰에 고발했습니다.\n- EC는 투표용지를 촬영하여 비밀 투표 원칙을 훼손했다고 주장합니다.\n- 경찰은 선거법 위반 혐의로 조사에 착수했습니다.",
+      "full_translated": "선거관리위원회(EC)는 수요일 방콕 칸나야오 지역의 투표소에서 투표 재검표를 감시한 시민들의 행위가 투표의 비밀을 훼손했다는 혐의로 경찰에 고발장을 제출했습니다.\n\n중앙수사국의 민원센터에서 칸칫 차로엔인 EC 사무차장과 방콕 선거관리소장 대행 삼판 생담럴트 중위는 투표용지가 촬영된 증거가 나타난 후 고발장을 제출했습니다.\n\n칸칫 씨는 EC가 2월 22일 재검표 과정에서 발생한 사건과 관련된 온라인에 유포된 비디오 클립과 언론 사진을 제출할 것을 요청했다고 말했습니다. 당시 4~5명의 민간 참관인이 칸나야오 지역의 투표 재검표에 참석했습니다. EC는 이들이 투표용지를 촬영하고, 투표 집계 코드 과정을 기록하고, 선거가 비밀 투표로 진행되지 않았음을 입증하기 위해 QR 코드 이미지를 캡처하여 공무원의 직무 수행을 방해했다고 밝혔습니다.\n\n그는 법의 테두리 안에서 감시는 허용되지만, 그 한계를 넘어서는 행위는 법적 절차를 밟아야 한다고 말했습니다. 이러한 행위는 용납할 수 있는 범위를 넘어섰기 때문에 고발을 제기하게 되었습니다.\n\n혐의는 공무원의 직무 수행을 방해하는 선거법 위반에 관한 것입니다. 추가 조사 결과 추가적인 개인이 관련된 것으로 밝혀질 경우",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식으로, 여행객에게 직접적인 영향은 적으나 알아두면 좋을 정보. 정치적 불안정으로 이어질 가능성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": "Kannayao district, Bangkok",
+        "price": null,
+        "location_google_map_query": "Kannayao district, Bangkok"
+      },
+      "references": [
+        {
+          "title": "EC files complaint over obstruction of re-count",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205140/ec-files-complaint-over-obstruction-of-recount",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205140_260226051422_700.jpg"
+        }
+      ],
+      "collected_at": "05:59",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205140_260226051422_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "총리, 사보타주 가능성 일축: 수린 탄약고 폭발은 사고",
+      "summary": "- 태국 수린 지역의 탄약고 폭발은 사보타주가 아닌 사고로 결론.\n- 아누틴 총리는 국경 긴장과 무관하며, 주민 대피는 예방 조치였다고 밝힘.\n- 더운 날씨가 탄약고 내 화재 및 폭발의 원인으로 추정.",
+      "full_translated": "몽콜 방프라파, 와싸요스 응암캄 기자: 수린 지방의 국경 순찰 경찰 탄약고에서 발생한 화재 및 폭발은 사고이며, 사보타주 행위가 아니라고 아누틴 찬위라쿨 총리가 수요일 밝혔습니다. 그는 수요일 이 사건이 국경 긴장과 관련이 없다고 말했습니다. 주민 대피는 예방 조치로 시행되었으며, 탄약고에 보관된 일부 물질이 추가 점화에 민감할 수 있기 때문입니다. 주민들은 전국 주지사가 준비한 지방 비상 대응 계획에 따라 더 안전한 장소로 이동했다고 아누틴 씨는 덧붙이며 상황이 현재 통제되고 있다고 말했습니다. 화재는 화요일 오후 7시 40분경 므앙 지역의 국경 순찰 경찰 21 지휘소 탄약고에서 발생했습니다. 경미한 부상만 발생했습니다. 보안 당국은 폭발이 총기와 탄약이 보관된 창고에 영향을 미치는 더운 날씨로 인해 발생했다고 믿고 있습니다. 이 복합 단지는 캄보디아 국경에서 북쪽으로 약 50km 떨어진 우회 도로에 위치하고 있습니다. 참로엔 만펫 수린 주지사는 화요일 밤 로켓 추진 수류탄과 박격포탄이 한 창고에서 폭발하여 화재가 소총 탄약이 보관된 인접 건물로 번졌다고 말했습니다. 킷타랏 푼펫 경찰청장은 수요일 이 복합 단지에 7개의 무기고가 있으며, 탄약과 로켓 추진 수류탄 발사기가 들어있는 2곳에서 폭발이 보고되었다고 말했습니다. 킷타랏 경찰청장은 사보타주...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객 안전에 직접적인 위협은 없으나, 사고 발생 지역 인근 여행 시 주의 필요. 최신 정보이므로 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": "수린",
+        "price": null,
+        "location_google_map_query": "Surin, Thailand"
+      },
+      "references": [
+        {
+          "title": "Premier rules out sabotage",
+          "url": "https://www.bangkokpost.com/thailand/general/3205240/premier-rules-out-sabotage",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205240_260226050729_700.jpg"
+        }
+      ],
+      "collected_at": "05:59",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205240_260226050729_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "탁신, 5월 9일 가석방 자격 얻어",
+      "summary": "- 탁신 친나왓 전 총리가 형기의 3분의 2를 채워 5월 9일 가석방 자격을 얻게 됨.\n- 법무부 장관은 탁신이 5월 9일에 8개월 형기를 마치게 되며, 이는 가석방 조건에 부합한다고 밝힘.\n- 교정국 대변인은 가석방 대상자 명단이 아직 확정되지 않았으며, 통상 1~2개월 전에 준비된다고 설명.",
+      "full_translated": "교정국은 탁신 친나왓 전 총리가 1년 형기의 3분의 2를 복역한 후 5월 9일에 가석방 자격을 얻을 것이라고 수요일 확인했습니다. 이는 룻타폰 나오와랏 법무부 장관이 탁신이 5월 9일에 8개월 형기를 마치게 되며, 이는 1년 형기의 3분의 2에 해당하여 가석방 조건에 부합한다고 밝힌 것에 따른 것입니다. 규정에 따라 형기의 3분의 2를 복역한 수감자는 교도소, 교정 및 법무부 위원회의 승인을 받아 가석방을 신청할 수 있습니다. 유타나 나크렁스리 교정국 대변인은 클롱 프렘 중앙 교도소 위원회가 아직 가석방 대상자 명단을 확정하지 않았다고 밝혔습니다. 일반적으로 이러한 명단은 1~2개월 전에 준비됩니다. 그는 교도소에서 500명 미만의 수감자가 자격을 갖출 수 있다고 추정했습니다. 위원회는 권고안을 제출하기 전에 결정을 내릴 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적으로 민감한 사안이지만, 여행 자체에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thaksin eligible for parole on May 9",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205155/thaksin-eligible-for-parole-on-may-9",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983240_700.jpg"
+        }
+      ],
+      "collected_at": "05:59",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983240_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "티사나, 이념 굴복 거부",
+      "summary": "- 전 인민당 의원 티사나 추나하반, 당 운영의 부정행위 주장하며 논란 야기\n- 그녀의 주장은 선거 후보 자격 박탈에 대한 실망감 또는 더 깊은 이념적 차이에서 비롯되었다는 분석\n- 티사나는 민주주의, 인권, 이주 노동자 권리 보호, 결혼 평등 등을 옹호",
+      "full_translated": "전 인민당 의원인 티사나 추나하반은 당 운영의 부정행위를 주장하며 논란을 일으켰습니다. 일부 관측통들은 티사나의 폭로가 최근 선거 후보 자격 박탈에 대한 실망감에서 비롯된 것으로 보고 있습니다. 다른 사람들은 그녀의 비판이 더 깊은 이념적 차이를 반영한다고 주장합니다. 티사나는 저명한 추나하반 정치 가문의 상속자입니다. 그녀의 할아버지인 차티차이 추나하반 전 총리는 1990년대 초 무역 지향적 개혁을 추진하여 이웃 국가와의 군사적 대결보다 경제적 참여를 선호했습니다. 친기업 자본주의 형태를 장려한 그의 행정부는 1991년 수친다 크라프라윤 장군이 이끄는 국가평화유지위원회(NPKC)에 의해 부패를 이유로 전복되었습니다. 티사나는 아버지인 크라이삭 추나하반의 정치적 이상을 지지한다고 밝혔습니다. 그는 민주주의와 인권을 중심으로 한 견해를 가지고 있었습니다. 고 크라이삭은 탁신 시나와트라의 저명한 비판가이기도 했습니다. 그녀는 진정으로 국민이 작성한 헌법, 책임 없는 독립 기관의 개혁 또는 제거, 군사 개혁, 이주 노동자 권리 보호, 결혼 평등 및 정치적 범죄에 대한 사면을 옹호해 왔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tisana refuses to cave on ideology",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205225/tisana-refuses-to-cave-on-ideology",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983325_700.jpg"
+        }
+      ],
+      "collected_at": "05:59",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983325_700.jpg",
       "date": "2026-02-26"
     }
   ]
