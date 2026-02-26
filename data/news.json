@@ -40235,14 +40235,9 @@
       "summary": "- 방콕 및 6개 중부 지방, 높은 만조로 인한 잠재적 위험에 대비 필요.\n- 짜오프라야 강, 매클롱 강, 타친 강변 지역 사회에 침수 가능성.\n- 스쿰빗, 숙사왓, 라마 2세 도로 일부 구간 단기 침수 예상.",
       "full_translated": "국립수자원국은 목요일, 방콕, 사무트프라칸, 논타부리, 파툼타니, 사무트사콘, 나콘파톰, 사무트송크람의 강 수위가 상승할 것으로 예상된다고 경고했습니다. 이는 강한 만조가 안다만 해와 남쪽을 덮고 있는 남서풍과 겹치기 때문입니다. 기상 조건으로 인해 일부 지역에 폭우가 예상됩니다. 토요일부터 화요일까지 짜오프라야 강, 토요일부터 월요일까지 매클롱 강, 일요일부터 목요일까지 타친 강을 따라 강변 지역 사회에 물이 넘칠 수 있습니다. 스쿰빗 로드, 숙사왓 로드, 라마 2세 로드 일부 구간도 만조 시간 동안 단기 침수가 발생할 수 있습니다. 염수 침입은 가정용 및 농업용 수돗물 생산 및 수질에 영향을 미칠 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 이동에 불편을 초래할 수 있는 홍수 가능성 정보. 특히 스쿰빗, 숙사왓, 라마 2세는 여행객이 자주 이용하는 지역이므로 영향이 큼.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 및 중부 지방",
-        "price": null,
-        "location_google_map_query": "방콕 홍수 지역"
-      },
+      "event_info": "{'date': None, 'location': '방콕 및 중부 지방', 'price': None, 'location_google_map_query': '방콕 홍수 지역'}",
       "references": [
         {
           "title": "High‑tide alert for Bangkok, central provinces from Saturday into next week",
@@ -40251,23 +40246,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205824_260226180702_700.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205824_260226180702_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205824/hidetide-alert-for-thailands-central-region-from-saturday-into-next-week",
+      "source": ""
     },
     {
       "title": "방콕, AI 교통 신호 시스템 확장: 주요 교차로 통행 시간 단축 효과",
       "summary": "- 방콕시, AI 기반 교통 제어 시스템을 74개 교차로에 설치 후 효과 입증.\n- 프라카농, 스쿰윗 71 교차로에서 신호 주기 단축 및 대기 시간 감소.\n- 올해 50개 교차로 추가 확장 계획.",
       "full_translated": "방콕 시청은 스마트 교통 전략을 발전시켜 주요 경로의 통행 시간을 단축하고 혼잡을 완화하는 AI 기반 적응형 제어 시스템으로 수십 개의 교차로를 업그레이드하고 있습니다. 이 새로운 시스템은 2024년부터 시 전역의 74개 교차로에 설치되었으며, 방콕 수도청(BMA)은 올해 50개의 교차로를 추가로 확장할 계획이라고 목요일에 밝혔습니다. 이 기술은 AI 지원 CCTV 카메라를 사용하여 실시간 교통 흐름을 분석하고 적색 및 녹색 신호등 지속 시간을 자동으로 조정합니다. 이 시스템은 혼잡 수준에 관계없이 미리 설정된 주기로 작동하는 방콕의 고정 시간 신호등의 오랜 문제를 해결하는 것을 목표로 합니다. 시는 최근 악명 높은 프라카농 및 스쿰윗 71(프리디 바노미옹) 교차로에서 적응형 제어가 신호 주기를 12분에서 6분으로 절반으로 줄이고 대기 시간을 크게 낮춘 주목할 만한 성공을 발표했습니다. 방콕은 현재 746개의 교차로를 감독합니다. 이 중 168개에는 신호등이 없고 578개는 교통 신호로 제어됩니다. 신호등이 있는 교차로 중 433개는 미리 설정된 주기로 고정 시간 시스템으로 작동하고 71개는 구형 적응형 루프 감지기 시스템을 사용합니다. 나머지 교차로는 새로운 적응형 제어 시스템으로 업그레이드되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "교통 체증 완화는 여행자에게 긍정적인 영향을 미치므로 포함. 실질적인 개선 효과가 나타나고 있어 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BMA to expand AI traffic lights after success at 74 intersections",
@@ -40276,23 +40268,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205863_260226202416_700.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205863_260226202416_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205863/bma-to-expand-ai-traffic-lights-after-success-at-74-intersections",
+      "source": ""
     },
     {
       "title": "BTS, 승객들에게 머리카락 정리 요청",
       "summary": "- BTS 스카이트레인 운영사, 승객들에게 머리카락으로 인한 불편 초래 방지 당부\n- 긴 머리 승객은 회전, 보행, 승하차 시 머리카락을 잡아 고정해야 함\n- 쾌적한 여행 문화 조성을 위한 에티켓 준수 강조",
       "full_translated": "BTS 스카이트레인 운영사는 승객들에게 출퇴근 시간 동안 머리카락을 흩날리거나 던지지 않도록 요청했습니다. 느슨한 머리카락이 다른 통근자들의 얼굴, 어깨, 눈 또는 입에 닿을 수 있기 때문입니다.\n\n긴 머리를 가진 승객은 머리를 돌리거나, 다른 사람을 지나갈 때, 기차에 승하차할 때 머리카락을 제자리에 고정해야 합니다. 운영사는 소셜 미디어 게시물을 통해 “쾌적한 여행 문화를 구축하고 서로를 배려하여 모두에게 즐거운 여행이 되도록 합시다”라고 밝혔습니다.\n\n스카이트레인 시스템 이용 시 다른 에티켓 팁은 다음과 같습니다.\n\n승객은 이동 중에 손잡이, 스트랩 또는 기둥을 잡고, 어린이, 임산부, 노인, 장애인, 불교 승려와 수련자에게 자리를 양보해야 합니다. 승객은 항상 소지품을 주의 깊게 살펴보고 비상시 즉시 열차 직원에게 알려야 합니다. 승객은 문이나 기둥에 기대거나 막거나, 손을 객차 문 가까이에 두거나, 통로를 짐으로 막거나, 객차 내부에서 음식물을 먹거나 마시지 않아야 합니다. 승객은 노란색 선 뒤에 줄을 서고, 내리는 승객이 먼저 내리도록 하고, 플랫폼과 열차 사이의 간격을 주의하고, 문 닫힘 신호가 울리면 탑승을 중단해야 합니다. 소지품이 선로에 떨어진 사람은 즉시 역 직원에게 알려야 합니다. 뛰거나, 미는",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "BTS 이용 시 필요한 에티켓 정보 제공. 여행객에게 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BTS asks passengers to keep their hair in check",
@@ -40301,23 +40290,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205643_700.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205643_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205643/bts-asks-passengers-to-keep-their-hair-in-check",
+      "source": ""
     },
     {
       "title": "กล้าธรรม당 의원, ภูมิใจไทย당과의 연립 정부 구성설 부인 -> กล้าธรรม당 의원, 푸미자이당과의 연립 정부 구성설 부인",
       "summary": "- 끌라탐당의 씨라폽 의원은 푸미짜이타이당과의 연립 정부 구성설을 부인하며 탐마낫 대표에 대한 지지를 표명함.\n- 낫짜뭇딘 관계자는 찰름차이 대표가 여전히 자리를 지키고 있으며, 정부 구성에 대한 최종 결정은 아눗틴 대표의 발표를 기다리고 있다고 밝힘.\n- 최근 9명의 끌라탐당 의원이 푸미짜이타이당을 지지하여 아눗틴 대표를 총리로 만들 것이라는 소문이 돌았으나, 이는 사실이 아닌 것으로 밝혀짐.",
       "full_translated": "กล้าธรรม당의 시라폽 의원은 푸미자이타이당과의 연립 정부 구성설을 부인하며 탐마낫 대표에 대한 지지를 표명했습니다. 시라폽 의원은 자신이 접한 뉴스의 출처를 알 수 없으며, 탐마낫 대표의 지지 덕분에 국회의원이 될 수 있었기에 그를 배신할 수 없다고 강조했습니다. 또한 어떠한 연락도 받은 적이 없으며, 앞으로도 탐마낫 대표와 함께할 것이라고 밝혔습니다.\n\n낫짜뭇딘 관계자는 찰름차이 대표가 여전히 자리를 지키고 있으며, 정부 구성에 대한 최종 결정은 아눗틴 대표의 발표를 기다리고 있다고 밝혔습니다. 그는 최근 소문으로 떠돌았던 찰름차이 대표 휘하의 9명의 의원이 푸미자이타이당을 지지할 것이라는 내용이 사실이 아니라고 밝혔습니다.\n\n최근 9명의 กล้าธรรม당 의원이 푸미자이타이당을 지지하여 아눗틴 대표를 총리로 만들 것이라는 소문이 돌았습니다. 이들은 러.어. 탐마낫 프롬파오 대표로부터 이탈할 것이라는 예측이 있었으나, 시라폽 의원은 이를 부인했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“สิรภพ” ลั่นขอร่วมหัวจมท้ายกับ “ธรรมนัส” โต้ข่าว 9 งูเห่ากล้าธรรมร่วมรัฐบาลภูมิใจไทย",
@@ -40326,23 +40312,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDILKdhbuvDsK.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDILKdhbuvDsK.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/politic/2916718",
+      "source": ""
     },
     {
       "title": "태국 새 내각 구성: 장관 임명 기준 강화, 청렴성 중요시",
       "summary": "- 아누틴 총리, 새 내각 구성 시 장관의 청렴성을 최우선 기준으로 삼을 것임을 밝힘.\n- 헌법재판소 판결을 참고하여 장관 임명 기준을 강화할 예정.\n- 부정부패 및 국가 이익에 반하는 행위를 방지하기 위한 조치.",
       "full_translated": "아누틴 총리는 새 내각 구성의 원칙으로 '장관은 명백하게 정직하고 성실해야 한다'는 점을 강조했습니다. 헌법재판소의 판결을 기준으로 삼아 국가 이익에 반하거나 배신하는 행위를 하지 않도록 할 것입니다. 2029년 2월 26일, 총리실 소식통에 따르면 아누틴 차른비라쿨 총리는 새 내각 구성에 대해 '훨씬 더 엄격해질 것'이라고 밝혔습니다. 여기서 '훨씬 더 엄격해질 것'이라는 의미는 품탐 웨차차이 전 부총리 겸 국방부 장관과 포.토.어. 타위 솟송 전 법무부 장관의 써.워. 선거 개입 사건에 대한 헌법재판소의 판결을 참고한다는 것입니다. 헌법재판소는 피청구인 두 장관의 장관직이 종료되지 않았다고 판결했지만, 이를 새로운 내각 구성의 틀과 원칙으로 삼았습니다. 헌법재판소는 2월 19일 관보 45면에 발표된 내용에서, 헌법 160조 (4)항에 따라 장관은 '명백하게 정직하고 성실해야 한다'고 규정했습니다. '정직'은 올바르고 진실하며, 배신하거나 속이지 않는다는 의미이며, '성실'은 적법한 행위를 의미합니다. 따라서 장관은 기준에 미달하거나 '명백하게 정직하고 성실하지 못하다'는 징후가 없어야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "정치 뉴스이지만, 내각 구성 관련 내용은 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ครม.อนุทิน 2” รมต.ต้องซื่อสัตย์สุจริตเป็นที่ประจักษ์ ยึดคำวินิจฉัยศาลเป็นบรรทัดฐาน",
@@ -40351,8 +40334,133 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDHSmxlP4tolW.jpg"
         }
       ],
-      "collected_at": "00:33",
+      "collected_at": "0:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDHSmxlP4tolW.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/politic/2916713",
+      "source": ""
+    },
+    {
+      "title": "피칫에서 변태 범죄, 용의자, 채팅방 연루 및 추가 범죄 정황",
+      "summary": "- 피칫 지방에서 25세 남성이 화장실 비데에 시너와 소변, 정액을 섞어 여성에게 상해를 입힌 혐의로 체포됨.\n- 용의자는 성도착증 환자들이 모인 채팅방에 범행 계획을 공유하고, 범행 장면을 몰래 촬영함.\n- 경찰은 용의자의 휴대폰에서 미성년자 성추행 영상도 발견하고 추가 범죄 혐의를 조사 중.",
+      "full_translated": "경찰은 피칫 지방의 변태를 변태 채팅 그룹에 연결\n\n경찰은 용의자가 비데 분무기에 시너와 소변, 정액을 채웠다고 밝혔습니다. 게시일: 2026년 2월 26일 15:52 작성자: 온라인 기자 경찰은 북부 피칫 지방에서 25세 남성을 체포했는데, 이 남성은 더 얇고 소변과 시멘트가 채워진 비데 분무기로 여성을 다치게 한 혐의를 받고 있습니다. 사이버 범죄 수사국에 따르면 이 남성은 시티콘으로만 확인되었으며 화요일 아침 북부 지방 므앙 지역의 불교 사원에서 체포되었습니다. 경찰은 다른 성적 일탈자들이 자신의 이야기를 공유하는 채팅 그룹에서 그가 만든 비디오와 게시물에서 그를 확인했습니다. 그들은 그 남자가 사원의 화장실을 사용하는 여성을 더 얇게 만들고 그의 소변과 정액으로 채우고 숨겨진 카메라로 사건을 기록함으로써 해치려는 계획을 설명했다고 말했습니다. 또한 여성이 사원의 화장실을 나가는 모습과 상처를 입은 것으로 보이는 영상도 있었습니다. 클립 기고자는 회원 가입비를 부과하는 텔레그램 채팅 그룹의 회원이었습니다. 그는 아이피엑스 콘 디 썽 로이 퍼센트라는 계정 이름으로 알려졌으며, 체포 당시 용의자의 휴대폰에서 해당 계정의 게시물이 발견되었습니다. 경찰은 또한 그에게서 내시경을 압수했고 용의자가 10세 소녀를 성추행하는 영상도 발견했습니다. 용의자는 같은 사원의 승려였다고 그들은 말했습니다. 동일한 채팅 그룹에서 경찰은 또 다른 사용자가 미성년자 채무자의 나체 사진을 공유하는 것을 발견했습니다. 키티로만 확인된 용의자(26세)는 어린 채무자들에게 나체 사진을 보내도록 요구했다고 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전 관련 범죄 정보. 사원 화장실에서 발생하여 여행객에게 직접적인 위협이 될 수 있음. 다만 특정 지역에 한정된 사건이므로 7점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "피칫 지방 므앙 지역 불교 사원",
+        "price": null,
+        "location_google_map_query": "므앙 지역 불교 사원 피칫"
+      },
+      "references": [
+        {
+          "title": "Police link Phichit pervert to deviants’ chat group",
+          "url": "https://www.bangkokpost.com/thailand/general/3205743/police-link-phichit-pervert-to-deviants-chat-group",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205743_700.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205743_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "태국, 포르투갈에 EU 무역 협정 및 OECD 가입 지지 요청",
+      "summary": "- 태국이 포르투갈에 EU-태국 자유 무역 협정(FTA) 협상 가속화 및 OECD 가입 지지를 공식 요청함.\n- 시하삭 푸앙케트코에우 외무장관과 파울루 랑헬 포르투갈 외무장관 회담에서 논의됨.\n- 양국은 외교관, 공무원, 특별 여권 소지자에 대한 비자 면제 협정을 올해 안에 체결할 예정이며, 포르투갈은 태국 국민의 솅겐 비자 면제 획득 노력도 지지할 것임.",
+      "full_translated": "태국은 유럽연합(EU)과의 자유무역협정(FTA) 협상 가속화와 2030년까지 경제협력개발기구(OECD) 가입을 추진하는 데 있어 포르투갈의 지지를 공식적으로 요청했습니다. 이 요청은 시하삭 푸앙케트코에우 외무장관과 태국을 공식 방문 중인 파울루 랑헬 포르투갈 외무장관 간의 회담에서 이루어졌습니다. 목요일 외무부에서 열린 공동 기자회견에서 시하삭 장관은 정치, 경제, 인적 교류 등 광범위한 협력에 걸쳐 관계를 심화하는 것을 목표로 논의가 이루어졌다고 말했습니다. 양국 관계가 5세기가 넘었다는 점을 강조하면서 시하삭 장관은 양국 국민 간의 교류를 촉진하는 것이 우선순위라는 데 양측이 합의했다고 말했습니다. 태국과 포르투갈은 올해 말 외교, 공무, 특별 여권 소지자에 대한 비자 면제 협정을 체결할 예정입니다. 그는 또한 포르투갈이 태국 국민의 유럽 방문을 용이하게 하는 솅겐 비자 면제 획득 노력을 지지할 준비가 되어 있다고 밝혔습니다. 무역과 관련하여 시하삭 장관은 EU-태국 FTA를 유럽연합과의 관계에서 가장 중요한 기둥 중 하나로 묘사했습니다. 거의 10년 동안 중단되었던 협상은 2023년에 재개되었으며 진전되고 있으며 태국은 협상을 마무리하는 것을 목표로 하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "비자 면제 및 FTA 관련 내용은 여행 및 경제에 간접적인 영향을 미치므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand courts Portugal for EU trade deal, OECD membership",
+          "url": "https://www.bangkokpost.com/business/general/3205839/thailand-courts-portugal-eu-trade-deal-oecd-membership",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "01:40",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "태국 주요 이커머스 기업, 디지털 플랫폼 무역 협회 결성",
+      "summary": "- Grab, Lazada, Line Man Wongnai, Shopee 등 주요 기업 참여\n- 디지털 경제 성장 및 온라인 사기 대응, 수출 표준 개발 목표\n- 태국 디지털 경제는 동남아시아에서 인도네시아 다음으로 2위 규모",
+      "full_translated": "태국 디지털 플랫폼 무역 협회(TDPA)는 Grab, Lazada, Line Man Wongnai 및 Shopee와 같은 주요 기업들이 설립한 새로운 무역 그룹으로, 지속 가능한 디지털 인프라 구축을 통해 산업의 건전성을 보장해야 한다고 밝혔습니다. 협회는 정부와의 협력을 위한 통합된 목소리를 내고, 온라인 사기 해결, 중소기업(SME) 수출 표준 개발, 지적 재산권 보호를 위해 정책 결정자들과 협력할 예정입니다. 또한 디지털 문해력 향상, 투명성 증진, 정부 정책이 혁신에 미치는 영향 최소화를 목표로 합니다. 협회 자문위원인 Jirawat Poomsrikaew는 디지털 경제가 태국이 중진국 함정을 벗어나는 데 중요한 역할을 하며, 전체 경제보다 빠르게 성장하고 있다고 밝혔습니다. Google, Temasek 및 Bain & Company의 e-Conomy SEA Report 2025에 따르면, 2025년 태국의 디지털 경제는 총 상품 가치 성장률 16%를 기록하며 1조 7,300억 바트(560억 달러)에 달했습니다. 태국은 동남아시아 디지털 경제에서 인도네시아에 이어 2위를 유지하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 디지털 경제 현황 파악 및 관련 서비스(Grab, Shopee 등) 이용에 참고 가능. 새로운 정책/규제 변화 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "E-commerce giants form Thai trade group",
+          "url": "https://www.bangkokpost.com/business/general/3205834/ecommerce-giants-form-thai-trade-group",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205834_260226182236_700.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205834_260226182236_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "유명 연예인 부부 '나나'와 '웨이', 사기 혐의 부인",
+      "summary": "- 배우 리베나 “나나” 인타차이와 래퍼 남편 프린야 “웨이 타이타늄” 인타차이가 사기 혐의로 기소됨.\n- 이들은 1억 바트 이상의 손실을 초래한 혐의를 받고 있으며, 법원에서 무죄를 주장함.\n- 첫 번째 증거 심리는 5월 25일에 열릴 예정이며, 부부는 각각 100만 바트의 보석금을 내고 석방됨.",
+      "full_translated": "배우 리베나 “나나” 인타차이와 래퍼 남편 프린야 “웨이 타이타늄” 인타차이의 사기 재판에서 증거 심리가 5월 25일에 열릴 예정입니다. 이 부부는 목요일 법정에서 모든 혐의에 대해 무죄를 주장했습니다. 검찰은 이 사건으로 1억 바트 이상의 손실이 발생했다고 밝혔습니다. \n\n리베나와 프린야 외에도, 배우가 운영하는 두 회사인 Flick of the Light Productions와 Rybena 2016도 함께 기소되었습니다. 피고인들은 공공 사기, 사기 대출, 위조 및 위조 문서 사용 공모 혐의로 기소되었습니다. 검찰은 피해자들이 약 1억 7천만 바트를 피고인들에게 이체했다고 밝혔습니다. 관련된 금액은 150만 바트에서 4640만 바트까지 다양합니다. 이전 보고서에서는 총액이 1억 9500만 바트에 달한다고 했습니다. \n\n기소장에 따르면, 피고인들은 허위 진술과 중요 사실을 숨겨 최소 11명을 공동으로 속였습니다. 피해자들은 개인 대출 사업, 자산 거래, 해외 레스토랑 및 주식 시장 투자 등 다양한 투자 계획에 돈을 빌려주었습니다. 배우와 그녀의 남편은 이전에 각각 100만 바트의 보석금을 받고 석방되었습니다. 목요일, 리베나와 프린야는 언론을 피하기 위해 옆문으로 법정에 들어갔습니다. 법원이 혐의를 읽고 설명한 후, 두 피고인은 무죄를 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "유명인의 사기 사건이지만, 관광객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-05-25",
+        "location": "태국 방콕 형사 법원",
+        "price": "해당 사항 없음",
+        "location_google_map_query": "방콕 형사 법원"
+      },
+      "references": [
+        {
+          "title": "Celebrity couple ‘Nana’ and ‘Way’ plead not guilty to fraud",
+          "url": "https://www.bangkokpost.com/thailand/general/3205798/celebrity-couple-nana-and-way-plead-not-guilty-to-fraud",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205798_700.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205798_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "태국 새 내각 구성 논란: 부적절한 장관 임명 주장에 대한 법적 검토",
+      "summary": "- 아누틴 총리가 임명한 일부 장관에 대한 적절성 논란이 제기됨.\n- 보원삭 전 부총리는 장관직에서 물러난 후에는 법적 문제가 없다고 언급.\n- 총리는 아직 이 문제에 대해 자문을 구하지 않았다고 밝힘.",
+      "full_translated": "보원삭 전 부총리는 아누틴 총리가 탐마낫을 부적절하게 임명했다는 주장에 대해 문제가 없다고 지적했습니다. 그는 이미 장관직에서 물러났다고 밝혔습니다. 총리는 이 문제에 대해 아직 자문을 구하지 않았으며, 다시 부총리직을 제안받지 않았다고 밝혔습니다. 2069년 2월 26일 16시, 보원삭 우완노 전 부총리는 정부 청사에서 아누틴 찬위라꾼 총리 겸 내무부 장관이 새 내각의 자격 요건을 확인하기 위해 조언을 구했는지에 대한 질문에 대해 아직 없다고 답했습니다. 그는 그러한 문제는 장관 임명을 위해 금지 사항이 있는지 확인하기 위해 목록을 제출해야 하는 내각 사무국의 책임이라고 언급했습니다. 현재 사법 법원, 행정 법원, 국가 부패 방지 위원회 (P.P.C.), 경찰 특수 부대 사령부, 자금 세탁 방지 사무국 (PPO) 등 9개 이상의 기관으로 조사가 확대되었습니다. 장관직에 임명될 위험이 있는 사람들의 목록을 제출해서는 안 된다는 질문에 대해 보원삭은 '위험'이라는 단어가 무엇을 의미하는지 명확히 해야 한다고 지적했습니다. 그러나 금지된 특징이 있다면 위험이 아니라 불가능합니다. 언론인들은 총리가 부적절한 장관 임명에 대해 불만을 제기한 것에 대해 질문했고, 보원삭은 헌법이 직책을 맡을 때 금지된 자격을 명시하고 있으며, 일단 그 사람이 직책에서 물러나면 더 이상 문제가 되지 않는다고 답했습니다. 동시에 보원삭은 품탐 웨차야차이 전 내무부 장관과 타위 솟송 전 법무부 장관의 사건에 대한 법원의 판결에 대한 언론의 관심에 대해 법원이 공익을 위해 심리하라고 명령했다고 언급했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단됨. 내각 구성 관련 논란은 일반적인 정치 뉴스.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“บวรศักดิ์” ชี้ ไม่มีปัญหา “อนุทิน” ถูกร้องตั้ง “ธรรมนัส” มิชอบ เหตุพ้น รมต. แล้ว",
+          "url": "https://www.thairath.co.th/news/politic/2916709",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDWeDNX1F3K8u.jpg"
+        }
+      ],
+      "collected_at": "01:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDWeDNX1F3K8u.jpg",
       "date": "2026-02-27"
     }
   ]
