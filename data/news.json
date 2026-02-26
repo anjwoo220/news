@@ -38783,14 +38783,9 @@
       "summary": "- 태국 중앙은행(BoT)이 경제 지원을 위해 정책 금리를 0.25%p 인하하여 1%로 조정함.\n- 금리 인하 사이클은 종료된 것으로 보이나, 미국 관세 정책 불확실성에 대비하여 50bp의 정책 여력은 유지.\n- 2025년 4분기에 태국 경제가 예상보다 빠르게 성장했지만, 2026년과 2027년 성장률은 잠재 성장률인 2.7%를 밑돌 것으로 예상.",
       "full_translated": "태국 중앙은행은 수요일 정책 금리 인하가 태국 경제를 지원하기에 충분하다고 판단, 정책 금리 인하 사이클이 종료되었다고 밝혔습니다. 통화정책위원회(MPC)는 수요일 회의에서 정책 금리를 25bp 인하하여 즉시 1%로 조정하는 데 4-2로 표결했습니다. MPC 사무총장인 돈 나콘탑에 따르면 2명의 위원은 정책 금리를 1.25%로 유지하는 데 찬성했습니다. 그는 태국 경제가 위원회의 평가와 일치하게 진행된다면 금리 인하 사이클은 끝난 것으로 간주될 수 있다고 말했습니다. 그러나 MPC는 도널드 트럼프 미국 대통령의 관세 정책으로 인한 불확실성이 고조됨에 따라 팬데믹 기간 동안의 최저치인 0.5%에 비해 50bp의 정책 여력을 유지했습니다. 돈 씨는 \"최근 금리 인하는 시기적으로 시장을 놀라게 했을 수 있지만, 시장은 이미 올해 정책 금리가 1%로 인하될 것으로 예상했습니다.\"라고 말했습니다. \"이번 인하는 향후 몇 달 동안 태국 경제를 지원하기 위한 선제적 조치입니다.\" 기준 시나리오에서 중앙은행은 미국 대법원이 트럼프 대통령의 관세 제도를 기각한 후 태국 수출에 부과되는 미국의 관세율이 19%로 유지될 것으로 가정합니다. MPC는 관세 변화를 모니터링할 계획입니다. 2025년 4분기에 태국 경제가 예상보다 빠르게 성장했지만, 구조적인 문제로 인해 2026년과 2027년 성장률은 잠재 성장률인 2.7%를 밑돌 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "금리 인하가 여행 관련 산업에 간접적인 영향을 미칠 수 있으며, 환율 변동 가능성도 존재함. 다만, 직접적인 영향은 크지 않다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "BoT slashes rate in surprise move to support economy",
@@ -38799,23 +38794,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983260_700.jpg"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983260_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/general/3205175/bot-slashes-rate-in-surprise-move-to-support-economy",
+      "source": ""
     },
     {
       "title": "3월부터 온라인 금 거래 플랫폼 규제 강화",
       "summary": "- 태국 중앙은행, 바트화 영향 억제를 위해 온라인 금 거래 플랫폼 규제 강화\n- 3월 1일부터 시행, 1인당 플랫폼당 거래 한도 5천만 바트\n- 기존 금 보유자는 시간 제한 없이 매도 가능, 달러 결제, 전통 금 상점, 금 저축 플랫폼은 해당 X",
       "full_translated": "태국 중앙은행은 바트화에 미치는 영향을 억제하기 위해 온라인 금 거래 플랫폼에 대한 통제를 강화했으며, 새로운 규칙은 3월 1일부터 시행될 예정입니다. 정부 부대변인 랄리다 페르스비바타나에 따르면 1월 말 기준으로 이미 한도 이상의 금을 보유한 사람은 시간 제한 없이 기존 보유 자산을 판매할 수 있습니다. 그녀는 중앙은행이 고가 거래에 대한 감독을 강화하고 투명성을 높이며 바트화 안정에 대한 위험을 줄이기 위해 바트화로 결제되는 온라인 플랫폼에서 금 거래에 대한 규정을 도입했다고 말했습니다. 주요 조치는 바트화로 결제하는 플랫폼에 적용되는 1인당 플랫폼당 거래당 5천만 바트의 거래 한도입니다. 이는 미국 달러로 결제되는 거래, 전통적인 금 상점, 판매를 허용하지 않는 금 저축 플랫폼 또는 선물 시장 거래에는 적용되지 않습니다. 그러나 2026년 1월 30일 기준으로 5천만 바트 이상의 금을 보유한 투자자는 시간 제한 없이 기존 보유 자산을 판매할 수 있습니다. 바트화와 미국 달러로 결제되는 온라인 금 플랫폼에 대한 추가 거래 규칙이 도입되었습니다. 새로운 요구 사항에 따라 결제를 받거나 지불하기 위해 제3자 계정을 사용하는 것은 엄격히 금지되며 모든 거래는 전자 결제 시스템을 통해 이루어져야 합니다. 전액 결제는...",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 적지만, 금융 거래 관련 규제 변경은 알아두면 유용한 정보. 다만, 거래액이 높아 일반 여행객에게는 영향이 적을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Stricter rules for online gold platforms in March",
@@ -38824,23 +38816,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983485_700.jpg"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983485_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/investment/3205440/stricter-rules-for-online-gold-platforms-in-march",
+      "source": ""
     },
     {
       "title": "태국 부동산 시장 회복세",
       "summary": "- 2025년 4분기 주택 시장이 회복세로 전환됨.\n- 주택 이전 건수 및 가치가 전 분기 대비 증가.\n- 정부의 지원 정책 연장이 시장 모멘텀 유지에 중요.",
       "full_translated": "부동산 연구원에 따르면 국내 주택 시장은 이미 바닥을 쳤으며, 공급과 수요가 더욱 균형 잡힌 수준으로 이동하고 있습니다. 부동산정보센터(REIC)에 따르면 정부는 시장 모멘텀을 유지하기 위해 지원책을 확대해야 합니다. REIC의 마케팅 사업 담당 수석 부사장인 Narongpol Prapanirin은 2025년 4분기 주거용 부동산 이전 건수가 3분기 대비 단위 기준으로 5.7%, 가치 기준으로 9.3% 증가했다고 밝혔습니다. 4분기에 신규 승인된 주택 융자는 전 분기 대비 1.3% 증가했습니다. 2025년 4분기는 태국 부동산 부문의 회복 조짐을 분명히 반영했으며, 국내 부동산 시장이 최저점을 지났다고 그는 말했습니다. 연간 총 주거용 이전 건수는 316,000건으로 전년 대비 9.1% 감소했고, 총 가치는 8,640억 바트로 11.8% 감소했지만, 2025년 매 분기 상황이 개선되었습니다. 전국의 주거용 부동산 이전 총 가치는 작년 매 분기 증가하여 1분기에 1,810억 바트, 2분기에 2,100억 바트, 3분기에 2,260억 바트, 마지막 분기에 2,470억 바트를 기록했습니다. 신규 주택과 중고 주택 모두의 이전 총 건수는 1분기에 65,200건, 2분기에 77,300건, 3분기에 84,300건, 4분기에 89,100건을 기록했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "부동산 시장 동향은 단기 여행객에게는 직접적인 영향이 적으나, 장기 체류 또는 투자 목적 방문객에게는 유용한 정보가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai property market rebounds",
@@ -38849,23 +38838,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983345_700.jpg"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983345_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/property/3205280/thai-property-market-rebounds",
+      "source": ""
     },
     {
       "title": "태국 주식 시장, 정치 안정에 힘입어 상승",
       "summary": "- 태국 선거관리위원회의 새 국회의원 승인과 태국 중앙은행의 2026년 GDP 성장률 전망치 상향 조정에 힘입어 태국 주식 시장이 상승세를 보임.\n- SET 지수는 1,511 포인트로 마감하며 800억 바트의 거래량을 기록.\n- 품짜이타이당(Bhumjaithai Party)이 새로운 연립 정부에서 다수당을 차지하여 정치적 안정성이 높아졌다는 분석.",
       "full_translated": "태국 주식 시장 투자 심리가 고조되고 있으며, 이는 선거관리위원회의 2월 8일 총선에서 선출된 새 국회의원 승인과 태국 중앙은행의 2026년 GDP 성장률 전망치 상향 조정에 힘입은 결과입니다. 이러한 요인들이 복합적으로 작용하여 태국 지수는 수요일에 1,500 포인트를 넘어섰습니다.\n\n크룽스리 증권의 코라팟 보라체트 부사장은 선거관리위원회가 거의 400명에 달하는 국회의원을 1차로 승인했다는 소식에 힘입어 SET 지수가 20포인트 이상 급등하여 정오에 1,511 포인트로 마감했으며, 거래 가치는 약 800억 바트에 달했다고 밝혔습니다.\n\n그는 \"품짜이타이 당이 새로운 연립 정부에서 다수당을 차지하면서 새로운 행정부와 태국 정치가 더욱 안정화될 것\"이라며, \"이는 시장에 긍정적이며, 임시 재무장관 엑니티 니티탄프라파스가 최근 제안한 '빅 윈' 프레임워크에 따라 투자 중심의 경제 조치를 추진하기 위한 품짜이타이 당 주도의 연립 정부 구성을 지지합니다.\"라고 덧붙였습니다.\n\n또한, 중앙은행 총재 위타이 라타나콘이 화요일에 규제 당국이 올해 GDP 성장률을 이전 전망치인 1.5%에서 1.9%로 상향 조정할 것이라고 밝히면서 주식 시장은 경제 전망 개선에 힘입어 상승했습니다.\n\nBBL 자산 운용(BBLAM)의 이사라 오르디돌체스트 부사장은 최근 발표된 4분기 재무 데이터에서 태국 경제가 상당한 성장을 기록했다고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 안정과 경제 성장 관련 뉴스. 여행 자체에는 직접적인 영향이 적지만, 태국 경제 상황을 이해하는 데 도움이 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai stocks balloon  as politics stabilises",
@@ -38874,23 +38860,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205315_260226062347_700.jpg"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205315_260226062347_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/investment/3205315/thai-stocks-balloon-as-politics-stabilises",
+      "source": ""
     },
     {
       "title": "지리 리다라, 태국 전기 픽업트럭 생산 모색",
       "summary": "- 중국 자동차 제조업체 지리(Geely)의 전기 픽업 브랜드 리다라(Riddara)가 태국 내 전기차 공장 설립 계획을 검토 중.\n- 태국 픽업 시장은 성장 잠재력이 높으며, 전기 픽업트럭이 화석 연료 차량보다 에너지 절약 효과가 크다고 판단.\n- 리다라는 태국을 동남아시아 허브로 삼아 미얀마, 라오스, 필리핀, 말레이시아 등으로 시장을 확대할 계획.",
       "full_translated": "지리 리다라 태국, 중국 자동차 제조업체 지리의 전기 픽업 브랜드 리다라의 현지 법인은 태국 내 전기 자동차(EV) 공장 설립 계획을 모색하여 태국의 성장하는 EV 시장을 활용하고자 합니다. \n\n카오 펑 지리 리다라 태국 총괄 매니저는 태국의 픽업 시장이 전반적인 픽업 판매 둔화에도 불구하고 배터리 구동 차량에 대한 강력한 잠재력을 제공한다고 말했습니다. 그는 \"이 나라는 픽업 시장에 기회가 있는 시장입니다. 판매가 둔화되었지만 장기적으로 전기 픽업은 화석 연료로 작동하는 차량보다 에너지를 더 절약하므로 계속 성장할 것이라고 확신합니다.\"라고 말했습니다. \n\n태국은 지리가 리다라 브랜드를 확장한 중국 외 첫 번째 국가로, 태국을 동남아시아 허브로 만들고자 하는 회사의 야망을 강조합니다. 리다라는 이미 미얀마, 라오스, 필리핀에서 마케팅 노력을 시작했으며 말레이시아에서도 기회를 연구하고 있습니다. 회사는 올해 태국에서 3,000~5,000대 판매 목표를 설정했습니다. 이를 달성하기 위해 리다라는 법인 구매자와 가족을 대상으로 하는 싱글캡 픽업을 포함한 새로운 모델을 출시할 계획입니다. 2025년에는 태국에서 총 1,000대를 판매했습니다. 입지를 강화하기 위해 리다라는 소매 및 서비스 네트워크를 확장하고 있습니다. 회사는 쇼룸과 서비스 센터 수를 늘릴 계획입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 내 전기차 산업 동향에 대한 정보. 여행 자체에 직접적인 영향은 적으나, 장기적으로 교통/환경 변화에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Geely Riddara explores Thai EV pickup production",
@@ -38899,8 +38882,133 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983340_700.jpg"
         }
       ],
-      "collected_at": "06:53",
+      "collected_at": "6:53",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983340_700.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/business/motoring/3205265/geely-riddara-explores-thai-ev-pickup-production",
+      "source": ""
+    },
+    {
+      "title": "6백만 명의 관광객, 태국 경제 활성화",
+      "summary": "- 태국은 올해 초부터 약 6백만 명의 외국인 관광객을 맞이했습니다.\n- 이로 인해 약 3천억 바트의 수익이 발생했습니다.\n- 중국, 말레이시아, 러시아가 주요 방문객입니다.",
+      "full_translated": "태국 정부는 올해 초부터 약 6백만 명의 외국인 관광객이 태국을 방문하여 거의 3천억 바트의 수익을 올렸다고 밝혔습니다. 중국, 말레이시아, 러시아인들이 주요 방문객입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업 현황을 보여주는 자료로, 여행객들의 태국 여행에 대한 간접적인 정보를 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "6 million tourists boost economy",
+          "url": "https://www.bangkokpost.com/thailand/general/3205360/6-million-tourists-boost-economy",
+          "source": "Bangkokpost.com : Thailand"
+        }
+      ],
+      "collected_at": "08:15",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "체리 그룹, 태국 자동차 공장 개장 연기: 회장에게 예상치 못한 사고 발생",
+      "summary": "- 체리 그룹 태국 자동차 공장 개장, 2월 26일 무기한 연기.\n- 개장식 예정된 날, 회장에게 예상치 못한 사고 발생.\n- 새 개장 날짜는 추후 공지 예정.",
+      "full_translated": "체리 그룹은 태국 자동차 공장 개장일을 2월 26일에서 무기한 연기한다고 발표했습니다. 이유는 개장식에 참석 예정이었던 회장에게 예상치 못한 사고가 발생했기 때문입니다. 오모다 앤 제이쿠 (태국)과 체리 (태국)은 페이스북 페이지를 통해 공장 개장 연기 소식을 알렸습니다. 해당 공장은 라용 지역에 위치해 있습니다. 회사 측은 행사를 완벽하게 진행하기 위해 연기가 불가피했다고 밝혔으며, 불편을 끼쳐 드려 죄송하다고 덧붙였습니다. 새로운 개장 일정은 추후 공지될 예정입니다. 이번 개장 연기 소식은 행사 시작 불과 10시간 전에 언론과 딜러들에게 통보되어 의문을 자아내고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 경제 및 자동차 산업에 대한 정보 제공.",
+      "event_info": {
+        "date": "2024-02-26",
+        "location": "라용, 태국",
+        "price": null,
+        "location_google_map_query": "라용 태국"
+      },
+      "references": [
+        {
+          "title": "CHERY Group เลื่อนวันเปิดโรงงานผลิตรถยนต์ในไทย ให้เหตุผลประธานเกิดเหตุสุดวิสัย",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2916522",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFy4E8jwOSrzd.jpg"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFy4E8jwOSrzd.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "제노, 싱가포르에서 열리는 큰 상금 대회에 출전",
+      "summary": "- 태국 랭킹 1위 제노 티티쿨, 이번 주 싱가포르에서 열리는 2026 여자 월드 챔피언십에 참가\n- 뉴질랜드의 리디아 고도 디펜딩 챔피언으로 참가\n- 총 상금 300만 달러(약 9300만 바트) 규모의 토너먼트",
+      "full_translated": "태국 랭킹 1위 제노 티티쿨이 이번 주 싱가포르 센토사 골프 클럽(탄종 코스)에서 열리는 2026 여자 월드 챔피언십에 참가합니다. 뉴질랜드의 리디아 고도 디펜딩 챔피언으로 복귀합니다. 총 상금 300만 달러(약 9300만 바트) 규모의 토너먼트 첫 라운드는 목요일에 시작되며, 우승자에게는 45만 달러(1400만 바트)가 수여됩니다. 제노와 랭킹 6위인 고 외에도 7명의 탑 10 선수들이 72명의 참가자가 참여하는 세계적인 수준의 필드에서 경쟁할 예정입니다. 태국 선수로는 아리야 주타누간, 파자리 아난나루칸, 차네티 완나센도 참가합니다. 제노는 일요일 파타야에서 열린 LPGA 태국에서 올해 첫 우승을 차지했습니다. 23세의 그녀는 작년 싱가포르 토너먼트에서 공동 2위를 기록했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 선수가 참가하는 국제 스포츠 경기 소식. 여행 자체에는 큰 영향이 없지만, 관심 있는 여행자에게는 흥미로운 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-02-27",
+        "location": "Sentosa Golf Club, Singapore",
+        "price": "Unknown",
+        "location_google_map_query": "Sentosa Golf Club, Singapore"
+      },
+      "references": [
+        {
+          "title": "Jeeno, top guns take aim at big purse in Singapore",
+          "url": "https://www.bangkokpost.com/sports/3205190/jeeno-top-guns-take-aim-at-big-purse-in-singapore",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983290_700.jpg"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983290_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "지리(GEELY) EX2, 태국 내 첫 2,000대 인도 완료",
+      "summary": "- 타논부리 노이 스턴, 태국 내 지리 EX2 2,000대 인도 완료 발표\n- 모터 엑스포에서 뜨거운 반응, 현재 누적 예약 6,000대 돌파\n- 생산량 증대 및 원활한 차량 공급 위해 중국 본사와 협력 중",
+      "full_translated": "타논부리 노이 스턴(Thonburi Noi Stern)은 태국 내 공식 지리(GEELY) 자동차 수입 및 유통업체로서, GEELY EX2의 첫 2,000대 인도 완료를 발표했습니다. 42회 모터 엑스포에서 뜨거운 반응을 얻은 후 누적 예약이 6,000대를 넘어섰으며, 차량 배송을 가속화하기 위해 노력하고 있습니다. 타논부리 노이 스턴의 CEO인 나롱 씨탈라얀은 고객들의 뜨거운 성원에 감사를 표하며, 6,000대 이상의 예약이 접수되었다고 밝혔습니다. 모터 엑스포에서 예약한 고객들에게 2,000대를 인도했으며, 중국 공장의 생산 능력 제한에도 불구하고 지리 오토 인터내셔널 코퍼레이션과 긴밀히 협력하여 생산량을 늘리고 3월부터 태국에 차량 공급을 늘릴 계획입니다. 또한, 고객의 수요를 충족시키기 위해 추가 생산 주문을 고려하고 있습니다. 타논부리 노이 스턴은 장기적인 고객 신뢰를 구축하기 위해 서비스 기반을 강화하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 내 자동차 판매에 대한 정보로, 여행 자체에는 큰 영향이 없다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ขายดี! ธนบุรีนอยสเติน ส่งมอบ GEELY EX2 ครบ 2,000 คันแรก",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2916399",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhaDDb1spxb0QYSdj.jpg"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhaDDb1spxb0QYSdj.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "미얀마 여성, 구급차 안에서 출산… 행운을 빌며 차량 번호 주목",
+      "summary": "- 임신한 미얀마 여성이 구급차 안에서 여자아이를 출산, 산모와 아이 모두 건강.\n- 구조대원들이 차량 번호에서 행운의 숫자를 찾아 공유하며 복권을 기대.\n- 아유타야 구조대는 산모를 병원으로 이송 중 구급차 안에서 출산이 발생, 의료팀이 긴급히 출산을 도움.",
+      "full_translated": "최근 아유타야에서 임신한 미얀마 여성이 진통을 느껴 구급차에 실려 병원으로 이송되던 중 출산했습니다. 구조대원들은 산모와 아이 모두 건강하다는 소식을 전하며, 동시에 차량 번호에서 행운의 숫자를 찾아 공유했습니다. 이들은 해당 숫자가 복권 당첨으로 이어지기를 기대하고 있습니다. 사고는 2069년 2월 25일 저녁에 발생했습니다. 아유타야 구조대는 외국인 노동자 캠프에서 한 여성이 출산이 임박했다는 신고를 받고 즉시 현장으로 출동했습니다. 37세의 NI MAR WIN이라는 미얀마 여성은 이미 진통을 느끼고 있었고, 구조대는 즉시 그녀를 가장 가까운 우타이 병원으로 이송하기 시작했습니다. 그러나 병원으로 향하던 중 통역사가 아이가 이미 태어났다고 외쳤고, 구조대는 즉시 차를 세우고 응급 처치를 실시했습니다. 이후 우타이 병원 의료팀이 도착하여 구급차 안에서 출산을 도왔습니다. 약 20분 만에 건강한 여자아이가 태어났으며, 산모와 아기는 모두 안전하게 병원으로 이송되었습니다. 구조대원인 타나찻 마니르앙은 당시 상황을 설명하며, 건설 노동자 캠프에서 여성이 진통을 겪고 있다는 신고를 받고 즉시 출동했다고 밝혔습니다. 그는 병원으로 향하던 중 아이가 태어났다는 소식을 듣고 즉시 차를 세워 응급 처치를 실시했으며, 의료팀의 도움으로 안전하게 출산을 마칠 수 있었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 현지에서 발생한 출산 관련 소식으로, 여행객에게 직접적인 영향은 없으나, 태국 사회의 한 단면을 보여주는 흥미로운 로컬 뉴스. 복권 관련 문화가 간접적으로 소개.",
+      "event_info": {
+        "date": null,
+        "location": "아유타야",
+        "price": null,
+        "location_google_map_query": "아유타야"
+      },
+      "references": [
+        {
+          "title": "หญิงเมียนมาอั้นไม่ไหว \"คลอดลูกสาว\" บนรถกู้ภัย คอหวยไม่พลาดเลขทะเบียนรถลุ้นโชค",
+          "url": "https://www.thairath.co.th/news/local/central/2916417",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsKCb8pO5crybV.jpg"
+        }
+      ],
+      "collected_at": "08:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsKCb8pO5crybV.jpg",
       "date": "2026-02-26"
     }
   ]
