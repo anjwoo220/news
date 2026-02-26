@@ -39222,14 +39222,9 @@
       "summary": "- 58세 호주 남성이 빠통 해변에서 폭행으로 사망.\n- 경찰은 용의자를 추적 중이며, 관광 이미지에 대한 우려 표명.\n- 피해자는 심각한 머리 부상으로 병원에서 사망.",
       "full_translated": "푸껫에서 호주 관광객이 폭행으로 사망했습니다.\n\n58세의 호주 관광객이 수요일 밤 푸껫의 빠통 해변에서 폭행을 당해 사망했습니다. 경찰은 용의자를 추적하고 있습니다.\n\n신원 확인을 위해 이름이 공개되지 않은 이 호주 남성의 사망은 수요일 밤 11시에 빠통 병원에 입원한 후 경찰에 보고되었습니다. 빠통 경찰서 수사 책임자인 차난 메크차이 경감은 이 남성이 폭행으로 인한 심각한 머리 부상을 입었다고 밝혔습니다.\n\n초기 조사에 따르면 피해자는 수요일 오후 5시경 카투 지역 빠통의 프라찬우크로 로드에서 공격을 받았습니다. 구조대는 그를 빠통 병원으로 이송했고, 추가 치료를 위해 바치라 푸껫 병원으로 이송할 준비를 하고 있었습니다. 그러나 그는 오후 10시 23분에 부상으로 사망했습니다. 의료진은 이후 경찰에 신고했고, 시신은 부검을 위해 바치라 푸껫 병원의 법의학 부서로 옮겨졌습니다.\n\n차난 경감은 수사관들이 증거를 수집하고 주변 지역의 감시 영상을 조사하여 용의자를 최대한 빨리 식별하고 체포하고 있다고 말했습니다. 그는 이번 사건이 심각한 우려 사항이며 섬 지방의 관광 이미지에 영향을 미칠 수 있다고 말했습니다. 경찰은 또한 피해자의 친척에게 알리기 위해 호주 대사관과 협력했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "관광객 대상 범죄 발생. 여행 안전에 직접적인 영향.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "빠통 해변, 푸껫",
-        "price": null,
-        "location_google_map_query": "빠통 해변 푸껫"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '빠통 해변, 푸껫', 'price': None, 'location_google_map_query': '빠통 해변 푸껫'}",
       "references": [
         {
           "title": "Australian tourist dies from beating in Phuket",
@@ -39240,21 +39235,18 @@
       ],
       "collected_at": "13:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205654_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205654/australian-tourist-dies-from-beating-in-phuket",
+      "source": ""
     },
     {
       "title": "차이 ภูมิ 경찰 부국장, 술집에서 여성 폭행 혐의로 논란",
       "summary": "- 차이야품의 한 술집에서 경찰 부국장이 여성의 머리를 병으로 가격한 혐의로 조사를 받고 있습니다.\n- 부국장은 피해 여성이 먼저 시비를 걸었으며, 자신은 폭력을 진압하려 했다고 주장합니다.\n- 경찰은 사건 경위를 조사하고 있으며, 부국장은 필요에 따라 맞고소할 의향이 있다고 밝혔습니다.",
       "full_translated": "차이야품의 한 식당에서 발생한 경찰 부국장의 여성 폭행 사건에 대한 속보입니다. 보도에 따르면, 해당 부국장은 여성이 자신과 아내를 모욕하고 비디오를 촬영하려 하자 폭력을 행사했다고 주장합니다. 그는 자신의 행동이 정당방위였다고 주장하며, 필요하다면 피해 여성을 허위 신고 혐의로 고소할 것이라고 밝혔습니다. 현재 경찰은 사건을 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 지역 치안 관련 사건이므로 중간 점수를 부여합니다. 사건 발생 지역을 여행하는 관광객은 주의가 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "ชัยภูมิ (차이야품)",
-        "price": null,
-        "location_google_map_query": "ชัยภูมิ"
-      },
+      "event_info": "{'date': None, 'location': 'ชัยภูมิ (차이야품)', 'price': None, 'location_google_map_query': 'ชัยภูมิ'}",
       "references": [
         {
           "title": "เปิดใจ รอง ผกก. ใช้ขวดตีหัวสาว อ้างยับยั้งเหตุ ยันไม่ได้หาเรื่องก่อน",
@@ -39265,21 +39257,18 @@
       ],
       "collected_at": "13:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOpLkWYORy6Z1F7.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/crime/2916606",
+      "source": ""
     },
     {
       "title": "태국, 불법 노동자 수송 차량 사고 발생: 20명 부상",
       "summary": "- 불법 노동자를 실은 픽업트럭이 경찰 단속을 피하려다 사고 발생\n- 칸차나부리 지역에서 발생, 약 20명 부상\n- 운전자는 도주, 경찰이 추적 중",
       "full_translated": "불법 노동자 수송 조직의 픽업트럭이 단속을 피하려다 중심을 잃고 전복되어 약 20명이 부상을 입었습니다. 오늘 2월 26일, Pakapol Suchon 경찰 대령, Kritsada Phuangpan 경찰 중령은 불법 노동자 수송을 막기 위해 순찰을 강화하라는 명령을 내렸습니다. 오전 7시, 경찰은 방콕 번호판을 단 미쓰비시 픽업트럭이 수상하게 끈으로 묶여있는 것을 발견하고 검문하려 했습니다. 트럭은 칸차나부리 방향으로 도주했고, 운전자는 칸차나부리 무앙 지역 Wang Dong 구역 9번 빌리지의 Nong Sam Phran 마을에서 차량을 길가로 꺾어 전복시켰습니다. 이후 다른 밴을 타고 도주했습니다. 현장에서 경찰은 많은 남녀 외국인 노동자들이 부상을 입은 것을 발견했습니다. 현재 구조대는 부상자들을 Paholpolpayuhasena 병원으로 이송 중입니다. 부상자는 약 30명이며, 그중 1명은 중상, 16명은 중간 부상, 나머지는 경상입니다. 약 40명이 함께 있었으며, 모두 태국어를 할 수 없습니다. 추가 정보가 있으면 보고하겠습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 불법적인 활동과 관련된 사고 소식은 여행 시 주의를 환기시킬 필요가 있다고 판단.",
-      "event_info": {
-        "date": "2024-02-26",
-        "location": "칸차나부리 무앙 지역 Wang Dong 구역 9번 빌리지의 Nong Sam Phran 마을",
-        "price": null,
-        "location_google_map_query": "Nong Sam Phran Village, Wang Dong, Mueang Kanchanaburi District, Kanchanaburi"
-      },
+      "event_info": "{'date': '2024-02-26', 'location': '칸차나부리 무앙 지역 Wang Dong 구역 9번 빌리지의 Nong Sam Phran 마을', 'price': None, 'location_google_map_query': 'Nong Sam Phran Village, Wang Dong, Mueang Kanchanaburi District, Kanchanaburi'}",
       "references": [
         {
           "title": "กระบะขนแรงงาน ซิ่งหนี ตร. พลิกลงข้างทาง เทกระจาดเจ็บเกือบ 20",
@@ -39290,21 +39279,18 @@
       ],
       "collected_at": "13:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsIBLrgv0eC6Lc.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/local/central/2916479",
+      "source": ""
     },
     {
       "title": "지루트 윗살짓, 전 육상운송국장, 새로운 선거관리위원으로 임명",
       "summary": "- 지루트 윗살짓 전 육상운송국장이 선거관리위원으로 임명됨.\n- 상원 의회에서 압도적인 찬성으로 결정。\n- 그는 레르트위롯 코왓타나와 티티쳇 눗차낫의 후임으로 임명되었다.",
       "full_translated": "지루트 윗살짓 전 육상운송국장의 이력이 공개되었습니다. 상원 회의에서 압도적인 표를 얻어 새로운 선거관리위원으로 임명된 후입니다. 2569년 2월 26일, 상원은 09시 30분에 특별 회의를 열어 긴급 안건으로 공석이 된 두 명의 선거관리위원 임명에 대한 심의를 진행했습니다. 그 결과 지루트 윗살짓 전 육상운송국장과 몬톤 숫쁘라쯧 전 공공사업도시계획국장, 재난예방경감국장이 레르트위롯 코왓타나와 티티쳇 눗차낫의 후임으로 임명되었습니다. 앞서 상원은 선거관리위원으로 제안된 사람들의 이력, 행실, 윤리적 행동을 조사하기 위해 상임위원회를 구성했습니다. 위원회는 임명된 날로부터 60일 이내에 업무를 수행하도록 되어 있었으며, 2569년 2월 21일 토요일에 만료되었습니다. 상임위원회는 관련 정부 부처 및 기관에 이력, 행실 및 행위에 대한 조사를 의뢰하여 19개 기관을 대상으로 조사를 실시했습니다. 또한 헌법재판소 재판관 및 독립기구 직위 보유자의 윤리 기준, 감사원장 및 헌법재판소 및 독립기구 사무총장의 윤리 기준에 따라 과거 및 현재의 상사, 동료, 부하 직원의 윤리적 행동을 조사했습니다. 조사 결과는 상임위원회의 기밀 보고서에 나타납니다... 최근 오늘",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단됨. 선거 관련 정보가 발생할 가능성이 있으므로 낮은 점수를 부여함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ประวัติ “จิรุตม์ วิศาลจิตร” อดีตอธิบดีขนส่งทางบก สว.เห็นชอบนั่ง กกต.คนใหม่",
@@ -39315,21 +39301,18 @@
       ],
       "collected_at": "13:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wx7wrNtz1RQwxCio.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/politic/2915862",
+      "source": ""
     },
     {
       "title": "상원, 선거관리위원으로 지루트 비산짓 (จิรุตม์ วิศาลจิตร: 지룻 위산짓) 단독 승인, 몬톤 (มนต์ทน: 몬톤) 은 부결",
       "summary": "- 상원에서 지루트 비산찟 전 육상교통국장을 선거관리위원으로 승인했습니다.\n- 몬톤 숫쁘라솟 전 공공사업도시계획국장은 부결되었습니다.\n- 이번 결정은 2029년 2월 26일 국회에서 열린 특별 상원 회의에서 이루어졌습니다.",
       "full_translated": "2029년 2월 26일 오전 9시 30분, 국회에서 몽콘 수라사짜 상원 의장의 주재로 특별 상원 회의가 열렸습니다. 회의에서는 퇴임하는 러트위롯 꼬왓타나와 티티쳇 누차낫을 대신할 2명의 선거관리위원(꼬.꼬.따.)으로 지명된 지루트 비산짓 전 육상교통국장과 몬톤 숫쁘라솟 전 공공사업도시계획국장의 선출 안건이 심의되었습니다.\n\n회의에 앞서 피숫 삽위짓 상원 의원이 취임 선서를 했습니다. 이어 위원회의 심사 결과를 바탕으로 지루트와 몬톤을 선거관리위원으로 선출할지 여부에 대한 표결이 진행되었습니다.\n\n하지만 테와릿 마니차이 상원 의원은 다수의 상원 의원들이 상원 구성 과정의 위법 행위로 기소된 상황에서 선거관리위원 선출을 연기해야 한다는 동의안이 상정되지 않은 이유에 대해 질문했습니다. 몽콘 의장은 이는 직무 유기로 이어질 수 있기 때문에 동의안을 상정하지 않았다고 설명했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "선거관리위원 임명 관련 뉴스로, 여행객에게 직접적인 영향은 없다고 판단됨. 정치적 상황에 대한 간접 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เซอร์ไพรส์ สว. เห็นชอบ กกต. แค่ “จิรุตม์ วิศาลจิตร” คนเดียว ไม่เห็นชอบ “มณฑล”",
@@ -39340,6 +39323,108 @@
       ],
       "collected_at": "13:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOpLkuMGHPNaWoA.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/politic/2916602",
+      "source": ""
+    },
+    {
+      "title": "태국 정부, '콘 라 크릉 플러스' 2단계 시행 준비: 2,000 바트 지원금 지급 예정",
+      "summary": "- 태국 정부가 경기 부양책인 '콘 라 크릉 플러스' 2단계 시행을 준비 중입니다.\n- 이번 2단계에서는 1인당 2,000 바트의 지원금이 지급될 예정입니다.\n- 지원금은 '빠오 땅' 앱을 통해 등록 후 사용할 수 있으며, 세금 시스템 외부 및 홍수 피해 지역 거주자에게 우선적으로 지급될 가능성이 있습니다.",
+      "full_translated": "태국 정부는 총선 이후 '콘 라 크릉 플러스' 2단계 시행을 준비하고 있습니다. 에카니티 니티탄트라파 부총리 겸 재무장관은 단기 경기 부양책인 '콘 라 크릉 플러스'를 즉시 시행할 수 있도록 시스템을 준비해야 한다고 밝혔습니다. 이번 2단계에서는 세금 시스템 외부의 사람들에게는 2,000바트, 시스템 내부의 사람들에게는 2,400바트가 지급될 예정이며, 첫 번째 라운드에서 누락된 그룹에게 먼저 지급될지 여부도 고려 중입니다. 이 프로젝트는 총 1,000만 명에게 1인당 2,000바트의 지원금을 제공하며, 지원금은 오전 6시부터 오후 11시 사이에 '빠오 땅' 앱의 G-Wallet을 통해 프로젝트에 참여하는 상점에서 사용할 수 있습니다. 자격 조건은 다음과 같습니다.\n\n1. 태국 국적 소지자\n2. 등록일 현재 16세 이상\n3. 유효한 신분증 소지자\n4. 국가 복지 카드 소지자가 아닐 것",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "정부 지원금 정책은 여행객의 소비 활동에 간접적으로 영향을 미칠 수 있으며, 특히 장기 체류 여행객에게 유용할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "2000 바트",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ตรวจสอบเงื่อนไขล่าสุด \"คนละครึ่งพลัส เฟส 2\" เตรียมลงทะเบียนรับสิทธิ 2,000 บาท",
+          "url": "https://www.thairath.co.th/news/society/2916584",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrJWaP2ljdByaf.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrJWaP2ljdByaf.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "총리, 육군 참모총장을 불러 국경 준비 태세 논의: 장비는 임시 정부라도 완벽해야 한다고 강조",
+      "summary": "- 총리가 육군 참모총장을 만나 국경 지역 준비 태세에 대한 논의를 진행했습니다.\n- 만일의 사태에 대비한 예산 준비와 장비의 완벽한 가동 상태 유지를 강조했습니다.\n- 현재 국경 지역 상황은 우려할 만한 수준은 아니지만, 만약의 사태에 대비하고 있습니다.",
+      "full_translated": "아누틴 찬위라꾼 총리는 육군 참모총장 차이프륵 두앙프라팟을 만나 국경 지역의 상황과 준비 태세에 대해 논의했습니다. 총리는 모든 국경 지역의 상황을 점검하고, 특히 캄보디아 국경에만 집중하지 않았습니다. 현재 우려할 만한 지역은 없지만, 비상 상황에 대비하기 위해 예산을 확보하고 필요한 장비를 즉시 사용할 수 있도록 준비할 것을 지시했습니다. 또한, 국방부 장관직 겸임에 대한 질문에는 답변을 회피했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "국경 지역 긴장 고조 가능성. 여행객에게 직접적인 영향은 적으나, 상황 주시 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"อนุทิน\" เรียก เสธ.ทบ. ถกความพร้อมชายแดน ย้ำยุทโธปกรณ์ต้องปึ้กแม้เป็นรัฐบาลรักษาการ",
+          "url": "https://www.thairath.co.th/news/politic/2916609",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOpLj8sDPov54ac.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOpLj8sDPov54ac.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "탁신, 석방 후 정계 은퇴 가능성…딸 파통탄, '정치 그만둬야' 발언",
+      "summary": "- 탁신 친나왓 전 총리의 딸 파통탄이 아버지의 석방 후 정계 은퇴 가능성을 언급함.\n- 파통탄은 탁신이 이미 6개월간 수감되었으며, 석방 후에는 정치를 그만두는 것이 당연하다고 밝힘.\n- 탁신은 2006년 이전 총리 재임 시절 권한 남용 및 이해 상충 혐의로 징역 1년형을 선고받고 복역 중이며, 2026년 5월 가석방 대상임.",
+      "full_translated": "탁신 친나왓 전 총리가 석방되면 정계를 은퇴할 것으로 예상된다고 그의 딸 파통탄이 목요일 밝혔다. 파통탄은 짝투짝 지역의 끌롱프렘 중앙 교도소를 나오면서 기자들이 올해 말 가석방될 예정인 아버지가 정계를 은퇴할 것인지 묻자 이같이 답했다.\n\n파통탄은 \"아버지는 6개월 동안 수감되어 있었다. 아버지는 정계를 은퇴해야 한다. 아버지가 정계를 은퇴하지 않을 가능성은 낮다\"고 말했다. 교정국은 이번 주 탁신이 7월 26일에 77세가 되며, 5월에는 1년 형기의 3분의 2를 복역했기 때문에 가석방 대상이 될 것이라고 밝혔다.\n\n탁신은 2006년 이전 총리 재임 시절 권한 남용 및 이해 상충 혐의로 대법원이 1년 형을 선고받은 이후 지난해 9월 9일부터 수감 생활을 하고 있다. 법원은 2023~24년 탁신의 경찰 종합 병원에서의 장기 체류를 수감 기간으로 인정하지 않았다. 탁신은 15년 이상의 해외 자진 망명 생활을 마치고 2023년 8월 22일 태국으로 돌아왔다. 프아타이당의 억만장자 가부장은 즉시 징역 8년형을 선고받았지만, 이후 왕실의 특별 사면으로 1년으로 감형되었다. 그는 방콕 구치소로 이송되었지만, 입소한 지 불과 13시간 만에 경찰 종합 병원으로 옮겨졌다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Daughter expects Thaksin to quit politics",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205690/daughter-expects-thaksin-to-quit-politics",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205690_700.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205690_700.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 상원, 신임 선거관리위원으로 지루트 임명",
+      "summary": "- 태국 상원에서 지루트 위살จิต을 신임 선거관리위원으로 선출함.\n- 몬톤 숫쁘라쎗은 단 9표를 얻어 임명에 실패함.\n- 지루트는 교통부 출신으로 삭시얌 칫촙 전 교통부 장관과 긴밀한 관계를 가지고 있음.",
+      "full_translated": "태국 상원이 지루트 위살จิต을 신임 선거관리위원으로 선출했습니다. 2029년 2월 26일 상원 회의에서 선거관리위원 임명에 대한 투표가 진행되었으며, 지루트 위살จิต이 144표를 얻어 선출되었습니다. 반면 몬톤 숫쁘라쎗은 단 9표를 얻는 데 그쳤습니다. 지루트 위살จิต은 교통부에서 경력을 쌓아 육운국장과 교통부 차관을 역임했으며, 태국 철도청 이사회 의장도 맡았습니다. 그는 삭시얌 칫ชอบ 전 교통부 장관의 측근으로 알려져 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 선거 관리 위원 임명은 태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "วุฒิสภาเคาะ “จิรุตม์” นั่ง กกต. ใหม่ - “มณฑล” วืดเก้าอี้ ได้แค่ 9 เสียง",
+          "url": "https://www.thairath.co.th/news/politic/2916614",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOpLeppGIvdbAVD.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOpLeppGIvdbAVD.jpg",
       "date": "2026-02-26"
     }
   ]
