@@ -40454,14 +40454,9 @@
       "summary": "- 코팡안 섬에서 러시아 남성이 '라부부'라는 이름의 변종 엑스터시 소지 혐의로 체포됨.\n- 해당 마약은 MDMA, 케타민, 코카인, 카페인을 혼합하여 매우 강력하며, 과다 복용 시 사망 위험이 있음.\n- 경찰은 용의자를 상대로 불법 마약 소지 혐의로 기소함.",
       "full_translated": "코팡안 – 2026년 2월 26일, 태국 관광 경찰은 인기 있는 아트 토이를 모방하도록 고안된 새로운 '칵테일' 형태의 엑스터시를 소지한 혐의로 러시아 남성을 체포하여 강력한 혼합물이 치명적일 수 있다고 경고했습니다. 관광 경찰 5지구의 위닛 분칫 중령은 경찰이 수랏타니 지방의 주거 지역에서 용의자가 과속으로 운전하는 것을 목격한 후 2월 25일 약 21:00에 코팡안의 임대 주택을 급습했다고 말했습니다. 남성은 여권에 의해 러시아 국적의 33세 에브게니로 확인되었습니다. 경찰은 처음에는 경고를 보냈지만, 그가 횡설수설하고 땀을 흘리고 몸을 떠는 등의 신체적 증상을 보이는 등 눈에 띄게 흥분한 것처럼 보였다고 말했습니다. 그는 나중에 집 안에 불법 물질이 있다고 인정했습니다. 수색 결과 욕실 앞 탁자 위에 1.63그램의 흰색 케타민 가루, 1.18그램의 파란색 엑스터시 가루와 케타민 혼합물, 갈색 MDMA 결정체 한 봉지, 삼각형 해골 모양으로 압착된 엑스터시 정제 3개, 그리고 사용자들 사이에서 속어로 '사탕'으로 불리는 '라부부' 디자인이 발견되었습니다. 경찰은 '사탕' 스타일의 알약에는 MDMA, 케타민, 코카인, 카페인의 혼합물이 함유되어 있다고 경고했습니다. 고농도와 결합된 효과로 인해 약물이 평소보다 훨씬 강력해져 충격과 급사의 위험을 초래합니다. 심문 과정에서 용의자는 모든 혐의를 자백하고 이틀 전 엑스터시를 복용한 사실을 인정했다고 경찰은 밝혔습니다. 그는 불법 소지 혐의로 기소되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 직접적인 위협이 되는 마약 관련 범죄 소식으로, 특히 코팡안 섬을 방문하는 여행객들에게 주의를 요함. 새로운 유형의 마약에 대한 정보이므로 업데이트 가치가 높음.",
-      "event_info": {
-        "date": null,
-        "location": "코팡안 섬",
-        "price": null,
-        "location_google_map_query": "Koh Phangan"
-      },
+      "event_info": "{'date': None, 'location': '코팡안 섬', 'price': None, 'location_google_map_query': 'Koh Phangan'}",
       "references": [
         {
           "title": "Russian Arrested Over Deadly ‘Labubu’ Drug Mix",
@@ -40470,23 +40465,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Russian-Arrested-Over-Deadly-‘Labubu-Drug-Mix.jpg"
         }
       ],
-      "collected_at": "02:38",
+      "collected_at": "2:38",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Russian-Arrested-Over-Deadly-‘Labubu-Drug-Mix.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.khaosodenglish.com/news/2026/02/26/russian-arrested-over-deadly-labubu-drug-mix/",
+      "source": ""
     },
     {
       "title": "파타야, 미성년자 성매매 단속: 인신매매 단속반, 유흥업소 급습",
       "summary": "- 태국 인신매매 단속반이 파타야에서 미성년자 성매매 혐의로 유흥업소 2곳 급습.\n- 한 업소에서 18세 미만 미성년자 2명 발견, 추가 조사 진행.\n- 경찰은 공공의 제보를 받아 단속을 실시했으며, 관련자들을 조사 중.",
       "full_translated": "태국 인신매매 단속반이 파타야 시 경찰 및 지방 행정 공무원과 함께 2026년 2월 26일 저녁, 미성년자 성 학대 착취 혐의에 대한 불만 접수 후 파타야 중심 지역의 맥주 바 2곳을 급습했습니다. 이번 작전은 오후 8시 6분경에 폴. Lt. Col. Kiatkongsak Thongkham, 인신매매 단속 부대 2분과 부사령관, Pol. Col. Anek Sathongyu, 파타야 경찰서장, Pol. Lt. Col. Siriwat Khatchamat, 파타야 경찰서 부사령관 (범죄 진압), 그리고 방라뭉 지역 행정관인 Mr. Phichan Non Thawisuk이 이끌었습니다. 인신매매 단속 사령부, 파타야 시 경찰서, 방라뭉 지역 행정 공무원으로 구성된 합동 팀은 공공 제보를 받은 후 아동 성 학대 착취를 조장하는 것으로 의심되는 맥주 바를 표적으로 삼았습니다. 처음 검사한 시설은 사우스 파타야의 Soi Chaiyaphoon에 위치했습니다. 경찰은 해당 구역에서 수색 영장 및 체포 영장을 집행했습니다. 검사 결과, 18세 미만의 개인은 해당 장소에서 일하는 것을 발견하지 못했고 해당 장소는 합법적으로 운영되는 것으로 보입니다. 그러나 당국은 팁과 관련된 증거를 수집하고 추가 인터뷰를 위해 체포 영장에 이름이 지정된 개인을 구금했습니다. 두 번째 목표는...",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 미성년자 성매매 관련 단속이 발생했다는 소식은 여행객의 안전과 관련된 중요한 정보이므로 포함. 파타야를 방문하는 여행객들에게 주의를 환기하고, 해당 지역의 치안 상황을 인지하도록 돕는다.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thai Human Trafficking Suppression Division Raids Two Bars in Pattaya, Finds Two Minors at One Location",
@@ -40495,23 +40487,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260227_020413.jpg?v=1772132747"
         }
       ],
-      "collected_at": "02:38",
+      "collected_at": "2:38",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260227_020413.jpg?v=1772132747",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/27/thai-human-trafficking-suppression-division-raids-two-bars-in-pattaya-finds-two-minors-at-one-location/",
+      "source": ""
     },
     {
       "title": "치앙마이에서 한국인, 방화 및 트럭 절도 혐의로 체포",
       "summary": "- 태국 북부 치앙마이에서 한국인 남성이 방화 및 차량 절도 혐의로 체포됨.\n- 용의자는 쓰레기에 불을 지르고 픽업 트럭을 훔쳐 운전한 혐의를 받음.\n- 경찰은 용의자가 정신 질환 병력이 있으며 한국 영사관과 협력 중이라고 밝힘.",
       "full_translated": "치앙마이 – 2026년 2월 26일, 한 한국인 남성이 태국 북부의 한 마을에서 난동을 부려 쓰레기에 불을 지르고 픽업 트럭을 훔친 혐의로 경찰에 체포되었다고 현지 관리들이 밝혔다. 찬티라 타통은 반매카우 4번 마을 촌장으로, 이번 사건은 2026년 2월 25일 오전 7시경에 발생했다고 밝혔다. 마을 주민들은 40대로 추정되는 한국인 남성이 전날 밤 지역 사회에서 소란을 피웠다고 보고했다. 그는 나중에 돌아와 마을을 배회하다가 빈 땅에 쓰레기를 태워 짙은 연기를 일으키는 모습이 목격되었다. 그 남성은 또한 Prasert Diesel 가게 소유의 검은색 4도어 닛산 픽업 트럭을 훔쳐 그 지역을 운전한 혐의를 받고 있다. 현지 행정 관리들은 경찰과 협력하여 그 남성을 체포하고 차량 소유주의 불만을 기록했다. 그는 절도 및 사유 재산 손괴 혐의로 기소될 예정이다. 관리들은 그 남성이 신분증을 소지하지 않았고 태국어를 할 수 없었다고 말했다. 영어로 질문했을 때 그는 횡설수설했고 정신 불안정 증세를 보였다. 당국은 한국 영사관에 연락하여 그 남성이 정신 질환 병력이 있음을 확인했다. 한국에 있는 친척들이 그를 찾고 있었다고 한다. 영사관은 그의 가족과 협력하여 태국으로 왔다. 경찰은 그 남성을 병원에 입원시켰다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 한국인 범죄 발생 소식으로, 여행 시 주의를 요할 수 있어 중간 점수 부여. 사건이 치앙마이에서 발생하여 방콕 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2026-02-25",
-        "location": "치앙마이, 반매카우 4번 마을",
-        "price": null,
-        "location_google_map_query": "Ban Mae Kaw, Chiang Mai"
-      },
+      "event_info": "{'date': '2026-02-25', 'location': '치앙마이, 반매카우 4번 마을', 'price': None, 'location_google_map_query': 'Ban Mae Kaw, Chiang Mai'}",
       "references": [
         {
           "title": "Korean man arrested over fire and truck theft",
@@ -40520,23 +40509,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Korean-man-arrested-over-fire-and-truck-theft.jpg"
         }
       ],
-      "collected_at": "02:38",
+      "collected_at": "2:38",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Korean-man-arrested-over-fire-and-truck-theft.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.khaosodenglish.com/news/2026/02/26/korean-man-arrested-over-fire-and-truck-theft/",
+      "source": ""
     },
     {
       "title": "태국, 외국인에게 불친절하고 비싸지는 여행지인가?",
       "summary": "- 최근 태국이 외국인 관광객에게 비싸고 불친절하다는 불만이 제기됨.\n- 높은 임금의 국가(한국 포함) 출신이라면 불평하기 어려울 수 있다는 의견 제시.\n- 관광청은 택시 사기 등 부당 행위를 단속하여 경쟁력을 높여야 한다는 주장.",
       "full_translated": "최근 몇 주 동안 태국 현지 뉴스 헤드라인은 일부 외국인 관광객들의 불만으로 가득 차 있습니다. 그들은 태국이 너무 비싸지고 있으며, 일부 태국인들이 방문객에게 불친절하거나 심지어 무례하게 대한다고 주장합니다. 독자 여러분, 태국이 무례한 사회가 되어가고 있으며 외국인 방문객에게 너무 비싸다고 생각하십니까? 저는 여기서 합의를 기대하지 않지만, 이러한 주제는 주관적이고 상대적이라는 점을 지적하고 싶습니다. 북유럽, 미국, 일본, 싱가포르, 심지어 한국과 같이 평균 임금이 태국의 몇 배나 높은 부유한 국가에서 왔다면 불평해서는 안 된다고 생각합니다. 그렇습니다. 호치민시나 카트만두가 방콕보다 다소 저렴할 수 있지만, 각 목적지는 고유한 매력과 호소력을 가지고 있습니다. 더욱이, 마지막 1달러, 유로 또는 한국 원까지 최소화하는 것이 주된 목표라면 왜 여행을 가고 싶은지 물어볼 가치가 있을 것입니다. 이것은 태국이 지역 경쟁국과의 가격 비교에 면역되어 있다는 의미는 아닙니다. 하지만 제 요점은 일반 근로 계층 태국인의 삶이 충분히 힘들다는 것입니다. 우리는 임금이 더 낮아지기를 기대할 수 없습니다. 많은 사람들이 이미 불완전 고용 상태이거나 기본적인 생활을 보장하는 진정한 생활 임금을 벌지 못하고 있습니다. 물론 태국 관광청(TAT)은 택시 사기 및 운전자가 요금을 사용하지 않으려는 등의 기타 사기 행위를 단속함으로써 국가를 더욱 매력적이고 경쟁력 있게 만들 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행에 대한 전반적인 인식 변화 가능성을 시사. 가격 및 서비스에 대한 불만은 여행 만족도에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Is Thailand becoming rude and expensive for foreign visitors?",
@@ -40545,23 +40531,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Is-Thailand-becoming-rude-and-expensive-for-foreign-visitors.jpg"
         }
       ],
-      "collected_at": "02:38",
+      "collected_at": "2:38",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Is-Thailand-becoming-rude-and-expensive-for-foreign-visitors.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.khaosodenglish.com/featured/2026/02/26/is-thailand-becoming-rude-and-expensive-for-foreign-visitors/",
+      "source": ""
     },
     {
       "title": "캄팽펫, 비례대표 재검표: 2개 투표소에서 표 손실, 무효표 2장, 기권표 1장 발생",
       "summary": "- 캄팽펫 선거관리위원회에서 비례대표 선거 재검표 진행.\n- 2개 투표소에서 투표수와 실제 투표용지 수 불일치 확인.\n- 사라진 표는 무효표 2장, 기권표 1장으로 밝혀짐.",
       "full_translated": "캄팽펫에서 비례대표 국회의원 투표를 다시 집계합니다. 2개 투표소의 투표 용지 수는 2월 8일 선거일과 일치합니다. 사라진 표는 무효표 2장과 기권표 1장입니다. 2월 26일 오후 2시, 캄팽펫 주 선거관리위원회 사무실에서 비례대표 국회의원 선거 투표를 다시 집계하는 분위기는 엄격한 보안 속에 순조롭게 진행되었습니다. 캄팽펫 주 선거관리위원회(꼬꼬따)는 암프어 므앙 지역의 2개 투표소, 즉 텝나콘 구역의 14번 투표소와 니콤퉁포탈레 구역의 8번 투표소에서 새로운 비례대표 선거 투표를 실시하도록 주선했기 때문입니다. 투표 장소 내에서 선거관리위원회 직원과 관련 직원은 구역을 명확하게 나누어 장소를 준비했습니다. 철제 장벽과 구역 표시 테이프를 설치하여 질서를 유지하고 경찰과 행정관이 주변 지역의 평화를 면밀히 감시합니다. 담당 직원이 투표 용지를 부르고 참관인과 관심 있는 대중에게 공개적으로 투표 용지를 들어 보이는 동안 ... 초기 관찰 및 보고에 따르면 투표 과정에서 문제나 장애물이 발견되지 않았습니다. 담당 직원은 법률에 규정된 모든 절차를 완료할 수 있었습니다. 일부 시민들은 울타리 밖 지역에서 투표 집계를 면밀히 따르기 위해 여행을 왔습니다. 오후 3시에 투표를 시작한 후 2개 투표소 모두 투표를 완료하는 데 약 1시간이 걸렸습니다. 투표할 자격이 있는 사람의 수는 부족하거나 초과 없이 원본과 일치하는 것으로 나타났습니다. 투표 용지에는 유효표, 무효표, 투표하지 않은 표가 모두 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "단순 재검표 관련 소식으로 여행객에게 직접적인 영향은 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กำแพงเพชร นับใหม่ปาร์ตี้ลิสต์ 2 หน่วย คะแนนหายเป็นบัตรเสีย 2 ใบ ไม่ประสงค์ลงคะแนน 1 ใบ",
@@ -40570,8 +40553,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDumfoWN0qKBN.jpg"
         }
       ],
-      "collected_at": "02:38",
+      "collected_at": "2:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDumfoWN0qKBN.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/politic/2916739",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 무장 강도, 영국인 거주자 집 침입 및 2백만 바트 현금 강탈",
+      "summary": "- 파타야의 한 주택에서 무장 괴한들이 2백만 바트가 든 금고를 훔쳐 달아났습니다.\n- 피해자는 외국인 남성과 태국인 여자친구, 그리고 친구입니다.\n- 경찰은 용의자들을 추적 중입니다.",
+      "full_translated": "파타야에서 무장 괴한들이 영국인 거주자의 집에 침입하여 거주자들을 제압하고 2백만 바트의 현금이 들어 있는 금고를 훔쳐 달아나는 사건이 발생했습니다. 현재 용의자들을 추적 중입니다.\n\n사건은 초크차이 빌리지 9의 2층 타운하우스에서 밤 11시 6분경에 발생했습니다. 농프루 경찰서 부서장인 찬차이 송완삭스리 경찰 중령은 신고를 받고 즉시 농프루 경찰서장인 나타폰 퐁 숙 사쿤 경찰 대령에게 알렸습니다. 수사팀과 관광 경찰이 현장으로 급파되었습니다.\n\n피해자인 웨슬리 씨는 32세의 영국 국적자로 해외에서 요리사로 일하고 있으며, 34세의 태국인 여자친구 찬디 씨(성은 공개되지 않음)와 영국인 친구와 함께 집에 있었습니다. 그들의 진술에 따르면, 집 안에서 휴식을 취하고 있던 중 복면을 쓴 3명의 용의자가 칼로 무장한 채 들이닥쳤습니다. 강도들은 영국인 남성의 목에 칼을 대고 돈이 어디에 있는지 물었습니다. 그들은 피해자들과 친구를 부엌으로 몰아넣고 아이폰 2대(아이폰 16과 아이폰 14)를 낚아채고 제압했습니다. 찬디 씨가 도망치려 하자 끌려 돌아왔습니다. 그런 다음 강도들은 위층으로 올라가 2백만 바트 이상의 현금이 들어 있는 금고를 찾아 들고 나갔습니다. 이 돈은 부부가 집을 사기 위해 인출한 자금이었습니다. 용의자들은 침착하게 집을 빠져나가 밖에 주차된 검은색 픽업트럭을 타고 마을을 빠져나갔습니다. 탈출 과정에서 경비 초소의 보안 장벽을 들이받은 것으로 알려졌습니다. 피해자들은 충격과 공포에 휩싸였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 위협을 가하는 범죄 사건으로, 파타야를 방문하는 여행객들에게 주의를 환기시킬 필요가 있음. 특히 야간에 발생한 사건이므로 안전에 대한 경각심을 높여야 함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야, 초크차이 빌리지 9",
+        "price": null,
+        "location_google_map_query": "Chokchai Village 9, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Armed Hooded Gang Robs British Expat’s Home in Pattaya, Restrains Residents, Steals Safe Containing 2 Million Baht in Cash, Manhunt Underway for Suspects",
+          "url": "https://thepattayanews.com/2026/02/27/armed-hooded-gang-burglarizes-british-expats-home-in-pattaya-steals-safe-containing-2-million-baht-in-cash-manhunt-underway-for-suspects/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772135877766.jpg?v=1772135939"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772135877766.jpg?v=1772135939",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "촌부리 스리라차, 꽃 판매상 사망: Sukhumvit 도로 다중 차량 충돌 사고",
+      "summary": "- 스리라차 Sukhumvit 도로에서 다중 차량 충돌 사고 발생, 꽃 판매상 사망\n- MG 세단이 오토바이 후미를 들이받아 발생, 뒤따르던 트럭이 오토바이와 운전자를 덮침\n- 55세 남성 꽃 판매상이 현장에서 사망, 경찰이 사고 경위 조사 중",
+      "full_translated": "촌부리 스리라차의 Sukhumvit 도로에서 발생한 다중 차량 충돌 사고로 꽃 판매상이 사망했습니다. 차량 블랙박스 영상에는 회색 MG 세단이 고가도로에서 내려오다 검은색 야마하 오토바이 후미를 들이받는 장면이 담겼습니다. 오토바이는 꽃 장식('pumphuang')과 건설 현장에서 판매할 채소를 가득 싣고 있었으며, 충돌로 인해 전복되었습니다. 잠시 후 뒤따르던 트레일러 트럭이 전복된 오토바이와 운전자를 덮쳐 치명적인 부상을 입혔습니다. 사고는 오늘 오전 8시 45분경 Thung Sukhla 지역의 한 대학교 앞에서 발생했습니다. Sawang Prateep Sri Racha 구조대의 긴급 구조 요원들이 Laem Chabang 경찰서 경찰, 구조 자원 봉사자, Laem Chabang 병원 의료진과 함께 현장에 도착했습니다. 현장에서 경찰은 야마하 오토바이가 3차선에 놓여 있는 것을 발견했으며, 채소와 화환이 흩어져 있었습니다. 오토바이 운전자인 Son Dokpikul(55세)은 심한 찰과상과 다리 골절로 인해 의식을 잃은 채 근처에 쓰러져 있었습니다. 구조대원들이 즉시 심폐소생술을 시도했으나, 부상의 정도가 심해 곧 사망 판정을 받았습니다. MG 세단은 후방 충돌로 인한 명확한 손상 징후를 보였으며, 사이드 미러가 깨지고 보닛에 채소 잔해가 묻어 있었습니다. 운전자인 Nilubon Watthanaphan(55세)은 충격을 받은 채 현장에 남아 당국에 협조했습니다. 경찰 조사에서 Nilubon은 Banglamung 지역으로 출근하던 중이었다고 진술했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행자가 많이 이용하는 Sukhumvit 도로에서 발생한 교통사고 소식. 안전에 유의해야 함.",
+      "event_info": {
+        "date": "2024-02-27",
+        "location": "스리라차, Sukhumvit 도로",
+        "price": null,
+        "location_google_map_query": "Sukhumvit Road Sri Racha"
+      },
+      "references": [
+        {
+          "title": "Dashcam Captures Tragic Multi-Vehicle Collision on Sukhumvit Road in Sri Racha, Claiming Life of Flower Vendor",
+          "url": "https://thepattayanews.com/2026/02/26/dashcam-captures-tragic-multi-vehicle-collision-on-sukhumvit-road-in-sri-racha-claiming-life-of-flower-vendor/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721241644102276328832735029768.jpg?v=1772124224"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721241644102276328832735029768.jpg?v=1772124224",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "시라차 지역, 학교 사고로 부상당한 14세 학생 방문, 관련 콜센터 사기 사건에서 경찰 자금 세탁 운반책 체포",
+      "summary": "- 시라차 지역의 한 학교에서 14세 학생이 건물에서 떨어져 부상을 입음.\n- 지역 관계자들이 병원을 방문하여 격려와 함께 재정 지원을 제공함.\n- 경찰은 이 사건이 콜센터 사기와 관련되어 있음을 의심하고 수사 중이며, 자금 세탁에 사용된 계좌의 소유자를 체포함.",
+      "full_translated": "시라차 지역의 농캄 구역에 있는 한 학교의 14세 배구 선수인 '미스 A'(가명)가 건물에서 떨어져 부상을 입었습니다. 현재 병원에서 치료를 받고 있습니다. 대표단은 시라차 지역 사회 개발 기금(PCho)과 지역 적십자사 지부의 재정 지원, 구호품과 함께 어린 소녀에게 격려의 말을 전했습니다. 솜뎃 프라 보롬 라차테위 나 시 라차 병원의 소미옷 뢰트진다퐁 부원장이 방문객을 맞이했습니다.최신 의료 업데이트에 따르면 미스 A는 경미한 뇌출혈과 신체의 다양한 부위에 상처가 있지만 생명에는 지장이 없는 안정적인 상태입니다. 정상적인 의사 소통이 가능하고 정신 건강이 양호하며 스트레스나 불안 징후를 보이지 않습니다. 그녀는 앞으로 2주 동안 더 입원할 것으로 예상됩니다. 시라차 공중 보건소는 2026년 3월 2일 월요일에 가정 방문을 실시하여 가족이 집에서 지속적인 회복을 할 수 있도록 준비할 계획입니다. 이 사건은 10대 소녀를 표적으로 삼은 콜센터 사기와 관련이 있는 것으로 의심되어 주목을 받고 있습니다. 제2 지방 경찰청의 경찰 수사관은 이 사건에서 진전을 보였습니다. 당국은 사기에 사용된 '자금 세탁' 은행 계좌의 소유자를 성공적으로 추적하여 체포했습니다. 용의자는 학교가 있는 관할 구역인 농캄 경찰서로 이송되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 콜센터 사기 연루 가능성이 있으므로 주의가 필요.",
+      "event_info": {
+        "date": null,
+        "location": "시라차, 농캄",
+        "price": null,
+        "location_google_map_query": "Nong Kham, Sriracha, Thailand"
+      },
+      "references": [
+        {
+          "title": "Sriracha District Chief Visits 14-Year-Old Student Injured in School Fall, Police Arrest Money Mule in Related Call Center Scam Case",
+          "url": "https://thepattayanews.com/2026/02/26/sriracha-district-chief-visits-14-year-old-student-injured-in-school-fall-police-arrest-money-mule-in-related-call-center-scam-case/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721232839407810236204585087598.jpg?v=1772123437"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721232839407810236204585087598.jpg?v=1772123437",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "아프가니스탄, 파키스탄 군 기지 공격… \"다수의 사상자 발생\"",
+      "summary": "- 아프가니스탄이 파키스탄의 공습에 대한 보복으로 군사 작전을 개시했습니다.\n- 탈레반은 파키스탄 군 기지를 공격하여 다수의 사상자가 발생했다고 주장했습니다.\n- 파키스탄 정부는 아프가니스탄의 공격을 '도발 없는 총격'으로 규정하며 강력히 대응할 것이라고 밝혔습니다.",
+      "full_translated": "아프가니스탄이 국경 지역에서 파키스탄 군 기지를 공격하는 군사 작전을 개시했습니다. 이는 며칠 전 파키스탄의 공습에 대한 보복으로 이루어졌습니다. 외신에 따르면 탈레반 정부 관계자는 아프가니스탄이 파키스탄 군의 공격에 대응하기 위해 국경 지역에서 파키스탄 군 기지에 대한 '대규모' 군사 작전을 개시했다고 밝혔습니다.\n\n탈레반 대변인 자비훌라 무자히드는 X 앱을 통해 '파키스탄 군의 반복적인 국경 침범과 불안정 조성 행위에 대응하기 위해 파키스탄 군의 사령부와 군사 시설에 대한 선제적 대규모 작전이 개시되었다'고 밝혔습니다. 무자히드는 이번 작전으로 '많은' 파키스탄 군인이 사망하고 일부는 생포되었다고 덧붙였습니다. 국경 지역 공격은 목요일 20시경에 시작되었으며, 탈레반 군은 15개의 군사 기지를 점령할 수 있었습니다.\n\n파키스탄 정부는 탈레반이 오판하여 북서부 카이베르파크툰콰 지역의 국경을 따라 여러 지역에서 도발 없이 총격을 가했다고 밝혔습니다. 파키스탄 정보부에서 X를 통해 공유한 성명에 따르면 '초기 보고서에서는 아프가니스탄 측에 막대한 피해가 발생했으며, 여러 기지와 장비가 파괴되었다'고 밝혔습니다. '파키스탄은 자국 영토의 완전성과 국민의 안전 및 안보를 유지하기 위해 필요한 모든 조치를 취할 것입니다.'\n\n아프가니스탄의 군사 작전은 파키스탄 정부가 이번 주 초 아프가니스탄을 공습한 이후에 발생했습니다. 탈레반은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 인접 국가의 분쟁 상황은 인지할 필요가 있음. 정치적 불안정으로 인해 국경 지역 여행에 잠재적 위험이 있을 수 있다는 점을 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อัฟกานิสถานเอาคืน โจมตีกองทัพปากีสถาน อ้างทหารดับอื้อ",
+          "url": "https://www.thairath.co.th/news/foreign/2916744",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFBZ8skPnNfxE.jpg"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFBZ8skPnNfxE.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "파타야, Father Ray 재단 자선 볼링 이벤트 개최",
+      "summary": "- Father Ray 재단, 불우 아동 및 장애인 지원을 위한 자선 볼링 대회 개최.\n- 2026년 3월 1일 오전 11시부터 오후 3시까지 SF Strike Bowl Pattaya에서 진행.\n- 참가자들은 볼링을 즐기며 재단의 미션에 동참 가능.",
+      "full_translated": "Father Ray 재단은 이번 주말 연례 자선 볼링 이벤트를 개최합니다!\n\n이 행사는 2026년 3월 1일 일요일 오전 11시부터 오후 3시까지 도시의 인기 볼링장인 SF Strike Bowl Pattaya에서 열릴 예정입니다. 이 자선 볼링 대회는 참가자들을 초대하여 재미있는 볼링을 즐기면서 재단의 불우한 어린이, 고아 및 장애인에 대한 보살핌, 교육 및 기회 제공 미션을 지원합니다. 이 행사는 휠체어를 탄 어린이들과 지지자들이 함께 활동을 즐기는 과거 에디션의 사진들과 함께 포용성을 장려합니다. 고 레이몬드 브레넌 신부(일반적으로 Father Ray로 알려짐)에 의해 1974년에 설립된 Father Ray 재단은 파타야에 기반을 둔 잘 알려진 태국 자선 단체입니다. 이 재단은 약 850명의 소외된 어린이와 장애 학생들을 돌보고 교육합니다. 주요 프로그램으로는 고아 및 버려진 어린이를 위한 가족과 같은 환경을 제공하는 Father Ray Children’s Village, 특수 아동 학교, 장애인 기술 대학, 데이 케어 센터 및 직업 훈련 이니셔티브가 있습니다. 이 조직은 농업과 같은 프로젝트를 통해 자립에 중점을 두고 있으며 궁핍한 어린이를 결코 외면하지 않습니다. Father Ray는 2003년에 사망했지만 그의 유산은 기부금, 자원 봉사자 및 지역 사회 행사의 지원을 받아 이러한 노력을 통해 계속되고 있습니다. 볼링 모금 행사의 23번째 에디션은 지역 사회 참여의 오랜 전통의 일부입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야 지역 행사 정보, 여행객에게 소소한 즐길 거리가 될 수 있지만, 필수 정보는 아님.",
+      "event_info": {
+        "date": "2026-03-01",
+        "location": "SF Strike Bowl Pattaya",
+        "price": "모금 행사, 가격 정보는 확인 필요",
+        "location_google_map_query": "SF Strike Bowl Pattaya"
+      },
+      "references": [
+        {
+          "title": "Father Ray Foundation Gears Up For Annual Charity Bowling Event This Weekend!",
+          "url": "https://thepattayanews.com/2026/02/26/father-ray-foundation-gears-up-for-annual-charity-bowling-event-this-weekend/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17720965212451497029047107100089.jpg?v=1772116754"
+        }
+      ],
+      "collected_at": "03:28",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17720965212451497029047107100089.jpg?v=1772116754",
       "date": "2026-02-27"
     }
   ]
