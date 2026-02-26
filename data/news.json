@@ -40938,14 +40938,9 @@
       "summary": "- 방콕 및 중부 지방에 토요일부터 다음 주까지 만조 주의보 발령.\n- 강 수위 상승 및 잠재적 홍수 위험에 대비 필요.\n- 여행 시 해당 지역의 최신 정보를 확인하고 안전에 유의해야 함.",
       "full_translated": "방콕 및 인근 중부 지방에 토요일부터 다음 주까지 높은 조수가 예상됩니다. 강 수위 상승과 잠재적인 홍수 위험에 대비하여 여행 시 관련 정보를 확인하시기 바랍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 만조 및 홍수 가능성 정보. 아침 브리핑이므로 오늘부터의 상황을 전달.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 및 중부 지방",
-        "price": null,
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': None, 'location': '방콕 및 중부 지방', 'price': None, 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "High‑tide alert for Bangkok, central provinces from Saturday into next week",
@@ -40953,22 +40948,20 @@
           "source": "온라인 뉴스"
         }
       ],
-      "collected_at": "05:59",
-      "date": "2026-02-27"
+      "collected_at": "5:59",
+      "image_url": "",
+      "date": "2026-02-27",
+      "link": "URL이 없습니다.",
+      "source": ""
     },
     {
       "title": "Tomorrowland Thailand, 첫 해에 55억 바트, 5년 동안 300억 바트 수익 창출 예상",
       "summary": "- Tomorrowland Thailand, 첫 해에 55억 바트 수익 창출 예상.\n- 5년 동안 총 300억 바트의 경제 효과 기대.\n- 대규모 축제 개최로 인한 지역 경제 활성화 전망.",
       "full_translated": "Tomorrowland Thailand는 첫 해에 55억 바트, 5년 동안 300억 바트의 수익을 창출할 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "대규모 축제 정보, 여행 및 엔터테인먼트 관련 내용.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국 Tomorrowland"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': '태국 Tomorrowland'}",
       "references": [
         {
           "title": "Tomorrowland Thailand to generate 5.5 billion THB in first year, 30 billion THB over 5 years - Nation Thailand",
@@ -40977,8 +40970,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:59",
+      "collected_at": "5:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-27",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9mYUp5VUllcW8zN1lFSzZ0ajBJcFg0UzBCWUNfYnVRVFZLZzR1Z3RtYXQwcTRYX1hfeDlmWFRQa3NnX3BPdXVLTmNtSmlEeWJEblNUS0diQjVXV0dLVmc5NjVn?oc=5",
+      "source": ""
+    },
+    {
+      "title": "푸미자이당, 하원 과반수 확보 임박",
+      "summary": "- 푸미자이당(BJT)이 끌라 탐 당 의원 9명의 지지를 받아 연립 정부 구성에 박차를 가하고 있습니다.\n- 현재 푸미자이당은 여러 정당에서 292석을 확보했으며, 추가 의원 확보를 통해 301석까지 늘릴 수 있습니다.\n- 푸미자이당은 하원에서 안정적인 과반수를 확보한 후 연립 협상을 공식적으로 시작할 계획입니다.",
+      "full_translated": "푸미차이(BJT) 당은 끌라탐당 의원 9명의 지지를 받아 새로운 정부 구성을 위한 노력을 강화하고 있습니다. 언론 보도에 따르면, 이번 재편에서 타마낫 프롬파오 당 대표 고문의 역할은 두드러지지 않습니다. BJT는 현재 여러 정당에서 292석을 확보하는 데 근접했습니다. 추가로 9명의 의원을 확보하면 아누틴 차른비라쿨 대표의 총리 입후보를 지지할 수 있는 의석수가 총 301석으로 늘어날 것입니다. 보도에 따르면, BJT는 이미 팔랑 쁘라차랏당(PPRP)과 뉴 오퍼튜니티당(NOP)의 지지를 확보했으며, 아누틴 대표의 총리 복귀를 위한 의회 지지를 강화하기 위해 조직적인 그룹으로 의원들을 유치하는 익숙한 전략에 의존할 것입니다. 당은 연립 협상을 공식적으로 시작하기 전에 하원에서 안정적인 과반수를 확보하는 것을 목표로 하고 있습니다. 끌라탐당 내에서 찰름차이 스리온과 데치트 카오통과 연결된 9명의 의원 그룹에 관심이 집중되고 있습니다. 이들의 잠재적인 이동은 BJT의 숫자를 크게 늘리고 타마낫 대표와 계속 연합하는 끌라탐당 내 요소를 더욱 고립시킬 것입니다. BJT 고위 관계자는 공개적으로 계약을 확인하는 것을 거부했지만, 내부자들은 이것이 당의 오랜 관행과 일치한다고 설명합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BJT nears majority in House",
+          "url": "https://www.bangkokpost.com/thailand/politics/3205893/bjt-nears-majority-in-house",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3205893_260227054416_700.jpg"
+        }
+      ],
+      "collected_at": "06:30",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3205893_260227054416_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "세레피수트, 타마낫 임명 관련 총리 공격",
+      "summary": "- 세리 루암 타이당 대표, 아누틴 총리의 타마낫 임명에 대한 조사 요구.\n- 법률 및 윤리적 함의 검토를 옴부즈만에게 청원할 예정.\n- 타마낫의 장관 자격에 대한 별도 민원도 제기된 상황.",
+      "full_translated": "세리 루암 타이당 대표인 세레피수트 테미야베스 경찰총경은 아누틴 찬위라쿨 총리가 타마낫 프롬파우 대위를 부총리 겸 농업협동조합 장관으로 임명한 것에 대해 옴부즈만에게 청원할 것이라고 밝혔습니다. 세레피수트 경찰총경은 목요일 페이스북 게시물에서 금요일 오후 1시에 공식적으로 고소장을 제출할 것이라고 밝혔습니다. 그는 이번 임명의 합법성과 윤리적 함의에 대한 검토를 요구하고 있으며, 옴부즈만에게 아누틴 총리의 결정이 심각한 윤리 기준 위반에 해당하는지 여부에 대한 판결을 위해 헌법재판소에 회부할 것을 고려해 달라고 요청할 것입니다. 이번 발표는 즉시 온라인에서 논쟁을 불러일으켰으며, 세리 루암 타이당이 의회에서 단 한 석만을 보유하고 있음에도 불구하고 지지자들로부터 강력한 지지를 받았습니다. 많은 논평가들은 이번 조치를 책임감 있는 행동으로 묘사하며 그에게 계속 진행할 것을 촉구했습니다. 이번 최신 소식은 변호사 파타라퐁 수파악손이 화요일에 제기한 별도의 민원에 따른 것입니다. 파타라퐁은 옴부즈만에게 타마낫 대위가 내각 장관으로서 필요한 모든 법적 자격을 충족하는지 조사해 달라고 청원했습니다. 파타라퐁은 이날 선거관리위원회 사무실에서 기자들에게 이번 청원이 임명 과정과 타마낫 대위의 법적 자격에 대한 철저한 검토를 요구한다고 말했습니다. 그는 또한 클라탐당이 '더러운 선거'라고 묘사한 것을 무효화하라는 요구에 지지를 표명하며 당이 경찰에 신고할 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스. 여행객에게 직접적인 영향은 적으나, 정치 상황에 대한 이해를 돕기 위해 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Sereepisuth targets PM over Thamanat appointment",
+          "url": "https://www.bangkokpost.com/thailand/politics/3206093/sereepisuth-targets-pm-over-thamanat-appointment",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206093_260227061259_700.jpg"
+        }
+      ],
+      "collected_at": "06:30",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206093_260227061259_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "태국 중앙은행 금리 인하 후 증권사, SET 지수 전망치 상향 조정",
+      "summary": "- 태국 중앙은행(MPC)의 금리 인하(0.25%p)로 SET 지수 목표치 상향 조정 전망.\n- Asia Plus Securities, 연말 SET 지수 목표 1,580으로 상향 (기존 1,440).\n- 금리 인하 및 주당 순이익 전망치 상향 조정 반영.",
+      "full_translated": "애널리스트들은 통화정책위원회(MPC)가 정책 금리를 25bp 인하하여 1.00%로 낮춘 후(거의 4년 만에 최저 수준), 2026년 태국 증권거래소(SET) 지수 추정치를 상향 조정하고 있습니다. 이번 금리 인하로 시장 재평가에 대한 기대감이 커지고 있습니다. Asia Plus Securities는 5%의 시장 수익률 격차를 가정하여 연말 SET 지수 목표를 1,440에서 1,580포인트로 상향 조정했습니다. 이번 상향 조정에는 예상치 못한 금리 인하로 인한 60포인트와 2026년 주당 순이익 전망치를 90바트에서 95바트로 상향 조정한 데 따른 80포인트가 추가되었습니다. Pi Securities의 전략가인 Vathan Jitsomnuk은 2025년 4분기 GDP 성장률이 2% 이상이고, 관광 산업이 회복되고 있으며, 미국 연방준비제도의 완화 신호가 명확하지 않다는 점을 고려할 때 이번 조치가 놀랍다고 평가했습니다. 그러나 그는 중앙은행의 성명이 경제적 취약성을 반영한다고 말했습니다. 수출 성장은 전자 제품에 집중되어 있고, 전체 GDP 성장률은 약 2%로 과거의 3~4% 잠재력에 미치지 못하며, 중소기업과 취약 가구의 신용 여건은 여전히 어려운 상황입니다. Vathan은 산업 단지 개발업체가 외국인 직접 투자와 데이터 센터 유입에 힘입어 두각을 나타내는 수혜자 중 하나라고 말했습니다. 낮은 금리가 자금 조달 비용 압력을 완화하고 자산 건전성 안정성을 지원함에 따라 비은행 대출 기관도 선호됩니다. Krungsri Securities (KSS)는 태국 지수가 i에서 1,650포인트에 도달할 것으로 예측합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 상황에 대한 정보. 여행 자체에는 직접적인 영향은 적지만, 현지 물가 및 경제 동향 파악에 도움.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Analysts see buoyant SET following rate cut",
+          "url": "https://www.bangkokpost.com/business/general/3206043/analysts-see-buoyant-set-following-rate-cut",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206043_260227051917_700.jpg"
+        }
+      ],
+      "collected_at": "06:30",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206043_260227051917_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Sansiri, 중소기업 투자 위해 10억 바트 프로그램 시작",
+      "summary": "- Sansiri는 비핵심 사업 수익 증대를 위해 3년간 10억 바트 규모의 전략적 투자 프로그램을 시작합니다.\n- Sansiri Growth Incubator는 선정된 중소기업의 성장을 가속화하고 Sansiri의 수익원을 다각화하는 역할을 합니다.\n- 목표는 제휴 중소기업을 3~5년 안에 5~10배로 확장하는 것입니다.",
+      "full_translated": "상장 부동산 개발업체 Sansiri는 회사의 비핵심 사업에서 수익을 늘리기 위한 전략의 일환으로 중소기업(SME)을 지원하기 위해 3년 동안 10억 바트 규모의 전략적 투자 프로그램을 시작했습니다. Sansiri Growth Incubator라고 불리는 이 새로운 사업은 선정된 SME의 성장 촉진제 역할을 하여 Sansiri의 수익 흐름을 다양화하고 회사의 성장을 촉진할 것이라고 Sansiri의 국제 운영 사장인 Napat Thavisin은 말했습니다. 태국 부동산 부문이 여전히 성장할 여지가 있는 것처럼, 국내 많은 SME도 높은 성장 잠재력을 가지고 있지만 확장을 가속화하기 위해서는 더 강력한 인프라가 필요하다고 그는 지적했습니다. Sansiri Growth Incubator는 소비재 및 식음료 제조업체, 숙박 및 라이프스타일 부문의 기업을 포함한 실제 부문의 SME에 투자할 계획입니다. 목표는 제휴 SME를 3~5년 안에 5~10배로 확장하는 것이라고 Napat 씨는 말하면서 성장 전략에는 동료와의 제품 차별화, 창업자의 비전과 비즈니스에 대한 사고방식 강화가 포함된다고 덧붙였습니다. 우리는 태국 SME의 성장을 돕는 파트너로 참여하여 Sansiri의 성장을 지원하고 싶다고 그는 말했습니다. 이 이니셔티브는 Sansiri가 포트폴리오를 다양화하고 늘릴 수 있는 기회이기도 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 경제 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Sansiri launches B1bn programme  to invest in small businesses",
+          "url": "https://www.bangkokpost.com/property/3206218/sansiri-launches-b1bn-programme-to-invest-in-small-businesses",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/27/5984898_700.jpg"
+        }
+      ],
+      "collected_at": "06:30",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/27/5984898_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "힐러리 클린턴, 미 하원 청문회에서 트럼프에게 엡스타인 관련 답변 촉구",
+      "summary": "- 힐러리 클린턴이 제프리 엡스타인 사건 관련 미 하원 청문회에 출석하여 증언함.\n- 클린턴은 엡스타인을 만난 적이 없다고 주장하며, 도널드 트럼프에게도 증언을 요구함.\n- 클린턴은 자신이 엡스타인의 범죄에 대한 정보가 없으며, 그의 개인 섬이나 비행기를 이용한 적이 없다고 밝힘.",
+      "full_translated": "힐러리 클린턴이 제프리 엡스타인 사건과 관련하여 미국 하원 감독위원회의 청문회에 출석했습니다. 그녀는 자신이 엡스타인을 만난 적이 없다고 밝혔으며, 도널드 트럼프 대통령에게도 증언을 촉구했습니다. \n\n외신 보도에 따르면 클린턴 전 국무장관은 현지 시간 2월 26일 목요일 하원 감독위원회에 출석하여 엡스타인과의 연관성에 대해 증언했습니다. 엡스타인은 아동 성범죄 혐의로 유죄 판결을 받은 전직 금융가입니다.\n\n비공개로 진행된 청문회에서 클린턴은 자신이 엡스타인을 만난 적이 없으며, 트럼프 대통령 역시 엡스타인과의 관계에 대해 증언해야 한다고 주장했습니다. 또한 엡스타인의 범죄에 대한 정보가 없으며, 그의 개인 섬이나 비행기를 이용한 적이 없다고 진술했습니다.\n\n클린턴은 위원회가 트럼프를 보호하려 한다고 비난하며, 위원회가 엡스타인의 인신매매 범죄에 대한 진실을 밝히는 데 진지하다면 트럼프에게 엡스타인의 기록에 그의 이름이 수만 번 등장하는 이유를 직접 물어야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 여행자에게 직접적인 영향은 없으나, 국제적인 주요 정치 이슈 관련 뉴스이므로 낮은 점수로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ฮิลลารี คลินตัน ให้การสภาผู้แทนฯ จี้ทรัมป์ตอบปมเอปสตีน",
+          "url": "https://www.thairath.co.th/news/foreign/2916746",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFBi1a9nX9qoc.jpg"
+        }
+      ],
+      "collected_at": "06:30",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFBi1a9nX9qoc.jpg",
       "date": "2026-02-27"
     }
   ]
