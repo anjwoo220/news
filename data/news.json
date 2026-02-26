@@ -40123,14 +40123,9 @@
       "summary": "- 태국 총선 투표율은 71.42%로 집계되었으나, 재검표 및 재투표는 포함되지 않음.\n- 선거관리위원회는 총 52,933,610명의 유권자 중 37,807,781명이 투표에 참여했다고 발표함.\n- 지역구 및 비례대표 투표자 수가 다른 이유는 일부 지역의 투표용지가 완전하게 회수되지 않았기 때문임.",
       "full_translated": "태국 선거관리위원회는 하원 의원 선거 투표율이 71.42%라고 발표했습니다. 이는 재선거와 재집계를 제외한 수치입니다. 위원회는 총 52,933,610명의 유권자 중 37,807,781명이 투표에 참여했다고 밝혔습니다(71.42%).\n\n비례대표 투표에서는 35,030,601표가 유효표(92.65%), 1,669,006표가 무효표(4.41%), 1,108,051표가 기권표(2.93%)였습니다. 지역구 투표에서는 34,862,178표가 유효표(92.21%), 1,337,396표가 무효표(3.54%), 1,608,174표가 기권표(4.25%)였습니다.\n\n선거관리위원회는 2026년 2월 25일 기준으로 재집계 및 재투표는 포함되지 않았다고 언급했습니다. 또한 지역구 및 비례대표 투표자 수가 다른 이유는 일부 지역의 투표용지가 완전하게 회수되지 않았기 때문이라고 설명했습니다. 각 지방의 투표자 수, 유효표, 무효표, 기권표에 대한 자세한 내용은 재집계 및 재투표가 완료된 후 발표될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치 상황에 대한 정보 제공. 직접적인 여행 영향은 적지만, 태국 사회 이해에 도움.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. สรุปยอดคนมาใช้สิทธิเลือกตั้ง 71.42% ยังไม่รวมเลือกตั้งใหม่-นับคะแนนใหม่",
@@ -40141,21 +40136,18 @@
       ],
       "collected_at": "23:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDuJPkU49apkq.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/politic/2916736",
+      "source": ""
     },
     {
       "title": "코브라 골드 2026: 태국, 미국, 한국, 싱가포르 연합 상륙 훈련 실시",
       "summary": "- 태국, 미국, 한국, 싱가포르가 2026년 코브라 골드 훈련에서 상륙 작전 훈련을 실시합니다.\n- 2월 26일 촌부리 사타힙 해변에서 훈련이 진행되었으며, 해군력과 공중 지원을 활용해 적 해안을 점령하는 시뮬레이션입니다.\n- 올해 훈련에는 태국, 미국, 한국, 싱가포르 군대가 참가하며, USS Ashland과 미국 육군 공격 헬리콥터 등 장비도 동원됩니다.",
       "full_translated": "2026년 코브라 골드 훈련에서 태국, 미국, 한국, 싱가포르가 상륙 작전 훈련을 실시하여 전투 준비 태세를 강화하고 합동 훈련 능력을 향상시킵니다. 2026년 2월 26일 오전 10시부터 수차트 탐마피탁웨 부제독, 윌리엄 J. 프렌더개스트 4세 소장, 미국, 한국, 싱가포르 대표단이 촌부리 사타힙 해변 15번 훈련장에서 코브라 골드 2026 합동/혼합 훈련의 상륙 작전 훈련을 참관했습니다. 상륙 작전은 해군력과 상륙 부대, 공중 지원을 활용하여 적 해안 지역을 점령하는 것을 목표로 합니다. 올해 훈련에는 태국, 미국, 한국, 싱가포르 군대가 참가하며, 미국은 USS Ashland과 미국 육군 공격 헬리콥터를 포함한 다양한 군사 장비를 투입했습니다. 태국 해군은 HTMS Chang, HTMS Wang Nai, HTMS Thong 등을 파견했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "훈련 자체는 관광객에게 직접적인 영향을 미치지 않지만, 주변 지역 교통 혼잡 또는 소음 발생 가능성 고려. 훈련 시기 및 장소 정보를 제공하여 간접적인 영향에 대비.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "촌부리 사타힙 해변",
-        "price": "정보 없음",
-        "location_google_map_query": "사타힙 해변"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '촌부리 사타힙 해변', 'price': '정보 없음', 'location_google_map_query': '사타힙 해변'}",
       "references": [
         {
           "title": "“Cobra Gold 2026” วันนี้ ไทย-สหรัฐฯ-เกาหลี-สิงคโปร์ ฝึกปฏิบัติการยุทธ์สะเทินน้ำสะเทินบก",
@@ -40166,21 +40158,18 @@
       ],
       "collected_at": "23:13",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhadZbDQ6SkEDK1HO.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/politic/2916732",
+      "source": ""
     },
     {
       "title": "MG, 2026년 신차 출시 및 애프터 서비스 강화 전략 발표",
       "summary": "- MG는 2026년에 4개의 새로운 모델을 출시하고 애프터 서비스를 강화할 계획입니다.\n- 2025년 총 판매량은 27,007대로 전년 대비 57% 증가했으며, 태국 자동차 시장에서 5위를 차지했습니다.\n- 특히 전기차 판매량이 전체의 80%를 차지하며, NEW MG4 ELECTRIC은 4개월 연속 등록 1위를 기록했습니다.",
       "full_translated": "MG는 2026년 사업 전략을 발표하며 4개의 새로운 모델을 출시하고 애프터 서비스를 강화할 것이라고 밝혔습니다. SAIC 모터-CP의 이사인 미스터 타 센센은 2025년 MG가 총 27,007대를 판매하여 전년 대비 57% 성장했다고 밝혔습니다. MG는 태국 자동차 시장에서 5위 브랜드로 올라섰으며, 전체 판매량의 80%가 전기차에서 발생했습니다. NEW MG4 ELECTRIC은 11,000대 이상 판매되며 4개월 연속 등록 1위를 차지했고, NEW MG S5 EV는 4,920대 이상 판매되며 19.9% 증가했습니다. MG IM6는 1,700대 이상 판매되며 중국 외 지역에서 가장 높은 판매량을 기록했습니다. MG5 및 ALL NEW MG3 HYBRID+와 같은 내연기관 및 하이브리드 자동차도 전기 자동차로 전환하는 소비자들을 지원하는 데 중요한 역할을 했습니다.\n\n2026년 MG는 총 판매량 30,000대, 시장 점유율 5%를 목표로 설정했습니다. 현재 MG는 브랜드 및 제품의 지속적인 개발과 포괄적인 운영 시스템 구축을 통해 태국 자동차 시장 Top 5에 진입하는 데 성공했으며, 장기적으로 안정적이고 지속 가능한 성장을 이루어 2020년대 Top 3 브랜드로 도약하는 것을 목표로 하고 있습니다. MG 세일즈 (태국)의 이사인 미스터 수 위는 2026년에 전기 자동차 포트폴리오를 확장할 계획이라고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 관련 직접적인 영향은 없으나, 태국 자동차 시장 동향에 대한 정보 제공. 렌트카 이용 또는 차량 구매 계획이 있는 여행자에게 참고가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "MG เดินเกมปี 69 เปิดตัวรถใหม่อะไหล่พร้อมชูบริการหลังการขายต้องเริ่ด",
@@ -40191,21 +40180,18 @@
       ],
       "collected_at": "23:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDHbqa0uhIAG6.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2916711",
+      "source": ""
     },
     {
       "title": "수찻, '락차녹' 명예훼손 및 컴퓨터법 위반으로 고소, 5천만 바트 손해배상 청구 예정",
       "summary": "- 수찻 촘끌린 부총리는 락차녹 씨리녹을 명예훼손 및 컴퓨터법 위반 혐의로 고소함.\n- 락차녹은 선거 부정으로 당선된 장관이라는 비판적 게시글을 올림.\n- 수찻 측은 법적 조치를 통해 명예와 위엄을 지키겠다고 밝힘.",
       "full_translated": "수찻 촘끌린 부총리는 락차녹 씨리녹을 명예훼손 및 컴퓨터법 위반 혐의로 고소하고 다음 주 법원에 5천만 바트의 손해배상을 청구할 예정이라고 밝혔습니다. 이는 언론의 입을 막으려는 것이 아니라 자신의 명예와 위엄을 지키기 위한 것이라고 강조했습니다. 2026년 2월 26일, 수찻 촘끌린 부총리 겸 천연자원환경부 장관은 법률팀장인 낫타우 웡니암 변호사에게 관련 증거를 제출했습니다. 해당 증거는 락차녹 씨리녹 하원의원의 개인 페이스북 게시글에서 발췌한 것으로, '선거 부정으로 당선된 장관'이라는 비판적인 내용과 '인생 망한 사람'이라는 댓글이 포함되어 있습니다. 이 게시글은 선거관리위원회(꼬꼬따.)가 촌부리 1구 선거에서 재검표를 하지 않기로 결정한 후인 2월 12일에 게시되었으며, 전체 공개 설정되어 있어 누구나 접근할 수 있었습니다. 낫타우 변호사는 락차녹이 작성한 '인생 망한 사람'이라는 단어는 수찻의 별명인 '헹'을 의미하며, 락차녹이 지난주 해당 댓글을 삭제했지만 이미 범죄는 성립되었고 피해자가 해당 메시지를 확인했기 때문에 고소에 이르게 되었다고 밝혔습니다. 변호사는 또한 수찻이 그동안 많은 비판을 묵묵히 감내해 왔지만, 이번 락차녹의 게시글은 수찻에 대한 신뢰에 영향을 미쳤다고 덧붙였습니다. 오늘 선거관리위원회가 선거 결과를 승인하고 관보에 발표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 내용으로, 여행객에게 직접적인 영향은 없다고 판단됨. 다만, 정치적 상황에 대한 정보 제공 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“สุชาติ” ส่งทนายแจ้งความ “รักชนก” หมิ่นประมาท-พ.ร.บ.คอมพ์ จ่อเรียกค่าเสียหาย 50 ล้าน",
@@ -40216,21 +40202,18 @@
       ],
       "collected_at": "23:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDXjnsaQ7w5VJ.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/politic/2916706",
+      "source": ""
     },
     {
       "title": "중국, '2회' 앞두고 5명의 장군을 국회에서 해임",
       "summary": "- 중국, 전국인민대표대회(NPC) 연례회의 앞두고 군 고위 장성 5명 해임.\n- 해임된 장성 중에는 육군사령관과 해군사령관 포함.\n- 부패 혐의 조사와 관련된 것으로 추정.",
       "full_translated": "중국이 다음 주 2회 회의를 시작하기 전에 5명의 장군을 국회에서 해임했습니다.\n\n중국은 제14기 전국인민대표대회(NPC) 연례 회의가 시작되기 불과 1주일 전인 2026년 2월 26일 목요일에 리차오밍 육군사령관과 셴진롱 전 해군사령관을 포함한 5명의 장군과 중장, 소장 4명을 국회의원직에서 해임했다고 발표했습니다. 중국 NPC 상임위원회는 중국 입법자들이 인민해방군(PLA)의 장군 5명의 이름을 의원 명단에서 삭제하라고 명령했다고 밝혔습니다. 해군 정치위원, 공군, 정보지원군 전·현직 등도 해임됐다. 성명은 또한 쑨샤오청 내몽골 자치구 전 당서기를 포함해 다른 고위 장교와 지방 관리들도 해임됐다고 밝혔습니다.\n\n이번 조치는 장여우샤 중앙군사위원회 부주석을 포함해 군 고위 지도부를 겨냥한 대대적인 조사에 따른 것입니다. 국방부는 또한 지난 1월 류젠리 합동참모부 참모총장이 '심각한 규율 및 법률 위반' 혐의로 조사를 받고 있다고 발표했습니다. 중국은 이 용어를 부패를 지칭할 때 자주 사용합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세 관련 정보 제공 차원에서 포함. 다만 점수는 낮게 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "จีนถอด 5 พลเอก ออกจากสภานิติบัญญัติ ก่อนเริ่มประชุม 2 สภาสัปดาห์หน้า",
@@ -40241,7 +40224,136 @@
       ],
       "collected_at": "23:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDuCwUjS7hHeF.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/foreign/2916737",
+      "source": ""
+    }
+  ],
+  "2026-02-27": [
+    {
+      "title": "방콕 및 중부 지방, 토요일부터 다음 주까지 만조 주의보",
+      "summary": "- 방콕 및 6개 중부 지방, 높은 만조로 인한 잠재적 위험에 대비 필요.\n- 짜오프라야 강, 매클롱 강, 타친 강변 지역 사회에 침수 가능성.\n- 스쿰빗, 숙사왓, 라마 2세 도로 일부 구간 단기 침수 예상.",
+      "full_translated": "국립수자원국은 목요일, 방콕, 사무트프라칸, 논타부리, 파툼타니, 사무트사콘, 나콘파톰, 사무트송크람의 강 수위가 상승할 것으로 예상된다고 경고했습니다. 이는 강한 만조가 안다만 해와 남쪽을 덮고 있는 남서풍과 겹치기 때문입니다. 기상 조건으로 인해 일부 지역에 폭우가 예상됩니다. 토요일부터 화요일까지 짜오프라야 강, 토요일부터 월요일까지 매클롱 강, 일요일부터 목요일까지 타친 강을 따라 강변 지역 사회에 물이 넘칠 수 있습니다. 스쿰빗 로드, 숙사왓 로드, 라마 2세 로드 일부 구간도 만조 시간 동안 단기 침수가 발생할 수 있습니다. 염수 침입은 가정용 및 농업용 수돗물 생산 및 수질에 영향을 미칠 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 이동에 불편을 초래할 수 있는 홍수 가능성 정보. 특히 스쿰빗, 숙사왓, 라마 2세는 여행객이 자주 이용하는 지역이므로 영향이 큼.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 및 중부 지방",
+        "price": null,
+        "location_google_map_query": "방콕 홍수 지역"
+      },
+      "references": [
+        {
+          "title": "High‑tide alert for Bangkok, central provinces from Saturday into next week",
+          "url": "https://www.bangkokpost.com/thailand/general/3205824/hidetide-alert-for-thailands-central-region-from-saturday-into-next-week",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205824_260226180702_700.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205824_260226180702_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "방콕, AI 교통 신호 시스템 확장: 주요 교차로 통행 시간 단축 효과",
+      "summary": "- 방콕시, AI 기반 교통 제어 시스템을 74개 교차로에 설치 후 효과 입증.\n- 프라카농, 스쿰윗 71 교차로에서 신호 주기 단축 및 대기 시간 감소.\n- 올해 50개 교차로 추가 확장 계획.",
+      "full_translated": "방콕 시청은 스마트 교통 전략을 발전시켜 주요 경로의 통행 시간을 단축하고 혼잡을 완화하는 AI 기반 적응형 제어 시스템으로 수십 개의 교차로를 업그레이드하고 있습니다. 이 새로운 시스템은 2024년부터 시 전역의 74개 교차로에 설치되었으며, 방콕 수도청(BMA)은 올해 50개의 교차로를 추가로 확장할 계획이라고 목요일에 밝혔습니다. 이 기술은 AI 지원 CCTV 카메라를 사용하여 실시간 교통 흐름을 분석하고 적색 및 녹색 신호등 지속 시간을 자동으로 조정합니다. 이 시스템은 혼잡 수준에 관계없이 미리 설정된 주기로 작동하는 방콕의 고정 시간 신호등의 오랜 문제를 해결하는 것을 목표로 합니다. 시는 최근 악명 높은 프라카농 및 스쿰윗 71(프리디 바노미옹) 교차로에서 적응형 제어가 신호 주기를 12분에서 6분으로 절반으로 줄이고 대기 시간을 크게 낮춘 주목할 만한 성공을 발표했습니다. 방콕은 현재 746개의 교차로를 감독합니다. 이 중 168개에는 신호등이 없고 578개는 교통 신호로 제어됩니다. 신호등이 있는 교차로 중 433개는 미리 설정된 주기로 고정 시간 시스템으로 작동하고 71개는 구형 적응형 루프 감지기 시스템을 사용합니다. 나머지 교차로는 새로운 적응형 제어 시스템으로 업그레이드되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "교통 체증 완화는 여행자에게 긍정적인 영향을 미치므로 포함. 실질적인 개선 효과가 나타나고 있어 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BMA to expand AI traffic lights after success at 74 intersections",
+          "url": "https://www.bangkokpost.com/thailand/general/3205863/bma-to-expand-ai-traffic-lights-after-success-at-74-intersections",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205863_260226202416_700.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205863_260226202416_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "BTS, 승객들에게 머리카락 정리 요청",
+      "summary": "- BTS 스카이트레인 운영사, 승객들에게 머리카락으로 인한 불편 초래 방지 당부\n- 긴 머리 승객은 회전, 보행, 승하차 시 머리카락을 잡아 고정해야 함\n- 쾌적한 여행 문화 조성을 위한 에티켓 준수 강조",
+      "full_translated": "BTS 스카이트레인 운영사는 승객들에게 출퇴근 시간 동안 머리카락을 흩날리거나 던지지 않도록 요청했습니다. 느슨한 머리카락이 다른 통근자들의 얼굴, 어깨, 눈 또는 입에 닿을 수 있기 때문입니다.\n\n긴 머리를 가진 승객은 머리를 돌리거나, 다른 사람을 지나갈 때, 기차에 승하차할 때 머리카락을 제자리에 고정해야 합니다. 운영사는 소셜 미디어 게시물을 통해 “쾌적한 여행 문화를 구축하고 서로를 배려하여 모두에게 즐거운 여행이 되도록 합시다”라고 밝혔습니다.\n\n스카이트레인 시스템 이용 시 다른 에티켓 팁은 다음과 같습니다.\n\n승객은 이동 중에 손잡이, 스트랩 또는 기둥을 잡고, 어린이, 임산부, 노인, 장애인, 불교 승려와 수련자에게 자리를 양보해야 합니다. 승객은 항상 소지품을 주의 깊게 살펴보고 비상시 즉시 열차 직원에게 알려야 합니다. 승객은 문이나 기둥에 기대거나 막거나, 손을 객차 문 가까이에 두거나, 통로를 짐으로 막거나, 객차 내부에서 음식물을 먹거나 마시지 않아야 합니다. 승객은 노란색 선 뒤에 줄을 서고, 내리는 승객이 먼저 내리도록 하고, 플랫폼과 열차 사이의 간격을 주의하고, 문 닫힘 신호가 울리면 탑승을 중단해야 합니다. 소지품이 선로에 떨어진 사람은 즉시 역 직원에게 알려야 합니다. 뛰거나, 미는",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "BTS 이용 시 필요한 에티켓 정보 제공. 여행객에게 유용한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "BTS asks passengers to keep their hair in check",
+          "url": "https://www.bangkokpost.com/thailand/general/3205643/bts-asks-passengers-to-keep-their-hair-in-check",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205643_700.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205643_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "กล้าธรรม당 의원, ภูมิใจไทย당과의 연립 정부 구성설 부인 -> กล้าธรรม당 의원, 푸미자이당과의 연립 정부 구성설 부인",
+      "summary": "- 끌라탐당의 씨라폽 의원은 푸미짜이타이당과의 연립 정부 구성설을 부인하며 탐마낫 대표에 대한 지지를 표명함.\n- 낫짜뭇딘 관계자는 찰름차이 대표가 여전히 자리를 지키고 있으며, 정부 구성에 대한 최종 결정은 아눗틴 대표의 발표를 기다리고 있다고 밝힘.\n- 최근 9명의 끌라탐당 의원이 푸미짜이타이당을 지지하여 아눗틴 대표를 총리로 만들 것이라는 소문이 돌았으나, 이는 사실이 아닌 것으로 밝혀짐.",
+      "full_translated": "กล้าธรรม당의 시라폽 의원은 푸미자이타이당과의 연립 정부 구성설을 부인하며 탐마낫 대표에 대한 지지를 표명했습니다. 시라폽 의원은 자신이 접한 뉴스의 출처를 알 수 없으며, 탐마낫 대표의 지지 덕분에 국회의원이 될 수 있었기에 그를 배신할 수 없다고 강조했습니다. 또한 어떠한 연락도 받은 적이 없으며, 앞으로도 탐마낫 대표와 함께할 것이라고 밝혔습니다.\n\n낫짜뭇딘 관계자는 찰름차이 대표가 여전히 자리를 지키고 있으며, 정부 구성에 대한 최종 결정은 아눗틴 대표의 발표를 기다리고 있다고 밝혔습니다. 그는 최근 소문으로 떠돌았던 찰름차이 대표 휘하의 9명의 의원이 푸미자이타이당을 지지할 것이라는 내용이 사실이 아니라고 밝혔습니다.\n\n최근 9명의 กล้าธรรม당 의원이 푸미자이타이당을 지지하여 아눗틴 대표를 총리로 만들 것이라는 소문이 돌았습니다. 이들은 러.어. 탐마낫 프롬파오 대표로부터 이탈할 것이라는 예측이 있었으나, 시라폽 의원은 이를 부인했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“สิรภพ” ลั่นขอร่วมหัวจมท้ายกับ “ธรรมนัส” โต้ข่าว 9 งูเห่ากล้าธรรมร่วมรัฐบาลภูมิใจไทย",
+          "url": "https://www.thairath.co.th/news/politic/2916718",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDILKdhbuvDsK.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDILKdhbuvDsK.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "태국 새 내각 구성: 장관 임명 기준 강화, 청렴성 중요시",
+      "summary": "- 아누틴 총리, 새 내각 구성 시 장관의 청렴성을 최우선 기준으로 삼을 것임을 밝힘.\n- 헌법재판소 판결을 참고하여 장관 임명 기준을 강화할 예정.\n- 부정부패 및 국가 이익에 반하는 행위를 방지하기 위한 조치.",
+      "full_translated": "아누틴 총리는 새 내각 구성의 원칙으로 '장관은 명백하게 정직하고 성실해야 한다'는 점을 강조했습니다. 헌법재판소의 판결을 기준으로 삼아 국가 이익에 반하거나 배신하는 행위를 하지 않도록 할 것입니다. 2029년 2월 26일, 총리실 소식통에 따르면 아누틴 차른비라쿨 총리는 새 내각 구성에 대해 '훨씬 더 엄격해질 것'이라고 밝혔습니다. 여기서 '훨씬 더 엄격해질 것'이라는 의미는 품탐 웨차차이 전 부총리 겸 국방부 장관과 포.토.어. 타위 솟송 전 법무부 장관의 써.워. 선거 개입 사건에 대한 헌법재판소의 판결을 참고한다는 것입니다. 헌법재판소는 피청구인 두 장관의 장관직이 종료되지 않았다고 판결했지만, 이를 새로운 내각 구성의 틀과 원칙으로 삼았습니다. 헌법재판소는 2월 19일 관보 45면에 발표된 내용에서, 헌법 160조 (4)항에 따라 장관은 '명백하게 정직하고 성실해야 한다'고 규정했습니다. '정직'은 올바르고 진실하며, 배신하거나 속이지 않는다는 의미이며, '성실'은 적법한 행위를 의미합니다. 따라서 장관은 기준에 미달하거나 '명백하게 정직하고 성실하지 못하다'는 징후가 없어야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "정치 뉴스이지만, 내각 구성 관련 내용은 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ครม.อนุทิน 2” รมต.ต้องซื่อสัตย์สุจริตเป็นที่ประจักษ์ ยึดคำวินิจฉัยศาลเป็นบรรทัดฐาน",
+          "url": "https://www.thairath.co.th/news/politic/2916713",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDHSmxlP4tolW.jpg"
+        }
+      ],
+      "collected_at": "00:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDHSmxlP4tolW.jpg",
+      "date": "2026-02-27"
     }
   ]
 }
