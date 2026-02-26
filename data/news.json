@@ -40345,14 +40345,9 @@
       "summary": "- 피칫 지방에서 25세 남성이 화장실 비데에 시너와 소변, 정액을 섞어 여성에게 상해를 입힌 혐의로 체포됨.\n- 용의자는 성도착증 환자들이 모인 채팅방에 범행 계획을 공유하고, 범행 장면을 몰래 촬영함.\n- 경찰은 용의자의 휴대폰에서 미성년자 성추행 영상도 발견하고 추가 범죄 혐의를 조사 중.",
       "full_translated": "경찰은 피칫 지방의 변태를 변태 채팅 그룹에 연결\n\n경찰은 용의자가 비데 분무기에 시너와 소변, 정액을 채웠다고 밝혔습니다. 게시일: 2026년 2월 26일 15:52 작성자: 온라인 기자 경찰은 북부 피칫 지방에서 25세 남성을 체포했는데, 이 남성은 더 얇고 소변과 시멘트가 채워진 비데 분무기로 여성을 다치게 한 혐의를 받고 있습니다. 사이버 범죄 수사국에 따르면 이 남성은 시티콘으로만 확인되었으며 화요일 아침 북부 지방 므앙 지역의 불교 사원에서 체포되었습니다. 경찰은 다른 성적 일탈자들이 자신의 이야기를 공유하는 채팅 그룹에서 그가 만든 비디오와 게시물에서 그를 확인했습니다. 그들은 그 남자가 사원의 화장실을 사용하는 여성을 더 얇게 만들고 그의 소변과 정액으로 채우고 숨겨진 카메라로 사건을 기록함으로써 해치려는 계획을 설명했다고 말했습니다. 또한 여성이 사원의 화장실을 나가는 모습과 상처를 입은 것으로 보이는 영상도 있었습니다. 클립 기고자는 회원 가입비를 부과하는 텔레그램 채팅 그룹의 회원이었습니다. 그는 아이피엑스 콘 디 썽 로이 퍼센트라는 계정 이름으로 알려졌으며, 체포 당시 용의자의 휴대폰에서 해당 계정의 게시물이 발견되었습니다. 경찰은 또한 그에게서 내시경을 압수했고 용의자가 10세 소녀를 성추행하는 영상도 발견했습니다. 용의자는 같은 사원의 승려였다고 그들은 말했습니다. 동일한 채팅 그룹에서 경찰은 또 다른 사용자가 미성년자 채무자의 나체 사진을 공유하는 것을 발견했습니다. 키티로만 확인된 용의자(26세)는 어린 채무자들에게 나체 사진을 보내도록 요구했다고 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전 관련 범죄 정보. 사원 화장실에서 발생하여 여행객에게 직접적인 위협이 될 수 있음. 다만 특정 지역에 한정된 사건이므로 7점 부여.",
-      "event_info": {
-        "date": null,
-        "location": "피칫 지방 므앙 지역 불교 사원",
-        "price": null,
-        "location_google_map_query": "므앙 지역 불교 사원 피칫"
-      },
+      "event_info": "{'date': None, 'location': '피칫 지방 므앙 지역 불교 사원', 'price': None, 'location_google_map_query': '므앙 지역 불교 사원 피칫'}",
       "references": [
         {
           "title": "Police link Phichit pervert to deviants’ chat group",
@@ -40361,23 +40356,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205743_700.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205743_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205743/police-link-phichit-pervert-to-deviants-chat-group",
+      "source": ""
     },
     {
       "title": "태국, 포르투갈에 EU 무역 협정 및 OECD 가입 지지 요청",
       "summary": "- 태국이 포르투갈에 EU-태국 자유 무역 협정(FTA) 협상 가속화 및 OECD 가입 지지를 공식 요청함.\n- 시하삭 푸앙케트코에우 외무장관과 파울루 랑헬 포르투갈 외무장관 회담에서 논의됨.\n- 양국은 외교관, 공무원, 특별 여권 소지자에 대한 비자 면제 협정을 올해 안에 체결할 예정이며, 포르투갈은 태국 국민의 솅겐 비자 면제 획득 노력도 지지할 것임.",
       "full_translated": "태국은 유럽연합(EU)과의 자유무역협정(FTA) 협상 가속화와 2030년까지 경제협력개발기구(OECD) 가입을 추진하는 데 있어 포르투갈의 지지를 공식적으로 요청했습니다. 이 요청은 시하삭 푸앙케트코에우 외무장관과 태국을 공식 방문 중인 파울루 랑헬 포르투갈 외무장관 간의 회담에서 이루어졌습니다. 목요일 외무부에서 열린 공동 기자회견에서 시하삭 장관은 정치, 경제, 인적 교류 등 광범위한 협력에 걸쳐 관계를 심화하는 것을 목표로 논의가 이루어졌다고 말했습니다. 양국 관계가 5세기가 넘었다는 점을 강조하면서 시하삭 장관은 양국 국민 간의 교류를 촉진하는 것이 우선순위라는 데 양측이 합의했다고 말했습니다. 태국과 포르투갈은 올해 말 외교, 공무, 특별 여권 소지자에 대한 비자 면제 협정을 체결할 예정입니다. 그는 또한 포르투갈이 태국 국민의 유럽 방문을 용이하게 하는 솅겐 비자 면제 획득 노력을 지지할 준비가 되어 있다고 밝혔습니다. 무역과 관련하여 시하삭 장관은 EU-태국 FTA를 유럽연합과의 관계에서 가장 중요한 기둥 중 하나로 묘사했습니다. 거의 10년 동안 중단되었던 협상은 2023년에 재개되었으며 진전되고 있으며 태국은 협상을 마무리하는 것을 목표로 하고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "비자 면제 및 FTA 관련 내용은 여행 및 경제에 간접적인 영향을 미치므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand courts Portugal for EU trade deal, OECD membership",
@@ -40385,22 +40377,20 @@
           "source": "Bangkokpost.com : Most recent"
         }
       ],
-      "collected_at": "01:40",
-      "date": "2026-02-27"
+      "collected_at": "1:40",
+      "image_url": "",
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/business/general/3205839/thailand-courts-portugal-eu-trade-deal-oecd-membership",
+      "source": ""
     },
     {
       "title": "태국 주요 이커머스 기업, 디지털 플랫폼 무역 협회 결성",
       "summary": "- Grab, Lazada, Line Man Wongnai, Shopee 등 주요 기업 참여\n- 디지털 경제 성장 및 온라인 사기 대응, 수출 표준 개발 목표\n- 태국 디지털 경제는 동남아시아에서 인도네시아 다음으로 2위 규모",
       "full_translated": "태국 디지털 플랫폼 무역 협회(TDPA)는 Grab, Lazada, Line Man Wongnai 및 Shopee와 같은 주요 기업들이 설립한 새로운 무역 그룹으로, 지속 가능한 디지털 인프라 구축을 통해 산업의 건전성을 보장해야 한다고 밝혔습니다. 협회는 정부와의 협력을 위한 통합된 목소리를 내고, 온라인 사기 해결, 중소기업(SME) 수출 표준 개발, 지적 재산권 보호를 위해 정책 결정자들과 협력할 예정입니다. 또한 디지털 문해력 향상, 투명성 증진, 정부 정책이 혁신에 미치는 영향 최소화를 목표로 합니다. 협회 자문위원인 Jirawat Poomsrikaew는 디지털 경제가 태국이 중진국 함정을 벗어나는 데 중요한 역할을 하며, 전체 경제보다 빠르게 성장하고 있다고 밝혔습니다. Google, Temasek 및 Bain & Company의 e-Conomy SEA Report 2025에 따르면, 2025년 태국의 디지털 경제는 총 상품 가치 성장률 16%를 기록하며 1조 7,300억 바트(560억 달러)에 달했습니다. 태국은 동남아시아 디지털 경제에서 인도네시아에 이어 2위를 유지하고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 디지털 경제 현황 파악 및 관련 서비스(Grab, Shopee 등) 이용에 참고 가능. 새로운 정책/규제 변화 가능성.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "E-commerce giants form Thai trade group",
@@ -40409,23 +40399,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205834_260226182236_700.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205834_260226182236_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/business/general/3205834/ecommerce-giants-form-thai-trade-group",
+      "source": ""
     },
     {
       "title": "유명 연예인 부부 '나나'와 '웨이', 사기 혐의 부인",
       "summary": "- 배우 리베나 “나나” 인타차이와 래퍼 남편 프린야 “웨이 타이타늄” 인타차이가 사기 혐의로 기소됨.\n- 이들은 1억 바트 이상의 손실을 초래한 혐의를 받고 있으며, 법원에서 무죄를 주장함.\n- 첫 번째 증거 심리는 5월 25일에 열릴 예정이며, 부부는 각각 100만 바트의 보석금을 내고 석방됨.",
       "full_translated": "배우 리베나 “나나” 인타차이와 래퍼 남편 프린야 “웨이 타이타늄” 인타차이의 사기 재판에서 증거 심리가 5월 25일에 열릴 예정입니다. 이 부부는 목요일 법정에서 모든 혐의에 대해 무죄를 주장했습니다. 검찰은 이 사건으로 1억 바트 이상의 손실이 발생했다고 밝혔습니다. \n\n리베나와 프린야 외에도, 배우가 운영하는 두 회사인 Flick of the Light Productions와 Rybena 2016도 함께 기소되었습니다. 피고인들은 공공 사기, 사기 대출, 위조 및 위조 문서 사용 공모 혐의로 기소되었습니다. 검찰은 피해자들이 약 1억 7천만 바트를 피고인들에게 이체했다고 밝혔습니다. 관련된 금액은 150만 바트에서 4640만 바트까지 다양합니다. 이전 보고서에서는 총액이 1억 9500만 바트에 달한다고 했습니다. \n\n기소장에 따르면, 피고인들은 허위 진술과 중요 사실을 숨겨 최소 11명을 공동으로 속였습니다. 피해자들은 개인 대출 사업, 자산 거래, 해외 레스토랑 및 주식 시장 투자 등 다양한 투자 계획에 돈을 빌려주었습니다. 배우와 그녀의 남편은 이전에 각각 100만 바트의 보석금을 받고 석방되었습니다. 목요일, 리베나와 프린야는 언론을 피하기 위해 옆문으로 법정에 들어갔습니다. 법원이 혐의를 읽고 설명한 후, 두 피고인은 무죄를 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "유명인의 사기 사건이지만, 관광객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2026-05-25",
-        "location": "태국 방콕 형사 법원",
-        "price": "해당 사항 없음",
-        "location_google_map_query": "방콕 형사 법원"
-      },
+      "event_info": "{'date': '2026-05-25', 'location': '태국 방콕 형사 법원', 'price': '해당 사항 없음', 'location_google_map_query': '방콕 형사 법원'}",
       "references": [
         {
           "title": "Celebrity couple ‘Nana’ and ‘Way’ plead not guilty to fraud",
@@ -40434,23 +40421,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205798_700.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.bangkokpost.com/media/content/20260226/c1_3205798_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205798/celebrity-couple-nana-and-way-plead-not-guilty-to-fraud",
+      "source": ""
     },
     {
       "title": "태국 새 내각 구성 논란: 부적절한 장관 임명 주장에 대한 법적 검토",
       "summary": "- 아누틴 총리가 임명한 일부 장관에 대한 적절성 논란이 제기됨.\n- 보원삭 전 부총리는 장관직에서 물러난 후에는 법적 문제가 없다고 언급.\n- 총리는 아직 이 문제에 대해 자문을 구하지 않았다고 밝힘.",
       "full_translated": "보원삭 전 부총리는 아누틴 총리가 탐마낫을 부적절하게 임명했다는 주장에 대해 문제가 없다고 지적했습니다. 그는 이미 장관직에서 물러났다고 밝혔습니다. 총리는 이 문제에 대해 아직 자문을 구하지 않았으며, 다시 부총리직을 제안받지 않았다고 밝혔습니다. 2069년 2월 26일 16시, 보원삭 우완노 전 부총리는 정부 청사에서 아누틴 찬위라꾼 총리 겸 내무부 장관이 새 내각의 자격 요건을 확인하기 위해 조언을 구했는지에 대한 질문에 대해 아직 없다고 답했습니다. 그는 그러한 문제는 장관 임명을 위해 금지 사항이 있는지 확인하기 위해 목록을 제출해야 하는 내각 사무국의 책임이라고 언급했습니다. 현재 사법 법원, 행정 법원, 국가 부패 방지 위원회 (P.P.C.), 경찰 특수 부대 사령부, 자금 세탁 방지 사무국 (PPO) 등 9개 이상의 기관으로 조사가 확대되었습니다. 장관직에 임명될 위험이 있는 사람들의 목록을 제출해서는 안 된다는 질문에 대해 보원삭은 '위험'이라는 단어가 무엇을 의미하는지 명확히 해야 한다고 지적했습니다. 그러나 금지된 특징이 있다면 위험이 아니라 불가능합니다. 언론인들은 총리가 부적절한 장관 임명에 대해 불만을 제기한 것에 대해 질문했고, 보원삭은 헌법이 직책을 맡을 때 금지된 자격을 명시하고 있으며, 일단 그 사람이 직책에서 물러나면 더 이상 문제가 되지 않는다고 답했습니다. 동시에 보원삭은 품탐 웨차야차이 전 내무부 장관과 타위 솟송 전 법무부 장관의 사건에 대한 법원의 판결에 대한 언론의 관심에 대해 법원이 공익을 위해 심리하라고 명령했다고 언급했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단됨. 내각 구성 관련 논란은 일반적인 정치 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“บวรศักดิ์” ชี้ ไม่มีปัญหา “อนุทิน” ถูกร้องตั้ง “ธรรมนัส” มิชอบ เหตุพ้น รมต. แล้ว",
@@ -40459,8 +40443,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDWeDNX1F3K8u.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDWeDNX1F3K8u.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/politic/2916709",
+      "source": ""
+    },
+    {
+      "title": "코팡안 섬, '라부부' 변종 마약 소지 혐의로 러시아인 체포",
+      "summary": "- 코팡안 섬에서 러시아 남성이 '라부부'라는 이름의 변종 엑스터시 소지 혐의로 체포됨.\n- 해당 마약은 MDMA, 케타민, 코카인, 카페인을 혼합하여 매우 강력하며, 과다 복용 시 사망 위험이 있음.\n- 경찰은 용의자를 상대로 불법 마약 소지 혐의로 기소함.",
+      "full_translated": "코팡안 – 2026년 2월 26일, 태국 관광 경찰은 인기 있는 아트 토이를 모방하도록 고안된 새로운 '칵테일' 형태의 엑스터시를 소지한 혐의로 러시아 남성을 체포하여 강력한 혼합물이 치명적일 수 있다고 경고했습니다. 관광 경찰 5지구의 위닛 분칫 중령은 경찰이 수랏타니 지방의 주거 지역에서 용의자가 과속으로 운전하는 것을 목격한 후 2월 25일 약 21:00에 코팡안의 임대 주택을 급습했다고 말했습니다. 남성은 여권에 의해 러시아 국적의 33세 에브게니로 확인되었습니다. 경찰은 처음에는 경고를 보냈지만, 그가 횡설수설하고 땀을 흘리고 몸을 떠는 등의 신체적 증상을 보이는 등 눈에 띄게 흥분한 것처럼 보였다고 말했습니다. 그는 나중에 집 안에 불법 물질이 있다고 인정했습니다. 수색 결과 욕실 앞 탁자 위에 1.63그램의 흰색 케타민 가루, 1.18그램의 파란색 엑스터시 가루와 케타민 혼합물, 갈색 MDMA 결정체 한 봉지, 삼각형 해골 모양으로 압착된 엑스터시 정제 3개, 그리고 사용자들 사이에서 속어로 '사탕'으로 불리는 '라부부' 디자인이 발견되었습니다. 경찰은 '사탕' 스타일의 알약에는 MDMA, 케타민, 코카인, 카페인의 혼합물이 함유되어 있다고 경고했습니다. 고농도와 결합된 효과로 인해 약물이 평소보다 훨씬 강력해져 충격과 급사의 위험을 초래합니다. 심문 과정에서 용의자는 모든 혐의를 자백하고 이틀 전 엑스터시를 복용한 사실을 인정했다고 경찰은 밝혔습니다. 그는 불법 소지 혐의로 기소되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 위협이 되는 마약 관련 범죄 소식으로, 특히 코팡안 섬을 방문하는 여행객들에게 주의를 요함. 새로운 유형의 마약에 대한 정보이므로 업데이트 가치가 높음.",
+      "event_info": {
+        "date": null,
+        "location": "코팡안 섬",
+        "price": null,
+        "location_google_map_query": "Koh Phangan"
+      },
+      "references": [
+        {
+          "title": "Russian Arrested Over Deadly ‘Labubu’ Drug Mix",
+          "url": "https://www.khaosodenglish.com/news/2026/02/26/russian-arrested-over-deadly-labubu-drug-mix/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Russian-Arrested-Over-Deadly-‘Labubu-Drug-Mix.jpg"
+        }
+      ],
+      "collected_at": "02:38",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Russian-Arrested-Over-Deadly-‘Labubu-Drug-Mix.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "파타야, 미성년자 성매매 단속: 인신매매 단속반, 유흥업소 급습",
+      "summary": "- 태국 인신매매 단속반이 파타야에서 미성년자 성매매 혐의로 유흥업소 2곳 급습.\n- 한 업소에서 18세 미만 미성년자 2명 발견, 추가 조사 진행.\n- 경찰은 공공의 제보를 받아 단속을 실시했으며, 관련자들을 조사 중.",
+      "full_translated": "태국 인신매매 단속반이 파타야 시 경찰 및 지방 행정 공무원과 함께 2026년 2월 26일 저녁, 미성년자 성 학대 착취 혐의에 대한 불만 접수 후 파타야 중심 지역의 맥주 바 2곳을 급습했습니다. 이번 작전은 오후 8시 6분경에 폴. Lt. Col. Kiatkongsak Thongkham, 인신매매 단속 부대 2분과 부사령관, Pol. Col. Anek Sathongyu, 파타야 경찰서장, Pol. Lt. Col. Siriwat Khatchamat, 파타야 경찰서 부사령관 (범죄 진압), 그리고 방라뭉 지역 행정관인 Mr. Phichan Non Thawisuk이 이끌었습니다. 인신매매 단속 사령부, 파타야 시 경찰서, 방라뭉 지역 행정 공무원으로 구성된 합동 팀은 공공 제보를 받은 후 아동 성 학대 착취를 조장하는 것으로 의심되는 맥주 바를 표적으로 삼았습니다. 처음 검사한 시설은 사우스 파타야의 Soi Chaiyaphoon에 위치했습니다. 경찰은 해당 구역에서 수색 영장 및 체포 영장을 집행했습니다. 검사 결과, 18세 미만의 개인은 해당 장소에서 일하는 것을 발견하지 못했고 해당 장소는 합법적으로 운영되는 것으로 보입니다. 그러나 당국은 팁과 관련된 증거를 수집하고 추가 인터뷰를 위해 체포 영장에 이름이 지정된 개인을 구금했습니다. 두 번째 목표는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 미성년자 성매매 관련 단속이 발생했다는 소식은 여행객의 안전과 관련된 중요한 정보이므로 포함. 파타야를 방문하는 여행객들에게 주의를 환기하고, 해당 지역의 치안 상황을 인지하도록 돕는다.",
+      "event_info": {
+        "date": "2026-02-26",
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thai Human Trafficking Suppression Division Raids Two Bars in Pattaya, Finds Two Minors at One Location",
+          "url": "https://thepattayanews.com/2026/02/27/thai-human-trafficking-suppression-division-raids-two-bars-in-pattaya-finds-two-minors-at-one-location/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260227_020413.jpg?v=1772132747"
+        }
+      ],
+      "collected_at": "02:38",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260227_020413.jpg?v=1772132747",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "치앙마이에서 한국인, 방화 및 트럭 절도 혐의로 체포",
+      "summary": "- 태국 북부 치앙마이에서 한국인 남성이 방화 및 차량 절도 혐의로 체포됨.\n- 용의자는 쓰레기에 불을 지르고 픽업 트럭을 훔쳐 운전한 혐의를 받음.\n- 경찰은 용의자가 정신 질환 병력이 있으며 한국 영사관과 협력 중이라고 밝힘.",
+      "full_translated": "치앙마이 – 2026년 2월 26일, 한 한국인 남성이 태국 북부의 한 마을에서 난동을 부려 쓰레기에 불을 지르고 픽업 트럭을 훔친 혐의로 경찰에 체포되었다고 현지 관리들이 밝혔다. 찬티라 타통은 반매카우 4번 마을 촌장으로, 이번 사건은 2026년 2월 25일 오전 7시경에 발생했다고 밝혔다. 마을 주민들은 40대로 추정되는 한국인 남성이 전날 밤 지역 사회에서 소란을 피웠다고 보고했다. 그는 나중에 돌아와 마을을 배회하다가 빈 땅에 쓰레기를 태워 짙은 연기를 일으키는 모습이 목격되었다. 그 남성은 또한 Prasert Diesel 가게 소유의 검은색 4도어 닛산 픽업 트럭을 훔쳐 그 지역을 운전한 혐의를 받고 있다. 현지 행정 관리들은 경찰과 협력하여 그 남성을 체포하고 차량 소유주의 불만을 기록했다. 그는 절도 및 사유 재산 손괴 혐의로 기소될 예정이다. 관리들은 그 남성이 신분증을 소지하지 않았고 태국어를 할 수 없었다고 말했다. 영어로 질문했을 때 그는 횡설수설했고 정신 불안정 증세를 보였다. 당국은 한국 영사관에 연락하여 그 남성이 정신 질환 병력이 있음을 확인했다. 한국에 있는 친척들이 그를 찾고 있었다고 한다. 영사관은 그의 가족과 협력하여 태국으로 왔다. 경찰은 그 남성을 병원에 입원시켰다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 한국인 범죄 발생 소식으로, 여행 시 주의를 요할 수 있어 중간 점수 부여. 사건이 치앙마이에서 발생하여 방콕 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-02-25",
+        "location": "치앙마이, 반매카우 4번 마을",
+        "price": null,
+        "location_google_map_query": "Ban Mae Kaw, Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Korean man arrested over fire and truck theft",
+          "url": "https://www.khaosodenglish.com/news/2026/02/26/korean-man-arrested-over-fire-and-truck-theft/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Korean-man-arrested-over-fire-and-truck-theft.jpg"
+        }
+      ],
+      "collected_at": "02:38",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Korean-man-arrested-over-fire-and-truck-theft.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "태국, 외국인에게 불친절하고 비싸지는 여행지인가?",
+      "summary": "- 최근 태국이 외국인 관광객에게 비싸고 불친절하다는 불만이 제기됨.\n- 높은 임금의 국가(한국 포함) 출신이라면 불평하기 어려울 수 있다는 의견 제시.\n- 관광청은 택시 사기 등 부당 행위를 단속하여 경쟁력을 높여야 한다는 주장.",
+      "full_translated": "최근 몇 주 동안 태국 현지 뉴스 헤드라인은 일부 외국인 관광객들의 불만으로 가득 차 있습니다. 그들은 태국이 너무 비싸지고 있으며, 일부 태국인들이 방문객에게 불친절하거나 심지어 무례하게 대한다고 주장합니다. 독자 여러분, 태국이 무례한 사회가 되어가고 있으며 외국인 방문객에게 너무 비싸다고 생각하십니까? 저는 여기서 합의를 기대하지 않지만, 이러한 주제는 주관적이고 상대적이라는 점을 지적하고 싶습니다. 북유럽, 미국, 일본, 싱가포르, 심지어 한국과 같이 평균 임금이 태국의 몇 배나 높은 부유한 국가에서 왔다면 불평해서는 안 된다고 생각합니다. 그렇습니다. 호치민시나 카트만두가 방콕보다 다소 저렴할 수 있지만, 각 목적지는 고유한 매력과 호소력을 가지고 있습니다. 더욱이, 마지막 1달러, 유로 또는 한국 원까지 최소화하는 것이 주된 목표라면 왜 여행을 가고 싶은지 물어볼 가치가 있을 것입니다. 이것은 태국이 지역 경쟁국과의 가격 비교에 면역되어 있다는 의미는 아닙니다. 하지만 제 요점은 일반 근로 계층 태국인의 삶이 충분히 힘들다는 것입니다. 우리는 임금이 더 낮아지기를 기대할 수 없습니다. 많은 사람들이 이미 불완전 고용 상태이거나 기본적인 생활을 보장하는 진정한 생활 임금을 벌지 못하고 있습니다. 물론 태국 관광청(TAT)은 택시 사기 및 운전자가 요금을 사용하지 않으려는 등의 기타 사기 행위를 단속함으로써 국가를 더욱 매력적이고 경쟁력 있게 만들 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 대한 전반적인 인식 변화 가능성을 시사. 가격 및 서비스에 대한 불만은 여행 만족도에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Is Thailand becoming rude and expensive for foreign visitors?",
+          "url": "https://www.khaosodenglish.com/featured/2026/02/26/is-thailand-becoming-rude-and-expensive-for-foreign-visitors/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Is-Thailand-becoming-rude-and-expensive-for-foreign-visitors.jpg"
+        }
+      ],
+      "collected_at": "02:38",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Is-Thailand-becoming-rude-and-expensive-for-foreign-visitors.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "캄팽펫, 비례대표 재검표: 2개 투표소에서 표 손실, 무효표 2장, 기권표 1장 발생",
+      "summary": "- 캄팽펫 선거관리위원회에서 비례대표 선거 재검표 진행.\n- 2개 투표소에서 투표수와 실제 투표용지 수 불일치 확인.\n- 사라진 표는 무효표 2장, 기권표 1장으로 밝혀짐.",
+      "full_translated": "캄팽펫에서 비례대표 국회의원 투표를 다시 집계합니다. 2개 투표소의 투표 용지 수는 2월 8일 선거일과 일치합니다. 사라진 표는 무효표 2장과 기권표 1장입니다. 2월 26일 오후 2시, 캄팽펫 주 선거관리위원회 사무실에서 비례대표 국회의원 선거 투표를 다시 집계하는 분위기는 엄격한 보안 속에 순조롭게 진행되었습니다. 캄팽펫 주 선거관리위원회(꼬꼬따)는 암프어 므앙 지역의 2개 투표소, 즉 텝나콘 구역의 14번 투표소와 니콤퉁포탈레 구역의 8번 투표소에서 새로운 비례대표 선거 투표를 실시하도록 주선했기 때문입니다. 투표 장소 내에서 선거관리위원회 직원과 관련 직원은 구역을 명확하게 나누어 장소를 준비했습니다. 철제 장벽과 구역 표시 테이프를 설치하여 질서를 유지하고 경찰과 행정관이 주변 지역의 평화를 면밀히 감시합니다. 담당 직원이 투표 용지를 부르고 참관인과 관심 있는 대중에게 공개적으로 투표 용지를 들어 보이는 동안 ... 초기 관찰 및 보고에 따르면 투표 과정에서 문제나 장애물이 발견되지 않았습니다. 담당 직원은 법률에 규정된 모든 절차를 완료할 수 있었습니다. 일부 시민들은 울타리 밖 지역에서 투표 집계를 면밀히 따르기 위해 여행을 왔습니다. 오후 3시에 투표를 시작한 후 2개 투표소 모두 투표를 완료하는 데 약 1시간이 걸렸습니다. 투표할 자격이 있는 사람의 수는 부족하거나 초과 없이 원본과 일치하는 것으로 나타났습니다. 투표 용지에는 유효표, 무효표, 투표하지 않은 표가 모두 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "단순 재검표 관련 소식으로 여행객에게 직접적인 영향은 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กำแพงเพชร นับใหม่ปาร์ตี้ลิสต์ 2 หน่วย คะแนนหายเป็นบัตรเสีย 2 ใบ ไม่ประสงค์ลงคะแนน 1 ใบ",
+          "url": "https://www.thairath.co.th/news/politic/2916739",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDumfoWN0qKBN.jpg"
+        }
+      ],
+      "collected_at": "02:38",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoDumfoWN0qKBN.jpg",
       "date": "2026-02-27"
     }
   ]
