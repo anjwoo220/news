@@ -40564,14 +40564,9 @@
       "summary": "- 파타야의 한 주택에서 무장 괴한들이 2백만 바트가 든 금고를 훔쳐 달아났습니다.\n- 피해자는 외국인 남성과 태국인 여자친구, 그리고 친구입니다.\n- 경찰은 용의자들을 추적 중입니다.",
       "full_translated": "파타야에서 무장 괴한들이 영국인 거주자의 집에 침입하여 거주자들을 제압하고 2백만 바트의 현금이 들어 있는 금고를 훔쳐 달아나는 사건이 발생했습니다. 현재 용의자들을 추적 중입니다.\n\n사건은 초크차이 빌리지 9의 2층 타운하우스에서 밤 11시 6분경에 발생했습니다. 농프루 경찰서 부서장인 찬차이 송완삭스리 경찰 중령은 신고를 받고 즉시 농프루 경찰서장인 나타폰 퐁 숙 사쿤 경찰 대령에게 알렸습니다. 수사팀과 관광 경찰이 현장으로 급파되었습니다.\n\n피해자인 웨슬리 씨는 32세의 영국 국적자로 해외에서 요리사로 일하고 있으며, 34세의 태국인 여자친구 찬디 씨(성은 공개되지 않음)와 영국인 친구와 함께 집에 있었습니다. 그들의 진술에 따르면, 집 안에서 휴식을 취하고 있던 중 복면을 쓴 3명의 용의자가 칼로 무장한 채 들이닥쳤습니다. 강도들은 영국인 남성의 목에 칼을 대고 돈이 어디에 있는지 물었습니다. 그들은 피해자들과 친구를 부엌으로 몰아넣고 아이폰 2대(아이폰 16과 아이폰 14)를 낚아채고 제압했습니다. 찬디 씨가 도망치려 하자 끌려 돌아왔습니다. 그런 다음 강도들은 위층으로 올라가 2백만 바트 이상의 현금이 들어 있는 금고를 찾아 들고 나갔습니다. 이 돈은 부부가 집을 사기 위해 인출한 자금이었습니다. 용의자들은 침착하게 집을 빠져나가 밖에 주차된 검은색 픽업트럭을 타고 마을을 빠져나갔습니다. 탈출 과정에서 경비 초소의 보안 장벽을 들이받은 것으로 알려졌습니다. 피해자들은 충격과 공포에 휩싸였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 직접적인 위협을 가하는 범죄 사건으로, 파타야를 방문하는 여행객들에게 주의를 환기시킬 필요가 있음. 특히 야간에 발생한 사건이므로 안전에 대한 경각심을 높여야 함.",
-      "event_info": {
-        "date": null,
-        "location": "파타야, 초크차이 빌리지 9",
-        "price": null,
-        "location_google_map_query": "Chokchai Village 9, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야, 초크차이 빌리지 9', 'price': None, 'location_google_map_query': 'Chokchai Village 9, Pattaya'}",
       "references": [
         {
           "title": "Armed Hooded Gang Robs British Expat’s Home in Pattaya, Restrains Residents, Steals Safe Containing 2 Million Baht in Cash, Manhunt Underway for Suspects",
@@ -40580,23 +40575,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772135877766.jpg?v=1772135939"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772135877766.jpg?v=1772135939",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/27/armed-hooded-gang-burglarizes-british-expats-home-in-pattaya-steals-safe-containing-2-million-baht-in-cash-manhunt-underway-for-suspects/",
+      "source": ""
     },
     {
       "title": "촌부리 스리라차, 꽃 판매상 사망: Sukhumvit 도로 다중 차량 충돌 사고",
       "summary": "- 스리라차 Sukhumvit 도로에서 다중 차량 충돌 사고 발생, 꽃 판매상 사망\n- MG 세단이 오토바이 후미를 들이받아 발생, 뒤따르던 트럭이 오토바이와 운전자를 덮침\n- 55세 남성 꽃 판매상이 현장에서 사망, 경찰이 사고 경위 조사 중",
       "full_translated": "촌부리 스리라차의 Sukhumvit 도로에서 발생한 다중 차량 충돌 사고로 꽃 판매상이 사망했습니다. 차량 블랙박스 영상에는 회색 MG 세단이 고가도로에서 내려오다 검은색 야마하 오토바이 후미를 들이받는 장면이 담겼습니다. 오토바이는 꽃 장식('pumphuang')과 건설 현장에서 판매할 채소를 가득 싣고 있었으며, 충돌로 인해 전복되었습니다. 잠시 후 뒤따르던 트레일러 트럭이 전복된 오토바이와 운전자를 덮쳐 치명적인 부상을 입혔습니다. 사고는 오늘 오전 8시 45분경 Thung Sukhla 지역의 한 대학교 앞에서 발생했습니다. Sawang Prateep Sri Racha 구조대의 긴급 구조 요원들이 Laem Chabang 경찰서 경찰, 구조 자원 봉사자, Laem Chabang 병원 의료진과 함께 현장에 도착했습니다. 현장에서 경찰은 야마하 오토바이가 3차선에 놓여 있는 것을 발견했으며, 채소와 화환이 흩어져 있었습니다. 오토바이 운전자인 Son Dokpikul(55세)은 심한 찰과상과 다리 골절로 인해 의식을 잃은 채 근처에 쓰러져 있었습니다. 구조대원들이 즉시 심폐소생술을 시도했으나, 부상의 정도가 심해 곧 사망 판정을 받았습니다. MG 세단은 후방 충돌로 인한 명확한 손상 징후를 보였으며, 사이드 미러가 깨지고 보닛에 채소 잔해가 묻어 있었습니다. 운전자인 Nilubon Watthanaphan(55세)은 충격을 받은 채 현장에 남아 당국에 협조했습니다. 경찰 조사에서 Nilubon은 Banglamung 지역으로 출근하던 중이었다고 진술했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행자가 많이 이용하는 Sukhumvit 도로에서 발생한 교통사고 소식. 안전에 유의해야 함.",
-      "event_info": {
-        "date": "2024-02-27",
-        "location": "스리라차, Sukhumvit 도로",
-        "price": null,
-        "location_google_map_query": "Sukhumvit Road Sri Racha"
-      },
+      "event_info": "{'date': '2024-02-27', 'location': '스리라차, Sukhumvit 도로', 'price': None, 'location_google_map_query': 'Sukhumvit Road Sri Racha'}",
       "references": [
         {
           "title": "Dashcam Captures Tragic Multi-Vehicle Collision on Sukhumvit Road in Sri Racha, Claiming Life of Flower Vendor",
@@ -40605,23 +40597,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721241644102276328832735029768.jpg?v=1772124224"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721241644102276328832735029768.jpg?v=1772124224",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/dashcam-captures-tragic-multi-vehicle-collision-on-sukhumvit-road-in-sri-racha-claiming-life-of-flower-vendor/",
+      "source": ""
     },
     {
       "title": "시라차 지역, 학교 사고로 부상당한 14세 학생 방문, 관련 콜센터 사기 사건에서 경찰 자금 세탁 운반책 체포",
       "summary": "- 시라차 지역의 한 학교에서 14세 학생이 건물에서 떨어져 부상을 입음.\n- 지역 관계자들이 병원을 방문하여 격려와 함께 재정 지원을 제공함.\n- 경찰은 이 사건이 콜센터 사기와 관련되어 있음을 의심하고 수사 중이며, 자금 세탁에 사용된 계좌의 소유자를 체포함.",
       "full_translated": "시라차 지역의 농캄 구역에 있는 한 학교의 14세 배구 선수인 '미스 A'(가명)가 건물에서 떨어져 부상을 입었습니다. 현재 병원에서 치료를 받고 있습니다. 대표단은 시라차 지역 사회 개발 기금(PCho)과 지역 적십자사 지부의 재정 지원, 구호품과 함께 어린 소녀에게 격려의 말을 전했습니다. 솜뎃 프라 보롬 라차테위 나 시 라차 병원의 소미옷 뢰트진다퐁 부원장이 방문객을 맞이했습니다.최신 의료 업데이트에 따르면 미스 A는 경미한 뇌출혈과 신체의 다양한 부위에 상처가 있지만 생명에는 지장이 없는 안정적인 상태입니다. 정상적인 의사 소통이 가능하고 정신 건강이 양호하며 스트레스나 불안 징후를 보이지 않습니다. 그녀는 앞으로 2주 동안 더 입원할 것으로 예상됩니다. 시라차 공중 보건소는 2026년 3월 2일 월요일에 가정 방문을 실시하여 가족이 집에서 지속적인 회복을 할 수 있도록 준비할 계획입니다. 이 사건은 10대 소녀를 표적으로 삼은 콜센터 사기와 관련이 있는 것으로 의심되어 주목을 받고 있습니다. 제2 지방 경찰청의 경찰 수사관은 이 사건에서 진전을 보였습니다. 당국은 사기에 사용된 '자금 세탁' 은행 계좌의 소유자를 성공적으로 추적하여 체포했습니다. 용의자는 학교가 있는 관할 구역인 농캄 경찰서로 이송되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 콜센터 사기 연루 가능성이 있으므로 주의가 필요.",
-      "event_info": {
-        "date": null,
-        "location": "시라차, 농캄",
-        "price": null,
-        "location_google_map_query": "Nong Kham, Sriracha, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '시라차, 농캄', 'price': None, 'location_google_map_query': 'Nong Kham, Sriracha, Thailand'}",
       "references": [
         {
           "title": "Sriracha District Chief Visits 14-Year-Old Student Injured in School Fall, Police Arrest Money Mule in Related Call Center Scam Case",
@@ -40630,23 +40619,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721232839407810236204585087598.jpg?v=1772123437"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17721232839407810236204585087598.jpg?v=1772123437",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/sriracha-district-chief-visits-14-year-old-student-injured-in-school-fall-police-arrest-money-mule-in-related-call-center-scam-case/",
+      "source": ""
     },
     {
       "title": "아프가니스탄, 파키스탄 군 기지 공격… \"다수의 사상자 발생\"",
       "summary": "- 아프가니스탄이 파키스탄의 공습에 대한 보복으로 군사 작전을 개시했습니다.\n- 탈레반은 파키스탄 군 기지를 공격하여 다수의 사상자가 발생했다고 주장했습니다.\n- 파키스탄 정부는 아프가니스탄의 공격을 '도발 없는 총격'으로 규정하며 강력히 대응할 것이라고 밝혔습니다.",
       "full_translated": "아프가니스탄이 국경 지역에서 파키스탄 군 기지를 공격하는 군사 작전을 개시했습니다. 이는 며칠 전 파키스탄의 공습에 대한 보복으로 이루어졌습니다. 외신에 따르면 탈레반 정부 관계자는 아프가니스탄이 파키스탄 군의 공격에 대응하기 위해 국경 지역에서 파키스탄 군 기지에 대한 '대규모' 군사 작전을 개시했다고 밝혔습니다.\n\n탈레반 대변인 자비훌라 무자히드는 X 앱을 통해 '파키스탄 군의 반복적인 국경 침범과 불안정 조성 행위에 대응하기 위해 파키스탄 군의 사령부와 군사 시설에 대한 선제적 대규모 작전이 개시되었다'고 밝혔습니다. 무자히드는 이번 작전으로 '많은' 파키스탄 군인이 사망하고 일부는 생포되었다고 덧붙였습니다. 국경 지역 공격은 목요일 20시경에 시작되었으며, 탈레반 군은 15개의 군사 기지를 점령할 수 있었습니다.\n\n파키스탄 정부는 탈레반이 오판하여 북서부 카이베르파크툰콰 지역의 국경을 따라 여러 지역에서 도발 없이 총격을 가했다고 밝혔습니다. 파키스탄 정보부에서 X를 통해 공유한 성명에 따르면 '초기 보고서에서는 아프가니스탄 측에 막대한 피해가 발생했으며, 여러 기지와 장비가 파괴되었다'고 밝혔습니다. '파키스탄은 자국 영토의 완전성과 국민의 안전 및 안보를 유지하기 위해 필요한 모든 조치를 취할 것입니다.'\n\n아프가니스탄의 군사 작전은 파키스탄 정부가 이번 주 초 아프가니스탄을 공습한 이후에 발생했습니다. 탈레반은...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없으나, 인접 국가의 분쟁 상황은 인지할 필요가 있음. 정치적 불안정으로 인해 국경 지역 여행에 잠재적 위험이 있을 수 있다는 점을 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อัฟกานิสถานเอาคืน โจมตีกองทัพปากีสถาน อ้างทหารดับอื้อ",
@@ -40655,23 +40641,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFBZ8skPnNfxE.jpg"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFBZ8skPnNfxE.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/foreign/2916744",
+      "source": ""
     },
     {
       "title": "파타야, Father Ray 재단 자선 볼링 이벤트 개최",
       "summary": "- Father Ray 재단, 불우 아동 및 장애인 지원을 위한 자선 볼링 대회 개최.\n- 2026년 3월 1일 오전 11시부터 오후 3시까지 SF Strike Bowl Pattaya에서 진행.\n- 참가자들은 볼링을 즐기며 재단의 미션에 동참 가능.",
       "full_translated": "Father Ray 재단은 이번 주말 연례 자선 볼링 이벤트를 개최합니다!\n\n이 행사는 2026년 3월 1일 일요일 오전 11시부터 오후 3시까지 도시의 인기 볼링장인 SF Strike Bowl Pattaya에서 열릴 예정입니다. 이 자선 볼링 대회는 참가자들을 초대하여 재미있는 볼링을 즐기면서 재단의 불우한 어린이, 고아 및 장애인에 대한 보살핌, 교육 및 기회 제공 미션을 지원합니다. 이 행사는 휠체어를 탄 어린이들과 지지자들이 함께 활동을 즐기는 과거 에디션의 사진들과 함께 포용성을 장려합니다. 고 레이몬드 브레넌 신부(일반적으로 Father Ray로 알려짐)에 의해 1974년에 설립된 Father Ray 재단은 파타야에 기반을 둔 잘 알려진 태국 자선 단체입니다. 이 재단은 약 850명의 소외된 어린이와 장애 학생들을 돌보고 교육합니다. 주요 프로그램으로는 고아 및 버려진 어린이를 위한 가족과 같은 환경을 제공하는 Father Ray Children’s Village, 특수 아동 학교, 장애인 기술 대학, 데이 케어 센터 및 직업 훈련 이니셔티브가 있습니다. 이 조직은 농업과 같은 프로젝트를 통해 자립에 중점을 두고 있으며 궁핍한 어린이를 결코 외면하지 않습니다. Father Ray는 2003년에 사망했지만 그의 유산은 기부금, 자원 봉사자 및 지역 사회 행사의 지원을 받아 이러한 노력을 통해 계속되고 있습니다. 볼링 모금 행사의 23번째 에디션은 지역 사회 참여의 오랜 전통의 일부입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야 지역 행사 정보, 여행객에게 소소한 즐길 거리가 될 수 있지만, 필수 정보는 아님.",
-      "event_info": {
-        "date": "2026-03-01",
-        "location": "SF Strike Bowl Pattaya",
-        "price": "모금 행사, 가격 정보는 확인 필요",
-        "location_google_map_query": "SF Strike Bowl Pattaya"
-      },
+      "event_info": "{'date': '2026-03-01', 'location': 'SF Strike Bowl Pattaya', 'price': '모금 행사, 가격 정보는 확인 필요', 'location_google_map_query': 'SF Strike Bowl Pattaya'}",
       "references": [
         {
           "title": "Father Ray Foundation Gears Up For Annual Charity Bowling Event This Weekend!",
@@ -40680,8 +40663,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17720965212451497029047107100089.jpg?v=1772116754"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17720965212451497029047107100089.jpg?v=1772116754",
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/father-ray-foundation-gears-up-for-annual-charity-bowling-event-this-weekend/",
+      "source": ""
+    },
+    {
+      "title": "파타야, 중국인 관광객 대상 강도 사건 발생: 트랜스젠더 용의자 체포",
+      "summary": "- 파타야에서 중국인 관광객이 트랜스젠더들에게 금품을 강탈당하는 사건 발생.\n- 경찰은 용의자인 20세 아티쿤 므앙뭉쿤을 체포하고, 호텔 CCTV와 도난당한 아이폰을 증거로 확보.\n- 용의자는 과거 독일인 관광객 대상 폭행 및 강도 사건에도 연루된 전력이 있음.",
+      "full_translated": "파타야 관광 경찰이 중국인 관광객 강도 사건의 트랜스젠더 용의자를 체포했습니다.\n\n체포는 파타야 지방 법원이 발부한 영장(2026년 2월 25일자 J.114/2569호)에 따른 것입니다. 용의자는 20세의 아티쿤 므앙뭉쿤으로 확인되었으며, 소이 파타야 13/2에 있는 거주지 502호에서 구금되었습니다. 이번 작전은 관광 경찰 2지역 4분과 프랍다 숙선티 서장이 이끌었으며, 이는 관광객을 대상으로 약탈 행위를 벌여 파타야의 안전한 관광지 이미지를 훼손하는 개인, 특히 트랜스젠더 여성을 단속하라는 지시에 따른 것입니다.\n\n사건은 2026년 2월 1일 새벽에 발생했는데, 중국인 관광객이 호텔 방에서 알몸으로 뛰쳐나와 호텔 직원에게 도움을 요청했고, 직원이 경찰에 신고했습니다. 피해자는 파타야 해변에서 두 명의 트랜스젠더 여성을 만나 자신의 방으로 초대했다고 주장했습니다. 그곳에서 그들은 그를 위협하고 현금 10,000바트와 아이폰 15 프로 맥스 스마트폰을 훔쳐 달아났다고 합니다.\n\n급습 동안 경찰은 방에서 5명의 트랜스젠더 개인을 발견했는데, 그중 일부는 침대에서 잠들어 있었습니다. 용의자는 인상착의가 일치했고 신원이 확인되었습니다. 경찰은 호텔 CCTV 영상과 회수된 도난당한 아이폰을 주요 증거로 제시했고, 용의자는 저항 없이 투항했습니다. 당국은 이 그룹의 구성원들이 이전에 파타야 해변에서 독일인 관광객을 대상으로 한 폭행 및 강도 사건과 관련이 있었으며, 일부 공범은 이미 체포되었다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 관광객 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공 필요.",
+      "event_info": {
+        "date": "2026-02-01",
+        "location": "파타야 해변 인근 호텔",
+        "price": "미상",
+        "location_google_map_query": "Pattaya Beach"
+      },
+      "references": [
+        {
+          "title": "Pattaya Tourist Police Arrest Transgender Suspect in Robbery of Chinese Tourist",
+          "url": "https://thepattayanews.com/2026/02/26/pattaya-tourist-police-arrest-transgender-suspect-in-robbery-of-chinese-tourist/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260226_1839237163782682669887317.jpg?v=1772106034"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260226_1839237163782682669887317.jpg?v=1772106034",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "파타야 프라탐낙 Soi 6에서 큰 나무 쓰러져 전신주 연쇄 붕괴, 광범위한 정전 발생",
+      "summary": "- 2026년 2월 25일 오후 6시경 파타야 프라탐낙 Soi 6에서 큰 나무가 쓰러져 전신주를 덮치면서 연쇄 붕괴 발생.\n- 이 사고로 인해 해당 지역에 광범위한 정전이 발생했으며, 주택, 상점, 관광 지역이 영향을 받음.\n- 관계 당국은 현장에 출동하여 안전 확보 후 복구 작업을 진행 중이며, 정확한 사고 원인을 조사 중.",
+      "full_translated": "2026년 2월 25일 오후 6시경, 파타야 프라탐낙 Soi 6에서 큰 나무가 쓰러져 전신주를 덮치면서 연쇄 붕괴를 일으켜 광범위한 정전이 발생했습니다. 지방 전력청(PEA) 직원, 지역 당국, 구조팀이 긴급히 대응에 나섰습니다. 현장에 도착한 관계자들은 수많은 전신주가 부러져 도로에 흩어져 있고, 활선이 위험하게 늘어져 있어 주민과 통행인에게 심각한 위험을 초래하는 것을 발견했습니다. PEA 팀은 안전을 확보하기 위해 해당 구역의 전력을 즉시 차단한 후 피해 평가 및 정리 작업을 시작했습니다. 쓰러진 나무와 엉킨 전선은 또한 교통을 방해하여 해당 지역의 도로를 폐쇄해야 했습니다. 목격자 아리사 와나킷(35세)은 \"큰 나무가 부러져 머리 위의 전력선을 덮치면서 첫 번째 전신주를 쓰러뜨리고 연쇄 반응을 일으켜 더 많은 전신주가 차례로 쓰러졌습니다.\"라고 혼란스러운 상황을 묘사했습니다. 정전은 주택, 상점, 인근 관광 지역에 영향을 미쳐 주민들이 전기가 끊기고 상당한 불만을 토로했습니다. 아리사는 이전에 위험한 나무를 관련 당국에 보고하여 사고를 유발할 수 있다는 우려를 표명했지만 가지치기나 제거 조치가 취해지지 않았다고 덧붙였습니다. 그녀는 \"이런 일이 일어날 수 있다고 경고했지만 실제로 일어나기 전까지는 아무 조치도 취해지지 않았습니다.\"라고 말했습니다. 나무가 쓰러진 원인은 구조적 약점일 가능성이 있으며 조사 중입니다. 여러 대의 차량이 손상되었지만 다행히 부상자는 없었습니다. 이번 사건으로 인해 사전 예방적 나무 유지 관리에 대한 지역 사회의 요구가 다시 높아졌습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 지역의 정전으로 관광객에게 불편 초래 가능성, 안전 문제 발생 가능성 고려. 교통 통제 정보 포함.",
+      "event_info": {
+        "date": "2026-02-25",
+        "location": "파타야 프라탐낙 Soi 6",
+        "price": null,
+        "location_google_map_query": "Pattaya Phratamnak Soi 6"
+      },
+      "references": [
+        {
+          "title": "Large Tree Collapse Triggers Chain Reaction as Power Poles Topple in Pattaya’s Phratamnak Soi 6, Causing Widespread Blackout",
+          "url": "https://thepattayanews.com/2026/02/26/large-tree-collapse-triggers-chain-reaction-as-power-poles-topple-in-pattayas-phratamnak-soi-6-causing-widespread-blackout/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1772035631148.jpg?v=1772124614"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1772035631148.jpg?v=1772124614",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "파타야 이민국, 불법 마작 도박 혐의로 중국인 4명 체포",
+      "summary": "- 파타야 이민국은 2026년 2월 26일 새벽 1시경, 파타야 세컨드 로드에서 불법 도박 활동에 대한 첩보를 입수하여 급습을 실시함.\n- 현장에서 마작 게임을 하던 중국인 남성 4명을 체포하고, 마작 테이블, 마작 타일 세트, 도박 칩을 압수함.\n- 용의자들은 파타야 경찰서로 이송되어 태국 도박 관련 법률에 따라 추가 법적 절차를 밟을 예정임.",
+      "full_translated": "파타야 뉴스는 파타야 이민국이 불법 마작 도박 활동에 대한 첩보를 입수하여 2026년 2월 26일 새벽 1시경 파타야 세컨드 로드에서 급습을 실시했다고 보도했습니다. 현장에서 당국은 네 명의 중국인 남성이 테이블 주위에서 마작 게임에 열중하고 있는 것을 발견했습니다. 경찰은 즉시 신분을 밝히고 저항없이 그룹을 체포했습니다. 압수된 증거에는 마작 테이블 1개, 마작 타일 세트 1개, 현금 대신 사용된 도박 칩이 포함되었습니다. 용의자 4명은 압수된 물품과 함께 구금되어 태국 도박 및 관련 법률에 따라 추가 법적 절차를 위해 파타야 경찰서 수사관에게 이송되었습니다. 이민국은 아직 체포된 개인의 이름을 공개하지 않았으며 사건에 대한 자세한 내용을 언론에 제공하지 않았습니다. 당국은 상사에게 보고하고 초기 절차를 완료한 후 추가 정보를 제공할 것이라고 밝혔습니다. 태국은 세계에서 가장 엄격한 반도박 법률을 가지고 있으며 개인적인 도박 게임조차 금지하고 있다고 파타야 뉴스는 지적합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 대상 범죄 소식은 여행객에게 주의를 요하므로 포함. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-02-26",
+        "location": "파타야 세컨드 로드",
+        "price": null,
+        "location_google_map_query": "Pattaya Second Road"
+      },
+      "references": [
+        {
+          "title": "Pattaya Immigration Officers Raid Building, Arrest Four Chinese Nationals for Illegal Mahjong Gambling",
+          "url": "https://thepattayanews.com/2026/02/26/pattaya-immigration-officers-raid-building-arrest-four-chinese-nationals-for-illegal-mahjong-gambling/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260226_180914.jpg?v=1772104220"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260226_180914.jpg?v=1772104220",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "파타야: 태국 내 법적 절차 및 문서 관련 정보",
+      "summary": "- 파타야에서 필요한 법적 문서의 공증 및 인증 서비스 제공.\n- 계약서, 사업 거래, 개인 합의서에 대한 공증 서비스 제공.\n- 국제 표준 준수 및 현지 전문 지식 결합.",
+      "full_translated": "파타야에 위치한 Anglo Siam Legal에서는 태국과 국제법 간의 간극을 좁혀 빠르고 간편하며 번거로움 없는 서비스를 제공합니다. 주요 서비스는 다음과 같습니다.\n\n• 문서 인증: 모든 필수 서류에 대한 빠르고 안전한 공증.\n• 증서 인증: 신뢰할 수 있는 증서 및 소유권 문서 공증을 통해 투자 보호.\n• 서명 증인: 비자 신청을 스트레스 없이 진행할 수 있도록 국제 요구 사항 준수.\n• 합의 유효성 확인: 계약, 사업 거래 및 개인 합의에 대한 전문적인 공증.\n• 위임장(POA) 작성: POA 문서를 정확하고 신중하게 작성, 공증 및 인증합니다.\n\n저희 사무실은 Big C Pattaya Tai 맞은편에 편리하게 위치해 있으며, 넓은 주차 공간과 쉬운 접근성을 갖추고 있습니다. 국제 표준과 현지 전문 지식을 결합하여 모든 단계에서 귀하의 이익을 보호하는 방법을 알아보십시오.\n\n방문: 월요일~금요일 | 오전 9시 – 오후 5시\n📍 위치: Big C Pattaya South(Pattaya Tai) 맞은편\n문의: • 웹사이트: https://anglosiamlegal.com/ • 페이스북: https://www.facebook.com/Anglosiamlegal/ • 유튜브: https://www.youtube.com/@AngloSiamLegal • 이메일: info@anglosiamlegal.com • 전화: 0610184790\n\n면책 조항: 여기에 포함된 모든 법률 또는 기타 정보는 태국 변호사 협회 회원인 면허를 취득한 변호사가 제공하거나 엄격한 협의 하에 제공됩니다. 클라이언트 관리자 겸 CEO는 변호사이지만...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행 중 법적 문제 발생 시 유용한 정보 제공. 파타야 위치 정보 포함.",
+      "event_info": {
+        "date": null,
+        "location": "Big C Pattaya South 맞은편",
+        "price": null,
+        "location_google_map_query": "Big C Pattaya South"
+      },
+      "references": [
+        {
+          "title": "Legal Corner: Navigating Legal Documentation in Thailand",
+          "url": "https://thepattayanews.com/2026/02/26/legal-corner-navigating-legal-documentation-in-thailand/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17721155576531974176998984253725.jpg?v=1772115823"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17721155576531974176998984253725.jpg?v=1772115823",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "타이항공, F-35 부품 운송 주장에 대해 부인",
+      "summary": "- 타이항공은 F-35 항공기 부품을 이스라엘로 운송했다는 주장에 대한 호주 시위대의 소셜 미디어 보고서에 대해 해명했습니다.\n- CEO 차이 이암시리는 타이항공은 국제 표준에 따라 승객과 화물을 운송하는 것이 전략적 역할이라고 밝혔습니다.\n- 그는 화물 수락에 대한 프로토콜과 표준이 있으며, 세관 당국이 품목의 합법성 여부를 판단한다고 덧붙였습니다.",
+      "full_translated": "방콕 — 2026년 2월 26일, 타이항공 인터내셔널은 호주 시위대가 타이항공이 F-35 항공기 부품을 이스라엘로 운송했다는 주장에 대해 항의한 소셜 미디어 보고서에 대해 해명했습니다. 차이 이암시리 타이항공 인터내셔널 최고경영자는 상업 운영자로서 항공사의 전략적 역할은 국제 표준에 따라 승객과 화물을 운송하는 것이라고 말했습니다. 일부 시장에서는 모든 화물 용량을 직접 판매하지 않고 다른 항공사와 인터라인 또는 파트너 계약을 맺고 있으며, 이는 항공 업계의 표준 관행입니다. 회사는 화물 신고서를 확인하여 물품의 성격을 확인하는 등 화물 수락에 대한 프로토콜과 표준을 가지고 있습니다. 그러나 품목을 물리적으로 검사하고 품목이 합법적인지 여부를 결정할 권한은 항공사가 아닌 각 국가의 세관 당국에 있습니다. 차이 대표는 “안전 측면에서 화물이 위험물로 분류되면 운송하지 않습니다. 강철 자동차 부품과 같은 일반 부품으로 구성된 경우 X선 검사를 통해 물체의 성격을 파악하고 정상적인 사업 관행에 따라 운송합니다. 품목이 법률을 준수하는지 여부를 결정하는 것은 각 국가의 세관 당국입니다.”라고 말했습니다. 그는 지금까지 해당 시장에서 좌석 예약이나 화물량에 미치는 영향은 없다고 말했습니다. 항공사의 경영진은 계속해서 상황을 주시하고 있습니다. 그는 또한 개인 fa",
+      "category": "BUSINESS",
+      "tourist_impact_score": 2,
+      "impact_reason": "항공 화물 운송 관련 이슈로, 여행객에게 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai Airways denies F-35 parts transport claim",
+          "url": "https://www.khaosodenglish.com/news/2026/02/26/thai-airways-denies-f-35-parts-transport-claim/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Airways-denies-F-35-parts-transport-claim.jpg"
+        }
+      ],
+      "collected_at": "04:02",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Airways-denies-F-35-parts-transport-claim.jpg",
       "date": "2026-02-27"
     }
   ]
