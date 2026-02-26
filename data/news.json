@@ -38893,14 +38893,9 @@
       "summary": "- 태국은 올해 초부터 약 6백만 명의 외국인 관광객을 맞이했습니다.\n- 이로 인해 약 3천억 바트의 수익이 발생했습니다.\n- 중국, 말레이시아, 러시아가 주요 방문객입니다.",
       "full_translated": "태국 정부는 올해 초부터 약 6백만 명의 외국인 관광객이 태국을 방문하여 거의 3천억 바트의 수익을 올렸다고 밝혔습니다. 중국, 말레이시아, 러시아인들이 주요 방문객입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업 현황을 보여주는 자료로, 여행객들의 태국 여행에 대한 간접적인 정보를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "6 million tourists boost economy",
@@ -38908,22 +38903,20 @@
           "source": "Bangkokpost.com : Thailand"
         }
       ],
-      "collected_at": "08:15",
-      "date": "2026-02-26"
+      "collected_at": "8:15",
+      "image_url": "",
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/thailand/general/3205360/6-million-tourists-boost-economy",
+      "source": ""
     },
     {
       "title": "체리 그룹, 태국 자동차 공장 개장 연기: 회장에게 예상치 못한 사고 발생",
       "summary": "- 체리 그룹 태국 자동차 공장 개장, 2월 26일 무기한 연기.\n- 개장식 예정된 날, 회장에게 예상치 못한 사고 발생.\n- 새 개장 날짜는 추후 공지 예정.",
       "full_translated": "체리 그룹은 태국 자동차 공장 개장일을 2월 26일에서 무기한 연기한다고 발표했습니다. 이유는 개장식에 참석 예정이었던 회장에게 예상치 못한 사고가 발생했기 때문입니다. 오모다 앤 제이쿠 (태국)과 체리 (태국)은 페이스북 페이지를 통해 공장 개장 연기 소식을 알렸습니다. 해당 공장은 라용 지역에 위치해 있습니다. 회사 측은 행사를 완벽하게 진행하기 위해 연기가 불가피했다고 밝혔으며, 불편을 끼쳐 드려 죄송하다고 덧붙였습니다. 새로운 개장 일정은 추후 공지될 예정입니다. 이번 개장 연기 소식은 행사 시작 불과 10시간 전에 언론과 딜러들에게 통보되어 의문을 자아내고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 경제 및 자동차 산업에 대한 정보 제공.",
-      "event_info": {
-        "date": "2024-02-26",
-        "location": "라용, 태국",
-        "price": null,
-        "location_google_map_query": "라용 태국"
-      },
+      "event_info": "{'date': '2024-02-26', 'location': '라용, 태국', 'price': None, 'location_google_map_query': '라용 태국'}",
       "references": [
         {
           "title": "CHERY Group เลื่อนวันเปิดโรงงานผลิตรถยนต์ในไทย ให้เหตุผลประธานเกิดเหตุสุดวิสัย",
@@ -38932,23 +38925,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFy4E8jwOSrzd.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFy4E8jwOSrzd.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2916522",
+      "source": ""
     },
     {
       "title": "제노, 싱가포르에서 열리는 큰 상금 대회에 출전",
       "summary": "- 태국 랭킹 1위 제노 티티쿨, 이번 주 싱가포르에서 열리는 2026 여자 월드 챔피언십에 참가\n- 뉴질랜드의 리디아 고도 디펜딩 챔피언으로 참가\n- 총 상금 300만 달러(약 9300만 바트) 규모의 토너먼트",
       "full_translated": "태국 랭킹 1위 제노 티티쿨이 이번 주 싱가포르 센토사 골프 클럽(탄종 코스)에서 열리는 2026 여자 월드 챔피언십에 참가합니다. 뉴질랜드의 리디아 고도 디펜딩 챔피언으로 복귀합니다. 총 상금 300만 달러(약 9300만 바트) 규모의 토너먼트 첫 라운드는 목요일에 시작되며, 우승자에게는 45만 달러(1400만 바트)가 수여됩니다. 제노와 랭킹 6위인 고 외에도 7명의 탑 10 선수들이 72명의 참가자가 참여하는 세계적인 수준의 필드에서 경쟁할 예정입니다. 태국 선수로는 아리야 주타누간, 파자리 아난나루칸, 차네티 완나센도 참가합니다. 제노는 일요일 파타야에서 열린 LPGA 태국에서 올해 첫 우승을 차지했습니다. 23세의 그녀는 작년 싱가포르 토너먼트에서 공동 2위를 기록했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 선수가 참가하는 국제 스포츠 경기 소식. 여행 자체에는 큰 영향이 없지만, 관심 있는 여행자에게는 흥미로운 정보가 될 수 있음.",
-      "event_info": {
-        "date": "2026-02-27",
-        "location": "Sentosa Golf Club, Singapore",
-        "price": "Unknown",
-        "location_google_map_query": "Sentosa Golf Club, Singapore"
-      },
+      "event_info": "{'date': '2026-02-27', 'location': 'Sentosa Golf Club, Singapore', 'price': 'Unknown', 'location_google_map_query': 'Sentosa Golf Club, Singapore'}",
       "references": [
         {
           "title": "Jeeno, top guns take aim at big purse in Singapore",
@@ -38957,23 +38947,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983290_700.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/26/5983290_700.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.bangkokpost.com/sports/3205190/jeeno-top-guns-take-aim-at-big-purse-in-singapore",
+      "source": ""
     },
     {
       "title": "지리(GEELY) EX2, 태국 내 첫 2,000대 인도 완료",
       "summary": "- 타논부리 노이 스턴, 태국 내 지리 EX2 2,000대 인도 완료 발표\n- 모터 엑스포에서 뜨거운 반응, 현재 누적 예약 6,000대 돌파\n- 생산량 증대 및 원활한 차량 공급 위해 중국 본사와 협력 중",
       "full_translated": "타논부리 노이 스턴(Thonburi Noi Stern)은 태국 내 공식 지리(GEELY) 자동차 수입 및 유통업체로서, GEELY EX2의 첫 2,000대 인도 완료를 발표했습니다. 42회 모터 엑스포에서 뜨거운 반응을 얻은 후 누적 예약이 6,000대를 넘어섰으며, 차량 배송을 가속화하기 위해 노력하고 있습니다. 타논부리 노이 스턴의 CEO인 나롱 씨탈라얀은 고객들의 뜨거운 성원에 감사를 표하며, 6,000대 이상의 예약이 접수되었다고 밝혔습니다. 모터 엑스포에서 예약한 고객들에게 2,000대를 인도했으며, 중국 공장의 생산 능력 제한에도 불구하고 지리 오토 인터내셔널 코퍼레이션과 긴밀히 협력하여 생산량을 늘리고 3월부터 태국에 차량 공급을 늘릴 계획입니다. 또한, 고객의 수요를 충족시키기 위해 추가 생산 주문을 고려하고 있습니다. 타논부리 노이 스턴은 장기적인 고객 신뢰를 구축하기 위해 서비스 기반을 강화하고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 내 자동차 판매에 대한 정보로, 여행 자체에는 큰 영향이 없다고 판단됨.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ขายดี! ธนบุรีนอยสเติน ส่งมอบ GEELY EX2 ครบ 2,000 คันแรก",
@@ -38982,23 +38969,20 @@
           "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhaDDb1spxb0QYSdj.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhaDDb1spxb0QYSdj.jpg",
-      "date": "2026-02-26"
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2916399",
+      "source": ""
     },
     {
       "title": "미얀마 여성, 구급차 안에서 출산… 행운을 빌며 차량 번호 주목",
       "summary": "- 임신한 미얀마 여성이 구급차 안에서 여자아이를 출산, 산모와 아이 모두 건강.\n- 구조대원들이 차량 번호에서 행운의 숫자를 찾아 공유하며 복권을 기대.\n- 아유타야 구조대는 산모를 병원으로 이송 중 구급차 안에서 출산이 발생, 의료팀이 긴급히 출산을 도움.",
       "full_translated": "최근 아유타야에서 임신한 미얀마 여성이 진통을 느껴 구급차에 실려 병원으로 이송되던 중 출산했습니다. 구조대원들은 산모와 아이 모두 건강하다는 소식을 전하며, 동시에 차량 번호에서 행운의 숫자를 찾아 공유했습니다. 이들은 해당 숫자가 복권 당첨으로 이어지기를 기대하고 있습니다. 사고는 2069년 2월 25일 저녁에 발생했습니다. 아유타야 구조대는 외국인 노동자 캠프에서 한 여성이 출산이 임박했다는 신고를 받고 즉시 현장으로 출동했습니다. 37세의 NI MAR WIN이라는 미얀마 여성은 이미 진통을 느끼고 있었고, 구조대는 즉시 그녀를 가장 가까운 우타이 병원으로 이송하기 시작했습니다. 그러나 병원으로 향하던 중 통역사가 아이가 이미 태어났다고 외쳤고, 구조대는 즉시 차를 세우고 응급 처치를 실시했습니다. 이후 우타이 병원 의료팀이 도착하여 구급차 안에서 출산을 도왔습니다. 약 20분 만에 건강한 여자아이가 태어났으며, 산모와 아기는 모두 안전하게 병원으로 이송되었습니다. 구조대원인 타나찻 마니르앙은 당시 상황을 설명하며, 건설 노동자 캠프에서 여성이 진통을 겪고 있다는 신고를 받고 즉시 출동했다고 밝혔습니다. 그는 병원으로 향하던 중 아이가 태어났다는 소식을 듣고 즉시 차를 세워 응급 처치를 실시했으며, 의료팀의 도움으로 안전하게 출산을 마칠 수 있었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국 현지에서 발생한 출산 관련 소식으로, 여행객에게 직접적인 영향은 없으나, 태국 사회의 한 단면을 보여주는 흥미로운 로컬 뉴스. 복권 관련 문화가 간접적으로 소개.",
-      "event_info": {
-        "date": null,
-        "location": "아유타야",
-        "price": null,
-        "location_google_map_query": "아유타야"
-      },
+      "event_info": "{'date': None, 'location': '아유타야', 'price': None, 'location_google_map_query': '아유타야'}",
       "references": [
         {
           "title": "หญิงเมียนมาอั้นไม่ไหว \"คลอดลูกสาว\" บนรถกู้ภัย คอหวยไม่พลาดเลขทะเบียนรถลุ้นโชค",
@@ -39007,8 +38991,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsKCb8pO5crybV.jpg"
         }
       ],
-      "collected_at": "08:15",
+      "collected_at": "8:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOsKCb8pO5crybV.jpg",
+      "date": "2026-02-26",
+      "link": "https://www.thairath.co.th/news/local/central/2916417",
+      "source": ""
+    },
+    {
+      "title": "나콘파놈 '핫 해' 해변 개장, 가뭄 위기를 지역 경제 활성화 기회로",
+      "summary": "- 나콘파놈의 '핫 해' 해변이 가뭄으로 인한 메콩강 수위 감소를 활용해 새로운 관광 명소로 떠오름.\n- 지역 주민들은 상점과 식당을 열어 관광객들에게 다양한 편의를 제공하고 있으며, 제트 스키, 바나나 보트 등 수상 액티비티도 즐길 수 있음.\n- 이 해변은 태국 북동부 지역의 '이산 해변'으로 불리며, 왓 프라탓 파놈과 가까워 방문객이 많아 지역 경제 활성화에 기여하고 있음.",
+      "full_translated": "나콘파놈, 이산 해변 '핫 해' 개장으로 가뭄 위기 극복 및 지역 경제 활성화\n\n2월 25일, 나콘파놈 지역의 메콩강 중간에 위치한 '핫 해' 해변이 관광 시즌을 시작했습니다. 이곳은 원래 가뭄으로 인해 메콩강 수위가 낮아지면서 드러난 모래톱 지역인데, 주민들이 협력하여 상점, 식당 등 편의시설을 설치하고 관광객을 유치하면서 새로운 관광 명소로 탈바꿈했습니다. \n\n200~300개의 대나무 상점과 다양한 태국-이산 요리, 음료를 판매하는 식당들이 운영되고 있으며, 제트 스키, 바나나 보트 등 수상 액티비티도 즐길 수 있습니다. 덕분에 '이산 해변'이라는 별칭을 얻으며 지역 경제에 활력을 불어넣고 있으며, 주말에는 더욱 많은 관광객이 방문하여 하루에 수십만 바트의 수익을 올리고 있습니다.\n\n핫 해 해변은 왓 프라탓 파놈과 같은 경로에 위치해 있어, 사원을 방문하는 관광객들이 휴식을 취하기 위해 이곳에 들르면서 더욱 인기를 얻고 있습니다. 깨끗하고 안전하게 물놀이를 즐길 수 있는 환경을 제공하며, 어린이들을 동반한 가족 단위 방문객에게 특히 적합합니다. 핫 해 해변은 송크란 축제까지 운영될 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "새로운 관광 명소 정보이며, 여행객들에게 휴식 및 액티비티 장소를 제공.",
+      "event_info": {
+        "date": null,
+        "location": "나콘파놈 핫 해 해변",
+        "price": "개별 액티비티 및 음식 가격 상이",
+        "location_google_map_query": "หาดแห่ นครพนม"
+      },
+      "references": [
+        {
+          "title": "เปิดฤดูกาลเที่ยว \"หาดแห่\" ทะเลอีสานนครพนม พลิกวิกฤตแล้ง สร้างเศรษฐกิจชุมชน",
+          "url": "https://www.thairath.co.th/news/local/localbusiness/2916524",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFzZJJaf3lZcR.jpg"
+        }
+      ],
+      "collected_at": "10:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFzZJJaf3lZcR.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "미국 네브래스카 주, 도로 한복판에 싱크홀 발생하여 차량 2대 삼켜",
+      "summary": "- 미국 네브래스카 주 오마하 시에서 도로에 거대한 싱크홀이 발생, 신호 대기 중이던 차량 2대가 추락함.\n- 운전자들은 스스로 탈출했으며, 부상자는 없음.\n- 당국은 추가 붕괴 위험으로 해당 도로를 폐쇄하고, 지반 구조 안정성을 평가할 예정.",
+      "full_translated": "미국 네브래스카 주에서 충격적인 사건이 발생했습니다. 도로 한복판에 거대한 싱크홀이 생겨 도로를 이용하는 사람들 앞에서 신호 대기 중이던 차량 2대가 순식간에 사라졌습니다. 이 예상치 못한 사건은 네브래스카 주 오마하 시의 한 교차로에서 발생했습니다. 경찰은 두 운전자 모두 차량에서 기어 나와 스스로 싱크홀에서 탈출할 수 있었다고 밝혔습니다. 구조대가 현장에 도착하기 전에 일어난 일이며, 부상자는 보고되지 않았습니다. 사고 후 당국은 싱크홀에서 차량 두 대를 끌어올렸고, 피해를 조사하고 도로 구조의 안정성을 평가하기 위해 싱크홀 주변의 콘크리트 슬래브를 철거하기 시작했습니다. 당국은 해당 도로 구간이 위험 평가를 위해 며칠 동안 폐쇄될 수 있다고 경고하면서 운전자들에게 해당 지역을 피하라고 경고했습니다. 지하 구조가 불안정하면 싱크홀이 더 커질 가능성이 있기 때문입니다. 도로는 안전 평가 후 다시 개통될 예정입니다... 지질학자들은 싱크홀은 일반적으로 지하수의 침식으로 인해 지하의 토양이나 석회암층이 씻겨 내려가 큰 구멍이 생기면서 발생한다고 설명합니다. 특히 폭우가 내린 후나 지하 공공 시설 파이프가 파열된 후에는 지표면이 무게를 지탱하지 못하고 갑자기 붕괴될 수 있습니다. 이번 사건은 노후된 파이프 시스템과 점점 더 변동성이 커지는 기상 조건에 직면한 미국 여러 도시의 기반 시설 위험을 강조합니다. 전문가들은 각 도시가 미래의 심각한 사고 위험을 줄이기 위해 지하 구조를 정기적으로 검사할 것을 권고합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객의 이동에 영향을 줄 수 있는 도로 폐쇄 관련 정보. 태국은 아니지만, 유사 사고에 대한 안전 경각심을 높일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "오마하, 네브래스카, 미국",
+        "price": null,
+        "location_google_map_query": "오마하 네브래스카"
+      },
+      "references": [
+        {
+          "title": "ระทึกกลางสี่แยก! หลุมยุบยักษ์กลืนรถ 2 คันต่อหน้าต่อตาในสหรัฐฯ สั่งปิดถนนเสี่ยงทรุดเพิ่ม",
+          "url": "https://www.thairath.co.th/news/foreign/2916526",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFzP2Y2dLuz5U.jpg"
+        }
+      ],
+      "collected_at": "10:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrFzP2Y2dLuz5U.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "방콕 인근 주유소 화장실에서 여성 사망",
+      "summary": "- 2월 25일 오후 5시 30분경, 방쿤티안 지역 주유소 화장실에서 여성 사망 사건 발생.\n- 피해자는 남편과 함께 라용에서 귀가 중이었으며, 화장실에 간 후 의식을 잃은 채 발견됨.\n- 경찰은 지병으로 인한 사망 가능성을 조사 중이며, 유족은 부검에 동의함.",
+      "full_translated": "2024년 2월 25일 오후 5시 30분, 방쿤티안 경찰서의 사라윳 산탓 경위는 방쿤티안-방본 도로의 한 주유소 화장실에서 사망 사건이 발생했다는 신고를 받았습니다. 경찰과 구조대, 시리랏 병원 법의관이 현장으로 출동했습니다.\n\n사건 현장은 주유소 옆 화장실이었으며, 여성 화장실 첫 번째 칸에서 여성이 숨진 채 발견되었습니다. 이마에 상처가 있었고, 크림색 티셔츠, 남색 겉옷, 남색 긴 바지를 입고 있었습니다. 구조대가 시신을 수습했으며, 이마 외 다른 외상은 발견되지 않았습니다.\n\n피해자의 남편인 탐왓 홍토(63세)는 라용에서 출발하여 에카차이 89 지역의 집으로 돌아가는 중이었다고 진술했습니다. 아내가 소변이 마려워 주유소에 들렀고, 잠시 후 함께 온 손자가 울기 시작해 아내를 찾아 화장실로 갔지만 응답이 없었습니다. 주유소 직원에게 도움을 요청해 문을 열었을 때 아내는 이미 의식을 잃고 사망한 상태였습니다.\n\n방쿤티안 경찰은 남편을 경찰서로 연행해 추가 조사를 진행할 예정입니다. 사망 원인은 지병으로 인한 실신으로 추정되며, 유족은 부검에 동의했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객이 이용할 가능성이 있는 주유소에서 발생한 사건이므로 안전에 대한 인식을 환기시킬 필요가 있음. 다만 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2024-02-25",
+        "location": "방쿤티안-방본 도로의 한 주유소",
+        "price": null,
+        "location_google_map_query": "방쿤티안 방본 도로 주유소"
+      },
+      "references": [
+        {
+          "title": "ผัวเศร้า เมียขอแวะเข้าห้องน้ำปั๊มน้ำมัน หายไปนาน เจออีกทีกลายเป็นศพ",
+          "url": "https://www.thairath.co.th/news/crime/2916533",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrGOYrOdn4vKAh.jpg"
+        }
+      ],
+      "collected_at": "10:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrGOYrOdn4vKAh.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "태국 소형 전기차 시장 경쟁 심화: Geely EX2 MAX 출시 및 분석",
+      "summary": "- 태국 소형 전기차 시장에서 Geely EX2 MAX가 경쟁 차종과 비교 분석됨.\n- EX2는 39.4kWh 배터리로 355km 주행 가능하며, 가격은 429,990바트부터 시작.\n- 도시 주행에 적합하며, 스포티한 디자인과 후륜구동 시스템이 특징.",
+      "full_translated": "태국 소형 전기차 시장은 치열한 경쟁을 벌이고 있으며, Geely EX2는 Aion UT, Honda City Hatchback HEV와 비교됩니다. UT는 더 큰 배터리 용량으로 더 멀리 주행할 수 있으며, City와 UT는 EX2보다 약간 비쌉니다. EX2는 39.4kWh 배터리를 탑재하여 완전 충전 시 355km(실제 주행 시 310km)를 주행할 수 있습니다. EX2(중국명 Geely Xingyuan)는 5도어 해치백 스타일의 시티카로, 전기 구동 시스템의 가치와 기술에 중점을 둡니다. 태국에서 429,990바트에서 459,000바트의 가격으로 출시되었으며, 최근 가격이 30,000바트 인상되었습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 전기차 시장 동향 정보. 여행객의 교통 수단 선택에 간접적 영향. 특별한 안전 문제는 없으므로 보통 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "429,990 - 459,000 바트",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ไม่ถึงห้าแสน ทดสอบรถยนต์ไฟฟ้า GEELY EX2 MAX",
+          "url": "https://www.thairath.co.th/news/auto/testdrive/2916423",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/rdvdKJHxFEWneSMLref4CbG275DU8ExAZjwN.jpg"
+        }
+      ],
+      "collected_at": "10:45",
+      "image_url": "https://static.thairath.co.th/media/rdvdKJHxFEWneSMLref4CbG275DU8ExAZjwN.jpg",
+      "date": "2026-02-26"
+    },
+    {
+      "title": "PETA, 일본 동물원에 '펀치쿤' 이송 촉구: 콘크리트 환경에서 고통",
+      "summary": "- 국제 동물 보호 단체 PETA, 일본 이시카와 동물원의 '펀치쿤' 열악한 환경 고발.\n- 콘크리트 바닥과 좁은 공간에 갇힌 펀치쿤, 자연스러운 사회 활동 박탈 비판.\n- PETA, 펀치쿤을 넓고 자연적인 환경의 보호 시설로 이송할 것을 촉구.",
+      "full_translated": "국제 동물 보호 단체 PETA가 일본 이시카와 동물원의 일본 원숭이 '펀치쿤'의 열악한 사육 환경에 대해 강력히 비판하며 이송을 촉구했습니다. PETA는 펀치쿤이 콘크리트 바닥으로 둘러싸인 좁은 공간에 갇혀 있으며, 이는 자연 환경과는 거리가 멀다고 지적했습니다. 또한, 펀치쿤이 가족 및 동료들과의 자연스러운 사회적 활동을 박탈당하고 있다고 비판했습니다. PETA는 펀치쿤이 스트레스, 고립감, 상실감을 느낄 수 있다고 우려하며, 그를 넓고 자연적인 환경을 제공하는 보호 시설로 이송할 것을 촉구했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "동물원 방문객에게 간접적인 영향을 줄 수 있는 뉴스. 동물 복지에 대한 인식을 높일 수 있지만, 직접적인 여행 관련 정보는 아님.",
+      "event_info": {
+        "date": null,
+        "location": "이시카와 동물원 (일본)",
+        "price": null,
+        "location_google_map_query": "이시카와 동물원"
+      },
+      "references": [
+        {
+          "title": "พีต้าแถลงเดือด จี้สวนสัตว์ญี่ปุ่นย้ายพันช์คุงด่วน จี้ถูกเลี้ยงในบ่อคอนกรีต ขาดสภาพธรรมชาติ",
+          "url": "https://www.thairath.co.th/news/foreign/2916532",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrGOfGwafJkyl5.jpg"
+        }
+      ],
+      "collected_at": "10:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrGOfGwafJkyl5.jpg",
       "date": "2026-02-26"
     }
   ]
