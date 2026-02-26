@@ -40674,14 +40674,9 @@
       "summary": "- 파타야에서 중국인 관광객이 트랜스젠더들에게 금품을 강탈당하는 사건 발생.\n- 경찰은 용의자인 20세 아티쿤 므앙뭉쿤을 체포하고, 호텔 CCTV와 도난당한 아이폰을 증거로 확보.\n- 용의자는 과거 독일인 관광객 대상 폭행 및 강도 사건에도 연루된 전력이 있음.",
       "full_translated": "파타야 관광 경찰이 중국인 관광객 강도 사건의 트랜스젠더 용의자를 체포했습니다.\n\n체포는 파타야 지방 법원이 발부한 영장(2026년 2월 25일자 J.114/2569호)에 따른 것입니다. 용의자는 20세의 아티쿤 므앙뭉쿤으로 확인되었으며, 소이 파타야 13/2에 있는 거주지 502호에서 구금되었습니다. 이번 작전은 관광 경찰 2지역 4분과 프랍다 숙선티 서장이 이끌었으며, 이는 관광객을 대상으로 약탈 행위를 벌여 파타야의 안전한 관광지 이미지를 훼손하는 개인, 특히 트랜스젠더 여성을 단속하라는 지시에 따른 것입니다.\n\n사건은 2026년 2월 1일 새벽에 발생했는데, 중국인 관광객이 호텔 방에서 알몸으로 뛰쳐나와 호텔 직원에게 도움을 요청했고, 직원이 경찰에 신고했습니다. 피해자는 파타야 해변에서 두 명의 트랜스젠더 여성을 만나 자신의 방으로 초대했다고 주장했습니다. 그곳에서 그들은 그를 위협하고 현금 10,000바트와 아이폰 15 프로 맥스 스마트폰을 훔쳐 달아났다고 합니다.\n\n급습 동안 경찰은 방에서 5명의 트랜스젠더 개인을 발견했는데, 그중 일부는 침대에서 잠들어 있었습니다. 용의자는 인상착의가 일치했고 신원이 확인되었습니다. 경찰은 호텔 CCTV 영상과 회수된 도난당한 아이폰을 주요 증거로 제시했고, 용의자는 저항 없이 투항했습니다. 당국은 이 그룹의 구성원들이 이전에 파타야 해변에서 독일인 관광객을 대상으로 한 폭행 및 강도 사건과 관련이 있었으며, 일부 공범은 이미 체포되었다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 관광객 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공 필요.",
-      "event_info": {
-        "date": "2026-02-01",
-        "location": "파타야 해변 인근 호텔",
-        "price": "미상",
-        "location_google_map_query": "Pattaya Beach"
-      },
+      "event_info": "{'date': '2026-02-01', 'location': '파타야 해변 인근 호텔', 'price': '미상', 'location_google_map_query': 'Pattaya Beach'}",
       "references": [
         {
           "title": "Pattaya Tourist Police Arrest Transgender Suspect in Robbery of Chinese Tourist",
@@ -40690,23 +40685,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260226_1839237163782682669887317.jpg?v=1772106034"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260226_1839237163782682669887317.jpg?v=1772106034",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/pattaya-tourist-police-arrest-transgender-suspect-in-robbery-of-chinese-tourist/",
+      "source": ""
     },
     {
       "title": "파타야 프라탐낙 Soi 6에서 큰 나무 쓰러져 전신주 연쇄 붕괴, 광범위한 정전 발생",
       "summary": "- 2026년 2월 25일 오후 6시경 파타야 프라탐낙 Soi 6에서 큰 나무가 쓰러져 전신주를 덮치면서 연쇄 붕괴 발생.\n- 이 사고로 인해 해당 지역에 광범위한 정전이 발생했으며, 주택, 상점, 관광 지역이 영향을 받음.\n- 관계 당국은 현장에 출동하여 안전 확보 후 복구 작업을 진행 중이며, 정확한 사고 원인을 조사 중.",
       "full_translated": "2026년 2월 25일 오후 6시경, 파타야 프라탐낙 Soi 6에서 큰 나무가 쓰러져 전신주를 덮치면서 연쇄 붕괴를 일으켜 광범위한 정전이 발생했습니다. 지방 전력청(PEA) 직원, 지역 당국, 구조팀이 긴급히 대응에 나섰습니다. 현장에 도착한 관계자들은 수많은 전신주가 부러져 도로에 흩어져 있고, 활선이 위험하게 늘어져 있어 주민과 통행인에게 심각한 위험을 초래하는 것을 발견했습니다. PEA 팀은 안전을 확보하기 위해 해당 구역의 전력을 즉시 차단한 후 피해 평가 및 정리 작업을 시작했습니다. 쓰러진 나무와 엉킨 전선은 또한 교통을 방해하여 해당 지역의 도로를 폐쇄해야 했습니다. 목격자 아리사 와나킷(35세)은 \"큰 나무가 부러져 머리 위의 전력선을 덮치면서 첫 번째 전신주를 쓰러뜨리고 연쇄 반응을 일으켜 더 많은 전신주가 차례로 쓰러졌습니다.\"라고 혼란스러운 상황을 묘사했습니다. 정전은 주택, 상점, 인근 관광 지역에 영향을 미쳐 주민들이 전기가 끊기고 상당한 불만을 토로했습니다. 아리사는 이전에 위험한 나무를 관련 당국에 보고하여 사고를 유발할 수 있다는 우려를 표명했지만 가지치기나 제거 조치가 취해지지 않았다고 덧붙였습니다. 그녀는 \"이런 일이 일어날 수 있다고 경고했지만 실제로 일어나기 전까지는 아무 조치도 취해지지 않았습니다.\"라고 말했습니다. 나무가 쓰러진 원인은 구조적 약점일 가능성이 있으며 조사 중입니다. 여러 대의 차량이 손상되었지만 다행히 부상자는 없었습니다. 이번 사건으로 인해 사전 예방적 나무 유지 관리에 대한 지역 사회의 요구가 다시 높아졌습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 지역의 정전으로 관광객에게 불편 초래 가능성, 안전 문제 발생 가능성 고려. 교통 통제 정보 포함.",
-      "event_info": {
-        "date": "2026-02-25",
-        "location": "파타야 프라탐낙 Soi 6",
-        "price": null,
-        "location_google_map_query": "Pattaya Phratamnak Soi 6"
-      },
+      "event_info": "{'date': '2026-02-25', 'location': '파타야 프라탐낙 Soi 6', 'price': None, 'location_google_map_query': 'Pattaya Phratamnak Soi 6'}",
       "references": [
         {
           "title": "Large Tree Collapse Triggers Chain Reaction as Power Poles Topple in Pattaya’s Phratamnak Soi 6, Causing Widespread Blackout",
@@ -40715,23 +40707,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1772035631148.jpg?v=1772124614"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/FB_IMG_1772035631148.jpg?v=1772124614",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/large-tree-collapse-triggers-chain-reaction-as-power-poles-topple-in-pattayas-phratamnak-soi-6-causing-widespread-blackout/",
+      "source": ""
     },
     {
       "title": "파타야 이민국, 불법 마작 도박 혐의로 중국인 4명 체포",
       "summary": "- 파타야 이민국은 2026년 2월 26일 새벽 1시경, 파타야 세컨드 로드에서 불법 도박 활동에 대한 첩보를 입수하여 급습을 실시함.\n- 현장에서 마작 게임을 하던 중국인 남성 4명을 체포하고, 마작 테이블, 마작 타일 세트, 도박 칩을 압수함.\n- 용의자들은 파타야 경찰서로 이송되어 태국 도박 관련 법률에 따라 추가 법적 절차를 밟을 예정임.",
       "full_translated": "파타야 뉴스는 파타야 이민국이 불법 마작 도박 활동에 대한 첩보를 입수하여 2026년 2월 26일 새벽 1시경 파타야 세컨드 로드에서 급습을 실시했다고 보도했습니다. 현장에서 당국은 네 명의 중국인 남성이 테이블 주위에서 마작 게임에 열중하고 있는 것을 발견했습니다. 경찰은 즉시 신분을 밝히고 저항없이 그룹을 체포했습니다. 압수된 증거에는 마작 테이블 1개, 마작 타일 세트 1개, 현금 대신 사용된 도박 칩이 포함되었습니다. 용의자 4명은 압수된 물품과 함께 구금되어 태국 도박 및 관련 법률에 따라 추가 법적 절차를 위해 파타야 경찰서 수사관에게 이송되었습니다. 이민국은 아직 체포된 개인의 이름을 공개하지 않았으며 사건에 대한 자세한 내용을 언론에 제공하지 않았습니다. 당국은 상사에게 보고하고 초기 절차를 완료한 후 추가 정보를 제공할 것이라고 밝혔습니다. 태국은 세계에서 가장 엄격한 반도박 법률을 가지고 있으며 개인적인 도박 게임조차 금지하고 있다고 파타야 뉴스는 지적합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 대상 범죄 소식은 여행객에게 주의를 요하므로 포함. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "파타야 세컨드 로드",
-        "price": null,
-        "location_google_map_query": "Pattaya Second Road"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '파타야 세컨드 로드', 'price': None, 'location_google_map_query': 'Pattaya Second Road'}",
       "references": [
         {
           "title": "Pattaya Immigration Officers Raid Building, Arrest Four Chinese Nationals for Illegal Mahjong Gambling",
@@ -40740,23 +40729,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260226_180914.jpg?v=1772104220"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/IMG_20260226_180914.jpg?v=1772104220",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/pattaya-immigration-officers-raid-building-arrest-four-chinese-nationals-for-illegal-mahjong-gambling/",
+      "source": ""
     },
     {
       "title": "파타야: 태국 내 법적 절차 및 문서 관련 정보",
       "summary": "- 파타야에서 필요한 법적 문서의 공증 및 인증 서비스 제공.\n- 계약서, 사업 거래, 개인 합의서에 대한 공증 서비스 제공.\n- 국제 표준 준수 및 현지 전문 지식 결합.",
       "full_translated": "파타야에 위치한 Anglo Siam Legal에서는 태국과 국제법 간의 간극을 좁혀 빠르고 간편하며 번거로움 없는 서비스를 제공합니다. 주요 서비스는 다음과 같습니다.\n\n• 문서 인증: 모든 필수 서류에 대한 빠르고 안전한 공증.\n• 증서 인증: 신뢰할 수 있는 증서 및 소유권 문서 공증을 통해 투자 보호.\n• 서명 증인: 비자 신청을 스트레스 없이 진행할 수 있도록 국제 요구 사항 준수.\n• 합의 유효성 확인: 계약, 사업 거래 및 개인 합의에 대한 전문적인 공증.\n• 위임장(POA) 작성: POA 문서를 정확하고 신중하게 작성, 공증 및 인증합니다.\n\n저희 사무실은 Big C Pattaya Tai 맞은편에 편리하게 위치해 있으며, 넓은 주차 공간과 쉬운 접근성을 갖추고 있습니다. 국제 표준과 현지 전문 지식을 결합하여 모든 단계에서 귀하의 이익을 보호하는 방법을 알아보십시오.\n\n방문: 월요일~금요일 | 오전 9시 – 오후 5시\n📍 위치: Big C Pattaya South(Pattaya Tai) 맞은편\n문의: • 웹사이트: https://anglosiamlegal.com/ • 페이스북: https://www.facebook.com/Anglosiamlegal/ • 유튜브: https://www.youtube.com/@AngloSiamLegal • 이메일: info@anglosiamlegal.com • 전화: 0610184790\n\n면책 조항: 여기에 포함된 모든 법률 또는 기타 정보는 태국 변호사 협회 회원인 면허를 취득한 변호사가 제공하거나 엄격한 협의 하에 제공됩니다. 클라이언트 관리자 겸 CEO는 변호사이지만...",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행 중 법적 문제 발생 시 유용한 정보 제공. 파타야 위치 정보 포함.",
-      "event_info": {
-        "date": null,
-        "location": "Big C Pattaya South 맞은편",
-        "price": null,
-        "location_google_map_query": "Big C Pattaya South"
-      },
+      "event_info": "{'date': None, 'location': 'Big C Pattaya South 맞은편', 'price': None, 'location_google_map_query': 'Big C Pattaya South'}",
       "references": [
         {
           "title": "Legal Corner: Navigating Legal Documentation in Thailand",
@@ -40765,23 +40751,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17721155576531974176998984253725.jpg?v=1772115823"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/fb_img_17721155576531974176998984253725.jpg?v=1772115823",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/26/legal-corner-navigating-legal-documentation-in-thailand/",
+      "source": ""
     },
     {
       "title": "타이항공, F-35 부품 운송 주장에 대해 부인",
       "summary": "- 타이항공은 F-35 항공기 부품을 이스라엘로 운송했다는 주장에 대한 호주 시위대의 소셜 미디어 보고서에 대해 해명했습니다.\n- CEO 차이 이암시리는 타이항공은 국제 표준에 따라 승객과 화물을 운송하는 것이 전략적 역할이라고 밝혔습니다.\n- 그는 화물 수락에 대한 프로토콜과 표준이 있으며, 세관 당국이 품목의 합법성 여부를 판단한다고 덧붙였습니다.",
       "full_translated": "방콕 — 2026년 2월 26일, 타이항공 인터내셔널은 호주 시위대가 타이항공이 F-35 항공기 부품을 이스라엘로 운송했다는 주장에 대해 항의한 소셜 미디어 보고서에 대해 해명했습니다. 차이 이암시리 타이항공 인터내셔널 최고경영자는 상업 운영자로서 항공사의 전략적 역할은 국제 표준에 따라 승객과 화물을 운송하는 것이라고 말했습니다. 일부 시장에서는 모든 화물 용량을 직접 판매하지 않고 다른 항공사와 인터라인 또는 파트너 계약을 맺고 있으며, 이는 항공 업계의 표준 관행입니다. 회사는 화물 신고서를 확인하여 물품의 성격을 확인하는 등 화물 수락에 대한 프로토콜과 표준을 가지고 있습니다. 그러나 품목을 물리적으로 검사하고 품목이 합법적인지 여부를 결정할 권한은 항공사가 아닌 각 국가의 세관 당국에 있습니다. 차이 대표는 “안전 측면에서 화물이 위험물로 분류되면 운송하지 않습니다. 강철 자동차 부품과 같은 일반 부품으로 구성된 경우 X선 검사를 통해 물체의 성격을 파악하고 정상적인 사업 관행에 따라 운송합니다. 품목이 법률을 준수하는지 여부를 결정하는 것은 각 국가의 세관 당국입니다.”라고 말했습니다. 그는 지금까지 해당 시장에서 좌석 예약이나 화물량에 미치는 영향은 없다고 말했습니다. 항공사의 경영진은 계속해서 상황을 주시하고 있습니다. 그는 또한 개인 fa",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "항공 화물 운송 관련 이슈로, 여행객에게 직접적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai Airways denies F-35 parts transport claim",
@@ -40790,8 +40773,60 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Airways-denies-F-35-parts-transport-claim.jpg"
         }
       ],
-      "collected_at": "04:02",
+      "collected_at": "4:02",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Thai-Airways-denies-F-35-parts-transport-claim.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.khaosodenglish.com/news/2026/02/26/thai-airways-denies-f-35-parts-transport-claim/",
+      "source": ""
+    },
+    {
+      "title": "Horrific video shows the moment suspected gangster kills tourist with single karate chop - New York Post",
+      "summary": "- 뉴욕 포스트 보도에 따르면, 용의자가 관광객을 가라데 촙으로 살해하는 끔찍한 영상 공개됨.\n- 현재 사건 경위 파악 중이며, 여행객 안전에 대한 우려 증가.\n- 외출 시 주의를 기울이고, 위험한 지역은 피하는 것이 좋음.",
+      "full_translated": "뉴욕 포스트의 보도에 따르면, 용의자가 관광객을 가라데 촙으로 살해하는 끔찍한 영상이 공개되었습니다. 현재 사건 경위 파악 중이며, 여행객 안전에 대한 우려가 증가하고 있습니다. 외출 시 주의를 기울이고, 위험한 지역은 피하는 것이 좋습니다.\n\n**기사 원문:** Horrific video shows the moment suspected gangster kills tourist with single karate chop  New York Post",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "관광객 살해 사건은 여행 안전에 직접적인 위협이 되므로 반드시 포함해야 함. 특히 현재 시각(04:52)으로 아침 브리핑이므로, 더욱 주의를 환기시킬 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "미확인",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Horrific video shows the moment suspected gangster kills tourist with single karate chop - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcDFqeF84eVNYb2c1MERMMjNqLWVNRUJwZUk5VTl6Nnp5S0EwdVVQZUZyZ0JFVGNNbDBNVlFuZmtEV2VySGNPaTYyblVXUS1UM1NKMU5kYTB4Vy12NnBNdXRyZWtaSl9EdjZEcjZRMHVackE3N0IyZnpFUFZ6QXVHSlVFTHA0LWRNc2Eya1UtU3NfNFlZNkRmZkV2NnRmb3Bo?oc=5",
+          "source": "New York Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Updated ‘Amazing Thailand’ app unveiled - TravelMole",
+      "summary": "- 태국 관광청에서 'Amazing Thailand' 앱을 업데이트했습니다.\n- 새로운 기능과 개선된 사용자 인터페이스를 통해 여행 편의성을 높였습니다.\n- 태국 여행 계획에 유용한 정보를 제공합니다.",
+      "full_translated": "태국 관광청에서 'Amazing Thailand' 앱을 업데이트했습니다. 새로운 기능과 개선된 사용자 인터페이스를 통해 여행 편의성을 높였습니다. 태국 여행 계획에 유용한 정보를 제공합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행 편의성 증진에 도움을 주는 앱 업데이트 정보. 사용자 경험 개선 및 새로운 기능 추가.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Updated ‘Amazing Thailand’ app unveiled - TravelMole",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KNXNKQk9JSWQzbVdPdnVyNFRlSnN2TVgwOWNqMjl6ME5ZZ0I1RjhDcDRqTUpHbmY3emE4RV9JTjBNd2k3aGFtMmJRSTF0MlBwbWR2TGpMZUZHbktfdFJOT25BZHZGS3oyWVNuaGJOZmdEeU40OG1BOUpB?oc=5",
+          "source": "TravelMole",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-27"
     }
   ]
