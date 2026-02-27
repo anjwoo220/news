@@ -43117,14 +43117,9 @@
       "summary": "- 투모로우랜드 태국, 2026년 12월 파타야에서 아시아 최초 풀 스케일 개최.\n- 태국, 글로벌 이벤트 허브로서의 입지 강화 및 관광 산업 성장 가속화.\n- 10억 달러 관광 수입 기대.",
       "full_translated": "투모로우랜드 태국이 2026년 12월 파타야에서 아시아 최초로 풀 스케일 데뷔를 하여 태국이 글로벌 이벤트 허브로서의 입지를 강화하고 관광 성장을 촉진합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 국제 행사 개최 정보는 여행객 유치에 중요한 정보이므로 포함. 개최 시기, 장소 등 상세 정보 업데이트 필요.",
-      "event_info": {
-        "date": "2026-12-01",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 투모로우랜드"
-      },
+      "event_info": "{'date': '2026-12-01', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 투모로우랜드'}",
       "references": [
         {
           "title": "Tomorrowland Thailand Makes Its Full-Scale Asian Debut in Pattaya December 2026, Strengthening Position as a Global Event Hub and Boosting Tourism Growth of Thailand - Travel And Tour World",
@@ -43133,23 +43128,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOMmFBbDhfcjM3Vl80Z3ZWMVM4d1lXN2s1WUtXWk5oM0VGVzlSVDFuaXN5V2NnN0IwZmsyVXBVckxVZnNzWWMtOFl6SGl1WHNSa19wSzFrb3BOOHVaQWkzWHFiaHIwSThQbTdWcWZNZVJ0NEhhOXB6YTRVSDNuYng5WnRDNGUxeGNheGVFQUxsWENtdk1LT19PWXA1T2xQYWFMYk5yUWFaX2NOVWstd2UycDFsRTBmbkVRX3hTcXdoMTQyaVZhNW1pQkROMGdCMktGVGMzd1VySEtBVU95d0w0Z2w3QVNqb2hwVmRFNk5HTjlqOENIT0dHUVUxd0lFbXN4M1E2aHVjNDNsNjliZFdhTm9VRERSVi1QSnNqcnpRb0x2aTg4UVdGeU12aTJNOS1VT3RKOWNFTVY?oc=5",
+      "source": ""
     },
     {
       "title": "방콕-서울 신규 직항 노선 개설: 타이 에어아시아, 저가 항공편 확대",
       "summary": "- 타이 에어아시아가 방콕-서울 직항 노선을 신규 개설하여 저가 항공편을 확대합니다.\n- 여행객들은 더욱 저렴한 비용으로 양 도시를 편리하게 여행할 수 있게 되었습니다.\n- 자세한 항공편 일정 및 요금 정보는 타이 에어아시아 웹사이트에서 확인할 수 있습니다.",
       "full_translated": "타이 에어아시아가 방콕과 서울 간의 새로운 직항편을 개설하여 저가 항공편 제공을 확대합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "한국-태국 여행 편의성 증진. 저가 항공 옵션 확대로 여행 비용 절감 기대.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 서울",
-        "price": "타이 에어아시아 웹사이트 참조",
-        "location_google_map_query": "방콕, 서울"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 서울', 'price': '타이 에어아시아 웹사이트 참조', 'location_google_map_query': '방콕, 서울'}",
       "references": [
         {
           "title": "New Direct Flights Between Bangkok and Seoul: Thai AirAsia Expands Low-Cost Offerings - Travel And Tour World",
@@ -43158,23 +43150,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHBtOURSRFNLclNKbjM4Y0RVdlo5ZFJKbW90aFJHUFJIcmJUZGZJdGtHaDBZdHZRYk9JYm4tQ3F6eHlDcnZ3YkRpVldESURmYndhY3RPRGI1UHNZRTZRM0RlNWJuY3pIeGs5NUc1TEZKZFBhODVubWpmMzRTNUNnc0NZZWt1cW43azRnTkZYcmdnTndqTUdxR1RiSGFiWjZIYVJxclVKZlFoTlJpaEV6T2F2c3JrNGdORjNGV2x3a2dhWWdmeDBYdF9RODhBQQ?oc=5",
+      "source": ""
     },
     {
       "title": "Oakwood Central Hat Yai, 2026년 4분기 개장으로 태국 남부 관광 모멘텀 상승 예고",
       "summary": "- Oakwood Central Hat Yai가 2026년 4분기에 개장하여 태국 남부의 관광 산업 성장에 기여할 것으로 예상됩니다.\n- 이 호텔은 핫 야이 지역의 숙박 시설 옵션을 다양화하고, 관광객 유치에 긍정적인 영향을 미칠 것입니다.\n- 핫 야이는 태국 남부의 주요 도시 중 하나로, Oakwood Central Hat Yai의 개장은 지역 경제 활성화에 기여할 것으로 보입니다.",
       "full_translated": "Oakwood Central Hat Yai가 2026년 4분기에 개장하여 태국 남부의 관광 모멘텀 상승을 예고합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 남부의 관광 산업 성장에 대한 기대로, 여행객들에게 새로운 숙박 옵션 정보를 제공합니다.",
-      "event_info": {
-        "date": "2026-10-01",
-        "location": "핫 야이",
-        "price": "미정",
-        "location_google_map_query": "핫 야이 Oakwood Central"
-      },
+      "event_info": "{'date': '2026-10-01', 'location': '핫 야이', 'price': '미정', 'location_google_map_query': '핫 야이 Oakwood Central'}",
       "references": [
         {
           "title": "Oakwood Central Hat Yai Q4 2026 Opening Signals Southern Thailand’s Rising Tourism Momentum - Travel And Tour World",
@@ -43183,23 +43172,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNd0w0R203aG9feXBNTXJwNXdyajB1ZXJpV2hDc0ZJT0VhWVFybHNhTUJmbVJOVjM0X2RvTDJqVUt3UUZObHozekRQVm41dlpUalRNRGptdUFYM3FLYzZvWXlYTm1OVU95MUZFUE9lOW4zUnB4ZHkzcVNFZXJRX0hwT01zeGJoNERvNHJ5NTFuM21nX0NKelpZandpYzFtdzh5VEJvR1BqUG1SZ3ZGUlZSekhPaTlWYzBnRGRhRllXdlZZcHhTSVRVeWZxaXgwRmUwSnhvNmxR?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부 구성, 품차이타이당 주도 연립 정부 구성 시도",
       "summary": "- 품차이타이당(BJT)이 74석을 가진 프아타이당(Pheu Thai)과 소수 정당들과 연립 정부 구성을 시도 중.\n- 58석을 가진 클라탐당(Klatham Party)은 연립 정부에서 배제되어 야당에 합류할 것으로 예상.\n- 품차이타이당은 프아타이당에게 하원 의석수에 비례하여 장관직을 배분할 예정이며, 소수 정당에게는 하원 위원회 직책을 보상할 계획.",
       "full_translated": "품자이타이당(BJT)이 프아타이당(Pheu Thai)과의 연립 정부 구성을 시도하면서 동맹을 분리하고 있습니다.\n\n품자이타이당이 연립 정부 입찰에서 프아타이당과 클라탐당을 분리함으로써 내부 경쟁을 억제하려 할 수 있습니다. 지난 선거에서 인민당(PP)의 33석 손실은 과신, 윤리적 문제, 유권자 심리 변화를 반영합니다.\n\n품자이타이당(BJT)이 주도하는 정부가 구성되기 시작했으며, 품자이타이당, 프아타이당 및 여러 소규모 정당 출신의 약 300명의 의원이 연립 정부를 지지할 것으로 예상됩니다. 현재 상황에서 품자이타이당은 193석을 통제하고, 프아타이당은 74석을 확보하며, 소규모 정당들이 실행 가능한 과반수를 확보하는 데 필요한 나머지를 제공합니다.\n\n눈에 띄게 빠진 것은 58석을 가진 클라탐당입니다. 클라탐당은 최고 고문인 타마낫 프롬포우 대장의 지도하에 인민당(PP), 민주당, 통합 태국 국민당(UTN)과 함께 야당 블록에 합류할 것으로 예상됩니다.\n\n관측통에 따르면, 클라탐당을 배제하기로 한 품자이타이당의 결정으로 내각 협상이 더 쉬워졌습니다. 품자이타이당은 연립 정부 지도자로서 프아타이당에게 하원 의석수에 비례하여 장관직을 배분하고, 10석 이상의 의석을 가진 소규모 정당에게는 장관직 대신 하원 위원회 의장 및 부위원장 직을 보상할 것으로 예상됩니다.\n\n그러나 이러한 합의는 일부 품자이타이당 지지자들을 불안하게 만들었습니다. 클라탐당이 없으면 프아타이당이 연립 정부의 유일한 주요 파트너가 되어 상당한 협상력을 갖게 됩니다. 비평가들은 이것이 품자이타이당을 노출시킬 수 있다고 주장합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Keeping allies apart",
@@ -43208,9 +43194,11 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206950_260228005204_700.jpg"
         }
       ],
-      "collected_at": "02:53",
+      "collected_at": "2:53",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206950_260228005204_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/politics/3206950/keeping-allies-apart",
+      "source": ""
     }
   ]
 }
