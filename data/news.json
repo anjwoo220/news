@@ -41091,14 +41091,9 @@
       "summary": "- 치앙라이 콕 강 인근 주민 대상 중금속 오염 검사 결과, 비소 과다 검출 사례 발생.\n- 정부, 정확한 수치 확인 위해 재검사 명령. 불확실한 결과로 인한 불필요한 공황 방지 목적.\n- 관광업계,  upcoming 송끄란 축제에 미칠 영향 우려.",
       "full_translated": "치앙라이: 당국은 콕 강에 대한 비소 농도 재검사를 실시할 예정입니다. 이는 최근 연구에서 강변에 거주하는 주민들에게서 채취한 샘플에서 중금속 흔적이 발견된 데 따른 것입니다.\n\n수요일 추칩 퐁차이 지사가 주재한 회의에서 지역 관리들은 매 파 루앙 대학교 연구팀의 최근 연구 결과를 검토했습니다. 연구 결과 연구에 참여한 여러 참가자의 체내에서 비소 수치가 상승한 것으로 나타났습니다. 연구에 참여한 90명의 주민 중 16명의 체내에서 킬로그램당 0.05밀리그램 이상의 비소가 검출되었으며, 타톤 지역 주민 2명의 체내에서는 킬로그램당 1밀리그램 이상의 중금속이 검출되었습니다. 연구진은 여러 참가자들이 신경 및/또는 근골격계 증상을 보였으며, 이는 중금속 중독을 암시한다고 밝혔습니다. 이러한 발견은 지역 사회에 광범위한 우려를 불러일으켰으며, 정부 기관은 우려하는 주민들로부터 수많은 문의를 받았습니다. 관광 사업자들은 이러한 상황이 다가오는 송끄란 축제, 특히 콕 강을 따라 진행되는 활동에 악영향을 미칠 수 있다는 우려를 표명했습니다. 회의 후 추칩 씨는 당국이 '과학에 근거하여 진실을 말해야 한다'고 말했지만, 불필요한 공황을 피하기 위해 불분명한 결과는 공인된 실험실에서 확인해야 한다고 경고했습니다. 그는 태국에는 현재 명확한 안전 기준이 없다고 언급했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "수질 오염 가능성이 관광객 건강에 잠재적 위협. 송끄란 축제에 영향 가능성.",
-      "event_info": {
-        "date": "2026-02-27",
-        "location": "Kok River, Chiang Rai",
-        "price": "Unknown",
-        "location_google_map_query": "Kok River Chiang Rai"
-      },
+      "event_info": "{'date': '2026-02-27', 'location': 'Kok River, Chiang Rai', 'price': 'Unknown', 'location_google_map_query': 'Kok River Chiang Rai'}",
       "references": [
         {
           "title": "Govt orders re-test for toxins",
@@ -41107,23 +41102,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206053_260227072243_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206053_260227072243_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3206053/govt-orders-retest-for-toxins",
+      "source": ""
     },
     {
       "title": "푸껫, 고속도로 4030 확장으로 교통 체증 완화",
       "summary": "- 푸껫 Highway 4030의 주요 구간 확장 공사 완료\n- 2차선 구간을 4차선으로 확장하여 안전성 및 효율성 향상\n- 수린, 카말라, 파통, 카타, 카론 등 주요 해변 연결 용이",
       "full_translated": "고속도로국(DoH)은 푸껫의 4030번 고속도로에 대한 주요 업그레이드를 완료하여 이전의 위험한 2차선 구간을 더 안전하고 효율적인 통로로 전환했습니다. Piyapong Jiwattanakulpaisarn 고속도로국 국장은 4차선 확장이 도로 안전성을 개선하고 교통 체증을 줄이는 것을 목표로 한다고 어제 발표했습니다. Kathu 지역의 km 16+950 ~ km 18+200에 해당하는 1.25km 구간이 현재 일반에 완전히 개방되었습니다. 이 프로젝트는 고속도로 건설 센터와 교량 건설 및 복원 센터에서 수행했습니다. Piyapong 씨는 이번 업그레이드가 섬의 급속한 도시 및 관광 성장에 맞춰 푸껫의 교통망을 강화하기 위한 광범위한 계획의 일부라고 말했습니다. 4030번 고속도로는 Thepkrasattri Road(402번 고속도로)를 수린, 카말라, 파통, 카타, 카론을 포함한 주요 해변 목적지와 Rawai 교차로까지 연결하는 전략적 해안 도로입니다. 새로 업그레이드된 구간은 좁은 2차선 레이아웃과 시야를 제한하고 잦은 사고를 유발하는 일련의 연속 곡선으로 인해 오랫동안 병목 현상으로 간주되었습니다. 관계자들은 이 프로젝트를 해당 노선을 따라 \"마지막 누락된 4차선 조각\"이라고 설명했습니다. 작업에는 중앙 분리대가 있는 4차선으로 도로를 확장하고 배수 시스템을 개선하며 업그레이드된 조명 및 교통 표지판을 설치하는 것이 포함되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫 주요 해변 접근성 개선, 여행 편의성 증진",
-      "event_info": {
-        "date": null,
-        "location": "푸껫",
-        "price": null,
-        "location_google_map_query": "푸껫 Highway 4030"
-      },
+      "event_info": "{'date': None, 'location': '푸껫', 'price': None, 'location_google_map_query': '푸껫 Highway 4030'}",
       "references": [
         {
           "title": "Highway upgrade eases traffic flow",
@@ -41132,23 +41124,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3205953_260227070859_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3205953_260227070859_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205953/highway-upgrade-eases-traffic-flow",
+      "source": ""
     },
     {
       "title": "시하삭 외무장관, 유럽 방문 통해 태국-캄보디아 국경 분쟁 평화적 해결 의지 표명",
       "summary": "- 시하삭 외무장관은 유럽 방문 중 캄보디아와의 평화적 관계 유지 의지를 강조하며 국경 침범 주장을 반박함.\n- 유엔 인권 고등판무관 및 유럽 관리들과 만나 양국 간 휴전 협정 준수 및 신뢰 회복 노력을 설명함.\n- 태국은 캄보디아와의 평화 공존을 추구하며, 도발 시 국제법과 유엔 헌장에 따른 상응 조치를 취할 권리를 보유하고 있다고 밝힘.",
       "full_translated": "시하삭 푸앙께트께오 외무장관은 최근 유럽 방문을 통해 태국이 캄보디아와의 평화를 위해 노력하고 있으며, 태국군이 캄보디아 영토를 침범했다는 주장을 단호히 반박했다고 외무부가 어제 밝혔습니다. 시하삭 장관은 2월 23일부터 25일까지 프랑스 파리와 스위스 제네바를 방문하여 유엔 인권 고등판무관 볼커 튀르크 및 유럽 관리들과 회담을 가졌다고 외무부는 밝혔습니다. 이 회담에서 태국은 캄보디아와 체결한 휴전 협정을 준수하고 캄보디아 국경을 따라 신뢰와 안정을 회복하기 위해 적극적으로 노력하고 있다고 마라티 날리타 안다모 외무부 부대변인이 밝혔습니다. 시하삭 장관은 휴전이 여전히 취약하지만 태국은 그 조건을 엄격히 준수했으며 프놈펜의 주장과는 달리 캄보디아 영토를 침범한 적이 없다고 강조했습니다. 그는 태국이 미결 문제를 평화적으로 해결하기 위해 곧 열릴 공동 경계 위원회 회의에 참여할 준비가 되어 있으며 캄보디아가 자제할 것을 촉구했다고 밝혔습니다. 그는 또한 유럽 연합 외교 정책 책임자인 카야 칼라스와의 대화에서 태국의 입장을 분명히 밝혔는데, 태국은 캄보디아와의 평화로운 공존을 추구하지만 도발 시 국제법과 유엔 헌장에 따라 비례적으로 대응할 권리를 보유하고 있다고 마라티는 말했습니다. 외무부는 또한",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국-캄보디아 국경 문제는 여행객에게 직접적인 위협은 아니지만, 외교적 긴장이 고조될 경우 여행에 영향을 줄 수 있으므로 낮은 점수를 부여함. 현재 상황은 기존에 알려진 외교적 노력의 반복이므로 업데이트로 보기 어렵다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Sihasak defends border conduct in Europe: ministry",
@@ -41157,23 +41146,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3205898_260227072458_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3205898_260227072458_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3205898/sihasak-defends-border-conduct-in-europe-ministry",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 무역 중단으로 접경 지역 사업체, 정부 지원 호소",
       "summary": "- 태국-캄보디아 국경 지역 사업체들이 국경 폐쇄 장기화로 어려움을 겪으며 정부 지원을 촉구하고 있습니다.\n- 무역 중단으로 수출 수익이 사라졌고, 일부 회사는 월별 수백만 바트의 손실을 보고 있습니다.\n- 정부의 실질적인 지원이 없는 가운데 사업체들은 고정 비용 부담에 직면해 있으며, 상황 개선이 불확실합니다.",
       "full_translated": "태국-캄보디아 국경 지역 사업체들이 양국 간 긴장으로 인한 주요 검문소 폐쇄 장기화로 인해 생존에 어려움을 겪으면서 정부의 긴급한 개입을 촉구하고 있습니다. Jatupat Ruksahakul Trat Mankong Co.의 전무 이사이자 Trat 상공 회의소 이사는 폐쇄로 인해 국경 간 무역이 중단되고 수출 수익이 사라졌다고 말했습니다. 그는 그 영향이 심각하고 혼란이 장기간 지속될 수 있다고 말했습니다. 이전에는 Trat Mankong Co.가 건설 자재 수출로 매달 수백만 바트를 벌어들였지만 현재는 수익이 0으로 떨어졌습니다. Jatupat 씨는 '국가 수준에서 2025년 국경 무역 손실이 약 300억 바트에 달하는 것으로 추정됩니다.'라고 덧붙였습니다. 콘크리트 제품, 말뚝 및 시멘트 수출 중단으로 인해 연간 최소 1억 바트의 손실이 발생했습니다. 그는 정부의 구체적인 지원은 없었고 기업은 급여 및 대출 상환과 같은 고정 비용으로 계속 어려움을 겪고 있다고 말했습니다. 일부 금융 지원은 SME 은행과 같은 기관에서 제공되었으며, 이 은행은 원금 상환 유예를 승인했지만 이자는 계속 발생합니다. Jatupat 씨는 국경 검문소가 다시 열리더라도 캄보디아에서 민족주의 정서가 고조됨에 따라 상황이 즉시 회복되지 않을 수 있다고 지적했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "국경 무역에 대한 내용으로, 여행 자체에 직접적인 영향은 적으나, 사업 관련자 또는 경제 상황에 민감한 여행자에게 간접적인 정보 제공 가능. 하지만 아침 브리핑이므로 우선순위는 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Businesses along border call for aid",
@@ -41182,23 +41168,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206018_260227070720_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206018_260227070720_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3206018/businesses-along-border-call-for-aid",
+      "source": ""
     },
     {
       "title": "태국 공군, 훈련 중 사망 사고 연관성 부인",
       "summary": "- 태국 공군, 훈련병 사망 원인은 뇌 농양 합병증이라고 발표.\n- 사망한 훈련병의 어머니는 아들의 치료 과정에 의문을 제기.\n- 공군 대변인은 사망은 급성 질환 때문이며 훈련과는 무관하다고 강조.",
       "full_translated": "태국 공군(RTAF)은 훈련병 프루사파 위무티탐차이의 사망과 관련하여 성명을 발표했습니다. 의학 조사관들은 사망 원인이 뇌 농양 합병증으로 인한 뇌사라고 밝혔습니다. 이번 해명은 훈련병의 어머니가 아들의 기초 훈련 중 치료에 대한 의문을 제기하면서 다시금 대중의 관심이 쏠린 데 따른 것입니다.\n\n자크릿 탐마위차이 공군 부사령관은 공군을 대표하여 유족에게 깊은 애도를 표한다고 밝혔습니다. 그는 2025년에 발생한 이번 사망은 급성 질환 때문이며 군사 훈련이나 임무와는 무관하다고 강조했습니다. 성명에 따르면 21세의 프루사파 훈련병은 2025년 5월 1일 첫 기수로 입대하여 방콕 돈므앙 지역의 제1공군 보안대대에 배치되었습니다. 입대 직후 그는 귀 통증과 분비물을 호소했습니다. 그는 5월 6일 공군 의료 부서로 보내져 약물 치료를 받았고, 추후 진료 예약이 잡혔습니다. 5월 11일, 그는 고열로 부미볼 아둘야데즈 병원에 입원하여 A형 독감 진단을 받았습니다. 5월 6일부터 6월 16일까지 그는 귀 염증, 고열 및 관련 증상으로 9차례 의료 치료를 받았으며, 여기에는 혈액 검사와 귀에서 고름 배출 등이 포함되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 내 사건 사고에 대한 정보 제공 차원에서 포함. 공군 훈련병 사망 사건에 대한 공군의 해명.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Royal Thai Air Force rejects training link to fatality",
@@ -41207,8 +41190,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206033_260227071035_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206033_260227071035_700.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3206033/royal-thai-air-force-rejects-training-link-to-fatality",
+      "source": ""
+    },
+    {
+      "title": "방콕 전역 255곳 '더위 피난처' 운영: 무료 휴식 공간, 식수 제공, 응급 의료 센터",
+      "summary": "- 방콕시, 급증하는 기온에 대비하여 시민들을 위한 '더위 피난처' 255곳 운영.\n- 3월-4월 동안 오전 10시부터 오후 3시까지 운영되며, 시청, 보건소, 학교 등에서 이용 가능.\n- 더위로 인한 건강 문제 발생 시 24시간 건강 상담 전화 1646으로 문의 가능.",
+      "full_translated": "방콕시 보건국 국장 크리앙크라이 탕짓라마니삭다는 보건국이 건강에 영향을 미치는 기온 변화 상황을 주시하고 있다고 밝혔습니다. 특히 어린이, 임산부, 노인, 기저 질환자와 같이 특별한 관리가 필요한 사람들은 장시간 야외 활동을 피해야 합니다. 또한, 의료 및 공중 보건 운영 지침을 수립하여 더위로 인한 건강 영향을 줄이고 예방하며, 응급 의료 운영 센터를 준비하고, 여름철 건강 관리 지식 홍보 캠페인을 펼치고 있습니다. 더위로 인해 일사병 또는 열사병이 발생할 수 있습니다. 따라서 국민들에게 더운 날씨나 야외에서 장시간 활동하는 것을 피하고, 물을 충분히 마시는 등 스스로를 보호할 것을 권장합니다. 필요한 경우 햇빛을 가릴 수 있는 장비를 갖추고, 건강 문제 상담은 24시간 건강 상담 전화 1646으로 문의하십시오.\n\n방콕 시장 고문 폰프롬 위킷세트는 방콕시가 예상되는 극심한 더위 상황에 대비하여 방콕 전역에 총 255개의 '더위 피난처'를 개방한다고 밝혔습니다. 이 피난처는 50개 구청, 69개 보건 센터, 방콕시 산하 51개 학교, 방콕시 직업 훈련 학교 10개, 방콕시 문화체육관광국 산하 서비스 센터 75개 등 시 전역에 걸쳐 분포되어 있습니다. 운영 시간은 3월부터 4월까지 오전 10시부터 오후 3시까지입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행자들의 건강과 안전에 직접적인 영향을 미칠 수 있는 정보이며, 더위를 피할 수 있는 장소에 대한 정보는 매우 유용함. 특히 3-4월은 방콕 여행 성수기이므로 중요도가 높음.",
+      "event_info": {
+        "date": "2024-03-08 ~ 2024-04-30",
+        "location": "방콕 전역 (구청, 보건소, 학교 등)",
+        "price": "무료",
+        "location_google_map_query": "방콕 구청"
+      },
+      "references": [
+        {
+          "title": "เช็กพิกัด “ห้องหลบร้อน” 255 จุดกระจายทั่วกรุง พักผ่อนฟรี มีน้ำดื่ม-ศูนย์แพทย์ฉุกเฉิน",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2916775",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFLNtq6I2svQ3.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFLNtq6I2svQ3.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "일본, 관광객 급증으로 일부 도시에서 벚꽃 축제 취소",
+      "summary": "- 일본 여러 도시에서 관광객 급증으로 벚꽃 축제가 취소됨.\n- 야마나시현의 아라쿠라야마 센겐 공원은 특히 심각한 영향을 받음.\n- 관광객 증가로 교통 체증, 쓰레기 문제, 주민 생활에 부정적 영향 발생.",
+      "full_translated": "일본의 여러 도시에서 관광객이 몰려드는 문제로 벚꽃 축제를 취소한다고 발표했습니다. 야마나시현의 아라쿠라야마 센겐 공원은 후지산과 5층 탑을 배경으로 하는 인기 관광 명소로, 소셜 미디어에서 입소문을 타면서 특히 많은 관광객이 몰렸습니다. 공원 측은 관광 시즌 동안 하루에 10,000명 이상의 관광객이 방문하여 교통 체증, 쓰레기 문제, 지역 주민의 삶에 부정적인 영향을 미쳤다고 밝혔습니다. 이에 따라 지역 주민들의 생활을 보호하기 위해 올해 벚꽃 축제를 취소하기로 결정했으며, 내년에 다시 축제를 개최할 수 있을지는 아직 불확실합니다. 한편, 일본 기상 협회는 올해 벚꽃 개화 시기가 평년보다 빠를 것으로 예측했습니다. 도쿄와 후쿠오카는 3월 20일, 나고야와 고치는 3월 21일, 히로시마는 3월 22일, 오사카는 3월 24일, 센다이는 4월 1일, 삿포로는 4월 27일에 벚꽃이 개화할 것으로 예상됩니다. 올해 벚꽃이 빨리 피는 이유는 1월의 강력한 한파와 2월의 평년보다 높은 기온, 그리고 3월의 따뜻한 날씨 때문입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "일본 여행을 계획하는 여행객에게 벚꽃 축제 취소 정보는 중요하며, 개화 시기 정보는 여행 계획에 영향을 미칠 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": "일본 여러 도시 (야마나시현 아라쿠라야마 센겐 공원 등)",
+        "price": null,
+        "location_google_map_query": "아라쿠라야마 센겐 공원"
+      },
+      "references": [
+        {
+          "title": "หลายเมืองของญี่ปุ่นประกาศยกเลิกเทศกาลชมดอกซากุระ หลังนทท.แห่เยือนวันละกว่า 10,000 คน",
+          "url": "https://www.thairath.co.th/news/foreign/2916772",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFLeP3AChlAMM.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFLeP3AChlAMM.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "수린 지역에서 지뢰 폭발로 군인 부상",
+      "summary": "- 수린 주, 캄보디아 국경 근처에서 군인이 지뢰를 밟아 다리 부상\n- 사고 지점은 과거 분쟁 지역으로, 매설된 지뢰로 추정\n- 군 당국은 추가 안전 조치를 강구 중",
+      "full_translated": "태국 제2군단은 수린 주, 캄보디아 국경 근처 '촌 라이' 지역에서 군인이 지뢰를 밟아 다리 부상을 입었다고 발표했습니다. 초기 조사 결과, 해당 지뢰는 최근에 매설된 것이 아니라 오래전에 묻혀있던 것으로 추정됩니다. 사고 당시 군인은 해당 지역에서 임무 수행 중이었으며, 지뢰가 낙엽 등에 가려져 발견하기 어려웠던 것으로 알려졌습니다. 현재 부상자는 인근 병원으로 이송되어 치료를 받고 있으며, 군 당국은 해당 지역에 대한 안전 점검을 강화하고 추가적인 안전 조치를 시행할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "국경 지역 여행 시 안전 유의 필요. 여행객 직접적인 영향은 적으나, 유사 사고 발생 가능성 존재",
+      "event_info": {
+        "date": "2024-02-27",
+        "location": "수린 주, 캄보디아 국경 근처 '촌 라이' 지역",
+        "price": null,
+        "location_google_map_query": "Surin Province"
+      },
+      "references": [
+        {
+          "title": "ทหารเจ็บเพิ่ม เหยียบกับระเบิดขาขาดในพื้นที่ \"ช่องระยี\" ตรวจพบไม่ใช่การวางใหม่",
+          "url": "https://www.thairath.co.th/news/local/northeast/2916761",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFn47GKTcnu0P.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFn47GKTcnu0P.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "전기차(EV) vs 내연기관차(ICE) 비교 분석: 장기적 가치와 실제 사용",
+      "summary": "- 전기차는 에너지 효율이 매우 높아 내연기관차보다 우수하며, 즉각적인 토크 제공으로 빠른 가속 가능.\n- 전기차는 움직이는 부품이 적어 유지보수 비용이 저렴하며, 회생 제동 시스템으로 브레이크 패드 수명 연장.\n- 전기차 배터리는 8-10년 또는 16만-20만km 수명이지만, 교체 비용이 높아 초기 투자 비용이 높음.",
+      "full_translated": "전기차(EV)와 내연기관차(ICE)의 비교는 여러 측면에서 흥미로운 논점을 제공합니다. 특히 '장기적인 가치'와 '실제 사용 특성'의 관점에서 보면 더욱 그렇습니다.\n\n**효율성 (Efficiency):**\n공학적으로 볼 때 전기차는 에너지 효율이 훨씬 높습니다. 구동 모터의 동력 손실이 매우 적습니다. 전기 모터는 전기 에너지를 구동력으로 80-90%까지 변환할 수 있습니다. 즉각적인 토크를 제공하여 빠른 추월이 가능합니다. 내연기관은 열과 마찰로 인해 에너지 손실이 상당히 큽니다. 실제 효율은 약 20-30%에 불과하며, 나머지는 열과 폭발로 인한 마찰로 소모됩니다.\n\n**마모 및 유지보수 (Maintenance):**\n전기차의 가장 큰 장점은 움직이는 부품(Moving Parts)이 훨씬 적다는 것입니다. \n* 사라진 부품: 전기차에는 타이밍 벨트, 점화 플러그, 오일 필터, 다단 변속기 또는 배기 파이프가 없습니다.\n* 브레이크 시스템: 전기차에는 회생 제동(모터를 감속하여 전기를 다시 생성) 시스템이 있어 브레이크 패드의 마모가 내연기관차보다 2-3배 느립니다.\n* 비용: 평균적으로 전기차의 정기 유지보수 비용은 내연기관차보다 약 40-60% 저렴합니다. 전기차 타이어는 특히 토크 성능이 높은 듀얼 모터 전기차의 경우 내연기관차보다 빨리 마모되는 경향이 있습니다.\n\n**수명 및 부품 비용 (Lifespan & Spare Parts):**\n실제로 전기차의 일반적인 유지보수 비용은 훨씬 저렴합니다. 그러나 전기차의 '핵심'은 가격이 비싼 배터리입니다.\n* 배터리: 현재 리튬 이온 배터리의 수명은 약 8-10년 또는 160,000 - 200,000km입니다. 그 후에는 성능이 저하되기 시작합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 전기차 사용 관련 정보는 여행자에게 직접적인 영향은 적지만, 차량 이용 시 참고할 만한 정보이므로 낮은 점수 부여. 최신 기술 트렌드에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เปรียบเทียบการใช้งาน รถยนต์ไฟฟ้า (EV) กับ รถยนต์เครื่องยนต์สันดาปภายใน (ICE)",
+          "url": "https://www.thairath.co.th/news/auto/tips/2916597",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrJwb4OOvj2K40.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOrJwb4OOvj2K40.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "SPACEBAR, 선거관리위원회 사진작가 고발 후 성명 발표: 언론 사명 준수 강조",
+      "summary": "- SPACEBAR, 언론 사명 준수 강조하며 성명 발표\n- 선거 사진 촬영은 유권자 비밀 침해 의도 없었다고 해명\n- 선관위의 과도한 고발에 유감 표명, 소속 사진작가 보호 약속",
+      "full_translated": "SPACEBAR는 선거관리위원회(꺼꺼떠.)가 소속 사진작가를 고발한 후 성명을 발표하여 언론의 사명을 준수할 것을 확인했습니다. SPACEBAR는 투표용지와 용지 원본 사진 촬영이 유권자의 권리를 침해하려는 의도가 없었다고 밝혔습니다. SPACEBAR는 선거관리위원회의 고발이 과도하다고 지적하며 소속 사진작가를 끝까지 보호하겠다고 밝혔습니다. 2026년 2월 27일, 언론에 따르면 2월 26일 23시 50분, SPACEBAR는 선거관리위원회(꺼꺼떠.)가 선거 방해, 불법 단체 가입, 선동, 허위 정보 유포 혐의로 소속 사진작가를 고발한 사건에 대한 성명을 발표했습니다. 성명에 따르면 선거관리위원회는 투표용지, 투표용지 원본 사진을 촬영하고 QR 코드, 바코드를 해독하려 한 혐의로 여러 사람을 고발했습니다. 이들은 지역구 및 비례대표 투표용지에서 유권자가 누구에게 투표했는지 연결하려 한 혐의를 받습니다. 사건은 2026년 2월 22일 칸나야오 제15선거구 제9투표소에서 발생했습니다. 선거관리위원회가 고발한 사람은 SPACEBAR 직원을 포함하여 6명입니다. 이는 선거 과정의 신뢰성, 유권자의 비밀 권리, 여러 공인 및 언론인에 대한 보안법/형법 적용과 관련된 '민감한' 상황입니다. SPACEBAR 사진작가는 언론인으로서 투표, 개표, 인물 사진, 투표소 주변 분위기를 촬영했습니다. 이는 대중의 관심을 끄는 사건입니다. 사진작가는 비례대표 및 지역구 투표용지 사진을 촬영했으며, 공개 전에 원본의 세부 정보를 가렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "언론 자유 관련 이슈로, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "SPACEBAR ออกแถลงการณ์ หลัง กกต. ฟ้องช่างภาพ ย้ำยึดมั่นพันธกิจสื่อมวลชน",
+          "url": "https://www.thairath.co.th/news/politic/2916770",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFLnbFeyCuuTs.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOoFLnbFeyCuuTs.jpg",
       "date": "2026-02-27"
     }
   ]
