@@ -42918,14 +42918,9 @@
       "summary": "- 푸껫 해변에서 침몰 화물선에서 유출된 기름으로 인한 피해가 계속되고 있음.\n- 해양 생태계 오염과 함께 관광 산업에도 악영향 우려.\n- 당국은 방제 작업을 진행 중이며, 여행객들은 오염 해변 방문 자제 권고.",
       "full_translated": "푸껫 해변에서 발생한 침몰 화물선 'Sealloyd Arc'호의 기름 유출 사고로 인해 해변 오염이 지속되고 있습니다. 이로 인해 해양 생태계가 위협받고 있으며, 푸껫을 방문하는 관광객들에게 불편을 초래하고 있습니다. 관계 당국은 오염 제거 작업을 진행 중이지만, 완전한 복구까지는 시간이 걸릴 것으로 예상됩니다. 여행객들은 오염된 해변 방문을 자제하고, 관련 정보를 지속적으로 확인하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "해변 오염으로 인한 관광객 불편, 건강 및 안전 문제, 관광 산업 피해.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 해변",
-        "price": null,
-        "location_google_map_query": "푸껫 해변"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 해변', 'price': None, 'location_google_map_query': '푸껫 해변'}",
       "references": [
         {
           "title": "Oil Spill From Sunken Cargo Ship Washes Up On Phuket Beaches Two Weeks After Sinking - Marine Insight",
@@ -42943,22 +42938,20 @@
           "source": "The Maritime Executive"
         }
       ],
-      "collected_at": "01:52",
-      "date": "2026-02-28"
+      "collected_at": "1:52",
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiWWh0dHBzOi8vbWFyaW5laW5zaWdodC5jb20vbWFyaXRpbWUvb2lsLXNwaWxsLWZyb20tc3Vua2VuLWNhcmdvLXNoaXAv0gEA?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫 해변 기름 유출 피해 지속: 여행객 주의 요망",
       "summary": "- 푸껫 해변에서 침몰 화물선 기름 유출 피해가 지속되고 있습니다.\n- 해양 생태계와 관광 산업에 심각한 위협이 되고 있습니다.\n- 여행객들은 해변 방문 시 주의가 필요합니다.",
       "full_translated": "푸껫 해변에서 침몰한 화물선 Sealloyd Arc호에서 유출된 기름으로 인해 해변 오염이 발생하고 있습니다. 이로 인해 해양 생태계가 위협받고 있으며, 푸껫을 방문하는 여행객들의 주의가 요구됩니다. 기름 유출 피해는 계속 확산될 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "푸껫 해변 기름 유출 상황이 지속됨. 여행객 안전 및 관광에 직접적인 영향을 미치므로 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 해변",
-        "price": null,
-        "location_google_map_query": "푸껫 해변"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 해변', 'price': None, 'location_google_map_query': '푸껫 해변'}",
       "references": [
         {
           "title": "Oil Spill From Sunken Cargo Ship Washes Up On Phuket Beaches Two Weeks After Sinking - Marine Insight",
@@ -42976,22 +42969,20 @@
           "source": "The Maritime Executive"
         }
       ],
-      "collected_at": "01:52",
-      "date": "2026-02-28"
+      "collected_at": "1:52",
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://www.marineinsight.com/shipping/oil-spill-from-sunken-cargo-ship-washes-up-on-phuket-beaches-two-weeks-after-sinking/",
+      "source": ""
     },
     {
       "title": "태국, 파타야에서 투모로우랜드 아시아 최초 풀 스케일 에디션 개최",
       "summary": "- 투모로우랜드, 태국에서 아시아 최초 풀 스케일 에디션 개최 확정.\n- 파타야에서 개최되어 글로벌 축제 관광의 새로운 시대 예고.\n- 태국 관광 산업에 10억 달러의 수입을 가져다줄 것으로 기대.",
       "full_translated": "투모로우랜드가 태국에서 아시아 최초의 풀 스케일 에디션을 개최하기로 결정하면서 파타야의 글로벌 축제 관광에 새로운 시대가 열렸습니다. 이는 태국 관광 산업에 큰 활력을 불어넣을 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 국제 축제 개최는 관광객 유치에 긍정적인 영향을 미치므로 높은 점수 부여. 숙박, 교통 등 관련 정보 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Tomorrowland Chooses Thailand for Its First Full-Scale Asian Edition, Signalling a New Era for Global Festival Tourism in Pattaya - Travel And Tour World",
@@ -43000,23 +42991,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "1:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOaVlZZkVraFI0a3NXZWpTb2QzdVFhaVZRSFRXb0tqa0lwSjVoeW9sUFVlX2hFZ0U1NHJkbWJDVDF6M3BTVjMyRGJwOTNSMWk5eHM4ZG03azRkY183bS1KbFdHME5PMUZ4ZE9YY1AxYnFrV3lGTTlaSHhjZnNCTXdDVFNyZmlaeUJuUW5ZcEFVZHBUMXNYRGJKNUVnd0RFbkVHSkxWb2VaS2xkMUY3aS1RQy11bEhNQ2lreEZCVFEtTnJGOFdwT3hXdUdSSmtsZUlOaGlsMjhnWHRScUc3YWRrbl8wang5UGEwR1A4OUQ4empVQ3BKZVVFMzQ1c0JyMVBrcDI2cXZnWjE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 공원의 호랑이 72마리, 질병으로 폐사 (업데이트)",
       "summary": "- 태국 내 관광 공원에서 사육 중인 호랑이 72마리가 질병으로 폐사함.\n- 해당 공원은 관광객들에게 호랑이 체험 프로그램을 제공하는 곳임.\n- 공원 측은 질병 확산 방지를 위해 노력 중이며, 정확한 원인 조사 진행 중.",
       "full_translated": "태국 관광 공원에서 72마리의 호랑이가 질병으로 사망했습니다. 해당 공원은 관광객을 대상으로 호랑이와 교감하는 체험 프로그램을 제공하는 곳으로, 이번 질병으로 인해 관광객들의 안전에 대한 우려가 제기되고 있습니다. 공원 측은 추가적인 질병 확산을 막기 위해 노력하고 있으며, 정확한 폐사 원인을 조사하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "동물 학대 및 질병 확산 우려, 관광객 안전 문제 발생 가능성",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "72 tigers at Thailand tourist park die from illness - WABI",
@@ -43024,16 +43012,73 @@
           "source": "WABI"
         }
       ],
-      "collected_at": "01:52",
-      "date": "2026-02-28"
+      "collected_at": "1:52",
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmthbnNhc2luZ2VyLmNvbS9uZXdzLzIwMjQvMDYvMTAvNzItdGlnZXJzLWF0LXRoYWlsYW5kLXRvdXJpc3QtcGFyay1kaWUtZnJvbS1pbGxuZXNzL9IBAA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 공원 호랑이 72마리 폐사: 여행객 안전에 대한 우려 증가",
       "summary": "- 태국 관광 공원에서 사육되던 호랑이 72마리가 질병으로 폐사했습니다.\n- 관광객 안전 및 동물 복지에 대한 우려가 제기되고 있습니다.\n- 관련 당국은 정확한 원인 조사 및 재발 방지 대책 마련에 나섰습니다.",
       "full_translated": "태국 내 한 관광 공원에서 사육 중이던 호랑이 72마리가 원인 불명의 질병으로 폐사했습니다. 이는 관광객 안전 문제뿐만 아니라 동물 복지 측면에서도 심각한 문제로 지적되고 있습니다. 관계 당국은 정확한 폐사 원인을 조사하고 있으며, 유사한 사건의 재발을 막기 위한 대책을 강구할 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광지에서 발생한 동물 폐사 사건으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있으므로 포함.",
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
+      "references": [
+        {
+          "title": "72 tigers at Thailand tourist park die from illness - WABI",
+          "url": "https://www.wabi.tv/content/news/72-tigers-at-Thailand-tourist-park-die-from-illness-576022981.html",
+          "source": "WABI"
+        }
+      ],
+      "collected_at": "1:52",
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://www.wabi.tv/content/news/72-tigers-at-Thailand-tourist-park-die-from-illness-576022981.html",
+      "source": ""
+    },
+    {
+      "title": "푸껫 해변 기름 유출 피해 확산: 여행객 주의 필요 (최신 업데이트)",
+      "summary": "- 푸껫 해변에서 침몰 화물선에서 유출된 기름이 확산되어 해양 생태계와 관광에 심각한 위협이 되고 있음.\n- 주요 해변들이 오염되었으며, 해양 생물 피해가 속출하고 있어 여행객들의 주의가 필요함.\n- 당국은 방제 작업을 진행 중이지만, 완전한 복구에는 상당 시간이 소요될 것으로 예상됨.",
+      "full_translated": "푸껫 해변에서 발생한 기름 유출 사고로 인해 해변 오염이 심각해지고 있으며, 해양 생태계와 관광 산업에 미치는 영향이 커지고 있다. 침몰한 화물선 Sealloyd Arc호에서 유출된 기름이 주요 해변을 오염시키고 있으며, 해양 생물들이 피해를 입고 있다. 당국은 기름 제거 작업을 진행하고 있지만, 완전한 복구에는 상당한 시간이 소요될 것으로 보인다. 푸껫을 방문하는 여행객들은 해변 이용 시 주의를 기울여야 한다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "푸껫 해변의 기름 유출은 여행객의 안전과 직결되는 문제이며, 관광 경험에 큰 영향을 미치므로 높은 점수를 부여함. 상황이 지속적으로 업데이트되고 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 해변",
+        "price": null,
+        "location_google_map_query": "푸껫 해변"
+      },
+      "references": [
+        {
+          "title": "Fears grow as oil slick from sunken cargo ship threatens marine life and Phuket tourism - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3Lm5hdGlvbmthYWlsYW5kLmNvbS90aGFpbGFuZC9zb3V0aC80MDAzOTEwNNIBaGh0dHBzOi8vd3d3Lm5hdGlvbmthYWlsYW5kLmNvbS90aGFpbGFuZC9zb3V0aC80MDAzOTEwNC9hbXA?oc=5",
+          "source": "Nation Thailand"
+        },
+        {
+          "title": "Oil Leaking from Sealloyd Arc Shipwreck Hits Thailand's Tourist Beaches - The Maritime Executive",
+          "url": "https://news.google.com/rss/articles/CBMiXWh0dHBzOi8vd3d3Lm1hcml0aW1leGVjLmNvbS9hcnRpY2xlL29pbC1sZWFraW5nLWZyb20tc2VhbGxveWQtYXJjLXNoaXB3cmVjay1oaXRzLXRoYWlsYW5kLXMtVG91cmlzdC1iZWFjaGVz0gEA?oc=5",
+          "source": "The Maritime Executive"
+        },
+        {
+          "title": "Oil Spill From Sunken Cargo Ship Washes Up On Phuket Beaches Two Weeks After Sinking - Marine Insight",
+          "url": "https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vd3d3Lm1hcmluZWluc2lnaHQubmwvbWFyaXRpbWUvb2lsLXNwaWxsLWZyb20tc3Vua2VuLWNhcmdvLXNoaXAtd2FzaGVzLXVwLW9uLXBodWtldC1iZWFjaGVzLXR3by13ZWVrcy1hZnRlci1zaW5raW5nL9IBAA?oc=5",
+          "source": "Marine Insight"
+        }
+      ],
+      "collected_at": "02:28",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 관광 공원의 호랑이 72마리, 질병으로 폐사 (속보)",
+      "summary": "- 태국 유명 관광 공원에서 호랑이 72마리가 원인 불명의 질병으로 폐사함.\n- 관광객 안전 및 공원 위생에 대한 우려가 제기되고 있음.\n- 당국은 정확한 사인 규명 및 추가 확산 방지에 주력.",
+      "full_translated": "태국 내 한 관광 공원에서 사육 중이던 호랑이 72마리가 질병으로 인해 폐사했다는 소식이 전해졌다. 해당 공원은 관광객들에게 인기 있는 곳으로, 이번 사건으로 인해 공원 방문객들의 안전과 동물 복지에 대한 우려가 커지고 있다. 당국은 폐사 원인을 조사하고 있으며, 질병의 확산을 막기 위해 노력하고 있다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광지에서 발생한 질병으로 인한 동물 폐사 사건으로, 공원 방문객의 안전 문제와 직결될 수 있어 여행 관련 정보로 분류.",
       "event_info": {
         "date": null,
         "location": "태국 관광 공원",
@@ -43043,11 +43088,34 @@
       "references": [
         {
           "title": "72 tigers at Thailand tourist park die from illness - WABI",
-          "url": "https://www.wabi.tv/content/news/72-tigers-at-Thailand-tourist-park-die-from-illness-576022981.html",
+          "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LndhYmkudHYvMjAyNC8wNS8yMy83Mi10aWdlcnMtYXQtdGhhaWxhbmQtdG91cmlzdC1wYXJrLWRpZS1mcm9tLWlsbG5lc3Mv0gEA?oc=5",
           "source": "WABI"
         }
       ],
-      "collected_at": "01:52",
+      "collected_at": "02:28",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 관광 공원의 호랑이 72마리 질병으로 폐사",
+      "summary": "- 태국 관광 공원에서 사육 중인 호랑이 72마리가 원인 불명의 질병으로 폐사함.\n- 해당 공원은 관광객들에게 호랑이와 교감하는 체험을 제공하는 곳임.\n- 당국은 정확한 폐사 원인 조사와 함께 추가 확산 방지에 주력하고 있음.",
+      "full_translated": "태국 관광 공원에서 사육 중인 호랑이 72마리가 질병으로 폐사했습니다. 해당 공원은 관광객들에게 호랑이와 교감하는 체험을 제공하는 곳으로, 이번 폐사 사건은 관광객들의 안전에 대한 우려를 낳고 있습니다. 당국은 정확한 폐사 원인 조사와 함께 추가 확산 방지에 주력하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물원/관광 시설의 질병 발생은 여행객 안전에 대한 우려를 야기할 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "72 tigers at Thailand tourist park die from illness - WABI",
+          "url": "https://www.wabi.tv/2024/07/03/72-tigers-thailand-tourist-park-die-illness/",
+          "source": "WABI"
+        }
+      ],
+      "collected_at": "02:28",
       "date": "2026-02-28"
     }
   ]
