@@ -42191,14 +42191,9 @@
       "summary": "- 2월 26일 밤, 촌부리 방라뭉 지역에서 3인조 강도가 영국인 남성의 집에 침입하여 금고를 훔쳐 달아남.\n- 피해자는 외국인 셰프와 태국인 아내이며, 금고 안에는 2백만 바트 상당의 현금이 있었음.\n- 경찰은 용의자 추적 및 주변 탐문 수사 진행 중. 내부 공모자 가능성도 조사.",
       "full_translated": "촌부리에서 검은 복면을 쓴 강도들이 영국인 남성의 금고를 털어 2백만 바트를 강탈한 사건이 발생했습니다. 경찰은 추가 증거를 찾기 위해 현장을 조사하고 있으며, 내부 정보 제공자가 있을 가능성을 염두에 두고 태국인 공범 여부를 수사하고 있습니다. 이웃 주민은 범인들이 범행을 위해 마을에 진입하여 대기하고 있었다고 증언했습니다. 2월 26일 밤, 3인조 강도들이 검은 옷을 입고 복면을 쓴 채 촌부리 방라뭉 지역의 한 주택에 침입하여 외국인 셰프 웨슬리 사이릴 러셀(32세)과 그의 태국인 아내를 위협하고 2층 침실에서 금고를 훔쳐 검은색 4도어 픽업트럭을 타고 도주했습니다. 금고 안에는 2백만 바트가 넘는 현금이 들어 있었습니다. 수사 책임자인 경찰 대령 낫폰 퐁숙사쿤은 수사관들과 함께 현장을 재조사하여 추가 증거를 확보하고 있습니다. 또한, 피해자 웨슬리 사이릴 러셀과 그의 태국인 여자친구, 그리고 같은 집에 거주하는 영국인 친구 2명을 불러 추가 심문을 진행하고 있습니다. 이웃 주민은 범행 차량이 밤 8시부터 마을에 들어와 있었다고 진술했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생으로 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공.",
-      "event_info": {
-        "date": "2024-02-26",
-        "location": "촌부리 방라뭉",
-        "price": "2백만 바트 상당의 현금 도난",
-        "location_google_map_query": "방라뭉"
-      },
+      "event_info": "{'date': '2024-02-26', 'location': '촌부리 방라뭉', 'price': '2백만 바트 상당의 현금 도난', 'location_google_map_query': '방라뭉'}",
       "references": [
         {
           "title": "ล่าแก๊งไอ้โม่ง ปล้นตู้เซฟหนุ่มอังกฤษ 2 ล้าน เชื่อมีคนชี้เป้า - คนไทยร่วมด้วย",
@@ -42209,21 +42204,18 @@
       ],
       "collected_at": "19:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYoTC4I6JkvqAw.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/crime/2916937",
+      "source": ""
     },
     {
       "title": "만조 주의보: 방콕 및 중부 지방, 토요일부터 다음 주까지",
       "summary": "- 방콕과 태국 중부 지방은 토요일부터 다음 주까지 만조에 대비해야 합니다.\n- 특히 강변 지역은 침수 가능성에 유의해야 합니다.\n- 여행 시 교통 혼잡과 이동 불편을 고려해야 합니다.",
       "full_translated": "방콕과 중부 지방에 토요일부터 다음 주까지 만조 경보가 발령되었습니다. 강변 지역에서는 침수 가능성이 있으므로 주의해야 합니다. 여행자들은 이 기간 동안 교통 혼잡과 이동에 불편이 있을 수 있음을 고려해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객의 이동에 직접적인 영향을 줄 수 있는 정보이므로 포함. 만조로 인한 교통 혼잡 및 침수 가능성.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 태국 중부 지방",
-        "price": null,
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 태국 중부 지방', 'price': None, 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "High‑tide alert for Bangkok, central provinces from Saturday into next week",
@@ -42232,21 +42224,19 @@
         }
       ],
       "collected_at": "19:37",
-      "date": "2026-02-27"
+      "image_url": "",
+      "date": "2026-02-27",
+      "link": "https://www.example.com/hightide",
+      "source": ""
     },
     {
       "title": "태국 군인, 캄보디아 국경 인근 지뢰 폭발로 다리 잃어",
       "summary": "- 수린 주 캄보디아 국경 근처 군사 기지에서 지뢰 폭발 사고 발생.\n- 군인 1명이 대인 지뢰를 밟아 오른쪽 다리를 잃고 파편상을 입음.\n- 군 당국은 현장 조사 후 안전 점검을 강화하고 추가 조사를 진행할 예정.",
       "full_translated": "태국 군인이 금요일 아침 캄보디아 국경 근처 수린 주 군사 기지 내에서 대인 지뢰를 밟아 중상을 입었습니다. 사건은 233 보병 중대 군인들이 수린 주 카프청 지역의 에라완 작전 기지에서 근무 중이던 오전 6시 44분에 발생했습니다. 부상당한 군인은 뎃삭 트리캄 이병으로, 폭발로 인해 오른쪽 다리를 잃었고 왼쪽 다리와 왼팔에 파편상을 입었습니다. 동료 군인들은 현장에서 응급 처치를 한 후 카프청 병원으로 이송하여 면밀한 의료 감독을 받고 있습니다. 위라윳 락실프 중장은 폭발물 처리반(EOD)과 동행하여 상황을 평가하고 안전 조건을 검토하기 위해 같은 날 폭발 현장을 시찰했습니다. 그는 최대한의 안전을 보장하기 위해 기지 전체 지역에 대한 포괄적인 재검사를 명령했습니다. 에라완 작전 기지는 캄보디아와의 두 번째 휴전 이후 보안이 유지되었고 이전에 두 차례의 검사를 거쳤지만, 초기 조사 결과 폭발 장치가 토양, 나무 파편 및 축적된 자연 물질 층 아래 깊숙이 묻혀 있어 탐지가 어려웠을 수 있다고 합니다. 제2군 지역은 이후 수린에서 발생한 사건에 대한 자세한 내용을 제공하는 공식 성명을 발표했습니다. 폭발 현장에 대한 예비 조사 결과 해당 지역이 흙으로 덮여 있었고...",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역에서의 지뢰 사고는 여행객의 안전에 대한 잠재적 위험을 시사하며, 해당 지역 방문 시 주의가 필요함을 알림. 다만, 사고 지역이 일반적인 관광지와는 거리가 있어 영향력은 중간 정도로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Surin province, near Cambodian border",
-        "price": null,
-        "location_google_map_query": "Surin province near Cambodian border"
-      },
+      "event_info": "{'date': None, 'location': 'Surin province, near Cambodian border', 'price': None, 'location_google_map_query': 'Surin province near Cambodian border'}",
       "references": [
         {
           "title": "Thai soldier loses leg to landmine near Cambodian border",
@@ -42257,21 +42247,18 @@
       ],
       "collected_at": "19:37",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206440_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3206440/thai-soldier-loses-leg-to-landmine-near-cambodian-border",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 지뢰 폭발로 태국 군인 부상",
       "summary": "- 태국 수린 지역, 캄보디아 국경 근처에서 지뢰 폭발 사고 발생.\n- 데차삭 트리캄 일병, 지뢰 폭발로 다리 부상, 현재 병원 치료 중.\n- 어머니, 아들의 빠른 회복을 기원하며 병원에서 간호 중.",
       "full_translated": "태국-캄보디아 국경 지역인 수린 주에서 데차삭 트리캄 일병이 지뢰를 밟아 다리가 절단되는 부상을 입었습니다. 그의 어머니 암카 트리캄은 아들이 수린 병원에서 수술을 받고 ICU로 옮겨진 후, 아들의 쾌유를 빌며 곁을 지키고 있습니다. 어머니는 아들이 군 복무를 시작한 지 1년이 채 되지 않았으며, 사고 전에 통화했을 때 평소와 다름없었다고 전했습니다. 그녀는 아들이 무사히 회복하기만을 바라고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역 여행 시 안전에 대한 경각심을 줄 수 있으며, 유사 사건 발생 가능성을 시사.",
-      "event_info": {
-        "date": "2024-02-27",
-        "location": "수린 주, 태국-캄보디아 국경",
-        "price": null,
-        "location_google_map_query": "Surin Thailand Cambodia border"
-      },
+      "event_info": "{'date': '2024-02-27', 'location': '수린 주, 태국-캄보디아 국경', 'price': None, 'location_google_map_query': 'Surin Thailand Cambodia border'}",
       "references": [
         {
           "title": "แม่ \"พลทหารเดชศักดิ์\" เหยียบระเบิดขาขาด เฝ้าลูกหน้าห้องผ่าตัด เผยฝันเป็นลาง",
@@ -42282,6 +42269,133 @@
       ],
       "collected_at": "19:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYoFzhvWQLJVt6.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/local/northeast/2916929",
+      "source": ""
+    },
+    {
+      "title": "촌부리에서 영국인 셰프와 태국인 아내, 강도 피해",
+      "summary": "- 촌부리 방라뭉 지역에서 복면을 쓴 강도 3인조가 영국인 셰프와 그의 아내를 습격.\n- 이들은 현금 200만 바트 이상이 들어있는 금고를 훔쳐 픽업 트럭을 타고 도주.\n- 경찰은 피해자들을 조사하고 용의자들을 추적 중.",
+      "full_translated": "촌부리 — 복면을 쓴 3인조 강도가 칼로 무장하고 목요일 밤 방라뭉 지역에 있는 영국인 셰프와 그의 태국인 아내의 집을 털어 현금 200만 바트 이상이 들어 있는 금고를 훔쳐 픽업 트럭을 타고 도주했습니다.\n\n강도 사건은 농프루 지역의 촉차이 빌리지 9 주택 단지에 있는 2층 타운하우스에서 발생했으며, 농프루 경찰서의 범죄 진압 부국장인 찬차이 사-구안삭스리 경찰 대위는 오후 11시 6분에 신고를 받았습니다.\n\n수사관과 관광 경찰은 현장으로 달려가 해외 셰프로 일하는 영국 국적의 웨슬리 시릴 러셀(32세)과 그의 아내 찬디(34세)를 타운하우스에서 발견했습니다. 두 사람 모두 충격에 빠져 있었습니다. 성이 밝혀지지 않은 찬디 씨는 경찰에 자신과 남편, 그리고 영국인 친구가 집 안에 앉아 있을 때 외국인으로 추정되는 용의자 3명이 강제로 침입했다고 말했습니다. 그들은 어두운 옷을 입고 얼굴을 가린 후드티를 입어 눈만 보였습니다. 그들 중 한 명은 러셀 씨의 목에 칼을 대고 돈이 어디에 있는지 물었습니다. 세 피해자는 부엌으로 끌려갔고, 용의자들은 부부의 아이폰 16과 아이폰 14 스마트폰 2대를 빼앗았습니다. CCTV 영상에는 목요일 밤 촌부리 지방의 방라뭉 타운하우스에 긴 소매 후드티를 입은 두 남자가 들어가 금고를 들고 도주하는 모습이 담겨 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협 존재. 사건 발생 위치가 관광객 방문 지역일 가능성을 고려.",
+      "event_info": {
+        "date": "2026-02-27",
+        "location": "촌부리 방라뭉",
+        "price": null,
+        "location_google_map_query": "Bang Lamung, Chonburi"
+      },
+      "references": [
+        {
+          "title": "British chef and wife threatened, robbed in Chon Buri",
+          "url": "https://www.bangkokpost.com/thailand/general/3206379/british-chef-and-wife-threatened-robbed-in-chon-buri",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206379_700.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206379_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "2026년 태국 송끄란 축제 여신 이름과 흉년 예고",
+      "summary": "- 2026년 송끄란 여신은 '락사스테위'로 지칭.\n- 흉년이 들고 곡물 생산량이 절반으로 줄어들 것이라는 예측.\n- 2026년 송끄란은 4월 14일에 시작.",
+      "full_translated": "2026년 송끄란 여신의 이름은 '락사스테위'이며, 그녀는 바라하를 타고 등장합니다. 곡물 생산량은 줄어들 것으로 예상됩니다. 2026년 2월 27일, 문화부 산하 문화진흥국은 왕실 의례 부문의 점성가들이 2026년 송끄란에 대해 다음과 같이 발표했습니다. 염소년(불의 여신)인 1388년의 송끄란은 윤달이 있는 해입니다. 4월 14일은 마하 송끄란 날이며, 음력으로는 5월 12일 화요일입니다. 락사스테위라는 이름의 송끄란 여신은 연꽃을 머리에 꽂고 모라 보석으로 장식했으며, 음식은 피이고, 오른쪽에는 삼지창, 왼쪽에는 활을 들고 있으며, 바라하를 타고 있습니다. 4월 16일 14시 40분 12초에 새로운 시대가 시작됩니다. 올해 월요일은 승리의 날, 토요일은 최고, 일요일은 불운, 월요일은 세상의 파멸을 의미합니다. 올해 목요일은 비의 신이며, 500번의 비를 내리게 합니다. 인간 세상에 50번, 대양에 100번, 히마판 숲에 150번, 차크라발 산에 200번 비가 내립니다. 뱀은 3개의 물을 제공합니다. 곡물 생산량은 절반만 얻을 수 있습니다. 물의 흐름은 불의 색을 띠고 물이 부족할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "송끄란 축제는 태국 여행의 중요한 부분이지만, 이 기사는 2026년에 대한 것이므로 현재 여행객에게 미치는 영향은 적다. 다만, 흉년에 대한 언급은 여행객들의 음식 관련 경험에 간접적인 영향을 줄 수 있다.",
+      "event_info": {
+        "date": "2026-04-14",
+        "location": "태국 전역",
+        "price": "무료 (일부 행사 제외)",
+        "location_google_map_query": "태국 송끄란 축제"
+      },
+      "references": [
+        {
+          "title": "นางสงกรานต์ 2569 ทรงนามว่า \"รากษสเทวี\" เกณฑ์ธัญญาหาร วิบัติ-น้ำน้อย",
+          "url": "https://www.thairath.co.th/news/society/2916943",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYo5julNbWhLio.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYo5julNbWhLio.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "말레이시아 국경 총격 사건 용의자 체포, 태국 여성 포함",
+      "summary": "- 말레이시아-태국 국경 인근에서 발생한 총격 사건에 연루된 용의자 7명 체포, 태국 여성 1명 포함.\n- 말레이시아 국경 통제국장의 차량이 총격을 받았으며, 국장은 무사히 탈출.\n- 용의자들은 국경 범죄 단속에 대한 보복으로 범행을 저지른 것으로 추정.",
+      "full_translated": "말레이시아 당국이 송클라 주 맞은편 말레이시아 국경에서 이민국 관리 차량 총격 사건에 연루된 혐의로 태국 여성과 말레이시아인 6명을 체포했습니다. 경찰은 수요일 케다 주 부킷 카유 히탐과 파당 브사르의 여러 지역에서 용의자 7명을 체포했는데, 이는 이민국 국장인 모드 나사루딘 모드 나시르가 운전하던 SUV 차량이 오토바이를 탄 두 명의 무장 괴한에게 총격을 받은 지 몇 시간 만에 이루어졌습니다. 말레이시아 국경 통제 및 보호국 사령관인 모드 나사루딘은 총격에서 탈출하여 안전했습니다. 이 사건은 송클라의 태국 국경에서 약 1km 떨어진 부킷 카유 히탐에서 발생했습니다. 케다 경찰청장 아즐리 아부 샤는 말레이시아 부대의 밀수를 포함한 국경 범죄 단속 시도가 총격의 원인일 수 있다고 말했습니다. 말레이시아 관영 통신은 \"쌀 100톤, 돼지 사체, 100명이 넘는 이주민을 포함해 100만 링깃(800만 바트)이 넘는 손실을 초래한 여러 주요 밀수 시도가 좌절됐다\"고 보도했습니다. 30대 태국 여성의 이름은 공개되지 않았습니다. 그녀와 그녀의 남편은 국경 근처의 파당 브사르에서 부부가 말레이시아에서 도망치려다 붙잡혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국경 지역 여행 시 안전에 대한 주의 필요. 직접적인 위협은 아니지만 인지 필요.",
+      "event_info": {
+        "date": "2026-02-27",
+        "location": "Bukit Kayu Hitam, Kedah, Malaysia (송클라 인근 말레이시아 국경)",
+        "price": null,
+        "location_google_map_query": "Bukit Kayu Hitam, Kedah, Malaysia"
+      },
+      "references": [
+        {
+          "title": "Thai woman among suspects arrested in Malaysia border shooting",
+          "url": "https://www.bangkokpost.com/thailand/general/3206524/thai-woman-among-suspects-arrested-in-malaysia-border-shooting",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206524_700.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206524_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "탐마낫 프롬파오 의원, 공식 페이스북 페이지는 단 하나뿐임을 강조",
+      "summary": "- 탐마낫 프롬파오 의원은 여러 사칭 계정으로 인한 혼란을 방지하고자 공식 페이스북 페이지가 하나뿐임을 발표했습니다.\n- 정확한 정보는 공식 페이지를 통해서만 제공될 예정입니다.\n- 가짜 정보에 주의하고 공식 채널을 통해 업데이트되는 정보만 신뢰할 것을 당부했습니다.",
+      "full_translated": "탐마낫 프롬파오 부총리 겸 농업협동조합부 장관은 소셜 미디어에서 여러 계정이 탐마낫 프롬파오를 사칭하여 혼란을 야기함에 따라 공식 페이스북 페이지가 하나뿐임을 분명히 밝혔습니다. 그는 정확한 정보를 얻기 위해 공식 채널을 통해서만 정보를 확인하도록 강조했습니다.\n\n2069년 2월 27일 15시 탐마낫 프롬파오 부총리 겸 농업협동조합부 장관은 자신의 페이스북 페이지 \"탐마낫 프롬파오\"를 통해 다음과 같이 밝혔습니다. \"현재 많은 뉴스가 있는 상황에서 정확한 정보를 얻기 위해 탐마낫 프롬파오의 공식 페이스북 페이지는 이 페이지 하나뿐임을 알려드립니다. 관련 업데이트가 있을 경우 이 페이지를 통해서만 제공될 것입니다.\"\n\n최근 소셜 미디어에서 여러 페이지가 나타나 탐마낫 프롬파오의 페이지인 것처럼 오해를 불러일으키고 다양한 방향으로 정보를 퍼뜨려 사회적 혼란을 야기할 수 있습니다. 따라서 정확하고 공식적인 정보를 얻기 위해 공식 페이지 \"탐마낫 프롬파오\"만을 통해 정보를 확인하시기 바랍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치인의 소셜 미디어 관련 발표는 여행객에게 직접적인 영향을 미치지 않으므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ธรรมนัส” ประกาศมีเพจ “ธรรมนัส พรหมเผ่า” เพียงเพจเดียว ย้ำติดตามข้อมูลจากช่องทางหลักเท่านั้น",
+          "url": "https://www.thairath.co.th/news/politic/2916904",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYnPiHEnyRdNLE.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYnPiHEnyRdNLE.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "수판부리 선거구 재검표 결과, 일부 투표소에서 100표 이상 차이 발생",
+      "summary": "- 수판부리 선거관리위원회(꼬꼬따)의 결정에 따라 일부 투표소에서 재검표가 진행됨.\n- 재검표 결과, 일부 투표소에서 기존 득표수와 100표 이상 차이가 발생하는 것으로 나타남.\n- 특히 2번 선거구의 4번 투표소에서 '프라차촌당'의 득표수가 크게 증가한 것으로 확인됨.",
+      "full_translated": "수판부리 주, 2026년 총선거의 일부 투표소에서 재검표 결과가 나왔습니다. 일부 투표소에서는 기존 득표수와 100표 이상 차이가 나는 것으로 나타났습니다. 이는 수판부리 선거관리위원회(꺼꺼떠.)가 하원 의원 선거에 대한 재검표를 명령한 데 따른 것입니다. 재검표 대상은 2개의 지역구, 즉 2번 선거구의 썽피농 지역의 방타테 투표소 1곳과 반창 투표소 4곳, 그리고 비례대표 투표소 3곳, 즉 1번 선거구의 므앙수판부리 지역의 사남차이 투표소 11곳, 2번 선거구의 썽피농 지역의 방타테 투표소 1곳, 2번 선거구의 방플라마 지역의 옹카락 투표소 4곳입니다. 최근 페이스북 페이지 '수판부리 프라차촌당'은 재검표 결과를 다음과 같이 보고했습니다. 2번 선거구의 반창 투표소 4곳에서 프라차촌당은 기존 129표에서 재검표 후 165표로 증가했고, 푸미자이타이당은 기존 297표에서 212표로 감소했습니다. 2번 선거구의 방타테 투표소 1곳에서 프라차촌당은 기존 104표에서 재검표 후 228표로 증가했고, 푸미자이타이당은 기존 427표에서 263표로 감소했습니다. 2번 선거구의 방타테 투표소 1곳의 비례대표 투표에서 프라차촌당은 기존 198표에서 226표로 증가했고, 푸미자이타이당은 기존 279표에서 233표로 감소했습니다. 방플라마-므앙수판부리 지역의 재검표 결과는 투표소 위원회의 판단과 1-2표 차이에 불과했습니다. 수판부리 선거관리위원회(꺼꺼떠.)의 국장인 콤크릿 팁솜분은 전화 인터뷰에서 재검표 결과가 이전과 다르지 않다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 없다고 판단됨. 다만, 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ผลนับคะแนนใหม่ จ.สุพรรณบุรี บางหน่วยเลือกตั้งต่างจากเดิม 100 กว่าคะแนน",
+          "url": "https://www.thairath.co.th/news/politic/2916949",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCdoho0W36CLtDvH.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCdoho0W36CLtDvH.jpg",
       "date": "2026-02-27"
     }
   ]
