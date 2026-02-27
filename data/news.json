@@ -42278,14 +42278,9 @@
       "summary": "- 촌부리 방라뭉 지역에서 복면을 쓴 강도 3인조가 영국인 셰프와 그의 아내를 습격.\n- 이들은 현금 200만 바트 이상이 들어있는 금고를 훔쳐 픽업 트럭을 타고 도주.\n- 경찰은 피해자들을 조사하고 용의자들을 추적 중.",
       "full_translated": "촌부리 — 복면을 쓴 3인조 강도가 칼로 무장하고 목요일 밤 방라뭉 지역에 있는 영국인 셰프와 그의 태국인 아내의 집을 털어 현금 200만 바트 이상이 들어 있는 금고를 훔쳐 픽업 트럭을 타고 도주했습니다.\n\n강도 사건은 농프루 지역의 촉차이 빌리지 9 주택 단지에 있는 2층 타운하우스에서 발생했으며, 농프루 경찰서의 범죄 진압 부국장인 찬차이 사-구안삭스리 경찰 대위는 오후 11시 6분에 신고를 받았습니다.\n\n수사관과 관광 경찰은 현장으로 달려가 해외 셰프로 일하는 영국 국적의 웨슬리 시릴 러셀(32세)과 그의 아내 찬디(34세)를 타운하우스에서 발견했습니다. 두 사람 모두 충격에 빠져 있었습니다. 성이 밝혀지지 않은 찬디 씨는 경찰에 자신과 남편, 그리고 영국인 친구가 집 안에 앉아 있을 때 외국인으로 추정되는 용의자 3명이 강제로 침입했다고 말했습니다. 그들은 어두운 옷을 입고 얼굴을 가린 후드티를 입어 눈만 보였습니다. 그들 중 한 명은 러셀 씨의 목에 칼을 대고 돈이 어디에 있는지 물었습니다. 세 피해자는 부엌으로 끌려갔고, 용의자들은 부부의 아이폰 16과 아이폰 14 스마트폰 2대를 빼앗았습니다. CCTV 영상에는 목요일 밤 촌부리 지방의 방라뭉 타운하우스에 긴 소매 후드티를 입은 두 남자가 들어가 금고를 들고 도주하는 모습이 담겨 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협 존재. 사건 발생 위치가 관광객 방문 지역일 가능성을 고려.",
-      "event_info": {
-        "date": "2026-02-27",
-        "location": "촌부리 방라뭉",
-        "price": null,
-        "location_google_map_query": "Bang Lamung, Chonburi"
-      },
+      "event_info": "{'date': '2026-02-27', 'location': '촌부리 방라뭉', 'price': None, 'location_google_map_query': 'Bang Lamung, Chonburi'}",
       "references": [
         {
           "title": "British chef and wife threatened, robbed in Chon Buri",
@@ -42296,21 +42291,18 @@
       ],
       "collected_at": "20:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206379_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3206379/british-chef-and-wife-threatened-robbed-in-chon-buri",
+      "source": ""
     },
     {
       "title": "2026년 태국 송끄란 축제 여신 이름과 흉년 예고",
       "summary": "- 2026년 송끄란 여신은 '락사스테위'로 지칭.\n- 흉년이 들고 곡물 생산량이 절반으로 줄어들 것이라는 예측.\n- 2026년 송끄란은 4월 14일에 시작.",
       "full_translated": "2026년 송끄란 여신의 이름은 '락사스테위'이며, 그녀는 바라하를 타고 등장합니다. 곡물 생산량은 줄어들 것으로 예상됩니다. 2026년 2월 27일, 문화부 산하 문화진흥국은 왕실 의례 부문의 점성가들이 2026년 송끄란에 대해 다음과 같이 발표했습니다. 염소년(불의 여신)인 1388년의 송끄란은 윤달이 있는 해입니다. 4월 14일은 마하 송끄란 날이며, 음력으로는 5월 12일 화요일입니다. 락사스테위라는 이름의 송끄란 여신은 연꽃을 머리에 꽂고 모라 보석으로 장식했으며, 음식은 피이고, 오른쪽에는 삼지창, 왼쪽에는 활을 들고 있으며, 바라하를 타고 있습니다. 4월 16일 14시 40분 12초에 새로운 시대가 시작됩니다. 올해 월요일은 승리의 날, 토요일은 최고, 일요일은 불운, 월요일은 세상의 파멸을 의미합니다. 올해 목요일은 비의 신이며, 500번의 비를 내리게 합니다. 인간 세상에 50번, 대양에 100번, 히마판 숲에 150번, 차크라발 산에 200번 비가 내립니다. 뱀은 3개의 물을 제공합니다. 곡물 생산량은 절반만 얻을 수 있습니다. 물의 흐름은 불의 색을 띠고 물이 부족할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "송끄란 축제는 태국 여행의 중요한 부분이지만, 이 기사는 2026년에 대한 것이므로 현재 여행객에게 미치는 영향은 적다. 다만, 흉년에 대한 언급은 여행객들의 음식 관련 경험에 간접적인 영향을 줄 수 있다.",
-      "event_info": {
-        "date": "2026-04-14",
-        "location": "태국 전역",
-        "price": "무료 (일부 행사 제외)",
-        "location_google_map_query": "태국 송끄란 축제"
-      },
+      "event_info": "{'date': '2026-04-14', 'location': '태국 전역', 'price': '무료 (일부 행사 제외)', 'location_google_map_query': '태국 송끄란 축제'}",
       "references": [
         {
           "title": "นางสงกรานต์ 2569 ทรงนามว่า \"รากษสเทวี\" เกณฑ์ธัญญาหาร วิบัติ-น้ำน้อย",
@@ -42321,21 +42313,18 @@
       ],
       "collected_at": "20:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYo5julNbWhLio.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/society/2916943",
+      "source": ""
     },
     {
       "title": "말레이시아 국경 총격 사건 용의자 체포, 태국 여성 포함",
       "summary": "- 말레이시아-태국 국경 인근에서 발생한 총격 사건에 연루된 용의자 7명 체포, 태국 여성 1명 포함.\n- 말레이시아 국경 통제국장의 차량이 총격을 받았으며, 국장은 무사히 탈출.\n- 용의자들은 국경 범죄 단속에 대한 보복으로 범행을 저지른 것으로 추정.",
       "full_translated": "말레이시아 당국이 송클라 주 맞은편 말레이시아 국경에서 이민국 관리 차량 총격 사건에 연루된 혐의로 태국 여성과 말레이시아인 6명을 체포했습니다. 경찰은 수요일 케다 주 부킷 카유 히탐과 파당 브사르의 여러 지역에서 용의자 7명을 체포했는데, 이는 이민국 국장인 모드 나사루딘 모드 나시르가 운전하던 SUV 차량이 오토바이를 탄 두 명의 무장 괴한에게 총격을 받은 지 몇 시간 만에 이루어졌습니다. 말레이시아 국경 통제 및 보호국 사령관인 모드 나사루딘은 총격에서 탈출하여 안전했습니다. 이 사건은 송클라의 태국 국경에서 약 1km 떨어진 부킷 카유 히탐에서 발생했습니다. 케다 경찰청장 아즐리 아부 샤는 말레이시아 부대의 밀수를 포함한 국경 범죄 단속 시도가 총격의 원인일 수 있다고 말했습니다. 말레이시아 관영 통신은 \"쌀 100톤, 돼지 사체, 100명이 넘는 이주민을 포함해 100만 링깃(800만 바트)이 넘는 손실을 초래한 여러 주요 밀수 시도가 좌절됐다\"고 보도했습니다. 30대 태국 여성의 이름은 공개되지 않았습니다. 그녀와 그녀의 남편은 국경 근처의 파당 브사르에서 부부가 말레이시아에서 도망치려다 붙잡혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국경 지역 여행 시 안전에 대한 주의 필요. 직접적인 위협은 아니지만 인지 필요.",
-      "event_info": {
-        "date": "2026-02-27",
-        "location": "Bukit Kayu Hitam, Kedah, Malaysia (송클라 인근 말레이시아 국경)",
-        "price": null,
-        "location_google_map_query": "Bukit Kayu Hitam, Kedah, Malaysia"
-      },
+      "event_info": "{'date': '2026-02-27', 'location': 'Bukit Kayu Hitam, Kedah, Malaysia (송클라 인근 말레이시아 국경)', 'price': None, 'location_google_map_query': 'Bukit Kayu Hitam, Kedah, Malaysia'}",
       "references": [
         {
           "title": "Thai woman among suspects arrested in Malaysia border shooting",
@@ -42346,21 +42335,18 @@
       ],
       "collected_at": "20:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206524_700.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.bangkokpost.com/thailand/general/3206524/thai-woman-among-suspects-arrested-in-malaysia-border-shooting",
+      "source": ""
     },
     {
       "title": "탐마낫 프롬파오 의원, 공식 페이스북 페이지는 단 하나뿐임을 강조",
       "summary": "- 탐마낫 프롬파오 의원은 여러 사칭 계정으로 인한 혼란을 방지하고자 공식 페이스북 페이지가 하나뿐임을 발표했습니다.\n- 정확한 정보는 공식 페이지를 통해서만 제공될 예정입니다.\n- 가짜 정보에 주의하고 공식 채널을 통해 업데이트되는 정보만 신뢰할 것을 당부했습니다.",
       "full_translated": "탐마낫 프롬파오 부총리 겸 농업협동조합부 장관은 소셜 미디어에서 여러 계정이 탐마낫 프롬파오를 사칭하여 혼란을 야기함에 따라 공식 페이스북 페이지가 하나뿐임을 분명히 밝혔습니다. 그는 정확한 정보를 얻기 위해 공식 채널을 통해서만 정보를 확인하도록 강조했습니다.\n\n2069년 2월 27일 15시 탐마낫 프롬파오 부총리 겸 농업협동조합부 장관은 자신의 페이스북 페이지 \"탐마낫 프롬파오\"를 통해 다음과 같이 밝혔습니다. \"현재 많은 뉴스가 있는 상황에서 정확한 정보를 얻기 위해 탐마낫 프롬파오의 공식 페이스북 페이지는 이 페이지 하나뿐임을 알려드립니다. 관련 업데이트가 있을 경우 이 페이지를 통해서만 제공될 것입니다.\"\n\n최근 소셜 미디어에서 여러 페이지가 나타나 탐마낫 프롬파오의 페이지인 것처럼 오해를 불러일으키고 다양한 방향으로 정보를 퍼뜨려 사회적 혼란을 야기할 수 있습니다. 따라서 정확하고 공식적인 정보를 얻기 위해 공식 페이지 \"탐마낫 프롬파오\"만을 통해 정보를 확인하시기 바랍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치인의 소셜 미디어 관련 발표는 여행객에게 직접적인 영향을 미치지 않으므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ธรรมนัส” ประกาศมีเพจ “ธรรมนัส พรหมเผ่า” เพียงเพจเดียว ย้ำติดตามข้อมูลจากช่องทางหลักเท่านั้น",
@@ -42371,21 +42357,18 @@
       ],
       "collected_at": "20:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYnPiHEnyRdNLE.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/politic/2916904",
+      "source": ""
     },
     {
       "title": "수판부리 선거구 재검표 결과, 일부 투표소에서 100표 이상 차이 발생",
       "summary": "- 수판부리 선거관리위원회(꼬꼬따)의 결정에 따라 일부 투표소에서 재검표가 진행됨.\n- 재검표 결과, 일부 투표소에서 기존 득표수와 100표 이상 차이가 발생하는 것으로 나타남.\n- 특히 2번 선거구의 4번 투표소에서 '프라차촌당'의 득표수가 크게 증가한 것으로 확인됨.",
       "full_translated": "수판부리 주, 2026년 총선거의 일부 투표소에서 재검표 결과가 나왔습니다. 일부 투표소에서는 기존 득표수와 100표 이상 차이가 나는 것으로 나타났습니다. 이는 수판부리 선거관리위원회(꺼꺼떠.)가 하원 의원 선거에 대한 재검표를 명령한 데 따른 것입니다. 재검표 대상은 2개의 지역구, 즉 2번 선거구의 썽피농 지역의 방타테 투표소 1곳과 반창 투표소 4곳, 그리고 비례대표 투표소 3곳, 즉 1번 선거구의 므앙수판부리 지역의 사남차이 투표소 11곳, 2번 선거구의 썽피농 지역의 방타테 투표소 1곳, 2번 선거구의 방플라마 지역의 옹카락 투표소 4곳입니다. 최근 페이스북 페이지 '수판부리 프라차촌당'은 재검표 결과를 다음과 같이 보고했습니다. 2번 선거구의 반창 투표소 4곳에서 프라차촌당은 기존 129표에서 재검표 후 165표로 증가했고, 푸미자이타이당은 기존 297표에서 212표로 감소했습니다. 2번 선거구의 방타테 투표소 1곳에서 프라차촌당은 기존 104표에서 재검표 후 228표로 증가했고, 푸미자이타이당은 기존 427표에서 263표로 감소했습니다. 2번 선거구의 방타테 투표소 1곳의 비례대표 투표에서 프라차촌당은 기존 198표에서 226표로 증가했고, 푸미자이타이당은 기존 279표에서 233표로 감소했습니다. 방플라마-므앙수판부리 지역의 재검표 결과는 투표소 위원회의 판단과 1-2표 차이에 불과했습니다. 수판부리 선거관리위원회(꺼꺼떠.)의 국장인 콤크릿 팁솜분은 전화 인터뷰에서 재검표 결과가 이전과 다르지 않다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 없다고 판단됨. 다만, 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ผลนับคะแนนใหม่ จ.สุพรรณบุรี บางหน่วยเลือกตั้งต่างจากเดิม 100 กว่าคะแนน",
@@ -42396,6 +42379,133 @@
       ],
       "collected_at": "20:54",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCdoho0W36CLtDvH.jpg",
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/politic/2916949",
+      "source": ""
+    },
+    {
+      "title": "태국 관광 딜레마: 이중 가격 문제",
+      "summary": "- 태국은 2025년에 3,290만 명의 외국인 방문객을 맞이했지만, 이는 전년 대비 7.23% 감소한 수치임.\n- 관광객 감소 원인 중 하나로 '이중 가격' 문제가 제기되고 있으며, 이는 관광객들이 공정한 대우를 받지 못한다고 느끼게 할 수 있음.\n- 이중 가격은 태국뿐 아니라 인도, 요르단 등 다른 국가에서도 시행되고 있으며, 외국인에게 더 높은 입장료를 부과하는 방식으로 운영됨.",
+      "full_translated": "태국은 2025년에 3,290만 명의 외국인 방문객을 맞이했으며, 이는 전년 대비 7.23% 감소한 수치입니다. Bangkok Post의 Why Bangkok 시리즈 두 번째 에피소드에서는 관광의 가장 고질적인 불만 중 하나인 이중 가격에 대해 집중 조명합니다. 방문객 수 감소에 대한 단일 요인은 없지만, 관광객들이 공정한 대우를 받고 있다고 느끼는지에 대한 질문은 업계가 간과할 수 없는 부분이며, 가격 차이 그 이상으로 깊이 있는 논쟁입니다. 이중 가격은 태국만의 문제가 아닙니다. 인도의 타지마할과 요르단의 페트라 모두 외국인 관광객에게 현지 방문객보다 더 많은 요금을 부과하며, 이는 일반적으로 유지 보수 비용으로 간주됩니다. 태국에서는 사원 및 국립 박물관과 같은 공공 명소가 부처 규정에 따라 운영되는 반면, 민간 사업자는 국내 무역부의 감독을 받지만 후자는 규제하기가 훨씬 더 어렵습니다. 많은 방문객에게 가격 자체는 주요 문제가 아닙니다. 미국에서 온 관광객인 Caroline Purcell은 왓 아룬의 입장료가 합리적이라고 생각했습니다. 그녀는 \"방문하는 사람들이 엄청나게 많습니다. 분명히 사람들은 그것이 감당할 수 없거나 달성할 수 없다고 생각하지 않습니다.\"라고 말했습니다. \"저는 태국 원주민이 자국이기 때문에 이러한 관광 명소에 무료로 입장하는 것에 전적으로 반대하지 않습니다.\" 그러나 장기 거주자에게 영향을 미칠 때 시스템이 더 복잡해집니다. 여행사 이사인 Pawarin Ramanwong은 오랫동안 거주하고 일한 외국인...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광객에게 영향을 줄 수 있는 이중 가격 정책에 대한 정보 제공. 심각한 문제는 아니지만, 알아두면 유용한 정보임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Dual pricing as Thailand's tourism dilemma",
+          "url": "https://www.bangkokpost.com/thailand/special-reports/3206548/dual-pricing-as-thailands-tourism-dilemma",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206548_700.jpg"
+        }
+      ],
+      "collected_at": "21:34",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206548_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "파키스탄, 아프가니스탄에 대한 '전면전' 선언",
+      "summary": "- 파키스탄 국방장관, 아프가니스탄에 대한 '전면전' 상태 선언.\n- 탈레반의 공격에 대한 보복으로 카불을 공습한 후 나온 발표.\n- 양국 간 국경 분쟁 심화, 추가 충돌 우려 고조.",
+      "full_translated": "파키스탄-아프가니스탄 국경 상황이 심각하게 격화되고 있습니다. 파키스탄은 탈레반의 공격에 대한 보복으로 아프가니스탄의 수도 카불과 여러 주요 도시에 공습을 가한 후 아프가니스탄과의 \"전면전\" 상태에 있음을 확인했습니다. 2069년 2월 27일, 카와자 무하마드 아시프 파키스탄 국방장관은 현재 파키스탄이 아프가니스탄과 \"전면전\" 상태에 있다고 밝혔습니다. 아시프 장관은 양국 간의 격렬한 국경 충돌이 수개월 동안 지속된 후 파키스탄의 인내심이 한계에 도달했다고 말했습니다. 양측은 지난 10월에 취약한 휴전에 합의했지만, 협상은 분쟁의 영구적인 해결에 실패했습니다. 셰바즈 샤리프 파키스탄 총리는 파키스탄 군대가 모든 형태의 침략적 야망을 분쇄할 수 있는 충분한 능력을 갖추고 있으며 조국을 보호하는 데 타협하지 않을 것이라고 강조했습니다. 이에 앞서 아프가니스탄의 탈레반은 목요일 오후 8시경 반격 작전을 개시하여 파키스탄 군 검문소 19개와 기지 2개를 점령하고 파키스탄 군인 55명을 사살했다고 주장했습니다. 그러나 이 수치는 아직 검증되지 않았습니다. 파키스탄 군대는 즉각 반격에 나섰고, 탈레반이 서북부 카이베르파크툰콰 주 여러 지역에서 도발 없이 공격을 감행했다고 밝혔습니다. 이후 파키스탄은 금요일 새벽 카불, 칸다하르, 파크티카의 목표물을 공습했습니다. 아흐메드 샤리프 초드리 소장은 군사 작전으로 아프가니스탄 군사 목표물 22개를 공격하고 탈레반 전사 200명 이상을 사살했다고 주장했습니다. 파키스탄 군인 최소 12명이 사망했습니다. ... 출처 BBC Aljazeera ...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파키스탄-아프간 간의 전면전 선언은 태국 여행에는 직접적인 영향은 없으나, 국제 정세 불안정으로 인한 간접적인 영향 가능성이 존재합니다. 여행객들에게 해당 지역 방문 자제를 권고하고, 유사시 대피 경로를 숙지하도록 안내할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รมว.กลาโหมปากีสถานลั่น “เข้าสู่สงครามเปิด” กับอัฟกานิสถาน หลังเปิดฉากถล่มคาบูล",
+          "url": "https://www.thairath.co.th/news/foreign/2916948",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYo6Cfw6NwJpx1.jpg"
+        }
+      ],
+      "collected_at": "21:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYo6Cfw6NwJpx1.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "부패 방지 기구, 전 세무서장의 15억 바트 상당 금괴 몰수",
+      "summary": "- 태국 국가반부패위원회(NACC)는 전 세무국장의 불법 재산 사건과 관련하여 15억 바트 상당의 금괴를 재무부에 인도했습니다.\n- 이는 대법원의 판결에 따른 것으로, 몰수된 금괴는 약 319kg에 달합니다.\n- 해당 금괴는 2012~2013년 부가가치세 환급 사기 사건에 대한 NACC의 광범위한 조사의 일환입니다.",
+      "full_translated": "국가반부패위원회(NACC)는 금요일, 전 세무국장인 사팃 룽카시리에 대한 불법 재산 사건에 대한 대법원 판결에 따라 15억 바트 이상의 가치가 있는 금괴를 재무부에 인도하여 국고로 귀속시켰습니다. NACC 부비서관인 프라팁 콩사닛은 사팃에 대한 법무장관실(OAG)의 소송을 지지한 2024년 대법원 결정에 따라 인도를 주도했습니다. 몰수된 금괴는 약 20,976 바트 무게(1 바트 무게는 15.2그램) 또는 약 319kg에 해당합니다. 재무부는 부를 대표하여 자산을 수령했습니다. NACC는 앞서 사팃이 세무국장으로 재직하는 동안 \"비정상적으로 부유하다\"는 사실을 발견했습니다. 2016년 10월 28일, 위원회는 화셍행 코모디타스에 그의 이름으로 이루어진 15개의 금괴 구매 주문이 정당한 이유 없이 취득한 자산이며 그의 공무 수행과 관련이 있다고 결의했습니다. 대법원은 이후 해당 금괴를 국고로 몰수하라고 명령했습니다. 압수된 금괴는 2012년에서 2013년 사이에 세무부에게 약 30억 9천만 바트의 손실을 입힌 부가가치세(VAT) 환급 사기에 대한 광범위한 NACC 조사의 일부입니다. 조사는 2015년에 시작되었습니다. 2021년 8월, 부패 및 비행 사건에 대한 중앙 형사 법원은 사팃이 25명의 공범이 관련된 VAT 환급 계획을 위조한 혐의로 유죄 판결을 내렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 내 부정부패 관련 사건으로 인지. 다만, 경제에 간접적인 영향이 있을 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Graft body hands over gold worth B1.5bn from ex-tax dept boss",
+          "url": "https://www.bangkokpost.com/thailand/general/3206434/graft-body-hands-over-gold-worth-b15bn-from-extax-dept-boss",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206434_260227145948_700.jpg"
+        }
+      ],
+      "collected_at": "21:34",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206434_260227145948_700.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "Kiss of Life 나띠, 태국 전통 의상으로 한국에서 화제",
+      "summary": "- K팝 걸그룹 Kiss of Life의 나띠가 태국 전통 의상 차림으로 한국에서 큰 관심을 받음.\n- 온라인에 공유된 영상에서 태국어 문구를 소개하며 한국 팬들의 호평을 받음.\n- 태국 문화 홍보와 음악 활동을 병행하며 지속적인 관심을 받고 있음.",
+      "full_translated": "K팝 걸그룹 Kiss of Life의 나띠가 최근 온라인에 공유된 영상에서 태국 전통 의상 'chud Thai'를 입고 간단한 태국어 문구를 소개하며 태국과 한국에서 큰 주목을 받았습니다. 이 영상은 빠르게 입소문을 타면서 태국 의상을 입은 그녀의 우아한 모습에 대한 한국 팬들의 찬사와 태국 언어와 문화에 대한 호기심을 불러일으키며 강력한 참여를 유도했습니다. 몇몇 댓글 작성자들은 이 영상이 기본적인 태국어를 배우도록 장려했다고 말했고, 다른 사람들은 Kiss of Life의 다른 멤버들이 미래 콘텐츠에서 태국 의상을 입어보기를 희망했습니다. 한 한국 팬은 최근 설 연휴 동안 방콕과 파타야를 여행했는데, 현지인들의 친절 덕분에 즐거운 여행이었다고 썼습니다. 또 다른 팬은 한국 아이돌 그룹의 태국인 멤버들이 독특한 매력을 가지고 있으며 나띠가 태국어 레슨 비디오를 계속 게시해 달라고 요청했습니다. 일부 댓글은 태국어의 여성스러움과 우아함을 강조하며 팬들은 나띠가 말할 때 더욱 매력적으로 들린다고 말했습니다. 다른 사람들은 그녀의 한국어 발음이 약간의 태국 억양을 가지고 있다고 지적했는데, 그들은 그것이 사랑스럽다고 생각했습니다. 태국 국적의 나띠는 수년 동안 한국 연예계에서 활동해 왔으며 음악 활동과 함께 태국 문화를 홍보하여 계속해서 주목을 받고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 문화에 대한 관심 증가 및 태국어 학습 동기 부여 가능성. 태국 여행에 대한 긍정적인 이미지 형성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Natty of Kiss of Life draws buzz in Korea with chud Thai appearance",
+          "url": "https://www.khaosodenglish.com/life/2026/02/27/natty-of-kiss-of-life-draws-buzz-in-korea-with-chud-thai-appearance/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/pageqqq-1.jpg"
+        }
+      ],
+      "collected_at": "21:34",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/pageqqq-1.jpg",
+      "date": "2026-02-27"
+    },
+    {
+      "title": "“เต้ มงคลกิตติ์” 총리직 도전 선언, “타마낫”과 협력 제안 내막 공개 -> “떼 몽콘낏” 총리직 도전 선언, “타마낫”과 협력 제안 내막 공개",
+      "summary": "- 몽콘킷 의원이 총리직 도전을 선언하며 정치적 야망을 드러냄.\n- 타마낫 의원이 과거 끌라탐당 입당을 제안했던 사실을 공개하며 비하인드 스토리를 밝힘.\n- 차찻 방콕 시장에게 도전장을 내며 방콕을 하늘로 띄우는 프로젝트를 구상 중.",
+      "full_translated": "“떼 몽콘킷” 총리직 도전 선언, “타마낫”과 협력 제안 내막 공개\n\n몽콘킷 의원이 총리직 도전을 선언하며 정치적 야망을 드러냈습니다. 그는 타마낫 의원이 과거 끌라탐당 입당을 제안했던 사실을 공개하며 비하인드 스토리를 밝혔습니다. 또한 차찻 방콕 시장에게 도전장을 내며 방콕을 하늘로 띄우는 프로젝트를 구상 중이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 뉴스이지만, 방콕 시장 관련 내용이 포함되어 있어 여행객에게 소소한 흥미를 유발할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“เต้ มงคลกิตติ์” ตั้งเป้านั่งนายกฯ คนที่ 34 เปิดเบื้องลึก “ธรรมนัส” เคยชวนซบกล้าธรรม",
+          "url": "https://www.thairath.co.th/news/politic/2916925",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYoFc4AOYOzASl.jpg"
+        }
+      ],
+      "collected_at": "21:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYoFc4AOYOzASl.jpg",
       "date": "2026-02-27"
     }
   ]
