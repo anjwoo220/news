@@ -423,14 +423,9 @@
       "summary": "- 인기 가수 조지가 11월에 방콕에서 Olaris 투어 공연을 개최합니다.\n- 자세한 날짜 및 장소는 추후 공개될 예정입니다.\n- 조지의 방콕 공연은 팬들에게 큰 기대를 모으고 있습니다.",
       "full_translated": "가수 조지가 11월에 방콕에서 Olaris 투어의 일환으로 공연을 확정했습니다. Time Out Worldwide",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "인기 가수의 공연 정보는 여행객들에게 흥미로운 엔터테인먼트 옵션이 될 수 있으며, 특히 젊은 여행객층에게 어필할 수 있습니다.",
-      "event_info": {
-        "date": "2024-11-XX",
-        "location": "방콕 (추후 상세 장소 발표)",
-        "price": "미정",
-        "location_google_map_query": "방콕 공연장"
-      },
+      "event_info": "{'date': '2024-11-XX', 'location': '방콕 (추후 상세 장소 발표)', 'price': '미정', 'location_google_map_query': '방콕 공연장'}",
       "references": [
         {
           "title": "Joji confirms Bangkok stop on Olaris Tour this November - Time Out Worldwide",
@@ -439,23 +434,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQNFcxTFFfWVFneXRMYXBRSlFYOVVIZGRvVU9IZ0pXc1NObTN6bkpYdXVQdmQ5M2JBS3k4c2F2VUJGZWJ4Y19WUUd2SkxBM1hRZ0hRam9SbFB5MXVYOW03WDlKU1FtYWUwR3NFVg?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 국제 해변 연 축제 2026년 개최",
       "summary": "- 파타야 국제 해변 연 축제가 2026년에 개최될 예정입니다.\n- 이 축제는 태국의 하늘을 다채로운 색깔로 채울 것입니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "파타야 국제 해변 연 축제 2026년, 태국 하늘을 색깔로 물들일 예정 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 열리는 국제적인 축제 정보로, 여행객들에게 흥미로운 볼거리를 제공할 수 있음.",
-      "event_info": {
-        "date": "2026",
-        "location": "파타야 해변",
-        "price": "미정",
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': '2026', 'location': '파타야 해변', 'price': '미정', 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Pattaya International Kite on the Beach Festival 2026 Set to Fill Thailand’s Skies with Color - Travel And Tour World",
@@ -464,23 +456,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdjJmY1VVLUpKeGh6WE1ZZnZMdUMxRzhKMG9KdHBwRUZyUHFmd1hWNEpOQzUybExyS0l4dEV0cW1ZQ044dnVVbUkzbVg0V1R6aUk4M3JVTmdRU2Q4bWZvdGFTNFNab0hQX2YzSWRPanRCblJ3QVZqSi16WTZWdy1mX0c0TmNYS1d4MHE4TFA3dTJWMEM4OWxsbWtiWWJZYmxyRHVxaW5sYlpIT21oVHRWLWFJSFU3S1ZJT1Y0d2NnbzhodXUwYUIybFB4NWJibzlBbGNBY0FfcWo?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광청, 유럽 시장 관광 활성화 위해 유럽 부서와 협력",
       "summary": "- 태국 관광청(TAT)은 유럽 시장 관광객 유치를 위해 유럽 담당 부서와 협력 강화.\n- 유럽 관광 시장의 최신 트렌드 및 마케팅 전략 논의.\n- 유럽 시장의 중요성을 강조하며, 다양한 협력 방안 모색.",
       "full_translated": "유럽부서는 유럽의 관광 홍보를 강화하기 위해 태국 관광청(TAT)과 협의를 진행합니다. 끄라ทรวง깐ต่าง쁘라텟",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유럽 관광객 유치 노력은 태국 관광 산업에 전반적으로 긍정적인 영향을 미치므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Department of European Affairs holds consultation with Tourism Authority of Thailand (TAT) to strengthen tourism promotion in Europe - กระทรวงการต่างประเทศ",
@@ -489,23 +478,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXI0bmt4MkVwYXlZTHFIZ2pfOHZZbFF0eVdBb245TVdtQ01vUzlaR2w1dFUzaVB6ekFFVGJGZ1M3ajRzdDZOZGRBa1h3WkFQNFN5LTdMa00wTEVMWmU0cGdQV25BQk9ZekUxWWx0eEo4eVhHLWYyMXJoMnVIa0JPdTZ1VVJTcnpaRUdrSmFxZDN3cWpkeGtXck4wR0xpR1dzUHVLejRxUjRtVTJJeTFtUFl6WmdtNnRmdVdBczBTVkQwWVhDdDgxWg?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 인도 홀리 축제 관광 활성화에 동참",
       "summary": "- 미국, 독일, 호주 등 여러 국가와 함께 인도 홀리 축제 관광 활성화에 협력\n- 자이푸르, 델리, 뭄바이, 마투라 등 인기 축제 목적지로의 예약 증가 예상\n- 태국은 인도 관광 시장의 중요한 파트너로서, 이번 협력이 양국 관광 산업에 긍정적 영향 기대",
       "full_translated": "미국은 독일, 호주, 태국, 일본, 프랑스, 영국 등과 협력하여 자이푸르, 델리, 뭄바이, 마투라 및 기타 인기 있는 축제 목적지에서 기록적인 예약으로 인도의 홀리 관광을 고양시키고 있습니다. 알아야 할 사항 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 참여하는 인도 홀리 축제 관련 관광 활성화 소식으로, 태국 여행객들에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "자이푸르, 델리, 뭄바이, 마투라 (인도)",
-        "price": null,
-        "location_google_map_query": "자이푸르, 델리, 뭄바이, 마투라"
-      },
+      "event_info": "{'date': None, 'location': '자이푸르, 델리, 뭄바이, 마투라 (인도)', 'price': None, 'location_google_map_query': '자이푸르, 델리, 뭄바이, 마투라'}",
       "references": [
         {
           "title": "United States Unites With Germany, Australia, Thailand, Japan, France, United Kingdom And More In Elevating India’s Holi Tourism With Record Bookings In Jaipur, Delhi, Mumbai, Mathura, And Other Popular Festive Destinations: What You Need To Know - Travel And Tour World",
@@ -514,23 +500,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPeEhDa0JnUlp1Q0d4ZHhwMVV4RVpGcU82dnZEaTE1bXFMbWR1X19iZk5neDdBMnNoWW1UVmwyYTFQZDE5dU90dkJQdzFXTURKdjExTFZrSTExcVA3eFdMSU9JSlItZU0tSk95QlBWUWxBMHhWcVo1R1ZIZ2E1ZmxDTml3VmN0N2tBZXZrUUdnNHR0ODNPcVpBeE5FQlhkZTYteDdPQlNMUG1vRmFNUG5ONE1pckJTbXNRS2JqbFZ6U2dGdW85d3FnZ3dZR2VpLUk0SlAySTk4RG5naTZLR1VMMktBUUtLbWhtWm9kaFRTWkg1OW5zUmFKbHdvWmZMUEx4QWl4aTlSQXNaLUpSSE82ZV80dlZQVXQtZ0xlcUVDOXBLYjRBV1JKY1hTbmNKWEJHemlzaVJvME5Wa1d4UVpjSWViN0M1QW12cEJUTFYyWWM?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 글로벌 AI 허브 목표…데이터 센터 투자 유치 집중",
       "summary": "- 태국이 지정학적 이점을 활용하여 글로벌 AI 및 디지털 인프라 허브를 목표로 하고 있습니다.\n- 이를 위해 AI 거버넌스, 대규모 데이터 센터 투자, 청정 에너지 전환을 통합하는 국가 마스터 플랜이 필요합니다.\n- 미국과 중국의 기술 기업들이 태국에 투자하려는 움직임을 보이고 있습니다.",
       "full_translated": "태국은 이미 잠재적으로 수백억 바트의 인프라 투자를 의미하는 5기가와트의 데이터 센터 용량을 유치했습니다. 디지털 위원회(DCT)는 국제적 긴장이 고조되는 가운데 지정학적 중립성을 활용하여 글로벌 인공지능(AI) 및 디지털 인프라 허브가 될 수 있는 독보적인 위치에 있다고 밝혔습니다. 이러한 기회를 활용하기 위해 태국은 AI 거버넌스, 대규모 데이터 센터 투자, 청정 에너지로의 전환을 통합하는 포괄적인 국가 마스터 플랜이 시급히 필요하다고 DCT 공동 설립자인 수파차이 치아라바논은 말했습니다. 정책 입안자들은 데이터 현지화 프레임워크를 발전시키고 글로벌 디지털 경제에서 태국의 장기적인 경쟁력을 강화하기 위해 지역 디지털 역량을 강화해야 한다고 그는 말했습니다.\n\n수파차이 씨는 “태국은 AI에 대한 포괄적인 마스터 플랜과 거버넌스 프레임워크가 시급히 필요합니다.”라고 말했습니다. 태국은 미국과 중국의 지정학적 분열로 인해 매우 유능하고 중립적인 입장을 유지하고 있기 때문에 이익을 얻고 있다고 그는 말했습니다. Microsoft, Google, Amazon, Alibaba 및 Huawei와 같은 미국과 중국의 글로벌 기술 대기업은 어느 편을 들기보다는 태국에 투자하려고 합니다. 태국은 데이터에 대한 막대한 투자가 유입되었다고 보고했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국이 AI 허브를 목표로 하면서 데이터 센터 투자가 늘어날 가능성이 있으며, 이는 장기적으로 관광 인프라 개선에도 영향을 줄 수 있습니다. 단기적인 여행객 직접 영향은 적음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand targets global AI hub status",
@@ -539,8 +522,138 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/28/5986273_700.jpeg"
         }
       ],
-      "collected_at": "05:48",
+      "collected_at": "5:48",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/28/5986273_700.jpeg",
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/business/general/3206753/thailand-targets-global-ai-hub-status",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 파타야에서 Tomorrowland 개최: 아시아 최초 풀 스케일 데뷔",
+      "summary": "- 태국 파타야에서 2026년 Tomorrowland 개최 확정.\n- 아시아 최초의 풀 스케일 데뷔.\n- 역사적인 뮤직 이벤트가 될 것으로 기대.",
+      "full_translated": "태국 관광청(TAT)은 2026년 12월 태국에서 Tomorrowland가 풀 스케일 아시아 데뷔를 한다고 발표했습니다. 파타야에서 개최되는 이 행사는 놓칠 수 없는 역사적인 뮤직 이벤트가 될 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "대규모 국제 행사 개최는 관광객 유치에 긍정적인 영향을 미치므로 높은 점수를 부여. 이미 언급된 뉴스이지만, 개최지 확정이라는 업데이트된 정보 포함.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "TAT announces Tomorrowland Thailand full-scale Asian debut in December 2026 - Breaking Travel News",
+          "url": "https://news.google.com/rss/articles/CBMiXGh0dHBzOi8vd3d3LmJyZWFraW5ndHJhdmVsbmV3cy5jb20vMjAyNC8wNS90YXQtYW5ub3VuY2VzLXRvbW9ycm93bGFuZC10aGFpbGFuZC1mdWxsLXNjYWxlLWFzaWFuLWRlYnV0LWluLWRlY2VtYmVyLTIwMjYv0gEA?oc=5",
+          "source": "Breaking Travel News"
+        },
+        {
+          "title": "Tomorrowland Is Coming to Pattaya Thailand in 2026 : Why You Can’t Miss This Historic Music Event - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vdG9tb3Jyb3dsYW5kLWlzLWNvbWluZy10by1wYXR0YXlhLXRoYWlsYW5kLWluLTIwMjYtd2h5LXlvdS1jYW50LW1pc3MtdGhpcy1oaXN0b3JpYy1tdXNpYy1ldmVudC_SAQA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "06:17",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "호주 관광객, 태국에서 폭행으로 사망",
+      "summary": "- 호주 국적의 관광객이 태국에서 폭행을 당해 사망했습니다.\n- 자세한 사건 경위는 현재 조사 중입니다.\n- 여행 시 개인 안전에 유의해야 합니다.",
+      "full_translated": "태국에서 호주 관광객이 폭행을 당해 사망했습니다. 자세한 내용은 조사 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 중 발생한 범죄 사건으로, 여행객 안전에 대한 우려를 야기하므로 게시 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Australian tourist dies in Thailand after alleged assault - 9News.com.au",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTEJGNlYtYV90RVBidzhVcUkwMkFXSlBFRmdDdnVyR2s0YkVTZXBNTnEwTldoQnFUd0k2R2hnbXpnQzhuSW1jbzdZX0Nkcm9lQnVpeE5iLUxtTTdTMzljeTg4enFmSTVrWDJUN1J6eENTU2RDcnBRYTdrZm12a3ZkSFhMcFhxT0E1dHNLRy1kcTRra29mU1dPcEhvUHpvSV9MX0U0a21vVjZIMUo5Y210M0x5UWd4Z2pSemc4dlZ2b2vSAXhBVV95cUxPX0h6dGN6M1RtcjZTdklYMVN5UEVkZFhDSW12T0dGUEpXbHprTE1vX0UyTHRMSkhhRUVqOEI0dHVpTTRxZXJnQThBOEVQb2xabnRvNnl4X1MybTJaSG5UT244eUxDNjZtU0RIWHp0dEp4RnFMZXhCZFk?oc=5",
+          "source": "9News.com.au",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 주요 공항, 6월부터 국제선 출발세 50% 이상 인상",
+      "summary": "- 태국 주요 공항에서 국제선 출발세가 6월부터 50% 이상 인상됩니다.\n- 이는 승객 경험 개선 및 공항 인프라 업그레이드 자금 확보를 위한 조치입니다.\n- 새로운 변경 사항에 대한 최신 정보를 확인하세요.",
+      "full_translated": "태국이 6월부터 주요 공항에서 국제선 출발세를 50% 이상 인상합니다. 이는 승객 경험을 변화시키고 대규모 공항 인프라 업그레이드에 자금을 지원하기 위한 조치입니다. 새로운 업데이트를 확인하세요. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 이용객에게 직접적인 영향을 미치는 세금 인상 정보이므로 여행객에게 중요합니다. 특히 6월부터 적용되므로 사전 인지가 필요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 주요 공항",
+        "price": "미정 (50% 이상 인상)",
+        "location_google_map_query": "태국 주요 공항"
+      },
+      "references": [
+        {
+          "title": "Thailand Raises International Departure Tax by More Than 50 Percent at Major Airports from June Transforming Passenger Experience and Funding Massive Airport Infrastructure Upgrades – New Update You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOWWxRVGRVTm9TaFdLZVVoWGh1d04yZXBBeUIzd0oxWUJQU2Fsb1RPakpYcVdUR29ERFZ5MHZfR1RDUjBobllWOUpjRk5sR2I5SFF2SU1uTDJlRENUb0ltTG5qZl91SkQ5clZva1YzT0R3dWZQREY3aXNLckZKSjJLMlQ2bjlkZGh3aVA2SWFTejJtaDU2MWhleTdLcXVxdGRpQ0JORU1BYkdBR0h1VXM3b0xNSllMUzF2cVZyVGREMVc1MzB1aUplZ0duZ0JZQjZzNHYxSUdZUGVnejN6eFhoQW1Zd3NVaWNZd0hJWjhGbE0wc2prVkJ0Z0tacjBfSXRvRncxZkFWYTdNWEFIYW5tNFBEX3BqdFJXdGFEZUR5NnlhdE5mOUNfaVpyMXRmNVFLMGJ0SkxQTnRrRFd6Q0dNUXdLU3duSlNQNUQzLUQwUkM1bW5seFpBLXVFcWdaWTUxOVR6ZXlB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "필리핀과 태국, 무비자 정책이 동남아 관광 성장과 도착 증가에 미치는 영향",
+      "summary": "- 필리핀과 태국은 무비자 입국 정책을 통해 관광객 유치 경쟁 중.\n- 두 나라 모두 관광 산업 성장을 위해 비자 정책을 적극 활용.\n- 러시아, 터키 등 다양한 국가에서 볼리비아 무비자 입국 허용으로 관광객 증가 예상.",
+      "full_translated": "필리핀 vs 태국: 무비자 입국 정책이 동남아시아의 관광 성장과 도착 증가를 어떻게 촉진하는가 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국과 필리핀의 무비자 정책 비교는 여행객들에게 유용한 정보이며, 볼리비아의 무비자 정책 확대 소식도 간략하게 언급되어 있어 여행 계획에 참고할 만함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Philippines vs Thailand: How Visa-Free Entry Policies Are Fueling Tourism Growth and Boosting Arrivals in Southeast Asia - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON2xRS1FKNGZhelBvRzhOeXhoUVFvcXhvR1BLaUtLV1R4VWpOZUJmODc2Z09yOHN0ekNXaGp0SzltYWRWT0E3YkJRVjBWdlhrMjN5aHhIbXZkTEJsbzBfYWlKc1RuZ1RSTzVUODFJdG1zYmJNWWJrd2ctY25ISEVaM1A2UVdXcTVjOHl1cmtvVnA4NTh3ZFJWZWpveTV6LV9xTUk0UHBULWtMN1JEengwT1lOWjBfWkhJMnphMzF2N21QTm5ocVpYVlZaUjNsVGNhTFhNZmRFang2bkI5eG9jMGdWSXBUcW4tamNLaXRMazdwOW1MT0U2Q1dxR2o?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 유네스코 창의 도시 네트워크 9곳 탐험으로 특별한 문화 여행을 떠나보세요 - Nation Thailand",
+      "summary": "- 태국 내 유네스코 창의 도시 9곳을 연결하는 특별한 문화 여행 경로가 소개되었습니다.\n- 각 도시는 고유한 문화적 특징과 창의성을 선보입니다.\n- 여행객들은 다양한 공예, 음식, 예술을 경험하며 태국의 풍부한 문화를 깊이 이해할 수 있습니다.",
+      "full_translated": "태국의 9개 유네스코 창의 도시 루트를 탐험하여 특별한 문화 여행을 떠나보세요. Nation Thailand",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 다양한 문화를 경험할 수 있는 여행 경로 정보로, 여행객들에게 새로운 선택지를 제공합니다. 기존에 게시된 내용과 겹치지 않는 새로운 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Explore Thailand’s 9 UNESCO Creative Cities Routes For A Unique Cultural Journey - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ncENKQXJhcnFuQkhGWkV2MTA5WEw3R1RwVHhLZnA1TUxpUlhnOU5BMlhhdFRDUk1BQ09mdlZWV2h1WWdaUnV1X05ncWxUQ3kzLWFNemdlVkhYMmRTRGFNc29B?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-28"
     }
   ]
