@@ -335,14 +335,9 @@
       "summary": "- 태국 파타야에서 2026년 Tomorrowland 개최 확정, 아시아 최초 풀 스케일 데뷔.\n- 행사로 인해 약 10억 달러의 경제 효과를 창출할 것으로 예상.\n- 음악 팬들에게 잊지 못할 경험을 선사하고 태국 관광 산업 활성화에 기여할 전망.",
       "full_translated": "태국은 2026년 Tomorrowland 개최를 통해 10억 달러 규모의 경제 효과를 기대하고 있습니다. 파타야에서 개최되는 이번 행사는 아시아 최초의 풀 스케일 Tomorrowland 데뷔를 장식할 예정입니다. 이 역사적인 뮤직 이벤트는 음악 팬들에게 잊을 수 없는 경험을 선사하고 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 축제 개최는 관광객 유치에 긍정적인 영향을 미치며, 숙박 및 소비 증가를 통해 경제 활성화에 기여.",
-      "event_info": {
-        "date": "2026-12-01",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 Tomorrowland"
-      },
+      "event_info": "{'date': '2026-12-01', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 Tomorrowland'}",
       "references": [
         {
           "title": "Asia Tourism and Hospitality Growth 2026: From Cricket-Driven Travel Demand to Oakwood Central Hat Yai Expansion - Travel And Tour World",
@@ -351,23 +346,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRE9iQTlwQ2U2RmVRQTFVYkhkWHhxLWFCYjlsSmFlMFpnc3hnYVFEbmRTeUV3TlRuaVpTMFlka3g2QnhJN2JzZGpWeTU4dFBHUUFQVkJiU0YtMngtSW1PUHNuVXhkeTljYmd5SmlaMHVWSlMxSnpWRi04M1d3M3F1VWFjRUoxRy0xVDYtSWVtYkFuUVhUYjFuajByeU5hdWJlUC1LZXdpdXMybTdVNHN6RWczVTJOU2dZRTJtM2U1U3V2WTctNjllWkIyUVBmb1BKVFdaUWVHUFJwYjFoVG9uXzY0bjFOWXp3VkhnUDBuUDA2UQ?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 2026년 Tomorrowland 풀 스케일 개최: 아시아 최초 데뷔",
       "summary": "- 태국 파타야에서 2026년 Tomorrowland 풀 스케일 개최 확정.\n- 아시아 최초의 풀 스케일 데뷔로 새로운 기준 제시.\n- 음악 팬들을 위한 놓칠 수 없는 역사적인 뮤직 이벤트 예고.",
       "full_translated": "태국이 세계적인 이벤트 목적지로 발돋움합니다. Tomorrowland의 풀 스케일 페스티벌이 2026년 12월 파타야에서 개최되어 새로운 기준을 세웁니다! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 국제 행사 개최는 관광객 유치 및 지역 경제 활성화에 긍정적 영향을 미치므로 높은 점수 부여. 기존 보도 자료에 상세 정보를 추가.",
-      "event_info": {
-        "date": "2026-12-XX",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 Tomorrowland"
-      },
+      "event_info": "{'date': '2026-12-XX', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 Tomorrowland'}",
       "references": [
         {
           "title": "Thailand Becomes a World-Class Event Destination: Tomorrowland’s Full-Scale Festival Hits Pattaya in December 2026, Setting a New Standard! - Travel And Tour World",
@@ -376,23 +368,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObGQzSS1CVTNXQU1COXA1d0tPSEplbVN3VU9EY1BkSXRueWV1ZTB2cEhRYUpscWdkWVRoM2U5cEN1NDU0ZktTc3ktejNLSGVlZ2gwQ2gwTGhnQlk3eC1UN1BEWWpzcHR1ZUlEWGZ6QVZMSDhydlpoWGJLSHZBNXpYZFZwbWVkemZlZFYwUmN5NGIyYXM2R09qR3dJWVZmU0FTUEhqUmY1d1Y5eGE0NVhpZmEzbmF0TlNpMTIxTXA5MENCbUJBUW9STTA2R183MG5yUktxeUx2QnV4Vlkwc3R3UnlhZnJ1WmFXeEtTNHd4a3BqUk9hcy1iMWw2NFFZOXlKdmdpd1dtMlRZa2lSNThHanRB?oc=5",
+      "source": ""
     },
     {
       "title": "태국-라오스, 국경 연무 퇴치 캠페인 시작: 치앙라이 공기 질, 관광, 여행 경험 위협",
       "summary": "- 태국과 라오스가 치앙라이의 대기 질을 위협하는 월경 연무에 대처하기 위해 대규모 화재 진압 캠페인을 시작했습니다.\n- 이 캠페인은 관광 산업과 여행 경험에 미치는 부정적인 영향을 완화하는 것을 목표로 합니다.\n- 양국은 협력하여 화재를 예방하고 억제하며, 지역 주민과 여행객의 건강과 안전을 보호하기 위해 노력할 것입니다.",
       "full_translated": "태국과 라오스가 치앙라이의 대기 질, 관광, 여행 경험을 위협하는 국경을 넘나드는 연무에 대처하기 위해 대규모 화재 진압 캠페인을 시작했습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "치앙라이 지역의 대기 질 악화는 여행객의 건강과 여행 경험에 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 아침 시간대에는 여행 계획에 영향을 줄 수 있는 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": "치앙라이",
-        "price": null,
-        "location_google_map_query": "치앙라이"
-      },
+      "event_info": "{'date': None, 'location': '치앙라이', 'price': None, 'location_google_map_query': '치앙라이'}",
       "references": [
         {
           "title": "Thailand and Laos Launch Massive Cross-Border Firebreak Campaign to Combat Transboundary Haze That Threatens Chiang Rai Air Quality, Tourism, and Travel Experiences - Travel And Tour World",
@@ -401,23 +390,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUGNNRjY0cnlQTDJjTmgya2NRN1BmclR1cVhBU0dnbzMwTWZxc2RPN3ZxY2pTZWlGLUgzWFhkTGNvd3BQTEJpdkNyNVlDb3M1R2RiVUhIeW0zWnhpOWJYRzRqTFVTQVBGRnZ5bHNteVRmWnZ2d2tvVldYU0JSb1Bhek90Ump2WnB0Q0FwNWRKUGFxZkRmOW9DYnI4eUtPQkFkNWhwMlFoSEp2Y191NlJkeDRLVTZ1YXhnWEpyLTVJdVFGZlJXM3hHQnFHRUN0X2lJU2RncFJjV2VxTVBrUzlSZ29KSVNYOWhFdzJ4S3BieFl2WUVlMlg2MWlrZEl4MHVVamFoUHk0QXhGVlBJQTJoMlRNSnNlbmJlQ1R5MmQxUjdNdVN6TVpHTFpPUzJkSWVyeDVYN2Rn?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 2026년 Tomorrowland 개최 확정: 국제 여행객과 음악 애호가를 위한 필수 방문 이벤트",
       "summary": "- 파타야가 2026년 Tomorrowland의 아시아 풀 스케일 데뷔를 주최합니다.\n- 국제 여행객과 음악 애호가들에게 놓칠 수 없는 이벤트가 될 것입니다.\n- Tomorrowland는 세계적인 음악 축제로, 파타야 개최는 태국 관광 산업에 큰 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "파타야, 2026년 Tomorrowland의 아시아 풀 스케일 데뷔를 주최합니다: 국제 여행객과 음악 애호가를 위한 필수 방문 이벤트 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "Tomorrowland 개최는 대규모 국제 행사로, 파타야 및 태국 관광 산업에 큰 영향을 미치므로 여행 관련성이 높음. 2026년 개최 예정으로 시간적 여유가 있어 계획에 참고할 수 있음. 기존에 Tomorrowland 관련 기사가 있었지만, 개최 확정 및 상세 정보 업데이트이므로 포함.",
-      "event_info": {
-        "date": "2026-12-01",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026-12-01', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya Now All Set To Host Tomorrowland’s Full-Scale Asian Debut in December 2026: A Must-Visit Event For International Travelers and Music Lovers - Travel And Tour World",
@@ -426,8 +412,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX2ZtckJVVDFLdUZsSHBibjVxeWExeThxMTRXdE5SbGRxTzlZY2RVTXNNUFVhemRRaFpuNHluMTlLczZ6Y0ZheU4wNm1tbmk0UUxuek9uaWRyZktDd0VGdGJRQmlYM19OdzNkZVA3ZG9DcG1VX0VJMWJ3cERwWGlyMWRzYms1LU9DVWh2U20wUlRTUTdOcmRyeDhtVVR2eEVmV3VQWW5ielQ1dVpuVGF4WFZxMXB1bHdsUjVYUUt4cVNzQlhaMzB5UGxBNC1iOWNiaVZ0eEx2d1ZGOC1JeWtRZEc2cVFmWlZMOXFXa21BOXl6MGEzelJrSnpmc2J5bjBvVi1nMkJBemNyTEM2MWRId1JCLS0wRENvajc3aHNVRQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "조지, 11월 Olaris 투어 방콕 공연 확정",
+      "summary": "- 인기 가수 조지가 11월에 방콕에서 Olaris 투어 공연을 개최합니다.\n- 자세한 날짜 및 장소는 추후 공개될 예정입니다.\n- 조지의 방콕 공연은 팬들에게 큰 기대를 모으고 있습니다.",
+      "full_translated": "가수 조지가 11월에 방콕에서 Olaris 투어의 일환으로 공연을 확정했습니다. Time Out Worldwide",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "인기 가수의 공연 정보는 여행객들에게 흥미로운 엔터테인먼트 옵션이 될 수 있으며, 특히 젊은 여행객층에게 어필할 수 있습니다.",
+      "event_info": {
+        "date": "2024-11-XX",
+        "location": "방콕 (추후 상세 장소 발표)",
+        "price": "미정",
+        "location_google_map_query": "방콕 공연장"
+      },
+      "references": [
+        {
+          "title": "Joji confirms Bangkok stop on Olaris Tour this November - Time Out Worldwide",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBQNFcxTFFfWVFneXRMYXBRSlFYOVVIZGRvVU9IZ0pXc1NObTN6bkpYdXVQdmQ5M2JBS3k4c2F2VUJGZWJ4Y19WUUd2SkxBM1hRZ0hRam9SbFB5MXVYOW03WDlKU1FtYWUwR3NFVg?oc=5",
+          "source": "Time Out Worldwide",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야 국제 해변 연 축제 2026년 개최",
+      "summary": "- 파타야 국제 해변 연 축제가 2026년에 개최될 예정입니다.\n- 이 축제는 태국의 하늘을 다채로운 색깔로 채울 것입니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "파타야 국제 해변 연 축제 2026년, 태국 하늘을 색깔로 물들일 예정 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 열리는 국제적인 축제 정보로, 여행객들에게 흥미로운 볼거리를 제공할 수 있음.",
+      "event_info": {
+        "date": "2026",
+        "location": "파타야 해변",
+        "price": "미정",
+        "location_google_map_query": "파타야 해변"
+      },
+      "references": [
+        {
+          "title": "Pattaya International Kite on the Beach Festival 2026 Set to Fill Thailand’s Skies with Color - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdjJmY1VVLUpKeGh6WE1ZZnZMdUMxRzhKMG9KdHBwRUZyUHFmd1hWNEpOQzUybExyS0l4dEV0cW1ZQ044dnVVbUkzbVg0V1R6aUk4M3JVTmdRU2Q4bWZvdGFTNFNab0hQX2YzSWRPanRCblJ3QVZqSi16WTZWdy1mX0c0TmNYS1d4MHE4TFA3dTJWMEM4OWxsbWtiWWJZYmxyRHVxaW5sYlpIT21oVHRWLWFJSFU3S1ZJT1Y0d2NnbzhodXUwYUIybFB4NWJibzlBbGNBY0FfcWo?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 관광청, 유럽 시장 관광 활성화 위해 유럽 부서와 협력",
+      "summary": "- 태국 관광청(TAT)은 유럽 시장 관광객 유치를 위해 유럽 담당 부서와 협력 강화.\n- 유럽 관광 시장의 최신 트렌드 및 마케팅 전략 논의.\n- 유럽 시장의 중요성을 강조하며, 다양한 협력 방안 모색.",
+      "full_translated": "유럽부서는 유럽의 관광 홍보를 강화하기 위해 태국 관광청(TAT)과 협의를 진행합니다. 끄라ทรวง깐ต่าง쁘라텟",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "유럽 관광객 유치 노력은 태국 관광 산업에 전반적으로 긍정적인 영향을 미치므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Department of European Affairs holds consultation with Tourism Authority of Thailand (TAT) to strengthen tourism promotion in Europe - กระทรวงการต่างประเทศ",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOXI0bmt4MkVwYXlZTHFIZ2pfOHZZbFF0eVdBb245TVdtQ01vUzlaR2w1dFUzaVB6ekFFVGJGZ1M3ajRzdDZOZGRBa1h3WkFQNFN5LTdMa00wTEVMWmU0cGdQV25BQk9ZekUxWWx0eEo4eVhHLWYyMXJoMnVIa0JPdTZ1VVJTcnpaRUdrSmFxZDN3cWpkeGtXck4wR0xpR1dzUHVLejRxUjRtVTJJeTFtUFl6WmdtNnRmdVdBczBTVkQwWVhDdDgxWg?oc=5",
+          "source": "กระทรวงการต่างประเทศ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 인도 홀리 축제 관광 활성화에 동참",
+      "summary": "- 미국, 독일, 호주 등 여러 국가와 함께 인도 홀리 축제 관광 활성화에 협력\n- 자이푸르, 델리, 뭄바이, 마투라 등 인기 축제 목적지로의 예약 증가 예상\n- 태국은 인도 관광 시장의 중요한 파트너로서, 이번 협력이 양국 관광 산업에 긍정적 영향 기대",
+      "full_translated": "미국은 독일, 호주, 태국, 일본, 프랑스, 영국 등과 협력하여 자이푸르, 델리, 뭄바이, 마투라 및 기타 인기 있는 축제 목적지에서 기록적인 예약으로 인도의 홀리 관광을 고양시키고 있습니다. 알아야 할 사항 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 참여하는 인도 홀리 축제 관련 관광 활성화 소식으로, 태국 여행객들에게 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "자이푸르, 델리, 뭄바이, 마투라 (인도)",
+        "price": null,
+        "location_google_map_query": "자이푸르, 델리, 뭄바이, 마투라"
+      },
+      "references": [
+        {
+          "title": "United States Unites With Germany, Australia, Thailand, Japan, France, United Kingdom And More In Elevating India’s Holi Tourism With Record Bookings In Jaipur, Delhi, Mumbai, Mathura, And Other Popular Festive Destinations: What You Need To Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPeEhDa0JnUlp1Q0d4ZHhwMVV4RVpGcU82dnZEaTE1bXFMbWR1X19iZk5neDdBMnNoWW1UVmwyYTFQZDE5dU90dkJQdzFXTURKdjExTFZrSTExcVA3eFdMSU9JSlItZU0tSk95QlBWUWxBMHhWcVo1R1ZIZ2E1ZmxDTml3VmN0N2tBZXZrUUdnNHR0ODNPcVpBeE5FQlhkZTYteDdPQlNMUG1vRmFNUG5ONE1pckJTbXNRS2JqbFZ6U2dGdW85d3FnZ3dZR2VpLUk0SlAySTk4RG5naTZLR1VMMktBUUtLbWhtWm9kaFRTWkg1OW5zUmFKbHdvWmZMUEx4QWl4aTlSQXNaLUpSSE82ZV80dlZQVXQtZ0xlcUVDOXBLYjRBV1JKY1hTbmNKWEJHemlzaVJvME5Wa1d4UVpjSWViN0M1QW12cEJUTFYyWWM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 글로벌 AI 허브 목표…데이터 센터 투자 유치 집중",
+      "summary": "- 태국이 지정학적 이점을 활용하여 글로벌 AI 및 디지털 인프라 허브를 목표로 하고 있습니다.\n- 이를 위해 AI 거버넌스, 대규모 데이터 센터 투자, 청정 에너지 전환을 통합하는 국가 마스터 플랜이 필요합니다.\n- 미국과 중국의 기술 기업들이 태국에 투자하려는 움직임을 보이고 있습니다.",
+      "full_translated": "태국은 이미 잠재적으로 수백억 바트의 인프라 투자를 의미하는 5기가와트의 데이터 센터 용량을 유치했습니다. 디지털 위원회(DCT)는 국제적 긴장이 고조되는 가운데 지정학적 중립성을 활용하여 글로벌 인공지능(AI) 및 디지털 인프라 허브가 될 수 있는 독보적인 위치에 있다고 밝혔습니다. 이러한 기회를 활용하기 위해 태국은 AI 거버넌스, 대규모 데이터 센터 투자, 청정 에너지로의 전환을 통합하는 포괄적인 국가 마스터 플랜이 시급히 필요하다고 DCT 공동 설립자인 수파차이 치아라바논은 말했습니다. 정책 입안자들은 데이터 현지화 프레임워크를 발전시키고 글로벌 디지털 경제에서 태국의 장기적인 경쟁력을 강화하기 위해 지역 디지털 역량을 강화해야 한다고 그는 말했습니다.\n\n수파차이 씨는 “태국은 AI에 대한 포괄적인 마스터 플랜과 거버넌스 프레임워크가 시급히 필요합니다.”라고 말했습니다. 태국은 미국과 중국의 지정학적 분열로 인해 매우 유능하고 중립적인 입장을 유지하고 있기 때문에 이익을 얻고 있다고 그는 말했습니다. Microsoft, Google, Amazon, Alibaba 및 Huawei와 같은 미국과 중국의 글로벌 기술 대기업은 어느 편을 들기보다는 태국에 투자하려고 합니다. 태국은 데이터에 대한 막대한 투자가 유입되었다고 보고했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국이 AI 허브를 목표로 하면서 데이터 센터 투자가 늘어날 가능성이 있으며, 이는 장기적으로 관광 인프라 개선에도 영향을 줄 수 있습니다. 단기적인 여행객 직접 영향은 적음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand targets global AI hub status",
+          "url": "https://www.bangkokpost.com/business/general/3206753/thailand-targets-global-ai-hub-status",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/28/5986273_700.jpeg"
+        }
+      ],
+      "collected_at": "05:48",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/28/5986273_700.jpeg",
       "date": "2026-02-28"
     }
   ]
