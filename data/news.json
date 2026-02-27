@@ -225,14 +225,9 @@
       "summary": "- 태국 관광 섬에 화물선에서 유출된 기름이 해안으로 밀려옴.\n- 해당 사고는 관광 산업에 부정적인 영향을 미칠 것으로 예상됨.\n- 당국은 오염 제거 작업에 착수했으며, 추가적인 피해 확산 방지에 주력.",
       "full_translated": "화물선에서 유출된 기름이 태국 관광 섬 해안에 도달했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "기름 유출은 관광객에게 직접적인 불편과 환경 피해를 초래하여 관광 산업에 부정적인 영향을 줄 수 있으므로 높은 점수를 부여. 특히 관광 시즌에는 더욱 민감한 문제.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 섬",
-        "price": null,
-        "location_google_map_query": "태국 관광 섬"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 섬', 'price': None, 'location_google_map_query': '태국 관광 섬'}",
       "references": [
         {
           "title": "Oil spill from cargo ship washes up on Thai tourist islands - Inquirer.net",
@@ -241,23 +236,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:49",
+      "collected_at": "4:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOM19PT0lhRVd3bWVSUWI4UktrSGQ0YjJ5MTEwUUlVbldHRjBmVzNkMjJBRlBCdVFFXzQzcXdSTDN5S0ppVjd2Rmk0OV9sdDlHbUtUbUQtYmdUd3p5TnhTcEg5NUFOVFFWbTFTQ3JOcjRXb2cwbGlhSEVHOWlWNGJTRWRlRlI5WXJ6ejBZXzdjaUk4ZkRfRWQ4T1RDdXlUQ0xmNlHSAacBQVVfeXFMTXFUTkxlbnNreHBlQjlvNnhhSlkxTnk5QTRGTmg0Mk9GZFV4TlN4ajVYWjJHd0ZsMHVpeEpvRTN5NVZMVUkzNEEzN1FFMzlVSDV5YmlnUlYyMGZraUFSS3E4ZVVfZ3JONGRWbmxNTzUxUHFISUZGb3UtNGU2d1h1UDQyQnhNb0pDSTJ4YXN2WHZsZmROUjRfNzF1UjJvNjZYMTlmUTA5NGs?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 도로 분노로 인한 가라테 촙 공격으로 관광객 사망",
       "summary": "- 태국에서 도로 분노로 인해 관광객이 가라테 촙 공격으로 사망했습니다.\n- 피해자는 목에 치명적인 공격을 받았습니다.\n- 사건은 현재 조사 중입니다.",
       "full_translated": "태국에서 도로 분노로 인해 관광객이 목에 가라테 촙 공격을 받아 사망했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "관광객 안전에 직접적인 위협이 되는 사건이므로 높은 점수를 부여합니다. 여행자들에게 주의를 요하는 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourist killed with a single karate chop to the neck in Thailand after road rage dispute - AOL.com",
@@ -266,23 +258,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:49",
+      "collected_at": "4:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yX1NIVFZtMVRLb2JfME1uOUlyckx3ZWhCZC1KQzdRdExNVEowZTBPQlJCZ24tT1FSMk53Rk9HTXlBcUt0em5aV2U0SHFTUW1pSTlNX0ZDVUozdnAwY1g5MjBVbEdyNTZxVEFZclhFMmxBdjJZN01DTWRSbl9PZw?oc=5",
+      "source": ""
     },
     {
       "title": "중국인 관광객 급증, 2026년 설 연휴 아오낭 해변 검색 400% 이상 증가",
       "summary": "- 태국 아오낭 해변, 2026년 설 연휴에 중국인 관광객 검색 급증.\n- 400% 이상의 검색 증가율 기록하며 높은 관광 성장세 입증.\n- 태국 관광 산업의 회복 및 중국인 관광객 유치 성공 가능성 시사.",
       "full_translated": "중국인 관광객의 태국 방문이 급증하고 있으며, 특히 아오낭 해변은 2026년 설 연휴 기간 동안 검색량이 400% 이상 증가하여 강력한 관광 성장세를 나타내고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국인 관광객 증가 추세는 태국 여행 시장에 긍정적인 영향을 미치며, 특정 지역(아오낭)의 인기 상승 정보를 제공하여 여행 계획에 참고할 수 있도록 함.",
-      "event_info": {
-        "date": "2026-02-XX",
-        "location": "아오낭 해변, 태국",
-        "price": "정보 없음",
-        "location_google_map_query": "아오낭 해변"
-      },
+      "event_info": "{'date': '2026-02-XX', 'location': '아오낭 해변, 태국', 'price': '정보 없음', 'location_google_map_query': '아오낭 해변'}",
       "references": [
         {
           "title": "Chinese Tourists to Thailand Soars, With Ao Nang Beach Seeing More than Four Hundred Percent Rise in Searches During 2026 Chinese New Year, Highlighting its Strong Tourism Growth - Travel And Tour World",
@@ -291,23 +280,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:49",
+      "collected_at": "4:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPdFpBWktRaV9LWkRrNUEyNk5abTBtTlAwaHRLWFpOS1VGckZIQWdwQVMxbWVIMlBjRFNDRWN1Z1doZFRmUUMxeWlLQS1pdUxtbThzQ19EaFhvX0xBR1RKSzZEWE5JN01faEQ2eW9oeWRFZ1g2RHdBZWNxaHpYbVMwRlQ3Zl9PVEhwY0VNdFQxRVNMOThaZ1lZNFBOZ01HSWZoeVFQd3FBY1UtS2VkTTVjb1l6STBJTi1qSXdCeUtBZm5ZYWJ1OW5Rcm1JS1dQVEhuZFJNVGY5QnhTWmFCVlBMOHVjczhPelZ3MUhrbE9OcFhtUVYxMDVQY1UzdkNia3hCRHFuSU1uc19OM0p0M2VJQkNLbGRRS1BjejF0SkVXcjV1Y1RYeXdDc1NBNmRXeWQxbEhsZHZZZ2NmVHdadGczUFNMdmNxSFN2?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광공사, 중국 관광객 회복세 측정에 신중",
       "summary": "- 태국 관광공사(TAT)는 중국 관광객 회복세 측정에 신중한 입장.\n- 중국의 경제 상황과 여행 제한 등이 영향을 미칠 수 있다고 판단.\n- TAT는 다양한 시장을 공략하여 관광 산업의 안정적인 성장을 추구할 계획.",
       "full_translated": "태국 관광공사(TAT)는 중국 관광객 회복세를 측정하는 데 신중한 입장입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국 관광객 회복세에 대한 불확실성은 태국 관광 산업에 영향을 미칠 수 있으므로 관련 정보를 제공합니다. 여행 계획에 참고할 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TAT wary on gauging China rebound - Bangkok Post",
@@ -316,23 +302,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:49",
+      "collected_at": "4:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTXFCUGdiTFBpa2h5Zk51V29KOEZGTmsxbGhNX0RpVWplSl9nZXROSngwbmkyZE1ibngtOXFJcXRGZGwwdl9GVDhVN2R3ZmU4eFZ2cDBJdWg5VzlnaHQyeThQOTVSb2MwajBQTjJvT1YxT0dVZFFYVlp5MG81ZENteVVWXzFLS2RiU3haQW1pRQ?oc=5",
+      "source": ""
     },
     {
       "title": "이란, 미국 군사 작전 임박 가능성에 긴장 고조",
       "summary": "- 이란 내 여러 도시에서 미국이 군사 공격을 개시할 수 있다는 우려가 커지고 있음.\n- 미국-이란 간의 협상이 불확실한 가운데, 이란 국민들은 불안감을 느끼며 상황을 주시하고 있음.\n- 일부 젊은 층은 실시간 항공 및 선박 추적 플랫폼을 통해 외부 개입 가능성에 대한 우려를 표명하고 있음.",
       "full_translated": "이란 전역의 여러 도시에서 미국이 군사 공격을 개시할 수 있다는 추측이 확산되면서 긴장이 고조되고 있습니다. 2026년 2월 28일, 이란 국민들은 불확실한 협상 상황 속에서 불안감을 느끼며 잠 못 이루고 상황을 예의주시하고 있습니다. 보도에 따르면, 많은 젊은이들이 실시간 항공 및 선박 추적 플랫폼을 통해 상황을 주시하고 있으며, 일부는 외부의 개입을 우려하고 있습니다. 다른 일부는 외국의 압력이 국내 권력 균형을 바꿀 수 있기를 희망하고 있습니다. 이전 정부에 대한 시위가 50일 이상 지속된 후, 도널드 트럼프 미국 대통령은 시위대가 계속 시위하도록 지지하며 지원이 곧 있을 것이라고 말했습니다. 그러나 최근 외교적 협상에 집중하는 태도로 바뀌면서 일부 그룹의 희망은 희미해지고 있습니다. 한편, 국내 불안으로 인한 사망자 수는 여전히 논쟁의 대상입니다. 미국의 인권 단체 흐라나는 7,007명이 사망했다고 보고했으며, 수천 건이 아직 조사 중입니다. 이 수치는 이란 공식 수치인 3,117명보다 훨씬 높습니다. 유엔 인권 특별 보고관인 마이 사토는 인터넷 제한과 대규모 체포로 인해 폭력의 실제 규모를 평가하는 것이 불가능하다고 밝혔습니다. 스위스 제네바에서 열린 미국-이란 3차 협상이 막",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행 안전에 직접적인 영향은 적으나, 주변국 정세 불안은 간접적인 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านผวาหนัก จับตาสหรัฐฯ เริ่มปฏิบัติการทางทหาร ขณะที่การเจรจายังไร้ข้อสรุป",
@@ -341,8 +324,110 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpdrKPZzRcfoQ.jpg"
         }
       ],
-      "collected_at": "04:49",
+      "collected_at": "4:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpdrKPZzRcfoQ.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2916967",
+      "source": ""
+    },
+    {
+      "title": "태국 관광, 2026년 Tomorrowland 개최로 10억 달러 경제 효과 기대",
+      "summary": "- 태국 파타야에서 2026년 Tomorrowland 개최 확정, 아시아 최초 풀 스케일 데뷔.\n- 행사로 인해 약 10억 달러의 경제 효과를 창출할 것으로 예상.\n- 음악 팬들에게 잊지 못할 경험을 선사하고 태국 관광 산업 활성화에 기여할 전망.",
+      "full_translated": "태국은 2026년 Tomorrowland 개최를 통해 10억 달러 규모의 경제 효과를 기대하고 있습니다. 파타야에서 개최되는 이번 행사는 아시아 최초의 풀 스케일 Tomorrowland 데뷔를 장식할 예정입니다. 이 역사적인 뮤직 이벤트는 음악 팬들에게 잊을 수 없는 경험을 선사하고 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "대규모 축제 개최는 관광객 유치에 긍정적인 영향을 미치며, 숙박 및 소비 증가를 통해 경제 활성화에 기여.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야 Tomorrowland"
+      },
+      "references": [
+        {
+          "title": "Asia Tourism and Hospitality Growth 2026: From Cricket-Driven Travel Demand to Oakwood Central Hat Yai Expansion - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRE9iQTlwQ2U2RmVRQTFVYkhkWHhxLWFCYjlsSmFlMFpnc3hnYVFEbmRTeUV3TlRuaVpTMFlka3g2QnhJN2JzZGpWeTU4dFBHUUFQVkJiU0YtMngtSW1PUHNuVXhkeTljYmd5SmlaMHVWSlMxSnpWRi04M1d3M3F1VWFjRUoxRy0xVDYtSWVtYkFuUVhUYjFuajByeU5hdWJlUC1LZXdpdXMybTdVNHN6RWczVTJOU2dZRTJtM2U1U3V2WTctNjllWkIyUVBmb1BKVFdaUWVHUFJwYjFoVG9uXzY0bjFOWXp3VkhnUDBuUDA2UQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야, 2026년 Tomorrowland 풀 스케일 개최: 아시아 최초 데뷔",
+      "summary": "- 태국 파타야에서 2026년 Tomorrowland 풀 스케일 개최 확정.\n- 아시아 최초의 풀 스케일 데뷔로 새로운 기준 제시.\n- 음악 팬들을 위한 놓칠 수 없는 역사적인 뮤직 이벤트 예고.",
+      "full_translated": "태국이 세계적인 이벤트 목적지로 발돋움합니다. Tomorrowland의 풀 스케일 페스티벌이 2026년 12월 파타야에서 개최되어 새로운 기준을 세웁니다! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "대규모 국제 행사 개최는 관광객 유치 및 지역 경제 활성화에 긍정적 영향을 미치므로 높은 점수 부여. 기존 보도 자료에 상세 정보를 추가.",
+      "event_info": {
+        "date": "2026-12-XX",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야 Tomorrowland"
+      },
+      "references": [
+        {
+          "title": "Thailand Becomes a World-Class Event Destination: Tomorrowland’s Full-Scale Festival Hits Pattaya in December 2026, Setting a New Standard! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxObGQzSS1CVTNXQU1COXA1d0tPSEplbVN3VU9EY1BkSXRueWV1ZTB2cEhRYUpscWdkWVRoM2U5cEN1NDU0ZktTc3ktejNLSGVlZ2gwQ2gwTGhnQlk3eC1UN1BEWWpzcHR1ZUlEWGZ6QVZMSDhydlpoWGJLSHZBNXpYZFZwbWVkemZlZFYwUmN5NGIyYXM2R09qR3dJWVZmU0FTUEhqUmY1d1Y5eGE0NVhpZmEzbmF0TlNpMTIxTXA5MENCbUJBUW9STTA2R183MG5yUktxeUx2QnV4Vlkwc3R3UnlhZnJ1WmFXeEtTNHd4a3BqUk9hcy1iMWw2NFFZOXlKdmdpd1dtMlRZa2lSNThHanRB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국-라오스, 국경 연무 퇴치 캠페인 시작: 치앙라이 공기 질, 관광, 여행 경험 위협",
+      "summary": "- 태국과 라오스가 치앙라이의 대기 질을 위협하는 월경 연무에 대처하기 위해 대규모 화재 진압 캠페인을 시작했습니다.\n- 이 캠페인은 관광 산업과 여행 경험에 미치는 부정적인 영향을 완화하는 것을 목표로 합니다.\n- 양국은 협력하여 화재를 예방하고 억제하며, 지역 주민과 여행객의 건강과 안전을 보호하기 위해 노력할 것입니다.",
+      "full_translated": "태국과 라오스가 치앙라이의 대기 질, 관광, 여행 경험을 위협하는 국경을 넘나드는 연무에 대처하기 위해 대규모 화재 진압 캠페인을 시작했습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "치앙라이 지역의 대기 질 악화는 여행객의 건강과 여행 경험에 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 아침 시간대에는 여행 계획에 영향을 줄 수 있는 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": "치앙라이",
+        "price": null,
+        "location_google_map_query": "치앙라이"
+      },
+      "references": [
+        {
+          "title": "Thailand and Laos Launch Massive Cross-Border Firebreak Campaign to Combat Transboundary Haze That Threatens Chiang Rai Air Quality, Tourism, and Travel Experiences - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPUGNNRjY0cnlQTDJjTmgya2NRN1BmclR1cVhBU0dnbzMwTWZxc2RPN3ZxY2pTZWlGLUgzWFhkTGNvd3BQTEJpdkNyNVlDb3M1R2RiVUhIeW0zWnhpOWJYRzRqTFVTQVBGRnZ5bHNteVRmWnZ2d2tvVldYU0JSb1Bhek90Ump2WnB0Q0FwNWRKUGFxZkRmOW9DYnI4eUtPQkFkNWhwMlFoSEp2Y191NlJkeDRLVTZ1YXhnWEpyLTVJdVFGZlJXM3hHQnFHRUN0X2lJU2RncFJjV2VxTVBrUzlSZ29KSVNYOWhFdzJ4S3BieFl2WUVlMlg2MWlrZEl4MHVVamFoUHk0QXhGVlBJQTJoMlRNSnNlbmJlQ1R5MmQxUjdNdVN6TVpHTFpPUzJkSWVyeDVYN2Rn?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야, 2026년 Tomorrowland 개최 확정: 국제 여행객과 음악 애호가를 위한 필수 방문 이벤트",
+      "summary": "- 파타야가 2026년 Tomorrowland의 아시아 풀 스케일 데뷔를 주최합니다.\n- 국제 여행객과 음악 애호가들에게 놓칠 수 없는 이벤트가 될 것입니다.\n- Tomorrowland는 세계적인 음악 축제로, 파타야 개최는 태국 관광 산업에 큰 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "파타야, 2026년 Tomorrowland의 아시아 풀 스케일 데뷔를 주최합니다: 국제 여행객과 음악 애호가를 위한 필수 방문 이벤트 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "Tomorrowland 개최는 대규모 국제 행사로, 파타야 및 태국 관광 산업에 큰 영향을 미치므로 여행 관련성이 높음. 2026년 개최 예정으로 시간적 여유가 있어 계획에 참고할 수 있음. 기존에 Tomorrowland 관련 기사가 있었지만, 개최 확정 및 상세 정보 업데이트이므로 포함.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya Now All Set To Host Tomorrowland’s Full-Scale Asian Debut in December 2026: A Must-Visit Event For International Travelers and Music Lovers - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQX2ZtckJVVDFLdUZsSHBibjVxeWExeThxMTRXdE5SbGRxTzlZY2RVTXNNUFVhemRRaFpuNHluMTlLczZ6Y0ZheU4wNm1tbmk0UUxuek9uaWRyZktDd0VGdGJRQmlYM19OdzNkZVA3ZG9DcG1VX0VJMWJ3cERwWGlyMWRzYms1LU9DVWh2U20wUlRTUTdOcmRyeDhtVVR2eEVmV3VQWW5ielQ1dVpuVGF4WFZxMXB1bHdsUjVYUUt4cVNzQlhaMzB5UGxBNC1iOWNiaVZ0eEx2d1ZGOC1JeWtRZEc2cVFmWlZMOXFXa21BOXl6MGEzelJrSnpmc2J5bjBvVi1nMkJBemNyTEM2MWRId1JCLS0wRENvajc3aHNVRQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-28"
     }
   ]
