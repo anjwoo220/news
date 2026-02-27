@@ -42608,14 +42608,9 @@
       "summary": "- 파타야 초크차이 빌리지 9에서 2026년 2월 26일 밤 강도 사건 발생.\n- 32세 영국인 요리사와 태국인 여자친구, 영국인 친구 2명이 거주하는 집 침입.\n- 용의자들은 현금 2백만 바트가 든 금고를 훔쳐 픽업트럭을 타고 도주.",
       "full_translated": "2026년 2월 26일 밤, 파타야 초크차이 빌리지 9에서 발생한 사건에 대한 용의자 추적이 계속되고 있습니다. 경찰에 따르면 피해자는 해외에서 요리사로 일하는 32세 영국 국적의 웨슬리 시릴 러셀로 확인되었습니다. 그는 34세의 태국인 여자친구 (개인 정보 보호를 위해 찬디라고만 밝힘)와 두 명의 영국인 친구와 함께 집에 있었습니다. 경찰과 목격자 진술에 따르면 검은색 후드티를 입고 칼로 무장한 용의자 3명이 강제로 집 안으로 침입했습니다. 한 명의 공격자는 러셀 씨의 목에 칼을 대고 현금 위치를 요구하며 외국 억양으로 말했습니다. 강도들은 피해자들을 부엌으로 몰아넣고 아이폰 16과 아이폰 14 두 대의 휴대폰을 빼앗은 후 2층 침실로 향했습니다. 그곳에서 옷장에 숨겨진 금고를 찾아냈는데, 그 안에는 부부가 새 집을 사기 위해 은행에서 인출한 2백만 바트 이상의 현금이 들어 있었습니다. 강도들은 금고를 근처에 주차된 검은색 4도어 픽업트럭에 싣고 현장에서 도주했습니다. 마을을 나갈 때 경비 초소에서 보안 검색대의 차단기를 들이받아 파손시켰습니다. 마을 입구의 감시 영상에는 차량이 오후 10시 19분경 (실제 시간보다 13분 느림)에 진입하여 약 10시 38분에 나가는 모습이 포착되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 강도 사건 발생. 여행객 안전에 영향을 줄 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "파타야 초크차이 빌리지 9",
-        "price": "해당 사항 없음",
-        "location_google_map_query": "Chokchai Village 9 Pattaya"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '파타야 초크차이 빌리지 9', 'price': '해당 사항 없음', 'location_google_map_query': 'Chokchai Village 9 Pattaya'}",
       "references": [
         {
           "title": "Manhunt Continues For Armed Gang of Robbers Who Stole 2 Million Baht from British Expat in Pattaya, Inside Job Suspected",
@@ -42626,21 +42621,18 @@
       ],
       "collected_at": "23:30",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772199483325-scaled.jpg?v=1772199580",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://thepattayanews.com/2026/02/27/manhunt-continues-for-armed-gang-of-robbers-who-stole-2-million-baht-from-british-expat-in-pattaya-inside-job-suspected/",
+      "source": ""
     },
     {
       "title": "영국, 중동 긴장 고조로 이란 대사관 직원 철수",
       "summary": "- 영국 외무부는 중동 지역의 안보 상황 악화로 이란 주재 영국 대사관 직원을 일시 철수시켰습니다.\n- 미국이 이란에 대한 군사적 공격 가능성을 시사한 가운데, 예방 조치로 해석됩니다.\n- 다른 국가들도 유사한 조치를 취하고 있으며, 지역 내 긴장이 고조되고 있습니다.",
       "full_translated": "영국 외무부는 이란 내 대사관 직원을 일시적으로 철수하라는 명령을 내렸습니다. 이는 해당 지역의 안보 상황이 매우 긴장된 데 따른 것입니다. 미국이 이란에 대한 군사 작전 개시를 우려하는 가운데 이루어졌습니다.\n\n2026년 2월 27일, 해외 언론에 따르면 영국 정부는 영국 대사관 직원을 이란에서 일시적으로 철수하라는 명령을 발표했습니다. 이는 해당 지역의 안보 불확실성이 계속 심화되고 있기 때문입니다. 영국 외무부는 여행 권고에서 이러한 조치가 미국이 이란에 대한 군사적 공격 가능성을 시사하고 중동 지역에서 수십 년 만에 최대 규모의 군사력 증강을 보이는 것에 대한 예방 조치라고 밝혔습니다.\n\n이번 직원 철수로 테헤란 주재 영국 대사관이 해당 지역의 영국 시민에게 제공할 수 있는 지원 능력은 크게 제한될 것입니다. 직접 영사 서비스가 중단되었고, 대사관은 원격 시스템을 통해 운영될 예정입니다. 영국의 이러한 움직임은 다른 국가들이 경고를 발령하거나 유사한 조치를 취하는 것과 함께 이루어졌습니다. 미국은 안전 위험 증가로 인해 비상 업무와 관련 없는 직원과 가족이 이스라엘에서 철수하도록 승인했습니다.\n\n이러한 긴장은 미국과 이란 간의 핵 프로그램 관련 제네바 협상이 결론 없이 끝난 후 고조되었습니다. 양측은 주요 쟁점에서 여전히 이견을 보이고 있으며, 새로운 협상 시도가 이루어지고 있지만 군사적 충돌이 곧 발생할 수 있다는 우려가 커지고 있습니다. (출처: The Guardian)",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 긴장 고조는 잠재적으로 여행객 안전에 영향을 미칠 수 있으며, 관련국 여행 시 주의가 필요함. 현재 태국 여행에는 직접적인 영향은 없으나 상황을 주시해야 함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อังกฤษสั่งถอนเจ้าหน้าที่สถานทูตในอิหร่าน หลังความตึงเครียดตะวันออกกลางพุ่ง หลายประเทศสั่งอพยพด่วน",
@@ -42651,21 +42643,18 @@
       ],
       "collected_at": "23:30",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpeIWM0QgWeUT.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.thairath.co.th/news/foreign/2916962",
+      "source": ""
     },
     {
       "title": "카오소이, TasteAtlas 세계 국수 순위 2위 등극",
       "summary": "- 태국 북부의 대표 음식 카오소이가 TasteAtlas에서 '세계 최고의 국수 요리' 2위로 선정됨.\n- 코코넛 밀크와 레드 커리 페이스트로 만든 풍부한 국물, 에그 누들, 닭고기, 소고기 또는 돼지고기 토핑이 특징임.\n- 바삭하게 튀긴 국수, 라임, 절인 양배추, 샬롯, 고추 등의 조미료와 함께 제공되며, 태국 음식의 국제적인 인지도를 반영함.",
       "full_translated": "태국의 카오소이가 TasteAtlas에서 2026년 '세계 최고의 국수 요리' 2위로 선정되어, 태국 북부 특산품이 세계 최고의 국수 요리 중 하나로 자리매김했습니다. 코코넛 커리 국수 수프는 코코넛 밀크와 레드 커리 페이스트로 만든 풍부한 국물로 유명하며, 에그 누들과 닭고기, 소고기 또는 돼지고기 중에서 선택하여 곁들여 먹습니다. 바삭하게 튀긴 국수가 토핑으로 올려지고 라임, 절인 양배추, 샬롯, 고추 등의 조미료와 함께 제공됩니다. 1위는 일본의 요코하마 스타일 라멘이 차지했으며, 돈코츠 간장 베이스 국물에 두꺼운 면발이 특징입니다. 순위에는 다른 일본 라멘 종류, 중국의 란저우 라면과 비앙비앙 면, 베트남의 포, 남부 베트남 소고기 국수 샐러드와 구운 돼지고기 미트볼과 버미셀리, 싱가포르의 차 콰이 테오 등 아시아 국수 요리가 강세를 보였습니다. 카오소이의 높은 순위는 태국 북부 요리에 대한 국제적인 인식이 높아지고 있음을 반영하며, 현재 태국에서 가장 상징적인 국수 요리 중 하나로 널리 알려져 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 대표 음식의 국제적 위상 변화는 여행객의 음식 관광 만족도에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Khao Soi ranks second in TasteAtlas world noodle list",
@@ -42676,21 +42665,18 @@
       ],
       "collected_at": "23:30",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/northern-thai-noodle-curry-soup-with-chicken-kao-soi-kai-thai-food-style.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.khaosodenglish.com/life/food/2026/02/27/khao-soi-ranks-second-in-tasteatlas-world-noodle-list/",
+      "source": ""
     },
     {
       "title": "대다수 태국인, 6개월치 비상 자금 부족: 태국 중앙은행 발표",
       "summary": "- 태국 중앙은행(BOT)에 따르면 태국인의 77.3%가 6개월 미만의 비상 자금을 보유하고 있음.\n- 86% 이상이 은퇴 계획을 세우지 못하거나 계획을 따르지 못하고 있음.\n- 금융 이해력은 OECD 평균 이상으로 향상되었지만, 이자 및 복리에 대한 이해는 여전히 부족함.",
       "full_translated": "태국 중앙은행은 2026년 2월 26일, 태국인의 77.3%가 6개월 미만의 비상 자금을 보유하고 있으며, 86% 이상이 은퇴 계획을 세우지 못하거나 계획을 따르지 못하고 있다고 발표했습니다. 2024년 보고서에서 중앙은행은 태국인의 전반적인 금융 이해력이 꾸준히 향상되었으며 OECD 평균 이상이라고 밝혔습니다. 그러나 여전히 많은 사람들이 이자와 복리에 대한 이해가 부족합니다. 응답자의 91.5%가 저축을 한다고 답했지만, 대부분은 불규칙하거나 불충분한 장기 저축으로 인해 충분한 비상 자금을 확보하지 못하고 있습니다. BOT는 비상 자금이 장기적인 재정 안정의 핵심 기반이며, 소득 충격 시 가계 부채를 관리하고 은퇴 목표 달성 가능성을 높이는 데 도움이 된다고 밝혔습니다. 예금 및 송금과 같은 기본적인 금융 서비스 이용은 증가했지만, 신용 카드, 보험 및 투자와 같은 다른 상품의 이용률은 여전히 낮고 감소하고 있습니다. 신용 사용 또한 경제 상황 속에서 강화된 대출 기준 때문에 모든 직업군에서 감소했습니다. 이러한 결과는 금융 지식 개선에도 불구하고 저축 행동과 장기적인 재정 준비 사이의 구조적인 격차를 보여줍니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행자에게 직접적인 영향은 적으나, 태국 경제 상황에 대한 이해를 돕고, 장기적으로 여행 관련 비용에 영향을 줄 수 있음. 최신 경제 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Most Thais lack six-month emergency savings, BOT says",
@@ -42701,7 +42687,136 @@
       ],
       "collected_at": "23:30",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/thai-baht-banknote-money-investment-economy-accounting-business-banking.jpg",
-      "date": "2026-02-27"
+      "date": "2026-02-27",
+      "link": "https://www.khaosodenglish.com/tech/2026/02/27/most-thais-lack-six-month-emergency-savings-bot-says/",
+      "source": ""
+    }
+  ],
+  "2026-02-28": [
+    {
+      "title": "이탈리아 밀라노, 패션위크 중 트램 탈선 사고로 1명 사망, 20명 이상 부상",
+      "summary": "- 밀라노 도심에서 트램이 탈선하여 건물과 충돌, 1명 사망, 20명 이상 부상\n- 사고 당시 밀라노는 패션위크 개최 중이었으며, 사고 원인은 아직 불명\n- 부상자들은 병원으로 이송되었고, 당국은 사고 원인 조사 중",
+      "full_translated": "이탈리아 밀라노에서 트램이 탈선하여 도심 인근 건물을 들이받아 1명이 사망하고 20명 이상이 부상했습니다. 사고는 밀라노가 패션위크를 개최하는 동안 발생했습니다. 외신 보도에 따르면, 이탈리아 북부 밀라노에서 트램이 탈선하여 건물과 충돌하여 최소 1명이 사망하고 약 20명이 부상했습니다. 경찰은 트램이 왜 탈선했는지 아직 정확한 원인을 밝히지 못했습니다. 사고 지역은 주요 비즈니스 지구인 도심 근처이며, 이 기간 동안 패션위크가 열려 많은 사람들이 있었습니다. 목격자들은 여러 대의 구급차가 부상자를 병원으로 이송하기 위해 줄지어 서 있었고, 당국은 안전을 위해 주변 지역을 봉쇄하고 사고 원인 조사를 시작했다고 밝혔습니다. 당국은 부상자의 상태나 사망자에 대한 자세한 내용은 아직 공개하지 않았으며, 초기 조사가 완료된 후 추가 정보를 발표할 예정입니다. 출처: AFP",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객이 많은 밀라노에서 발생한 사고 소식으로, 안전에 대한 주의를 환기하고 여행 계획 변경을 고려할 수 있도록 정보를 제공.",
+      "event_info": {
+        "date": "2069-02-27",
+        "location": "밀라노 도심",
+        "price": null,
+        "location_google_map_query": "밀라노 도심"
+      },
+      "references": [
+        {
+          "title": "ด่วน รถรางตกรางพุ่งชนอาคารกลางเมืองมิลาน อิตาลีดับ 1 ศพเจ็บกว่า 20 ราย เหตุเกิดช่วงจัดแฟชั่นวีค",
+          "url": "https://www.thairath.co.th/news/foreign/2916965",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpdzpc7GgGSpj.jpg"
+        }
+      ],
+      "collected_at": "00:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpdzpc7GgGSpj.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "푸껫 해변, 침몰 화물선에서 유출된 기름으로 몸살",
+      "summary": "- 침몰 2주 만에 기름 유출 발생\n- 푸껫 해변 오염 심각\n- 관련 당국, 긴급 방제 작업 착수",
+      "full_translated": "침몰한 화물선에서 유출된 기름이 침몰 2주 후 푸껫 해변으로 밀려왔습니다. Marine Insight",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "푸껫 해변 오염은 여행객에게 직접적인 영향을 미치므로 관련 정보 제공. 안전 문제와 관련된 정보이므로 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 해변",
+        "price": null,
+        "location_google_map_query": "푸껫 해변"
+      },
+      "references": [
+        {
+          "title": "Oil Spill From Sunken Cargo Ship Washes Up On Phuket Beaches Two Weeks After Sinking - Marine Insight",
+          "url": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxOY3NqN2JabnE2dC1oY3prTHVXQ21aalB5S2Z6ZGpqemotaHcwYS1QYjBYXzRlVWJ3SHZacGNfRm1mT1BaV3JOMURUcE9ySDV0dGZaa3JYc0hvUlMxcERhbUtIcjdNRnFZU3RJWmR4ZG1iZXpyVndaQktaOVZ6UnNYRkpYa2JfOThCLTA3elB0NTBYcmIxUVJDT2M1MDl5VWdsNHRfTm0yVUxrZ2tJTFhsZXhzc081SFpUYkFSWHR5VzNzdnBILXNFOUpTbF9xV2lZcjZtVk1lTThjRDhjUWp3UXpnMTFhelNxdDhDZk5FcjY5WUNhQmhUOWpmYVh3VTZmSkQ5U3hJcUVOLVdOVWJXUmpqc19DLTFHYjlKaWtnMS1ubXdFa19Oay1LMjYxbjRUajlZdFA5WlJzdUxpazJveVhYT0tVUGo4QndhWUNMX2NCZllLa2NaUmstOHkyejN5Z3p3YTdWLTZwaXBKRXJMZUVR?oc=5",
+          "source": "Marine Insight",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 관광 공원의 호랑이 72마리, 질병으로 폐사",
+      "summary": "- 태국 관광 공원에서 호랑이 72마리가 원인 불명의 질병으로 폐사함.\n- 당국은 정확한 원인을 조사 중이며, 추가 확산을 막기 위해 노력하고 있음.\n- 관광객들은 해당 공원 방문 시 위생에 주의하고, 관련 당국의 지침을 따르는 것이 좋음.",
+      "full_translated": "태국 관광 공원에서 호랑이 72마리가 질병으로 폐사했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "동물원/관광지 관련 이슈이므로 여행객에게 어느 정도 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "72 tigers at Thailand tourist park die from illness - WABI",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSy13T0Y5bHNDZzJJd21fNWpzSERsTVJ4YXF6TXNrUnhsZ0ZrVnRNM19RdExpUHNHRl84Q0d6dkdhdUMwRmJBQmpvRVRKZTI1NFVkOVFjS2hEQ2NpY0c3VkxCS1BlOGlVWVhMUVNVQkFnTGJlZDJ0cy1RYXV3TlVLRg?oc=5",
+          "source": "WABI",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 치과 관광 급성장: 미국 환자들, 고품질 치과 치료로 비용 절감",
+      "summary": "- 태국 치과 관광이 미국 환자들 사이에서 인기를 얻고 있음.\n- 고품질 치과 치료를 저렴한 가격에 받을 수 있다는 장점 때문.\n- 태국은 숙련된 치과 의사와 현대적인 시설을 갖추고 있어 매력적인 선택지가 되고 있음.",
+      "full_translated": "태국의 치과 관광 급성장으로 미국 환자들이 고품질 치과 치료를 받으면서 큰 비용을 절감하고 있습니다. &nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국에서 치과 치료를 받는 것이 비용 효율적인 선택지가 될 수 있음을 알리는 정보. 여행자들의 의료 관광에 대한 관심을 유도할 수 있다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Remarkable Growth in Dental Tourism as U.S. Patients Save Big on Top-Quality Dental Care - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdzNJYVNaYlpJUUZMNjZubDZDek5YLUY4ME9lbHktdmtUTXBoUGVFcTM1S3J0UkdibUpIWFUzV0FXckR1b0ZPYllnSjJtT2tQT2pxUjI5bkt5QW9fOVpjRndvcVdkcFJkekhITXJhS1J3b0ZESmtNdUdVcTNXWm9fVWI3WTFVZWd2a3FvcVBfejJwcFR6MWN6SVg2NkZqWElmcGZyTXgtd203SWRRSVlhT3d1VE51NXZENkxBV1ZWVzRMSExhN3Jrck5FZkR1MWNfS1JyYldib0pTY3gxYzBn?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 투모로우랜드 개최로 관광 수입 10억 달러 기대",
+      "summary": "- 태국 관광 산업, 투모로우랜드 개최로 활기 기대.\n- 남아시아 최대 규모의 EDM 페스티벌 개최.\n- 관광 수입 증대 및 국가 이미지 제고 전망.",
+      "full_translated": "태국 관광 산업이 투모로우랜드 개최를 통해 10억 달러의 미래를 바라보고 있습니다. 남아시아에서 가장 큰 규모의 EDM 페스티벌인 투모로우랜드는 태국 관광 산업에 새로운 활력을 불어넣을 것으로 기대됩니다. 이 행사는 관광 수입 증대뿐만 아니라 국가 이미지 제고에도 기여할 것으로 예상됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "대규모 축제 개최로 인한 관광객 유치 기대. 하지만 이미 알려진 사실이며, 현재 시각으로 긴급한 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai tourism looks to US$1 billion future as Tomorrowland picks up beat - South China Morning Post",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenBYc2JKMVJoQlc2ZlAtRkFhWlZwd3lGckloT0dSX0RVVEh1WEhiTHNNeTQzNnBPTVRvRVlURXBiWnhtOVFpRmFCejBpbW4ycFltN21QcmFfSzBhemlpcy1VZi1ocjloRjNLa0xmMGV6cG4tcVdkSTVlVHU4T2dCYnBUSXUwVF9FT1UyTmhMd0dBRTU0YUJreVprczYta3BQMUxsanpmTFNvMXp6WHR0Wkk4OFdiTmxpajFrX1RoWU5fX0HSAcMBQVVfeXFMTVJOc0x5dlFUSE9mbEhJQmRET0FoYjladXZHaEtxakdMblBBdUpiZy1kczVudFVKUHhaT1R6V3l6a0h1a2hyNFFyZTA5ZlpQLVpZOHlNMzUycUltYUljUnFXM2Mzb0lZNFJyNEFRSnozR3FocDctNkU5Y2Y2LTROVHpGUVNTRzZ5VWlSekNKV181bExFTUZRd2NuMHh3MHRxbTJMbExXdkNZRWFlZVNvOC1XQXFuM2FYSGdHdHp0Sm1iQnQ0?oc=5",
+          "source": "South China Morning Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
     }
   ]
 }
