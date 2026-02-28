@@ -3438,14 +3438,9 @@
       "summary": "- 태국이 2026년을 글로벌 이벤트 허브로 만들고자 노력 중입니다.\n- Tomorrowland를 포함한 대규모 이벤트를 유치하여 관광 산업을 활성화할 계획입니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "태국은 2026년을 글로벌 이벤트 허브로 만들 계획입니다. 이를 위해 Tomorrowland와 같은 대규모 이벤트를 유치하여 관광 산업을 활성화하고자 합니다. 이러한 노력은 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다. 특히 파타야에서 개최되는 Tomorrowland는 아시아 최초의 풀 스케일 데뷔로, 많은 관광객을 유치할 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 이벤트 개최 정보는 여행객의 여행 계획에 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": "2026-12",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026-12', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand global event hub 2026 - Travel And Tour World",
@@ -3454,23 +3449,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:13",
+      "collected_at": "0:13",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcGJwZ3B5V2Z4N1BTVkk1VGhlVEdSY0JhSEFzdW9ZSDBIZndDeGhhUEpWQWRjc2swLVI2OWV0WnlCcXp2UWxYZTZ0eFA4cW5JSWVHRkQwLTNhY1B4NmhzY2F5dURRLVhiWEVrMUhyN1RyQmYxbS01Sldla0hxbXBSWjJseUcxb2gwSHpB?oc=5",
+      "source": ""
     },
     {
       "title": "TikTok, 알바니아 정부의 금지령 종료 후 복귀",
       "summary": "- 알바니아에서 1년간의 금지령이 만료된 후 TikTok이 다시 서비스를 시작했습니다.\n- 이번 사건은 정치적으로 분열된 지역에서 금지령을 내리는 복잡성을 보여줍니다.\n- 온라인 안전 및 검열에 대한 질문을 제기하고 있습니다.",
       "full_translated": "소셜 미디어 플랫폼 TikTok은 알바니아에서 1년 간의 금지령이 이달 만료된 후 다시 서비스를 시작했습니다. 이는 정치적으로 분열된 지역에서 금지령을 내리는 복잡성을 보여주고 온라인 안전 및 검열에 대한 질문을 불러일으키는 사례입니다. - REUTERS 소셜 미디어 플랫폼 TikTok은 알바니아에서 1년 간의 금지령이 이달 만료된 후 다시 서비스를 시작했습니다. 이는 정치적으로 분열된 지역에서 금지령을 내리는 복잡성을 보여주고 온라인 안전 및 검열에 대한 질문을 불러일으키는 사례입니다. - REUTERS 방콕 포스트 경험을 최대한 활용하려면 광고 차단기를 비활성화하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "여행 관련성이 낮음. 알바니아 관련 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TikTok returns to Albania after government ban ends",
@@ -3479,8 +3471,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207039_700.jpg"
         }
       ],
-      "collected_at": "00:13",
+      "collected_at": "0:13",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207039_700.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/video/world/3207039/tiktok-returns-to-albania-after-government-ban-ends",
+      "source": ""
+    },
+    {
+      "title": "이란, 호르무즈 해협 봉쇄 위협: 미국-이스라엘 공격에 대한 대응",
+      "summary": "- 이란, 미국과 이스라엘의 공격에 대응하여 호르무즈 해협 봉쇄 가능성 시사.\n- 호르무즈 해협은 세계 석유 수송의 중요한 경로이며, 봉쇄 시 국제 유가 급등 우려.\n- 이란 혁명수비대는 이미 해협을 통과하는 선박에 경고 메시지를 보낸 것으로 알려짐.",
+      "full_translated": "이란 언론에 따르면, 군은 미국과 이스라엘이 토요일 아침 공격을 개시한 후 세계 석유 수송의 중요한 경로인 호르무즈 해협을 폐쇄할 준비를 하고 있습니다. 이란 혁명수비대(IRGC)와 가까운 '타스님' 통신은 2569년 2월 28일, 페르시아만과 오만만 사이 이란 남부에 위치한 세계 원유 수송의 중요한 경로인 호르무즈 해협이 폐쇄될 것이라고 보도했습니다. 타스님은 '여러 소식통'의 말을 인용하여 해운 선박들이 IRGC로부터 어떤 선박도 이 해협을 통과할 수 없다는 메시지를 받았다고 밝혔습니다. 영국 해상 무역 운영(UKMTO) 또한 여러 소식통으로부터 여러 선박이 호르무즈 해협 폐쇄에 대한 경고를 받았다는 보고를 받았다고 밝혔습니다. 호르무즈 해협은 세계에서 가장 중요한 해상 무역 경로 중 하나이며 석유 수송에 매우 중요한 '전략적 병목 지점'입니다. 전 세계 석유 및 천연 가스의 약 1/5이 이 해협을 통해 수송됩니다. 한편, 미국과 이스라엘은 토요일 이란 고위 지도부를 겨냥한 군사 공격을 감행하여 중동을 분쟁으로 몰아넣었습니다. 도널드 트럼프 대통령은 이번 공격이 미국에 대한 안보 위협을 종식시키고 이란 국민에게 통치자를 전복할 기회를 제공할 것이라고 밝혔습니다. 이란은 이번 공격을 도발적이고 불법적인 행위라고 규정하고 이스라엘과 페르시아만 지역의 여러 미국 기지가 있는 국가에 미사일을 발사하며 대응했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "호르무즈 해협 봉쇄는 유가 급등 및 여행 관련 비용 증가로 이어질 수 있으며, 중동 지역 긴장 고조는 여행 안전에 잠재적 위협이 될 수 있으므로 여행객에게 중요한 정보임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านจ่อปิดช่องแคบฮอร์มุซ หลังสหรัฐฯ-อิสราเอล เปิดฉากโจมตี",
+          "url": "https://www.thairath.co.th/news/foreign/2917121",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5pYh5sebOJi.jpg"
+        }
+      ],
+      "collected_at": "00:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5pYh5sebOJi.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "방콕, 폭염 대비 255개 냉방 센터 운영",
+      "summary": "- 방콕 전역에 255개의 냉방 센터가 운영되어 주민과 여행객의 안전을 지킵니다.\n- 폭염과 극심한 기온이 관광 및 일상생활에 미치는 영향에 대비합니다.\n- 냉방 센터는 더위로 인한 건강 문제를 예방하고 편안한 휴식을 제공합니다.",
+      "full_translated": "태국은 방콕 전역에 255개의 냉방 센터를 개방하여 치명적인 폭염으로부터 주민과 여행객을 안전하게 보호하고 있습니다. 이번 조치는 관광 및 일상생활에 큰 영향을 미치는 극심한 기온 상승에 대한 대응입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "방콕 폭염으로 인한 여행객 안전 확보 및 편의 제공. 냉방 센터 위치 및 이용 정보 필요.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 전역",
+        "price": "무료",
+        "location_google_map_query": "방콕 냉방 센터"
+      },
+      "references": [
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPeGM0Qk90NW1wSnBZLTFKek9wcjVHcmxneUx6MkVVZlRCRGxoQWxFc2VxdGZtQlYwSHhFcU9tUWllRE8zN0RHdG5jU2RuaFUtMUtESHQ1ZHVuRFpGTVdoVHY0T1dwNzNIazdmZmFyRGJQckdydTJya21nQnNOU3J4WUl6RXRYVWZSRmNEdkdWOHBNQjhwSk5DdUEybzFuSGZUV1QycEtCT1ZraGh0RTU0WTJBOWhYR01kRXhjanlWaDVOdEQyLUFRRjRqcmNhcVBQU2RtMTBnUmZ0MW5pcHVCQmVjVXNMcFNXQlpIYkY4WXh1SzlJTEEzSzdDcFRYVlgtSFVfODdwUDIyUjBNVzcxUlotMThQSTdUb2lGeEwzUmxWanhSQUhxSVV1a0xfY3JxdG8zN3o2QkdIU1JsRXotWDRURFBhbVZ6MlE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 2026년 Tomorrowland 개최 확정 - 아시아 데뷔",
+      "summary": "- 태국 관광청(TAT), 2026년 12월 Tomorrowland Thailand 개최 발표\n- Tomorrowland, 아시아에서 처음으로 태국에서 풀 스케일 개최\n- 태국, 글로벌 이벤트 허브로 도약 기대",
+      "full_translated": "태국 관광청(TAT)은 2026년 12월 태국에서 Tomorrowland Thailand를 풀 스케일로 개최한다고 발표했습니다. 이는 Tomorrowland가 아시아에서 처음으로 풀 스케일로 개최되는 것으로, 태국이 글로벌 이벤트 허브로 도약하는 데 기여할 것으로 기대됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "대규모 축제 개최 정보는 여행객의 관심도가 높고, 특히 아시아 최초 개최라는 점에서 충분한 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "태국 (구체적인 장소는 추후 발표)",
+        "price": "미정",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "TAT announces Tomorrowland Thailand full-scale Asian debut in December 2026 - 巴士的報",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnlzNDRQdDQyeGFJZDFhUHRGRThKaUVSLWw3Qk9va2YwZUFXX2J3TFI2Zm5vaVFGWFBWMXZuNk53OWdSaTJNRmllMzRMQVRBV2R6OUJDN2VPZThWSWNObUlEZkpoc2VBNS1XeldRSVF5VnJfRERjQ3I4RG5YM2oteENKd25xbk04anhOREpzc0VnTVNaWTdVS2pBS01udGJvNk9wQUhGbUo5NlZSVm9Ba0Jsb2VxSjhpNW5oZlhPZGZRYm5ieUE?oc=5",
+          "source": "巴士的報",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 관광공원, 호랑이 72마리 질병으로 폐사",
+      "summary": "- 태국 관광공원에서 호랑이 72마리가 질병으로 사망함.\n- 해당 공원의 위생 및 동물 관리 상태에 대한 우려가 제기됨.\n- 정확한 질병 원인 파악 및 추가 확산 방지 조치가 필요함.",
+      "full_translated": "태국 관광공원에서 호랑이 72마리가 질병으로 사망했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "동물원 방문객 감소 및 이미지 하락 가능성",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "72 tigers at Thailand tourist park die from illness - KJCT",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHVSa1l2eWpKajdJUmtPa1JxSDdRNnNYRG5pT2cyRThjZXJGWFItZzR5a2MzOHlsRGg5Z3M4d09nWW9tUjdGUlo4VkhpNmVoTVIwQXI2TmYzdHg0ZXBsRGYxN1NVMFJiVnMtMVJaQ2ZnZ1FDbW0tWmRUcmUyRFFRdkY1cw?oc=5",
+          "source": "KJCT",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 유럽 관광객 유치 강화 위해 태국 관광청과 협력",
+      "summary": "- 유럽 관광 시장 확대를 위한 협의 진행\n- 태국 관광청(TAT)과 유럽 부서 간 협력 강화\n- 유럽 관광객 유치를 위한 공동 프로모션 계획",
+      "full_translated": "유럽 부서는 유럽의 관광 홍보를 강화하기 위해 태국 관광청(TAT)과 협의를 진행합니다. 끄라ทรวง깐땅쁘라텟",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "유럽 관광객 유치를 위한 협력은 잠재적으로 한국 여행객에게도 다양한 프로모션과 혜택을 제공할 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Department of European Affairs holds consultation with Tourism Authority of Thailand (TAT) to strengthen tourism promotion in Europe - กระทรวงการต่างประเทศ",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcVhGSmVsRm0tX19CTkpkVmJmU1ZlZ0RVU0cwdi1RWS1QWFI3LUlNcGdKOURSZkRPeDdTc3FFVnVKVHhiV0FLZlZYVDFWREpUcnM4ajZKTWZ4b3Y0UmRXUllJMmFOWlgyMkFUUTZEdlVnUXF3MkJFNA?oc=5",
+          "source": "กระทรวงการต่างประเทศ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
   ]
