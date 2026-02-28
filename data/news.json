@@ -2798,14 +2798,9 @@
       "summary": "- 태국 외무부는 중동 지역 내 갈등 심화 가능성에 대비, 자국민 안전 확보를 위한 조치 시행.\n- 이스라엘과 이란 주재 태국 대사관은 자국민에게 주의 권고 및 긴급 연락망 제공.\n- 고위험 지역 거주 태국인들에게는 가능한 한 빨리 해당 지역을 떠날 것을 권고.",
       "full_translated": "태국 외무부는 중동 지역 갈등이 더욱 심화되어 해당 지역에 거주하는 태국 국민의 안전에 영향을 미칠 수 있는 상황에 대비하여 일련의 조치를 취했습니다. 시하삭 푸앙케트케우 외무장관은 토요일, 외무부가 해당 지역의 모든 대사관과 지속적으로 연락하여 상황을 면밀히 모니터링하고 평가하는 동시에 태국 국민에게 정보를 제공하고 있다고 밝혔습니다. 텔아비브와 테헤란 주재 태국 대사관은 불안 초기 단계부터 태국 국민에게 주의사항과 지침을 발표했습니다. 또한 태국 시민을 지원하기 위한 전용 핫라인을 개설했다고 시하삭 씨는 말했습니다. 이란에는 약 300명의 태국인이 거주하고 있으며, 대부분이 학생입니다. 약 4만 명의 태국인이 이스라엘에서 노동자로 생활하고 있습니다. 토요일 미국의 이스라엘의 테헤란 공격과 이란의 미국 기지에 대한 보복 공격에 따라 외무부는 고위험 지역, 특히 이란과 이스라엘에 거주하는 태국 국민들에게 가능한 한 빨리 해당 지역을 떠날 것을 촉구했습니다. 급한 필요가 없는 사람들에게도 분쟁으로 영향을 받는 지역으로의 여행 계획을 재고할 것을 권고했습니다. 이미 수십 개의 항공사가 예정된 항공편을 취소했으며 해당 지역의 국가들이 영공을 폐쇄했습니다. 외무부는 관련 기관과 긴밀히 협력하기 위한 워룸을 설치했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 지역 긴장 고조로 인해 태국인의 안전에 대한 우려가 커지고 있으며, 이는 여행 계획에 영향을 미칠 수 있습니다. 특히 이스라엘, 이란 방문 계획이 있는 여행객은 반드시 확인해야 합니다. 시간 경과에 따른 상황 업데이트 발생.",
-      "event_info": {
-        "date": null,
-        "location": "중동 (주로 이란, 이스라엘)",
-        "price": null,
-        "location_google_map_query": "이란 이스라엘"
-      },
+      "event_info": "{'date': None, 'location': '중동 (주로 이란, 이스라엘)', 'price': None, 'location_google_map_query': '이란 이스라엘'}",
       "references": [
         {
           "title": "Alert issued to Thai nationals in Mideast",
@@ -2816,21 +2811,18 @@
       ],
       "collected_at": "21:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207105_260228204813_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3207105/alert-issued-to-thai-nationals-in-mideast",
+      "source": ""
     },
     {
       "title": "태국, 남파타야 위험에 대한 안전 경고 발령",
       "summary": "- thetraveler.org에 따르면 태국이 남파타야 지역의 위험에 대한 안전 경고를 발령했습니다.\n- 구체적인 위험 요소에 대한 자세한 내용은 기사를 참조해야 합니다.\n- 여행자는 해당 지역 방문 시 안전에 유의해야 합니다.",
       "full_translated": "Thailand Issues Safety Alert Over South Pattaya Risks&nbsp;&nbsp;thetraveler.org",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "파타야는 한국인 여행객이 많이 찾는 지역이므로 안전 관련 경고는 높은 우선순위를 가집니다. 특히 저녁 시간대에는 안전 관련 정보가 중요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "남파타야",
-        "price": null,
-        "location_google_map_query": "남파타야"
-      },
+      "event_info": "{'date': None, 'location': '남파타야', 'price': None, 'location_google_map_query': '남파타야'}",
       "references": [
         {
           "title": "Thailand Issues Safety Alert Over South Pattaya Risks - thetraveler.org",
@@ -2841,21 +2833,18 @@
       ],
       "collected_at": "21:14",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFk0REpPV0FlMkFIQjlrNXIwYWRxbnZ5QnNZZDNZMFhuM0RLWWl0MWQ1WUgtd1ZZU2dsYWpGM1N6akhHYXNjS1FBcXVpZlZZWGtqY1o3OU11VDBJYXVPMWcwRF9sdGNTSkpMQzJ2NGNjalJmT0JxaXdTSF9pZ3dHSVg2SzREVHNqS1E?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, 이스라엘-UAE 내 태국 노동자 보호 강화 및 필요시 대피 준비",
       "summary": "- 태국 노동부 장관, 이스라엘과 UAE 주재 태국 대사관에 노동자 보호 지시\n- 중동 긴장 고조에 따라 노동자 안전에 대한 우려 증가\n- 필요한 경우 즉시 대피할 수 있도록 준비하고, 가족들에게 과도한 걱정 자제 당부",
       "full_translated": "태국 노동부 장관은 아부다비와 텔아비브 주재 태국 대사에게 태국 노동자들을 돌볼 것을 지시하고, 경계를 강화하도록 경고했습니다. 만약 폭력이 심화되어 대피가 필요한 경우 즉시 조치를 취할 것을 지시하며, 가족들에게는 지나치게 동요하지 말 것을 요청했습니다. 태국 정부는 최선을 다해 보호하고 있습니다. 2026년 2월 28일, 노동부 장관인 트리눗 티안통은 중동의 긴장된 상황 이후 이스라엘 내 태국 노동자들에 대한 우려를 표명했습니다. 분쟁이 격화되고 확산되어 해당 지역에 거주하는 태국 노동자들의 복지에 영향을 미칠 수 있다는 우려 때문입니다. 트리눗은 아부다비 주재 태국 왕립 대사관 노동 사무소와 텔아비브 주재 태국 왕립 대사관 노동 담당관에게 상황을 면밀히 주시하고 태국 노동자들에게 영향을 미치는 심각한 사건이 발생할 경우 태국 노동자들을 돌볼 준비를 하라고 지시했습니다. 노동 담당관은 이미 태국 노동자들에게 여행 시 경계를 강화하고 태국 노동자 그룹과 지속적으로 협력하도록 경고했습니다. 사건이 심각해져 대피가 필요한 경우 즉시 조치를 취할 수 있습니다. 트리눗은 또한 테헤란 주재 태국 왕립 대사관/아부다비 주재 노동 담당관 및 이란 당국의 뉴스를 면밀히 주시하도록 태국 노동자들에게 홍보했습니다. 이란 내 태국 노동자들이 도움이 필요한 경우 아부다비 주재 태국 왕립 대사관 노동 담당관(+971) 2557 6833 또는 테헤란 주재 태국 왕립 대사관 (+98) 912 500 7933 또는 (+98) 912 159 8699 또는 영사부 콜센터 (+66)으로 연락할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 긴장 고조로 인한 태국 노동자 안전에 대한 우려 증가. 여행 안전에 대한 잠재적 영향 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ตรีนุช” ยันรัฐบาลดูแลแรงงานไทยในอิสราเอล-UAE เต็มที่ สั่งทูตหากจำเป็นต้องอพยพให้รีบทำ",
@@ -2866,21 +2855,18 @@
       ],
       "collected_at": "21:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRLthQ9hzkbe.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917099",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 지역, 군부대 안전 강화 및 경계 태세 강화",
       "summary": "- 제2군 사령관, 태국-캄보디아 국경 지역 방문하여 군부대 안전 점검\n- 병력 안전을 최우선으로 강조하고, 경계 태세 강화 지시\n- 국경 지역 근무자들에게 생필품 전달하며 사기 진작",
       "full_translated": "제2군 사령관, 제2임무부대 관할 태국-캄보디아 국경 지역 방문. 병력 안전을 강조하고 경계 태세를 강화했습니다. 2069년 2월 28일, 위라윳 락신 제2군 사령관은 제2임무부대 관할 태국-캄보디아 국경 지역을 방문하여 안보 상황과 병력 준비 태세를 점검했습니다. 경계 태세가 유지되는 가운데 진행된 이번 방문에서 제2군 사령관은 모든 부대에 병력 안전을 최우선으로 하는 조치를 강화할 것을 지시했습니다. 또한, 전력, 정보, 작전 등 모든 분야에서 상황 변화에 대비할 것을 강조했습니다. 특히 국경 지역은 중요한 전략적 요충지입니다. 이와 더불어 국경 지역에서 임무를 수행하는 병사들에게 생필품을 전달하여 사기를 높였습니다. 이는 지휘관의 관심과 최전선 병력에 대한 세심한 배려를 반영합니다. 이번 방문은 태국-캄보디아 국경 지역의 안보를 책임지는 제2군의 준비 태세를 강조하고, 국가 주권과 질서 유지를 위한 지속적인 노력을 보여줍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국경 지역 안보 강화는 여행객 안전에 간접적인 영향을 미치지만, 직접적인 위협은 아니므로 중간 점수 부여. 현재 시각 저녁이므로 오늘 발생한 사건 위주로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "แม่ทัพภาคที่ 2 ตรวจชายแดนไทย-กัมพูชา กำชับความปลอดภัยกำลังพล รับมือสถานการณ์เฝ้าระวัง",
@@ -2891,21 +2877,18 @@
       ],
       "collected_at": "21:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYLdyZyA8WCD.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/2917104",
+      "source": ""
     },
     {
       "title": "태국 금은방, 이스라엘-미국의 이란 공격 후 잠잠…3월 2일 시장 개장 기대",
       "summary": "- 이스라엘과 미국의 이란 공격으로 금 가격 변동성이 커진 가운데, 방콕 야오와랏 지역 금은방들은 평소처럼 저녁 5시에 문을 닫음.\n- 대부분의 금은방은 소셜 미디어를 통해 금 매매 중단 여부를 공지하고 있으며, 3월 1일에 문을 열지 여부를 주시하고 있음.\n- 금 거래는 주로 주중에 활발하며, 3월 2일(월) 이스라엘 상황이 안정되지 않으면 금 매매에 신중을 기할 것으로 예상됨.",
       "full_translated": "2069년 2월 28일, 이스라엘과 미국의 이란 공격으로 금 가격 변동성이 커진 상황에서, 뉴스팀은 야오와랏 지역 금은방을 조사했습니다. 대부분의 금은방은 평소처럼 저녁 5시에 문을 닫기 시작했지만, 금 매매 중단을 알리는 표지판을 내걸지 않았습니다. 대부분 소셜 미디어를 통해 공지하는 것을 선호합니다.\n\n야오와랏 상인 완차이 자룬잉용 씨는 주말에는 금은방이 활발하지 않다고 말했습니다. 금 거래자들은 주중에 금을 사고팔기를 기다리는 경향이 있는데, 주말보다 가격 변동이 더 잦기 때문입니다. 3월 1일에는 어떤 금은방이 금을 사고팔 용기가 있을지 지켜봐야 합니다. 대부분은 문을 닫을 것이라고 발표했으며, 이스라엘 상황이 정상으로 돌아오지 않으면 3월 2일에 어떤 금은방이 금을 사고팔 용기가 있을지 지켜봐야 합니다. 금 거래자들은 주말보다 월요일 아침에 목표를 두는 경향이 있는데, 금 가격이 월요일 아침에 오르는 경향이 있기 때문입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객들이 금 거래에 직접적인 영향을 받을 가능성은 낮지만, 환율 변동과 연관될 수 있고, 야오와랏 방문 시 참고할 정보가 될 수 있음.",
-      "event_info": {
-        "date": "2069-03-02",
-        "location": "야오와랏",
-        "price": "변동",
-        "location_google_map_query": "Yaowarat Bangkok"
-      },
+      "event_info": "{'date': '2069-03-02', 'location': '야오와랏', 'price': '변동', 'location_google_map_query': 'Yaowarat Bangkok'}",
       "references": [
         {
           "title": "ร้านทองยังเงียบ หลังอิสราเอล-สหรัฐ โจมตีอิหร่าน ลุ้นเปิดตลาด 2 มี.ค. 69",
@@ -2916,6 +2899,108 @@
       ],
       "collected_at": "21:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSR0sedX7Qmop.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/2917091",
+      "source": ""
+    },
+    {
+      "title": "이스라엘, 미국과 함께 이란 공격 계획 수립",
+      "summary": "- 이스라엘군이 미국과 함께 이란 공격 계획을 수립했다고 발표했습니다.\n- 양국 군대는 이란 정부의 역량 약화 및 위협 제거를 목표로 협력하고 있습니다.\n- 이스라엘 공군은 이란 전역의 목표물을 정밀 타격하고 있으며, 작전은 필요에 따라 계속될 예정입니다.",
+      "full_translated": "이스라엘군이 미국과 함께 이란 공격 계획을 수립했다고 밝혔습니다. 이 계획은 이란 정부의 역량을 파괴하고 이스라엘의 생존에 대한 위협을 제거하는 것을 목표로 합니다. 2069년 2월 28일, 이스라엘 방위군(IDF)은 미국과 이스라엘이 합동 공격 작전을 시작하기 전에 수개월 동안 '긴밀하게 공동 계획'을 세웠다고 발표했습니다. 이러한 협력은 양국 군대가 '완전한 조화와 협력으로 광범위한 공격 작전을 수행'할 수 있게 했습니다. IDF는 이번 작전이 '이란 정부의 역량을 근본적으로 약화'시키고 '이스라엘의 생존에 대한 위협을 제거'하기 위한 것이라고 덧붙였습니다. 앞서 CNN은 이란의 유도 미사일과 미사일 발사대가 이스라엘의 최우선 목표 중 하나라고 보도했습니다. IDF는 '현재 이스라엘 공군 전투기가 정확한 정보에 따라 이란 전역의 목표물을 계속 공격하고 있다'고 강조하며 '작전은 필요에 따라 계속될 것'이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국과 직접적인 관련은 없으나, 중동 지역의 긴장 고조는 국제 유가 상승 및 항공 운항 등에 간접적인 영향을 미칠 수 있어 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิสราเอลเผย วางแผนโจมตีอิหร่านร่วมกับสหรัฐฯ มาหลายเดือนแล้ว",
+          "url": "https://www.thairath.co.th/news/foreign/2917098",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRD54dl0kaRO.jpg"
+        }
+      ],
+      "collected_at": "21:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRD54dl0kaRO.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 2026년 제44회 태국 관광 축제 개최",
+      "summary": "- 2026년 3월, 방콕 QSNCC에서 제44회 태국 관광 축제 개최 예정.\n- 다양한 지역 문화와 관광 상품을 선보일 예정.\n- 관광객 유치 및 태국 관광 산업 활성화 목표.",
+      "full_translated": "파타야 메일 - 2026년 3월 방콕 QSNCC에서 제44회 태국 관광 축제에 참여하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "2026년 축제 정보 제공. 여행 계획에 참고 가능.",
+      "event_info": {
+        "date": "2026-03-01",
+        "location": "QSNCC Bangkok",
+        "price": "미정",
+        "location_google_map_query": "QSNCC Bangkok"
+      },
+      "references": [
+        {
+          "title": "Join the 44th Thailand Tourism Festival 2026 at QSNCC Bangkok this March - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQmRRYU9Vcmx0TWs0Q050Z0MyZU1jSVVzemFncnliZzd5Tkg1MFlPRXNWd2Q3ZzBVWEJPeE0yNzNOS3FvSE04VzRiME1wd2xjczg5eXpNeXRMSWhrMXFxRnY5U0xGMHZ5am90ZXRjMWlUV3Y5bUhVQmsyN0g5QUpzQ0R4elJhY0V2dmdTd0lTekJhYzhzbjNENkxTZEFvS2JQSm5oV2Jnd1cwdXR0YlVlS0Y3TFJCd3VTY3ljRg?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 언론, 인권 보호 노력 인정 받아 '앰네스티' 언론상 수상",
+      "summary": "- '타이랏 TV'와 '타이랏 온라인'이 인권 보호를 위한 노력으로 앰네스티 언론상을 수상함.\n- '타이랏 TV'는 미얀마의 콜센터 사기 피해자들의 삶을 다룬 보도로 수상함.\n- '타이랏 온라인'은 콜센터 사기 피해 과정과 사법 시스템의 문제점을 지적한 보도로 수상함.",
+      "full_translated": "타이랏 TV와 타이랏 온라인이 앰네스티 인권 보호 언론상을 수상했습니다. 2069년 2월 28일, 베스트 웨스턴 호텔 짜뚜짝에서 앰네스티 태국 지부는 세계 인권 옹호 캠페인을 펼치는 민간 단체로서 언론의 역할을 기리기 위해 인권 언론상 시상식을 개최했습니다. 올해는 인쇄 매체, TV, 온라인 비디오 클립, 인권 사진 등 4개 부문에서 수상자를 선정했습니다. 타이랏 TV 뉴스 팀은 미얀마 묘와디 지역의 콜센터 사기 피해자들의 비극적인 삶을 다룬 TV 뉴스 보도로 상을 받았습니다. 타이랏 온라인은 콜센터 사기 피해 과정과 사법 시스템의 문제점을 다룬 클립으로 수상했습니다. 타이랏 그룹은 콜센터 사기 문제를 해결하기 위해 모든 측면에서 문제를 보도하고 있으며, 대중에게 경고하는 언론의 역할을 계속 수행할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "콜센터 사기는 여행객도 주의해야 할 사항이며, 언론의 수상은 사회 문제에 대한 인식을 높이는 데 기여함. 직접적인 여행 관련 정보는 아니지만, 안전 관련 문제이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ไทยรัฐทีวี - ไทยรัฐออนไลน์” คว้า 2 รางวัล “แอมเนสตี้” ตีแผ่ขบวนการค้ามนุษย์ แก๊งคอลเซ็นเตอร์",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2917106",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYDo4cirdpCB.jpg"
+        }
+      ],
+      "collected_at": "21:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYDo4cirdpCB.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "아누틴 총리, 치앙마이 사원 방문하여 행운 기원",
+      "summary": "- 아누틴 총리가 치앙마이의 왓 프라탓 도이수텝 사원을 방문하여 공덕을 쌓음.\n- 배우자와 함께 불상을 숭배하고 지역 승려를 만나 건강 상태를 확인.\n- 왓 프라싱 사원도 방문하여 치앙마이의 주요 사찰 순례.",
+      "full_translated": "아누틴 총리와 배우자는 치앙마이의 왓 프라탓 도이수텝 사원을 방문하여 행운을 기원했습니다. 총리는 또한 담마세나바디 승려를 만나 건강 상태를 확인했습니다. 이후 왓 프라싱 사원을 방문하여 테프 싱하라와라찬 승려를 만났습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 총리의 사찰 방문은 태국 문화와 종교에 대한 관심을 높일 수 있으며, 여행객들에게 치앙마이 사원 방문을 간접적으로 추천하는 효과가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이 왓 프라탓 도이수텝, 왓 프라싱",
+        "price": null,
+        "location_google_map_query": "왓 프라탓 도이수텝, 왓 프라싱 치앙마이"
+      },
+      "references": [
+        {
+          "title": "“อนุทิน-จ๋า” ไหว้พระธาตุดอยสุเทพ และพระพุทธสิหิงค์ เชียงใหม่  เพื่อความสิริมงคล",
+          "url": "https://www.thairath.co.th/news/politic/2917105",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYD9wt2gU87b.jpg"
+        }
+      ],
+      "collected_at": "21:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYD9wt2gU87b.jpg",
       "date": "2026-02-28"
     }
   ]
