@@ -2469,14 +2469,9 @@
       "summary": "- 미국과 이스라엘의 이란 공격에 국제 사회가 동요하고 있으며, 이란은 강력한 보복을 예고함.\n- 유럽연합은 상황을 '매우 위험한 상황'으로 규정하고 이스라엘 외무장관과 논의했으며, 민간인 보호와 국제법 준수를 강조함.\n- 말레이시아 총리는 이번 공격이 중동 위기를 재앙으로 몰아넣을 수 있다고 경고하며, 미국과 이란에 외교적 해결책을 촉구함.",
       "full_translated": "미국과 이스라엘의 이란 공격에 세계가 흔들리고 있습니다. 이란은 강력한 보복을 예고하고 있습니다. 최근 여러 국가 지도자들이 이 문제에 대한 입장을 표명하기 시작했습니다. CNN은 미국-이스라엘의 이란 공격 작전 개시 이후 의견을 표명한 여러 국가 지도자들의 입장을 종합했습니다. 이란은 이번 행위를 비난하며 보복을 예고하며 상황이 더욱 긴장되고 격화되고 있습니다. 유럽연합의 카야 칼라스 외교정책 책임자는 최근 상황이 매우 위험하다고 밝혔으며, 이스라엘 외무장관과 논의했다고 밝혔습니다. 그녀는 민간인 보호와 국제인도법 준수가 최우선 과제라고 강조했습니다. 스위스 외무부는 미국과 이스라엘의 공격에 대해 깊은 우려를 표명하며 모든 당사자에게 최대한의 자제력을 발휘하고 민간 기반 시설을 보호할 것을 촉구했습니다. 안와르 이브라힘 말레이시아 총리는 이번 공격이 중동 위기를 재앙으로 몰아넣을 수 있다고 경고하며 워싱턴과 테헤란에 긴장 고조 대신 외교적 해결책을 모색할 것을 촉구했습니다. 나타샤 피르크 무사르 슬로베니아 대통령은 상황을 심각하게 우려하며 지켜보고 있으며, 긴장 고조가 중동의 평화와 안정을 위협하고 있다고 경고했습니다. 우크라이나 외무부는 테헤란 정부가 상황 악화를 막을 기회가 있으며, 이란 국민의 안정, 자유 및 번영에 대한 지지를 확인했다고 밝혔습니다. 앤서니 앨바니지 호주 총리는 호주가 이란의 핵무기 보유를 막기 위한 미국의 노력을 지지한다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 긴장 고조는 잠재적으로 국제 유가 상승 및 테러 위협 증가로 이어질 수 있어 여행 안전에 간접적인 영향을 미칠 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รวมท่าทีผู้นำโลก หลังสหรัฐฯ–อิสราเอลโจมตีอิหร่าน",
@@ -2487,21 +2482,18 @@
       ],
       "collected_at": "19:27",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSeIloQT6WM6I.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917081",
+      "source": ""
     },
     {
       "title": "태국 금 거래소, 이스라엘-이란 공격 여파로 일시 영업 중단",
       "summary": "- 이스라엘과 이란의 충돌로 금 가격 변동성이 커짐.\n- 주요 금 거래소 (Hua Seng Heng, Mae Thong Suk, YLG) 일시적 영업 중단.\n- 2026년 3월 2일부터 영업 재개 예정.",
       "full_translated": "태국 내 3대 금 거래소인 'Hua Seng Heng', 'Mae Thong Suk', 'YLG'가 이스라엘-미국의 이란 공격 이후 금 판매를 일시적으로 중단한다고 발표했습니다. 중동 지역의 격화되는 상황으로 인해 이스라엘과 미국이 이란에 대한 공격을 시작했으며, 이는 금 가격의 높은 변동성을 초래했습니다. 가장 최근에 Hua Seng Heng은 2026년 2월 28일에 다음과 같은 메시지를 게시했습니다: '이스라엘과 이란 간의 갈등과 공격 개시로 인해 금 가격의 변동성이 커졌습니다. 주말 동안 해외 금 거래 시장이 문을 닫아 명확한 참조 가격이 없으므로 온라인 거래 시스템과 모든 종류의 금괴 서비스 제공을 일시적으로 중단합니다. 2026년 3월 2일 월요일에 다시 서비스를 재개할 예정입니다.' Mae Thong Suk 금 거래소 또한 '이스라엘과 이란 간의 갈등으로 인해 금 가격의 변동성이 커졌으며, 주말 동안 해외 금 시장이 폐쇄되어 명확한 참조 가격이 없으므로 2026년 2월 28일에 지점 채널을 통한 금괴 판매를 중단합니다. 금 매입, 위탁 판매 및 상환 서비스는 정상적으로 운영됩니다.'라고 밝혔습니다. YLG Group도 다음과 같이 발표했습니다: '지정학적 긴장으로 인해 세계 금 시장의 가격 변동성이 매우 큽니다. 토요일-일요일 (2026년 2월 28일-3월 1일) 동안 온라인 금 거래 시스템이 일시적으로 폐쇄됩니다. 시스템은 2026년 3월 2일 오전 10시부터 정상적으로 다시 운영됩니다. 추가 문의 사항은 02 687 9888로 전화 주십시오.' 한편, 오늘 저녁 (2026년 2월 28일) 금 가격은 마감 가격입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "금 가격 변동 및 거래소 운영 중단 정보는 환전 및 금 관련 상품 구매 계획이 있는 여행자에게 영향을 줄 수 있음.",
-      "event_info": {
-        "date": "2026-03-02",
-        "location": "방콕 내 주요 금 거래소",
-        "price": "변동",
-        "location_google_map_query": "방콕 금 거래소"
-      },
+      "event_info": "{'date': '2026-03-02', 'location': '방콕 내 주요 금 거래소', 'price': '변동', 'location_google_map_query': '방콕 금 거래소'}",
       "references": [
         {
           "title": "ราคาทองวันนี้ 3 ห้างทองไทย ปิดขายทองคำชั่วคราว หลังอิสราเอล-สหรัฐฯ โจมตีอิหร่าน",
@@ -2512,21 +2504,18 @@
       ],
       "collected_at": "19:27",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUYaBGHU9YTem.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/2917079",
+      "source": ""
     },
     {
       "title": "일본, 타이항공 300억 바트 수익에 기여…중국, 한국 등과 함께 회복세 반영",
       "summary": "- 일본이 타이항공의 수익 증가에 기여하며 한국, 중국, 싱가포르, 인도네시아, 말레이시아 등과 함께 회복세를 나타냄.\n- 타이항공의 수익 증가는 관광 산업의 회복과 확장을 반영함.\n- 300억 바트 이상의 수익을 기록하며, 아시아 국가들의 기여가 컸음.",
       "full_translated": "일본이 중국, 인도, 싱가포르, 인도네시아, 한국, 말레이시아 등과 함께 타이항공의 300억 바트 수익에 기여하며, 강력한 회복과 확장을 반영합니다. Travel And Tour World",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "타이항공의 수익 증가는 관광 산업 회복을 간접적으로 나타내지만, 여행객에게 직접적인 영향은 적음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Japan Joins China, India, Singapore, Indonesia, South Korea, Malaysia And More In Contributing To Thai Airways Over Thirty Billion Baht Profit, Reflecting Strong Recovery And Expansion - Travel And Tour World",
@@ -2537,21 +2526,18 @@
       ],
       "collected_at": "19:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNQWFVR2RwNzBqSHd4dWw0RHl3MWJmN3pWQUx2OVExeUVuRTVZSDd1azdGekwxV3NGZUNqZnpPbk1hcDNpTGNOZTJXTUdtQnVjRlF1dEg0QkdBN0l0eVlhVXo0YUVTTVVKanFvVGs4Nkt3MVItUXlKUmxjLWNvNGQ1ajJiY0JjYkhObG0yVlVxZU85QkJsT2xibUtLcGJ2SEJHbXBfaEd0ZTE4bGFvQ3VwUTkxMDlTWWdOVkNHU190cnNzX0RFR2dlcHpVWFY4Q0d2aFJKOVNYVzJGazB6MGxTb2NrS0wwaGM5T0ZCTUNNb0tfMTZDVUhfSy1Mbnh4UW1hY3VCbVNYaDVVaGxGZ2d3dWR5M1huaE1hZ0dLcDRKTVFfWHltVWRMUGV3OWJtazdNTHBZaXo0c0dVb29fTXpYX0p3ckt3LTZpOVBn?oc=5",
+      "source": ""
     },
     {
       "title": "태국 경제, 관광 및 수출 성장으로 바트화 안정에 집중 - 파타야 메일",
       "summary": "- 태국 경제가 관광과 수출 증가에 힘입어 성장세를 보이고 있습니다.\n- 바트화 안정에 초점을 맞추고 있으며, 경제 성장에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
       "full_translated": "태국 경제, 관광 및 수출 성장으로 바트화 안정에 집중 - 파타야 메일",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "환율 관련 정보는 여행자에게 유용할 수 있으나, 직접적인 영향은 크지 않다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Baht stability in focus as Thai economy gains from tourism and export growth - Pattaya Mail",
@@ -2562,21 +2548,18 @@
       ],
       "collected_at": "19:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDlGRGdXZG9lVVJPN1JvWElLSTZKODNUT3ZrTXo5NFZsc1ZCM0k3NzhPdEJMb0NKUUZLZ0FSYzNxRXo2Q3FyUnJhZkRjTzBuQS1mRFlWcm9vRlI3QmlFNk5ueDN2eUg1dHBNMkVVYUxBMTVkM1BnbXAzSVZXQXgtNFAwVlZjSkpKQ2tkcXZVWHc4b0N3SFlXdnE2YXlQbDY1bkNPd2Vmbk5BVGdycTMwc3hYdDJvR28?oc=5",
+      "source": ""
     },
     {
       "title": "태국 총리, 뉴질랜드 대사 만찬 관련 논란 해명: 태국 농산물 사용 강조",
       "summary": "- 아누틴 총리는 파윈 교수의 비판에 뉴질랜드 대사와의 만찬에서 태국 농산물을 사용했다고 해명\n- 총리는 뉴질랜드 대사가 태국 식재료를 사용해 요리한 것이라고 밝힘\n- 파윈 교수는 이에 감사를 표하며 논란 일단락",
       "full_translated": "아누틴 총리가 파윈 교수의 비판에 대해 해명했습니다. 그는 수파지 장관과 뉴질랜드 대사와의 만찬에서 태국 농산물을 사용했다고 밝혔습니다. 2069년 2월 28일, 아누틴 찬위라꾼 총리는 파윈 차차왈퐁판 교수가 자신과 수파지 수탐판 상무부 장관이 조나단 킹 뉴질랜드 대사와 함께 저녁 식사를 하는 사진을 공유한 것에 대해 해명했습니다. 그는 태국 농산물 가격이 하락하고, 함께 식사하는 사람이 상무부 장관임에도 불구하고 테이블에 쌀, 옥수수, 코코넛 워터가 없다는 파윈 교수의 비판에 대해 해명했습니다. 아누틴 총리는 뉴질랜드 대사관저에서 만찬이 열렸으며, 태국에 레스토랑을 오픈한 뉴질랜드 셰프가 태국 식재료를 사용해 요리했다고 밝혔습니다. 또한 찹쌀도 있었다고 덧붙였습니다. 이에 파윈 교수는 감사를 표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 논쟁에 대한 해명으로, 여행객에게 직접적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“อนุทิน” โต้ “ปวิน” ภาพพา “ศุภจี” ดินเนอร์กับทูตนิวซีแลนด์ ใช้วัตถุดิบไทย มีข้าวเหนียวด้วย",
@@ -2587,6 +2570,131 @@
       ],
       "collected_at": "19:27",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSeExUKd6tHfB.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917082",
+      "source": ""
+    },
+    {
+      "title": "이스라엘 내 대피소 없는 태국인, 방콕 주재 태국 대사관에 긴급 연락 요청",
+      "summary": "- 이스라엘 주재 태국 대사관은 대피소가 없는 태국인들에게 연락을 요청했습니다.\n- 연락처는 054-550-1141, 054-469-3476, 054-469-3477, 054-636-8150입니다.\n- 경보 발생 시 대처 요령도 함께 안내하고 있습니다.",
+      "full_translated": "이스라엘 주재 태국 대사관은 대피소가 없는 태국인들을 위해 긴급 연락을 요청했습니다. 대사관은 2069년 2월 28일, 이스라엘에 거주하는 태국인들에게 다음과 같은 메시지를 전달했습니다. ‘긴급! 이스라엘에 거주하는 태국인 여러분 중 거주지나 직장 근처에 대피소(MAMAD/SHELTER)가 없는 분은 다음 정보를 대사관에 알려주시기 바랍니다. 1. 이름 및 연락 가능한 전화번호 2. 주소 3. 고용주/회사명 및 연락 가능한 전화번호 4. 통역/취업 알선 회사명 및 연락 가능한 전화번호’ 연락처는 054-550-1141, 054-469-3476, 054-469-3477, 054-636-8150입니다.\n\n또한, 대사관은 경보 발생 시 일반적인 대처 요령도 안내했습니다. 건물(집, 사무실 등) 내에서는 즉시 방공호/강화된 방/안전한 실내 공간으로 이동하여 문(손잡이를 90° 돌려 잠금)과 창문(철제 및 알루미늄 창문)을 닫고, 로켓 및 파편으로부터 보호하기 위해 최소 10분 동안 실내에 머무르십시오. 건물 내 위치한 경우 가장 가까운 건물로 대피하고, 탁 트인 공간에 있는 경우 바닥에 엎드려 손으로 머리를 보호하십시오. 개인 차량 내에서는 즉시 차를 멈추고 엔진을 끈 후 차에서 내려 가장 가까운 건물로 대피하십시오. 건물이 없는 경우 차에서 멀리 떨어진 바닥에 엎드려 머리를 보호하십시오. 차에서 내릴 수 없는 경우 차를 멈추고 창문 아래로 몸을 숙인 후 10분 동안 기다리십시오. 대중교통 이용 시 시외버스/통학버스: 운전사는 차를 멈추고 문을 열고, 승객은 창문 아래로 몸을 숙여 머리를 보호하십시오. 시내버스: 운전사는 차를 멈추고 문을 열고, 승객은 건물 안으로 들어가거나 건물이 없는 경우 몸을 숙이십시오. 기차/기차역: 운전사는 속도를 30km/h로 줄입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "이스라엘-팔레스타인 분쟁으로 인한 여행객 안전에 대한 직접적인 위협 정보이므로 중요도가 높음. 대피 요령 및 연락처 정보 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คนไทยในอิสราเอลที่ไม่มีที่หลบภัย รีบแจ้งข้อมูลมายัง สถานทูตไทย กรุงเทลอาวีฟด่วน",
+          "url": "https://www.thairath.co.th/news/politic/2917092",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRmsGcEGcKHt.jpg"
+        }
+      ],
+      "collected_at": "20:11",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRmsGcEGcKHt.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야 해변에서 인도인 남성 2명, 자국 여성 3명에게 성매매 강요 혐의로 체포",
+      "summary": "- 파타야 경찰이 인도 국적 남성 2명을 성매매 강요 혐의로 체포했습니다.\n- 피해 여성들은 인스타그램 광고를 통해 유인되어 태국에 도착 후 여권을 압수당하고 성매매를 강요당했습니다.\n- 용의자들은 피해자들이 도망가지 못하도록 협박하고 사진을 유포하겠다고 협박했습니다.",
+      "full_translated": "파타야 경찰은 인도 국적 남성 2명을 자국 여성 3명에게 해변에서 성매매를 강요한 혐의로 체포했습니다.\n\n체포는 2026년 2월 27일, 파타야 시 경찰서장인 아넥 사라통유 대령과 수사 부서장인 아루스 사바논 중령이 이끄는 정보 제공 및 수사에 따라 이루어졌습니다. 용의자들은 25세의 아비지트 씨와 32세의 저스틴 씨로 밝혀졌으며, 모두 인도 국적자입니다. 그들은 파타야 사이 2 지역의 소이 18에 있는 아파트에서 체포되었습니다. 그들은 구금되어 추가 절차를 위해 수사관에게 넘겨졌습니다. 경찰에 따르면 피해자 3명은 탈출에 성공한 후 고소장을 제출했습니다. 여성들은 용의자들이 인스타그램을 통해 연락하여 높은 급여와 여행 경비 전액을 지원하는 파타야의 레스토랑에서 수익성이 좋은 일자리를 제안했다고 주장했습니다. 약속을 믿고 피해자들은 2026년 2월 9일에 태국에 도착하여 처음에는 무 10에 있는 호텔에 머물렀습니다. 도착하자마자 용의자들은 여권을 압수하고 외부 통신을 차단하고 방에 가두고 지불을 요구했다고 합니다. 그런 다음 여성들은 2026년 2월 9일부터 18일까지 매일 파타야 남쪽 해변에서 성 서비스를 제공하도록 강요받았습니다. 피해자들은 저항하면 폭력, 굶주림 및 협박으로 위협받았다고 보고했습니다. 용의자들은 레버리지로 사용하기 위해 부적절한 사진을 찍어 가족에게 보내거나 도망치려 하면 친척에게 해를 끼치겠다고 경고했습니다. 획기적인 발전은 한 피해자가 기회를 잡았을 때 이루어졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 미치므로 정보 제공 가치가 있습니다. 파타야 지역 여행객에게 주의를 요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "Pattaya Sai 2 area, Soi 18",
+        "price": null,
+        "location_google_map_query": "Pattaya Sai 2 Soi 18"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Bust Two Indian Men Arrested for Allegedly Forcing Three Fellow Nationals into Beachfront Prostitution",
+          "url": "https://thepattayanews.com/2026/02/28/pattaya-police-bust-two-indian-men-arrested-for-allegedly-forcing-three-fellow-nationals-into-beachfront-prostitution/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260228_1956085516294940014170377.jpg?v=1772283508"
+        }
+      ],
+      "collected_at": "20:11",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260228_1956085516294940014170377.jpg?v=1772283508",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야, 국제 관광 회복세…항공 및 호텔 급증",
+      "summary": "- 파타야가 전례 없는 국제 관광 회복세를 경험하고 있습니다.\n- 전 세계 여행객들이 몰려들어 공항과 호텔이 급증하고 있습니다.\n- 항공 산업의 갑작스러운 호황도 한몫하고 있습니다.",
+      "full_translated": "태국은 전례 없는 파타야 국제 관광 회복세를 경험하고 있습니다. 전 세계 여행객들이 몰려들어 공항과 호텔이 급증하고 있으며, 항공 산업의 갑작스러운 호황도 한몫하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야의 관광 회복은 여행객들에게 긍정적인 정보이며, 숙박 및 항공편 증가 정보는 여행 계획에 도움이 될 수 있습니다. 다만, 이미 관광 회복 관련 기사가 게시되었으므로 업데이트된 정보를 제공하는 데 중점을 두었습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand Experiences Unprecedented Pattaya International Tourism Recovery as Global Travelers Flood Airports and Hotels Surge Amid Sudden Aviation Boom – New Update - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeUJPWHRaSHlfOWdRbzc3bUJoSzVXU3dmREJZcUFPaHVnbXlhaWpaZE5Gb2h5WEpkR1hwS3BDRGtlLUh4Zk9aWXNvUmZ4Y2w3d3AyS1ZiN0tob2FINHp3NWxiRmp4Q3RzNWlBZjZ4enhRLW0wbzI3YmlJQThSeERqcFk2S2pEQm9kX3kweGptRWMxTEhkZE5Zd1VjNGdqSkVyOTdYNFh4dXVKX2lJUFRmUHNJcDRpLDFJZlViTXdTNk9nbWxweVFpaFBLNWlLZndmRkxYUzZLM1lsLTRGV0Z6dGllazlDWUNBSnl1UTNoNktHaHZZOV9lMjM3bFBaZDloVzdLM3ZjeGhoLVNENVA4aFQ5TzVPS2FqV0hFM1VlcWMtUW1QSVN4U1AtUHdKc0pGZU5FakpR?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "20:11",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "변호사 협회, 선거 감시단 표적 수사 '수치스럽다' 비판",
+      "summary": "- 태국 변호사 협회, 선거 감시단에 대한 선거 관리위원회의 형사 고발을 '수치스럽고' 불법적이라고 비판.\n- 선관위는 감시단 6명이 선거 관리 업무를 방해하고 국가 안보를 위협했다고 주장하며 경찰에 고발.\n- 변호사 협회는 증거 검토 결과, 감시단의 행위가 범죄 동기가 아닌 정치적 동기에서 비롯되었다고 판단.",
+      "full_translated": "태국 변호사 협회는 선거 관리위원회가 지난 주말 방콕에서 재실시된 투표를 감시한 6명에 대해 형사 고발을 한 것에 대해 “수치스럽고” 잠재적으로 불법적인 행위라고 규탄했습니다. 선관위는 경찰에 제출한 고발장에서 해당 6명이 선거 관리 업무를 방해하고, 국가 안보를 위협하며, 비밀 결사를 조직하고, 기밀 정보를 누설하고, 컴퓨터 범죄법을 위반했다고 비난했습니다. 혐의가 제기된 범죄는 2월 22일 칸나야오 지역 방콕 선거구 15번 투표소 9번에서 실시된 2월 8일 헌법 국민투표 재실시 기간 동안 발생했습니다. 이미 많은 다른 시민 사회 단체 등이 선관위의 대응을 비난하고 나섰습니다. 변호사 협회는 증거를 검토한 결과, 6명의 행위는 범죄 동기가 아닌 정치적 동기에서 비롯되었으며, 선거가 정직하고 공정하게 실시되도록 하기 위한 의도였다고 밝혔습니다. 따라서 그들의 행위는 범죄 의도가 결여되어 있으며, 제기된 범죄에 대한 법적 요건을 충족하지 못한다고 협회는 토요일 페이스북 페이지에 게시된 성명에서 밝혔습니다. 사진 촬영 및 비디오 녹화를 포함하여 선거 과정을 감시하고 관찰하는 것은 2017년 선거 관리위원회에 관한 유기법 66조에 따라 선거 관리 업무 방해에 해당하지 않습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 분쟁은 여행에 직접적인 영향을 미치지 않지만, 정치적 불안정 가능성을 내포하고 있어 정보를 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Lawyers decry ‘shameful’ targeting of poll watchers",
+          "url": "https://www.bangkokpost.com/thailand/politics/3207069/lawyers-decry-shameful-targeting-of-poll-watchers",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207069_700.jpg"
+        }
+      ],
+      "collected_at": "20:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207069_700.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "이란의 미사일 역량 분석: 능력, 사거리 및 군사 전략",
+      "summary": "- 이란은 중동에서 가장 큰 장거리 미사일 저장고를 보유하고 있으며, 사거리가 최대 2,000km에 달하는 미사일을 보유하고 있습니다.\n- 이 미사일은 이스라엘을 직접 공격할 수 있는 사거리에 있으며, 재래식 폭탄이나 핵 물질을 탑재할 수 있습니다.\n- 이란은 핵무기 개발 계획이 없다고 주장하지만, 서방 국가들은 이란의 미사일 개발이 지역 안정에 위협이 된다고 보고 있습니다.",
+      "full_translated": "이란과 미국-이스라엘 간의 상호 작용은 전 세계적으로 주목받고 있습니다. 세 나라 모두 강력한 군대를 보유하고 있기 때문입니다. 특히 이란은 미사일을 사용하여 강력한 대응을 보여주고 있습니다. 미국 정보에 따르면 이란은 중동에서 가장 큰 장거리 미사일 저장고를 보유하고 있으며, 사거리가 약 2,000km(약 1,240마일)에 달하는 미사일을 보유하고 있어 이스라엘을 직접 공격할 수 있습니다. 이 장거리 미사일은 발사 시 유도되며, 포물선 궤적을 따라 목표물로 떨어집니다. 재래식 폭탄은 물론 이론적으로 핵 물질도 탑재할 수 있어 서방 국가들은 이란을 지역 안정에 대한 위협으로 간주하고 있습니다. 그러나 이란은 핵무기 개발 계획이 없다고 계속 주장해 왔습니다. 이란의 주요 장거리 미사일 목록에는 세질(Sejil), 에마드(Emad), 가드르(Ghadr), 샤하브-3(Shahab-3), 코람샤르(Khorramshahr), 호베이제(Hoveyzeh) 등이 있습니다. 이 미사일의 사거리는 약 1,300~2,500km이며, 중동 대부분 지역을 커버합니다. 이란의 주요 전략적 요충지는 테헤란 내외에 위치하며, 전국에 여러 지하 미사일 기지가 있어 선제 공격을 받을 경우에도 무기 시스템의 생존 가능성을 높입니다. 이란은 과거 분쟁 상황, 특히 2025년 6월 이스라엘과의 12일 전쟁에서 실제 미사일을 사용한 바 있으며, 이로 인해 피해와 부상자가 발생했다는 보고가 있습니다. 동시에 이스라엘은 해당 기간 동안 이란의 미사일 발사대 다수를 파괴했다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없지만, 지정학적 긴장은 잠재적인 위험 요소가 될 수 있으므로 정보 제공 차원에서 포함. 다만, 현재 시점에서 여행에 미치는 영향은 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ส่องศักยภาพขีปนาวุธอิหร่าน: ขีดความสามารถ ระยะยิง และยุทธศาสตร์ทางทหาร",
+          "url": "https://www.thairath.co.th/news/foreign/2917088",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSdiZFqTqFhBF.jpg"
+        }
+      ],
+      "collected_at": "20:11",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSdiZFqTqFhBF.jpg",
       "date": "2026-02-28"
     }
   ]
