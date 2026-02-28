@@ -2272,14 +2272,9 @@
       "summary": "- 2월 28일 오후 4시 8분, 치앙라이 판 지역에서 규모 3.1의 지진 발생.\n- 진앙은 지하 1km 깊이이며, 여러 지역에서 진동이 감지됨.\n- 현재까지 피해 보고는 없음.",
       "full_translated": "2월 28일 오후 4시 8분, 치앙라이 판 지역에서 규모 3.1, 깊이 1km의 지진이 발생했습니다. 기상청 지진 감시 부서에 따르면, 지진은 트라이 카오, 탄 통, 산 클랑, 판 지역 및 동 마다, 매 라오 지역에서 감지되었습니다. 현재까지 피해 보고는 없습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 북부 여행객에게 지진 발생 사실을 알리고 안전에 유의하도록 안내. 피해는 없으나 추가 지진 가능성 대비.",
-      "event_info": {
-        "date": "2025-02-28",
-        "location": "치앙라이, 판 지역",
-        "price": null,
-        "location_google_map_query": "Chiang Rai, Phan"
-      },
+      "event_info": "{'date': '2025-02-28', 'location': '치앙라이, 판 지역', 'price': None, 'location_google_map_query': 'Chiang Rai, Phan'}",
       "references": [
         {
           "title": "แผ่นดินไหว ขนาด 3.1 ต.ทรายขาว อ.พาน จ.เชียงราย ประชาชนรับรู้ถึงแรงสั่นไหว",
@@ -2290,21 +2285,18 @@
       ],
       "collected_at": "18:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUX5sDaqBE5aX.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/north/2917073",
+      "source": ""
     },
     {
       "title": "법원, 130억 바트 규모의 사기 자산 압류 명령",
       "summary": "- 태국 법원이 사기 네트워크와 관련된 4건의 사건에서 130억 바트 이상의 자산 압류를 명령했습니다.\n- 이는 돈세탁방지기구(Amlo)의 청원에 따른 것입니다.\n- 압류 대상에는 캄보디아 사업가 Yim Leak, Benjamin Mauerberger, Chen Zhi 등의 자산이 포함됩니다.",
       "full_translated": "민사 법원은 금요일 사기 네트워크와 관련된 4건의 사건에서 130억 바트 이상의 자산 압류를 명령했습니다. 이번 명령은 2월 17일 돈세탁방지기구(Amlo)의 청원에 따른 것입니다. 가장 큰 압류는 캄보디아 사업가 Yim Leak, 사업가이자 로비스트인 Benjamin Mauerberger(Ben Smith), 그리고 3명의 태국 여성에게 속한 120억 바트 상당의 자산과 관련이 있습니다. 또 다른 몰수는 미국 제재를 받은 Prince Group의 설립자인 중국-캄보디아 거물 Chen Zhi의 자산 3억 4,500만 바트와 관련이 있으며, 그는 1월 초 캄보디아에서 중국으로 인도되어 기소되었습니다. 법원은 또한 다국적 범죄 조직 및 돈세탁에 가담한 혐의로 기소된 캄보디아 사업가 Kok An과 그의 동료의 자산 5억 6천만 바트, 그리고 Eua-angkun Santirakyothin과 그의 동료의 자산 4천 6백만 바트의 압류를 명령했습니다. Amlo는 차량이나 요트와 같이 보관에 적합하지 않은 자산을 처분할 수 있는 권한이 있습니다. 판매 수익금은 기관에서 보유하거나 피해자에게 보상하는 데 사용될 수 있습니다. 검사 Yaowaluck Nonthakaew는 자산 압류가 민사 소송과 관련이 있으며, 현재 중앙수사국에서 감독하는 형사 수사는 초국가적 범죄 혐의를 조사하고 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "사기 사건 관련 자산 압류는 여행객에게 직접적인 영향을 미치지 않지만, 태국의 치안 및 사법 시스템에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Court orders seizure of B13bn in scam assets",
@@ -2315,21 +2307,18 @@
       ],
       "collected_at": "18:12",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206758_260228174231_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3206758/court-orders-seizure-of-b13bn-in-scam-assets",
+      "source": ""
     },
     {
       "title": "프랑스, 코소보 비자 면제 혜택에 힘입어 관광객 급증...태국, 이탈리아, 터키, 이스라엘, 탄자니아, 에티오피아, 에콰도르 등과 함께",
       "summary": "- 코소보의 비자 면제 정책으로 인해 프랑스를 포함한 여러 국가에서 관광객 수가 증가하고 있습니다.\n- 태국 역시 코소보의 새로운 비자 정책의 수혜국 중 하나입니다.\n- 이 정책은 관광 산업 활성화에 기여할 것으로 예상됩니다.",
       "full_translated": "프랑스는 코소보의 81개국 비자 면제 여행 접근으로 관광이 급증함에 따라 이탈리아, 터키, 이스라엘, 태국, 탄자니아, 에티오피아, 에콰도르 등에 합류했습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "코소보 비자 정책 변화에 따른 태국 관광객 증가 가능성을 시사하지만, 직접적인 영향은 제한적입니다. 여행 트렌드 변화 정보로 분류.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "France Joins Italy, Turkey, Israel, Thailand, Tanzania, Ethiopia, Ecuador and More as Tourism Spikes with Kosovo’s New Visa Free Travel Access to Eighty One Countries - Travel And Tour World",
@@ -2340,21 +2329,18 @@
       ],
       "collected_at": "18:12",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNd0xOWklBMG9fb2Q2ZG5rQUp3V3E5d3dJLWF6WlAxQTY4czdoQjVwXzdHQVZCd0dROXdwNHRCendzdzA3TGxkZktDQXNsUnlQSWdiamhQWHVfRGhrRDRVUkVkVXhrLXRpWVFFRm1PM1JJX2F3eGFDSWpvX0o4eVBjR2NkWXl6d0N6MlA1YkJEaVFxdTBNaHl1OTl6QlFfRi1YbHJRdzhGUnJnci0wQV80Mm5EVTFTZkI1VHYwVXhudmpySE5UY2FuQVlMQ1lPSU5BSkFzWUVIVmpoUVQ2LTNldWhsVkRadFplY1c5TVNvSzBlVDZ2LTNabXJGZkd6bkxzalBJWFJ4bE1kdDdxa1N3cE5UVllFalhJaDVPQUJ1aDZYdHhFUEFYTDgyY2ZEcFdVTnc?oc=5",
+      "source": ""
     },
     {
       "title": "방콕 재선거 관련 논란 심화: 선거위원회, 투표 촬영 관련 6명 고발",
       "summary": "- 태국 선거위원회가 방콕 재선거에서 투표 촬영 및 바코드 해독 시도 혐의로 6명을 고발하여 논란이 일고 있습니다.\n- 선거위원회는 투표의 비밀성을 침해하고 유권자에게 위협을 가했다고 주장합니다.\n- 야당은 선거위원회의 이러한 조치가 과도하며 부당하다고 비판하고 있습니다.",
       "full_translated": "방콕 — 2026년 2월 28일 — 태국 선거위원회(EC)는 방콕 재선거 중 투표 용지 촬영 및 투표 용지 바코드 해독 시도 혐의로 6명을 형사 고발하여 거센 비판에 직면하고 있습니다. 이번 성명은 2026년 2월 22일 칸나야오 지역 투표소 9번에서 실시된 총선 재선거 중 발생한 사건과 관련하여 범죄 진압 부서에 고발장을 제출한 EC의 결정에 대한 비판에 따른 것입니다. 태국 언론은 EC의 고발장에 이름이 오른 6명은 다음과 같다고 보도합니다. EC는 범죄 진압 부서에 고발장을 제출한 사실을 확인했지만 전체 법률 문서는 공개하지 않았습니다. EC의 고발장에는 형법 및 관련 법률에 따른 일련의 심각한 형사 혐의가 포함됩니다. 위원회는 2017년 헌법에 따른 투표는 직접적이고 비밀리에 이루어져야 한다고 강조했으며, 개인이 투표한 방식을 식별하려는 시도는 선거 사기에 해당한다고 밝혔습니다. 또한 투표소 근처에 카메라를 설치하면 일부 유권자가 투표하는 것을 막을 수 있다고 주장했습니다. EC는 일반 시민이나 언론을 표적으로 삼고 있다는 주장을 부인하면서 100명 이상의 일반인과 언론인이 법적 조치 없이 투표를 참관했다고 밝혔습니다. 고발장은 공모하여 부정직한 의도를 가지고 행동했다고 믿는 개인에게만 적용된다고 밝혔습니다. 야당 인사들은 EC의 접근 방식에 대해 문제를 제기하면서",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식이지만, 여행객의 안전이나 이동에 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Backlash grows over EC legal action against six in ballot filming case",
@@ -2365,21 +2351,18 @@
       ],
       "collected_at": "18:12",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner2-10.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/politics/2026/02/28/backlash-grows-over-ec-legal-action-against-six-in-ballot-filming-case/",
+      "source": ""
     },
     {
       "title": "트럼프, 이란 국민에게 정부 전복 촉구 및 이란 보안군에게 무기 포기 협박",
       "summary": "- 도널드 트럼프 미국 대통령은 이란 국민에게 정부와 종교 체제를 전복할 것을 촉구하며 대대적인 변화를 요구했습니다.\n- 트럼프 대통령은 무기를 포기하는 이란 관리들에게 면책특권을 제안했습니다.\n- 그는 이란 보안군에게 무기를 포기하면 면책특권을 부여하지만, 그렇지 않으면 죽음을 맞이할 것이라고 경고했습니다.",
       "full_translated": "도널드 트럼프 미국 대통령은 이란 국민들에게 정부와 종교 체제를 전복시켜 대대적인 변화를 이끌어낼 것을 촉구하며 비디오 성명을 발표했습니다. 그는 미국이 상황을 정리한 후 이란 국민들이 정부를 전복해야 한다고 말하며, 이것이 여러 세대에 걸쳐 변화를 가져올 유일한 기회가 될 수 있다고 덧붙였습니다. 트럼프는 이란 보안군에게 무기를 내려놓으면 면책특권을 부여하겠다고 제안했지만, 거부할 경우 죽음에 직면하게 될 것이라고 경고했습니다. 앞서 1월 초, 트럼프는 이란 보안군이 전국적인 반정부 시위를 진압하는 동안 이란을 폭격하겠다고 위협한 바 있습니다. 인권 운동가들은 최소 6,480명이 사망했다고 밝혔습니다. 트럼프는 관련자들에게 대가를 치르게 할 것이며 시위대에 지원이 올 것이라고 경고했습니다. 그러나 며칠 후 트럼프는 이란 정부로부터 살인이 중단되었다는 보증을 받았다고 밝혔고, 이후 이란과 서방 국가 간의 분쟁의 핵심인 이란의 핵 프로그램에 집중했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "이란의 정치적 불안정은 여행에 간접적인 영향을 줄 수 있지만, 태국 여행객에게 직접적인 위협은 아니라고 판단했습니다. 현재 시점에서는 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ปลุกระดมชาวอิหร่านลุกฮือ โค่นล้มรัฐบาล ขู่กองกำลังความมั่นคงอิหร่านวางอาวุธ",
@@ -2390,6 +2373,106 @@
       ],
       "collected_at": "18:12",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUj8cqD4JkF9Z.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917068",
+      "source": ""
+    },
+    {
+      "title": "태국 민간항공국, 중동 영공 폐쇄에 따른 항공편 상태 확인 및 위험 지역 우회 권고",
+      "summary": "- 이스라엘-이란 분쟁으로 중동 지역 영공이 폐쇄되어 항공편 운항에 차질이 예상됩니다.\n- 태국 민간항공국(CAAT)은 항공편 이용객에게 항공편 상태를 확인하고 위험 지역을 우회하라고 권고했습니다.\n- 유럽, 중동 노선 이용객은 항공사 정보를 주의 깊게 확인하고 출발 전 운항 상태를 점검해야 합니다.",
+      "full_translated": "สำนักงานการบินพลเรือนแห่งปร -> 싸무낙 응안 깐빈 폴르언 행 쁘라",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 영공 폐쇄로 인한 항공편 운항 차질은 태국을 오가는 여행객에게 직접적인 영향을 미칠 수 있으므로 관련 정보 제공이 필요합니다. 특히 유럽이나 중동을 경유하는 여행객에게 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประกาศปิดน่านฟ้าตะวันออกกลาง CAAT เตือนผู้โดยสารเช็กสถานะเที่ยวบินยกเลิก เลี่ยงพื้นที่เสี่ยง",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2917078",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUYijyOSP3EhC.jpg"
+        }
+      ],
+      "collected_at": "18:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUYijyOSP3EhC.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "촌부리에서 발생한 영국인 대상 200만 바트 강도 사건, '계획적' 범행",
+      "summary": "- 경찰은 용의자들이 피해자 집에 현금이 있다는 것을 알고 있었으며, 3대의 도주 차량을 준비했다고 밝혔습니다.\n- 영국인 셰프와 태국인 아내의 집에 침입하여 200만 바트를 훔쳐 달아난 사건으로, 용의자들은 피해자들이 집 구매를 위해 돈을 인출한 사실을 알고 있었습니다.\n- 경찰은 외국인 용의자를 의심하며, 감시 카메라 분석을 통해 이들이 3대의 차량을 이용하여 추적을 혼란스럽게 하려 한 사실을 확인했습니다.",
+      "full_translated": "촌부리 - 경찰은 방 라뭉 지역에서 영국인 셰프와 그의 태국인 아내의 집에서 발생한 2백만 바트 강도 사건이 세심하게 계획되었으며, 3대의 도주 차량이 동원되었다고 밝혔습니다. 용의자 3명이 구금되어 조사를 받고 있습니다.\n\n수사관들은 강도들이 피해자들이 집을 사기 위해 2백만 바트를 인출했다는 사실을 알고 의도적으로 부부를 표적으로 삼았다고 믿고 있다고 농 프루 경찰서장인 Natthaphon Phongsuksakul 경찰 대령이 토요일에 말했습니다.\n\n강도 사건은 목요일 밤 늦게 농 프루 구역의 초크차이 빌리지 9 주택 단지에 있는 2층 타운하우스에서 발생했습니다. 이 타운하우스는 32세의 영국 국적의 셰프로 일하는 Wesleigh Cyril Russell과 그의 아내 Chandee(34세) 소유입니다. 복면을 쓴 남자 3명이 건물에 침입했을 때 두 사람은 영국인 친구와 함께 집에 있었습니다.\n\n러셀 씨는 용의자가 칼을 그의 목에 대고 돈이 어디에 있는지 묻는 위협을 받았습니다. 용의자들은 부부의 스마트폰과 2백만 바트가 들어 있는 금고를 가지고 도주했습니다. 경찰은 강도들이 외국인일 것으로 의심하고 있습니다. 감시 비디오에 따르면 이들은 추적자를 혼란스럽게 하기 위해 3대의 차량을 사용했다고 Natthaphon 경찰 대령은 말했습니다. 첫 번째는 부부의 집으로 운전해 간 검은색 포드 픽업 트럭이었습니다. 도주 후 그들은 농 크라복 소이 근처에서 훔친 휴대폰을 버리고 수쿰윗 로드 방향으로 계속 이동했습니다. 그들은 나중에 왓 분 칸차나 근처에서 멈췄습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전에 대한 잠재적 위협 (강도 사건) 이므로 알리는 것이 중요. 특히 외국인 대상 범죄이므로 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리 방 라뭉",
+        "price": null,
+        "location_google_map_query": "Bang Lamung, Chonburi"
+      },
+      "references": [
+        {
+          "title": "B2m robbery of Briton in Chon Buri ‘well planned’",
+          "url": "https://www.bangkokpost.com/thailand/general/3207084/b2m-robbery-of-briton-in-chon-buri-well-planned",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207084_260228173823_700.jpg"
+        }
+      ],
+      "collected_at": "18:39",
+      "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207084_260228173823_700.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "한국, 일본, 말레이시아, 태국과 함께 2026년 관광 활성화를 위한 새로운 비자 정책 및 공항 성장 추진",
+      "summary": "- 한국이 일본, 말레이시아, 태국과 함께 2026년 관광 산업 활성화를 위한 정책을 추진합니다.\n- 새로운 비자 정책, 지역 공항 성장, 디지털 노마드 유치 등이 주요 내용입니다.\n- 아시아 관광 시장 경쟁 심화가 예상됩니다.",
+      "full_translated": "대한민국은 일본, 말레이시아, 태국과 함께 새로운 비자, 지역 공항 성장 및 디지털 유목민을 통해 2026년 관광을 활성화하기 위한 대담한 조치를 취하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "한국인의 태국 여행에 직간접적인 영향을 줄 수 있는 비자 정책 및 관광 산업 관련 뉴스이므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Japan, Malaysia, and Thailand in Taking Bold Steps to Boost 2026 Tourism with New Visas, Regional Airport Growth, and Digital Nomads - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYjlEQ0RLdXRXYnU3R0FaY3hEdGY1b2dVZGJraS1PanlPSldKaDRLY3N1emtjWkJDZWg2RENndS1hdVFDR1hkb0VjZDZ6TXJPSWcxWFNQN0QzbkRnbFJtbk5xVEhseVRjSEpLQVpFZ2duZjQ4Mk1GdTZfTUY4MGx5ODZCY0tzVmdoZTB2Ylhma29ZeGVhQkxYNUZub0VzaWtaek5CUEx5SkFYalFjc0JVZkI0VlpmQUpyUzZaSjRsaWtpSFg3eGZES3pMQkFYNHNON25JWWM2dnoza1RkMXhEM2ltVWI1bVkxMUhMZjJ4RWl0MWlUd3RuZ1Z1ZGZRVmxZLXoxVGMwNnYxd1RNdHdIZG1xNEdRMjZYakh6UGJEdVM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:39",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "인도 관광, 방글라데시 방문객 감소 및 태국, 말레이시아, UAE 등 저렴한 여행지로 인도 관광객 몰려 어려움 직면",
+      "summary": "- 인도 관광 산업이 어려움을 겪고 있으며, 방글라데시 방문객 감소가 주요 원인으로 분석됨.\n- 인도 관광객들은 태국, 말레이시아, UAE와 같은 예산 친화적인 여행지로 몰리고 있음.\n- 새로운 여행 환경에 대한 정보와 분석이 제공됨.",
+      "full_translated": "인도 관광 산업이 방글라데시 방문객 감소로 인해 어려움을 겪고 있으며, 인도 관광객들이 태국, 말레이시아, UAE와 같은 저렴한 여행지로 몰리는 현상이 나타나고 있습니다. 새로운 여행 환경에 대한 정보가 제공됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "인도 관광객의 여행 트렌드 변화는 태국 관광 산업에 간접적인 영향을 미칠 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "India’s Tourism Faces Strain as Bangladesh Visitors Decline and Indian Tourists Flock to Budget-Friendly Locations Like Thailand, Malaysia, and the UAE—Here’s Everything You Need to Know About the New Travel Landscape - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNNXd2enV0MC1ObUN6a29xUWFweHZtQlk4eFY2cnlzTDNqeFROLTFDaC16UnFyQ0UwaGxMY242TGg3Z3h0YXNhRWFoVXVCbjh1M1p5ajJxc05KeGptdk5fbUc5MlB2azJaUmFGQ0hNTzFLS3dTaHdfX21UTUJXZFBfOG5zOEEwbkJaaEZiS2dHOHROUTUySzdJV0pXdGg1a2R3RXdkNXNsNjM2MWxwV292MUtpYnc1T1hVTU1LOHdVdEVkMkM0ZzBaRUxmZTFUaXNwRUVaVVRuc0xiYkNoSG96QUlfUEhTVEQyeFM0NGZVTnM3MDM2c3BtVU83R3pBNUhTMGJUTFg3eWdyaVZGSnVEWW5ic1BkWThTV21ObVZFMkROY2JDZ21VUkhQMTU4RzY4SG1fZG4wcWRIaDVFdlZjOWVJT0ZKZ3h4b0xIRw?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "18:39",
       "date": "2026-02-28"
     }
   ]
