@@ -2996,14 +2996,9 @@
       "summary": "- 태국 외무부는 중동 지역 긴장 고조에 따라 워룸을 설치하고 상황을 주시하고 있습니다.\n- 이란과 이스라엘에 거주하는 태국인들에게 해당 지역에서 즉시 대피할 것을 권고했습니다.\n- 태국인들을 위한 긴급 연락망을 구축하여 필요한 지원을 제공할 예정입니다.",
       "full_translated": "태국 외무부 장관은 중동 상황을 주시하기 위해 워룸을 설치하고, 이란과 이스라엘에 거주하는 태국인들에게 해당 지역에서 대피할 것을 명령했습니다. 2069년 2월 28일, 태국 외무부 페이스북 페이지는 현재 중동 지역의 긴장된 상황과 갈등이 격화되어 해당 지역에 거주하는 태국인들의 안전에 영향을 미칠 수 있다는 점을 고려하여 다음과 같은 조치를 취했다고 밝혔습니다.\n\n1. 외무부는 해당 지역의 모든 태국 대사관과 지속적으로 연락하여 상황을 평가하고 해당 지역의 태국인들에게 최신 정보를 제공하고 있습니다. 특히, 테헤란 주재 태국 대사관과 텔아비브 주재 태국 대사관은 상황 초기부터 경고를 발령하고 태국인들에게 조언을 제공했으며, 태국인들을 위한 긴급 연락망을 구축했습니다.\n\n2. 오늘, 외무부는 해당 지역에 거주하는 태국인들에게, 특히 이란과 이스라엘에서 긴장된 상황으로 인해 영향을 받을 위험이 있는 지역에 거주하는 태국인들에게 해당 지역에서 즉시 대피할 것을 권고하는 경고를 발표했습니다. 또한 불필요한 여행은 재고할 것을 요청했습니다.\n\n3. 외무부는 상황을 면밀히 모니터링하고 평가하기 위해 워룸을 설치하여 관련 기관 및 해당 지역의 태국 대사관과 긴밀히 협력하고 있습니다. 해당 지역의 모든 태국 대사관은 해당 지역의 태국인들에게 필요한 지원을 제공하고 있으며 필요한 경우 대피 계획을 준비하고 있습니다. 또한 영사부에서 24시간 센터를 설립했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 지역의 긴장 고조는 항공편 취소, 여행 제한 등 태국 여행객들에게 잠재적인 영향을 미칠 수 있으므로 관련 정보를 제공하는 것이 중요합니다. 특히 이란/이스라엘 여행객의 안전에 직접적인 영향을 미칩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กต. ตั้ง War Room ติดตามเหตุการณ์ในตะวันออกกลาง สั่งอพยพคนไทยออกจากอิสราเอล-อิหร่าน",
@@ -3014,21 +3009,18 @@
       ],
       "collected_at": "22:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyy8xRYjhIotJ.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917110",
+      "source": ""
     },
     {
       "title": "영국, 프랑스, 독일, 이란의 중동 공격 규탄 성명 발표",
       "summary": "- 영국, 프랑스, 독일 정상이 이란의 중동 국가 공격을 공동으로 규탄하는 성명을 발표했습니다.\n- 이들은 이란이 미국과 이스라엘의 공격에 대한 보복으로 주변국을 공격한 것을 비판하며 대화로 문제 해결을 촉구했습니다.\n- 또한 이란에게 핵 및 미사일 개발 프로그램을 중단하고, 역내 불안정을 야기하는 행위를 중단할 것을 요구했습니다.",
       "full_translated": "영국, 프랑스, 독일 정상이 이란이 중동 국가들을 공격한 것을 규탄하는 공동 성명을 발표했습니다. 이는 미국과 이스라엘의 공격에 대한 이란의 보복으로, 이들 국가는 이란에게 대화를 통해 해결책을 모색할 것을 촉구했습니다.\n\n서 케어 스타머 영국 총리는 에마뉘엘 마크롱 프랑스 대통령, 프리드리히 메르츠 독일 총리와 공동 성명을 발표하여 이란이 미국과 이스라엘의 공격에 대응하여 중동의 여러 이웃 국가에 미사일을 발사한 것을 규탄했습니다.\n\n성명은 “프랑스, 독일, 영국은 이란 정부에 핵 프로그램과 유도 미사일 프로그램을 중단하고, 지역 및 자국 영토에서 불안정을 야기하는 활동을 삼가며, 자국민에 대한 끔찍한 폭력과 억압을 중단할 것을 지속적으로 요구해왔습니다.”라고 밝혔습니다.\n\n“우리는 이러한 공격에 관여하지 않았지만, 미국, 이스라엘 및 지역 내 동맹국을 포함한 국제 파트너와 긴밀히 연락을 유지해왔습니다. 우리는 지역의 안정과 시민의 생명 보호에 대한 약속을 재확인합니다.”\n\n“우리는 이란의 지역 내 국가들에 대한 공격을 가장 강력한 용어로 규탄합니다. 이란은 무분별한 군사 공격을 삼가야 합니다. 우리는 이란 지도자들이 대화를 통해 해결책을 모색할 것을 촉구하며, 궁극적으로 이란 국민은 자신의 미래를 결정할 수 있어야 합니다.”\n\n출처: bbc\n해외 뉴스 팔로우: https://www.thairath.co.th/news/foreign",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국과 직접적인 관련은 없지만, 중동 지역의 불안정은 국제 유가 상승 등으로 이어져 간접적으로 여행 비용에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "UK-ฝรั่งเศส-เยอรมนี แถลงประณามอิหร่าน โจมตีประเทศในตะวันออกกลาง",
@@ -3039,21 +3031,18 @@
       ],
       "collected_at": "22:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyX7wlQrvnlr3.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917107",
+      "source": ""
     },
     {
       "title": "이수즈, V-CROSS 및 MU-X에 2.2 Ddi MAXFORCE 엔진 라인업 확장",
       "summary": "- 이수즈가 V-CROSS 4x4와 MU-X 4WD 모델에 2.2 Ddi MAXFORCE 엔진을 추가했습니다.\n- 2.2 Ddi MAXFORCE 엔진은 8단 자동 변속기와 결합되어 강력한 성능과 연비 효율성을 제공합니다.\n- 새로운 이수즈 모델은 1,066,000 바트부터 시작하며, 다양한 라이프스타일에 적합한 디자인과 기능을 갖추고 있습니다.",
       "full_translated": "이수즈가 모험을 즐기는 사람들을 위해 2.2 Ddi MAXFORCE 엔진을 New! ISUZU V-CROSS 4x4 및 MU-X THE NEXT PEAK 4WD 모델에 추가했습니다. 트리펫 이수즈 세일즈 Co., Ltd.의 사장인 타카시 하타 씨는 2027년에 2.2 Ddi MAXFORCE 엔진을 출시한 이후 꾸준한 인기를 얻고 있다고 밝혔습니다. 최근에는 ISUZU V-CROSS 4x4 픽업 트럭과 MU-X 4륜 구동 다목적 차량에 4x4 모델용 2.2 Ddi MAXFORCE 엔진을 추가했습니다. 이는 이수즈 4륜 구동 제품군의 강점을 강화하고, 고성능과 다양한 상황에서 사용할 수 있는 차량을 찾는 소비자들의 요구를 충족시키기 위함입니다. 또한 이수즈 고유의 연비 효율성을 유지합니다. 2.2 Ddi MAXFORCE 엔진과 8단 자동 변속기는 동력, 가속력 및 연비의 균형을 이루도록 개발되어 상업 및 모험을 즐기는 라이프스타일 그룹 모두에게 새로운 선택지를 제공하고 태국 4륜 구동차 시장에서 이수즈의 경쟁력을 강화합니다. ... - 2.2 Ddi MAXFORCE 4도어 엔진의 가격은 1,066,000 바트부터 시작합니다. - 최신 세대 디젤 엔진은 8단 REV TRONIC 자동 변속기를 통해 빠른 응답성과 지속적인 동력을 제공하여 재미있고 민첩한 운전 경험과 연비 효율성을 제공합니다. 50년 이상의 이수즈 내구성 DNA를 기반으로 중작업과 모험 라이프스타일을 모두 지원합니다. - V-CROSS 특유의 대담한 디자인, 다층 그릴, LED 헤드라이트 및 테일라이트, 18인치 알로이 휠 및 새로운 Inishmore Gray Opaque 색상. - 검은색 COOLMAX 시트, 무선 Apple CarPlay 및 Android Auto를 지원하는 인포테인먼트 스크린, Dynamic 스피커를 갖춘 FIRST CLASS 수준의 편안한 객실.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "새로운 차량 모델 출시 정보로, 여행객에게 직접적인 영향은 적지만 차량 렌트 및 이동 관련 정보를 제공할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": "1,066,000 바트부터",
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': '1,066,000 바트부터', 'location_google_map_query': None}",
       "references": [
         {
           "title": "ISUZU ขยายไลน์อัพเครื่องยนต์ 2.2 Ddi MAXFORCE ใน V-CROSS และ MU-X",
@@ -3064,21 +3053,18 @@
       ],
       "collected_at": "22:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUXp56QysJlmr.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/auto/news/2917076",
+      "source": ""
     },
     {
       "title": "스리라차 학생들, 스카우트 프로그램의 일환으로 신체 능력 시험",
       "summary": "- 스리라차 시립 건강 공원에서 스카우트 프로그램 진행\n- 학생들은 해양 및 연안 생태계에 대한 교육을 받음\n- 1학년부터 3학년까지의 400명의 보이 스카우트가 17개의 신체 훈련 스테이션에 참여",
       "full_translated": "촌부리 지방 스리라차 지역의 아름다운 전망, 운동 공간 및 레크리에이션 시설이 있는 바다 근처의 인기 있는 공원인 스리라차 시립 건강 공원(수안 수카팝 코 로이 또는 코 로이 건강 공원이라고도 함)에서 행사가 열렸습니다. 이 행사는 교실 밖에서 경험적인 학습 기회를 제공했습니다. 교사와 학생 교사가 이끄는 젊은 스카우트들은 반 스리마하라차 시립 학교에서 공원까지 행진했습니다. 도착 후 교육자들은 건강 공원의 역사와 중요성에 대한 수업을 제공하여 어린이들에게 스리라차의 라이프스타일, 역사 및 지역 사회에 대한 실제적인 통찰력을 제공했습니다. 이 세션에는 해양 및 연안 생태계에 대한 설명이 포함되어 학생들이 수생 환경의 식물, 동물 및 미생물을 접하고 도시 생활 및 전통적인 어업 관행을 포함한 지역 생활 방식을 직접 관찰하여 이해를 풍부하게 했습니다. 교육 강연 후 1학년부터 3학년까지의 400명의 보이 스카우트가 조정력, 힘, 팀워크 및 규율을 구축하도록 설계된 17개의 신체 기술 훈련 스테이션에 참여했습니다. 스테이션에는 다음이 포함되었습니다. 1. 신호 보내기 2. 파트너 코만도 크롤링 3. 물 수송 4. 사다리 오르기 5. 통 건너기 6. 항아리 담그기 7. 계란 운반 8. 만리장성 오르기 9. 세 로프 다리 10. 로프 걷기 11. 타잔 스윙 12. 스파이더 웹 13. 자이언트 리프(또는 유사한 장애물) 14. 골프 치기 15. 육지 스키 16. 눈가리고 로프",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행에 직접적인 영향은 없으나, 지역 문화 체험 활동 정보 제공",
-      "event_info": {
-        "date": null,
-        "location": "스리라차 시립 건강 공원 (Suan Sukhaphap Ko Loi)",
-        "price": null,
-        "location_google_map_query": "스리라차 시립 건강 공원"
-      },
+      "event_info": "{'date': None, 'location': '스리라차 시립 건강 공원 (Suan Sukhaphap Ko Loi)', 'price': None, 'location_google_map_query': '스리라차 시립 건강 공원'}",
       "references": [
         {
           "title": "Sri Racha Students Come Together to Test Physical Skills as Part of Scout Program",
@@ -3089,21 +3075,18 @@
       ],
       "collected_at": "22:14",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/17722896525226486532853572496839.jpg?v=1772289760",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://thepattayanews.com/2026/02/28/sri-racha-students-come-together-to-test-physical-skills-as-part-of-scout-program/",
+      "source": ""
     },
     {
       "title": "조안 미르, 혼다 RC213V로 MotoGP 2026 스프린트 레이스에서 7위 차지",
       "summary": "- 조안 미르, 혼다 RC213V를 타고 MotoGP 2026 시즌 첫 스프린트 레이스에서 7위를 기록했습니다.\n- 아지 선수와 프라타마 선수는 Moto2-Moto3 예선에서 우수한 성적을 거두었습니다.\n- 혼다 팀은 MotoGP 2026 시즌 개막전에서 인상적인 활약을 펼쳤습니다.",
       "full_translated": "조안 미르가 혼다 RC213V를 타고 MotoGP 2026 스프린트 레이스에서 7위를 차지했습니다. 아지와 프라타마는 Moto2-Moto3 예선에서 훌륭한 결과를 얻었습니다. 2026년 2월 28일, PT 그랑프리 오브 타일랜드에서 열린 MotoGP 2026 첫 경기에서 순위 결정을 위한 예선과 스프린트 레이스가 진행되었습니다. 혼다 팀은 새로운 시즌을 인상적으로 시작했습니다. 혼다 HRC 카스트롤의 36번 혼다 RC213V를 탄 스페인 선수 조안 미르는 10번째 그리드에서 출발하여 치열한 추월 끝에 19분 44.079초로 7위를 차지하여 우승자와 4.924초 차이로 첫 레이스에서 포인트를 획득했습니다. 루카 마리니는 14번째 그리드에서 출발해야 했지만 좋은 출발로 중간 그룹에서 경쟁하며 7.796초 차이로 10위로 결승선을 통과했습니다. 베테랑 프랑스 선수 요한 자르코는 카스트롤 혼다 LCR의 5번으로 8.577초 차이로 12위, 신인 디오고 모레이라는 프로 혼다 LCR의 11번으로 11.970초 차이로 13위를 기록했습니다. Moto2에서는 이데미츠 혼다 팀 아시아의 인도네시아 선수 마리오 아지가 64번으로 1분 34.835초를 기록하며 9위를 차지했습니다. 그의 팀 동료인 일본 선수 후루사토 타이야는 72번으로 22번째 그리드에서 출발합니다. Moto3 예선 결과는 다음과 같습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국에서 열리는 모터스포츠 경기 결과. 여행 자체에는 큰 영향이 없으나, 스포츠 팬들에게는 흥미로운 정보.",
-      "event_info": {
-        "date": "2026-02-28",
-        "location": "PT 그랑프리 오브 타일랜드",
-        "price": null,
-        "location_google_map_query": "PT Grand Prix of Thailand"
-      },
+      "event_info": "{'date': '2026-02-28', 'location': 'PT 그랑프리 오브 타일랜드', 'price': None, 'location_google_map_query': 'PT Grand Prix of Thailand'}",
       "references": [
         {
           "title": "โจอัน เมียร์ พารถคู่ใจ Honda RC213V คว้าท็อป 7 สปรินต์เรซ เปิดหัว MotoGP 2026",
@@ -3114,6 +3097,133 @@
       ],
       "collected_at": "22:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyXHK1KSuoBrt.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/auto/news/2917109",
+      "source": ""
+    },
+    {
+      "title": "푸껫 공항, 이스라엘-이란 분쟁으로 인해 11편의 항공편에 영향",
+      "summary": "- 중동 지역 긴장으로 푸껫 공항 출발/도착 11편 항공편 운항 차질 발생\n- 에티하드 항공, 푸껫-아부다비 노선 회항. 20시 30분에 푸껫 공항에 착륙.\n- 공항 측, 중동 노선 이용객에게 항공편 변동 가능성을 알리고 항공사에 직접 확인 권고",
+      "full_translated": "푸껫 정보 센터 업데이트에 따르면 중동 지역 긴장으로 인해 11편의 항공편이 영향을 받았습니다. 에티하드 항공의 아부다비행 항공편은 현재 중동 상황의 긴장으로 인해 푸껫 공항으로 되돌아왔습니다. 이스라엘과 미국 군대가 이란을 공격한 후 이란은 미사일을 사용하여 강력하게 대응했습니다. 갈등이 확대될 가능성이 있습니다. 2월 28일 19시 3분, 푸껫 국제공항은 중동 노선 승객에게 일부 항공편이 변경되거나 취소될 수 있음을 알렸습니다. 영향을 받았거나 중동 지역에서 환승하는 승객은 항공사에 직접 항공편 상태를 확인하고 항공사의 발표를 면밀히 주시하며 공항에 도착할 시간을 충분히 확보해야 합니다. 자세한 내용은 국제선 터미널 3층 안내 데스크(0-7635-2302)로 문의하십시오. 21시 5분, 푸껫 정보 센터는 중동 지역 불안으로 인해 푸껫 공항에서 11편의 항공편이 영향을 받았다고 보고했습니다. 이 중 9편은 출발, 2편은 도착입니다. 에티하드 항공의 푸껫-아부다비 노선은 중동 상황이 긴장된 후 푸껫으로 회항하기로 결정했으며, 20시 30분에 푸껫 공항에 착륙했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "최근 이스라엘-이란 분쟁으로 인해 푸껫 공항의 항공편 운항에 차질이 발생했다는 소식은 여행객의 이동에 직접적인 영향을 미칠 수 있으므로 높은 점수를 부여함. 특히 밤 시간대이므로 내일 아침 이동에 차질이 예상됨.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 국제공항",
+        "price": null,
+        "location_google_map_query": "Phuket International Airport"
+      },
+      "references": [
+        {
+          "title": "สนามบินภูเก็ต ได้รับผลกระทบแล้ว 11 เที่ยวบิน จากเหตุสู้รบอิสราเอล-อิหร่าน",
+          "url": "https://www.thairath.co.th/news/society/2917114",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyynhi4GAiOcr.jpg"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyynhi4GAiOcr.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야, 'SPLASHMOON FEST 2026' 4월 17-18일 개최…글로벌 축제 도약 목표",
+      "summary": "- 파타야에서 2026년 4월 17일부터 18일까지 'SPLASHMOON FEST 2026'이 개최될 예정입니다.\n- 이 축제는 글로벌 축제로 발돋움하는 것을 목표로 하고 있습니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
+      "full_translated": "파타야가 뜨거워진다! ‘SPLASHMOON FEST 2026’이 4월 17~18일에 개최되어 글로벌 축제 스포트라이트를 목표로 합니다. 파타야 메일",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "2026년에 개최되는 축제 정보로, 여행객들에게 미리 정보를 제공하여 여행 계획에 도움을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": "2026-04-17",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야 SPLASHMOON FEST 2026"
+      },
+      "references": [
+        {
+          "title": "Pattaya heats up! ‘SPLASHMOON FEST 2026’ set for April 17–18, aiming for global festival spotlight - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0lieUVXWDBsa0RaY2dFMHhDNGtXMkZ5M2J2d3MwSnlWcEJsRkRzOXZvOGlzQ0dqN0N3eVZzRXdITDFua1VoTXpUZGpBaXdPckZMcDNrQ1k3cmxHOUlsRGZEd1lHY2locGx1WEY0a3BDNy1TTG12d2dOWDVDRGZWY0hQZy1UNXRGd0pVU1FjUDZMVF93aVBhc05JbDFGMTQ0cHhrMm1YZ0xuYjE1blpZRE9McmdyeWZzblpXUGw1SVJoOUgwZVp1bWttU3lxajdfUUh6Z0R6LUJEamlSdmc?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야, 연휴 항공 여행 급증 후 국제 관광객 복귀 경계 강화",
+      "summary": "- 파타야가 연휴 기간 항공 여행 급증 이후 국제 관광객의 복귀에 대비하고 있습니다.\n- 관광객 증가에 따른 안전 및 편의 시설 점검이 강화될 예정입니다.\n- 파타야는 증가하는 관광 수요에 맞춰 다양한 프로모션과 이벤트를 준비 중입니다.",
+      "full_translated": "파타야는 연휴 항공 여행 급증 이후 국제 관광객의 복귀에 경계를 강화하고 있습니다. 파타야 메일.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광객 증가에 따른 파타야의 대비 상황을 알리는 정보로, 여행 준비에 참고할 수 있습니다. 하지만 기존 뉴스에 비해 큰 업데이트는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pattaya on alert for return of international tourists after holiday air travel surge - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemNyQTJSd01FZnlHRk12SkdTTEpRSmNfUnU0UVpyQ1hZRUpfS3lkQmszWWJuaC04Y1JnTWhPQjV5ME9sZnBqR0Z4ZUZnU1hYTVBTb0FxMjRtS2hneXd4SmlJRkRYTVRtY2c0M0Nud3pTNWNYakRmTVVWTG5nS3l5SjlaWmhRejZ2MGtKbnRQN2R6ZGgyT0lIa0lQUHpOdHVCVXFCQ296NlE4U3h0ejRrRnJ4Q1MyYWJhWG0xR3Fad3Rldw?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "짜뚜짝 주말 시장, 세계 최고 야시장으로 선정",
+      "summary": "- Travelbag 연구에서 짜뚜짝 주말 시장이 세계 최고의 야시장으로 선정됨.\n- 태국 관광청은 이를 환영하며 관광객 유치에 적극 활용할 계획.\n- 다양한 상품과 먹거리를 즐길 수 있는 짜뚜짝 시장은 방콕의 대표적인 관광 명소.",
+      "full_translated": "태국은 Travelbag 연구에서 짜뚜짝 주말 시장이 세계 최고의 야시장으로 선정된 것을 환영합니다. 짜뚜짝 시장은 다양한 상품과 현지 음식을 제공하며 독특한 쇼핑 경험을 선사합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "짜뚜짝 시장은 유명 관광지이므로 정보 제공 가치가 있음. 쇼핑을 즐기는 여행자들에게 유용.",
+      "event_info": {
+        "date": null,
+        "location": "짜뚜짝 주말 시장, 방콕",
+        "price": "무료 (상품 구매 비용 별도)",
+        "location_google_map_query": "짜뚜짝 주말 시장 방콕"
+      },
+      "references": [
+        {
+          "title": "Thailand welcomes Travelbag study ranking Chatuchak Weekend Market world’s top night fair - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUjJuSjJreHppVjJ3MFdLUTRtdUl3ZjVFU3paTDZhLXNaQTVqWnAwektSWmNka3ZjVzZ2aHlheVhsaXdJUkFaWXh0N3FpVTdNaUhDNHRacE02akd0V1phVVFFYU5qanFYMG9keERUdVVMQS1NTlU0RkhENURDQTZTUERCNERWX043aG1tTmZJXzI5dGg0b0ZGZEZKdEdnYnNPekh4RWpWa3BYZmVFRE92amhRZXpQYkR3YU0wVVg1X1IwNHVTcVlUdFRDdnMtci1MNXc?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "안정적인 바트화, 파타야 관광객과 기업에 반가운 확실성 제공 - Pattaya Mail",
+      "summary": "- 바트화 안정은 파타야 관광 산업에 긍정적인 영향을 미칠 수 있음.\n- 환율 변동성 감소로 관광객과 기업 모두에게 예측 가능성을 높여줌.\n- 파타야 경제 활성화에 기여할 것으로 기대됨.",
+      "full_translated": "Stable baht could bring welcome certainty for Pattaya tourists and businesses&nbsp;&nbsp;Pattaya Mail",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "환율 안정은 관광객의 소비 심리에 긍정적인 영향을 미칠 수 있으나, 파타야에 국한된 내용이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Stable baht could bring welcome certainty for Pattaya tourists and businesses - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnBxdkd0U2NUSkRMNXd4ckl1VnljTVZGYnFmOFQ5aTFqcXh3NVAtZF9rYkpBTUlnZHczYUFXaWlqWTdpa3Ria0hoWjN1TVNyY0JacS1pZFhOeklhZnBzc05wSDJGTFlfcEctZU90ejVoQnVnMHlZSnd1ajdqbjUwQ242MDBQVVFqNk5Zdkl4aDA2RnVVOU9PWVdST29kbXc1X1dPXzdEYzhWM1p5WWVsdzZQWmdLaTNI?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-28"
     }
   ]
