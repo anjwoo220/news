@@ -1306,14 +1306,9 @@
       "summary": "- 태국은 2026년 초에 일본, 중국, 말레이시아, 인도, 러시아, 한국 등에서 온 약 600만 명의 관광객을 유치할 것으로 예상됩니다.\n- 이는 전례 없는 관광 급증을 의미하며 파타야, 방콕, 푸켓과 같은 지역을 활성화할 것입니다.\n- 관광 산업의 회복은 태국 경제에 긍정적인 영향을 미칠 것으로 기대됩니다.",
       "full_translated": "일본, 중국, 말레이시아, 인도, 러시아, 한국 등이 태국에 합류하여 2026년 초에 거의 6백만 명의 방문객을 맞이하며, 이는 전례 없는 관광 급증을 나타내고 파타야, 방콕, 푸켓을 활성화합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "2026년 초 관광객 유치 예상치는 여행객들에게 태국 방문 시 혼잡도 및 관광 인프라 이용에 대한 정보를 제공하므로 유의미하며, 파타야, 방콕, 푸켓 등 주요 도시의 관광 활성화 정보를 제공한다.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "파타야, 방콕, 푸켓",
-        "price": "정보 없음",
-        "location_google_map_query": "파타야, 방콕, 푸켓 관광 명소"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '파타야, 방콕, 푸켓', 'price': '정보 없음', 'location_google_map_query': '파타야, 방콕, 푸켓 관광 명소'}",
       "references": [
         {
           "title": "Japan Joins China, Malaysia, India, Russia, South Korea, and More as Thailand Sees Nearly Six Million Visitors in Early 2026, Marking an Unprecedented Tourism Surge and Revitalizing Pattaya, Bangkok, and Phuket - Travel And Tour World",
@@ -1324,21 +1319,18 @@
       ],
       "collected_at": "13:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQNUdtOGZxX0NwMjJtYkdVdkRkc2xsUDlHcDJUcld6QVl6T1p5dFNDQ2ZIU2M3QkJWcmswdkZodkVuQncyRGdfZnJhbmJ0STNqLUJNek1aT2VXbFk1UUpPUG1FM1ZGdVNPWjY3cDZoR2RfVUUxbWd3ZFVBY1FJYWZ3aVBmNmczTGs2Q3IzTFBtYTgwT1FnQVBVRWt3Y0Z5YnZlOHR3bGxwWGpXb2gtNjZxdmJYTlBYWXBZd2xpSEVING9UOTFrUXUwQ2poSVhfQWRRdFNCeDYzTlJhbl9vQjkwdDllb2FubkhFVHZCVFFqQWdGdmxlWFVsV3pnZHQ3Qlo3aUtYc3ZyRWU0N2FyMXdFZXphLUZyZDBraERTVkNOTlN4bGZ5b3lKVHBwMnBTaUozanREWUVyUkYtdmllbnhhWnAtMkp2NlFoSHg4NkZ1TnhGYTRpZHhZYW9KOHA?oc=5",
+      "source": ""
     },
     {
       "title": "치앙마이 은행 사기 시도 적발, 4명 체포",
       "summary": "- 은행의 신고로 콜센터 사기 연루 의심 계좌 적발.\n- 현금 30만 바트와 관련 물품 압수, 공범 3명 추가 체포.\n- 피해자는 온라인 사기 신고를 통해 30만 바트 송금.",
       "full_translated": "치앙마이 – 2026년 2월 27일 – 경찰은 은행이 콜센터 사기와 관련된 것으로 의심되는 계좌에 대해 신고한 후 목요일 4명을 체포하고 현금 30만 바트를 압수했다고 당국이 밝혔습니다. 오후 3시 55분경 경찰청 5지구 소속 경찰관들은 끄룽타이 은행 금융범죄팀으로부터 치앙마이 지점의 고객이 30만 바트를 인출하려 한다는 신고를 받고 확인에 나섰습니다. 경찰은 현장에 도착하여 콘캔 출신의 33세 여성 추다 망마가 현금 인출을 시도하는 것을 발견했습니다. 경찰은 현금 30만 바트, 통장, ATM 카드, 휴대폰을 압수했습니다. 그녀는 계좌를 개설하고 돈을 인출하라는 지시를 받았으며 자금은 자신의 것이 아니라고 진술했습니다. 추가 조사 결과, 인근에서 인출을 감시하고 지시한 공범 혐의자 3명을 구금했습니다. 코디네이터로 알려진 27세의 미얀마 국적자 아르 와이, 무국적자를 위한 핑크 카드를 소지한 37세의 미얀마 국적자 피팝(일명 상), 민간인 등록 상태가 없는 25세의 남성 종푸(일명 아푸)입니다. 경찰은 용의자 중 한 명이 1979년 이민법 위반 혐의로 추가 기소됐다고 밝혔습니다. 금융 기록에 따르면 인출 전에 피해자가 해당 계좌로 30만 바트를 이체했습니다. 이 이체는 사라부리 지방에서 접수된 온라인 사기 신고와 관련이 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 대상 사기 가능성 및 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Chiang Mai",
-        "price": null,
-        "location_google_map_query": "Chiang Mai"
-      },
+      "event_info": "{'date': None, 'location': 'Chiang Mai', 'price': None, 'location_google_map_query': 'Chiang Mai'}",
       "references": [
         {
           "title": "Bank alert foils scam, four arrested in Chiang Mai",
@@ -1347,21 +1339,19 @@
         }
       ],
       "collected_at": "13:26",
-      "date": "2026-02-28"
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/news/2026/02/28/bank-alert-foils-scam-four-arrested-in-Chiang-Mai/",
+      "source": ""
     },
     {
       "title": "치앙마이, 학생 비자 만료된 중국인 남성 체포",
       "summary": "- 치앙마이 이민국 경찰이 학생 비자가 만료된 중국인 남성을 체포했습니다.\n- 해당 남성은 합법적인 체류 기간이 만료된 후 출국 또는 비자 연장을 하지 않았습니다.\n- 그는 현재 경찰에 인계되어 법적 절차가 진행 중입니다.",
       "full_translated": "치앙마이 – 2026년 2월 28일, 치앙마이 이민국 경찰은 학생 비자 기간을 초과하여 체류한 중국 국적의 남성을 체포했다고 밝혔습니다. 치앙마이 이민국 수사관들은 이민국 제5지역 수사과와 협력하여 외국인이 불법적으로 왕국에 머물고 있다는 제보를 받은 후, 므앙 지역 수텝 하위 지역의 시리망칼라자른 도로를 따라 지역을 조사했습니다. 경찰은 “허가 만료 후 왕국에 남아있는 외국인” 혐의로 중국인 남성 1명을 체포했습니다. 그는 혐의와 법적 권리를 통보받은 후 추가 법적 절차를 위해 푸핑 라차니웻 경찰서 수사관에게 인계되었습니다. 용의자는 태국 공인 교육 기관에서 공부하는 외국인에게 발급되는 Non-ED 비자로 태국에 머물렀다고 인정했습니다. 허가된 체류 기간이 만료된 후 필요한 기간 내에 출국하거나 연장을 신청하지 않아 체포되었다고 당국은 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "비자 관련 규정 위반 사례는 여행객들에게 영향을 줄 수 있으며, 특히 태국 내 체류 시 비자 관리에 대한 중요성을 상기시켜야 하므로 중간 점수를 부여함.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이",
-        "price": null,
-        "location_google_map_query": "치앙마이"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이', 'price': None, 'location_google_map_query': '치앙마이'}",
       "references": [
         {
           "title": "Chiang Mai police arrest Chinese man on expired student visa",
@@ -1372,21 +1362,18 @@
       ],
       "collected_at": "13:26",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Chiang-Mai-police-arrest-Chinese-man-on-expired-student-visa.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/news/2026/02/28/chiang-mai-police-arrest-chinese-man-on-expired-student-visa/",
+      "source": ""
     },
     {
       "title": "태국, 외국인 관광객 및 거주자 대상 요금 인상: 방콕, 아유타야 등 여행 영향",
       "summary": "- 태국이 외국인 관광객과 거주자를 대상으로 방콕, 아유타야 등 주요 지역에서 더 높은 요금을 부과하고 있습니다.\n- 이는 관광 수입 증대와 지역 경제 활성화를 위한 조치로 풀이됩니다.\n- 여행자는 이러한 요금 인상이 여행 예산과 계획에 미치는 영향을 고려해야 합니다.",
       "full_translated": "태국의 관광 긴장 고조: 외국인 방문객과 거주자가 방콕, 아유타야 등지에서 더 높은 요금에 직면하는 이유 - 여행객은 여행에 미치는 영향에 대해 알아야 합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 관련 요금 인상 정보는 여행자가 예산 계획 시 참고해야 하므로 중요. 다만, 구체적인 인상 폭이나 적용 시점이 명시되지 않아 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 아유타야",
-        "price": "인상된 요금",
-        "location_google_map_query": "방콕 관광 명소, 아유타야 관광 명소"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 아유타야', 'price': '인상된 요금', 'location_google_map_query': '방콕 관광 명소, 아유타야 관광 명소'}",
       "references": [
         {
           "title": "Thailand’s Growing Tourism Tension: Why Foreign Visitors and Expats Are Facing Higher Fees in Bangkok, Ayutthaya, and Beyond—Everything You Should Know About the Impact on Your Trip - Travel And Tour World",
@@ -1397,21 +1384,18 @@
       ],
       "collected_at": "13:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOU192dHlwQUprRjNtZl8xd29XZEJNSW9wWVFsbF9fbndUQV8yd1E1b1B6b09pMkw0TEdqZzJ5ekkzNDVDbHVXclBENGt2VFFZZkRxUEc4Z2pxdUNEUU1ZWVBlckxiVm5jZWdncHdlU1EyVVVMTHRqUGIzc282cktoZGFKVU1fbU5mZFJ6ZWxxV2lOVzNOOFRhSFdoNGI5OUF5M3NGLU5aUTQ3U0RjNEdEV2VHSkJjcVplX2F0LVV1R0lSSXJNa3g0SkxhME9GZnZoLXZvUmg3NmNuc2psa0tOTC01WjBSQktJOXM0Y3lib0RqVmlDWE5EZTZOa3ZOZ1pvdlN1VTcxRmFjSE9IRS1Sa2luUkx5WlBaVGxwVmFjSnQwMVF2eTNMX2g1SXduYk5VWExsNGZPbnEzUHZHRUFxRWd4Y3ViWEZJeFE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 언론 및 국민 고소 논란: '입막음' 비판 직면",
       "summary": "- 태국 선거관리위원회(꼬꼬떠.)가 국민과 언론을 고소하여 '입막음' 시도라는 비판에 직면함.\n- 2월 8일 총선 이후 선관위의 투명성과 효율성에 대한 의혹 제기에 따른 조치임.\n- 팍쁘라차촌은 선관위의 고소가 부당하다고 주장하며 법적 대응을 예고함.",
       "full_translated": "พรรคประชาชน은 선거관리위원회가 국민과 언론을 고소한 것에 대해 동의하지 않는다는 성명을 발표했습니다. 이는 국민과 언론의 입을 막으려는 시도라고 비판하며, '프릿'이 잘못한 것이 없다고 주장합니다. 만약 허위 고소가 있을 경우 법적 책임을 물을 것이라고 밝혔습니다. 2069년 2월 28일, 팍 쁘라차촌은 성명을 통해 지난 2월 8일 총선 이후 선거 관리가 국민들의 의혹과 비난으로 가득 차 있다고 밝혔습니다. 선관위 웹사이트를 통한 선거 결과 보고 지연 문제, 쓰레기 더미와 유사한 지역에서 투표 용지 발견, 일부 지역에서 투표 용지(쏘쏘. 하/씹엣)와 결과 보고서(쏘쏘. 하/씹뻿) 간의 불일치, 100% 득표율 발표 전에 지역 쏘쏘. 결과 승인, 투표 참여자 수 공개, 일부 지역에서 재집계 후 상당한 득표수 변화, 바코드 선거 용지 설계로 누가 투표했는지 추적 가능 등의 문제가 있었습니다. 지난 1~2주 동안 선관위는 의혹을 제기하는 국민과 언론과 소통하고 질문에 답변하는 대신, 여러 의혹을 해소할 수 없는 일방적인 성명 발표 방식을 택했습니다. 가장 최근인 지난 밤(2월 27일) 선관위는 선거 용지에 대해 선관위를 조사한 국민을 고소하기 위해 범죄 진압 부대에 신고했다는 소식을 확인하는 성명을 발표했습니다. 여기에는 2월 22일 9번 투표소에서 재선거가 치러진 사건도 포함됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 내용으로 직접적인 여행 영향은 적으나, 선거 관련 잡음은 장기적으로 이미지에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ปชน. ซัด กกต. เข้าข่ายฟ้องปิดปากประชาชน-สื่อมวลชน พรรคจ่อเอาผิด ปมแจ้งความเท็จ",
@@ -1422,6 +1406,133 @@
       ],
       "collected_at": "13:26",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVCbWA4E7uRYA.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917011",
+      "source": ""
+    },
+    {
+      "title": "푸껫, 무허가 심야 유흥업소 급습: 외국인 마약 파티 적발",
+      "summary": "- 푸껫 당국이 외국인들의 마약 파티 신고를 받고 무앙 지역의 유흥업소를 급습했습니다.\n- 단속 결과, 허가 없이 운영 중인 업소에서 마약 사용 정황이 발견되었습니다.\n- 업소 매니저인 태국인 남성이 체포되었으며, 관련 법규 위반 혐의로 기소될 예정입니다.",
+      "full_translated": "푸껫 — 2026년 2월 28일, 푸껫 당국은 외국인들이 마약에 취한 파티를 주최한다는 민원이 접수된 후 무앙 지역의 한 유흥업소를 급습했습니다. 이번 작전은 2026년 2월 27일부터 28일까지 파이롯 스릴라물 지역 책임자의 지시 하에 무앙 지역에서 진행되었습니다. 단속팀은 지역 행정 그룹 책임자인 아카라 수와티쿨과 보안 담당 부지역 책임자인 티티 분야스티안, 자원방위대 1중대, 무앙 푸껫 대원들과 함께 구성되었습니다. 당국은 마약 사용과 관련된 모임에 대한 보고를 받고 탈랏 누에아 하위 지역의 지역 도살장 교차로 근처에 위치한 장소를 조사했습니다. 조사 중 경찰은 업소 매니저라고 밝힌 30세의 태국인 남성 코비를 체포했습니다. 당국은 해당 업소의 운영 허가증 제시를 요구했지만 허가증이 없다는 답변을 받았습니다. 해당 업소는 관련 서류를 제시하지 못했습니다. 경찰은 12개의 물품을 증거물로 압수하고 용의자를 주류 판매 및 라이브 음악 또는 기타 엔터테인먼트를 제공하고 24시 이후에 문을 닫는 상업 장소로 정의되는 서비스 시설을 허가 없이 운영한 혐의로 기소했습니다. 이는 Entertainment Places Act B.E. 2509 (1966) 및 그 수정안을 위반하는 것입니다. 그는 또한 Alcoholic Beverage Control Act B.E. 2551 (2008) 16조에 따라 금지된 시간에 주류를 판매한 혐의로 기소되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "푸껫에서 외국인 관련 범죄 발생. 여행객 안전에 대한 잠재적 위협. 늦은 밤 유흥을 즐기는 여행객들에게 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "Talat Nuea, Muang Phuket District",
+        "price": null,
+        "location_google_map_query": "Talat Nuea, Muang Phuket District"
+      },
+      "references": [
+        {
+          "title": "Phuket officials raid unlicensed late-night venue",
+          "url": "https://www.khaosodenglish.com/news/2026/02/28/phuket-officials-raid-unlicensed-late-night-venue/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner1-9.jpg"
+        }
+      ],
+      "collected_at": "14:01",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner1-9.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 2026년 Moto GP 대비 의료 인력 300명 배치",
+      "summary": "- 태국 정부는 2026년 Moto GP 대회를 위해 의료 인력 300명을 배치할 예정입니다.\n- 부리람 창 인터내셔널 서킷에서 개최되는 이번 대회는 2026년 2월 27일부터 3월 1일까지 진행됩니다.\n- 정부는 응급 상황 및 부상에 대비하여 의료 서비스 제공에 만전을 기할 것이라고 밝혔습니다.",
+      "full_translated": "태국 정부는 2026년 부리람 창 인터내셔널 서킷에서 개최되는 Moto GP 대회를 지원하기 위해 300명의 의료 및 공중 보건 인력을 동원합니다. 아이린 판루엣 총리실 부대변인은 정부가 의료 및 공중 보건 준비를 완료했다고 밝혔습니다. 세계 오토바이 챔피언십 1차전 “PT GRAND PRIX OF THAILAND 2026”은 2026년 2월 27일부터 3월 1일까지 창 인터내셔널 서킷에서 개최될 예정이며, 30만 명 이상의 선수, 대회 후원자, 태국 및 외국인 관광객이 부리람 지방을 방문할 것으로 예상됩니다. 정부는 보건부에 의료 인력 300명을 동원하여 인력, 장비 및 사고 현장 지원, 이송 및 대규모 부상자 이동에 대한 운영 계획을 포함하여 응급 상황 및 부상에 효율적으로 대처할 수 있도록 의료 서비스를 제공할 것을 위임했습니다. 이는 지역 내의 사람들과 여행자들에게 안전을 보장하고 태국의 긍정적인 이미지를 구축하기 위한 것입니다. 2018년부터 7년 동안 지속적으로 개최된 세계 오토바이 챔피언십은 2018~2025년 사이에 총 120만 명의 관람객을 유치하여 약 240억 바트의 경제적 가치를 창출했습니다. 태국 스포츠청은 티켓 판매 및 관리 수수료로 수익을 얻었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "대규모 국제 행사 개최 정보로, 여행객들에게 잠재적인 교통 혼잡 및 숙박 시설 관련 영향을 줄 수 있음. 의료 서비스 준비는 긍정적인 정보.",
+      "event_info": {
+        "date": "2026-02-27 ~ 2026-03-01",
+        "location": "창 인터내셔널 서킷, 부리람",
+        "price": "정보 없음",
+        "location_google_map_query": "Chang International Circuit Buriram"
+      },
+      "references": [
+        {
+          "title": "รัฐบาลระดมแพทย์-จนท. 300 คน รองรับแข่งขัน Moto GP 2026 ที่สนามช้างฯ บุรีรัมย์",
+          "url": "https://www.thairath.co.th/news/politic/2917019",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVBw1L9njtmMt.jpg"
+        }
+      ],
+      "collected_at": "14:01",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVBw1L9njtmMt.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 2026년 제44회 태국 관광 축제 개최: 방콕, 푸켓, 치앙마이, 끄라비 등 태국 다양한 지역 경험",
+      "summary": "- 2026년 태국 관광 축제에서 방콕, 푸켓, 치앙마이, 끄라비 등 태국의 다양한 지역을 경험할 수 있습니다.\n- 축제는 태국의 문화와 자연을 만끽할 수 있는 다양한 프로그램과 활동을 제공합니다.\n- 자세한 정보는 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "2026년 제44회 태국 관광 축제에서 태국의 다양한 지역을 경험해보세요. 방콕, 푸켓, 치앙마이, 끄라비 등 다양한 도시와 지역의 매력을 느낄 수 있습니다. 축제에서는 태국의 문화와 자연을 만끽할 수 있는 다양한 프로그램과 활동이 준비되어 있습니다. 자세한 내용은 Travel And Tour World 웹사이트에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국의 주요 관광지를 소개하고, 여행객에게 유용한 정보를 제공하므로.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "방콕, 푸켓, 치앙마이, 끄라비 등",
+        "price": "미정",
+        "location_google_map_query": "태국 방콕"
+      },
+      "references": [
+        {
+          "title": "Dive into Thailand’s Diverse Regions at the 44th Thailand Tourism Festival 2026 – Experience Bangkok, Phuket, Chiang Mai, Krabi, and More! Here’s Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaVNYMDEzZVp5aU1WcGFJSk5tQ3FuRVBqaFp3dGdmMEFVc01XQ205QWNSTUxKVXFxbHU4V2ZxYlZMbEdWSDd6aDhWUEc4eGt2bHNFWk02Mm0xenRSSUNmMU4xX013TEJ4elFPVVhvX1ZDUkZuNTNKN2ItR1dRZnRHbFpTWUMtODZacE0yMGtmakM2SDdVZjRETWlvQVdzUmZSTHdpU1lSS2doazZPd0lGTGhWRkRFSHQyNkQ0a003TEJ2T19WMFNQZ3Z5dHpfczJRQi1ZOHY0UFZNWjVPLTV5c3NRUjNobUF4REwwZkpIa2stZEo0dU1MQVdZWkZKUEhIbzRmbGtZZkF3Q1pocjNONF8tYWJSTXVyYkQxalU5VkgyZGdsSlV3d2JSZEQ2LWZpSnY4LVcwQzQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:01",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "수린 지역 지뢰 폭발 사고: 군인, 긴급 수술 후 안정적인 상태",
+      "summary": "- 수린 지역에서 발생한 지뢰 폭발 사고로 중상을 입은 군인이 수술 후 안정적인 상태를 유지하고 있음.\n- 의사는 군인의 상태가 꾸준히 호전되고 있으며, 생명에는 지장이 없다고 밝힘.\n- 현재 감염 가능성에 대비하여 집중 치료를 받고 있으며, 어머니가 곁을 지키고 있음.",
+      "full_translated": "수린 — 2026년 2월 28일 — 지뢰 폭발로 중상을 입은 태국 육군 사병이 수술 후 안정적인 상태를 유지하고 있으며 집중 치료실로 옮겨졌다고 의사들이 토요일 밝혔다. 수린 병원장 차와마이 수엡누칸 박사는 '펙'으로 알려진 데착 트리캄 사병이 꾸준히 호전되었고 현재는 위험에서 벗어났다고 말했다. 제23보병대대 233중대 소속인 이 군인은 수린주 캅청 지역의 에라완 작전 기지 근처에서 대인 지뢰를 밟았다. 폭발로 그의 오른쪽 다리가 절단되었고 왼쪽 팔과 다리는 파편에 의해 부상을 입었다. 그는 병원에 도착했을 때 위독한 상태인 것으로 알려졌다. 의사들은 약 2시간 동안 수술을 실시한 후 면밀한 관찰을 위해 멸균 수술 집중 치료실로 옮겼다. 차와마이는 '처음에 그는 상당한 양의 혈액을 잃고 혈액 고갈을 겪었지만 우리는 그것을 보충했다. 전반적으로 그의 상태는 꾸준히 개선되었고 즉각적인 우려 사항은 없다'고 말했다. '그러나 우리는 가능한 감염에 대해 계속 모니터링해야 한다. 절단 부위의 상처는 크게 개선되고 있다.' 수린 병원은 수술 내내 상당한 혈액 손실로 인해 프라몽꿋클라오 병원의 의료진과 협력했다고 덧붙였다. 데착 트리캄 사병은 병상에서 어머니와 함께 격려의 평화 표시로 두 손가락을 들고 좋은 모습을 보였다. 그의 어머니 암카 트리캄은 그녀",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 지역에서 발생한 사고 소식이지만, 특정 지역에 한정되어 있고 여행객에게 직접적인 위협은 아니라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "수린 주 캅청 지역",
+        "price": null,
+        "location_google_map_query": "Kab Choeng District, Surin, Thailand"
+      },
+      "references": [
+        {
+          "title": "Soldier stable after emergency surgery for landmine injuries",
+          "url": "https://www.khaosodenglish.com/news/2026/02/28/soldier-stable-after-emergency-surgery-for-landmine-injuries/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Soldier-stable-after-emergency-surgery-for-landmine-injuries-m.jpg"
+        }
+      ],
+      "collected_at": "14:01",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Soldier-stable-after-emergency-surgery-for-landmine-injuries-m.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 선거관리위원회(꼬꼬떠), 국민 고발 논란 속 '여론 조작' vs '공익 보호' 공방",
+      "summary": "- 태국 선거관리위원회(กกต.)가 국민을 고발하여 여론 조작 시도 논란에 휩싸임.\n- 전직 선관위원 Somchai Srisuthiyakorn은 꼬꼬또.의 행태를 비판하며 고발 대상 6명의 실명 공개 요구.\n- 꼬꼬또.는 선거 방해 행위 및 허위 사실 유포에 대한 법적 조치임을 강조.",
+      "full_translated": "전 선거관리위원 Somchai Srisuthiyakorn은 껫떠가 국민을 고발하는 행위가 여론을 조작하고 국민을 협박하려는 시도라고 비판하며, 고발 대상 6명의 실명을 공개하라고 요구했습니다. 그는 껫떠가 허위 사실을 유포하는 사람들을 고발하는 행위에 대해 비판하며, 이는 국민을 협박하고 껫떠의 부정행위를 감추려는 의도라고 주장했습니다.\n\n껫떠는 보도자료를 통해 국민을 고발하는 것이 아니라, 선거 관리위원회의 업무를 방해하고 허위 사실을 유포하는 사람들을 고발하는 것이라고 해명했습니다. 또한, 껫떠는 고발 대상은 6명이며, 이들은 선거 과정에서 부정을 저지르거나 허위 사실을 유포한 혐의를 받고 있다고 밝혔습니다. 껫떠는 이러한 행위가 선거의 공정성을 해치고 국민의 신뢰를 저해하는 행위라고 강조했습니다.\n\nSomchai Srisuthiyakorn은 껫떠의 해명에 대해 비판하며, 고발 대상 6명의 실명을 공개하라고 요구했습니다. 그는 껫떠가 고발 대상의 실명을 공개하지 않는 것은 국민을 협박하고 껫떠의 부정행위를 감추려는 의도라고 주장했습니다. 또한, 그는 껫떠가 고발 대상의 실명을 공개하지 않는 것은 겁쟁이 같은 행동이라고 비판했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이나, 현재 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“สมชัย” ซัด กกต. แจ้งความประชาชนแบบปั่นกระแส หวังข่มขู่คนออกมาเปิดโปง ท้าเปิด 6 ชื่อคนถูกฟ้อง",
+          "url": "https://www.thairath.co.th/news/politic/2917017",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVB6zJBb39e8d.jpg"
+        }
+      ],
+      "collected_at": "14:01",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVB6zJBb39e8d.jpg",
       "date": "2026-02-28"
     }
   ]
