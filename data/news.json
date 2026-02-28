@@ -2162,14 +2162,9 @@
       "summary": "- 파타야는 태국 항공 부문의 성장과 함께 국제 관광객의 급증을 준비 중이다.\n- 특히 중국, 인도, 말레이시아 등에서 많은 관광객이 몰려올 것으로 예상된다.\n- 파타야는 증가하는 관광 수요에 맞춰 다양한 편의 시설과 서비스를 제공할 계획이다.",
       "full_translated": "파타야는 태국 항공 부문이 급성장함에 따라 국제 관광객의 폭발적인 증가를 준비하고 있습니다. 중국, 인도, 말레이시아 등이 이러한 성장을 주도하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 관광객 증가 예상은 여행객에게 중요한 정보이며, 특히 중국, 인도, 말레이시아 등 특정 국가 언급은 맞춤형 여행 계획 수립에 도움을 줄 수 있다. 항공 부문 성장과 연관되어 공항 혼잡도 등 간접 영향도 고려할 필요가 있다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya Prepares for Explosive Surge in International Tourists as Thailand’s Aviation Sector Soars: China, India, Malaysia, and More Lead the Way! - Travel And Tour World",
@@ -2180,21 +2175,18 @@
       ],
       "collected_at": "17:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOEdUc18tdWU2Q0ZNNk5jRzFyeWY0NTctbFF4SGtUampuaVczS3ZXUnVFU3RtV2NFbnVzcmcyalM5NE5KOTlWZXBleUZMSnFwVTVSWWtnS1BtV3EzSS1neWNnejZGbS1TaE5YQXliT0JOZE0xcU1rTmV2OEZ0MUk0LVFtYWVzYm40Y3dhbjFXWnJCN2JmYjJYODNpa0d0TXZYNVZhSFJ3THZMbVRmVHBxbHVzSjRWZzZBVU1PeHBOT0JlZHIwTlhfWVQyeFJzY3pJbHZYbUo3c2xlcHh3X2RDWmJMVlhMdWNKWXMtMy1qaWItUTN2WnRaZ0VrTl9EWkZQY2d2aFlYN3lpVUJCbDVkWmxId2llMVBN?oc=5",
+      "source": ""
     },
     {
       "title": "이란, 미국과 이스라엘의 침공 규탄",
       "summary": "- 이란 외무부는 미국과 이스라엘의 군사적 침공을 규탄하는 성명을 발표했습니다.\n- 이란은 자국 영토와 주권에 대한 침해라고 주장하며, 자위권을 행사할 것이라고 밝혔습니다.\n- 이란은 국제사회에 미국의 침공 행위를 알리고, 전쟁을 피하기 위해 노력했다고 강조했습니다.",
       "full_translated": "이란 외무부는 미국과 이스라엘의 군사적 침공에 대한 강력한 대응을 시사하는 성명을 발표했습니다. 성명은 미국과 이스라엘이 이란의 영토와 주권을 침해했다고 비난하며, 이란은 자위권을 행사할 권리가 있다고 밝혔습니다. 이란은 또한 국제 사회에 이러한 침공 행위를 알리고, 전쟁을 피하기 위해 모든 필요한 조치를 취했다고 강조했습니다. 현재 이란은 필요한 경우 국토를 방어할 준비가 되어 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 지역의 긴장 고조는 태국 여행에 잠재적인 간접적 영향을 미칠 수 있습니다. 여행객 안전에 대한 인식을 높이는 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กต.อิหร่านออกแถลงการณ์ ประณามการรุกรานโดยสหรัฐฯ และอิสราเอล",
@@ -2205,21 +2197,18 @@
       ],
       "collected_at": "17:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUki5JG1UERDq.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917063",
+      "source": ""
     },
     {
       "title": "인도 여행객 급증: 아랍에미리트, 태국, 사우디아라비아가 2025년 인기 여행지로 부상",
       "summary": "- 인도의 해외여행객 수가 급증하며 아랍에미리트, 태국, 사우디아라비아가 주요 여행지로 떠오르고 있습니다.\n- 2025년에는 3억 2,700만 명의 인도인이 해외여행을 떠날 것으로 예상됩니다.\n- 이는 글로벌 여행 트렌드에 새로운 기록을 세우는 것입니다.",
       "full_translated": "인도 여행객 급증: 아랍에미리트, 태국, 사우디아라비아가 2025년 인기 여행지로 부상하며 글로벌 여행 트렌드에 새로운 기록을 세울 것으로 예상됩니다. 2025년에는 3억 2,700만 명의 인도인이 해외여행을 떠날 것으로 보입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "인도 여행객 증가 추세는 태국 관광 산업에 긍정적인 영향을 미칠 수 있지만, 기존에 이미 관련 정보가 게시되었으므로 점수를 낮게 책정.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "United Arab Emirates Joins Thailand and Saudi Arabia as India’s Top Destination with an Astonishing Three Point Twenty Seven Crore International Trips in 2025 Setting a New Record for Global Travel Trends - Travel And Tour World",
@@ -2230,21 +2219,18 @@
       ],
       "collected_at": "17:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNazlCWDZreURoQk1BSzFNczRVa0M4Zk83cExNd2ltbW1wdFF3LWlGR01YcmM4Z20xNjRUVmdNNWxxNlB1dm1xRlBLcTBCMW9EcUFCLWl1NzdYOGtEN0R0Tk15aVdGeGMyZXZJTDdGWU9haXdGUlRLZ1I4N0ZIN2tNczk4OXlzR2FPaVdNc2pJaGltUWJkd2tFcWFjVEJHNy05WHA4VDNFZ3NLTDhWM1lRcDM3Y0EwdXVJZkRzb01CMTFhYXdpcXJuM0NCWTlteTRHdkdWazZmZ3pvRmVkRDZ3TEJzRzlLS3RuZUI4T3dWNm1IRnpmMi1LQ2YwM1hUWUphTXN5NFh3RlZfQUl1NUhyY3ZyMWtrdWF3Y1JVU0xvNWNYUVVlQWUxaDJtcDlfbmNwaVY1Unpzbklld01zOEVnT3NYR1dqUmlfVWdEWW1QQk1Xa2czNDlBM3dSVHg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 금값, 미국-이란 충돌 후 급등: 금괴 77,600 바트에 판매",
       "summary": "- 2월 28일, 미국-이란 충돌 여파로 태국 금값이 급등.\n- 금괴는 77,600 바트, 금 장신구는 78,400 바트에 판매.\n- 금 가격은 오전 9시 2분에 1,450 바트 상승.",
       "full_translated": "2월 28일 토요일 저녁, 미국-이란 충돌 이후 태국 금값이 마감 가격이 급등했습니다. 가격은 1,450 바트 인상되었습니다. 금괴는 77,600 바트에 판매되고 금 장신구는 78,400 바트에 판매됩니다. 2월 28일 오후 5시, 금 거래 협회는 오늘 태국 금 가격을 오전 9시 2분에 한 번 발표했는데, 가격이 1,450 바트 인상되었습니다. 그 결과 금괴 매입 가격은 77,400 바트, 판매 가격은 77,600 바트입니다. 금 장신구 매입 가격은 75,845.48 바트, 판매 가격은 78,400 바트입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "금값 변동은 여행자들의 소비 심리에 영향을 줄 수 있으며, 특히 귀금속 구매를 고려하는 여행자에게는 중요한 정보입니다. 매일 변동하는 수치이므로 업데이트로 간주합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ราคาทองวันนี้ ราคาทองปิดตลาด หลังสหรัฐถล่มอิหร่าน ขายออกบาทละ 77,600 บาท",
@@ -2255,21 +2241,18 @@
       ],
       "collected_at": "17:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUkwSDuJ8zwka.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/2917066",
+      "source": ""
     },
     {
       "title": "태국 1월 자동차 시장 호황, Toyota 19,813대 판매 기록",
       "summary": "- 1월 태국 자동차 시장은 전년 대비 53.77% 성장한 73,936대 판매.\n- Toyota는 19,813대를 판매하여 시장 점유율 26.79%를 기록, 14% 성장.\n- Yaris와 Yaris ATIV가 성장을 이끌었으며, 전기차 판매도 급증.",
       "full_translated": "1월 태국 자동차 시장이 활황을 보이며 Toyota는 19,813대를 판매했습니다. 이는 시장 점유율 26.79%에 해당하며 14% 성장한 수치입니다. Yaris와 Yaris ATIV가 성장을 주도했습니다.\n\nToyota Thailand의 부사장은 2월 자동차 시장이 경제 회복의 신호를 보이고 있다고 언급했습니다. 이는 투자 증가와 1월 판매량 증가에 따른 것입니다. 특히 EV 3.0 프로젝트로 인해 전기차 판매가 증가했습니다. 그러나 국내 경제 상황과 정치적 방향을 지속적으로 모니터링해야 합니다.\n\n1월 전체 자동차 시장은 73,936대를 판매하여 전년 동기 대비 53.77% 증가했습니다. 이는 정부의 EV 3.0 및 3.5 프로젝트에 따른 세금 지원을 받기 위해 전기차 생산 및 판매를 가속화한 결과입니다. 세부 사항은 다음과 같습니다.\n\n- 승용차 및 SUV 판매량은 55,960대로 전년 대비 83.2% 증가했습니다.\n- 픽업트럭 판매량은 11,507대로 전년 대비 6.12% 감소했습니다.\n- 전기 픽업트럭(BEV) 판매량은 79대로 전년 대비 1,875% 증가했습니다.\n- PPV 판매량은 4,132대로 전년 대비 30.88% 증가했습니다.\n\nToyota는 1월에 19,813대를 판매하여 시장 점유율 26.79%를 차지했으며 전년 동기 대비 14% 성장했습니다. Eco segment(Yaris 및 Yaris ATIV)가 6,861대, Pure Pick Up (Hilux Travo, Revo 및 Champ)이 5,541대를 판매하며 성장을 이끌었습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 자동차 시장 동향에 대한 정보. 여행 자체에 직접적인 영향은 없지만, 경제 상황을 간접적으로 파악할 수 있게 함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ภาพรวมตลาดรถยนต์ม.ค.ปี 69 สดใส Toyota ทำยอดขายสูงถึง 19,813 คัน",
@@ -2280,6 +2263,133 @@
       ],
       "collected_at": "17:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdTeStJHUgNFMH.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/auto/news/2917058",
+      "source": ""
+    },
+    {
+      "title": "치앙라이 지역에서 규모 3.1 지진 발생, 주민들 진동 감지",
+      "summary": "- 2월 28일 오후 4시 8분, 치앙라이 판 지역에서 규모 3.1의 지진 발생.\n- 진앙은 지하 1km 깊이이며, 여러 지역에서 진동이 감지됨.\n- 현재까지 피해 보고는 없음.",
+      "full_translated": "2월 28일 오후 4시 8분, 치앙라이 판 지역에서 규모 3.1, 깊이 1km의 지진이 발생했습니다. 기상청 지진 감시 부서에 따르면, 지진은 트라이 카오, 탄 통, 산 클랑, 판 지역 및 동 마다, 매 라오 지역에서 감지되었습니다. 현재까지 피해 보고는 없습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 북부 여행객에게 지진 발생 사실을 알리고 안전에 유의하도록 안내. 피해는 없으나 추가 지진 가능성 대비.",
+      "event_info": {
+        "date": "2025-02-28",
+        "location": "치앙라이, 판 지역",
+        "price": null,
+        "location_google_map_query": "Chiang Rai, Phan"
+      },
+      "references": [
+        {
+          "title": "แผ่นดินไหว ขนาด 3.1 ต.ทรายขาว อ.พาน จ.เชียงราย ประชาชนรับรู้ถึงแรงสั่นไหว",
+          "url": "https://www.thairath.co.th/news/local/north/2917073",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUX5sDaqBE5aX.jpg"
+        }
+      ],
+      "collected_at": "18:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUX5sDaqBE5aX.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "법원, 130억 바트 규모의 사기 자산 압류 명령",
+      "summary": "- 태국 법원이 사기 네트워크와 관련된 4건의 사건에서 130억 바트 이상의 자산 압류를 명령했습니다.\n- 이는 돈세탁방지기구(Amlo)의 청원에 따른 것입니다.\n- 압류 대상에는 캄보디아 사업가 Yim Leak, Benjamin Mauerberger, Chen Zhi 등의 자산이 포함됩니다.",
+      "full_translated": "민사 법원은 금요일 사기 네트워크와 관련된 4건의 사건에서 130억 바트 이상의 자산 압류를 명령했습니다. 이번 명령은 2월 17일 돈세탁방지기구(Amlo)의 청원에 따른 것입니다. 가장 큰 압류는 캄보디아 사업가 Yim Leak, 사업가이자 로비스트인 Benjamin Mauerberger(Ben Smith), 그리고 3명의 태국 여성에게 속한 120억 바트 상당의 자산과 관련이 있습니다. 또 다른 몰수는 미국 제재를 받은 Prince Group의 설립자인 중국-캄보디아 거물 Chen Zhi의 자산 3억 4,500만 바트와 관련이 있으며, 그는 1월 초 캄보디아에서 중국으로 인도되어 기소되었습니다. 법원은 또한 다국적 범죄 조직 및 돈세탁에 가담한 혐의로 기소된 캄보디아 사업가 Kok An과 그의 동료의 자산 5억 6천만 바트, 그리고 Eua-angkun Santirakyothin과 그의 동료의 자산 4천 6백만 바트의 압류를 명령했습니다. Amlo는 차량이나 요트와 같이 보관에 적합하지 않은 자산을 처분할 수 있는 권한이 있습니다. 판매 수익금은 기관에서 보유하거나 피해자에게 보상하는 데 사용될 수 있습니다. 검사 Yaowaluck Nonthakaew는 자산 압류가 민사 소송과 관련이 있으며, 현재 중앙수사국에서 감독하는 형사 수사는 초국가적 범죄 혐의를 조사하고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "사기 사건 관련 자산 압류는 여행객에게 직접적인 영향을 미치지 않지만, 태국의 치안 및 사법 시스템에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Court orders seizure of B13bn in scam assets",
+          "url": "https://www.bangkokpost.com/thailand/general/3206758/court-orders-seizure-of-b13bn-in-scam-assets",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206758_260228174231_700.jpg"
+        }
+      ],
+      "collected_at": "18:12",
+      "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206758_260228174231_700.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "프랑스, 코소보 비자 면제 혜택에 힘입어 관광객 급증...태국, 이탈리아, 터키, 이스라엘, 탄자니아, 에티오피아, 에콰도르 등과 함께",
+      "summary": "- 코소보의 비자 면제 정책으로 인해 프랑스를 포함한 여러 국가에서 관광객 수가 증가하고 있습니다.\n- 태국 역시 코소보의 새로운 비자 정책의 수혜국 중 하나입니다.\n- 이 정책은 관광 산업 활성화에 기여할 것으로 예상됩니다.",
+      "full_translated": "프랑스는 코소보의 81개국 비자 면제 여행 접근으로 관광이 급증함에 따라 이탈리아, 터키, 이스라엘, 태국, 탄자니아, 에티오피아, 에콰도르 등에 합류했습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "코소보 비자 정책 변화에 따른 태국 관광객 증가 가능성을 시사하지만, 직접적인 영향은 제한적입니다. 여행 트렌드 변화 정보로 분류.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "France Joins Italy, Turkey, Israel, Thailand, Tanzania, Ethiopia, Ecuador and More as Tourism Spikes with Kosovo’s New Visa Free Travel Access to Eighty One Countries - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNd0xOWklBMG9fb2Q2ZG5rQUp3V3E5d3dJLWF6WlAxQTY4czdoQjVwXzdHQVZCd0dROXdwNHRCendzdzA3TGxkZktDQXNsUnlQSWdiamhQWHVfRGhrRDRVUkVkVXhrLXRpWVFFRm1PM1JJX2F3eGFDSWpvX0o4eVBjR2NkWXl6d0N6MlA1YkJEaVFxdTBNaHl1OTl6QlFfRi1YbHJRdzhGUnJnci0wQV80Mm5EVTFTZkI1VHYwVXhudmpySE5UY2FuQVlMQ1lPSU5BSkFzWUVIVmpoUVQ2LTNldWhsVkRadFplY1c5TVNvSzBlVDZ2LTNabXJGZkd6bkxzalBJWFJ4bE1kdDdxa1N3cE5UVllFalhJaDVPQUJ1aDZYdHhFUEFYTDgyY2ZEcFdVTnc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:12",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "방콕 재선거 관련 논란 심화: 선거위원회, 투표 촬영 관련 6명 고발",
+      "summary": "- 태국 선거위원회가 방콕 재선거에서 투표 촬영 및 바코드 해독 시도 혐의로 6명을 고발하여 논란이 일고 있습니다.\n- 선거위원회는 투표의 비밀성을 침해하고 유권자에게 위협을 가했다고 주장합니다.\n- 야당은 선거위원회의 이러한 조치가 과도하며 부당하다고 비판하고 있습니다.",
+      "full_translated": "방콕 — 2026년 2월 28일 — 태국 선거위원회(EC)는 방콕 재선거 중 투표 용지 촬영 및 투표 용지 바코드 해독 시도 혐의로 6명을 형사 고발하여 거센 비판에 직면하고 있습니다. 이번 성명은 2026년 2월 22일 칸나야오 지역 투표소 9번에서 실시된 총선 재선거 중 발생한 사건과 관련하여 범죄 진압 부서에 고발장을 제출한 EC의 결정에 대한 비판에 따른 것입니다. 태국 언론은 EC의 고발장에 이름이 오른 6명은 다음과 같다고 보도합니다. EC는 범죄 진압 부서에 고발장을 제출한 사실을 확인했지만 전체 법률 문서는 공개하지 않았습니다. EC의 고발장에는 형법 및 관련 법률에 따른 일련의 심각한 형사 혐의가 포함됩니다. 위원회는 2017년 헌법에 따른 투표는 직접적이고 비밀리에 이루어져야 한다고 강조했으며, 개인이 투표한 방식을 식별하려는 시도는 선거 사기에 해당한다고 밝혔습니다. 또한 투표소 근처에 카메라를 설치하면 일부 유권자가 투표하는 것을 막을 수 있다고 주장했습니다. EC는 일반 시민이나 언론을 표적으로 삼고 있다는 주장을 부인하면서 100명 이상의 일반인과 언론인이 법적 조치 없이 투표를 참관했다고 밝혔습니다. 고발장은 공모하여 부정직한 의도를 가지고 행동했다고 믿는 개인에게만 적용된다고 밝혔습니다. 야당 인사들은 EC의 접근 방식에 대해 문제를 제기하면서",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식이지만, 여행객의 안전이나 이동에 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Backlash grows over EC legal action against six in ballot filming case",
+          "url": "https://www.khaosodenglish.com/politics/2026/02/28/backlash-grows-over-ec-legal-action-against-six-in-ballot-filming-case/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner2-10.jpg"
+        }
+      ],
+      "collected_at": "18:12",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner2-10.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "트럼프, 이란 국민에게 정부 전복 촉구 및 이란 보안군에게 무기 포기 협박",
+      "summary": "- 도널드 트럼프 미국 대통령은 이란 국민에게 정부와 종교 체제를 전복할 것을 촉구하며 대대적인 변화를 요구했습니다.\n- 트럼프 대통령은 무기를 포기하는 이란 관리들에게 면책특권을 제안했습니다.\n- 그는 이란 보안군에게 무기를 포기하면 면책특권을 부여하지만, 그렇지 않으면 죽음을 맞이할 것이라고 경고했습니다.",
+      "full_translated": "도널드 트럼프 미국 대통령은 이란 국민들에게 정부와 종교 체제를 전복시켜 대대적인 변화를 이끌어낼 것을 촉구하며 비디오 성명을 발표했습니다. 그는 미국이 상황을 정리한 후 이란 국민들이 정부를 전복해야 한다고 말하며, 이것이 여러 세대에 걸쳐 변화를 가져올 유일한 기회가 될 수 있다고 덧붙였습니다. 트럼프는 이란 보안군에게 무기를 내려놓으면 면책특권을 부여하겠다고 제안했지만, 거부할 경우 죽음에 직면하게 될 것이라고 경고했습니다. 앞서 1월 초, 트럼프는 이란 보안군이 전국적인 반정부 시위를 진압하는 동안 이란을 폭격하겠다고 위협한 바 있습니다. 인권 운동가들은 최소 6,480명이 사망했다고 밝혔습니다. 트럼프는 관련자들에게 대가를 치르게 할 것이며 시위대에 지원이 올 것이라고 경고했습니다. 그러나 며칠 후 트럼프는 이란 정부로부터 살인이 중단되었다는 보증을 받았다고 밝혔고, 이후 이란과 서방 국가 간의 분쟁의 핵심인 이란의 핵 프로그램에 집중했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "이란의 정치적 불안정은 여행에 간접적인 영향을 줄 수 있지만, 태국 여행객에게 직접적인 위협은 아니라고 판단했습니다. 현재 시점에서는 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ปลุกระดมชาวอิหร่านลุกฮือ โค่นล้มรัฐบาล ขู่กองกำลังความมั่นคงอิหร่านวางอาวุธ",
+          "url": "https://www.thairath.co.th/news/foreign/2917068",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUj8cqD4JkF9Z.jpg"
+        }
+      ],
+      "collected_at": "18:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUj8cqD4JkF9Z.jpg",
       "date": "2026-02-28"
     }
   ]
