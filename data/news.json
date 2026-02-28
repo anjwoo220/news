@@ -3766,8 +3766,116 @@
       "summary": "- 방콕시, 폭염으로부터 주민과 여행객 보호 위해 255개 냉방 센터 운영.\n- 냉방 센터는 더위를 피할 수 있는 안전한 장소 제공.\n- 폭염 관련 안전 정보 및 지원 제공.",
       "full_translated": "방콕은 폭염으로부터 주민과 여행객을 안전하게 보호하기 위해 도시 전역에 걸쳐 255개의 냉방 센터를 개방했습니다. 이 센터들은 극심한 기온으로 인해 건강에 영향을 받을 수 있는 사람들에게 휴식을 취할 수 있는 장소를 제공합니다. 냉방 센터에서는 폭염 관련 정보와 지원을 제공하며, 필요시 의료 지원도 받을 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "폭염은 여행객 안전에 직접적인 위협이 되므로, 냉방 센터 정보는 매우 중요. 매일 업데이트되는 정보이므로 포함.",
+      "event_info": "{'date': None, 'location': '방콕 전역', 'price': '무료', 'location_google_map_query': '방콕 냉방 센터'}",
+      "references": [
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "2:15",
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+      "source": ""
+    },
+    {
+      "title": "태국, 세계에서 가장 혼란스러운 주류법으로 관광객 혼란 야기",
+      "summary": "- 태국의 주류 규제는 복잡하고 예측 불가능하여 관광객에게 혼란을 주고 있습니다.\n- 특정 시간대에만 주류 판매가 허용되며, 위반 시 벌금이 부과될 수 있습니다.\n- 관광객들은 이러한 규정을 숙지하고 현지 문화를 존중하는 것이 중요합니다.",
+      "full_translated": "태국은 세계에서 가장 혼란스러운 주류법을 가지고 있으며, 관광객들은 완전히 혼란스러워하고 있습니다. 복잡한 규정으로 인해 관광객들이 불편을 겪고 있으며, 법을 준수하는 데 어려움을 겪고 있습니다. 주류 판매 시간 제한, 특정 장소에서의 음주 금지 등 다양한 규제가 존재하며, 위반 시 벌금이 부과될 수 있습니다. 관광객들은 태국의 주류 관련 법규를 미리 숙지하고 현지 문화를 존중하는 것이 중요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7.0,
+      "impact_reason": "태국의 주류법은 관광객에게 혼란을 줄 수 있으며, 규정 위반으로 인한 불이익을 방지하기 위해 정보를 제공합니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand Has the Most Confusing Alcohol Law in the World, Tourists Are Totally Lost - Yahoo",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVDd2Y3RTRENZSTFRY1VVa29XUzVIcmpaRkxLOHd5VEd2RnJ6cWdTUk1wZFMzX052TENpZUxWNlNjQUV3OXJxTXRVUFhySTJEVWh5QVRjLU9CUDFYVUFWQmM2M1V1WGNQYVVOeGVKOVJvcG1vc01UUkZfNFFrblNSaGxpR28yNHlVNVRHOEctVW91MHZWWFE?oc=5",
+          "source": "Yahoo",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "2:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVDd2Y3RTRENZSTFRY1VVa29XUzVIcmpaRkxLOHd5VEd2RnJ6cWdTUk1wZFMzX052TENpZUxWNlNjQUV3OXJxTXRVUFhySTJEVWh5QVRjLU9CUDFYVUFWQmM2M1V1WGNQYVVOeGVKOVJvcG1vc01UUkZfNFFrblNSaGxpR28yNHlVNVRHOEctVW91MHZWWFE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야 남부 주민, 교통 체증, 청소년 오토바이 경주, 떠돌이 개 문제로 안전 문제 제기",
+      "summary": "- 파타야 남부에서 교통 체증, 청소년 오토바이 경주, 떠돌이 개로 인해 안전 문제가 제기됨.\n- 이는 여행자와 관광객에게 영향을 미침.\n- 관련 기관의 신속한 해결이 필요함.",
+      "full_translated": "파타야 남부 주민들이 교통 체증, 청소년 오토바이 경주, 떠돌이 개 문제로 안전에 대한 우려를 제기하고 있습니다. 이는 여행자와 관광객에게 영향을 미치고 있어 주의가 필요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7.0,
+      "impact_reason": "파타야 지역의 안전 문제 발생. 여행객에게 잠재적 위험 요소 존재. 교통 혼잡, 사고 위험, 동물 관련 문제 등.",
+      "event_info": "{'date': None, 'location': '파타야 남부', 'price': None, 'location_google_map_query': '파타야 남부'}",
+      "references": [
+        {
+          "title": "Thailand Safety Alert as South Pattaya Residents Raise Concerns Over Traffic, Youth Motorcycle Racing, and Stray Dogs Impacting Travelers and Tourists – New Update You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPM1FhQVI1Y1VTY3BaYXptS3JzQmNaWWU5QVY0dEctenBxZjdIZzlySWszUWUzNTFHS1hrbkZzanAtRE5zeGJCY0s0T1FOSDNsMjZWUW81WkhEbTNRSzJpTk1oRGhlSGwwOFJyc25EcVgwZnlJRnFNQW1WcElxZ3lnTkxUU09Bdk1rcVo4el9MNWlxbHJNNG1WMFlPZGU2NTRXdE1HNmQyX2U0N3JWcF9EYWRheXdBdXRMal9jbTB0aTdxZjU0clhhUnRvb3NJd3ZqX2tsYTM1enJHZF9UWTZnb1lCM3gyWDNiT0lHOU5sNGJDT1p6ZnpKUGtQekU3NVN6UDJqXzcxOU1EWjZYV1ktU1IyeWlSTmFodWJJSWNqZ1NOWkxZd3Zrb0wxNHpmVEt1REFHcmliQ1VUMTZXcFgxazlwOWs5TjE3?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "2:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPM1FhQVI1Y1VTY3BaYXptS3JzQmNaWWU5QVY0dEctenBxZjdIZzlySWszUWUzNTFHS1hrbkZzanAtRE5zeGJCY0s0T1FOSDNsMjZWUW81WkhEbTNRSzJpTk1oRGhlSGwwOFJyc25EcVgwZnlJRnFNQW1WcElxZ3lnTkxUU09Bdk1rcVo4el9MNWlxbHJNNG1WMFlPZGU2NTRXdE1HNmQyX2U0N3JWcF9EYWRheXdBdXRMal9jbTB0aTdxZjU0clhhUnRvb3NJd3ZqX2tsYTM1enJHZF9UWTZnb1lCM3gyWDNiT0lHOU5sNGJDT1p6ZnpKUGtQekU3NVN6UDJqXzcxOU1EWjZYV1ktU1IyeWlSTmFodWJJSWNqZ1NOWkxZd3Zrb0wxNHpmVEt1REFHcmliQ1VUMTZXcFgxazlwOWs5TjE3?oc=5",
+      "source": ""
+    },
+    {
+      "title": "젯스타 항공 및 바틱 에어 말레이시아, 멜버른, 시드니, 쿠알라룸푸르행 주요 항공편 3편 취소로 태국 여행 혼란 발생",
+      "summary": "- 젯스타 항공과 바틱 에어 말레이시아의 항공편 취소로 태국 여행에 차질이 발생했습니다.\n- 멜버른, 시드니, 쿠알라룸푸르행 주요 노선에 영향을 미치고 있습니다.\n- 해당 항공편을 이용하려던 여행객들은 항공사에 문의하여 대체편을 확인해야 합니다.",
+      "full_translated": "젯스타 항공과 바틱 에어 말레이시아가 멜버른, 시드니, 쿠알라룸푸르행 주요 항공편 3편을 취소하면서 태국 여행에 혼란이 발생했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7.0,
+      "impact_reason": "항공편 취소는 여행 일정에 직접적인 영향을 미치므로 여행객에게 중요한 정보입니다. 특히 연결편을 이용하는 경우 더욱 주의가 필요합니다.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Jetstar Airways and Batik Air Malaysia Spark Travel Disruption in Thailand as Three Key Flights Are Cancelled Affecting Routes to Melbourne, Sydney, and Kuala Lumpur - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeGtTaFZIaUhITlYzdVhYeDladjJmWVhCRFMwdkxHM0VxTWd3V3V0TzE0X0l5RUFCcHBXcmdpT0N2VmEwNC1VTmJVWHdMU01QREVmRXBUM3hIT1pXOVBPZVdsVDgwQjdYVnRIeDczSk9mQzRmWnRBb1VIcV9IX3lfeHptSzVGT0pXQndxSjBFcVpsZDRKX1l0dVo1VUJVY1dqNTgyRzNJaHVyVE9hdVh0MmY2OUZRanRSdmNDWmdsajh2NFhSMENXSktCTTgweXdmU1YtTmJLbllKQ2hfTW8xa3Vnaldha2JVLXBGaTdNX1pPYktyS0hRRnZXVklCZ2NheTJySVI0TXlHU1dTN3ZVVFc5SXV0VGVXcDNjZEl5MVBVNnVFMnIwZnJEZzQxOUVWZk5DaE82RQ?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "2:15",
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeGtTaFZIaUhITlYzdVhYeDladjJmWVhCRFMwdkxHM0VxTWd3V3V0TzE0X0l5RUFCcHBXcmdpT0N2VmEwNC1VTmJVWHdMU01QREVmRXBUM3hIT1pXOVBPZVdsVDgwQjdYVnRIeDczSk9mQzRmWnRBb1VIcV9IX3lfeHptSzVGT0pXQndxSjBFcVpsZDRKX1l0dVo1VUJVY1dqNTgyRzNJaHVyVE9hdVh0MmY2OUZRanRSdmNDWmdsajh2NFhSMENXSktCTTgweXdmU1YtTmJLbllKQ2hfTW8xa3Vnaldha2JVLXBGaTdNX1pPYktyS0hRRnZXVklCZ2NheTJySVI0TXlHU1dTN3ZVVFc5SXV0VGVXcDNjZEl5MVBVNnVFMnIwZnJEZzQxOUVWZk5DaE82RQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 항공 허브 구상",
+      "summary": "- 태국이 항공 허브로 도약하기 위한 계획을 추진 중입니다.\n- 구체적인 내용과 목표는 아직 공개되지 않았습니다.\n- 향후 관련 발표를 주시해야 합니다.",
+      "full_translated": "태국 항공 허브 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5.0,
+      "impact_reason": "여행객들의 환승 편의성 및 항공편 증가 가능성. 구체적인 계획 발표 시 업데이트 필요.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand aviation hub - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tdV9rXzFKOXBhUzUtZzAyLVZRck1TX1gtQ1A3aFZiWnlNYWFQczR4dndwWlcyOFpjZVpTYmVPWE50T2VSR2c0NFd6SE5obmJzRng0T1J6ck1tRm5GVWlOMDhnVGVRd28yVmtBeS0wdnliaDJ1NjZOVk5GWVVnR3M?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "2:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tdV9rXzFKOXBhUzUtZzAyLVZRck1TX1gtQ1A3aFZiWnlNYWFQczR4dndwWlcyOFpjZVpTYmVPWE50T2VSR2c0NFd6SE5obmJzRng0T1J6ck1tRm5GVWlOMDhnVGVRd28yVmtBeS0wdnliaDJ1NjZOVk5GWVVnR3M?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕, 폭염 대비 255개 냉방 센터 운영 (최신 업데이트)",
+      "summary": "- 방콕 전역에 255개의 냉방 센터가 운영 중입니다.\n- 폭염으로부터 주민과 여행객을 보호하기 위한 조치입니다.\n- 냉방 센터 위치를 확인하고 더위를 피하세요.",
+      "full_translated": "방콕시는 기록적인 폭염으로부터 주민과 여행객을 보호하기 위해 255개의 냉방 센터를 운영하고 있습니다. 이 센터들은 더위를 피하고 휴식을 취할 수 있는 안전한 장소를 제공합니다. 위치 정보는 관련 기관을 통해 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "폭염이 지속됨에 따라 여행객 안전에 중요한 정보이며, 냉방 센터 운영 현황에 대한 최신 업데이트를 제공하므로 포함.",
       "event_info": {
         "date": null,
         "location": "방콕 전역",
@@ -3777,20 +3885,20 @@
       "references": [
         {
           "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
-          "url": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+          "url": "https://travelandtourworld.com/news/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "02:15",
+      "collected_at": "02:39",
       "date": "2026-03-01"
     },
     {
-      "title": "태국, 세계에서 가장 혼란스러운 주류법으로 관광객 혼란 야기",
-      "summary": "- 태국의 주류 규제는 복잡하고 예측 불가능하여 관광객에게 혼란을 주고 있습니다.\n- 특정 시간대에만 주류 판매가 허용되며, 위반 시 벌금이 부과될 수 있습니다.\n- 관광객들은 이러한 규정을 숙지하고 현지 문화를 존중하는 것이 중요합니다.",
-      "full_translated": "태국은 세계에서 가장 혼란스러운 주류법을 가지고 있으며, 관광객들은 완전히 혼란스러워하고 있습니다. 복잡한 규정으로 인해 관광객들이 불편을 겪고 있으며, 법을 준수하는 데 어려움을 겪고 있습니다. 주류 판매 시간 제한, 특정 장소에서의 음주 금지 등 다양한 규제가 존재하며, 위반 시 벌금이 부과될 수 있습니다. 관광객들은 태국의 주류 관련 법규를 미리 숙지하고 현지 문화를 존중하는 것이 중요합니다.",
+      "title": "태국, 팬데믹 이전 수준 넘어선 항공 여행객 증가 - CAAT 보고",
+      "summary": "- 태국 항공 당국(CAAT) 보고에 따르면, 항공 여행객 수가 팬데믹 이전 수준을 넘어섰습니다.\n- 이는 태국 관광 산업 회복의 긍정적인 신호로 해석됩니다.\n- 자세한 데이터 및 분석은 보고서 전문을 참고하십시오.",
+      "full_translated": "태국 항공 당국(CAAT)의 보고에 따르면, 휴가철을 맞아 태국의 항공 여행객 수가 팬데믹 이전 수준을 넘어섰습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
-      "impact_reason": "태국의 주류법은 관광객에게 혼란을 줄 수 있으며, 규정 위반으로 인한 불이익을 방지하기 위해 정보를 제공합니다.",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 회복세에 대한 정보 제공. 여행 관련 데이터 업데이트.",
       "event_info": {
         "date": null,
         "location": null,
@@ -3799,86 +3907,13 @@
       },
       "references": [
         {
-          "title": "Thailand Has the Most Confusing Alcohol Law in the World, Tourists Are Totally Lost - Yahoo",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVDd2Y3RTRENZSTFRY1VVa29XUzVIcmpaRkxLOHd5VEd2RnJ6cWdTUk1wZFMzX052TENpZUxWNlNjQUV3OXJxTXRVUFhySTJEVWh5QVRjLU9CUDFYVUFWQmM2M1V1WGNQYVVOeGVKOVJvcG1vc01UUkZfNFFrblNSaGxpR28yNHlVNVRHOEctVW91MHZWWFE?oc=5",
-          "source": "Yahoo",
+          "title": "Holiday flyers lift Thailand’s skies above pre-pandemic levels, CAAT reports - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc3U3X0NKN1FMT0RkSlRrdDdlVlhrRHZycXN5dnoyVHRjbXJPOTlWY1V3UXNBX2dPOEg2XzM4NkdPTHBKdnRVMVRBeXJmaWVZb3lmV1liejdGaERVcl92X3VQTGxxMzNab3RIcjY0MDU2dGlDcXBLcjBLcllRbVZlMVNsbDRMMEtDb1g4WFBoRTNvT09neG54MWJ0NVk2TUNJR01xVGtCX0UwcWE0UHpGanE2SXY?oc=5",
+          "source": "Pattaya Mail",
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:15",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
-    },
-    {
-      "title": "파타야 남부 주민, 교통 체증, 청소년 오토바이 경주, 떠돌이 개 문제로 안전 문제 제기",
-      "summary": "- 파타야 남부에서 교통 체증, 청소년 오토바이 경주, 떠돌이 개로 인해 안전 문제가 제기됨.\n- 이는 여행자와 관광객에게 영향을 미침.\n- 관련 기관의 신속한 해결이 필요함.",
-      "full_translated": "파타야 남부 주민들이 교통 체증, 청소년 오토바이 경주, 떠돌이 개 문제로 안전에 대한 우려를 제기하고 있습니다. 이는 여행자와 관광객에게 영향을 미치고 있어 주의가 필요합니다.",
-      "category": "TRAVEL",
-      "tourist_impact_score": 7,
-      "impact_reason": "파타야 지역의 안전 문제 발생. 여행객에게 잠재적 위험 요소 존재. 교통 혼잡, 사고 위험, 동물 관련 문제 등.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 남부",
-        "price": null,
-        "location_google_map_query": "파타야 남부"
-      },
-      "references": [
-        {
-          "title": "Thailand Safety Alert as South Pattaya Residents Raise Concerns Over Traffic, Youth Motorcycle Racing, and Stray Dogs Impacting Travelers and Tourists – New Update You Need to Know - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPM1FhQVI1Y1VTY3BaYXptS3JzQmNaWWU5QVY0dEctenBxZjdIZzlySWszUWUzNTFHS1hrbkZzanAtRE5zeGJCY0s0T1FOSDNsMjZWUW81WkhEbTNRSzJpTk1oRGhlSGwwOFJyc25EcVgwZnlJRnFNQW1WcElxZ3lnTkxUU09Bdk1rcVo4el9MNWlxbHJNNG1WMFlPZGU2NTRXdE1HNmQyX2U0N3JWcF9EYWRheXdBdXRMal9jbTB0aTdxZjU0clhhUnRvb3NJd3ZqX2tsYTM1enJHZF9UWTZnb1lCM3gyWDNiT0lHOU5sNGJDT1p6ZnpKUGtQekU3NVN6UDJqXzcxOU1EWjZYV1ktU1IyeWlSTmFodWJJSWNqZ1NOWkxZd3Zrb0wxNHpmVEt1REFHcmliQ1VUMTZXcFgxazlwOWs5TjE3?oc=5",
-          "source": "Travel And Tour World",
-          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-        }
-      ],
-      "collected_at": "02:15",
-      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
-    },
-    {
-      "title": "젯스타 항공 및 바틱 에어 말레이시아, 멜버른, 시드니, 쿠알라룸푸르행 주요 항공편 3편 취소로 태국 여행 혼란 발생",
-      "summary": "- 젯스타 항공과 바틱 에어 말레이시아의 항공편 취소로 태국 여행에 차질이 발생했습니다.\n- 멜버른, 시드니, 쿠알라룸푸르행 주요 노선에 영향을 미치고 있습니다.\n- 해당 항공편을 이용하려던 여행객들은 항공사에 문의하여 대체편을 확인해야 합니다.",
-      "full_translated": "젯스타 항공과 바틱 에어 말레이시아가 멜버른, 시드니, 쿠알라룸푸르행 주요 항공편 3편을 취소하면서 태국 여행에 혼란이 발생했습니다.",
-      "category": "TRAVEL",
-      "tourist_impact_score": 7,
-      "impact_reason": "항공편 취소는 여행 일정에 직접적인 영향을 미치므로 여행객에게 중요한 정보입니다. 특히 연결편을 이용하는 경우 더욱 주의가 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
-      "references": [
-        {
-          "title": "Jetstar Airways and Batik Air Malaysia Spark Travel Disruption in Thailand as Three Key Flights Are Cancelled Affecting Routes to Melbourne, Sydney, and Kuala Lumpur - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOeGtTaFZIaUhITlYzdVhYeDladjJmWVhCRFMwdkxHM0VxTWd3V3V0TzE0X0l5RUFCcHBXcmdpT0N2VmEwNC1VTmJVWHdMU01QREVmRXBUM3hIT1pXOVBPZVdsVDgwQjdYVnRIeDczSk9mQzRmWnRBb1VIcV9IX3lfeHptSzVGT0pXQndxSjBFcVpsZDRKX1l0dVo1VUJVY1dqNTgyRzNJaHVyVE9hdVh0MmY2OUZRanRSdmNDWmdsajh2NFhSMENXSktCTTgweXdmU1YtTmJLbllKQ2hfTW8xa3Vnaldha2JVLXBGaTdNX1pPYktyS0hRRnZXVklCZ2NheTJySVI0TXlHU1dTN3ZVVFc5SXV0VGVXcDNjZEl5MVBVNnVFMnIwZnJEZzQxOUVWZk5DaE82RQ?oc=5",
-          "source": "Travel And Tour World"
-        }
-      ],
-      "collected_at": "02:15",
-      "date": "2026-03-01"
-    },
-    {
-      "title": "태국 항공 허브 구상",
-      "summary": "- 태국이 항공 허브로 도약하기 위한 계획을 추진 중입니다.\n- 구체적인 내용과 목표는 아직 공개되지 않았습니다.\n- 향후 관련 발표를 주시해야 합니다.",
-      "full_translated": "태국 항공 허브 - Travel And Tour World",
-      "category": "TRAVEL",
-      "tourist_impact_score": 5,
-      "impact_reason": "여행객들의 환승 편의성 및 항공편 증가 가능성. 구체적인 계획 발표 시 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
-      "references": [
-        {
-          "title": "Thailand aviation hub - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tdV9rXzFKOXBhUzUtZzAyLVZRck1TX1gtQ1A3aFZiWnlNYWFQczR4dndwWlcyOFpjZVpTYmVPWE50T2VSR2c0NFd6SE5obmJzRng0T1J6ck1tRm5GVWlOMDhnVGVRd28yVmtBeS0wdnliaDJ1NjZOVk5GWVVnR3M?oc=5",
-          "source": "Travel And Tour World",
-          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
-        }
-      ],
-      "collected_at": "02:15",
+      "collected_at": "02:39",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
