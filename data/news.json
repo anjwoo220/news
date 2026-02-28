@@ -1196,14 +1196,9 @@
       "summary": "- 태국 기상청, 3월 3~6일 북부 지역에 여름 폭풍 발생 예고\n- 폭풍, 강풍, 우박, 폭우 및 번개 동반 가능성\n- 야외 활동 자제, 농작물 및 가축 피해 대비 필요",
       "full_translated": "태국 기상청은 3월 3일부터 6일까지 태국 북부 지역에 여름 폭풍이 발생할 수 있다고 발표했습니다. 폭풍은 동북부 지역에서 시작하여 동부, 중부, 방콕 및 수도권, 북부 지역에 영향을 미칠 것으로 예상됩니다. 폭풍, 강풍, 우박, 폭우 및 번개가 동반될 수 있습니다. 기상청은 해당 지역 주민들에게 야외 활동을 자제하고, 큰 나무 아래나 불안정한 건물 및 광고판 근처에 머무르지 않도록 당부했습니다. 농부들은 과일 나무를 강화하고 농작물과 가축에 대한 잠재적 손실에 대비해야 합니다. 또한 기상 조건 변화에 따른 건강 관리에도 유의해야 합니다. 자세한 내용은 태국 기상청 웹사이트(https://www.tmd.go.th) 또는 전화 0-2399-4012-13 및 1182를 통해 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 날씨 정보이며, 단기 여행 일정에 차질을 빚을 가능성이 있어 포함. 매일 업데이트되는 일기 예보의 중요성을 고려.",
-      "event_info": {
-        "date": "2025-03-03~2025-03-06",
-        "location": "태국 북부 지역",
-        "price": null,
-        "location_google_map_query": "태국 북부"
-      },
+      "event_info": "{'date': '2025-03-03~2025-03-06', 'location': '태국 북부 지역', 'price': None, 'location_google_map_query': '태국 북부'}",
       "references": [
         {
           "title": "ประกาศฉบับ 1 เตือน \"พายุฤดูร้อน\" บริเวณไทยตอนบน มีผลกระทบช่วง 3-6 มี.ค. 69",
@@ -1214,21 +1209,18 @@
       ],
       "collected_at": "12:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVjXiOKYkJMJ5.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/2917009",
+      "source": ""
     },
     {
       "title": "방콕 노점상들의 삶: 거리에서 살아가는 이야기",
       "summary": "- 방콕의 노점상들은 오랫동안 도시의 심장과 같은 역할을 해왔으며, 많은 국제 여행 블로그와 관광 순위에서 거리 음식 문화로 인정받고 있습니다.\n- 그러나 노점상들은 보행자 통행로 확보 및 위생 규정 시행을 위한 방콕 수도청(BMA)의 프로그램으로 인해 어려움을 겪고 있습니다.\n- 2017년부터 BMA는 실롬, 사라신, 위타유 도로와 같은 주요 경로를 따라 250개 이상의 노점 구역을 제거하고 싱가포르 모델의 호커 센터를 대안으로 개발했습니다.",
       "full_translated": "방콕 노점상: 거리에서 살아가는 이야기\n\n매일 도시를 먹여 살리는 것은 많은 사람들에게 긴 시간과 낮은 수익을 의미합니다.\n\n수십 년 동안 길거리 음식은 방콕의 심장이었습니다. 사무실 직원, 일용직 노동자, 밤에 돌아다니는 사람들 모두에게 먹을거리를 제공했습니다. 붐비는 도로와 골목길은 오랫동안 이 도시의 친숙한 모습이었으며, 많은 국제 여행 블로그와 관광 순위에서 길거리 음식 문화로 인정받았습니다. 그러나 이 직업에 종사하는 사람들은 반복되는 어려움에 직면했습니다. 방콕 포스트는 도시 주변의 길거리 음식 상인들의 이야기를 듣고 있습니다. 조용한 일상에 새겨져 있지만 국가의 더 큰 이야기에 메아리치는 이야기들입니다.\n\nSivarod는 Khlong Toey에 있는 Hia Hui Soy Milk의 2세대 소유주이며, 40년 이상 고객에게 서비스를 제공해 왔습니다. 이 가게는 한때 Ratchadaphisek Road의 보도에 있었지만 최근 도시 규정에 따라 약 450미터 떨어진 곳으로 이전해야 했습니다. 2017년에 시작된 보행자 통행로를 확보하고 위생 규칙을 시행하기 위한 프로그램에 따라 방콕 수도청(BMA)은 실롬, 사라신, 위타유 도로와 같은 주요 경로를 따라 250개 이상의 노점 구역을 제거하고 싱가포르 모델의 호커 센터를 대안으로 개발했습니다. Sivarod(42세)는 매일 아침 일찍 Khlong Toey에서 Hia Hui Soy Milk를 열고 매일 오후 8시 30분까지 운영합니다. 42세의 가게 주인은 \"거의 1년 전에 내부 시장 지역으로 이사했습니다.\"라고 말했습니다. \"하지만 당시 당국은 우리에게 고객에게 알릴 충분한 시간을 주지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "방콕 길거리 음식 문화에 대한 정보는 여행자들에게 유용할 수 있지만, 노점상들의 어려움은 일반적인 정보에 해당합니다.",
-      "event_info": {
-        "date": null,
-        "location": "Khlong Toey, Bangkok",
-        "price": null,
-        "location_google_map_query": "Khlong Toey Bangkok street food"
-      },
+      "event_info": "{'date': None, 'location': 'Khlong Toey, Bangkok', 'price': None, 'location_google_map_query': 'Khlong Toey Bangkok street food'}",
       "references": [
         {
           "title": "Bangkok vendors: lives on the streetfront",
@@ -1239,21 +1231,18 @@
       ],
       "collected_at": "12:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206998_260228112138_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/life/social-and-lifestyle/3206998/bangkok-vendors-lives-on-the-streetfront",
+      "source": ""
     },
     {
       "title": "13세 백혈병 소년, 교통사고 후 어려운 가정 환경에 놓여: 시민들의 도움 절실",
       "summary": "- 13세 소년이 백혈병 투병 중 교통사고를 당해 병원에 입원.\n- 어려운 가정 형편으로 인해 치료와 생계 유지가 어려운 상황.\n- 시민들의 도움의 손길이 필요한 상황이며, 지역 사회의 지원이 절실.",
       "full_translated": "13세 소년이 백혈병으로 고통받던 중 교통사고를 당해 더욱 어려운 상황에 놓였습니다. 소년의 가족은 극심한 빈곤에 시달리고 있으며, 거동이 불편한 할머니와 팔다리가 마비된 친척과 함께 병원 근처 건물에서 거주하고 있습니다. 최근 자원봉사 단체가 나콘시탐마랏 부지사에게 연락하여 지원을 요청했습니다. 2월 28일, 자원봉사 페이지 \"ตัวเล็ก พิทักษ์ชีพ\"는 13세 소년이 교통사고로 중상을 입고 마하라트 나콘시탐마랏 병원에서 치료를 받고 있다는 제보를 받았습니다. 소년은 심한 상처와 부종으로 신원을 확인하기 어려웠으나, 의료진의 도움으로 17세 형이 소년을 방문하여 간호할 수 있었습니다. 2월 26일 저녁, 의료진은 소년이 퇴원하여 집에서 회복할 수 있도록 허락했습니다. 하지만 자원봉사자들이 소년을 집에 데려다 줬을 때, 그곳은 월세 500바트의 작은 집으로, 수도와 전기가 없고 기본적인 편의 시설조차 갖춰지지 않았습니다. 80세에 가까운 할머니는 병상에 누워 있었고, 50세가 넘은 친척 중 한 명은 팔다리가 마비되어 일을 할 수 없었습니다. 2월 27일, 자원봉사자들이 소년의 가족을 방문했을 때 소년이 충격으로 의식을 잃었고, 자원봉사자들은 소년을 타살라 병원으로 이송하여 응급 치료를 받게 했습니다. 소년은 의식을 회복했고 생명에는 지장이 없는 상태입니다. 자원봉사자들은 나콘시탐마랏 부지사와 사회복지 담당자에게 이 불우한 가정에 대한 지원을 요청했습니다.\n\n13세 소년이 백혈병으로 고통받던 중 교통사고를 당해 더욱 어려운 상황에 놓였습니다. 소년의 가족은 극심한 빈곤에 시달리고 있으며, 거동이 불편한 할머니와 팔다리가 마비된 친척과 함께 병원 근처 건물에서 거주하고 있습니다. 최근 자원봉사 단체가 나콘시탐마랏 부지사에게 연락하여 지원을 요청했습니다. 2월 28일, 자원봉사 페이지 \"뚜알렉 피탁칩\"는 13세 소년이 교통사고로 중상을 입고 마하라트 나콘시탐마랏 병원에서 치료를 받고 있다는 제보를 받았습니다. 소년은 심한 상처와 부종으로 신원을 확인하기 어려웠으나, 의료진의 도움으로 17세 형이 소년을 방문하여 간호할 수 있었습니다. 2월 26일 저녁, 의료진은 소년이 퇴원하여 집에서 회복할 수 있도록 허락했습니다. 하지만 자원봉사자들이 소년을 집에 데려다 줬을 때, 그곳은 월세 500바트의 작은 집으로, 수도와 전기가 없고 기본적인 편의 시설조차 갖춰지지 않았습니다. 80세에 가까운 할머니는 병상에 누워 있었고, 50세가 넘은 친척 중 한 명은 팔다리가 마비되어 일을 할 수 없었습니다. 2월 27일, 자원봉사자들이 소년의 가족을 방문했을 때 소년이 충격으로 의식을 잃었고, 자원봉사자들은 소년을 타살라 병원으로 이송하여 응급 치료를 받게 했습니다. 소년은 의식을 회복했고 생명에는 지장이 없는 상태입니다. 자원봉사자들은 나콘시탐마랏 부지사와 사회복지 담당자에게 이 불우한 가정에 대한 지원을 요청했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 사회 문제 관련 뉴스. 여행 자체에 직접적인 영향은 없으나, 여행 중 마주칠 수 있는 사회적 현실을 보여주므로 정보를 제공.",
-      "event_info": {
-        "date": null,
-        "location": "나콘시탐마랏",
-        "price": null,
-        "location_google_map_query": "나콘시탐마랏"
-      },
+      "event_info": "{'date': None, 'location': '나콘시탐마랏', 'price': None, 'location_google_map_query': '나콘시탐마랏'}",
       "references": [
         {
           "title": "เปิดชีวิตทรหด เด็กชาย 13 ปี ป่วยมะเร็งเม็ดเลือดขาว ถูกรถชน ครอบครัวสุดยากไร้",
@@ -1264,21 +1253,18 @@
       ],
       "collected_at": "12:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpt91hyfGhV8z.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/south/2916976",
+      "source": ""
     },
     {
       "title": "볼리비아, 현금 수송 군용기 추락으로 최소 15명 사망",
       "summary": "- 볼리비아 라파스 인근에서 현금을 가득 실은 군용 수송기가 추락해 최소 15명 사망.\n- 사고 현장에는 지폐가 흩어져 경찰이 접근을 막고 있음.\n- 사고 원인은 즉시 밝혀지지 않았으나 우박과 번개를 동반한 악천후가 원인으로 추정됨.",
       "full_translated": "볼리비아에서 현금을 가득 실은 군용 수송기가 추락하여 최소 15명이 사망했습니다. 경찰은 흩어진 지폐를 줍기 위해 달려드는 사람들을 막기 위해 최루탄을 사용했습니다. \n\n**사고 개요:**\n라파스 – 금요일, 볼리비아 군용 화물기가 수도 라파스 근처에 착륙하던 중 추락하여 최소 15명이 사망했다고 당국이 밝혔습니다. 항공기는 중앙 은행에서 다른 도시로 새 지폐를 수송하고 있었고 사고 현장에 많은 지폐가 흩어져 있었습니다. C-130 허큘리스 수송기는 엘알토 국제공항 활주로에서 벗어나 도로로 추락하여 여러 대의 차량을 파괴하고 트럭을 손상시켰습니다.\n\n**사고 당시 상황:**\n목격자들은 당시 날씨가 좋지 않았다고 말했습니다. 크리스티나 초케는 “심한 우박이 내리고 번개가 치고 있었다”고 AFP에 말했습니다. 그녀의 차는 항공기 잔해에 부딪혔습니다. 그녀는 “타이어가 우리 위에 떨어졌습니다… 내 딸이 머리에 부상을 입었습니다.”라고 덧붙였습니다.\n\n**사망자 정보:**\n국가 소방서의 파벨 토바르 대령은 기자들에게 “이번 재난으로 15~16명의 사망자가 발생한 것으로 집계되었습니다.”라고 말했습니다. 국방부는 추락 사고를 확인했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "사건/사고 소식. 여행객 안전에 직접적인 위협은 아니지만 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "15 dead as cash-packed plane crashes in Bolivia",
@@ -1289,21 +1275,18 @@
       ],
       "collected_at": "12:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206984_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/world/3206984/15-dead-as-cashpacked-plane-crashes-in-bolivia",
+      "source": ""
     },
     {
       "title": "수린 지역, 군인 지뢰 사고: 부사령관 위문 방문",
       "summary": "- 수라나리 부사령관, 수린 주 에라완 기지에서 지뢰를 밟아 부상당한 군인 데차삭을 위문 방문.\n- 부사령관은 부상병에게 위로와 격려를 전하고 지원금을 전달하며, 최대한의 지원을 약속.\n- 사고는 국경 수비 임무 중 발생했으며, 데차삭은 이 사고로 다리를 잃었습니다.",
       "full_translated": "수라나리 부사령관은 '데차삭' 일병을 위문 방문하여 격려했습니다. 그는 수린 주 에라완 작전 기지에서 지뢰를 밟아 다리를 잃었습니다. 2026년 2월 27일 18시, 분서름 분밤룽 수라나리 부사령관은 나탇웃 캄피라논 23연대 3대대장과 함께 로이 소속 현역 군인 데차삭 트리캄 일병의 부상 정도를 방문했습니다. 233(R.23 พัน.3)은 에라완 작전 기지, 돈 타운십, '깝 츠엉' 지역, 수린 지방에서 근무 중 부상을 입었습니다. 그는 주권 보호 임무를 수행하던 중 지뢰를 밟아 오른쪽 다리를 잃었습니다. 이 행사에서 수라나리 부사령관은 사령관의 우려를 전달하고, 데차삭과 그의 가족에게 사기를 북돋아주고 격려하기 위해 사기를 진작시키는 물건과 초기 지원금을 전달했습니다. 태국 땅을 보호하는 임무를 수행하는 '용감한 군인'에게 최대한의 노력을 기울여 칭찬을 보내고 모든 군인을 최대한 잘 돌볼 준비가 되어 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국경 지역의 안전 문제를 간접적으로 시사하며, 여행객에게 주의를 환기시키는 차원에서 포함. 하지만 여행 관련성이 낮아 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "수린 주 에라완 기지",
-        "price": null,
-        "location_google_map_query": "에라완 기지 수린"
-      },
+      "event_info": "{'date': None, 'location': '수린 주 에라완 기지', 'price': None, 'location_google_map_query': '에라완 기지 수린'}",
       "references": [
         {
           "title": "รอง ผบ.กกล.สุรนารี เยี่ยมให้กำลังใจ \"พลทหารเดชศักดิ์\" เหยียบทุ่นระเบิดบาดเจ็บ",
@@ -1314,6 +1297,131 @@
       ],
       "collected_at": "12:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYlDwFrTIn3fp6.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/northeast/2916997",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 초 600만 명 관광객 유치 예상, 파타야, 방콕, 푸켓 활성화",
+      "summary": "- 태국은 2026년 초에 일본, 중국, 말레이시아, 인도, 러시아, 한국 등에서 온 약 600만 명의 관광객을 유치할 것으로 예상됩니다.\n- 이는 전례 없는 관광 급증을 의미하며 파타야, 방콕, 푸켓과 같은 지역을 활성화할 것입니다.\n- 관광 산업의 회복은 태국 경제에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "full_translated": "일본, 중국, 말레이시아, 인도, 러시아, 한국 등이 태국에 합류하여 2026년 초에 거의 6백만 명의 방문객을 맞이하며, 이는 전례 없는 관광 급증을 나타내고 파타야, 방콕, 푸켓을 활성화합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "2026년 초 관광객 유치 예상치는 여행객들에게 태국 방문 시 혼잡도 및 관광 인프라 이용에 대한 정보를 제공하므로 유의미하며, 파타야, 방콕, 푸켓 등 주요 도시의 관광 활성화 정보를 제공한다.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "파타야, 방콕, 푸켓",
+        "price": "정보 없음",
+        "location_google_map_query": "파타야, 방콕, 푸켓 관광 명소"
+      },
+      "references": [
+        {
+          "title": "Japan Joins China, Malaysia, India, Russia, South Korea, and More as Thailand Sees Nearly Six Million Visitors in Early 2026, Marking an Unprecedented Tourism Surge and Revitalizing Pattaya, Bangkok, and Phuket - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxQNUdtOGZxX0NwMjJtYkdVdkRkc2xsUDlHcDJUcld6QVl6T1p5dFNDQ2ZIU2M3QkJWcmswdkZodkVuQncyRGdfZnJhbmJ0STNqLUJNek1aT2VXbFk1UUpPUG1FM1ZGdVNPWjY3cDZoR2RfVUUxbWd3ZFVBY1FJYWZ3aVBmNmczTGs2Q3IzTFBtYTgwT1FnQVBVRWt3Y0Z5YnZlOHR3bGxwWGpXb2gtNjZxdmJYTlBYWXBZd2xpSEVING9UOTFrUXUwQ2poSVhfQWRRdFNCeDYzTlJhbl9vQjkwdDllb2FubkhFVHZCVFFqQWdGdmxlWFVsV3pnZHQ3Qlo3aUtYc3ZyRWU0N2FyMXdFZXphLUZyZDBraERTVkNOTlN4bGZ5b3lKVHBwMnBTaUozanREWUVyUkYtdmllbnhhWnAtMkp2NlFoSHg4NkZ1TnhGYTRpZHhZYW9KOHA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "13:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "치앙마이 은행 사기 시도 적발, 4명 체포",
+      "summary": "- 은행의 신고로 콜센터 사기 연루 의심 계좌 적발.\n- 현금 30만 바트와 관련 물품 압수, 공범 3명 추가 체포.\n- 피해자는 온라인 사기 신고를 통해 30만 바트 송금.",
+      "full_translated": "치앙마이 – 2026년 2월 27일 – 경찰은 은행이 콜센터 사기와 관련된 것으로 의심되는 계좌에 대해 신고한 후 목요일 4명을 체포하고 현금 30만 바트를 압수했다고 당국이 밝혔습니다. 오후 3시 55분경 경찰청 5지구 소속 경찰관들은 끄룽타이 은행 금융범죄팀으로부터 치앙마이 지점의 고객이 30만 바트를 인출하려 한다는 신고를 받고 확인에 나섰습니다. 경찰은 현장에 도착하여 콘캔 출신의 33세 여성 추다 망마가 현금 인출을 시도하는 것을 발견했습니다. 경찰은 현금 30만 바트, 통장, ATM 카드, 휴대폰을 압수했습니다. 그녀는 계좌를 개설하고 돈을 인출하라는 지시를 받았으며 자금은 자신의 것이 아니라고 진술했습니다. 추가 조사 결과, 인근에서 인출을 감시하고 지시한 공범 혐의자 3명을 구금했습니다. 코디네이터로 알려진 27세의 미얀마 국적자 아르 와이, 무국적자를 위한 핑크 카드를 소지한 37세의 미얀마 국적자 피팝(일명 상), 민간인 등록 상태가 없는 25세의 남성 종푸(일명 아푸)입니다. 경찰은 용의자 중 한 명이 1979년 이민법 위반 혐의로 추가 기소됐다고 밝혔습니다. 금융 기록에 따르면 인출 전에 피해자가 해당 계좌로 30만 바트를 이체했습니다. 이 이체는 사라부리 지방에서 접수된 온라인 사기 신고와 관련이 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 대상 사기 가능성 및 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "Chiang Mai",
+        "price": null,
+        "location_google_map_query": "Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Bank alert foils scam, four arrested in Chiang Mai",
+          "url": "https://www.khaosodenglish.com/news/2026/02/28/bank-alert-foils-scam-four-arrested-in-Chiang-Mai/",
+          "source": "Khaosod English"
+        }
+      ],
+      "collected_at": "13:26",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "치앙마이, 학생 비자 만료된 중국인 남성 체포",
+      "summary": "- 치앙마이 이민국 경찰이 학생 비자가 만료된 중국인 남성을 체포했습니다.\n- 해당 남성은 합법적인 체류 기간이 만료된 후 출국 또는 비자 연장을 하지 않았습니다.\n- 그는 현재 경찰에 인계되어 법적 절차가 진행 중입니다.",
+      "full_translated": "치앙마이 – 2026년 2월 28일, 치앙마이 이민국 경찰은 학생 비자 기간을 초과하여 체류한 중국 국적의 남성을 체포했다고 밝혔습니다. 치앙마이 이민국 수사관들은 이민국 제5지역 수사과와 협력하여 외국인이 불법적으로 왕국에 머물고 있다는 제보를 받은 후, 므앙 지역 수텝 하위 지역의 시리망칼라자른 도로를 따라 지역을 조사했습니다. 경찰은 “허가 만료 후 왕국에 남아있는 외국인” 혐의로 중국인 남성 1명을 체포했습니다. 그는 혐의와 법적 권리를 통보받은 후 추가 법적 절차를 위해 푸핑 라차니웻 경찰서 수사관에게 인계되었습니다. 용의자는 태국 공인 교육 기관에서 공부하는 외국인에게 발급되는 Non-ED 비자로 태국에 머물렀다고 인정했습니다. 허가된 체류 기간이 만료된 후 필요한 기간 내에 출국하거나 연장을 신청하지 않아 체포되었다고 당국은 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "비자 관련 규정 위반 사례는 여행객들에게 영향을 줄 수 있으며, 특히 태국 내 체류 시 비자 관리에 대한 중요성을 상기시켜야 하므로 중간 점수를 부여함.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이",
+        "price": null,
+        "location_google_map_query": "치앙마이"
+      },
+      "references": [
+        {
+          "title": "Chiang Mai police arrest Chinese man on expired student visa",
+          "url": "https://www.khaosodenglish.com/news/2026/02/28/chiang-mai-police-arrest-chinese-man-on-expired-student-visa/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Chiang-Mai-police-arrest-Chinese-man-on-expired-student-visa.jpg"
+        }
+      ],
+      "collected_at": "13:26",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Chiang-Mai-police-arrest-Chinese-man-on-expired-student-visa.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 외국인 관광객 및 거주자 대상 요금 인상: 방콕, 아유타야 등 여행 영향",
+      "summary": "- 태국이 외국인 관광객과 거주자를 대상으로 방콕, 아유타야 등 주요 지역에서 더 높은 요금을 부과하고 있습니다.\n- 이는 관광 수입 증대와 지역 경제 활성화를 위한 조치로 풀이됩니다.\n- 여행자는 이러한 요금 인상이 여행 예산과 계획에 미치는 영향을 고려해야 합니다.",
+      "full_translated": "태국의 관광 긴장 고조: 외국인 방문객과 거주자가 방콕, 아유타야 등지에서 더 높은 요금에 직면하는 이유 - 여행객은 여행에 미치는 영향에 대해 알아야 합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광객 관련 요금 인상 정보는 여행자가 예산 계획 시 참고해야 하므로 중요. 다만, 구체적인 인상 폭이나 적용 시점이 명시되지 않아 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 아유타야",
+        "price": "인상된 요금",
+        "location_google_map_query": "방콕 관광 명소, 아유타야 관광 명소"
+      },
+      "references": [
+        {
+          "title": "Thailand’s Growing Tourism Tension: Why Foreign Visitors and Expats Are Facing Higher Fees in Bangkok, Ayutthaya, and Beyond—Everything You Should Know About the Impact on Your Trip - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOU192dHlwQUprRjNtZl8xd29XZEJNSW9wWVFsbF9fbndUQV8yd1E1b1B6b09pMkw0TEdqZzJ5ekkzNDVDbHVXclBENGt2VFFZZkRxUEc4Z2pxdUNEUU1ZWVBlckxiVm5jZWdncHdlU1EyVVVMTHRqUGIzc282cktoZGFKVU1fbU5mZFJ6ZWxxV2lOVzNOOFRhSFdoNGI5OUF5M3NGLU5aUTQ3U0RjNEdEV2VHSkJjcVplX2F0LVV1R0lSSXJNa3g0SkxhME9GZnZoLXZvUmg3NmNuc2psa0tOTC01WjBSQktJOXM0Y3lib0RqVmlDWE5EZTZOa3ZOZ1pvdlN1VTcxRmFjSE9IRS1Sa2luUkx5WlBaVGxwVmFjSnQwMVF2eTNMX2g1SXduYk5VWExsNGZPbnEzUHZHRUFxRWd4Y3ViWEZJeFE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "13:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 선거관리위원회, 언론 및 국민 고소 논란: '입막음' 비판 직면",
+      "summary": "- 태국 선거관리위원회(꼬꼬떠.)가 국민과 언론을 고소하여 '입막음' 시도라는 비판에 직면함.\n- 2월 8일 총선 이후 선관위의 투명성과 효율성에 대한 의혹 제기에 따른 조치임.\n- 팍쁘라차촌은 선관위의 고소가 부당하다고 주장하며 법적 대응을 예고함.",
+      "full_translated": "พรรคประชาชน은 선거관리위원회가 국민과 언론을 고소한 것에 대해 동의하지 않는다는 성명을 발표했습니다. 이는 국민과 언론의 입을 막으려는 시도라고 비판하며, '프릿'이 잘못한 것이 없다고 주장합니다. 만약 허위 고소가 있을 경우 법적 책임을 물을 것이라고 밝혔습니다. 2069년 2월 28일, 팍 쁘라차촌은 성명을 통해 지난 2월 8일 총선 이후 선거 관리가 국민들의 의혹과 비난으로 가득 차 있다고 밝혔습니다. 선관위 웹사이트를 통한 선거 결과 보고 지연 문제, 쓰레기 더미와 유사한 지역에서 투표 용지 발견, 일부 지역에서 투표 용지(쏘쏘. 하/씹엣)와 결과 보고서(쏘쏘. 하/씹뻿) 간의 불일치, 100% 득표율 발표 전에 지역 쏘쏘. 결과 승인, 투표 참여자 수 공개, 일부 지역에서 재집계 후 상당한 득표수 변화, 바코드 선거 용지 설계로 누가 투표했는지 추적 가능 등의 문제가 있었습니다. 지난 1~2주 동안 선관위는 의혹을 제기하는 국민과 언론과 소통하고 질문에 답변하는 대신, 여러 의혹을 해소할 수 없는 일방적인 성명 발표 방식을 택했습니다. 가장 최근인 지난 밤(2월 27일) 선관위는 선거 용지에 대해 선관위를 조사한 국민을 고소하기 위해 범죄 진압 부대에 신고했다는 소식을 확인하는 성명을 발표했습니다. 여기에는 2월 22일 9번 투표소에서 재선거가 치러진 사건도 포함됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 내용으로 직접적인 여행 영향은 적으나, 선거 관련 잡음은 장기적으로 이미지에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปชน. ซัด กกต. เข้าข่ายฟ้องปิดปากประชาชน-สื่อมวลชน พรรคจ่อเอาผิด ปมแจ้งความเท็จ",
+          "url": "https://www.thairath.co.th/news/politic/2917011",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVCbWA4E7uRYA.jpg"
+        }
+      ],
+      "collected_at": "13:26",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVCbWA4E7uRYA.jpg",
       "date": "2026-02-28"
     }
   ]
