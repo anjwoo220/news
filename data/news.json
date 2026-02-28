@@ -1744,14 +1744,9 @@
       "summary": "- 2026년 6월부터 태국 국제선 출발세가 인상될 예정입니다.\n- 인상되는 출발세는 여행객들에게 영향을 미칠 수 있습니다.\n- 여행 전에 필요한 정보를 확인하는 것이 중요합니다.",
       "full_translated": "2026년 6월, 태국의 국제선 출발세가 인상될 예정입니다. 이는 태국 전역의 여행객들에게 영향을 미칠 것입니다. 여행 전에 알아야 할 사항은 다음과 같습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "2026년 6월부터 시행되는 국제선 출발세 인상에 대한 정보는 여행객에게 중요한 정보이며, 미리 준비할 수 있도록 돕는다.",
-      "event_info": {
-        "date": "2026-06-01",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-06-01', 'location': '태국', 'price': '미정', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Explore How June 2026 Will See a Rise in Thailand’s International Departure Tax Affecting Travelers Across the Country: What You Need to Know Before You Travel - Travel And Tour World",
@@ -1762,21 +1757,18 @@
       ],
       "collected_at": "15:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQblBMeWgwdmFwNXZTaHo3YlNKTHpseVI2M0lmanp1M3dBblQyQ0l1WW5tQV9DWUZzY05KdVE4ZG5kbE5VcXIwazRtdGdLbTB5X1g5Qko4a0N6R0ZENG9LOEhQazZkN19IWGVFbmtoNlNRbl8xa21YM2M0TEh3M1ota0VqYVNlTHZTVWpmVlRuRnc4Sy1TX2tHMVNxRFJLNFFmYm1OZjM1b1VnYlc5MjRZTjhEUUFsa1NYQkp1QngySHE3VEI0ZEFtNjFOTTYwdXFFcmNUc1daRVI2eDVEYmQ1MW1oR1lwejcya0pVQjgwQzA0bTBfYWFEYzNlb2pOVnFRd1MtM09WNC1WS293c2xhR3ZIWlVsWFJMa05OR003NGw3QjBDU2JVcXVzQ2NHaEU?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, '콘 라 크릉 플ัส' 프로젝트 준비: Paotang 앱 업데이트 및 등록 방법",
       "summary": "- 태국 정부가 경기 부양책 '콘 라 크릉 플럿' 프로젝트를 준비 중입니다.\n- Paotang 앱 최신 버전 업데이트 및 등록 방법 안내가 필요합니다.\n- 해당 프로젝트는 세금 시스템 내외에 따라 2,000~2,400바트를 지원합니다.",
       "full_translated": "태국 정부는 '콘 라 크릉 플러스' 프로젝트를 통해 경제 활성화를 도모하고 있습니다. 이 프로젝트는 세금 시스템 내에 있는 사람들에게는 2,400바트, 세금 시스템 밖에 있는 사람들에게는 2,000바트를 지원하는 것을 목표로 합니다.\n\n'콘 라 크릉 플러스' 프로젝트 참여를 위해서는 Paotang 앱을 최신 버전으로 업데이트하고, 신원 확인 절차를 완료해야 합니다. 정부 구성이 완료되는 대로 즉시 시행될 수 있도록 시스템 준비를 마쳤습니다. 프로젝트 시작 시기는 정부 발표를 기다려야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행 중 예상치 못한 지출에 대한 정부 지원 가능성. 등록 방법을 미리 알아두면 편리함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "วิธีสมัครแอปฯ \"เป๋าตัง\" เวอร์ชันล่าสุด รอลงทะเบียน \"คนละครึ่งพลัส เฟส 2\"",
@@ -1787,21 +1779,18 @@
       ],
       "collected_at": "15:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWJJmjbTkG2nj.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/society/2917021",
+      "source": ""
     },
     {
       "title": "대만 여행 급증: 한국, 베트남, 태국, 필리핀, 중국, 일본의 비자 면제 및 글로벌 수요 확대",
       "summary": "- 대만 여행이 비자 면제 정책과 글로벌 수요 증가로 인해 급증하고 있습니다.\n- 한국을 포함한 여러 아시아 국가에서 대만 여행객이 6% 이상 증가했습니다.\n- 이는 대만 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "대만 여행은 베트남, 태국, 필리핀, 중국, 일본과 함께 한국이 합류하면서 6% 이상의 급증세를 보이며 폭발적인 성장을 보이고 있습니다. 이는 획기적인 비자 면제와 전 세계적인 수요 확대로 뒷받침됩니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "대만 여행 증가 추세에 대한 정보로, 여행 계획에 참고할 만한 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Joins Vietnam, Thailand, Philippines, China and Japan Spark Explosive Growth in Taiwanese Travel with Over Six Percent Surge Powered by Game-Changing Visa-Free Entry and Expanding Global Demand - Travel And Tour World",
@@ -1812,21 +1801,18 @@
       ],
       "collected_at": "15:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPeF9sb2wxN3FlQnhyYnNTMTNrQnp3SDJLLXpSOS13RXlPR0EzWXFWTGdTTl9YZWw3d0t5ZmVTcmp0SnZ3SHhJV1docWU2Mm9aVlcycThub21ZZXN2UzRnV3U2bURLRzk3U0xyYXF1R2xUa0laR1FkbDF6MWNmaEFYUEs2bHdGZ1ozeGlaeHJKX2ZlMXJJbnU5UjNZOTllRGhzX1pWY1QtdDUyVGZwanJ5WjJtM3dhWDh0Nlc4dU1yd20ySmJ2em9yMmFlZHNFaURvQlpRYVVRMDlQLVN2U2lLZ1M1M0tMX0tqVUJwSFh0cmNJQzdhYUtXWW5vZ0d6VTJpdzdTbm85NTNSYnF5S01DNGt5ZW1vR3FqTVg4Y0UwaVdKSHhrQ2ZaSDRPY2NVemc1NHBQbUQ0WlQ2NVV0bGFXWEhteHNHU1pqeXNNUUZrWHNyRWRnVkdHR282TVFXOGlYQzZUUg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 유명 의사, 의료 면허 반납",
       "summary": "- '닥터 케이트'로 알려진 태국 피부과 의사가 의료 윤리 위반 주장에 면허 반납.\n- 의사로서의 제약 없이 자유롭게 발언하기 위함이라고 밝힘.\n- 의료위원회의 불공정하고 모호한 규정에 대한 불만을 표출.",
       "full_translated": "태국의 유명한 피부과 의사이자 온라인 유명인인 '닥터 케이트'가 의료위원회의 불공정하고 불명확한 규정에 더 이상 참을 수 없다며 의료 면허를 반납했습니다. 콩콴 푸짓니룬 박사는 금요일, 20년간의 의사 생활을 접고 개인으로서 더 자유롭게 발언할 수 있기에 의료계를 떠난다고 밝혔습니다. 그녀는 직접 방콕에 있는 의료위원회 사무실에 면허증을 전달하며, 정치 또는 건강 보조 식품과 같은 주제에 대해 공개적으로 발언할 때마다 의료 윤리를 위반한다는 위원회의 지속적인 불만에 지쳤다고 말했습니다. KKC 클리닉 미용 및 에스테틱 치료 센터의 공동 창립자인 콩콴 박사는 의사들이 특정 의약 관련 주제에 대해 공개적으로 발언할 때 입을 다물게 하는 시스템에 대한 거침없는 비판가였습니다. 의료위원회는 그녀가 특정 제품 및 시술을 '광고'했다는 이유로 징계를 추진해 왔으며, 그녀는 만연한 잘못된 정보에 대응하고 대중에게 알리려고 노력하고 있다고 주장합니다. 그녀는 금요일 발표한 성명에서 '누가 발언할 수 있습니까? 온라인 판매자? 인플루언서? 어떻게 정확한 정보가 대중에게 전달될 수 있습니까?'라고 반문했습니다. '판매자는 얼마나 과장하든 무엇이든 말할 수 있는데 왜 안 됩니까? 가짜 의사들이 불법적인 제품을 판매하고 있습니다.'",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "의료 관련 뉴스이지만, 관광객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Outspoken Thai doctor gives up medical licence",
@@ -1837,21 +1823,18 @@
       ],
       "collected_at": "15:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206483_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3206483/outspoken-thai-doctor-gives-up-medical-licence",
+      "source": ""
     },
     {
       "title": "쁘라차ชาติ당 대표, 선관위의 국민 입막음 고소 중단 촉구",
       "summary": "- 판 땀루엇 엑 타위 쏫쏭 쁘라차찻당 대표는 선관위가 학자와 전문가 등 6명을 고소한 것에 대해 비판하며 이는 헌법에 위배되는 행위라고 주장함.\n- 그는 선관위가 독립 기관으로서 국민의 권력을 망각하고 있다고 경고하며, 고소가 부정 행위 제보자 보호 의무를 저버리는 행위라고 지적함.\n- 그는 정당과 국민의 자격으로 헌법적 입장을 밝히며, 검사는 의무이지 범죄가 아니며, 법은 내부 고발자를 보호해야 한다고 주장함.",
       "full_translated": "판땀루엇에ㄱ 타위 쏫쏭 ประชาชาติ당 대표는 선거관리위원회가 국민의 입을 막기 위해 고소를 중단해야 한다고 촉구하며, 이는 자유를 침해하고 헌법에 위배된다고 지적했습니다.\n\n2024년 2월 28일, 타위 쏫쏭 대표는 페이스북을 통해 선거관리위원회(กกต.)가 학자, 전문가 및 시민 대표 6명을 형사 고소하기로 결정한 것에 대해 언급했습니다. 그는 이들이 헌법에 따라 태국 국민의 의무를 수행하고 있으며, 부정 행위에 대한 제보자 역할을 하고 있다고 밝혔습니다. 따라서 국가는 부정 행위 제보자의 안전과 권리를 보호하기 위한 조치를 취해야 합니다. 제보자를 고소하는 것은 헌법을 위반하는 행위일 뿐만 아니라, 독립 기관이 진정한 권력의 주인이 누구인지 잊고 있다는 위험 신호입니다.\n\n타위 대표는 정당과 국민으로서 정당한 권리를 보호하기 위해 다음과 같은 입장을 밝혔습니다.\n\n1. 감사는 '의무'이지 '범죄'가 아닙니다. 헌법 제50조에 따라 국민은 민주주의 체제에서 통치를 수호하고 비밀 투표를 통해 자유롭게 투표할 의무가 있습니다. 선거관리위원회는 투명하게 선거를 관리할 의무가 있습니다. 따라서 국민은 자신들의 신성한 표에 영향을 미칠 수 있는 선거관리위원회의 업무를 추적, 검사 및 비판할 모든 정당성을 갖습니다.\n\n2. 법은 '내부 고발자'를 보호해야 하며 무기로 사용해서는 안 됩니다. 헌법 제63조는 국가가 부패 방지를 위해 국민을 지원해야 한다고 규정합니다. 6명의 개인이 정보를 제공하고 의견을 제시하는 것은 시민으로서의 의무를 수행하는 것입니다. 선거관리위원회는 허점을 메우는 데 도움을 준 국민에게 감사해야 하며, 기회를 잡아 법을 남용해서는 안 됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "หัวหน้าพรรคประชาชาติ จี้ กกต. หยุดฟ้องปิดปากประชาชน ชี้ละเมิดเสรีภาพ ขัดรัฐธรรมนูญ",
@@ -1862,6 +1845,133 @@
       ],
       "collected_at": "15:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdV3LmIoj3bagi.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917032",
+      "source": ""
+    },
+    {
+      "title": "이란, 이스라엘 향해 수십 발의 장거리 미사일 발사…영공 폐쇄 및 전국 학교 폐쇄",
+      "summary": "- 이란이 이스라엘의 공격에 대한 보복으로 이스라엘을 향해 수십 발의 장거리 미사일을 발사했다고 보도됨.\n- 이란은 전국 영공을 폐쇄하고 학교에 원격 수업으로 전환할 것을 명령함.\n- 이란은 이스라엘에 대한 다양한 형태의 보복을 준비하고 있으며, 미국 기지 공격 또는 미국 함선 공격 가능성도 제기됨.",
+      "full_translated": "이란 혁명수비대와 가까운 언론은 이스라엘과 미국의 공격에 대한 보복으로 이스라엘을 겨냥해 수십 발의 장거리 미사일을 발사했다고 보도했습니다. IRGC와 관련된 Nour News는 미사일 발사가 이미 시작되었다고 밝혔으며, Mehr News Agency는 이 미사일들이 이란이 이스라엘을 지칭하는 용어인 '팔레스타인 전역'을 목표로 하고 있다고 보도했습니다. 이란 국영 영어 방송 Press TV는 현재 이란에서 30~75발의 미사일이 발사되었다고 보도했습니다. 한편, 이란 국영 IRNA는 대통령과 가까운 소식통을 인용해 마수스 페세스키안 대통령이 여전히 살아있고 건강하다고 밝혔습니다. 마지드 아크하반 민간항공기구 대변인은 정부와 가까운 언론을 통해 이란이 긴장이 고조되는 가운데 전국 영공을 폐쇄했다고 밝혔습니다. 또한 이란 언론에 따르면 전국 학교가 폐쇄되고 원격 수업으로 전환되었습니다. 앞서 혁명수비대(IRGC)와 연계된 준관영 언론인 타스님 통신은 이란이 보복을 준비하고 있으며 시온주의 정권에 강력하게 대응할 것이라고 보도했습니다. 분석가들은 테헤란이 역내 미군 기지에 단거리 미사일을 발사하거나 이스라엘의 군사 및 민간 목표물을 공격하고, 심지어 페르시아만 내외에서 미국 군함을 표적으로 삼는 등 다양한 형태의 대응을 할 수 있다고 평가합니다. 미사일 외에도 이란은 소형 선박, 드론, 잠수함을 보유하고 있어 해당 해역과 페르시아만 주변에서 미국 선박에 위협이 될 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 긴장 고조로 인한 잠재적 여행 위험 증가, 영공 폐쇄로 인한 항공편 운항 차질 가능성. 태국은 직접적인 관련은 없지만 상황이 급박하므로 여행객에게 정보 제공 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ด่วน! อิหร่านยิงขีปนาวุธพิสัยไกลหลายสิบลูก มุ่งเป้าอิสราเอล ปิดน่านฟ้า–สั่งปิดโรงเรียนทั่วประเทศ",
+          "url": "https://www.thairath.co.th/news/foreign/2917046",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJXq4sK42XGW.jpg"
+        }
+      ],
+      "collected_at": "16:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJXq4sK42XGW.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 2026년부터 공항 출발세 인상…여행 비용 증가 예상",
+      "summary": "- 태국이 2026년부터 국제선 관광객 대상 공항 출발세 인상 계획 발표\n- 중국, 말레이시아, 인도, 베트남 등과 함께 여행 비용 상승에 기여\n- 정확한 인상폭 및 시행 시기는 추후 발표 예정",
+      "full_translated": "태국이 중국, 말레이시아, 인도, 베트남 등과 함께 2026년 6월부터 국제 관광객의 여행 비용을 새로운 차원으로 끌어올리는 충격적인 공항 출발 요금 인상에 동참합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항세 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보입니다. 2026년부터 적용 예정이나, 미리 인지하고 여행 계획에 반영할 필요가 있습니다.",
+      "event_info": {
+        "date": "2026-06-01",
+        "location": "태국 공항",
+        "price": "미정",
+        "location_google_map_query": "태국 공항"
+      },
+      "references": [
+        {
+          "title": "Thailand Joins China, Malaysia, India, Vietnam and more in Shockingly Raising Airport Departure Charges, Pushing Travel Costs to New Heights for International Tourists from June 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQeEctT0hhRFNxejlsdURxYk9MV1dXTW02RzFFdGoxZUZlTFdQVHprckZsM1hJNEh6VDBPbWN1S3R1YXVkdEkzMDYwNHdPemVMN21pS3EzR2libjdzb29HcE94bGg2QWU0MHluZlRvUjk3VG9MWGNOUlRicW1TYnVpeHRXY3U5TV9KUnhqNXNfWGJiRktHSlI4d0hmYmNaOXkxWUNoVUZEQ0Y0bHBVTy1tTzV5V1dUcnJ3c3ZTaHczckEyemtSaVBaTGJPTXlCUkwyaWJQYTBQTm40NmNVbmtpbk5GdjAyQnZwVDVRb0pkd0I0UkNTOWtpNDFCcWd5WDlZZFJQNmpESGNCMTJOWVZ4MkpGcmpJX1RWU0Z5QnE5VnBzR281RDNmYk1GWXZSQlFCdG9qWVVjSFJMZ3M0aVo5YVhuRlkzRWw5MXZR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "미국, 루마니아, 태국, 남아프리카 공화국, 스페인 등과 함께 글로벌 이동성 및 관광 활성화에 동참",
+      "summary": "- 미국이 글로벌 이동성 및 관광 활성화에 동참하며, 모나코는 177개국 무비자 입국 가능.\n- 태국은 관광 산업 부흥을 위해 여러 국가와 협력.\n- 새로운 비자 면제 정책으로 관광객 증가 기대.",
+      "full_translated": "미국, 루마니아, 태국, 남아프리카 공화국, 스페인 등이 글로벌 이동성 및 관광 붐을 활성화하기 위해 합류했습니다. 모나코의 새로운 비자 면제 여행으로 177개국에 접근할 수 있게 되었습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업에 긍정적인 영향을 미칠 수 있는 비자 관련 뉴스이며, 여행객의 편의성 향상에 기여할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "US Joins Romania, Thailand, South Africa, Spain and Many More to Boost Global Mobility and Tourism Boom, New Visa Free Travel for Monaco With Access to 177 Countries - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVUZXNzRqOHdiNkU3dVYwb0R2U1ZLLU5zaTRNQm9YX1cxTWowVGJUWTBNNUlCbF9uNW9VZUdBdjlSdlhqbmd4R3otQXkwSXRCa3VaSmNieW9TS3ZQckExRXEyZlpoNy1NVEZGRUxxeE95X2pKTFVoSXVucmlubmptMHR4LUw2eGkwMTRhbkthbkVzNEN3NE91QTJ4SGNGcGZfb2FPQmVTV19Zb2licVBLOU9mSi01VGx1XzhNelJaS3NGX29mS0pXZ0hYZTNiRlpsU1pNVXFKbnFVMkdFZjFJN1pxcV83VmxubVQ5NGxoVGdaUjNNa3VWdjRseWU0d1hsd1BhcVlXWjc2OFhYLV9mUTFsRksyQUxjbnpUR1RLSk5GT0Y1MmNwaTFvS1kxTzZTNXQ0Nw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "네타냐후, 이란의 핵무기 보유 금지 성명 발표",
+      "summary": "- 베냐민 네타냐후 이스라엘 총리는 이란 정권의 핵무기 보유를 용납하지 않겠다고 강조했습니다.\n- 도널드 트럼프 전 미국 대통령에게 감사를 표하며, 이스라엘과 미국이 이란의 위협을 제거하기 위한 공동 작전을 시작했다고 밝혔습니다.\n- 네타냐후 총리는 이란 국민들에게 자유와 평화를 위한 투쟁을 촉구하며, 이스라엘 국민들에게는 '사자후 작전'에 대비할 것을 당부했습니다.",
+      "full_translated": "베냐민 네타냐후 이스라엘 총리는 이란 정권이 핵무기를 소유해서는 안 된다고 거듭 강조하며, 도널드 트럼프 전 미국 대통령에게 감사를 표하고, 2069년 2월 28일에 국민들이 대비해야 한다고 요청했습니다. 네타냐후 총리는 현지 시간 15시 21분에 이스라엘과 미국이 이란 정부로부터의 \"국가 존립에 대한 위협\"을 제거하기 위한 공동 작전을 시작했다고 밝혔습니다. 또한, 아야톨라 정권 하의 이란 정부가 지난 47년간 \"이스라엘에 죽음을\"과 \"미국에 죽음을\"이라는 구호를 외치며 이스라엘, 미국, 그리고 이란 국민을 살해하는 데 관여했다고 비난했습니다. 네타냐후 총리는 이란 정권이 핵무기를 보유하는 것을 허용하지 않을 것이며, 이는 전 인류를 위협하는 길이 될 것이라고 경고했습니다. 또한, 이번 공동 작전이 이란 국민들이 스스로 미래를 결정할 수 있는 조건을 만들 것이라고 언급했습니다. 더불어, 페르시아인, 쿠르드인, 아제르바이잔인, 발루치인, 아와즈인 등 이란의 모든 국민들에게 폭정으로부터 해방되어 자유롭고 평화로운 이란을 건설할 것을 촉구했습니다. 이와 함께, 이스라엘 국민들에게는 국내전선사령부(Home Front Command)의 지침을 따를 것을 요청하며, 앞으로 며칠 안에 \"사자후(The Roar of the Lion)\" 작전 하에 모든 국민이 인내심과 강인함을 가져야 할 것이라고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "이스라엘-이란 간의 긴장 고조는 태국 여행에는 직접적인 영향은 없으나, 국제 정세 불안정으로 인한 간접적인 영향 가능성이 있으므로 낮은 점수로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เนทันยาฮู ออกแถลงการณ์กร้าว ห้ามอิหร่านมีอาวุธนิวเคลียร์",
+          "url": "https://www.thairath.co.th/news/foreign/2917041",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJRzi92tw5qV.jpg"
+        }
+      ],
+      "collected_at": "16:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJRzi92tw5qV.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 정치, 세대 문제가 아닌 협력의 문제: 프어타이당의 입장",
+      "summary": "- 푸미탐 대표는 정치가 '나이'의 문제가 아니라 '사고방식'과 '협력 능력'에 달려 있다고 강조.\n- 프어타이당은 기성세대의 경험과 젊은 세대의 창의성이 결합되어야 한다고 믿음.\n- 정부 구성에 협력하며 국민 경제와 공정성에 기여할 법안을 제안하고 추진할 준비가 되었다고 밝힘.",
+      "full_translated": "프어타이당의 품탐 대표는 정치가 '나이' 문제가 아닌 사고방식과 협력 능력에 달려 있다고 밝혔습니다. 그는 정부 구성에 협력하며 전문적인 자세로 임할 것이라고 덧붙였습니다. 2069년 2월 28일, 품탐 대표는 페이스북을 통해 프어타이당의 총리 후보 3인(솟. 돗. 욧차난 웡싸왓, 나이 출라판 아몬위왓, 나이 쑤리야 쯩룽르앙낏)이 당선된 지역구 의원들과 함께 의회에 출두했다고 밝혔습니다. 이는 국민을 대표하는 역할을 수행할 준비가 되었다는 신호입니다. 품탐 대표는 현대 정치가 '나이' 문제가 아니라 '사고방식'과 '협력 능력'의 문제라고 생각합니다. 프어타이당은 기성세대의 경험이 시간의 시험을 거친 지혜의 자산이며, 젊은 세대의 에너지와 창의성이 디지털 시대의 사회 변화를 이해하는 원동력이라고 믿습니다. 이 두 힘이 결합될 때, 결정은 신중하되 구시대적이지 않으며, 정책 추진은 안정적이되 정체되지 않을 것입니다. 프어타이당은 의회에서 법안을 제안, 수정, 추진하여 국민 경제, 생계, 공정성에 기여할 준비가 되어 있습니다. 동시에 정부 구성에 협력하며 전문적인 자세로 행정 업무를 수행할 준비가 되어 있습니다. 국가는 '경험의 안정성'과 '젊은 세대의 대담한 사고'를 모두 필요로 합니다. 프어타이당은 이 두 힘을 연결하여 국가를 발전시키는 역할을 수행할 준비가 되어 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ภูมิธรรม” เผยการเมืองไม่ใช่เรื่องของวัย เพื่อไทยในฐานะพรรคร่วม พร้อมทำงานอย่างมืออาชีพ",
+          "url": "https://www.thairath.co.th/news/politic/2917040",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJJJcko6yhsU.jpg"
+        }
+      ],
+      "collected_at": "16:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJJJcko6yhsU.jpg",
       "date": "2026-02-28"
     }
   ]
