@@ -3917,14 +3917,9 @@
       "summary": "- 태국, 일본, 싱가포르, UAE, 인도, 인도네시아, 말레이시아 등 아시아 여러 국가에서 항공편 지연 및 취소 발생.\n- 총 2,120편 지연, 58편 취소로 수천 명의 승객이 발이 묶임.\n- AirAsia, Emirates, Japan Airlines, Thai Airways, Malaysia Airlines 등 주요 항공사 운항에 차질.",
       "full_translated": "태국, 일본, 싱가포르, UAE, 인도, 인도네시아, 말레이시아 등 아시아 전역에서 2,120편의 항공편이 지연되고 58편이 취소되어 수천 명의 승객이 발이 묶였습니다. AirAsia, Emirates, Japan Airlines, Thai Airways, Malaysia Airlines 등의 항공사가 두바이, 도쿄 등에서 운항에 차질을 빚고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "항공편 지연 및 취소는 여행객의 일정에 직접적인 영향을 미치므로 높은 점수를 부여함. 공항 혼잡 관련 정보는 여행자에게 중요함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thousands Of Passengers Trapped Around Asia As Thailand, Japan, Singapore, UAE, India, Indonesia, And Malaysia Delay 2,120 And Cancel 58 Flights, Grounding AirAsia, Emirates, Japan Airlines, Thai Airways, Malaysia Airlines, And Others In Dubai, Toky - Travel And Tour World",
@@ -3933,23 +3928,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxOWDN4U0RuOVFNOUpLejIwb0tMOTlMalY4cXlqSkJ0TF9sSGMwdG5BLW1LQnpOUHAyM1d4N0ZkeUY4amptZks3c2UycFpaTG9oakx0ZzdFLWdJcm9MYlNCZzdyTWpRSUZGajJWOFVaVjRUZlNyOXBmSXZSdEVjNFFabkpZX1BKc2p2eUpUenR6Y19DOUItaEFTOHhuUERscS15aklwazBvOGhHcGVrbW1DcWxFeDZoODhwSC1FcmhRUDI4MEZvUXhrMmFXcXRzdkJGWjZpOGd4RmduZ3BkRzk3cG8xbC1EZ090dXZzQk5Fa2UwTllJbWNuUi1HbEowdkhFdVFGc1MwNlRZejhJbF9udDJnRGhXdnotMTVDemZwOFFMbnZpb3pGZ1VmZlJZZTJia0UwS2c2dXQ2WlZJYldmeXFWWXBpTkpKS00yc2J0bGlIdmkza3VGNVJoZHRwaUw4ek9EMXVBRHM?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광공원, 호랑이 72마리 질병으로 폐사: 여행객 주의",
       "summary": "- 태국 인기 관광공원에서 치명적인 바이러스로 호랑이 72마리 폐사.\n- 당국은 전염병에 대한 조사 착수.\n- 여행객은 해당 지역 방문 시 위생 및 안전에 주의 필요.",
       "full_translated": "태국 관광공원에서 치명적인 바이러스로 인해 호랑이 72마리가 갑자기 폐사했습니다. 당국은 전염성이 매우 강한 질병에 대한 조사를 시작했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객들이 방문하는 관광지에서 발생한 질병으로 안전에 영향을 줄 수 있으므로 높은 점수를 부여함. 현재 시간(03:16)을 고려하여 아침 브리핑에 포함.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광공원",
-        "price": null,
-        "location_google_map_query": "태국 관광공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광공원', 'price': None, 'location_google_map_query': '태국 관광공원'}",
       "references": [
         {
           "title": "Deadly virus suddenly kills 72 tigers at popular tourist park as probe into highly contagious disease launched - The Sun",
@@ -3958,23 +3950,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUJNTWZIb0VIaXNFaDhmOVJsVGtEVFlGT3I0dlJRZW1pRHVjdEdDdzl6WkwxSmNac3ByU096eW8zWXliTW9odGQ5aHZrdHFCbmRSOEx1czh4cE5EZEhMQUx5c1ZkcWhoVVZ5VzMtYnJtNmJlYW5mX1MwOFVIakJINlRyQWl4TnhtU1lRVDBGU19wTldOT3puTQ?oc=5",
+      "source": ""
     },
     {
       "title": "이스라엘, 이란 500개 목표 지점 공습... 항공기 200대 동원",
       "summary": "- 이스라엘군이 이란 내 500개 목표 지점을 공습했다고 발표했습니다.\n- 공습에는 전투기 약 200대가 동원되었으며, 이스라엘 공군 역사상 최대 규모의 작전입니다.\n- 목표 지점은 이란 중부 및 서부의 방공 시스템과 미사일 기지를 포함합니다.",
       "full_translated": "이스라엘이 이란 내 500개 이상의 목표 지점을 공격하기 위해 200대 이상의 항공기를 사용했다고 밝혔습니다. 이는 이스라엘 공군 역사상 가장 큰 규모의 작전입니다. 이스라엘군은 2569년 2월 28일 토요일, 이란 전역에서 동시에 대규모 공격 작전의 일환으로 약 500개의 목표물에 수백 발의 폭탄을 투하했다고 밝혔습니다. 이스라엘 방위군(IDF)은 해당 목표물에는 이란 중부 및 서부의 방공 시스템과 유도 미사일 기지가 포함된다고 밝혔습니다. IDF는 또한 군대가 이번 조정된 공격 작전에 약 200대의 전투기를 사용했으며, 이는 이스라엘 공군 역사상 '가장 큰 군사 작전 비행'이라고 밝혔습니다. 군은 이러한 방어 시스템 공격으로 이스라엘이 이란 상공의 영공 장악 능력을 '확대'하고 테헤란이 이스라엘에 유도 미사일을 발사하는 능력을 약화시킬 수 있었다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 안전에 직접적인 영향은 적으나, 중동 지역의 긴장 고조는 잠재적인 위험 요소가 될 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิสราเอลโว ส่งเครื่องบิน 200 ลำถล่มอิหร่าน จู่โจมเป้าหมาย 500 จุด",
@@ -3983,8 +3972,85 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5wvtYHxJjrI.jpg"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5wvtYHxJjrI.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917126",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 파타야에서 Tomorrowland 아시아 데뷔",
+      "summary": "- 2026년, Tomorrowland가 태국 파타야에서 아시아 최초로 개최될 예정입니다.\n- 이 풀 스케일 뮤직 페스티벌은 태국을 글로벌 이벤트 허브로 만들려는 노력의 일환입니다.\n- 음악 축제 이상의 경험을 제공할 것으로 기대됩니다.",
+      "full_translated": "태국 파타야, 기록을 깰 준비 완료\nTomorrowland, 2026년 아시아 데뷔로 뮤직 페스티벌의 새로운 지평을 열다!\n",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "대규모 뮤직 페스티벌 개최는 관광객 유치에 큰 영향을 미치므로 높은 점수를 부여합니다. 기존에 '태국, 2026년 글로벌 이벤트 허브 목표 - Tomorrowland 등 대형 이벤트 유치' 기사가 있지만, 구체적인 개최지와 시기가 명시되어 업데이트로 판단.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야 Tomorrowland"
+      },
+      "references": [
+        {
+          "title": "Pattaya Thailand Set to Break All RecordsTomorrowland’s Full‑Scale Asian Debut in 2026 Will Redefine Music Festivals Forever! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMHZxS1VPSHFfM0lxNUZDN0diQzVOSEVNbzBTb25CWUNVa3Rwa2tuRXRybi1IVDNnbXd6MjRKbWFoTTNhZDZyU19JSkRzNUplSy1CeldPSkRZMUpsTlNjRVBPLU9oOE1rWXFmZ2RTRlhUZDdoQi1NbFh6bFhkOUlGWDZzYUhaUFRvbmJOVmZCa2lvcjIydGtsMnY1d0VVR0tqWkppa0NIUlZhT0NlbEJuQzRRcVJjeDlDcmhmYk53QmJJUHlBbGhILVYtWDI3aHdhaUp4S0JNbzVXbVR0WnVWejFkZURKcHZTUk5OZ3FZbEFvMEpraHZLek1JOHVhRVBJc0E?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "매홍손 반팜복, 'UNSEEN THAI THAI' 관광 캠페인 10대 모델 커뮤니티 선정",
+      "summary": "- 매홍손의 반팜복 마을이 태국 관광 캠페인 'UNSEEN THAI THAI'의 10대 모델 커뮤니티로 선정됨.\n- 이 캠페인은 숨겨진 태국의 매력을 발굴하고 홍보하는 데 중점을 둠.\n- 반팜복은 독특한 문화와 아름다운 자연경관으로 관광객들에게 새로운 경험을 제공할 것으로 기대됨.",
+      "full_translated": "매홍손의 반팜복 마을이 'UNSEEN THAI THAI' 관광 캠페인에 따라 10대 모델 커뮤니티로 선정되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 내 새로운 관광 명소 정보는 여행자들에게 유용할 수 있지만, 즉각적인 안전이나 편의에 미치는 영향은 크지 않음. 'UNSEEN THAI THAI' 캠페인은 태국 내 잘 알려지지 않은 장소를 소개하므로, 새로운 여행 경험을 추구하는 여행자에게 매력적일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "매홍손 반팜복",
+        "price": null,
+        "location_google_map_query": "Ban Pam Bok, Mae Hong Son"
+      },
+      "references": [
+        {
+          "title": "Ban Pam Bok in Mae Hong Son named Top 10 Model Community under ‘UNSEEN THAI THAI’ tourism campaign - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzZJb2hJemRkSnZtMVNGelQ0N1Zudy1wNXN5eWs3X0g5NFh5WmhEUGRkRUhZeEI5eEZiSHI3ZGZnNFZFdktoNjZNQW9jQlhtR24yLXo3VGNGVVRSV2V1bWQ3X1hYRlY1MWdtNGlqTGVFdlBOczBmbF9OU2VDWTN6eTg5cTVpZG03dm9tQm1sOGxSVmtoUHpzY0thZUtyclEtd2ZFVHRnMDFOSHJ3T0s1Qm44SWpnYkpxLVBKWlRVZDExTlBQZzFsTXV3SzdaalI0dlBVdFQ0NFpJb1JH?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "중국 관광객 회복 예측은 아직 시기상조 - 방콕 포스트",
+      "summary": "- 방콕 포스트에 따르면 중국 관광객 회복을 예측하기에는 아직 이르다.\n- 태국 관광 산업은 중국 관광객의 복귀를 기대하고 있지만, 불확실성이 존재한다.\n- 관련 업계는 상황을 주시하며 다각적인 대응 방안을 모색 중이다.",
+      "full_translated": "Too soon to predict China tourism rebound&nbsp;&nbsp;Bangkok Post",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중국 관광객 회복에 대한 불확실성은 태국 관광 산업에 영향을 미칠 수 있으므로 중간 점수 부여. 아침 브리핑에 포함하여 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Too soon to predict China tourism rebound - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSExzcF9TNTNJLUhtOFBWRUJucDVCWlJOWlFmT1RjQUJVcUZHaEZQUmZrUHZHMFRwXzZ0Nl9ZUkNFZ09JNEEzYXdJVjhnMUJtd3NINkhPSkxTQzJaVUZUOWRXc0pWTzdfY0tVSE9EUlhHWWE5MTBWcERrRjB5a19FTFZyVlJ6THl1VFR3R0lDRURDV0FiN2ZyWXlB?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
   ]
