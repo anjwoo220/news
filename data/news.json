@@ -756,14 +756,9 @@
       "summary": "- 대한항공, 제주항공, 아시아나항공 인천-제주 노선 재개.\n- 롯데호텔, 신라호텔, 메리어트호텔 관광 호황 준비.\n- 중국 포함 다양한 국가에서 제주도 방문 증가 예상.",
       "full_translated": "중국이 일본, 대만, 미국, 태국, 홍콩, 싱가포르, 필리핀과 함께 제주 관광 활성화에 동참합니다. 대한항공, 제주항공, 아시아나항공은 인천-제주 노선을 재개했으며, 롯데호텔, 신라호텔, 메리어트는 관광 호황을 준비하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "제주도 방문을 고려하는 여행객에게 유용한 정보이며, 다양한 국가에서 제주도 방문이 증가할 것으로 예상됨.",
-      "event_info": {
-        "date": null,
-        "location": "제주도",
-        "price": null,
-        "location_google_map_query": "제주도"
-      },
+      "event_info": "{'date': None, 'location': '제주도', 'price': None, 'location_google_map_query': '제주도'}",
       "references": [
         {
           "title": "China Joins Japan, Taiwan, United States, Thailand, Hong Kong, Singapore and Philippines in Driving Jeju’s Travel Revival as Korean Air, Jeju Air and Asiana Relaunch Incheon–Jeju Route — Lotte Hotels, Shilla and Marriott Prepare for a Tourism Boom Afte - Travel And Tour World",
@@ -772,23 +767,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:08",
+      "collected_at": "8:08",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOcEtmc1JMR1pKOVJleThvTHNvcXFwLTJKZ1ZmSUtWek5pMWZuSFhMTUZnT2hPMmdWSGZTcl8zZ29URmNETktCMXNNaWhNMF9XQ2xTdkYyUW9JRF9PcjVXMlRtNENLVmpkalJycU8wdDdTeHltbDZraHA5OF9hcHpvSTc5S1BadGVVZEE4NjFaQlk5TmxzYnRXM1QwUjhBYUJiQkJDSWNVaTNVSjVkRUltSHFkRlNlYXByejU1N19xVEhzWmZLTDN6Tm1kN01KSkMwME9Ra0FYYVRNLW9pakFYOWIzWmJOcHpNanNWc1UxVEVTUm5MTXVHNnNhOXlub3czRlFVSEtidXNuMzVQZEN0TmdZSmZxRy00TXpmbThrNUk1ZFB4UWxIZ2FISmYyZ2RGZUhxeG1jbE5Dc0FvSlU4OUQydXpieXZ0Q0E?oc=5",
+      "source": ""
     },
     {
       "title": "전 세계 챔피언 복서, 개에 물려 병원으로 이송",
       "summary": "- 전 세계 챔피언 복서인 암낫 룬르엉이 개에 물려 병원으로 이송됨.\n- 그는 촌부리 지방의 자택에서 떨고, 열이 나고, 무릎에 상처가 있는 채로 발견됨.\n- 현재 병원에서 치료를 받고 있으며, 상태는 호전되었음.",
       "full_translated": "전 세계 챔피언 복서인 암낫 룬르엉이 개에 물려 병원으로 이송되었습니다. 2069년 2월 27일 밤 9시, 스왕 프라텝 구조대의 무선 센터는 한 사람이 집에서 발작을 일으키고 고열이 있다는 신고를 받았습니다. 해당 주소는 촌부리 지방 시라차 지역 수라삭구 8번지에 위치해 있었습니다. 구조대원들은 전 국제복싱연맹(IBF) 플라이급 챔피언인 암낫 룬르엉이 떨고 열이 나고 무릎에 상처가 있는 것을 발견했습니다. 암낫은 이틀 전 개에 물렸지만 가족들이 걱정할까 봐 아무에게도 말하지 않았다고 밝혔습니다. 그는 집에서 쉬고 있었지만 떨림과 고열 증상이 나타났고, 결국 발작을 일으켜 가족들이 구조대에 연락했습니다. 현재 그의 상태는 호전되었지만 병원에서 계속 치료를 받아야 합니다. 스왕 프라텝 구조대는 응급 처치를 실시한 후 암낫 룬르엉을 솜데트 프라보롬라차테위 나 시라차 병원으로 이송했습니다. 암낫은 고열이 있으며, 개에 물린 상처에 대한 치료가 필요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유명인의 건강 문제이지만, 여행객 안전에 직접적인 위협은 아님. 개 물림 사고에 대한 주의 환기 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": "촌부리, 시라차",
-        "price": null,
-        "location_google_map_query": "Sriracha Chonburi"
-      },
+      "event_info": "{'date': None, 'location': '촌부리, 시라차', 'price': None, 'location_google_map_query': 'Sriracha Chonburi'}",
       "references": [
         {
           "title": "หามส่ง รพ. กลางดึก \"อำนาจ รื่นเริง\" อดีตนักมวยแชมป์โลก ถูกสุนัขกัด ชักไข้สูง",
@@ -797,23 +789,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpt6QESNxfNBe.jpg"
         }
       ],
-      "collected_at": "08:08",
+      "collected_at": "8:08",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYpt6QESNxfNBe.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/east/2916975",
+      "source": ""
     },
     {
       "title": "태국 DSI, 마약 원료 관련 혐의로 기소 추진",
       "summary": "- 태국 특별수사국(DSI)이 마약 관련 주요 사건을 검찰에 송치, 용의자 기소 추진\n- 메트암페타민 10억 정 제조 가능한 화학 물질 800톤 소지 혐의\n- 2025년 합동 작전 통해 압수한 화학 물질은 인접국 수출 예정이었으며, 약 7300만 바트 상당",
       "full_translated": "특별수사국(DSI)은 주요 마약 관련 사건을 공공 검찰에 회부하여 최대 10억 개의 메트암페타민 알약을 생산할 수 있는 화학 전구체 800톤을 소지한 혐의와 관련된 용의자들에 대한 기소를 추진하고 있습니다. DSI 소비자 보호 사건 부서의 부국장이자 특별 수사 팀장인 완나차이 프롬락은 어제 사건 파일과 3명의 용의자(2개의 기업과 1명의 공인 대표)를 법무 장관 산하 세금 소송 사무소의 검사에게 제출했습니다. 이 사건은 2025년 말 마약 통제 위원회(ONCB), DSI 및 산업 공작 부서의 합동 작전에서 비롯되었습니다. 당국은 딱 주 매솟 지구의 창고에서 800톤 이상의 산업 등급 유해 화학 물질을 압수했습니다. 인접 국가로 수출될 예정이었던 이 화학 물질의 가치는 약 7,300만 바트였습니다. 법의학 검사 결과 해당 물질이 불법 약물 제조에 전구체 또는 촉매제로 사용될 수 있음이 확인되었습니다. 수사관들은 소지가 유해 물질법, 공중 보건법 및 소비세 규정을 포함한 여러 법률을 위반했다고 판단했습니다. DSI는 검찰이 법원의 승인을 받아야 한다고 권고했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "마약 관련 사건으로, 여행객 안전에 직접적인 위협은 아니지만 주의가 필요. 사건 진행 상황에 따라 추가 정보 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Mae Sot district, Tak province",
-        "price": null,
-        "location_google_map_query": "Mae Sot district, Tak province"
-      },
+      "event_info": "{'date': None, 'location': 'Mae Sot district, Tak province', 'price': None, 'location_google_map_query': 'Mae Sot district, Tak province'}",
       "references": [
         {
           "title": "DSI seeks charges over drug precursors",
@@ -822,23 +811,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "08:08",
+      "collected_at": "8:08",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3206723/dsi-seeks-charges-over-drug-precursors",
+      "source": ""
     },
     {
       "title": "쭐라-WEF 포럼, 체계적 위험 증가 경고",
       "summary": "- 쭐라롱콘 대학교에서 열린 세계 경제 포럼에서 태국이 경제, 사회, 지정학적 차원에서 상호 연결된 체계적 위험에 직면할 것이라고 경고함.\n- 전문가들은 높은 가계 부채와 불법 대출 확대로 취약 계층의 재정적 어려움이 심화되고 있다고 지적하며, 정부의 장기적인 구조 개혁을 촉구함.\n- 환경적 위험과 지정학적 긴장 고조 또한 경제 생산성에 지속적인 위협으로 지목됨.",
       "full_translated": "쭐라롱콘 대학교가 세계 경제 포럼(WEF)의 유일한 태국 학술 파트너로서 주최한 제5회 쭐라-WEF 글로벌 미래 포럼에서 전문가들은 태국이 2026년부터 경제, 사회, 지정학적 차원에 걸쳐 상호 연결된 체계적 위험의 파도에 직면할 것이라고 경고했습니다. 이번 행사에서는 정부가 단기적인 경기 부양책보다는 장기적인 구조 개혁으로 예산 우선순위를 재조정할 것을 촉구했습니다. \n\n가장 큰 우려는 부채 증가였습니다. 전문가들은 높은 가계 부채와 불법 대출의 빠른 확대로 취약 계층의 재정적 어려움이 심화되고 있다고 경고했습니다. 윌러트 푸리와트 총장은 전국적인 금융 이해력의 중요성을 강조했습니다. 그는 \"우리는 금융 이해를 넓히고 복권에 대한 의존도를 넘어 기회를 확대해야 합니다.\"라며 회복력을 강화하기 위한 저축 수단을 옹호했습니다. \n\n인공지능의 파괴적인 영향과 함께 심화되는 불평등은 포용적 성장의 제약 요인으로 강조되었습니다. 이에 대해 윌러트 교수는 변화하는 노동 시장 수요에 맞춰 학업 프로그램을 조정하기 위해 교육과정 개혁을 촉구했습니다. 그는 경쟁력 강화는 성 평등 증진, 관광 활용 및 연구 투자 증대에 달려 있다고 덧붙였습니다. 극심한 날씨와 고조되는 지정학적 긴장을 포함한 환경적 위험 또한 경제 생산성에 대한 지속적인 위협으로 확인되었습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제 상황에 대한 전반적인 내용으로, 여행객의 소비 및 관광 산업에 간접적인 영향을 줄 수 있음. 단기적 영향은 적으나, 중장기적으로 참고할 만한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Chula-WEF forum warns of rising systemic risks",
@@ -847,23 +833,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "08:08",
+      "collected_at": "8:08",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3206683/chulawef-forum-warns-of-rising-systemic-risks",
+      "source": ""
     },
     {
       "title": "유럽 기업, 태국 철도 사업에 높은 관심",
       "summary": "- 유럽 기업 협회(EABC)가 태국의 물류 및 철도 부문 확장에 대한 지지를 표명했습니다.\n- 태국의 2,400km 복선 철도망이 지역 운송 비용 절감과 공급망 효율성 강화에 기여할 것으로 평가했습니다.\n- 태국-유럽 간 철도 개발, 물류 혁신 및 규제 프레임워크 협력 강화에 초점을 맞춘 논의가 진행될 예정입니다.",
       "full_translated": "유럽 기업 협회(EABC)의 실무 그룹이 태국의 확장되는 물류 및 철도 부문에 대한 강력한 관심을 표명하며, 태국의 2,400km 복선 철도망이 지역 운송 비용 절감과 공급망 효율성 강화의 핵심 동인이라고 밝혔습니다. 이러한 관심은 어제 교통부와 로데리히 호프만 운송, 철도 시스템 및 물류 실무 그룹장이 이끄는 EABC 대표단 간의 회의에서 전달되었습니다.\n\n판야 추파니치 교통부 차관은 태국-유럽 간 철도 개발, 물류 혁신 및 규제 프레임워크 협력 강화에 초점을 맞춘 논의가 진행될 예정이라고 밝혔습니다. 교통정책계획실, 철도교통부 및 관련 기관의 고위 관계자들도 참석했습니다.\n\n태국의 철도 확장 계획은 도시 연결성을 개선하고 장기적인 성장을 지원하기 위한 광범위한 전략의 일환입니다. 현재 방콕 및 인접 지역에 걸쳐 14개의 대중 교통 노선이 운행 중이며, 총 280km 이상을 커버합니다. 오렌지 및 퍼플 라인의 연장선인 2개의 추가 노선이 건설 중입니다. 판야 차관은 교통부가 3월에 새로운 레드 라인 연장선 건설을 시작할 준비를 하고 있다고 밝혔습니다. 이 노선은 랑싯에서 탐마삿 대학교 랑싯 캠퍼스(방콕 북부)까지, 그리고 탈링 찬에서 시리랏을 거쳐 살",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 철도망 확장 계획에 대한 유럽 기업의 관심 표명. 직접적인 여행 영향은 적지만, 장기적으로 교통 편의성 향상 기대.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "European business group eyes Thai rail",
@@ -872,8 +855,135 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "08:08",
+      "collected_at": "8:08",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3206733/european-business-group-eyes-thai-rail",
+      "source": ""
+    },
+    {
+      "title": "태국 중부 6개 주와 방콕, 2월 28일~3월 5일 '만조' 주의보",
+      "summary": "- 태국 재난 예방국(DDPM)은 중부 6개 주와 방콕에 만조 주의보를 발령했습니다.\n- 2월 28일부터 3월 5일까지 만조가 예상되며, 수위가 1.80~1.90m까지 상승할 수 있습니다.\n- 강변 주민들은 주의를 기울이고, 재난 발생 시 24시간 지원을 받을 수 있습니다.",
+      "full_translated": "재난 예방국(DDPM)은 6개 중부 주, 즉 파툼타니, 논타부리, 나콘파톰, 사뭇사콘, 사뭇송크람 및 사뭇프라칸과 방콕에 2월 28일부터 3월 5일까지 '만조' 상황에 대한 경계를 유지하라고 경고했습니다. 위험 지역의 사람들은 뉴스를 모니터링하고 소지품을 높은 곳으로 옮기도록 권고됩니다.\n\nDDPM의 국장인 티라팟 카츠마트는 해군 수로국으로부터 2026년 2월 28일부터 3월 5일까지 05:00~09:00 사이에 만조가 발생할 것으로 예상된다는 통지를 받았다고 밝혔습니다. 예상되는 수위는 평균 해수면보다 약 1.80~1.90미터 높을 수 있으며, 이는 임계 수위보다 약 0.10~0.20미터 높습니다. 이로 인해 강둑이 범람하고 강이나 운하의 수위가 상승하여 저지대 지역과 제방 바깥쪽 지역, 그리고 영구적인 홍수 방지 시설이 없는 지역이 침수될 수 있습니다.\n\n만조 상황을 주시해야 할 지역은 다음과 같습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 영향을 줄 수 있는 만조 관련 정보이며, 기간이 임박했으므로 중요도가 높음. 매일 업데이트되는 데이터이므로 게시.",
+      "event_info": {
+        "date": "2026-02-28~2026-03-05",
+        "location": "방콕 및 태국 중부 6개 주 (파툼타니, 논타부리, 나콘파톰, 사뭇사콘, 사뭇송크람, 사뭇프라칸)",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "เตือน 6 จังหวัดภาคกลาง และ กทม. เฝ้าระวัง \"น้ำทะเลหนุนสูง\" ช่วง 28 ก.พ.-5 มี.ค.",
+          "url": "https://www.thairath.co.th/news/local/2916980",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYkf15UuZiM4pe.jpg"
+        }
+      ],
+      "collected_at": "10:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYkf15UuZiM4pe.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 경찰 간부, 식당에서 여성 폭행 사건 조사 착수",
+      "summary": "- 태국 경찰 간부가 식당에서 여성의 머리를 병으로 폭행한 사건 발생\n- 경찰청장이 해당 사건에 대한 진상 조사 지시\n- 공정하고 투명한 절차를 통해 사건 처리할 것을 강조",
+      "full_translated": "태국 제4지방경찰청장이 경찰 간부가 식당에서 여성을 병으로 폭행한 사건에 대한 진상 조사를 지시했습니다. 2026년 2월 28일 오전 8시 30분, 산티 차이니라미야 제4지방경찰청장은 언론과의 인터뷰에서 2월 24일 오후 10시 10분경 차이야품 부아댕 지역의 한 식당에서 경찰 간부가 연루된 싸움에 대한 소셜 미디어에 공개된 영상에 대해 언급했습니다. 그는 Roi Et 지방 경찰청장에게 해당 사건을 조사하도록 지시했다고 밝혔습니다. 영상에 등장하는 경찰관이 Roi Et 지방 경찰청 소속인지 확인하고, 관련 사실이 있다면 진상 조사를 위한 위원회를 구성하여 모든 당사자에게 공정성을 제공해야 한다고 덧붙였습니다. 제4지방경찰청장은 현재 Roi Et 지방 경찰청장이 4지방경찰청에 Nong Bua Daeng 경찰서(차이야품 지방)가 식당 내 싸움 사건에 대한 신고를 받아 현장에 출동하여 관련자들에게 경찰에 신고하도록 안내했다고 보고했다고 밝혔습니다. Nong Bua Daeng 경찰서의 수사관은 해당 경찰관에게 타인에게 상해를 입힌 혐의로 기소 사실을 통보했지만, 해당 경찰관은 혐의를 부인했습니다. 현재 이 사건은 법에 따라 조사 중입니다. 차이야품 지방 경찰은 해당 경찰관의 소속 기관에 형사 사건에 연루된 사실을 보고했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "경찰 관련 사건으로 여행객 안전에 대한 간접적인 영향이 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ผบช.ภ.4 สั่งตรวจสอบข้อเท็จจริง \"รอง ผกก.\" ใช้ขวดตีหัวสาว ย้ำดำเนินการตรงไปตรงมา",
+          "url": "https://www.thairath.co.th/news/local/northeast/2916990",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYlEMmdBkmWLLG.jpg"
+        }
+      ],
+      "collected_at": "10:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYlEMmdBkmWLLG.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "논타부리 및 파툼타니에서 멸종 위기 흰어깨따오기 보호를 위한 지역 활동",
+      "summary": "- 논타부리와 파툼타니에서 흰어깨따오기가 증가한 것은 지역 사회의 노력 덕분입니다.\n- 지역 주민이 불교 사원 주변에 인공 둥지를 설치하여 보호 활동을 펼치고 있습니다.\n- 서식지 감소와 애완 앵무새의 위협으로 도시 나무와 서식지 보호가 필요합니다.",
+      "full_translated": "논타부리와 파툼타니에서 취약한 흰어깨따오기가 예상외로 흔해졌습니다. 이는 부분적으로 지역 가스 스트럿 전문가가 불교 사원 주변에 인공 둥지를 설치한 덕분입니다. 지역 사회의 지원이 증가하고 있음에도 불구하고, 이 새들은 여전히 탈출한 애완 앵무새, 오래된 둥지 나무의 손실, 줄어드는 녹지 공간으로 인해 위협을 받고 있으며, 이는 종의 보존을 위해 도시 나무와 서식지를 보호해야 한다는 요구를 촉발하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "멸종 위기종 보호 노력에 대한 소소하지만 흥미로운 로컬 뉴스. 여행객에게 직접적인 영향은 적지만, 환경 보호에 대한 인식을 높일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "논타부리, 파툼타니",
+        "price": null,
+        "location_google_map_query": "논타부리 또는 파툼타니"
+      },
+      "references": [
+        {
+          "title": "Local action protects critically endangered bird species",
+          "url": "https://www.bangkokpost.com/photo/3206490/local-action-protects-vulnerable-whiteshouldered-ibis-parrots-in-nonthaburi-and-pathum-thani-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227//E2A13EDB014EB456C11EB0C98ACB4BF9_700.jpg"
+        }
+      ],
+      "collected_at": "10:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227//E2A13EDB014EB456C11EB0C98ACB4BF9_700.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "수판부리 재검표, 한 선거구에서 주황색 후보 100표 이상 획득, “텡” 전체 지역 재검표 촉구 및 선거관리위원회 조사 요구",
+      "summary": "- 수판부리 선거관리위원회가 일부 지역 재검표 명령을 내림.\n- 재검표 결과, 한 선거구에서 주황색 후보의 득표수가 100표 이상 증가함.\n- “텡”은 전체 지역에 대한 재검표를 촉구하고 선거관리위원회 조사를 요구함.",
+      "full_translated": "국민당 대표 “텡 나트퐁”은 수판부리에서 2개 선거구의 재검표 결과, 주황색당 후보의 득표수가 100표 이상 증가한 후 전체 지역에 대한 재검표를 요구했습니다. 또한 선거관리위원회에 대한 조사도 촉구했습니다. 2069년 2월 28일, 언론 보도에 따르면 수판부리 선거관리위원회는 2월 27일 수판부리 하원의원 선거에 대한 재검표 명령을 내렸습니다. 재검표는 제2선거구의 송피농 지역의 1번 투표소와 제2선거구의 반창 지역의 4번 투표소에서 진행되었습니다. 또한 비례대표 선거에 대한 재검표는 제1선거구의 사남차이 지역의 11번 투표소, 제2선거구의 방타트 지역의 1번 투표소, 그리고 제2선거구의 옹카락 지역의 4번 투표소에서 진행되었습니다. 수판부리 2구역의 하원의원 후보였던 낫피차 롯칩(룩낫)의 페이스북 페이지에는 2월 8일 진행된 1번 투표소의 선거 결과 보고서와 2월 27일 동일한 투표소에서 진행된 재검표 후의 투표 결과 비교 사진이 게시되었습니다. 게시글에는 '이것은 단 하나의 투표소 결과입니다. 1위는 427표에서 263표로, 2위는 104표에서 228표로 변경되었습니다...'라는 내용이 담겨 있습니다. 투표 용지 세부 정보를 살펴보면 국민당 하원의원 후보의 기존 득표수는 104표였지만 재검표 결과 228표로 증가했습니다. 반면 타 자이 타이당 하원의원 후보의 기존 득표수는 427표였지만 재검표 결과 263표로 감소했습니다. 또한 낫피차 씨는 이 문제가 쉽게 간과할 수 없는 문제라고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "선거 관련 소식이지만, 특정 지역에 한정되어 있고 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สุพรรณบุรี นับใหม่ 2 หน่วย ผู้สมัครส้มคะแนนเพิ่ม 100 กว่า “เท้ง” จี้นับใหม่ทั้งเขต เรียก กปน.สอบ",
+          "url": "https://www.thairath.co.th/news/politic/2916979",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhZb2Rfuvi0oTKBqb.jpg"
+        }
+      ],
+      "collected_at": "10:24",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhZb2Rfuvi0oTKBqb.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 공군, JAS 39 Gripen E 전투기에 MBDA Meteor 미사일 장착: 공대공 능력 강화",
+      "summary": "- 태국 공군이 JAS 39 Gripen E 전투기에 최첨단 MBDA Meteor 공대공 미사일을 장착하여 공중 방어 능력을 강화했습니다.\n- Meteor 미사일은 200km 이상의 사거리와 높은 명중률을 자랑하며, 적 전투기 요격에 효과적입니다.\n- 이 미사일은 능동 레이더 유도 방식과 램제트 엔진을 사용하여 회피가 어려워 태국 공군의 핵심 전력으로 자리매김할 것입니다.",
+      "full_translated": "사브 Gripen E의 가장 진보되고 뛰어난 무기인 MBDA Meteor 공대공 미사일은 램제트 엔진으로 구동되는 장거리 공대공 미사일(BVRAAM)입니다. 이 미사일의 성능으로 인해 60km의 넓은 회피 불능 구역(No-Escape Zone)을 가지며, 이는 모든 공대공 미사일 중 가장 넓습니다. Gripen E 전투기의 자체 방어 잠재력을 향상시켜 200km 이상 떨어진 곳에서 접근하는 목표물을 공격할 수 있습니다. ... Gripen E 전투기의 첨단 무기 장비 기능인 Meteor 미사일은 적 전투기를 파괴하기 위한 공대공 미사일입니다. 양방향 데이터 전송 시스템이 장착되어 목표물을 향해 돌진하는 동안 목표물을 변경할 수 있으며, 비행 내내 높은 에너지를 지속적으로 유지하여 고속 전투기를 빠르게 공격하거나 차단할 수 있는 기회를 늘립니다. MBDA Meteor는 장거리 공중 공격을 위해 설계된 능동 레이더 유도 미사일입니다. 다중 목표 교전(다중 목표에 대한 다중 공격) 능력이 있으며, 고속 전투기와 같은 고기동 목표물과 드론 또는 순항 미사일과 같은 작은 목표물을 공격할 수 있습니다. 적의 강력한 전자전(ECM)에 직면할 수 있는 전투 환경에서 MBDA Meteor는 200km(110해리) 이상의 사거리를 가지고 있습니다. 이는 조종사가 200km 이상 떨어진 곳에서 적 전투기를 탐지하는 즉시 발사할 수 있음을 의미합니다. 고체 연료 램제트 엔진은 외부에서 공기를 흡입하여 연소시키므로 로켓이 지속적으로 고속을 유지할 수 있어 Meteor가 회피하기 매우 어려운 매우 빠른 속도로 목표물을 향해 돌진합니다. 목표물 충돌 전 속도가 매우 빠릅니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 공군의 군사력 강화는 직접적인 여행 관련성은 낮으나, 잠재적인 안보 상황에 대한 정보 제공 차원에서 포함. 여행객 안전에 대한 간접적인 영향 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "MBDA Meteor อาวุธร้ายสุดไฮเทคของ JAS 39 Gripen E",
+          "url": "https://www.thairath.co.th/news/auto/news/2916963",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhZb1SAEdV3FvVscs.jpg"
+        }
+      ],
+      "collected_at": "10:24",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhZb1SAEdV3FvVscs.jpg",
       "date": "2026-02-28"
     }
   ]
