@@ -3482,14 +3482,9 @@
       "summary": "- 이란, 미국과 이스라엘의 공격에 대응하여 호르무즈 해협 봉쇄 가능성 시사.\n- 호르무즈 해협은 세계 석유 수송의 중요한 경로이며, 봉쇄 시 국제 유가 급등 우려.\n- 이란 혁명수비대는 이미 해협을 통과하는 선박에 경고 메시지를 보낸 것으로 알려짐.",
       "full_translated": "이란 언론에 따르면, 군은 미국과 이스라엘이 토요일 아침 공격을 개시한 후 세계 석유 수송의 중요한 경로인 호르무즈 해협을 폐쇄할 준비를 하고 있습니다. 이란 혁명수비대(IRGC)와 가까운 '타스님' 통신은 2569년 2월 28일, 페르시아만과 오만만 사이 이란 남부에 위치한 세계 원유 수송의 중요한 경로인 호르무즈 해협이 폐쇄될 것이라고 보도했습니다. 타스님은 '여러 소식통'의 말을 인용하여 해운 선박들이 IRGC로부터 어떤 선박도 이 해협을 통과할 수 없다는 메시지를 받았다고 밝혔습니다. 영국 해상 무역 운영(UKMTO) 또한 여러 소식통으로부터 여러 선박이 호르무즈 해협 폐쇄에 대한 경고를 받았다는 보고를 받았다고 밝혔습니다. 호르무즈 해협은 세계에서 가장 중요한 해상 무역 경로 중 하나이며 석유 수송에 매우 중요한 '전략적 병목 지점'입니다. 전 세계 석유 및 천연 가스의 약 1/5이 이 해협을 통해 수송됩니다. 한편, 미국과 이스라엘은 토요일 이란 고위 지도부를 겨냥한 군사 공격을 감행하여 중동을 분쟁으로 몰아넣었습니다. 도널드 트럼프 대통령은 이번 공격이 미국에 대한 안보 위협을 종식시키고 이란 국민에게 통치자를 전복할 기회를 제공할 것이라고 밝혔습니다. 이란은 이번 공격을 도발적이고 불법적인 행위라고 규정하고 이스라엘과 페르시아만 지역의 여러 미국 기지가 있는 국가에 미사일을 발사하며 대응했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "호르무즈 해협 봉쇄는 유가 급등 및 여행 관련 비용 증가로 이어질 수 있으며, 중동 지역 긴장 고조는 여행 안전에 잠재적 위협이 될 수 있으므로 여행객에게 중요한 정보임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านจ่อปิดช่องแคบฮอร์มุซ หลังสหรัฐฯ-อิสราเอล เปิดฉากโจมตี",
@@ -3498,23 +3493,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5pYh5sebOJi.jpg"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5pYh5sebOJi.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917121",
+      "source": ""
     },
     {
       "title": "방콕, 폭염 대비 255개 냉방 센터 운영",
       "summary": "- 방콕 전역에 255개의 냉방 센터가 운영되어 주민과 여행객의 안전을 지킵니다.\n- 폭염과 극심한 기온이 관광 및 일상생활에 미치는 영향에 대비합니다.\n- 냉방 센터는 더위로 인한 건강 문제를 예방하고 편안한 휴식을 제공합니다.",
       "full_translated": "태국은 방콕 전역에 255개의 냉방 센터를 개방하여 치명적인 폭염으로부터 주민과 여행객을 안전하게 보호하고 있습니다. 이번 조치는 관광 및 일상생활에 큰 영향을 미치는 극심한 기온 상승에 대한 대응입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "방콕 폭염으로 인한 여행객 안전 확보 및 편의 제공. 냉방 센터 위치 및 이용 정보 필요.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 전역",
-        "price": "무료",
-        "location_google_map_query": "방콕 냉방 센터"
-      },
+      "event_info": "{'date': None, 'location': '방콕 전역', 'price': '무료', 'location_google_map_query': '방콕 냉방 센터'}",
       "references": [
         {
           "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
@@ -3523,23 +3515,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPeGM0Qk90NW1wSnBZLTFKek9wcjVHcmxneUx6MkVVZlRCRGxoQWxFc2VxdGZtQlYwSHhFcU9tUWllRE8zN0RHdG5jU2RuaFUtMUtESHQ1ZHVuRFpGTVdoVHY0T1dwNzNIazdmZmFyRGJQckdydTJya21nQnNOU3J4WUl6RXRYVWZSRmNEdkdWOHBNQjhwSk5DdUEybzFuSGZUV1QycEtCT1ZraGh0RTU0WTJBOWhYR01kRXhjanlWaDVOdEQyLUFRRjRqcmNhcVBQU2RtMTBnUmZ0MW5pcHVCQmVjVXNMcFNXQlpIYkY4WXh1SzlJTEEzSzdDcFRYVlgtSFVfODdwUDIyUjBNVzcxUlotMThQSTdUb2lGeEwzUmxWanhSQUhxSVV1a0xfY3JxdG8zN3o2QkdIU1JsRXotWDRURFBhbVZ6MlE?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026년 Tomorrowland 개최 확정 - 아시아 데뷔",
       "summary": "- 태국 관광청(TAT), 2026년 12월 Tomorrowland Thailand 개최 발표\n- Tomorrowland, 아시아에서 처음으로 태국에서 풀 스케일 개최\n- 태국, 글로벌 이벤트 허브로 도약 기대",
       "full_translated": "태국 관광청(TAT)은 2026년 12월 태국에서 Tomorrowland Thailand를 풀 스케일로 개최한다고 발표했습니다. 이는 Tomorrowland가 아시아에서 처음으로 풀 스케일로 개최되는 것으로, 태국이 글로벌 이벤트 허브로 도약하는 데 기여할 것으로 기대됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 축제 개최 정보는 여행객의 관심도가 높고, 특히 아시아 최초 개최라는 점에서 충분한 가치가 있다고 판단.",
-      "event_info": {
-        "date": "2026-12-01",
-        "location": "태국 (구체적인 장소는 추후 발표)",
-        "price": "미정",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-12-01', 'location': '태국 (구체적인 장소는 추후 발표)', 'price': '미정', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "TAT announces Tomorrowland Thailand full-scale Asian debut in December 2026 - 巴士的報",
@@ -3548,23 +3537,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnlzNDRQdDQyeGFJZDFhUHRGRThKaUVSLWw3Qk9va2YwZUFXX2J3TFI2Zm5vaVFGWFBWMXZuNk53OWdSaTJNRmllMzRMQVRBV2R6OUJDN2VPZThWSWNObUlEZkpoc2VBNS1XeldRSVF5VnJfRERjQ3I4RG5YM2oteENKd25xbk04anhOREpzc0VnTVNaWTdVS2pBS01udGJvNk9wQUhGbUo5NlZSVm9Ba0Jsb2VxSjhpNW5oZlhPZGZRYm5ieUE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광공원, 호랑이 72마리 질병으로 폐사",
       "summary": "- 태국 관광공원에서 호랑이 72마리가 질병으로 사망함.\n- 해당 공원의 위생 및 동물 관리 상태에 대한 우려가 제기됨.\n- 정확한 질병 원인 파악 및 추가 확산 방지 조치가 필요함.",
       "full_translated": "태국 관광공원에서 호랑이 72마리가 질병으로 사망했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "동물원 방문객 감소 및 이미지 하락 가능성",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "72 tigers at Thailand tourist park die from illness - KJCT",
@@ -3573,23 +3559,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHVSa1l2eWpKajdJUmtPa1JxSDdRNnNYRG5pT2cyRThjZXJGWFItZzR5a2MzOHlsRGg5Z3M4d09nWW9tUjdGUlo4VkhpNmVoTVIwQXI2TmYzdHg0ZXBsRGYxN1NVMFJiVnMtMVJaQ2ZnZ1FDbW0tWmRUcmUyRFFRdkY1cw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 유럽 관광객 유치 강화 위해 태국 관광청과 협력",
       "summary": "- 유럽 관광 시장 확대를 위한 협의 진행\n- 태국 관광청(TAT)과 유럽 부서 간 협력 강화\n- 유럽 관광객 유치를 위한 공동 프로모션 계획",
       "full_translated": "유럽 부서는 유럽의 관광 홍보를 강화하기 위해 태국 관광청(TAT)과 협의를 진행합니다. 끄라ทรวง깐땅쁘라텟",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유럽 관광객 유치를 위한 협력은 잠재적으로 한국 여행객에게도 다양한 프로모션과 혜택을 제공할 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Department of European Affairs holds consultation with Tourism Authority of Thailand (TAT) to strengthen tourism promotion in Europe - กระทรวงการต่างประเทศ",
@@ -3598,7 +3581,130 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XcVhGSmVsRm0tX19CTkpkVmJmU1ZlZ0RVU0cwdi1RWS1QWFI3LUlNcGdKOURSZkRPeDdTc3FFVnVKVHhiV0FLZlZYVDFWREpUcnM4ajZKTWZ4b3Y0UmRXUllJMmFOWlgyMkFUUTZEdlVnUXF3MkJFNA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕, 폭염 대비 255개 냉방 센터 운영 (업데이트)",
+      "summary": "- 방콕시, 폭염으로부터 주민과 여행객 보호 위해 255개 냉방 센터 운영.\n- 냉방 센터는 더위 피난처 제공 및 의료 지원.\n- 폭염으로 인한 관광 및 일상생활 영향 최소화.",
+      "full_translated": "방콕이 관광 및 일상 생활에 영향을 미치는 치명적인 폭염과 극심한 기온으로부터 주민과 여행객을 안전하게 보호하기 위해 255개의 냉방 센터를 개방했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 영향을 미치는 폭염 관련 정보. 냉방 센터 위치 정보는 여행 중인 사람들에게 매우 유용함. 업데이트된 정보.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 냉방 센터"
+      },
+      "references": [
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vd3d3LnRyYXZlbGFuZHRvdXJ3b3JsZC5jb20vdGhhaWxhbmQtb3BlbnMtMjU1LWNvb2xpbmctY2VudGVycy1hY3Jvc3MtYmFuZ2tvay10by1rZWVwLXJlc2lkZW50cy1hbmQtdHJhdmVsZXJzLXNhZmUtZnJvbS1kZWFkbHktaGVhdHdhdmVzLWFuZC1leHRyZW1lLXRlbXBlcmF0dXJlcy1pbXBhY3RpbmctdG91cmlzbS1hbmQtZGFpbHktbGlmZS_SAQA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "01:21",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이스라엘, 이란 2차 공격 개시…사망자 200명, 부상자 800명 육박",
+      "summary": "- 이스라엘이 이란의 미사일 기지와 방공 시스템을 목표로 2차 공격을 개시함.\n- 이란 적신월사에 따르면, 공격으로 인해 전국 31개 주 중 24개 주에서 최소 201명이 사망하고 747명이 부상함.\n- 이란 남부 부셰르의 주거 지역과 원자력 발전소도 이스라엘의 공격 목표가 됨.",
+      "full_translated": "이스라엘이 이란에 2차 공격을 시작하며, 미사일 기지와 방공 시스템을 주요 목표로 삼고 있습니다. 현지 시간 2월 28일 토요일 밤, 이스라엘군은 이란 중부 지역의 미사일 발사 기지와 방공 시스템에 대한 2차 공격을 개시했다고 발표했습니다. 테헤란에서 다시 폭발음이 울리는 가운데, AFP 통신은 수도에서 \"새로운 폭발음이 계속해서 들렸다\"고 보도했습니다.\n\n앞서 이란의 Fars 통신은 남부 부셰르의 주거 지역 2곳이 이스라엘의 공격 목표가 되었다고 보도했습니다. 이곳에는 원자력 발전소가 위치해 있습니다. 이란의 주요 언론사인 IRNA 역시 테헤란에서 새로운 폭발음이 들렸다는 소식을 전했습니다. 이란 적신월사의 대변인 모지타바 칼레디는 이스라엘의 공격으로 인해 전국 31개 주 중 24개 주가 영향을 받았으며, 최소 201명이 사망하고 747명이 부상했다고 밝혔습니다. 이스라엘의 국가 응급 서비스 기관인 MDA는 이란과 이스라엘 간의 공격이 오가는 동안 경미한 부상을 입은 89명을 치료했다고 밝혔습니다. 토요일 아침에 있었던 1차 공격에서 IDF는 이란 테헤란을 공격했으며, 고위 정치 및 안보 인사들이 모이는 장소를 목표로 삼았다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "이란-이스라엘 간 긴장 고조는 잠재적으로 태국 여행에 간접적인 영향을 미칠 수 있으므로 정보 제공. 특히 중동 지역을 경유하는 항공편이나, 태국 내 이란 관련 시설에 대한 잠재적 위험 요소를 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิสราเอลเปิดฉากโจมตีระลอก 2 อิหร่านดับพุ่ง 200 ศพ เจ็บเฉียด 800",
+          "url": "https://www.thairath.co.th/news/foreign/2917124",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex58cUHaAXORC.jpg"
+        }
+      ],
+      "collected_at": "01:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex58cUHaAXORC.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 2026년 Tomorrowland 개최 확정 - 아시아 데뷔 (재확인)",
+      "summary": "- 태국, 2026년 12월 Tomorrowland 개최 확정. 아시아 최초 데뷔.\n- 태국 관광청, 대규모 이벤트 유치로 관광 산업 활성화 기대.\n- Tomorrowland는 세계적인 EDM 페스티벌.",
+      "full_translated": "태국 관광청(TAT)은 2026년 12월 태국에서 투모로우랜드가 아시아 최초로 개최될 예정이라고 발표했습니다. 이는 태국 관광 산업에 큰 활력을 불어넣을 것으로 기대됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "대규모 축제 정보는 여행객 유치에 중요. 2026년 개최 확정 정보 재확인.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "태국 투모로우랜드"
+      },
+      "references": [
+        {
+          "title": "TAT announces Tomorrowland Thailand full-scale Asian debut in December 2026 - 巴士的報",
+          "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmJhc2hpY2hpbmEuY29tL2FydGljbGUvNDczNjgyNS_SAQA?oc=5",
+          "source": "巴士的報"
+        }
+      ],
+      "collected_at": "01:21",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "Jetstar 및 Batik Air, 태국 주요 노선 운항 취소로 혼란 발생",
+      "summary": "- Jetstar와 Batik Air의 운항 취소로 태국 주요 노선에 차질이 발생했습니다.\n- 여행객들은 항공편 변경 및 취소에 대한 정보를 확인해야 합니다.\n- 대체 항공편을 미리 확보하고 여행 계획에 차질이 없도록 대비하는 것이 좋습니다.",
+      "full_translated": "Jetstar와 Batik Air의 운항 취소로 태국 주요 노선에 차질이 발생했습니다. 여행객들은 항공편 변경 및 취소에 대한 정보를 확인하고 대체 항공편을 미리 확보하여 여행 계획에 차질이 없도록 대비해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공편 취소는 여행객의 이동에 직접적인 영향을 미치므로 높은 점수를 부여합니다. 항공편 이용 예정인 여행객들에게 중요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Jetstar and Batik Air Cancellations Disrupt Key Thailand Routes - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHBHMzJSWDFZejBCckRPZUJEandpMFFCbTRGSVBEampkM0taeFRDVmNFOUR0QmNSaVZGcEVGTmd3WWNrUk5XQkFpNTEteTczUlNSRjVTTm1hRUFoaDY2UkhKekdsTG1ITlh4ZlJ3aU1YNUVNQ0xVYWo5YktYLVNZWjFHWkd0d1BiOUhMMzBZcjllaDRQZHFZ?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 관광공원, 호랑이 72마리 질병으로 폐사 - 추가 정보",
+      "summary": "- 태국 관광 공원에서 사육되던 호랑이 72마리가 질병으로 폐사함.\n- 기존 보도에 상세 정보 추가: 폐사 원인, 공원 관리 문제점 등.\n- 여행객 안전 및 윤리적 관광에 대한 고려 필요.",
+      "full_translated": "태국 관광공원에서 발생한 호랑이 폐사 사건에 대한 추가 정보입니다. Nature World News에 따르면, 이번 폐사는 단순 질병 때문만이 아니라 공원 측의 관리 소홀과 열악한 환경 등이 복합적으로 작용한 결과로 보입니다. 해당 공원을 방문하려는 관광객은 동물 복지 문제를 고려해야 하며, 다른 관광 시설 방문 시에도 유사한 문제가 없는지 주의를 기울이는 것이 좋습니다. 관련 기관에서는 해당 공원에 대한 조사와 함께 다른 시설에 대한 점검도 실시할 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "동물 복지 관련 문제 발생. 공원 방문객 감소 및 이미지 하락 우려. 관련 시설에 대한 안전 점검 및 관리 강화 예상.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Seventy-Two Captive Tigers Dead in Thailand Outbreak: Welfare Crisis Deepens - Nature World News",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT0U2bDVoaEhXeU1lc2NsRUpNOXB3RkVlRmc3V2Q2NmJSelF1RzVYZHU4RTEtYjBINXdRRUJ3MTVrSFZFVC0yN1JjdUJEd2hHMFB0dXphYVFvUkZqN3cwT2xlN1kydklTQXBhQkxIQWMzblI3N3Jrd2dscjFrTWJxUzZkaXZwakU0YnhMUFR5anA5bjhad0ppRHJNX085UWVpMExtdFJkdlhDcXNid0xsMklPMktfSFgyNVdheFljZ0t5cTNrRTFLTVV4Q0k?oc=5",
+          "source": "Nature World News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
