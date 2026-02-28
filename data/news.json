@@ -3326,14 +3326,9 @@
       "summary": "- 아프가니스탄이 파키스탄 전투기를 격추하고 조종사를 체포했다고 주장했습니다.\n- 파키스탄은 이를 부인하며 양국 간 긴장이 고조되고 있습니다.\n- 미국은 외교 채널을 통해 파키스탄의 작전을 지지하는 입장을 밝혔습니다.",
       "full_translated": "아프가니스탄 당국은 2069년 2월 28일 토요일, 자국 군대가 파키스탄 전투기를 격추하고 조종사를 생포했다고 밝혔습니다. 이는 양국 간 교전이 금요일부터 시작된 가운데 나온 주장입니다. 아프가니스탄 군과 경찰은 해당 전투기가 동부 도시 잘랄라바드에서 격추되었다고 밝혔습니다. 그러나 파키스탄 외무부는 AFP 통신에 이 주장이 '완전히 거짓'이라고 일축했습니다. AFP 통신 기자에 따르면 토요일 잘랄라바드 상공에서 제트기 소리가 들렸고, 곧이어 도시 공항 방향에서 두 차례 폭발음이 발생했습니다. 주민들은 낙하산을 타고 탈출한 후 체포되는 사람을 목격했다고 증언했습니다. 파키스탄은 금요일 카불과 칸다하르를 포함한 아프가니스탄 여러 도시와 지방에 공습을 개시했습니다. 칸다하르는 아프가니스탄 탈레반 최고 지도자 하이바툴라 아쿤드자다의 근거지입니다. 이러한 군사적 움직임은 양국 국경 지역의 긴장이 고조된 이후 발생했습니다. 미국은 이슬라마바드가 아프가니스탄 정부에 대한 압박을 강화하기 위한 공격을 중단하지 않을 것이라고 확인한 후 외교 채널을 통해 파키스탄의 작전을 지지하는 입장을 표명했습니다. 파키스탄은 아프가니스탄 정부가 파키스탄에 적대적인 무장 단체를 지원하고 있다고 비난하고 있으며, 아프가니스탄 탈레반 정부는 이러한 혐의를 부인하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국가 간 긴장 고조는 잠재적으로 여행 안전에 영향을 줄 수 있으나, 직접적인 위협은 아님. 따라서 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อัฟกานิสถานอ้าง สอยบินรบปากีสถานร่วง จับกุมนักบินได้",
@@ -3344,21 +3339,18 @@
       ],
       "collected_at": "23:47",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5kZNwKywwrP.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917120",
+      "source": ""
     },
     {
       "title": "태국 총리, 중동 긴장 완화 위한 외교적 노력 촉구",
       "summary": "- 아누틴 총리는 중동 지역 긴장 고조에 깊은 우려를 표명.\n- 태국 국민의 안전과 복지에 대한 염려를 강조.\n- 관련 당사자들에게 외교적 해결을 통해 긴장 완화를 촉구.",
       "full_translated": "아누틴 총리는 중동 상황에 대한 우려를 표명하며, 영향을 받는 지역 내 태국인들의 안전과 복지를 가장 중요하게 생각한다고 밝혔습니다. 모든 관련 당사자들이 긴장을 완화하기 위해 즉각적인 외교적 협상에 나서야 한다고 촉구했습니다. 2069년 2월 28일, 아누틴 찬위라쿨 총리는 페이스북을 통해 태국은 중동에서 벌어지고 있는 상황에 대해 깊이 우려하고 있으며, 무고한 시민들이 긴장과 폭력 사태로 인해 영향을 받는 것에 대해 진심으로 유감스럽게 생각한다고 밝혔습니다. 그는 태국인들의 안전과 복지, 그리고 영향을 받는 지역의 모든 사람들에 대해 깊이 우려하고 있습니다. 따라서 태국은 모든 관련 당사자들이 상황의 긴장을 완화하고 더 이상의 악화를 막기 위해 최대한의 자제력을 발휘할 것을 촉구합니다. 또한 국제법에 따라 긴장을 완화하기 위한 진지한 노력과 즉각적인 외교적 협상을 촉구합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 총리의 외교적 노력 촉구는 국제 정세에 대한 태국 정부의 입장을 보여주며, 잠재적으로 태국 여행에 영향을 미칠 수 있는 요소에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“อนุทิน” ห่วงคนไทย เรียกร้องทุกฝ่ายใช้การทูต ลดความตึงเครียดในตะวันออกกลาง",
@@ -3369,21 +3361,18 @@
       ],
       "collected_at": "23:47",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyzjuRGKtO4am.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917119",
+      "source": ""
     },
     {
       "title": "전 총리, 5년 만에 최고치 기록한 바트화 안정 위한 강력한 조치 촉구",
       "summary": "- 스레타 타위신 전 태국 총리가 바트화 강세에 대한 우려를 표명하며 정부에 적극적인 개입을 촉구했습니다.\n- 바트화는 최근 5년 만에 최고치를 기록하며 태국 경제에 부담을 주고 있습니다.\n- 스레타 전 총리는 중앙은행의 추가 금리 인하 가능성을 언급하며, 바트화 약세를 유도하는 정책이 필요하다고 강조했습니다.",
       "full_translated": "스레타 타위신 전 총리가 5년 만에 최고치를 기록한 바트화 안정 위한 강력한 조치를 촉구했습니다. Thai Examiner",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "바트화 강세는 관광객의 구매력에 영향을 미칠 수 있으므로 관련 정보를 제공합니다. 환율 변동은 여행 경비에 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Ex Prime Minister Srettha Thavisin calls for more robust moves to tamp down the baht at a 5 year high - Thai Examiner",
@@ -3394,21 +3383,18 @@
       ],
       "collected_at": "23:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSUZkY1BqZ3pPNlgzRUZhaUNjQ040eDdFVjNzNVVuUmVRRVMwWkRlejNDdmRONUJEMVFaOUtiZnhKcGh5SFc5Uk9sVlpDQXNQb250N2lGVF9fNGVFeS1KS3Q5UjZ1Q2g0TnNHMjgtcWw4UGtBR1hpckZ3djlQXzBubEwxU3BqQzZCR2gtRlhDNzlPYnNNdDltd181Rjd3clpwNVpkSFQxYUo5a1lJanpVT2JuQVpMSFZFdW1lZ1A4ZXNoWXhDSUpNNFh0cW5paDlUYU5sSHh6dG5fVnViQmp5dzQ0c25kZU8yamNheTBBR0lyNm16LVE?oc=5",
+      "source": ""
     },
     {
       "title": "푸미차이타이당, 세리루암타이당과의 총리 후보 지지 관련 논의 부인",
       "summary": "- 푸미차이타이당은 세리루암타이당과 아누틴 총리 후보 지지에 대한 어떠한 협의도 없었다고 밝혔습니다.\n- แนน บุณย์ธิดา 대변인은 세리루암타이당과의 연락이나 공동 기자회견이 없었다고 강조했습니다.\n- 푸미차이타이당은 국민들에게 정확한 정보를 제공하고자 한다고 덧붙였습니다.",
       "full_translated": "แนน บุณย์ธิดา 푸미차이타이당 대변인은 푸미차이타이당이 세리루암타이당에 아누틴을 총리로 지지하도록 요청한 적이 없다고 밝혔습니다. 푸미차이타이당은 세리루암타이당과 어떠한 논의나 연락도 없었다고 재차 강조했습니다. 2069년 2월 28일, 푸미차이타이당 대변인인 แน น บุณย์ธิดา สมชัย는 푸미차이타이당이 세리루암타이당에 대한 어떠한 정보도 제공하지 않았다고 말했습니다. 특정 정당이 아누틴 차안비라쿨 당 대표를 총리로 지지한다는 기자회견은 공개적으로 진행되었으며, 해당 정당이 아누틴을 지지하겠다는 의사를 밝힌 후 푸미차이타이당에서 공동 기자회견을 열었습니다. 세리루암타이당의 경우, 어떠한 연락도 없었고 공동 기자회견도 없었습니다. 따라서 푸미차이타이당은 국민들에게 푸미차이타이당과 세리루암타이당 사이에 아누틴을 총리로 지지하기 위한 논의나 협력이 없었다는 정확한 정보를 알리고자 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ภูมิใจไทย” ปฏิเสธ ไม่เคยติดต่อ พูดคุย “เสรีรวมไทย” ให้หนุน “อนุทิน” เป็นนายกฯ",
@@ -3419,21 +3405,18 @@
       ],
       "collected_at": "23:47",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyyzrTHo4LKII.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917112",
+      "source": ""
     },
     {
       "title": "시라차 지방 자치 단체, 2569 회계 연도 성과 협약 프로젝트 시작",
       "summary": "- 시라차 시장, 성과 협약 프로젝트 개회식 주재\n- 지방 자치 단체 직원 및 계약직 직원의 업무 효율성 향상 목표\n- 청렴 서약 통해 윤리적 거버넌스, 투명성, 반부패 강조",
       "full_translated": "시라차 지방 자치 단체의 Chatchai Thimkrajang 시장은 행사를 주재했습니다. Thanongsak Phuangnoi 중위 (예비역), 자치 단체 서기는 프로젝트의 목적에 대한 보고서를 전달했습니다. 서기는 지방 자치 단체 직원 및 계약 직원에 대한 성과 평가는 업무 효율성, 경력 개발, 고용 안정 및 모든 수준의 직원에 대한 다양한 혜택을 향상시키는 데 중요한 메커니즘 역할을한다고 설명했습니다. 이를 지원하기 위해 지방 자치 단체의 인사 부서는 모든 직원이 평가 기준, 방법 및 프로세스에 대한 명확하고 통일 된 이해를 얻도록 프로젝트를 구성했습니다. 이는 직원이 개인 개발 계획 및 업무 성과 개선을 위해 평가 결과를 효과적으로 사용할 수 있도록하기 위함입니다. 총 50 명의 지방 자치 단체 직원과 계약직 직원이 교육 세션에 참여했습니다. 개회식에 이어 Chatchai Thimkrajang 시장은 부서장 및 교육 참가자와 함께 청렴 서약에 대한 약속을 공동으로 선언했습니다. \"청렴, 투명성: 시라차 지방 자치 단체, 촌부리 지방 – 청정 2569\" 공식 직무와 관련하여 선물, 기념품 또는 사례금을 \"수락하지 않고, 주지 않음\". 선언문은 회계 연도의 공공 행정에서 윤리적 거버넌스, 투명성 및 반부패 조치를 지속적으로 강조하고 있음을 보여줍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "관광객에게 직접적인 영향은 없으나, 공공 서비스 개선 노력은 간접적으로 긍정적 영향을 줄 수 있음. 하지만 시의적절한 정보는 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Sriracha Municipality",
-        "price": null,
-        "location_google_map_query": "Sriracha Municipality"
-      },
+      "event_info": "{'date': None, 'location': 'Sriracha Municipality', 'price': None, 'location_google_map_query': 'Sriracha Municipality'}",
       "references": [
         {
           "title": "Sriracha Municipality Launches Performance Agreement Project for Fiscal Year 2569",
@@ -3444,7 +3427,61 @@
       ],
       "collected_at": "23:47",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772288381218416847618519528374.jpg?v=1772288454",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://thepattayanews.com/2026/02/28/sriracha-municipality-launches-performance-agreement-project-for-fiscal-year-2569/",
+      "source": ""
+    }
+  ],
+  "2026-03-01": [
+    {
+      "title": "태국, 2026년 글로벌 이벤트 허브 목표 - Tomorrowland 등 대형 이벤트 유치",
+      "summary": "- 태국이 2026년을 글로벌 이벤트 허브로 만들고자 노력 중입니다.\n- Tomorrowland를 포함한 대규모 이벤트를 유치하여 관광 산업을 활성화할 계획입니다.\n- 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "태국은 2026년을 글로벌 이벤트 허브로 만들 계획입니다. 이를 위해 Tomorrowland와 같은 대규모 이벤트를 유치하여 관광 산업을 활성화하고자 합니다. 이러한 노력은 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다. 특히 파타야에서 개최되는 Tomorrowland는 아시아 최초의 풀 스케일 데뷔로, 많은 관광객을 유치할 것으로 기대됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "대규모 이벤트 개최 정보는 여행객의 여행 계획에 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": "2026-12",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand global event hub 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcGJwZ3B5V2Z4N1BTVkk1VGhlVEdSY0JhSEFzdW9ZSDBIZndDeGhhUEpWQWRjc2swLVI2OWV0WnlCcXp2UWxYZTZ0eFA4cW5JSWVHRkQwLTNhY1B4NmhzY2F5dURRLVhiWEVrMUhyN1RyQmYxbS01Sldla0hxbXBSWjJseUcxb2gwSHpB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:13",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "TikTok, 알바니아 정부의 금지령 종료 후 복귀",
+      "summary": "- 알바니아에서 1년간의 금지령이 만료된 후 TikTok이 다시 서비스를 시작했습니다.\n- 이번 사건은 정치적으로 분열된 지역에서 금지령을 내리는 복잡성을 보여줍니다.\n- 온라인 안전 및 검열에 대한 질문을 제기하고 있습니다.",
+      "full_translated": "소셜 미디어 플랫폼 TikTok은 알바니아에서 1년 간의 금지령이 이달 만료된 후 다시 서비스를 시작했습니다. 이는 정치적으로 분열된 지역에서 금지령을 내리는 복잡성을 보여주고 온라인 안전 및 검열에 대한 질문을 불러일으키는 사례입니다. - REUTERS 소셜 미디어 플랫폼 TikTok은 알바니아에서 1년 간의 금지령이 이달 만료된 후 다시 서비스를 시작했습니다. 이는 정치적으로 분열된 지역에서 금지령을 내리는 복잡성을 보여주고 온라인 안전 및 검열에 대한 질문을 불러일으키는 사례입니다. - REUTERS 방콕 포스트 경험을 최대한 활용하려면 광고 차단기를 비활성화하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "여행 관련성이 낮음. 알바니아 관련 뉴스.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TikTok returns to Albania after government ban ends",
+          "url": "https://www.bangkokpost.com/video/world/3207039/tiktok-returns-to-albania-after-government-ban-ends",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207039_700.jpg"
+        }
+      ],
+      "collected_at": "00:13",
+      "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207039_700.jpg",
+      "date": "2026-03-01"
     }
   ]
 }
