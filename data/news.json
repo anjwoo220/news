@@ -3983,14 +3983,9 @@
       "summary": "- 2026년, Tomorrowland가 태국 파타야에서 아시아 최초로 개최될 예정입니다.\n- 이 풀 스케일 뮤직 페스티벌은 태국을 글로벌 이벤트 허브로 만들려는 노력의 일환입니다.\n- 음악 축제 이상의 경험을 제공할 것으로 기대됩니다.",
       "full_translated": "태국 파타야, 기록을 깰 준비 완료\nTomorrowland, 2026년 아시아 데뷔로 뮤직 페스티벌의 새로운 지평을 열다!\n",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 뮤직 페스티벌 개최는 관광객 유치에 큰 영향을 미치므로 높은 점수를 부여합니다. 기존에 '태국, 2026년 글로벌 이벤트 허브 목표 - Tomorrowland 등 대형 이벤트 유치' 기사가 있지만, 구체적인 개최지와 시기가 명시되어 업데이트로 판단.",
-      "event_info": {
-        "date": "2026-12-01",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 Tomorrowland"
-      },
+      "event_info": "{'date': '2026-12-01', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 Tomorrowland'}",
       "references": [
         {
           "title": "Pattaya Thailand Set to Break All RecordsTomorrowland’s Full‑Scale Asian Debut in 2026 Will Redefine Music Festivals Forever! - Travel And Tour World",
@@ -3999,23 +3994,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:45",
+      "collected_at": "3:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQMHZxS1VPSHFfM0lxNUZDN0diQzVOSEVNbzBTb25CWUNVa3Rwa2tuRXRybi1IVDNnbXd6MjRKbWFoTTNhZDZyU19JSkRzNUplSy1CeldPSkRZMUpsTlNjRVBPLU9oOE1rWXFmZ2RTRlhUZDdoQi1NbFh6bFhkOUlGWDZzYUhaUFRvbmJOVmZCa2lvcjIydGtsMnY1d0VVR0tqWkppa0NIUlZhT0NlbEJuQzRRcVJjeDlDcmhmYk53QmJJUHlBbGhILVYtWDI3aHdhaUp4S0JNbzVXbVR0WnVWejFkZURKcHZTUk5OZ3FZbEFvMEpraHZLek1JOHVhRVBJc0E?oc=5",
+      "source": ""
     },
     {
       "title": "매홍손 반팜복, 'UNSEEN THAI THAI' 관광 캠페인 10대 모델 커뮤니티 선정",
       "summary": "- 매홍손의 반팜복 마을이 태국 관광 캠페인 'UNSEEN THAI THAI'의 10대 모델 커뮤니티로 선정됨.\n- 이 캠페인은 숨겨진 태국의 매력을 발굴하고 홍보하는 데 중점을 둠.\n- 반팜복은 독특한 문화와 아름다운 자연경관으로 관광객들에게 새로운 경험을 제공할 것으로 기대됨.",
       "full_translated": "매홍손의 반팜복 마을이 'UNSEEN THAI THAI' 관광 캠페인에 따라 10대 모델 커뮤니티로 선정되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 새로운 관광 명소 정보는 여행자들에게 유용할 수 있지만, 즉각적인 안전이나 편의에 미치는 영향은 크지 않음. 'UNSEEN THAI THAI' 캠페인은 태국 내 잘 알려지지 않은 장소를 소개하므로, 새로운 여행 경험을 추구하는 여행자에게 매력적일 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "매홍손 반팜복",
-        "price": null,
-        "location_google_map_query": "Ban Pam Bok, Mae Hong Son"
-      },
+      "event_info": "{'date': None, 'location': '매홍손 반팜복', 'price': None, 'location_google_map_query': 'Ban Pam Bok, Mae Hong Son'}",
       "references": [
         {
           "title": "Ban Pam Bok in Mae Hong Son named Top 10 Model Community under ‘UNSEEN THAI THAI’ tourism campaign - Pattaya Mail",
@@ -4024,23 +4016,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:45",
+      "collected_at": "3:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORzZJb2hJemRkSnZtMVNGelQ0N1Zudy1wNXN5eWs3X0g5NFh5WmhEUGRkRUhZeEI5eEZiSHI3ZGZnNFZFdktoNjZNQW9jQlhtR24yLXo3VGNGVVRSV2V1bWQ3X1hYRlY1MWdtNGlqTGVFdlBOczBmbF9OU2VDWTN6eTg5cTVpZG03dm9tQm1sOGxSVmtoUHpzY0thZUtyclEtd2ZFVHRnMDFOSHJ3T0s1Qm44SWpnYkpxLVBKWlRVZDExTlBQZzFsTXV3SzdaalI0dlBVdFQ0NFpJb1JH?oc=5",
+      "source": ""
     },
     {
       "title": "중국 관광객 회복 예측은 아직 시기상조 - 방콕 포스트",
       "summary": "- 방콕 포스트에 따르면 중국 관광객 회복을 예측하기에는 아직 이르다.\n- 태국 관광 산업은 중국 관광객의 복귀를 기대하고 있지만, 불확실성이 존재한다.\n- 관련 업계는 상황을 주시하며 다각적인 대응 방안을 모색 중이다.",
       "full_translated": "Too soon to predict China tourism rebound&nbsp;&nbsp;Bangkok Post",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국 관광객 회복에 대한 불확실성은 태국 관광 산업에 영향을 미칠 수 있으므로 중간 점수 부여. 아침 브리핑에 포함하여 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Too soon to predict China tourism rebound - Bangkok Post",
@@ -4049,7 +4038,79 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:45",
+      "collected_at": "3:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSExzcF9TNTNJLUhtOFBWRUJucDVCWlJOWlFmT1RjQUJVcUZHaEZQUmZrUHZHMFRwXzZ0Nl9ZUkNFZ09JNEEzYXdJVjhnMUJtd3NINkhPSkxTQzJaVUZUOWRXc0pWTzdfY0tVSE9EUlhHWWE5MTBWcERrRjB5a19FTFZyVlJ6THl1VFR3R0lDRURDV0FiN2ZyWXlB?oc=5",
+      "source": ""
+    },
+    {
+      "title": "네타냐후, 이란 최고 지도자 사망 가능성 제기",
+      "summary": "- 네타냐후 이스라엘 총리가 이란 최고 지도자의 사망 가능성을 언급했으나, 이란은 이를 부인함.\n- 이스라엘은 이란 지도부 공격을 감행했으며, 이란은 호르무즈 해협 봉쇄 가능성을 경고한 바 있음.\n- 상황이 유동적이므로, 관련 외신 동향을 계속 주시해야 함.",
+      "full_translated": "벤냐민 네타냐후 이스라엘 총리는 이란 최고 지도자가 사망했을 가능성을 시사하는 여러 징후가 있다고 주장했습니다. 그러나 이란 관리들은 최고 지도자와 대통령 모두 안전하다고 밝혔습니다. 외신에 따르면, 네타냐후 총리는 2월 28일 토요일 저녁에 아야톨라 알리 카메네이가 '더 이상 우리와 함께 있지 않다'는 것을 시사하는 '여러 징후'가 있다고 말했습니다. 그러나 그는 카메네이가 살해되었는지 공식적으로 확인하지 않았습니다. 이란 외무부 장관 아바스 아락치는 NBC에 자신이 아는 한 아야톨라 알리 카메네이와 다른 고위 관리들은 살아있다고 말했습니다. 그러나 이란은 토요일 아침 공격이 시작된 이후 카메네이의 영상을 공개하지 않았습니다. CNN은 앞서 카메네이가 다른 고위 지도자들과 함께 이스라엘의 첫 번째 공격 목표 중 하나였다고 보도했지만, 이스라엘 소식통은 카메네이가 살해되었는지 확인되지 않았다고 밝혔습니다. 네타냐후 총리는 '이 폭군은 더 이상 우리와 함께 있지 않다는 것을 시사하는 여러 징후가 있다'고 말하며 이스라엘이 그의 사무실을 파괴했다고 덧붙였습니다. 그는 이란에 대한 작전에는 '인내'가 필요하며 '필요한 만큼 계속될 것'이라고 덧붙였습니다. 네타냐후는 성명에서 '이번 전쟁은 진정한 평화로 이어질 것'이라고 약속했습니다. 그러나 네타냐후가 성명을 발표한 직후 이란 외무부 대변인 에스마엘 바게이는 ABC 뉴스에 이란 대통령과 최고 지도자는 '안전하다'고 확인했으며 이란 정부의 통치 시스템은 그대로 유지되고 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "정치적 불안정은 여행 안전에 영향을 줄 수 있으므로 관련 정보를 제공. 특히 이란의 호르무즈 해협 봉쇄 위협은 유가 상승 및 경제적 불안으로 이어질 수 있어 여행 관련 비용에 간접적인 영향을 줄 수 있음.",
+      "event_info": {},
+      "references": [
+        {
+          "title": "เนทันยาฮูอ้าง มีสัญญาณหลายอย่างที่ชี้ว่า ผู้นำสูงสุดอิหร่านอาจตายแล้ว",
+          "url": "https://www.thairath.co.th/news/foreign/2917127",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5zj4abBazz9.jpg"
+        }
+      ],
+      "collected_at": "04:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5zj4abBazz9.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "푸껫 라차 제도 인근 기름 유출, 총력 대응",
+      "summary": "- 푸껫 라차 제도를 위협하는 기름 유출 사고 발생\n- 당국, 오염 확산 방지를 위해 총력 대응 중\n- 관광객과 해양 생태계에 미치는 영향 최소화 노력",
+      "full_translated": "푸껫 라차 제도를 위협하는 기름 유출 사고를 막기 위해 총력을 기울이고 있습니다. Pattaya Mail",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광지 인근 기름 유출은 환경 및 관광 경험에 영향을 미칠 수 있으므로 중간 수준의 영향으로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 라차 제도",
+        "price": null,
+        "location_google_map_query": "푸껫 라차 제도"
+      },
+      "references": [
+        {
+          "title": "Full-force efforts launched to contain oil spill threatening Racha Islands off Phuket - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHVnWlM2RHRtZmVSeE9manlZNFIyTUZUSlI5RnJQZVFkOFI1SFJBRVVkakZmMzFER3BQZnllcnQxN2Q2VEFBbDNyTTM1YWYtQXA0UlRfZFEzRk9oSGRXZllYLTlVcm5NYnMyRnFvX1E4eHZhNHV5MFUtd3JkRlhidm51dHlPem9fVVZnVTNDc0Y2dzlvT0J5TmVucFhuaWpuRFNnU2JDTWQwMzNpdVI3MlRQOWY3N0NsWE14aWtBTTNuemppZnFMamtUWWFjQQ?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:13",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 2026년 파타야에서 Tomorrowland 개최: 공식 날짜, 티켓, 호텔 패키지 정보",
+      "summary": "- 2026년 Tomorrowland Thailand가 파타야에서 개최됩니다.\n- 공식 날짜, 티켓 정보, 호텔 패키지에 대한 내용이 포함되어 있습니다.\n- 태국은 이 행사를 통해 글로벌 이벤트 허브로 도약하고자 합니다.",
+      "full_translated": "Tomorrowland Thailand 2026이 파타야에서 개최됩니다: 공식 날짜, 티켓, 호텔 패키지 정보 등 - Chiang Rai Times",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "대규모 국제 행사 정보는 여행객에게 유용하며, 특히 티켓 및 숙박 관련 정보는 필수적입니다. 이미 '태국, 2026년 Tomorrowland 개최 확정' 기사가 있지만, 구체적인 개최지와 티켓 정보가 추가되었으므로 업데이트로 간주합니다.",
+      "event_info": {
+        "date": "2026-12-XX",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야 Tomorrowland"
+      },
+      "references": [
+        {
+          "title": "Tomorrowland Thailand 2026 In Pattaya: Official Dates, Tickets, Hotel Packages, And What's Next - Chiang Rai Times",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREYzR3lDeFNxd2NFRkVod2d5bDE2ak1XWnQyTDk5UXp4emM4ZTNJclk1Nm9qMUVWdWRXcktITURfQW1zZmwxb3RnWWg1dWV4ZnVqd01qVVZQV1p2c2ZGU3ZYTnU3d2NoMlFnOHVQaGg4TWc2T09YRW9SZWlFWk11S094Ui0?oc=5",
+          "source": "Chiang Rai Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:13",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
