@@ -4246,14 +4246,9 @@
       "summary": "- 에티하드 항공의 A380 항공기가 방콕 노선에 투입되어 고급 관광 시장에 긍정적인 영향을 미칠 것으로 예상됨.\n- 이번 투입은 태국 관광 산업에 새로운 활력을 불어넣고 고급 여행객 유치에 기여할 것으로 기대됨.\n- A380 항공기는 고급스러운 서비스와 편안한 좌석을 제공하여 태국 여행 경험을 향상시킬 것으로 전망됨.",
       "full_translated": "에티하드 항공의 A380 항공기가 방콕 노선에 투입되어 태국 고급 관광을 활성화할 것으로 예상됩니다. thetraveler.org",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "고급 관광객 유치에 기여할 수 있지만, 일반적인 여행객에게 미치는 영향은 제한적임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Etihad’s A380 to Bangkok Set to Lift Thai Luxury Tourism - thetraveler.org",
@@ -4262,23 +4257,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:44",
+      "collected_at": "5:44",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0NaUmNjVW1rYVVEZ2lWeVNyVG9QMkpkWGNreDJORVQzSS01MWRQT3lweDd2clUzWW40WE5GdmIxa2NlMVpVcHY4Vi0wNC1rRHRuMzBfMU1ZaXdfNjlSQnBUVEp4UTZlYzJjVExjWk9UdTZKdlRMenYzTldlZzRVOUF2Tm8zWWpKaGJ5NA?oc=5",
+      "source": ""
     },
     {
       "title": "아오낭 해변 관광 성장 - Travel And Tour World",
       "summary": "- 아오낭 해변의 관광 성장",
       "full_translated": "아오낭 해변 관광 성장",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행객에게 유용한 정보이지만, 기존 뉴스에 비해 새로운 업데이트는 없음. 해변 방문객 수 증가 추세는 여행 계획에 참고할 만함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Ao Nang Beach tourism growth - Travel And Tour World",
@@ -4287,23 +4279,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:44",
+      "collected_at": "5:44",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVURvLW9JcVRUVm9ENVk4eVY4OFRvM1pOYkcyRl8yZk9ReDRUUTVvWndic0ZoR1NRZTdfbEwxeGR0ODdmbHhadTdjcWV0cGtoNFNiRDVYR1daX0lRaHdGOGVOOWRqbW5mQVoyTlBnd3dNOS0tdGNxQktsallWQWVJazhqa3hoUUZE?oc=5",
+      "source": ""
     },
     {
       "title": "트럼프, 이란 최고 지도자 사망 가능성 제기",
       "summary": "- 도널드 트럼프 미국 대통령이 이란 최고 지도자 아야톨라 알리 카메네이가 사망했을 가능성을 언급했습니다.\n- 트럼프는 미국-이스라엘의 공격으로 사망했을 것이라고 추정하며, 관련 정보를 확인 중이라고 밝혔습니다.\n- 아직 확실한 정보는 아니지만, 여러 경로를 통해 사망 가능성을 인지하고 있다고 덧붙였습니다.",
       "full_translated": "도널드 트럼프는 여러 미국 언론과의 인터뷰에서 이란 최고 지도자가 지난 토요일 미국과 이스라엘의 공격으로 사망했을 것이라고 믿는다고 말했습니다. 2069년 2월 28일, 도널드 트럼프 대통령은 NBC 뉴스와 전화 통화를 가졌습니다. 방송국은 미국 지도자에게 아야톨라 알리 카메네이 이란 최고 지도자가 미국-이스라엘의 공습으로 사망했다는 보고서에 대한 의견을 물었습니다. 트럼프는 \"나는 여러 사람과 이야기를 나눴고, 그것이 사실이라고 믿는다\"고 말했습니다. 그는 ABC 뉴스에 했던 말을 반복하며 이란에서 미국의 작전이 \"성공적이었다\"고 확인했습니다. ABC 뉴스의 수석 정치 기자 레이첼 스콧은 도널드 트럼프가 그녀에게 이란 최고 지도자가 사망했다고 \"믿는다\"고 말했다고 전했습니다. 그가 \"확실히\" 아느냐는 질문에 트럼프는 \"직접 정보를 보기 전까지는 확실히 말하고 싶지 않지만, 우리는 그가 사망했다고 믿는다\"고 답했습니다. \"그리고 그들의 지도자 대부분이 사라졌습니다. 한 곳뿐만 아니라 우리가 공격한 다른 두 곳에서도 사라졌습니다. 우리는 훌륭한 정보를 가지고 있으므로 대부분의 지도자가 사라졌다고 생각합니다.\" 해외 뉴스를 팔로우하세요: [https://www.thairath.co.th/news/foreign](https://www.thairath.co.th/news/foreign) 출처 : bbc ... ... ...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "이란 관련 뉴스는 여행객의 안전에 간접적인 영향을 미칠 수 있지만, 현재로서는 직접적인 위협은 아니라고 판단했습니다. 따라서 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์เชื่อ ผู้นำสูงสุดอิหร่าน อาจเสียชีวิตแล้ว",
@@ -4312,8 +4301,60 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex6SVnL8NBfaZ.jpg"
         }
       ],
-      "collected_at": "05:44",
+      "collected_at": "5:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex6SVnL8NBfaZ.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917128",
+      "source": ""
+    },
+    {
+      "title": "태국 정부, 폭염 경보 발령: 노약자, 어린이, 야외 노동자 주의",
+      "summary": "- 태국 정부는 폭염으로 인해 열사병 위험이 높아짐에 따라 주의를 당부했습니다.\n- 특히 노약자, 어린이, 만성 질환자, 야외 노동자는 11시부터 3시 사이 야외 활동을 자제해야 합니다.\n- Mae Hong Son, Lampang, Tak 지역은 최고 42-43도까지 오를 수 있으며, 탈수 예방을 위해 물을 자주 마셔야 합니다.",
+      "full_translated": "태국 정부, 폭염 경보 발령\n\n게시일: 2026년 3월 1일 05:42\n신문 섹션: 뉴스\n작성자: Anucha Charoenpo\n\n기온이 작년보다 더 높을 것으로 예상됨에 따라, 특히 취약 계층, 만성 질환자 및 야외 노동자에게 열사병에 대한 예방 조치를 취할 것을 촉구하고 있습니다. Ayrin Phanrit 정부 부대변인은 Mae Hong Son, Lampang 및 Tak 지방을 포함한 고위험 지역에서 기온이 42~43도에 달할 수 있으므로 대중은 야외에서 장시간 머무는 것을 피해야 한다고 말했습니다. 사람들은 오전 11시에서 오후 3시 사이에 야외 활동을 제한하고, 물을 자주 마시며, 열사병 위험을 줄이기 위해 '편안한 옷'을 입는 것이 좋습니다. 열사병은 치명적일 수 있습니다. 고위험군에는 노인, 유아 및 어린이, 심장병, 폐 질환 및 비만과 같은 만성 질환자, 야외에서 일하는 사람들이 포함됩니다. 열사병은 신체가 과열되어 중요한 시스템에 영향을 미칠 때 발생합니다. Ayrin은 “장시간 더위에 머무는 것을 피하십시오. 또한 술을 마시지 말고 특히 어린 아이를 차 안에 방치하지 마십시오.”라고 말했습니다. 한편 기상청은 화요일부터 금요일까지 북동부에서 시작하여 동부, 중부 평야, 방콕 및 주변 지역, 북부에 영향을 미치는 폭풍이 예보된다고 밝혔습니다. 적당한 환기와 예상 강우로 인해 대기 오염 수준은 낮음에서 보통 수준으로 유지되고 있다고 기상청은 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행자 안전에 직접적인 영향을 미치는 폭염 관련 정보이며, 시간대별 주의사항을 포함하고 있어 유용함. 특히 고위험 지역 정보는 여행 계획에 참고할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "Mae Hong Son, Lampang, Tak (고위험 지역)",
+        "price": null,
+        "location_google_map_query": "Mae Hong Son Thailand"
+      },
+      "references": [
+        {
+          "title": "Govt issues heatstroke warning",
+          "url": "https://www.bangkokpost.com/thailand/general/3207178/govt-issues-heatstroke-warning",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207178_260301055012_700.jpg"
+        }
+      ],
+      "collected_at": "06:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207178_260301055012_700.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "치앙라이, 마을 숲 복원으로 연무 감소",
+      "summary": "- 치앙라이주 판 지구의 작은 마을, 숲 보존으로 연무 감소 및 지속 가능한 수입 창출 모델 제시\n- 훼손된 토지 400라이 이상을 복원하여 산불 예방 및 탄소 배출권 관리의 모델로 부상\n- 2001년부터 마을 주민들이 주도하여 숲을 복원, 현재는 연중 물 공급 및 화재 감소 효과",
+      "full_translated": "치앙라이: 판 지구의 작은 공동체가 숲 보존을 통해 연무를 줄이면서 지속 가능한 수입을 창출하는 방법을 보여주고 있습니다. 도이 루앙 국립공원과 접경한 롱본은 400라이 이상의 훼손된 토지를 번성하는 숲 완충 지대로 복원했습니다. 한때 불법 벌목과 밀렵으로 훼손되었던 이 지역은 현재 산불 예방 및 지역 사회 주도의 탄소 배출권 관리 모델로 자리 잡았습니다. 치앙라이는 PM2.5 오염으로 가장 큰 타격을 입은 북부 9개 주 중 하나이며, 전국 핫스팟의 거의 60%를 차지합니다. 작년 상반기에만 850만 라이 이상의 숲과 농지가 불에 탔습니다. 이와는 대조적으로 롱본은 지역 사회 숲에서 핫스팟을 거의 제로로 줄였습니다. 이러한 전환은 2001년 마을 이장이자 지역 사회 숲 위원회 의장인 프라니 라차콤 아래에서 시작되었습니다. 당시 삼림 벌채는 물 부족과 심각한 가뭄을 유발하여 지역 농장을 황폐화시켰습니다. 그녀는 최근 언론 방문에서 \"숲이 사라지면서 우리는 고통을 겪었습니다.\"라고 말했습니다. \"그래서 우리는 숲을 복원하고 보호하기 위해 엄격한 지역 사회 규칙을 설정하기로 합의했습니다.\" 화재 순찰, 지역 사회 규정 및 집단 모니터링을 통해 마을 사람들은 점차 숲을 되살렸습니다. 오늘날 이 숲은 연중 물을 공급하여 건기에도 논을 푸르게 유지합니다. 화재가 거의 사라짐에 따라 주민들은 유해한 PM2",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "치앙라이 지역의 대기 질 개선에 대한 정보는 여행자들에게 유용하며, 특히 해당 지역을 방문하려는 사람들에게 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "치앙라이주 판 지구 롱본",
+        "price": null,
+        "location_google_map_query": "롱본 치앙라이"
+      },
+      "references": [
+        {
+          "title": "Village forest revival cuts haze pollution in Chiang Rai province",
+          "url": "https://www.bangkokpost.com/thailand/general/3207388/village-forest-revival-cuts-haze-pollution-in-chiang-rai-province",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207388_260301053424_700.jpg"
+        }
+      ],
+      "collected_at": "06:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207388_260301053424_700.jpg",
       "date": "2026-03-01"
     }
   ]
