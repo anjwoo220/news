@@ -1854,14 +1854,9 @@
       "summary": "- 이란이 이스라엘의 공격에 대한 보복으로 이스라엘을 향해 수십 발의 장거리 미사일을 발사했다고 보도됨.\n- 이란은 전국 영공을 폐쇄하고 학교에 원격 수업으로 전환할 것을 명령함.\n- 이란은 이스라엘에 대한 다양한 형태의 보복을 준비하고 있으며, 미국 기지 공격 또는 미국 함선 공격 가능성도 제기됨.",
       "full_translated": "이란 혁명수비대와 가까운 언론은 이스라엘과 미국의 공격에 대한 보복으로 이스라엘을 겨냥해 수십 발의 장거리 미사일을 발사했다고 보도했습니다. IRGC와 관련된 Nour News는 미사일 발사가 이미 시작되었다고 밝혔으며, Mehr News Agency는 이 미사일들이 이란이 이스라엘을 지칭하는 용어인 '팔레스타인 전역'을 목표로 하고 있다고 보도했습니다. 이란 국영 영어 방송 Press TV는 현재 이란에서 30~75발의 미사일이 발사되었다고 보도했습니다. 한편, 이란 국영 IRNA는 대통령과 가까운 소식통을 인용해 마수스 페세스키안 대통령이 여전히 살아있고 건강하다고 밝혔습니다. 마지드 아크하반 민간항공기구 대변인은 정부와 가까운 언론을 통해 이란이 긴장이 고조되는 가운데 전국 영공을 폐쇄했다고 밝혔습니다. 또한 이란 언론에 따르면 전국 학교가 폐쇄되고 원격 수업으로 전환되었습니다. 앞서 혁명수비대(IRGC)와 연계된 준관영 언론인 타스님 통신은 이란이 보복을 준비하고 있으며 시온주의 정권에 강력하게 대응할 것이라고 보도했습니다. 분석가들은 테헤란이 역내 미군 기지에 단거리 미사일을 발사하거나 이스라엘의 군사 및 민간 목표물을 공격하고, 심지어 페르시아만 내외에서 미국 군함을 표적으로 삼는 등 다양한 형태의 대응을 할 수 있다고 평가합니다. 미사일 외에도 이란은 소형 선박, 드론, 잠수함을 보유하고 있어 해당 해역과 페르시아만 주변에서 미국 선박에 위협이 될 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 긴장 고조로 인한 잠재적 여행 위험 증가, 영공 폐쇄로 인한 항공편 운항 차질 가능성. 태국은 직접적인 관련은 없지만 상황이 급박하므로 여행객에게 정보 제공 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ด่วน! อิหร่านยิงขีปนาวุธพิสัยไกลหลายสิบลูก มุ่งเป้าอิสราเอล ปิดน่านฟ้า–สั่งปิดโรงเรียนทั่วประเทศ",
@@ -1872,21 +1867,18 @@
       ],
       "collected_at": "16:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJXq4sK42XGW.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917046",
+      "source": ""
     },
     {
       "title": "태국, 2026년부터 공항 출발세 인상…여행 비용 증가 예상",
       "summary": "- 태국이 2026년부터 국제선 관광객 대상 공항 출발세 인상 계획 발표\n- 중국, 말레이시아, 인도, 베트남 등과 함께 여행 비용 상승에 기여\n- 정확한 인상폭 및 시행 시기는 추후 발표 예정",
       "full_translated": "태국이 중국, 말레이시아, 인도, 베트남 등과 함께 2026년 6월부터 국제 관광객의 여행 비용을 새로운 차원으로 끌어올리는 충격적인 공항 출발 요금 인상에 동참합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항세 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보입니다. 2026년부터 적용 예정이나, 미리 인지하고 여행 계획에 반영할 필요가 있습니다.",
-      "event_info": {
-        "date": "2026-06-01",
-        "location": "태국 공항",
-        "price": "미정",
-        "location_google_map_query": "태국 공항"
-      },
+      "event_info": "{'date': '2026-06-01', 'location': '태국 공항', 'price': '미정', 'location_google_map_query': '태국 공항'}",
       "references": [
         {
           "title": "Thailand Joins China, Malaysia, India, Vietnam and more in Shockingly Raising Airport Departure Charges, Pushing Travel Costs to New Heights for International Tourists from June 2026 - Travel And Tour World",
@@ -1897,21 +1889,18 @@
       ],
       "collected_at": "16:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQeEctT0hhRFNxejlsdURxYk9MV1dXTW02RzFFdGoxZUZlTFdQVHprckZsM1hJNEh6VDBPbWN1S3R1YXVkdEkzMDYwNHdPemVMN21pS3EzR2libjdzb29HcE94bGg2QWU0MHluZlRvUjk3VG9MWGNOUlRicW1TYnVpeHRXY3U5TV9KUnhqNXNfWGJiRktHSlI4d0hmYmNaOXkxWUNoVUZEQ0Y0bHBVTy1tTzV5V1dUcnJ3c3ZTaHczckEyemtSaVBaTGJPTXlCUkwyaWJQYTBQTm40NmNVbmtpbk5GdjAyQnZwVDVRb0pkd0I0UkNTOWtpNDFCcWd5WDlZZFJQNmpESGNCMTJOWVZ4MkpGcmpJX1RWU0Z5QnE5VnBzR281RDNmYk1GWXZSQlFCdG9qWVVjSFJMZ3M0aVo5YVhuRlkzRWw5MXZR?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 루마니아, 태국, 남아프리카 공화국, 스페인 등과 함께 글로벌 이동성 및 관광 활성화에 동참",
       "summary": "- 미국이 글로벌 이동성 및 관광 활성화에 동참하며, 모나코는 177개국 무비자 입국 가능.\n- 태국은 관광 산업 부흥을 위해 여러 국가와 협력.\n- 새로운 비자 면제 정책으로 관광객 증가 기대.",
       "full_translated": "미국, 루마니아, 태국, 남아프리카 공화국, 스페인 등이 글로벌 이동성 및 관광 붐을 활성화하기 위해 합류했습니다. 모나코의 새로운 비자 면제 여행으로 177개국에 접근할 수 있게 되었습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업에 긍정적인 영향을 미칠 수 있는 비자 관련 뉴스이며, 여행객의 편의성 향상에 기여할 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "US Joins Romania, Thailand, South Africa, Spain and Many More to Boost Global Mobility and Tourism Boom, New Visa Free Travel for Monaco With Access to 177 Countries - Travel And Tour World",
@@ -1922,21 +1911,18 @@
       ],
       "collected_at": "16:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPVUZXNzRqOHdiNkU3dVYwb0R2U1ZLLU5zaTRNQm9YX1cxTWowVGJUWTBNNUlCbF9uNW9VZUdBdjlSdlhqbmd4R3otQXkwSXRCa3VaSmNieW9TS3ZQckExRXEyZlpoNy1NVEZGRUxxeE95X2pKTFVoSXVucmlubmptMHR4LUw2eGkwMTRhbkthbkVzNEN3NE91QTJ4SGNGcGZfb2FPQmVTV19Zb2licVBLOU9mSi01VGx1XzhNelJaS3NGX29mS0pXZ0hYZTNiRlpsU1pNVXFKbnFVMkdFZjFJN1pxcV83VmxubVQ5NGxoVGdaUjNNa3VWdjRseWU0d1hsd1BhcVlXWjc2OFhYLV9mUTFsRksyQUxjbnpUR1RLSk5GT0Y1MmNwaTFvS1kxTzZTNXQ0Nw?oc=5",
+      "source": ""
     },
     {
       "title": "네타냐후, 이란의 핵무기 보유 금지 성명 발표",
       "summary": "- 베냐민 네타냐후 이스라엘 총리는 이란 정권의 핵무기 보유를 용납하지 않겠다고 강조했습니다.\n- 도널드 트럼프 전 미국 대통령에게 감사를 표하며, 이스라엘과 미국이 이란의 위협을 제거하기 위한 공동 작전을 시작했다고 밝혔습니다.\n- 네타냐후 총리는 이란 국민들에게 자유와 평화를 위한 투쟁을 촉구하며, 이스라엘 국민들에게는 '사자후 작전'에 대비할 것을 당부했습니다.",
       "full_translated": "베냐민 네타냐후 이스라엘 총리는 이란 정권이 핵무기를 소유해서는 안 된다고 거듭 강조하며, 도널드 트럼프 전 미국 대통령에게 감사를 표하고, 2069년 2월 28일에 국민들이 대비해야 한다고 요청했습니다. 네타냐후 총리는 현지 시간 15시 21분에 이스라엘과 미국이 이란 정부로부터의 \"국가 존립에 대한 위협\"을 제거하기 위한 공동 작전을 시작했다고 밝혔습니다. 또한, 아야톨라 정권 하의 이란 정부가 지난 47년간 \"이스라엘에 죽음을\"과 \"미국에 죽음을\"이라는 구호를 외치며 이스라엘, 미국, 그리고 이란 국민을 살해하는 데 관여했다고 비난했습니다. 네타냐후 총리는 이란 정권이 핵무기를 보유하는 것을 허용하지 않을 것이며, 이는 전 인류를 위협하는 길이 될 것이라고 경고했습니다. 또한, 이번 공동 작전이 이란 국민들이 스스로 미래를 결정할 수 있는 조건을 만들 것이라고 언급했습니다. 더불어, 페르시아인, 쿠르드인, 아제르바이잔인, 발루치인, 아와즈인 등 이란의 모든 국민들에게 폭정으로부터 해방되어 자유롭고 평화로운 이란을 건설할 것을 촉구했습니다. 이와 함께, 이스라엘 국민들에게는 국내전선사령부(Home Front Command)의 지침을 따를 것을 요청하며, 앞으로 며칠 안에 \"사자후(The Roar of the Lion)\" 작전 하에 모든 국민이 인내심과 강인함을 가져야 할 것이라고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "이스라엘-이란 간의 긴장 고조는 태국 여행에는 직접적인 영향은 없으나, 국제 정세 불안정으로 인한 간접적인 영향 가능성이 있으므로 낮은 점수로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เนทันยาฮู ออกแถลงการณ์กร้าว ห้ามอิหร่านมีอาวุธนิวเคลียร์",
@@ -1947,21 +1933,18 @@
       ],
       "collected_at": "16:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJRzi92tw5qV.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917041",
+      "source": ""
     },
     {
       "title": "태국 정치, 세대 문제가 아닌 협력의 문제: 프어타이당의 입장",
       "summary": "- 푸미탐 대표는 정치가 '나이'의 문제가 아니라 '사고방식'과 '협력 능력'에 달려 있다고 강조.\n- 프어타이당은 기성세대의 경험과 젊은 세대의 창의성이 결합되어야 한다고 믿음.\n- 정부 구성에 협력하며 국민 경제와 공정성에 기여할 법안을 제안하고 추진할 준비가 되었다고 밝힘.",
       "full_translated": "프어타이당의 품탐 대표는 정치가 '나이' 문제가 아닌 사고방식과 협력 능력에 달려 있다고 밝혔습니다. 그는 정부 구성에 협력하며 전문적인 자세로 임할 것이라고 덧붙였습니다. 2069년 2월 28일, 품탐 대표는 페이스북을 통해 프어타이당의 총리 후보 3인(솟. 돗. 욧차난 웡싸왓, 나이 출라판 아몬위왓, 나이 쑤리야 쯩룽르앙낏)이 당선된 지역구 의원들과 함께 의회에 출두했다고 밝혔습니다. 이는 국민을 대표하는 역할을 수행할 준비가 되었다는 신호입니다. 품탐 대표는 현대 정치가 '나이' 문제가 아니라 '사고방식'과 '협력 능력'의 문제라고 생각합니다. 프어타이당은 기성세대의 경험이 시간의 시험을 거친 지혜의 자산이며, 젊은 세대의 에너지와 창의성이 디지털 시대의 사회 변화를 이해하는 원동력이라고 믿습니다. 이 두 힘이 결합될 때, 결정은 신중하되 구시대적이지 않으며, 정책 추진은 안정적이되 정체되지 않을 것입니다. 프어타이당은 의회에서 법안을 제안, 수정, 추진하여 국민 경제, 생계, 공정성에 기여할 준비가 되어 있습니다. 동시에 정부 구성에 협력하며 전문적인 자세로 행정 업무를 수행할 준비가 되어 있습니다. 국가는 '경험의 안정성'과 '젊은 세대의 대담한 사고'를 모두 필요로 합니다. 프어타이당은 이 두 힘을 연결하여 국가를 발전시키는 역할을 수행할 준비가 되어 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ภูมิธรรม” เผยการเมืองไม่ใช่เรื่องของวัย เพื่อไทยในฐานะพรรคร่วม พร้อมทำงานอย่างมืออาชีพ",
@@ -1972,6 +1955,133 @@
       ],
       "collected_at": "16:18",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJJJcko6yhsU.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917040",
+      "source": ""
+    },
+    {
+      "title": "송크란 2026: 태국의 놓칠 수 없는 물 축제, 모든 여행자를 위한 전통과 모험의 만남 - Travel And Tour World",
+      "summary": "- 2026년 송크란 축제는 태국의 전통과 모험을 결합한 경험을 제공할 예정입니다.\n- 모든 여행자에게 잊을 수 없는 추억을 선사할 것으로 기대됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "Travel And Tour World - 송크란 2026의 스릴을 경험하세요: 태국의 놓칠 수 없는 물 축제, 모든 여행자를 위한 전통과 모험의 만남",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "대규모 축제 정보, 여행객 관심도가 높을 것으로 예상",
+      "event_info": {
+        "date": "2026-04-13 ~ 2026-04-15",
+        "location": "태국 전역",
+        "price": "무료 (일부 행사 유료)",
+        "location_google_map_query": "태국 송크란 축제 장소"
+      },
+      "references": [
+        {
+          "title": "Experience the Thrills of Songkran 2026: Thailand’s Unmissable Water Festival, Where Tradition Meets Adventure for Every Traveler - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdjRZXzJzcXZUZzRnYVc4MHZIMnhyVVhXbktZUjd6ZW9KdVRrQ0NXU0hnR3FaVjZpdWpjb29OaVB3bGo4Q2lIUXVIeTBHTVRTMmQ3VmJYeUdVeF9UamxyZk50b2ItWmhKYUJpcVVmLUpPa05KVjVIVkNmVDFkTGx4RUZvVmNrdE5nY0FOd1ZTd0FhQzdSVDFCVy1jNzBlMzV2NENjOGZCc09kSEwxblM4Z1o2eUVJdXowZVU3SzcyYmE1YWlxdDJCdXFIZ1lXaEF4c3pGZnNDTmdBN3lRMlEyczRyeGhOVHJlYUNOOFpieW83RHZ3WGRjam44OG4xRElHV0g5UnRB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 운전 중 좌측 추월의 위험성과 법적 문제",
+      "summary": "- 태국에서 좌측 추월은 위험하고 불법이지만 여전히 빈번하게 발생합니다.\n- 좌측 차선은 사각지대가 많고 도로 상태가 좋지 않아 사고 위험이 높습니다.\n- 추월 시에는 반드시 신호를 보내고 안전을 확인해야 하며, 위반 시 벌금이 부과될 수 있습니다.",
+      "full_translated": "태국에서 운전하는 사람들이 좌측 추월을 하는 것을 흔히 볼 수 있습니다. 좌측 추월은 위험하고 불법이라는 것을 알면서도 왜 그럴까요? 좌측 차선은 운전자가 보기 어려운 사각지대(Blind Spot)이기 때문에 사고 위험이 높습니다. 좌회전하거나 갓길에 정차한 차량과의 충돌 위험도 있습니다. 또한 좌측 차선은 쓰레기, 구멍 또는 고장난 차량이 있는 경우가 많아 차량이 균형을 잃기 쉽습니다. 갑작스러운 끼어들기 또한 사고의 원인이 됩니다. 운전 기술 부족이나 운전자의 태도 문제, 도로 환경 등이 원인이 될 수 있습니다.\n\n- 교통 표지판, 교통 상황, 차선 구분을 잘 확인해야 합니다. 흰색/노란색 실선에서는 추월하거나 차선을 변경할 수 없습니다. 실선에서 추월하면 최대 1,000바트의 벌금이 부과됩니다.\n- 추월하기 전에 상황을 잘 판단하고 추월 후 비상 상황 시 피할 공간이 있는지 확인해야 합니다. 백미러와 사이드 미러를 통해 뒤에서 빠르게 접근하는 차량이 있는지 확인하십시오.\n- 추월하기 전에 항상 신호를 보내십시오. 우측 방향 지시등을 켜서 앞차에 추월 의사를 알리고 주의를 기울이도록 합니다. 앞차가 좌측 방향 지시등을 켜서 응답하고 속도를 줄이면 추월하십시오.\n- 추월 후 너무 빨리 좌측으로 들어가지 마십시오. 추월당한 차량이 급제동하거나 통제력을 잃을 수 있습니다.\n- 커브길, 오르막길, 내리막길, 좁은 도로에서 추월하는 것은 매우 위험합니다.\n- 갓길로 추월할 때는 도로 상태가 좋지 않아 타이어가 펑크나거나 차량이 전복될 수 있습니다. 갓길에 정차된 차량이 있는 경우 심각한 사고가 발생할 수 있습니다.\n- 앞지르기 금지 구역: 30미터 이내에서는 추월이 금지됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국에서 운전하거나 차량을 렌트하는 여행객에게 중요한 정보입니다. 사고 예방 및 안전 운전에 도움이 될 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ขับรถแซงซ้าย รู้ว่าอันตราย ผิดกฎหมายแต่ทำไมยังทำ",
+          "url": "https://www.thairath.co.th/news/auto/news/2917043",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJFZb1bXTpRo.jpg"
+        }
+      ],
+      "collected_at": "16:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJFZb1bXTpRo.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "코랏 동물원, 34도 폭염에 대비하여 스프링클러 설치",
+      "summary": "- 코랏 동물원이 34도까지 치솟는 더위에 대비하여 동물들을 위해 스프링클러를 설치했습니다.\n- 특히 거대 거북이와 비단뱀과 같이 더위에 취약한 동물들을 위해 냉각 시스템을 강화했습니다.\n- 동물원 측은 물을 뿌려 온도를 낮추고 동물들의 스트레스를 줄이기 위해 노력하고 있습니다.",
+      "full_translated": "코랏 동물원, 34도 폭염에 대비하여 스프링클러 설치\n\n태국이 공식적으로 여름에 접어들면서 코랏 동물원은 급격한 기온 상승에 대비하고 있습니다. 동물원 측은 특히 거대 거북이와 비단뱀과 같이 더위에 취약한 동물들을 위해 스프링클러를 설치하여 냉각 시스템을 강화했습니다. 동물원 관계자는 살수 장치를 통해 온도를 낮추고 동물들의 스트레스를 줄이려고 노력하고 있습니다. 더운 날씨는 동물들의 건강에 영향을 미칠 수 있으므로, 동물원은 지속적으로 동물들의 상태를 모니터링하고 필요한 조치를 취할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "방콕이 아닌 코랏 지역 소식이지만, 태국 여행 중 더위에 대한 대비가 필요함을 알려주는 정보이므로 포함. 동물원 방문객은 더위 대비 필요.",
+      "event_info": {
+        "date": null,
+        "location": "สวนสัตว์นครราชสีมา (코랏 동물원)",
+        "price": null,
+        "location_google_map_query": "Khorat Zoo"
+      },
+      "references": [
+        {
+          "title": "อากาศร้อนจัด สวนสัตว์โคราชเร่งติดตั้ง \"สปริงเกอร์\" หลังอุณหภูมิพุ่งสูง 34 องศาฯ",
+          "url": "https://www.thairath.co.th/news/local/northeast/2917042",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJAygs5SjtPu.jpg"
+        }
+      ],
+      "collected_at": "16:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJAygs5SjtPu.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "후아셍헹, 이스라엘-이란 분쟁으로 인한 금 가격 변동으로 온라인 거래 일시 중단",
+      "summary": "- 후아셍헹은 이스라엘-이란 분쟁으로 인한 금 가격 변동성 증가로 온라인 및 금괴 거래를 일시 중단한다고 발표했습니다.\n- 거래 중단은 2069년 3월 2일까지이며, 이후 서비스가 재개될 예정입니다.\n- 이번 결정은 중동 지역의 긴장 고조와 그에 따른 시장 불확실성 증가에 따른 것입니다.",
+      "full_translated": "후아셍헹은 이스라엘과 이란 간의 갈등으로 금 가격이 크게 변동하여 온라인 및 모든 종류의 금괴 거래를 일시적으로 중단한다고 발표했습니다. 서비스는 2069년 3월 2일에 다시 시작될 예정입니다. 이스라엘이 이란에 대한 공격을 시작한 후 중동 지역 상황이 악화되었습니다. 이란 언론은 수도 테헤란에서 여러 차례 폭발이 발생했다고 보도했습니다. 가장 최근에 HSHsocial 후아셍헹 팬 페이지에 다음과 같은 메시지가 게시되었습니다. “이스라엘과 이란 간의 갈등과 공격 시작으로 인해 금 가격이 매우 변동성이 커졌습니다. 또한 주말에는 해외 금 거래 시장이 문을 닫아 명확한 참조 가격이 없습니다. 따라서 당사는 온라인 거래 시스템 및 모든 종류의 금괴 서비스를 일시적으로 중단하며 2069년 3월 2일 월요일에 서비스를 재개할 예정입니다.”",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 중 금 거래에 관심 있는 소수 관광객에게만 해당. 일반적인 여행에는 큰 영향 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ฮั่วเซ่งเฮง งดซื้อ-ขายออนไลน์ชั่วคราว เหตุอิสราเอล-อิหร่าน ทำราคาทองคำผันผวน",
+          "url": "https://www.thairath.co.th/news/society/2917052",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdTdb4p5IOvN7l.jpg"
+        }
+      ],
+      "collected_at": "16:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdTdb4p5IOvN7l.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 선거법 관련 논란: '비밀 투표'의 의미와 향후 검토 불가능성",
+      "summary": "- 태국 선거법 관련하여 '비밀 투표'의 의미에 대한 논쟁이 재점화됨.\n- 한 국회의원은 투표의 익명성이 보장되어야 한다고 주장하며 선거관리위원회를 비판.\n- 2017년 헌법 초안 작성자의 의도에 따르면 투표는 익명성이 유지되어야 하며, 이는 선거 후에도 마찬가지임.",
+      "full_translated": "태국에서 선거법 해석을 둘러싼 논쟁이 벌어지고 있습니다. 특히 '비밀 투표'의 의미와 관련하여, 한 국회의원은 2017년 헌법의 조항을 근거로 투표의 익명성이 절대적으로 보장되어야 한다고 주장했습니다. 그는 선거관리위원회가 이 점을 간과하고 있다고 비판했습니다.\n\n해당 국회의원은 2017년 헌법 초안 작성자의 의도를 담은 문서를 공개하며, 투표는 익명으로 진행되어야 하며, 이는 투표가 끝난 후에도 유효해야 한다고 강조했습니다. 즉, 누구도, 심지어 선거관리위원회조차도 유권자가 누구에게 투표했는지 알아낼 수 없어야 한다는 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 뉴스이나, 태국 여행에 직접적인 영향은 없음. 다만, 정치적 불안정은 여행 심리에 영향을 줄 수 있다는 점을 고려하여 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“หมอวาโย” กางความมุ่งหมาย รธน. 60 ชี้ลงคะแนนโดยลับ ต้องตรวจสอบย้อนหลังไม่ได้ว่าเลือกใคร",
+          "url": "https://www.thairath.co.th/news/politic/2917049",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUIif7R58uhbR.jpg"
+        }
+      ],
+      "collected_at": "16:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUIif7R58uhbR.jpg",
       "date": "2026-02-28"
     }
   ]
