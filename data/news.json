@@ -1415,14 +1415,9 @@
       "summary": "- 푸껫 당국이 외국인들의 마약 파티 신고를 받고 무앙 지역의 유흥업소를 급습했습니다.\n- 단속 결과, 허가 없이 운영 중인 업소에서 마약 사용 정황이 발견되었습니다.\n- 업소 매니저인 태국인 남성이 체포되었으며, 관련 법규 위반 혐의로 기소될 예정입니다.",
       "full_translated": "푸껫 — 2026년 2월 28일, 푸껫 당국은 외국인들이 마약에 취한 파티를 주최한다는 민원이 접수된 후 무앙 지역의 한 유흥업소를 급습했습니다. 이번 작전은 2026년 2월 27일부터 28일까지 파이롯 스릴라물 지역 책임자의 지시 하에 무앙 지역에서 진행되었습니다. 단속팀은 지역 행정 그룹 책임자인 아카라 수와티쿨과 보안 담당 부지역 책임자인 티티 분야스티안, 자원방위대 1중대, 무앙 푸껫 대원들과 함께 구성되었습니다. 당국은 마약 사용과 관련된 모임에 대한 보고를 받고 탈랏 누에아 하위 지역의 지역 도살장 교차로 근처에 위치한 장소를 조사했습니다. 조사 중 경찰은 업소 매니저라고 밝힌 30세의 태국인 남성 코비를 체포했습니다. 당국은 해당 업소의 운영 허가증 제시를 요구했지만 허가증이 없다는 답변을 받았습니다. 해당 업소는 관련 서류를 제시하지 못했습니다. 경찰은 12개의 물품을 증거물로 압수하고 용의자를 주류 판매 및 라이브 음악 또는 기타 엔터테인먼트를 제공하고 24시 이후에 문을 닫는 상업 장소로 정의되는 서비스 시설을 허가 없이 운영한 혐의로 기소했습니다. 이는 Entertainment Places Act B.E. 2509 (1966) 및 그 수정안을 위반하는 것입니다. 그는 또한 Alcoholic Beverage Control Act B.E. 2551 (2008) 16조에 따라 금지된 시간에 주류를 판매한 혐의로 기소되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "푸껫에서 외국인 관련 범죄 발생. 여행객 안전에 대한 잠재적 위협. 늦은 밤 유흥을 즐기는 여행객들에게 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Talat Nuea, Muang Phuket District",
-        "price": null,
-        "location_google_map_query": "Talat Nuea, Muang Phuket District"
-      },
+      "event_info": "{'date': None, 'location': 'Talat Nuea, Muang Phuket District', 'price': None, 'location_google_map_query': 'Talat Nuea, Muang Phuket District'}",
       "references": [
         {
           "title": "Phuket officials raid unlicensed late-night venue",
@@ -1433,21 +1428,18 @@
       ],
       "collected_at": "14:01",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/banner1-9.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/news/2026/02/28/phuket-officials-raid-unlicensed-late-night-venue/",
+      "source": ""
     },
     {
       "title": "태국, 2026년 Moto GP 대비 의료 인력 300명 배치",
       "summary": "- 태국 정부는 2026년 Moto GP 대회를 위해 의료 인력 300명을 배치할 예정입니다.\n- 부리람 창 인터내셔널 서킷에서 개최되는 이번 대회는 2026년 2월 27일부터 3월 1일까지 진행됩니다.\n- 정부는 응급 상황 및 부상에 대비하여 의료 서비스 제공에 만전을 기할 것이라고 밝혔습니다.",
       "full_translated": "태국 정부는 2026년 부리람 창 인터내셔널 서킷에서 개최되는 Moto GP 대회를 지원하기 위해 300명의 의료 및 공중 보건 인력을 동원합니다. 아이린 판루엣 총리실 부대변인은 정부가 의료 및 공중 보건 준비를 완료했다고 밝혔습니다. 세계 오토바이 챔피언십 1차전 “PT GRAND PRIX OF THAILAND 2026”은 2026년 2월 27일부터 3월 1일까지 창 인터내셔널 서킷에서 개최될 예정이며, 30만 명 이상의 선수, 대회 후원자, 태국 및 외국인 관광객이 부리람 지방을 방문할 것으로 예상됩니다. 정부는 보건부에 의료 인력 300명을 동원하여 인력, 장비 및 사고 현장 지원, 이송 및 대규모 부상자 이동에 대한 운영 계획을 포함하여 응급 상황 및 부상에 효율적으로 대처할 수 있도록 의료 서비스를 제공할 것을 위임했습니다. 이는 지역 내의 사람들과 여행자들에게 안전을 보장하고 태국의 긍정적인 이미지를 구축하기 위한 것입니다. 2018년부터 7년 동안 지속적으로 개최된 세계 오토바이 챔피언십은 2018~2025년 사이에 총 120만 명의 관람객을 유치하여 약 240억 바트의 경제적 가치를 창출했습니다. 태국 스포츠청은 티켓 판매 및 관리 수수료로 수익을 얻었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "대규모 국제 행사 개최 정보로, 여행객들에게 잠재적인 교통 혼잡 및 숙박 시설 관련 영향을 줄 수 있음. 의료 서비스 준비는 긍정적인 정보.",
-      "event_info": {
-        "date": "2026-02-27 ~ 2026-03-01",
-        "location": "창 인터내셔널 서킷, 부리람",
-        "price": "정보 없음",
-        "location_google_map_query": "Chang International Circuit Buriram"
-      },
+      "event_info": "{'date': '2026-02-27 ~ 2026-03-01', 'location': '창 인터내셔널 서킷, 부리람', 'price': '정보 없음', 'location_google_map_query': 'Chang International Circuit Buriram'}",
       "references": [
         {
           "title": "รัฐบาลระดมแพทย์-จนท. 300 คน รองรับแข่งขัน Moto GP 2026 ที่สนามช้างฯ บุรีรัมย์",
@@ -1458,21 +1450,18 @@
       ],
       "collected_at": "14:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVBw1L9njtmMt.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917019",
+      "source": ""
     },
     {
       "title": "태국, 2026년 제44회 태국 관광 축제 개최: 방콕, 푸켓, 치앙마이, 끄라비 등 태국 다양한 지역 경험",
       "summary": "- 2026년 태국 관광 축제에서 방콕, 푸켓, 치앙마이, 끄라비 등 태국의 다양한 지역을 경험할 수 있습니다.\n- 축제는 태국의 문화와 자연을 만끽할 수 있는 다양한 프로그램과 활동을 제공합니다.\n- 자세한 정보는 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "2026년 제44회 태국 관광 축제에서 태국의 다양한 지역을 경험해보세요. 방콕, 푸켓, 치앙마이, 끄라비 등 다양한 도시와 지역의 매력을 느낄 수 있습니다. 축제에서는 태국의 문화와 자연을 만끽할 수 있는 다양한 프로그램과 활동이 준비되어 있습니다. 자세한 내용은 Travel And Tour World 웹사이트에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국의 주요 관광지를 소개하고, 여행객에게 유용한 정보를 제공하므로.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "방콕, 푸켓, 치앙마이, 끄라비 등",
-        "price": "미정",
-        "location_google_map_query": "태국 방콕"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '방콕, 푸켓, 치앙마이, 끄라비 등', 'price': '미정', 'location_google_map_query': '태국 방콕'}",
       "references": [
         {
           "title": "Dive into Thailand’s Diverse Regions at the 44th Thailand Tourism Festival 2026 – Experience Bangkok, Phuket, Chiang Mai, Krabi, and More! Here’s Everything You Need to Know - Travel And Tour World",
@@ -1483,21 +1472,18 @@
       ],
       "collected_at": "14:01",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNaVNYMDEzZVp5aU1WcGFJSk5tQ3FuRVBqaFp3dGdmMEFVc01XQ205QWNSTUxKVXFxbHU4V2ZxYlZMbEdWSDd6aDhWUEc4eGt2bHNFWk02Mm0xenRSSUNmMU4xX013TEJ4elFPVVhvX1ZDUkZuNTNKN2ItR1dRZnRHbFpTWUMtODZacE0yMGtmakM2SDdVZjRETWlvQVdzUmZSTHdpU1lSS2doazZPd0lGTGhWRkRFSHQyNkQ0a003TEJ2T19WMFNQZ3Z5dHpfczJRQi1ZOHY0UFZNWjVPLTV5c3NRUjNobUF4REwwZkpIa2stZEo0dU1MQVdZWkZKUEhIbzRmbGtZZkF3Q1pocjNONF8tYWJSTXVyYkQxalU5VkgyZGdsSlV3d2JSZEQ2LWZpSnY4LVcwQzQ?oc=5",
+      "source": ""
     },
     {
       "title": "수린 지역 지뢰 폭발 사고: 군인, 긴급 수술 후 안정적인 상태",
       "summary": "- 수린 지역에서 발생한 지뢰 폭발 사고로 중상을 입은 군인이 수술 후 안정적인 상태를 유지하고 있음.\n- 의사는 군인의 상태가 꾸준히 호전되고 있으며, 생명에는 지장이 없다고 밝힘.\n- 현재 감염 가능성에 대비하여 집중 치료를 받고 있으며, 어머니가 곁을 지키고 있음.",
       "full_translated": "수린 — 2026년 2월 28일 — 지뢰 폭발로 중상을 입은 태국 육군 사병이 수술 후 안정적인 상태를 유지하고 있으며 집중 치료실로 옮겨졌다고 의사들이 토요일 밝혔다. 수린 병원장 차와마이 수엡누칸 박사는 '펙'으로 알려진 데착 트리캄 사병이 꾸준히 호전되었고 현재는 위험에서 벗어났다고 말했다. 제23보병대대 233중대 소속인 이 군인은 수린주 캅청 지역의 에라완 작전 기지 근처에서 대인 지뢰를 밟았다. 폭발로 그의 오른쪽 다리가 절단되었고 왼쪽 팔과 다리는 파편에 의해 부상을 입었다. 그는 병원에 도착했을 때 위독한 상태인 것으로 알려졌다. 의사들은 약 2시간 동안 수술을 실시한 후 면밀한 관찰을 위해 멸균 수술 집중 치료실로 옮겼다. 차와마이는 '처음에 그는 상당한 양의 혈액을 잃고 혈액 고갈을 겪었지만 우리는 그것을 보충했다. 전반적으로 그의 상태는 꾸준히 개선되었고 즉각적인 우려 사항은 없다'고 말했다. '그러나 우리는 가능한 감염에 대해 계속 모니터링해야 한다. 절단 부위의 상처는 크게 개선되고 있다.' 수린 병원은 수술 내내 상당한 혈액 손실로 인해 프라몽꿋클라오 병원의 의료진과 협력했다고 덧붙였다. 데착 트리캄 사병은 병상에서 어머니와 함께 격려의 평화 표시로 두 손가락을 들고 좋은 모습을 보였다. 그의 어머니 암카 트리캄은 그녀",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 지역에서 발생한 사고 소식이지만, 특정 지역에 한정되어 있고 여행객에게 직접적인 위협은 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "수린 주 캅청 지역",
-        "price": null,
-        "location_google_map_query": "Kab Choeng District, Surin, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '수린 주 캅청 지역', 'price': None, 'location_google_map_query': 'Kab Choeng District, Surin, Thailand'}",
       "references": [
         {
           "title": "Soldier stable after emergency surgery for landmine injuries",
@@ -1508,21 +1494,18 @@
       ],
       "collected_at": "14:01",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Soldier-stable-after-emergency-surgery-for-landmine-injuries-m.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/news/2026/02/28/soldier-stable-after-emergency-surgery-for-landmine-injuries/",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회(꼬꼬떠), 국민 고발 논란 속 '여론 조작' vs '공익 보호' 공방",
       "summary": "- 태국 선거관리위원회(กกต.)가 국민을 고발하여 여론 조작 시도 논란에 휩싸임.\n- 전직 선관위원 Somchai Srisuthiyakorn은 꼬꼬또.의 행태를 비판하며 고발 대상 6명의 실명 공개 요구.\n- 꼬꼬또.는 선거 방해 행위 및 허위 사실 유포에 대한 법적 조치임을 강조.",
       "full_translated": "전 선거관리위원 Somchai Srisuthiyakorn은 껫떠가 국민을 고발하는 행위가 여론을 조작하고 국민을 협박하려는 시도라고 비판하며, 고발 대상 6명의 실명을 공개하라고 요구했습니다. 그는 껫떠가 허위 사실을 유포하는 사람들을 고발하는 행위에 대해 비판하며, 이는 국민을 협박하고 껫떠의 부정행위를 감추려는 의도라고 주장했습니다.\n\n껫떠는 보도자료를 통해 국민을 고발하는 것이 아니라, 선거 관리위원회의 업무를 방해하고 허위 사실을 유포하는 사람들을 고발하는 것이라고 해명했습니다. 또한, 껫떠는 고발 대상은 6명이며, 이들은 선거 과정에서 부정을 저지르거나 허위 사실을 유포한 혐의를 받고 있다고 밝혔습니다. 껫떠는 이러한 행위가 선거의 공정성을 해치고 국민의 신뢰를 저해하는 행위라고 강조했습니다.\n\nSomchai Srisuthiyakorn은 껫떠의 해명에 대해 비판하며, 고발 대상 6명의 실명을 공개하라고 요구했습니다. 그는 껫떠가 고발 대상의 실명을 공개하지 않는 것은 국민을 협박하고 껫떠의 부정행위를 감추려는 의도라고 주장했습니다. 또한, 그는 껫떠가 고발 대상의 실명을 공개하지 않는 것은 겁쟁이 같은 행동이라고 비판했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이나, 현재 여행객에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“สมชัย” ซัด กกต. แจ้งความประชาชนแบบปั่นกระแส หวังข่มขู่คนออกมาเปิดโปง ท้าเปิด 6 ชื่อคนถูกฟ้อง",
@@ -1533,6 +1516,133 @@
       ],
       "collected_at": "14:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVB6zJBb39e8d.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917017",
+      "source": ""
+    },
+    {
+      "title": "이스라엘, 이란 공격 개시: 테헤란 여러 곳에서 폭발, 전국에 사이렌 울려",
+      "summary": "- 이스라엘이 이란을 공격하며 중동 상황이 악화되었습니다.\n- 이란 수도 테헤란에서 여러 차례 폭발이 보고되었고, 사이렌이 울렸습니다.\n- 이스라엘은 자국에 대한 위협 제거를 위한 방어 작전이라고 밝혔습니다.",
+      "full_translated": "이스라엘이 이란 공격을 개시했다는 소식입니다. 이란 언론은 수도 테헤란에서 여러 차례 폭발이 발생했다고 보도했습니다. 이스라엘 국방장관은 이스라엘에 대한 위협을 제거하기 위한 방어 작전을 개시했다고 발표하고, 전국에 비상사태를 선포했습니다. 현지 시간 08시 15분경 이스라엘 전역에 미사일 공격에 대한 경고 사이렌이 울렸습니다. 파르스 통신은 테헤란 중심부에서 최소 3번의 폭발음이 들렸으며, 여러 미사일이 수도의 리퍼블릭 지역을 목표로 했다고 보도했습니다. BBC가 공개한 사진에는 욤호리 광장과 하산 아바드 광장 위로 연기가 피어오르는 모습이 담겨 있습니다. 이후 테헤란 북부와 동부 지역에서 새로운 폭발이 추가로 보고되었습니다. 이번 공격은 미국과 이란 관리들이 이란의 핵 프로그램을 제한하고 전쟁을 피하기 위한 협상을 진행하는 가운데 발생했습니다. 도널드 트럼프 미국 대통령은 이전에도 이란을 압박하기 위해 공격을 위협한 바 있으며, 협상 진전에 불만을 표하고 2003년 이라크 침공 이후 최대 규모로 중동 지역에 미군 병력을 증강하라고 지시했습니다. 이전 6월, 이스라엘은 이란을 공격하여 12일간의 전쟁으로 이어졌으며, 미국은 이란의 핵 프로그램과 관련된 목표물을 공격하는 작전에 참여했습니다. 베냐민 네타냐후 이스라엘 총리는 이란이 핵무기를 개발하는 것을 막기 위해 필요한 모든 조치를 취할 것이라고 경고했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역의 긴장 고조는 잠재적으로 여행 안전에 영향을 미칠 수 있으므로 여행객에게 알릴 필요가 있습니다. 특히 테러 위험, 항공편 운항 차질 가능성 등을 고려해야 합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ด่วน! อิสราเอลเปิดฉากโจมตีอิหร่าน หลายจุดในเตหะราน ไซเรนเตือนภัยดังทั่วประเทศ",
+          "url": "https://www.thairath.co.th/news/foreign/2917025",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWIxerYG2UYfF.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWIxerYG2UYfF.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 관광공원, 질병으로 호랑이 72마리 폐사: 복지 위기 심화",
+      "summary": "- 태국 관광공원에서 사육 중인 호랑이 72마리가 질병으로 폐사하여 복지 위기가 심화되고 있습니다.\n- 이번 사건은 동물 복지에 대한 우려를 제기하며, 관광 산업 내 동물 관리 실태에 대한 재검토 필요성을 강조합니다.\n- 관련 당국은 질병의 원인을 조사하고 있으며, 추가적인 피해를 막기 위한 조치를 취하고 있습니다.",
+      "full_translated": "태국 관광공원에서 질병으로 호랑이 72마리 폐사: 복지 위기 심화&nbsp;&nbsp;Nature World News",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "동물 학대 및 관광 산업 이미지에 부정적 영향. 여행객들에게 간접적인 영향을 미칠 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Seventy-Two Captive Tigers Dead in Thailand Outbreak: Welfare Crisis Deepens - Nature World News",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNVlvWXFDNkRiT2l0TTljc3R5aUwwWlRyNGM4UTd6TTY3R1diX2ZwQ21sSUEtTVlEOEdlRHc4MnpSTmdpZTUxMERzcUVuQWhuSWJLN0syenVudGw2UkNWNXdZdHpNOTJhYjhhTFp5bnlsUk9vcmItcHU2bmw3SVBKc0hNOFJ1c0ZZZGtaTzZReDBTR1ZXWXlSdHdDcFg5bmtTNC1LNzF5alBLOEhHQ2RETW55YjVKaFpxMkRnWmlESWNNLWhCdnpYckJNTQ?oc=5",
+          "source": "Nature World News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "2026년 태국 및 동남아시아 중국인 관광의 미래 전망",
+      "summary": "- 2026년 태국과 동남아시아의 중국인 관광 시장의 잠재력 분석\n- 경제적 호황이 완전히 실현될 수 있을지에 대한 분석 제공\n- 관광 산업 관계자들에게 유용한 정보 제공",
+      "full_translated": "태국 및 동남아시아에서 2026년 중국 관광의 미래 탐색 – 경제 호황이 잠재력을 최대한 발휘할 수 있을까요? 알아야 할 사항 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "중국인 관광객의 변화를 예측하고, 잠재적인 경제적 영향을 분석하여 관광객 유치 전략에 간접적인 영향을 줄 수 있음",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Exploring the Future of Chinese Tourism in Thailand and Southeast Asia in 2026 – Will the Economic Boom Reach Its Full Potential? Here’s What You Should Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcnpmV0N3akozTldZdU5fSzU4d0xKV2JKSGJJdFh6aGR5WDNmbHlDRnpYczg0SzZqbnlJdk11RmYxUmI5UWlELV80UWZiRHgtVzJ2cjIxS0VNZTgya1VBRExiTWIya20wQ2Vta0Z4dXNOWEFrVW54d2hmXzlXQUJ4QWdhMXBGVUNZUDRkdlRjVWtNNi1Dd3hUb3diUnpHVUFuYXA2WVVjT2tlTHpYeHVQXzFBdC1YV0g0RTF1cWxwV3NsbUFEUU01YjdmQ05SMXp4V2dmdnZWVGIwR3A5SkFNNVlSQWhjQjZMay1La2dOSlFHaVJ1WTQ1Q0c3ZDRTd3dKWm8xZWtsbkZpcUdWRHI0YVlMbmVpLWxGeXJROVlLTWtSQXluTk1oaWdR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 지방 정부에 장학금 투명성 및 공정성 강화 지시",
+      "summary": "- 태국 내무부 장관, 지방 정부에 장학금 선발 과정의 투명성 및 공정성 강화를 지시.\n- 모든 학교에 기회 균등 제공 및 가정 방문을 통한 실사 강조.\n- 장학금 수혜 학생에 대한 지속적인 관리 및 지원을 약속.",
+      "full_translated": "내무부 차관은 모든 지방 정부에 신중하고 투명하며 공정한 방식으로 18기 M.T.S. 왕실 장학금 학생을 선발할 것을 알렸습니다. 2029년 2월 28일, 내무부 차관인 Arsit Samphantharat 씨는 현재 국가 경제 사회 개발 사무소(NESDC)가 이미 실무 지침을 마련한 '왕세자 마하 와치랄롱꼰 왕실 장학 재단(M.T.S.)'에 따른 2029년 왕실 장학금 프로젝트 운영에 대해 밝혔습니다. “내무부는 모든 지방 총독에게 지침을 알리고 2029년 M.T.S. 왕실 장학금 프로젝트를 효율적이고 투명하며 공정하게 추진하도록 알렸습니다. 총독이 의장을 맡고 지방 교육 책임자가 서기를 맡는 지방 수준의 선발 위원회는 모든 소속 학교에서 자격을 갖춘 학생을 추천할 기회를 제공하고 국가의 주요 기관에 대한 올바른 태도와 자발성, 프로젝트 정보에 대한 인식을 신중하고 투명하며 공정하고 검증 가능한 방식으로 포괄적으로 제공하며 다음 수준에서 운영하기 위해 교육 지역에 정보를 보냅니다. 또한 지방 수준의 선발 위원회는 장학금 수혜 학생과 가족이 재단 규정에 따라 다양한 문제에 직면했을 때 학습, 행동 및 장학금 지출 측면에서 왕실 장학금 수혜 학생을 감독하고 돌보는 역할을 공동으로 수행해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 사회 정책 관련 소식으로 간략히 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปลัดมหาดไทย แจ้งผู้ว่าฯ ทุกจังหวัด คัดเลือกนักเรียนทุนพระราชทาน ม.ท.ศ. รอบคอบ โปร่งใส เป็นธรรม",
+          "url": "https://www.thairath.co.th/news/politic/2917022",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWJCdIMqvdCKj.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWJCdIMqvdCKj.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "시리왓타나팍디 가문, 왕실 장례식 주관",
+      "summary": "- 시리왓타나팍디 가문과 계열사들이 왕실 장례식의 주관자가 됨.\n- 시리킷 왕비의 장례식을 지원.\n- 관련 임원진 및 직원들이 행사에 참여하여 애도를 표함.",
+      "full_translated": "시리왓타나팍디 가문과 계열사들이 두싯 마하 프라삿 궁전에서 열리는 '솜데트 프라판피루앙' 왕실 장례식의 주관자로 참여했습니다. 차른 시리왓타나팍디와 시리왓타나팍디 가문, 그리고 계열사들은 시리킷 여왕의 장례식에 대한 후원을 받았습니다. 이 행사에는 타판 - 나방파차 시리왓타나팍디, 파놋 - 몸루앙 트리눗 시리왓타나팍디, 초티팟 - 낭아티난 피차논, 솜팟 - 낭왈라파 트라이소랏, 아사윈 - 낭타파니 테차차른위쿤을 포함한 이사, 고문, 경영진 및 그룹 계열사 직원들이 참여하여 애도를 표했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "왕실 장례식 관련 소식이지만, 관광객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-02-28",
+        "location": "두싯 마하 프라삿 궁전",
+        "price": null,
+        "location_google_map_query": "Dusit Maha Prasat Palace"
+      },
+      "references": [
+        {
+          "title": "ครอบครัวสิริวัฒนภักดี พร้อมกลุ่มธุรกิจในเครือ ร่วมเป็นเจ้าภาพบำเพ็ญพระราชกุศลถวายพระบรมศพ",
+          "url": "https://www.thairath.co.th/news/royal/2917023",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWI65tq4wxagR.jpg"
+        }
+      ],
+      "collected_at": "14:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWI65tq4wxagR.jpg",
       "date": "2026-02-28"
     }
   ]
