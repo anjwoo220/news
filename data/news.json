@@ -2382,14 +2382,9 @@
       "summary": "- 이스라엘-이란 분쟁으로 중동 지역 영공이 폐쇄되어 항공편 운항에 차질이 예상됩니다.\n- 태국 민간항공국(CAAT)은 항공편 이용객에게 항공편 상태를 확인하고 위험 지역을 우회하라고 권고했습니다.\n- 유럽, 중동 노선 이용객은 항공사 정보를 주의 깊게 확인하고 출발 전 운항 상태를 점검해야 합니다.",
       "full_translated": "สำนักงานการบินพลเรือนแห่งปร -> 싸무낙 응안 깐빈 폴르언 행 쁘라",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 지역 영공 폐쇄로 인한 항공편 운항 차질은 태국을 오가는 여행객에게 직접적인 영향을 미칠 수 있으므로 관련 정보 제공이 필요합니다. 특히 유럽이나 중동을 경유하는 여행객에게 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ประกาศปิดน่านฟ้าตะวันออกกลาง CAAT เตือนผู้โดยสารเช็กสถานะเที่ยวบินยกเลิก เลี่ยงพื้นที่เสี่ยง",
@@ -2400,21 +2395,18 @@
       ],
       "collected_at": "18:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUYijyOSP3EhC.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2917078",
+      "source": ""
     },
     {
       "title": "촌부리에서 발생한 영국인 대상 200만 바트 강도 사건, '계획적' 범행",
       "summary": "- 경찰은 용의자들이 피해자 집에 현금이 있다는 것을 알고 있었으며, 3대의 도주 차량을 준비했다고 밝혔습니다.\n- 영국인 셰프와 태국인 아내의 집에 침입하여 200만 바트를 훔쳐 달아난 사건으로, 용의자들은 피해자들이 집 구매를 위해 돈을 인출한 사실을 알고 있었습니다.\n- 경찰은 외국인 용의자를 의심하며, 감시 카메라 분석을 통해 이들이 3대의 차량을 이용하여 추적을 혼란스럽게 하려 한 사실을 확인했습니다.",
       "full_translated": "촌부리 - 경찰은 방 라뭉 지역에서 영국인 셰프와 그의 태국인 아내의 집에서 발생한 2백만 바트 강도 사건이 세심하게 계획되었으며, 3대의 도주 차량이 동원되었다고 밝혔습니다. 용의자 3명이 구금되어 조사를 받고 있습니다.\n\n수사관들은 강도들이 피해자들이 집을 사기 위해 2백만 바트를 인출했다는 사실을 알고 의도적으로 부부를 표적으로 삼았다고 믿고 있다고 농 프루 경찰서장인 Natthaphon Phongsuksakul 경찰 대령이 토요일에 말했습니다.\n\n강도 사건은 목요일 밤 늦게 농 프루 구역의 초크차이 빌리지 9 주택 단지에 있는 2층 타운하우스에서 발생했습니다. 이 타운하우스는 32세의 영국 국적의 셰프로 일하는 Wesleigh Cyril Russell과 그의 아내 Chandee(34세) 소유입니다. 복면을 쓴 남자 3명이 건물에 침입했을 때 두 사람은 영국인 친구와 함께 집에 있었습니다.\n\n러셀 씨는 용의자가 칼을 그의 목에 대고 돈이 어디에 있는지 묻는 위협을 받았습니다. 용의자들은 부부의 스마트폰과 2백만 바트가 들어 있는 금고를 가지고 도주했습니다. 경찰은 강도들이 외국인일 것으로 의심하고 있습니다. 감시 비디오에 따르면 이들은 추적자를 혼란스럽게 하기 위해 3대의 차량을 사용했다고 Natthaphon 경찰 대령은 말했습니다. 첫 번째는 부부의 집으로 운전해 간 검은색 포드 픽업 트럭이었습니다. 도주 후 그들은 농 크라복 소이 근처에서 훔친 휴대폰을 버리고 수쿰윗 로드 방향으로 계속 이동했습니다. 그들은 나중에 왓 분 칸차나 근처에서 멈췄습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 대한 잠재적 위협 (강도 사건) 이므로 알리는 것이 중요. 특히 외국인 대상 범죄이므로 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "촌부리 방 라뭉",
-        "price": null,
-        "location_google_map_query": "Bang Lamung, Chonburi"
-      },
+      "event_info": "{'date': None, 'location': '촌부리 방 라뭉', 'price': None, 'location_google_map_query': 'Bang Lamung, Chonburi'}",
       "references": [
         {
           "title": "B2m robbery of Briton in Chon Buri ‘well planned’",
@@ -2425,21 +2417,18 @@
       ],
       "collected_at": "18:39",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207084_260228173823_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/general/3207084/b2m-robbery-of-briton-in-chon-buri-well-planned",
+      "source": ""
     },
     {
       "title": "한국, 일본, 말레이시아, 태국과 함께 2026년 관광 활성화를 위한 새로운 비자 정책 및 공항 성장 추진",
       "summary": "- 한국이 일본, 말레이시아, 태국과 함께 2026년 관광 산업 활성화를 위한 정책을 추진합니다.\n- 새로운 비자 정책, 지역 공항 성장, 디지털 노마드 유치 등이 주요 내용입니다.\n- 아시아 관광 시장 경쟁 심화가 예상됩니다.",
       "full_translated": "대한민국은 일본, 말레이시아, 태국과 함께 새로운 비자, 지역 공항 성장 및 디지털 유목민을 통해 2026년 관광을 활성화하기 위한 대담한 조치를 취하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "한국인의 태국 여행에 직간접적인 영향을 줄 수 있는 비자 정책 및 관광 산업 관련 뉴스이므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Joins Japan, Malaysia, and Thailand in Taking Bold Steps to Boost 2026 Tourism with New Visas, Regional Airport Growth, and Digital Nomads - Travel And Tour World",
@@ -2450,21 +2439,18 @@
       ],
       "collected_at": "18:39",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNYjlEQ0RLdXRXYnU3R0FaY3hEdGY1b2dVZGJraS1PanlPSldKaDRLY3N1emtjWkJDZWg2RENndS1hdVFDR1hkb0VjZDZ6TXJPSWcxWFNQN0QzbkRnbFJtbk5xVEhseVRjSEpLQVpFZ2duZjQ4Mk1GdTZfTUY4MGx5ODZCY0tzVmdoZTB2Ylhma29ZeGVhQkxYNUZub0VzaWtaek5CUEx5SkFYalFjc0JVZkI0VlpmQUpyUzZaSjRsaWtpSFg3eGZES3pMQkFYNHNON25JWWM2dnoza1RkMXhEM2ltVWI1bVkxMUhMZjJ4RWl0MWlUd3RuZ1Z1ZGZRVmxZLXoxVGMwNnYxd1RNdHdIZG1xNEdRMjZYakh6UGJEdVM?oc=5",
+      "source": ""
     },
     {
       "title": "인도 관광, 방글라데시 방문객 감소 및 태국, 말레이시아, UAE 등 저렴한 여행지로 인도 관광객 몰려 어려움 직면",
       "summary": "- 인도 관광 산업이 어려움을 겪고 있으며, 방글라데시 방문객 감소가 주요 원인으로 분석됨.\n- 인도 관광객들은 태국, 말레이시아, UAE와 같은 예산 친화적인 여행지로 몰리고 있음.\n- 새로운 여행 환경에 대한 정보와 분석이 제공됨.",
       "full_translated": "인도 관광 산업이 방글라데시 방문객 감소로 인해 어려움을 겪고 있으며, 인도 관광객들이 태국, 말레이시아, UAE와 같은 저렴한 여행지로 몰리는 현상이 나타나고 있습니다. 새로운 여행 환경에 대한 정보가 제공됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "인도 관광객의 여행 트렌드 변화는 태국 관광 산업에 간접적인 영향을 미칠 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "India’s Tourism Faces Strain as Bangladesh Visitors Decline and Indian Tourists Flock to Budget-Friendly Locations Like Thailand, Malaysia, and the UAE—Here’s Everything You Need to Know About the New Travel Landscape - Travel And Tour World",
@@ -2473,6 +2459,134 @@
         }
       ],
       "collected_at": "18:39",
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNNXd2enV0MC1ObUN6a29xUWFweHZtQlk4eFY2cnlzTDNqeFROLTFDaC16UnFyQ0UwaGxMY242TGg3Z3h0YXNhRWFoVXVCbjh1M1p5ajJxc05KeGptdk5fbUc5MlB2azJaUmFGQ0hNTzFLS3dTaHdfX21UTUJXZFBfOG5zOEEwbkJaaEZiS2dHOHROUTUySzdJV0pXdGg1a2R3RXdkNXNsNjM2MWxwV292MUtpYnc1T1hVTU1LOHdVdEVkMkM0ZzBaRUxmZTFUaXNwRUVaVVRuc0xiYkNoSG96QUlfUEhTVEQyeFM0NGZVTnM3MDM2c3BtVU83R3pBNUhTMGJUTFg3eWdyaVZGSnVEWW5ic1BkWThTV21ObVZFMkROY2JDZ21VUkhQMTU4RzY4SG1fZG4wcWRIaDVFdlZjOWVJT0ZKZ3h4b0xIRw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "주요국 정상들, 미국-이스라엘의 이란 공격 후 입장 표명",
+      "summary": "- 미국과 이스라엘의 이란 공격에 국제 사회가 동요하고 있으며, 이란은 강력한 보복을 예고함.\n- 유럽연합은 상황을 '매우 위험한 상황'으로 규정하고 이스라엘 외무장관과 논의했으며, 민간인 보호와 국제법 준수를 강조함.\n- 말레이시아 총리는 이번 공격이 중동 위기를 재앙으로 몰아넣을 수 있다고 경고하며, 미국과 이란에 외교적 해결책을 촉구함.",
+      "full_translated": "미국과 이스라엘의 이란 공격에 세계가 흔들리고 있습니다. 이란은 강력한 보복을 예고하고 있습니다. 최근 여러 국가 지도자들이 이 문제에 대한 입장을 표명하기 시작했습니다. CNN은 미국-이스라엘의 이란 공격 작전 개시 이후 의견을 표명한 여러 국가 지도자들의 입장을 종합했습니다. 이란은 이번 행위를 비난하며 보복을 예고하며 상황이 더욱 긴장되고 격화되고 있습니다. 유럽연합의 카야 칼라스 외교정책 책임자는 최근 상황이 매우 위험하다고 밝혔으며, 이스라엘 외무장관과 논의했다고 밝혔습니다. 그녀는 민간인 보호와 국제인도법 준수가 최우선 과제라고 강조했습니다. 스위스 외무부는 미국과 이스라엘의 공격에 대해 깊은 우려를 표명하며 모든 당사자에게 최대한의 자제력을 발휘하고 민간 기반 시설을 보호할 것을 촉구했습니다. 안와르 이브라힘 말레이시아 총리는 이번 공격이 중동 위기를 재앙으로 몰아넣을 수 있다고 경고하며 워싱턴과 테헤란에 긴장 고조 대신 외교적 해결책을 모색할 것을 촉구했습니다. 나타샤 피르크 무사르 슬로베니아 대통령은 상황을 심각하게 우려하며 지켜보고 있으며, 긴장 고조가 중동의 평화와 안정을 위협하고 있다고 경고했습니다. 우크라이나 외무부는 테헤란 정부가 상황 악화를 막을 기회가 있으며, 이란 국민의 안정, 자유 및 번영에 대한 지지를 확인했다고 밝혔습니다. 앤서니 앨바니지 호주 총리는 호주가 이란의 핵무기 보유를 막기 위한 미국의 노력을 지지한다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 긴장 고조는 잠재적으로 국제 유가 상승 및 테러 위협 증가로 이어질 수 있어 여행 안전에 간접적인 영향을 미칠 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รวมท่าทีผู้นำโลก หลังสหรัฐฯ–อิสราเอลโจมตีอิหร่าน",
+          "url": "https://www.thairath.co.th/news/foreign/2917081",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSeIloQT6WM6I.jpg"
+        }
+      ],
+      "collected_at": "19:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSeIloQT6WM6I.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 금 거래소, 이스라엘-이란 공격 여파로 일시 영업 중단",
+      "summary": "- 이스라엘과 이란의 충돌로 금 가격 변동성이 커짐.\n- 주요 금 거래소 (Hua Seng Heng, Mae Thong Suk, YLG) 일시적 영업 중단.\n- 2026년 3월 2일부터 영업 재개 예정.",
+      "full_translated": "태국 내 3대 금 거래소인 'Hua Seng Heng', 'Mae Thong Suk', 'YLG'가 이스라엘-미국의 이란 공격 이후 금 판매를 일시적으로 중단한다고 발표했습니다. 중동 지역의 격화되는 상황으로 인해 이스라엘과 미국이 이란에 대한 공격을 시작했으며, 이는 금 가격의 높은 변동성을 초래했습니다. 가장 최근에 Hua Seng Heng은 2026년 2월 28일에 다음과 같은 메시지를 게시했습니다: '이스라엘과 이란 간의 갈등과 공격 개시로 인해 금 가격의 변동성이 커졌습니다. 주말 동안 해외 금 거래 시장이 문을 닫아 명확한 참조 가격이 없으므로 온라인 거래 시스템과 모든 종류의 금괴 서비스 제공을 일시적으로 중단합니다. 2026년 3월 2일 월요일에 다시 서비스를 재개할 예정입니다.' Mae Thong Suk 금 거래소 또한 '이스라엘과 이란 간의 갈등으로 인해 금 가격의 변동성이 커졌으며, 주말 동안 해외 금 시장이 폐쇄되어 명확한 참조 가격이 없으므로 2026년 2월 28일에 지점 채널을 통한 금괴 판매를 중단합니다. 금 매입, 위탁 판매 및 상환 서비스는 정상적으로 운영됩니다.'라고 밝혔습니다. YLG Group도 다음과 같이 발표했습니다: '지정학적 긴장으로 인해 세계 금 시장의 가격 변동성이 매우 큽니다. 토요일-일요일 (2026년 2월 28일-3월 1일) 동안 온라인 금 거래 시스템이 일시적으로 폐쇄됩니다. 시스템은 2026년 3월 2일 오전 10시부터 정상적으로 다시 운영됩니다. 추가 문의 사항은 02 687 9888로 전화 주십시오.' 한편, 오늘 저녁 (2026년 2월 28일) 금 가격은 마감 가격입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "금 가격 변동 및 거래소 운영 중단 정보는 환전 및 금 관련 상품 구매 계획이 있는 여행자에게 영향을 줄 수 있음.",
+      "event_info": {
+        "date": "2026-03-02",
+        "location": "방콕 내 주요 금 거래소",
+        "price": "변동",
+        "location_google_map_query": "방콕 금 거래소"
+      },
+      "references": [
+        {
+          "title": "ราคาทองวันนี้ 3 ห้างทองไทย ปิดขายทองคำชั่วคราว หลังอิสราเอล-สหรัฐฯ โจมตีอิหร่าน",
+          "url": "https://www.thairath.co.th/news/local/2917079",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUYaBGHU9YTem.jpg"
+        }
+      ],
+      "collected_at": "19:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUYaBGHU9YTem.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "일본, 타이항공 300억 바트 수익에 기여…중국, 한국 등과 함께 회복세 반영",
+      "summary": "- 일본이 타이항공의 수익 증가에 기여하며 한국, 중국, 싱가포르, 인도네시아, 말레이시아 등과 함께 회복세를 나타냄.\n- 타이항공의 수익 증가는 관광 산업의 회복과 확장을 반영함.\n- 300억 바트 이상의 수익을 기록하며, 아시아 국가들의 기여가 컸음.",
+      "full_translated": "일본이 중국, 인도, 싱가포르, 인도네시아, 한국, 말레이시아 등과 함께 타이항공의 300억 바트 수익에 기여하며, 강력한 회복과 확장을 반영합니다. Travel And Tour World",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "타이항공의 수익 증가는 관광 산업 회복을 간접적으로 나타내지만, 여행객에게 직접적인 영향은 적음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Japan Joins China, India, Singapore, Indonesia, South Korea, Malaysia And More In Contributing To Thai Airways Over Thirty Billion Baht Profit, Reflecting Strong Recovery And Expansion - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNQWFVR2RwNzBqSHd4dWw0RHl3MWJmN3pWQUx2OVExeUVuRTVZSDd1azdGekwxV3NGZUNqZnpPbk1hcDNpTGNOZTJXTUdtQnVjRlF1dEg0QkdBN0l0eVlhVXo0YUVTTVVKanFvVGs4Nkt3MVItUXlKUmxjLWNvNGQ1ajJiY0JjYkhObG0yVlVxZU85QkJsT2xibUtLcGJ2SEJHbXBfaEd0ZTE4bGFvQ3VwUTkxMDlTWWdOVkNHU190cnNzX0RFR2dlcHpVWFY4Q0d2aFJKOVNYVzJGazB6MGxTb2NrS0wwaGM5T0ZCTUNNb0tfMTZDVUhfSy1Mbnh4UW1hY3VCbVNYaDVVaGxGZ2d3dWR5M1huaE1hZ0dLcDRKTVFfWHltVWRMUGV3OWJtazdNTHBZaXo0c0dVb29fTXpYX0p3ckt3LTZpOVBn?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:27",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 경제, 관광 및 수출 성장으로 바트화 안정에 집중 - 파타야 메일",
+      "summary": "- 태국 경제가 관광과 수출 증가에 힘입어 성장세를 보이고 있습니다.\n- 바트화 안정에 초점을 맞추고 있으며, 경제 성장에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
+      "full_translated": "태국 경제, 관광 및 수출 성장으로 바트화 안정에 집중 - 파타야 메일",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "환율 관련 정보는 여행자에게 유용할 수 있으나, 직접적인 영향은 크지 않다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Baht stability in focus as Thai economy gains from tourism and export growth - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDlGRGdXZG9lVVJPN1JvWElLSTZKODNUT3ZrTXo5NFZsc1ZCM0k3NzhPdEJMb0NKUUZLZ0FSYzNxRXo2Q3FyUnJhZkRjTzBuQS1mRFlWcm9vRlI3QmlFNk5ueDN2eUg1dHBNMkVVYUxBMTVkM1BnbXAzSVZXQXgtNFAwVlZjSkpKQ2tkcXZVWHc4b0N3SFlXdnE2YXlQbDY1bkNPd2Vmbk5BVGdycTMwc3hYdDJvR28?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:27",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 총리, 뉴질랜드 대사 만찬 관련 논란 해명: 태국 농산물 사용 강조",
+      "summary": "- 아누틴 총리는 파윈 교수의 비판에 뉴질랜드 대사와의 만찬에서 태국 농산물을 사용했다고 해명\n- 총리는 뉴질랜드 대사가 태국 식재료를 사용해 요리한 것이라고 밝힘\n- 파윈 교수는 이에 감사를 표하며 논란 일단락",
+      "full_translated": "아누틴 총리가 파윈 교수의 비판에 대해 해명했습니다. 그는 수파지 장관과 뉴질랜드 대사와의 만찬에서 태국 농산물을 사용했다고 밝혔습니다. 2069년 2월 28일, 아누틴 찬위라꾼 총리는 파윈 차차왈퐁판 교수가 자신과 수파지 수탐판 상무부 장관이 조나단 킹 뉴질랜드 대사와 함께 저녁 식사를 하는 사진을 공유한 것에 대해 해명했습니다. 그는 태국 농산물 가격이 하락하고, 함께 식사하는 사람이 상무부 장관임에도 불구하고 테이블에 쌀, 옥수수, 코코넛 워터가 없다는 파윈 교수의 비판에 대해 해명했습니다. 아누틴 총리는 뉴질랜드 대사관저에서 만찬이 열렸으며, 태국에 레스토랑을 오픈한 뉴질랜드 셰프가 태국 식재료를 사용해 요리했다고 밝혔습니다. 또한 찹쌀도 있었다고 덧붙였습니다. 이에 파윈 교수는 감사를 표했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 논쟁에 대한 해명으로, 여행객에게 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” โต้ “ปวิน” ภาพพา “ศุภจี” ดินเนอร์กับทูตนิวซีแลนด์ ใช้วัตถุดิบไทย มีข้าวเหนียวด้วย",
+          "url": "https://www.thairath.co.th/news/politic/2917082",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSeExUKd6tHfB.jpg"
+        }
+      ],
+      "collected_at": "19:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSeExUKd6tHfB.jpg",
       "date": "2026-02-28"
     }
   ]
