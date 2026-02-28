@@ -4115,14 +4115,9 @@
       "summary": "- 방콕 전역에 255개의 냉방 센터가 운영 중입니다.\n- 폭염으로부터 주민과 여행객의 안전을 지키기 위한 조치입니다.\n- 더위로 인한 건강 문제 발생 시 냉방 센터를 이용할 수 있습니다.",
       "full_translated": "방콕은 폭염으로부터 주민과 여행객을 보호하기 위해 255개의 냉방 센터를 운영하고 있습니다. 관광 및 일상생활에 영향을 미치는 극심한 더위로부터 안전을 제공합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "폭염 관련 정보는 여행객 안전에 중요하며, 매일 업데이트될 수 있으므로 포함. 아침 시간대이므로 '오늘의 예방' 차원에서 가중치 부여.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 전역",
-        "price": "무료",
-        "location_google_map_query": "방콕 냉방 센터"
-      },
+      "event_info": "{'date': None, 'location': '방콕 전역', 'price': '무료', 'location_google_map_query': '방콕 냉방 센터'}",
       "references": [
         {
           "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
@@ -4130,22 +4125,20 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "04:40",
-      "date": "2026-03-01"
+      "collected_at": "4:40",
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+      "source": ""
     },
     {
       "title": "태국 공항, 중국 설 연휴 이후 팬데믹 이후 최고치 기록 - 치앙라이 타임즈",
       "summary": "- 태국 공항이 중국 설 연휴 동안 급증한 여행객으로 인해 팬데믹 이후 최고치를 기록했습니다.\n- 특히 중국인 관광객의 증가가 두드러집니다.\n- 공항 혼잡 및 관련 서비스 이용에 대한 사전 준비가 필요합니다.",
       "full_translated": "태국 공항, 중국 설 연휴 이후 팬데믹 이후 최고치 기록 Chiang Rai Times",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중국 춘절 기간 이후 공항 이용객 증가 정보는 여행객에게 혼잡에 대한 대비를 할 수 있게 하므로 유의미한 정보 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Airports Hit A New Post-Pandemic High After Chinese New Year Rush - Chiang Rai Times",
@@ -4154,23 +4147,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:40",
+      "collected_at": "4:40",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTRwcExwZ2dlbVV6alc2MUNySTVTSnJRRC1CcXVBLVRPc2dUajhJV3UtSVRxbk9RMUJBSEIyV01HLXNxcnJMZ2RHX3RSY0FCaTZwOHVDMGNaSUQ2OTRiZXJtZllyLTVTanpKTU5rdDk3QkRVcDh0cF9nVkM4aUY2Qmt3cGlxa0pPOHBuMGpmMURvUFJod2RlUjVVTkRvQ3J3OU1iTl8xdHQwcEhTNWxYUg?oc=5",
+      "source": ""
     },
     {
       "title": "미얀마 항공, 중국, 태국, 인도, 일본 노선 확장 추진",
       "summary": "- 미얀마 국제항공, 에어 KBZ, 골든 미얀마 항공, 미얀마 국영 항공이 중국, 태국, 인도, 일본 노선에서 새로운 여행 수요를 촉발.\n- 삔우린 비행장 업그레이드로 글로벌 관광 활성화 및 호텔 예약 증가 예상.\n- 삔우린은 미얀마의 인기 있는 고원 도시로, 새로운 항공 노선 확장이 관광 산업에 긍정적인 영향을 미칠 것으로 기대.",
       "full_translated": "미얀마 국제항공, 에어 KBZ, 골든 미얀마 항공, 미얀마 국영 항공이 중국, 태국, 인도, 일본 노선에서 새로운 여행 수요를 촉발하고 있습니다. 삔우린 비행장 업그레이드로 삔우린이 글로벌 관광지로 발돋움하고 호텔 예약이 증가할 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 연결 항공편 증가 가능성 및 새로운 관광지 접근성 향상 기대. 다만, 미얀마 국내 상황 불안정성 존재.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Myanmar Airways International, Air KBZ, Golden Myanmar Airlines and Myanmar National Airlines Spark New Travel Buzz Across China, Thailand, India and Japan as PyinOoLwin Airfield Upgrade Positions Hill Town for Global Tourism Takeoff and Hotel Boo - Travel And Tour World",
@@ -4179,7 +4169,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:40",
+      "collected_at": "4:40",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNd0JZSDdhd2hFNDdXdHdkM282Z2daUUV4REtLWUN1Vk5SRU9rV1g5OEpjTkY4NjBMcDNPOGpWdnZsWDhzV21vRVpzS2MxRUFic3BHdWVhc284NE9VZTZsQ1ZabGQ4SG5lMVNEcVYwVEJxM2lkTUFIb1FmRHM3UVQxTDRteFhBeGtVQkgyaW9NaU00dFB0SHU5WmlONUJoSkhhZ24zWFQ3Y3NuZ3pSYW5RMHE0Ul9GdlhJS0NESGwycHBibW1WRXB0dW5pMnFQZmh5MzZGYlVfNk1QOHVnSkRuS2hoWFZyODhGSHdCcU44VUVvZDRTbngxVWFLRGFKaHNEbTZjdjBRdEhFQWxLeVo1bUtfd1Fxc3VCY1JxM1VEa2lPWFluSjhja0JyZ09jSHZQTW5LTmdEeS1KT1h0NG5VQ2twejJTeFh2SkZkZ1FfbEdjZW5iUmxWTm01MVJCOXVWQm9V?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 외무부, 중동 고위험 지역 태국 국민에게 대피 권고",
+      "summary": "- 외무부는 이란, 이스라엘 등 중동 지역 긴장 고조에 따라 태국 국민에게 가능한 한 빨리 대피할 것을 촉구.\n- 상업 항공편 운항이 중단될 수 있으므로, 가능한 빨리 대피를 권고.\n- 즉시 대피가 어려운 경우 미사일 공격으로부터 보호 가능한 지정된 대피소로 이동하고, 공식 업데이트를 주시해야 함.",
+      "full_translated": "태국 외무부(MFA)는 중동 고위험 지역, 특히 이란과 이스라엘에 있는 태국 국민들에게 지역 긴장이 고조됨에 따라 가능한 한 빨리 대피할 것을 촉구했습니다. 외무부는 토요일, 분쟁이 격화되고 확산되어 해당 지역 태국 시민의 안전과 복지에 영향을 미칠 수 있다고 경고했습니다. 외무부는 “위험 지역에 거주하는 태국 국민들은 상업 항공편이 운항하는 동안 가능한 한 빨리 출발할 것을 권고한다”고 밝혔으며, 항공편 스케줄은 예고 없이 변경될 수 있다고 덧붙였습니다. 즉시 떠날 수 없는 사람들은 미사일 공격으로부터 보호가 가능한 지정된 대피소로 이동하고 공식 업데이트를 면밀히 모니터링하라는 권고를 받았습니다. 외무부는 또한 영향을 받는 지역으로 여행할 긴급하거나 필수적인 이유가 없는 태국인들에게 현재의 불확실성을 이유로 계획을 재고할 것을 촉구했습니다. 긴급 지원이 필요한 태국 국민은 해당 지역의 태국 대사관 또는 총영사관에 연락하거나 영사과 02-572-8442로 전화할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 긴장 고조로 인한 잠재적 위험은 태국 여행객의 안전에 직접적인 영향을 미칠 수 있으므로 높은 점수 부여. 대피 권고는 여행 계획에 대한 즉각적인 고려가 필요함을 의미.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Ministry calls on Thais to evacuate",
+          "url": "https://www.bangkokpost.com/thailand/general/3207168/ministry-calls-on-thais-to-evacuate",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207168_260301043104_700.jpg"
+        }
+      ],
+      "collected_at": "05:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207168_260301043104_700.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 2026년 MotoGP 시즌 개막전 개최 및 관광객 유치 기대",
+      "summary": "- 아누틴 총리, 부리람에서 열리는 MotoGP 태국 그랑프리 개막식 주재 예정.\n- 태국은 7년째 MotoGP를 개최하며, 2년 연속 시즌 개막전 개최지로 선정됨.\n- 정부는 의료 및 공중 보건 인력 300명을 배치하여 응급 및 부상 대응 서비스 제공.",
+      "full_translated": "아누틴 차른비라쿨 총리는 일요일 부리람의 창 인터내셔널 서킷에서 열리는 PT 태국 그랑프리 2026 개막식에 참석하여 MotoGP 월드 챔피언십 시즌의 첫 레이스를 기념할 예정입니다. MotoGP는 국제 방문객, 특히 강력한 구매력을 가진 모터스포츠 팬들을 유치하는 글로벌 이벤트로 간주됩니다. 이들은 종종 그룹으로 여행하며 태국의 다른 목적지로 여행을 확장합니다. 태국은 7년 동안 MotoGP를 개최했으며 2년 연속 시즌 개막전 개최지로 선정되어 국가를 지역 모터스포츠 허브로 자리매김하려는 노력을 강화했습니다. 또한 2월 21일과 22일에 공식 프리시즌 테스트를 개최했습니다. 30만 명 이상의 레이서, 스폰서 및 관람객이 태국인과 외국인 모두 부리람과 인근 지역에서 경주에 참가하여 지역 사회에 관광 및 소득 분배에 기여할 것으로 예상됩니다. 아린 판릿 정부 부대변인은 토요일 정부가 인력 기준, 장비 및 운영 계획을 포함하여 응급 및 부상 대응 서비스를 제공하기 위해 300명의 의료 및 공중 보건 인력을 배치했다고 밝혔습니다. 아린 씨는 2018년부터 2025년까지의 참석자가 120만 명을 초과하여 240억 바트의 경제적 가치, 즉 연간 약 50억 바트를 창출했다고 말했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "모터스포츠 팬들에게 중요한 정보이며, 숙박 및 교통 관련 정보 파악에 유용. 태국 여행에 영향을 줄 수 있는 국제 행사 정보. MotoGP 개최 정보는 이미 게시되지 않았으므로 포함.",
+      "event_info": {
+        "date": "2026-03-01",
+        "location": "창 인터내셔널 서킷, 부리람",
+        "price": "미정",
+        "location_google_map_query": "Chang International Circuit, Buriram"
+      },
+      "references": [
+        {
+          "title": "PM presides over MotoGP season opener",
+          "url": "https://www.bangkokpost.com/sports/3207148/pm-presides-over-motogp-season-opener",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "05:14",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "에티하드 항공, 2026년 10월 방콕에 A380 항공기 투입",
+      "summary": "- 에티하드 항공이 2026년 10월부터 방콕 노선에 A380 기종을 투입하여 고급 여행 경험을 강화.\n- 이는 태국 관광 산업 성장에 기여할 것으로 예상됨.\n- A380 투입은 에티하드 항공의 방콕 노선에 대한 투자 의지를 보여줌.",
+      "full_translated": "에티하드 항공이 2026년 10월 방콕에 주력 기종인 A380을 투입하여 고급 여행 경험을 강화하고 태국 관광 산업 성장을 촉진합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "2026년 10월부터 시행되는 항공편 변경 정보로, 여행 계획에 영향을 줄 수 있음. 새로운 항공편 옵션은 여행객에게 편의를 제공할 수 있지만, 당장 급박한 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-10-01",
+        "location": "방콕",
+        "price": "미정",
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Etihad Airways Launches Flagship A380 to Bangkok in October 2026, Enhancing their Luxury Travel and Boosting Tourism Growth in Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNUno0YThuNHN5TmFzcDNqQmZSZlpBV0ZzVEs1NHVOY24ydlhPWGpLT1dEN2REN3NOOVRjQzNwM19MN2FZeU1JalNOVS11OGJLNGQ0LW13MkRJaEp5aUE2ejNUNEtMWENzdDFGamZ6eWZBSVh2S0JWZ1lpWGdDcTY4TGk2UG5wM0thZ2ZkUW9VSjVRUG9RZGthUnBPRm9FVjJKMHZ1Q0hQUGhKcUhhUUFma21TZU9HT21wRW15M2F6cHQzQmNfRElYT1dDenBrOXFGeUp1dHhCOFY5VmpPSjAyQ0pDS3Itcjk3bTc2bWlfTjBvRm82dEtzbk9mbGItNjNHMGZtanVoU215N1U5SGxjUQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:14",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
