@@ -1964,14 +1964,9 @@
       "summary": "- 2026년 송크란 축제는 태국의 전통과 모험을 결합한 경험을 제공할 예정입니다.\n- 모든 여행자에게 잊을 수 없는 추억을 선사할 것으로 기대됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "Travel And Tour World - 송크란 2026의 스릴을 경험하세요: 태국의 놓칠 수 없는 물 축제, 모든 여행자를 위한 전통과 모험의 만남",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 축제 정보, 여행객 관심도가 높을 것으로 예상",
-      "event_info": {
-        "date": "2026-04-13 ~ 2026-04-15",
-        "location": "태국 전역",
-        "price": "무료 (일부 행사 유료)",
-        "location_google_map_query": "태국 송크란 축제 장소"
-      },
+      "event_info": "{'date': '2026-04-13 ~ 2026-04-15', 'location': '태국 전역', 'price': '무료 (일부 행사 유료)', 'location_google_map_query': '태국 송크란 축제 장소'}",
       "references": [
         {
           "title": "Experience the Thrills of Songkran 2026: Thailand’s Unmissable Water Festival, Where Tradition Meets Adventure for Every Traveler - Travel And Tour World",
@@ -1982,21 +1977,18 @@
       ],
       "collected_at": "16:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOdjRZXzJzcXZUZzRnYVc4MHZIMnhyVVhXbktZUjd6ZW9KdVRrQ0NXU0hnR3FaVjZpdWpjb29OaVB3bGo4Q2lIUXVIeTBHTVRTMmQ3VmJYeUdVeF9UamxyZk50b2ItWmhKYUJpcVVmLUpPa05KVjVIVkNmVDFkTGx4RUZvVmNrdE5nY0FOd1ZTd0FhQzdSVDFCVy1jNzBlMzV2NENjOGZCc09kSEwxblM4Z1o2eUVJdXowZVU3SzcyYmE1YWlxdDJCdXFIZ1lXaEF4c3pGZnNDTmdBN3lRMlEyczRyeGhOVHJlYUNOOFpieW83RHZ3WGRjam44OG4xRElHV0g5UnRB?oc=5",
+      "source": ""
     },
     {
       "title": "태국 운전 중 좌측 추월의 위험성과 법적 문제",
       "summary": "- 태국에서 좌측 추월은 위험하고 불법이지만 여전히 빈번하게 발생합니다.\n- 좌측 차선은 사각지대가 많고 도로 상태가 좋지 않아 사고 위험이 높습니다.\n- 추월 시에는 반드시 신호를 보내고 안전을 확인해야 하며, 위반 시 벌금이 부과될 수 있습니다.",
       "full_translated": "태국에서 운전하는 사람들이 좌측 추월을 하는 것을 흔히 볼 수 있습니다. 좌측 추월은 위험하고 불법이라는 것을 알면서도 왜 그럴까요? 좌측 차선은 운전자가 보기 어려운 사각지대(Blind Spot)이기 때문에 사고 위험이 높습니다. 좌회전하거나 갓길에 정차한 차량과의 충돌 위험도 있습니다. 또한 좌측 차선은 쓰레기, 구멍 또는 고장난 차량이 있는 경우가 많아 차량이 균형을 잃기 쉽습니다. 갑작스러운 끼어들기 또한 사고의 원인이 됩니다. 운전 기술 부족이나 운전자의 태도 문제, 도로 환경 등이 원인이 될 수 있습니다.\n\n- 교통 표지판, 교통 상황, 차선 구분을 잘 확인해야 합니다. 흰색/노란색 실선에서는 추월하거나 차선을 변경할 수 없습니다. 실선에서 추월하면 최대 1,000바트의 벌금이 부과됩니다.\n- 추월하기 전에 상황을 잘 판단하고 추월 후 비상 상황 시 피할 공간이 있는지 확인해야 합니다. 백미러와 사이드 미러를 통해 뒤에서 빠르게 접근하는 차량이 있는지 확인하십시오.\n- 추월하기 전에 항상 신호를 보내십시오. 우측 방향 지시등을 켜서 앞차에 추월 의사를 알리고 주의를 기울이도록 합니다. 앞차가 좌측 방향 지시등을 켜서 응답하고 속도를 줄이면 추월하십시오.\n- 추월 후 너무 빨리 좌측으로 들어가지 마십시오. 추월당한 차량이 급제동하거나 통제력을 잃을 수 있습니다.\n- 커브길, 오르막길, 내리막길, 좁은 도로에서 추월하는 것은 매우 위험합니다.\n- 갓길로 추월할 때는 도로 상태가 좋지 않아 타이어가 펑크나거나 차량이 전복될 수 있습니다. 갓길에 정차된 차량이 있는 경우 심각한 사고가 발생할 수 있습니다.\n- 앞지르기 금지 구역: 30미터 이내에서는 추월이 금지됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국에서 운전하거나 차량을 렌트하는 여행객에게 중요한 정보입니다. 사고 예방 및 안전 운전에 도움이 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ขับรถแซงซ้าย รู้ว่าอันตราย ผิดกฎหมายแต่ทำไมยังทำ",
@@ -2007,21 +1999,18 @@
       ],
       "collected_at": "16:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJFZb1bXTpRo.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/auto/news/2917043",
+      "source": ""
     },
     {
       "title": "코랏 동물원, 34도 폭염에 대비하여 스프링클러 설치",
       "summary": "- 코랏 동물원이 34도까지 치솟는 더위에 대비하여 동물들을 위해 스프링클러를 설치했습니다.\n- 특히 거대 거북이와 비단뱀과 같이 더위에 취약한 동물들을 위해 냉각 시스템을 강화했습니다.\n- 동물원 측은 물을 뿌려 온도를 낮추고 동물들의 스트레스를 줄이기 위해 노력하고 있습니다.",
       "full_translated": "코랏 동물원, 34도 폭염에 대비하여 스프링클러 설치\n\n태국이 공식적으로 여름에 접어들면서 코랏 동물원은 급격한 기온 상승에 대비하고 있습니다. 동물원 측은 특히 거대 거북이와 비단뱀과 같이 더위에 취약한 동물들을 위해 스프링클러를 설치하여 냉각 시스템을 강화했습니다. 동물원 관계자는 살수 장치를 통해 온도를 낮추고 동물들의 스트레스를 줄이려고 노력하고 있습니다. 더운 날씨는 동물들의 건강에 영향을 미칠 수 있으므로, 동물원은 지속적으로 동물들의 상태를 모니터링하고 필요한 조치를 취할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "방콕이 아닌 코랏 지역 소식이지만, 태국 여행 중 더위에 대한 대비가 필요함을 알려주는 정보이므로 포함. 동물원 방문객은 더위 대비 필요.",
-      "event_info": {
-        "date": null,
-        "location": "สวนสัตว์นครราชสีมา (코랏 동물원)",
-        "price": null,
-        "location_google_map_query": "Khorat Zoo"
-      },
+      "event_info": "{'date': None, 'location': 'สวนสัตว์นครราชสีมา (코랏 동물원)', 'price': None, 'location_google_map_query': 'Khorat Zoo'}",
       "references": [
         {
           "title": "อากาศร้อนจัด สวนสัตว์โคราชเร่งติดตั้ง \"สปริงเกอร์\" หลังอุณหภูมิพุ่งสูง 34 องศาฯ",
@@ -2032,21 +2021,18 @@
       ],
       "collected_at": "16:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUJAygs5SjtPu.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/northeast/2917042",
+      "source": ""
     },
     {
       "title": "후아셍헹, 이스라엘-이란 분쟁으로 인한 금 가격 변동으로 온라인 거래 일시 중단",
       "summary": "- 후아셍헹은 이스라엘-이란 분쟁으로 인한 금 가격 변동성 증가로 온라인 및 금괴 거래를 일시 중단한다고 발표했습니다.\n- 거래 중단은 2069년 3월 2일까지이며, 이후 서비스가 재개될 예정입니다.\n- 이번 결정은 중동 지역의 긴장 고조와 그에 따른 시장 불확실성 증가에 따른 것입니다.",
       "full_translated": "후아셍헹은 이스라엘과 이란 간의 갈등으로 금 가격이 크게 변동하여 온라인 및 모든 종류의 금괴 거래를 일시적으로 중단한다고 발표했습니다. 서비스는 2069년 3월 2일에 다시 시작될 예정입니다. 이스라엘이 이란에 대한 공격을 시작한 후 중동 지역 상황이 악화되었습니다. 이란 언론은 수도 테헤란에서 여러 차례 폭발이 발생했다고 보도했습니다. 가장 최근에 HSHsocial 후아셍헹 팬 페이지에 다음과 같은 메시지가 게시되었습니다. “이스라엘과 이란 간의 갈등과 공격 시작으로 인해 금 가격이 매우 변동성이 커졌습니다. 또한 주말에는 해외 금 거래 시장이 문을 닫아 명확한 참조 가격이 없습니다. 따라서 당사는 온라인 거래 시스템 및 모든 종류의 금괴 서비스를 일시적으로 중단하며 2069년 3월 2일 월요일에 서비스를 재개할 예정입니다.”",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 중 금 거래에 관심 있는 소수 관광객에게만 해당. 일반적인 여행에는 큰 영향 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฮั่วเซ่งเฮง งดซื้อ-ขายออนไลน์ชั่วคราว เหตุอิสราเอล-อิหร่าน ทำราคาทองคำผันผวน",
@@ -2057,21 +2043,18 @@
       ],
       "collected_at": "16:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdTdb4p5IOvN7l.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/society/2917052",
+      "source": ""
     },
     {
       "title": "태국 선거법 관련 논란: '비밀 투표'의 의미와 향후 검토 불가능성",
       "summary": "- 태국 선거법 관련하여 '비밀 투표'의 의미에 대한 논쟁이 재점화됨.\n- 한 국회의원은 투표의 익명성이 보장되어야 한다고 주장하며 선거관리위원회를 비판.\n- 2017년 헌법 초안 작성자의 의도에 따르면 투표는 익명성이 유지되어야 하며, 이는 선거 후에도 마찬가지임.",
       "full_translated": "태국에서 선거법 해석을 둘러싼 논쟁이 벌어지고 있습니다. 특히 '비밀 투표'의 의미와 관련하여, 한 국회의원은 2017년 헌법의 조항을 근거로 투표의 익명성이 절대적으로 보장되어야 한다고 주장했습니다. 그는 선거관리위원회가 이 점을 간과하고 있다고 비판했습니다.\n\n해당 국회의원은 2017년 헌법 초안 작성자의 의도를 담은 문서를 공개하며, 투표는 익명으로 진행되어야 하며, 이는 투표가 끝난 후에도 유효해야 한다고 강조했습니다. 즉, 누구도, 심지어 선거관리위원회조차도 유권자가 누구에게 투표했는지 알아낼 수 없어야 한다는 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 뉴스이나, 태국 여행에 직접적인 영향은 없음. 다만, 정치적 불안정은 여행 심리에 영향을 줄 수 있다는 점을 고려하여 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“หมอวาโย” กางความมุ่งหมาย รธน. 60 ชี้ลงคะแนนโดยลับ ต้องตรวจสอบย้อนหลังไม่ได้ว่าเลือกใคร",
@@ -2082,6 +2065,108 @@
       ],
       "collected_at": "16:45",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUIif7R58uhbR.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917049",
+      "source": ""
+    },
+    {
+      "title": "태국 외무부, 이란 및 이스라엘 거주 자국민에게 대피 권고",
+      "summary": "- 태국 외무부는 중동 지역 긴장 고조에 따라 이란과 이스라엘에 거주하는 자국민에게 즉시 대피할 것을 권고했습니다.\n- 상업 항공편이 운항 중인 동안 해당 지역을 떠나거나, 대피 시설로 이동하여 미사일 공격에 대비할 것을 당부했습니다.\n- 긴급 상황 발생 시 테헤란 주재 태국 대사관 또는 영사 콜센터에 연락할 것을 안내했습니다.",
+      "full_translated": "태국 외무부는 중동 지역, 특히 이란과 이스라엘에 거주하는 태국인들에게 해당 지역에서 즉시 대피하여 대피소로 이동할 것을 경고했습니다. 2569년 2월 28일, 외무부는 중동 지역에 거주하는 태국인들을 위한 성명서(2호)를 발표했습니다. 현재 중동 지역의 긴장 상황으로 인해 갈등이 고조되고 확대되어 해당 지역에 거주하는 태국인들의 복지에 영향을 미칠 수 있습니다. 외무부는 특히 이란과 이스라엘에서 긴장 상황의 영향으로 위험에 처한 지역에 거주하는 태국인들에게 상업 항공편이 여전히 운항 중인 동안 해당 지역을 떠날 것을 권고합니다. 또는 미사일 공격으로부터 보호하기 위해 대피소로 이동하는 것을 고려할 수 있습니다. 또한, 불가피한 사유가 없는 한 해당 지역으로의 여행 결정을 신중하게 고려할 것을 요청합니다. 현재 상황은 불확실하며 빠르게 변할 수 있으므로 신뢰할 수 있는 출처의 뉴스를 면밀히 주시하십시오. 도움이 필요하거나 긴급 상황 발생 시 테헤란 주재 태국 대사관 (+98) 912 159 8699, (+98) 912 500 7933, 영사 보호과 4 또는 영사부 콜센터 (+66) 2 572 8442 (24시간) 또는 THAI CONSULAR 애플리케이션을 통해 연락할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 9,
+      "impact_reason": "중동 지역 긴장 고조로 인한 잠재적 위험을 알리고, 여행객 안전에 직접적인 영향을 미치므로 필수적으로 포함. 최신 업데이트 상황 반영.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กต. เตือนคนไทยในอิหร่านและอิสราเอลเร่งเดินทางออกจากพื้นที่ ไปพักยังที่หลบภัยโดยเร็ว",
+          "url": "https://www.thairath.co.th/news/politic/2917060",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUkpJtL1z6jBe.jpg"
+        }
+      ],
+      "collected_at": "17:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdUkpJtL1z6jBe.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "이란, 중동 내 미군 기지 여러 곳에 미사일 공격…긴장 고조",
+      "summary": "- 이란이 미국과 이스라엘의 공격에 대한 보복으로 중동 지역의 여러 미군 기지를 공격했습니다.\n- 바레인, 아부다비, 카타르 등 미군 기지가 있는 국가에서 폭발 보고가 잇따르고 있습니다.\n- 바레인 내무부는 국민들에게 안전한 지역으로 즉시 이동할 것을 촉구했습니다.",
+      "full_translated": "이란이 중동 지역에서 미군 기지 여러 곳을 미사일로 공격하여 상황이 격화되고 있습니다. 이는 미국과 이스라엘이 이란 내 목표물을 공격한 것에 대한 보복입니다. 이란 혁명 수비대(IRGC)와 가까운 언론 매체는 바레인, 아부다비, 카타르에서 여러 차례 폭발이 발생했다고 보도했습니다. 이들 국가는 모두 미군 기지가 주둔하고 있으며, 카타르의 알 우데이드 공군 기지, 쿠웨이트의 알 살렘 공군 기지, 아랍에미리트의 알 다프라 공군 기지, 바레인의 미 해군 5함대 기지 등 최소 4개의 미군 기지를 겨냥한 미사일 공격이 있었습니다. 바레인은 페르시아만에서 미국의 주요 동맹국이며 마나마에 5함대의 영구 본부가 위치해 있어 이번 공격의 주요 목표 중 하나였습니다. 미국 관리는 바레인의 미 해군 기지가 이란 미사일의 공격을 받았으며 상황이 불안정하다고 밝혔습니다. 바레인 내무부는 긴급 발표를 통해 국민들에게 가장 가까운 안전 지역으로 즉시 이동할 것을 요청했습니다. 이란의 파르스 통신은 IRGC의 성명을 인용하여 이번 공격이 이란 여러 도시에서 벌어진 미국과 이스라엘의 군사 작전에 대한 직접적인 대응이라고 보도했습니다. 동시에 이스라엘은 이란 서부 지역의 이란 정부 목표물에 대한 새로운 공격 작전을 개시했다고 발표했습니다. 이스라엘 방위군(IDF)은 여러 군사 목표물에 대한 광범위한 공격을 수행하고 있다고 밝혔습니다. 이번 새로운 공격은 미국과 이스라엘이 첫 공격을 개시한 지 약 3시간 30분 후에 발생했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역의 긴장 고조는 잠재적으로 항공 교통 및 여행 안전에 영향을 미칠 수 있으므로 여행자에게 관련 정보입니다. 특히 바레인에 있는 미 해군 기지가 공격받았다는 점은 안전에 대한 우려를 야기합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ตึงเครียดหนัก อิหร่านยิงขีปนาวุธถล่มฐานทัพสหรัฐฯ หลายแห่งในตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/foreign/2917059",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdTeZNdlsAB2yy.jpg"
+        }
+      ],
+      "collected_at": "17:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdTeZNdlsAB2yy.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "파타야, 오토바이 도난 신고 5일째 지연...피해 여성, 경찰 수사 촉구",
+      "summary": "- 2월 23일, 48세 여성 쿨티다 씨가 파타야 농프루 경찰서에 오토바이 도난 신고.\n- CCTV 영상 증거로 제출했으나, 경찰은 현장 방문이나 추가 확인을 하지 않음.\n- 쿨티다 씨는 수사 지연으로 용의자 추적 및 차량 회수가 어려워질까 우려하며 경찰의 적극적인 수사를 촉구.",
+      "full_translated": "쿨티다 쿤프라딧 씨는 2026년 2월 23일 농프루 경찰서에 사건을 신고했습니다. 그녀는 임대 숙소의 CCTV 영상을 증거로 제출했지만, 경찰관들이 아직 현장을 방문하거나 비디오에 대한 추가 조사를 실시하지 않았다고 말합니다. 도난 사건은 카오 탈로에서 떨어진 소이 분 삼판 십오의 그녀의 방 앞에서 당일 오후 2시경에 발생했습니다. 쿨티다 씨는 그녀의 혼다 웨이브 125 오토바이(파란색, 웃따라딧 번호판 1 꺼 ญ 4743)를 정오경 편의점에 탔다가 돌아와 방 밖에 주차했습니다. 서둘러 쉬기 위해 차를 잠그지 않고 키를 꽂아둔 채로 있었습니다. 두 시간 후 오토바이를 다시 사용하러 갔을 때 사라졌습니다. 숙소의 CCTV를 확인한 결과 긴 소매 노란색 셔츠와 마스크를 쓴 낯선 남자가 게이트를 통해 지역에 들어오는 것이 목격되었습니다. 그는 자전거로 곧장 걸어가서 키가 여전히 꽂혀 있는 것을 알아차리고 빼서 재빨리 타고 달아났습니다. 도난 사실을 발견한 후 쿨티다 씨는 즉시 농프루 경찰에 연락하여 CCTV 증거를 제출했습니다. 경찰관들은 보고서를 접수하고 수사팀이 현장을 조사할 것이라고 말했습니다. 그러나 2월 28일 현재 5일이 넘도록 경찰관들이 위치를 방문하지 않아 피해자는 용의자의 흔적이 사라질 수 있다는 우려가 점점 커지고 있습니다. 기자들에게 쿨티다 씨는 지연으로 인해 용의자를 추적하고 차량을 회수하기가 더 어려워질 수 있다는 좌절감과 우려를 표명했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 외국인 대상 오토바이 도난 사건 발생. 여행객의 소지품 안전에 대한 인식을 높일 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야, 소이 분 삼판 15",
+        "price": null,
+        "location_google_map_query": "Soi Boon Samphan 15, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Woman, 48, Urges Police Action After Motorcycle Theft Report Stalls for Over 5 Days in Pattaya Area",
+          "url": "https://thepattayanews.com/2026/02/28/woman-48-urges-police-action-after-motorcycle-theft-report-stalls-for-over-5-days-in-pattaya-area/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772272234505593865936575503288.jpg?v=1772272289"
+        }
+      ],
+      "collected_at": "17:15",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772272234505593865936575503288.jpg?v=1772272289",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "Thai Airways, 글로벌 확장으로 2025년 300억 바트 수익 급증 예상",
+      "summary": "- 중국, 인도, 네덜란드, 뉴질랜드 등 여러 국가가 Thai Airways의 글로벌 확장을 지원.\n- 2025년까지 300억 바트의 수익 급증에 기여할 것으로 예상.\n- 전략적 시장 전반에서 기록적인 여객 트래픽을 주도할 전망.",
+      "full_translated": "중국은 인도, 네덜란드, 뉴질랜드 등과 함께 Thai Airways의 글로벌 확장을 지원하여 2025년까지 300억 바트의 수익 급증에 기여하고 전략적 시장 전반에서 기록적인 여객 트래픽을 주도하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "Thai Airways의 성장 및 확장 소식은 여행객들에게 다양한 노선 및 서비스 확대를 기대하게 할 수 있으나, 직접적인 여행 계획에 미치는 영향은 제한적입니다. 따라서 중간 정도의 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China Joins India, Netherlands, New Zealand, and More in Boosting Thai Airways’ Global Expansion, Contributing to an Unstoppable Thirty Billion Baht Profit Surge in 2025, and Driving Record Passenger Traffic Across Strategic Markets - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQeGJ0U3JnSWxFVmVOc2QtQWVncjBET0lLTWFIcE5Tb1JjWG12YjE2dWVwYkdsRmQ5ZUcxOE9KNVE0ZlBvNmloZWhBM0h3NWhyUjZ6M0xhRlhTT2dHRVZJUWtfU2lYSUpxOWJQNmprQVdsYW0zMHBKUFE2ZWkwUWVCUE1uMmx0NTZKQUhWaHFER2R3SjZ6TnBkSXNBSFJsN3VLZHg4Nk1fLTNkSWozQlJYR1g1bXhuRzhMa09GTU9KN2dVRFFUWGpobmMyRXpDWlhjY2tsbzFNTUpGNXBDYXozVUw4RnlnVjZ0SHFzc0pMLWFCaVRQREF4aFFDcnJQSEUzbTFmT2Y2X0RSODZQQXh2QzZ4d1ljQktvNTFvTzJDVklYYUJRcnNOd3ZJY2VVRzFLVmpWaFliN0tZVEhzNnpVc2pLR3NXbjJSOUtxTWU0MkNzbENQYnc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-28"
     }
   ]
