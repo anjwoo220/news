@@ -976,14 +976,9 @@
       "summary": "- 태국 정부는 올해 여름 기온이 작년보다 높아 42~43도에 이를 수 있다고 경고하며, 특히 고령자, 어린이, 만성 질환자 등 고위험군은 열사병에 주의할 것을 당부했습니다.\n- 오전 11시부터 오후 3시 사이에는 야외 활동을 피하고, 외출 시에는 물을 자주 마시며, 헐렁하고 밝은 색상의 옷을 입어 체온을 유지하는 것이 좋습니다.\n- 열사병 증상(현기증, 두통, 메스꺼움, 빠른 호흡, 심계항진 등)이 나타나면 즉시 시원한 곳으로 이동하여 휴식을 취하고, 응급 처치를 받아야 합니다.",
       "full_translated": "태국 정부는 날씨가 더워지면서 '열사병' 위험에 대한 경고를 발표했습니다. 특히 위험 그룹, 만성 질환 그룹, 야외 작업 그룹은 건강 관리에 유의하고 야외 활동을 장시간 피해야 합니다. \n\n2026년 2월 28일, 총리실 부대변인인 아야린 판릿 여사는 태국이 2월 22일부터 공식적으로 “2026년 여름”에 접어들었다고 밝혔습니다. 올해 기온은 작년보다 높을 것으로 예상되며 위험 지역인 매홍손, 람팡, 딱에서는 42~43도에 달할 수 있습니다. \n\n국민들은 고온으로 인한 건강 관리에 유의해야 하며, 장시간 야외 활동을 피하여 생명을 위협할 수 있는 열사병 발병 위험을 줄여야 합니다. 아야린 여사는 열사병은 신체의 과열로 인해 여러 시스템에 영향을 미쳐 위험 그룹, 즉 노인, 어린 유아에서 유치원 연령의 어린이에게 생명을 위협할 수 있다고 말했습니다. 신체의 환기 시스템이 완전하지 않기 때문입니다. 심장병, 폐 질환, 비만과 같은 만성 질환을 앓고 있는 그룹과 군인, 경찰, 경비원과 같은 야외 작업 그룹 모두 위험합니다. 오전 11시부터 오후 3시까지는 활동을 줄이는 것이 좋습니다. 야외 활동을 피하십시오. 밖에 나가야 한다면 매시간 물을 자주 마시십시오. 땀을 많이 흘리면 전해질 음료를 더 많이 마시십시오. 더운 날씨를 피하십시오. 열을 발산하고 통풍이 잘 되는 밝은 색상의 옷을 입으십시오. \n\n국민들은 현기증, 어지러움, 메스꺼움, 빠른 호흡, 두근거림, 얼굴이 붉어지고 땀이 나지 않는 경우 열사병 위험에 대한 경고 징후를 관찰할 수 있습니다. 즉시 응급 처치를 받아야 합니다. 즉시 시원하고 통풍이 잘 되는 곳으로 옮기십시오.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "태국 여행 중인 여행객의 건강과 안전에 직접적인 영향을 미치는 정보이며, 특히 더운 날씨에 대한 주의를 요하므로 중요도가 높음. 매일 업데이트되는 날씨 정보이므로 포함.",
-      "event_info": {
-        "date": "2026-02-28",
-        "location": "태국 전역 (특히 매홍손, 람팡, 딱)",
-        "price": null,
-        "location_google_map_query": "태국 매홍손 람팡 딱"
-      },
+      "event_info": "{'date': '2026-02-28', 'location': '태국 전역 (특히 매홍손, 람팡, 딱)', 'price': None, 'location_google_map_query': '태국 매홍손 람팡 딱'}",
       "references": [
         {
           "title": "รัฐบาลเตือนปีนี้อุณหภูมิจะสูงกว่าปีก่อน อาจแตะ 42–43 องศา แนะระวังโรคฮีทสโตรก",
@@ -994,21 +989,18 @@
       ],
       "collected_at": "11:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYlDloJAcShM5c.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2916999",
+      "source": ""
     },
     {
       "title": "중국 관광객 회복, 예측에는 시기상조",
       "summary": "- 태국 관광청(TAT)은 중국 관광객 회복세가 뚜렷하지만, 5월까지 추이를 지켜볼 예정.\n- 2월 23일까지 중국인 입국자 수는 991,718명으로 전년 대비 0.3% 증가.\n- 노동절 연휴까지 상황을 관찰하며, 꾸준한 홍보 캠페인을 유지할 계획.",
       "full_translated": "태국 관광청(TAT)은 중국인 입국자 수가 처음 두 달 동안 회복세를 보였지만, 강력한 회복을 기대하기에는 시기상조라고 밝혔습니다. 수요가 안정화되었는지 평가하기 위해 5월까지 기다리는 것을 선호합니다. 중국인 입국자 수는 2월 23일 현재 991,718명으로 0.3% 증가했습니다(전년 동기 988,451명). 관광체육부에 따르면 처음 두 달 동안 중국인 입국자 수는 총 108만 명으로 예상되며, 이는 전년 대비 4.5% 증가한 수치입니다. 이러한 성장은 10만 개의 추가 항공 좌석, 전세기 및 온라인 여행사를 통한 판촉 캠페인에 의해 주도되었습니다. TAT 동아시아 담당 이사인 Siriges-a-nong Trirattanasongpol은 작년 4분기부터 회복세를 보였다고 밝혔습니다. 이러한 추세는 이번 달 춘절 기간 동안 더욱 두드러졌으며, 본토에서 온 입국자 수는 2024년과 2025년에 비해 각각 4%와 10% 증가했습니다. 관광 부문이 아시아 7개 시장에서 얻은 277억 바트 중 약 60.3%(167억 바트)가 중국인 지출에서 발생했습니다. Siriges-a-nong은 \"관광 흐름을 모니터링하고 비수기가 다가옴에 따라 일관된 판촉 캠페인을 유지해야 합니다. 관광청은 중국 시장의 다음 연휴인 5월 노동절까지 기다린 후 수요가 완전히 회복되었는지 판단하는 것을 선호합니다.\"라고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국인 관광객은 태국 관광 산업에 큰 영향을 미치므로, 관련 동향을 파악하는 것이 중요. 다만, 현재로서는 예측이 불확실하므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Too soon to predict China tourism rebound",
@@ -1019,21 +1011,18 @@
       ],
       "collected_at": "11:38",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206813_260228003800_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/business/general/3206813/too-soon-to-predict-china-tourism-rebound",
+      "source": ""
     },
     {
       "title": "PTT, 석유 가격 하락에 따른 수익 감소로 사업 파트너 모색",
       "summary": "- 태국 국영 석유 가스 기업 PTT Plc가 사업 강화를 위해 신규 사업 파트너를 찾고 있습니다.\n- 석유 정제 및 석유화학 자회사(Thai Oil, PTT Global Chemical Plc, IRPC Plc)의 지분 매각을 고려 중입니다.\n- 전기차(EV) 충전 사업에도 투자자를 유치할 계획입니다.",
       "full_translated": "PTT는 석유 가격 하락으로 인한 수익 감소에 따라 자금 확보를 위해 사업 전반에 걸쳐 파트너를 모색하고 있습니다. 에너지 대기업은 석유 가격 하락으로 인해 자본을 모색합니다. 발행일: 2026년 2월 28일 05:48 신문 섹션: 비즈니스 작성자: Yutthana Praiwan 국영 석유 가스 복합 기업 PTT Plc는 PTT 그룹 내 사업을 강화하고 장기적인 성과를 향상시키기 위해 시너지 효과를 창출하기 위해 추가 자금을 확보하기 위해 새로운 사업 파트너를 모색하고 있습니다. 콩크라판 인타라장 PTT 최고 경영자 겸 사장은 “우리는 업스트림에서 다운스트림까지 사업에 투자하는 데 관심 있는 회사와 파트너 관계를 맺는 것을 목표로 합니다.”라고 말했습니다. “올해 말까지 결론에 도달할 것으로 예상합니다.” PTT는 동남아시아 확장을 모색하는 글로벌 석유화학 회사에 석유 정제 및 석유화학 자회사인 Thai Oil Plc, PTT Global Chemical Plc(GC) 및 IRPC Plc의 주식을 매각할 계획입니다. 콩크라판 씨는 “잠재적 파트너는 동남아시아에서 우리의 사업 전문 지식을 원하고, 우리는 그들의 투자 및 경영 경험이 우리의 재정적 위치를 강화할 것으로 기대합니다.”라고 덧붙였습니다. Thai Oil, GC 및 IRPC는 석유화학 제품의 세계적인 과잉에 대처하기 위해 비용 절감 프로그램을 채택했습니다. PTT는 또한 PTT Oil and Retail Business Plc(OR)가 운영하는 전기 자동차(EV) 충전 사업에 대한 투자자에게 접근할 것이라고 그는 말했습니다. PTT는 이미 EV 조립 및 EV 배터리 제조 사업에서 지분을 매각하여 소액 주주가 되었습니다. 콩크라판 씨는 회사가 현재 tal에 있다고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "PTT의 사업 변화는 단기적으로 여행객에게 직접적인 영향을 미치지 않지만, 장기적으로 에너지 가격이나 관련 서비스에 간접적인 영향을 줄 수 있습니다. 현재 시점에서는 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PTT eyes partners across value chain",
@@ -1044,21 +1033,18 @@
       ],
       "collected_at": "11:38",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/02/28/5986248_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/business/general/3206708/ptt-eyes-partners-across-value-chain",
+      "source": ""
     },
     {
       "title": "총리, 내각 구성 루머 부인",
       "summary": "- 아누틴 총리는 쁘라윳 정부의 일부 각료가 차기 내각에 참여하지 않을 것이라는 소문을 부인함.\n- 퓨타이당의 일부 인사가 젊은 인재를 위해 자리를 비워줘야 한다는 주장에 대한 반박임.\n- 총리는 아직 어떤 정당과도 내각 구성에 대한 논의를 진행하지 않았다고 밝힘.",
       "full_translated": "아누틴 찬비라쿨 총리는 퓨타이당의 베테랑 정치인 목록을 거부했다는 보도를 부인했습니다. 므앙콜 방프라파 기자가 2026년 2월 28일 05시 15분에 보도했습니다. 아누틴 총리는 퓨타이당의 수리야 중룽르앙킷과 솜삭 텝수틴이 젊은 인재에게 자리를 비워줘야 한다는 주장 때문에 내각에 참여하지 못할 수 있다는 보도를 부인했습니다. 아누틴 총리는 금요일에 어떤 정당과도 내각 구성에 대해 논의한 적이 없다고 말했습니다. 총리는 다음 정부 구성 시기에 대해 논의하면서 국회의원 명단 인증 지연 및 기타 선거 관련 불만을 포함하여 고려해야 할 몇 가지 핵심 요소가 있다고 말했습니다. 그는 “이틀 전 하원 사무총장을 만났는데 추가 조율이 있을 것이며 의회 개회식에 우선해야 한다는 말을 들었다”고 말했다. 한편, BJT 내부 소식통은 농업협동조합부, 교육부, 노동부, 고등교육과학연구혁신부, 사회개발인간안보부 등 최소 5개의 내각 자리가 확정되었다고 밝혔습니다. 보고서에 따르면 퓨타이당의 총리 후보인 Yodchanan Wongsawat이 고등 교육 장관직에 지명되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 뉴스이며 여행에 직접적인 영향은 적으나, 태국 정치 상황에 대한 배경지식 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PM denies cabinet rumours",
@@ -1069,21 +1055,18 @@
       ],
       "collected_at": "11:38",
       "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3206668_260228051605_700.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.bangkokpost.com/thailand/politics/3206668/pm-denies-cabinet-rumours",
+      "source": ""
     },
     {
       "title": "태국 고등교육부 장관 임명 논쟁: 수윗 박사의 견해",
       "summary": "- 수윗 메신트리 전 고등교육부 장관은 요차난 웡사왓의 장관 임명 필요성을 강조.\n- 기술 패권 시대에 태국이 나아가야 할 방향을 설정해야 한다고 주장.\n- AI, 신경 기술 등 첨단 기술 발전에 대한 국가 전략 수립이 중요하다고 언급.",
       "full_translated": "수윗 메신트리 전 고등교육과학연구혁신부 장관은 요차난 웡사왓을 장관으로 임명해야 하는 이유를 설명하며, 국가 기술 сферы 방향을 구체적으로 재설정할 기회라고 지적했습니다. 2069년 2월 28일, 수윗 메신트리 전 장관은 페이스북을 통해 요차난 웡사왓 총리 후보이자 픅타이당의 국회의원 후보가 태국이 고등교육과학연구혁신부를 통해 제4차 인류 진화를 추진하는 데 필요한 리더라고 밝혔습니다.\n\n수윗 전 장관은 인류가 농업 시대에서 산업 시대로, 디지털 시대를 거쳐 제4차 인류 진화라는 중요한 전환점에 진입하고 있다고 언급했습니다. 현재 기술 сфер는 단순한 '도구'가 아닌 경제, 사회, 심지어 인간성의 의미까지 규정하는 '권력 구조'가 되고 있습니다. AI, 신경 기술, 생명 공학, 양자 컴퓨팅, 데이터 인프라가 국가와 시장의 사고방식, 의사 결정, 권력 균형을 체계적으로 변화시키고 있습니다. 따라서 태국이 기술을 어떻게 사용할 것인가가 아니라, 문명의 주권과 균형을 유지하기 위해 자국의 기술 сфер를 어떻게 설계할 것인가가 중요합니다. 따라서 고등교육과학연구혁신부는 단순한 '연구 예산 부처'가 아니라 국가의 전략적 핵심입니다.\n\n1. 고등교육과학연구혁신부는 4개의 문명 계층 프레임워크 하에서 국가의 전략적 지렛대 역할을 합니다(자세한 내용은 이전 게시물 참조). 고등교육과학연구혁신부는 국가에 가장 빠르고 깊은 영향을 미치는 기술 сфер를 규제합니다. 현재 기술 сфер는 다음을 결정합니다.\n\n• 디지털 경제 구조\n• 경쟁력\n• 사이버 보안\n• 정보 시스템\n• 사회 권력 균형...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이며, 관광객에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ดร.สุวิทย์” ยกเหตุผล ทำไมต้อง “ยศชนัน วงศ์สวัสดิ์” นั่งบริหารกระทรวง อว.",
@@ -1094,6 +1077,133 @@
       ],
       "collected_at": "11:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYlDnl8n1FAP7S.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2916996",
+      "source": ""
+    },
+    {
+      "title": "독일 뮌헨 BMW Welt: 바이에른에서 가장 인기 있는 명소 중 하나",
+      "summary": "- 뮌헨 올림픽 공원 옆에 위치한 BMW Welt는 연간 220만 명 이상의 방문객을 끌어모으는 인기 명소입니다.\n- BMW Welt는 최신 자동차 모델, 혁신 기술 및 클래식 자동차를 전시하는 자동차 박물관 역할을 합니다.\n- BMW Welt는 BMW, MINI, BMW Motorrad 및 Rolls-Royce를 포함한 BMW 그룹의 차량을 선보이며, 브랜드 역사와 미래를 경험할 수 있는 공간입니다.",
+      "full_translated": "25년 전 BMW는 뮌헨 올림픽 공원 옆에 특이한 모양의 건물을 짓기 시작했습니다. 당시 전 세계 사람들은 이 건물이 무엇이 될지 알지 못했습니다. 25년이 지난 지금, BMW Welt 건물의 건축물과 내부는 연간 220만 명 이상의 방문객을 끌어모으고 있으며, 이는 원래 예상했던 850,000명의 거의 3배에 달합니다. 그리고 바이에른에서 가장 인기 있는 관광 명소 중 하나가 되었습니다.\n\n2013-2023년 동안 태국 언론은 BMW 브랜드 이야기가 가득한 건물을 방문했습니다. 뮌헨에서 테스트 드라이브를 할 때마다 간식을 먹고 새 차를 구경하거나 브랜드 역사를 방문하는 것으로 끝나는 경우가 많습니다. BMW Welt는 세계 최초로 전시되는 새로운 자동차 모델, 최신 자동차 기술, 인상적인 클래식 자동차를 보유하고 있습니다. BMW Welt는 브랜드 쇼룸처럼 느껴지지 않지만 슈투트가르트에 있는 Mercedes-Benz의 역사적인 건물과 유사합니다. 과거와 현재, 미래를 모두 담고 있습니다. BMW Welt 박물관은 BMW Group의 BMW, MINI, BMW Motorrad 및 Rolls-Royce 자동차를 전시하는 건물이며, 전시 공간, 박물관 및 신차 인도 공간이 있습니다. 독일 뮌헨의 BMW AG 사무실 건물 옆에 위치하고 있습니다. BMW 그룹 창립, BMW 엔진을 사용하는 자동차, 오토바이, 항공기 전시부터 시작하여 구역별로 전시 레이아웃을 배치했습니다. 두 번째 구역에서는 현재 판매 중인 신차, 혁신 기술, BMW 브랜드 관련 상품을 판매하는 상점을 통합하여 전시합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행객이 독일 뮌헨을 방문할 경우 참고할 만한 정보. 새로운 명소 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "뮌헨 BMW Welt",
+        "price": "정보 없음",
+        "location_google_map_query": "BMW Welt Munich"
+      },
+      "references": [
+        {
+          "title": "พลาดไม่ได้ถ้าไปมิวนิค BMW Welt ของดีประจำจังหวัด",
+          "url": "https://www.thairath.co.th/news/auto/news/2916994",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhZbjBp3ZCaIYYGtZ.jpg"
+        }
+      ],
+      "collected_at": "12:27",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhZbjBp3ZCaIYYGtZ.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "라오스행 유류 수출 통제 강화: GPS 추적 시스템 도입",
+      "summary": "- 제2군단, 라오스행 유류 수출 통제 강화 발표\n- 국가 안보 고려, GPS 추적 시스템 추가\n- 출발지부터 목적지까지 추적, 담당자 검사",
+      "full_translated": "제2군단은 라오스행 유류 수출 통제 조치를 설명하며, 국가 안보를 고려하여 적절하게 운영되고 있음을 강조했습니다. 2069년 2월 28일부터 유류 수출 시 출발지부터 목적지까지 GPS 추적 시스템을 추가하고 담당 직원이 검사합니다. 군단은 라오스 국민에게 미칠 수 있는 영향을 줄이고 원활하고 투명하며 안전한 운영을 위해 유류 수출을 2068년 12월 14일부터 중단했습니다. 현재 육군은 적절하고 엄격한 통제하에 유류 수출을 통제하기 위한 프레임워크를 승인했습니다. 군단은 지역 보안 기관 및 관련 사업 대표들과 회의를 열어 지역 사업자의 수출 요구 사항을 확인했습니다. 3개 석유 회사의 대표 6명이 참여했으며, 참파삭 지방의 10개 라오스 사업체를 조사한 결과, 해당 사업체들이 라오스 법률에 따라 석유 수입 허가를 받았고 제3국으로 수출하지 않는다는 서면 확인을 받았습니다. 투명성을 높이기 위해 제2군단은 운송 차량에 GPS 추적 시스템을 추가하는 등 통제 조치를 강화했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "라오스 여행에 영향을 줄 수 있는 유류 수출 통제 관련 정보. 국경 통과 시 확인 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทภ.2 ชี้แจงมาตรการควบคุมส่งออก \"น้ำมัน\" ไปยัง สปป.ลาว เพิ่มการติดตามระบบ GPS",
+          "url": "https://www.thairath.co.th/news/local/2917005",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdViTTF2Nxceeu.jpg"
+        }
+      ],
+      "collected_at": "12:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdViTTF2Nxceeu.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 정부, 농산물 가격 하락 및 민생 문제 해결에 집중",
+      "summary": "- 전 태국 집권당 대변인, 새 정부에 농산물 가격 하락 및 민생 문제 해결 촉구\n- 경제 침체와 가뭄에 대한 우려 표명, 정부의 적극적인 대처 요구\n- 새 정부 구성에 대한 기대감과 함께 경제 문제 해결에 대한 기대 표명",
+      "full_translated": "프롬퐁 전 태국 집권당 대변인은 새 정부에 농산물 가격 하락 및 민생 문제 해결을 촉구했습니다. 그는 아누틴 차른비라쿨 총리 정부의 주요 과제는 경제 문제, 민생 문제, 농산물 가격 하락 문제를 해결하는 것이라고 말했습니다. 특히 쌀, 옥수수, 카사바, 코코넛 등의 가격 하락 문제와 가뭄으로 인한 농업 피해에 대한 대비책 마련을 강조했습니다.\n\n그는 또한 태국 중앙은행이 경기 부양을 위해 금리를 인하한 것은 태국 경제 상황이 좋지 않음을 반영하는 것이라고 지적하며, 새 정부가 이러한 문제 해결에 적극적으로 나서야 한다고 주장했습니다. 새 정부 구성이 아직 완료되지 않았지만, 품짜이타이 당, 연립 정부, 집권당 출신 인사들이 내각에 참여할 것으로 예상했습니다. 그는 집권당 출신 인사들이 장관으로 임명되어 각 부처에서 경험을 바탕으로 활약할 것이라고 믿는다고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황에 대한 간접적인 정보. 여행 자체에 직접적인 영향은 없으나, 물가 등 간접적인 영향을 줄 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“พร้อมพงศ์” ฝากรัฐบาลใหม่ เร่งแก้ปัญหาราคาพืชผลเกษตร-ปากท้อง มั่นใจคนเพื่อไทยมืออาชีพร่วม ครม.",
+          "url": "https://www.thairath.co.th/news/politic/2917006",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVibH4QuZ6JrH.jpg"
+        }
+      ],
+      "collected_at": "12:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVibH4QuZ6JrH.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "트럼프, 이란 핵 협상 태도에 '실망'…오만은 '중요한 진전' 지적",
+      "summary": "- 트럼프 전 미국 대통령은 이란의 핵 협상 태도에 불만을 표하며 이란의 핵무기 보유를 용납하지 않겠다고 강조했습니다.\n- 오만은 최근 협상에서 중요한 진전이 있었다고 밝혔으며, 이는 잠재적인 전쟁을 피할 수 있는 긍정적인 신호로 해석됩니다.\n- 미국은 중동 지역에 군사력을 증강하며 이란에 대한 압박을 강화하고 있으며, 이란은 핵무기 개발 의도가 없다고 주장하고 있습니다.",
+      "full_translated": "도널드 트럼프는 이란의 핵 협상 태도에 불만을 표시하며 이란이 핵무기를 가져서는 안 된다고 강조했습니다. 오만은 최근 논의에서 전쟁을 피하는 데 도움이 될 수 있는 중요한 진전이 있었다고 밝혔습니다. 긴장은 미국이 중동에서 수십 년 만에 가장 큰 군사력 증강을 단행한 후 고조되었습니다. 세계에서 가장 큰 항공모함인 USS Gerald R Ford가 이스라엘 해안으로 향하고 있으며, 이란이 핵심 요구 사항, 특히 핵 프로그램 문제를 수용하도록 압력을 가하고 있습니다. 제네바에서 미국과 이란 간의 협상 후 트럼프는 테헤란 정부가 자신이 원하는 것을 제공하지 않았다고 말하며, 이란이 우라늄 농축을 전혀 하지 않기를 원한다고 분명히 밝혔습니다. 이는 핵무기 개발에 사용될 수 있는 물질입니다. 이란은 핵무기 개발을 목표로 하지 않는다고 지속적으로 주장해 왔습니다. 앞서 트럼프는 이란이 낮은 수준으로 우라늄 농축을 제한하는 2015년 핵 합의에서 미국을 탈퇴했습니다. 그리고 지난 6월, 그는 이스라엘의 대규모 공습 작전에 미국이 참여한 후 이란의 주요 핵 시설이 완전히 파괴되었다고 말했습니다. 그러나 협상을 중재하는 역할을 하는 오만은 다른 그림을 제시했습니다. 미국 부통령 제이디 밴스와 워싱턴에서 회담을 진행 중인 오만 외무장관 바드르 알부사이디는 이란이 모든 수준에서 우라늄을 비축하지 않고 기존 우라늄 재고를 연료로 전환하기로 합의했다고 밝혔습니다. 이는 전례 없는 중요한 진전입니다. 알부사이디는 CBS의 Face the Nation에서 궁극적인 목표가 이란을 만드는 것이라면...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향은 없으나, 중동 지역의 긴장 고조는 국제 정세에 영향을 미칠 수 있으므로 정보 제공 목적으로 포함합니다. 여행객의 안전에 직접적인 위협은 없다고 판단했습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์รับ \"ผิดหวัง\" ท่าทีอิหร่านเจรจานิวเคลียร์ ขณะที่โอมานชี้มีความคืบหน้าครั้งสำคัญ",
+          "url": "https://www.thairath.co.th/news/foreign/2916987",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYkfYjoyniq6Kz.jpg"
+        }
+      ],
+      "collected_at": "12:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyOYkfYjoyniq6Kz.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 품자이타이당 의원, 의회 보고… “아누틴, 장관직 결정해야”",
+      "summary": "- 품차이타이당 의원들이 의회에 보고, 아누차는 아누틴에게 장관직 결정을 넘겼다.\n- 아누차 사솜삽은 나콘파톰에서 4개 지역구를 확보했다고 밝혔다.\n- 아누틴 차른비라쿨 대표가 장관직 승진 여부를 결정할 것이다.",
+      "full_translated": "푸미차이당 소속 의원 4명이 휴일에 보고했다. 아누차 사솜삽은 자신이 이끄는 그룹이 나콘파톰에서 4석을 확보했으며, 장관직 승진 여부는 아누틴이 결정할 것이라고 밝혔다. 아침 보고 분위기는 조용했으며, 2월 28일 기준 396명의 의원 중 97명이 보고를 완료했다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สส.ภูมิใจไทย รายงานตัวต่อสภา “อนุชา” โยน “อนุทิน” ตัดสินใจให้เก้าอี้ รมต. หรือไม่",
+          "url": "https://www.thairath.co.th/news/politic/2917008",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVjQ1QYp4HsDp.jpg"
+        }
+      ],
+      "collected_at": "12:27",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdVjQ1QYp4HsDp.jpg",
       "date": "2026-02-28"
     }
   ]
