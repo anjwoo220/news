@@ -4049,9 +4049,9 @@
       "summary": "- 네타냐후 이스라엘 총리가 이란 최고 지도자의 사망 가능성을 언급했으나, 이란은 이를 부인함.\n- 이스라엘은 이란 지도부 공격을 감행했으며, 이란은 호르무즈 해협 봉쇄 가능성을 경고한 바 있음.\n- 상황이 유동적이므로, 관련 외신 동향을 계속 주시해야 함.",
       "full_translated": "벤냐민 네타냐후 이스라엘 총리는 이란 최고 지도자가 사망했을 가능성을 시사하는 여러 징후가 있다고 주장했습니다. 그러나 이란 관리들은 최고 지도자와 대통령 모두 안전하다고 밝혔습니다. 외신에 따르면, 네타냐후 총리는 2월 28일 토요일 저녁에 아야톨라 알리 카메네이가 '더 이상 우리와 함께 있지 않다'는 것을 시사하는 '여러 징후'가 있다고 말했습니다. 그러나 그는 카메네이가 살해되었는지 공식적으로 확인하지 않았습니다. 이란 외무부 장관 아바스 아락치는 NBC에 자신이 아는 한 아야톨라 알리 카메네이와 다른 고위 관리들은 살아있다고 말했습니다. 그러나 이란은 토요일 아침 공격이 시작된 이후 카메네이의 영상을 공개하지 않았습니다. CNN은 앞서 카메네이가 다른 고위 지도자들과 함께 이스라엘의 첫 번째 공격 목표 중 하나였다고 보도했지만, 이스라엘 소식통은 카메네이가 살해되었는지 확인되지 않았다고 밝혔습니다. 네타냐후 총리는 '이 폭군은 더 이상 우리와 함께 있지 않다는 것을 시사하는 여러 징후가 있다'고 말하며 이스라엘이 그의 사무실을 파괴했다고 덧붙였습니다. 그는 이란에 대한 작전에는 '인내'가 필요하며 '필요한 만큼 계속될 것'이라고 덧붙였습니다. 네타냐후는 성명에서 '이번 전쟁은 진정한 평화로 이어질 것'이라고 약속했습니다. 그러나 네타냐후가 성명을 발표한 직후 이란 외무부 대변인 에스마엘 바게이는 ABC 뉴스에 이란 대통령과 최고 지도자는 '안전하다'고 확인했으며 이란 정부의 통치 시스템은 그대로 유지되고 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "정치적 불안정은 여행 안전에 영향을 줄 수 있으므로 관련 정보를 제공. 특히 이란의 호르무즈 해협 봉쇄 위협은 유가 상승 및 경제적 불안으로 이어질 수 있어 여행 관련 비용에 간접적인 영향을 줄 수 있음.",
-      "event_info": {},
+      "event_info": "{}",
       "references": [
         {
           "title": "เนทันยาฮูอ้าง มีสัญญาณหลายอย่างที่ชี้ว่า ผู้นำสูงสุดอิหร่านอาจตายแล้ว",
@@ -4060,23 +4060,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5zj4abBazz9.jpg"
         }
       ],
-      "collected_at": "04:13",
+      "collected_at": "4:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5zj4abBazz9.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917127",
+      "source": ""
     },
     {
       "title": "푸껫 라차 제도 인근 기름 유출, 총력 대응",
       "summary": "- 푸껫 라차 제도를 위협하는 기름 유출 사고 발생\n- 당국, 오염 확산 방지를 위해 총력 대응 중\n- 관광객과 해양 생태계에 미치는 영향 최소화 노력",
       "full_translated": "푸껫 라차 제도를 위협하는 기름 유출 사고를 막기 위해 총력을 기울이고 있습니다. Pattaya Mail",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광지 인근 기름 유출은 환경 및 관광 경험에 영향을 미칠 수 있으므로 중간 수준의 영향으로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 라차 제도",
-        "price": null,
-        "location_google_map_query": "푸껫 라차 제도"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 라차 제도', 'price': None, 'location_google_map_query': '푸껫 라차 제도'}",
       "references": [
         {
           "title": "Full-force efforts launched to contain oil spill threatening Racha Islands off Phuket - Pattaya Mail",
@@ -4085,23 +4082,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:13",
+      "collected_at": "4:13",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHVnWlM2RHRtZmVSeE9manlZNFIyTUZUSlI5RnJQZVFkOFI1SFJBRVVkakZmMzFER3BQZnllcnQxN2Q2VEFBbDNyTTM1YWYtQXA0UlRfZFEzRk9oSGRXZllYLTlVcm5NYnMyRnFvX1E4eHZhNHV5MFUtd3JkRlhidm51dHlPem9fVVZnVTNDc0Y2dzlvT0J5TmVucFhuaWpuRFNnU2JDTWQwMzNpdVI3MlRQOWY3N0NsWE14aWtBTTNuemppZnFMamtUWWFjQQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026년 파타야에서 Tomorrowland 개최: 공식 날짜, 티켓, 호텔 패키지 정보",
       "summary": "- 2026년 Tomorrowland Thailand가 파타야에서 개최됩니다.\n- 공식 날짜, 티켓 정보, 호텔 패키지에 대한 내용이 포함되어 있습니다.\n- 태국은 이 행사를 통해 글로벌 이벤트 허브로 도약하고자 합니다.",
       "full_translated": "Tomorrowland Thailand 2026이 파타야에서 개최됩니다: 공식 날짜, 티켓, 호텔 패키지 정보 등 - Chiang Rai Times",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 국제 행사 정보는 여행객에게 유용하며, 특히 티켓 및 숙박 관련 정보는 필수적입니다. 이미 '태국, 2026년 Tomorrowland 개최 확정' 기사가 있지만, 구체적인 개최지와 티켓 정보가 추가되었으므로 업데이트로 간주합니다.",
-      "event_info": {
-        "date": "2026-12-XX",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 Tomorrowland"
-      },
+      "event_info": "{'date': '2026-12-XX', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 Tomorrowland'}",
       "references": [
         {
           "title": "Tomorrowland Thailand 2026 In Pattaya: Official Dates, Tickets, Hotel Packages, And What's Next - Chiang Rai Times",
@@ -4110,7 +4104,82 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:13",
+      "collected_at": "4:13",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQREYzR3lDeFNxd2NFRkVod2d5bDE2ak1XWnQyTDk5UXp4emM4ZTNJclk1Nm9qMUVWdWRXcktITURfQW1zZmwxb3RnWWg1dWV4ZnVqd01qVVZQV1p2c2ZGU3ZYTnU3d2NoMlFnOHVQaGg4TWc2T09YRW9SZWlFWk11S094Ui0?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕, 폭염 대비 255개 냉방 센터 운영 (재확인)",
+      "summary": "- 방콕 전역에 255개의 냉방 센터가 운영 중입니다.\n- 폭염으로부터 주민과 여행객의 안전을 지키기 위한 조치입니다.\n- 더위로 인한 건강 문제 발생 시 냉방 센터를 이용할 수 있습니다.",
+      "full_translated": "방콕은 폭염으로부터 주민과 여행객을 보호하기 위해 255개의 냉방 센터를 운영하고 있습니다. 관광 및 일상생활에 영향을 미치는 극심한 더위로부터 안전을 제공합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "폭염 관련 정보는 여행객 안전에 중요하며, 매일 업데이트될 수 있으므로 포함. 아침 시간대이므로 '오늘의 예방' 차원에서 가중치 부여.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 전역",
+        "price": "무료",
+        "location_google_map_query": "방콕 냉방 센터"
+      },
+      "references": [
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "04:40",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 공항, 중국 설 연휴 이후 팬데믹 이후 최고치 기록 - 치앙라이 타임즈",
+      "summary": "- 태국 공항이 중국 설 연휴 동안 급증한 여행객으로 인해 팬데믹 이후 최고치를 기록했습니다.\n- 특히 중국인 관광객의 증가가 두드러집니다.\n- 공항 혼잡 및 관련 서비스 이용에 대한 사전 준비가 필요합니다.",
+      "full_translated": "태국 공항, 중국 설 연휴 이후 팬데믹 이후 최고치 기록 Chiang Rai Times",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중국 춘절 기간 이후 공항 이용객 증가 정보는 여행객에게 혼잡에 대한 대비를 할 수 있게 하므로 유의미한 정보 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Airports Hit A New Post-Pandemic High After Chinese New Year Rush - Chiang Rai Times",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTTRwcExwZ2dlbVV6alc2MUNySTVTSnJRRC1CcXVBLVRPc2dUajhJV3UtSVRxbk9RMUJBSEIyV01HLXNxcnJMZ2RHX3RSY0FCaTZwOHVDMGNaSUQ2OTRiZXJtZllyLTVTanpKTU5rdDk3QkRVcDh0cF9nVkM4aUY2Qmt3cGlxa0pPOHBuMGpmMURvUFJod2RlUjVVTkRvQ3J3OU1iTl8xdHQwcEhTNWxYUg?oc=5",
+          "source": "Chiang Rai Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:40",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "미얀마 항공, 중국, 태국, 인도, 일본 노선 확장 추진",
+      "summary": "- 미얀마 국제항공, 에어 KBZ, 골든 미얀마 항공, 미얀마 국영 항공이 중국, 태국, 인도, 일본 노선에서 새로운 여행 수요를 촉발.\n- 삔우린 비행장 업그레이드로 글로벌 관광 활성화 및 호텔 예약 증가 예상.\n- 삔우린은 미얀마의 인기 있는 고원 도시로, 새로운 항공 노선 확장이 관광 산업에 긍정적인 영향을 미칠 것으로 기대.",
+      "full_translated": "미얀마 국제항공, 에어 KBZ, 골든 미얀마 항공, 미얀마 국영 항공이 중국, 태국, 인도, 일본 노선에서 새로운 여행 수요를 촉발하고 있습니다. 삔우린 비행장 업그레이드로 삔우린이 글로벌 관광지로 발돋움하고 호텔 예약이 증가할 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 연결 항공편 증가 가능성 및 새로운 관광지 접근성 향상 기대. 다만, 미얀마 국내 상황 불안정성 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Myanmar Airways International, Air KBZ, Golden Myanmar Airlines and Myanmar National Airlines Spark New Travel Buzz Across China, Thailand, India and Japan as PyinOoLwin Airfield Upgrade Positions Hill Town for Global Tourism Takeoff and Hotel Boo - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxNd0JZSDdhd2hFNDdXdHdkM282Z2daUUV4REtLWUN1Vk5SRU9rV1g5OEpjTkY4NjBMcDNPOGpWdnZsWDhzV21vRVpzS2MxRUFic3BHdWVhc284NE9VZTZsQ1ZabGQ4SG5lMVNEcVYwVEJxM2lkTUFIb1FmRHM3UVQxTDRteFhBeGtVQkgyaW9NaU00dFB0SHU5WmlONUJoSkhhZ24zWFQ3Y3NuZ3pSYW5RMHE0Ul9GdlhJS0NESGwycHBibW1WRXB0dW5pMnFQZmh5MzZGYlVfNk1QOHVnSkRuS2hoWFZyODhGSHdCcU44VUVvZDRTbngxVWFLRGFKaHNEbTZjdjBRdEhFQWxLeVo1bUtfd1Fxc3VCY1JxM1VEa2lPWFluSjhja0JyZ09jSHZQTW5LTmdEeS1KT1h0NG5VQ2twejJTeFh2SkZkZ1FfbEdjZW5iUmxWTm01MVJCOXVWQm9V?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:40",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
