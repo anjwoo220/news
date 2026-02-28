@@ -4312,14 +4312,9 @@
       "summary": "- 태국 정부는 폭염으로 인해 열사병 위험이 높아짐에 따라 주의를 당부했습니다.\n- 특히 노약자, 어린이, 만성 질환자, 야외 노동자는 11시부터 3시 사이 야외 활동을 자제해야 합니다.\n- Mae Hong Son, Lampang, Tak 지역은 최고 42-43도까지 오를 수 있으며, 탈수 예방을 위해 물을 자주 마셔야 합니다.",
       "full_translated": "태국 정부, 폭염 경보 발령\n\n게시일: 2026년 3월 1일 05:42\n신문 섹션: 뉴스\n작성자: Anucha Charoenpo\n\n기온이 작년보다 더 높을 것으로 예상됨에 따라, 특히 취약 계층, 만성 질환자 및 야외 노동자에게 열사병에 대한 예방 조치를 취할 것을 촉구하고 있습니다. Ayrin Phanrit 정부 부대변인은 Mae Hong Son, Lampang 및 Tak 지방을 포함한 고위험 지역에서 기온이 42~43도에 달할 수 있으므로 대중은 야외에서 장시간 머무는 것을 피해야 한다고 말했습니다. 사람들은 오전 11시에서 오후 3시 사이에 야외 활동을 제한하고, 물을 자주 마시며, 열사병 위험을 줄이기 위해 '편안한 옷'을 입는 것이 좋습니다. 열사병은 치명적일 수 있습니다. 고위험군에는 노인, 유아 및 어린이, 심장병, 폐 질환 및 비만과 같은 만성 질환자, 야외에서 일하는 사람들이 포함됩니다. 열사병은 신체가 과열되어 중요한 시스템에 영향을 미칠 때 발생합니다. Ayrin은 “장시간 더위에 머무는 것을 피하십시오. 또한 술을 마시지 말고 특히 어린 아이를 차 안에 방치하지 마십시오.”라고 말했습니다. 한편 기상청은 화요일부터 금요일까지 북동부에서 시작하여 동부, 중부 평야, 방콕 및 주변 지역, 북부에 영향을 미치는 폭풍이 예보된다고 밝혔습니다. 적당한 환기와 예상 강우로 인해 대기 오염 수준은 낮음에서 보통 수준으로 유지되고 있다고 기상청은 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행자 안전에 직접적인 영향을 미치는 폭염 관련 정보이며, 시간대별 주의사항을 포함하고 있어 유용함. 특히 고위험 지역 정보는 여행 계획에 참고할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "Mae Hong Son, Lampang, Tak (고위험 지역)",
-        "price": null,
-        "location_google_map_query": "Mae Hong Son Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Mae Hong Son, Lampang, Tak (고위험 지역)', 'price': None, 'location_google_map_query': 'Mae Hong Son Thailand'}",
       "references": [
         {
           "title": "Govt issues heatstroke warning",
@@ -4328,23 +4323,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207178_260301055012_700.jpg"
         }
       ],
-      "collected_at": "06:14",
+      "collected_at": "6:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207178_260301055012_700.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/thailand/general/3207178/govt-issues-heatstroke-warning",
+      "source": ""
     },
     {
       "title": "치앙라이, 마을 숲 복원으로 연무 감소",
       "summary": "- 치앙라이주 판 지구의 작은 마을, 숲 보존으로 연무 감소 및 지속 가능한 수입 창출 모델 제시\n- 훼손된 토지 400라이 이상을 복원하여 산불 예방 및 탄소 배출권 관리의 모델로 부상\n- 2001년부터 마을 주민들이 주도하여 숲을 복원, 현재는 연중 물 공급 및 화재 감소 효과",
       "full_translated": "치앙라이: 판 지구의 작은 공동체가 숲 보존을 통해 연무를 줄이면서 지속 가능한 수입을 창출하는 방법을 보여주고 있습니다. 도이 루앙 국립공원과 접경한 롱본은 400라이 이상의 훼손된 토지를 번성하는 숲 완충 지대로 복원했습니다. 한때 불법 벌목과 밀렵으로 훼손되었던 이 지역은 현재 산불 예방 및 지역 사회 주도의 탄소 배출권 관리 모델로 자리 잡았습니다. 치앙라이는 PM2.5 오염으로 가장 큰 타격을 입은 북부 9개 주 중 하나이며, 전국 핫스팟의 거의 60%를 차지합니다. 작년 상반기에만 850만 라이 이상의 숲과 농지가 불에 탔습니다. 이와는 대조적으로 롱본은 지역 사회 숲에서 핫스팟을 거의 제로로 줄였습니다. 이러한 전환은 2001년 마을 이장이자 지역 사회 숲 위원회 의장인 프라니 라차콤 아래에서 시작되었습니다. 당시 삼림 벌채는 물 부족과 심각한 가뭄을 유발하여 지역 농장을 황폐화시켰습니다. 그녀는 최근 언론 방문에서 \"숲이 사라지면서 우리는 고통을 겪었습니다.\"라고 말했습니다. \"그래서 우리는 숲을 복원하고 보호하기 위해 엄격한 지역 사회 규칙을 설정하기로 합의했습니다.\" 화재 순찰, 지역 사회 규정 및 집단 모니터링을 통해 마을 사람들은 점차 숲을 되살렸습니다. 오늘날 이 숲은 연중 물을 공급하여 건기에도 논을 푸르게 유지합니다. 화재가 거의 사라짐에 따라 주민들은 유해한 PM2",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "치앙라이 지역의 대기 질 개선에 대한 정보는 여행자들에게 유용하며, 특히 해당 지역을 방문하려는 사람들에게 중요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "치앙라이주 판 지구 롱본",
-        "price": null,
-        "location_google_map_query": "롱본 치앙라이"
-      },
+      "event_info": "{'date': None, 'location': '치앙라이주 판 지구 롱본', 'price': None, 'location_google_map_query': '롱본 치앙라이'}",
       "references": [
         {
           "title": "Village forest revival cuts haze pollution in Chiang Rai province",
@@ -4353,8 +4345,85 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207388_260301053424_700.jpg"
         }
       ],
-      "collected_at": "06:14",
+      "collected_at": "6:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207388_260301053424_700.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/thailand/general/3207388/village-forest-revival-cuts-haze-pollution-in-chiang-rai-province",
+      "source": ""
+    },
+    {
+      "title": "파타야, 꼬 란 섬에 무료 골프 카트 셔틀 서비스 도입",
+      "summary": "- 파타야가 꼬 란 섬의 접근성을 높이기 위해 무료 골프 카트 셔틀 서비스를 시작했습니다.\n- 이는 태국 관광 산업 성장을 지원하기 위한 노력의 일환입니다.\n- 셔틀 서비스는 섬 내 이동 편의를 제공하여 관광객 만족도를 높일 것으로 기대됩니다.",
+      "full_translated": "파타야는 꼬 란 섬의 접근성을 높이고 태국 관광 산업의 성장을 지원하기 위해 무료 골프 카트 셔틀 서비스를 도입했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "꼬 란 섬 방문객의 이동 편의성을 높이는 서비스로, 관광객 경험에 긍정적인 영향을 미칠 수 있습니다. 새로운 서비스 도입 소식이므로 업데이트로 간주합니다.",
+      "event_info": {
+        "date": null,
+        "location": "꼬 란 섬",
+        "price": "무료",
+        "location_google_map_query": "Koh Larn, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Introduces Complimentary Golf Cart Shuttle Services to Koh Larn, Enhancing their Accessibility and Supporting Tourism Growth in Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeWxmeFh1VVRRVWppNXNwZERsTUlrelpSci04U1drVE5pVXFKN0FEYy1EQU9CSlpmUjEzd291alR4SlJsTFJZaGdOQ01JT0Z0MHBicTd4RkNmSlNsaHoyaEtDblhYanFxX0UyeWV4YWxxaWxUNS14OWRXM0s4dUd0X3RUdDN4Si1XcHhxMlQ2NDNaZldwVWFBYjlDRGR0LUp3Skw3cXBac0t0YTNZUnRvb1g0dGVpLXp2N3h0eU95TWZKNjQwd21ycjNEOEs1dUFKcjNQUzBKQUpkbk9uWVU3b0NGdVpsMUR0QnRRSnAyajFQNnNmWTZDZ3JIX3d6LUc0RWNDVDI2djRULXNVY3NWa0RMZ3QxbXBrcGU1aQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란 최고 지도자 카메네이, 미국-이스라엘의 공격으로 사망 주장",
+      "summary": "- 이란 최고 지도자 알리 카메네이가 미국과 이스라엘의 공습으로 사망했다는 주장이 제기됨.\n- 카메네이는 수십 년간 이란을 통치했으며, 강경한 외교 정책을 고수해 옴.\n- 그의 사망은 이란 내부 권력 투쟁과 국제 관계에 큰 영향을 미칠 수 있음.",
+      "full_translated": "아야톨라 알리 카메네이는 이란의 최고 지도자로 수십 년 동안 이란을 통치했습니다. 이스라엘과 미국 지도자들은 그가 지난 토요일 (2069년 2월 28일) 공습으로 사망했다고 주장합니다. 알리 카메네이는 1939년 마슈하드에서 종교 학자의 아들로 태어났습니다. 그는 샤 모하마드 레자 팔라비에 저항하기 위해 아야톨라 호메이니의 종교 운동에 합류했습니다. 1979년 이슬람 혁명 이후 알리 카메네이는 국방부 차관을 역임했으며 이슬람 혁명 수비대 (IRGC) 설립에 중요한 역할을 했습니다. 1989년 6월 호메이니 사망 후, 이슬람 학자와 종교 지도자들로 구성된 이란 전문가 회의는 알리 카메네이를 새로운 최고 지도자로 선출했습니다. 당시 그는 시아파 성직자를 위한 헌법에 명시된 '마르자-에 탁리드' 또는 '그랜드 아야톨라' 직위에 도달하지 못했지만, 상황을 합법화하기 위해 최고 지도자는 '이슬람 학문적 지혜'를 보여야 한다고 헌법을 수정하여 알리 카메네이가 아야톨라가 되어 새로운 최고 지도자로 선출될 수 있도록 했습니다. 아야톨라 알리 카메네이는 취임 후 이란의 정치 및 군사력을 완전히 장악하고 정권에 도전하는 사람들을 단호하게 진압했으며 때로는 폭력을 사용하기도 했습니다. 카메네이는 미국과의 대치를 포함하여 외교 문제에서 일관되게 강경한 입장을 취했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "이란의 정치적 불안정은 여행객 안전에 잠재적 영향을 미칠 수 있으나, 현재로서는 직접적인 위협이 아니라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รู้จัก “คาเมเนอี” ผู้นำสูงสุดอิหร่าน ที่สหรัฐฯ-อิสราเอล อ้างว่าถูกสังหารแล้ว",
+          "url": "https://www.thairath.co.th/news/foreign/2917133",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyDrrfWWjHY5J.jpg"
+        }
+      ],
+      "collected_at": "06:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyDrrfWWjHY5J.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 관광공원, 호랑이 72마리 개 디스템퍼로 폐사 - 조류 독감 우려 완화",
+      "summary": "- 태국 관광공원에서 사육 중이던 호랑이 72마리가 개 디스템퍼로 인해 폐사함.\n- 당국은 조류 독감으로 인한 폐사 우려를 일축하고 질병 확산 방지에 주력.\n- 관광객들은 안심하고 태국 여행을 즐길 수 있을 것으로 예상.",
+      "full_translated": "태국 당국은 관광 공원에서 72마리의 호랑이가 개 디스템퍼로 사망했다고 밝혔습니다. 이는 조류 독감에 대한 우려를 완화시키는 조치입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "동물원이나 관광지를 방문하는 여행객에게 영향을 줄 수 있으며, 질병 관련 정보는 안전에 중요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai officials say 72 tigers at tourist parks died of canine distemper, allaying bird flu fears - AOL.com",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamZZQUJySjdhRnhCMmpuZHFyTmY4Tk1ZeGdIZUx0ODlHbldFRFV4YmVnZ0NQRk1xa3NDQVlLYjVoQ3Vjbk02NTdRUHlBaHM1a21fNjYzenYxRGdmemJZOXdDZlBqVnVTankwTE5hS21UZTF6UGplUnloeUlOZ0Z0aDRR?oc=5",
+          "source": "AOL.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
   ]
