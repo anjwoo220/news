@@ -3216,14 +3216,9 @@
       "summary": "- 방콕 인근 농프루 지역에서 영국인 남성의 집에 침입해 금고를 훔쳐 달아난 사건 발생.\n- 경찰은 용의자 4명을 체포하여 조사 중이며, 이들은 범행을 부인하고 있지만 경찰은 증거를 확보했다고 밝힘.\n- 피해자는 현금을 인출하여 집을 사려던 중이었으며, 용의자들은 피해자를 알고 있는 동일 국적자로 추정.",
       "full_translated": "경찰이 영국인 남성의 금고를 털어간 혐의로 외국인 용의자 4명을 체포하여 집중 조사하고 있습니다. 용의자들은 서로 모른다고 주장하며 혐의를 부인하고 있지만, 경찰은 증거를 확보했다고 밝혔습니다. 사건은 2월 26일 밤, 촌부리 주 방라뭉 지역의 한 주택에서 발생했습니다. 검은 옷을 입고 복면을 쓴 3인조 강도가 32세의 영국인 요리사 웨슬리 시릴 러셀과 그의 태국인 아내를 위협하고 2층 침실에서 금고를 훔쳐 검은색 4도어 픽업트럭을 타고 달아났습니다. 금고 안에는 2백만 바트 이상의 현금이 있었습니다. 경찰은 용의자들이 피해자가 현금 2백만 바트를 인출하여 집을 사려던 것을 알고 계획적으로 범행을 저지른 것으로 보고 있습니다. 또한, 용의자들이 파타야 지역의 대마초 가게에서 피해자를 알게 된 동일 국적자일 가능성이 있다고 보고 있습니다. 수사 결과, 용의자들은 범행에 3대의 차량을 사용한 것으로 드러났습니다. 첫 번째 차량은 픽업트럭으로, 피해자의 집에서 금고를 훔쳐 달아났습니다. 이후 피해자의 휴대폰을 농크라복 인근에 버리고 수쿰빗 도로로 도주했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으며, 특히 방콕 인근 지역에서 발생했다는 점에서 정보 제공 필요.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "농프루, 방라뭉, 촌부리",
-        "price": "2백만 바트 이상의 현금",
-        "location_google_map_query": "농프루 방라뭉 촌부리"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '농프루, 방라뭉, 촌부리', 'price': '2백만 바트 이상의 현금', 'location_google_map_query': '농프루 방라뭉 촌부리'}",
       "references": [
         {
           "title": "ตำรวจคุมตัวสอบเข้ม 4 ชาวต่างชาติ ผู้ต้องสงสัยคดีอุกอาจ ปล้นตู้เซฟหนุ่มอังกฤษ 2 ล้าน",
@@ -3234,21 +3229,18 @@
       ],
       "collected_at": "23:16",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyy1jsf6ye0pi.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/crime/2917111",
+      "source": ""
     },
     {
       "title": "은행 신고로 사기 방지, 치앙마이에서 4명 체포",
       "summary": "- 은행의 신고로 콜센터 사기 연루 의심 계좌 적발\n- 치앙마이에서 현금 30만 바트 압수, 4명 체포\n- 피해자가 온라인 사기 신고 후 해당 계좌로 이체한 사실 확인",
       "full_translated": "치앙마이 — 2026년 2월 27일, 경찰은 은행이 콜센터 사기와 관련된 것으로 의심되는 노새 계좌를 경찰에 알린 후 목요일에 4명을 체포하고 현금 30만 바트를 압수했다고 당국이 밝혔습니다. 오후 3시 55분경, 경찰청 5지구 경찰관들은 크룽타이 은행의 금융 범죄 팀으로부터 치앙마이 지방의 프라투 치앙마이 지점에서 30만 바트를 인출하려는 고객을 확인해 달라는 통보를 받았습니다. 경찰관들은 현장에 도착하여 콘캔 출신의 33세 여성 추다 망마가 카운터에서 현금을 인출하고 있는 것을 발견했습니다. 경찰은 30만 바트, 통장, ATM 카드, 휴대폰을 압수했습니다. 그녀는 계좌를 개설하고 돈을 인출하라는 지시를 받았으며 자금은 자신의 것이 아니라고 진술했다고 수사관들은 밝혔습니다. 추가 조사 결과 인근에서 인출을 감시하고 지시한 혐의로 27세의 미얀마 국적자인 아르 와이(코디네이터로 설명됨), 37세의 미얀마 국적자인 피폽(상이라고도 함, 무국적자를 위한 핑크 카드를 소지), 25세의 남성 종푸(아푸라고도 함, 시민 등록 상태가 없는 사람) 등 3명의 공범이 구금되었습니다. 경찰은 용의자 중 한 명이 1979년 이민법에 따라 추가로 기소되었다고 밝혔습니다. 금융 기록에 따르면 인출 전에 피해자가 30만 바트를 해당 계좌로 이체했습니다. 이 이체는 사라부리 지방에 접수된 온라인 사기 신고와 관련이 있으며, 총 신고 금액은...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "콜센터 사기 관련 사건으로, 여행객도 잠재적 피해자가 될 수 있으므로 주의가 필요함. 치앙마이 지역에서 발생.",
-      "event_info": {
-        "date": "2026-02-27",
-        "location": "치앙마이",
-        "price": null,
-        "location_google_map_query": "Chiang Mai"
-      },
+      "event_info": "{'date': '2026-02-27', 'location': '치앙마이', 'price': None, 'location_google_map_query': 'Chiang Mai'}",
       "references": [
         {
           "title": "Bank alert foils scam, four arrested in Chiang Mai",
@@ -3259,21 +3251,18 @@
       ],
       "collected_at": "23:16",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Bank-alert-foils-scam-four-arrested-in-Chiang-Mai.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/news/2026/02/28/bank-alert-foils-scam-four-arrested-in-chiang-mai/",
+      "source": ""
     },
     {
       "title": "태국, 파타야 국제 관광 회복세... 공항과 호텔 붐",
       "summary": "- 태국 파타야가 국제 관광 회복세를 보이며 공항과 호텔이 활기를 띠고 있음.\n- 항공 산업의 갑작스러운 성장과 함께 전 세계 여행객이 몰려들고 있음.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "태국, 파타야 국제 관광 회복세... 공항과 호텔 붐 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 지역의 관광 회복세는 여행객들에게 긍정적인 정보이며, 숙박 및 교통 상황에 대한 참고 자료가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand Experiences Unprecedented Pattaya International Tourism Recovery as Global Travelers Flood Airports and Hotels Surge Amid Sudden Aviation Boom – New Update - Travel And Tour World",
@@ -3284,21 +3273,18 @@
       ],
       "collected_at": "23:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeUJPWHRaSHlfOWdRbzc3bUJoSzVXU3dmREJZcUFPaHVnbXlhaWpaZE5Gb2h5WEpkR1hwS3BDRGtlLUh4Zk9aWXNvUmZ4Y2w3d3AyS1ZiN0tob2FINHp3NWxiRmp4Q3RzNWlBZjZ4enhRLW0wbzI3YmlJQThSeERqcFk2S2pEQm9kX3kweGptRWMxTEhkZE5Zd1VjNGdqSkVyOTdYNFh4dXVKX2lJUFRmUHNJcDRpTDFJZlViTXdTNk9nbWxweVFpaFBLNWlLZndmRkxYUzZLM1lsLTRGV0Z6dGllazlDWUNBSnl1UTNoNktHaHZZOV9lMjM3bFBaZDloVzdLM3ZjeGhoLVNENVA4aFQ5TzVPS2FqV0hFM1VlcWMtUW1QSVN4U1AtUHdKc0pGZU5FakpR?oc=5",
+      "source": ""
     },
     {
       "title": "사우디아라비아, 이란의 리야드 공격 확인 및 보복 권리 주장",
       "summary": "- 사우디아라비아가 이란의 수도 리야드 공격을 확인하고 강력히 규탄함.\n- 사우디는 자국 영토와 국민 보호를 위해 필요한 모든 조치를 취할 것이라고 경고함.\n- 미국과 이스라엘은 이란 고위 지도부를 겨냥한 군사 공격을 개시하여 중동 갈등 심화.",
       "full_translated": "사우디아라비아 당국은 이란이 수도 리야드와 동부 지방을 공격했다고 확인하고, 자국을 방어하기 위해 보복할 권리가 있다고 경고했습니다. 사우디 외무부는 2069년 2월 28일 토요일, 이란이 리야드와 동부 지역을 공격했다고 확인하면서, 자국이 공격에 대한 보복을 포함하여 스스로를 방어할 권리가 있다고 경고했습니다. 외무부 성명은 사우디아라비아가 리야드 지역과 동부 지방을 겨냥한 이란의 노골적이고 비겁한 공격을 가장 강력하게 규탄한다고 밝혔습니다. 그러나 공격은 저지되었습니다. “이러한 정당성 없는 침략을 고려하여, 왕국은 미국에 대한 안보 위협을 종식시키고 이란 국민이 통치자를 전복할 기회를 제공할 것이라고 도널드 트럼프 대통령이 밝힌 바와 같이, 공격에 대한 대응 옵션을 포함하여 안보를 보호하고 영토, 시민 및 거주민을 보호하기 위해 필요한 모든 조치를 취할 것임을 확인합니다.” 한편, 테헤란은 이번 공격을 도발적이고 불법적인 행위라고 규정하고 이스라엘과 페르시아만 지역의 여러 미국 기지가 있는 국가에 미사일을 발사하여 대응했습니다.\n\n더 많은 국제 뉴스: [https://www.thairath.co.th/news/foreign/…](https://www.thairath.co.th/news/foreign/2917115)\n출처: alarabiya ... ...",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 지역 긴장 고조는 잠재적으로 여행 안전에 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "리야드",
-        "price": null,
-        "location_google_map_query": "리야드"
-      },
+      "event_info": "{'date': None, 'location': '리야드', 'price': None, 'location_google_map_query': '리야드'}",
       "references": [
         {
           "title": "ซาอุดีอาระเบียยืนยัน อิหร่านโจมตีเข้าใส่กรุงริยาด ลั่นมีสิทธิ์ตอบโต้",
@@ -3309,21 +3295,18 @@
       ],
       "collected_at": "23:16",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyyjA7u0bi03d.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917115",
+      "source": ""
     },
     {
       "title": "사마귀 새우, 뜨랏 관광 활성화에 활용 기대 - 방콕 포스트",
       "summary": "- 뜨랏 지방에서 사마귀 새우를 활용한 관광 상품 개발 추진\n- 지역 경제 활성화 및 관광객 유치 목표\n- 사마귀 새우 요리, 체험 프로그램 등 다양한 콘텐츠 구상",
       "full_translated": "방콕 포스트에 따르면, 뜨랏 지방에서 사마귀 새우를 활용하여 관광 산업을 활성화하려는 계획이 추진되고 있습니다. 이 프로젝트는 지역 경제를 부양하고 더 많은 관광객을 유치하는 것을 목표로 합니다. 사마귀 새우 요리 시연, 사마귀 새우 잡기 체험 등 다양한 관광 상품 개발이 논의되고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "새로운 관광 상품 정보는 여행자들에게 흥미로운 선택지를 제공할 수 있음",
-      "event_info": {
-        "date": null,
-        "location": "뜨랏",
-        "price": null,
-        "location_google_map_query": "뜨랏"
-      },
+      "event_info": "{'date': None, 'location': '뜨랏', 'price': None, 'location_google_map_query': '뜨랏'}",
       "references": [
         {
           "title": "Mantis shrimp eyed as Trat tourism booster - Bangkok Post",
@@ -3334,6 +3317,133 @@
       ],
       "collected_at": "23:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVdIOGVSejg3WmdiWTlJalhzOUpHYXdSdFlUTlpabWlsaGZYeTRrQkd2Tl9pQ2p2RkNTVjJuRkNYeGw3Wk40OTdwU242ZEdaNjFxUlJNa3YtOFlBMUNtcFcxUlJLQjEwLWlhV3FrcnFmeU9LbHRIazFWTWZvbTdXdlJyekt4elFGWk5zbVdxaXBRMzd5RXZiRjRB?oc=5",
+      "source": ""
+    },
+    {
+      "title": "아프가니스탄, 파키스탄 전투기 격추 주장 및 조종사 체포",
+      "summary": "- 아프가니스탄이 파키스탄 전투기를 격추하고 조종사를 체포했다고 주장했습니다.\n- 파키스탄은 이를 부인하며 양국 간 긴장이 고조되고 있습니다.\n- 미국은 외교 채널을 통해 파키스탄의 작전을 지지하는 입장을 밝혔습니다.",
+      "full_translated": "아프가니스탄 당국은 2069년 2월 28일 토요일, 자국 군대가 파키스탄 전투기를 격추하고 조종사를 생포했다고 밝혔습니다. 이는 양국 간 교전이 금요일부터 시작된 가운데 나온 주장입니다. 아프가니스탄 군과 경찰은 해당 전투기가 동부 도시 잘랄라바드에서 격추되었다고 밝혔습니다. 그러나 파키스탄 외무부는 AFP 통신에 이 주장이 '완전히 거짓'이라고 일축했습니다. AFP 통신 기자에 따르면 토요일 잘랄라바드 상공에서 제트기 소리가 들렸고, 곧이어 도시 공항 방향에서 두 차례 폭발음이 발생했습니다. 주민들은 낙하산을 타고 탈출한 후 체포되는 사람을 목격했다고 증언했습니다. 파키스탄은 금요일 카불과 칸다하르를 포함한 아프가니스탄 여러 도시와 지방에 공습을 개시했습니다. 칸다하르는 아프가니스탄 탈레반 최고 지도자 하이바툴라 아쿤드자다의 근거지입니다. 이러한 군사적 움직임은 양국 국경 지역의 긴장이 고조된 이후 발생했습니다. 미국은 이슬라마바드가 아프가니스탄 정부에 대한 압박을 강화하기 위한 공격을 중단하지 않을 것이라고 확인한 후 외교 채널을 통해 파키스탄의 작전을 지지하는 입장을 표명했습니다. 파키스탄은 아프가니스탄 정부가 파키스탄에 적대적인 무장 단체를 지원하고 있다고 비난하고 있으며, 아프가니스탄 탈레반 정부는 이러한 혐의를 부인하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국가 간 긴장 고조는 잠재적으로 여행 안전에 영향을 줄 수 있으나, 직접적인 위협은 아님. 따라서 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อัฟกานิสถานอ้าง สอยบินรบปากีสถานร่วง จับกุมนักบินได้",
+          "url": "https://www.thairath.co.th/news/foreign/2917120",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5kZNwKywwrP.jpg"
+        }
+      ],
+      "collected_at": "23:47",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLex5kZNwKywwrP.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 총리, 중동 긴장 완화 위한 외교적 노력 촉구",
+      "summary": "- 아누틴 총리는 중동 지역 긴장 고조에 깊은 우려를 표명.\n- 태국 국민의 안전과 복지에 대한 염려를 강조.\n- 관련 당사자들에게 외교적 해결을 통해 긴장 완화를 촉구.",
+      "full_translated": "아누틴 총리는 중동 상황에 대한 우려를 표명하며, 영향을 받는 지역 내 태국인들의 안전과 복지를 가장 중요하게 생각한다고 밝혔습니다. 모든 관련 당사자들이 긴장을 완화하기 위해 즉각적인 외교적 협상에 나서야 한다고 촉구했습니다. 2069년 2월 28일, 아누틴 찬위라쿨 총리는 페이스북을 통해 태국은 중동에서 벌어지고 있는 상황에 대해 깊이 우려하고 있으며, 무고한 시민들이 긴장과 폭력 사태로 인해 영향을 받는 것에 대해 진심으로 유감스럽게 생각한다고 밝혔습니다. 그는 태국인들의 안전과 복지, 그리고 영향을 받는 지역의 모든 사람들에 대해 깊이 우려하고 있습니다. 따라서 태국은 모든 관련 당사자들이 상황의 긴장을 완화하고 더 이상의 악화를 막기 위해 최대한의 자제력을 발휘할 것을 촉구합니다. 또한 국제법에 따라 긴장을 완화하기 위한 진지한 노력과 즉각적인 외교적 협상을 촉구합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 총리의 외교적 노력 촉구는 국제 정세에 대한 태국 정부의 입장을 보여주며, 잠재적으로 태국 여행에 영향을 미칠 수 있는 요소에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” ห่วงคนไทย เรียกร้องทุกฝ่ายใช้การทูต ลดความตึงเครียดในตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/politic/2917119",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyzjuRGKtO4am.jpg"
+        }
+      ],
+      "collected_at": "23:47",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyzjuRGKtO4am.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "전 총리, 5년 만에 최고치 기록한 바트화 안정 위한 강력한 조치 촉구",
+      "summary": "- 스레타 타위신 전 태국 총리가 바트화 강세에 대한 우려를 표명하며 정부에 적극적인 개입을 촉구했습니다.\n- 바트화는 최근 5년 만에 최고치를 기록하며 태국 경제에 부담을 주고 있습니다.\n- 스레타 전 총리는 중앙은행의 추가 금리 인하 가능성을 언급하며, 바트화 약세를 유도하는 정책이 필요하다고 강조했습니다.",
+      "full_translated": "스레타 타위신 전 총리가 5년 만에 최고치를 기록한 바트화 안정 위한 강력한 조치를 촉구했습니다. Thai Examiner",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "바트화 강세는 관광객의 구매력에 영향을 미칠 수 있으므로 관련 정보를 제공합니다. 환율 변동은 여행 경비에 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Ex Prime Minister Srettha Thavisin calls for more robust moves to tamp down the baht at a 5 year high - Thai Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSUZkY1BqZ3pPNlgzRUZhaUNjQ040eDdFVjNzNVVuUmVRRVMwWkRlejNDdmRONUJEMVFaOUtiZnhKcGh5SFc5Uk9sVlpDQXNQb250N2lGVF9fNGVFeS1KS3Q5UjZ1Q2g0TnNHMjgtcWw4UGtBR1hpckZ3djlQXzBubEwxU3BqQzZCR2gtRlhDNzlPYnNNdDltd181Rjd3clpwNVpkSFQxYUo5a1lJanpVT2JuQVpMSFZFdW1lZ1A4ZXNoWXhDSUpNNFh0cW5paDlUYU5sSHh6dG5fVnViQmp5dzQ0c25kZU8yamNheTBBR0lyNm16LVE?oc=5",
+          "source": "Thai Examiner",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "푸미차이타이당, 세리루암타이당과의 총리 후보 지지 관련 논의 부인",
+      "summary": "- 푸미차이타이당은 세리루암타이당과 아누틴 총리 후보 지지에 대한 어떠한 협의도 없었다고 밝혔습니다.\n- แนน บุณย์ธิดา 대변인은 세리루암타이당과의 연락이나 공동 기자회견이 없었다고 강조했습니다.\n- 푸미차이타이당은 국민들에게 정확한 정보를 제공하고자 한다고 덧붙였습니다.",
+      "full_translated": "แนน บุณย์ธิดา 푸미차이타이당 대변인은 푸미차이타이당이 세리루암타이당에 아누틴을 총리로 지지하도록 요청한 적이 없다고 밝혔습니다. 푸미차이타이당은 세리루암타이당과 어떠한 논의나 연락도 없었다고 재차 강조했습니다. 2069년 2월 28일, 푸미차이타이당 대변인인 แน น บุณย์ธิดา สมชัย는 푸미차이타이당이 세리루암타이당에 대한 어떠한 정보도 제공하지 않았다고 말했습니다. 특정 정당이 아누틴 차안비라쿨 당 대표를 총리로 지지한다는 기자회견은 공개적으로 진행되었으며, 해당 정당이 아누틴을 지지하겠다는 의사를 밝힌 후 푸미차이타이당에서 공동 기자회견을 열었습니다. 세리루암타이당의 경우, 어떠한 연락도 없었고 공동 기자회견도 없었습니다. 따라서 푸미차이타이당은 국민들에게 푸미차이타이당과 세리루암타이당 사이에 아누틴을 총리로 지지하기 위한 논의나 협력이 없었다는 정확한 정보를 알리고자 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ภูมิใจไทย” ปฏิเสธ ไม่เคยติดต่อ พูดคุย “เสรีรวมไทย” ให้หนุน “อนุทิน” เป็นนายกฯ",
+          "url": "https://www.thairath.co.th/news/politic/2917112",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyyzrTHo4LKII.jpg"
+        }
+      ],
+      "collected_at": "23:47",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyyzrTHo4LKII.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "시라차 지방 자치 단체, 2569 회계 연도 성과 협약 프로젝트 시작",
+      "summary": "- 시라차 시장, 성과 협약 프로젝트 개회식 주재\n- 지방 자치 단체 직원 및 계약직 직원의 업무 효율성 향상 목표\n- 청렴 서약 통해 윤리적 거버넌스, 투명성, 반부패 강조",
+      "full_translated": "시라차 지방 자치 단체의 Chatchai Thimkrajang 시장은 행사를 주재했습니다. Thanongsak Phuangnoi 중위 (예비역), 자치 단체 서기는 프로젝트의 목적에 대한 보고서를 전달했습니다. 서기는 지방 자치 단체 직원 및 계약 직원에 대한 성과 평가는 업무 효율성, 경력 개발, 고용 안정 및 모든 수준의 직원에 대한 다양한 혜택을 향상시키는 데 중요한 메커니즘 역할을한다고 설명했습니다. 이를 지원하기 위해 지방 자치 단체의 인사 부서는 모든 직원이 평가 기준, 방법 및 프로세스에 대한 명확하고 통일 된 이해를 얻도록 프로젝트를 구성했습니다. 이는 직원이 개인 개발 계획 및 업무 성과 개선을 위해 평가 결과를 효과적으로 사용할 수 있도록하기 위함입니다. 총 50 명의 지방 자치 단체 직원과 계약직 직원이 교육 세션에 참여했습니다. 개회식에 이어 Chatchai Thimkrajang 시장은 부서장 및 교육 참가자와 함께 청렴 서약에 대한 약속을 공동으로 선언했습니다. \"청렴, 투명성: 시라차 지방 자치 단체, 촌부리 지방 – 청정 2569\" 공식 직무와 관련하여 선물, 기념품 또는 사례금을 \"수락하지 않고, 주지 않음\". 선언문은 회계 연도의 공공 행정에서 윤리적 거버넌스, 투명성 및 반부패 조치를 지속적으로 강조하고 있음을 보여줍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "관광객에게 직접적인 영향은 없으나, 공공 서비스 개선 노력은 간접적으로 긍정적 영향을 줄 수 있음. 하지만 시의적절한 정보는 아니라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Sriracha Municipality",
+        "price": null,
+        "location_google_map_query": "Sriracha Municipality"
+      },
+      "references": [
+        {
+          "title": "Sriracha Municipality Launches Performance Agreement Project for Fiscal Year 2569",
+          "url": "https://thepattayanews.com/2026/02/28/sriracha-municipality-launches-performance-agreement-project-for-fiscal-year-2569/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772288381218416847618519528374.jpg?v=1772288454"
+        }
+      ],
+      "collected_at": "23:47",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772288381218416847618519528374.jpg?v=1772288454",
       "date": "2026-02-28"
     }
   ]
