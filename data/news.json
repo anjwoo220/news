@@ -3106,14 +3106,9 @@
       "summary": "- 중동 지역 긴장으로 푸껫 공항 출발/도착 11편 항공편 운항 차질 발생\n- 에티하드 항공, 푸껫-아부다비 노선 회항. 20시 30분에 푸껫 공항에 착륙.\n- 공항 측, 중동 노선 이용객에게 항공편 변동 가능성을 알리고 항공사에 직접 확인 권고",
       "full_translated": "푸껫 정보 센터 업데이트에 따르면 중동 지역 긴장으로 인해 11편의 항공편이 영향을 받았습니다. 에티하드 항공의 아부다비행 항공편은 현재 중동 상황의 긴장으로 인해 푸껫 공항으로 되돌아왔습니다. 이스라엘과 미국 군대가 이란을 공격한 후 이란은 미사일을 사용하여 강력하게 대응했습니다. 갈등이 확대될 가능성이 있습니다. 2월 28일 19시 3분, 푸껫 국제공항은 중동 노선 승객에게 일부 항공편이 변경되거나 취소될 수 있음을 알렸습니다. 영향을 받았거나 중동 지역에서 환승하는 승객은 항공사에 직접 항공편 상태를 확인하고 항공사의 발표를 면밀히 주시하며 공항에 도착할 시간을 충분히 확보해야 합니다. 자세한 내용은 국제선 터미널 3층 안내 데스크(0-7635-2302)로 문의하십시오. 21시 5분, 푸껫 정보 센터는 중동 지역 불안으로 인해 푸껫 공항에서 11편의 항공편이 영향을 받았다고 보고했습니다. 이 중 9편은 출발, 2편은 도착입니다. 에티하드 항공의 푸껫-아부다비 노선은 중동 상황이 긴장된 후 푸껫으로 회항하기로 결정했으며, 20시 30분에 푸껫 공항에 착륙했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "최근 이스라엘-이란 분쟁으로 인해 푸껫 공항의 항공편 운항에 차질이 발생했다는 소식은 여행객의 이동에 직접적인 영향을 미칠 수 있으므로 높은 점수를 부여함. 특히 밤 시간대이므로 내일 아침 이동에 차질이 예상됨.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 국제공항",
-        "price": null,
-        "location_google_map_query": "Phuket International Airport"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 국제공항', 'price': None, 'location_google_map_query': 'Phuket International Airport'}",
       "references": [
         {
           "title": "สนามบินภูเก็ต ได้รับผลกระทบแล้ว 11 เที่ยวบิน จากเหตุสู้รบอิสราเอล-อิหร่าน",
@@ -3124,21 +3119,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyynhi4GAiOcr.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/society/2917114",
+      "source": ""
     },
     {
       "title": "파타야, 'SPLASHMOON FEST 2026' 4월 17-18일 개최…글로벌 축제 도약 목표",
       "summary": "- 파타야에서 2026년 4월 17일부터 18일까지 'SPLASHMOON FEST 2026'이 개최될 예정입니다.\n- 이 축제는 글로벌 축제로 발돋움하는 것을 목표로 하고 있습니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
       "full_translated": "파타야가 뜨거워진다! ‘SPLASHMOON FEST 2026’이 4월 17~18일에 개최되어 글로벌 축제 스포트라이트를 목표로 합니다. 파타야 메일",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "2026년에 개최되는 축제 정보로, 여행객들에게 미리 정보를 제공하여 여행 계획에 도움을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": "2026-04-17",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 SPLASHMOON FEST 2026"
-      },
+      "event_info": "{'date': '2026-04-17', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 SPLASHMOON FEST 2026'}",
       "references": [
         {
           "title": "Pattaya heats up! ‘SPLASHMOON FEST 2026’ set for April 17–18, aiming for global festival spotlight - Pattaya Mail",
@@ -3149,21 +3141,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM0lieUVXWDBsa0RaY2dFMHhDNGtXMkZ5M2J2d3MwSnlWcEJsRkRzOXZvOGlzQ0dqN0N3eVZzRXdITDFua1VoTXpUZGpBaXdPckZMcDNrQ1k3cmxHOUlsRGZEd1lHY2locGx1WEY0a3BDNy1TTG12d2dOWDVDRGZWY0hQZy1UNXRGd0pVU1FjUDZMVF93aVBhc05JbDFGMTQ0cHhrMm1YZ0xuYjE1blpZRE9McmdyeWZzblpXUGw1SVJoOUgwZVp1bWttU3lxajdfUUh6Z0R6LUJEamlSdmc?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 연휴 항공 여행 급증 후 국제 관광객 복귀 경계 강화",
       "summary": "- 파타야가 연휴 기간 항공 여행 급증 이후 국제 관광객의 복귀에 대비하고 있습니다.\n- 관광객 증가에 따른 안전 및 편의 시설 점검이 강화될 예정입니다.\n- 파타야는 증가하는 관광 수요에 맞춰 다양한 프로모션과 이벤트를 준비 중입니다.",
       "full_translated": "파타야는 연휴 항공 여행 급증 이후 국제 관광객의 복귀에 경계를 강화하고 있습니다. 파타야 메일.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 증가에 따른 파타야의 대비 상황을 알리는 정보로, 여행 준비에 참고할 수 있습니다. 하지만 기존 뉴스에 비해 큰 업데이트는 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Pattaya on alert for return of international tourists after holiday air travel surge - Pattaya Mail",
@@ -3174,21 +3163,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQemNyQTJSd01FZnlHRk12SkdTTEpRSmNfUnU0UVpyQ1hZRUpfS3lkQmszWWJuaC04Y1JnTWhPQjV5ME9sZnBqR0Z4ZUZnU1hYTVBTb0FxMjRtS2hneXd4SmlJRkRYTVRtY2c0M0Nud3pTNWNYakRmTVVWTG5nS3l5SjlaWmhRejZ2MGtKbnRQN2R6ZGgyT0lIa0lQUHpOdHVCVXFCQ296NlE4U3h0ejRrRnJ4Q1MyYWJhWG0xR3Fad3Rldw?oc=5",
+      "source": ""
     },
     {
       "title": "짜뚜짝 주말 시장, 세계 최고 야시장으로 선정",
       "summary": "- Travelbag 연구에서 짜뚜짝 주말 시장이 세계 최고의 야시장으로 선정됨.\n- 태국 관광청은 이를 환영하며 관광객 유치에 적극 활용할 계획.\n- 다양한 상품과 먹거리를 즐길 수 있는 짜뚜짝 시장은 방콕의 대표적인 관광 명소.",
       "full_translated": "태국은 Travelbag 연구에서 짜뚜짝 주말 시장이 세계 최고의 야시장으로 선정된 것을 환영합니다. 짜뚜짝 시장은 다양한 상품과 현지 음식을 제공하며 독특한 쇼핑 경험을 선사합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "짜뚜짝 시장은 유명 관광지이므로 정보 제공 가치가 있음. 쇼핑을 즐기는 여행자들에게 유용.",
-      "event_info": {
-        "date": null,
-        "location": "짜뚜짝 주말 시장, 방콕",
-        "price": "무료 (상품 구매 비용 별도)",
-        "location_google_map_query": "짜뚜짝 주말 시장 방콕"
-      },
+      "event_info": "{'date': None, 'location': '짜뚜짝 주말 시장, 방콕', 'price': '무료 (상품 구매 비용 별도)', 'location_google_map_query': '짜뚜짝 주말 시장 방콕'}",
       "references": [
         {
           "title": "Thailand welcomes Travelbag study ranking Chatuchak Weekend Market world’s top night fair - Pattaya Mail",
@@ -3199,21 +3185,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUjJuSjJreHppVjJ3MFdLUTRtdUl3ZjVFU3paTDZhLXNaQTVqWnAwektSWmNka3ZjVzZ2aHlheVhsaXdJUkFaWXh0N3FpVTdNaUhDNHRacE02akd0V1phVVFFYU5qanFYMG9keERUdVVMQS1NTlU0RkhENURDQTZTUERCNERWX043aG1tTmZJXzI5dGg0b0ZGZEZKdEdnYnNPekh4RWpWa3BYZmVFRE92amhRZXpQYkR3YU0wVVg1X1IwNHVTcVlUdFRDdnMtci1MNXc?oc=5",
+      "source": ""
     },
     {
       "title": "안정적인 바트화, 파타야 관광객과 기업에 반가운 확실성 제공 - Pattaya Mail",
       "summary": "- 바트화 안정은 파타야 관광 산업에 긍정적인 영향을 미칠 수 있음.\n- 환율 변동성 감소로 관광객과 기업 모두에게 예측 가능성을 높여줌.\n- 파타야 경제 활성화에 기여할 것으로 기대됨.",
       "full_translated": "Stable baht could bring welcome certainty for Pattaya tourists and businesses&nbsp;&nbsp;Pattaya Mail",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "환율 안정은 관광객의 소비 심리에 긍정적인 영향을 미칠 수 있으나, 파타야에 국한된 내용이므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Stable baht could bring welcome certainty for Pattaya tourists and businesses - Pattaya Mail",
@@ -3223,6 +3206,133 @@
         }
       ],
       "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnBxdkd0U2NUSkRMNXd4ckl1VnljTVZGYnFmOFQ5aTFqcXh3NVAtZF9rYkpBTUlnZHczYUFXaWlqWTdpa3Ria0hoWjN1TVNyY0JacS1pZFhOeklhZnBzc05wSDJGTFlfcEctZU90ejVoQnVnMHlZSnd1ajdqbjUwQ242MDBQVVFqNk5Zdkl4aDA2RnVVOU9PWVdST29kbXc1X1dPXzdEYzhWM1p5WWVsdzZQWmdLaTNI?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕 인근에서 영국인 대상 금고 강도 사건 발생, 외국인 용의자 4명 체포",
+      "summary": "- 방콕 인근 농프루 지역에서 영국인 남성의 집에 침입해 금고를 훔쳐 달아난 사건 발생.\n- 경찰은 용의자 4명을 체포하여 조사 중이며, 이들은 범행을 부인하고 있지만 경찰은 증거를 확보했다고 밝힘.\n- 피해자는 현금을 인출하여 집을 사려던 중이었으며, 용의자들은 피해자를 알고 있는 동일 국적자로 추정.",
+      "full_translated": "경찰이 영국인 남성의 금고를 털어간 혐의로 외국인 용의자 4명을 체포하여 집중 조사하고 있습니다. 용의자들은 서로 모른다고 주장하며 혐의를 부인하고 있지만, 경찰은 증거를 확보했다고 밝혔습니다. 사건은 2월 26일 밤, 촌부리 주 방라뭉 지역의 한 주택에서 발생했습니다. 검은 옷을 입고 복면을 쓴 3인조 강도가 32세의 영국인 요리사 웨슬리 시릴 러셀과 그의 태국인 아내를 위협하고 2층 침실에서 금고를 훔쳐 검은색 4도어 픽업트럭을 타고 달아났습니다. 금고 안에는 2백만 바트 이상의 현금이 있었습니다. 경찰은 용의자들이 피해자가 현금 2백만 바트를 인출하여 집을 사려던 것을 알고 계획적으로 범행을 저지른 것으로 보고 있습니다. 또한, 용의자들이 파타야 지역의 대마초 가게에서 피해자를 알게 된 동일 국적자일 가능성이 있다고 보고 있습니다. 수사 결과, 용의자들은 범행에 3대의 차량을 사용한 것으로 드러났습니다. 첫 번째 차량은 픽업트럭으로, 피해자의 집에서 금고를 훔쳐 달아났습니다. 이후 피해자의 휴대폰을 농크라복 인근에 버리고 수쿰빗 도로로 도주했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으며, 특히 방콕 인근 지역에서 발생했다는 점에서 정보 제공 필요.",
+      "event_info": {
+        "date": "2026-02-26",
+        "location": "농프루, 방라뭉, 촌부리",
+        "price": "2백만 바트 이상의 현금",
+        "location_google_map_query": "농프루 방라뭉 촌부리"
+      },
+      "references": [
+        {
+          "title": "ตำรวจคุมตัวสอบเข้ม 4 ชาวต่างชาติ ผู้ต้องสงสัยคดีอุกอาจ ปล้นตู้เซฟหนุ่มอังกฤษ 2 ล้าน",
+          "url": "https://www.thairath.co.th/news/crime/2917111",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyy1jsf6ye0pi.jpg"
+        }
+      ],
+      "collected_at": "23:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyy1jsf6ye0pi.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "은행 신고로 사기 방지, 치앙마이에서 4명 체포",
+      "summary": "- 은행의 신고로 콜센터 사기 연루 의심 계좌 적발\n- 치앙마이에서 현금 30만 바트 압수, 4명 체포\n- 피해자가 온라인 사기 신고 후 해당 계좌로 이체한 사실 확인",
+      "full_translated": "치앙마이 — 2026년 2월 27일, 경찰은 은행이 콜센터 사기와 관련된 것으로 의심되는 노새 계좌를 경찰에 알린 후 목요일에 4명을 체포하고 현금 30만 바트를 압수했다고 당국이 밝혔습니다. 오후 3시 55분경, 경찰청 5지구 경찰관들은 크룽타이 은행의 금융 범죄 팀으로부터 치앙마이 지방의 프라투 치앙마이 지점에서 30만 바트를 인출하려는 고객을 확인해 달라는 통보를 받았습니다. 경찰관들은 현장에 도착하여 콘캔 출신의 33세 여성 추다 망마가 카운터에서 현금을 인출하고 있는 것을 발견했습니다. 경찰은 30만 바트, 통장, ATM 카드, 휴대폰을 압수했습니다. 그녀는 계좌를 개설하고 돈을 인출하라는 지시를 받았으며 자금은 자신의 것이 아니라고 진술했다고 수사관들은 밝혔습니다. 추가 조사 결과 인근에서 인출을 감시하고 지시한 혐의로 27세의 미얀마 국적자인 아르 와이(코디네이터로 설명됨), 37세의 미얀마 국적자인 피폽(상이라고도 함, 무국적자를 위한 핑크 카드를 소지), 25세의 남성 종푸(아푸라고도 함, 시민 등록 상태가 없는 사람) 등 3명의 공범이 구금되었습니다. 경찰은 용의자 중 한 명이 1979년 이민법에 따라 추가로 기소되었다고 밝혔습니다. 금융 기록에 따르면 인출 전에 피해자가 30만 바트를 해당 계좌로 이체했습니다. 이 이체는 사라부리 지방에 접수된 온라인 사기 신고와 관련이 있으며, 총 신고 금액은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "콜센터 사기 관련 사건으로, 여행객도 잠재적 피해자가 될 수 있으므로 주의가 필요함. 치앙마이 지역에서 발생.",
+      "event_info": {
+        "date": "2026-02-27",
+        "location": "치앙마이",
+        "price": null,
+        "location_google_map_query": "Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Bank alert foils scam, four arrested in Chiang Mai",
+          "url": "https://www.khaosodenglish.com/news/2026/02/28/bank-alert-foils-scam-four-arrested-in-chiang-mai/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Bank-alert-foils-scam-four-arrested-in-Chiang-Mai.jpg"
+        }
+      ],
+      "collected_at": "23:16",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/02/Bank-alert-foils-scam-four-arrested-in-Chiang-Mai.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 파타야 국제 관광 회복세... 공항과 호텔 붐",
+      "summary": "- 태국 파타야가 국제 관광 회복세를 보이며 공항과 호텔이 활기를 띠고 있음.\n- 항공 산업의 갑작스러운 성장과 함께 전 세계 여행객이 몰려들고 있음.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "태국, 파타야 국제 관광 회복세... 공항과 호텔 붐 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야 지역의 관광 회복세는 여행객들에게 긍정적인 정보이며, 숙박 및 교통 상황에 대한 참고 자료가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand Experiences Unprecedented Pattaya International Tourism Recovery as Global Travelers Flood Airports and Hotels Surge Amid Sudden Aviation Boom – New Update - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPeUJPWHRaSHlfOWdRbzc3bUJoSzVXU3dmREJZcUFPaHVnbXlhaWpaZE5Gb2h5WEpkR1hwS3BDRGtlLUh4Zk9aWXNvUmZ4Y2w3d3AyS1ZiN0tob2FINHp3NWxiRmp4Q3RzNWlBZjZ4enhRLW0wbzI3YmlJQThSeERqcFk2S2pEQm9kX3kweGptRWMxTEhkZE5Zd1VjNGdqSkVyOTdYNFh4dXVKX2lJUFRmUHNJcDRpTDFJZlViTXdTNk9nbWxweVFpaFBLNWlLZndmRkxYUzZLM1lsLTRGV0Z6dGllazlDWUNBSnl1UTNoNktHaHZZOV9lMjM3bFBaZDloVzdLM3ZjeGhoLVNENVA4aFQ5TzVPS2FqV0hFM1VlcWMtUW1QSVN4U1AtUHdKc0pGZU5FakpR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "사우디아라비아, 이란의 리야드 공격 확인 및 보복 권리 주장",
+      "summary": "- 사우디아라비아가 이란의 수도 리야드 공격을 확인하고 강력히 규탄함.\n- 사우디는 자국 영토와 국민 보호를 위해 필요한 모든 조치를 취할 것이라고 경고함.\n- 미국과 이스라엘은 이란 고위 지도부를 겨냥한 군사 공격을 개시하여 중동 갈등 심화.",
+      "full_translated": "사우디아라비아 당국은 이란이 수도 리야드와 동부 지방을 공격했다고 확인하고, 자국을 방어하기 위해 보복할 권리가 있다고 경고했습니다. 사우디 외무부는 2069년 2월 28일 토요일, 이란이 리야드와 동부 지역을 공격했다고 확인하면서, 자국이 공격에 대한 보복을 포함하여 스스로를 방어할 권리가 있다고 경고했습니다. 외무부 성명은 사우디아라비아가 리야드 지역과 동부 지방을 겨냥한 이란의 노골적이고 비겁한 공격을 가장 강력하게 규탄한다고 밝혔습니다. 그러나 공격은 저지되었습니다. “이러한 정당성 없는 침략을 고려하여, 왕국은 미국에 대한 안보 위협을 종식시키고 이란 국민이 통치자를 전복할 기회를 제공할 것이라고 도널드 트럼프 대통령이 밝힌 바와 같이, 공격에 대한 대응 옵션을 포함하여 안보를 보호하고 영토, 시민 및 거주민을 보호하기 위해 필요한 모든 조치를 취할 것임을 확인합니다.” 한편, 테헤란은 이번 공격을 도발적이고 불법적인 행위라고 규정하고 이스라엘과 페르시아만 지역의 여러 미국 기지가 있는 국가에 미사일을 발사하여 대응했습니다.\n\n더 많은 국제 뉴스: [https://www.thairath.co.th/news/foreign/…](https://www.thairath.co.th/news/foreign/2917115)\n출처: alarabiya ... ...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 긴장 고조는 잠재적으로 여행 안전에 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "리야드",
+        "price": null,
+        "location_google_map_query": "리야드"
+      },
+      "references": [
+        {
+          "title": "ซาอุดีอาระเบียยืนยัน อิหร่านโจมตีเข้าใส่กรุงริยาด ลั่นมีสิทธิ์ตอบโต้",
+          "url": "https://www.thairath.co.th/news/foreign/2917115",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyyjA7u0bi03d.jpg"
+        }
+      ],
+      "collected_at": "23:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyyjA7u0bi03d.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "사마귀 새우, 뜨랏 관광 활성화에 활용 기대 - 방콕 포스트",
+      "summary": "- 뜨랏 지방에서 사마귀 새우를 활용한 관광 상품 개발 추진\n- 지역 경제 활성화 및 관광객 유치 목표\n- 사마귀 새우 요리, 체험 프로그램 등 다양한 콘텐츠 구상",
+      "full_translated": "방콕 포스트에 따르면, 뜨랏 지방에서 사마귀 새우를 활용하여 관광 산업을 활성화하려는 계획이 추진되고 있습니다. 이 프로젝트는 지역 경제를 부양하고 더 많은 관광객을 유치하는 것을 목표로 합니다. 사마귀 새우 요리 시연, 사마귀 새우 잡기 체험 등 다양한 관광 상품 개발이 논의되고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "새로운 관광 상품 정보는 여행자들에게 흥미로운 선택지를 제공할 수 있음",
+      "event_info": {
+        "date": null,
+        "location": "뜨랏",
+        "price": null,
+        "location_google_map_query": "뜨랏"
+      },
+      "references": [
+        {
+          "title": "Mantis shrimp eyed as Trat tourism booster - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUVdIOGVSejg3WmdiWTlJalhzOUpHYXdSdFlUTlpabWlsaGZYeTRrQkd2Tl9pQ2p2RkNTVjJuRkNYeGw3Wk40OTdwU242ZEdaNjFxUlJNa3YtOFlBMUNtcFcxUlJLQjEwLWlhV3FrcnFmeU9LbHRIazFWTWZvbTdXdlJyekt4elFGWk5zbVdxaXBRMzd5RXZiRjRB?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-02-28"
     }
