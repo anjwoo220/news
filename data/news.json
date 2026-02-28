@@ -1635,14 +1635,9 @@
       "summary": "- 푸껫 파통 해변 근처에서 호주-영국 국적의 관광객이 폭행을 당해 사망했습니다.\n- 자세한 사건 경위는 현재 조사 중입니다.\n- 여행객 안전에 유의해야 할 필요성이 제기되고 있습니다.",
       "full_translated": "푸껫 파통 해변 인근에서 호주-영국인 관광객이 폭행을 당해 사망했습니다. 자세한 내용은 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "관광객 안전에 직접적인 위협이 되는 사건이므로 높은 점수를 부여합니다. 특히, 인기 관광지인 파통 해변에서 발생했다는 점에서 여행자들에게 즉각적인 주의가 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "파통 해변, 푸껫",
-        "price": null,
-        "location_google_map_query": "파통 해변"
-      },
+      "event_info": "{'date': None, 'location': '파통 해변, 푸껫', 'price': None, 'location_google_map_query': '파통 해변'}",
       "references": [
         {
           "title": "Australian-British Tourist Dies After Alleged Assault Near Patong Beach in Thailand - Greek City Times",
@@ -1653,21 +1648,18 @@
       ],
       "collected_at": "15:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDUxQTFJbmQ2QzFoTjFoQ3c1SC1FcEZpOVRaMFV4eXpDUThfUThHM3VzMkxwaERfY2s2aF81SFkxSDA5RFZJNkNHbW9seXdfZnNZTTJFSndZQlcyazhyMEVHSkR0UDMzNXVFT2NDSmNwMEJiX3lUVUhxNVdzb0xoWE5ORXIyT2pEa2FuZGVpWXI?oc=5",
+      "source": ""
     },
     {
       "title": "트럼프, 이란 군사 작전 개시 확인: 미국인 보호 목적",
       "summary": "- 도널드 트럼프 미국 대통령은 이란 내 군사 작전 개시를 확인하며 미국인 보호를 강조함.\n- 이번 작전은 이란 정권의 임박한 위협 제거를 목표로 하며, 이스라엘과 협력하여 진행됨.\n- 트럼프 대통령은 이란의 위협적인 행동이 미국과 동맹국에 대한 직접적인 위협이라고 주장.",
       "full_translated": "도널드 트럼프 미국 대통령은 소셜 미디어에 공개된 영상에서 미국이 이란에서 군사 작전을 시작했다고 확인했습니다. 트럼프 대통령은 약 8분 길이의 영상에서 이번 작전의 목표는 잔혹하고 위험한 이란 정권으로부터 임박한 위협을 제거하여 미국 시민을 보호하는 것이라고 밝혔습니다. 이는 미국이 이스라엘과 협력하여 이란을 공격한 것을 확인하는 것입니다. 트럼프는 이란의 위협적인 활동이 미국, 해외 주둔 군대, 기지 및 전 세계 동맹국에 직접적인 위협이라고 덧붙였습니다. 트럼프 대통령은 또한 47년 동안 이란 정권이 '미국에 죽음을' 외치며 미국, 미군 및 여러 국가의 무고한 사람들을 표적으로 삼아 피비린내 나는 학살 캠페인을 벌였다고 언급했습니다. 최근 보고에 따르면 도널드 트럼프 미국 대통령은 미국과 이스라엘의 이란 군사 작전이 진행되는 동안 플로리다 주 팜비치에 있는 개인 클럽에서 주말을 보낼 예정입니다. 그러나 현재 군사 작전의 범위나 이란의 대응에 대한 자세한 내용은 알려지지 않았으며 중동 지역의 상황은 여전히 긴장되고 국제 사회의 면밀한 감시를 받고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 지역 긴장 고조는 여행 심리에 영향을 줄 수 있으나, 태국 여행에 직접적인 영향은 제한적이라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ยืนยันเอง เปิดปฏิบัติการทางทหารในอิหร่าน ปกป้องชาวอเมริกันจากภัยคุกคามใกล้ตัว",
@@ -1678,21 +1670,18 @@
       ],
       "collected_at": "15:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWIjh1MvQnSLd.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917028",
+      "source": ""
     },
     {
       "title": "태국, 토지 할당 관련 새로운 법률 시행 (3월 1일): 구매자 보호 강화",
       "summary": "- 태국에서 새로운 토지 할당법이 3월 1일부터 시행되어 주택 구매자 보호가 강화됩니다.\n- 이 법은 토지 할당 프로젝트의 공공 시설에 대한 감독을 강화하고 분쟁을 줄이는 것을 목표로 합니다.\n- 주요 변경 사항으로는 공공 시설 유지 관리에 대한 엄격한 규정 및 구매자 보호 강화를 위한 조치 등이 포함됩니다.",
       "full_translated": "정부 부대변인은 새로운 토지 할당법이 3월 1일부터 시행되어 구매자 보호를 강화한다고 밝혔습니다. 이 법은 마을 할당 프로젝트에서 공공 시설을 개선하고 분쟁을 줄이는 것을 목표로 합니다. 2024년 2월 28일, 총리실 부대변인인 랄리다 퍼릿위왓타나는 2025년 토지 할당법(제3호)이 2026년 3월 1일부터 시행된다고 밝혔습니다. 이번 법률 개정의 주요 목표는 토지 할당 구매자 보호 효율성을 높이고 토지 할당자를 보다 명확하게 규제하는 것입니다. 이는 개인의 권리와 자유를 제한하는 것은 법률에 따라 필요하며 수행되어야 한다고 규정하는 헌법 26조, 37조, 40조에 따릅니다. 추가 수정의 핵심 사항은 다음과 같습니다. 1) 할당 프로젝트의 공공 시설에 대한 엄격한 규정 강화. 도로, 공원, 놀이터와 같은 공공 시설은 구매자의 이익을 위해 의무 사항이며, 토지 할당자는 표준 이하로 저하되지 않도록 유지 관리해야 합니다. 또한 토지 할당자는 구매자의 권리를 보호하기 위해 은행 또는 금융 기관과 공공 시설 유지 관리 보증 계약을 체결해야 합니다. 2) 유지 관리 의무 면제 조건 명확화. 토지 할당자는 구매자가 자산 양도를 받기 위해 토지 할당 마을 법인을 설립하거나 공공 자선 단체에 자산을 기부하고 경우에 따라 법인 또는 지방 행정 기관에 보증금을 양도하는 경우 의무에서 면제됩니다. 3) 할당자가 의무를 이행하지 않는 경우 구매자가 직접 운영할 수 있는 메커니즘 추가. 판매된 플롯 수의 절반 이상에 해당하는 구매자는 토지 할당 마을 법인 설립을 신청할 수 있습니다. ... 4) 규칙 조정",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "부동산 관련 법규 변경은 장기적인 여행/거주 계획에 영향을 줄 수 있지만, 단기 여행객에게는 직접적인 영향이 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กฎหมายจัดสรรที่ดินฉบับใหม่ มีผลบังคับใช้ 1 มี.ค. นี้ เพิ่มความคุ้มครองผู้ซื้อ",
@@ -1703,21 +1692,18 @@
       ],
       "collected_at": "15:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWImL8NMz1GSs.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/politic/2917027",
+      "source": ""
     },
     {
       "title": "수판부리 재검표에서 수백 표 변동",
       "summary": "- 수판부리 선거구 2곳의 투표소 5곳에서 재검표 실시 결과, 표 수에 차이 발생.",
       "full_translated": "수판부리 재검표에서 투표 불일치 드러나\n수판부리 — 2026년 2월 28일, 태국 선거관리위원회는 수판부리 지방 2개 선거구의 5개 투표소에서 재검표를 명령한 후 불일치를 확인했다고 관계자들이 밝혔습니다. 이번 결정은 2026년 2월 1일 사전 투표와 2026년 2월 8일 하원 의원 총선거에서 발생한 부정행위 의혹과 관련하여 지방 선거관리위원회에 제출된 불만 사항에 따른 것입니다. 꼼끄릿 팁솜분 수판부리 주재 태국 선거관리위원회 사무국장은 선관위가 투표소 및 개표위원회 운영에 대한 지방 및 방콕 공무원의 보고서와 언론 보도 및 이의 제기를 검토했다고 밝혔습니다. 제기된 의혹에는 후보자 명단 불완전 게시, 투표용지를 명확하게 표시하지 않은 채 투표 내용 낭독, 투명성 없는 집계 표시, 초과 투표 발표 등이 포함되었습니다. 선관위는 공정하고 합법적인 절차를 보장하고 국민의 신뢰를 유지하기 위해 5개 투표소에서 재검표를 명령하기로 결의했습니다. 재검표는 제2선거구의 방타텐 하위 구역 1번 투표소와 반창 하위 구역 4번 투표소(송피농 구역), 제1선거구의 사남차이 하위 구역 11번 투표소, 므앙수판부리 구역(제1선거구), 방타텐 하위 구역 1번 투표소(제2선거구), 옹크 4번 투표소에서 실시되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "선거 관련 소식은 여행에 직접적인 영향을 주지는 않지만, 정치적 안정과 관련된 정보이므로 중간 점수 부여. 현재 시점에서 큰 변화는 없으므로 업데이트로 간주하지 않음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Hundreds of votes shift in Suphan Buri recount",
@@ -1726,21 +1712,19 @@
         }
       ],
       "collected_at": "15:19",
-      "date": "2026-02-28"
+      "image_url": "",
+      "date": "2026-02-28",
+      "link": "https://www.khaosodenglish.com/politics/2026/02/28/hundreds-of-votes-shift-in-Suphan-Buri-recount/",
+      "source": ""
     },
     {
       "title": "태국 뜨랏, 사마귀 새우로 관광 산업 부흥 노린다",
       "summary": "- 태국 뜨랏(Trat) 지역이 사마귀 새우를 활용한 관광 상품 개발에 힘쓰고 있습니다.\n- 사마귀 새우는 이 지역의 독특한 해산물 자원으로, 새로운 관광 명소로 부상할 가능성이 큽니다.\n- 지역 경제 활성화에 기여할 것으로 기대됩니다.",
       "full_translated": "뜨랏의 관광 부스터로 주목받는 사마귀 새우 Bangkok Post",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "새로운 관광 자원에 대한 소개로, 여행객들에게 흥미로운 정보 제공. 하지만 필수적인 정보는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "뜨랏",
-        "price": null,
-        "location_google_map_query": "뜨랏 관광 명소"
-      },
+      "event_info": "{'date': None, 'location': '뜨랏', 'price': None, 'location_google_map_query': '뜨랏 관광 명소'}",
       "references": [
         {
           "title": "Mantis shrimp eyed as Trat tourism booster - Bangkok Post",
@@ -1751,6 +1735,133 @@
       ],
       "collected_at": "15:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORU5UNFB3aXdoMW85LUQxa0hYb2pIeTB6OWFzQ2tnQU5ySnpta194VWQ0X1Z6MVZfN0RMWldhWVlkLUNKcS1qY01WVHdyamlZa3dCT081ZjhRZmlYWmFWdnROb3Y2eEV3SDJHdlJlRjdrai1jU2JPeHEzbWlXSHl2b1djbHRVVE5mVVNDalR1LVFQTFdYcUNjLXRrbw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 6월부터 국제선 출발세 인상 예정",
+      "summary": "- 2026년 6월부터 태국 국제선 출발세가 인상될 예정입니다.\n- 인상되는 출발세는 여행객들에게 영향을 미칠 수 있습니다.\n- 여행 전에 필요한 정보를 확인하는 것이 중요합니다.",
+      "full_translated": "2026년 6월, 태국의 국제선 출발세가 인상될 예정입니다. 이는 태국 전역의 여행객들에게 영향을 미칠 것입니다. 여행 전에 알아야 할 사항은 다음과 같습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "2026년 6월부터 시행되는 국제선 출발세 인상에 대한 정보는 여행객에게 중요한 정보이며, 미리 준비할 수 있도록 돕는다.",
+      "event_info": {
+        "date": "2026-06-01",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Explore How June 2026 Will See a Rise in Thailand’s International Departure Tax Affecting Travelers Across the Country: What You Need to Know Before You Travel - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQblBMeWgwdmFwNXZTaHo3YlNKTHpseVI2M0lmanp1M3dBblQyQ0l1WW5tQV9DWUZzY05KdVE4ZG5kbE5VcXIwazRtdGdLbTB5X1g5Qko4a0N6R0ZENG9LOEhQazZkN19IWGVFbmtoNlNRbl8xa21YM2M0TEh3M1ota0VqYVNlTHZTVWpmVlRuRnc4Sy1TX2tHMVNxRFJLNFFmYm1OZjM1b1VnYlc5MjRZTjhEUUFsa1NYQkp1QngySHE3VEI0ZEFtNjFOTTYwdXFFcmNUc1daRVI2eDVEYmQ1MW1oR1lwejcya0pVQjgwQzA0bTBfYWFEYzNlb2pOVnFRd1MtM09WNC1WS293c2xhR3ZIWlVsWFJMa05OR003NGw3QjBDU2JVcXVzQ2NHaEU?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "15:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 정부, '콘 라 크릉 플ัส' 프로젝트 준비: Paotang 앱 업데이트 및 등록 방법",
+      "summary": "- 태국 정부가 경기 부양책 '콘 라 크릉 플럿' 프로젝트를 준비 중입니다.\n- Paotang 앱 최신 버전 업데이트 및 등록 방법 안내가 필요합니다.\n- 해당 프로젝트는 세금 시스템 내외에 따라 2,000~2,400바트를 지원합니다.",
+      "full_translated": "태국 정부는 '콘 라 크릉 플러스' 프로젝트를 통해 경제 활성화를 도모하고 있습니다. 이 프로젝트는 세금 시스템 내에 있는 사람들에게는 2,400바트, 세금 시스템 밖에 있는 사람들에게는 2,000바트를 지원하는 것을 목표로 합니다.\n\n'콘 라 크릉 플러스' 프로젝트 참여를 위해서는 Paotang 앱을 최신 버전으로 업데이트하고, 신원 확인 절차를 완료해야 합니다. 정부 구성이 완료되는 대로 즉시 시행될 수 있도록 시스템 준비를 마쳤습니다. 프로젝트 시작 시기는 정부 발표를 기다려야 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 중 예상치 못한 지출에 대한 정부 지원 가능성. 등록 방법을 미리 알아두면 편리함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "วิธีสมัครแอปฯ \"เป๋าตัง\" เวอร์ชันล่าสุด รอลงทะเบียน \"คนละครึ่งพลัส เฟส 2\"",
+          "url": "https://www.thairath.co.th/news/society/2917021",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWJJmjbTkG2nj.jpg"
+        }
+      ],
+      "collected_at": "15:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdWJJmjbTkG2nj.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "대만 여행 급증: 한국, 베트남, 태국, 필리핀, 중국, 일본의 비자 면제 및 글로벌 수요 확대",
+      "summary": "- 대만 여행이 비자 면제 정책과 글로벌 수요 증가로 인해 급증하고 있습니다.\n- 한국을 포함한 여러 아시아 국가에서 대만 여행객이 6% 이상 증가했습니다.\n- 이는 대만 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "대만 여행은 베트남, 태국, 필리핀, 중국, 일본과 함께 한국이 합류하면서 6% 이상의 급증세를 보이며 폭발적인 성장을 보이고 있습니다. 이는 획기적인 비자 면제와 전 세계적인 수요 확대로 뒷받침됩니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "대만 여행 증가 추세에 대한 정보로, 여행 계획에 참고할 만한 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Vietnam, Thailand, Philippines, China and Japan Spark Explosive Growth in Taiwanese Travel with Over Six Percent Surge Powered by Game-Changing Visa-Free Entry and Expanding Global Demand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPeF9sb2wxN3FlQnhyYnNTMTNrQnp3SDJLLXpSOS13RXlPR0EzWXFWTGdTTl9YZWw3d0t5ZmVTcmp0SnZ3SHhJV1docWU2Mm9aVlcycThub21ZZXN2UzRnV3U2bURLRzk3U0xyYXF1R2xUa0laR1FkbDF6MWNmaEFYUEs2bHdGZ1ozeGlaeHJKX2ZlMXJJbnU5UjNZOTllRGhzX1pWY1QtdDUyVGZwanJ5WjJtM3dhWDh0Nlc4dU1yd20ySmJ2em9yMmFlZHNFaURvQlpRYVVRMDlQLVN2U2lLZ1M1M0tMX0tqVUJwSFh0cmNJQzdhYUtXWW5vZ0d6VTJpdzdTbm85NTNSYnF5S01DNGt5ZW1vR3FqTVg4Y0UwaVdKSHhrQ2ZaSDRPY2NVemc1NHBQbUQ0WlQ2NVV0bGFXWEhteHNHU1pqeXNNUUZrWHNyRWRnVkdHR282TVFXOGlYQzZUUg?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "15:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 유명 의사, 의료 면허 반납",
+      "summary": "- '닥터 케이트'로 알려진 태국 피부과 의사가 의료 윤리 위반 주장에 면허 반납.\n- 의사로서의 제약 없이 자유롭게 발언하기 위함이라고 밝힘.\n- 의료위원회의 불공정하고 모호한 규정에 대한 불만을 표출.",
+      "full_translated": "태국의 유명한 피부과 의사이자 온라인 유명인인 '닥터 케이트'가 의료위원회의 불공정하고 불명확한 규정에 더 이상 참을 수 없다며 의료 면허를 반납했습니다. 콩콴 푸짓니룬 박사는 금요일, 20년간의 의사 생활을 접고 개인으로서 더 자유롭게 발언할 수 있기에 의료계를 떠난다고 밝혔습니다. 그녀는 직접 방콕에 있는 의료위원회 사무실에 면허증을 전달하며, 정치 또는 건강 보조 식품과 같은 주제에 대해 공개적으로 발언할 때마다 의료 윤리를 위반한다는 위원회의 지속적인 불만에 지쳤다고 말했습니다. KKC 클리닉 미용 및 에스테틱 치료 센터의 공동 창립자인 콩콴 박사는 의사들이 특정 의약 관련 주제에 대해 공개적으로 발언할 때 입을 다물게 하는 시스템에 대한 거침없는 비판가였습니다. 의료위원회는 그녀가 특정 제품 및 시술을 '광고'했다는 이유로 징계를 추진해 왔으며, 그녀는 만연한 잘못된 정보에 대응하고 대중에게 알리려고 노력하고 있다고 주장합니다. 그녀는 금요일 발표한 성명에서 '누가 발언할 수 있습니까? 온라인 판매자? 인플루언서? 어떻게 정확한 정보가 대중에게 전달될 수 있습니까?'라고 반문했습니다. '판매자는 얼마나 과장하든 무엇이든 말할 수 있는데 왜 안 됩니까? 가짜 의사들이 불법적인 제품을 판매하고 있습니다.'",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "의료 관련 뉴스이지만, 관광객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Outspoken Thai doctor gives up medical licence",
+          "url": "https://www.bangkokpost.com/thailand/general/3206483/outspoken-thai-doctor-gives-up-medical-licence",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206483_700.jpg"
+        }
+      ],
+      "collected_at": "15:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260227/c1_3206483_700.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "쁘라차ชาติ당 대표, 선관위의 국민 입막음 고소 중단 촉구",
+      "summary": "- 판 땀루엇 엑 타위 쏫쏭 쁘라차찻당 대표는 선관위가 학자와 전문가 등 6명을 고소한 것에 대해 비판하며 이는 헌법에 위배되는 행위라고 주장함.\n- 그는 선관위가 독립 기관으로서 국민의 권력을 망각하고 있다고 경고하며, 고소가 부정 행위 제보자 보호 의무를 저버리는 행위라고 지적함.\n- 그는 정당과 국민의 자격으로 헌법적 입장을 밝히며, 검사는 의무이지 범죄가 아니며, 법은 내부 고발자를 보호해야 한다고 주장함.",
+      "full_translated": "판땀루엇에ㄱ 타위 쏫쏭 ประชาชาติ당 대표는 선거관리위원회가 국민의 입을 막기 위해 고소를 중단해야 한다고 촉구하며, 이는 자유를 침해하고 헌법에 위배된다고 지적했습니다.\n\n2024년 2월 28일, 타위 쏫쏭 대표는 페이스북을 통해 선거관리위원회(กกต.)가 학자, 전문가 및 시민 대표 6명을 형사 고소하기로 결정한 것에 대해 언급했습니다. 그는 이들이 헌법에 따라 태국 국민의 의무를 수행하고 있으며, 부정 행위에 대한 제보자 역할을 하고 있다고 밝혔습니다. 따라서 국가는 부정 행위 제보자의 안전과 권리를 보호하기 위한 조치를 취해야 합니다. 제보자를 고소하는 것은 헌법을 위반하는 행위일 뿐만 아니라, 독립 기관이 진정한 권력의 주인이 누구인지 잊고 있다는 위험 신호입니다.\n\n타위 대표는 정당과 국민으로서 정당한 권리를 보호하기 위해 다음과 같은 입장을 밝혔습니다.\n\n1. 감사는 '의무'이지 '범죄'가 아닙니다. 헌법 제50조에 따라 국민은 민주주의 체제에서 통치를 수호하고 비밀 투표를 통해 자유롭게 투표할 의무가 있습니다. 선거관리위원회는 투명하게 선거를 관리할 의무가 있습니다. 따라서 국민은 자신들의 신성한 표에 영향을 미칠 수 있는 선거관리위원회의 업무를 추적, 검사 및 비판할 모든 정당성을 갖습니다.\n\n2. 법은 '내부 고발자'를 보호해야 하며 무기로 사용해서는 안 됩니다. 헌법 제63조는 국가가 부패 방지를 위해 국민을 지원해야 한다고 규정합니다. 6명의 개인이 정보를 제공하고 의견을 제시하는 것은 시민으로서의 의무를 수행하는 것입니다. 선거관리위원회는 허점을 메우는 데 도움을 준 국민에게 감사해야 하며, 기회를 잡아 법을 남용해서는 안 됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "หัวหน้าพรรคประชาชาติ จี้ กกต. หยุดฟ้องปิดปากประชาชน ชี้ละเมิดเสรีภาพ ขัดรัฐธรรมนูญ",
+          "url": "https://www.thairath.co.th/news/politic/2917032",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdV3LmIoj3bagi.jpg"
+        }
+      ],
+      "collected_at": "15:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdV3LmIoj3bagi.jpg",
       "date": "2026-02-28"
     }
   ]
