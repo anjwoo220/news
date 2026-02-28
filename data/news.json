@@ -2688,14 +2688,9 @@
       "summary": "- 촌부리 인근에서 픽업 트럭이 전복되어 미얀마 이주 노동자 15명이 부상을 입었습니다.\n- 사고는 새벽 7시경, 7번 고속도로 인근에서 발생했습니다.\n- 부상자들은 인근 병원으로 이송되었으며, 당국은 정확한 사고 원인을 조사 중입니다.",
       "full_translated": "오늘 아침 7시경, 촌부리 방향 7번 고속도로 인근 98km 지점에서 픽업 트럭 전복 사고가 발생하여 미얀마 이주 노동자 15명이 부상을 입었습니다. Sawang Prateep Sri Racha 재단 구조대와 응급 의료팀이 현장에 출동했습니다. 덮개가 있는 픽업 트럭(번호판 YTH 9980 촌부리)이 전복되어 있었고, 약 20명의 미얀마 이주 노동자가 타고 있었으며 그 중 15명이 부상을 입었습니다. 부상자들은 머리 부상, 팔다리 찰과상, 부종, 통증 등을 호소했습니다. 목격자들에 따르면, 트럭은 이미 전복되어 있었고, 그들은 즉시 응급 서비스에 신고했습니다. 미얀마인 운전사는 통역관을 통해 닭고기 가공 공장에서 직원들을 수송하고 있었다고 진술했습니다. 사고 현장에서 다른 차량이 추월하면서 트럭을 들이받아 당황한 나머지 도로변으로 방향을 틀어 통제력을 잃고 전복되었다고 합니다. 당국은 도로 상태, 차량 속도, 추월 차량의 관련 여부 등 정확한 사고 원인을 조사하고 있습니다. 사망자는 발생하지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 내 교통사고 발생 소식으로, 여행객 안전에 영향을 줄 수 있으므로 관련 정보 제공. 특히 해당 지역을 이동하는 여행객에게는 주의가 필요함. 기존 게시된 유사 사건/사고 뉴스는 없으므로 새로운 정보로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "ศรีราชา",
-        "price": null,
-        "location_google_map_query": "ศรีราชา"
-      },
+      "event_info": "{'date': None, 'location': 'ศรีราชา', 'price': None, 'location_google_map_query': 'ศรีราชา'}",
       "references": [
         {
           "title": "15 Myanmar Migrant Workers Injured in Pickup Truck Accident in Sri Racha",
@@ -2706,21 +2701,18 @@
       ],
       "collected_at": "20:51",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/img_20260228_2018334348078547894499104.jpg?v=1772284822",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://thepattayanews.com/2026/02/28/15-myanmar-migrant-workers-injured-in-pickup-truck-accident-in-sri-racha/",
+      "source": ""
     },
     {
       "title": "이란, 이스라엘의 초등학교 공격으로 40명 사망 주장",
       "summary": "- 이란은 이스라엘의 공격으로 여자 초등학교에서 40명이 사망했다고 주장했습니다.\n- 공격은 호르모즈간 주 미나브 지역의 '샤자레 타예베' 학교에서 발생했습니다.\n- 이스라엘은 이란의 공격이 고위 정치 및 안보 인사들의 모임 장소를 목표로 했다고 밝혔습니다.",
       "full_translated": "이란 언론 IRNA에 따르면, 이스라엘의 공격이 여자 초등학교를 강타하여 40명이 사망하고 많은 부상자가 발생했습니다. 사건은 2069년 2월 28일, 지역 내 전투 상황 중에 발생했습니다. 호르모즈간 주지사는 사망자 수가 계속 증가하고 있다고 밝혔습니다. 이번 공격은 이스라엘이 이란을 공격한 이후 발생했으며, 도널드 트럼프 미국 대통령도 이란에서 군사 작전을 시작했다고 발표했습니다. 이에 테헤란은 이스라엘과 해당 지역의 미국 기지를 공격하여 대응했습니다. 이스라엘 방위군은 이란의 공격이 테헤란의 고위 정치 및 안보 인사들이 모이는 장소를 목표로 했다고 밝혔으며, 공격 결과를 평가 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행객의 안전에 직접적인 위협은 아니지만, 중동 지역의 긴장 고조는 잠재적인 불안 요인이 될 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านอ้าง อิสราเอลโจมตีโดนโรงเรียนประถม ดับ 40 ศพ เจ็บอีกอื้อ",
@@ -2731,21 +2723,18 @@
       ],
       "collected_at": "20:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSR5r7UiYO6xI.jpg",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/foreign/2917096",
+      "source": ""
     },
     {
       "title": "짜뚜짝 주말 시장, 방콕 관광 활성화 및 태국 야시장 선보이는 세계적인 명소로 자리매김",
       "summary": "- 태국이 짜뚜짝 주말 시장을 세계적인 야시장 명소로 홍보하며 관광 활성화에 나섰습니다.\n- 짜뚜짝 시장은 다양한 상품과 먹거리를 제공하며 태국 야시장의 매력을 선보입니다.\n- 이번 업데이트는 짜뚜짝 시장의 위상을 강화하고 관광객 유치에 기여할 것으로 기대됩니다.",
       "full_translated": "태국은 짜뚜짝 주말 시장을 방콕 관광을 활성화하고 태국 야시장을 선보이는 세계에서 가장 상징적인 야시장으로 자리매김했습니다. - 새로운 업데이트 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "짜뚜짝 시장 관련 정보는 여행자에게 유용하며, 야시장 관광 명소로서의 가치를 강조하는 업데이트임.",
-      "event_info": {
-        "date": null,
-        "location": "짜뚜짝 주말 시장",
-        "price": "다양",
-        "location_google_map_query": "짜뚜짝 주말 시장"
-      },
+      "event_info": "{'date': None, 'location': '짜뚜짝 주말 시장', 'price': '다양', 'location_google_map_query': '짜뚜짝 주말 시장'}",
       "references": [
         {
           "title": "Thailand Positions Chatuchak Weekend Market as the World’s Most Iconic Night Market Driving Bangkok Tourism and Showcasing Thailand Night Markets – New Update - Travel And Tour World",
@@ -2756,21 +2745,18 @@
       ],
       "collected_at": "20:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPeVpMZE1pRDQyQ0JkSXdIeE1sQ2I4clpmaW9hQjk3UmhXOENCZWZFUkFlTlBBSXFxSkJ2aG15TFVhNk42V3Y3U1ZtSlZ1SkJaNnp0ZUxqcWRNQkRTSllBcUVyUzBjOHpDRmNSdldjbUZycmZob2xQNndCdk45X0Z4TTlpWmNFT0ZiaWZPWVpfbFpVUGJCcVlhYWtJWVRneVN6WlJVbDBwdFBQbHRaTGwwaE1zaV9WSW1sQjY4VkRYY1BpbzN5cVg2MmtPbXBmMXhvVk1VR18zZHN5ejhpdDRPRGJ2bllDNVNHb3RkV2oxRnY1UlU4T0hSa0pLbWZLV3NHRk9uckJ4bEEtMTdJaDdRSElBNzU4YmxCcHJJanJXUXBxRm1Nd2JnaDYxVV8?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 콘도 추락사: ASOS 창업자 전 부인, 사건 연루 부인 및 자녀 귀환 요청",
       "summary": "- 영국인 ASOS 공동 창업자 퀀틴 존 그리피스가 파타야 콘도에서 추락사.\n- 전 부인, 사건 연루설 부인하며 언론 인터뷰 통해 억울함 호소.\n- 자녀 양육권 분쟁 이후, 그리피스는 재혼했고 전 부인은 방콕 거주.",
       "full_translated": "태국 파타야에서 발생한 영국 국적 ASOS 공동 창업자 퀀틴 존 그리피스(58세)의 사망 사건과 관련하여, 그의 전 부인인 폴로이나팟 크리엥신타나쿨 여사가 사건 연루설을 강력히 부인하며 자녀들의 귀환을 요청했습니다. 2026년 2월 9일 발생한 이 사건은 그리피스가 파타야의 고급 콘도 17층에서 추락하여 사망한 것으로, 당시 경찰은 방이 안에서 잠겨 있었고 외부 침입이나 다툼의 흔적이 없어 자살 가능성에 무게를 두고 수사를 진행했습니다. 공식 부검 결과는 아직 나오지 않았습니다.\n\n2026년 2월 27일, 폴로이나팟 크리엥신타나쿨 여사는 파타야 지방 변호사 협회 사무실에서 쑥산 미싸찬 변호사와 함께 기자회견을 열었습니다. 그녀는 일부 해외 언론에서 제기된 자신의 사건 연루 가능성에 대해 강하게 부인하며, 이로 인한 정신적 고통을 호소했습니다. 미싸찬 변호사는 폴로이나팟 여사가 해외 언론의 보도에 충격을 받아 협회에 도움을 요청했다고 밝혔습니다. 그는 두 사람이 5년 이상 별거했으며, 그리피스는 재혼하여 새 가정을 꾸렸고 폴로이나팟 여사는 방콕에 거주하며 그의 사업이나 자산에 대해 전혀 알지 못한다고 설명했습니다. 과거 양육권 분쟁에서 아버지에게 양육권이 주어졌으나, 자녀들은 그리피스가 아닌 그의 새 아내와 함께 거주하는 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유명인 사망 사건이지만, 여행객 안전에 직접적인 위협은 없음. 파타야 관련 소식이므로 정보 제공 가치 존재.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "ASOS Founder’s Ex-Wife Denies Role in Pattaya Death, Pleads for Return of  Children",
@@ -2781,21 +2767,18 @@
       ],
       "collected_at": "20:51",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/02/1772286132122.jpg?v=1772286171",
-      "date": "2026-02-28"
+      "date": "2026-02-28",
+      "link": "https://thepattayanews.com/2026/02/28/asos-founders-ex-wife-denies-role-in-pattaya-death-pleads-for-return-of-children/",
+      "source": ""
     },
     {
       "title": "태국 금 거래 협회, 미국-이란 충돌로 인한 금 가격 급등에 거래 일시 중단 권고",
       "summary": "- 이스라엘-이란 충돌로 금 가격 급등 예상, 거래 일시 중단 권고.\n- 주말 동안 세계 금 시장 폐쇄로 인해 가격 변동성 커짐.\n- 상황 악화 시 금 가격 80,000바트까지 상승 가능성.",
       "full_translated": "태국 금 거래 협회는 중동 전쟁, 특히 이스라엘-미국의 이란 공격으로 인해 금 가격이 급등할 것으로 예상됨에 따라 거래를 일시 중단할 것을 권고했습니다. 상황이 악화될 경우 금 가격은 80,000바트에 이를 수 있습니다. 2월 28일, 태국 금 거래 협회 회장은 주말 동안 금괴 거래를 일시 중단한 이유가 이스라엘의 이란 공격 때문이라고 밝혔습니다. 이는 비정상적인 상황이며 전 세계 금 시장이 문을 닫는 토요일과 일요일에 발생하여 명확한 참조 가격이 없었습니다. 월요일 시장이 개장하면 금 가격이 온스당 150-200달러까지 급등할 수 있으며, 상황이 악화되면 국내 금 가격이 80,000바트에 도달할 수 있다고 예상됩니다. 협회는 구매자와 판매자 모두의 안전을 위해 월요일 가격 방향이 명확해질 때까지 기다릴 것을 권고합니다. 가격이 안정되지 않은 시기에 판매하면 소비자가 불리할 수 있습니다. 금은방은 정상적으로 영업하지만 금괴 거래 가격은 참조할 수 없습니다. 과거 경험에 따르면 전쟁이 발생하면 금 가격이 크게 상승하므로 상황을 면밀히 주시해야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "환율 및 금 가격 변동은 여행 예산에 영향을 미칠 수 있으므로 정보 제공. 전쟁으로 인한 영향이므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สมาคมค้าทองคำ แนะหยุดซื้อขายชั่วคราว เหตุสหรัฐโจมตีอิหร่าน ดันราคาทองจ่อพุ่งแรง",
@@ -2806,6 +2789,133 @@
       ],
       "collected_at": "20:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSSI2azWIbcl8.jpg",
+      "date": "2026-02-28",
+      "link": "https://www.thairath.co.th/news/local/2917094",
+      "source": ""
+    },
+    {
+      "title": "중동 지역 태국인 대상 경보 발령",
+      "summary": "- 태국 외무부는 중동 지역 내 갈등 심화 가능성에 대비, 자국민 안전 확보를 위한 조치 시행.\n- 이스라엘과 이란 주재 태국 대사관은 자국민에게 주의 권고 및 긴급 연락망 제공.\n- 고위험 지역 거주 태국인들에게는 가능한 한 빨리 해당 지역을 떠날 것을 권고.",
+      "full_translated": "태국 외무부는 중동 지역 갈등이 더욱 심화되어 해당 지역에 거주하는 태국 국민의 안전에 영향을 미칠 수 있는 상황에 대비하여 일련의 조치를 취했습니다. 시하삭 푸앙케트케우 외무장관은 토요일, 외무부가 해당 지역의 모든 대사관과 지속적으로 연락하여 상황을 면밀히 모니터링하고 평가하는 동시에 태국 국민에게 정보를 제공하고 있다고 밝혔습니다. 텔아비브와 테헤란 주재 태국 대사관은 불안 초기 단계부터 태국 국민에게 주의사항과 지침을 발표했습니다. 또한 태국 시민을 지원하기 위한 전용 핫라인을 개설했다고 시하삭 씨는 말했습니다. 이란에는 약 300명의 태국인이 거주하고 있으며, 대부분이 학생입니다. 약 4만 명의 태국인이 이스라엘에서 노동자로 생활하고 있습니다. 토요일 미국의 이스라엘의 테헤란 공격과 이란의 미국 기지에 대한 보복 공격에 따라 외무부는 고위험 지역, 특히 이란과 이스라엘에 거주하는 태국 국민들에게 가능한 한 빨리 해당 지역을 떠날 것을 촉구했습니다. 급한 필요가 없는 사람들에게도 분쟁으로 영향을 받는 지역으로의 여행 계획을 재고할 것을 권고했습니다. 이미 수십 개의 항공사가 예정된 항공편을 취소했으며 해당 지역의 국가들이 영공을 폐쇄했습니다. 외무부는 관련 기관과 긴밀히 협력하기 위한 워룸을 설치했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 긴장 고조로 인해 태국인의 안전에 대한 우려가 커지고 있으며, 이는 여행 계획에 영향을 미칠 수 있습니다. 특히 이스라엘, 이란 방문 계획이 있는 여행객은 반드시 확인해야 합니다. 시간 경과에 따른 상황 업데이트 발생.",
+      "event_info": {
+        "date": null,
+        "location": "중동 (주로 이란, 이스라엘)",
+        "price": null,
+        "location_google_map_query": "이란 이스라엘"
+      },
+      "references": [
+        {
+          "title": "Alert issued to Thai nationals in Mideast",
+          "url": "https://www.bangkokpost.com/thailand/general/3207105/alert-issued-to-thai-nationals-in-mideast",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207105_260228204813_700.jpg"
+        }
+      ],
+      "collected_at": "21:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260228/c1_3207105_260228204813_700.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국, 남파타야 위험에 대한 안전 경고 발령",
+      "summary": "- thetraveler.org에 따르면 태국이 남파타야 지역의 위험에 대한 안전 경고를 발령했습니다.\n- 구체적인 위험 요소에 대한 자세한 내용은 기사를 참조해야 합니다.\n- 여행자는 해당 지역 방문 시 안전에 유의해야 합니다.",
+      "full_translated": "Thailand Issues Safety Alert Over South Pattaya Risks&nbsp;&nbsp;thetraveler.org",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "파타야는 한국인 여행객이 많이 찾는 지역이므로 안전 관련 경고는 높은 우선순위를 가집니다. 특히 저녁 시간대에는 안전 관련 정보가 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "남파타야",
+        "price": null,
+        "location_google_map_query": "남파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand Issues Safety Alert Over South Pattaya Risks - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFk0REpPV0FlMkFIQjlrNXIwYWRxbnZ5QnNZZDNZMFhuM0RLWWl0MWQ1WUgtd1ZZU2dsYWpGM1N6akhHYXNjS1FBcXVpZlZZWGtqY1o3OU11VDBJYXVPMWcwRF9sdGNTSkpMQzJ2NGNjalJmT0JxaXdTSF9pZ3dHSVg2SzREVHNqS1E?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:14",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 정부, 이스라엘-UAE 내 태국 노동자 보호 강화 및 필요시 대피 준비",
+      "summary": "- 태국 노동부 장관, 이스라엘과 UAE 주재 태국 대사관에 노동자 보호 지시\n- 중동 긴장 고조에 따라 노동자 안전에 대한 우려 증가\n- 필요한 경우 즉시 대피할 수 있도록 준비하고, 가족들에게 과도한 걱정 자제 당부",
+      "full_translated": "태국 노동부 장관은 아부다비와 텔아비브 주재 태국 대사에게 태국 노동자들을 돌볼 것을 지시하고, 경계를 강화하도록 경고했습니다. 만약 폭력이 심화되어 대피가 필요한 경우 즉시 조치를 취할 것을 지시하며, 가족들에게는 지나치게 동요하지 말 것을 요청했습니다. 태국 정부는 최선을 다해 보호하고 있습니다. 2026년 2월 28일, 노동부 장관인 트리눗 티안통은 중동의 긴장된 상황 이후 이스라엘 내 태국 노동자들에 대한 우려를 표명했습니다. 분쟁이 격화되고 확산되어 해당 지역에 거주하는 태국 노동자들의 복지에 영향을 미칠 수 있다는 우려 때문입니다. 트리눗은 아부다비 주재 태국 왕립 대사관 노동 사무소와 텔아비브 주재 태국 왕립 대사관 노동 담당관에게 상황을 면밀히 주시하고 태국 노동자들에게 영향을 미치는 심각한 사건이 발생할 경우 태국 노동자들을 돌볼 준비를 하라고 지시했습니다. 노동 담당관은 이미 태국 노동자들에게 여행 시 경계를 강화하고 태국 노동자 그룹과 지속적으로 협력하도록 경고했습니다. 사건이 심각해져 대피가 필요한 경우 즉시 조치를 취할 수 있습니다. 트리눗은 또한 테헤란 주재 태국 왕립 대사관/아부다비 주재 노동 담당관 및 이란 당국의 뉴스를 면밀히 주시하도록 태국 노동자들에게 홍보했습니다. 이란 내 태국 노동자들이 도움이 필요한 경우 아부다비 주재 태국 왕립 대사관 노동 담당관(+971) 2557 6833 또는 테헤란 주재 태국 왕립 대사관 (+98) 912 500 7933 또는 (+98) 912 159 8699 또는 영사부 콜센터 (+66)으로 연락할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 긴장 고조로 인한 태국 노동자 안전에 대한 우려 증가. 여행 안전에 대한 잠재적 영향 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ตรีนุช” ยันรัฐบาลดูแลแรงงานไทยในอิสราเอล-UAE เต็มที่ สั่งทูตหากจำเป็นต้องอพยพให้รีบทำ",
+          "url": "https://www.thairath.co.th/news/politic/2917099",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRLthQ9hzkbe.jpg"
+        }
+      ],
+      "collected_at": "21:14",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSRLthQ9hzkbe.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국-캄보디아 국경 지역, 군부대 안전 강화 및 경계 태세 강화",
+      "summary": "- 제2군 사령관, 태국-캄보디아 국경 지역 방문하여 군부대 안전 점검\n- 병력 안전을 최우선으로 강조하고, 경계 태세 강화 지시\n- 국경 지역 근무자들에게 생필품 전달하며 사기 진작",
+      "full_translated": "제2군 사령관, 제2임무부대 관할 태국-캄보디아 국경 지역 방문. 병력 안전을 강조하고 경계 태세를 강화했습니다. 2069년 2월 28일, 위라윳 락신 제2군 사령관은 제2임무부대 관할 태국-캄보디아 국경 지역을 방문하여 안보 상황과 병력 준비 태세를 점검했습니다. 경계 태세가 유지되는 가운데 진행된 이번 방문에서 제2군 사령관은 모든 부대에 병력 안전을 최우선으로 하는 조치를 강화할 것을 지시했습니다. 또한, 전력, 정보, 작전 등 모든 분야에서 상황 변화에 대비할 것을 강조했습니다. 특히 국경 지역은 중요한 전략적 요충지입니다. 이와 더불어 국경 지역에서 임무를 수행하는 병사들에게 생필품을 전달하여 사기를 높였습니다. 이는 지휘관의 관심과 최전선 병력에 대한 세심한 배려를 반영합니다. 이번 방문은 태국-캄보디아 국경 지역의 안보를 책임지는 제2군의 준비 태세를 강조하고, 국가 주권과 질서 유지를 위한 지속적인 노력을 보여줍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "국경 지역 안보 강화는 여행객 안전에 간접적인 영향을 미치지만, 직접적인 위협은 아니므로 중간 점수 부여. 현재 시각 저녁이므로 오늘 발생한 사건 위주로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "แม่ทัพภาคที่ 2 ตรวจชายแดนไทย-กัมพูชา กำชับความปลอดภัยกำลังพล รับมือสถานการณ์เฝ้าระวัง",
+          "url": "https://www.thairath.co.th/news/local/2917104",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYLdyZyA8WCD.jpg"
+        }
+      ],
+      "collected_at": "21:14",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyYLdyZyA8WCD.jpg",
+      "date": "2026-02-28"
+    },
+    {
+      "title": "태국 금은방, 이스라엘-미국의 이란 공격 후 잠잠…3월 2일 시장 개장 기대",
+      "summary": "- 이스라엘과 미국의 이란 공격으로 금 가격 변동성이 커진 가운데, 방콕 야오와랏 지역 금은방들은 평소처럼 저녁 5시에 문을 닫음.\n- 대부분의 금은방은 소셜 미디어를 통해 금 매매 중단 여부를 공지하고 있으며, 3월 1일에 문을 열지 여부를 주시하고 있음.\n- 금 거래는 주로 주중에 활발하며, 3월 2일(월) 이스라엘 상황이 안정되지 않으면 금 매매에 신중을 기할 것으로 예상됨.",
+      "full_translated": "2069년 2월 28일, 이스라엘과 미국의 이란 공격으로 금 가격 변동성이 커진 상황에서, 뉴스팀은 야오와랏 지역 금은방을 조사했습니다. 대부분의 금은방은 평소처럼 저녁 5시에 문을 닫기 시작했지만, 금 매매 중단을 알리는 표지판을 내걸지 않았습니다. 대부분 소셜 미디어를 통해 공지하는 것을 선호합니다.\n\n야오와랏 상인 완차이 자룬잉용 씨는 주말에는 금은방이 활발하지 않다고 말했습니다. 금 거래자들은 주중에 금을 사고팔기를 기다리는 경향이 있는데, 주말보다 가격 변동이 더 잦기 때문입니다. 3월 1일에는 어떤 금은방이 금을 사고팔 용기가 있을지 지켜봐야 합니다. 대부분은 문을 닫을 것이라고 발표했으며, 이스라엘 상황이 정상으로 돌아오지 않으면 3월 2일에 어떤 금은방이 금을 사고팔 용기가 있을지 지켜봐야 합니다. 금 거래자들은 주말보다 월요일 아침에 목표를 두는 경향이 있는데, 금 가격이 월요일 아침에 오르는 경향이 있기 때문입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객들이 금 거래에 직접적인 영향을 받을 가능성은 낮지만, 환율 변동과 연관될 수 있고, 야오와랏 방문 시 참고할 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2069-03-02",
+        "location": "야오와랏",
+        "price": "변동",
+        "location_google_map_query": "Yaowarat Bangkok"
+      },
+      "references": [
+        {
+          "title": "ร้านทองยังเงียบ หลังอิสราเอล-สหรัฐ โจมตีอิหร่าน ลุ้นเปิดตลาด 2 มี.ค. 69",
+          "url": "https://www.thairath.co.th/news/local/2917091",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSR0sedX7Qmop.jpg"
+        }
+      ],
+      "collected_at": "21:14",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLdSR0sedX7Qmop.jpg",
       "date": "2026-02-28"
     }
   ]
