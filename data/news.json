@@ -6640,14 +6640,9 @@
       "summary": "- 타이항공, 방콕항공, 에어아시아, 에미레이트 항공 등 항공편 지연 및 취소 발생\n- 총 325편 지연, 50편 취소로 여행객 불편 가중\n- 자세한 내용은 Travel And Tour World에서 확인 가능",
       "full_translated": "태국 전역에서 항공편 지연 및 취소가 속출하며 여행객들이 발이 묶였습니다. 타이항공, 방콕항공, 에어아시아, 에미레이트 항공의 싱가포르, 도쿄, 두바이, 쿠알라룸푸르행 항공편 운항에 차질이 발생했습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "공항 혼잡 및 항공편 지연/취소는 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 특히 국제선 운항 차질은 여행 일정에 큰 혼란을 야기할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Travellers Grounded Across Thailand as 325 Flight Delays and 50 Cancellations Disrupt Thai Airways, Bangkok Airways, AirAsia and Emirates Flights to Singapore, Tokyo, Dubai and Kuala Lumpur - Travel And Tour World",
@@ -6656,8 +6651,33 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:21",
+      "collected_at": "1:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQWmFyMElVaDN4QU1HaGt4amNydExyLThBRmUxVEozNjVSNHUyWVJYV2VDaGxvLVhhM2t0NEVQRnV5a1BpR3RYaTNlcmlLSFViVm1rWnhnNWxGckM3WldOWDlUVWpkRzg5M1o2RTIzNTd0VFE3cnk3VmxYYWJ0ZjZPcmZsLUdPUTRZUUdkaDdKMGg4ZlBXeEZPN2pJRmtSZDFEb2ZyWDgtRGpGbkZhd1hpSHZLVXY5YTRiRnJMLVJRY1JrZjFCSDM0THNjaFQ2TVJyT0Z2TVA1M2ZmU3BsTlZBVzlERUE3M1ZOXzVyQ3llU3FhdG9iTERaTFo3ZmZKSUdrSTY4OVp3TFJqRWdKTkRQYnRtVFowYXY5Y3dGZUczcmJJZGhwQ0lUMTV4YTB3UVBHdk9TNTZpekx2RGo2c0tQV3RHMV92cjBNWmZnWWNqelRTVThM?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란 공격 후 빠이 경찰 경계 태세 강화",
+      "summary": "- 이란의 공격 이후, 태국 빠이 지역 경찰이 경계 태세를 강화했습니다.\n- 빠이는 외국인 관광객이 많이 찾는 지역으로, 만일의 사태에 대비하고 있습니다.\n- 현재까지 특별한 이상 징후는 없으나, 예방 차원에서 순찰을 강화할 예정입니다.",
+      "full_translated": "이란의 공격 이후, 태국 빠이 지역 경찰이 경계 태세를 강화했습니다. 빠이는 외국인 관광객이 많이 찾는 지역으로, 만일의 사태에 대비하고 있습니다. 현재까지 특별한 이상 징후는 없으나, 예방 차원에서 순찰을 강화할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 밀집 지역인 빠이의 경계 강화는 여행객 안전에 대한 직접적인 영향을 미침. 잠재적 위험에 대한 대비 필요.",
+      "event_info": {
+        "date": null,
+        "location": "빠이",
+        "price": null,
+        "location_google_map_query": "Pai, Thailand"
+      },
+      "references": [
+        {
+          "title": "Pai cops on alert after Iran hit - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMiOmh0dHBzOi8vd3d3LmJhbmdrb2twb3N0LmNvbS90aGFpbGFuZC9nZW5lcmFsLzI3NzU3ODUvcGFpLWNvcHMtb24tYWxlcnQtYWZ0ZXItaXJhbi1oaXTSAQEA?oc=5",
+          "source": "Bangkok Post"
+        }
+      ],
+      "collected_at": "01:55",
       "date": "2026-03-02"
     }
   ]
