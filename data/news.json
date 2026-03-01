@@ -5914,14 +5914,9 @@
       "summary": "- 파타야에서 2월 26일 밤, 주차된 차량 두 대의 타이어가 고의로 펑크나는 사건 발생\n- 피해자는 러시아 국적 여성과 남성, 차량은 포드 세단과 미니 쿠퍼\n- 경찰은 주변 택시 기사들을 조사 중이며, CCTV를 통해 용의자 추적 예정",
       "full_translated": "파타야 지역에서 차량 두 대가 타이어 펑크로 인해 표적이 된 것으로 보이는 파손 행위가 발생했습니다.\n\n사건은 2026년 2월 26일 밤 9시경 파타야 중심부의 파타야 패드 콘도 지역 근처, 쏘이 수쿰윗 파타야 싸씹썽에서 발생했습니다. 파타야 시 경찰서의 당직 검사관인 폴. 리. 콜. 피라윳 보리수티탐은 보고를 받고 즉시 순찰관을 현장에 파견했습니다.\n\n현장에 도착한 경찰은 촌부리 번호판 커처 육이팔일가 부착된 포드 세단의 소유주인 러시아 국적 여성 리사 씨(성 미공개)와 방콕 번호판 혹 커너 이공이일이 부착된 미니 쿠퍼의 소유주인 A 씨(이름 미공개)를 발견했습니다. 두 차량 모두 모든 타이어가 완전히 펑크난 채 주차되어 있어 움직일 수 없었습니다.\n\n익명을 요구한 한 목격자는 용의자가 모바일 앱을 통해 승객을 기다리기 위해 인근에 자주 주차하는 여러 차량 호출 운전자 중 한 명인 것으로 보인다고 경찰에 말했습니다. 경찰은 인근 앱 기반 운전자 약 10명에게 질문했지만, 그들 모두 사건에 대한 지식이나 관여를 부인했습니다.\n\n점검 중 경찰은 현장에 있던 사람들의 신분증과 차량 등록 서류를 확인했습니다. 두 대의 오토바이는 적절한 서류가 없는 것으로 밝혀져 경찰은 추가 확인을 위해 압수했습니다.\n\n당국은 피해자들에게 공식 기록을 남기기 위해 파타야 시 경찰서에 공식 불만을 제기하도록 조언했습니다. 수사관은 적절한 법적 조치를 위해 책임자를 식별하고 체포하기 위해 인근 CCTV 영상을 검토하기 위해 수사팀과 협력할 계획입니다.\n\n이러한 타이어 펑크 행위는,",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 가능성, 여행객 안전에 영향을 줄 수 있어 포함. 파타야 지역에서 발생.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Two Vehicles Targeted in Suspected Vandalism as Tires Deflated in Pattaya Area",
@@ -5932,21 +5927,18 @@
       ],
       "collected_at": "20:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1772366798623.jpg?v=1772366843",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://thepattayanews.com/2026/03/01/two-vehicles-targeted-in-suspected-vandalism-as-tires-deflated-in-pattaya-area/",
+      "source": ""
     },
     {
       "title": "파타야, 영국인 셰프 대상 2백만 바트 주택 침입 강도 사건 수사 진행 중, 5명 구금",
       "summary": "- 파타야에서 영국인 셰프의 집에 강도가 침입하여 2백만 바트 상당의 현금을 훔쳐 달아났습니다.\n- 경찰은 용의자 5명을 구금하고 집중 수사를 진행하고 있습니다.\n- 범인들은 피해자를 칼로 위협하고 금고를 훔쳐 달아나는 등 치밀한 범행을 계획했습니다.",
       "full_translated": "2026년 2월 26일 새벽, 촌부리 초크차이 빌리지 9 주택 단지의 2층 타운하우스에서 사건이 발생했습니다. 검은 옷을 입고 얼굴을 가린 3명의 용의자가 해외에서 셰프로 일하는 32세 영국 국적 웨슬리 시릴 러셀과 그의 34세 태국인 아내의 집에 침입했습니다. 칼로 무장한 강도들은 러셀의 목에 칼을 대고 현금 위치를 요구했습니다. 그들은 피해자들과 당시 함께 있던 영국인 친구를 부엌으로 몰아넣고 아이폰 2대(모델 16, 14)를 빼앗은 뒤 2층 침실 옷장에 숨겨진 금고를 찾아 제거했습니다. 금고에는 부부가 집을 사기 위해 은행에서 인출한 2백만 바트(약 45,000파운드) 이상의 현금이 들어 있었습니다. 일당은 금고를 검은색 4도어 포드 픽업트럭에 싣고 현장을 달아났습니다. 농프루 경찰서 경찰은 촌부리 지방 경찰, 출입국 경찰, 관광 경찰 수사관들과 함께 집중 수사에 착수했습니다. 감시 영상 분석 결과, '분노의 질주' 영화에서 볼 수 있는 고속 회피 장면과 유사하게 추격자들을 혼란시키기 위해 3대의 차량을 이용하는 정교한 탈출 계획이 드러났습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협으로 간주.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 초크차이 빌리지 9 주택 단지",
-        "price": null,
-        "location_google_map_query": "Chokchai Village 9, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야 초크차이 빌리지 9 주택 단지', 'price': None, 'location_google_map_query': 'Chokchai Village 9, Pattaya'}",
       "references": [
         {
           "title": "Investigation Into Two Million Baht Home Invasion Robbery of British Chef in Pattaya Continues, Five People of Interest Detained",
@@ -5957,21 +5949,18 @@
       ],
       "collected_at": "20:53",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17723648857177094582810425933337.jpg?v=1772364970",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://thepattayanews.com/2026/03/01/investigation-into-two-million-baht-home-invasion-robbery-of-british-chef-in-pattaya-continues-five-people-of-interest-detained/",
+      "source": ""
     },
     {
       "title": "태국 총리, 지뢰 사고로 부상당한 군인 위문 방문",
       "summary": "- 아누틴 총리가 수린 지역의 지뢰 폭발 사고로 부상당한 군인을 위문 방문함.\n- 군인은 국가를 위해 봉사할 수 있어 기쁘다고 밝힘.\n- 총리는 군인과 가족에게 위로와 격려를 전하고 빠른 쾌유를 기원함.",
       "full_translated": "아누틴 총리와 내각은 국경 지대에서 지뢰를 밟아 부상당한 군인을 위문하며, 태국 내에서 심각한 사건이 발생할 경우 군대가 완전히 준비되어 있다고 밝혔습니다. 2026년 3월 1일 오후 4시 55분, 수린 병원에서 아누틴 차른비라쿨 총리 겸 내무부 장관, 소폰 사람 부총리, 아둔 분탐차른 국방부 차관이 2월 27일 층 지역 에라완 작전 기지 통제 구역에서 근무 중 대인 지뢰를 밟아 부상당한 데차삭 트리캄 병장을 위문했습니다. 이 사고로 인해 오른쪽 다리가 폭발로 절단되었고, 왼쪽 다리에는 큰 열린 상처와 함께 뼈가 부러졌습니다. 현재 의료팀의 집중 치료를 받고 있습니다. 총리는 국민들에게 인사를 나눈 후 데차삭 병장을 방문했습니다. 데차삭 병장은 국가를 위해 봉사할 수 있어서 기쁘다고 말하며, 최전선에서 근무하는 군인들에게 응원을 보냈습니다. 아누틴 총리의 방문에 감사를 표했습니다. 데차삭 병장의 어머니인 암카 트리캄은 고향인 시사켓 주 칸타람 지역에서 소식을 듣고 걱정이 많았지만, 아들이 안전하고 국가를 지키는 데 일조한 것이 자랑스럽다고 밝혔습니다. 아둔 중장은 데차삭 병장과 가족에게 위로금과 위문품을 전달하며 빠른 쾌유를 기원했습니다.\n\n아누틴 총리는 현재 국경 상황이 긴장되어 있고, 언제든지...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 국경 지역의 안전 문제를 간접적으로 시사하나, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "นายกฯ เยี่ยมให้กำลังใจ “พลทหารเดชศักดิ์” เหยียบทุ่นระเบิดชายแดน",
@@ -5982,6 +5971,103 @@
       ],
       "collected_at": "20:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZp3HiRQqDd0K.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/politic/2917261",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 60일에서 30일로 단축 고려",
+      "summary": "- 태국 정부가 무비자 체류 가능 기간을 단축하는 방안을 검토 중입니다.\n- 현재 60일에서 30일로 줄이는 것을 고려하고 있습니다.\n- 이는 태국을 방문하는 여행자들에게 영향을 미칠 수 있습니다.",
+      "full_translated": "태국 정부는 무비자 체류 가능 기간을 60일에서 30일로 단축하는 방안을 고려하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 변경될 경우 여행 계획에 차질이 생길 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Considers Reducing Visa-Free Stays from 60 Days to 30 Days - Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1V3S29hSWMya0pqc3ZQRXB6aXByNEEwZ3ZidVRBeFhuZGVCTXo1MGQzeWxzQ3ZoWEhYVVdQb2lOc3NfbFp0dHVqRUpUdVQtd1lCMG95VXJBRzlUNVhyWUZqcWNsWjFXYlFSaVg5MWpiQ1Jxb2ljVnBlalZOOXh3cE1xQXR6RWNfUS15SXp6OGN0ZS0zMmdGd0xVMWdNUi02OHhoYlk1VG1kaVN5Mm1xWVhB?oc=5",
+          "source": "Thailand Business News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란, 최고 지도자 사망 후 '지도자 협의회' 구성",
+      "summary": "- 이란 정부는 최고 지도자 알리 하메네이 사망 후 국가 운영을 위한 임시 지도자 협의회를 구성했습니다.\n- 협의회는 대통령, 사법부 수장, 성직자로 구성되어 있으며, 새 지도자가 선출될 때까지 임무를 수행합니다.\n- 이번 조치는 미국과 이스라엘의 공격으로 하메네이 지도자가 사망한 데 따른 것입니다.",
+      "full_translated": "이란은 알리 하메네이 최고 지도자가 미국과 이스라엘의 공격으로 사망한 후, 국가를 운영하기 위한 '지도자 협의회'를 구성했습니다. 외신 보도에 따르면 이란 정부는 토요일 발생한 공습으로 최고 지도자가 사망한 후 임시로 국가를 관리할 '지도자 협의회'를 구성한다고 발표했습니다. 이란 헌법에 따르면 최고 지도자가 더 이상 직무를 수행할 수 없을 경우, 대통령, 사법부 수장, 그리고 '수호 위원회'의 고위 성직자로 구성된 임시 협의회를 구성하여 88명의 전문가 협의회가 새로운 지도자를 선출할 때까지 그 기능을 수행하도록 합니다. 이 협의회는 전문가 협의회 부의장인 아야톨라 알리레자 아라피, 이란 대통령 마수드 페세츠키안, 사법부 수장 골람-호세인 모흐세니-에제이로 구성됩니다. 아야톨라 알리레자 아라피는 정부 기관에서 오랜 경력을 쌓았고 하메네이의 신뢰를 받는 측근으로 알려져 있습니다. 그는 현재 전문가 협의회 부의장이자 선거 후보 자격을 심사하고 의회가 통과시킨 법률을 심의할 권한이 있는 기관인 수호 위원회의 위원이기도 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "이란의 정치적 상황 변화는 잠재적으로 여행에 영향을 미칠 수 있으나, 즉각적인 위협은 아니라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านจัดตั้ง “สภาผู้นำ” บริหารประเทศ หลังคาเมเนอีถูกสังหาร",
+          "url": "https://www.thairath.co.th/news/foreign/2917267",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqHnpkANRy2u.jpg"
+        }
+      ],
+      "collected_at": "21:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqHnpkANRy2u.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "촌부리, 전 해군 장교의 새로운 농가 카페 '반 라이 나이 르아' 개장",
+      "summary": "- 전 해군 장교이자 지방 행정 기구 위원인 Yutthana Rak Khwam Dee가 새로운 농가 카페 '반 라이 나이 르아'를 개장했습니다.\n- 개장 기념 행사에는 지역 유지 및 많은 하객이 참석하여 축하와 응원을 보냈습니다.\n- 4에이커 규모의 사유지에 위치한 '반 라이 나이 르아'는 자연과 정원에 대한 그의 열정을 담아 조성되었습니다.",
+      "full_translated": "전 해군 장교이자 현재 Takhian Tia Subdistrict Administrative Organization Council 위원인 Yutthana Rak Khwam Dee 씨는 그의 새로운 사업장인 “Baan Rai Nai Ruea”의 공식 개장을 앞두고 상서로운 날을 기념하기 위해 전통적인 공덕 쌓기 및 축복 행사를 주최했습니다. 이 행사에는 많은 저명한 손님들과 지역 인사들이 참석하여 축하와 축복을 보냈습니다. 참석자 중에는 Takhian Tia Subdistrict Municipality 시장 Mitchai Prakobtham 씨, Wachira Suecho 부시장, Khwanyuen Prakobtham 부시장, Chonburi Provincial Administrative Organization Council 위원 Malinee Singhasuwich 씨, Nong Pla Lai Subdistrict 전 시장 Phinyo Hom Klan 씨, Moo 3 마을 이장 Som yot Tokiri 씨가 있었습니다. 또한 Takhian Tia 시장 수석 고문인 Charan Prakobtham 씨는 그의 가족과 함께 축하 행사에 참여했으며, Subdistrict Council 의장 Songwut Prakobtham 씨와 정치인, 정부 관료, 의회 의원 및 수많은 귀빈들이 공덕 쌓기에 참여하고 새로운 사업의 성공을 기원했습니다. “Baan Rai Nai Ruea”는 Yutthana 씨가 소유한 10 rai (약 4 에이커) 이상의 사유지에 위치하고 있습니다. 전 해군 장교로서의 배경과 자연 및 정원에 대한 그의 깊은 열정을 바탕으로 그는 이 고요한 땅을 매력적인 농가로 탈바꿈시킬 것을 구상했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "새로운 카페 정보는 여행자들에게 흥미로운 선택지를 제공할 수 있습니다. 특히, 지역색을 느낄 수 있는 장소라는 점에서 가치가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "Baan Rai Nai Ruea, Takhian Tia",
+        "price": null,
+        "location_google_map_query": "Baan Rai Nai Ruea Takhian Tia"
+      },
+      "references": [
+        {
+          "title": "Former Royal Thai Navy Officer Blesses and Opens New Farmhouse Cafe “Baan Rai Nai Ruea” in Takhian Tia",
+          "url": "https://thepattayanews.com/2026/03/01/former-royal-thai-navy-officer-blesses-and-opens-new-farmhouse-cafe-baan-rai-nai-ruea-in-takhian-tia/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17723680872327200200176017446015.jpg?v=1772368156"
+        }
+      ],
+      "collected_at": "21:17",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17723680872327200200176017446015.jpg?v=1772368156",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "AWC, 2025년 기록적인 성장 달성",
+      "summary": "- AWC는 2025년에 기록적인 성장을 달성했습니다.\n- 자세한 내용은 markets.businessinsider.com에서 확인할 수 있습니다.\n- 태국 여행 및 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "AWC Achieves Record-Breaking Growth in 2025  markets.businessinsider.com",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "AWC의 성장이 태국 관광 산업에 간접적으로 영향을 줄 수 있으나, 직접적인 영향은 미미하다고 판단.",
+      "event_info": {},
+      "references": [
+        {
+          "title": "AWC Achieves Record-Breaking Growth in 2025 - markets.businessinsider.com",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWE2VlA2TWowTWpVMDFpZC1KSXU4NU1xaHpZNW81Rm5YZ0tnWGZ2enloM1Fqb3JKN0c2X3ZqTFJQXy1xTjFEcFlfdmRrd1lRX2VwdFRrT1VObTRtbThHNDRTbXBsM0cxQ2JYU1kwcXF2amhxaUpGYmc1ZEp6aHJTTF9rUDltZnpyck9CekZkOU9HV1l6ZEFkTEFyVldQTVFtZU0ybw?oc=5",
+          "source": "markets.businessinsider.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
   ]
