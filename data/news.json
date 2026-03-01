@@ -6748,8 +6748,29 @@
       "summary": "- 태국 정부는 중동 지역의 긴장이 고조됨에 따라 자국민 대피 계획을 준비하고 있습니다.\n- 현지 상황을 주시하며 필요한 경우 대피를 지원할 예정입니다.\n- 대피 계획에는 항공편 및 기타 운송 수단 마련이 포함됩니다.",
       "full_translated": "태국은 중동 지역의 자국민들을 위한 대피 계획을 준비하고 있습니다. 상황이 악화될 경우를 대비하여 필요한 조치를 취할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장 고조로 인한 잠재적 위험에 대비하는 태국 정부의 움직임. 이미 게시된 내용이지만, 상황이 계속 업데이트되고 있으므로 재확인 차원에서 포함. 여행객 안전에 대한 간접적 영향.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand prepares evacuation plan for citizens in Middle East",
+          "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJhbmdrb2tvc3QuY29tL2dvYmFsL2dlbmVyYWwvMjczODQyNC90aGFpbGFuZC1wcmVwYXJlcy1ldmFjdWF0aW9uLXBsYW4tZm9yLWNpdGl6ZW5zLWluLW1pZGRsZS1lYXN0?oc=5",
+          "source": "Bangkok Post"
+        }
+      ],
+      "collected_at": "3:16",
+      "image_url": "",
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJhbmdrb2tvc3QuY29tL2dvYmFsL2dlbmVyYWwvMjczODQyNC90aGFpbGFuZC1wcmVwYXJlcy1ldmFjdWF0aW9uLXBsYW4tZm9yLWNpdGl6ZW5zLWluLW1pZGRsZS1lYXN0?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 관광청, 중동 긴장 속 위기 대응 센터 활성화",
+      "summary": "- 태국 관광청(TAT)은 중동 지역 긴장 고조에 따라 관광 위기 모니터링 센터를 활성화했습니다.\n- 이는 관광 산업에 미치는 영향을 최소화하고 관광 회복과 국내 성장에 집중하기 위한 조치입니다.\n- 중동 지역의 상황을 주시하며 필요한 경우 자국민 대피 계획을 준비하고 있습니다.",
+      "full_translated": "태국 관광청은 중동 지역의 긴장 고조에 대응하여 관광 위기 모니터링 센터를 활성화했습니다. 이는 관광 산업에 미치는 혼란을 최소화하는 동시에 관광 회복과 국내 성장에 집중하기 위한 노력의 일환입니다. 관광청은 상황을 면밀히 주시하면서 필요한 경우 자국민 대피 계획을 준비하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 긴장 고조에 따른 잠재적 여행 차질 가능성에 대비하는 태국 관광청의 노력은 여행객에게 중요한 정보입니다. 위기 발생 시 적절한 대응을 통해 여행 안전을 확보하려는 의지를 보여줍니다.",
       "event_info": {
         "date": null,
         "location": null,
@@ -6758,12 +6779,37 @@
       },
       "references": [
         {
-          "title": "Thailand prepares evacuation plan for citizens in Middle East",
-          "url": "https://news.google.com/rss/articles/CBMiYGh0dHBzOi8vd3d3LmJhbmdrb2tvc3QuY29tL2dvYmFsL2dlbmVyYWwvMjczODQyNC90aGFpbGFuZC1wcmVwYXJlcy1ldmFjdWF0aW9uLXBsYW4tZm9yLWNpdGl6ZW5zLWluLW1pZGRsZS1lYXN0?oc=5",
-          "source": "Bangkok Post"
+          "title": "TAT activates Tourism Crisis Monitoring Centre in response to Middle East tensions - tatnews.org",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX2JYWkxTSHNUZnJVWjE0NlBFMWxaeFlPck9IM3Z5elY3SEEtZVRnZVM4UE1oRi1BYjJ0em1aTE0xX3Nqbk9aS2I0THgwczE2Y21FZ3BLcnVpb09jTmVoaGFmM2laeEEtd0xtSjhxZkdOSlZRcldLSkNYYjFtVFBoc0NvR0ktNEdDQl9WVy1LckM3ekZlZWdzSWc2WThrRWM1cTVEN0JPN1VvcWVfVTZkcGt0Z0o5dw?oc=5",
+          "source": "tatnews.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "03:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "태국 관광청, 중동 긴장 속 위기 대응 강화: 여행 회복 및 국내 성장 집중",
+      "summary": "- 태국 관광청(TAT)은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화했습니다.\n- 여행 산업에 미치는 영향을 최소화하고, 국내 관광 성장에 집중할 계획입니다.\n- TAT는 상황을 주시하며 필요한 조치를 취할 것이라고 밝혔습니다.",
+      "full_translated": "태국 관광청은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화하고, 여행 산업에 미치는 영향을 최소화하면서 국내 관광 성장에 집중할 것이라고 밝혔습니다. 상황을 주시하며 필요한 조치를 취할 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 긴장 고조로 인한 잠재적 여행 차질 가능성, 위기 대응 및 국내 관광 집중 계획 발표는 여행객에게 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism Authority of Thailand Activates Crisis Response Amid Middle East Tensions, Ensuring Minimal Disruption While Focusing on Tourism Recovery and Domestic Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiQFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQubmV0L3RvdXJpc20tYXV0aG9yaXR5LW9mLXRoYWlsYW5kLWFjdGl2YXRlcy1jcmlzaXMtcmVzcG9uc2UtYW1pZC1taWRkbGUtZWFzdC10ZW5zaW9ucy1lbnN1cmluZy1taW5pbWFsLWRpc3J1cHRpb24td2hpbGUtZm9jdXNpbmctb24tdG91cmlzbS1yZWNvdmVyeS1hbmQtZG9tZXN0aWMtZ3Jvd3RoL9IBAA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "03:46",
       "date": "2026-03-02"
     }
   ]
