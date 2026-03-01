@@ -5520,14 +5520,9 @@
       "summary": "- 태국 정부, 2026년 모토GP 개최를 통해 경제 활성화 기대.\n- 아누틴 총리, 네윈과 함께 부리람에서 열린 모토GP 개막식 참석.\n- 경기장 주변 오케스트라 공연 등 다채로운 행사 진행.",
       "full_translated": "아누틴 총리와 네윈이 모토GP 개막식에 참석하여 50억 바트 이상의 경제 효과를 기대하며 태국이 세계적으로 유명해질 것이라고 밝혔습니다. 2026년 3월 1일 11시 35분, 아누틴 찬위라꾼 총리는 타논 니라밋 여사와 함께 부리람 인터내셔널 서킷에 도착하여 야마하 부스를 방문했습니다. 총리는 레이싱카에 시승해보기도 했습니다. 이후 핫 부스와 두카티 부스, 창 부스를 방문했습니다. 14시 45분, 총리는 모토GP 개막식에 참석하여 개회를 선언했습니다. 개막식에는 그림자 인형극과 오케스트라 연주가 있었습니다. 16시에는 총리가 시상식에 참석했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "모토GP는 국제적인 행사이며, 개최는 관광객 유치 및 지역 경제 활성화에 기여할 수 있다. 다만, 2026년 개최 예정이므로 현재 시점에서는 직접적인 영향은 제한적이다.",
-      "event_info": {
-        "date": "2026-03-01",
-        "location": "부리람 인터내셔널 서킷",
-        "price": "미정",
-        "location_google_map_query": "부리람 인터내셔널 서킷"
-      },
+      "event_info": "{'date': '2026-03-01', 'location': '부리람 인터내셔널 서킷', 'price': '미정', 'location_google_map_query': '부리람 인터내셔널 서킷'}",
       "references": [
         {
           "title": "“อนุทิน” ควง “เนวิน” เปิดงานโมโตจีพี  ชี้เงินสะพัดทะลุ 5,000 ล้าน ทำไทยดังทั่วโลก",
@@ -5538,21 +5533,18 @@
       ],
       "collected_at": "17:48",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNLGWEZDDvnh7kKd.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/politic/2917245",
+      "source": ""
     },
     {
       "title": "태국 여성, 한 церемонии에서 오스트리아 남성 2명과 결혼",
       "summary": "- 태국 여성, 두 명의 오스트리아 남성과 결혼하여 화제.\n- 신부 두안 케트사로는 전 싱어송라이터이며, 은퇴한 경찰관 로만과 현직 경찰관 매키와 결혼.\n- 세 사람은 서로를 이해하고 함께 삶을 살기로 합의.",
       "full_translated": "부리람 — 37세의 태국 여성이 프라콘차이 지역에서 한 церемонии에서 두 명의 오스트리아 남성과 결혼하여 широкое внимание привлекла. 이전 독립 싱어송라이터였던 두안 케트사로(Gig)는 은퇴한 오스트리아 경찰관 로만과 현재 오스트리아 경찰로 복무 중인 매키와 결혼했습니다. 두 신랑은 같은 여자를 사랑하게 되어 함께 삶을 꾸려나가기로 합의한 절친한 친구입니다. 2월 28일에 열린 결혼식은 친척, 이웃, 가까운 친구들이 참석한 가운데 소박한 현지 스타일 церемонии로 진행되었습니다. 소규모임에도 불구하고 행사는 따뜻함과 축제로 가득했습니다. 바이 스리 수 쿠완 축복과 손목 묶기 церемонии를 포함한 전통 의식을 마친 후 두 신랑은 우정과 공유된 기쁨을 상징하며 함께 연못에 뛰어들었습니다. 두안은 그녀의 реальная жизнь 드라마 сюжет와 다르다고 말했습니다. 그녀는 이전에 태국 남성과 결혼하여 세 자녀가 있지만 결혼 생활은 순탄하지 않았습니다. 그녀의 음악 경력도 기대만큼 성공하지 못해 부모, 세 딸, 두 손주를 부양하기 위해 파타야에서 일하게 되었습니다. 그녀는 로만이 파타야를 방문하는 동안 그를 만났고 5년 동안 부부로 함께 살았습니다. 나중에 로만의 절친한 친구인 매키가 태국으로 여행을 와서 그녀에게 감정을 느끼게 되었습니다. 두안은 세 사람 모두 관계에 대해 공개적으로 논의하고 상호 이해에 도달했다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "특이한 로컬 결혼 문화에 대한 정보. 여행 자체에 큰 영향은 없으나, 흥미로운 읽을거리 제공.",
-      "event_info": {
-        "date": "2024-02-28",
-        "location": "Prakhon Chai district, Buriram",
-        "price": null,
-        "location_google_map_query": "Prakhon Chai district, Buriram, Thailand"
-      },
+      "event_info": "{'date': '2024-02-28', 'location': 'Prakhon Chai district, Buriram', 'price': None, 'location_google_map_query': 'Prakhon Chai district, Buriram, Thailand'}",
       "references": [
         {
           "title": "Thai woman marries two Austrian men in one ceremony",
@@ -5563,6 +5555,79 @@
       ],
       "collected_at": "17:48",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114343_DSh5i1hNLj1772271792.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.khaosodenglish.com/life/2026/03/01/thai-woman-marries-two-austrian-men-in-one-ceremony/",
+      "source": ""
+    },
+    {
+      "title": "태국 방콕, 폭염 대비 255개 냉방 센터 운영 (최신 업데이트)",
+      "summary": "- 방콕시, 폭염으로부터 주민과 여행객 보호 위해 255개 냉방 센터 운영.\n- 냉방 센터는 더위 피난처 제공 및 관광객 편의 도모.\n- 폭염 관련 안전 수칙 준수 권장.",
+      "full_translated": "방콕이 폭염으로부터 주민과 여행객을 안전하게 보호하기 위해 255개의 냉방 센터를 운영합니다. 이 센터들은 더위를 피할 수 있는 장소를 제공하며, 관광객들에게 편의를 제공합니다. 폭염 관련 안전 수칙을 준수하는 것이 좋습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "폭염은 여행객의 안전에 직접적인 영향을 미치므로 관련 정보 업데이트는 중요. 기존 정보에 '최신' 강조",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiomFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RoYWlsYW5kLW9wZW5zLTI1NS1jb29saW5nLWNlbnRlcnMtYWNyb3NzLWJhbmdrb2sta2VlcC1yZXNpZGVudHMtdHJhdmVsZXJzLXNhZmUtZnJvbS1kZWFkbHktaGVhdHdhdmVzLWV4dHJlbWUtdGVtcGVyYXR1cmVzLWltcGFjdGluZy10b3VyaXNtLWRhaWx5LWxpZmVzLW5ldy11cGRhdGUv0gEA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "18:14",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "타이항공, 이란 전쟁 우회하여 정상 운항",
+      "summary": "- 타이항공은 이란과의 분쟁에도 불구하고 모든 항공편이 정상적으로 운항되고 있다고 밝혔습니다.\n- 유럽행 항공편은 분쟁 지역을 피하기 위해 항로를 변경했습니다.\n- 안전을 최우선으로 고려하며, 중단 없는 운항을 위해 상황을 면밀히 주시하고 위험을 평가하고 있습니다.",
+      "full_translated": "타이항공(THAI)은 일요일 이란과의 분쟁에도 불구하고 모든 항공편이 정상적으로 운항되고 있으며, 유럽 노선은 분쟁 지역을 피하기 위해 항로를 변경했다고 밝혔습니다. 국영 항공사는 유럽행 및 입국 서비스의 항로를 분쟁 지역에서 벗어나도록 조정했다고 밝혔습니다. 우회로 인해 일부 여정에 약간의 시간이 더 소요될 수 있습니다. 타이항공은 안전이 최우선이며 중단 없는 운항을 보장하기 위해 상황을 면밀히 주시하고 위험을 평가하고 있다고 밝혔습니다. 예약 승객은 출발 전에 최신 항공편 상태를 확인하는 것이 좋습니다. 타이항공 컨택 센터의 24시간 전화 +66 (0)2-356-1111을 통해 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공편 운항 정보는 여행객에게 중요한 정보이며, 특히 분쟁 지역 우회에 대한 내용은 안전과 직결되므로 높은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "THAI flights operating normally, detouring Iran war",
+          "url": "https://www.bangkokpost.com/thailand/general/3207545/thai-flights-operating-normally-detouring-iran-war",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207545_260301162056_700.jpg"
+        }
+      ],
+      "collected_at": "18:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207545_260301162056_700.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "방콕, 폭염 대비 255개 냉방 센터 운영 (추가 정보)",
+      "summary": "- 방콕 전역에 255개의 냉방 센터가 운영 중.\n- 더위로부터 주민과 여행객을 보호하기 위한 조치.\n- 폭염으로 인한 관광 및 일상 생활의 영향 최소화.",
+      "full_translated": "방콕은 치명적인 폭염과 극심한 기온으로부터 주민과 여행객을 보호하기 위해 방콕 전역에 255개의 냉방 센터를 운영하고 있습니다. 이는 관광과 일상 생활에 미치는 영향을 최소화하기 위한 조치입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "폭염 관련 정보 업데이트 및 여행객 안전에 중요한 정보이므로 높은 점수 부여. 기존에 게시된 정보에 추가 정보가 포함되어 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 전역",
+        "price": "무료",
+        "location_google_map_query": "방콕 냉방 센터"
+      },
+      "references": [
+        {
+          "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "18:14",
       "date": "2026-03-01"
     }
   ]
