@@ -6353,14 +6353,9 @@
       "summary": "- 이스라엘-이란 간 군사적 긴장으로 중동 국가들의 영공이 폐쇄 또는 제한됨.\n- 항공사들은 고위험 지역을 우회하여 운항에 지연이나 취소가 발생할 수 있음.\n- 태국 출발 승객은 항공편 업데이트를 확인하고, 지연/취소 시 태국 민간 항공 규정에 따른 보호를 받을 수 있음.",
       "full_translated": "태국 – 태국 민간항공청(CAAT)은 이스라엘과 이란 간의 군사적 긴장으로 인해 긴급 권고를 발표했습니다. 최근 공습 및 미사일 작전에 대응하여 여러 중동 국가들이 민간 항공을 보호하기 위해 영공을 폐쇄하거나 제한했습니다. 이스라엘 정부는 모든 민간 항공 운항을 공식적으로 중단하고 추후 공지가 있을 때까지 국내 공항을 피하도록 권고했습니다. 마찬가지로 이란 당국도 보안 조치로 국가 영공을 폐쇄했습니다. 이러한 제한은 분쟁이 확대됨에 따라 항공 회랑을 줄이거나 폐쇄하는 다른 여러 국가로 확대되었습니다. 아랍에미리트, 카타르, 쿠웨이트는 예방 조치로 부분적인 영공 폐쇄를 시행했습니다. 이러한 조치는 유럽, 아시아 및 아시아-태평양 지역 간의 주요 국제 항공 경로에 영향을 미칠 것으로 예상됩니다. 결과적으로 많은 항공사들이 고위험 지역을 피하기 위해 항공편을 우회하고 있으며, 이는 중동을 통과하는 국제 노선에서 지연이나 취소를 초래할 수 있습니다. 유럽, 중동 또는 해당 지역 연결편으로 여행하는 승객은 항공사 업데이트를 모니터링하고 공항으로 가기 전에 항공편 상태를 확인해야 합니다. CAAT는 태국에서 출발하는 승객에게 항공편 지연 또는 취소 시 태국 민간 항공 규정이 승객을 보호한다는 점을 상기시킵니다. 그러나 환승 국가는 동일한 법적 보호를 제공하지 않을 수 있습니다. 클레임 또는 불만 사항은 다음 주소로 제출할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 지역 항공편 이용 여행객에게 직접적인 영향을 줄 수 있는 정보이며, 항공편 지연/취소 가능성을 알리는 중요한 업데이트임. 현재 시각(저녁)에 맞춰 주의를 환기시키는 것이 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Civil Aviation Authority of Thailand Issues Advisory Amid Middle East Airspace Closures",
@@ -6371,21 +6366,18 @@
       ],
       "collected_at": "23:17",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/644687943_1401063955399576_4457733575092070958_n.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://thepattayanews.com/2026/03/01/civil-aviation-authority-of-thailand-issues-advisory-amid-middle-east-airspace-closures/",
+      "source": ""
     },
     {
       "title": "태국, 항공사 59편 결항 발표; 관광청, 위기 속 관광 상황 모니터링 센터 개설",
       "summary": "- 태국 항공사들이 59편의 항공편 결항을 발표했습니다.\n- 태국 관광청(TAT)은 위기 상황 동안 관광 상황을 모니터링하기 위한 센터를 개설했습니다.\n- 항공편 이용객은 사전에 운항 정보를 확인할 필요가 있습니다.",
       "full_translated": "태국 항공사들이 59편의 항공편 결항을 발표했습니다. 태국 관광청(TAT)은 위기 상황 동안 관광 상황을 모니터링하기 위한 센터를 개설했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공편 결항 정보는 여행객에게 직접적인 영향을 미치므로 중요하다고 판단됨. 위기 상황 모니터링 센터 개설은 여행 안전에 대한 노력으로 볼 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Airlines have announced the cancellation of 59 flights. The Tourism Authority of Thailand (TAT) has opened a center to monitor the tourism situation during the crisis. - Money & Banking Magazine - วารสารการเงินธนาคาร",
@@ -6396,21 +6388,18 @@
       ],
       "collected_at": "23:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QbHNZdy1zaENuaXVsZ2tOamw1Zy1pXzhxblMycXVobjFoVlFEU3B4bHNoRTZiZi12LW5OZDQxUWdYRW9KS1BxaVl1LXFDUFRSOFRZZFI4SUY?oc=5",
+      "source": ""
     },
     {
       "title": "이란, 호르무즈 해협 봉쇄 가능성 부인",
       "summary": "- 이란 외무장관, 호르무즈 해협 봉쇄 계획 없다고 발표\n- 이스라엘-미국의 공격에도 해협 봉쇄는 고려하지 않아\n- 단, 과거 이란은 유사시 해협 봉쇄 가능성을 경고한 바 있음",
       "full_translated": "이란 외무장관이 호르무즈 해협 봉쇄 계획이 없다고 밝혔습니다. 이는 이스라엘과 미국의 공격이 계속되는 상황에서도 나온 발언입니다. 2026년 3월 1일, 아바스 아락치 이란 외무장관은 알자지라와의 인터뷰에서 현재 호르무즈 해협을 봉쇄할 의사가 없으며, 해협 통행을 방해할 어떤 계획도 없다고 말했습니다. \n\n이러한 발언은 이스라엘과 미국이 이란을 격렬하게 공격하는 동안 나왔습니다. 테헤란은 또한 미국의 기지가 있는 중동 국가들을 향해 미사일과 드론을 발사하며 대응했습니다. \n\n아락치 장관의 발표에도 불구하고, 유럽 연합 해군 임무(Aspides) 관계자는 토요일 이란 이슬람 혁명 수비대가 VHF 무선 주파수를 통해 선박에 “호르무즈 해협 통과 불가” 신호를 보냈다고 밝혔습니다. \n\n호르무즈 해협은 사우디 아라비아, 이란, 이라크, 아랍 에미리트와 같은 주요 페르시아 만 석유 생산국을 오만 만과 아라비아 해와 연결하는 세계에서 가장 중요한 석유 수출 경로입니다. 로이터 통신과의 인터뷰에서 한 관계자는 이란 당국이 공식적으로 명령을 확인하지 않았지만 테헤란은 이슬람 공화국에 대한 공격에 대한 대응으로 수년간 좁은 수로를 봉쇄하겠다고 위협해 왔다고 전했습니다. 하지만 실제로 봉쇄가 발생한 적은 없습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "호르무즈 해협은 주요 해상 교통로이므로 봉쇄 가능성 부인은 여행 및 물류에 잠재적인 영향을 미칠 수 있음. 다만, 현재 봉쇄 계획이 없다는 발표이므로 영향도는 중간 수준으로 평가.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กต.อิหร่านยัน ไม่คิดปิดช่องแคบฮอร์มุซ แม้สงครามตึงเครียด",
@@ -6421,6 +6410,58 @@
       ],
       "collected_at": "23:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5WR9JeIbLpq.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917278",
+      "source": ""
+    },
+    {
+      "title": "태국, 파타야에서 Tomorrowland 아시아 첫 개최",
+      "summary": "- 2026년 12월, Tomorrowland가 태국 파타야에서 아시아 최초로 개최됩니다.\n- 글로벌 음악 팬과 관광 산업에 획기적인 이벤트가 될 것으로 기대됩니다.\n- 태국은 이를 통해 글로벌 이벤트 허브로서의 입지를 강화할 계획입니다.",
+      "full_translated": "Tomorrowland, 태국 파타야에서 아시아 최초로 풀 스케일 데뷔: 글로벌 음악 팬과 관광 산업을 위한 획기적인 이벤트\n\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "대규모 축제 개최 정보는 여행객 유치에 큰 영향을 미치므로 높은 점수를 부여합니다. 2026년 개최 확정으로 업데이트되었습니다.",
+      "event_info": {
+        "date": "2026-12-XX",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야 Tomorrowland 개최지"
+      },
+      "references": [
+        {
+          "title": "Tomorrowland Makes Its First Full-Scale Asian Debut in Pattaya, Thailand: A Ground breaking Event for Global Music Fans and Tourism - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVzVHem1GN3kxM2g1OC1XRE1XdEtZRWRldF9Yb3UxYzVweF9yRXd0c3VYX0ZHREZON1JGSXNIWlZJQmhnZS1xZlhjWEt0SzZYc1pxUUdPcDk1c3RjaXJYcHFnQ25uY1MyT1NvX3JCWnZiNUJlVXE1ZU5mMXJCUkd0ZlFzNTM5TW9takNWMkRKb1FTekt2SVhrV2REUlo0QnA5U1hsdkJDekxUQzE2QUFDRTc4Vy1md2Vjb2FWVWxRcjZ2ekhNS20zT3pKcHNSOG9XZ21DZE02eGZLQUVGQl9jQXNqeUp2N1VXMjFEZ0NRb3Fub3NwTDRXV2EwRWljYmRQczNiZzRrZlBkdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란 분쟁으로 UAE 영공 폐쇄, 태국에 발이 묶인 벨기에 관광객 35명",
+      "summary": "- 이란 분쟁으로 인해 UAE 영공이 폐쇄되었습니다.\n- 이로 인해 태국에 있던 벨기에 관광객 35명의 발이 묶였습니다.\n- 항공편 운항에 차질이 발생할 수 있으므로 여행 전 확인이 필요합니다.",
+      "full_translated": "이란과 관련된 분쟁으로 인해 UAE 영공이 폐쇄되면서 태국에 머물던 벨기에 관광객 35명이 귀국하지 못하고 있습니다. 항공편 운항에 차질이 예상되므로, 해당 지역을 여행하는 여행객들은 항공사에 최신 정보를 확인하는 것이 좋습니다. 특히 경유편을 이용하는 경우 주의가 필요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공편 운항에 영향을 미치는 중요한 정보이므로 포함합니다. 여행객의 이동에 직접적인 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "해당 사항 없음",
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "35 Belgian tourists stranded in Thailand after Iran conflict closes UAE airspace - Aviation24.be",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFMwZkE5N1Q1b2hsNjExVlpuYmNoMi1zWEhydHd5dUpXeU9rVnZ3RlpNVmc2TFRIaU9IZGFhWkpibEJHSUxOSm41MVZScFpTM0NRS1pQR3RjLXRSYmpHcU9Nckh6VFhWb3FXODhJNW1XN0dKT2VONmQ0R3d1VUtCX1VDUTNmUjJtMmNiRHpXWUhjUkMtRThBdWxhUWkwSVhjeGRSWllyZFhWaC1ESi1sSTh5cWZoV1RBSUpHaGVBNFZtVGF4TFlXZDhIVVJmZw?oc=5",
+          "source": "Aviation24.be",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
   ]
