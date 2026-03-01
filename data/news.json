@@ -4422,14 +4422,9 @@
       "summary": "- 아부다비 국제공항에서 드론 공격 발생, 아시아 국적 1명 사망, 7명 부상\n- 공항 측은 루머 유포 자제 및 공식 발표 확인 당부\n- 현재까지 공격 주체 및 목표는 불분명",
       "full_translated": "아부다비 국제공항에서 드론 공격이 발생하여 아시아 국적의 1명이 사망하고 7명이 부상당했습니다. 공항 측은 소셜 미디어를 통해 루머 유포를 자제하고 공식 출처의 정보만 확인해 달라고 요청했습니다. CNN은 공항 방향에서 폭발음과 유사한 소리가 들렸으며, 응급 차량이 다수 목격되었다고 보도했습니다. 이번 공격은 이란이 미국과 이스라엘의 공격에 대응하는 시기에 발생하여 중동 지역의 불안감을 고조시키고 있습니다. 아직까지 공격의 배후나 구체적인 목표는 밝혀지지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "공항은 여행객에게 중요한 시설이며, 테러 발생 시 안전에 심각한 위협이 될 수 있음. 여행 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "아부다비 국제공항",
-        "price": null,
-        "location_google_map_query": "Abu Dhabi International Airport"
-      },
+      "event_info": "{'date': None, 'location': '아부다비 국제공항', 'price': None, 'location_google_map_query': 'Abu Dhabi International Airport'}",
       "references": [
         {
           "title": "โดรนโจมตีถล่มสนามบินอาบูดาบี เสียชีวิต 1 ราย เจ็บ 7 คน",
@@ -4438,23 +4433,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEACgudXYctm.jpg"
         }
       ],
-      "collected_at": "08:24",
+      "collected_at": "8:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEACgudXYctm.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917137",
+      "source": ""
     },
     {
       "title": "이란, 미국-이스라엘 공격에 대한 보복으로 호르무즈 해협 봉쇄 가능성",
       "summary": "- 이란이 미국과 이스라엘의 공격에 대한 대응으로 호르무즈 해협 봉쇄를 위협하고 있습니다.\n- 호르무즈 해협은 전 세계 원유 수송의 중요한 통로입니다.\n- 봉쇄 시 국제 유가 급등 및 글로벌 경제에 심각한 영향을 미칠 수 있습니다.",
       "full_translated": "이란은 미국과 이스라엘의 공격에 대한 보복으로 호르무즈 해협을 봉쇄할 가능성을 시사했습니다. 호르무즈 해협은 전 세계 원유 수송의 주요 통로이며, 이 해협이 봉쇄될 경우 국제 유가 급등은 물론 글로벌 경제에 심각한 파장을 미칠 수 있습니다. 여행객들은 이란과 관련된 지역의 정세 불안정에 유의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "호르무즈 해협 봉쇄 시 국제 유가 급등 및 여행 관련 비용 증가 가능성, 중동 지역 여행객 안전에 잠재적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ส่องระยะทำการขีปนาวุธอิหร่่าน หมัดเด็ดโต้ยิว-อเมริกัน",
@@ -4463,23 +4455,20 @@
           "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNW7hQnmBGH7i5Tx.jpg"
         }
       ],
-      "collected_at": "08:24",
+      "collected_at": "8:24",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNW7hQnmBGH7i5Tx.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/auto/news/2917095",
+      "source": ""
     },
     {
       "title": "방콕 유명 병원, 코 성형 부작용 논란: 감염으로 인한 피해 주장",
       "summary": "- 유명 인플루언서, 방콕 소재 유명 성형외과에서 코 재수술 후 감염 발생 주장.\n- 병원 측에 책임 회피에 대한 불만 제기, 소비자 보호 단체에 고발 예정.\n- 피해자는 40만 바트를 지불하고 수술받았으나, 한 달 만에 염증 및 감염 발생.",
       "full_translated": "한 유명 인플루언서가 '사이마이 통 롯' 페이지에 방콕의 유명 성형외과에서 코 수술 후 부작용을 겪었다고 제보했습니다. 이 병원은 유명 연예인 고객이 많은 곳으로, 코 수술 후 심각한 감염이 발생했다고 주장합니다. 피해자는 기존 코 모양이 마음에 들지 않아 40만 바트를 지불하고 유명 의사에게 재수술을 받았지만, 수술 후 한 달 만에 염증과 감염이 발생했습니다. 병원 측에 연락했으나 책임을 회피하고 있다고 합니다. 엑까폽 르앙쁘라솟은 피해자를 도와 소비자 보호 위원회(สคบ.)에 고발할 예정입니다. 2월 28일 11시 30분, 랑싯 지역의 유명 대학에 재학 중이며 소셜 미디어에서 상품을 판매하는 인플루언서인 나.스. 비(남 쏨못)(25세)는 엑까폽 르앙쁘라솟에게 도움을 요청하며, 방콕의 유명 성형외과에서 코 재수술 후 손상되고 감염된 코 사진을 증거로 제출했습니다. 인플루언서는 2025년 8월에 다른 병원에서 코 수술을 받았지만 코 모양이 마음에 들지 않아 해당 병원에 상담을 요청했다고 밝혔습니다. 해당 병원의 의사는 재수술이 가능하다고 확신하며 40만 바트의 비용을 제시했습니다. 다른 곳에서는 대부분 70만 바트 정도의 비용이 들었기 때문에 이 병원에서 재수술을 받기로 결정했습니다. 수술을 집도한 남성 의사는 상당히 유명하며, 이 병원은 코 성형으로 유명하고 많은 유명 인사와 연예인들이 수술을 받는 곳이어서 의료진의 실력을 믿었습니다. 재수술은 기존 실리콘 보형물을 제거하고 자신의 늑연골을 이식하는 방식으로 진행되었습니다. 하지만 한 달 만에 염증이 생겼습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국에서 의료 관광을 고려하는 여행자에게 잠재적인 위험을 알리는 정보. 병원 선택 시 주의를 환기시키는 목적.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "โวยโรงพยาบาลทำจมูกเน่า ไปแก้ทรงกลับติดเชื้อ จ่อบุกร้อง สคบ. เอาผิด",
@@ -4488,23 +4477,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexPhfVZDe8Ott.jpg"
         }
       ],
-      "collected_at": "08:24",
+      "collected_at": "8:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexPhfVZDe8Ott.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/local/2917142",
+      "source": ""
     },
     {
       "title": "태국 복권 추첨 임박: 행운의 숫자 찾기 열풍",
       "summary": "- 오늘 오후 복권 추첨, 행운의 주인공은 누가 될까?\n- 인기 있는 숫자들은 이미 매진, 막바지 구매 경쟁 치열.\n- 태국 복권 사무소, 오늘 추첨 생중계 예정.",
       "full_translated": "오늘(1일) 오후 태국 복권 추첨을 앞두고 행운의 숫자를 찾는 사람들의 열기가 뜨겁습니다. 복권 판매점에서는 이미 인기 있는 번호들이 매진되었으며, 마지막까지 행운을 잡기 위한 구매 경쟁이 벌어지고 있습니다. 많은 사람들이 '태국 캘린더 복권'에서 행운의 숫자를 찾고 있습니다. 태국 복권 사무소는 오늘 추첨 결과를 생중계할 예정이며, 누가 새로운 백만장자가 될지 관심이 집중되고 있습니다. 특히 이번 추첨은 수랏타니에서 진행됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 복권은 현지 문화의 일부이며, 관광객에게도 흥미로운 경험이 될 수 있음. 당첨 정보는 아니므로 높은 점수는 아님.",
-      "event_info": {
-        "date": "2026-03-01",
-        "location": "수랏타니",
-        "price": "복권 가격은 80바트부터 시작",
-        "location_google_map_query": "Surat Thani"
-      },
+      "event_info": "{'date': '2026-03-01', 'location': '수랏타니', 'price': '복권 가격은 80바트부터 시작', 'location_google_map_query': 'Surat Thani'}",
       "references": [
         {
           "title": "รวมเลขเด็ด 1/3/69 หวยงวดล่าสุด บ่ายวันนี้ ลุ้นใครจะได้เป็นเศรษฐีรางวัลที่ 1",
@@ -4513,23 +4499,20 @@
           "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNdPx8UFW9NawU02.jpg"
         }
       ],
-      "collected_at": "08:24",
+      "collected_at": "8:24",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNdPx8UFW9NawU02.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/lottery/news/2917117",
+      "source": ""
     },
     {
       "title": "이란, 미국-이스라엘 공격에 여학생 108명 사망 주장",
       "summary": "- 이란 언론, 남부 지역 여학교 공격으로 최소 108명 사망 보도\n- 이란 정부, 해당 지역에 애도 기간 선포\n- 미국과 이스라엘은 공식 입장을 밝히지 않음",
       "full_translated": "이란 언론은 남부 지역의 한 여학교가 미국과 이스라엘의 공격을 받아 최소 108명이 사망했다고 보도했습니다. 이란 정부는 미납시에서 발생한 이번 공격으로 인해 호르모즈간 주 전역에 애도 기간을 선포했습니다. IRIB 방송은 최소 8구의 시신이 담긴 자루가 건물 바닥에 놓여 있는 영상을 공개했습니다. 라메르드 지역에서도 스포츠 센터와 주거 지역에 대한 공격으로 최소 18명의 민간인이 사망했으며, 사망자 대부분이 어린이이고 약 100명이 부상당했다고 IRNA 통신은 보도했습니다. 미국과 이스라엘은 이번 공격에 대한 공식 입장을 밝히지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국과는 직접적인 관련은 없으나, 중동 지역의 긴장 고조는 잠재적으로 항공 운항 등에 영향을 줄 수 있어 주의가 필요함. 여행객 안전에 대한 간접적 영향 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สื่ออิหร่านอ้าง นักเรียนหญิงดับแล้ว 108 ศพ หลังโรงเรียนโดนโจมตี",
@@ -4538,8 +4521,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEJT1sZKOYMu.jpg"
         }
       ],
-      "collected_at": "08:24",
+      "collected_at": "8:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEJT1sZKOYMu.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917135",
+      "source": ""
+    },
+    {
+      "title": "이란 최고 지도자 사망 보도, 군부 강력 보복 예고",
+      "summary": "- 이란 최고 지도자 아야톨라 알리 하메네이가 자택에서 사망했다는 보도가 나왔다.\n- 이란 혁명수비대는 미국과 이스라엘에 대한 강력한 보복을 예고했다.\n- 이란 정부는 40일간의 애도 기간을 선포했으며, 최고 국가안보위원회는 대응을 준비 중이다.",
+      "full_translated": "이란 언론에 따르면, 아야톨라 알리 하메네이 이란 최고 지도자가 테헤란에 있는 자택 겸 사무실에서 암살당했습니다. 혁명수비대는 역사상 가장 강력한 작전을 준비하며 보복을 위협했습니다. Fars News Agency에 따르면, 아야톨라 알리 하메네이는 평소처럼 업무를 수행하던 중 지도자 관저 구역 내 사무실에서 사망했습니다. 에어버스사의 위성 사진은 테헤란 중심부, 대학교 인근에 위치한 관저 지역에서 검은 연기가 피어오르는 것을 보여주었습니다. 이 지역은 이란 신정 체제의 중요한 의사 결정 중심지입니다. 사진은 해당 지역의 여러 건물이 공격으로 인해 심각한 손상을 입었음을 보여줍니다. 이란 방송의 한 앵커는 성명을 읽는 동안 눈물을 흘리며 최고 지도자의 사망을 확인했으며, 정부는 전국에 40일간의 애도 기간을 선포했습니다. 이러한 확인은 미국과 이스라엘이 이란 내 목표물을 공격한 지 하루 만에 이루어졌습니다. 하메네이의 사망 소식이 확인된 후, 이슬람 혁명수비대(IRGC)는 미국과 이스라엘에 강력하게 대응하겠다고 위협하는 성명을 발표했습니다. IRGC는 \"이란 이슬람 공화국 무장 부대의 역사상 가장 강력한 공격 작전이 곧 점령된 영토와 미국 테러리스트 기지에 대해 시작될 것입니다.\"라고 밝혔습니다. 이란 정부는 \"이번 중대한 범죄는 반드시 보복을 받을 것이며, 이슬람 세계 역사의 새로운 장의 시작이 될 것입니다.\"라고 발표했습니다. 이란 최고 국가안보위원회(SNSC)는 대응 전략을 결정하기 위해 긴급 회의를 소집했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "이란 최고 지도자 사망 및 군부의 보복 예고는 지역 불안정을 야기할 수 있으며, 여행객 안전에 잠재적 위협이 될 수 있으므로 중요도가 높음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สื่อเผยผู้นำสูงสุดอิหร่านเสียชีวิตในบ้านพัก ด้านกองทัพอิหร่านลั่นจัดหนักล้างแค้นให้ผู้นำ",
+          "url": "https://www.thairath.co.th/news/foreign/2917156",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexSbU92tMQcpR.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexSbU92tMQcpR.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "푸껫 공항, 중동 분쟁으로 항공편 15편 결항 및 회항",
+      "summary": "- 푸껫 국제공항에서 중동 지역 불안정으로 인해 4개 항공사의 15개 항공편이 영향을 받음.\n- 해당 항공사는 카타르 항공, 에티하드 항공, 유니케어(전세기), 에어 아라비아임.\n- 승객들은 항공사에 직접 항공편 상태를 확인하고 공항 도착 시 시간을 충분히 확보해야 함.",
+      "full_translated": "푸껫 - 중동 분쟁으로 인해 4개 항공사(카타르 항공, 에티하드 항공, 유니케어(전세기), 에어 아라비아)의 항공편 15편이 푸껫 공항에서 회항하거나 착륙이 지연되고 있습니다. 3월 1일 08:00, 푸껫 데이터 센터 페이지는 다음과 같이 게시했습니다. “긴급 확인: 3월 1일 운항이 취소된 항공편은 총 15편입니다 (05:55 기준). 푸껫 공항의 중동 지역 불안정 사태로 인해 4개 항공사(카타르 항공, 에티하드 항공, 유니케어(전세기), 에어 아라비아)의 항공편 15편이 영향을 받고 있으며, 그중 출발편은 8편, 도착편은 7편입니다. 승객을 위한 조언: 항공사에 직접 항공편 상태를 확인하고, 항공사의 발표를 면밀히 주시하며, 공항으로 이동하는 데 충분한 시간을 할애하십시오. 자세한 내용은 국제선 터미널 3층 안내 데스크(푸껫 공항, 전화 0-7635-2302)로 문의하십시오.” 또한, 2월 28일 저녁에 푸껫 데이터 센터 페이지는 다음과 같이 게시했습니다. “에티하드 항공의 푸껫-아부다비행 ETD 417편에 예상치 못한 사고가 발생했습니다. 2월 28일 15:30 푸껫 국제공항에서 출발한 후, 항공사는 중동 지역의 긴장이 고조되는 상황을 평가하여 항공편 계획을 변경하고 승객과 승무원의 안전을 위해 푸껫 공항으로 회항하기로 결정했습니다.” 초기 보고서에 따르면 해당 항공편은 2월 28일 23:30경 푸껫 공항에 도착할 예정이며 항공편은 공식적으로 취소되지 않았으며 승객은 여전히 항공사의 면밀한 관리를 받고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "푸껫 공항 이용객에게 직접적인 영향을 주는 항공편 결항 정보. 여행 일정에 차질을 줄 수 있으므로 중요도가 높음. 아침 시간대이므로 오늘 운항에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 국제공항",
+        "price": null,
+        "location_google_map_query": "Phuket International Airport"
+      },
+      "references": [
+        {
+          "title": "สนามบินภูเก็ต สงครามตะวันออกกลางส่งผลกระทบ 15 ไฟล์ท 4 สายการบิน วนกลับ-จอดนิ่ง",
+          "url": "https://www.thairath.co.th/news/local/2917154",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexSQKPsgdkUqq.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexSQKPsgdkUqq.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 외무부, 중동 지역 자국민 대상 안전 권고 발표",
+      "summary": "- 태국 외무부는 중동 지역의 긴장 고조에 따라 자국민에게 안전 권고를 발표했습니다.\n- 특히 이란, 이스라엘 등 위험 지역에 거주하는 경우, 실내 대피 및 현지 당국 지침 준수를 당부했습니다.\n- 긴급 상황 발생 시, 가까운 대사관 또는 영사관에 연락하거나 24시간 콜센터(0-2572-8442)로 문의할 것을 권고합니다.",
+      "full_translated": "태국 외무부는 중동 지역 내 자국민에게 보내는 공고를 발표하며, 불안감을 느끼지 말고 실내에 머물 것을 권고했습니다.\n\n2026년 3월 1일 06:00, 외무부는 페이스북을 통해 중동 지역에 거주하는 태국인을 위한 공고(3호)를 게시했습니다. 공고 내용은 다음과 같습니다.\n\n중동 지역의 미사일 공격으로 인한 긴장된 상황은 생명과 재산에 광범위한 피해를 초래했습니다. 특히 이란, 이스라엘 및 위험 지역에 거주하는 태국인들은 불안감을 느끼지 말고 숙소나 대피소에 머물면서 현지 당국의 뉴스 및 경고를 주시하고 현지 당국의 조치를 엄격히 준수해야 합니다. 또한 상황이 해결될 때까지 해당 지역 여행을 자제해 주시기 바랍니다.\n\n긴급 지원이 필요한 경우, 가까운 대사관 또는 영사관에 연락하거나 외무부 영사부 24시간 콜센터(0-2572-8442)로 문의하십시오. 핫라인...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 긴장 고조에 따른 태국 정부의 안전 권고 발표. 여행객 안전에 잠재적 영향 가능성이 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กต.ออกประกาศฉบับ 3 แนะนำคนไทย ไม่ตื่นตระหนก หลบอยู่ในที่พัก",
+          "url": "https://www.thairath.co.th/news/politic/2917158",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexR5tKdIJ2XfX.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexR5tKdIJ2XfX.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 외무부, 중동 지역(특히 이란) 거주 태국인들에게 경계 유지 및 최신 뉴스 주시 권고",
+      "summary": "- 태국 외무부는 중동, 특히 이란 거주 태국인들에게 주의를 당부.\n- 미국 기지 인근 위험 지역 거주자들에게도 경계를 요청.\n- 현지 당국 및 대사관의 발표를 주시하고, 필요한 경우 대사관에 연락.",
+      "full_translated": "태국 외무부는 2069년 3월 1일, 중동 지역에 거주하는 태국인, 특히 이란과 미국 기지가 있는 위험 지역에 거주하는 태국인들에게 경계를 유지하고 현지 당국과 대사관의 발표를 주시할 것을 권고하는 세 번째 성명을 발표했습니다. 최근 중동 지역에서 미사일 공격으로 인한 긴장 상황과 광범위한 인명 및 재산 피해가 발생했습니다. 외무부는 해당 지역으로의 여행을 자제하고, 긴급한 도움이 필요한 경우 가까운 대사관 또는 영사관에 연락하거나, 24시간 운영되는 영사부 콜센터(0-2572-8442) 또는 영사부 보호 지원 부서 핫라인(096-216-1837, 096-183-6736, 064-564-7573)으로 문의할 것을 권고합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역의 긴장 고조는 항공편 운항 및 여행 심리에 영향을 줄 수 있으므로 여행자에게 관련 정보 제공 필요. 특히 이란 여행 계획이 있는 경우 주의 요망.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กต. แนะคนไทยในตะวันออกกลาง โดยเฉพาะที่อิหร่าน ไม่ตื่นตระหนก ติดตามข่าวแจ้งเตือนใกล้ชิด",
+          "url": "https://www.thairath.co.th/news/politic/2917143",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexPlgzsPsVzql.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexPlgzsPsVzql.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란 최고 지도자 사망설, 중동 정세 불안정 고조",
+      "summary": "- 이란 최고 지도자 알리 하메네이의 사망 또는 암살설이 제기됨.\n- 이스라엘은 이를 이란 정권 교체의 기회로 보고 있으며, 미국 역시 이란 내부 혼란을 기대하는 분위기임.\n- 하메네이 사후 권력 투쟁 및 중동 지역 긴장 고조 가능성이 제기됨.",
+      "full_translated": "이란 최고 지도자 아야톨라 알리 하메네이의 사망은 단순한 손실을 넘어, 47년간 지속된 이란 이슬람 공화국의 종식을 의미하는 암살 시도로 여겨지고 있습니다. 일부 분석가들은 하메네이 암살의 진짜 목표가 개인 제거가 아닌 권력 구조 전체를 무너뜨리는 데 있다고 평가합니다. 워싱턴 퀸시 연구소의 트리타 파시는 이스라엘이 하메네이 제거를 47년 이슬람 공화국을 끝낼 기회로 보고 있다고 밝혔습니다. 최고 지도자가 모든 군사 작전을 직접 지시하지는 않지만, 암살은 심리적, 정치적으로 큰 의미를 지닙니다. 파시는 미국과 이스라엘이 이번 사건으로 이란 정권이 내부적으로 붕괴하거나, 온건한 새 지도부가 등장하여 미국과 타협할 것으로 기대한다고 분석했습니다. 트럼프 전 대통령은 하메네이 사망을 이란 국민이 국가를 되찾을 기회라고 언급했습니다. 그러나 이란이 과거 오바마 시대보다 트럼프에게 더 유리한 핵 협정을 제안했음에도 미국이 강경 노선을 택한 것은 단순한 협정이 아닌 이란의 굴복과 정권 교체를 목표로 하기 때문일 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 정세 불안정은 여행객 안전에 간접적인 영향을 미칠 수 있으며, 특히 테러 위험 증가 가능성이 있음. 다만, 현재까지 방콕 여행에 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สังหาร “อยาตอลเลาะห์ อาลี คาเมเนอี” จุดเปลี่ยนการเมืองอิหร่าน?",
+          "url": "https://www.thairath.co.th/news/foreign/2917160",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLewWEdX4PRl9wH.jpg"
+        }
+      ],
+      "collected_at": "11:00",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLewWEdX4PRl9wH.jpg",
       "date": "2026-03-01"
     }
   ]
