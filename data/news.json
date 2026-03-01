@@ -5564,14 +5564,9 @@
       "summary": "- 방콕시, 폭염으로부터 주민과 여행객 보호 위해 255개 냉방 센터 운영.\n- 냉방 센터는 더위 피난처 제공 및 관광객 편의 도모.\n- 폭염 관련 안전 수칙 준수 권장.",
       "full_translated": "방콕이 폭염으로부터 주민과 여행객을 안전하게 보호하기 위해 255개의 냉방 센터를 운영합니다. 이 센터들은 더위를 피할 수 있는 장소를 제공하며, 관광객들에게 편의를 제공합니다. 폭염 관련 안전 수칙을 준수하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "폭염은 여행객의 안전에 직접적인 영향을 미치므로 관련 정보 업데이트는 중요. 기존 정보에 '최신' 강조",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
@@ -5580,21 +5575,19 @@
         }
       ],
       "collected_at": "18:14",
-      "date": "2026-03-01"
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiomFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RoYWlsYW5kLW9wZW5zLTI1NS1jb29saW5nLWNlbnRlcnMtYWNyb3NzLWJhbmdrb2sta2VlcC1yZXNpZGVudHMtdHJhdmVsZXJzLXNhZmUtZnJvbS1kZWFkbHktaGVhdHdhdmVzLWV4dHJlbWUtdGVtcGVyYXR1cmVzLWltcGFjdGluZy10b3VyaXNtLWRhaWx5LWxpZmVzLW5ldy11cGRhdGUv0gEA?oc=5",
+      "source": ""
     },
     {
       "title": "타이항공, 이란 전쟁 우회하여 정상 운항",
       "summary": "- 타이항공은 이란과의 분쟁에도 불구하고 모든 항공편이 정상적으로 운항되고 있다고 밝혔습니다.\n- 유럽행 항공편은 분쟁 지역을 피하기 위해 항로를 변경했습니다.\n- 안전을 최우선으로 고려하며, 중단 없는 운항을 위해 상황을 면밀히 주시하고 위험을 평가하고 있습니다.",
       "full_translated": "타이항공(THAI)은 일요일 이란과의 분쟁에도 불구하고 모든 항공편이 정상적으로 운항되고 있으며, 유럽 노선은 분쟁 지역을 피하기 위해 항로를 변경했다고 밝혔습니다. 국영 항공사는 유럽행 및 입국 서비스의 항로를 분쟁 지역에서 벗어나도록 조정했다고 밝혔습니다. 우회로 인해 일부 여정에 약간의 시간이 더 소요될 수 있습니다. 타이항공은 안전이 최우선이며 중단 없는 운항을 보장하기 위해 상황을 면밀히 주시하고 위험을 평가하고 있다고 밝혔습니다. 예약 승객은 출발 전에 최신 항공편 상태를 확인하는 것이 좋습니다. 타이항공 컨택 센터의 24시간 전화 +66 (0)2-356-1111을 통해 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공편 운항 정보는 여행객에게 중요한 정보이며, 특히 분쟁 지역 우회에 대한 내용은 안전과 직결되므로 높은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "THAI flights operating normally, detouring Iran war",
@@ -5605,21 +5598,18 @@
       ],
       "collected_at": "18:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207545_260301162056_700.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/thailand/general/3207545/thai-flights-operating-normally-detouring-iran-war",
+      "source": ""
     },
     {
       "title": "방콕, 폭염 대비 255개 냉방 센터 운영 (추가 정보)",
       "summary": "- 방콕 전역에 255개의 냉방 센터가 운영 중.\n- 더위로부터 주민과 여행객을 보호하기 위한 조치.\n- 폭염으로 인한 관광 및 일상 생활의 영향 최소화.",
       "full_translated": "방콕은 치명적인 폭염과 극심한 기온으로부터 주민과 여행객을 보호하기 위해 방콕 전역에 255개의 냉방 센터를 운영하고 있습니다. 이는 관광과 일상 생활에 미치는 영향을 최소화하기 위한 조치입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "폭염 관련 정보 업데이트 및 여행객 안전에 중요한 정보이므로 높은 점수 부여. 기존에 게시된 정보에 추가 정보가 포함되어 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 전역",
-        "price": "무료",
-        "location_google_map_query": "방콕 냉방 센터"
-      },
+      "event_info": "{'date': None, 'location': '방콕 전역', 'price': '무료', 'location_google_map_query': '방콕 냉방 센터'}",
       "references": [
         {
           "title": "Thailand Opens 255 Cooling Centers Across Bangkok to Keep Residents and Travelers Safe from Deadly Heatwaves and Extreme Temperatures Impacting Tourism and Daily Life – New Update - Travel And Tour World",
@@ -5628,6 +5618,134 @@
         }
       ],
       "collected_at": "18:14",
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://www.travelandtourworld.com/news/article/thailand-opens-255-cooling-centers-across-bangkok-to-keep-residents-and-travelers-safe-from-deadly-heatwaves-and-extreme-temperatures-impacting-tourism-and-daily-life-new-update/",
+      "source": ""
+    },
+    {
+      "title": "태국 육상운송국, 승객 안전 위한 디지털 도구 출시",
+      "summary": "- 육상운송국(DLT), 택시 승객의 안전, 투명성, 편의성 향상을 위한 'Taxi Dee Prom' 시스템 출시.\n- DLT GPS NOTICE 앱을 통해 운전자 정보 확인, 여정 추적, 요금 견적, 실시간 피드백/불만 사항 제출 가능.\n- 2026년 6월까지 모든 등록 택시에 시스템 통합 예정. QR 코드 스티커를 통해 운전자와 승객 연결.",
+      "full_translated": "태국 육상운송국(DLT)은 방콕 택시 승객의 안전, 투명성, 편의성을 강화하기 위해 설계된 디지털 도구를 도입하는 'Taxi Dee Prom' 시스템을 출시했다고 밝혔습니다.\n\nDLT GPS NOTICE 모바일 앱을 통해 접속할 수 있는 이 시스템을 통해 승객은 운전자 세부 정보를 확인하고, 여정을 추적하고, 요금을 추정하고, 실시간 피드백이나 불만 사항을 제출할 수 있습니다. 이 시스템은 6월까지 수도의 모든 등록 택시에 완전히 통합될 것으로 예상됩니다.\n\n소라퐁 파이툰퐁 DLT 국장은 이번 이니셔티브가 대중 택시 서비스를 현대화하고 디지털 라이프스타일에 맞추는 동시에 승객 안전을 강화하기 위해 설계되었다고 말했습니다. 이 시스템은 운전자와 승객 모두를 DLT GPS NOTICE 플랫폼에 연결하는 QR 코드 시스템을 사용한다고 그는 말했습니다. 방콕에는 78,894대의 등록된 택시가 있습니다. 그 중 8,132대의 차량이 이미 QR 코드 스티커를 부착하고 있으며, 3,620명의 운전자가 애플리케이션을 사용하고 있다고 그는 말했습니다.\n\n이 계획에 따라 QR 코드 스티커는 세 가지 색상으로 나뉩니다. 보라색 스티커는 운전자용이며 운전자 신원을 확인하기 위해 앞 유리 오른쪽 상단에 부착됩니다. 파란색 스티커는 승객용으로 차량 및 운전자 세부 정보를 확인하고 요금을 추정하고 서비스 등급을 매기고 불만 사항을 제출할 수 있습니다. 이 스티커는 뒷좌석 승객 측 창문에 부착됩니다. 빨간색 스티커는 서비스 문제를 보고하기 위한 것입니다. 승객은 QR 코드를 스캔하여 운전자의 사진, 이름, 차량 세부 정보 및 면허 상태를 볼 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "택시 이용 시 안전 및 편의성 향상에 직접적인 영향을 미치는 정보이므로 여행자에게 유용함. 앱 사용 및 QR 코드 확인 방법 숙지 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "DLT launches safety tool for passengers",
+          "url": "https://www.bangkokpost.com/thailand/general/3207595/dlt-launches-safety-tool-for-passengers",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207595_700.jpg"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207595_700.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이스라엘, 이란 고위 관계자 30명 제거 주장 - 공격 30초 만에",
+      "summary": "- 이스라엘 언론은 이스라엘 공군이 이란 고위 관계자 30명을 제거했다고 보도함.\n- 공격은 최고 지도자 아야톨라 알리 카메네이를 포함, 단 30초 만에 이루어졌다고 함.\n- 이스라엘은 작전이 시작에 불과하며 며칠 더 지속될 수 있다고 경고.",
+      "full_translated": "이스라엘 언론은 이스라엘 공군이 이란 고위 관계자 30명을 제거했다고 보도했습니다. 제거 대상에는 최고 지도자인 아야톨라 알리 카메네이도 포함되었으며, 공격은 개시 후 30초 만에 이루어졌다고 합니다. 이스라엘 채널 12는 이란 최고 지도자 제거가 이란에 대한 대규모 공격 작전 개시 후 단 30초 만에 발생했다고 보도했습니다. N12 웹사이트는 이스라엘 정치 및 안보 관계자들이 이번 작전이 시작에 불과하며 앞으로 며칠 더 지속될 수 있다고 강조했다고 전했습니다. 여러 이스라엘 언론은 이번 작전의 세부적인 계획과 이스라엘 군과 미국 간의 긴밀한 협력, 그리고 작전에 사용된 정확한 정보에 대해 강조했습니다. 그러나 안보 분석가 요아브 리모어는 미국과 이스라엘 간에 의견 차이가 발생할 수 있다고 경고했습니다. 그는 이스라엘이 몇 주 또는 그 이상으로 전쟁을 지속할 준비가 되어 있지만, 도널드 트럼프 대통령이 같은 수준의 인내심을 가질지는 불확실하다고 지적했습니다. 나훔 바르니아는 미국에게는 선택적인 전쟁일 수 있지만, 이스라엘에게는 필요한 전쟁이라고 논평했습니다. 트럼프가 현재 이스라엘에 대한 전폭적인 지지를 표명하고 있지만, 전쟁이 장기화되거나 확대될 경우 미국 여론이 바뀔 수 있다는 경고도 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 긴장 고조는 잠재적으로 항공편, 여행 심리 등에 간접적인 영향을 줄 수 있으므로 정보 제공. 다만, 당장 태국 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สื่ออิสราเอลอ้าง สังหารเจ้าหน้าที่ระดับสูงอิหร่านถึง 30 ราย ในครึ่งนาทีแรกของการโจมตี",
+          "url": "https://www.thairath.co.th/news/foreign/2917250",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaekF8ayavWZT.jpg"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaekF8ayavWZT.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이스라엘에서 일하는 태국 여성, 가족과 영상 통화로 안부를 전하며 안전을 확인",
+      "summary": "- 이스라엘에서 일하는 29세 태국 여성이 가족과 영상 통화를 하며 현재 상황을 설명하고 안부를 전함.\n- 그녀는 쇼핑몰에서 일하며, 고용주가 잘 돌봐주고 대피 장소도 마련되어 있다고 밝힘.\n- 고향에 돌아가고 싶지만 빚 때문에 돌아갈 수 없다고 말하며, 태국에 있는 사람들에게 이스라엘의 태국 노동자들을 응원해달라고 당부함.",
+      "full_translated": "29세의 태국 여성은 이스라엘에서 일하며 가족과 영상 통화를 했습니다. 그녀는 태국에 있는 사람들에게 이스라엘의 태국 노동자들을 응원해달라고 부탁했습니다. 2069년 3월 1일, 기자들은 나콘랏차시마 주 크라브앙 야이 지구 타마크아 마을에 있는 수팟 리파이(67세) 씨와 두앙랏 리파이(61세) 씨의 집을 방문했습니다. 그들은 이스라엘에서 일하는 태국 노동자이자 페이스북 사용자 'Fern Tae La Wan'으로 알려진 29세의 룽따완 리파이(Fern) 씨의 부모입니다. Fern은 자신의 페이스북에 이스라엘에서의 전투 상황과 현재 자신의 상황에 대해 게시했습니다. Fern의 어머니인 61세의 두앙랏 씨는 4명의 자녀가 있으며 Fern은 막내이고 두 딸을 키우는 미혼모라고 말했습니다. 이전에는 핌마이 지역에서 일했지만 여러 비용으로 인해 월급이 충분하지 않아 4개월 전에 이스라엘에서 일하기로 결정했습니다. 그녀는 쇼핑몰에서 일하며 초과 근무를 포함하면 약 10만 바트를 벌 수 있으며 가족에게 돈을 보내 빚을 갚을 수 있습니다. 이스라엘에서 전투가 벌어졌다는 소식을 듣고 부모는 딸이 안전하지 않을까 봐 매우 걱정했습니다. 그러나 딸은 자신이 있는 곳은 안전하며 걱정할 필요가 없다고 확인했습니다. 고용주는 그녀를 잘 돌봐주고 비상시 대피할 장소도 있습니다. 그 동안 Fern은 부모에게 영상 통화를 걸어 걱정하지 말라고, 여전히 괜찮고 일할 수 있다고 말했습니다. 집에 돌아가고 싶은지 묻자, 그녀는 돌아가고 싶지만 이스라엘로 떠나기 전에 져야 했던 빚이 여전히 남아 있다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국인이 이스라엘에서 겪는 어려움을 보여주지만, 방콕 여행객에게 직접적인 영향은 적음. 다만, 해외 안전 관련 정보이므로 게시.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สาวไทยทำงานที่อิสราเอล วิดีโอคอลหาครอบครัวเล่าความเป็นอยู่ ยืนยันยังปลอดภัย",
+          "url": "https://www.thairath.co.th/news/local/2917247",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaO0il2sIuOLD.jpg"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaO0il2sIuOLD.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 중동 긴장 속 중립 유지 및 경제적 영향 주시",
+      "summary": "- 아누틴 부총리는 태국이 중동 긴장 상황에 대해 중립적인 입장을 취할 것이라고 밝혔습니다.\n- 외교적 해결을 지지하며, 관련 부처들이 상황을 주시하고 있다고 언급했습니다.\n- 경제적 영향에 대비하여 필요한 조치를 준비 중입니다.",
+      "full_translated": "아누틴 부총리는 중동 지역의 긴장된 상황에 대해 태국이 최대한 중립적인 입장을 유지할 것이라고 밝혔습니다. 모든 당사자들이 외교적 협상에 집중해 줄 것을 촉구했으며, 경제적 영향은 불가피하다고 인정했습니다. 2069년 3월 1일 15시 20분, 부리람 인터내셔널 서킷에서 아누틴 찬위라꾼 총리 겸 내무부 장관은 중동 지역의 충돌 상황에 대한 인터뷰에서 모든 부처, 즉 외무부, 국방부, 노동부, 내무부, 보건부, 재무부가 문제 국가에 발이 묶인 국민을 돕기 위한 준비를 하고 있다고 밝혔습니다. 내일 (2069년 3월 2일) 국가안전보장회의(NSC)를 소집하여 가능한 한 빨리 지원 및 편의를 위한 조치를 결정할 예정이며, 대피에 대한 우려는 불필요하다고 덧붙였습니다. 공군 사령관은 상황에 대한 준비 태세를 보고했으며, 현재 가장 중요한 것은 가능한 한 많은 태국인의 수를 파악하고 안전한 장소로 이들을 데려오는 것입니다. 이를 위해 외무부와 정부, 군대가 긴밀히 협력하고 있습니다. 태국이 어떤 입장을 취해야 하는지에 대한 질문에 아누틴 부총리는 최대한 중립을 유지해야 하지만, 해당 국가에 태국 국민이 있기 때문에 상황에 대한 우려를 표명해야 한다고 답했습니다. 모든 당사자들이 외교적 협상과 상호 이해를 위해 노력해 줄 것을 촉구하며, 세계 평화가 조속히 이루어지기를 바란다고 덧붙였습니다. 경제적 영향에 대한 질문에 아누틴 부총리는 영향은 불가피하지만, 영향을 최소화하기 위한 조치를 취해야 한다고 답했습니다. 가능한 모든 분야에서 지원, 유지, 비용 절감, 에너지 가격 인하 등을 통해 노력할 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 중립 외교 정책은 관광객에게 직접적인 영향을 미치지 않으나, 중동 지역 불안정은 잠재적인 경제적 영향을 통해 간접적으로 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” รับกระทบเศรษฐกิจ ยันไทยวางตัวเป็นกลางเหตุตึงเครียดตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/politic/2917251",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaepp40223JRl.jpg"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaepp40223JRl.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "파야오, 부정선거로 재선거 실시...투표율 50% 예상",
+      "summary": "- 파야오 지역의 부정선거로 인해 재선거가 실시됩니다.\n- 투표는 오전 8시부터 오후 5시까지 진행됩니다.\n- 투표율은 50%로 예상됩니다.",
+      "full_translated": "파야오 주 제1선거구 제6투표소에서 새로운 국회의원 선거 투표에 유권자들이 꾸준히 참여하고 있습니다. 파야오 주 선거관리위원장은 투표율을 50%로 예상했습니다. 2069년 3월 1일, 기자들은 반 살라 학교 급식소, 4번 빌리지, 타왕통 구, 므앙 파야오 지역의 투표소 6의 분위기를 보도했습니다. 파야오 주 선거관리위원회는 2069년 2월 8일 부정행위 문제로 인해 새로운 하원 의원을 위한 투표를 실시했습니다. 이번 투표는 오전 8시부터 오후 5시까지 진행되며, 투표소 직원이 투표를 용이하게 하고 엄격하게 감독합니다. 투표가 끝나면 개표가 다시 진행됩니다. 과거 파야오 주 1선거구에서는 클라탐당의 3번 후보인 아크라 폼파오 씨가 1위를 차지했지만, 이번 선거구에서 부정행위가 발생해 오늘 재선거를 치르게 되면서 결과 발표가 되지 않았습니다. 타왕통 구 제6투표소의 재선거 분위기는 투표가 시작된 이후 꾸준히 이어지고 있습니다. 해당 투표소에는 총 439명의 유권자가 있으며, 전반적인 상황은 정상이며 문제는 발견되지 않았습니다. 선거관리위원회는 투표를 오후 5시에 마감하고, 개표는 투표소에서 진행한 뒤 공식 결과를 므앙 파야오 지역 사무소로 보내 집계 및 보고 절차를 진행할 예정입니다. 파야오 주 선거관리위원장인 파나다 찬초티얀 씨는 위원회가...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 북부 지역의 선거 관련 소식. 여행객에게 직접적인 영향은 적으나, 정치적 상황에 대한 이해를 돕기 위해 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คาดคนมาใช้สิทธิเลือกตั้ง สส.ใหม่ หน่วยเลือกตั้งที่ 6 เขตเลือกตั้งที่ 1 จ.พะเยา 50%",
+          "url": "https://www.thairath.co.th/news/politic/2917231",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaYmsANXwLgKFi.jpg"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaYmsANXwLgKFi.jpg",
       "date": "2026-03-01"
     }
   ]
