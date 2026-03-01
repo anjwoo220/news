@@ -5345,14 +5345,9 @@
       "summary": "- 태국 기상청은 북부 지역에 여름 폭풍이 몰아칠 것으로 예보하며 62개 주에 폭풍 경보를 발령했습니다.\n- 방콕을 포함한 북부, 북동부, 중부 지역에 천둥, 강풍, 폭우, 우박, 번개가 예상됩니다.\n- 당국은 주민들에게 기상 예보를 주시하고, 집을 안전하게 하고, 야외 활동을 피할 것을 권고합니다.",
       "full_translated": "태국, 62개 주 폭풍 경보\n\n2026년 3월 1일 15:47 게시\n온라인 기자 작성\n\n방콕을 포함한 62개 주의 주민들에게 이번 주 화요일부터 금요일까지 천둥, 강풍, 폭우, 우박, 번개에 대비하라는 폭풍 경보가 발령되었습니다. 이번 경보는 태국 북부 지역에 여름 폭풍이 몰아칠 것이라는 기상청 예보에 따라 중앙 재난 예방 및 완화 사령부에서 발표했습니다. \n\nDDPM 국장 Theeraphat Kachamat는 일요일 중국발 차가운 고기압대가 북동부와 남중국해로 이동하고, 태국 북부 지역은 여전히 더운 가운데 서쪽 기압골이 북부와 북동부 지역을 가로질러 이동할 것으로 예보했습니다. 이러한 조합은 심각한 대류성 날씨를 유발할 수 있습니다. \n\nTheeraphat 씨는 북부, 북동부, 중부 지역의 62개 주 모두 방콕과 그 주변 지역을 포함하여 영향을 받을 수 있다고 말했습니다. 지방 및 지역 재난 부서는 기상 업데이트를 모니터링하고 시기적절한 경고를 발령하라는 명령과 함께 경계 태세를 유지하고 있습니다. 신속 대응팀과 장비는 쓰러진 나무, 손상된 구조물 및 기타 사고에 대처하기 위해 가장 위험한 지역에 배치되고 있습니다. \n\n국민들은 공식 예보와 지침을 주시하고, 집과 느슨한 물건을 고정하고, 부상 위험을 줄이기 위해 폭풍우가 치는 동안 개방된 공간, 큰 나무, 광고판 및 불안정한 구조물을 피하는 것이 좋습니다. 농부들은 지지 구조물과 방풍림을 사용할 것을 권장합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 직접적인 영향을 줄 수 있는 심각한 날씨 정보이므로 중요도가 높음. 특히 3월 초 태국 여행을 계획하는 여행객에게 필수 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Storms alert for 62 provinces",
@@ -5363,16 +5358,18 @@
       ],
       "collected_at": "16:50",
       "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207524_700.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/thailand/general/3207524/storms-alert-for-62-provinces",
+      "source": ""
     },
     {
       "title": "이란, 최고 지도자 사망 후 권력 이양 절차 시작",
       "summary": "- 이란 최고 국가안보회의, 최고 지도자 사망 후 권력 이양 절차 시작 발표\n- 임시 지도부 구성 예정, 새 지도자 선출까지 국정 운영\n- 외부 세력의 분열 시도 경계, 국가 단결 강조",
       "full_translated": "이란 최고 국가안보회의는 언론 인터뷰에서 아야톨라 알리 카메네이 사망 후 권력 이양 절차가 이번 주 일요일부터 시작될 것이라고 밝혔습니다. 이란 헌법에 따라 마수드 페세치키안 대통령, 법원 수장, 헌법수호위원회 대표 등 고위 인사로 구성된 임시 지도부가 구성되어 새 최고 지도자가 선출될 때까지 국정을 운영하게 됩니다. 라리자니는 카메네이 사망 후 국가 분열 시도에 대한 경고와 함께 이란의 단결을 강조하며 외부 세력의 국내 분열 조장을 용납하지 않겠다고 밝혔습니다. 이번 발표는 미국과 이스라엘의 대규모 공습으로 카메네이와 고위 관리들이 사망한 후 나온 것으로, 이 사건은 이란 국내 정치와 중동 지역 전체의 안보 안정에 영향을 미칠 것으로 예상됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역의 불안정은 여행 심리에 영향을 줄 수 있으며, 잠재적 위험 요소로 작용할 수 있음. 다만, 당장 태국 여행에 직접적인 영향은 없어 중간 점수 부여.",
-      "event_info": {},
+      "event_info": "{}",
       "references": [
         {
           "title": "อิหร่านเริ่ม \"กระบวนการเปลี่ยนผ่านอำนาจ\" วันอาทิตย์นี้ หาผู้สืบทอดคาเมเนอีผู้ล่วงลับ",
@@ -5383,21 +5380,18 @@
       ],
       "collected_at": "16:50",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaPQjOPTykKyw.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917240",
+      "source": ""
     },
     {
       "title": "도이인타논 국립공원 주변 호랑이 출몰 주의 강화",
       "summary": "- 치앙마이 지역, 호랑이로 인한 가축 피해 발생 보고 증가.\n- 도이인타논 국립공원과 매왕 국립공원 경계 지역에서 호랑이 발자국 발견.\n- 드론을 이용한 수색 및 24시간 특별 감시팀 운영.",
       "full_translated": "치앙마이 산림청은 도이인타논 국립공원 주변 지역 사회에서 호랑이 출몰로 인한 피해를 방지하기 위해 감시 조치를 강화했습니다. 두 국립공원 경계 지역에서 새로운 발자국이 발견되어 호랑이 종류를 확인하고 있습니다. \n\n3월 1일, 끄릿사얌 콩스트리 제16보호지역관리국(치앙마이) 국장은 촘통 지역 반루앙 지역의 무앙앙 마을에서 호랑이가 주민들의 가축을 공격하여 죽음에 이르게 한 상황에 대한 최신 정보를 공개했습니다. 이 사건은 2024년 2월 25일부터 발생했으며, 해당 지역 주민들의 우려를 낳고 있습니다. \n\n지속적인 추적 결과, 당국은 첫 번째 발생 지점과 유사한 크기의 호랑이 발자국을 매뜬매땡 개울 지역, 도이로 지역의 싼티숙 지역에서 발견했습니다. 이곳은 매왕 국립공원과 도이인타논 국립공원의 경계 지역입니다. 현재까지 호랑이 종류를 명확히 식별할 수 없지만, 제16보호지역관리국은 수색 조치를 강화하여 드론을 이용해 매왕 및 도이인타논 국립공원 지역을 공중 정찰하고 있습니다. 이를 통해 호랑이의 정확한 위치와 종류를 파악할 계획입니다.\n\n주민들의 안전을 확보하고 안심시키기 위해 제16보호지역관리국 국장은 24시간 특별 감시팀을 무앙앙 마을에 배치하여 사고 발생 시 즉각 대응하고 지역 주민들의 안전을 책임지고 있습니다. 또한 촘통, 도이로, 매왕 지역 주민들에게 상황을 알리고 가축 관리에 주의를 기울이도록 경고했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "국립공원 방문객에게 안전 정보를 제공하고, 야생 동물 관련 사고에 대한 인식을 높임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ยกระดับมาตรการเฝ้าระวังเสือรบกวนชุมชนดอยอินทนนท์ พบรอยเท้าใหม่รอยต่อ 2 อุทยานฯ",
@@ -5408,21 +5402,18 @@
       ],
       "collected_at": "16:50",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaPGqdlqOceQ7.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/local/2917242",
+      "source": ""
     },
     {
       "title": "태국 정부, 아세안에 지역 평화 노력 지속 추진 의사 전달",
       "summary": "- 태국 외무장관은 아세안 의장국인 필리핀 외무장관에게 태국의 평화 노력에 대한 지지를 요청했습니다.\n- 태국은 아세안과 미얀마 간의 대화를 촉진하고 신뢰 구축 조치를 지원하는 데 주력할 것입니다.\n- 태국은 캄보디아 국경 지역의 휴전 협정을 준수하고 있으며, 필리핀의 아세안 감시단의 노력을 지지합니다.",
       "full_translated": "시하삭 푸앙께트깨우 외무장관은 필리핀 외무장관 마리아 테레사 P. 라자로와의 회담에서 태국의 지역 평화 노력에 대한 의지를 재확인하고, 아세안 감시단(AOT)에 대한 마닐라의 리더십에 감사를 표했습니다. 금요일 전화 통화에서 시하삭 장관은 아세안 의장으로서 라자로 장관에게 2월 18일 푸껫에서 열린 미얀마 외무장관과의 비공식 회의에 대해 브리핑했습니다. 회담에서는 아세안과 미얀마 간의 점진적인 재참여를 위한 태국의 제안과 국가의 평화 및 국민 화해를 지원하는 데 있어 아세안의 역할이 검토되었습니다. 그는 아세안과 미얀마 간의 대화를 촉진하고 신뢰 구축 조치를 지원하기 위해 태국이 가교 역할을 할 준비가 되어 있음을 거듭 강조했습니다. 시하삭 장관은 라자로 장관에게 태국-캄보디아 국경 상황에 대한 최신 정보를 제공하고 태국이 휴전 협정을 엄격히 준수하고 있다고 말했습니다. 그는 휴전과 관련된 상황을 감시하고 있는 AOT에 대한 필리핀의 리더십에 감사를 표했습니다. 양측은 양국 간의 강력한 양자 관계를 환영하고 지역 및 국제 문제에 대한 긴밀한 조율을 유지하기로 합의했습니다. 별도로, 제2군 지역 작전 센터는 토요일 해명을 발표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정부의 외교적 노력은 장기적으로 태국의 안정에 기여할 수 있지만, 현재 여행객에게 직접적인 영향을 미치는 정보는 부족합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt tells Asean it is pressing ahead with regional peace efforts",
@@ -5433,21 +5424,18 @@
       ],
       "collected_at": "16:50",
       "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207173_260301060047_700.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/thailand/general/3207173/govt-tells-asean-it-is-pressing-ahead-with-regional-peace-efforts",
+      "source": ""
     },
     {
       "title": "러이 지역, 메콩강 금 채취 열풍: 기록적인 금 가격에 주민들 몰려",
       "summary": "- 메콩강의 금 가격 급등으로 러이 지역 주민들이 금을 찾기 위해 몰려들고 있습니다.\n- 강 수위가 낮아지면서 새로운 사주가 드러나 주민들이 금을 채취하기 쉬워졌습니다.\n- 금 채취는 전통적인 직업이지만 최근 금 가격 상승과 낮은 수위로 다시 활기를 띠고 있습니다.",
       "full_translated": "러이 — 금 가격이 1바트당 78,400바트로 기록적인 수준으로 급등하면서 팍촘 지역의 메콩강을 따라 금을 찾는 열풍이 불고 있으며, 주민들은 귀금속을 찾기 위해 새로 노출된 사주로 몰려들고 있습니다. 주말 동안 반 스리 푸톤과 반 핫 비아를 포함한 탐본 팍촘의 강둑 10~20미터 구간에 150개 이상의 금 채취 장소가 마련되었습니다. 메콩강의 수위가 크게 낮아지면서 넓은 사주가 나타나 주민들이 강바닥 아래 오랫동안 묻혀 있던 퇴적물에 접근할 수 있게 되었습니다. 반 스리 푸톤의 주민인 삼루아이 대앙파솜은 금 채취가 조부모로부터 전해 내려오는 전통적인 직업이지만 시간이 지나면서 쇠퇴했다고 말했습니다. 그녀는 현재의 호황은 기록적인 금 가격과 이례적으로 낮은 수위라는 두 가지 주요 요인에 의해 주도되고 있다고 말했습니다. 그녀는 “1바트당 78,400바트라면 아주 작은 조각도 가치가 있습니다.”라고 말했습니다. “그리고 강이 낮아지면 광물 매장지에 도달하기가 더 쉬워집니다.” 금 채취에는 기술과 운이 모두 필요합니다. 이 저수위 기간 동안 대부분의 주민들은 평균적으로 하루에 1,000~1,500바트를 벌 수 있습니다. 더 풍부한 광맥을 발견하는 사람들은 하루에 수천 바트를 벌 수 있는데, 이는 해당 지역의 일반적인 임금 노동에 비해 상당한 수입입니다. 일단 수집된 원금은 빠르게 현금으로 전환할 수 있습니다. 이동식 구매자와 지역 금은방은 매주 해당 지역을 방문하여 발견물을 구매하며 가격은 현재 시장 가격을 기준으로 그램 단위로 계산됩니다. 팍촘의 많은 사람들에게 건조",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "특정 지역의 금 채취 열풍은 흥미로운 로컬 뉴스이지만, 여행객에게 직접적인 안전 문제는 아니므로 '보통'으로 평가.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Gold rush hits Loei as Mekong villagers pan for treasure amid record prices",
@@ -5456,6 +5444,84 @@
         }
       ],
       "collected_at": "16:50",
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://www.khaosodenglish.com/news/2026/03/01/gold-rush-hits-loei-as-Mekong-villagers-pan-for-treasure-amid-record-prices/",
+      "source": ""
+    },
+    {
+      "title": "홍콩 공항, 중동행 항공편 차질로 여행객 발 묶여",
+      "summary": "- 미국-이스라엘의 이란 공격으로 홍콩발 중동행 항공편 최소 27편 지연 또는 취소.\n- 캐세이퍼시픽 등 항공사, 중동 지역 운항 중단. 공항 혼잡 심화.\n- 3월 4일 재개 예정이나, 숙박비 자비 부담 또는 상하이행 변경 옵션 제공.",
+      "full_translated": "미국-이스라엘의 이란 공격으로 인해 일요일 홍콩에서 중동 지역으로 향하는 항공편 최소 27편이 취소되거나 지연되어 여행객들이 공항에 발이 묶였습니다.\n\n수백 명의 승객들이 일요일 아침 홍콩 국제공항에 몰려들어 주로 사우디아라비아의 리야드, 카타르의 도하, 아랍에미리트(UAE)의 두바이로 향하는 항공편의 운항 중단에 대해 문의했습니다.\n\n홍콩의 대표 항공사인 캐세이퍼시픽 항공은 공습 이후 공역 폐쇄로 인해 토요일부터 중동을 오가는 모든 여객 및 화물 항공편을 중단했습니다.\n\n45세의 상하이 소프트웨어 설계자인 Luo Kui는 토요일 오후 5시에 예정된 두바이행 캐세이퍼시픽 항공편이 취소된 후 홍콩에 발이 묶였습니다. 일요일 아침, 항공사는 그에게 두 가지 선택 사항을 제시했습니다. 3월 4일로 잠정적으로 재개 예정인 두바이행 연결 항공편을 유지하되 출발까지 숙박비를 자비로 부담하거나, 티켓을 변경하여 상하이로 돌아가는 것입니다.\n\n아부다비에서 2년 동안 일해 온 Luo는 \"이건 불공평합니다.\"라고 South China Morning Post에 말했습니다. \"상하이에서 홍콩까지 비행하는 데 몇 시간밖에 걸리지 않습니다. 홍콩에서 아부다비까지 비행하는 데 걸리는 시간의 약 3분의 1입니다. 공정한 상황이라면 항공사는 우리에게 돈을 환불해줘야 합니다.\" 그는 일요일 오후 상하이로 돌아가기로 했다고 덧붙였습니다. \"누가 얼마나 오래 걸릴지 알겠어요.\"",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 항공편 차질로 인한 여행객 불편 발생. 공항 혼잡 및 연결편 문제 발생 가능성. 항공편 이용객에게 직접적인 영향.",
+      "event_info": {
+        "date": null,
+        "location": "홍콩 국제공항",
+        "price": null,
+        "location_google_map_query": "Hong Kong International Airport"
+      },
+      "references": [
+        {
+          "title": "Travellers stranded at Hong Kong airport as at least 27 Middle East flights disrupted",
+          "url": "https://www.bangkokpost.com/world/3207560/travellers-stranded-at-hong-kong-airport-as-at-least-27-middle-east-flights-disrupted",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207560_700.jpg"
+        }
+      ],
+      "collected_at": "17:16",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207560_700.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 노동부, 이스라엘 내 자국 노동자 지원 강화 촉구",
+      "summary": "- 이스라엘-이란 긴장 고조 속, 태국 국민의 안전 확보 필요.\n- 노동부는 외무부와 협력하여 현지 체류 중인 노동자 지원.\n- 필요시 대피 계획 및 안전 확보 방안 강구.",
+      "full_translated": "국민당은 노동부와 외무부가 이스라엘에 발이 묶인 노동자들을 돕기 위해 후원합니다.\n국민당은 중동의 긴장이 고조되는 상황을 면밀히 주시하고 평가하기 위해 워룸 설치를 지원합니다. 노동부는 외무부와 협력하여 이스라엘에 발이 묶인 노동자들이 안전한 곳으로 대피할 수 있도록 지원할 것을 권고합니다. 2569년 3월 1일 국민당은 다음과 같은 메시지를 게시했습니다. 중동의 긴장 상황이 광범위한 영향을 미치고 갈등이 고조될 가능성이 있는 가운데 국민당은 해당 지역, 특히 이스라엘과 이란에 있는 태국 국민들에게 우려를 표명합니다. 국민당은 사하스왓 쿰콩 하원의원의 제안에 따라 태국 국민을 즉시 돕기 위해 정부의 다음 조치를 지지할 것을 요청합니다. 촌부리 지역구 7의 국민당 의원은 노동 문제를 지속적으로 모니터링하고 있습니다. 1. 위험 지역에 있는 태국 국민들에게 상업 항공사가 여전히 운항하는 경우 해당 지역에서 즉시 출발하거나 미사일 공격으로부터 보호하기 위해 대피소로 이주할 것을 알립니다. 또한 해당 지역으로 여행할 필요가 없는 태국 국민들에게는 당분간 여행을 피하고 신뢰할 수 있는 출처의 뉴스를 주시할 것을 경고합니다. 2. 지역 내 대사관과 관련 기관으로 구성된 워룸을 설치하여 상황을 면밀히 모니터링 및 평가하고 필요한 경우 국경 간 대피 계획을 준비합니다. 영공이 폐쇄될 경우를 고려하여 요르단, 터키 등 제3국으로의 육로 대피 계획이 필요합니다. 그래야 외무부가 양 지역의 태국 국민을 즉시 도울 수 있습니다. ... 3. 노동부는 외무부와 협력하여 여전히 고용주 및 이스라엘 당국과 함께 갇혀 있는 태국 노동자들을 지원하는 데 주력해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 정부의 해외 노동자 보호 노력은 중요하며, 유사시 여행객에게도 영향을 줄 수 있다는 점에서 정보 제공 가치가 있음. 이스라엘 여행객에게 잠재적 위험에 대한 인식을 높임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปชน. แนะกระทรวงแรงงาน-กต. ติดตามช่วยเหลือแรงงานที่ตกค้างในอิสราเอล",
+          "url": "https://www.thairath.co.th/news/politic/2917243",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaPL6sA1tBH7s.jpg"
+        }
+      ],
+      "collected_at": "17:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaaPL6sA1tBH7s.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "에티하드 항공, 3월 1일부터 A380 항공기 방콕 노선 투입",
+      "summary": "- 에티하드 항공이 3월 1일부터 A380 항공기를 방콕 노선에 투입하여 수용 능력 확대.\n- 이는 태국 관광 산업 활성화에 기여할 것으로 예상됨.\n- A380 투입은 증가하는 여행 수요에 대응하고, 더 많은 여행객에게 편리한 항공편 제공을 목표.",
+      "full_translated": "에티하드 항공이 3월 1일부터 A380 항공기를 방콕 노선에 투입하여 수용 능력을 확대합니다. 이는 태국 관광 산업 활성화에 기여할 것으로 예상됩니다. A380 투입은 증가하는 여행 수요에 대응하고, 더 많은 여행객에게 편리한 항공편 제공을 목표로 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "항공편 증가는 여행객의 편의성을 높이는 요인이므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Etihad March 01: A380 to Bangkok Adds Capacity, Lifts Thailand Tourism - Meyka",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFBxVEhXeDdQTW5iYzduNkpBS0FKUThNYkJEQTFWV2laclRCNnVPRWVrWER6SGRFMzZQMWI4V1NZcmpGNTFuSHllS2ctRkF1TU95OUk0clJtMzg2b002RzVOdmJtREJvQ3RZYVRpV1hJWll3aTJLMVp2QV9yX2NZYlg4bm4xLVk5Nmo4TUp6YmpmVDJrMUllNTNZRUpIdw?oc=5",
+          "source": "Meyka",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
   ]
