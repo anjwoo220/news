@@ -6244,14 +6244,9 @@
       "summary": "- 태국 주요 공항에서 중동 상황 악화로 인해 총 134편의 항공편이 영향을 받음.\n- 이 중 99편이 취소되었으며, 수완나품 공항에서 59편, 돈므앙 및 치앙마이 공항에서 각 2편, 푸껫 공항에서 36편이 취소됨.\n- 여러 항공사가 태국과 중동 간 항공편을 취소했으며, 치앙라이 및 핫야이 공항은 영향을 받지 않음.",
       "full_translated": "태국 공항 관리국(AoT)은 일요일 밤 중동 상황 악화로 인해 토요일 이후 4개의 주요 공항에서 134편의 항공편이 영향을 받았다고 발표했습니다. 영향받은 항공편 중 99편이 취소되었습니다. AoT 사장 Paweena Jariyathitipong은 수완나품 공항에서 59편, 돈므앙 및 치앙마이 공항에서 각 2편, 푸껫 공항에서 36편이 취소되었다고 밝혔습니다. Paweena에 따르면 치앙라이 및 핫야이 공항은 영향을 받지 않았습니다. 많은 항공사가 태국과 중동 또는 인근 영공 간 항공편을 취소했습니다. 여기에는 El Al Israel, Air Arabia, Emirates, Qatar Airways, Etihad, Gulf Air, World2fly 및 Thai Air Asia X가 포함됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 지역의 긴장 고조로 인한 항공편 취소 및 지연은 여행객의 이동에 직접적인 영향을 미치므로 높은 점수를 부여함. 특히, 현재 저녁 시간대이므로 당일 발생한 사건에 대한 정보 제공의 중요성을 고려함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East situation affected 134 flights at Thai main airports",
@@ -6262,21 +6257,18 @@
       ],
       "collected_at": "22:43",
       "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207633_700.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.bangkokpost.com/thailand/general/3207633/middle-east-situation-affected-134-flights-at-thai-main-airports",
+      "source": ""
     },
     {
       "title": "부리람 금은방, 중동 분쟁으로 금 판매 일시 중단",
       "summary": "- 부리람의 한 금은방이 중동 분쟁으로 인한 금 시세 불안정으로 금 판매를 일시 중단했습니다.\n- 금은방은 금 가격 변동성이 커짐에 따라 금을 모두 금고에 보관하고 판매를 중단했습니다.\n- 고객들은 금 가격 상승을 우려하며 금 구매 문의를 하고 있습니다.",
       "full_translated": "부리람 금은방, 중동 분쟁으로 금 판매 일시 중단\n\n3월 1일, 한 언론사에서 보도한 바에 따르면, 중동 분쟁으로 인해 여러 분야에서 변동성이 커지고 있으며 특히 금 가격이 그렇습니다. 부리람 지역의 한 백화점에 있는 금은방은 문을 열고 직원이 있었지만, 금 장신구가 진열되어 있지 않았습니다. 금 가격과 관련된 정보도 표시되지 않았습니다. 금은방 매니저에 따르면, 본사로부터 금을 모두 금고에 보관하고 판매를 중단하라는 지시를 받았다고 합니다. 이는 중동 분쟁 상황으로 인해 금 시세가 불안정하기 때문입니다. 만약 고객이 금을 판매하러 오는 경우, 밧당 73,000바트에 매입할 것이라고 합니다. 하루 종일 고객들이 금 진열이 없는 이유와 금 가격에 대해 문의했습니다. 어떤 고객은 금 가격이 10만 바트에 이를 것을 우려하여 금을 사려고 했습니다. 금이 진열되어 있지 않더라도 경찰은 규정에 따라 검사를 진행했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 금 가격 변동에 대한 정보로 여행객의 소비 심리에 영향을 줄 수 있으며, 환전 및 금 관련 상품 구매에 대한 고려가 필요할 수 있음. 다만, 직접적인 여행 안전 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ร้านทองที่บุรีรัมย์ เก็บทองเกลี้ยงตู้ งดขายชั่วคราว ปมสู้รบในตะวันออกกลาง",
@@ -6287,21 +6279,18 @@
       ],
       "collected_at": "22:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5vGVb3c1wnz.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/local/2917274",
+      "source": ""
     },
     {
       "title": "라오스 연료 수출 엄격 통제, 캄보디아 유출 방지",
       "summary": "- 태국 육군, 라오스 연료 수출 제한 완화, 캄보디아 밀수 방지 강화.\n- 12월 14일부터 연료가 캄보디아로 유출된다는 우려에 수출 중단되었었음.\n- 라오스 Champasak 지방 정부는 수입 회사가 합법적으로 등록되었으며 제3국으로 재수출하지 않을 것임을 서면으로 확인.",
       "full_translated": "방콕 – 태국 왕립 육군은 캄보디아로의 밀수를 방지하기 위한 엄격한 통제 조치를 유지하면서 라오스로의 연료 수출에 대한 제한을 완화했다고 육군 대변인이 2월 28일에 밝혔습니다. Winthai Suvaree 소장은 연료가 캄보디아로 전용되고 있다는 우려로 인해 12월 14일부터 수출이 중단되었다고 말했습니다. 그는 경제적 영향 및 양국 관계와 함께 국경 안보가 여전히 우선 순위라고 강조했습니다.\n\n제2 육군 지역은 라오스 국민과 기업에 미치는 영향을 줄이기 위해 더 엄격한 감독과 함께 완화된 조치를 도입했습니다. 당국은 보안 기관, 지방 공무원 및 Chong Mek 검문소를 통해 운영되는 연료 수출업체와 합동 회의를 열어 양측의 운영자를 확인했습니다. 라오스 Champasak 지방 정부는 수입 회사가 합법적으로 등록되었으며 제3국으로 연료를 재수출하지 않을 것임을 서면으로 확인했습니다. 추가 안전 장치에는 출발지에서 목적지까지 연료 탱커의 GPS 추적, 허가 조건에 따른 차량 검사 및 라오스의 지정된 저장소에서 연료 배달에 대한 필수 인증이 포함됩니다. 운송 보고서는 매번 Suranaree 태스크 포스에 제출해야 합니다. 군은 이번 조치가 라오스와의 좋은 관계를 지원하는 동시에 캄보디아로의 불법적인 연료 전용을 막기 위해 조율된 태국-라오스 조치가 유지되도록 보장한다고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국-라오스 국경 통과에 영향을 줄 수 있지만, 여행객에게 직접적인 영향은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Army says Laos fuel exports under tight watch, no leak to Cambodia",
@@ -6310,21 +6299,19 @@
         }
       ],
       "collected_at": "22:43",
-      "date": "2026-03-01"
+      "image_url": "",
+      "date": "2026-03-01",
+      "link": "https://www.khaosodenglish.com/news/2026/03/01/army-says-Laos-fuel-exports-under-tight-watch-no-leak-to-cambodia/",
+      "source": ""
     },
     {
       "title": "파야오 지역구 재선거, 탐마낫 의원 동생 압승",
       "summary": "- 파야오 1구역 재선거에서 탐마낫 의원의 동생인 아크라 프롬파오 후보가 압도적인 표차로 승리했습니다.\n- 3월 1일, 투표소에서 진행된 개표 결과 아크라 프롬파오 후보가 144표를 획득하며 1위를 차지했습니다.\n- 이번 선거는 높은 관심 속에 치러졌으며, 유권자들의 적극적인 참여가 있었습니다.",
       "full_translated": "파야오 주 1구역 재선거 결과, 탐마낫 의원의 동생인 아크라 프롬파오 후보가 소속 정당인 끌라탐 당에서 압승을 거두었습니다.\n\n2026년 3월 1일, 파야오 주 므앙 군 타왕통 지역 4번 빌리지에 위치한 반 살라 학교 구내 식당에서 투표가 진행되었습니다. 투표가 종료된 후 투표함이 봉쇄되었고 개표가 시작되었습니다.\n\n개표 결과, 1구역 6번 투표소에서 아크라 프롬파오 후보 3번이 144표를 획득하여 1위를 차지했습니다. 2위는 위사 분낫다 후보 2번으로, 42표를 획득했습니다. 끌라탐 당은 비례대표 투표에서 115표를 얻었고, 국민당은 48표를 얻었습니다.\n\n파야오 주 선거관리위원장인 파낫다 찬초티얀 씨는 선거가 평화롭고 질서 있게 진행되었으며, 전체 유권자 439명 중 227명이 투표에 참여하여 투표율이 50%에 달했다고 밝혔습니다. 투표함이 봉쇄된 후 개표가 진행되었고, 다음 절차를 진행하기 위해 득표수가 집계되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ผลเลือกตั้งใหม่พะเยา เขต 1 น้องชายธรรมนัส จากพรรคกล้าธรรมยังชนะขาดลอย",
@@ -6335,21 +6322,18 @@
       ],
       "collected_at": "22:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ6HXmGrTUs5E.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/politic/2917271",
+      "source": ""
     },
     {
       "title": "UD 트럭, Quester MY2026 출시: 8리터 350마력 엔진",
       "summary": "- UD 트럭이 Quester MY2026 모델을 출시했습니다.\n- 8리터 350마력 엔진과 유로 5 기준을 충족하는 ESCOT 기어를 탑재했습니다.\n- 운송 비용 절감 및 수익 증대에 초점을 맞췄습니다.",
       "full_translated": "UD Trucks는 8리터 350마력 엔진을 장착한 Quester MY2026 트럭을 출시했습니다. 이 트럭은 운송의 모든 측면을 개선하고 비용을 절감하며 이익을 증가시키는 유로 5 표준 ESCOT 기어를 특징으로 합니다. UD 트럭 (태국) 회사의 회장인 Ms. Vilawan Vispapae는 지난 2년 동안 UD 트럭 태국이 유로 5 UD 트럭을 시장에 출시했으며 전국 고객으로부터 명확한 인정을 받았다고 말했습니다. 이는 작년에 10%로 증가한 시장 점유율에 반영되어 실제 사용에서 품질과 브랜드에 대한 고객의 신뢰를 입증합니다. 따라서 우리는 한 단계 더 발전한 Quester MY2026 모델이 특히 ESCOT 준자동 기어가 장착된 8리터 350마력 Quester 모델이 운송 사업자로부터 좋은 반응을 얻을 것이라고 확신합니다. 회사의 테스트 조건에 따라 연비는 4.5km/리터이며 이는 만족스러운 수준입니다. 또한 운전자의 작업을 지원하고 운영 효율성을 높이며 자산 안전을 보호하고 고객의 지속 가능한 성공을 위해 이익을 강화하는 새로운 기능도 있습니다. 1. Quester는 최첨단 엔지니어링 기술, 예를 들어 GH8 350마력 엔진과 GH11 410마력 엔진 모두에서 사용할 수 있는 ESCOT 기어를 통해 연비 표준을 향상시킵니다. 또한 낮은 rpm에서 넓은 범위의 높은 토크를 제공하는 데 중점을 두고 있으며 배출량을 줄이기 위해 SCR 기술이 적용된 Euro 5 표준 엔진과 성능 저하없이 환경에 미치는 영향을 줄이는 고급 연료 분사 시스템이 있습니다. 2. 운전 기술 및 기술을 향상시키는 데 도움이되는 기능 추가",
       "category": "BUSINESS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 내 물류 및 운송 관련 새로운 기술 동향을 보여주는 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "UD Trucks เปิดตัวรถบรรทุก Quester MY2026 เครื่องยนต์ 8 ลิตร 350 แรงม้า",
@@ -6360,6 +6344,83 @@
       ],
       "collected_at": "22:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZpxFmdNqEeRB.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/auto/news/2917263",
+      "source": ""
+    },
+    {
+      "title": "태국 민간항공청, 중동 영공 폐쇄에 따른 긴급 권고 발표",
+      "summary": "- 이스라엘-이란 간 군사적 긴장으로 중동 국가들의 영공이 폐쇄 또는 제한됨.\n- 항공사들은 고위험 지역을 우회하여 운항에 지연이나 취소가 발생할 수 있음.\n- 태국 출발 승객은 항공편 업데이트를 확인하고, 지연/취소 시 태국 민간 항공 규정에 따른 보호를 받을 수 있음.",
+      "full_translated": "태국 – 태국 민간항공청(CAAT)은 이스라엘과 이란 간의 군사적 긴장으로 인해 긴급 권고를 발표했습니다. 최근 공습 및 미사일 작전에 대응하여 여러 중동 국가들이 민간 항공을 보호하기 위해 영공을 폐쇄하거나 제한했습니다. 이스라엘 정부는 모든 민간 항공 운항을 공식적으로 중단하고 추후 공지가 있을 때까지 국내 공항을 피하도록 권고했습니다. 마찬가지로 이란 당국도 보안 조치로 국가 영공을 폐쇄했습니다. 이러한 제한은 분쟁이 확대됨에 따라 항공 회랑을 줄이거나 폐쇄하는 다른 여러 국가로 확대되었습니다. 아랍에미리트, 카타르, 쿠웨이트는 예방 조치로 부분적인 영공 폐쇄를 시행했습니다. 이러한 조치는 유럽, 아시아 및 아시아-태평양 지역 간의 주요 국제 항공 경로에 영향을 미칠 것으로 예상됩니다. 결과적으로 많은 항공사들이 고위험 지역을 피하기 위해 항공편을 우회하고 있으며, 이는 중동을 통과하는 국제 노선에서 지연이나 취소를 초래할 수 있습니다. 유럽, 중동 또는 해당 지역 연결편으로 여행하는 승객은 항공사 업데이트를 모니터링하고 공항으로 가기 전에 항공편 상태를 확인해야 합니다. CAAT는 태국에서 출발하는 승객에게 항공편 지연 또는 취소 시 태국 민간 항공 규정이 승객을 보호한다는 점을 상기시킵니다. 그러나 환승 국가는 동일한 법적 보호를 제공하지 않을 수 있습니다. 클레임 또는 불만 사항은 다음 주소로 제출할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 항공편 이용 여행객에게 직접적인 영향을 줄 수 있는 정보이며, 항공편 지연/취소 가능성을 알리는 중요한 업데이트임. 현재 시각(저녁)에 맞춰 주의를 환기시키는 것이 중요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Civil Aviation Authority of Thailand Issues Advisory Amid Middle East Airspace Closures",
+          "url": "https://thepattayanews.com/2026/03/01/civil-aviation-authority-of-thailand-issues-advisory-amid-middle-east-airspace-closures/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/644687943_1401063955399576_4457733575092070958_n.jpg"
+        }
+      ],
+      "collected_at": "23:17",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/644687943_1401063955399576_4457733575092070958_n.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국, 항공사 59편 결항 발표; 관광청, 위기 속 관광 상황 모니터링 센터 개설",
+      "summary": "- 태국 항공사들이 59편의 항공편 결항을 발표했습니다.\n- 태국 관광청(TAT)은 위기 상황 동안 관광 상황을 모니터링하기 위한 센터를 개설했습니다.\n- 항공편 이용객은 사전에 운항 정보를 확인할 필요가 있습니다.",
+      "full_translated": "태국 항공사들이 59편의 항공편 결항을 발표했습니다. 태국 관광청(TAT)은 위기 상황 동안 관광 상황을 모니터링하기 위한 센터를 개설했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공편 결항 정보는 여행객에게 직접적인 영향을 미치므로 중요하다고 판단됨. 위기 상황 모니터링 센터 개설은 여행 안전에 대한 노력으로 볼 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Airlines have announced the cancellation of 59 flights. The Tourism Authority of Thailand (TAT) has opened a center to monitor the tourism situation during the crisis. - Money & Banking Magazine - วารสารการเงินธนาคาร",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QbHNZdy1zaENuaXVsZ2tOamw1Zy1pXzhxblMycXVobjFoVlFEU3B4bHNoRTZiZi12LW5OZDQxUWdYRW9KS1BxaVl1LXFDUFRSOFRZZFI4SUY?oc=5",
+          "source": "วารสารการเงินธนาคาร",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란, 호르무즈 해협 봉쇄 가능성 부인",
+      "summary": "- 이란 외무장관, 호르무즈 해협 봉쇄 계획 없다고 발표\n- 이스라엘-미국의 공격에도 해협 봉쇄는 고려하지 않아\n- 단, 과거 이란은 유사시 해협 봉쇄 가능성을 경고한 바 있음",
+      "full_translated": "이란 외무장관이 호르무즈 해협 봉쇄 계획이 없다고 밝혔습니다. 이는 이스라엘과 미국의 공격이 계속되는 상황에서도 나온 발언입니다. 2026년 3월 1일, 아바스 아락치 이란 외무장관은 알자지라와의 인터뷰에서 현재 호르무즈 해협을 봉쇄할 의사가 없으며, 해협 통행을 방해할 어떤 계획도 없다고 말했습니다. \n\n이러한 발언은 이스라엘과 미국이 이란을 격렬하게 공격하는 동안 나왔습니다. 테헤란은 또한 미국의 기지가 있는 중동 국가들을 향해 미사일과 드론을 발사하며 대응했습니다. \n\n아락치 장관의 발표에도 불구하고, 유럽 연합 해군 임무(Aspides) 관계자는 토요일 이란 이슬람 혁명 수비대가 VHF 무선 주파수를 통해 선박에 “호르무즈 해협 통과 불가” 신호를 보냈다고 밝혔습니다. \n\n호르무즈 해협은 사우디 아라비아, 이란, 이라크, 아랍 에미리트와 같은 주요 페르시아 만 석유 생산국을 오만 만과 아라비아 해와 연결하는 세계에서 가장 중요한 석유 수출 경로입니다. 로이터 통신과의 인터뷰에서 한 관계자는 이란 당국이 공식적으로 명령을 확인하지 않았지만 테헤란은 이슬람 공화국에 대한 공격에 대한 대응으로 수년간 좁은 수로를 봉쇄하겠다고 위협해 왔다고 전했습니다. 하지만 실제로 봉쇄가 발생한 적은 없습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "호르무즈 해협은 주요 해상 교통로이므로 봉쇄 가능성 부인은 여행 및 물류에 잠재적인 영향을 미칠 수 있음. 다만, 현재 봉쇄 계획이 없다는 발표이므로 영향도는 중간 수준으로 평가.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กต.อิหร่านยัน ไม่คิดปิดช่องแคบฮอร์มุซ แม้สงครามตึงเครียด",
+          "url": "https://www.thairath.co.th/news/foreign/2917278",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5WR9JeIbLpq.jpg"
+        }
+      ],
+      "collected_at": "23:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5WR9JeIbLpq.jpg",
       "date": "2026-03-01"
     }
   ]
