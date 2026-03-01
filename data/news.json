@@ -6419,14 +6419,9 @@
       "summary": "- 2026년 12월, Tomorrowland가 태국 파타야에서 아시아 최초로 개최됩니다.\n- 글로벌 음악 팬과 관광 산업에 획기적인 이벤트가 될 것으로 기대됩니다.\n- 태국은 이를 통해 글로벌 이벤트 허브로서의 입지를 강화할 계획입니다.",
       "full_translated": "Tomorrowland, 태국 파타야에서 아시아 최초로 풀 스케일 데뷔: 글로벌 음악 팬과 관광 산업을 위한 획기적인 이벤트\n\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 축제 개최 정보는 여행객 유치에 큰 영향을 미치므로 높은 점수를 부여합니다. 2026년 개최 확정으로 업데이트되었습니다.",
-      "event_info": {
-        "date": "2026-12-XX",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 Tomorrowland 개최지"
-      },
+      "event_info": "{'date': '2026-12-XX', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 Tomorrowland 개최지'}",
       "references": [
         {
           "title": "Tomorrowland Makes Its First Full-Scale Asian Debut in Pattaya, Thailand: A Ground breaking Event for Global Music Fans and Tourism - Travel And Tour World",
@@ -6437,21 +6432,18 @@
       ],
       "collected_at": "23:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVzVHem1GN3kxM2g1OC1XRE1XdEtZRWRldF9Yb3UxYzVweF9yRXd0c3VYX0ZHREZON1JGSXNIWlZJQmhnZS1xZlhjWEt0SzZYc1pxUUdPcDk1c3RjaXJYcHFnQ25uY1MyT1NvX3JCWnZiNUJlVXE1ZU5mMXJCUkd0ZlFzNTM5TW9takNWMkRKb1FTekt2SVhrV2REUlo0QnA5U1hsdkJDekxUQzE2QUFDRTc4Vy1md2Vjb2FWVWxRcjZ2ekhNS20zT3pKcHNSOG9XZ21DZE02eGZLQUVGQl9jQXNqeUp2N1VXMjFEZ0NRb3Fub3NwTDRXV2EwRWljYmRQczNiZzRrZlBkdw?oc=5",
+      "source": ""
     },
     {
       "title": "이란 분쟁으로 UAE 영공 폐쇄, 태국에 발이 묶인 벨기에 관광객 35명",
       "summary": "- 이란 분쟁으로 인해 UAE 영공이 폐쇄되었습니다.\n- 이로 인해 태국에 있던 벨기에 관광객 35명의 발이 묶였습니다.\n- 항공편 운항에 차질이 발생할 수 있으므로 여행 전 확인이 필요합니다.",
       "full_translated": "이란과 관련된 분쟁으로 인해 UAE 영공이 폐쇄되면서 태국에 머물던 벨기에 관광객 35명이 귀국하지 못하고 있습니다. 항공편 운항에 차질이 예상되므로, 해당 지역을 여행하는 여행객들은 항공사에 최신 정보를 확인하는 것이 좋습니다. 특히 경유편을 이용하는 경우 주의가 필요합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공편 운항에 영향을 미치는 중요한 정보이므로 포함합니다. 여행객의 이동에 직접적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "해당 사항 없음",
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': '해당 사항 없음', 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "35 Belgian tourists stranded in Thailand after Iran conflict closes UAE airspace - Aviation24.be",
@@ -6462,7 +6454,134 @@
       ],
       "collected_at": "23:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFMwZkE5N1Q1b2hsNjExVlpuYmNoMi1zWEhydHd5dUpXeU9rVnZ3RlpNVmc2TFRIaU9IZGFhWkpibEJHSUxOSm41MVZScFpTM0NRS1pQR3RjLXRSYmpHcU9Nckh6VFhWb3FXODhJNW1XN0dKT2VONmQ0R3d1VUtCX1VDUTNmUjJtMmNiRHpXWUhjUkMtRThBdWxhUWkwSVhjeGRSWllyZFhWaC1ESi1sSTh5cWZoV1RBSUpHaGVBNFZtVGF4TFlXZDhIVVJmZw?oc=5",
+      "source": ""
+    }
+  ],
+  "2026-03-02": [
+    {
+      "title": "태국 관광공원, 호랑이 72마리 질병으로 폐사",
+      "summary": "- 태국 관광공원에서 호랑이 72마리가 질병으로 폐사함.\n- 해당 공원은 관광객들에게 인기가 많은 곳이었음.\n- 정확한 폐사 원인 및 추가 정보는 조사 중.",
+      "full_translated": "태국 관광공원에서 호랑이 72마리가 질병으로 폐사했습니다. 해당 공원은 관광객들에게 인기있는 곳이었습니다. 정확한 폐사 원인 및 추가 정보는 조사 중입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물원/관광 시설의 안전 및 위생 문제는 여행객의 안전과 직결되므로 포함. 다만, 현재 시각이 늦은 밤이므로 중요도를 다소 낮춤.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "72 tigers at Thailand tourist park die from illness - KJCT",
+          "url": "https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3LmtqY3QuY29tL2NvbnRlbnQvdmlldy80NjY5ODQvdzIwaC03Mi10aWdlcnMtYXQtdGhhaWxhbmQtdG91cmlzdC1wYXJrLWRpZS1mcm9tLWlsbG5lc3PSAQA?oc=5",
+          "source": "KJCT"
+        }
+      ],
+      "collected_at": "00:16",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "미국, 오만만에서 이란 선박 침몰 발표 및 미군 사망자 발생 인정",
+      "summary": "- 미국은 이란 선박이 오만만에서 침몰 중이라고 발표했습니다.\n- 미군 3명이 사망하고 여러 명이 부상당했다고 인정했습니다.\n- 이는 이란에 대한 군사 작전 '이픽 퓨리' 중 발생한 것입니다.",
+      "full_translated": "미국은 지난 토요일 공격받은 이란 해군 코르벳함이 오만만 해저로 가라앉고 있다고 밝혔습니다. 또한 3월 1일 이란 공격 작전 중 미군 3명이 사망하고 여러 명이 부상당했다고 인정했습니다. 미국 중부사령부(CENTCOM)는 이란 남부 차바하르 항구 앞 오만만에서 자마란급 코르벳함이 침몰하고 있다고 밝혔습니다. 미군은 '이픽 퓨리 작전' 중 사망자가 발생했으며 5명이 중상을 입었다고 밝혔습니다. 폭발 파편과 뇌진탕으로 경상을 입은 군인들도 있습니다. CENTCOM은 대규모 전투 작전이 계속 진행 중이라고 밝혔습니다. 미군 사망자 신원은 유족에게 통보 후 24시간이 지나기 전까지 공개하지 않을 것이라고 덧붙였습니다. \n\n출처: 알자지라",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 긴장 고조 가능성. 현재는 직접적인 위협은 아니지만 잠재적 위험 요소를 고려하여 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สหรัฐฯ เผย จมเรืออิหร่านในอ่าวโอมาน ยอมรับทหารดับ 3 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2917280",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaWH8nDwRk3m5J.jpg"
+        }
+      ],
+      "collected_at": "00:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaWH8nDwRk3m5J.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "이란 공격 후 빠이 경찰 경계 태세 강화 - 방콕 포스트",
+      "summary": "- 이란의 공격 이후 태국 빠이 지역 경찰이 경계 태세를 강화했습니다.\n- 구체적인 공격 대상이나 위협은 명시되지 않았습니다.\n- 여행객 안전에 영향을 줄 수 있으므로 관련 상황을 주시해야 합니다.",
+      "full_translated": "이란 공격 후 빠이 경찰 경계 태세 강화 방콕 포스트",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "빠이 지역의 잠재적 불안정성 증가. 여행객 안전에 대한 간접적 영향 가능성 있음. 즉각적인 위협은 아니지만 상황 주시 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pai cops on alert after Iran hit - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZmJhQ3NsejZpU3RxTURQemU1d3pXRXJjdE9iOUpkYnljdmV4X1FPZEhmMjVCMmVVeU5OQnFkdFBTSVljRkpSTkpXVnREcU9JMG9zY0ZELUlKX1kyRXB5b1kwNDlvNHNMcEdrOWVTclhQMzJvd2FPRDgtcWo5RnNUMmtMMktldGtERGwxRXFR?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "태국, 송끄란 축제 맞아 Four Seasons Resorts 특별 행사 진행",
+      "summary": "- Four Seasons Resorts Thailand는 치앙마이, 코사무이, 골든 트라이앵글에서 송끄란 축제 기념 행사 개최\n- 전통적인 송끄란 축제 경험을 제공\n- 다양한 문화 행사와 특별 프로모션 제공 예정",
+      "full_translated": "Four Seasons Resorts Thailand는 치앙마이, 코사무이, 골든 트라이앵글에서 진정한 송끄란 축제를 맞아 고객을 환영합니다. 알아야 할 모든 것이 여기에 있습니다. Travel And Tour World",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "송끄란 축제 관련 여행 정보 제공. 축제 기간 동안 해당 지역을 방문하는 여행객에게 유용한 정보.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이, 코사무이, 골든 트라이앵글",
+        "price": "리조트 문의",
+        "location_google_map_query": "Four Seasons Resorts Thailand"
+      },
+      "references": [
+        {
+          "title": "Four Seasons Resorts Thailand Welcomes Guests to Authentic Songkran Festivities Across Chiang Mai, Koh Samui and the Golden Triangle, Here is All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNYzNpVThZUkNNUE83Z2x4dDhkQXBSWEFfRG1IWFJFRVFVWU11cURuaVc5SWlWWTdJOVdLU1I1eW9nbC01Y0t2Wjk5RDlrLVczRmQ4cmV6UFVSemprMFhUUERvSG96Qk1vbVR4WklSalVQN00zb2ZSVlEyQjkzTmV2Z2w5cE1FUE1ON3pnZDJuYXJZeXdYbEdzeDVxQ25wR3Zlb0JlVmRwWHEyZTlTaDJYR1ktQXMxWWJzODZfMG5uMm9qRkNTbTdCMFFJZFpGQ0JMN3FTOHowU3ZMNUZwcUZ5dWhNSTRaY2ZFdV9MNE5WUnE5akQ4cERDTGRHMUlTUDlOYzg0WngwZU04QmR0OER0WlZPcWQ0RWtlSHJSNUJtcXZ2Vmw2MDVvdENKREFzSHQ0Nlo4?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "랏차부리, 수억 마리 박쥐 떼 장관 연출: 관광객 발길 이어져",
+      "summary": "- 랏차부리 명소, 수억 마리 박쥐 떼가 동굴에서 쏟아져 나오는 장관 연출.\n- 일몰 전, 동굴 주변 전망대는 이 광경을 보기 위해 몰려든 사람들로 가득.\n- 주말과 연휴에는 특히 많은 관광객이 방문, 지역 경제 활성화에 기여.",
+      "full_translated": "랏차부리 주의 주요 하이라이트, 관광객들은 '수억 마리의 박쥐 떼'가 동굴에서 날아오르는 광경에 흥분하며, 태국의 독특하고 두드러진 자연 현상으로 여깁니다. 2069년 3월 1일, 기자들은 해가 지기 전 저녁에 동굴 주변의 전망대가 중요한 순간을 기다리는 사람들로 가득 찼다고 보도했습니다. 박쥐 떼가 동굴에서 쏟아져 나오기 시작하면서 하늘을 가로지르는 거대한 검은색 리본처럼 이어져 보는 이들에게 큰 감동과 인상을 남겼습니다. 많은 관광객들은 이러한 광경을 보기 드물다고 말하며, 태국의 독특한 자연 관광지 중 하나라고 입을 모았습니다. 특히 주말과 연휴에는 많은 사람들이 몰려들어 지역 경제, 음식점, 기념품 가게 및 숙박 시설의 수입 증가에 기여하고 있습니다. 동굴 내부의 박쥐는 대부분 쥐박쥐로, 엄청난 수가 함께 모여 살며 밤에 먹이를 찾고 새벽에 동굴로 돌아갑니다. 한편, 관계자들과 지역 사회는 편의 시설을 준비하고 관광객들에게 청결을 유지하고 동물을 방해하는 소리를 내지 않도록 홍보하여 자연의 풍요로움을 후손들이 감상할 수 있도록 보존하고 있습니다. 따라서 이 동굴에서 박쥐가 날아오는 현상은 랏차부리 지방 관광의 중요한 하이라이트로, 특히 시원한 날씨 속에서 자연을 감상하는 분위기를 더욱 아름답고 인상적으로 만들어 일년 내내 방문객을 유치할 수 있습니다. 또한, 사원에는 백만 불상이 모셔져 있는 예배당이 있어 관광객들은 자신에게 행운을 빌기 위해 예배를 드릴 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "특정 지역의 볼거리 정보 제공. 관광객 유치에 긍정적 영향 예상",
+      "event_info": {
+        "date": null,
+        "location": "랏차부리",
+        "price": null,
+        "location_google_map_query": "랏차부리 박쥐 동굴"
+      },
+      "references": [
+        {
+          "title": "นักท่องเที่ยวแห่ชม \"ฝูงค้างคาว\" นับร้อยล้านตัว บินออกจากถ้ำเป็นแถวยาวต่อเนื่อง",
+          "url": "https://www.thairath.co.th/news/local/localbusiness/2917276",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5gZqJYl9nvN.jpg"
+        }
+      ],
+      "collected_at": "00:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5gZqJYl9nvN.jpg",
+      "date": "2026-03-02"
     }
   ]
 }
