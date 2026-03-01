@@ -5980,14 +5980,9 @@
       "summary": "- 태국 정부가 무비자 체류 가능 기간을 단축하는 방안을 검토 중입니다.\n- 현재 60일에서 30일로 줄이는 것을 고려하고 있습니다.\n- 이는 태국을 방문하는 여행자들에게 영향을 미칠 수 있습니다.",
       "full_translated": "태국 정부는 무비자 체류 가능 기간을 60일에서 30일로 단축하는 방안을 고려하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 변경될 경우 여행 계획에 차질이 생길 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Considers Reducing Visa-Free Stays from 60 Days to 30 Days - Thailand Business News",
@@ -5998,21 +5993,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR1V3S29hSWMya0pqc3ZQRXB6aXByNEEwZ3ZidVRBeFhuZGVCTXo1MGQzeWxzQ3ZoWEhYVVdQb2lOc3NfbFp0dHVqRUpUdVQtd1lCMG95VXJBRzlUNVhyWUZqcWNsWjFXYlFSaVg5MWpiQ1Jxb2ljVnBlalZOOXh3cE1xQXR6RWNfUS15SXp6OGN0ZS0zMmdGd0xVMWdNUi02OHhoYlk1VG1kaVN5Mm1xWVhB?oc=5",
+      "source": ""
     },
     {
       "title": "이란, 최고 지도자 사망 후 '지도자 협의회' 구성",
       "summary": "- 이란 정부는 최고 지도자 알리 하메네이 사망 후 국가 운영을 위한 임시 지도자 협의회를 구성했습니다.\n- 협의회는 대통령, 사법부 수장, 성직자로 구성되어 있으며, 새 지도자가 선출될 때까지 임무를 수행합니다.\n- 이번 조치는 미국과 이스라엘의 공격으로 하메네이 지도자가 사망한 데 따른 것입니다.",
       "full_translated": "이란은 알리 하메네이 최고 지도자가 미국과 이스라엘의 공격으로 사망한 후, 국가를 운영하기 위한 '지도자 협의회'를 구성했습니다. 외신 보도에 따르면 이란 정부는 토요일 발생한 공습으로 최고 지도자가 사망한 후 임시로 국가를 관리할 '지도자 협의회'를 구성한다고 발표했습니다. 이란 헌법에 따르면 최고 지도자가 더 이상 직무를 수행할 수 없을 경우, 대통령, 사법부 수장, 그리고 '수호 위원회'의 고위 성직자로 구성된 임시 협의회를 구성하여 88명의 전문가 협의회가 새로운 지도자를 선출할 때까지 그 기능을 수행하도록 합니다. 이 협의회는 전문가 협의회 부의장인 아야톨라 알리레자 아라피, 이란 대통령 마수드 페세츠키안, 사법부 수장 골람-호세인 모흐세니-에제이로 구성됩니다. 아야톨라 알리레자 아라피는 정부 기관에서 오랜 경력을 쌓았고 하메네이의 신뢰를 받는 측근으로 알려져 있습니다. 그는 현재 전문가 협의회 부의장이자 선거 후보 자격을 심사하고 의회가 통과시킨 법률을 심의할 권한이 있는 기관인 수호 위원회의 위원이기도 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "이란의 정치적 상황 변화는 잠재적으로 여행에 영향을 미칠 수 있으나, 즉각적인 위협은 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านจัดตั้ง “สภาผู้นำ” บริหารประเทศ หลังคาเมเนอีถูกสังหาร",
@@ -6023,21 +6015,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqHnpkANRy2u.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917267",
+      "source": ""
     },
     {
       "title": "촌부리, 전 해군 장교의 새로운 농가 카페 '반 라이 나이 르아' 개장",
       "summary": "- 전 해군 장교이자 지방 행정 기구 위원인 Yutthana Rak Khwam Dee가 새로운 농가 카페 '반 라이 나이 르아'를 개장했습니다.\n- 개장 기념 행사에는 지역 유지 및 많은 하객이 참석하여 축하와 응원을 보냈습니다.\n- 4에이커 규모의 사유지에 위치한 '반 라이 나이 르아'는 자연과 정원에 대한 그의 열정을 담아 조성되었습니다.",
       "full_translated": "전 해군 장교이자 현재 Takhian Tia Subdistrict Administrative Organization Council 위원인 Yutthana Rak Khwam Dee 씨는 그의 새로운 사업장인 “Baan Rai Nai Ruea”의 공식 개장을 앞두고 상서로운 날을 기념하기 위해 전통적인 공덕 쌓기 및 축복 행사를 주최했습니다. 이 행사에는 많은 저명한 손님들과 지역 인사들이 참석하여 축하와 축복을 보냈습니다. 참석자 중에는 Takhian Tia Subdistrict Municipality 시장 Mitchai Prakobtham 씨, Wachira Suecho 부시장, Khwanyuen Prakobtham 부시장, Chonburi Provincial Administrative Organization Council 위원 Malinee Singhasuwich 씨, Nong Pla Lai Subdistrict 전 시장 Phinyo Hom Klan 씨, Moo 3 마을 이장 Som yot Tokiri 씨가 있었습니다. 또한 Takhian Tia 시장 수석 고문인 Charan Prakobtham 씨는 그의 가족과 함께 축하 행사에 참여했으며, Subdistrict Council 의장 Songwut Prakobtham 씨와 정치인, 정부 관료, 의회 의원 및 수많은 귀빈들이 공덕 쌓기에 참여하고 새로운 사업의 성공을 기원했습니다. “Baan Rai Nai Ruea”는 Yutthana 씨가 소유한 10 rai (약 4 에이커) 이상의 사유지에 위치하고 있습니다. 전 해군 장교로서의 배경과 자연 및 정원에 대한 그의 깊은 열정을 바탕으로 그는 이 고요한 땅을 매력적인 농가로 탈바꿈시킬 것을 구상했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 카페 정보는 여행자들에게 흥미로운 선택지를 제공할 수 있습니다. 특히, 지역색을 느낄 수 있는 장소라는 점에서 가치가 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "Baan Rai Nai Ruea, Takhian Tia",
-        "price": null,
-        "location_google_map_query": "Baan Rai Nai Ruea Takhian Tia"
-      },
+      "event_info": "{'date': None, 'location': 'Baan Rai Nai Ruea, Takhian Tia', 'price': None, 'location_google_map_query': 'Baan Rai Nai Ruea Takhian Tia'}",
       "references": [
         {
           "title": "Former Royal Thai Navy Officer Blesses and Opens New Farmhouse Cafe “Baan Rai Nai Ruea” in Takhian Tia",
@@ -6048,16 +6037,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17723680872327200200176017446015.jpg?v=1772368156",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://thepattayanews.com/2026/03/01/former-royal-thai-navy-officer-blesses-and-opens-new-farmhouse-cafe-baan-rai-nai-ruea-in-takhian-tia/",
+      "source": ""
     },
     {
       "title": "AWC, 2025년 기록적인 성장 달성",
       "summary": "- AWC는 2025년에 기록적인 성장을 달성했습니다.\n- 자세한 내용은 markets.businessinsider.com에서 확인할 수 있습니다.\n- 태국 여행 및 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "AWC Achieves Record-Breaking Growth in 2025  markets.businessinsider.com",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "AWC의 성장이 태국 관광 산업에 간접적으로 영향을 줄 수 있으나, 직접적인 영향은 미미하다고 판단.",
-      "event_info": {},
+      "event_info": "{}",
       "references": [
         {
           "title": "AWC Achieves Record-Breaking Growth in 2025 - markets.businessinsider.com",
@@ -6067,6 +6058,133 @@
         }
       ],
       "collected_at": "21:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLWE2VlA2TWowTWpVMDFpZC1KSXU4NU1xaHpZNW81Rm5YZ0tnWGZ2enloM1Fqb3JKN0c2X3ZqTFJQXy1xTjFEcFlfdmRrd1lRX2VwdFRrT1VObTRtbThHNDRTbXBsM0cxQ2JYU1kwcXF2amhxaUpGYmc1ZEp6aHJTTF9rUDltZnpyck9CekZkOU9HV1l6ZEFkTEFyVldQTVFtZU0ybw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 내 외국인 귀국 요청 증가: 중동 정세 불안 관련",
+      "summary": "- 태국 외무부에 따르면 중동 지역 긴장 고조로 인해 태국으로의 귀국 요청이 증가하고 있습니다.\n- 현재 이란에서 29명, 이스라엘에서 20명의 태국인이 귀국을 요청한 상태입니다.\n- 외무부는 상황을 예의주시하며 필요한 지원을 제공할 예정입니다.",
+      "full_translated": "태국 외무부는 중동 상황이 여전히 우려스럽고 전투가 계속되고 있다고 밝혔습니다. 모든 당사자들에게 외교를 통해 해결할 것을 촉구합니다. 이란에 있는 태국인 29명과 이스라엘에 있는 태국인 20명이 귀국을 요청했습니다. 태국 항공이 이스라엘로 무기 부품을 운송하지 않았다고 확신합니다. 내일 태국에 발이 묶인 중동 관광객 문제에 대해 논의할 예정입니다. 2569년 3월 1일 외무부에서 씨하삭 푸앙켓깨우 외무부 장관은 중동의 긴장 상황을 평가하기 위해 상황 모니터링 센터 (War Room) 회의를 주재했습니다. 이 회의에는 외무부 고위 관리들과 해당 지역의 모든 대사관 및 총영사가 참여하여 각 국가의 태국인 관리 및 지원 진행 상황에 대한 최신 정보를 받았습니다. 회의는 현재 중동 지역에 약 11만 명의 태국인이 있으며 전반적으로 중동 지역의 태국인이 심각한 영향을 받았다는 보고는 없다고 밝혔습니다. 이와 관련하여 모든 대사관과 총영사는 태국인들에게 해당 국가 정부의 정보 및 공식 발표, 대사관 및 총영사의 다양한 지침, 위험 지역에 거주하는 태국인들에게 해당 지역을 떠나거나 해당 지역의 피난처로 이동하는 것을 고려하도록 권고하는 공지를 발표했습니다. 또한 다른 국가 또는 국제기구와 협력할 가능성이 있는 태국인 대피 계획도 준비했습니다. 현재 영향을 받은 지역의 대사관과 총영사는 태국인들이 귀국 의사를 등록할 수 있도록 하고 있으며, 태국인들의 대피를 돕고 편의를 제공하기 위해 주최국의 관련 기관과 협력하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역의 긴장 고조로 인해 태국인의 귀국 요청이 증가함. 잠재적으로 태국을 방문하거나 경유하는 여행객에게 영향을 줄 수 있으므로 관련 정보를 제공하는 것이 중요하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คนไทยแจ้งขอกลับประเทศแล้ว 49 คน กต. เชื่อการบินไทยไม่มีขนชิ้นส่วนอาวุธไปอิสราเอล",
+          "url": "https://www.thairath.co.th/news/politic/2917268",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqqTjjBBxaEk.jpg"
+        }
+      ],
+      "collected_at": "21:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqqTjjBBxaEk.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "방콕, 이스라엘 관광객 인기 지역 보안 강화",
+      "summary": "- 방콕이 이스라엘 관광객에게 인기 있는 지역의 보안을 강화했습니다.\n- 최근 이스라엘 관련 긴장 고조에 따른 조치로 보입니다.\n- 여행 시 해당 지역 방문객은 주의가 필요합니다.",
+      "full_translated": "방콕이 이스라엘 관광객들에게 인기 있는 지역에서 보안을 강화하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "최근 국제 정세 불안과 관련된 조치로, 특정 지역에 대한 보안 강화는 여행객의 안전에 영향을 미칠 수 있으므로 게시 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Bangkok tightens security in tourist hubs popular with Israelis - Thai PBS World",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6bUtUV3ZIc1FvRjhfcmFRQ0ZnXzFMei0xYjEyR0JVS1duMl82d09GUzJ3Q3NSN1JFY1JuelhvVjVzUW5oQ0QxVWw1RGFtQ19UcVE?oc=5",
+          "source": "Thai PBS World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "쿠웨이트, 이란 미사일 및 드론 공격으로 1명 사망, 다수 부상",
+      "summary": "- 이란이 쿠웨이트에 100발 이상의 미사일과 280대 이상의 드론을 발사했습니다.\n- 이 공격으로 1명이 사망하고 수십 명이 부상했으며, 부상자 중에는 외국인도 포함되어 있습니다.\n- 쿠웨이트 방공군은 이란의 미사일 97발과 드론 283대를 요격했다고 발표했습니다.",
+      "full_translated": "쿠웨이트 당국은 이란이 100발 이상의 미사일을 발사했으며 280대 이상의 드론을 보냈다고 밝혔습니다. 이로 인해 1명이 사망하고 수십 명이 부상했습니다. 2069년 3월 1일, 쿠웨이트 보건부는 지난 토요일부터 시작된 이란의 공격으로 1명이 사망하고 32명이 부상했다고 밝혔습니다. 부상자는 모두 외국인입니다. 압둘라 알-사나드 보건부 대변인은 부상자들이 가슴, 머리, 복부 등 다양한 부위에 상처를 입었으며, 그중 15명이 자베르 알-아흐마드 병원으로 이송되었다고 밝혔습니다. 한편, 쿠웨이트 국방부는 공군이 이란의 미사일 97발과 드론 283대를 요격했다고 밝혔습니다. 이란의 공격이 시작된 이후부터입니다. 해외 뉴스 팔로우: [https://www.thairath.co.th/news/foreign](https://www.thairath.co.th/news/foreign) 출처: cnn , bbc",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국은 아니지만, 주변국에서 발생한 군사적 긴장 고조는 여행 심리에 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단. 쿠웨이트를 여행하는 한국인에게는 직접적인 안전 문제 발생 가능성도 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คูเวตดับ 1 ศพ เจ็บอื้อ หลังอิหร่านรัวมิสไซล์-โดรนถล่ม",
+          "url": "https://www.thairath.co.th/news/foreign/2917270",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ6DLoOPW1heG.jpg"
+        }
+      ],
+      "collected_at": "21:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ6DLoOPW1heG.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "2026년 3월 3일, 마카 부차의 밤에 완전 월식 - 이번 기회를 놓치면 거의 2년을 기다려야 합니다.",
+      "summary": "- 2026년 3월 3일 마카 부차의 밤에 완전 월식이 일어납니다.\n- 이번 기회를 놓치면 2071년 말까지 기다려야 합니다.\n- 월식은 15:44-21:23 (방콕 현지 시각)에 발생하며, 18:23부터 육안으로 관찰 가능합니다.",
+      "full_translated": "자주 발생하지 않습니다. 2026년 3월 3일 마카 부차의 밤에 '완전 월식' 현상이 나타납니다. 이번 기회를 놓치면 2071년 말까지 기다려야 합니다. 국립 천문학 연구소(NARIT) 페이스북 페이지에 따르면 \"완전 월식은 자주 발생하지 않습니다. 이번 기회를 놓치면 2071년 말까지 기다려야 합니다.\"라고 언급했습니다. \"2026년 3월 3일은 달이 붉은 벽돌색으로 보이는 완전 월식을 볼 수 있는 가장 가까운 날짜입니다. 이번에 놓치면 거의 2년을 기다려야 하며 2071년 12월 31일부터 2072년 1월 1일 사이에 다시 발생합니다. 오래 기다리고 싶지 않다면 3월 초에 준비하세요. 2026년 3월 3일 마카 부차의 밤에 완전 월식 현상은 15:44 – 21:23 (방콕 현지 시각)에 발생합니다. 태국에서는 달이 지평선 위로 솟아오르는 18:23부터 육안으로 관찰할 수 있습니다. 보름달은 약 19:02까지 붉은 벽돌색으로 나타나며 총 39분 동안 지속됩니다. 그 후에도 현상이 끝날 때까지 계속 관찰할 수 있습니다. 월식은 태양, 지구, 달이 같은 평면에 정렬될 때 발생하는 현상으로, 지구가 태양과 달 사이에 위치합니다. 이는 보름달이 뜨는 날, 즉 음력 14-15일에만 발생합니다. 달이 우주로 뻗어 나가는 지구의 그림자를 통과하면서 지구상의 사람들은 달이 점차 사라지는 것을 보게 됩니다. 달이 완전히 그림자 속에 들어가면 다시 달이 사라지는 것을 보기 시작합니다. 고대 태국인들은 이 현상을 라후가 달을 삼키는 것이라고 불렀습니다... 달이 매달 지구를 돌지만 월식이 매번 보름달에 발생하는 것은 아닙니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "특정 날짜에만 볼 수 있는 천문 현상 정보로, 여행 중 특별한 경험을 원하는 여행자에게 흥미로운 정보가 될 수 있습니다. 다만, 2년 후의 정보이므로 중요도는 낮습니다.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "태국 전역 (방콕 기준)",
+        "price": "무료",
+        "location_google_map_query": "Thailand"
+      },
+      "references": [
+        {
+          "title": "จันทรุปราคาเต็มดวง คืนวันมาฆบูชา 3 มีนาคม 2569 พลาดครั้งนี้ต้องรออีกเกือบ 2 ปี",
+          "url": "https://www.thairath.co.th/news/society/2917265",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqOZ6Z7GwY8n.jpg"
+        }
+      ],
+      "collected_at": "21:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZqOZ6Z7GwY8n.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "UAE, 영국, 미국, 사우디 아라비아, 태국 등 주요 시장, 해외 여행 성장 주도",
+      "summary": "- UAE를 포함한 주요 국가들이 해외 여행 성장을 견인하고 있습니다.\n- 인도는 방글라데시와의 긴장 고조 속 외국인 관광객 수가 9% 이상 급감했습니다.\n- 태국은 주요 여행 성장 국가 중 하나로 포함되었습니다.",
+      "full_translated": "UAE, 영국, 미국, 사우디 아라비아, 태국 및 기타 주요 시장이 해외 여행 성장을 주도하고 있으며, 인도에 대한 외국인 관광객 도착은 방글라데시와의 긴장이 고조되는 가운데 9% 이상 급감했습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국이 해외 여행 성장 국가로 언급되었으나, 직접적인 여행 관련 정보는 부족합니다. 하지만 여행 산업 동향 파악에 도움을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UAE Joins United Kingdom, United States, Saudi Arabia, Thailand, and Other Leading Markets in Powering Outbound Travel Growth, While Foreign Tourist Arrivals to India Plunge by Over Nine Percent Amid Escalating Tensions with Bangladesh - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQcUJPYUJhNFdCbWRrcGluUnZFR053bW55R0NLckFOSUVxV0tmZXQ1Q1BPMGhXQ0tiSVlLUzNBY3VUdWFpRWN4elVDSHpzTG1qeHlnTXRaakNhcExwTDBrMkFDWHBPSW1MWV9iNmhqYjlaVWFHNWJXUnZ4OE5yT0trTDAyTHdZRmdYWGM4LUo1R1Y0TjQ2ZUNjcm0wQlpXckdGZnpIajNYT2FwS3V0MUhpaDZqZnBvS1A5TmxsZlp0UURzd3lSbmJmVEd6NHhqUUlrTWJnamVLRTE0R2czQzdRcVBQZkxqU1laN0xCbHQtM2xiM2k5ZGNIZkZ3VThXaDFGVlJneExUcDlYNlpuN3JfRW1qNnVYdFFmTFNaaGRqdGF0VGh3cXRxS2c3SFRPS0tTNG1GR3VxQXE2OXgxT0w2WHJiYlRncWJGbkhDS0pjSDVkb3I4U2Z6ZGZpNHB5VUhh?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-01"
     }
