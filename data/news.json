@@ -6178,14 +6178,9 @@
       "summary": "- 이란 혁명수비대가 미국 USS 에이브러햄 링컨 항공모함을 미사일로 공격했다고 주장.\n- 미국은 아직 공식 반응을 보이지 않고 있으며, 공격의 진위와 피해 규모는 확인되지 않음.\n- 최근 미국과 이스라엘의 이란 공격 이후 긴장이 고조된 상황.",
       "full_translated": "이란군이 미국 USS 에이브러햄 링컨 항공모함을 미사일로 공격했다고 주장했습니다. 아직 피해 상황은 확인되지 않았습니다. 이란 혁명수비대는 4발의 미사일로 공격했다고 밝혔으나, 미국은 이에 대한 공식적인 반응을 내놓지 않고 있습니다. 공격이 실제로 발생했는지, 피해가 있었는지에 대한 확인은 아직 이루어지지 않고 있습니다. 최근 미국과 이스라엘이 이란을 공격한 이후, 워싱턴과 테헤란 간의 긴장이 고조되고 있는 상황입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 지역 긴장 고조 가능성이 있으나, 방콕 여행에 직접적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กองทัพอิหร่านอ้าง ยิงมิสไซล์โจมตี เรือบรรทุกเครื่องบินสหรัฐฯ",
@@ -6196,21 +6191,18 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ517y6y9Yyz3.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917272",
+      "source": ""
     },
     {
       "title": "태국, 인도와의 관광 협력 강화: SATTE 2026에서 지속 가능한 관광 성장 강조",
       "summary": "- 태국 관광청(TAT)은 SATTE 2026에서 인도와의 관광 관계를 강화합니다.\n- 지속 가능한 관광 성장과 웰빙 여행의 경제적 이점을 강조합니다.\n- 인도는 태국 관광 시장에서 중요한 위치를 차지하고 있습니다.",
       "full_translated": "태국 관광청은 SATTE 2026에서 인도와의 관광 관계를 강화하고 지속 가능한 관광 성장과 웰빙 여행의 경제적 이점을 강조합니다. 이 행사는 태국이 인도 시장에서 관광 목적지로서의 입지를 강화하는 데 중요한 역할을 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광청의 인도 시장 공략은 한국 여행객들에게도 간접적인 영향 (항공편 증가, 서비스 개선 등)을 줄 수 있으므로 포함.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "인도, SATTE 2026",
-        "price": "정보 없음",
-        "location_google_map_query": "인도 SATTE 2026"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '인도, SATTE 2026', 'price': '정보 없음', 'location_google_map_query': '인도 SATTE 2026'}",
       "references": [
         {
           "title": "Tourism Authority of Thailand Strengthens Tourism Ties with India at SATTE 2026, Highlighting their Sustainable Tourism Growth and Economic Benefits of Wellness Travel - Travel And Tour World",
@@ -6221,21 +6213,18 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxQOFZ6aUFLQ3BVaXMzN1plejcyQ0F0QkpOMENITmU1RjNsNHZrZFQxbTFDVHc5bVI4T0RFV3NNRjFSUEpCbzliQW42N1MxZnFHWTJpaVhsZmVzaGpYUTdUc1Bybkp2emRjSmUxSXBnYjNMcVhCMnJ0OHJLeHBhODcyWW9mZl94X0VyLUxESzNsM291Q1ZiaXd0a3cwQkp1ZER3TWdaWkpXTzRob2dlc20wZHlaWEg2ZEp1LUQwb3kwc2lNWkdCUWs2dHpZTW8wb2U3SlNyREtySGszWV9FOXVXSXdMR19iWjM2YzQxTERiMVdHRWF0VnIzSlVWRVIyQ040SklsTmR3a1ZXYXBJdGRIWWFDd0hlbXBmakFER2p0SHlZR0NQaGx3UmhyME5UTk1ZdmRNOXNsYXduZVE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 총리, 새 정부 구성 서두르지 않아도 문제없다는 입장 표명",
       "summary": "- 아누틴 총리는 공무원들이 새 정부를 기다릴 필요 없다고 언급.\n- 현재 정부가 문제 해결에 집중하고 있으며 업무에 차질 없을 것이라고 강조.\n- 여론조사 결과에 대해서는 신중한 태도를 보이며 최종 의석수 확정 후 결정할 것이라고 밝힘.",
       "full_translated": "아누틴 총리는 공무원들이 새 정부를 기다릴 필요가 없다고 밝혔습니다. 현재 정부가 문제 해결에 집중하고 있으며 업무에 차질 없을 것이라고 강조했습니다. 니다폴 여론조사 결과에 대해서는 신중한 태도를 보이며 최종 의석수 확정 후 결정할 것이라고 밝혔습니다. 2069년 3월 1일 15시 20분, 아누틴 찬위라꾼 총리 겸 내무부 장관은 니다폴 여론조사에서 대다수 국민들이 프아타이당하고만 손을 잡기를 원한다는 결과에 대해 인터뷰했습니다. 그는 모든 의견을 경청하고 있으며 아직 시간이 있다고 말했습니다. “현재로서는 어떤 조치를 취하기 전에 명확성과 확실성이 있어야 합니다. 지난주에는 지역구 의원 396명이 확정되는 등 어느 정도 명확성이 있었습니다. 이번 주에는 언제인지 모르겠지만 나머지, 특히 비례대표 명단이 확정될 것으로 예상됩니다. 사실 저는 아직 국회의원이 아닙니다. 아직 임명되지 않았기 때문입니다. 따라서 다른 일을 먼저 하는 것은 절차를 건너뛰는 것입니다. 그리고 우리는 우리가 얼마나 많은 의석을 가질지 모릅니다. 따라서 우리는 절차를 따르는 것이 가장 좋습니다.” 총리는 말했습니다. 최근이 민감한 시기인데 국민을 위해 서둘러 정부를 구성해야 하는지에 대한 질문에 총리는 현재 정부가 항상 국가 문제를 해결하고 있다고 말했습니다. 이는 전환기이지만 정부 행정에 차질을 초래할 변화는 없을 것으로 예상됩니다. 상황이 발생하면 항상 준비되어 있습니다. 모든 공무원 부서는 정부와 협력하여 다양한 행정 업무를 수행하고 문제를 해결하고 있으며 새 정부가 들어오기를 기다려야 한다고 느끼지 않습니다. 차질이나 지연은 없다고 봐야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이나 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“อนุทิน” บอก ข้าราชการไม่รีบต้องได้รัฐบาลใหม่ เมินโพลคนเชียร์ให้จับแค่ “เพื่อไทย”",
@@ -6246,6 +6235,131 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaafOaNPUJDlld.jpg",
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/politic/2917258",
+      "source": ""
+    },
+    {
+      "title": "중동 상황 악화로 태국 주요 공항 항공편 134편 운항 차질",
+      "summary": "- 태국 주요 공항에서 중동 상황 악화로 인해 총 134편의 항공편이 영향을 받음.\n- 이 중 99편이 취소되었으며, 수완나품 공항에서 59편, 돈므앙 및 치앙마이 공항에서 각 2편, 푸껫 공항에서 36편이 취소됨.\n- 여러 항공사가 태국과 중동 간 항공편을 취소했으며, 치앙라이 및 핫야이 공항은 영향을 받지 않음.",
+      "full_translated": "태국 공항 관리국(AoT)은 일요일 밤 중동 상황 악화로 인해 토요일 이후 4개의 주요 공항에서 134편의 항공편이 영향을 받았다고 발표했습니다. 영향받은 항공편 중 99편이 취소되었습니다. AoT 사장 Paweena Jariyathitipong은 수완나품 공항에서 59편, 돈므앙 및 치앙마이 공항에서 각 2편, 푸껫 공항에서 36편이 취소되었다고 밝혔습니다. Paweena에 따르면 치앙라이 및 핫야이 공항은 영향을 받지 않았습니다. 많은 항공사가 태국과 중동 또는 인근 영공 간 항공편을 취소했습니다. 여기에는 El Al Israel, Air Arabia, Emirates, Qatar Airways, Etihad, Gulf Air, World2fly 및 Thai Air Asia X가 포함됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역의 긴장 고조로 인한 항공편 취소 및 지연은 여행객의 이동에 직접적인 영향을 미치므로 높은 점수를 부여함. 특히, 현재 저녁 시간대이므로 당일 발생한 사건에 대한 정보 제공의 중요성을 고려함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East situation affected 134 flights at Thai main airports",
+          "url": "https://www.bangkokpost.com/thailand/general/3207633/middle-east-situation-affected-134-flights-at-thai-main-airports",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207633_700.jpg"
+        }
+      ],
+      "collected_at": "22:43",
+      "image_url": "https://static.bangkokpost.com/media/content/20260301/c1_3207633_700.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "부리람 금은방, 중동 분쟁으로 금 판매 일시 중단",
+      "summary": "- 부리람의 한 금은방이 중동 분쟁으로 인한 금 시세 불안정으로 금 판매를 일시 중단했습니다.\n- 금은방은 금 가격 변동성이 커짐에 따라 금을 모두 금고에 보관하고 판매를 중단했습니다.\n- 고객들은 금 가격 상승을 우려하며 금 구매 문의를 하고 있습니다.",
+      "full_translated": "부리람 금은방, 중동 분쟁으로 금 판매 일시 중단\n\n3월 1일, 한 언론사에서 보도한 바에 따르면, 중동 분쟁으로 인해 여러 분야에서 변동성이 커지고 있으며 특히 금 가격이 그렇습니다. 부리람 지역의 한 백화점에 있는 금은방은 문을 열고 직원이 있었지만, 금 장신구가 진열되어 있지 않았습니다. 금 가격과 관련된 정보도 표시되지 않았습니다. 금은방 매니저에 따르면, 본사로부터 금을 모두 금고에 보관하고 판매를 중단하라는 지시를 받았다고 합니다. 이는 중동 분쟁 상황으로 인해 금 시세가 불안정하기 때문입니다. 만약 고객이 금을 판매하러 오는 경우, 밧당 73,000바트에 매입할 것이라고 합니다. 하루 종일 고객들이 금 진열이 없는 이유와 금 가격에 대해 문의했습니다. 어떤 고객은 금 가격이 10만 바트에 이를 것을 우려하여 금을 사려고 했습니다. 금이 진열되어 있지 않더라도 경찰은 규정에 따라 검사를 진행했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 금 가격 변동에 대한 정보로 여행객의 소비 심리에 영향을 줄 수 있으며, 환전 및 금 관련 상품 구매에 대한 고려가 필요할 수 있음. 다만, 직접적인 여행 안전 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ร้านทองที่บุรีรัมย์ เก็บทองเกลี้ยงตู้ งดขายชั่วคราว ปมสู้รบในตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/local/2917274",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5vGVb3c1wnz.jpg"
+        }
+      ],
+      "collected_at": "22:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ5vGVb3c1wnz.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "라오스 연료 수출 엄격 통제, 캄보디아 유출 방지",
+      "summary": "- 태국 육군, 라오스 연료 수출 제한 완화, 캄보디아 밀수 방지 강화.\n- 12월 14일부터 연료가 캄보디아로 유출된다는 우려에 수출 중단되었었음.\n- 라오스 Champasak 지방 정부는 수입 회사가 합법적으로 등록되었으며 제3국으로 재수출하지 않을 것임을 서면으로 확인.",
+      "full_translated": "방콕 – 태국 왕립 육군은 캄보디아로의 밀수를 방지하기 위한 엄격한 통제 조치를 유지하면서 라오스로의 연료 수출에 대한 제한을 완화했다고 육군 대변인이 2월 28일에 밝혔습니다. Winthai Suvaree 소장은 연료가 캄보디아로 전용되고 있다는 우려로 인해 12월 14일부터 수출이 중단되었다고 말했습니다. 그는 경제적 영향 및 양국 관계와 함께 국경 안보가 여전히 우선 순위라고 강조했습니다.\n\n제2 육군 지역은 라오스 국민과 기업에 미치는 영향을 줄이기 위해 더 엄격한 감독과 함께 완화된 조치를 도입했습니다. 당국은 보안 기관, 지방 공무원 및 Chong Mek 검문소를 통해 운영되는 연료 수출업체와 합동 회의를 열어 양측의 운영자를 확인했습니다. 라오스 Champasak 지방 정부는 수입 회사가 합법적으로 등록되었으며 제3국으로 연료를 재수출하지 않을 것임을 서면으로 확인했습니다. 추가 안전 장치에는 출발지에서 목적지까지 연료 탱커의 GPS 추적, 허가 조건에 따른 차량 검사 및 라오스의 지정된 저장소에서 연료 배달에 대한 필수 인증이 포함됩니다. 운송 보고서는 매번 Suranaree 태스크 포스에 제출해야 합니다. 군은 이번 조치가 라오스와의 좋은 관계를 지원하는 동시에 캄보디아로의 불법적인 연료 전용을 막기 위해 조율된 태국-라오스 조치가 유지되도록 보장한다고 밝혔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국-라오스 국경 통과에 영향을 줄 수 있지만, 여행객에게 직접적인 영향은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Army says Laos fuel exports under tight watch, no leak to Cambodia",
+          "url": "https://www.khaosodenglish.com/news/2026/03/01/army-says-Laos-fuel-exports-under-tight-watch-no-leak-to-cambodia/",
+          "source": "Khaosod English"
+        }
+      ],
+      "collected_at": "22:43",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "파야오 지역구 재선거, 탐마낫 의원 동생 압승",
+      "summary": "- 파야오 1구역 재선거에서 탐마낫 의원의 동생인 아크라 프롬파오 후보가 압도적인 표차로 승리했습니다.\n- 3월 1일, 투표소에서 진행된 개표 결과 아크라 프롬파오 후보가 144표를 획득하며 1위를 차지했습니다.\n- 이번 선거는 높은 관심 속에 치러졌으며, 유권자들의 적극적인 참여가 있었습니다.",
+      "full_translated": "파야오 주 1구역 재선거 결과, 탐마낫 의원의 동생인 아크라 프롬파오 후보가 소속 정당인 끌라탐 당에서 압승을 거두었습니다.\n\n2026년 3월 1일, 파야오 주 므앙 군 타왕통 지역 4번 빌리지에 위치한 반 살라 학교 구내 식당에서 투표가 진행되었습니다. 투표가 종료된 후 투표함이 봉쇄되었고 개표가 시작되었습니다.\n\n개표 결과, 1구역 6번 투표소에서 아크라 프롬파오 후보 3번이 144표를 획득하여 1위를 차지했습니다. 2위는 위사 분낫다 후보 2번으로, 42표를 획득했습니다. 끌라탐 당은 비례대표 투표에서 115표를 얻었고, 국민당은 48표를 얻었습니다.\n\n파야오 주 선거관리위원장인 파낫다 찬초티얀 씨는 선거가 평화롭고 질서 있게 진행되었으며, 전체 유권자 439명 중 227명이 투표에 참여하여 투표율이 50%에 달했다고 밝혔습니다. 투표함이 봉쇄된 후 개표가 진행되었고, 다음 절차를 진행하기 위해 득표수가 집계되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ผลเลือกตั้งใหม่พะเยา เขต 1 น้องชายธรรมนัส จากพรรคกล้าธรรมยังชนะขาดลอย",
+          "url": "https://www.thairath.co.th/news/politic/2917271",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ6HXmGrTUs5E.jpg"
+        }
+      ],
+      "collected_at": "22:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZ6HXmGrTUs5E.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "UD 트럭, Quester MY2026 출시: 8리터 350마력 엔진",
+      "summary": "- UD 트럭이 Quester MY2026 모델을 출시했습니다.\n- 8리터 350마력 엔진과 유로 5 기준을 충족하는 ESCOT 기어를 탑재했습니다.\n- 운송 비용 절감 및 수익 증대에 초점을 맞췄습니다.",
+      "full_translated": "UD Trucks는 8리터 350마력 엔진을 장착한 Quester MY2026 트럭을 출시했습니다. 이 트럭은 운송의 모든 측면을 개선하고 비용을 절감하며 이익을 증가시키는 유로 5 표준 ESCOT 기어를 특징으로 합니다. UD 트럭 (태국) 회사의 회장인 Ms. Vilawan Vispapae는 지난 2년 동안 UD 트럭 태국이 유로 5 UD 트럭을 시장에 출시했으며 전국 고객으로부터 명확한 인정을 받았다고 말했습니다. 이는 작년에 10%로 증가한 시장 점유율에 반영되어 실제 사용에서 품질과 브랜드에 대한 고객의 신뢰를 입증합니다. 따라서 우리는 한 단계 더 발전한 Quester MY2026 모델이 특히 ESCOT 준자동 기어가 장착된 8리터 350마력 Quester 모델이 운송 사업자로부터 좋은 반응을 얻을 것이라고 확신합니다. 회사의 테스트 조건에 따라 연비는 4.5km/리터이며 이는 만족스러운 수준입니다. 또한 운전자의 작업을 지원하고 운영 효율성을 높이며 자산 안전을 보호하고 고객의 지속 가능한 성공을 위해 이익을 강화하는 새로운 기능도 있습니다. 1. Quester는 최첨단 엔지니어링 기술, 예를 들어 GH8 350마력 엔진과 GH11 410마력 엔진 모두에서 사용할 수 있는 ESCOT 기어를 통해 연비 표준을 향상시킵니다. 또한 낮은 rpm에서 넓은 범위의 높은 토크를 제공하는 데 중점을 두고 있으며 배출량을 줄이기 위해 SCR 기술이 적용된 Euro 5 표준 엔진과 성능 저하없이 환경에 미치는 영향을 줄이는 고급 연료 분사 시스템이 있습니다. 2. 운전 기술 및 기술을 향상시키는 데 도움이되는 기능 추가",
+      "category": "BUSINESS",
+      "tourist_impact_score": 1,
+      "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 내 물류 및 운송 관련 새로운 기술 동향을 보여주는 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UD Trucks เปิดตัวรถบรรทุก Quester MY2026 เครื่องยนต์ 8 ลิตร 350 แรงม้า",
+          "url": "https://www.thairath.co.th/news/auto/news/2917263",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZpxFmdNqEeRB.jpg"
+        }
+      ],
+      "collected_at": "22:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaZpxFmdNqEeRB.jpg",
       "date": "2026-03-01"
     }
   ]
