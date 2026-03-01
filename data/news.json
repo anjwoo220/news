@@ -6878,14 +6878,9 @@
       "summary": "- 태국이 러시아, 중국, 일본, 싱가포르, 케냐, 모리셔스, 피지, 브라질, 아르헨티나 등 78개국에 대해 비자 면제 여행을 허용하며 관광 산업 활성화 기대.\n- 이번 조치로 더 많은 관광객 유치 및 경제 성장에 기여할 것으로 예상.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "태국이 78개국에 대해 비자 면제 여행을 허용하면서 관광 산업이 활황을 맞이할 것으로 예상됩니다. 러시아, 중국, 일본, 싱가포르, 케냐, 모리셔스, 피지, 브라질, 아르헨티나 등이 이번 조치에 포함됩니다. Travel And Tour World에 따르면, 이로 인해 더 많은 관광객이 태국을 방문하고 경제 성장에 기여할 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 면제 정책은 여행객의 입국 편의성을 높여 관광객 증가에 직접적인 영향을 미치므로 높은 점수를 부여. 특히 아침 브리핑에 적합한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Russia Joins China, Japan, Singapore, Kenya, Mauritius, Fiji, Brazil, Argentina and More as Tourism booms with Thailand’s New Visa Free Travel Access to 78 Countries - Travel And Tour World",
@@ -6894,17 +6889,40 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:15",
+      "collected_at": "6:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-02"
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOaE9YLTZmNGlBdGlVUTZfcHhxQnFNT05VX2U1LXJ3cGhrcjNhQ1dCMks4OWJXdThuU3hURFBrU1R0Q21VY1VCSndPQzA5a3BCaS1ieUw1ZFpKeG96RklCSUY3LXBkUzVSU1ZDSTdaa0lDeDJ5WTh1OGlCTWowRVNoTWpFdUxXRGtpQWdkVmFRbk94a3c4RFNfM1kwa1N4dDN0SnlyQnVVbWJJOVRoSnF1NHdBU09OYmREMThaLU1rUC1nQ0k3cHFUSGc4dUo0NUI4VjZtcW9DMnlsbkkyWkR0b3haUjVVTTN1NTBsVUFJdi16MVRWY0dBOS1fU3ZmOE1acmJKZlZsaW5SUzF4U2tpeDJ3cjhwRTBBZmhkTWRKQzJlWW9LbXJuX1dzOUZSNms?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 중동 긴장 속 위기 대응 활성화: 관광객 영향 최소화",
       "summary": "- 태국 관광청(TAT)은 중동 지역 긴장 고조에 따른 위기 대응 계획을 활성화했습니다.\n- 관광 회복과 국내 성장 유지를 목표로 혼란을 최소화하는 데 주력하고 있습니다.\n- 현재까지 태국 여행에 미치는 직접적인 영향은 제한적입니다.",
       "full_translated": "태국 관광청은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화하여 관광 회복과 국내 성장에 집중하고 있습니다. 당국은 상황을 면밀히 주시하면서 태국 여행에 미치는 혼란을 최소화하기 위해 노력하고 있습니다. 현재까지는 태국 여행에 미치는 직접적인 영향은 제한적인 것으로 평가됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장으로 인한 잠재적 영향에 대한 위기 대응. 관광객 안전 및 여행 계획 관련 정보 제공.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Tourism Authority of Thailand Activates Crisis Response Amid Middle East Tensions, Ensuring Minimal Disruption While Focusing on Tourism Recovery and Domestic Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL2Fzc29jaWF0aW9ucy90b3VyaXNtLWF1dGhvcml0eS1vZi10aGFpbGFuZC1hY3RpdmF0ZXMtY3Jpc2lzLXJlc3BvbnNlLWFtaWQtbWlkZGxlLWVhc3QtdGVuc2lvbnMtZW5zdXJpbmctbWluaW1hbC1kaXNydXB0aW9uLXdoaWxlLWZvY3VzaW5nLW9uLXRvdXJpc20tcmVjb3ZlcnktYW5kLWRvbWVzdGljLWdyb3d0aC_SAQA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "6:15",
+      "image_url": "",
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL2Fzc29jaWF0aW9ucy90b3VyaXNtLWF1dGhvcml0eS1vZi10aGFpbGFuZC1hY3RpdmF0ZXMtY3Jpc2lzLXJlc3BvbnNlLWFtaWQtbWlkZGxlLWVhc3QtdGVuc2lvbnMtZW5zdXJpbmctbWluaW1hbC1kaXNydXB0aW9uLXdoaWxlLWZvY3VzaW5nLW9uLXRvdXJpc20tcmVjb3ZlcnktYW5kLWRvbWVzdGljLWdyb3d0aC_SAQA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 긴장 속 위기 대응 활성화: 여행객 영향 최소화 및 국내 성장 집중",
+      "summary": "- 태국 관광청(TAT)은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화했습니다.\n- 여행객에게 미치는 영향을 최소화하고 관광 회복과 국내 관광 성장에 집중할 계획입니다.\n- TAT는 상황을 면밀히 모니터링하며 필요시 추가 조치를 취할 예정입니다.",
+      "full_translated": "태국 관광청은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화하여 여행객에게 미치는 영향을 최소화하고 관광 회복과 국내 관광 성장에 집중할 계획입니다. 상황을 면밀히 모니터링하며 필요시 추가 조치를 취할 예정입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 긴장 고조에 따른 태국 관광객 안전 및 여행 계획에 대한 잠재적 영향 고려. 위기 대응 계획 활성화 소식은 여행객들에게 안심을 제공할 수 있음.",
       "event_info": {
         "date": null,
         "location": null,
@@ -6918,7 +6936,7 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "06:15",
+      "collected_at": "06:43",
       "date": "2026-03-02"
     }
   ]
