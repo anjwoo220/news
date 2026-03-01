@@ -4356,14 +4356,9 @@
       "summary": "- 파타야가 꼬 란 섬의 접근성을 높이기 위해 무료 골프 카트 셔틀 서비스를 시작했습니다.\n- 이는 태국 관광 산업 성장을 지원하기 위한 노력의 일환입니다.\n- 셔틀 서비스는 섬 내 이동 편의를 제공하여 관광객 만족도를 높일 것으로 기대됩니다.",
       "full_translated": "파타야는 꼬 란 섬의 접근성을 높이고 태국 관광 산업의 성장을 지원하기 위해 무료 골프 카트 셔틀 서비스를 도입했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "꼬 란 섬 방문객의 이동 편의성을 높이는 서비스로, 관광객 경험에 긍정적인 영향을 미칠 수 있습니다. 새로운 서비스 도입 소식이므로 업데이트로 간주합니다.",
-      "event_info": {
-        "date": null,
-        "location": "꼬 란 섬",
-        "price": "무료",
-        "location_google_map_query": "Koh Larn, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '꼬 란 섬', 'price': '무료', 'location_google_map_query': 'Koh Larn, Pattaya'}",
       "references": [
         {
           "title": "Pattaya Introduces Complimentary Golf Cart Shuttle Services to Koh Larn, Enhancing their Accessibility and Supporting Tourism Growth in Thailand - Travel And Tour World",
@@ -4372,23 +4367,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:41",
+      "collected_at": "6:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNeWxmeFh1VVRRVWppNXNwZERsTUlrelpSci04U1drVE5pVXFKN0FEYy1EQU9CSlpmUjEzd291alR4SlJsTFJZaGdOQ01JT0Z0MHBicTd4RkNmSlNsaHoyaEtDblhYanFxX0UyeWV4YWxxaWxUNS14OWRXM0s4dUd0X3RUdDN4Si1XcHhxMlQ2NDNaZldwVWFBYjlDRGR0LUp3Skw3cXBac0t0YTNZUnRvb1g0dGVpLXp2N3h0eU95TWZKNjQwd21ycjNEOEs1dUFKcjNQUzBKQUpkbk9uWVU3b0NGdVpsMUR0QnRRSnAyajFQNnNmWTZDZ3JIX3d6LUc0RWNDVDI2djRULXNVY3NWa0RMZ3QxbXBrcGU1aQ?oc=5",
+      "source": ""
     },
     {
       "title": "이란 최고 지도자 카메네이, 미국-이스라엘의 공격으로 사망 주장",
       "summary": "- 이란 최고 지도자 알리 카메네이가 미국과 이스라엘의 공습으로 사망했다는 주장이 제기됨.\n- 카메네이는 수십 년간 이란을 통치했으며, 강경한 외교 정책을 고수해 옴.\n- 그의 사망은 이란 내부 권력 투쟁과 국제 관계에 큰 영향을 미칠 수 있음.",
       "full_translated": "아야톨라 알리 카메네이는 이란의 최고 지도자로 수십 년 동안 이란을 통치했습니다. 이스라엘과 미국 지도자들은 그가 지난 토요일 (2069년 2월 28일) 공습으로 사망했다고 주장합니다. 알리 카메네이는 1939년 마슈하드에서 종교 학자의 아들로 태어났습니다. 그는 샤 모하마드 레자 팔라비에 저항하기 위해 아야톨라 호메이니의 종교 운동에 합류했습니다. 1979년 이슬람 혁명 이후 알리 카메네이는 국방부 차관을 역임했으며 이슬람 혁명 수비대 (IRGC) 설립에 중요한 역할을 했습니다. 1989년 6월 호메이니 사망 후, 이슬람 학자와 종교 지도자들로 구성된 이란 전문가 회의는 알리 카메네이를 새로운 최고 지도자로 선출했습니다. 당시 그는 시아파 성직자를 위한 헌법에 명시된 '마르자-에 탁리드' 또는 '그랜드 아야톨라' 직위에 도달하지 못했지만, 상황을 합법화하기 위해 최고 지도자는 '이슬람 학문적 지혜'를 보여야 한다고 헌법을 수정하여 알리 카메네이가 아야톨라가 되어 새로운 최고 지도자로 선출될 수 있도록 했습니다. 아야톨라 알리 카메네이는 취임 후 이란의 정치 및 군사력을 완전히 장악하고 정권에 도전하는 사람들을 단호하게 진압했으며 때로는 폭력을 사용하기도 했습니다. 카메네이는 미국과의 대치를 포함하여 외교 문제에서 일관되게 강경한 입장을 취했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "이란의 정치적 불안정은 여행객 안전에 잠재적 영향을 미칠 수 있으나, 현재로서는 직접적인 위협이 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รู้จัก “คาเมเนอี” ผู้นำสูงสุดอิหร่าน ที่สหรัฐฯ-อิสราเอล อ้างว่าถูกสังหารแล้ว",
@@ -4397,23 +4389,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyDrrfWWjHY5J.jpg"
         }
       ],
-      "collected_at": "06:41",
+      "collected_at": "6:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyDrrfWWjHY5J.jpg",
-      "date": "2026-03-01"
+      "date": "2026-03-01",
+      "link": "https://www.thairath.co.th/news/foreign/2917133",
+      "source": ""
     },
     {
       "title": "태국 관광공원, 호랑이 72마리 개 디스템퍼로 폐사 - 조류 독감 우려 완화",
       "summary": "- 태국 관광공원에서 사육 중이던 호랑이 72마리가 개 디스템퍼로 인해 폐사함.\n- 당국은 조류 독감으로 인한 폐사 우려를 일축하고 질병 확산 방지에 주력.\n- 관광객들은 안심하고 태국 여행을 즐길 수 있을 것으로 예상.",
       "full_translated": "태국 당국은 관광 공원에서 72마리의 호랑이가 개 디스템퍼로 사망했다고 밝혔습니다. 이는 조류 독감에 대한 우려를 완화시키는 조치입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동물원이나 관광지를 방문하는 여행객에게 영향을 줄 수 있으며, 질병 관련 정보는 안전에 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai officials say 72 tigers at tourist parks died of canine distemper, allaying bird flu fears - AOL.com",
@@ -4422,8 +4411,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:41",
+      "collected_at": "6:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-01",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOamZZQUJySjdhRnhCMmpuZHFyTmY4Tk1ZeGdIZUx0ODlHbldFRFV4YmVnZ0NQRk1xa3NDQVlLYjVoQ3Vjbk02NTdRUHlBaHM1a21fNjYzenYxRGdmemJZOXdDZlBqVnVTankwTE5hS21UZTF6UGplUnloeUlOZ0Z0aDRR?oc=5",
+      "source": ""
+    },
+    {
+      "title": "아부다비 공항 드론 공격으로 1명 사망, 7명 부상",
+      "summary": "- 아부다비 국제공항에서 드론 공격 발생, 아시아 국적 1명 사망, 7명 부상\n- 공항 측은 루머 유포 자제 및 공식 발표 확인 당부\n- 현재까지 공격 주체 및 목표는 불분명",
+      "full_translated": "아부다비 국제공항에서 드론 공격이 발생하여 아시아 국적의 1명이 사망하고 7명이 부상당했습니다. 공항 측은 소셜 미디어를 통해 루머 유포를 자제하고 공식 출처의 정보만 확인해 달라고 요청했습니다. CNN은 공항 방향에서 폭발음과 유사한 소리가 들렸으며, 응급 차량이 다수 목격되었다고 보도했습니다. 이번 공격은 이란이 미국과 이스라엘의 공격에 대응하는 시기에 발생하여 중동 지역의 불안감을 고조시키고 있습니다. 아직까지 공격의 배후나 구체적인 목표는 밝혀지지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "공항은 여행객에게 중요한 시설이며, 테러 발생 시 안전에 심각한 위협이 될 수 있음. 여행 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "아부다비 국제공항",
+        "price": null,
+        "location_google_map_query": "Abu Dhabi International Airport"
+      },
+      "references": [
+        {
+          "title": "โดรนโจมตีถล่มสนามบินอาบูดาบี เสียชีวิต 1 ราย เจ็บ 7 คน",
+          "url": "https://www.thairath.co.th/news/foreign/2917137",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEACgudXYctm.jpg"
+        }
+      ],
+      "collected_at": "08:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEACgudXYctm.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란, 미국-이스라엘 공격에 대한 보복으로 호르무즈 해협 봉쇄 가능성",
+      "summary": "- 이란이 미국과 이스라엘의 공격에 대한 대응으로 호르무즈 해협 봉쇄를 위협하고 있습니다.\n- 호르무즈 해협은 전 세계 원유 수송의 중요한 통로입니다.\n- 봉쇄 시 국제 유가 급등 및 글로벌 경제에 심각한 영향을 미칠 수 있습니다.",
+      "full_translated": "이란은 미국과 이스라엘의 공격에 대한 보복으로 호르무즈 해협을 봉쇄할 가능성을 시사했습니다. 호르무즈 해협은 전 세계 원유 수송의 주요 통로이며, 이 해협이 봉쇄될 경우 국제 유가 급등은 물론 글로벌 경제에 심각한 파장을 미칠 수 있습니다. 여행객들은 이란과 관련된 지역의 정세 불안정에 유의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "호르무즈 해협 봉쇄 시 국제 유가 급등 및 여행 관련 비용 증가 가능성, 중동 지역 여행객 안전에 잠재적 영향.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ส่องระยะทำการขีปนาวุธอิหร่่าน หมัดเด็ดโต้ยิว-อเมริกัน",
+          "url": "https://www.thairath.co.th/news/auto/news/2917095",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNW7hQnmBGH7i5Tx.jpg"
+        }
+      ],
+      "collected_at": "08:24",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNW7hQnmBGH7i5Tx.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "방콕 유명 병원, 코 성형 부작용 논란: 감염으로 인한 피해 주장",
+      "summary": "- 유명 인플루언서, 방콕 소재 유명 성형외과에서 코 재수술 후 감염 발생 주장.\n- 병원 측에 책임 회피에 대한 불만 제기, 소비자 보호 단체에 고발 예정.\n- 피해자는 40만 바트를 지불하고 수술받았으나, 한 달 만에 염증 및 감염 발생.",
+      "full_translated": "한 유명 인플루언서가 '사이마이 통 롯' 페이지에 방콕의 유명 성형외과에서 코 수술 후 부작용을 겪었다고 제보했습니다. 이 병원은 유명 연예인 고객이 많은 곳으로, 코 수술 후 심각한 감염이 발생했다고 주장합니다. 피해자는 기존 코 모양이 마음에 들지 않아 40만 바트를 지불하고 유명 의사에게 재수술을 받았지만, 수술 후 한 달 만에 염증과 감염이 발생했습니다. 병원 측에 연락했으나 책임을 회피하고 있다고 합니다. 엑까폽 르앙쁘라솟은 피해자를 도와 소비자 보호 위원회(สคบ.)에 고발할 예정입니다. 2월 28일 11시 30분, 랑싯 지역의 유명 대학에 재학 중이며 소셜 미디어에서 상품을 판매하는 인플루언서인 나.스. 비(남 쏨못)(25세)는 엑까폽 르앙쁘라솟에게 도움을 요청하며, 방콕의 유명 성형외과에서 코 재수술 후 손상되고 감염된 코 사진을 증거로 제출했습니다. 인플루언서는 2025년 8월에 다른 병원에서 코 수술을 받았지만 코 모양이 마음에 들지 않아 해당 병원에 상담을 요청했다고 밝혔습니다. 해당 병원의 의사는 재수술이 가능하다고 확신하며 40만 바트의 비용을 제시했습니다. 다른 곳에서는 대부분 70만 바트 정도의 비용이 들었기 때문에 이 병원에서 재수술을 받기로 결정했습니다. 수술을 집도한 남성 의사는 상당히 유명하며, 이 병원은 코 성형으로 유명하고 많은 유명 인사와 연예인들이 수술을 받는 곳이어서 의료진의 실력을 믿었습니다. 재수술은 기존 실리콘 보형물을 제거하고 자신의 늑연골을 이식하는 방식으로 진행되었습니다. 하지만 한 달 만에 염증이 생겼습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국에서 의료 관광을 고려하는 여행자에게 잠재적인 위험을 알리는 정보. 병원 선택 시 주의를 환기시키는 목적.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "โวยโรงพยาบาลทำจมูกเน่า ไปแก้ทรงกลับติดเชื้อ จ่อบุกร้อง สคบ. เอาผิด",
+          "url": "https://www.thairath.co.th/news/local/2917142",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexPhfVZDe8Ott.jpg"
+        }
+      ],
+      "collected_at": "08:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLexPhfVZDe8Ott.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "태국 복권 추첨 임박: 행운의 숫자 찾기 열풍",
+      "summary": "- 오늘 오후 복권 추첨, 행운의 주인공은 누가 될까?\n- 인기 있는 숫자들은 이미 매진, 막바지 구매 경쟁 치열.\n- 태국 복권 사무소, 오늘 추첨 생중계 예정.",
+      "full_translated": "오늘(1일) 오후 태국 복권 추첨을 앞두고 행운의 숫자를 찾는 사람들의 열기가 뜨겁습니다. 복권 판매점에서는 이미 인기 있는 번호들이 매진되었으며, 마지막까지 행운을 잡기 위한 구매 경쟁이 벌어지고 있습니다. 많은 사람들이 '태국 캘린더 복권'에서 행운의 숫자를 찾고 있습니다. 태국 복권 사무소는 오늘 추첨 결과를 생중계할 예정이며, 누가 새로운 백만장자가 될지 관심이 집중되고 있습니다. 특히 이번 추첨은 수랏타니에서 진행됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 복권은 현지 문화의 일부이며, 관광객에게도 흥미로운 경험이 될 수 있음. 당첨 정보는 아니므로 높은 점수는 아님.",
+      "event_info": {
+        "date": "2026-03-01",
+        "location": "수랏타니",
+        "price": "복권 가격은 80바트부터 시작",
+        "location_google_map_query": "Surat Thani"
+      },
+      "references": [
+        {
+          "title": "รวมเลขเด็ด 1/3/69 หวยงวดล่าสุด บ่ายวันนี้ ลุ้นใครจะได้เป็นเศรษฐีรางวัลที่ 1",
+          "url": "https://www.thairath.co.th/lottery/news/2917117",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNdPx8UFW9NawU02.jpg"
+        }
+      ],
+      "collected_at": "08:24",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhNdPx8UFW9NawU02.jpg",
+      "date": "2026-03-01"
+    },
+    {
+      "title": "이란, 미국-이스라엘 공격에 여학생 108명 사망 주장",
+      "summary": "- 이란 언론, 남부 지역 여학교 공격으로 최소 108명 사망 보도\n- 이란 정부, 해당 지역에 애도 기간 선포\n- 미국과 이스라엘은 공식 입장을 밝히지 않음",
+      "full_translated": "이란 언론은 남부 지역의 한 여학교가 미국과 이스라엘의 공격을 받아 최소 108명이 사망했다고 보도했습니다. 이란 정부는 미납시에서 발생한 이번 공격으로 인해 호르모즈간 주 전역에 애도 기간을 선포했습니다. IRIB 방송은 최소 8구의 시신이 담긴 자루가 건물 바닥에 놓여 있는 영상을 공개했습니다. 라메르드 지역에서도 스포츠 센터와 주거 지역에 대한 공격으로 최소 18명의 민간인이 사망했으며, 사망자 대부분이 어린이이고 약 100명이 부상당했다고 IRNA 통신은 보도했습니다. 미국과 이스라엘은 이번 공격에 대한 공식 입장을 밝히지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국과는 직접적인 관련은 없으나, 중동 지역의 긴장 고조는 잠재적으로 항공 운항 등에 영향을 줄 수 있어 주의가 필요함. 여행객 안전에 대한 간접적 영향 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สื่ออิหร่านอ้าง นักเรียนหญิงดับแล้ว 108 ศพ หลังโรงเรียนโดนโจมตี",
+          "url": "https://www.thairath.co.th/news/foreign/2917135",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEJT1sZKOYMu.jpg"
+        }
+      ],
+      "collected_at": "08:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLeyEJT1sZKOYMu.jpg",
       "date": "2026-03-01"
     }
   ]
