@@ -6834,14 +6834,9 @@
       "summary": "- 이란 언론, 마흐무드 아마디네자드 전 대통령 사망 발표\n- 이스라엘-미국, 테헤란 북동부 아마디네자드 자택 공습\n- 중동 지역 긴장 고조, 태국 여행객 안전 유의 필요",
       "full_translated": "이란 언론에 따르면 마흐무드 아마디네자드 전 이란 대통령이 이스라엘과 미국의 공습으로 사망했습니다. 이란 ILNA 통신은 2548년부터 2556년까지 이란 대통령을 지낸 아마디네자드가 지난 토요일 이스라엘과 미국의 합동 공습으로 사망했다고 보도했습니다. ILNA는 이번 공격이 테헤란 북동부 나르나크 지역의 아마디네자드 자택을 겨냥해 그와 경호원 여러 명이 사망했다고 밝혔습니다. 외신 보도에 따르면 나르나크 지역의 공격은 토요일 늦은 밤에 발생했을 가능성이 있습니다. 대통령이 되기 전 아마디네자드는 아르다빌 주지사와 테헤란 시장을 지냈습니다. 그가 2번의 임기를 마치고 물러난 후, 이란 최고 지도자(당시)인 아야톨라 알리 카메네이는 아마디네자드를 최고 지도자 사무실에 자문 역할을 하는 48명의 위원으로 구성된 합당성 판별 위원회 위원으로 임명했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 지역 긴장 고조에 따른 잠재적 여행 위험 증가. 태국 정부의 중동 지역 자국민 대피 계획과 관광청의 위기 대응 활성화와 연관되어 여행객 안전에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "테헤란",
-        "price": null,
-        "location_google_map_query": "Tehran"
-      },
+      "event_info": "{'date': None, 'location': '테헤란', 'price': None, 'location_google_map_query': 'Tehran'}",
       "references": [
         {
           "title": "สื่ออิหร่านเผย มาห์มูด อาห์มาดิเนจาด อดีต ปธน.ถูกสังหารแล้ว",
@@ -6850,23 +6845,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaWIds0xrrHN4C.jpg"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaWIds0xrrHN4C.jpg",
-      "date": "2026-03-02"
+      "date": "2026-03-02",
+      "link": "https://www.thairath.co.th/news/foreign/2917286",
+      "source": ""
     },
     {
       "title": "방콕, 이스라엘 관광객 인기 지역 보안 강화 - Thai PBS World",
       "summary": "- 방콕은 이스라엘 관광객이 많이 찾는 지역의 보안을 강화했습니다.\n- 최근 중동 지역 긴장 고조에 따른 예방 조치로 보입니다.\n- 관광객 안전을 위한 조치이며, 여행 시 참고하는 것이 좋습니다.",
       "full_translated": "방콕은 이스라엘 관광객이 많이 찾는 지역의 보안을 강화했습니다. Thai PBS World",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장 고조에 따른 보안 강화는 여행객 안전에 영향을 미칠 수 있으므로 게시합니다. 특히 이스라엘 관련 지역 방문 시 주의가 필요합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Bangkok tightens security in tourist hubs popular with Israelis - Thai PBS World",
@@ -6875,9 +6867,11 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-02"
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHBsQXFWck05RlE2LUplb1lNaWV3UzlzMi1GbFowVDN6OE5EX016UUJzanMzcEF4aWZFUm1UbzBZZ19Bbzh3M2VrWm9RQnlNbG9HNjdSZURkeElYSDhXQW9YUFZ3M0c2MjhKNTd6dGlLb05HQnAwdHBtTXRfZGlWUVZFcWs3RlVpczZYOTNWVkxYel9fMXdzLTJjdVR3SmhoLXctZERFdw?oc=5",
+      "source": ""
     }
   ]
 }
