@@ -8482,14 +8482,9 @@
       "summary": "- 태국 관광체육부가 중동 분쟁으로 항공편이 취소되어 태국에 발이 묶인 외국인 관광객에게 하루 2,000바트의 재정 지원을 제공할 예정입니다.\n- 낫트리야 타위웡 관광체육부 사무차관은 관계 기관과 긴급 회의를 열어 지원 방안을 논의했다고 밝혔습니다.\n- 항공편 취소로 귀국이 어려워진 관광객들을 위해 숙박 할인, 특별 여행 패키지 등도 마련될 예정입니다.",
       "full_translated": "태국 — 관광체육부는 중동 분쟁 심화와 관련된 항공편 취소로 태국에 발이 묶인 외국인 관광객에게 하루 2,000바트의 재정 지원을 제공할 준비를 하고 있습니다. 낫트리야 타위웡 관광체육부 사무차관은 3월 2일, 관광 당국(TAT), 태국 관광 협의회, 태국 호텔 협회 및 기타 서비스 부문 그룹을 포함한 주요 관광 이해 관계자들과 긴급 회의를 열어 영향을 받은 방문객을 위한 지원을 조정했다고 밝혔습니다. 악화되는 지역 분쟁으로 인해 영공 폐쇄 및 광범위한 항공편 취소가 발생하여 많은 관광객이 귀국하지 못하고 있습니다. 낫트리야는 발이 묶인 방문객 중 상당수는 상황이 악화되기 전에 도착했으며 현재 재정적 어려움에 직면할 수 있다고 말했습니다. “태국은 좋은 주최자 역할을 해야 합니다. 불가항력으로 인해 관광객이 귀국할 수 없는 경우, 부처는 하루 2,000바트의 초기 보상을 허용하는 규정을 가지고 있습니다.”라고 그녀는 덧붙여 관계자들이 필요한 지원 범위를 계속 평가할 것이라고 말했습니다. 부처는 태국 호텔 협회를 통해 발이 묶인 관광객을 위한 객실 요금 할인을 요청했습니다. 서비스 운영업체는 또한 방문객이 귀국 항공편을 기다리는 동안 할인된 가격으로 태국 내 여행을 계속할 수 있도록 특별 여행 패키지를 제공해 달라는 요청을 받고 있습니다. 지역 TAT 사무소, 지방 관광 및 스포츠 사무소, 자원봉사자들은 관광객을 지원하기 위해 협력하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "항공편 취소로 인한 외국인 관광객의 어려움을 해소하기 위한 정부 지원 계획은 여행객에게 직접적인 영향을 미치므로 중요합니다. 특히 현재 시각이 새벽이므로, 당일 오전에 미처 이 소식을 접하지 못했을 여행객을 위해 게시합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourism ministry plans 2,000-baht daily aid for stranded foreign tourists amid airspace closures",
@@ -8498,23 +8493,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/870.jpg"
         }
       ],
-      "collected_at": "01:34",
+      "collected_at": "1:34",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/870.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.khaosodenglish.com/featured/2026/03/02/tourism-ministry-plans-2000-baht-daily-aid-for-stranded-foreign-tourists-amid-airspace-closures/",
+      "source": ""
     },
     {
       "title": "캄팽펫 지역, 여성 촌장과 여교사의 결혼 화제: 지참금 160만 바트 넘어",
       "summary": "- 캄팽펫 지역에서 여성 촌장과 여교사의 결혼식이 열려 지역 사회의 관심을 끌었습니다.\n- 결혼식에는 현금 20만 바트와 18바트 무게의 금 장신구 및 금괴가 지참금으로 전달되었습니다.\n- 전통적인 태국 결혼식과 유사하게 불교 의식과 음식 제공이 있었습니다.",
       "full_translated": "캄팽펫 — 캄팽펫의 한 마을 촌장이 3월 1일 오랜 파트너인 지역 학교 교사와 전통적인 결혼식을 올렸으며, 140만 바트가 넘는 지참금과 금이 지역 사회의 관심을 끌었습니다. 결혼식은 클롱클룽 지역의 클롱솜분 구역, 반농팍남에 있는 한 주택에서 09시 30분에 열렸으며, 이곳은 부부의 새 집으로 마련되었습니다. 이 결혼식은 클롱클룽 반로이라이 학교의 교사인 '크루 룽'으로 알려진 46세의 룽나파 붓삼란과 반농팍남 3구의 촌장인 '푸야이 툭'으로 알려진 46세의 차린랏 눔두아를 하나로 묶었습니다. 이 동성 결혼식은 여성 간의 결합이라는 점뿐만 아니라 차린랏이 신부에게 제시한 상당한 지참금 때문에 주민들 사이에서 광범위한 관심을 끌었습니다. 약혼 및 결혼 의식 동안 가족들은 현금 20만 바트와 금 장신구 및 금괴를 합쳐 18바트 무게로 계산했으며, 이는 140만 바트 이상의 가치가 있었습니다. 아침은 전통적인 태국 결혼식과 유사하게 불교 공덕 의식과 음식 제공으로 시작되었습니다. 지역 사회 및 다른 지방에서 온 손님들을 맞이하기 위해 200개 이상의 중국 연회 테이블이 준비되었습니다. 이후, 차린랏이 태국 전통 의상을 입고 룽나파의 손을 정식으로 요청하기 위해 행렬을 이끄는 전통적인 칸막 행렬이 열렸습니다. 분위기는 활기찼으며, 마을 주민들은 촌장의 관할 하에 있는 많은 주민들이...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 문화에 대한 흥미로운 로컬 뉴스이며, 여행객들에게 간접적인 문화 체험 기회를 제공할 수 있습니다.",
-      "event_info": {
-        "date": "2026-03-01",
-        "location": "Ban Nong Phak Nam, Khlong Sombun subdistrict, Khlong Khlung district, Kamphaeng Phet",
-        "price": "N/A",
-        "location_google_map_query": "Ban Nong Phak Nam, Khlong Sombun, Khlong Khlung District, Kamphaeng Phet, Thailand"
-      },
+      "event_info": "{'date': '2026-03-01', 'location': 'Ban Nong Phak Nam, Khlong Sombun subdistrict, Khlong Khlung district, Kamphaeng Phet', 'price': 'N/A', 'location_google_map_query': 'Ban Nong Phak Nam, Khlong Sombun, Khlong Khlung District, Kamphaeng Phet, Thailand'}",
       "references": [
         {
           "title": "Village headwoman weds female teacher in Kamphaeng Phet, dowry tops 1.6 million baht",
@@ -8523,23 +8515,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114556_vsAPOYaCFK1772369493.jpg"
         }
       ],
-      "collected_at": "01:34",
+      "collected_at": "1:34",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114556_vsAPOYaCFK1772369493.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.khaosodenglish.com/featured/2026/03/02/village-headwoman-weds-female-teacher-in-kamphaeng-phet-dowry-tops-1-6-million-baht/",
+      "source": ""
     },
     {
       "title": "트럼프, 이란 핵무기 보유는 용납할 수 없는 위협",
       "summary": "- 트럼프 대통령은 이란이 핵무기 개발을 중단하지 않아 이란 공격을 감행했다고 밝힘.\n- 이란의 핵무기 및 장거리 미사일 개발은 중동 및 미국에 대한 용납할 수 없는 위협이라고 주장.\n- 이란의 미사일 능력 파괴 및 해군력 격퇴를 작전 목표로 설정.",
       "full_translated": "도널드 트럼프 미국 대통령은 이란이 핵무기 개발을 중단하라는 미국의 경고를 무시하고 있다고 주장하며, 이란 공격을 감행했다고 밝혔습니다. 백악관에서 열린 훈장 수여식에서 트럼프 대통령은 '에픽 퓨리' 작전에 대한 간략한 업데이트를 제공하며, 미국이 이란 정권의 위협을 제거하기 위한 대규모 전투 작전을 계속 수행하고 있다고 언급했습니다. 그는 이란이 미국의 경고를 무시하고 '핵무기 추구를 중단하기를 거부했다'고 비난했습니다. 트럼프 대통령은 이란의 미사일 프로그램이 핵무기 개발을 위한 방패 역할을 한다고 주장하며, 미국은 이 문제를 종식시키기를 원하지만 '모두가 우리를 지지한다'고 덧붙였습니다. 트럼프 대통령은 핵무기와 장거리 미사일로 무장한 이란 정부는 중동과 미국 국민 모두에게 '용납할 수 없는 위협'이 될 것이라고 주장했습니다. 따라서 그는 이번 전쟁이 '공격할 수 있는 마지막이자 최선의 기회'이며 '병들고 사악한 정권의 용납할 수 없는 위협'을 제거하기 위한 것이라고 판단했습니다. 트럼프 대통령은 이란 작전의 목표가 '명확'하며, 여기에는 '이란의 미사일 능력 파괴'와 '해군력 격퇴'가 포함된다고 강조했습니다. 또한 이란이 '국경 너머의 테러리스트 군대에 무기를 제공하고 자금을 지원하며 지시하는 것을 더 이상 허용할 수 없다'고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없으나, 중동 지역 불안정 심화 가능성을 내포하고 있어 낮은 점수 부여. 현재 시각이 새벽이므로 정치 관련 뉴스의 우선순위는 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ลั่น อิหร่านที่มีอาวุธนิวเคลียร์ คือภัยคุกคามที่ไม่อาจยอมรับได้",
@@ -8548,23 +8537,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZluk8zJzjrH8U.jpg"
         }
       ],
-      "collected_at": "01:34",
+      "collected_at": "1:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZluk8zJzjrH8U.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917528",
+      "source": ""
     },
     {
       "title": "방콕 12구 선거구, 민주당 득표수 오류 주장하며 선거관리위원회에 재검토 요구",
       "summary": "- 민주당, 방콕 12구의 득표수 오류에 대한 선거관리위원회의 조사를 촉구.\n- 실제 71표 획득했으나 보고서에는 1표로 기재되어 70표 차이 발생.\n- 민주당은 국민의 권리 보호를 위해 법적 절차를 통해 이 문제를 해결할 것이라고 밝힘.",
       "full_translated": "민주당의 파누퐁은 방콕 12구 선거구의 득표수에 대한 조사를 선거관리위원회에 촉구했습니다. 정당의 실제 득표수는 71표였으나 보고서에는 단 1표로 보고되었습니다. 2069년 3월 2일, 민주당 법률 위원회의 파누퐁 락사나위싯은 라멧 라타나체웽 민주당 법률 위원장이 선거관리위원회(꼬.꼬.떠.) 의장에게 서한을 제출하여 방콕 12구 선거구의 국회의원 명단 선거 결과에 대한 조사 및 수정을 요청했다고 밝혔습니다. 세나빌라 3 프로젝트 69번 투표소(쿠본 27 소이 10, 방켄 지역 내 스포츠 경기장)에서 득표수 오류가 발견되었습니다. 득표 결과에 따르면 27번 민주당 후보의 실제 득표수는 71표였지만 국회의원 5/18 (버.처.) 보고서에는 단 1표로 보고되어 70표의 차이가 발생했습니다. 파누퐁은 또한 이번 서한 제출은 국민의 권리와 목소리를 최대한 보호하기 위한 것이며 선거관리위원회가 득표 결과를 수정하고 공정하고 투명하게 업무를 수행하여 민주당에 대한 공정성을 보장하기를 희망한다고 밝혔습니다. 만약 국회의원 명단 선거 결과가 수정 없이 승인될 경우, 정당은 법적 절차에 따라 권리를 보호할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "단순 정치 뉴스이며 여행객에게 직접적인 영향은 없음. 선거 관련 부정 의혹은 추후 시위 등으로 번질 가능성은 있으나 현재로서는 미미함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ปชป. จี้กกต. ตรวจสอบคะแนนเขต 12 กทม. หลังคะแนนคลาดเคลื่อน 70 คะแนน",
@@ -8573,23 +8559,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkk8SgByiNQBN.jpg"
         }
       ],
-      "collected_at": "01:34",
+      "collected_at": "1:34",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkk8SgByiNQBN.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/politic/2917511",
+      "source": ""
     },
     {
       "title": "스타머, 미국이 이란 미사일 대응에 영국 기지 사용할 수 있다고 밝혀",
       "summary": "- 키어 스타머 영국 총리는 미국이 이란 미사일에 대한 방어적 공격에 영국 기지를 사용하는 요청을 수락했다고 밝혔습니다.\n- 이는 오랜 우방 및 동맹국의 집단적 자위와 영국인의 생명을 보호하기 위한 결정이라고 덧붙였습니다.\n- 해당 기사는 로이터 통신을 인용했습니다.",
       "full_translated": "키어 스타머 영국 총리는 일요일(3월 1일) 미국이 이란의 미사일 저장고 또는 발사대에 대한 방어적 공격에 영국 기지를 사용하는 요청을 수락했다고 밝혔습니다. 그는 “우리 결정의 근거는 오랜 우방 및 동맹국의 집단적 자위와 영국인의 생명을 보호하는 것”이라고 덧붙였습니다. - 로이터 통신",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세 관련 정보 제공 차원에서 낮은 점수 부여. 테러 위험 고조 가능성.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Starmer says US may use UK bases to counter Iranian missiles",
@@ -8598,8 +8581,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208184_700.jpg"
         }
       ],
-      "collected_at": "01:34",
+      "collected_at": "1:34",
       "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208184_700.jpg",
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/video/world/3208184/starmer-says-us-may-use-uk-bases-to-counter-iranian-missiles",
+      "source": ""
+    },
+    {
+      "title": "수완나품 공항, 47편 항공편 취소 보고",
+      "summary": "- 수완나품 공항에서 출발/도착 47편의 항공편이 취소되었습니다.\n- 취소된 항공편은 이스라엘 항공, 에어 아라비아, 에미레이트 항공, 카타르 항공 등을 포함합니다.\n- 공항은 상황을 면밀히 모니터링하고 있으며, 항공사와 협력하여 승객을 지원하고 있습니다.",
+      "full_translated": "수완나품 공항은 47편의 항공편 취소를 보고했습니다. 취소된 서비스는 출발 24편과 도착 23편으로 구성됩니다. 영향을 받은 항공사는 EL AL 이스라엘 항공, 에어 아라비아, 에미레이트 항공, 카타르 항공, 에티하드 항공, 걸프 에어, 쿠웨이트 항공 및 월드2플라이입니다. 2026년 2월 28일에서 3월 2일 사이에 총 108편의 항공편이 취소되었으며, 여기에는 공항에 따르면 출발 58편과 도착 50편이 포함됩니다. 수완나품 공항은 상황을 면밀히 모니터링하고 있으며 영향을 받은 항공사와 계속 협력하여 승객이 적절한 지원을 받을 수 있도록 하고 있습니다. 현재 항공사가 사전에 여행자에게 알리고 상황을 효과적으로 관리했기 때문에 공항에 발이 묶인 출발 승객은 없습니다. 공항은 승객을 돕기 위해 직원을 배치하고 상황이 완화될 때까지 항공사에 연락하기 위해 기다리는 사람들을 위해 식수 서비스를 제공합니다. 공항은 중동 또는 인근 지역으로 여행을 계획하는 승객에게 웹사이트, 모바일 애플리케이션, 공항의 항공사 카운터 또는 기타 직접 연락 채널을 통해 항공사에 항공편 상태를 면밀히 확인하도록 조언했습니다. 승객은 연중무휴 24시간 이용 가능한 AOT 컨택 센터 1722로 전화하여 공항 서비스에 대한 자세한 정보를 얻을 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "항공편 취소로 인해 여행객들에게 불편을 초래할 수 있으므로 높은 점수를 부여합니다. 특히 중동 지역 여행객은 항공편 상태를 확인해야 합니다.",
+      "event_info": {
+        "date": "2026-03-02",
+        "location": "Suvarnabhumi Airport",
+        "price": null,
+        "location_google_map_query": "Suvarnabhumi Airport"
+      },
+      "references": [
+        {
+          "title": "Suvarnabhumi reports 47 flight cancellations",
+          "url": "https://www.khaosodenglish.com/news/2026/03/02/suvarnabhumi-reports-47-flight-cancellations/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Suvarnabhumi-reports-47-flight-cancellations.jpg"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Suvarnabhumi-reports-47-flight-cancellations.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "파타야 주택 침입 및 금고 절도 사건: 영국인 용의자 3명 체포 후 혐의 부인",
+      "summary": "- 파타야에서 발생한 2백만 바트 상당의 주택 침입 및 금고 절도 사건 용의자로 영국인 3명이 체포됨.\n- 용의자들은 모든 혐의를 강력하게 부인하고 있음.\n- 경찰은 추가 공범 여부를 조사 중이며, 용의자들은 법원 심리를 기다리고 있음.",
+      "full_translated": "파타야 뉴스에 따르면, 농프루 경찰서, 지방 경찰청 2구역, 촌부리 지방 수사대, 출입국 경찰은 용의자들을 임시 구금 장소에서 파타야 지방 법원으로 이송했습니다. 태국 경찰은 피고인들의 신원을 다음과 같이 공개했습니다.\n\n- 팔머 저메인(20세): 송클라 주 사다오 지역의 파당 베사르 출입국 검문소에서 체포되었으며, 국외 도피 시도 혐의도 받고 있습니다.\n- 크리스토퍼 에란스(38세): 방콕 돈므앙 국제공항에서 체포되었으며, 역시 혐의를 벗어나려 한 혐의를 받고 있습니다.\n- 타이훌 주니어 마이클 캠벨(32세): 부리람 주 프라콘차이 지역의 한 호텔에서 구금되었습니다.\n\n세 사람 모두 공동 강도 혐의로 기소되었습니다. 신원 미상의 백인 영국인 남성으로만 알려진 4번째 용의자는 추가 조사를 위해 경찰에 구금되어 있습니다. 그는 언론 보도 시점까지 정식으로 기소되지 않았습니다. 이전에 인터뷰했던 5번째 관련자는 더 이상 관심 대상이 아니며 풀려난 것으로 보이지만, 경찰은 더 이상 구체적으로 밝히지 않았습니다.\n\n강도는 2026년 2월 26일 밤, 촉차이 빌리지 9, 무 10에 있는 2층 타운하우스에서 발생했습니다. 칼로 무장한 복면을 쓴 강도들은 영국인 셰프인 웨슬리 시릴 러셀(32세)과 그의 태국인 파트너의 집을 습격하여 금고를 훔쳤습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으므로 관련 정보 제공. 기존 '파타야 금고 절도 용의자 검거' 기사와 유사하지만, 체포 후 혐의 부인 등 새로운 정보 포함.",
+      "event_info": {
+        "date": "2026-02-26",
+        "location": "Chokchai Village 9, Moo 10, Pattaya",
+        "price": "2,000,000 Baht (도난 금액)",
+        "location_google_map_query": "Chokchai Village 9, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Three British Suspects Officially Taken into Custody After Denying Charges in 2 Million Baht Home Invasion and Pattaya Safe Robbery of Fellow British Expat, Strongly Deny All Charges",
+          "url": "https://thepattayanews.com/2026/03/03/three-british-suspects-officially-taken-into-custody-after-denying-charges-in-2-million-baht-home-invasion-and-pattaya-safe-robbery-of-fellow-british-expat-strongly-deny-all-charges/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724734568396780571208763813773.jpg?v=1772474044"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724734568396780571208763813773.jpg?v=1772474044",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "이스라엘, 레바논 전역 공습…헤즈볼라 공격 주장, 사망자 52명으로 증가",
+      "summary": "- 이스라엘이 레바논 수도 베이루트를 공습하여 헤즈볼라를 표적으로 삼음.\n- 이로 인해 최소 52명이 사망하고 150명 이상이 부상당함.\n- 헤즈볼라의 이스라엘 북부 로켓 공격에 대한 보복으로 군사 작전 확대.",
+      "full_translated": "이스라엘이 레바논 수도를 하루 종일 공습하며 헤즈볼라를 표적으로 삼았습니다. 최근 사망자 수는 52명, 부상자는 150명 이상으로 늘었습니다. 3월 2일 월요일, 레바논 수도 베이루트는 이스라엘의 여러 차례 공습을 받았으며, 헤즈볼라의 근거지로 여겨지는 장소와 헤즈볼라와 연계된 이슬라믹 지하드의 고위 인사를 표적으로 삼았습니다. 헤즈볼라가 이스라엘 북부 지역에 소규모 로켓을 발사한 후, 이스라엘은 레바논 남부와 베이루트, 특히 헤즈볼라의 오랜 거점인 남부 교외 지역에서 헤즈볼라 목표물을 공격하며 군사 작전을 크게 확대했습니다. 이스라엘 관리들은 헤즈볼라의 로켓 공격에 대한 대응이 필요했다고 주장했습니다. 레바논 재난 관리 부서는 이스라엘의 공습으로 인한 사망자 수가 31명에서 52명으로 증가했으며, 부상자는 154명이라고 발표했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 분쟁 심화는 여행객 안전에 잠재적 영향을 미칠 수 있으며, 특히 베이루트 방문 계획이 있는 경우 주의가 필요함. 한국-태국 간 직항 노선에 미칠 영향은 제한적일 수 있지만, 상황을 주시할 필요가 있음.",
+      "event_info": {
+        "date": "2069-03-02",
+        "location": "베이루트, 레바논",
+        "price": null,
+        "location_google_map_query": "베이루트"
+      },
+      "references": [
+        {
+          "title": "อิสราเอลโจมตีเลบานอนทั้งวัน อ้างถล่มฮิซบอลเลาะห์ ดับพุ่ง 52 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2917529",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlue6gGS9XAQf.jpg"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlue6gGS9XAQf.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "타이베이-방콕행 비행기에서 난동 부린 태국인 커플, 탑승 거부",
+      "summary": "- 타이완-방콕행 비행기에서 태국인 커플이 난동을 부려 탑승이 거부됨.\n- 이들은 탑승 직후 소리를 지르고 다른 승객을 촬영하려 하는 등 소란을 피웠음.\n- 승무원의 제지에도 불구하고 계속 문제를 일으켜 기장이 개입, 결국 비행은 40분 지연됨.",
+      "full_translated": "타이완-방콕행 비행기에서 한 태국인 커플이 이륙 전 난동을 부려 탑승이 거부되는 사건이 발생해 온라인에서 큰 주목을 받고 있습니다. 이 사건은 외국인 승객인 틱톡 사용자 @eatshit30678이 승무원이 두 명의 승객을 비행기에서 내리게 하는 영상을 게시하면서 알려졌습니다. 게시자에 따르면, 이 사건은 타이완에서 태국으로 향하는 비행기에서 발생했습니다. 영상 속 남성은 탑승하자마자 소리를 지르기 시작했고, 통로를 오가며 휴대폰으로 다른 승객들을 촬영하려 했습니다. 승무원들이 하차를 요구하자, 그는 젯 브릿지에서도 계속 문제를 일으켜 기장이 개입하게 되었습니다. 같은 비행기에 탔다고 주장하는 또 다른 소셜 미디어 사용자는 이 커플이 탑승 전부터 다투는 모습이었다고 댓글을 남겼습니다. 이들은 타이완에서 일하다 귀국하는 것으로 추정됩니다. 탑승을 기다리는 동안 남편은 초조한 듯 아내에게 돈이 이체되었는지 환불되었는지 반복해서 물었습니다. 최초 게시자는 자신의 계정이 발생한 일과 일치하는 것 같다고 답하며, 비행기는 결국 태국에 안전하게 도착했다고 덧붙였습니다. 그러나 해당 커플이 하기한 후 출발 허가를 받기까지 약 40분 동안 지연되었습니다. 별도로, 틱톡 사용자 @wilaiwanchantabng은 같은 사건의 또 다른 영상을 공유했는데, 남성이 비행기에 다시 탑승하려 하고 휴대폰을 들어 승무원을 촬영하는 모습이 담겨 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "항공기 지연 정보는 여행객에게 영향을 줄 수 있으며, 유사 사건 발생 가능성을 알림.",
+      "event_info": {
+        "date": null,
+        "location": "타이베이-방콕 항공편",
+        "price": null,
+        "location_google_map_query": "타이베이 공항, 방콕 공항"
+      },
+      "references": [
+        {
+          "title": "Thai couple removed from Taipei–Bangkok flight over disruptive behaviour",
+          "url": "https://www.khaosodenglish.com/news/2026/03/02/thai-couple-removed-from-taipei-bangkok-flight-over-disruptive-behaviour/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/7744.jpg"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/7744.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "스리라차에서 대형 상수도관 폭발, 타이어 가게에 50만 바트 이상 피해",
+      "summary": "- 스리라차의 타이어 가게 앞에서 직경 1.2m 상수도관이 폭발하여 큰 피해 발생.\n- 고압의 물이 도로 아래에서 분출, 도구와 차량을 휩쓸고 5m 깊이의 구덩이 생성.\n- 가게 주인은 가까스로 목숨을 건졌으며, 소방관들이 긴급히 현장에 출동하여 30분 만에 밸브를 잠가 누수를 막음.",
+      "full_translated": "오늘 오전 10시경, 촌부리 스리라차의 램차방-맙양 소이 34 입구 근처 331번 고속도로(인도차이나 도로)의 Thana Yan Yon 타이어 수리점에서 사고가 발생했습니다. 핍팟폰 암폰펫 스리라차 부군수와 농캄 분구 책임자 프리야카몬 찬차이가 이끄는 지역 행정 공무원들은 상점 앞에서 지하에 매설된 직경 1.2m의 상수도관이 파열되었다는 보고를 받고 현장으로 급히 달려갔습니다. 목격자들은 도로 아래에서 고압의 물이 뿜어져 나오면서 굉음과 함께 폭발이 일어났고, 강력한 물줄기가 도구, 장비, 차량을 휩쓸었다고 설명했습니다. 오토바이 한 대는 100미터 이상 하류로 떠내려갔습니다. 타이어 서비스를 받기 위해 막 도착한 Toyota Fortuner SUV, Isuzu 흰색 픽업트럭, 뒷바퀴 왼쪽이 잠긴 채 구멍에 일부 빠진 10륜 트럭을 포함하여 여러 차량이 심하게 손상되었습니다. 폭발의 힘으로 약 5미터 깊이와 5미터 너비의 거대한 분화구가 생겼습니다. 수로 회사 관계자들이 상류의 주 밸브를 잠가 흐름을 멈출 때까지 약 30분 동안 물이 계속 쏟아져 나왔습니다. 가게 주인 타나 씨는 가까스로 죽음을 모면했다고 파타야 뉴스에 말했습니다. 그는 고객의 포튜너에서 타이어를 교체하며 폭발 지점에서 불과 5미터 떨어진 곳에 앉아 있다가 큰 '쾅' 소리를 들었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "교통 혼잡 및 잠재적인 안전 문제, 여행에 불편을 초래할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "스리라차, 촌부리",
+        "price": null,
+        "location_google_map_query": "스리라차 타이어 가게"
+      },
+      "references": [
+        {
+          "title": "Massive Water Pipe Explosion Causes Over 500,000 Baht in Damages in Sri Racha at Tire Shop",
+          "url": "https://thepattayanews.com/2026/03/02/massive-water-pipe-explosion-causes-over-500000-baht-in-damages-in-sri-racha-at-tire-shop/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724703853796756088983767191830.jpg?v=1772470574"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724703853796756088983767191830.jpg?v=1772470574",
       "date": "2026-03-03"
     }
   ]
