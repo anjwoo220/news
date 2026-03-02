@@ -6921,8 +6921,29 @@
       "summary": "- 태국 관광청(TAT)은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화했습니다.\n- 여행객에게 미치는 영향을 최소화하고 관광 회복과 국내 관광 성장에 집중할 계획입니다.\n- TAT는 상황을 면밀히 모니터링하며 필요시 추가 조치를 취할 예정입니다.",
       "full_translated": "태국 관광청은 중동 지역의 긴장 고조에 따라 위기 대응 계획을 활성화하여 여행객에게 미치는 영향을 최소화하고 관광 회복과 국내 관광 성장에 집중할 계획입니다. 상황을 면밀히 모니터링하며 필요시 추가 조치를 취할 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장 고조에 따른 태국 관광객 안전 및 여행 계획에 대한 잠재적 영향 고려. 위기 대응 계획 활성화 소식은 여행객들에게 안심을 제공할 수 있음.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Tourism Authority of Thailand Activates Crisis Response Amid Middle East Tensions, Ensuring Minimal Disruption While Focusing on Tourism Recovery and Domestic Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL2Fzc29jaWF0aW9ucy90b3VyaXNtLWF1dGhvcml0eS1vZi10aGFpbGFuZC1hY3RpdmF0ZXMtY3Jpc2lzLXJlc3BvbnNlLWFtaWQtbWlkZGxlLWVhc3QtdGVuc2lvbnMtZW5zdXJpbmctbWluaW1hbC1kaXNydXB0aW9uLXdoaWxlLWZvY3VzaW5nLW9uLXRvdXJpc20tcmVjb3ZlcnktYW5kLWRvbWVzdGljLWdyb3d0aC_SAQA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "6:43",
+      "image_url": "",
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL2Fzc29jaWF0aW9ucy90b3VyaXNtLWF1dGhvcml0eS1vZi10aGFpbGFuZC1hY3RpdmF0ZXMtY3Jpc2lzLXJlc3BvbnNlLWFtaWQtbWlkZGxlLWVhc3QtdGVuc2lvbnMtZW5zdXJpbmctbWluaW1hbC1kaXNydXB0aW9uLXdoaWxlLWZvY3VzaW5nLW9uLXRvdXJpc20tcmVjb3ZlcnktYW5kLWRvbWVzdGljLWdyb3d0aC_SAQA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 긴장 속 위기 대응 활성화: 여행객 안전 확보 주력",
+      "summary": "- 태국 관광청(TAT)은 중동 지역 긴장 고조에 따라 위기 대응책을 강화하고 있습니다.\n- 여행객 안전을 최우선으로 고려하며, 국내 관광 활성화에 집중할 계획입니다.\n- 현지 상황을 면밀히 모니터링하며 필요한 조치를 신속하게 시행할 예정입니다.",
+      "full_translated": "태국 관광청은 중동 지역의 긴장이 고조됨에 따라 위기 대응을 활성화하여 관광 회복과 국내 성장에 집중하면서 혼란을 최소화하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 긴장 고조에 따른 태국 관광객 안전 확보 노력에 대한 정보는 여행객에게 중요하다고 판단됨.",
       "event_info": {
         "date": null,
         "location": null,
@@ -6932,11 +6953,11 @@
       "references": [
         {
           "title": "Tourism Authority of Thailand Activates Crisis Response Amid Middle East Tensions, Ensuring Minimal Disruption While Focusing on Tourism Recovery and Domestic Growth - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL2Fzc29jaWF0aW9ucy90b3VyaXNtLWF1dGhvcml0eS1vZi10aGFpbGFuZC1hY3RpdmF0ZXMtY3Jpc2lzLXJlc3BvbnNlLWFtaWQtbWlkZGxlLWVhc3QtdGVuc2lvbnMtZW5zdXJpbmctbWluaW1hbC1kaXNydXB0aW9uLXdoaWxlLWZvY3VzaW5nLW9uLXRvdXJpc20tcmVjb3ZlcnktYW5kLWRvbWVzdGljLWdyb3d0aC_SAQA?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RvdXJpc20tYXV0aG9yaXR5LW9mLXRoYWlsYW5kLWFjdGl2YXRlcy1jcmlzaXMtcmVzcG9uc2UtYW1pZC1taWRkbGUtZWFzdC10ZW5zaW9ucy1lbnN1cmluZy1taW5pbWFsLWRpc3J1cHRpb24td2hpbGUtZm9jdXNpbmctb24tdG91cmlzbS1yZWNvdmVyeS1hbmQtZG9tZXN0aWMtZ3Jvd3RoL9IBAA?oc=5",
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "06:43",
+      "collected_at": "08:16",
       "date": "2026-03-02"
     }
   ]
