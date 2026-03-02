@@ -8372,14 +8372,9 @@
       "summary": "- 파타야에서 200만 바트 상당의 금고를 훔친 용의자가 부리람에서 체포됨.\n- 용의자는 오토바이 경주 관람을 위해 부리람에 방문했다가 경찰에 붙잡힘.\n- 경찰은 용의자를 방 라뭉 경찰에 인계할 예정.",
       "full_translated": "파타야 금고 절도 용의자 검거\n\n2026년 3월 2일 05:03 게시\n작성자: Post Reporters\n부리람: 파타야에서 200만 바트 상당의 금고를 훔친 혐의로 수배된 영국인 남성이 이 지방에서 MotoGP 경주에 참석하려다 체포됐다고 경찰이 밝혔습니다. 마이클이라고도 알려진 캠벨 채프먼 티에홀 주니어는 지난 2월 26일 강도 사건에서 그의 역할 혐의로 파타야 지방 법원이 발부한 체포 영장의 대상이라는 사실을 경찰이 알게 된 후 일요일 부리람의 프라콘 차이 지역의 한 리조트에서 구금되었습니다. 경찰은 칼로 무장한 복면을 쓴 남자 3명이 촌부리 방 라뭉 지역의 타운하우스를 급습하여 거주자들을 위협하고 200만 바트 이상과 아이폰이 들어있는 금고를 들고 달아났다고 밝혔습니다. 그들은 부동산 문을 들이받고 트럭을 타고 도주했습니다. 경찰은 용의자가 여자친구의 가족을 방문하고 경주를 보기 위해 부리람에 갔다고 밝혔습니다. 그는 방 라뭉 경찰에 인계될 것입니다. 매일 업데이트, 속보 및 독점 콘텐츠를 보려면 뉴스레터를 구독하세요. 완전한 Bangkok Post 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전 관련 범죄 소식이며, 파타야는 인기 여행지이므로 정보 제공 가치가 있음. 최근 발생한 사건에 대한 업데이트.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "파타야",
-        "price": "200만 바트 상당 금고",
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': '파타야', 'price': '200만 바트 상당 금고', 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Police nab Pattaya robbery suspect",
@@ -8388,23 +8383,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208024_700.jpg"
         }
       ],
-      "collected_at": "00:38",
+      "collected_at": "0:38",
       "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208024_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208024/police-nab-pattaya-robbery-suspect",
+      "source": ""
     },
     {
       "title": "일본, 태국-미얀마 국경 지역 보건 서비스 강화 지원",
       "summary": "- 일본, 탁(Tak) 지방의 태국-미얀마 국경 지역 보건 서비스 강화를 위해 4억 5,300만 엔(약 9,010만 바트) 지원\n- 미얀마 난민 증가로 인해 지역 의료 시스템에 가해지는 부담 완화 목적\n- WHO가 자금을 관리하며, 의료 시설 업그레이드, 의료 장비 제공, 의료 인력 교육 센터 설립 등에 사용될 예정",
       "full_translated": "일본은 태국 탁(Tak) 지방의 태국-미얀마 국경 지역의 공중 보건 서비스 강화를 위해 4억 5,300만 엔(약 9,010만 바트)을 지원하기로 약속했습니다. 이 지역에서는 증가하는 난민 수가 지역 의료 시스템에 부담을 주고 있습니다.\n\n자금 지원 협정은 최근 태국 주재 일본 대사관, 일본 국제 협력단(JICA), 세계 보건 기구(WHO)가 체결했습니다.\n\n자금은 \"탁(Tak) 지방의 미얀마 실향민을 위한 의료 서비스 강화 프로젝트\"라는 이니셔티브에 사용될 것입니다. WHO가 관리하는 이 자금은 의료 시설 및 위생 시스템 업그레이드, 필수 의료 장비 제공, 의료 인력 교육 센터 설립 등을 지원하는 데 사용됩니다.\n\n이 이니셔티브는 미얀마 이주민과 실향민을 위한 3개의 임시 보호소에 초점을 맞추고, 지역 주민에게 서비스를 제공하는 지역 사회 병원의 서비스도 강화할 것입니다.\n\n오타카 마사토 태국 주재 일본 대사는 이 프로젝트가 시급한 인도적 보건 요구를 해결하는 데 도움이 될 것이라고 말했습니다. 2021년부터 태국에 입국하는 미얀마 국민의 수가 증가하여 탁(Tak)에서 입원 및 외래 환자 수가 급격히 증가했습니다. 이러한 급증으로 인해 국경을 따라 위치한 의료 시설은 현재 200,000명 이상의 태국인 외에도 60,000명 이상의 실향민과 미얀마에서 온 국경을 넘나드는 이주민에게 서비스를 제공해야 하므로 부담을 받고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국경 지역의 의료 서비스 개선은 여행객에게 간접적인 영향을 미칠 수 있지만, 즉각적인 위협은 아니므로 중간 점수 부여. 난민 관련 이슈는 정치적인 민감성을 고려하여 POLITICS 분류.",
-      "event_info": {
-        "date": null,
-        "location": "Tak Province",
-        "price": null,
-        "location_google_map_query": "Tak Province Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Tak Province', 'price': None, 'location_google_map_query': 'Tak Province Thailand'}",
       "references": [
         {
           "title": "Japan to help pay for public health on Tak border",
@@ -8413,23 +8405,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3207985_260302075618_700.jpg"
         }
       ],
-      "collected_at": "00:38",
+      "collected_at": "0:38",
       "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3207985_260302075618_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3207985/japan-to-help-pay-for-public-health-on-tak-border",
+      "source": ""
     },
     {
       "title": "중국, 이란 주권 보호 지지 및 미국-이스라엘의 도발 비난",
       "summary": "- 중국 정부는 이란의 주권 보호를 지지하며 미국과 이스라엘을 비난.\n- 이들은 유엔 헌장을 위반하고 이란과의 전쟁을 의도적으로 도발하고 있다고 주장.\n- 중국은 미국과 이스라엘에 즉각적인 군사 작전 중단 및 긴장 완화를 촉구.",
       "full_translated": "중국 정부는 이란의 주권 보호를 지지하며 미국과 이스라엘이 유엔 헌장을 위반하고 이란과의 전쟁을 의도적으로 도발하고 있다고 비난했습니다. 중국 CCTV에 따르면, 왕이 외교부장은 압바스 아락치 이란 외무장관과의 전화 통화에서 중국은 미국과 이스라엘의 공격으로부터 이란의 자위권을 지지한다고 밝혔습니다. 왕이 부장은 중국이 이란과의 우호 관계를 중요하게 생각하며 이란의 주권, 안보, 영토 보전 및 국가적 존엄성을 옹호하고 이란의 합법적인 권리와 이익을 보호하는 것을 지지한다고 말했습니다. 또한 중국은 미국과 이스라엘에 즉각적인 군사 작전 중단, 긴장 완화, 중동 지역으로의 분쟁 확산 방지를 촉구했습니다. 왕이 부장은 오만 외무장관과의 통화에서도 미국과 이스라엘이 유엔 헌장의 목적과 원칙을 위반하고 있다고 비난했습니다. 중국은 유엔 안전보장이사회를 통해 건설적인 역할을 수행할 준비가 되어 있다고 덧붙였습니다. 프랑스 외무장관과의 통화에서 왕이 부장은 세계가 '정글의 법칙' 시대로 퇴보할 위험에 처해 있다고 경고했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "중동 지역 긴장 고조는 잠재적으로 태국 여행에도 영향을 미칠 수 있지만, 직접적인 위협은 아니므로 낮은 점수 부여. 상황을 주시할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "จีนประกาศ หนุนอิหร่านปกป้องอธิปไตย จวกสหรัฐฯ-อิสราเอลจงใจยั่วยุ",
@@ -8438,23 +8427,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZltqzCvwirIM0.jpg"
         }
       ],
-      "collected_at": "00:38",
+      "collected_at": "0:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZltqzCvwirIM0.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917527",
+      "source": ""
     },
     {
       "title": "벤 스미스 사건 관련, '붉은 수배령' 발동 여부에 대한 의문 제기",
       "summary": "- 랑시만 로메 의원은 벤 스미스에 대한 체포 영장 발부에 대해 중앙수사국을 칭찬하며, 붉은 수배령 발동 여부를 주시할 것을 요청했습니다.\n- 그는 또한 Huione Pay 사건이 왜 진전이 없는지에 대해 중앙수사국, 사이버 경찰, 자금세탁방지위원회에 질문했습니다.\n- 로메 의원은 관련 당국이 교훈을 얻고 업무 방식을 개선하여 범죄자들이 도주하고 재산을 은닉하기 전에 신속하게 대응해야 한다고 강조했습니다.",
       "full_translated": "2069년 3월 2일, 랑시만 로메 하원의원은 벤 스미스 또는 벤자민 마우에르베르거와 그의 아내에 대한 체포 영장 발부 소식에 대해 언급했습니다. 그는 중앙수사국이 이 문제를 처리하여 체포 영장을 발부한 것에 대해 칭찬했습니다. 벤 스미스와 그의 아내에 대한 체포 영장을 발부하는 것은 쉬운 일이 아니며, 많은 시간과 절차가 필요하기 때문입니다. 저는 모든 관련자들이 교훈을 얻고 현재보다 더 신속하게 업무 방식을 개발해야 한다고 생각합니다. 벤 스미스와 같은 중요한 범죄자의 경우 절차가 완료되기 전에 도주하여 대부분의 재산을 은닉할 수 있기 때문입니다. 로메 의원은 이 사건이 어느 정도 진전되고 있으며, 중앙수사국과 같은 관계자들은 칭찬을 받아야 하지만, 주요 사건들이 어떻게 끝날지에 대한 우려가 여전히 있다고 말했습니다. 자금세탁방지위원회가 100억 바트 이상의 재산을 압류하고 중앙수사국이 외국인 투자자 사기 사건에 대한 체포 영장을 발부하는 등 진전이 있었지만, Huione Pay와 같은 주요 사건은 실질적인 진전이 거의 없습니다. 이 사건에 대한 정보는 방대하고 막대한 양의 재산이 관련되어 있음에도 불구하고(Huione 플랫폼을 통해 흐르는 자금은 3조 3천억 바트에 달함) 스캐머 조직의 구조를 완전히 파괴하고 싶다면 해당 사건을 무시하는 것은 근절로 이어질 수 없습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "해당 사건은 주로 정치 및 사기 관련 내용으로, 일반적인 여행객에게 직접적인 영향을 미치지 않아 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“โรม” ตั้งคำถามคดี “เบน สมิธ” จะออกหมายแดง ตามจับตัวต่อหรือไม่",
@@ -8463,23 +8449,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZltvn8Kius9ex.jpg"
         }
       ],
-      "collected_at": "00:38",
+      "collected_at": "0:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZltvn8Kius9ex.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/politic/2917526",
+      "source": ""
     },
     {
       "title": "싱가포르 최고 사령관, 태국 왕실 훈장 수여",
       "summary": "- 싱가포르 최고 사령관 에런 벵 중장이 태국 왕실로부터 훈장을 받음.\n- 양국 군대 간의 지속적인 관계 증진에 기여한 공로를 인정받음.\n- 2029년 2월 17일 부로 훈장 수여가 결정됨.",
       "full_translated": "태국 왕실 관보에 따르면 에런 벵 싱가포르 최고 사령관에게 왕실 훈장이 수여되었습니다. 2029년 2월 17일부터 벵 중장은 양국 군대의 관계를 지원하고 강화하는 데 중요한 역할을 수행한 공로를 인정받아 훈장을 받게 되었습니다. 이 훈장은 군대와 국가 전체에 이익이 됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국과 싱가포르 관계에 대한 뉴스이며, 여행객에게 직접적인 영향은 없다고 판단됨. 정치적 관계에 대한 정보이므로 낮은 점수를 부여.",
-      "event_info": {
-        "date": "2029-02-17",
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2029-02-17', 'location': '태국', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "โปรดเกล้าฯ พระราชทานเครื่องราชอิสริยาภรณ์ชั้นประถมาภรณ์มงกุฎไทย ให้ “พลเรือโท แอรอน เบง”",
@@ -8488,8 +8471,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkkQvvYDC421s.jpg"
         }
       ],
-      "collected_at": "00:38",
+      "collected_at": "0:38",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkkQvvYDC421s.jpg",
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/politic/2917519",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 분쟁으로 발 묶인 외국인 관광객에게 1일 2,000바트 지원 계획",
+      "summary": "- 태국 관광체육부가 중동 분쟁으로 항공편이 취소되어 태국에 발이 묶인 외국인 관광객에게 하루 2,000바트의 재정 지원을 제공할 예정입니다.\n- 낫트리야 타위웡 관광체육부 사무차관은 관계 기관과 긴급 회의를 열어 지원 방안을 논의했다고 밝혔습니다.\n- 항공편 취소로 귀국이 어려워진 관광객들을 위해 숙박 할인, 특별 여행 패키지 등도 마련될 예정입니다.",
+      "full_translated": "태국 — 관광체육부는 중동 분쟁 심화와 관련된 항공편 취소로 태국에 발이 묶인 외국인 관광객에게 하루 2,000바트의 재정 지원을 제공할 준비를 하고 있습니다. 낫트리야 타위웡 관광체육부 사무차관은 3월 2일, 관광 당국(TAT), 태국 관광 협의회, 태국 호텔 협회 및 기타 서비스 부문 그룹을 포함한 주요 관광 이해 관계자들과 긴급 회의를 열어 영향을 받은 방문객을 위한 지원을 조정했다고 밝혔습니다. 악화되는 지역 분쟁으로 인해 영공 폐쇄 및 광범위한 항공편 취소가 발생하여 많은 관광객이 귀국하지 못하고 있습니다. 낫트리야는 발이 묶인 방문객 중 상당수는 상황이 악화되기 전에 도착했으며 현재 재정적 어려움에 직면할 수 있다고 말했습니다. “태국은 좋은 주최자 역할을 해야 합니다. 불가항력으로 인해 관광객이 귀국할 수 없는 경우, 부처는 하루 2,000바트의 초기 보상을 허용하는 규정을 가지고 있습니다.”라고 그녀는 덧붙여 관계자들이 필요한 지원 범위를 계속 평가할 것이라고 말했습니다. 부처는 태국 호텔 협회를 통해 발이 묶인 관광객을 위한 객실 요금 할인을 요청했습니다. 서비스 운영업체는 또한 방문객이 귀국 항공편을 기다리는 동안 할인된 가격으로 태국 내 여행을 계속할 수 있도록 특별 여행 패키지를 제공해 달라는 요청을 받고 있습니다. 지역 TAT 사무소, 지방 관광 및 스포츠 사무소, 자원봉사자들은 관광객을 지원하기 위해 협력하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "항공편 취소로 인한 외국인 관광객의 어려움을 해소하기 위한 정부 지원 계획은 여행객에게 직접적인 영향을 미치므로 중요합니다. 특히 현재 시각이 새벽이므로, 당일 오전에 미처 이 소식을 접하지 못했을 여행객을 위해 게시합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism ministry plans 2,000-baht daily aid for stranded foreign tourists amid airspace closures",
+          "url": "https://www.khaosodenglish.com/featured/2026/03/02/tourism-ministry-plans-2000-baht-daily-aid-for-stranded-foreign-tourists-amid-airspace-closures/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/870.jpg"
+        }
+      ],
+      "collected_at": "01:34",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/870.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "캄팽펫 지역, 여성 촌장과 여교사의 결혼 화제: 지참금 160만 바트 넘어",
+      "summary": "- 캄팽펫 지역에서 여성 촌장과 여교사의 결혼식이 열려 지역 사회의 관심을 끌었습니다.\n- 결혼식에는 현금 20만 바트와 18바트 무게의 금 장신구 및 금괴가 지참금으로 전달되었습니다.\n- 전통적인 태국 결혼식과 유사하게 불교 의식과 음식 제공이 있었습니다.",
+      "full_translated": "캄팽펫 — 캄팽펫의 한 마을 촌장이 3월 1일 오랜 파트너인 지역 학교 교사와 전통적인 결혼식을 올렸으며, 140만 바트가 넘는 지참금과 금이 지역 사회의 관심을 끌었습니다. 결혼식은 클롱클룽 지역의 클롱솜분 구역, 반농팍남에 있는 한 주택에서 09시 30분에 열렸으며, 이곳은 부부의 새 집으로 마련되었습니다. 이 결혼식은 클롱클룽 반로이라이 학교의 교사인 '크루 룽'으로 알려진 46세의 룽나파 붓삼란과 반농팍남 3구의 촌장인 '푸야이 툭'으로 알려진 46세의 차린랏 눔두아를 하나로 묶었습니다. 이 동성 결혼식은 여성 간의 결합이라는 점뿐만 아니라 차린랏이 신부에게 제시한 상당한 지참금 때문에 주민들 사이에서 광범위한 관심을 끌었습니다. 약혼 및 결혼 의식 동안 가족들은 현금 20만 바트와 금 장신구 및 금괴를 합쳐 18바트 무게로 계산했으며, 이는 140만 바트 이상의 가치가 있었습니다. 아침은 전통적인 태국 결혼식과 유사하게 불교 공덕 의식과 음식 제공으로 시작되었습니다. 지역 사회 및 다른 지방에서 온 손님들을 맞이하기 위해 200개 이상의 중국 연회 테이블이 준비되었습니다. 이후, 차린랏이 태국 전통 의상을 입고 룽나파의 손을 정식으로 요청하기 위해 행렬을 이끄는 전통적인 칸막 행렬이 열렸습니다. 분위기는 활기찼으며, 마을 주민들은 촌장의 관할 하에 있는 많은 주민들이...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 문화에 대한 흥미로운 로컬 뉴스이며, 여행객들에게 간접적인 문화 체험 기회를 제공할 수 있습니다.",
+      "event_info": {
+        "date": "2026-03-01",
+        "location": "Ban Nong Phak Nam, Khlong Sombun subdistrict, Khlong Khlung district, Kamphaeng Phet",
+        "price": "N/A",
+        "location_google_map_query": "Ban Nong Phak Nam, Khlong Sombun, Khlong Khlung District, Kamphaeng Phet, Thailand"
+      },
+      "references": [
+        {
+          "title": "Village headwoman weds female teacher in Kamphaeng Phet, dowry tops 1.6 million baht",
+          "url": "https://www.khaosodenglish.com/featured/2026/03/02/village-headwoman-weds-female-teacher-in-kamphaeng-phet-dowry-tops-1-6-million-baht/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114556_vsAPOYaCFK1772369493.jpg"
+        }
+      ],
+      "collected_at": "01:34",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114556_vsAPOYaCFK1772369493.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "트럼프, 이란 핵무기 보유는 용납할 수 없는 위협",
+      "summary": "- 트럼프 대통령은 이란이 핵무기 개발을 중단하지 않아 이란 공격을 감행했다고 밝힘.\n- 이란의 핵무기 및 장거리 미사일 개발은 중동 및 미국에 대한 용납할 수 없는 위협이라고 주장.\n- 이란의 미사일 능력 파괴 및 해군력 격퇴를 작전 목표로 설정.",
+      "full_translated": "도널드 트럼프 미국 대통령은 이란이 핵무기 개발을 중단하라는 미국의 경고를 무시하고 있다고 주장하며, 이란 공격을 감행했다고 밝혔습니다. 백악관에서 열린 훈장 수여식에서 트럼프 대통령은 '에픽 퓨리' 작전에 대한 간략한 업데이트를 제공하며, 미국이 이란 정권의 위협을 제거하기 위한 대규모 전투 작전을 계속 수행하고 있다고 언급했습니다. 그는 이란이 미국의 경고를 무시하고 '핵무기 추구를 중단하기를 거부했다'고 비난했습니다. 트럼프 대통령은 이란의 미사일 프로그램이 핵무기 개발을 위한 방패 역할을 한다고 주장하며, 미국은 이 문제를 종식시키기를 원하지만 '모두가 우리를 지지한다'고 덧붙였습니다. 트럼프 대통령은 핵무기와 장거리 미사일로 무장한 이란 정부는 중동과 미국 국민 모두에게 '용납할 수 없는 위협'이 될 것이라고 주장했습니다. 따라서 그는 이번 전쟁이 '공격할 수 있는 마지막이자 최선의 기회'이며 '병들고 사악한 정권의 용납할 수 없는 위협'을 제거하기 위한 것이라고 판단했습니다. 트럼프 대통령은 이란 작전의 목표가 '명확'하며, 여기에는 '이란의 미사일 능력 파괴'와 '해군력 격퇴'가 포함된다고 강조했습니다. 또한 이란이 '국경 너머의 테러리스트 군대에 무기를 제공하고 자금을 지원하며 지시하는 것을 더 이상 허용할 수 없다'고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 중동 지역 불안정 심화 가능성을 내포하고 있어 낮은 점수 부여. 현재 시각이 새벽이므로 정치 관련 뉴스의 우선순위는 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ลั่น อิหร่านที่มีอาวุธนิวเคลียร์ คือภัยคุกคามที่ไม่อาจยอมรับได้",
+          "url": "https://www.thairath.co.th/news/foreign/2917528",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZluk8zJzjrH8U.jpg"
+        }
+      ],
+      "collected_at": "01:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZluk8zJzjrH8U.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "방콕 12구 선거구, 민주당 득표수 오류 주장하며 선거관리위원회에 재검토 요구",
+      "summary": "- 민주당, 방콕 12구의 득표수 오류에 대한 선거관리위원회의 조사를 촉구.\n- 실제 71표 획득했으나 보고서에는 1표로 기재되어 70표 차이 발생.\n- 민주당은 국민의 권리 보호를 위해 법적 절차를 통해 이 문제를 해결할 것이라고 밝힘.",
+      "full_translated": "민주당의 파누퐁은 방콕 12구 선거구의 득표수에 대한 조사를 선거관리위원회에 촉구했습니다. 정당의 실제 득표수는 71표였으나 보고서에는 단 1표로 보고되었습니다. 2069년 3월 2일, 민주당 법률 위원회의 파누퐁 락사나위싯은 라멧 라타나체웽 민주당 법률 위원장이 선거관리위원회(꼬.꼬.떠.) 의장에게 서한을 제출하여 방콕 12구 선거구의 국회의원 명단 선거 결과에 대한 조사 및 수정을 요청했다고 밝혔습니다. 세나빌라 3 프로젝트 69번 투표소(쿠본 27 소이 10, 방켄 지역 내 스포츠 경기장)에서 득표수 오류가 발견되었습니다. 득표 결과에 따르면 27번 민주당 후보의 실제 득표수는 71표였지만 국회의원 5/18 (버.처.) 보고서에는 단 1표로 보고되어 70표의 차이가 발생했습니다. 파누퐁은 또한 이번 서한 제출은 국민의 권리와 목소리를 최대한 보호하기 위한 것이며 선거관리위원회가 득표 결과를 수정하고 공정하고 투명하게 업무를 수행하여 민주당에 대한 공정성을 보장하기를 희망한다고 밝혔습니다. 만약 국회의원 명단 선거 결과가 수정 없이 승인될 경우, 정당은 법적 절차에 따라 권리를 보호할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "단순 정치 뉴스이며 여행객에게 직접적인 영향은 없음. 선거 관련 부정 의혹은 추후 시위 등으로 번질 가능성은 있으나 현재로서는 미미함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปชป. จี้กกต. ตรวจสอบคะแนนเขต 12 กทม. หลังคะแนนคลาดเคลื่อน 70 คะแนน",
+          "url": "https://www.thairath.co.th/news/politic/2917511",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkk8SgByiNQBN.jpg"
+        }
+      ],
+      "collected_at": "01:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkk8SgByiNQBN.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "스타머, 미국이 이란 미사일 대응에 영국 기지 사용할 수 있다고 밝혀",
+      "summary": "- 키어 스타머 영국 총리는 미국이 이란 미사일에 대한 방어적 공격에 영국 기지를 사용하는 요청을 수락했다고 밝혔습니다.\n- 이는 오랜 우방 및 동맹국의 집단적 자위와 영국인의 생명을 보호하기 위한 결정이라고 덧붙였습니다.\n- 해당 기사는 로이터 통신을 인용했습니다.",
+      "full_translated": "키어 스타머 영국 총리는 일요일(3월 1일) 미국이 이란의 미사일 저장고 또는 발사대에 대한 방어적 공격에 영국 기지를 사용하는 요청을 수락했다고 밝혔습니다. 그는 “우리 결정의 근거는 오랜 우방 및 동맹국의 집단적 자위와 영국인의 생명을 보호하는 것”이라고 덧붙였습니다. - 로이터 통신",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세 관련 정보 제공 차원에서 낮은 점수 부여. 테러 위험 고조 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Starmer says US may use UK bases to counter Iranian missiles",
+          "url": "https://www.bangkokpost.com/video/world/3208184/starmer-says-us-may-use-uk-bases-to-counter-iranian-missiles",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208184_700.jpg"
+        }
+      ],
+      "collected_at": "01:34",
+      "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208184_700.jpg",
       "date": "2026-03-03"
     }
   ]
