@@ -8592,14 +8592,9 @@
       "summary": "- 수완나품 공항에서 출발/도착 47편의 항공편이 취소되었습니다.\n- 취소된 항공편은 이스라엘 항공, 에어 아라비아, 에미레이트 항공, 카타르 항공 등을 포함합니다.\n- 공항은 상황을 면밀히 모니터링하고 있으며, 항공사와 협력하여 승객을 지원하고 있습니다.",
       "full_translated": "수완나품 공항은 47편의 항공편 취소를 보고했습니다. 취소된 서비스는 출발 24편과 도착 23편으로 구성됩니다. 영향을 받은 항공사는 EL AL 이스라엘 항공, 에어 아라비아, 에미레이트 항공, 카타르 항공, 에티하드 항공, 걸프 에어, 쿠웨이트 항공 및 월드2플라이입니다. 2026년 2월 28일에서 3월 2일 사이에 총 108편의 항공편이 취소되었으며, 여기에는 공항에 따르면 출발 58편과 도착 50편이 포함됩니다. 수완나품 공항은 상황을 면밀히 모니터링하고 있으며 영향을 받은 항공사와 계속 협력하여 승객이 적절한 지원을 받을 수 있도록 하고 있습니다. 현재 항공사가 사전에 여행자에게 알리고 상황을 효과적으로 관리했기 때문에 공항에 발이 묶인 출발 승객은 없습니다. 공항은 승객을 돕기 위해 직원을 배치하고 상황이 완화될 때까지 항공사에 연락하기 위해 기다리는 사람들을 위해 식수 서비스를 제공합니다. 공항은 중동 또는 인근 지역으로 여행을 계획하는 승객에게 웹사이트, 모바일 애플리케이션, 공항의 항공사 카운터 또는 기타 직접 연락 채널을 통해 항공사에 항공편 상태를 면밀히 확인하도록 조언했습니다. 승객은 연중무휴 24시간 이용 가능한 AOT 컨택 센터 1722로 전화하여 공항 서비스에 대한 자세한 정보를 얻을 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "항공편 취소로 인해 여행객들에게 불편을 초래할 수 있으므로 높은 점수를 부여합니다. 특히 중동 지역 여행객은 항공편 상태를 확인해야 합니다.",
-      "event_info": {
-        "date": "2026-03-02",
-        "location": "Suvarnabhumi Airport",
-        "price": null,
-        "location_google_map_query": "Suvarnabhumi Airport"
-      },
+      "event_info": "{'date': '2026-03-02', 'location': 'Suvarnabhumi Airport', 'price': None, 'location_google_map_query': 'Suvarnabhumi Airport'}",
       "references": [
         {
           "title": "Suvarnabhumi reports 47 flight cancellations",
@@ -8608,23 +8603,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Suvarnabhumi-reports-47-flight-cancellations.jpg"
         }
       ],
-      "collected_at": "02:31",
+      "collected_at": "2:31",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Suvarnabhumi-reports-47-flight-cancellations.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.khaosodenglish.com/news/2026/03/02/suvarnabhumi-reports-47-flight-cancellations/",
+      "source": ""
     },
     {
       "title": "파타야 주택 침입 및 금고 절도 사건: 영국인 용의자 3명 체포 후 혐의 부인",
       "summary": "- 파타야에서 발생한 2백만 바트 상당의 주택 침입 및 금고 절도 사건 용의자로 영국인 3명이 체포됨.\n- 용의자들은 모든 혐의를 강력하게 부인하고 있음.\n- 경찰은 추가 공범 여부를 조사 중이며, 용의자들은 법원 심리를 기다리고 있음.",
       "full_translated": "파타야 뉴스에 따르면, 농프루 경찰서, 지방 경찰청 2구역, 촌부리 지방 수사대, 출입국 경찰은 용의자들을 임시 구금 장소에서 파타야 지방 법원으로 이송했습니다. 태국 경찰은 피고인들의 신원을 다음과 같이 공개했습니다.\n\n- 팔머 저메인(20세): 송클라 주 사다오 지역의 파당 베사르 출입국 검문소에서 체포되었으며, 국외 도피 시도 혐의도 받고 있습니다.\n- 크리스토퍼 에란스(38세): 방콕 돈므앙 국제공항에서 체포되었으며, 역시 혐의를 벗어나려 한 혐의를 받고 있습니다.\n- 타이훌 주니어 마이클 캠벨(32세): 부리람 주 프라콘차이 지역의 한 호텔에서 구금되었습니다.\n\n세 사람 모두 공동 강도 혐의로 기소되었습니다. 신원 미상의 백인 영국인 남성으로만 알려진 4번째 용의자는 추가 조사를 위해 경찰에 구금되어 있습니다. 그는 언론 보도 시점까지 정식으로 기소되지 않았습니다. 이전에 인터뷰했던 5번째 관련자는 더 이상 관심 대상이 아니며 풀려난 것으로 보이지만, 경찰은 더 이상 구체적으로 밝히지 않았습니다.\n\n강도는 2026년 2월 26일 밤, 촉차이 빌리지 9, 무 10에 있는 2층 타운하우스에서 발생했습니다. 칼로 무장한 복면을 쓴 강도들은 영국인 셰프인 웨슬리 시릴 러셀(32세)과 그의 태국인 파트너의 집을 습격하여 금고를 훔쳤습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 영향을 줄 수 있으므로 관련 정보 제공. 기존 '파타야 금고 절도 용의자 검거' 기사와 유사하지만, 체포 후 혐의 부인 등 새로운 정보 포함.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "Chokchai Village 9, Moo 10, Pattaya",
-        "price": "2,000,000 Baht (도난 금액)",
-        "location_google_map_query": "Chokchai Village 9, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': 'Chokchai Village 9, Moo 10, Pattaya', 'price': '2,000,000 Baht (도난 금액)', 'location_google_map_query': 'Chokchai Village 9, Pattaya'}",
       "references": [
         {
           "title": "Three British Suspects Officially Taken into Custody After Denying Charges in 2 Million Baht Home Invasion and Pattaya Safe Robbery of Fellow British Expat, Strongly Deny All Charges",
@@ -8633,23 +8625,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724734568396780571208763813773.jpg?v=1772474044"
         }
       ],
-      "collected_at": "02:31",
+      "collected_at": "2:31",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724734568396780571208763813773.jpg?v=1772474044",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://thepattayanews.com/2026/03/03/three-british-suspects-officially-taken-into-custody-after-denying-charges-in-2-million-baht-home-invasion-and-pattaya-safe-robbery-of-fellow-british-expat-strongly-deny-all-charges/",
+      "source": ""
     },
     {
       "title": "이스라엘, 레바논 전역 공습…헤즈볼라 공격 주장, 사망자 52명으로 증가",
       "summary": "- 이스라엘이 레바논 수도 베이루트를 공습하여 헤즈볼라를 표적으로 삼음.\n- 이로 인해 최소 52명이 사망하고 150명 이상이 부상당함.\n- 헤즈볼라의 이스라엘 북부 로켓 공격에 대한 보복으로 군사 작전 확대.",
       "full_translated": "이스라엘이 레바논 수도를 하루 종일 공습하며 헤즈볼라를 표적으로 삼았습니다. 최근 사망자 수는 52명, 부상자는 150명 이상으로 늘었습니다. 3월 2일 월요일, 레바논 수도 베이루트는 이스라엘의 여러 차례 공습을 받았으며, 헤즈볼라의 근거지로 여겨지는 장소와 헤즈볼라와 연계된 이슬라믹 지하드의 고위 인사를 표적으로 삼았습니다. 헤즈볼라가 이스라엘 북부 지역에 소규모 로켓을 발사한 후, 이스라엘은 레바논 남부와 베이루트, 특히 헤즈볼라의 오랜 거점인 남부 교외 지역에서 헤즈볼라 목표물을 공격하며 군사 작전을 크게 확대했습니다. 이스라엘 관리들은 헤즈볼라의 로켓 공격에 대한 대응이 필요했다고 주장했습니다. 레바논 재난 관리 부서는 이스라엘의 공습으로 인한 사망자 수가 31명에서 52명으로 증가했으며, 부상자는 154명이라고 발표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 분쟁 심화는 여행객 안전에 잠재적 영향을 미칠 수 있으며, 특히 베이루트 방문 계획이 있는 경우 주의가 필요함. 한국-태국 간 직항 노선에 미칠 영향은 제한적일 수 있지만, 상황을 주시할 필요가 있음.",
-      "event_info": {
-        "date": "2069-03-02",
-        "location": "베이루트, 레바논",
-        "price": null,
-        "location_google_map_query": "베이루트"
-      },
+      "event_info": "{'date': '2069-03-02', 'location': '베이루트, 레바논', 'price': None, 'location_google_map_query': '베이루트'}",
       "references": [
         {
           "title": "อิสราเอลโจมตีเลบานอนทั้งวัน อ้างถล่มฮิซบอลเลาะห์ ดับพุ่ง 52 ศพ",
@@ -8658,23 +8647,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlue6gGS9XAQf.jpg"
         }
       ],
-      "collected_at": "02:31",
+      "collected_at": "2:31",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlue6gGS9XAQf.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917529",
+      "source": ""
     },
     {
       "title": "타이베이-방콕행 비행기에서 난동 부린 태국인 커플, 탑승 거부",
       "summary": "- 타이완-방콕행 비행기에서 태국인 커플이 난동을 부려 탑승이 거부됨.\n- 이들은 탑승 직후 소리를 지르고 다른 승객을 촬영하려 하는 등 소란을 피웠음.\n- 승무원의 제지에도 불구하고 계속 문제를 일으켜 기장이 개입, 결국 비행은 40분 지연됨.",
       "full_translated": "타이완-방콕행 비행기에서 한 태국인 커플이 이륙 전 난동을 부려 탑승이 거부되는 사건이 발생해 온라인에서 큰 주목을 받고 있습니다. 이 사건은 외국인 승객인 틱톡 사용자 @eatshit30678이 승무원이 두 명의 승객을 비행기에서 내리게 하는 영상을 게시하면서 알려졌습니다. 게시자에 따르면, 이 사건은 타이완에서 태국으로 향하는 비행기에서 발생했습니다. 영상 속 남성은 탑승하자마자 소리를 지르기 시작했고, 통로를 오가며 휴대폰으로 다른 승객들을 촬영하려 했습니다. 승무원들이 하차를 요구하자, 그는 젯 브릿지에서도 계속 문제를 일으켜 기장이 개입하게 되었습니다. 같은 비행기에 탔다고 주장하는 또 다른 소셜 미디어 사용자는 이 커플이 탑승 전부터 다투는 모습이었다고 댓글을 남겼습니다. 이들은 타이완에서 일하다 귀국하는 것으로 추정됩니다. 탑승을 기다리는 동안 남편은 초조한 듯 아내에게 돈이 이체되었는지 환불되었는지 반복해서 물었습니다. 최초 게시자는 자신의 계정이 발생한 일과 일치하는 것 같다고 답하며, 비행기는 결국 태국에 안전하게 도착했다고 덧붙였습니다. 그러나 해당 커플이 하기한 후 출발 허가를 받기까지 약 40분 동안 지연되었습니다. 별도로, 틱톡 사용자 @wilaiwanchantabng은 같은 사건의 또 다른 영상을 공유했는데, 남성이 비행기에 다시 탑승하려 하고 휴대폰을 들어 승무원을 촬영하는 모습이 담겨 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "항공기 지연 정보는 여행객에게 영향을 줄 수 있으며, 유사 사건 발생 가능성을 알림.",
-      "event_info": {
-        "date": null,
-        "location": "타이베이-방콕 항공편",
-        "price": null,
-        "location_google_map_query": "타이베이 공항, 방콕 공항"
-      },
+      "event_info": "{'date': None, 'location': '타이베이-방콕 항공편', 'price': None, 'location_google_map_query': '타이베이 공항, 방콕 공항'}",
       "references": [
         {
           "title": "Thai couple removed from Taipei–Bangkok flight over disruptive behaviour",
@@ -8683,23 +8669,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/7744.jpg"
         }
       ],
-      "collected_at": "02:31",
+      "collected_at": "2:31",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/7744.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.khaosodenglish.com/news/2026/03/02/thai-couple-removed-from-taipei-bangkok-flight-over-disruptive-behaviour/",
+      "source": ""
     },
     {
       "title": "스리라차에서 대형 상수도관 폭발, 타이어 가게에 50만 바트 이상 피해",
       "summary": "- 스리라차의 타이어 가게 앞에서 직경 1.2m 상수도관이 폭발하여 큰 피해 발생.\n- 고압의 물이 도로 아래에서 분출, 도구와 차량을 휩쓸고 5m 깊이의 구덩이 생성.\n- 가게 주인은 가까스로 목숨을 건졌으며, 소방관들이 긴급히 현장에 출동하여 30분 만에 밸브를 잠가 누수를 막음.",
       "full_translated": "오늘 오전 10시경, 촌부리 스리라차의 램차방-맙양 소이 34 입구 근처 331번 고속도로(인도차이나 도로)의 Thana Yan Yon 타이어 수리점에서 사고가 발생했습니다. 핍팟폰 암폰펫 스리라차 부군수와 농캄 분구 책임자 프리야카몬 찬차이가 이끄는 지역 행정 공무원들은 상점 앞에서 지하에 매설된 직경 1.2m의 상수도관이 파열되었다는 보고를 받고 현장으로 급히 달려갔습니다. 목격자들은 도로 아래에서 고압의 물이 뿜어져 나오면서 굉음과 함께 폭발이 일어났고, 강력한 물줄기가 도구, 장비, 차량을 휩쓸었다고 설명했습니다. 오토바이 한 대는 100미터 이상 하류로 떠내려갔습니다. 타이어 서비스를 받기 위해 막 도착한 Toyota Fortuner SUV, Isuzu 흰색 픽업트럭, 뒷바퀴 왼쪽이 잠긴 채 구멍에 일부 빠진 10륜 트럭을 포함하여 여러 차량이 심하게 손상되었습니다. 폭발의 힘으로 약 5미터 깊이와 5미터 너비의 거대한 분화구가 생겼습니다. 수로 회사 관계자들이 상류의 주 밸브를 잠가 흐름을 멈출 때까지 약 30분 동안 물이 계속 쏟아져 나왔습니다. 가게 주인 타나 씨는 가까스로 죽음을 모면했다고 파타야 뉴스에 말했습니다. 그는 고객의 포튜너에서 타이어를 교체하며 폭발 지점에서 불과 5미터 떨어진 곳에 앉아 있다가 큰 '쾅' 소리를 들었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "교통 혼잡 및 잠재적인 안전 문제, 여행에 불편을 초래할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "스리라차, 촌부리",
-        "price": null,
-        "location_google_map_query": "스리라차 타이어 가게"
-      },
+      "event_info": "{'date': None, 'location': '스리라차, 촌부리', 'price': None, 'location_google_map_query': '스리라차 타이어 가게'}",
       "references": [
         {
           "title": "Massive Water Pipe Explosion Causes Over 500,000 Baht in Damages in Sri Racha at Tire Shop",
@@ -8708,8 +8691,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724703853796756088983767191830.jpg?v=1772470574"
         }
       ],
-      "collected_at": "02:31",
+      "collected_at": "2:31",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17724703853796756088983767191830.jpg?v=1772470574",
+      "date": "2026-03-03",
+      "link": "https://thepattayanews.com/2026/03/02/massive-water-pipe-explosion-causes-over-500000-baht-in-damages-in-sri-racha-at-tire-shop/",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변에서 제트스키 사고: 인도인 관광객, 러시아 여성 부상",
+      "summary": "- 파타야 좀티엔 해변 인근에서 제트스키 사고 발생, 러시아 여성 부상\n- 술 취한 인도인 관광객이 운전 미숙으로 수영 구역 침범, 사고 유발\n- 피해 여성은 머리 부상으로 병원 이송, 가해자는 경찰에 연행",
+      "full_translated": "파타야 뉴스에 따르면, 좀티엔 소이 5 인근 해변 수영 구역에서 오전 11시경 제트스키 사고가 발생했습니다. 파타야 해양 구조대는 외국인 여성이 제트스키에 치여 부상을 입었다는 신고를 받고 출동했습니다. 구조팀은 해안에서 약 5미터 떨어진 곳에서 머리에 열상을 입고 극심한 충격과 고통을 호소하는 65세 러시아 국적의 에리나 씨를 발견했습니다. 응급 처치 후 방콕-파타야 병원으로 이송되었습니다. 사고 당시 34세 인도 남성 제이쉬 만벤드라 씨가 무릎을 꿇고 사과하며, 수영 구역에서 그녀를 보지 못했다고 주장했습니다. 파타야 경찰은 그를 구금하여 조사 중입니다. 파타야 해안 구조대원 웃차이 덴차이야품 씨는 인도인 관광객이 제트스키를 타고 부표로 표시된 수영 구역 경계를 침범하는 것을 목격했으며, 제지하려 했으나 제트스키가 가속하여 여성을 들이받았다고 진술했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "파타야 해변에서 관광객 안전사고 발생. 여행객 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "좀티엔 해변 (파타야)",
+        "price": null,
+        "location_google_map_query": "Jomtien Beach Pattaya"
+      },
+      "references": [
+        {
+          "title": "Drunk Indian Tourist on Jet Ski Crashes into Russian Woman in Pattaya Swimming Zone, Causing Head Injury",
+          "url": "https://thepattayanews.com/2026/03/02/drunk-indian-tourist-on-jet-ski-crashes-into-russian-woman-in-pattaya-swimming-zone-causing-head-injury/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260302_2255383068230708745793852.jpg?v=1772467006"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260302_2255383068230708745793852.jpg?v=1772467006",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국, 중동 불안정 속 항공편 차질 발생; 공항 혼잡 예상",
+      "summary": "- 태국 민간항공국(CAAT), 이스라엘-이란 간 군사적 긴장으로 중동 국가들의 영공 폐쇄/제한에 따른 긴급 권고 발표.\n- 항공편 운항 차질 및 지연 가능성, 여행객들은 항공사에 운항 정보 확인 필수.\n- 파타야 시는 건설 규정 위반 콘도 건물주에 대한 법적 조치 강화.",
+      "full_translated": "태국은 지난주 주요 뉴스에서 중동 불안정으로 인한 공항의 항공편 차질을 겪고 있습니다. \n\n1. 태국, 택시 안전 및 실시간 불만 사항에 대한 혁신적인 QR 코드 시스템 출시\n\n2. 태국 민간항공국(CAAT)은 이스라엘과 이란 간의 군사적 긴장으로 인해 긴급 권고를 발표했습니다. 최근 공습 및 미사일 작전에 대응하여 여러 중동 국가들이 민간 항공을 보호하기 위해 영공을 폐쇄하거나 제한했습니다. 태국 민간항공국, 중동 영공 폐쇄 속 긴급 권고 발표\n\n3. 파타야 시장인 포라멧 응암피 Chet은 건설 통제 규정을 위반한 건물주에 대한 집행 조치를 추진했습니다. 파타야 시, 건설 명령 위반으로 문제가 있는 워터프론트 콘도 건물주에 대한 추가 법적 조치\n\n4. 중앙 수사국(CIB)은 러시아인과 태국 여성과 관련된 국경 간 사기 네트워크를 해체했습니다. 이들은 파타야 및 주변 지역에서 다수의 현금을 인출하기 위해 뮬 계정을 사용했으며, 자금은 수백만 바트 단위로 유통되었습니다. CIB, 파타야에서 활동하는 러시아 주도 사기단 적발, 수백만 바트 유통 자금 관련\n\n5. 55세의 독일인 관광객은 호텔 방에서 현금을 훔친 용의자를 신속하게 체포한 파타야 경찰의 신속한 대응과 효율성에 대해 칭찬했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 불안정으로 인한 항공편 차질 가능성은 여행객에게 직접적인 영향을 미치므로 안전 관련 정보를 제공하는 것이 중요. 공항 혼잡 및 항공편 지연 가능성을 고려하여 높은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "태국 공항",
+        "price": null,
+        "location_google_map_query": "태국 공항"
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: Airports Report Flight Disruptions Amid Middle East Instability, and More",
+          "url": "https://thepattayanews.com/2026/03/02/top-national-thailand-stories-from-the-past-week-airports-report-flight-disruptions-amid-middle-east-instability-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/645700678_1401063842066254_4395566461395198681_n.jpg?v=1772443399"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/645700678_1401063842066254_4395566461395198681_n.jpg?v=1772443399",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "파타야, 러시아 주도 사기 조직 적발: 수백만 바트 규모 자금 세탁",
+      "summary": "- 중앙 수사국(CIB), 러시아인과 태국 여성 연루된 국경 간 사기 네트워크 적발.\n- 이들은 파타야 및 주변 지역에서 뮬 계정을 사용하여 현금 인출, 자금은 수백만 바트 규모로 유통.\n- 여행객 대상 범죄 가능성 존재, 주의 요망.",
+      "full_translated": "중앙 수사국(CIB)은 러시아 국적자와 태국 여성이 연루된 국경을 넘나드는 사기 네트워크를 적발했습니다. 이들은 파타야와 주변 지역에서 다수의 현금을 인출하기 위해 뮬 계정을 사용했으며, 유통되는 자금은 수백만 바트에 달합니다. 이 작전은 잠재적으로 관광객을 포함한 일반 대중을 표적으로 삼는 정교한 금융 사기를 포함합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 지역에서 외국인 관련 범죄 발생은 여행객 안전에 대한 잠재적 위협이 될 수 있으므로 정보 제공 필요. 직접적인 위협은 아니지만, 주의를 환기시키기 위해 중간 수준의 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: Airports Report Flight Disruptions Amid Middle East Instability, and More",
+          "url": "https://thepattayanews.com/2026/03/02/top-national-thailand-stories-from-the-past-week-airports-report-flight-disruptions-amid-middle-east-instability-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/645700678_1401063842066254_4395566461395198681_n.jpg?v=1772443399"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/645700678_1401063842066254_4395566461395198681_n.jpg?v=1772443399",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국어 학습을 위한 새로운 온라인 자료: 초보자를 위한 접근성 향상",
+      "summary": "- Learn Fluent Thai 플랫폼은 태국어 학습자를 위한 무료 레슨 제공\n- 실제 상황에서의 의사소통 능력 향상에 초점\n- 발음, 어휘, 회화 연습 등 다양한 학습 콘텐츠 제공",
+      "full_translated": "Learn Fluent Thai(https://learnfluentthai.com/)는 사용자가 처음부터 자신감 있게 태국어를 구사할 수 있도록 돕는 데 초점을 맞춘 무료 레슨 모음을 제공합니다. 이 플랫폼은 원어민 오디오 발음, 필수적인 일상 문구, 핵심 어휘 및 간단한 대화 연습을 통해 실제 의사 소통에 중점을 둡니다. 특히 초보자와 태국에 거주하거나 방문하는 사람들을 위해 설계된 이 사이트는 인사, 소개, 음식 주문, 쇼핑 및 일반적인 사회적 상호 작용과 같은 기본 사항을 다루는 명확하고 간결한 레슨을 제공합니다. 필수 단어와 표현과 함께 듣기와 말하기 기술을 우선시함으로써 문법 규칙에 얽매이지 않고 언어를 빠르게 사용할 수 있도록 설계되었습니다. Learn Fluent Thai의 가장 큰 특징은 원어민의 고품질 오디오 녹음에 완전히 무료로 액세스할 수 있다는 점이며, 이를 통해 사용자는 태국어 학습자에게 중요한 과제인 어조와 발음을 완벽하게 할 수 있습니다. 구독이나 지불 없이 시작할 수 있으므로 원하는 경우 고급 유료 프로그램을 탐색하기 전에 이상적인 진입점이 됩니다. 파타야, 푸켓, 방콕 여행을 계획 중이든 단순히 일상 생활에서 현지인과 더 잘 소통하고 싶든 Learn Fluent Thai는 유창함을 향한 여정을 시작할 수 있는 스마트하고 부담 없는 방법을 제공합니다. 방문자는 https://learnfluentthai.com/에서 즉시 레슨을 살펴보고 오늘 스마트한 방법으로 태국어를 시작할 수 있습니다. 스폰서 콘텐츠.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행 시 유용한 태국어 학습 자료 정보 제공. 여행 편의성 향상에 기여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "무료",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "New Online Resource Makes Learning Thai More Accessible for Beginners In or Out of Thailand",
+          "url": "https://thepattayanews.com/2026/03/02/new-online-resource-makes-learning-thai-more-accessible-for-beginners-in-or-out-of-thailand/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1772034349360828095494826486565.jpg?v=1772451473"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1772034349360828095494826486565.jpg?v=1772451473",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "미얀마 군부, 의회 소집 앞두고 수천 명의 죄수 사면",
+      "summary": "- 미얀마 군부가 정치범 포함 수천 명의 죄수를 사면했습니다.\n- 이번 사면은 농민의 날과 의회 소집을 앞두고 이루어졌습니다.\n- 아웅산 수치 전 국가고문은 사면 대상에 포함되지 않았습니다.",
+      "full_translated": "방콕 (AP) — 미얀마 군부 수장이 정치범을 포함한 수천 명의 죄수, 기소 중이거나 은신 중인 활동가들을 사면했다고 국영 언론이 월요일 보도했습니다. 2021년 군사 쿠데타로 축출되어 이후 외부와 거의 단절된 아웅산 수치 전 지도자가 석방될 기미는 보이지 않았습니다. 그러나 독립 온라인 언론 보도에 따르면 석방된 사람들 중에는 수도 네피도의 전 시장인 묘 아웅을 포함하여 그녀의 정부와 그녀의 민족민주연맹 당의 전 구성원들이 포함되었습니다. 농부들을 기리는 국경일인 농민의 날과 때를 같이하는 이번 사면은 최근 비판가들이 자유롭거나 공정하지 않다고 말한 선거 이후 5년여 만에 의회가 첫 회의를 위해 소집될 예정인 2주 전에 이루어졌습니다. 죄수들을 태운 약 12대의 버스가 월요일 오전 발표 이후 기다리고 있던 친척과 친구들에게 오전 11시에 양곤 최대 도시인 양곤에 있는 인세인 교도소 문 밖에서 환영을 받았습니다. 인세인 교도소에서 석방된 30세의 틴자 아웅은 AP 통신에 \"매우 기쁩니다. 아직 감옥에 있는 모든 사람들이 석방되기를 기도합니다.\"라고 말했습니다. 그녀는 2022년에 잠재적인 사형 선고가 내려지고 군부 쿠데타 이후 정치 및 무장 반대자, 언론인 및 기타 반대 의견에 관여한 사람들을 체포하고 투옥하는 데 널리 사용된 대테러법에 따라 7년 형을 선고받았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "미얀마 정치 상황은 태국 여행에 직접적인 영향은 적지만, 국경 지역 여행 시 주의가 필요할 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Myanmar’s military government pardons thousands of prisoners ahead of parliament convening",
+          "url": "https://www.khaosodenglish.com/news/international/2026/03/02/myanmars-military-government-pardons-thousands-of-prisoners-ahead-of-parliament-convening/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/AP26061280863024.jpg"
+        }
+      ],
+      "collected_at": "03:26",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/AP26061280863024.jpg",
       "date": "2026-03-03"
     }
   ]
