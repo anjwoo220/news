@@ -6942,8 +6942,54 @@
       "summary": "- 태국 관광청(TAT)은 중동 지역 긴장 고조에 따라 위기 대응책을 강화하고 있습니다.\n- 여행객 안전을 최우선으로 고려하며, 국내 관광 활성화에 집중할 계획입니다.\n- 현지 상황을 면밀히 모니터링하며 필요한 조치를 신속하게 시행할 예정입니다.",
       "full_translated": "태국 관광청은 중동 지역의 긴장이 고조됨에 따라 위기 대응을 활성화하여 관광 회복과 국내 성장에 집중하면서 혼란을 최소화하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 긴장 고조에 따른 태국 관광객 안전 확보 노력에 대한 정보는 여행객에게 중요하다고 판단됨.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Tourism Authority of Thailand Activates Crisis Response Amid Middle East Tensions, Ensuring Minimal Disruption While Focusing on Tourism Recovery and Domestic Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RvdXJpc20tYXV0aG9yaXR5LW9mLXRoYWlsYW5kLWFjdGl2YXRlcy1jcmlzaXMtcmVzcG9uc2UtYW1pZC1taWRkbGUtZWFzdC10ZW5zaW9ucy1lbnN1cmluZy1taW5pbWFsLWRpc3J1cHRpb24td2hpbGUtZm9jdXNpbmctb24tdG91cmlzbS1yZWNvdmVyeS1hbmQtZG9tZXN0aWMtZ3Jvd3RoL9IBAA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "8:16",
+      "image_url": "",
+      "date": "2026-03-02",
+      "link": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RvdXJpc20tYXV0aG9yaXR5LW9mLXRoYWlsYW5kLWFjdGl2YXRlcy1jcmlzaXMtcmVzcG9uc2UtYW1pZC1taWRkbGUtZWFzdC10ZW5zaW9ucy1lbnN1cmluZy1taW5pbWFsLWRpc3J1cHRpb24td2hpbGUtZm9jdXNpbmctb24tdG91cmlzbS1yZWNvdmVyeS1hbmQtZG9tZXN0aWMtZ3Jvd3RoL9IBAA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "텍사스-오하이오주 바에서 총격 사건 발생, 3명 사망, 20명 부상",
+      "summary": "- 미국 텍사스주 오스틴의 바에서 총격 사건이 발생해 3명이 사망하고 14명이 부상했습니다.\n- 용의자는 경찰에 의해 사살되었으며, FBI는 용의자가 '알라의 소유'라고 적힌 셔츠를 입고 있었다고 밝혔습니다.\n- 오하이오주 신시내티에서도 총격 사건이 발생해 9명이 부상했습니다. 경찰은 두 사건의 연관성을 조사 중입니다.",
+      "full_translated": "3월 2일, 외신에 따르면 미국 텍사스주 오스틴의 한 맥주 가든 '버포즈' 앞에서 총격 사건이 발생해 용의자를 포함해 3명이 사망하고 14명이 부상했습니다. 경찰은 용의자를 사살했으며, 용의자의 차량에서는 폭발물은 발견되지 않았지만, FBI는 용의자가 '알라의 소유'라고 적힌 셔츠를 입고 있었으며, 테러와의 연관성을 조사 중입니다. 같은 날, 오하이오주 신시내티에서도 총격 사건이 발생해 9명이 부상했습니다. 경찰은 두 사건의 연관성을 조사 중입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "미국 내 총격 사건으로, 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공. 태국 내 사건은 아니지만, 유사 사건에 대한 경각심을 높이기 위해 포함.",
+      "event_info": {
+        "date": null,
+        "location": "텍사스 오스틴, 오하이오 신시내티",
+        "price": null,
+        "location_google_map_query": "텍사스 오스틴, 오하이오 신시내티"
+      },
+      "references": [
+        {
+          "title": "สลด กราดยิงในบาร์เท็กซัส-โอไฮโอ ดับ 3 ศพ เจ็บ 20 ราย ตร.เร่งสอบความเชื่อมโยงก่อการร้าย",
+          "url": "https://www.thairath.co.th/news/foreign/2917299",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaWMK08qI8gLKe.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLaWMK08qI8gLKe.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "호르무즈 해협 긴장 고조: 에너지 수송 차질 우려 및 태국 영향",
+      "summary": "- 이란의 군사적 움직임으로 호르무즈 해협의 긴장이 고조되고 있으며, 실제 봉쇄는 아직 없음.\n- 호르무즈 해협은 세계 에너지 수송의 핵심 통로로, 봉쇄 시 국제 유가 급등 및 공급망 차질이 예상됨.\n- 태국 정부는 중동 지역 긴장 고조에 따른 자국민 대피 계획을 준비 중이며, 상황을 주시하고 있음.",
+      "full_translated": "전 세계가 호르무즈 해협을 주시하고 있습니다. 이곳은 세계 에너지의 중요한 전략적 요충지이며, 중동의 긴장으로 인해 해협이 다시 폐쇄될 가능성이 있습니다. 이란이 공식적으로 발표하지는 않았지만, 2월 28일 미국과 이스라엘이 이란을 공격한 후 테헤란은 무선 통신을 통해 해당 지역의 선박들에게 호르무즈 해협 통과를 금지했습니다. 그러나 현재까지 공식적인 항로 폐쇄 발표는 없습니다. 압바스 아락치 이란 외무장관은 알자지라와의 인터뷰에서 현재 이란은 호르무즈 해협을 폐쇄할 의도가 없으며, 해협의 항해를 방해하는 어떤 행동도 계획하고 있지 않다고 밝혔습니다. \n\n그러나 호르무즈 해협이 완전히 폐쇄되지는 않았지만, 이란 혁명수비대(IRGC)가 페르시아만과 호르무즈 해협에서 미국과 영국 유조선 3척을 미사일로 공격하여 선박에 화재가 발생했다는 보고가 있습니다. 이로 인해 각국은 호르무즈 해협 진입을 꺼리거나 일부 운항을 중단하면서 상황은 사실상 해협 폐쇄에 가까워지고 있습니다.\n\n**왜 호르무즈 해협이 세계적으로 중요할까요?**\n호르무즈 해협은 페르시아만에서 공해로 나가는 좁은 통로입니다. 항로 폭은 약 2마일에 불과하지만, 세계 에너지의 병목 지점입니다. 이 지점을 통과하는 선박들은 하루 약 2천만 배럴의 석유를 운송하며, 이는 전 세계 석유량의 약 1/5에 해당합니다. 석유 외에도 액화천연가스(LNG)와 비료는 전 세계 비료 거래량의 거의 1/3을 차지하며 이 경로를 통과합니다. 따라서 이 지역의 모든 움직임은 에너지 시장과 공급망에 파장을 일으킵니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "호르무즈 해협의 긴장 고조는 에너지 가격 상승 및 운송 차질을 유발하여 여행 비용 상승에 영향을 줄 수 있으며, 태국 내 자국민 대피 계획은 잠재적 위험 상황에 대한 인식을 높임.",
       "event_info": {
         "date": null,
         "location": null,
@@ -6952,12 +6998,89 @@
       },
       "references": [
         {
-          "title": "Tourism Authority of Thailand Activates Crisis Response Amid Middle East Tensions, Ensuring Minimal Disruption While Focusing on Tourism Recovery and Domestic Growth - Travel And Tour World",
-          "url": "https://news.google.com/rss/articles/CBMiqQFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RvdXJpc20tYXV0aG9yaXR5LW9mLXRoYWlsYW5kLWFjdGl2YXRlcy1jcmlzaXMtcmVzcG9uc2UtYW1pZC1taWRkbGUtZWFzdC10ZW5zaW9ucy1lbnN1cmluZy1taW5pbWFsLWRpc3J1cHRpb24td2hpbGUtZm9jdXNpbmctb24tdG91cmlzbS1yZWNvdmVyeS1hbmQtZG9tZXN0aWMtZ3Jvd3RoL9IBAA?oc=5",
-          "source": "Travel And Tour World"
+          "title": "ปิดแล้วหรือยังไม่ปิด? จับตา “ช่องแคบฮอร์มุซ” จุดยุทธศาสตร์พลังงานโลก",
+          "url": "https://www.thairath.co.th/news/foreign/2917313",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuXx7H5oI9Kn7.jpg"
         }
       ],
-      "collected_at": "08:16",
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuXx7H5oI9Kn7.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "이란, 최고 지도자 사망에 40일간 애도 기간 돌입",
+      "summary": "- 이란 정부는 최고 지도자 알리 카메네이의 사망 후 40일간의 애도 기간을 선포했습니다.\n- 카메네이는 미국의 공격으로 사망했으며, 이로 인해 고위 보안 관리들과 그의 가족들이 목숨을 잃었습니다.\n- 이란 대통령은 이번 사건을 '대범죄'로 규정하고 7일간의 공휴일을 선포했습니다.",
+      "full_translated": "이란 정부는 아야톨라 알리 카메네이 최고 지도자의 사망 후 40일간의 애도 기간을 시작한다고 발표했습니다. 페세시키안 대통령은 이번 사건을 '대범죄'로 규탄했습니다. 2569년 3월 2일, 이란 정부는 미국과 이스라엘의 공격으로 최고 지도자 아야톨라 알리 카메네이가 사망한 후 전국적인 애도 기간을 40일간 시작한다고 발표했습니다. 보고서에 따르면 지난 토요일 공격으로 카메네이의 딸, 사위, 손자를 포함한 여러 고위 보안 관리들도 사망했습니다. 이는 1979년 이슬람 혁명 이후 이란 지도부 구조에 대한 가장 큰 손실입니다. 이란 대통령은 사무실을 통해 성명을 발표하고 이번 사건을 '대범죄'로 규탄하며 전국적으로 40일간의 애도 기간과 함께 7일간의 공휴일을 선포했습니다. 테헤란에서 온 기자들은 카메네이의 사망 소식이 알려진 후 많은 사람들이 거리로 쏟아져 나왔다고 보도했습니다. 일부 도시에서는 계속 폭격이 발생하고 있지만 여러 지역에서 애도 행사가 열릴 것으로 예상됩니다. 시라즈, 야수지, 로레스탄에서는 최고 지도자 암살을 규탄하는 시위가 벌어졌습니다. 한편, 공식 언론의 사진은 마슈하드에 있는 이맘 레자 모스크에서 많은 지지자들이 애도하는 모습을 보여줍니다. 일부는 울고 슬픔에 기절했습니다. 이번 사건의 여파는 이라크와 같은 이웃 국가로 확산되어 3일간의 애도 기간을 선포했습니다. 바그다드에서는 시위자들이 정부 건물과 외국 대사관이 있는 그린존에 모여 보안군과 충돌한 것으로 알려졌습니다. 일부는 그린존 입구 근처 로터리에서 교통을 차단하면서 미국 대사관으로 행진하려 했습니다. 지역 상황은 정치적 불확실성 속에서 여전히 매우 긴장되어 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "이란 관련 외교적 긴장 고조는 태국 여행객에게 잠재적 위험 요소가 될 수 있으며, 주의를 요함. 다만 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านเริ่มไว้ทุกข์ 40 วัน ให้กับ \"อยาตอลเลาะห์ อาลี คาเมเนอี\"",
+          "url": "https://www.thairath.co.th/news/foreign/2917326",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuJZSgmwSzda6.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuJZSgmwSzda6.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "태국, 중동 분쟁 관련 자국민 귀국 대비 및 건강 관리 계획 발표",
+      "summary": "- 태국 보건부는 중동 지역 분쟁으로 인해 귀국하는 자국민을 위한 건강 관리 계획을 발표했습니다.\n- 귀국자들은 공항에서 건강 검진, 정신 건강 평가, 전염병 검사를 받게 됩니다.\n- 필요한 경우, 귀국자들은 출신 지역의 병원으로 이송되어 지속적인 치료를 받을 수 있습니다.",
+      "full_translated": "파타나 폼팟 공중 보건부 장관은 중동 전투 상황의 영향을 받는 태국인을 돌보기 위한 공중 보건부의 준비 상황을 밝혔습니다. 공중 보건부는 상황을 면밀히 주시하고 있으며 해외에서 비상 사태가 발생할 경우 건강 관리를 위한 계획을 개발했습니다. 대사관, 외무부, 내무부와 협력하여 사건의 심각성을 평가하고 3가지 임무 프레임워크에 따라 지원 형태를 고려합니다. 여기에는 국제적 돌봄과 원격 의료 시스템 간의 조정, 신체적, 정신적 건강 및 전염병 측면에서 귀국 여행자를 돌보는 것, 신체적, 정신적 건강을 위해 전원 병원을 제공하는 것이 포함됩니다. 솜룩승 박사 공중 보건부 차관은 발생할 수 있는 상황에 대비하기 위해 2023년에 시행된 접근 방식을 사용할 것이라고 말했습니다. 즉, 1. 신체 건강 검진, 의료부가 돈므앙 공항과 돈므앙 6 공군 기지(공군)를 관리합니다. 사무트프라칸 공중 보건국은 수완나품 공항을 관리합니다. 라용 공중 보건국은 우타파오 공항을 관리합니다. 2. 질병 검사, 국제 질병 통제 검문소가 3개 공항을 관리하고 질병 예방 통제 사무소 6이 우타파오 공항을 관리합니다. 3. 정신 건강 검진, 정신 건강부가 3개 공항을 관리하고 정신 건강 센터 6이 우타파오 공항을 관리합니다. 4. 의료부와 정신 건강부 소속 의료 시설에서 전원 병원을 관리하고, 5. 지방 공중 보건국과 출신 지역 병원에서 지속적인 건강 관리를 제공합니다. 솜룩승 박사는 해외에서 귀국하는 태국인을 돌보는 과정은 건강 검진/질병 검문소를 통과한다고 덧붙였습니다. 부상당한 경우 건강 검진을 받거나 의사를 만날 수 있습니다. 감염성 질환의 징후가 있는 경우 검사를 위해 검체를 채취할 것이며, 밤라나라도온 연구소가 대기실을 준비할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 정부의 중동 지역 긴장 상황에 대한 대비책 발표는 여행객 안전에 간접적인 영향을 미칠 수 있으며, 유사시 대피 계획 등을 통해 정보 제공 가치가 있다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สธ.เตรียมแผนรับมือคนไทยกลับประเทศ คัดกรองโรคติดต่อ-ดูแลจิตใจ จัดสถานพยาบาลส่งกลับภูมิลำเนา",
+          "url": "https://www.thairath.co.th/news/local/2917321",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuJpTNHahP19l.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuJpTNHahP19l.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "태국 재무부, 재난 피해자 지원을 위한 새로운 지침 발표 (2069년 3월 6일부터 시행)",
+      "summary": "- 태국 재무부는 재난 발생 시 신속한 지원을 위한 새로운 지침을 발표했습니다.\n- 이 지침은 2069년 3월 6일 이후 발생하는 재난에 적용됩니다.\n- 식비, 구호품, 주거비 지원 등이 포함되며, 피해 상황에 따라 지원 금액이 달라집니다.",
+      "full_translated": "태국 정부 대변인은 재무부가 재난 피해자를 돕기 위한 새로운 지침을 발표했다고 밝혔습니다. 이 지침은 2069년 3월 6일부터 발생하는 재난에 적용되며, 현재 생활비 수준에 맞춰 신속하게 지원을 제공하기 위한 것입니다. 새로운 지침은 재무부 규정에 따라 전국적으로 동일한 기준으로 적용됩니다. 주요 내용은 다음과 같습니다.\n\n1) 생계 지원 (물품 또는 현금 지원)\n- 식사 지원: 하루 3끼, 1인당 80바트\n- 구호품: 가구당 1,000바트 (7세 미만 아동/장애인/노인의 경우 추가 1,000바트 지원 가능)\n- 식수 지원: 필요에 따라 실제 비용 지불\n- 주택 전파 시 초기 생계비: 가구당 4,900바트\n- 주택 수리비: 최대 88,600바트\n- 곡물 창고 수리비: 가구당 6,800바트",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 재난 발생 시 지원 내용에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ก.คลัง ออกหลักเกณฑ์ใหม่ เงินทดรองจ่ายช่วยผู้ประสบภัยพิบัติ มีผลตั้งแต่ 6 มี.ค. 69",
+          "url": "https://www.thairath.co.th/news/politic/2917318",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuYbiJ2ZKhoOL.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbuYbiJ2ZKhoOL.jpg",
       "date": "2026-03-02"
     }
   ]
