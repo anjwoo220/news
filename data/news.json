@@ -7073,14 +7073,9 @@
       "summary": "- 이란 전쟁으로 두바이 등 주요 중동 공항 폐쇄 이틀째.\n- 미국과 이스라엘의 이란 최고 지도자 공격 이후 중동 지역 영공 대부분 폐쇄.\n- 에미레이트 항공은 두바이 허브 공항의 모든 운항을 월요일까지 중단.",
       "full_translated": "두바이: 이란 전쟁으로 주요 중동 공항이 폐쇄되면서 전 세계 항공 여행이 일요일에도 큰 차질을 빚었습니다. 세계에서 가장 분주한 국제 허브인 두바이를 포함한 주요 공항들은 최근 몇 년간 가장 심각한 항공 충격 중 하나로 이틀째 문을 닫았습니다. 아랍에미리트의 두바이와 아부다비, 카타르의 도하를 포함한 주요 환승 공항은 미국과 이스라엘의 공격으로 이란 최고 지도자 아야톨라 알리 하메네이가 사망한 후 해당 지역의 영공 대부분이 폐쇄되면서 폐쇄되거나 심각하게 제한되었습니다. 그 영향은 중동을 넘어 발리, 카트만두, 프랑크푸르트까지 수만 명의 승객이 발이 묶이는 등 광범위하게 미쳤습니다. 이스라엘은 일요일 이란에 대한 또 다른 공습을 시작했다고 밝혔고, 이란이 인접한 걸프 국가에 보복 공습을 가한 후 두바이 근처와 도하 상공에서 이틀째 큰 폭발음이 들렸습니다. 두바이 국제공항은 이란의 공격으로 피해를 입었고 아부다비와 쿠웨이트의 공항도 공격을 받았습니다. 항공편 추적 플랫폼 FlightAware의 데이터에 따르면 중동 전역에서 수천 편의 항공편이 영향을 받았습니다. 세계 최대의 국제 항공사인 에미레이트 항공은 두바이 메가 허브를 오가는 모든 운항을 월요일까지 중단했다고 밝혔습니다. 모든 운항을 중단한 카타르 항공은 월요일에 추가 업데이트를 제공할 것이라고 밝혔고 독일의 루프트한자는 해당 지역으로의 항공편 중단을 3월 8일까지 연장했습니다. 이란, 이라크 상공의 영공,",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "이란 분쟁으로 인한 공항 폐쇄 및 항공편 취소는 여행객 안전에 직접적인 위협이 되며, 공항 혼잡을 야기하므로 매우 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thousands of flights cancelled as Iran conflict upends global air travel",
@@ -7091,21 +7086,18 @@
       ],
       "collected_at": "12:11",
       "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208095_700.jpg",
-      "date": "2026-03-02"
+      "date": "2026-03-02",
+      "link": "https://www.bangkokpost.com/world/3208095/thousands-of-flights-cancelled-as-iran-conflict-upends-global-air-travel",
+      "source": ""
     },
     {
       "title": "태국, 중동 긴장 속 자국민 대피 계획 준비",
       "summary": "- 태국 정부는 중동 지역 긴장 고조에 따라 자국민 대피 계획을 준비 중입니다.\n- 구체적인 대피 경로나 시기는 아직 발표되지 않았습니다.\n- 태국 관광청은 상황을 주시하며 관광객 안전 확보에 만전을 기하고 있습니다.",
       "full_translated": "태국 정부는 중동 지역의 긴장이 고조됨에 따라 자국민을 대피시키기 위한 계획을 준비하고 있습니다. 아직 구체적인 대피 경로나 일정은 발표되지 않았지만, 정부는 필요한 모든 조치를 취할 준비가 되어 있다고 밝혔습니다. 태국 관광청(TAT)은 중동 상황을 면밀히 주시하며 관광객의 안전과 편의를 보장하기 위해 노력하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장 고조로 인한 잠재적 위험 증가. 태국 정부의 대피 계획은 여행 안전에 대한 관심 환기.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand prepares evacuation plan for citizens in Middle East",
@@ -7114,6 +7106,134 @@
         }
       ],
       "collected_at": "12:11",
+      "image_url": "",
+      "date": "2026-03-02",
+      "link": null,
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 상황 관련 자국민 대피 계획 준비 및 대응책 마련",
+      "summary": "- 태국 정부는 중동 지역의 긴장 고조에 따라 자국민 대피 계획을 준비 중.\n- 국가안보회의(쏨차)에서 관련 논의 진행 후 대응책 마련.\n- 자세한 내용은 씨하싹 푸엉깨우 외무부 장관이 발표 예정.",
+      "full_translated": "아누틴 찬위라꾼 총리는 국가안보회의(쏨차.) 회의 후 중동 지역의 전투 상황에 대한 대응책을 마련했다고 밝혔습니다. 귀국을 희망하는 태국인의 수는 파악되었으며, 자세한 내용은 씨하싹 푸엉깨우 외무부 장관과 찻차이 방추어트 쏨차. 사무총장이 발표할 예정입니다. 아누틴 총리는 기자들과 만나 \"어떻게 도망쳐도 피할 수 없다\"며 웃었습니다. 회의 전반적인 상황은 좋았으며 대응책이 마련되었지만, 관련 정책과 대책은 씨하싹 푸엉깨우 외무부 장관과 찻차이 방추어트 쏨차. 사무총장이 발표할 것이라고 덧붙였습니다. 에카니티 니티탄쁘라팟 재무부 차관은 오후에 중동 지역 전투 상황에 대한 경제적 영향을 평가하는 회의가 있을 것이라고 밝혔습니다. 오전에는 안보 관련 논의가 있었으며, 경제 부서 전체가 회의에 참석할 예정입니다. 위타이 라타나콘 태국 중앙은행 총재는 일정으로 인해 회의에 참석하지 못할 수 있습니다. 정부는 얼마나 오랫동안 대책을 마련해야 할지에 대한 평가를 진행 중이며, 에카니티 차관은 오후 회의 후 결과를 기다려달라고 요청했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 긴장 고조에 따른 태국 정부의 자국민 대피 계획 준비는 여행객의 안전 및 이동에 잠재적인 영향을 미칠 수 있으므로 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกฯ เผยไทยมีมาตรการรับมือ หลังถก สมช. สถานการณ์ในตะวันออกกลาง โยน “สีหศักดิ์” แจงรายละเอียด",
+          "url": "https://www.thairath.co.th/news/politic/2917391",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbxgdLzfBHuEVS.jpg"
+        }
+      ],
+      "collected_at": "13:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbxgdLzfBHuEVS.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "사기 피해에 시달리는 캄보디아, 홍콩 관광객 유치 노력…여행사들은 회의적",
+      "summary": "- 캄보디아 관광 당국이 홍콩 여행사들과 협력하여 관광객 유치를 추진 중.\n- 최근 몇 년간 안전 문제로 관광객 감소, 특히 사기 범죄 조직 관련 문제 심각.\n- 홍콩 여행사들은 안전에 대한 우려가 여전하여 단기적으로 관광객 유치가 어려울 것으로 전망.",
+      "full_translated": "캄보디아 관광청장이 홍콩 여행사들과 파트너십을 구축하여 관광객을 다시 유치하기 위해 노력하고 있습니다. 최근 몇 년간 안전에 대한 우려가 있었습니다. 캄보디아 관광청 CEO인 김 미네아는 정부가 홍콩인을 포함하여 수천 명의 사람들을 가두었던 악명 높은 사기 단지를 제거하기로 '결심'했다고 밝혔습니다. 그러나 홍콩 여행사들은 안전이 여전히 주민들의 주요 관심사이며 단기간에 그들을 동남아시아 국가로 다시 데려오기가 어려울 것이라고 말했습니다. 앙코르와트 사원 단지로 유명한 캄보디아는 관광 산업에 크게 의존하고 있으며, 이 부문은 2024년 국내총생산의 9.4%를 차지합니다. 그러나 관광 통계에 따르면 왕국에 도착하는 관광객 수는 2025년 3분기에 전년 대비 약 31.4% 감소했으며, 이는 작년 여름에 이웃 태국과의 국경 분쟁과 일치합니다. 홍콩인들은 최근 몇 년간 이 지역의 범죄 조직이 운영하는 악명 높은 사기 센터에 갇힌 사례가 발생한 후 캄보디아를 기피했습니다. 캄보디아 관광부는 작년 1월부터 9월 사이에 홍콩에서 62명의 도착만 기록한 반면, 약 889,000명의 방문객이 중국에서 온 것으로 기록되었습니다. 비교해 보면 2017년에는 13,000명 이상의 홍콩 주민이 집계되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "캄보디아 여행 시 사기 범죄에 대한 안전 문제 상기. 태국 여행객에게도 간접적인 영향 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Scam-hit Cambodia tries to woo Hong Kong but travel agencies have doubts",
+          "url": "https://www.bangkokpost.com/business/general/3208104/scamhit-cambodia-tries-to-woo-hong-kong-but-travel-agencies-have-doubts",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208104_700.jpg"
+        }
+      ],
+      "collected_at": "13:09",
+      "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208104_700.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "이란, 미국과의 협상 불가 선언",
+      "summary": "- 이란 고위 관계자, 미국과의 협상은 없을 것이라고 발표.\n- 미국이 먼저 이란을 공격하지 않았다고 주장.\n- 트럼프 전 대통령의 정책이 지역을 혼란에 빠뜨렸다고 비판.",
+      "full_translated": "이란 최고안보위원회 사무총장 알리 라리자니는 이란이 중재자를 통해 미국에 협상을 요청했다는 언론 보도에 대한 반응으로 이란은 \"미국과 협상하지 않을 것\"이며 이란군은 \"먼저 공격을 시작하지 않았다\"고 X 웹사이트에 게시했습니다. 라리자니는 도널드 트럼프 미국 대통령이 \"잘못된 희망으로 이 지역을 혼란에 빠뜨렸다\"며 현재 미군 병력 손실에 대해 우려하고 있다고 말했습니다. 그는 \"그의 잘못된 행동으로 그는 자신이 만든 슬로건인 '미국 우선'을 '이스라엘 우선'으로 바꾸고 이스라엘의 권력 추구를 위해 미군을 희생시켰다\"고 덧붙였습니다. 아야톨라 알리 카메네이 이란 최고 지도자의 핵심 고문인 라리자니는 이란군이 \"먼저 공격을 시작하지 않았다\"고 말했습니다. 한편, 전 국회의장이자 '아야톨라 알리 카메네이'의 측근인 알리 라리자니는 지난 8월 최고국가안보위원회(SNSC) 사무총장으로 권력의 중심으로 복귀했습니다. 그는 핵 협상, 지역 관계 강화, 국내 시위대 관리 등 다양한 주요 임무를 맡았습니다. 지난 일요일(3월 1일) 라리자니는 국영 TV를 통해 국가를 운영하기 위해 \"임시 지도부\"가 구성될 것이라고 발표하고 미국과 이스라엘이 이란의 부와 단결을 약탈하고 파괴하려 한다고 비난했습니다. 그는 또한 분리주의 단체가 이 기간 동안 기회를 포착하여 행동할 경우 가장 강력한 대응에 직면할 것이라고 위협했습니다. 최근 공격에서 P가 확인되었다는 보고도 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 직접적인 영향은 없지만, 중동 지역 긴장 고조는 잠재적인 위험 요소로 작용할 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านลั่น \"จะไม่เจรจากับสหรัฐฯ\" ชี้ไม่ได้เป็นฝ่ายรุกรานก่อน",
+          "url": "https://www.thairath.co.th/news/foreign/2917375",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbsQMfRCjLD7mZ.jpg"
+        }
+      ],
+      "collected_at": "13:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbsQMfRCjLD7mZ.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "태국 선거관리위원회 (ก.ก.ต.)는 꼬 꼬 떠입니다. 조사 방해 중단 촉구",
+      "summary": "- 난타나 상원 의원, 선관위의 선거 조사 방해 중단을 촉구하며 국민의 감시를 막지 말 것을 요구.\n- 변호사 '안', 선관위로부터 소송을 당한 모든 사람들을 돕겠다고 선언.\n- 선관위의 불투명한 선거 진행 및 소송 남발에 대한 비판 제기.",
+      "full_translated": "난타나 상원 의원은 선관위가 국민의 선거 조사를 방해하는 것을 중단할 것을 촉구하며, 손바닥으로 하늘을 가릴 수 없다고 믿고 소송을 통해 입을 막으려 한다고 비판했습니다. 변호사 '안'은 선관위로부터 소송을 당한 모든 사람들을 돕겠다고 밝혔습니다. 2069년 3월 2일 국회에서 난타나 난타와로파스 상원 의원과 변호사 안 부리람은 선관위의 업무에 대한 성명을 발표했습니다. 선관위의 선거는 많은 오류가 있었고, 이는 선거를 관리하는 데 있어 비효율성을 반영합니다. 선관위는 여러 차례 선거를 관리했지만, 이번에는 불분명한 개표 외에도 투표소 앞의 점수와 일치하지 않는 점수 보고가 있었고 결과 발표가 지연되었습니다. 그러나 국회의원 승인은 신속하게 이루어졌습니다. 또한 투표 용지의 바코드 문제는 투표 용지에 기호를 넣는 것이 비밀인지 여부를 아직 증명해야 합니다. 난타나 의원은 “선관위는 국민의 의혹을 해소하기 위해 소통하는 대신, 촌부리 1구에서와 같이 국민의 입을 막기 위해 소송을 제기했습니다. 이는 선관위의 직무 수행이 헌법에 부합하는지 여부를 조사하는 것으로, 선거를 감시하는 시민의 의무입니다. 선관위의 행위는 권한을 남용하는 것이며 민주주의 체제에서 감시 관행을 무시하는 것입니다.”라고 말했습니다. 난타나 의원은 선관위가 여러 사람을 기소하는 것은 손바닥으로 하늘을 가리려는 시도이며 국민이 선관위의 직무 수행을 감시하는 것을 허용하지 않는 것이라고 덧붙였습니다. 상원 의원으로서 본인은 선관위의 직무 수행이 이번 선거가 투명하고 공정하며 비밀스러운지 의혹을 해소하기 위해 모든 차원에서 국민의 철저한 감시 절차에 동의해야 한다고 생각합니다. 또한 선관위는 국민의 감시 절차를 방해하는 것을 중단하고 모든 차원에서 조사에 협조하여 국회의원과 정부를 수립하는 것이 용인될 수 있도록 해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“นันทนา” จี้ กกต. หยุดขัดขวางการตรวจสอบ “ทนายอั๋น” ลั่นขอเป็นทนายเคียงข้างผู้ถูก กกต. ฟ้องทุกคดี",
+          "url": "https://www.thairath.co.th/news/politic/2917378",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbsQgWA0Qn3iYi.jpg"
+        }
+      ],
+      "collected_at": "13:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbsQgWA0Qn3iYi.jpg",
+      "date": "2026-03-02"
+    },
+    {
+      "title": "탁신, 건강 양호…5월 가석방 논의는 없어",
+      "summary": "- 탁신 친나왓 전 총리의 장남, 건강 상태 양호하다고 밝혀\n- 5월로 예정된 가석방에 대한 논의는 없었다고 언급\n- 변호사는 가석방 절차가 3월 중으로 진행될 것으로 예상",
+      "full_translated": "탁신 친나왓 전 총리의 장남 판통태 친나왓과 그의 아내, 그리고 번나폿 다마퐁이 탁신을 방문했다. 판통태는 탁신의 건강 상태가 양호하다고 밝혔으며, 5월로 예정된 가석방에 대한 논의는 없었다고 전했다. 변호사 위닛 차트몬트리는 가석방 절차가 규정에 따라 진행 중이며, 3월 중으로 클롱프렘 중앙교도소에서 심의가 이루어질 것으로 예상했다. \n\n판통태는 약 45분간의 면회 후, 탁신이 건강하며 특별한 이야기는 나누지 않았다고 말했다. 위닛 변호사는 탁신의 건강이 이전보다 호전되었고, 가족들의 방문과 국민들의 응원에 힘입어 밝은 표정을 짓고 있다고 덧붙였다. 가석방 절차는 법무부 장관의 발표에 따라 3개의 소위원회 심의를 거칠 예정이다. 탁신은 현재 6개월째 수감 중이며, 가석방 기준에 따라 전체 형량의 2/3인 8개월을 채워야 한다. 위닛 변호사는 또한 탁신이 계류 중인 왕실 모독죄 112조에 대한 항소 기한 연장을 요청 중이라고 밝혔다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 뉴스이나, 여행객에게 직접적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"โอ๊ค\" เยี่ยม \"ทักษิณ\" บอกแข็งแรงดี ไม่ได้คุยเรื่องพักโทษ เดือน พ.ค. นีี้",
+          "url": "https://www.thairath.co.th/news/politic/2917392",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbxgkFawDyBzfn.jpg"
+        }
+      ],
+      "collected_at": "13:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLbxgkFawDyBzfn.jpg",
       "date": "2026-03-02"
     }
   ]
