@@ -8878,14 +8878,9 @@
       "summary": "- 태국 전역의 관광 공원에서 치명적인 바이러스가 발생했습니다.\n- 이로 인해 호랑이 72마리가 폐사했습니다.\n- 여행객 안전에 영향을 미칠 수 있으므로 주의가 필요합니다.",
       "full_translated": "태국 전역의 관광 공원에서 치명적인 바이러스가 발생하여 호랑이 72마리가 폐사했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객들이 방문하는 공원에서 발생한 바이러스로 인한 호랑이 폐사는 잠재적인 안전 및 건강 문제와 관련되어 여행에 영향을 줄 수 있으므로 7점 부여. 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "72 Tigers Dead After Lethal Virus Outbreak at Tourist Parks Across Thailand - AOL.com",
@@ -8894,23 +8889,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:37",
+      "collected_at": "4:37",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1QaW1xdXhKVVVxOFB2S18zYURJcVNCQThrc0Nsb0JTN0QtRzhvWTV6VllKaTF5THlyMXlLenBucV9DclROdk1UbU5GcjRfZFVWa05lNGlvQUpZbEtULTlKZ3NuaUMzU25LZ1VPNG5zR0JJWDNlSExLRjgxQQ?oc=5",
+      "source": ""
     },
     {
       "title": "요르단 주재 미국 대사관, 정체불명의 위협으로 직원 대피",
       "summary": "- 요르단 주재 미국 대사관이 신원 미상의 위협으로 인해 모든 직원을 대피시켰습니다.\n- 쿠웨이트 주재 미국 대사관도 공격을 받은 것으로 알려졌습니다.\n- 대사관 측은 안전을 위해 대피를 결정했으며, 자세한 위협 내용은 공개하지 않았습니다.",
       "full_translated": "요르단 주재 미국 대사관이 신원을 밝히지 않은 '위협'으로 인해 모든 직원을 대피시켰습니다. 쿠웨이트 주재 미국 대사관이 2026년 3월 2일에 공격을 받았다는 보고가 있었습니다.\n\n요르단 주재 미국 대사관은 '최대한의 안전'을 위해 일시적으로 모든 직원을 대피시켰습니다. 당국은 자세한 내용을 밝히지 않았습니다. 요르단 WhatsApp 그룹에서 공유된 비디오에서 대사관 스피커에서 아랍어와 영어로 된 안전 경고 메시지가 들립니다. '몸을 숙여 엄폐물을 찾고 창문에서 멀리 떨어지세요. 엄폐물을 찾고 추가 지시를 기다리세요.'\n\n요르단 주재 미국 대사관의 이번 조치는 이란의 쿠웨이트 폭격 속에서 쿠웨이트 주재 미국 대사관이 일요일과 월요일 모두 공격을 받았다는 보도에 따른 것입니다. 그러나 소식통은 대사관이 공격 목표였는지 확인하지 않았습니다. 월요일 보안 경고에서 미국 대사관은 '쿠웨이트 영공에 대한 미사일 및 드론(UAV) 공격의 위협이 여전히 존재한다'고 경고했습니다. '대사관에 오지 말고 가장 낮은 층에 있는 거주지에서 대피하고 창문에서 멀리 떨어지세요. 나가지 마세요.' 경고는 또한 대사관 직원들이 현장에서 대피하고 있다고 밝혔습니다. '지역의 지속적인 긴장으로 인해 쿠웨이트 주재 미국 대사관은 추후 공지가 있을 때까지 미국 비자 신청 및 미국 시민 서비스에 대한 모든 약속을 취소했습니다.'",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 긴장 고조로 인한 잠재적 영향. 여행객 안전에 대한 간접적인 위협 가능성.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สหรัฐฯ สั่งอพยพ สถานทูตในจอร์แดน จากภัยคุกคามปริศนา",
@@ -8919,23 +8911,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlKIXTFaNR6TC.jpg"
         }
       ],
-      "collected_at": "04:37",
+      "collected_at": "4:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlKIXTFaNR6TC.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917531",
+      "source": ""
     },
     {
       "title": "파타야 뉴스팀과 함께하는 주간 무료 커피 & 뉴스 채팅에 참여하세요 (매주 화요일 오후)",
       "summary": "- 매주 화요일 오후 3시부터 5시까지, 좀티엔 Rage Ringside Cafe에서 파타야 뉴스팀의 아담과 함께하는 비공식 뉴스 및 커피 세션이 열립니다.\n- 편안한 분위기에서 음료를 마시며 대화하고, 파타야 뉴스팀 사람들을 만날 수 있는 기회입니다.\n- 참가비는 무료이며, 카페에서 음료나 식사를 구매할 수 있습니다. 수영장도 무료로 이용 가능합니다.",
       "full_translated": "매주 화요일 오후 3시부터 5시까지, 콘텐츠 책임자인 아담이 좀티엔의 Rage Ringside Cafe(Soi Thrappraya 15, Thrappraya Road의 Grand Solaire Condo 건설 현장 뒤편)에서 비공식 뉴스 및 커피 세션을 개최합니다. 이것은 매우 비공식적인 음료 및 채팅 모임이며, 의제, 연설, 그룹 세션, 형식 또는 압력이 없습니다. 파타야 뉴스 뒤에 있는 사람들을 만날 수 있는 기회입니다. 음료 또는 식사 비용 외에는 모임은 무료입니다! 예, 카페에서는 술도 판매합니다. 그리고 모든 카페 고객이 무료로 이용할 수 있는 수영장이 있습니다! 참고: 심각한 뉴스 관련 문제, 불만 또는 법적 문제가 있는 분은 Editor@thepattayanews.com으로 메일을 보내 개인 회의 또는 토론을 준비하는 것이 좋습니다. 이것은 종종 12명 이상의 사람들을 끌어들이는 캐주얼한 모임이며 복잡한 개인 문제는 비공식적이고 편안하며 캐주얼한 느낌을 자세히 설명하는 경향이 있으므로 개인적으로 문의하십시오. 판매 관련 질문이나 광고에 관심이 있으신 분은 sales@thepattayanews.com으로 이메일을 보내주십시오. 이것은 매우 캐주얼하고 친근하며 비공식적인 세션입니다. 거기서 만나요!",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 지역 여행자에게 유용한 모임 정보 제공. 새로운 이벤트 정보이므로 포함.",
-      "event_info": {
-        "date": "매주 화요일",
-        "location": "Rage Ringside Cafe, Jomtien (Soi Thrappraya 15)",
-        "price": "무료 (음료/식사 비용 별도)",
-        "location_google_map_query": "Rage Ringside Cafe Jomtien"
-      },
+      "event_info": "{'date': '매주 화요일', 'location': 'Rage Ringside Cafe, Jomtien (Soi Thrappraya 15)', 'price': '무료 (음료/식사 비용 별도)', 'location_google_map_query': 'Rage Ringside Cafe Jomtien'}",
       "references": [
         {
           "title": "Join Us For Our Weekly Free In Person Coffee and News Chat With The Pattaya News Team Every Tuesday Afternoon",
@@ -8944,8 +8933,85 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131"
         }
       ],
-      "collected_at": "04:37",
+      "collected_at": "4:37",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131",
+      "date": "2026-03-03",
+      "link": "https://thepattayanews.com/2026/03/02/new-weekly-coffee-and-news-chat-with-the-pattaya-news-team/",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 분쟁으로 발 묶인 외국인 관광객에게 긴급 재정 지원 시행",
+      "summary": "- 태국 정부는 국제 항공 폐쇄로 인해 발이 묶인 외국인 관광객을 위한 긴급 재정 지원을 시행합니다.\n- 1일 2,000바트 지원 계획을 발표했습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국 정부는 국제 항공 폐쇄로 인해 발이 묶인 외국인 관광객을 위한 긴급 재정 지원을 시행합니다. Travel And Tour World에서 자세한 내용을 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 분쟁으로 인한 항공편 결항으로 태국에 발이 묶인 외국인 관광객에게 직접적인 영향을 미치는 긴급 재정 지원에 대한 내용이므로 여행 안전 및 편의에 중요한 정보입니다. 기존 게시글과 내용이 유사하지만, 최신 정보 업데이트이므로 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "1일 2,000바트",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Implements Emergency Financial Relief for International Tourists Stranded by Global Airspace Closures - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcExEelNkOGkyWjNyMGYwQVNfenRGTWxrd2ZyV2kzVEMwcFh4NEVUaWtHOUlzLXZyZlZiWWdJU21feTBhdS1sblZmRWMwS3l3RVdqRkpGNzR2YzRzZVcxUTc4T2ZrOHJkNWdlUVM3Vm1yVEIzZkt6Vm1WdmYydWRwaFdNc3NEZXlDcjNZdExvYU5BOFREZG13VjFLZWVwQTJwbWhuZGEtREhmdnRsWXM5VXEtZGo1cEpUQ3RoaGJsVXlOYVY4RXlab3Z0bm5JaGJIeVhBMlMtQWJnQ1NlcUhzY0ozNnB1X3oyc0hlZkdXQjU?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "TAT, 이벤트 주도 관광 전략 지원 위해 Tomorrowland Thailand 발표 - marketech apac",
+      "summary": "- 태국 관광청(TAT)은 이벤트 주도 관광 전략을 지원하기 위해 Tomorrowland Thailand를 발표했습니다.\n- Tomorrowland Thailand는 태국에서 개최되는 대규모 국제 행사입니다.\n- 이 행사는 태국 관광 산업 활성화에 기여할 것으로 예상됩니다.",
+      "full_translated": "태국 관광청(TAT)은 이벤트 주도 관광 전략을 지원하기 위해 Tomorrowland Thailand를 발표했습니다. 이 행사는 태국 관광 산업 활성화에 기여할 것으로 예상됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국에서 열리는 대규모 국제 행사인 Tomorrowland Thailand 개최 정보는 여행객에게 유용한 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TAT announces Tomorrowland Thailand to support event-led tourism strategy - marketech apac",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhucDZFelpRS3hQSTVLYkxtSnMycmdBZ0pHMU0wZkEzWTFuNWhVek9JSnBFSThld0Z3QUhJRHQ1OE9NSkhKTnZCRXp2dFZhTnIzU3dCbFRlVDdVcmhUa1QxYk9VTEstMHpsQ3RUVm0tVy1OUXA4RDFsaVhuanBBZnVOSEtJRzFpMHg2STk0bWJJdGpwN0otQTctNmpoMEwwR0NR?oc=5",
+          "source": "marketech apac",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "이란, 호르무즈 해협 봉쇄 발표 및 통과 선박 화형 위협",
+      "summary": "- 이란 혁명수비대(IRGC)가 호르무즈 해협 봉쇄를 발표하며 긴장 고조.\n- 미국과 이스라엘의 공격에 대한 보복으로 최고 지도부 사망에 대한 대응.\n- 해협 통과 시도 선박에 대한 화형 위협으로 국제 유가 급등 우려.",
+      "full_translated": "이란군이 호르무즈 해협을 봉쇄하고 통과하는 모든 선박을 불태우겠다고 위협했습니다. 이는 미국과 이스라엘이 그들을 공격하여 최고 지도자와 수십 명의 고위 지도자들이 사망한 것에 대한 대응입니다. 2069년 3월 2일, Times of Israel 웹사이트는 이란 혁명수비대(IRGC) 사령관이 세계에서 가장 중요한 해상 상품 및 원유 운송로 중 하나인 '호르무즈 해협을 폐쇄'했다고 발표했습니다. IRGC는 또한 해협을 통과하려는 선박을 불태울 것이라고 위협했습니다. IRGC 대변인 이브라힘 잡바리 장군은 \"해협은 폐쇄되었고, 누구든 통과하려 한다면 IRGC 해군과 군대의 영웅들이 그 배에 불을 붙일 것입니다. 이 지역에 오지 마십시오\"라고 말했습니다. 잡바리 장군은 또한 미국인들이 \"이 지역의 석유에 굶주려 있다\"며 이란은 \"이 지역의 석유 파이프라인을 공격하고 이 지역에서 석유 수출을 허용하지 않을 것\"이라고 말했습니다. 이란의 최근 움직임은 최고 지도자 아야톨라 알리 카메네이가 미국과 이스라엘의 합동 공격으로 사망한 후 나왔으며, 이란은 복수를 선언했습니다. 이란은 미국이 자신들을 공격할 경우 호르무즈 해협을 폐쇄하겠다고 계속 위협해 왔지만, 과거에는 실제로 해협을 폐쇄한 적은 없었습니다. 그러나 이란이 최근 발표한 대로 해협을 폐쇄한다면 전 세계 석유 운송량의 20%에 영향을 미치고 원유 가격이 급격히 상승할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "호르무즈 해협 봉쇄는 국제 유가 상승을 유발, 여행 비용 증가 가능성. 분쟁 지역 인근 여행 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "อิหร่านประกาศปิด “ช่องแคบฮอร์มุซ” ขู่เผาเรือทุกลำที่แล่นผ่าน",
+          "url": "https://www.thairath.co.th/news/foreign/2917532",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlKZtNTAXIZLS.jpg"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZlKZtNTAXIZLS.jpg",
       "date": "2026-03-03"
     }
   ]
