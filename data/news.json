@@ -11516,14 +11516,9 @@
       "summary": "- 미국, 이란 내 목표 지점 1,700곳 이상 공격했다고 발표\n- 이란 사망자 787명으로 증가, 여학생 176명 포함\n- 이란, 병원 9곳이 공격 목표였다고 주장. 미국과 이스라엘은 부인",
       "full_translated": "미국 군대는 이란 내 목표물을 1,700곳 이상 공격했다고 밝혔으며, 이란의 사망자 수는 787명으로 증가했습니다. 여기에는 여학생 176명이 포함됩니다. 2569년 3월 3일, 미국 중부 사령부(CENTCOM)는 '에픽 퓨리' 작전에 대한 자세한 정보를 제공하기 위해 주요 정보 요약 문서를 발표했습니다. 보고서에 따르면 미국 군대는 지난 일요일부터 이란 내 약 700개의 목표물을 추가로 공격하여 공격 대상이 최소 1,700개로 증가했습니다. 또한 새로운 폭격기와 전투기가 이번 작전에 추가되었습니다. 공격 대상에는 미사일 발사 기지, 군함, 잠수함 및 지휘 센터가 포함됩니다. CENTCOM은 '가장 즉각적인 위협 목표'를 우선시한다고 밝혔습니다. 이란 적신월사협회는 미국과 이스라엘의 공격으로 며칠 동안 787명이 사망했다고 밝혔으며, 여기에는 지난 토요일 미납 시에서 여학생들의 학교가 공격받은 후 사망한 176명의 여학생이 포함됩니다. 이란 의회 보건위원회의 파테메 모함마드베기 의원은 월요일 이란의 9개 병원이 공격 목표였다고 밝혔으며, 이스라엘과 미국이 의도적으로 의료 시설을 표적으로 삼았다고 비난했습니다. 이스라엘 방위군(IDF)은 테헤란의 간디 병원 공격에 대한 주장에 대해 해당 공격은 '병원을 목표로 하지 않았다'고 반박했습니다. CENTCOM은...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 분쟁 심화는 항공편 운항에 영향을 줄 수 있으며, 잠재적으로 여행객의 이동에 불편을 초래할 수 있음. 다만, 태국 내 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สหรัฐฯ โจมตีเป้าหมายแล้ว 1,700 จุดใน 3 วัน อิหร่านดับพุ่ง 787 ศพ",
@@ -11532,23 +11527,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX51BQvl6GS1g.jpg"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX51BQvl6GS1g.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/foreign/2917712",
+      "source": ""
     },
     {
       "title": "Thailand: How the “Save Maya, Save Pakarang” Initiative is Redefining Sustainable Luxury and Marine Stewardship in Krabi",
       "summary": "- 태국 크라비에서 진행 중인 'Save Maya, Save Pakarang' 이니셔티브는 지속 가능한 럭셔리 관광과 해양 보호의 새로운 기준을 제시합니다.\n- 이 이니셔티브는 마야 베이와 파카랑 지역의 환경 보존을 목표로 합니다.\n- 여행객들은 이 프로그램을 통해 환경을 보호하면서 고급스러운 여행을 즐길 수 있습니다.",
       "full_translated": "태국 크라비에서 진행 중인 'Save Maya, Save Pakarang' 이니셔티브는 지속 가능한 럭셔리 관광과 해양 보호의 새로운 기준을 제시하고 있습니다. 이 프로그램은 마야 베이와 파카랑 지역의 환경을 보존하면서 고급스러운 여행 경험을 제공하는 것을 목표로 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "크라비 지역의 지속 가능한 관광에 대한 정보는 여행객에게 유용할 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "크라비, 마야 베이, 파카랑",
-        "price": null,
-        "location_google_map_query": "마야 베이"
-      },
+      "event_info": "{'date': None, 'location': '크라비, 마야 베이, 파카랑', 'price': None, 'location_google_map_query': '마야 베이'}",
       "references": [
         {
           "title": "Thailand: How the “Save Maya, Save Pakarang” Initiative is Redefining Sustainable Luxury and Marine Stewardship in Krabi - Travel And Tour World",
@@ -11557,23 +11549,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcDFiRW5vOXpzNWRja19FM05tZERvN1h6cmxnYmxDRTZQYUlqb3J4c0ZEN29EdXU0c3B1eVBtbnY5R3JzNFo1TVFPMzNFRUxqWnRjV2NmenJBRDN4eHhKZG1ZQ3g3Skk3dXUzeEpCTFFoNjk2Z3U3TGZBRV9COUxVZW4xVXAxQUtPNTdadU9BVDBfd2NYc3V4RVFLZVd5cVhCcUswMm9ZMi12Y21IVnlnVE5tTTdIcGpGMUJsRDkySGlaTElZMF9RUDlLNXNvdi1qVUNDemwxOFBzZDlsSnJ3NDgwYnVjSVNwcnFOd092X194UWZrYWhwcw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 활성화: 중국, 말레이시아, 러시아, 인도, 한국 주도; 타이항공, 에어아시아, 에미레이트 노선 확대",
       "summary": "- 중국, 말레이시아, 러시아, 인도, 한국 관광객 증가로 태국 관광 호황.\n- 타이항공, 에어아시아, 에미레이트 항공, 파타야 노선 확장.\n- 힐튼, 메리어트 등 호텔 체인도 파타야에서 번성.",
       "full_translated": "중국, 말레이시아, 러시아, 인도, 한국이 타이항공, 에어아시아, 에미레이트 항공의 노선 확대를 주도하면서 관광 붐을 일으키고 있으며, 힐튼과 메리어트는 파타야에서 번성하고 있습니다. 왜 세계적인 불확실성이 태국의 해변 낙원의 속도를 늦추지 못하는가?",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업의 긍정적 변화를 보여주며, 특히 주요 국가 관광객 증가 및 항공 노선 확대는 여행객 편의 증진에 기여.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "China, Malaysia, Russia, India and South Korea Drive Tourism Boom as Thai Airways, AirAsia and Emirates Boost Routes While Hilton and Marriott Thrive in Pattaya — Why Global Uncertainty Isn’t Slowing Thailand’s Beach Paradise - Travel And Tour World",
@@ -11582,7 +11571,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQa3ROY3FONzRlTllpM2VIMmVsd0VCRFh1QVI1X1pyb05FT01VX2NwWXg2WjJ2NlhSSDNWR1VCWmIxU3k3X0RvZFF1WHQ2Skxsb25DMU1IMG9jekFXMGhSUG5BRW5HZ18tbkM1NGhpMGdvb3BCbGZMcjdpYlU5UDlYaW9GQ0RoYURCT2JqOWVOeEN5ckxFbjBDRDNqb1g5dHZJZHZWaUZnS0JlZlZCdEJzUmRfS0FZMVlxRy1DLU5SU0pZOTN4WTdwUDFCSVJjUGx3dVZXcHgzWXJtZF8zaHBSR0hPQ05QT0QxZmhLeG9PQ0VVM3ktem00RnNBbmwtRWM4SGY5MXd6aGtRcFBsT1JLelNVbXZPb0hLZVBpSl9KM2h0NV85eWplZWNEQ01RY3R6OGdYak5XdE9sVTFWelRRNEkwVWd2MVVwZkxoV2VWZllFQQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "중동 영공 폐쇄로 인한 발 묶인 관광객, 태국 비자 면제 및 지원",
+      "summary": "- 중동 지역 영공 폐쇄로 인해 태국에 발이 묶인 관광객에게 비자 면제 조치 시행.\n- 정부는 이들에게 필요한 지원을 제공할 예정.\n- 자세한 지원 내용 및 절차는 추후 발표될 예정.",
+      "full_translated": "중동 영공 폐쇄로 인해 항공편 운항이 마비되면서 발이 묶인 관광객들에게 비자 면제가 허용되었습니다. - 네이션 태국",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 영공 폐쇄로 인한 항공편 결항으로 태국에 발이 묶인 관광객들에게 직접적인 영향을 미치므로 높은 점수 부여. 비자 면제 및 지원은 여행객에게 중요한 정보.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Stranded Tourists Granted Visa Amnesty as Middle East Airspace Closure Paralyses Flights - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXN19aVVFaczNnbVlEUlR4M2t0TVFmS1JJREJlVUpWa0Uza0V1SzREajhPMGVRWlM0RENFVWk5VlBBaEtGcTRncVdwMDYxWmpyMHU3LUFRX0hOSjcyRFVDOElB?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "멕시코 마약왕 '엘 멘초' 사망, 호화 장례식 거행",
+      "summary": "- 호화로운 장례식이 과달라하라 인근에서 치러졌으며, 경비 강화 및 폭력 사태 방지 조치.",
+      "full_translated": "멕시코 마약왕 '엘 멘초'의 장례식이 그의 가족들에 의해 치러졌습니다. 그는 금으로 된 관에 안치되었으며, 많은 조문객과 엄중한 경비 속에서 매장되었습니다. 외신에 따르면, 지난 2월 말 멕시코 군에 의해 사살된 악명 높은 마약왕 네메시오 오세게라 세르반테스, 즉 '엘 멘초'의 장례식이 지난 월요일(2069년 3월 2일)에 치러졌습니다. 엘 멘초는 금관에 안치되었습니다. 59세의 나이로 사망한 엘 멘초는 멕시코에서 가장 영향력 있는 범죄 조직 중 하나인 '할리스코 신세대 카르텔(CJNG)'의 창립자였습니다. 그는 멕시코 당국이 가장 필요로 하는 인물이었으며, 미국은 그에게 1,500만 달러의 현상금을 걸었습니다. 엘 멘초의 사망은 그의 조직원들이 폭력 사태를 일으키는 계기가 되었습니다. 마약 카르텔 조직원들은 멕시코 전역 20개 주에서 차량을 불태우고 도로를 봉쇄했습니다. 국가 방위군(National Guard)은 엘 멘초의 장례식 동안 새로운 폭력 사태가 발생하는 것을 방지하기 위해 엄중한 경계를 펼쳤습니다. 장례식은 CJNG의 주요 거점인 할리스코 주의 과달라하라 인근에서 열렸습니다. 장례식 시작 전, 수많은 화환과 조화가 행사장으로 옮겨졌습니다. 그 중 하나는 엘 멘초가 개인적으로 좋아했던 투계 모양이었습니다. AFP 통신에 따르면, 조화를 묘지로 운반하는 데 트럭 5대가 필요했으며, 대부분 익명의 발신자가 보낸 것이었습니다. 장례 행렬은 연주단의 연주와 함께 진행되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국에서 벌어진 사건은 아니지만, 멕시코 마약 카르텔의 활동이 국제적인 불안정을 야기할 수 있으며, 여행객 안전에 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "과달라하라 인근, 멕시코",
+        "price": null,
+        "location_google_map_query": "Guadalajara, Mexico"
+      },
+      "references": [
+        {
+          "title": "นอนโลงทองคำ ครอบครัวจัดพิธีศพ “เอล เมนโช” ราชายาเสพติดเม็กซิโก",
+          "url": "https://www.thairath.co.th/news/foreign/2917715",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Rkr2fgVvfh.jpg"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Rkr2fgVvfh.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "2월 태국 방문 외국인 관광객 326만 명",
+      "summary": "- 태국은 2월 한 달 동안 326만 명의 외국인 관광객을 맞이했습니다.\n- 이는 태국 관광 산업 회복의 긍정적인 신호로 해석됩니다.\n- 관광객 증가에 따른 경제적 효과가 기대됩니다.",
+      "full_translated": "malaysiasun.com에 따르면 태국은 2월에 326만 명의 외국인 관광객을 맞이했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업 회복에 대한 긍정적인 정보이며, 여행객 수 변화는 숙박, 교통, 관광지 혼잡도 등에 영향을 줄 수 있어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand welcomes 3.26 mln foreign tourists in February - malaysiasun.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVpBMVZnV1NhdUNmaG8zWnFCZDVMWWFqWWxrWi1NeDg2Y3dBeGFkVWktdEo4R0Rpc05sR2l4NktaM3dqLV9BSjQzc0EwbF9Gc05kY1dvVUxzTDlmQ0JVZzJ2MFdZQktUclQ4MGoxNzJxR1V1VUE0a1MyVlBjS0JoMF9uREdrVDZaUExzRmRhMV96RkYtVV9TTzJhTlc?oc=5",
+          "source": "malaysiasun.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "중국 남방항공, 온라인 경매에서 보잉 787-8 10대 판매: 태국 항공, 태국 관광 붐, 항공 연결성 증가에 미치는 영향",
+      "summary": "- 중국 남방항공이 보잉 787-8 항공기 10대를 온라인 경매를 통해 판매했다.\n- 이번 판매는 태국 항공 산업과 관광 산업에 긍정적인 영향을 미칠 것으로 예상된다.\n- 항공 연결성 증가는 태국 관광 붐을 더욱 가속화할 것으로 기대된다.",
+      "full_translated": "중국 남방항공, 온라인 경매에서 보잉 787-8 10대 판매, 태국 항공, 태국 관광 붐, 항공 연결성 증가에 미치는 영향 - Travel And Tour World",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "항공기 판매 자체가 관광객에게 직접적인 영향을 미치지는 않지만, 항공사 운영 및 노선 확대에 간접적인 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China Southern Airlines Sells 10 Boeing 787-8s in Historic Online Auction, How Thai Airways, Thailand’s Tourism Boom, and Increased Air Connectivity Are Set to Benefit - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPY3BVMF9KZzFuSzdyNnZnYjgtYUpFRmIweVNxRUFwVnJKTmxLWndIZXNpOVI0UE03VlctdzVLVDBDbTg3QkZDcXV1ZjBGaXpPMEgxTmR4T2ticUVnMFpsbkNRQU1ZU0VYbW5RbWJFRU1KRjdSMWtlUXZCVWlLa2E2aFoya0xGSjdOZHI5bTROYnFYdDZ1cGFacERRR3d0ZWdVZl81TGlUaXE1WGx5bjl2V05BU2k1RlZJTlRueU9lbjN4RjFzMWJfVGFIRF9lXzFKSUJiWlU1Q1Z0UENHTFdBQUFURERNQVZ3VFNqZWFPWVIyWG5YLXFtUGFRcHlLTkFheU11bGFxLWpMRzYtY1hGS0pBOWRlR2wxYlVrTWZSMmYtdlJuM1ZHNXV4YjEzb2ptYkoxd085SQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "핫 놉파랏 타라-무 코 피피 국립공원, 3억 바트 이상의 수익 창출",
+      "summary": "- 태국 핫 놉파랏 타라-무 코 피피 국립공원이 3억 바트 이상의 수익을 창출했습니다.\n- 이는 친환경 관광 성장과 지속 가능한 발전에 기여합니다.\n- 해당 국립공원은 태국 관광 산업의 중요한 부분을 차지합니다.",
+      "full_translated": "핫 놉파랏 타라-무 코 피피 국립공원이 3억 바트 이상의 수익을 창출하여 태국의 친환경 관광 성장과 지속 가능한 발전을 촉진합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "국립공원 수익 증가는 관광객 편의시설 개선 및 환경 보호 투자로 이어질 수 있어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "Hat Noppharat Thara-Mu Ko Phi Phi National Park",
+        "price": null,
+        "location_google_map_query": "Hat Noppharat Thara-Mu Ko Phi Phi National Park"
+      },
+      "references": [
+        {
+          "title": "Hat Noppharat Thara-Mu Ko Phi Phi National Park Generates More than Three Hundred Million Baht in Revenue, Boosting Eco-Tourism Growth and Sustainable Development in Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQdk43UDh1SGp1aVo0S1JOT1VTTU1TelZCcGZMcEdSMHBPTWVzUVJOUEQwNk9GZGdpYnFXVGRMTlBuS2dHbE1CNS1LQWUxOVJia3BUVkRqdC1vQjJCcjAtVHV0V3ppUTZqTm5QYndJLXViQTh3dERXM1JGNmVDeG1rY2dIRlpHQkRJNm1sblJSaF9CbXpQV29VZEt1WERRNjhMOWFldGwxMVJWYzlmV3J5SHRJN3gyUmE0a25KU05RTEVoNVA0UC1yTy00c3M4UDAzRkw2Q2pKRWxobjZYMVprUy1tejVWQWFtNGlhY2RBVV8wSTB1RkhLcHZFSVBZOXhsVHN6ck96YnlsZVhXR2FtbDZLWkpqWDdnT2xPUEhVMnBXT2xCT3VWMXVvV09rZHZiUnZYeTI3SV9WUzd4YmJzS2I2SW0?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-04"
     }
