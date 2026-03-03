@@ -10197,14 +10197,9 @@
       "summary": "- 태국 정부가 이란에 거주하는 자국민을 터키를 거쳐 태국으로 대피시키기 위한 노력을 가속화하고 있습니다.\n- 시하삭 푸앙께우 외무부 장관에 따르면, 우선적으로 이란에서 터키로 육로 이동 후 상업 항공편을 이용해 귀국하는 방안이 고려되고 있습니다.\n- 필요시 이집트에서 항공기를 전세 내 추가 대피를 지원할 계획이며, 현재 중동 분쟁으로 영향을 받는 국가의 태국 대사관들이 안전 구역을 확보하기 위해 노력 중입니다.",
       "full_translated": "정부는 이란에서 태국 국민을 터키로 대피시키는 데 주력하고 있습니다.\n\n방콕포스트닷컴 : 주요 뉴스\n게시일: 2026년 3월 3일 17:22\n작가: 온라인 기자\n정부는 시하삭 푸앙께우 외무부 장관에 따르면 이란에서 태국 국민을 터키로 대피시켜 태국으로 돌아가는 항공편을 마련하기 위한 노력을 가속화하고 있습니다. 예비 조치로 태국 국민은 약 1,000km 떨어진 인접한 터키로 육로로 이동할 수 있으며, 당국은 그들이 태국으로 돌아가는 상업 항공편을 탈 수 있도록 도울 것입니다. 정부는 또한 필요한 경우 추가 대피를 위해 이집트에서 항공기를 전세 내는 것을 고려하고 있습니다.\n\n화요일 외무부에서 시하삭 장관은 중동 분쟁의 고조로 영향을 받는 국가의 태국 대사관이 태국 대피자들을 위한 안전 지역을 준비하기 위해 주재국 정부와 협력하고 있다고 말했습니다. 그는 태국이 상황 전개를 면밀히 주시하고 있다고 강조했습니다. 장관은 정부가 이란에서 태국인 대피를 우선시할 것이라고 말했습니다. 돌아가기를 원하는 사람들은 적절한 여행 경로를 준비할 수 있도록 당국에 즉시 통지해야 합니다. 가능한 환승 지점으로는 일부 영공이 여전히 개방되어 있고 상업 항공편이 여전히 운항되고 있는 아랍에미리트와 바레인이 있습니다. 동시에 관리들은 특히 미국 군사 기지 근처에 있는 태국 국민들이 안전 지역에 머물도록 노력하고 있습니다. 시하삭 장관은 상황을 2024년 이스라엘 관련 분쟁과 비교하면서 현재의 전투는 이란, 이스라엘을 가로지르는 훨씬 더 넓은 지리적 영역을 포함한다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 지역 분쟁으로 인한 잠재적 위험 및 여행 경로 변경 가능성. 태국 정부의 자국민 대피 노력은 외국인 여행객에게도 간접적인 영향을 미칠 수 있으므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt focused on evacuating Thais from Iran",
@@ -10215,21 +10210,18 @@
       ],
       "collected_at": "18:25",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209023_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3209023/govt-focused-on-evacuating-thais-from-iran",
+      "source": ""
     },
     {
       "title": "태국 상무부, 상품 가격 인상 금지 및 중동 분쟁 관련 감시 강화",
       "summary": "- 태국 상무부는 상품 가격 인상을 금지하고, 중동 분쟁 상황을 예의주시하고 있습니다.\n- 에너지 가격 상승에 따른 상품 가격 인상 시도를 막기 위해 감시를 강화합니다.\n- 현재까지 주요 에너지 회사들은 가격 인상 계획이 없다고 밝혔습니다.",
       "full_translated": "태국 국내 무역국은 세계적인 상황에 대응하여 전국적인 가격 통제를 명령했습니다. 상품 가격 인상을 절대 허용하지 않으며, 4개의 주요 석유 거래 제휴사가 아직 가격을 조정하지 않았음을 지적하며 가격 인상의 이유가 없다고 밝혔습니다. 2026년 3월 3일, 위타야콘 마니네트 국내 무역국장은 수파지 수탐판 상무부 장관이 중동 지역의 불안정한 상황을 면밀히 모니터링하고 국내 경제에 영향을 줄 수 있는 외부 요인으로부터의 변동성을 방지하기 위해 상품 가격 및 생활비 관리 조치를 추진하라는 지시를 내린 후, 국내 무역국은 상품 및 서비스 가격의 안정성을 유지하기 위한 적극적인 조치를 신속하게 시행하고 있다고 밝혔습니다. 국내 무역국장은 에너지 가격 상황을 지속적으로 모니터링하기 위해 에너지 부와 긴밀히 협력하고 있으며, PTT, Bangchak, Susco와 같은 부와 제휴한 석유 거래자에게 연락하여 모든 회사가 연료 가격 인상을 보고하지 않았다고 밝혔습니다. 또한 에너지부는 현재 석유 가격을 동결하는 조치를 취하고 있어 생산자 또는 거래자가 상품 및 서비스 가격을 인상할 수 있는 에너지 비용 요인이 없습니다. 또한 가격 인상을 통한 기회 포착을 명확히 금지했습니다. 위타야콘은 또한 국내 무역국이 많은 소비재 제조업체와 신속하게 협력하고 있으며 현재까지 비용에 영향을 미치지 않았으며 기회 포착을 방지하기 위해 중앙 정부의 공무원과 전국 상무부 사무소에 상품 및 서비스 판매, 특히 에너지 및 운송 비용과 관련된 상품을 검사하기 위해 지역을 신속하게 검사하라는 지시를 내렸다고 덧붙였습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객의 물가 및 생활비에 간접적인 영향을 줄 수 있으며, 가격 인상 관련 혼란을 방지하기 위한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ห้ามขึ้นราคาสินค้า กรมการค้าภายใน คุมเข้มรับเหตุสู้รบตะวันออกกลาง ยันน้ำมัน 4 ค่ายไม่ขยับ",
@@ -10240,21 +10232,18 @@
       ],
       "collected_at": "18:25",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVRXv7nVj94A.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2917674",
+      "source": ""
     },
     {
       "title": "태국 금값, 3월 3일 하루 동안 58번 변동. 장신구 판매가 80,050 바트",
       "summary": "- 태국 금 가격이 하루 동안 58번 변동하며 불안정한 모습을 보임.\n- 금괴 판매가는 바트당 79,250 바트, 장신구 판매가는 80,050 바트 기록.\n- 금 가격 변동은 국내외 경제 상황에 따라 민감하게 반응하는 추세.",
       "full_translated": "3월 3일, 태국 금 거래 협회는 금 가격이 하루 동안 총 58번 변동했다고 발표했습니다. 금괴 판매 가격은 바트당 79,250 바트, 금 장신구 판매 가격은 바트당 80,050 바트를 기록했습니다.  가격 변동은 09:04에 시작되어 하루 종일 계속되었습니다. (변동 내역 상세 생략)",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "환전 및 금 관련 쇼핑에 영향을 줄 수 있는 정보. 매일 업데이트되는 정보이므로 포함.",
-      "event_info": {
-        "date": "2026-03-03",
-        "location": "태국",
-        "price": "79,250 - 80,050 바트/바트",
-        "location_google_map_query": "태국 금은방"
-      },
+      "event_info": "{'date': '2026-03-03', 'location': '태국', 'price': '79,250 - 80,050 바트/바트', 'location_google_map_query': '태국 금은방'}",
       "references": [
         {
           "title": "ราคาทองวันนี้ล่าสุด 3 มีนาคม 2569 ผันผวน 58 ครั้ง รูปพรรณขายออก 80,050 บาท",
@@ -10265,21 +10254,18 @@
       ],
       "collected_at": "18:25",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVKy2R3AmPeqOc.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/society/2917668",
+      "source": ""
     },
     {
       "title": "태국 국회의장 및 부의장 선출, 선거관리위원회 (꺼꺼떠.) 100% 승인 후 진행",
       "summary": "- 태국 국회의장 및 부의장 선출은 선거관리위원회의 100% 의원 승인 후 진행될 예정입니다.\n- 3월 3일로 예정되었던 의회 첫 회의 및 의장단 선출은 연기될 가능성이 있습니다.\n- 현재 총리실은 선거관리위원회의 발표를 기다리고 있으며, 이후 국왕에게 회의 개최를 요청할 예정입니다.",
       "full_translated": "태국 국회 사무총장은 선거관리위원회가 95~100% 의원을 승인하기를 기다리고 있다고 밝혔습니다. 나중에 총리가 첫 의회 회의를 열어 의장과 부의장을 선출합니다. 2569년 3월 3일, 시로트 팟판 사무총장은 선거관리위원회가 언제 95% 또는 100% 의원을 승인하는지 지켜봐야 한다고 말했습니다. 선거관리위원회가 승인을 발표하면 총리실은 국회 사무국과 연락하여 총리가 첫 의회 회의를 열어 의장과 부의장을 선출하도록 요청할 것입니다. 그러나 현재 총리실로부터 연락이 없습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이나, 여행에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เลือก ประธาน-รองประธานสภาฯ ต้องรอกกต. รับรอง 100% ก่อน",
@@ -10290,21 +10276,18 @@
       ],
       "collected_at": "18:25",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLV3wiasq0Ckg.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/politic/2917673",
+      "source": ""
     },
     {
       "title": "제스, 내일 '솜차이' 선거 시뮬레이션 참관 초대에 응답",
       "summary": "- 제스 토나와닉, 내일 국회에서 열리는 선거 시뮬레이션 참관 예정\n- 솜차이 스리수티야콘 전 선거관리위원장의 초대에 응함\n- 선거의 결함을 해결하기 위한 목적, 시기적으로는 선거 전에 이루어졌어야 함",
       "full_translated": "애국심(러 차)당의 총리 후보인 제스 토나와닉은 전 선거관리위원(꼬꼬따)인 솜차이 스리수티야콘이 선거 시뮬레이션 참관 초청에 응답했다고 밝혔습니다. 그는 실제로 선거를 실시하기 전에 테스트하여 문제가 있는지 또는 수정해야 할 사항이 있는지 확인해야 한다고 말했습니다. 이번 테스트는 선거가 끝난 후에 이루어졌지만 전문가와 다양한 분야를 초청하여 시스템을 관찰하고 테스트합니다. 제스는 작업 타임라인의 오류를 지적했습니다. 그는 문제가 있다는 비판이 있었기 때문에 나중에라도 시도해 보라고 말했습니다. 비밀 선거인지 아닌지, 통과된 선거가 정직한지 아닌지 알아볼 것입니다. 솜차이 교수도 이전 꼬꼬따 위원이었고 쏘쏘도 좋은 의도를 가지고 있으며 문제가 있는지, 결함이 있는지 살펴볼 것입니다. 그리고 궁극적으로는 기존의 선거를 관리할 수 있도록 해야 합니다. 수정해야 할 사항이 있다면 계속 수정해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 소식이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "태국 국회",
-        "price": null,
-        "location_google_map_query": "태국 국회"
-      },
+      "event_info": "{'date': None, 'location': '태국 국회', 'price': None, 'location_google_map_query': '태국 국회'}",
       "references": [
         {
           "title": "“เจษฎ์” ตอบรับคำเชิญ ร่วมสังเกตการณ์จำลองเลือกตั้งกับ “สมชัย” พรุ่งนี้",
@@ -10315,6 +10298,133 @@
       ],
       "collected_at": "18:25",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVKx4pTOdYUNB8.jpg",
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/politic/2917664",
+      "source": ""
+    },
+    {
+      "title": "태국 CAAT, 중동 분쟁 관련 항공편 이용객 주의 당부",
+      "summary": "- 태국 항공은 현재 정상 운행 중.\n- 중동 지역 분쟁으로 일부 노선 제한 발생.\n- 항공편 이용 전 항공사에 운항 정보 확인 필요.",
+      "full_translated": "태국 민간항공청(CAAT)은 중동 지역의 분쟁 상황을 주시하며, 태국 항공편은 현재 정상적으로 운행되고 있다고 밝혔습니다. 그러나 분쟁 확대로 인해 여러 국가에서 영공 폐쇄 또는 제한 조치를 시행하고 있으며, 주요 환승 공항의 운영에도 차질이 발생하고 있습니다. 이로 인해 일부 항공사는 운항을 일시 중단하거나 노선을 변경하고 있습니다.\n\nCAAT는 항공사, 공항 및 관련 기관과 긴밀히 협력하여 상황을 지속적으로 평가하고 있으며, 현재 태국 항공은 정상적으로 운행되고 있습니다. 다만, 상황에 따라 관리 조치가 조정될 수 있습니다.\n\nCAAT는 승객들에게 공항으로 출발하기 전에 항공편 상태를 확인하고, 국제선의 경우 최소 3시간 전에 공항에 도착할 것을 권고합니다. 또한, 항공사 및 공항의 발표를 지속적으로 확인해야 합니다. 유럽행 항공편 중 중동에서 환승하지 않는 항공편은 정상적으로 운행되고 있으며, 대한항공과 유럽 항공사 대부분은 대체 노선 계획을 준비하여 정상적인 운항이 가능합니다. 그러나 대체 노선 이용으로 인해 비행 시간이 늘어날 수 있으며, 대체 노선에 항공편이 집중되어 도착 시간에 영향을 미칠 수도 있습니다.\n\n중동 지역으로 향하는 항공편 또는 해당 지역에서 환승하는 승객의 경우, 현재 여러 노선에서 제한이 있습니다. 특히 이스라엘, 이란, 아랍에미리트, 카타르, 사우디아라비아 및 쿠웨이트행 노선은 정상적으로 운행되지 않고 있습니다. 일부 경우에는 영공 폐쇄로 인해 운항이 불가능합니다. 따라서 해당 지역으로 여행하는 승객은 항공사에 문의하여 최신 정보를 확인해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 분쟁으로 인한 항공편 운항 차질 가능성, 여행객 주의 필요. 공항 혼잡 및 비행 시간 증가 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "CAAT แนะผู้โดยสารเช็กเที่ยวบิน วางแผนเผื่อเวลา เส้นทางบินตะวันออกกลางยังติดข้อจำกัด",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2917675",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVVwCL6pkKyG.jpg"
+        }
+      ],
+      "collected_at": "18:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVVwCL6pkKyG.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "타이항공, 새로운 수하물 정책으로 체크인 시간 지연",
+      "summary": "- 타이항공의 새로운 수하물 정책 변경으로 수완나품 공항에서 체크인 시간이 길어지고 있습니다.\n- 기존 무게 기준에서 개수 기준으로 변경되어, 이코노미는 2개, 퍼스트 클래스는 3개까지 허용됩니다.\n- 공항 내 셀프서비스 키오스크의 시스템 오류로 탑승권만 발급되고 수하물 태그는 발급되지 않아 체크인 카운터에 긴 줄이 발생하고 있습니다.",
+      "full_translated": "타이항공 국제선 항공편을 이용하는 승객은 새로운 수하물 정책 시행으로 인해 수완나품 공항에서 체크인 시 추가 시간을 확보해야 합니다. 새로운 정책은 무게 기준에서 승객당 수하물 개수로 변경되었으며, 이는 티켓 등급에 따라 다릅니다. 예를 들어, 퍼스트 클래스 승객은 3개, 이코노미 클래스 승객은 최대 2개의 수하물을 허용합니다. 첫날 변경으로 인해 공항 내 셀프서비스 키오스크에서 탑승권만 인쇄되고 타이항공 승객의 수하물 태그는 발급되지 않는 시스템 오류가 발생했습니다. 국적 항공사 승객은 수하물을 항공기에 싣기 위한 태그를 받기 위해 체크인 카운터에서 줄을 서야 했습니다. 이 문제로 인해 국내선 및 국제선 노선 모두 타이항공 카운터에 긴 줄이 생겼습니다. 수완나품 공항 홍보실은 화요일에 \"이 기간 동안 타이항공을 이용하는 승객은 출발 전에 추가 시간을 확보하고 항공사의 최신 정보 업데이트를 따르시기 바랍니다.\"라고 밝혔습니다. 타이항공은 문제 해결을 위해 노력하고 있으며, 공항 내 셀프서비스 키오스크는 정상적으로 작동하고 있으며, 문제는 타이항공에서만 발생했다고 공항 측은 덧붙였습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "수완나품 공항 이용객의 체크인 지연은 여행에 직접적인 영향을 미치므로 높은 점수를 부여. 정책 변경으로 인한 혼란은 여행자에게 중요한 정보.",
+      "event_info": {
+        "date": null,
+        "location": "수완나품 공항",
+        "price": null,
+        "location_google_map_query": "Suvarnabhumi Airport"
+      },
+      "references": [
+        {
+          "title": "New baggage policy leads to longer THAI check-in times",
+          "url": "https://www.bangkokpost.com/thailand/general/3208973/new-baggage-policy-leads-to-longer-thai-checkin-times",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208973_700.jpg"
+        }
+      ],
+      "collected_at": "18:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208973_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "중국 콜센터 사기단, 불법 입국 혐의로 체포",
+      "summary": "- 태국 논타부리 호텔에서 중국인 14명이 불법 입국 혐의로 체포됨.\n- 이들은 캄보디아에서 콜센터 사기 행각을 벌이다 국경을 넘어 태국으로 도피한 것으로 추정됨.\n- 경찰은 이들에게서 52대의 휴대폰과 다수의 SIM 카드를 압수하고 추가 조사를 진행 중.",
+      "full_translated": "태국 논타부리에서 캄보디아 콜센터 사기 연루 혐의를 받는 중국 국적자 14명이 불법 입국 혐의로 체포되었습니다. 경찰은 응암 웡완 소이 19에 위치한 호텔에서 이들을 검거했으며, 52대의 휴대폰과 다수의 SIM 카드를 압수했습니다. 용의자들은 22세에서 37세 사이이며, 경찰 조사 결과 캄보디아에서 활동하던 콜센터 사기단이 국경을 넘어 태국으로 도피한 것으로 드러났습니다. 이들은 차량 공유 앱을 통해 국경 지역에서 호텔까지 이동했으며, 현재 불법 입국 혐의로 추가 조사를 받고 있습니다. 이번 체포는 캄보디아 내 중국 콜센터 사기 조직들이 단속을 피해 태국으로 도피하는 사례가 증가하는 추세와 관련이 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 대상 범죄 가능성 및 잠재적 불안감 조성 가능성. 직접적인 위협은 아니지만 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "논타부리",
+        "price": null,
+        "location_google_map_query": "논타부리"
+      },
+      "references": [
+        {
+          "title": "Chinese call-centre scammers arrested for illegal entry",
+          "url": "https://www.bangkokpost.com/thailand/general/3208925/chinese-callcentre-scammers-arrested-for-illegal-entry",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208925_700.jpg"
+        }
+      ],
+      "collected_at": "18:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208925_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "미얀마 주민, 태국 국경 도시에서 연료 확보 경쟁",
+      "summary": "- 미얀마 주민들이 연료 가격 상승을 우려해 태국 국경 도시 매솟으로 몰려 연료를 채우고 있음.\n- 이는 중동 분쟁으로 인한 유가 상승에 대한 우려 때문으로, 태국 내에서도 일부 주유소에서 가격 인상이 시작됨.\n- 매솟 주민들 또한 연료 부족을 우려하여 주유소에 긴 줄이 이어지고 있음.",
+      "full_translated": "미얀마 주민들이 중동 전쟁으로 인해 연료 가격이 상승하기 시작하면서 태국 탁(Tak) 지방의 매솟(Mae Sot) 지역으로 몰려와 차량에 연료를 채우고 있습니다. 카인(Kayin) 주의 먀와디(Myawaddy)에서 넘어오는 대부분의 차량은 승합차이며, 모에이(Moei) 강을 가로지르는 제1 태국-미얀마 우정의 다리를 통해 국경을 넘고 있습니다. 사진에서 한 운전자가 연료 탱크에 최대한 많은 연료를 넣기 위해 차량을 흔드는 모습이 포착되기도 했습니다. 이러한 유입으로 인해 매솟 주민들은 잠재적인 연료 부족을 우려하여 연료를 채우기 위해 서두르고 있습니다. PTT와 Bangchak은 국내 비축량이 충분하다고 말하며 현재 가격을 유지하고 있지만, 일부 경쟁업체들은 이미 가격을 인상하기 시작했습니다. Shell은 화요일에 디젤 가격을 리터당 4.20바트, 가솔린 가격을 1.50바트 인상했습니다. Caltex는 디젤 가격을 1.80바트, 대부분의 가솔린 가격을 리터당 0.90바트 인상했습니다. 미국과 이스라엘이 토요일에 이란을 공격한 이후 세계 원유 가격이 10~15% 상승했기 때문에 더 많은 인상이 예상됩니다. 매솟에서는 주유소마다 운전자들이 차례를 기다리며 긴 줄을 서고 있습니다. 미얀마 등록 차량 외에도 태국 개인 차량...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행 중 차량을 이용하는 여행객들에게 연료 가격 변동 및 국경 지역 혼잡 가능성에 대한 정보 제공.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "Mae Sot, Tak Province",
+        "price": "Shell: Diesel +4.20 baht/litre, Gasohol +1.50 baht/litre; Caltex: Diesel +1.80 baht/litre, Gasohol +0.90 baht/litre",
+        "location_google_map_query": "Mae Sot, Tak Province"
+      },
+      "references": [
+        {
+          "title": "Myanmar residents rush to refuel in Thai border town",
+          "url": "https://www.bangkokpost.com/thailand/general/3208999/myanmar-residents-rush-to-refuel-in-thai-border-town",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208999_700.jpg"
+        }
+      ],
+      "collected_at": "18:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208999_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "3월 3일, 39분간의 붉은 달: 마카 부차 날의 완전 월식 생중계",
+      "summary": "- 2069년 3월 3일 마카 부차 날에 완전 월식 생중계 예정\n- 태국 시간으로 15:44 - 21:23 사이에 진행되며, 18:23부터 관측 가능\n- 붉은 벽돌색의 완전한 달은 39분 동안 관측될 예정",
+      "full_translated": "3월 3일 마카 부차 날의 '완전 월식' 생중계를 놓치지 마세요. '붉은 벽돌색 달' 또는 '라후가 달을 삼키는' 현상이 총 39분 동안 지속됩니다. 2069년 3월 3일, 국립천문연구소(NARIT) 페이스북에서 마카 부차 날의 '완전 월식' 현상을 태국 시간으로 15:44 - 21:23 (방콕 기준)에 생중계합니다. 태국에서는 달이 수평선 위로 떠오르는 18:23부터 동쪽에서 관측할 수 있습니다. 이때 완전 월식이 진행 중이므로, 달이 수평선에서 떠오르는 순간부터 19:02까지 붉은 벽돌색으로 보일 것입니다(총 39분). 이후 부분 월식, 반영 월식이 순서대로 나타나며 현상이 종료됩니다. 이 현상은 태국 전역에서 육안으로 관측할 수 있습니다. '월식'은 태양, 지구, 달이 같은 평면에 위치하는 현상으로, 지구가 태양과 달 사이에 위치할 때 발생합니다. 월식은 보름달, 즉 음력 14-15일에만 발생합니다. 달이 우주로 뻗어 나간 지구의 그림자를 통과하면서 지구에서 보는 달의 모습이 점차 가려지다가 완전히 가려진 후, 다시 그림자에서 벗어나면서 원래 모습을 되찾게 됩니다. 고대 태국인들은 이 현상을 '라후가 달을 삼킨다'고 불렀습니다. 달은 매달 지구를 공전하지만, 월식은 매번 보름달이 뜰 때마다 발생하지 않습니다. 이는 달의 궤도면이 지구의 궤도면과 약 5도 기울어져 있기 때문에 달이 매달 지구의 그림자를 통과하지 않고 그림자보다 높거나 낮은 위치를 지나가기 때문입니다. 평균적으로...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "특별한 천문 현상으로, 여행 중 특별한 경험을 원하는 사람들에게 흥미로운 정보. 다만, 시간대가 늦은 저녁이라 여행객에게 큰 영향을 주지는 않을 것으로 판단.",
+      "event_info": {
+        "date": "2069-03-03",
+        "location": "태국 전역",
+        "price": "무료",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "ชมสด \"จันทรุปราคาเต็มดวง\" ปรากฏการณ์ \"ดวงจันทร์สีแดงอิฐ\" นาน 39 นาที",
+          "url": "https://www.thairath.co.th/news/society/2917677",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVhuujlowGpG.jpg"
+        }
+      ],
+      "collected_at": "18:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVhuujlowGpG.jpg",
       "date": "2026-03-03"
     }
   ]
