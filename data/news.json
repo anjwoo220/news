@@ -9185,14 +9185,9 @@
       "summary": "- 중동 지역 분쟁 심화로 태국 관광 산업에 대한 우려가 커지고 있음.\n- 관광객 감소는 태국 GDP에 심각한 영향을 미칠 수 있다는 분석.\n- 분쟁 확산 시 외국인 관광객 감소가 불가피할 것으로 예상.",
       "full_translated": "중동 분쟁 심화로 태국 관광 산업이 위협받고 있으며, 관광객이 80%까지 급감할 수 있다는 우려가 제기되었습니다. 이는 태국 GDP에 심각한 영향을 미칠 수 있습니다. \n\n*Nation Thailand*",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁이 태국 관광산업에 미치는 잠재적 영향 고려, 관광객 감소 가능성으로 인한 경제적 영향 분석.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "‘Middle East’ clashes intensify; fears tourists may plunge 80%, dragging Thai GDP down - Nation Thailand",
@@ -9201,23 +9196,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBncHhUVjBuaUVzeU1WQlZKTEJ4V2R3TWNXekVtWE9GWGpKODFnYmpHV0Z5SWlqQWVhYXpuZ05YODhDc2xOUExjNTBidDRrQ0N0MUJkMFVPakl1djBOQWw0b2tpLVM2SlU?oc=5",
+      "source": ""
     },
     {
       "title": "동남아시아 두 번째 경제 대국, 중국인 관광객 복귀",
       "summary": "- 태국 경제가 중국인 관광객의 복귀로 활기를 띨 것으로 예상됨.\n- 태국은 동남아시아에서 두 번째로 큰 경제 규모를 가지고 있음.\n- 관광 산업 회복에 대한 기대감이 높아지고 있음.",
       "full_translated": "동남아시아 두 번째 경제 대국, 중국인 관광객 복귀 - VnExpress International",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 경제에 미치는 영향과 관광 산업 회복에 대한 기대감을 고려, 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Southeast Asia's 2nd largest economy sees return of Chinese tourists - VnExpress International",
@@ -9226,23 +9218,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEJ3UkZIOVNaT3h2d2dmeElZa0JmME5IendBQlhWMGZheWl3eC1nS2VCdzI5dUhQQTdsSGlYZHI0cGFtY0dqLTZpOEpRNUtrM3RaeXdoclE2eXlmUXBjb3pQdGhGR1JKbGFuOUxmWW1lVzZoMnNJZVh5Q3ptMHN4dzJzdGpGWXJQUkticHAzaVVoZFcxbXlRbUpxNHpXOEd5MjhkX1BQTXdTY1AxMTNQS0JmMW9wdmRW?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 앱 출시 - 여행 및 관광 세계",
       "summary": "- 태국 관광 앱이 출시되었습니다.\n- 여행 및 관광 세계에서 제공합니다.\n- 자세한 내용은 앱을 통해 확인하세요.",
       "full_translated": "태국 관광 앱 출시 여행 및 관광 세계",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객에게 유용한 정보 제공 가능성이 있으나, 구체적인 내용은 확인 필요. 앱 정보는 여행 편의성 향상에 기여할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand tourism app launch - Travel And Tour World",
@@ -9251,7 +9240,109 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-03",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnUxYmVmRXNMZm45SFRnME1kRDY0UzVfdWQ3emkzdTRmZS1yTURweVY2OTZLdGlqeXVHSFdnQXpCR3VlNzdROHpaaElJTHNrVGZnXzA2TGViSVBXVW1za1VuQXNua2ItR2IwMlk3YVAzNFRlLWZxTTdlSWVqZUl4UFNrWEJaWTg?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 관광청, 관광 위기 모니터링 센터 활성화",
+      "summary": "- 태국 관광청(TAT)이 관광 위기 모니터링 센터를 활성화했습니다.\n- 이는 관광객 안전을 위한 노력의 일환입니다.\n- 자세한 내용은 Travel Daily Media에서 확인할 수 있습니다.",
+      "full_translated": "태국 관광청이 관광 위기 모니터링 센터를 활성화했습니다. Travel Daily Media",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 안전과 관련된 조치이므로 여행에 미치는 영향이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism Authority of Thailand activates Tourism Crisis Monitoring Centre - Travel Daily Media",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTHlua2ZTaHRlV0RDMGZYWjVvZW1zS0c0MTJkZWppR1FNRVdNWWVuSTlkVTBnbG16NW1SMmozWmFuck96dEU5NlVmdi1IZHVIOFhhbzVLZi1udW9Db184UXJCd3FuRWxNR3d6ZHN3SW9jVnhxYXl3VjNqNW1LNmZYREtHcnV2TXNoWExFMENkN2pidXJaalhzOWFJdjVYWDBiXzEyak5GMmYzUQ?oc=5",
+          "source": "Travel Daily Media",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국 2026년 설 연휴 여행 특수: 일본 대신 태국을 선택하는 이유는?",
+      "summary": "- 2026년 설 연휴 기간 동안 태국 여행 수요 급증 예상.\n- 일본 대신 태국을 선택하는 글로벌 관광객 증가 추세.\n- 자세한 내용은 Travel And Tour World에서 확인 가능.",
+      "full_translated": "2026년 설 연휴 기간 동안 태국 여행 특수: 왜 글로벌 관광객들이 일본 대신 태국을 선택하는가 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "다가오는 설 연휴에 대한 여행 트렌드를 보여주며, 태국이 인기 여행지로 부상하고 있음을 시사. 여행 계획에 참고할 만한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Travel Boom During Lunar New Year 2026: Why Global Tourists Are Choosing Thailand Over Japan - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQm52TnhPc2t5T29KUTRYRkZIRGp5WEdPMjlmX2RhcERzZjZPTTRnZm9yUk9iZ1g0NktsbDZ1S19aV1FHakZJUzNCalN2QUFxWnFlcWlSWGlvT2dpRlFsUVRDVm9CZU1YeXhYLVJwcEhFbEl6RmdXeGZSbzdCX1NuUG1ZbEwySFB4NHYzTFhJS0hueDcxOWRFUm1MUDhwSW82NVpic0tpLWlrZU5PLWZiQ3J6di0yRUJHUzV0ZkxtWXJKN3NpSEFGZng2UlNOWkduM1pEOGpGSEo2c2JWUVdpUUI1TQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국 관광 2026 발표: 인도 여행객을 위한 안전하고 고급스러운 몰입형 여행 (방콕-끄라비)",
+      "summary": "- 태국 관광청, 2026년까지 인도 여행객 유치를 위한 전략 발표\n- 안전, 고급, 몰입형 경험을 강조한 맞춤형 여행 상품 제공 예정\n- 방콕에서 끄라비까지 다양한 지역에서 특별한 경험 제공",
+      "full_translated": "태국 관광청은 2026년까지 인도 여행객을 대상으로 안전하고 고급스러운 몰입형 여행을 제공하기 위한 전략을 발표했습니다. 이 전략은 방콕에서 끄라비까지 다양한 지역에서 맞춤형 여행 상품을 제공하여 인도 여행객들에게 특별한 경험을 선사하는 것을 목표로 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "인도 여행객을 대상으로 한 특정 여행 상품 정보이므로, 다른 국적 여행객에게는 정보 가치가 낮을 수 있지만, 새로운 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 끄라비",
+        "price": null,
+        "location_google_map_query": "방콕 끄라비 여행"
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism 2026 Revealed: How Indian Travelers Can Enjoy Safe, Luxury, and Immersive Journeys from Bangkok to Krabi - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYnpPTVozOFRwTE9ZbUFsYXd0YzI2R3llcldYdUJFY2VGZkZCMW13dC00TGJheE4xY2FJTk5jcHlyeGMyY0JFMWEza1V1Nk5DNDUxa2lDSG5feGRWT2ZTNC1yeUZ3Q0NubFpLeGEwbWFfUV9nQzVyejlZdkVNYmZSVE9OVVVXWFhYQjRWM19QelZPdEs0enhuZnVFdVVoNHlIWlNTc0gwbVlrb2MtYjdmRVZKNGI0VWdNVlRVYnl5am1RbERXX0VDOFZwTDJGMnVwRDVpd0E4Y3ZLMnFJOWZJUmZOVFVqbXFPUTBQZDBUWHNuS04zNC1saERkYw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "방콕 예술문화센터의 '세 도시의 예술' 전시, 드바라바티 미학 재해석으로 태국 문화 관광 성장 촉진",
+      "summary": "- 방콕 예술문화센터에서 드바라바티 미학을 재해석하는 '세 도시의 예술' 전시 개최.\n- 태국의 문화 관광 성장을 촉진할 것으로 기대.\n- 전시는 드바라바티 시대의 예술과 문화를 현대적으로 재해석한 작품들을 선보임.",
+      "full_translated": "방콕 예술문화센터에서 열리는 '세 도시의 예술' 전시는 드바라바티 미학을 재해석하여 태국의 문화 관광 성장을 촉진합니다. Travel And Tour World",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "방콕 예술문화센터에서 열리는 전시 정보는 여행객들에게 문화적인 경험을 제공할 수 있으므로 관련 정보를 제공.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 예술문화센터",
+        "price": "정보 없음",
+        "location_google_map_query": "방콕 예술문화센터"
+      },
+      "references": [
+        {
+          "title": "Three Cities of Art Exhibition at Bangkok Art and Culture Centre Reinterprets Dvaravati Aesthetics, Boosting Cultural Tourism Growth in Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQaTNzdlRxSjNoaEU0TFdzZVp0NnRTX0hSQXN2ZzBxZGlHZng1dVZyX0FMZXZDYTJ1RjV3T1FXMDQxZkFrbHRBSmNkOEVyV2k2M2I4eHhQZERsNUxkUndRN0dBZ3FOMV9HdlpsVmtwQS0yMk9YaFdwSnBBdnpwQlNKcnI0N01Fc0F3UmxLQWtDTDk4VU1kVjRYcHBPWmF6SjI0U3UybW1RcDdCSmpoYTlQazBpSi05MXdSQVpCWXdJLW9hMThaRnNMZ1RrVFJ6UWZzXzFmbm9VRmp0dDF3QTZkVW02MlNxeWhmT0xPTndNaEhxRjVtZ1FUcVFIYjNxQnFmaXA5VUN4RkxqN0hhRTUtZHQ5Y01QVms4b3psRw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-03"
     }
