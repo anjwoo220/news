@@ -11692,14 +11692,9 @@
       "summary": "- 태국이 항공편 혼란에 대응하기 위해 관광 위기 센터를 가동했습니다.\n- 이는 중동 지역의 긴장 고조로 인한 항공편 차질에 대한 조치입니다.\n- 관광객 지원 및 상황 해결을 위한 노력이 진행될 예정입니다.",
       "full_translated": "태국이 항공편 혼란 속에서 관광 위기 센터를 가동했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "최근 중동 분쟁으로 인한 항공편 혼란으로 관광객 불편이 예상되므로, 관련 위기 센터 가동은 여행객에게 중요한 정보입니다. 공항 혼잡 및 여행 차질 가능성에 대한 정보를 제공하므로 높은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Activates Tourism Crisis Centre Amid Flight Chaos - thetraveler.org",
@@ -11708,23 +11703,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcE9RV3I0TTVkYWtRa19XWmNIcWNGMlJyZVJVOUpXUVhGUTlQUmhzRWdvTUdoTHgwWF9ZV00tYk9YNWhna0tRS2pmRWpBalQtQXIyTXFfVWNWd09GZkZUWkE1cnFER2hoUk5zRjRjSUlVMnVGX0NrVEhnNTNvRWVkYmVMbjFVN3lDUnFlcHRUcnc?oc=5",
+      "source": ""
     },
     {
       "title": "싱가포르, 말레이시아, 태국, 한국 관광객 증가 추세, 항공사 및 호텔 체인, 중국의 새로운 관광객 권리 규정에 대비",
       "summary": "- 싱가포르, 말레이시아, 태국, 한국 관광객이 여행 급증을 주도하고 있습니다.\n- 중국 항공사, 호텔 체인이 새로운 관광객 권리 규정에 대비하고 있습니다.\n- 이는 향후 여행에 중요한 영향을 미칠 수 있습니다.",
       "full_translated": "싱가포르, 말레이시아, 태국, 한국 관광객이 여행 급증을 주도하고 있으며, 중국의 에어차이나, 중국 동방항공, 힐튼, 메리어트 등은 중국의 새로운 관광객 권리 규정에 대비하고 있습니다. 이는 향후 여행에 중요한 영향을 미칠 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 관련 관광객 증가 추세 및 관련 규정 변경에 대한 정보이므로 여행객에게 중간 정도의 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Singapore, Malaysia, Thailand, South Korea Tourists Spark Travel Surge as Air China, China Eastern and Hilton, Marriott Brace for China’s Tough New Tourist Rights Rules — What This Means for Your Next Trip - Travel And Tour World",
@@ -11733,23 +11725,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWmdJeV84SmdVTmphb0dxenFCaUtDaVBZUldfamI2a2pWeVFKeTZ2TmRQZGw3eWxkQlMtV2lkbGN3R2duTE5Na2UzdTZwSkNhTnBiUWMzLVhYcUg0SERsNnBTem5OQ1p4UFlrOThtMGhFRTE5eEFIRnhGMDhNVElKeEtrZDBfUFNXQy1mZDZOcXhyWjFaQm5jWVFaeER6S0NyRnNFTl9tczdUMEpIVGtYTkRWMTBkNlNrRFNGSVltUDRzSjRVSGJxX1EyM1FXd1Y3TWctN0RKbnlQMTJoNGYwcHNPUHpVNnhmVGYwdWtvSHFrNGRWano1cS1Vanc5T0ItSlJkVEUwcmNKQmJmbW9qa3hsSGV4azAtdExaS3htbGMwTUVnOVI4UVZ1WDA2ZmZOUFdNdGlCcjBYQm93SWhYNE5TalpsNksw?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 발리 하이 선착장, 촌부리: 방콕 여행객과 해외 방문객 증가로 꼬 란행 관광객 급증",
       "summary": "- 방콕 여행객 및 외국인 방문객 증가로 촌부리 파타야의 발리 하이 선착장에서 꼬 란으로 향하는 여행객이 크게 증가했습니다.\n- 이는 태국 해안 여행의 부활을 의미하며, 섬 여행 수요 증가를 시사합니다.\n- 꼬 란은 파타야에서 쉽게 접근할 수 있는 아름다운 섬으로, 관광객들에게 인기 있는 목적지입니다.",
       "full_translated": "파타야, 촌부리의 발리 하이 선착장은 방콕 여행객과 해외 방문객 증가로 꼬 란으로 향하는 관광객의 이동이 많습니다. 이는 태국 해안 여행의 부활을 의미합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야와 꼬 란 간의 여행 수요 증가 정보는 여행객들에게 유용한 정보이며, 핫플레이스 정보에 해당한다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 발리 하이 선착장, 꼬 란",
-        "price": null,
-        "location_google_map_query": "Bali Hai Pier Pattaya, Koh Larn"
-      },
+      "event_info": "{'date': None, 'location': '파타야 발리 하이 선착장, 꼬 란', 'price': None, 'location_google_map_query': 'Bali Hai Pier Pattaya, Koh Larn'}",
       "references": [
         {
           "title": "Bali Hai Pier In Pattaya, Chonburi Sees Heavy Tourist Movement Toward Koh Larn As Bangkok Travelers And International Visitors Fuel Thailand’s Coastal Travel Revival — What This Means For Your Next Island Escape - Travel And Tour World",
@@ -11758,23 +11747,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPNzFoZmpWeGhOZWJIV2RkVXphbktrV2hScU9CQzdTM2ZWRk93ODhCd3ZKaThzYWl6ckFRWHlzcWZScDNRLUlSVWNVRjJ2NXU1MFRZNTBmaUtyM2tlclhRQUE3cjVNcTM1bmh2OXljeEwwZWItM25tZURZdFhWaXdpV0ZRak9vSTdBV3dwc3d4TFh0WGxnZEZNbWhfTFUtR05YMnNMdDdqLTE4S3c2M1I2UUYyVzNpWGNtQTByOGxobWVDYW44c0JETnl2eEtSaG1Sb0JDX2tmR003RW5GU3o5UDV3RTZPSGtRczFqU0NSSGVBR3gtY212MGRlMEJtcGk4amVnMHU4M0YyN0hCTmFrc1pkZUdmcjFaMF81ekM5Q0RVYmpkQndHWU9YZ3lTWXRsaWthNWstN1VNclp6QW1xUkNMSUVRb3ZvOHZDTg?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026년 동남아시아 웰니스 관광 붐 주도 예상 (Travel And Tour World)",
       "summary": "- 태국은 베트남, 인도네시아 등과 함께 2026년 동남아시아 웰니스 관광 시장을 주도할 것으로 전망됨.\n- 터키 또한 동남아 웰니스 관광 시장에 합류하여 경쟁 심화 예상.\n- 웰니스 관광은 건강과 힐링을 추구하는 여행 트렌드를 의미.",
       "full_translated": "Travel And Tour World에 따르면, 태국은 베트남, 인도네시아 등과 함께 2026년 동남아시아 웰니스 관광 붐을 주도할 것으로 예상됩니다. 터키 또한 이 시장에 합류하여 더욱 다양한 건강 체험 기회를 제공할 것으로 보입니다. 웰니스 관광은 단순한 관광을 넘어 건강과 힐링을 추구하는 여행 트렌드를 의미하며, 태국은 이러한 트렌드를 적극적으로 수용하여 다양한 웰니스 프로그램을 개발하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 웰니스 관광 시장 전망에 대한 정보는 여행객들에게 새로운 여행 트렌드와 선택지를 제공할 수 있으므로, 여행 관련 정보로서의 가치가 있다고 판단됨.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Turkey Joins Vietnam, Thailand, Indonesia and More in Leading the Wellness Tourism Boom Across Southeast Asia in 2026 – Explore the Transformative Health Experiences Awaiting You! - Travel And Tour World",
@@ -11783,23 +11769,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaXFjWUxvTDdiTVhXWTJhZThEVVVuMEx2SUR5WnRiMFdsSnBjSXRtRE9LVmtZV0xRWVVYX0NCSjFQZUdMY1lPd0dSUE5IRHBiY1ExZExUX3JSWmdsWHNoTzJzaEFMVWFOUlFFTnJmYmdrSlQ2cGNELVRSSkZISl8zcDJ2NGs1eE9HdkpDRWo5bFVydWZWNDQxMFU2dDA3TDdnQWtQYjhYMDh3Skp2bVVEc2pqenhaVUU1cnpDaFBKTmYzWFVQam5FcWt1WmZXYmc2LTVNT0pmUmMxX19kdmd2dktrcnNXbmRLREhFSzU1YUxvb1JMRTMtVlhaVWdnMkhWVG51LUtiYjBlNU91enRYcFRDN2lNTzJvU08ySTFJNHktVlpuYTNNZVZna1Q4VWhVZ3ZUNUFrMXZXMnh5ZnhIUFRpTjExdw?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 한국 의료 관광 급증에 따른 대한항공 및 아시아나항공의 서울행 수요 증가에 합류",
       "summary": "- 미국이 한국 의료 관광 급증에 따른 서울행 여행객 증가에 동참함.\n- 대한항공과 아시아나항공이 밝은눈안과의 KAHF 인증 후 의료 관광 특수를 누리고 있음.\n- 일본, 중국, 태국, 대만, 베트남, 인도네시아, 필리핀도 한국 의료 관광에 합류.",
       "full_translated": "미국이 일본, 중국, 태국, 대만, 베트남, 인도네시아, 필리핀에 합류했습니다. 대한항공과 아시아나항공은 밝은눈안과의 KAHF 인증에 따른 한국 의료 관광 급증으로 서울에 몰려드는 여행객을 활용하고 있습니다. - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "최근 한국 의료 관광에 대한 관심 증가와 항공사의 관련 마케팅 활동을 강조하므로 여행객들에게 참고 정보가 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "서울",
-        "price": null,
-        "location_google_map_query": "서울"
-      },
+      "event_info": "{'date': None, 'location': '서울', 'price': None, 'location_google_map_query': '서울'}",
       "references": [
         {
           "title": "United States joins Japan, China, Thailand, Taiwan, Vietnam, Indonesia and Philippines, Travellers to Flock to Seoul as Korean Air and Asiana Airlines Capitalise on South Korea’s Medical Tourism Surge Following Bright Eye Clinic’s KAHF Accreditation — H - Travel And Tour World",
@@ -11808,8 +11791,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNS1nNlVSaF96UzV5OGR5dEVEY0RReVdQUEtLLWkxMGRvZFkyODVlTnhLZ3NBTmRWcFhJZUVibEpNby1GUWRCQlhSNncyZ2NBbzZKN3hBMDBDOTNyMDk4ckNIYVBMTVpKckJYOTducnoxSTNvZXpsVTlDS05JZldJMmpERTN4UVRyX0dXbW5PNXhDOGpKNXNLQnQ2a0RrYU1IOFdjLVBhNnA2ek9VNnJEMXNjVkgzNzBDbkFRRXhsVjdYa19sY0p0RFg5OXktWnBjS3JGQ3ZDRUEzTS1WbVRYdXFVOWZwUVpsVGZYcmxQZFlvRy1VcWgwY3dVMmpRN09nRU9vMG1QVGk0eFBEUVQ0V1VVeWRfWnBkT2JLZmMzOWRoa0Nqb2l3NTV3dUctRnhrM1FsQ3R2ZnNHX3pZSXZ0RXB3VTk3M0ljdHNKVFp0d2VIZTdD?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 영공 폐쇄로 발 묶인 여행객 비자 연장 및 호텔 지원",
+      "summary": "- 태국 정부는 중동 지역의 영공 폐쇄로 인해 발이 묶인 외국인 관광객을 위해 비자 연장 및 호텔 지원을 제공합니다.\n- 방콕, 사뭇프라칸, 수완나품 공항에서 해당 조치가 시행됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국은 중동 영공 폐쇄로 인해 글로벌 여행 계획이 차질을 빚음에 따라 방콕, 사뭇프라칸 및 수완나품 공항 전역에서 비자 연장 및 호텔 지원을 시행합니다. 국제 방문객은 이제 무엇을 준비해야 할까요? - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 분쟁으로 인한 여행 차질 발생, 비자 연장 및 호텔 지원 정보는 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 기존 뉴스에서 '1일 2,000바트 지원' 언급은 있었으나, '비자 연장'과 '호텔 지원'에 대한 구체적인 내용은 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 사뭇프라칸, 수완나품 공항",
+        "price": null,
+        "location_google_map_query": "방콕, 사뭇프라칸, 수완나품 공항"
+      },
+      "references": [
+        {
+          "title": "Thailand Rolls Out Visa Extensions And Hotel Relief Across Bangkok, Samut Prakan And Suvarnabhumi Airport As Middle East Airspace Closures Disrupt Global Travel Plans — What International Visitors Should Prepare For Now - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNWGk4SGFVeGJOUVo0S2hjSmFPcV9wSEdQQXYyWERmR2xFUmY1ZnRtZ2gxdzVNUWJwYVNmbi1GbFdiajZYMTRybndORThEUWNYRjNTOTVrc25KSVhZeXJ0Z2xjWlZpN3RoRFpSQzg3dDgzbGRaNWtmMk1CelBYaE9mVDU2UlF1T19WZkExMFZkWmZYMVpwaGhqNDFxQXo3ZXljZF94blRxdFBtMlFPcTE0SjMyRkoxME9ySlIzY2ZvT19TOWhLOFlyd1hKSFZ1aUpaVzZZRXFGMV84NVdSaWlYc0VheWhaNElOX1NBSE03Sm40dHFKZkFENVpudHhUeTB4MGdjRDZrVWpoNFF5STQ5dVpiQlBCRVZWYm9OVkpuVC1STHFBWkhmNTBKbGF3YTM3RlEzMVZCb0ktVXNEVXAxeHJTeGYzVldwVEQwWHFZdmx2VVh6RHlBaFlB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "중동 영공 혼란으로 태국 항공편 취소, 방콕 호텔 예상 수요 증가",
+      "summary": "- 중동 지역의 영공 폐쇄로 인해 태국 항공편이 취소되어 중국, 인도, 영국, 러시아, 말레이시아 관광객들이 영향을 받음.\n- 태국 정부의 체류 벌금 면제 조치로 방콕의 Hilton, Marriott, Accor 호텔들의 수요 증가가 예상됨.\n- 항공편 취소와 호텔 수요 증가에 대한 여행객들의 대비가 필요함.",
+      "full_translated": "중국, 인도, 영국, 러시아, 말레이시아 관광객들은 타이 항공, 에미레이트 항공, 카타르 항공의 항공편 취소로 인해 중동 영공 혼란에 갇혔습니다. 태국이 체류 벌금을 면제한 후 힐튼, 메리어트, 아코르는 방콕 수요 급증에 대비하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 불안정으로 인한 항공편 취소 및 지연 정보는 여행객에게 직접적인 영향을 미치므로 중요. 태국 체류 벌금 면제는 긍정적인 정보.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 호텔"
+      },
+      "references": [
+        {
+          "title": "China, India, UK, Russia and Malaysia Tourists Caught in Middle East Airspace Chaos as Thai Airways, Emirates and Qatar Airways Cancel Flights — Hilton, Marriott and Accor Brace for Bangkok Surge After Thailand Waives Overstay Fines, Here’s What It Me - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYXpVc0hDNnlMVG1iS29TZGd1TzNCU3lzUGZEVE13RXdTMVhqb2QwSmw3dnplUEdOVFdPeGJPMFVId2pQUVRvakVQODB1bU1SSG5veWhSSHFNdWxITjFSRnVmcHVEOFEzWWtKdTYydmZnZGRqbTl1bjY2RWJqSmZ0NEVYSF9PUlFfUkhCWjVKX2RQWFdNa244MV84ZlJJNnBXbmNkTnZUVllrT2NNVlotdE9lUjBnMEFaZ0FFUTF2dFVfeUtPZjdUWkxNbEQ4b2NVeG5fUzU2OTZHNUpjZEp4TEtUWG44U0huSlVGX2NydFhnNFlWY2dqUWxzM0RUMGppUGxiLU5UTW9Xd3E4akwtaElJa3gtNmE3TDNicWJpYko4MkhmLWhfb3pDNXRES19xZ2NtajVPVVpwaGl0U2lrSGloNnNWemFIdGlud25LY0xJOWox?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "중동 영공 폐쇄로 여행객, 인도, 싱가포르, 인도네시아, 말레이시아, 태국 등으로 대체 경로 모색",
+      "summary": "- 중동 지역의 영공 폐쇄로 인해 여행객들이 대체 경로를 찾고 있다.\n- 인도, 싱가포르, 인도네시아, 말레이시아, 태국 등이 대체 경로로 부상하고 있다.\n- 항공사들은 중동 영공 폐쇄로 인한 영향 최소화를 위해 노력 중이다.",
+      "full_translated": "중동 영공 폐쇄로 여행객, 인도, 싱가포르, 인도네시아, 말레이시아, 태국 등으로 대체 경로 모색 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 영공 폐쇄로 항공편 변경 및 지연 가능성 증가. 여행 경로 변경에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East Airspace Closures Now Push Travelers to India, Singapore, Indonesia, Malaysia, Thailand and More for Alternative routes - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOGNtNDJsNkExUWZNYzBsR1dqVS1xdjJwNXNxaWlMQV9nYlN6RWZjVVU0N2hwNVl5SnM3bWV1WHNSUGd3RDlvaEVzSEh0cDFBdEtydkJXQ1RpTUlJaUtEZWRMMktRNjM4R2N0UDVJVU9kTXlYZ00zWC1TOEphbEItOEE2cjVZeTV1OFBKM0lRQ0hLQlFUZlRkaW82R0FtX0lsUUNNU18xZnJLSmN2TGZRZ3JvSXdjNFlTenJEUjQ4Qjl4Wkg1SnVPZkVFTHM5aEFVNDVnWTFqbEZlZjJQYmJ6ZWZRLV9tMDduYW5NOG1faEo4VGVRaWYxZExXS3N3N01jbVQ4MmpaQQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "파놈사라캄 망고 축제, 지역 관광 및 경제 성장 촉진",
+      "summary": "- 파놈사라캄에서 열리는 달콤한 망고 & 지역 특산물 축제가 지역 관광과 경제 성장을 촉진합니다.\n- 촌부리 요리 유산을 강화합니다.\n- 지역 경제 활성화에 기여할 것으로 예상됩니다.",
+      "full_translated": "파놈사라캄의 달콤한 망고 & 지역 특산물 축제는 지역 관광, 경제 성장 및 촌부리 요리 유산을 향상시킵니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 중 방문할 만한 지역 축제 정보로, 여행객에게 유용할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파놈사라캄",
+        "price": "미정",
+        "location_google_map_query": "파놈사라캄 망고 축제"
+      },
+      "references": [
+        {
+          "title": "Sweet Mango & Local Delicacies Festival in Phanom Sarakham Boosts Local Tourism, Economic Growth and Chachoengsao’s Culinary Heritage - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ1FoYmFlVkE4MVBPTzF5WlZucXlyME0ybndfNkh5YTFHd2c4ZGNXSHB3cXdGZk5KMFhGeDhSa3hTT3VpX2xVNWk4T2JNdEt2ZzNTLVRCd0pwZmdPcUVVQTJWV25NTW9ZRlZqOFh1WXFHWHhhSmRuOWwyNHFXOXBHSmF5YzBfSk9ER1A3M3BhOEwxM0M4cVhUaHQ3V3lKbzllS2R4N1VObzhpM1Z4SUU4RGE3WW1uRUF5S2tPOTM4LVNfSlpmdzhuSksySnRMakI0b0M4MF9hbjNVQVR5SzV6UUo4OEY3a2xaYm05anhOcXFEcm5VMThmV0dHTDUxZTd6VzN0VEFGdjhOUQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "이란 최고 지도자 후계 구도 관련 보도 - 여행 안전에 미치는 영향 미미",
+      "summary": "- 이란의 차기 최고 지도자로 모즈타바 카메네이가 지명되었다는 보도가 나왔으나, 아직 공식 확인은 없음.\n- 이는 서방과의 관계 및 잠재적 갈등에 영향을 미칠 수 있는 사안임.\n- 현재까지 태국 여행객에게 직접적인 위협은 없으나, 중동 정세 불안정 요소로 작용할 수 있음.",
+      "full_translated": "여러 언론 매체에서 이란의 이전 최고 지도자의 아들인 모즈타바 카메네이가 새로운 최고 지도자로 선출되었다고 보도했지만, 이란 당국으로부터는 아직 확인된 바가 없습니다. 뉴욕 포스트는 이란 반체제 언론인 이란 인터내셔널의 발표를 인용하여 56세의 모즈타바 카메네이(사망한 이란 최고 지도자 아야톨라 알리 카메네이의 둘째 아들)가 '전문가 위원회'에 의해 새로운 최고 지도자로 선출되었다고 보도했습니다. 이 보고서는 이스라엘 언론에 의해 광범위하게 보도되었습니다. 그러나 이란 정부의 대변인 언론은 이 사실을 확인하지 않았습니다. 이전에는 모즈타바가 지난 토요일 공격으로 사망한 40명의 고위 군인 및 측근 그룹 중 한 명이라는 보고가 있었습니다. 이 공격은 이란의 최고 종교 지도자의 생명을 앗아갔습니다. 그러나 나중에 이란 언론은 모즈타바가 아직 살아 있다고 확인했습니다. 이번 임명은 수십 년 동안 반서방 정책으로 철권 통치를 하고 개인 숭배를 구축한 알리 카메네이를 누가 계승할 것인지에 대한 질문이 며칠 동안 제기된 가운데 이루어졌습니다. CNN은 모즈타바가 아버지의 극단적인 보수적 접근 방식을 굳건히 고수하고 잔인함으로 유명한 이슬람 혁명 수비대(IRGC)와 긴밀한 관계를 유지하는 것으로 알려졌다고 보도했습니다. 그는 아버지 정부에서 공식적인 역할을 맡지 않았지만 2019년에 미국에 의해 제재를 받았습니다. 이번 임명은 예상치 못한 일로 여겨지는데, 이란은 특히 지도자 수준에서 혈통을 통한 권력 승계를 반대하는 입장을 표명해 왔기 때문입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "이란의 정치적 변화는 중동 지역의 불안정을 야기할 수 있으며, 이는 항공 노선 변경 등 간접적인 여행 불편을 초래할 수 있음. 직접적인 위협은 아니지만 상황 주시 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ลือหึ่ง “มอจตาบา คาเมเนอี” ได้รับเลือกเป็นผู้นำสูงสุดอิหร่านคนใหม่",
+          "url": "https://www.thairath.co.th/news/foreign/2917716",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Ja0TJuGq7G.jpg"
+        }
+      ],
+      "collected_at": "05:51",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Ja0TJuGq7G.jpg",
       "date": "2026-03-04"
     }
   ]
