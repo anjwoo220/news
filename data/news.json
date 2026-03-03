@@ -11802,14 +11802,9 @@
       "summary": "- 태국 정부는 중동 지역의 영공 폐쇄로 인해 발이 묶인 외국인 관광객을 위해 비자 연장 및 호텔 지원을 제공합니다.\n- 방콕, 사뭇프라칸, 수완나품 공항에서 해당 조치가 시행됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국은 중동 영공 폐쇄로 인해 글로벌 여행 계획이 차질을 빚음에 따라 방콕, 사뭇프라칸 및 수완나품 공항 전역에서 비자 연장 및 호텔 지원을 시행합니다. 국제 방문객은 이제 무엇을 준비해야 할까요? - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 분쟁으로 인한 여행 차질 발생, 비자 연장 및 호텔 지원 정보는 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 기존 뉴스에서 '1일 2,000바트 지원' 언급은 있었으나, '비자 연장'과 '호텔 지원'에 대한 구체적인 내용은 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 사뭇프라칸, 수완나품 공항",
-        "price": null,
-        "location_google_map_query": "방콕, 사뭇프라칸, 수완나품 공항"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 사뭇프라칸, 수완나품 공항', 'price': None, 'location_google_map_query': '방콕, 사뭇프라칸, 수완나품 공항'}",
       "references": [
         {
           "title": "Thailand Rolls Out Visa Extensions And Hotel Relief Across Bangkok, Samut Prakan And Suvarnabhumi Airport As Middle East Airspace Closures Disrupt Global Travel Plans — What International Visitors Should Prepare For Now - Travel And Tour World",
@@ -11818,23 +11813,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNWGk4SGFVeGJOUVo0S2hjSmFPcV9wSEdQQXYyWERmR2xFUmY1ZnRtZ2gxdzVNUWJwYVNmbi1GbFdiajZYMTRybndORThEUWNYRjNTOTVrc25KSVhZeXJ0Z2xjWlZpN3RoRFpSQzg3dDgzbGRaNWtmMk1CelBYaE9mVDU2UlF1T19WZkExMFZkWmZYMVpwaGhqNDFxQXo3ZXljZF94blRxdFBtMlFPcTE0SjMyRkoxME9ySlIzY2ZvT19TOWhLOFlyd1hKSFZ1aUpaVzZZRXFGMV84NVdSaWlYc0VheWhaNElOX1NBSE03Sm40dHFKZkFENVpudHhUeTB4MGdjRDZrVWpoNFF5STQ5dVpiQlBCRVZWYm9OVkpuVC1STHFBWkhmNTBKbGF3YTM3RlEzMVZCb0ktVXNEVXAxeHJTeGYzVldwVEQwWHFZdmx2VVh6RHlBaFlB?oc=5",
+      "source": ""
     },
     {
       "title": "중동 영공 혼란으로 태국 항공편 취소, 방콕 호텔 예상 수요 증가",
       "summary": "- 중동 지역의 영공 폐쇄로 인해 태국 항공편이 취소되어 중국, 인도, 영국, 러시아, 말레이시아 관광객들이 영향을 받음.\n- 태국 정부의 체류 벌금 면제 조치로 방콕의 Hilton, Marriott, Accor 호텔들의 수요 증가가 예상됨.\n- 항공편 취소와 호텔 수요 증가에 대한 여행객들의 대비가 필요함.",
       "full_translated": "중국, 인도, 영국, 러시아, 말레이시아 관광객들은 타이 항공, 에미레이트 항공, 카타르 항공의 항공편 취소로 인해 중동 영공 혼란에 갇혔습니다. 태국이 체류 벌금을 면제한 후 힐튼, 메리어트, 아코르는 방콕 수요 급증에 대비하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 지역 불안정으로 인한 항공편 취소 및 지연 정보는 여행객에게 직접적인 영향을 미치므로 중요. 태국 체류 벌금 면제는 긍정적인 정보.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 호텔"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 호텔'}",
       "references": [
         {
           "title": "China, India, UK, Russia and Malaysia Tourists Caught in Middle East Airspace Chaos as Thai Airways, Emirates and Qatar Airways Cancel Flights — Hilton, Marriott and Accor Brace for Bangkok Surge After Thailand Waives Overstay Fines, Here’s What It Me - Travel And Tour World",
@@ -11843,23 +11835,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQYXpVc0hDNnlMVG1iS29TZGd1TzNCU3lzUGZEVE13RXdTMVhqb2QwSmw3dnplUEdOVFdPeGJPMFVId2pQUVRvakVQODB1bU1SSG5veWhSSHFNdWxITjFSRnVmcHVEOFEzWWtKdTYydmZnZGRqbTl1bjY2RWJqSmZ0NEVYSF9PUlFfUkhCWjVKX2RQWFdNa244MV84ZlJJNnBXbmNkTnZUVllrT2NNVlotdE9lUjBnMEFaZ0FFUTF2dFVfeUtPZjdUWkxNbEQ4b2NVeG5fUzU2OTZHNUpjZEp4TEtUWG44U0huSlVGX2NydFhnNFlWY2dqUWxzM0RUMGppUGxiLU5UTW9Xd3E4akwtaElJa3gtNmE3TDNicWJpYko4MkhmLWhfb3pDNXRES19xZ2NtajVPVVpwaGl0U2lrSGloNnNWemFIdGlud25LY0xJOWox?oc=5",
+      "source": ""
     },
     {
       "title": "중동 영공 폐쇄로 여행객, 인도, 싱가포르, 인도네시아, 말레이시아, 태국 등으로 대체 경로 모색",
       "summary": "- 중동 지역의 영공 폐쇄로 인해 여행객들이 대체 경로를 찾고 있다.\n- 인도, 싱가포르, 인도네시아, 말레이시아, 태국 등이 대체 경로로 부상하고 있다.\n- 항공사들은 중동 영공 폐쇄로 인한 영향 최소화를 위해 노력 중이다.",
       "full_translated": "중동 영공 폐쇄로 여행객, 인도, 싱가포르, 인도네시아, 말레이시아, 태국 등으로 대체 경로 모색 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 영공 폐쇄로 항공편 변경 및 지연 가능성 증가. 여행 경로 변경에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East Airspace Closures Now Push Travelers to India, Singapore, Indonesia, Malaysia, Thailand and More for Alternative routes - Travel And Tour World",
@@ -11868,23 +11857,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNOGNtNDJsNkExUWZNYzBsR1dqVS1xdjJwNXNxaWlMQV9nYlN6RWZjVVU0N2hwNVl5SnM3bWV1WHNSUGd3RDlvaEVzSEh0cDFBdEtydkJXQ1RpTUlJaUtEZWRMMktRNjM4R2N0UDVJVU9kTXlYZ00zWC1TOEphbEItOEE2cjVZeTV1OFBKM0lRQ0hLQlFUZlRkaW82R0FtX0lsUUNNU18xZnJLSmN2TGZRZ3JvSXdjNFlTenJEUjQ4Qjl4Wkg1SnVPZkVFTHM5aEFVNDVnWTFqbEZlZjJQYmJ6ZWZRLV9tMDduYW5NOG1faEo4VGVRaWYxZExXS3N3N01jbVQ4MmpaQQ?oc=5",
+      "source": ""
     },
     {
       "title": "파놈사라캄 망고 축제, 지역 관광 및 경제 성장 촉진",
       "summary": "- 파놈사라캄에서 열리는 달콤한 망고 & 지역 특산물 축제가 지역 관광과 경제 성장을 촉진합니다.\n- 촌부리 요리 유산을 강화합니다.\n- 지역 경제 활성화에 기여할 것으로 예상됩니다.",
       "full_translated": "파놈사라캄의 달콤한 망고 & 지역 특산물 축제는 지역 관광, 경제 성장 및 촌부리 요리 유산을 향상시킵니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 중 방문할 만한 지역 축제 정보로, 여행객에게 유용할 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파놈사라캄",
-        "price": "미정",
-        "location_google_map_query": "파놈사라캄 망고 축제"
-      },
+      "event_info": "{'date': None, 'location': '파놈사라캄', 'price': '미정', 'location_google_map_query': '파놈사라캄 망고 축제'}",
       "references": [
         {
           "title": "Sweet Mango & Local Delicacies Festival in Phanom Sarakham Boosts Local Tourism, Economic Growth and Chachoengsao’s Culinary Heritage - Travel And Tour World",
@@ -11893,23 +11879,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZ1FoYmFlVkE4MVBPTzF5WlZucXlyME0ybndfNkh5YTFHd2c4ZGNXSHB3cXdGZk5KMFhGeDhSa3hTT3VpX2xVNWk4T2JNdEt2ZzNTLVRCd0pwZmdPcUVVQTJWV25NTW9ZRlZqOFh1WXFHWHhhSmRuOWwyNHFXOXBHSmF5YzBfSk9ER1A3M3BhOEwxM0M4cVhUaHQ3V3lKbzllS2R4N1VObzhpM1Z4SUU4RGE3WW1uRUF5S2tPOTM4LVNfSlpmdzhuSksySnRMakI0b0M4MF9hbjNVQVR5SzV6UUo4OEY3a2xaYm05anhOcXFEcm5VMThmV0dHTDUxZTd6VzN0VEFGdjhOUQ?oc=5",
+      "source": ""
     },
     {
       "title": "이란 최고 지도자 후계 구도 관련 보도 - 여행 안전에 미치는 영향 미미",
       "summary": "- 이란의 차기 최고 지도자로 모즈타바 카메네이가 지명되었다는 보도가 나왔으나, 아직 공식 확인은 없음.\n- 이는 서방과의 관계 및 잠재적 갈등에 영향을 미칠 수 있는 사안임.\n- 현재까지 태국 여행객에게 직접적인 위협은 없으나, 중동 정세 불안정 요소로 작용할 수 있음.",
       "full_translated": "여러 언론 매체에서 이란의 이전 최고 지도자의 아들인 모즈타바 카메네이가 새로운 최고 지도자로 선출되었다고 보도했지만, 이란 당국으로부터는 아직 확인된 바가 없습니다. 뉴욕 포스트는 이란 반체제 언론인 이란 인터내셔널의 발표를 인용하여 56세의 모즈타바 카메네이(사망한 이란 최고 지도자 아야톨라 알리 카메네이의 둘째 아들)가 '전문가 위원회'에 의해 새로운 최고 지도자로 선출되었다고 보도했습니다. 이 보고서는 이스라엘 언론에 의해 광범위하게 보도되었습니다. 그러나 이란 정부의 대변인 언론은 이 사실을 확인하지 않았습니다. 이전에는 모즈타바가 지난 토요일 공격으로 사망한 40명의 고위 군인 및 측근 그룹 중 한 명이라는 보고가 있었습니다. 이 공격은 이란의 최고 종교 지도자의 생명을 앗아갔습니다. 그러나 나중에 이란 언론은 모즈타바가 아직 살아 있다고 확인했습니다. 이번 임명은 수십 년 동안 반서방 정책으로 철권 통치를 하고 개인 숭배를 구축한 알리 카메네이를 누가 계승할 것인지에 대한 질문이 며칠 동안 제기된 가운데 이루어졌습니다. CNN은 모즈타바가 아버지의 극단적인 보수적 접근 방식을 굳건히 고수하고 잔인함으로 유명한 이슬람 혁명 수비대(IRGC)와 긴밀한 관계를 유지하는 것으로 알려졌다고 보도했습니다. 그는 아버지 정부에서 공식적인 역할을 맡지 않았지만 2019년에 미국에 의해 제재를 받았습니다. 이번 임명은 예상치 못한 일로 여겨지는데, 이란은 특히 지도자 수준에서 혈통을 통한 권력 승계를 반대하는 입장을 표명해 왔기 때문입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "이란의 정치적 변화는 중동 지역의 불안정을 야기할 수 있으며, 이는 항공 노선 변경 등 간접적인 여행 불편을 초래할 수 있음. 직접적인 위협은 아니지만 상황 주시 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ลือหึ่ง “มอจตาบา คาเมเนอี” ได้รับเลือกเป็นผู้นำสูงสุดอิหร่านคนใหม่",
@@ -11918,8 +11901,131 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Ja0TJuGq7G.jpg"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Ja0TJuGq7G.jpg",
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/foreign/2917716",
+      "source": ""
+    },
+    {
+      "title": "중동 영공 혼란으로 방콕, 푸껫, 치앙마이, 끄라비 비상 – 여행객 주의 필요",
+      "summary": "- 두바이, 도하, 아부다비 영공 혼란으로 에미레이트, 카타르 항공, 에티하드 항공의 태국-UAE-사우디-이스라엘 노선에 차질 발생.\n- 여행객들은 항공편 변경 및 지연에 대비해야 함.\n- 관련 항공편 이용 예정인 여행객은 사전에 항공사에 문의하여 최신 정보를 확인하는 것이 중요.",
+      "full_translated": "두바이, 도하, 아부다비 영공 혼란으로 방콕, 푸껫, 치앙마이, 끄라비에 비상이 걸렸습니다. 에미레이트 항공, 카타르 항공, 에티하드 항공의 태국, UAE, 사우디 아라비아, 이스라엘 간 노선에 차질이 발생하고 있습니다. 여행객들은 현재 무엇을 준비해야 할까요?",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역의 긴장으로 인해 항공편 운항에 차질이 발생, 태국을 방문하거나 경유하는 여행객에게 직접적인 영향을 미칠 수 있으므로 주의가 필요. 기존 뉴스에서 다룬 '발 묶인 관광객 지원' 이슈와는 별개로, '여행 자체의 불확실성'을 높이는 요인이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 푸껫, 치앙마이, 끄라비",
+        "price": null,
+        "location_google_map_query": "방콕, 푸껫, 치앙마이, 끄라비"
+      },
+      "references": [
+        {
+          "title": "Bangkok, Phuket, Chiang Mai And Krabi On Alert As Dubai, Doha And Abu Dhabi Airspace Turmoil Disrupts Emirates, Qatar Airways And Etihad Routes Between Thailand, UAE, Saudi Arabia And Israel – What Travelers Should Prepare For Now - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNa0xfaEswQndveHpBNUw5bk5mdlNsaWVWZC0zNndIZkxsOUxSTjBSMUpTck1FVHJhUUtVWWhTemVLMUZtNEtreUlrbk5TekgtbnpYMmJsR0FqcGtJOFFhQmxDbnFNNUVEOHh5Y3pkbloxckVQRC1aUmZWVEQ3RTNJUDdLYkFxeFBaSENINkZ2elJ6SC1mUTMyeks4MWNfN3RBWXNweWxOUm9uWXhQekF1RXdwejNGVXhoMDF0RVpISUljZV9CR1pNR3lGeEZYckpWbXVZcGlyUzRUX25TcGZKekFNWVdrR3lUMFBTQVV4Z25lbjhPOTNEcEp0VzlPV05pd0xaUTNOUkpsTVJlWEpLNkxnN3pvNVMzbXJJMkREY3U3dE1yVEJTY0hGd0RkOU50bncwMVpVRnk1X3F1VHJ6ZUt1OWRJQkZ6S3dUUDVnQWlHQmc?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "06:18",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "중동 분쟁으로 인한 태국 여행 취소: 독일 관광객의 안타까운 사연",
+      "summary": "- 중동 지역의 긴장으로 인해 영공이 폐쇄되어 태국 여행을 계획했던 독일 관광객이 여행을 취소하게 됨.\n- 갑작스러운 여행 취소로 인해 큰 실망감을 느낌.\n- 항공편 취소 및 여행 일정 변경에 대한 어려움을 토로.",
+      "full_translated": "중동 영공 폐쇄로 태국 여행이 취소된 독일 관광객, 안타까움 호소.\n[Khaosod English](https://www.khaosodenglish.com/travel/2024/10/19/german-tourist-heartbroken-after-middle-east-airspace-closure-cancels-thailand-trip/) 에 따르면, 중동 지역의 긴장 고조로 인한 갑작스러운 영공 폐쇄로 인해 태국으로의 여행을 계획했던 독일 관광객이 큰 실망감을 느끼며 여행을 취소해야 했습니다. 그는 항공편 취소와 여행 일정 변경의 어려움을 겪고 있으며, 이러한 상황에 대한 안타까움을 표현했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁으로 인한 항공편 취소는 여행객에게 직접적인 영향을 미치므로 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "German tourist heartbroken after Middle East airspace closure cancels Thailand trip - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LmtoYW9zb2RlbmdsaXNoLmNvbS90cmF2ZWwvMjAyNC8xMC8xOS9nZXJtYW4tdG91cmlzdC1oZWFydGJyb2tlbi1hZnRlci1taWRkbGUtZWFzdC1haXJzcGFjZS1jbG9zdXJlLWNhbmNlbHMtdGhhaWxhbmQtdHJpcC_SAQA?oc=5",
+          "source": "Khaosod English"
+        }
+      ],
+      "collected_at": "06:18",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국, 중동 불안정으로 인한 영향 분석 - Thailand Business News",
+      "summary": "- 중동 지역의 불안정이 태국에 미치는 영향 분석\n- 항공편 취소 및 관광객 감소 우려\n- 경제적 영향에 대한 분석 필요",
+      "full_translated": "태국 비즈니스 뉴스 - 중동 불안정이 태국에 미치는 영향",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 상황이 태국 관광 산업에 미치는 잠재적 영향에 대한 분석 기사. 관광객 감소 및 경제적 불확실성 증가 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East Turmoil Implications for Thailand - Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU3gyLUtDMTZBem9uRmppSzg2YVhYVjUwdjB1RFlBMUFnbU9rdzJMSTQ1RVBxSHlDbGFuWDJtWTIwYjRmaHFia05NcUhwYTdjUnF1RkpBdFBncThBYmNvSURZdU9PQkQtal9qcUkwQ19lazJjTVRpVU9JT1pFN3pHVFlzMnlSdGx5NDRCQWhNbk1WalBNbUlDN3lfVzRybUh4NEww?oc=5",
+          "source": "Thailand Business News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "트럼프, 호르무즈 해협 통과 유조선 보호 위해 해군 파견 검토",
+      "summary": "- 트럼프 대통령은 호르무즈 해협을 통과하는 유조선에 대한 보험 제공을 지시함.\n- 필요시 미국 해군이 유조선을 호위할 것이라고 밝힘.\n- 이는 이란의 해협 봉쇄 위협 및 유조선 공격에 대한 대응으로 해석됨.",
+      "full_translated": "도널드 트럼프 미국 대통령은 이란이 봉쇄를 위협하는 호르무즈 해협을 통과하는 유조선에 대한 보험을 제공하도록 정부 기관에 지시했으며, 필요하다면 해군을 파견하여 호위할 것이라고 3월 3일 밝혔습니다. 트럼프 대통령은 미국 국제개발금융공사(DFC)가 페르시아만을 통과하는 선박, 특히 에너지 관련 해상 운송에 대한 '보험 및 보증'을 제공하도록 지시했다고 밝혔습니다. 그는 Truth Social에 올린 글에서 이 서비스는 모든 해운사에 즉시 제공될 것이며, 미국 해군이 필요하다면 유조선을 호위할 것이라고 덧붙였습니다. 트럼프 대통령은 '필요하다면 미국 해군이 최대한 빨리 유조선을 호위하기 시작할 것'이라며, '무슨 일이 있어도 미국은 에너지가 세계로 자유롭게 흐르도록 보장할 것'이라고 강조했습니다. 이러한 발언은 이란이 호르무즈 해협을 봉쇄하고 해협을 통과하는 선박을 공격하겠다고 위협한 이후 나온 것입니다. 이미 여러 유조선이 공격을 받았으며, Skuld, Steamship Mutual, North Standard를 포함한 해상 보험 회사들은 고객에게 인근 해역에서의 전쟁 관련 손해에 대한 보장을 중단했다고 통보했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "중동 긴장 고조는 유가 상승 및 여행 불안감을 유발할 수 있으나, 태국 여행에 직접적인 영향은 아직 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์เล็งส่งกองทัพเรือ คุ้มกันเรือบรรทุกน้ำมันเดินทางผ่านช่องแคบฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/foreign/2917719",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6jhe4EN7cxQ.jpg"
+        }
+      ],
+      "collected_at": "06:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6jhe4EN7cxQ.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "필리핀, 대만 관광 시장에서 두각…태국, 한국, 일본과 함께 주요 여행지로 부상",
+      "summary": "- 필리핀이 대만 관광 시장에서 괄목할 만한 성장세를 보이며 주요 여행지로 자리매김하고 있습니다.\n- 2025년에는 6%의 성장률을 기록할 것으로 예상됩니다.\n- 태국, 한국, 일본 등과 함께 대만 관광객들에게 인기 있는 여행지로 떠오르고 있습니다.",
+      "full_translated": "필리핀은 중화권, 일본, 태국, 한국 등과 함께 대만 관광 시장을 장악하고 있으며, 2025년에는 괄목할 만한 6%의 성장을 기록하여 최고의 여행지로서의 입지를 굳히고 있습니다. - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "필리핀이 새로운 여행지로 부상하고 있다는 정보는 태국 여행에 직접적인 영향은 적지만, 여행 트렌드 변화를 알려주므로 흥미로운 로컬 뉴스로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Philippines Joins Greater China, Japan, Thailand, South Korea, and More in Dominating Taiwanese Tourism with a Remarkable Six Percent Increase in 2025, Cementing Its Role as a Top Destination - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPWDFYWXF6Z0pMaThueEh4VjhuS240Tnp4aVdPREpBUGg3c2FLLVI0QXNvZWF4YWNsRUtGWkNFQjlfY3JEanJXREdCWEdJcDdIWmpXMERaMVkzeWk0Y1Y4cU1Lc04zWmhGd0w5NkN6T2I5QnRlMUNlZTVyZGZtOTZkSUVsR1JDb1huT1hwMHRQU2toeVNxRGh2TW5mV1d5MnRzX3NHVDcxdGlRM01qMHQzOFdQbF9HVFZWTmNCdHRkeVVQelZMM2tidHVFd2NWTWVqLUJlZXZvaUU3MFBkX1daS243dTNjMzN0ZXF4Y19WWkRtUW9EYlpsSWxCYW1ZaEVBeU84eWxpSFpSZzV3TGhqZnJ5RDVrWnRSTngyRm8yY1BxcHZTdmliV0lNZ1FsN3RFendqRlNlUktyVXJTU3hZVzhmQWxaSXdIcU9CdnRqd1ZHSUc5T2c?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-04"
     }
   ]
