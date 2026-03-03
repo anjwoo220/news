@@ -11076,14 +11076,9 @@
       "summary": "- 태국 매사이 지역에서 중동 분쟁으로 인한 연료 수출 중단 우려가 확산되어 주민들이 연료를 사재기하고 있습니다.\n- 미얀마 차량들이 태국으로 넘어와 연료를 보급받고 있으며, 일부 주유소는 연료 부족으로 일시 폐쇄되었습니다.\n- 에너지부는 연료 수출 중단 명령을 내린 적이 없다고 밝혔으나, 중동 상황을 면밀히 주시하고 있다고 밝혔습니다.",
       "full_translated": "치앙라이 – 매사이 지역과 미얀마 타칠레익 주의 주민들은 중동 분쟁으로 인해 태국이 연료 수출을 중단할 수 있다는 우려가 확산된 후 3월 3일 연료를 얻기 위해 계속 줄을 섰다. 태국-미얀마 우정의 다리가 06시 30분에 개통된 후, 미얀마에 등록된 자동차와 오토바이들이 매사이로 건너와 현지 주유소에서 연료를 보급받았다. 많은 운전자들이 미얀마가 수출 중단될 경우 부족에 직면할 수 있다는 우려 때문에 차량과 용기를 채워 비축하는 모습이 목격되었다. 일부 주유소에서 대기하는 차량의 절반 이상이 미얀마 번호판을 달고 있어, 일부 태국 주민들도 공급 부족을 우려하여 줄에 합류했다. 매사이 외곽에 있는 두 개의 주유소는 어제 연료가 바닥난 후 일시적으로 문을 닫았고 이틀 안에 새로운 배송을 기다리고 있다. 시내 중심부에 있는 더 큰 주유소들은 여전히 충분한 공급량을 가지고 있다고 말했다. 치앙센 지역의 골든 트라이앵글 지역에서는 에너지부에서 수출 중단 명령을 내렸다는 보고에 따라 수출업자들이 처음에는 선적을 중단했다. 3월 3일, 개인 부두에 발이 묶인 유조선들은 에너지부의 해명 후 출발하기 시작했다. 에너지부의 고위 관계자는 연료 수출 금지 명령은 내려지지 않았다고 말했다. 에너지 사업부는 중동 상황을 면밀히 주시하고 있으며 잠재적인 영향을 평가하고 있다고 성명은 밝혔다. 필요한 경우 공식적인 결정이 발표될 것이라고 덧붙였다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "연료 부족 사태는 여행객의 이동에 불편을 초래할 수 있으며, 특히 국경 지역을 여행하는 경우 더욱 그렇습니다. 상황이 악화될 경우 여행 계획에 차질이 생길 수 있으므로 정보 제공 가치가 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "매사이",
-        "price": null,
-        "location_google_map_query": "매사이 주유소"
-      },
+      "event_info": "{'date': None, 'location': '매사이', 'price': None, 'location_google_map_query': '매사이 주유소'}",
       "references": [
         {
           "title": "Fuel rush grips Mae Sai amid export fears linked to Middle East conflict",
@@ -11092,23 +11087,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/6999.jpg"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/6999.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.khaosodenglish.com/featured/2026/03/03/fuel-rush-grips-mae-sai-amid-export-fears-linked-to-middle-east-conflict/",
+      "source": ""
     },
     {
       "title": "중동 영공 폐쇄로 태국 여행 취소된 독일 관광객, 안타까움 호소",
       "summary": "- 중동 지역의 긴장으로 인해 영공이 폐쇄되어 태국 여행이 취소된 독일 관광객의 사연이 보도됨.\n- 해당 관광객은 항공편 취소로 인해 큰 실망감을 느끼고 있다고 밝힘.\n- 태국 정부는 발 묶인 관광객들을 위한 지원 대책을 발표한 바 있음.",
       "full_translated": "중동 영공 폐쇄로 태국 여행 취소된 독일 관광객, 안타까움 호소 Khaosod English",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "최근 중동 분쟁으로 인해 항공편이 취소되는 사례가 발생하고 있으며, 이는 여행객들에게 불편을 초래할 수 있음. 기존 뉴스에서 다룬 '발 묶인 관광객 지원'과 관련하여 개인의 사례를 보여주는 내용이므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "German tourist heartbroken after Middle East airspace closure cancels Thailand trip - Khaosod English",
@@ -11117,23 +11109,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVHpxYXltTERkcDRpYjdjNUdadVc2cTBNbTBrUDNjS1JJTkpYekFzV0hFdkJ4N01yN1ZwSm1Xb3FyT1JDQWp4Y3BXdjZ1M0RXVFVXeEl2YTZQOF9WQzZvUkNKOUVKc29HVXhwd2RNYXJUdUlaZ1NwVjNYRGZneVU4akVFbEkxNW9CRkRzNXFRb2NuV3RFcTdjaFB3RndrOUNlLWxZZjFkNndla0ZIT2JIMFd6Q2dTRFloOThHNFhZQ1E1WHRqQk9MTmpJa9IB0AFBVV95cUxOOGFTTXhfSWdWck81N3N1c1VJeVdobXRlVmlNa25fZVFBeU1xMTdVVVpIeU9FcFRsQi04Tm9yRThsVDQ1UGRwMXlraVNqeHZrYzhTUmdJQVZ4alVOTkhKcV96dHJ5eTctNHh1QVF2LWFOWWNpaVNBSjN1STJoU1BxLWtYQ25fcUhBYjRaZTBJX2pwNk02djVMZldUMnY4bjdENUpFWGd5Y1lpRGMyMnlEOVk3ZUltYXNhc2JKTnQ3a2pDNjlVVjJIbnlxR2RkeWts?oc=5",
+      "source": ""
     },
     {
       "title": "트럼프, 이란의 주변국 공격에 '충격'... '악의 수준 보여줘'",
       "summary": "- 트럼프 대통령은 이란이 주변국을 공격한 것에 대해 놀라움을 표하며 이는 '악의 수준'을 보여주는 것이라고 언급함.\n- 그는 이란이 오랫동안 중립적인 관계를 유지해온 국가를 공격한 것에 대해 의아함을 드러냄.\n- 트럼프는 이러한 이란의 행동이 해당 국가들이 이란에 맞서 싸우도록 만들었다고 덧붙임.",
       "full_translated": "도널드 트럼프 미국 대통령은 이란이 미국과 이스라엘의 공격에 대한 보복으로 주변국을 공격한 것에 대해 놀라움을 표하며, 이는 우리가 직면하고 있는 악의 수준을 보여주는 것이라고 밝혔습니다. 2069년 3월 3일, 트럼프 대통령은 백악관에서 프리드리히 메르츠 독일 총리와 만난 자리에서 이란의 공격 대상이 된 국가들이 이번 보복에 놀랐을 것이라고 생각한다고 말했습니다. 그는 또한 테헤란 정부가 주변국을 공격하는 것을 보고 놀랐다고 덧붙였습니다.\n\n트럼프 대통령은 \"그들이 공격하는 국가들은... 아시다시피, 우리는 그들을 중립적이라고 부를 수 있을까요? 그들은 오랫동안 함께 해왔습니다... 저는 그들이 놀랐을 것이라고 생각합니다. 저 또한 놀랐습니다. 그리고 지금 그 모든 국가들이 이란에 맞서 싸우고 있으며, 매우 격렬한 싸움을 벌이고 있습니다.\"라고 말했습니다.\n\n트럼프 대통령은 이란의 보복 공격이 \"우리가 직면하고 있는 악의 수준을 보여준다\"고 덧붙였습니다. 그는 \"그들은 심지어 최소한 어느 정도 우호적이었고 이전에는 아무런 문제가 없었던 사람들을 공격하고, 민간 지역, 호텔, 주거용 건물을 공격합니다. 반면 우리는 훨씬 더 적절한 지점을 공격하기로 선택했고, 그들을 매우 심하게 공격하고 있습니다.\"라고 말했습니다.\n\n트럼프 대통령의 발언은 지난 월요일 CNN의 제이크 태퍼와의 인터뷰에서 \"가장 큰 놀라움\"은 이란이 중동 지역의 아랍 국가들을 공격했다는 그의 발언과 일치합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에 직접적인 영향은 없으나, 중동 지역의 긴장 고조는 잠재적으로 항공편 등에 영향을 줄 수 있다는 점에서 낮은 점수 부여. 현재 태국에 발이 묶인 관광객 지원 관련 뉴스가 이미 게시되었으므로, 이 기사는 업데이트로 보기 어려움.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ประหลาดใจ อิหร่านโจมตีประเทศเพื่อนบ้าน ชี้แสดงให้เห็นความชั่วร้าย",
@@ -11142,23 +11131,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6B4sffInOTB.jpg"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6B4sffInOTB.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/foreign/2917710",
+      "source": ""
     },
     {
       "title": "트럼프, 이스라엘의 이란 공격 압력 없었다고 확인",
       "summary": "- 트럼프 대통령은 이란 군사 시설 파괴를 칭찬하며 미국의 강력한 군사력을 강조했습니다.\n- 그는 이스라엘이 이란을 공격하도록 압력을 넣지 않았으며, 오히려 자신이 이스라엘을 압박했을 수 있다고 주장했습니다.\n- 트럼프는 이란 지도부를 겨냥한 추가 공격이 있을 것이며, 그 영향은 심각할 것이라고 덧붙였습니다.",
       "full_translated": "도널드 트럼프 대통령은 이란 군사 시설 파괴를 칭찬하며, 미국이 이스라엘로부터 이란 공격 압력을 받지 않았다고 밝혔습니다. 그는 자신이 오히려 이스라엘을 압박했을 수 있다고 말했습니다. 트럼프 대통령은 독일 총리와의 회담에서 이란 문제를 논의하며, 이란의 해군, 공군, 방공 시스템이 파괴되었다고 주장했습니다. 또한 이란 지도부를 겨냥한 새로운 공격이 있을 것이며, 그 영향은 심각할 것이라고 덧붙였습니다. 기자가 미국이 중동 전쟁에 휘말리는지에 대해 질문하자, 트럼프는 이스라엘이 먼저 공격할 계획이었을 것이라며, 자신이 이스라엘을 압박했을 가능성을 시사했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "현재 태국 여행에 직접적인 영향은 없으나, 중동 지역 불안정이 장기화될 경우 잠재적 위험 요소가 될 수 있음. 정치적 상황에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ยืนยัน ไม่ได้ถูกอิสราเอลกดดันให้โจมตีอิหร่าน",
@@ -11167,23 +11153,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWYNlmnwS9qHma.jpg"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWYNlmnwS9qHma.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/foreign/2917707",
+      "source": ""
     },
     {
       "title": "태국 총리, 마카 부차 기념일에 사원 방문",
       "summary": "- 아누틴 총리가 마카 부차 기념일에 부인과 함께 사원을 방문했습니다.\n- 시민들이 총리와 사진을 찍고 외모를 칭찬했습니다.\n- 총리는 간소한 복장으로 행사에 참여했습니다.",
       "full_translated": "아누틴 총리와 그의 부인 타논 니라밋이 2569년 마카 부차 기념일을 맞아 보원니웻위하라 사원에서 촛불 행렬에 참여했습니다. 3월 3일 20시 20분, 아누틴 차른비라쿨 총리 겸 내무부 장관은 그의 부인인 타논 니라밋 여사, 아르싯 삼판타랏 내무부 차관과 함께 2569년 마카 부차 기념일을 맞아 보원니웻위하라 사원 주변에서 촛불 행렬에 참여했습니다. 아누틴 총리는 간소한 파란색 폴로 셔츠를 입고 행렬에 참여한 시민들과 함께 걸었으며, 일부 시민들은 아누틴 총리와 사진을 찍고 '실물이 훨씬 잘생겼다'고 칭찬했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국의 문화 행사 참여 소식으로, 관광객에게 흥미로운 정보가 될 수 있지만, 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2026-03-03",
-        "location": "Wat Bowonniwet Vihara, Bangkok",
-        "price": "무료",
-        "location_google_map_query": "Wat Bowonniwet Vihara, Bangkok"
-      },
+      "event_info": "{'date': '2026-03-03', 'location': 'Wat Bowonniwet Vihara, Bangkok', 'price': '무료', 'location_google_map_query': 'Wat Bowonniwet Vihara, Bangkok'}",
       "references": [
         {
           "title": "“อนุทิน” ควง “จ๋า” เวียนเทียนวันมาฆบูชา ประชาชนขอถ่ายรูป ชมหล่อเหมือนเด็ก",
@@ -11192,8 +11175,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVKTtSyzJMbQVF.jpg"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVKTtSyzJMbQVF.jpg",
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/politic/2917691",
+      "source": ""
+    },
+    {
+      "title": "푸껫, 중동 위기로 항공편 중단…관광객 5,000명 발 묶여",
+      "summary": "- 중동 지역 위기로 푸껫에 발이 묶인 관광객 5,000명 발생.\n- 항공편 운항 중단으로 인한 불편 가중.\n- 관련 당국의 지원 및 대체 항공편 마련 필요.",
+      "full_translated": "푸껫에 5,000명의 관광객이 중동 위기로 인해 항공편이 중단되면서 발이 묶였습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "항공편 중단으로 다수 관광객에게 직접적인 영향을 미치므로 높은 점수 부여. 기존 뉴스에서 다룬 '발 묶인 관광객 지원' 관련 상황 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫",
+        "price": null,
+        "location_google_map_query": "푸껫"
+      },
+      "references": [
+        {
+          "title": "5,000 Tourists Stranded in Phuket as Middle East Crisis Halts Flights - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1UwS3hnNkUyYTZ6MUM0MFVvQVJVTTA5QXVZTXVIMTdaVkM1NmtETnRtWmZlUno5dlF1emlVdVl1WXpJbVB3RzA0U2ZFYmtLTjV3Mk1CVGhCaTNiU2RCb2FVSi05R1U1WGZPcWZncWhkQ2Z5d2pfaHdKV2FpTW9EcTJRRUcxMzJ0QlNmNFo0emJKVF9hXzJVQzI4blU2ZEU?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "나콘파톰 2026년 루앙포 왓 라이 킹 경배 축제, 문화, 종교, 영성 기념하며 태국 관광 성장 촉진",
+      "summary": "- 나콘파톰에서 열리는 루앙포 왓 라이 킹 경배 축제가 2026년에 개최됩니다.\n- 이 축제는 문화, 종교, 영성을 기념하며 태국 관광 성장에 기여할 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "나콘파톰 2026년 루앙포 왓 라이 킹 경배 축제는 문화, 종교, 영성을 기념하며 태국 관광 성장을 촉진합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국에서 열리는 문화 축제 정보로, 여행객들에게 흥미로운 볼거리를 제공할 수 있으나, 2026년 행사로 당장 필요한 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "나콘파톰",
+        "price": "미정",
+        "location_google_map_query": "나콘파톰 루앙포 왓 라이 킹"
+      },
+      "references": [
+        {
+          "title": "Luang Pho Wat Rai Khing Worship Festival 2026 in Nakhon Pathom Celebrates Culture, Religion and Spirituality, Boosting Tourism Growth in Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVGRUejFGd1plVGNKWjdJaWdBZy0xd3hIcFBwMFpIQ2I0RmgzMExETGJZLU90ZnhpYVYyUTlIbnBoM3k5T2hQVUFYYXFzYjhwUkZYWnNKb2JWa0RDa25GRHNNLXJEamNPb1ZFRTF4SVZxUjdwU1pPbjdvT0NNZnFDci01YmJaVzhzRHNtSWJlekNLVGoxZkZPWEtiODV0cXFjUTdaZE1fVk5mQVVHRGdhTkNBMnZoTXdKTG1NMnNOQ0pPMzZvM0NDZ1gxT3c4dEpUZjNHQ3NzZkJ2Y3dVMXVGZS1QOXh0UVk5UURVbkw0amtOVlVyWHdWSUtld29BWUpuUF9ldmNZSU41Q1NaZVYzX2lINDlEX1NxdVJ4Uw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "마스터카드와 태국 관광청, AI 기반 'Amazing Thailand' 앱 출시 - 방콕 포스트",
+      "summary": "- 마스터카드와 태국 관광청이 협력하여 AI 기반의 'Amazing Thailand' 앱을 출시했습니다.\n- 이 앱은 여행객들에게 맞춤형 정보와 편리한 서비스를 제공하여 태국 여행 경험을 향상시키는 것을 목표로 합니다.\n- 사용자 친화적인 인터페이스와 AI 기술을 통해 여행 계획 및 예약 과정을 간소화합니다.",
+      "full_translated": "마스터카드와 태국 관광청이 AI 기반 'Amazing Thailand' 앱을 출시했습니다. 방콕 포스트",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객들에게 유용한 정보와 서비스를 제공하는 앱 출시 소식은 여행 편의성을 높일 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Mastercard and TAT Launch AI-Powered \"Amazing Thailand\" App - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONHBHcGc2d0pFZmNFQXg1OThWd2NIdlA5bEhYTThXMnNBS05yY0VMRVpybGhYQ21yY1JXeDNLOWhGVFRuV1dqYmNUN2dmVHltRkEwb2JybDhuV2xPeHcwa0gzZUJfeFdONDdVLUxVcGhRSFpRQTZjS2U0bEF6eFZqMlliZmRaTEM2ekIwRVdlTUE3dUtqSE1WZF9WRWVRdVhKUHRMQUdTdw?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 공공 및 민간 부문, 지속 가능한 관광 발전 및 해양 생태계 보호를 위해 협력",
+      "summary": "- 태국 공공 및 민간 부문이 지속 가능한 관광 발전을 위해 협력합니다.\n- 해양 생태계 보호를 위한 노력도 함께 진행됩니다.\n- Thailand Business News에서 해당 소식을 보도했습니다.",
+      "full_translated": "태국 공공 및 민간 부문이 지속 가능한 관광 발전 및 해양 생태계 보호를 위해 협력합니다. Thailand Business News 보도.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 지속 가능한 관광 노력은 장기적으로 여행 경험에 긍정적인 영향을 미칠 수 있으나, 현재 여행객에게 직접적인 영향을 주는 정보는 아니므로 4점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand's Public and Private Sectors Unite to Advance Sustainable Tourism and Protect Marine Ecosystems - Thailand Business News",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVXIySENKeGcwOEZQdHNmNU5TbFhUWWNPajhSTEMwVXFMQ28tYk12Mjd5RkQ3ZEx5VkdkM1g2RGhsYU1yWDNBd3drYW9HbzRZbEpKMl82STJLY3pfRnJwU0FhNWV6MWlWblo5V01ubWsxTzMwUTBiWi14OGtSVkFsc1pVX0lXR2IxaXhXWXBIOHVNdXQyRjdtQUF4dDFFTERfTU9KbEotVEpMYlc0VzFCMlhDYkVUU3NKc1oxclZ2REQ1U2lKaXgzcFVCSjFGSWNaYW9vbTQ5RUVIWmo3RFBvYWh0RS0xSGtrVmpPZG5za2w2SVU?oc=5",
+          "source": "Thailand Business News",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "현대자동차, 동남아시아 시장 공략 강화: 유콘톤 위셋코신 아세안 사장 임명",
+      "summary": "- 현대자동차 아시아태평양, 유콘톤 위셋코신을 아세안 사장으로 임명.\n- 인도네시아, 태국, 필리핀, 말레이시아, 베트남 등 아세안 지역 사업 총괄.\n- 20년 이상 자동차 및 소비재 산업 경험을 바탕으로 아세안 시장 성장 주도.",
+      "full_translated": "현대자동차 아시아태평양은 유콘톤 위셋코신을 아세안 사장으로 임명했다고 발표했습니다. 그녀는 인도네시아, 태국, 필리핀, 말레이시아, 베트남을 포함한 아세안 지역의 현대자동차 운영을 총괄하여 지역 전반의 통합과 성과 향상을 목표로 합니다. 3월 2일부터 임기가 시작된 유콘톤 위셋코신 사장은 현대자동차 아시아태평양 사장인 돈 로마노에게 직접 보고합니다. 그녀는 아세안 지역 본부의 방향과 전략을 지역 운영에 통합하고, 모든 국가에서 협력과 조화를 이루어 장기적으로 지속 가능한 성장을 추진하는 책임을 맡게 됩니다. 20년 이상 자동차 및 소비재 산업에서 리더십을 발휘해온 유콘톤 위셋코신 사장은 Ford에서 아세안 시장 및 아시아태평양 유통 시장 사장을 역임하며 여러 국가에서 사업 확장을 주도하고 경쟁이 치열한 시장에서 지속적인 성장을 이끌었습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없지만, 현대자동차의 동남아시아 시장 전략 변화는 장기적으로 관광객 이동 편의성 증진에 기여할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ฮุนได มอเตอร์ เอเชียแปซิฟิก แต่งตั้ง ยุคนธร วิเศษโกสิน ดำรงตำแหน่งประธานอาเซียน",
+          "url": "https://www.thairath.co.th/news/auto/news/2917581",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZiEyiE2bfNT29.jpg"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZiEyiE2bfNT29.jpg",
       "date": "2026-03-04"
     }
   ]
