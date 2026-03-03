@@ -11406,14 +11406,9 @@
       "summary": "- 태국이 12월에 Tomorrowland를 개최하며 동남아시아 문화 및 엔터테인먼트 허브로 발돋움할 준비를 하고 있습니다.\n- Tomorrowland는 기록적인 페스티벌 경험을 선보일 예정입니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국은 Tomorrowland의 기록적인 페스티벌 경험 데뷔와 함께 동남아시아의 문화 및 엔터테인먼트 허브가 될 준비를 마쳤습니다.\nTravel And Tour World",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대형 축제 개최 정보로, 여행객들의 관심과 방문을 유도할 수 있음. 12월 개최 예정이므로 미리 정보를 제공하는 것이 유용.",
-      "event_info": {
-        "date": "2024-12-01",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "Tomorrowland Thailand"
-      },
+      "event_info": "{'date': '2024-12-01', 'location': '태국', 'price': '미정', 'location_google_map_query': 'Tomorrowland Thailand'}",
       "references": [
         {
           "title": "Thailand Poised to Become Southeast Asia’s Cultural and Entertainment Hub as Tomorrowland Debuts with Record-Breaking Festival Experience This December - Travel And Tour World",
@@ -11422,23 +11417,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOTJEbTd6ZnVpdkh3VlFQYXhoZXhPY29YZ1ZvTjZKOHJYT1hObGJ5RF9YMjd6YzBPZEZGSDd5VU5ybkZ6RFRhX1NFQ285X01SekRYeVRzQzIybGFNclVETlEyVTdCQkJpWnNKV3YtR2VwWlB2T1N0U210ZzlIVmhSZFJidW9ocC14M1JsWDFGcGtBbjlqc1ZHMGpBZmRrVzVCdU1VNy1LSUhHb2pCRWRuTlpwWmx5UWdqQW5rMVExa1hvemg1bEY5elZ4aWhudGxPNWdOR3UxT3NHYmRXc2Y1RDNXNjJWX3hXS1B5MEx2QXBLNENZQkozSjU3bFRIMUNyampRYi15a2VzMXhSTWVrVkpBNmtZRUhhSk15VERnNVRIYmw4alE?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 중동 분쟁으로 여행 취소 속출...독일 관광객 안타까움 호소",
       "summary": "- 중동 지역 영공 폐쇄로 인해 태국 여행을 취소한 독일 관광객의 사례 발생\n- 항공편 취소로 인한 여행 계획 차질 및 실망감 토로\n- 불안정한 국제 정세가 태국 관광 산업에 미치는 영향 우려",
       "full_translated": "중동 영공 폐쇄로 태국 여행을 취소한 독일 관광객이 안타까움을 호소했습니다.  불안정한 국제 정세가 태국 관광 산업에 영향을 미칠 수 있다는 우려가 제기되고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 취소 및 여행 제한이 발생하고 있어 여행객에게 직접적인 영향을 미침. 독일 관광객의 사례는 이러한 상황을 보여줌.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "German tourist heartbroken after Middle East airspace closure cancels Thailand trip - Khaosod English",
@@ -11447,23 +11439,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmhRR3dYWTdZYkxjYmFTTm1XYVRlRXRBaUlHTFJHdF9TTFlGUmFCdk1wa0tDcHF6UTVVSjlELWt5MUtUTExzdHVVRHd0NDl3ZmViNmJYWG1vSXdrYU1LODIwdnNocG5TYmVMZnV5dVFudEVMWnV5OVQwcW9fWEdSSmQ0V2ZFaWt2WVhBTnNYYS03aElZeGkyNXZmTE03VmhLLVpMSTg0RDBRb25fbkxPRnZWd2R6MFlfNDF5MkdHRHEyWUN0RU1vdTlsYmRrYmFCOXk5WVd3UWJjckMwbVE?oc=5",
+      "source": ""
     },
     {
       "title": "중동 지역 항공편 취소",
       "summary": "- 중동 지역의 항공편 취소 소식입니다.\n- 자세한 내용은 기사를 참조하십시오.\n- 여행객들은 항공편 운항 여부를 확인해야 합니다.",
       "full_translated": "Middle Eastern flight cancellations&nbsp;&nbsp;Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 지역 항공편 취소는 태국 여행에 영향을 줄 수 있으므로 정보 제공 필요. 항공편 이용객들의 불편이 예상되므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle Eastern flight cancellations - Travel And Tour World",
@@ -11472,23 +11461,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXVYNDJTNktSb3I3SXFhQXZlTWpFYUdlZkxObU9XVW5keEtfZm1FNXVMMkZ3MU8yaEFBWTZmZV9xV1VlQnRXTTF6N0otTjZuRmNCUU9zQlU5NGV2ZmRMV1dxZWVXdXRyZWE0V0xHMnNCTVlIckFmUnJvbzBNMmNMOVg4T0ZRTG16aUJMWUtKVmk2dw?oc=5",
+      "source": ""
     },
     {
       "title": "이라크, 호르무즈 해협 폐쇄 후 루마일라 유전 생산 중단",
       "summary": "- 이란의 호르무즈 해협 폐쇄로 이라크 루마일라 유전 생산 중단.\n- 이라크는 석유 수출 불가로 저장 용량 한계에 직면.\n- BP와 이라크 바스라 석유 회사가 공동 운영하는 루마일라 유전은 이라크 전체 생산량의 1/3 차지.",
       "full_translated": "이라크는 이란이 호르무즈 해협을 폐쇄한 후 루마일라 유전에서 원유 생산을 중단했습니다. 이로 인해 상품 선박이 통과할 수 없게 되어 원유가 저장고에 거의 가득 찼습니다. 3월 3일 외신은 이라크 석유부의 공식 문서와 소식통을 인용하여 이란 정부가 루마일라 유전의 시추 시설을 폐쇄했다고 보도했습니다. 이란의 호르무즈 해협 폐쇄로 인해 이라크는 석유를 수출할 수 없게 되었고, 비축된 석유량이 위기 수준에 도달했기 때문입니다. 루마일라 유전 운영 책임자는 화요일 남부 지역의 석유 생산 및 펌핑을 100% 감축하라고 지시했으며, 이는 같은 날 오후부터 효력이 발생했습니다. 루마일라 유전은 BP와 이라크 정부의 바스라 석유 회사가 공동으로 운영하며, 이라크 전체 생산량의 거의 1/3을 차지합니다. 월요일 이란 군대는 세계 석유 수송량의 1/5 이상이 통과하는 호르무즈 해협을 폐쇄하고, 미국과 이스라엘이 지난 토요일부터 자신들을 공격하여 오랫동안 통치해 온 최고 지도자와 여러 고위 지도자들이 사망한 것에 대한 보복으로 해협을 통과하는 모든 선박을 불태우겠다고 위협했습니다. 이라크 북부 쿠르디스탄 지역의 석유 생산도 중동 전쟁의 영향을 받고 있습니다. 현지 석유 회사 소식통에 따르면 대부분의 외국 기업이 예방 조치로 '생산을 일시적으로 중단'했습니다. 참고로 쿠르디스탄 지역은 미국이 주도하는 연합군의 본거지이며, 수도인 '에르빌'에는 대규모 미국 총영사관 건물이 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 불안정으로 인한 석유 생산 차질은 연료 가격 상승 및 운송 문제로 이어져 여행에 간접적인 영향을 줄 수 있음. 태국 내 연료 사재기 현상과 연관될 가능성 존재.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิรักระงับผลิตน้ำมัน ที่แหล่งขุดเจาะน้ำมันดิบ “รูไมลา” หลังช่องแคบฮอร์มุซถูกปิด",
@@ -11497,23 +11483,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6THlBvrHGkz.jpg"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6THlBvrHGkz.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/foreign/2917714",
+      "source": ""
     },
     {
       "title": "태국 에코 관광 성장",
       "summary": "- 태국 에코 관광 시장 성장세\n- 여행 및 관광 산업 발전 기회\n- 지속 가능한 관광 중요성 부각",
       "full_translated": "태국 에코 관광 성장&nbsp;&nbsp;Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "에코 관광은 여행객에게 선택지가 될 수 있으나, 직접적인 영향은 낮음",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand eco-tourism growth - Travel And Tour World",
@@ -11522,7 +11505,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk1wdGxqZmZ6UXJWY2xZTngyMFVaZTBWOEhjV2thcmhOSDJqLUNzU3RoQW0wTXhtX3BwRUVscjViLUdRS0xsNWVIbEY3bnAyVmU3NHUzcE0xMUxXQVdId2JPcW1Jb29nWWU2bEE0dE9YYzRtOWdGRjhPQXl2c1Rra2dfWVRfVm8?oc=5",
+      "source": ""
+    },
+    {
+      "title": "미국, 이란 내 목표 1,700곳 공격…사망자 787명으로 증가",
+      "summary": "- 미국, 이란 내 목표 지점 1,700곳 이상 공격했다고 발표\n- 이란 사망자 787명으로 증가, 여학생 176명 포함\n- 이란, 병원 9곳이 공격 목표였다고 주장. 미국과 이스라엘은 부인",
+      "full_translated": "미국 군대는 이란 내 목표물을 1,700곳 이상 공격했다고 밝혔으며, 이란의 사망자 수는 787명으로 증가했습니다. 여기에는 여학생 176명이 포함됩니다. 2569년 3월 3일, 미국 중부 사령부(CENTCOM)는 '에픽 퓨리' 작전에 대한 자세한 정보를 제공하기 위해 주요 정보 요약 문서를 발표했습니다. 보고서에 따르면 미국 군대는 지난 일요일부터 이란 내 약 700개의 목표물을 추가로 공격하여 공격 대상이 최소 1,700개로 증가했습니다. 또한 새로운 폭격기와 전투기가 이번 작전에 추가되었습니다. 공격 대상에는 미사일 발사 기지, 군함, 잠수함 및 지휘 센터가 포함됩니다. CENTCOM은 '가장 즉각적인 위협 목표'를 우선시한다고 밝혔습니다. 이란 적신월사협회는 미국과 이스라엘의 공격으로 며칠 동안 787명이 사망했다고 밝혔으며, 여기에는 지난 토요일 미납 시에서 여학생들의 학교가 공격받은 후 사망한 176명의 여학생이 포함됩니다. 이란 의회 보건위원회의 파테메 모함마드베기 의원은 월요일 이란의 9개 병원이 공격 목표였다고 밝혔으며, 이스라엘과 미국이 의도적으로 의료 시설을 표적으로 삼았다고 비난했습니다. 이스라엘 방위군(IDF)은 테헤란의 간디 병원 공격에 대한 주장에 대해 해당 공격은 '병원을 목표로 하지 않았다'고 반박했습니다. CENTCOM은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 분쟁 심화는 항공편 운항에 영향을 줄 수 있으며, 잠재적으로 여행객의 이동에 불편을 초래할 수 있음. 다만, 태국 내 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สหรัฐฯ โจมตีเป้าหมายแล้ว 1,700 จุดใน 3 วัน อิหร่านดับพุ่ง 787 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2917712",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX51BQvl6GS1g.jpg"
+        }
+      ],
+      "collected_at": "04:26",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX51BQvl6GS1g.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "Thailand: How the “Save Maya, Save Pakarang” Initiative is Redefining Sustainable Luxury and Marine Stewardship in Krabi",
+      "summary": "- 태국 크라비에서 진행 중인 'Save Maya, Save Pakarang' 이니셔티브는 지속 가능한 럭셔리 관광과 해양 보호의 새로운 기준을 제시합니다.\n- 이 이니셔티브는 마야 베이와 파카랑 지역의 환경 보존을 목표로 합니다.\n- 여행객들은 이 프로그램을 통해 환경을 보호하면서 고급스러운 여행을 즐길 수 있습니다.",
+      "full_translated": "태국 크라비에서 진행 중인 'Save Maya, Save Pakarang' 이니셔티브는 지속 가능한 럭셔리 관광과 해양 보호의 새로운 기준을 제시하고 있습니다. 이 프로그램은 마야 베이와 파카랑 지역의 환경을 보존하면서 고급스러운 여행 경험을 제공하는 것을 목표로 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "크라비 지역의 지속 가능한 관광에 대한 정보는 여행객에게 유용할 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "크라비, 마야 베이, 파카랑",
+        "price": null,
+        "location_google_map_query": "마야 베이"
+      },
+      "references": [
+        {
+          "title": "Thailand: How the “Save Maya, Save Pakarang” Initiative is Redefining Sustainable Luxury and Marine Stewardship in Krabi - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPcDFiRW5vOXpzNWRja19FM05tZERvN1h6cmxnYmxDRTZQYUlqb3J4c0ZEN29EdXU0c3B1eVBtbnY5R3JzNFo1TVFPMzNFRUxqWnRjV2NmenJBRDN4eHhKZG1ZQ3g3Skk3dXUzeEpCTFFoNjk2Z3U3TGZBRV9COUxVZW4xVXAxQUtPNTdadU9BVDBfd2NYc3V4RVFLZVd5cVhCcUswMm9ZMi12Y21IVnlnVE5tTTdIcGpGMUJsRDkySGlaTElZMF9RUDlLNXNvdi1qVUNDemwxOFBzZDlsSnJ3NDgwYnVjSVNwcnFOd092X194UWZrYWhwcw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 관광 활성화: 중국, 말레이시아, 러시아, 인도, 한국 주도; 타이항공, 에어아시아, 에미레이트 노선 확대",
+      "summary": "- 중국, 말레이시아, 러시아, 인도, 한국 관광객 증가로 태국 관광 호황.\n- 타이항공, 에어아시아, 에미레이트 항공, 파타야 노선 확장.\n- 힐튼, 메리어트 등 호텔 체인도 파타야에서 번성.",
+      "full_translated": "중국, 말레이시아, 러시아, 인도, 한국이 타이항공, 에어아시아, 에미레이트 항공의 노선 확대를 주도하면서 관광 붐을 일으키고 있으며, 힐튼과 메리어트는 파타야에서 번성하고 있습니다. 왜 세계적인 불확실성이 태국의 해변 낙원의 속도를 늦추지 못하는가?",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업의 긍정적 변화를 보여주며, 특히 주요 국가 관광객 증가 및 항공 노선 확대는 여행객 편의 증진에 기여.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "China, Malaysia, Russia, India and South Korea Drive Tourism Boom as Thai Airways, AirAsia and Emirates Boost Routes While Hilton and Marriott Thrive in Pattaya — Why Global Uncertainty Isn’t Slowing Thailand’s Beach Paradise - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQa3ROY3FONzRlTllpM2VIMmVsd0VCRFh1QVI1X1pyb05FT01VX2NwWXg2WjJ2NlhSSDNWR1VCWmIxU3k3X0RvZFF1WHQ2Skxsb25DMU1IMG9jekFXMGhSUG5BRW5HZ18tbkM1NGhpMGdvb3BCbGZMcjdpYlU5UDlYaW9GQ0RoYURCT2JqOWVOeEN5ckxFbjBDRDNqb1g5dHZJZHZWaUZnS0JlZlZCdEJzUmRfS0FZMVlxRy1DLU5SU0pZOTN4WTdwUDFCSVJjUGx3dVZXcHgzWXJtZF8zaHBSR0hPQ05QT0QxZmhLeG9PQ0VVM3ktem00RnNBbmwtRWM4SGY5MXd6aGtRcFBsT1JLelNVbXZPb0hLZVBpSl9KM2h0NV85eWplZWNEQ01RY3R6OGdYak5XdE9sVTFWelRRNEkwVWd2MVVwZkxoV2VWZllFQQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-04"
     }
