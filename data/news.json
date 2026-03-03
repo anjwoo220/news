@@ -11582,14 +11582,9 @@
       "summary": "- 중동 지역 영공 폐쇄로 인해 태국에 발이 묶인 관광객에게 비자 면제 조치 시행.\n- 정부는 이들에게 필요한 지원을 제공할 예정.\n- 자세한 지원 내용 및 절차는 추후 발표될 예정.",
       "full_translated": "중동 영공 폐쇄로 인해 항공편 운항이 마비되면서 발이 묶인 관광객들에게 비자 면제가 허용되었습니다. - 네이션 태국",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 영공 폐쇄로 인한 항공편 결항으로 태국에 발이 묶인 관광객들에게 직접적인 영향을 미치므로 높은 점수 부여. 비자 면제 및 지원은 여행객에게 중요한 정보.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "Stranded Tourists Granted Visa Amnesty as Middle East Airspace Closure Paralyses Flights - Nation Thailand",
@@ -11598,23 +11593,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXN19aVVFaczNnbVlEUlR4M2t0TVFmS1JJREJlVUpWa0Uza0V1SzREajhPMGVRWlM0RENFVWk5VlBBaEtGcTRncVdwMDYxWmpyMHU3LUFRX0hOSjcyRFVDOElB?oc=5",
+      "source": ""
     },
     {
       "title": "멕시코 마약왕 '엘 멘초' 사망, 호화 장례식 거행",
       "summary": "- 호화로운 장례식이 과달라하라 인근에서 치러졌으며, 경비 강화 및 폭력 사태 방지 조치.",
       "full_translated": "멕시코 마약왕 '엘 멘초'의 장례식이 그의 가족들에 의해 치러졌습니다. 그는 금으로 된 관에 안치되었으며, 많은 조문객과 엄중한 경비 속에서 매장되었습니다. 외신에 따르면, 지난 2월 말 멕시코 군에 의해 사살된 악명 높은 마약왕 네메시오 오세게라 세르반테스, 즉 '엘 멘초'의 장례식이 지난 월요일(2069년 3월 2일)에 치러졌습니다. 엘 멘초는 금관에 안치되었습니다. 59세의 나이로 사망한 엘 멘초는 멕시코에서 가장 영향력 있는 범죄 조직 중 하나인 '할리스코 신세대 카르텔(CJNG)'의 창립자였습니다. 그는 멕시코 당국이 가장 필요로 하는 인물이었으며, 미국은 그에게 1,500만 달러의 현상금을 걸었습니다. 엘 멘초의 사망은 그의 조직원들이 폭력 사태를 일으키는 계기가 되었습니다. 마약 카르텔 조직원들은 멕시코 전역 20개 주에서 차량을 불태우고 도로를 봉쇄했습니다. 국가 방위군(National Guard)은 엘 멘초의 장례식 동안 새로운 폭력 사태가 발생하는 것을 방지하기 위해 엄중한 경계를 펼쳤습니다. 장례식은 CJNG의 주요 거점인 할리스코 주의 과달라하라 인근에서 열렸습니다. 장례식 시작 전, 수많은 화환과 조화가 행사장으로 옮겨졌습니다. 그 중 하나는 엘 멘초가 개인적으로 좋아했던 투계 모양이었습니다. AFP 통신에 따르면, 조화를 묘지로 운반하는 데 트럭 5대가 필요했으며, 대부분 익명의 발신자가 보낸 것이었습니다. 장례 행렬은 연주단의 연주와 함께 진행되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국에서 벌어진 사건은 아니지만, 멕시코 마약 카르텔의 활동이 국제적인 불안정을 야기할 수 있으며, 여행객 안전에 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "과달라하라 인근, 멕시코",
-        "price": null,
-        "location_google_map_query": "Guadalajara, Mexico"
-      },
+      "event_info": "{'date': None, 'location': '과달라하라 인근, 멕시코', 'price': None, 'location_google_map_query': 'Guadalajara, Mexico'}",
       "references": [
         {
           "title": "นอนโลงทองคำ ครอบครัวจัดพิธีศพ “เอล เมนโช” ราชายาเสพติดเม็กซิโก",
@@ -11623,23 +11615,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Rkr2fgVvfh.jpg"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6Rkr2fgVvfh.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/foreign/2917715",
+      "source": ""
     },
     {
       "title": "2월 태국 방문 외국인 관광객 326만 명",
       "summary": "- 태국은 2월 한 달 동안 326만 명의 외국인 관광객을 맞이했습니다.\n- 이는 태국 관광 산업 회복의 긍정적인 신호로 해석됩니다.\n- 관광객 증가에 따른 경제적 효과가 기대됩니다.",
       "full_translated": "malaysiasun.com에 따르면 태국은 2월에 326만 명의 외국인 관광객을 맞이했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업 회복에 대한 긍정적인 정보이며, 여행객 수 변화는 숙박, 교통, 관광지 혼잡도 등에 영향을 줄 수 있어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand welcomes 3.26 mln foreign tourists in February - malaysiasun.com",
@@ -11648,23 +11637,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVpBMVZnV1NhdUNmaG8zWnFCZDVMWWFqWWxrWi1NeDg2Y3dBeGFkVWktdEo4R0Rpc05sR2l4NktaM3dqLV9BSjQzc0EwbF9Gc05kY1dvVUxzTDlmQ0JVZzJ2MFdZQktUclQ4MGoxNzJxR1V1VUE0a1MyVlBjS0JoMF9uREdrVDZaUExzRmRhMV96RkYtVV9TTzJhTlc?oc=5",
+      "source": ""
     },
     {
       "title": "중국 남방항공, 온라인 경매에서 보잉 787-8 10대 판매: 태국 항공, 태국 관광 붐, 항공 연결성 증가에 미치는 영향",
       "summary": "- 중국 남방항공이 보잉 787-8 항공기 10대를 온라인 경매를 통해 판매했다.\n- 이번 판매는 태국 항공 산업과 관광 산업에 긍정적인 영향을 미칠 것으로 예상된다.\n- 항공 연결성 증가는 태국 관광 붐을 더욱 가속화할 것으로 기대된다.",
       "full_translated": "중국 남방항공, 온라인 경매에서 보잉 787-8 10대 판매, 태국 항공, 태국 관광 붐, 항공 연결성 증가에 미치는 영향 - Travel And Tour World",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "항공기 판매 자체가 관광객에게 직접적인 영향을 미치지는 않지만, 항공사 운영 및 노선 확대에 간접적인 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China Southern Airlines Sells 10 Boeing 787-8s in Historic Online Auction, How Thai Airways, Thailand’s Tourism Boom, and Increased Air Connectivity Are Set to Benefit - Travel And Tour World",
@@ -11673,23 +11659,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPY3BVMF9KZzFuSzdyNnZnYjgtYUpFRmIweVNxRUFwVnJKTmxLWndIZXNpOVI0UE03VlctdzVLVDBDbTg3QkZDcXV1ZjBGaXpPMEgxTmR4T2ticUVnMFpsbkNRQU1ZU0VYbW5RbWJFRU1KRjdSMWtlUXZCVWlLa2E2aFoya0xGSjdOZHI5bTROYnFYdDZ1cGFacERRR3d0ZWdVZl81TGlUaXE1WGx5bjl2V05BU2k1RlZJTlRueU9lbjN4RjFzMWJfVGFIRF9lXzFKSUJiWlU1Q1Z0UENHTFdBQUFURERNQVZ3VFNqZWFPWVIyWG5YLXFtUGFRcHlLTkFheU11bGFxLWpMRzYtY1hGS0pBOWRlR2wxYlVrTWZSMmYtdlJuM1ZHNXV4YjEzb2ptYkoxd085SQ?oc=5",
+      "source": ""
     },
     {
       "title": "핫 놉파랏 타라-무 코 피피 국립공원, 3억 바트 이상의 수익 창출",
       "summary": "- 태국 핫 놉파랏 타라-무 코 피피 국립공원이 3억 바트 이상의 수익을 창출했습니다.\n- 이는 친환경 관광 성장과 지속 가능한 발전에 기여합니다.\n- 해당 국립공원은 태국 관광 산업의 중요한 부분을 차지합니다.",
       "full_translated": "핫 놉파랏 타라-무 코 피피 국립공원이 3억 바트 이상의 수익을 창출하여 태국의 친환경 관광 성장과 지속 가능한 발전을 촉진합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "국립공원 수익 증가는 관광객 편의시설 개선 및 환경 보호 투자로 이어질 수 있어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "Hat Noppharat Thara-Mu Ko Phi Phi National Park",
-        "price": null,
-        "location_google_map_query": "Hat Noppharat Thara-Mu Ko Phi Phi National Park"
-      },
+      "event_info": "{'date': None, 'location': 'Hat Noppharat Thara-Mu Ko Phi Phi National Park', 'price': None, 'location_google_map_query': 'Hat Noppharat Thara-Mu Ko Phi Phi National Park'}",
       "references": [
         {
           "title": "Hat Noppharat Thara-Mu Ko Phi Phi National Park Generates More than Three Hundred Million Baht in Revenue, Boosting Eco-Tourism Growth and Sustainable Development in Thailand - Travel And Tour World",
@@ -11698,7 +11681,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQdk43UDh1SGp1aVo0S1JOT1VTTU1TelZCcGZMcEdSMHBPTWVzUVJOUEQwNk9GZGdpYnFXVGRMTlBuS2dHbE1CNS1LQWUxOVJia3BUVkRqdC1vQjJCcjAtVHV0V3ppUTZqTm5QYndJLXViQTh3dERXM1JGNmVDeG1rY2dIRlpHQkRJNm1sblJSaF9CbXpQV29VZEt1WERRNjhMOWFldGwxMVJWYzlmV3J5SHRJN3gyUmE0a25KU05RTEVoNVA0UC1yTy00c3M4UDAzRkw2Q2pKRWxobjZYMVprUy1tejVWQWFtNGlhY2RBVV8wSTB1RkhLcHZFSVBZOXhsVHN6ck96YnlsZVhXR2FtbDZLWkpqWDdnT2xPUEhVMnBXT2xCT3VWMXVvV09rZHZiUnZYeTI3SV9WUzd4YmJzS2I2SW0?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 항공편 혼란 속 관광 위기 센터 가동",
+      "summary": "- 태국이 항공편 혼란에 대응하기 위해 관광 위기 센터를 가동했습니다.\n- 이는 중동 지역의 긴장 고조로 인한 항공편 차질에 대한 조치입니다.\n- 관광객 지원 및 상황 해결을 위한 노력이 진행될 예정입니다.",
+      "full_translated": "태국이 항공편 혼란 속에서 관광 위기 센터를 가동했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "최근 중동 분쟁으로 인한 항공편 혼란으로 관광객 불편이 예상되므로, 관련 위기 센터 가동은 여행객에게 중요한 정보입니다. 공항 혼잡 및 여행 차질 가능성에 대한 정보를 제공하므로 높은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Activates Tourism Crisis Centre Amid Flight Chaos - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcE9RV3I0TTVkYWtRa19XWmNIcWNGMlJyZVJVOUpXUVhGUTlQUmhzRWdvTUdoTHgwWF9ZV00tYk9YNWhna0tRS2pmRWpBalQtQXIyTXFfVWNWd09GZkZUWkE1cnFER2hoUk5zRjRjSUlVMnVGX0NrVEhnNTNvRWVkYmVMbjFVN3lDUnFlcHRUcnc?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "싱가포르, 말레이시아, 태국, 한국 관광객 증가 추세, 항공사 및 호텔 체인, 중국의 새로운 관광객 권리 규정에 대비",
+      "summary": "- 싱가포르, 말레이시아, 태국, 한국 관광객이 여행 급증을 주도하고 있습니다.\n- 중국 항공사, 호텔 체인이 새로운 관광객 권리 규정에 대비하고 있습니다.\n- 이는 향후 여행에 중요한 영향을 미칠 수 있습니다.",
+      "full_translated": "싱가포르, 말레이시아, 태국, 한국 관광객이 여행 급증을 주도하고 있으며, 중국의 에어차이나, 중국 동방항공, 힐튼, 메리어트 등은 중국의 새로운 관광객 권리 규정에 대비하고 있습니다. 이는 향후 여행에 중요한 영향을 미칠 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 관련 관광객 증가 추세 및 관련 규정 변경에 대한 정보이므로 여행객에게 중간 정도의 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Singapore, Malaysia, Thailand, South Korea Tourists Spark Travel Surge as Air China, China Eastern and Hilton, Marriott Brace for China’s Tough New Tourist Rights Rules — What This Means for Your Next Trip - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNWmdJeV84SmdVTmphb0dxenFCaUtDaVBZUldfamI2a2pWeVFKeTZ2TmRQZGw3eWxkQlMtV2lkbGN3R2duTE5Na2UzdTZwSkNhTnBiUWMzLVhYcUg0SERsNnBTem5OQ1p4UFlrOThtMGhFRTE5eEFIRnhGMDhNVElKeEtrZDBfUFNXQy1mZDZOcXhyWjFaQm5jWVFaeER6S0NyRnNFTl9tczdUMEpIVGtYTkRWMTBkNlNrRFNGSVltUDRzSjRVSGJxX1EyM1FXd1Y3TWctN0RKbnlQMTJoNGYwcHNPUHpVNnhmVGYwdWtvSHFrNGRWano1cS1Vanc5T0ItSlJkVEUwcmNKQmJmbW9qa3hsSGV4azAtdExaS3htbGMwTUVnOVI4UVZ1WDA2ZmZOUFdNdGlCcjBYQm93SWhYNE5TalpsNksw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "파타야 발리 하이 선착장, 촌부리: 방콕 여행객과 해외 방문객 증가로 꼬 란행 관광객 급증",
+      "summary": "- 방콕 여행객 및 외국인 방문객 증가로 촌부리 파타야의 발리 하이 선착장에서 꼬 란으로 향하는 여행객이 크게 증가했습니다.\n- 이는 태국 해안 여행의 부활을 의미하며, 섬 여행 수요 증가를 시사합니다.\n- 꼬 란은 파타야에서 쉽게 접근할 수 있는 아름다운 섬으로, 관광객들에게 인기 있는 목적지입니다.",
+      "full_translated": "파타야, 촌부리의 발리 하이 선착장은 방콕 여행객과 해외 방문객 증가로 꼬 란으로 향하는 관광객의 이동이 많습니다. 이는 태국 해안 여행의 부활을 의미합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야와 꼬 란 간의 여행 수요 증가 정보는 여행객들에게 유용한 정보이며, 핫플레이스 정보에 해당한다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 발리 하이 선착장, 꼬 란",
+        "price": null,
+        "location_google_map_query": "Bali Hai Pier Pattaya, Koh Larn"
+      },
+      "references": [
+        {
+          "title": "Bali Hai Pier In Pattaya, Chonburi Sees Heavy Tourist Movement Toward Koh Larn As Bangkok Travelers And International Visitors Fuel Thailand’s Coastal Travel Revival — What This Means For Your Next Island Escape - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPNzFoZmpWeGhOZWJIV2RkVXphbktrV2hScU9CQzdTM2ZWRk93ODhCd3ZKaThzYWl6ckFRWHlzcWZScDNRLUlSVWNVRjJ2NXU1MFRZNTBmaUtyM2tlclhRQUE3cjVNcTM1bmh2OXljeEwwZWItM25tZURZdFhWaXdpV0ZRak9vSTdBV3dwc3d4TFh0WGxnZEZNbWhfTFUtR05YMnNMdDdqLTE4S3c2M1I2UUYyVzNpWGNtQTByOGxobWVDYW44c0JETnl2eEtSaG1Sb0JDX2tmR003RW5GU3o5UDV3RTZPSGtRczFqU0NSSGVBR3gtY212MGRlMEJtcGk4amVnMHU4M0YyN0hCTmFrc1pkZUdmcjFaMF81ekM5Q0RVYmpkQndHWU9YZ3lTWXRsaWthNWstN1VNclp6QW1xUkNMSUVRb3ZvOHZDTg?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국, 2026년 동남아시아 웰니스 관광 붐 주도 예상 (Travel And Tour World)",
+      "summary": "- 태국은 베트남, 인도네시아 등과 함께 2026년 동남아시아 웰니스 관광 시장을 주도할 것으로 전망됨.\n- 터키 또한 동남아 웰니스 관광 시장에 합류하여 경쟁 심화 예상.\n- 웰니스 관광은 건강과 힐링을 추구하는 여행 트렌드를 의미.",
+      "full_translated": "Travel And Tour World에 따르면, 태국은 베트남, 인도네시아 등과 함께 2026년 동남아시아 웰니스 관광 붐을 주도할 것으로 예상됩니다. 터키 또한 이 시장에 합류하여 더욱 다양한 건강 체험 기회를 제공할 것으로 보입니다. 웰니스 관광은 단순한 관광을 넘어 건강과 힐링을 추구하는 여행 트렌드를 의미하며, 태국은 이러한 트렌드를 적극적으로 수용하여 다양한 웰니스 프로그램을 개발하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 웰니스 관광 시장 전망에 대한 정보는 여행객들에게 새로운 여행 트렌드와 선택지를 제공할 수 있으므로, 여행 관련 정보로서의 가치가 있다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Turkey Joins Vietnam, Thailand, Indonesia and More in Leading the Wellness Tourism Boom Across Southeast Asia in 2026 – Explore the Transformative Health Experiences Awaiting You! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPaXFjWUxvTDdiTVhXWTJhZThEVVVuMEx2SUR5WnRiMFdsSnBjSXRtRE9LVmtZV0xRWVVYX0NCSjFQZUdMY1lPd0dSUE5IRHBiY1ExZExUX3JSWmdsWHNoTzJzaEFMVWFOUlFFTnJmYmdrSlQ2cGNELVRSSkZISl8zcDJ2NGs1eE9HdkpDRWo5bFVydWZWNDQxMFU2dDA3TDdnQWtQYjhYMDh3Skp2bVVEc2pqenhaVUU1cnpDaFBKTmYzWFVQam5FcWt1WmZXYmc2LTVNT0pmUmMxX19kdmd2dktrcnNXbmRLREhFSzU1YUxvb1JMRTMtVlhaVWdnMkhWVG51LUtiYjBlNU91enRYcFRDN2lNTzJvU08ySTFJNHktVlpuYTNNZVZna1Q4VWhVZ3ZUNUFrMXZXMnh5ZnhIUFRpTjExdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "미국, 한국 의료 관광 급증에 따른 대한항공 및 아시아나항공의 서울행 수요 증가에 합류",
+      "summary": "- 미국이 한국 의료 관광 급증에 따른 서울행 여행객 증가에 동참함.\n- 대한항공과 아시아나항공이 밝은눈안과의 KAHF 인증 후 의료 관광 특수를 누리고 있음.\n- 일본, 중국, 태국, 대만, 베트남, 인도네시아, 필리핀도 한국 의료 관광에 합류.",
+      "full_translated": "미국이 일본, 중국, 태국, 대만, 베트남, 인도네시아, 필리핀에 합류했습니다. 대한항공과 아시아나항공은 밝은눈안과의 KAHF 인증에 따른 한국 의료 관광 급증으로 서울에 몰려드는 여행객을 활용하고 있습니다. - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "최근 한국 의료 관광에 대한 관심 증가와 항공사의 관련 마케팅 활동을 강조하므로 여행객들에게 참고 정보가 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "서울",
+        "price": null,
+        "location_google_map_query": "서울"
+      },
+      "references": [
+        {
+          "title": "United States joins Japan, China, Thailand, Taiwan, Vietnam, Indonesia and Philippines, Travellers to Flock to Seoul as Korean Air and Asiana Airlines Capitalise on South Korea’s Medical Tourism Surge Following Bright Eye Clinic’s KAHF Accreditation — H - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPNS1nNlVSaF96UzV5OGR5dEVEY0RReVdQUEtLLWkxMGRvZFkyODVlTnhLZ3NBTmRWcFhJZUVibEpNby1GUWRCQlhSNncyZ2NBbzZKN3hBMDBDOTNyMDk4ckNIYVBMTVpKckJYOTducnoxSTNvZXpsVTlDS05JZldJMmpERTN4UVRyX0dXbW5PNXhDOGpKNXNLQnQ2a0RrYU1IOFdjLVBhNnA2ek9VNnJEMXNjVkgzNzBDbkFRRXhsVjdYa19sY0p0RFg5OXktWnBjS3JGQ3ZDRUEzTS1WbVRYdXFVOWZwUVpsVGZYcmxQZFlvRy1VcWgwY3dVMmpRN09nRU9vMG1QVGk0eFBEUVQ0V1VVeWRfWnBkT2JLZmMzOWRoa0Nqb2l3NTV3dUctRnhrM1FsQ3R2ZnNHX3pZSXZ0RXB3VTk3M0ljdHNKVFp0d2VIZTdD?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-04"
     }
