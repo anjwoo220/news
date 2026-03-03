@@ -10417,14 +10417,9 @@
       "summary": "- 돈므앙 국제공항이 승객 편의를 위해 24시간 자동 출국 심사대(ABC)를 목요일부터 운영합니다.\n- 2월 중순 시범 운영(오전 7시~오후 7시) 후, 이민국 심사대가 24시간 운영 준비를 완료했습니다.\n- 4월까지 공항 내 총 31개의 자동 심사대를 설치하여 국제 여행 편의를 개선하고 혼잡을 줄일 계획입니다.",
       "full_translated": "방콕 돈므앙 국제공항은 승객의 편의를 위해 목요일부터 새로운 24시간 자동 출국 심사대(ABC)를 운영합니다. 이민국 심사대는 2월 중순 시범 운영(오전 7시~오후 7시) 후 24시간 자동 심사대 운영 준비를 완료했다고 랄리다 페리스위와타나 정부 부대변인이 화요일 밝혔습니다. 원활한 사용을 위해 승객은 ABC 게이트 사용 전 자격 요건을 확인해야 합니다. 랄리다 씨는 4월까지 공항 전체에 31개의 자동 심사대를 설치하여 국제 여행을 더욱 편리하게 하고, 피크 시간대의 혼잡을 줄이며, 승객 관리를 개선할 것이라고 말했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "공항 이용 관련 중요 정보이며, 여행객 편의에 직접적인 영향을 미치므로 높은 점수를 부여함. 출국 심사 시간 단축 기대.",
-      "event_info": {
-        "date": "2026-03-07",
-        "location": "돈므앙 국제공항",
-        "price": "무료",
-        "location_google_map_query": "돈므앙 국제공항"
-      },
+      "event_info": "{'date': '2026-03-07', 'location': '돈므앙 국제공항', 'price': '무료', 'location_google_map_query': '돈므앙 국제공항'}",
       "references": [
         {
           "title": "Don Mueang to open 24-hour automated departure gates on Thursday",
@@ -10435,21 +10430,18 @@
       ],
       "collected_at": "19:36",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208864_260303112033_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208864/don-mueang-to-open-24hour-automated-departure-gates-on-thursday",
+      "source": ""
     },
     {
       "title": "온라인 쇼핑 사기 신고 급증: 4억 4천만 바트 이상의 피해 발생",
       "summary": "- 태국 사이버 사기 방지 센터(ACSC)에 따르면 온라인 사기 신고가 급증하여 지난주에만 4억 4천만 바트 이상의 피해가 발생했습니다.\n- 가장 흔한 유형은 온라인 쇼핑 사기로, 피해 건수는 많지만 건당 피해액은 상대적으로 적습니다.\n- 전화 위협 사기의 피해액이 가장 컸으며, 투자 사기 및 취업 관련 사기가 그 뒤를 이었습니다.",
       "full_translated": "최근 태국에서 온라인 쇼핑 사기 신고가 급증했습니다. 사이버 사기 방지 센터(ACSC)의 최신 자료에 따르면 지난주 2월 22일부터 28일까지 총 7,344건의 신고가 접수되었으며, 이는 전주보다 611건 증가한 수치입니다. 이 기간 동안 총 피해액은 4억 4,070만 바트에 달합니다.\n\n신고의 대부분은 온라인 쇼핑 사기(4,996건)였으며, 고용, 투자 및 소위 '전화 위협' 사기가 그 뒤를 이었습니다. 온라인 쇼핑 사기는 건당 피해액은 적지만 빈번하게 발생하여 많은 사람들에게 영향을 미치는 가장 만연한 위협 중 하나입니다. 그러나 총 피해액을 기준으로 보면 전화 위협 사기가 가장 높았습니다. 이 범주의 손실은 8,620만 바트에서 1억 1,780만 바트로 급증했습니다. 투자 사기가 2위, 취업 관련 소득 사기가 3위를 차지했습니다.\n\n당국은 콜센터 조직이 심리적 협박 전술을 계속 사용하고 있으며, 종종 피해자들이 심각한 범죄에 연루되었다고 거짓으로 비난하여 돈을 이체하도록 압력을 가하고 있다고 지적했습니다. ACSC 데이터에 따르면 취업 연령의 여성이 가장 큰 영향을 받았으며, 31~40세 개인이 전체 피해자 수에서 가장 높은 비율을 차지했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "온라인 쇼핑은 여행객도 많이 이용하는 서비스이므로 사기 피해 예방을 위해 알릴 필요가 있음. 피해 규모가 크므로 '보통' 수준으로 설정.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Online shopping fraud complaints surge",
@@ -10460,21 +10452,18 @@
       ],
       "collected_at": "19:36",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208449_260303082313_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208449/online-shopping-fraud-complaints-surge",
+      "source": ""
     },
     {
       "title": "전쟁으로 태국 항공 허브 추진 가속화",
       "summary": "- 중동 지역의 전쟁으로 인해 태국이 항공 허브로서의 기회를 얻게 됨.\n- 태국은 안전하고 안전한 환승을 원하는 사람들에게 대안을 제공할 수 있음.\n- 교통부는 항공 교통 효율성을 높이기 위해 관련 기관과 논의할 계획임.",
       "full_translated": "중동 지역의 전쟁으로 인해 태국이 지역 틈새 시장을 채울 수 있는 영역이 드러났다고 장관은 말합니다. \n\n게시일: 2026년 3월 3일 18:47\n작성자: Molpasorn Shoowong 및 Narumon Kasemsuk\n\n전쟁으로 인해 중동 영공이 폐쇄되면서 태국은 국가를 항공 허브로 설립하려는 계획을 가속화하여 안전하고 안전한 환승을 원하는 사람들에게 대안을 제공해야 한다고 Phiphat Ratchakitprakarn 교통부 장관이 말했습니다.\n\n이번 주에 중동 항공사에서 운항하는 수천 편의 항공편이 취소되었지만 일부 공항에서는 제한된 서비스가 계속되거나 재개되었습니다.\n\nPhiphat 씨는 화요일에 \"주말에 분쟁이 발생한 이후 많은 외국인 관광객들이 타이 항공을 통해 태국으로 가는 장거리 항공편을 예약하고 있습니다. 유럽을 오가는 항공편은 이번 달에 완전히 예약되었습니다.\"라고 말했습니다.\n\n그러나 항공 허브를 개발하는 데는 시간이 걸린다고 그는 말했습니다. 보다 효율적인 항공 교통을 준비하기 위해 교통부는 주요 공항의 항공편 슬롯 관리에 대해 관련 기관과 논의하여 환승 용량을 늘리고 국영 항공사인 타이 항공의 효율성을 개선할 계획입니다.\n\n글로벌 여행 데이터 제공업체인 OAG에 따르면 두바이 공항은 작년에 세계에서 가장 붐비는 국제공항으로 런던의 히드로 공항, 서울의 인천 공항, 싱가포르의 창이 공항이 그 뒤를 이었습니다.\n\n타이 에어아시아의 주요 주주인 아시아 항공의 Tassapon Bijleveld 회장은 지리적",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국이 항공 허브로 부상할 가능성이 있으며, 이는 여행객들에게 장기적으로 영향을 미칠 수 있음. 항공편 예약 및 환승에 대한 정보는 여행 계획에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "War adds urgency to Thai aviation hub push",
@@ -10485,21 +10474,18 @@
       ],
       "collected_at": "19:36",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209030_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/business/general/3209030/war-adds-urgency-to-thai-aviation-hub-push",
+      "source": ""
     },
     {
       "title": "일본에서 태국 소녀 성매매 강요 혐의 남성, 혐의 부인",
       "summary": "- 일본에서 마사지 업소를 운영하는 남성이 태국 소녀를 성매매하도록 강요한 혐의를 부인함.\n- 피고인은 소녀가 미성년자인지 몰랐다고 주장하며, 업소 관리자인 태국 여성이 나이를 속였다고 주장함.\n- 검찰은 소녀가 단기 비자로 입국하여 성매매를 강요받았다고 밝혔으며, 태국 경찰은 소녀의 어머니를 인신매매 혐의로 체포함.",
       "full_translated": "일본에서 마사지 업소를 운영하며 당시 12세였던 태국 소녀를 성매매하도록 공모한 혐의로 기소된 남성이 월요일 법정에서 혐의를 부인했습니다. 마사유키 호소노(52)는 도쿄 지방 법원에서 열린 첫 공판에서 \"소녀가 미성년자인지 몰랐습니다.\"라고 진술했습니다. 그의 변호인은 또한 그가 도쿄 유시마 지역의 개인실 마사지 업소를 관리했던 태국 국적의 여성인 푼시리파냐 파카폰(38)에게 소녀의 나이에 대해 속았다고 주장했습니다. 검찰은 모두 진술에서 소녀의 어머니가 소녀에게 일본에서 일하게 될 것이라고 말한 후 소녀가 단기 비자로 일본에 입국했다고 밝혔습니다. 그들은 호소노 씨가 소녀에게 \"연습\"이라고 부르며 음란 행위를 하게 하고 남성 고객에게 성 서비스를 제공하도록 강요했다고 주장했습니다. 소녀의 진술서도 낭독되었는데, 그녀는 어머니가 자신을 일본에 혼자 남겨두고 돈을 벌어 보내라고 했다고 말했습니다. 기소장에 따르면 호소노 씨는 여성 관리인과 공모하여 2025년 6월 남성 고객에게 성 서비스를 제공하도록 강요했고, 두 달 후에는 소녀에게 음란 행위를 하게 했습니다. 태국 경찰은 12월에 소녀의 어머니를 인신매매 혐의로 체포했습니다. 일본에서 보호 감호를 받고 있던 소녀는 같은 달 태국으로 돌아갔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국인의 해외 범죄 관련 소식으로, 여행 안전에 대한 간접적인 영향을 줄 수 있음. 새로운 사건에 대한 정보이므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "도쿄",
-        "price": null,
-        "location_google_map_query": "도쿄"
-      },
+      "event_info": "{'date': None, 'location': '도쿄', 'price': None, 'location_google_map_query': '도쿄'}",
       "references": [
         {
           "title": "Accused man denies forcing young Thai girl into sex work in Japan",
@@ -10510,21 +10496,18 @@
       ],
       "collected_at": "19:36",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208824_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208824/accused-man-denies-forcing-young-thai-girl-into-sex-work-in-japan",
+      "source": ""
     },
     {
       "title": "태국, 호르무즈 해협 폐쇄 대비 연료 공급선 다변화 추진",
       "summary": "- 태국 정부는 호르무즈 해협 폐쇄 가능성에 대비하여 연료 공급선 다변화를 추진 중이다.\n- 서아프리카 및 미국으로부터 원유를 수입하고, 말레이시아 및 미국으로부터 LNG 수입을 늘릴 계획이다.\n- 가격 급등 및 공급 부족을 피하기 위해 신중한 관리가 필요하다고 강조했다.",
       "full_translated": "태국은 글로벌 석유 및 액화 천연 가스(LNG) 운송의 핵심 통로인 호르무즈 해협 폐쇄로 인한 영향 상쇄를 위해 대체 연료 공급 확보에 나섰습니다. 오탑폴 러크피분 에너지부 장관 대행은 정부가 서아프리카와 미국으로부터 원유를 구매할 계획이며, 4월 말까지 배송이 완료될 것으로 예상한다고 밝혔습니다. 이번 조치는 미국-이란 분쟁에 대응하여 도입된 석유 수출 중단 조치 이후 에너지 당국과 민간 기업 간의 논의에 따른 것입니다. 태국은 오랫동안 에너지 수입 다변화를 추구해 왔습니다. 1997년에서 2007년 사이에 태국은 중동 석유, 특히 호르무즈 해협 주변 국가에 대한 의존도를 줄였습니다. 2004-05년 세계 석유 가격이 급등하면서 정부와 PTT(국영 에너지 회사)는 새로운 공급원을 모색하게 되었습니다. 2011년까지 나이지리아와 러시아로부터의 수입이 크게 증가하여 중동 의존도가 90%에서 50-60%로 감소했습니다. 오탑폴 장관은 또한 스팟 시장에서의 LNG 구매도 다변화하여 미국과 말레이시아로부터 공급을 모색할 것이라고 밝혔습니다. 그러나 그는 중동 이외 지역에서의 LNG 경쟁이 심화될 것으로 예상되며, 가격 급등과 비축량 부족을 피하기 위한 신중한 관리가 필요하다고 경고했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 연료 수급 관련 뉴스로, 여행객의 이동 및 물가에 간접적인 영향을 줄 수 있음. 호르무즈 해협 폐쇄 가능성에 대한 언급은 잠재적 위험 요소를 시사한다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai authorities hunt for new fuel sources",
@@ -10535,6 +10518,133 @@
       ],
       "collected_at": "19:36",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209040_700.jpg",
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/business/general/3209040/thai-authorities-hunt-for-new-fuel-sources",
+      "source": ""
+    },
+    {
+      "title": "푸껫 기름 유출 사고, 라차 야이 섬 해변 정화 작업 지속",
+      "summary": "- 화물선 침몰 한 달, 라차 야이 섬 해변과 암석 해안 따라 잔류 타르볼 제거 작업 진행 중.\n- 해양부, 오염 통제 부서와 협력하여 해수 질 검사 및 생태계 영향 평가.\n- 추가 오염 발견 시 즉각적인 대응 조치 준비.",
+      "full_translated": "푸껫 - 화물선 침몰 사고가 발생한 지 거의 한 달이 지난 현재, 30명 이상의 해양 관계자들이 라차 야이 섬 해변과 암석 해안을 따라 잔류 타르볼을 수거하는 작업을 진행하고 있습니다. 2월 7일 Sealloyd Arc호 침몰로 인해 기름띠가 바다로 확산되었고, 바람과 파도를 타고 푸껫 본섬의 프롬텝 곶 남쪽 약 20km 지점에 위치한 라차 야이 섬 해안으로 흘러 들어왔습니다. 유출 잔류물은 라차 야이 섬 북동쪽 몇 킬로미터 떨어진 코 헤(산호 섬이라고도 함)에서도 발견되었습니다. 수차트 촘클린 천연자원환경부 장관은 해양 및 연안 자원에 대한 장기적인 피해를 방지하기 위해 상황을 면밀히 모니터링하고 평가하라고 지시했습니다. 해양 및 연안 자원부는 오염 통제 부서 및 기타 기관과 협력하여 해수 질을 검사하고 생태계, 특히 산호초와 주요 관광 지역에 미치는 잠재적 영향을 평가하고 있습니다. 라위완 부리데지 환경부 차관은 해당 지역의 해양 자원에 대한 우려를 표명하고, 특히 취약한 연안 및 생태 구역에서 엄격한 감시를 유지하도록 당국에 지시했습니다. 추가적인 기름 오염이 감지될 경우 즉각적인 대응 조치가 준비되고 있습니다. Pinsak Suraswadi 해양자원부 국장은...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "푸껫 인근 해변의 환경 오염은 관광객에게 직접적인 영향을 미칠 수 있으므로 관련 정보 제공.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "Koh Racha Yai, Phuket",
+        "price": null,
+        "location_google_map_query": "Koh Racha Yai, Phuket"
+      },
+      "references": [
+        {
+          "title": "Spill clean-up continues in Phuket",
+          "url": "https://www.bangkokpost.com/thailand/general/3209080/spill-cleanup-continues-in-phuket",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209080_700.jpg"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209080_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "방콕, 영국인 관광객 가방 날치기범 체포: 두 아내 부양 위해 범행",
+      "summary": "- 방콕에서 33세 남성이 영국인 관광객의 가방을 훔친 혐의로 체포됨.\n- 용의자는 오토바이 택시 수입이 부족하여 두 아내를 부양하기 위해 범행을 저질렀다고 주장함.\n- 경찰은 용의자가 과거에도 유사한 범죄를 저지른 적이 있다고 밝힘.",
+      "full_translated": "방콕 경찰은 12월 젊은 영국인 관광객의 핸드백을 날치기한 혐의로 33세 남성을 체포했습니다. 용의자는 두 아내를 부양하기 위해 범죄를 저질렀다고 경찰에 진술했습니다. 방락 경찰서의 경찰관들은 아유타야 출신의 타닛 “누이” 미생을 3월 2일 오후 7시 20분경 딘댕 지역의 프라차송크로 23 골목에 있는 세븐일레븐 편의점 앞에서 체포했습니다. 그는 강도 혐의로 2월 27일에 발부된 형사 법원 영장에 의해 수배되었습니다. 체포는 2025년 12월 13일 오후 12시 50분경 21세의 영국인 여성이 그랜드 센터 포인트 수라웡 호텔 맞은편 수라웡 도로를 걷고 있을 때 오토바이를 탄 용의자가 뒤에서 접근하여 가방을 날치기하여 도주했다는 신고에 따른 것입니다. 가방 안에는 은색 아이폰 17 Pro Max, 총 6만 바트 상당의 판도라 팔찌 2개, 현금 3천 바트가 들어 있었습니다. 수사관들은 타닛을 체포하기 위한 영장을 발부하기 전에 증거를 수집했다고 밝혔습니다. 심문 과정에서 그는 오토바이 택시 기사로 일하면서 얻는 수입이 부족하고 두 아내를 부양할 돈이 필요하다고 자백한 것으로 알려졌습니다. 경찰은 신원 조회 결과 그가 이전에 낭 렁 지역에서 유사한 범죄를 저지른 적이 있다고 밝혔습니다. 그는 법적 절차를 위해 방락 경찰서의 수사관에게 넘겨졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 대상 범죄 발생 소식은 안전에 대한 경각심을 일깨우므로 포함. 여행객이 많은 지역에서 발생했으므로 여행객에게 영향을 줄 수 있음.",
+      "event_info": {
+        "date": "2025-12-13",
+        "location": "수라웡 로드 (그랜드 센터 포인트 수라웡 호텔 맞은편)",
+        "price": null,
+        "location_google_map_query": "Surawong Road, Grand Centre Point Surawong hotel"
+      },
+      "references": [
+        {
+          "title": "Man arrested for snatching British tourist’s bag says he needed money for two wives",
+          "url": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/03/03/man-arrested-for-snatching-british-tourists-bag-says-he-needed-money-for-two-wives/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/ttttttttttttttttttt.jpg"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/ttttttttttttttttttt.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "중동 영공 폐쇄로 태국 여행 취소된 독일인 관광객의 안타까운 사연",
+      "summary": "- 이란-이스라엘 분쟁으로 인한 중동 영공 폐쇄로 독일인 관광객의 태국 여행이 취소됨.\n- 롤프 콜렙 씨는 3월 한 달간 태국에서 휴가를 보낼 예정이었으나 항공편 취소로 좌절됨.\n- 콜렙 씨는 상황이 안정되면 태국에 다시 방문할 것이라고 밝힘.",
+      "full_translated": "한 68세 독일인 관광객이 이란과 이스라엘 간의 분쟁과 관련된 중동 영공 폐쇄로 인해 태국행 항공편이 취소된 후 비통한 심정을 드러냈습니다. 일 년에 두 번 태국을 방문하는 롤프 콜렙 씨는 3월 한 달을 태국에서 휴가를 보낼 계획이었습니다. 그는 3월 2일 독일에서 출발하여 도하를 경유하여 방콕으로 가는 카타르 항공편을 이용할 예정이었습니다. 파타야와 후아힌의 숙소는 작년부터 예약되어 있었습니다. 그러나 중동의 여러 국가가 긴장이 고조됨에 따라 2월 28일부터 영공을 폐쇄하기 시작하여 도하 및 두바이와 같은 허브를 통과하는 국제 노선에 차질이 생겼습니다. 3월 1일 아침, 콜렙 씨는 항공사로부터 항공편이 취소되었으며 약 2주 후에 재예약이 가능하다는 이메일을 받았습니다. 그는 “가슴이 찢어지는 것처럼 매우 슬픕니다. 이런 일이 일어날 것이라고는 아무도 예상하지 못했습니다. 하지만 그런 일이 일어났을 때는 받아들여야 합니다.”라고 말했습니다. 차질에도 불구하고 콜렙 씨는 상황이 안정되면 태국에 다시 돌아올 것이라고 말했습니다. 그는 여행 일정을 다시 잡을 것인지 묻는 질문에 “물론입니다.”라고 대답하며 태국에 대한 애정을 재확인했습니다. 영공 폐쇄는 중동을 경유하는 노선을 이용하는 많은 국제 및 태국 여행객에게 영향을 미쳤습니다. 많은 승객들이 2월 28일과 3월 1일부터 공항에 발이 묶였고, 일부 항공편은 취소되었으며 다른 항공편은 항로를 변경해야 했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 항공편 이용 여행객에게 직접적인 영향을 미치는 정보이며, 항공편 취소 및 지연 가능성을 알려 잠재적 피해를 줄일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "German tourist heartbroken after Middle East airspace closure cancels Thailand trip",
+          "url": "https://www.khaosodenglish.com/life/2026/03/03/german-tourist-heartbroken-after-middle-east-airspace-closure-cancels-thailand-trip/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114994_umQcgpVteo1772526586.jpeg"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news114994_umQcgpVteo1772526586.jpeg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "아유타야 홍수 문제 해결 위한 노력: 정당과 시민단체의 협력",
+      "summary": "- 정당 대표와 전 국회의원이 아유타야의 홍수 문제 해결을 위해 시민단체와 협력.\n- 홍수 피해를 줄이기 위한 대피소 건설 및 해안 배수 시스템 구축 추진.\n- 반복되는 홍수 문제 해결을 위해 단기 및 장기적 해결책 모색.",
+      "full_translated": "3월 3일, 파삭 프라차촌당 대표인 나트퐁 루앙판야우티 씨는 아유타야 지역의 전 국회의원 후보자들과 함께 2569년 선거 이후 시민들과 의견을 교환하기 위해 아유타야 주를 방문했습니다. 나트퐁 씨는 이번 방문이 희망을 불어넣고 모든 사람의 의견을 듣기 위한 것이라고 밝혔습니다. 그는 지난 선거 후 파삭 프라차촌당이 교훈을 얻고 전략을 수립하는 데 도움이 되도록 회원 및 시민들의 의견을 수렴한 결과를 발표했습니다. 모든 의견은 당 집행위원회가 인지했으며, 당은 앞으로 지역에서 계속 활동할 준비가 되어 있습니다. \n\n특히 아유타야 주 방발 지역은 반복적인 홍수 문제를 겪고 있는데, 파삭 프라차촌당은 2년 동안 하원의원으로서 이 문제를 추진해 온 지역 대표인 트위웡 토타위웡 전 아유타야 1구 국회의원 후보를 두고 있습니다. 트위웡 씨는 파삭 프라차촌당이 추진하고 추진할 방발 지역의 반복적인 홍수 문제 해결을 위한 정책과 접근 방식을 제시했습니다. 단기적으로는 매년 연말에 발생하는 아유타야 홍수 문제에 대한 해결책을 모니터링하고 제안해야 합니다. 따라서 상황에 대처하고 사람들의 어려움을 완화하기 위해서는 연초부터 준비해야 합니다. 파삭 프라차촌당은 정부에 단기 및 장기적인 제안을 하고 있습니다. 단기적으로 파삭 프라차촌당은 다용도 건물 형태로 표준 대피소를 건설할 것을 제안합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "아유타야 지역의 홍수 문제는 여행에 영향을 줄 수 있으므로 정보 제공. 홍수 발생 시 여행 일정 변경 필요.",
+      "event_info": {
+        "date": null,
+        "location": "아유타야 주",
+        "price": null,
+        "location_google_map_query": "아유타야"
+      },
+      "references": [
+        {
+          "title": "“ณัฐพงษ์” ควงอดีต สส.พรรคประชาชน เดินหน้าจับมือ “อาสาส้ม” หาวิธีแก้ปัญหาน้ำท่วมอยุธยา",
+          "url": "https://www.thairath.co.th/news/politic/2917687",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVKBqPlk9xy6RA.jpg"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVKBqPlk9xy6RA.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "시사켓에서 10대 3명, 경쟁자 살해 '자백'",
+      "summary": "- 시사켓 주 프라이붕 지역에서 19세 남성을 살해하고 매장한 혐의로 17~19세 용의자 3명 체포.\n- 용의자들은 과거 소년원 시절의 갈등을 이유로 자백.\n- 피해자는 30군데 이상의 자상을 입었으며, 친구는 중상을 입고 병원에서 치료 중.",
+      "full_translated": "시사켓 - 경찰은 이 북동부 지방 프라이붕 지역의 유칼립투스 숲에서 19세 남성을 살해하고 매장한 혐의로 17~19세 용의자 3명을 체포했습니다. 용의자들은 소년원 시절의 갈등을 이유로 자백한 것으로 알려졌습니다. 싯티삭 '믹스'로만 확인된 피해자는 30군데 이상의 자상을 입었습니다. 그의 친구인 19세의 키티삭도 심각한 부상을 입고 인근 우본 랏차타니의 병원에서 위독한 상태로 남아 있습니다. 지역 주민들은 토요일 공격 후 키티삭이 도움을 요청했고, 당국은 범죄 현장으로 향했다고 밝혔습니다. 양 피해자 가족들은 잔혹한 공격에 충격과 슬픔을 표했습니다. 싯티삭의 할머니는 그를 조용하고 예의 바른 아이로 묘사했으며, 군 입대를 희망했다고 말했습니다. 키티삭의 친척들은 처음에는 그가 지역 축제에서 싸움으로 부상을 입었다고 믿었지만, 치명적인 대결로 유인되었다는 사실을 깨닫지 못했습니다. 사건을 담당한 프라이붕 경찰서장 폴 콜 라차유트 사크라피는 반마이 카엔 마을 출신 용의자 3명을 체포했다고 확인했습니다. 이들 3명은 경찰관에게 이번 공격은 시사켓 소년원 관찰 및 보호 센터에서 복역하던 시절의 과거 갈등에서 비롯되었다고 말했습니다. 사건 당일, 그들은 의견 차이를 해결하기 위해 만나기로 했지만, 대결은 폭력으로 확대되었습니다. 경찰은 그",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행지에 대한 직접적인 위협은 아니지만, 인근 지역에서 발생한 강력 범죄이므로 여행 시 주의를 환기할 필요가 있음.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "시사켓 주 프라이붕 지역",
+        "price": null,
+        "location_google_map_query": "프라이붕 지역, 시사켓"
+      },
+      "references": [
+        {
+          "title": "Three teens ‘confess’ to slaying of rival",
+          "url": "https://www.bangkokpost.com/thailand/general/3209070/three-teens-confess-to-slaying-of-rival",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209070_260303195717_700.jpg"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209070_260303195717_700.jpg",
       "date": "2026-03-03"
     }
   ]
