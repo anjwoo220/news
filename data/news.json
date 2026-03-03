@@ -10307,14 +10307,9 @@
       "summary": "- 태국 항공은 현재 정상 운행 중.\n- 중동 지역 분쟁으로 일부 노선 제한 발생.\n- 항공편 이용 전 항공사에 운항 정보 확인 필요.",
       "full_translated": "태국 민간항공청(CAAT)은 중동 지역의 분쟁 상황을 주시하며, 태국 항공편은 현재 정상적으로 운행되고 있다고 밝혔습니다. 그러나 분쟁 확대로 인해 여러 국가에서 영공 폐쇄 또는 제한 조치를 시행하고 있으며, 주요 환승 공항의 운영에도 차질이 발생하고 있습니다. 이로 인해 일부 항공사는 운항을 일시 중단하거나 노선을 변경하고 있습니다.\n\nCAAT는 항공사, 공항 및 관련 기관과 긴밀히 협력하여 상황을 지속적으로 평가하고 있으며, 현재 태국 항공은 정상적으로 운행되고 있습니다. 다만, 상황에 따라 관리 조치가 조정될 수 있습니다.\n\nCAAT는 승객들에게 공항으로 출발하기 전에 항공편 상태를 확인하고, 국제선의 경우 최소 3시간 전에 공항에 도착할 것을 권고합니다. 또한, 항공사 및 공항의 발표를 지속적으로 확인해야 합니다. 유럽행 항공편 중 중동에서 환승하지 않는 항공편은 정상적으로 운행되고 있으며, 대한항공과 유럽 항공사 대부분은 대체 노선 계획을 준비하여 정상적인 운항이 가능합니다. 그러나 대체 노선 이용으로 인해 비행 시간이 늘어날 수 있으며, 대체 노선에 항공편이 집중되어 도착 시간에 영향을 미칠 수도 있습니다.\n\n중동 지역으로 향하는 항공편 또는 해당 지역에서 환승하는 승객의 경우, 현재 여러 노선에서 제한이 있습니다. 특히 이스라엘, 이란, 아랍에미리트, 카타르, 사우디아라비아 및 쿠웨이트행 노선은 정상적으로 운행되지 않고 있습니다. 일부 경우에는 영공 폐쇄로 인해 운항이 불가능합니다. 따라서 해당 지역으로 여행하는 승객은 항공사에 문의하여 최신 정보를 확인해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 운항 차질 가능성, 여행객 주의 필요. 공항 혼잡 및 비행 시간 증가 가능성.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "CAAT แนะผู้โดยสารเช็กเที่ยวบิน วางแผนเผื่อเวลา เส้นทางบินตะวันออกกลางยังติดข้อจำกัด",
@@ -10325,21 +10320,18 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVVwCL6pkKyG.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2917675",
+      "source": ""
     },
     {
       "title": "타이항공, 새로운 수하물 정책으로 체크인 시간 지연",
       "summary": "- 타이항공의 새로운 수하물 정책 변경으로 수완나품 공항에서 체크인 시간이 길어지고 있습니다.\n- 기존 무게 기준에서 개수 기준으로 변경되어, 이코노미는 2개, 퍼스트 클래스는 3개까지 허용됩니다.\n- 공항 내 셀프서비스 키오스크의 시스템 오류로 탑승권만 발급되고 수하물 태그는 발급되지 않아 체크인 카운터에 긴 줄이 발생하고 있습니다.",
       "full_translated": "타이항공 국제선 항공편을 이용하는 승객은 새로운 수하물 정책 시행으로 인해 수완나품 공항에서 체크인 시 추가 시간을 확보해야 합니다. 새로운 정책은 무게 기준에서 승객당 수하물 개수로 변경되었으며, 이는 티켓 등급에 따라 다릅니다. 예를 들어, 퍼스트 클래스 승객은 3개, 이코노미 클래스 승객은 최대 2개의 수하물을 허용합니다. 첫날 변경으로 인해 공항 내 셀프서비스 키오스크에서 탑승권만 인쇄되고 타이항공 승객의 수하물 태그는 발급되지 않는 시스템 오류가 발생했습니다. 국적 항공사 승객은 수하물을 항공기에 싣기 위한 태그를 받기 위해 체크인 카운터에서 줄을 서야 했습니다. 이 문제로 인해 국내선 및 국제선 노선 모두 타이항공 카운터에 긴 줄이 생겼습니다. 수완나품 공항 홍보실은 화요일에 \"이 기간 동안 타이항공을 이용하는 승객은 출발 전에 추가 시간을 확보하고 항공사의 최신 정보 업데이트를 따르시기 바랍니다.\"라고 밝혔습니다. 타이항공은 문제 해결을 위해 노력하고 있으며, 공항 내 셀프서비스 키오스크는 정상적으로 작동하고 있으며, 문제는 타이항공에서만 발생했다고 공항 측은 덧붙였습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "수완나품 공항 이용객의 체크인 지연은 여행에 직접적인 영향을 미치므로 높은 점수를 부여. 정책 변경으로 인한 혼란은 여행자에게 중요한 정보.",
-      "event_info": {
-        "date": null,
-        "location": "수완나품 공항",
-        "price": null,
-        "location_google_map_query": "Suvarnabhumi Airport"
-      },
+      "event_info": "{'date': None, 'location': '수완나품 공항', 'price': None, 'location_google_map_query': 'Suvarnabhumi Airport'}",
       "references": [
         {
           "title": "New baggage policy leads to longer THAI check-in times",
@@ -10350,21 +10342,18 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208973_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208973/new-baggage-policy-leads-to-longer-thai-checkin-times",
+      "source": ""
     },
     {
       "title": "중국 콜센터 사기단, 불법 입국 혐의로 체포",
       "summary": "- 태국 논타부리 호텔에서 중국인 14명이 불법 입국 혐의로 체포됨.\n- 이들은 캄보디아에서 콜센터 사기 행각을 벌이다 국경을 넘어 태국으로 도피한 것으로 추정됨.\n- 경찰은 이들에게서 52대의 휴대폰과 다수의 SIM 카드를 압수하고 추가 조사를 진행 중.",
       "full_translated": "태국 논타부리에서 캄보디아 콜센터 사기 연루 혐의를 받는 중국 국적자 14명이 불법 입국 혐의로 체포되었습니다. 경찰은 응암 웡완 소이 19에 위치한 호텔에서 이들을 검거했으며, 52대의 휴대폰과 다수의 SIM 카드를 압수했습니다. 용의자들은 22세에서 37세 사이이며, 경찰 조사 결과 캄보디아에서 활동하던 콜센터 사기단이 국경을 넘어 태국으로 도피한 것으로 드러났습니다. 이들은 차량 공유 앱을 통해 국경 지역에서 호텔까지 이동했으며, 현재 불법 입국 혐의로 추가 조사를 받고 있습니다. 이번 체포는 캄보디아 내 중국 콜센터 사기 조직들이 단속을 피해 태국으로 도피하는 사례가 증가하는 추세와 관련이 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 대상 범죄 가능성 및 잠재적 불안감 조성 가능성. 직접적인 위협은 아니지만 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "논타부리",
-        "price": null,
-        "location_google_map_query": "논타부리"
-      },
+      "event_info": "{'date': None, 'location': '논타부리', 'price': None, 'location_google_map_query': '논타부리'}",
       "references": [
         {
           "title": "Chinese call-centre scammers arrested for illegal entry",
@@ -10375,21 +10364,18 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208925_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208925/chinese-callcentre-scammers-arrested-for-illegal-entry",
+      "source": ""
     },
     {
       "title": "미얀마 주민, 태국 국경 도시에서 연료 확보 경쟁",
       "summary": "- 미얀마 주민들이 연료 가격 상승을 우려해 태국 국경 도시 매솟으로 몰려 연료를 채우고 있음.\n- 이는 중동 분쟁으로 인한 유가 상승에 대한 우려 때문으로, 태국 내에서도 일부 주유소에서 가격 인상이 시작됨.\n- 매솟 주민들 또한 연료 부족을 우려하여 주유소에 긴 줄이 이어지고 있음.",
       "full_translated": "미얀마 주민들이 중동 전쟁으로 인해 연료 가격이 상승하기 시작하면서 태국 탁(Tak) 지방의 매솟(Mae Sot) 지역으로 몰려와 차량에 연료를 채우고 있습니다. 카인(Kayin) 주의 먀와디(Myawaddy)에서 넘어오는 대부분의 차량은 승합차이며, 모에이(Moei) 강을 가로지르는 제1 태국-미얀마 우정의 다리를 통해 국경을 넘고 있습니다. 사진에서 한 운전자가 연료 탱크에 최대한 많은 연료를 넣기 위해 차량을 흔드는 모습이 포착되기도 했습니다. 이러한 유입으로 인해 매솟 주민들은 잠재적인 연료 부족을 우려하여 연료를 채우기 위해 서두르고 있습니다. PTT와 Bangchak은 국내 비축량이 충분하다고 말하며 현재 가격을 유지하고 있지만, 일부 경쟁업체들은 이미 가격을 인상하기 시작했습니다. Shell은 화요일에 디젤 가격을 리터당 4.20바트, 가솔린 가격을 1.50바트 인상했습니다. Caltex는 디젤 가격을 1.80바트, 대부분의 가솔린 가격을 리터당 0.90바트 인상했습니다. 미국과 이스라엘이 토요일에 이란을 공격한 이후 세계 원유 가격이 10~15% 상승했기 때문에 더 많은 인상이 예상됩니다. 매솟에서는 주유소마다 운전자들이 차례를 기다리며 긴 줄을 서고 있습니다. 미얀마 등록 차량 외에도 태국 개인 차량...",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행 중 차량을 이용하는 여행객들에게 연료 가격 변동 및 국경 지역 혼잡 가능성에 대한 정보 제공.",
-      "event_info": {
-        "date": "2026-03-03",
-        "location": "Mae Sot, Tak Province",
-        "price": "Shell: Diesel +4.20 baht/litre, Gasohol +1.50 baht/litre; Caltex: Diesel +1.80 baht/litre, Gasohol +0.90 baht/litre",
-        "location_google_map_query": "Mae Sot, Tak Province"
-      },
+      "event_info": "{'date': '2026-03-03', 'location': 'Mae Sot, Tak Province', 'price': 'Shell: Diesel +4.20 baht/litre, Gasohol +1.50 baht/litre; Caltex: Diesel +1.80 baht/litre, Gasohol +0.90 baht/litre', 'location_google_map_query': 'Mae Sot, Tak Province'}",
       "references": [
         {
           "title": "Myanmar residents rush to refuel in Thai border town",
@@ -10400,21 +10386,18 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208999_700.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.bangkokpost.com/thailand/general/3208999/myanmar-residents-rush-to-refuel-in-thai-border-town",
+      "source": ""
     },
     {
       "title": "3월 3일, 39분간의 붉은 달: 마카 부차 날의 완전 월식 생중계",
       "summary": "- 2069년 3월 3일 마카 부차 날에 완전 월식 생중계 예정\n- 태국 시간으로 15:44 - 21:23 사이에 진행되며, 18:23부터 관측 가능\n- 붉은 벽돌색의 완전한 달은 39분 동안 관측될 예정",
       "full_translated": "3월 3일 마카 부차 날의 '완전 월식' 생중계를 놓치지 마세요. '붉은 벽돌색 달' 또는 '라후가 달을 삼키는' 현상이 총 39분 동안 지속됩니다. 2069년 3월 3일, 국립천문연구소(NARIT) 페이스북에서 마카 부차 날의 '완전 월식' 현상을 태국 시간으로 15:44 - 21:23 (방콕 기준)에 생중계합니다. 태국에서는 달이 수평선 위로 떠오르는 18:23부터 동쪽에서 관측할 수 있습니다. 이때 완전 월식이 진행 중이므로, 달이 수평선에서 떠오르는 순간부터 19:02까지 붉은 벽돌색으로 보일 것입니다(총 39분). 이후 부분 월식, 반영 월식이 순서대로 나타나며 현상이 종료됩니다. 이 현상은 태국 전역에서 육안으로 관측할 수 있습니다. '월식'은 태양, 지구, 달이 같은 평면에 위치하는 현상으로, 지구가 태양과 달 사이에 위치할 때 발생합니다. 월식은 보름달, 즉 음력 14-15일에만 발생합니다. 달이 우주로 뻗어 나간 지구의 그림자를 통과하면서 지구에서 보는 달의 모습이 점차 가려지다가 완전히 가려진 후, 다시 그림자에서 벗어나면서 원래 모습을 되찾게 됩니다. 고대 태국인들은 이 현상을 '라후가 달을 삼킨다'고 불렀습니다. 달은 매달 지구를 공전하지만, 월식은 매번 보름달이 뜰 때마다 발생하지 않습니다. 이는 달의 궤도면이 지구의 궤도면과 약 5도 기울어져 있기 때문에 달이 매달 지구의 그림자를 통과하지 않고 그림자보다 높거나 낮은 위치를 지나가기 때문입니다. 평균적으로...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "특별한 천문 현상으로, 여행 중 특별한 경험을 원하는 사람들에게 흥미로운 정보. 다만, 시간대가 늦은 저녁이라 여행객에게 큰 영향을 주지는 않을 것으로 판단.",
-      "event_info": {
-        "date": "2069-03-03",
-        "location": "태국 전역",
-        "price": "무료",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2069-03-03', 'location': '태국 전역', 'price': '무료', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "ชมสด \"จันทรุปราคาเต็มดวง\" ปรากฏการณ์ \"ดวงจันทร์สีแดงอิฐ\" นาน 39 นาที",
@@ -10425,6 +10408,133 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLVLVhuujlowGpG.jpg",
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/society/2917677",
+      "source": ""
+    },
+    {
+      "title": "돈므앙 공항, 목요일부터 24시간 자동 출국 심사대 운영",
+      "summary": "- 돈므앙 국제공항이 승객 편의를 위해 24시간 자동 출국 심사대(ABC)를 목요일부터 운영합니다.\n- 2월 중순 시범 운영(오전 7시~오후 7시) 후, 이민국 심사대가 24시간 운영 준비를 완료했습니다.\n- 4월까지 공항 내 총 31개의 자동 심사대를 설치하여 국제 여행 편의를 개선하고 혼잡을 줄일 계획입니다.",
+      "full_translated": "방콕 돈므앙 국제공항은 승객의 편의를 위해 목요일부터 새로운 24시간 자동 출국 심사대(ABC)를 운영합니다. 이민국 심사대는 2월 중순 시범 운영(오전 7시~오후 7시) 후 24시간 자동 심사대 운영 준비를 완료했다고 랄리다 페리스위와타나 정부 부대변인이 화요일 밝혔습니다. 원활한 사용을 위해 승객은 ABC 게이트 사용 전 자격 요건을 확인해야 합니다. 랄리다 씨는 4월까지 공항 전체에 31개의 자동 심사대를 설치하여 국제 여행을 더욱 편리하게 하고, 피크 시간대의 혼잡을 줄이며, 승객 관리를 개선할 것이라고 말했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "공항 이용 관련 중요 정보이며, 여행객 편의에 직접적인 영향을 미치므로 높은 점수를 부여함. 출국 심사 시간 단축 기대.",
+      "event_info": {
+        "date": "2026-03-07",
+        "location": "돈므앙 국제공항",
+        "price": "무료",
+        "location_google_map_query": "돈므앙 국제공항"
+      },
+      "references": [
+        {
+          "title": "Don Mueang to open 24-hour automated departure gates on Thursday",
+          "url": "https://www.bangkokpost.com/thailand/general/3208864/don-mueang-to-open-24hour-automated-departure-gates-on-thursday",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208864_260303112033_700.jpg"
+        }
+      ],
+      "collected_at": "19:36",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208864_260303112033_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "온라인 쇼핑 사기 신고 급증: 4억 4천만 바트 이상의 피해 발생",
+      "summary": "- 태국 사이버 사기 방지 센터(ACSC)에 따르면 온라인 사기 신고가 급증하여 지난주에만 4억 4천만 바트 이상의 피해가 발생했습니다.\n- 가장 흔한 유형은 온라인 쇼핑 사기로, 피해 건수는 많지만 건당 피해액은 상대적으로 적습니다.\n- 전화 위협 사기의 피해액이 가장 컸으며, 투자 사기 및 취업 관련 사기가 그 뒤를 이었습니다.",
+      "full_translated": "최근 태국에서 온라인 쇼핑 사기 신고가 급증했습니다. 사이버 사기 방지 센터(ACSC)의 최신 자료에 따르면 지난주 2월 22일부터 28일까지 총 7,344건의 신고가 접수되었으며, 이는 전주보다 611건 증가한 수치입니다. 이 기간 동안 총 피해액은 4억 4,070만 바트에 달합니다.\n\n신고의 대부분은 온라인 쇼핑 사기(4,996건)였으며, 고용, 투자 및 소위 '전화 위협' 사기가 그 뒤를 이었습니다. 온라인 쇼핑 사기는 건당 피해액은 적지만 빈번하게 발생하여 많은 사람들에게 영향을 미치는 가장 만연한 위협 중 하나입니다. 그러나 총 피해액을 기준으로 보면 전화 위협 사기가 가장 높았습니다. 이 범주의 손실은 8,620만 바트에서 1억 1,780만 바트로 급증했습니다. 투자 사기가 2위, 취업 관련 소득 사기가 3위를 차지했습니다.\n\n당국은 콜센터 조직이 심리적 협박 전술을 계속 사용하고 있으며, 종종 피해자들이 심각한 범죄에 연루되었다고 거짓으로 비난하여 돈을 이체하도록 압력을 가하고 있다고 지적했습니다. ACSC 데이터에 따르면 취업 연령의 여성이 가장 큰 영향을 받았으며, 31~40세 개인이 전체 피해자 수에서 가장 높은 비율을 차지했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "온라인 쇼핑은 여행객도 많이 이용하는 서비스이므로 사기 피해 예방을 위해 알릴 필요가 있음. 피해 규모가 크므로 '보통' 수준으로 설정.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Online shopping fraud complaints surge",
+          "url": "https://www.bangkokpost.com/thailand/general/3208449/online-shopping-fraud-complaints-surge",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208449_260303082313_700.jpg"
+        }
+      ],
+      "collected_at": "19:36",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208449_260303082313_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "전쟁으로 태국 항공 허브 추진 가속화",
+      "summary": "- 중동 지역의 전쟁으로 인해 태국이 항공 허브로서의 기회를 얻게 됨.\n- 태국은 안전하고 안전한 환승을 원하는 사람들에게 대안을 제공할 수 있음.\n- 교통부는 항공 교통 효율성을 높이기 위해 관련 기관과 논의할 계획임.",
+      "full_translated": "중동 지역의 전쟁으로 인해 태국이 지역 틈새 시장을 채울 수 있는 영역이 드러났다고 장관은 말합니다. \n\n게시일: 2026년 3월 3일 18:47\n작성자: Molpasorn Shoowong 및 Narumon Kasemsuk\n\n전쟁으로 인해 중동 영공이 폐쇄되면서 태국은 국가를 항공 허브로 설립하려는 계획을 가속화하여 안전하고 안전한 환승을 원하는 사람들에게 대안을 제공해야 한다고 Phiphat Ratchakitprakarn 교통부 장관이 말했습니다.\n\n이번 주에 중동 항공사에서 운항하는 수천 편의 항공편이 취소되었지만 일부 공항에서는 제한된 서비스가 계속되거나 재개되었습니다.\n\nPhiphat 씨는 화요일에 \"주말에 분쟁이 발생한 이후 많은 외국인 관광객들이 타이 항공을 통해 태국으로 가는 장거리 항공편을 예약하고 있습니다. 유럽을 오가는 항공편은 이번 달에 완전히 예약되었습니다.\"라고 말했습니다.\n\n그러나 항공 허브를 개발하는 데는 시간이 걸린다고 그는 말했습니다. 보다 효율적인 항공 교통을 준비하기 위해 교통부는 주요 공항의 항공편 슬롯 관리에 대해 관련 기관과 논의하여 환승 용량을 늘리고 국영 항공사인 타이 항공의 효율성을 개선할 계획입니다.\n\n글로벌 여행 데이터 제공업체인 OAG에 따르면 두바이 공항은 작년에 세계에서 가장 붐비는 국제공항으로 런던의 히드로 공항, 서울의 인천 공항, 싱가포르의 창이 공항이 그 뒤를 이었습니다.\n\n타이 에어아시아의 주요 주주인 아시아 항공의 Tassapon Bijleveld 회장은 지리적",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국이 항공 허브로 부상할 가능성이 있으며, 이는 여행객들에게 장기적으로 영향을 미칠 수 있음. 항공편 예약 및 환승에 대한 정보는 여행 계획에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "War adds urgency to Thai aviation hub push",
+          "url": "https://www.bangkokpost.com/business/general/3209030/war-adds-urgency-to-thai-aviation-hub-push",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209030_700.jpg"
+        }
+      ],
+      "collected_at": "19:36",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209030_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "일본에서 태국 소녀 성매매 강요 혐의 남성, 혐의 부인",
+      "summary": "- 일본에서 마사지 업소를 운영하는 남성이 태국 소녀를 성매매하도록 강요한 혐의를 부인함.\n- 피고인은 소녀가 미성년자인지 몰랐다고 주장하며, 업소 관리자인 태국 여성이 나이를 속였다고 주장함.\n- 검찰은 소녀가 단기 비자로 입국하여 성매매를 강요받았다고 밝혔으며, 태국 경찰은 소녀의 어머니를 인신매매 혐의로 체포함.",
+      "full_translated": "일본에서 마사지 업소를 운영하며 당시 12세였던 태국 소녀를 성매매하도록 공모한 혐의로 기소된 남성이 월요일 법정에서 혐의를 부인했습니다. 마사유키 호소노(52)는 도쿄 지방 법원에서 열린 첫 공판에서 \"소녀가 미성년자인지 몰랐습니다.\"라고 진술했습니다. 그의 변호인은 또한 그가 도쿄 유시마 지역의 개인실 마사지 업소를 관리했던 태국 국적의 여성인 푼시리파냐 파카폰(38)에게 소녀의 나이에 대해 속았다고 주장했습니다. 검찰은 모두 진술에서 소녀의 어머니가 소녀에게 일본에서 일하게 될 것이라고 말한 후 소녀가 단기 비자로 일본에 입국했다고 밝혔습니다. 그들은 호소노 씨가 소녀에게 \"연습\"이라고 부르며 음란 행위를 하게 하고 남성 고객에게 성 서비스를 제공하도록 강요했다고 주장했습니다. 소녀의 진술서도 낭독되었는데, 그녀는 어머니가 자신을 일본에 혼자 남겨두고 돈을 벌어 보내라고 했다고 말했습니다. 기소장에 따르면 호소노 씨는 여성 관리인과 공모하여 2025년 6월 남성 고객에게 성 서비스를 제공하도록 강요했고, 두 달 후에는 소녀에게 음란 행위를 하게 했습니다. 태국 경찰은 12월에 소녀의 어머니를 인신매매 혐의로 체포했습니다. 일본에서 보호 감호를 받고 있던 소녀는 같은 달 태국으로 돌아갔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국인의 해외 범죄 관련 소식으로, 여행 안전에 대한 간접적인 영향을 줄 수 있음. 새로운 사건에 대한 정보이므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "도쿄",
+        "price": null,
+        "location_google_map_query": "도쿄"
+      },
+      "references": [
+        {
+          "title": "Accused man denies forcing young Thai girl into sex work in Japan",
+          "url": "https://www.bangkokpost.com/thailand/general/3208824/accused-man-denies-forcing-young-thai-girl-into-sex-work-in-japan",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208824_700.jpg"
+        }
+      ],
+      "collected_at": "19:36",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208824_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국, 호르무즈 해협 폐쇄 대비 연료 공급선 다변화 추진",
+      "summary": "- 태국 정부는 호르무즈 해협 폐쇄 가능성에 대비하여 연료 공급선 다변화를 추진 중이다.\n- 서아프리카 및 미국으로부터 원유를 수입하고, 말레이시아 및 미국으로부터 LNG 수입을 늘릴 계획이다.\n- 가격 급등 및 공급 부족을 피하기 위해 신중한 관리가 필요하다고 강조했다.",
+      "full_translated": "태국은 글로벌 석유 및 액화 천연 가스(LNG) 운송의 핵심 통로인 호르무즈 해협 폐쇄로 인한 영향 상쇄를 위해 대체 연료 공급 확보에 나섰습니다. 오탑폴 러크피분 에너지부 장관 대행은 정부가 서아프리카와 미국으로부터 원유를 구매할 계획이며, 4월 말까지 배송이 완료될 것으로 예상한다고 밝혔습니다. 이번 조치는 미국-이란 분쟁에 대응하여 도입된 석유 수출 중단 조치 이후 에너지 당국과 민간 기업 간의 논의에 따른 것입니다. 태국은 오랫동안 에너지 수입 다변화를 추구해 왔습니다. 1997년에서 2007년 사이에 태국은 중동 석유, 특히 호르무즈 해협 주변 국가에 대한 의존도를 줄였습니다. 2004-05년 세계 석유 가격이 급등하면서 정부와 PTT(국영 에너지 회사)는 새로운 공급원을 모색하게 되었습니다. 2011년까지 나이지리아와 러시아로부터의 수입이 크게 증가하여 중동 의존도가 90%에서 50-60%로 감소했습니다. 오탑폴 장관은 또한 스팟 시장에서의 LNG 구매도 다변화하여 미국과 말레이시아로부터 공급을 모색할 것이라고 밝혔습니다. 그러나 그는 중동 이외 지역에서의 LNG 경쟁이 심화될 것으로 예상되며, 가격 급등과 비축량 부족을 피하기 위한 신중한 관리가 필요하다고 경고했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 연료 수급 관련 뉴스로, 여행객의 이동 및 물가에 간접적인 영향을 줄 수 있음. 호르무즈 해협 폐쇄 가능성에 대한 언급은 잠재적 위험 요소를 시사한다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai authorities hunt for new fuel sources",
+          "url": "https://www.bangkokpost.com/business/general/3209040/thai-authorities-hunt-for-new-fuel-sources",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209040_700.jpg"
+        }
+      ],
+      "collected_at": "19:36",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3209040_700.jpg",
       "date": "2026-03-03"
     }
   ]
