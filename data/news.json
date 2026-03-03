@@ -9339,14 +9339,9 @@
       "summary": "- 사우디아라비아 리야드의 미국 대사관이 드론 공격을 받아 화재가 발생했습니다.\n- 이 공격은 미국과 이란 간의 긴장이 고조되는 가운데 발생했습니다.\n- 현재까지 인명 피해는 보고되지 않았으며, 대사관은 자국민에게 안전을 당부했습니다.",
       "full_translated": "3월 3일 새벽, 사우디아라비아 리야드에 있는 미국 대사관이 드론 공격을 받아 화재가 발생하고 일부 재산 피해가 발생했습니다. 사우디아라비아 국방부는 X 플랫폼을 통해 초기 평가 결과 미국 대사관이 2대의 드론 공격을 받았다고 밝혔습니다. 이로 인해 경미한 화재와 물질적 손실이 발생했지만 부상자는 보고되지 않았습니다. 이번 공격은 이란이 미국의 공격에 대한 대응으로 미사일을 발사하고 미국 기지가 있는 아라비아 만 연안 국가를 공격한 후 지역 긴장이 고조된 상황에서 발생했습니다. 최소 3명의 소식통은 폭발음이 들렸고 이른 아침에 대사관 지역에서 불길이 치솟는 것을 봤다고 밝혔습니다. 한 소식통은 화재 규모가 크지 않았다고 전했습니다. 사진에는 여러 국가의 대사관과 외교 공관이 위치한 리야드 외교 지역에서 검은 연기가 피어오르는 모습이 담겼습니다. 2명의 소식통은 새벽 시간에는 대사관 건물이 비어 있었기 때문에 부상자는 없다고 확인했습니다. 사건 발생 후 리야드 주재 미국 대사관은 리야드, 제다, 다란에 거주하는 미국 시민들에게 거주지에 머물고 추가 공지가 있을 때까지 대사관 방문을 자제하라는 '대피령'을 발표했습니다. 현재까지 미국 대사관 대변인과 사우디아라비아 정부 언론 사무소는 이번 사건에 대해 추가 논평을 하지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국 공관에 대한 공격은 잠재적으로 여행 안전에 영향을 미칠 수 있으며, 지역 긴장 고조에 대한 인식을 제공합니다. 대사관의 '대피령'은 여행자에게 직접적인 영향을 미칠 수 있습니다.",
-      "event_info": {
-        "date": "2024-03-03",
-        "location": "리야드 미국 대사관",
-        "price": null,
-        "location_google_map_query": "US Embassy in Riyadh"
-      },
+      "event_info": "{'date': '2024-03-03', 'location': '리야드 미국 대사관', 'price': None, 'location_google_map_query': 'US Embassy in Riyadh'}",
       "references": [
         {
           "title": "โดรนถล่มสถานทูตสหรัฐฯ ในซาอุฯ ไฟลุกกลางริยาด ท่ามกลางความตึงเครียดสหรัฐ-อิหร่าน",
@@ -9357,21 +9352,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZjQKwBB6NEwxc.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917552",
+      "source": ""
     },
     {
       "title": "방콕 인근 호텔에 숨어든 중국인 콜센터 사기단 14명 검거",
       "summary": "- 태국 경찰이 캄보디아에서 도주한 중국인 콜센터 사기단 14명을 검거했습니다.\n- 이들은 방콕 인근의 한 호텔에 숨어 제3국으로 도피를 준비 중이었습니다.\n- 경찰은 이들을 불법 입국 혐의로 체포하여 조사 중입니다.",
       "full_translated": "논타부리 - 경찰은 캄보디아에서 도주한 중국인 14명을 콜센터 사기단으로 보고 검거했습니다. 이들은 자연 경로를 통해 태국으로 넘어와 응암웡완 지역의 한 호텔에 숨어 제3국으로 도피하려 했습니다.\n\n2069년 3월 2일 13시 30분, 워라차트 센캄 경찰청장, 푼숙 테차쁘라딧폰 1과장과 경찰 병력이 논타부리 이민국 경찰서장 팟통티우 다마퐁, 수리야 푸앙솜밧 3 이민국 수사국장, 숙릿 미밤룽 논타부리 이민국 부국장과 협력하여 응암웡완 19번 골목 지역의 한 호텔에서 중국인 남성 14명을 체포했습니다. 이들은 총 52대의 휴대폰과 유심카드를 소지하고 있었습니다. 경찰은 이들을 논타부리 이민국으로 이송하여 조사했습니다.\n\n이번 체포는 경찰이 해당 호텔에 여러 명의 중국인이 투숙했다는 정보를 입수하여 이루어졌습니다. 경찰은 4층에 있는 7개의 객실에 중국인 남성 14명이 투숙하고 있음을 확인했습니다. 조사 결과 이들은 콜센터 사기단으로 밝혀졌습니다.\n\n조사 결과, 이들은 차량을 고용하여 호텔로 이동했으며, 경찰은 이들을 불법 입국 혐의로 체포하여 랏타나티벳 경찰서로 이송했습니다.\n\n보도에 따르면, 태국과 캄보디아 국경 지역에서 전투가 발생하면서 캄보디아에 거주하던 중국인 콜센터 사기단이 태국으로 도피한 것으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 범죄 관련 소식으로, 여행객 안전에 대한 인식을 높이는 차원에서 포함. 직접적인 위협은 아니지만 주의를 요함.",
-      "event_info": {
-        "date": null,
-        "location": "응암웡완",
-        "price": null,
-        "location_google_map_query": "응암웡완 호텔"
-      },
+      "event_info": "{'date': None, 'location': '응암웡완', 'price': None, 'location_google_map_query': '응암웡완 호텔'}",
       "references": [
         {
           "title": "สืบภาค 1 บุกจับ 14 จีนเทา แก๊งคอลเซ็นเตอร์ หลบหนีจากกัมพูชา ซุกโรงแรมย่านงามวงศ์วาน",
@@ -9382,21 +9374,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZjPr5nSrMgoKU.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/crime/2917555",
+      "source": ""
     },
     {
       "title": "Royal Enfield, 고아에서 영감을 받은 Goan Classic 350 오토바이 출시",
       "summary": "- Royal Enfield가 고아의 보헤미안 스타일에서 영감을 받은 Goan Classic 350 오토바이를 출시했습니다.\n- 이 모델은 자유로운 정신과 개성을 표현하는 데 중점을 둡니다.\n- 단순함, 낮은 실루엣, 싱글 시트, 독특한 색상으로 보헤미안 스타일을 강조합니다.",
       "full_translated": "Royal Enfield는 인도 고아의 70~80년대 보헤미안 및 커스텀 스타일에서 영감을 얻은 Goan Classic 350 오토바이를 출시했습니다. Royal Enfield 아시아 태평양 지역 사업 책임자인 마노즈 가자르라와르는 Royal Enfield가 125년 이상의 역사를 가진 전설적인 오토바이 브랜드이며 글로벌 중형 오토바이(250~750cc) 그룹의 선두 주자라고 말했습니다. Goan Classic은 자유 정신과 개성을 존중하는 Royal Enfield의 헌정입니다. Goan Classic 350은 고아의 단순한 모토 문화를 반영하며, 단순한 기계가 아닌 라이더의 정체성 탐구 및 정신 표현 도구를 만들고자 하는 Royal Enfield의 열정을 반영합니다. 낮은 실루엣, 싱글 시트, 유려한 라인, 독특한 색상을 통해 Goan Classic은 보헤미안 스타일과 자유로운 정신을 담고 있습니다. 이 모델은 자유를 사랑하고 태국에서 무제한 여행을 즐기는 라이더에게 완벽한 동반자가 될 것입니다. Goan Classic 350은 진정성을 추구하고 자유 정신과 개성을 표현하고자 하는 사람들을 위한 Bobber 스타일의 오토바이입니다. 프리미엄 디자인과 강력한 토크 엔진을 특징으로 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 오토바이 여행을 즐기는 여행자에게 흥미로운 정보가 될 수 있으며, 새로운 모델 출시는 관련 시장 동향을 파악하는 데 도움이 됩니다.",
-      "event_info": {
-        "date": null,
-        "location": "고아 (인도)",
-        "price": null,
-        "location_google_map_query": "Goa, India"
-      },
+      "event_info": "{'date': None, 'location': '고아 (인도)', 'price': None, 'location_google_map_query': 'Goa, India'}",
       "references": [
         {
           "title": "Royal Enfield เปิดตัว Goan Classic 350 มอเตอร์ไซค์ที่ได้แรงบันดาลใจจากโบฮีเมียน",
@@ -9407,21 +9396,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZkkyzGjPNdsv3.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/auto/news/2917512",
+      "source": ""
     },
     {
       "title": "이스라엘 아이언 빔: 드론 파괴 레이저 무기, 작동 원리 및 한계",
       "summary": "- 이스라엘 라파엘사에서 개발한 아이언 빔은 에너지 기반 방공 시스템임.\n- 레이저를 사용하여 미사일, 박격포, 드론 등 위협을 탐지, 추적, 파괴함.\n- 발사 비용이 저렴하고 속도가 빠르지만, 날씨에 영향을 받는 단점 존재.",
       "full_translated": "아이언 빔(Iron Beam)은 히브리어로 '에이탄의 빛(Eitan's Light)'이라고도 불리며, 이스라엘의 라파엘 Advanced Defense Systems에서 개발한 에너지 기반 방공 시스템입니다. \n\n아이언 빔의 작동 원리는 위협적인 미사일을 탐지, 추적 및 파괴하는 것입니다. 레이더 감시 시스템과 연동하여 로켓, 박격포 또는 드론(UAV)과 같은 위협을 탐지합니다. 목표물이 발견되면 전투 통제 시스템은 레이저를 목표물을 정확하게 추적하도록 지시합니다. 아이언 빔은 100kW급 파이버 레이저 기술을 사용하며, 빔 결합 기술을 통해 작은 빔을 한 점에 집중시켜 에너지 밀도를 높입니다. 레이저가 목표물에 닿으면 몇 초 안에 엄청난 열을 발생시켜 외부 구조를 태우거나 로켓 탄두를 폭발시켜 공중에서 파괴합니다.\n\n아이언 빔의 장점은 발사당 비용이 2~5달러(약 70~180바트)로 저렴하다는 점입니다. 이는 아이언 돔의 요격 미사일 가격이 40,000~50,000달러인 것과 비교됩니다. 또한, 광속으로 공격하여 목표물을 빠르게 파괴할 수 있습니다. 단점으로는 전기가 공급되는 한 무제한으로 발사할 수 있지만, 구름을 통과하지 못하는 등 날씨의 영향을 받는다는 점입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향은 없으나, 국제 정세 및 안보 관련 정보로서 참고 가치가 있다고 판단됨. 다만, 여행 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เจาะอาวุธสตาร์วอร์อิสราเอล Iron Beam ลำแสงเลเซอร์ยิงทำลายโดรน ดูดี แต่แหวกผ่านเมฆไม่ได้",
@@ -9432,21 +9418,18 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhM7vefIkM5Akc66D.jpg",
-      "date": "2026-03-03"
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917429",
+      "source": ""
     },
     {
       "title": "텍사스에서 열기구, 300미터 통신탑과 충돌... 구조 작업 진행",
       "summary": "- 미국 텍사스에서 열기구가 통신탑과 충돌하여 탑승자들이 공중에 고립됨.\n- 구조대가 4시간 넘게 구조 작업을 벌여 탑승자들을 안전하게 구조함.\n- 사고는 롱뷰 소방서에 신고되었으며, 구조대는 고도 274미터 높이에서 구조 작업을 펼침.",
       "full_translated": "미국 텍사스 주에서 열기구가 약 274미터 높이의 통신탑과 충돌하는 사고가 발생했습니다. 이로 인해 열기구에 타고 있던 사람들이 공중에 4시간 이상 고립되었으며, 구조대가 구조 작업을 진행했습니다. 롱뷰 소방서에 따르면, 사고는 2월 28일 토요일 오전 8시 13분에 신고되었습니다. 열기구는 300번 주 고속도로와 FM 1844 인근의 라디오 타워와 충돌했습니다. 현장에 도착했을 때, 열기구는 지상에서 약 274미터 높이에 매달려 있었습니다. 다채로운 색상의 열기구 천은 찢어져 타워의 와이어에 감겨 있었고, 바구니는 아래에 매달려 바람에 흔들리고 있었습니다. 드론 영상은 두 명의 열기구 탑승자가 바구니에서 나와 안전 장치를 착용한 뒤, 구조대원이 기다리는 타워 구조물로 몸을 옮기는 순간을 보여줍니다. 롱뷰 소방서의 스티븐 윈첼 중위는 이러한 높이의 타워 등반은 많은 인력과 팀워크를 필요로 한다고 밝혔습니다. 14명 이상의 구조대원이 타워의 여러 높이에 배치되었으며, 최대 길이 300피트의 구조용 로프를 사용하여 구조 작업을 진행했습니다. 바구니에 도달하는 데 1시간, 두 사람을 구조물에 고정하는 데 1시간, 그리고 로프 하강에 거의 2시간이 소요되어 총 4시간 이상의 구조 작업이 진행되었습니다. 윈첼은 장비와 함께 거의 1,000피트 높이를 오르내리는 것은 매우 힘든 일이었지만, 두 사람 모두 구조할 수 있어서 만족스럽다고 말했습니다. 롱뷰 소방서의 마커스 델라니 소방관은...",
       "category": "TRAVEL",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 내 사건은 아니지만, 열기구 사고는 여행 안전에 대한 간접적인 영향을 줄 수 있음. 다만, 발생 위치가 텍사스이므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "Longview, Texas",
-        "price": null,
-        "location_google_map_query": "Longview, Texas"
-      },
+      "event_info": "{'date': None, 'location': 'Longview, Texas', 'price': None, 'location_google_map_query': 'Longview, Texas'}",
       "references": [
         {
           "title": "ระทึกกลางอากาศ! บอลลูนชนเสาสื่อสารสูงเกือบ 1,000 ฟุต ในเท็กซัส กู้ภัยเร่งช่วยชีวิต",
@@ -9457,6 +9440,133 @@
       ],
       "collected_at": "10:44",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZjP225yiURlqZ.jpg",
+      "date": "2026-03-03",
+      "link": "https://www.thairath.co.th/news/foreign/2917557",
+      "source": ""
+    },
+    {
+      "title": "총리, 분쟁 상황 과소평가",
+      "summary": "- 아니틴 총리는 미국과 이란 간의 분쟁이 태국에 미치는 영향이 제한적이며 관리 가능하다고 밝혔습니다.\n- 관련 부처 및 민간 부문 대표들과 회의를 통해 상황을 평가하고 필요한 조치를 권고했습니다.\n- 글로벌 유가 상승은 일시적이었으며, 태국은 60일 동안 사용할 수 있는 충분한 석유 매장량을 보유하고 있습니다.",
+      "full_translated": "아누틴 차른비라쿨 총리는 미국과 이란 간의 분쟁이 태국에 미치는 영향이 제한적이며 관리 가능하다고 국민들에게 안심시켰습니다. 관련 부처 및 민간 부문 대표들과의 회의 후, 아니틴 총리는 중동 지역의 긴장이 어느 정도 태국에 영향을 미쳤지만, 그 결과는 심각하지 않다고 말했습니다. 그는 “중동 분쟁의 영향이 어느 정도 느껴졌지만, 관리 가능하며 해결할 수 있습니다. 현재 단계에서는 심각하지 않습니다.”라고 말했습니다.\n\n이번 회의는 상황 전개를 감시하고 태국에 미칠 잠재적 영향을 평가하기 위해 개최되었으며, 관계자들은 필요한 경우 업데이트를 제공하고 추가 조치를 권고하는 임무를 맡았습니다. 아니틴 총리는 적대 행위 발발 후 글로벌 유가가 잠시 상승했지만 이후 크게 완화되었다고 언급하며 상당한 글로벌 공급 과잉을 그 이유로 들었습니다. 그는 또한 에너지부의 유가 변동 평가와 상무부의 수출 영향 모니터링과 함께 경제적 영향에 대한 추가 논의를 위해 회의를 소집할 예정입니다. 에크니티 니티탄프라파스 재무부 장관은 세계 유가가 초기에는 약 10% 상승했다가 5% 증가로 완화되었다고 말했습니다. 태국은 현재 60일 동안 사용할 수 있는 충분한 석유 매장량을 보유하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 분쟁이 태국 경제, 특히 유가에 미치는 영향에 대한 정보는 여행 비용 및 전반적인 경제 상황에 영향을 미칠 수 있으므로 관련성이 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "PM plays down conflict",
+          "url": "https://www.bangkokpost.com/thailand/general/3208394/pm-plays-down-conflict",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208394_260303061009_700.jpg"
+        }
+      ],
+      "collected_at": "12:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208394_260303061009_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국, 중동 긴장 고조 속 유가 급등 대비",
+      "summary": "- 태국 에너지 당국은 이란-이스라엘 긴장으로 인한 유가 급등에 대비하고 있습니다.\n- 2022년 러시아-우크라이나 전쟁 당시의 유가 급등과 유사한 상황을 우려하고 있습니다.\n- 정부는 유류기금 활용, 전력청 및 PTT의 전기료 보조금 지급 등 비상 조치를 준비 중입니다.",
+      "full_translated": "태국 에너지 당국은 이란, 이스라엘, 미국 간의 긴장 고조로 인해 글로벌 원유 공급 차질 및 경제 불안에 대한 우려가 커짐에 따라 2022년 러시아-우크라이나 전쟁 발발 당시와 유사한 위기로부터 국가를 보호하기 위한 조치를 강화하고 있습니다. 당국은 전력 회사와 협력하여 러시아의 우크라이나 침공 이후 발생했던 급격한 가격 인상을 반복하지 않도록 노력하고 있습니다. 2022년 3월, 글로벌 원유는 배럴당 거의 140달러까지 급등했습니다. 글로벌 에너지 가격 급등으로 인해 정부는 유류 기금을 활용하여 국내 석유 및 액화 석유 가스 비용을 보조해야 했습니다. 동시에 태국의 발전이 천연 가스에 크게 의존하고 있기 때문에 급등한 전기료를 보조하기 위해 태국 전력청(Egat)과 국영 석유 및 가스 복합 기업 PTT Plc가 필요했습니다. 이러한 긴급 프로그램으로 인해 국가적으로 약 3,000억 바트의 비용이 발생했습니다. 가스 가격이 안정된 후 소비자들은 Egat와 PTT에 상환하기 위해 전기 요금을 통해 돈의 일부를 상환해야 했습니다. 관계자는 중동에서 장기간 전투가 벌어질 경우 유사한 충격이 발생할 수 있다고 경고했습니다. “러시아-우크라이나 전쟁의 낡은 상처는 이제 막 아물었습니다. 새로운 상처가 발생하면 우리나라는 경제적으로 감당할 수 없을 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "유가 상승은 여행객의 교통비 및 물가 상승에 간접적인 영향을 미칠 수 있음. 상황이 악화될 경우 직접적인 영향 발생 가능.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand braces for oil price shock",
+          "url": "https://www.bangkokpost.com/business/general/3208333/thailand-braces-for-oil-price-shock",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208333_700.jpg"
+        }
+      ],
+      "collected_at": "12:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208333_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "미국, 태국 포함한 파트너들과 무역 협상 마무리 예정",
+      "summary": "- 미국 무역대표부(USTR)는 외국 관세 인하 및 무역 장벽 완화 추진\n- 트럼프 행정부의 2026년 무역 정책 의제의 일환\n- 태국, 한국, 일본 등과 새로운 무역 협상 및 프레임워크 합의 마무리 목표",
+      "full_translated": "미국 무역대표부(USTR)는 올해 외국 관세 및 비관세 장벽의 추가 감축을 추진하고 '상호적인' 무역 협정을 시행하며 새로운 불공정 무역 관행 조사 개시를 고려할 것이라고 밝혔습니다. 이러한 약속은 도널드 트럼프 대통령의 국제긴급경제권한법에 따른 관세 부과를 대법원이 무효화한 지 1주일여 만에 발표된 트럼프 행정부의 2026년 무역 정책 의제의 일부입니다.\n\n다음은 의제의 주요 세부 사항입니다.\n\n미국은 역내 원산지 규정, 비시장 경제로부터의 투자 및 산업 과잉 생산으로 인해 발생하는 문제 등 미국-멕시코-캐나다 무역 협정의 결함을 해결하기 위해 노력할 것입니다. 미국은 더 나은 균형과 공정성을 위해 중국과의 양자 무역을 관리하고 작년에 체결된 무역 휴전에 대한 중국의 준수를 모니터링할 것입니다. 트럼프 행정부는 파트너와의 새로운 무역 협정을 체결하고 유럽 연합, 인도, 일본, 북마케도니아, 한국, 스위스, 리히텐슈타인, 태국 및 베트남과의 프레임워크 협정을 마무리하기 위해 노력할 것입니다. 미국은 아르헨티나, 방글라데시, 캄보디아, 엘살바도르, 과테말라, 인도네시아, 말레이시아 및 대만과의 협정을 마무리하고 기존 무역법을 통해 모든 협정을 시행할 것입니다. 미국은 글로벌 과잉 생산, 해산물 남용 및 기타 문제 해결에 새로운 '섹션 301' 불공정 무역 조사가 필요한지 평가할 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국과의 무역 협상 관련 내용이 포함되어 있어 경제 및 잠재적인 여행 관련 변화에 영향을 줄 수 있지만, 당장 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "USTR to seek more foreign tariff cuts, finalise framework deals with partners, including Thailand",
+          "url": "https://www.bangkokpost.com/business/general/3208843/ustr-to-seek-more-foreign-tariff-cuts-finalise-framework-deals-with-partners-including-thailand",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208843_700.jpg"
+        }
+      ],
+      "collected_at": "12:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208843_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "이란과의 전쟁 격화로 무역 타격: 태국 경제에 미치는 영향",
+      "summary": "- 이란과의 분쟁으로 에너지 가격, 운송료 상승, 위험 프리미엄 증가 등 글로벌 무역에 영향.\n- 태국 상공회의소는 중동 및 유럽으로의 태국 제품 수출 지연 및 비용 상승 경고.\n- 호르무즈 해협 폐쇄 및 안보 위험 증가로 에너지 공급 차질, 유가 급등 우려.",
+      "full_translated": "태국 상공회의소(TCC)는 이란과의 지속적인 분쟁이 에너지 가격 상승, 운송료, 위험 프리미엄 및 해운 복잡성을 통해 글로벌 무역에 영향을 미치고 있다고 밝혔습니다. TCC는 태국 국립 해운 협의회(TNSC)와 함께 태국 제품의 중동 및 유럽 수출이 지연되고 수출 비용이 증가할 수 있다고 경고했습니다. TCC 회장 Poj Aramwattananont는 월요일 에너지 회사들이 호르무즈 해협 폐쇄와 같은 경로 폐쇄와 고조된 안보 위험으로 인해 운송 속도가 느려짐에 따라 글로벌 에너지 공급이 타이트해질 수 있다고 설명했습니다. 회장에 따르면 유가는 급등하여 많은 국가에서 인플레이션 압력을 가할 가능성이 높습니다. 호르무즈 해협은 전 세계 석유 거래의 약 20%를 차지하며 액화 천연 가스를 아시아로 운송하는 주요 해상 경로 역할을 합니다. Poj씨는 태국의 경우 석유 및 천연 가스 가격의 변동성으로 인해 생산 비용, 전기 가격, 운송 및 생활 비용이 상승하여 면밀한 모니터링이 필요하다고 말했습니다. “지정학적 긴장이 고조되면서 원유 가격이 상승했으며 지속적인 변동성이 예상됩니다. 이는 전 세계 해상, 항공 및 육상 운송 비용 상승으로 이어져 전반적인 물류 비용이 증가할 가능성이 높습니다.”",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 경제 상황에 대한 뉴스로, 물가 상승으로 인한 여행 비용 증가 가능성이 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Trade hit as war with Iran escalates",
+          "url": "https://www.bangkokpost.com/business/general/3208358/trade-hit-as-war-with-iran-escalates",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208358_700.jpg"
+        }
+      ],
+      "collected_at": "12:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260302/c1_3208358_700.jpg",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "태국 증시, 단기적으로 50-75포인트 하락 가능성",
+      "summary": "- 아시아 전반의 위험 회피 심리 확산으로 태국 증시가 단기적으로 하락할 수 있다는 분석이 제기됨.\n- 지정학적 긴장(호르무즈 해협 봉쇄 가능성)과 중국, 러시아의 개입 여부가 주요 변수로 작용할 수 있음.\n- 이란 최고 지도자 사망 후 상황이 안정화될 가능성도 있으며, 유가 하락은 최악의 상황은 피했다는 신호로 해석됨.",
+      "full_translated": "태국 증권 거래소(SET)는 아시아 전반에 걸쳐 위험 회피 심리가 확산됨에 따라 단기적으로 50-75포인트 또는 3-5% 하락할 수 있지만, 대부분의 글로벌 시장의 하락세는 지금까지 억제되어 왔으며, 이는 체계적인 공황보다는 주의를 시사한다고 분석가들은 말합니다. 역사적 데이터에 따르면 1966년 이스라엘-하마스 전쟁과 같이 장기화되었지만 고조되지 않은 상황에서는 50-75포인트(3-5%) 하락할 것으로 예상된다고 InnovestX Securities는 밝혔습니다. 향후 72시간 동안 면밀히 주시해야 할 중요한 요소는 호르무즈 해협에서의 작전이 장기적인 봉쇄로 이어질지 여부입니다. 또한 투자자들은 중국과 러시아의 개입 수준을 주시해야 하며, 이는 분쟁의 방향을 결정할 수 있다고 증권사는 연구 노트에서 밝혔습니다. Bualuang Securities (BLS)의 주식 연구 책임자인 Piriyapon Kongvanich는 조심스럽게 건설적인 어조로 이란 최고 지도자 Ayatollah Ali Khamenei의 사망과 장거리 무기 개발을 중단하고 협상을 재개하려는 국가의 새로운 지도부의 신호에 따라 분쟁이 궁극적으로 단기적으로 끝날 수 있다고 말했습니다. 시장은 석유 및 금에서 초기 공황 주도 움직임 이후 안정화에 가까워지고 있을 수 있습니다. 증권사는 최악의 공포가 아직 현실화되지 않았다는 신호로 하루 중 최고치에서 원유 가격이 하락한 점을 지적했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 환율 변동 등을 통해 간접적인 영향을 줄 수 있음. 현재 시점에서는 큰 변동폭을 예상하기 어려우므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai bourse faces crash of up to 75 points",
+          "url": "https://www.bangkokpost.com/business/investment/3208594/thai-bourse-faces-crash-of-up-to-75-points",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208594_260303062946_700.jpg"
+        }
+      ],
+      "collected_at": "12:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260303/c1_3208594_260303062946_700.jpg",
       "date": "2026-03-03"
     }
   ]
