@@ -11296,14 +11296,9 @@
       "summary": "- 태국 정부가 자국에 발이 묶인 관광객들을 위해 비자 연장을 고려하고 있습니다.\n- 이는 중동 지역의 분쟁으로 인해 항공편 운항에 차질이 생겨 관광객들이 어려움을 겪고 있기 때문입니다.\n- 구체적인 비자 연장 조건 및 절차는 아직 발표되지 않았습니다.",
       "full_translated": "태국이 자국에 발이 묶인 관광객들을 위해 비자를 연장할 예정입니다. - Ореанда-Новости",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 취소로 태국에 발이 묶인 여행객에게 직접적인 영향을 미치는 비자 관련 업데이트이므로 중요도가 높음. 비자 연장 정책은 여행 일정에 차질을 겪는 여행객에게 도움이 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to extend visas to tourists stranded in the country - Ореанда-Новости",
@@ -11312,23 +11307,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN3BldWVxVnMxcHk2MTFqVnpIcTUtdTYxVnB5RmtmaExRalFJcHE5SHo0M1F4UmhrSldJZ0tMT0p0T2UybG1QcDlIaG8yRFZoSC1VNkhpdS1PU1ZNbTFORVM4MGd6M2VTMVhyS3ZxbHFOYndZdHR2WXk0bS1GYmRqTDNyaFNKdDFwZmtKWHd1dFZrQ0x4UVl4cXR6RmcyaXpvOHZZVDYxX3JaM2hxVWI5UHpITm9CQQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광청, 여행 위기 모니터링 센터 개설하여 적극 대응",
       "summary": "- 중동 지역 항공편 취소 및 불안정으로 인한 여행 차질에 대응\n- 관광 위기 모니터링 센터를 통해 상황을 주시하고 필요한 조치 시행\n- 국제선 승객에게 미치는 영향 최소화 노력",
       "full_translated": "태국 관광청은 여행 차질 증가, 중동 항공편 취소, 국제선 승객에게 영향을 미치는 지역 불안정에 대응하기 위해 관광 위기 모니터링 센터를 개설하여 적극적으로 대응하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 취소 및 여행 차질에 대한 태국 정부의 대응 소식은 여행자에게 중요한 정보이며, 특히 현재 방콕에 있거나 방콕으로 여행 예정인 여행객에게 유용합니다. 관광청의 위기 대응 노력은 여행 안전에 긍정적인 영향을 미칠 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourism Authority Responds Proactively by Launching the Tourism Crisis Monitoring Centre Amid Escalating Travel Disruptions, Middle Eastern Flight Cancellations, and Regional Instability Affecting International Passengers - Travel And Tour World",
@@ -11337,23 +11329,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOZXVWakZTSE9iT0xFREVHNGVxSmVEUEMxRnlYR2dDRXA3OU01NGtJSk9KbXJuYjRtMmw5R1FLSG1MZFpvUS1vT0ZycnYtSkFpZWNSYlJmbndrZXR4WmtCbUlUdjlJTEdtcnNtMDVIeU9SREowVjktbGQxNWFSMFg4U09NYmI2YVBtcEQ4VlBfQThvUF9BSjhIRGkwUTl4Z3Z6dWxkNXRMLWFkYWRBbHdTOHdWX3k4VTZNUXFERDRNZUdHMHppbXBCUkloWUNFakJkRE4wSDFwUWJvbWt6ckt0NHR5VEtvR2VhQWJOSFBxdUJCX21GSXh6aXIzc0VzcVRGNFUxV3h1X3NtNGlEYzlKR2RlUF9yQkIteWdaYldpQ3ZUQ0FqNFFlRmI4cVk3T1FsQ0xxUVlUOU56azJYUFpfdHVjcDJ1dkZPcmNkM212T2ZJMy1YTWNLbGV3?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 82개국 대상 비자 면제 여행 확대…태국 관광 활성화 기대",
       "summary": "- 중국이 82개국에 대한 비자 면제 여행을 확대하면서 태국 관광 시장에 긍정적인 영향을 미칠 것으로 예상됨.\n- 러시아, 세르비아, 벨라루스, 인도네시아, 이집트, 케냐, 쿠바, 피지 등 다양한 국가가 수혜를 입을 것으로 전망됨.\n- 이번 조치로 태국을 방문하는 중국인 관광객 수가 증가하고, 관련 산업 전반에 활력을 불어넣을 것으로 기대됨.",
       "full_translated": "중국이 82개국에 대한 비자 면제 여행을 확대하면서 러시아, 세르비아, 벨라루스, 태국, 인도네시아, 이집트, 케냐, 쿠바, 피지 등이 수혜를 입을 것으로 예상됩니다. 이번 조치는 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국의 비자 면제 정책 변화가 태국 관광에 미치는 영향 분석. 새로운 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Russia Joins Serbia, Belarus, Thailand, Indonesia, Egypt, Kenya, Cuba, Fiji and More as Tourism booms with China’s New Visa Free Travel Access to 82 Countries - Travel And Tour World",
@@ -11362,23 +11351,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMnB5bnBhcE5SRkZxTTJoenV2M1NDdHc3WVF3UnZCbEVId3p6dnR1c1M4ZE44R2lIZ0RaTU1Ha3BPQU9BTkZ5WXB3bzlBbFR4THo2ZmxaUnlNcFk0czgwYVNLTF9LTmg3cWF4MldLOFMyWFRPRmdGX2FOTXo5TXUyRTJHY3pzTUkwcFNDcEM0d1c3Q3lvUWRyZkdjdHJDdmdSX0N3OVZ1QkRYZFlRdkNxZVF1dWUwa0Q1Uk1vblFJcm1lVWowWWFWWkx4MmJ1MkViOXFmcWxsaVhWNDN1cjloeGFHcmN6Z0xqeENkX2ZaMUpqNFItaU9EZFVvU0JqRVFfc0RhX3c1UWpYcFpPWDlMcHdIYlFXaGtTSDV4WGZuODVpU3dBanc?oc=5",
+      "source": ""
     },
     {
       "title": "중국, 싱가포르, 태국, 말레이시아, 시안 관광 시장 호황에 힘입어 급부상: 에미레이트 항공, 중국국제항공, 춘추항공 주도!",
       "summary": "- 시안 관광 시장이 중국, 싱가포르, 태국, 말레이시아의 성장과 함께 호황을 누리고 있음.\n- 에미레이트 항공, 중국국제항공, 춘추항공이 시장을 주도하고 있음.\n- 이들 국가와 항공사의 협력이 시안 관광 시장 성장에 기여.",
       "full_translated": "중국, 싱가포르, 태국, 말레이시아, 시안 관광 시장 호황에 힘입어 급부상: 에미레이트 항공, 중국국제항공, 춘추항공 주도! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "시안 관광 시장의 성장과 관련된 뉴스이며, 항공사 정보를 제공하여 여행 계획에 참고할 수 있도록 함.",
-      "event_info": {
-        "date": null,
-        "location": "시안",
-        "price": null,
-        "location_google_map_query": "시안"
-      },
+      "event_info": "{'date': None, 'location': '시안', 'price': None, 'location_google_map_query': '시안'}",
       "references": [
         {
           "title": "China, Singapore, Thailand, and Malaysia Soar as Xian Tourism Market Booms: Emirates, Air China, and Spring Airlines Lead the Way! - Travel And Tour World",
@@ -11387,23 +11373,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOSVhPUWdITEtRQXFhcWkyZTkxSkRYRHZnczBLSDlGc2x5ckNIVERaVzhCeGxhUURZY0x5ajI1c3JDS1NjLU1oVndHc2c5YWFJRC1wNzJHNG5GUkQ5RzVyRGtvOW9jZHkzZm5RNnpKSWRyZXlBQ1FCLURyMXd5SDNwaFF2YklRRVVCVlZWcWEtaFBhSGxWVWlkSnY3X1pLNl9WeUNFbUNUZmJ2RXowa2RKa0MxNHZCWnI5WHRDSlNLRVpKaGNxem40SzJ1bTk0bk5uclVuc2l3cmVTWE1mZHpNLUZldENld0JueFF5YTRURTgtbHZoRUl5ckl3ZGxqaUpJYlE?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 중동 긴장 속 라오스에 연료 수출 지속",
       "summary": "- 태국은 중동 지역의 긴장 고조에도 불구하고 라오스에 대한 연료 수출을 지속할 예정임.\n- 아니틴 총리는 에너지 협력의 중요성을 강조하며, 필요한 경우 연료 수출을 중단할 법적 권한이 있다고 언급함.\n- 현재 태국은 하루 약 700만 리터를 라오스로 수출하고 있으며, 국내 연료 비축량은 충분하다고 밝힘.",
       "full_translated": "아누틴 찬위라쿨 총리는 중동 지역의 긴장이 고조됨에도 불구하고 태국이 라오스에 대한 연료 수출을 계속할 것이라고 밝혔습니다. 그는 호르무즈 해협 폐쇄 가능성에 대한 우려가 커짐에 따라 이웃 국가와의 에너지 협력의 중요성을 강조했습니다. \n\n아누틴 총리는 3월 3일 외무부에서 지역 상황을 평가하기 위한 회의를 주재한 후 태국이 국가 안보상 필요한 경우 연료 수출을 중단할 법적 권한이 있다고 말했습니다. 그러나 그는 긴밀한 양국 관계와 상호 에너지 의존성을 이유로 라오스에 대한 수출은 계속 유지될 것이라고 언급했습니다. 태국은 라오스로부터 전력의 일부를 수입하고, 잉여 정제 연료를 반대로 수출합니다.\n\n태국은 하루 약 1억 7천만 리터의 연료를 정제하고 국내에서 약 1억 3천만 리터를 소비합니다. 하루 약 700만 리터가 라오스로 수출되며, 추가 물량이 다른 국가로 선적됩니다. 아누틴 총리는 상황이 악화될 경우 정부가 현재 수익을 창출하는 하루 3천만 리터 이상의 수출을 재평가해야 할 수도 있다고 말했습니다. 그는 태국의 연료 비축량은 여전히 충분하며 상황이 위기점에 도달하지 않았다고 강조했습니다. 세계 시장의 변동성이 가격에 영향을 미칠 수 있지만 정부는 비용을 안정시키고 국민의 부담을 완화하기 위한 조치를 논의하기 위해 3월 4일 에너지부 및 상무부와 회의를 가질 것이라고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 연료 상황이 여행에 직접적인 영향을 주진 않지만, 라오스 여행객에게 간접적인 영향을 줄 수 있고, 가격 변동 가능성이 존재함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand to continue fuel exports to Laos amid Middle East tensions",
@@ -11412,8 +11395,135 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/68.jpg"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/68.jpg",
+      "date": "2026-03-04",
+      "link": "https://www.khaosodenglish.com/news/2026/03/03/thailand-to-continue-fuel-exports-to-laos-amid-middle-east-tensions/",
+      "source": ""
+    },
+    {
+      "title": "태국, 12월 Tomorrowland 개최 확정… 동남아 문화 및 엔터테인먼트 허브 도약",
+      "summary": "- 태국이 12월에 Tomorrowland를 개최하며 동남아시아 문화 및 엔터테인먼트 허브로 발돋움할 준비를 하고 있습니다.\n- Tomorrowland는 기록적인 페스티벌 경험을 선보일 예정입니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국은 Tomorrowland의 기록적인 페스티벌 경험 데뷔와 함께 동남아시아의 문화 및 엔터테인먼트 허브가 될 준비를 마쳤습니다.\nTravel And Tour World",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "대형 축제 개최 정보로, 여행객들의 관심과 방문을 유도할 수 있음. 12월 개최 예정이므로 미리 정보를 제공하는 것이 유용.",
+      "event_info": {
+        "date": "2024-12-01",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "Tomorrowland Thailand"
+      },
+      "references": [
+        {
+          "title": "Thailand Poised to Become Southeast Asia’s Cultural and Entertainment Hub as Tomorrowland Debuts with Record-Breaking Festival Experience This December - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPOTJEbTd6ZnVpdkh3VlFQYXhoZXhPY29YZ1ZvTjZKOHJYT1hObGJ5RF9YMjd6YzBPZEZGSDd5VU5ybkZ6RFRhX1NFQ285X01SekRYeVRzQzIybGFNclVETlEyVTdCQkJpWnNKV3YtR2VwWlB2T1N0U210ZzlIVmhSZFJidW9ocC14M1JsWDFGcGtBbjlqc1ZHMGpBZmRrVzVCdU1VNy1LSUhHb2pCRWRuTlpwWmx5UWdqQW5rMVExa1hvemg1bEY5elZ4aWhudGxPNWdOR3UxT3NHYmRXc2Y1RDNXNjJWX3hXS1B5MEx2QXBLNENZQkozSjU3bFRIMUNyampRYi15a2VzMXhSTWVrVkpBNmtZRUhhSk15VERnNVRIYmw4alE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국, 중동 분쟁으로 여행 취소 속출...독일 관광객 안타까움 호소",
+      "summary": "- 중동 지역 영공 폐쇄로 인해 태국 여행을 취소한 독일 관광객의 사례 발생\n- 항공편 취소로 인한 여행 계획 차질 및 실망감 토로\n- 불안정한 국제 정세가 태국 관광 산업에 미치는 영향 우려",
+      "full_translated": "중동 영공 폐쇄로 태국 여행을 취소한 독일 관광객이 안타까움을 호소했습니다.  불안정한 국제 정세가 태국 관광 산업에 영향을 미칠 수 있다는 우려가 제기되고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁으로 인한 항공편 취소 및 여행 제한이 발생하고 있어 여행객에게 직접적인 영향을 미침. 독일 관광객의 사례는 이러한 상황을 보여줌.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "German tourist heartbroken after Middle East airspace closure cancels Thailand trip - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWmhRR3dYWTdZYkxjYmFTTm1XYVRlRXRBaUlHTFJHdF9TTFlGUmFCdk1wa0tDcHF6UTVVSjlELWt5MUtUTExzdHVVRHd0NDl3ZmViNmJYWG1vSXdrYU1LODIwdnNocG5TYmVMZnV5dVFudEVMWnV5OVQwcW9fWEdSSmQ0V2ZFaWt2WVhBTnNYYS03aElZeGkyNXZmTE03VmhLLVpMSTg0RDBRb25fbkxPRnZWd2R6MFlfNDF5MkdHRHEyWUN0RU1vdTlsYmRrYmFCOXk5WVd3UWJjckMwbVE?oc=5",
+          "source": "Khaosod English",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "중동 지역 항공편 취소",
+      "summary": "- 중동 지역의 항공편 취소 소식입니다.\n- 자세한 내용은 기사를 참조하십시오.\n- 여행객들은 항공편 운항 여부를 확인해야 합니다.",
+      "full_translated": "Middle Eastern flight cancellations&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 항공편 취소는 태국 여행에 영향을 줄 수 있으므로 정보 제공 필요. 항공편 이용객들의 불편이 예상되므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle Eastern flight cancellations - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeXVYNDJTNktSb3I3SXFhQXZlTWpFYUdlZkxObU9XVW5keEtfZm1FNXVMMkZ3MU8yaEFBWTZmZV9xV1VlQnRXTTF6N0otTjZuRmNCUU9zQlU5NGV2ZmRMV1dxZWVXdXRyZWE0V0xHMnNCTVlIckFmUnJvbzBNMmNMOVg4T0ZRTG16aUJMWUtKVmk2dw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "이라크, 호르무즈 해협 폐쇄 후 루마일라 유전 생산 중단",
+      "summary": "- 이란의 호르무즈 해협 폐쇄로 이라크 루마일라 유전 생산 중단.\n- 이라크는 석유 수출 불가로 저장 용량 한계에 직면.\n- BP와 이라크 바스라 석유 회사가 공동 운영하는 루마일라 유전은 이라크 전체 생산량의 1/3 차지.",
+      "full_translated": "이라크는 이란이 호르무즈 해협을 폐쇄한 후 루마일라 유전에서 원유 생산을 중단했습니다. 이로 인해 상품 선박이 통과할 수 없게 되어 원유가 저장고에 거의 가득 찼습니다. 3월 3일 외신은 이라크 석유부의 공식 문서와 소식통을 인용하여 이란 정부가 루마일라 유전의 시추 시설을 폐쇄했다고 보도했습니다. 이란의 호르무즈 해협 폐쇄로 인해 이라크는 석유를 수출할 수 없게 되었고, 비축된 석유량이 위기 수준에 도달했기 때문입니다. 루마일라 유전 운영 책임자는 화요일 남부 지역의 석유 생산 및 펌핑을 100% 감축하라고 지시했으며, 이는 같은 날 오후부터 효력이 발생했습니다. 루마일라 유전은 BP와 이라크 정부의 바스라 석유 회사가 공동으로 운영하며, 이라크 전체 생산량의 거의 1/3을 차지합니다. 월요일 이란 군대는 세계 석유 수송량의 1/5 이상이 통과하는 호르무즈 해협을 폐쇄하고, 미국과 이스라엘이 지난 토요일부터 자신들을 공격하여 오랫동안 통치해 온 최고 지도자와 여러 고위 지도자들이 사망한 것에 대한 보복으로 해협을 통과하는 모든 선박을 불태우겠다고 위협했습니다. 이라크 북부 쿠르디스탄 지역의 석유 생산도 중동 전쟁의 영향을 받고 있습니다. 현지 석유 회사 소식통에 따르면 대부분의 외국 기업이 예방 조치로 '생산을 일시적으로 중단'했습니다. 참고로 쿠르디스탄 지역은 미국이 주도하는 연합군의 본거지이며, 수도인 '에르빌'에는 대규모 미국 총영사관 건물이 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 불안정으로 인한 석유 생산 차질은 연료 가격 상승 및 운송 문제로 이어져 여행에 간접적인 영향을 줄 수 있음. 태국 내 연료 사재기 현상과 연관될 가능성 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิรักระงับผลิตน้ำมัน ที่แหล่งขุดเจาะน้ำมันดิบ “รูไมลา” หลังช่องแคบฮอร์มุซถูกปิด",
+          "url": "https://www.thairath.co.th/news/foreign/2917714",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6THlBvrHGkz.jpg"
+        }
+      ],
+      "collected_at": "03:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWX6THlBvrHGkz.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 에코 관광 성장",
+      "summary": "- 태국 에코 관광 시장 성장세\n- 여행 및 관광 산업 발전 기회\n- 지속 가능한 관광 중요성 부각",
+      "full_translated": "태국 에코 관광 성장&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "에코 관광은 여행객에게 선택지가 될 수 있으나, 직접적인 영향은 낮음",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand eco-tourism growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYk1wdGxqZmZ6UXJWY2xZTngyMFVaZTBWOEhjV2thcmhOSDJqLUNzU3RoQW0wTXhtX3BwRUVscjViLUdRS0xsNWVIbEY3bnAyVmU3NHUzcE0xMUxXQVdId2JPcW1Jb29nWWU2bEE0dE9YYzRtOWdGRjhPQXl2c1Rra2dfWVRfVm8?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-04"
     }
   ]
