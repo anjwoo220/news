@@ -14317,14 +14317,9 @@
       "summary": "- 태국이 발이 묶인 여행객에게 비자 면제를 제공합니다.\n- TravelMole에서 보도했습니다.\n- 자세한 내용은 TravelMole에서 확인하세요.",
       "full_translated": "태국이 발이 묶인 여행객에게 비자 면제를 제공합니다. TravelMole",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 관련 규정 변경은 여행객에게 중요한 정보이므로 높은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand offers visa waivers for stranded tourists - TravelMole",
@@ -14333,23 +14328,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnVGN0tLall6ZmhETFRQUWVkTndvWGY4QS1Hc1NOcVMxQmEzNFZQeXlVUElpNVhOTHV1eXJ3ckQyQkc5TUlZZkxiN2RpYWx5ajZBb1NOVWJrRnNJWEN4VzNaYmdjbmFlbGZ0N2lpQjNnZlZRY2FIazg3QjlYaW1HSEIzU3BZSWZNN0NB?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광, 국제 분쟁으로 타격: 영국 국적자 대상 지연 및 취소 예상",
       "summary": "- 태국 관광 산업이 국제 분쟁으로 인해 영향을 받고 있습니다.\n- 특히 영국 국적 여행객들에게 항공편 지연 및 취소 가능성이 제기됩니다.\n- 여행 전 항공편 및 숙박 시설에 대한 최신 정보를 확인하는 것이 좋습니다.",
       "full_translated": "태국 관광, 국제 분쟁으로 타격: 영국 국적자 대상 지연 및 취소 예상 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "국제 분쟁으로 인한 여행 차질 가능성. 여행객들에게 직접적인 영향을 줄 수 있으므로 중간 수준의 중요도를 가짐.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourist Travel Hit by Global Conflict: Delays and Cancellations Expected for British Nationals - Travel And Tour World",
@@ -14358,9 +14350,11 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:26",
+      "collected_at": "4:26",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU0VseThHNFZfNDVfdVc4V0wtMTNCMEdmRXpnVzFqTk41M1VxUzFMdnNsWHBMU1k4QWR5dC00WnFYbHFYV2lLLUE0Z0h1ZExLSlFuYzVQUTVEWWJNTGNxd1VFMWk0Z0M1YVdLQ1hiV3RnaGZYQmk1ejFuM2FsSFBNSndmMmJVbTZJRHR1Y0ltS3JWUjN0SnNLdnZjMGo2MTFkSXRKc1EtOGNSeklIOWMyS2Z3SXFhUDBBbThTOC1pR2VrMXRfLVJaTElMNlBpWU9uYk1YRDBsb3VTUW45OUNuM09Yc2NrTnc?oc=5",
+      "source": ""
     }
   ]
 }
