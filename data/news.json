@@ -14097,14 +14097,9 @@
       "summary": "- 파타야에서 2026년 3월 2일부터 6일까지 세계적인 포켓볼 토너먼트 개최.\n- 세계 나인볼 투어의 랭킹 포인트가 걸린 대회로, 총 상금 규모는 상당함.\n- S1 Pool Hall & Sport Bar에서 진행되며, 입장료는 무료이고 Thairath Sport에서 생중계.",
       "full_translated": "파타야 현지 프로모터 Think Curve와 S1, 그리고 글로벌 스포츠 강자 Matchroom Multi Sport가 협력하여 파타야 오픈 2026 포켓볼 세계 나인볼 토너먼트가 개최됩니다. 이 토너먼트는 태국 큐 스포츠에 있어 중요한 순간을 의미합니다. 전 세계의 엘리트 선수들이 세계 나인볼 투어에서 귀중한 랭킹 포인트를 얻기 위해 경쟁하며, 우승자는 22,500달러, 준우승자는 12,500달러, 준결승 진출자는 7,500달러를 받게 됩니다. 대회는 2026년 3월 2일부터 6일까지 촌부리주 파타야의 S1 Pool Hall & Sport Bar에서 열립니다. 3월 1일 오후 6시에는 미니어처 콘 댄스 '약롭' 공연이 하이라이트로 장식된 개막식이 열렸습니다. 이 공연은 테이블 위에서 펼쳐질 치열하고 명예로운 전투를 상징합니다. 높은 판돈이 걸린 경기 외에도, 이 행사는 팬들에게 전문적인 조명, 사운드 프로덕션, 관중 에너지로 몰입감 넘치는 분위기를 제공하는 완벽한 '스포츠 엔터테인먼트' 경험으로 승격되었습니다. 토너먼트 기간 동안 입장료는 무료이므로 관람객은 세계적인 선수들을 가까이에서 보고, 인터랙티브 활동을 즐기고, 하루 종일 흥분을 만끽할 수 있습니다. 직접 참석할 수 없는 사람들을 위해 Thairath Sport는 페이스북 팬페이지와 유튜브 채널을 통해 태국 전역에 주요 경기를 생중계하여 전국 시청자들이 액션을 무료로 즐길 수 있도록 합니다. 팬들은 공식 Matchroom Pool 웹사이트와 S1 Pool Hall & Sport Bar Pattaya의 소셜 채널을 통해 라이브 스코어, 선수 업데이트, 일정 및 추가 세계 나인볼 투어 정보를 확인할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야에서 열리는 국제 스포츠 이벤트로, 여행객들에게 볼거리를 제공할 수 있음. 입장료가 무료이고, 생중계도 제공되어 접근성이 높음.",
-      "event_info": {
-        "date": "2026-03-02 ~ 2026-03-06",
-        "location": "S1 Pool Hall & Sport Bar, Pattaya, Chonburi",
-        "price": "Free",
-        "location_google_map_query": "S1 Pool Hall & Sport Bar Pattaya"
-      },
+      "event_info": "{'date': '2026-03-02 ~ 2026-03-06', 'location': 'S1 Pool Hall & Sport Bar, Pattaya, Chonburi', 'price': 'Free', 'location_google_map_query': 'S1 Pool Hall & Sport Bar Pattaya'}",
       "references": [
         {
           "title": "Pattaya Open 2026 Pool World Nineball Tournament Officially Kicks Off in Pattaya!",
@@ -14113,23 +14108,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726209693794591709586156472781.jpg?v=1772621740"
         }
       ],
-      "collected_at": "02:32",
+      "collected_at": "2:32",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726209693794591709586156472781.jpg?v=1772621740",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://thepattayanews.com/2026/03/04/pattaya-open-2026-pool-world-nineball-tournament-officially-kicks-off-in-pattaya/",
+      "source": ""
     },
     {
       "title": "미국, 트럼프 암살 시도 배후 이란 관리 제거",
       "summary": "- 미국 국방부는 도널드 트럼프 전 대통령 암살 시도 배후에 있는 이란 고위 관리를 제거했다고 발표했습니다.\n- 해당 관리는 3월 3일에 제거되었으며, 2027년 트럼프 암살 시도와 관련된 인물입니다.\n- 이번 제거는 이란 내 '에픽 퓨리' 작전의 일환으로, 트럼프 전 대통령은 이란 최고 지도자를 먼저 제거했다고 언급한 바 있습니다.",
       "full_translated": "미국 국방부 장관은 군대가 2년 전 도널드 트럼프 대통령을 암살하려는 계획의 배후에 있는 이란 관리를 사살했다고 밝혔습니다. 2069년 3월 4일, 피트 헤그세스 미국 국방부 장관은 펜타곤에서 열린 이란의 '에픽 퓨리' 작전 진행 상황에 대한 기자 회견에서 미국 군대가 도널드 트럼프 대통령 암살 계획의 배후에 있는 부대의 수장인 이란 고위 관리를 사살했다고 밝혔습니다. 헤그세스 장관은 이름을 밝히지 않았지만 해당 이란 관리는 화요일(3월 3일)에 사살되었으며 이번 전쟁의 주요 목표는 아니었다고 강조했습니다. 그는 “트럼프 대통령을 암살하려던 부대의 지도자가 추적되어 사살되었습니다. 이란은 트럼프 대통령을 죽이려고 했지만 트럼프 대통령이 최후의 승리자입니다.”라고 말했습니다. 2067년 미국 법무부는 당시 대통령 후보였던 트럼프 암살 계획과 관련된 이란 남성을 이란 이슬람 혁명 수비대(IRGC)의 명령에 따라 기소했습니다. 그러나 이란 정부는 이러한 혐의를 부인했습니다. 트럼프 대통령은 지난 일요일 미국과 이스라엘의 협력으로 이란 최고 지도자 아야톨라 알리 카메네이를 암살한 사건에 대해 언급하면서 “그가 나를 처리하기 전에 내가 그를 처리했습니다.”라고 말했습니다. 그러나 헤그세스는 트럼프가 이 암살 계획의 배후에 있는 이란 부대의 지도자를 추적하는 것을 펜타곤의 최우선 과제로 삼지 않았다고 밝혔습니다. “비록 그것이 이번 작전의 주요 목표는 아니었지만 말입니다.”",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에 직접적인 영향은 없지만, 미국-이란 관계 악화는 잠재적 불안 요인이 될 수 있다는 점에서 낮은 점수 부여. 이미 '이란, 미국-이스라엘 공격에 대한 보복으로 주변국 공격 불가피' 기사가 게시되었으므로 업데이트로 보기 어려움.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เพนตากอนเผย สหรัฐฯ เด็ดหัวผู้อยู่เบื้องหลัง แผนลอบสังหารทรัมป์แล้ว",
@@ -14138,23 +14130,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwanfwgdsKObH.jpg"
         }
       ],
-      "collected_at": "02:32",
+      "collected_at": "2:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwanfwgdsKObH.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2917959",
+      "source": ""
     },
     {
       "title": "중국, 태국 콘도 시장 1위 유지, 미얀마 2위로 급부상",
       "summary": "- 태국 콘도 시장에서 외국인 구매자 중 중국인이 2025년에도 1위를 유지했지만 감소세를 보임.\n- 미얀마 구매자는 가장 큰 성장률을 보이며 2위로 올라섬.\n- 전체 외국인 콘도 이전 건수는 소폭 증가했지만, 총 이전 가치는 하락함.",
       "full_translated": "방콕 – 외국인 구매자들은 태국 콘도 시장에서 여전히 핵심적인 역할을 하고 있으며, 중국 국적자들이 감소세에도 불구하고 2025년에 1위를 유지했고, 미얀마 구매자들은 가장 강력한 성장세를 보이며 2위를 차지했다. 부동산정보센터(REIC)의 나롱폴 프라바니린 임시 이사는 2025년 4분기에 외국인 콘도 이전 건수가 총 3,888건으로 분기 대비 1.1%, 전년 대비 9.3% 증가했다고 밝혔다. 이전 가치는 전년 대비 소폭 상승했지만, 물량 증가율이 더 높은 것은 특히 중간 가격대에서 평균 가격 하락을 반영한다. 2025년 전체적으로 외국인 구매자들은 14,899건의 콘도 유닛을 이전하여 2024년보다 2.2% 증가했다. 그러나 총 이전 가치는 10.7% 감소한 609억 2천만 바트였다. 외국인 소유는 전국 콘도 이전 유닛의 14.7%, 총 이전 가치의 25%를 차지했다. 태국 법률에 따라 외국인은 콘도 프로젝트의 판매 가능 면적의 최대 49%까지 소유할 수 있다. 외국인 이전 건수가 가장 많은 상위 10개 지방은 방콕이 7,029건, 353억 9천만 바트로 선두를 달렸고, 촌부리가 4,164건, 115억 9천만 바트, 푸켓이 1,190건, 60억 9천만 바트로 그 뒤를 이었다. 다른 지방으로는 치앙마이, 쁘라쭈압 키리 칸, 사뭇 쁘라칸, 수랏 타니, 라용, 펫차부리, 논타부리가 있다. 국적별로는 중국 구매자들이 감소세에도 불구하고 가장 큰 그룹으로 남았다. 2025년 중국 국적자들은 4,940건을 이전하여 전년 대비 12.9% 감소했다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "콘도 구매 동향은 관광객에게 직접적인 영향을 주지는 않지만, 부동산 시장의 변화를 간접적으로 보여주므로 낮은 점수 부여. 최신 데이터이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China still tops Thai condo market, Myanmar jumps to No.2",
@@ -14163,23 +14152,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/aerial-view-bangkok-modern-office-buildings-condominium-bangkok-city.jpg"
         }
       ],
-      "collected_at": "02:32",
+      "collected_at": "2:32",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/aerial-view-bangkok-modern-office-buildings-condominium-bangkok-city.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.khaosodenglish.com/featured/2026/03/04/china-still-tops-thai-condo-market-myanmar-jumps-to-no-2/",
+      "source": ""
     },
     {
       "title": "파타야 다이아나 가든 리조트, 23주년 기념 및 '아unt 노이' 이사 82세 생일 축하",
       "summary": "- 다이아나 가든 리조트에서 경영진, 직원, 친구, 고객들이 모여 23주년 및 이사 생일 축하 행사 개최.\n- 불교 의식과 함께 지역 사회에 기부하는 행사 진행.\n- 파타야 기자 협회도 참석하여 축하와 기부를 함께 함.",
       "full_translated": "파타야 뉴스에 따르면, 다이아나 가든 리조트에서 23주년 기념 및 '아unt 노이' 이사의 82세 생일 축하 행사가 열렸습니다. 행사에는 경영진, 직원, 친구, 태국 및 외국 고객들이 참석하여 축하와 덕담을 나누었습니다. 파타야 기자 협회 회장 암폰 생깨우도 참석하여 축복을 빌었습니다. 왓 수타왓 사원의 승려 9명이 초청되어 불교 의식을 진행하고 임원, 직원 및 호텔 운영에 축복을 내렸습니다. 지역 사회에 환원하는 정신으로 리조트는 쌀, 건조 식품 및 생필품을 준비하여 ATTC 센터(반 크루 자라고도 함)의 어린이들에게 기증했습니다. 파타야 기자 협회도 센터의 노력에 대한 지원을 위해 기부금을 기부했습니다. 직원들은 '아unt 노이'에게 생일 케이크를 선물하여 기쁨을 선사했습니다. 다이아나 그룹은 1982년 파타야 우체국 골목에서 'Bhagavadi Guest House'라는 작은 사업으로 시작하여 고객에 대한 헌신, 정직, 체계적인 관리 원칙을 바탕으로 꾸준히 성장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "파타야의 리조트 행사 정보로, 여행에 직접적인 영향은 적지만, 지역 행사 정보로서 소소한 흥미를 유발할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "Diana Garden Resort, Pattaya",
-        "price": null,
-        "location_google_map_query": "Diana Garden Resort Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Diana Garden Resort, Pattaya', 'price': None, 'location_google_map_query': 'Diana Garden Resort Pattaya'}",
       "references": [
         {
           "title": "Diana Garden Resort Pattaya Celebrates 23rd Anniversary and 82nd Birthday of Beloved Executive “Aunt Noi”",
@@ -14188,8 +14174,60 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726188631678566778819953184873.jpg?v=1772620673"
         }
       ],
-      "collected_at": "02:32",
+      "collected_at": "2:32",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726188631678566778819953184873.jpg?v=1772620673",
+      "date": "2026-03-05",
+      "link": "https://thepattayanews.com/2026/03/04/diana-garden-resort-pattaya-celebrates-23rd-anniversary-and-82nd-birthday-of-beloved-executive-aunt-noi/",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 위기로 발이 묶인 관광객에게 체류 벌금 면제 및 지원 고려",
+      "summary": "- 태국 정부는 중동 지역 위기로 인해 발이 묶인 관광객들을 위한 체류 벌금 면제를 고려 중입니다.\n- VisasNews에 따르면, 현재 상황에 대한 추가 지원 가능성을 논의하고 있습니다.\n- 자세한 내용은 VisasNews에서 확인할 수 있습니다.",
+      "full_translated": "태국: 중동 위기로 발이 묶인 관광객에게 체류 벌금 면제 및 지원 고려 VisasNews",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 위기로 인한 잠재적 여행 차질에 대한 지원 가능성을 언급하므로 여행객에게 유용한 정보입니다. 비자 및 체류 관련 정보는 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand: overstay fines waived and assistance considered for tourists stranded by the Middle East crisis - VisasNews",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTmt3aDlZelZ3cmdjc0FiVUR2cEEwRGdJMFJXemRqU2RiSWdhRE1aeUR1Q25NY2QyT0FCNmhDdWtKWW9UX3poYVdNQWYzYlRvVWktSmI2NV9uZ1p5bFl4V3pRb1FtN1QtbldnMFlpbVJ5VnJKeGxEckRPdGlVTURvTExJREVmOWZaeHNyN0s5V3NLTXdkWlJ3SVhWLWxXZ3I4MEhpenhFMnEwdGtiRm0xdjBQZlVvTGtSaEhZNGJGUUEzMDRKSEJ0Ylhn?oc=5",
+          "source": "VisasNews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "이란 전쟁, 태국 관광 목표에 차질: 영공 폐쇄 및 항공료 인상",
+      "summary": "- 이란 전쟁으로 인한 영공 폐쇄와 항공료 인상이 태국 관광 산업에 악영향.\n- 태국은 올해 3,600만 명의 관광객 유치를 목표로 하고 있지만, 중동 불안으로 인해 차질이 예상됨.\n- 항공편 취소 및 운항 경로 변경으로 인해 여행 비용 증가.",
+      "full_translated": "이란 전쟁으로 인해 영공이 폐쇄되고 항공료가 인상되면서 태국의 3,600만 명 관광객 유치 목표에 차질이 생겼습니다. Nation Thailand",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁으로 인한 항공편 운항 차질 및 비용 증가 가능성은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여. 새로운 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Iran war rattles tourism as airspace closures and higher fares threaten Thailand’s 36m visitor goal - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9HR2ZaNVhoTDNyb0xmbHl2RzlvV190RnMzdGRObDFYbFgxLXZwaWw0UlVvaU8ySFpyamEwdWZJcm9NRW9NS0hQMXk2VzdDVnhEQWtSVkdMb2tmNktBaEY4SEp3?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-05"
     }
   ]
