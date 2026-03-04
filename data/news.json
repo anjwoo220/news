@@ -12116,14 +12116,9 @@
       "summary": "- 라차부리 슈가 그룹 2세 경영진, 호텔 투자로 사업 확장.\n- 사무이 임피아나 리조트 차웽 노이에 수억 바트 투자 후 인수, 유럽 호텔 체인과 협상 중.\n- 콘캔 풀만 호텔 인수 및 리모델링 계획. 사무이 호텔은 현재 평균 객실 점유율 90% 기록.",
       "full_translated": "라차부리 슈가 그룹이 15억 바트를 투자하여 호텔 사업으로 확장합니다.\n\n라차부리 슈가 그룹 2세 경영진은 사무이의 임피아나 리조트 차웽 노이와 콘캔의 풀만 호텔을 인수 및 리모델링하는 데 15억 바트 이상을 투자하며 호텔 투자로 사업을 다각화했습니다.\n\n주타팁 아루나논차이 이사는 그룹이 수억 바트를 투자하여 작년 12월 임피아나 리조트 차웽 노이를 인수했다고 밝혔습니다. 그녀는 \"섬이 유럽 여행객들에게 인기가 많기 때문에 96개 객실을 갖춘 사무이 호텔을 관리할 유럽 국제 호텔 체인을 선정하고 있습니다.\"라고 말했습니다. \"또한 4성급에서 5성급으로 리모델링 및 업그레이드할 것입니다.\"\n\n동부 해안의 인기 있는 차웽 해변을 따라 위치한 임피아나 리조트 차웽 노이는 현재 말레이시아에 본사를 둔 마그마 그룹의 호텔 관리 부문인 임피아나 호텔 & 리조트 관리에 의해 관리되고 있으며, 이 그룹은 라차부리 슈가 그룹에 해당 부동산을 매각했습니다. 마그마 그룹은 태국에 있는 다른 두 호텔(푸껫의 임피아나 리조트 파통과 임피아나 프라이빗 빌라 카타 노이)도 소유 및 관리하고 있습니다.\n\n12월 이후 사무이 호텔은 평균 객실 점유율 90%를 기록했으며, 객실 요금은 1박당 3,000바트부터 시작합니다. 새로운 호텔 체인이 관리를 맡은 후 요금은 1박당 5,000~6,000바트로 인상될 것으로 예상된다고 주타팁 씨는 말했습니다. 사무이 호텔은 라차부리 슈가 그룹이 팬데믹 이후 인수한 두 번째 호텔입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "호텔 투자 정보는 여행객에게 숙박 옵션에 대한 정보를 제공하므로.",
-      "event_info": {
-        "date": null,
-        "location": "Impiana Resort Chaweng Noi, Pullman Khon Kaen",
-        "price": "3000-6000 바트 (사무이 호텔)",
-        "location_google_map_query": "Impiana Resort Chaweng Noi, Pullman Khon Kaen"
-      },
+      "event_info": "{'date': None, 'location': 'Impiana Resort Chaweng Noi, Pullman Khon Kaen', 'price': '3000-6000 바트 (사무이 호텔)', 'location_google_map_query': 'Impiana Resort Chaweng Noi, Pullman Khon Kaen'}",
       "references": [
         {
           "title": "Sugar tycoons branch into hotel investments",
@@ -12132,23 +12127,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209419_260304074240_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209419_260304074240_700.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/business/general/3209419/sugar-tycoons-branch-into-hotel-investments",
+      "source": ""
     },
     {
       "title": "방람뭉 사원, 두 동자승을 위한 서품식 개최",
       "summary": "- 방람뭉 왓 카오 분미 다라람에서 가족들이 주관한 서품식 거행.\n- 친척, 친구, 지역 인사들이 모여 축하와 공덕을 쌓음.\n- 촌부리 부지사, 방람뭉 지역장, 파타야 경찰서장 등 주요 인사 참석.",
       "full_translated": "방람뭉 – 촌부리 방람뭉에 있는 왓 카오 분미 다라람에서 차야논과 테라퐁이라는 두 동자승을 위한 서품식이 열렸습니다. 이 행사에는 암폰 깨우생(고모), 수라폴 깨우생(차야논의 아버지), 오라타이 프롬위앙(테라퐁의 어머니), 타 깨우생(할아버지), 프라소엣 프롬위앙(할아버지), 푸앙 깨우생(할머니), 핏사마이 프롬위앙(할머니) 등 주요 가족 구성원이 주도했습니다. 친척, 친한 친구, 축복을 빌어주는 사람들이 많이 모여 축하하고 공덕을 쌓으면서 사원 경내는 자부심과 경건함으로 가득 찼습니다. 촌부리 부지사 퐁타싯 피자난, 방람뭉 지역장 아누삭 피리요몬, 파타야 경찰서장 아낙 사통유, 농프르에 경찰서장 낫타폰 퐁숙사쿤, 므앙 파타야 경찰서 부서장(범죄 진압) 시리와트 카차맛 경감, 방람뭉 부지역장 나타폰 진다, 파타야 시의회 의원 우티톤 생우라이, 촌부리 지방 행정 기구 위원회 위원 및 파타야 시의회 위원인 시티차이 아차야송, 기타 정부 관계자, 지역 정치인, 사업주, 지역 주민, 친척 및 친구들이 참석했습니다. 전통적인 태국 불교 관습에 따라 동자승들은 서품전(우보솟)에 들어가기 전에 서품전을 시계 방향으로 세 바퀴 도는 환행 의식에 참여했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 문화와 관련된 행사 정보이며, 여행객에게 흥미로운 볼거리를 제공할 수 있음. 하지만 직접적인 여행 관련 정보는 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "Wat Khao Boonmee Dararam, Banglamung",
-        "price": null,
-        "location_google_map_query": "Wat Khao Boonmee Dararam, Banglamung"
-      },
+      "event_info": "{'date': None, 'location': 'Wat Khao Boonmee Dararam, Banglamung', 'price': None, 'location_google_map_query': 'Wat Khao Boonmee Dararam, Banglamung'}",
       "references": [
         {
           "title": "Family Hosts Ordination Ceremony for Two Novices at Wat Khao Boonmee Dararam in Banglamung",
@@ -12157,23 +12149,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17725384569526868750614457206007.jpg?v=1772538531"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17725384569526868750614457206007.jpg?v=1772538531",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://thepattayanews.com/2026/03/03/family-hosts-ordination-ceremony-for-two-novices-at-wat-khao-boonmee-dararam-in-banglamung/",
+      "source": ""
     },
     {
       "title": "태국 디지털 데이터 주권 확보 노력",
       "summary": "- 태국 디지털 위원회(DCT), 디지털 데이터 주권 개발 촉구\n- 국가 안보를 위해 태국 관할 하에 데이터 보관 필요\n- AI 및 소프트웨어의 현지 개발 우선순위 강조",
       "full_translated": "태국 디지털 위원회(DCT)에 따르면 태국은 태국 관할 하에 디지털 데이터 주권을 시급히 개발하고, 더 많은 현지 개발 인공지능(AI)과 소프트웨어 사용을 우선시해야 합니다. 국가는 또한 국내에서 지속 가능하고 자립적인 기술 시스템을 구축하기 위해 태국 중심의 AI 모델을 개발해야 합니다.\n\nDCT 회원인 태국 인터넷 및 클라우드 서비스 제공업체 협회 회장인 Morragot Kulatumyotin은 중요한 국가 데이터는 태국에 저장될 뿐만 아니라 태국 관할권과 법적 권한을 받아야 한다고 말했습니다. 그녀는 클라우드 컴퓨팅이 이제 디지털 권력을 대표한다고 말했습니다. 이러한 변화로 인해 디지털 데이터 주권을 확보하고 외국 통제로부터 독립성을 유지하는 것이 태국의 국가 안보에 절대적으로 중요하다고 Morragot 여사는 말했습니다.\n\n현지 데이터 센터 시장은 약 50%의 시장 점유율을 가진 두 개의 외국 기업이 지배하고 있으며, 태국 공급업체는 11%에 불과합니다. 중요한 데이터가 보관되어야 하는 위치를 지시하는 표준과 정책이 있지만 물리적 위치에만 의존하는 것은 결함이 있는 전략이라고 그녀는 말했습니다. 외국 공급업체가 태국 국경 내에 데이터 센터를 물리적으로 구축하고 운영하도록 요구하는 것만으로는 데이터를 완전히 보호할 수 없습니다. \"외국 소유의 민간 기업은 궁극적으로 국가 권력의 대상이 됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "데이터 주권 관련 뉴스는 여행객에게 직접적인 영향은 적으나, 장기적으로 디지털 서비스 이용 환경에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Council seeks to keep Thai digital data safe",
@@ -12182,23 +12171,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990844_700.jpeg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990844_700.jpeg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/business/general/3209479/council-seeks-to-keep-thai-digital-data-safe",
+      "source": ""
     },
     {
       "title": "태국 자산 관리사, 중동 긴장 속 금과 유 investment 투자 권고",
       "summary": "- 지정학적 긴장 고조로 금과 유가가 단기적으로 상승할 가능성 높음.\n- 군사적 충돌이 에너지 기반 시설을 목표로 하는지, 이란이 호르무즈 해협을 봉쇄할 수 있는지, 중국과 러시아의 개입 여부가 중요 변수.\n- UOBAM은 분쟁 장기화 시 유가 급등 및 인플레이션 압력 증가, 단기적 분쟁 해결 시 주식 시장 변동성 완화 전망.",
       "full_translated": "태국 주요 자산 관리사들은 중동 지역의 지정학적 긴장이 고조됨에 따라 투자자들에게 금과 유 investment 투자를 늘릴 것을 권고하고 있으며, 태국 증권 규제 당국은 시장 변동성이 커짐에 따라 시장 안정성을 모니터링하고 있다고 밝혔습니다. UOB Asset Management (Thailand) (UOBAM)은 금과 원유 가격이 단기적으로 지지될 가능성이 높다고 보고 있지만, 이익의 지속 가능성은 군사적 공격이 에너지 기반 시설을 목표로 하는지, 이란이 호르무즈 해협을 봉쇄할 수 있는지, 중국과 러시아가 개입을 확대하는지 등 세 가지 중요한 요인에 달려 있습니다. UOBAM은 현재 분쟁이 이란의 정권 교체와 관련된 명백한 정치적 목표로 인해 이전의 격렬한 분쟁과는 다르다고 지적했습니다. 이러한 상황 전개는 적대 행위를 장기화시키고 글로벌 경제에 미치는 영향을 증폭시킬 수 있습니다. 시나리오 UOBAM은 중동 분쟁에서 세 가지 잠재적 단계를 제시했습니다. 더 넓은 지역으로 확산되지 않고 빠른 해결(60% 확률)이 이루어지면 브렌트유는 배럴당 75~80달러에 거래될 것입니다. 인플레이션 압력은 억제될 것이고, 주식 시장은 단기적인 변동성만 경험할 수 있습니다. 이 시나리오에서 투자자들은 시장 약세 시 금과 유지를 헤지 수단으로 보유하고 주식을 선별적으로 축적하는 것이 좋습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "투자 관련 정보로 여행객에게 직접적인 영향은 적으나, 경제 상황 변화에 대한 간접적인 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Investors urged to buy gold and oil",
@@ -12207,23 +12193,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209274_260304062835_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209274_260304062835_700.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/business/investment/3209274/investors-urged-to-buy-gold-and-oil",
+      "source": ""
     },
     {
       "title": "중동 불안 고조 속 태국 투자자, 안전 자산인 금에 몰려",
       "summary": "- 중동 분쟁 심화와 금융 시장 불안정으로 태국 투자자들이 소형 실물 금을 사들이고 있습니다.\n- 금 가격은 금요일 이후 100달러 이상 급등하여 현재 5,380~5,400달러에 거래되고 있습니다.\n- 지정학적 긴장과 거시 경제에 대한 우려가 복합적으로 작용하며, 바트화 약세 또한 국내 금 가격 상승을 부추기고 있습니다.",
       "full_translated": "중동 전쟁이 격화되고 금융 시장이 격렬하게 변동함에 따라 태국 투자자, 특히 고령 구매자들이 소형 실물 금을 사들이고 있으며, 랠리가 끝나지 않았다고 베팅하고 있습니다. YLG Bullion and Futures의 최고 경영자인 Tipa Nawawattanasub은 금 가격이 금요일 이후 100달러 이상 급등하여 현재 5,380~5,400달러 범위에서 거래되고 있으며, 이는 이란에서 장기화될 위험이 있는 갈등이 고조되었기 때문이라고 말했습니다. 그녀는 Bangkok Post에 '지정학적 상황은 여전히 ​​취약합니다. 이는 단기적인 충격이 아닙니다.'라고 말하면서 최근의 급등은 군사적 긴장과 심화되는 거시 경제적 우려를 모두 반영한다고 언급했습니다. 랠리에 더하여 바트화는 달러당 31에서 31.40으로 약화되어 국내 금 가격 상승폭을 글로벌 시장 움직임 이상으로 증폭시켰습니다. Tipa는 통화 약세로 인해 태국 금이 헤지 수단으로 더욱 매력적이라고 ​​말했습니다. 그녀는 또한 증가하는 글로벌 공공 부채, 높은 정책 불확실성, 특히 인공 지능 및 기술 주식에서 미국 주식 시장의 거품에 대한 두려움을 금의 장기적인 상승 추세를 뒷받침하는 구조적 힘으로 지적했습니다. YLG는 5,450달러를 첫 번째 주요 저항선으로 보고 있습니다. 돌파구가 나오면 가격이 5,600달러 근처의 이전 고점을 다시 테스트할 수 있습니다. 그 이상으로 장기 목표는 5,800달러와 6,100달러입니다. 2~3년 동안 지속적인 경제 역풍이 안전 자산 수요를 계속 주도할 것으로 예상됩니다. Tipa는 추가적인",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에 큰 영향은 없지만, 환율 및 경제 상황에 대한 간접적인 정보 제공. 기존 뉴스에 비해 금 시장에 대한 구체적인 정보가 추가됨.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "YLG touts safe-haven precious metal as risks escalate",
@@ -12232,8 +12215,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990664_700.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990664_700.jpg",
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/business/investment/3209319/ylg-touts-safehaven-precious-metal-as-risks-escalate",
+      "source": ""
+    },
+    {
+      "title": "유럽, 중동 지역 자국민 대피 가속화: 이스라엘-이란 긴장 고조",
+      "summary": "- 유럽 각국이 중동 지역에 발이 묶인 자국민 대피를 서두르고 있습니다.\n- 이스라엘과 미국 대 이란 간의 긴장이 고조되어 영공 폐쇄가 잇따르고 있습니다.\n- 영국, 프랑스, 이탈리아, 체코 등이 자국민 수송을 위한 특별 항공편을 마련하고 있습니다.",
+      "full_translated": "유럽 여러 국가가 중동에 갇힌 자국 시민들의 대피를 서두르고 있습니다. 이스라엘과 미국 간의 전투와 긴장이 고조되는 이란으로 인해 여러 지역의 영공이 폐쇄되었습니다. 영국은 취약 계층을 돕기 위해 전세기를 늘리고 있습니다. 영국 정부는 대피 항공편을 늘리기 위해 항공사들과 협력하고 있습니다. 이베트 쿠퍼 영국 외무장관은 X 플랫폼을 통해 일부 상업 항공편이 아랍에미리트에서 운항을 재개했다고 밝혔습니다. 정부는 현지 당국 및 항공사와 협력하고 있으며 오만에서 전세기를 마련하여 취약 계층을 우선적으로 지원하고 있습니다. 프랑스는 국민 대피를 위한 첫 2개의 항공편을 준비하고 있습니다. 에마뉘엘 마크롱 프랑스 대통령은 프랑스가 이 지역에서 시민 대피를 시작할 준비를 하고 있으며 화요일 저녁에 첫 2개의 항공편이 있을 것이라고 밝혔습니다. 현재 약 40만 명의 프랑스인이 중동에 거주하고 있습니다. 이탈리아는 오만-아부다비에서 특별 항공편을 운항합니다. 이탈리아 외무부는 오만에서 로마로 향하는 특별 상업 항공편 2편을 마련하여 약 300명의 승객을 수용한다고 밝혔습니다. 또한 두바이의 World Students’ Connection 프로젝트에서 온 학생들을 포함하여 약 200명의 승객을 수용할 수 있는 아부다비에서 출발하는 항공편 1편을 추가로 준비하고 있으며 수요일에 무스카트에서 출발하는 항공편을 추가할 예정입니다. 체코 공화국은 자국 시민을 데려오기 위해 군용 항공기를 보냅니다. AP 통신에 따르면 체코 정부의 대피 항공기가 화요일 프라하에 착륙했습니다. 공군의 에어버스 항공기는 요르단에서 왔으며 약 40명의 승객을 수용할 수 있으며 같은 날 2개의 항공편이 더 있을 것으로 예상됩니다. 승객 중 한 명인 즈데넥 빅토린은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 긴장 고조로 인한 항공편 취소 및 여행 차질 가능성. 유럽 국가들의 대피 노력은 여행객에게 잠재적 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 태국 여행객의 항공편 연결편에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ยุโรปเร่งอพยพพลเมืองออกจากตะวันออกกลาง หลังสงครามอิสราเอล-สหรัฐฯ ปะทะอิหร่านทวีความรุนแรง",
+          "url": "https://www.thairath.co.th/news/foreign/2917751",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWWpETsvtsC9ax.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWWpETsvtsC9ax.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "이란, 두바이 미국 영사관 드론 공격...미국 '모두 안전'",
+      "summary": "- 이란, 두바이 소재 미국 영사관에 드론 공격 감행.\n- 영사관 외곽 주차장 소규모 화재 발생, 인명 피해는 없음.\n- 미국, 중동 지역 내 일부 공관에서 직원과 가족 대피령.",
+      "full_translated": "이란이 두바이에 있는 미국 영사관을 드론으로 공격했습니다. 검은 연기가 하늘로 솟아올랐으며, 미국 국무장관은 경미한 피해만 있었고 모두 안전하다고 확인했습니다. AP 통신은 두바이의 미국 영사관이 드론 공격을 받아 검은 연기가 피어오르는 영상을 공개했습니다. 마르코 루비오 미국 국무장관은 이란 드론이 화요일 외곽 주차장을 강타해 작은 화재가 발생했지만 부상자는 보고되지 않았고 모든 직원은 안전하다고 밝혔습니다. 이란의 미사일과 드론 공격 횟수는 줄었지만 이번 사건은 이란이 여전히 미국의 방어 시스템을 뚫고 무기를 보낼 수 있음을 보여줍니다. UAE 정부는 1,000회 이상의 공격 중 거의 모든 이란의 공격을 차단할 수 있었다고 밝혔습니다. 한편 미국 국무부는 쿠웨이트, 바레인, 이라크, 카타르, 요르단, 아랍 에미리트를 포함한 중동 여러 국가에서 불필요한 직원과 가족을 대피시키라는 명령을 내렸으며, 미국 시민들에게 해당 지역에서 떠날 것을 권고했습니다. 많은 지역의 영공이 폐쇄되어 많은 사람들이 발이 묶여 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 불안정 고조로 여행객 안전에 잠재적 영향; 미국 영사관 공격은 해당 지역 여행에 대한 경각심을 높임. 태국은 아니지만 인접국 상황이므로 정보 제공 가치 있음.",
+      "event_info": {
+        "date": null,
+        "location": "두바이 미국 영사관",
+        "price": null,
+        "location_google_map_query": "두바이 미국 영사관"
+      },
+      "references": [
+        {
+          "title": "อิหร่านส่งโดรนถล่ม สถานกงสุลสหรัฐในดูไบ สหรัฐฯ ยืนยันทุกคนปลอดภัย",
+          "url": "https://www.thairath.co.th/news/foreign/2917743",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWWxXZ2iBfIgoO.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWWxXZ2iBfIgoO.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "이란 혁명 수비대의 호르무즈 해협 고속 공격정 분석: 태국 여행 안전에 미치는 영향",
+      "summary": "- 이란 혁명 수비대는 호르무즈 해협에서 고속 공격정을 활용한 비대칭 전술을 사용합니다.\n- 소형 선박을 이용해 '벌떼 전술'로 대형 함선의 방어 시스템을 무력화하는 전략입니다.\n- 이란은 자체 개발한 고성능 디젤 엔진과 미사일, 다연장 로켓, 기관총 등으로 무장했습니다.",
+      "full_translated": "이란 혁명 수비대(IRGCN)의 고속 공격정(FAC)은 비대칭 전술의 핵심입니다. 소형 선박을 대량으로 사용하여 '벌떼 전술'로 공격하여 대형 군함의 방어 시스템을 혼란시키고 파괴하는 데 중점을 둡니다.\n\n이란은 46년 이상 제재를 받아 서방, 특히 독일의 최고급 선박 엔진을 사용할 수 없었습니다. 따라서 이란은 누구에게도 의존하지 않고 자체적으로 고성능 디젤 엔진을 개발했습니다. 일반 군함이 따라잡을 수 없는 속도를 얻기 위해 고속 경주용 보트의 엔진을 개조했습니다.\n\n무기:\n- 유도 미사일: Nasr-1 (사거리 35-50km) 및 Abu-Mahdi 장거리 미사일\n- 근접 무기: 107mm 다연장 로켓 (MRLS), 12.7mm 중기관총 및 소형 선박 방어 및 공격용 20mm 개틀링 기관총\n- 스텔스: Shahid Soleimani 및 Seraj-1 클래스와 같은 최신 선박은 레이더 반사를 줄이기 위해 유리 섬유 또는 알루미늄 재료와 쌍동선 (Catamaran) 모양을 사용합니다.\n\n결정력과 공격 전략:\n- 벌떼 전술: 수십 척의 고속정을 사용하여 여러 방향에서 동시에 목표물을 포위하여 적의 방어 시스템이 과도하게 작동하도록 합니다 (포화 공격).\n- 치고 빠지기 공격: 일부 모델에서는 최대 110노트의 속도를 활용하여 30-40km 거리에서 접근하여 미사일을 발사한 다음 신속하게 후퇴하여 반격 가능성을 줄입니다.\n- 지리적 이점: 호르무즈 해협과 해안 지역에서 자주 작전을 수행합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "호르무즈 해협의 군사적 긴장은 잠재적으로 유가 상승을 유발하고, 이는 항공 운항 및 여행 비용에 영향을 줄 수 있습니다. 현재 태국 여행에 직접적인 위협은 아니지만, 상황을 주시해야 합니다.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "ลำไม่ใหญ่แต่ใจถึง ส่องเรือเร็วโจมตีของกองทัพเรือปฏิวัติอิสลามอิหร่านในอ่าวฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/auto/news/2917663",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhMzamUwy8rgNoKWi.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNhMzamUwy8rgNoKWi.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국, 중동 상황 관련 물가 및 에너지 가격 감시 강화",
+      "summary": "- 태국 내무부, 중동 분쟁 상황에 따른 국내 물가 상승 및 에너지 가격 불안정 가능성에 대비.",
+      "full_translated": "내무부 차관은 전국 지방 정부에 상품 및 서비스 가격, 에너지 가격에 대한 감독을 강화하고 중동 상황에 대한 대중의 인식을 높이도록 긴급 지시했습니다. 2569년 3월 4일, 언론인들은 3월 3일 23:00에 앗싯 삼판타랏 내무부 차관이 아누틴 찬위라꾼 총리 겸 내무부 장관이 모든 관련 기관에 현재 중동 지역에서 발생하는 갈등 상황으로 인해 국가 안보와 국민 안전에 미칠 수 있는 영향에 대한 계획을 준비하도록 지시했다고 밝혔습니다. 내무부 차관은 중동 지역의 긴장 상황으로 인해 발생할 수 있는 영향에 대한 모니터링, 감시 및 대비를 위해 모든 지방 정부에 다음과 같은 3가지 조치를 시행하도록 지시했다고 말했습니다. 1. 해당 지역 관련 기관에 상품 및 서비스 가격을 관리하도록 통보하여 가격 인상 및 사재기를 방지하고 해당 지역의 상품 및 서비스 가격과 에너지 가격을 면밀히 감독합니다. 2. 상품 및 서비스가 여전히 충분하므로 해당 지역 주민들이 당황하지 않도록 인식을 제고하고 생활비 관리 및 가격 정의 유지에 대한 정부 운영에 대한 확신을 구축합니다. 3. 정부 및 모든 정부 부처의 지침과 조치에 따라 지방 정부 내부의 정부 기관 운영을 엄격히 감독합니다. 또한 지방 및 지역의 댐롱탐 센터는 해당 사건으로 인해 영향을 받는 사람들의 정보 또는 불만을 접수하는 채널입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 분쟁의 간접적인 영향으로 물가 상승 가능성에 대한 선제적 대응. 여행객의 소비에 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปลัด มท. สั่งด่วนทุกจังหวัด กำกับราคาสินค้าอุปโภคบริโภค-พลังงาน รับมือสถานการณ์ตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/politic/2917734",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWYnB7e32KIDVw.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWYnB7e32KIDVw.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 나콘시탐마랏 경찰 간부 2명, 마약 관련 금품 갈취 혐의로 직위 해제",
+      "summary": "- 나콘시탐마랏 지방 경찰청장이 마약 90정을 압수한 후 금품을 요구한 혐의로 경찰 간부 2명을 직위 해제함.\n- 이들은 마약 소지 혐의를 줄여주는 대가로 돈을 요구한 것으로 알려짐.\n- 현재 경찰청에서 해당 사건에 대한 진상 조사를 진행 중임.",
+      "full_translated": "나콘시탐마랏 지방 경찰청 부청장인 폰차이 카존글린 소장은 마약 90정 압수 사건과 관련하여 돈을 요구한 혐의로 2명의 경찰 간부를 직위 해제했습니다. 이 사건은 2069년 3월 4일에 발생했으며, 마약 관련 범죄를 축소해주는 대가로 금품을 요구했다는 내부 고발이 있었습니다. 폰차이 카존글린 소장은 2069년 3월 2일자로 경찰관 직무 정지 명령서에 서명했습니다. 해당 명령서에는 2069년 2월 26일, 경찰이 키앙삭 카엑퐁을 수색하여 90정의 마약을 발견했다는 내용이 담겨 있습니다. 키앙삭은 해당 마약이 자신의 소유임을 인정했으며, 경찰은 그를 마약 소지 혐의로 기소했습니다. 키앙삭은 혐의를 인정했고, 경찰은 그를 경찰서로 이송하여 조서를 작성하고 소변 검사를 실시했습니다. 소변 검사 결과는 음성이었으며, 그는 기소되어 후아사이 경찰서로 이송되었습니다. 사건은 나콘시탐마랏 주 후아사이 지역의 본카이 7번 마을 도로변에서 발생했습니다. 이후 정보원은 경찰이 마약량을 줄여주는 대가로 돈을 요구했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객이 직접적으로 연루될 가능성은 낮으나, 태국 내 경찰 부패 관련 사건은 인지하고 있는 것이 좋다고 판단. 다만 여행 주의가 필요한 지역은 아님.",
+      "event_info": {
+        "date": null,
+        "location": "나콘시탐마랏 주",
+        "price": null,
+        "location_google_map_query": "나콘시탐마랏"
+      },
+      "references": [
+        {
+          "title": "รรท.ผู้การเมืองคอน เด้ง 2 นาย รอง ผกก.สืบ ปมจับยาบ้า 90 เม็ด รีดเงินแลกลดจำนวนยาเสพติด",
+          "url": "https://www.thairath.co.th/news/crime/2917748",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWWwwgn6e2iuaO.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLWWwwgn6e2iuaO.jpg",
       "date": "2026-03-04"
     }
   ]
