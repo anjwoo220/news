@@ -13987,14 +13987,9 @@
       "summary": "- 파타야에서 집주인이 오토바이 수리 불만을 품고 세입자인 오토바이 수리공을 사무라이 검으로 공격.\n- 피해자는 머리에 큰 열상을 입고 27바늘을 꿰맴, 귀도 거의 절단될 뻔함.\n- 경찰은 집주인을 체포하고 1미터 길이의 사무라이 검을 증거물로 압수.",
       "full_translated": "방라뭉 경찰서의 용윳 완 느아 수사 부국장과 우티퐁 카사 경감이 이끄는 경찰은 2026년 3월 4일 오후 4시 30분경 아누차 분타원(일명 '방 차')을 체포했습니다. 당국은 약 1미터 길이의 사무라이 검을 증거물로 압수했습니다. 이번 폭행은 2026년 3월 2일 저녁 10시 30분경 아누차 씨가 소이 농 야이 8에 있는 연립 주택에 위치한 24세 오토바이 정비공인 노파릿 새 무앙 씨의 임대 방에 들이닥쳤을 때 발생했습니다. 아누차 씨는 그의 아들의 오토바이가 노파릿 씨가 브레이크 패드를 교체하여 수리했음에도 불구하고 여전히 불안정하고 브레이크가 제대로 작동하지 않아 격분한 것으로 알려졌습니다. 두 사람 사이에 말다툼이 벌어졌습니다. 노파릿 씨가 방으로 후퇴하려고 하자 아누차 씨는 그를 따라 방으로 들어가 칼로 머리를 때렸습니다. 피해자는 두피 왼쪽에 큰 열상을 입어 27바늘을 꿰매야 했고, 칼날이 귀를 스쳐 거의 절단될 뻔했습니다. 노파릿 씨는 심각한 부상을 입었습니다. 아누차 씨는 또한 오토바이 수리점이 운영되는 노파릿 씨 고용주의 부지를 임대한 지주이기도 하며, 폭행이 발생한 연립 주택에서 불과 4~5미터 떨어져 있습니다. 다음 날 저녁인 2026년 3월 3일 저녁 8시 30분경 아누차 씨는 닛산 NV 픽업 트럭을 몰고 현장으로 돌아왔습니다. 그는 같은 칼을 휘두르며 가게 주인에게 위협적인 말을 하며 맞섰습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 흉기를 사용한 폭력 사건 발생. 여행객 안전에 대한 잠재적 위협이 있으므로 정보 제공.",
-      "event_info": {
-        "date": "2026-03-02",
-        "location": "파타야, 소이 농 야이 8",
-        "price": null,
-        "location_google_map_query": "Soi Nong Yai 8, Pattaya"
-      },
+      "event_info": "{'date': '2026-03-02', 'location': '파타야, 소이 농 야이 8', 'price': None, 'location_google_map_query': 'Soi Nong Yai 8, Pattaya'}",
       "references": [
         {
           "title": "Landlord Arrested After Attacking Motorcycle Mechanic with Samurai Sword Over Dissatisfactory Repair in Pattaya",
@@ -14003,23 +13998,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726369827543590686520628883658.jpg?v=1772637291"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726369827543590686520628883658.jpg?v=1772637291",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://thepattayanews.com/2026/03/04/landlord-arrested-after-attacking-motorcycle-mechanic-with-samurai-sword-over-dissatisfactory-repair-in-pattaya/",
+      "source": ""
     },
     {
       "title": "파타야에서 열리는 어메이징 태국 그랜드 홀리 축제 (2026년 3월 13일~15일)",
       "summary": "- 파타야에서 2026년 3월 13일부터 15일까지 어메이징 태국 그랜드 홀리 축제가 열립니다.\n- 센트럴 파타야 해변에서 오후 3시부터 7시까지 진행되며, 색깔 가루 던지기, 음악, 춤 등을 즐길 수 있습니다.\n- 입장료는 무료이며, 흰 옷을 입고 참가하여 색다른 경험을 할 수 있습니다.",
       "full_translated": "파타야에서 열리는 어메이징 태국 그랜드 홀리 축제가 도시의 상징적인 해변을 색, 음악, 축하의 흥미진진한 폭발로 변화시키면서 파타야로 돌아올 예정입니다. 파타야는 올해 가장 다채로운 행사 중 하나인 어메이징 태국 그랜드 홀리 축제 파타야 2026을 준비하고 있습니다. 전통적인 인도 홀리에서 영감을 받은 이 사랑받는 색의 축제는 태국 만 해안에서 바로 3일 동안 활기찬 재미를 약속합니다. 축제는 2026년 3월 13일부터 15일까지 센트럴 파타야 해변에서 열립니다. 활동은 매일 오후 3시부터 오후 7시까지 진행되며, 현지인과 관광객 모두에게 색깔 가루 뿌리기, 활기찬 음악, 춤, 해변 분위기로 완벽한 오후-저녁 경험을 제공합니다. 무엇보다도 입장료는 완전 무료입니다! 티켓은 필요하지 않습니다. 열정을 가지고 흰 옷(또는 화려해지는 것에 괜찮은 옷)을 입고 수천 명이 대규모 색깔 던지기 축제에 참여할 준비를 하십시오. 주최측은 이 행사를 문화적 전통과 태국의 대표적인 환대 및 해변 에너지와 혼합하여 \"파타야를 함께 무지개로 바꿀\" 기회라고 설명합니다. 참가자들이 우정, 쇄신, 순수한 재미를 축하하면서 서로를 밝은 가루로 덮을 때 쿵쿵거리는 비트, 즐거운 군중, 수많은 사진에 남을 만한 순간을 기대하십시오. 이 행사는 #HoliPattaya2026, #텟사칸 씨 쌋 씨 (색깔 던지기 축제), #AmazingThailand, #팟타야 짝 하이 (파타야가 제공합니다), #GrandHoliFestiv 등의 해시태그로 홍보됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 열리는 대형 축제 정보로, 여행객들에게 유용한 정보입니다. 특히 무료로 참가할 수 있다는 점이 매력적입니다.",
-      "event_info": {
-        "date": "2026-03-13 ~ 2026-03-15",
-        "location": "Central Pattaya Beach",
-        "price": "Free",
-        "location_google_map_query": "Central Pattaya Beach"
-      },
+      "event_info": "{'date': '2026-03-13 ~ 2026-03-15', 'location': 'Central Pattaya Beach', 'price': 'Free', 'location_google_map_query': 'Central Pattaya Beach'}",
       "references": [
         {
           "title": "Amazing Thailand Grand Holi Festival Taking Place in Pattaya From March 13th to the 15th",
@@ -14028,23 +14020,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17726280946513454237170505496203.jpg?v=1772628892"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17726280946513454237170505496203.jpg?v=1772628892",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://thepattayanews.com/2026/03/04/amazing-thailand-grand-holi-festival-taking-place-in-pattaya-from-march-13th-to-the-15th/",
+      "source": ""
     },
     {
       "title": "파타야, 영국인 대상 200만 바트 금고 강도 사건 최종 용의자 체포",
       "summary": "- 파타야에서 발생한 영국인 대상 200만 바트 금고 강도 사건의 마지막 용의자가 체포됨.\n- 용의자는 26세 영국 국적의 Brandon Tyler Garrett으로, 무기 사용 강도 및 도주 혐의를 받음.\n- 경찰은 이미 이전에도 영국인 용의자 3명을 체포했으며, 이번 체포로 사건 해결에 박차를 가할 것으로 예상됨.",
       "full_translated": "2월 26일, 검은 옷을 입고 칼을 든 복면 강도들이 카오 노이의 촉차이 빌리지 9에 있는 영국인 요리사의 집을 침입하여 금고를 강제로 열고 약 2,050,000바트의 현금을 가지고 도주했습니다. 이 사건은 주민들 사이에 광범위한 우려를 불러일으켰고, 이 지역의 안전한 관광지로서의 명성에 영향을 미쳤습니다. 집중적인 조사 끝에 경찰은 이미 이전에도 영국인 용의자 3명(저메인, 마이클, 크리스토퍼)을 체포했습니다. 3월 4일, 농프루 경찰서의 나탓폰 퐁 숙 사쿤 서장이 농프루의 수사 부국장인 타나 위세사차이 경감, 촌부리 지방 경찰, 이민국 경찰, 관광 경찰로 구성된 합동 팀을 이끌면서 획기적인 사건이 발생했습니다. 작전은 네 번째이자 마지막 용의자인 26세의 영국 국적자 브랜든 타일러 가렛 씨를 체포하는 것으로 끝났습니다. 그는 파타야 지방 법원 126/2569호 체포 영장에 따라 방람웅의 47/31 Moo 4에 있는 고급 주택에서 구금되었습니다. 혐의에는 무기를 사용한 공동 강도와 차량을 사용하여 범죄를 저지르고, 훔친 재물을 운반하거나, 체포를 피하는 것이 포함됩니다. 다른 세 명의 용의자와는 달리 가렛은 현지 지역에서 도망친 것으로 보이며, 그중 두 명은 출국하려다 이민국에서 붙잡혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 범죄 발생은 여행 안전에 영향을 미칠 수 있으므로 정보 제공 가치가 있음. 최종 용의자 체포로 상황 업데이트.",
-      "event_info": {
-        "date": "2026-02-26",
-        "location": "Chokchai Village 9, Soi Khao Noi, Pattaya",
-        "price": "2,050,000 baht",
-        "location_google_map_query": "Chokchai Village 9, Soi Khao Noi, Pattaya"
-      },
+      "event_info": "{'date': '2026-02-26', 'location': 'Chokchai Village 9, Soi Khao Noi, Pattaya', 'price': '2,050,000 baht', 'location_google_map_query': 'Chokchai Village 9, Soi Khao Noi, Pattaya'}",
       "references": [
         {
           "title": "Thai Police Arrest Final British Suspect in High-Profile 2 Million Baht Safe Robbery From Fellow British National in Pattaya Area",
@@ -14053,23 +14042,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260304_1853265319593562032309120.jpg?v=1772625293"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260304_1853265319593562032309120.jpg?v=1772625293",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://thepattayanews.com/2026/03/04/thai-police-arrest-final-british-suspect-in-high-profile-2-million-baht-safe-robbery-from-fellow-british-national-in-pattaya-area/",
+      "source": ""
     },
     {
       "title": "스리랑카 해역에서 이란 군함 침몰, 최소 80명 사망",
       "summary": "- 스리랑카 해역에서 미국 잠수함에 의해 이란 군함이 침몰하여 최소 80명이 사망했습니다.\n- 실종자 수색 작업이 진행 중이며, 현재 약 68명이 실종 상태입니다.\n- 미국 국방부 장관은 해당 사건이 2차 세계 대전 이후 처음으로 잠수함이 적함을 격침시킨 사례라고 밝혔습니다.",
       "full_translated": "스리랑카 당국은 인도양에서 미국 잠수함에 의해 이란 군함이 침몰한 후 최소 80구의 시신을 발견했습니다. 현재 약 68명이 실종된 상태입니다. 로이터 통신은 2569년 3월 4일 수요일 스리랑카 외무부 차관이 현지 방송국에 이란 군함이 미국 잠수함의 공격으로 인도양에서 침몰한 후 최소 80구의 시신이 발견되었다고 밝혔다고 보도했습니다. 공격은 수요일 새벽에 발생했으며 스리랑카 당국은 32명의 생존자를 구조했지만 148명이 실종되었습니다. 그러나 최신 성명에 따르면 현재 약 68명의 운명이 알려지지 않았습니다. 몇 시간 전, 피트 헤그세트 미국 국방부 장관은 국방부 기자 회견에서 이란 해군의 프리깃함 \"IRIS Dena\"가 공해상에서 항해하던 중 미국 잠수함에 의해 어뢰 공격을 받아 침몰했다고 인정했습니다. 헤그세트 장관은 \"미국 잠수함이 공해상에서 안전하다고 생각했던 이란 군함을 침몰시켰습니다.\"라고 말했습니다. \"그러나 사실은 어뢰에 맞아 침몰했다는 것입니다.\" 그리고 \"이것은 2차 세계 대전 이후 처음으로 어뢰로 적함을 침몰시킨 사례입니다.\" 해외 뉴스 팔로우: https://www.thairath.co.th/news/foreign 출처: reuters",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 긴장 고조 가능성이 있으며, 이는 항공 운항 및 여행 심리에 영향을 줄 수 있습니다. 하지만 직접적인 여행 제한이나 위험 요소는 현재까지 확인되지 않아 '보통'으로 평가합니다.  사망자 수 업데이트와 미국 국방부 장관의 공식 발표가 포함되어 업데이트로 판단했습니다.",
-      "event_info": {
-        "date": "2069-03-04",
-        "location": "인도양, 스리랑카 해역",
-        "price": null,
-        "location_google_map_query": "인도양 스리랑카 해역"
-      },
+      "event_info": "{'date': '2069-03-04', 'location': '인도양, 스리랑카 해역', 'price': None, 'location_google_map_query': '인도양 스리랑카 해역'}",
       "references": [
         {
           "title": "พบแล้ว 80 ศพ เหตุเรือดำน้ำสหรัฐฯ จมเรือรบอิหร่านใกล้ศรีลังกา",
@@ -14078,23 +14064,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwFVMfIf64HjY.jpg"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwFVMfIf64HjY.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2917949",
+      "source": ""
     },
     {
       "title": "파타야의 새로운 맛집: Be My Guest Restaurant & Bistro 개업",
       "summary": "- 파타야에 새로운 태국 음식점 'Be My Guest Restaurant & Bistro'가 문을 열었습니다.\n- 개업일에 30명의 손님에게 무료 식사를 제공하며 성황리에 시작했습니다.\n- 다양한 태국 요리와 편안한 분위기를 제공하며, 향후 일본 및 유럽 메뉴도 추가할 예정입니다.",
       "full_translated": "파타야에 위치한 Be My Guest Restaurant & Bistro가 마카 부차 데이에 맞춰 개업하여 30명의 행운의 손님들에게 프리미엄 식사를 무료로 제공했습니다. 이번 개업은 새로운 벤처에 행운과 축복을 가져다주기 위해 긍정적인 의미를 담아 신성한 불교 휴일에 의도적으로 선택되었습니다. 분위기는 따뜻하고 활기찼으며, 고객과 지역 주민들이 모여 팀을 축하하고 축제를 즐겼습니다. Be My Guest Restaurant & Bistro는 편안하고 여유로운 스타일을 특징으로 하며, 경치 좋은 연못을 따라 실내 및 실외 좌석 옵션을 모두 제공합니다. 식사하는 사람들은 자연 바람을 즐길 수 있는 시원한 야외 장소 또는 저녁 엔터테인먼트를 위한 무대와 음향 시스템이 갖춰진 에어컨이 완비된 실내를 선택할 수 있습니다. 이 장소는 약 100명의 손님을 편안하게 수용할 수 있으며 개인 행사, 파티 및 특별한 날에 적합합니다. 오너 \"Je\"가 운영하는 이 레스토랑은 모두를 위한 환영하는 모임 장소 역할을 하고 싶어합니다. 이곳은 대담하고 풍미 가득한 태국 요리를 전문으로 하며, 매운 음식을 좋아하는 사람들과 음료에 완벽하게 어울리는 음식을 찾는 사람들의 입맛을 충족시켜 줍니다. 대표적인 요리로는 매콤한 농어(pla kapong rot jad), 피쉬 소스에 절인 새우(kung chae nam pla), 얌 투아 푸(윙 빈 샐러드), 찐 계란(khai tun), 튀긴 오리 부리(pak ped tod), 와사비 게살 스틱, 달콤한 망고와 피쉬 소스 딥이 있습니다. 메뉴는 이러한 하이라이트를 훨씬 뛰어넘어 다양한 스낵, 이산 스타일 요리, 튀김, 볶음 요리, 수프 및 원 플레이트 식사를 제공합니다. 앞으로 레스토랑은 고객에게 더 많은 다양성을 제공하기 위해 일본 및 유럽 옵션을 도입할 계획입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 식당 정보는 여행객에게 유용할 수 있으며, 특히 맛집을 찾는 여행객에게 도움이 됩니다. 파타야 지역의 새로운 선택지.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": "변동",
-        "location_google_map_query": "Be My Guest Restaurant & Bistro 파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': '변동', 'location_google_map_query': 'Be My Guest Restaurant & Bistro 파타야'}",
       "references": [
         {
           "title": "Generous Opening: Be My Guest Restaurant & Bistro Treats 30 Lucky Diners to Free Premium Meals on Makha Bucha Day",
@@ -14103,8 +14086,110 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726305120803044936322820304154.jpg?v=1772630914"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726305120803044936322820304154.jpg?v=1772630914",
+      "date": "2026-03-05",
+      "link": "https://thepattayanews.com/2026/03/04/generous-opening-be-my-guest-restaurant-bistro-treats-30-lucky-diners-to-free-premium-meals-on-makha-bucha-day/",
+      "source": ""
+    },
+    {
+      "title": "파타야 오픈 2026 포켓볼 세계 나인볼 토너먼트, 파타야에서 공식 개막!",
+      "summary": "- 파타야에서 2026년 3월 2일부터 6일까지 세계적인 포켓볼 토너먼트 개최.\n- 세계 나인볼 투어의 랭킹 포인트가 걸린 대회로, 총 상금 규모는 상당함.\n- S1 Pool Hall & Sport Bar에서 진행되며, 입장료는 무료이고 Thairath Sport에서 생중계.",
+      "full_translated": "파타야 현지 프로모터 Think Curve와 S1, 그리고 글로벌 스포츠 강자 Matchroom Multi Sport가 협력하여 파타야 오픈 2026 포켓볼 세계 나인볼 토너먼트가 개최됩니다. 이 토너먼트는 태국 큐 스포츠에 있어 중요한 순간을 의미합니다. 전 세계의 엘리트 선수들이 세계 나인볼 투어에서 귀중한 랭킹 포인트를 얻기 위해 경쟁하며, 우승자는 22,500달러, 준우승자는 12,500달러, 준결승 진출자는 7,500달러를 받게 됩니다. 대회는 2026년 3월 2일부터 6일까지 촌부리주 파타야의 S1 Pool Hall & Sport Bar에서 열립니다. 3월 1일 오후 6시에는 미니어처 콘 댄스 '약롭' 공연이 하이라이트로 장식된 개막식이 열렸습니다. 이 공연은 테이블 위에서 펼쳐질 치열하고 명예로운 전투를 상징합니다. 높은 판돈이 걸린 경기 외에도, 이 행사는 팬들에게 전문적인 조명, 사운드 프로덕션, 관중 에너지로 몰입감 넘치는 분위기를 제공하는 완벽한 '스포츠 엔터테인먼트' 경험으로 승격되었습니다. 토너먼트 기간 동안 입장료는 무료이므로 관람객은 세계적인 선수들을 가까이에서 보고, 인터랙티브 활동을 즐기고, 하루 종일 흥분을 만끽할 수 있습니다. 직접 참석할 수 없는 사람들을 위해 Thairath Sport는 페이스북 팬페이지와 유튜브 채널을 통해 태국 전역에 주요 경기를 생중계하여 전국 시청자들이 액션을 무료로 즐길 수 있도록 합니다. 팬들은 공식 Matchroom Pool 웹사이트와 S1 Pool Hall & Sport Bar Pattaya의 소셜 채널을 통해 라이브 스코어, 선수 업데이트, 일정 및 추가 세계 나인볼 투어 정보를 확인할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야에서 열리는 국제 스포츠 이벤트로, 여행객들에게 볼거리를 제공할 수 있음. 입장료가 무료이고, 생중계도 제공되어 접근성이 높음.",
+      "event_info": {
+        "date": "2026-03-02 ~ 2026-03-06",
+        "location": "S1 Pool Hall & Sport Bar, Pattaya, Chonburi",
+        "price": "Free",
+        "location_google_map_query": "S1 Pool Hall & Sport Bar Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Open 2026 Pool World Nineball Tournament Officially Kicks Off in Pattaya!",
+          "url": "https://thepattayanews.com/2026/03/04/pattaya-open-2026-pool-world-nineball-tournament-officially-kicks-off-in-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726209693794591709586156472781.jpg?v=1772621740"
+        }
+      ],
+      "collected_at": "02:32",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726209693794591709586156472781.jpg?v=1772621740",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "미국, 트럼프 암살 시도 배후 이란 관리 제거",
+      "summary": "- 미국 국방부는 도널드 트럼프 전 대통령 암살 시도 배후에 있는 이란 고위 관리를 제거했다고 발표했습니다.\n- 해당 관리는 3월 3일에 제거되었으며, 2027년 트럼프 암살 시도와 관련된 인물입니다.\n- 이번 제거는 이란 내 '에픽 퓨리' 작전의 일환으로, 트럼프 전 대통령은 이란 최고 지도자를 먼저 제거했다고 언급한 바 있습니다.",
+      "full_translated": "미국 국방부 장관은 군대가 2년 전 도널드 트럼프 대통령을 암살하려는 계획의 배후에 있는 이란 관리를 사살했다고 밝혔습니다. 2069년 3월 4일, 피트 헤그세스 미국 국방부 장관은 펜타곤에서 열린 이란의 '에픽 퓨리' 작전 진행 상황에 대한 기자 회견에서 미국 군대가 도널드 트럼프 대통령 암살 계획의 배후에 있는 부대의 수장인 이란 고위 관리를 사살했다고 밝혔습니다. 헤그세스 장관은 이름을 밝히지 않았지만 해당 이란 관리는 화요일(3월 3일)에 사살되었으며 이번 전쟁의 주요 목표는 아니었다고 강조했습니다. 그는 “트럼프 대통령을 암살하려던 부대의 지도자가 추적되어 사살되었습니다. 이란은 트럼프 대통령을 죽이려고 했지만 트럼프 대통령이 최후의 승리자입니다.”라고 말했습니다. 2067년 미국 법무부는 당시 대통령 후보였던 트럼프 암살 계획과 관련된 이란 남성을 이란 이슬람 혁명 수비대(IRGC)의 명령에 따라 기소했습니다. 그러나 이란 정부는 이러한 혐의를 부인했습니다. 트럼프 대통령은 지난 일요일 미국과 이스라엘의 협력으로 이란 최고 지도자 아야톨라 알리 카메네이를 암살한 사건에 대해 언급하면서 “그가 나를 처리하기 전에 내가 그를 처리했습니다.”라고 말했습니다. 그러나 헤그세스는 트럼프가 이 암살 계획의 배후에 있는 이란 부대의 지도자를 추적하는 것을 펜타곤의 최우선 과제로 삼지 않았다고 밝혔습니다. “비록 그것이 이번 작전의 주요 목표는 아니었지만 말입니다.”",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에 직접적인 영향은 없지만, 미국-이란 관계 악화는 잠재적 불안 요인이 될 수 있다는 점에서 낮은 점수 부여. 이미 '이란, 미국-이스라엘 공격에 대한 보복으로 주변국 공격 불가피' 기사가 게시되었으므로 업데이트로 보기 어려움.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เพนตากอนเผย สหรัฐฯ เด็ดหัวผู้อยู่เบื้องหลัง แผนลอบสังหารทรัมป์แล้ว",
+          "url": "https://www.thairath.co.th/news/foreign/2917959",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwanfwgdsKObH.jpg"
+        }
+      ],
+      "collected_at": "02:32",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwanfwgdsKObH.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "중국, 태국 콘도 시장 1위 유지, 미얀마 2위로 급부상",
+      "summary": "- 태국 콘도 시장에서 외국인 구매자 중 중국인이 2025년에도 1위를 유지했지만 감소세를 보임.\n- 미얀마 구매자는 가장 큰 성장률을 보이며 2위로 올라섬.\n- 전체 외국인 콘도 이전 건수는 소폭 증가했지만, 총 이전 가치는 하락함.",
+      "full_translated": "방콕 – 외국인 구매자들은 태국 콘도 시장에서 여전히 핵심적인 역할을 하고 있으며, 중국 국적자들이 감소세에도 불구하고 2025년에 1위를 유지했고, 미얀마 구매자들은 가장 강력한 성장세를 보이며 2위를 차지했다. 부동산정보센터(REIC)의 나롱폴 프라바니린 임시 이사는 2025년 4분기에 외국인 콘도 이전 건수가 총 3,888건으로 분기 대비 1.1%, 전년 대비 9.3% 증가했다고 밝혔다. 이전 가치는 전년 대비 소폭 상승했지만, 물량 증가율이 더 높은 것은 특히 중간 가격대에서 평균 가격 하락을 반영한다. 2025년 전체적으로 외국인 구매자들은 14,899건의 콘도 유닛을 이전하여 2024년보다 2.2% 증가했다. 그러나 총 이전 가치는 10.7% 감소한 609억 2천만 바트였다. 외국인 소유는 전국 콘도 이전 유닛의 14.7%, 총 이전 가치의 25%를 차지했다. 태국 법률에 따라 외국인은 콘도 프로젝트의 판매 가능 면적의 최대 49%까지 소유할 수 있다. 외국인 이전 건수가 가장 많은 상위 10개 지방은 방콕이 7,029건, 353억 9천만 바트로 선두를 달렸고, 촌부리가 4,164건, 115억 9천만 바트, 푸켓이 1,190건, 60억 9천만 바트로 그 뒤를 이었다. 다른 지방으로는 치앙마이, 쁘라쭈압 키리 칸, 사뭇 쁘라칸, 수랏 타니, 라용, 펫차부리, 논타부리가 있다. 국적별로는 중국 구매자들이 감소세에도 불구하고 가장 큰 그룹으로 남았다. 2025년 중국 국적자들은 4,940건을 이전하여 전년 대비 12.9% 감소했다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "콘도 구매 동향은 관광객에게 직접적인 영향을 주지는 않지만, 부동산 시장의 변화를 간접적으로 보여주므로 낮은 점수 부여. 최신 데이터이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "China still tops Thai condo market, Myanmar jumps to No.2",
+          "url": "https://www.khaosodenglish.com/featured/2026/03/04/china-still-tops-thai-condo-market-myanmar-jumps-to-no-2/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/aerial-view-bangkok-modern-office-buildings-condominium-bangkok-city.jpg"
+        }
+      ],
+      "collected_at": "02:32",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/aerial-view-bangkok-modern-office-buildings-condominium-bangkok-city.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "파타야 다이아나 가든 리조트, 23주년 기념 및 '아unt 노이' 이사 82세 생일 축하",
+      "summary": "- 다이아나 가든 리조트에서 경영진, 직원, 친구, 고객들이 모여 23주년 및 이사 생일 축하 행사 개최.\n- 불교 의식과 함께 지역 사회에 기부하는 행사 진행.\n- 파타야 기자 협회도 참석하여 축하와 기부를 함께 함.",
+      "full_translated": "파타야 뉴스에 따르면, 다이아나 가든 리조트에서 23주년 기념 및 '아unt 노이' 이사의 82세 생일 축하 행사가 열렸습니다. 행사에는 경영진, 직원, 친구, 태국 및 외국 고객들이 참석하여 축하와 덕담을 나누었습니다. 파타야 기자 협회 회장 암폰 생깨우도 참석하여 축복을 빌었습니다. 왓 수타왓 사원의 승려 9명이 초청되어 불교 의식을 진행하고 임원, 직원 및 호텔 운영에 축복을 내렸습니다. 지역 사회에 환원하는 정신으로 리조트는 쌀, 건조 식품 및 생필품을 준비하여 ATTC 센터(반 크루 자라고도 함)의 어린이들에게 기증했습니다. 파타야 기자 협회도 센터의 노력에 대한 지원을 위해 기부금을 기부했습니다. 직원들은 '아unt 노이'에게 생일 케이크를 선물하여 기쁨을 선사했습니다. 다이아나 그룹은 1982년 파타야 우체국 골목에서 'Bhagavadi Guest House'라는 작은 사업으로 시작하여 고객에 대한 헌신, 정직, 체계적인 관리 원칙을 바탕으로 꾸준히 성장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야의 리조트 행사 정보로, 여행에 직접적인 영향은 적지만, 지역 행사 정보로서 소소한 흥미를 유발할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "Diana Garden Resort, Pattaya",
+        "price": null,
+        "location_google_map_query": "Diana Garden Resort Pattaya"
+      },
+      "references": [
+        {
+          "title": "Diana Garden Resort Pattaya Celebrates 23rd Anniversary and 82nd Birthday of Beloved Executive “Aunt Noi”",
+          "url": "https://thepattayanews.com/2026/03/04/diana-garden-resort-pattaya-celebrates-23rd-anniversary-and-82nd-birthday-of-beloved-executive-aunt-noi/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726188631678566778819953184873.jpg?v=1772620673"
+        }
+      ],
+      "collected_at": "02:32",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17726188631678566778819953184873.jpg?v=1772620673",
       "date": "2026-03-05"
     }
   ]
