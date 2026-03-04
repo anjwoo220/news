@@ -13656,14 +13656,9 @@
       "summary": "- 방콕 의료기기 회사 관리자 납치 및 살해 사건 발생\n- 경찰, 용의자 7명 체포, 공범 2명 수배 중\n- 피해자 시신은 롭부리 지역에서 불에 탄 채 발견",
       "full_translated": "경찰은 방콕 의료기기 회사 관리자를 납치, 살해하고 롭부리에서 시신을 불태운 혐의로 7명을 구금했습니다. 경찰은 신원 미상의 주범 1명과 불법 감금 및 강요 혐의로 체포 영장이 발부된 8명을 포함하여 총 9명이 연루되었다고 밝혔습니다. 피해자는 46세의 룻 마니프라세르트로 확인되었으며, 롭부리 차이 바단 지역의 버려진 집 화장실에서 불에 탄 채 발견되었습니다. 수사 결과, 용의자들은 피해자를 방콕 랏차다피섹 소이 18의 새우 양식장 근처에서 납치하여 사무트 프라칸 방 보 지역의 임대 주택으로 데려갔습니다. 법의학 조사관들은 해당 부동산에서 혈흔을 발견했으며, 이는 피해자가 별도의 3인조 '청부 살인팀'에 의해 살해되었음을 시사합니다. 용의자들은 피해자의 시신을 나콘 사완과 펫차분으로 옮긴 후 롭부리의 버려진 집에서 불태운 것으로 추정됩니다. 피해자의 불에 탄 유해는 손이 등 뒤로 묶여 있고 눈가리개와 재갈이 여전히 있는 화장실에서 발견되었습니다. DNA 검사가 신원 재확인을 위해 진행 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "방콕에서 발생한 강력 범죄 사건으로 여행객 안전에 대한 잠재적 위협이 될 수 있으므로 알립니다.",
-      "event_info": {
-        "date": "2026-03-04",
-        "location": "방콕 랏차다피섹 소이 18, 롭부리 차이 바단",
-        "price": null,
-        "location_google_map_query": "Ratchadaphisek Soi 18 Bangkok, Chai Badan Lop Buri"
-      },
+      "event_info": "{'date': '2026-03-04', 'location': '방콕 랏차다피섹 소이 18, 롭부리 차이 바단', 'price': None, 'location_google_map_query': 'Ratchadaphisek Soi 18 Bangkok, Chai Badan Lop Buri'}",
       "references": [
         {
           "title": "Seven held in kidnapping, suspected killing of Bangkok businessman",
@@ -13674,21 +13669,18 @@
       ],
       "collected_at": "22:32",
       "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209860_260304215601_700.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/thailand/general/3209860/seven-held-in-kidnapping-suspected-killing-of-bangkok-businessman",
+      "source": ""
     },
     {
       "title": "태국 총선 결과 공식 발표, 새 의회 개회 임박",
       "summary": "- 태국 선거관리위원회, 2월 8일 총선 결과 공식 승인.\n- 새 의회는 최소 475석(95%) 이상 확정 후 15일 이내 개회해야 함.\n- 새 정부는 4월부터 업무 시작 예상.",
       "full_translated": "태국 선거관리위원회는 2월 8일 총선 결과를 공식 승인하며 새 의회 개회 카운트다운이 시작되었습니다. 수요일, 선관위는 비례대표 의원 100명을 승인하여 2월 25일 지역구 의원 396명을 승인한 후 비례대표 의석 인증을 완료했습니다. 수요일에는 3개의 지역구 의석도 추가로 인증되어 500석의 하원에서 총 499석이 확정되었습니다. 새 의회는 최소 475석, 즉 전체 의석의 95% 이상이 확정된 후 15일 이내에 개회해야 합니다. 의장과 부의장을 선출한 후 하원은 총리를 선출하여 정부를 구성하게 됩니다. 아누틴 차른비라쿨 총리의 품차이타이당 연립 정부 고위 관계자는 새 정부가 4월부터 업무를 시작할 것으로 예상했습니다. 수요일 발표는 투표용지에 바코드를 사용한 것에 대한 수많은 이의 제기에도 불구하고 이루어졌으며, 비평가들은 이 시스템이 비밀 투표에 대한 헌법적 요구 사항을 침해할 수 있는지에 대해 의문을 제기했습니다. 부패 및 위법 행위에 대한 중앙 형사 법원은 나롱 클란와린 선관위원장과 관련된 혐의에 대한 고발을 3월 17일에 수리할지 여부를 결정할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "정치 상황 변화는 여행객에게 간접적인 영향을 미칠 수 있음. 새 정부 구성에 따른 정책 변화 가능성 존재.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Countdown to new parliament session begins",
@@ -13699,21 +13691,18 @@
       ],
       "collected_at": "22:32",
       "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209729_260304210622_700.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/thailand/politics/3209729/countdown-to-new-parliament-session-begins",
+      "source": ""
     },
     {
       "title": "촌부리에서 유조차 폭발 사고 발생, 인근 작업자 1명 사망",
       "summary": "- 촌부리 지역 주차장에서 유조차 탱크 폭발 사고 발생\n- 탱크 근처를 지나던 36세 작업자 사망\n- 경찰, 정확한 사고 원인 조사 중",
       "full_translated": "촌부리에서 큰 폭발음과 함께 유조차 탱크가 폭발하여, 근처를 지나던 작업자 1명이 사망했습니다. 경찰은 사고 원인을 조사하고 있습니다. 2069년 3월 4일 20시, 촌부리 지역 농캄 경찰서에 유조차 탱크 폭발 사고 신고가 접수되었습니다. 폭발로 인해 작업자 1명이 현장에서 사망했습니다. 사고는 촌부리 지역의 한 주차장에서 발생했으며, 경찰과 구조대가 현장에 출동했습니다. 현장에는 5만 리터 용량의 유조차 잔해가 흩어져 있었습니다. 사망자는 36세의 나롱으로, 사고 당시 탱크 근처를 지나고 있었으며, 폭발 충격으로 인해 시신이 심하게 훼손되었습니다. 목격자 랑산(51세)에 따르면, 해당 유조차는 최근 기름을 배송하고 주차장에 들어왔으며, 이후 갑자기 폭발음이 들렸다고 합니다. 경찰은 현장을 통제하고 있으며, 사고 원인을 조사하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 안전 관련 사고이므로 정보 제공. 지역 사고 정보.",
-      "event_info": {
-        "date": "2069-03-04",
-        "location": "촌부리, 스리라차 지역 농캄",
-        "price": null,
-        "location_google_map_query": "ศรีราชา 촌부리"
-      },
+      "event_info": "{'date': '2069-03-04', 'location': '촌부리, 스리라차 지역 농캄', 'price': None, 'location_google_map_query': 'ศรีราชา 촌부리'}",
       "references": [
         {
           "title": "บึมสนั่นชลบุรี ถังรถบรรทุกน้ำมันระเบิด อัดร่างคนงานเดินผ่านดับ 1 ศพ",
@@ -13724,21 +13713,18 @@
       ],
       "collected_at": "22:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwZ4DSz2FARRp.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/local/east/2917950",
+      "source": ""
     },
     {
       "title": "치앙마이, 연료 사재기 소동 진정... PTT 석유 창고, 공급 충분",
       "summary": "- 치앙마이 PTT 석유 창고, 석유 공급 충분하다고 발표.\n- 일부 주유소에서 일시적인 품절 발생, 곧 해결될 예정.\n- 동북아 지역 불안으로 인한 사재기 심리 진정 필요.",
       "full_translated": "치앙마이 에너지 및 상업부, PTT 석유 창고 점검 결과 석유 재고가 충분하며 지속적인 서비스 제공이 가능하다고 밝혔습니다. 일부 주유소에서 일시적인 품절이 발생한 것은 석유 구매량이 일시적으로 증가했기 때문입니다. 3월 4일, 치앙마이 에너지부, 상업부 관계자들은 PTT 석유 소매 회사의 치앙마이 석유 창고 관리자를 만나 가격 및 석유 재고 상황에 대한 논의를 진행했습니다. 이는 최근 동북아 지역의 불안정한 상황에 대한 우려 때문입니다. 치앙마이 석유 창고는 석유 재고가 충분하며 지속적으로 공급하고 있다고 밝혔습니다. 석유 가격은 시장 메커니즘에 따라 결정됩니다. 정부와 에너지부는 디젤 가격을 15일 동안 동결하는 정책을 통해 국민들의 부담을 덜어줄 예정입니다. 휘발유와 디젤 모두 사용에 충분하며 부족 현상은 없을 것이라고 강조했습니다. 치앙마이 석유 창고 관리자는 현재 석유 재고가 충분하며 모든 고객에게 지속적으로 서비스를 제공하고 있다고 밝혔습니다. 또한 안전 기준 및 법적 요구 사항을 엄격히 준수하며 운영하고 있습니다. 일부 주유소에서 석유가 일시적으로 부족한 이유는 많은 고객이 주유소를 방문하여 재고량보다 수요가 많았기 때문입니다. 석유 트럭이 지속적으로 창고에서 석유를 공급받고 있으며, 곧 해결될 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "치앙마이 지역의 연료 부족 문제가 여행에 직접적인 영향을 미치지는 않지만, 불안감을 야기할 수 있으므로 정보 제공. 공급이 충분하다는 점을 강조하여 불필요한 혼란을 방지.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이",
-        "price": null,
-        "location_google_map_query": "치앙마이"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이', 'price': None, 'location_google_map_query': '치앙마이'}",
       "references": [
         {
           "title": "เช็กคลังน้ำมัน ปตท.เชียงใหม่ ยืนยันไม่ขาดแคลน แม้คนต่อคิวรอแถวยาวเหยียด",
@@ -13749,21 +13735,18 @@
       ],
       "collected_at": "22:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqxEoVCabHFI5a.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/local/north/2917935",
+      "source": ""
     },
     {
       "title": "루앙푸 토의 은총으로 보호받은 남성, 급하게 차를 피하려다 여러 번 구르고도 다치지 않아",
       "summary": "- 시사켓 출신의 한 남성이 다른 차량이 갑자기 끼어드는 것을 피하려다 여러 번 구르는 사고를 당했지만 가벼운 찰과상만 입었습니다.\n- 사고는 수린 지방 시코라품 지역의 226번 도로에서 발생했으며, 차량은 심하게 파손되었습니다.\n- 운전자는 아버지로부터 물려받은 루앙푸 토 부적 덕분이라고 믿고 있습니다.",
       "full_translated": "3월 4일 13시 30분, 시코라품 경찰은 226번 시코라품-시사켓 도로 3km 지점에서 차량이 중앙선을 넘어갔다는 신고를 받았습니다. 현장에는 검은색 이스즈 D-맥스 픽업트럭이 있었고, 앞부분이 심하게 파손되었습니다. 운전자는 30세의 칸야 씨로, 시사켓에 거주하며 보험 회사에 연락하고 있었습니다. 칸야 씨는 수린 지역의 고객의 차량을 수리하기 위해 시사켓에서 출발했다고 합니다. 3km 지점에서 다른 픽업트럭이 갑자기 끼어들어 피하려다 중앙선을 들이받고 여러 번 구르게 되었습니다. 칸야 씨는 가벼운 찰과상만 입었으며, 아버지로부터 물려받은 루앙푸 토 부적 덕분이라고 믿고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 불교 문화와 관련된 흥미로운 이야기이지만, 여행 안전에 직접적인 영향을 미치지는 않습니다. 로컬 뉴스에 해당합니다.",
-      "event_info": {
-        "date": "2026-03-04",
-        "location": "수린 지방 시코라품 지역 226번 도로 3km 지점",
-        "price": null,
-        "location_google_map_query": "시코라품 수린 태국"
-      },
+      "event_info": "{'date': '2026-03-04', 'location': '수린 지방 시코라품 지역 226번 도로 3km 지점', 'price': None, 'location_google_map_query': '시코라품 수린 태국'}",
       "references": [
         {
           "title": "เชื่อบารมีหลวงปู่โต๊ะคุ้มครอง หนุ่มหักหลบรถตัดหน้า ตีลังกาหลายตลบไร้เจ็บ",
@@ -13774,6 +13757,131 @@
       ],
       "collected_at": "22:32",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqw9lP6QRlMaBb.jpg",
+      "date": "2026-03-04",
+      "link": "https://www.thairath.co.th/news/local/2917920",
+      "source": ""
+    },
+    {
+      "title": "중국, 미국-이스라엘-이란에 즉각적인 교전 중단 촉구하며 경제 위기 우려 표명",
+      "summary": "- 중국 외교부 대변인은 호르무즈 해협의 안정이 국제 사회의 공동 이익이라고 강조.\n- 관련 당사국(이란, 미국, 이스라엘)에 군사 작전 중단 및 긴장 고조 방지를 촉구.\n- 중국은 원유 및 LNG 수입의 상당 부분을 호르무즈 해협을 통해 운송하므로, 지역 불안정이 경제에 미치는 영향을 우려.",
+      "full_translated": "중국은 이란, 미국, 이스라엘에 세계 경제 성장에 심각한 피해를 초래하는 것을 피하기 위해 즉각적인 교전을 중단할 것을 촉구했습니다. 2569년 3월 4일 수요일, 중국 외교부 대변인 린젠은 X를 통해 호르무즈 해협이 이란이 일부 지역을 통제하고 있는 석유 수송의 중요한 전략적 지점이며 상품과 에너지의 중요한 무역로라고 밝혔습니다. 이 지역의 안정과 안전을 유지하는 것은 국제 사회의 공동 이익입니다. 린 씨는 \"중국은 관련 당사국(이란, 미국, 이스라엘)에 즉각적인 군사 작전을 중단하고 긴장 상황이 더욱 악화되는 것을 피하며 지역 혼란이 세계 경제 성장에 더 큰 피해를 주지 않도록 할 것을 촉구합니다.\"라고 말했습니다. 중국 원유 수입의 약 절반과 액화 천연 가스(LNG) 수입의 29%가 호르무즈 해협을 통해 운송됩니다. 세계 최대 가스 생산국 중 하나인 카타르는 수요일 현재 LNG 수출이 완전히 중단되었다고 밝혔습니다. 또한 전 세계 석유의 20% 이상이 이 해협을 통과하며, 지난 토요일 이란과의 전쟁 발발 이후 심각한 영향을 받았습니다. 이란은 해협을 통과하는 모든 선박을 공격하겠다고 위협하여 항해량이 크게 감소했습니다. 해외 뉴스 팔로우: https://www.thairath.co.th/news/foreign 출처: cnn",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 분쟁이 심화될 경우 유가 상승 및 여행 불안정성이 높아질 수 있으므로 정보 제공. 태국 여행객의 직접적인 안전에 대한 즉각적인 위협은 없으나, 상황을 주시할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "จีนเรียกร้อง สหรัฐฯ-อิสราเอล-อิหร่าน หยุดสู้กัน หวั่นเกิดวิกฤตเศรษฐกิจ",
+          "url": "https://www.thairath.co.th/news/foreign/2917956",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwabJO5VL1wUU.jpg"
+        }
+      ],
+      "collected_at": "23:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqwabJO5VL1wUU.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "방콕에서 온라인 도박 운영 혐의로 베트남인 94명 체포",
+      "summary": "- 방콕 후아이쾅 지역의 고급 콘도에서 온라인 도박 웹사이트 운영 혐의로 베트남인 94명 체포됨.\n- 경찰은 24시간 운영되는 사무실에서 69명의 남성과 25명의 여성을 발견, 컴퓨터와 휴대폰 압수.\n- 피의자들은 관광 비자로 입국하여 월 3만 바트의 급여를 받는 고객 서비스 직업으로 채용되었다고 주장.",
+      "full_translated": "방콕에서 베트남인 94명이 온라인 도박 단속으로 체포되었습니다.\n\n방콕의 사무실은 베트남 고객을 대상으로 24시간 운영되었습니다. 경찰은 수요일 저녁 방콕 후아이쾅 지역 펫차부리 로드의 고급 콘도 단지에 있는 임대 사무실에서 온라인 도박 웹사이트를 운영한 혐의로 베트남인 94명을 체포했습니다. 이 지역 주민들은 많은 베트남인들이 그곳에서 일하고 있으며 불법 활동을 의심한다고 보고했습니다. 경찰에 따르면 1층 사무실은 교대조당 최소 20명의 직원으로 24시간 운영되었습니다. 그곳은 안전하게 잠겨 있었고 청소부들은 앞쪽에서만 일할 수 있었습니다. 수색 영장을 확보한 후 경찰은 69명의 남성과 25명의 여성인 베트남인 노동자 94명과 컴퓨터 68대, 휴대폰 약 500대를 발견했습니다. 일부 컴퓨터 화면에는 베트남어로 된 도박 웹사이트가 표시되었습니다. 그들은 베트남 통화로 된 도박 및 축구 도박 서비스와 거래를 보여주었습니다. 경찰은 베트남 용의자가 최근 졸업생이며 태국에서 월 3만 바트의 급여를 받는 고객 서비스 직업으로 채용되었다고 말했습니다. 그는 6명의 베트남 친구들과 함께 도착하여 관광 비자로 태국에 머물렀습니다. 그는 온라인 도박 사업을 위해 강제로 일하게 될 줄은 몰랐다고 주장했습니다. 용의자 중 누구도 수사관에게 작전 책임자가 누구인지 말하지 않았다고 경찰은 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "외국인 대상 불법 도박 조직 운영은 여행객 안전에 간접적 영향이 있을 수 있고, 유사 범죄 발생 가능성을 알리는 차원에서 포함.",
+      "event_info": {
+        "date": "2026-03-04",
+        "location": "방콕 후아이쾅 지역 펫차부리 로드",
+        "price": null,
+        "location_google_map_query": "Phetchaburi Road, Huai Khwang, Bangkok"
+      },
+      "references": [
+        {
+          "title": "94 Vietnamese held in online gambling raid",
+          "url": "https://www.bangkokpost.com/thailand/general/3209854/94-vietnamese-held-in-online-gambling-raid",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209854_700.jpg"
+        }
+      ],
+      "collected_at": "23:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209854_700.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국, 중동 분쟁 관련 자국민 귀국 지원 시작",
+      "summary": "- 태국 정부가 중동 분쟁 지역에서 귀국을 희망하는 자국민 등록을 시작합니다.\n- 첫 번째 귀국 예정 그룹은 3월 7일과 10일에 터키를 경유하여 태국으로 돌아올 예정입니다.\n- 정부는 귀국 비용 지원 및 가족 지원을 제공할 계획입니다.",
+      "full_translated": "태국 노동부는 위험 지역에서 귀국을 원하는 자국민을 위한 등록을 시작합니다. 정부는 목요일에 전쟁으로 파괴된 중동에서 귀국을 원하는 태국 국민을 위한 등록을 시작할 예정이며, 첫 번째 그룹은 토요일에 출발할 예정입니다. Treenuch Thienthong 노동부 장관 대행은 수요일에 분쟁이 시작된 이후 부상자나 사망자는 보고되지 않았다고 밝혔습니다. 그러나 고위험 지역에 거주하는 약 300명의 태국인(대부분 이란 거주)이 귀국 의사를 밝혔습니다. 이 중 50명은 등록된 근로자이며, 모두 본국 송환을 요청했습니다. 당국은 현재 외무부와 협력하여 해당 지역의 태국 대사관과 영사관을 통해 세부 사항을 처리하고 있습니다. 등록은 목요일에 시작됩니다. 첫 번째 그룹은 3월 7일과 3월 10일에 육로로 터키로 이동한 후 태국으로 이동할 예정입니다. 주정부 송환과 노동 고용 기관에서 조직한 여행이라는 두 가지 채널이 준비되고 있습니다. 전자는 비용 책임이 고려 중이고 후자는 비용을 전액 부담합니다. 노동부는 또한 해외 근로자 가족에게 정보를 제공하기 위해 전용 통신 앱을 통해 지방 노동 사무소와 협력하고 있으며 재정 지원 및 정서적 지원을 준비하고 있습니다. 도착 시 귀국자는 고용부와 국으로부터 도움을 받게 됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행객 안전에 직접적인 영향은 없지만, 중동 지역 상황이 불안정함을 간접적으로 시사하며, 유사시 태국 정부의 대응을 보여주므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2026-03-07",
+        "location": "중동 (이란)",
+        "price": "정부 지원 또는 노동 고용 기관 부담",
+        "location_google_map_query": "Iran"
+      },
+      "references": [
+        {
+          "title": "First Thai returnees expected to leave Mideast on Saturday",
+          "url": "https://www.bangkokpost.com/thailand/general/3209800/first-thai-returnees-expected-to-leave-mideast-on-saturday",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209800_260304165141_700.jpg"
+        }
+      ],
+      "collected_at": "23:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209800_260304165141_700.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 산업계, 중동 전쟁으로 인한 공급망 차질 및 운송비 급등 우려",
+      "summary": "- 태국 산업계, 중동 전쟁으로 물류 및 운송 비용 급등 우려 표명.\n- 호르무즈 해협 통과 선박 위험 증가, 전쟁 위험 보험료 400% 이상 급등 예상.\n- 태국 선박, 호르무즈 해협 통과 시 위험 고려, 수출업체는 우회 또는 반송 고려.",
+      "full_translated": "태국 산업계 지도자들은 중동 전쟁이 태국 및 다른 국가들의 제조 산업에 파급 효과를 미치면서 물류 및 운송 비용을 크게 Disrupt할 수 있다고 우려하고 있습니다. 태국 산업 연맹(FTI) 회장 Kriengkrai Thiennukul은 전쟁이 호르무즈 해협을 통과하는 선박 항로를 방해하여 글로벌 공급망을 불안정하게 만들 수 있다고 말했습니다. 그는 긴장이 고조됨에 따라 전쟁 위험 보험료가 400-500% 급증하여 국제 무역에 부담을 줄 것으로 예상했습니다. 이란은 수요일 호르무즈 해협에 대한 “total control”을 선언하고 그곳을 통과하려는 선박을 표적으로 삼을 것이라고 밝혔습니다. 중국과 러시아 선박은 면제되지만 태국을 포함한 다른 국가의 선박은 위험이 고조되어 해협을 피하는 것이 좋습니다. Kriengkrai씨는 “해협을 통과하는 석유, 가스 및 기타 상품을 운송하는 태국 선박은 분쟁으로 인한 위험을 고려해야 합니다.”라고 말했습니다. 태국 상공 회의소 부회장 Bhumindr Harinsuit은 중동행 화물을 보유한 태국 수출업체에게 해당 상품을 태국으로 반송하거나 운송 라인에 고객에게 전달하기 전에 다른 주요 항구로 리디렉션하도록 요청할 것을 촉구했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "전쟁으로 인한 공급망 차질 및 비용 상승은 간접적으로 물가 상승을 유발하여 여행 비용에 영향을 줄 수 있음. 직접적인 영향은 적으나, 상황 변화에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "War to hobble supply chain as trade costs soar",
+          "url": "https://www.bangkokpost.com/business/general/3209829/war-to-hobble-supply-chain-costs-soar",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "23:33",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "신부, 사라부리에서 40만 바트 지참금으로 신랑에게 프로포즈",
+      "summary": "- 전통적인 역할 반전, 신부가 약혼 행렬을 이끌고 신랑에게 40만 바트의 지참금을 가져옴.\n- 두앙하타이맛 차이웡(Ice)과 지라윳 캄푸(Toy)의 결혼식은 사라부리 Adisorn Camp 내부 클럽에서 열림.\n- Ice는 가족의 지원을 받아 의도적으로 약혼 행렬을 준비했으며, 신세대 커플은 현대에 맞게 전통을 조정할 수 있다고 믿는다고 밝힘.",
+      "full_translated": "사라부리 — 2026년 3월 4일 — 전통적인 역할이 뒤바뀐 결혼식에서 신부가 약혼 행렬을 이끌고 8년 이상 함께한 신랑에게 정식으로 청혼하기 위해 40만 바트의 지참금을 가져왔습니다. 두앙하타이맛 차이웡(Ice)과 지라윳 캄푸(Toy)의 결혼식은 사라부리 지방 Adisorn Camp 내부의 클럽에서 열렸습니다. 양가 가족과 친구들이 즐거운 분위기 속에서 예식에 참석했습니다. \n\n이벤트의 하이라이트는 신부의 손을 잡기 위해 전통적으로 신랑 측 가족이 주최하는 칸 막 행렬이었습니다. 대신 Ice는 스스로 행렬을 준비하여 컨버터블 포드를 타고 신랑의 손을 잡으러 왔습니다. 그녀는 현금 40만 바트와 금 목걸이, 6바트 무게의 금 약혼 반지를 지참금으로 가져왔습니다. Ice는 이 결정이 의도적이었고 가족의 지지를 받았다고 말했습니다. 외동딸로서 그녀의 가족은 행렬을 주최하고 싶어했습니다. 그녀는 또한 젊은 세대의 일원으로서 커플은 새로운 아이디어로 전통을 조정하여 현대에 맞게 할 수 있다고 믿는다고 덧붙였습니다. \n\n두 사람은 8년 이상 함께했습니다. Ice는 매우 행복하다고 느꼈고, Toy는 신부의 아름다움을 칭찬하며 그녀가 자신에게 정식으로 청혼하러 온 것에 깊은 감동을 받았다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 결혼 문화에 대한 흥미로운 정보 제공. 사라부리 지역을 여행하는 관광객에게 소소한 볼거리가 될 수 있음.",
+      "event_info": {
+        "date": "2026-03-04",
+        "location": "Adisorn Camp, 사라부리",
+        "price": "정보 없음",
+        "location_google_map_query": "Adisorn Camp Saraburi"
+      },
+      "references": [
+        {
+          "title": "Bride leads procession, proposes to groom with 400,000 baht dowry in Saraburi",
+          "url": "https://www.khaosodenglish.com/news/2026/03/04/bride-leads-procession-proposes-to-groom-with-400000-baht-dowry-in-saraburi/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news115266_KoJALNxh521772614374.jpg"
+        }
+      ],
+      "collected_at": "23:33",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/news115266_KoJALNxh521772614374.jpg",
       "date": "2026-03-04"
     }
   ]
