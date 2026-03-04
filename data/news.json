@@ -14405,14 +14405,9 @@
       "summary": "- 미국 백악관은 이란 공격의 4가지 목표를 재차 강조하며 정권 교체는 포함되지 않는다고 발표함.\n- 미국은 이란의 미사일 프로그램 파괴, 해군력 약화, 테러 네트워크 분쇄, 핵무기 개발 저지를 목표로 함.\n- 미국은 이란 내 학교 공격 가능성을 부인하지 않으며, 이란과의 장기전을 위한 충분한 무기를 보유하고 있다고 밝힘.",
       "full_translated": "미국 백악관은 이란 공격과 관련하여 4가지 주요 목표를 거듭 강조했습니다. 캐롤라인 리윗 백악관 대변인은 정권 교체가 주요 목표가 아니라고 밝혔습니다. 또한 미국이 이란 내 초등학교를 공격했을 가능성을 배제하지 않았습니다.\n\n리윗 대변인은 미국의 목표는 이란의 탄도 미사일 프로그램 파괴, 이란 해군력 '제거', 이란의 테러 대리 네트워크 분쇄, 핵무기 개발 방해라고 설명했습니다. 정권 교체는 현재 주요 목표가 아닙니다.\n\n도널드 트럼프 대통령의 이란 공격 결정은 정보에 근거한 '좋은 느낌'에서 비롯되었다고 덧붙였습니다. 또한 미국은 이란 남부의 초등학교 공격 가능성을 부인하지 않았지만, 미군이 민간인을 표적으로 삼지 않는다고 강조했습니다.\n\n리윗 대변인은 미국이 이란과의 장기전을 수행할 수 있는 충분한 무기를 보유하고 있다고 언급하며, 미국이 몇 시간 안에 이란 영공을 완전히 장악할 수 있다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 지역 긴장 고조는 여행 심리에 영향을 줄 수 있으나, 태국 여행 자체에 직접적인 위협은 아님. 하지만 상황 주시 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทำเนียบขาว ย้ำ 4 เป้าหมายถล่มอิหร่าน สหรัฐฯ อาจโจมตีโดนโรงเรียน",
@@ -14421,8 +14416,85 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvd0GJUj3oys2.jpg"
         }
       ],
-      "collected_at": "06:22",
+      "collected_at": "6:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvd0GJUj3oys2.jpg",
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2917962",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 분쟁에 따른 연료 가격 상승 및 사재기 현상 발생",
+      "summary": "- 중동 분쟁으로 인한 에너지 공급 차질 우려가 태국 전역으로 확산되며 가격 불안 심리가 고조되고 있습니다.\n- 미국, 이스라엘, 이란 간의 긴장 고조, 특히 호르무즈 해협 봉쇄 가능성이 유류 가용성과 비용에 대한 우려를 증폭시키고 있습니다.\n- 태국은 전략적 비축량을 보유하고 있지만, 지역 지도자들과 기업들은 분쟁이 장기화될 경우 공급망에 부담을 주고 전국적으로 가격이 상승할 수 있다고 경고합니다.",
+      "full_translated": "중동 분쟁이 장기화되면서 글로벌 에너지 공급에 차질이 생길 수 있다는 우려가 태국 전역으로 확산되고 있으며, 가격 불안, 사재기, 물류 압박에 대한 경고가 이어지고 있습니다. 미국, 이스라엘, 이란 간의 긴장, 특히 호르무즈 해협을 통한 혼란의 위험은 석유 가용성과 비용에 대한 우려를 고조시켰습니다. 태국은 전략적 비축량을 유지하고 있지만, 지역 지도자들과 기업들은 분쟁이 장기화될 경우 공급망을 시험하고 전국적으로 가격을 상승시킬 수 있다고 경고합니다. 송클라 상원 의원이자 상원 군사 및 국가 안보 위원회 대변인인 차이용 마네에룽사쿨은 남부 에너지 공급에 미치는 잠재적 영향에 대해 설명했습니다. 그는 태국이 약 60일 분량의 석유 비축량을 보유하고 있지만, 수랏타니와 송클라에 있는 남부 기지는 유통이 단절될 경우 해당 지역을 15일 동안만 유지할 수 있다고 말했습니다. 그는 전쟁이 장기화되면 배급제가 시행될 수 있다고 경고했습니다. 일반적으로 6만 리터를 배달받는 주유소는 할당량이 3만 리터로 절반으로 줄어들 수 있습니다. 판매는 드럼이나 저장 탱크에 대량 구매하는 것을 금지하고 차량에 직접 주유하는 것으로 제한될 수 있습니다. 영업 시간도 오전 6시부터 오후 10시에서 오후 6시 조기 폐쇄로 단축될 수 있습니다. 그는 \"국민들에게는 없을 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 7,
+      "impact_reason": "연료 가격 상승 및 공급 부족 우려는 여행객의 이동 비용 증가 및 불편 초래 가능성이 있어 여행객에게 중요한 정보입니다. 파타야 연료 사재기 기사와 유사하지만, 전국적인 현상에 대한 내용이므로 업데이트로 판단합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Fuel price rises start to bite",
+          "url": "https://www.bangkokpost.com/thailand/general/3210150/fuel-price-rises-start-to-bite",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210150_260305062957_700.jpg"
+        }
+      ],
+      "collected_at": "06:50",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210150_260305062957_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "이란, 미국-이스라엘 공격을 국제법 위반으로 규탄",
+      "summary": "- 이란 대사는 미국과 이스라엘의 공격을 국제법 위반으로 규정하고 강력히 비난함.\n- 이란 최고 지도자를 표적으로 삼은 것은 '겁쟁이 테러 행위'이며 전례 없는 긴장 고조라고 주장함.\n- 민간 시설 공격으로 다수의 사상자가 발생했으며, 특히 한 초등학교 파괴로 165명의 여학생이 사망했다고 밝힘.",
+      "full_translated": "이란의 태국 대사는 미국과 이스라엘의 자국에 대한 공격을 국제법의 심각한 위반으로 규정하며 비난했습니다. 나세레딘 헤이다리 대사는 수요일, 이란 이슬람 공화국의 주권과 영토 보전에 대한 2월 28일 공격을 규탄했습니다. 그는 미국과 이스라엘이 이란 최고 지도자 알리 하메네이를 고의로 표적으로 삼았다고 주장하며, 이를 '겁쟁이 테러 행위'이자 전례 없는 긴장 고조라고 규정했습니다. 그는 이러한 행위가 유엔 헌장 제2조 4항과 주권 평등 및 국가 원수 면책 특권을 포함한 기본 원칙을 위반했다고 주장했습니다. 그는 현직 국가 원수를 표적으로 삼는 것은 국가 간 관계를 규율하는 핵심 규범을 공격하고 국제 시스템을 불안정하게 만들 위험이 있다고 주장했습니다. 그는 또한 미국과 이스라엘 군이 학교, 병원, 적신월 시설을 포함한 민간 시설에 군사 공격을 가해 민간인 사상자가 발생했다고 비난했습니다. 그는 특히 공격 첫날 호르모즈간 주 미납의 한 초등학교가 의도적으로 파괴되었다고 강조했습니다. 그는 수업 시간 중 학교가 공격을 받아 165명의 여학생이 사망했다고 말했습니다. 그는 비상 대응팀이 공격 후 잔해 속에서 시신을 수습하기 위해 몇 시간 동안 작업했으며, 가족들은 실종된 아이들의 소식을 기다리며 현장에 모였다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 긴장 고조는 잠재적으로 여행 심리에 영향을 줄 수 있으며, 특히 관련 국가 방문 계획이 있는 여행객에게 불안감을 유발할 수 있음. 하지만 현재까지 태국 여행에 직접적인 영향은 없어 '보통'으로 평가.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Iran says US-Israeli attack breaches international law",
+          "url": "https://www.bangkokpost.com/thailand/general/3209940/iran-says-usisraeli-attack-breaches-international-law",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/05/5991970_700.jpg"
+        }
+      ],
+      "collected_at": "06:50",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/05/5991970_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국, ITB 베를린 2026에서 지속 가능한 여행을 위한 새로운 관광 비전 발표: 수코타이, 난, 사툰, 뜨랑 주도",
+      "summary": "- 태국이 ITB 베를린 2026에서 새로운 관광 비전을 발표했습니다.\n- 수코타이, 난, 사툰, 뜨랑이 지속 가능한 여행을 주도할 예정입니다.\n- 이 지역들은 태국의 새로운 관광 허브로 부상할 것으로 기대됩니다.",
+      "full_translated": "태국이 ITB 베를린 2026에서 지속 가능한 여행을 위한 대담하고 새로운 관광 비전을 공개했습니다. 수코타이, 난, 사툰, 뜨랑이 지속 가능한 여행을 위한 선두에 섭니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 새로운 관광 비전을 소개하고, 특정 지역을 중심으로 지속 가능한 여행을 강조하는 정보성 기사. 새로운 관광지에 대한 정보를 제공하므로 여행객에게 어느 정도 유용할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "수코타이, 난, 사툰, 뜨랑",
+        "price": null,
+        "location_google_map_query": "수코타이, 난, 사툰, 뜨랑"
+      },
+      "references": [
+        {
+          "title": "Thailand Unveils Bold New Tourism Vision at ITB Berlin 2026: Sukhothai, Nan, Satun, and Trang Lead the Charge for Sustainable Travel - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVk1IRkpUSTV4TmhSeldtbFVrU19uSkdZODhpQXhUTVE2NVhNSmpZbVRaUmJhclpOSU90aXl4Rm1YQkxZWXdsRXl4S3pPNEd4eTdGdF9zSVpQRjV2MENVRkZNMVl3UmRwYUJXWUZjMGNGNExMeENubzBIZ0o5T1pBaEp5d2FWaENPVy1kVnl6Wno2dkM2YzYzU2FsN21FMVloYk1oeFMtSUhrQjdveVdBVl9VNkdZeGE1cEZWZWk3bEgxa1FYanBTUHRkRTZEcVczZm1CbU1nWnpReUh4Sms3N2xyRWhZUEpMNnNLRmRGX1BtNl9jUXpjYWx1N1h6cldCQTJKem9hUGI?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:50",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-05"
     }
   ]
