@@ -14361,14 +14361,9 @@
       "summary": "- 이스라엘 방위군(IDF)은 이란 수도 테헤란에 새로운 공습을 시작했다고 발표하며, 군사 기반 시설을 목표로 하고 있다고 밝혔습니다.\n- 이번 공습은 미국과 이스라엘이 테헤란을 공격한 이후 11번째 공습이며, 이란의 미사일 시스템 관련 자산을 파괴했다고 IDF는 주장했습니다.\n- 이란 정부는 최고 지도자 아야톨라 알리 카메네이의 추모식을 연기한다고 발표했습니다.",
       "full_translated": "이스라엘이 전쟁 시작 이후 이란 수도를 11번째 공습했습니다. 이란은 최고 지도자의 추모식을 무기한 연기한다고 발표했습니다. 2069년 3월 4일, 이스라엘 방위군(IDF)은 이란 수도 테헤란 전역에서 새로운 공습을 시작했다고 발표하며, 군사 기반 시설을 목표로 하고 있다고 밝혔습니다. 그러나 군은 정확한 위치에 대한 추가 정보는 제공하지 않았지만 자세한 내용은 추후에 발표될 것이라고 밝혔습니다. 현지 언론에서는 수도에서 여러 차례 강력한 폭발음이 들렸다고 보도했습니다. 이스라엘의 이번 공격은 미국과 이스라엘이 지난 2월 28일 테헤란을 공격한 이후 11번째 공격입니다. 이번 공격은 IDF가 이란 서부 및 중부 지역에서 '이란 정부의 탄도 미사일 시스템과 관련된 수십 건의 군사 자산'을 파괴했다고 밝힌 수요일 아침 공격에 이은 것입니다. 또한 일부 미사일 발사대는 이란 관리들이 이스라엘을 공격하기 위해 준비하는 동안 공격을 받았다고 밝혔습니다. IDF 대변인 에피 데프린은 수요일 저녁 기자 회견에서 '우리는 막대한 화력으로 이 정부를 공격하고 있으며, 단 1분도 쉬지 않을 것입니다. 우리는 가장 중요하고 취약한 목표물을 공격하고 있으며, 그들의 안정을 지속적으로 파괴하고 있습니다.'라고 말했습니다. 한편, 이란 정부는 원래 수요일부터 3일간 예정되었던 아야톨라 알리 카메네이 최고 지도자의 추모식을 연기한다고 발표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장 고조는 여행 안전에 잠재적 위협이 될 수 있으므로 정보 제공. 기존 뉴스에 비해 공습 횟수, 추모식 연기 등 업데이트된 정보 포함.",
-      "event_info": {
-        "date": null,
-        "location": "테헤란",
-        "price": null,
-        "location_google_map_query": "테헤란"
-      },
+      "event_info": "{'date': None, 'location': '테헤란', 'price': None, 'location_google_map_query': '테헤란'}",
       "references": [
         {
           "title": "อิหร่านเลื่อนจัดพิธีไว้อาลัยอดีตผู้นำสูงสุด อิสราเอลเริ่มโจมตีระลอก 11",
@@ -14377,23 +14372,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqveJMXh90g1bx.jpg"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqveJMXh90g1bx.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2917961",
+      "source": ""
     },
     {
       "title": "태국, 중동 영공 폐쇄로 발이 묶인 여행객 지원 대책 발표",
       "summary": "- 태국 정부는 중동 지역 영공 폐쇄로 인해 발이 묶인 여행객들을 위한 지원 대책을 발표했습니다.\n- 자세한 지원 내용은 아직 발표되지 않았으나, 숙박, 교통, 비자 연장 등에 대한 지원이 예상됩니다.\n- 여행객들은 관련 정보를 지속적으로 확인하고, 필요한 경우 주태국 한국 대사관 또는 영사관에 문의하는 것이 좋습니다.",
       "full_translated": "태국 정부는 중동 영공 폐쇄로 인해 발이 묶인 여행객들을 위한 지원 대책을 발표했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 결항 및 지연으로 여행객 불편 발생, 정부 지원책 발표는 여행객에게 실질적인 도움이 될 수 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand introduces support measures for stranded tourists after Middle East airspace closures - Travel Daily News Asia-Pacific",
@@ -14402,9 +14394,11 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZXAzU0ttdDlPX2ptYlA3Q3pTVFpPbzBKaDJrN1lUVlJOR29TQ0x3SXpyZndsQ2N0ZmF1NzhvNmhzM3M2R0I3RDBOR2w2cEZUc0MxYlNXZGo4aVRGVzF0aDZoTzlNalBYeFA1dVdJU0dvVzl1MUJLX2lRRkdQNGtGN0d5ZnVZNExSYkV6czZvd1JZREwxcmc?oc=5",
+      "source": ""
     }
   ]
 }
