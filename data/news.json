@@ -14229,14 +14229,9 @@
       "summary": "- 태국 정부는 발이 묶인 외국인 관광객을 위한 재정 지원을 계획 중입니다.\n- 구체적인 지원 내용 및 시기는 아직 발표되지 않았습니다.\n- 자세한 내용은 Scandasia에서 확인할 수 있습니다.",
       "full_translated": "태국은 발이 묶인 외국인 관광객에 대한 재정 지원을 계획하고 있습니다. Scandasia",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객에게 직접적인 영향을 주는 재정 지원 계획 발표. 특히 현재 발이 묶인 여행객들에게는 중요한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand plans financial support for stranded foreign tourists - Scandasia",
@@ -14245,23 +14240,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0VZZFZFSjdycWhKSEZPZU5LeFp5MnpJSENIMEQ0WlN5Y0RDN0tRNmd5cEFYM1ZDNHNodWctU2JDb1NoajdFZmwwVlZIZnJxMWVfYkkxVDFkVThVMEljZVVVSHJjUThLcnpxeDdiQVBKNGtSNVJfbkNiZ3QxQXpZM1hDaS04Vm5pWnRUVlRn?oc=5",
+      "source": ""
     },
     {
       "title": "TAT, 'Amazing Thailand' 앱 AI 기반 업그레이드 위해 Mastercard와 협력 - marketech apac",
       "summary": "- 태국 관광청(TAT)이 'Amazing Thailand' 앱의 AI 기반 업그레이드를 위해 Mastercard와 협력합니다.\n- 이번 협력으로 앱의 기능이 향상되어 여행자들에게 더욱 편리하고 개인화된 경험을 제공할 것으로 기대됩니다.\n- 자세한 내용은 marketech apac에서 확인할 수 있습니다.",
       "full_translated": "태국 관광청(TAT)이 'Amazing Thailand' 앱의 AI 기반 업그레이드를 위해 Mastercard와 협력합니다. 이 파트너십은 여행자들에게 더욱 향상된 경험을 제공하는 데 초점을 맞추고 있습니다. marketech apac에서 자세한 내용을 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 편의성 향상에 기여할 수 있는 앱 업데이트 정보. 필수적인 정보는 아니지만, 여행 관련 유용한 정보에 해당.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "TAT partners with Mastercard on AI-powered upgrade of ‘Amazing Thailand’ app - marketech apac",
@@ -14270,23 +14262,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNemQ4VGk5czc1M2d1MHh1UFpBcWpGMklFd01VbkFCSjNIbnJROE1TVjZEXzNCN2JRcFNFNmxNaUp4Q0ZGbElVc1N5eVRITUs5ZGVlMHp2YWtSMEpWT19ydnQtaHh2S21nWTE1ekNLWkNjVUlJb2pYWEgzUXRwam1McnVJSU05MUo1dlQ3VWx3d2pzWXl6Q2g4b1NZa1NvOW1qeU1EOA?oc=5",
+      "source": ""
     },
     {
       "title": "푸꿕, 태국 관광의 실수 방지: 관광 위험 요소 봉쇄",
       "summary": "- 푸꿕이 태국 관광의 실수를 피하기 위해 관광 위험 요소들을 봉쇄하고 있다.\n- 이 결정은 관광객 안전과 만족도를 높이기 위한 노력의 일환이다.\n- 구체적인 봉쇄 대상 위험 요소에 대한 추가 정보는 기사에서 확인할 수 있다.",
       "full_translated": "태국 관광의 실수를 피하기 위해 푸꿕이 관광 위험 요소들을 봉쇄하고 있다는 내용의 기사입니다. 자세한 내용은 Theinvestor.vn에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행에 직접적인 영향은 적지만, 관광 정책 관련 간접 정보 제공 및 참고 가능.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Avoiding Thailand’s tourism missteps: Phu Quoc locks down tourism risks at the frontline - Theinvestor.vn",
@@ -14295,23 +14284,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYW9kMV85b0hXeDRDczRLVWQ2TE9WNEluU1lxN0xRMVpDWm5iWDQ3M1ZHSXBGMjNvdHQxak9SSl9HTHhPSUN6QWpQdUVSbnBWakVQcV94ZkZRN3pjNWdZOFZKUnJFRWxtXzEtdUxBVnhxTFRkdXMwZ0RVZ3liZ3h4OHZ0bWhITEl5WmQteWJHdmUwR0ZReW9YY2l5UGZ4cTBJWnhka1pZcHpWZTdfQ1FXRW9DWnNmZVlsdHNIcWx3?oc=5",
+      "source": ""
     },
     {
       "title": "스페인, 미국의 이란 공격 군사 협력 요청 거부",
       "summary": "- 백악관은 스페인이 미국의 이란 공격에 군사적으로 협력하기로 했다고 주장했으나 스페인 외무장관이 즉각 부인함.\n- 스페인 총리는 미국의 압력에도 불구하고 이란과의 전쟁에 참여하지 않겠다는 입장을 고수.\n- 스페인은 미국의 요구에 굴복하지 않고 자국의 가치와 이익을 따르겠다는 입장.",
       "full_translated": "백악관은 스페인이 미국의 이란 공격에 군사적으로 협력하기로 했다고 주장했습니다. 그러나 스페인 외무장관은 즉각 이를 부인하며 스페인의 입장은 변함이 없다고 강조했습니다. 캐롤라인 리윗 백악관 대변인은 도널드 트럼프 대통령이 스페인을 강력하게 비난하고 무역 제재를 가하겠다고 위협한 후, 스페인이 이란에 대한 미국의 군사 작전에 협력하기로 합의했다고 밝혔습니다. 리윗 대변인은 “스페인은 어제 대통령으로부터 분명한 메시지를 받았다고 생각하며, 제가 알기로는 최근 몇 시간 동안 미국 군대와 협력하기로 합의했습니다.”라고 말했습니다. 그러나 호세 마누엘 알바레스 스페인 외무장관은 현지 라디오 방송과의 인터뷰에서 리윗의 발언을 부인하며 “우리의 입장은 변함이 없습니다.”라고 밝혔습니다. 페드로 산체스 스페인 총리는 트럼프 대통령을 가장 공개적으로 비판하고 제재 위협에도 불구하고 스페인을 이란 전쟁에 끌어들이는 것을 거부한 유럽 지도자가 되었습니다. 산체스 총리는 수요일에 “우리는 단지 누군가의 보복을 피하기 위해 세계에 해를 끼치거나 우리의 가치와 이익에 반하는 일에 관여하지 않을 것입니다.”라고 확인했습니다. 그러나 리윗은 수요일에도 미군이 “스페인 군대와 협력하고 있다”고 주장하며 트럼프는 “유럽 전체, 즉 우리의 모든 유럽 동맹국들이 협력할 것을 기대한다”고 말하며 이란 정권이 유럽 국가들에게도 위협이 된다고 지적했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "중동 긴장 고조 가능성, 여행 안전에 간접적 영향. 직접적인 위협은 아니므로 낮은 점수.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทำเนียบขาวอ้าง สเปนยอมร่วมมือกับสหรัฐฯ แล้ว แต่โดนปฏิเสธทันควัน",
@@ -14320,8 +14306,60 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqveBILugIUDXt.jpg"
         }
       ],
-      "collected_at": "03:55",
+      "collected_at": "3:55",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqveBILugIUDXt.jpg",
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2917960",
+      "source": ""
+    },
+    {
+      "title": "태국, 발 묶인 여행객에게 비자 면제 제공",
+      "summary": "- 태국이 발이 묶인 여행객에게 비자 면제를 제공합니다.\n- TravelMole에서 보도했습니다.\n- 자세한 내용은 TravelMole에서 확인하세요.",
+      "full_translated": "태국이 발이 묶인 여행객에게 비자 면제를 제공합니다. TravelMole",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 관련 규정 변경은 여행객에게 중요한 정보이므로 높은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand offers visa waivers for stranded tourists - TravelMole",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnVGN0tLall6ZmhETFRQUWVkTndvWGY4QS1Hc1NOcVMxQmEzNFZQeXlVUElpNVhOTHV1eXJ3ckQyQkc5TUlZZkxiN2RpYWx5ajZBb1NOVWJrRnNJWEN4VzNaYmdjbmFlbGZ0N2lpQjNnZlZRY2FIazg3QjlYaW1HSEIzU3BZSWZNN0NB?oc=5",
+          "source": "TravelMole",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국 관광, 국제 분쟁으로 타격: 영국 국적자 대상 지연 및 취소 예상",
+      "summary": "- 태국 관광 산업이 국제 분쟁으로 인해 영향을 받고 있습니다.\n- 특히 영국 국적 여행객들에게 항공편 지연 및 취소 가능성이 제기됩니다.\n- 여행 전 항공편 및 숙박 시설에 대한 최신 정보를 확인하는 것이 좋습니다.",
+      "full_translated": "태국 관광, 국제 분쟁으로 타격: 영국 국적자 대상 지연 및 취소 예상 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "국제 분쟁으로 인한 여행 차질 가능성. 여행객들에게 직접적인 영향을 줄 수 있으므로 중간 수준의 중요도를 가짐.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourist Travel Hit by Global Conflict: Delays and Cancellations Expected for British Nationals - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQU0VseThHNFZfNDVfdVc4V0wtMTNCMEdmRXpnVzFqTk41M1VxUzFMdnNsWHBMU1k4QWR5dC00WnFYbHFYV2lLLUE0Z0h1ZExLSlFuYzVQUTVEWWJNTGNxd1VFMWk0Z0M1YVdLQ1hiV3RnaGZYQmk1ejFuM2FsSFBNSndmMmJVbTZJRHR1Y0ltS3JWUjN0SnNLdnZjMGo2MTFkSXRKc1EtOGNSeklIOWMyS2Z3SXFhUDBBbThTOC1pR2VrMXRfLVJaTElMNlBpWU9uYk1YRDBsb3VTUW45OUNuM09Yc2NrTnc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:26",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-05"
     }
   ]
