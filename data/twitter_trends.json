@@ -1,6 +1,6 @@
 {
   "topic": "Circuit Breaker",
-  "reason": "주식 시장의 서킷 브레이커 발동 가능성, 시장 변동성 주의",
+  "reason": "서킷 브레이커 발동, 주식 시장 변동성 주의",
   "severity": "info",
-  "collected_at": "2026-03-04 14:59:30"
+  "collected_at": "2026-03-04 16:09:17"
 }
