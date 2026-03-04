@@ -12020,31 +12020,24 @@
       "summary": "- 중동 영공 폐쇄로 발이 묶인 외국인 관광객에 대한 태국 정부의 지원이 계속됩니다.\n- 1일 2,000바트의 지원금이 제공됩니다.\n- 자세한 지원 조건 및 절차는 관련 부처 문의가 필요합니다.",
       "full_translated": "중동 지역의 불안정한 상황으로 인해 항공편이 취소되거나 지연되면서 태국에 발이 묶인 외국인 관광객들을 위한 지원이 계속됩니다. 태국 정부는 이들에게 1일 2,000바트의 지원금을 제공할 계획입니다. \n\n**참고:** 자세한 지원 조건과 절차는 관련 부처의 발표를 확인하시거나, 현지 관광 안내소에 문의하시는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 취소/지연으로 태국에 발이 묶인 여행객에게 실질적인 영향을 미치는 정보이며, 지원 정책 업데이트를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": "1일 2,000 바트",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': '1일 2,000 바트', 'location_google_map_query': '태국'}",
       "references": [],
-      "collected_at": "06:47",
-      "date": "2026-03-04"
+      "collected_at": "6:47",
+      "image_url": "",
+      "date": "2026-03-04",
+      "link": "",
+      "source": ""
     },
     {
       "title": "람푼 지역, 산불 확산으로 소방 당국 총력 대응",
       "summary": "- 람푼 지역에서 산불이 확산되어 소방 당국이 진화 작업에 총력을 기울이고 있습니다.\n- 험준한 지형으로 인해 진화 작업에 어려움을 겪고 있으며, 헬기까지 동원되었습니다.\n- 람푼을 포함한 15개 지역에서 PM2.5 농도가 안전 기준치를 초과하여 건강에 대한 우려가 제기되고 있습니다.",
       "full_translated": "람푼: 당국은 산불이 가파른 산악 지형으로 확산된 후 파 상 지역에서 소방 활동을 강화했습니다. 제3지역 산림 화재 및 연무 통제 센터는 재해 예방 및 완화 부서에서 KA-32 헬리콥터를 파견하여 화재 진압 활동을 지원했습니다. 관계자들은 일요일 이후 마콕 탐본 국립 산림 보호 구역에서 36개의 핫스팟이 발견되었다고 보고했습니다. 지역 소방대와 자원 봉사 네트워크가 화재 진압을 시도했지만 험준한 지형으로 인해 화재 전선에 접근하기 어려웠습니다. 마콕 시립 경기장에 임시 헬기 이착륙장이 마련되었으며, 항공 소방을 돕기 위해 후아이 퐁 저수지에 물 보충 지점이 설치되었습니다. 화요일 현재 위성 데이터는 17개 북부 지방에서 1,092개의 핫스팟을 기록했습니다. 람팡은 307개로 가장 많았고, 프래는 173개, 람푼은 150개였습니다. 대부분의 화재는 국립 산림 보호 구역 (623개 핫스팟)과 보존 산림 (398개)에서 발생했습니다. 미세 먼지 (PM2.5)는 15개 지방에서 안전 제한을 초과했으며, 람푼의 반 클랑 탐본은 65.2 µg/m³, 람팡의 프라 밧 탐본은 61.2 µg/m³, 난의 나이 위앙 탐본은 60.7 µg/m³를 기록하여 건강 위험을 초래했습니다. 한편 태국 기상청은 지난밤 중국에서 온 냉기 덩어리가 덥고 습한 조건과 충돌하여 북동부 지역에 여름 폭풍이 몰아칠 것이라고 경고했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "산불로 인한 대기 질 악화는 여행객의 건강에 직접적인 영향을 미칠 수 있으며, 특히 고령자나 호흡기 질환자는 주의가 필요합니다. 람푼 지역 여행 계획이 있다면 관련 정보를 확인해야 합니다.",
-      "event_info": {
-        "date": null,
-        "location": "람푼",
-        "price": null,
-        "location_google_map_query": "람푼"
-      },
+      "event_info": "{'date': None, 'location': '람푼', 'price': None, 'location_google_map_query': '람푼'}",
       "references": [
         {
           "title": "Province rushes to contain wildfires",
@@ -12053,40 +12046,35 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/thailand/general/3209204/province-rushes-to-contain-wildfires",
+      "source": ""
     },
     {
       "title": "연료 사재기, 매사이 지역 중동 분쟁 관련 수출 중단 우려",
       "summary": "- 태국 매사이 지역에서 중동 분쟁으로 인한 수출 중단 우려로 연료 사재기 발생.\n- 여행객들은 연료 부족 가능성에 대비해야 합니다.\n- 특히 국경 지역 여행 시 주의가 필요합니다.",
       "full_translated": "태국 매사이 지역에서 중동 분쟁으로 인해 수출이 중단될 수 있다는 우려가 확산되면서 연료 사재기 현상이 나타나고 있습니다. 이는 해당 지역을 여행하는 여행객들에게 불편을 초래할 수 있습니다. \n\n**참고:** 매사이 지역을 방문할 계획이 있는 여행객들은 연료 부족 가능성에 대비하고, 특히 국경 지역 여행 시에는 주의를 기울이는 것이 좋습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "연료 부족은 여행에 직접적인 영향을 줄 수 있으며, 특히 국경 지역 여행자에게 중요합니다.",
-      "event_info": {
-        "date": null,
-        "location": "매사이",
-        "price": null,
-        "location_google_map_query": "매사이"
-      },
+      "event_info": "{'date': None, 'location': '매사이', 'price': None, 'location_google_map_query': '매사이'}",
       "references": [],
-      "collected_at": "06:47",
-      "date": "2026-03-04"
+      "collected_at": "6:47",
+      "image_url": "",
+      "date": "2026-03-04",
+      "link": "",
+      "source": ""
     },
     {
       "title": "태국 전통 마사지 산업, 전면 개편 준비",
       "summary": "- 태국 전통 및 대체 의학부(DTAM)는 태국 전통 마사지 산업의 전면적인 업그레이드를 추진 중.\n- 이미지, 평판, 전문성 기준, 인력 부족 문제 해결 목표.\n- 연간 약 2,000억 바트 규모의 산업이지만 규제 미비 및 서비스 품질 불균형이 과제.",
       "full_translated": "태국 전통 및 대체 의학부(DTAM)는 태국 전통 마사지 산업에 대한 포괄적인 업그레이드를 진행하고 있다고 밝혔습니다. 이번 업그레이드는 이미지와 평판은 물론 전문적인 기준과 인력 부족 문제까지 다룰 예정입니다.\n\n솜삭 크리차이 DTAM 부국장은 태국의 마사지 및 웰니스 산업이 연간 약 2,000억 바트의 가치를 지니고 있지만, 규제 미비와 서비스 품질 불균형이 주요 과제라고 말했습니다. Covid-19 팬데믹 이후 30,000~50,000명의 마사지 및 스파 종사자들이 업계를 떠났으며, 치료 전문가 부문은 약 20,000명의 전문가 부족에 직면해 있습니다. 이러한 부족 현상은 주요 관광지에서 특히 심각합니다.\n\n이를 해결하기 위해 DTAM은 하이브리드 교육 프로그램을 도입했습니다. 연수생들은 온라인으로 이론 과정을 이수한 후 전국 공공 병원에서 실무 교육을 받아 표준화된 역량을 확보하게 됩니다. 이 프로그램은 또한 졸업생들을 지역 비즈니스와 직접 연결하여 자격증 취득 직후 취업을 돕습니다. 솜삭 부국장에 따르면 DTAM은 서비스 제공자를 최소 150시간의 교육을 이수한 건강 증진 실무자, 전문 실무자, 4년 이상의 면허를 가진 전문가의 세 단계로 분류했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행객들이 많이 이용하는 마사지 산업의 변화에 대한 정보. 서비스 품질 및 인력 관련 변화는 여행 경험에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai massage industry set for overhaul",
@@ -12095,23 +12083,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209259_260304061910_700.jpg"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209259_260304061910_700.jpg",
-      "date": "2026-03-04"
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/thailand/general/3209259/thai-massage-industry-set-for-overhaul",
+      "source": ""
     },
     {
       "title": "캄보디아, 코브라 골드 훈련 불참: 태국과의 불안정한 관계 시사",
       "summary": "- 캄보디아가 올해 코브라 골드 군사 훈련에 불참, 태국-캄보디아 간 지속적인 불신을 보여줌.\n- 코브라 골드는 아시아 본토에서 가장 크고 오래된 다국적 군사 훈련으로, 태국에서 1982년부터 매년 개최됨.\n- 올해 훈련은 2월 24일부터 금요일까지 진행되며, 현대전 도전과 기술 발전, 재난 구호 및 인도적 지원에 중점을 둠.",
       "full_translated": "캄보디아의 코브라 골드 불참은 불안정한 신뢰를 강조합니다\n관측통들은 코브라 골드에 불참한 이유로 해결되지 않은 국경 분쟁을 지적합니다.\n게시일: 2026년 3월 4일 04:54\n작성자: Poramet Tangsathaporn\n캄보디아가 올해 코브라 골드 군사 훈련에 불참한 것은 태국과 캄보디아 사이에 지속적인 신뢰 부족을 나타낸다고 분석가들은 말합니다. 코브라 골드는 아시아 본토에서 가장 크고 가장 오래 지속된 다국적 군사 훈련으로 1982년부터 매년 태국에서 개최되었습니다. 올해 훈련은 2월 24일부터 금요일까지 로열 타이군과 미국 인도-태평양 사령부가 공동 주최하며 현대전 도전과 기술 발전, 재난 구호 및 인도적 지원 분야에서 다국적 협력 강화에 중점을 둡니다. 연례 훈련은 현장 훈련 행사, 인도적 지원 활동 및 재난 대응 시나리오를 통합하여 운영상의 친숙성을 높이고 지역 파트너십을 강화합니다. 태국, 미국, 인도네시아, 일본, 싱가포르, 말레이시아, 한국 군대가 올해 45번째 코브라 골드의 핵심 참가국입니다. 중국, 인도, 호주가 일부 활동에 참여할 예정입니다. 방글라데시, 캐나다, 피지, 프랑스, 영국, 이탈리아, 몽골, 네팔, 뉴질랜드, 필리핀 등 10개국이 다국적 계획 증강팀에 로테이션 방식으로 참여하여 작전 계획 및 조정을 지원합니다. 브루나이, 독일, 요르단, 라오스, 네덜란드, 파키스탄, 사우디 아라비아, 스웨덴 등 10개국이 추가로 참여합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국과 캄보디아 관계에 대한 뉴스이지만, 현재 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 외교적 긴장이 고조될 경우 잠재적 위험이 있을 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Cambodia absence highlights fragile trust",
@@ -12120,8 +12105,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990734_700.jpg"
         }
       ],
-      "collected_at": "06:47",
+      "collected_at": "6:47",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990734_700.jpg",
+      "date": "2026-03-04",
+      "link": "https://www.bangkokpost.com/thailand/special-reports/3209404/cambodia-absence-highlights-fragile-trust",
+      "source": ""
+    },
+    {
+      "title": "태국 라차부리 슈가 그룹, 호텔 투자 다각화: 사무이와 콘캔에 15억 바트 투자",
+      "summary": "- 라차부리 슈가 그룹 2세 경영진, 호텔 투자로 사업 확장.\n- 사무이 임피아나 리조트 차웽 노이에 수억 바트 투자 후 인수, 유럽 호텔 체인과 협상 중.\n- 콘캔 풀만 호텔 인수 및 리모델링 계획. 사무이 호텔은 현재 평균 객실 점유율 90% 기록.",
+      "full_translated": "라차부리 슈가 그룹이 15억 바트를 투자하여 호텔 사업으로 확장합니다.\n\n라차부리 슈가 그룹 2세 경영진은 사무이의 임피아나 리조트 차웽 노이와 콘캔의 풀만 호텔을 인수 및 리모델링하는 데 15억 바트 이상을 투자하며 호텔 투자로 사업을 다각화했습니다.\n\n주타팁 아루나논차이 이사는 그룹이 수억 바트를 투자하여 작년 12월 임피아나 리조트 차웽 노이를 인수했다고 밝혔습니다. 그녀는 \"섬이 유럽 여행객들에게 인기가 많기 때문에 96개 객실을 갖춘 사무이 호텔을 관리할 유럽 국제 호텔 체인을 선정하고 있습니다.\"라고 말했습니다. \"또한 4성급에서 5성급으로 리모델링 및 업그레이드할 것입니다.\"\n\n동부 해안의 인기 있는 차웽 해변을 따라 위치한 임피아나 리조트 차웽 노이는 현재 말레이시아에 본사를 둔 마그마 그룹의 호텔 관리 부문인 임피아나 호텔 & 리조트 관리에 의해 관리되고 있으며, 이 그룹은 라차부리 슈가 그룹에 해당 부동산을 매각했습니다. 마그마 그룹은 태국에 있는 다른 두 호텔(푸껫의 임피아나 리조트 파통과 임피아나 프라이빗 빌라 카타 노이)도 소유 및 관리하고 있습니다.\n\n12월 이후 사무이 호텔은 평균 객실 점유율 90%를 기록했으며, 객실 요금은 1박당 3,000바트부터 시작합니다. 새로운 호텔 체인이 관리를 맡은 후 요금은 1박당 5,000~6,000바트로 인상될 것으로 예상된다고 주타팁 씨는 말했습니다. 사무이 호텔은 라차부리 슈가 그룹이 팬데믹 이후 인수한 두 번째 호텔입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "호텔 투자 정보는 여행객에게 숙박 옵션에 대한 정보를 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": "Impiana Resort Chaweng Noi, Pullman Khon Kaen",
+        "price": "3000-6000 바트 (사무이 호텔)",
+        "location_google_map_query": "Impiana Resort Chaweng Noi, Pullman Khon Kaen"
+      },
+      "references": [
+        {
+          "title": "Sugar tycoons branch into hotel investments",
+          "url": "https://www.bangkokpost.com/business/general/3209419/sugar-tycoons-branch-into-hotel-investments",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209419_260304074240_700.jpg"
+        }
+      ],
+      "collected_at": "08:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209419_260304074240_700.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "방람뭉 사원, 두 동자승을 위한 서품식 개최",
+      "summary": "- 방람뭉 왓 카오 분미 다라람에서 가족들이 주관한 서품식 거행.\n- 친척, 친구, 지역 인사들이 모여 축하와 공덕을 쌓음.\n- 촌부리 부지사, 방람뭉 지역장, 파타야 경찰서장 등 주요 인사 참석.",
+      "full_translated": "방람뭉 – 촌부리 방람뭉에 있는 왓 카오 분미 다라람에서 차야논과 테라퐁이라는 두 동자승을 위한 서품식이 열렸습니다. 이 행사에는 암폰 깨우생(고모), 수라폴 깨우생(차야논의 아버지), 오라타이 프롬위앙(테라퐁의 어머니), 타 깨우생(할아버지), 프라소엣 프롬위앙(할아버지), 푸앙 깨우생(할머니), 핏사마이 프롬위앙(할머니) 등 주요 가족 구성원이 주도했습니다. 친척, 친한 친구, 축복을 빌어주는 사람들이 많이 모여 축하하고 공덕을 쌓으면서 사원 경내는 자부심과 경건함으로 가득 찼습니다. 촌부리 부지사 퐁타싯 피자난, 방람뭉 지역장 아누삭 피리요몬, 파타야 경찰서장 아낙 사통유, 농프르에 경찰서장 낫타폰 퐁숙사쿤, 므앙 파타야 경찰서 부서장(범죄 진압) 시리와트 카차맛 경감, 방람뭉 부지역장 나타폰 진다, 파타야 시의회 의원 우티톤 생우라이, 촌부리 지방 행정 기구 위원회 위원 및 파타야 시의회 위원인 시티차이 아차야송, 기타 정부 관계자, 지역 정치인, 사업주, 지역 주민, 친척 및 친구들이 참석했습니다. 전통적인 태국 불교 관습에 따라 동자승들은 서품전(우보솟)에 들어가기 전에 서품전을 시계 방향으로 세 바퀴 도는 환행 의식에 참여했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 문화와 관련된 행사 정보이며, 여행객에게 흥미로운 볼거리를 제공할 수 있음. 하지만 직접적인 여행 관련 정보는 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "Wat Khao Boonmee Dararam, Banglamung",
+        "price": null,
+        "location_google_map_query": "Wat Khao Boonmee Dararam, Banglamung"
+      },
+      "references": [
+        {
+          "title": "Family Hosts Ordination Ceremony for Two Novices at Wat Khao Boonmee Dararam in Banglamung",
+          "url": "https://thepattayanews.com/2026/03/03/family-hosts-ordination-ceremony-for-two-novices-at-wat-khao-boonmee-dararam-in-banglamung/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17725384569526868750614457206007.jpg?v=1772538531"
+        }
+      ],
+      "collected_at": "08:14",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17725384569526868750614457206007.jpg?v=1772538531",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 디지털 데이터 주권 확보 노력",
+      "summary": "- 태국 디지털 위원회(DCT), 디지털 데이터 주권 개발 촉구\n- 국가 안보를 위해 태국 관할 하에 데이터 보관 필요\n- AI 및 소프트웨어의 현지 개발 우선순위 강조",
+      "full_translated": "태국 디지털 위원회(DCT)에 따르면 태국은 태국 관할 하에 디지털 데이터 주권을 시급히 개발하고, 더 많은 현지 개발 인공지능(AI)과 소프트웨어 사용을 우선시해야 합니다. 국가는 또한 국내에서 지속 가능하고 자립적인 기술 시스템을 구축하기 위해 태국 중심의 AI 모델을 개발해야 합니다.\n\nDCT 회원인 태국 인터넷 및 클라우드 서비스 제공업체 협회 회장인 Morragot Kulatumyotin은 중요한 국가 데이터는 태국에 저장될 뿐만 아니라 태국 관할권과 법적 권한을 받아야 한다고 말했습니다. 그녀는 클라우드 컴퓨팅이 이제 디지털 권력을 대표한다고 말했습니다. 이러한 변화로 인해 디지털 데이터 주권을 확보하고 외국 통제로부터 독립성을 유지하는 것이 태국의 국가 안보에 절대적으로 중요하다고 Morragot 여사는 말했습니다.\n\n현지 데이터 센터 시장은 약 50%의 시장 점유율을 가진 두 개의 외국 기업이 지배하고 있으며, 태국 공급업체는 11%에 불과합니다. 중요한 데이터가 보관되어야 하는 위치를 지시하는 표준과 정책이 있지만 물리적 위치에만 의존하는 것은 결함이 있는 전략이라고 그녀는 말했습니다. 외국 공급업체가 태국 국경 내에 데이터 센터를 물리적으로 구축하고 운영하도록 요구하는 것만으로는 데이터를 완전히 보호할 수 없습니다. \"외국 소유의 민간 기업은 궁극적으로 국가 권력의 대상이 됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "데이터 주권 관련 뉴스는 여행객에게 직접적인 영향은 적으나, 장기적으로 디지털 서비스 이용 환경에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Council seeks to keep Thai digital data safe",
+          "url": "https://www.bangkokpost.com/business/general/3209479/council-seeks-to-keep-thai-digital-data-safe",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990844_700.jpeg"
+        }
+      ],
+      "collected_at": "08:14",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990844_700.jpeg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "태국 자산 관리사, 중동 긴장 속 금과 유 investment 투자 권고",
+      "summary": "- 지정학적 긴장 고조로 금과 유가가 단기적으로 상승할 가능성 높음.\n- 군사적 충돌이 에너지 기반 시설을 목표로 하는지, 이란이 호르무즈 해협을 봉쇄할 수 있는지, 중국과 러시아의 개입 여부가 중요 변수.\n- UOBAM은 분쟁 장기화 시 유가 급등 및 인플레이션 압력 증가, 단기적 분쟁 해결 시 주식 시장 변동성 완화 전망.",
+      "full_translated": "태국 주요 자산 관리사들은 중동 지역의 지정학적 긴장이 고조됨에 따라 투자자들에게 금과 유 investment 투자를 늘릴 것을 권고하고 있으며, 태국 증권 규제 당국은 시장 변동성이 커짐에 따라 시장 안정성을 모니터링하고 있다고 밝혔습니다. UOB Asset Management (Thailand) (UOBAM)은 금과 원유 가격이 단기적으로 지지될 가능성이 높다고 보고 있지만, 이익의 지속 가능성은 군사적 공격이 에너지 기반 시설을 목표로 하는지, 이란이 호르무즈 해협을 봉쇄할 수 있는지, 중국과 러시아가 개입을 확대하는지 등 세 가지 중요한 요인에 달려 있습니다. UOBAM은 현재 분쟁이 이란의 정권 교체와 관련된 명백한 정치적 목표로 인해 이전의 격렬한 분쟁과는 다르다고 지적했습니다. 이러한 상황 전개는 적대 행위를 장기화시키고 글로벌 경제에 미치는 영향을 증폭시킬 수 있습니다. 시나리오 UOBAM은 중동 분쟁에서 세 가지 잠재적 단계를 제시했습니다. 더 넓은 지역으로 확산되지 않고 빠른 해결(60% 확률)이 이루어지면 브렌트유는 배럴당 75~80달러에 거래될 것입니다. 인플레이션 압력은 억제될 것이고, 주식 시장은 단기적인 변동성만 경험할 수 있습니다. 이 시나리오에서 투자자들은 시장 약세 시 금과 유지를 헤지 수단으로 보유하고 주식을 선별적으로 축적하는 것이 좋습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "투자 관련 정보로 여행객에게 직접적인 영향은 적으나, 경제 상황 변화에 대한 간접적인 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Investors urged to buy gold and oil",
+          "url": "https://www.bangkokpost.com/business/investment/3209274/investors-urged-to-buy-gold-and-oil",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209274_260304062835_700.jpg"
+        }
+      ],
+      "collected_at": "08:14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260304/c1_3209274_260304062835_700.jpg",
+      "date": "2026-03-04"
+    },
+    {
+      "title": "중동 불안 고조 속 태국 투자자, 안전 자산인 금에 몰려",
+      "summary": "- 중동 분쟁 심화와 금융 시장 불안정으로 태국 투자자들이 소형 실물 금을 사들이고 있습니다.\n- 금 가격은 금요일 이후 100달러 이상 급등하여 현재 5,380~5,400달러에 거래되고 있습니다.\n- 지정학적 긴장과 거시 경제에 대한 우려가 복합적으로 작용하며, 바트화 약세 또한 국내 금 가격 상승을 부추기고 있습니다.",
+      "full_translated": "중동 전쟁이 격화되고 금융 시장이 격렬하게 변동함에 따라 태국 투자자, 특히 고령 구매자들이 소형 실물 금을 사들이고 있으며, 랠리가 끝나지 않았다고 베팅하고 있습니다. YLG Bullion and Futures의 최고 경영자인 Tipa Nawawattanasub은 금 가격이 금요일 이후 100달러 이상 급등하여 현재 5,380~5,400달러 범위에서 거래되고 있으며, 이는 이란에서 장기화될 위험이 있는 갈등이 고조되었기 때문이라고 말했습니다. 그녀는 Bangkok Post에 '지정학적 상황은 여전히 ​​취약합니다. 이는 단기적인 충격이 아닙니다.'라고 말하면서 최근의 급등은 군사적 긴장과 심화되는 거시 경제적 우려를 모두 반영한다고 언급했습니다. 랠리에 더하여 바트화는 달러당 31에서 31.40으로 약화되어 국내 금 가격 상승폭을 글로벌 시장 움직임 이상으로 증폭시켰습니다. Tipa는 통화 약세로 인해 태국 금이 헤지 수단으로 더욱 매력적이라고 ​​말했습니다. 그녀는 또한 증가하는 글로벌 공공 부채, 높은 정책 불확실성, 특히 인공 지능 및 기술 주식에서 미국 주식 시장의 거품에 대한 두려움을 금의 장기적인 상승 추세를 뒷받침하는 구조적 힘으로 지적했습니다. YLG는 5,450달러를 첫 번째 주요 저항선으로 보고 있습니다. 돌파구가 나오면 가격이 5,600달러 근처의 이전 고점을 다시 테스트할 수 있습니다. 그 이상으로 장기 목표는 5,800달러와 6,100달러입니다. 2~3년 동안 지속적인 경제 역풍이 안전 자산 수요를 계속 주도할 것으로 예상됩니다. Tipa는 추가적인",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에 큰 영향은 없지만, 환율 및 경제 상황에 대한 간접적인 정보 제공. 기존 뉴스에 비해 금 시장에 대한 구체적인 정보가 추가됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "YLG touts safe-haven precious metal as risks escalate",
+          "url": "https://www.bangkokpost.com/business/investment/3209319/ylg-touts-safehaven-precious-metal-as-risks-escalate",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990664_700.jpg"
+        }
+      ],
+      "collected_at": "08:14",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/04/5990664_700.jpg",
       "date": "2026-03-04"
     }
   ]
