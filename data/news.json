@@ -16255,14 +16255,9 @@
       "summary": "- 파타야에서 한국인 관광객을 상대로 강도 행각을 벌인 트랜스젠더 용의자가 방콕에서 체포됨.\n- 용의자는 과거 파타야 해변에서 독일인 관광객을 폭행한 갱단의 일원이었던 것으로 알려짐.\n- 경찰은 용의자를 파타야 지방 법원으로 이송하여 강도 혐의로 기소할 예정.",
       "full_translated": "파타야 경찰은 한국인 관광객 강도 사건의 용의자인 20세의 Ratchaphum 또는 Fueang Fah를 2026년 3월 5일 오후 1시 30분경에 체포했습니다. 이번 작전은 관광 경찰 2지구 소속 경찰관들과 이민국, 후아이 야이 경찰서 수사관, 그리고 추가 관광 경찰 부대들이 합동으로 수행했습니다. 체포는 방콕 후아이쾅 지역의 Soi Prachauthit 9에 있는 한 주택에서 이루어졌으며, 정보에 따르면 용의자는 파타야 지역에서 도망쳐 그곳에 숨어 있었습니다. 경찰은 확인 결과, Ratchaphum이 파타야 지방 법원에서 발부한 체포 영장의 대상임을 확인했습니다. 그녀는 타인에게 신체적 또는 정신적 해를 끼친 야간 강도 혐의로 기소되었습니다. 이 사건은 과거 한국인 관광객이 방람뭉의 한 주택에서 강도를 당하기 전에 트랜스젠더 여성과 친분을 쌓았던 사건으로 거슬러 올라갑니다. 이 사건은 온라인에서 큰 관심을 받았으며, 소셜 미디어에 비디오 클립과 경고가 퍼지면서 파타야를 방문하는 관광객들 사이에서 광범위한 논의와 우려를 불러일으켰습니다. 용의자는 또한 같은 날 밤 파타야 해변에서 독일인 관광객을 폭행한 트랜스젠더 여성 갱단의 일원이었던 것으로 알려졌습니다. 이 강도 사건은 인기 있는 휴양 도시의 안전에 대한 두려움을 고조시켰고, 당국은 책임자들을 추적하기 위해 신속하게 조치를 취했습니다. 체포 후 용의자는 구금되어 i로 이송되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "한국인 관광객 대상 범죄 발생 및 용의자 체포 소식으로, 파타야 여행 안전에 대한 우려를 야기할 수 있어 여행객에게 중요한 정보임. 사건이 해결되는 과정이므로 업데이트로 간주.",
-      "event_info": {
-        "date": "2026-03-05",
-        "location": "Soi Prachauthit 9, Huai Khwang sub-district, Bangkok",
-        "price": null,
-        "location_google_map_query": "Soi Prachauthit 9, Huai Khwang sub-district, Bangkok"
-      },
+      "event_info": "{'date': '2026-03-05', 'location': 'Soi Prachauthit 9, Huai Khwang sub-district, Bangkok', 'price': None, 'location_google_map_query': 'Soi Prachauthit 9, Huai Khwang sub-district, Bangkok'}",
       "references": [
         {
           "title": "Pattaya Police Arrest Transgender Suspect in High-Profile Robbery of Korean Tourist and Assault on German Tourist in Pattaya",
@@ -16271,23 +16266,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/FB_IMG_1772736783389.jpg?v=1772737130"
         }
       ],
-      "collected_at": "02:09",
+      "collected_at": "2:09",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/FB_IMG_1772736783389.jpg?v=1772737130",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://thepattayanews.com/2026/03/06/pattaya-police-arrest-transgender-suspect-in-high-profile-robbery-of-korean-tourist-and-assault-on-german-tourist-in-pattaya/",
+      "source": ""
     },
     {
       "title": "쑤언플루 이민국 구치소, 중국인 VIP 접견실 운영 의혹 제기",
       "summary": "- 범죄 피해자 지원 클럽 회장이 쑤언플루 이민국 구치소 내 중국인 대상 뇌물 수수 의혹을 경찰에 제기함.\n- 중국인 구금자들이 특별 대우를 위해 월 20만 바트를 지불했다는 증거 (영상, 음성)를 제출함.\n- 전화 사용료, 음식 배달료 등 추가 요금 징수 의혹도 포함됨.",
       "full_translated": "방콕 — 2026년 3월 5일, 범죄 피해자 지원 클럽 회장 아차리야 루앙라타나퐁 씨가 쑤언플루 이민국 사무소 구치소에서 근무하는 이민국 소속 경찰관들의 부정행위 혐의에 대한 조사를 요청하며 왕립 태국 경찰 본부에 증거를 제출했습니다. 그는 중국인 구금자들이 매달 뇌물을 요구받고 있다는 정보를 받았다고 말했습니다. 증거에는 쑤언플루 시설에 수감되었던 전직 중국인 구금자가 제공한 것으로 알려진 대화의 비디오 클립과 오디오 녹음이 포함되어 있습니다. 이 자료는 구치소 내 이익 수집의 조직적인 시스템을 자세히 설명하는 것으로 알려졌습니다. 아차리야 씨는 전직 구금자로부터 얻은 정보에 따르면 쑤언플루 구치소를 감독하는 모든 직급의 경찰관들이 특히 사기 네트워크와 관련된 중국인 구금자로부터 돈을 갈취하는 데 관여했다고 밝혔습니다. 한 가지 주요 방법은 \"VIP 구치소\" 운영과 관련된 것으로 알려졌습니다. 더 큰 편안함을 추구하는 구금자들은 특별한 특권과 교환하여 한 사람당 월 약 20만 바트의 현금을 지불해야 하는 것으로 알려졌습니다. 추가 요금에는 외부와의 통화를 위한 전화 사용료 (통화당 1,000~2,000바트)와 시설 외부에서 음식 및 음료 배달료 (약 5,000바트)가 포함되는 것으로 알려졌습니다. 그는 또한 중국인 구금자가 \"방장\"으로 임명되었다고 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "외국인 대상 범죄 가능성 및 이민국 관련 문제 발생 가능성. 직접적인 위협은 아니지만 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "쑤언플루 이민국 구치소",
-        "price": "200,000 바트 (VIP 접견실)",
-        "location_google_map_query": "Suan Phlu Immigration Office"
-      },
+      "event_info": "{'date': None, 'location': '쑤언플루 이민국 구치소', 'price': '200,000 바트 (VIP 접견실)', 'location_google_map_query': 'Suan Phlu Immigration Office'}",
       "references": [
         {
           "title": "Petition alleges 200,000 baht VIP detention rooms for Chinese detainees at Suan Phlu",
@@ -16296,23 +16288,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/1397524_0.jpg"
         }
       ],
-      "collected_at": "02:09",
+      "collected_at": "2:09",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/1397524_0.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.khaosodenglish.com/news/crimecourtscalamity/2026/03/05/petition-alleges-200000-baht-vip-detention-rooms-for-chinese-detainees-at-suan-phlu/",
+      "source": ""
     },
     {
       "title": "미국, 방콕 쇼핑몰 한 곳 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
       "summary": "- 미국 무역대표부(USTR)가 방콕 중심부의 한 쇼핑몰을 지적재산권 침해 수준이 높은 시장으로 지정했습니다.\n- 태국 지적재산권국은 3월 3일 발표된 보고서에서 19개국 37개의 온라인 시장과 32개의 오프라인 시장을 확인했다고 밝혔습니다.\n- 해당 쇼핑몰은 위조 상품 판매로 체포된 임차인의 임대 계약을 해지하고 다수의 상점을 폐쇄하는 등 당국의 단속에 협조하고 있습니다.",
       "full_translated": "미국 무역대표부(USTR)는 2025년 악명 높은 시장 보고서에서 지적재산권(IP) 침해 수준이 높은 시장 중 하나로 방콕 중심부에 있는 쇼핑 센터 한 곳을 지정했다고 태국 관리들이 밝혔습니다. \n\n지적재산권 국장인 아몬 텝타위탐은 3월 3일에 발표된 보고서에서 19개국에 걸쳐 37개의 온라인 시장과 32개의 물리적 시장을 확인했다고 말했습니다. 태국의 경우 방콕 중심부에 있는 쇼핑몰인 단 하나의 물리적 시장만이 지명되었습니다.\n\n아몬은 이해 관계자들이 상표 및 저작권 위반을 해결하기 위한 부서, 경제 범죄 진압 부서 및 왕립 태국 경찰의 강화된 집행 노력에 감사를 표했다고 말했습니다. 그녀는 당국이 급습과 대국민 홍보 캠페인을 강화했으며, 몰 운영자들은 IP 범죄로 체포된 임차인의 임대 계약을 해지하고 위조 상품을 판매하는 수많은 상점을 폐쇄함으로써 협력했다고 말했습니다. \n\n그러나 그녀는 임시 가판대와 검사를 회피하기 위한 다른 전술을 통해 침해 제품을 판매하려는 지속적인 시도를 인정했습니다. 당국은 상황을 면밀히 모니터링하고 주요 범죄자를 표적으로 삼는 것을 포함하여 조치를 강화할 계획입니다.\n\n아몬은 온라인 시장의 상황이 눈에 띄게 개선되어 올해 목록에 태국 전자 상거래 플랫폼이 나타나지 않았다고 말했습니다. 그녀는 이러한 긍정적인 추세가 태국의 주요 온라인 플랫폼이 서명한 양해 각서에 따른 협력 때문이라고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객들이 짝퉁 상품 구매를 피하도록 정보를 제공. 쇼핑 시 주의를 요함.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 중심부 쇼핑몰",
-        "price": null,
-        "location_google_map_query": "방콕 쇼핑몰"
-      },
+      "event_info": "{'date': None, 'location': '방콕 중심부 쇼핑몰', 'price': None, 'location_google_map_query': '방콕 쇼핑몰'}",
       "references": [
         {
           "title": "US lists a single Bangkok shopping mall for fake goods in notorious markets report",
@@ -16321,23 +16310,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/bangkok-business-district-cityscape-with-skyscraper-twilight-thailand-panorama-1.jpg"
         }
       ],
-      "collected_at": "02:09",
+      "collected_at": "2:09",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/bangkok-business-district-cityscape-with-skyscraper-twilight-thailand-panorama-1.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.khaosodenglish.com/news/2026/03/05/us-lists-a-single-bangkok-shopping-mall-for-fake-goods-in-notorious-markets-report/",
+      "source": ""
     },
     {
       "title": "창안 태국, 전기 자동차 시장 공략 위해 새로운 브랜드 'NEVO' 출시",
       "summary": "- 창안 태국이 새로운 전기차 브랜드 'NEVO'를 론칭하며 태국 시장 공략에 나섰습니다.\n- 2025년 5월, 라용에 중국 외 첫 번째 신에너지차 생산 기지를 건설하고 아세안 시장의 허브로 삼을 계획입니다.\n- 창안 자동차는 누적 생산량 3천만 대를 돌파하며 글로벌 Top 10 자동차 제조업체로 도약했습니다.",
       "full_translated": "창안 태국이 전기 자동차 시장 공략을 위해 새로운 브랜드 'NEVO'를 론칭했습니다. 창안 오토 사우스이스트 아시아 유한회사의 총괄 이사인 텅 지타오는 창안 자동차가 글로벌 확장 전략인 'VAST OCEAN Plan'을 추진하는 데 있어 2025년이 중요한 해가 될 것이라고 밝혔습니다. 태국은 창안의 동남아시아 전략적 거점으로서 세계 무대에서 창안의 역할을 강화할 것입니다. \n\n창안의 주요 계획 중 하나는 2025년 5월 라용에 창안 자동차 공장을 공식적으로 개장하는 것입니다. 이 공장은 중국 외 최초의 신에너지차 생산 기지이자 아세안 시장 및 전 세계 우핸들 차량 시장의 생산 허브가 될 것입니다. 이는 회사의 'VAST OCEAN Plan'을 추진하는 데 중요한 단계입니다. 같은 해 12월, 이 공장은 첫 번째 자동차를 유럽으로 성공적으로 수출하여 태국 공장의 잠재력을 보여주고 태국이 'Made in Thailand, Sold Globally'라는 개념 하에 세계적인 생산 허브임을 강조했습니다. \n\n한편, 중국의 창안 자동차는 누적 생산량 3천만 대를 돌파하며 새로운 이정표를 세웠습니다. 창안은 3천만 대 이상의 생산 및 판매 기록을 가장 빠르게 달성한 중국 자동차 브랜드로서 글로벌 Top 10 자동차 제조업체로 도약했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 자동차 산업에 대한 정보로, 여행 관련 직접적인 영향은 적으나, 태국 경제 상황을 이해하는 데 도움이 될 수 있음.",
-      "event_info": {
-        "date": "2025-05-01",
-        "location": "라용 창안 자동차 공장",
-        "price": null,
-        "location_google_map_query": "창안 자동차 라용 공장"
-      },
+      "event_info": "{'date': '2025-05-01', 'location': '라용 창안 자동차 공장', 'price': None, 'location_google_map_query': '창안 자동차 라용 공장'}",
       "references": [
         {
           "title": "CHANGAN Thailand ปั้นแบรนด์ \"NEVO\" น้องใหม่รุกตลาดรถยนต์ไฟฟ้า",
@@ -16346,23 +16332,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3dw2k12wh6Rb.jpg"
         }
       ],
-      "collected_at": "02:09",
+      "collected_at": "2:09",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3dw2k12wh6Rb.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2918143",
+      "source": ""
     },
     {
       "title": "미국, 이란 군사 작전 100시간 동안 1170억 바트 지출",
       "summary": "- 전략연구센터(CSIS)에 따르면 미국은 이란 군사 작전 초기 100시간 동안 약 1170억 바트를 지출함.\n- 이는 하루 평균 280억 바트에 달하며, 주로 무기 및 장비 교체 비용에 사용됨.\n- 도널드 트럼프 대통령과 국방장관은 작전 기간에 대한 명확한 입장을 밝히지 않았으며, 향후 비용은 작전 강도와 이란의 대응에 따라 달라질 수 있음.",
       "full_translated": "전략연구센터(CSIS)는 이란 내 군사 작전의 처음 100시간 동안 미국이 1,170억 바트 이상을 지출한 것으로 추정합니다. CSIS는 지난 목요일(2069년 3월 5일) 보고서를 발표하며, 미국의 이란 군사 작전 초기 100시간 동안 약 37억 달러(약 1,170억 바트)를 지출했으며, 이는 하루 평균 8억 9천만 달러(약 280억 바트)에 해당한다고 밝혔습니다. 이 중 2억 달러 미만이 국방부 예산에 포함된 작전 비용이며, 나머지 약 35억 4천만 달러는 추가 예산 또는 새로운 예산 법안을 통해 조달해야 할 가능성이 높다고 CSIS 분석가는 지적합니다. 작전 비용 및 지원 외에도 주요 예상 비용은 무기 및 장비 교체이며, 이는 미국과 동맹국의 요격 미사일 탄약이 감소하고 쿠웨이트에서 발생한 오인 사격으로 F-15 전투기 3대가 격추되는 등 장비 손실이 발생함에 따라 우려되는 부분입니다. CSIS는 향후 비용이 “미군의 저렴한 장비 사용으로의 전환”과 “작전의 강도 및 이란의 대응 효율성”에 따라 달라질 수 있다고 밝혔습니다. 현재 이란과의 갈등이 얼마나 오래 지속될지는 불분명하며, 도널드 트럼프 대통령과 피트 헤그세스 국방장관은 명확한 기간을 정하지 않았습니다. 헤그세스 장관은 군사 작전이 대통령이 적절하다고 판단하는 한 오래 지속될 것이라고 언급했습니다...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세에 대한 정보 제공 차원에서 포함. 다만, 여행 안전에 대한 직접적인 위협은 낮으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สงคราม 100 ชม.แรก กองทัพสหรัฐฯ ใช้งบฯ ไปแล้ว 1.17 แสนล้านบาท",
@@ -16371,8 +16354,133 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2SM4pWB73gL6.jpg"
         }
       ],
-      "collected_at": "02:09",
+      "collected_at": "2:09",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2SM4pWB73gL6.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/foreign/2918199",
+      "source": ""
+    },
+    {
+      "title": "파타야, 촌부리 지역 구걸 단속 강화: 질서 유지 및 이미지 개선",
+      "summary": "- 파타야 시, 촌부리 지방의 구걸 행위에 대한 단속에 동참.\n- 사회복지, 경찰, 이민국 등 관련 기관 협력.\n- 파타야 해변 도로, 세컨드 로드, 왓 차이 몽콜 사원 앞에서 집중 단속 실시.",
+      "full_translated": "파타야 시는 촌부리 지방의 질서 유지 및 이미지 개선을 위해 구걸 행위에 대한 단속에 참여했습니다. 라차니 워라랏 촌부리 지방 삶의 질 보호 및 진흥 센터 소장, 파나다 앗토히 파타야 부시 서기, 지라왓 수콘타탑 경찰 대령, 키티팟 홍추웨지 촌부리 지방 이민국 검사관을 포함한 관계자들이 개회식에 참석했습니다. 사회복지사무소 사회복지과, 시 서기실 행정과의 평화질서유지부대(특별업무), 촌부리 지방 삶의 질 보호 및 진흥센터, 파타야 시 경찰서, 이민국 경찰 인력이 합동 단속에 참여했습니다. 단속팀은 파타야 해변 도로, 파타야 세컨드 로드, 왓 차이 몽콜 왕립 사원 앞 세 구역으로 나뉘어 집중 단속을 실시했습니다. 이번 단속으로 태국인 남성 3명, 태국인 여성 2명, 태국인 어린이 2명을 포함한 총 9명의 구걸 관련자가 체포되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 구걸 단속이 강화되어 여행객들이 불편을 겪거나 관련 법규를 위반하지 않도록 주의가 필요함. 관광지 이미지를 개선하려는 노력의 일환으로 볼 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변 도로, 파타야 세컨드 로드, 왓 차이 몽콜 왕립 사원",
+        "price": null,
+        "location_google_map_query": "Pattaya Beach Road, Pattaya Second Road, Wat Chai Mongkol Royal Temple"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Joins Crackdown on Begging in Chonburi Province to Maintain Order and Image",
+          "url": "https://thepattayanews.com/2026/03/05/pattaya-city-joins-crackdown-on-begging-in-chonburi-province-to-maintain-order-and-image/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727283752024555874140347276721.jpg?v=1772728434"
+        }
+      ],
+      "collected_at": "03:03",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727283752024555874140347276721.jpg?v=1772728434",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "파타야, 프라 쁘라타니밋 도로 확장 위해 공공 공간 정비",
+      "summary": "- 파타야 시, 프라 쁘라타니밋 도로 확장을 위한 공공 공간 정비 진행.\n- 사유지 건물 철거 후 도로 재포장 완료, 추가 확장 계획.\n- 전신주 이전 및 표지판 철거 후 아스팔트 콘크리트 덧씌우기 예정.",
+      "full_translated": "파타야 시는 프라 쁘라타니밋 도로 확장을 위해 공공 공간 정비를 진행하고 있습니다. 시 계획 부서와 엔지니어링 부서의 관계자들이 참여하여 프로젝트에 대한 자세한 업데이트를 제공했습니다.\n\n포라멧 시장은 해당 부지에 이전에는 공공 도로 공간을 침범하는 구조물이 있었다고 설명했습니다. 시는 건물 소유주와의 협상과 이후 불법 건축물 철거를 통해 해당 구간의 프라 쁘라타니밋 도로 재포장을 완료했습니다.\n\n향후 시정부는 해당 지역의 공공 도로 사용 권한을 더욱 확대할 계획입니다. 다음 단계는 지방 전력청과의 협력을 통해 전신주 2개를 이전하고 관련 기업과 협력하여 사유지 표지판을 철거하는 것입니다. 또한, 부지에 있는 성황당 (싼 프라품)도 이전할 예정입니다.\n\n이러한 이전이 완료되면 엔지니어링 부서는 아스팔트 콘크리트 덧씌우기를 통해 도로 개선을 수행할 것입니다. 이러한 접근 방식은 시가 최근 사우스 파타야 도로의 우회 도로 건설에 사용한 방식과 유사합니다.\n\n이번 계획은 도로를 크게 확장할 것으로 예상됩니다. 계획 지도에서 녹색으로 표시된 침범 구조물을 제거하면 약 4미터 x 60미터의 사용 가능한 도로 공간이 추가됩니다. 이를 통해 특정 구간에서 전체 도로 폭이 12~14미터로 늘어나 차량 흐름, 특히 회전 기동성이 크게 향상될 것입니다.\n\n이 프로젝트는 효율성을 극대화하고 도로를 개선하려는 시의 정책과 일치합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야 도로 확장으로 교통 흐름 개선 예상되나, 여행객에게 즉각적인 큰 영향은 없음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 프라 쁘라타니밋 도로",
+        "price": null,
+        "location_google_map_query": "프라 쁘라타니밋 도로 파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Advances Reclamation of Public Space to Widen Phra Prathanimit Road",
+          "url": "https://thepattayanews.com/2026/03/06/pattaya-city-advances-reclamation-of-public-space-to-widen-phra-prathanimit-road/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_177273045258475674630867593997.jpg?v=1772730514"
+        }
+      ],
+      "collected_at": "03:03",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_177273045258475674630867593997.jpg?v=1772730514",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "파타야, ITB 베를린 2026 참가: 독일 관광객 증가 추세",
+      "summary": "- 파타야 대표단이 세계 최대 여행 무역 박람회인 ITB 베를린 2026에 참가하여 독일 시장 확대에 주력.\n- 2025년 태국을 방문한 독일 관광객은 965,898명으로 전년 대비 10.60% 증가, 2026년 초에도 증가세 지속.\n- 독일 관광객은 주로 처음 방문하는 개별 여행객(FIT)이며, 방콕, 푸껫, 치앙마이 등에서 해변 휴가, 가족 여행, 건강 및 웰니스 경험을 선호.",
+      "full_translated": "파타야 대표단이 독일 베를린에서 2026년 3월 3일부터 5일까지 열린 세계 최대 여행 무역 박람회인 ITB 베를린에 참가했습니다. 올해 박람회는 '60년 유산 뒤에 숨겨진 이야기 발견'이라는 모토 아래 60주년을 맞이했으며, '균형을 이루는 관광 주도'라는 컨벤션 주제로 지속 가능한 관광 관행과 글로벌 여행 산업 전반의 균형 달성에 초점을 맞췄습니다. 독일은 태국에게 중요한 장거리 시장입니다. 2025년 태국은 965,898명의 독일 방문객을 맞이하여 전년 대비 10.60%의 견고한 성장률을 보였습니다. 이러한 상승 추세는 2026년 초에도 이어져 1월 1일부터 31일 사이에 155,700명의 독일 관광객이 도착하여 전년 대비 2.55% 증가했습니다. 태국을 방문하는 독일 여행객은 주로 처음 방문하는 개별 여행객(FIT)입니다. 인기 있는 목적지는 방콕, 수랏타니, 푸껫, 끄라비, 치앙마이입니다. 주요 선호 사항으로는 해변 휴가, 가족 여행, 건강 및 웰니스 경험이 있습니다. 평균적으로 15.58박을 머무르며 성수기는 1월~3월, 11월~12월입니다. ITB 베를린 2026에 파타야 대표단의 참가로 파타야는 프리미엄 관광 목적지로서의 입지를 확고히 하고 유럽 시장, 특히 독일 시장에서 입지를 넓히는 데 주력하고 있습니다. 또한 지속 가능한 관광 이니셔티브를 발전시키고자 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "독일 관광객 증가 추세 및 파타야의 관광 마케팅 전략 관련 정보는 여행객들에게 흥미로운 로컬 뉴스가 될 수 있음.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "Berlin Exhibition Grounds (Messe Berlin)",
+        "price": "N/A",
+        "location_google_map_query": "Messe Berlin"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Delegation Joins Royal Welcome at ITB Berlin 2026 as German Tourism Increases Year Over Year to Thailand",
+          "url": "https://thepattayanews.com/2026/03/05/pattaya-city-delegation-joins-royal-welcome-at-ITB-berlin-2026-as-german-tourism-increases-year-over-year-to-thailand/",
+          "source": "The Pattaya News"
+        }
+      ],
+      "collected_at": "03:03",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "파타야, LINE Thailand Awards에서 정부 E-서비스 최우수상 수상",
+      "summary": "- 파타야 시, LINE Thailand Awards에서 정부 E-서비스 부문 특별상 수상.\n- LINE Official Account 'Pattaya Connect'를 통한 디지털 공공 서비스 개발 공로 인정.\n- 시민들에게 정보, 뉴스, 다양한 서비스에 대한 편리하고 빠른 액세스 제공.",
+      "full_translated": "파타야 시는 LINE Thailand Awards에서 권위 있는 정부 E-서비스 최우수상을 수상했습니다.\n\n나타폰 티라웃워라웻 전략예산실장과 관련 부서장 및 공무원들이 시상식에 파타야시를 대표하여 참석했습니다. 그들은 시를 대표하여 상을 받았고, 이 업적을 기념하고 대중을 위한 디지털 서비스의 지속적인 발전을 위한 사기를 진작하기 위해 포라메스 시장에게 상을 전달했습니다. 정부 E-서비스 부문 특별상은 LINE Official Account 'Pattaya Connect'를 통해 공공 서비스를 디지털 형식으로 개발하고 발전시킨 뛰어난 성과를 인정받아 파타야 시에 수여되었습니다. 이 플랫폼을 통해 주민들은 정보, 뉴스 및 다양한 서비스에 편리하고 신속하며 효율적으로 액세스할 수 있습니다. 이번 상의 심사 기준에는 대중에게 광범위한 혜택을 제공하고, 서비스 절차를 줄이면서 편의성을 높이고, 처리 시간을 단축하고, 디지털 기술을 적절하게 적용하여 실질적인 결과를 달성하는 능력이 포함되었습니다. LINE Thailand Awards 2025 시상식은 마케팅, 커뮤니케이션, 사용자 경험 창출, 기술 개발과 같은 분야에서 LINE 플랫폼 솔루션을 사용하여 조직 발전을 주도한 뛰어난 결과를 보여준 기업, 정부 기관 및 주요 브랜드를 기념합니다. 올해는 Top Achievement, Special Recognition, Best in Class의 세 가지 주요 그룹에서 총 48개의 상이 수여되었습니다. 이번 수상은 디지털 서비스를 통해 시민들에게 다가가기 위한 파타야 시의 강력한 의지를 보여줍니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야시의 디지털 서비스 개선은 관광객에게도 편리함을 제공할 수 있으므로 정보 가치가 있다고 판단됨. 관광 관련 정보 접근성이 개선될 여지가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Receives Prestigious Best Government E-Service Award at LINE Thailand Awards",
+          "url": "https://thepattayanews.com/2026/03/05/pattaya-city-receives-prestigious-best-government-e-service-award-at-line-thailand-awards/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727280751216566393004289885851.jpg?v=1772728120"
+        }
+      ],
+      "collected_at": "03:03",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727280751216566393004289885851.jpg?v=1772728120",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "젤렌스키, 미국으로부터 이란 드론 위협 대응 지원 요청 받아",
+      "summary": "- 젤렌스키 우크라이나 대통령은 미국으로부터 페르시아만 지역의 이란 드론 공격에 대한 지원 요청을 받았다고 발표함.\n- 미국은 우크라이나의 전문 지식과 자원을 활용하여 동맹국을 보호하고자 함.\n- 젤렌스키는 자국 방어에 지장이 없고 외교적 이익이 된다면 지원을 제공할 의향을 밝힘.",
+      "full_translated": "볼로디미르 젤렌스키 우크라이나 대통령은 미국이 우크라이나에 페르시아만 지역에서 미국의 동맹국을 이란의 드론 공격으로부터 보호하는 데 도움을 요청했다고 밝혔습니다. 이는 중동 지역의 전쟁 상황이 진정될 기미를 보이지 않는 가운데 나온 요청입니다.\n\n젤렌스키 대통령은 우크라이나의 동맹국들이 연락을 취해 왔으며 미국 측으로부터 요청이 있었다고 말했습니다. 그는 필요한 자원을 준비하고 필요한 안보를 보장할 수 있는 우크라이나 전문가를 파견하라는 명령을 내렸습니다. \n\n도널드 트럼프 대통령은 우크라이나의 제안에 대한 질문에 \"모든 국가의 도움을 기꺼이 받겠다\"고 답했습니다.\n\n젤렌스키 대통령은 우크라이나 자체 방어가 약화되지 않고 키이우에 대한 외교적 이익이 보장된다는 조건 하에 지원을 제공할 것이라고 분명히 밝혔습니다. 특히 우크라이나는 미국의 패트리어트 방공 시스템을 추가로 요청하는 대가로 드론 차단 기술을 제공할 의향이 있다고 제안했습니다. 이는 러시아의 공격으로부터 우크라이나를 보호하기 위한 것입니다.\n\n중동 전쟁은 동맹국들이 새로운 갈등에 관심을 돌릴 경우 우크라이나가 영향을 받을 수 있다는 우려를 불러일으켰습니다. 또한 요격 미사일 부족과 러시아가 전쟁 자금의 주요 원천인 고유가로부터 이익을 얻을 수 있다는 우려도 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세 불안은 잠재적 위험 요소가 될 수 있으므로 낮은 점수로 기록. 다만, 여행 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เซเลนสกีเผย สหรัฐฯ ขอยูเครน ช่วยรับมือโดรนอิหร่าน",
+          "url": "https://www.thairath.co.th/news/foreign/2918200",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7tEOe5qaKjP1.jpg"
+        }
+      ],
+      "collected_at": "03:03",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7tEOe5qaKjP1.jpg",
       "date": "2026-03-06"
     }
   ]
