@@ -16033,14 +16033,9 @@
       "summary": "- 파타야의 한 호텔 외부에서 남성이 목을 매 숨진 채 발견됨.\n- 시신에는 고문 흔적이 있었으며, 중국인으로 추정됨.\n- 경찰은 신원 확인을 위해 수사 중.",
       "full_translated": "파타야 - 이 관광 도시의 한 호텔 외부에서 목을 매단 남성의 시신에서 고문 흔적이 발견되었다고 경찰이 목요일에 밝혔습니다. 한 운전자가 오전 9시경 시신을 발견하고 경찰에 신고했습니다. 출동한 경찰은 농프루 탐본의 카오 탈로 철도 트랙 근처 호텔 외부 오토바이 주차장의 지붕 지지대에 묶인 밧줄에 매달린 시신을 발견했습니다. 밧줄 고리는 조여지지 않았습니다. 고리는 남자의 목에 있었고 그의 왼손은 밧줄을 잡고 있었습니다. 중국인으로 보이는 남자는 작은 흰색 꽃무늬가 있는 짙은 파란색 티셔츠, 코끼리 무늬 바지, 흰색 운동화를 신고 있었습니다. 시신에는 멍과 전기 충격 자국을 포함한 고문 흔적도 있었습니다. 현장을 검사한 의사는 처음에는 상처가 사망 전에 발생했다고 추정했습니다. 경찰은 신분증을 찾지 못했지만 바지 주머니에 중국어 편지 3통이 있었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 관광객에게 잠재적 위험을 알리고, 파타야 지역 치안에 대한 정보 제공. 특히 강력 범죄에 해당하므로 안전에 대한 인식을 높일 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Body of hanged man in Pattaya showed signs of torture",
@@ -16051,21 +16046,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210479_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210479/body-of-hanged-man-in-pattaya-showed-signs-of-torture",
+      "source": ""
     },
     {
       "title": "태국 해군, 중동 긴장 고조 시 자국민 해상 대피 계획 준비",
       "summary": "- 공군 주도 대피 계획에 대한 '플랜 B'로 해상 대피 계획 마련됨.\n- 중동 지역 긴장 고조로 항공 폐쇄 가능성에 대비.\n- 외무부는 현재까지 태국 국민의 부상 또는 사망 보고는 없다고 밝힘.",
       "full_translated": "태국 해군이 중동 지역 긴장 고조로 항공 폐쇄 시 태국 국민을 해상으로 대피시키는 '플랜 B'를 준비했습니다. 파이롯 푸앙찬 해군 사령관은 공군이 정부의 대피 조치를 주도하겠지만, 특히 이란에 있는 태국 시민들을 위해 해군이 만일의 사태에 대비한 계획을 세웠다고 밝혔습니다. 안보 상황이 악화되어 항공기를 사용할 수 없는 상황에 대비하여 해군 함정을 배치하여 해당 지역에서 태국 국민을 대피시킬 것입니다. 이러한 준비는 악화되는 분쟁으로 인해 해당 지역의 영공이 폐쇄될 수 있다는 우려에 따른 것입니다. 외무부는 관련하여 현재까지 중동 지역에서 벌어지는 충돌로 인해 태국 국민이 부상하거나 사망했다는 보고는 없다고 확인했습니다. 또한 태국이 미국의 군사 기지를 자국 내에 설립하거나 사용하는 것을 허용했다는 온라인 주장에 대해 부인했습니다. 이러한 해명은 수요일 외무부에서 열린 공동 기자 회견에서 발표되었으며, 관련 기관의 정보를 조율하고, 검증된 최신 정보를 대중에게 전달하고, 지원하기 위한 정부의 중앙 플랫폼 역할을 할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 지역 긴장 고조에 따른 태국 국민 대피 계획은 여행객 안전에 잠재적인 영향을 미칠 수 있으며, 항공편 취소 가능성 등 여행 일정 변경을 유발할 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Navy readies sea evacuation plan for Thais",
@@ -16076,21 +16068,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210583_260305185233_700.jpeg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/business/general/3210583/navy-readies-sea-evacuation-plan-for-thais",
+      "source": ""
     },
     {
       "title": "방콕, 유력 사업가 살인 청부 혐의로 체포 영장 발부",
       "summary": "- 방콕에서 발생한 살인 청부 사건 용의자 2명에 대한 체포 영장이 발부됨.\n- 피해자는 의료기기 회사 관리자로, 납치 및 살해 후 시신이 유기된 채 발견됨.\n- 경찰은 사건 배후에 유력 사업가가 연루된 것으로 보고 수사 중.",
       "full_translated": "방콕 형사 법원은 젊은 매니저를 납치 살해한 사건과 관련하여 '배후 주동자'와 '친밀한 여성'에 대한 체포 영장을 승인했습니다. 사건은 다음과 같습니다. 촌부리 지역의 한 버려진 집 화장실에서 발생한 납치 살해 사건으로, 피해자는 수티산 지역의 의료 기기 수입 및 유통 회사 관리자인 46세의 루트(가명)였습니다. 그의 어머니는 연락이 닿지 않자 수티산 경찰서에 실종 신고를 했습니다. 랏차다 18번 골목의 새우 낚시터 주차장에서 2월 18일 오전 6시 24분에 루트를 납치하는 장면이 CCTV에 포착되었습니다. 용의자들은 사뭇프라칸 지방 방향으로 향했습니다. 3월 3일, 수사팀은 촌부리 지역의 버려진 집 화장실에서 뼈만 남은 루트의 시신을 발견했습니다. 가장 최근인 3월 5일 오후 9시, 수티산 경찰서장은 피해자의 DNA가 루트와 일치한다는 감식 결과를 받았습니다. 지금까지 총 7명의 용의자가 체포되었습니다. 사건 의뢰를 받은 48세의 푸멧(가명)은 현재 라오스로 도주한 것으로 추정됩니다. 경찰은 관련자들을 심문하고 증거를 수집하여 배후 주동자를 밝혀냈습니다. 법원은 살인 및 감금 혐의로 이 두 사람에 대한 체포 영장을 발부했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객에게 직접적인 위협은 아니지만, 주의를 기울여야 할 사건 정보.",
-      "event_info": {
-        "date": null,
-        "location": "촌부리",
-        "price": null,
-        "location_google_map_query": "촌부리"
-      },
+      "event_info": "{'date': None, 'location': '촌부리', 'price': None, 'location_google_map_query': '촌부리'}",
       "references": [
         {
           "title": "ด่วน ศาลออกหมายจับ “บอสใหญ่-หญิงสาวคนสนิท” คดีจ้างอุ้มฆ่าผู้จัดการหนุ่ม",
@@ -16101,21 +16090,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S9NrNShSrwq.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/crime/2918190",
+      "source": ""
     },
     {
       "title": "임신부, 마약 복용 혐의로 체포, 남편 도주 중",
       "summary": "- 사깨오 지역에서 임신부가 마약 복용 혐의로 체포됨.\n- 남편은 도주 중이며 경찰이 추적 중임.\n- 임신부는 마약 복용 사실을 인정했으며, 복지 당국이 가족 지원에 나설 예정.",
       "full_translated": "사깨오 주 카오차칸 지역에서 임신부가 마약 복용 혐의로 체포되었습니다. 경찰은 도주 중인 남편을 추적하고 있습니다. 2026년 3월 5일, 카오차칸 지역 행정관은 주민들의 신고를 받고 카오사암십 지역의 한 주택을 조사했습니다. 해당 지역은 청소년들이 마약을 복용하는 장소로 자주 이용되어 주민들에게 불안감을 조성했습니다. 조사 결과, 티드 씨와 그의 아내인 오이 씨(38세)가 집 안에 있었습니다. 경찰이 조사하는 동안 티드 씨는 도주했고, 오이 씨만 현장에 남았습니다. 오이 씨는 임신 중인 상태로, 경찰 조사에서 마약을 복용한 사실을 인정했습니다. 그녀는 보통 하루에 약 2정을 복용하며, 남자친구와 다툼이 있을 때 주로 복용한다고 진술했습니다. 경찰은 오이 씨를 약물 중독 치료 과정에 참여시키고, 사회 개발 및 인간 안보 사무소(폼어)에 연락하여 출산 전후 적절한 관리를 받을 수 있도록 가족 복지를 지원할 예정입니다. 경찰은 도주한 티드 씨를 추적하여 법에 따라 처벌하고 추가 조사를 진행할 것입니다. 행정부는 주민들에게 마약 복용이나 관련 행위를 발견하면 즉시 신고해 줄 것을 당부했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 마약 관련 범죄 발생 소식은 여행객 안전에 간접적인 영향을 줄 수 있으며, 특히 해당 지역을 방문하는 여행객에게 주의를 환기시킬 필요가 있음. 다만, 파타야 등 주요 관광지가 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "사깨오 주 카오차칸 지역",
-        "price": null,
-        "location_google_map_query": "Khao Chakan, Sa Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '사깨오 주 카오차칸 지역', 'price': None, 'location_google_map_query': 'Khao Chakan, Sa Kaeo, Thailand'}",
       "references": [
         {
           "title": "รวบหญิงท้องแก่ใกล้คลอดมั่วสุมเสพยาบ้า ส่วนสามีเผ่นหนี เร่งติดตามตัว",
@@ -16126,21 +16112,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3QQmntpKabhM.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/local/2918179",
+      "source": ""
     },
     {
       "title": "이란, 아제르바이잔 공격 부인: 드론 공격 조사 중",
       "summary": "- 이란은 아제르바이잔 영토 내 드론 공격에 연루되지 않았다고 주장함.\n- 이란 외무장관은 아제르바이잔 측에 이 사실을 통보하고, 자체 조사를 진행 중이라고 밝힘.\n- 이란은 이스라엘이 양국 관계를 훼손하기 위해 이러한 공격을 배후에서 조종했을 가능성을 제기함.",
       "full_translated": "이란이 아제르바이잔 공항과 학교에 드론이 떨어진 사건 이후, 아제르바이잔을 공격하지 않았다고 밝혔습니다. 이란 외무부 장관 아바스 아락치는 아제르바이잔 측에 이란이 나흐치반 지역에 대한 드론 공격의 배후에 있지 않다고 전했습니다. 이 지역은 아제르바이잔의 본토와 연결되지 않은 영토입니다. 사건은 현지 시간으로 목요일 정오 무렵 발생했으며, 최소 2대의 드론이 이란에서 아제르바이잔의 특별 행정 구역인 나흐치반으로 국경을 넘어왔습니다. 드론 한 대는 나흐치반 공항 터미널에 떨어졌고, 다른 한 대는 셰케라바드 마을의 학교 건물 근처에 떨어져 공항 구조물에 손상을 입히고 민간인 2명이 부상을 입었습니다. 아락치는 전화 통화에서 이란이 아제르바이잔에 폭발물을 발사하지 않았다고 부인하며, 이란 군대가 무슨 일이 일어났는지 면밀히 조사하고 있다고 밝혔습니다. 또한, 타스님 통신은 아락치가 여론을 왜곡하고 이란과 이웃 국가 간의 좋은 관계를 파괴하기 위해 이스라엘이 이러한 공격에서 역할을 했다고 언급했다고 보도했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행객에게 직접적인 영향은 없으나, 주변국 정세 불안은 잠재적 위험 요소가 될 수 있으므로 정보 제공. 다만 직접적인 위협은 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านอ้าง ไม่ได้โจมตีอาเซอร์ไบจาน หลังโดรนตกใส่สนามบิน-โรงเรียน",
@@ -16151,7 +16134,136 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S6biKB2RQOi.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2918191",
+      "source": ""
+    }
+  ],
+  "2026-03-06": [
+    {
+      "title": "푸껫 공항, 훼손된 여권 소지한 노르웨이 여행객 구금",
+      "summary": "- 26세 노르웨이 남성이 훼손된 여권으로 푸껫 국제공항에서 구금됨.\n- 그는 친구와 함께 2주 휴가를 보내려 했으나 입국 거부당함.\n- 여권 뒷면 페이지가 찢겨져 있었고, 남성은 해당 사실을 인지하지 못했다고 진술.",
+      "full_translated": "푸껫 – 26세의 노르웨이 남성이 태국 이민국 직원들이 그의 여권에서 찢어진 페이지를 발견한 후 푸껫 국제공항에서 구금되었습니다. 이 보고서는 노르웨이 일간지 Verdens Gang (VG)에 의해 2월 27일에 처음 게시되었습니다. 마르쿠스 하비크(26)는 친구와 함께 2주간의 휴가를 계획하고 푸껫에 도착했을 때 여권 심사에서 제지당했습니다. 두 사람은 푸껫에서 일주일을 보내고 피피섬으로 여행한 다음 방콕에서 여행을 마무리할 계획이었습니다. 하비크는 VG에 이민국 직원들이 그의 여권을 검사했고 뒷면 페이지가 찢겨져 있다는 것을 발견했다고 말했습니다. 그는 찢어진 페이지를 본 적이 없고 어떻게 손상되었는지 몰랐다고 말했습니다. 보고서에 따르면 직원들은 그에게 여권이 유효하지 않으며 태국에 입국할 수 없다고 알렸습니다. 하비크는 자신이 사무실로 끌려가 관리들이 그의 여권을 사진 찍고 서류를 준비하고 서류에 서명하도록 요청했다고 말했습니다. 그는 상황에 영향을 미칠까 두려워 누군가와 이야기하기 전에 서명을 거부했습니다. 그는 나중에 공항의 유치장에 수감되었습니다. VG는 하비크가 그가 타고 온 항공사인 Norse Atlantic Airways가 운영하는 항공편으로 스톡홀름으로 보내질 것이며, 그의 귀국에 대한 책임이 있다고 들었다고 보도했습니다. 신문 보도 당시 그는 티켓이나 출발 날짜에 대한 서면 확인서를 보지 못했다고 말했습니다. 하비크는 VG에 노르웨이 외무부와 연락했다고 말했습니다. 이메일에서",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여권 문제로 인한 입국 거부는 여행에 직접적인 영향을 미치므로 중요. 공항에서 발생한 사건이므로 여행객에게 즉각적인 관련성이 있음.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 국제공항",
+        "price": null,
+        "location_google_map_query": "Phuket International Airport"
+      },
+      "references": [
+        {
+          "title": "Norwegian tourist detained at Phuket airport over torn passport page",
+          "url": "https://www.khaosodenglish.com/news/2026/03/05/norwegian-tourist-detained-at-phuket-airport-over-torn-passport-page/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/76b4bbcc-9829-4112-94a5-66aa66bde182.jpg"
+        }
+      ],
+      "collected_at": "00:55",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/76b4bbcc-9829-4112-94a5-66aa66bde182.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "이란, 호르무즈 해협 폐쇄설 부인하며 국제법 준수 강조",
+      "summary": "- 이란 유엔 대사는 호르무즈 해협 폐쇄 보도를 부인함.\n- 해당 보도는 사실무근이라고 일축함.\n- 이란은 국제법을 준수할 것이라고 강조함.",
+      "full_translated": "이란 유엔 대사는 이란이 호르무즈 해협을 폐쇄했다는 보도를 부인하며, 이는 전혀 근거가 없다고 밝혔습니다. 또한 테헤란은 국제법을 준수할 것이라고 확인했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 긴장 고조는 여행 심리에 영향을 줄 수 있으나, 직접적인 여행 제한이나 위험은 현재까지 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทูตอิหร่านประจำ UN โต้ข่าวปิดช่องแคบฮอร์มุซ ลั่นยึดมั่น ก.ม.ระหว่างประเทศ",
+          "url": "https://www.thairath.co.th/news/foreign/2918196",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S0VKpk2aEbR.jpg"
+        }
+      ],
+      "collected_at": "00:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S0VKpk2aEbR.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "영국, 카타르와 키프로스에 전투기 및 헬리콥터 파견하여 방어 강화",
+      "summary": "- 영국이 중동 지역의 긴장 고조 속에서 카타르와 키프로스에 군사 자산을 추가로 파견합니다.\n- 카타르에는 '타이푼' 전투기 4대가 추가 배치되어 기존 영국 항공기를 보강합니다.\n- 드론 대응 능력을 갖춘 '와일드캣' 헬리콥터는 키프로스에 파견될 예정이며, HMS 드래곤 함도 지중해에 배치됩니다.",
+      "full_translated": "영국 총리는 중동 지역 시민과 동맹국 보호를 위해 카타르와 키프로스에 전투기와 헬리콥터를 파견할 것이라고 밝혔습니다. 2069년 3월 5일, 키어 스타머 영국 총리는 이란의 중동 여러 국가 공격에 대응하여 영국 전투기 '타이푼' 4대를 카타르에 추가 파견하여 방어를 강화할 것이라고 발표했습니다. 또한 드론 대응 능력을 갖춘 와일드캣 헬리콥터는 이번 주 금요일(3월 6일) 키프로스에 도착할 예정이며, HMS 드래곤 함도 지중해에 배치됩니다. 총리는 영국이 미국의 '방어 작전 수행'을 위한 기지 사용을 허가했으며, '이 지역에서 영국인과 동맹국을 보호하기 위해 이 방패를 유지할 것'이라고 강조했습니다. 정부는 방패를 더욱 강화하기 위해 매일 노력하고 있으며, 아랍만 지역에서 국민들을 대피시키기 위해 노력하고 있습니다. 현재까지 영국으로 돌아온 국민은 4,000명이 넘습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 긴장 고조에 따른 잠재적 영향 (여행 제한 가능성 등) 고려. 직접적인 위협은 아니지만 상황 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "UK เตรียมส่ง เครื่องบินรบ-เฮลิคอปเตอร์ ไปเสริมป้องกันกาตาร์-ไซปรัส",
+          "url": "https://www.thairath.co.th/news/foreign/2918194",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2SpNezoK7ifh.jpg"
+        }
+      ],
+      "collected_at": "00:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2SpNezoK7ifh.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "촌부리 교차로에서 연인 싸움 후 태국 여성, 도로 한복판에 앉아",
+      "summary": "- 촌부리에서 한 여성이 연인과의 싸움 후 교차로 한복판에 앉아 교통을 방해.\n- 그녀는 신발을 던지고 남자친구와 다투며 위험한 상황을 연출.\n- 이 사건은 소셜 미디어에서 도로 안전에 대한 우려를 불러일으키며 논란이 됨.",
+      "full_translated": "방콕 — 촌부리의 혼잡한 교차로 한가운데에 젊은 여성이 앉아 있는 영상이 입소문을 타면서 운전자들을 놀라게 하고 온라인에서 도로 안전에 대한 논쟁을 불러일으켰습니다. 페이스북 페이지에 3월 5일에 게시된 이 클립은 촌부리 지방 므앙 지역의 키리-앙 실라 교통 신호등의 도로에 여성이 앉아 있는 모습을 보여줍니다. 캡션에는 \"애정을 표현하려면 안전한 장소를 선택하세요. 위험합니다.\"라고 적혀 있습니다. 영상에서 여성은 도로 한가운데에 앉아 있다가 화가 나서 신발을 던지는 모습이 보입니다. 그녀의 남자친구는 교차로 반대편에 차를 세우고 그녀를 위로하기 위해 달려가 상황을 진정시키려고 합니다. 교통은 계속해서 교차로를 통해 흐르고 있었고, 여러 운전자들이 속도를 줄이고 그녀를 치지 않기 위해 방향을 틀어 잠재적인 사고를 간신히 피했습니다. 한때 그녀가 던진 신발이 지나가던 오토바이 운전자를 의도치 않게 때려 도로 사용자들을 놀라게 했습니다. 목격자에 따르면 이 커플은 교차로 한가운데에서 고장난 오토바이를 타고 있었습니다. 여성은 처음에는 지나가는 차량에 도움을 요청하려고 했습니다. 그러나 명백한 논쟁이 뒤따랐고, 그 후 그녀는 클립에서 본 것처럼 도로에 앉았습니다. 이 비디오는 소셜 미디어에서 광범위한 반응을 불러일으켰으며, 많은 사람들이 사건으로 인한 위험에 대해 우려를 표명했습니다. 한 댓글 작성자는 \"일주일에 3~5번 이 교차로를 지나갑니다. 차가 많고, 일부는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "교통 방해 및 잠재적 사고 위험으로 인해 여행자에게 불편을 초래할 수 있음. 안전 관련 이슈.",
+      "event_info": {
+        "date": null,
+        "location": "Kiri–Ang Sila traffic lights, Muang district, Chonburi province",
+        "price": null,
+        "location_google_map_query": "Kiri–Ang Sila traffic lights, Muang district, Chonburi province"
+      },
+      "references": [
+        {
+          "title": "Thai woman sits in middle of intersection after lovers’ quarrel",
+          "url": "https://www.khaosodenglish.com/life/2026/03/05/thai-woman-sits-in-middle-of-intersection-after-lovers-quarrel/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/page00000000000002222002020.jpg"
+        }
+      ],
+      "collected_at": "00:55",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/page00000000000002222002020.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "트럼프, 이란 새 지도자 선출에 관여해야 한다고 주장",
+      "summary": "- 도널드 트럼프는 이란의 차기 지도자 선출에 자신이 관여해야 한다고 주장했습니다.\n- 그는 알리 카메네이의 아들이 후계자가 되는 것을 용납하지 않겠다고 밝혔습니다.\n- 트럼프는 이란이 화해와 평화를 가져올 인물을 원한다고 강조했습니다.",
+      "full_translated": "도널드 트럼프는 자신이 이란의 차기 최고 지도자 선출에 관여해야 한다고 발표하며, 무즈타바 카메네이가 그의 아버지인 아야톨라 알리 카메네이의 뒤를 이어 권력을 승계할 가능성을 일축했습니다. 트럼프는 카메네이의 아들이 '무의미'하며, 자신은 이란에 화해와 평화를 가져올 누군가를 원한다고 밝혔습니다. 그는 또한 이전 지도자의 노선을 따르는 후계자는 용납할 수 없으며, 그러한 지도자를 세우는 것은 미국을 다시 전쟁으로 몰아넣을 수 있다고 경고했습니다. 트럼프의 발언은 백악관이 이란의 정권 교체가 대통령의 군사 작전의 주요 목표가 아니라고 밝힌 직후 나왔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세 불안정은 잠재적인 위험 요소가 될 수 있음. 다만, 현재 시점에서는 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ลั่น ตนต้องมีส่วนร่วม ในการเลือกผู้นำใหม่อิหร่าน",
+          "url": "https://www.thairath.co.th/news/foreign/2918198",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2SS1jUWJ0rU4.jpg"
+        }
+      ],
+      "collected_at": "00:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2SS1jUWJ0rU4.jpg",
+      "date": "2026-03-06"
     }
   ]
 }
