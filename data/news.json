@@ -15703,14 +15703,9 @@
       "summary": "- 태국 관광청, 중동 분쟁이 3개월 이상 지속될 경우 관광객 25% 감소 예상.\n- 유럽 시장에 특히 큰 영향, 항공료 인상 및 여행 심리 위축 우려.\n- 단기 여행 시장 공략으로 관광객 감소폭 최소화 노력.",
       "full_translated": "태국 관광청은 중동 전쟁이 올해 태국 관광 산업에 심각한 영향을 미칠 수 있으며, 전투가 3개월 이상 지속될 경우 2026년 목표치에서 25% 감소하는 최악의 시나리오가 될 수 있다고 밝혔습니다. 이에 따라 관광청은 단거리 관광객을 유치하여 격차를 해소하는 데 주력할 것입니다.\n\n중동 영공 폐쇄로 인해 유럽 시장에 특별한 결과가 초래되었으며, 이는 작년에 강력한 추진력을 되찾았습니다. Artthakorn Sirilatthayakorn 관광체육부 장관은 태국 관광청(TAT) 관계자와 회담 후 이같이 말했습니다. 단기적으로는 이 지역 분쟁이 중동 허브를 통해 연결되는 항공편에 영향을 미치고 태국으로의 장거리 여행에 대한 여행객의 신뢰도를 떨어뜨릴 수 있습니다. 항공사의 운영 비용 급증은 항공료에도 영향을 미칩니다. 연료는 일반적으로 항공사 운영 비용의 25%를 차지합니다.\n\nTAT의 예비 예측에 따르면 최악의 시나리오는 2026년 목표인 3,670만 명에서 2,700만 명에서 2,900만 명 사이로 25% 감소할 수 있습니다. 전쟁이 3개월 이내에 끝나면 기관은 18% 감소한 3,000만~3,100만 명으로 예상합니다. 이것이 기본 시나리오입니다. 긴장이 2~4주 안에 완화되면 최소한의 영향만 있을 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 관광 산업에 미치는 잠재적 영향, 여행 비용 증가 가능성, 여행 심리 위축 우려. 중동을 경유하는 여행객에게 직접적인 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "25% tourism decline ‘worst-case scenario’",
@@ -15721,21 +15716,18 @@
       ],
       "collected_at": "19:39",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210574_260305183751_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/business/general/3210574/25-tourism-decline-worstcase-scenario",
+      "source": ""
     },
     {
       "title": "태국 외무부, 이란 내 자국민 대피 준비; 미국 우타파오 기지 사용 요청 부인",
       "summary": "- 태국 외무부는 이란 내 자국민 약 200명의 대피를 준비 중이며, 필요한 경우 터키 국경을 통해 육로로 이동할 계획입니다.\n- 미국이 우타파오 공군 기지를 군사 기지로 사용하려는 요청은 없었으며, 태국은 다른 국가를 공격하는 데 협력하지 않을 것입니다.\n- 태국은 이란과의 관계를 고려하여 미국의 요청을 거부했으며, 이는 태국의 외교 정책과 일치합니다.",
       "full_translated": "태국 외무부 장관 시하삭 푸앙께우는 미국이 우타파오 공항을 군사 작전 기지로 사용하려는 요청에 대해 논의한 바 없다고 밝혔습니다. 그는 태국이 평화를 지향하며 자국민의 안전을 중시하고 외교적 해결을 추구한다고 강조했습니다. 시하삭 장관은 이란 대사와의 회담에서 이란에 거주하는 태국인 약 200여 명의 대피 준비 상황을 논의했으며, 대피 시 육로를 통해 테헤란에서 터키 국경으로 이동할 계획이라고 밝혔습니다. 대피 시기와 관련해서는 구체적인 내용을 공개하지 않았습니다. 태국은 이란 주재 태국 대사관 및 태국 주재 이란 대사관과 협력하여 자국민의 안전을 보장하고 있으며, 미국 및 이스라엘과도 긴밀히 협력하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 긴장 고조에 따른 태국 정부의 자국민 보호 노력은 여행 안전에 대한 관심도를 높임. 대피 계획은 잠재적 위험 상황에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รมว.กต. เตรียมพร้อมอพยพคนไทยในอิหร่าน ปัดข่าวสหรัฐฯ ขอใช้อู่ตะเภาเป็นฐานทางทหาร",
@@ -15746,21 +15738,18 @@
       ],
       "collected_at": "19:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B208GNMGj1brw.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/politic/2918160",
+      "source": ""
     },
     {
       "title": "태국 해군, 중동 분쟁 관련 자국민 대피 준비 완료",
       "summary": "- 태국 해군은 중동 지역 분쟁 상황을 주시하며 자국민 보호를 위한 준비 태세를 갖췄음.\n- 해군은 필요시 해상으로 자국민을 대피시키기 위한 작전 계획을 수립했으며, 정부의 명령을 기다리고 있음.\n- 약 1,000명을 수용할 수 있는 대형 상륙함과 호위함으로 구성된 기동 부대를 준비하여 2주 내에 현장 도착 가능.",
       "full_translated": "태국 해군은 중동 지역의 긴장 고조와 분쟁 발생 가능성에 따라 해당 지역에 거주하는 태국 국민의 안전을 확보하기 위해 만반의 준비를 하고 있다고 밝혔습니다. 2069년 3월 5일, 파랏 라타나차이판 해군 대변인은 현재 중동 지역의 긴장된 상황과 교전으로 인해 해당 지역의 태국 국민의 안전에 영향이 있을 수 있다는 점을 인지하고, 정부 정책에 따라 해군이 해당 지역에서 태국 국민을 지원하고 대피시키기 위한 준비를 하고 있다고 밝혔습니다.\n\n해군은 안전 구역과 교전 지역 근처에 있는 항구를 통해 해상으로 대피 작전을 수행하기 위한 작전 계획을 수립했습니다. 다양한 집결지에서 태국 국민을 이동시키는 것이 용이하도록 말입니다. 그러나 작전 실행 단계는 국방부와 외무부, 그리고 각국의 태국 대사관과의 협조에 달려 있습니다.\n\n병력 측면에서 해군은 약 1,000명의 국민을 수송할 수 있는 대형 상륙함을 준비했으며, 호위함으로 구성된 특수 기동 부대를 편성하여 해당 지역까지 약 2주가 소요될 예정입니다. 파랏 제독은 현재 항공 사용에 제한이 있어 해상 대피가 또 다른 선택지가 될 수 있다고 언급했습니다. 시간이 더 오래 걸리더라도 많은 인원을 수용할 수 있고 작전 수행에 유연성이 높습니다.\n\n해군은 이 계획이 초기 준비 단계이며 실제 상황에 따라 변경될 수 있음을 강조하며, 해외 거주 태국 국민을 보호하기 위한 정부의 결정을 지원하고 명령이 내려지면 즉시 작전을 수행할 준비가 되어 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 국민의 안전과 관련된 사안으로, 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทร. ยันพร้อมปฏิบัติภารกิจทันทีหากรัฐบาลสั่งการ ช่วยเหลือคนไทยพื้นที่สู้รบตะวันออกกลาง",
@@ -15771,21 +15760,18 @@
       ],
       "collected_at": "19:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B21gWftXSMTIQ.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/politic/2918166",
+      "source": ""
     },
     {
       "title": "국립공원 책임자 총격 사건 용의자 체포: 과거 삼림 침범 전력",
       "summary": "- 국립공원 책임자 총격 사건 용의자가 체포됨.\n- 용의자는 과거 삼림 침범 전력이 있으며 마약에도 연루된 것으로 알려짐.\n- 개인적인 원한으로 범행을 저지른 것으로 추정.",
       "full_translated": "국립공원 책임자 총격 사건 용의자가 체포되었습니다. 그는 과거 삼림 침범 전력이 있으며 마약 관련 기록도 있습니다. 용의자는 피해자와의 개인적인 원한으로 인해 범행을 저지른 것으로 보입니다. 사건은 칸차나부리에서 발생했으며, 용의자는 과거 에라완 국립공원 직원이었던 57세의 Somasak 씨입니다. 그는 범행 후 숲으로 도주했지만, 경찰은 그의 가족 및 신뢰할 수 있는 사람들과 연락하여 자수를 설득하고 있습니다. 피해자는 복부에 총알이 박혀 과다 출혈로 인해 중환자실에서 수술을 받고 있습니다. 국립공원, 야생동물 및 식물 보호국 국장인 Attapol Charoenchansa 씨는 이 사건에 대해 유감을 표명했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 국립공원 관련 사건으로, 여행객 안전에 간접적인 영향을 줄 수 있다고 판단. 다만 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "칸차나부리",
-        "price": null,
-        "location_google_map_query": "칸차나부리"
-      },
+      "event_info": "{'date': None, 'location': '칸차나부리', 'price': None, 'location_google_map_query': '칸차나부리'}",
       "references": [
         {
           "title": "รวบแล้ว มือยิง “หัวหน้าสถานีควบคุมไฟป่าสลักพระ” เป็นอดีตผู้ต้องหารุกพื้นที่ป่า",
@@ -15796,21 +15782,18 @@
       ],
       "collected_at": "19:39",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHC9tGE2p4usbdfsu.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/local/2918163",
+      "source": ""
     },
     {
       "title": "쁘라윗 웡수완, 싱부리에서 경찰과 자원봉사자들에게 격려품 전달",
       "summary": "- 쁘라윗 웡수완은 싱부리 지방의 유명 사원을 방문하여 공물을 바치고 경찰과 자원봉사자들에게 격려품을 전달했습니다.\n- 그는 지역 식당을 방문하여 지역 주민들과 소통하고 건강을 기원하는 인사를 받았습니다.\n- 쁘라윗 웡수완은 지역 경찰과 자원봉사자들의 노고에 감사를 표하며 격려했습니다.",
       "full_translated": "쁘라윗 웡수완은 싱부리 지방의 유명 사원을 방문하여 공물을 바치고 경찰과 자원봉사자들에게 격려품을 전달했습니다. 3월 5일, 팔랑 쁘라차랏 당의 고문인 쁘라윗 웡수완은 싱부리 지방을 방문하여 왓 암파완, 왓 프라논 짝시 와라위한, 왓 피쿤통에서 공물을 바쳤습니다. 그는 점심시간에 지역의 유명한 식당인 커피 밀크 카페를 방문하여 지역 주민들과 소통하고 건강을 기원하는 인사를 받았습니다. 쁘라윗 웡수완은 지역 경찰과 자원봉사자들의 노고에 감사를 표하며 격려했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치인의 지방 방문 소식으로, 여행객에게 직접적인 영향은 없다고 판단됨. 하지만 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": "싱부리",
-        "price": null,
-        "location_google_map_query": "싱부리"
-      },
+      "event_info": "{'date': None, 'location': '싱부리', 'price': None, 'location_google_map_query': '싱부리'}",
       "references": [
         {
           "title": "“ลุงป้อม” เดินสายทำบุญสิงห์บุรี พร้อมมอบถุงยังชีพให้กำลังใจตำรวจ-อพปร.",
@@ -15821,6 +15804,133 @@
       ],
       "collected_at": "19:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3PeSigYHB4C3.jpg",
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/politic/2918170",
+      "source": ""
+    },
+    {
+      "title": "치앙마이, 산불로 인한 연무 심화: 여행객 건강 주의",
+      "summary": "- 치앙마이 지역, 산불로 인한 대기 질 악화, PM2.5 농도 위험 수준.\n- 람팡, 프래 등 북부 지역에 235개의 핫스팟 발생.\n- 어린이, 노약자, 호흡기 질환자는 야외 활동 자제 권고.",
+      "full_translated": "치앙마이 - 북부 국경 지방의 대기 질이 급격히 악화되었으며, 북부 지역 대부분에서 산불이 급증하면서 짙은 연무가 도시를 뒤덮고 있습니다. 목요일 아침 위성 데이터에 따르면 람팡(60)과 프래(33)에서 가장 많은 수의 핫스팟이 기록되었으며, 17개 지방에서 235개의 핫스팟이 발견되었습니다. 치앙마이는 핫(Hot) 지역에서 1개의 핫스팟을 보고했습니다.\n\n오염 통제 부서(PCD)는 직경 2.5마이크로미터 이하의 미세먼지(PM2.5) 수치가 치앙마이의 모든 모니터링 스테이션에서 안전 기준을 초과했다고 확인했습니다. 목요일 오전 11시 측정 결과, 24시간 평균치가 51.2~69.4µg/m³ 범위로 나타났으며, 이는 국가 제한치인 37.5µg/m³를 훨씬 웃도는 수치입니다. 대기 질 지수(AQI) 값은 137~185 사이로 건강에 해로운 수준에 도달하여 주민들의 건강에 위험을 초래합니다.\n\n글로벌 모니터링 애플리케이션인 AirVisual은 치앙마이의 대기 질을 AQI 172로 세계에서 다섯 번째로 나쁜 도시로 평가했습니다. 관계자들은 태국 기상청(TMD)의 강우 예보가 없는 한 북부 지방의 PM2.5 수치가 금요일에 위기 수준에 도달할 수 있다고 경고했습니다. 어린이, 노인, 호흡기 질환자를 포함한 취약 계층은 예방 조치를 취할 것을 촉구합니다.\n\n치앙마이 부지사 시와 타미카논은 보건 당국에 호흡기 질환 환자 급증에 대비하여 의료 용품, 장비 및 먼지 없는 방을 확보하도록 지시했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "치앙마이 대기 질 악화는 여행객 건강에 직접적인 위협이 되므로 높은 점수 부여. 매일 업데이트되는 미세먼지 정보는 여행자에게 필수적.",
+      "event_info": {
+        "date": "2026-03-05",
+        "location": "Chiang Mai",
+        "price": null,
+        "location_google_map_query": "Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Forest fires feed haze blanketing Chiang Mai",
+          "url": "https://www.bangkokpost.com/thailand/general/3210600/forest-fires-feed-haze-blanketing-chiang-mai",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210600_700.jpg"
+        }
+      ],
+      "collected_at": "20:56",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210600_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "사이버 경찰, 개인 정보 불법 조회 혐의로 기소될 예정",
+      "summary": "- 사설 탐정에게 피해자의 차량 등록 정보를 불법적으로 제공한 사이버 경찰관이 기소될 예정입니다.\n- 해당 경찰관은 사설 탐정이 피해자를 납치하는 데 일조한 혐의를 받고 있습니다.\n- 경찰은 현재 DNA 감식 결과를 기다리고 있으며, 추가 수사를 진행할 예정입니다.",
+      "full_translated": "방콕, 2024년 3월 5일 - '쑤티싼' 경찰은 사설 탐정에게 피해자의 차량 등록 정보를 제공한 사이버 경찰관을 기소할 예정입니다. 이 정보는 피해자를 납치하는 데 사용되었습니다. 2024년 3월 5일 16시 30분에 '끼앗띠꾼 쏜티넨' 경찰청장은 살인 사건에 대한 수사가 진행 중이라고 밝혔습니다. 경찰은 법의학적 증거와 DNA 비교 결과를 기다리고 있습니다. 이 결과에 따라 용의자를 체포할 수 있을지 결정될 것입니다. 경찰은 또한 피해자의 차량에 GPS 추적 장치를 부착한 사설 탐정을 심문했습니다. 탐정은 피해자의 행동을 감시하기 위해 한 여성으로부터 고용되었습니다. 탐정은 여성으로부터 차량 정보를 받았고, 이 정보를 사이버 경찰관에게 전달하여 차량 소유자를 확인했습니다. '끼앗띠꾼' 경찰청장은 사이버 경찰관이 직권을 남용했다면 법적 처벌을 받을 것이라고 밝혔습니다. '쑤티싼' 경찰서의 수사관들은 해당 경찰관을 직무 유기 혐의로 기소할 준비를 하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "범죄 관련 소식이지만, 여행객에게 직접적인 위협은 아니므로 중간 점수를 부여합니다. 다만, 경찰의 부정부패는 잠재적인 위험 요소가 될 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "จ่อดำเนินคดี \"จ่าสิบตำรวจไซเบอร์\" รับงานเช็กทะเบียนรถ เป็นเหตุให้เหยื่อถูกอุ้มหาย",
+          "url": "https://www.thairath.co.th/news/crime/2918174",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3PHUoGnXvi8a.jpg"
+        }
+      ],
+      "collected_at": "20:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3PHUoGnXvi8a.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국 기상청, 여름 폭풍과 우기 폭풍의 차이점 비교",
+      "summary": "- 태국 기상청은 여름 폭풍과 우기 폭풍의 차이점을 명확히 했습니다.\n- 여름 폭풍은 강한 바람과 갑작스러운 기상 변화가 특징이며, 우기 폭풍은 많은 비를 동반합니다.\n- 여행 시 기상 정보에 유의하여 안전에 대비해야 합니다.",
+      "full_translated": "태국 기상청은 여름 폭풍과 우기 폭풍의 차이점을 비교하며 둘은 같지 않다고 강조했습니다. 2069년 3월 5일, 태국 기상청 페이스북 페이지에 '여름 폭풍'과 '우기 폭풍'에 대한 글이 게시되었습니다. \n\n'여름 폭풍'과 '우기 폭풍'은 다르다는 점을 확인하십시오. 여름 폭풍은 '강한 바람과 갑작스러운 변화'가 특징이며, 발생하는 시기는 늦겨울에서 여름 사이입니다. 갑작스럽게 발생하며 빠르게 소멸합니다. 주요 원인은 축적된 더운 공기가 찬 공기 덩어리와 충돌하는 것입니다. 특징은 강풍, 번개, 우박입니다.\n\n반면 우기 폭풍은 '강수량 축적'이 특징이며, 발생하는 시기는 우기입니다 (종종 하루 종일 비가 내립니다). 넓은 지역에 걸쳐 지속적으로 발생하며 며칠 동안 누적됩니다. 주요 원인은 몬순의 영향 또는 저기압입니다. 특징은 많은 비, 폭우가 지속적으로 내리는 것입니다. 태국 기상청 페이스북 페이지에 감사드립니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 시 알아두면 유용한 날씨 정보. 여름 폭풍과 우기 폭풍의 차이점을 알아두면 여행 계획에 도움이 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อุตุฯ เทียบความแตกต่างระหว่าง \"พายุฤดูร้อน\" กับ \"พายุฤดูฝน\" ย้ำไม่เหมือนกัน",
+          "url": "https://www.thairath.co.th/news/local/2918169",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B20Pkqb0QuuuM.jpg"
+        }
+      ],
+      "collected_at": "20:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B20Pkqb0QuuuM.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "치앙마이에서 마약 운반 용의자 4명 사살, 필로폰 60만 정 압수",
+      "summary": "- 치앙마이 매아이 지역에서 보안군과 마약 밀매 조직 간 충돌 발생.\n- 필로폰 60만 정과 사제 총기, 수류탄 압수.\n- 올해 10월 이후 262건의 작전에서 269명 체포, 1억 5220만 정의 필로폰 등 압수.",
+      "full_translated": "치앙마이 - 2026년 3월 5일, 치앙마이 북부 매아이 지역에서 보안군과 마약 밀매 조직 간의 충돌로 인해 마약 운반 용의자 4명이 사망하고 60만 정의 메스암페타민 알약이 압수되었습니다. 파무앙 태스크 포스 소속 군인들이 해당 지역을 확보하고 검사하기 위해 배치되었습니다. 무장 그룹의 구성원 4명이 현장에서 사망한 채 발견되었습니다. 60만 정의 필로폰 알약이 들어 있는 개조된 배낭 6개가 회수되었습니다. 당국은 또한 탄약이 있는 사제 총기와 즉석 수류탄 1개를 압수했습니다. 파무앙 태스크 포스 부사령관 미차이 닐삿 대령은 관계 기관의 관계자들을 이끌고 작전 현장을 방문했습니다. 압수된 모든 마약은 법적 조치를 위해 매아이 경찰서에 인계되었습니다. 태스크 포스에 따르면 10월 1일부터 현재까지 당국은 262건의 작전에서 마약을 차단하여 269명의 용의자를 체포했습니다. 약 1억 5220만 정의 필로폰 알약, 1.3kg의 헤로인, 3007.2kg의 크리스탈 메스, 67kg의 아편 및 327.4kg의 케타민이 압수되었습니다. 한 군인이 치앙마이 매아이 지역의 충돌 현장에서 발견된 마약 운반 용의자의 시체를 가리키고 있습니다. 총격전에서 마약 운반 용의자 4명이 사망했습니다. (사진 제공/파누멧 탄락사) 이 기간 동안 마약 밀매 그룹과의 무장 충돌이 34건 발생하여 용의자 25명이 사망했습니다. 관리들은 압수된 마약이 방콕에 도달했다면 막대한 경제적 피해를 초래했을 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "치앙마이 지역 여행 시 주의 필요. 마약 관련 범죄 발생 가능성 상존.",
+      "event_info": {
+        "date": null,
+        "location": "Chiang Mai",
+        "price": null,
+        "location_google_map_query": "Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Four suspected couriers killed, 600,000 speed pills seized in Chiang Mai",
+          "url": "https://www.bangkokpost.com/thailand/general/3210540/four-suspected-couriers-killed-600000-speed-pills-seized-in-chiang-mai",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210540_700.jpg"
+        }
+      ],
+      "collected_at": "20:56",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210540_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "경찰 훈련 중 실제 발생한 병원 옥상 투신 소동",
+      "summary": "- 아란야프라텟 병원에서 경찰 훈련 중 실제 투신 시도 발생.\n- 34세 남성이 가족 문제로 병원 옥상에 올라 소동.\n- 경찰, 남성을 설득하여 안전하게 구조 후 정신과 평가 진행.",
+      "full_translated": "사깨오 주 아란야프라텟 병원에서 목요일 아침 일상적인 비상 훈련이 진행되던 중, 경찰관들이 훈련을 중단하고 병원 옥상에 올라간 34세 남성을 구조하여 잠재적인 비극을 막았습니다.\n\n사깨오 경찰에 따르면, 아란야프라텟 경찰서장인 폴 콜 위퐁 콩깨우가 이끄는 순찰 및 수사 팀은 잠재적인 사건에 대비하기 위해 병원 안뜰에서 남성이 조난당한 상황을 시뮬레이션하는 훈련을 실시했습니다.\n\n리허설 중, 한 남성이 병원 옥상에 올라 직원과 환자들 사이에 공황 상태를 일으켰다는 별도의 보고가 들어왔습니다. 경찰관들은 현장으로 달려가 옥상에서 지쳐 극도로 스트레스를 받고 있는 그를 발견했습니다. 경찰관들은 그가 다른 곳을 보고 있는 동안 뒤에서 접근하여 그를 구조하고 건물에서 안전하게 내려오게 했습니다.\n\n그 남성은 시리퐁(34세)으로 확인되었으며, 가족 문제로 고통받고 옥상에서 자살을 시도한 것으로 알려졌습니다. 당국은 시리퐁 씨를 응급실로 보내 정신과 평가 및 면밀한 관찰을 받도록 했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 공공장소에서 발생한 사건이므로 인지 필요. 사건 발생 지역 여행 시 주의 요망.",
+      "event_info": {
+        "date": "2026-03-05",
+        "location": "Aranyaprathet Hospital, Sa Kaeo province",
+        "price": null,
+        "location_google_map_query": "Aranyaprathet Hospital, Sa Kaeo province"
+      },
+      "references": [
+        {
+          "title": "Police drill becomes real rescue as man climbs hospital roof",
+          "url": "https://www.bangkokpost.com/thailand/general/3210505/police-drill-becomes-real-rescue-as-man-climbs-hospital-roof",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210505_700.jpg"
+        }
+      ],
+      "collected_at": "20:56",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210505_700.jpg",
       "date": "2026-03-05"
     }
   ]
