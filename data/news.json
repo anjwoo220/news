@@ -15923,14 +15923,9 @@
       "summary": "- 방콕 인타라폰 도로 특정 지점에서 오토바이 리모컨 키 작동 불능 현상 발생\n- 국가방송통신위원회(NBTC) 조사 결과, 정부 기관의 스마트 미터 신호 간섭이 원인\n- 문제 해결을 위해 해당 기관과 협력하여 주파수 간섭 해결",
       "full_translated": "방콕 인타라폰 도로의 특정 지점에서 오토바이 리모컨 키가 작동하지 않는 미스터리가 해결되었습니다. 국가방송통신위원회(NBTC)에 따르면 이 문제는 정부 기관에서 사용하는 신호로 인해 발생했습니다.\n\n주민과 배달 기사들의 불만이 접수된 후, 주파수 엔지니어들이 왕통랑 지역 인타라폰 소이 10 도로를 따라 무선 주파수를 검사했습니다. 불만을 제기한 사람들은 오토바이를 주차하면 다시 시동을 걸 수 없다고 말했습니다. 많은 사람들이 차량을 해당 지역에서 300~400미터 밀어내야 했고, 이는 배달 기사들에게 귀중한 시간을 낭비하게 했습니다. \n\n언론 보도에 따르면 이 문제는 약 6개월 동안 지속되었으며, 그 원인은 미스터리로 남아 있었습니다. NBTC 부사무총장인 트라이랏 비리야시리쿨은 스펙트럼 분석기를 사용한 예비 조사에서 라이센스를 받은 기관 소유의 스마트 미터가 장착된 전신주 근처에서 무선 주파수 전송이 감지되었다고 밝혔습니다. \n\n이 신호는 차량 리모컨을 포함한 인근 통신 장치 및 스마트 장치에서 사용되는 단거리 무선 주파수인 433MHz 주파수 대역을 간섭했을 수 있다고 트라이랏 씨는 설명했습니다. 익명의 기관과 협력한 후...",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행자에게 불편을 초래할 수 있는 오토바이 리모컨 작동 불능 문제 해결 소식. 특정 지역에서 발생하며, 유사한 문제를 겪을 경우 대처 방안을 알 수 있도록 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "인타라폰 도로 (Intharaphon Road), 방콕",
-        "price": null,
-        "location_google_map_query": "Intharaphon Road Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '인타라폰 도로 (Intharaphon Road), 방콕', 'price': None, 'location_google_map_query': 'Intharaphon Road Bangkok'}",
       "references": [
         {
           "title": "Remote-key failure mystery solved in Bangkok",
@@ -15941,21 +15936,18 @@
       ],
       "collected_at": "21:41",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210498_260305172610_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210498/remotekey-failure-mystery-solved-in-bangkok",
+      "source": ""
     },
     {
       "title": "나토, 이란 공격에 대한 트럼프 지지, 동참은 거부",
       "summary": "- 나토 사무총장은 트럼프의 이란 공격 결정을 지지하며 이란의 위협 제거 필요성을 강조.\n- 나토 동맹국은 이번 분쟁에 직접 참여하지 않을 것이라고 밝힘.\n- 터키는 나토의 방공 시스템이 이란의 미사일을 요격했다고 밝혔으나, 이란은 이를 부인.",
       "full_translated": "나토 사무총장은 트럼프의 이란 공격 결정을 칭찬하며 이란의 위협을 제거해야 한다고 밝혔지만, 동맹국이 이번 분쟁에 참여하지는 않을 것이라고 강조했습니다. 2069년 3월 5일, 마르크 뤼터 나토 사무총장은 도널드 트럼프 미국 대통령이 이란 공격을 개시한 결정을 칭찬했습니다. 그러나 동시에 나토 동맹국이 이번 분쟁에 참여할 것이라는 생각은 거부했습니다. 뤼터 총장은 이란의 미사일 프로그램 제거를 목표로 하는 미국의 군사적 목표를 언급하며 \"우리는 대통령이 이란의 능력을 파괴하는 것을 지지합니다\"라고 말했습니다. 그는 \"우리는 미래에 이란 또는 이 공화국이 이웃 국가, 이스라엘, 중동 또는 유럽에 심각한 위협을 다시 가할 수 없도록 해야 합니다\"라고 덧붙였습니다. 뤼터 총장의 발언은 터키가 나토의 방공 시스템이 이란에서 발사된 미사일을 요격했다고 밝힌 지 하루 만에 나왔습니다. 이란은 공격에 연루된 사실을 부인했습니다. 뤼터 총장은 성공적인 요격은 나토 회원국의 영토를 방어하는 \"360도 접근 방식\"의 증거라고 언급했지만, 나토가 분쟁에 참여하고 있다는 생각은 거부했습니다. 그러나 그는 미국이 이란을 공격하는 캠페인에서 나토가 중요한 역할을 한다고 강조했습니다. 나토 사무총장은 또한 트럼프 대통령을 지지하는 것에 대해 \"테러와 혼란을 수출하는 이란의 능력을 파괴하기 위한 단호한 조치... 저는 한 국가의 대통령이 이러한 방식으로 리더십을 발휘한다면 칭찬하는 것이 합당하다고 생각합니다\"라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행에 직접적인 영향은 적으나, 중동 정세 불안정은 연료 가격 상승 및 잠재적 테러 위협 증가로 이어질 수 있어 인지 필요. 여행객 안전에 간접적인 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ผู้นำนาโตหนุนทรัมป์ถล่มอิหร่าน แต่ปฏิเสธร่วมโจมตี",
@@ -15966,21 +15958,18 @@
       ],
       "collected_at": "21:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B19Go38ULNOOY.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/foreign/2918186",
+      "source": ""
     },
     {
       "title": "태국 청소년 마약 사용, 위기 단계 도달",
       "summary": "- 태국 청소년의 마약 문제가 심각한 수준에 이르렀으며, 특히 칸나비스, 크라톰, 메스암페타민에 대한 접근성이 용이해졌습니다.\n- ThaiHealth의 분석에 따르면, 공중 보건 자원 부족에 대한 우려 속에서 긴급한 조치가 필요합니다.\n- 2024년 형사 범죄로 기소된 청소년 13,631명 중 8,971명이 마약 사용 전력이 있으며, 사용자의 연령이 어려지는 추세입니다.",
       "full_translated": "태국 청소년의 마약 문제는 위기 단계에 도달했습니다. ThaiHealth 조사에 따르면 칸나비스, 크라톰, 메스암페타민과 같은 마약류에 대한 접근성이 용이하며, 치료 자원이 충분하지 않습니다. \n\nThaiHealth의 주요 위험 요소 통제 사무소 책임자인 Rungarun Limlahaphan은 공중 보건 자원 부족에 대한 우려 속에서 긴급한 조치가 필요하다고 말했습니다. 청소년 관찰 및 보호 부서의 데이터에 따르면 2024년에 형사 범죄로 기소된 13,631명의 청소년 중 8,971명이 마약 사용 전력이 있습니다. 대부분은 중학교 저학년, 초등학교, 직업 학교, 고등학교 순으로 재학 중입니다. \n\n이 수치는 마약이 교육 시스템의 낮은 단계에 있는 젊은이들에게까지 위협이 되고 있음을 보여줍니다. 주요 관심사는 마약 사용자의 연령이 낮아지고 있으며, 일부는 11세에 불과합니다. ThaiHealth와 Rocket Media Lab은 최근 젊은이들 사이의 지속적인 마약 관련 행동 및 위험 요인에 대한 분석을 공동으로 진행했습니다. 그 결과, 메스암페타민이 가장 널리 사용되는 물질이지만, 칸나비스와 크라톰의 사용은 비범죄화 이후 급격히 증가했습니다. 8,971명의 약물 남용 전력이 있는 청소년 중 3,240명이 2024년에 칸나비스를 사용했고 1,579명이 크라톰을 사용했습니다. 또한, 더 많은 청소년들이 다양한 물질을 혼합하여 사용하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 마약 문제가 심각해지고 있음을 알리는 기사로, 여행자들에게 주의를 환기시키고 안전에 대한 인식을 높이는 데 도움이 될 수 있습니다. 다만, 여행객에게 직접적인 즉각적 영향을 주는 것은 아니므로 4점 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai youth drug use reaches crisis stage",
@@ -15991,21 +15980,18 @@
       ],
       "collected_at": "21:41",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210399_260305123317_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210399/thai-youth-drug-use-reaches-crisis-stage",
+      "source": ""
     },
     {
       "title": "태국 이슬람 지도자, 2026년 3월 19일에 초승달 관측 발표",
       "summary": "- 태국 이슬람 지도자는 2026년 3월 19일에 초승달을 관측할 예정입니다.\n- 이는 이슬람력의 샤왈 달(이드 알피트르) 시작일을 결정하기 위함입니다.\n- 관측 결과는 전국 무슬림들에게 발표될 예정입니다.",
       "full_translated": "태국 이슬람 지도자 사무실은 샤왈 달(이드 알피트르)의 시작일을 결정하기 위해 2026년 3월 19일 목요일에 초승달을 관측할 것이라고 발표했습니다. 사무실은 전국 무슬림들에게 해당 날짜에 하늘을 관찰하고 초승달을 발견하면 지방 이슬람 위원회 사무실에 보고하여 위원회가 초승달 관측 결과를 태국 이슬람 지도자에게 보고하도록 요청했습니다. 이는 무슬림들에게 알리기 위한 발표를 하기 위함입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 문화와 관련된 종교 행사 정보이며, 해당 기간에 태국을 방문하는 여행객들에게 문화적 맥락을 제공할 수 있음. 직접적인 여행 제약이나 안전 문제는 없으므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-03-19",
-        "location": "전국",
-        "price": "무료",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-03-19', 'location': '전국', 'price': '무료', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "\"จุฬาราชมนตรี\" ประกาศดูดวงจันทร์ 19 มีนาคม 2569 กำหนดวันอีฎิ้ลฟิตริ",
@@ -16016,21 +16002,18 @@
       ],
       "collected_at": "21:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B180zewhkxe74.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/society/2918181",
+      "source": ""
     },
     {
       "title": "2569년 태국 총선 결과 발표: 정당별 득표수 및 의석수",
       "summary": "- 태국 선거관리위원회(꼬꼬떠.)는 2026년 총선 결과를 발표하며 정당별 득표수와 의석수 계산을 공개했습니다.\n- 총 57개 정당의 비례대표 의석수 계산 결과가 포함되어 있습니다.\n- 투표율이 가장 높았던 10개 주의 정보도 함께 제공됩니다.",
       "full_translated": "2569년 3월 5일 18시 40분, 태국 선거관리위원회는 지역구 및 비례대표 선거 결과 요약을 발표했습니다. 다음은 주요 내용입니다.\n\n1. 77개 지방의 지역구 및 비례대표 선거 득표수 합산 결과 보고서\n2. 투표율 상위 10개 주\n3. 2569년 2월 8일 국회의원 선거 및 국민투표 참여 정보\n4. 지역구 및 비례대표 선거 결과 발표된 국회의원 수\n5. 비례대표 의석수 계산\n\n득표수 합산 결과, 투표자 수가 유효표, 무효표, 기권표 합계와 일치하지 않는 경우가 있습니다. 이는 유권자가 투표소에 왔지만 투표용지를 받지 않거나, 투표용지를 투표함에 넣지 않거나, 투표용지를 찢거나, 투표소에서 투표용지를 가져가거나, 투표 관리인이 표를 과도하게 또는 불충분하게 표시하거나, 일부 해외 투표용지가 한 종류의 투표용지만 반환되는 등 여러 가지 이유 때문입니다. 선거관리위원회는 이러한 경우에 따라 재투표 또는 개표를 명령했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "총선 결과는 태국 정치 상황에 대한 이해를 돕고, 여행 관련 정책 변화 가능성을 내포하고 있습니다. 하지만 직접적인 여행 영향은 적다고 판단됩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต. สรุปข้อมูลเลือกตั้ง 2569 เปิดคะแนนทั้งหมด-การคำนวณ สส.ปาร์ตี้ลิสต์ทุกพรรค",
@@ -16041,6 +16024,133 @@
       ],
       "collected_at": "21:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B19OHoOnxUqPZ.jpg",
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/politic/2918184",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 목 매달린 남성 시신 발견, 고문 흔적 보여",
+      "summary": "- 파타야의 한 호텔 외부에서 남성이 목을 매 숨진 채 발견됨.\n- 시신에는 고문 흔적이 있었으며, 중국인으로 추정됨.\n- 경찰은 신원 확인을 위해 수사 중.",
+      "full_translated": "파타야 - 이 관광 도시의 한 호텔 외부에서 목을 매단 남성의 시신에서 고문 흔적이 발견되었다고 경찰이 목요일에 밝혔습니다. 한 운전자가 오전 9시경 시신을 발견하고 경찰에 신고했습니다. 출동한 경찰은 농프루 탐본의 카오 탈로 철도 트랙 근처 호텔 외부 오토바이 주차장의 지붕 지지대에 묶인 밧줄에 매달린 시신을 발견했습니다. 밧줄 고리는 조여지지 않았습니다. 고리는 남자의 목에 있었고 그의 왼손은 밧줄을 잡고 있었습니다. 중국인으로 보이는 남자는 작은 흰색 꽃무늬가 있는 짙은 파란색 티셔츠, 코끼리 무늬 바지, 흰색 운동화를 신고 있었습니다. 시신에는 멍과 전기 충격 자국을 포함한 고문 흔적도 있었습니다. 현장을 검사한 의사는 처음에는 상처가 사망 전에 발생했다고 추정했습니다. 경찰은 신분증을 찾지 못했지만 바지 주머니에 중국어 편지 3통이 있었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 관광객에게 잠재적 위험을 알리고, 파타야 지역 치안에 대한 정보 제공. 특히 강력 범죄에 해당하므로 안전에 대한 인식을 높일 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Body of hanged man in Pattaya showed signs of torture",
+          "url": "https://www.bangkokpost.com/thailand/general/3210479/body-of-hanged-man-in-pattaya-showed-signs-of-torture",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210479_700.jpg"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210479_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국 해군, 중동 긴장 고조 시 자국민 해상 대피 계획 준비",
+      "summary": "- 공군 주도 대피 계획에 대한 '플랜 B'로 해상 대피 계획 마련됨.\n- 중동 지역 긴장 고조로 항공 폐쇄 가능성에 대비.\n- 외무부는 현재까지 태국 국민의 부상 또는 사망 보고는 없다고 밝힘.",
+      "full_translated": "태국 해군이 중동 지역 긴장 고조로 항공 폐쇄 시 태국 국민을 해상으로 대피시키는 '플랜 B'를 준비했습니다. 파이롯 푸앙찬 해군 사령관은 공군이 정부의 대피 조치를 주도하겠지만, 특히 이란에 있는 태국 시민들을 위해 해군이 만일의 사태에 대비한 계획을 세웠다고 밝혔습니다. 안보 상황이 악화되어 항공기를 사용할 수 없는 상황에 대비하여 해군 함정을 배치하여 해당 지역에서 태국 국민을 대피시킬 것입니다. 이러한 준비는 악화되는 분쟁으로 인해 해당 지역의 영공이 폐쇄될 수 있다는 우려에 따른 것입니다. 외무부는 관련하여 현재까지 중동 지역에서 벌어지는 충돌로 인해 태국 국민이 부상하거나 사망했다는 보고는 없다고 확인했습니다. 또한 태국이 미국의 군사 기지를 자국 내에 설립하거나 사용하는 것을 허용했다는 온라인 주장에 대해 부인했습니다. 이러한 해명은 수요일 외무부에서 열린 공동 기자 회견에서 발표되었으며, 관련 기관의 정보를 조율하고, 검증된 최신 정보를 대중에게 전달하고, 지원하기 위한 정부의 중앙 플랫폼 역할을 할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 긴장 고조에 따른 태국 국민 대피 계획은 여행객 안전에 잠재적인 영향을 미칠 수 있으며, 항공편 취소 가능성 등 여행 일정 변경을 유발할 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Navy readies sea evacuation plan for Thais",
+          "url": "https://www.bangkokpost.com/business/general/3210583/navy-readies-sea-evacuation-plan-for-thais",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210583_260305185233_700.jpeg"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210583_260305185233_700.jpeg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "방콕, 유력 사업가 살인 청부 혐의로 체포 영장 발부",
+      "summary": "- 방콕에서 발생한 살인 청부 사건 용의자 2명에 대한 체포 영장이 발부됨.\n- 피해자는 의료기기 회사 관리자로, 납치 및 살해 후 시신이 유기된 채 발견됨.\n- 경찰은 사건 배후에 유력 사업가가 연루된 것으로 보고 수사 중.",
+      "full_translated": "방콕 형사 법원은 젊은 매니저를 납치 살해한 사건과 관련하여 '배후 주동자'와 '친밀한 여성'에 대한 체포 영장을 승인했습니다. 사건은 다음과 같습니다. 촌부리 지역의 한 버려진 집 화장실에서 발생한 납치 살해 사건으로, 피해자는 수티산 지역의 의료 기기 수입 및 유통 회사 관리자인 46세의 루트(가명)였습니다. 그의 어머니는 연락이 닿지 않자 수티산 경찰서에 실종 신고를 했습니다. 랏차다 18번 골목의 새우 낚시터 주차장에서 2월 18일 오전 6시 24분에 루트를 납치하는 장면이 CCTV에 포착되었습니다. 용의자들은 사뭇프라칸 지방 방향으로 향했습니다. 3월 3일, 수사팀은 촌부리 지역의 버려진 집 화장실에서 뼈만 남은 루트의 시신을 발견했습니다. 가장 최근인 3월 5일 오후 9시, 수티산 경찰서장은 피해자의 DNA가 루트와 일치한다는 감식 결과를 받았습니다. 지금까지 총 7명의 용의자가 체포되었습니다. 사건 의뢰를 받은 48세의 푸멧(가명)은 현재 라오스로 도주한 것으로 추정됩니다. 경찰은 관련자들을 심문하고 증거를 수집하여 배후 주동자를 밝혀냈습니다. 법원은 살인 및 감금 혐의로 이 두 사람에 대한 체포 영장을 발부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객에게 직접적인 위협은 아니지만, 주의를 기울여야 할 사건 정보.",
+      "event_info": {
+        "date": null,
+        "location": "촌부리",
+        "price": null,
+        "location_google_map_query": "촌부리"
+      },
+      "references": [
+        {
+          "title": "ด่วน ศาลออกหมายจับ “บอสใหญ่-หญิงสาวคนสนิท” คดีจ้างอุ้มฆ่าผู้จัดการหนุ่ม",
+          "url": "https://www.thairath.co.th/news/crime/2918190",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S9NrNShSrwq.jpg"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S9NrNShSrwq.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "임신부, 마약 복용 혐의로 체포, 남편 도주 중",
+      "summary": "- 사깨오 지역에서 임신부가 마약 복용 혐의로 체포됨.\n- 남편은 도주 중이며 경찰이 추적 중임.\n- 임신부는 마약 복용 사실을 인정했으며, 복지 당국이 가족 지원에 나설 예정.",
+      "full_translated": "사깨오 주 카오차칸 지역에서 임신부가 마약 복용 혐의로 체포되었습니다. 경찰은 도주 중인 남편을 추적하고 있습니다. 2026년 3월 5일, 카오차칸 지역 행정관은 주민들의 신고를 받고 카오사암십 지역의 한 주택을 조사했습니다. 해당 지역은 청소년들이 마약을 복용하는 장소로 자주 이용되어 주민들에게 불안감을 조성했습니다. 조사 결과, 티드 씨와 그의 아내인 오이 씨(38세)가 집 안에 있었습니다. 경찰이 조사하는 동안 티드 씨는 도주했고, 오이 씨만 현장에 남았습니다. 오이 씨는 임신 중인 상태로, 경찰 조사에서 마약을 복용한 사실을 인정했습니다. 그녀는 보통 하루에 약 2정을 복용하며, 남자친구와 다툼이 있을 때 주로 복용한다고 진술했습니다. 경찰은 오이 씨를 약물 중독 치료 과정에 참여시키고, 사회 개발 및 인간 안보 사무소(폼어)에 연락하여 출산 전후 적절한 관리를 받을 수 있도록 가족 복지를 지원할 예정입니다. 경찰은 도주한 티드 씨를 추적하여 법에 따라 처벌하고 추가 조사를 진행할 것입니다. 행정부는 주민들에게 마약 복용이나 관련 행위를 발견하면 즉시 신고해 줄 것을 당부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 내 마약 관련 범죄 발생 소식은 여행객 안전에 간접적인 영향을 줄 수 있으며, 특히 해당 지역을 방문하는 여행객에게 주의를 환기시킬 필요가 있음. 다만, 파타야 등 주요 관광지가 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "사깨오 주 카오차칸 지역",
+        "price": null,
+        "location_google_map_query": "Khao Chakan, Sa Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "รวบหญิงท้องแก่ใกล้คลอดมั่วสุมเสพยาบ้า ส่วนสามีเผ่นหนี เร่งติดตามตัว",
+          "url": "https://www.thairath.co.th/news/local/2918179",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3QQmntpKabhM.jpg"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3QQmntpKabhM.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "이란, 아제르바이잔 공격 부인: 드론 공격 조사 중",
+      "summary": "- 이란은 아제르바이잔 영토 내 드론 공격에 연루되지 않았다고 주장함.\n- 이란 외무장관은 아제르바이잔 측에 이 사실을 통보하고, 자체 조사를 진행 중이라고 밝힘.\n- 이란은 이스라엘이 양국 관계를 훼손하기 위해 이러한 공격을 배후에서 조종했을 가능성을 제기함.",
+      "full_translated": "이란이 아제르바이잔 공항과 학교에 드론이 떨어진 사건 이후, 아제르바이잔을 공격하지 않았다고 밝혔습니다. 이란 외무부 장관 아바스 아락치는 아제르바이잔 측에 이란이 나흐치반 지역에 대한 드론 공격의 배후에 있지 않다고 전했습니다. 이 지역은 아제르바이잔의 본토와 연결되지 않은 영토입니다. 사건은 현지 시간으로 목요일 정오 무렵 발생했으며, 최소 2대의 드론이 이란에서 아제르바이잔의 특별 행정 구역인 나흐치반으로 국경을 넘어왔습니다. 드론 한 대는 나흐치반 공항 터미널에 떨어졌고, 다른 한 대는 셰케라바드 마을의 학교 건물 근처에 떨어져 공항 구조물에 손상을 입히고 민간인 2명이 부상을 입었습니다. 아락치는 전화 통화에서 이란이 아제르바이잔에 폭발물을 발사하지 않았다고 부인하며, 이란 군대가 무슨 일이 일어났는지 면밀히 조사하고 있다고 밝혔습니다. 또한, 타스님 통신은 아락치가 여론을 왜곡하고 이란과 이웃 국가 간의 좋은 관계를 파괴하기 위해 이스라엘이 이러한 공격에서 역할을 했다고 언급했다고 보도했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행객에게 직접적인 영향은 없으나, 주변국 정세 불안은 잠재적 위험 요소가 될 수 있으므로 정보 제공. 다만 직접적인 위협은 아니므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านอ้าง ไม่ได้โจมตีอาเซอร์ไบจาน หลังโดรนตกใส่สนามบิน-โรงเรียน",
+          "url": "https://www.thairath.co.th/news/foreign/2918191",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S6biKB2RQOi.jpg"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B2S6biKB2RQOi.jpg",
       "date": "2026-03-05"
     }
   ]
