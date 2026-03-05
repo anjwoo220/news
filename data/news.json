@@ -14493,14 +14493,9 @@
       "summary": "- 정부는 중동 분쟁으로 인해 항공편이 취소된 여행객들을 위해 비자 구제 조치를 도입했습니다.\n- 이민국은 발이 묶인 여행객에 대한 체류 벌금을 면제합니다.\n- 관광체육부는 이스라엘과 이란 간의 분쟁과 관련된 여행 차질을 면밀히 모니터링하고 있습니다.",
       "full_translated": "정부가 중동 분쟁으로 인해 166편의 항공편이 취소된 후 비자 구제 조치를 도입하여 이민국은 발이 묶인 여행객에 대한 체류 벌금을 면제합니다. 관광체육부는 이스라엘과 이란 간의 분쟁과 관련된 여행 차질을 면밀히 모니터링하고 있다고 밝혔습니다. 2월 28일부터 3월 3일까지 수완나품, 돈므앙, 푸껫, 치앙마이, 끄라비 등 5개의 주요 국제 공항에서 총 105편의 출발 항공편과 61편의 도착 항공편이 취소되었습니다. 터미널 내에 발이 묶인 승객은 보고되지 않았습니다. 그러나 취소로 인해 출국 스탬프 절차에 영향을 미쳐 특히 수완나품 공항의 출입국 검문소에서 혼잡이 발생할 가능성이 있습니다. 이민국 부국장인 Pol Maj Gen Choengron Rimpadee는 상황을 완화하기 위한 10가지 조치를 간략하게 설명했습니다. 이민국 법에 따라 영공 폐쇄로 인해 초과 체류한 외국인은 태국을 떠나려는 경우 벌금이 면제됩니다. 비자가 아직 만료되지 않았지만 일시적으로 체류하기를 원하는 사람은 자국 대사관의 인증을 받아 한 번에 최대 30일까지 연장받을 수 있습니다. 위기가 장기화되고 초과 체류가 증가하면 이민국 법 제17조에 따라 내각에 회부될 수 있습니다. 항공사는 협조를 요청받았습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "항공편 취소 및 비자 관련 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 공항 혼잡 가능성이 있어 정보 제공의 필요성이 높습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt offers visa relief after flights canned",
@@ -14509,23 +14504,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210170_260305065124_700.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210170_260305065124_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210170/govt-offers-visa-relief-after-flights-canned",
+      "source": ""
     },
     {
       "title": "방콕, 교통 체증 완화를 위한 적응형 신호등 시스템 도입 가속화",
       "summary": "- 방콕시, 고정 시간 신호등 시스템에서 적응형 제어 시스템으로 전환 가속화.\n- CCTV 및 이미지 처리 기술을 활용하여 실시간 교통량을 감지하고 신호 시간 자동 조정.\n- 교통량에 따라 신호등 시간 자동 조정, 긴급 상황 및 교통량 급변에 대응 가능.",
       "full_translated": "방콕 메트로폴리탄 관리국(BMA)은 도시 전역의 심각한 교통 체증을 완화하기 위해 적응형 교통 신호등의 출시를 가속화할 것이라고 밝혔습니다. 시는 기존의 고정 시간 교통 신호등 시스템을 적응형 제어 시스템으로 교체하고 있습니다.\n\n시스템 운영에 대한 브리핑에서 위사누 섭솜폰 부지사는 방콕이 746개의 교차로를 관리하고 있으며, 그 중 80% 이상이 여전히 미리 설정된 녹색 및 빨간색 신호 간격으로 고정 시간 시스템으로 운영되고 있다고 말했습니다. 이 시스템은 변동하는 교통량에 맞춰 조정되지 않습니다.\n\nBMA는 실시간 교통량을 감지하기 위해 CCTV 카메라와 이미지 처리 기술을 사용하는 적응형 시스템으로 업그레이드를 가속화하고 있습니다. 데이터는 실제 교통 상황을 기반으로 신호 시간을 자동으로 계산하고 조정할 수 있는 새로 개발된 알고리즘이 장착된 제어 캐비닛으로 전송됩니다.\n\n고정 시간 시스템에서는 녹색 및 빨간색 신호 지속 시간이 미리 설정되어 교통 상황에 관계없이 변경되지 않습니다. 적응형 시스템에서는 각 방향의 교통량에 따라 신호 시간이 실시간으로 자동으로 조정됩니다. 또한 고정 시간 방식은 러시아워, 비상 상황 또는 갑작스러운 교통량 변동에 대응할 수 없습니다. 그러나 적응형 시스템은 교차로 전 150미터까지의 교통 밀도와 대기열 길이를 분석하여 최적의 신호 시간을 할당합니다. 또한 고정 시간 시스템은 '손실된 녹색 시간'이 발생하기 쉽습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "교통 체증은 여행객에게 불편을 초래하므로 관련 정보 제공. 시스템 개선은 긍정적인 영향을 미칠 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 주요 교차로"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 주요 교차로'}",
       "references": [
         {
           "title": "Adaptive lights set to ease congestion",
@@ -14534,23 +14526,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3209995_260305063705_700.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3209995_260305063705_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3209995/adaptive-lights-set-to-ease-congestion",
+      "source": ""
     },
     {
       "title": "바트화, 유가 상승 압력에 직면",
       "summary": "- 카시콘 리서치 센터(K-Research)에 따르면, 중동 전쟁 장기화 시 바트화가 달러당 33 이상으로 하락할 수 있음.\n- 태국은 순 석유 수입국으로, 유가 상승 시 수입 비용 증가로 무역 수지 적자 가능성 존재.\n- 현재 바트화는 달러 대비 31.73-31.75 수준이며, 중동 전쟁 악화 시 달러당 32.8까지 약세 전망.",
       "full_translated": "바트화는 유가 상승 압력에 직면해 있으며, 달러당 33 이하로 하락할 수 있습니다. \n\n카시콘 리서치 센터(K-Research)에 따르면 중동 전쟁이 장기화될 경우 태국은 순 석유 수입국으로서 더 높은 수입 비용을 지불해야 하므로 바트화가 달러당 33 이상으로 하락하고 변동성이 커질 수 있습니다. \n\n태국 통화는 화요일 역외 시장에서 달러 대비 31.95바트로 3개월 만에 최저치를 기록한 후 수요일 31.73-31.75바트로 반등했습니다. 이는 월요일 마감가 31.45바트와 비교됩니다. K-Research의 은행 및 금융 연구 책임자인 Kanjana Chockpisansin은 이러한 하락은 위험 자산과 금에서 안전 자산인 미국 달러로의 자본 유출에 의해 주도되었다고 말했습니다. \n\n미국 달러는 또한 미국 연방준비제도가 유가 상승에 대응하여 미국 인플레이션이 상승함에 따라 금리 인하를 점진적으로, 그리고 시장 예상보다 적게 할 것이라는 기대에 의해 지지되고 있습니다. \n\nKanjana는 방콕 포스트와의 인터뷰에서 “중동 전쟁이 장기화되면 유가가 장기간 높은 수준을 유지하여 순 석유 수입국인 태국에 큰 타격을 줄 것입니다.”라고 말했습니다. “무역 수지가 크게 감소하여 근소한 무역 흑자가 적자로 전환될 것입니다.” \n\nK-Research는 중동 전쟁을 기준으로 최악의 경우 바트화가 달러당 32.8까지 약화될 것으로 예상합니다. 그러나 유가가 배럴당 100달러를 넘으면...",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "환율 변동은 여행객의 예산에 영향을 미치므로 관련 정보 제공. 기존 게시글과 100% 동일하지 않으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Baht faces pressure from oil upswing",
@@ -14559,23 +14548,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/05/5992060_700.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/05/5992060_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/business/general/3210100/baht-faces-pressure-from-oil-upswing",
+      "source": ""
     },
     {
       "title": "태국 정부, 의약품 가격 인상에 경계 태세",
       "summary": "- 중동 불안정 속 의약품 가격 인상 가능성에 정부가 대비 중\n- 보건부는 의약품 및 의료 장비 비축량 점검 및 공급망 차질 대비\n- 필요시 상무부와 협력하여 가격 규제 및 소비자 보호 조치 시행 예정",
       "full_translated": "공개일: 2026년 3월 5일 06:56\n신문 섹션: 뉴스\n작성자: Apinya Wipatayotin\n공중 보건부는 중동 지역의 불안정 속에서 잠재적인 약가 인상에 대해 면밀히 감시하고 필요시 상무부와 협력하여 개입할 것을 약속했습니다.\n수요일 이사회 회의 후, Pattana Promphat 공중 보건부 장관은 공중 보건 시스템이 해당 지역의 갈등 고조로 인해 아직 직접적인 영향을 받지 않았다고 말했습니다. 그는 국가 기관에 의약품 및 의료 장비의 국가 비축량을 검토하고 운송 차질 또는 물류 지연 발생 시 공급 업체의 배송 유지 능력을 평가하도록 지시했습니다.\nPattana 씨는 부족을 방지하기 위한 비상 조치가 준비되고 있으며, 갈등이 심화되거나 장기간 지속되지 않는 한 '재고 부족' 상황은 없을 것이라고 덧붙였습니다. 당국은 상황 변화에 신속하게 대응할 수 있도록 포괄적인 데이터를 수집하고 있습니다. 그는 불안이 오래가지 않을 것이라고 확신하면서도 가능한 가격 투기에 대한 우려를 인정했습니다. 그는 “상황은 정상적으로 유지되고 있다”고 말했다. “그러나 특정 의약품의 과도한 가격 책정 가능성이 있습니다. 우리는 상황 전개를 면밀히 주시하고 필요한 경우 상무부와 협력하여 가격을 규제하고 소비자를 보호할 것입니다.” 장관은 또한 국내 제약 산업을 강화하기 위한 정책을 지속적으로 추진하고 있다고 덧붙였습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "의약품 가격 인상은 여행자에게 직접적인 영향을 미칠 수 있으므로 관련 정보를 제공. 중동 분쟁 상황이 태국 내 의약품 가격에 미치는 영향에 대한 정보는 새로운 업데이트임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt on alert for medicine price hikes",
@@ -14584,23 +14570,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210035_260305065731_700.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210035_260305065731_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210035/govt-on-alert-for-medicine-price-hikes",
+      "source": ""
     },
     {
       "title": "중동 긴장 고조 속 태국 증시 하락 위험 직면",
       "summary": "- 중동 긴장 고조로 글로벌 에너지 공급망 위협, 태국 증시에 하락 위험.\n- 이란의 석유 및 가스 시설 공격 가능성 증가, 공급 차질 우려 심화.\n- 지정학적 리스크로 당분간 글로벌 위험 회피 심리 지속 전망.",
       "full_translated": "중동 긴장 고조로 인해 태국 증시가 하락 위험에 직면할 수 있다는 분석이 나왔다. 글로벌 에너지 공급망에 대한 위협이 커지면서 변동성이 확대될 것으로 예상된다. Bualuang Securities (BLS)의 주식 리서치 책임자인 Piriyapon Kongvanich는 이란이 호르무즈 해협 봉쇄를 넘어 지역 석유 및 가스 시설을 직접 공격하는 데 집중하면서 공급 차질 위험이 더욱 커졌다고 분석했다. 미국이 해협을 통한 안전한 해상 통행을 보장하겠다고 약속했지만, 물리적 인프라가 직접적인 표적이 될 경우 제한적인 안도감만 제공할 수 있다고 그는 덧붙였다. UOB Kay Hian Securities의 부사장인 Kitpon Praipaisarnkit는 태국 증권 거래소(SET) 지수의 하락세가 중동 전쟁 중 가장 큰 하락폭을 기록할 가능성이 높지만, 추가 하락 여지도 있다고 전망했다. 그는 현재 1,350포인트를 지지선으로 보고 있으며, 중동 상황이 유동적이므로 당분간 글로벌 위험 회피 모드가 지속될 것으로 예상했다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "중동 불안으로 인한 경제적 영향은 간접적이지만, 여행 심리 위축 가능성 존재. 주식 시장 변동성 확대는 투자자 심리에 부정적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Bourse faces downside risks as tensions rise",
@@ -14609,8 +14592,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3209945_260305071200_700.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3209945_260305071200_700.jpg",
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/business/investment/3209945/bourse-faces-downside-risks-as-tensions-rise",
+      "source": ""
+    },
+    {
+      "title": "나라티왓에서 발생한 방화 및 CCTV 손상 사건",
+      "summary": "- 나라티왓 지역 3개 구역에서 방화 및 CCTV 손상 사건 발생\n- 전봇대에 설치된 CCTV가 파손되어 작동 불능 상태\n- 경찰, 검문소를 설치하여 차량 및 인물 검사 강화",
+      "full_translated": "나라티왓에서 방화 사건이 발생하여 도로변 전봇대에 설치된 CCTV가 불에 탔습니다. 단 하룻밤 만에 3개 구역에서 이러한 사건이 발생하여 수십 대의 CCTV가 작동하지 않게 되었습니다. 나라티왓 지방 경찰청장은 검문소를 설치하고 차량과 주요 장소를 오가는 사람들을 검사하여 경계를 강화하라고 명령했습니다. 2569년 3월 4일 19시 40분에 나라티왓 주 차내 경찰서의 위라삭 퍼새래 경찰서장은 마을 주민으로부터 도로변 전봇대에 설치된 CCTV가 3군데에서 방화로 손상되었다는 신고를 받았습니다. 므엉 지역 2번 마을에서 총 10대가 피해를 입었습니다. 1번 지점은 반 차내 학교 담장 옆으로, 내무부 CCTV 3대와 차내 경찰서 CCTV 2대가 손상되었습니다. 2번 지점은 뜨어코 마을로 들어가는 갈림길로, 내무부 CCTV 2대가 손상되었습니다. 3번 지점은 브어태 마을로 들어가는 갈림길로, 내무부 CCTV 3대가 손상되었습니다. 경찰은 군 병력을 동원하여 현장으로 급파하여 CCTV를 태우고 전봇대에 설치된 전선으로 번지는 화재를 발견했습니다. 경찰은 관계 당국에 연락하여 현장을 조사하기 전에 해당 지역을 봉쇄하라고 명령했습니다. ... 이후 위라삭 경찰서장은 3곳의 현장 주변 전봇대에 설치된 CCTV를 조사하라고 명령했고, 뜨어코 마을로 들어가는 갈림길의 전봇대에 설치된 내무부 CCTV가 범인들의 행동을 녹화할 수 있다는 것을 발견했습니다. 범인은 6명으로 3대의 오토바이를 타고 삼거리에 주차했고, 4명은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 남부 지역의 치안 불안정으로 여행객 안전에 잠재적 영향. CCTV 손상으로 인한 범죄 발생 가능성 증가.",
+      "event_info": {
+        "date": null,
+        "location": "나라티왓",
+        "price": null,
+        "location_google_map_query": "나라티왓"
+      },
+      "references": [
+        {
+          "title": "ป่วนนราธิวาส คืนเดียว 3 อำเภอ ตัดสายไฟฟ้า-เผากล้องวงจรปิดเสียหาย ใช้งานไม่ได้ อื้อ",
+          "url": "https://www.thairath.co.th/news/crime/2917994",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvBNuV6SnZoa6.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvBNuV6SnZoa6.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국, 2026년 IMF-세계은행 연차총회 개최 준비",
+      "summary": "- 태국 정부, 2026년 10월 IMF-세계은행 연차총회 개최 준비 상황 점검.\n- 총회 준비를 위해 IMF 대표단이 태국 총리와 면담.\n- 회의는 방콕의 퀸 시리킷 국립 컨벤션 센터에서 개최될 예정.",
+      "full_translated": "에카니티 니티탄프라팟 재무부 차관은 오늘 IMF 대표단을 아누틴 찬위라쿨 총리에게 안내하여 태국이 2026년 IMF-세계은행 회의를 주최할 준비를 하고 있다고 밝혔습니다. 2026년 3월 5일 오전 9시 30분 정부청사에서 에카니티 니티탄프라팟 부총리 겸 재무부 장관은 오늘 오전 10시 45분에 국제통화기금(IMF) 사무총장을 아누틴 찬위라쿨 총리 겸 내무부 장관에게 안내하여 태국이 세계은행 및 IMF(IMF-세계은행 2026) 회의를 10월에 주최하는 문제에 대해 논의할 것이라고 밝혔습니다. 오늘 그는 퀸 시리킷 국립 컨벤션 센터의 시설 준비 상태를 점검하기 위해 왔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "국제 회의 개최는 호텔, 교통 등 관광 산업에 간접적인 영향을 미칠 수 있으며, 행사 기간 동안 혼잡이 예상됨.",
+      "event_info": {
+        "date": "2026-10-01",
+        "location": "퀸 시리킷 국립 컨벤션 센터, 방콕",
+        "price": "미정",
+        "location_google_map_query": "Queen Sirikit National Convention Center Bangkok"
+      },
+      "references": [
+        {
+          "title": "“เอกนิติ” นำผู้แทน IMF พบนายกฯ เตรียมพร้อมจัดประชุม MF-World Bank 2569 ที่ไทย ต.ค.นี้",
+          "url": "https://www.thairath.co.th/news/politic/2917995",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvBS9vfQxiOGW.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvBS9vfQxiOGW.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "총리, '완노'와 중동 상황 논의: 태국, 중립적 입장 견지",
+      "summary": "- 총리가 '완노' 전 국회의장과 중동 상황에 대한 의견을 교환하며 태국인의 피해 최소화를 모색.\n- 태국은 중립적 입장을 유지하며 평화 협상을 지지한다고 강조.\n- 경제 문제 해결과 신뢰 회복을 위해 신속한 정부 구성이 필요하다고 언급.",
+      "full_translated": "아누틴 찬위라꾼 총리 겸 내무부 장관은 2569년 3월 5일 오전 8시 47분 정부청사에서 업무를 시작하기 전 평소처럼 노르싱하 모형에 참배했습니다. 이후 피팟 랏차킷프라칸 부총리 겸 교통부 장관은 완무하맛노 마타 전 국회의장을 데리고 총리를 만나 태국 쿠파 건물에서 중동 전투 상황에 대해 논의했습니다. 완무하맛노는 총리가 자신을 초청하여 논의했다고 밝혔습니다. 태국이 전쟁 상태에 있지는 않지만, 특히 무슬림 국가에서 상황이 태국인에게 영향을 미칠 수 있으므로 국민을 돌보고 영향을 최소화하기 위한 지침을 논의해야 합니다. 그는 태국의 무슬림은 걱정할 필요가 없다고 확인했습니다. 태국은 중립적 입장을 취하고 있으며 유엔과 아세안 협정을 준수할 준비가 되어 있습니다. 태국은 평화 협상을 지지합니다. 전투 상황이 장기화될지 여부에 대해 완무하맛노는 여러 국가가 관련되어 있기 때문에 평가할 수 없다고 말했습니다. 그러나 중요한 것은 정부가 해당 지역의 태국인을 안전하게 보호하고 태국으로 돌아가기를 원하는 사람들에게 편의를 제공하는 데 신속해야 한다는 것입니다. 이는 외무부와 관련 기관의 책임입니다. 그는 또한 태국이 평화를 사랑하고 어떤 나라와도 갈등이 없다는 이미지를 가지고 있기 때문에 여러 나라가 태국과 협력하여 태국인을 도울 준비가 되어 있다고 믿고 있습니다. 완무하맛노는 또한 해당 지역의 종교 구조에 대해 언급하면서 동쪽의 태국인이...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 정부의 외교적 입장과 관련된 내용으로, 중동 지역의 긴장이 고조될 경우 태국 내 무슬림 사회나 여행객 안전에 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“วันนอร์” เข้าทำเนียบฯ นายกฯ เชิญแลกเปลี่ยนปมสถานการณ์ตะวันออกกลาง ย้ำไทยยึดแนวทางเป็นกลาง",
+          "url": "https://www.thairath.co.th/news/politic/2917993",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvAwMPA6mHhxm.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLqvAwMPA6mHhxm.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "인도네시아, 일본 콜센터 사기단 검거: '경찰' 사칭으로 노인 대상 국제 사기",
+      "summary": "- 인도네시아 경찰이 일본인 13명으로 구성된 콜센터 사기단을 검거했습니다.\n- 이들은 경찰을 사칭하여 일본 노인들을 대상으로 영상 통화 및 온라인 사기를 벌였습니다.\n- 용의자들은 자카르타 인근 보고르 지역에서 체포되었으며, 일본 경찰 제복 및 위조 배지 등이 압수되었습니다.",
+      "full_translated": "인도네시아 경찰이 국제 콜센터 사기단 운영으로 일본인 13명을 체포했습니다. 이들은 경찰을 사칭하여 영상 통화 및 온라인 시스템을 통해 일본의 피해자들을 속여 막대한 피해를 야기했습니다. 율디 유스만 인도네시아 이민국 국장 대행은 피의자 전원이 40~45세이며, 3월 2일 서부 자바주 보고르 지역의 센툴 지역에서 체포되었다고 밝혔습니다. 이번 사건은 2월부터 지역 주민들이 의심스러운 행동을 목격했다는 신고에서 시작되었으며, 조사 결과 해당 주택에서 불법 활동이 발생하고 있음을 확인했습니다. 초기 조사 결과 피의자들은 전화 및 온라인 사기 네트워크의 구성원으로, 일본 노인들을 대상으로 인터넷 전화와 영상 통화를 이용하여 경찰 제복과 위조 배지를 착용하여 신뢰도를 높이고 피해자에게 돈을 이체하도록 압력을 가했습니다. 압수된 증거물로는 일본 경찰 제복, 위조 경찰 배지, 다수의 휴대폰 및 태블릿, 인터넷 공유기, 피의자 여권 등이 있습니다. 일본에서 수백 명의 피해자가 발생했지만, 피의자들이 진술을 거부하고 있어 피해액은 아직 추정할 수 없습니다. 유스만은 인도네시아 이민국이 이러한 성격의 사기 사건으로 일본인을 체포한 것은 이번이 처음이며, 가해자와 피해자가 모두 일본인인 최초의 사건이라고 언급했습니다. 피의자 대부분은 관광 비자로 인도네시아에 입국한 것으로 밝혀졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "사기 수법 및 검거 과정은 흥미롭지만, 한국인 여행객에게 직접적인 영향은 적다고 판단. 다만, 해외에서 발생할 수 있는 사기 유형에 대한 간접적인 경각심을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "센툴 지역, 보고르, 서부 자바, 인도네시아",
+        "price": null,
+        "location_google_map_query": "센툴, 보고르, 서부 자바, 인도네시아"
+      },
+      "references": [
+        {
+          "title": "อินโดนีเซียทลายแก๊งคอลเซ็นเตอร์ญี่ปุ่น! ปลอมเป็น “ตำรวจ” หลอกเหยื่อผู้สูงอายุข้ามชาติ",
+          "url": "https://www.thairath.co.th/news/foreign/2917980",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLquzHTcOoDHY9Q.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLquzHTcOoDHY9Q.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "도피 중인 투자자 '벤 스미스'에 대한 적색 수배 요청",
+      "summary": "- 아누틴 총리는 경찰에 벤자민 마우어버거(일명 '벤 스미스')에 대한 인터폴 적색 수배를 요청했습니다.\n- 이는 사기 사건과 관련된 자산 압류 진행 중 나온 조치입니다.\n- 마우어버거는 태국으로 돌아가지 않겠다는 의사를 밝혔습니다.",
+      "full_translated": "아누틴 차른비라쿨 총리 대행은 경찰에 인터폴과 협력하여 도피 중인 사업가 벤자민 마우어버거(Benjamin Mauerberger, '벤 스미스'로도 알려짐)에 대한 적색 수배를 요청하도록 지시했습니다. 이는 진행 중인 자산 압류 조치와 관련 있습니다.\n\n아누틴 총리는 수요일 기자들에게 중앙수사국(CIB)의 사기 사건 조사와 형사 법원이 2월 26일에 마우어버거와 그의 아내에 대한 체포 영장을 발부한 후 이같이 말했습니다. 이번 조사는 돈세탁방지청(Amlo)이 마우어버거와 관련된 사기 조직과 관련된 130억 바트 이상의 자산을 압류한 데 따른 것입니다.\n\nAmlo가 태국 정치인의 추가 자산을 목표로 하고 있는지 묻는 질문에 아누틴 총리는 모든 조치가 법에 따라 취해질 것이라고 말했습니다. 그의 발언은 마우어버거의 변호사 위툰 켕가(Witoon Kengnga)가 그의 의뢰인이 태국으로 돌아가지 않을 것이라고 말한 후에 나왔습니다. 아누틴 총리는 관계자들에게 인터폴과 협력하라고 지시했다고 밝혔습니다.\n\nAmlo 사무총장 텝수 보원초티다라(Thepsu Bowornchotidara)는 마우어버거의 귀국 거부가 자산 압류 절차에 영향을 미치지 않을 것이라고 말했습니다. 그는 이 사건이 민사 법원에서 Amlo의 법무장관 사무실에 대한 청원을 통해 진행되고 있으며, 마우어버거는 이 조치에 이의를 제기할 권리가 있다고 말했습니다. 한편, 범죄 진압 부서의 Athirat Thipjaroen 경감은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 주요 범죄 관련 뉴스이며, 여행객에게 직접적인 위협은 아니지만 인지할 필요가 있음. 외국인 관련 사건이므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Red notice sought for 'Ben Smith'",
+          "url": "https://www.bangkokpost.com/thailand/general/3210045/red-notice-sought-for-ben-smith",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210045_260305064312_700.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210045_260305064312_700.jpg",
       "date": "2026-03-05"
     }
   ]
