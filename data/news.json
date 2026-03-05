@@ -15813,14 +15813,9 @@
       "summary": "- 치앙마이 지역, 산불로 인한 대기 질 악화, PM2.5 농도 위험 수준.\n- 람팡, 프래 등 북부 지역에 235개의 핫스팟 발생.\n- 어린이, 노약자, 호흡기 질환자는 야외 활동 자제 권고.",
       "full_translated": "치앙마이 - 북부 국경 지방의 대기 질이 급격히 악화되었으며, 북부 지역 대부분에서 산불이 급증하면서 짙은 연무가 도시를 뒤덮고 있습니다. 목요일 아침 위성 데이터에 따르면 람팡(60)과 프래(33)에서 가장 많은 수의 핫스팟이 기록되었으며, 17개 지방에서 235개의 핫스팟이 발견되었습니다. 치앙마이는 핫(Hot) 지역에서 1개의 핫스팟을 보고했습니다.\n\n오염 통제 부서(PCD)는 직경 2.5마이크로미터 이하의 미세먼지(PM2.5) 수치가 치앙마이의 모든 모니터링 스테이션에서 안전 기준을 초과했다고 확인했습니다. 목요일 오전 11시 측정 결과, 24시간 평균치가 51.2~69.4µg/m³ 범위로 나타났으며, 이는 국가 제한치인 37.5µg/m³를 훨씬 웃도는 수치입니다. 대기 질 지수(AQI) 값은 137~185 사이로 건강에 해로운 수준에 도달하여 주민들의 건강에 위험을 초래합니다.\n\n글로벌 모니터링 애플리케이션인 AirVisual은 치앙마이의 대기 질을 AQI 172로 세계에서 다섯 번째로 나쁜 도시로 평가했습니다. 관계자들은 태국 기상청(TMD)의 강우 예보가 없는 한 북부 지방의 PM2.5 수치가 금요일에 위기 수준에 도달할 수 있다고 경고했습니다. 어린이, 노인, 호흡기 질환자를 포함한 취약 계층은 예방 조치를 취할 것을 촉구합니다.\n\n치앙마이 부지사 시와 타미카논은 보건 당국에 호흡기 질환 환자 급증에 대비하여 의료 용품, 장비 및 먼지 없는 방을 확보하도록 지시했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "치앙마이 대기 질 악화는 여행객 건강에 직접적인 위협이 되므로 높은 점수 부여. 매일 업데이트되는 미세먼지 정보는 여행자에게 필수적.",
-      "event_info": {
-        "date": "2026-03-05",
-        "location": "Chiang Mai",
-        "price": null,
-        "location_google_map_query": "Chiang Mai"
-      },
+      "event_info": "{'date': '2026-03-05', 'location': 'Chiang Mai', 'price': None, 'location_google_map_query': 'Chiang Mai'}",
       "references": [
         {
           "title": "Forest fires feed haze blanketing Chiang Mai",
@@ -15831,21 +15826,18 @@
       ],
       "collected_at": "20:56",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210600_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210600/forest-fires-feed-haze-blanketing-chiang-mai",
+      "source": ""
     },
     {
       "title": "사이버 경찰, 개인 정보 불법 조회 혐의로 기소될 예정",
       "summary": "- 사설 탐정에게 피해자의 차량 등록 정보를 불법적으로 제공한 사이버 경찰관이 기소될 예정입니다.\n- 해당 경찰관은 사설 탐정이 피해자를 납치하는 데 일조한 혐의를 받고 있습니다.\n- 경찰은 현재 DNA 감식 결과를 기다리고 있으며, 추가 수사를 진행할 예정입니다.",
       "full_translated": "방콕, 2024년 3월 5일 - '쑤티싼' 경찰은 사설 탐정에게 피해자의 차량 등록 정보를 제공한 사이버 경찰관을 기소할 예정입니다. 이 정보는 피해자를 납치하는 데 사용되었습니다. 2024년 3월 5일 16시 30분에 '끼앗띠꾼 쏜티넨' 경찰청장은 살인 사건에 대한 수사가 진행 중이라고 밝혔습니다. 경찰은 법의학적 증거와 DNA 비교 결과를 기다리고 있습니다. 이 결과에 따라 용의자를 체포할 수 있을지 결정될 것입니다. 경찰은 또한 피해자의 차량에 GPS 추적 장치를 부착한 사설 탐정을 심문했습니다. 탐정은 피해자의 행동을 감시하기 위해 한 여성으로부터 고용되었습니다. 탐정은 여성으로부터 차량 정보를 받았고, 이 정보를 사이버 경찰관에게 전달하여 차량 소유자를 확인했습니다. '끼앗띠꾼' 경찰청장은 사이버 경찰관이 직권을 남용했다면 법적 처벌을 받을 것이라고 밝혔습니다. '쑤티싼' 경찰서의 수사관들은 해당 경찰관을 직무 유기 혐의로 기소할 준비를 하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "범죄 관련 소식이지만, 여행객에게 직접적인 위협은 아니므로 중간 점수를 부여합니다. 다만, 경찰의 부정부패는 잠재적인 위험 요소가 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "จ่อดำเนินคดี \"จ่าสิบตำรวจไซเบอร์\" รับงานเช็กทะเบียนรถ เป็นเหตุให้เหยื่อถูกอุ้มหาย",
@@ -15856,21 +15848,18 @@
       ],
       "collected_at": "20:56",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B3PHUoGnXvi8a.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/crime/2918174",
+      "source": ""
     },
     {
       "title": "태국 기상청, 여름 폭풍과 우기 폭풍의 차이점 비교",
       "summary": "- 태국 기상청은 여름 폭풍과 우기 폭풍의 차이점을 명확히 했습니다.\n- 여름 폭풍은 강한 바람과 갑작스러운 기상 변화가 특징이며, 우기 폭풍은 많은 비를 동반합니다.\n- 여행 시 기상 정보에 유의하여 안전에 대비해야 합니다.",
       "full_translated": "태국 기상청은 여름 폭풍과 우기 폭풍의 차이점을 비교하며 둘은 같지 않다고 강조했습니다. 2069년 3월 5일, 태국 기상청 페이스북 페이지에 '여름 폭풍'과 '우기 폭풍'에 대한 글이 게시되었습니다. \n\n'여름 폭풍'과 '우기 폭풍'은 다르다는 점을 확인하십시오. 여름 폭풍은 '강한 바람과 갑작스러운 변화'가 특징이며, 발생하는 시기는 늦겨울에서 여름 사이입니다. 갑작스럽게 발생하며 빠르게 소멸합니다. 주요 원인은 축적된 더운 공기가 찬 공기 덩어리와 충돌하는 것입니다. 특징은 강풍, 번개, 우박입니다.\n\n반면 우기 폭풍은 '강수량 축적'이 특징이며, 발생하는 시기는 우기입니다 (종종 하루 종일 비가 내립니다). 넓은 지역에 걸쳐 지속적으로 발생하며 며칠 동안 누적됩니다. 주요 원인은 몬순의 영향 또는 저기압입니다. 특징은 많은 비, 폭우가 지속적으로 내리는 것입니다. 태국 기상청 페이스북 페이지에 감사드립니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 시 알아두면 유용한 날씨 정보. 여름 폭풍과 우기 폭풍의 차이점을 알아두면 여행 계획에 도움이 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อุตุฯ เทียบความแตกต่างระหว่าง \"พายุฤดูร้อน\" กับ \"พายุฤดูฝน\" ย้ำไม่เหมือนกัน",
@@ -15881,21 +15870,18 @@
       ],
       "collected_at": "20:56",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B20Pkqb0QuuuM.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.thairath.co.th/news/local/2918169",
+      "source": ""
     },
     {
       "title": "치앙마이에서 마약 운반 용의자 4명 사살, 필로폰 60만 정 압수",
       "summary": "- 치앙마이 매아이 지역에서 보안군과 마약 밀매 조직 간 충돌 발생.\n- 필로폰 60만 정과 사제 총기, 수류탄 압수.\n- 올해 10월 이후 262건의 작전에서 269명 체포, 1억 5220만 정의 필로폰 등 압수.",
       "full_translated": "치앙마이 - 2026년 3월 5일, 치앙마이 북부 매아이 지역에서 보안군과 마약 밀매 조직 간의 충돌로 인해 마약 운반 용의자 4명이 사망하고 60만 정의 메스암페타민 알약이 압수되었습니다. 파무앙 태스크 포스 소속 군인들이 해당 지역을 확보하고 검사하기 위해 배치되었습니다. 무장 그룹의 구성원 4명이 현장에서 사망한 채 발견되었습니다. 60만 정의 필로폰 알약이 들어 있는 개조된 배낭 6개가 회수되었습니다. 당국은 또한 탄약이 있는 사제 총기와 즉석 수류탄 1개를 압수했습니다. 파무앙 태스크 포스 부사령관 미차이 닐삿 대령은 관계 기관의 관계자들을 이끌고 작전 현장을 방문했습니다. 압수된 모든 마약은 법적 조치를 위해 매아이 경찰서에 인계되었습니다. 태스크 포스에 따르면 10월 1일부터 현재까지 당국은 262건의 작전에서 마약을 차단하여 269명의 용의자를 체포했습니다. 약 1억 5220만 정의 필로폰 알약, 1.3kg의 헤로인, 3007.2kg의 크리스탈 메스, 67kg의 아편 및 327.4kg의 케타민이 압수되었습니다. 한 군인이 치앙마이 매아이 지역의 충돌 현장에서 발견된 마약 운반 용의자의 시체를 가리키고 있습니다. 총격전에서 마약 운반 용의자 4명이 사망했습니다. (사진 제공/파누멧 탄락사) 이 기간 동안 마약 밀매 그룹과의 무장 충돌이 34건 발생하여 용의자 25명이 사망했습니다. 관리들은 압수된 마약이 방콕에 도달했다면 막대한 경제적 피해를 초래했을 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "치앙마이 지역 여행 시 주의 필요. 마약 관련 범죄 발생 가능성 상존.",
-      "event_info": {
-        "date": null,
-        "location": "Chiang Mai",
-        "price": null,
-        "location_google_map_query": "Chiang Mai"
-      },
+      "event_info": "{'date': None, 'location': 'Chiang Mai', 'price': None, 'location_google_map_query': 'Chiang Mai'}",
       "references": [
         {
           "title": "Four suspected couriers killed, 600,000 speed pills seized in Chiang Mai",
@@ -15906,21 +15892,18 @@
       ],
       "collected_at": "20:56",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210540_700.jpg",
-      "date": "2026-03-05"
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210540/four-suspected-couriers-killed-600000-speed-pills-seized-in-chiang-mai",
+      "source": ""
     },
     {
       "title": "경찰 훈련 중 실제 발생한 병원 옥상 투신 소동",
       "summary": "- 아란야프라텟 병원에서 경찰 훈련 중 실제 투신 시도 발생.\n- 34세 남성이 가족 문제로 병원 옥상에 올라 소동.\n- 경찰, 남성을 설득하여 안전하게 구조 후 정신과 평가 진행.",
       "full_translated": "사깨오 주 아란야프라텟 병원에서 목요일 아침 일상적인 비상 훈련이 진행되던 중, 경찰관들이 훈련을 중단하고 병원 옥상에 올라간 34세 남성을 구조하여 잠재적인 비극을 막았습니다.\n\n사깨오 경찰에 따르면, 아란야프라텟 경찰서장인 폴 콜 위퐁 콩깨우가 이끄는 순찰 및 수사 팀은 잠재적인 사건에 대비하기 위해 병원 안뜰에서 남성이 조난당한 상황을 시뮬레이션하는 훈련을 실시했습니다.\n\n리허설 중, 한 남성이 병원 옥상에 올라 직원과 환자들 사이에 공황 상태를 일으켰다는 별도의 보고가 들어왔습니다. 경찰관들은 현장으로 달려가 옥상에서 지쳐 극도로 스트레스를 받고 있는 그를 발견했습니다. 경찰관들은 그가 다른 곳을 보고 있는 동안 뒤에서 접근하여 그를 구조하고 건물에서 안전하게 내려오게 했습니다.\n\n그 남성은 시리퐁(34세)으로 확인되었으며, 가족 문제로 고통받고 옥상에서 자살을 시도한 것으로 알려졌습니다. 당국은 시리퐁 씨를 응급실로 보내 정신과 평가 및 면밀한 관찰을 받도록 했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 공공장소에서 발생한 사건이므로 인지 필요. 사건 발생 지역 여행 시 주의 요망.",
-      "event_info": {
-        "date": "2026-03-05",
-        "location": "Aranyaprathet Hospital, Sa Kaeo province",
-        "price": null,
-        "location_google_map_query": "Aranyaprathet Hospital, Sa Kaeo province"
-      },
+      "event_info": "{'date': '2026-03-05', 'location': 'Aranyaprathet Hospital, Sa Kaeo province', 'price': None, 'location_google_map_query': 'Aranyaprathet Hospital, Sa Kaeo province'}",
       "references": [
         {
           "title": "Police drill becomes real rescue as man climbs hospital roof",
@@ -15931,6 +15914,133 @@
       ],
       "collected_at": "20:56",
       "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210505_700.jpg",
+      "date": "2026-03-05",
+      "link": "https://www.bangkokpost.com/thailand/general/3210505/police-drill-becomes-real-rescue-as-man-climbs-hospital-roof",
+      "source": ""
+    },
+    {
+      "title": "방콕에서 리모컨 키 작동 불능 미스터리 해결",
+      "summary": "- 방콕 인타라폰 도로 특정 지점에서 오토바이 리모컨 키 작동 불능 현상 발생\n- 국가방송통신위원회(NBTC) 조사 결과, 정부 기관의 스마트 미터 신호 간섭이 원인\n- 문제 해결을 위해 해당 기관과 협력하여 주파수 간섭 해결",
+      "full_translated": "방콕 인타라폰 도로의 특정 지점에서 오토바이 리모컨 키가 작동하지 않는 미스터리가 해결되었습니다. 국가방송통신위원회(NBTC)에 따르면 이 문제는 정부 기관에서 사용하는 신호로 인해 발생했습니다.\n\n주민과 배달 기사들의 불만이 접수된 후, 주파수 엔지니어들이 왕통랑 지역 인타라폰 소이 10 도로를 따라 무선 주파수를 검사했습니다. 불만을 제기한 사람들은 오토바이를 주차하면 다시 시동을 걸 수 없다고 말했습니다. 많은 사람들이 차량을 해당 지역에서 300~400미터 밀어내야 했고, 이는 배달 기사들에게 귀중한 시간을 낭비하게 했습니다. \n\n언론 보도에 따르면 이 문제는 약 6개월 동안 지속되었으며, 그 원인은 미스터리로 남아 있었습니다. NBTC 부사무총장인 트라이랏 비리야시리쿨은 스펙트럼 분석기를 사용한 예비 조사에서 라이센스를 받은 기관 소유의 스마트 미터가 장착된 전신주 근처에서 무선 주파수 전송이 감지되었다고 밝혔습니다. \n\n이 신호는 차량 리모컨을 포함한 인근 통신 장치 및 스마트 장치에서 사용되는 단거리 무선 주파수인 433MHz 주파수 대역을 간섭했을 수 있다고 트라이랏 씨는 설명했습니다. 익명의 기관과 협력한 후...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행자에게 불편을 초래할 수 있는 오토바이 리모컨 작동 불능 문제 해결 소식. 특정 지역에서 발생하며, 유사한 문제를 겪을 경우 대처 방안을 알 수 있도록 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "인타라폰 도로 (Intharaphon Road), 방콕",
+        "price": null,
+        "location_google_map_query": "Intharaphon Road Bangkok"
+      },
+      "references": [
+        {
+          "title": "Remote-key failure mystery solved in Bangkok",
+          "url": "https://www.bangkokpost.com/thailand/general/3210498/remotekey-failure-mystery-solved-in-bangkok",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210498_260305172610_700.jpg"
+        }
+      ],
+      "collected_at": "21:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210498_260305172610_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "나토, 이란 공격에 대한 트럼프 지지, 동참은 거부",
+      "summary": "- 나토 사무총장은 트럼프의 이란 공격 결정을 지지하며 이란의 위협 제거 필요성을 강조.\n- 나토 동맹국은 이번 분쟁에 직접 참여하지 않을 것이라고 밝힘.\n- 터키는 나토의 방공 시스템이 이란의 미사일을 요격했다고 밝혔으나, 이란은 이를 부인.",
+      "full_translated": "나토 사무총장은 트럼프의 이란 공격 결정을 칭찬하며 이란의 위협을 제거해야 한다고 밝혔지만, 동맹국이 이번 분쟁에 참여하지는 않을 것이라고 강조했습니다. 2069년 3월 5일, 마르크 뤼터 나토 사무총장은 도널드 트럼프 미국 대통령이 이란 공격을 개시한 결정을 칭찬했습니다. 그러나 동시에 나토 동맹국이 이번 분쟁에 참여할 것이라는 생각은 거부했습니다. 뤼터 총장은 이란의 미사일 프로그램 제거를 목표로 하는 미국의 군사적 목표를 언급하며 \"우리는 대통령이 이란의 능력을 파괴하는 것을 지지합니다\"라고 말했습니다. 그는 \"우리는 미래에 이란 또는 이 공화국이 이웃 국가, 이스라엘, 중동 또는 유럽에 심각한 위협을 다시 가할 수 없도록 해야 합니다\"라고 덧붙였습니다. 뤼터 총장의 발언은 터키가 나토의 방공 시스템이 이란에서 발사된 미사일을 요격했다고 밝힌 지 하루 만에 나왔습니다. 이란은 공격에 연루된 사실을 부인했습니다. 뤼터 총장은 성공적인 요격은 나토 회원국의 영토를 방어하는 \"360도 접근 방식\"의 증거라고 언급했지만, 나토가 분쟁에 참여하고 있다는 생각은 거부했습니다. 그러나 그는 미국이 이란을 공격하는 캠페인에서 나토가 중요한 역할을 한다고 강조했습니다. 나토 사무총장은 또한 트럼프 대통령을 지지하는 것에 대해 \"테러와 혼란을 수출하는 이란의 능력을 파괴하기 위한 단호한 조치... 저는 한 국가의 대통령이 이러한 방식으로 리더십을 발휘한다면 칭찬하는 것이 합당하다고 생각합니다\"라고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 직접적인 영향은 적으나, 중동 정세 불안정은 연료 가격 상승 및 잠재적 테러 위협 증가로 이어질 수 있어 인지 필요. 여행객 안전에 간접적인 영향.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ผู้นำนาโตหนุนทรัมป์ถล่มอิหร่าน แต่ปฏิเสธร่วมโจมตี",
+          "url": "https://www.thairath.co.th/news/foreign/2918186",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B19Go38ULNOOY.jpg"
+        }
+      ],
+      "collected_at": "21:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B19Go38ULNOOY.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국 청소년 마약 사용, 위기 단계 도달",
+      "summary": "- 태국 청소년의 마약 문제가 심각한 수준에 이르렀으며, 특히 칸나비스, 크라톰, 메스암페타민에 대한 접근성이 용이해졌습니다.\n- ThaiHealth의 분석에 따르면, 공중 보건 자원 부족에 대한 우려 속에서 긴급한 조치가 필요합니다.\n- 2024년 형사 범죄로 기소된 청소년 13,631명 중 8,971명이 마약 사용 전력이 있으며, 사용자의 연령이 어려지는 추세입니다.",
+      "full_translated": "태국 청소년의 마약 문제는 위기 단계에 도달했습니다. ThaiHealth 조사에 따르면 칸나비스, 크라톰, 메스암페타민과 같은 마약류에 대한 접근성이 용이하며, 치료 자원이 충분하지 않습니다. \n\nThaiHealth의 주요 위험 요소 통제 사무소 책임자인 Rungarun Limlahaphan은 공중 보건 자원 부족에 대한 우려 속에서 긴급한 조치가 필요하다고 말했습니다. 청소년 관찰 및 보호 부서의 데이터에 따르면 2024년에 형사 범죄로 기소된 13,631명의 청소년 중 8,971명이 마약 사용 전력이 있습니다. 대부분은 중학교 저학년, 초등학교, 직업 학교, 고등학교 순으로 재학 중입니다. \n\n이 수치는 마약이 교육 시스템의 낮은 단계에 있는 젊은이들에게까지 위협이 되고 있음을 보여줍니다. 주요 관심사는 마약 사용자의 연령이 낮아지고 있으며, 일부는 11세에 불과합니다. ThaiHealth와 Rocket Media Lab은 최근 젊은이들 사이의 지속적인 마약 관련 행동 및 위험 요인에 대한 분석을 공동으로 진행했습니다. 그 결과, 메스암페타민이 가장 널리 사용되는 물질이지만, 칸나비스와 크라톰의 사용은 비범죄화 이후 급격히 증가했습니다. 8,971명의 약물 남용 전력이 있는 청소년 중 3,240명이 2024년에 칸나비스를 사용했고 1,579명이 크라톰을 사용했습니다. 또한, 더 많은 청소년들이 다양한 물질을 혼합하여 사용하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 마약 문제가 심각해지고 있음을 알리는 기사로, 여행자들에게 주의를 환기시키고 안전에 대한 인식을 높이는 데 도움이 될 수 있습니다. 다만, 여행객에게 직접적인 즉각적 영향을 주는 것은 아니므로 4점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai youth drug use reaches crisis stage",
+          "url": "https://www.bangkokpost.com/thailand/general/3210399/thai-youth-drug-use-reaches-crisis-stage",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210399_260305123317_700.jpg"
+        }
+      ],
+      "collected_at": "21:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260305/c1_3210399_260305123317_700.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "태국 이슬람 지도자, 2026년 3월 19일에 초승달 관측 발표",
+      "summary": "- 태국 이슬람 지도자는 2026년 3월 19일에 초승달을 관측할 예정입니다.\n- 이는 이슬람력의 샤왈 달(이드 알피트르) 시작일을 결정하기 위함입니다.\n- 관측 결과는 전국 무슬림들에게 발표될 예정입니다.",
+      "full_translated": "태국 이슬람 지도자 사무실은 샤왈 달(이드 알피트르)의 시작일을 결정하기 위해 2026년 3월 19일 목요일에 초승달을 관측할 것이라고 발표했습니다. 사무실은 전국 무슬림들에게 해당 날짜에 하늘을 관찰하고 초승달을 발견하면 지방 이슬람 위원회 사무실에 보고하여 위원회가 초승달 관측 결과를 태국 이슬람 지도자에게 보고하도록 요청했습니다. 이는 무슬림들에게 알리기 위한 발표를 하기 위함입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 문화와 관련된 종교 행사 정보이며, 해당 기간에 태국을 방문하는 여행객들에게 문화적 맥락을 제공할 수 있음. 직접적인 여행 제약이나 안전 문제는 없으므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-03-19",
+        "location": "전국",
+        "price": "무료",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "\"จุฬาราชมนตรี\" ประกาศดูดวงจันทร์ 19 มีนาคม 2569 กำหนดวันอีฎิ้ลฟิตริ",
+          "url": "https://www.thairath.co.th/news/society/2918181",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B180zewhkxe74.jpg"
+        }
+      ],
+      "collected_at": "21:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B180zewhkxe74.jpg",
+      "date": "2026-03-05"
+    },
+    {
+      "title": "2569년 태국 총선 결과 발표: 정당별 득표수 및 의석수",
+      "summary": "- 태국 선거관리위원회(꼬꼬떠.)는 2026년 총선 결과를 발표하며 정당별 득표수와 의석수 계산을 공개했습니다.\n- 총 57개 정당의 비례대표 의석수 계산 결과가 포함되어 있습니다.\n- 투표율이 가장 높았던 10개 주의 정보도 함께 제공됩니다.",
+      "full_translated": "2569년 3월 5일 18시 40분, 태국 선거관리위원회는 지역구 및 비례대표 선거 결과 요약을 발표했습니다. 다음은 주요 내용입니다.\n\n1. 77개 지방의 지역구 및 비례대표 선거 득표수 합산 결과 보고서\n2. 투표율 상위 10개 주\n3. 2569년 2월 8일 국회의원 선거 및 국민투표 참여 정보\n4. 지역구 및 비례대표 선거 결과 발표된 국회의원 수\n5. 비례대표 의석수 계산\n\n득표수 합산 결과, 투표자 수가 유효표, 무효표, 기권표 합계와 일치하지 않는 경우가 있습니다. 이는 유권자가 투표소에 왔지만 투표용지를 받지 않거나, 투표용지를 투표함에 넣지 않거나, 투표용지를 찢거나, 투표소에서 투표용지를 가져가거나, 투표 관리인이 표를 과도하게 또는 불충분하게 표시하거나, 일부 해외 투표용지가 한 종류의 투표용지만 반환되는 등 여러 가지 이유 때문입니다. 선거관리위원회는 이러한 경우에 따라 재투표 또는 개표를 명령했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "총선 결과는 태국 정치 상황에 대한 이해를 돕고, 여행 관련 정책 변화 가능성을 내포하고 있습니다. 하지만 직접적인 여행 영향은 적다고 판단됩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กกต. สรุปข้อมูลเลือกตั้ง 2569 เปิดคะแนนทั้งหมด-การคำนวณ สส.ปาร์ตี้ลิสต์ทุกพรรค",
+          "url": "https://www.thairath.co.th/news/politic/2918184",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B19OHoOnxUqPZ.jpg"
+        }
+      ],
+      "collected_at": "21:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B19OHoOnxUqPZ.jpg",
       "date": "2026-03-05"
     }
   ]
