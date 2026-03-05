@@ -16365,14 +16365,9 @@
       "summary": "- 파타야 시, 촌부리 지방의 구걸 행위에 대한 단속에 동참.\n- 사회복지, 경찰, 이민국 등 관련 기관 협력.\n- 파타야 해변 도로, 세컨드 로드, 왓 차이 몽콜 사원 앞에서 집중 단속 실시.",
       "full_translated": "파타야 시는 촌부리 지방의 질서 유지 및 이미지 개선을 위해 구걸 행위에 대한 단속에 참여했습니다. 라차니 워라랏 촌부리 지방 삶의 질 보호 및 진흥 센터 소장, 파나다 앗토히 파타야 부시 서기, 지라왓 수콘타탑 경찰 대령, 키티팟 홍추웨지 촌부리 지방 이민국 검사관을 포함한 관계자들이 개회식에 참석했습니다. 사회복지사무소 사회복지과, 시 서기실 행정과의 평화질서유지부대(특별업무), 촌부리 지방 삶의 질 보호 및 진흥센터, 파타야 시 경찰서, 이민국 경찰 인력이 합동 단속에 참여했습니다. 단속팀은 파타야 해변 도로, 파타야 세컨드 로드, 왓 차이 몽콜 왕립 사원 앞 세 구역으로 나뉘어 집중 단속을 실시했습니다. 이번 단속으로 태국인 남성 3명, 태국인 여성 2명, 태국인 어린이 2명을 포함한 총 9명의 구걸 관련자가 체포되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 구걸 단속이 강화되어 여행객들이 불편을 겪거나 관련 법규를 위반하지 않도록 주의가 필요함. 관광지 이미지를 개선하려는 노력의 일환으로 볼 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변 도로, 파타야 세컨드 로드, 왓 차이 몽콜 왕립 사원",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach Road, Pattaya Second Road, Wat Chai Mongkol Royal Temple"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변 도로, 파타야 세컨드 로드, 왓 차이 몽콜 왕립 사원', 'price': None, 'location_google_map_query': 'Pattaya Beach Road, Pattaya Second Road, Wat Chai Mongkol Royal Temple'}",
       "references": [
         {
           "title": "Pattaya City Joins Crackdown on Begging in Chonburi Province to Maintain Order and Image",
@@ -16381,23 +16376,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727283752024555874140347276721.jpg?v=1772728434"
         }
       ],
-      "collected_at": "03:03",
+      "collected_at": "3:03",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727283752024555874140347276721.jpg?v=1772728434",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://thepattayanews.com/2026/03/05/pattaya-city-joins-crackdown-on-begging-in-chonburi-province-to-maintain-order-and-image/",
+      "source": ""
     },
     {
       "title": "파타야, 프라 쁘라타니밋 도로 확장 위해 공공 공간 정비",
       "summary": "- 파타야 시, 프라 쁘라타니밋 도로 확장을 위한 공공 공간 정비 진행.\n- 사유지 건물 철거 후 도로 재포장 완료, 추가 확장 계획.\n- 전신주 이전 및 표지판 철거 후 아스팔트 콘크리트 덧씌우기 예정.",
       "full_translated": "파타야 시는 프라 쁘라타니밋 도로 확장을 위해 공공 공간 정비를 진행하고 있습니다. 시 계획 부서와 엔지니어링 부서의 관계자들이 참여하여 프로젝트에 대한 자세한 업데이트를 제공했습니다.\n\n포라멧 시장은 해당 부지에 이전에는 공공 도로 공간을 침범하는 구조물이 있었다고 설명했습니다. 시는 건물 소유주와의 협상과 이후 불법 건축물 철거를 통해 해당 구간의 프라 쁘라타니밋 도로 재포장을 완료했습니다.\n\n향후 시정부는 해당 지역의 공공 도로 사용 권한을 더욱 확대할 계획입니다. 다음 단계는 지방 전력청과의 협력을 통해 전신주 2개를 이전하고 관련 기업과 협력하여 사유지 표지판을 철거하는 것입니다. 또한, 부지에 있는 성황당 (싼 프라품)도 이전할 예정입니다.\n\n이러한 이전이 완료되면 엔지니어링 부서는 아스팔트 콘크리트 덧씌우기를 통해 도로 개선을 수행할 것입니다. 이러한 접근 방식은 시가 최근 사우스 파타야 도로의 우회 도로 건설에 사용한 방식과 유사합니다.\n\n이번 계획은 도로를 크게 확장할 것으로 예상됩니다. 계획 지도에서 녹색으로 표시된 침범 구조물을 제거하면 약 4미터 x 60미터의 사용 가능한 도로 공간이 추가됩니다. 이를 통해 특정 구간에서 전체 도로 폭이 12~14미터로 늘어나 차량 흐름, 특히 회전 기동성이 크게 향상될 것입니다.\n\n이 프로젝트는 효율성을 극대화하고 도로를 개선하려는 시의 정책과 일치합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 도로 확장으로 교통 흐름 개선 예상되나, 여행객에게 즉각적인 큰 영향은 없음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 프라 쁘라타니밋 도로",
-        "price": null,
-        "location_google_map_query": "프라 쁘라타니밋 도로 파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야 프라 쁘라타니밋 도로', 'price': None, 'location_google_map_query': '프라 쁘라타니밋 도로 파타야'}",
       "references": [
         {
           "title": "Pattaya City Advances Reclamation of Public Space to Widen Phra Prathanimit Road",
@@ -16406,23 +16398,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_177273045258475674630867593997.jpg?v=1772730514"
         }
       ],
-      "collected_at": "03:03",
+      "collected_at": "3:03",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_177273045258475674630867593997.jpg?v=1772730514",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://thepattayanews.com/2026/03/06/pattaya-city-advances-reclamation-of-public-space-to-widen-phra-prathanimit-road/",
+      "source": ""
     },
     {
       "title": "파타야, ITB 베를린 2026 참가: 독일 관광객 증가 추세",
       "summary": "- 파타야 대표단이 세계 최대 여행 무역 박람회인 ITB 베를린 2026에 참가하여 독일 시장 확대에 주력.\n- 2025년 태국을 방문한 독일 관광객은 965,898명으로 전년 대비 10.60% 증가, 2026년 초에도 증가세 지속.\n- 독일 관광객은 주로 처음 방문하는 개별 여행객(FIT)이며, 방콕, 푸껫, 치앙마이 등에서 해변 휴가, 가족 여행, 건강 및 웰니스 경험을 선호.",
       "full_translated": "파타야 대표단이 독일 베를린에서 2026년 3월 3일부터 5일까지 열린 세계 최대 여행 무역 박람회인 ITB 베를린에 참가했습니다. 올해 박람회는 '60년 유산 뒤에 숨겨진 이야기 발견'이라는 모토 아래 60주년을 맞이했으며, '균형을 이루는 관광 주도'라는 컨벤션 주제로 지속 가능한 관광 관행과 글로벌 여행 산업 전반의 균형 달성에 초점을 맞췄습니다. 독일은 태국에게 중요한 장거리 시장입니다. 2025년 태국은 965,898명의 독일 방문객을 맞이하여 전년 대비 10.60%의 견고한 성장률을 보였습니다. 이러한 상승 추세는 2026년 초에도 이어져 1월 1일부터 31일 사이에 155,700명의 독일 관광객이 도착하여 전년 대비 2.55% 증가했습니다. 태국을 방문하는 독일 여행객은 주로 처음 방문하는 개별 여행객(FIT)입니다. 인기 있는 목적지는 방콕, 수랏타니, 푸껫, 끄라비, 치앙마이입니다. 주요 선호 사항으로는 해변 휴가, 가족 여행, 건강 및 웰니스 경험이 있습니다. 평균적으로 15.58박을 머무르며 성수기는 1월~3월, 11월~12월입니다. ITB 베를린 2026에 파타야 대표단의 참가로 파타야는 프리미엄 관광 목적지로서의 입지를 확고히 하고 유럽 시장, 특히 독일 시장에서 입지를 넓히는 데 주력하고 있습니다. 또한 지속 가능한 관광 이니셔티브를 발전시키고자 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "독일 관광객 증가 추세 및 파타야의 관광 마케팅 전략 관련 정보는 여행객들에게 흥미로운 로컬 뉴스가 될 수 있음.",
-      "event_info": {
-        "date": "2026-03-03",
-        "location": "Berlin Exhibition Grounds (Messe Berlin)",
-        "price": "N/A",
-        "location_google_map_query": "Messe Berlin"
-      },
+      "event_info": "{'date': '2026-03-03', 'location': 'Berlin Exhibition Grounds (Messe Berlin)', 'price': 'N/A', 'location_google_map_query': 'Messe Berlin'}",
       "references": [
         {
           "title": "Pattaya City Delegation Joins Royal Welcome at ITB Berlin 2026 as German Tourism Increases Year Over Year to Thailand",
@@ -16430,22 +16419,20 @@
           "source": "The Pattaya News"
         }
       ],
-      "collected_at": "03:03",
-      "date": "2026-03-06"
+      "collected_at": "3:03",
+      "image_url": "",
+      "date": "2026-03-06",
+      "link": "https://thepattayanews.com/2026/03/05/pattaya-city-delegation-joins-royal-welcome-at-ITB-berlin-2026-as-german-tourism-increases-year-over-year-to-thailand/",
+      "source": ""
     },
     {
       "title": "파타야, LINE Thailand Awards에서 정부 E-서비스 최우수상 수상",
       "summary": "- 파타야 시, LINE Thailand Awards에서 정부 E-서비스 부문 특별상 수상.\n- LINE Official Account 'Pattaya Connect'를 통한 디지털 공공 서비스 개발 공로 인정.\n- 시민들에게 정보, 뉴스, 다양한 서비스에 대한 편리하고 빠른 액세스 제공.",
       "full_translated": "파타야 시는 LINE Thailand Awards에서 권위 있는 정부 E-서비스 최우수상을 수상했습니다.\n\n나타폰 티라웃워라웻 전략예산실장과 관련 부서장 및 공무원들이 시상식에 파타야시를 대표하여 참석했습니다. 그들은 시를 대표하여 상을 받았고, 이 업적을 기념하고 대중을 위한 디지털 서비스의 지속적인 발전을 위한 사기를 진작하기 위해 포라메스 시장에게 상을 전달했습니다. 정부 E-서비스 부문 특별상은 LINE Official Account 'Pattaya Connect'를 통해 공공 서비스를 디지털 형식으로 개발하고 발전시킨 뛰어난 성과를 인정받아 파타야 시에 수여되었습니다. 이 플랫폼을 통해 주민들은 정보, 뉴스 및 다양한 서비스에 편리하고 신속하며 효율적으로 액세스할 수 있습니다. 이번 상의 심사 기준에는 대중에게 광범위한 혜택을 제공하고, 서비스 절차를 줄이면서 편의성을 높이고, 처리 시간을 단축하고, 디지털 기술을 적절하게 적용하여 실질적인 결과를 달성하는 능력이 포함되었습니다. LINE Thailand Awards 2025 시상식은 마케팅, 커뮤니케이션, 사용자 경험 창출, 기술 개발과 같은 분야에서 LINE 플랫폼 솔루션을 사용하여 조직 발전을 주도한 뛰어난 결과를 보여준 기업, 정부 기관 및 주요 브랜드를 기념합니다. 올해는 Top Achievement, Special Recognition, Best in Class의 세 가지 주요 그룹에서 총 48개의 상이 수여되었습니다. 이번 수상은 디지털 서비스를 통해 시민들에게 다가가기 위한 파타야 시의 강력한 의지를 보여줍니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야시의 디지털 서비스 개선은 관광객에게도 편리함을 제공할 수 있으므로 정보 가치가 있다고 판단됨. 관광 관련 정보 접근성이 개선될 여지가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya City Receives Prestigious Best Government E-Service Award at LINE Thailand Awards",
@@ -16454,23 +16441,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727280751216566393004289885851.jpg?v=1772728120"
         }
       ],
-      "collected_at": "03:03",
+      "collected_at": "3:03",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727280751216566393004289885851.jpg?v=1772728120",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://thepattayanews.com/2026/03/05/pattaya-city-receives-prestigious-best-government-e-service-award-at-line-thailand-awards/",
+      "source": ""
     },
     {
       "title": "젤렌스키, 미국으로부터 이란 드론 위협 대응 지원 요청 받아",
       "summary": "- 젤렌스키 우크라이나 대통령은 미국으로부터 페르시아만 지역의 이란 드론 공격에 대한 지원 요청을 받았다고 발표함.\n- 미국은 우크라이나의 전문 지식과 자원을 활용하여 동맹국을 보호하고자 함.\n- 젤렌스키는 자국 방어에 지장이 없고 외교적 이익이 된다면 지원을 제공할 의향을 밝힘.",
       "full_translated": "볼로디미르 젤렌스키 우크라이나 대통령은 미국이 우크라이나에 페르시아만 지역에서 미국의 동맹국을 이란의 드론 공격으로부터 보호하는 데 도움을 요청했다고 밝혔습니다. 이는 중동 지역의 전쟁 상황이 진정될 기미를 보이지 않는 가운데 나온 요청입니다.\n\n젤렌스키 대통령은 우크라이나의 동맹국들이 연락을 취해 왔으며 미국 측으로부터 요청이 있었다고 말했습니다. 그는 필요한 자원을 준비하고 필요한 안보를 보장할 수 있는 우크라이나 전문가를 파견하라는 명령을 내렸습니다. \n\n도널드 트럼프 대통령은 우크라이나의 제안에 대한 질문에 \"모든 국가의 도움을 기꺼이 받겠다\"고 답했습니다.\n\n젤렌스키 대통령은 우크라이나 자체 방어가 약화되지 않고 키이우에 대한 외교적 이익이 보장된다는 조건 하에 지원을 제공할 것이라고 분명히 밝혔습니다. 특히 우크라이나는 미국의 패트리어트 방공 시스템을 추가로 요청하는 대가로 드론 차단 기술을 제공할 의향이 있다고 제안했습니다. 이는 러시아의 공격으로부터 우크라이나를 보호하기 위한 것입니다.\n\n중동 전쟁은 동맹국들이 새로운 갈등에 관심을 돌릴 경우 우크라이나가 영향을 받을 수 있다는 우려를 불러일으켰습니다. 또한 요격 미사일 부족과 러시아가 전쟁 자금의 주요 원천인 고유가로부터 이익을 얻을 수 있다는 우려도 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세 불안은 잠재적 위험 요소가 될 수 있으므로 낮은 점수로 기록. 다만, 여행 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เซเลนสกีเผย สหรัฐฯ ขอยูเครน ช่วยรับมือโดรนอิหร่าน",
@@ -16479,8 +16463,110 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7tEOe5qaKjP1.jpg"
         }
       ],
-      "collected_at": "03:03",
+      "collected_at": "3:03",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7tEOe5qaKjP1.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/foreign/2918200",
+      "source": ""
+    },
+    {
+      "title": "파타야, 러시아인 운영 불법 대마 가공 공장 급습",
+      "summary": "- 파타야 당국이 불법 외국인 노동 및 관련 범죄 단속 중 러시아인이 운영하는 대마 가공 시설을 급습했습니다.\n- 현장에서 판매용으로 포장된 대마초와 가공 장비 다수가 발견되었습니다.\n- 러시아 국적의 용의자는 허가 없이 통제된 약초를 가공 및 유통하고 유효한 노동 허가 없이 태국에서 일한 혐의로 기소되었습니다.",
+      "full_translated": "3월 5일 오후 4시경, 촌부리 지방 파타야 검문소의 이민국 경찰이 주도하는 합동 태스크 포스는 불법 외국인 노동 및 관련 범죄를 대상으로 파타야 지역에서 검사를 실시했습니다. 이번 작전은 데초 소수완나쿨 이민국 3지역 부사령관의 감독하에 나팟퐁 코싯 수리야마니 촌부리 이민국 경찰서장, 카윈왓 아라야수리웡 부서장, 킷티팟 홍추웨 이민국 조사관이 현장에서 이끌었습니다. 팀은 방라뭉 지역 보건소, 방라뭉 지역 행정부, 파타야 시 경찰서 관계자들과 협력했습니다. 경찰은 농프루 하위 지역의 한 주택을 수색하여 이반 리소보이(27세, 러시아 국적) 씨를 해당 시설의 책임자로 확인했습니다. 급습 과정에서 당국은 판매용으로 포장된 건조 대마초 48봉지와 다음을 포함한 광범위한 가공 장비를 발견했습니다.\n\n- 건조 오븐 1개\n- 냉장고 1대\n- 사전 포장된 \"YUMMY FROST\" 브랜드 가방 3상자\n- 대마 가공에 사용되는 추가 품목 13개\n\n용의자는 다음 혐의로 예비 기소되었습니다.\n\n- B.E. 2542(1999) 태국 전통 의학 지혜 보호 및 증진법 위반, 허가 없이 통제된 약초 의약품을 가공 또는 유통\n- 외국인으로서 유효한 노동 허가 없이 태국에서 취업, 고용법에 따라.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 외국인이 운영하는 불법 대마 가공 공장 급습 사건으로, 여행객에게는 직접적인 위협은 아니지만, 파타야의 치안 및 법 집행 상황에 대한 정보를 제공하므로 중간 정도의 중요도를 가집니다.",
+      "event_info": {
+        "date": "2026-03-05",
+        "location": "농프루, 파타야",
+        "price": null,
+        "location_google_map_query": "Nong Prue Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Authorities Raid Unauthorized Cannabis Processing Operation Run by Russian National",
+          "url": "https://thepattayanews.com/2026/03/06/pattaya-authorities-raid-unauthorized-cannabis-processing-operation-run-by-russian-national/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727412117365345433099248746746.jpg?v=1772742632"
+        }
+      ],
+      "collected_at": "03:58",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727412117365345433099248746746.jpg?v=1772742632",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "파타야 인근 철도에서 중국인 남성 변사체 발견",
+      "summary": "- 파타야 인근 카오 탈로 철도 근처에서 중국 국적 남성이 목을 매 숨진 채 발견됨.\n- 현장에는 중국어 자필 편지 3통이 발견되었으며, 경찰은 자살 가능성에 무게를 두고 수사 중.\n- 경찰은 정확한 사망 원인과 편지 내용을 조사할 예정.",
+      "full_translated": "파타야 뉴스에 따르면 오전 9시경, 방라뭉 경찰서의 라차폰 세니웡 부경감은 농프루 지역 철로변 도로에서 시신이 발견되었다는 신고를 받았습니다. 경찰은 파타야의 싸왕 보리분 탐마사탄 재단의 자원봉사자들과 협력하여 현장을 조사했습니다. 현장에서는 중국 국적의 외국인 남성으로 추정되는 사망자가 철도 옆 호텔 오토바이 주차장 지붕 구조의 강철 빔에 목을 매 숨진 채 발견되었습니다. 남성은 흰색 꽃무늬가 있는 파란색 라운드넥 티셔츠, 검은색 코끼리 무늬 긴 바지, 흰색 운동화를 착용하고 있었습니다. 남성을 빔에 묶어 목을 맨 데에는 나일론 끈이 사용되었으며, 이로 인해 사망에 이르게 되었습니다. 근처에는 중국어로 된 자필 편지 3통이 바닥에 놓여 있었고, 이는 증거물로 수집되었습니다. 초기 가정은 이 편지들이 유서일 가능성을 시사하지만, 경찰은 편지의 내용과 진위 여부를 판단하기 위해서는 완전한 번역과 상세한 조사가 필요하다고 설명했습니다. 시신을 발견한 41세 태국 남성인 에카포즈 눈디는 경찰에 자신이 아침에 아이에게 물을 배달하러 이 지역을 지나갔을 때는 특이한 점을 발견하지 못했다고 말했습니다. 그러나 돌아오는 길에 시신을 발견하고 충격을 받았습니다. 그는 즉시 정신을 차리고 당국에 연락했습니다. 경찰은 현장을 사진으로 기록하고 편지를 가져갔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 외국인 사망 사건 발생. 여행객 안전에 대한 우려를 유발할 수 있으며, 특히 해당 지역을 방문하는 여행객에게 주의가 필요.",
+      "event_info": {
+        "date": null,
+        "location": "카오 탈로 철도 인근, 파타야",
+        "price": null,
+        "location_google_map_query": "카오 탈로 철도"
+      },
+      "references": [
+        {
+          "title": "Mysterious Death of Chinese Man Found Hanging Near Khao Talo Railway in Pattaya",
+          "url": "https://thepattayanews.com/2026/03/05/mysterious-death-of-chinese-man-found-hanging-near-khao-talo-railway-in-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17727235608222776579939099626435.jpg?v=1772723645"
+        }
+      ],
+      "collected_at": "03:58",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17727235608222776579939099626435.jpg?v=1772723645",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "파타야, 유네스코 영화 창의 도시 지위 추진을 위한 창의 지구 이니셔티브 시작",
+      "summary": "- 파타야가 유네스코 영화 창의 도시 지위 획득을 위해 창의 지구 개발 이니셔티브를 시작했습니다.\n- 3월 5일 나 끌루아 로열 가든에서 '파타야 창의 도시 포워드' 행사가 개최되었습니다.\n- 이 이니셔티브는 파타야 지역의 문화 자본과 고유한 정체성을 활용하여 창의적인 생태계를 구축하는 데 중점을 둡니다.",
+      "full_translated": "파타야는 영화 분야 유네스코 창의 도시 지위 획득을 위해 창의 지구 이니셔티브를 시작했습니다. 행사는 3월 5일 오후 5시 30분 파타야의 나 끌루아 로열 가든(Suan Satharana Chaloem Phra Kiat Na Kluea)에서 열렸습니다. 이 행사는 '유네스코 영화 창의 도시로서 파타야를 위한 네트워크 개발 및 인식 제고' 프로젝트의 일환으로 창의 지구 개발을 추진하기 위한 활동을 시작했습니다. 이 행사는 '파타야 창의 도시 포워드: 세계적 수준의 창의 도시를 향한 파타야 발전'이라는 주제로 개최되었으며, 파타야 시의회 의원, 파타야 시의회 사무총장, 촌부리 지방 행정 기구 대표, 지속 가능한 관광 관리를 위한 지정 구역 관리 기구(DASTA) 파타야, 태국 관광청 파타야 사무소, 촌부리 지방 문화 사무소, 파타야 시 문화 위원회, 파타야 비즈니스 및 관광 협회 등 파트너 기관의 지도자를 포함한 많은 인파가 몰렸습니다. 정부 기관장, 파타야 제휴 학교의 학교 관리자 및 학생, 많은 지역 주민도 참석했습니다. 이 이니셔티브는 파타야 지역의 문화 자본, 고유한 정체성 및 공동체 생활 방식을 활용하여 창의적인 지구를 개발하는 데 중점을 둡니다. 목표는 지역 사회가 협력하여 구체적이고 지속적인 방식으로 지속 가능한 창의적 활동을 만들 수 있는 창의적인 생태계를 구축하는 것입니다. 프로그램에는 참가자에게 꿈속의 나 끌루아(Na Kluea in Dreams)라는 워크숍이 포함되어 참가자들이 아이디어를 디자인하고 제안할 수 있는 열린 공간을 제공했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야의 문화적 발전은 관광객에게 새로운 경험을 제공할 수 있으므로 중간 점수 부여. 행사 정보 포함.",
+      "event_info": {
+        "date": "2026-03-05",
+        "location": "Na Kluea Royal Garden (Suan Satharana Chaloem Phra Kiat Na Kluea), Pattaya",
+        "price": "무료",
+        "location_google_map_query": "Na Kluea Royal Garden Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Advances Toward UNESCO Creative City of Film Status with Launch of Creative District Initiative",
+          "url": "https://thepattayanews.com/2026/03/05/pattaya-advances-toward-unesco-creative-city-of-film-status-with-launch-of-creative-district-initiative/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727277864098913634410513446568.jpg?v=1772727853"
+        }
+      ],
+      "collected_at": "03:58",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727277864098913634410513446568.jpg?v=1772727853",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "파타야 맛집: Home and Away Honey Pizza, 최고의 피자",
+      "summary": "- 파타야 중심부에 위치한 Honey Pizza는 뛰어난 맛과 분위기로 호평.\n- 3시부터 늦게까지 영업하며, 현지인과 관광객 모두에게 인기 있는 곳.\n- 특히 도우가 훌륭하며, 페페로니 피자는 균형 잡힌 맛을 제공.",
+      "full_translated": "Home and Away Honey Pizza는 파타야 중심부에서 최고의 피자를 제공합니다 (5성급). 이 리뷰는 게스트 기고가 Andy Salthouse가 작성했습니다. 이는 유료 또는 스폰서 게시물이 아니며 독자의 제출물입니다. 사진은 그의 것이며 AI가 아니며 긍정적인 경험을 반영합니다. 오후 3시부터 늦게까지 영업하는 Honey Pizza는 이른 저녁 식사를 즐기는 사람들과 밤에 활동하는 사람들 모두를 위해 갓 구운 피자를 제공합니다. 편안한 분위기에서 좋은 사람들과 어울려 진정으로 중요한 것, 즉 훌륭한 피자에 집중하기 쉽습니다. 가격은 합리적이고 접근 가능하여 허세 없이 품질을 추구하는 현지인과 방문객 모두에게 목적지가 됩니다. 방문하는 동안 5명의 다른 손님이 있었고, 곧 우리는 음식에 대한 대화에 참여했습니다. 그것만으로도 많은 것을 말해줍니다. 낯선 사람들이 맛, 질감 및 기술에 대해 이야기하기 시작하면 특별한 일이 일어나고 있다는 것을 알 수 있습니다. 도우가 즉시 눈에 띄었습니다. 가볍고 통풍이 잘되고 밑에서 아름답게 조리되었으며 모든 진지한 피자를 위한 필수 벤치마크입니다. 너무 자주 간과되는 이곳의 베이스는 승리입니다. 페페로니를 선택했는데 실망시키지 않았습니다. 이상적인 피자는 천천히 정확하게 발효된 도우로 시작되며 이는 모든 한 입에서 분명했습니다. 빵 껍질은 훌륭하게 바삭한 외관을 가지고 있었고 내부적으로는 부드럽고 구조화되어 있었습니다. 소스는 균형이 잡혀 있었고 적절한 단맛 힌트와 함께 가벼운 톡 쏘는 맛을 제공했습니다. 아무것도 입맛을 압도하지 않았습니다. 모든 것이 조화롭게 작동했습니다. 정말로 e",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야의 새로운 맛집 정보. 관광객에게 유용한 로컬 정보로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": "합리적인 가격",
+        "location_google_map_query": "Home and Away Honey Pizza 파타야"
+      },
+      "references": [
+        {
+          "title": "Home and Away Honey Pizza The Best of the Best in the Heart of Pattaya",
+          "url": "https://thepattayanews.com/2026/03/05/home-and-away-honey-pizza-the-best-of-the-best-in-the-heart-of-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17727251090063611527327595682156.jpg?v=1772725394"
+        }
+      ],
+      "collected_at": "03:58",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17727251090063611527327595682156.jpg?v=1772725394",
       "date": "2026-03-06"
     }
   ]
