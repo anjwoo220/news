@@ -16584,14 +16584,9 @@
       "summary": "- 2026년 3월 4일 밤 11시 30분경, 방라뭉에 위치한 P&M Recycle Co., Ltd.에서 화재 발생.",
       "full_translated": "2026년 3월 4일 밤 11시 30분경, 퐁 시립 소방서의 소방관들이 퐁 지역 36번 고속도로와 평행한 도로 77번지에 위치한 P&M Recycle Co., Ltd.에서 발생한 화재 신고를 받았습니다. 이 회사는 스크랩 자재를 구매 및 가공하는 전문 업체입니다. 소방대는 물탱크를 가지고 도착하여 건물 외부의 나무 팔레트 더미를 집어삼키는 강렬한 불길을 발견했습니다. 화재를 진압하려는 초기의 노력에도 불구하고, 가연성 물질이 풍부하여 불길이 빠르게 확산되었습니다. 추가 소방차와 인력을 요청하여 인근 4개 지방 자치 단체에서 지원했습니다. 현장은 약 1라이(약 0.4에이커)를 덮고 있으며, 내부에는 비닐 봉지에 담긴 플라스틱 병, 종이, 오래된 가스 실린더 및 사용된 오일 드럼이 대량으로 들어 있었고, 나무 팔레트는 외부에 쌓여 있었습니다. 이러한 물질들은 강렬한 불길을 부채질했습니다. 회사 관리 대행인 44세의 와루니 찰름판은 당국에 사업체가 다양한 스크랩 품목을 구매하고 있으며, 뒤쪽에는 약 4~5명의 직원이 거주하는 기숙사가 있다고 말했습니다. 화재 당시 여러 직원이 현장에 있었습니다. 직원들은 나무 타는 소리와 비슷한 소리를 듣고 조사하기 위해 뛰쳐나갔다가 이미 팔레트가 불타고 있는 것을 발견했습니다. 그들은 휴대용 소화기를 사용하여 불을 끄려고 시도했지만 실패하여 긴급 서비스에 연락했습니다. 소방관들은 불길을 잡기 위해 약 1시간 30분 동안 작업했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 인근 지역에서 발생한 화재 사건으로, 안전에 대한 인식을 환기시킬 필요가 있음. 부상자는 없으나, 여행객이 해당 지역을 방문할 경우 주의가 필요함.",
-      "event_info": {
-        "date": "2026-03-04",
-        "location": "P&M Recycle Co., Ltd., 방라뭉",
-        "price": null,
-        "location_google_map_query": "P&M Recycle Co., Ltd. Banglamung"
-      },
+      "event_info": "{'date': '2026-03-04', 'location': 'P&M Recycle Co., Ltd., 방라뭉', 'price': None, 'location_google_map_query': 'P&M Recycle Co., Ltd. Banglamung'}",
       "references": [
         {
           "title": "Late-Night Fire Engulfs Scrap Recycling Company in Banglamung, No Injuries Reported",
@@ -16600,23 +16595,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17727241888536707089614392550048.jpg?v=1772724266"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17727241888536707089614392550048.jpg?v=1772724266",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://thepattayanews.com/2026/03/05/late-night-fire-engulfs-scrap-recycling-company-in-banglamung-no-injuries-reported/",
+      "source": ""
     },
     {
       "title": "태국, 장거리 단체 여행 확대를 위해 발칸반도 관광 시장 공략 - TTG Asia",
       "summary": "- 태국 관광청(TAT)이 장거리 여행 시장 다변화를 위해 발칸 반도 지역을 새로운 목표 시장으로 설정함.\n- 크로아티아, 세르비아, 슬로베니아 등 발칸 국가 여행사들과 협력하여 태국 여행 상품 개발 및 홍보를 강화할 예정.\n- TAT는 발칸 지역의 경제 성장과 여행 수요 증가에 주목하고 있으며, 맞춤형 상품과 서비스 제공을 통해 시장 점유율을 확대할 계획.",
       "full_translated": "태국 관광청(TAT)은 장거리 단체 여행 시장 확대를 위해 발칸 반도 지역을 새로운 목표 시장으로 설정하고, 해당 지역 여행사들과 협력하여 태국 여행 상품 개발 및 홍보를 강화할 예정입니다. 크로아티아, 세르비아, 슬로베니아 등 발칸 국가의 경제 성장과 여행 수요 증가에 주목하며, 맞춤형 상품과 서비스를 제공하여 시장 점유율을 확대할 계획입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 시장 다변화 시도로, 새로운 여행 상품 및 프로모션 가능성이 있어 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand tourism targets Balkans to expand longhaul group travel - TTG Asia",
@@ -16625,23 +16617,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQk80N1k0bWNsRDlNT2J4OG9NeXp1R292QVcybnc2dHNzVXFiZEdJbUF1aFdzbzFEY1dZWGlqX3BTb1dvYjdlVDl2eHpHR09wSG4tNDYtTWlYNHQ1bjFFT0JBZlJUTTRPc210dDZTMmdwWGh3LUl3M2lJRXhFOC1VSkhoQXpHX0lIeTIzajNkMGJaMExxeGtfa1d5TldlTkU0TkE?oc=5",
+      "source": ""
     },
     {
       "title": "MGM, 태국 전역에서 국제 관광 활성화를 위한 프로모션 확대",
       "summary": "- MGM이 태국 내 국제 관광객 유치를 위해 프로모션을 강화합니다.\n- 다양한 마케팅 활동을 통해 태국 관광 시장 점유율을 높일 계획입니다.\n- 구체적인 프로모션 내용은 아직 공개되지 않았습니다.",
       "full_translated": "MGM, 태국 전역에서 국제 관광 활성화를 위한 프로모션 확대 IAG – Inside Asian Gaming",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업에 긍정적인 영향을 미칠 수 있지만, 여행객에게 직접적인 영향은 제한적입니다. 새로운 프로모션 정보가 있다면 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "MGM expands promotional efforts across Thailand to boost international tourism - IAG – Inside Asian Gaming",
@@ -16650,23 +16639,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeFJZQUo5RFJERUdBZE5pQmt3ZFpXaUhpMUlRUzJna2NvdWhYWjBPQlRYRWlvT2w3NC1hQVJEWlRBcGttQzFtUDZPWFNOd2hmd0xBVUtHeGdFeEUtck5wVm9JRnA3Qm9WdjhJZnhhUzJLM3pSN2ZibmY0YnZIMlIxNXE1dXJfVVZrQU0yb28xaWl5YjFXbkYwblUtRGFFd3d0ZDVuVnBRSDVpY3Nt?oc=5",
+      "source": ""
     },
     {
       "title": "미국 하원, 트럼프 대통령의 전쟁 권한 제한 법안 부결",
       "summary": "- 미국 하원이 이란과의 전쟁을 제한하는 법안을 부결시켰습니다.\n- 공화당의 지지로 트럼프 대통령의 전쟁 수행 권한에 힘을 실어줬습니다.\n- 민주당은 트럼프 대통령이 의회 승인 없이 군사 행동을 감행하는 것을 우려하고 있습니다.",
       "full_translated": "미국 하원은 도널드 트럼프 대통령의 이란과의 전쟁 권한을 제한하는 법안을 부결했습니다. 3월 5일, 하원은 트럼프 대통령의 전쟁 권한을 제한하려는 법안을 찬성 212표, 반대 219표로 부결했습니다. 이는 상원에서 유사한 법안이 부결된 후 나온 결과로, 공화당 의원들이 트럼프 행정부에 대한 강력한 지지를 보여주는 것입니다. 공화당 의원 대부분은 백악관의 공식 입장을 지지하며, 하원의 이번 투표는 상원에서 유사한 시도가 실패한 지 하루 만에 이루어졌습니다. 민주당은 트럼프 대통령이 의회의 승인 없이 불법적으로 행동하며 미국의 장기적인 안보를 위협한다고 비판했습니다. 과거 의회는 군사적 충돌에 신중한 입장을 취해왔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "미국 정치 관련 뉴스로, 여행객에게 직접적인 영향은 적으나, 국제 정세에 대한 이해를 돕기 위해 포함. 태국 내 여행 안전에 미치는 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สภาผู้แทนฯ สหรัฐฯ โหวตคว่ำร่างกฎหมาย จำกัดอำนาจทรัมป์ทำสงคราม",
@@ -16675,23 +16661,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7tQbBjrqnXJ0.jpg"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7tQbBjrqnXJ0.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/foreign/2918202",
+      "source": ""
     },
     {
       "title": "트럼프, '미국 보호 특별 사절' 직책 신설 및 크리스티 노엠 임명",
       "summary": "- 트럼프 대통령, 크리스티 노엠 국토안보부 장관 해임 후 '미국 보호 특별 사절' 직책 신설.\n- 노엠 장관은 이민자 단속 및 캠페인 예산 문제로 비판 받아왔음.\n- 트럼프, 노엠을 새 직책에 임명하여 서반구 안보에 집중할 계획.",
       "full_translated": "도널드 트럼프 미국 대통령은 크리스티 노엠 국토안보부 장관을 해임했습니다. 이는 그녀가 미네소타 이민자 단속과 2억 2천만 달러 규모의 캠페인 광고로 인해 거센 비판에 직면한 데 따른 조치입니다.\n\n트럼프 대통령은 공화당 소속 마크웨인 멀린 오클라호마 상원의원을 후임으로 지명할 예정이라고 밝혔습니다. 그는 이 발표를 상하원에서 노엠 장관이 2억 2천만 달러의 예산이 투입된 캠페인 광고 건으로 공화당과 민주당 의원들로부터 집중적인 질타를 받은 지 불과 이틀 만에 소셜 미디어를 통해 발표했습니다.\n\n트럼프 대통령은 또한 노엠 장관을 '미국 보호 특별 사절'(Special Envoy for The Shield of the Americas)이라는 새로운 직책에 임명할 것이라고 밝혔습니다. 이는 서반구 지역에 집중할 새로운 안보 구상입니다.\n\n노엠 장관은 트럼프 대통령의 해임 발표 직후 테네시 주 내슈빌에서 열린 법 집행 관련 행사에 참석하여 연설했지만, 국토안보부 장관 해임에 대해서는 언급하지 않았습니다. 그녀는 준비된 원고를 읽는 데 집중했습니다.\n\n크리스티 노엠은 트럼프 정부 2기에서 처음으로 해임된 각료입니다. 그녀의 사임은 이민법 집행 전략을 감독하는 혼란스러운 임기의 끝을 의미하며, 이는 수많은 시위와 법적 소송에 직면해 왔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "미국 정치 뉴스이나, 태국 여행에 직접적인 영향은 없다고 판단. 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ปลด “คริสตี โนเอม” พ้นตำแหน่ง รมต.ความมั่นคงมาตุภูมิ",
@@ -16700,8 +16683,83 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7s8s6EINcPXv.jpg"
         }
       ],
-      "collected_at": "05:22",
+      "collected_at": "5:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7s8s6EINcPXv.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/foreign/2918201",
+      "source": ""
+    },
+    {
+      "title": "태국 관광 산업, 최악의 시나리오: 25% 감소 전망 - 방콕 포스트",
+      "summary": "- 방콕 포스트 보도에 따르면 태국 관광 산업이 최악의 시나리오에 직면할 수 있다고 합니다.\n- 이는 관광객 수 감소로 이어져 경제에 부정적인 영향을 미칠 수 있습니다.\n- 자세한 내용은 방콕 포스트 기사를 참조하세요.",
+      "full_translated": "방콕 포스트에서 태국 관광 산업이 25% 감소하는 최악의 시나리오에 직면할 수 있다고 보도했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광객 수 감소는 여행 관련 산업에 영향을 미치므로 여행자에게 중간 정도의 영향을 미칠 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "25% tourism decline ‘worst-case scenario’ - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEM4bnZ6bzlCT0RyVEM4ODdZTDdSLVZzTjdoVzVzaWppOU1faTM4YVFWU3RRNW94NFFySk84OTRESWJzUVMxREpqd0VJRWNnY3VzSnc5UEk4MHNQR0kxeGRydGZCUnlZNVA2aUptSnM3Q0cyMmlQamFaVWRjRVRGSUw1ZklLRGJGV2JTNEF3MVZsNGZy?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:33",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "미국, 방콕 쇼핑몰 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
+      "summary": "- 미국 정부가 방콕의 한 쇼핑몰을 '위조 상품' 판매로 악명 높은 시장 목록에 포함시킴.\n- 해당 쇼핑몰은 과거에도 위조 상품 판매 문제로 지적을 받아왔음.\n- 여행객들은 해당 쇼핑몰에서 상품 구매 시 주의가 필요함.",
+      "full_translated": "미국 정부는 방콕의 한 쇼핑몰을 위조 상품 판매로 악명 높은 시장 목록에 올렸습니다. 해당 쇼핑몰은 과거에도 위조 상품 판매 문제로 지적을 받은 바 있습니다. 여행객들은 해당 쇼핑몰에서 상품 구매 시 정품 여부를 꼼꼼히 확인해야 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "짝퉁 상품 판매 정보는 여행객의 쇼핑 경험에 영향을 미칠 수 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 쇼핑몰"
+      },
+      "references": [
+        {
+          "title": "미국, 방콕 쇼핑몰 한 곳 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
+          "url": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmtkcmVhbHkuY29tL25ld3MvYXJ0aWNsZS8xNzI3ODUuaHRtbNIBAA?oc=5",
+          "source": "Koreadaily"
+        }
+      ],
+      "collected_at": "06:33",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Thailand Shocks Europe at ITB Berlin 2026 With ‘The New Thailand’ Vision, Healing Luxury and Hidden Gems Powering Tourism Boom - Travel And Tour World",
+      "summary": "- 태국이 ITB Berlin 2026에서 '새로운 태국' 비전을 통해 유럽을 놀라게 함.\n- 치유 럭셔리 및 숨겨진 보석이 관광 붐을 일으키고 있음.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "태국이 ITB Berlin 2026에서 '새로운 태국' 비전을 선보이며 유럽을 놀라게 했습니다. '치유 럭셔리'와 숨겨진 명소들이 관광 붐을 이끌고 있다는 내용입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 새로운 관광 비전 제시. 여행객들에게 새로운 여행 트렌드를 알려줄 수 있음.",
+      "event_info": {
+        "date": "2026-03-01",
+        "location": "ITB Berlin",
+        "price": null,
+        "location_google_map_query": "ITB Berlin"
+      },
+      "references": [
+        {
+          "title": "Thailand Shocks Europe at ITB Berlin 2026 With ‘The New Thailand’ Vision, Healing Luxury and Hidden Gems Powering Tourism Boom - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOY05RRGxSR1hLZ1ZjTm1aaURrQXkzVzM2b3BRaGdxRXhlNnhEY3RycjNtdXNRMEo5RTlCWWFEbVk5VllDUGlpaHFZdmc0c09vaXdiQmFmM3dKcVBsNnNTUlpWcTlwV3dsYlg2alVMV3dPQXdiOGJuTVdENHZZUDJwM1NFWlh5Z3pYakZzZjg1UldKRXY2SDdxTGlRTUxndVQ1VVZsWEFOckpjS05fbDlFcHZObUJfUTA4bkRfUjYyUjZONzdtaW5HOGRaTi1mSnJoZDFrY3hWa0JrQ2xuRWVueHFyeFVfSFc3LTRlVG91aXNpeDlRRkNIZGI0ZkNibmRiTkE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:33",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-06"
     }
   ]
