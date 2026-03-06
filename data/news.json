@@ -16847,14 +16847,9 @@
       "summary": "- 방콕의 PM2.5 수치가 37개 지역에서 기준치를 초과하여 건강에 영향을 미치기 시작함.\n- 가장 심각한 지역은 방콕코르램 구역으로, PM2.5 수치가 46.7 마이크로그램/세제곱미터임.\n- 외출 시 마스크 착용 등 개인 보호 장비 사용 권장.",
       "full_translated": "오늘(6일) 방콕의 PM2.5 미세먼지 수치가 기준치를 초과했습니다. 방콕시 대기질 정보센터에 따르면 오전 7시 기준 PM2.5 농도는 30.1-46.7 마이크로그램/세제곱미터(μg/m³)로 측정되었으며, 37개 지역에서 기준치(37.5 μg/m³)를 넘어 건강에 영향을 미치기 시작했습니다.\n\n가장 높은 수치를 보인 지역은 다음과 같습니다:\n\n1. 방콕코르램 구역: 46.7 μg/m³\n2. 쁘라웻 구역: 46.5 μg/m³\n3. 방락 구역: 46.4 μg/m³\n4. 방쿤티안 구역: 46.3 μg/m³\n5. 랏차테위 구역: 44.7 μg/m³\n\n시민들은 외출 시 반드시 마스크를 착용하고, 대기질 정보에 주의를 기울여야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 건강에 직접적인 영향을 미치는 미세먼지 정보. 매일 업데이트되는 데이터이므로 중요도가 높음.",
-      "event_info": {
-        "date": "2069-03-06",
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': '2069-03-06', 'location': '방콕', 'price': None, 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "ค่าฝุ่นวันนี้ 6 มี.ค. 69 กทม. PM 2.5 เกินมาตรฐาน 37 พื้นที่ เริ่มกระทบสุขภาพ",
@@ -16865,21 +16860,18 @@
       ],
       "collected_at": "10:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8bxLcBYYC9la.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/local/bangkok/2918226",
+      "source": ""
     },
     {
       "title": "이스라엘, 레바논 베이루트 외곽 공격으로 최소 123명 사망",
       "summary": "- 이스라엘군이 레바논 베이루트 외곽을 공습하여 최소 123명이 사망하고 683명이 부상했습니다.\n- 이스라엘은 공습 전 주민들에게 대피 경고를 보냈으며, 이로 인해 대규모 혼란과 피난이 발생했습니다.\n- 이번 공격은 이란과 연계된 헤즈볼라의 이스라엘 공격에 대한 보복으로, 중동 지역 긴장이 고조되고 있습니다.",
       "full_translated": "이스라엘군이 7일째 이란을 공격하며 레바논 베이루트 외곽을 공습했습니다. 이로 인해 최소 123명이 사망했습니다. 2569년 3월 6일, 중동에서 이스라엘과 미국의 이란 공격이 7일째 이어지고 있습니다. 이스라엘은 군사 작전의 '다음 단계'로 나아가겠다고 발표하며 레바논 베이루트 남부 외곽 지역에 공습을 개시했습니다. 공격 전에 이스라엘군은 해당 지역 주민들에게 즉시 대피하라는 전례 없는 대규모 경고를 보냈습니다. 이로 인해 많은 사람들이 집을 떠나 피난길에 올랐고, 주요 도로에서 교통 체증이 발생했습니다. 일부는 사람들에게 대피를 경고하기 위해 공중으로 총을 쏘기도 했습니다. 레바논 당국은 충돌 시작 이후 최소 123명이 사망하고 683명이 부상했으며 9만 명 이상이 피난했다고 밝혔습니다. 이번 갈등은 이란과 연계된 무장 세력인 헤즈볼라가 아야톨라 알리 카메네이를 암살한 것에 대한 보복으로 이스라엘을 공격하면서 확대되었습니다. 이에 이스라엘은 공습으로 대응하고 일부 국경 지역에 지상군을 투입했습니다. 출처: BBC",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "레바논의 혼란은 현재 방콕 여행에는 직접적인 영향이 없지만, 잠재적인 여행 불안 요인이 될 수 있으며, 상황이 악화될 경우 여행 제한이 발생할 수 있으므로 관련 정보를 제공합니다. 여행객 안전에 대한 잠재적 위협을 고려하여 높은 점수를 부여했습니다.",
-      "event_info": {
-        "date": null,
-        "location": "베이루트, 레바논",
-        "price": null,
-        "location_google_map_query": "베이루트 레바논"
-      },
+      "event_info": "{'date': None, 'location': '베이루트, 레바논', 'price': None, 'location_google_map_query': '베이루트 레바논'}",
       "references": [
         {
           "title": "สงครามอิหร่านวันที่ 7 อิสราเอลถล่มชานกรุงเบรุต เลบานอน ปชช.หนีตายโกลาหล เสียชีวิตอย่างน้อย 123 ศพ",
@@ -16890,21 +16882,18 @@
       ],
       "collected_at": "10:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8b967MContcC.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/foreign/2918228",
+      "source": ""
     },
     {
       "title": "태국 총리, 유가·증시·물가 상승에 대한 우려 표명",
       "summary": "- 아누틴 총리는 유가, 증시, 물가 등 모든 분야에 대해 우려를 표명하며, 국민 부담을 최소화하기 위해 노력하겠다고 밝힘.\n- 미국 대사와의 회담 내용에 대한 질문에는 답변을 거부하며 유가 문제에 집중하겠다는 의지를 보임.\n- 관련 기관들과 유가 대책 회의를 진행했으며, 에너지부 장관이 상세 내용을 설명할 것이라고 덧붙임.",
       "full_translated": "아누틴 총리는 석유, 증권 시장, 상품 가격 등 모든 문제에 대해 우려를 표명하며 이러한 문제들이 국민들에게 최소한의 영향만 미치기를 희망한다고 밝혔습니다. 그는 3월 6일 오전 8시 50분 육군 수송부에서 관련 기관들과의 석유 대책 회의에 대해 에너지부 장관이 상세한 내용을 설명할 것이라고 말했습니다. 총리는 국내 석유 비축, 증권 시장, 소비재 가격 등 모든 측면을 고려하여 국민들이 부담을 느끼지 않도록 노력하겠다고 언급했습니다. 미국 대사와의 회담 내용에 대한 질문에는 답변을 거부하며 유가 문제에 집중하겠다는 입장을 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 물가 및 교통비에 간접적인 영향이 있을 수 있으며, 경제 상황에 대한 정보는 여행 계획에 참고가 될 수 있음. 아침 브리핑에 적합.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "นายกฯ รับเป็นห่วงทุกเรื่อง “น้ำมัน-ตลาดหลักทรัพย์-ราคาสินค้า” ปัดตอบคุยอะไรทูตสหรัฐฯ",
@@ -16915,16 +16904,18 @@
       ],
       "collected_at": "10:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8Qx0plftfYOv.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/politic/2918235",
+      "source": ""
     },
     {
       "title": "전기차 모터 기술 경쟁 심화: BYD, Rimac, Lotus, Lucid 모델 분석",
       "summary": "- 현재 가장 강력한 전기차 모터는 하이퍼카 및 고성능 세단에 탑재.\n- BYD Yangwang U9는 최대 2,978마력, Rimac Nevera R은 2,107마력, Lotus Evija는 2,011마력 발휘.\n- Lucid Air Sapphire는 3개의 모터로 1,234마력을 내는 가장 강력한 전기 세단.",
       "full_translated": "현재(2024-2025년) 가장 강력한 전기차 모터는 하이퍼카 및 고성능 세단에 탑재됩니다. 주요 모델별 세부 정보는 다음과 같습니다.\n\n1. BYD Yangwang U9는 고성능 전기 슈퍼카(EV Hypercar)로, 4개의 전기 모터(e4 플랫폼)를 통해 일반 모델에서 최대 1,300마력 이상, U9 Xtreme 모델에서 2,978마력을 냅니다. U9 Xtreme 모델은 0-100km/h 가속 시간이 2.1초이며, 최고 속도는 496.22km/h로 전기차 최고 속도 기록을 경신했습니다.\n\n2. Rimac Nevera R은 현재 가장 강력한 전기차로, 4개의 독립 모터 시스템을 사용합니다. 각 모터는 각 바퀴에 토크를 전달하며, 총 2,107마력(hp) 또는 1,571kW, 최대 토크 2,340Nm을 발휘합니다. 각 모터는 영구 자석 방식이며, 탄소 슬리브로 감싸져 고속 회전을 지원합니다. 0-100km/h 가속 시간은 1.72초, 최고 속도는 430km/h입니다.\n\n3. Lotus Evija는 4개의 전기 모터에서 총 2,011마력(hp) 또는 1,500kW, 1,703Nm의 토크를 생성하는 영국 하이퍼카입니다. 각 모터는 약 500마력을 담당하여 높은 출력 대 중량비를 자랑합니다.\n\n4. Lucid Air Sapphire는 3개의 모터(Tri-motor) 시스템으로 기록을 경신한 스포츠 세단입니다. 총 1,234마력(hp)과 1,940Nm(1,430lb-ft)의 토크를 생성합니다. 전면 차축에 싱글 모터, 후면 차축에 트윈 모터(Twin Rear-drive unit)를 사용하여 구동력을 향상시킵니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체와 직접적인 관련은 없지만, 자동차 기술 동향에 대한 흥미로운 정보 제공. 여행 관련성은 낮음.",
-      "event_info": {},
+      "event_info": "{}",
       "references": [
         {
           "title": "โคตรมอเตอร์ BYD เจาะมอเตอร์รถยนต์ไฟฟ้าที่มีกำลังมากที่สุดในปัจจุบัน",
@@ -16935,21 +16926,18 @@
       ],
       "collected_at": "10:39",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNb5V0aIuFqDWAntzs.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2918151",
+      "source": ""
     },
     {
       "title": "송클라 지역 국회의원, 도박 웹사이트 관련 수사로 자택 압수수색 받아",
       "summary": "- 송클라 지역구의 촌나팟 나카쑤아 국회의원이 도박 웹사이트 사건과 관련되어 자택 압수수색을 받았습니다.\n- 그는 이전에 돈세탁 관련 혐의로 1억 5357만 바트의 자산이 동결된 적이 있습니다.\n- DSI와 뻐뻐뻐엉는 추가 증거를 확보하기 위해 그의 자택을 수색했습니다.",
       "full_translated": "차논팟 낙수아 송클라 지역구 국회의원은 최근 선거에서 승리하여 2선 의원이 되었으며, 도박 웹사이트 사건과 관련된 증거를 찾기 위해 당국에 의해 자택이 압수수색을 받았습니다.\n\n뽀뽀응. 위원회는 2023년 11월 11일, 돈세탁과 관련된 정황이 발견되어 그의 자산 1억 5357만 바트를 동결하기로 결의했습니다. 가장 최근에는 2024년 3월 5일, DSI(Department of Special Investigation)와 뽀뽀응.(Anti-Money Laundering Office) 직원이 송클라 지역에 있는 그의 자택을 수색하여 온라인 도박 웹사이트 네트워크와 관련된 불만 사항에 대한 추가 증거를 수집했습니다.\n\n차논팟 낙수아는 끄릿이라는 애칭으로도 불리며, 1989년 9월 8일에 태어나 현재 36세입니다. 그는 나콘시탐마랏 출신이며, 스리 탐마랏 숙사 학교를 졸업하고, 탁신 대학교에서 경제학 학사, 방콕톤부리 대학교에서 행정학 석사 학위를 받았습니다. 그는 2023년 총선에서 팔랑쁘라차랏 당 소속으로 처음 국회의원에 당선되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "송클라",
-        "price": null,
-        "location_google_map_query": "Songkhla"
-      },
+      "event_info": "{'date': None, 'location': '송클라', 'price': None, 'location_google_map_query': 'Songkhla'}",
       "references": [
         {
           "title": "ประวัติ “ชนนพัฒฐ์ นาคสั้ว” สส.สงขลา 2 สมัย เพิ่งชนะเลือกตั้ง ถูก จนท.ค้นบ้านหาหลักฐานคดีเว็บพนัน",
@@ -16960,6 +16948,133 @@
       ],
       "collected_at": "10:39",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8bi34abjfnwD.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/politic/2918223",
+      "source": ""
+    },
+    {
+      "title": "이란 새 사령관 임명, 미국과의 긴장 고조",
+      "summary": "- 이란 혁명수비대(IRGC) 사령관 교체, 미국과의 갈등 심화 전망\n- 신임 사령관, 미국과 이스라엘에 대한 깊은 이해 보유\n- 호르무즈 해협 폐쇄설 부인에도 긴장감은 여전",
+      "full_translated": "이란 혁명수비대의 새로운 사령관으로 아흐마드 바히디가 임명되면서 미국과의 긴장이 고조되고 있습니다. 바히디는 미국 및 이스라엘과의 관계에 정통한 인물로 평가받고 있으며, 그의 임명은 이란이 미국 및 이스라엘과의 대립에서 더욱 강경한 입장을 취할 것임을 시사합니다. 최근 호르무즈 해협 폐쇄 가능성이 제기되었으나, 이란은 이를 부인하며 국제법 준수를 강조하고 있습니다. 하지만, 군사적 긴장이 고조되고 있는 상황에서 이 지역을 여행하는 여행객들은 주의를 기울여야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "정치적 불안정은 여행에 잠재적 위험을 초래할 수 있으므로 정보 제공 가치가 있음. 호르무즈 해협 관련 뉴스는 여행 루트 변경 가능성을 시사.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รู้จัก “อะห์มัด วาฮิดี” ผู้บัญชาการ IRGC คนใหม่ ที่มีความคุ้นเคยกับสหรัฐฯ",
+          "url": "https://www.thairath.co.th/news/foreign/2918253",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C55rt3coon2vG.jpg"
+        }
+      ],
+      "collected_at": "12:05",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C55rt3coon2vG.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "트럼프, 이란 공격으로 인한 유가 상승에 개의치 않아",
+      "summary": "- 트럼프 대통령은 이란과의 갈등으로 인한 미국 내 유가 상승에 대해 우려하지 않는다고 밝힘.\n- 군사 작전이 우선이며, 상황 종료 후 가격은 빠르게 안정될 것이라고 주장.\n- 백악관 내부에서는 중간 선거에 미칠 영향을 우려하며 대책 마련에 고심 중.",
+      "full_translated": "도널드 트럼프 대통령은 이란과의 분쟁으로 인해 미국 내 유가가 급등하는 상황에 대해 우려하지 않는다고 밝혔습니다. 그는 '가격이 오르더라도 어쩔 수 없다'고 말하며, 현재 최우선 과제는 군사 작전이라고 강조했습니다. 트럼프는 상황이 종료되면 가격이 빠르게 안정될 것이라고 믿고 있습니다.\n\n그러나 백악관 내부에서는 이번 사태가 중간 선거에 미칠 잠재적 영향에 대한 우려가 커지고 있습니다. 백악관 관계자들은 에너지 위기에 대처하기 위해 주요 석유 회사 CEO들과 긴급 회의를 갖고 있으며, 유가 안정을 위한 다양한 조치를 검토하고 있습니다. 한 소식통은 유가 통제에 실패할 경우 공화당에 '재앙'이 될 수 있다고 경고했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행에는 직접적인 영향은 없지만, 국제 유가 변동이 항공료 등에 간접적인 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "\"ทรัมป์\" ไม่สนราคาน้ำมันพุ่งเซ่นปฏิบัติการถล่มอิหร่าน ลั่น \"ถ้ามันจะขึ้นก็ต้องขึ้น\"",
+          "url": "https://www.thairath.co.th/news/foreign/2918258",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C55Tjw4bxFrOy.jpg"
+        }
+      ],
+      "collected_at": "12:05",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C55Tjw4bxFrOy.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "2026 방콕 국제 모터쇼 개최 준비, 45개 업체 참가 및 신차 10종 이상 공개 예정",
+      "summary": "- 2026 방콕 국제 모터쇼는 2026년 3월 25일 개최 예정.\n- 45개 자동차 및 오토바이 업체 참가, 10종 이상의 신차 공개.\n- 지정학적 긴장에도 불구하고 태국 자동차 산업의 발전과 경제 활성화에 기여할 것으로 기대.",
+      "full_translated": "2026년 모터쇼는 2026년 3월 25일에 시작됩니다. 45개 회사가 자동차와 오토바이를 가지고 므엉 통 타니에 참가하여 10개 이상의 모델을 공개할 예정입니다. 2026년 3월 5일, 제47회 방콕 국제 모터쇼 부회장인 짜투론 꼬몬밋 씨는 미국, 이스라엘, 이란 간의 긴장으로 인해 세계 경제에 영향을 미칠 수 있다고 언급하며, 주최측은 이를 면밀히 주시해야 한다고 밝혔습니다. 전반적인 영향 관리는 정부 차원의 협력과 적절한 조치가 필요합니다. 태국 자동차 산업은 지역 생산 기지로서의 역할을 유지하기 위해 생산 능력을 향상시키고 개발해야 합니다. 또한 대체 에너지 차량과 고효율 내연기관 차량의 지속적인 개발은 시장의 적응력과 다양성을 반영합니다. 방콕 국제 모터쇼는 국제적인 자동차 혁신을 선보이는 무대일 뿐만 아니라 경제를 활성화하고, 판매를 촉진하며, 산업 공급망을 활성화하고, 고용, 관광 및 국내 자금 순환을 촉진하는 중요한 메커니즘입니다. 투자자, 기업가 및 소비자에게 신뢰를 구축하여 태국 산업의 안정적이고 지속 가능한 성장을 추진합니다. 올해는 37개의 자동차 회사와 8개의 오토바이 회사를 포함하여 45개의 자동차 및 오토바이 회사가 부스에 참가할 예정이며, 전기 자동차와 대체 에너지 차량을 포함하여 10개 이상의 새로운 모델이 출시되어 현대 소비자의 요구를 충족시킬 것입니다. 올해의 주요 하이라이트는 새로운 전기 자동차 브랜드 그룹의 참가입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "모터쇼 정보는 여행객에게 흥미로운 이벤트 정보가 될 수 있음. 교통 혼잡 가능성도 고려.",
+      "event_info": {
+        "date": "2026-03-25",
+        "location": "므엉 통 타니",
+        "price": "미정",
+        "location_google_map_query": "므엉 통 타니"
+      },
+      "references": [
+        {
+          "title": "รถเปิดตัวงาน Motor Show 2026 มีอะไรบ้าง พาไปส่อง 45 ค่ายยกรถมาไว้ที่เมืองทอง",
+          "url": "https://www.thairath.co.th/news/auto/news/2917522",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZluG3XPRPaySV.jpg"
+        }
+      ],
+      "collected_at": "12:05",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wyLZluG3XPRPaySV.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "국립공원 산림 감시 책임자 총격 사건 발생, 중태",
+      "summary": "- 태국 칸차나부리 지역에서 산림 감시 책임자가 총에 맞아 중상을 입음.\n- 용의자는 과거 산림 관리 담당자로, 불법 벌목을 하다 적발되었음.\n- 피해자는 현재 병원에서 치료 중이며, 수혈이 필요한 위급한 상황임.",
+      "full_translated": "과거 산림 관리 담당자가 살락프라-에라완 산불 통제소장을 총으로 쏴 중상을 입혔습니다. 국립공원 국장은 수혈을 위해 헌혈했습니다. 3월 6일, 용의자가 총기를 사용하여 31세의 워룬 찬사왕 살락프라-에라완 산불 통제소장 겸 에라완 국립공원 부소장을 쏜 사건이 발생했습니다. 사건은 깐짜나부리 지역 6번 빌리지 쾌야이 강가에서 발생했습니다. 사건 발생 전, 워룬은 평소처럼 깐짜나부리 지역 6번 빌리지 쾌야이 강가에서 순찰을 돌고 있었습니다. 그는 57세의 과거 산림 관리 담당자인 용의자 솜삭 푸앙쿤이 숲을 불법으로 개간하는 것을 발견하고 그를 말리다가 말다툼이 벌어졌습니다. 워룬은 솜삭을 라트야 경찰서로 데려가 대화를 시도했지만, 솜삭은 집에 가겠다며 거부했습니다. 워룬이 솜삭을 체포하려 하자 솜삭은 총을 쏴 워룬에게 부상을 입혔습니다. 워룬은 .38 구경 총에 맞아 복부 좌측에 1발을 맞았습니다. 그는 파혼폴파유하세나 병원으로 이송되어 치료를 받고 있지만, 여전히 혼수상태입니다. 의사는 총알이 몸에 박혀 있고, 혈액 손실이 심각하다고 판단했습니다. 의사는 혈액을 멈추기 위해 상처를 봉합했지만, 총알을 제거하는 수술은 아직 진행하지 못했습니다. 3월 6일 오전 8시 30분, 국립공원, 야생 동물 및 식물 보호국 국장 앗타폰 차른찬사는 부상당한 부하 워룬을 돕기 위해 파혼폴파유하세나 병원에 헌혈하러 갔습니다. 또한 총알 제거 수술에 필요한 혈액을 제공하기 위해서입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 지역 내 사건 사고 발생. 여행객 안전에 대한 간접적 영향.",
+      "event_info": {
+        "date": "2026-03-06",
+        "location": "깐짜나부리",
+        "price": null,
+        "location_google_map_query": "깐짜나부리"
+      },
+      "references": [
+        {
+          "title": "เปิดนาที อดีตป่าไม้ยิง หน.ควบคุมไฟป่าสลักพระ อาการล่าสุด กระสุนฝังใน เสียเลือดมาก",
+          "url": "https://www.thairath.co.th/news/crime/2918134",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B4qEs3FobUGa5.jpg"
+        }
+      ],
+      "collected_at": "12:05",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4B4qEs3FobUGa5.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "선거관리위원회, 투표용지 조사 관련 경찰 질의에 답변",
+      "summary": "- 선거관리위원회(EC)는 최근 방콕 재투표에서 투표용지 사진 촬영 및 바코드 해독 시도 의혹과 관련하여 경찰의 30가지 질문에 서면 답변을 제출했습니다.\n- EC 부사무총장 Kanchit Charoenin은 투표용지 및 투표용지 스텁 사진 촬영, 선거구 및 정당 목록 투표용지의 QR 코드 및 바코드 해독 시도 혐의로 6명을 상대로 범죄 진압 부서(CSD)에 고소장을 제출했습니다.\n- 경찰은 EC에 30가지 문제에 대한 서면 설명을 요청했으며, EC는 어제 답변을 제출했습니다. 수사관들은 아직 EC 관계자를 심문할 일정을 잡지 않았으며 다음 단계를 결정하기 전에 답변을 검토할 것입니다.",
+      "full_translated": "선거관리위원회(EC)는 최근 방콕 재투표에서 여러 개인이 투표용지를 촬영하고 투표 바코드를 해독하려 했다는 혐의에 대한 조사와 관련하여 경찰의 30가지 질문에 대한 서면 답변을 제출했습니다.\n\nEC 부사무총장 Kanchit Charoenin은 앞서 스리파툼 대학교의 D'Vote 설문 조사 센터 소장 Thuntee Sukchotrat, Domecloud의 최고 경영자이자 기술 전문가인 Thanarat Kuawattanaphan, Marketing in Black Facebook 페이지 소유주 Chaiyapon Chawanwanitchai, 전 선거관리위원 Somchai Srisutthiyakorn, 인민당(PP) 대변인 Parit Wacharasindhu, Spacebar의 수석 사진작가 Songpol Ruangsamut 등 투표용지 및 투표용지 스텁 사진 촬영, 선거구 및 정당 목록 투표용지의 QR 코드 및 바코드 해독 시도 혐의로 6명을 상대로 범죄 진압 부서(CSD)에 고소장을 제출했습니다.\n\n혐의를 받은 행위는 2월 22일 칸나야오 선거구 15, 투표소 9에서 재투표 중에 발생했습니다.\n\nKanchit 씨는 경찰이 EC에 30가지 문제에 대한 서면 설명을 요청했으며, 위원회는 어제 답변을 제출했다고 말했습니다. 그는 수사관들이 아직 EC 관계자를 심문할 일정을 잡지 않았으며 다음 단계를 결정하기 전에 답변을 검토할 것이라고 덧붙였습니다.\n\n이 사건은 시민 사회로부터 더 넓은 조사를 받았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 사건이나 여행 안전에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Election Commission answers police ballot probe queries",
+          "url": "https://www.bangkokpost.com/thailand/politics/3210804/election-commission-answers-police-ballot-probe-queries",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210804_260306060955_700.jpg"
+        }
+      ],
+      "collected_at": "12:05",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210804_260306060955_700.jpg",
       "date": "2026-03-06"
     }
   ]
