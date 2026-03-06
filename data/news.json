@@ -19442,14 +19442,9 @@
       "summary": "- 방콕과 푸껫 공항에서 카타르, 에티하드, 타이항공 등 항공편 취소 및 지연 발생.\n- 총 25편 취소, 348편 지연으로 승객 불편 초래.\n- 해당 항공사를 이용하는 여행객은 항공편 정보를 확인해야 함.",
       "full_translated": "태국에서 수백 명의 승객이 발이 묶였습니다. 카타르, 에티하드, 타이, 마한, 걸프, 에어아시아 및 더 많은 항공편이 방콕과 푸껫 공항에서 25편 취소되고 348편 지연되었습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "항공편 취소 및 지연은 여행객에게 직접적인 영향을 미치므로 높은 점수 부여. 특히 방콕과 푸껫은 주요 관광지이므로 더욱 중요.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 푸껫 공항",
-        "price": null,
-        "location_google_map_query": "방콕 공항, 푸껫 공항"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 푸껫 공항', 'price': None, 'location_google_map_query': '방콕 공항, 푸껫 공항'}",
       "references": [
         {
           "title": "Hundreds of Passengers Stuck in Thailand Cancels 25 and Delays 348 Impacting Qatar, Etihad, Thai, Mahan, Gulf, AirAsia and More Airlines at Bangkok and Phuket Airports - Travel And Tour World",
@@ -19458,23 +19453,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPRXdDQ0xLRF9zQ0FVSV8tNW9zWjZNeFUzcEw2dG1wVjlvTjdZbGlSaHVVMUlWY1FTZFNCWDVsRE1CLWFxWUVqY2c1OHdFNzktamhSMFJOTkoycnZrNFNJanlTZDRXVHN4elhZcENlT1dmLS1WZ2NHNklNaWRINUlrdmowZ2dvVkNLOTdiYVlBNnJkbGo0a2IxTUdWY2lsUWlPTXhKVGt2dHFRdHNrRDVyUk5hNkd1aTdndElpalE2Q0xyT0ZrbHRUMjBnM3pUWW9Sb2tnVzVQQkEteVoxWHAzVEx4LUJvVnBybDNNcUZRZHlTbXFGNzdMSGpCZ0EtUDBXa1o4MVBiNFhtT2pCQWFUMjNjazJIUnJnRl8xaENkQ0pNRE9NUk03WDlCQnNpYmRGR3psUFRn?oc=5",
+      "source": ""
     },
     {
       "title": "태국 은행권 부실 대출 매각, 2025년 36% 감소",
       "summary": "- 은행들이 부실 대출 관리를 강화하고 태국 중앙은행의 지원책을 기다리면서 부실채권(NPL) 매각이 30% 이상 감소했습니다.\n- 2025년 금융기관들은 1,830억 바트 상당의 NPL을 매각했는데, 이는 부실 채권 해결에 대한 명확한 정책과 정부 합작 자산관리회사(AMC) 설립을 기다리는 참여자들 때문입니다.\n- BAM은 올해 자산 관리 규모를 6,000억 바트로 늘리는 것을 목표로 하고 있으며, 수익을 극대화하기 위해 포트폴리오를 선별적으로 선택할 것입니다.",
       "full_translated": "태국 은행 산업의 부실채권(NPL) 매각은 은행들이 새로운 부실 대출 관리를 강화하고 태국 중앙은행의 지원책을 기다리면서 작년에 30% 이상 감소했습니다. 금융기관들은 2025년에 1,830억 바트 상당의 NPL을 매각했는데, 이는 전년 대비 36.2% 감소한 수치입니다. 이는 부실 채권 해결에 대한 명확한 정책과 정부 합작 자산관리회사(AMC) 설립을 기다리는 참여자들의 기인합니다. 중앙은행은 가계 부문의 NPL 문제를 해결하기 위해 작년에 'Clear Debt, Going Forward'라는 새로운 부채 탕감 계획을 도입했습니다. 태국 최대 AMC인 BAM은 올해 자산 관리 규모를 6,000억 바트로 늘리는 것을 목표로 하고 있습니다. BAM은 합작 투자와 직접 투자를 통해 NPL을 인수하는 데 집중하는 동시에 수익을 극대화하기 위해 포트폴리오를 선별적으로 선택하는 방식을 채택할 계획입니다. BAM의 재무제표에 따르면 2025년 총 회수액은 179억 바트로 전년 대비 17.8% 증가했습니다. 2026년 BAM은 총 회수액 179억 바트, 순이익 20억 바트를 목표로 하고 있습니다. 작년은 BAM에게 중요한 성과를 거둔 해였습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 환율 변동 등에 간접적인 영향이 있을 수 있으나, 우선순위는 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Bad loans up for sale dipped by 36% in 2025",
@@ -19483,23 +19475,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211675_260307054517_700.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211675_260307054517_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/business/general/3211675/bad-loans-up-for-sale-dipped-by-36-in-2025",
+      "source": ""
     },
     {
       "title": "태국 마케팅 협회, 지정학적 갈등으로 인한 마케팅 예산 감소 전망",
       "summary": "- 태국 마케팅 협회(MAT)는 지정학적 갈등이 소비자 심리에 영향을 미쳐 마케팅 지출이 감소할 것으로 예상.\n- 소비자들은 신중한 소비를 하게 되며, 특히 자동차나 주택과 같이 신중한 고려가 필요한 제품의 구매를 연기할 가능성이 높음.\n- MAT의 설문 조사에 따르면, 응답자의 69%가 2026년 마케팅 예산을 늘릴 계획이 없으며, 업계 전체적으로 1% 감소할 것으로 예상.",
       "full_translated": "태국 마케팅 협회(MAT)에 따르면 지정학적 갈등이 소비자 심리에 영향을 미쳐 마케팅 지출이 더욱 감소할 것으로 예상됩니다. MAT의 지속 가능한 커뮤니케이션 및 마케팅 담당 부사장인 아케 파타라타나쿤은 세계적인 전망이 불확실하여 소비자들이 신중하게 지출하고 경우에 따라 구매를 연기하게 된다고 말했습니다. 이러한 변화에 특히 민감한 제품으로는 자동차나 주택과 같이 신중한 고려와 연구가 필요한 제품이 있습니다. 더 많은 제품이 이 범주에 속하게 되면서 소비자들은 이러한 경제 환경에서 구매를 연기할 가능성이 높다고 그는 말했습니다. 이러한 소비자 행동의 변화는 마케팅 예산, 특히 해당 범주에서 부정적인 영향을 미칠 것으로 예상됩니다. 작년에 협회는 126명의 응답자를 대상으로 설문 조사를 실시한 결과 69%가 2026년 마케팅 예산을 늘릴 계획이 없으며 업계 전체적으로 전년 대비 1% 감소할 것으로 예상했습니다. 최근의 지정학적 갈등은 마케터들이 예산을 더욱 줄이도록 유도할 수 있으며, 소비자 수요가 약해지면 마케팅 예산 할당에 더욱 신중을 기하게 된다고 그는 언급했습니다. 사업자들은 이 기간 동안 가격 책정 전략을 채택할 수 있다고 아케 씨는 말했습니다. 그러나 그는 소규모 사업자들이 가격 전쟁에 참여하는 것에 대해 경고했습니다. 왜냐하면 전쟁이라는 단어를 언급하는 것조차 잠재적으로",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "소비 심리 위축이 여행객 소비에 간접적인 영향을 줄 수 있지만, 직접적인 연관성은 낮음. 아침 브리핑에 포함하기에는 중요도가 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "War to take toll on local marketing allocations",
@@ -19508,23 +19497,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/07/5994865_700.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/07/5994865_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/business/general/3211655/war-to-take-toll-on-local-marketing-allocations",
+      "source": ""
     },
     {
       "title": "수감 중인 '에카차이 홍강완'의 외부 치료 요청 관련 교정국의 해명",
       "summary": "- 에카차이 홍강완은 왕비의 자유를 침해하려 한 혐의로 수감 중임.\n- 그는 과거 간에 농양으로 치료를 받았으며, 현재는 상태가 안정적임.\n- 교정국은 그의 건강 상태를 면밀히 모니터링하고 있다고 밝힘.",
       "full_translated": "교정국은 '에카차이 홍강완'이 클롱프렘 중앙 교도소 외부에서 치료를 받기 위해 요청한 사건에 대해 해명했습니다. 2569년 3월 6일, 교정국 홍보 페이스북 페이지에 \"교정국, 클롱프렘 중앙 교도소에 수감 중인 수감자가 외부 교도소에서 치료를 받기 위해 요청한 사건에 대해 해명\"이라는 글이 게시되었습니다. 내용은 다음과 같습니다. \"현재 클롱프렘 중앙 교도소에 수감 중인 에카차이 홍강완 씨는 왕비의 자유를 침해하려 한 혐의로 항소-대법원 판결을 기다리는 피고인으로, 교도소 내에서 중병을 앓고 있다는 소식이 있었습니다. 교정국은 사실 확인 결과, 에카차이 씨는 이전에 방콕 특별 교도소에 수감되어 2566년 7월 6일부터 7개월 3일의 형을 선고받았으며, 2567년 2월 4일에 형기를 마치고 석방되었습니다. 수감 기간 동안 2566년 9월 1일부터 간에 농양을 앓아 교정 병원에서 치료를 받았고, 라자비티 병원으로 이송되어 소화기 및 간 전문의의 치료를 받았습니다. 의사는 농양 크기가 줄어 간에 흉터만 남은 것을 확인하고 만족스러운 결과로 항생제 복용을 중단했습니다. 이후 2566년 12월에 의사가 예약하고 증상을 추적했습니다. 그 동안 2567년 3월에 라자비티 병원에서 지속적인 검진이 예약되었습니다. 이후 2567년 2월 4일에 형기를 마치고 석방되었습니다. ... 그러다 2568년 8월 5일, 에카차이 씨는 다시 방콕 특별 교도소에 수감되었고 클롱프렘 중앙 교도소로 이송되었습니다. 교도소에 처음 수감되었을 때 신체 검사를 통해 활력 징후와 일반적인 증상이 정상임을 확인했습니다. 과거 병력에 대한 질문에서 에카차이 씨는 ...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 사건이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "\"ราชทัณฑ์\" แจงปม \"เอกชัย หงส์กังวาล\" ขอออกไปรักษาตัวนอกเรือนจำกลางคลองเปรม",
@@ -19533,23 +19519,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GD7aIorjNZUHa.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GD7aIorjNZUHa.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/crime/2918408",
+      "source": ""
     },
     {
       "title": "쿤라붓, 올잉글랜드 오픈 준결승 진출; 폰파위는 8강에서 패배",
       "summary": "- 쿤라붓 비티드사른, US$145만 BWF 올잉글랜드 오픈 준결승 진출.\n- 폰파위 초추웡, 여자 단식 8강에서 중국 선수에게 패배.\n- 쿤라붓은 인도네시아의 알위 파르한을 2-0으로 꺾고 준결승에 진출, 다음 상대는 프랑스 선수 또는 대만 선수.",
       "full_translated": "쿤라붓 비티드사른이 US$145만 달러 규모의 BWF 올잉글랜드 오픈 준결승에 처음으로 진출했지만, 태국의 폰파위 초추웡은 금요일 8강에서 패배했습니다. 세계 랭킹 2위인 쿤라붓은 금요일 남자 단식 8강에서 인도네시아의 알위 파르한을 21-17, 21-12로 꺾었습니다. 2023 세계 챔피언 쿤라붓은 목요일 16강에서 프랑스의 토마 주니어 포포프를 19-21, 21-9, 21-13으로 꺾었습니다. 그는 이전에 6번이나 16강에서 탈락했습니다. 그는 토요일 준결승에서 프랑스의 크리스토 포포프(토마 포포프 주니어의 형제)와 대만의 린춘이의 경기 승자와 맞붙게 됩니다. 여자 단식에서는 8번 시드인 폰파위가 금요일 8강에서 중국의 천유페이에게 21-23, 11-21로 패했습니다. 3번 시드인 천은 다음 준결승에서 한국의 안세영 또는 인도네시아의 푸트리 쿠수마 와르다니와 맞붙게 됩니다. 폰파위는 수파니다 카테통이 목요일 중국의 왕지이에게 19-21, 18-21로 패한 후 여자 단식에 남은 마지막 태국 선수였습니다. 복식조 파카폰 티라랏사쿨과 삽시리 태라타나차이는 금요일 늦게 경기에 참가할 예정이었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 스포츠 뉴스. 한국인에게 큰 영향을 미치진 않으나, 관심있는 여행객을 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Pornpawee falls, Kunlavut breaks barrier",
@@ -19558,8 +19541,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/07/5994665_700.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/07/5994665_700.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/sports/3211455/pornpawee-falls-kunlavut-breaks-barrier",
+      "source": ""
+    },
+    {
+      "title": "전문가들, 신속한 '위기' 정부 구성 촉구",
+      "summary": "- 경제 전문가와 업계 리더들은 새 정부 구성 지연이 글로벌 갈등 속에서 회복을 저해할 수 있다고 경고.\n- 태국개발연구소(TDRI) 소장은 태국이 해결되지 않은 글로벌 및 국내 문제에 직면해 있다고 지적.\n- 지정학적 긴장, 기후 변화, 기술 발전 외에도 태국은 낮은 경제 성장률, 고령화, 부패 문제에 직면.",
+      "full_translated": "전문가들은 태국이 경제, 지정학, 기후 문제에 직면함에 따라 새 정부의 긴급한 구성을 촉구하며, 지연이 정책 대응을 악화시키고 대중의 신뢰를 약화시킬 수 있다고 경고했습니다. 태국개발연구소(TDRI) 소장인 Somkiat Tangkitvanich는 최근 태국언론인협회(TJA)가 주최한 행사에서 \"태국의 큰 질문: 새 정부의 과제\"라는 제목의 기조 연설을 했습니다. 그는 태국이 대체로 해결되지 않은 글로벌 및 국내 문제의 조합에 직면해 있다고 말했습니다. Somkiat씨에 따르면 전 세계 국가들이 직면한 세 가지 주요 문제가 있습니다. 지정학적 긴장과 무역 갈등, 태국의 경제 경쟁력에 영향을 미치는 기후 변화, 기술의 빠른 발전입니다. 이러한 글로벌 압력 외에도 태국은 낮은 경제 성장률, 급속한 고령화, 부패라는 자체 개발 경로에 고유한 세 가지 추가 구조적 문제에 직면해 있습니다. 이러한 장기적인 문제 외에도 태국은 중동에서 고조되는 갈등이라는 즉각적인 문제에 직면해 있습니다. Somkiat씨는 폭력이 얼마나 오래 지속될지 예측하기 어렵다고 말했습니다. 일부 보고서에서는 갈등이 몇 주 안에 끝날 수 있다고 하지만 글로벌 안정에 대한 위험이 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "정부 구성 지연으로 인한 경제적 불확실성은 관광 산업에도 간접적인 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Experts urge swift new 'crisis' govt",
+          "url": "https://www.bangkokpost.com/thailand/politics/3211470/experts-urge-swift-new-crisis-govt",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/07/5994680_700.jpg"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/07/5994680_700.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 최초 수술 중 혈액 손실 실시간 추적 AI 시스템 개발",
+      "summary": "- 치앙마이 대학교와 Nectec의 협력으로 개발된 Estimata-Ex는 이미지 처리 및 딥러닝 알고리즘을 사용.\n- 수술 중 혈액 손실을 20~40% 부정확하게 추정하는 기존 방식의 문제점을 해결, 의료진에게 정확한 데이터 제공.\n- 쇼크 또는 장기 손상과 같은 합병증을 줄이고 불필요한 수혈을 방지하여 환자 안전 및 의료 의사 결정을 개선.",
+      "full_translated": "연구진은 환자의 안전과 의료 의사 결정을 개선하기 위해 수술 중 혈액 손실을 실시간으로 추정하는 인공지능 시스템을 출시했습니다. Estimata-Ex라는 이 혁신은 치앙마이 대학교 의과대학과 국립 전자 컴퓨터 기술 센터(Nectec)의 협력이었습니다. 개발자들은 이것을 수술 중 혈액 손실을 즉시 분석하여 의사에게 보다 정확한 데이터를 제공할 수 있는 태국 최초의 의료 AI 시스템이라고 설명합니다. 의과대학 학장인 Narain Chotirosniramit 박사는 마하라지 나콘 치앙마이 병원에서 매년 16,000~17,000건의 수술을 수행하고 북부 지역 8개 지방의 복잡한 환자를 치료한다고 말했습니다. 상당한 혈액 손실 위험이 있는 환자를 관리하는 것은 여전히 수술팀에게 주요 과제입니다. Narain 박사는 \"현재 수술 중 손실되는 혈액의 양은 종종 시각적으로 추정되며, 이는 20%에서 40%까지 부정확할 수 있습니다.\"라고 말했습니다. \"이러한 오류는 혈액 손실이 과소평가될 경우 치료를 지연시켜 쇼크 또는 장기 손상으로 이어질 수 있습니다.\" 과대 평가는 또한 불필요한 수혈을 유발하여 합병증과 치료 비용을 증가시킬 수 있다고 그는 말했습니다. Estimata-Ex(수술 중 혈액 손실의 AI 기반 추정의 약자) 시스템은 이미지 처리 및 딥러닝 알고리즘을 사용하여 혈액에 젖은 수술 재료를 분석하여 이 문제를 해결합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 의료 기술의 발전은 여행자에게 간접적인 영향을 미칠 수 있으며, 의료 서비스에 대한 신뢰도를 높일 수 있음. 하지만 직접적인 영향은 적으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "AI system tracks surgical blood loss",
+          "url": "https://www.bangkokpost.com/thailand/general/3211725/ai-system-tracks-surgical-blood-loss",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "마카오 MGM, EM District와 협력하여 태국 관광 및 비즈니스 활성화 추진",
+      "summary": "- 마카오의 MGM이 태국 EM District와 손잡고 새로운 관광 및 비즈니스 시대를 열 예정입니다.\n- 이번 협력은 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "마카오의 대담한 태국 진출: MGM, EM District와 협력하여 새로운 관광 및 비즈니스 시대 개막 - Travel And Tour World",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 산업 활성화에 대한 기대로, 새로운 비즈니스 기회 및 관광객 유치에 기여할 가능성이 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Macau’s Bold Move to Thailand: MGM Teams Up with EM District to Unleash a New Era of Tourism and Business - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUmt3NHhvUUN4TDZ1a3FkMlEyYzBYUXBBWDJSVGVjUm5OMGMwYi1zQmNYcW9ZMmluc3ZHOEFvZ0hJb3JzMFc2TXFBRV96LTJlMVBDS0plNllJTGMzNFo1bWpRTVFQa2JON2lnMWYtOS1UaTdCdU1tcG9HY0NDQTJsQTdmMTVTNEIwSVI1cnN5V2lPTlozZ1JDWDE4R2hTNVhPb2FhNjFZZ0g4Ym1yeTVzZkVPdHNvWkVUUWR0WWthM0ZHTmhDSzJwakZuT3ZWNy1xdjAwM0RkbFNJTm4xZzZFazNNNWVVOWs?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 테니스 마스터스 2026 저지 출시, 스포츠 관광 추진",
+      "summary": "- 태국 테니스 마스터스 2026 기념 저지 출시.\n- 스포츠 관광 활성화 노력의 일환.\n- 자세한 내용은 MSN에서 확인 가능.",
+      "full_translated": "태국 테니스 마스터스 2026 저지 출시로 스포츠 관광 추진 시작 MSN",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "2026년에 있을 테니스 마스터즈 대회 홍보와 관련된 소식으로, 스포츠 관광에 관심 있는 여행객들에게 소소한 정보를 제공.",
+      "event_info": {
+        "date": "2026",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "태국 테니스 마스터스 2026"
+      },
+      "references": [
+        {
+          "title": "Thailand Tennis Masters 2026 jersey launch kicks off sports tourism push - MSN",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQOXFLekNKcEJKVGhORlFMZXpHRkZuMHhEeEVjYWpoV19MVUdwZWloZk9hQUVCYjFDUnp0QzR5RHJhU0NSVDN4ZlJDUU5mcVA0ZF9xd0lSejJBX3gxekhPZWpnUE54MHB5c1pXdEZYbkZhTWR2c1MwazdKVU1SdllQbnRvci1TWjBCRF8ySkt4OFFtbm8yYXYzTmdXYUItU3p1TnhBU1F6dVVKSWZVbzZheVZ1QUlGS3ZuRE5NTVVIWDZwWW1wWnpEb0Zzd2lsRGtWM3owdUNZS19oTjZoaWJmWG5wWE5Bb3oxbVd6WXVGcU0yX1d3R01NYWFxZ2xhS24xMUllVmFraw?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중동 긴장 속 태국 관광 주식 타격: Maybank Securities, '궁극적인 매수 기회' 제시",
+      "summary": "- 중동 지역 긴장 고조로 인해 태국 관광 산업 관련 주식 하락.\n- Maybank Securities는 이를 장기적인 관점에서 '궁극적인 매수 기회'로 평가.\n- 투자자들에게 현재의 주가 하락을 활용하여 태국 관광 시장에 투자할 것을 권장.",
+      "full_translated": "중동 긴장 속 태국 관광 주식 타격: Maybank Securities, '궁극적인 매수 기회' 제시 – 알아야 할 이유!\n\nMaybank Securities는 중동 지역의 긴장 속에서 태국 관광 주식이 타격을 입었으며, 이를 '궁극적인 매수 기회'라고 평가했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "주식 시장 관련 정보로, 직접적인 여행 정보는 아니지만, 관광 산업 전반에 대한 간접적인 영향을 줄 수 있어 낮은 점수 부여. 현재 시점에서는 영향이 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Stocks Take a Hit Amid Middle East Tensions: Maybank Securities Calls This ‘The Ultimate Buying Opportunity’ – Here’s Why You Need to Know! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPSjJvTW94aW5Wa293M3k3N214SU1VbnB1WkU1ZUFnLU9COVQ3RFBGUDNiUDV5aHM3OW14YjVPZlY1OTZwN29sR0pkbjAwZUdrNTlZLXk0dHMzNFA3T1pvanR0aW01QkhFMlVHeVVfTlFNM1BieHpldmYxYkNHVTBEeHNYaHNPTXEwNzlNbG8xUU1HdVh2cHJnR1M4Z2NyVFZEb0dpbXBZTV9jZGd4SzdlZGxEdlRFcDEtYVE2dDJFR2J3VEdtZnJsOE9hS0l4RWFRdzJtdXAyRExyV3c0eG1MWnVKSlh2RXFGVmtYNDlFS3I1RVI1Z25vaFZqZWNzZVRMalhyam5nSUJWVmd1M0lvVFFha3ZvVkFmaXI5SXh2RlRaSGVaekE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
   ]
