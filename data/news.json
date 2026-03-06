@@ -18387,14 +18387,9 @@
       "summary": "- 태국 경찰청은 국가 보안 및 외국과의 관계 유지를 위해 보안 강화 지시.\n- 주요 인물, 장소, 대사관, 영사관에 대한 보안 조치 강화.\n- 공항에서의 입국 심사 강화 및 비상 상황 대비.",
       "full_translated": "태국 경찰청은 개인, 대사관, 영사관, 공항의 안전을 24시간 보호할 준비가 되어 있다고 밝혔습니다. 2024년 3월 6일 18시 05분, 타위롱 피우판 경찰청 부대변인은 중동 지역의 전투 상황 관리 및 추적 센터(써벅.) 회의 후 태국 내 보안 유지에 대해 다음과 같이 언급했습니다. 총리는 중동 지역의 태국인들을 신속하게 지원하라고 지시했으며, 모든 부서는 24시간 운영 준비를 해야 합니다. 경찰청장 킷랏 판펫은 형법 위반 예방, 왕국의 평화와 질서 유지, 국가 안보 및 국제 관계 유지를 위해 각 부서에 긴급 지시를 내렸습니다. 외교부, 군대 및 관련 기관과 협력하여 주요 인사, 주요 장소, 대사, 대사관, 영사관 및 정부 기관에 대한 보안 조치를 강화하고 상황을 모니터링하며, 특히 감시 대상 국가에서 사건을 일으키거나 법을 위반할 수 있는 외국인을 조사할 것을 지시했습니다. 국경 출입국 경로와 자연 경로를 따라 순찰 및 검문소를 강화하고, 관련 기관과 협력하여 태국인 귀국에 대비한 공항 지원 대책을 마련할 것을 지시했습니다. 또한 경찰청장은 외교부, 회원국, 국제 경찰 기구와 정보를 공유하고 경찰 외교 채널을 통해 긴밀히 협력하여 정보를 감시하고 확인할 것을 지시했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 내 주요 시설 및 외교 공관에 대한 보안 강화는 잠재적으로 여행객에게 영향을 미칠 수 있으며, 공항에서의 보안 강화는 입국 절차에 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ตำรวจยืนยัน พร้อมดูแลความปลอดภัยบุคคล-สถานทูต-สถานกงสุล-สนามบิน 24 ชั่วโมง",
@@ -18405,21 +18400,18 @@
       ],
       "collected_at": "22:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GD8nRg7TJGLP8.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/crime/2918406",
+      "source": ""
     },
     {
       "title": "미국-이란 분쟁 심화: 태국 경제 및 여행 산업에 미치는 영향",
       "summary": "- 미국-이스라엘의 이란 공격 이후 이란의 보복 공격으로 민간인 사망자 발생, 호르무즈 해협 폐쇄 위기.\n- 태국 내 유가 상승으로 정부가 가격 동결 명령, 중동 및 유럽 여행객의 항공편 차질로 관광 산업에 영향.\n- 태국 주식 시장 급락으로 일시 거래 중단, 트럼프 대통령은 이란 지도자 선출에 관여해야 한다고 주장.",
       "full_translated": "미국과 이스라엘의 이란에 대한 치명적인 합동 공격 이후 이란의 보복 공격이 이어지면서 전 세계가 경제적, 지정학적 반향과 씨름하고 있습니다. 미국과 이란 소식통에 따르면 민간인 사망자 수는 1,000명을 넘어섰으며, 이란 남부 미나브의 한 초등학교에 대한 논란이 여전한 공격으로 168명의 여학생이 사망한 것으로 알려졌습니다. 이스라엘에서는 지금까지 11명이 사망했습니다. 호르무즈 해협은 사실상 폐쇄되었습니다. 태국에서는 유가 상승이 즉각적인 영향을 미쳐 아누틴 차른비라쿨 임시 정부가 15일 가격 동결을 명령했습니다. 중동에서 출발하는 항공편과 이 지역을 경유하는 유럽 여행객들이 차질을 겪으면서 관광 산업이 영향을 받기 시작했습니다. 태국 주식도 수요일 급락하여 SET 지수가 8% 폭락한 후 자동 회로 차단기가 작동하여 30분간 거래가 중단되었습니다. 수요일 아침, 알 아라비아 영어는 “이란은 이스라엘과 미국이 정권 교체를 추구할 경우 이스라엘의 디모나 핵 시설을 표적으로 삼을 것”이라고 이란의 준공식 ISNA 통신을 인용하여 보도했습니다. 어제 Pete Hegseth 미국 국방장관은 도널드 트럼프 대통령이 암살 시도에서 살아남았다고 말했습니다. 트럼프는 이란의 다음 지도자를 선택하는 데 자신이 역할을 해야 한다고 주장했습니다. 지난 며칠 동안 태국...",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 유가 상승, 항공편 차질 가능성, 주식 시장 불안정 등 여행 및 경제에 미치는 영향이 큼. 기존 '트럼프, 이란 새 지도자 선출에 관여해야 한다고 주장' 기사를 업데이트하여 더 자세한 내용을 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Why it matters for Thais and Thailand to say no to the US-led rule of the jungle",
@@ -18430,21 +18422,18 @@
       ],
       "collected_at": "22:28",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/ENG-Pravit16-copy.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.khaosodenglish.com/featured/2026/03/06/why-it-matters-for-thais-and-thailand-to-say-no-to-the-us-led-rule-of-the-jungle/",
+      "source": ""
     },
     {
       "title": "태국 이민국, 관광객 부당 대우 주장에 대한 캄보디아 언론 비판",
       "summary": "- 태국 이민국은 캄보디아 및 인도 관광객이 부당하게 입국 거부되고 추가 요금을 강요받았다는 캄보디아 언론의 보도를 부인함.\n- 퐁톤 퐁랏차타난 이민국 부사령관은 해당 보도가 완전히 부정확하며 태국의 관광 이미지를 해칠 수 있다고 밝힘.\n- 입국 거부된 외국인은 즉시 귀국행 티켓을 예약해야 하거나 1,000바트의 수수료를 내야 한다는 주장은 사실이 아니라고 덧붙임.",
       "full_translated": "태국 방콕 - 태국 이민국은 목요일 캄보디아 언론이 캄보디아 및 인도 관광객이 태국 공항에서 부당하게 입국을 거부당하고 추가 요금을 강요받았다는 보도를 부인했습니다. 퐁톤 퐁랏차타난 이민국 제2부사령관 겸 대변인은 해당 보도가 “완전히 부정확”하며 한쪽 측면만을 제시하여 대중을 오도하고 태국의 관광 이미지를 해칠 수 있다고 말했습니다.\n\n캄보디아 언론은 일부 외국인 여행자가 입국을 거부당하고 즉시 귀국행 티켓을 예약해야 하며 1,000바트의 수수료를 부과받았다고 주장했습니다. 퐁톤은 그러한 관행은 존재하지 않는다고 말했습니다. 입국이 거부된 외국인은 즉시 티켓을 예약해야 할 필요가 없으며 이민국 직원은 1,000바트의 수수료를 징수하지 않습니다. 그는 카타톤 캄티앙 이민국 제2사령관이 공항 이민국 직원에게 승객 심사를 법률 및 전 세계 이민국 당국이 사용하는 국제 표준에 따라 엄격하게 수행하도록 지시했다고 덧붙였습니다.\n\n당국은 체류에 충분한 자금이 없거나, 명확한 숙박 시설이나 여행 계획이 없거나, 불법적으로 태국에 입국하려는 것으로 보이거나, 사회에 위협이 된다고 간주되는 행동을 보이는 등 공공 질서 또는 보안에 위험을 초래할 수 있는 여행자를 심사하는 데 중점을 둡니다. 여행자의 입국이 거부되면 해당 개인은 태국으로 수송한 항공사에 인계됩니다. 항공사는 그들을 다시 데려갈 책임이 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 입국 정책 관련 정보는 여행자에게 중요하며, 특히 잘못된 정보에 대한 해명은 혼란을 방지하는 데 도움이 됨. 입국 거부 절차에 대한 정확한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai immigration slams Cambodian media over tourist mistreatment claims",
@@ -18455,21 +18444,18 @@
       ],
       "collected_at": "22:28",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/646373536_1230154169294328_1400777515121005884_n.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.khaosodenglish.com/news/2026/03/06/thai-immigration-slams-cambodian-media-over-tourist-mistreatment-claims/",
+      "source": ""
     },
     {
       "title": "태국 총리, 중동 긴장 속 연료 수출 금지... 라오스, 미얀마는 예외",
       "summary": "- 아니틴 찬위라꾼 태국 총리는 국내 연료 부족을 막기 위해 일부 연료 및 액화석유가스(LPG) 수출을 일시적으로 금지했습니다.\n- 이번 조치는 미국, 이스라엘, 이란 간의 갈등 심화로 중동 지역의 항공 공격과 주요 석유 수송로에 대한 통제가 강화된 데 따른 것입니다.\n- 수출 금지 조치는 휘발유, 가솔린, 고속 디젤, 제트 A1 항공 연료 및 LPG에 적용되며, 라오스와 미얀마는 예외입니다.",
       "full_translated": "아니틴 찬위라꾼 총리는 중동 지역의 긴장이 고조됨에 따라 태국 내 잠재적인 연료 부족을 방지하기 위해 여러 종류의 연료와 액화석유가스(LPG) 수출을 일시적으로 금지했습니다. 2026년 3월 6일 관보에 게재된 이번 명령은 총리령 제2/2026호에 따라 즉시 발효됩니다. \n\n이번 조치는 휘발유, 가솔린, 고속 디젤, 제트 A1 항공 연료 및 LPG를 포함한 정제 연료의 수출을 추후 통지가 있을 때까지 중단합니다. 정부는 이번 조치가 미국, 이스라엘, 이란 간의 갈등이 심화되어 중동 지역의 전략적 요충지에 대한 공습이 발생하고 페르시아만과 호르무즈 해협(세계 석유 수송의 핵심 통로)의 해운 경로에 대한 통제가 강화된 데 따른 것이라고 밝혔습니다. 당국은 이러한 상황이 태국의 연료 공급을 방해할 수 있으며 예측 불가능하다고 경고했습니다.\n\n이번 명령에 따라 수출 금지는 라오스와 미얀마로의 연료 선적에는 적용되지 않습니다. 또한 재수출을 위해 수입되어 보세 창고 또는 자유 구역에 보관된 연료, 태국 품질 기준을 충족하지 않아 국내에서 판매할 수 없는 연료도 면제됩니다. 이번 지침은 1973년 연료 부족 방지법에 따라 부여된 권한에 따라 발령되었으며, 이는 국내 연료 부족을 방지하거나 해결하는 것을 목표로 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 긴장으로 인한 연료 수출 금지는 태국 내 연료 가격 상승 및 공급 불안정을 야기할 수 있으며, 이는 여행객의 교통 및 물가에 간접적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai PM bans fuel exports amid Middle East tensions, except to Laos and Myanmar",
@@ -18480,21 +18466,18 @@
       ],
       "collected_at": "22:28",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/20260305151314_2986.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.khaosodenglish.com/news/2026/03/06/thai-pm-bans-fuel-exports-amid-middle-east-tensions-except-to-laos-and-myanmar/",
+      "source": ""
     },
     {
       "title": "마하 사라캄 병원, 20세 여대생 장기기증으로 새 생명 선사",
       "summary": "- 마하사라캄 대학교 1학년 여학생, 교통사고 후 장기기증 결정.\n- 심장, 간, 신장, 각막 기증으로 여러 환자에게 희망을 전함.\n- 올해 병원 최초 심장 기증 사례이며, 의료진의 헌신적인 노력으로 성공.",
       "full_translated": "마하사라캄 병원은 20세 여대생 프라위나 솜폰 양의 숭고한 장기 기증을 기립니다. 그녀는 심장, 간, 신장, 각막을 기증하여 여러 환자에게 새로운 삶의 기회를 제공했습니다. 2029년 3월 4일 교통사고로 뇌출혈을 겪은 후, 의료진은 최선을 다해 치료했지만 안타깝게도 그녀는 회복하지 못했습니다. 가족들은 고인의 숭고한 뜻을 기려 장기 기증을 결정했고, 의료진은 태국 적십자사와 협력하여 기증 절차를 진행했습니다. 이번 기증은 마하사라캄 병원에서 처음으로 심장 기증이 이루어진 사례이며, 여러 의료 기관의 협력과 의료진의 헌신적인 노력으로 성공적으로 마무리되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 사회의 긍정적인 면모를 보여주는 감동적인 이야기이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": "2029-03-06",
-        "location": "마하사라캄 병원",
-        "price": null,
-        "location_google_map_query": "마하사라캄 병원"
-      },
+      "event_info": "{'date': '2029-03-06', 'location': '마하사라캄 병원', 'price': None, 'location_google_map_query': '마하사라캄 병원'}",
       "references": [
         {
           "title": "\"น้องแป้ง\" นิสิตชั้นปีที่ 1 บริจาคหัวใจ ตับ ไต ดวงตา สร้างบุญกุศลใหญ่ครั้งสุดท้าย",
@@ -18505,6 +18488,58 @@
       ],
       "collected_at": "22:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GD8HVpVV8v6CU.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/society/2918400",
+      "source": ""
+    },
+    {
+      "title": "이란 전쟁으로 태국 관광 산업 2026년 25% 급감 예상",
+      "summary": "- 이란 전쟁으로 인한 항공 여행 혼란으로 2026년 태국 관광 산업이 25% 감소할 것으로 예상됨.\n- 유럽, 중동 및 장거리 시장에서 방문객 수가 크게 감소할 것으로 보임.\n- 여행 및 관광 산업에 심각한 타격이 예상됨.",
+      "full_translated": "이란 전쟁으로 태국 관광 산업 2026년 25% 급감 예상\n\n이란 전쟁으로 인한 국제 항공 여행 혼란이 유럽, 중동 및 장거리 시장에서 태국 방문객 수에 심각한 영향을 미쳐 2026년 태국 관광 산업이 25% 급감할 것으로 예상됩니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "이란 전쟁으로 인한 관광 산업의 잠재적 감소는 여행 계획에 영향을 미칠 수 있으므로 여행객에게 중요한 정보입니다. 항공편 취소 또는 변경 가능성이 높아짐.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Faces a Severe Twenty-Five Percent Decline in 2026 Tourism as Iran War Triggers Global Air Travel Chaos, Severely Impacting Visitor Numbers from Europe, the Middle East, and Long-Haul Markets - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPRDQ0UzI2STVtdjVIUWoxQUFMMXBDRlVudkU5Yzc2Z3NObzR5b1RJbnRXbUhhdmx0SGJ2ckNpeVFLUVpqaldjYTlucFlRM01Rck8yLVRQeldEUzliUnpET25HR0JZVzZwdlQyRHBoeTNWQ3hLcGdhcVN4bktieTZBT0djb3J4RHd5RnZfdUhUcXQwNm1BeEFvbHc3aXg2RmYtR21scWJIbURyeXI1LU1FNjBCZW1GWHNWeTAteTRKVFcxRHJkeGMzQU9OOVJCNmJGYjNtaUYybExWZTA1amJERG5YMXg0OWNieEtHVTFBZDMwNi1FTkZ1N0tVZVc4NjUyYlpFcEJCYUZwUFJybjNBdWphQTNoV1ZPajB2THRVTlNzcDFiVGFVTE5RX1lZOTRuSGJ0TXp0QlQ1ejV3SWZhT25pQzliYll5MV9zTzNPVVhxQmlheTUzMExMckM1R0hEeU5vUA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "Dozens of tigers die of canine distemper at Thai tourist parks",
+      "summary": "- 태국 관광 공원에서 수십 마리의 호랑이가 개 디스템퍼로 사망했습니다.\n- 동물원 및 야생 동물 보호에 대한 우려가 제기되고 있습니다.\n- 여행객은 동물 관련 시설 방문 시 주의를 기울여야 합니다.",
+      "full_translated": "태국 관광 공원에서 수십 마리의 호랑이가 개 디스템퍼로 사망했습니다. 이는 동물 복지에 대한 우려를 불러일으키고 있으며, 여행객들은 이러한 상황을 인지하고 동물 관련 시설 방문 시 신중한 판단을 내릴 필요가 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물 관련 시설의 안전 및 복지 문제에 대한 정보를 제공하여 여행 시 참고할 수 있도록 함.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "Dozens of tigers die of canine distemper at Thai tourist parks - DVM360",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczdiRUg3Nmp4YlRhcy1RdlQ2QnBtNTVSZmV6S3lfbWR6UzNoa2hzVjZ4VEYzcXJteVh6aVFMQXpQX2Z3eGNwVFFFNVFjR2dfWHVIczQ0YUFiZndyWUVTaWVDX2h1UUNFaXgxNEhmREhUNWdKTTdmME5wN3NsU3hsN3VDdWlqbVN2VVJpNmk1czFrVzVC?oc=5",
+          "source": "DVM360",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-06"
     }
   ]
