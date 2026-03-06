@@ -18651,14 +18651,9 @@
       "summary": "- 뉴욕 포스트 보도에 따르면 방콕의 한 술집 앞에서 거구의 보디빌더가 술 취한 관광객들을 폭행하여 기절시켰습니다.\n- 정확한 사건 경위는 아직 조사 중입니다.\n- 여행 시 안전에 유의하고, 특히 심야 시간대에는 과도한 음주를 자제하는 것이 좋습니다.",
       "full_translated": "뉴욕 포스트에 따르면 방콕의 한 술집 앞에서 거구의 보디빌더가 술에 취한 관광객들을 폭행하여 기절시키는 사건이 발생했습니다. 현재 정확한 사건 경위는 조사 중이며, 관련 영상이 온라인에 퍼지면서 논란이 일고 있습니다. \n\n관광객들은 여행 시 안전에 각별히 유의해야 하며, 특히 심야 시간대에 과도한 음주는 자제하는 것이 좋습니다. 현지 법규를 준수하고, 불필요한 시비에 휘말리지 않도록 주의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객 안전에 직접적인 위협이 될 수 있는 사건이므로 게시 필요. 폭행 사건은 여행객들에게 불안감을 조성할 수 있으며, 주의를 환기시킬 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 술집"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 술집'}",
       "references": [
         {
           "title": "Giant bodybuilder knocks out drunk tourists in wild street fight outside bar - New York Post",
@@ -18667,23 +18662,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:59",
+      "collected_at": "0:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFpROTFGazd3Um9QRzNHN0xPVTB5TUVwMXB2aGNzbHRraE5xVmZSbmNSWTMwY1ctR1liSG9DYUpzV0U0alVwT3BhRVJpVFNUUjkxelVsOXBOb2xZaXNYMWJaU2d3blp2c0VqbTNQWDk1TS1ObGI4SjJ1bHJCOVVaYkc2V0NHaGptcWZ5V3RUOEZuSWs4MEF1eUZDekNGLWs0Zmc5M0tZTV9VTmFoMm0telM0ME0?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, ITB 베를린 2026 참가: 독일 관광객 증가 추세",
       "summary": "- 파타야 대표단이 ITB 베를린 2026에 참가하여 관광 도시로서의 입지를 강화하고자 함.\n- 2025년 태국을 방문한 독일 관광객은 약 96만 명으로 전년 대비 10.6% 증가.\n- 독일 관광객은 주로 자유여행객이며, 방콕, 푸껫, 치앙마이 등에서 해변 휴가, 가족 여행, 웰빙 경험을 선호.",
       "full_translated": "ITB 베를린은 세계 최대 규모의 여행 박람회로, 2026년 3월 3일부터 5일까지 독일 베를린에서 개최되었습니다. 올해는 '60년 유산 뒤에 숨겨진 이야기 발견'이라는 모토 아래 60주년을 기념하며, '균형 잡힌 관광으로의 주도'라는 컨벤션 주제를 다루었습니다. 지속 가능한 관광 관행과 글로벌 여행 산업 전반의 균형 달성에 초점을 맞추었습니다.\n\n독일은 태국에게 중요한 장거리 시장입니다. 2025년에는 약 965,898명의 독일 방문객이 태국을 방문하여 전년 대비 10.60%의 견고한 성장을 보였습니다. 이러한 상승 추세는 2026년 초에도 이어져 1월 1일부터 31일까지 155,700명의 독일 관광객이 도착하여 전년 대비 2.55% 증가했습니다.\n\n태국을 방문하는 독일 여행객은 주로 첫 방문객과 자유여행객(FIT)입니다. 인기 있는 목적지는 방콕, 수랏타니, 푸껫, 끄라비, 치앙마이입니다. 주요 선호 사항으로는 해변 휴가, 가족 여행, 건강 및 웰빙 경험이 있습니다. 평균적으로 15.58박을 머물며 성수기는 1월~3월과 11월~12월입니다.\n\nITB 베를린 2026에 파타야 대표단의 참가로, 파타야는 최고 품질의 관광 목적지로서의 입지를 다지겠다는 의지를 보여주고 있습니다. 이 주요 국제 플랫폼에 참여함으로써 파타야는 유럽 시장, 특히 독일에서 입지를 넓히고 지속 가능한 관광 이니셔티브를 발전시키고자 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "독일 관광객 증가 추세와 파타야의 관광 마케팅 전략을 보여주는 정보로, 여행 계획에 참고할 만함.",
-      "event_info": {
-        "date": "2026-03-03",
-        "location": "베를린",
-        "price": "정보 없음",
-        "location_google_map_query": "베를린 전시 센터"
-      },
+      "event_info": "{'date': '2026-03-03', 'location': '베를린', 'price': '정보 없음', 'location_google_map_query': '베를린 전시 센터'}",
       "references": [
         {
           "title": "Pattaya City Delegation Joins Royal Welcome at ITB Berlin 2026 as German Tourism Increases Year Over Year to Thailand",
@@ -18692,23 +18684,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727292672964816774429871106833.jpg?v=1772729787"
         }
       ],
-      "collected_at": "00:59",
+      "collected_at": "0:59",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727292672964816774429871106833.jpg?v=1772729787",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://thepattayanews.com/2026/03/05/pattaya-city-delegation-joins-royal-welcome-at-itb-berlin-2026-as-german-tourism-increases-year-over-year-to-thailand/",
+      "source": ""
     },
     {
       "title": "부패 연루 장관 임명에 대한 태국 국민의 강한 반대 여론",
       "summary": "- KPI 여론조사 결과, 응답자의 48.9%가 부패 연루 전력이 있는 장관을 반대함.\n- 이는 정부의 청렴성과 능력에 대한 국민적 요구가 높음을 시사.\n- 응답자들은 부패 외에도 이해 충돌, 잦은 당적 변경, 전문성 부족 등을 장관의 결격 사유로 꼽음.",
       "full_translated": "킹 프라자디폭 연구소(KPI)의 여론조사에 따르면 태국인의 거의 절반이 부패 기록이 있는 장관을 두는 것에 반대하며, 이는 정부의 청렴성과 능력에 대한 강력한 국민적 요구를 강조합니다.\n\nKPI가 실시한 '태국 국민의 꿈의 내각'이라는 제목의 설문 조사는 2월 27일부터 3월 2일까지 전국 18세 이상 응답자 1,908명을 대상으로 실시되었습니다. 설문 조사는 새로운 내각의 구성 및 자질에 대한 대중의 기대를 조사했습니다.\n\n결과에 따르면 응답자의 48.9%가 이전에 부패 또는 심각한 청렴성 관련 사건에 연루된 장관을 원하지 않으며, 이는 가장 강력하게 거부된 특성입니다. 다른 바람직하지 않은 특징은 훨씬 뒤쳐져 있습니다. 약 17.9%는 자신이 감독하는 부처와 관련된 이해 상충 관계가 있는 장관에 반대했고, 15.3%는 지위를 추구하기 위해 당적을 자주 바꾸는 등 이념적 헌신이 부족하다고 인식되는 정치인을 거부했습니다. 또 다른 14.9%는 자신의 부처와 관련된 전문 지식이 부족한 개인에 반대했고, 3.0%는 과거 행정 실패가 있는 후보자를 거부했습니다.\n\n이 여론조사는 부패가 많은 유권자에게 '넘지 말아야 할 선'이 되었으며, 정치적 거래보다는 윤리적 거버넌스와 능력 기반 임명에 대한 기대가 높아지고 있음을 반영합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황에 대한 정보 제공. 직접적인 여행 관련성은 낮으나, 알아두면 유용한 정보. 정치적 불안정 가능성이 낮다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Poll finds strong opposition to tainted ministers",
@@ -18717,23 +18706,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211370_700.jpg"
         }
       ],
-      "collected_at": "00:59",
+      "collected_at": "0:59",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211370_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/politics/3211370/poll-finds-strong-opposition-to-tainted-ministers",
+      "source": ""
     },
     {
       "title": "태국-중국 투자 포럼, 800명 이상의 투자자 유치",
       "summary": "- 태국 투자 기회 제시 및 사업 규정, 모범 사례 정보 제공 목표\n- 전자, 자동차, 금속 제품, 기계, 화학, 디지털 분야 대표 참석\n- 향후 5년간 중국 기업으로부터 6천억 바트 이상의 투자 유치 기대",
       "full_translated": "태국-중국 투자 포럼이 태국의 목표 산업에 대한 투자 기회를 제시하고, 태국에서 사업을 운영하는 중국 투자자들을 위한 사업 규정 및 모범 사례에 대한 주요 정보를 제공하는 것을 목표로 개최되었습니다. 20개 이상의 파트너 기관이 상담 부스를 설치했으며, 태국에 기반을 둔 800명 이상의 중국 투자자가 행사에 참석했습니다. 대부분의 대표는 전자, 자동차, 금속 제품, 기계, 화학 및 디지털 분야 출신이었습니다. 나릿 테르드스테라수크디 BOI 사무총장은 지정학적 긴장, 기술 전환 및 지속 가능성 압력을 포함한 급변하는 글로벌 환경 속에서 전 세계 주요 기업들이 사업 전략을 조정하고 강력한 펀더멘털과 지정학적 중립성을 갖춘 안정적인 투자처를 모색하고 있다고 말했습니다. 그는 이러한 요소들이 태국을 새로운 글로벌 투자 물결의 핵심 목적지로 자리매김하는 데 도움이 되었다고 말했습니다. 나릿은 “중국 투자자들은 향후 10년 동안 태국 경제를 이끄는 가장 중요한 그룹 중 하나가 될 것입니다.”라고 말했습니다. 2021년부터 2025년까지 지난 5년 동안 태국은 중국 기업으로부터 6천억 바트가 넘는 2,400건 이상의 투자 유치 신청을 받았다고 덧붙였습니다. Fortune China 500에 등재된 많은 주요 중국 기업들이 이미 태국에서 전기 자동차, 스마트 가전, 디지털 기술 및 에너지 저장 시스템과 같은 분야를 중심으로 사업을 운영하고 있습니다. 태국에서 운영되는 기업으로는 BYD, SAIC(M과 같은 EV 제조업체가 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 경제에 대한 중국 투자의 중요성을 강조. 관광 산업에 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand-China investment forum draws over 800 investors",
@@ -18742,23 +18728,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thailand-China-investment-forum-draws-over-800-investors-1.jpg"
         }
       ],
-      "collected_at": "00:59",
+      "collected_at": "0:59",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thailand-China-investment-forum-draws-over-800-investors-1.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.khaosodenglish.com/news/business/2026/03/06/thailand-china-investment-forum-draws-over-800-investors/",
+      "source": ""
     },
     {
       "title": "MGM, 태국 내 국제 관광 활성화를 위한 프로모션 확대",
       "summary": "- MGM이 태국 내 국제 관광객 유치를 위한 프로모션을 강화합니다.\n- 이는 태국 관광 산업의 활성화에 기여할 것으로 예상됩니다.\n- MGM은 다양한 마케팅 전략을 통해 태국을 매력적인 관광지로 홍보할 계획입니다.",
       "full_translated": "MGM, 태국 내 국제 관광 활성화를 위한 프로모션 확대 CDC Gaming",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업 활성화에 기여할 수 있는 정보이지만, 직접적인 여행객 안전 또는 편의 관련성은 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "MGM expands promotional efforts across Thailand to boost international tourism - CDC Gaming",
@@ -18767,7 +18750,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:59",
+      "collected_at": "0:59",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaURlbWRuU0RpWnpVckJreS1uanBCandycmx4ODBTUkZjRUxRLU9oUi1NQ1p0VGt0VDE3dW5PY3NlWm1hT2Q0UkNPd3VhUElFTGVFV3Q5ektpWmNTMWZ0ODd0akFnUEJQTG5GYlBDTmhBWXlxSktfWEJFcTVxZzlYZUp3Vll1UHI5V0xRNEdoVjJaaDcxTjV1Q0VHWTZlcTFMX2pyR3QxbWd4dkk?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야 뮤직 페스티벌 2026 공식 개막",
+      "summary": "- 촌부리 주지사가 센트럴 파타야 해변에서 개막식을 주재했습니다.\n- 3월 한 달간 매주 금요일과 토요일에 걸쳐 4주간 진행됩니다.\n- T-POP, 록, 힙합 등 다양한 장르의 태국 최고 아티스트들이 출연합니다.",
+      "full_translated": "3월 6일 오후 7시, 촌부리 주지사 Naris Niramaiwong 씨는 센트럴 파타야 해변 무대에서 개막식을 주재했습니다. 촌부리 지방 행정 기구 부회장 Phansak Ketwattana 씨, 파타야 시장 Poramese Ngampiches 씨, 이사라 차로엔차스리 부지사, 방라뭉 지역 대표 Anusak Piriyamorn 씨, 파타야 시 간부, 시의회 의원, 촌부리 지방 행정 기구 대표, 지방 경찰 사령관 및 여러 관련 기관의 관계자들이 함께했습니다.\n\n이번 페스티벌은 파타야 시와 촌부리 지방 행정 기구가 협력하여 파타야 해변을 다시 한번 세계적인 음악 명소로 탈바꿈시키기 위한 노력의 일환이며, 올해는 'Pattaya Waves Got Rhythm'이라는 주제로 진행됩니다. 주최측은 전 세계 관광객을 맞이하기 위해 조명, 음향, 안전 및 방문객 편의 시설에서 최고 수준을 제공하는 데 집중하고 있습니다. 라인업에는 T-POP, 록, 힙합 등 다양한 장르의 태국 최고 아티스트들이 출연하며, 자연적인 바다를 배경으로 공연이 펼쳐집니다.\n\n이 행사는 2026년 3월 내내 매주 금요일과 토요일에 4주 연속으로 진행됩니다.\n\n- 3월 6~7일: 센트럴 파타야 해변 무대\n- 3월 13~14일: 좀티엔 해변 무대 (The Now Hotel 앞)\n- 3월 20~21일: 코 란, 사매 해변\n- 3월 27~28일: 나클루아 공원, 보디 플라자\n\n올해 페스티벌은 도시 전역으로 엔터테인먼트를 확산시켜 지역 경제를 활성화하는 것을 목표로 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 열리는 대규모 뮤직 페스티벌 정보로, 여행객들에게 유용한 정보이며, 특히 3월에 파타야를 방문하는 여행객들에게 높은 영향력을 가짐. 한 달간 진행되므로 여행 계획에 참고할 수 있음.",
+      "event_info": {
+        "date": "2026-03-06",
+        "location": "센트럴 파타야 해변, 좀티엔 해변, 코 란 사매 해변, 나클루아 공원",
+        "price": "무료",
+        "location_google_map_query": "Central Pattaya Beach, Jomtien Beach, Samae Beach Koh Larn, Bodhi Plaza Naklua Public Park"
+      },
+      "references": [
+        {
+          "title": "Pattaya Music Festival 2026 Officially Kicks Off",
+          "url": "https://thepattayanews.com/2026/03/07/pattaya-music-festival-2026-officially-kicks-off/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17728190549816202933164484208607.jpg?v=1772820325"
+        }
+      ],
+      "collected_at": "01:51",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17728190549816202933164484208607.jpg?v=1772820325",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "파타야 경찰, 볼트 오토바이 운전사 사망 사건 용의자 체포",
+      "summary": "- 파타야에서 오토바이 운전사가 폭행으로 사망한 사건 발생.\n- 경찰, CCTV 분석 후 용의자 암낫 초티프롬랏을 체포.\n- 용의자는 사소한 접촉 사고 후 말다툼 끝에 폭행을 저질렀다고 진술.",
+      "full_translated": "파타야 경찰서 수사 부서의 아루스 사파논 경감은 2026년 3월 6일 파타야 지방 법원의 체포 영장에 따라 암낫 초티프롬랏 씨를 체포했습니다. 그는 다른 사람을 폭행하여 사망에 이르게 한 혐의를 받고 있습니다. 용의자는 Chalerm Phrakiat 14 골목의 임대 방에서 체포되었습니다. 사건은 2025년 10월 21일 파타야의 Soi Krom Thi Din에서 Soi Kao Phai로 이어지는 곳에서 발생했습니다. 경찰은 중상을 입은 폭행 사건에 대한 신고를 받았으며, 피해자는 나중에 부상으로 사망했습니다. 수사관들은 공격 장면이 담긴 시민 녹화 영상 검토 후 암낫 씨를 주요 용의자로 지목했습니다. 피해자는 볼트 애플리케이션을 통해 운영되는 오토바이 택시 운전사 Somkid Channok 씨였습니다. 경찰에 따르면 용의자는 당시 여자 친구와 격렬하게 다투고 있었습니다. Somkid 씨가 오토바이를 타고 지나갈 때 가벼운 충돌이 발생했고, 암낫 씨는 그에게 모욕적인 발언을 했다고 생각했습니다. 격분한 그는 운전사를 폭행했지만 심각한 해를 끼치거나 죽일 의도는 없었다고 주장했습니다. 그는 체포되는 동안 피해자의 사망 소식을 알게 되었고 깊은 후회를 표명했습니다. 암낫 씨는 모든 법적 책임을 지고 피해자 가족에게 보상할 의향이 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야에서 발생한 폭력 사건으로, 여행객 안전에 대한 간접적인 영향이 있을 수 있음. 최근 발생한 사건에 대한 정보 제공.",
+      "event_info": {
+        "date": "2025-10-21",
+        "location": "파타야, Soi Krom Thi Din에서 Soi Kao Phai로 이어지는 곳",
+        "price": null,
+        "location_google_map_query": "Soi Krom Thi Din, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Arrest Suspect Accused of Fatally Killing Bolt Driver Over Minor Traffic Incident",
+          "url": "https://thepattayanews.com/2026/03/07/pattaya-police-arrest-suspect-accused-of-fatally-killing-bolt-driver-over-minor-traffic-incident/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260307_0137438595466536175876862.jpg?v=1772822326"
+        }
+      ],
+      "collected_at": "01:51",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260307_0137438595466536175876862.jpg?v=1772822326",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 이민국, 관광객 학대 주장에 대해 캄보디아 언론 비난 - 카오솟 영어",
+      "summary": "- 태국 이민국이 캄보디아 언론의 태국 내 관광객 학대 주장에 대해 비판 성명을 발표했습니다.\n- 캄보디아 언론은 태국이 캄보디아 관광객을 부당하게 대우한다고 보도했습니다.\n- 태국 이민국은 이러한 주장을 일축하며 사실과 다르다고 반박했습니다.",
+      "full_translated": "태국 이민국은 관광객 학대 주장에 대해 캄보디아 언론을 비난합니다. Khaosod English",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국을 방문하는 캄보디아 관광객에게 잠재적인 영향을 미칠 수 있는 뉴스이므로 관련 정보를 제공합니다. 국가간 관계에 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai immigration slams Cambodian media over tourist mistreatment claims - Khaosod English",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjNTSUJZMEZjSzF6Q1FWMFJEUUFOLUJHdVpyajdEcVo5cjBucjdBSmpQRlFtSm9rLUgzcGZDRkRzVmhPNlhzeUF1Z1JtTVZWUmM1N2NpTEplQUZjclA5VzVSVjBTaDYtenhKcWVweFpoUm1SUWwzX25vb0RiT1djbVg2aDdtSXFVWlNnRWNwcEVUaEJ2YTZ2TWZXbVFYRld1NUxWakpaZTVkcWRoTGdvX3ZWQnJqVS1nN0Ew0gHAAUFVX3lxTE1WRHJmWlhVd0Q0dEwtcG5fbXozMlUzSEpmRnhqYWo1dWRweGE1NTBxdzBBTlpORTI1U2xFa2kyRlk2dmRndm1adGlCMi00X05TUGhzRFRkd2xXOFZGYlBBM211bFpDeEUySEg4bXc4bDdkdTgzTFRtOGx6UlpQUlliM01adlZGQ09uYi14b2hHQkJPQkNyb3Y4U0FrN2xMRVk1VThxWGFWeUtOMHk4VURLeHhFM24wY3RHekRJMVpzNw?oc=5",
+          "source": "Khaosod English",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
