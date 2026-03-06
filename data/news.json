@@ -17727,14 +17727,9 @@
       "summary": "- 태국 교통부는 중동 지역 긴장 고조에 따른 에너지 가격 상승 가능성에 대비, 대중교통 요금 인상 감시를 강화합니다.\n- 부총리 겸 교통부 장관은 요금 인상 제한을 지시하고 상황을 면밀히 주시하기 위한 '워 룸(War Room)'을 설치했습니다.\n- 육상, 해상, 항공 운송 당국은 요금 규정 준수 여부를 철저히 감독하고 있으며, 필요시 협조를 요청할 예정입니다.",
       "full_translated": "태국 교통부는 중동 긴장 고조에 따른 영향에 대비하여 모든 시스템의 요금 인상을 억제하고 있습니다. \"피팟\" 장관은 위기 상황을 주시하기 위한 워 룸을 설치하라고 지시했습니다.\n\n교통부는 관련 기관과 긴밀히 협력하여 상황을 주시하고 있으며, 중동 지역의 긴장 상태를 주시하면서 모든 시스템의 요금 인상을 통제하고 법정 한도를 초과하는 인상을 금지하여 국민의 부담을 완화하고자 합니다. 피팟 랏차킷프라칸 부총리 겸 교통부 장관은 아누틴 찬위라쿨 총리의 지시에 따라 모든 기관이 중동 지역의 긴장 상황에 대한 대비책을 마련해야 하며, 이는 세계 에너지 가격에 영향을 미칠 수 있다고 밝혔습니다. 교통부 차야탐 프롬손 사무차관은 관련 기관과 협의하여 특히 대중교통 요금 인상을 법정 한도 내로 제한하는 등 국민을 위한 조치를 신속하게 결정했습니다.\n\n피팟 장관은 교통부가 중동 지역의 불안정한 상황으로 인한 영향을 면밀히 주시하고 모든 유형의 운송 사업자가 법률에 규정된 범위 이상으로 요금이나 상품 운송료를 인상하지 않도록 감독하기 위해 상황 모니터링 센터(워 룸)를 설치했다고 밝혔습니다. 또한 정부가 국내 디젤 가격을 동결하는 동안 서비스 제공업체에 요금 동결을 요청했습니다.\n\n또한 그는 육상 운송국(디엘티), 철도 운송국(에스알티), 해양국(엠디) 및 태국 민간 항공국(씨에이에이티)과 같은 소속 기관이 각 운송 시스템에서 조치를 신속하게 구현하도록 지시했습니다. 육상 운송의 경우 모든 유형의 버스, 대중 교통 및 택시가 법률에 명시된 요금을 엄격히 준수하는지 확인하고 단속합니다. 해상 운송의 경우 여객선 및 화물선 사업자가 규정된 것보다 높은 요금을 부과하지 않는지 확인하고 국제 상품 운송료를 면밀히 모니터링합니다. 항공 운송의 경우",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 정세 불안으로 인한 교통비 인상 가능성에 대한 정부의 감시 강화. 여행객의 이동 비용에 직접적인 영향을 줄 수 있으므로 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สกัดขึ้นค่าโดยสาร คุมเข้มทุกระบบ “พิพัฒน์” สั่งตั้ง War Room จับตาวิกฤติตะวันออกกลาง",
@@ -17745,21 +17740,18 @@
       ],
       "collected_at": "17:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzHZbIXWgGHUP.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2918361",
+      "source": ""
     },
     {
       "title": "태국 산업부, 유가 급등에 따른 산업 비용 감시 및 기업 지원 위한 긴급 조치 발표",
       "summary": "- 태국 산업부는 중동 분쟁으로 인한 유가 및 물류비 상승에 대비하여 산업 비용을 감시하고 있습니다.\n- 생산 공정 개선, 비용 절감, 자금 지원, 세제 혜택 등 4가지 긴급 조치를 통해 기업을 지원할 계획입니다.\n- 에너지 효율성 향상, 수입 원자재 의존도 감소, 생산 유연성 강화를 위한 산업 구조 개편 계획도 수립 중입니다.",
       "full_translated": "태국 산업부(어꺼.)는 중동 분쟁으로 인해 유가 및 물류비가 상승할 가능성에 대비하여 4가지 주요 조치를 통해 기업을 지원할 것이라고 밝혔습니다. 이러한 조치에는 생산 공정 개선, 생산 비용 절감, 자금 지원 및 혜택이 포함됩니다. 또한 중장기적으로 산업 구조를 조정하여 에너지 효율성을 높이고 수입 원자재에 대한 의존도를 줄이며 세계 경제 변동 속에서 태국 생산 부문의 유연성을 강화할 계획입니다.\n\n타나콘 왕분콩차나 산업부 장관은 2026년 2월 28일 이란-이스라엘-미국 간의 분쟁으로 인해 호르무즈 해협이 폐쇄될 가능성이 있다고 밝혔습니다. 호르무즈 해협은 전 세계 석유 소비량의 약 20%를 차지하는 주요 해상 석유 수송로입니다. 만약 전쟁이 장기화될 경우 국제 유가는 배럴당 150달러까지 상승할 수 있습니다. 현재 유가는 배럴당 79달러(2026년 3월 6일 기준)이며, 이로 인해 생산 공정에서 연료를 사용하는 산업과 해상 운송 비용이 증가할 것으로 예상됩니다.\n\n산업부는 에너지 비용 위험에 대한 면밀한 모니터링이 필요한 산업을 평가하기 위해 산업 구조를 분석했습니다. 그 결과 시멘트 및 콘크리트 제조, 유리/판유리 제조, 타일 및 세라믹 제조, 가스 및 석유 생산, 섬유 및 의류 제조, 펄프 및 제지 생산과 같은 에너지 집약적 산업은 에너지 가격 상승의 영향을 받을 가능성이 높습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 관련 직접적인 영향은 적으나, 물가 상승 가능성이 있어 정보 제공. 유가 상승은 여행객의 교통비 증가로 이어질 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อก.เฝ้าระวังต้นทุนภาคอุตสาหกรรม หวั่นราคาน้ำมันพุ่ง อัด 4 มาตรการเร่งด่วนช่วยผู้ประกอบการ",
@@ -17770,21 +17762,18 @@
       ],
       "collected_at": "17:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EyfZIjrtgjaTI.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2918358",
+      "source": ""
     },
     {
       "title": "DSI 국장, 보직 변경설에 대해 '정상적으로 업무 수행 중'이라고 해명",
       "summary": "- DSI 국장 윳타나 패담은 보직 변경설에 대해 언론 보도를 통해 알게 되었다고 밝힘.\n- 아직 구체적인 내용은 전달받지 못했으며 현재 정상적으로 업무를 수행 중이라고 덧붙임.\n- 진행 중인 주요 사건들에 대해 신속하게 처리할 것이라고 강조함.",
       "full_translated": "DSI 국장 윳타나 패담은 자신의 보직 변경설에 대한 언론 보도에 대해 해명하며 현재 정상적으로 업무를 수행하고 있다고 밝혔습니다. 그는 자신이 다른 사람으로 대체될 것이라는 소식을 언론을 통해 접했으며, 아직 구체적인 내용은 전달받지 못했다고 말했습니다. 윳타나 국장은 현재 모든 사건을 신속하게 처리하기 위해 노력하고 있으며, 특히 카오 끄라동 사건과 특별 사건인 앙이-돈세탁 사건을 계속 진행하고 있다고 밝혔습니다. 검찰이 추가 조사를 위해 7개 그룹에 대한 조사를 지시한 것에 대해서는 증거를 수집하고 있으며 선거관리위원회에 서한을 보냈다고 언급했습니다. 카오 끄라동 사건은 특별 사건으로 받아들여지지 않았지만 여전히 진행 중이라고 밝혔으며, 정치적 변화로 인해 사건이 흐지부지될 것이라는 시각에 대해서는 부인했습니다. 그는 언론과의 인터뷰를 마치며 사건을 계속 진행할 것이라고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "DSI 국장의 보직 변경설 관련 해명은 일반적인 정치 뉴스에 해당하며, 여행객에게 직접적인 영향은 미미하다고 판단됨.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“อธิบดีดีเอสไอ” แจงข่าว เตรียมถูกเด้งเข้ากรุ บอกยังทำหน้าที่ตามปกติ",
@@ -17795,21 +17784,18 @@
       ],
       "collected_at": "17:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzHtAJEsxT5bv.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/crime/2918365",
+      "source": ""
     },
     {
       "title": "송클라 지역 국회의원, 의회 보고. DSI 수사 직전",
       "summary": "- 초노나팟 나카수아 의원, 3월 4일 의회 보고\n- DSI, 뻐뻐응 합동으로 자택 수색 하루 전\n- 의원 면책특권으로 체포/소환 불가",
       "full_translated": "ชนนพัฒฐ์ 나ค스ั้ว 송클라 지역구 의원이 3월 4일 의회에 보고했습니다. 이는 DSI(태국 특별수사국)와 뻐뻐뻐응(돈세탁방지위원회)이 그의 자택을 수색하기 하루 전이었습니다. 현재 그는 의원으로서 면책특권을 가지므로, 의회의 허가 없이는 체포 또는 소환될 수 없습니다. 헌법 124조와 125조에 따라 의원은 의회 내에서 발언에 대해 책임을 지지 않으며, 이는 라디오 등을 통한 중계에는 적용되지 않습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없음. 다만, 태국 정치 상황에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": null,
-        "location": "송클라",
-        "price": null,
-        "location_google_map_query": "송클라"
-      },
+      "event_info": "{'date': None, 'location': '송클라', 'price': None, 'location_google_map_query': '송클라'}",
       "references": [
         {
           "title": "เปิดภาพ “ชนนพัฒฐ์ นาคสั้ว” สส.สงขลา พรรคกล้าธรรม รายงานตัวสภาฯ ตั้งแต่ 4 มี.ค.",
@@ -17820,21 +17806,18 @@
       ],
       "collected_at": "17:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzHzyjmvPijWB.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/politic/2918364",
+      "source": ""
     },
     {
       "title": "송클라 국회의원, 온라인 도박 연루 혐의로 자택 압수수색 후 인터뷰 거부",
       "summary": "- 온라인 도박 혐의로 DSI와 뻐뻐응가 송클라 지역 국회의원 자택 압수수색 진행\n- 1억 5천 8백만 바트 상당의 자산 동결, 가방 등 압수\n- 해당 국회의원은 현재 송클라에 있으며 인터뷰는 거부",
       "full_translated": "끌라 탐 당의 촌나팟 나끄쑤아 의원은 DSI와 뽀뽀롱의 압수수색 이후 인터뷰를 거부했습니다. 2026년 3월 5일, DSI와 뽀뽀롱는 온라인 도박 사건과 관련하여 촌나팟 의원의 송클라 자택을 수색했습니다. 뽀뽀롱는 법원에 촌나팟 의원과 관련된 1억 5천 8백만 바트의 자산 동결을 요청했습니다. 압수수색 과정에서 브랜드 가방 1개가 압수되었고, 이전 사건에 대한 수색 영장이 집행되었습니다. 최근 촌나팟 의원은 인터뷰를 거부하며 현재 송클라에 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 국내 정치 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "송클라",
-        "price": null,
-        "location_google_map_query": "송클라"
-      },
+      "event_info": "{'date': None, 'location': '송클라', 'price': None, 'location_google_map_query': '송클라'}",
       "references": [
         {
           "title": "“ชนนพัฒฐ์” ยัน ยังอยู่สงขลา ตอนนี้ยังไม่พร้อมให้สัมภาษณ์ หลังถูกออกหมายเรียก",
@@ -17845,6 +17828,133 @@
       ],
       "collected_at": "17:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzHrHzmoK9aSU.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/politic/2918362",
+      "source": ""
+    },
+    {
+      "title": "태국 34개 주에 여름 폭풍 예보, 천둥, 번개, 우박 예상",
+      "summary": "- 태국 기상청은 향후 24시간 동안 태국 북부 지역에 여름 폭풍이 예상된다고 경고했습니다.\n- 34개 주에서 천둥, 강풍, 우박이 예상됩니다.\n- 해당 지역 주민들에게는 개방된 공간, 큰 나무, 약해진 구조물, 불안정한 광고판을 피하도록 권고됩니다.",
+      "full_translated": "기상청은 향후 24시간 동안 태국 북부 지역에 여름 폭풍이 몰아칠 것이라고 경고했으며, 34개 주에서 천둥, 강풍, 우박이 예상됩니다. 기상청은 중국에서 발생한 고기압 또는 찬 공기 덩어리가 북동부 동쪽과 남중국해를 덮으면서 남중국해와 태국 만에서 습기를 가득 실은 남풍과 남동풍이 태국 북부 지역으로 불어오고 있다고 밝혔습니다. 더운 날씨와 미얀마에서 불어오는 서풍의 영향으로 천둥, 강풍, 번개를 동반한 여름 폭풍이 발생할 수 있습니다. 해당 지역 주민들에게는 개방된 공간, 큰 나무, 약해진 구조물, 불안정한 광고판을 피하도록 권고됩니다. 농부들은 과일 나무를 보강하고 농작물과 가축을 잠재적인 피해로부터 보호하기 위한 조치를 준비해야 합니다. 남부 지역은 태국 만과 남부 지역에 걸쳐 동풍과 남동풍이 강해지고 안다만 해를 덮는 서풍과 함께 강풍을 동반한 강우량이 증가할 것입니다. 태국 만과 안다만 해의 낮은 파도는 약 1m에 달할 것으로 예상되며, 뇌우 지역에서는 2m 이상으로 높아질 것입니다. 선원들은 뇌우가 치는 지역에서의 항해를 피해야 합니다. 북부, 중부 지역(방콕 포함)은 보통에서 높은 수준의 먼지 농도를 보일 것입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 영향을 줄 수 있는 날씨 정보이며, 특히 야외 활동에 대한 주의가 필요하므로 점수를 높게 책정했습니다. 매일 업데이트되는 날씨 정보이므로 포함.",
+      "event_info": {
+        "date": "2026-03-06",
+        "location": "태국 북부 34개 주",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Summer storms forecast for 34 provinces, thunderstorms and hail expected",
+          "url": "https://www.bangkokpost.com/thailand/general/3211118/summer-storms-forecast-for-34-provinces-thunderstorms-and-hail-expected",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211118_700.jpg"
+        }
+      ],
+      "collected_at": "18:22",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211118_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "방콕 회사 매니저 납치 살해 사건, 주모자와 공범 체포",
+      "summary": "- 방콕 회사 매니저 납치 살해 사건의 주모자와 공범이 체포됨.\n- 용의자들은 방콕 왕통랑 지역의 한 주택에서 체포되었음.\n- 주모자는 살인, 시체 은닉, 강요 등의 혐의를 받고 있음.",
+      "full_translated": "경찰은 방콕 회사 매니저의 잔혹한 납치 및 살해와 관련하여 주모자와 그의 여동생을 방콕에서 체포했습니다. 피해자의 불에 탄 유해는 롭부리 지방에서 발견되었습니다. 소라위 랏피탁티라다(46세)와 베냐파 랏피탁(45세)은 목요일 밤 방콕 왕통랑 지역의 한 주택에서 체포되었습니다. 수도경찰청(MPB) 수사과의 초티왓 루앙윌라이 사령관, 수도경찰 2지구의 키아트쿨 손티난 국장 및 고위 경찰관은 용의자들이 목요일 밤 11시 30분경 거주지를 떠날 때 왕통랑에서 체포했습니다. 소라위 씨는 살인, 시체 은닉, 강요, 불법 구금, 범죄 조직 가담 및 사망을 초래한 강도 혐의로 목요일 형사 법원에서 발부된 체포 영장에 따라 체포되었습니다. 베냐파 씨는 공동 살인, 시체 은닉, 강요, 불법 구금, 사망을 초래한 강도 및 범죄 조직 가담을 포함한 동일한 영장에 따라 체포되었습니다. 앞서 경찰은 방콕 의료기기 회사 매니저를 납치한 혐의로 7명을 구금했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전에 영향을 줄 수 있는 강력 범죄 사건이며, 체포 소식은 새로운 정보 업데이트에 해당함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 왕통랑 지역",
+        "price": null,
+        "location_google_map_query": "Wang Thong Lang district, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Alleged mastermind, aide arrested in abduction-murder of Bangkok company manager",
+          "url": "https://www.bangkokpost.com/thailand/general/3211159/alleged-mastermind-aide-arrested-in-abductionmurder-of-bangkok-company-manager",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211159_700.jpg"
+        }
+      ],
+      "collected_at": "18:22",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211159_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "롭부리 납치 살인 사건, 주요 용의자 검거 작전",
+      "summary": "- 방콕 의료기기 수입업체 관리자가 납치 후 살해된 사건 발생\n- 경찰은 주요 용의자가 인접국으로 도주한 것으로 보고 추적 중\n- 공범 9명 중 7명 체포, 나머지 용의자 추적 및 DNA 검사 진행 중",
+      "full_translated": "롭부리 납치 살인 사건의 주요 용의자가 나콘파놈을 통해 라오스로 도주한 것으로 추정되어 경찰이 추적 중이다. 피해자 Rutt Maneeprasert는 방콕 Sutthisan 지역에서 의료 장비 수입 및 유통 회사를 관리했으며, 2월 18일 용의자 그룹이 교통사고를 위장하여 납치한 것으로 알려졌다. 그는 Samut Prakan 지방의 Bang Bo 지역에 있는 임대 주택에 감금되었다. 수사관들은 피해자가 나중에 살해되었고 증거를 없애기 위해 롭부리 Chai Badan 지역에서 시신이 불태워진 것으로 보고 있다. 법의학 수사관들은 사망자의 신원을 확인하기 위해 유족과 DNA 검사를 실시하고 있다. 경찰은 이 사건과 관련된 9명을 확인했다. Phumet Ngernsrichai를 포함한 8명이 납치를 실행한 것으로 여겨진다. 그는 여전히 도주 중이며 인접 국가로 도피했을 수 있다. 7명의 용의자가 체포되었고, 2명은 경찰에 자수 후 보석으로 풀려났다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 대상 범죄는 아니지만, 여행객 안전에 영향을 줄 수 있는 사건이므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "롭부리",
+        "price": null,
+        "location_google_map_query": "롭부리"
+      },
+      "references": [
+        {
+          "title": "Man sought in kidnap, murder case",
+          "url": "https://www.bangkokpost.com/thailand/general/3210684/man-sought-in-kidnap-murder-case",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210684_260306113949_700.jpg"
+        }
+      ],
+      "collected_at": "18:22",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210684_260306113949_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국, 외국인 명의대여 혐의 15개 회사 적발: 농산물 가격 하락 주범",
+      "summary": "- 태국 상무부가 외국인 명의대여(Nominee) 혐의로 15개 회사를 적발하여 조사 중.\n- 이들 회사는 태국인을 내세워 농장을 임대, 농산물을 가공, 수출하며 가격을 담합한 혐의를 받음.\n- 적발된 회사들은 주로 라차부리, 사뭇프라칸 등지에 위치하며, 관련 법에 따라 처벌될 예정.",
+      "full_translated": "태국 상무부 산하 사업개발국은 10개 기관과 협력하여 향기 코코넛 가격 하락 문제를 해결하고 외국 자본의 과일 야적장 운영을 조사했습니다. 그 결과, 태국인을 주주로 내세운 15개의 위험 그룹 회사를 발견했습니다. 이들은 라차부리(11개), 사뭇프라칸, 파툼타니, 사뭇사콘, 방콕에 각각 1개씩 위치해 있습니다. 또한, 해당 회사를 지원하는 것으로 의심되는 태국인 10명을 확인했습니다. 일부 회사는 설립된 지 5~6년 되었고, 일부는 최근에 설립되었습니다. 조사 후, 사업개발국은 중앙수사국, 특별수사국(DSI), 자금세탁방지사무국(PPONG) 등 관련 기관에 사건을 이관했습니다. 이들은 외국인 사업법 B.E. 2542에 따라 기소될 수 있으며, 유죄 판결을 받을 경우 3년 이하의 징역과 10만~100만 바트의 벌금형에 처해질 수 있습니다. 사업개발국은 불공정한 사업 관행이 발견되었기 때문에 이 문제를 조사하게 되었습니다. 이들은 코코넛 농장을 임대하여 농작물을 재배하고, 가공 및 수출을 직접 수행하며 구매 가격을 낮추어 지역 내 향기 코코넛 가격이 비정상적으로 하락하는 결과를 초래했습니다. 따라서 당국은 이 문제를 해결하기 위해 개입했으며, 향기 코코넛뿐만 아니라 두리안, 망고스틴과 같은 다른 과일에도 동일한 조치를 취할 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 농산물 가격 하락은 여행객의 직접적인 관심사는 아니지만, 장기적으로 물가 상승에 영향을 줄 수 있으며, 태국 경제 상황에 대한 간접 정보로서 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "라차부리, 사뭇프라칸, 파툼타니, 사뭇사콘, 방콕",
+        "price": null,
+        "location_google_map_query": "라차부리"
+      },
+      "references": [
+        {
+          "title": "ฟัน 15 บริษัท ใช้คนไทยเป็นนอมินี \"มะพร้าวน้ำหอม\" กดราคารับซื้อ ทำราคาตลาดร่วง",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2918373",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbbpMJfBmxZk.jpg"
+        }
+      ],
+      "collected_at": "18:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbbpMJfBmxZk.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국 민족주의 정당, 연립 정부 참여 가능성 시사",
+      "summary": "- 태국 민족주의 정당인 Prachachat Party가 연립 정부 참여 가능성을 열어둠.\n- Bhumjaithai Party로부터 연립 정부 참여 제안을 받았다고 인정.\n- 당의 공식 입장은 아직 결정되지 않았으나, 참여에 긍정적인 분위기.",
+      "full_translated": "Prachachat Party의 대표인 Tawee Sodsong은 당의 공식 입장이 결정되기 전까지는 연립 정부 참여에 대해 확답을 피했습니다. 그는 Bhumjaithai Party로부터 연립 정부 참여 제안을 받은 것을 인정했습니다. Tawee는 Prachachat Party가 소규모 정당이기 때문에 공식적인 당의 결정을 기다려야 한다고 밝혔습니다. 기본적으로 당은 연립 정부에 참여하는 것이 원칙에 어긋나지 않는다고 생각하며 공식 초청을 받으면 기꺼이 협력할 의향이 있습니다. 과거 Bhumjaithai Party의 지도자의 Khra Dong 토지 사건을 조사한 것과 관련하여 개인적인 문제는 없으며 모든 것이 당시의 역할과 책임에 따른 것이라고 밝혔습니다. 총리 선출 투표는 누구도 간섭할 수 없는 헌법 124조에 따른 국회의원의 권리입니다. 과거에 함께 일한 적이 있기 때문에 친밀함이 있는 것은 당연하지만, 부정확하거나 사법 절차에 대한 간섭이 있는 경우 당은 이를 용납할 수 없다고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이나, 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ทวี” รับภูมิใจไทยต่อสายจีบร่วมรัฐบาล แทงกั๊กรอมติพรรค",
+          "url": "https://www.thairath.co.th/news/politic/2918371",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbkQO3VclbuI.jpg"
+        }
+      ],
+      "collected_at": "18:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbkQO3VclbuI.jpg",
       "date": "2026-03-06"
     }
   ]
