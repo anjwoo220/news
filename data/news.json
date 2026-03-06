@@ -19112,14 +19112,9 @@
       "summary": "- 태국이 새로운 럭셔리 웰빙 관광지로 부상하고 있음.\n- 전통적인 치유 요법과 현대적인 웰빙 시설의 조화가 특징.\n- 정신적, 육체적 휴식을 추구하는 여행객들에게 매력적인 선택지가 될 것.",
       "full_translated": "태국은 전통적인 치유 요법과 현대적인 웰빙 시설의 조화를 통해 새로운 럭셔리 웰빙 관광지로 자리매김하고 있습니다. 정신적, 육체적 휴식을 추구하는 여행객들에게 태국은 매력적인 선택지를 제공합니다. 다양한 스파, 요가, 명상 프로그램은 물론, 건강한 식단과 아름다운 자연환경을 통해 진정한 웰빙을 경험할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국의 웰빙 관광 트렌드를 소개하는 기사로, 관련 여행에 관심 있는 여행객들에게 유용한 정보임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "How Thailand is proving that healing is the new luxury - Euronews.com",
@@ -19128,23 +19123,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:21",
+      "collected_at": "4:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRWlja0FwTTlXbVQyUHVBYXU4cnFJU0JHNW5qMTRXR2pHZW9oMDNYbXhFUElvQjNNeFB6aG10cEpQa2lCZVN5akNoN21pQl9BTHZUTzlRT01CVmljbTlkd1hMQmJ2WGNPYUtqNVc3QWtvU3NKVnotTXZyRW94T1k1OTFOakctdlVJYXJTc0MzOV94bGE3bUFvSWRwRVc0MnFVei12QXRtTUtCYVZrSmxWQ3c4NVZMRHZqcGxtUUJGaldIakc0SGNEUg?oc=5",
+      "source": ""
     },
     {
       "title": "방콕, 런던과 강력한 여행 연결망 구축: 수완나품-개트윅 직항편 증편으로 유럽-아시아 여행 기회 확대",
       "summary": "- 방콕과 런던을 잇는 직항편 증편으로 유럽-아시아 여행이 더욱 편리해질 전망.\n- 수완나품 공항과 개트윅 공항 간 직항편 증가는 여행객들에게 더 많은 선택지를 제공.\n- 이는 태국 관광 산업 활성화에 기여할 것으로 기대.",
       "full_translated": "방콕이 런던과 강력한 여행 연결망을 구축했습니다. 수완나품 공항과 개트윅 공항 간 직항편 증편으로 유럽-아시아 여행 기회가 확대될 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "직항편 증가는 여행 편의성을 높이고, 태국 관광 산업에 긍정적인 영향을 미치므로 여행 관련 정보로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "수완나품 공항, 개트윅 공항",
-        "price": null,
-        "location_google_map_query": "수완나품 공항, 개트윅 공항"
-      },
+      "event_info": "{'date': None, 'location': '수완나품 공항, 개트윅 공항', 'price': None, 'location_google_map_query': '수완나품 공항, 개트윅 공항'}",
       "references": [
         {
           "title": "Bangkok Joins London in a Powerful Travel Lifeline as Extra Direct Flights Between Suvarnabhumi and Gatwick Open New Europe–Asia Travel Opportunities - Travel And Tour World",
@@ -19153,7 +19145,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:21",
+      "collected_at": "4:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOVlRXVkhPWlN1RjNUM0VkUzU4eEdLa1RvQWNHaWxjdklJU3FQWkMtMG5yNUZEazRUdHZlYVkyN3NkbjJTUktSdHdaVXhCM3RoUEExczlLYjdNRktJUkJ1RFhURmJSTUs0SjlERWNKNlN3WGR1RFBfcW4xUXlmbjdIRHBYNkpjM2NyY0x1TEVnczUtUGpUdDFwTVZud2w1NEppcGFURWdCdXdqeHR1cDI3dHFQLUh4TmVVRGh6Y25kVDBvU3lsTy0zaGlmZmw0Tlk3S2VRUDJxN25rU2ctUUVqTHdnZ0tsRFJfREdHR0RiaGdabDV2Yko5UXE4OVY4WkFNVmpvT1lCTGQ5YXY1MU5MeVlESzE4Mkg2Q0hreVAya29QTUFN?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 항공편 차질로 발 묶인 관광객 비자 구제 도입 - 파타야 메일",
+      "summary": "- 태국 정부가 중동 항공편 운항 차질로 인해 발이 묶인 관광객들을 위한 비자 구제 조치를 발표했습니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.\n- 여행객들은 관련 내용을 확인하여 불이익을 받지 않도록 주의해야 합니다.",
+      "full_translated": "태국, 중동 항공편 차질로 발 묶인 관광객 비자 구제 도입  파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 항공편 차질로 인한 비자 문제 해결은 여행객에게 직접적인 영향을 미치는 중요한 정보이며, 비자 관련 규정 변경은 여행 계획에 필수적인 요소입니다. 아침 브리핑에 적합합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand introduces visa relief for tourists stranded by Middle East flight disruptions - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWwwcWlHdlh6eGdqY3g3MGg1M3d0THdYbnhWOWJiU2E1MEl5djQzTjQ5QnJ4QUNOQVhtbWt2dW5kZDdnelRONGl3MlpTUzlST0tUckxySHN1WFVRQ0lWaG4yS3VOYjBOel9KZFhFNGx0aXJDRDNEOE5iVXpQQ2piUlB1M0R4ZVFQZ2phUmtqY2F0VzFlcTlMbHZoUVBmUUxRM25uNU5rS2tJV1pyZ3JUck5SR0x3Q0tCMk1UWEZlQ3lkSE9MTlE?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:50",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중동 분쟁으로 유럽에 발이 묶인 아시아 관광객들",
+      "summary": "- 중동 지역 분쟁으로 인해 유럽에서 아시아 관광객들이 항공편 취소 등으로 발이 묶임.\n- 항공편 운항 차질이 발생하여 여행 일정에 차질이 생기고 있음.\n- 관련 보도에 따르면, 대체 항공편을 구하거나 여행 계획을 변경해야 하는 상황.",
+      "full_translated": "중동 분쟁으로 유럽에 발이 묶인 아시아 관광객들 Scandasia",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객의 이동에 직접적인 영향을 미치는 항공편 취소 관련 소식이므로 여행 관련 정보로 분류.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Asian tourists also stranded in Europe as Middle East conflict disrupts flights - Scandasia",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON1dMLUlhNlA3V09jR1NsUjdjQ2xBNmRnWUVBNXdBVG11SlFnVF9aajd1c3lXdmdKYXA3Rzc3NXBKMldFaEREWmlFMmVOZWFoRF9fdkdZUFFuWXVHdGN5YWFkaEw4YWhpNEwzaWdYSHFIT0tpc3c3WXV6TVdIa1dkM0lxRmk4Nk81QjVFaFB4TjFCUEhmREhCYTNFSUxiTy1mSDNuWQ?oc=5",
+          "source": "Scandasia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:50",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국, ITB 베를린에서 힐링 럭셔리 및 지속 가능성 강조",
+      "summary": "- 태국은 ITB 베를린에서 힐링, 럭셔리, 지속 가능성을 강조했습니다.\n- 웰빙 관광과 지속 가능한 관광 개발을 위한 노력을 선보였습니다.\n- 태국 관광청은 다양한 파트너와 협력하여 특별한 경험을 제공할 계획입니다.",
+      "full_translated": "태국은 ITB 베를린에서 힐링 럭셔리 및 지속 가능성을 강조했습니다. TravelMole",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 태국의 최신 관광 트렌드(웰빙, 지속가능성) 정보를 제공. 새로운 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand highlighted healing luxury and sustainability at ITB Berlin - TravelMole",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFp0S2FXM2xjN0o0OVc2bmtIeWJ6c29FTXlZM01FVmRQdHJOMWcycGREMlFoU0lZYnVwRWtfb09NR1MyM21IZUthM09sMWhfbnhRM0RzYXlsU1VmYjRfNDVzN3hoSUJHZ3NaenNDZk5qeEItaU5fSjVfUkJRSnNuQ3VsNA?oc=5",
+          "source": "TravelMole",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:50",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "루마니아, 태국 관광 성장 대열에 합류: 발칸반도의 새로운 도약",
+      "summary": "- 루마니아, 세르비아, 크로아티아 등 발칸 국가들이 태국 관광 시장 성장에 기여.\n- 발칸 지역의 관광객 증가가 태국 장거리 여행 시장 확대에 긍정적 영향.\n- 다양한 유럽 국가들의 태국 관광 시장 참여로 경쟁 심화 및 서비스 질 향상 기대.",
+      "full_translated": "루마니아가 세르비아, 크로아티아, 알바니아, 불가리아, 슬로베니아, 몬테네그로 등과 함께 태국 관광 성장을 주도하며 발칸 반도를 장거리 여행 확대의 새로운 고지로 끌어올리고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 시장의 다변화 추세를 보여주며, 특정 국가에 대한 의존도를 낮추는 긍정적 신호로 해석될 수 있음. 새로운 관광객 유치 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Romania Joins Serbia, Croatia, Albania, Bulgaria, Slovenia, Montenegro and More in Driving Thailand Tourism Growth, Elevating the Balkans to New Heights in Longhaul Travel Expansion - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxObVB5NFBzbmhsVHBlVU4xNzhRX0t4ZGxSbGU5VnBkTnFpakQzdHBNajN2WnV4UjlsZkl3d2dtNjlwV054MTV2MTY3Q05JeUktQU5Qa0ZIQjROcUdYVVRqTFhHV0Z0OGZoYWRuUV81VE5ETWR4Z1RDaThXQ0t1TFpiYTU1MUM1TlY3RnhPckZsUWFzYnI2YzlSbkNRcjdqZlVraTFCRkowREVRek5KMC1uU2swNXJvdzBna2xLZmlteDhucjdHLVhfejVqVk1xMVlpX3E2c3VUN0ZtSHBTRm5aRGQtRjh4RDdNMHhqNERhZDNCR3JYU2lOVGZvWHN4dmVleUFORGd4VkpCS1A3Mk0tV3VmUkVEUkhUWlZXV3RsOFZoNTRvX2ZXT1lmbnQwdHVyQlNmczRfblNYaVpEbUkyS29RXzNENUk?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:50",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "일본, 태국, 필리핀, 캄보디아와 함께 아시아 골프 관광 혁명에 합류",
+      "summary": "- 일본이 태국, 필리핀, 캄보디아 등과 함께 아시아 골프 관광 혁명에 동참.\n- 아시아 대륙의 골프 관광 시장이 크게 성장할 것으로 예상됨.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "일본이 태국, 필리핀, 캄보디아와 함께 아시아 골프 관광 혁명에 합류했습니다. 아시아 대륙의 골프 관광 시장이 크게 성장할 것으로 예상됩니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "골프 관광객에게 새로운 선택지를 제공하며, 태국 골프 관광 시장 활성화에 기여할 수 있음. 하지만 현재 시점에서 즉각적인 영향은 제한적.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Japan Joins Thailand, Philippines, Cambodia and More as Asia’s Golf Tourism Revolution Poised to Transform the Continent: Find Out All The Latest Details Here - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPLTBRWWYtMFVHa3ZBZVpKeUhYbW8xN1FoQlZDM0tTUWdpQVA1bExZczVoX01Lc2w2eVBhdWVUMGNCdWMtOUw0UjJ3QUJvaFQ4UzRfTVR1cE0wU3g4bEl3aTBUcVhvbEpXVHlMZXl5b3lvSGJkODJ1OHc2RnRHNUZ6M0h2TFpPS1Z6d290elBpQ3lIbWJlTmkzMm9LZ1ZLLTVNQ09yS29rNGJ5dGtISjJaMm05djJpeWZzS1JUeVQ4cjRwSmZQOUh4U3dudi10OTBHNTU1SlJncEUtVGNDWU9uMWhid1Qzd2x5Nlpoc19pSnZDYXlVSmtwTzBCUmY5TXR1bHRWRy1CdGxGVFlkVDlJZDl1cjltN3I1LVNSVkh2WHNjdEtNQmJTZ05lcw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
