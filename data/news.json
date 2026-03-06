@@ -16759,14 +16759,9 @@
       "summary": "- 롭부리에서 발생한 젊은 매니저 납치 살해 사건의 주요 용의자인 '보스 야이'와 그의 여성 공범이 체포됨.\n- 용의자들은 피해자를 납치, 감금, 살해한 혐의를 받음.\n- 경찰은 현재 이들을 수티산 경찰서로 이송하여 추가 조사를 진행 중임.",
       "full_translated": "경찰은 롭부리 지방의 버려진 집에서 젊은 매니저를 고용해 납치 살해한 사건과 관련하여 '보스 야이'와 그의 여성 공범을 체포했습니다. 이들은 수티산 경찰서에서 기소될 예정입니다. 형사 법원은 살인 혐의로 46세의 룻 또는 탑으로 알려진 수티산 지역의 의료 장비 수입 및 유통 회사 매니저인 스라위 또는 씨와 그의 여자 친구 벤야파에 대한 체포 영장을 발부했습니다. 이들은 계획적인 살인, 불법 감금, 타인에게 신체적 자유를 박탈하는 행위, 강요, 협박, 강도 및 시체 은닉 등의 혐의를 받고 있습니다. 수사 책임자인 촛티왓 르앙위라이 소장과 경찰서장들은 3월 5일 23시경 왕ทอง랑 지역의 한 주택에서 스라위를 체포했습니다. 벤야파 또한 이후 체포되었습니다. 체포된 스라위는 과거 톨웨이에서 9명의 사망자를 낸 교통사고를 낸 유명 여성의 전 남편으로 알려졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국에서 발생한 범죄 사건으로, 여행객 안전에 대한 간접적인 영향이 있을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "롭부리",
-        "price": null,
-        "location_google_map_query": "롭부리"
-      },
+      "event_info": "{'date': None, 'location': '롭부리', 'price': None, 'location_google_map_query': '롭부리'}",
       "references": [
         {
           "title": "จับแล้ว \"บอสใหญ่-หญิงสาวคนสนิท\" คดีจ้างอุ้มฆ่าผู้จัดการหนุ่มที่ จ.ลพบุรี",
@@ -16775,23 +16770,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7sZOO2fICJj1.jpg"
         }
       ],
-      "collected_at": "08:20",
+      "collected_at": "8:20",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7sZOO2fICJj1.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/crime/2918208",
+      "source": ""
     },
     {
       "title": "미국, 태국산 위조 수출품에 대한 단속 강화",
       "summary": "- 미국이 태국 수출품에 대한 원산지 검사를 강화할 예정입니다.\n- 태국 수출품이 미국 시장에서 급증한 데 따른 조치입니다.\n- 특히 'Made in Thailand' 위조 상품에 대한 감시가 강화될 것입니다.",
       "full_translated": "미국은 태국산 제품에 대한 더 엄격한 조사를 약속합니다. 2026년 3월 6일 06:14 발행, 신문 섹션: 비즈니스, 작성자: Wichit Chantanusornsiri\n\n태국은 지난 한 해 동안 미국 시장으로의 태국 수출이 급증한 이후, 'Made in Thailand' 지위를 허위로 주장하는 제품에 대한 면밀한 조사를 받게 될 것입니다. 아라다 푸앙통 외국 무역부(DFT) 국장에 따르면 DFT와 관세청은 상품 원산지, 특히 해외, 특히 미국으로 운송되기 전에 태국산이라고 허위로 주장하는 제품에 대한 검사를 강화해야 합니다. 그녀는 \"미국은 태국 수출이 크게 증가했기 때문에 태국을 면밀히 감시하고 있습니다. 작년에 태국은 미국 수출국 중 7위를 차지하여 전년도의 11위에서 상승했습니다.\"라고 말했습니다. \"미국은 계속해서 우리를 면밀히 감시할 것입니다. 따라서 신뢰성을 유지하고 나중에 소급 조사 또는 추가 세금 평가를 방지하기 위해 검사를 강화해야 하며, 이는 태국 기업가에게 더 큰 피해를 줄 것입니다.\" 또한 태국 제품은 미국 반덤핑 조치의 대상 상위 5개국에 속합니다. 중국은 707건으로 1위, 한국은 137건, 인도는 108건, 대만은 103건, 태국은 73건입니다. 관세청장인 판통 로이쿨난타는 반덤핑 관세를 회피하는 것으로 의심되는 상품과 원산지를 허위로 주장하는 제품을 검사하기 위해 DFT와 협력을 통합하고 있다고 말했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 수출 경제에 영향을 미치는 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Fake Thai exports face fresh crackdown",
@@ -16800,23 +16792,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/06/5993354_700.jpg"
         }
       ],
-      "collected_at": "08:20",
+      "collected_at": "8:20",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/06/5993354_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/business/general/3210864/fake-thai-exports-face-fresh-crackdown",
+      "source": ""
     },
     {
       "title": "태국 정부, 연료 부족 방지 위해 비상 조치 시행",
       "summary": "- 태국 정부가 국내 연료 부족을 막기 위해 비상 조치를 도입했습니다.\n- 여기에는 석유 비축량 증가와 대부분의 수출 중단이 포함됩니다.\n- 정부는 국가 에너지 공급이 안전하다고 국민에게 확신시키고 있습니다.",
       "full_translated": "정부가 국내 연료 부족을 막기 위한 일련의 긴급 조치를 도입했습니다. 여기에는 석유 비축량 증가와 대부분의 수출 중단이 포함되며, 국가 에너지 공급이 안전하다고 국민에게 확신시키고 있습니다. Auttapol Rerkpiboon 에너지부 장관은 목요일 정부청사에서 Anutin Charnvirakul 총리가 소집한 회의에서 관련 기관들과 함께 국가 에너지 준비 태세를 검토했다고 밝혔습니다. Auttapol 장관은 태국의 현재 석유 비축량이 국내 수요를 최대 95일까지 지원할 수 있다고 보고했습니다. 그는 이전에 언급된 60~65일이라는 수치는 새로운 석유 수입이 없을 경우 국가가 자체적으로 유지할 수 있는 기간을 의미한다고 설명했습니다. 그러나 중동 이외 지역에서 추가 공급이 확인되었습니다. 그는 \"이미 30일 분량의 추가 공급을 확보하여 총 95일까지 확보했습니다.\"라고 말했습니다. \"이 수치는 4월까지 추가 선적 일정이 확정됨에 따라 계속 업데이트될 것이며, 5월에 대한 추가 확인이 예상됩니다.\" 공급 보안을 강화하기 위해 에너지부는 석유 거래자에게 수출 예정이었던 물량을 일부 유지하여 의무 비축 수준을 1%에서 3%로 늘리도록 요구할 예정입니다. 정제 연료 수출은 이미 중단되었으며, 라오스와 미얀마는 예외입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "연료 부족 문제는 교통, 물가 등 여행 관련 요소에 간접적인 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt acts to avert fuel crisis",
@@ -16825,23 +16814,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210639_260306060222_700.jpg"
         }
       ],
-      "collected_at": "08:20",
+      "collected_at": "8:20",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210639_260306060222_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/thailand/general/3210639/govt-acts-to-avert-fuel-crisis",
+      "source": ""
     },
     {
       "title": "2026 미스 티파니, Theerachaya ‘Book’ Pimkitidaj 인터뷰",
       "summary": "- Vogue Thailand의 전 디지털 뷰티 에디터이자 유명 칼럼니스트인 Theerachaya ‘Book’ Pimkitidaj가 2026 미스 티파니로 선정됨.\n- 방콕 포스트와의 인터뷰에서 그녀는 왕관을 꿈꾸기 시작한 순간부터 시작된 네 번의 미인 대회 여정을 회상하고, 어렵게 얻은 승리가 그녀에게 무엇을 의미하는지 되돌아봄.\n- 또한 태국이 아직 해결하지 못한 문화적으로 민감한 문제인 트랜스젠더의 호칭 선택 권리에 대한 뜨거운 전국적 논쟁에 대해서도 의견을 밝힘.",
       "full_translated": "2026 미스 티파니: Theerachaya ‘Book’ Pimkitidaj와의 인터뷰\n\nVogue Thailand의 전 디지털 뷰티 에디터이자 유명 칼럼니스트인 Theerachaya ‘Book’ Pimkitidaj를 만나보세요. 방콕 포스트와의 독점 인터뷰에서 Theerachaya는 왕관을 꿈꾸기 시작한 순간부터 시작된 네 번의 미인 대회 여정을 회상하고, 어렵게 얻은 승리가 그녀에게 무엇을 의미하는지 되돌아봅니다. 또한 태국이 아직 해결하지 못한 문화적으로 민감한 문제인 트랜스젠더의 호칭 선택 권리에 대한 뜨거운 전국적 논쟁에 대해서도 의견을 밝힙니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 트랜스젠더 문화에 대한 이해를 높일 수 있는 흥미로운 로컬 뉴스. 미인 대회에 관심 있는 여행객에게 소소한 재미를 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Interview with 2026 Miss Tiffany",
@@ -16850,8 +16836,130 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211030_700.jpg"
         }
       ],
-      "collected_at": "08:20",
+      "collected_at": "8:20",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211030_700.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/video/thailand/3211030/interview-with-2026-miss-tiffany",
+      "source": ""
+    },
+    {
+      "title": "방콕, 오늘 미세먼지(PM2.5) 기준치 초과: 37개 지역 건강에 영향",
+      "summary": "- 방콕의 PM2.5 수치가 37개 지역에서 기준치를 초과하여 건강에 영향을 미치기 시작함.\n- 가장 심각한 지역은 방콕코르램 구역으로, PM2.5 수치가 46.7 마이크로그램/세제곱미터임.\n- 외출 시 마스크 착용 등 개인 보호 장비 사용 권장.",
+      "full_translated": "오늘(6일) 방콕의 PM2.5 미세먼지 수치가 기준치를 초과했습니다. 방콕시 대기질 정보센터에 따르면 오전 7시 기준 PM2.5 농도는 30.1-46.7 마이크로그램/세제곱미터(μg/m³)로 측정되었으며, 37개 지역에서 기준치(37.5 μg/m³)를 넘어 건강에 영향을 미치기 시작했습니다.\n\n가장 높은 수치를 보인 지역은 다음과 같습니다:\n\n1. 방콕코르램 구역: 46.7 μg/m³\n2. 쁘라웻 구역: 46.5 μg/m³\n3. 방락 구역: 46.4 μg/m³\n4. 방쿤티안 구역: 46.3 μg/m³\n5. 랏차테위 구역: 44.7 μg/m³\n\n시민들은 외출 시 반드시 마스크를 착용하고, 대기질 정보에 주의를 기울여야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 건강에 직접적인 영향을 미치는 미세먼지 정보. 매일 업데이트되는 데이터이므로 중요도가 높음.",
+      "event_info": {
+        "date": "2069-03-06",
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "ค่าฝุ่นวันนี้ 6 มี.ค. 69 กทม. PM 2.5 เกินมาตรฐาน 37 พื้นที่ เริ่มกระทบสุขภาพ",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2918226",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8bxLcBYYC9la.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8bxLcBYYC9la.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "이스라엘, 레바논 베이루트 외곽 공격으로 최소 123명 사망",
+      "summary": "- 이스라엘군이 레바논 베이루트 외곽을 공습하여 최소 123명이 사망하고 683명이 부상했습니다.\n- 이스라엘은 공습 전 주민들에게 대피 경고를 보냈으며, 이로 인해 대규모 혼란과 피난이 발생했습니다.\n- 이번 공격은 이란과 연계된 헤즈볼라의 이스라엘 공격에 대한 보복으로, 중동 지역 긴장이 고조되고 있습니다.",
+      "full_translated": "이스라엘군이 7일째 이란을 공격하며 레바논 베이루트 외곽을 공습했습니다. 이로 인해 최소 123명이 사망했습니다. 2569년 3월 6일, 중동에서 이스라엘과 미국의 이란 공격이 7일째 이어지고 있습니다. 이스라엘은 군사 작전의 '다음 단계'로 나아가겠다고 발표하며 레바논 베이루트 남부 외곽 지역에 공습을 개시했습니다. 공격 전에 이스라엘군은 해당 지역 주민들에게 즉시 대피하라는 전례 없는 대규모 경고를 보냈습니다. 이로 인해 많은 사람들이 집을 떠나 피난길에 올랐고, 주요 도로에서 교통 체증이 발생했습니다. 일부는 사람들에게 대피를 경고하기 위해 공중으로 총을 쏘기도 했습니다. 레바논 당국은 충돌 시작 이후 최소 123명이 사망하고 683명이 부상했으며 9만 명 이상이 피난했다고 밝혔습니다. 이번 갈등은 이란과 연계된 무장 세력인 헤즈볼라가 아야톨라 알리 카메네이를 암살한 것에 대한 보복으로 이스라엘을 공격하면서 확대되었습니다. 이에 이스라엘은 공습으로 대응하고 일부 국경 지역에 지상군을 투입했습니다. 출처: BBC",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "레바논의 혼란은 현재 방콕 여행에는 직접적인 영향이 없지만, 잠재적인 여행 불안 요인이 될 수 있으며, 상황이 악화될 경우 여행 제한이 발생할 수 있으므로 관련 정보를 제공합니다. 여행객 안전에 대한 잠재적 위협을 고려하여 높은 점수를 부여했습니다.",
+      "event_info": {
+        "date": null,
+        "location": "베이루트, 레바논",
+        "price": null,
+        "location_google_map_query": "베이루트 레바논"
+      },
+      "references": [
+        {
+          "title": "สงครามอิหร่านวันที่ 7 อิสราเอลถล่มชานกรุงเบรุต เลบานอน ปชช.หนีตายโกลาหล เสียชีวิตอย่างน้อย 123 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2918228",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8b967MContcC.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8b967MContcC.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국 총리, 유가·증시·물가 상승에 대한 우려 표명",
+      "summary": "- 아누틴 총리는 유가, 증시, 물가 등 모든 분야에 대해 우려를 표명하며, 국민 부담을 최소화하기 위해 노력하겠다고 밝힘.\n- 미국 대사와의 회담 내용에 대한 질문에는 답변을 거부하며 유가 문제에 집중하겠다는 의지를 보임.\n- 관련 기관들과 유가 대책 회의를 진행했으며, 에너지부 장관이 상세 내용을 설명할 것이라고 덧붙임.",
+      "full_translated": "아누틴 총리는 석유, 증권 시장, 상품 가격 등 모든 문제에 대해 우려를 표명하며 이러한 문제들이 국민들에게 최소한의 영향만 미치기를 희망한다고 밝혔습니다. 그는 3월 6일 오전 8시 50분 육군 수송부에서 관련 기관들과의 석유 대책 회의에 대해 에너지부 장관이 상세한 내용을 설명할 것이라고 말했습니다. 총리는 국내 석유 비축, 증권 시장, 소비재 가격 등 모든 측면을 고려하여 국민들이 부담을 느끼지 않도록 노력하겠다고 언급했습니다. 미국 대사와의 회담 내용에 대한 질문에는 답변을 거부하며 유가 문제에 집중하겠다는 입장을 밝혔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 물가 및 교통비에 간접적인 영향이 있을 수 있으며, 경제 상황에 대한 정보는 여행 계획에 참고가 될 수 있음. 아침 브리핑에 적합.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกฯ รับเป็นห่วงทุกเรื่อง “น้ำมัน-ตลาดหลักทรัพย์-ราคาสินค้า” ปัดตอบคุยอะไรทูตสหรัฐฯ",
+          "url": "https://www.thairath.co.th/news/politic/2918235",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8Qx0plftfYOv.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8Qx0plftfYOv.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "전기차 모터 기술 경쟁 심화: BYD, Rimac, Lotus, Lucid 모델 분석",
+      "summary": "- 현재 가장 강력한 전기차 모터는 하이퍼카 및 고성능 세단에 탑재.\n- BYD Yangwang U9는 최대 2,978마력, Rimac Nevera R은 2,107마력, Lotus Evija는 2,011마력 발휘.\n- Lucid Air Sapphire는 3개의 모터로 1,234마력을 내는 가장 강력한 전기 세단.",
+      "full_translated": "현재(2024-2025년) 가장 강력한 전기차 모터는 하이퍼카 및 고성능 세단에 탑재됩니다. 주요 모델별 세부 정보는 다음과 같습니다.\n\n1. BYD Yangwang U9는 고성능 전기 슈퍼카(EV Hypercar)로, 4개의 전기 모터(e4 플랫폼)를 통해 일반 모델에서 최대 1,300마력 이상, U9 Xtreme 모델에서 2,978마력을 냅니다. U9 Xtreme 모델은 0-100km/h 가속 시간이 2.1초이며, 최고 속도는 496.22km/h로 전기차 최고 속도 기록을 경신했습니다.\n\n2. Rimac Nevera R은 현재 가장 강력한 전기차로, 4개의 독립 모터 시스템을 사용합니다. 각 모터는 각 바퀴에 토크를 전달하며, 총 2,107마력(hp) 또는 1,571kW, 최대 토크 2,340Nm을 발휘합니다. 각 모터는 영구 자석 방식이며, 탄소 슬리브로 감싸져 고속 회전을 지원합니다. 0-100km/h 가속 시간은 1.72초, 최고 속도는 430km/h입니다.\n\n3. Lotus Evija는 4개의 전기 모터에서 총 2,011마력(hp) 또는 1,500kW, 1,703Nm의 토크를 생성하는 영국 하이퍼카입니다. 각 모터는 약 500마력을 담당하여 높은 출력 대 중량비를 자랑합니다.\n\n4. Lucid Air Sapphire는 3개의 모터(Tri-motor) 시스템으로 기록을 경신한 스포츠 세단입니다. 총 1,234마력(hp)과 1,940Nm(1,430lb-ft)의 토크를 생성합니다. 전면 차축에 싱글 모터, 후면 차축에 트윈 모터(Twin Rear-drive unit)를 사용하여 구동력을 향상시킵니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체와 직접적인 관련은 없지만, 자동차 기술 동향에 대한 흥미로운 정보 제공. 여행 관련성은 낮음.",
+      "event_info": {},
+      "references": [
+        {
+          "title": "โคตรมอเตอร์ BYD เจาะมอเตอร์รถยนต์ไฟฟ้าที่มีกำลังมากที่สุดในปัจจุบัน",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2918151",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNb5V0aIuFqDWAntzs.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cNb5V0aIuFqDWAntzs.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "송클라 지역 국회의원, 도박 웹사이트 관련 수사로 자택 압수수색 받아",
+      "summary": "- 송클라 지역구의 촌나팟 나카쑤아 국회의원이 도박 웹사이트 사건과 관련되어 자택 압수수색을 받았습니다.\n- 그는 이전에 돈세탁 관련 혐의로 1억 5357만 바트의 자산이 동결된 적이 있습니다.\n- DSI와 뻐뻐뻐엉는 추가 증거를 확보하기 위해 그의 자택을 수색했습니다.",
+      "full_translated": "차논팟 낙수아 송클라 지역구 국회의원은 최근 선거에서 승리하여 2선 의원이 되었으며, 도박 웹사이트 사건과 관련된 증거를 찾기 위해 당국에 의해 자택이 압수수색을 받았습니다.\n\n뽀뽀응. 위원회는 2023년 11월 11일, 돈세탁과 관련된 정황이 발견되어 그의 자산 1억 5357만 바트를 동결하기로 결의했습니다. 가장 최근에는 2024년 3월 5일, DSI(Department of Special Investigation)와 뽀뽀응.(Anti-Money Laundering Office) 직원이 송클라 지역에 있는 그의 자택을 수색하여 온라인 도박 웹사이트 네트워크와 관련된 불만 사항에 대한 추가 증거를 수집했습니다.\n\n차논팟 낙수아는 끄릿이라는 애칭으로도 불리며, 1989년 9월 8일에 태어나 현재 36세입니다. 그는 나콘시탐마랏 출신이며, 스리 탐마랏 숙사 학교를 졸업하고, 탁신 대학교에서 경제학 학사, 방콕톤부리 대학교에서 행정학 석사 학위를 받았습니다. 그는 2023년 총선에서 팔랑쁘라차랏 당 소속으로 처음 국회의원에 당선되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "송클라",
+        "price": null,
+        "location_google_map_query": "Songkhla"
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ชนนพัฒฐ์ นาคสั้ว” สส.สงขลา 2 สมัย เพิ่งชนะเลือกตั้ง ถูก จนท.ค้นบ้านหาหลักฐานคดีเว็บพนัน",
+          "url": "https://www.thairath.co.th/news/politic/2918223",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8bi34abjfnwD.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C8bi34abjfnwD.jpg",
       "date": "2026-03-06"
     }
   ]
