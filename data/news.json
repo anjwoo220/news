@@ -18565,14 +18565,9 @@
       "summary": "- 파타야에서 한국인 관광객을 상대로 강도 행각을 벌인 트랜스젠더 용의자가 체포됨.\n- 용의자는 독일인 관광객 폭행 혐의도 받고 있음.\n- 경찰은 추가 조사 진행 예정.",
       "full_translated": "파타야 경찰이 한국인 관광객을 상대로 고액 강도 사건을 벌인 트랜스젠더 용의자를 체포했습니다. 용의자는 파타야에서 독일인 관광객을 폭행한 혐의도 받고 있습니다. 경찰은 추가 조사를 통해 정확한 사건 경위를 파악할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "한국인 관광객 대상 범죄 발생 및 용의자 체포 소식으로, 여행객 안전에 직접적인 영향을 줄 수 있어 높은 점수 부여. 사건 발생 후 용의자 체포는 업데이트된 정보에 해당함.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya Police Arrest Transgender Suspect in High-Profile Robbery of Korean Tourist and Assault on German Tourist in Pattaya",
@@ -18580,22 +18575,20 @@
           "source": "The Pattaya News"
         }
       ],
-      "collected_at": "00:28",
-      "date": "2026-03-07"
+      "collected_at": "0:28",
+      "image_url": "",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3dGhlcGF0dGF5YW5ld3MuY29tL3RvcGljcy9uZXdzL3BhdHRheWEtcG9saWNlLWFycmVzdHMtdHJhbnNnZW5kZXItc3VzcGVjdC1oaWdoLXByb2ZpbGUtcm9iYmVyeS1rb3JlYW4tdG91cmlzdC1hc3NhdWx0LWdlcm1hbi10b3VyaXN0LXBhdHRheWEv0gEA?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 방콕 쇼핑몰 한 곳 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
       "summary": "- 미국 정부가 방콕의 한 쇼핑몰을 '위조 상품' 판매로 악명 높은 시장 목록에 포함시킴.\n- 해당 쇼핑몰은 지식재산권 침해 문제로 국제적인 우려를 낳고 있음.\n- 여행자들은 해당 쇼핑몰에서 제품 구매 시 주의가 필요함.",
       "full_translated": "미국 정부는 방콕에 위치한 특정 쇼핑몰 한 곳을 위조 상품 판매로 악명 높은 시장 목록에 올렸습니다. 이 쇼핑몰은 지식재산권 침해 문제로 국제적인 우려를 야기하고 있습니다. 따라서 해당 쇼핑몰을 방문하는 여행자들은 제품 구매 시 정품 여부를 꼼꼼히 확인하는 등 각별한 주의를 기울여야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객들이 짝퉁 상품 구매를 피하도록 주의를 환기시키는 정보이므로, 중간 정도의 점수를 부여함.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 쇼핑몰"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 쇼핑몰'}",
       "references": [
         {
           "title": "미국, 방콕 쇼핑몰 한 곳 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
@@ -18603,22 +18596,20 @@
           "source": "Kdrauss"
         }
       ],
-      "collected_at": "00:28",
-      "date": "2026-03-07"
+      "collected_at": "0:28",
+      "image_url": "",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiNmh0dHBzOi8vd3d3LmtkcmF1c3Npb24uY29tL25ld3MvYXJ0aWNsZS8yMDI0MDQyOTE4MzkzOTQzMjPSASxodHRwczovL3d3dy5rZHJhdXNzaW9uLmNvbS9uZXdzL2FtcC9hcnRpY2xlLzIwMjQwNDI5MTgzOTM5NDMyMg?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫, 2026년 세계 웰니스 서밋 개최지로 선정",
       "summary": "- 푸껫이 2026년 세계 웰니스 서밋을 개최하여 글로벌 웰니스 중심지로 부상할 예정입니다.\n- 태국은 이번 서밋 개최를 통해 웰니스 관광 산업을 더욱 발전시킬 계획입니다.\n- 푸껫은 아름다운 자연환경과 다양한 웰니스 프로그램을 통해 전 세계 관광객을 유치할 것으로 기대됩니다.",
       "full_translated": "푸껫이 태국에서 개최되는 2026년 랜드마크 20회 세계 웰니스 서밋을 통해 글로벌 웰니스 스포트라이트를 받습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫이 웰니스 관광 중심지로 부상할 가능성을 보여주는 뉴스. 숙박, 관광 상품 등 여행 관련 산업에 간접적인 영향을 줄 수 있음.",
-      "event_info": {
-        "date": "2026",
-        "location": "푸껫",
-        "price": "미정",
-        "location_google_map_query": "푸껫"
-      },
+      "event_info": "{'date': '2026', 'location': '푸껫', 'price': '미정', 'location_google_map_query': '푸껫'}",
       "references": [
         {
           "title": "Phuket Joins Global Wellness Spotlight as Thailand Hosts Landmark 20th Global Wellness Summit 2026 - Travel And Tour World",
@@ -18627,23 +18618,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:28",
+      "collected_at": "0:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON3JWdUJWWjFPYVRHczhqeTd3NHp1RDVLYm5DdHVLNi1QQTFfb244TWhRM3NlUFZSRE1sUW5xR2U3dW5QeVNuNkNoWXI3aDdVZmotRkxLU0p3Tm1DZTRySzBJTU9VZmI3ZzRfWGMtLXg1THZmcE5ETGl2TG9aekFFRmNrMzZKRkN0Nkd2anlJY1BMTEJaQkxVaVVhZ3FKQW5ueFZSQ1ZXTmlEc2FhZ2tReGxQa3VsT0lSRlhYWUhJaFFwdlIwMmFCcXZnR1BIek92UXktQ2xnaDlTdTJTQ213bQ?oc=5",
+      "source": ""
     },
     {
       "title": "Tomorrowland 모델, 태국 지역 경제 활성화에 기여 전망",
       "summary": "- Tomorrowland 모델을 활용하여 태국 지역 경제 활성화 기대\n- 관광 산업 부양 및 관련 산업 성장 전망\n- 태국 정부, 관련 정책 지원 및 인프라 투자 계획",
       "full_translated": "Tomorrowland 모델이 태국 지역 경제를 활성화할 것으로 예상됩니다. TTG Asia",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "지역 경제 활성화에 대한 일반적인 뉴스이며, 관광객에게 직접적인 영향은 크지 않다고 판단됨. 새로운 핫플레이스 정보에 준하여 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tomorrowland model to boost local Thai economy - TTG Asia",
@@ -18652,7 +18640,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:28",
+      "collected_at": "0:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmRGWkZmYjRGdlc0clJDQWh1QUhlQjJpejdBWm1LZTZVeWowM2c3UC1rOXhtNHduMEJLaElRbG10Vzl4UHNkSnNQTTdLMzBoN2ZPa05wQ1dmdlR5dGw0MFpaY3FBTTJFZUIxNWJrVnNNQXFrV2JoUHZuNi1MOGRDdERZaXk2LUd5RkE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕 길거리 난투극: 거구의 보디빌더, 술 취한 관광객 KO시켜",
+      "summary": "- 뉴욕 포스트 보도에 따르면 방콕의 한 술집 앞에서 거구의 보디빌더가 술 취한 관광객들을 폭행하여 기절시켰습니다.\n- 정확한 사건 경위는 아직 조사 중입니다.\n- 여행 시 안전에 유의하고, 특히 심야 시간대에는 과도한 음주를 자제하는 것이 좋습니다.",
+      "full_translated": "뉴욕 포스트에 따르면 방콕의 한 술집 앞에서 거구의 보디빌더가 술에 취한 관광객들을 폭행하여 기절시키는 사건이 발생했습니다. 현재 정확한 사건 경위는 조사 중이며, 관련 영상이 온라인에 퍼지면서 논란이 일고 있습니다. \n\n관광객들은 여행 시 안전에 각별히 유의해야 하며, 특히 심야 시간대에 과도한 음주는 자제하는 것이 좋습니다. 현지 법규를 준수하고, 불필요한 시비에 휘말리지 않도록 주의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 안전에 직접적인 위협이 될 수 있는 사건이므로 게시 필요. 폭행 사건은 여행객들에게 불안감을 조성할 수 있으며, 주의를 환기시킬 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 술집"
+      },
+      "references": [
+        {
+          "title": "Giant bodybuilder knocks out drunk tourists in wild street fight outside bar - New York Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFpROTFGazd3Um9QRzNHN0xPVTB5TUVwMXB2aGNzbHRraE5xVmZSbmNSWTMwY1ctR1liSG9DYUpzV0U0alVwT3BhRVJpVFNUUjkxelVsOXBOb2xZaXNYMWJaU2d3blp2c0VqbTNQWDk1TS1ObGI4SjJ1bHJCOVVaYkc2V0NHaGptcWZ5V3RUOEZuSWs4MEF1eUZDekNGLWs0Zmc5M0tZTV9VTmFoMm0telM0ME0?oc=5",
+          "source": "New York Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:59",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "파타야, ITB 베를린 2026 참가: 독일 관광객 증가 추세",
+      "summary": "- 파타야 대표단이 ITB 베를린 2026에 참가하여 관광 도시로서의 입지를 강화하고자 함.\n- 2025년 태국을 방문한 독일 관광객은 약 96만 명으로 전년 대비 10.6% 증가.\n- 독일 관광객은 주로 자유여행객이며, 방콕, 푸껫, 치앙마이 등에서 해변 휴가, 가족 여행, 웰빙 경험을 선호.",
+      "full_translated": "ITB 베를린은 세계 최대 규모의 여행 박람회로, 2026년 3월 3일부터 5일까지 독일 베를린에서 개최되었습니다. 올해는 '60년 유산 뒤에 숨겨진 이야기 발견'이라는 모토 아래 60주년을 기념하며, '균형 잡힌 관광으로의 주도'라는 컨벤션 주제를 다루었습니다. 지속 가능한 관광 관행과 글로벌 여행 산업 전반의 균형 달성에 초점을 맞추었습니다.\n\n독일은 태국에게 중요한 장거리 시장입니다. 2025년에는 약 965,898명의 독일 방문객이 태국을 방문하여 전년 대비 10.60%의 견고한 성장을 보였습니다. 이러한 상승 추세는 2026년 초에도 이어져 1월 1일부터 31일까지 155,700명의 독일 관광객이 도착하여 전년 대비 2.55% 증가했습니다.\n\n태국을 방문하는 독일 여행객은 주로 첫 방문객과 자유여행객(FIT)입니다. 인기 있는 목적지는 방콕, 수랏타니, 푸껫, 끄라비, 치앙마이입니다. 주요 선호 사항으로는 해변 휴가, 가족 여행, 건강 및 웰빙 경험이 있습니다. 평균적으로 15.58박을 머물며 성수기는 1월~3월과 11월~12월입니다.\n\nITB 베를린 2026에 파타야 대표단의 참가로, 파타야는 최고 품질의 관광 목적지로서의 입지를 다지겠다는 의지를 보여주고 있습니다. 이 주요 국제 플랫폼에 참여함으로써 파타야는 유럽 시장, 특히 독일에서 입지를 넓히고 지속 가능한 관광 이니셔티브를 발전시키고자 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "독일 관광객 증가 추세와 파타야의 관광 마케팅 전략을 보여주는 정보로, 여행 계획에 참고할 만함.",
+      "event_info": {
+        "date": "2026-03-03",
+        "location": "베를린",
+        "price": "정보 없음",
+        "location_google_map_query": "베를린 전시 센터"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Delegation Joins Royal Welcome at ITB Berlin 2026 as German Tourism Increases Year Over Year to Thailand",
+          "url": "https://thepattayanews.com/2026/03/05/pattaya-city-delegation-joins-royal-welcome-at-itb-berlin-2026-as-german-tourism-increases-year-over-year-to-thailand/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727292672964816774429871106833.jpg?v=1772729787"
+        }
+      ],
+      "collected_at": "00:59",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17727292672964816774429871106833.jpg?v=1772729787",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "부패 연루 장관 임명에 대한 태국 국민의 강한 반대 여론",
+      "summary": "- KPI 여론조사 결과, 응답자의 48.9%가 부패 연루 전력이 있는 장관을 반대함.\n- 이는 정부의 청렴성과 능력에 대한 국민적 요구가 높음을 시사.\n- 응답자들은 부패 외에도 이해 충돌, 잦은 당적 변경, 전문성 부족 등을 장관의 결격 사유로 꼽음.",
+      "full_translated": "킹 프라자디폭 연구소(KPI)의 여론조사에 따르면 태국인의 거의 절반이 부패 기록이 있는 장관을 두는 것에 반대하며, 이는 정부의 청렴성과 능력에 대한 강력한 국민적 요구를 강조합니다.\n\nKPI가 실시한 '태국 국민의 꿈의 내각'이라는 제목의 설문 조사는 2월 27일부터 3월 2일까지 전국 18세 이상 응답자 1,908명을 대상으로 실시되었습니다. 설문 조사는 새로운 내각의 구성 및 자질에 대한 대중의 기대를 조사했습니다.\n\n결과에 따르면 응답자의 48.9%가 이전에 부패 또는 심각한 청렴성 관련 사건에 연루된 장관을 원하지 않으며, 이는 가장 강력하게 거부된 특성입니다. 다른 바람직하지 않은 특징은 훨씬 뒤쳐져 있습니다. 약 17.9%는 자신이 감독하는 부처와 관련된 이해 상충 관계가 있는 장관에 반대했고, 15.3%는 지위를 추구하기 위해 당적을 자주 바꾸는 등 이념적 헌신이 부족하다고 인식되는 정치인을 거부했습니다. 또 다른 14.9%는 자신의 부처와 관련된 전문 지식이 부족한 개인에 반대했고, 3.0%는 과거 행정 실패가 있는 후보자를 거부했습니다.\n\n이 여론조사는 부패가 많은 유권자에게 '넘지 말아야 할 선'이 되었으며, 정치적 거래보다는 윤리적 거버넌스와 능력 기반 임명에 대한 기대가 높아지고 있음을 반영합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정치 상황에 대한 정보 제공. 직접적인 여행 관련성은 낮으나, 알아두면 유용한 정보. 정치적 불안정 가능성이 낮다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Poll finds strong opposition to tainted ministers",
+          "url": "https://www.bangkokpost.com/thailand/politics/3211370/poll-finds-strong-opposition-to-tainted-ministers",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211370_700.jpg"
+        }
+      ],
+      "collected_at": "00:59",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211370_700.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국-중국 투자 포럼, 800명 이상의 투자자 유치",
+      "summary": "- 태국 투자 기회 제시 및 사업 규정, 모범 사례 정보 제공 목표\n- 전자, 자동차, 금속 제품, 기계, 화학, 디지털 분야 대표 참석\n- 향후 5년간 중국 기업으로부터 6천억 바트 이상의 투자 유치 기대",
+      "full_translated": "태국-중국 투자 포럼이 태국의 목표 산업에 대한 투자 기회를 제시하고, 태국에서 사업을 운영하는 중국 투자자들을 위한 사업 규정 및 모범 사례에 대한 주요 정보를 제공하는 것을 목표로 개최되었습니다. 20개 이상의 파트너 기관이 상담 부스를 설치했으며, 태국에 기반을 둔 800명 이상의 중국 투자자가 행사에 참석했습니다. 대부분의 대표는 전자, 자동차, 금속 제품, 기계, 화학 및 디지털 분야 출신이었습니다. 나릿 테르드스테라수크디 BOI 사무총장은 지정학적 긴장, 기술 전환 및 지속 가능성 압력을 포함한 급변하는 글로벌 환경 속에서 전 세계 주요 기업들이 사업 전략을 조정하고 강력한 펀더멘털과 지정학적 중립성을 갖춘 안정적인 투자처를 모색하고 있다고 말했습니다. 그는 이러한 요소들이 태국을 새로운 글로벌 투자 물결의 핵심 목적지로 자리매김하는 데 도움이 되었다고 말했습니다. 나릿은 “중국 투자자들은 향후 10년 동안 태국 경제를 이끄는 가장 중요한 그룹 중 하나가 될 것입니다.”라고 말했습니다. 2021년부터 2025년까지 지난 5년 동안 태국은 중국 기업으로부터 6천억 바트가 넘는 2,400건 이상의 투자 유치 신청을 받았다고 덧붙였습니다. Fortune China 500에 등재된 많은 주요 중국 기업들이 이미 태국에서 전기 자동차, 스마트 가전, 디지털 기술 및 에너지 저장 시스템과 같은 분야를 중심으로 사업을 운영하고 있습니다. 태국에서 운영되는 기업으로는 BYD, SAIC(M과 같은 EV 제조업체가 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제에 대한 중국 투자의 중요성을 강조. 관광 산업에 간접적 영향.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand-China investment forum draws over 800 investors",
+          "url": "https://www.khaosodenglish.com/news/business/2026/03/06/thailand-china-investment-forum-draws-over-800-investors/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thailand-China-investment-forum-draws-over-800-investors-1.jpg"
+        }
+      ],
+      "collected_at": "00:59",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thailand-China-investment-forum-draws-over-800-investors-1.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "MGM, 태국 내 국제 관광 활성화를 위한 프로모션 확대",
+      "summary": "- MGM이 태국 내 국제 관광객 유치를 위한 프로모션을 강화합니다.\n- 이는 태국 관광 산업의 활성화에 기여할 것으로 예상됩니다.\n- MGM은 다양한 마케팅 전략을 통해 태국을 매력적인 관광지로 홍보할 계획입니다.",
+      "full_translated": "MGM, 태국 내 국제 관광 활성화를 위한 프로모션 확대 CDC Gaming",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 산업 활성화에 기여할 수 있는 정보이지만, 직접적인 여행객 안전 또는 편의 관련성은 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "MGM expands promotional efforts across Thailand to boost international tourism - CDC Gaming",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaURlbWRuU0RpWnpVckJreS1uanBCandycmx4ODBTUkZjRUxRLU9oUi1NQ1p0VGt0VDE3dW5PY3NlWm1hT2Q0UkNPd3VhUElFTGVFV3Q5ektpWmNTMWZ0ODd0akFnUEJQTG5GYlBDTmhBWXlxSktfWEJFcTVxZzlYZUp3Vll1UHI5V0xRNEdoVjJaaDcxTjV1Q0VHWTZlcTFMX2pyR3QxbWd4dkk?oc=5",
+          "source": "CDC Gaming",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:59",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
