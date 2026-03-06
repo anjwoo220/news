@@ -19266,14 +19266,9 @@
       "summary": "- 태국 정부가 항공편 취소 등으로 태국에 발이 묶인 외국인 여행객들을 위해 체류 기간 초과 벌금을 면제합니다.\n- 이는 여행객들의 부담을 덜고 관광 산업을 활성화하기 위한 조치입니다.\n- 해당 조치는 즉시 시행되며, 자세한 내용은 관련 기관을 통해 확인할 수 있습니다.",
       "full_translated": "태국, 항공편 차질로 발이 묶인 외국인에 대한 체류 기간 초과 벌금 면제\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자/입국 규정 변경에 해당하며, 여행객에게 직접적인 영향을 미치는 정보이므로 높은 점수를 부여합니다. 항공편 문제로 어려움을 겪는 여행객들에게 유용한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Now Eases Travel Strain: Overstay Fines Waived for Foreign Nationals Stuck Due to Flight Disruptions - Travel And Tour World",
@@ -19282,23 +19277,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLUNERnpsN19IRVJfNFQ0QkNXU0dpMjV5VWdENU90c3ZaZ0FBTVNRbWZHal9ldVY0bThGZVlfZXdFZGllODZOUUxVSFc0VW1fYmtzTWp1TkEwU1hXR05QdHRVMjNHNE5qMGs3RnpWWU5LbmZJb2JIZ0hzSU5BVXI0Z0lXQ0RHOUV5czZhTWZZQXJEcEs1MDRfVnVIQjJDdmJJeTdfSlJSRUpjcWw2d1M3aG9udEVXaGhHcHFMb0Q5NXFXRWxVUVRyWjIxRnBvUnlBd0t3OFJHZndEOG0wc3ZQdHFiV0E1REdQdXotbHBR?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 폭풍우 및 기온 상승 예보: 여행자를 위한 안전 정보",
       "summary": "- 파타야 해변 지역에 뇌우, 강풍, 기온 상승이 예상됩니다.\n- 여행자는 최신 날씨 정보를 확인하고 안전에 유의해야 합니다.\n- 파타야의 썽태우(Baht Buses)는 여전히 편리한 이동 수단입니다.",
       "full_translated": "파타야의 야외 썽태우를 경험하세요: 태국의 활기찬 해변가를 여행하는 멋진 방법. 동부 태국에 뇌우, 강풍, 기온 상승이 예상됩니다. 관광객들이 알아야 할 사항은 다음과 같습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야 지역의 날씨 변화는 여행 안전에 영향을 미칠 수 있으므로 관련 정보를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": "썽태우 요금은 흥정 필요",
-        "location_google_map_query": "파타야 썽태우"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': '썽태우 요금은 흥정 필요', 'location_google_map_query': '파타야 썽태우'}",
       "references": [
         {
           "title": "Experience Pattaya’s Open-Air Baht Buses: A Cool Way to Travel Through Thailand’s Vibrant Beachfronts as Thunderstorms, Strong Winds, and Rising Temperatures Approach Eastern Thailand—Here’s What Tourists Should Expect - Travel And Tour World",
@@ -19307,23 +19299,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZmU2ZXpJRHgtR3NTSXVpS3NlUlFfOThpN0JwY2JreVVURGQwQy1fODdQZmRhQUtpaHVzZ0l6cTZwTm03UEVJV1BvZ1dmR3ppcW5ULThfZEhXR3BqR1RRWTJRSHBTQVNlaXZIMW1Vd0oxMi03RUx3UVd0Y1FBbDZzejV4M2g2Yzh5WHIwdDh5cGgwajRteU40MmJLdkJsWmR5anB4aks5dmRLYlpVTDJGejVTOElXb1FXUGxmMDAwcV8tYmpKNkI2eEtBVFJfUVZGaE9WNzNPdnpVRUVxYklZYWJDT0dyS1VoUndhZEJEVUVOdnVwTlhWaUUwWlBncnVSRlBzY2JpSHJWNklCWWcxLUIwTmNKM0xoV3p5ZmFUcmVvSWZyQlF6TUxzZmx2cm9rb0tPN01BbGRZZWdkTVNGV09aNWtqb3c2WjRz?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 시리킷 왕비 애도 기간 돌입 - 관광객에게 미치는 영향",
       "summary": "- 태국은 시리킷 왕비의 애도 기간에 돌입하여 1년 동안 지속될 예정입니다.\n- 관광객은 이 기간 동안 특별한 제한이나 의무는 없지만, 공공장소에서 존중하는 태도를 유지해야 합니다.\n- 일부 행사나 축제가 취소되거나 연기될 수 있으므로, 방문 전에 관련 정보를 확인하는 것이 좋습니다.",
       "full_translated": "태국은 현재 시리킷 왕비의 애도 기간으로, 이는 관광객에게 어떤 의미를 가질까요? 태국 국민들은 왕비를 애도하며 1년의 기간을 갖습니다. 관광객들은 이 기간 동안 공공장소에서 적절한 존중을 표해야 합니다. 구체적인 제한 사항은 없지만, 축제나 행사들이 취소되거나 연기될 수 있으므로 여행 전에 확인하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "왕비 애도 기간으로 인한 행사 취소 가능성 및 존중해야 할 태도에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
@@ -19332,23 +19321,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOalB1WFlQZTctS2k2OFp5VTZSQ213dkFxY25Na0hFQTRPU3VwUElhcDgyUXJxdFVfb2huUm9adXhtTXlHbmxURE9ZYV92amJ6N1JPd3Fwb2J1R0xVaUdYVFI1RjE1WkJSa0FtckRRV2dUb05TYjN5TXJNczRmUWNjMS1IaDZoY3dobUZVcjYzaU5KMy11bTJTVkdxazFzZnJzT3dhTHpCUFJOWkY2N3JOYUN2cUZRY1lyUUxIM2NkR2xuaVhfakViVXc2U3ZlV2RydnNhTG5qQVRxQWNNOWFDdGJGZFBQVkZFZk52MDdUbXNBM0hoQ1FxUGR1UlB3Z2FzSHZuSUtUb3BwdF9ZWVZqWXQ5cFpkajh6QkdVc2h3enRyYzlqQ2N3TjVMbmxGOTRYOEVRckg2YVhDcjV0WWVXNDJ2bUl5N0FXU2xnMGhqb01USmQzWTNrTWR0cnhPWk02dmtxSUVHNHJUc2Q5Y2VZa0cyVnZvdEktelBZMEJIb29WR05sOE5uYkZWZkxKZldMNXl5Q3B3OTROZw?oc=5",
+      "source": ""
     },
     {
       "title": "Amazing Thailand Fest 2026: 베를린에서 열리는 요리 및 문화 축제",
       "summary": "- Amazing Thailand Fest 2026이 베를린에서 개최됩니다.\n- 태국의 요리와 문화를 선보이는 행사입니다.\n- 여행객들에게 다양한 볼거리와 먹거리를 제공할 것으로 예상됩니다.",
       "full_translated": "Amazing Thailand Fest 2026: 베를린에서 열리는 요리 및 문화 축제",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 문화 홍보 행사 정보 제공, 여행객 관심 유발 가능성",
-      "event_info": {
-        "date": "2026",
-        "location": "베를린",
-        "price": "미정",
-        "location_google_map_query": "베를린"
-      },
+      "event_info": "{'date': '2026', 'location': '베를린', 'price': '미정', 'location_google_map_query': '베를린'}",
       "references": [
         {
           "title": "Amazing Thailand Fest 2026: A Culinary and Cultural Extravaganza in Berlin - Travel And Tour World",
@@ -19357,23 +19343,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDV4TmdVN1RRRE13UkZXU194TFA5OXRFMS01TGVSZkNxdGpIYzk1RGF5TjdjSHBTcFZmR3VnSkhkLVl3SzAtTkhXSGdfdEVpQWZKOGdiTkJnZXdtZU1tZ3Y2WTZPQmVQVzhTbzdoOEJQUXpCY1BybjVIdUxfVmFWUVhHa2w4VmR0YW1MbWQ3dlZzckFoX29PZXI2RW5QNkdaMk5ldFlyV3dYWTNCMHRVVDJsdkNBUXhOOGgzTXRYdw?oc=5",
+      "source": ""
     },
     {
       "title": "그레나다, 멕시코, 캐나다, 태국, 스위스, 영국 등과 함께 새로운 디지털 이민 플랫폼 도입",
       "summary": "- 그레나다가 멕시코, 캐나다, 태국, 스위스, 영국 등 여러 국가와 함께 새로운 디지털 이민 플랫폼을 도입합니다.\n- 이는 전 세계 여행이 종이 없는 형태로 전환되는 추세에 따른 것입니다.\n- 디지털 플랫폼 도입으로 입국 심사가 간소화되어 여행객 편의성이 증대될 것으로 기대됩니다.",
       "full_translated": "그레나다가 멕시코, 캐나다, 태국, 스위스, 영국 및 더 많은 국가와 협력하여 글로벌 여행이 종이 없는 형태로 진행됨에 따라 새로운 디지털 이민 플랫폼을 채택합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 디지털 이민 플랫폼 도입에 동참하여 여행객들의 입국 절차가 간소화될 가능성이 있으므로 여행 편의성 측면에서 중간 정도의 영향력을 가진다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Grenada Unites with Mexico, Canada, Thailand, Switzerland, UK and More Countries in Adopting New Digital Immigration Platforms as Global Travel Goes Paperless - Travel And Tour World",
@@ -19382,7 +19365,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdHpTUkU0WnJFRHJkbmNwcTk2YUJaTy10Q3N1cEVOWlZpUXF2WnFobFE5djBmbGJPUXRUZjRNaXV3cWZhMEpBUFBpWVdMcnhaRWlzZ0tKQjV0TW1BZ0pkRWFheHZ2MEpnYjQzUkN0MnRjbVdqNUFmSE5zMjlBcEdVc3ZwczNGc2tpY3BKVkV4UlIxd2hEMTRLSmZxaDZCd25jaUdDV0I2dVoxZGJ6S3N5VTY1ekUtNkwxOTF4Sk1fb0kyZE9FZlduQlpZQVFTRS1HMVZGWXhFM0htNmlGNWpKRHNTYXBZcUZTSEczNVAweGx1a2hCcFY4UVYwY3dJSU1tSzljbW5aN2d3NzlzV0w5OE1qUWZOY3cwcFJ0Q21xVFR6UGsyZ1ZDMnJLVQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "사우디아라비아, 미사일 공격 방어…중동 긴장 고조",
+      "summary": "- 사우디아라비아가 자국 기지를 향한 미사일 공격을 방어했다고 발표했습니다.\n- 이는 미국-이스라엘 대 이란 간의 갈등이 심화되는 가운데 발생했습니다.\n- 중동 지역의 긴장 고조가 여행 및 에너지 시장에 미칠 영향이 우려됩니다.",
+      "full_translated": "사우디아라비아가 자국 공군 기지를 겨냥한 3개의 탄도 미사일을 요격했다고 발표했습니다. 이는 미국과 이스라엘 대 이란 간의 분쟁이 지역 내에서 확대되는 가운데 발생했습니다. 2069년 3월 6일, 사우디아라비아 당국은 사우디 방공 시스템이 최소 3개의 탄도 미사일을 요격했다고 밝혔으며, 이는 '프린스 술탄' 공군 기지를 공격 목표로 했습니다. 이는 중동 지역 긴장 고조의 가장 최근 신호로 간주됩니다. 당국은 이 사건이 미국과 이스라엘 대 이란 간의 전쟁이 확대되는 상황에서 발생했다고 언급했습니다. 최근 며칠 동안, 특히 페르시아 만 지역에서 미사일과 드론을 이용한 상호 공격이 여러 차례 있었습니다. 이전에도 사우디아라비아와 걸프 지역의 여러 국가가 반복적인 공격을 받았으며, 이란은 이 미사일 발사와 드론 공격의 배후로 지목되었습니다. 이러한 긴장 고조로 인해 많은 이들이 전쟁이 더 넓은 지역적 갈등으로 확대될 가능성을 우려하고 있으며, 이는 세계 경제, 특히 에너지 시장에 영향을 미칠 수 있습니다. 페르시아 만 지역은 세계 최대의 석유 및 가스 생산 및 수출 지역이기 때문입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역의 긴장 고조는 잠재적으로 여행에 영향을 미칠 수 있으며, 특히 해당 지역을 경유하는 여행객에게는 더욱 그렇습니다. 에너지 시장에 미치는 영향은 항공료 인상 등으로 이어질 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ด่วน ซาอุฯ สกัดขีปนาวุธ 3 ลูก เล็งฐานทัพอากาศ “พริ้นส์ สุลต่าน” เสี่ยงสงครามตะวันออกกลางลุกลาม",
+          "url": "https://www.thairath.co.th/news/foreign/2918415",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GDeS75VQCmsWR.jpg"
+        }
+      ],
+      "collected_at": "05:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GDeS75VQCmsWR.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중동 분쟁 및 유가 급등 속에서 타이항공 급감 - 태국 및 그 너머 여행에 미치는 영향",
+      "summary": "- 중동 지역의 갈등 심화와 유가 상승으로 인해 타이항공이 어려움을 겪고 있습니다.\n- 이는 태국 여행 및 다른 지역으로의 여행에 영향을 미칠 수 있습니다.\n- 여행 계획에 차질이 없도록 최신 정보를 확인하는 것이 중요합니다.",
+      "full_translated": "중동 분쟁 심화와 유가 급등 속에서 타이항공이 급격한 감소를 겪고 있습니다. 태국 및 그 너머의 여행에 미치는 영향에 대해 알아야 할 사항이 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "유가 상승 및 항공사 경영난은 항공권 가격 상승 및 운항 스케줄 변동을 초래하여 여행객에게 직간접적인 영향을 줄 수 있음. 현재 시각이 아침이므로, 여행객들이 인지하고 여행 계획을 조정할 수 있도록 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Amid Escalating Middle East Conflicts and Surge in Oil Prices, Thai Airways Experiences Sharp Decline – Here’s What You Need to Know About the Impact on Travel to Thailand and Beyond - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQaWFpaXpWQzB1bjRpYmY2RzBUZURremM0MHl2bHZwcjBCYjN4LUtrQjZNOFRlY0pFa1phb1d2VTlwdXVGWVVhTjBzY2dYWHNPSUtkQk02amRwMWdDMFk4LTRodFNTNnB4YWktY1R0dGRINm1Ic2xSXzhwc091dGJURjNxVXNGWnpReERiek1kMWV6WHhfLTlHNFBfYXpPeTBWam9rTWo3cDdoR1h5YWd0UTJVckh3Tk4zblNyUWh1NXZqRkY5aG5zZ1p0SGxzUFlxUkM4TU4wa1VRT3BObkdHTjdVYjBEd1J6RTVrVXRZTDdvMlpfSlA5VEhpbzVQSENselNSTkZNbUx0a2J5OF9CdkI1VHhSUDJTb3VLOTJOX0JCazRtN2RzQm5QWmdXZ1hsWXdGWGhxQzRsM1dIanZmV1F3LW82RHhkQks4?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "방콕 항공, 태국 지방 항공편 운항 재개 주도",
+      "summary": "- 방콕 항공이 태국 지방 항공편 운항 재개를 주도하고 있습니다.\n- 이는 태국 내 지역 관광 활성화에 기여할 것으로 예상됩니다.\n- 자세한 내용은 thetraveler.org에서 확인할 수 있습니다.",
+      "full_translated": "방콕 항공이 태국 지방 항공편 운항 재개를 주도하고 있습니다. thetraveler.org",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 지방 여행 계획에 참고할 만한 항공편 정보 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Bangkok Airways Leads Thailand’s Regional Flight Revival - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUnc1TEZlS2V6MERoclBtcVlGdThLaGVUOGV4VUtQa3VBcDN2QmZ3REZfZ1AtVGYzQi00cUJvSmlyNU1JM0lYeWpGcm1VTkJzU3NCZkJ3dEpZZTFwUmpoakhiaUdON3lYQzlSeFB1akZEQjZ6c2htMjgtQVY3QXBkWUxpZXFBYy04WEJsaA?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
