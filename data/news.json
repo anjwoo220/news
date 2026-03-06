@@ -18849,14 +18849,9 @@
       "summary": "- 태국이 미식과 웰빙을 결합한 관광 상품으로 고급 관광객 유치에 나섰습니다.\n- 스파, 명상, 요가 등 다양한 웰니스 프로그램을 제공하여 심신의 안정과 휴식을 추구하는 여행객들에게 어필합니다.\n- 푸껫은 2026년 세계 웰니스 서밋 개최지로 선정되어, 태국의 웰니스 관광 산업 성장이 더욱 기대됩니다.",
       "full_translated": "태국이 미식과 웰빙을 결합한 관광 상품으로 고급 관광객 유치에 적극적으로 나서고 있습니다. 팬데믹 이후 건강과 휴식에 대한 관심이 높아짐에 따라, 스파, 명상, 요가 등 다양한 웰니스 프로그램을 제공하여 심신의 안정과 휴식을 추구하는 여행객들에게 어필하고 있습니다. 특히 푸껫은 2026년 세계 웰니스 서밋 개최지로 선정되어, 태국의 웰니스 관광 산업 성장이 더욱 기대됩니다. 웰니스 관광은 단순한 휴가를 넘어 건강과 힐링을 중시하는 새로운 트렌드를 반영하며, 태국은 이러한 변화에 발맞춰 다양한 고급 웰니스 상품을 개발하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국이 웰니스 관광을 통해 새로운 관광객 유치를 시도하고 있다는 정보는 여행객들에게 유용할 수 있으며, 특히 푸껫의 웰니스 서밋 개최는 향후 여행 계획에 참고할 만한 정보입니다.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "푸껫",
-        "price": "미정",
-        "location_google_map_query": "푸껫 세계 웰니스 서밋"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '푸껫', 'price': '미정', 'location_google_map_query': '푸껫 세계 웰니스 서밋'}",
       "references": [
         {
           "title": "Healing is the new luxury: How Thailand is luring tourists with gastronomy and wellness - Yahoo",
@@ -18865,23 +18860,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2NELXJpWnl4cjFHWUNVU2M2VGNQTjJTMWZXS1BLX3NwV1B4RElubE9LbzdidjQzaGlfVGdmZ2thd3MwTUp6Y0RmWmJ6bGI0X3FYU29yNWE5OEU1cTFzX0pLSzhlSm1YQk1PVnlkbVR1LWZHcFF6QXhDM2NYS0VQR1VqQ195bDZXd0FneUpMMHE2UXBzeU5KQldhOA?oc=5",
+      "source": ""
     },
     {
       "title": "태국, ITB 베를린 네트워킹 행사 성공적 개최",
       "summary": "- 태국 관광청(TAT)은 ITB 베를린에서 어메이징 태국 네트워킹 행사를 성공적으로 개최함.\n- 이 행사는 태국 관광 산업의 매력을 홍보하고 파트너십을 강화하는 데 기여함.\n- 자세한 내용은 Travel Daily Media에서 확인할 수 있음.",
       "full_translated": "태국 관광청(TAT)은 ITB 베를린에서 어메이징 태국 네트워킹 행사를 성공적으로 개최했습니다. Travel Daily Media",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업 홍보 관련 소식으로, 여행객들에게 태국의 최신 관광 정보와 트렌드를 알리는 데 도움이 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "ITB Berlin",
-        "price": null,
-        "location_google_map_query": "ITB Berlin"
-      },
+      "event_info": "{'date': None, 'location': 'ITB Berlin', 'price': None, 'location_google_map_query': 'ITB Berlin'}",
       "references": [
         {
           "title": "TAT successfully hosts Amazing Thailand networking event at ITB Berlin - Travel Daily Media",
@@ -18890,23 +18882,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRVdVdzZiVmU5MFI2X0tTQTNtWVZocmxVWmJnVmVNNTRqUTV2ZlI1cW82djktekh3MlZSankybC1EQ2dGV0EtSzhMekNtc1hMVi1xTWxVSHVONEpidlJpT1gyQzVlakdBM05jSXNPQTUtd3ZNV29LSEdjRkpNY0FkSVJHMXZlWmE1aGNWQ1h2UWJVcXlST0VfOEI5SzA0cHJFX3RWc2d6Zw?oc=5",
+      "source": ""
     },
     {
       "title": "트럼프, 이란에 '무조건 항복' 요구하며 협상 불가 선언",
       "summary": "- 트럼프 대통령은 이란이 무조건 항복하지 않으면 어떠한 합의도 없을 것이라고 밝혔습니다.\n- 그는 미국과 동맹국들이 이란을 재건하고 경제를 강화할 것이라고 덧붙였습니다.\n- 이는 이란과 이스라엘 간 긴장이 고조되는 가운데 나온 발언입니다.",
       "full_translated": "트럼프 대통령은 이란이 무조건 항복하지 않으면 미국은 어떠한 합의도 하지 않을 것이라고 밝혔습니다. 그는 소셜 미디어를 통해 이란의 무조건적인 항복 외에는 합의가 없을 것이라고 언급했습니다. 트럼프 대통령은 이란의 좋은 지도자를 선출하고 미국과 동맹국들이 이란을 재건할 것이라고 말했습니다. 또한 미국과 동맹국들이 이란을 파멸에서 구하고 경제를 강화하기 위해 노력할 것이라고 덧붙였습니다. 그는 '이란을 다시 위대하게 만들자'라는 슬로건으로 글을 마무리했습니다. 트럼프의 발표는 이란과 이스라엘 간의 긴장이 고조되는 가운데 나온 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에는 직접적인 영향이 없지만, 국제 정세 불안은 간접적인 위험 요소가 될 수 있으므로 낮은 점수로 반영.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ลั่น “ไม่มีข้อตกลงกับอิหร่าน” หากไม่ยอมจำนนแบบไม่มีเงื่อนไข",
@@ -18915,8 +18904,110 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GDdvsLgYHH6Bf.jpg"
         }
       ],
-      "collected_at": "02:54",
+      "collected_at": "2:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GDdvsLgYHH6Bf.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918413",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 위기로 발 묶인 관광객 지원 위해 재정 지원 및 비자 연장",
+      "summary": "- 태국 정부는 중동 지역 위기로 인해 발이 묶인 관광객들을 지원하기 위해 재정 지원과 비자 연장을 제공합니다.\n- 푸껫에서 치앙마이까지, 관광객들은 이러한 지원을 통해 여행을 연장하거나 안전하게 귀국할 수 있습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국 관광 활성화: 중동 위기로 발 묶인 관광객을 위한 재정 지원 및 비자 연장 – 푸껫에서 치앙마이까지, 예상되는 사항\n\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 위기로 인해 발이 묶인 관광객들에게 직접적인 영향을 미치므로, 비자 연장 및 재정 지원 정보는 여행객에게 유용합니다. 푸껫, 치앙마이 등 주요 관광지를 언급하여 관련성을 높였습니다.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫, 치앙마이",
+        "price": null,
+        "location_google_map_query": "푸껫, 치앙마이"
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Boost: Financial Aid and Visa Extensions for Stranded Tourists Due to Middle East Crisis – From Phuket to Chiang Mai, Here’s What to Expect - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNX2tnT0NBWDZIRHN6Q1NLaVB1RkNOX3BjOGVwWlMwUUthY1R3eUpGeHNXNW0yQWNZRnlsbldCSG1jN1hoa21TU2VkMHA2T2l2NzNJZ0hHTzRKamotUUNuMkhrY0JRVFVqeTJyQ2ZtU0dvY3VhRHhwT1BlTDczd08yT0RpbjBuMWFhRFZuQUhPeXI2YWU0bFpnbWZBTjhUczNHcm9tWEpQVXhSN0F6S2VvdVFCY0JWYXhjZ0prbnVvaXYwV3V6SlZ2Y2tvUmtOY1JyQ0IyZ2h6TjlDNnp6WnZNVDltaF9aUzNRbzQ0b1lhMkpoRjA2ZnFGbVBCLVdoV1RlNHBHRS1JQmlZclU0WXhKSWczcHBzM0FBdFN1UE5UbUx4cDRKaTI3ZQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "방콕 에어웨이, 전례 없는 지역 항공편 확장으로 태국 관광 성장 주도",
+      "summary": "- 방콕 에어웨이가 지역 항공편을 확장하며 태국 관광 성장을 이끌고 있습니다.\n- 이는 경쟁사들을 능가하는 행보입니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국의 타의 추종을 불허하는 관광 성장: 방콕 에어웨이는 전례 없는 지역 항공편 확장을 통해 경쟁사들을 능가합니다! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "방콕 에어웨이의 항공편 확장 정보는 여행객들에게 유용한 정보가 될 수 있지만, 현재 시점(새벽)에서 당장 필요한 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Unbeatable Tourism Growth: Bangkok Airways Outshines Competitors with Unprecedented Regional Flight Expansion! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSDBxc3k0TnV2Rnl0QTM2RmpNd09fSzBOd2ZDNEtkZmd3aUFOVUEwZDd4NzR2VG1ZRVZZOEx2UDl3MUFZM1M0dTlZT09KRmJvRW5PZEtRbGxvUFJGQkZVakttM3ZmS29yLUE2aEZiNThaTmVNaWE3aERVMHZ4bzJvRld5bzBQVE11Y29SbklLSmt3WTFhNU0zV3hMWlNkVVRvS0NKTkd5VUJNR1VMeVIxbzRnd0cxdHFQam5BVG9Gck5Kd01CLVZDc3pzRGM4bmdqYW4zMmZ2bEp4OFZPVFJqRU1XeVhOZHhBLURmZEQ2THZya3pRX184VlpxMA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 관광 2026년 감소 전망 - Travel And Tour World",
+      "summary": "- 태국 관광 산업이 2026년에 감소할 것이라는 전망이 제기됨.\n- 구체적인 감소 요인 및 영향에 대한 분석 필요.\n- 여행 관련 의사 결정 시 참고할 만한 정보.",
+      "full_translated": "태국 관광 2026년 감소\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 산업의 전반적인 추세에 대한 정보이지만, 즉각적인 여행 계획에 미치는 영향은 제한적임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism 2026 Decline - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTi1DcTJEeWxETVRoMVNoVExjSS1vQnNNZjJMaVFaRmJTNHh5WjJOMlRGT3NGREdEb3R3YWtmMjdNWldXUVJqTFRxMXBKUklOdVQwWU4zckFISTlhVFItZjZ2OV9YUDJ1M3hDYnZ1bm9CTFNnRW94Mk5kSDB3TlJiWjBiUWhxSUdwQUE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 총선 후 9일간 의원 등록 현황: 총 373명 등록, 3월 6일에만 90명 등록",
+      "summary": "- 태국 총선 후 9일간의 의원 등록 현황이 발표됨.\n- 3월 6일까지 총 373명의 의원이 등록을 완료함.\n- 3월 6일 하루에만 90명의 의원이 등록함.",
+      "full_translated": "태국 하원 사무국은 총선 후 9일간의 의원 등록 현황을 집계한 결과, 3월 6일까지 총 373명의 의원이 등록을 마쳤다고 발표했습니다. 3월 6일에는 오전 8시 30분부터 90명의 의원이 등록했습니다.\n\n3월 6일에는 아피싯 웨차치와 민주당 대표가 민주당 의원들과 함께 등록했으며, 이어 11시에는 탐마낫 프롬파오 끌라탐당 대표가 끌라탐당 의원들을 이끌고 국회에서 등록을 마쳤습니다. 12시 35분에는 욧차난 웡사왓 프어타이당 비례대표 의원과 쭐라판 아몬위왓 대표가 프어타이당 의원들과 함께 EV 버스를 타고 등록했습니다.\n\n하원 사무국은 선거관리위원회가 선거 결과를 발표한 후 27대 하원 의원 등록이 9일째 진행되고 있으며, 3월 6일에는 90명의 의원이 등록하여 총 373명의 의원이 등록을 마쳤다고 밝혔습니다. 날짜별 등록 인원은 다음과 같습니다. 2월 26일 47명, 2월 27일 46명, 2월 28일 4명, 3월 1일 4명, 3월 2일 14명, 3월 3일 4명, 3월 4일 16명, 3월 5일 148명, 3월 6일 90명입니다. 정당별 등록 인원은 다음과 같습니다. 1. 품짜이타이당 189명 2. 쁘라차촌당 1명 3.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행 자체에 직접적인 영향은 적다고 판단됨. 총선 후 의회 구성에 대한 정보는 간접적인 관심사일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สภาฯ สรุปยอด 9 วัน สส. รายงานตัวแล้ว 373 คน เฉพาะ 6 มี.ค. จำนวน 90 คน",
+          "url": "https://www.thairath.co.th/news/politic/2918374",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbzvXbaZ9X5Z.jpg"
+        }
+      ],
+      "collected_at": "03:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbzvXbaZ9X5Z.jpg",
       "date": "2026-03-07"
     }
   ]
