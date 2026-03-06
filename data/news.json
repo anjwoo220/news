@@ -17837,14 +17837,9 @@
       "summary": "- 태국 기상청은 향후 24시간 동안 태국 북부 지역에 여름 폭풍이 예상된다고 경고했습니다.\n- 34개 주에서 천둥, 강풍, 우박이 예상됩니다.\n- 해당 지역 주민들에게는 개방된 공간, 큰 나무, 약해진 구조물, 불안정한 광고판을 피하도록 권고됩니다.",
       "full_translated": "기상청은 향후 24시간 동안 태국 북부 지역에 여름 폭풍이 몰아칠 것이라고 경고했으며, 34개 주에서 천둥, 강풍, 우박이 예상됩니다. 기상청은 중국에서 발생한 고기압 또는 찬 공기 덩어리가 북동부 동쪽과 남중국해를 덮으면서 남중국해와 태국 만에서 습기를 가득 실은 남풍과 남동풍이 태국 북부 지역으로 불어오고 있다고 밝혔습니다. 더운 날씨와 미얀마에서 불어오는 서풍의 영향으로 천둥, 강풍, 번개를 동반한 여름 폭풍이 발생할 수 있습니다. 해당 지역 주민들에게는 개방된 공간, 큰 나무, 약해진 구조물, 불안정한 광고판을 피하도록 권고됩니다. 농부들은 과일 나무를 보강하고 농작물과 가축을 잠재적인 피해로부터 보호하기 위한 조치를 준비해야 합니다. 남부 지역은 태국 만과 남부 지역에 걸쳐 동풍과 남동풍이 강해지고 안다만 해를 덮는 서풍과 함께 강풍을 동반한 강우량이 증가할 것입니다. 태국 만과 안다만 해의 낮은 파도는 약 1m에 달할 것으로 예상되며, 뇌우 지역에서는 2m 이상으로 높아질 것입니다. 선원들은 뇌우가 치는 지역에서의 항해를 피해야 합니다. 북부, 중부 지역(방콕 포함)은 보통에서 높은 수준의 먼지 농도를 보일 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 날씨 정보이며, 특히 야외 활동에 대한 주의가 필요하므로 점수를 높게 책정했습니다. 매일 업데이트되는 날씨 정보이므로 포함.",
-      "event_info": {
-        "date": "2026-03-06",
-        "location": "태국 북부 34개 주",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-03-06', 'location': '태국 북부 34개 주', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Summer storms forecast for 34 provinces, thunderstorms and hail expected",
@@ -17855,21 +17850,18 @@
       ],
       "collected_at": "18:22",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211118_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/thailand/general/3211118/summer-storms-forecast-for-34-provinces-thunderstorms-and-hail-expected",
+      "source": ""
     },
     {
       "title": "방콕 회사 매니저 납치 살해 사건, 주모자와 공범 체포",
       "summary": "- 방콕 회사 매니저 납치 살해 사건의 주모자와 공범이 체포됨.\n- 용의자들은 방콕 왕통랑 지역의 한 주택에서 체포되었음.\n- 주모자는 살인, 시체 은닉, 강요 등의 혐의를 받고 있음.",
       "full_translated": "경찰은 방콕 회사 매니저의 잔혹한 납치 및 살해와 관련하여 주모자와 그의 여동생을 방콕에서 체포했습니다. 피해자의 불에 탄 유해는 롭부리 지방에서 발견되었습니다. 소라위 랏피탁티라다(46세)와 베냐파 랏피탁(45세)은 목요일 밤 방콕 왕통랑 지역의 한 주택에서 체포되었습니다. 수도경찰청(MPB) 수사과의 초티왓 루앙윌라이 사령관, 수도경찰 2지구의 키아트쿨 손티난 국장 및 고위 경찰관은 용의자들이 목요일 밤 11시 30분경 거주지를 떠날 때 왕통랑에서 체포했습니다. 소라위 씨는 살인, 시체 은닉, 강요, 불법 구금, 범죄 조직 가담 및 사망을 초래한 강도 혐의로 목요일 형사 법원에서 발부된 체포 영장에 따라 체포되었습니다. 베냐파 씨는 공동 살인, 시체 은닉, 강요, 불법 구금, 사망을 초래한 강도 및 범죄 조직 가담을 포함한 동일한 영장에 따라 체포되었습니다. 앞서 경찰은 방콕 의료기기 회사 매니저를 납치한 혐의로 7명을 구금했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 강력 범죄 사건이며, 체포 소식은 새로운 정보 업데이트에 해당함.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 왕통랑 지역",
-        "price": null,
-        "location_google_map_query": "Wang Thong Lang district, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '방콕 왕통랑 지역', 'price': None, 'location_google_map_query': 'Wang Thong Lang district, Bangkok'}",
       "references": [
         {
           "title": "Alleged mastermind, aide arrested in abduction-murder of Bangkok company manager",
@@ -17880,21 +17872,18 @@
       ],
       "collected_at": "18:22",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211159_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/thailand/general/3211159/alleged-mastermind-aide-arrested-in-abductionmurder-of-bangkok-company-manager",
+      "source": ""
     },
     {
       "title": "롭부리 납치 살인 사건, 주요 용의자 검거 작전",
       "summary": "- 방콕 의료기기 수입업체 관리자가 납치 후 살해된 사건 발생\n- 경찰은 주요 용의자가 인접국으로 도주한 것으로 보고 추적 중\n- 공범 9명 중 7명 체포, 나머지 용의자 추적 및 DNA 검사 진행 중",
       "full_translated": "롭부리 납치 살인 사건의 주요 용의자가 나콘파놈을 통해 라오스로 도주한 것으로 추정되어 경찰이 추적 중이다. 피해자 Rutt Maneeprasert는 방콕 Sutthisan 지역에서 의료 장비 수입 및 유통 회사를 관리했으며, 2월 18일 용의자 그룹이 교통사고를 위장하여 납치한 것으로 알려졌다. 그는 Samut Prakan 지방의 Bang Bo 지역에 있는 임대 주택에 감금되었다. 수사관들은 피해자가 나중에 살해되었고 증거를 없애기 위해 롭부리 Chai Badan 지역에서 시신이 불태워진 것으로 보고 있다. 법의학 수사관들은 사망자의 신원을 확인하기 위해 유족과 DNA 검사를 실시하고 있다. 경찰은 이 사건과 관련된 9명을 확인했다. Phumet Ngernsrichai를 포함한 8명이 납치를 실행한 것으로 여겨진다. 그는 여전히 도주 중이며 인접 국가로 도피했을 수 있다. 7명의 용의자가 체포되었고, 2명은 경찰에 자수 후 보석으로 풀려났다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 대상 범죄는 아니지만, 여행객 안전에 영향을 줄 수 있는 사건이므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "롭부리",
-        "price": null,
-        "location_google_map_query": "롭부리"
-      },
+      "event_info": "{'date': None, 'location': '롭부리', 'price': None, 'location_google_map_query': '롭부리'}",
       "references": [
         {
           "title": "Man sought in kidnap, murder case",
@@ -17905,21 +17894,18 @@
       ],
       "collected_at": "18:22",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210684_260306113949_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/thailand/general/3210684/man-sought-in-kidnap-murder-case",
+      "source": ""
     },
     {
       "title": "태국, 외국인 명의대여 혐의 15개 회사 적발: 농산물 가격 하락 주범",
       "summary": "- 태국 상무부가 외국인 명의대여(Nominee) 혐의로 15개 회사를 적발하여 조사 중.\n- 이들 회사는 태국인을 내세워 농장을 임대, 농산물을 가공, 수출하며 가격을 담합한 혐의를 받음.\n- 적발된 회사들은 주로 라차부리, 사뭇프라칸 등지에 위치하며, 관련 법에 따라 처벌될 예정.",
       "full_translated": "태국 상무부 산하 사업개발국은 10개 기관과 협력하여 향기 코코넛 가격 하락 문제를 해결하고 외국 자본의 과일 야적장 운영을 조사했습니다. 그 결과, 태국인을 주주로 내세운 15개의 위험 그룹 회사를 발견했습니다. 이들은 라차부리(11개), 사뭇프라칸, 파툼타니, 사뭇사콘, 방콕에 각각 1개씩 위치해 있습니다. 또한, 해당 회사를 지원하는 것으로 의심되는 태국인 10명을 확인했습니다. 일부 회사는 설립된 지 5~6년 되었고, 일부는 최근에 설립되었습니다. 조사 후, 사업개발국은 중앙수사국, 특별수사국(DSI), 자금세탁방지사무국(PPONG) 등 관련 기관에 사건을 이관했습니다. 이들은 외국인 사업법 B.E. 2542에 따라 기소될 수 있으며, 유죄 판결을 받을 경우 3년 이하의 징역과 10만~100만 바트의 벌금형에 처해질 수 있습니다. 사업개발국은 불공정한 사업 관행이 발견되었기 때문에 이 문제를 조사하게 되었습니다. 이들은 코코넛 농장을 임대하여 농작물을 재배하고, 가공 및 수출을 직접 수행하며 구매 가격을 낮추어 지역 내 향기 코코넛 가격이 비정상적으로 하락하는 결과를 초래했습니다. 따라서 당국은 이 문제를 해결하기 위해 개입했으며, 향기 코코넛뿐만 아니라 두리안, 망고스틴과 같은 다른 과일에도 동일한 조치를 취할 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 농산물 가격 하락은 여행객의 직접적인 관심사는 아니지만, 장기적으로 물가 상승에 영향을 줄 수 있으며, 태국 경제 상황에 대한 간접 정보로서 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "라차부리, 사뭇프라칸, 파툼타니, 사뭇사콘, 방콕",
-        "price": null,
-        "location_google_map_query": "라차부리"
-      },
+      "event_info": "{'date': None, 'location': '라차부리, 사뭇프라칸, 파툼타니, 사뭇사콘, 방콕', 'price': None, 'location_google_map_query': '라차부리'}",
       "references": [
         {
           "title": "ฟัน 15 บริษัท ใช้คนไทยเป็นนอมินี \"มะพร้าวน้ำหอม\" กดราคารับซื้อ ทำราคาตลาดร่วง",
@@ -17930,21 +17916,18 @@
       ],
       "collected_at": "18:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbbpMJfBmxZk.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2918373",
+      "source": ""
     },
     {
       "title": "태국 민족주의 정당, 연립 정부 참여 가능성 시사",
       "summary": "- 태국 민족주의 정당인 Prachachat Party가 연립 정부 참여 가능성을 열어둠.\n- Bhumjaithai Party로부터 연립 정부 참여 제안을 받았다고 인정.\n- 당의 공식 입장은 아직 결정되지 않았으나, 참여에 긍정적인 분위기.",
       "full_translated": "Prachachat Party의 대표인 Tawee Sodsong은 당의 공식 입장이 결정되기 전까지는 연립 정부 참여에 대해 확답을 피했습니다. 그는 Bhumjaithai Party로부터 연립 정부 참여 제안을 받은 것을 인정했습니다. Tawee는 Prachachat Party가 소규모 정당이기 때문에 공식적인 당의 결정을 기다려야 한다고 밝혔습니다. 기본적으로 당은 연립 정부에 참여하는 것이 원칙에 어긋나지 않는다고 생각하며 공식 초청을 받으면 기꺼이 협력할 의향이 있습니다. 과거 Bhumjaithai Party의 지도자의 Khra Dong 토지 사건을 조사한 것과 관련하여 개인적인 문제는 없으며 모든 것이 당시의 역할과 책임에 따른 것이라고 밝혔습니다. 총리 선출 투표는 누구도 간섭할 수 없는 헌법 124조에 따른 국회의원의 권리입니다. 과거에 함께 일한 적이 있기 때문에 친밀함이 있는 것은 당연하지만, 부정확하거나 사법 절차에 대한 간섭이 있는 경우 당은 이를 용납할 수 없다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이나, 여행에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“ทวี” รับภูมิใจไทยต่อสายจีบร่วมรัฐบาล แทงกั๊กรอมติพรรค",
@@ -17955,6 +17938,133 @@
       ],
       "collected_at": "18:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EzbkQO3VclbuI.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/politic/2918371",
+      "source": ""
+    },
+    {
+      "title": "방콕 공항, 미국-이스라엘의 이란 공격으로 항공편 42편 여전히 차질",
+      "summary": "- 수완나품 국제공항에서 중동행 항공편 20편 출발 취소, 22편 도착 취소.\n- 이스라엘 엘알 항공, 에어 아라비아, 에미레이트, 카타르 항공 등 7개 항공사 영향.\n- 미국과 이스라엘의 이란 공습 이후 수완나품 공항에서 총 292편의 항공편 차질 발생.",
+      "full_translated": "방콕포스트.com : 최신 기사\n2026년 3월 6일 15:37 게시\n작성자: 온라인 기자\n미국과 이스라엘의 이란 공격으로 인한 영공 폐쇄로 금요일 방콕-중동 노선 42편 이상의 항공편이 차질을 빚었습니다. 수완나품 국제공항 사무소는 금요일 오후 2시 현재 중동 목적지행 출발 항공편 20편과 7개 항공사에서 운항하는 도착 항공편 22편이 취소되었다고 밝혔습니다. 영향을 받은 항공사는 이스라엘의 엘알 항공, 에어 아라비아, 에미레이트, 카타르 항공, 에티하드 항공, 걸프 에어 및 쿠웨이트 항공이었습니다. 이번 최신 보고서에 따르면 워싱턴과 텔아비브가 토요일 이란에 대한 첫 번째 공습을 시작한 이후 수완나품 공항에서 양방향으로 총 292편의 항공편이 차질을 빚었습니다. 여러 중동 항공사도 푸껫행 직항편을 운항하고 있지만 남부 공항은 영향을 받은 항공사를 보고하지 않았습니다. 에미레이트 항공과 카타르 항공은 금요일 아랍에미리트(UAE) 기지에서 출발하는 일부 도시행 항공편 운항을 재개했습니다. 매일 업데이트, 속보 및 독점 콘텐츠를 보려면 뉴스레터를 구독하십시오. 방콕 포스트의 전체 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "공항 이용에 차질이 발생할 수 있으므로 여행객에게 중요한 정보. 특히 중동행 항공편 이용객에게는 필수 정보.",
+      "event_info": {
+        "date": "2026-03-06",
+        "location": "수완나품 국제공항",
+        "price": null,
+        "location_google_map_query": "Suvarnabhumi International Airport"
+      },
+      "references": [
+        {
+          "title": "42 flights at Bangkok airport still disrupted by US-Israeli attacks on Iran",
+          "url": "https://www.bangkokpost.com/business/general/3211260/42-flights-at-bangkok-airport-still-disrupted-by-usisraeli-attacks-on-iran",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211260_700.jpg"
+        }
+      ],
+      "collected_at": "18:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211260_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "차เชิง사오 주 색깔 공장 화재 발생, 아직 진화 중",
+      "summary": "- 차เชิง사오 주에 위치한 색깔 공장에서 화재 발생\n- 화재 현장에서 검은 연기가 치솟고 있으며 진화 작업 난항\n- 추가 정보는 계속 업데이트될 예정",
+      "full_translated": "차เชิง사오 주에서 색깔 공장 화재가 발생했습니다. 두꺼운 연기 기둥이 목격되었으며, 현재까지 당국은 화재를 통제하지 못하고 있습니다. 2069년 3월 6일, 테파라트 2번 도로의 차เชิง사오 주 내 색깔 공장에서 화재가 발생했다는 보고가 있었습니다. 페이스북 페이지 'Fire & Rescue Thailand'는 사진과 함께 다음과 같은 메시지를 게시했습니다. '차เชิง사오 - 색깔 공장 화재. 2069년 3월 6일 16시 53분에 테파라트 2번 도로의 차เชิง사오 주 내 색깔 공장에서 화재가 발생했다는 신고가 접수되었습니다. 현재 두꺼운 연기가 발생하고 있으며, 화염은 4단계에 이르렀고 주기적인 폭발음이 들립니다. 당국은 현재 화재 진압을 위해 노력하고 있으며 추가 진행 상황을 알려드리겠습니다.' 이후 '2069년 3월 6일 17시 30분, 차เชิง사오 주 테파라트 2번 도로의 색깔 공장 화재 진행 상황. 불길은 여전히 강하며, 통제되지 않고 있습니다. 당국은 현재 화재 진압을 위해 노력하고 있으며 추가 진행 상황을 알려드리겠습니다.' 라는 메시지가 추가로 게시되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "공장 화재로 인한 잠재적 환경 오염 및 교통 혼잡 가능성. 여행 지역과 관련성이 낮지만 안전 문제와 관련된 정보이므로 포함.",
+      "event_info": {
+        "date": "2069-03-06",
+        "location": "차เชิง사오 주 테파라트 2번 도로",
+        "price": null,
+        "location_google_map_query": "차เชิง사오 테파라트 2번 도로"
+      },
+      "references": [
+        {
+          "title": "เกิดเหตุ ไฟไหม้โรงงานผลิตสี จ.ฉะเชิงเทรา ล่าสุดยังไม่สามารถควบคุมเพลิงได้",
+          "url": "https://www.thairath.co.th/news/local/2918382",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3qa3ArmAOck.jpg"
+        }
+      ],
+      "collected_at": "18:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3qa3ArmAOck.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "방콕시, 민원 해결 플랫폼 'Traffy Fondue' 만족도 81% 기록",
+      "summary": "- 방콕시 민원 신고 플랫폼 Traffy Fondue가 100만 건 이상의 민원을 해결하며 81%의 만족도를 기록.\n- 2022년 출시 이후 122만 건 이상의 신고 접수, 실시간 민원 처리 상황 확인 가능.\n- 시민 참여 증가 및 도시 관리 효율성 향상에 기여.",
+      "full_translated": "방콕 메트로폴리탄 관리국(BMA) 대변인 Ekwaranyu Amrapal에 따르면 디지털 보고 플랫폼인 Traffy Fondue가 100만 건 이상의 불만을 해결했으며 공공 만족도는 81%에 달합니다. 시의 온라인 불만 및 문제 보고 플랫폼은 2022년 출시 이후 1,229,503건의 보고를 접수했습니다. 이 중 1,000,113건(81%)이 해결되었고 82,505건(7%)은 처리 중이며 89,146건(7%)은 관련 기관에 전달되었고 751건은 수요일 아침 데이터 기준으로 조치를 기다리고 있습니다. 이는 도시 관리에서 공공 참여율이 증가하고 시 기관의 효율성과 투명성이 향상되었음을 보여준다고 대변인은 말했습니다. 시민 피드백은 또한 플랫폼에 대한 높은 수준의 만족도를 나타냅니다. 해결된 사건 중 326,636건(81%)이 긍정적인 피드백을 받았고 77,882건(19%)이 불만족스럽다는 평가를 받았습니다. 이 플랫폼을 통해 거주자는 불만 사항 상태를 실시간으로 추적할 수 있으며 통계는 BMA 웹사이트를 통해 공개적으로 액세스할 수 있습니다. BMA는 Traffy Fondue를 손상된 도로, 정전, 홍수, 쓰레기 축적, 방해하는 나무 및 기타 공공 질서 문제와 같은 도시 문제를 주민들이 보고할 수 있는 중앙 채널로 열었습니다. 이 시스템을 통해 사용자는 사진 및 GPS 좌표와 함께 보고서를 제출하여 책임 기관이 현장에서 문제를 신속하게 식별하고 해결할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행 중 불편 사항 신고 및 처리 용이성을 높여 여행 경험에 간접적 영향. 플랫폼 이용에 대한 정보 제공 가치.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Traffy app hits 1m-case milestone",
+          "url": "https://www.bangkokpost.com/thailand/general/3210754/traffy-app-hits-1mcase-milestone",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210754_260306121758_700.jpg"
+        }
+      ],
+      "collected_at": "18:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210754_260306121758_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "헝가리와 우크라이나, 러시아 석유 문제로 갈등 심화",
+      "summary": "- 헝가리가 우크라이나 시민 7명을 돈세탁 혐의로 구금하며 양국 관계 악화.\n- 우크라이나는 헝가리가 자국민을 '인질'로 잡고 있다고 비난하며 헝가리 여행 자제 권고.\n- 헝가리는 우크라이나가 러시아 석유 수송 파이프라인 재개를 고의로 지연시키고 있다고 주장하며 압박.",
+      "full_translated": "부다페스트는 키예프가 파이프라인 재개를 의도적으로 지연시키고 있다고 비난하며 우크라이나인 7명을 구금했습니다. \n\n키예프는 헝가리 총리 빅토르 오르반이 러시아 석유 공급 중단에 대한 갈등이 고조되는 가운데 우크라이나를 압박하기 위해 '모든 수단'을 사용할 것이라고 말하면서 금요일 헝가리가 자국 시민 7명을 납치했다고 비난했습니다. 헝가리와 슬로바키아는 우크라이나가 러시아 석유를 양국 내륙 EU 회원국으로 수송하는 주요 석유 파이프라인 재개를 고의로 지연시키고 있다고 말합니다. 키예프는 1월 러시아의 공격으로 파손되었다고 주장합니다. \n\n금요일 초, 우크라이나 외무장관 안드리 시비가는 헝가리가 4천만 달러와 9kg의 금을 운반하던 우크라이나 은행 직원 그룹을 '인질'로 잡았다고 비난했습니다. 헝가리 국세청은 목요일에 전 우크라이나 비밀 서비스 장군을 포함한 우크라이나 시민 7명과 현금 수송 장갑차 2대를 구금했다고 밝혔습니다. NAV는 “돈세탁 혐의로 형사 소송을 진행 중”이라고 국영 뉴스 통신사 MTI에 밝혔으며, 이번 조사는 대테러 센터와 협력하여 수행되었다고 덧붙였습니다. \n\n우크라이나는 금요일 자국 시민들에게 “헝가리 당국의 자의적인 행동 속에서 안전을 보장할 수 없기 때문에” 헝가리 여행을 피할 것을 촉구했습니다. 오르반은 금요일 초 라디오 인터뷰에서 석유 공급 문제가 해결될 때까지 헝가리는 “모든 단계와 모든 수단을 사용할 것”이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "우크라이나-헝가리 관계 악화로 인한 잠재적 여행 위험 증가 가능성. 현재는 낮은 수준이지만, 상황 변화에 따라 점수 조정 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Hungary and Ukraine feuding over Russian oil",
+          "url": "https://www.bangkokpost.com/world/3211320/hungary-and-ukraine-feuding-over-russian-oil",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_5994430_700.jpg"
+        }
+      ],
+      "collected_at": "18:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_5994430_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국 수출업체 지원 위해 10억 바트 규모의 지원책 발표",
+      "summary": "- 태국해운협회(TNSC)와 수출입은행(Exim Bank)이 중동 해상 운송 차질로 어려움을 겪는 태국 수출업체를 지원하기 위한 조치를 발표했습니다.\n- 유동성 지원, 재정 부담 완화, 전략적 지침 제공을 통해 기업이 현재의 에너지 및 물류 위기를 헤쳐나갈 수 있도록 돕는 데 초점을 맞추고 있습니다.\n- Exim Bank는 중동 수출 의무가 있는 기존 고객에게 긴급 자금을 지원하고, 중소기업(SME)에 우선순위를 부여할 예정입니다.",
+      "full_translated": "태국해운협회(TNSC)와 태국 수출입은행은 중동 해상 운송 차질로 인해 영향을 받는 태국 수출업체를 지원하기 위한 조치를 도입했습니다. 이 이니셔티브는 유동성 유지, 재정 부담 완화, 기업이 현재의 에너지 및 물류 위기를 헤쳐나갈 수 있도록 전략적 지침을 제공하는 데 중점을 둡니다. 유동성 지원 및 재정 지원 조치는 총 10억 바트입니다.\n\nExim Bank는 중동 수출 의무가 있는 기존 고객을 지원하기 위해 긴급 자금을 제공할 것이라고 밝혔습니다. 상환 기간은 최대 365일까지 연장되어 지불 지연 또는 해외 좌초 화물로 인한 부담을 완화합니다. 이 기간 동안 이자율은 기존 금리에서 20% 인하됩니다. 중동으로 수출하는 수출업체에게는 특별 저금리 대출도 제공되어 각 사업체의 필요에 맞는 운전 자본을 제공합니다. 최대 15만 달러의 유동성 지원이 연 3.99%의 이자율로 각 차용인에게 제공되며, 핵심 임원만 보증인으로 필요합니다. 중소기업(SME)에 우선 순위가 주어지며, 중대형 기업으로 지원을 확대할 계획입니다.\n\nTNSC와 Exim Bank는 수출업체들에게 위험을 줄이기 위해 사업 계획을 수정할 것을 촉구했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 경제 상황에 대한 간접적인 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Shippers’ council, Exim Bank offer B1bn in aid for exporters",
+          "url": "https://www.bangkokpost.com/business/general/3211293/shippers-council-exim-bank-offer-b1bn-in-aid-for-exporters",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211293_260306172750_700.jpg"
+        }
+      ],
+      "collected_at": "18:49",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211293_260306172750_700.jpg",
       "date": "2026-03-06"
     }
   ]
