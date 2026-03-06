@@ -18497,14 +18497,9 @@
       "summary": "- 이란 전쟁으로 인한 항공 여행 혼란으로 2026년 태국 관광 산업이 25% 감소할 것으로 예상됨.\n- 유럽, 중동 및 장거리 시장에서 방문객 수가 크게 감소할 것으로 보임.\n- 여행 및 관광 산업에 심각한 타격이 예상됨.",
       "full_translated": "이란 전쟁으로 태국 관광 산업 2026년 25% 급감 예상\n\n이란 전쟁으로 인한 국제 항공 여행 혼란이 유럽, 중동 및 장거리 시장에서 태국 방문객 수에 심각한 영향을 미쳐 2026년 태국 관광 산업이 25% 급감할 것으로 예상됩니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "이란 전쟁으로 인한 관광 산업의 잠재적 감소는 여행 계획에 영향을 미칠 수 있으므로 여행객에게 중요한 정보입니다. 항공편 취소 또는 변경 가능성이 높아짐.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Faces a Severe Twenty-Five Percent Decline in 2026 Tourism as Iran War Triggers Global Air Travel Chaos, Severely Impacting Visitor Numbers from Europe, the Middle East, and Long-Haul Markets - Travel And Tour World",
@@ -18515,21 +18510,18 @@
       ],
       "collected_at": "23:00",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPRDQ0UzI2STVtdjVIUWoxQUFMMXBDRlVudkU5Yzc2Z3NObzR5b1RJbnRXbUhhdmx0SGJ2ckNpeVFLUVpqaldjYTlucFlRM01Rck8yLVRQeldEUzliUnpET25HR0JZVzZwdlQyRHBoeTNWQ3hLcGdhcVN4bktieTZBT0djb3J4RHd5RnZfdUhUcXQwNm1BeEFvbHc3aXg2RmYtR21scWJIbURyeXI1LU1FNjBCZW1GWHNWeTAteTRKVFcxRHJkeGMzQU9OOVJCNmJGYjNtaUYybExWZTA1amJERG5YMXg0OWNieEtHVTFBZDMwNi1FTkZ1N0tVZVc4NjUyYlpFcEJCYUZwUFJybjNBdWphQTNoV1ZPajB2THRVTlNzcDFiVGFVTE5RX1lZOTRuSGJ0TXp0QlQ1ejV3SWZhT25pQzliYll5MV9zTzNPVVhxQmlheTUzMExMckM1R0hEeU5vUA?oc=5",
+      "source": ""
     },
     {
       "title": "Dozens of tigers die of canine distemper at Thai tourist parks",
       "summary": "- 태국 관광 공원에서 수십 마리의 호랑이가 개 디스템퍼로 사망했습니다.\n- 동물원 및 야생 동물 보호에 대한 우려가 제기되고 있습니다.\n- 여행객은 동물 관련 시설 방문 시 주의를 기울여야 합니다.",
       "full_translated": "태국 관광 공원에서 수십 마리의 호랑이가 개 디스템퍼로 사망했습니다. 이는 동물 복지에 대한 우려를 불러일으키고 있으며, 여행객들은 이러한 상황을 인지하고 동물 관련 시설 방문 시 신중한 판단을 내릴 필요가 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "동물 관련 시설의 안전 및 복지 문제에 대한 정보를 제공하여 여행 시 참고할 수 있도록 함.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광 공원",
-        "price": null,
-        "location_google_map_query": "태국 관광 공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광 공원', 'price': None, 'location_google_map_query': '태국 관광 공원'}",
       "references": [
         {
           "title": "Dozens of tigers die of canine distemper at Thai tourist parks - DVM360",
@@ -18539,6 +18531,33 @@
         }
       ],
       "collected_at": "23:00",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczdiRUg3Nmp4YlRhcy1RdlQ2QnBtNTVSZmV6S3lfbWR6UzNoa2hzVjZ4VEYzcXJteVh6aVFMQXpQX2Z3eGNwVFFFNVFjR2dfWHVIczQ0YUFiZndyWUVTaWVDX2h1UUNFaXgxNEhmREhUNWdKTTdmME5wN3NsU3hsN3VDdWlqbVN2VVJpNmk1czFrVzVC?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 중동 영공 위기로 발이 묶인 관광객에게 자동 비자 유예 기간 부여 - VisaHQ",
+      "summary": "- 태국 정부는 중동 지역의 혼란으로 인해 발이 묶인 관광객에게 자동 비자 유예 기간을 제공합니다.\n- 이 조치는 해당 지역의 항공편 운항 중단으로 인해 영향을 받은 여행자들을 지원하기 위한 것입니다.\n- VisaHQ는 자세한 정보와 지원을 제공합니다.",
+      "full_translated": "태국, 중동 영공 위기로 발이 묶인 관광객에게 자동 비자 유예 기간 부여\n\nVisaHQ",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 지역 항공편 차질로 인한 여행객 불편을 해소하기 위한 비자 관련 조치이므로 여행자에게 직접적인 영향을 미침. 입국 규정 변경에 해당.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Grants Automatic Visa Grace Period for Tourists Stranded by Middle-East Airspace Crisis - VisaHQ",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQd2pIaXBoQ3VmNTRKcXpIMEE3VDdCZkdmU3Z2OWdKd0Z1TXFwSllEZVFNbUh5MTVSWmZuSl9aaDl3ZHIzcWpYUnJCRXlzaF92Mlp4Q00wUlZCa3dDR2lHSXY2Sm9hT3ROZ3RQVzAxbTA0bTVzbFotZDJfbk8xa2VMYUhfdV8xR2Q1eU5HQU1mdXJsUWJGZGZHdXE4WUVITnNIeC0yX1cxVU1BbzNJMHNjZ3pYWGhUaV9DMmdSaWZKY3RsbjdYOFFybDlZMEhIZmVFanV5RHJn?oc=5",
+          "source": "VisaHQ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-06"
     }
