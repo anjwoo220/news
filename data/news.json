@@ -17947,14 +17947,9 @@
       "summary": "- 수완나품 국제공항에서 중동행 항공편 20편 출발 취소, 22편 도착 취소.\n- 이스라엘 엘알 항공, 에어 아라비아, 에미레이트, 카타르 항공 등 7개 항공사 영향.\n- 미국과 이스라엘의 이란 공습 이후 수완나품 공항에서 총 292편의 항공편 차질 발생.",
       "full_translated": "방콕포스트.com : 최신 기사\n2026년 3월 6일 15:37 게시\n작성자: 온라인 기자\n미국과 이스라엘의 이란 공격으로 인한 영공 폐쇄로 금요일 방콕-중동 노선 42편 이상의 항공편이 차질을 빚었습니다. 수완나품 국제공항 사무소는 금요일 오후 2시 현재 중동 목적지행 출발 항공편 20편과 7개 항공사에서 운항하는 도착 항공편 22편이 취소되었다고 밝혔습니다. 영향을 받은 항공사는 이스라엘의 엘알 항공, 에어 아라비아, 에미레이트, 카타르 항공, 에티하드 항공, 걸프 에어 및 쿠웨이트 항공이었습니다. 이번 최신 보고서에 따르면 워싱턴과 텔아비브가 토요일 이란에 대한 첫 번째 공습을 시작한 이후 수완나품 공항에서 양방향으로 총 292편의 항공편이 차질을 빚었습니다. 여러 중동 항공사도 푸껫행 직항편을 운항하고 있지만 남부 공항은 영향을 받은 항공사를 보고하지 않았습니다. 에미레이트 항공과 카타르 항공은 금요일 아랍에미리트(UAE) 기지에서 출발하는 일부 도시행 항공편 운항을 재개했습니다. 매일 업데이트, 속보 및 독점 콘텐츠를 보려면 뉴스레터를 구독하십시오. 방콕 포스트의 전체 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "공항 이용에 차질이 발생할 수 있으므로 여행객에게 중요한 정보. 특히 중동행 항공편 이용객에게는 필수 정보.",
-      "event_info": {
-        "date": "2026-03-06",
-        "location": "수완나품 국제공항",
-        "price": null,
-        "location_google_map_query": "Suvarnabhumi International Airport"
-      },
+      "event_info": "{'date': '2026-03-06', 'location': '수완나품 국제공항', 'price': None, 'location_google_map_query': 'Suvarnabhumi International Airport'}",
       "references": [
         {
           "title": "42 flights at Bangkok airport still disrupted by US-Israeli attacks on Iran",
@@ -17965,21 +17960,18 @@
       ],
       "collected_at": "18:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211260_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/business/general/3211260/42-flights-at-bangkok-airport-still-disrupted-by-usisraeli-attacks-on-iran",
+      "source": ""
     },
     {
       "title": "차เชิง사오 주 색깔 공장 화재 발생, 아직 진화 중",
       "summary": "- 차เชิง사오 주에 위치한 색깔 공장에서 화재 발생\n- 화재 현장에서 검은 연기가 치솟고 있으며 진화 작업 난항\n- 추가 정보는 계속 업데이트될 예정",
       "full_translated": "차เชิง사오 주에서 색깔 공장 화재가 발생했습니다. 두꺼운 연기 기둥이 목격되었으며, 현재까지 당국은 화재를 통제하지 못하고 있습니다. 2069년 3월 6일, 테파라트 2번 도로의 차เชิง사오 주 내 색깔 공장에서 화재가 발생했다는 보고가 있었습니다. 페이스북 페이지 'Fire & Rescue Thailand'는 사진과 함께 다음과 같은 메시지를 게시했습니다. '차เชิง사오 - 색깔 공장 화재. 2069년 3월 6일 16시 53분에 테파라트 2번 도로의 차เชิง사오 주 내 색깔 공장에서 화재가 발생했다는 신고가 접수되었습니다. 현재 두꺼운 연기가 발생하고 있으며, 화염은 4단계에 이르렀고 주기적인 폭발음이 들립니다. 당국은 현재 화재 진압을 위해 노력하고 있으며 추가 진행 상황을 알려드리겠습니다.' 이후 '2069년 3월 6일 17시 30분, 차เชิง사오 주 테파라트 2번 도로의 색깔 공장 화재 진행 상황. 불길은 여전히 강하며, 통제되지 않고 있습니다. 당국은 현재 화재 진압을 위해 노력하고 있으며 추가 진행 상황을 알려드리겠습니다.' 라는 메시지가 추가로 게시되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "공장 화재로 인한 잠재적 환경 오염 및 교통 혼잡 가능성. 여행 지역과 관련성이 낮지만 안전 문제와 관련된 정보이므로 포함.",
-      "event_info": {
-        "date": "2069-03-06",
-        "location": "차เชิง사오 주 테파라트 2번 도로",
-        "price": null,
-        "location_google_map_query": "차เชิง사오 테파라트 2번 도로"
-      },
+      "event_info": "{'date': '2069-03-06', 'location': '차เชิง사오 주 테파라트 2번 도로', 'price': None, 'location_google_map_query': '차เชิง사오 테파라트 2번 도로'}",
       "references": [
         {
           "title": "เกิดเหตุ ไฟไหม้โรงงานผลิตสี จ.ฉะเชิงเทรา ล่าสุดยังไม่สามารถควบคุมเพลิงได้",
@@ -17990,21 +17982,18 @@
       ],
       "collected_at": "18:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3qa3ArmAOck.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.thairath.co.th/news/local/2918382",
+      "source": ""
     },
     {
       "title": "방콕시, 민원 해결 플랫폼 'Traffy Fondue' 만족도 81% 기록",
       "summary": "- 방콕시 민원 신고 플랫폼 Traffy Fondue가 100만 건 이상의 민원을 해결하며 81%의 만족도를 기록.\n- 2022년 출시 이후 122만 건 이상의 신고 접수, 실시간 민원 처리 상황 확인 가능.\n- 시민 참여 증가 및 도시 관리 효율성 향상에 기여.",
       "full_translated": "방콕 메트로폴리탄 관리국(BMA) 대변인 Ekwaranyu Amrapal에 따르면 디지털 보고 플랫폼인 Traffy Fondue가 100만 건 이상의 불만을 해결했으며 공공 만족도는 81%에 달합니다. 시의 온라인 불만 및 문제 보고 플랫폼은 2022년 출시 이후 1,229,503건의 보고를 접수했습니다. 이 중 1,000,113건(81%)이 해결되었고 82,505건(7%)은 처리 중이며 89,146건(7%)은 관련 기관에 전달되었고 751건은 수요일 아침 데이터 기준으로 조치를 기다리고 있습니다. 이는 도시 관리에서 공공 참여율이 증가하고 시 기관의 효율성과 투명성이 향상되었음을 보여준다고 대변인은 말했습니다. 시민 피드백은 또한 플랫폼에 대한 높은 수준의 만족도를 나타냅니다. 해결된 사건 중 326,636건(81%)이 긍정적인 피드백을 받았고 77,882건(19%)이 불만족스럽다는 평가를 받았습니다. 이 플랫폼을 통해 거주자는 불만 사항 상태를 실시간으로 추적할 수 있으며 통계는 BMA 웹사이트를 통해 공개적으로 액세스할 수 있습니다. BMA는 Traffy Fondue를 손상된 도로, 정전, 홍수, 쓰레기 축적, 방해하는 나무 및 기타 공공 질서 문제와 같은 도시 문제를 주민들이 보고할 수 있는 중앙 채널로 열었습니다. 이 시스템을 통해 사용자는 사진 및 GPS 좌표와 함께 보고서를 제출하여 책임 기관이 현장에서 문제를 신속하게 식별하고 해결할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 중 불편 사항 신고 및 처리 용이성을 높여 여행 경험에 간접적 영향. 플랫폼 이용에 대한 정보 제공 가치.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Traffy app hits 1m-case milestone",
@@ -18015,21 +18004,18 @@
       ],
       "collected_at": "18:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210754_260306121758_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/thailand/general/3210754/traffy-app-hits-1mcase-milestone",
+      "source": ""
     },
     {
       "title": "헝가리와 우크라이나, 러시아 석유 문제로 갈등 심화",
       "summary": "- 헝가리가 우크라이나 시민 7명을 돈세탁 혐의로 구금하며 양국 관계 악화.\n- 우크라이나는 헝가리가 자국민을 '인질'로 잡고 있다고 비난하며 헝가리 여행 자제 권고.\n- 헝가리는 우크라이나가 러시아 석유 수송 파이프라인 재개를 고의로 지연시키고 있다고 주장하며 압박.",
       "full_translated": "부다페스트는 키예프가 파이프라인 재개를 의도적으로 지연시키고 있다고 비난하며 우크라이나인 7명을 구금했습니다. \n\n키예프는 헝가리 총리 빅토르 오르반이 러시아 석유 공급 중단에 대한 갈등이 고조되는 가운데 우크라이나를 압박하기 위해 '모든 수단'을 사용할 것이라고 말하면서 금요일 헝가리가 자국 시민 7명을 납치했다고 비난했습니다. 헝가리와 슬로바키아는 우크라이나가 러시아 석유를 양국 내륙 EU 회원국으로 수송하는 주요 석유 파이프라인 재개를 고의로 지연시키고 있다고 말합니다. 키예프는 1월 러시아의 공격으로 파손되었다고 주장합니다. \n\n금요일 초, 우크라이나 외무장관 안드리 시비가는 헝가리가 4천만 달러와 9kg의 금을 운반하던 우크라이나 은행 직원 그룹을 '인질'로 잡았다고 비난했습니다. 헝가리 국세청은 목요일에 전 우크라이나 비밀 서비스 장군을 포함한 우크라이나 시민 7명과 현금 수송 장갑차 2대를 구금했다고 밝혔습니다. NAV는 “돈세탁 혐의로 형사 소송을 진행 중”이라고 국영 뉴스 통신사 MTI에 밝혔으며, 이번 조사는 대테러 센터와 협력하여 수행되었다고 덧붙였습니다. \n\n우크라이나는 금요일 자국 시민들에게 “헝가리 당국의 자의적인 행동 속에서 안전을 보장할 수 없기 때문에” 헝가리 여행을 피할 것을 촉구했습니다. 오르반은 금요일 초 라디오 인터뷰에서 석유 공급 문제가 해결될 때까지 헝가리는 “모든 단계와 모든 수단을 사용할 것”이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "우크라이나-헝가리 관계 악화로 인한 잠재적 여행 위험 증가 가능성. 현재는 낮은 수준이지만, 상황 변화에 따라 점수 조정 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Hungary and Ukraine feuding over Russian oil",
@@ -18040,21 +18026,18 @@
       ],
       "collected_at": "18:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_5994430_700.jpg",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/world/3211320/hungary-and-ukraine-feuding-over-russian-oil",
+      "source": ""
     },
     {
       "title": "태국 수출업체 지원 위해 10억 바트 규모의 지원책 발표",
       "summary": "- 태국해운협회(TNSC)와 수출입은행(Exim Bank)이 중동 해상 운송 차질로 어려움을 겪는 태국 수출업체를 지원하기 위한 조치를 발표했습니다.\n- 유동성 지원, 재정 부담 완화, 전략적 지침 제공을 통해 기업이 현재의 에너지 및 물류 위기를 헤쳐나갈 수 있도록 돕는 데 초점을 맞추고 있습니다.\n- Exim Bank는 중동 수출 의무가 있는 기존 고객에게 긴급 자금을 지원하고, 중소기업(SME)에 우선순위를 부여할 예정입니다.",
       "full_translated": "태국해운협회(TNSC)와 태국 수출입은행은 중동 해상 운송 차질로 인해 영향을 받는 태국 수출업체를 지원하기 위한 조치를 도입했습니다. 이 이니셔티브는 유동성 유지, 재정 부담 완화, 기업이 현재의 에너지 및 물류 위기를 헤쳐나갈 수 있도록 전략적 지침을 제공하는 데 중점을 둡니다. 유동성 지원 및 재정 지원 조치는 총 10억 바트입니다.\n\nExim Bank는 중동 수출 의무가 있는 기존 고객을 지원하기 위해 긴급 자금을 제공할 것이라고 밝혔습니다. 상환 기간은 최대 365일까지 연장되어 지불 지연 또는 해외 좌초 화물로 인한 부담을 완화합니다. 이 기간 동안 이자율은 기존 금리에서 20% 인하됩니다. 중동으로 수출하는 수출업체에게는 특별 저금리 대출도 제공되어 각 사업체의 필요에 맞는 운전 자본을 제공합니다. 최대 15만 달러의 유동성 지원이 연 3.99%의 이자율로 각 차용인에게 제공되며, 핵심 임원만 보증인으로 필요합니다. 중소기업(SME)에 우선 순위가 주어지며, 중대형 기업으로 지원을 확대할 계획입니다.\n\nTNSC와 Exim Bank는 수출업체들에게 위험을 줄이기 위해 사업 계획을 수정할 것을 촉구했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 자체에 직접적인 영향은 없으나, 태국 경제 상황에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Shippers’ council, Exim Bank offer B1bn in aid for exporters",
@@ -18065,6 +18048,133 @@
       ],
       "collected_at": "18:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211293_260306172750_700.jpg",
+      "date": "2026-03-06",
+      "link": "https://www.bangkokpost.com/business/general/3211293/shippers-council-exim-bank-offer-b1bn-in-aid-for-exporters",
+      "source": ""
+    },
+    {
+      "title": "푸껫 해변, 나체 일광욕 논란으로 당국 감시 강화",
+      "summary": "- 푸껫의 한적한 해변에서 외국인 관광객들의 나체 일광욕이 문제가 되어 당국이 감시를 강화하고 있습니다.\n- 주로 러시아 및 유럽 관광객들이 'Shadow Beach'로 알려진 해변에서 나체로 일광욕과 수영을 즐기는 모습이 목격되었습니다.\n- 현지 주민들은 이러한 행위가 태국 문화에 어긋난다며 경찰과 관광 당국에 개입을 요청하고 있습니다.",
+      "full_translated": "푸껫 - 이 관광 섬의 당국은 일부 외국인 관광객들이 방문객들에게 인기 있는 외딴 해안 지역에서 나체로 일광욕을 즐기고 있다는 사실을 알고 공공 해변에 대한 감시를 강화했습니다. 사건은 목요일 므앙 지역 라와이의 해변에서 발생했으며, 주로 러시아 및 유럽 관광객 그룹이 나체로 일광욕과 수영을 하는 모습이 목격되었습니다. 외국인들 사이에서 'Shadow Beach'로 알려진 이 곳은 램 프롬텝(Laem Phromthep) 앞의 좁은 해안 길을 따라 약 800m 뻗어 있습니다. 해변에 접근하기는 어렵지만 당국은 이곳이 사유 재산이나 입장료가 없는 공공 부지임을 확인했습니다. 라와이 주민들은 이러한 활동이 태국 문화 규범과 충돌하고 지역 사회의 적절성에 영향을 미친다고 주장하며 반대 입장을 표명했습니다. 그들은 경찰, 지방 당국 및 관광 담당자에게 개입하여 외국인들이 옷을 입도록 촉구했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 문화에 대한 이해 부족으로 발생할 수 있는 문제점을 보여주며, 여행 시 현지 문화 존중의 중요성을 상기시키는 뉴스.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 므앙 지역 라와이 해변 (Shadow Beach)",
+        "price": null,
+        "location_google_map_query": "라와이 해변 푸껫"
+      },
+      "references": [
+        {
+          "title": "Nude sunbathers cause stir in Phuket",
+          "url": "https://www.bangkokpost.com/thailand/general/3211360/nude-sunbathers-cause-stir-in-phuket",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211360_700.jpg"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211360_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국 석유 소매업체, 비축량 3배 증량 명령에 반발",
+      "summary": "- 태국 정부가 중동 긴장 속 석유 공급 확보를 위해 석유 비축량 3배 증량 명령\n- 석유 소매업체들은 비용 부담 가중으로 재정적 압박 우려 표명\n- 정부는 비축량을 현재 60일에서 95일로 늘리기 위해 중동 외 지역에서 석유 확보 노력",
+      "full_translated": "태국의 주요 석유 소매업체들은 중동 전쟁 중 운전자에게 충분한 공급을 보장하기 위해 비축량을 3배로 늘리라는 정부 명령에 동의하지 않습니다. 이번 조치는 정부가 중동 이외 지역에서 석유를 조달하여 국가 비축량을 현재 60일에서 95일로 늘리려는 노력과 병행하여 취해지고 있습니다. 왙따뽈 륵삐분 에너지부 장관 대행은 금요일 아누틴 차른비라꿀 총리 대행과의 회의 후 \"우리는 석유 소매업체에 석유 비축 비율을 1%에서 3%로 늘려 대중의 신뢰를 높이도록 지시했습니다.\"라고 말했습니다. 비축 비율은 각 회사의 연간 거래량을 기준으로 계산됩니다. PT 주유소를 운영하는 PTG Energy Plc의 최고 재무 및 지속 가능성 책임자인 랑순 푸앙프랑은 비축량 요구 사항이 높아지면 비용이 많이 들어 회사의 재정 상태에 압박을 가할 것이라고 말했습니다. 비율을 늘리면 더 많은 석유를 저장해야 하며, 재고는 3.6일에서 거의 11일 동안 사용할 수 있습니다. 랑순은 \"현재 이윤이 적은 시기에 이는 너무나 큰 부담입니다.\"라고 말하며 소매업체는 더 많은 석유를 구매하고 저장 시설을 임대하는 데 더 많은 비용을 지불해야 할 것이라고 덧붙였습니다. \"우리는 석유를 얼마나 오래 보관해야 할지 모릅니다. 국제 유가가 언제 정상으로 돌아올지 모릅니다.\" 중동 긴장",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "석유 가격 변동 가능성이 있어 여행 비용에 간접적인 영향. 필수 정보는 아니지만 관련성이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai oil retailers baulk at order to triple reserves",
+          "url": "https://www.bangkokpost.com/business/general/3211344/thai-oil-retailers-baulk-at-order-to-triple-reserves",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211344_700.jpg"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211344_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국 금값, 6일 하루 동안 29번 변동: 금괴 76,850 바트, 장신구 77,650 바트",
+      "summary": "- 태국 금 가격 협회 발표에 따르면 6일 금값이 하루 동안 29번 변동함.\n- 금괴 판매 가격은 바트당 76,850 바트, 금 장신구는 77,650 바트임.\n- 금 가격은 오전 9시 1분 첫 발표 이후 계속 변동하는 추세임.",
+      "full_translated": "태국 금 가격 협회는 2569년 3월 6일 금값이 하루 동안 총 29번 변동했다고 발표했습니다. 이에 따라 금괴 판매 가격은 바트당 76,850바트, 금 장신구 판매 가격은 바트당 77,650바트입니다. 3월 6일, 국내 금 가격 상황은 계속 변화하고 있으며, 금 가격 협회가 발표한 금 가격은 오전 9시 1분에 첫 번째 시장을 열었을 때부터 변동을 거듭했습니다. 구체적인 변동 내역은 다음과 같습니다. \n\n- 1회차 (09:01): 변동 없음\n- 2회차 (09:10): 50바트 하락\n- 3회차 (09:32): 50바트 하락\n- 4회차 (09:44): 50바트 하락\n- 5회차 (09:53): 50바트 상승\n- 6회차 (10:02): 50바트 하락\n- 7회차 (10:21): 50바트 상승\n- 8회차 (10:41): 50바트 하락\n- 9회차 (10:45): 50바트 상승\n- 10회차 (12:03): 50바트 하락\n- 11회차 (12:06): 100바트 상승\n- 12회차 (12:32): 50바트 하락\n- 13회차 (12:58): 50바트 상승\n- 14회차 (13:03): 100바트 하락\n- 15회차 (13:09): 50바트 상승\n- 16회차 (13:54): 50바트 하락\n- 17회차 (14:00): 50바트 하락\n- 18회차 (14:36): 50바트 하락\n- 19회차 (15:01): 50바트 상승\n- 20회차 (15:29): 50바트 하락\n- 21회차 (15:40): 50바트 상승\n- 22회차 (15:48): 50바트 상승\n- 23회차 (15:58): 50바트 하락\n- 24회차 (16:30): 50바트 상승",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "환전 및 금 구매에 관심 있는 여행자에게 참고 정보가 될 수 있으며, 당일 변동 사항을 요약 제공하므로 업데이트로 간주.",
+      "event_info": {
+        "date": "2569-03-06",
+        "location": "태국",
+        "price": "금괴 76,850 바트, 금 장신구 77,650 바트 (변동)",
+        "location_google_map_query": "태국 금은방"
+      },
+      "references": [
+        {
+          "title": "ราคาทองคำแท่งวันนี้ 6 มีนาคม 2569 ล่าสุดผันผวน 29 ครั้ง รูปพรรณขายออก 77,650 บาท",
+          "url": "https://www.thairath.co.th/news/society/2918388",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3LOE06AWyvf.jpg"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3LOE06AWyvf.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "시사껫, 2069년 고품질 육우 축제 개최: '육우'의 위상 강화 및 비즈니스 네트워크 구축을 통한 지역 경제 활성화",
+      "summary": "- 2069년 3월 5일부터 8일까지 시사껫에서 고품질 육우 축제가 개최됩니다.\n- 이번 축제는 시사껫 육우를 널리 알리고 시장 채널을 확대하며 비즈니스 네트워크를 구축하는 데 목적이 있습니다.\n- 축제에서는 육우 제품 판매, 음악 및 육류 축제 등 다양한 활동이 진행됩니다.",
+      "full_translated": "시사껫, 2069년 3월 5일부터 8일까지 고품질 육우 축제를 개최하여 '시사껫 육우'의 위상을 높이고, 시장 채널을 확대하며 비즈니스 네트워크를 구축하여 지역 경제를 활성화합니다. \n\n보도에 따르면, 3월 5일 아누락 탐프라짬칫 시사껫 주지사는 시사껫 연례 육우 및 고품질 육우 축제 2069의 개막을 주재했습니다. 이 축제는 2069년 3월 5일부터 8일까지 시사껫 주 238주년 기념관인 오드롯 공원에서 열립니다. 목표는 고품질 육우로서 '시사껫 육우'의 명성을 널리 알리고, 시장 채널을 확대하며, 육우 농부 그룹과 사업가, 레스토랑, 소비자 간의 비즈니스 매칭을 구축하는 것입니다. 이는 농부의 잠재력 개발 성공을 반영하기 위함이며, 농장 모델 구축, 스마트 농부 개발, 제품 절단 및 가공 기술 개발 등 기초부터 완제품까지 모든 단계를 포함합니다. 또한 지역 경제를 활성화하고 안정적인 직업을 창출하며 시사껫 지역 농부들의 소득을 지속적으로 증가시키는 것을 목표로 합니다.\n\n낫타웨롯 부차팟 시사껫 축산 담당관은 시사껫이 태국 북동부의 중요한 육우 생산지라고 밝혔습니다. 특히 고품질 육우는 지역 최고의 상점에서 판매됩니다. 음악과 육류 축제 형식으로 음식 정체성과 엔터테인먼트를 결합한 활동도 마련되어 시장 채널을 확장하고 참가자들에게 새로운 경험을 제공합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 지역 축제 정보로서 흥미로운 로컬 뉴스로 판단.",
+      "event_info": {
+        "date": "2069-03-05~2069-03-08",
+        "location": "시사껫 주 238주년 기념관 (오드롯 공원)",
+        "price": "미정",
+        "location_google_map_query": "오드롯 공원 시사껫"
+      },
+      "references": [
+        {
+          "title": "มหกรรมเนื้อดีศรีสะเกษ 69 ยกระดับ “เนื้อโค” สร้างเครือข่ายธุรกิจ กระตุ้นเศรษฐกิจฐานราก",
+          "url": "https://www.thairath.co.th/news/local/localbusiness/2918385",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3nWpJgyQyM5.jpg"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4Ew3nWpJgyQyM5.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "미국, 이란 공격에 첫 100시간 동안 1180억 바트(약 4조 4천억원) 지출",
+      "summary": "- 미국 전략 연구소, 이란 공격 시 첫 100시간 동안 37억 달러(약 1180억 바트) 소요 분석\n- 대부분 예산 외 지출로, 트럼프 정부에 정치적 부담 가중 예상\n- 첨단 무기 사용 증가로 비용 급증, 의회 추가 예산 승인 필요 가능성 제기",
+      "full_translated": "미국 전략 연구소에 따르면 이란 공격 시 첫 100시간 동안 37억 달러(약 1180억 바트)의 비용이 소요될 것으로 예상됩니다. 이는 하루 평균 약 9억 달러에 달하는 금액입니다. 연구진은 대부분의 비용이 기존 예산에 포함되지 않아 트럼프 정부에 정치적 부담을 가중시킬 수 있다고 분석했습니다. 특히 스텔스 폭격기와 첨단 무기 시스템 사용 증가로 인해 비용이 급증했으며, 미국은 첫 100시간 동안 2,000개 이상의 장비를 사용하고 무기고를 보충하는 데 31억 달러의 추가 예산이 필요할 것으로 예상됩니다. 미국 국방부 장관은 이란 공격이 더욱 격렬해질 것이라고 밝혔습니다. 분석가들은 계획되지 않은 전쟁 예산이 전쟁 반대의 중심이 될 것이라고 전망합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세 불안은 잠재적 위험 요소로 작용할 수 있어 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สถาบันวิจัยชี้ สหรัฐฯ แบกค่าใช้จ่ายถล่มอิหร่าน 1.18 แสนล้านบาท ใน 100 ชั่วโมงแรก",
+          "url": "https://www.thairath.co.th/news/foreign/2918349",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EyWumGOEazZ8l.jpg"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4EyWumGOEazZ8l.jpg",
       "date": "2026-03-06"
     }
   ]
