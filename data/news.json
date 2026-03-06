@@ -18761,14 +18761,9 @@
       "summary": "- 촌부리 주지사가 센트럴 파타야 해변에서 개막식을 주재했습니다.\n- 3월 한 달간 매주 금요일과 토요일에 걸쳐 4주간 진행됩니다.\n- T-POP, 록, 힙합 등 다양한 장르의 태국 최고 아티스트들이 출연합니다.",
       "full_translated": "3월 6일 오후 7시, 촌부리 주지사 Naris Niramaiwong 씨는 센트럴 파타야 해변 무대에서 개막식을 주재했습니다. 촌부리 지방 행정 기구 부회장 Phansak Ketwattana 씨, 파타야 시장 Poramese Ngampiches 씨, 이사라 차로엔차스리 부지사, 방라뭉 지역 대표 Anusak Piriyamorn 씨, 파타야 시 간부, 시의회 의원, 촌부리 지방 행정 기구 대표, 지방 경찰 사령관 및 여러 관련 기관의 관계자들이 함께했습니다.\n\n이번 페스티벌은 파타야 시와 촌부리 지방 행정 기구가 협력하여 파타야 해변을 다시 한번 세계적인 음악 명소로 탈바꿈시키기 위한 노력의 일환이며, 올해는 'Pattaya Waves Got Rhythm'이라는 주제로 진행됩니다. 주최측은 전 세계 관광객을 맞이하기 위해 조명, 음향, 안전 및 방문객 편의 시설에서 최고 수준을 제공하는 데 집중하고 있습니다. 라인업에는 T-POP, 록, 힙합 등 다양한 장르의 태국 최고 아티스트들이 출연하며, 자연적인 바다를 배경으로 공연이 펼쳐집니다.\n\n이 행사는 2026년 3월 내내 매주 금요일과 토요일에 4주 연속으로 진행됩니다.\n\n- 3월 6~7일: 센트럴 파타야 해변 무대\n- 3월 13~14일: 좀티엔 해변 무대 (The Now Hotel 앞)\n- 3월 20~21일: 코 란, 사매 해변\n- 3월 27~28일: 나클루아 공원, 보디 플라자\n\n올해 페스티벌은 도시 전역으로 엔터테인먼트를 확산시켜 지역 경제를 활성화하는 것을 목표로 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 열리는 대규모 뮤직 페스티벌 정보로, 여행객들에게 유용한 정보이며, 특히 3월에 파타야를 방문하는 여행객들에게 높은 영향력을 가짐. 한 달간 진행되므로 여행 계획에 참고할 수 있음.",
-      "event_info": {
-        "date": "2026-03-06",
-        "location": "센트럴 파타야 해변, 좀티엔 해변, 코 란 사매 해변, 나클루아 공원",
-        "price": "무료",
-        "location_google_map_query": "Central Pattaya Beach, Jomtien Beach, Samae Beach Koh Larn, Bodhi Plaza Naklua Public Park"
-      },
+      "event_info": "{'date': '2026-03-06', 'location': '센트럴 파타야 해변, 좀티엔 해변, 코 란 사매 해변, 나클루아 공원', 'price': '무료', 'location_google_map_query': 'Central Pattaya Beach, Jomtien Beach, Samae Beach Koh Larn, Bodhi Plaza Naklua Public Park'}",
       "references": [
         {
           "title": "Pattaya Music Festival 2026 Officially Kicks Off",
@@ -18777,23 +18772,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17728190549816202933164484208607.jpg?v=1772820325"
         }
       ],
-      "collected_at": "01:51",
+      "collected_at": "1:51",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17728190549816202933164484208607.jpg?v=1772820325",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://thepattayanews.com/2026/03/07/pattaya-music-festival-2026-officially-kicks-off/",
+      "source": ""
     },
     {
       "title": "파타야 경찰, 볼트 오토바이 운전사 사망 사건 용의자 체포",
       "summary": "- 파타야에서 오토바이 운전사가 폭행으로 사망한 사건 발생.\n- 경찰, CCTV 분석 후 용의자 암낫 초티프롬랏을 체포.\n- 용의자는 사소한 접촉 사고 후 말다툼 끝에 폭행을 저질렀다고 진술.",
       "full_translated": "파타야 경찰서 수사 부서의 아루스 사파논 경감은 2026년 3월 6일 파타야 지방 법원의 체포 영장에 따라 암낫 초티프롬랏 씨를 체포했습니다. 그는 다른 사람을 폭행하여 사망에 이르게 한 혐의를 받고 있습니다. 용의자는 Chalerm Phrakiat 14 골목의 임대 방에서 체포되었습니다. 사건은 2025년 10월 21일 파타야의 Soi Krom Thi Din에서 Soi Kao Phai로 이어지는 곳에서 발생했습니다. 경찰은 중상을 입은 폭행 사건에 대한 신고를 받았으며, 피해자는 나중에 부상으로 사망했습니다. 수사관들은 공격 장면이 담긴 시민 녹화 영상 검토 후 암낫 씨를 주요 용의자로 지목했습니다. 피해자는 볼트 애플리케이션을 통해 운영되는 오토바이 택시 운전사 Somkid Channok 씨였습니다. 경찰에 따르면 용의자는 당시 여자 친구와 격렬하게 다투고 있었습니다. Somkid 씨가 오토바이를 타고 지나갈 때 가벼운 충돌이 발생했고, 암낫 씨는 그에게 모욕적인 발언을 했다고 생각했습니다. 격분한 그는 운전사를 폭행했지만 심각한 해를 끼치거나 죽일 의도는 없었다고 주장했습니다. 그는 체포되는 동안 피해자의 사망 소식을 알게 되었고 깊은 후회를 표명했습니다. 암낫 씨는 모든 법적 책임을 지고 피해자 가족에게 보상할 의향이 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야에서 발생한 폭력 사건으로, 여행객 안전에 대한 간접적인 영향이 있을 수 있음. 최근 발생한 사건에 대한 정보 제공.",
-      "event_info": {
-        "date": "2025-10-21",
-        "location": "파타야, Soi Krom Thi Din에서 Soi Kao Phai로 이어지는 곳",
-        "price": null,
-        "location_google_map_query": "Soi Krom Thi Din, Pattaya"
-      },
+      "event_info": "{'date': '2025-10-21', 'location': '파타야, Soi Krom Thi Din에서 Soi Kao Phai로 이어지는 곳', 'price': None, 'location_google_map_query': 'Soi Krom Thi Din, Pattaya'}",
       "references": [
         {
           "title": "Pattaya Police Arrest Suspect Accused of Fatally Killing Bolt Driver Over Minor Traffic Incident",
@@ -18802,23 +18794,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260307_0137438595466536175876862.jpg?v=1772822326"
         }
       ],
-      "collected_at": "01:51",
+      "collected_at": "1:51",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260307_0137438595466536175876862.jpg?v=1772822326",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://thepattayanews.com/2026/03/07/pattaya-police-arrest-suspect-accused-of-fatally-killing-bolt-driver-over-minor-traffic-incident/",
+      "source": ""
     },
     {
       "title": "태국 이민국, 관광객 학대 주장에 대해 캄보디아 언론 비난 - 카오솟 영어",
       "summary": "- 태국 이민국이 캄보디아 언론의 태국 내 관광객 학대 주장에 대해 비판 성명을 발표했습니다.\n- 캄보디아 언론은 태국이 캄보디아 관광객을 부당하게 대우한다고 보도했습니다.\n- 태국 이민국은 이러한 주장을 일축하며 사실과 다르다고 반박했습니다.",
       "full_translated": "태국 이민국은 관광객 학대 주장에 대해 캄보디아 언론을 비난합니다. Khaosod English",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국을 방문하는 캄보디아 관광객에게 잠재적인 영향을 미칠 수 있는 뉴스이므로 관련 정보를 제공합니다. 국가간 관계에 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai immigration slams Cambodian media over tourist mistreatment claims - Khaosod English",
@@ -18827,7 +18816,34 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:51",
+      "collected_at": "1:51",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjNTSUJZMEZjSzF6Q1FWMFJEUUFOLUJHdVpyajdEcVo5cjBucjdBSmpQRlFtSm9rLUgzcGZDRkRzVmhPNlhzeUF1Z1JtTVZWUmM1N2NpTEplQUZjclA5VzVSVjBTaDYtenhKcWVweFpoUm1SUWwzX25vb0RiT1djbVg2aDdtSXFVWlNnRWNwcEVUaEJ2YTZ2TWZXbVFYRld1NUxWakpaZTVkcWRoTGdvX3ZWQnJqVS1nN0Ew0gHAAUFVX3lxTE1WRHJmWlhVd0Q0dEwtcG5fbXozMlUzSEpmRnhqYWo1dWRweGE1NTBxdzBBTlpORTI1U2xFa2kyRlk2dmRndm1adGlCMi00X05TUGhzRFRkd2xXOFZGYlBBM211bFpDeEUySEg4bXc4bDdkdTgzTFRtOGx6UlpQUlliM01adlZGQ09uYi14b2hHQkJPQkNyb3Y4U0FrN2xMRVk1VThxWGFWeUtOMHk4VURLeHhFM24wY3RHekRJMVpzNw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "Amazing Thailand Fest 2026, 베를린에서 태국의 맛을 선보일 예정",
+      "summary": "- Amazing Thailand Fest 2026이 베를린에서 개최되어 태국 음식의 풍성한 맛을 선보일 예정입니다.\n- 이 행사는 태국 문화와 요리를 홍보하는 데 중점을 둡니다.\n- 독일 관광객들에게 태국의 매력을 알리는 좋은 기회가 될 것입니다.",
+      "full_translated": "Amazing Thailand Fest 2026이 베를린에서 ‘The Wholesome Taste of Thai’를 선보입니다. TAT 뉴스룸",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 문화와 음식을 알리는 행사로, 독일을 방문하는 여행객들에게는 직접적인 영향은 적지만, 간접적인 홍보 효과가 있을 수 있습니다.",
+      "event_info": {
+        "date": "2026",
+        "location": "베를린",
+        "price": "미정",
+        "location_google_map_query": "베를린"
+      },
+      "references": [
+        {
+          "title": "Amazing Thailand Fest 2026 brings ‘The Wholesome Taste of Thai’ to Berlin - TAT Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQUxLQ3BkMTR0TklCMmN4SUR0cklWRkZIMkczZERtTml2bXA2MmpRd0U1YjI0b1JIanloYnhNRjctMzQ4dmZSRUVSemlDaUJwZjl4c1VFZDAzYmRaU3E1M2xrRTBROGhHTC1VUnNQZ05PMkl4RXh2RnBwNGNjcUxxU3FxajVfVm5reHlnMVc2ajRNQTh4VUtTUWhCUzU1THdMdjdTWEtlYw?oc=5",
+          "source": "TAT Newsroom",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
