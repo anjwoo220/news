@@ -19156,14 +19156,9 @@
       "summary": "- 태국 정부가 중동 항공편 운항 차질로 인해 발이 묶인 관광객들을 위한 비자 구제 조치를 발표했습니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.\n- 여행객들은 관련 내용을 확인하여 불이익을 받지 않도록 주의해야 합니다.",
       "full_translated": "태국, 중동 항공편 차질로 발 묶인 관광객 비자 구제 도입  파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 항공편 차질로 인한 비자 문제 해결은 여행객에게 직접적인 영향을 미치는 중요한 정보이며, 비자 관련 규정 변경은 여행 계획에 필수적인 요소입니다. 아침 브리핑에 적합합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand introduces visa relief for tourists stranded by Middle East flight disruptions - Pattaya Mail",
@@ -19172,23 +19167,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:50",
+      "collected_at": "4:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUWwwcWlHdlh6eGdqY3g3MGg1M3d0THdYbnhWOWJiU2E1MEl5djQzTjQ5QnJ4QUNOQVhtbWt2dW5kZDdnelRONGl3MlpTUzlST0tUckxySHN1WFVRQ0lWaG4yS3VOYjBOel9KZFhFNGx0aXJDRDNEOE5iVXpQQ2piUlB1M0R4ZVFQZ2phUmtqY2F0VzFlcTlMbHZoUVBmUUxRM25uNU5rS2tJV1pyZ3JUck5SR0x3Q0tCMk1UWEZlQ3lkSE9MTlE?oc=5",
+      "source": ""
     },
     {
       "title": "중동 분쟁으로 유럽에 발이 묶인 아시아 관광객들",
       "summary": "- 중동 지역 분쟁으로 인해 유럽에서 아시아 관광객들이 항공편 취소 등으로 발이 묶임.\n- 항공편 운항 차질이 발생하여 여행 일정에 차질이 생기고 있음.\n- 관련 보도에 따르면, 대체 항공편을 구하거나 여행 계획을 변경해야 하는 상황.",
       "full_translated": "중동 분쟁으로 유럽에 발이 묶인 아시아 관광객들 Scandasia",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객의 이동에 직접적인 영향을 미치는 항공편 취소 관련 소식이므로 여행 관련 정보로 분류.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Asian tourists also stranded in Europe as Middle East conflict disrupts flights - Scandasia",
@@ -19197,23 +19189,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:50",
+      "collected_at": "4:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON1dMLUlhNlA3V09jR1NsUjdjQ2xBNmRnWUVBNXdBVG11SlFnVF9aajd1c3lXdmdKYXA3Rzc3NXBKMldFaEREWmlFMmVOZWFoRF9fdkdZUFFuWXVHdGN5YWFkaEw4YWhpNEwzaWdYSHFIT0tpc3c3WXV6TVdIa1dkM0lxRmk4Nk81QjVFaFB4TjFCUEhmREhCYTNFSUxiTy1mSDNuWQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, ITB 베를린에서 힐링 럭셔리 및 지속 가능성 강조",
       "summary": "- 태국은 ITB 베를린에서 힐링, 럭셔리, 지속 가능성을 강조했습니다.\n- 웰빙 관광과 지속 가능한 관광 개발을 위한 노력을 선보였습니다.\n- 태국 관광청은 다양한 파트너와 협력하여 특별한 경험을 제공할 계획입니다.",
       "full_translated": "태국은 ITB 베를린에서 힐링 럭셔리 및 지속 가능성을 강조했습니다. TravelMole",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객에게 태국의 최신 관광 트렌드(웰빙, 지속가능성) 정보를 제공. 새로운 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand highlighted healing luxury and sustainability at ITB Berlin - TravelMole",
@@ -19222,23 +19211,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:50",
+      "collected_at": "4:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSFp0S2FXM2xjN0o0OVc2bmtIeWJ6c29FTXlZM01FVmRQdHJOMWcycGREMlFoU0lZYnVwRWtfb09NR1MyM21IZUthM09sMWhfbnhRM0RzYXlsU1VmYjRfNDVzN3hoSUJHZ3NaenNDZk5qeEItaU5fSjVfUkJRSnNuQ3VsNA?oc=5",
+      "source": ""
     },
     {
       "title": "루마니아, 태국 관광 성장 대열에 합류: 발칸반도의 새로운 도약",
       "summary": "- 루마니아, 세르비아, 크로아티아 등 발칸 국가들이 태국 관광 시장 성장에 기여.\n- 발칸 지역의 관광객 증가가 태국 장거리 여행 시장 확대에 긍정적 영향.\n- 다양한 유럽 국가들의 태국 관광 시장 참여로 경쟁 심화 및 서비스 질 향상 기대.",
       "full_translated": "루마니아가 세르비아, 크로아티아, 알바니아, 불가리아, 슬로베니아, 몬테네그로 등과 함께 태국 관광 성장을 주도하며 발칸 반도를 장거리 여행 확대의 새로운 고지로 끌어올리고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 시장의 다변화 추세를 보여주며, 특정 국가에 대한 의존도를 낮추는 긍정적 신호로 해석될 수 있음. 새로운 관광객 유치 가능성.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Romania Joins Serbia, Croatia, Albania, Bulgaria, Slovenia, Montenegro and More in Driving Thailand Tourism Growth, Elevating the Balkans to New Heights in Longhaul Travel Expansion - Travel And Tour World",
@@ -19247,23 +19233,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:50",
+      "collected_at": "4:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxObVB5NFBzbmhsVHBlVU4xNzhRX0t4ZGxSbGU5VnBkTnFpakQzdHBNajN2WnV4UjlsZkl3d2dtNjlwV054MTV2MTY3Q05JeUktQU5Qa0ZIQjROcUdYVVRqTFhHV0Z0OGZoYWRuUV81VE5ETWR4Z1RDaThXQ0t1TFpiYTU1MUM1TlY3RnhPckZsUWFzYnI2YzlSbkNRcjdqZlVraTFCRkowREVRek5KMC1uU2swNXJvdzBna2xLZmlteDhucjdHLVhfejVqVk1xMVlpX3E2c3VUN0ZtSHBTRm5aRGQtRjh4RDdNMHhqNERhZDNCR3JYU2lOVGZvWHN4dmVleUFORGd4VkpCS1A3Mk0tV3VmUkVEUkhUWlZXV3RsOFZoNTRvX2ZXT1lmbnQwdHVyQlNmczRfblNYaVpEbUkyS29RXzNENUk?oc=5",
+      "source": ""
     },
     {
       "title": "일본, 태국, 필리핀, 캄보디아와 함께 아시아 골프 관광 혁명에 합류",
       "summary": "- 일본이 태국, 필리핀, 캄보디아 등과 함께 아시아 골프 관광 혁명에 동참.\n- 아시아 대륙의 골프 관광 시장이 크게 성장할 것으로 예상됨.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "일본이 태국, 필리핀, 캄보디아와 함께 아시아 골프 관광 혁명에 합류했습니다. 아시아 대륙의 골프 관광 시장이 크게 성장할 것으로 예상됩니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "골프 관광객에게 새로운 선택지를 제공하며, 태국 골프 관광 시장 활성화에 기여할 수 있음. 하지만 현재 시점에서 즉각적인 영향은 제한적.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Japan Joins Thailand, Philippines, Cambodia and More as Asia’s Golf Tourism Revolution Poised to Transform the Continent: Find Out All The Latest Details Here - Travel And Tour World",
@@ -19272,7 +19255,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:50",
+      "collected_at": "4:50",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPLTBRWWYtMFVHa3ZBZVpKeUhYbW8xN1FoQlZDM0tTUWdpQVA1bExZczVoX01Lc2w2eVBhdWVUMGNCdWMtOUw0UjJ3QUJvaFQ4UzRfTVR1cE0wU3g4bEl3aTBUcVhvbEpXVHlMZXl5b3lvSGJkODJ1OHc2RnRHNUZ6M0h2TFpPS1Z6d290elBpQ3lIbWJlTmkzMm9LZ1ZLLTVNQ09yS29rNGJ5dGtISjJaMm05djJpeWZzS1JUeVQ4cjRwSmZQOUh4U3dudi10OTBHNTU1SlJncEUtVGNDWU9uMWhid1Qzd2x5Nlpoc19pSnZDYXlVSmtwTzBCUmY5TXR1bHRWRy1CdGxGVFlkVDlJZDl1cjltN3I1LVNSVkh2WHNjdEtNQmJTZ05lcw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 항공편 차질로 발이 묶인 외국인에 대한 체류 기간 초과 벌금 면제",
+      "summary": "- 태국 정부가 항공편 취소 등으로 태국에 발이 묶인 외국인 여행객들을 위해 체류 기간 초과 벌금을 면제합니다.\n- 이는 여행객들의 부담을 덜고 관광 산업을 활성화하기 위한 조치입니다.\n- 해당 조치는 즉시 시행되며, 자세한 내용은 관련 기관을 통해 확인할 수 있습니다.",
+      "full_translated": "태국, 항공편 차질로 발이 묶인 외국인에 대한 체류 기간 초과 벌금 면제\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자/입국 규정 변경에 해당하며, 여행객에게 직접적인 영향을 미치는 정보이므로 높은 점수를 부여합니다. 항공편 문제로 어려움을 겪는 여행객들에게 유용한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Now Eases Travel Strain: Overstay Fines Waived for Foreign Nationals Stuck Due to Flight Disruptions - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLUNERnpsN19IRVJfNFQ0QkNXU0dpMjV5VWdENU90c3ZaZ0FBTVNRbWZHal9ldVY0bThGZVlfZXdFZGllODZOUUxVSFc0VW1fYmtzTWp1TkEwU1hXR05QdHRVMjNHNE5qMGs3RnpWWU5LbmZJb2JIZ0hzSU5BVXI0Z0lXQ0RHOUV5czZhTWZZQXJEcEs1MDRfVnVIQjJDdmJJeTdfSlJSRUpjcWw2d1M3aG9udEVXaGhHcHFMb0Q5NXFXRWxVUVRyWjIxRnBvUnlBd0t3OFJHZndEOG0wc3ZQdHFiV0E1REdQdXotbHBR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "파타야, 폭풍우 및 기온 상승 예보: 여행자를 위한 안전 정보",
+      "summary": "- 파타야 해변 지역에 뇌우, 강풍, 기온 상승이 예상됩니다.\n- 여행자는 최신 날씨 정보를 확인하고 안전에 유의해야 합니다.\n- 파타야의 썽태우(Baht Buses)는 여전히 편리한 이동 수단입니다.",
+      "full_translated": "파타야의 야외 썽태우를 경험하세요: 태국의 활기찬 해변가를 여행하는 멋진 방법. 동부 태국에 뇌우, 강풍, 기온 상승이 예상됩니다. 관광객들이 알아야 할 사항은 다음과 같습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 지역의 날씨 변화는 여행 안전에 영향을 미칠 수 있으므로 관련 정보를 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": "썽태우 요금은 흥정 필요",
+        "location_google_map_query": "파타야 썽태우"
+      },
+      "references": [
+        {
+          "title": "Experience Pattaya’s Open-Air Baht Buses: A Cool Way to Travel Through Thailand’s Vibrant Beachfronts as Thunderstorms, Strong Winds, and Rising Temperatures Approach Eastern Thailand—Here’s What Tourists Should Expect - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxPZmU2ZXpJRHgtR3NTSXVpS3NlUlFfOThpN0JwY2JreVVURGQwQy1fODdQZmRhQUtpaHVzZ0l6cTZwTm03UEVJV1BvZ1dmR3ppcW5ULThfZEhXR3BqR1RRWTJRSHBTQVNlaXZIMW1Vd0oxMi03RUx3UVd0Y1FBbDZzejV4M2g2Yzh5WHIwdDh5cGgwajRteU40MmJLdkJsWmR5anB4aks5dmRLYlpVTDJGejVTOElXb1FXUGxmMDAwcV8tYmpKNkI2eEtBVFJfUVZGaE9WNzNPdnpVRUVxYklZYWJDT0dyS1VoUndhZEJEVUVOdnVwTlhWaUUwWlBncnVSRlBzY2JpSHJWNklCWWcxLUIwTmNKM0xoV3p5ZmFUcmVvSWZyQlF6TUxzZmx2cm9rb0tPN01BbGRZZWdkTVNGV09aNWtqb3c2WjRz?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국, 시리킷 왕비 애도 기간 돌입 - 관광객에게 미치는 영향",
+      "summary": "- 태국은 시리킷 왕비의 애도 기간에 돌입하여 1년 동안 지속될 예정입니다.\n- 관광객은 이 기간 동안 특별한 제한이나 의무는 없지만, 공공장소에서 존중하는 태도를 유지해야 합니다.\n- 일부 행사나 축제가 취소되거나 연기될 수 있으므로, 방문 전에 관련 정보를 확인하는 것이 좋습니다.",
+      "full_translated": "태국은 현재 시리킷 왕비의 애도 기간으로, 이는 관광객에게 어떤 의미를 가질까요? 태국 국민들은 왕비를 애도하며 1년의 기간을 갖습니다. 관광객들은 이 기간 동안 공공장소에서 적절한 존중을 표해야 합니다. 구체적인 제한 사항은 없지만, 축제나 행사들이 취소되거나 연기될 수 있으므로 여행 전에 확인하는 것이 좋습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "왕비 애도 기간으로 인한 행사 취소 가능성 및 존중해야 할 태도에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
+          "url": "https://news.google.com/rss/articles/CBMimgNBVV95cUxOalB1WFlQZTctS2k2OFp5VTZSQ213dkFxY25Na0hFQTRPU3VwUElhcDgyUXJxdFVfb2huUm9adXhtTXlHbmxURE9ZYV92amJ6N1JPd3Fwb2J1R0xVaUdYVFI1RjE1WkJSa0FtckRRV2dUb05TYjN5TXJNczRmUWNjMS1IaDZoY3dobUZVcjYzaU5KMy11bTJTVkdxazFzZnJzT3dhTHpCUFJOWkY2N3JOYUN2cUZRY1lyUUxIM2NkR2xuaVhfakViVXc2U3ZlV2RydnNhTG5qQVRxQWNNOWFDdGJGZFBQVkZFZk52MDdUbXNBM0hoQ1FxUGR1UlB3Z2FzSHZuSUtUb3BwdF9ZWVZqWXQ5cFpkajh6QkdVc2h3enRyYzlqQ2N3TjVMbmxGOTRYOEVRckg2YVhDcjV0WWVXNDJ2bUl5N0FXU2xnMGhqb01USmQzWTNrTWR0cnhPWk02dmtxSUVHNHJUc2Q5Y2VZa0cyVnZvdEktelBZMEJIb29WR05sOE5uYkZWZkxKZldMNXl5Q3B3OTROZw?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Amazing Thailand Fest 2026: 베를린에서 열리는 요리 및 문화 축제",
+      "summary": "- Amazing Thailand Fest 2026이 베를린에서 개최됩니다.\n- 태국의 요리와 문화를 선보이는 행사입니다.\n- 여행객들에게 다양한 볼거리와 먹거리를 제공할 것으로 예상됩니다.",
+      "full_translated": "Amazing Thailand Fest 2026: 베를린에서 열리는 요리 및 문화 축제",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 문화 홍보 행사 정보 제공, 여행객 관심 유발 가능성",
+      "event_info": {
+        "date": "2026",
+        "location": "베를린",
+        "price": "미정",
+        "location_google_map_query": "베를린"
+      },
+      "references": [
+        {
+          "title": "Amazing Thailand Fest 2026: A Culinary and Cultural Extravaganza in Berlin - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNDV4TmdVN1RRRE13UkZXU194TFA5OXRFMS01TGVSZkNxdGpIYzk1RGF5TjdjSHBTcFZmR3VnSkhkLVl3SzAtTkhXSGdfdEVpQWZKOGdiTkJnZXdtZU1tZ3Y2WTZPQmVQVzhTbzdoOEJQUXpCY1BybjVIdUxfVmFWUVhHa2w4VmR0YW1MbWQ3dlZzckFoX29PZXI2RW5QNkdaMk5ldFlyV3dYWTNCMHRVVDJsdkNBUXhOOGgzTXRYdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "그레나다, 멕시코, 캐나다, 태국, 스위스, 영국 등과 함께 새로운 디지털 이민 플랫폼 도입",
+      "summary": "- 그레나다가 멕시코, 캐나다, 태국, 스위스, 영국 등 여러 국가와 함께 새로운 디지털 이민 플랫폼을 도입합니다.\n- 이는 전 세계 여행이 종이 없는 형태로 전환되는 추세에 따른 것입니다.\n- 디지털 플랫폼 도입으로 입국 심사가 간소화되어 여행객 편의성이 증대될 것으로 기대됩니다.",
+      "full_translated": "그레나다가 멕시코, 캐나다, 태국, 스위스, 영국 및 더 많은 국가와 협력하여 글로벌 여행이 종이 없는 형태로 진행됨에 따라 새로운 디지털 이민 플랫폼을 채택합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 디지털 이민 플랫폼 도입에 동참하여 여행객들의 입국 절차가 간소화될 가능성이 있으므로 여행 편의성 측면에서 중간 정도의 영향력을 가진다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Grenada Unites with Mexico, Canada, Thailand, Switzerland, UK and More Countries in Adopting New Digital Immigration Platforms as Global Travel Goes Paperless - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQdHpTUkU0WnJFRHJkbmNwcTk2YUJaTy10Q3N1cEVOWlZpUXF2WnFobFE5djBmbGJPUXRUZjRNaXV3cWZhMEpBUFBpWVdMcnhaRWlzZ0tKQjV0TW1BZ0pkRWFheHZ2MEpnYjQzUkN0MnRjbVdqNUFmSE5zMjlBcEdVc3ZwczNGc2tpY3BKVkV4UlIxd2hEMTRLSmZxaDZCd25jaUdDV0I2dVoxZGJ6S3N5VTY1ekUtNkwxOTF4Sk1fb0kyZE9FZlduQlpZQVFTRS1HMVZGWXhFM0htNmlGNWpKRHNTYXBZcUZTSEczNVAweGx1a2hCcFY4UVYwY3dJSU1tSzljbW5aN2d3NzlzV0w5OE1qUWZOY3cwcFJ0Q21xVFR6UGsyZ1ZDMnJLVQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
