@@ -16694,14 +16694,9 @@
       "summary": "- 방콕 포스트 보도에 따르면 태국 관광 산업이 최악의 시나리오에 직면할 수 있다고 합니다.\n- 이는 관광객 수 감소로 이어져 경제에 부정적인 영향을 미칠 수 있습니다.\n- 자세한 내용은 방콕 포스트 기사를 참조하세요.",
       "full_translated": "방콕 포스트에서 태국 관광 산업이 25% 감소하는 최악의 시나리오에 직면할 수 있다고 보도했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 수 감소는 여행 관련 산업에 영향을 미치므로 여행자에게 중간 정도의 영향을 미칠 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "25% tourism decline ‘worst-case scenario’ - Bangkok Post",
@@ -16710,23 +16705,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:33",
+      "collected_at": "6:33",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-06"
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSEM4bnZ6bzlCT0RyVEM4ODdZTDdSLVZzTjdoVzVzaWppOU1faTM4YVFWU3RRNW94NFFySk84OTRESWJzUVMxREpqd0VJRWNnY3VzSnc5UEk4MHNQR0kxeGRydGZCUnlZNVA2aUptSnM3Q0cyMmlQamFaVWRjRVRGSUw1ZklLRGJGV2JTNEF3MVZsNGZy?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 방콕 쇼핑몰 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
       "summary": "- 미국 정부가 방콕의 한 쇼핑몰을 '위조 상품' 판매로 악명 높은 시장 목록에 포함시킴.\n- 해당 쇼핑몰은 과거에도 위조 상품 판매 문제로 지적을 받아왔음.\n- 여행객들은 해당 쇼핑몰에서 상품 구매 시 주의가 필요함.",
       "full_translated": "미국 정부는 방콕의 한 쇼핑몰을 위조 상품 판매로 악명 높은 시장 목록에 올렸습니다. 해당 쇼핑몰은 과거에도 위조 상품 판매 문제로 지적을 받은 바 있습니다. 여행객들은 해당 쇼핑몰에서 상품 구매 시 정품 여부를 꼼꼼히 확인해야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "짝퉁 상품 판매 정보는 여행객의 쇼핑 경험에 영향을 미칠 수 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 쇼핑몰"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 쇼핑몰'}",
       "references": [
         {
           "title": "미국, 방콕 쇼핑몰 한 곳 '짝퉁 상품' 판매로 악명 높은 시장 목록에 올려",
@@ -16734,22 +16726,20 @@
           "source": "Koreadaily"
         }
       ],
-      "collected_at": "06:33",
-      "date": "2026-03-06"
+      "collected_at": "6:33",
+      "image_url": "",
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMiSmh0dHBzOi8vd3d3LmtkcmVhbHkuY29tL25ld3MvYXJ0aWNsZS8xNzI3ODUuaHRtbNIBAA?oc=5",
+      "source": ""
     },
     {
       "title": "Thailand Shocks Europe at ITB Berlin 2026 With ‘The New Thailand’ Vision, Healing Luxury and Hidden Gems Powering Tourism Boom - Travel And Tour World",
       "summary": "- 태국이 ITB Berlin 2026에서 '새로운 태국' 비전을 통해 유럽을 놀라게 함.\n- 치유 럭셔리 및 숨겨진 보석이 관광 붐을 일으키고 있음.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "태국이 ITB Berlin 2026에서 '새로운 태국' 비전을 선보이며 유럽을 놀라게 했습니다. '치유 럭셔리'와 숨겨진 명소들이 관광 붐을 이끌고 있다는 내용입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 새로운 관광 비전 제시. 여행객들에게 새로운 여행 트렌드를 알려줄 수 있음.",
-      "event_info": {
-        "date": "2026-03-01",
-        "location": "ITB Berlin",
-        "price": null,
-        "location_google_map_query": "ITB Berlin"
-      },
+      "event_info": "{'date': '2026-03-01', 'location': 'ITB Berlin', 'price': None, 'location_google_map_query': 'ITB Berlin'}",
       "references": [
         {
           "title": "Thailand Shocks Europe at ITB Berlin 2026 With ‘The New Thailand’ Vision, Healing Luxury and Hidden Gems Powering Tourism Boom - Travel And Tour World",
@@ -16758,8 +16748,110 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:33",
+      "collected_at": "6:33",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-06",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOY05RRGxSR1hLZ1ZjTm1aaURrQXkzVzM2b3BRaGdxRXhlNnhEY3RycjNtdXNRMEo5RTlCWWFEbVk5VllDUGlpaHFZdmc0c09vaXdiQmFmM3dKcVBsNnNTUlpWcTlwV3dsYlg2alVMV3dPQXdiOGJuTVdENHZZUDJwM1NFWlh5Z3pYakZzZjg1UldKRXY2SDdxTGlRTUxndVQ1VVZsWEFOckpjS05fbDlFcHZObUJfUTA4bkRfUjYyUjZONzdtaW5HOGRaTi1mSnJoZDFrY3hWa0JrQ2xuRWVueHFyeFVfSFc3LTRlVG91aXNpeDlRRkNIZGI0ZkNibmRiTkE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "롭부리에서 발생한 납치 살해 사건 관련 주요 용의자 체포",
+      "summary": "- 롭부리에서 발생한 젊은 매니저 납치 살해 사건의 주요 용의자인 '보스 야이'와 그의 여성 공범이 체포됨.\n- 용의자들은 피해자를 납치, 감금, 살해한 혐의를 받음.\n- 경찰은 현재 이들을 수티산 경찰서로 이송하여 추가 조사를 진행 중임.",
+      "full_translated": "경찰은 롭부리 지방의 버려진 집에서 젊은 매니저를 고용해 납치 살해한 사건과 관련하여 '보스 야이'와 그의 여성 공범을 체포했습니다. 이들은 수티산 경찰서에서 기소될 예정입니다. 형사 법원은 살인 혐의로 46세의 룻 또는 탑으로 알려진 수티산 지역의 의료 장비 수입 및 유통 회사 매니저인 스라위 또는 씨와 그의 여자 친구 벤야파에 대한 체포 영장을 발부했습니다. 이들은 계획적인 살인, 불법 감금, 타인에게 신체적 자유를 박탈하는 행위, 강요, 협박, 강도 및 시체 은닉 등의 혐의를 받고 있습니다. 수사 책임자인 촛티왓 르앙위라이 소장과 경찰서장들은 3월 5일 23시경 왕ทอง랑 지역의 한 주택에서 스라위를 체포했습니다. 벤야파 또한 이후 체포되었습니다. 체포된 스라위는 과거 톨웨이에서 9명의 사망자를 낸 교통사고를 낸 유명 여성의 전 남편으로 알려졌습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국에서 발생한 범죄 사건으로, 여행객 안전에 대한 간접적인 영향이 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "롭부리",
+        "price": null,
+        "location_google_map_query": "롭부리"
+      },
+      "references": [
+        {
+          "title": "จับแล้ว \"บอสใหญ่-หญิงสาวคนสนิท\" คดีจ้างอุ้มฆ่าผู้จัดการหนุ่มที่ จ.ลพบุรี",
+          "url": "https://www.thairath.co.th/news/crime/2918208",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7sZOO2fICJj1.jpg"
+        }
+      ],
+      "collected_at": "08:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4C7sZOO2fICJj1.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "미국, 태국산 위조 수출품에 대한 단속 강화",
+      "summary": "- 미국이 태국 수출품에 대한 원산지 검사를 강화할 예정입니다.\n- 태국 수출품이 미국 시장에서 급증한 데 따른 조치입니다.\n- 특히 'Made in Thailand' 위조 상품에 대한 감시가 강화될 것입니다.",
+      "full_translated": "미국은 태국산 제품에 대한 더 엄격한 조사를 약속합니다. 2026년 3월 6일 06:14 발행, 신문 섹션: 비즈니스, 작성자: Wichit Chantanusornsiri\n\n태국은 지난 한 해 동안 미국 시장으로의 태국 수출이 급증한 이후, 'Made in Thailand' 지위를 허위로 주장하는 제품에 대한 면밀한 조사를 받게 될 것입니다. 아라다 푸앙통 외국 무역부(DFT) 국장에 따르면 DFT와 관세청은 상품 원산지, 특히 해외, 특히 미국으로 운송되기 전에 태국산이라고 허위로 주장하는 제품에 대한 검사를 강화해야 합니다. 그녀는 \"미국은 태국 수출이 크게 증가했기 때문에 태국을 면밀히 감시하고 있습니다. 작년에 태국은 미국 수출국 중 7위를 차지하여 전년도의 11위에서 상승했습니다.\"라고 말했습니다. \"미국은 계속해서 우리를 면밀히 감시할 것입니다. 따라서 신뢰성을 유지하고 나중에 소급 조사 또는 추가 세금 평가를 방지하기 위해 검사를 강화해야 하며, 이는 태국 기업가에게 더 큰 피해를 줄 것입니다.\" 또한 태국 제품은 미국 반덤핑 조치의 대상 상위 5개국에 속합니다. 중국은 707건으로 1위, 한국은 137건, 인도는 108건, 대만은 103건, 태국은 73건입니다. 관세청장인 판통 로이쿨난타는 반덤핑 관세를 회피하는 것으로 의심되는 상품과 원산지를 허위로 주장하는 제품을 검사하기 위해 DFT와 협력을 통합하고 있다고 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 수출 경제에 영향을 미치는 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Fake Thai exports face fresh crackdown",
+          "url": "https://www.bangkokpost.com/business/general/3210864/fake-thai-exports-face-fresh-crackdown",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/06/5993354_700.jpg"
+        }
+      ],
+      "collected_at": "08:20",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/06/5993354_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "태국 정부, 연료 부족 방지 위해 비상 조치 시행",
+      "summary": "- 태국 정부가 국내 연료 부족을 막기 위해 비상 조치를 도입했습니다.\n- 여기에는 석유 비축량 증가와 대부분의 수출 중단이 포함됩니다.\n- 정부는 국가 에너지 공급이 안전하다고 국민에게 확신시키고 있습니다.",
+      "full_translated": "정부가 국내 연료 부족을 막기 위한 일련의 긴급 조치를 도입했습니다. 여기에는 석유 비축량 증가와 대부분의 수출 중단이 포함되며, 국가 에너지 공급이 안전하다고 국민에게 확신시키고 있습니다. Auttapol Rerkpiboon 에너지부 장관은 목요일 정부청사에서 Anutin Charnvirakul 총리가 소집한 회의에서 관련 기관들과 함께 국가 에너지 준비 태세를 검토했다고 밝혔습니다. Auttapol 장관은 태국의 현재 석유 비축량이 국내 수요를 최대 95일까지 지원할 수 있다고 보고했습니다. 그는 이전에 언급된 60~65일이라는 수치는 새로운 석유 수입이 없을 경우 국가가 자체적으로 유지할 수 있는 기간을 의미한다고 설명했습니다. 그러나 중동 이외 지역에서 추가 공급이 확인되었습니다. 그는 \"이미 30일 분량의 추가 공급을 확보하여 총 95일까지 확보했습니다.\"라고 말했습니다. \"이 수치는 4월까지 추가 선적 일정이 확정됨에 따라 계속 업데이트될 것이며, 5월에 대한 추가 확인이 예상됩니다.\" 공급 보안을 강화하기 위해 에너지부는 석유 거래자에게 수출 예정이었던 물량을 일부 유지하여 의무 비축 수준을 1%에서 3%로 늘리도록 요구할 예정입니다. 정제 연료 수출은 이미 중단되었으며, 라오스와 미얀마는 예외입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "연료 부족 문제는 교통, 물가 등 여행 관련 요소에 간접적인 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Govt acts to avert fuel crisis",
+          "url": "https://www.bangkokpost.com/thailand/general/3210639/govt-acts-to-avert-fuel-crisis",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210639_260306060222_700.jpg"
+        }
+      ],
+      "collected_at": "08:20",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3210639_260306060222_700.jpg",
+      "date": "2026-03-06"
+    },
+    {
+      "title": "2026 미스 티파니, Theerachaya ‘Book’ Pimkitidaj 인터뷰",
+      "summary": "- Vogue Thailand의 전 디지털 뷰티 에디터이자 유명 칼럼니스트인 Theerachaya ‘Book’ Pimkitidaj가 2026 미스 티파니로 선정됨.\n- 방콕 포스트와의 인터뷰에서 그녀는 왕관을 꿈꾸기 시작한 순간부터 시작된 네 번의 미인 대회 여정을 회상하고, 어렵게 얻은 승리가 그녀에게 무엇을 의미하는지 되돌아봄.\n- 또한 태국이 아직 해결하지 못한 문화적으로 민감한 문제인 트랜스젠더의 호칭 선택 권리에 대한 뜨거운 전국적 논쟁에 대해서도 의견을 밝힘.",
+      "full_translated": "2026 미스 티파니: Theerachaya ‘Book’ Pimkitidaj와의 인터뷰\n\nVogue Thailand의 전 디지털 뷰티 에디터이자 유명 칼럼니스트인 Theerachaya ‘Book’ Pimkitidaj를 만나보세요. 방콕 포스트와의 독점 인터뷰에서 Theerachaya는 왕관을 꿈꾸기 시작한 순간부터 시작된 네 번의 미인 대회 여정을 회상하고, 어렵게 얻은 승리가 그녀에게 무엇을 의미하는지 되돌아봅니다. 또한 태국이 아직 해결하지 못한 문화적으로 민감한 문제인 트랜스젠더의 호칭 선택 권리에 대한 뜨거운 전국적 논쟁에 대해서도 의견을 밝힙니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 트랜스젠더 문화에 대한 이해를 높일 수 있는 흥미로운 로컬 뉴스. 미인 대회에 관심 있는 여행객에게 소소한 재미를 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Interview with 2026 Miss Tiffany",
+          "url": "https://www.bangkokpost.com/video/thailand/3211030/interview-with-2026-miss-tiffany",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211030_700.jpg"
+        }
+      ],
+      "collected_at": "08:20",
+      "image_url": "https://static.bangkokpost.com/media/content/20260306/c1_3211030_700.jpg",
       "date": "2026-03-06"
     }
   ]
