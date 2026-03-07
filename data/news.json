@@ -21025,14 +21025,9 @@
       "summary": "- 태국 전역에 여름 폭풍이 예상됩니다.\n- 파타야에는 강풍과 번개가 칠 수 있습니다.\n- 여행 시 날씨 변화에 유의하십시오.",
       "full_translated": "태국 전역에 여름 폭풍이 예보되었으며, 파타야에서는 강풍과 번개가 칠 가능성이 있습니다. 파타야 메일.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야를 포함한 태국 전역의 날씨 예보 업데이트. 여행객 안전에 영향을 줄 수 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Summer storms forecast across Thailand, gusty winds and lightning possible in Pattaya - Pattaya Mail",
@@ -21043,21 +21038,18 @@
       ],
       "collected_at": "18:13",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmw3Z0F1YkVrclAtbHcxUWJKbVRkTEpoclFBVkt5UVpiNEdfdEdWb1JXX1kxZmR3Z0ozRkdMa1ZFYWxrb3dPVG9naWpFMG5RLXk1Tko4cjZvUEtwSVRYamJoY3hYQVRKX1JuZmN3QTE4a1pxOExOSkx0NFRmdkUtRlpKbVphU2hJSW5vajhrcnNpc2I5cFIwU0xiaEFja3hZaExCX0lwbURaUk1xXzdiTGJKeEN3UGUxai1TbXRpSlhTZw?oc=5",
+      "source": ""
     },
     {
       "title": "오토바이 운전자 폭행 사건: 용의자 자수, 약물 양성 반응",
       "summary": "- 치앙마이에서 오토바이 운전자를 폭행한 두 남성이 자수했습니다.\n- 경찰 조사 결과, 이들은 약물 양성 반응을 보였습니다.\n- 피해자는 병원으로 이송되었으며, 경찰은 정확한 사건 경위를 조사 중입니다.",
       "full_translated": "치앙마이에서 오토바이 운전자를 폭행하여 중상을 입힌 두 남성이 자수했습니다. 경찰은 이들의 소변 검사 결과 약물 양성 반응을 확인했습니다. 사건은 2024년 3월 7일 13시 30분경, 30세의 세타삿과 38세의 완롭이 변호사와 함께 치앙마이 경찰서에 자수하면서 시작되었습니다. 이들은 41세의 위라윳을 폭행한 혐의를 받고 있습니다. 사건은 매히아 교차로 인근 도로에서 발생했으며, 선행을 베푼 시민이 영상을 촬영하여 소셜 미디어에 게시하면서 논란이 일었습니다. 피의자 완롭은 경찰 조사에서 동생과 함께 시내에서 오토바이를 타고 가던 중 신호등을 건너 두 대의 차량 사이로 지나가게 되었다고 주장했습니다. 이후 오토바이 운전자가 자신의 오토바이를 스치듯 지나가 왼쪽 차량과 충돌할 뻔했습니다. 이후 한 백화점 앞에서 멈춰 섰고, 오토바이 운전자가 뒤에서 자신의 오토바이를 들이받았다고 주장했습니다. 이에 동생인 세타삿이 분노하여 오토바이 운전자를 폭행했으며, 처음에는 말리려 했으나 싸움이 계속되자 자신도 한 차례 폭행했다고 진술했습니다. 그는 자신의 행동에 대해 사과했습니다. 경찰은 피의자들을 상대로 추가 조사를 진행하고 있습니다. 치앙마이의 많은 오토바이 운전자들이 경찰서에 모여 사건의 진행 상황을 지켜보고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 대상 범죄 가능성 및 안전 문제 관련. 폭행 사건 발생 및 용의자 검거 소식은 여행객 안전에 대한 우려를 야기할 수 있으므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "치앙마이",
-        "price": null,
-        "location_google_map_query": "치앙마이"
-      },
+      "event_info": "{'date': None, 'location': '치앙마이', 'price': None, 'location_google_map_query': '치앙마이'}",
       "references": [
         {
           "title": "สองหนุ่มรุมกระทืบ \"ไรเดอร์\" สลบกลางถนน เข้ามอบตัวแล้ว ตรวจปัสสาวะพบมีสารเสพติด",
@@ -21068,21 +21060,18 @@
       ],
       "collected_at": "18:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0FAFjT0ZG4w.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/local/2918520",
+      "source": ""
     },
     {
       "title": "3월 7일 태국 유가 정보: 휘발유, 가솔린, 디젤 가격 총정리",
       "summary": "- 3월 7일, 태국 내 휘발유, 가솔린, 디젤 가격 업데이트.\n- PTT, Bangchak 등 주요 주유소의 리터당 가격 정보 제공.\n- 하이 프리미엄 디젤 S는 45.64 바트/리터.",
       "full_translated": "3월 7일 태국 내 휘발유, 가솔린, 디젤 가격이 업데이트되었습니다. Bangchak, PTT, Shell, PT, Caltex 등 주요 주유소의 최신 리터당 가격 정보는 다음과 같습니다.\n\n* 하이 프리미엄 디젤 S: 45.64 바트/리터\n* 하이 디젤 S: 29.94 바트/리터\n* 하이 프리미엄 97: 49.54 바트/리터\n* 가솔린 E85S EVO: 26.29 바트/리터\n* 가솔린 E20S EVO: 28.34 바트/리터\n* 가솔린 91S EV: 30.18 바트/리터\n* 가솔린 95S EVO: 30.55 바트/리터\n* 디젤: 29.94 바트/리터\n* 가솔린 E85: 26.29 바트/리터\n* 가솔린 E20: 28.34 바트/리터\n* 가솔린 91: 30.18 바트/리터\n* 가솔린 95: 30.55 바트/리터\n* 휘발유: 39.14 바트/리터",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "렌터카 이용 여행객에게 유용한 정보이며, 매일 업데이트되는 정보이므로 포함.",
-      "event_info": {
-        "date": "2069-03-07",
-        "location": "태국 전역 주유소",
-        "price": "기사 참조",
-        "location_google_map_query": "태국 주유소"
-      },
+      "event_info": "{'date': '2069-03-07', 'location': '태국 전역 주유소', 'price': '기사 참조', 'location_google_map_query': '태국 주유소'}",
       "references": [
         {
           "title": "ราคาน้ำมันวันนี้ 7 มีนาคม 2569 เช็กราคาน้ำมันทุกชนิด ล่าสุดลิตรละกี่บาทแล้ว",
@@ -21093,21 +21082,18 @@
       ],
       "collected_at": "18:13",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0A9yF0WoPSY.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/society/2918521",
+      "source": ""
     },
     {
       "title": "태국, 무 코 란타 국립공원의 은둔 게 보존 프로젝트로 그린 데스티네이션 상 수상",
       "summary": "- 태국이 무 코 란타 국립공원의 은둔 게 보존 프로젝트로 그린 데스티네이션 상을 수상했습니다.\n- 이 상은 지속 가능한 관광 개발에 기여한 노력을 인정받은 결과입니다.\n- 해당 프로젝트는 생태계 보존과 지역 사회 참여를 통해 긍정적인 영향을 미치고 있습니다.",
       "full_translated": "태국이 무 코 란타 국립공원의 은둔 게 보존 프로젝트로 그린 데스티네이션 상을 수상했습니다. Pattaya Mail",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업의 긍정적인 발전 소식이며, 지속 가능한 관광에 대한 관심을 높이는 데 기여합니다. 여행지 선택에 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "무 코 란타 국립공원",
-        "price": null,
-        "location_google_map_query": "무 코 란타 국립공원"
-      },
+      "event_info": "{'date': None, 'location': '무 코 란타 국립공원', 'price': None, 'location_google_map_query': '무 코 란타 국립공원'}",
       "references": [
         {
           "title": "Thailand wins Green Destinations Award for hermit crab conservation project in Mu Ko Lanta National Park - Pattaya Mail",
@@ -21118,21 +21104,18 @@
       ],
       "collected_at": "18:13",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaU0zNWNkczNRbmwybEl6LV9HTHR0WE5ybEwyUjZRQlFBN2lNTXNjQ3NrWWRJd0NtRjg3R0R3bTVnWjVpSVhOdlJOVldKRk45YWR2VHBRVVJhbHhZbUpTRlBjUmotQnRsSjJzdWJCUWplU3FjeW5wZjBWYnlKaDA5emJYb2k5d2lzcTFXdFRJRjVYaHQ3MzUzV0FydDFyWXlKVGFoMHczWmVDcEVtSkFKd1pwcGk1Y3BIa0paOG1vczFkdlBlZzdPaWpsd2ZkbGF5bVV3dlA3ZjVRc3F4MnBVQVNncFAxalk?oc=5",
+      "source": ""
     },
     {
       "title": "우즈베키스탄, 태국으로의 여행 증가 추세 - Trend News Agency",
       "summary": "- 우즈베키스탄에서 태국으로의 여행객 수가 증가하고 있습니다.\n- 자세한 내용은 Trend News Agency에서 확인하세요.\n- 이 기사는 여행객 증가 추세에 대한 간략한 정보를 제공합니다.",
       "full_translated": "우즈베키스탄에서 태국으로의 여행 증가 추세\nTrend News Agency",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행객 증가 추세는 여행 관련 정보로서의 가치가 있으나, 현재 시점에서는 일반적인 정보에 해당하므로 중간 점수를 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Uzbekistan sees growing travel flow to Thailand - Trend News Agency",
@@ -21143,6 +21126,133 @@
       ],
       "collected_at": "18:13",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbklKbTlpLW1lMDhPWmdzWWoyVU4yaHFGc2FtdmNXVHNBSV9SUktaNmNCcFFRRHFOLTFzbU9EUWRjclNqbF8xdWw5UjZmak16X09taA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "방콕 길거리 난투극: 관광객, 술집 앞에서 싸움 벌여",
+      "summary": "- 방콕의 한 술집 앞에서 관광객 간의 난투극이 벌어짐.\n- 싸움 장면이 카메라에 포착되어 논란이 되고 있음.\n- 자세한 싸움의 원인은 아직 알려지지 않음.",
+      "full_translated": "방콕의 한 술집 앞에서 관광객 간의 난투극이 카메라에 잡혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 안전 관련 사건이므로 정보 제공 가치가 있음. 기존에 유사한 '방콕 길거리 난투극' 기사가 있었으나, 다른 사건일 가능성이 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 술집"
+      },
+      "references": [
+        {
+          "title": "Tourist Brawl Outside Thai Bar Caught on Camera - Independent Journal Review",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SZElnXzEtYkFDTGdqZzNpUkg3TENET1J2bmlsTjcxeHdDc1NwalBoU0YwdkxfaktsbmZ4eXl6UnVfWjV4S18tOWd0YzZkSnNRa2N2YkhGZUItNGpUTEx5NWd1LWd2YVljbnVUNVN5LVFwZw?oc=5",
+          "source": "Independent Journal Review",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Tomorrowland, 파타야에서 아시아 데뷔, 태국 관광 산업에 10억 달러 부양 전망",
+      "summary": "- 태국이 파타야에서 개최되는 Tomorrowland 아시아 데뷔를 통해 10억 달러의 관광 수입 증대를 기대하고 있습니다.\n- 이 이벤트는 파타야의 관광 지형을 변화시킬 것으로 예상됩니다.\n- Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 전망입니다.",
+      "full_translated": "태국은 파타야에서 개최되는 Tomorrowland 아시아 데뷔를 통해 10억 달러의 관광 수입 증대를 기대하고 있습니다. 이 이벤트는 파타야의 관광 지형을 변화시킬 것으로 예상됩니다. Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 전망입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 열리는 대형 축제는 관광객 유치에 긍정적인 영향을 미치므로.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand Bets on US$1 Billion Boost as Tomorrowland’s Asia Debut Set to Transform Pattaya’s Tourism Landscape - Qoo10.co.id",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3dHSkFIeFRZSXNpNGVoWGx0OUo5OXZtbXI1Z0huZ3RTajVSZFZWYXdmazh1Qm9NRi0xMlBfb010QzB2UzZVNjFGWHlqZGVieG12dTdjVjVlcmFodlFrOGQ1LVphd0h0ZUQxcENfRWh3QWRWQW85M2ZpRWpiRWFtOHVDLTZQMlJGVXZsbkhYU2ZIMDgtck1jQlh4TXpQTGdURUFydzU4dGFVYXVxeGhyWmFxYURwblhxcFA5b21FQjRUQUFTMjJ2dmRZYkZ6ZXBoeVA3Y21rYjlVYW50bE5ObU0tSTc3eUVpTlHSAfIBQVVfeXFMTUZqV2lnbkV0Q0dsdlg5SF9wNDVwVFdxV2libGtPaU5fYWZLRmo5dWhteVc5N2hQVk5ZXzNlRUxRUG5QU0J3T0lOd0pDUEo1RkJ0cnlZdndUVXZUdE9lanJKamdJZ1EydllQbE1CQTVZZ3J3WFdzalhOYnAyRjBWeFpWNTVGc0wzd0xfU0ZKRl9tSkNjaTJ2cUg5VGdrVDRfM1gxaEdTaTMtOFA2WnNPbWhyM051b3JhVGdpcmRWZUI4dlljZVpORW9NR0x3QVFUd2dwejE2dmkzVFZTbnQtWVg0bUJubXFxNHBCcUZ2M0tfNmc?oc=5",
+          "source": "Qoo10.co.id",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Tomorrowland, 2026년 12월 태국에서 아시아 최초 풀 스케일 개최 준비",
+      "summary": "- 태국이 2026년 12월에 열리는 Tomorrowland 아시아 최초 풀 스케일 에디션 개최를 준비 중입니다.\n- Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 것으로 전망됩니다.\n- 푸껫은 2026년 세계 웰니스 서밋 개최지로 선정되었습니다.",
+      "full_translated": "태국이 2026년 12월에 열리는 Tomorrowland 아시아 최초 풀 스케일 에디션 개최를 준비 중입니다. Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 것으로 전망됩니다. 푸껫은 2026년 세계 웰니스 서밋 개최지로 선정되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "대규모 국제 행사 개최 정보는 여행객 유치 및 관련 산업 활성화에 중요한 정보이므로 포함.",
+      "event_info": {
+        "date": "2026-12-01",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "태국 Tomorrowland"
+      },
+      "references": [
+        {
+          "title": "Tomorrowland as December 2026 approaches: Thailand sets the stage for the festival’s first full-scale Asian edition - El-Balad.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91Qkx6RTB4WmRmME83TC1sSGZBT21mSkx1NjVqb041aUd5WGxVeHBmUEdJSE1Rdm9YOWdDbml4NVhJMVJRaHppdA?oc=5",
+          "source": "El-Balad.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Tomorrowland Thailand, 티켓 판매 시작과 함께 관광객 급증 예상",
+      "summary": "- Tomorrowland Thailand 티켓이 2월 28일부터 판매 시작됨.\n- 이로 인해 태국 관광 산업이 활기를 띨 것으로 예상됨.\n- 지역 경제 부양 효과에 대한 기대감이 높아지고 있음.",
+      "full_translated": "Tomorrowland Thailand 티켓 판매가 2월 28일부터 시작되면서 관광객 급증을 예고하고 있습니다. El-Balad.com",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "Tomorrowland Thailand 개최로 인한 관광객 증가 및 지역 경제 활성화 기대. 티켓 판매 시작 정보는 새로운 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "Tomorrowland Thailand"
+      },
+      "references": [
+        {
+          "title": "Tomorrowland Thailand sparks a tourism surge as tickets go on sale Feb 28 - El-Balad.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45ZEJuZnluUU9Yc201LU9Fd1BjZzVvRWwyQVZTWnEwMnFuWVBrUWd0all4UTdaWDhmaC1hTlpDREx0YktqdHRHUQ?oc=5",
+          "source": "El-Balad.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "타나부리 그룹, NIO와 협력하여 Firefly 전기차 출시 예정, 2026 모터쇼에서 가격 공개",
+      "summary": "- 타나부리 그룹이 NIO와 협력하여 프리미엄 전기차 시장 진출\n- Firefly 전기차는 도시 라이프스타일에 맞춰 설계되었으며, 2026 모터쇼에서 공개 예정\n- 이번 협력은 NIO의 기술력과 타나부리 그룹의 경험을 결합하여 태국 전기차 시장을 발전시키기 위함",
+      "full_translated": "타나부리 그룹이 NIO와 협력하여 프리미엄 전기차 시장에 진출합니다. Firefly 전기차는 최신 기술을 탑재하고 있으며, 나이 랏타폰 위리야판 타나부리 그룹 회장은 이번 협력이 태국 전기차 산업의 표준을 높이는 데 기여할 것이라고 밝혔습니다. Firefly는 100% 전기차로, 도시 사람들의 라이프스타일에 맞춰 설계되었습니다. 2026 모터쇼에서 공식적으로 공개될 예정이며, 가격은 미정입니다. 이번 협력은 NIO의 글로벌 비전과 타나부리 그룹의 전문성을 결합하여 태국 자동차 산업을 발전시키는 것을 목표로 합니다. NIO는 에너지, 소프트웨어, 인공지능을 결합하여 새로운 드라이빙 경험을 제공하는 글로벌 기술 기업입니다. 타나부리 그룹은 태국 자동차 산업에서 거의 한 세기 동안 경험을 쌓아왔으며, 판매 및 애프터 서비스 네트워크를 통해 고객에게 최고의 서비스를 제공할 것입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 자동차 시장에 대한 정보이지만, 여행자에게 직접적인 영향은 제한적. 미래에 전기차 이용 가능성이 높아질 수 있다는 간접적인 정보 제공.",
+      "event_info": {
+        "date": "2026",
+        "location": "Motor Show 2026",
+        "price": "미정",
+        "location_google_map_query": "Bangkok Motor Show 2026"
+      },
+      "references": [
+        {
+          "title": "กลุ่มธนบุรี ผนึก NIO เปิดตัวรถไฟฟ้า Firefly รอลุ้นราคาในงาน Motor Show 2026",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2918515",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPOr8S9RSwgYm.jpg"
+        }
+      ],
+      "collected_at": "18:40",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPOr8S9RSwgYm.jpg",
       "date": "2026-03-07"
     }
   ]
