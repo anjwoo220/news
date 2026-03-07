@@ -21553,14 +21553,9 @@
       "summary": "- 이란 정부는 미국의 공격에 대한 보복 권리를 주장하며 긴장 고조.\n- 대통령의 사과에도 불구하고, 미국 기지로부터의 공격에 단호히 대응할 것임을 강조.\n- 이란은 주변국과의 관계를 중요시하지만, 자국 방어 권리는 포기하지 않겠다고 밝힘.",
       "full_translated": "이란 정부는 미국의 공격에 대한 보복 권리를 여전히 가지고 있다고 확인했습니다. 이는 이란 대통령이 이전에 공격으로 피해를 입은 주변국에 사과했음에도 불구하고 나온 입장입니다. 2569년 3월 7일, 이란 정부는 중동 지역 내 미국 기지로부터의 어떠한 공격에도 단호하게 대응할 것이라고 발표했습니다. 이는 마수드 페세치키안 이란 대통령이 주변국에 사과하고, 이란이 먼저 공격받지 않는 한 공격을 중단하겠다고 밝힌 이후에 나온 것입니다. \n\n몇 시간 후, 이란 대통령실 부실장은 도널드 트럼프 미국 대통령이 이란이 주변국에 '굴복'했다는 증거라고 주장한 페세치키안 대통령의 발언에 대한 '설명'을 발표했습니다. 이란 대통령실 부실장은 “우리는 미국 기지로부터의 어떠한 공격에도 단호하게 대응할 것입니다. 페세치키안 대통령의 메시지는 만약 이 지역 국가들이 우리를 공격하는 데 미국과 협력하지 않는다면, 우리는 그들을 공격하지 않을 것이라는 점을 분명히 합니다.”라고 밝혔습니다. \n\n페세치키안 대통령 또한 자신의 이전 발언을 해명하려는 듯 X에 이란은 항상 주변 국가들과 긴밀한 관계를 추구해 왔지만, 이는 미국과 이스라엘의 공격으로부터 자신을 방어할 이란의 합법적인 권리를 무효화하지 않는다고 강조하는 글을 게시했습니다. 페세치키안은 “우리는 우리나라를 보호하기 위해 삶의 마지막 순간까지 맞서 싸울 것입니다. 우리는 우호적인 주변 국가를 공격하지 않지만, 이 지역 내 미국 기지, 시설, 군사 자산을 목표로 삼고 있습니다.”라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국과 직접적인 관련은 없으나, 중동 지역 긴장 고조는 국제 정세에 영향을 미칠 수 있으므로 낮은 점수로 포함. 여행객 안전에 대한 직접적인 위협은 현재로서는 없음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านลั่น ยังมีสิทธิ์โจมตีตอบโต้ หลัง ปธน.ขอโทษเพื่อนบ้าน",
@@ -21571,21 +21566,18 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdbwoRXoZKwS.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918534",
+      "source": ""
     },
     {
       "title": "트럼프, 이란에 대한 강력한 공격 위협",
       "summary": "- 도널드 트럼프 미국 대통령이 이란에 대한 강력한 공격을 예고했습니다.\n- 이란의 '끔찍한 행동'에 대한 대응으로 새로운 목표물을 고려 중이라고 밝혔습니다.\n- 과거 이란 대통령의 발언을 인용하며, 미국의 공격으로 이란이 약화되었다고 주장했습니다.",
       "full_translated": "도널드 트럼프 대통령이 이란에 대한 공격을 예고하며 긴장을 고조시키고 있습니다. 그는 Truth Social에 올린 글에서 '오늘 이란은 강력한 공격을 받을 것'이라며, 이전에는 목표로 삼지 않았던 새로운 목표물들을 고려하고 있다고 밝혔습니다. 트럼프 대통령은 이란의 '끔찍한 행동'에 대한 대응이라고 설명했습니다.\n\n또한 트럼프 대통령은 과거 이란 대통령의 발언을 인용하며, 그가 주변 국가에 사과하고 더 이상 공격하지 않겠다고 약속한 것은 미국의 끊임없는 공격 때문이라고 주장했습니다. 그는 이란이 더 이상 '중동의 깡패'가 아닌 '중동의 패배자'가 되었다고 덧붙였습니다.\n\n트럼프 대통령의 이러한 발언은 이란과의 관계가 더욱 악화될 수 있음을 시사하며, 중동 지역의 불안정성을 증폭시킬 수 있다는 우려를 낳고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국 여행에는 직접적인 영향이 없다고 판단됨. 국제 정치 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "โดนัลด์ ทรัมป์ ขู่ลั่น วันนี้อิหร่านจะถูกโจมตีอย่างหนัก ชี้กำลังหาเป้าหมายใหม่",
@@ -21596,6 +21588,58 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdm6zfQm4Nlk.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918536",
+      "source": ""
+    },
+    {
+      "title": "태국 관광 지원",
+      "summary": "- 태국 관광 지원 관련 뉴스입니다.\n- 자세한 내용은 기사를 참고하세요.\n- (현재 시각 기준) 기존 뉴스와 중복되거나 중요도가 낮아 추가 정보 확인 후 업데이트 예정입니다.",
+      "full_translated": "태국 관광 지원 관련 소식입니다. 자세한 내용은 원문 기사를 참조하십시오.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 3,
+      "impact_reason": "일반적인 관광 관련 뉴스이며, 기존 뉴스에 비해 새로운 정보가 부족하므로 낮은 점수를 부여합니다. 추후 업데이트될 가능성을 고려합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "tourist assistance Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEM4RFVfejdpVlFjZFpuVjlSZlFZOThCSmVkektBU1VGRldYb3BwLUFYQU1XVmJWQ0ZSTE9nS1FOa25pVXY2OGdlNmUxbGRXQTJINXlIUXhLSGZXZ28zVk1RTjZXbUlYbzZxeTA4aWNIUlhvSGJ2MkoxcElhMFM5RjZJdmVzeGM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Thailand Tennis Masters 2026, 4월 개막 앞두고 유니폼 공개",
+      "summary": "- 태국 테니스 마스터스 2026이 4월 개막을 앞두고 유니폼을 공개했습니다.\n- 해당 대회는 태국에서 개최될 예정입니다.\n- 구체적인 경기 일정 및 장소는 아직 발표되지 않았습니다.",
+      "full_translated": "태국 테니스 마스터스 2026이 4월 개막을 앞두고 유니폼을 공개했습니다. Social News XYZ",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "여행객에게 직접적인 영향은 없으나, 스포츠 이벤트에 관심 있는 관광객에게 소소한 볼거리를 제공할 수 있습니다.",
+      "event_info": {
+        "date": "2026-04-01",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "태국 테니스 경기장"
+      },
+      "references": [
+        {
+          "title": "Thailand Tennis Masters 2026 unveils jersey ahead of April kick-off - Social News XYZ",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0pIdWNld3l6bGlWZENNcVZPbDgxQWY3SHNyT3ZET2w4dWFkRW1HaHRnTHd4SzJJbk5SdVBQaGZ1ZTNSSGZuVzVRWjFuS1pMWnFpQ3ZUdWZDckh5XzUtSGc4ZG03bVRIbVgwem1DN1ZmamV1eU9COUxZNUVpWjRiRm1GOWNBSVhZZlV4d0R5djRoMnZTSlV1V2RYai1QdTZubk5ocmdWRU1HQQ?oc=5",
+          "source": "Social News XYZ",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
   ]
