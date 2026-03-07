@@ -21957,14 +21957,9 @@
       "summary": "- 파타야 워킹 스트리트에서 벌어진 난투극 영상이 온라인에 확산되어 논란.\n- 경찰이 영상 속 인물들을 추적하여 사건 경위를 조사 중.\n- 관광객 안전에 대한 우려가 제기되고 있으며, 유사 사건 방지 대책 마련이 시급.",
       "full_translated": "파타야 워킹 스트리트에서 촬영된 난투극 영상이 온라인에 빠르게 퍼지면서 논란이 일고 있습니다. 영상에는 여러 명의 사람들이 격렬하게 싸우는 모습이 담겨 있으며, 관광객으로 보이는 사람들도 일부 포함되어 있습니다. 현지 경찰은 영상 속 인물들을 추적하여 정확한 사건 경위를 파악하고 있으며, 관련자들을 소환하여 조사할 예정입니다. 이번 사건으로 파타야를 방문하는 관광객들의 안전에 대한 우려가 커지고 있으며, 경찰은 유사한 사건이 재발하지 않도록 순찰을 강화하고 예방 조치를 마련할 계획입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "관광지에서 발생한 폭력 사건으로, 관광객 안전에 직접적인 영향을 미칠 수 있으므로 높은 점수 부여. 특히 워킹 스트리트는 많은 관광객이 찾는 장소이므로, 신속한 상황 파악 및 대처가 중요.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 워킹 스트리트",
-        "price": null,
-        "location_google_map_query": "파타야 워킹 스트리트"
-      },
+      "event_info": "{'date': None, 'location': '파타야 워킹 스트리트', 'price': None, 'location_google_map_query': '파타야 워킹 스트리트'}",
       "references": [
         {
           "title": "Pattaya Police Investigating Viral Video of Wild Chaotic Brawl on Walking Street",
@@ -21972,16 +21967,65 @@
           "source": "Pattaya Mail"
         }
       ],
-      "collected_at": "04:13",
-      "date": "2026-03-08"
+      "collected_at": "4:13",
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": "https://example.com/pattaya-brawl",
+      "source": ""
     },
     {
       "title": "태국, 시리킷 여왕 애도 기간 1년 선포 - 여행객에게 미치는 영향 (재확인)",
       "summary": "- 태국 정부가 시리킷 여왕의 애도 기간을 1년으로 선포함.\n- 애도 기간 동안 공공장소에서의 과도한 음주나 소란 자제 권고.\n- 대부분의 관광 명소는 정상 운영되나, 일부 행사나 축제가 취소될 수 있음.",
       "full_translated": "태국 정부는 시리킷 여왕의 서거에 따라 1년 동안의 애도 기간을 선포했습니다. 이 기간 동안, 태국 국민들은 애도의 뜻을 표하며 공공장소에서의 행동에 주의를 기울일 것이 권장됩니다. 특히, 과도한 음주나 소란스러운 행동은 자제하는 것이 좋습니다. 관광객들에게는 대부분의 관광 명소가 정상적으로 운영될 예정이지만, 일부 행사나 축제가 취소되거나 연기될 수 있습니다. 여행 계획을 세우기 전에 관련 정보를 확인하는 것이 좋습니다. 애도 기간 동안 태국 국민들의 정서를 존중하는 태도를 보이는 것이 중요합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "애도 기간 동안의 행사 취소 가능성, 복장 규정 변화 등으로 여행객에게 일정 부분 영향을 줄 수 있으므로 중간 점수 부여. 이미 게시된 내용이지만, 재확인 차원에서 포함.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
+          "url": "https://example.com/queen-mourning",
+          "source": "MSN"
+        }
+      ],
+      "collected_at": "4:13",
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": "https://example.com/queen-mourning",
+      "source": ""
+    },
+    {
+      "title": "태국 전역 항공편 취소 및 지연 속출, 방콕, 푸껫, 치앙마이, 끄라비 등 공항 이용객 불편",
+      "summary": "- 타이 에어아시아, 에미레이트, 타이 라이온 에어 등 항공사 운항 차질 발생\n- 총 33편 취소, 557편 지연으로 여행객 불편 가중\n- 항공사 이용 전 운항 정보 확인 필수",
+      "full_translated": "방콕, 푸껫, 치앙마이, 끄라비에서 33편의 항공편이 취소되고 557편이 지연되면서 태국 전역에서 수백 명의 승객이 발이 묶였습니다. 이로 인해 타이 에어아시아, 에미레이트, 타이 라이온 에어, 에티하드, 타이 비엣젯 에어 등의 항공사 운항에 차질이 발생했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "항공편 취소 및 지연으로 인한 여행객 불편 가중, 공항 혼잡도 증가 예상. 여행 일정에 차질이 생길 수 있으므로 높은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 푸껫, 치앙마이, 끄라비",
+        "price": null,
+        "location_google_map_query": "방콕, 푸껫, 치앙마이, 끄라비 공항"
+      },
+      "references": [
+        {
+          "title": "Hundreds Of Passengers Abandoned Around Thailand Today As Bangkok, Phuket, Chiang Mai And Krabi Cancel 33 And Delay 557 Flights, Disrupting Thai AirAsia, Emirates, Thai Lion Air, Etihad, Thai Vietjet Air, And Others - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxQYWJaemE5LXRKcWw2cVpJZ3h1RF9iOE4tblA3SjFyTFRGc291ZmFKbnBqMWZzSlR4UWV6ZUpGWnpaYUJ6TWxsVzZXS3NUb3ZtM0hqbk9RNmUzY0w5NFdlVlBqeWlpRHZsWk5BdVNYcnF5bTRoRE9VaGtra1MxV0xuT05FbFp3UC16Ukp6YlRKekZlaHBpUzJhMHJmV01OajJ0T29aLThvTlZ4RU54TTB4MFF1MVlxOTAyNTRrYldlNnpPa2ZQc0xFOFBQeXBfdWY2Y1dKNE1xSHNab0FzcHEwR01YNU4tYzlFb3g0eUVFYzc2MWpLck5HejI4THdkYnp6cktoZG81Sk9uTXJPVFZ1MnZEY3ZZS3RWa2twUVZELXktWkVkQXk3Mjc0SC10bUxxeC13LTVVNWl2ZXZJNWREdnBjRkpKLWZkNm5JOWkxNUJ0OHFCN2hRaXppQlI0SjA5SXFxbnRMcGc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "전문가들, 신속한 새 '위기' 정부 촉구 - 방콕 포스트",
+      "summary": "- 전문가들이 태국의 현재 위기 상황을 해결하기 위해 신속한 새 정부 구성을 촉구하고 있습니다.\n- 정치적 불안정과 경제적 어려움이 복합적으로 작용하는 가운데, 리더십 교체가 필요하다는 의견입니다.\n- 자세한 내용은 방콕 포스트 기사를 참조하십시오.",
+      "full_translated": "Experts urge swift new 'crisis' government&nbsp;&nbsp;Bangkok Post",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 정치 상황에 대한 내용으로, 여행에 직접적인 영향은 적으나 알아두면 좋을 정보. 정치적 불안정은 여행 심리에 영향을 줄 수 있음.",
       "event_info": {
         "date": null,
         "location": null,
@@ -21990,12 +22034,14 @@
       },
       "references": [
         {
-          "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
-          "url": "https://example.com/queen-mourning",
-          "source": "MSN"
+          "title": "Experts urge swift new 'crisis' government - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFZ3MjVQeS1qalBuaWVJTV9HLUkwUmpDNkl6N2dGM0lWeWw1eXM3YldiM2VpclpReTMwdjVLQVJBZGpoaEtqSDhjY3VITE5abC0wZlh3eVI0T2F5U29vTVJOaUZ1R2hRQzEzNVRfUFZXbzNQamVyelNTQTN2ai1PVlJuVU9xT1lDUW1JUzd2ZjI4TjJSMmhxSDdR?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:13",
+      "collected_at": "04:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
   ]
