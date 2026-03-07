@@ -21487,14 +21487,9 @@
       "summary": "- 앙통 지역 주민들이 송끄란 축제 기간 동안 도로변에서 장사를 하기 위해 나무에 밧줄을 묶고 장소를 선점.\n- 비셋차이찬 시장에서 쿠마나우완 사원까지 약 2km 구간에 걸쳐 밧줄과 표지판 설치.\n- 시장은 주민들에게 시/군청과 협력하여 장소 예약을 진행하도록 요청.",
       "full_translated": "앙통 주민들이 나무에 밧줄을 묶고 “예약” 표지판을 붙여 송끄란 기간 동안 상품을 판매할 도로변 공간을 확보했습니다. 2026년 3월 7일, 기자들은 앙통주 비셋차이찬-포통 도로에서 나무에 밧줄을 묶고 빨간불 사거리에서 쿠마나우완 사원 앞까지 2km가 넘는 거리에 팻말을 붙여놓은 것을 발견했습니다. 주민들은 이 곳을 앙통 주민들의 송끄란 축제 물놀이 장소인 “카오숙 로드”라고 부릅니다. 밧줄을 묶고 팻말을 붙이는 것은 송끄란 축제 기간 동안 상품 판매 공간을 예약하는 주민들의 소유권 상징입니다. 비셋차이찬 시장인 아피찻 스리하라 씨는 상품 판매 공간을 예약하기 위해 밧줄을 묶은 주민들에게 시청 및 지방 자치 단체에 연락하여 상품 판매 공간을 예약하도록 요청했다고 밝혔습니다. 카오숙 로드는 송끄란 축제 물놀이 장소로 4차선 도로와 2차선 도로로 나뉘는데, 4차선 도로는 비셋차이찬 시와 타창 시에서 관리하고, 2차선 도로는 살차오롱통 자치단체에서 관리하며 물놀이 기간 동안 쓰레기 및 주민들을 관리할 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "송끄란 축제 관련 정보로, 여행객들에게 유용한 로컬 뉴스. 축제 장소 및 관련 정보를 제공하여 여행 계획에 참고 가능.",
-      "event_info": {
-        "date": "2026-04-13 ~ 2026-04-15 (추정)",
-        "location": "앙통 주, 비셋차이찬-포통 도로 (카오숙 로드)",
-        "price": "무료 (물놀이)",
-        "location_google_map_query": "카오숙 로드, 앙통"
-      },
+      "event_info": "{'date': '2026-04-13 ~ 2026-04-15 (추정)', 'location': '앙통 주, 비셋차이찬-포통 도로 (카오숙 로드)', 'price': '무료 (물놀이)', 'location_google_map_query': '카오숙 로드, 앙통'}",
       "references": [
         {
           "title": "ชาวบ้านขึงเชือกกับต้นไม้ ติดป้าย \"จอง\" พื้นที่ริมถนน ไว้ขายของช่วงวันสงกรานต์",
@@ -21505,21 +21500,18 @@
       ],
       "collected_at": "21:47",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOd597hhwvtTF.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/local/2918532",
+      "source": ""
     },
     {
       "title": "펫차부리, 유네스코 음식 네트워크에서 달콤, 짭짤, 신맛을 선보이다",
       "summary": "- 펫차부리(Phetchaburi)가 유네스코 음식 네트워크에 합류하여 다양한 맛을 선보입니다.\n- 지역 경제 활성화 및 관광객 유치에 기여할 것으로 기대됩니다.\n- 펫차부리의 독특한 요리 경험을 강조합니다.",
       "full_translated": "펫차부리가 유네스코 음식 네트워크에서 달콤, 짭짤, 신맛을 선보입니다. Nation Thailand",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "유네스코 음식 네트워크 합류는 펫차부리를 방문하는 관광객에게 새로운 미식 경험을 제공하며, 지역 관광 활성화에 기여할 수 있습니다. 흥미로운 로컬 뉴스입니다.",
-      "event_info": {
-        "date": null,
-        "location": "Phetchaburi",
-        "price": null,
-        "location_google_map_query": "Phetchaburi restaurants"
-      },
+      "event_info": "{'date': None, 'location': 'Phetchaburi', 'price': None, 'location_google_map_query': 'Phetchaburi restaurants'}",
       "references": [
         {
           "title": "Phetchaburi showcases sweet, salty, sour in UNESCO gastronomy network - Nation Thailand",
@@ -21530,21 +21522,18 @@
       ],
       "collected_at": "21:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyMVVwVjFrVEdIVHZPS0h4WUZEVE50VG96OVEtMEFORm9Yc0xlNzZHOW9rMm53WE1oWkN3cFhSMHRYc25pMklJTUhibzAtbzJjRktzVHdBd0wzQlJiclI2NQ?oc=5",
+      "source": ""
     },
     {
       "title": "Sabeeda, 깐차나부리에서 전통 쌀 수확 문화 축제인 Tai Song Dam 문화 축제 개막",
       "summary": "- Sabeeda는 깐차나부리에서 열리는 Tai Song Dam 문화 축제를 개막했습니다.\n- 이 축제는 전통적인 쌀 수확 관습을 기념합니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
       "full_translated": "Sabeeda가 깐차나부리에서 Tai Song Dam 문화 축제를 열어 전통적인 쌀 수확 관습을 기념합니다. 파타야 메일",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 전통 문화를 경험할 수 있는 축제 정보 제공. 여행객에게 흥미로운 로컬 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": "깐차나부리",
-        "price": null,
-        "location_google_map_query": "깐차나부리"
-      },
+      "event_info": "{'date': None, 'location': '깐차나부리', 'price': None, 'location_google_map_query': '깐차나부리'}",
       "references": [
         {
           "title": "Sabeeda opens Tai Song Dam cultural festival celebrating traditional rice harvest customs in Kanchanaburi - Pattaya Mail",
@@ -21555,6 +21544,58 @@
       ],
       "collected_at": "21:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObTRMeGk4ZmhiQVlNNTN3eGJYR1NMV0ZfMi1GaWpYeWxnYnpaWHFPY2RZWG9zMl94NnhoeUZNZENNNk51bHVBZ3hKZnY5Z1E2UnBadnJkWTRVTk1Oc3V4LW84d09rd1ZrMWN6SGFtRnNDREFEbEVnaEYwQS15ZTBJMmZ5YjR5THhYbFRFcC1WNGtqckItaG9hY24yZ25sS2duTUJKTVJOSTNUTm51bVVSTkJzT2RIV1lqeXFrZi0ycjVVUno1MkhzTDFld1FiN2w2NUo5VlZQbnRlQ01Xa3FUbEswYjh6aHhx?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란, 미국의 공격에 대한 보복 권리 주장",
+      "summary": "- 이란 정부는 미국의 공격에 대한 보복 권리를 주장하며 긴장 고조.\n- 대통령의 사과에도 불구하고, 미국 기지로부터의 공격에 단호히 대응할 것임을 강조.\n- 이란은 주변국과의 관계를 중요시하지만, 자국 방어 권리는 포기하지 않겠다고 밝힘.",
+      "full_translated": "이란 정부는 미국의 공격에 대한 보복 권리를 여전히 가지고 있다고 확인했습니다. 이는 이란 대통령이 이전에 공격으로 피해를 입은 주변국에 사과했음에도 불구하고 나온 입장입니다. 2569년 3월 7일, 이란 정부는 중동 지역 내 미국 기지로부터의 어떠한 공격에도 단호하게 대응할 것이라고 발표했습니다. 이는 마수드 페세치키안 이란 대통령이 주변국에 사과하고, 이란이 먼저 공격받지 않는 한 공격을 중단하겠다고 밝힌 이후에 나온 것입니다. \n\n몇 시간 후, 이란 대통령실 부실장은 도널드 트럼프 미국 대통령이 이란이 주변국에 '굴복'했다는 증거라고 주장한 페세치키안 대통령의 발언에 대한 '설명'을 발표했습니다. 이란 대통령실 부실장은 “우리는 미국 기지로부터의 어떠한 공격에도 단호하게 대응할 것입니다. 페세치키안 대통령의 메시지는 만약 이 지역 국가들이 우리를 공격하는 데 미국과 협력하지 않는다면, 우리는 그들을 공격하지 않을 것이라는 점을 분명히 합니다.”라고 밝혔습니다. \n\n페세치키안 대통령 또한 자신의 이전 발언을 해명하려는 듯 X에 이란은 항상 주변 국가들과 긴밀한 관계를 추구해 왔지만, 이는 미국과 이스라엘의 공격으로부터 자신을 방어할 이란의 합법적인 권리를 무효화하지 않는다고 강조하는 글을 게시했습니다. 페세치키안은 “우리는 우리나라를 보호하기 위해 삶의 마지막 순간까지 맞서 싸울 것입니다. 우리는 우호적인 주변 국가를 공격하지 않지만, 이 지역 내 미국 기지, 시설, 군사 자산을 목표로 삼고 있습니다.”라고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국과 직접적인 관련은 없으나, 중동 지역 긴장 고조는 국제 정세에 영향을 미칠 수 있으므로 낮은 점수로 포함. 여행객 안전에 대한 직접적인 위협은 현재로서는 없음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านลั่น ยังมีสิทธิ์โจมตีตอบโต้ หลัง ปธน.ขอโทษเพื่อนบ้าน",
+          "url": "https://www.thairath.co.th/news/foreign/2918534",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdbwoRXoZKwS.jpg"
+        }
+      ],
+      "collected_at": "22:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdbwoRXoZKwS.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "트럼프, 이란에 대한 강력한 공격 위협",
+      "summary": "- 도널드 트럼프 미국 대통령이 이란에 대한 강력한 공격을 예고했습니다.\n- 이란의 '끔찍한 행동'에 대한 대응으로 새로운 목표물을 고려 중이라고 밝혔습니다.\n- 과거 이란 대통령의 발언을 인용하며, 미국의 공격으로 이란이 약화되었다고 주장했습니다.",
+      "full_translated": "도널드 트럼프 대통령이 이란에 대한 공격을 예고하며 긴장을 고조시키고 있습니다. 그는 Truth Social에 올린 글에서 '오늘 이란은 강력한 공격을 받을 것'이라며, 이전에는 목표로 삼지 않았던 새로운 목표물들을 고려하고 있다고 밝혔습니다. 트럼프 대통령은 이란의 '끔찍한 행동'에 대한 대응이라고 설명했습니다.\n\n또한 트럼프 대통령은 과거 이란 대통령의 발언을 인용하며, 그가 주변 국가에 사과하고 더 이상 공격하지 않겠다고 약속한 것은 미국의 끊임없는 공격 때문이라고 주장했습니다. 그는 이란이 더 이상 '중동의 깡패'가 아닌 '중동의 패배자'가 되었다고 덧붙였습니다.\n\n트럼프 대통령의 이러한 발언은 이란과의 관계가 더욱 악화될 수 있음을 시사하며, 중동 지역의 불안정성을 증폭시킬 수 있다는 우려를 낳고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 여행에는 직접적인 영향이 없다고 판단됨. 국제 정치 뉴스.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "โดนัลด์ ทรัมป์ ขู่ลั่น วันนี้อิหร่านจะถูกโจมตีอย่างหนัก ชี้กำลังหาเป้าหมายใหม่",
+          "url": "https://www.thairath.co.th/news/foreign/2918536",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdm6zfQm4Nlk.jpg"
+        }
+      ],
+      "collected_at": "22:15",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdm6zfQm4Nlk.jpg",
       "date": "2026-03-07"
     }
   ]
