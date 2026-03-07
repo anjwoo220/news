@@ -21333,14 +21333,9 @@
       "summary": "- 파탈룽 경찰이 마약 및 무기 소지 혐의로 한 남성을 체포했습니다.\n- 남성의 집 주방에서 M67 수류탄이 발견되어 가족의 안전을 위협했습니다.\n- 경찰은 추가적인 마약 네트워크 연루 여부를 조사 중입니다.",
       "full_translated": "파탈룽 경찰은 '파본의 젊은이'를 급습하여 야바(필로폰)와 총기를 압수하고 주방에서 M67 수류탄을 숨긴 것을 발견했습니다. 2069년 3월 7일, 파탈룽 지방 경찰 부국장 겸 마약 진압반 반장인 위랏 친무앙 경찰 중령은 경찰 병력과 파본 경찰서와 합동으로 41세의 타농 또는 푸이 마니랏을 코크 트라이 구역 5번지에 있는 친구 집에서 체포했습니다. 야바 2봉지, 총 131정, .357 구경 권총 1정, 탄창에 탄환 2발 장전, 검은색 천 권총집 1개. 타농은 마약과 총기가 자신의 것이라고 자백했습니다. 그는 사건이 발생한 집에서 친구를 만나러 왔고, 친구는 자신이 마약과 총기를 소지하고 있다는 사실을 몰랐다고 말했습니다. 이후 경찰은 타농의 거주지인 파탈룽 주 코크 트라이 구역에 대한 수색을 확대했습니다. 그는 아내와 3세 아들과 함께 살고 있었습니다. 집 안에서 경찰은 M67 파편 수류탄 1개를 발견했습니다. 수류탄은 스테인리스 스틸 컵 안에 숨겨져 부엌 구석 바닥에 놓여 있었습니다. 집 안에 어린 아이가 있었음에도 불구하고 말입니다. 또한 마약 네트워크를 추가로 조사하기 위해 휴대폰 1대도 압수했습니다. 초기 심문에서 타농은 발견된 야바를 약 2일 전에 200정을 2,700바트에 구입하여 사용했다고 자백했습니다. 총기는 약 3개월 전에 55,000바트에 구입했으며 자신과 재산을 보호하기 위한 것이라고 주장했습니다. 수류탄은 약 6개월 전에 1,000바트에 구입하여 집 부엌에 숨겨두었습니다. 그러나 초기 단계에서 경찰은...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 범죄 관련 소식으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있다고 판단. 다만, 사건이 특정 지역에 한정되어 있고 여행객을 직접적인 대상으로 한 범죄는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "파탈룽 주, 파본 지역",
-        "price": null,
-        "location_google_map_query": "파탈룽 파본"
-      },
+      "event_info": "{'date': None, 'location': '파탈룽 주, 파본 지역', 'price': None, 'location_google_map_query': '파탈룽 파본'}",
       "references": [
         {
           "title": "ตำรวจบุกจับ “หนุ่มป่าบอน” ยึดยาบ้า–ปืน ซ่อน “ลูกระเบิด M67” ไว้ในห้องครัว",
@@ -21351,21 +21346,18 @@
       ],
       "collected_at": "20:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOzbrepdEF7fP.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/crime/2918528",
+      "source": ""
     },
     {
       "title": "태국, 미국-이란 긴장 고조 속 새 정부 구성 압박 직면",
       "summary": "- 미국-이란 갈등이 태국에 새로운 도전 과제를 던짐.\n- 아누틴 총리에게 새 정부 구성을 서두르라는 압력이 가중.\n- 지정학적 위기가 태국 경제 및 안보에 미칠 영향에 대한 우려 제기.",
       "full_translated": "Anutin urged to press ahead with new government as US Iran war throws up new challenges for Thailand&nbsp;&nbsp;Thai Examiner",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "지정학적 긴장이 태국 경제에 미치는 간접적 영향 고려. 직접적인 위협은 아니나 상황 주시 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Anutin urged to press ahead with new government as US Iran war throws up new challenges for Thailand - Thai Examiner",
@@ -21376,21 +21368,18 @@
       ],
       "collected_at": "20:14",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQl8zTnlTUmtpNUt1MnVYYTBGOUo4dXNGeDllWGs3YWJpd20tcFROcDBQX0ZpN3BXSkFhdWIxa1AxVGpiY21Wam11QW1ZNWtKRF9EZEdFMkFHMlluRHVFWks3V0UxVFlncGFiWUQwSk40T3V4cllsWWVBYnl0V1ZVaGF3aDlrVlQwZ3ZWMXgtUTRZdzVreFlmRjlVNy1LQmlHU2k5UGR4U0N1YURjN09VV0lzSlVLWnFmMnNCOVpCWVpwNlNaZUZGTUF2ckl5LTJyTkJNZ1ViSE5ELTVoT2NwRE1oWXdNR3BRRUwtVEhTb2RpMENQSWpEYQ?oc=5",
+      "source": ""
     },
     {
       "title": "명문고 입시, 시험장 앞 '돈 버리기' 논란 - 학교 측 해명",
       "summary": "- 명문고 입시 시험장에서 돈을 버리는 행위가 발생하여 논란이 됨.\n- 시험장 측은 사전에 소지품 보관 장소를 마련했다고 해명.\n- 학생들의 행동에 대한 비판적인 시각이 제기됨.",
       "full_translated": "명문고 입시 시험장 앞에서 돈을 버리는 '드라마'에 대한 또 다른 시각. 시험장 측은 이미 문제 해결 방법을 마련했다고 지적했습니다. 소셜 미디어에서 4학년 입학 시험장 '트리암 우돔 수크사 학교'에서 돈을 시험장에 가져갈 수 없다는 사진이 공유되면서 논란이 일고 있습니다. 돈이 바닥에 놓여 있거나 쓰레기통에 있는 모습이 보입니다. (4학년 입학 시험장 '트리암 우돔 수크사 학교'에서 돈을 시험장에 가져갈 수 없다는 사진 공유). 최근 페이스북 Drama-addict는 다음과 같이 게시했습니다. '페이지 팔로워가 알려주셨습니다. 시험장 앞 돈 버리기 문제는 시험장에서 사전에 발표했을 뿐만 아니라, 소지품 보관 장소도 마련했습니다. 결론적으로 시험장 앞 돈 버리기는 시험장의 문제가 아닙니다. 시험장은 사전에 발표하고 문제 해결 방법을 마련했습니다. 문제는 왜 아이들이 그런 선택을 했느냐는 것입니다.' Drama-addict 페이스북에 감사드립니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 사회의 단편적인 모습을 보여주는 흥미로운 기사.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฟังอีกมุม \"ดราม่าทิ้งเงิน\" หน้าสนามสอบเข้า ม.4 \"โรงเรียนเตรียมอุดมศึกษา\"",
@@ -21401,6 +21390,58 @@
       ],
       "collected_at": "20:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GG3pEkfT5Tnd3.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/society/2918488",
+      "source": ""
+    },
+    {
+      "title": "유명 배우 손자, 친구들 앞에서 익사 사고 발생",
+      "summary": "- 유명 배우 손폰 차트리의 손자가 친구들과 물놀이 중 익사.",
+      "full_translated": "유명 배우 손폰 차트리의 손자인 12세 소년이 친구들과 함께 물놀이를 하던 중 익사하는 사고가 발생했습니다. 사고는 아유타야 지역의 한 운하에서 발생했으며, 소년은 친구들과 함께 수영을 하던 중 급류에 휩쓸려 실종되었습니다. 구조대가 수색 작업을 벌이고 있지만 아직 소년을 찾지 못하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 안전 관련 사고 발생. 현재 수색 중.",
+      "event_info": {
+        "date": "2024-03-07",
+        "location": "아유타야",
+        "price": null,
+        "location_google_map_query": "아유타야"
+      },
+      "references": [
+        {
+          "title": "เร่งค้นหา “น้องเก้า” วัย 12 ปี เหลนของอดีตพระเอกชื่อดัง จมน้ำหายไปต่อหน้าเพื่อน",
+          "url": "https://www.thairath.co.th/news/local/2918529",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOzUCT9ilsU1O.jpg"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOzUCT9ilsU1O.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "한국, 개선된 여행 서비스와 비자 면제 확대를 통해 중국 관광 특수 2025년 견인",
+      "summary": "- 한국이 러시아, 일본, 싱가포르, 아르헨티나, 태국 등과 함께 2025년 중국의 관광 특수를 견인할 것으로 예상됨.\n- 개선된 여행 서비스, 비자 면제 확대, 관광객 지출 증가가 주요 요인임.\n- Travel And Tour World에 따르면, 이러한 변화는 관광 산업에 긍정적인 영향을 미칠 것으로 전망됨.",
+      "full_translated": "대한민국은 러시아, 일본, 싱가포르, 아르헨티나, 태국 등과 함께 개선된 여행 서비스, 비자 면제 확대, 전례 없는 관광객 지출 증가를 활용하여 2025년 중국의 특별한 관광 붐을 일으키고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 관광객 증가로 인한 한국 여행 시장에 미치는 영향 분석. 비자 정책 및 여행 서비스 개선은 여행객 유치에 긍정적.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Russia, Japan, Singapore, Argentina, Thailand, and More in Fueling China’s Exceptional Tourism Boom in 2025, Leveraging Improved Travel Services, Expanding Visa-Free Access, and Unprecedented Increases in Tourist Spending - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTTNTNmZwMUNJeFBGRElQOWRnbm9pcWdXRkxFZVA1aUxQbTc3WDMtbXh2U0RVRXVheXdmZTdtNzBHOXdHVUFjN0s5MkxzUjNWX1MxYl9jN2ZIXzRqcm95SzVkN3NpS0dUTy1ua0pDVmtuZTE5S1NucDlnRG55ZndfRWNjMi13aEJzXzFQZDd6aHJRNF9wdVhLS1YycWlYS2k2VnhZanRiMm1udFdhbDF4S3NJQXZmSW9VTWR6b2JxZ29rM2ZiaGJiSHR1WElfTWMyWEFvWERlWkFfcGtmMF9UMkI1QXhBUWItVnNVVzJJOEpWUVpzelVaQ0hHdHVyRFlIRDlqV0R0UUxjUEU0WWs4MmlzMF81bTlXQ04ySVFoRlltQk9MMW1wVDVVa2Z3SkZjT1UySEpOZnRJUlVOTnZmOVpCaEo0N0ptalJLUjExSUs?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
   ]
