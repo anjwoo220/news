@@ -20915,14 +20915,9 @@
       "summary": "- 파타야에서 태국 관광버스 사고가 계속 발생하여 관광객들의 안전에 대한 우려가 커지고 있습니다.\n- 최근 사고로 인해 파타야를 방문하는 관광객들이 불안감을 느끼고 있습니다.\n- 당국은 관광버스 안전 점검을 강화하고 사고 예방 대책 마련에 힘쓰고 있습니다.",
       "full_translated": "파타야 관광객, 태국 관광버스 사고 지속에 불안감 고조 - 파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객 안전에 직접적인 영향을 미치는 사고 관련 뉴스이므로 점수 부여. 기존에 유사한 사고 관련 뉴스가 있었지만, 지속적인 발생은 새로운 불안감을 야기하므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Pattaya tourists shaken as Thai tour bus accidents continue to raise safety concerns - Pattaya Mail",
@@ -20933,21 +20928,18 @@
       ],
       "collected_at": "17:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGRJU2x5LUV2WVdZd1ItdEE4NzJ3Zk0yMS1meWFWc3pVWE9zLVIwYS11YldIbkdZZjVfcXNnbnIwV3FGYmFReTZZOHBQTXd3S1l0QmdFZU5nR205eEpoQ3FONGpaT0JQRUpJY20ySHpYZzlmWHA3ZTB4Y3dDYTN0NWhtekJHZHV4QkRHYlJKWmtEOVdMZEpXR05SY0RCVU0wSXQ4UGVIMF8yTkp2SnZqd2hUaGwzNXc2ZXNCMnlPRGlGUQ?oc=5",
+      "source": ""
     },
     {
       "title": "중동 긴장 고조, 태국 관광객 감소 및 GDP에 영향 가능성 - 방글라데시 모니터",
       "summary": "- 중동 지역의 긴장 상태가 태국 관광 산업에 부정적인 영향을 미칠 수 있다는 분석이 제기됨.\n- 관광객 감소는 태국 GDP에도 부담으로 작용할 가능성이 있음.\n- 관련 상황을 예의주시하며, 필요한 경우 여행 관련 정보를 업데이트할 예정.",
       "full_translated": "중동 긴장 고조가 태국 관광객 감소를 초래하고 GDP에 부담을 줄 수 있습니다. - 방글라데시 모니터",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업에 잠재적인 영향을 미칠 수 있는 요인이므로 정보 제공. 다만, 현재 시점에서는 '가능성'에 대한 언급이므로 6점 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East tensions could slash tourist arrivals to Thailand, weigh on GDP - The Bangladesh Monitor",
@@ -20958,21 +20950,18 @@
       ],
       "collected_at": "17:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjFBMDlWVmdYSG56NXFscE1Ea3BKUzkzaV9wZk9tVkxTNkRGQW1mTW96c3hLUDN4NkVLUUFwWGUtdzlSUFVfalJkNl8xZFMteHVScm5lWGotVHVubnA0QlQ4cTRVOFVrWEV2b040RXl3SVFJMDMzMk9qUVFBcG1oemhZX3k4ck5aWmZJSndmV2lzdWNTcmVwR2FuZENadFAwYUtnbjlYcWoxUlVfUm1wd09RSTA2QjY0ZlZlS2oxU3pyUQ?oc=5",
+      "source": ""
     },
     {
       "title": "연료 가격 급등, 트랏 관광 산업 위협",
       "summary": "- 트랏 관광 산업이 연료 가격 급등으로 어려움을 겪고 있습니다.\n- 운송 비용 증가로 관광객 유치에 차질이 예상됩니다.\n- 정부의 개입과 지원이 필요한 상황입니다.",
       "full_translated": "연료 가격 급등이 트랏 관광 산업을 위협하고 있습니다. 운송 비용의 증가는 관광객 유치에 부정적인 영향을 미칠 수 있으며, 지역 경제에 타격을 줄 수 있습니다. 트랏의 관광 사업자들은 정부의 지원을 촉구하고 있으며, 연료 가격 안정화를 위한 정책 마련이 시급한 상황입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "연료 가격 상승은 교통비 증가로 이어져 여행 비용에 영향을 줄 수 있으며, 관광객 감소로 이어질 수 있습니다. 따라서 여행 관련 경제 뉴스에 해당합니다.",
-      "event_info": {
-        "date": null,
-        "location": "Trat",
-        "price": null,
-        "location_google_map_query": "Trat, Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Trat', 'price': None, 'location_google_map_query': 'Trat, Thailand'}",
       "references": [
         {
           "title": "Fuel price surge threatens Trat tourism industry - Bangkok Post",
@@ -20983,21 +20972,18 @@
       ],
       "collected_at": "17:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZm5XSHJCUkZiRG1USk51REN0ZTdPbk5GRld4Ny1FV0VEM2t0Q3FOUVR5SzhVVjFHYWg1alpwa0xCX0psenBVTWhmVnhGalpISmdGLVg3eUFQajQ2d2tMVmgzOUtQMzVZeGxzQ2tzb3BfalVHZjd1eFRZRmh1WnhUOEpfMldFRDkzb2k1Rm5BenZwRVJvc2tlRTc2RnJ6VGVUTnFJ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 파타야 관광 지속에 따른 연료 안정성 확보",
       "summary": "- 태국 정부는 파타야 관광 산업의 지속적인 발전을 위해 연료 공급의 안정성을 보장합니다.\n- 이는 관광객들에게 불편을 초래하지 않고 원활한 여행을 지원하기 위함입니다.\n- 파타야는 독일 관광객 증가 추세에 힘입어 ITB 베를린 2026에 참가하여 관광객 유치에 적극적으로 나서고 있습니다.",
       "full_translated": "태국은 파타야 관광이 차질 없이 지속될 수 있도록 연료 안정성을 보장합니다. &nbsp;&nbsp;파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 여행 시 연료 부족으로 인한 불편을 덜어줄 수 있다는 점에서 여행 편의성에 약간의 영향이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand assures fuel stability as Pattaya tourism continues without disruption - Pattaya Mail",
@@ -21008,21 +20994,18 @@
       ],
       "collected_at": "17:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE83YjlKUGFGRmZCSWJxeUU5SWtBcVl3MlZBd0JzYjVFT2NWb09ZM3JvVUpMUGpFLWRnUWNqcGpHUmZmR1ZLN0NzOUpsNWJRYnFsalB2QUdYS1ZGYnRySWlaTS1tOURLTDlkRk9sME9PU3Z5M3dkbGtTU2dIRF9QdVNIX1VMUkN3Skg5TVJvLUpGRXAxN3d2YzJYOUhyOXNIdGhTQlRLQnhPeXpLN2JTVER6Y1lVbzYwWUhZ?oc=5",
+      "source": ""
     },
     {
       "title": "푸미차이 당, '말하고 실천 플러스' 슬로건 아래 부리람에서 세미나 개최",
       "summary": "- 품 짜이 타이 당 소속 국회의원 192명이 부리람에서 세미나를 개최합니다.\n- '말하고 실천 플러스'라는 슬로건 아래 당의 방향성을 설정하고 발전을 모색합니다.\n- 쌈 완 깐 진행되며 언론에는 일부만 공개됩니다.",
       "full_translated": "3월 7일, 2026년 - 총선에서 승리한 후, '말하고 실천 플러스'라는 슬로건 아래 품짜이타이당 소속 국회의원 192명이 부리람의 창 인터내셔널 서킷에서 열리는 세미나에 속속 도착하여 당의 방향을 설정하고 발전을 모색합니다. 오후 4시부터 국회의원(쏘쏘.)들이 등록을 위해 입장하기 시작했으며, 3월 7일부터 9일까지 '말하고 실천 플러스'라는 슬로건 아래 품짜이타이당의 국회의원, 임원 및 당원들의 공식적인 첫 세미나가 열립니다. 3일 동안 언론의 취재는 일부 시간대에만 허용됩니다. 첫날에는 오후 4시 30분부터 참가자 등록이 시작되고 오후 5시부터 활동이 시작됩니다. 첫 활동은 어색함을 푸는 활동이며, 저녁 식사와 친목 도모가 이어집니다. 첫날의 모든 활동은 언론의 촬영이 금지되며, 지정된 암호가 있는 사람만 행사장 내부에 들어갈 수 있습니다. 3월 8일에는 아누틴 차른비라쿨 품짜이타이당 대표가 '192표 해독: 기회와 도전'이라는 주제로 강연을 진행하며, 이는 총선 후 당의 방향 설정과 발전에 대한 결론이 될 것입니다. 이 시간에는 언론에 일부 촬영 기회가 주어집니다. 이어서 차이차녹 칫촉 품짜이타이당 사무총장이 Roadmap 2026 '9개월의 변화'라는 주제로 강연합니다. 오후에는 1팀, 1방향, 같은 마음, 같은 목표 아래 단결과 화합을 구축하는 활동이 진행됩니다. 기존 국회의원과 신규 국회의원이 하나가 되어 승리를 향해 나아갑니다. 또한 다양한 주제에 따라 그룹을 나누어 워크숍이 진행될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없음. 당의 정책 방향이 향후 관광 정책에 간접적으로 영향을 줄 수 있으나, 현재로서는 낮은 점수.",
-      "event_info": {
-        "date": "2026-03-07",
-        "location": "창 인터내셔널 서킷, 부리람",
-        "price": "알 수 없음",
-        "location_google_map_query": "Chang International Circuit Buriram"
-      },
+      "event_info": "{'date': '2026-03-07', 'location': '창 인터내셔널 서킷, 부리람', 'price': '알 수 없음', 'location_google_map_query': 'Chang International Circuit Buriram'}",
       "references": [
         {
           "title": "เริ่มแล้ว 192 สส.ภูมิใจไทย ทยอยเข้าสัมมนาที่บุรีรัมย์ ภายใต้สโลแกน “พูดแล้วทำพลัส”",
@@ -21033,6 +21016,133 @@
       ],
       "collected_at": "17:46",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPOZgpYoup9lo.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/politic/2918519",
+      "source": ""
+    },
+    {
+      "title": "태국 전역에 여름 폭풍 예보, 파타야에는 강풍과 번개 가능성 - 파타야 메일",
+      "summary": "- 태국 전역에 여름 폭풍이 예상됩니다.\n- 파타야에는 강풍과 번개가 칠 수 있습니다.\n- 여행 시 날씨 변화에 유의하십시오.",
+      "full_translated": "태국 전역에 여름 폭풍이 예보되었으며, 파타야에서는 강풍과 번개가 칠 가능성이 있습니다. 파타야 메일.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야를 포함한 태국 전역의 날씨 예보 업데이트. 여행객 안전에 영향을 줄 수 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Summer storms forecast across Thailand, gusty winds and lightning possible in Pattaya - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmw3Z0F1YkVrclAtbHcxUWJKbVRkTEpoclFBVkt5UVpiNEdfdEdWb1JXX1kxZmR3Z0ozRkdMa1ZFYWxrb3dPVG9naWpFMG5RLXk1Tko4cjZvUEtwSVRYamJoY3hYQVRKX1JuZmN3QTE4a1pxOExOSkx0NFRmdkUtRlpKbVphU2hJSW5vajhrcnNpc2I5cFIwU0xiaEFja3hZaExCX0lwbURaUk1xXzdiTGJKeEN3UGUxai1TbXRpSlhTZw?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:13",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "오토바이 운전자 폭행 사건: 용의자 자수, 약물 양성 반응",
+      "summary": "- 치앙마이에서 오토바이 운전자를 폭행한 두 남성이 자수했습니다.\n- 경찰 조사 결과, 이들은 약물 양성 반응을 보였습니다.\n- 피해자는 병원으로 이송되었으며, 경찰은 정확한 사건 경위를 조사 중입니다.",
+      "full_translated": "치앙마이에서 오토바이 운전자를 폭행하여 중상을 입힌 두 남성이 자수했습니다. 경찰은 이들의 소변 검사 결과 약물 양성 반응을 확인했습니다. 사건은 2024년 3월 7일 13시 30분경, 30세의 세타삿과 38세의 완롭이 변호사와 함께 치앙마이 경찰서에 자수하면서 시작되었습니다. 이들은 41세의 위라윳을 폭행한 혐의를 받고 있습니다. 사건은 매히아 교차로 인근 도로에서 발생했으며, 선행을 베푼 시민이 영상을 촬영하여 소셜 미디어에 게시하면서 논란이 일었습니다. 피의자 완롭은 경찰 조사에서 동생과 함께 시내에서 오토바이를 타고 가던 중 신호등을 건너 두 대의 차량 사이로 지나가게 되었다고 주장했습니다. 이후 오토바이 운전자가 자신의 오토바이를 스치듯 지나가 왼쪽 차량과 충돌할 뻔했습니다. 이후 한 백화점 앞에서 멈춰 섰고, 오토바이 운전자가 뒤에서 자신의 오토바이를 들이받았다고 주장했습니다. 이에 동생인 세타삿이 분노하여 오토바이 운전자를 폭행했으며, 처음에는 말리려 했으나 싸움이 계속되자 자신도 한 차례 폭행했다고 진술했습니다. 그는 자신의 행동에 대해 사과했습니다. 경찰은 피의자들을 상대로 추가 조사를 진행하고 있습니다. 치앙마이의 많은 오토바이 운전자들이 경찰서에 모여 사건의 진행 상황을 지켜보고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 대상 범죄 가능성 및 안전 문제 관련. 폭행 사건 발생 및 용의자 검거 소식은 여행객 안전에 대한 우려를 야기할 수 있으므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이",
+        "price": null,
+        "location_google_map_query": "치앙마이"
+      },
+      "references": [
+        {
+          "title": "สองหนุ่มรุมกระทืบ \"ไรเดอร์\" สลบกลางถนน เข้ามอบตัวแล้ว ตรวจปัสสาวะพบมีสารเสพติด",
+          "url": "https://www.thairath.co.th/news/local/2918520",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0FAFjT0ZG4w.jpg"
+        }
+      ],
+      "collected_at": "18:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0FAFjT0ZG4w.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "3월 7일 태국 유가 정보: 휘발유, 가솔린, 디젤 가격 총정리",
+      "summary": "- 3월 7일, 태국 내 휘발유, 가솔린, 디젤 가격 업데이트.\n- PTT, Bangchak 등 주요 주유소의 리터당 가격 정보 제공.\n- 하이 프리미엄 디젤 S는 45.64 바트/리터.",
+      "full_translated": "3월 7일 태국 내 휘발유, 가솔린, 디젤 가격이 업데이트되었습니다. Bangchak, PTT, Shell, PT, Caltex 등 주요 주유소의 최신 리터당 가격 정보는 다음과 같습니다.\n\n* 하이 프리미엄 디젤 S: 45.64 바트/리터\n* 하이 디젤 S: 29.94 바트/리터\n* 하이 프리미엄 97: 49.54 바트/리터\n* 가솔린 E85S EVO: 26.29 바트/리터\n* 가솔린 E20S EVO: 28.34 바트/리터\n* 가솔린 91S EV: 30.18 바트/리터\n* 가솔린 95S EVO: 30.55 바트/리터\n* 디젤: 29.94 바트/리터\n* 가솔린 E85: 26.29 바트/리터\n* 가솔린 E20: 28.34 바트/리터\n* 가솔린 91: 30.18 바트/리터\n* 가솔린 95: 30.55 바트/리터\n* 휘발유: 39.14 바트/리터",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "렌터카 이용 여행객에게 유용한 정보이며, 매일 업데이트되는 정보이므로 포함.",
+      "event_info": {
+        "date": "2069-03-07",
+        "location": "태국 전역 주유소",
+        "price": "기사 참조",
+        "location_google_map_query": "태국 주유소"
+      },
+      "references": [
+        {
+          "title": "ราคาน้ำมันวันนี้ 7 มีนาคม 2569 เช็กราคาน้ำมันทุกชนิด ล่าสุดลิตรละกี่บาทแล้ว",
+          "url": "https://www.thairath.co.th/news/society/2918521",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0A9yF0WoPSY.jpg"
+        }
+      ],
+      "collected_at": "18:13",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0A9yF0WoPSY.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국, 무 코 란타 국립공원의 은둔 게 보존 프로젝트로 그린 데스티네이션 상 수상",
+      "summary": "- 태국이 무 코 란타 국립공원의 은둔 게 보존 프로젝트로 그린 데스티네이션 상을 수상했습니다.\n- 이 상은 지속 가능한 관광 개발에 기여한 노력을 인정받은 결과입니다.\n- 해당 프로젝트는 생태계 보존과 지역 사회 참여를 통해 긍정적인 영향을 미치고 있습니다.",
+      "full_translated": "태국이 무 코 란타 국립공원의 은둔 게 보존 프로젝트로 그린 데스티네이션 상을 수상했습니다. Pattaya Mail",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 산업의 긍정적인 발전 소식이며, 지속 가능한 관광에 대한 관심을 높이는 데 기여합니다. 여행지 선택에 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "무 코 란타 국립공원",
+        "price": null,
+        "location_google_map_query": "무 코 란타 국립공원"
+      },
+      "references": [
+        {
+          "title": "Thailand wins Green Destinations Award for hermit crab conservation project in Mu Ko Lanta National Park - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaU0zNWNkczNRbmwybEl6LV9HTHR0WE5ybEwyUjZRQlFBN2lNTXNjQ3NrWWRJd0NtRjg3R0R3bTVnWjVpSVhOdlJOVldKRk45YWR2VHBRVVJhbHhZbUpTRlBjUmotQnRsSjJzdWJCUWplU3FjeW5wZjBWYnlKaDA5emJYb2k5d2lzcTFXdFRJRjVYaHQ3MzUzV0FydDFyWXlKVGFoMHczWmVDcEVtSkFKd1pwcGk1Y3BIa0paOG1vczFkdlBlZzdPaWpsd2ZkbGF5bVV3dlA3ZjVRc3F4MnBVQVNncFAxalk?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:13",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "우즈베키스탄, 태국으로의 여행 증가 추세 - Trend News Agency",
+      "summary": "- 우즈베키스탄에서 태국으로의 여행객 수가 증가하고 있습니다.\n- 자세한 내용은 Trend News Agency에서 확인하세요.\n- 이 기사는 여행객 증가 추세에 대한 간략한 정보를 제공합니다.",
+      "full_translated": "우즈베키스탄에서 태국으로의 여행 증가 추세\nTrend News Agency",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행객 증가 추세는 여행 관련 정보로서의 가치가 있으나, 현재 시점에서는 일반적인 정보에 해당하므로 중간 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Uzbekistan sees growing travel flow to Thailand - Trend News Agency",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fbklKbTlpLW1lMDhPWmdzWWoyVU4yaHFGc2FtdmNXVHNBSV9SUktaNmNCcFFRRHFOLTFzbU9EUWRjclNqbF8xdWw5UjZmak16X09taA?oc=5",
+          "source": "Trend News Agency",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:13",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
   ]
