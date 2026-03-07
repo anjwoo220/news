@@ -20585,14 +20585,9 @@
       "summary": "- 한국이 일본, 미국, 태국 등과 함께 중국의 무비자 쇼핑 관광 붐에 합류했습니다.\n- 에어차이나와 중국동방항공이 이러한 추세를 주도하고 있습니다.\n- 중국 관광이 활성화될 것으로 예상됩니다.",
       "full_translated": "Travel And Tour World에 따르면 한국은 일본, 미국, 태국, 말레이시아, 인도네시아, 싱가포르와 함께 에어차이나와 중국동방항공에 의해 촉발된 중국의 무비자 쇼핑 관광 붐에 여행객이 몰리면서 합류했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "한국인의 중국 여행 증가 가능성, 쇼핑 관광 정보 제공",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Joins Japan, the United States, Thailand, Malaysia, Indonesia, and Singapore as Travelers Surge to China in a Visa-Free Shopping Tourism Boom, Fueled by Air China and China Eastern - Travel And Tour World",
@@ -20603,21 +20598,18 @@
       ],
       "collected_at": "16:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNeGVrc3pkTklYWkx1R2gyaTFsQWtUM3VsMk9zc3BZeFp3QS03UUc2My0zLU01OTVLXzJYM1AyQXg0YkNIbklkemZxYTFtSENXWWx5dUxjX1dZQXBFMENQWjVXaWNydXBIdkh6allMYWJRWE5ZT1NyRHlIWEJMRldVQTVSVjNtUHpVd0oxZWRNQWZWOUdtOWlUWDMwQy0xcHU2YUljeWFOVWwyWk5PTGtMVFZmZ3ZFVlVsd2VFNHc5bUoyQmM4MndxWXMwLTdwamhjdlhLeDVZZVhJWExIRGFuLTlvczdnNlRMV3huQ0VzcXI5cWtKbDVnRWV5NGVfNWR1WkJnTWxHUlhjaFhsUjF3MVBwcV9zTWNFaHA1ZkpicHYyWFBYai1YdjBnazdZRmZjSXNsYnpqUTAxXzBCd0RCOUpObEdvaTFmM20xalhGVHFiekx3eEE?oc=5",
+      "source": ""
     },
     {
       "title": "중국 화장 대협곡 다리, 한국, 일본, 태국 관광객 몰려: 카타르 항공 및 캐세이퍼시픽, 관광 붐 수혜",
       "summary": "- 한국, 일본, 태국 관광객들이 중국 화장 대협곡 다리에 몰리면서 카타르 항공과 캐세이퍼시픽이 관광 붐의 수혜를 입고 있다.\n- 이 다리는 최근 몇 년 동안 중국에서 인기 있는 관광지가 되었다.\n- 관광객 증가는 항공사들의 수익 증가로 이어지고 있다.",
       "full_translated": "중국 화장 대협곡 다리, 한국, 일본, 태국 관광객 몰려: 카타르 항공 및 캐세이퍼시픽, 관광 붐 수혜\n\n여행 및 관광 월드",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광객의 해외 관광 트렌드 변화를 보여주며, 항공사 정보는 여행 계획에 참고가 될 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": "화장 대협곡 다리, 중국",
-        "price": null,
-        "location_google_map_query": "화장 대협곡 다리"
-      },
+      "event_info": "{'date': None, 'location': '화장 대협곡 다리, 중국', 'price': None, 'location_google_map_query': '화장 대협곡 다리'}",
       "references": [
         {
           "title": "South Korea, Japan, and Thailand Flock to China’s Huajiang Grand Canyon Bridge: How Qatar Airways & Cathay Pacific Are Benefiting from the Tourism Boom - Travel And Tour World",
@@ -20628,21 +20620,18 @@
       ],
       "collected_at": "16:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONTZVQ21KNWU0c0ZNbmZSUTdhS282ZlN5SVpCbnB0U21tUFRJR3BjWXo3bEdkQjE4ZmpyaTY5UjQtNEY1bjNWc3dtLU40ZlQ4VEllYXFoLUY2U0hDcEtMMDJTeDVmdjZuaExJd2pwT19SUTJwcE5BUjBQR21XYlgxb1JBUjYxalFmVVlYSVI3RkRkclJ1bnU1UzJsUjVmVHpzM0RLSzhfM3oxcUZPenR2NHhiSXlQRFpiZjVIRzRLczZvRnN4R1I2bE1UT2RjR3MydU56T1gzTExldm1qM1Uxa0NFNXkzTTY5aFVuNVhmSmpkLU9GWWFwbS1MbTZjZG9QUXYzb25JS0xmbGRwRHAwMXM3VW82TFJJRWViMUhmcw?oc=5",
+      "source": ""
     },
     {
       "title": "Z세대, 해변 휴가 대신 중국, 태국, 인도네시아, 일본 등 웰니스 관광 선호",
       "summary": "- Z세대가 해변 휴가 대신 웰니스 관광을 선택하는 추세가 중국, 태국, 인도네시아, 일본 등에서 두드러짐.\n- 웰니스 관광은 단순 휴식을 넘어 정신적, 육체적 건강을 증진하는 활동을 포함.\n- 이러한 변화는 여행 트렌드의 혁명을 예고하며, 관련 시장의 성장이 기대됨.",
       "full_translated": "Z세대와 그 이후 세대는 왜 중국, 태국, 인도네시아, 일본 등에서 해변 휴가를 버리고 웰니스 관광을 선택하는가: 차세대 여행 혁명이 시작되었습니다.\n\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행 트렌드 변화에 대한 정보로, 여행 계획 수립 시 참고할 만한 내용. Z세대 여행객에게 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Why Gen Z and Beyond Are Abandoning Beach Breaks for Wellness Tourism in China, Thailand, Indonesia, Japan and More: The Next Travel Revolution Is Here - Travel And Tour World",
@@ -20653,21 +20642,18 @@
       ],
       "collected_at": "16:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOY1pZVnJsYS0xdE5VLUNON01qalNSVC1HU0lHQzNOWDNnQ3hJYmpQem9XcDdROEJMdWNiNU1ZQzF1aEgwYW1TYlI1RHpyNDhmblctOUVxcy02eWFkNUpHX1dVSGlRMU00c0hNV3dablI5X1A2eUstSm5sckpONS05T3hhZkZWbUREeTlHWmlDWnJEbXFwYVhYT1FxMjdyNEY3UFpiUzN6VWRxRl9qNDZISEdrY29WcmFkU21HZnpNVTFCM0RtMkdVQXhBQVByU1A5TkZOelN3SnBCaGtmbVhTYlpGVTFvbkYxX3lTNXNBUThiTTVqcjFBOEF0UFU5b0ItaUMxVzU3RkhhdWNnSmtpakJXVEkzcGExXzNOTVllVld4Zw?oc=5",
+      "source": ""
     },
     {
       "title": "일본, 태국 등 ASEAN 국가들과 함께 지속 가능한 관광 주도",
       "summary": "- 일본이 태국, 베트남, 말레이시아, 인도네시아, 싱가포르, 필리핀과 함께 지속 가능한 관광을 주도합니다.\n- ASEAN-일본 이니셔티브는 친환경 성장을 통해 항공 및 호텔 산업을 혁신합니다.\n- 이 협력은 아세안 지역 관광 산업의 지속 가능성을 높이는 데 기여할 것으로 기대됩니다.",
       "full_translated": "일본이 태국, 베트남, 말레이시아, 인도네시아, 싱가포르, 필리핀과 함께 지속 가능한 관광을 주도합니다: ASEAN-일본 이니셔티브는 친환경 성장을 통해 항공 및 호텔 산업을 혁신합니다!",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "ASEAN 국가들의 지속 가능한 관광에 대한 협력 소식은 장기적으로 여행 환경에 긍정적인 영향을 미칠 수 있지만, 단기적인 여행 계획에는 큰 영향을 미치지 않으므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Japan Joins Thailand, Vietnam, Malaysia, Indonesia, Singapore, and the Philippines to Lead the Charge in Sustainable Tourism: ASEAN-Japan Initiative Transforms Airline and Hotel Industries with Eco-Friendly Growth! - Travel And Tour World",
@@ -20678,21 +20664,18 @@
       ],
       "collected_at": "16:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUlWZFBwNnJ0YkkzTVdoZzRjLVQwOTRuSWN6YTZhWDNXTXhsN3lTM0RBZ3B6WnpDdXZZR2lRM2FGUzIwWVZyR1JobF8yRjNlaFZxb0FHOXdZVDBHTE9NTFdESXRvWDdRYUdlQi04NGtwNDJtZ3c5Y3RWMXdFMTdqelh0Y1pNZjd2UEFBcng3eGNqTjVKbVRyMTBoU2UtX051VmEwUUotOFA1YnItaHN3RHllOHBuMk04N0dVX0pLU3JiUE9teF9JWUtEajFNMnczdlFqNEJvazJQT1NWQzFqV3p6NTJBcF8zamhQUHJSODBLcGV1ZlRhMFg1RFMwY0FNQ0xNVUhkM1VTb21sVHk4TzItWVBSTWtPWTU4TXBZMVQyal9CdHJQQVNkVEljeTBMN3pBYl80amhOUGw2QU9UQ1lhbGFMUjJFaXh2VzRTUG03LWtqNDBValgxdmJrSzRh?oc=5",
+      "source": ""
     },
     {
       "title": "태국 미식 웰니스",
       "summary": "- 태국의 미식 경험과 웰빙을 결합한 여행 상품 소개.\n- 건강과 미식을 동시에 추구하는 여행 트렌드 반영.\n- 구체적인 상품이나 장소 정보는 기사에 명시되지 않음.",
       "full_translated": "태국 미식 웰니스 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "미식과 웰빙을 결합한 여행 트렌드를 소개하나, 여행객에게 직접적인 영향을 주는 정보는 부족함. 새로운 핫플레이스 정보나 특정 여행 상품 정보가 없어 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai gastronomic wellness - Travel And Tour World",
@@ -20703,6 +20686,133 @@
       ],
       "collected_at": "16:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJ1d3p2dE1KV3F4eE0zRWExb1pwOElkV3dBOFlnell2ZE9wTlJLT2I0RmZYU1ZvNkRMTFlNcE84ZUx1NFVEcW5GZmxZcFNWbjBnNDVXNnNBbUtVWHhtREF4a0tnMEw5eUw0WHlPNUExWHlhMEJNaHZ0V1RCVWlnWWlQUG4?oc=5",
+      "source": ""
+    },
+    {
+      "title": "동남아 2위 경제 대국, 관광 활성화를 위해 법 집행 개혁 촉구",
+      "summary": "- 태국이 관광 산업 부양을 위해 법 집행 개혁 압력을 받고 있음.\n- 부정부패 척결 및 투명성 강화를 통해 관광객 유치 노력 필요.\n- 법 개혁이 관광 산업에 미칠 긍정적 영향에 대한 기대.",
+      "full_translated": "동남아시아 2위의 경제 대국인 태국이 관광 산업 활성화를 위해 법 집행 개혁을 촉구받고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업 전반에 영향을 미칠 수 있는 법 집행 개혁 관련 뉴스. 단기적인 직접 영향은 적으나, 장기적인 관광 환경 개선에 기여 가능성 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Southeast Asia's 2nd largest economy urged to reform law enforcement to boost tourism - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT1JLQkROZWt2WEVJcUs0Q2hVZ3g0NFhuOHUxdTBTenFhWThKUHRtSDFWeUFLWHJhcUFwQ0QzR3JYNndMbFpINHBrRVN0YktBeWFmN3VqVDBIOVBPdmhBeVI1N3lQbTFsWnpleExqb1QwbktzemlhOWlUTWpscm9SbnFBOXRfWlJQb2Q4aHU2dl9YckNReUk5d2pCTjh2WTI5Si1Ub1A3ZUFuVWwweDV1dzBqM0c5MHMzcVZFaTBFeVpsVl9EQkh2alVtX2Z0TmVmSlNSOWdR?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "푸껫, 웰니스 관광 목적지로 부상",
+      "summary": "- 푸껫이 글로벌 웰니스 서밋 개최지로 선정되어 웰니스 관광 목적지로 주목받고 있습니다.\n- 2026년 서밋 개최를 통해 웰니스 분야의 선두 주자로 자리매김할 전망입니다.\n- 고급 웰니스 시설과 프로그램이 글로벌 리더들의 관심을 끌고 있습니다.",
+      "full_translated": "푸껫에서 경험하는 웰빙의 미래: 글로벌 리더를 위한 최고의 웰니스 목적지\n\n푸껫이 2026년 세계 웰니스 서밋을 개최하며 글로벌 웰니스 스포트라이트를 받고 있습니다. 태국이 랜드마크인 제20회 세계 웰니스 서밋 2026을 개최합니다. 푸껫은 웰니스 관광의 미래를 경험할 수 있는 최고의 장소입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "푸껫이 웰니스 관광지로 부상하고 있으며, 관련 정보를 찾는 여행자에게 유용할 수 있습니다.",
+      "event_info": {
+        "date": "2026",
+        "location": "푸껫",
+        "price": "미정",
+        "location_google_map_query": "푸껫 웰니스 관광"
+      },
+      "references": [
+        {
+          "title": "Experience The Future Of Wellness In Phuket : The Ultimate Wellness Destination For Global Leaders - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRFR1OW9FeHpzRlJndFdMY3ZtcldzeEhrZk9KdDROZGpnNVh1cExWRWVYcVc2b2pMM1g4eGZ3VUh6alk0RkJ3WWhiMVdscW90U1VZQ1d3Qnp1Wjl3S3hLanRDdmpYNWl5UEJVeUR5X29KenV3UEtwSk5LMFctMDNVX0xxVkF0WjFKU3V3bzNURlZfSDlGaE1RQjlPd0FXQmx6Z2Q4bWF2RmRlVm9KRFQ5M1ZUTDN5bEN3ZXZ3X3JuYXkxOW54aUxXMnFlaVdqOE05dlFfbXFlRUhGTm9LYmc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중동 분쟁, 장거리 여행에 타격 - MSN",
+      "summary": "- 중동 지역의 불안정으로 인해 장거리 여행 심리가 위축될 가능성 제기\n- 태국 여행 산업에도 간접적인 영향 예상\n- 여행 관련 의사 결정 시 안전 문제 고려 필요",
+      "full_translated": "MSN - 중동 분쟁, 장거리 여행에 타격",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 분쟁이 장거리 여행 심리에 미치는 영향과 태국 여행 산업에 대한 간접적인 영향 가능성 언급. 여행객의 안전 고려 필요성 환기.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Mideast conflict a blow to long-haul tourism - MSN",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOW5QaUp0Tm5TTEVhVEptcUQzUHk1S0pXNVlzMjdMU3FvTVFmekRVZlhQYWoxZW12VWlJaW8xa3NqWWNHRkhXX1RGUWg5cm9ndHl1cTgtUE1nYnVONWJUdkhILUdUYVZNaUNkX2JiYUhpMm91azE1U1l4NW05b1REOXhoZll5ZFk1Y0F4RFpIcDgwbENzN3RCWg?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "파타야 관광객, 미국 달러 대비 바트화 약세 주시",
+      "summary": "- 태국 바트화가 미국 달러 대비 약세를 보이면서 파타야 관광객들이 환율 변동에 주목하고 있습니다.\n- 바트화 가치 하락은 관광객들에게는 상품 및 서비스 구매 시 더 많은 가치를 제공할 수 있습니다.\n- 하지만 장기적인 경제 영향에 대한 우려도 제기되고 있습니다.",
+      "full_translated": "파타야 관광객들은 미국 달러 대비 바트화 약세를 주시하고 있습니다. 파타야 메일",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "환율 변동은 관광객의 소비에 직접적인 영향을 미치므로 관련 정보를 제공합니다. 기존 게시글에 환율 정보가 없으므로 새로운 정보로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pattaya tourists watch Thai baht as currency weakens against US dollar - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGFZY2hhdHpySks5S0ZmQkh0QXp6Z1lmSzVrMkdKYVNHRkdjR3FDWDNCdEducUZTMElhQzlhRVN0LVpCQXAycWlTRVczSElGNVlZblBuR0t1RHY1Qm94S0ktTE50MmJFdnpscGRTUUxmSFhpRVNDc0VQLUZOZ2l4T21YVTF3eE1iSWhZeTItUDJIRkFLQ0dTOWVGbV9xTFVRbE5LdEtiZ0xBRUNLd1BZ?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 총선 후 국회의원 등록 현황: 377명 등록 완료, 122명 미등록",
+      "summary": "- 태국 국회의원 총 377명이 등록을 마쳤으며, 122명이 아직 등록하지 않았습니다.\n- 등록은 21개 정당 소속 의원들이 완료했습니다.\n- 등록 마감일은 아직 남아 있으며, 미등록 의원들의 등록이 완료될 예정입니다.",
+      "full_translated": "태국 국회 사무국은 제27대 국회의원 등록 현황을 집계한 결과, 총 377명이 등록을 완료했으며 122명이 아직 등록하지 않았다고 발표했습니다. 등록 기간은 10일 동안 진행되었으며, 21개 정당 소속 의원들이 등록을 마쳤습니다. 3월 7일 16시 32분 기준으로 국회 사무국은 27대 국회의원 등록을 접수했으며, 08시 30분부터 16시 30분까지 국회 B1층 홀에서 진행되었습니다. 당일 추가 등록 의원은 4명입니다. 정당별 등록 현황은 다음과 같습니다. 1. 푸미차이타이당 191명, 2. 락파칸틴당 1명, 3. 프아타이당 74명, 4. 클라탐당 58명, 5. 민주당 20명, 6. 타이르암팔랑당 6명, 7. 프라차찻당 5명, 8. 팔랑프라차랏당 5명, 9. 셑타킷당 3명, 10. 르암타이상찻당 1명, 11. 프아찻타이당 2명, 12. 타이상타이당 2명, 13. 오팟마이당 1명, 14. 세리르암타이당 1명, 15. 프라차티팟마이당 1명, 16. 마이당 1명, 17. 탕르악마이당 1명, 18. 르암자이타이당 1명, 19. 르암팔랑 프라차촌당 1명, 20. 밋티마이당 1명, 21. 크루타이루엄찻당 1명.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 총선 후 정치적 변화에 대한 관심이 있을 수 있으므로 정보를 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สรุป 10 วัน สส. รายงานตัวสภาฯ แล้ว 377 คน 21 พรรคการเมือง เหลืออีก 122 คน",
+          "url": "https://www.thairath.co.th/news/politic/2918504",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPltS14VY25if.jpg"
+        }
+      ],
+      "collected_at": "16:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPltS14VY25if.jpg",
       "date": "2026-03-07"
     }
   ]
