@@ -21135,14 +21135,9 @@
       "summary": "- 방콕의 한 술집 앞에서 관광객 간의 난투극이 벌어짐.\n- 싸움 장면이 카메라에 포착되어 논란이 되고 있음.\n- 자세한 싸움의 원인은 아직 알려지지 않음.",
       "full_translated": "방콕의 한 술집 앞에서 관광객 간의 난투극이 카메라에 잡혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객 안전 관련 사건이므로 정보 제공 가치가 있음. 기존에 유사한 '방콕 길거리 난투극' 기사가 있었으나, 다른 사건일 가능성이 있으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "방콕 술집"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': '방콕 술집'}",
       "references": [
         {
           "title": "Tourist Brawl Outside Thai Bar Caught on Camera - Independent Journal Review",
@@ -21153,21 +21148,18 @@
       ],
       "collected_at": "18:40",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SZElnXzEtYkFDTGdqZzNpUkg3TENET1J2bmlsTjcxeHdDc1NwalBoU0YwdkxfaktsbmZ4eXl6UnVfWjV4S18tOWd0YzZkSnNRa2N2YkhGZUItNGpUTEx5NWd1LWd2YVljbnVUNVN5LVFwZw?oc=5",
+      "source": ""
     },
     {
       "title": "Tomorrowland, 파타야에서 아시아 데뷔, 태국 관광 산업에 10억 달러 부양 전망",
       "summary": "- 태국이 파타야에서 개최되는 Tomorrowland 아시아 데뷔를 통해 10억 달러의 관광 수입 증대를 기대하고 있습니다.\n- 이 이벤트는 파타야의 관광 지형을 변화시킬 것으로 예상됩니다.\n- Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 전망입니다.",
       "full_translated": "태국은 파타야에서 개최되는 Tomorrowland 아시아 데뷔를 통해 10억 달러의 관광 수입 증대를 기대하고 있습니다. 이 이벤트는 파타야의 관광 지형을 변화시킬 것으로 예상됩니다. Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 전망입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 열리는 대형 축제는 관광객 유치에 긍정적인 영향을 미치므로.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand Bets on US$1 Billion Boost as Tomorrowland’s Asia Debut Set to Transform Pattaya’s Tourism Landscape - Qoo10.co.id",
@@ -21178,21 +21170,18 @@
       ],
       "collected_at": "18:40",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOS3dHSkFIeFRZSXNpNGVoWGx0OUo5OXZtbXI1Z0huZ3RTajVSZFZWYXdmazh1Qm9NRi0xMlBfb010QzB2UzZVNjFGWHlqZGVieG12dTdjVjVlcmFodlFrOGQ1LVphd0h0ZUQxcENfRWh3QWRWQW85M2ZpRWpiRWFtOHVDLTZQMlJGVXZsbkhYU2ZIMDgtck1jQlh4TXpQTGdURUFydzU4dGFVYXVxeGhyWmFxYURwblhxcFA5b21FQjRUQUFTMjJ2dmRZYkZ6ZXBoeVA3Y21rYjlVYW50bE5ObU0tSTc3eUVpTlHSAfIBQVVfeXFMTUZqV2lnbkV0Q0dsdlg5SF9wNDVwVFdxV2libGtPaU5fYWZLRmo5dWhteVc5N2hQVk5ZXzNlRUxRUG5QU0J3T0lOd0pDUEo1RkJ0cnlZdndUVXZUdE9lanJKamdJZ1EydllQbE1CQTVZZ3J3WFdzalhOYnAyRjBWeFpWNTVGc0wzd0xfU0ZKRl9tSkNjaTJ2cUg5VGdrVDRfM1gxaEdTaTMtOFA2WnNPbWhyM051b3JhVGdpcmRWZUI4dlljZVpORW9NR0x3QVFUd2dwejE2dmkzVFZTbnQtWVg0bUJubXFxNHBCcUZ2M0tfNmc?oc=5",
+      "source": ""
     },
     {
       "title": "Tomorrowland, 2026년 12월 태국에서 아시아 최초 풀 스케일 개최 준비",
       "summary": "- 태국이 2026년 12월에 열리는 Tomorrowland 아시아 최초 풀 스케일 에디션 개최를 준비 중입니다.\n- Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 것으로 전망됩니다.\n- 푸껫은 2026년 세계 웰니스 서밋 개최지로 선정되었습니다.",
       "full_translated": "태국이 2026년 12월에 열리는 Tomorrowland 아시아 최초 풀 스케일 에디션 개최를 준비 중입니다. Tomorrowland 모델은 태국 지역 경제 활성화에 기여할 것으로 전망됩니다. 푸껫은 2026년 세계 웰니스 서밋 개최지로 선정되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 국제 행사 개최 정보는 여행객 유치 및 관련 산업 활성화에 중요한 정보이므로 포함.",
-      "event_info": {
-        "date": "2026-12-01",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국 Tomorrowland"
-      },
+      "event_info": "{'date': '2026-12-01', 'location': '태국', 'price': '미정', 'location_google_map_query': '태국 Tomorrowland'}",
       "references": [
         {
           "title": "Tomorrowland as December 2026 approaches: Thailand sets the stage for the festival’s first full-scale Asian edition - El-Balad.com",
@@ -21203,21 +21192,18 @@
       ],
       "collected_at": "18:40",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91Qkx6RTB4WmRmME83TC1sSGZBT21mSkx1NjVqb041aUd5WGxVeHBmUEdJSE1Rdm9YOWdDbml4NVhJMVJRaHppdA?oc=5",
+      "source": ""
     },
     {
       "title": "Tomorrowland Thailand, 티켓 판매 시작과 함께 관광객 급증 예상",
       "summary": "- Tomorrowland Thailand 티켓이 2월 28일부터 판매 시작됨.\n- 이로 인해 태국 관광 산업이 활기를 띨 것으로 예상됨.\n- 지역 경제 부양 효과에 대한 기대감이 높아지고 있음.",
       "full_translated": "Tomorrowland Thailand 티켓 판매가 2월 28일부터 시작되면서 관광객 급증을 예고하고 있습니다. El-Balad.com",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "Tomorrowland Thailand 개최로 인한 관광객 증가 및 지역 경제 활성화 기대. 티켓 판매 시작 정보는 새로운 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": "태국",
-        "price": null,
-        "location_google_map_query": "Tomorrowland Thailand"
-      },
+      "event_info": "{'date': None, 'location': '태국', 'price': None, 'location_google_map_query': 'Tomorrowland Thailand'}",
       "references": [
         {
           "title": "Tomorrowland Thailand sparks a tourism surge as tickets go on sale Feb 28 - El-Balad.com",
@@ -21228,21 +21214,18 @@
       ],
       "collected_at": "18:40",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE45ZEJuZnluUU9Yc201LU9Fd1BjZzVvRWwyQVZTWnEwMnFuWVBrUWd0all4UTdaWDhmaC1hTlpDREx0YktqdHRHUQ?oc=5",
+      "source": ""
     },
     {
       "title": "타나부리 그룹, NIO와 협력하여 Firefly 전기차 출시 예정, 2026 모터쇼에서 가격 공개",
       "summary": "- 타나부리 그룹이 NIO와 협력하여 프리미엄 전기차 시장 진출\n- Firefly 전기차는 도시 라이프스타일에 맞춰 설계되었으며, 2026 모터쇼에서 공개 예정\n- 이번 협력은 NIO의 기술력과 타나부리 그룹의 경험을 결합하여 태국 전기차 시장을 발전시키기 위함",
       "full_translated": "타나부리 그룹이 NIO와 협력하여 프리미엄 전기차 시장에 진출합니다. Firefly 전기차는 최신 기술을 탑재하고 있으며, 나이 랏타폰 위리야판 타나부리 그룹 회장은 이번 협력이 태국 전기차 산업의 표준을 높이는 데 기여할 것이라고 밝혔습니다. Firefly는 100% 전기차로, 도시 사람들의 라이프스타일에 맞춰 설계되었습니다. 2026 모터쇼에서 공식적으로 공개될 예정이며, 가격은 미정입니다. 이번 협력은 NIO의 글로벌 비전과 타나부리 그룹의 전문성을 결합하여 태국 자동차 산업을 발전시키는 것을 목표로 합니다. NIO는 에너지, 소프트웨어, 인공지능을 결합하여 새로운 드라이빙 경험을 제공하는 글로벌 기술 기업입니다. 타나부리 그룹은 태국 자동차 산업에서 거의 한 세기 동안 경험을 쌓아왔으며, 판매 및 애프터 서비스 네트워크를 통해 고객에게 최고의 서비스를 제공할 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 자동차 시장에 대한 정보이지만, 여행자에게 직접적인 영향은 제한적. 미래에 전기차 이용 가능성이 높아질 수 있다는 간접적인 정보 제공.",
-      "event_info": {
-        "date": "2026",
-        "location": "Motor Show 2026",
-        "price": "미정",
-        "location_google_map_query": "Bangkok Motor Show 2026"
-      },
+      "event_info": "{'date': '2026', 'location': 'Motor Show 2026', 'price': '미정', 'location_google_map_query': 'Bangkok Motor Show 2026'}",
       "references": [
         {
           "title": "กลุ่มธนบุรี ผนึก NIO เปิดตัวรถไฟฟ้า Firefly รอลุ้นราคาในงาน Motor Show 2026",
@@ -21253,6 +21236,108 @@
       ],
       "collected_at": "18:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPOr8S9RSwgYm.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2918515",
+      "source": ""
+    },
+    {
+      "title": "Tomorrowland Thailand, 파타야를 아시아 최고의 축제 목적지로 변모",
+      "summary": "- Tomorrowland Thailand가 파타야에서 개최되어 아시아 최고의 축제 중 하나로 자리매김할 전망입니다.\n- 이 축제는 지역 경제 활성화에 크게 기여할 것으로 예상됩니다.\n- 다양한 음악, 문화, 엔터테인먼트 경험을 제공하며 관광객 유치에 긍정적인 영향을 미칠 것입니다.",
+      "full_translated": "Tomorrowland Thailand Transforms Pattaya into Asia’s Premier Festival Destination FilmoGaz",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 개최되는 대형 축제 정보로, 관광객 유치 및 지역 경제 활성화에 기여할 것으로 예상되어 여행객에게 유용한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Tomorrowland Thailand Transforms Pattaya into Asia’s Premier Festival Destination - FilmoGaz",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZSWVpNG5mbUxRRmwzMHBTM213TV9GTkNRbFpvVnJEMHdNY1E0Wmlhd0FkNkg5OWVieTFIT0FMYzg1Uy1UNGc?oc=5",
+          "source": "FilmoGaz",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "푸껫 '섀도우 해변'에서 외국인 관광객의 나체 일광욕 논란",
+      "summary": "- 푸껫의 '섀도우 해변'에서 외국인 관광객의 나체 일광욕이 논란을 일으키고 있습니다.\n- 현지 주민들은 이러한 행위가 태국 문화에 대한 존중 부족이라고 비판하고 있습니다.\n- 당국은 해당 행위에 대한 조사에 착수할 예정입니다.",
+      "full_translated": "푸껫의 '섀도우 해변'에서 외국인 관광객의 나체 일광욕이 논란을 불러일으키고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "해변 이용 시 주의사항 환기 및 문화적 차이 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 '섀도우 해변'",
+        "price": null,
+        "location_google_map_query": "푸껫 섀도우 해변"
+      },
+      "references": [
+        {
+          "title": "Nude sunbathing by foreign tourists sparks controversy at ‘Shadow Beach’ in Phuket - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWpWMHM3YW10WHBwMkVpLUtzMTdZbmUzLW5oVDkxV2xWR3pLVUxqNWFmYVpyeV9Ec1RrX2hVZmtGbTh3VWlSbFBvd2N3eTZrQUtDalhuY0hlNURJdHBDc295WTR4UElrdkRVUnJsa0FXY3JFVWxpbTNqTDNlcWU5cXY0NXItMUZ5M3EzWGx5WTNIc2tQVi1FeGprQU1ma01Xc3JsUnpjVUVmM1dubmtYOHp0UlFtSnNYNnQ2cGxLZVVMSHB5UDB3?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Thai Nguyen, Nui Coc 및 Ba Be 호수 관광 활성화",
+      "summary": "- Thai Nguyen은 Nui Coc과 Ba Be 호수의 관광을 활성화합니다.\n- 자세한 내용은 DTiNews에서 확인할 수 있습니다.",
+      "full_translated": "Thai Nguyen은 Nui Coc과 Ba Be 호수의 관광을 활성화합니다. DTiNews",
+      "category": "TRAVEL",
+      "tourist_impact_score": 3,
+      "impact_reason": "새로운 관광지 정보, 여행객에게 소소한 정보 제공",
+      "event_info": {
+        "date": null,
+        "location": "Nui Coc and Ba Be lakes, Thai Nguyen",
+        "price": null,
+        "location_google_map_query": "Nui Coc and Ba Be lakes, Thai Nguyen"
+      },
+      "references": [
+        {
+          "title": "Thai Nguyen boosts tourism at Nui Coc and Ba Be lakes - DTiNews",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblJPeE5ORU4ySkdDY2JtYWVtSmM2ZlZVcUVFUzh2WHBHc3l3WGRVOHlScEVIUl9hWlF1T3d4bjlLUDdsUHpfcFFzTUZuS3dMVFpqZnFQQm9kUWQyb3RYOTlfMEdvVEFjR3JjRFBRSTZlNGIxend3YUFQQ01lOGFab3dQNXAtMkxzZmVXMHhKVDcwdHBOQ0o4ZmFadzVhNldNQlNfbk5ZbUUyV1VoeUJhaUZ6SFlJdw?oc=5",
+          "source": "DTiNews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "쁘라윗 전 부총리, 육군 골프장 내 단골 식당에서 동료들과 식사",
+      "summary": "- 쁘라윗 전 부총리가 육군 골프장에서 동기들과 점심 식사를 가졌습니다.\n- 40년 이상 된 골프장 내 '파 홍 식당'은 그의 단골집입니다.\n- 그는 종종 집으로 음식을 배달시키기도 하며, 특히 코코넛 밀크로 조리한 쇠고기 수프를 즐겨 먹습니다.",
+      "full_translated": "쁘라윗 웡수완 전 부총리는 파랑쁘라차랏당(PPRP)의 고문으로, 육군 스포츠 개발 센터 또는 람인트라 로드 지역의 육군 골프장에서 '럯 폰 렉' 그룹인 육군사관학교 6기 동기들을 만나 3월 7일 점심 식사를 함께 했습니다. 그는 4번 홀 1구역에 위치한 40년 이상 된 단골 식당인 '란 카우 파 홍'에 동기들을 초대했습니다. 이 식당은 골프장 내 작은 식당이며, 인기 메뉴는 돼지고기 볶음밥, 캣피쉬 칠리볶음, 쇠고기 수프, 생선 케이크입니다. 식사 중 쁘라윗 전 부총리는 골프를 치러 온 육사 6기 동기들에게 편안하게 식사와 음료를 즐기도록 권유했습니다. 전 최고 사령관인 분쌍 니암쁘라딧 장군도 친구들과 골프를 치다가 들러서 반갑게 인사하고 대화를 나누었습니다. 쁘라윗 전 부총리는 이곳이 골프를 치러 올 때부터 자주 방문하던 단골 식당이며, 특히 코코넛 밀크로 조리한 쇠고기 수프는 밥이나 버미첼리와 함께 먹을 수 있어 집으로 배달시키기도 한다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 정치인 관련 소식이지만, 여행객에게 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 람인트라 로드 육군 골프장",
+        "price": null,
+        "location_google_map_query": "람인트라 로드 육군 골프장"
+      },
+      "references": [
+        {
+          "title": "“ลุงป้อม” ชวนเพื่อน ตท.6 ทานอาหารร้านประจำในสนามกอล์ฟ ทบ.",
+          "url": "https://www.thairath.co.th/news/politic/2918524",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0aU3VFW9UX1.jpg"
+        }
+      ],
+      "collected_at": "19:28",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0aU3VFW9UX1.jpg",
       "date": "2026-03-07"
     }
   ]
