@@ -21635,6 +21635,31 @@
       "date": "2026-03-07",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0pIdWNld3l6bGlWZENNcVZPbDgxQWY3SHNyT3ZET2w4dWFkRW1HaHRnTHd4SzJJbk5SdVBQaGZ1ZTNSSGZuVzVRWjFuS1pMWnFpQ3ZUdWZDckh5XzUtSGc4ZG03bVRIbVgwem1DN1ZmamV1eU9COUxZNUVpWjRiRm1GOWNBSVhZZlV4d0R5djRoMnZTSlV1V2RYai1QdTZubk5ocmdWRU1HQQ?oc=5",
       "source": ""
+    },
+    {
+      "title": "이란, 미국-이스라엘 공격으로 사망자 1,348명 급증, 어린이 200명 포함",
+      "summary": "- 이란에서 미국과 이스라엘의 공격으로 인한 사망자 수가 최소 1,348명으로 증가했습니다.\n- 사망자 중 어린이가 200명에 달하며, 공격은 28개 주로 확산되었습니다.\n- 주요 공격 목표는 테헤란과 서부 지역이며, 국제 인도법에 따라 보호되는 시설도 피해를 입었습니다.",
+      "full_translated": "이란에서 미국과 이스라엘의 공격으로 인한 사망자 수가 최소 1,348명으로 증가했습니다. 인권운동가 단체 HRANA에 따르면 사망자 중 어린이가 194명에 달하며, 군인 사망자는 176명입니다. 공격은 28개 주로 확산되었으며, 최근 공격은 이전보다 훨씬 더 강력하고 전국적으로 확산된 것으로 평가됩니다. 주요 공격 목표는 테헤란과 서부 지역이며, 적신월사 센터, 테헤란의 주거지 3곳, 이란 국영 석유 회사(NIOC) 건물 등 국제 인도법에 따라 보호되는 시설도 피해를 입었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "태국 여행과는 직접적인 관련이 없는 국제 분쟁 관련 뉴스이므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านดับพุ่ง 1,348 ศพ หลังสหรัฐฯ–อิสราเอลถล่ม เกือบ 200 รายเป็นเด็ก",
+          "url": "https://www.thairath.co.th/news/foreign/2918540",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4IgLMHcJeAU.jpg"
+        }
+      ],
+      "collected_at": "23:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4IgLMHcJeAU.jpg",
+      "date": "2026-03-07"
     }
   ]
 }
