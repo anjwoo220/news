@@ -19772,14 +19772,9 @@
       "summary": "- 므엉 통 타니에서 2069년 입시가 진행되어 13,895명 이상의 지원자가 몰려 북적임.\n- 당일 7개의 대형 이벤트가 동시에 개최되어 교통 혼잡이 예상됨.\n- 경찰은 교통 혼잡을 완화하기 위해 교통 통제를 실시하고, 혼잡을 피할 것을 권고함.",
       "full_translated": "3월 7일, 므엉 통 타니의 챌린저 홀에서 2069학년도 입시가 진행됩니다. 총 13,895명의 지원자가 등록했으며, 오전 8시 30분부터 오후 2시까지 시험이 진행될 예정입니다. 아침 일찍부터 수천 명의 지원자들이 시험을 준비하기 위해 몰려들어 붐비는 분위기입니다. 시험 감독관은 오전 6시부터 입실을 허용할 예정입니다. 챌린저 홀 주변의 본드 스트리트와 파퓰러 로드와 같은 도로에는 차량이 매우 많습니다. 대부분의 학부모들이 자녀를 시험장까지 데려다주기 위해 자가용을 이용하기 때문에 므엉 통 타니 내부의 교통 상황은 매우 혼잡합니다. 특히, 쨍와타나 로드와 티와논 로드에서 연결되는 주요 도로인 콘도미니엄 로드와 본드 스트리트의 교통 체증이 심각합니다. 같은 날, 므엉 통 타니에서는 콘서트, 상품 전시회 등 총 7개의 대형 이벤트가 동시에 개최됩니다. 임팩트 전시 매니지먼트 회사의 경영진은 총 4만 명 이상이 이 지역을 이용할 것으로 예상합니다. 파크 끄렛 경찰서의 교통 경찰서장인 타파나퐁 픈미 경감은 교통 혼잡에 대처하기 위한 계획을 준비했다고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "므엉 통 타니에서 대규모 시험과 이벤트가 동시에 개최되어 교통 혼잡이 예상되므로 여행자들에게 영향을 줄 수 있음. 특히 공항 이동에 영향을 줄 수 있으므로 관련 정보 제공이 필요함.",
-      "event_info": {
-        "date": "2069-03-07",
-        "location": "챌린저 홀, 므엉 통 타니",
-        "price": "정보 없음",
-        "location_google_map_query": "Challenger Hall, Muang Thong Thani"
-      },
+      "event_info": "{'date': '2069-03-07', 'location': '챌린저 홀, 므엉 통 타니', 'price': '정보 없음', 'location_google_map_query': 'Challenger Hall, Muang Thong Thani'}",
       "references": [
         {
           "title": "เมืองทองธานีคึกคัก \"สอบเตรียมอุดม 2569\" รุ่น TU89 มีอีเวนต์รวม 7 งาน รถหนาแน่น",
@@ -19790,21 +19785,18 @@
       ],
       "collected_at": "10:29",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GC69nURVt4H5P.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/society/2918430",
+      "source": ""
     },
     {
       "title": "태국 기상청, 다음 주 상부 태국에 여름 폭풍 주의보 발령",
       "summary": "- 태국 기상청은 수요일과 목요일에 방콕을 포함한 태국 북부 지역에 여름 폭풍이 몰아칠 수 있다고 경고했습니다.\n- 폭풍으로 인해 일부 지역에 폭우, 강풍, 우박 및 번개가 발생할 수 있습니다.\n- 여행객들은 악천후 동안 개방된 공간, 큰 나무, 불안정한 광고판을 피하고 여행을 제한해야 합니다.",
       "full_translated": "태국 기상청(TMD)은 수요일과 목요일에 방콕을 포함한 태국 북부 지역에 여름 폭풍이 몰아칠 가능성이 있다고 경고했습니다. 오늘부터 낮 기온이 높게 유지될 것으로 예상되며, 상부 지역을 덮고 있는 열로 인한 저기압 시스템과 습기를 가져오는 남동풍 및 남풍으로 인해 여러 지역에서 고립된 뇌우가 발생할 수 있습니다. 그러나 수요일과 목요일에는 태국 북부, 북동부, 중부 및 동부 지역에서 여름 폭풍이 발생할 수 있습니다. 폭풍은 일부 지역에서 폭우, 강풍, 우박 및 번개를 동반할 수 있습니다. 방콕과 주변 지역은 오늘부터 화요일까지 약 10%의 지역에서 뇌우가 예상되며, 기온은 24C에서 38C 사이입니다. 폭풍 활동은 수요일과 목요일에 지역의 20%에서 40%로 증가할 수 있습니다. TMD는 주민들에게 폭풍 동안 주의를 기울이고, 개방된 공간, 큰 나무, 불안정한 광고판을 피하고, 악천후가 발생하는 지역에서의 여행을 제한할 것을 촉구했습니다. 농부들은 또한 날씨 조건이 변함에 따라 과일 나무를 고정하고 작물과 가축을 위한 보호 조치를 준비하라는 권고를 받았습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 줄 수 있는 날씨 정보이며, 아침 브리핑에 적합함. 특히 강풍, 우박 등에 대한 주의가 필요.",
-      "event_info": {
-        "date": "2026-03-12",
-        "location": "태국 북부, 북동부, 중부, 동부",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-03-12', 'location': '태국 북부, 북동부, 중부, 동부', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "'Severe summer storms' next week",
@@ -19815,21 +19807,18 @@
       ],
       "collected_at": "10:29",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211580_260307083009_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211580/severe-summer-storms-next-week",
+      "source": ""
     },
     {
       "title": "태국 총리, 중동 분쟁 위기 대응 센터 설립",
       "summary": "- 아누틴 총리, 중동 분쟁 상황 관리 및 경제적 영향 최소화 위한 국가 센터 설립 지시.\n- 37명의 위원으로 구성, 관련 부처 및 경제 기관 대표 포함.\n- 국내 유류 비축량, 주식 시장, 소비자 물가 등 모든 측면 우려.",
       "full_translated": "아누틴 찬비라쿨 총리는 중동 분쟁 상황 전개 감시를 위한 국가 센터 설립을 지시했습니다. 이는 안보 관계자들의 경고, 즉 전투가 한 달 이상 지속될 수 있고 잠재적으로 확대될 수 있다는 경고에 따른 것입니다. 아누틴 총리는 상황을 관리하고 정부 대응을 조율하며 태국에 대한 가능한 경제적 및 안보적 영향을 완화하기 위해 총리실 명령을 내려 센터를 설립했습니다. 37명의 위원으로 구성된 센터에는 주요 부처 및 경제 기관 대표가 포함됩니다. 아누틴 총리는 고문 역할을 수행하고 피팟 랏차킷프라칸 교통부 장관이 이사 역할을 합니다. 에크니티 니티탄프라팟 재무부 장관은 부이사로 임명되었습니다. 국방, 외무, 에너지, 상무 및 노동 담당 내각 장관도 회원입니다. 관련된 주요 국영 기관으로는 태국 은행과 증권 거래 위원회가 있으며 태국 산업 연맹, 태국 상공 회의소 및 PTT Plc의 민간 부문 대표도 참여합니다. 아누틴 총리는 \"국내 유류 비축량, 주식 시장, 소비자 물가 등 모든 측면이 우려됩니다.\"라고 말했습니다. \"우리의 목표는 상황을 관리하여 국민에 대한 영향이 최소화되도록 하는 것입니다.\" 국가 안보 회의의 한 소식통은 이란이 공격을 시작한 후 분쟁이 한 달 이상 지속될 수 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 분쟁이 태국 경제 및 안보에 미칠 영향에 대한 정부의 대비책으로, 여행객에게 직접적인 위협은 아니지만 상황 주시 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "PM forms conflict crisis centre",
@@ -19840,21 +19829,18 @@
       ],
       "collected_at": "10:29",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211450_260307083341_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211450/pm-forms-conflict-crisis-centre",
+      "source": ""
     },
     {
       "title": "태국, 디젤 가격 통제 및 상품 가격 단속 강화",
       "summary": "- 태국 정부가 디젤 가격을 29.94바트 이하로 통제하기로 결정함.\n- 이는 디젤 가격 상승이 상품 가격 상승으로 이어져 국민 생활에 부담을 줄 수 있다는 판단 때문임.\n- 정부는 상품 가격 인상 및 품절 사태를 막기 위해 단속을 강화할 예정임.",
       "full_translated": "피차이 전 에너지부 장관은 아누틴 총리의 디젤 가격 통제에 동의하며, 상황이 장기화될 경우 디젤 유류세(리터당 6.92바트) 인하를 제안했습니다. 그는 상품 가격에 대한 엄격한 통제를 촉구하며, 세계적인 위기 상황에서 3가지 기회를 창출할 것을 권고했습니다.\n\n피차이 전 장관은 미국이 이란을 공격하는 데 협력하는 중동 전쟁 상황이 세계에 영향을 미치고 있으며, 특히 급등하는 원유 가격에 주목해야 한다고 언급했습니다. 이란의 호르무즈 해협 봉쇄 발표로 인해 최근 원유 가격은 배럴당 약 100달러까지 치솟았습니다. 따라서 정부는 상황을 면밀히 주시하고 신속하게 정상화되기를 희망해야 합니다.\n\n피차이 전 장관은 아누틴 총리가 디젤 가격을 29.94바트 이하로 통제하기로 발표한 것에 동의했습니다. 이는 디젤이 거의 모든 상품 운송의 주요 비용이기 때문에 국민들이 이 위기를 극복하는 데 도움이 될 것입니다. 디젤 가격 상승은 상품 가격 상승으로 이어져 국민들에게 큰 고통을 줄 수 있습니다. 디젤 가격이 하락하더라도 이미 인상된 상품 가격은 쉽게 내려가지 않을 수 있습니다. 따라서 정부는 상품 부족이나 가격 인상을 막기 위해 상무부에 대한 점검을 강화해야 합니다. 국민 생활에 영향을 미치지 않도록 상품이 부족하거나 비싸서는 안 됩니다.\n\n상황이 장기화될 경우 정부는 리터당 6.92바트의 디젤 유류세 감면을 고려할 수 있습니다. 비록 정부 수입은 감소하겠지만, 이는 국민들을 도울 수 있는 방법입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "디젤 가격 통제는 상품 및 서비스 가격에 간접적인 영향을 미칠 수 있으나, 여행객에게 직접적인 큰 영향은 없음. 하지만 물가 상승 억제에 기여하므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“พิชัย” เห็นด้วย “อนุทิน” ควบคุมราคาน้ำมันดีเซล จี้คุมเข้มราคาสินค้า ห้ามขาด-ห้ามแพง",
@@ -19865,21 +19851,18 @@
       ],
       "collected_at": "10:29",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GC7Ult8Le6wxU.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/politic/2918434",
+      "source": ""
     },
     {
       "title": "깐짜나부리: 산림 감시 책임자, 총격으로 중태",
       "summary": "- 깐짜나부리에서 불법 벌목 감시 중 산림 감시 책임자가 총에 맞았습니다.\n- 용의자는 과거 해고된 직원으로, 범행 후 도주했으나 체포되었습니다.\n- 피해자는 현재 병원에서 치료 중이며, 중태에 빠졌습니다.",
       "full_translated": "깐짜나부리 지방에서 산림 감시 책임자가 불법 벌목 단속 중 총에 맞아 중상을 입었습니다. 경찰은 57세 용의자를 체포했습니다. 용의자는 살락 프라-에라완 산림 화재 통제소의 책임자인 바룬 찬사와앙을 총으로 쏜 혐의를 받고 있습니다. 바룬은 므앙 지역의 총 사다오 인근에서 불법 벌목 의심 지역을 조사하던 중이었으며, 말다툼 끝에 용의자가 .38 구경 권총으로 총을 쏜 것으로 알려졌습니다. 총알은 바룬의 왼쪽 갈비뼈 아래를 관통하여 비장을 심하게 손상시켰습니다. 용의자는 과거 에라완 국립공원에서 바룬의 보조로 일했으며, 산림 침범 및 약물 혐의로 해고된 전력이 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 지역에서 발생한 총격 사건. 여행객 안전에 대한 잠재적 위협이 있지만, 특정 지역에 한정적이므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-03-07",
-        "location": "깐짜나부리",
-        "price": null,
-        "location_google_map_query": "깐짜나부리"
-      },
+      "event_info": "{'date': '2026-03-07', 'location': '깐짜나부리', 'price': None, 'location_google_map_query': '깐짜나부리'}",
       "references": [
         {
           "title": "Gunman shoots fire chief",
@@ -19890,6 +19873,133 @@
       ],
       "collected_at": "10:29",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211635/gunman-shoots-fire-chief",
+      "source": ""
+    },
+    {
+      "title": "이란, 미국-이스라엘 공격에 동참하는 유럽에 '표적' 경고",
+      "summary": "- 이란 외무차관, 미국과 이스라엘의 군사 작전 지원 시 유럽도 공격 대상 될 수 있다고 경고.\n- 중동 내 미군 기지 및 자산 공격은 정당하다고 주장.\n- 미국이 외교적 노력을 중단시켰다고 비판하며, 군사적 공격으로 외교 프로세스가 중단되었다고 언급.",
+      "full_translated": "이란 외무차관은 미국과 이스라엘의 군사 작전을 지지하는 유럽 국가들이 공격 목표가 될 수 있다고 경고했습니다. 그는 또한 중동에서 미국의 기지와 자산을 공격하는 것은 정당하다고 강조했습니다. 마지드 탁트-라반치 이란 외무차관은 금요일(3월 6일) 미국과 이스라엘과 함께 이란을 공격하는 유럽 국가들은 즉시 이란의 정당한 표적이 될 것이라고 말했습니다. \n\n이러한 경고는 미국과 이스라엘이 이란 내 목표물에 대한 작전을 개시하고 이란의 군사적 대응을 초래한 이후 고조된 긴장 속에서 나왔습니다. 유럽의 일부 국가들이 군사 작전에서 미국에 물류 지원을 제공한 사례에 대한 질문에 탁트-라반치는 이란이 유럽 국가들에게 '이란 침략 전쟁에 연루되지 않도록 주의해야 한다'고 경고했다고 밝혔습니다. 그러나 그는 특정 유럽 국가의 이름을 밝히지는 않았습니다.\n\n이란 외무차관은 또한 페르시아만 지역의 상황에 대해 언급하면서 이란은 지난주 갈등이 발발하기 전에 이웃 국가에 미리 경고했다고 강조했습니다. 그는 미국이 이란에 적대적인 행동을 취할 경우 해당 지역 어디에 있든 미국의 기지와 자산이 정당한 표적이 될 것이라고 말했습니다.\n\n탁트-라반치는 또한 미국이 외교적 노력을 중단했다고 비판하며, 미국과 이스라엘이 공격을 시작하기 전 주에 이란이 성실하게 협상하고 있다고 밝혔습니다. 그는 이란이 성실하게 협상에 참여했지만 군사적 공격으로 외교 프로세스가 중단되었다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국은 직접적인 관련은 없지만, 지정학적 긴장 고조는 잠재적으로 여행 심리에 영향을 미칠 수 있으므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านเตือนยุโรป หากเข้าร่วมโจมตีกับสหรัฐ–อิสราเอล ระวังจะตกเป็นเป้าด้วย",
+          "url": "https://www.thairath.co.th/news/foreign/2918439",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GC6YwTZisJ30T.jpg"
+        }
+      ],
+      "collected_at": "11:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GC6YwTZisJ30T.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "파타야에서 중국 도박 운영 용의자 체포",
+      "summary": "- 중국에서 불법 도박장 운영 혐의로 수배 중이던 중국인 송리화(49)가 파타야에서 체포됨.\n- 그는 2024년부터 2025년까지 중국 산악 지역에서 불법 도박장을 운영하며 9100만 바트(약 34억원) 상당의 자금을 유통한 혐의를 받음.\n- 태국 경찰은 중국 당국의 요청을 받아 송 씨를 추적, 파타야 리조트에서 검거했으며, 태국 체류 허가를 취소하고 이민국에 구금함.",
+      "full_translated": "중국에서 불법 도박장 운영 및 기타 범죄 혐의로 수배 중이던 중국인 도망자가 파타야의 리조트에서 체포되었다고 경찰이 확인했습니다. 중앙수사국(CIB) 산하 특수작전부 사령관 테라찻 테라차탐롱 소장은 CIB와 이민국 소속 경찰관들이 중국 당국이 수배 중인 송리화(49)를 체포했다고 밝혔습니다. 송 씨는 촌부리 지방 방라뭉 지역 파타야의 소이 카오 마콕 1/3에 있는 리조트 밖에서 구금되었습니다. 중국 당국은 앞서 태국 수사관들에게 송 씨가 불법 도박 운영을 공동으로 조직한 혐의로 수배 중인 핵심 용의자라고 알렸습니다. 수사관들은 그가 2024년과 2025년 사이에 범죄 네트워크를 구축하고 경찰을 피하기 위해 중국의 산악 및 삼림 지역에서 도박장을 운영한 혐의를 발견했습니다. 이 작전에는 2천만 위안(9천1백만 바트) 이상의 유통 자금과 조직적인 도박 세션이 관여된 것으로 알려졌습니다. 태국 경찰은 송 씨의 움직임을 추적하여 파타야 리조트에 숨어 있는 것을 찾아 체포했습니다. 당국은 태국에 머물 권리를 취소하고 이민국에 구금했습니다. 그는 혐의를 부인하며 범죄에 대해 아는 바가 없다고 주장했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "외국인 범죄 관련 소식이므로 여행객 안전에 간접적인 영향을 줄 수 있다고 판단. 파타야 지역 정보 포함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Chinese fugitive held in Pattaya",
+          "url": "https://www.bangkokpost.com/thailand/general/3211660/chinese-fugitive-held-in-pattaya",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "11:46",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 동북부 지역 경제 활성화를 위한 프랜차이즈 박람회 개최",
+      "summary": "- 태국 상무부, 동북부 지역 경제 활성화를 위해 프랜차이즈 박람회 개최.\n- 3월 5일부터 8일까지 우돈타니 센트럴 플라자에서 진행.\n- 식품, 서비스, 교육, 뷰티 등 다양한 프랜차이즈 사업 모델 소개 및 투자 상담 제공.",
+      "full_translated": "태국 상무부는 동북부 지역의 경제를 활성화하기 위해 '프랜차이즈 창업 박람회'를 개최합니다. 이 박람회는 3월 5일부터 8일까지 우돈타니 센트럴 플라자에서 진행되며, 다양한 프랜차이즈 사업 모델을 소개하고 투자 상담을 제공합니다. 박람회에서는 식품, 음료, 서비스, 교육, 뷰티 및 스파 등 다양한 분야의 프랜차이즈를 만나볼 수 있습니다. 또한, 투자 컨설팅과 사업 시작 방법에 대한 체계적인 정보도 제공하여 동북부 지역 주민들의 창업 기회를 확대할 계획입니다. 우돈타니는 동북부 지역의 경제 및 상업 중심지로, 구매력과 인프라가 잘 갖춰져 있어 이번 박람회를 통해 지역 경제 활성화에 기여할 것으로 기대됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 동북부 지역의 경제 활성화 관련 소식으로, 여행객에게 직접적인 영향은 적으나, 새로운 사업 아이템이나 투자 기회에 대한 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-03-05 ~ 2026-03-08",
+        "location": "센트럴 우돈타니",
+        "price": "무료",
+        "location_google_map_query": "센트럴 우돈타니"
+      },
+      "references": [
+        {
+          "title": "ยิ่งใหญ่จัดเต็ม \"งานแฟรนไชส์สร้างอาชีพ ครั้งที่ 3\" มุ่งขับเคลื่อนเศรษฐกิจท้องถิ่นภาคอีสาน",
+          "url": "https://www.thairath.co.th/news/local/localbusiness/2918443",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFaMJVDLKccPz.jpg"
+        }
+      ],
+      "collected_at": "11:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFaMJVDLKccPz.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "쭐랄롱꼰 대학교 자연사 박물관",
+      "summary": "- 쭐랄롱꼰 대학교 과학부에서 운영하며, 파툼완 지구 방콕 캠퍼스에 위치.\n- 다양한 동물 표본을 소장하고 있으며, 주요 전시물은 메인 홀에 있음.\n- 태국 거북이, 게, 곤충, 육상 달팽이 전용 공간도 마련되어 있음.",
+      "full_translated": "쭐랄롱꼰 대학교 자연사 박물관은 대학교 과학부에서 관리하며 파툼완 지구 방콕 캠퍼스에 위치해 있으며, 수많은 동물 표본을 소장하고 있습니다. 대부분의 전시물은 메인 홀에 있으며, 태국 거북이, 게, 곤충, 육상 달팽이를 위한 전용 공간이 있습니다. 방콕 포스트의 모든 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 흥미로운 선택지가 될 수 있는 장소 정보. 기존 게시글에 중복되지 않음.",
+      "event_info": {
+        "date": null,
+        "location": "Chulalongkorn University, Pathum Wan district, Bangkok",
+        "price": null,
+        "location_google_map_query": "Chulalongkorn University Museum of Natural History"
+      },
+      "references": [
+        {
+          "title": "Chulalongkorn University Museum of Natural History",
+          "url": "https://www.bangkokpost.com/video/thailand/3211854/chulalongkorn-university-museum-of-natural-history-in-bangkok-thailand",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211854_700.jpg"
+        }
+      ],
+      "collected_at": "11:46",
+      "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211854_700.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "송클라 지역 국회의원, 온라인 도박 연루 혐의로 소환 조사 예정",
+      "summary": "- 초노나팟 낙수아 송클라 지역 국회의원이 온라인 도박 연루 혐의로 소환될 예정입니다.\n- DSI와 뽀뽀옹.은 이미 그의 자택을 수색했으며, 현재 태국에 있는 것으로 추정됩니다.\n- 그는 의원으로서 면책특권을 받을 수 있지만, 의회 회기 중이 아닐 경우 체포될 수 있습니다.",
+      "full_translated": "차논팟 낙수아 송클라 지역 국회의원은 모든 절차를 따르겠다고 밝혔습니다. 그는 2026년 3월 7일에 소환될 예정입니다. 이는 법무부 장관, DSI 국장, 뻐뻐뻐엉 사무총장 및 관련 기관이 어제 (3월 6일) 온라인 도박 웹사이트 확장에 대한 기자 회견을 한 후 나온 것입니다. 이 기자 회견에서 차논팟 낙수아 의원에 대한 소환장이 발부되었다는 사실이 인정되었습니다. 그 전날 DSI와 뻐뻐뻐엉은 송클라에 있는 그의 집을 수색했습니다. DSI 국장은 차논팟 의원이 여전히 태국에 있다고 믿고 있으며, 의원으로서 면책특권을 받을 수 있다고 언급했습니다. 수사국은 차논팟 의원에게 소환장을 보냈지만, 의회 회기 중이 아닐 경우 우리는 조치를 취할 권한이 있습니다. 그러나 의회 회기가 시작되면 차논팟 의원은 체포 또는 구금에 대한 질문을 받아야 하는 면책특권을 갖습니다. 끌라탐 당의 고문인 러.어. 탐마낫 프롬파오는 당원들을 국회에 보고한 후 자신이 아직 모른다고 밝혔습니다. 법무부의 발표를 보고 기다려야 합니다. 그는 의원이며 어떤 면책특권이 있는지 확인해야 합니다. 이 문제는 끌라탐 당과는 관련이 없으며 개인적인 잘못입니다. 차논팟 의원은 다른 끌라탐 당 의원들과 함께เดินทาง하지 않았지만, 3월 4일에 국회에 보고했습니다. 가장 최근인 3월 6일 저녁, 차논팟 의원은 자신의 페이스북에 성명을 발표했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 뉴스이며, 관광객에게 직접적인 영향은 적으나, 태국 정세에 대한 이해를 돕기 위해 포함. 다만 정치적 요소이므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ชนนพัฒฐ์ นาคสั้ว” ยัน ให้ทุกอย่างเป็นไปตามกระบวนการ หลังถูกออกหมายเรียก",
+          "url": "https://www.thairath.co.th/news/politic/2918445",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFaZCoYkCpwLw.jpg"
+        }
+      ],
+      "collected_at": "11:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFaZCoYkCpwLw.jpg",
       "date": "2026-03-07"
     }
   ]
