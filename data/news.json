@@ -20102,14 +20102,9 @@
       "summary": "- 태국 민간항공국(CAAT)은 중동 분쟁으로 아시아-유럽 직항편 수요가 급증하여 항공권 가격이 상승했다고 발표함.\n- 3월 말부터 항공편 운항 차질이 완화되고 항공권 가격이 하락할 것으로 예상되지만, 현재는 단기 구매 시 고가 티켓만 이용 가능함.\n- CAAT는 항공유 비용 변동을 면밀히 모니터링하고 있으며, 항공사와 협력하여 요금에 미치는 잠재적 영향을 평가하고 있음.",
       "full_translated": "태국 민간항공국(CAAT)은 중동 분쟁으로 인해 아시아와 유럽 간 여행객들이 합리적인 가격의 항공권을 확보하기 위해 여행 계획을 미리 세워야 한다고 밝혔습니다. CAAT는 여행 동향 모니터링을 기반으로 3월 말부터 항공편 운항 차질이 완화되고 급등한 항공권 가격이 하락할 것으로 예상했습니다. 그러나 현재 중동에 기반을 둔 대부분의 항공사는 오만발 일부 항공편을 제외하고 정상 운항을 재개할 수 없습니다. 국제선 네트워크, 특히 중동을 연결 항공편으로 이용하는 노선이 영향을 받았습니다. 그 결과, 일부 승객은 아시아와 유럽 간 직항편으로 이동했습니다. 이로 인해 해당 노선의 좌석 수요가 급격히 증가하여 단기 구매 시 더 비싼 티켓만 남게 되었습니다. 여행 계획을 미리 세우는 것이 좋으며, 유연한 일정을 가진 승객은 연결 항공편을 계속 운항하는 국가를 경유하는 대체 노선을 고려할 수 있습니다. CAAT는 중동 상황과 관련된 항공유 비용의 변화를 면밀히 모니터링하고 있으며, 항공사와 협력하여 요금에 미치는 잠재적 영향을 평가하고 있습니다. 균형 잡힌 요금 수준을 유지하고 승객의 부담을 줄이기 위한 적절한 조치가 논의되고 있으며, 태국 공항에서 발이 묶인 승객은 보고되지 않았습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공료 상승은 여행 예산에 직접적인 영향을 미치므로 여행자에게 중요한 정보임. 특히 단기 여행객에게는 더욱 중요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Early trip planning urged as Mideast war sends airfares soaring",
@@ -20120,21 +20115,18 @@
       ],
       "collected_at": "13:28",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211864_260307112437_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211864/early-trip-planning-urged-as-mideast-war-sends-airfares-soaring",
+      "source": ""
     },
     {
       "title": "태국 금 가격 상승: 3월 7일, 금 장신구 판매가 78,750 바트",
       "summary": "- 태국 금 가격이 상승하여 금괴 판매가는 77,950 바트, 금 장신구 판매가는 78,750 바트 기록.\n- 이는 3월 7일 오전 9시 31분 기준으로 1,100 바트 상승한 가격임.\n- 금 가격은 무게에 따라 다르며, 금괴와 금 장신구의 무게 기준이 각각 다름.",
       "full_translated": "3월 7일 태국 금 가격\n금 거래 협회 보고에 따르면, 개장 시 가격이 1,100 바트 상승했습니다. 금괴 판매 가격은 바트당 77,950.00 바트, 금 장신구 판매 가격은 바트당 78,750.00 바트입니다.\n\n2069년 3월 7일 금 거래 협회는 태국 금 가격이 오전 9시 31분에 1차로 1,100바트 상승했다고 보고했습니다. 이에 따라 금괴 매입 가격은 바트당 77,750.00바트, 판매 가격은 바트당 77,950.00바트입니다. 금 장신구 매입 가격은 바트당 76,194.16바트, 판매 가격은 바트당 78,750.00바트입니다.\n\n오늘의 금 가격은 다음과 같습니다. 금 1바트 가격은 다음과 같은 금 무게를 기준으로 합니다. 금괴 1바트는 무게 15.244그램, 금 장신구 1바트는 무게 15.16그램입니다.\n\n금괴 1바트 매입 가격은 77,750.00바트입니다.\n금괴 1바트 판매 가격은 77,950.00바트입니다.\n금 장신구 1바트 매입 가격은 76,194.16바트입니다.\n금 장신구 1바트 판매 가격은 78,750.00바트입니다.\n금 2살릉 또는 금 50사탕의 매입 및 판매 가격은 다음과 같은 금 무게를 기준으로 합니다. 금괴 2살릉 무게는 7.622그램, 금 장신구 2살릉 무게는 7.58그램입니다. ...\n\n금괴 2살릉 매입 가격은 38,875.00바트입니다.\n금괴 2살릉 판매 가격은 38,975.00바트입니다.\n금 장신구 2살릉 매입 가격은 38,097.08바트입니다.\n금 장신구 2살릉 판매 가격은 39,375.00바트입니다.\n금 1살릉 매입 및 판매 가격은 다음과 같은 금 무게를 기준으로 합니다. 금괴 1살릉 무게는 3.812그램, 금 장신구 무게는 3.79그램입니다.\n\n금괴 1살릉 매입 가격은 19,437.50바트입니다.\n금괴 1살릉 판매 가격은 19,487.50바트입니다.\n금 장신구 1살릉 매입 가격은 19,048.54바트입니다.\n금 장신구 1살릉 판매 가격은 19,687.50바트입니다.\n금 반 살릉의 매입 및 판매 가격은 다음과 같은 금 무게를 기준으로 합니다. 금괴 반 살릉 무게는 1.905그램, 금 장신구 반 살릉 무게는 1.89그램입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행 중 금 구매에 관심 있는 여행객에게 유용한 정보. 환율 변동과 유사한 경제 지표.",
-      "event_info": {
-        "date": "2069-03-07",
-        "location": "태국",
-        "price": "78750 바트 (금 장신구 1바트 판매가)",
-        "location_google_map_query": "태국 금은방"
-      },
+      "event_info": "{'date': '2069-03-07', 'location': '태국', 'price': '78750 바트 (금 장신구 1바트 판매가)', 'location_google_map_query': '태국 금은방'}",
       "references": [
         {
           "title": "ราคาทองวันนี้ 7 มี.ค. เปิดตลาด รูปพรรณขายออก 78,750 บาท เช็กราคาล่าสุด",
@@ -20145,21 +20137,18 @@
       ],
       "collected_at": "13:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GC7Jy8mghNHJv.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/society/2918436",
+      "source": ""
     },
     {
       "title": "미국 백악관, 이란 전쟁 영상을 게임 및 영화와 짜깁기하여 비판 직면",
       "summary": "- 백악관이 이란 군사 작전 영상을 게임 및 영화 장면과 혼합하여 소셜 미디어에 게시하여 논란.\n- 비판론자들은 전쟁의 심각성을 희석시키고, 폭력을 엔터테인먼트처럼 보이게 한다고 지적.\n- 벤 스틸러를 포함한 유명 인사와 전문가들이 부적절함을 비판하며 영상 삭제를 요구.",
       "full_translated": "미국 백악관이 이란에 대한 군사 공격 영상을 비디오 게임 및 유명 액션 영화 장면과 편집하여 소셜 미디어에 게시한 후 거센 비판에 직면했습니다. 보도에 따르면 공개된 영상은 약 40초에서 1분 길이이며, 군사 작전의 실제 장면과 '콜 오브 듀티' 게임, '아이언맨' 영화, '탑건: 매버릭' 영화, 그리고 다양한 할리우드 영화의 영웅 캐릭터와 액션 장면이 혼합되어 있습니다. 해당 영상은 백악관 소셜 미디어 계정을 통해 'Justice the American Way'라는 정치적 메시지와 함께 게시되었으며, 액션 영화 예고편 스타일로 편집되어 비디오 게임 스타일의 음향 효과와 음악이 포함되었습니다.\n\n'전쟁을 오락처럼 만든다'는 비판이 쏟아졌습니다... 영상이 공개된 후 많은 소셜 미디어 사용자, 학계, 그리고 엔터테인먼트 업계 인사들이 실제 전쟁 영상을 엔터테인먼트 미디어와 편집하는 것이 전쟁의 폭력을 게임이나 영화처럼 보이게 할 수 있다고 비판했습니다. 할리우드 배우 벤 스틸러조차도 해당 영상을 비판하며 '전쟁은 영화가 아니다'라고 언급하며 자신의 작품을 허가 없이 사용한 영상을 삭제할 것을 요구했습니다. 일부 참전 용사와 학자들은 전쟁을 게임과 유사한 방식으로 제시하는 것이 대중이 갈등의 실제 영향과 인명 손실을 간과하게 만들 수 있다고 지적합니다.\n\n미디어 전문가들은 해당 영상이 정치적 지지를 얻고 디지털 세계에서 전쟁에 대한 이야기를 통제하기 위한 온라인 미디어 전략과 밈 문화를 사용하는 것을 반영한다고 분석합니다. 그러나 많은 비평가들은 이러한 프레젠테이션이 전쟁의 심각성을 감소시키고 갈등을 경시한다고 생각합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 관련 직접적인 영향은 없지만, 국제 정세에 대한 이해를 돕는 정보. 다만, 현재 여행객에게 시급한 정보는 아니므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทำเนียบขาวถูกวิจารณ์หนัก หลังโพสต์คลิปสงครามอิหร่านตัดต่อกับเกม และหนังฮอลลีวูด",
@@ -20170,21 +20159,18 @@
       ],
       "collected_at": "13:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GC7EJw63r1YWE.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918431",
+      "source": ""
     },
     {
       "title": "빠툼타니에서 밀수된 말린 도마뱀 12만 마리 압수",
       "summary": "- 경찰은 빠툼타니 창고에서 수출을 위해 보관 중이던 말린 도마뱀 12만 마리 이상을 압수했습니다.\n- 말린 도마뱀은 다른 나라에서 태국으로 밀수되었으며, 현재 수사가 진행 중입니다.\n- 창고에서는 말린 난초, 물소 뿔, 나무 조각, 나무 가루도 발견되어 압수되었습니다.",
       "full_translated": "경찰은 금요일 빠툼타니의 한 창고에서 판매를 위해 수출되기 전 보관 중이던 말린 도마뱀 사체 12만 마리 이상을 압수했습니다. 말린 도마뱀은 다른 나라에서 태국으로 밀수되었으며, 이번 압수는 현재 진행 중인 수사의 일환이라고 경찰은 밝혔습니다. 천연자원환경범죄진압부 소속 경찰관들은 타냐부리 법원에서 발부된 수색 영장을 가지고 람룩까 지역에 위치한 해당 건물에서 선적 준비를 위해 종이 상자에 포장된 죽은 말린 도마뱀 12만 4천 마리를 발견했습니다. 또한 말린 난초, 물소 뿔, 나무 조각, 나무 가루도 발견되었으며, 이 모든 품목은 출처에 대한 철저한 조사를 위해 압수되었습니다. 이번 수사는 2025년 8월 27일에 밀수된 도마뱀 사체 1만 5천 마리를 압수하면서 시작되었습니다. 이후 경찰은 빠툼타니 창고가 중국 전통 의약품 시장으로 향하는 주요 제품 보관 허브라는 사실을 밝혀냈습니다. 경찰은 해당 건물을 임대한 남성과 여성을 구금했으며, 이들은 상품을 받고 발송하는 책임을 인정했습니다. 이들은 처음에 허가 없이 통제된 야생 동물의 사체를 불법적으로 수입하고 세관 절차 없이 수입 또는 수출한 혐의로 기소되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에는 큰 영향이 없으나, 태국 내 불법적인 야생동물 거래 및 관련 범죄에 대한 인식을 높일 수 있으며, 전통 의약품 시장에 대한 정보는 간접적으로 여행 관련 정보를 제공할 수 있습니다. 하지만 직접적인 연관성은 낮습니다.",
-      "event_info": {
-        "date": null,
-        "location": "빠툼타니",
-        "price": null,
-        "location_google_map_query": "빠툼타니"
-      },
+      "event_info": "{'date': None, 'location': '빠툼타니', 'price': None, 'location_google_map_query': '빠툼타니'}",
       "references": [
         {
           "title": "120,000 smuggled dried geckos seized in Pathum Thani",
@@ -20195,21 +20181,18 @@
       ],
       "collected_at": "13:28",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211899_260307120539_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211899/120000-smuggled-dried-geckos-seized-in-pathum-thani",
+      "source": ""
     },
     {
       "title": "2026년 중고 스마트폰 보상 판매 가이드: 삼성 갤럭시 S26 출시 영향",
       "summary": "- 삼성 갤럭시 S26 출시 후 태국 내 중고 스마트폰 보상 판매 가격 업데이트.",
       "full_translated": "2026년 2월 26일 삼성 갤럭시 S26 출시 후 태국 프리미엄 스마트폰 시장 경쟁 심화. 갤럭시 S26 시작 가격은 41,900바트이며, 3월 2일 출시된 아이패드 에어 M4는 21,900바트, 아이폰 17e는 22,900바트부터 시작. 이러한 신제품 출시로 인해 태국 내 중고폰 보상 판매 가격이 조정됨. 본 가이드는 소비자가 최신 기술로 업그레이드할 때 기존 기기에 대한 보상 판매 정보를 명확하게 제공하는 것을 목표로 함. 데이터는 Studio7 및 BaNANA IT 공식 포털에서 수집되었으며, iOS와 Android 사용자 모두에게 공정한 평가를 제공하기 위해 균형 잡힌 비교를 보장. 소매업체는 기기를 4단계 등급 시스템으로 분류하여 최종 보상 판매 가치를 결정하며, 이는 휴대폰의 물리적, 기능적 상태를 정확하게 반영.",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행 자체에는 큰 영향이 없으나, 전자기기 구매 및 판매에 관심 있는 여행자에게 유용한 정보. 최신 스마트폰 출시 정보 및 중고 가격 동향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Mobile trade-in values for 2026: What your old phone is worth now",
@@ -20220,6 +20203,131 @@
       ],
       "collected_at": "13:28",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c2_3211833.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/life/tech/3211833/mobile-tradein-values-for-2026-what-your-old-phone-is-worth-now",
+      "source": ""
+    },
+    {
+      "title": "태국, 관광객에게 돈을 지급하는 계획?",
+      "summary": "- 태국 정부가 관광객 유치를 위해 돈을 지급하는 방안을 고려 중이라는 내용의 기사입니다.\n- 구체적인 지급 방식이나 액수는 아직 결정되지 않았습니다.\n- 관광 산업 활성화에 도움이 될지 주목됩니다.",
+      "full_translated": "태국이 관광객에게 '돈을 지급'할 계획을 세우고 있을까요? Pattaya Mail",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광객 유치 정책에 대한 정보로, 여행객에게 직접적인 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Is Thailand planning to “give money to tourists”? - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXZXLUlyVkJSWGJ0eGMwa3MxcU53WU15Q3ZSeElBUTc4a3ZXZmNuZmdvUmtvRkVQbmNQN1FVSHZ6SEJWWkJ4cTNVR0VpSHdmVG1CRy1WZ2JNZHFaS0pxX2hLMHBQVUpwTTNFbEhrNTN0Y2lkT1BGZlpJNGc5eEcwWHRfQUUtMUJjbm5pNFpMM2w4b2pDX0JNYlNyRzBVZw?oc=5",
+          "source": "Pattaya Mail"
+        }
+      ],
+      "collected_at": "14:04",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 노동부, 중동 지역 근로자 200명의 귀국 요청에 대한 지원 준비",
+      "summary": "- 태국 노동부는 중동 지역 불안정으로 인해 귀국을 희망하는 근로자들을 지원할 준비가 되었다고 발표함.\n- 현재까지 약 200명의 근로자가 귀국을 요청했으며, 정부는 이들의 안전한 귀국을 위해 필요한 조치를 취하고 있음.\n- 귀국 후에는 직업 기술 개발 및 취업 지원 프로그램이 제공될 예정임.",
+      "full_translated": "태국 노동부 장관인 '뜨리눗'은 중동 지역의 태국인들을 지원하고 있으며, 태국으로 돌아가기를 원하는 사람들에게 편의를 제공할 것이라고 확인했습니다. 중동 지역에서 약 200명의 근로자들이 귀국을 요청했습니다. 2569년 3월 7일 오전 10시 30분, 뜨리눗 티안통 노동부 장관은 중동 국가 그룹의 태국인 노동자 상황에 대해 밝혔습니다. 뜨리눗은 정부가 우려하고 있으며 상황을 지속적으로 모니터링하고 있다고 말했습니다. 노동 담당관은 태국으로 돌아가기를 원하는 태국인 노동자들을 돌보기 위해 해당 지역의 외무부와 긴밀히 협력하고 있습니다. 정부는 지원을 제공할 준비가 되어 있습니다. 뜨리눗은 현재 소수의 태국인 노동자들이 이미 귀국하고 있다고 밝혔습니다. 특히 이스라엘에서는 귀국을 원하는 노동자가 100명이 채 되지 않습니다. 이란에서는 대부분의 노동자들이 귀국을 요청했습니다. 총리는 우려를 표명하며 이란의 모든 태국인 노동자들이 귀국하기를 원합니다. 현재 중동 지역에서 귀국을 원하는 태국인 노동자는 200명이 넘지 않습니다. 또한 노동부는 분쟁 확산에 대처하기 위한 조치를 준비하고 있으며, 운영을 두 부분으로 나누었습니다. 첫째, 해외 노동 담당관이 해당 지역의 태국인과 협력하고 안전한 지역과 협력합니다. 대부분의 태국인 노동자는 농업 및 건설 분야에 종사하고 있으며, 공격을 받는 지역은 대부분 군사 지역이기 때문에 귀국을 원하는 노동자의 수는 아직 많지 않습니다. 태국인 노동자들은 3월 7일과 10일에 태국에 도착할 예정입니다... 노동자들이 태국에 도착하면 정부는 기술 개발 부서가 추가 기술 개발을 지원하고, 노동자들이 일자리를 원할 경우 고용 부서가 산업 부문과 연결해 주는 방식으로 관리할 계획입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국으로 돌아오는 노동자들에 대한 정보는 태국 내 상황에 대한 간접적인 정보가 될 수 있으며, 관련 정책에 대한 이해를 도울 수 있다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รมว.แรงงาน เผยยอดแรงงานไทยในตะวันออกกลางขอกลับประเทศประมาณ 200 คน ยันพร้อมอำนวยความสะดวก",
+          "url": "https://www.thairath.co.th/news/politic/2918462",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdfQ873El7Oj.jpg"
+        }
+      ],
+      "collected_at": "14:04",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdfQ873El7Oj.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중동 분쟁, 태국 관광에 미치는 영향",
+      "summary": "- 중동 지역 분쟁이 태국 관광 산업에 미치는 영향에 대한 분석.\n- 아직 구체적인 영향은 불분명하나, 상황을 주시해야 함.\n- 관련 산업 종사자들은 잠재적 위험에 대비해야 함.",
+      "full_translated": "중동 분쟁이 태국 관광에 미치는 영향 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 분쟁이 태국 관광 산업에 간접적인 영향을 미칠 수 있으므로 정보 제공. 잠재적 위험에 대한 대비 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East conflict Thailand tourism impact - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGl4R2ZLeXZMMGRNdnZSNVM3OVhQMm1XNnYtY3ZEYnJHS1RtU1pwaHNYeEJHUGp6RDRpcmR1SU03M2pqUzVja2RZTkpnckJkMXh6Zm5PVFRvZm0wV3FYSzljYWtOQWhkTDAxcy1wQTMwUXpNaUN3RExWY2cxWmVtYUpZRlRvYy16b2JVUTA1S2FSa0hWZXRHblFNNF91UQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:04",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "BMW iX3 xDRIVE 50 공개 예정: 대용량 배터리로 장거리 주행 가능",
+      "summary": "- BMW의 새로운 전기차 플랫폼 Neue Klasse 기반의 iX3 공개 예정\n- 108.7 kWh 대용량 배터리로 최대 800km 주행 가능 (WLTP 기준)\n- 400kW 충전 시스템으로 10분 충전에 400km 주행 가능",
+      "full_translated": "BMW iX3는 “양산에 들어가는 새로운 플랫폼 Neue Klasse의 첫 번째 전기 자동차”입니다. BMW가 60여 년 전에 첫 번째 New Class 자동차를 만든 이후 오랜 시간이 흘렀습니다. 이후 첫 번째 Neue Klasse 플랫폼은 성공을 거두었고 오늘날 자동차의 원형이 되었습니다. Neue Klasse의 첫 번째 모델은 1960년대에 특히 BMW 1500 /1600/2000 CS/ 2002 Tii 모델이 BMW를 재정적 파산 위기에서 구하는 데 도움이 되면서 큰 성공을 거두었습니다. 2026년의 새로운 Neue Klasse 플랫폼은 그 이름에 걸맞아야 하며, iX3는 매우 미래 지향적인 디자인으로 인해 좋아 보입니다. 전면 그릴은 다소 특이하고 작아 보이지만요. iX3 50 xDrive 모델의 주요 사양은 463마력, 645Nm(476파운드-피트)의 토크이며, BMW의 6세대 eDrive 기술을 사용하여 듀얼 모터로 네 바퀴 모두에 동력을 전달합니다. 즉, 새로운 iX3의 0-100km/h 가속 시간은 4.9초이고 최고 속도는 210km/h로 제한됩니다.\n\niX3에는 새로운 원통형 셀과 800볼트 기술을 사용하는 최대 108.7kWh의 대형 배터리도 함께 제공되어 WLTP 표준에 따라 최대 800km의 주행 거리를 제공합니다. 400kW 충전 시스템으로 빠르게 충전할 수 있으며, 단 10분 만에 400km의 주행 거리를 추가할 수 있습니다. 이는 BMW eDrive 5세대 기술에 비해 30% 증가한 충전 속도입니다. 6세대의 경우 에너지 손실이 40% 감소하고 무게가 10% 감소하며 생산 비용이 20% 감소합니다. 가장 진보된 \"슈퍼 브레인\" 기술은 기본적으로 BMW가 \"디지털 신경계\"라고 설명하는 Neue Klasse 자동차를 위한 새로운 전자 아키텍처입니다. 4개의 첨단 하이테크 컴퓨터를 사용합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "방콕 여행 자체에는 직접적인 영향이 없으나, BMW iX3의 새로운 기술 정보는 자동차에 관심 있는 여행객에게 흥미로운 읽을거리가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เจาะก่อนเปิดตัว BMW iX3 xDRIVE 50 แบตฯใหญ่วิ่งไกลลิบโลก",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2917657",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCXWuqnKU9L1D2SE.jpg"
+        }
+      ],
+      "collected_at": "14:04",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCXWuqnKU9L1D2SE.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "차논팟, 출석 연기 요청 서류 미제출… 3월 12일 소환 예정",
+      "summary": "- DSI, 촌나팟에게 3월 12일 출석 통보, 연기 요청 서류 미제출 확인.\n- 온라인 도박 웹사이트 관련 혐의로 조사 예정.\n- 공범 24명은 대부분 해외 거주 중.",
+      "full_translated": "DSI 기술범죄 부서장은 '차논팟 낙수아'에게 3월 12일 온라인 도박 웹사이트 관련 혐의로 출석 통보한 것이 유효하며, 출석 연기 요청 서류는 제출되지 않았다고 밝혔습니다. 수사관은 모든 사안에 대해 질문할 예정입니다. 체포 영장이 발부된 나머지 24명은 대부분 해외에 거주하고 있습니다.\n\n3월 7일, 특별수사반이 온라인 도박 웹사이트 운영과 관련된 특별 사건 150/2025에서 일부 용의자를 검거했다고 밝혔습니다. 해당 용의자들은 온라인 도박 운영 공모 및 돈세탁 혐의를 받고 있습니다. 용의자 중 한 명인 나리랏은 3월 5일 방콕 딘댕 지역에서 체포되어 3월 6일 형사 법원에 구속 영장을 신청했습니다. 수사반은 보석에 반대했으며, 법원은 12일 동안 구속을 허가하고 보석을 불허했습니다. 현재 체포 영장이 발부된 24명의 용의자가 남아 있으며, 이들은 대부분 주변국에 거주하고 있는 것으로 파악되었습니다. 용의자가 태국으로 돌아오는 경우 체포하여 법원에 구속할 수 있습니다.\n\n경찰청 켐차트 프라카이홍마니 기술정보부서장은 정치인 남성에 대한 소환장은 3월 12일 오전 10시 방콕 쨍와타나 로에 있는 특별수사국 건물로 출석하여 온라인 도박 웹사이트 운영 공모 및 돈세탁 혐의에 대한 조사를 받을 예정이며, 아직까지 출석 연기 요청 서류는 접수되지 않았다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "한국인 여행객에게 직접적인 영향은 없으나, 태국 내 범죄 관련 소식이므로 낮은 점수 부여. 정치인 연루 가능성.",
+      "event_info": {
+        "date": "2024-03-12",
+        "location": "กรมสอบสวนคดีพิเศษ ถนนแจ้งวัฒนะ กรุงเทพมหานคร",
+        "price": null,
+        "location_google_map_query": "กรมสอบสวนคดีพิเศษ ถนนแจ้งวัฒนะ กรุงเทพมหานคร"
+      },
+      "references": [
+        {
+          "title": "เผย \"ชนนพัฒฐ์\" ไม่ได้ส่งเอกสารเลื่อนรับทราบข้อหา ยังเรียกพบกำหนดการเดิม 12 มี.ค.",
+          "url": "https://www.thairath.co.th/news/crime/2918458",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFByOMkrIHZiP.jpg"
+        }
+      ],
+      "collected_at": "14:04",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFByOMkrIHZiP.jpg",
       "date": "2026-03-07"
     }
   ]
