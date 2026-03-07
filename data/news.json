@@ -21827,14 +21827,9 @@
       "summary": "- 파타야는 12월에 열리는 Tomorrowland Thailand에 대비하여 인파를 수용하기 위한 준비를 하고 있습니다.\n- 숙박 시설 및 교통 혼잡이 예상됩니다.\n- 행사 참여를 원하는 여행객은 미리 준비해야 합니다.",
       "full_translated": "파타야는 12월에 개최될 예정인 Tomorrowland Thailand에 대비하여 많은 인파를 수용하기 위해 여러 준비를 하고 있습니다. 이 기간 동안 숙박 시설과 교통 혼잡이 예상되므로, 행사 참여를 원하는 여행객은 미리 숙소를 예약하고 교통편을 확인하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 행사로 인한 혼잡 예상, 여행객에게 사전 정보 제공 필요.",
-      "event_info": {
-        "date": "2024-12",
-        "location": "파타야",
-        "price": "별도 확인 필요",
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2024-12', 'location': '파타야', 'price': '별도 확인 필요', 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Tomorrowland Thailand ticket rush begins as Pattaya braces for December crowds - El-Balad.com",
@@ -21842,22 +21837,20 @@
           "source": "El-Balad.com"
         }
       ],
-      "collected_at": "01:54",
-      "date": "2026-03-08"
+      "collected_at": "1:54",
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": null,
+      "source": ""
     },
     {
       "title": "호주 여행객, 태국 여행 시 알아야 할 주요 변경 사항",
       "summary": "- 호주 여행객은 태국 여행 전에 알아야 할 중요한 변경 사항이 있습니다.\n- 변경 사항에 대한 자세한 내용은 기사를 참조하십시오.\n- 태국 여행을 계획 중인 호주 여행객은 변경 사항을 숙지해야 합니다.",
       "full_translated": "태국으로 향하는 호주 여행객을 위한 주요 변경 사항 - 알아야 할 사항 - MSN",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행 관련 규정 변경은 여행 계획에 영향을 줄 수 있으므로 중요하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Major change for Aussie tourists heading to Thailand - here's what you need to know - MSN",
@@ -21866,23 +21859,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:54",
+      "collected_at": "1:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPVFlzWGxObUVtdzUxVmhCVjRicHhEc2FYWnFRZ1paMFdiLTRGTkNIZEJMcnJJUnhxNEhGU2owV0hnYldFejl2OTRtOXpva0RhLVhkQ0l1MUZXa1VXb1JybWtGalYzUERvVUxLTUxzTTlZYUNWTDNCZFhKbFEyc20zVjdzN1V4QTJiVEFpcFViN1NxN0cybnZYTncxVUIzSzY5Y29XQUk5bUVOOGRsZEVpVUxqOVphUFN1cWs3MnRUdXpUUUtQZTk1ZHdrMG9ubnAtYWRORFZBV1VDSHFwNmZfTXlXa21MR0YxbGliWUdVbjduck5nWUo1aGpPLWtDdmgwY1A0NHAweXEwOUpRWjV2MEk5V19YcV9nTEY1OEtwVnhDNDRTN0ZCZE1zYkhPdXlJMXRnOFMzT3lZTU1EMndGckFyZVhlX1hibHYzTmhYa1I4MlRMdmdiakViMk5IQ01zRnRGTWFaUklfOXgzZTJWMkFSUnFLb215Uk5MZzR6M3Y4MUlsbUF6U2ZVRWJPQUU5LWxKRWlhUk1ESlc3b2c4SjU2STUzZm40OU9aNzlUMVpXUzA?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 워킹 스트리트 난투극 영상 확산, 경찰 조사 착수 (재확인)",
       "summary": "- 파타야 워킹 스트리트에서 발생한 난투극 영상이 온라인에 확산되고 있습니다.\n- 경찰은 사건 경위를 조사 중입니다.\n- 여행객들은 해당 지역 방문 시 안전에 유의해야 합니다.",
       "full_translated": "파타야 워킹 스트리트에서 발생한 난투극 영상이 온라인에 빠르게 확산되고 있습니다. 현지 경찰은 현재 사건의 원인과 관련된 모든 세부 사항을 조사하고 있습니다. 여행객은 해당 지역을 방문할 때 각별한 주의를 기울여야 하며, 잠재적인 위험을 인지하고 있어야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전에 영향을 미칠 수 있는 사건이므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 워킹 스트리트",
-        "price": null,
-        "location_google_map_query": "파타야 워킹 스트리트"
-      },
+      "event_info": "{'date': None, 'location': '파타야 워킹 스트리트', 'price': None, 'location_google_map_query': '파타야 워킹 스트리트'}",
       "references": [
         {
           "title": "Pattaya Police Investigating Viral Video of Wild Chaotic Brawl on Walking Street",
@@ -21890,8 +21880,11 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "01:54",
-      "date": "2026-03-08"
+      "collected_at": "1:54",
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": null,
+      "source": ""
     }
   ]
 }
