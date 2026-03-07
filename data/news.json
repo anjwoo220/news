@@ -21641,14 +21641,9 @@
       "summary": "- 이란에서 미국과 이스라엘의 공격으로 인한 사망자 수가 최소 1,348명으로 증가했습니다.\n- 사망자 중 어린이가 200명에 달하며, 공격은 28개 주로 확산되었습니다.\n- 주요 공격 목표는 테헤란과 서부 지역이며, 국제 인도법에 따라 보호되는 시설도 피해를 입었습니다.",
       "full_translated": "이란에서 미국과 이스라엘의 공격으로 인한 사망자 수가 최소 1,348명으로 증가했습니다. 인권운동가 단체 HRANA에 따르면 사망자 중 어린이가 194명에 달하며, 군인 사망자는 176명입니다. 공격은 28개 주로 확산되었으며, 최근 공격은 이전보다 훨씬 더 강력하고 전국적으로 확산된 것으로 평가됩니다. 주요 공격 목표는 테헤란과 서부 지역이며, 적신월사 센터, 테헤란의 주거지 3곳, 이란 국영 석유 회사(NIOC) 건물 등 국제 인도법에 따라 보호되는 시설도 피해를 입었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국 여행과는 직접적인 관련이 없는 국제 분쟁 관련 뉴스이므로 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านดับพุ่ง 1,348 ศพ หลังสหรัฐฯ–อิสราเอลถล่ม เกือบ 200 รายเป็นเด็ก",
@@ -21659,7 +21654,53 @@
       ],
       "collected_at": "23:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4IgLMHcJeAU.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918540",
+      "source": ""
+    }
+  ],
+  "2026-03-08": [
+    {
+      "title": "파타야 워킹 스트리트 난투극 영상 확산, 경찰 조사 착수",
+      "summary": "- 새벽 5시경 파타야 워킹 스트리트에서 외국인 남성이 집단 구타당하는 영상이 확산 중.\n- 한 여성이 남성을 보호하려다 트랜스젠더 여성들에게 폭행당하는 장면도 포함.\n- 경찰은 현재 사건 경위를 조사 중이며, 관련자들을 추적하고 있습니다.",
+      "full_translated": "한 페이스북 사용자가 3분 12초 분량의 난투극 영상을 공유하며 사건이 알려졌습니다. 영상에 따르면 사건은 새벽 5시경 파타야 남부 워킹 스트리트 지역에서 발생했습니다. 게시자는 태국어로 \"태국인들이 떼를 지어 심하게 구타하는 것은 끔찍합니다. 그는 맞을 짓을 하지 않았습니다. 그들은 단지 술에 취한 그를 공격했습니다. 그는 맞고 반격했습니다. 말도 안 됩니다.\"라고 썼습니다. 영상에는 흰 셔츠를 입은 중동인으로 보이는 남성이 얼굴과 턱을 발로 차여 쓰러지는 모습이 담겨 있습니다. 검은색 스파게티 스트랩 상의를 입은, 역시 중동 출신으로 보이는 한 여성이 남성을 보호하려고 개입하면서 상황은 더욱 혼란스러워졌습니다. 오토바이 택시 운전사들이 \"그만! 그만!\"이라고 외치며 당사자들을 떼어놓기 위해 나섰다고 합니다. 그러나 외국인 커플이 서로 말다툼을 시작하면서 상황은 다시 악화되었습니다. 구경꾼과 관광객들이 개입하여 그들을 떼어놓으려고 했습니다. 영상은 또한 약 4~5명의 트랜스젠더 여성들이 달려와 외국인 여성을 폭행하여 눈에 띄게 다치게 하는 모습을 보여줍니다. 공격 후, 공격자들은 사건에 개의치 않는 듯 웃고 미소를 지으며 뿔뿔이 흩어졌다고 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "관광지에서 발생한 폭력 사건으로, 여행객 안전에 대한 우려를 야기합니다. 유사 사건 재발 방지를 위한 경찰 조사 결과에 따라 추가적인 안전 조치가 필요할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 워킹 스트리트",
+        "price": null,
+        "location_google_map_query": "파타야 워킹 스트리트"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Investigating Viral Video of Wild Chaotic Brawl on Walking Street",
+          "url": "https://thepattayanews.com/2026/03/07/pattaya-police-investigating-viral-video-of-wild-chaotic-brawl-on-walking-street/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260307_2351385014863235309229004.jpg?v=1772902379"
+        }
+      ],
+      "collected_at": "00:14",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260307_2351385014863235309229004.jpg?v=1772902379",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국-중국 투자 포럼, 800명 이상의 투자자 유치",
+      "summary": "- 태국과 중국 간 투자 포럼이 성공적으로 개최되어 800명 이상의 투자자를 유치함.\n- 이는 태국 경제에 긍정적인 영향을 미칠 것으로 예상됨.\n- 구체적인 투자 분야 및 규모에 대한 추가 정보 필요.",
+      "full_translated": "태국-중국 투자 포럼, 800명 이상의 투자자 유치",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 활성화에 기여할 수 있지만, 관광객에게 직접적인 영향은 미미함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [],
+      "collected_at": "00:14",
+      "date": "2026-03-08"
     }
   ]
 }
