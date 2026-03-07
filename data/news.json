@@ -21702,14 +21702,9 @@
       "summary": "- 태국 정부가 관광 활성화를 위해 관광객에게 돈을 지급하는 방안을 고려 중이라고 파타야 메일이 보도함.\n- 구체적인 지급 방식이나 금액은 아직 결정되지 않았음.\n- 관광 산업 의존도가 높은 태국 경제 회복에 도움이 될지 주목됨.",
       "full_translated": "태국이 관광객에게 돈을 지급하는 계획을 검토 중이라고 파타야 메일이 보도했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 유치 정책 관련 소식이므로 여행객에게 중간 정도의 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Is Thailand planning to “give money to tourists”? - Pattaya Mail",
@@ -21718,23 +21713,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXZXLUlyVkJSWGJ0eGMwa3MxcU53WU15Q3ZSeElBUTc4a3ZXZmNuZmdvUmtvRkVQbmNQN1FVSHZ6SEJWWkJ4cTNVR0VpSHdmVG1CRy1WZ2JNZHFaS0pxX2hLMHBQVUpwTTNFbEhrNTN0Y2lkT1BGZlpJNGM5eEcwWHRfQUUtMUJjbm5pNFpMM2w4b2pDX0JNYlNyRzBVZw?oc=5",
+      "source": ""
     },
     {
       "title": "UAE 대통령, 잇따른 공격에 이란을 '적'으로 규정",
       "summary": "- UAE 대통령, 이란을 '쉽게 씹을 수 있는 먹잇감'이 아니라고 경고하며 '적'으로 칭함.\n- 이는 최근 이란의 미사일 공격에 대한 대응으로, UAE는 1,200회 이상의 공격을 보고함.\n- 대통령은 UAE의 힘을 과시하며 국가와 국민의 안전을 약속.",
       "full_translated": "아랍에미리트 대통령은 이란이 자국을 계속 공격하자 이란을 '적으로' 규정하며 경고했습니다. 2069년 3월 7일, 모하메드 빈 자예드 알 나흐얀 아랍에미리트(UAE) 대통령은 이란에 대해 자국이 '쉽게 씹을 수 있는 먹잇감'이 아니라고 경고하며 테헤란을 '적'으로 칭했습니다. 이는 UAE가 지난주 전쟁 발발 이후 이란의 공격 목표가 된 데 따른 것입니다. MBZ로 알려진 알 나흐얀 대통령은 'UAE의 적에게 메시지를 보내고 싶다'고 말했습니다. 'UAE는 아름답고 따라야 할 모델이지만, 그 이미지에 속지 마십시오.' MBZ는 이란의 공격으로 부상당한 민간인을 치료 중인 한 병원을 방문한 자리에서 이같이 말했습니다. 'UAE의 손은 강하고 닿을 수 있으며, 우리의 살은 쓰고 쉽게 씹을 수 있는 먹잇감이 아닙니다.' 이번 전쟁이 시작된 이후 처음 나온 MBZ의 성명은 에미리트 항공 방어 시스템이 이란 미사일 위협에 대응한 직후 발표되었습니다. 이란 대통령은 페르시아만 국가에 대한 공격이 선제 공격을 받지 않으면 중단될 것이라고 밝혔습니다. MBZ는 '우리는 국가와 국민, 그리고 우리와 함께 사는 사람들을 섬기는 임무를 수행하고 있습니다. 신께서 UAE, 국민과 모든 사람들을 보호하시고, 안정과 안전의 축복을 내려주시기를 바랍니다'라고 덧붙였습니다. '저는 앞으로 우리가 더 강해질 것이라는 것을 보여드리겠다고 약속합니다.' 한편, UAE는 2월 28일 전쟁 발발 이후 이란으로부터 1,200건 이상의 공격을 보고했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 직접적인 관련은 없지만, 주변국 정세 불안은 여행 심리에 영향을 줄 수 있음. 특히 UAE를 경유하는 여행객에게 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ปธน. UAE ฉุน เรียกอิหร่านเป็น “ศัตรู” หลังโดนโจมตีต่อเนื่อง",
@@ -21743,40 +21735,35 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4S1tgfscqLB.jpg"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4S1tgfscqLB.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/foreign/2918542",
+      "source": ""
     },
     {
       "title": "태국-중국 투자 포럼, 800명 이상의 투자자 유치 (업데이트)",
       "summary": "- 태국-중국 투자 포럼이 성공적으로 개최되어 800명 이상의 투자자를 유치함.\n- 이는 태국 경제에 긍정적인 영향을 미칠 것으로 기대됨.\n- 투자자들은 다양한 분야에서 투자 기회를 모색할 것으로 예상됨.",
       "full_translated": "태국-중국 투자 포럼이 성공적으로 개최되어 800명 이상의 투자자를 유치했다는 소식입니다. 이번 포럼은 태국 경제에 활력을 불어넣고, 다양한 분야에서 새로운 투자 기회를 창출할 것으로 기대됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "최근 개최된 투자 포럼 결과에 대한 업데이트 정보이므로, 태국 경제 상황에 대한 간접적인 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [],
-      "collected_at": "00:43",
-      "date": "2026-03-08"
+      "collected_at": "0:43",
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": "",
+      "source": ""
     },
     {
       "title": "유명 배우 손자의 익사체 발견: 안타까운 소식",
       "summary": "- 유명 배우 손폰 차트리의 손자가 익사체로 발견됨\n- 친구들과 물놀이 중 사고 발생\n- 가족들의 슬픔이 깊어지고 있음",
       "full_translated": "유명 배우 손폰 차트리의 12세 손자가 친구들 앞에서 익사한 채 발견되었습니다. 가족들의 슬픔 속에, 아유타야 구조대는 3시간이 넘는 수색 끝에 소년의 시신을 발견했습니다. 사고 당시 함께 있던 친구들은 충격과 슬픔에 잠겼으며, 어머니는 실신할 정도로 비통해했습니다. 경찰은 정확한 경위를 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객 안전에 직접적인 위협은 아니지만, 주의를 환기하고 유사 사고에 대한 경각심을 높이기 위해 포함. 사건 발생 및 수습 완료 시점.",
-      "event_info": {
-        "date": "2024-03-07",
-        "location": "아유타야",
-        "price": null,
-        "location_google_map_query": "아유타야"
-      },
+      "event_info": "{'date': '2024-03-07', 'location': '아유타야', 'price': None, 'location_google_map_query': '아유타야'}",
       "references": [
         {
           "title": "พบร่าง “น้องเก้า” วัย 12 ปี เหลนของอดีตพระเอกชื่อดัง หลังจมน้ำหายต่อหน้าเพื่อน",
@@ -21785,23 +21772,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOd15Y8LaCSOb.jpg"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOd15Y8LaCSOb.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/2918533",
+      "source": ""
     },
     {
       "title": "태국, 시리킷 여왕 애도 기간 1년 선포 - 여행객에게 미치는 영향",
       "summary": "- 태국 정부는 시리킷 여왕의 애도를 위해 1년 동안 공식적인 애도 기간을 선포했습니다.\n- 이 기간 동안 여행객은 특별한 제한을 받지 않지만, 일부 행사나 활동에 영향이 있을 수 있습니다.\n- 존중하는 태도를 유지하고 현지 관습을 따르는 것이 좋습니다.",
       "full_translated": "태국은 현재 시리킷 여왕을 1년 동안 애도하고 있습니다. 이것이 관광객에게 의미하는 바는 무엇일까요?\n\n(기사 전문은 영어로 제공되어 번역 생략)",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "애도 기간이 여행에 직접적인 큰 영향을 주지는 않지만, 일부 행사 취소나 변경 가능성이 있어 여행객에게 정보를 제공하는 것이 좋습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
@@ -21810,7 +21794,34 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:43",
+      "collected_at": "0:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQODdlSG02RmNSRzVoaWxBbmY3bzJ4TFJQZ3c4ejZtYjVlR3ZUTkpiTndLeV9ncXQtZy1aMkp5OXZHbG5PTzVGaEphR0lHU1I1WEhDb1NIWi1HaUs4aHRDSE5vQXlNZk1KUWVEc0pkZHhpcjhTaTg3cWhpUWQ3MFZ5d2VFM3prdkZ3cE1wZ3Bzc1AySWlDWGVZQlBPVl9CUzdUVk5iR1dfSXB0Q0RUaUFYY3FieE5XdnIyNWNUMVBmNHNSX3QxUENBOHNCZmNVWm5XcTdKNVBrcTJkWVJWRUFWaGFzWTFNZHRIdW9QMWJnVUhNbU1Kd0hBNlZ4YV82anBNcE55VF95MnJjMnR5ZEQ4Z2gtbWVnMHQ4TEh6UmYya0hEd1l1UHB0OUpGWmV6LWZPaGVhaHJXR196X1FsSDh6OUdlS0d4NF9reXNsOFl0NXJFQXd5SGU0NFNGYTZIcVBOUWZHTlpQMkZQQlNBV2ZwUUlNMURjTHNtRWNpaGdoWFlzWlNrWEtKaGdHWTZwNnVRd0d5OWpaZEM5X1l3X2ZKc3c0SQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야, 12월 Tomorrowland Thailand 대비 인파 준비",
+      "summary": "- Tomorrowland Thailand 티켓 판매 시작으로 파타야 지역 혼잡 예상.\n- 12월 파타야는 많은 관광객으로 붐빌 것으로 예상됨.\n- 여행객들은 혼잡에 대비하고 안전에 유의해야 함.",
+      "full_translated": "파타야는 12월에 Tomorrowland Thailand 행사로 인해 많은 인파가 몰릴 것으로 예상됨에 따라 대비하고 있습니다. 티켓 판매가 시작되면서 파타야 지역은 더욱 혼잡해질 것으로 보입니다. 여행객들은 이 점을 고려하여 여행 계획을 세우고, 혼잡한 상황에서 안전에 유의해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "대규모 행사로 인한 교통 혼잡 및 숙박 시설 부족 가능성. 여행객들에게 사전 준비 필요.",
+      "event_info": {
+        "date": "2024-12-00",
+        "location": "파타야",
+        "price": "티켓 가격은 Tomorrowland Thailand 웹사이트 참고",
+        "location_google_map_query": "파타야 Tomorrowland Thailand"
+      },
+      "references": [
+        {
+          "title": "Tomorrowland Thailand ticket rush begins as Pattaya braces for December crowds - El-Balad.com",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1fZHNOSUxuZl9ETEtlQy1VbVBXOHpNLTFHRXZmX1lQbEFRM0stNHdzSEozejQwTDhOYTlaVjA1UHo3dHEwQlVQTA?oc=5",
+          "source": "El-Balad.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
