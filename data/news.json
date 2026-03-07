@@ -20805,14 +20805,9 @@
       "summary": "- 태국 명문고 입학시험에서 소지품 규정으로 현금, 시계 등 버리는 상황 발생.\n- 시험장에 돈을 가져갈 수 없어 귀가 걱정하는 학생들 속출.\n- SNS에서 논란 확산, 학교 측의 미흡한 대처 비판 여론.",
       "full_translated": "태국의 한 명문고가 입학시험 규정 시행에 대한 미흡한 대처로 비난을 받고 있습니다. 방콕 명문고인 트라이암 우돔 수크사 학교의 2026학년도 입학시험이 지난 토요일 논타부리 지방의 임팩트 무앙 통 타니에서 치러졌습니다. 총 13,895명의 학생이 1,520명의 마타욤 수크사 자리를 놓고 경쟁합니다. 페이스북 사용자 Chiratchai Pawiwaranon은 학생들이 시험장 내 반입 금지 품목인 돈, 시계, 보석, 문구류, 화장품 등을 버리는 사진을 게시했습니다. 그는 \"누군가 Hone Krasae(인기 TV 프로그램)에 연락할 수 있다면 이 문제를 제기하는 데 도움을 주세요.\"라고 썼습니다. \"학생들은 돈을 시험장에 가져갈 수 없으며 쓰레기통에 버리라는 말을 듣고 있습니다. 어떻게 집에 가라는 거죠? 모든 부모가 밖에서 자녀를 기다리는 것은 아닙니다. 정말 학생들에게 미안합니다. 일부 학생들은 집에 어떻게 가야 할지 충격을 받고 걱정하며 휴대 전화조차 가지고 있지 않습니다.\" 이 게시물은 인기 소셜 미디어 페이지인 Drama-addict와 Hone Krasae에 의해 공유된 후 빠르게 입소문이 나면서 광범위한 온라인 토론과 엇갈린 반응을 불러일으켰습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "시험장 소지품 규정 관련 혼란은 여행객에게 직접적인 영향을 미치진 않으나, 시험장 주변 교통 혼잡이나 관련 소매치기 등 간접적 영향 가능성 존재. 현지 사회 이슈에 대한 이해를 돕기 위해 포함.",
-      "event_info": {
-        "date": "2026-03-07",
-        "location": "Impact Muang Thong Thani, Nonthaburi",
-        "price": "N/A",
-        "location_google_map_query": "Impact Muang Thong Thani"
-      },
+      "event_info": "{'date': '2026-03-07', 'location': 'Impact Muang Thong Thani, Nonthaburi', 'price': 'N/A', 'location_google_map_query': 'Impact Muang Thong Thani'}",
       "references": [
         {
           "title": "Cash-in-the-trash chaos at entrance exam",
@@ -20823,21 +20818,18 @@
       ],
       "collected_at": "17:15",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211960_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211960/cashinthetrash-chaos-at-entrance-exam",
+      "source": ""
     },
     {
       "title": "법원, '사라위-벤야파'의 보석 신청 기각, 구치소 수감",
       "summary": "- 법원이 살인 혐의로 기소된 사라위와 벤야파의 보석 신청을 기각했습니다.\n- 이들은 의료기기 회사 매니저를 살해하고 시신을 암매장한 혐의를 받고 있습니다.\n- 법원은 도주 우려를 이유로 보석을 불허하고 구치소에 수감했습니다.",
       "full_translated": "형사 법원은 '사라위-벤야파'의 보석 신청을 기각하며 피고인들이 도주할 우려가 있다고 판단했습니다. 관계자들은 이들을 구치소에 수감했습니다. 2069년 3월 7일, 수티산 경찰서의 수사관들은 의료기기 판매 회사 매니저를 살해하고 롭부리 지방의 폐가에서 시신을 암매장한 혐의로 기소된 사라위 랏피탁티라다 씨와 벤야파 랏피탁 씨를 12일 동안 구속하기 위해 법원에 출두시켰습니다(2069년 3월 7일부터 18일까지). 수사 과정에서 피고인들은 모든 혐의를 인정했습니다. 수사관들은 증인 7명을 추가로 조사해야 하므로 수사를 완료하지 못했습니다. 피고인들의 구금 기한은 2069년 3월 8일에 48시간 만료됩니다. 이러한 이유로 수사 기간 동안 12일 동안 피고인들을 구금할 것을 요청했습니다(2069년 3월 7일부터 18일까지). 또한 수사관과 피해자는 피고인들의 보석에 반대했습니다. 이 사건은 여러 지역에서 발생했으며, 추가로 수집해야 할 증거가 많고, 피고인들의 유죄를 입증할 증인, 물건, 문서가 관련되어 있습니다. 이 사건은 중형에 해당하며 대중의 관심이 높습니다. 보석이 허용될 경우 증인을 위협하거나 수사관이 수집한 증거를 훼손할 우려가 있습니다. 피고인들은 보석을 신청하며 담보를 제공했습니다. 형사 법원은 혐의의 심각성과 사건의 상황을 고려하여 피고인들의 행위가 대담하고 법을 두려워하지 않는다고 판단했습니다. 이 사건은 중대한 사안입니다. 사건 발생 후 경찰은 영장에 따라 피고인들을 체포했습니다. 수사관들은 보석에 반대했습니다. 보석을 허용할 경우 피고인들이 도주할 것이라고 믿을 만한 이유가 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "살인 사건 관련 소식으로, 여행객 안전에 대한 간접적인 영향이 있을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ศาลยกคำร้อง ไม่ให้ประกันตัว “สรวีย์-เบญญาภา” เจ้าหน้าที่คุมเข้าเรือนจำแล้ว",
@@ -20848,21 +20840,18 @@
       ],
       "collected_at": "17:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPmII4xzJIX5J.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/crime/2918509",
+      "source": ""
     },
     {
       "title": "이란 대통령, 주변국에 사과하며 선제공격 않겠다고 밝혀",
       "summary": "- 이란 대통령, 주변국에 분쟁 영향 미친 것에 대해 사과\n- 선제공격은 없을 것이며, 자국 방어 위해 싸울 것 강조\n- 미국 기지 있는 국가들은 이란 공격에 기지 사용 승인 안했다고 밝혀",
       "full_translated": "이란의 마수드 페세치키안 대통령은 국영 방송을 통해 주변 국가들에 분쟁으로 인한 영향에 대해 사과했습니다. 그는 이란이 먼저 공격받지 않는 한, 어떤 나라도 선제공격하지 않을 것이라고 밝혔습니다. 또한, 이란은 자국을 방어하기 위해 계속 싸울 것이며, 이란의 적들은 이란 국민이 굴복하는 것을 보기를 포기해야 할 것이라고 강조했습니다. 페르시아 만의 여러 국가들은 자국 내 미국 기지가 이란을 공격하는 데 사용하도록 허용하지 않았다고 확인했습니다. 또한, 이 지역의 여러 국가들이 미국을 설득하여 이란에 대한 폭격 작전을 시작하지 않도록 노력하고 있다는 보도도 있었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없지만, 중동 지역의 긴장 완화 가능성을 시사하므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ผู้นำอิหร่านขอโทษประเทศเพื่อนบ้าน ลั่นจะไม่โจมตีก่อน หากไม่ถูกโจมตี",
@@ -20873,21 +20862,18 @@
       ],
       "collected_at": "17:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPPU4P5QP4UIA.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918512",
+      "source": ""
     },
     {
       "title": "태국 내각 개편: 쁘아타이당 5개 장관직 확정, 수다완 여성사회개발부 장관 임명, 솜싹 탈락",
       "summary": "- 쁘아타이당이 5개의 주요 장관직을 확보하며 내각 개편이 진행 중임.\n- 수다완 왕수파킷꼬손이 여성사회개발부 장관으로 임명되었음.\n- 솜싹 텝수틴은 장관 후보에서 제외되었으며, 차관 자리도 아직 불확실함.",
       "full_translated": "쁘아타이당의 5개 주요 장관직 할당에 대한 내각 개편 윤곽이 드러났습니다. 요차난, 수리야, 쭐라판, 쁘라섯, 수다완 등이 장관으로 임명될 예정이며, 솜싹은 후보에서 탈락했습니다. 차관 자리는 아직 확정되지 않았으며 3자리에 7명이 경쟁 중입니다. 2026년 3월 7일, 쁘아타이당이 5개의 장관직과 3개의 차관직을 할당받는 '아누틴 2 내각 개편' 관련 동향이 보도되었습니다. 5개의 장관직은 거의 확정되었으며, 솜싹 텝수틴의 이름은 후보에서 제외되었습니다. 요차난 웡사왓은 고등교육과학연구혁신부 장관으로, 수리야 증룽르앙낏은 농업협동조합부 장관으로, 쭐라판 아몬위왓은 노동부 장관으로, 쁘라섯 잔트라루엉통은 교육부 장관으로, 수다완 왕수파킷꼬손은 사회 개발 및 인간 안보부 장관으로 임명될 예정입니다. 쁘아타이당의 3개 차관 자리는 농업협동조합부에 2자리, 교육부에 1자리가 배정될 예정이지만 아직 확정되지 않았으며, 7명이 후보로 경쟁 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황 변화에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "โผ ครม.อนุทิน 2 เพื่อไทย 5 รมว.นิ่งแล้ว “สุดาวรรณ” ได้เก้าอี้ พม. “สมศักดิ์” หลุดโผ",
@@ -20898,21 +20884,18 @@
       ],
       "collected_at": "17:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPPQ4JLKnf1eH.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/politic/2918513",
+      "source": ""
     },
     {
       "title": "미국, 이란 압박 강화 위해 USS 조지 H.W. 부시 항모 전단 중동 배치 준비",
       "summary": "- 미국이 이란에 대한 압박을 강화하기 위해 USS 조지 H.W. 부시 항공모함 전단을 중동 지역에 추가 배치할 예정임.\n- 이는 이미 배치된 USS 제럴드 R. 포드 항모 전단에 이어 세 번째 항모 전력으로, 중동 지역 긴장 고조에 영향을 줄 수 있음.\n- USS 조지 H.W. 부시 항모 전단은 예멘 후티 반군에 대한 군사 작전에 참여할 가능성도 있음.",
       "full_translated": "미국 해군은 이란에 대한 압력을 높이기 위해 항공모함 'USS 조지 H.W. 부시'를 중동으로 보낼 준비를 하고 있습니다. 이 항공모함은 이란 근처에 배치되는 세 번째 미국 항공모함이 될 것이며, 이는 지역 내 전쟁으로 인해 고조되는 긴장 속에서 압력을 가중시키는 조치입니다. 2069년 3월 7일, 미국 해군은 'USS 조지 H.W. 부시' 항공모함을 대서양을 건너 동부 지중해로 보내 중동 분쟁 상황과 관련된 군사 작전에 참여시킬 준비를 하고 있다고 밝혔습니다. 보고서에 따르면, 'USS 조지 H.W. 부시'는 예멘의 후티 반군이 중동에서 진행 중인 전투에 참여할 경우, 그들에 대한 군사 작전에 참여할 수도 있습니다. 이러한 움직임은 앞서 USS 제럴드 R. 포드 항공모함이 수에즈 운하를 통과하여 홍해로 이동한 후에 이루어졌습니다. 계획대로 전력이 배치된다면 미국은 이란 근처에 3척의 항공모함을 배치하게 되어, 지역 내 전쟁 상황이 긴장된 시기에 중요한 해군력을 집중하게 됩니다. 출처: Fox news ...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "중동 지역 긴장 고조는 잠재적으로 항공 운항에 영향을 줄 수 있으나, 단기적으로 태국 여행객에게 미치는 직접적인 영향은 제한적이라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "สหรัฐฯ เตรียมส่ง “ยูเอสเอส บุช” เรือบรรทุกเครื่องบินลำที่ 3 สู่ตอ.กลาง เพิ่มแรงกดดันอิหร่าน",
@@ -20923,6 +20906,133 @@
       ],
       "collected_at": "17:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPljgsFQ9NCpi.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/foreign/2918502",
+      "source": ""
+    },
+    {
+      "title": "파타야, 계속되는 태국 관광버스 사고에 관광객 불안",
+      "summary": "- 파타야에서 태국 관광버스 사고가 계속 발생하여 관광객들의 안전에 대한 우려가 커지고 있습니다.\n- 최근 사고로 인해 파타야를 방문하는 관광객들이 불안감을 느끼고 있습니다.\n- 당국은 관광버스 안전 점검을 강화하고 사고 예방 대책 마련에 힘쓰고 있습니다.",
+      "full_translated": "파타야 관광객, 태국 관광버스 사고 지속에 불안감 고조 - 파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 안전에 직접적인 영향을 미치는 사고 관련 뉴스이므로 점수 부여. 기존에 유사한 사고 관련 뉴스가 있었지만, 지속적인 발생은 새로운 불안감을 야기하므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya tourists shaken as Thai tour bus accidents continue to raise safety concerns - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGRJU2x5LUV2WVdZd1ItdEE4NzJ3Zk0yMS1meWFWc3pVWE9zLVIwYS11YldIbkdZZjVfcXNnbnIwV3FGYmFReTZZOHBQTXd3S1l0QmdFZU5nR205eEpoQ3FONGpaT0JQRUpJY20ySHpYZzlmWHA3ZTB4Y3dDYTN0NWhtekJHZHV4QkRHYlJKWmtEOVdMZEpXR05SY0RCVU0wSXQ4UGVIMF8yTkp2SnZqd2hUaGwzNXc2ZXNCMnlPRGlGUQ?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중동 긴장 고조, 태국 관광객 감소 및 GDP에 영향 가능성 - 방글라데시 모니터",
+      "summary": "- 중동 지역의 긴장 상태가 태국 관광 산업에 부정적인 영향을 미칠 수 있다는 분석이 제기됨.\n- 관광객 감소는 태국 GDP에도 부담으로 작용할 가능성이 있음.\n- 관련 상황을 예의주시하며, 필요한 경우 여행 관련 정보를 업데이트할 예정.",
+      "full_translated": "중동 긴장 고조가 태국 관광객 감소를 초래하고 GDP에 부담을 줄 수 있습니다. - 방글라데시 모니터",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업에 잠재적인 영향을 미칠 수 있는 요인이므로 정보 제공. 다만, 현재 시점에서는 '가능성'에 대한 언급이므로 6점 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East tensions could slash tourist arrivals to Thailand, weigh on GDP - The Bangladesh Monitor",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVjFBMDlWVmdYSG56NXFscE1Ea3BKUzkzaV9wZk9tVkxTNkRGQW1mTW96c3hLUDN4NkVLUUFwWGUtdzlSUFVfalJkNl8xZFMteHVScm5lWGotVHVubnA0QlQ4cTRVOFVrWEV2b040RXl3SVFJMDMzMk9qUVFBcG1oemhZX3k4ck5aWmZJSndmV2lzdWNTcmVwR2FuZENadFAwYUtnbjlYcWoxUlVfUm1wd09RSTA2QjY0ZlZlS2oxU3pyUQ?oc=5",
+          "source": "The Bangladesh Monitor",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "연료 가격 급등, 트랏 관광 산업 위협",
+      "summary": "- 트랏 관광 산업이 연료 가격 급등으로 어려움을 겪고 있습니다.\n- 운송 비용 증가로 관광객 유치에 차질이 예상됩니다.\n- 정부의 개입과 지원이 필요한 상황입니다.",
+      "full_translated": "연료 가격 급등이 트랏 관광 산업을 위협하고 있습니다. 운송 비용의 증가는 관광객 유치에 부정적인 영향을 미칠 수 있으며, 지역 경제에 타격을 줄 수 있습니다. 트랏의 관광 사업자들은 정부의 지원을 촉구하고 있으며, 연료 가격 안정화를 위한 정책 마련이 시급한 상황입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "연료 가격 상승은 교통비 증가로 이어져 여행 비용에 영향을 줄 수 있으며, 관광객 감소로 이어질 수 있습니다. 따라서 여행 관련 경제 뉴스에 해당합니다.",
+      "event_info": {
+        "date": null,
+        "location": "Trat",
+        "price": null,
+        "location_google_map_query": "Trat, Thailand"
+      },
+      "references": [
+        {
+          "title": "Fuel price surge threatens Trat tourism industry - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZm5XSHJCUkZiRG1USk51REN0ZTdPbk5GRld4Ny1FV0VEM2t0Q3FOUVR5SzhVVjFHYWg1alpwa0xCX0psenBVTWhmVnhGalpISmdGLVg3eUFQajQ2d2tMVmgzOUtQMzVZeGxzQ2tzb3BfalVHZjd1eFRZRmh1WnhUOEpfMldFRDkzb2k1Rm5BenZwRVJvc2tlRTc2RnJ6VGVUTnFJ?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국, 파타야 관광 지속에 따른 연료 안정성 확보",
+      "summary": "- 태국 정부는 파타야 관광 산업의 지속적인 발전을 위해 연료 공급의 안정성을 보장합니다.\n- 이는 관광객들에게 불편을 초래하지 않고 원활한 여행을 지원하기 위함입니다.\n- 파타야는 독일 관광객 증가 추세에 힘입어 ITB 베를린 2026에 참가하여 관광객 유치에 적극적으로 나서고 있습니다.",
+      "full_translated": "태국은 파타야 관광이 차질 없이 지속될 수 있도록 연료 안정성을 보장합니다. &nbsp;&nbsp;파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야 여행 시 연료 부족으로 인한 불편을 덜어줄 수 있다는 점에서 여행 편의성에 약간의 영향이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand assures fuel stability as Pattaya tourism continues without disruption - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE83YjlKUGFGRmZCSWJxeUU5SWtBcVl3MlZBd0JzYjVFT2NWb09ZM3JvVUpMUGpFLWRnUWNqcGpHUmZmR1ZLN0NzOUpsNWJRYnFsalB2QUdYS1ZGYnRySWlaTS1tOURLTDlkRk9sME9PU3Z5M3dkbGtTU2dIRF9QdVNIX1VMUkN3Skg5TVJvLUpGRXAxN3d2YzJYOUhyOXNIdGhTQlRLQnhPeXpLN2JTVER6Y1lVbzYwWUhZ?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "푸미차이 당, '말하고 실천 플러스' 슬로건 아래 부리람에서 세미나 개최",
+      "summary": "- 품 짜이 타이 당 소속 국회의원 192명이 부리람에서 세미나를 개최합니다.\n- '말하고 실천 플러스'라는 슬로건 아래 당의 방향성을 설정하고 발전을 모색합니다.\n- 쌈 완 깐 진행되며 언론에는 일부만 공개됩니다.",
+      "full_translated": "3월 7일, 2026년 - 총선에서 승리한 후, '말하고 실천 플러스'라는 슬로건 아래 품짜이타이당 소속 국회의원 192명이 부리람의 창 인터내셔널 서킷에서 열리는 세미나에 속속 도착하여 당의 방향을 설정하고 발전을 모색합니다. 오후 4시부터 국회의원(쏘쏘.)들이 등록을 위해 입장하기 시작했으며, 3월 7일부터 9일까지 '말하고 실천 플러스'라는 슬로건 아래 품짜이타이당의 국회의원, 임원 및 당원들의 공식적인 첫 세미나가 열립니다. 3일 동안 언론의 취재는 일부 시간대에만 허용됩니다. 첫날에는 오후 4시 30분부터 참가자 등록이 시작되고 오후 5시부터 활동이 시작됩니다. 첫 활동은 어색함을 푸는 활동이며, 저녁 식사와 친목 도모가 이어집니다. 첫날의 모든 활동은 언론의 촬영이 금지되며, 지정된 암호가 있는 사람만 행사장 내부에 들어갈 수 있습니다. 3월 8일에는 아누틴 차른비라쿨 품짜이타이당 대표가 '192표 해독: 기회와 도전'이라는 주제로 강연을 진행하며, 이는 총선 후 당의 방향 설정과 발전에 대한 결론이 될 것입니다. 이 시간에는 언론에 일부 촬영 기회가 주어집니다. 이어서 차이차녹 칫촉 품짜이타이당 사무총장이 Roadmap 2026 '9개월의 변화'라는 주제로 강연합니다. 오후에는 1팀, 1방향, 같은 마음, 같은 목표 아래 단결과 화합을 구축하는 활동이 진행됩니다. 기존 국회의원과 신규 국회의원이 하나가 되어 승리를 향해 나아갑니다. 또한 다양한 주제에 따라 그룹을 나누어 워크숍이 진행될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "정치 관련 뉴스이며, 여행객에게 직접적인 영향은 없음. 당의 정책 방향이 향후 관광 정책에 간접적으로 영향을 줄 수 있으나, 현재로서는 낮은 점수.",
+      "event_info": {
+        "date": "2026-03-07",
+        "location": "창 인터내셔널 서킷, 부리람",
+        "price": "알 수 없음",
+        "location_google_map_query": "Chang International Circuit Buriram"
+      },
+      "references": [
+        {
+          "title": "เริ่มแล้ว 192 สส.ภูมิใจไทย ทยอยเข้าสัมมนาที่บุรีรัมย์ ภายใต้สโลแกน “พูดแล้วทำพลัส”",
+          "url": "https://www.thairath.co.th/news/politic/2918519",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPOZgpYoup9lo.jpg"
+        }
+      ],
+      "collected_at": "17:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HPOZgpYoup9lo.jpg",
       "date": "2026-03-07"
     }
   ]
