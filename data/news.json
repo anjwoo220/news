@@ -21891,14 +21891,9 @@
       "summary": "- Norse Atlantic 항공, 런던 개트윅-방콕 노선에 추가 항공편 제공.\n- 2026년까지 태국 직항 기회를 놓치지 마세요.\n- 여행 및 관광 산업에 긍정적 영향 기대.",
       "full_translated": "Norse Atlantic 항공이 런던 개트윅과 방콕 간 직항편을 추가로 발표했습니다. 2026년에 태국으로 가는 직항편을 이용할 기회를 놓치지 마세요! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕 여행 옵션 증가. 2026년이라는 시점이 다소 멀지만, 미리 계획하는 여행객에게는 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": "London Gatwick - Bangkok",
-        "price": null,
-        "location_google_map_query": "London Gatwick Airport, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'London Gatwick - Bangkok', 'price': None, 'location_google_map_query': 'London Gatwick Airport, Bangkok'}",
       "references": [
         {
           "title": "Norse Atlantic Unveils Extra Flights Between London Gatwick and Bangkok—Don’t Miss Your Chance to Fly Nonstop to Thailand in 2026! - Travel And Tour World",
@@ -21907,23 +21902,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOdFF4am1kQ19vQThadDRtazdOTnFKZVowOU9xRHFpNzFlMkdtQTQ0bXlhc1JmdXpxZWpXd1dXNTJDaTdud1RONFZWeVFOMHNvLVBkM2RHdHlQY0xXTWlWN01fMTFZTmlqY25FMUwzb1BJZ3Z4dllPMFpNTERsbXR6M0dZQ2NNWlBNUUlQSHE0Z3NfVkJJOHdpeDJqdHh6SFFkRWl0bjdBUmtXLWhzNmx5M1l5VUtMN19fOHlDaDZNeDE1ekNLYTB4V2xwaXFzak5SRlM5U0tjUDc1NGdBOEh2YWFqUkloUVA3RzhjdFBIeDNOdGsxYWNrUW5NSVU3dkR6UlhtbUV4X2E?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 웰빙 관광으로 여행객 유치",
       "summary": "- 태국이 미식과 웰빙을 결합한 새로운 관광 상품으로 여행객 유치에 나섰습니다.\n- 코로나19 이후 건강에 대한 관심이 높아진 여행객들을 대상으로 합니다.\n- 스파, 요가, 명상 등 다양한 웰빙 프로그램이 제공됩니다.",
       "full_translated": "태국은 미식과 웰빙을 결합한 새로운 관광 상품으로 여행객 유치에 적극적으로 나서고 있습니다. 코로나19 팬데믹 이후 건강에 대한 관심이 높아진 여행객들의 수요를 충족시키기 위해 스파, 요가, 명상 등 다양한 웰빙 프로그램을 제공하며 새로운 럭셔리 여행 경험을 제공합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "웰빙 관광은 여행객에게 흥미로운 선택지가 될 수 있지만, 안전이나 입국 규정 변경 등 필수 정보는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Healing is the new luxury: How Thailand is luring tourists with gastronomy and wellness - MSN",
@@ -21932,23 +21924,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGFkeUFfM1hMVGJIZEJsZzUxc1VFcm1hUVRuTmg5djdWQ3NhSDRRS2l1UWZ5V0ZfNkJ5ZjlnVE00RGJaUGdVbGhFQ1NIejdTT0Z6dU4ybGJFb3BPVThheXBuMnNJcHJYT3gwN1VZUUtuSG9yNnVjM2dENzZVaDRzemkyZmxXLVBvMHE4cTZtc1p1TWN4ZV83cXctd2FVLVBCUG9jcFQ5NTJteGtid1NkTDM3Y1Q1WGNUZC1ZZHlOcUIyWWs5cXBJUWl3NzY5d1FL?oc=5",
+      "source": ""
     },
     {
       "title": "Thailand Tennis Masters 2026, 4월 개막 앞두고 유니폼 공개",
       "summary": "- 태국 테니스 마스터즈 2026이 4월 개막을 앞두고 유니폼을 공개했습니다.\n- 대회는 태국에서 개최될 예정이며, 많은 테니스 팬들의 기대를 모으고 있습니다.\n- 자세한 내용은 공식 웹사이트 또는 관련 뉴스 기사를 통해 확인할 수 있습니다.",
       "full_translated": "태국 테니스 마스터즈 2026이 4월 개막을 앞두고 유니폼을 공개했습니다. suryaa.com",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "테니스 마스터즈 대회는 일부 스포츠 팬들에게는 흥미로운 소식이 될 수 있지만, 대다수 여행객에게는 큰 영향을 미치지 않습니다. 따라서 낮은 점수를 부여합니다.",
-      "event_info": {
-        "date": "2026-04-01",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국 테니스 경기장"
-      },
+      "event_info": "{'date': '2026-04-01', 'location': '태국', 'price': '미정', 'location_google_map_query': '태국 테니스 경기장'}",
       "references": [
         {
           "title": "Thailand Tennis Masters 2026 unveils jersey ahead of April kick-off - suryaa.com",
@@ -21957,9 +21946,11 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:41",
+      "collected_at": "2:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHdDZ2hPOGQzbVZXTURqdm92cUJscEVMMkxvX25zZ3JLYVFZbjhaNnk3MnhydW9xM3pPMFhibGVMX1J6UnRGYmFxY2NYSDFMVzlHTm9oM0lFSm5aMmNTdzVEbXZBYkRaeVpqU08yVWR2THZXOF9JVkVUcl9uNVEtYUNPWTdyNmo3czlLNVhsamlwc0xibkpydDZfVk1vbE0?oc=5",
+      "source": ""
     }
   ]
 }
