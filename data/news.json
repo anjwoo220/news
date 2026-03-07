@@ -20212,14 +20212,9 @@
       "summary": "- 태국 정부가 관광객 유치를 위해 돈을 지급하는 방안을 고려 중이라는 내용의 기사입니다.\n- 구체적인 지급 방식이나 액수는 아직 결정되지 않았습니다.\n- 관광 산업 활성화에 도움이 될지 주목됩니다.",
       "full_translated": "태국이 관광객에게 '돈을 지급'할 계획을 세우고 있을까요? Pattaya Mail",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 유치 정책에 대한 정보로, 여행객에게 직접적인 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Is Thailand planning to “give money to tourists”? - Pattaya Mail",
@@ -20228,21 +20223,19 @@
         }
       ],
       "collected_at": "14:04",
-      "date": "2026-03-07"
+      "image_url": "",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUXZXLUlyVkJSWGJ0eGMwa3MxcU53WU15Q3ZSeElBUTc4a3ZXZmNuZmdvUmtvRkVQbmNQN1FVSHZ6SEJWWkJ4cTNVR0VpSHdmVG1CRy1WZ2JNZHFaS0pxX2hLMHBQVUpwTTNFbEhrNTN0Y2lkT1BGZlpJNGc5eEcwWHRfQUUtMUJjbm5pNFpMM2w4b2pDX0JNYlNyRzBVZw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 노동부, 중동 지역 근로자 200명의 귀국 요청에 대한 지원 준비",
       "summary": "- 태국 노동부는 중동 지역 불안정으로 인해 귀국을 희망하는 근로자들을 지원할 준비가 되었다고 발표함.\n- 현재까지 약 200명의 근로자가 귀국을 요청했으며, 정부는 이들의 안전한 귀국을 위해 필요한 조치를 취하고 있음.\n- 귀국 후에는 직업 기술 개발 및 취업 지원 프로그램이 제공될 예정임.",
       "full_translated": "태국 노동부 장관인 '뜨리눗'은 중동 지역의 태국인들을 지원하고 있으며, 태국으로 돌아가기를 원하는 사람들에게 편의를 제공할 것이라고 확인했습니다. 중동 지역에서 약 200명의 근로자들이 귀국을 요청했습니다. 2569년 3월 7일 오전 10시 30분, 뜨리눗 티안통 노동부 장관은 중동 국가 그룹의 태국인 노동자 상황에 대해 밝혔습니다. 뜨리눗은 정부가 우려하고 있으며 상황을 지속적으로 모니터링하고 있다고 말했습니다. 노동 담당관은 태국으로 돌아가기를 원하는 태국인 노동자들을 돌보기 위해 해당 지역의 외무부와 긴밀히 협력하고 있습니다. 정부는 지원을 제공할 준비가 되어 있습니다. 뜨리눗은 현재 소수의 태국인 노동자들이 이미 귀국하고 있다고 밝혔습니다. 특히 이스라엘에서는 귀국을 원하는 노동자가 100명이 채 되지 않습니다. 이란에서는 대부분의 노동자들이 귀국을 요청했습니다. 총리는 우려를 표명하며 이란의 모든 태국인 노동자들이 귀국하기를 원합니다. 현재 중동 지역에서 귀국을 원하는 태국인 노동자는 200명이 넘지 않습니다. 또한 노동부는 분쟁 확산에 대처하기 위한 조치를 준비하고 있으며, 운영을 두 부분으로 나누었습니다. 첫째, 해외 노동 담당관이 해당 지역의 태국인과 협력하고 안전한 지역과 협력합니다. 대부분의 태국인 노동자는 농업 및 건설 분야에 종사하고 있으며, 공격을 받는 지역은 대부분 군사 지역이기 때문에 귀국을 원하는 노동자의 수는 아직 많지 않습니다. 태국인 노동자들은 3월 7일과 10일에 태국에 도착할 예정입니다... 노동자들이 태국에 도착하면 정부는 기술 개발 부서가 추가 기술 개발을 지원하고, 노동자들이 일자리를 원할 경우 고용 부서가 산업 부문과 연결해 주는 방식으로 관리할 계획입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국으로 돌아오는 노동자들에 대한 정보는 태국 내 상황에 대한 간접적인 정보가 될 수 있으며, 관련 정책에 대한 이해를 도울 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รมว.แรงงาน เผยยอดแรงงานไทยในตะวันออกกลางขอกลับประเทศประมาณ 200 คน ยันพร้อมอำนวยความสะดวก",
@@ -20253,21 +20246,18 @@
       ],
       "collected_at": "14:04",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdfQ873El7Oj.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/politic/2918462",
+      "source": ""
     },
     {
       "title": "중동 분쟁, 태국 관광에 미치는 영향",
       "summary": "- 중동 지역 분쟁이 태국 관광 산업에 미치는 영향에 대한 분석.\n- 아직 구체적인 영향은 불분명하나, 상황을 주시해야 함.\n- 관련 산업 종사자들은 잠재적 위험에 대비해야 함.",
       "full_translated": "중동 분쟁이 태국 관광에 미치는 영향 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 분쟁이 태국 관광 산업에 간접적인 영향을 미칠 수 있으므로 정보 제공. 잠재적 위험에 대한 대비 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East conflict Thailand tourism impact - Travel And Tour World",
@@ -20278,21 +20268,18 @@
       ],
       "collected_at": "14:04",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOGl4R2ZLeXZMMGRNdnZSNVM3OVhQMm1XNnYtY3ZEYnJHS1RtU1pwaHNYeEJHUGp6RDRpcmR1SU03M2pqUzVja2RZTkpnckJkMXh6Zm5PVFRvZm0wV3FYSzljYWtOQWhkTDAxcy1wQTMwUXpNaUN3RExWY2cxWmVtYUpZRlRvYy16b2JVUTA1S2FSa0hWZXRHblFNNF91UQ?oc=5",
+      "source": ""
     },
     {
       "title": "BMW iX3 xDRIVE 50 공개 예정: 대용량 배터리로 장거리 주행 가능",
       "summary": "- BMW의 새로운 전기차 플랫폼 Neue Klasse 기반의 iX3 공개 예정\n- 108.7 kWh 대용량 배터리로 최대 800km 주행 가능 (WLTP 기준)\n- 400kW 충전 시스템으로 10분 충전에 400km 주행 가능",
       "full_translated": "BMW iX3는 “양산에 들어가는 새로운 플랫폼 Neue Klasse의 첫 번째 전기 자동차”입니다. BMW가 60여 년 전에 첫 번째 New Class 자동차를 만든 이후 오랜 시간이 흘렀습니다. 이후 첫 번째 Neue Klasse 플랫폼은 성공을 거두었고 오늘날 자동차의 원형이 되었습니다. Neue Klasse의 첫 번째 모델은 1960년대에 특히 BMW 1500 /1600/2000 CS/ 2002 Tii 모델이 BMW를 재정적 파산 위기에서 구하는 데 도움이 되면서 큰 성공을 거두었습니다. 2026년의 새로운 Neue Klasse 플랫폼은 그 이름에 걸맞아야 하며, iX3는 매우 미래 지향적인 디자인으로 인해 좋아 보입니다. 전면 그릴은 다소 특이하고 작아 보이지만요. iX3 50 xDrive 모델의 주요 사양은 463마력, 645Nm(476파운드-피트)의 토크이며, BMW의 6세대 eDrive 기술을 사용하여 듀얼 모터로 네 바퀴 모두에 동력을 전달합니다. 즉, 새로운 iX3의 0-100km/h 가속 시간은 4.9초이고 최고 속도는 210km/h로 제한됩니다.\n\niX3에는 새로운 원통형 셀과 800볼트 기술을 사용하는 최대 108.7kWh의 대형 배터리도 함께 제공되어 WLTP 표준에 따라 최대 800km의 주행 거리를 제공합니다. 400kW 충전 시스템으로 빠르게 충전할 수 있으며, 단 10분 만에 400km의 주행 거리를 추가할 수 있습니다. 이는 BMW eDrive 5세대 기술에 비해 30% 증가한 충전 속도입니다. 6세대의 경우 에너지 손실이 40% 감소하고 무게가 10% 감소하며 생산 비용이 20% 감소합니다. 가장 진보된 \"슈퍼 브레인\" 기술은 기본적으로 BMW가 \"디지털 신경계\"라고 설명하는 Neue Klasse 자동차를 위한 새로운 전자 아키텍처입니다. 4개의 첨단 하이테크 컴퓨터를 사용합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "방콕 여행 자체에는 직접적인 영향이 없으나, BMW iX3의 새로운 기술 정보는 자동차에 관심 있는 여행객에게 흥미로운 읽을거리가 될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เจาะก่อนเปิดตัว BMW iX3 xDRIVE 50 แบตฯใหญ่วิ่งไกลลิบโลก",
@@ -20303,21 +20290,18 @@
       ],
       "collected_at": "14:04",
       "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHCXWuqnKU9L1D2SE.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2917657",
+      "source": ""
     },
     {
       "title": "차논팟, 출석 연기 요청 서류 미제출… 3월 12일 소환 예정",
       "summary": "- DSI, 촌나팟에게 3월 12일 출석 통보, 연기 요청 서류 미제출 확인.\n- 온라인 도박 웹사이트 관련 혐의로 조사 예정.\n- 공범 24명은 대부분 해외 거주 중.",
       "full_translated": "DSI 기술범죄 부서장은 '차논팟 낙수아'에게 3월 12일 온라인 도박 웹사이트 관련 혐의로 출석 통보한 것이 유효하며, 출석 연기 요청 서류는 제출되지 않았다고 밝혔습니다. 수사관은 모든 사안에 대해 질문할 예정입니다. 체포 영장이 발부된 나머지 24명은 대부분 해외에 거주하고 있습니다.\n\n3월 7일, 특별수사반이 온라인 도박 웹사이트 운영과 관련된 특별 사건 150/2025에서 일부 용의자를 검거했다고 밝혔습니다. 해당 용의자들은 온라인 도박 운영 공모 및 돈세탁 혐의를 받고 있습니다. 용의자 중 한 명인 나리랏은 3월 5일 방콕 딘댕 지역에서 체포되어 3월 6일 형사 법원에 구속 영장을 신청했습니다. 수사반은 보석에 반대했으며, 법원은 12일 동안 구속을 허가하고 보석을 불허했습니다. 현재 체포 영장이 발부된 24명의 용의자가 남아 있으며, 이들은 대부분 주변국에 거주하고 있는 것으로 파악되었습니다. 용의자가 태국으로 돌아오는 경우 체포하여 법원에 구속할 수 있습니다.\n\n경찰청 켐차트 프라카이홍마니 기술정보부서장은 정치인 남성에 대한 소환장은 3월 12일 오전 10시 방콕 쨍와타나 로에 있는 특별수사국 건물로 출석하여 온라인 도박 웹사이트 운영 공모 및 돈세탁 혐의에 대한 조사를 받을 예정이며, 아직까지 출석 연기 요청 서류는 접수되지 않았다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "한국인 여행객에게 직접적인 영향은 없으나, 태국 내 범죄 관련 소식이므로 낮은 점수 부여. 정치인 연루 가능성.",
-      "event_info": {
-        "date": "2024-03-12",
-        "location": "กรมสอบสวนคดีพิเศษ ถนนแจ้งวัฒนะ กรุงเทพมหานคร",
-        "price": null,
-        "location_google_map_query": "กรมสอบสวนคดีพิเศษ ถนนแจ้งวัฒนะ กรุงเทพมหานคร"
-      },
+      "event_info": "{'date': '2024-03-12', 'location': 'กรมสอบสวนคดีพิเศษ ถนนแจ้งวัฒนะ กรุงเทพมหานคร', 'price': None, 'location_google_map_query': 'กรมสอบสวนคดีพิเศษ ถนนแจ้งวัฒนะ กรุงเทพมหานคร'}",
       "references": [
         {
           "title": "เผย \"ชนนพัฒฐ์\" ไม่ได้ส่งเอกสารเลื่อนรับทราบข้อหา ยังเรียกพบกำหนดการเดิม 12 มี.ค.",
@@ -20328,6 +20312,58 @@
       ],
       "collected_at": "14:04",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GFByOMkrIHZiP.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/crime/2918458",
+      "source": ""
+    },
+    {
+      "title": "2026년 태국, 웰니스 관광으로 두각을 나타낼 전망",
+      "summary": "- 태국이 2026년에 세계적인 웰니스 관광지로 부상할 것으로 예상됨.\n- 웰니스 서밋 개최지로 선정되어 글로벌 웰니스 트렌드를 선도할 것으로 기대.\n- 럭셔리 여행의 새로운 중심지로 자리매김할 가능성이 높음.",
+      "full_translated": "2026 Sees Thailand Outshine All with Wellness Tourism – Why Thailand is the World’s New Luxury Travel Capital! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 웰니스 관광 중심지로 부상할 가능성을 제시. 여행객 유치에 긍정적 영향 예상",
+      "event_info": {
+        "date": "2026",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "Thailand"
+      },
+      "references": [
+        {
+          "title": "2026 Sees Thailand Outshine All with Wellness Tourism – Why Thailand is the World’s New Luxury Travel Capital! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWVJUzZoOTZWLU91NHI2RTd0dl9UdnJQY2JOUUwwbmRUZUd4T1lKOTRCOG0waExILVRoS29LOGNETm5wa1AxY1U2VFNFcWdOcXBDc183ZnZ3dFRYcGpqNU1RNlh2WG5nVGVybldRWUs2Ul92WVNuUDRCY1NXeTdoQ2dFQk56ZS1xRkIwQk1OenpORl83UjJnY2xtVlNVNVBodDJ3RkZtR2VkNDh5MnFqSHYtZG05ZEc5U1Q2WlVkbjd5ODQyWUtKTmZuZUYzSVk4MG9ycUVvUWk1UVB4d2NEc09Lb2lKbGJ5OFhj?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "일본, 태국, 인도네시아, 필리핀, 라오스, 캄보디아, 미얀마, 친환경 및 문화 여행 관행으로 관광을 변화시키는 방법 – 알아야 할 모든 것 - Travel And Tour World",
+      "summary": "- 일본, 태국, 인도네시아, 필리핀, 라오스, 캄보디아, 미얀마는 친환경적이고 문화적인 여행 관행을 통해 관광 산업을 혁신하고 있습니다.\n- 지속 가능한 관광, 지역 문화 존중, 지역 사회 참여가 핵심 전략입니다.\n- 이러한 변화는 여행객에게 더욱 풍부하고 책임감 있는 경험을 제공하는 것을 목표로 합니다.",
+      "full_translated": "일본, 태국, 인도네시아, 필리핀, 라오스, 캄보디아, 미얀마가 친환경 및 문화 여행 관행으로 관광 산업을 어떻게 변화시키고 있는지에 대한 정보입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "해당 지역의 관광 트렌드를 보여주는 정보로, 여행 계획에 참고할 만한 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "How Japan, Thailand, Indonesia, Philippines, Laos, Cambodia, and Myanmar Are Transforming Tourism with Eco-Friendly and Cultural Travel Practices – Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSVFyQTZsZnRka3hjRk4tam1tNHJrLWpQa0NLODRrNlJTTE14OF9Pa1FteUhEUmhpUVBWMDN6RzNkUHNQU1piUjNmdDVwNDRXX09mNmRCZGlqYklFNEpsYzN4UW5UczZGdnFnenlvSUNWR05CbzVlRmxBaWdYUi1ybU9HTUptTlN5R2N4Q0tDdEdjWFhrLU55OUlVend0N3BUR2lodXhjZEtmTUVRVkItci1SdVd2Z1dOQmZGdm5ZZUR0bkU1S1VOUHcwYlZqMmdKU3BkVHZPdDY0dHNWcUVpZGFhbXhJcEtkVnBBak9OdjVlalVCVzN6eHdWOVljMUJwanppLXNjeW1zallrQWx2ZlVCVnV6TGoycUJNWEJTcVJXOUR5S3VLaVFzSm85WmhsRnFneXdnLWdGT3BI?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "14:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
   ]
