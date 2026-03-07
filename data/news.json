@@ -22109,14 +22109,9 @@
       "summary": "- 서아시아 위기로 인해 미국과 유럽에서 아시아 국가로의 여행 경로가 단절.\n- 한국, 일본, 인도네시아, 베트남, 말레이시아, 인도, 필리핀 등 관광 산업에 심각한 타격 예상.\n- 1분기 말까지 이러한 영향 지속될 것으로 전망.",
       "full_translated": "서아시아 위기로 인해 한국을 포함한 일본, 인도네시아, 베트남, 말레이시아, 인도, 필리핀 등 아시아 국가들이 미국과 유럽으로부터의 관광 산업에서 심각한 타격을 입고 있습니다. 서아시아 위기는 올해 1분기 말까지 연결성과 노선을 붕괴시키고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "서아시아 위기가 항공로에 영향을 주어 유럽/미국 출발 여행객의 아시아 여행에 불편을 초래하고, 이는 한국 관광 산업에도 부정적인 영향을 미칠 수 있습니다. 다만, 구체적인 항공편 취소나 지연 정보는 없어 '보통' 수준의 영향으로 평가.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Joins Japan, Indonesia, Vietnam, Malaysia, India, Philippines and More Asian Countries Facing a Severe Hit in Tourism from US and Europe as West Asia Crisis Shatters Connectivity and Routes Till the End of the First Quarter This Year - Travel And Tour World",
@@ -22125,8 +22120,35 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:46",
+      "collected_at": "5:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFRXNDNFa0l1UzRMRFZJNG4wVVlkZnkwT1ltSEpNcXRIUHBxS0lkSEs0bU1QaWtEMlhoQXMtV3ZCVm14VGEyb21WWVhKMWNtQWw5VXZWeS12RXlvcklDbDVKTUlKdk0yd0pzMHpDTjhpWTBfUmo3aDk0RENnSXJGMlJPVEpIX2Y4eThNUHMzZTAtMnh1RXBFUVZGVzA0ajJJYlJ4VXc4WllUN09zbXJGUFBRRGRnMnFOeUVCc2RkeEZtWi1lX3I5RHVlaXd3RUFLMnd0dl9ldkNDV1I5V194Sy1JUkZlRHExSWNZTWduOThKNTB0LXhUUU9xc2xuUU5iaDVOa0Fuak14T0M2cHdvcFo3NEJoVmh1bTN3M0ZIZDVIaG9OOGpWYlVwSy11RGstMjJsOEdJWXV3NTk1bE03MW42RDZsLW05NWlQbXBkVUVhdmdYa0Z2VGtRVkFEVjhXNWc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 이란에서 자국민 대피 시작",
+      "summary": "- 태국 정부는 이란 내 자국민 대피를 시작했으며, 첫 번째 그룹은 이미 터키로 이동했습니다.\n- 외무부에 따르면, 69명의 태국 국민이 이란을 출발하여 터키 반(Van)으로 이동 중입니다.\n- 주이란 태국 대사관은 대피를 원하는 태국 국민에게 연락을 요청하고 있으며, 터키 반에 임시 운영 센터를 개설했습니다.",
+      "full_translated": "태국이 이란에서 자국민 대피를 시작했습니다. 외무부는 고조되는 중동 분쟁 속에서 조직적인 대피 노력의 일환으로 69명의 태국 국민이 토요일 이란을 출발했다고 밝혔습니다. 파니돈 파침사왓 정보부 부국장 겸 외무부 부대변인은 이란에서 대피를 위해 등록한 태국인의 수가 117명에서 125명으로 증가했다고 말했습니다. 첫 번째 그룹은 터키 동부 반으로 이동하며, 그곳에서 태국 관리들이 태국으로의 추가 여행을 준비하기 전에 그들을 도울 것입니다. 두 번째 그룹 56명은 화요일에 이란을 떠날 예정입니다. 파니돈 씨는 \"외무부는 이란에 있는 태국 국민들에게 귀국을 원할 경우 테헤란 주재 태국 대사관에 연락하여 서류 작업을 조율해 줄 것을 촉구합니다.\"라고 말했습니다. 태국 당국은 토요일 반에 임시 운영 센터를 개설했습니다. 이 시설은 이란에서 넘어오는 대피자들을 맞이하고 태국으로 돌아가기를 기다리는 사람들을 위한 지원을 조정할 것입니다. 엘리트 월드 반 호텔에 있는 이 센터는 또한 테헤란 주재 태국 대사관의 임시 사무실 역할을 하여 이란에 남아 있는 태국 국민들을 지원할 예정이며, 화요일부터 운영이 시작될 예정입니다. 대사관은 대피를 원하는 태국 국민과 이란에 남아있는 태국 국민 모두를 지원할 것이라고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 국민의 안전과 관련된 문제이므로 여행객들에게 간접적인 영향을 줄 수 있다고 판단됩니다. 특히 중동 지역 여행 계획이 있는 경우 참고할 필요가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "이란, 터키 반",
+        "price": null,
+        "location_google_map_query": "Van, Turkey"
+      },
+      "references": [
+        {
+          "title": "Thais begin evacuations from Iran",
+          "url": "https://www.bangkokpost.com/thailand/general/3212158/thais-begin-evacuations-from-iran",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212158_260308054849_700.jpg"
+        }
+      ],
+      "collected_at": "06:15",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212158_260308054849_700.jpg",
       "date": "2026-03-08"
     }
   ]
