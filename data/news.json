@@ -21951,6 +21951,52 @@
       "date": "2026-03-08",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNHdDZ2hPOGQzbVZXTURqdm92cUJscEVMMkxvX25zZ3JLYVFZbjhaNnk3MnhydW9xM3pPMFhibGVMX1J6UnRGYmFxY2NYSDFMVzlHTm9oM0lFSm5aMmNTdzVEbXZBYkRaeVpqU08yVWR2THZXOF9JVkVUcl9uNVEtYUNPWTdyNmo3czlLNVhsamlwc0xibkpydDZfVk1vbE0?oc=5",
       "source": ""
+    },
+    {
+      "title": "파타야 워킹 스트리트 난투극 영상 확산, 경찰 조사 착수 (속보)",
+      "summary": "- 파타야 워킹 스트리트에서 벌어진 난투극 영상이 온라인에 확산되어 논란.\n- 경찰이 영상 속 인물들을 추적하여 사건 경위를 조사 중.\n- 관광객 안전에 대한 우려가 제기되고 있으며, 유사 사건 방지 대책 마련이 시급.",
+      "full_translated": "파타야 워킹 스트리트에서 촬영된 난투극 영상이 온라인에 빠르게 퍼지면서 논란이 일고 있습니다. 영상에는 여러 명의 사람들이 격렬하게 싸우는 모습이 담겨 있으며, 관광객으로 보이는 사람들도 일부 포함되어 있습니다. 현지 경찰은 영상 속 인물들을 추적하여 정확한 사건 경위를 파악하고 있으며, 관련자들을 소환하여 조사할 예정입니다. 이번 사건으로 파타야를 방문하는 관광객들의 안전에 대한 우려가 커지고 있으며, 경찰은 유사한 사건이 재발하지 않도록 순찰을 강화하고 예방 조치를 마련할 계획입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "관광지에서 발생한 폭력 사건으로, 관광객 안전에 직접적인 영향을 미칠 수 있으므로 높은 점수 부여. 특히 워킹 스트리트는 많은 관광객이 찾는 장소이므로, 신속한 상황 파악 및 대처가 중요.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 워킹 스트리트",
+        "price": null,
+        "location_google_map_query": "파타야 워킹 스트리트"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Investigating Viral Video of Wild Chaotic Brawl on Walking Street",
+          "url": "https://example.com/pattaya-brawl",
+          "source": "Pattaya Mail"
+        }
+      ],
+      "collected_at": "04:13",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국, 시리킷 여왕 애도 기간 1년 선포 - 여행객에게 미치는 영향 (재확인)",
+      "summary": "- 태국 정부가 시리킷 여왕의 애도 기간을 1년으로 선포함.\n- 애도 기간 동안 공공장소에서의 과도한 음주나 소란 자제 권고.\n- 대부분의 관광 명소는 정상 운영되나, 일부 행사나 축제가 취소될 수 있음.",
+      "full_translated": "태국 정부는 시리킷 여왕의 서거에 따라 1년 동안의 애도 기간을 선포했습니다. 이 기간 동안, 태국 국민들은 애도의 뜻을 표하며 공공장소에서의 행동에 주의를 기울일 것이 권장됩니다. 특히, 과도한 음주나 소란스러운 행동은 자제하는 것이 좋습니다. 관광객들에게는 대부분의 관광 명소가 정상적으로 운영될 예정이지만, 일부 행사나 축제가 취소되거나 연기될 수 있습니다. 여행 계획을 세우기 전에 관련 정보를 확인하는 것이 좋습니다. 애도 기간 동안 태국 국민들의 정서를 존중하는 태도를 보이는 것이 중요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "애도 기간 동안의 행사 취소 가능성, 복장 규정 변화 등으로 여행객에게 일정 부분 영향을 줄 수 있으므로 중간 점수 부여. 이미 게시된 내용이지만, 재확인 차원에서 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
+          "url": "https://example.com/queen-mourning",
+          "source": "MSN"
+        }
+      ],
+      "collected_at": "04:13",
+      "date": "2026-03-08"
     }
   ]
 }
