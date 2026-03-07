@@ -21245,14 +21245,9 @@
       "summary": "- Tomorrowland Thailand가 파타야에서 개최되어 아시아 최고의 축제 중 하나로 자리매김할 전망입니다.\n- 이 축제는 지역 경제 활성화에 크게 기여할 것으로 예상됩니다.\n- 다양한 음악, 문화, 엔터테인먼트 경험을 제공하며 관광객 유치에 긍정적인 영향을 미칠 것입니다.",
       "full_translated": "Tomorrowland Thailand Transforms Pattaya into Asia’s Premier Festival Destination FilmoGaz",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 개최되는 대형 축제 정보로, 관광객 유치 및 지역 경제 활성화에 기여할 것으로 예상되어 여행객에게 유용한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Tomorrowland Thailand Transforms Pattaya into Asia’s Premier Festival Destination - FilmoGaz",
@@ -21263,21 +21258,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ZSWVpNG5mbUxRRmwzMHBTM213TV9GTkNRbFpvVnJEMHdNY1E0Wmlhd0FkNkg5OWVieTFIT0FMYzg1Uy1UNGc?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫 '섀도우 해변'에서 외국인 관광객의 나체 일광욕 논란",
       "summary": "- 푸껫의 '섀도우 해변'에서 외국인 관광객의 나체 일광욕이 논란을 일으키고 있습니다.\n- 현지 주민들은 이러한 행위가 태국 문화에 대한 존중 부족이라고 비판하고 있습니다.\n- 당국은 해당 행위에 대한 조사에 착수할 예정입니다.",
       "full_translated": "푸껫의 '섀도우 해변'에서 외국인 관광객의 나체 일광욕이 논란을 불러일으키고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "해변 이용 시 주의사항 환기 및 문화적 차이 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 '섀도우 해변'",
-        "price": null,
-        "location_google_map_query": "푸껫 섀도우 해변"
-      },
+      "event_info": "{'date': None, 'location': \"푸껫 '섀도우 해변'\", 'price': None, 'location_google_map_query': '푸껫 섀도우 해변'}",
       "references": [
         {
           "title": "Nude sunbathing by foreign tourists sparks controversy at ‘Shadow Beach’ in Phuket - Pattaya Mail",
@@ -21288,21 +21280,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUWpWMHM3YW10WHBwMkVpLUtzMTdZbmUzLW5oVDkxV2xWR3pLVUxqNWFmYVpyeV9Ec1RrX2hVZmtGbTh3VWlSbFBvd2N3eTZrQUtDalhuY0hlNURJdHBDc295WTR4UElrdkRVUnJsa0FXY3JFVWxpbTNqTDNlcWU5cXY0NXItMUZ5M3EzWGx5WTNIc2tQVi1FeGprQU1ma01Xc3JsUnpjVUVmM1dubmtYOHp0UlFtSnNYNnQ2cGxLZVVMSHB5UDB3?oc=5",
+      "source": ""
     },
     {
       "title": "Thai Nguyen, Nui Coc 및 Ba Be 호수 관광 활성화",
       "summary": "- Thai Nguyen은 Nui Coc과 Ba Be 호수의 관광을 활성화합니다.\n- 자세한 내용은 DTiNews에서 확인할 수 있습니다.",
       "full_translated": "Thai Nguyen은 Nui Coc과 Ba Be 호수의 관광을 활성화합니다. DTiNews",
       "category": "TRAVEL",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "새로운 관광지 정보, 여행객에게 소소한 정보 제공",
-      "event_info": {
-        "date": null,
-        "location": "Nui Coc and Ba Be lakes, Thai Nguyen",
-        "price": null,
-        "location_google_map_query": "Nui Coc and Ba Be lakes, Thai Nguyen"
-      },
+      "event_info": "{'date': None, 'location': 'Nui Coc and Ba Be lakes, Thai Nguyen', 'price': None, 'location_google_map_query': 'Nui Coc and Ba Be lakes, Thai Nguyen'}",
       "references": [
         {
           "title": "Thai Nguyen boosts tourism at Nui Coc and Ba Be lakes - DTiNews",
@@ -21313,21 +21302,18 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblJPeE5ORU4ySkdDY2JtYWVtSmM2ZlZVcUVFUzh2WHBHc3l3WGRVOHlScEVIUl9hWlF1T3d4bjlLUDdsUHpfcFFzTUZuS3dMVFpqZnFQQm9kUWQyb3RYOTlfMEdvVEFjR3JjRFBRSTZlNGIxend3YUFQQ01lOGFab3dQNXAtMkxzZmVXMHhKVDcwdHBOQ0o4ZmFadzVhNldNQlNfbk5ZbUUyV1VoeUJhaUZ6SFlJdw?oc=5",
+      "source": ""
     },
     {
       "title": "쁘라윗 전 부총리, 육군 골프장 내 단골 식당에서 동료들과 식사",
       "summary": "- 쁘라윗 전 부총리가 육군 골프장에서 동기들과 점심 식사를 가졌습니다.\n- 40년 이상 된 골프장 내 '파 홍 식당'은 그의 단골집입니다.\n- 그는 종종 집으로 음식을 배달시키기도 하며, 특히 코코넛 밀크로 조리한 쇠고기 수프를 즐겨 먹습니다.",
       "full_translated": "쁘라윗 웡수완 전 부총리는 파랑쁘라차랏당(PPRP)의 고문으로, 육군 스포츠 개발 센터 또는 람인트라 로드 지역의 육군 골프장에서 '럯 폰 렉' 그룹인 육군사관학교 6기 동기들을 만나 3월 7일 점심 식사를 함께 했습니다. 그는 4번 홀 1구역에 위치한 40년 이상 된 단골 식당인 '란 카우 파 홍'에 동기들을 초대했습니다. 이 식당은 골프장 내 작은 식당이며, 인기 메뉴는 돼지고기 볶음밥, 캣피쉬 칠리볶음, 쇠고기 수프, 생선 케이크입니다. 식사 중 쁘라윗 전 부총리는 골프를 치러 온 육사 6기 동기들에게 편안하게 식사와 음료를 즐기도록 권유했습니다. 전 최고 사령관인 분쌍 니암쁘라딧 장군도 친구들과 골프를 치다가 들러서 반갑게 인사하고 대화를 나누었습니다. 쁘라윗 전 부총리는 이곳이 골프를 치러 올 때부터 자주 방문하던 단골 식당이며, 특히 코코넛 밀크로 조리한 쇠고기 수프는 밥이나 버미첼리와 함께 먹을 수 있어 집으로 배달시키기도 한다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 1,
+      "tourist_impact_score": 1.0,
       "impact_reason": "태국 정치인 관련 소식이지만, 여행객에게 직접적인 영향은 없다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "방콕 람인트라 로드 육군 골프장",
-        "price": null,
-        "location_google_map_query": "람인트라 로드 육군 골프장"
-      },
+      "event_info": "{'date': None, 'location': '방콕 람인트라 로드 육군 골프장', 'price': None, 'location_google_map_query': '람인트라 로드 육군 골프장'}",
       "references": [
         {
           "title": "“ลุงป้อม” ชวนเพื่อน ตท.6 ทานอาหารร้านประจำในสนามกอล์ฟ ทบ.",
@@ -21338,6 +21324,83 @@
       ],
       "collected_at": "19:28",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HO0aU3VFW9UX1.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/politic/2918524",
+      "source": ""
+    },
+    {
+      "title": "파탈룽 경찰, 마약 및 무기 소지 혐의로 남성 체포, 주방에서 M67 수류탄 발견",
+      "summary": "- 파탈룽 경찰이 마약 및 무기 소지 혐의로 한 남성을 체포했습니다.\n- 남성의 집 주방에서 M67 수류탄이 발견되어 가족의 안전을 위협했습니다.\n- 경찰은 추가적인 마약 네트워크 연루 여부를 조사 중입니다.",
+      "full_translated": "파탈룽 경찰은 '파본의 젊은이'를 급습하여 야바(필로폰)와 총기를 압수하고 주방에서 M67 수류탄을 숨긴 것을 발견했습니다. 2069년 3월 7일, 파탈룽 지방 경찰 부국장 겸 마약 진압반 반장인 위랏 친무앙 경찰 중령은 경찰 병력과 파본 경찰서와 합동으로 41세의 타농 또는 푸이 마니랏을 코크 트라이 구역 5번지에 있는 친구 집에서 체포했습니다. 야바 2봉지, 총 131정, .357 구경 권총 1정, 탄창에 탄환 2발 장전, 검은색 천 권총집 1개. 타농은 마약과 총기가 자신의 것이라고 자백했습니다. 그는 사건이 발생한 집에서 친구를 만나러 왔고, 친구는 자신이 마약과 총기를 소지하고 있다는 사실을 몰랐다고 말했습니다. 이후 경찰은 타농의 거주지인 파탈룽 주 코크 트라이 구역에 대한 수색을 확대했습니다. 그는 아내와 3세 아들과 함께 살고 있었습니다. 집 안에서 경찰은 M67 파편 수류탄 1개를 발견했습니다. 수류탄은 스테인리스 스틸 컵 안에 숨겨져 부엌 구석 바닥에 놓여 있었습니다. 집 안에 어린 아이가 있었음에도 불구하고 말입니다. 또한 마약 네트워크를 추가로 조사하기 위해 휴대폰 1대도 압수했습니다. 초기 심문에서 타농은 발견된 야바를 약 2일 전에 200정을 2,700바트에 구입하여 사용했다고 자백했습니다. 총기는 약 3개월 전에 55,000바트에 구입했으며 자신과 재산을 보호하기 위한 것이라고 주장했습니다. 수류탄은 약 6개월 전에 1,000바트에 구입하여 집 부엌에 숨겨두었습니다. 그러나 초기 단계에서 경찰은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 범죄 관련 소식으로, 여행객 안전에 대한 간접적인 영향을 줄 수 있다고 판단. 다만, 사건이 특정 지역에 한정되어 있고 여행객을 직접적인 대상으로 한 범죄는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "파탈룽 주, 파본 지역",
+        "price": null,
+        "location_google_map_query": "파탈룽 파본"
+      },
+      "references": [
+        {
+          "title": "ตำรวจบุกจับ “หนุ่มป่าบอน” ยึดยาบ้า–ปืน ซ่อน “ลูกระเบิด M67” ไว้ในห้องครัว",
+          "url": "https://www.thairath.co.th/news/crime/2918528",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOzbrepdEF7fP.jpg"
+        }
+      ],
+      "collected_at": "20:14",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOzbrepdEF7fP.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국, 미국-이란 긴장 고조 속 새 정부 구성 압박 직면",
+      "summary": "- 미국-이란 갈등이 태국에 새로운 도전 과제를 던짐.\n- 아누틴 총리에게 새 정부 구성을 서두르라는 압력이 가중.\n- 지정학적 위기가 태국 경제 및 안보에 미칠 영향에 대한 우려 제기.",
+      "full_translated": "Anutin urged to press ahead with new government as US Iran war throws up new challenges for Thailand&nbsp;&nbsp;Thai Examiner",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "지정학적 긴장이 태국 경제에 미치는 간접적 영향 고려. 직접적인 위협은 아니나 상황 주시 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Anutin urged to press ahead with new government as US Iran war throws up new challenges for Thailand - Thai Examiner",
+          "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQl8zTnlTUmtpNUt1MnVYYTBGOUo4dXNGeDllWGs3YWJpd20tcFROcDBQX0ZpN3BXSkFhdWIxa1AxVGpiY21Wam11QW1ZNWtKRF9EZEdFMkFHMlluRHVFWks3V0UxVFlncGFiWUQwSk40T3V4cllsWWVBYnl0V1ZVaGF3aDlrVlQwZ3ZWMXgtUTRZdzVreFlmRjlVNy1LQmlHU2k5UGR4U0N1YURjN09VV0lzSlVLWnFmMnNCOVpCWVpwNlNaZUZGTUF2ckl5LTJyTkJNZ1ViSE5ELTVoT2NwRE1oWXdNR3BRRUwtVEhTb2RpMENQSWpEYQ?oc=5",
+          "source": "Thai Examiner",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:14",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "명문고 입시, 시험장 앞 '돈 버리기' 논란 - 학교 측 해명",
+      "summary": "- 명문고 입시 시험장에서 돈을 버리는 행위가 발생하여 논란이 됨.\n- 시험장 측은 사전에 소지품 보관 장소를 마련했다고 해명.\n- 학생들의 행동에 대한 비판적인 시각이 제기됨.",
+      "full_translated": "명문고 입시 시험장 앞에서 돈을 버리는 '드라마'에 대한 또 다른 시각. 시험장 측은 이미 문제 해결 방법을 마련했다고 지적했습니다. 소셜 미디어에서 4학년 입학 시험장 '트리암 우돔 수크사 학교'에서 돈을 시험장에 가져갈 수 없다는 사진이 공유되면서 논란이 일고 있습니다. 돈이 바닥에 놓여 있거나 쓰레기통에 있는 모습이 보입니다. (4학년 입학 시험장 '트리암 우돔 수크사 학교'에서 돈을 시험장에 가져갈 수 없다는 사진 공유). 최근 페이스북 Drama-addict는 다음과 같이 게시했습니다. '페이지 팔로워가 알려주셨습니다. 시험장 앞 돈 버리기 문제는 시험장에서 사전에 발표했을 뿐만 아니라, 소지품 보관 장소도 마련했습니다. 결론적으로 시험장 앞 돈 버리기는 시험장의 문제가 아닙니다. 시험장은 사전에 발표하고 문제 해결 방법을 마련했습니다. 문제는 왜 아이들이 그런 선택을 했느냐는 것입니다.' Drama-addict 페이스북에 감사드립니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 1,
+      "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 사회의 단편적인 모습을 보여주는 흥미로운 기사.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ฟังอีกมุม \"ดราม่าทิ้งเงิน\" หน้าสนามสอบเข้า ม.4 \"โรงเรียนเตรียมอุดมศึกษา\"",
+          "url": "https://www.thairath.co.th/news/society/2918488",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GG3pEkfT5Tnd3.jpg"
+        }
+      ],
+      "collected_at": "20:14",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GG3pEkfT5Tnd3.jpg",
       "date": "2026-03-07"
     }
   ]
