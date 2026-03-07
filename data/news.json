@@ -21399,14 +21399,9 @@
       "summary": "- 유명 배우 손폰 차트리의 손자가 친구들과 물놀이 중 익사.",
       "full_translated": "유명 배우 손폰 차트리의 손자인 12세 소년이 친구들과 함께 물놀이를 하던 중 익사하는 사고가 발생했습니다. 사고는 아유타야 지역의 한 운하에서 발생했으며, 소년은 친구들과 함께 수영을 하던 중 급류에 휩쓸려 실종되었습니다. 구조대가 수색 작업을 벌이고 있지만 아직 소년을 찾지 못하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전 관련 사고 발생. 현재 수색 중.",
-      "event_info": {
-        "date": "2024-03-07",
-        "location": "아유타야",
-        "price": null,
-        "location_google_map_query": "아유타야"
-      },
+      "event_info": "{'date': '2024-03-07', 'location': '아유타야', 'price': None, 'location_google_map_query': '아유타야'}",
       "references": [
         {
           "title": "เร่งค้นหา “น้องเก้า” วัย 12 ปี เหลนของอดีตพระเอกชื่อดัง จมน้ำหายไปต่อหน้าเพื่อน",
@@ -21417,21 +21412,18 @@
       ],
       "collected_at": "20:53",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOzUCT9ilsU1O.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/local/2918529",
+      "source": ""
     },
     {
       "title": "한국, 개선된 여행 서비스와 비자 면제 확대를 통해 중국 관광 특수 2025년 견인",
       "summary": "- 한국이 러시아, 일본, 싱가포르, 아르헨티나, 태국 등과 함께 2025년 중국의 관광 특수를 견인할 것으로 예상됨.\n- 개선된 여행 서비스, 비자 면제 확대, 관광객 지출 증가가 주요 요인임.\n- Travel And Tour World에 따르면, 이러한 변화는 관광 산업에 긍정적인 영향을 미칠 것으로 전망됨.",
       "full_translated": "대한민국은 러시아, 일본, 싱가포르, 아르헨티나, 태국 등과 함께 개선된 여행 서비스, 비자 면제 확대, 전례 없는 관광객 지출 증가를 활용하여 2025년 중국의 특별한 관광 붐을 일으키고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중국 관광객 증가로 인한 한국 여행 시장에 미치는 영향 분석. 비자 정책 및 여행 서비스 개선은 여행객 유치에 긍정적.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "South Korea Joins Russia, Japan, Singapore, Argentina, Thailand, and More in Fueling China’s Exceptional Tourism Boom in 2025, Leveraging Improved Travel Services, Expanding Visa-Free Access, and Unprecedented Increases in Tourist Spending - Travel And Tour World",
@@ -21442,6 +21434,58 @@
       ],
       "collected_at": "20:53",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPTTNTNmZwMUNJeFBGRElQOWRnbm9pcWdXRkxFZVA1aUxQbTc3WDMtbXh2U0RVRXVheXdmZTdtNzBHOXdHVUFjN0s5MkxzUjNWX1MxYl9jN2ZIXzRqcm95SzVkN3NpS0dUTy1ua0pDVmtuZTE5S1NucDlnRG55ZndfRWNjMi13aEJzXzFQZDd6aHJRNF9wdVhLS1YycWlYS2k2VnhZanRiMm1udFdhbDF4S3NJQXZmSW9VTWR6b2JxZ29rM2ZiaGJiSHR1WElfTWMyWEFvWERlWkFfcGtmMF9UMkI1QXhBUWItVnNVVzJJOEpWUVpzelVaQ0hHdHVyRFlIRDlqV0R0UUxjUEU0WWs4MmlzMF81bTlXQ04ySVFoRlltQk9MMW1wVDVVa2Z3SkZjT1UySEpOZnRJUlVOTnZmOVpCaEo0N0ptalJLUjExSUs?oc=5",
+      "source": ""
+    },
+    {
+      "title": "중동 분쟁 격화: 이란에서 대피한 태국인, 터키 국경 근접",
+      "summary": "- 중동 지역 분쟁이 계속 격화되고 있으며 이란에서 첫 번째 태국인 그룹 62명이 대피했습니다.\n- 이들은 터키 국경에 거의 도착했으며, 총 215명의 태국인에 대한 지원이 이루어지고 있습니다.\n- 외교부는 위험 지역에 있는 태국인들에게 신속히 해당 지역을 떠나고 대사관에 연락할 것을 권고했습니다.",
+      "full_translated": "태국 정부는 중동 지역 분쟁 상황을 주시하고 있으며, 이란에서 대피한 첫 번째 태국인 그룹이 터키 국경에 거의 도착했다고 발표했습니다. 총 215명의 태국인에 대한 지원이 이루어지고 있으며, 외교부는 위험 지역에 있는 태국인들에게 신속히 해당 지역을 떠나고 대사관에 연락할 것을 권고했습니다. 현재 이란, 이스라엘, 시리아, 이라크, 바레인, 쿠웨이트, 레바논, 카타르는 상업 항공편에 대해 영공을 폐쇄한 상태입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 불안정으로 인해 태국인 여행객의 안전에 대한 우려가 증가할 수 있으며, 항공편 이용에 차질이 발생할 수 있으므로 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ตะวันออกกลางรุนแรงต่อเนื่อง อพยพคนไทยกลุ่มแรกออกจากอิหร่าน ใกล้ถึงชายแดนตุรกีแล้ว",
+          "url": "https://www.thairath.co.th/news/politic/2918531",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdrDLP2ggyCv.jpg"
+        }
+      ],
+      "collected_at": "21:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdrDLP2ggyCv.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "라차부리 주 수호신 사원 축제 시작: 태국 유일의 군부대 내 위치",
+      "summary": "- 라차부리 주 수호신 사원 축제가 3월 6일부터 15일까지 10일간 열립니다.\n- 올해는 209주년을 기념하며, 다양한 볼거리와 즐길 거리가 제공됩니다.\n- 군부대 내 위치한 특별함과 함께, OTOP 상품 쇼핑 및 먹거리, 공연 등이 준비되어 있습니다.",
+      "full_translated": "라차부리 주의 연례 축제인 '라차부리 주 수호신 사원 축제'가 성대하게 개막했습니다. 올해는 209주년을 기념하며, 3월 6일부터 15일까지 10일 밤낮으로 축제가 진행됩니다. 라차부리 주 수호신 사원은 태국에서 유일하게 군부대 내에 위치한 사원입니다.\n\n개막식에는 라차부리 주지사, 군 관계자, 지역 인사들이 참석하여 성황을 이루었습니다. 축제 기간 동안 방문객들은 209년 된 수호신에게 경배하고, '프라 씨 므앙'과 '옹 루앙 포 깬 찬'에게 기도를 드릴 수 있습니다. 또한, 유물에 경의를 표할 수 있으며, 고대 도시 문, 태국 유일의 철도 현수교, M4 다리 등 독특한 사진 촬영 명소를 방문할 수 있습니다. M4 다리는 군부대에서 코요키 시장으로 바로 연결됩니다. OTOP 제품 및 저렴한 상품 쇼핑을 즐길 수 있으며, 놀이기구, 전통 게임, 라이브 음악 공연도 즐길 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 유일의 군부대 내 위치한 사원 축제라는 점에서 흥미로운 지역 행사 정보에 해당합니다. 여행객들에게 특별한 경험을 제공할 수 있습니다.",
+      "event_info": {
+        "date": "2024-03-06 ~ 2024-03-15",
+        "location": "ศาลหลักเมืองราชบุรี ค่ายภาณุรังษี กรมการทหารช่าง (라차부리 주 수호신 사원, 파누랑시 캠프, 공병부)",
+        "price": "무료 (별도 활동 비용 발생 가능)",
+        "location_google_map_query": "ศาลเจ้าพ่อหลักเมืองราชบุรี"
+      },
+      "references": [
+        {
+          "title": "เริ่มแล้ว งานสักการะ “ศาลเจ้าพ่อหลักเมืองราชบุรี” แห่งเดียวในไทยที่ตั้งอยู่ในค่ายทหาร",
+          "url": "https://www.thairath.co.th/news/local/localbusiness/2918530",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdu1Yr8Kocav.jpg"
+        }
+      ],
+      "collected_at": "21:16",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HOdu1Yr8Kocav.jpg",
       "date": "2026-03-07"
     }
   ]
