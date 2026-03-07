@@ -21597,14 +21597,9 @@
       "summary": "- 태국 관광 지원 관련 뉴스입니다.\n- 자세한 내용은 기사를 참고하세요.\n- (현재 시각 기준) 기존 뉴스와 중복되거나 중요도가 낮아 추가 정보 확인 후 업데이트 예정입니다.",
       "full_translated": "태국 관광 지원 관련 소식입니다. 자세한 내용은 원문 기사를 참조하십시오.",
       "category": "TRAVEL",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "일반적인 관광 관련 뉴스이며, 기존 뉴스에 비해 새로운 정보가 부족하므로 낮은 점수를 부여합니다. 추후 업데이트될 가능성을 고려합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "tourist assistance Thailand - Travel And Tour World",
@@ -21615,21 +21610,18 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcEM4RFVfejdpVlFjZFpuVjlSZlFZOThCSmVkektBU1VGRldYb3BwLUFYQU1XVmJWQ0ZSTE9nS1FOa25pVXY2OGdlNmUxbGRXQTJINXlIUXhLSGZXZ28zVk1RTjZXbUlYbzZxeTA4aWNIUlhvSGJ2MkoxcElhMFM5RjZJdmVzeGM?oc=5",
+      "source": ""
     },
     {
       "title": "Thailand Tennis Masters 2026, 4월 개막 앞두고 유니폼 공개",
       "summary": "- 태국 테니스 마스터스 2026이 4월 개막을 앞두고 유니폼을 공개했습니다.\n- 해당 대회는 태국에서 개최될 예정입니다.\n- 구체적인 경기 일정 및 장소는 아직 발표되지 않았습니다.",
       "full_translated": "태국 테니스 마스터스 2026이 4월 개막을 앞두고 유니폼을 공개했습니다. Social News XYZ",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 스포츠 이벤트에 관심 있는 관광객에게 소소한 볼거리를 제공할 수 있습니다.",
-      "event_info": {
-        "date": "2026-04-01",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국 테니스 경기장"
-      },
+      "event_info": "{'date': '2026-04-01', 'location': '태국', 'price': '미정', 'location_google_map_query': '태국 테니스 경기장'}",
       "references": [
         {
           "title": "Thailand Tennis Masters 2026 unveils jersey ahead of April kick-off - Social News XYZ",
@@ -21640,7 +21632,9 @@
       ],
       "collected_at": "22:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0pIdWNld3l6bGlWZENNcVZPbDgxQWY3SHNyT3ZET2w4dWFkRW1HaHRnTHd4SzJJbk5SdVBQaGZ1ZTNSSGZuVzVRWjFuS1pMWnFpQ3ZUdWZDckh5XzUtSGc4ZG03bVRIbVgwem1DN1ZmamV1eU9COUxZNUVpWjRiRm1GOWNBSVhZZlV4d0R5djRoMnZTSlV1V2RYai1QdTZubk5ocmdWRU1HQQ?oc=5",
+      "source": ""
     }
   ]
 }
