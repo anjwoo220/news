@@ -20321,14 +20321,9 @@
       "summary": "- 태국이 2026년에 세계적인 웰니스 관광지로 부상할 것으로 예상됨.\n- 웰니스 서밋 개최지로 선정되어 글로벌 웰니스 트렌드를 선도할 것으로 기대.\n- 럭셔리 여행의 새로운 중심지로 자리매김할 가능성이 높음.",
       "full_translated": "2026 Sees Thailand Outshine All with Wellness Tourism – Why Thailand is the World’s New Luxury Travel Capital! Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 웰니스 관광 중심지로 부상할 가능성을 제시. 여행객 유치에 긍정적 영향 예상",
-      "event_info": {
-        "date": "2026",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "Thailand"
-      },
+      "event_info": "{'date': '2026', 'location': '태국', 'price': '미정', 'location_google_map_query': 'Thailand'}",
       "references": [
         {
           "title": "2026 Sees Thailand Outshine All with Wellness Tourism – Why Thailand is the World’s New Luxury Travel Capital! - Travel And Tour World",
@@ -20339,21 +20334,18 @@
       ],
       "collected_at": "14:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSWVJUzZoOTZWLU91NHI2RTd0dl9UdnJQY2JOUUwwbmRUZUd4T1lKOTRCOG0waExILVRoS29LOGNETm5wa1AxY1U2VFNFcWdOcXBDc183ZnZ3dFRYcGpqNU1RNlh2WG5nVGVybldRWUs2Ul92WVNuUDRCY1NXeTdoQ2dFQk56ZS1xRkIwQk1OenpORl83UjJnY2xtVlNVNVBodDJ3RkZtR2VkNDh5MnFqSHYtZG05ZEc5U1Q2WlVkbjd5ODQyWUtKTmZuZUYzSVk4MG9ycUVvUWk1UVB4d2NEc09Lb2lKbGJ5OFhj?oc=5",
+      "source": ""
     },
     {
       "title": "일본, 태국, 인도네시아, 필리핀, 라오스, 캄보디아, 미얀마, 친환경 및 문화 여행 관행으로 관광을 변화시키는 방법 – 알아야 할 모든 것 - Travel And Tour World",
       "summary": "- 일본, 태국, 인도네시아, 필리핀, 라오스, 캄보디아, 미얀마는 친환경적이고 문화적인 여행 관행을 통해 관광 산업을 혁신하고 있습니다.\n- 지속 가능한 관광, 지역 문화 존중, 지역 사회 참여가 핵심 전략입니다.\n- 이러한 변화는 여행객에게 더욱 풍부하고 책임감 있는 경험을 제공하는 것을 목표로 합니다.",
       "full_translated": "일본, 태국, 인도네시아, 필리핀, 라오스, 캄보디아, 미얀마가 친환경 및 문화 여행 관행으로 관광 산업을 어떻게 변화시키고 있는지에 대한 정보입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "해당 지역의 관광 트렌드를 보여주는 정보로, 여행 계획에 참고할 만한 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "How Japan, Thailand, Indonesia, Philippines, Laos, Cambodia, and Myanmar Are Transforming Tourism with Eco-Friendly and Cultural Travel Practices – Everything You Need to Know - Travel And Tour World",
@@ -20364,6 +20356,133 @@
       ],
       "collected_at": "14:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPSVFyQTZsZnRka3hjRk4tam1tNHJrLWpQa0NLODRrNlJTTE14OF9Pa1FteUhEUmhpUVBWMDN6RzNkUHNQU1piUjNmdDVwNDRXX09mNmRCZGlqYklFNEpsYzN4UW5UczZGdnFnenlvSUNWR05CbzVlRmxBaWdYUi1ybU9HTUptTlN5R2N4Q0tDdEdjWFhrLU55OUlVend0N3BUR2lodXhjZEtmTUVRVkItci1SdVd2Z1dOQmZGdm5ZZUR0bkU1S1VOUHcwYlZqMmdKU3BkVHZPdDY0dHNWcUVpZGFhbXhJcEtkVnBBak9OdjVlalVCVzN6eHdWOVljMUJwanppLXNjeW1zallrQWx2ZlVCVnV6TGoycUJNWEJTcVJXOUR5S3VLaVFzSm85WmhsRnFneXdnLWdGT3BI?oc=5",
+      "source": ""
+    },
+    {
+      "title": "콘깬-칼라신 지역, 경찰, '계좌 사기' 네트워크 관련 용의자 8명 체포",
+      "summary": "- 태국 경찰이 콘깬 및 칼라신 지역에서 불법 계좌 개설 및 자금 인출 혐의로 8명의 용의자를 체포했습니다.\n- 이들은 중국 범죄 조직과 연계되었을 가능성에 대해 조사 중입니다.\n- 경찰은 현금, 휴대폰, 차량, 은행 계좌 등을 압수했습니다.",
+      "full_translated": "태국 경찰 제4지방경찰청은 콘깬과 칼라신 지역에서 계좌 사기 네트워크와 관련된 용의자 8명을 체포했다고 발표했습니다. 이들은 계좌 개설 및 자금 인출 혐의를 받고 있으며, 중국 범죄 조직과의 연관성을 조사하고 있습니다. 경찰은 178,540바트의 현금, 휴대폰 4대, 차량 1대, 은행 계좌 등을 압수했습니다. 수사는 지난 6일 방콕 은행의 금융 범죄 조사팀이 피해자로부터 12만 바트를 사취한 사건을 조사하면서 시작되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "계좌 사기 네트워크 관련 용의자 체포는 여행객 대상 잠재적 금융 범죄 가능성을 시사하므로.",
+      "event_info": {
+        "date": null,
+        "location": "콘깬, 칼라신",
+        "price": null,
+        "location_google_map_query": "콘깬 칼라신"
+      },
+      "references": [
+        {
+          "title": "ตำรวจภูธรภาค 4 แถลงจับ 8 ผู้ต้องหา เครือข่ายบัญชีม้า ในพื้นที่ขอนแก่น-กาฬสินธุ์",
+          "url": "https://www.thairath.co.th/news/local/northeast/2918473",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEIaqUoFlonqd.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEIaqUoFlonqd.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 정치 상황: 부패 혐의 연루 장관 임명에 대한 반대 여론 및 정치적 긴장 고조",
+      "summary": "- 태국에서 부패 혐의에 연루된 장관 임명에 대한 국민들의 반대 여론이 거세게 일고 있음.\n- 최근 DSI와 뻐뻐뻐엉이 촌나팟 쏘쏘.에 대한 자산 압류, 주택 수색, 소환을 진행하며 정치적 긴장이 고조되고 있음.\n- 이는 정치적 목적을 내포하며 다른 정당 소속 의원들에게 경고를 보내는 행위로 해석될 수 있다는 분석이 제기됨.",
+      "full_translated": "위롯, 차놋파 사건 수사 관련하여 '너무 과도하게 나서지 말라는 경고'로 해석하며 배후 세력에 대한 감시 촉구\n\n위롯 락카나아디손 전 하원의원은 DSI와 뽀뽀응의 차놋파 나크수아 의원 자산 압류 및 주택 수색, 소환이 '지나치게 과도하게 나서지 말라는 경고'와 같다고 언급하며 배후의 '검은 세력'에 대한 감시를 촉구했습니다. 그는 법 위에 군림하는 자는 없다고 강조했습니다.\n\n위롯은 자신의 페이스북을 통해 DSI와 뽀뽀응의 조치가 정치적 의도를 내포하고 있을 수 있다는 의혹을 제기했습니다. 그는 끌라탐당과 다른 정당 의원들에게 '재정적으로 문제가 있는 경우 조심하라'는 경고를 보내는 것일 수 있다고 분석했습니다. 또한, 끌라탐당을 견제함으로써 폼짜이타이당이 야당의 전략에 대해 크게 걱정할 필요가 없도록 만들 수 있다고 덧붙였습니다.\n\n위롯은 차놋팟과 벤 스미스의 사건은 법에 따라 진행되어야 하며, 이들은 재판을 받을 권리가 있다고 밝혔습니다. 하지만 그는 사회가 이 사건을 통해 스캔머, 인신매매, 돈세탁 문제에 대해 다시 한번 생각해야 한다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 불안정은 여행 심리에 영향을 줄 수 있으나, 직접적인 위협은 아니라고 판단. 태국 정치 상황에 대한 인식을 높이는 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“วิโรจน์” มองเชือด “ชนนพัฒน์” ปรามพวกเปรี้ยว ฝากจับตา “ตัวเบ้งสีเทา” ยังลอยนวลอีกมาก",
+          "url": "https://www.thairath.co.th/news/politic/2918476",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEImMxd4N6pdj.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEImMxd4N6pdj.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 명문고 입학시험, 돈 소지 금지에 대한 논란",
+      "summary": "- 태국 명문고인 뜨리암우돔쑤윽싸 입학시험에서 돈 소지 금지 논란이 일고 있음.\n- 시험장에 돈을 가져갈 수 없어 바닥이나 쓰레기통에 버려진 돈들이 발견됨.\n- 학부모들은 돈이 없어 집에 돌아가지 못하는 학생들에 대한 우려를 표명.",
+      "full_translated": "태국 명문고등학교인 뜨리암우돔쓰 ศึกษา의 입학시험에서 돈을 소지할 수 없도록 한 규정이 논란을 일으키고 있다. 2069년 3월 7일, 뜨리암우돔쓰 ศึกษา는 4학년 입학 시험을 실시했으며, 올해 시험에는 전국 각지에서 13,895명의 학생들이 응시했다. 이 중 1,520명만이 합격할 수 있다. 한 페이스북 사용자는 시험장 주변의 사진을 게시하며 '시험장에 돈을 가져갈 수 없습니다. 쓰레기통에 버려진 돈, 아이들은 어떻게 집에 돌아가야 하나요? 모든 부모가 자녀를 지켜볼 수 있는 것도 아닙니다. 아이들이 집에 어떻게 돌아갈지 걱정해야 하는 상황은 시험에 집중하는 데 방해가 됩니다. 휴대폰도 없습니다.'라고 게시했다. 게시자는 '시험을 보러 간 자녀를 기다리던 학부모에게서 사진을 받았습니다. 자세한 내용은 모르지만, 돈이 없거나 전화가 없어서 집에 돌아가지 못하는 아이들이 있을 것입니다.'라고 전했다. 시험장 관계자는 '학교는 뚜껑이 있는 펜, 디지털 시계, 돈을 시험장에 가져가는 것을 허용하지 않습니다. 과거에 누군가가 공식을 몰래 적어가는 경우가 있었기 때문에 응시자들은 소지품을 밖에 두어야 합니다. 담당자가 지키고 있으며 외부인의 접근은 허용되지 않습니다.'라고 짧게 밝혔다. 뜨리암우돔쓰 ศึกษา가 이 문제에 대한 설명을 하는 경우, 계속해서 보도할 것이다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "입시 관련 소식이지만, 태국 사회의 단면을 보여주는 흥미로운 로컬 뉴스. 여행 자체에는 큰 영향이 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "뜨리암우돔쓰ศึกษา 학교",
+        "price": null,
+        "location_google_map_query": "뜨리암우돔쓰ศึกษา"
+      },
+      "references": [
+        {
+          "title": "ดราม่าสนามสอบ ม.4 \"โรงเรียนเตรียมอุดมศึกษา\" แห่แชร์ภาพห้ามเอาเงินเข้าห้องสอบ",
+          "url": "https://www.thairath.co.th/news/society/2918474",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEI08VkEvuLSv.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEI08VkEvuLSv.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "\"깡푸\" 정당, 조건 없이 정부에 합류할 준비 완료",
+      "summary": "- 타이 룸팔랑 정당의 대표 \"깡푸\"가 정부에 합류할 준비가 되었다고 발표했습니다.\n- 그는 어떤 조건도 없이 정부를 지원할 것이며, 국경 지역 문제 해결을 돕고 싶다고 밝혔습니다.\n- 특히 사탕수수 및 설탕 관련 법안과 부채 관련 법안을 추진하고 싶어합니다.",
+      "full_translated": "싸이루암팔랑 정당의 대표 \"깡푸\"는 의회에 출두하여 정부에 합류할 준비가 되었다고 밝혔습니다. 그는 정부가 요청할 경우 조건 없이 협력할 것이며, 국경 지역 문제 해결을 지원하고 싶다고 말했습니다. 또한 사탕수수 및 설탕 관련 법안과 부채 관련 법안을 추진하고 싶어합니다. 그는 정치적 예의상 1당인 푸미차이타이 당이 먼저 연정을 제안해야 한다고 생각하며, 태국에는 강력한 정부가 필요하다고 강조했습니다. 그의 정당은 국경 지역 주민들의 목소리를 대변하고 싶어하며, 국경 지역의 전쟁 관련 문제와 주민들을 돌보는 데 도움을 줄 수 있습니다. 그는 공식적인 연락을 기다리고 있으며, 어떤 조건도 없이 원칙적으로 지원할 준비가 되어 있다고 밝혔습니다. 그는 의회에서 6석을 가지고 있으며 정부에 힘을 실어줄 수 있다고 믿고 있습니다. 푸미차이타이 당의 정책과 그의 정당의 정책이 일치하는 부분이 많다는 점도 언급했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단됨. 정당 합류 가능성은 일반적인 정치 뉴스에 해당함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“กังฟู” ลั่นพร้อมร่วมรัฐบาลแบบไร้เงื่อนไข หากได้รับทาบทาม 6 เสียงพร้อมเติมพลังให้รัฐบาล",
+          "url": "https://www.thairath.co.th/news/politic/2918467",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdDy0n1ll9jv.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdDy0n1ll9jv.jpg",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 에너지라찻당 신임 대표로 트리누치 임명, '쁘라윗 장군'에게 자문 구할 것",
+      "summary": "- 에너지라찻당(팔랑쁘라차랏)은 총회에서 트리누치 티안통을 신임 대표로 선출함.\n- 트리누치 대표는 쁘라윗 웡수완 장군에게 계속 자문을 구할 것이라고 밝힘.\n- 새로운 집행위원회에는 신구 인력이 조화를 이루어 당의 발전을 이끌 예정임.",
+      "full_translated": "팔랑쁘라차랏당은 총회에서 뜨리누치 티안통을 신임 대표로 선출했습니다. 뜨리누치 대표는 쁘라윗 웡수완 장군에게 계속 자문을 구할 것이라고 밝혔습니다. 2069년 3월 7일 오전 10시 30분, 싸깨오 지역의 뜨리누치 티안통 의원은 에너지라찻당 대표 대행 자격으로 유타나 씨타부트, 끄라새 트라꾼폰퐁, 팍타톤 티안차이, 바디 티안통, 끄릿요틴 사시파타나웡 장군과 함께 에너지라찻당 총회를 주도했습니다. 총회에 앞서 뜨리누치 의원은 당을 방문한 당원 및 국민들과 인사를 나누고 당에서 마련한 부스에서 음식을 먹었습니다. 동시에 국민 대표 및 하원 의원들이 뜨리누치 의원에게 축하 선물을 전달하며 화기애애한 분위기를 연출했습니다. 뜨리누치 의원은 총회에 참석하기 전, 쁘라윗 웡수완 당 대표가 약 2개월 전 사임한 데 따른 것이라고 밝혔습니다. 선거관리위원회(꼬꼬떠.) 규정에 따라 당 집행위원회는 대표 대행 역할을 수행해야 하므로 당 운영을 지속하기 위해 당 대표, 부대표 및 신임 집행위원회를 선출하기 위한 총회를 개최해야 합니다. 새로운 집행위원회는 신구 인력으로 구성되어 당의 발전을 이끌고 당 운영과 정책에 대한 신뢰를 구축하며 국민들에게 희망을 줄 것입니다. 지난 기간 동안 당은 최선을 다해 노력해 왔으며 당은 여전히 정부에 참여하라는 초대를 받을 기회가 있을 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ตรีนุช” นั่งหัวหน้าพรรคพลังประชารัฐคนใหม่ ย้ำยังต้องขอคำปรึกษา “บิ๊กป้อม”",
+          "url": "https://www.thairath.co.th/news/politic/2918460",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdU0ROdBzcd5.jpg"
+        }
+      ],
+      "collected_at": "15:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GEdU0ROdBzcd5.jpg",
       "date": "2026-03-07"
     }
   ]
