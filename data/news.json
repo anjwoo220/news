@@ -20475,14 +20475,9 @@
       "summary": "- 중동 긴장 고조로 항공 안전 위협 증가\n- 미-이스라엘의 이란 공격으로 하늘은 더욱 위험해지고 조종사 스트레스 증가\n- 전쟁 발발로 수백 발의 탄도 미사일과 공격용 드론이 세계에서 가장 분주한 공항 상공에 배치",
       "full_translated": "최근 몇 년 동안 상업 항공기 조종사들은 드론 침입부터 분쟁으로 인해 좁아진 비행 경로에 이르기까지 위험이 증가하고 있습니다. 현재 미국-이스라엘의 이란 공격으로 하늘은 더욱 위험해지고 조종사들에게 가해지는 압력이 더욱 심화되고 있습니다. 중동 지역의 전쟁 발발로 수백 발의 탄도 미사일과 공격용 드론이 세계에서 가장 분주한 공항 상공에 배치되었습니다. 이란의 미국과 동맹국에 대한 보복으로 공항이 타격당해 두바이에서 아부다비로 향하는 수십 편의 항공편이 결항되었습니다. 수천 명의 발이 묶인 승객들을 위해 구조 항공편이 간헐적으로 운항되고 있습니다. 로이터는 8명의 조종사와 6명 이상의 항공 및 보안 전문가와 인터뷰를 진행했으며, 이들은 우크라이나에서 아프가니스탄, 이스라엘에 이르기까지 분쟁의 누적으로 인해 조종사에게 부담이 가중되어 활동적인 전쟁 지역에서 멀리 떨어진 축소되는 영공과 군사 드론의 광범위한 사용을 관리해야 한다고 밝혔습니다. 이로 인해 자신과 승객의 안전을 지키기 위해 필사적인 조종사들의 정신 건강에 부담이 가중되고 있습니다. 중동 경험이 있는 조종사이자 유럽 조종사 협회 회장인 탄자 하터는 로이터에 “저희는 군사 조종사가 아닙니다. 저희는 이러한 종류의 공중 위협에 대처하도록 훈련받지 않았습니다.”라고 말했습니다. 현재의 위기는 일련의 보안 위기의 최신판입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 지역의 긴장 고조로 항공 안전에 대한 잠재적 위협이 증가하고 있으며, 이는 항공편 이용객에게 영향을 미칠 수 있으므로 여행 관련 정보로 분류.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Commercial pilots confront drones, missiles and stress",
@@ -20493,21 +20488,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211948_260307152545_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/world/3211948/commercial-pilots-confront-drones-missiles-and-stress",
+      "source": ""
     },
     {
       "title": "태국, 중동 분쟁 영향 감시 및 관리를 위한 합동 센터 설립",
       "summary": "- 태국 정부는 중동 상황에 대한 신속하고 효율적인 모니터링 및 분석을 위해 합동 관리 및 모니터링 센터를 설립했습니다.\n- 이 센터는 분쟁의 전개 상황을 평가하고, 보호 조치를 권고하며, 정부의 대응을 조정하는 역할을 수행합니다.\n- 아누틴 총리가 센터 자문위원으로, 피팟 라차킷프라칸 부총리 겸 교통부 장관이 센터장으로 임명되었습니다.",
       "full_translated": "태국은 중동 분쟁의 영향을 감시하고 관리하기 위한 합동 센터를 설립했습니다. 새로운 조직인 중동 상황 공동 관리 및 모니터링 센터는 2026년 3월 6일부터 즉시 효력이 발생하는 총리실 명령 제53/2026호를 통해 공식적으로 창설되었습니다. 이 센터는 분쟁 전개 상황에 대한 신속하고 효율적인 모니터링과 분석을 제공하고, 보호 조치를 권고하며, 여러 부문에 걸쳐 조율된 정부 대응을 보장합니다. 아누틴 총리가 센터 자문위원으로 활동합니다. 피팟 라차킷프라칸 부총리 겸 교통부 장관이 센터장으로 임명되었으며, 에크니티 니티탄프라파스 부총리 겸 재무부 장관이 부센터장으로 임명되었습니다. 이 센터는 여러 핵심 내각 장관과 고위 관료로 구성된 고위급 위원회를 소집합니다. 위원에는 낫타폰 나크파닛 국방부 장관, 시하삭 푸앙케트케오 외무부 장관, 아우타폴 륵피분 에너지부 장관, 수파지 수툼푼 상무부 장관, 트리누치 티안통 노동부 장관이 포함됩니다. 또한 태국 중앙은행, 증권거래위원회(SEC), 국가경제사회개발위원회(NESDC), 국가안보위원회 및 기타 관련 기관의 대표가 참여합니다. 센터의 주요 책임에는 중동 상황에 대한 면밀한 관찰 및 심층 분석, 태국에 대한 잠재적 영향 평가 등이 포함됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 정부의 중동 분쟁 관련 대응책 마련은 여행 안전에 간접적인 영향을 미칠 수 있으므로 중간 점수 부여. 직접적인 위협은 아니지만 알아두면 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Establishes Joint Center to Monitor and Manage Impacts of Middle East Conflict",
@@ -20518,21 +20510,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/20260307_151845389642607334408352.jpg?v=1772871620",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://thepattayanews.com/2026/03/07/thailand-establishes-joint-center-to-monitor-and-manage-impacts-of-middle-east-conflict/",
+      "source": ""
     },
     {
       "title": "태국, 입시 경쟁 과열로 인한 학생 정신 건강 문제 대두",
       "summary": "- 태국 명문고 입시에서 학생들의 소지품 보관 문제로 혼란 발생.\n- 과도한 경쟁 압박에 대한 우려 제기, 학생 정신 건강에 대한 관심 촉구.\n- 교육부에 시험장 시스템 개선 및 관리 감독 강화를 요구.",
       "full_translated": "타이 쌈 타이 당 대변인은 명문고 입시에서 학생들이 귀중품과 휴대폰을 시험장 밖에 보관해야 하는 상황과 관련하여 학생과 교사의 정신 건강에 대한 우려를 표명했습니다. 2069년 3월 7일, 타이 쌈 타이 당 대변인인 빠리예 앙쿠라낏은 끄리앙 우돔쓰억사 학교 입시에서 학생들이 귀중품과 휴대폰을 시험장 밖에 보관해야 하는 드라마와 관련하여 학생, 교사, 관계자들의 정신 건강에 대한 우려를 표명했습니다. 그는 비록 소지품 보관 장소가 마련되었지만 응시자 수가 매우 많고 학교가 장소 관리를 전적으로 담당하게 되면서 혼란과 혼잡이 발생하여 시험을 치르는 학생과 책임을 져야 하는 관계자 모두에게 심각한 압박이 가해졌다고 밝혔습니다. 또한 콘서트 및 쇼와 같은 대규모 이벤트가 사전에 예약된 시험장 주변 환경 문제도 발견되었으며, 이로 인해 해당 장소는 어린이의 미래에 영향을 미치는 중요한 시험을 치르는 데 적합하지 않았습니다. 이 문제는 경쟁적인 입시 문제와는 별개로 장소 관리 효율성과 시험장 준비 상태에 대한 문제이며, 더 높은 기준이 필요합니다. 타이 쌈 타이 당은 교육부가 '공동 주최자'로서 완전한 지원을 제공해야 한다고 생각하며, 장소 관리, 인력, 교통 관리, 이동식 화장실과 같은 필수 시설 및 표준 자산 보안 시스템을 준비하기 위해 관련 민간 부문, 경찰 또는 내무부와 협력해야 합니다. 이를 통해 가장 완벽한 시험 시스템을 구축하고 시험장에서 기본적인 서비스에 대한 불평등을 줄일 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행 자체에는 직접적인 영향이 없지만, 사회적 분위기를 파악하는 데 도움이 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ไทยสร้างไทย ห่วงสภาพจิตใจนักเรียน ปมดรามาฝากของสอบเตรียมอุดมฯ เสนอ ก.ศึกษาฯ จัดระบบสนามสอบ",
@@ -20543,21 +20532,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GG3E8ahDCYUXS.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/politic/2918481",
+      "source": ""
     },
     {
       "title": "방콕 콘도에서 호주 마약 도피범 체포",
       "summary": "- 호주에서 마약 혐의로 수배 중이던 44세 남성이 방콕 딘댕 지역 콘도에서 체포됨.\n- 호주 연방 경찰의 요청으로 이뤄졌으며, 용의자는 호주와 뉴질랜드 이중 국적 보유.\n- 태국 이민국은 용의자의 비자를 취소하고 본국으로 추방할 예정.",
       "full_translated": "방콕포스트에 따르면, 호주에서 마약 혐의로 수배 중이던 호주 국적의 남성이 방콕 딘댕 지역의 콘도에서 체포되었습니다. 이민국 경찰은 호주 당국이 수배 중인 도피범이 태국에 숨어 있다는 정보를 입수한 후 금요일 오후 아이작(44)으로만 알려진 용의자를 체포했습니다. 프린야 클린케손 이민국 대변인은 토요일에 이같이 밝혔습니다. 이번 체포는 호주 연방 경찰(AFP) 연락사무소의 요청에 따른 것으로, 용의자는 퀸즐랜드에서 작년 1월 18일에 발부된 영장에 의해 수배 중이었습니다. 용의자는 불법 약물 소지 및 제조와 관련된 11건의 혐의를 받고 있습니다. 당국은 용의자가 호주 및 뉴질랜드 여권을 소지한 이중 국적자라고 밝혔습니다. 기록에 따르면 그는 올해 2월 10일에 태국에 입국했습니다. 수사관들은 또한 그가 2019년 마약 소지, 2017년 인도네시아 마약 밀수 시도 등 다른 범죄 사건과도 관련이 있음을 발견했습니다. 프린야 대변인은 이번 체포는 사전 정보 중심 작전과 국제 보안 파트너와의 효과적인 협력의 결과이며, 태국에 숨어 있던 주요 초국가적 도피범을 성공적으로 체포했다고 밝혔습니다. 용의자의 비자는 취소되었으며 당국은 그를 본국으로 추방할 준비를 할 것입니다. 이번 체포는 이민국에게 또 다른 중요한 성과입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "외국인 범죄 관련 소식이므로 여행 시 주의를 환기할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "딘댕, 방콕",
-        "price": null,
-        "location_google_map_query": "딘댕 방콕"
-      },
+      "event_info": "{'date': None, 'location': '딘댕, 방콕', 'price': None, 'location_google_map_query': '딘댕 방콕'}",
       "references": [
         {
           "title": "Australian drug fugitive arrested at Bangkok condo",
@@ -20568,21 +20554,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260307/c1_3211923_700.jpg",
-      "date": "2026-03-07"
+      "date": "2026-03-07",
+      "link": "https://www.bangkokpost.com/thailand/general/3211923/australian-drug-fugitive-arrested-at-bangkok-condo",
+      "source": ""
     },
     {
       "title": "이수즈, D-Max 및 MU-X 차량 바이오디젤 B20 사용 가능 확인",
       "summary": "- 이수즈는 자사 D-Max 및 MU-X 모델이 바이오디젤 B20을 사용할 수 있다고 확인했습니다.\n- 에너지 위기 속에서 태국 정부의 바이오디젤 혼합 비율 증가 정책을 지지합니다.\n- 이수즈 차량은 이미 바이오디젤 B20에 대한 테스트를 거쳤으며, 탄소 배출 감소 효과도 인증받았습니다.",
       "full_translated": "이수즈는 D-Max 및 MU-X 차량이 바이오디젤 B20을 사용할 수 있음을 확인하고 에너지 위기 속에서 태국을 지원합니다. 트리페츠 이수즈 세일즈(ISUZU)의 타카시 하타 사장은 세계 에너지 위기와 유가 변동이 국민 생활에 영향을 미치는 상황에서 태국 픽업트럭 및 상용차 시장의 선두 주자인 이수즈는 국가 경제 및 자동차 산업 발전에 중요한 역할을 수행하고 있음을 인지하고 있다고 밝혔습니다. 이수즈 엔진 기술은 모든 모델에서 바이오디젤 B20을 지원하며, 정부가 현재 5%에서 최대 20%까지 바이오디젤 혼합 비율을 늘리는 경우 이를 지원할 준비가 되어 있습니다. 이는 국내 팜유를 원료로 하는 바이오디젤 사용을 장려하고 수입 석유 의존도를 줄이며 태국 농민을 지원하기 위함입니다. 이수즈는 픽업트럭 이수즈 D-Max, SUV 이수즈 MU-X, 중대형 트럭을 포함한 모든 이수즈 모델이 바이오디젤 B20을 지원할 수 있음을 확인합니다. 모든 차량은 바이오디젤 혼합 비율이 최대 B20까지 효율적으로 사용하도록 엔진 기술 개발 및 테스트를 거쳤습니다. 바이오디젤 사용은 탄소 배출량과 검은 연기 감소에 도움이 되며, 이수즈 엔진 기술은 바이오디젤 B20 사용 시 온실가스 관리 기구(TGO)의 인증을 받아 탄소 배출 감소 효과를 입증했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "차량 관련 정보로 여행객에게 직접적인 영향은 적으나, 연료 관련 정책 변화 가능성을 알려주는 정보이므로 낮은 점수 부여. 현재 시간 저녁 브리핑에 적합.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ISUZU ยืนยันสมรรถนะรถ D-Max และ MU-X เติมน้ำมันไบโอดีเซล B20 ได้",
@@ -20593,6 +20576,133 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4GGP7G1Zy9G7I9.jpg",
+      "date": "2026-03-07",
+      "link": "https://www.thairath.co.th/news/auto/news/2918493",
+      "source": ""
+    },
+    {
+      "title": "한국, 중국 무비자 쇼핑 관광 붐에 합류",
+      "summary": "- 한국이 일본, 미국, 태국 등과 함께 중국의 무비자 쇼핑 관광 붐에 합류했습니다.\n- 에어차이나와 중국동방항공이 이러한 추세를 주도하고 있습니다.\n- 중국 관광이 활성화될 것으로 예상됩니다.",
+      "full_translated": "Travel And Tour World에 따르면 한국은 일본, 미국, 태국, 말레이시아, 인도네시아, 싱가포르와 함께 에어차이나와 중국동방항공에 의해 촉발된 중국의 무비자 쇼핑 관광 붐에 여행객이 몰리면서 합류했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "한국인의 중국 여행 증가 가능성, 쇼핑 관광 정보 제공",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Japan, the United States, Thailand, Malaysia, Indonesia, and Singapore as Travelers Surge to China in a Visa-Free Shopping Tourism Boom, Fueled by Air China and China Eastern - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNeGVrc3pkTklYWkx1R2gyaTFsQWtUM3VsMk9zc3BZeFp3QS03UUc2My0zLU01OTVLXzJYM1AyQXg0YkNIbklkemZxYTFtSENXWWx5dUxjX1dZQXBFMENQWjVXaWNydXBIdkh6allMYWJRWE5ZT1NyRHlIWEJMRldVQTVSVjNtUHpVd0oxZWRNQWZWOUdtOWlUWDMwQy0xcHU2YUljeWFOVWwyWk5PTGtMVFZmZ3ZFVlVsd2VFNHc5bUoyQmM4MndxWXMwLTdwamhjdlhLeDVZZVhJWExIRGFuLTlvczdnNlRMV3huQ0VzcXI5cWtKbDVnRWV5NGVfNWR1WkJnTWxHUlhjaFhsUjF3MVBwcV9zTWNFaHA1ZkpicHYyWFBYai1YdjBnazdZRmZjSXNsYnpqUTAxXzBCd0RCOUpObEdvaTFmM20xalhGVHFiekx3eEE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "중국 화장 대협곡 다리, 한국, 일본, 태국 관광객 몰려: 카타르 항공 및 캐세이퍼시픽, 관광 붐 수혜",
+      "summary": "- 한국, 일본, 태국 관광객들이 중국 화장 대협곡 다리에 몰리면서 카타르 항공과 캐세이퍼시픽이 관광 붐의 수혜를 입고 있다.\n- 이 다리는 최근 몇 년 동안 중국에서 인기 있는 관광지가 되었다.\n- 관광객 증가는 항공사들의 수익 증가로 이어지고 있다.",
+      "full_translated": "중국 화장 대협곡 다리, 한국, 일본, 태국 관광객 몰려: 카타르 항공 및 캐세이퍼시픽, 관광 붐 수혜\n\n여행 및 관광 월드",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광객의 해외 관광 트렌드 변화를 보여주며, 항공사 정보는 여행 계획에 참고가 될 수 있다.",
+      "event_info": {
+        "date": null,
+        "location": "화장 대협곡 다리, 중국",
+        "price": null,
+        "location_google_map_query": "화장 대협곡 다리"
+      },
+      "references": [
+        {
+          "title": "South Korea, Japan, and Thailand Flock to China’s Huajiang Grand Canyon Bridge: How Qatar Airways & Cathay Pacific Are Benefiting from the Tourism Boom - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONTZVQ21KNWU0c0ZNbmZSUTdhS282ZlN5SVpCbnB0U21tUFRJR3BjWXo3bEdkQjE4ZmpyaTY5UjQtNEY1bjNWc3dtLU40ZlQ4VEllYXFoLUY2U0hDcEtMMDJTeDVmdjZuaExJd2pwT19SUTJwcE5BUjBQR21XYlgxb1JBUjYxalFmVVlYSVI3RkRkclJ1bnU1UzJsUjVmVHpzM0RLSzhfM3oxcUZPenR2NHhiSXlQRFpiZjVIRzRLczZvRnN4R1I2bE1UT2RjR3MydU56T1gzTExldm1qM1Uxa0NFNXkzTTY5aFVuNVhmSmpkLU9GWWFwbS1MbTZjZG9QUXYzb25JS0xmbGRwRHAwMXM3VW82TFJJRWViMUhmcw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "Z세대, 해변 휴가 대신 중국, 태국, 인도네시아, 일본 등 웰니스 관광 선호",
+      "summary": "- Z세대가 해변 휴가 대신 웰니스 관광을 선택하는 추세가 중국, 태국, 인도네시아, 일본 등에서 두드러짐.\n- 웰니스 관광은 단순 휴식을 넘어 정신적, 육체적 건강을 증진하는 활동을 포함.\n- 이러한 변화는 여행 트렌드의 혁명을 예고하며, 관련 시장의 성장이 기대됨.",
+      "full_translated": "Z세대와 그 이후 세대는 왜 중국, 태국, 인도네시아, 일본 등에서 해변 휴가를 버리고 웰니스 관광을 선택하는가: 차세대 여행 혁명이 시작되었습니다.\n\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행 트렌드 변화에 대한 정보로, 여행 계획 수립 시 참고할 만한 내용. Z세대 여행객에게 유용한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Why Gen Z and Beyond Are Abandoning Beach Breaks for Wellness Tourism in China, Thailand, Indonesia, Japan and More: The Next Travel Revolution Is Here - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOY1pZVnJsYS0xdE5VLUNON01qalNSVC1HU0lHQzNOWDNnQ3hJYmpQem9XcDdROEJMdWNiNU1ZQzF1aEgwYW1TYlI1RHpyNDhmblctOUVxcy02eWFkNUpHX1dVSGlRMU00c0hNV3dablI5X1A2eUstSm5sckpONS05T3hhZkZWbUREeTlHWmlDWnJEbXFwYVhYT1FxMjdyNEY3UFpiUzN6VWRxRl9qNDZISEdrY29WcmFkU21HZnpNVTFCM0RtMkdVQXhBQVByU1A5TkZOelN3SnBCaGtmbVhTYlpGVTFvbkYxX3lTNXNBUThiTTVqcjFBOEF0UFU5b0ItaUMxVzU3RkhhdWNnSmtpakJXVEkzcGExXzNOTVllVld4Zw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "일본, 태국 등 ASEAN 국가들과 함께 지속 가능한 관광 주도",
+      "summary": "- 일본이 태국, 베트남, 말레이시아, 인도네시아, 싱가포르, 필리핀과 함께 지속 가능한 관광을 주도합니다.\n- ASEAN-일본 이니셔티브는 친환경 성장을 통해 항공 및 호텔 산업을 혁신합니다.\n- 이 협력은 아세안 지역 관광 산업의 지속 가능성을 높이는 데 기여할 것으로 기대됩니다.",
+      "full_translated": "일본이 태국, 베트남, 말레이시아, 인도네시아, 싱가포르, 필리핀과 함께 지속 가능한 관광을 주도합니다: ASEAN-일본 이니셔티브는 친환경 성장을 통해 항공 및 호텔 산업을 혁신합니다!",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "ASEAN 국가들의 지속 가능한 관광에 대한 협력 소식은 장기적으로 여행 환경에 긍정적인 영향을 미칠 수 있지만, 단기적인 여행 계획에는 큰 영향을 미치지 않으므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Japan Joins Thailand, Vietnam, Malaysia, Indonesia, Singapore, and the Philippines to Lead the Charge in Sustainable Tourism: ASEAN-Japan Initiative Transforms Airline and Hotel Industries with Eco-Friendly Growth! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOWUlWZFBwNnJ0YkkzTVdoZzRjLVQwOTRuSWN6YTZhWDNXTXhsN3lTM0RBZ3B6WnpDdXZZR2lRM2FGUzIwWVZyR1JobF8yRjNlaFZxb0FHOXdZVDBHTE9NTFdESXRvWDdRYUdlQi04NGtwNDJtZ3c5Y3RWMXdFMTdqelh0Y1pNZjd2UEFBcng3eGNqTjVKbVRyMTBoU2UtX051VmEwUUotOFA1YnItaHN3RHllOHBuMk04N0dVX0pLU3JiUE9teF9JWUtEajFNMnczdlFqNEJvazJQT1NWQzFqV3p6NTJBcF8zamhQUHJSODBLcGV1ZlRhMFg1RFMwY0FNQ0xNVUhkM1VTb21sVHk4TzItWVBSTWtPWTU4TXBZMVQyal9CdHJQQVNkVEljeTBMN3pBYl80amhOUGw2QU9UQ1lhbGFMUjJFaXh2VzRTUG03LWtqNDBValgxdmJrSzRh?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-07"
+    },
+    {
+      "title": "태국 미식 웰니스",
+      "summary": "- 태국의 미식 경험과 웰빙을 결합한 여행 상품 소개.\n- 건강과 미식을 동시에 추구하는 여행 트렌드 반영.\n- 구체적인 상품이나 장소 정보는 기사에 명시되지 않음.",
+      "full_translated": "태국 미식 웰니스 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 3,
+      "impact_reason": "미식과 웰빙을 결합한 여행 트렌드를 소개하나, 여행객에게 직접적인 영향을 주는 정보는 부족함. 새로운 핫플레이스 정보나 특정 여행 상품 정보가 없어 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai gastronomic wellness - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWVJ1d3p2dE1KV3F4eE0zRWExb1pwOElkV3dBOFlnell2ZE9wTlJLT2I0RmZYU1ZvNkRMTFlNcE84ZUx1NFVEcW5GZmxZcFNWbjBnNDVXNnNBbUtVWHhtREF4a0tnMEw5eUw0WHlPNUExWHlhMEJNaHZ0V1RCVWlnWWlQUG4?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-07"
     }
   ]
