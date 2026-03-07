@@ -22043,14 +22043,9 @@
       "summary": "- 이란 전문가 회의, 24시간 내 최고 지도자 선출 가능성 언급\n- 중동 전쟁 상황 속에서 지도자 선출이 진행될 수 있음\n- 모즈타바 카메네이가 유력 후보로 거론",
       "full_translated": "이란 전문가 회의는 향후 24시간 안에 새로운 최고 지도자를 선출할 수 있다고 밝혔습니다. 중동 지역의 전쟁 상황이 종식될 기미를 보이지 않는 가운데 이와 같은 발표가 나왔습니다. 이란의 '파르스' 통신은 2569년 3월 7일, 최고 지도자를 선출할 책임이 있는 전문가 회의가 24시간 안에 새로운 지도자를 선출할 수 있다고 보도했습니다. 아야톨라 모자파리는 88명의 회원으로 구성된 전문가 회의가 이란의 차기 지도자를 선출하기 위한 회의를 열기 위한 조건을 '간절히 기다리고' 있다고 밝혔으며, 이 임무가 24시간 이내에 완료되기를 희망한다고 덧붙였습니다. 모자파리는 현재까지 새로운 최고 지도자가 선출되지 않았다고 언급하며, 대중에게 이 문제에 대한 추측이나 소문을 퍼뜨리지 말 것을 촉구했습니다. 여러 보도에 따르면, 전 최고 지도자인 아야톨라 알리 카메네이의 아들인 모즈타바 카메네이가 새로운 최고 지도자의 유력한 후보로 거론되고 있습니다. 알리 카메네이의 둘째 아들인 모즈타바는 이란 정부의 배후에서 막대한 영향력을 행사하고 있으며, 이란에서 가장 강력한 군대인 이슬람 혁명 수비대(IRGC) 및 준군사 자원 봉사 네트워크인 '바시지'와 긴밀한 관계를 맺고 있는 것으로 알려져 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에는 직접적인 영향은 없으나, 중동 정세 불안정이 간접적으로 영향을 줄 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านเผย อาจเลือกผู้นำคนใหม่ได้ ใน 24 ชั่วโมงข้างหน้า",
@@ -22059,23 +22054,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ34IuefSi7ys.jpg"
         }
       ],
-      "collected_at": "05:14",
+      "collected_at": "5:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ34IuefSi7ys.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/foreign/2918546",
+      "source": ""
     },
     {
       "title": "미국, 이스라엘에 12,000개 폭탄 판매 승인 - 의회 승인 절차 생략",
       "summary": "- 미국 정부가 이스라엘에 1,000파운드 폭탄 12,000개를 판매 승인함.\n- 의회 승인 절차를 거치지 않고 긴급 상황을 이유로 판매 진행.\n- 판매액은 1억 5,100만 달러 상당이며, 추가 지원 및 기술 지원 포함.",
       "full_translated": "미국이 이스라엘에 1,000파운드 다목적 폭탄 12,000개를 판매하는 것을 승인했으며, 의회 단계를 거치지 않았습니다. CNN은 2569년 3월 7일 미국 정부가 상황의 긴급성을 이유로 의회 단계를 건너뛰는 권한을 사용하여 BLU-110A/B 모델의 1,000파운드 다목적 폭탄 12,000개, 총 1억 5,100만 달러 이상을 즉시 이스라엘에 판매하는 것을 승인했다고 보도했습니다. 미국 국무부의 발표에 따르면 '마르코 루비오 국무장관은 미국 국가 안보의 이익을 위해 해당 방위 장비 및 서비스를 즉시 이스라엘 정부에 판매해야 하는 긴급 상황이 존재한다고 결정하고 자세한 이유를 제시했습니다. 따라서 무기 수출 통제법 36(b)조에 따른 의회 검토 요구 사항을 유예합니다.' '이번 판매 제안은 현재와 미래의 위협에 대처하고 국토 방어를 강화하며 지역 내 위협을 억제하는 데 있어 이스라엘의 역량을 강화하는 데 도움이 될 것입니다.' 금요일(3월 6일)에 발표된 성명에서 덧붙였습니다. 폭탄 외에도 이번 무기 판매 패키지에는 엔지니어링 지원 서비스, 운송, 미국 정부 및 계약 회사의 기술 지원, 프로젝트 물류 및 지원과 관련된 기타 요소도 포함됩니다. 이번 판매 가속화는 이스라엘과 미국이 이란과 지속적으로 전쟁을 벌이고 있는 가운데 이루어졌습니다. 지난 토요일 도널드 트럼프 대통령은 '오늘 이란은 큰 타격을 받을 것이다!'라는 새로운 공격을 암시했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 직접 관련은 없으나, 국제 정세 불안은 잠재적 위험 요소. 여행객 안전에 간접적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "รบ.ทรัมป์ขายระเบิด 12,000 ลูกให้อิสราเอล ไม่รอสภาอนุมัติ อ้างฉุกเฉิน",
@@ -22084,23 +22076,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4XYF023uaq8.jpg"
         }
       ],
-      "collected_at": "05:14",
+      "collected_at": "5:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4XYF023uaq8.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/foreign/2918543",
+      "source": ""
     },
     {
       "title": "태국 비즈니스 파트너십",
       "summary": "- 태국이 비즈니스 파트너십을 모색하고 있습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.\n- (더 많은 정보는 기사 원문을 참조하세요)",
       "full_translated": "태국 비즈니스 파트너십&nbsp;&nbsp;Travel And Tour World",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "일반적인 비즈니스 뉴스이므로 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand business partnerships - Travel And Tour World",
@@ -22109,7 +22098,34 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:14",
+      "collected_at": "5:14",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOURVdjRGbkFKQ0VoY01FN0JTODUwenRpR2FFWGpqdjZneU5pU2Fsc3pVb1dMYWs2WFphZFlfRVVCamstcWREV3RlbFRHZjZSbHpYTjlWRWlyRW1ZT1MyS1BnNkJHX092UGVCVVh0bE5GNVctdF9reWJ2WVUzNzEzcWgxdk9ZajdVMWJr?oc=5",
+      "source": ""
+    },
+    {
+      "title": "서아시아 위기로 한국 포함 아시아 국가 관광 산업 타격",
+      "summary": "- 서아시아 위기로 인해 미국과 유럽에서 아시아 국가로의 여행 경로가 단절.\n- 한국, 일본, 인도네시아, 베트남, 말레이시아, 인도, 필리핀 등 관광 산업에 심각한 타격 예상.\n- 1분기 말까지 이러한 영향 지속될 것으로 전망.",
+      "full_translated": "서아시아 위기로 인해 한국을 포함한 일본, 인도네시아, 베트남, 말레이시아, 인도, 필리핀 등 아시아 국가들이 미국과 유럽으로부터의 관광 산업에서 심각한 타격을 입고 있습니다. 서아시아 위기는 올해 1분기 말까지 연결성과 노선을 붕괴시키고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "서아시아 위기가 항공로에 영향을 주어 유럽/미국 출발 여행객의 아시아 여행에 불편을 초래하고, 이는 한국 관광 산업에도 부정적인 영향을 미칠 수 있습니다. 다만, 구체적인 항공편 취소나 지연 정보는 없어 '보통' 수준의 영향으로 평가.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "South Korea Joins Japan, Indonesia, Vietnam, Malaysia, India, Philippines and More Asian Countries Facing a Severe Hit in Tourism from US and Europe as West Asia Crisis Shatters Connectivity and Routes Till the End of the First Quarter This Year - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPWFRXNDNFa0l1UzRMRFZJNG4wVVlkZnkwT1ltSEpNcXRIUHBxS0lkSEs0bU1QaWtEMlhoQXMtV3ZCVm14VGEyb21WWVhKMWNtQWw5VXZWeS12RXlvcklDbDVKTUlKdk0yd0pzMHpDTjhpWTBfUmo3aDk0RENnSXJGMlJPVEpIX2Y4eThNUHMzZTAtMnh1RXBFUVZGVzA0ajJJYlJ4VXc4WllUN09zbXJGUFBRRGRnMnFOeUVCc2RkeEZtWi1lX3I5RHVlaXd3RUFLMnd0dl9ldkNDV1I5V194Sy1JUkZlRHExSWNZTWduOThKNTB0LXhUUU9xc2xuUU5iaDVOa0Fuak14T0M2cHdvcFo3NEJoVmh1bTN3M0ZIZDVIaG9OOGpWYlVwSy11RGstMjJsOEdJWXV3NTk1bE03MW42RDZsLW05NWlQbXBkVUVhdmdYa0Z2VGtRVkFEVjhXNWc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
