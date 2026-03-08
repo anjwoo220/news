@@ -23009,14 +23009,9 @@
       "summary": "- 파타야에서 영국인 관광객이 다른 영국인을 공격하여 중상을 입힘.\n- 피해자는 얼굴에 깊은 상처를 입고 30바늘 이상 꿰맴.\n- 용의자 중 1명은 체포되었고, 다른 1명은 도주 중이며, 범행 동기는 불분명.",
       "full_translated": "파타야 — 2026년 3월 8일, 한 영국인 관광객이 토요일 새벽 파타야의 한 맥주 바 사무실에서 동료 영국인을 공격하여 심각한 부상을 입혔다고 당국이 밝혔습니다. 오전 0시 36분, 파타야의 Sawang Boriboon Thammasathan 구조 센터는 촌부리 주 방라뭉 지역 농프루 구역 파타야 해변 소이 13에 있는 The King Table 맥주 바에서 부상자가 발생했다는 신고를 받았습니다. 구조 자원 봉사자들은 현장으로 급히 달려가기 전에 파타야 시 경찰과 협력했습니다. 응급 구조대원들은 50~60세로 추정되는 영국인 관광객과 바 매니저가 날카로운 물체로 인해 얼굴에 깊은 상처를 입은 것을 발견했습니다. 상처는 10cm 이상 뻗어 있었고 약 30바늘을 꿰매야 했습니다. 구조대원들은 부상당한 남자를 병원으로 이송하기 전에 응급 처치를 제공했습니다. 현장의 선한 사마리아인들은 용의자 중 한 명을 구금하여 심문하기 위해 경찰에 넘겼고, 다른 용의자는 도주했습니다. 바 직원은 기자들에게 영국인 매니저가 정기적으로 친구 그룹의 방문을 받았기 때문에 용의자의 존재에 처음에는 의심을 품지 않았다고 말했습니다. 그러나 직원은 나중에 매니저 사무실 문이 흔들리는 것을 알아차리고 내부에서 몸싸움을 나타내는 그림자를 보았습니다. 한 용의자는 방에서 뛰쳐나와 도망쳤고, 다른 용의자는 방관자들에 의해 제지되었습니다. 공격 동기는 아직 불분명합니다. 부상자는 면밀한 의료 감독하에 있습니다. 경찰은 구금된 용의자를 데려갔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협.",
-      "event_info": {
-        "date": "2026-03-08",
-        "location": "The King Table beer bar in Soi Pattaya Beach 13, Nong Prue subdistrict, Bang Lamung district, Chon Buri province",
-        "price": null,
-        "location_google_map_query": "The King Table beer bar Pattaya"
-      },
+      "event_info": "{'date': '2026-03-08', 'location': 'The King Table beer bar in Soi Pattaya Beach 13, Nong Prue subdistrict, Bang Lamung district, Chon Buri province', 'price': None, 'location_google_map_query': 'The King Table beer bar Pattaya'}",
       "references": [
         {
           "title": "British tourist arrested after slashing British bar manager in Pattaya",
@@ -23027,21 +23022,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/British-tourist-arrested-after-slashing-British-bar-manager-in-Pattaya.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.khaosodenglish.com/news/2026/03/08/british-tourist-arrested-after-slashing-british-bar-manager-in-pattaya/",
+      "source": ""
     },
     {
       "title": "캄보디아 포이펫에서 버려진 14명의 태국인 '계좌' 불법 입국 시도 체포",
       "summary": "- 캄보디아 포이펫에서 콜센터 사기에 이용된 후 버려진 14명의 태국인이 불법으로 태국 입국 시도 중 체포됨.\n- 이들은 페이스북 구인 광고를 통해 고수익 알바에 속아 캄보디아로 건너가 온라인 계좌 개설을 강요받음.\n- 이후 쓸모없어지자 국경 지역에 버려졌으며, 여권과 휴대폰을 압수당한 채 밀입국을 시도함.",
       "full_translated": "싸깨오 – 부라파 군은 14명의 태국인이 자연 통로를 통해 불법으로 입국하는 것을 체포했습니다. 이들은 캄보디아 포이펫에서 계좌를 개설하도록 속임을 당했다고 주장했습니다. 2569년 3월 8일 오전 5시에 국경 근처에 버려졌습니다.\n\n차이나롱 카시 대령, 아란야프라텟 특수 부대 사령관, 부라파 군(부라파 군 아란야프라텟 특수 부대 사령관)은 퐁사콘 스앙암 대령, 제12 헌병 연대 통제 부대 사령관과 협력하여 제1204 헌병 중대 병력과 아란야프라텟 특수 부대 순찰대를 이끌고 14명의 태국인(남성 5명, 여성 9명)을 가로막았습니다. 이들은 캄보디아에서 태국으로 불법적으로 국경을 넘어 자연 통로(사탕수수밭)를 통해 53-54번 국경 초소 사이, 반 논 파타나, 13번 마을, 탐본 판 쓱, 아란야프라텟 지구, 싸깨오 지방에서 국경에서 약 500미터 떨어진 곳에서 입국했습니다. 여권이나 국경 통과 허가 서류는 발견되지 않았습니다. 그들은 콜센터 갱단에 속아 캄보디아 포이펫에서 계좌를 개설했고, 쓸모없어지자 국경 근처에 버려졌고, 안내 없이 자연 통로를 통해 태국으로 몰래 돌아와야 했다고 주장했습니다. 따라서 당국은 모든 사람을 통제하여 싸깨오 지방 아란야프라텟 지구 탐본 판 쓱에 있는 제1204 헌병 중대에서 심문했습니다. 초기 심문에서 14명의 태국인은 페이스북을 통해 일자리를 찾았다고 주장했습니다. 14명의 체포된 사람들은 싸깨오 지방으로 점차 이동했고 2569년 3월 3-4일경에 캄보디아 포이펫으로 밀입국했습니다. 포이펫에 도착했을 때 그들은 포이펫에 있는 건물에 감금되었고 신분증, 휴대폰, 전화 SIM 카드를 압수당하여 온라인으로 은행 계좌를 개설하고 얼굴을 스캔하여 거래를 수행하도록 강요받았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국-캄보디아 국경 지역 여행 시 잠재적 위험 인지 필요. 콜센터 사기 관련 정보는 여행자에게 유용.",
-      "event_info": {
-        "date": null,
-        "location": "싸깨오 지방 아란야프라텟 지구 탐본 판 쓱",
-        "price": null,
-        "location_google_map_query": "Aranyaprathet District, Sa Kaeo, Thailand"
-      },
+      "event_info": "{'date': None, 'location': '싸깨오 지방 아란야프라텟 지구 탐본 판 쓱', 'price': None, 'location_google_map_query': 'Aranyaprathet District, Sa Kaeo, Thailand'}",
       "references": [
         {
           "title": "รวบ “บัญชีม้าตาย” 14 คนไทย จากปอยเปต ลักลอบเข้าประเทศ หลังหมดประโยชน์ โดนทิ้ง",
@@ -23052,21 +23044,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECjsFiHXaZVZ.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/crime/2918640",
+      "source": ""
     },
     {
       "title": "태국 총선 후 정부 구성 지연 가능성, 여론조사 결과",
       "summary": "- Nida Poll 여론조사 결과, 응답자의 44.81%가 차기 정부 구성이 법원 결정 이후로 연기되어야 한다고 응답함.\n- 바코드 및 QR 코드의 합법성에 대한 법원 판결을 기다려야 한다는 의견이 다수.\n- 응답자의 36.56%는 바코드 분쟁이 새로운 정치 불안을 야기하지 않을 것이라고 예상.",
       "full_translated": "Nida Poll에 따르면 태국 국민의 과반수가 2월 8일 총선에서 투표용지에 있는 바코드 및 QR 코드의 합법성에 대한 법원 결정이 나올 때까지 Bhumjaithai가 주도하는 연립 정부의 구성을 기다려야 한다고 믿고 있습니다. 국립 개발 행정 연구소(Nida)가 3월 2일부터 4일까지 모든 지역의 18세 이상 응답자 1,310명을 대상으로 실시한 설문 조사입니다. 일요일에 발표된 바에 따르면 응답자의 44.81%는 바코드 및 QR 코드 문제에 대한 법원의 판결이 나올 때까지 차기 정부 구성을 중단하기를 원합니다. 대조적으로 41.68%는 국가가 나아갈 수 있도록 정부가 신속하게 구성되어야 한다고 말했습니다. 13.20%는 어느 과정도 허용 가능하다고 답했고 0.31%는 답변하지 않거나 관심이 없었습니다.\n\n바코드 분쟁이 새로운 정치 불안을 촉발할 것인지 묻는 질문에 36.56%는 혼란으로 이어지지 않을 것이라고 답했습니다. 또 다른 34.20%는 새로운 불안을 예상했지만 정부가 이를 통제할 수 있을 것이라고 믿었고 28.55%는 정부가 관리할 수 없는 불안을 우려했습니다. 나머지 0.69%는 답변하지 않거나 관심이 없었습니다.\n\n2월 8일 여론 조사에서 발생하는 유권자 개인 정보 보호 문제에 대해 47.64%는 자신의 투표가 비밀로 유지되지 않을까 전혀 걱정하지 않는다고 답했습니다. 그러나 19.08%는 상당히 걱정했고 18.55%는 매우 걱정했으며 14.27%는 그다지 걱정하지 않았습니다. 0.46%만이 답변하지 않거나 관심이 없었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치적 불안정 가능성은 여행 심리에 영향을 줄 수 있지만, 직접적인 위협은 아니므로 중간 점수 부여. 정부 구성 지연 가능성이 있다는 점에서 업데이트로 간주.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Voters split, bare majority want coalition's formation paused, poll finds",
@@ -23077,21 +23066,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212424_700.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.bangkokpost.com/thailand/general/3212424/voters-split-bare-majority-want-coalitions-formation-paused-poll-finds",
+      "source": ""
     },
     {
       "title": "마하 사라캄 사원에서 마약 및 총기 소지 승려 적발",
       "summary": "- 태국 마하 사라캄 지역 사원에서 승려가 마약과 총기를 소지한 채 발견되어 승적 박탈됨.\n- 주민들의 불만 접수 후 경찰 조사 진행, 승려는 마약 복용 사실 인정.\n- 문제의 승려는 현재 경찰에 인계되어 법적 절차 진행 중.",
       "full_translated": "마하 사라캄 — 태국 불교 성직자의 명성이 태국 북동부의 한 사원에서 지방 관리들이 승려의 오두막을 급습하여 마약과 여러 개의 총기를 발견한 후 다시 한번 실추되었습니다. 마하 사라캄 지방 행정부 관리들은 담롱탐 공공 민원 센터를 통해 제출된 불만에 따라 보라부에 지역의 한 사원에 있는 오두막을 포위하고 수색했습니다. 주민들은 다른 지방에서 온 승려가 사원에 머물면서 다른 사람들과 함께 마약을 하고 술을 마시고 총기를 숨기고 있을 수 있다는 신고를 했습니다. 경찰이 단층 오두막을 조사했을 때, 그곳은 더러운 상태였고 소지품들이 엉망으로 흩어져 있었습니다. 방 안에는 쓰레기가 잔뜩 쌓여 있었고, 그 냄새가 온 지역에 진동했습니다. 내부에서는 관리들이 칸차나부리 지방 출신의 프라 수완(40세)이 오두막에서 살고 있는 것을 발견했습니다. 수색 결과 .22 구경 총기 2정, BB탄 총 3정, 탄약 41발이 발견되어 모두 증거물로 압수되었습니다. 초기 심문에서 프라 수완은 약 5일 전에 야바 메스암페타민 정제 2개를 복용했으며 그 이후로는 약물을 사용하지 않았다고 인정했습니다. 이후 관리들이 실시한 소변 검사에서 그의 몸에서 마약 성분이 확인되었습니다. 조사 후 당국은 승려를 사원 주지에게 데려가 공식적으로 승적을 박탈한 후 마하 사라캄 지방의 보라부에 경찰서 수사관에게 인계하여 법적 절차를 진행했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "승려의 범죄 행위는 여행객에게 직접적인 위협은 아니지만, 태국 문화에 대한 부정적인 인식을 심어줄 수 있으므로 어느 정도의 영향이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "Maha Sarakham",
-        "price": null,
-        "location_google_map_query": "Maha Sarakham Thailand"
-      },
+      "event_info": "{'date': None, 'location': 'Maha Sarakham', 'price': None, 'location_google_map_query': 'Maha Sarakham Thailand'}",
       "references": [
         {
           "title": "Thai monk defrocked after drugs, guns found in hut raid",
@@ -23102,21 +23088,18 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thai-monk-defrocked-after-drugs-guns-found-in-hut-raid-1.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.khaosodenglish.com/news/2026/03/08/thai-monk-defrocked-after-drugs-guns-found-in-hut-raid/",
+      "source": ""
     },
     {
       "title": "태국 총리, “여성의 권리, 평등, 존엄성은 민주 사회의 초석” 강조",
       "summary": "- 아누틴 총리는 세계 여성의 날을 맞아 여성의 권리와 평등을 강조했습니다.\n- 정부는 '소외 없는 사회를 향한 여성의 권리, 정의, 목소리'를 핵심 가치로 설정했습니다.\n- 총리는 태국 여성의 잠재력을 높이 평가하며 모든 분야에서의 역할을 지지했습니다.",
       "full_translated": "아누틴 찬위라쿨 총리는 2069년 3월 8일 세계 여성의 날을 맞아 태국 여성들에게 축하 메시지를 전하며, 여성 개발에 힘쓰는 모든 이들에게 감사를 표했습니다. 총리는 세계 여성의 날이 단순한 축하를 넘어, 여성의 권리, 평등, 존엄성이 민주 사회와 지속 가능한 발전의 초석임을 상기시키는 날이라고 강조했습니다. 또한, 역사적으로 여성들이 가정, 직장, 공공 영역에서 평등한 대우를 받기 위해 투쟁해 왔음을 언급하며, 이러한 노력이 결실을 맺도록 지속적으로 노력해야 한다고 덧붙였습니다. 총리는 정부가 올해 세계 여성의 날의 핵심 가치로 '소외 없는 사회를 향한 여성의 권리, 정의, 목소리'를 설정한 것을 강조하며, 여성이 동등한 위치를 확보하고 잠재력을 최대한 발휘할 수 있도록 지원하는 데 중점을 둘 것이라고 밝혔습니다. 더불어 여성들이 정책 결정과 국가 발전 방향 설정에 참여할 기회를 제공할 것이라고 약속했습니다. 총리는 태국 여성들이 리더, 사업가, 학자, 농부, 노동자 등 모든 분야에서 큰 잠재력을 가지고 있다고 믿으며, 사회 발전에 적극적으로 참여할 것을 독려했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여성의 날 기념 메시지로, 여행객에게 직접적인 영향은 없으나 태국 사회의 전반적인 분위기를 이해하는 데 도움이 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "นายกรัฐมนตรี ย้ำ “สิทธิ ความเสมอภาค และศักดิ์ศรีของสตรี” คือรากฐานสำคัญของสังคมประชาธิปไตย",
@@ -23127,6 +23110,133 @@
       ],
       "collected_at": "15:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZScORKpFWjI.jpg",
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918636",
+      "source": ""
+    },
+    {
+      "title": "파타야 해변에서 생일 축하 중 10대 익사할 뻔",
+      "summary": "- 파타야 해변에서 16세 청소년이 친구들과 생일 축하 중 물에 빠져 익사할 뻔함.\n- 친구들이 물에서 건져 올린 후 응급 처치를 받았으며, 현재 병원으로 이송됨.\n- 음주 후 물놀이를 하다가 발생한 사고로, 경찰이 정확한 경위를 조사 중.",
+      "full_translated": "파타야 뉴스에 따르면, 00시 30분경 Sawang Boriboon Thammasathan Pattaya Rescue Center는 Soi 13/4 맞은편 해변 근처에서 사람이 익사하고 있다는 신고를 받았습니다. 구조 자원 봉사자들이 현장으로 달려갔고, 그곳에는 이미 많은 관광객과 현지인들이 모여 있었습니다. 관계자들은 '미스터 플라(가명)'로만 알려진 16세 피해자가 모래 위에 누워 숨을 헐떡이며 바닷물에 질식한 후 반쯤 의식을 잃은 상태로 있는 것을 발견했습니다. 친구들이 그를 바다에서 끌어냈고, 주변 사람들이 응급 처치를 하고 있었습니다. 구조대원들은 즉시 의료 지원을 제공한 후 인근 병원으로 급히 이송했습니다. 그의 친구들은 문의를 돕기 위해 현장에 남아 있었습니다. 생일 축하객인 17세 '미스터 잭(가명)'에 따르면, 6명의 십 대들이 그 날을 기념하기 위해 해변에 모였습니다. 그들은 물에 들어가 놀기 전에 술을 마신 것을 인정했습니다. 즐거운 분위기 속에서 십 대들은 장난스러운 레슬링을 하고 서로를 물속에 담그다가 한 친구가 물에 심하게 질식하기 시작했습니다. 그룹은 어려움을 겪고 있는 십 대를 재빨리 해안으로 데려왔지만, 그는 모래 위에 의식을 잃고 쓰러져 공황 상태에 빠졌고 즉시 응급 서비스에 전화했습니다. 당국은 피해자의 현재 상태에 대한 자세한 내용은 공개하지 않았지만, 익사 직후 병원 치료를 받고 있는 것으로 알려졌습니다. 지역 구조팀은 파타야의 번잡한 해변을 따라 유사한 사건에 자주 대응하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 해변에서 발생한 안전사고로, 여행객들에게 안전에 대한 경각심을 일깨울 필요가 있음. 특히 음주 후 물놀이의 위험성을 강조.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 해변 Soi 13/4",
+        "price": null,
+        "location_google_map_query": "Pattaya Beach Soi 13/4"
+      },
+      "references": [
+        {
+          "title": "Teen Nearly Drowns During Birthday Celebration Horseplay at Pattaya Beach",
+          "url": "https://thepattayanews.com/2026/03/08/teen-nearly-drowns-during-birthday-celebration-horseplay-at-pattaya-beach/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260308_1543535804959561445840921.jpg?v=1772959584"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260308_1543535804959561445840921.jpg?v=1772959584",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "치앙마이, 22세 식당 종업원 살인 사건 발생: 5만 바트 현상금",
+      "summary": "- 치앙마이 항동 지역의 임대 주택에서 22세 식당 종업원이 목 졸려 살해된 채 발견됨.\n- 부검 결과 성폭행 흔적은 없으나 목에 밧줄 자국이 발견되었으며, 휴대폰 2대가 사라짐.\n- 경찰은 용의자를 쫓고 있으며, 피해자 가족들은 범인 체포를 위해 5만 바트의 현상금을 내걸음.",
+      "full_translated": "치앙마이 항동 지역의 임대 주택에서 식당 종업원이 목 졸려 살해된 사건이 발생하여 경찰이 범인을 추적하고 있습니다. 초기 부검 결과 성폭행 흔적은 발견되지 않았지만 목에 밧줄 자국이 있었고, 휴대폰 2대가 사라졌습니다. 사건은 3월 7일 오후에 발생했으며, 경찰은 22세 여성 '프레아'가 임대 주택에서 사망한 채 발견되었다는 신고를 받았습니다. 시신은 부패하기 시작했으며, 약 2일 전에 사망한 것으로 추정됩니다. 경찰은 정확한 사망 원인을 파악하기 위해 시신을 마하라지 나콘 치앙마이 병원의 법의학 부서로 보냈습니다. 최근, 피해자의 부모와 친척들은 사건을 계속 추적하고 있으며, 일부는 항동 경찰서에서, 일부는 사건 현장인 임대 주택에서 밤을 지새우고 있습니다. 경찰은 이 사건을 잔혹한 범죄로 간주하고 범인 체포를 위해 집중적으로 수사하고 있습니다. 피해자의 친척인 티라삭 씨는 처음에는 별다른 생각을 하지 않았지만, 오늘 아침 마하라지 나콘 치앙마이 병원의 법의학 부서를 방문하여 피해자의 시신 상태를 보고 충격을 받았다고 말했습니다. 피해자의 어머니는 범인에 대한 정보를 제공하여 체포할 수 있도록 도와달라고 요청했습니다. 이에 따라 마을 지도자 및 주민들과 상의하여 범인 체포에 5만 바트의 현상금을 내걸기로 결정했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객 안전 관련 사건 발생. 치앙마이 지역 여행객에게 주의를 요함. 현상금 관련 정보 추가.",
+      "event_info": {
+        "date": "2024-03-07",
+        "location": "치앙마이 항동 지역",
+        "price": "현상금 50,000 바트",
+        "location_google_map_query": "Hang Dong, Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "ล่าคนร้ายฆ่ารัดคอสาวเสิร์ฟ ตั้งรางวัลนำจับ 5 หมื่น-ผลชันสูตรไม่พบล่วงละเมิด",
+          "url": "https://www.thairath.co.th/news/crime/2918644",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KEC3E6rJLU9da.jpg"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KEC3E6rJLU9da.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국, 산불 신고자에게 포상금 지급 제안: PM2.5 문제 해결 노력",
+      "summary": "- 차이우트 의원은 산불 신고자에게 포상금을 지급하여 PM2.5 문제 해결을 위한 국민 참여를 장려할 것을 제안함.\n- 람푼 지역의 산불 피해 상황을 점검하고 소방관들에게 생수를 기증하며 격려함.\n- 산불의 원인이 자연적인 요인 외에 인위적인 방화에 있음을 지적하며 시민들의 협조를 당부함.",
+      "full_translated": "차이우트 의원은 정부가 산불 신고자에게 포상금을 지급하여 PM2.5를 유발하는 산불의 악순환을 막을 것을 제안했습니다. 람푼 지역 소방관들에게 생수를 전달하며 격려했습니다. 2024년 3월 8일 14:00 람푼에서 차이우트 타나카마누손 국사랑ชาติ당 대표와 당 팀은 람푼 지역의 산불 상황을 면밀히 주시하기 위해 현장을 방문했습니다. 당 팀은 왓 프라탓 하리푼차이 접수처에서 생수 600팩을 기증하여 자원봉사자들에게 전달했습니다. 이후 당 팀은 람푼의 매사르 저수지 지역에 위치한 람푼 관개 프로젝트 지역을 방문하여 관계자들의 노고를 격려하고 어려움에 대한 의견을 청취했습니다. 차이우트 대표는 오늘 현장 방문 결과, 당에 국회의원이 없고 람푼에 지역구 의원이 없음에도 불구하고 정치인으로서 어느 지역의 문제인지 또는 어느 당의 문제인지 보지 않고 국민의 고통을 보고 도울 수 있는 일은 도와야 한다고 말했습니다. 촌장과 주민들에게 사실을 확인한 결과, 일부 사람들이 몰래 숲에 불을 질러 PM2.5 문제를 일으키고 있다고 합니다. 특히 북부 지역 주민들이 가장 큰 피해를 보고 있습니다. 촌장과 주민들은 산불이 자연적으로 발생하는 것이 아니라 일부 지역은 사람이 몰래 들어가 불을 지르는 것이라고 말했습니다. 차이우트 대표는 국민들에게 환경을 보호하고 산불을 일으키지 말아달라고 당부했습니다. 이는 PM2.5 문제를 일으키고 전국민을 괴롭히는 원인이 됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "PM2.5 문제는 여행객 건강에 영향을 미칠 수 있으므로 관련 정보 제공. 산불 발생 지역 방문 시 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "람푼",
+        "price": null,
+        "location_google_map_query": "람푼"
+      },
+      "references": [
+        {
+          "title": "“ชัยวุฒิ” แนะ รัฐ ตั้งรางวัล คนชี้เบาะแส เผาป่า ป้องวัฏจักรการเผาจนเกิด PM 2.5",
+          "url": "https://www.thairath.co.th/news/politic/2918645",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECyZVdPpqQRZ.jpg"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECyZVdPpqQRZ.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 시아파, 이란 대사관 앞에서 '하메네이' 추모 및 태국 중립 촉구",
+      "summary": "- 약 200명의 태국 시아파 무슬림이 방콕 이란 대사관 앞에서 이란 최고 지도자 알리 하메네이를 추모하며 이스라엘과 미국을 규탄했습니다.\n- 그들은 태국 정부에 국제 분쟁에서 중립을 유지할 것을 촉구했습니다.\n- 시아파 공동체는 하메네이의 죽음에 깊은 슬픔을 느끼며 이란 정부와의 연대를 표명하기 위해 평화로운 집회를 선택했다고 밝혔습니다.",
+      "full_translated": "8 Mar 2026 15:38 게시\n\n약 200명의 태국 시아파 무슬림이 일요일 방콕의 이란 대사관 밖에서 이란 최고 지도자 알리 하메네이를 추모하고 이스라엘과 미국을 규탄하며 태국 정부에 국제 분쟁에서 중립을 유지할 것을 촉구했습니다. 남성, 여성, 어린이 및 노인으로 구성된 소규모 군중은 늦은 아침에 평화롭게 모여 이스라엘의 공습으로 사망한 고 아야톨라 알리 하메네이에게 경의를 표했습니다. 그들은 그를 정신적 아버지라고 묘사했습니다. 통로 경찰서, 191 순찰대 및 특별 작전 부서, 특별 분과에서 최소 30명의 경찰이 해당 지역을 확보하고 교통을 지시했습니다. 그룹 대표인 알리 샤-호세이니(40)는 이번 모임이 전 세계 시아파 공동체에서 깊이 존경받는 지도자를 추모하기 위한 것이라고 말했습니다. 태국에는 약 40,000~45,000명의 시아파 무슬림이 있는 것으로 추정되며, 참가자들은 이곳에서도 많은 사람들이 하메네이를 존경하고 그의 죽음에 깊은 슬픔을 느낀다는 것을 보여주고 싶어한다고 말했습니다. 그는 또한 미국이나 이스라엘 대사관에서 시위하는 대신 이란 정부 및 국민과의 연대를 보여주기 위해 이란 공관에서 평화로운 집회를 선택했다고 말하며, 이는 공공질서를 유지하라는 정부의 요청에 따른 것이라고 덧붙였습니다. \"이 손실은 우리의 사기를 꺾지 못했습니다. 왜냐하면 모든 사람이 우리의 이상을 위해 희생할 준비가 되어 있으며, 우리는 인도주의적 양심을 가진 모든 사람들과 함께 유엔에 이 행위가 침해하는 행위임을 인식할 것을 촉구합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 특정 종교 단체의 움직임은 잠재적으로 정치적 불안정을 야기할 수 있으며, 여행객에게 간접적인 영향을 줄 수 있습니다. 다만, 현재까지는 평화적인 집회이므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": "2026-03-08",
+        "location": "이란 대사관, 방콕",
+        "price": "무료",
+        "location_google_map_query": "Iranian Embassy Bangkok"
+      },
+      "references": [
+        {
+          "title": "Thai Shia mourn ‘Khamenei’ at Iran embassy, urge Thai neutrality",
+          "url": "https://www.bangkokpost.com/thailand/general/3212445/thai-shia-mourn-khamenei-at-iran-embassy-urge-thai-neutrality",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212445_260308152824_700.jpg"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212445_260308152824_700.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "여성 인권 보호 법안 지지: 사회 문제 해결에 기여",
+      "summary": "- 태국 루암 타이 쌈찻 당, 가정 폭력 피해자 보호 법안 지지\n- 여성의 잠재력 강조 및 성별에 따른 역할 제한 반대\n- 가정 폭력 문제 해결 및 사회적 영향 감소 목표",
+      "full_translated": "루암 타이 สร้างชาติ 당, 가정 폭력 피해자 보호 법안 지지\n\n“싸씨깐”은 “세계 여성의 날”을 맞아 여성의 잠재력을 강조하며 성별에 따른 역할 제한에 반대하고, 가정 폭력 피해자 보호 법안을 지지하여 사회 문제를 지속적으로 해결하고자 합니다. 3월 8일, 루암 타이 싼 차앗 당의 대변인인 싸씨깐 와타나짠은 세계 여성의 날을 맞아 사회가 여성의 역할, 존엄성 및 잠재력을 인식해야 한다고 밝혔습니다.\n\n싸씨깐은 현재 사회가 성별보다는 개인의 능력과 잠재력으로 평가되는 시대에 살고 있다고 언급하며, 성별은 단지 생물학적 특징일 뿐이며 여성의 가치와 평등을 결정하는 것은 내재된 잠재력이라고 강조했습니다. 또한, 여성들이 스스로를 자랑스럽게 여기고 잠재력을 개발하여 삶의 목표를 달성하도록 격려했습니다.\n\n싸씨깐은 여성 정책을 추진할 기회가 있다면 가정 폭력 피해자 보호 법안을 강화하고 싶다고 밝혔습니다. 현실에서 많은 가정에서 아내와 자녀들이 남편이나 아버지로부터 폭력을 당하고 있으며, 이는 가정이 안전한 공간이 아닌 공포의 공간으로 변질시키는 원인이 됩니다. 가정 폭력 문제는 가정 내 문제에 국한되지 않고 더 넓은 사회 문제로 이어질 수 있으므로, 진지한 보호 시스템 구축이 필요하다고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 사회 문제에 대한 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รวมไทยสร้างชาติ หนุนกฎหมายคุ้มครองเหยื่อความรุนแรงในครอบครัว",
+          "url": "https://www.thairath.co.th/news/politic/2918642",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECauViE7Y0DK.jpg"
+        }
+      ],
+      "collected_at": "16:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECauViE7Y0DK.jpg",
       "date": "2026-03-08"
     }
   ]
