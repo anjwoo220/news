@@ -23339,14 +23339,9 @@
       "summary": "- 수랏타니 이민국, 코팡안 섬 마약 네트워크 소탕 작전 확대.\n- 브라질 국적 마약 판매상 체포 후 이스라엘 국적 용의자 추가 체포, 호주 국적 용의자 2명 기소.\n- 코카인, 엑스터시, 케타민 등 다량의 마약류 압수.",
       "full_translated": "수랏타니 이민국이 코팡안 섬의 마약 네트워크 소탕 작전을 확대하여 이스라엘 국적 용의자를 추가로 체포하고 호주 국적 용의자 2명을 기소했습니다. 3월 8일, 10시, 추트렛 잉용담롱스쿨 이민국 6지부장은 파누맛 분냘락 이민국장의 명령에 따라 3월 5일 코팡안 섬에서 마약 판매 혐의로 체포된 브라질 국적의 페드로 사건을 수사하던 중 외국인 3명이 해당 지역에 거주하며 관광객에게 마약을 판매하는 네트워크의 일부일 것으로 판단, 수사를 진행했습니다. 수사 결과, 코코넛 레인 지역에서 이스라엘 국적의 OR을 체포하고 그의 숙소에서 다량의 마약을 발견했습니다. 압수된 마약은 코카인 389.35g으로 일부는 덩어리 형태로 몸에 숨겨 밀반입한 것으로 보입니다. 또한 엑스터시 가루 및 알약, 케타민, 대마 수지 및 마약 포장 장비도 발견되었습니다. 용의자는 마약 판매 및 소지 혐의로 기소되어 코팡안 경찰서로 이송되었으며, 관련 네트워크에 대한 수사가 계속 진행될 예정입니다. OR을 수사하는 동안 수사팀은 OR의 숙소에서 수상한 태도를 보이는 외국인 2명(키안과 미카, 호주 국적)을 발견했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "코팡안 섬에서 외국인 대상 마약 범죄가 발생하여 여행객 안전에 영향을 줄 수 있으며, 유사 범죄에 대한 경각심을 줄 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "코팡안 섬",
-        "price": null,
-        "location_google_map_query": "Ko Phangan"
-      },
+      "event_info": "{'date': None, 'location': '코팡안 섬', 'price': None, 'location_google_map_query': 'Ko Phangan'}",
       "references": [
         {
           "title": "ตม.สุราษฎร์ฯ ขยายผลเครือข่ายต่างชาติค้ายาบนเกาะพะงัน จับเพิ่มหนุ่มอิสราเอล-ออสเตรเลีย",
@@ -23357,21 +23352,18 @@
       ],
       "collected_at": "17:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDcWaFAb6lstP.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/crime/2918660",
+      "source": ""
     },
     {
       "title": "아시아 경제, 중동 긴장 고조 속 태국 관광 및 시장 지도 재편 전망 (2026년)",
       "summary": "- 중동 지역의 지정학적 긴장이 아시아 경제, 특히 태국 관광 산업에 미치는 영향 분석\n- 2026년까지 태국의 관광 시장 지형 변화 예측\n- 걸프 지역의 불안정성이 태국 경제 전반에 미칠 잠재적 파급 효과 강조",
       "full_translated": "해당 기사는 아시아 경제, 특히 태국 관광 산업이 중동의 긴장 고조로 인해 어떻게 재편될 것인지에 대한 분석을 제공합니다. 2026년까지 태국의 관광 시장 지형 변화를 예측하며, 걸프 지역의 불안정성이 태국 경제 전반에 미칠 잠재적 파급 효과를 강조합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업에 대한 간접적인 영향 분석. 경제 전망에 대한 정보는 여행 계획에 참고 자료가 될 수 있으나, 직접적인 영향은 제한적.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Asia’s Economy on Edge: How the Gulf Escalation is Redrawing Thailand’s Tourism and Market Map in 2026 - Travel And Tour World",
@@ -23382,21 +23374,18 @@
       ],
       "collected_at": "17:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQXzBVUmlENU84VzVaVmlIQzJpTjBONmpCMk8tTERaS3hGUmZ3cjFWZHdSZUFXOHN5c2lHUWRkSll2eU91dzMyR08zV0ZJdE96akp4aXBybFRvLW1pRXFHQUFlR2owb09UNGZrM1loQU04SGZOb0tVNmtUY0V6NF9sWmcyZk5nc1BfV2pPTGk1SWc0SXkxM2tjc3Y3Z1htT2FPQjVVUVI0S2lCMTBDczdhdGVMR3Z4aFcxbWlKX3pWMnNldlJSVzlKNlQxYXdJTDlWN1RtYk9sWThHUjBKdVlxUjFR?oc=5",
+      "source": ""
     },
     {
       "title": "Global Wellness Summit, 태국 푸켓에서 20주년 기념 행사 개최",
       "summary": "- 글로벌 웰니스 서밋이 태국 푸켓에서 20주년 기념 행사를 개최합니다.\n- 행사에는 웰빙 산업의 리더들과 전문가들이 참여할 예정입니다.\n- 푸켓은 세계적인 웰빙 관광지로 더욱 부상할 것으로 기대됩니다.",
       "full_translated": "글로벌 웰니스 서밋이 태국 푸켓에서 20주년 기념 행사를 개최합니다. \n\n푸켓은 웰빙 관광지로의 입지를 강화하고 있으며, 이번 서밋은 관련 산업의 성장과 발전에 기여할 것으로 보입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸켓에서 열리는 국제 행사 정보. 여행 및 웰빙에 관심 있는 관광객에게 유용할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "푸켓",
-        "price": null,
-        "location_google_map_query": "푸켓"
-      },
+      "event_info": "{'date': None, 'location': '푸켓', 'price': None, 'location_google_map_query': '푸켓'}",
       "references": [
         {
           "title": "Global Wellness Summit to Hold 20th Anniversary Event in Phuket, Thailand - Breaking Travel News",
@@ -23407,6 +23396,133 @@
       ],
       "collected_at": "17:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQS3hvVmJIMVdOOVZNNHFtQzNKLTNDSWEzUmszdS04SGc2YklXVF8zV2E4WjBTWHhYMUNwM0QtSjNvbFdmUUlpMmZLVzR3Xy1RSkVrUHFIQndlN1BndE40SnFSUnFMS3FoS2psYXYwYWpPcVRCREc3WEtKQ1RlZVBNc0VMOWJBbmlTeExqc1lFeng3SnRxcm1OSDFXc2JWbkFMa1dtZzFqSjM2ZjlXM3BtSGhadUctdnRXSEVPMzRR?oc=5",
+      "source": ""
+    },
+    {
+      "title": "치앙마이에서 21세 여성 살해 사건 발생, 경찰 수사 착수",
+      "summary": "- 치앙마이 항 동 지역의 롱간 과수원 내 주택에서 21세 여성의 시신이 발견됨.\n- 피해자는 목 졸림 흔적이 있었으며, 약 이틀 전에 사망한 것으로 추정됨.\n- 경찰은 주변 CCTV 영상을 확인하고 부검 결과를 기다리는 중.",
+      "full_translated": "치앙마이 — 2026년 3월 7일, 치앙마이 경찰은 항 동 지역의 롱간 과수원 내 주택에서 발견된 21세 여성의 의심스러운 죽음을 수사하고 있으며, 수사관들은 피해자와 가까운 여러 사람들을 심문하고 있습니다. 피해자는 위앙 행 지역 출신의 21세 여성 우사(프라에우)로, 치앙마이의 한 술집에서 웨이트리스로 일했습니다. 항 동 경찰서 경찰은 3월 7일 오후 치앙마이 항 동 지역 남 프래 하위 지역의 롱간 과수원 내 주택에서 여성의 시신이 발견된 후 수사를 시작했습니다. 당국은 피해자의 하반신이 옷을 입지 않은 채 발견되었고 목 주변에 교살 흔적이 있었다고 밝혔습니다. 수사관들은 그녀가 약 이틀 전에 사망한 것으로 추정합니다. 경찰은 프라에우가 시신이 발견되기 약 3일 전부터 가족과 연락이 끊겼다고 밝혔습니다. 친척들은 그녀를 품행이 방정하다고 묘사했으며 보통 퇴근 후 집에 돌아왔고 누구와도 갈등이 없었다고 말했습니다. 경찰은 주변 CCTV 영상을 검토하고 있으며 범인을 식별하는 데 도움이 되도록 마하라지 나콘 치앙마이 병원의 법의학 부서에서 부검 결과를 기다리고 있습니다. 3월 8일 11시, 위앙 행 지역 출신의 친척과 주민 100명 이상이 사건을 추적하고 수사관에게 도덕적 지원을 제공하기 위해 항 동 경찰서로 이동했습니다. 그룹은 또한 수사를 담당하는 경찰관에게 선물 바구니를 가져 왔습니다. 차크라윳 초티와치라퐁 경찰 대령,",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 여행객이 많이 방문하는 치앙마이에서 발생한 살인 사건으로, 여행객 안전에 대한 우려를 야기할 수 있으므로 중간 정도의 영향력이 있다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이 항 동 지역",
+        "price": null,
+        "location_google_map_query": "치앙마이 항 동"
+      },
+      "references": [
+        {
+          "title": "Police investigating killing of 21-year-old woman in Chiang Mai",
+          "url": "https://www.khaosodenglish.com/news/2026/03/08/police-investigating-killing-of-21-year-old-woman-in-chiang-mai/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Police-investigating-killing-of-21-year-old-woman-in-Chiang-Mai-1.jpg"
+        }
+      ],
+      "collected_at": "17:48",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Police-investigating-killing-of-21-year-old-woman-in-Chiang-Mai-1.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "방콕 성형외과 수술 후 사업가 의식 불명",
+      "summary": "- 방콕의 한 유명 성형외과에서 코 및 턱 수술을 받은 37세 태국인 사업가가 수술 후 의식을 회복하지 못하고 있는 상태.\n- 병원 측은 심박수 증가 및 이산화탄소 수치 상승 등 심각한 합병증이 발생했다고 가족에게 알림.\n- 현재 환자는 집중 치료를 받고 있으며, 가족들은 해당 성형외과가 유명 연예인들의 홍보로 명성이 높다고 주장.",
+      "full_translated": "방콕의 한 성형외과에서 미용 수술을 받은 태국인 사업가가 며칠째 의식을 회복하지 못하고 있어 가족들이 소비자 권익 옹호 페이스북 페이지에 도움을 요청했습니다. 그의 치료비는 현재 200만 바트를 넘어섰습니다.\n\n37세의 이 남성은 3월 4일 코와 턱 수술을 받았으며, 친척에 따르면 시술 비용으로 약 48만 바트를 지불했습니다. 가족들은 해당 클리닉이 유명 연예인들의 홍보로 널리 알려져 있어 평판이 좋은 곳이라고 믿게 되었다고 페이스북 소비자 페이지 싸이마이떵롯 에 밝혔습니다. 클리닉 이름은 공개되지 않았습니다.\n\n친척들은 남성이 수술 후 의식을 회복하지 못했다고 말했습니다. 그날 밤 의료진은 가족들에게 심박수 증가 및 체내 이산화탄소 수치 상승 등 심각한 합병증이 발생했다고 알렸습니다. 그는 응급 치료를 위해 병원으로 이송되었습니다.\n\n의사들은 나중에 그가 동공이 고정되고 고열이 있는 상태로 반응이 없는 상태라고 보고했습니다. 그는 기관 절개술을 받아 인공호흡기를 착용해야 했습니다. 추가 검사 결과 심장 근육 손상과 급성 신부전이 의심되어 투석이 필요했습니다. 수술 후 일주일이 넘도록 그는 의식을 잃은 채 장기간 혼수상태에 빠질 위험에 처해 있다고 가족들은 말했습니다.\n\n이 남성은 이전에 기저 질환 없이 건강한 상태였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국에서 성형수술을 받는 외국인 여행객들이 많으므로, 의료사고 관련 소식은 주의를 환기할 필요가 있음. 다만, 특정 병원 이름이 언급되지 않아 정보의 효용성은 다소 떨어짐.",
+      "event_info": {
+        "date": "2026-03-04",
+        "location": "방콕 (구체적인 클리닉 이름은 언급되지 않음)",
+        "price": "480,000 바트 (수술 비용)",
+        "location_google_map_query": "Bangkok 성형외과"
+      },
+      "references": [
+        {
+          "title": "Businessman remains unconscious days after cosmetic surgery",
+          "url": "https://www.bangkokpost.com/thailand/general/3212468/businessman-remains-unconscious-days-after-cosmetic-surgery",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212468_700.jpg"
+        }
+      ],
+      "collected_at": "17:48",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212468_700.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "여성 교통사고 사망 사건 관련 경찰 조사 착수: 파혼요틴 경찰서장의 지시",
+      "summary": "- 파혼요틴 경찰서에서 교통사고 후 사망한 여성 사건에 대한 진상 조사 위원회 구성.\n- 피해자는 사고 후 병원이 아닌 경찰서로 이송되었고, 이후 사망.\n- 경찰서장은 모든 부상자 또는 의식불명자를 음주 여부와 관계없이 병원으로 이송하도록 지시.",
+      "full_translated": "파혼요틴 경찰서장이 여성 교통사고 사망 사건에 대한 진상 조사 위원회를 구성했습니다. 해당 사건은 여성이 오토바이 사고 후 경찰과 구조대에 의해 병원이 아닌 경찰서로 옮겨진 후 사망한 사건입니다. 경찰은 2568년에 발생한 사건이지만 조사에 시간이 필요하다고 밝혔습니다. 경찰서장은 모든 환자, 부상자 또는 의식불명자는 음주 상태와 관계없이 병원으로 이송하도록 지시했습니다. 이 사건은 52세의 여성이 자신의 딸이 랏프라오 도로에서 오토바이 사고를 당했지만 구조대가 술 냄새가 난다는 이유로 병원으로 이송하지 않고 경찰서로 데려갔다는 내용으로, 딸은 결국 사망했습니다. 가족들은 경찰과 구조대의 대응에 의문을 제기하고 있으며, 사건은 1년 동안 진전이 없었습니다. 최근 파혼요틴 경찰서장은 이 사건에 대해 피해자 가족이 경찰에 신고했으며 현재 조사가 진행 중이라고 밝혔습니다. 경찰은 증거를 수집하고 관련자들을 심문하기 위해 조사팀을 구성했습니다. 조사 결과는 1~2주 내에 나올 것으로 예상됩니다. 경찰은 모든 당사자에게 공정한 처리를 보장할 것이라고 강조했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행자 안전과 관련된 경찰의 대응에 대한 뉴스. 사건 자체는 직접적인 여행자 관련 사건은 아니지만, 유사시 경찰의 대응 방식에 대한 정보를 제공하므로 중간 정도의 중요도를 가짐.",
+      "event_info": {
+        "date": null,
+        "location": "파혼요틴 경찰서",
+        "price": null,
+        "location_google_map_query": "파혼요틴 경찰서"
+      },
+      "references": [
+        {
+          "title": "สั่งตั้ง กก.สอบข้อเท็จจริง ปมสาวรถล้ม ดับคา สน.พหลโยธิน ผกก.กำชับเข้มแนวทางปฏิบัติ",
+          "url": "https://www.thairath.co.th/news/crime/2918665",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDb6Og4OK7HQW.jpg"
+        }
+      ],
+      "collected_at": "17:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDb6Og4OK7HQW.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 경제 취약성 경고: 유능한 인재 등용 촉구",
+      "summary": "- 아눗쏜 탐마차이 의원은 태국 경제의 취약성을 경고하며 정부의 신속한 구성과 유능한 인재 등용을 촉구했습니다.\n- 에너지 안보를 주요 취약점으로 지적하며, 전쟁 시대 경제 위기 극복을 위한 정부의 역할을 강조했습니다.\n- 에너지 가격 상승과 공급 부족으로 인한 스태그플레이션 위험을 경고하며, 국민의 고통 해소와 사회 변화를 위한 노력을 당부했습니다.",
+      "full_translated": "아눗쏜 탐마차이 의원은 태국 경제의 취약성을 경고하며, 스태그플레이션 위험에 대한 우려를 표명했습니다. 그는 정부가 신속하게 구성되어 유능하고 경험 있는 인재를 등용하여 국가를 경영해야 한다고 주장했습니다. 현재 에너지 안보가 가장 취약한 부분이며, 에너지 가격 상승과 공급 부족이 스태그플레이션을 야기할 수 있다고 경고했습니다. 그는 정부와 야당 모두 국민의 고통을 해결하고 사회를 긍정적으로 변화시키는 데 집중해야 한다고 강조했습니다. 또한, 에너지 안보 문제와 에너지 가격 상승은 정부의 주요 과제가 될 것이며, 전쟁 위기 동안 에너지 부족이 발생할 가능성이 높다고 덧붙였습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 경제 상황에 대한 분석 및 전망은 여행자들에게 간접적인 영향을 미칠 수 있지만, 당장 여행에 직접적인 영향을 주는 정보는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“อนุสรณ์” เตือนจุดเปราะบางเศรษฐกิจไทย เรียกร้องแต่งตั้งคนมีความสามารถเข้ามาบริหารประเทศ",
+          "url": "https://www.thairath.co.th/news/politic/2918667",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDcD8uxPAMi5l.jpg"
+        }
+      ],
+      "collected_at": "17:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDcD8uxPAMi5l.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 새 내각 구성 완료: 품짜이타이당 14개 부처, 프รรค프아타이당 5개 부처 장악",
+      "summary": "- ภูมิใจไทย당이 14개 부처와 26개 장관직을 차지하며 내각을 주도.\n- พรรคเพื่อไทย당은 5명의 장관과 1명의 부총리를 배출.\n- กล้าธรรม, ประชาธิปัตย์, ไทรวมพลัง 등 다른 정당은 참여하지 못함.\n- 끌라 탐, 쁘라차티빳, 싸이 루암 팔랑 등 다른 정당은 참여하지 못함.",
+      "full_translated": "품차이타이 당 정부는 끌라탐, 쁘라차티팟, 사이루암팔랑 없이 구성되었습니다. 품차이타이 당은 14개 부처 26개 직책과 국회의장, 제1 부의장을 차지했습니다. 프어타이 당은 5명의 장관, 1명의 부총리, 3명의 차관, 제2 부의장을 얻었습니다. 팔랑쁘라차랏 당은 1석을 확보했습니다. 2026년 3월 8일, 품차이타이 당 소속 의원 192명이 참석한 세미나에서 당 행정위원회는 장관직에 적합한 인물 목록을 아눗틴 찬위라꾼 당 대표에게 제출했습니다. 당 대표는 이 목록에서 인원을 선발하여 국무총리 비서실로 보내 9개 기관의 검토를 거치게 됩니다. 품차이타이 당은 14개 부처, 즉 내무부, 국방부, 교통부, 천연자원환경부, 디지털 경제 사회부, 관광체육부, 산업부, 외무부, 재무부, 상무부, 에너지부, 법무부, 문화부 및 총리실 장관직을 관할합니다. 아눗틴 대표는 내무부 장관직을 겸임하고, 씨하싹 푸앙껫깨우는 부총리 겸 외무부 장관, 엑카니티 니티탄타쁘라팟은 부총리 겸 재무부 장관, 쑤파지 쑤탐판은 부총리 겸 상무부 장관, 버원싹 우완노는 부총리를 맡게 됩니다. 쏭싹 통씨, 피팟 랏차낏쁘라깐, 차이야차녹 칫첩, 쑤라싹 판짜른워라꾼, 싸비다 타이쎗, 파라도른 쁘릿싸나난타꾼, 쑤찻 촘글린 등도 이름을 올렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치 상황 변화는 장기적으로 여행 정책에 영향을 줄 수 있으나, 즉각적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปิดดีล ครม.อนุทิน 2 ไร้ “กล้าธรรม-ประชาธิปัตย์-ไทรวมพลัง”- ภท. ได้ 14 กระทรวง พท. 5 รมต.",
+          "url": "https://www.thairath.co.th/news/politic/2918662",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDchHiyXTJRYN.jpg"
+        }
+      ],
+      "collected_at": "17:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KDchHiyXTJRYN.jpg",
       "date": "2026-03-08"
     }
   ]
