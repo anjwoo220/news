@@ -25007,14 +25007,9 @@
       "summary": "- 파타야는 누드 비치가 아니라는 점을 당국이 명확히 해야 한다고 파타야 메일이 보도함.\n- 최근 파타야 해변에서 누드 활동이 증가하면서 논란이 일고 있음.\n- 당국은 파타야가 가족 친화적인 관광지임을 강조하며 누드 행위를 금지할 방침.",
       "full_translated": "파타야는 누드 비치가 아니며 당국은 이를 명확히 해야 합니다. 파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 해변의 풍기 문란 행위 관련 뉴스. 여행 시 주의가 필요하며, 가족 여행객에게 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 해변",
-        "price": null,
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': None, 'location': '파타야 해변', 'price': None, 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Pattaya is not a nude beach and authorities must make that clear - Pattaya Mail",
@@ -25023,23 +25018,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYWFqWUxXdnhOdWNLcE5ZUmI4SnVmRDhHQ2xBWW1JbFRiNHRCNzFseGZhX2tPWW5ZQWs3dTFtcFBlTElXNGFIRXZEaHhhSWM2TG9ZaG84alo5UXc0T3IzM2MwaFluQmFGcExUNW5PVVBibkNCbm93N2d3Uk1Hd2l2S1BXMmhUSHpuQ1BvX2lzSW5NN0RkQUZyVjExQ1VXWVpTOUctajRlVQ?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫, 관광객 25% 감소 '최악의 시나리오'",
       "summary": "- 푸껫 관광 산업이 심각한 침체에 직면할 수 있다는 우려가 제기됨.\n- 관광객 감소는 지역 경제에 상당한 영향을 미칠 것으로 예상됨.\n- 관련 업계는 상황을 예의주시하며 대책 마련에 고심하고 있음.",
       "full_translated": "푸껫 뉴스에 따르면, 관광객 25% 감소는 '최악의 시나리오'로 간주됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫을 방문하는 여행객에게는 정보가 될 수 있지만, 현재로서는 일반적인 경제 뉴스에 해당함. 관광객 감소는 여행 경험에 영향을 줄 수 있으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "Phuket",
-        "price": null,
-        "location_google_map_query": "Phuket"
-      },
+      "event_info": "{'date': None, 'location': 'Phuket', 'price': None, 'location_google_map_query': 'Phuket'}",
       "references": [
         {
           "title": "25% tourism decline ‘worst-case scenario’ - The Phuket News",
@@ -25048,23 +25040,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUN2X3RwaDhFYldfbkVsZ2Zsd1BidGR1ZGpSZ05EU0Z0WkdnNkpBVTB4T2RfRV81d1Q0clpCdjljc191TmFTaEFEOGcxRWFHRUVCRC1pM3JUeS05UXhPeDBzdHl4NEdLc01ta21BYUhlY1JsVkhLRmtlU082anZYendaVmg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 의료 관광 2026 가이드: 비용, 병원, 치과, 검진",
       "summary": "- 태국 의료 관광 2026년 가이드 제공\n- 의료 관광 관련 비용, 병원, 치과 정보 포함\n- 건강 검진 관련 정보 안내",
       "full_translated": "태국 의료 관광 2026 가이드: 비용, 병원, 치과, 검진&nbsp;&nbsp;Chiang Rai Times",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 의료 관광에 대한 전반적인 정보를 제공. 여행 중 의료 서비스 이용을 고려하는 여행객에게 유용할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Medical Tourism In Thailand 2026 Guide: Costs, Hospitals, Dental, Checkups - Chiang Rai Times",
@@ -25073,23 +25062,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE45eFkyMUNkUFdBLUU1akxJX0ROX3oxTUhLMnY1WlZ4TF81Ym5hRm9sQnpXV3ZjRDlYR2E5TkVMSUNxLVpuM0l4LUsxOFN4TzF5Slg2LXUzRkR4VHAtc016QWkzZUFUVjlqZTM2SkY4VXhfdw?oc=5",
+      "source": ""
     },
     {
       "title": "이란 정권 중립화가 미국의 목표, 태국은 자국민 대피 및 자국 비축량 확보",
       "summary": "- 미국은 이란 정권 중립화를 목표로 하고 있으며, 이로 인해 중동 지역의 긴장이 고조되고 있습니다.\n- 태국은 자국민을 대피시키고 자국 비축량을 확보하며 만일의 사태에 대비하고 있습니다.\n- 이는 태국 여행객에게 직접적인 영향을 미치지는 않지만, 중동 지역 여행 시 안전에 유의해야 합니다.",
       "full_translated": "미국은 이란 정권의 중립화를 목표로 하고 있으며, 태국은 자국민을 대피시키고 비축량을 확보하고 있습니다. Thai Examiner",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 자국민을 대피시키는 것은 이례적인 상황이며, 여행객 안전에 간접적인 영향을 줄 수 있습니다. 따라서 여행객들에게 관련 정보를 제공하는 것이 적절하다고 판단했습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Neutralising the Iranian regime is the US goal as Thailand evacuates citizens and secures its reserves - Thai Examiner",
@@ -25098,23 +25084,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdkZuYVFmdGREbUsyZGJJZHlabTNHbHgxWW1Ua2VjLWp3NGFJV244U1NrbEpYZHdoVkpueDR3RTdZSWlRZ3BnNjJyNXp6b0hrSF9PX3pNX293VGpUT0hkYWIzN1ZUR2VjSDFTTGJlQkNvYVlBMndqVklHTmdwTU02NXpRTlZJeUlidWp2d05Ld1pSd2tpeWVPc2FlbDlLN1ZqY09XUFdUZWo2Ti05T09rV0N5N3c2TkFsRlkzd01DN3dvdzF1ZVIybGNSc3pycW4wRUdUM1ZsaVNGMHBndjFTOU1jQVlEY2szX3lwY21lOTA1VnVFYjJjMzRaamw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 산업, '빅5' 넘어 새로운 성장 동력 찾아야",
       "summary": "- 전문가들은 태국 관광 산업이 기존 인기 지역 외 새로운 곳에서 성장 기회를 모색해야 한다고 조언함.\n- TTF 전문가들은 미래 성장을 위해 새로운 목적지 개발의 중요성을 강조함.\n- 특정 지역에 집중된 관광 패턴에서 벗어나 다양한 지역으로 관광객을 유치하는 전략이 필요함.",
       "full_translated": "태국 관광 포럼(TTF) 전문가들은 관광 산업이 미래 성장을 위해 '빅5' 목적지(방콕, 푸껫, 치앙마이, 파타야, 코사무이)를 넘어 새로운 지역을 주목해야 한다고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광 산업의 새로운 성장 동력 모색에 대한 정보로, 여행객들에게 새로운 여행지를 탐색할 기회를 제공할 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Experts at TTF say industry needs to look beyond the Big Five destinations for future growth - Travel Daily Media",
@@ -25123,7 +25106,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:16",
+      "collected_at": "3:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVnFJdUJEelE0akJVUER0ZEY1U05PclVPTEhnYklNOXh0enZpQkgyMk1Yek5GcXQya0tNbjVYbXQwdGNGc3NMc3dEbHJxMHlOamFhTmF6cjVYbldnUWRuM0lrTklXdHBuVUNBTGZDTl90cTFyazBnNERFTFA3S2RiQ29EVTBtV3JZNTIwekhlTmtRUEljN25fNkYwcC12TkRMZDVMUGJ5cHR6amNfaDJvUUFWXzJnXzBmVHluYnYyYUh4QzJu?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이스라엘, 베이루트 공격으로 쿠드스군 사령관 5명 사망, 레바논 사망자 400명 육박",
+      "summary": "- 이스라엘이 레바논 수도 베이루트를 재차 공격, 이란 쿠드스군 사령관 다수 사살 주장\n- 레바논 측은 이스라엘 공격으로 인한 사망자가 400명에 육박한다고 발표\n- 공격은 베이루트 호텔을 목표로 진행되었으며, 사망자 중에는 어린이와 여성도 다수 포함됨",
+      "full_translated": "이스라엘이 레바논 수도 베이루트를 새로운 공격으로 타격했습니다. 이스라엘은 이란의 쿠드스군 사령관 여러 명을 사살했다고 주장합니다. 레바논은 이스라엘의 공격으로 인한 사망자가 거의 400명에 달한다고 밝혔습니다. 2569년 3월 8일, 이스라엘군은 레바논 베이루트에서 새로운 공습을 감행하여 이란 이슬람 혁명 수비대(IRGC) 소속 전투 부대인 '쿠드스'군의 고위 사령관 여러 명을 사살했다고 밝혔습니다.\n\n일요일 성명에서 이스라엘 방위군(IDF)은 이번 공격이 쿠드스군의 레바논 부대와 팔레스타인 부대의 사령관 5명을 목표로 했다고 밝혔습니다. IDF에 따르면 이들은 모두 레바논 수도의 한 호텔에서 회의를 진행 중이었습니다. IDF에 따르면 쿠드스군의 레바논 부대는 헤즈볼라와 이란 간의 주요 연락책 역할을 합니다. 레바논 당국은 새벽에 베이루트 중심부의 호텔 방을 겨냥한 공격으로 4명이 사망하고 10명이 부상했다고 밝혔지만, 사망자가 누구인지는 확인되지 않았습니다.\n\n한편, 레바논 보건부 장관 라칸 나세레딘은 일요일 기자회견에서 미국과 유대 정부가 2월 28일 이란에 대한 공격을 시작한 이후 이스라엘의 공격으로 인한 사망자 수가 394명으로 증가했다고 밝혔습니다. 나세레딘은 사망자 중 83명이 어린이이고 42명이 여성이라고 밝혔으며, 공격으로 구조대원 9명이 사망했습니다. 레바논의 사망자 수는 토요일부터 급격히 증가했습니다. 당시 보건부 장관은 사망자 수를 발표했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁 심화로 인한 여행 불안 증가. 레바논 여행은 극히 드물지만, 주변국 여행객에게 심리적 영향을 줄 수 있음. 항공편 운항 차질 가능성 존재.",
+      "event_info": {
+        "date": null,
+        "location": "베이루트",
+        "price": null,
+        "location_google_map_query": "베이루트"
+      },
+      "references": [
+        {
+          "title": "อิสราเอลถล่มเบรุต ดับ 5 ผบ.คุดส์ ฟอร์ซ เลบานอนดับเฉียด 400 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2918701",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOz3r9aKzDDMy.jpg"
+        }
+      ],
+      "collected_at": "03:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOz3r9aKzDDMy.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국, 이란 전쟁의 영향에 대처하기 위한 중동 전쟁 상황 센터 구성",
+      "summary": "- 태국 정부가 이란 전쟁의 영향에 대처하기 위해 중동 전쟁 상황 센터를 구성했습니다.\n- 이는 태국 국민과 여행객의 안전을 위한 조치로 보입니다.\n- 상황 센터는 관련 정보를 수집하고 필요한 대응책을 마련할 예정입니다.",
+      "full_translated": "이란 전쟁의 영향에 대처하기 위한 중동 전쟁 상황 센터 구성 Thai PBS World",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 여행객에게 직접적인 위협은 아니지만, 잠재적 위험에 대비하는 정부의 노력은 긍정적이며, 여행 안전에 대한 간접적인 영향이 있을 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East War Situation Centre formed to deal with fallout from Iran war - Thai PBS World",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndUN3YkpmX21TZzN3Uzg4SC1Cd0pKMXFabnROZGNBWFlyUE9EZTI3Y0NjRW1kZmtFTmVGZUxzQldvbmMyWW81dWs2dzdselNQREE?oc=5",
+          "source": "Thai PBS World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "파타야, 어려운 세계 속에서도 햇살과 객실 제공",
+      "summary": "- 파타야는 여전히 여행객들에게 매력적인 선택지임.\n- 다양한 숙박 시설과 아름다운 해변을 즐길 수 있음.\n- 불안정한 국제 정세 속에서도 안전하고 편안한 휴가를 제공하는 것이 목표.",
+      "full_translated": "파타야는 어려운 세계 속에서도 햇살과 객실을 제공합니다. &nbsp;&nbsp;파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야의 일반적인 매력을 강조하는 기사로, 특별한 여행 정보 업데이트는 아니지만, 현재 여행 분위기를 반영하여 포함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "In a troubled world, Pattaya still offers sunshine and available rooms - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmpBaUd2Y3ZWS0RGOEJKeko3M0NtMGt5QmZxcmM1NGRxY25FakMzT0pxN1hUZHpTbENqOG9nNF9GTDVxQVlScDFPeGM5d2I4QmdPYzRwZTdaOTNfcXgzT0pLTUJ4QnVvVGMwbWFfWU9zM0lwU09BdkF3N0M1ZDItRkl4S2FGODRma21IcUNTbDdRbEJFU3ZLVk1SdTBzRkFoRnBFWHpuM0dha0c1b3c?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "베트남, 태국과 캄보디아를 우회하는 여행자 증가로 관광객 유치",
+      "summary": "- 베트남이 태국과 캄보디아를 우회하는 여행자들을 유치하며 관광객 증가 추세.\n- 이는 베트남의 매력적인 관광지와 경쟁력 있는 가격 때문으로 분석됨.\n- 태국 관광 시장에 대한 잠재적 영향에 대한 추가적인 분석이 필요함.",
+      "full_translated": "베트남이 태국과 캄보디아를 우회하는 여행객이 늘면서 더 많은 관광객을 유치하고 있습니다. Menafn.com",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행객 감소 가능성 및 경쟁 심화 가능성. 새로운 정보이지만, 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Vietnam Attracts More Tourists As Travelers Bypass Thailand, Cambodia - Menafn.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVNCREdrd2dTZ1I3cm9oV3lTdXhLYWYxUnFJWFp0MDdTUE9xSzAzdHpBYUtvcENnU2JCc3JzY1NEbFFHQnhSRDNqRGlKdi16NWlWSVo2VmF2eUhLTWpsb0pDNTBXNHpSTTlGZEZCb3lpLXcxUHUxRm1tNVpHQy0wU1lxQ3RPR1RwQl9GN05IZTVUQzFCSXVkR3VxeGpqVTA?oc=5",
+          "source": "Menafn.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "치앙라이 '메콩 연 축제', 태국-중국 우호 강화",
+      "summary": "- 치앙라이에서 열린 '메콩 연 축제'가 태국과 중국 간의 우호 관계를 강화하는 데 기여.\n- 이 축제는 양국 간의 문화 교류를 증진하고 관광객 유치에 긍정적인 영향을 미칠 것으로 기대.\n- 구체적인 축제 일정이나 추가 정보는 Chiang Rai Times 기사에서 확인할 수 있음.",
+      "full_translated": "치앙라이 '메콩 연 축제'가 태국-중국 우호 관계를 강화합니다. Chiang Rai Times",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국-중국 간 문화 교류를 보여주는 행사로, 관광객에게 흥미로운 볼거리를 제공할 수 있음. 하지만 현재 시각으로 볼 때, 오늘 여행에 즉각적인 영향을 주는 정보는 아님.",
+      "event_info": {
+        "date": null,
+        "location": "치앙라이",
+        "price": null,
+        "location_google_map_query": "치앙라이 메콩 연 축제"
+      },
+      "references": [
+        {
+          "title": "Chiang Rai \"Mekong Kite Festival\" Strengthens Thai-Chinese Friendship - Chiang Rai Times",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94R2EwYXlZNm80bFNrclV2ZFhqV25hdENmcFF3YkRVb19qREYwdGtjaGF0N19Ba2thQkF6X0ZVRG5XSU9uNzI1SWZzWWVxMlhMc2Z5QllmWXBCRkdrS3J3R3NWR2N1T2RGcE5TSWRKclVjTE1kU0x6Q1R3N2FCQQ?oc=5",
+          "source": "Chiang Rai Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-09"
     }
