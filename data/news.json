@@ -24262,14 +24262,9 @@
       "summary": "- 중동 지역의 긴장 고조로 인해 항공 노선 폐쇄 및 취소 증가.\n- 독일, 영국, 태국, 일본, 키프로스 등 여러 국가가 관광 산업의 변동성에 직면.\n- 장거리 여행 시장에 부정적인 영향.",
       "full_translated": "중동 분쟁 심화로 인해 독일, 영국, 태국, 일본, 키프로스 등 여러 국가가 관광 산업의 변동성에 직면하고 있습니다. 항공 노선 폐쇄 및 취소 증가로 장거리 여행 시장이 타격을 입고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 불안정으로 인한 항공편 취소 가능성은 여행에 영향을 줄 수 있음. 기존 뉴스에 없던 내용.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "US Joins Germany, UK, Thailand, Japan, Cyprus, and Others in Facing Hammering Tourism Volatility as Long-Haul Travel Takes a Hit Due to Airspace Closures, Cancellations and More Amid Escalating Conflict in the Middle East - Travel And Tour World",
@@ -24280,21 +24275,18 @@
       ],
       "collected_at": "23:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOM0FlQ1VMMFRLZG9EcnpFVDVGcHRQdEdhSkszV25nb0ZNaTE3bWJia2tLbmVDTlJXbDBrTVBWMERqWWdxZmhsQnlKR2EwZXA4SUxsQ09IVXVEbjJYcGFsYmVXMHo0WUpxa3Zxa3pDUTUzTEt1NlQ0WUJ2Zl91VWhKYnlhUVRKQWZ6d290dDZpNmZ4bE50S1ZnWXVhekRydUN1ZVpicmZRaTA4cm5jNVRQNE9aNEJrVkFGX0ZRbFZrbjlPZHpHajRaV21WLVAxNDREUExoWVVLbmNNQzAyMzVYdlF3ckw0eGZlYk12WXRUXy04d1UzeFBNUzBjalY2QXJ6QnZWc1NOdHd6dzdrLV9ac3pfUC0tSGlfcldpZzJXTnVCTmVGMDZOaUVoSFd3aFk0b2FNell0dHA0eGZWNzl5VDM3TVYwNVhVc0VCRUNVak5FM3JuZllFSUdnT2MyTmhj?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 룸피니 공원에서 원피스 팬 이벤트 개최",
       "summary": "- 태국 방콕 룸피니 공원에서 원피스 팬 이벤트가 개최됩니다.\n- '그랜드 라인'을 테마로 한 다양한 볼거리가 제공될 예정입니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
       "full_translated": "태국이 룸피니 공원에서 원피스 팬 이벤트를 시작하면서 방콕이 그랜드 라인으로 항해합니다. 파타야 메일",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕에서 진행되는 대규모 팬 이벤트 정보로, 관광객들에게 흥미로운 소식이 될 수 있으며, 룸피니 공원 방문객 증가를 예상.",
-      "event_info": {
-        "date": null,
-        "location": "룸피니 공원, 방콕",
-        "price": "미정",
-        "location_google_map_query": "룸피니 공원 방콕"
-      },
+      "event_info": "{'date': None, 'location': '룸피니 공원, 방콕', 'price': '미정', 'location_google_map_query': '룸피니 공원 방콕'}",
       "references": [
         {
           "title": "Bangkok sails into the Grand Line as Thailand launches One Piece fan event at Lumphini Park - Pattaya Mail",
@@ -24305,21 +24297,18 @@
       ],
       "collected_at": "23:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU21DcDdqcnBIb2FmeGNhSXR2OVNPd1lxV2VVVHVCMVgwanNfOWRFWHFTSTB1dTlPOEx1UjZrdjN3ZFJpWlIwWFFjM093NUVDMHJDSFhuRm1OR1E2SW4zMU1XbFJXT29hdmtwRi0tMHpvQUJnM1pwZzVRcnlQUDQ5Zm8tZnVDN2pscEFyM2t3Uk5PVlh0WG9XX2QyOGpLaGhvajNsWVpoeWp6MjRDbFh0OG9KODkzY2ZMU3RfRFpIMlZKLW03Y0I0QkFkaDB3OXZkaW0wb1d3?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광, 중동 전쟁으로 인한 방문객 감소",
       "summary": "- tourism-review.com에 따르면 중동 전쟁으로 인해 태국 관광 산업이 방문객 감소를 겪고 있습니다.\n- 정확한 감소 추정치는 제공되지 않았습니다.\n- 태국 관광 당국은 상황을 면밀히 주시하며 잠재적 영향 최소화 방안을 모색 중입니다.",
       "full_translated": "중동 전쟁으로 인한 태국 관광객 감소\n\ntourism-review.com",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 전쟁으로 인한 잠재적 관광객 감소는 태국 여행 산업에 간접적인 영향을 미칠 수 있으므로 정보 제공 가치가 있다고 판단했습니다. 관광객 수에 직접적인 영향을 미치지는 않지만, 전반적인 여행 심리에 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "THAI TOURISM COUNTS LOST VISITORS DUE TO THE MIDDLE EAST’S WAR - tourism-review.com",
@@ -24329,6 +24318,33 @@
         }
       ],
       "collected_at": "23:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa25Kck52bURtOHotS19ocWtya3dMRjg5Wi1BZmJnR2Y5d2d4ZFdtV0F6ckJ1OVBzR09FN1prcmFUSEhnYmVBNEp4ZkthdjRCVVh1SDJVRk11eUZNSVFoNy1yZEt0MVkxQlNxNzJ5dlpucGFLelJlNHEyLXlWelh1VG5aRVjSAYQBQVVfeXFMT2tuSnJOdm1EbTh6LUtfaHFrcmt3TEY4OVotQWZiZ0dmOXdneGRXbVdBenJCdTlQc0dPRTdaa3JhVEhIZ2JlQTRKeGZLYXY0QlVYdUgyVUZNdXlGTUlRaDctcmRLdDFZMUJTcTcyeXZabnBhS3pSZTRxMi15VnpYdVRuWkVY?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 교통비 인상 - 여행 산업에 미치는 영향",
+      "summary": "- 태국 내 교통비 인상으로 여행 비용 증가 예상\n- 특히 대중교통 및 택시 요금 인상 체감 클 것으로 예상\n- 여행객들은 예산 계획 시 교통비 변동 고려 필요",
+      "full_translated": "태국 교통비 인상으로 여행 산업에 영향\n\nTravel And Tour World에 따르면 태국 내 교통비 인상이 여행 비용 증가를 야기할 수 있습니다. 특히 대중교통 및 택시 요금 인상이 여행객들에게 더 크게 느껴질 것으로 예상됩니다. 따라서 태국 여행을 계획하는 여행객들은 예산 계획 시 교통비 변동을 고려해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "교통비 인상은 여행객의 비용 부담에 직접적인 영향을 미치므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "rising transport costs Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaEIxcF9jOG1UV0VvcVA3amdoTy1DX0tNb0JnTjhNUV9hVFZFbWlKcDd4cnpqd25pQ1hUaVlCSEQ2dHVuUl9wQW45a1J6RmxuVHdSYWR0bVlZdHlRZERuNl9ZRVRtVDJRRW5RTUljNU5sOXRDOW1XbW5qdG9WbC1raVlzUi1pUGZacjBOdQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:50",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
