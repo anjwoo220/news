@@ -22789,14 +22789,9 @@
       "summary": "- 중동 8개국 영공 폐쇄로 상업 항공편 운항에 차질 발생, 일부 공항은 운영 중.\n- 선박들이 아프리카 남단을 우회함에 따라 해상 화물 운송 비용 상승 및 컨테이너 확보 어려움 예상.\n- 태국 외무부에 따르면 리야드-방콕 항공편은 운항 중이며 필요시 증편 가능, 에미레이트 및 에어 아라비아는 방콕 및 푸껫행 운항 재개.",
       "full_translated": "중동 국가들의 영공 폐쇄와 분쟁으로 인해 해상 화물 운송 비용이 상승할 것으로 예상됩니다. 2026년 3월 8일 방콕포스트 보도에 따르면, 8개 중동 국가의 영공이 상업 항공편에 폐쇄되었으나, 다른 공항들은 여전히 운영 중입니다. 교통부 고위 관계자는 중동 분쟁을 피하기 위해 선박들이 아프리카 남단을 우회하는 더 긴 경로를 택함에 따라 해상 화물 운송 비용이 증가하고 화물 컨테이너 확보가 어려워질 것이라고 경고했습니다.\n\n외무부 부대변인 Panidone Pachimsawat은 바레인, 이란, 이라크, 이스라엘, 쿠웨이트, 레바논, 카타르 및 시리아가 상업 항공편에 영공을 폐쇄했다고 밝혔습니다. 아랍 에미리트에서는 항공편 운항이 제한되어 발이 묶인 여행객 수송만 가능합니다. 터키와 사우디 아라비아는 송환 항공편에 개방되어 있으며 준비가 되어 있다고 그는 말했습니다. 리야드-방콕 항공편은 운항 중이며 필요에 따라 태국인 귀국을 위해 증편될 수 있다고 Panidone 씨는 덧붙였습니다. 에미레이트 항공과 에어 아라비아는 방콕과 푸껫행 항공편 운항을 재개했습니다. 중동에는 약 77,000명의 태국인이 있으며, 이 중 215명이 귀국을 원하여 이미 마련되었다고 합니다.\n\n교통부 교통 및 교통 정책 계획 사무국장 Jiraroth Sukolrat은 2월 28일부터 3월 7일까지 중동 전쟁으로 인해 태국을 오가는 584편의 항공편과 78,564명의 여행객에게 차질이 발생했다고 밝혔습니다. 그는 또한 해상 운송에 대해서도 경고했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "중동 지역의 불안정으로 인해 항공편 및 해상 운송에 차질이 발생하여 태국 여행 및 물류 비용에 영향을 미칠 수 있음. 여행객들은 항공편 변동 및 화물 운송 지연에 대비해야 함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Airspace closures update, war's impact on sea freight",
@@ -22807,21 +22802,18 @@
       ],
       "collected_at": "14:48",
       "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212429_700.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.bangkokpost.com/thailand/general/3212429/airspace-closures-update-wars-impact-on-sea-freight",
+      "source": ""
     },
     {
       "title": "수랏타니 주 랏차프라파 댐 인근에서 잦은 지진 발생",
       "summary": "- 3월 8일 수랏타니 주 반타쿤 지역에서 여러 차례 지진 발생.\n- 12시 28분부터 12시 37분 사이에 규모 1.8~2.9의 지진이 관측됨.\n- 댐 안전 점검 결과, 지진으로 인한 댐의 안전에는 영향 없음.",
       "full_translated": "3월 8일 수랏타니 주 반타쿤 지역에서 잦은 지진이 발생했습니다. 8일 13시, 기상청 지진 감시과는 수랏타니 주 반타쿤 지역에서 다음과 같은 지진이 여러 차례 발생했다고 보고했습니다. 12시 37분 규모 1.8, 깊이 1km. 12시 29분 규모 2.9, 깊이 1km. 12시 28분 규모 1.9, 깊이 1km. 07시 02분 규모 2.4, 깊이 2km. \n\n2월 10-11일에도 랏차프라파 댐을 포함하는 수랏타니 주 반타쿤 지역에서 규모 1.9에서 3.2 사이의 지진이 총 11차례 발생했으며, 깊이는 1-3m였습니다. 당시 랏차프라파 댐은 지진 비상 대응 계획 및 댐 안전 원격 모니터링 시스템(DS-RMS)에 따라 시각적 검사를 통해 댐의 안정성을 점검했습니다. 점검 결과, 지진은 랏차프라파 댐의 안정성에 영향을 미치지 않는 것으로 확인되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "지진 발생 소식이지만, 댐 안전에 영향이 없다는 내용 포함. 여행객 불안감을 다소 해소할 수 있으므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2024-03-08",
-        "location": "수랏타니 주 랏차프라파 댐 인근",
-        "price": null,
-        "location_google_map_query": "Ratchaprapha Dam, Surat Thani"
-      },
+      "event_info": "{'date': '2024-03-08', 'location': '수랏타니 주 랏차프라파 댐 인근', 'price': None, 'location_google_map_query': 'Ratchaprapha Dam, Surat Thani'}",
       "references": [
         {
           "title": "เขย่าต่อเนื่อง เกิดแผ่นดินไหวถี่ ต.เขาพัง จ.สุราษฎร์ธานี บริเวณเขื่อนรัชชประภา",
@@ -22832,21 +22824,18 @@
       ],
       "collected_at": "14:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KCSExYgRYPeiZ.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/south/2918619",
+      "source": ""
     },
     {
       "title": "방콕: 블랙 타이거 밴드 드러머, 오토바이 사고로 사망",
       "summary": "- 방콕 인근에서 블랙 타이거 밴드의 드러머가 오토바이 사고로 사망했습니다.\n- 그는 오토바이에서 넘어진 후 버스에 치여 숨졌습니다.\n- 경찰은 사고 원인을 조사 중입니다.",
       "full_translated": "방콕에서 블랙 타이거 밴드의 드러머가 오토바이 사고로 안타깝게 사망했습니다. 36세의 드러머는 오토바이를 타고 가다 미끄러져 넘어졌고, 이후 버스에 치여 사망했습니다. 사고는 2069년 3월 8일 오전 9시 20분에 발생했으며, 랏타나티벳 경찰서에서 사건을 조사하고 있습니다. 사고 현장은 논타부리 지역의 홈프로 프라차춘 앞 도로였습니다. 피해자는 KPN 뮤직 아카데미의 음악 강사이자 블랙 타이거 밴드의 드러머인 차이야 퐁켓으로 확인되었습니다. 경찰은 정확한 사고 원인을 파악하기 위해 목격자 진술과 CCTV 영상을 확보하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "교통사고 소식으로, 여행객 안전에 대한 간접적인 영향이 있을 수 있으며, 해당 지역 교통 혼잡 가능성 존재. 하지만 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2069-03-08",
-        "location": "홈프로 프라차춘 앞, 논타부리",
-        "price": null,
-        "location_google_map_query": "HomePro Prachachuen Nonthaburi"
-      },
+      "event_info": "{'date': '2069-03-08', 'location': '홈프로 프라차춘 앞, 논타부리', 'price': None, 'location_google_map_query': 'HomePro Prachachuen Nonthaburi'}",
       "references": [
         {
           "title": "หนุ่มมือกลองวง BLACK TIGER ดับสลด จยย.เสียหลักลื่นล้มกลางถนน ก่อนรถเมล์ทับซ้ำ",
@@ -22857,21 +22846,18 @@
       ],
       "collected_at": "14:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB23RnX6XPpKG.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/2918628",
+      "source": ""
     },
     {
       "title": "태국, 경제 정책 및 무역 전략 논의: 10 플러스 정책 추진 및 전쟁 영향 대비",
       "summary": "- 태국 정부가 경제 성장을 위한 '10 플러스' 정책을 추진하고 세계 시장 경쟁력 강화를 목표로 하고 있습니다.\n- 현재 발생하고 있는 국제 분쟁의 영향에 대비, 식량 및 에너지 자원 확보 전략을 수립 중입니다.\n- 태국 외무부는 국가의 위상을 고려한 외교 정책을 강조하며 국제 사회에서의 역할 강화를 모색합니다.",
       "full_translated": "태국 정부 주요 인사들이 모여 경제 정책 및 무역 전략을 논의했습니다. '10 플러스' 정책을 통해 태국의 경쟁력을 강화하고 세계 무대에서 선두 주자가 되는 것을 목표로 합니다. 현재 세계적으로 발생하고 있는 전쟁의 영향에 대비하여 무역 계획을 수립하고 있으며, 특히 비료와 같은 주요 자원의 공급 안정화를 위해 노력하고 있습니다. 말레이시아, 브루나이와 같은 국가들과의 협력을 통해 자원 부족 상황에 대처할 계획입니다. 외무부 장관은 태국의 국익과 위상을 높이는 방향으로 외교 정책을 추진할 것을 강조했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 경제 정책 변화는 장기적으로 관광 산업에도 영향을 줄 수 있으며, 여행객 대상의 서비스 및 상품 가격 변동 가능성이 있습니다. 직접적인 영향은 적지만, 경제 상황에 대한 정보 제공 차원에서 포함합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“เอกนิติ-ศุภจี-สีหศักดิ์” พบ สส. ดันนโยบาย 10 พลัส-เผยแผนการค้ารับมือผลสงคราม",
@@ -22882,21 +22868,18 @@
       ],
       "collected_at": "14:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB2FqrBEJrGFp.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918623",
+      "source": ""
     },
     {
       "title": "태국 선거관리위원회, 국민투표 결과 발표 관련 법적 해명",
       "summary": "- 선거관리위원회는 국민투표 결과 발표 및 총리/국회 보고 의무 강조.\n- 2016년 국민투표와 달리 '의견 없음' 선택지 추가.\n- 결과 발표는 선거법에 따른 절차임을 재확인.",
       "full_translated": "태국 선거관리위원회(ก.ก.ต. - 꼬.꼬.떠.)는 국민투표 결과 발표가 법에 따른 것이라고 해명하며, '의견 없음' 선택지가 추가된 점을 강조했습니다. 2069년 3월 8일, 선거관리위원회는 국민투표 결과 발표에 대한 해명 자료를 발표했습니다. 이는 국민투표 결과가 찬성인지 반대인지 발표할 수 없는 이유에 대한 비판에 따른 것입니다. 선거관리위원회는 결과 발표가 법에 따른 것이라고 밝혔습니다. 2069년 2월 8일 국민투표 결과는 다음과 같습니다.\n\n1. 이번 국민투표 결과 발표는 2064년 국민투표법 및 개정안에 따라 진행되었으며, 이는 2059년 8월 7일의 헌법 초안에 대한 국민투표법에 따라 진행된 국민투표와는 다른 기준과 형식을 가지고 있습니다.\n\n2. 2069년 2월 8일 국민투표에서는 찬성, 반대, 의견 없음의 3가지 선택지가 있었습니다. 이는 2059년 국민투표에서 '의견 없음' 선택지가 없었던 것과 대조됩니다. 따라서 이번 투표 결과 보고서에는 '의견 없음'과 무효표가 포함됩니다.\n\n3. 선거관리위원회의 국민투표 결과 발표는 투표권자 수, 투표자 수, 각 선택지에 대한 득표수를 발표하는 것입니다. 선거관리위원회는 2064년 국민투표법 68조에 따라 관보에 결과를 공고하고 총리 및 국회의장에게 보고해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "국민투표 결과 발표 절차에 대한 정보 제공. 현재 여행객에게 직접적인 영향은 없으나, 정치적 상황에 대한 이해를 돕는다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กกต.แจงประกาศผลการออกเสียงประชามติตามกฎหมาย ชี้มีช่อง “ไม่แสดงความเห็น” เพิ่ม",
@@ -22907,6 +22890,133 @@
       ],
       "collected_at": "14:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB162NqalVYwx.jpg",
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918625",
+      "source": ""
+    },
+    {
+      "title": "치앙마이, 22세 식당 종업원 사망 사건 발생: 용의자 3명 조사 중",
+      "summary": "- 치앙마이 항동 지역에서 22세 여성 종업원이 의문사한 채 발견됨.\n- 경찰은 현장 증거 수집 및 용의자 3명을 조사 중.\n- 피해자는 며칠 전 사망한 것으로 추정되며, 정확한 사인 규명을 위해 부검 예정.",
+      "full_translated": "치앙마이 항동 지역에서 22세 여성 종업원이 의문사한 사건이 발생하여 경찰이 수사에 착수했습니다. 3월 8일 보도에 따르면, 어제(3월 7일) 오후 4시경 항동 경찰서장은 항동 지역에서 살인 사건으로 의심되는 여성 사망 사건이 발생했다는 신고를 받았습니다. 피해자는 침대 위에서 파란색 잠옷을 입고 발견되었으며, 바지는 무릎 아래로 내려져 있었습니다. 침대 옆에는 끊어진 헤어 스타일러 전선이 있었고, 휴대폰 2대가 사라졌습니다. 사건은 항동 지역의 한 주택에서 발생했습니다. 경찰은 현장 주변을 조사하던 중 피해자의 것으로 추정되는 모자와 가방이 쓰레기와 함께 버려진 것을 발견했습니다. 피해자는 22세의 프래우로, 사건 현장에서 약 800m 떨어진 식당에서 종업원으로 일했습니다. 경찰은 피해자가 3월 6-7일부터 약 2일 전에 사망한 것으로 추정하고 있습니다. 시신은 부패가 시작되어 냄새가 나는 상태였습니다. 최초 발견자는 라트리 수린이라는 여성입니다. 경찰은 정확한 사인을 밝히기 위해 시신을 병원으로 옮겨 부검을 의뢰했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 여행객이 많은 치앙마이에서 발생한 살인 사건으로, 여행객 안전에 대한 인식을 높일 필요가 있음. 다만, 특정 지역에 한정된 사건이므로 중간 수준의 점수 부여.",
+      "event_info": {
+        "date": "2024-03-07",
+        "location": "치앙마이 항동 지역",
+        "price": null,
+        "location_google_map_query": "Hang Dong, Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "เร่งคลี่คลายคดีสาวเสิร์ฟวัย 22 ดับปริศนาในห้องพัก ตร.พบผู้ต้องสงสัย 3 ราย",
+          "url": "https://www.thairath.co.th/news/crime/2918630",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZEGjAtobOwP.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZEGjAtobOwP.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 농카이, 전자담배 액상 밀수 시도한 20대 체포",
+      "summary": "- 태국 농카이 세관, 22세 남성이 전자담배 액상을 몸에 숨겨 밀반입하려다 체포됨.\n- 용의자는 테이프로 액상을 몸에 감아 숨기려 했으나 세관에 발각됨.\n- 압수된 액상의 가치는 19만 바트에 달함.",
+      "full_translated": "농카이 세관은 우돈타니 출신의 20대 남성이 전자담배 액상('팟 케')을 몸에 숨겨 밀반입하려다 체포되었다고 발표했습니다. 다른 사례로 중국인 남성이 가방에 엑스터시와 아이스를 숨겨 들여오려다 적발되었으며, 총 가치는 5백만 바트가 넘습니다. 2569년 3월 8일, 기자들은 2569년 3월 7일 15:00에 제1 태국-라오스 우정 다리 국경 검문소에서 농카이 주지사 수찻 톤마니, 농카이 세관 국장 완나 푸웃사, 제1 세관 서비스 부서장 팟타나퐁 탄티와타나쿤차이, 제2 통제 부대 대표 차이요 호라푼, 국경 순찰 경찰 245대대 부대장 파타위 참난디, 마약 통제 센터장 차이싯 캄파찬 및 관련 기관이 협력하여 22세의 티라왓을 체포했다고 보도했습니다. 그는 테이프로 몸에 감은 전자담배 액상(팟 케)을 소지하고 있었습니다. 또 다른 남성은 중국인으로 여행 가방에 엑스터시와 아이스를 숨겨 들여왔습니다. 2569년 3월 5일 19:20경, 태국 남성이 제1 태국-라오스 우정 다리를 통해 국제 버스를 타고 농카이 지방의 국경 검문소를 통해 입국했습니다. 승객이 버스에서 내린 후 세관의 수하물 검사 지점에 도착했을 때 수상한 행동이 발견되었습니다. 농카이 국경 검문소의 세관 직원들은 수사 및 진압 부서와 협력하여 자세한 수색을 실시한 결과, 해당 남성의 몸통 주위에 흰색 테이프가 감겨져 있는 것을 발견했습니다. 내부에는 2종 정신 활성 물질인 케타민이 전자담배 액상(팟 케) 형태로 들어 있었습니다. 직원들은 증거를 수집하기 위해 압수했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 마약 및 불법 물품 관련 단속 강화는 여행자에게도 영향을 줄 수 있으므로 정보 제공. 전자담배 관련 법규 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "농카이",
+        "price": null,
+        "location_google_map_query": "Nong Khai"
+      },
+      "references": [
+        {
+          "title": "รวบวัยรุ่นสร้างตัว ขน “พอตเค” พันรอบเอวหวังตบตาเจ้าหน้าที่ ของกลาง 1.9 แสน",
+          "url": "https://www.thairath.co.th/news/local/2918635",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZZEzN1ovbLM.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZZEzN1ovbLM.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "Wuling, 태국 시장에 STARLIGHT DARION EV 전기 밴 출시",
+      "summary": "- Wuling Thailand, 799,000 바트부터 시작하는 STARLIGHT DARION EV 출시.\n- 7인승, 슬라이딩 도어, 프리미엄 밴 스타일 특징.\n- 2029년까지 5개의 전기차 모델 출시 계획.",
+      "full_translated": "Wuling Thailand는 가족용 자동차 시장에 진출하여 STARLIGHT DARION EV를 799,000바트부터 시작하는 가격으로 출시했습니다. 이 차량은 7인승, 슬라이딩 도어, 태국 최초이자 유일한 프리미엄 밴 스타일을 자랑합니다. Wuling Sales (Thailand) Co., Ltd.의 부사장은 WULING THAILAND가 2029년까지 모든 사용자 그룹을 포괄하는 STARLIGHT DARION EV, STARLIGHT EKSION EV, PORTA EV, YEP PLUS 및 Mini EV Gen 5를 포함하여 5개의 주요 전기 자동차 모델을 태국 시장에 추가로 출시할 계획이라고 밝혔습니다. 모든 모델은 전 세계 시장 표준과 동일한 Wuling Brand Standard에 따라 생산됩니다. 또한 온라인과 오프라인의 힘을 결합한 옴니채널 마케팅 계획을 통해 태국에서 WULING 브랜드 인지도를 높일 것입니다. 2029년 총 판매 목표는 모든 모델을 합쳐 8,000대입니다. WULING THAILAND 쇼룸 네트워크는 현재 24개 쇼룸에서 2029년 말까지 수도권, 중부, 북부, 북동부, 서부 및 남부 지역을 포함하여 전국 50개의 표준 쇼룸으로 확장하여 프리미엄 글로벌 브랜드 수준의 구매 및 서비스 경험을 지원할 계획입니다. 또한 WULING THAILAND는 유지 보수 요구 사항을 신속하게 지원하고 차량 대기 시간을 줄이며 태국 전역의 EV 사용자의 신뢰를 구축하기 위해 사무트프라칸의 테파락에 대규모 부품 유통 센터를 설립했습니다. STARLIGHT DARION EV는 시장에서 SUV 및 MPV와 경쟁합니다. Wuling Sales (Thailand) Co., Ltd.의 CEO는 최근 WULING STARLIGHT DARION EV를 출시했다고 밝혔습니다. 이 차량은 시장에서 누구도 따라올 수 없는 차별성을 갖춘 7인승 전기 MPV-VAN입니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 새로운 전기차 모델 출시 정보로, 여행객의 교통 선택지에 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "799,000 바트 부터",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "WULING ส่งรถตู้ไฟฟ้า STARLIGHT DARION EV ราคาเริ่มต้น 799,000 บาท",
+          "url": "https://www.thairath.co.th/news/auto/evcar/2918624",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB10qpKpQigBU.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB10qpKpQigBU.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "아누틴, 3월 14일 국회 개원식 참석 의무화",
+      "summary": "- 아누틴 차른비라쿨, 푸미차이타이당 소속 의원들에게 국회 개원식 참석을 지시.\n- 당내 결속을 다지고 법률 및 윤리 규정을 준수할 것을 강조.\n- 푸미차이타이당은 이번 총선에서 191석을 확보하며 급성장.",
+      "full_translated": "아누틴 차른비라쿨은 3월 14일로 예정된 국회 개원식에 반드시 참석할 것을 강조했습니다. 그는 2029년 3월 8일, 부리람에서 열린 푸미차이타이당의 대규모 세미나에서 이같이 밝혔습니다. 이번 세미나는 '말하면 실천한다 플러스'라는 슬로건 아래 진행되었으며, 차이야촌 치촙 사무총장을 비롯해 시하삭 푸앙깨우, 수파지 수탐판, 에카니티 니티탄트라파스와 같은 주요 인사들이 참석하여 모든 의원들에게 방향을 제시했습니다. 아누틴은 의원들에게 환영 인사를 전하며 당의 발전을 강조하고, 당내 결속을 다질 것을 촉구했습니다. 또한, 법률 및 윤리 규정을 준수할 것을 당부했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 소식이지만, 여행객에게 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": "2029-03-14",
+        "location": "태국 국회",
+        "price": "해당 사항 없음",
+        "location_google_map_query": "태국 국회"
+      },
+      "references": [
+        {
+          "title": "“อนุทิน” สวมบนครูปกครอง  กำชับ 14 มีนาคม รัฐพิธีเปิดประชุมรัฐสภา ห้ามขาด",
+          "url": "https://www.thairath.co.th/news/politic/2918613",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KCSjxchAE1zGM.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KCSjxchAE1zGM.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "프아타이당, 장관직 배분 논란 심화: 북부 의원들 불만 표출 및 재검토 요구",
+      "summary": "- 프아타이당 내각 구성에서 북부 지역 의원들의 장관직 배제에 대한 불만이 고조되고 있음.\n- 일부 의원들은 당 지도부의 결정 방식에 반발하며, 차기 당 회의에서 재검토를 요구할 예정임.\n- 공정한 대표성 부여와 당내 소통 강화를 촉구하며, 의원들의 의견을 반영한 인사를 요구하고 있음.",
+      "full_translated": "프아타이당이 흔들리고 있습니다. 북부 지역 의원들이 장관직 배분에 불만을 터뜨리며, 의석 배분이 의원들과 연결되지 않고 고위층 몇몇이 결정한다고 비판합니다. 다음 당 회의에서 새로운 할당량 재검토를 요구할 예정이며, '우리도 좀 봐달라'고 외치고 있습니다. 2569년 3월 8일, 프아타이당에서 기자들이 보도합니다. 프아타이당이 5개의 장관직을 확정했다는 소식이 전해진 후, 북부 지역 의원들이 장관직을 받지 못하게 되자 최근 큰 불만이 터져 나왔습니다. 북부, 북부 저지대, 중부 고지대 의원들은 이번 당의 장관직 배분이 의원들과 연결되지 않았다고 논의했습니다. 결정은 당의 고위층 몇몇에 의해 이루어졌으며, 특히 나콘라차시마 지역의 의원 대표 2명이 장관이 될 예정입니다. 북부, 북부 저지대, 중부 고지대 의원 대표는 최소 1개의 장관직을 받아야 합니다. 의원 수가 상당한 지역이기 때문입니다. 당의 장관직 배분은 인기를 되찾아야 하는 상황에 있으며, 북부 지역 의원들에게 중요성을 부여해야 합니다. 행정부에서 역할을 할 대표가 있어야 합니다. 다음 프아타이당 회의에서 장관직 할당량 재검토를 요구할 것입니다. 일부 의원들은 '우리도 좀 봐달라, 아무런 성과도 없는 측근만 챙기지 말고, 일할 수 있고 경험이 있으며 당 의원들과 협력할 수 있는 사람을 뽑아야 한다. 누가 시키는 대로 하지 말고, 의원들에게 물어봐야 한다. 더 공정한 방법이 있어야 한다. 억지로 묶어놓지 말고, 이익을 위해 떠보는 듯한 행동은 참을 수 없다'고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 상황에 대한 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เพื่อไทยเก้าอี้ รมต. ไม่ลงตัว สส.ภาคเหนือโวย เห็นหัวกันบ้าง เรียกร้องให้ทบทวนโควตาใหม่",
+          "url": "https://www.thairath.co.th/news/politic/2918629",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB28JObcTdrKJ.jpg"
+        }
+      ],
+      "collected_at": "15:21",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB28JObcTdrKJ.jpg",
       "date": "2026-03-08"
     }
   ]
