@@ -23801,14 +23801,9 @@
       "summary": "- 파타야시, 후아이 야이 교차로에서 36번 고속도로까지 서부 철도 도로 재포장 공사 계약 체결.\n- 도로 표면 악화로 인한 불편 및 안전 문제 해결, 재활용 공법 사용.\n- 2026년 3월 10일부터 3월 31일까지 서부 철도 도로 임시 폐쇄, 우회 경로 이용 권장.",
       "full_translated": "파타야시는 Bangsaen Mahanakhon Co., Ltd.와 계약을 맺고 후아이 야이 교차로에서 36번 고속도로까지 뻗어있는 서부 철도 도로를 따라 도로 재포장 프로젝트를 수행합니다. 이 이니셔티브는 도로 표면의 악화를 해결하여 모든 사용자의 편의성과 안전성을 향상시키고자 합니다. 건설은 전체 경로를 따라 재활용 방법을 사용하며, 2026년 3월 10일부터 3월 31일까지 서부 철도 도로의 임시 폐쇄가 필요합니다. 첫 번째 단계는 차이야폰 위티 교차로에서 농켓 야이까지의 구간을 다루며, 이후 단계는 36번 고속도로와 후아이 야이 교차로까지 확장됩니다. 한편, 농켓 노이와 농켓 야이 교차로 사이의 구간 진행 상황은 거의 완료 단계에 있으며 아스팔트 콘크리트 표면 처리가 진행 중입니다. 이 구간은 2026년 3월 9일에 교통이 재개될 예정입니다. 혼란을 최소화하기 위해 파타야시는 촌부리 방향으로 향하는 운전자에게 대체 경로를 이용하도록 권고합니다. 운전자는 농켓 야이 교차로(소이 매치스틱 팩토리)에 도달하기 전에 철도 교차로나 소이에서 좌회전하여 수쿰빗 도로로 연결하여 혼잡을 줄이고 더 원활한 이동을 보장할 수 있습니다. 또한 시에서는 대중 버스 및 대형 트럭은 소이 내 회전 공간이 제한되어 안전 위험을 초래하고 교통 흐름을 방해할 수 있으므로 이러한 경로를 피할 것을 요청합니다. 파타야시는 불편에 대해 사과하며 대중에게 사전에 여행을 계획하고 교통 표지판을 준수하고 공무원의 지침을 따르도록 촉구합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "주요 도로 통제로 여행객 이동에 불편 초래 가능성, 우회 경로 안내 필요",
-      "event_info": {
-        "date": "2026-03-10 ~ 2026-03-31",
-        "location": "파타야 서부 철도 도로 (후아이 야이 교차로 ~ 36번 고속도로)",
-        "price": "정보 없음",
-        "location_google_map_query": "후아이 야이 교차로"
-      },
+      "event_info": "{'date': '2026-03-10 ~ 2026-03-31', 'location': '파타야 서부 철도 도로 (후아이 야이 교차로 ~ 36번 고속도로)', 'price': '정보 없음', 'location_google_map_query': '후아이 야이 교차로'}",
       "references": [
         {
           "title": "Pattaya to Upgrade Western Railway Road, Temporary Traffic Closure Planned From March 10th to March 31st",
@@ -23819,21 +23814,18 @@
       ],
       "collected_at": "20:23",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_1772973666246587739878401333158.jpg?v=1772973780",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://thepattayanews.com/2026/03/08/pattaya-to-upgrade-western-railway-road-temporary-traffic-closure-planned-from-march-10th-to-march-31st/",
+      "source": ""
     },
     {
       "title": "태국 관광 산업, 서아시아 긴장에 대한 전략적 대응 모색",
       "summary": "- 태국 관광 산업이 서아시아 지역의 긴장 고조에 따른 잠재적 영향에 대비하고 있습니다.\n- 관련 이해 관계자들은 상황을 면밀히 모니터링하며 필요한 경우 전략을 조정할 준비를 하고 있습니다.\n- 관광 산업은 태국 경제의 중요한 부분이며, 정부는 잠재적인 부정적 영향을 완화하기 위해 적극적으로 노력하고 있습니다.",
       "full_translated": "태국 관광 산업은 서아시아의 긴장 고조에 대한 전략적 대응을 모색하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "서아시아 긴장이 태국 관광 산업에 미치는 잠재적 영향에 대한 대비책 모색 기사. 상황 변화에 따라 여행객에게 영향을 줄 수 있으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Shifting Tides: The Strategic Response of Thailand Tourism Industry to West Asian Tensions - Travel And Tour World",
@@ -23844,21 +23836,18 @@
       ],
       "collected_at": "20:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVW4zQTBCRURRZm1lNEw2bVpIZ2tmZWJSbDU2cFIwcGZCYmZ2SG94bVN3a3ZMNlpORnEyTDlCN2VTbkxjMmFpVjVzVzN4aC1VWHlFOVVWa1A4TGszTlBrTG9SZ3BNbHlNVDA0RjdxUVhaekVRaWFyTU5adXl4SFY4bUp2UDQ4STctUXAwbXJIelJ6R0laZ05xYWdoOHVuZXdCS09BTmN4cnVMY0pjdjhWQjd1WUJCa21xUDc2bGFUTXN0RklHLWVCMTdKbTFfQl9zdHZubw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 희귀한 금성-토성 합류 현상 준비: 관광객을 위한 필수 관람 이벤트",
       "summary": "- 태국에서 희귀한 금성과 토성의 합류 현상이 관측될 예정입니다.\n- 이 현상은 관광객들에게 특별한 볼거리를 제공할 것으로 예상됩니다.\n- 자세한 정보와 관람 팁이 제공됩니다.",
       "full_translated": "태국에서 희귀한 금성-토성 합류 현상이 관측될 예정입니다. 이 현상은 관광객들에게 특별한 볼거리를 제공하며, 자세한 정보와 관람 팁은 [Travel And Tour World](https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX29yVllwQ0tFRzdKN2t1T0FVWlI0eGoyaURWeGROcVRGVlZuZUloUUFWbW9naFZWU19BVjNMWXZlWVF6M0x2TVUwTUdaZEZRbDZPOGhfTzZKXzdvN2ZMZFVEYmlhbnVNdTZFRE45R2dwNVlfdmRGOGVYcTR0aktMVmJnbzRGVlNXTTVEU3ZERXVYeUxXUEtGaWJCRnNxVG1IMGxuV2dOY2lmR09LMjh1NVpwVmFvbjRwMGVhWmdzS1FvaHhuV0JqXzV4aGZjb3JtWUZGMDNBeHY5X1Q4NDR1RXVDbnBkY1oxNU9IT3dGNA?oc=5)에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "희귀한 천문 현상은 관광객에게 흥미로운 경험을 제공할 수 있습니다. 저녁 시간대에 볼 수 있는 이벤트 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "태국 전역",
-        "price": "무료",
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': None, 'location': '태국 전역', 'price': '무료', 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "Thailand Prepares for Rare Venus-Saturn Conjunction: A Must-See Event for Tourists, Everything You Need to Know - Travel And Tour World",
@@ -23869,21 +23858,18 @@
       ],
       "collected_at": "20:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX29yVllwQ0tFRzdKN2t1T0FVWlI0eGoyaURWeGROcVRGVlZuZUloUUFWbW9naFZWU19BVjNMWXZlWVF6M0x2TVUwTUdaZEZRbDZPOGhfTzZKXzdvN2ZMZFVEYmlhbnVNdTZFRE45R2dwNVlfdmRGOGVYcTR0aktMVmJnbzRGVlNXTTVEU3ZERXVYeUxXUEtGaWJCRnNxVG1IMGxuV2dOY2lmR09LMjh1NVpwVmFvbjRwMGVhWmdzS1FvaHhuV0JqXzV4aGZjb3JtWUZGMDNBeHY5X1Q4NDR1RXVDbnBkY1oxNU9IT3dGNA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 대사관, 이라크에 발이 묶인 관광객 10명 튀르키예 통해 출국 지원",
       "summary": "- 태국 대사관이 이라크에 고립된 태국인 관광객 10명의 튀르키예를 통한 출국을 지원했습니다.\n- 관광객들은 안전하게 귀국할 수 있게 되었습니다.\n- 자세한 경위는 아직 알려지지 않았습니다.",
       "full_translated": "태국 대사관이 이라크에 발이 묶인 태국인 관광객 10명이 튀르키예를 통해 출국할 수 있도록 지원했습니다. Nation Thailand",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 관광객 관련 소식이므로 정보 제공 가치 있음. 심각한 안전 문제는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai Embassy helps 10 stranded tourists leave Iraq via Türkiye - Nation Thailand",
@@ -23894,21 +23880,18 @@
       ],
       "collected_at": "20:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNMmFGMlZKOTFIT05CREpta3hTZ0NFM3h6dElhS19YVGpkS1E0SmlGYUJiY0FGUnhFV3JOUFowY3JZcV92VXFUUkNROWdmclJsRlp5ZTU5V2ZDY3VwZnhraU1B?oc=5",
+      "source": ""
     },
     {
       "title": "태국 하원 의원 등록 11일째, 인민당 대규모 등록 예정",
       "summary": "- 태국 하원 의원 등록 11일째, 등록 인원 저조.\n- 인민당, 내일(9일) 119명 대규모 등록 예정.\n- 3월 14일 국회 개회 예정.",
       "full_translated": "3월 8일, 국회는 하원 의원 등록 11일째를 맞이했지만, 오늘 08:30부터 16:30까지 등록한 의원은 단 한 명도 없었습니다. 피라판 살리랏위파크 통합태국건설당 대표가 등록할 예정이었으나 나타나지 않았습니다. 현재까지 총 377명의 의원이 등록을 마쳤습니다. 인민당 소속 119명의 의원은 내일 10시에 등록할 예정이며, 민주당 부대표인 이스라 순톤와트도 같은 날 등록할 예정입니다. 태국파크디당 대표인 와롱 데칫위크롬 박사는 3월 10일 10시에 마지막으로 등록할 예정이며, 이로써 총 499명의 의원 등록이 완료됩니다. 국회 개회식은 3월 14일 17:00에 열릴 예정이며, 하원 의장 선출을 위한 첫 국회 회의 날짜는 추후 발표될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 관련 뉴스이지만, 여행에 직접적인 영향은 없음. 국회 개회 관련 정보는 참고할 만함.",
-      "event_info": {
-        "date": "2024-03-14",
-        "location": "태국 국회",
-        "price": null,
-        "location_google_map_query": "태국 국회"
-      },
+      "event_info": "{'date': '2024-03-14', 'location': '태국 국회', 'price': None, 'location_google_map_query': '태국 국회'}",
       "references": [
         {
           "title": "รายงานตัวที่สภาเป็นวันที่ 11 เงียบเหงา ไม่มี สส. เดินทางมา-ปชน. ยกทัพใหญ่มาพรุ่งนี้",
@@ -23919,6 +23902,133 @@
       ],
       "collected_at": "20:23",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC38KwFt4v3ZS.jpg",
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918675",
+      "source": ""
+    },
+    {
+      "title": "태국 외무부, 자국민들에게 중동 '위험 지역'에서 즉시 대피 권고",
+      "summary": "- 중동 지역의 불안정한 상황으로 인해 태국 국민들에게 위험 지역에서의 즉각적인 대피를 권고함.\n- 이란은 미국의 군사 기지만을 공격할 것이라고 밝혔으며, 태국은 쿠웨이트와 바레인의 인프라 공격을 주시하고 있음.\n- 미국은 이란에 대한 공격을 계속할 것이라고 발표하여 긴장이 고조되고 있음.",
+      "full_translated": "태국 외무부는 일요일 중동의 모든 위험 지역에서 태국인들이 가능한 한 빨리 떠날 것을 권고했습니다. 해당 지역의 상황이 여전히 폭력적이고 긴장되며 불확실하기 때문입니다. 파니돈 파침사와트 외무부 부대변인은 일요일 저녁 기자 회견에서 중동의 전반적인 상황이 여전히 폭력적이며 특히 이란, 이스라엘, 바레인, 쿠웨이트 및 레바논 간에 미사일과 드론 교환이 계속되고 있다고 밝혔습니다. 파니돈 씨에 따르면 이란은 이 지역의 다른 국가를 공격하지 않고 미국의 군사 기지만을 목표로 삼을 것이라고 밝혔습니다. 이란 외무부는 이란에 대한 공격이 중단되거나 유엔 안전보장이사회가 의무를 다할 때까지 자위 행위를 계속할 것이라고 밝혔습니다. 태국은 쿠웨이트의 석유 탱크와 바레인의 담수화 공장에 대한 드론 공격 보고가 있어(이스라엘은 부인) 해당 지역의 인프라 공격을 감시하고 있습니다. 한편, 도널드 트럼프 미국 대통령은 미국 군대가 이란에 대한 강력한 공격을 계속할 것이며 목표를 확대할 수 있다고 말했습니다. 파니돈 씨는 \"이로 인해 지속적인 긴장과 불확실성이 발생합니다.\"라고 말했습니다. \"중동 지역의 태국인 사상자는 보고되지 않았지만, 태국 외무부는 태국인들에게 위험 지역을 떠날 것을 촉구합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역의 긴장 고조는 항공편 운항 및 안전에 잠재적 영향을 미칠 수 있으므로 여행 안전에 대한 인식을 높이기 위해 포함. 태국인 대상이지만 외국인 여행객도 유사한 위험에 노출될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Foreign Ministry warns Thais to leave 'risky' Mideast",
+          "url": "https://www.bangkokpost.com/thailand/general/3212509/foreign-ministry-warns-thais-to-leave-risky-mideast",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212509_700.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212509_700.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "처제 살해한 남성 체포: 성폭행 시도 후 저항에 살해",
+      "summary": "- 체포된 남성은 피해자의 사촌 형부로 밝혀짐.\n- 성폭행을 시도했으나 피해자가 저항하여 살해했다고 자백.\n- 경찰은 범행 동기와 추가 범죄 여부를 조사 중.",
+      "full_translated": "치앙마이에서 발생한 처제 살인 사건의 용의자가 체포되었습니다. 경찰 조사 결과, 용의자는 피해자를 성폭행하려 했으나 저항하자 살해했다고 자백했습니다. 용의자는 피해자의 사촌 형부로, 범행 당시 성적 충동을 느껴 범행을 계획한 것으로 드러났습니다. 경찰은 정확한 범행 동기와 추가 범죄 여부를 조사하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내 강력 범죄 발생 소식은 여행객 안전에 대한 인식을 높일 수 있으므로 포함. 다만 특정 지역에서 발생한 사건이며, 여행객 직접적인 연관성은 낮아 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이",
+        "price": null,
+        "location_google_map_query": "치앙마이"
+      },
+      "references": [
+        {
+          "title": "รวบแล้ว พี่เขยฆ่าโหดสาวเสิร์ฟ สารภาพตั้งใจมาข่มขืน แต่เหยื่อขัดขืนเลยใช้สายไฟรัดคอ",
+          "url": "https://www.thairath.co.th/news/crime/2918681",
+          "source": "ไทยรัฐออนไลน์",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9n1HtAFLMyrw.jpg"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9n1HtAFLMyrw.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "미국, 이스라엘, 이란 간의 갈등 고조가 태국 및 아시아 전역의 관광 패턴에 미치는 영향 – 여행자가 여행 계획 전에 알아야 할 모든 것 - Travel And Tour World",
+      "summary": "- 미국, 이스라엘, 이란 간의 갈등이 태국을 포함한 아시아 관광 패턴에 영향을 미치고 있습니다.\n- 여행자들은 여행 계획 전에 이러한 갈등의 영향을 이해해야 합니다.\n- 지정학적 긴장으로 인해 여행 경로를 재고하거나 특정 지역을 피해야 할 수도 있습니다.",
+      "full_translated": "미국, 이스라엘, 이란 간의 갈등 고조가 태국 및 아시아 전역의 관광 패턴에 미치는 영향 – 여행자가 여행 계획 전에 알아야 할 모든 것 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "현재 국제 정세 불안이 여행 심리에 미치는 영향 고려, 잠재적 여행 경로 변경 가능성",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "How Escalating Conflicts Involving the United States, Israel, and Iran Are Shaping Tourism Patterns in Thailand and Across Asia – Everything Travelers Need to Understand Before Planning Their Trips - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxObk8xTG5FMjhRamQ3bFFrOW9LWlNEX3JNRnotTmFwbGhyZkF1RV83a0hlZjZtdWE1aHRGY3g4SW1hbUcyVjIwNGRIclEtV05VdDJMOFB0UjlsNWNZQzFmYTdHcE92S2lzRkpDSWdfWU1jTjA1TEt6aVlJVDFLTmNTMTBnaGktRHk3WklYRzkyLXdIOWN3MXhzQWI3XzlRbzh5Q2prdTJsenJQZkVlYWRCNXUtaDVmN1ZYSFJONGhsRlJaVnZOalpvQmZPWEhoaDdwbFJ2WkxHQ2NpdHdxeDZrdXJyaFNZUEFiNGVDcXdzUFg0amhPZDRhS2NkZGN6bm5VWk1scDNVYnp3WTE4bVNqT0FJUXY5dXNyM0hJYU5XTFlfOUJkUFp6RzdRZXpRRjQ5cUJHMDVtdkdrMWlfMkcxVzR2cl9UTlRjRGlLMDdMZE5XRXBsNExj?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "푸껫, 제20회 글로벌 웰니스 서밋 개최: 웰니스 관광 및 의료 혁신 집중 조명",
+      "summary": "- 태국 푸껫에서 제20회 글로벌 웰니스 서밋 개최 예정.\n- 웰니스 관광과 의료 혁신을 주요 의제로 다룰 예정.\n- 자세한 내용은 Travel And Tour World에서 확인 가능.",
+      "full_translated": "태국이 푸껫에서 제20회 글로벌 웰니스 서밋을 개최하여 웰니스 관광과 의료 혁신을 집중 조명합니다. 자세한 내용은 Travel And Tour World에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "푸껫에서 열리는 웰니스 서밋 정보는 웰빙에 관심 있는 여행객에게 유용할 수 있으며, 의료 관광 관련 정보를 제공하므로.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫",
+        "price": null,
+        "location_google_map_query": "푸껫"
+      },
+      "references": [
+        {
+          "title": "Thailand Now Set to Host 20th Global Wellness Summit in Phuket, Highlighting Wellness Tourism and Medical Innovations, Get the Details Here - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORkJwYXhQWEhvV0llZUZkcVNsQjVyWGgyWnVPUVhSQjBCX1NQMTRZT3RuS2RQSGF6azUzSHNoU1FaM0NvN21Cd0pIcllVd29BVlZTM3VrZWJDQnZoYTZSX1dpWnpYYzVTa3U5dHljQkZFNGFqdVlrSXF4c0V4el8tTGIySHRLS3lOMm9haUlKX0FKWGVURmcyTDlUcm51S3FLWm9Bd2pBVC01Xy0zaHVLWllkVlNMRzNWM1BQMnphbVBsSzBPOUJINXlFSFBOTGJvQlF4T1E2QmxyNWZSdlBkYURDUkZJU0JHckRwaGdXSThleDVHWG5XRlI4V3cySktIQ2t3TzR6czlKOTNUZkF0RzdfODA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 동부 섬과 코 쿠드, 중동 허브 여행객 대상 유류 가격 압박 직면",
+      "summary": "- 태국 동부 섬과 코 쿠드는 유류 가격 상승으로 인해 중동 지역 여행객의 여행 비용 부담이 커지고 있음.\n- 특히 코 쿠드는 아름다운 자연환경으로 유명하지만, 교통 및 물류 비용 증가로 여행 가격 상승이 불가피함.\n- 여행 전 유류 가격 변동 추이를 확인하고, 예산을 충분히 확보하는 것이 중요함.",
+      "full_translated": "태국 동부 섬과 코 쿠드 모험은 중동 허브에서 오는 여행에 영향을 미치는 연료 가격 압력에 직면해 있습니다. 알아야 할 모든 것 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행 비용 증가로 인한 여행객 부담 증가. 연료 가격은 여행객의 선택에 영향을 줄 수 있으며, 관련 정보를 제공하는 것이 유용함.",
+      "event_info": {
+        "date": null,
+        "location": "Koh Kood, Eastern Islands, Thailand",
+        "price": "Variable (depending on fuel prices)",
+        "location_google_map_query": "Koh Kood Thailand"
+      },
+      "references": [
+        {
+          "title": "How Thailand’s Eastern Islands and Koh Kood Adventures Are Facing Fuel Price Pressures Impacting Travel from Middle East Hubs – Everything You Should Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNVl81VWEzeXdBdHpYZ1BqNXFIcUQyU1RNZTc5S1hEZ1B0Vm5kckZjcjQzQlZUYnF4bE8za01tV0NON3VzSUJkbzN5QnVhS0lsR0JMWER3OVBIVmNJVi1CRmlRRVBadVYzVUlQQVNaandhV18wd1F1ZzBwQVVkdUUxSnM2WENOczYySVVPM19SemZZQmRHcDBBSnN4dFR1S0pGYm5KUENFVmVTNGxYenRvc292Q21mUE43d0xQNUZ3Y3hNZjh5ODFQM2lsaXhYYnRyb2JqYWtjOVA2Y1paUzVZdF9nM3NPY1A0THZ6cU5rQnRET0RkZVI3azc5b2NLcS1FTTNKVnVoY0JLSFgwSzFveTNLVjlZY1F6N2ZGcnhoV1JwQ1k0eTJB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
   ]
