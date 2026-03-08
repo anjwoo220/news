@@ -24131,14 +24131,9 @@
       "summary": "- 태국 북부 지역 국회의원들이 '오렌지 소방대' 시즌2를 시작, PM2.5 미세먼지 문제 해결에 나섰습니다.\n- 2월 26일부터 시작된 이들은 드론을 이용한 감시, 화재 진압, 방화선 구축 등의 활동을 펼치고 있습니다.\n- 현재까지 26건의 화재 진압, 13km의 방화선 구축, 14시간 이상의 드론 감시 활동을 완료했습니다.",
       "full_translated": "국민당 북부 지역 국회의원들이 팟타퐁 리라팟을 중심으로 '오렌지 소방대' 시즌2를 시작하여 람푼, 치앙마이 지역에서 PM2.5 문제 해결에 적극적으로 나섰습니다. 국회가 개회하지 않았음에도 불구하고 미세먼지 문제가 국민들에게 큰 고통을 주고 있다는 점을 강조했습니다.\n\n3월 8일, 팟타퐁 리라팟을 비롯한 국민당 소속의 쳉마이 지역 국회의원 낫폰 토위짝차이쿤, 푸티타 차이아난, 위트위싯 판수안플룩 람푼 지역 국회의원은 도이 사켓, 매온, 산사이, 산파통, 항동, 매왕 지역(치앙마이), 그리고 므앙, 매타 지역(람푼)에서 '오렌지 소방대' 팀을 조직하고 활동을 시작했습니다.\n\n팟타퐁 리라팟은 '오렌지 소방대' 프로젝트가 '가오카이 소방대', '오렌지 소방대' 시즌1에 이어 지속적으로 추진되어 왔다고 밝혔습니다. 올해 2월 26일부터 시작된 주요 임무는 드론을 이용한 감시, 화재 진압이며, 방화선 구축도 병행하고 있습니다. 모든 활동은 현지 관계자들과 협력하여 진행됩니다.\n\n2월 26일부터 현재(3월 8일)까지 총 26건의 화재 진압(총 40km), 13km의 방화선 구축, 14시간 이상의 드론 감시(326km) 활동을 수행했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "PM2.5 농도는 여행객 건강에 영향을 미칠 수 있으며, 관련 정보 제공은 유용함. 화재 발생 지역 정보는 여행 계획에 참고 가능.",
-      "event_info": {
-        "date": "2024-03-08",
-        "location": "람푼, 치앙마이",
-        "price": null,
-        "location_google_map_query": "치앙마이 람푼"
-      },
+      "event_info": "{'date': '2024-03-08', 'location': '람푼, 치앙마이', 'price': None, 'location_google_map_query': '치앙마이 람푼'}",
       "references": [
         {
           "title": "“ตี๋ ภัทรพงษ์” แท็กทีม สส. ภาคเหนือ พรรคประชาชน ปฏิบัติการ “ส้มสู้ไฟป่า”",
@@ -24149,21 +24144,18 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9oCdWOgNySiM.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918687",
+      "source": ""
     },
     {
       "title": "이스라엘, 이란 석유 창고 첫 공격… 4명 사망, 화재 발생",
       "summary": "- 이스라엘이 이란 석유 창고를 공격하여 4명이 사망하고 화재가 발생했습니다.\n- 이번 공격은 새로운 전쟁 발발 이후 처음으로, 테헤란과 알보르즈 지역의 석유 시설을 목표로 했습니다.\n- 이란 당국은 연료 공급에 차질이 없을 것이라고 밝혔으며, 보안 담당자들이 화재 진압에 나서고 있습니다.",
       "full_translated": "이스라엘이 8일 전 새로운 전쟁이 발발한 이후 처음으로 이란의 석유 창고를 공격하여 4곳에서 화재가 발생하고 4명이 사망했습니다. 알자지라 통신은 2569년 3월 8일 이스라엘이 지난 2월 28일 전쟁이 시작된 이후 처음으로 이란의 석유 창고를 공습하여 최소 4명이 사망하고 테헤란 상공을 덮을 정도로 심각한 화재가 발생했다고 보도했습니다. 미국과 이스라엘의 이란 공동 공격은 3월 8일 일요일 9일째 계속되었으며, 이란에서 1,300명 이상, 레바논에서 약 300명이 사망한 것으로 집계되었습니다. 당국은 이스라엘에서 약 12명이 사망했다고 밝혔습니다. 이란의 파르스 통신에 따르면 샤란 석유 창고에서 화재가 발생했습니다. 석유 창고 공격은 지난 토요일 발생하여 미사일이 테헤란과 알보르즈 지방의 석유 저장 창고 4곳과 석유 생산 이전 센터에 떨어지면서 심각한 화재가 발생했습니다... 공격 목표에는 테헤란 북동쪽의 아그다시에 석유 창고, 남쪽의 테헤란 정유 공장, 테헤란 서쪽의 샤란 석유 창고, 카라즈 시의 석유 창고가 포함되었습니다. 현지 주민들은 샤란 창고에서 기름이 도로로 유출되었다고 밝혔습니다. 또한 테헤란과 알보르즈에서 유조차 운전사 최소 4명이 공격으로 사망한 것으로 보고되었습니다. 그러나 당국은 \"연료 배급에 차질은 없다\"고 덧붙였고 보안 담당자들은 화재 진압을 서두르고 있습니다. 이스라엘은...",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행에는 직접적인 영향은 없지만, 중동 지역의 긴장 고조는 국제 유가 상승 등을 통해 간접적인 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิสราเอลโจมตีคลังน้ำมันอิหร่านครั้งแรก ดับ 4 ศพ ไฟลุกไหม้รุนแรง",
@@ -24174,21 +24166,18 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9nFxYYhUIt5Z.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/foreign/2918688",
+      "source": ""
     },
     {
       "title": "코파야통 섬, 금년 시즌 첫 번째 바다거북 부화 성공, 20마리 바다로 방생",
       "summary": "- 태국 코파야통 섬에서 금년 시즌 첫 번째 바다거북이 54일의 부화 기간을 거쳐 부화에 성공함.\n- 해양자원사무소는 지역사회와 협력하여 부화를 감독하고, 건강한 20마리의 새끼 거북이를 자연으로 돌려보냄.\n- 나머지 15마리는 집중 치료를 통해 건강을 회복시킨 후 바다로 돌려보낼 예정임.",
       "full_translated": "팡아 지방 코파야통 섬에서 금년 시즌 첫 번째로 바다거북이 부화에 성공하여 20마리가 자연으로 돌아갔습니다. 2569년 3월 8일, 제6해양해안자원사무소의 수리야 손스름 해안자원보호국장은 맹그로브 자원보호국장, 제10 맹그로브 자원보호센터(타쿠아파 팡아), 안다만해 해양해안자원연구센터, 코파야통 지역 행정기구 및 지역사회 지도자들과 협력하여 올해 산란기의 첫 번째 바다거북 산란지인 팡아 지방 쿠라부리 지역 코파야통 구역 퉁다브 해변에서 거북이 알 부화를 감시했습니다. \n\n이번 작업에서 당국은 거북이 우리 지역에 설치된 CCTV를 통해 05:30에 거북이가 부화하여 구덩이에서 3마리가 올라온 것을 발견하고 살균 용기에 보관하여 면밀히 관리했습니다. ... 그 후 당국은 19:30까지 지속적으로 상황을 모니터링했지만 두 번째 거북이 세트가 구덩이에서 올라오는 것을 발견하지 못하여 구덩이 내부를 파서 검사하기로 결정했습니다. 검사 결과 구덩이 안에 살아있는 거북이 32마리가 있었고 죽은 거북이 1마리가 발견되어 총 36마리의 거북이가 있었습니다. 당국은 건강한 거북이 20마리를 선별하여 즉시 자연으로 돌려보냈고 나머지 15마리는 ICU BOX에서 관리하여 건강을 회복시킨 후 추후 바다로 돌려보낼 예정입니다. 해당 “바다거북” 부화 구덩이는 어미 거북이가 2569년 1월 13일에 처음 알을 낳았으며 안전을 위해 부화 구덩이를 옮겼습니다. 총 54일의 부화 기간을 거쳐 이번에 새끼 거북이가 구덩이에서 부화하기 시작했으며 이는 팡아 지방 지역의 희귀 해양 동물을 보존하는 데 좋은 신호입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 해변의 희귀 바다거북 보호 노력을 보여주는 기사로, 여행객들에게 자연 보호의 중요성을 알리고 관련 관광 정보를 제공할 수 있음. 멸종 위기종 보호에 대한 인식 개선에 기여.",
-      "event_info": {
-        "date": "2024-03-08",
-        "location": "코파야통 섬, 팡아",
-        "price": "정보 없음",
-        "location_google_map_query": "코파야통 섬 팡아"
-      },
+      "event_info": "{'date': '2024-03-08', 'location': '코파야통 섬, 팡아', 'price': '정보 없음', 'location_google_map_query': '코파야통 섬 팡아'}",
       "references": [
         {
           "title": "ลูกเต่ามะเฟืองรังแรกของฤดูกาล ฟักตัวสำเร็จ ปล่อยคืนสู่ทะเลแล้ว 20 ตัวที่เกาะพระทอง",
@@ -24199,21 +24188,18 @@
       ],
       "collected_at": "22:15",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9n6vQXy8nC2A.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/south/2918686",
+      "source": ""
     },
     {
       "title": "Miss Tiffany 2026, 방콕 Thai Teaw Thai 관광 박람회 밝힐 예정",
       "summary": "- Miss Tiffany 2026의 스타들이 방콕에서 열리는 Thai Teaw Thai 관광 박람회를 장식할 예정입니다.\n- 이 박람회는 태국 관광 산업을 활성화하고 다양한 관광 상품을 선보이는 행사입니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
       "full_translated": "Miss Tiffany 2026 스타, 방콕 Thai Teaw Thai 관광 박람회 밝힐 예정\n\nPattaya Mail",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 박람회 정보 제공. 여행객들에게 새로운 볼거리를 제공할 수 있는 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": "Bangkok",
-        "price": null,
-        "location_google_map_query": "Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'Bangkok', 'price': None, 'location_google_map_query': 'Bangkok'}",
       "references": [
         {
           "title": "Miss Tiffany 2026 stars set to light up Thai Teaw Thai Tourism Fair in Bangkok - Pattaya Mail",
@@ -24222,21 +24208,19 @@
         }
       ],
       "collected_at": "22:15",
-      "date": "2026-03-08"
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTVWNXM2eVItaHpKcFZpYmxpSENpNHhPeXB6WTZSbHZRQ3VzUVVybVg0TlJXdkNTYTI5Q3J4OExWNzN3dGxSdktFWmtzOF9fT1ZucU1JZmlaMHh1QkhPeDFCX3RqTXZDbXdfT3hJUjdsQ1NocGJ4Tmg0NlVhdFlRUVRvRUtsMDBrUUxiMFg3VFlaT2NXS2FlS3pRTFd0Y3h3Qm1ZS0daVjFBRVBDLWVMYXk4Q3NOTlhUVm1CQUg4TW9zWUllYWRMcA?oc=5",
+      "source": ""
     },
     {
       "title": "방콕, 예술, 음악, 몰입형 기술 결합한 'Galaxy of Love 2026' 축제 개최",
       "summary": "- 방콕에서 'Galaxy of Love 2026' 축제가 개최됩니다.\n- 이 축제는 예술, 음악, 몰입형 기술을 결합한 새로운 형태의 행사입니다.\n- 축제에 대한 자세한 정보는 아직 공개되지 않았습니다.",
       "full_translated": "방콕은 예술, 음악, 몰입형 기술을 결합한 'Galaxy of Love 2026' 축제를 개최합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "새로운 축제 정보. 여행객들에게 새로운 즐길 거리를 제공할 수 있음.",
-      "event_info": {
-        "date": "2026",
-        "location": "방콕",
-        "price": "미정",
-        "location_google_map_query": "방콕"
-      },
+      "event_info": "{'date': '2026', 'location': '방콕', 'price': '미정', 'location_google_map_query': '방콕'}",
       "references": [
         {
           "title": "Bangkok launches ‘Galaxy of Love 2026’ festival blending art, music and immersive technology - Pattaya Mail",
@@ -24246,6 +24230,33 @@
         }
       ],
       "collected_at": "22:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3k3UExTbHNlQTA4bWxsdnpIR2RxNDkya21Pb1VzZE5pY1VIOWNfRXRGUlJMRTZCT21DTnMyakdHVnYtREp4bnVSRGo3QnZNVVlhbXNNcTZFVnBpSVRYaWcwendvT05La0FfbWd1bzhrdEdtQnVROWl2RXdfb3dRYkhMZ3JYRXhtSE5rX2lBLVBhQjJPaUpfRWJfRE5VQ3pmS3FaUHR4dkRoajBWeWRWdUFwelZSMUFDRXVDVlFjclZLQWFPZGthd1pZTDNPQnFUZVVN?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 내 아르메니아 시민 56명의 항공편 취소 또는 지연",
+      "summary": "- 태국에 있는 56명의 아르메니아 시민들의 항공편이 취소되거나 지연되었습니다.\n- 아르메니아 외무부에서 발표했습니다.\n- 자세한 내용은 Radar Armenia에서 확인할 수 있습니다.",
+      "full_translated": "태국에 있는 56명의 아르메니아 시민들의 항공편이 취소되거나 지연되었습니다. RA 외무부 Radar Armenia",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "항공편 취소/지연 정보는 여행객에게 직접적인 영향을 줄 수 있으므로 중간 정도의 점수를 부여합니다. 특히 귀국 항공편 문제일 경우 중요도가 높습니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "The flight of 56 Armenian citizens in Thailand has been canceled or delayed. RA Foreign Ministry - Radar Armenia",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1td1pNQmRNeWgxMlpZQWhDX2FhOXluUnNoSWpRTzlsZkctX2lOQXpKcm5hTEY3c21DeUpXcnVIM1duQ1dhWmdLOGgzQXV2SUdUZC0xUlZn?oc=5",
+          "source": "Radar Armenia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "22:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
