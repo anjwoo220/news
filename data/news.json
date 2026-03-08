@@ -23625,14 +23625,9 @@
       "summary": "- Tomorrowland 2026이 파타야에서 개최되어 전 세계 관광객 유치 기대.\n- 태국 관광 산업 성장에 기여할 것으로 예상됨.\n- EDM 페스티벌 개최로 파타야의 위상 강화.",
       "full_translated": "태국 관광, Tomorrowland 2026 파타야 개최로 성장 기대. 전 세계에서 방문객을 유치하는 세계적인 EDM 페스티벌 개최.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 국제 행사 개최로 파타야를 찾는 관광객 증가 예상. 숙박, 교통, 관광 명소 등에 영향.",
-      "event_info": {
-        "date": "2026",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': '2026', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Thailand’s Tourism Set for Growth as Tomorrowland 2026 Brings World-Class EDM Festival to Pattaya, Attracting Visitors from Across the Globe - Travel And Tour World",
@@ -23643,21 +23638,18 @@
       ],
       "collected_at": "18:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYTJTY2NlcGdxR09ac1pxQVdWNlR4Y01QdzFCQ3pRWUZuY042SGN6LV9GS1UtOHpTVVRzUVJSWENDOTl2T3NMd3NlYmJqcjBCbmJlRUUxdUNWanczbGZ6cUtZSmtaSXUyaV9MbnVJelRNakEydkVUbkd0c0NyWFBFTldESTl3cVNieFEyZzdvUUNCWC0wQi1VY3dsUm84U3hZQTNONDA4eVRscTBmNlB1VHlBOXc0Q282N1g5N19QQUVMNjJlNGctOTR2S0VNQUVIQ2hVNHN4VFZMNVRVUWZLS0QxWXpoc3FfMEI4eDlYUTlMQS1ILWdpYURVWGZDU190cXpCRkVReW1nYWQzOXFUWHMwdzVtdw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 바깥에서 벌어진 난투극, 보디빌더가 관광객 2명 가격",
       "summary": "- 태국 바에서 보디빌더가 관광객 2명을 때려눕히는 난투극 발생.\n- 정확한 위치와 사건 경위는 아직 조사 중.\n- 여행객 안전에 영향을 미칠 수 있으므로 주의 필요.",
       "full_translated": "태국 바깥에서 벌어진 난투극, 보디빌더가 관광객 2명을 가격 - Fitness Volt",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "관광객 대상 폭력 사건 발생. 파타야 워킹 스트리트 난투극과 유사 사건으로 판단.",
-      "event_info": {
-        "date": null,
-        "location": "태국 바 외부",
-        "price": null,
-        "location_google_map_query": "태국 바"
-      },
+      "event_info": "{'date': None, 'location': '태국 바 외부', 'price': None, 'location_google_map_query': '태국 바'}",
       "references": [
         {
           "title": "Bodybuilder Knocks Out 2 Tourists in Wild Street Fight Outside Thailand Bar - Fitness Volt",
@@ -23668,21 +23660,18 @@
       ],
       "collected_at": "18:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tN0wyUTJfN2RPWS15Q2Q0elFyM3UyUm5BMnJ1NEtFNE9NeWlwUnZPbFZ4VHBwSUlIYlUteVlZM1pIbXFBVHpFdTRtN09yNmRvbG5kU0o4ZGtNVGV1ejlzRDdTbXJzLVJiSXplSXVkdEdMLXVRWXc?oc=5",
+      "source": ""
     },
     {
       "title": "중동 분쟁 장기화, 태국 관광 산업의 불확실성 증가",
       "summary": "- 중동 지역 분쟁의 장기화로 인해 장거리 여행에 대한 불안감이 커지고 있습니다.\n- 태국 관광 산업은 이에 따라 심각한 변동성에 직면할 수 있습니다.\n- 특히 유럽 및 중동 지역 관광객 감소가 예상되며, 새로운 시장 개척이 중요해지고 있습니다.",
       "full_translated": "태국 관광 산업은 중동 분쟁으로 인해 심각한 변동성에 직면해 있습니다. 장거리 여행에 대한 불안감이 커지면서, 태국을 찾는 관광객 수에 영향을 미칠 수 있습니다. 특히 유럽 및 중동 지역에서 오는 관광객의 감소가 예상됩니다. 이에 따라 태국 관광 당국은 새로운 시장을 개척하고, 관광객 유치를 위한 다각적인 노력을 기울여야 할 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 분쟁으로 인한 장거리 여행 심리 위축은 태국 관광 산업에 부정적인 영향을 미칠 수 있으므로, 여행객들에게 관련 정보를 제공하는 것이 중요합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai tourism faces severe volatility as Middle East conflict hits long-haul travel - Nation Thailand",
@@ -23693,6 +23682,133 @@
       ],
       "collected_at": "18:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeGFTdGEta3Y4cFVmUVNmMlpDZUNTNm9LLUUxa1M4c3BvOU12NGplUDRoMHRVS3BvV1hycU85SmxPLXRqbjZVc0NHSVZLcG5xdFRxZVI4SU5NRGFwRnFwRjM1SVNfYXdONWRGR3A1NA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란 내 태국인, 내일 첫 번째 그룹 귀국 - 비료 5개월치 충분, 비축 불필요",
+      "summary": "- 이란 내 태국인 62명이 내일 첫 번째 그룹으로 태국에 도착 예정.\n- 현재까지 이란, 바레인, 쿠웨이트, 레바논 등에서 미사일 및 드론 공격 발생, 긴장 고조.\n- 태국 정부는 국민들에게 위험 지역에서 대피하고 대사관에 연락할 것을 권고.",
+      "full_translated": "중동 지역 전투 상황 관리 및 모니터링 센터는 이란 내 태국인들이 내일 첫 번째 그룹으로 태국에 도착할 것이라고 밝혔습니다. 총 292명의 고립된 사람들을 도왔습니다. 태국은 5개월 동안 사용할 수 있는 충분한 비료를 보유하고 있으며 비축할 필요가 없다고 강조했습니다. 재고는 아직 가격이 인상되지 않았습니다. 2026년 3월 8일 정부청사에서 중동 지역 전투 상황 관리 및 모니터링 센터(섭혹어.)의 파니돌 팟치마사왓 정보국 국장 대행 겸 외무부 부대변인이 중동 상황과 태국인 지원 진행 상황에 대한 기자회견을 열었습니다. 중동 상황은 여전히 심각하며, 특히 이란, 바레인, 쿠웨이트, 레바논 등 여러 지역에서 미사일과 드론 공격이 계속되고 있습니다. 이란은 역내 국가를 공격하지 않고 미국 기지만을 목표로 삼아 자국을 방어할 것이라는 신호를 보냈습니다. 이란에 대한 공격이 중단되거나 유엔 안전보장이사회가 조치를 취할 때까지 대응할 것입니다. 반면 미국 대통령은 이란을 강력하게 공격하고 영역을 확장할 수 있다고 확인하여 긴장을 고조시켰습니다. 현재까지 중동 사태로 인해 태국인이 부상하거나 사망했다는 보고는 없지만, 외무부는 국민들에게 위험 지역에서 가능한 한 빨리 대피하고 해당 대사관과 총영사관에 거주지 정보를 알릴 것을 권고합니다. 이란 내 첫 번째 태국인 그룹 62명은 차나니트 프라서트폰 테헤란 주재 대사관 고문의 인솔 하에 어젯밤 안전하게 차량으로 터키에 도착했습니다. 앙카라 주재 태국 대사관은 숙박 시설을 제공하고 귀국 준비를 위해 그들을 환영하고 편의를 제공했습니다. 첫 번째 그룹은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 긴장 고조 및 태국인 귀국 관련 소식으로, 여행 안전에 대한 우려를 야기할 수 있으므로 정보 제공 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "คนไทยในอิหร่านถึงไทยพรุ่งนี้ล็อตแรก- ย้ำมีปุ๋ยเพียงพอใช้ถึง 5 เดือน ไม่จำเป็นต้องกักตุน",
+          "url": "https://www.thairath.co.th/news/politic/2918679",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC27hnywdK4nr.jpg"
+        }
+      ],
+      "collected_at": "19:29",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC27hnywdK4nr.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "방콕 외곽 콘도 경비원, 미성년자 성매매 알선 혐의로 체포",
+      "summary": "- 방콕 외곽 콘도 경비원이 15세 미만 소녀를 꾀어 성매매를 알선한 혐의로 체포됨.\n- 경비원은 피해 소녀와 친분을 쌓은 후 파트타임 வேலை 제안 명목으로 유인함.\n- 경찰은 콘도 인근 러브호텔에서 현장을 급습하여 경비원을 체포함.",
+      "full_translated": "41세의 경비원이 15세 미만의 옆집 소녀를 성매매에 끌어들인 혐의로 체포되었습니다. 그는 친분을 쌓은 후 파트타임 வேலை 제안을 했습니다. 2026년 3월 8일, 중앙수사국(CIB) 인신매매방지국(복.뻐.꼼.)은 총경 낫삭 차오와나사이, 부총경 소폰 사라팟, 부총경 몬트리 테사칸, 총경 위타야 스리프라서트팝, 부총경 파타나 차야왓, 부총경 나롱 테시위분, 부총경 마룻 칸차나칸타쿤, 부총경 통순 운웡, 부총경 퐁사콘 노리, 부총경 테킹웃 킷티수파쿤, 부총경 위싯 폴붐엉, 부총경 마누 께오깜, 4과장 차윈롯 빔랏타담롱이 지휘하는 경찰 체포조는 4과 부과장 루티난 사타야차이 경감 대리, 4과에서 근무하는 위라퐁 실린리 경감 대리와 함께 방콕 외곽 콘도 인근 러브호텔에서 캄론(41세)을 체포했습니다. 그는 “성매매를 위해 개인을 알선, 유인 또는 유인하는 행위”를 저지른 혐의를 받고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "미성년자 대상 범죄는 여행객 안전에 대한 우려를 야기하며, 특히 가족 단위 여행객에게 중요한 정보임. 해당 지역 여행 시 주의를 요함.",
+      "event_info": {
+        "date": null,
+        "location": "ปทุมธานี คลองหลวง 지역의 러브호텔",
+        "price": null,
+        "location_google_map_query": "คลองหลวง 러브호텔"
+      },
+      "references": [
+        {
+          "title": "รวบตัว รปภ. ลวงเด็กข้างบ้านค้าประเวณี คาโรงแรมม่านรูด ย่านคลองหลวง",
+          "url": "https://www.thairath.co.th/news/crime/2918678",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC21izYhhxmz3.jpg"
+        }
+      ],
+      "collected_at": "19:29",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC21izYhhxmz3.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "푸껫 공항, 차량 호출 앱 사용 금지 조치 옹호",
+      "summary": "- 푸껫 국제공항은 터미널 앞에서 차량 호출 앱을 켜거나 대기하는 것을 금지하는 새로운 표지판 설치를 옹호함.\n- 공항 측은 이는 공항 내 대중교통 서비스 규제 및 무허가 차량의 불법 영업을 방지하기 위한 조치라고 설명함.\n- 허가된 택시, 공항 리무진, 공공 버스, 렌터카 및 Grab과 같은 라이선스 기반 앱 플랫폼은 정상적으로 운영 가능.",
+      "full_translated": "푸껫 국제공항은 터미널 앞에서 운전자가 차량 호출 앱을 활성화하거나 대기하는 것을 금지하는 새로운 표지판 설치를 옹호했습니다. 이는 소셜 미디어에서 승객의 교통 옵션을 제한한다는 비판에 따른 것입니다.\n\n몬차이 타놋 공항장은 일요일, 해당 표지판은 공항 구역 내 대중교통 서비스를 규제하고 터미널 근처에서 승객을 기다리거나 지정 구역 밖에서 서비스를 제공하는 무허가 차량을 방지하기 위해 설치되었다고 밝혔습니다.\n\n\"이 구역에서 승객을 태우기 위해 대기하거나 애플리케이션을 여는 것은 허용되지 않습니다.\"라는 표지판 이미지는 공항이 앱 기반 교통 서비스를 차단하는지 여부에 대한 온라인 논쟁을 촉발했습니다. 몬차이 씨는 그렇지 않다고 강조했습니다.\n\n(사진: 푸껫 정보 센터) 태국어로 된 표지판은 다음과 같이 번역됩니다. \"이 구역에서 승객을 태우기 위해 대기하거나 애플리케이션을 여는 것은 허용되지 않습니다.\"\n\n그는 허가된 차량만 지정된 픽업 구역 내에서 운행할 수 있으며, 이미 승인된 미터 택시, 공항 리무진, 공공 버스, 렌터카 운영업체 및 Grab과 같은 라이선스 기반 앱 플랫폼은 정상적으로 운영을 계속한다고 말했습니다. 공항에 서비스를 제공하는 모든 운송 제공업체는 보안 및 신원 조회를 통과하고 차량 및 운전자 세부 정보를 등록하며 서비스 표준을 준수해야 한다고 그는 말했습니다. 이를 통해 공항은 불만을 추적하고 승객이 문제를 겪을 경우 신속하게 조치를 취할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "푸껫 공항의 차량 호출 앱 관련 규제로, 여행자들의 이동에 영향을 줄 수 있으므로 중간 수준의 점수를 부여함. 기존 뉴스에 없던 내용이므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 국제공항",
+        "price": null,
+        "location_google_map_query": "Phuket International Airport"
+      },
+      "references": [
+        {
+          "title": "Phuket airport defends ban on activating ride-hailing apps",
+          "url": "https://www.bangkokpost.com/thailand/general/3212490/phuket-airport-defends-ban-on-activating-ridehailing-apps",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212490_260308181953_700.jpg"
+        }
+      ],
+      "collected_at": "19:29",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212490_260308181953_700.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "71세 남성, 2년간 '가난뱅이'라며 무시한 이웃 폭행 사망",
+      "summary": "- 부리람 지역에서 71세 남성이 63세 이웃을 괭이로 쳐 살해.\n- 피해자가 2년간 '가난뱅이'라고 모욕한 것이 원인.\n- 경찰은 피의자를 체포하여 조사 중.",
+      "full_translated": "부리람 지방의 한 마을에서 71세 남성이 63세 이웃을 괭이로 때려 숨지게 한 사건이 발생했습니다. 피해자가 2년 동안 피의자를 '가난뱅이'라고 모욕한 것이 범행 동기로 밝혀졌습니다. \n\n사건은 3월 7일 오후 6시경, 부리람 주 쁘라콘차이 지역의 반 사랍히 마을에서 발생했습니다. 피해자 쁘라윤(63세)은 도로 건너편에 사는 레압(71세)에게 괭이로 머리를 여러 차례 맞아 현장에서 사망했습니다. \n\n마을 주민 위치안 푸타차트(57세)는 두 사람이 2년 넘게 다퉜으며, 피해자가 술에 취해 피의자를 모욕하는 일이 잦았다고 밝혔습니다. 특히 '가난뱅이' 또는 '가난한 집안'과 같은 모욕적인 발언을 반복했다고 합니다. 피의자는 여러 차례 마을 주민에게 피해자의 언어 폭력을 호소했지만, 소용이 없었습니다. 사건 당일에도 피해자가 술에 취해 욕설을 하자, 피의자가 항의하러 갔다가 괭이로 공격당할 뻔했고, 괭이를 빼앗아 휘둘러 사망에 이르게 한 것으로 알려졌습니다.\n\n피해자의 조카(26세)는 삼촌이 술에 취하면 레압을 모욕하는 일이 잦았다고 인정했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 범죄 사건 발생. 여행객 안전에 간접적 영향 가능성이 있으나, 지역적 사건이므로 낮은 점수 부여.",
+      "event_info": {
+        "date": "2024-03-07",
+        "location": "บุรีรัมย์, ประโคนชัย",
+        "price": null,
+        "location_google_map_query": "บุรีรัมย์ ประโคนชัย"
+      },
+      "references": [
+        {
+          "title": "ฟางเส้นสุดท้าย ลุงวัย 71 ใช้จอบตีหัวเพื่อนบ้านวัย 63 ดับ หลังโดนดูถูก “ไอ้คนจน” นาน 2 ปี",
+          "url": "https://www.thairath.co.th/news/crime/2918677",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC4Mr3DwK48L2.jpg"
+        }
+      ],
+      "collected_at": "19:29",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC4Mr3DwK48L2.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "새 연립 정부 구성: 클라탐당, 민주당 배제",
+      "summary": "- 품짜이타이당 주도의 새 연립 정부가 클라탐당과 민주당을 배제할 것으로 예상됨.\n- 연립 정부는 품짜이타이, 푸아타이, 팔랑쁘라차랏, 쁘라차찻 및 여러 소규모 정당으로 구성될 예정.\n- 품짜이타이당은 14개 부처에서 26개의 장관직을 차지할 것으로 예상됨.",
+      "full_translated": "품짜이타이당이 주도하는 새 연립 정부가 클라탐당과 민주당을 배제할 것이라고 소식통이 밝혔습니다. 품짜이타이당 소식통은 의회에서 약 292석을 차지할 것으로 예상되는 새로운 연립 정부가 품짜이타이, 푸아타이, 팔랑쁘라차랏, 쁘라차찻 및 여러 소규모 정당으로 구성될 것이라고 밝혔습니다. 이러한 결정으로 클라탐당, 민주당 및 타이 루암팔랑당은 정부에서 제외됩니다. 연립 정부 구조는 일요일 부리람의 창 인터내셔널 서킷에서 열린 품짜이타이당 의원 192명이 참석한 세미나에서 논의되었습니다. 당 집행부는 잠재적인 내각 후보자 목록을 당 대표이자 총리인 아누틴 찬위라쿨에게 최종 고려를 위해 제출했습니다. 이 목록에는 가능한 내각 직위보다 더 많은 이름이 포함되어 있어 아누틴 총리는 제안된 장관들이 국가 기관의 신원 조사를 받기 전에 최종 결정을 내릴 수 있습니다. 예비 합의에 따라 품짜이타이당은 14개 부처에서 26개의 내각 직위를 통제하여 새 정부에서 지배적인 세력이 될 것으로 예상됩니다. 여기에는 내무, 국방, 교통, 천연 자원 및 환경, 디지털 경제 및 사회, 관광 및 스포츠, 산업, 외무, 재정, 상업, 에너지, 법무 및 문화와 총리실 소속 장관이 포함됩니다. 아누틴 총리 본인은 총리 직을 수행하면서 내무부 장관 직을 유지할 것으로 예상됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 변화는 여행 자체에 직접적인 영향을 주지 않으므로 낮은 점수를 부여함. 다만, 정치적 상황에 따라 시위 등이 발생할 수 있으므로 정보를 제공함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Klatham, Democrat excluded from coalition",
+          "url": "https://www.bangkokpost.com/thailand/politics/3212500/klatham-democrat-excluded-from-coalition",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212500_700.jpg"
+        }
+      ],
+      "collected_at": "19:29",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212500_700.jpg",
       "date": "2026-03-08"
     }
   ]
