@@ -25336,14 +25336,9 @@
       "summary": "- 이란 정부는 모지타바 카메네이를 새로운 최고 지도자로 임명했다고 발표했습니다.\n- 이는 아버지인 알리 카메네이의 뒤를 이은 것으로, 미국의 반발을 사고 있습니다.\n- 이란의 정치적 불안정이 고조될 경우 여행 안전에 잠재적인 영향을 미칠 수 있습니다.",
       "full_translated": "이란 정부는 월요일 아침 모지타바 카메네이가 새로운 최고 지도자로 임명되었다고 발표했습니다. 그는 아버지인 아야톨라 알리 카메네이의 뒤를 이었습니다. 알리 카메네이는 지난 2월 28일 미국과 이스라엘의 공습으로 사망했습니다. 모지타바 카메네이는 88명의 고위 성직자로 구성된 전문가 회의에서 선출되었습니다. 도널드 트럼프 미국 대통령은 이번 임명에 대해 '용납할 수 없다'는 입장을 밝혔습니다. 이란의 정치적 상황 변화는 여행 안전에 잠재적인 영향을 미칠 수 있으므로, 여행객들은 최신 정보를 주시해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "새로운 최고 지도자 임명으로 인한 잠재적 정치적 불안정 가능성이 여행 안전에 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "อิหร่านประกาศ แต่งตั้ง “โมจตาบา คาเมเนอี” เป็นผู้นำสูงสุดคนใหม่",
@@ -25352,23 +25347,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzmNX602WaBv.jpg"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzmNX602WaBv.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/foreign/2918702",
+      "source": ""
     },
     {
       "title": "푸껫 공항, 차량 호출 앱 활성화 금지 옹호",
       "summary": "- 푸껫 공항이 차량 호출 앱 활성화 금지 조치를 옹호하며 논란이 일고 있습니다.\n- 공항 측은 택시 서비스의 질서 유지를 위한 불가피한 결정이라고 주장합니다.\n- 여행자들은 불편함을 호소하며 다양한 교통 옵션에 대한 요구가 커지고 있습니다.",
       "full_translated": "푸껫 공항은 차량 호출 앱 활성화 금지를 옹호합니다. &nbsp;&nbsp;방콕 포스트",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫 공항의 차량 호출 앱 금지는 여행자들의 교통편 선택에 영향을 미치므로 정보 제공 가치가 있습니다. 하지만 안전에 직접적인 위협은 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫 공항",
-        "price": null,
-        "location_google_map_query": "Phuket Airport"
-      },
+      "event_info": "{'date': None, 'location': '푸껫 공항', 'price': None, 'location_google_map_query': 'Phuket Airport'}",
       "references": [
         {
           "title": "Phuket airport defends ban on activating ride-hailing apps - Bangkok Post",
@@ -25377,23 +25369,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVE95akVpVDY3VUNheFJzdFBNbGllbjlPbzM3TjJBWUYydTA3TVk0N1N6QnRGbHpBUDItc1BuLU1FR2VqNWhIdHlBd2c5SzA1Z1ZaREd6eDEzUVlCMVRRMG5acTlJZ1pTOC1CVnYwX3ViMHBQa0JRUFlPRVY1QlVwUXhOcmFYS1htRGsxeFVpbkd4WmxXN3pqcGZDYTFaVVd2T3dGUmNPdmlZa2Y4N2Vj?oc=5",
+      "source": ""
     },
     {
       "title": "태국 북부 숨겨진 보석 7곳 (2026년): 비밀 폭포와 산악 마을",
       "summary": "- 치앙라이 타임즈 선정, 2026년에 방문할 태국 북부의 숨겨진 명소 7곳 소개.\n- 잘 알려지지 않은 아름다운 폭포와 전통적인 산악 마을 탐험.\n- 숨겨진 자연과 문화를 경험하고자 하는 여행자에게 추천.",
       "full_translated": "치앙라이 타임즈는 2026년에 방문할 가치가 있는 태국 북부의 숨겨진 명소 7곳을 선정했습니다. 이 목록에는 잘 알려지지 않은 아름다운 폭포와 전통적인 산악 마을이 포함되어 있습니다. 숨겨진 자연과 문화를 경험하고자 하는 여행자에게 이상적인 목적지입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "새로운 여행 정보 제공, 하지만 즉각적인 여행 계획에 큰 영향은 없음",
-      "event_info": {
-        "date": null,
-        "location": "태국 북부",
-        "price": null,
-        "location_google_map_query": "태국 북부"
-      },
+      "event_info": "{'date': None, 'location': '태국 북부', 'price': None, 'location_google_map_query': '태국 북부'}",
       "references": [
         {
           "title": "7 Hidden Gems in Northern Thailand to Visit in 2026: Secret Waterfalls and Mountain Villages - Chiang Rai Times",
@@ -25402,23 +25391,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFNrUG1KS2RHLWQwekI0VUlkUF83QTZIckRFRTZISDA3M1JncnNuVUpESG1qXzk5T1pIdHpYclJIelJIdVJsdmg2R1E1WjFFb05kU3ZmMXc1XzVieC1DdlRIY080bnB4cjV3emRsbzFGUlgyaWhtNnp4NGRtUUdQRXBfbw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 인민당, 허위 정보 유포에 대해 민형사 소송 제기",
       "summary": "- 인민당이 허위 정보에 강력 대응, 최소 3개 계정 고소 예정.\n- 온라인상의 영향력 있는 인물들이 허위 정보를 유포하여 당에 피해를 줬다고 판단.\n- 언론 및 법적 조치를 통해 허위 정보에 체계적으로 대응할 계획.",
       "full_translated": "인민당은 허위 및 왜곡된 정보에 맞서 싸우기 위해 민형사 소송을 준비하고 있습니다. 최소 3개의 계정, 특히 온라인에서 영향력 있는 인물들이 의도적으로 허위 정보를 유포하여 당에 피해를 주고 있다고 밝혔습니다. 2569년 3월 8일, 인민당은 성명을 통해 허위 정보에 대한 체계적인 대응을 강화할 것이라고 발표했습니다. 당은 그동안 허위 정보, 거짓 정보, 왜곡, 비방으로 인해 어려움을 겪었으며, 정확한 정보를 제공하고 가해자들에게 경고했지만 효과가 없었습니다. 이는 당에 대한 오해와 불공정한 증오를 조장하려는 의도적인 행위로 판단됩니다. 앞으로 당은 2가지 중요한 차원에서 허위 정보에 대한 대응을 강화할 것입니다. 첫째, 언론 차원에서는 허위 정보에 대한 신속한 해명을 담당하는 팀을 구성하고, 더 넓은 범위의 대중에게 다가가기 위해 소통 채널과 방식을 확대할 것입니다. 또한 과거에 유포된 허위 정보에 대한 해명을 쉽게 찾을 수 있는 시스템이나 웹사이트를 구축할 것입니다. 둘째, 법적 차원에서는 특히 영향력 있는 인물에 대한 민형사 소송을 통해 자신을 보호할 권리를 행사할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "พรรคประชาชน ยกระดับสู้ จ่อฟ้องแพ่ง-อาญา 3 แอคเคาท์ สร้างข่าวปลอมใส่ร้ายป้ายสีพรรค",
@@ -25427,8 +25413,35 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC3jWCs2fl1Bb.jpg"
         }
       ],
-      "collected_at": "04:43",
+      "collected_at": "4:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC3jWCs2fl1Bb.jpg",
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/politic/2918670",
+      "source": ""
+    },
+    {
+      "title": "태국, '새로운 태국' 비전을 ITB 베를린 2026에서 발표",
+      "summary": "- 태국이 ITB 베를린 2026에서 '새로운 태국' 비전을 제시했습니다.\n- 지속 가능한 관광과 문화적 경험을 강조합니다.\n- 더 높은 가치와 독특한 경험을 제공하는 것을 목표로 합니다.",
+      "full_translated": "태국이 ITB 베를린 2026에서 '새로운 태국' 비전을 발표했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 관광 정책 방향을 알 수 있는 정보이지만, 즉각적인 여행 계획에 큰 영향을 미치지는 않으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand presents ‘The New Thailand’ vision at ITB Berlin 2026 - Travel Daily News Asia-Pacific",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHpKS1ZseDNBcndlVmR5SWJ5YTloYXBhY0E3MEJtei1lMi1KaVZGYzRWSGhiRElyRTFicXRFNGJmYTc1aWx0LUhvSkhtUG1pMXJQQ2xuVlNFMlhUdGZSdjJQRUFqVnRGODBOcmVrcjk0V2hBZGV6aER0WE5Sck04VkhYYnlvazg5bmNmVl95RW90T1Y5VkE?oc=5",
+          "source": "Travel Daily News Asia-Pacific",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-09"
     }
   ]
