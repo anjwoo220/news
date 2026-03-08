@@ -25227,14 +25227,9 @@
       "summary": "- 파타야에서 현지인들이 관광객을 공격하는 영상이 공개되어 논란.\n- 사건 경위는 불분명하며, 관광객 안전에 대한 우려가 커지고 있음.\n- 파타야 여행 시 신변 안전에 각별히 주의하고, 유사시 대처 요령 숙지 필요.",
       "full_translated": "파타야에서 현지인들이 관광객을 공격하는 영상이 공개되어 큰 논란이 일고 있습니다. Thaiger에 따르면, 이 영상은 온라인에서 빠르게 확산되면서 대중의 분노를 일으키고 있습니다. 아직 사건의 정확한 경위는 밝혀지지 않았지만, 이번 사건으로 인해 파타야를 방문하는 관광객들의 안전에 대한 우려가 커지고 있습니다. 파타야를 여행하는 경우, 신변 안전에 각별히 주의하고, 유사시 대처 요령을 숙지하는 것이 중요합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "파타야에서 관광객 대상 범죄 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Outrage as Pattaya video shows tourists attacked by locals - Thaiger",
@@ -25243,23 +25238,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:15",
+      "collected_at": "4:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkZUeXl3SG5yNUx0dVNaOFFJOHlQeEo1bjdsekxuM1g3TlIxaUVHbDNIb3pndi1Pa1RJV0JmWWVNWU9yMG9abTJRMW43TVYweE5XR1llMUxYeHYzUDRwWXJTZlZ0Z1ZfaWN3eFJzSF9iSXA4akcwakVnRkg5MF9jSGVqd1FWOERwVmVaMEc5MGJJeEFrTkVoT3d3?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광공원, 갑작스러운 호랑이 72마리 폐사 미스터리 - 관광객 안전에 대한 우려 증가",
       "summary": "- 태국 관광객 접촉 가능 공원에서 호랑이 72마리 폐사 원인 불명.\n- 당국은 정확한 원인 조사 중, 관광객 안전에 대한 우려 제기.\n- 과거에도 동물 학대 논란 있었던 공원, 이미지 타격 불가피.",
       "full_translated": "# 태국 관광공원, 갑작스러운 호랑이 72마리 폐사 미스터리\n\n태국 내 한 관광공원에서 방문객들이 호랑이를 만질 수 있는 곳에서 72마리의 호랑이가 갑자기 죽어 미스터리가 발생했습니다. 당국은 정확한 원인을 조사하고 있으며, 관광객 안전에 대한 우려가 제기되고 있습니다. 해당 공원은 과거에도 동물 학대 논란이 있었으며, 이번 사건으로 이미지에 큰 타격을 입을 것으로 예상됩니다.\n\n*출처: MSN*",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "동물 학대 논란이 있는 관광 시설에서 대규모 폐사가 발생하여 관광객 안전 및 윤리적 문제에 대한 우려를 야기하므로, 여행객에게 잠재적인 영향을 미칠 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "태국 관광공원",
-        "price": null,
-        "location_google_map_query": "태국 관광공원"
-      },
+      "event_info": "{'date': None, 'location': '태국 관광공원', 'price': None, 'location_google_map_query': '태국 관광공원'}",
       "references": [
         {
           "title": "Mystery as 72 tigers suddenly die at Thai tourist park where visitors can touch the animals - MSN",
@@ -25267,22 +25259,20 @@
           "source": "MSN"
         }
       ],
-      "collected_at": "04:15",
-      "date": "2026-03-09"
+      "collected_at": "4:15",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPN2xOVUxuei1Vam1IZG1CQkJHSlhsMnB2TUpXczdzQjFCUi1PMDBzTnNydE9odGREaWdXeGdhUEtUR1pfY2tzZnFRa0llRkEyQXBsaWx1MTZmQ0xFSFUwMmFxTW1ESF82cThmbUxJT3g0UGdDdU1aNWtSU3BpTTJfNkk2Q2RnRzd5Uk5TT1B2SVVOTVl0N1BmMVVKN3FxdllkZ3NJYjdSOUpnaFhDdzRScE5acy16RVBvR3JLelJHZzBtbERvUk04cVZyd3BaX3psWW9OVkZfTmwxb1NLOTZwMjBQbGFtOEdoMDJacGhRYWNyVV9hMnMzMEgxaU1QNVBBRWpIMy1QMTlKSDVDdkcydEdlUGl5RWFiRXpnNTBKaEtsWWk3QUU5eFhsaWxsUG5iVEppaWFWbkJ0ZjVlZlpZY0dWODJ1TDBCV3FHNUhTWFB4cGlzRGd2YVhCb3pJdmpoT3JHVGR1VzVtOWhrQXFpMzJZVjl2bDR6WTlyaXB0dWk5Mk5NaG9NZDd5T2tqbDN3SmR5ZVNKYk5lUkJIMDRFalY1bFMtZTlzQTJDcm5R?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 관광객 자금 유통 활발 - 유흥업 종사자 지역 경제 기여",
       "summary": "- 파타야에서 관광객들의 소비가 증가하며 지역 경제 활성화에 기여.\n- 유흥업 종사자들의 지출이 가족을 지원하고 지역 경제에 긍정적인 영향을 미침.\n- 파타야 메일은 관광 산업 회복에 대한 긍정적인 신호로 해석.",
       "full_translated": "파타야에서 관광객들의 소비가 증가하며 지역 경제가 활성화되고 있습니다. 특히 유흥업 종사자들이 지역에서 소비하며 가족을 지원하고 있어 긍정적인 영향을 미치고 있습니다. 파타야 메일은 이러한 현상을 관광 산업 회복에 대한 긍정적인 신호로 보고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 지역 경제 활성화 소식은 여행객들에게 긍정적인 정보이며, 지역 경제 상황을 이해하는데 도움을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Tourist money circulates in Pattaya as nightlife workers spend locally, support families - Pattaya Mail",
@@ -25291,23 +25281,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:15",
+      "collected_at": "4:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFFMSENiLTdWMXNiclFYN19qMTNZblBOQlJHbWV4a1FlNUc3M1dENTN6QTJBdG03RTRqcHg2RzZGc1hHLUZpb2w5ZmNnanM0QkdZaFpwUkNVRzNLdmowVjlJTnozM1hpcFVXcGtHSnVLWDJrNUFWQjZaaTYxNE8wWDRUaXF1YVlKaGdQY0JvR281d2xmZHRmOVdLUTcySm10ZnN4dGlHOUFMUV9HMVBpb2ZCeXB4QUhfVUlDaC1vMWNUVTRvZEE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 시아파, 이란 대사관에서 하메네이를 애도하며 태국의 중립을 촉구 - 방콕 포스트",
       "summary": "- 태국 시아파 신도들이 이란 대사관에서 하메네이 최고 지도자를 애도하며 집회를 열었습니다.\n- 그들은 태국 정부에 중동 분쟁에서 중립을 유지할 것을 촉구했습니다.\n- 이번 집회는 이란과 관련된 지역 정세에 대한 관심을 반영합니다.",
       "full_translated": "태국 시아파, 이란 대사관에서 하메네이를 애도하며 태국의 중립을 촉구 - 방콕 포스트",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 특정 종교 집단의 활동이 여행 안전에 직접적인 위협은 아니지만, 국제 정세와 관련된 시위는 잠재적인 불안 요소를 내포하고 있습니다. 여행객은 시위 발생 지역 방문을 자제하는 것이 좋습니다.",
-      "event_info": {
-        "date": null,
-        "location": "이란 대사관, 방콕",
-        "price": null,
-        "location_google_map_query": "이란 대사관 방콕"
-      },
+      "event_info": "{'date': None, 'location': '이란 대사관, 방콕', 'price': None, 'location_google_map_query': '이란 대사관 방콕'}",
       "references": [
         {
           "title": "Thai Shia mourn Khamenei at Iran embassy, urge Thai neutrality - Bangkok Post",
@@ -25316,23 +25303,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:15",
+      "collected_at": "4:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHZaTlF1Mmo0T1dscTVYVWpQYXVoUklPOVBtd29URktJTzVUd3FxYVBYRG5zX3VtTjhLR3lRYWFBdVJ6aU5iQllJYjU1WkN3Rm4wc1hHQmJ2MjJFU2ZXRTJCcnMxN29pUy1pWWQ3N3h0TWtHRmRMX21LZ2RFZTlMZlJoQnV5VWVRSkVXcnFyanA2cDJMQ1pNaXNiZnQzODFyVlFjWW43dFpuOHhWWUIyd3EtUFE?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 발리 의료 관광 인기: 저렴한 비용으로 간호사 여행객 증가",
       "summary": "- 태국과 발리는 저렴한 의료비용으로 인해 의료 관광객들에게 인기 있는 여행지임.\n- 특히 간호사 출신 여행객들이 의료 서비스와 휴가를 동시에 즐기기 위해 방문하는 사례가 늘고 있음.\n- 상세 정보는 기사 참조.",
       "full_translated": "한 간호사 출신 여행객이 태국과 발리에서 의료 서비스를 받으며 수천 달러를 절약했다고 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 의료 관광의 최신 트렌드를 보여주는 정보로, 여행객들에게 유용한 정보가 될 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "She's a solo traveler and nurse. Healthcare in Thailand and Bali saves her thousands. - Bundle",
@@ -25341,8 +25325,110 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:15",
+      "collected_at": "4:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkdJa0IyYWZORmpOS1RLRzk2NG5ZMTJfbnRSUXpQZVY0WTV2NzB3aUQ5ZXZwMDhlRFNZX3VDeXhvZUJ5REt2S2o1V3cwZHlIc0doYmI0MFdKWnRzZ2RyUUh1emd1c0NmUlM1OVlUaC1lU1ZFN1hISERBYnNEbTN5dmVsX3RBMS0tU25UTEM2endRWmcxSzdYV3BtaEluNGV2d3N5RElQeTBLNXFnQlJrd21wRXlleVJkQnA0REMzbThzNDdYa05Fa3ZUb1E4WmlNNk1lT25URlFXMDJCT2c4OU1DLXFlODg?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란, 새 최고 지도자 모지타바 카메네이 임명 발표 – 여행 안전에 미치는 영향?",
+      "summary": "- 이란 정부는 모지타바 카메네이를 새로운 최고 지도자로 임명했다고 발표했습니다.\n- 이는 아버지인 알리 카메네이의 뒤를 이은 것으로, 미국의 반발을 사고 있습니다.\n- 이란의 정치적 불안정이 고조될 경우 여행 안전에 잠재적인 영향을 미칠 수 있습니다.",
+      "full_translated": "이란 정부는 월요일 아침 모지타바 카메네이가 새로운 최고 지도자로 임명되었다고 발표했습니다. 그는 아버지인 아야톨라 알리 카메네이의 뒤를 이었습니다. 알리 카메네이는 지난 2월 28일 미국과 이스라엘의 공습으로 사망했습니다. 모지타바 카메네이는 88명의 고위 성직자로 구성된 전문가 회의에서 선출되었습니다. 도널드 트럼프 미국 대통령은 이번 임명에 대해 '용납할 수 없다'는 입장을 밝혔습니다. 이란의 정치적 상황 변화는 여행 안전에 잠재적인 영향을 미칠 수 있으므로, 여행객들은 최신 정보를 주시해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "새로운 최고 지도자 임명으로 인한 잠재적 정치적 불안정 가능성이 여행 안전에 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านประกาศ แต่งตั้ง “โมจตาบา คาเมเนอี” เป็นผู้นำสูงสุดคนใหม่",
+          "url": "https://www.thairath.co.th/news/foreign/2918702",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzmNX602WaBv.jpg"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzmNX602WaBv.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "푸껫 공항, 차량 호출 앱 활성화 금지 옹호",
+      "summary": "- 푸껫 공항이 차량 호출 앱 활성화 금지 조치를 옹호하며 논란이 일고 있습니다.\n- 공항 측은 택시 서비스의 질서 유지를 위한 불가피한 결정이라고 주장합니다.\n- 여행자들은 불편함을 호소하며 다양한 교통 옵션에 대한 요구가 커지고 있습니다.",
+      "full_translated": "푸껫 공항은 차량 호출 앱 활성화 금지를 옹호합니다. &nbsp;&nbsp;방콕 포스트",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "푸껫 공항의 차량 호출 앱 금지는 여행자들의 교통편 선택에 영향을 미치므로 정보 제공 가치가 있습니다. 하지만 안전에 직접적인 위협은 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫 공항",
+        "price": null,
+        "location_google_map_query": "Phuket Airport"
+      },
+      "references": [
+        {
+          "title": "Phuket airport defends ban on activating ride-hailing apps - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVE95akVpVDY3VUNheFJzdFBNbGllbjlPbzM3TjJBWUYydTA3TVk0N1N6QnRGbHpBUDItc1BuLU1FR2VqNWhIdHlBd2c5SzA1Z1ZaREd6eDEzUVlCMVRRMG5acTlJZ1pTOC1CVnYwX3ViMHBQa0JRUFlPRVY1QlVwUXhOcmFYS1htRGsxeFVpbkd4WmxXN3pqcGZDYTFaVVd2T3dGUmNPdmlZa2Y4N2Vj?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 북부 숨겨진 보석 7곳 (2026년): 비밀 폭포와 산악 마을",
+      "summary": "- 치앙라이 타임즈 선정, 2026년에 방문할 태국 북부의 숨겨진 명소 7곳 소개.\n- 잘 알려지지 않은 아름다운 폭포와 전통적인 산악 마을 탐험.\n- 숨겨진 자연과 문화를 경험하고자 하는 여행자에게 추천.",
+      "full_translated": "치앙라이 타임즈는 2026년에 방문할 가치가 있는 태국 북부의 숨겨진 명소 7곳을 선정했습니다. 이 목록에는 잘 알려지지 않은 아름다운 폭포와 전통적인 산악 마을이 포함되어 있습니다. 숨겨진 자연과 문화를 경험하고자 하는 여행자에게 이상적인 목적지입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "새로운 여행 정보 제공, 하지만 즉각적인 여행 계획에 큰 영향은 없음",
+      "event_info": {
+        "date": null,
+        "location": "태국 북부",
+        "price": null,
+        "location_google_map_query": "태국 북부"
+      },
+      "references": [
+        {
+          "title": "7 Hidden Gems in Northern Thailand to Visit in 2026: Secret Waterfalls and Mountain Villages - Chiang Rai Times",
+          "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFNrUG1KS2RHLWQwekI0VUlkUF83QTZIckRFRTZISDA3M1JncnNuVUpESG1qXzk5T1pIdHpYclJIelJIdVJsdmg2R1E1WjFFb05kU3ZmMXc1XzVieC1DdlRIY080bnB4cjV3emRsbzFGUlgyaWhtNnp4NGRtUUdQRXBfbw?oc=5",
+          "source": "Chiang Rai Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 인민당, 허위 정보 유포에 대해 민형사 소송 제기",
+      "summary": "- 인민당이 허위 정보에 강력 대응, 최소 3개 계정 고소 예정.\n- 온라인상의 영향력 있는 인물들이 허위 정보를 유포하여 당에 피해를 줬다고 판단.\n- 언론 및 법적 조치를 통해 허위 정보에 체계적으로 대응할 계획.",
+      "full_translated": "인민당은 허위 및 왜곡된 정보에 맞서 싸우기 위해 민형사 소송을 준비하고 있습니다. 최소 3개의 계정, 특히 온라인에서 영향력 있는 인물들이 의도적으로 허위 정보를 유포하여 당에 피해를 주고 있다고 밝혔습니다. 2569년 3월 8일, 인민당은 성명을 통해 허위 정보에 대한 체계적인 대응을 강화할 것이라고 발표했습니다. 당은 그동안 허위 정보, 거짓 정보, 왜곡, 비방으로 인해 어려움을 겪었으며, 정확한 정보를 제공하고 가해자들에게 경고했지만 효과가 없었습니다. 이는 당에 대한 오해와 불공정한 증오를 조장하려는 의도적인 행위로 판단됩니다. 앞으로 당은 2가지 중요한 차원에서 허위 정보에 대한 대응을 강화할 것입니다. 첫째, 언론 차원에서는 허위 정보에 대한 신속한 해명을 담당하는 팀을 구성하고, 더 넓은 범위의 대중에게 다가가기 위해 소통 채널과 방식을 확대할 것입니다. 또한 과거에 유포된 허위 정보에 대한 해명을 쉽게 찾을 수 있는 시스템이나 웹사이트를 구축할 것입니다. 둘째, 법적 차원에서는 특히 영향력 있는 인물에 대한 민형사 소송을 통해 자신을 보호할 권리를 행사할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "พรรคประชาชน ยกระดับสู้ จ่อฟ้องแพ่ง-อาญา 3 แอคเคาท์ สร้างข่าวปลอมใส่ร้ายป้ายสีพรรค",
+          "url": "https://www.thairath.co.th/news/politic/2918670",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC3jWCs2fl1Bb.jpg"
+        }
+      ],
+      "collected_at": "04:43",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC3jWCs2fl1Bb.jpg",
       "date": "2026-03-09"
     }
   ]
