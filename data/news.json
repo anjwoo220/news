@@ -24570,14 +24570,9 @@
       "summary": "- 중동 지역 분쟁으로 인해 발리, 몰디브뿐 아니라 동남아시아 항공편 운항에도 차질 발생.\n- 항공편 취소 또는 지연 가능성 증가, 여행 전 항공사 최신 정보 확인 필수.\n- 특히 분쟁 지역을 경유하는 항공편 이용 시 안전에 유의하고, 여행 보험 가입 권장.",
       "full_translated": "중동 분쟁이 발리, 몰디브, 그리고 동남아시아를 포함한 여러 지역의 항공편 운항에 영향을 미치고 있습니다. 글로벌 여행객들은 항공편 취소나 지연에 대비해야 하며, 여행 전 항공사의 최신 정보를 확인하는 것이 중요합니다. 특히 분쟁 지역을 경유하는 항공편 이용 시 안전에 유의하고 여행 보험 가입을 고려하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공편 운항 차질은 여행 일정에 직접적인 영향을 미치므로 높은 점수 부여. 중동 분쟁이 동남아시아까지 영향을 미친다는 점에서 여행객의 주의가 필요.",
-      "event_info": {
-        "date": null,
-        "location": "동남아시아",
-        "price": null,
-        "location_google_map_query": "Southeast Asia"
-      },
+      "event_info": "{'date': None, 'location': '동남아시아', 'price': None, 'location_google_map_query': 'Southeast Asia'}",
       "references": [
         {
           "title": "Middle East Conflict Joins Bali, Maldives, and Southeast Asia as Destinations Facing Flight Disruptions – Smart Travel Tips for Global Tourists to Stay Ahead - Travel And Tour World",
@@ -24585,22 +24580,20 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "01:22",
-      "date": "2026-03-09"
+      "collected_at": "1:22",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://www.travelandtourworld.com/news/article/middle-east-conflict-joins-bali-maldives-and-southeast-asia-as-destinations-facing-flight-disruptions-smart-travel-tips-for-global-tourists-to-stay-ahead/",
+      "source": ""
     },
     {
       "title": "파타야, 영국인 관광객 바 매니저 공격 후 체포",
       "summary": "- 파타야에서 영국인 관광객이 바 매니저를 공격하여 체포됨.\n- 두 번째 용의자는 도주 중.\n- 파타야 방문 여행객, 신변 안전에 유의 필요.",
       "full_translated": "파타야에서 발생한 사건으로, 영국인 관광객이 바 매니저를 공격하여 경찰에 체포되었습니다. 공범으로 추정되는 또 다른 용의자는 현재 도주 중입니다. 파타야를 방문하는 여행객들은 개인 소지품 및 신변 안전에 각별히 유의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생은 여행객 안전에 대한 우려를 야기하므로 높은 점수 부여. 파타야 방문객에게 주의를 환기시키는 것이 중요.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "British Tourist Arrested After Allegedly Slashing British Bar Manager at Pattaya Beer Bar, Second Suspect Flees",
@@ -24608,22 +24601,20 @@
           "source": "The Pattaya News"
         }
       ],
-      "collected_at": "01:22",
-      "date": "2026-03-09"
+      "collected_at": "1:22",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://thepattayanews.com/2024/01/05/british-tourist-arrested-after-allegedly-slashing-british-bar-manager-at-pattaya-beer-bar-second-suspect-flees/",
+      "source": ""
     },
     {
       "title": "중동 분쟁으로 동남아 및 몰디브 관광 산업 타격",
       "summary": "- 중동 지역의 불안정으로 인해 발리, 몰디브를 포함한 동남아시아 지역의 관광 산업이 영향을 받고 있음.\n- 항공편 운항 차질이 발생하며 여행객들의 불편이 가중되고 있음.\n- 해당 지역 여행을 계획 중인 여행객들은 최신 정보를 확인하고 여행 계획을 조정해야 함.",
       "full_translated": "중동 분쟁이 발리, 몰디브 및 동남아시아의 항공편 운항 차질에 합류했습니다. 이로 인해 해당 지역의 관광 산업이 타격을 입고 있으며, 여행객들은 여행 계획에 차질을 빚고 있습니다. 분쟁 상황이 악화될 경우, 더 많은 항공편이 취소되거나 지연될 수 있으므로 여행 전 반드시 최신 정보를 확인해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 운항 차질 및 관광 산업 영향은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여함. 기존 게시글과 유사하나, 최신 정보를 반영하여 업데이트 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "How Southeast Asia and Maldives have become latest tourism victims in Middle East war - MSN",
@@ -24632,23 +24623,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:22",
+      "collected_at": "1:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLVhRcmJwYnZ6ZTFma2xVeHM4YklVUnJROFl3aVZMbGhUTWpLdE1fazQ5Si1kbnVVajA3UlVDRXVlVzNyVVRBN29fNFRYNEF5OHh2Z2JGVW56bnNpeGpmNTRHYUlEazROOVBOOGJjcDNTZVN3VzVoUk9JMXJmemVySTNIVUthenNDVG9zZmg2WW84WnhPYlllM3RBckZqVjJydWg5Skh2MERqdFQwSXMtdUxJZW54Yjh6dzlOM0UzbG1Ga3hrS0F0TFJreFBzTlk?oc=5",
+      "source": ""
     },
     {
       "title": "Norse Atlantic, 런던-방콕 노선 항공편 증편 - 여행객 선택 폭 확대",
       "summary": "- Norse Atlantic 항공사, 런던-방콕 노선 항공편 증편 결정.\n- 여행객들은 더 많은 시간대와 좌석 선택 가능.\n- 저가 항공사 경쟁 심화로 항공권 가격 인하 기대.",
       "full_translated": "Norse Atlantic 항공사가 런던-방콕 노선에 항공편을 추가하면서 여행객들에게 더 많은 선택권을 제공합니다. 증편된 항공편은 다양한 시간대와 좌석 옵션을 제공하며, 저가 항공사 간의 경쟁 심화를 통해 항공권 가격 인하를 기대할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "항공편 증편은 여행객의 편의성을 높이고, 가격 경쟁을 유발할 수 있으므로 중간 점수 부여. 런던 출발 여행객에게 유용한 정보.",
-      "event_info": {
-        "date": null,
-        "location": "방콕",
-        "price": null,
-        "location_google_map_query": "Bangkok"
-      },
+      "event_info": "{'date': None, 'location': '방콕', 'price': None, 'location_google_map_query': 'Bangkok'}",
       "references": [
         {
           "title": "Norse Atlantic Expands London–Bangkok Routes with Extra Flights – Is This the Game-Changer Travelers Have Been Waiting For? - Travel And Tour World",
@@ -24656,22 +24644,20 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "01:22",
-      "date": "2026-03-09"
+      "collected_at": "1:22",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://www.travelandtourworld.com/news/article/norse-atlantic-expands-london-bangkok-routes-with-extra-flights-is-this-the-game-changer-travelers-have-been-waiting-for/",
+      "source": ""
     },
     {
       "title": "동남아시아 음악 관광 활성화 - 여행 및 관광 월드",
       "summary": "- 동남아시아의 음악 관광 산업이 성장하고 있습니다.\n- 다양한 음악 축제와 이벤트가 관광객 유치에 기여합니다.\n- 태국은 음악 관광의 주요 목적지 중 하나입니다.",
       "full_translated": "동남아시아 음악 관광 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "동남아시아 여행 정보 제공. 음악 축제 정보는 여행객 유치에 도움이 될 수 있음",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Southeast Asia music tourism - Travel And Tour World",
@@ -24680,7 +24666,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:22",
+      "collected_at": "1:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2VzUjFhUVN3UkFOamFiUFNSSEgzWHdIOEtZVVVRMk95ZkpJeEpHNGFMMENENHdPaEVQbU9VSDFnY2I3ZU00VHdDQUhTTGtpTTc0SVNhdHZnTDl5YmU2OUd6aXR3VDZfLXE2MTNnTF94aDlCdlltN3JNQldDMnF1WlF5X0x1blRh?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야 경찰, 한국인 관광객 강도 사건으로 트랜스젠더 여성 체포",
+      "summary": "- 파타야에서 한국인 관광객을 상대로 강도 행각을 벌인 트랜스젠더 여성이 경찰에 체포됨.\n- 용의자는 피해자의 소지품을 강탈한 혐의를 받고 있으며, 현재 조사가 진행 중임.\n- 관광 경찰은 외국인 대상 범죄 예방 및 단속을 강화할 방침.",
+      "full_translated": "파타야 경찰은 한국인 관광객을 상대로 강도 행각을 벌인 트랜스젠더 여성을 체포했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "외국인 대상 범죄는 여행 안전에 직접적인 위협이 되므로 높은 점수를 부여함. 특히 한국인 대상 범죄이므로 정보 제공 가치가 높음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya police arrest transgender woman for robbing South Korean tourist - MSN",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQm5ESGpYcW9vb1gzSS1rV2VIc2lacU9mcjYya1FZc1phZXViVGliQ0hmcXRtNktJQmdxYlo5Y3BxNWVjcTdDQVpQdkZBRGowMVRxakFIQ2duaWE2Q2JpbnVaRGYyWXNLLV9aUmo3aGtZaFVNcGhMV25ub1RoZXNjNVpkYnZDVzNoMHRMTzVMLXRMODNYZ2ZMM0pRTGpfSFZRS1hDN1RrdnliTks5OWFyX3ZGVTQ5ZVVwX3JpQjFR?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "이란, 새 지도자 선출 관련 트럼프 발언 - 여행 안전에 미치는 영향?",
+      "summary": "- 트럼프 전 미국 대통령, 이란 새 지도자가 자신의 지지 없이는 오래가지 못할 것이라고 발언.\n- 이란은 이미 새 지도자를 선택했으나 아직 공개하지 않음.\n- 중동 지역 불안정 심화 가능성, 여행객 안전에 잠재적 영향.",
+      "full_translated": "도널드 트럼프는 이란의 다음 최고 지도자가 자신의 지지 없이는 오래가지 못할 것이라고 경고했습니다. 이란 당국은 이미 새 지도자를 선택했지만 아직 누구인지 공개하지 않았습니다. 2069년 3월 8일, 도널드 트럼프 미국 대통령은 이란의 다음 최고 지도자가 자신의 승인 없이는 오래가지 못할 것이라고 말했습니다. 이란은 수십 년 동안 통치해 온 아야톨라 알리 카메네이의 후계자 발표를 준비하고 있으며, 그는 2월 28일 공습으로 사망했습니다. 트럼프는 ABC 뉴스와의 인터뷰에서 \"그는 우리의 승인을 받아야 할 것입니다.\"라고 말했습니다. \"만약 그가 우리의 승인을 받지 못한다면 그는 오래가지 못할 것입니다.\" 이전에도 트럼프는 자신이 이란의 다음 지도자 선정에 관여하고 싶다고 밝혔습니다. 왜냐하면 10년마다 똑같은 문제를 처리하고 싶지 않기 때문입니다. 그는 지난 토요일 에어포스원에서 기자들에게 \"우리는 자국을 전쟁으로 이끌지 않을 대통령을 선택하고 싶습니다.\"라고 말했습니다. 트럼프는 CNN과의 인터뷰에서 이란의 종교 지도자에게도 문을 열어두고 있다고 말했습니다. \"제 생각에는 그 사람이 누구냐에 달려 있습니다. 저는 종교 지도자를 싫어하지 않습니다. 저는 많은 종교 지도자들을 상대해 왔고 그들은 훌륭합니다.\"",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 정세 불안은 여행객 안전에 잠재적 영향을 미칠 수 있으므로 관련 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ลั่น ผู้นำใหม่อิหร่านอยู่ได้ไม่นาน หากตัวเขาไม่สนับสนุน",
+          "url": "https://www.thairath.co.th/news/foreign/2918698",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9dvC5WvFO4P2.jpg"
+        }
+      ],
+      "collected_at": "01:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9dvC5WvFO4P2.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "호르무즈 해협에서 UAE 예인선 폭발 후 침몰, 선원 3명 실종",
+      "summary": "- UAE 선적 예인선이 호르무즈 해협에서 폭발 후 침몰하여 선원 3명이 실종됨.\n- 보안 회사는 이 선박이 미사일 공격을 받았다고 밝혔으며, 이는 컨테이너선을 돕던 중 발생함.\n- 실종된 선원은 모두 인도네시아 국적이며, 생존자 4명 중 1명은 화상 치료 중.",
+      "full_translated": "UAE 선적 예인선이 호르무즈 해협에서 침몰하여 선원 3명이 실종되었습니다. 사고는 3월 6일 금요일에 발생했으며, 인도네시아 외무부는 실종된 선원들이 모두 인도네시아인이라고 밝혔습니다. 사고 선박 '무사파 2'에는 인도네시아인, 인도인, 필리핀인 등 총 7명의 선원이 탑승하고 있었습니다. 생존자 중 한 명은 오만 카삽의 병원에서 화상 치료를 받고 있으며, 나머지 3명은 현지 당국에 의해 수색 중입니다. 선박 침몰 전 폭발로 화재가 발생했으며, 정확한 원인은 조사 중입니다. 보안 회사 '뱅가드'는 해당 예인선이 몰타 선적 컨테이너선 '사핀 프레스티지'를 돕던 중 미사일 공격을 받았다고 밝혔습니다. 2월 28일 미국-이스라엘과 이란 간의 전쟁이 시작된 이후 호르무즈 해협을 통과하는 선박에 대한 공격이 여러 차례 발생했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 분쟁으로 인한 해상 안전에 대한 우려를 야기할 수 있으며, 여행 경로 변경 가능성이 있음. 직접적인 여행 제한은 아니지만 잠재적 위험 요소.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "เรือลากจูง UAE ระเบิดก่อนจมในช่องแคบฮอร์มุซ ลูกเรือสูญหาย 3 คน",
+          "url": "https://www.thairath.co.th/news/foreign/2918693",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9egMfyn1y3f0.jpg"
+        }
+      ],
+      "collected_at": "01:56",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9egMfyn1y3f0.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "Miss Tiffany 2026, 방콕 Thai Teaw Thai 관광 박람회 밝힌다 - 파타야 메일",
+      "summary": "- Miss Tiffany 2026 스타들이 방콕에서 열리는 Thai Teaw Thai 관광 박람회에 참가하여 행사를 빛낼 예정입니다.\n- 이 박람회는 태국 관광 산업을 활성화하고 다양한 볼거리를 제공합니다.\n- 행사에는 다양한 엔터테인먼트와 볼거리가 준비되어 있어 관광객들에게 즐거운 경험을 선사할 것입니다.",
+      "full_translated": "Miss Tiffany 2026 스타들이 방콕에서 열리는 Thai Teaw Thai 관광 박람회에 참가하여 행사를 빛낼 예정입니다. 이 박람회는 태국 관광 산업을 활성화하고 다양한 볼거리를 제공합니다. 행사에는 다양한 엔터테인먼트와 볼거리가 준비되어 있어 관광객들에게 즐거운 경험을 선사할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광 박람회 정보는 여행객들에게 유용할 수 있으나, 필수적인 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 Thai Teaw Thai 관광 박람회"
+      },
+      "references": [
+        {
+          "title": "Miss Tiffany 2026 stars set to light up Thai Teaw Thai Tourism Fair in Bangkok - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdTVWNXM2eVItaHpKcFZpYmxpSENpNHhPeXB6WTZSbHZRQ3VzUVVybVg0TlJXdkNTYTI5Q3J4OExWNzN3dGxSdktFWmtzOF9fT1ZucU1JZmlaMHh1QkhPeDFCX3RqTXZDbXdfT3hJUjdsQ1NocGJ4Tmg0NlVhdFlRUVRvRUtsMDBrUUxiMFg3VFlaT2NXS2FlS3pRTFd0Y3h3Qm1ZS0daVjFBRVBDLWVMYXk4Q3NOTlhUVm1CQUg4TW9zWUllQWRMcA?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "전쟁 충격 완화 - 방콕 포스트",
+      "summary": "- 방콕 포스트는 전쟁 충격 완화에 대한 기사를 게재했습니다.\n- 구체적인 내용은 기사 전문을 참조하십시오.\n- 여행 안전에 미치는 영향은 분석이 필요합니다.",
+      "full_translated": "전쟁 충격 완화&nbsp;&nbsp;방콕 포스트",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "중동 분쟁이 동남아시아 항공편 운항 차질에 영향을 미칠 수 있다는 기존 뉴스 업데이트 필요. 여행객에게 잠재적 영향 존재.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Easing the shock of war - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUkFoaFJrZ19oWFB4ckwzMzR3eGVkb2UtQTlnMThRUmJkVGROMjduMzlLdmRWQ1RkS0FPWHlZZ0RuUVFyMHFiaS1laGFfQkVDUnVPSW0xWnhYbG5nQjB5VTFaczUwc1pWdUoxQ3RrcERmVmtzTHdLVmdibVdLdU5zWFVfYXFKTVhxaWI3Tw?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-09"
     }
