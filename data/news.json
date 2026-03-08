@@ -24021,14 +24021,9 @@
       "summary": "- 태국은 캄보디아 및 인도 방문객을 위한 입국 규정을 안내합니다.\n- 안전하고 원활한 여행 경험을 위한 완벽한 정보를 제공합니다.\n- 여행 및 관광 세계에서 소식을 전합니다.",
       "full_translated": "태국은 캄보디아 및 인도 방문객을 위한 입국 규정을 안내합니다. 안전하고 원활한 여행 경험을 위한 완벽한 정보를 제공합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자 및 입국 규정 관련 정보는 여행객에게 중요하며, 특히 캄보디아, 인도 국적 여행객에게는 필수 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Navigating Thailand’s Immigration Rules for Cambodian and Indian Visitors: Complete Insights for Tourists Planning Safe and Smooth Travel Experiences - Travel And Tour World",
@@ -24039,21 +24034,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVjRFdjQ5TXplVE1FLUdWSVpOd1ZGTE55T0FGTjFHeXRjNURrU2lBalBWUkk3cG5kQkhoci1rLUhNbEd3b3pXSml4UDRxWUlnOF96QzdDdVlWRlNOV1dJRzB6RHJNZkhqTXcwTTNVU3BVU2RiWHNTR1FYVVhEamV0ajB1X2pKVmJQTm9IZ0xCR0ZCUTlXSHJGQk9EMTVmbkNtcGEtRnRaNEpSbVl0emVGeTllcXFaQjlKa1VPMF9PRkNMdTlFQm50QnhULU40R19wZmtJY1VMLVQ0WlQ0cWo1czlPR3dMa3pfSS1uUlhfRVhmTWxoU2RncVcxaG9xZlNmOGxpdFcxQy02T2RNZ0xSNFQzaHhyYmlfYXEtRUlpeUJpUQ?oc=5",
+      "source": ""
     },
     {
       "title": "UK, 중동 발 수천 명의 여행객 수송에 동참",
       "summary": "- 카타르, 에미레이트, 에티하드, 인디고 항공이 UAE, 오만, 사우디아라비아에서 60편의 귀국 항공편을 운항\n- 영국, 미국, 캐나다, 스페인, 독일, 네덜란드, 태국, 인도 등도 여행객 수송에 참여\n- 중동에 발이 묶인 여행객들의 귀국 지원",
       "full_translated": "영국이 미국, 캐나다, 스페인, 독일, 네덜란드, 태국, 인도 등과 함께 중동에서 발이 묶인 수천 명의 여행객을 수송하는 데 동참했습니다. 카타르, 에미레이트, 에티하드, 인디고 항공은 UAE, 오만, 사우디아라비아에서 60편의 귀국 항공편을 운항합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국도 여행객 수송에 참여하고 있어, 국제선 이용객에게 간접적인 영향이 있을 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "UK Joins US, Canada, Spain, Germany, Netherlands, Thailand, India and More in Receiving Thousands of Trapped Travelers from the Middle East as Qatar, Emirates, Etihad and IndiGo Take Off with Sixty Repatriation Flights from UAE, Oman, Saudi Arabia: N - Travel And Tour World",
@@ -24064,21 +24056,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOMDFUTjg0SU93UDVrSUVlOXpqamtzLWFob3FUT2ttRG9qVVB5bEJsTjNCTnNtVzNFVW9QY2JNNjhqbDJudk10VUdnbDdocWd4YWwtNHBHemFINVVNeFlBSDkxODNLeGM1OU40Y3ZudGVpcHUxMDF4UXduUXl5RFE3aU5WMHFiQUlZYUd4eHhUNG5IVVpDNU5DMzhOZlNvRjRFZ2s0Y2dRbG54OHFPY2RWMU5BcHQ1Q3RTa01IWXBRcEF2ckVvck1MRE5uVy16UVdZOElLeEdyeTBQTEtwSzhMOUQwUmtEUlRVTVloYXQyWHZPTVJfVmZqby1KbVh3YWhGY0N2OWtKMDBSblpuWnZJX3ZoZUJCUW1NdVVsRHpxQkVsbkUzNmxNT2ZGOUo3R0ZGNG9qMUZjb0NuOHh0bXRJWVlFaTE0STZLUTFrcldCZ2U1Q3NFMWNzM1FTbGRUQQ?oc=5",
+      "source": ""
     },
     {
       "title": "깐짜나부리, 쌍카라부리 지역 연료 구매 혼란: 가격 정상, 구매 제한",
       "summary": "- 미국-이란 갈등으로 인한 불안 심리가 작용한 듯.",
       "full_translated": "깐짜나부리, 쌍카라부리 지역에서 연료를 구매하려는 사람들로 혼란이 빚어지고 있다. 주유소 운영업체는 가격은 정상적으로 판매하고 있지만, 차량당 1,000바트, 개인당 1갤런으로 구매를 제한하고 있다고 밝혔다. 2069년 3월 8일, 깐짜나부리 주, 쌍카라부리 지역의 한 주유소에는 많은 사람들이 차량과 오토바이, 연료통을 가지고 연료를 사기 위해 줄을 섰다. 이로 인해 주유소 안은 물론 323번 도로까지 줄이 200미터 넘게 이어져 경찰이 교통 정리까지 해야 했다. 현지 택시 운전사 한 명은 미국-이란 갈등으로 인해 많은 사람들이 연료를 사기 위해 몰려들고 있다고 전했다. 주유소 운영자는 현재 연료를 판매하고 있지만, 구매량을 제한하고 있다고 밝혔다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "연료 구매 혼란으로 인한 여행 불편 가능성. 지역 이동에 영향.",
-      "event_info": {
-        "date": "2069-03-08",
-        "location": "깐짜나부리, สังขละบุรี",
-        "price": "차량당 1,000바트 제한",
-        "location_google_map_query": "สังขละบุรี 주유소"
-      },
+      "event_info": "{'date': '2069-03-08', 'location': '깐짜나부리, สังขละบุรี', 'price': '차량당 1,000바트 제한', 'location_google_map_query': 'สังขละบุรี 주유소'}",
       "references": [
         {
           "title": "สังขละบุรี คนแห่เติมน้ำมัน ผู้ประกอบการเผยขายราคาปกติ แต่จำกัดรถคันละ 1,000 บาท",
@@ -24089,21 +24078,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9nr70fql9yap.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/2918683",
+      "source": ""
     },
     {
       "title": "필리핀 관광 당국, 국내선 항공료 인하 추진",
       "summary": "- 필리핀 관광 당국은 국내선 항공료가 홍콩, 태국, 베트남 노선보다 비싸다는 여행객들의 불만에 대응하여 항공료 인하를 추진하고 있습니다.\n- 이는 필리핀 국내 관광 활성화를 위한 노력의 일환입니다.\n- 더 저렴한 항공료를 통해 더 많은 여행객들이 필리핀의 다양한 지역을 방문할 수 있도록 장려할 계획입니다.",
       "full_translated": "필리핀 관광 당국은 여행객들이 홍콩, 태국, 베트남 노선과 가격을 비교하면서 국내선 항공료 인하를 추진하고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "필리핀 여행에 영향을 줄 수 있는 항공료 관련 정보이며, 태국 여행 정보는 아니지만 연관성이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Philippines Tourism Authorities Push For Greater Domestic Flight Affordability As Travelers Compare Prices With Hong Kong Thailand Vietnam Routes - Travel And Tour World",
@@ -24114,21 +24100,18 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxORk1Ka1I3OFB6YUlkY0VfdUl5MVdEbjItc1k4UUd5R0R6ZTBxVVYwc2VsTV9vSHNqSXQ3OVlQZm9Cd2g1VkszWXFQOUU3ZjBFZjJGS04yZ0FEekZpZkQyT2h4TlFqYWZRd2JBNFBHMFBWV2VyeDlKMnhOTVNMV0xsR2ZGcUxHM0Z1TnR5VEc3UXFucWEwSDJ3bW0xdXRURFpVc0xRZVlzaVBqT3Z1UkVRdWY0c2JHbzgzM0xscHY1OThQNks4MmJ1SkNMenR1UDA4cmJiVE1oQVNCT1laanBkVG03VUM3ckFFdXhlZl8tSzRsNnM2QTlDbkREQmdSb3BPTlcyYjhiTzFDS2M0aVdUNjhSbkJJa05xMHZSRVY5Zw?oc=5",
+      "source": ""
     },
     {
       "title": "걸프 해역 긴장 고조, 아시아 및 태국 관광 및 시장에 미치는 영향 - 파타야 메일",
       "summary": "- 걸프 해역의 긴장 고조가 아시아 지역, 특히 태국 관광 산업과 시장에 미치는 영향 분석.\n- 지정학적 리스크 증가로 인한 관광객 감소 및 투자 심리 위축 가능성.\n- 태국 정부의 대응 전략 및 관련 산업계의 대비책 모색 필요.",
       "full_translated": "현재 걸프 해역의 긴장이 고조됨에 따라 아시아 지역, 특히 태국 관광 및 시장에 미치는 영향에 대한 분석이 필요합니다. 지정학적 리스크 증가는 관광객 감소와 투자 심리 위축을 야기할 수 있으며, 태국 정부와 관련 산업계는 이에 대한 대비책을 모색해야 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "걸프 해역의 긴장 고조가 간접적으로 태국 관광 산업에 영향을 미칠 수 있다는 점을 고려, 정보 제공 가치 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Gulf escalation and its implications for tourism and markets in Asia and Thailand - Pattaya Mail",
@@ -24139,7 +24122,9 @@
       ],
       "collected_at": "21:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRXI5XzdEQWdKbXdaZjcwaW52NXRXc1l5NVB1ZTMxcHZLR2taaW5WME0zYlBZSXYxN0tuOFhxUUtUN1A2VWlNNXdlQjFTS25MT2tGVzY1S2UtMm1QQ1A4c0lQVEpBWWt2dk9pMERaZGVhdmtibm9IbERUZGhoLTdjZy1NbE1ER3Z3ZjhQel9KNUdkSlRFYjNJWkZzcktPcFg4SVM0ZGtmZC1TRE9jOTVlOXhfMVBZaFZtQVZXRDBxekxmQU5UcHc2cFZDdmw?oc=5",
+      "source": ""
     }
   ]
 }
