@@ -23515,14 +23515,9 @@
       "summary": "- 파타야 해변에서 외국인 관광객들이 알몸으로 수영하는 모습이 포착되어 논란.\n- 이른 아침, 구경꾼들이 있는 가운데 남녀 커플이 옷을 벗고 해변에 들어감.\n- 태국 법률상 공공장소 노출은 불법이며, 부적절한 행동이라는 비판이 거세다.",
       "full_translated": "파타야 뉴스에 따르면 3월 6일 새벽 5시경 파타야 해변 도로의 옛 선착장 근처에서 외국인 관광객들이 알몸으로 수영하는 사건이 발생했습니다. 영상에는 두 쌍의 남녀로 보이는 이들이 주변에 구경꾼들이 있는 가운데 태연하게 물에 들어가는 모습이 담겨 있습니다. 33세의 오토바이 택시 운전사인 나트타웃 포니암 씨가 손님을 기다리던 중 이 장면을 촬영했으며, 영상에는 남성 2명이 옷을 모두 벗고 알몸으로 바다에 들어가는 모습이 담겨 있습니다. 여성들은 겉옷만 벗고 속옷 차림으로 물놀이를 즐겼습니다. 목격자들은 몰려들었고, 많은 이들이 가족 중심의 관광지에서 벌어진 공공장소 노출에 경악했습니다. 나트타웃 씨는 이 관광객들이 주변 시선에도 아랑곳하지 않고 즐거워했다고 전했습니다. 이번 사건은 현지 주민, 다른 관광객, 소셜 미디어 사용자들로부터 강한 비판을 받고 있으며, 이들은 이러한 행동이 태국의 대표적인 해변 관광지인 파타야에서 부적절하다고 주장하고 있습니다. 태국 법률상 공공장소 노출은 불법이며, 이번 사건으로 공공장소에서 현지 규범과 예의를 존중해야 한다는 목소리가 다시 높아지고 있습니다. 경찰의 개입은 아직 보고되지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공공장소에서의 부적절한 행동은 태국 법률에 위반될 수 있으며, 관광객들에게도 주의가 필요함을 알림. 법적 문제 발생 가능성 상기.",
-      "event_info": {
-        "date": "2024-03-06",
-        "location": "파타야 해변 도로 옛 선착장 근처",
-        "price": null,
-        "location_google_map_query": "Pattaya Beach Road"
-      },
+      "event_info": "{'date': '2024-03-06', 'location': '파타야 해변 도로 옛 선착장 근처', 'price': None, 'location_google_map_query': 'Pattaya Beach Road'}",
       "references": [
         {
           "title": "Foreign Tourists Skinny Dip on Pattaya Beach in Full View of Shocked Onlookers",
@@ -23533,21 +23528,18 @@
       ],
       "collected_at": "18:14",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17729674115421587086898981540982.jpg?v=1772967487",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://thepattayanews.com/2026/03/08/foreign-tourists-skinny-dip-on-pattaya-beach-in-full-view-of-shocked-onlookers/",
+      "source": ""
     },
     {
       "title": "치앙마이에서 실종된 젊은 웨이트리스 살해된 채 발견",
       "summary": "- 22세 웨이트리스 유파, 근무지에 나오지 않아 고용주가 집에서 발견\n- 옷이 부분적으로 벗겨진 채 침대에 누워 있었으며, 전기 코드가 끊어진 헤어 스트레이트너 발견\n- 경찰은 금요일에 사망한 것으로 추정하고 있으며, 과거에 연락했던 남성이 스토킹했을 가능성을 조사 중",
       "full_translated": "치앙마이 - 경찰은 항동 지역의 임대 주택에서 부분적으로 옷이 벗겨진 채 발견된 22세 웨이트리스의 사망을 조사하고 있습니다. 그녀의 시신은 금요일 근무에 나오지 않아 토요일에 고용주에 의해 발견되었습니다. 경찰은 토요일 오후 4시경 남프래 구역의 288/10번지로 출동했습니다. 웨이트리스 유파(프래)의 시신은 침대에 있었습니다. 그녀는 파란색 파자마를 입고 있었고, 바지는 무릎 아래로 내려져 있었습니다. 침대 옆에는 전기 코드가 끊어진 헤어 스트레이트너가 있었습니다. 젊은 여성의 모자와 숄더백은 임대 주택 앞 도로의 쓰레기 더미에서 발견되었습니다. 경찰은 여성이 금요일에 사망한 것으로 추정했습니다. 그녀의 시신은 집에서 약 800미터 떨어진 곳에 식당을 운영하는 고용주인 여성에 의해 발견되었습니다. 고용주는 경찰에 유파가 그녀의 식당에서 몇 달 동안 일했다고 말했습니다. 그녀는 목요일 밤 11시 30분에 가게가 문을 닫을 때 살아있는 그녀를 마지막으로 보았습니다. 금요일에 유파는 결근했고 전화를 받지 않았습니다. 토요일에 그녀는 무슨 일이 있는지 확인하기 위해 집으로 갔다가 시신을 발견했습니다. 그녀는 유파가 예쁜 여성이었고 여러 남성이 그녀에게 접근했다고 말했습니다. 유파는 오래 전에 이야기를 나눴던 남성이 그녀를 괴롭히고 있다고 말했고, 그 남성은 제이 또는 제임이라고만 알려졌습니다. 사망한 여성의 부모는 토요일 밤 외동딸의 시신을 확인하기 위해 위앙행 지역의 집에서 약 3시간 동안 이동했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객 안전에 대한 잠재적 위협 (범죄). 지역 사회에 영향을 미치는 사건.",
-      "event_info": {
-        "date": "2026-03-08",
-        "location": "치앙마이 항동 지역",
-        "price": null,
-        "location_google_map_query": "Hang Dong district, Chiang Mai"
-      },
+      "event_info": "{'date': '2026-03-08', 'location': '치앙마이 항동 지역', 'price': None, 'location_google_map_query': 'Hang Dong district, Chiang Mai'}",
       "references": [
         {
           "title": "Young waitress found slain after missing from work",
@@ -23558,21 +23550,18 @@
       ],
       "collected_at": "18:14",
       "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212475_260308165230_700.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.bangkokpost.com/thailand/general/3212475/young-waitress-found-slain-after-missing-from-work",
+      "source": ""
     },
     {
       "title": "3월 8일 태국 유류 가격 업데이트: 휘발유, 가솔린, 디젤 가격 정보",
       "summary": "- 3월 8일, 태국 내 휘발유, 가솔린, 디젤 유류 가격 업데이트 정보입니다.\n- PTT, Bangchak, PT, Caltex, Shell 주유소의 최신 가격을 확인하세요.\n- 하이 프리미엄 디젤 S는 45.64 바트/리터입니다.",
       "full_translated": "3월 8일자 태국 내 유류 가격 정보입니다. 벤진, 가솔린, 디젤 가격이 업데이트되었으며, PTT, Bangchak, PT, Caltex, Shell 주유소의 최신 리터당 가격을 확인하세요. \n\n주요 가격 정보:\n* 하이 프리미엄 디젤 S: 45.64 바트/리터\n* 하이 디젤 S: 29.94 바트/리터\n* 하이 프리미엄 97: 49.54 바트/리터\n* 가솔린 E85S EVO: 26.29 바트/리터\n* 가솔린 E20S EVO: 28.34 바트/리터\n* 가솔린 91S EV: 30.18 바트/리터\n* 가솔린 95S EVO: 30.55 바트/리터\n* 디젤: 29.94 바트/리터\n* 가솔린 E85: 26.29 바트/리터\n* 가솔린 E20: 28.34 바트/리터\n* 가솔린 91: 30.18 바트/리터\n* 가솔린 95: 30.55 바트/리터\n* 벤진: 39.14 바트/리터\n* 슈퍼파워 디젤: 43.44 바트/리터\n* 슈퍼파워 가솔린 95: 40.04 바트/리터\n* 쉘 퓨얼세이브 가솔린 E20: 29.44 바트/리터\n* 쉘 퓨얼세이브 가솔린 91: 31.28 바트/리터\n* 쉘 퓨얼세이브 가솔린 95: 31.85 바트/리터\n* 쉘 V-파워 가솔린 95: 49.84 바트/리터\n* 쉘 퓨얼세이브 디젤: 29.94 바트/리터\n* 쉘 V-파워 디젤: 49.84 바트/리터\n* 디젤: 29.94 바트/리터\n* 가솔린 95: 30.55 바트/리터\n* 가솔린 91: 30.18 바트/리터\n* 벤진: 3",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "렌터카 이용 여행객에게 유용한 정보이며, 매일 업데이트되는 정보이므로 포함.",
-      "event_info": {
-        "date": "2069-03-08",
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': '2069-03-08', 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ราคาน้ำมันวันนี้ 8 มีนาคม 2569 เช็กราคาน้ำมันทุกชนิด ล่าสุดลิตรละกี่บาทแล้ว",
@@ -23583,21 +23572,18 @@
       ],
       "collected_at": "18:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KC3qoVG6TEsnQ.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/society/2918671",
+      "source": ""
     },
     {
       "title": "태국 관광 수입, 상위 지역에 위험하게 집중 - 전 TAT 국장 경고",
       "summary": "- 태국 관광 수입이 일부 주요 지역에 지나치게 집중되어 있다는 경고가 나왔습니다.\n- 이는 관광 산업의 불균형을 심화시키고, 지역 경제 발전에 악영향을 미칠 수 있다는 우려를 제기합니다.\n- 전 태국 관광청(TAT) 국장은 이러한 문제점을 지적하며, 관광 수입 다변화를 위한 정책 마련을 촉구했습니다.",
       "full_translated": "태국 관광 수입, 상위 지역에 위험하게 집중 - 전 TAT 국장 경고\n\n네이션 태국",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "관광 산업의 불균형 심화 가능성, 장기적으로 여행 경험에 영향. 새로운 핫플레이스 발굴보다는 기존 인기 지역 쏠림 현상에 대한 우려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s tourism income dangerously concentrated in top provinces, ex-TAT chief warns - Nation Thailand",
@@ -23608,21 +23594,18 @@
       ],
       "collected_at": "18:14",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XQlpDX1hLLWx5QW9SX0V4UUlPV3A4U1VrWjZZY1RhakhCNTNCSFo2NEh5T0p6WmRlZXctdGVRVUdJREd3V1NLazJsM3piU3hhZWs3RE1ibW1qdDR6aVlWRlJn?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 산업, 소득 불평등 심화 직면",
       "summary": "- 태국 관광청(TAT) 전 총재, 관광 산업 내 소득 불평등 심화 경고.\n- 관광 부문 회복에도 불구하고 지역 및 계층 간 불균형 심화.\n- 지속 가능한 관광 모델 구축 및 소득 재분배 필요성 강조.",
       "full_translated": "태국 관광 산업은 현재 소득 불평등 심화에 직면해 있습니다. 전 태국 관광청(TAT) 총재는 이에 대한 모든 정보를 제공합니다.\n\n태국 관광 산업은 전 태국 관광청(TAT) 총재에 따르면 소득 불평등이 심화되고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "관광객에게 직접적인 즉각적인 영향은 없으나, 장기적으로 관광 만족도에 영향을 줄 수 있는 소득 불균형 관련 뉴스.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourism Sector Now Faces Growing Income Inequality, Says Former TAT Governor, Everything You Need to Know - Travel And Tour World",
@@ -23632,6 +23615,83 @@
         }
       ],
       "collected_at": "18:14",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPT3otTnFjVURzLXRNT2tvNGFsNzlzRThmdGNqUnNKR0E2cTI4Mmltc0phSXUycngxcl82VllPR0F6bzc5NlVFcFlNWVFqTlFabXUySHRWTGQzWWFaenF2ODlORVJRNUJVS3NDOUNfdWtEY3F4SkpQdmlOSEI2WFJhNTFGX3Rhb3I5dVNWTWJvdWpXeUI0OWtPeFRMeEtIc3FPRTg3aF9DOEdHZGFGeEtvZW5YVjhHMDZZalhKN1VWOHFCZ0hWLW5nMVhINFlXTTJSNWdwV0ZYMmxxd1dfRU9lSzVVYjRaWlRpZ1BXSFNBZ2FTTmFp?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야, 2026년 Tomorrowland 개최 확정으로 관광 성장 기대",
+      "summary": "- Tomorrowland 2026이 파타야에서 개최되어 전 세계 관광객 유치 기대.\n- 태국 관광 산업 성장에 기여할 것으로 예상됨.\n- EDM 페스티벌 개최로 파타야의 위상 강화.",
+      "full_translated": "태국 관광, Tomorrowland 2026 파타야 개최로 성장 기대. 전 세계에서 방문객을 유치하는 세계적인 EDM 페스티벌 개최.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "대규모 국제 행사 개최로 파타야를 찾는 관광객 증가 예상. 숙박, 교통, 관광 명소 등에 영향.",
+      "event_info": {
+        "date": "2026",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Set for Growth as Tomorrowland 2026 Brings World-Class EDM Festival to Pattaya, Attracting Visitors from Across the Globe - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPYTJTY2NlcGdxR09ac1pxQVdWNlR4Y01QdzFCQ3pRWUZuY042SGN6LV9GS1UtOHpTVVRzUVJSWENDOTl2T3NMd3NlYmJqcjBCbmJlRUUxdUNWanczbGZ6cUtZSmtaSXUyaV9MbnVJelRNakEydkVUbkd0c0NyWFBFTldESTl3cVNieFEyZzdvUUNCWC0wQi1VY3dsUm84U3hZQTNONDA4eVRscTBmNlB1VHlBOXc0Q282N1g5N19QQUVMNjJlNGctOTR2S0VNQUVIQ2hVNHN4VFZMNVRVUWZLS0QxWXpoc3FfMEI4eDlYUTlMQS1ILWdpYURVWGZDU190cXpCRkVReW1nYWQzOXFUWHMwdzVtdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 바깥에서 벌어진 난투극, 보디빌더가 관광객 2명 가격",
+      "summary": "- 태국 바에서 보디빌더가 관광객 2명을 때려눕히는 난투극 발생.\n- 정확한 위치와 사건 경위는 아직 조사 중.\n- 여행객 안전에 영향을 미칠 수 있으므로 주의 필요.",
+      "full_translated": "태국 바깥에서 벌어진 난투극, 보디빌더가 관광객 2명을 가격 - Fitness Volt",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객 대상 폭력 사건 발생. 파타야 워킹 스트리트 난투극과 유사 사건으로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "태국 바 외부",
+        "price": null,
+        "location_google_map_query": "태국 바"
+      },
+      "references": [
+        {
+          "title": "Bodybuilder Knocks Out 2 Tourists in Wild Street Fight Outside Thailand Bar - Fitness Volt",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tN0wyUTJfN2RPWS15Q2Q0elFyM3UyUm5BMnJ1NEtFNE9NeWlwUnZPbFZ4VHBwSUlIYlUteVlZM1pIbXFBVHpFdTRtN09yNmRvbG5kU0o4ZGtNVGV1ejlzRDdTbXJzLVJiSXplSXVkdEdMLXVRWXc?oc=5",
+          "source": "Fitness Volt",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "중동 분쟁 장기화, 태국 관광 산업의 불확실성 증가",
+      "summary": "- 중동 지역 분쟁의 장기화로 인해 장거리 여행에 대한 불안감이 커지고 있습니다.\n- 태국 관광 산업은 이에 따라 심각한 변동성에 직면할 수 있습니다.\n- 특히 유럽 및 중동 지역 관광객 감소가 예상되며, 새로운 시장 개척이 중요해지고 있습니다.",
+      "full_translated": "태국 관광 산업은 중동 분쟁으로 인해 심각한 변동성에 직면해 있습니다. 장거리 여행에 대한 불안감이 커지면서, 태국을 찾는 관광객 수에 영향을 미칠 수 있습니다. 특히 유럽 및 중동 지역에서 오는 관광객의 감소가 예상됩니다. 이에 따라 태국 관광 당국은 새로운 시장을 개척하고, 관광객 유치를 위한 다각적인 노력을 기울여야 할 것입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 분쟁으로 인한 장거리 여행 심리 위축은 태국 관광 산업에 부정적인 영향을 미칠 수 있으므로, 여행객들에게 관련 정보를 제공하는 것이 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai tourism faces severe volatility as Middle East conflict hits long-haul travel - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4yeGFTdGEta3Y4cFVmUVNmMlpDZUNTNm9LLUUxa1M4c3BvOU12NGplUDRoMHRVS3BvV1hycU85SmxPLXRqbjZVc0NHSVZLcG5xdFRxZVI4SU5NRGFwRnFwRjM1SVNfYXdONWRGR3A1NA?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-08"
     }
