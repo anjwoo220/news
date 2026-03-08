@@ -22899,14 +22899,9 @@
       "summary": "- 치앙마이 항동 지역에서 22세 여성 종업원이 의문사한 채 발견됨.\n- 경찰은 현장 증거 수집 및 용의자 3명을 조사 중.\n- 피해자는 며칠 전 사망한 것으로 추정되며, 정확한 사인 규명을 위해 부검 예정.",
       "full_translated": "치앙마이 항동 지역에서 22세 여성 종업원이 의문사한 사건이 발생하여 경찰이 수사에 착수했습니다. 3월 8일 보도에 따르면, 어제(3월 7일) 오후 4시경 항동 경찰서장은 항동 지역에서 살인 사건으로 의심되는 여성 사망 사건이 발생했다는 신고를 받았습니다. 피해자는 침대 위에서 파란색 잠옷을 입고 발견되었으며, 바지는 무릎 아래로 내려져 있었습니다. 침대 옆에는 끊어진 헤어 스타일러 전선이 있었고, 휴대폰 2대가 사라졌습니다. 사건은 항동 지역의 한 주택에서 발생했습니다. 경찰은 현장 주변을 조사하던 중 피해자의 것으로 추정되는 모자와 가방이 쓰레기와 함께 버려진 것을 발견했습니다. 피해자는 22세의 프래우로, 사건 현장에서 약 800m 떨어진 식당에서 종업원으로 일했습니다. 경찰은 피해자가 3월 6-7일부터 약 2일 전에 사망한 것으로 추정하고 있습니다. 시신은 부패가 시작되어 냄새가 나는 상태였습니다. 최초 발견자는 라트리 수린이라는 여성입니다. 경찰은 정확한 사인을 밝히기 위해 시신을 병원으로 옮겨 부검을 의뢰했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 여행객이 많은 치앙마이에서 발생한 살인 사건으로, 여행객 안전에 대한 인식을 높일 필요가 있음. 다만, 특정 지역에 한정된 사건이므로 중간 수준의 점수 부여.",
-      "event_info": {
-        "date": "2024-03-07",
-        "location": "치앙마이 항동 지역",
-        "price": null,
-        "location_google_map_query": "Hang Dong, Chiang Mai"
-      },
+      "event_info": "{'date': '2024-03-07', 'location': '치앙마이 항동 지역', 'price': None, 'location_google_map_query': 'Hang Dong, Chiang Mai'}",
       "references": [
         {
           "title": "เร่งคลี่คลายคดีสาวเสิร์ฟวัย 22 ดับปริศนาในห้องพัก ตร.พบผู้ต้องสงสัย 3 ราย",
@@ -22917,21 +22912,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZEGjAtobOwP.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/crime/2918630",
+      "source": ""
     },
     {
       "title": "태국 농카이, 전자담배 액상 밀수 시도한 20대 체포",
       "summary": "- 태국 농카이 세관, 22세 남성이 전자담배 액상을 몸에 숨겨 밀반입하려다 체포됨.\n- 용의자는 테이프로 액상을 몸에 감아 숨기려 했으나 세관에 발각됨.\n- 압수된 액상의 가치는 19만 바트에 달함.",
       "full_translated": "농카이 세관은 우돈타니 출신의 20대 남성이 전자담배 액상('팟 케')을 몸에 숨겨 밀반입하려다 체포되었다고 발표했습니다. 다른 사례로 중국인 남성이 가방에 엑스터시와 아이스를 숨겨 들여오려다 적발되었으며, 총 가치는 5백만 바트가 넘습니다. 2569년 3월 8일, 기자들은 2569년 3월 7일 15:00에 제1 태국-라오스 우정 다리 국경 검문소에서 농카이 주지사 수찻 톤마니, 농카이 세관 국장 완나 푸웃사, 제1 세관 서비스 부서장 팟타나퐁 탄티와타나쿤차이, 제2 통제 부대 대표 차이요 호라푼, 국경 순찰 경찰 245대대 부대장 파타위 참난디, 마약 통제 센터장 차이싯 캄파찬 및 관련 기관이 협력하여 22세의 티라왓을 체포했다고 보도했습니다. 그는 테이프로 몸에 감은 전자담배 액상(팟 케)을 소지하고 있었습니다. 또 다른 남성은 중국인으로 여행 가방에 엑스터시와 아이스를 숨겨 들여왔습니다. 2569년 3월 5일 19:20경, 태국 남성이 제1 태국-라오스 우정 다리를 통해 국제 버스를 타고 농카이 지방의 국경 검문소를 통해 입국했습니다. 승객이 버스에서 내린 후 세관의 수하물 검사 지점에 도착했을 때 수상한 행동이 발견되었습니다. 농카이 국경 검문소의 세관 직원들은 수사 및 진압 부서와 협력하여 자세한 수색을 실시한 결과, 해당 남성의 몸통 주위에 흰색 테이프가 감겨져 있는 것을 발견했습니다. 내부에는 2종 정신 활성 물질인 케타민이 전자담배 액상(팟 케) 형태로 들어 있었습니다. 직원들은 증거를 수집하기 위해 압수했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 마약 및 불법 물품 관련 단속 강화는 여행자에게도 영향을 줄 수 있으므로 정보 제공. 전자담배 관련 법규 인지 필요.",
-      "event_info": {
-        "date": null,
-        "location": "농카이",
-        "price": null,
-        "location_google_map_query": "Nong Khai"
-      },
+      "event_info": "{'date': None, 'location': '농카이', 'price': None, 'location_google_map_query': 'Nong Khai'}",
       "references": [
         {
           "title": "รวบวัยรุ่นสร้างตัว ขน “พอตเค” พันรอบเอวหวังตบตาเจ้าหน้าที่ ของกลาง 1.9 แสน",
@@ -22942,21 +22934,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZZEzN1ovbLM.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/2918635",
+      "source": ""
     },
     {
       "title": "Wuling, 태국 시장에 STARLIGHT DARION EV 전기 밴 출시",
       "summary": "- Wuling Thailand, 799,000 바트부터 시작하는 STARLIGHT DARION EV 출시.\n- 7인승, 슬라이딩 도어, 프리미엄 밴 스타일 특징.\n- 2029년까지 5개의 전기차 모델 출시 계획.",
       "full_translated": "Wuling Thailand는 가족용 자동차 시장에 진출하여 STARLIGHT DARION EV를 799,000바트부터 시작하는 가격으로 출시했습니다. 이 차량은 7인승, 슬라이딩 도어, 태국 최초이자 유일한 프리미엄 밴 스타일을 자랑합니다. Wuling Sales (Thailand) Co., Ltd.의 부사장은 WULING THAILAND가 2029년까지 모든 사용자 그룹을 포괄하는 STARLIGHT DARION EV, STARLIGHT EKSION EV, PORTA EV, YEP PLUS 및 Mini EV Gen 5를 포함하여 5개의 주요 전기 자동차 모델을 태국 시장에 추가로 출시할 계획이라고 밝혔습니다. 모든 모델은 전 세계 시장 표준과 동일한 Wuling Brand Standard에 따라 생산됩니다. 또한 온라인과 오프라인의 힘을 결합한 옴니채널 마케팅 계획을 통해 태국에서 WULING 브랜드 인지도를 높일 것입니다. 2029년 총 판매 목표는 모든 모델을 합쳐 8,000대입니다. WULING THAILAND 쇼룸 네트워크는 현재 24개 쇼룸에서 2029년 말까지 수도권, 중부, 북부, 북동부, 서부 및 남부 지역을 포함하여 전국 50개의 표준 쇼룸으로 확장하여 프리미엄 글로벌 브랜드 수준의 구매 및 서비스 경험을 지원할 계획입니다. 또한 WULING THAILAND는 유지 보수 요구 사항을 신속하게 지원하고 차량 대기 시간을 줄이며 태국 전역의 EV 사용자의 신뢰를 구축하기 위해 사무트프라칸의 테파락에 대규모 부품 유통 센터를 설립했습니다. STARLIGHT DARION EV는 시장에서 SUV 및 MPV와 경쟁합니다. Wuling Sales (Thailand) Co., Ltd.의 CEO는 최근 WULING STARLIGHT DARION EV를 출시했다고 밝혔습니다. 이 차량은 시장에서 누구도 따라올 수 없는 차별성을 갖춘 7인승 전기 MPV-VAN입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 새로운 전기차 모델 출시 정보로, 여행객의 교통 선택지에 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": "799,000 바트 부터",
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': '799,000 바트 부터', 'location_google_map_query': None}",
       "references": [
         {
           "title": "WULING ส่งรถตู้ไฟฟ้า STARLIGHT DARION EV ราคาเริ่มต้น 799,000 บาท",
@@ -22967,21 +22956,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB10qpKpQigBU.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/auto/evcar/2918624",
+      "source": ""
     },
     {
       "title": "아누틴, 3월 14일 국회 개원식 참석 의무화",
       "summary": "- 아누틴 차른비라쿨, 푸미차이타이당 소속 의원들에게 국회 개원식 참석을 지시.\n- 당내 결속을 다지고 법률 및 윤리 규정을 준수할 것을 강조.\n- 푸미차이타이당은 이번 총선에서 191석을 확보하며 급성장.",
       "full_translated": "아누틴 차른비라쿨은 3월 14일로 예정된 국회 개원식에 반드시 참석할 것을 강조했습니다. 그는 2029년 3월 8일, 부리람에서 열린 푸미차이타이당의 대규모 세미나에서 이같이 밝혔습니다. 이번 세미나는 '말하면 실천한다 플러스'라는 슬로건 아래 진행되었으며, 차이야촌 치촙 사무총장을 비롯해 시하삭 푸앙깨우, 수파지 수탐판, 에카니티 니티탄트라파스와 같은 주요 인사들이 참석하여 모든 의원들에게 방향을 제시했습니다. 아누틴은 의원들에게 환영 인사를 전하며 당의 발전을 강조하고, 당내 결속을 다질 것을 촉구했습니다. 또한, 법률 및 윤리 규정을 준수할 것을 당부했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 관련 소식이지만, 여행객에게 직접적인 영향은 제한적이라고 판단.",
-      "event_info": {
-        "date": "2029-03-14",
-        "location": "태국 국회",
-        "price": "해당 사항 없음",
-        "location_google_map_query": "태국 국회"
-      },
+      "event_info": "{'date': '2029-03-14', 'location': '태국 국회', 'price': '해당 사항 없음', 'location_google_map_query': '태국 국회'}",
       "references": [
         {
           "title": "“อนุทิน” สวมบนครูปกครอง  กำชับ 14 มีนาคม รัฐพิธีเปิดประชุมรัฐสภา ห้ามขาด",
@@ -22992,21 +22978,18 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KCSjxchAE1zGM.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918613",
+      "source": ""
     },
     {
       "title": "프아타이당, 장관직 배분 논란 심화: 북부 의원들 불만 표출 및 재검토 요구",
       "summary": "- 프아타이당 내각 구성에서 북부 지역 의원들의 장관직 배제에 대한 불만이 고조되고 있음.\n- 일부 의원들은 당 지도부의 결정 방식에 반발하며, 차기 당 회의에서 재검토를 요구할 예정임.\n- 공정한 대표성 부여와 당내 소통 강화를 촉구하며, 의원들의 의견을 반영한 인사를 요구하고 있음.",
       "full_translated": "프아타이당이 흔들리고 있습니다. 북부 지역 의원들이 장관직 배분에 불만을 터뜨리며, 의석 배분이 의원들과 연결되지 않고 고위층 몇몇이 결정한다고 비판합니다. 다음 당 회의에서 새로운 할당량 재검토를 요구할 예정이며, '우리도 좀 봐달라'고 외치고 있습니다. 2569년 3월 8일, 프아타이당에서 기자들이 보도합니다. 프아타이당이 5개의 장관직을 확정했다는 소식이 전해진 후, 북부 지역 의원들이 장관직을 받지 못하게 되자 최근 큰 불만이 터져 나왔습니다. 북부, 북부 저지대, 중부 고지대 의원들은 이번 당의 장관직 배분이 의원들과 연결되지 않았다고 논의했습니다. 결정은 당의 고위층 몇몇에 의해 이루어졌으며, 특히 나콘라차시마 지역의 의원 대표 2명이 장관이 될 예정입니다. 북부, 북부 저지대, 중부 고지대 의원 대표는 최소 1개의 장관직을 받아야 합니다. 의원 수가 상당한 지역이기 때문입니다. 당의 장관직 배분은 인기를 되찾아야 하는 상황에 있으며, 북부 지역 의원들에게 중요성을 부여해야 합니다. 행정부에서 역할을 할 대표가 있어야 합니다. 다음 프아타이당 회의에서 장관직 할당량 재검토를 요구할 것입니다. 일부 의원들은 '우리도 좀 봐달라, 아무런 성과도 없는 측근만 챙기지 말고, 일할 수 있고 경험이 있으며 당 의원들과 협력할 수 있는 사람을 뽑아야 한다. 누가 시키는 대로 하지 말고, 의원들에게 물어봐야 한다. 더 공정한 방법이 있어야 한다. 억지로 묶어놓지 말고, 이익을 위해 떠보는 듯한 행동은 참을 수 없다'고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 정치 상황에 대한 뉴스이나, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เพื่อไทยเก้าอี้ รมต. ไม่ลงตัว สส.ภาคเหนือโวย เห็นหัวกันบ้าง เรียกร้องให้ทบทวนโควตาใหม่",
@@ -23017,6 +23000,133 @@
       ],
       "collected_at": "15:21",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KB28JObcTdrKJ.jpg",
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/politic/2918629",
+      "source": ""
+    },
+    {
+      "title": "파타야, 영국인 관광객이 영국인 바 매니저 공격 및 체포",
+      "summary": "- 파타야에서 영국인 관광객이 다른 영국인을 공격하여 중상을 입힘.\n- 피해자는 얼굴에 깊은 상처를 입고 30바늘 이상 꿰맴.\n- 용의자 중 1명은 체포되었고, 다른 1명은 도주 중이며, 범행 동기는 불분명.",
+      "full_translated": "파타야 — 2026년 3월 8일, 한 영국인 관광객이 토요일 새벽 파타야의 한 맥주 바 사무실에서 동료 영국인을 공격하여 심각한 부상을 입혔다고 당국이 밝혔습니다. 오전 0시 36분, 파타야의 Sawang Boriboon Thammasathan 구조 센터는 촌부리 주 방라뭉 지역 농프루 구역 파타야 해변 소이 13에 있는 The King Table 맥주 바에서 부상자가 발생했다는 신고를 받았습니다. 구조 자원 봉사자들은 현장으로 급히 달려가기 전에 파타야 시 경찰과 협력했습니다. 응급 구조대원들은 50~60세로 추정되는 영국인 관광객과 바 매니저가 날카로운 물체로 인해 얼굴에 깊은 상처를 입은 것을 발견했습니다. 상처는 10cm 이상 뻗어 있었고 약 30바늘을 꿰매야 했습니다. 구조대원들은 부상당한 남자를 병원으로 이송하기 전에 응급 처치를 제공했습니다. 현장의 선한 사마리아인들은 용의자 중 한 명을 구금하여 심문하기 위해 경찰에 넘겼고, 다른 용의자는 도주했습니다. 바 직원은 기자들에게 영국인 매니저가 정기적으로 친구 그룹의 방문을 받았기 때문에 용의자의 존재에 처음에는 의심을 품지 않았다고 말했습니다. 그러나 직원은 나중에 매니저 사무실 문이 흔들리는 것을 알아차리고 내부에서 몸싸움을 나타내는 그림자를 보았습니다. 한 용의자는 방에서 뛰쳐나와 도망쳤고, 다른 용의자는 방관자들에 의해 제지되었습니다. 공격 동기는 아직 불분명합니다. 부상자는 면밀한 의료 감독하에 있습니다. 경찰은 구금된 용의자를 데려갔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협.",
+      "event_info": {
+        "date": "2026-03-08",
+        "location": "The King Table beer bar in Soi Pattaya Beach 13, Nong Prue subdistrict, Bang Lamung district, Chon Buri province",
+        "price": null,
+        "location_google_map_query": "The King Table beer bar Pattaya"
+      },
+      "references": [
+        {
+          "title": "British tourist arrested after slashing British bar manager in Pattaya",
+          "url": "https://www.khaosodenglish.com/news/2026/03/08/british-tourist-arrested-after-slashing-british-bar-manager-in-pattaya/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/British-tourist-arrested-after-slashing-British-bar-manager-in-Pattaya.jpg"
+        }
+      ],
+      "collected_at": "15:52",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/British-tourist-arrested-after-slashing-British-bar-manager-in-Pattaya.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "캄보디아 포이펫에서 버려진 14명의 태국인 '계좌' 불법 입국 시도 체포",
+      "summary": "- 캄보디아 포이펫에서 콜센터 사기에 이용된 후 버려진 14명의 태국인이 불법으로 태국 입국 시도 중 체포됨.\n- 이들은 페이스북 구인 광고를 통해 고수익 알바에 속아 캄보디아로 건너가 온라인 계좌 개설을 강요받음.\n- 이후 쓸모없어지자 국경 지역에 버려졌으며, 여권과 휴대폰을 압수당한 채 밀입국을 시도함.",
+      "full_translated": "싸깨오 – 부라파 군은 14명의 태국인이 자연 통로를 통해 불법으로 입국하는 것을 체포했습니다. 이들은 캄보디아 포이펫에서 계좌를 개설하도록 속임을 당했다고 주장했습니다. 2569년 3월 8일 오전 5시에 국경 근처에 버려졌습니다.\n\n차이나롱 카시 대령, 아란야프라텟 특수 부대 사령관, 부라파 군(부라파 군 아란야프라텟 특수 부대 사령관)은 퐁사콘 스앙암 대령, 제12 헌병 연대 통제 부대 사령관과 협력하여 제1204 헌병 중대 병력과 아란야프라텟 특수 부대 순찰대를 이끌고 14명의 태국인(남성 5명, 여성 9명)을 가로막았습니다. 이들은 캄보디아에서 태국으로 불법적으로 국경을 넘어 자연 통로(사탕수수밭)를 통해 53-54번 국경 초소 사이, 반 논 파타나, 13번 마을, 탐본 판 쓱, 아란야프라텟 지구, 싸깨오 지방에서 국경에서 약 500미터 떨어진 곳에서 입국했습니다. 여권이나 국경 통과 허가 서류는 발견되지 않았습니다. 그들은 콜센터 갱단에 속아 캄보디아 포이펫에서 계좌를 개설했고, 쓸모없어지자 국경 근처에 버려졌고, 안내 없이 자연 통로를 통해 태국으로 몰래 돌아와야 했다고 주장했습니다. 따라서 당국은 모든 사람을 통제하여 싸깨오 지방 아란야프라텟 지구 탐본 판 쓱에 있는 제1204 헌병 중대에서 심문했습니다. 초기 심문에서 14명의 태국인은 페이스북을 통해 일자리를 찾았다고 주장했습니다. 14명의 체포된 사람들은 싸깨오 지방으로 점차 이동했고 2569년 3월 3-4일경에 캄보디아 포이펫으로 밀입국했습니다. 포이펫에 도착했을 때 그들은 포이펫에 있는 건물에 감금되었고 신분증, 휴대폰, 전화 SIM 카드를 압수당하여 온라인으로 은행 계좌를 개설하고 얼굴을 스캔하여 거래를 수행하도록 강요받았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국-캄보디아 국경 지역 여행 시 잠재적 위험 인지 필요. 콜센터 사기 관련 정보는 여행자에게 유용.",
+      "event_info": {
+        "date": null,
+        "location": "싸깨오 지방 아란야프라텟 지구 탐본 판 쓱",
+        "price": null,
+        "location_google_map_query": "Aranyaprathet District, Sa Kaeo, Thailand"
+      },
+      "references": [
+        {
+          "title": "รวบ “บัญชีม้าตาย” 14 คนไทย จากปอยเปต ลักลอบเข้าประเทศ หลังหมดประโยชน์ โดนทิ้ง",
+          "url": "https://www.thairath.co.th/news/crime/2918640",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECjsFiHXaZVZ.jpg"
+        }
+      ],
+      "collected_at": "15:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KECjsFiHXaZVZ.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 총선 후 정부 구성 지연 가능성, 여론조사 결과",
+      "summary": "- Nida Poll 여론조사 결과, 응답자의 44.81%가 차기 정부 구성이 법원 결정 이후로 연기되어야 한다고 응답함.\n- 바코드 및 QR 코드의 합법성에 대한 법원 판결을 기다려야 한다는 의견이 다수.\n- 응답자의 36.56%는 바코드 분쟁이 새로운 정치 불안을 야기하지 않을 것이라고 예상.",
+      "full_translated": "Nida Poll에 따르면 태국 국민의 과반수가 2월 8일 총선에서 투표용지에 있는 바코드 및 QR 코드의 합법성에 대한 법원 결정이 나올 때까지 Bhumjaithai가 주도하는 연립 정부의 구성을 기다려야 한다고 믿고 있습니다. 국립 개발 행정 연구소(Nida)가 3월 2일부터 4일까지 모든 지역의 18세 이상 응답자 1,310명을 대상으로 실시한 설문 조사입니다. 일요일에 발표된 바에 따르면 응답자의 44.81%는 바코드 및 QR 코드 문제에 대한 법원의 판결이 나올 때까지 차기 정부 구성을 중단하기를 원합니다. 대조적으로 41.68%는 국가가 나아갈 수 있도록 정부가 신속하게 구성되어야 한다고 말했습니다. 13.20%는 어느 과정도 허용 가능하다고 답했고 0.31%는 답변하지 않거나 관심이 없었습니다.\n\n바코드 분쟁이 새로운 정치 불안을 촉발할 것인지 묻는 질문에 36.56%는 혼란으로 이어지지 않을 것이라고 답했습니다. 또 다른 34.20%는 새로운 불안을 예상했지만 정부가 이를 통제할 수 있을 것이라고 믿었고 28.55%는 정부가 관리할 수 없는 불안을 우려했습니다. 나머지 0.69%는 답변하지 않거나 관심이 없었습니다.\n\n2월 8일 여론 조사에서 발생하는 유권자 개인 정보 보호 문제에 대해 47.64%는 자신의 투표가 비밀로 유지되지 않을까 전혀 걱정하지 않는다고 답했습니다. 그러나 19.08%는 상당히 걱정했고 18.55%는 매우 걱정했으며 14.27%는 그다지 걱정하지 않았습니다. 0.46%만이 답변하지 않거나 관심이 없었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 불안정 가능성은 여행 심리에 영향을 줄 수 있지만, 직접적인 위협은 아니므로 중간 점수 부여. 정부 구성 지연 가능성이 있다는 점에서 업데이트로 간주.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Voters split, bare majority want coalition's formation paused, poll finds",
+          "url": "https://www.bangkokpost.com/thailand/general/3212424/voters-split-bare-majority-want-coalitions-formation-paused-poll-finds",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212424_700.jpg"
+        }
+      ],
+      "collected_at": "15:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212424_700.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "마하 사라캄 사원에서 마약 및 총기 소지 승려 적발",
+      "summary": "- 태국 마하 사라캄 지역 사원에서 승려가 마약과 총기를 소지한 채 발견되어 승적 박탈됨.\n- 주민들의 불만 접수 후 경찰 조사 진행, 승려는 마약 복용 사실 인정.\n- 문제의 승려는 현재 경찰에 인계되어 법적 절차 진행 중.",
+      "full_translated": "마하 사라캄 — 태국 불교 성직자의 명성이 태국 북동부의 한 사원에서 지방 관리들이 승려의 오두막을 급습하여 마약과 여러 개의 총기를 발견한 후 다시 한번 실추되었습니다. 마하 사라캄 지방 행정부 관리들은 담롱탐 공공 민원 센터를 통해 제출된 불만에 따라 보라부에 지역의 한 사원에 있는 오두막을 포위하고 수색했습니다. 주민들은 다른 지방에서 온 승려가 사원에 머물면서 다른 사람들과 함께 마약을 하고 술을 마시고 총기를 숨기고 있을 수 있다는 신고를 했습니다. 경찰이 단층 오두막을 조사했을 때, 그곳은 더러운 상태였고 소지품들이 엉망으로 흩어져 있었습니다. 방 안에는 쓰레기가 잔뜩 쌓여 있었고, 그 냄새가 온 지역에 진동했습니다. 내부에서는 관리들이 칸차나부리 지방 출신의 프라 수완(40세)이 오두막에서 살고 있는 것을 발견했습니다. 수색 결과 .22 구경 총기 2정, BB탄 총 3정, 탄약 41발이 발견되어 모두 증거물로 압수되었습니다. 초기 심문에서 프라 수완은 약 5일 전에 야바 메스암페타민 정제 2개를 복용했으며 그 이후로는 약물을 사용하지 않았다고 인정했습니다. 이후 관리들이 실시한 소변 검사에서 그의 몸에서 마약 성분이 확인되었습니다. 조사 후 당국은 승려를 사원 주지에게 데려가 공식적으로 승적을 박탈한 후 마하 사라캄 지방의 보라부에 경찰서 수사관에게 인계하여 법적 절차를 진행했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "승려의 범죄 행위는 여행객에게 직접적인 위협은 아니지만, 태국 문화에 대한 부정적인 인식을 심어줄 수 있으므로 어느 정도의 영향이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Maha Sarakham",
+        "price": null,
+        "location_google_map_query": "Maha Sarakham Thailand"
+      },
+      "references": [
+        {
+          "title": "Thai monk defrocked after drugs, guns found in hut raid",
+          "url": "https://www.khaosodenglish.com/news/2026/03/08/thai-monk-defrocked-after-drugs-guns-found-in-hut-raid/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thai-monk-defrocked-after-drugs-guns-found-in-hut-raid-1.jpg"
+        }
+      ],
+      "collected_at": "15:52",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Thai-monk-defrocked-after-drugs-guns-found-in-hut-raid-1.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국 총리, “여성의 권리, 평등, 존엄성은 민주 사회의 초석” 강조",
+      "summary": "- 아누틴 총리는 세계 여성의 날을 맞아 여성의 권리와 평등을 강조했습니다.\n- 정부는 '소외 없는 사회를 향한 여성의 권리, 정의, 목소리'를 핵심 가치로 설정했습니다.\n- 총리는 태국 여성의 잠재력을 높이 평가하며 모든 분야에서의 역할을 지지했습니다.",
+      "full_translated": "아누틴 찬위라쿨 총리는 2069년 3월 8일 세계 여성의 날을 맞아 태국 여성들에게 축하 메시지를 전하며, 여성 개발에 힘쓰는 모든 이들에게 감사를 표했습니다. 총리는 세계 여성의 날이 단순한 축하를 넘어, 여성의 권리, 평등, 존엄성이 민주 사회와 지속 가능한 발전의 초석임을 상기시키는 날이라고 강조했습니다. 또한, 역사적으로 여성들이 가정, 직장, 공공 영역에서 평등한 대우를 받기 위해 투쟁해 왔음을 언급하며, 이러한 노력이 결실을 맺도록 지속적으로 노력해야 한다고 덧붙였습니다. 총리는 정부가 올해 세계 여성의 날의 핵심 가치로 '소외 없는 사회를 향한 여성의 권리, 정의, 목소리'를 설정한 것을 강조하며, 여성이 동등한 위치를 확보하고 잠재력을 최대한 발휘할 수 있도록 지원하는 데 중점을 둘 것이라고 밝혔습니다. 더불어 여성들이 정책 결정과 국가 발전 방향 설정에 참여할 기회를 제공할 것이라고 약속했습니다. 총리는 태국 여성들이 리더, 사업가, 학자, 농부, 노동자 등 모든 분야에서 큰 잠재력을 가지고 있다고 믿으며, 사회 발전에 적극적으로 참여할 것을 독려했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여성의 날 기념 메시지로, 여행객에게 직접적인 영향은 없으나 태국 사회의 전반적인 분위기를 이해하는 데 도움이 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกรัฐมนตรี ย้ำ “สิทธิ ความเสมอภาค และศักดิ์ศรีของสตรี” คือรากฐานสำคัญของสังคมประชาธิปไตย",
+          "url": "https://www.thairath.co.th/news/politic/2918636",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZScORKpFWjI.jpg"
+        }
+      ],
+      "collected_at": "15:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KBZScORKpFWjI.jpg",
       "date": "2026-03-08"
     }
   ]
