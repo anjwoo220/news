@@ -22153,14 +22153,9 @@
       "summary": "- 중동 전쟁으로 인해 동남아시아와 몰디브의 관광 산업이 타격을 입고 있음.\n- 이 지역은 전통적으로 인기 있는 관광지였으나, 전쟁으로 인한 불안감으로 여행객이 감소함.\n- 특히 몰디브는 이스라엘 관광객 감소로 큰 영향을 받고 있음.",
       "full_translated": "MSN에 따르면, 동남아시아와 몰디브가 중동 전쟁으로 인해 관광 산업에서 새로운 피해를 입고 있습니다. 이 지역은 전통적으로 인기 있는 관광지였으나, 최근 중동 지역의 불안정으로 인해 여행객 수가 감소했습니다. 특히 몰디브는 이스라엘 관광객의 감소로 인해 큰 영향을 받고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 전쟁으로 인한 관광객 감소는 여행 심리에 영향을 미칠 수 있으므로 정보 제공 가치가 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "How Southeast Asia and Maldives have become latest tourism victims in Middle East war - MSN",
@@ -22169,23 +22164,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:42",
+      "collected_at": "6:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQM3RZWUx6QVJiWlg0NVZ6cDFSZlV0MGRiRHhoYjRwQWRZN05ta3FzNEptenJaaXUxSzZmQUpWbUNIWEpnbW0wWWZmY0tXMjdfblg2VkJ1aUZHTU9CWW5jelZRUmtxZUlxTTBhYkhnMThGU3RpcUZ4TkpoVDhDSE54VkFwcXJsQkQwV0lhTTVZMHJPR3I5cENuMENCSUd0aGNNeFZabDgtSkl1bklobVBKVnN6NzRtU2N0blFpWVJxYWFfd1REc2hSNDJSLTVROGxtZEd2UXR2RFlyTk45WlFtc1llX2JBUnVaRXRJZEFkbUFxRE56aWQ2T1VkTHRGaGFKd20zSFpvUXJ3RlItcEhwMlFFczQ5Y0hWNzRLT0o5ZHdHSnJqQlJ1aWNSb1BMYV94LUllRVIySDluV1ZQV1g2UmtkWG1WN2hBN0xZdTFhcThPeTVDdy00V2lDanpDc1NweWpwcF9n?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 다크넷 마약 거래 연루 스웨덴인 3명 체포",
       "summary": "- 태국 경찰이 '판도라 작전'으로 스웨덴 국적 용의자 3명 체포.\n- 이들은 다크넷 마약 시장 'Archetyp' 및 'Mupparna.net' 운영에 연루된 혐의.\n- 방콕과 쁘라쭈압 키리 칸의 고급 빌라를 거점으로 온라인 마약 유통을 관리한 것으로 추정.",
       "full_translated": "태국에서 유럽의 대규모 온라인 마약 시장의 핵심 인물로 추정되는 스웨덴인 3명이 체포되었습니다. 경찰청(CIB)은 스웨덴 및 호주 경찰과 협력하여 방콕과 쁘라쭈압 키리 칸의 9개 지역에서 '판도라 작전'을 수행했습니다. CIB 청장인 Natthasak Chaowanasai 경찰 중장은 토요일에 이같이 밝혔습니다. 당국은 로버트 미카엘 린드(47세), 다니엘 리(39세), 존 아리아 가밤자데(33세) 등 스웨덴 국적자 3명을 체포했습니다. 이들은 국제 마약 밀매 조직과 연계된 혐의를 받고 있습니다. 수사관들은 용의자들이 임대 고급 풀 빌라를 기지로 사용하여 원격으로 온라인 마약 유통을 관리했다고 믿고 있습니다. 경찰은 컴퓨터, 휴대 전화, 신용 카드 및 문서 등 119점의 증거물을 압수했습니다. 방콕 왕통랑 지역의 임대 주택에서 체포된 린드는 태국에서 약 13년 동안 거주했습니다. 다른 용의자들은 각각 3년과 4년 동안 태국에 머물렀고, 쁘라쭈압 키리 칸의 임대 주택에서 구금되었습니다. Natthasak 경찰 중장은 스웨덴과 호주 당국이 'Archetyp'과 'Mupparna.net' 다크넷 플랫폼의 핵심 인물로 여겨지는 용의자들의 소재 파악에 태국의 지원을 요청했다고 밝혔습니다. 해당 사이트들은 3,700만 달러가 넘는 암호화폐를 통제했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 마약 관련 범죄 소탕 작전으로, 여행객 안전에 간접적인 영향을 미칠 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 쁘라쭈압 키리 칸",
-        "price": null,
-        "location_google_map_query": "방콕, 쁘라쭈압 키리 칸"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 쁘라쭈압 키리 칸', 'price': None, 'location_google_map_query': '방콕, 쁘라쭈압 키리 칸'}",
       "references": [
         {
           "title": "Operation Pandora nets three Swedes 'tied to darknet narcotics'",
@@ -22194,23 +22186,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:42",
+      "collected_at": "6:42",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.bangkokpost.com/thailand/general/3212183/operation-pandora-nets-three-swedes-tied-to-darknet-narcotics",
+      "source": ""
     },
     {
       "title": "태국 비료 가격 급등, 중동 긴장 속 농가 부담 가중",
       "summary": "- 콘캔 지역 조사 결과, 요소 비료 소매 가격이 포대당 약 50바트 상승.\n- 원자재 부족 및 수입 비용 증가로 일부 공장 가동 중단.\n- 쌀, 사탕수수 재배 농가 중심으로 비료 수요 급증, 가격 추가 상승 우려.",
       "full_translated": "콘캔에서 금요일에 실시한 조사에 따르면 요소 비료의 소매 가격이 여러 유통업체의 재고가 파종 시즌을 앞두고 고갈됨에 따라 포대당 약 50바트 상승한 것으로 나타났습니다. 므앙 지역의 주요 비료 및 종자 유통 센터에서 관리자들은 여러 공장에서 원자재 부족과 수입 비용 증가로 인해 거래를 중단했다고 보고했다고 비료 소매업체의 영업 및 마케팅 관리자인 Teerakorn Wainiyom이 말했습니다. 쌀과 사탕수수 재배에 널리 사용되는 요소 비료는 농부들이 새로운 파종 시즌을 준비하면서 수요가 높습니다. 그는 \"일반적으로 비료 가격은 포대당 약 5~10바트만 상승하지만 이번에는 상승폭이 몇 배 더 높습니다.\"라고 말했습니다. 그는 요소 제형을 포함한 주요 비료 투입물의 부족이 동일한 원자재에 의존하기 때문에 혼합 비료 제품에 영향을 미칠 수 있다고 경고했습니다. 그는 \"요소 비료는 특히 쌀과 사탕수수에 대한 파종 시즌 초기에 농부들이 널리 사용하기 때문에 이 시기에 수요가 높습니다.\"라고 말했습니다. Teerakorn 씨는 그의 가게의 기존 재고는 이달 말까지만 지속될 것으로 예상된다고 덧붙였습니다. 그는 \"새로운 공급품이 도착하지 않으면 4월에 비료를 구할 수 없게 되어 농부들에게 확실히 영향을 미칠 것입니다.\"라고 말했습니다. 그러나 나콘라차시마 주에서는 일부 소매업체에서 가격이 아직 인상되지 않았다고 보고했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행 자체에 직접적인 영향은 적으나, 물가 상승 가능성 및 경제 상황에 대한 간접적 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Fertiliser prices rise amid Middle East tensions",
@@ -22219,23 +22208,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212193_260308053219_700.jpg"
         }
       ],
-      "collected_at": "06:42",
+      "collected_at": "6:42",
       "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212193_260308053219_700.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.bangkokpost.com/thailand/general/3212193/fertiliser-prices-rise-amid-middle-east-tensions",
+      "source": ""
     },
     {
       "title": "이스라엘, 이란 전면 공격 위협 및 미국과의 공조 과시",
       "summary": "- 이스라엘 네타냐후 총리가 이란에 대한 전면 공격 의지를 표명.\n- 미국과의 협력을 강조하며 이란의 불안정을 목표로 한다고 밝힘.\n- 이란 혁명수비대(IRGC)를 직접 겨냥하며 군사적 압박 수위를 높임.",
       "full_translated": "이스라엘의 벤자민 네타냐후 총리는 이스라엘이 이란에 대한 공격을 “우리가 가진 모든 힘을 다해” 계속할 것이라고 단호하게 선언했습니다. 그는 또한 이스라엘과 미국이 이란의 영공을 거의 장악했다고 주장했습니다. 2069년 3월 7일, 네타냐후 총리는 사전 녹화된 성명을 통해 이스라엘이 이란에 대한 공격을 계속할 것이며, 현재 그들의 군대가 이란 영공을 완전히 통제할 수 있는 수준에 거의 도달했다고 밝혔습니다. \n\n네타냐후는 이스라엘과 미국이 “이란 영공의 거의 전체를 통제하는 데 성공”했으며, “준비된 목표와 놀라움이 많이 남아 있다”고 주장했습니다. 그는 “우리는 이 정권의 안정을 흔들고 변화를 일으킬 것”이라고 덧붙였습니다. 이 성명이 발표되기 직전, 이스라엘은 테헤란에 대한 새로운 공격을 발표했습니다. \n\n또한 네타냐후는 이란의 엘리트 전투 부대인 이란 혁명수비대(IRGC)에 대해 “우리는 당신들을 주시하고 있다”는 직접적인 경고를 보냈습니다. 그는 미국과의 군사 작전이 “이란 국민이 스스로 운명을 결정할 수 있는 조건을 만들 것”이라고 말하며, 이란 국민들에게 일어나 싸울 것을 촉구했습니다. “진실의 순간이 다가오고 있습니다. 우리는 이란을 분열시키려는 것이 아니라, 압제적인 폭정으로부터 이란을 해방시켜 평화롭게 공존할 수 있도록 하려는 것입니다. 그러나 궁극적으로 모든 것은 당신들에게 달려 있습니다.” \n\n네타냐후는 최근 며칠 동안 이스라엘의 공격 목표가 되고 있는 레바논의 헤즈볼라에 대해서도 언급하며 레바논 정부에 그들의 의무를 이행할 것을 촉구했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향은 없으나, 중동 정세 불안정 심화 가능성으로 잠재적 위험 존재. 다만, 현재로서는 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ผู้นำอิสราเอลลั่น จะโจมตีอิหร่านสุดกำลังต่อไป โวใกล้ครองน่านฟ้าได้แล้ว",
@@ -22244,23 +22230,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4AbJO6fmUoC.jpg"
         }
       ],
-      "collected_at": "06:42",
+      "collected_at": "6:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ4AbJO6fmUoC.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/foreign/2918547",
+      "source": ""
     },
     {
       "title": "네팔, 35세 래퍼 총리 후보 등장 - 정치 신예 돌풍",
       "summary": "- 네팔 총선에서 35세 래퍼 발렌드라 샤ห์가 전 총리를 꺾고 총리 후보로 급부상.\n- 젠지 세대의 지지를 받으며 정치 개혁을 주도.\n- 기존 정치권에 대한 불만이 젊은 세대를 중심으로 확산된 결과.",
       "full_translated": "네팔의 발렌드라 샤ห์, 35세의 젊은 래퍼가 총선에서 승리하며 차기 총리 후보로 주목받고 있습니다. 그는 전 총리 샤르마 케이피 올리를 꺾는 이변을 일으켰습니다. 지난 3월 7일, 네팔 선거관리위원회는 발렌드라 샤ห์의 소속 정당이 총선에서 승리했으며, 샤ห์ 본인 또한 올리의 지역구에서 68,348표 대 18,734표로 압도적인 승리를 거두었다고 발표했습니다. 이는 젠지 세대가 주도한 정부 전복 시위 이후 처음 치러진 선거로, 기성 정치인들과 젊은 세대의 대결 구도를 보여주었습니다. 1월에 카트만두 시장직을 사임하고 올리의 지역구에 도전한 샤ห์는 이번 총선 승리를 통해 네팔의 새로운 총리로 등극할 준비를 하고 있습니다. 20년 이상 혼합 정부가 반복되었던 네팔 정치에서, 이번 선거는 젠지 세대가 기성 정치인들을 대체할 수 있을지를 가늠하는 중요한 시험대가 될 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "네팔 정치 상황은 태국 여행객에게 직접적인 영향을 미치지 않으나, 아세안 국가의 정치 변화는 간접적으로 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฮือฮา แร็ปเปอร์หนุ่ม ชนะเลือกตั้งเนปาล จ่อเป็นนายกรัฐมนตรีคนใหม่",
@@ -22269,8 +22252,108 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ3ueHCQixmBL.jpg"
         }
       ],
-      "collected_at": "06:42",
+      "collected_at": "6:42",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQ3ueHCQixmBL.jpg",
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/foreign/2918544",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 한국인 관광객 대상 절도 사건 발생",
+      "summary": "- 트랜스젠더 여성이 파타야에서 한국인 관광객을 대상으로 절도 행위를 저질러 체포됨.\n- 피해자는 금품을 도난당했으며, 경찰은 용의자를 신속하게 검거함.\n- 관광객 대상 범죄에 대한 주의가 요구됨.",
+      "full_translated": "파타야에서 한국인 관광객을 대상으로 절도 사건이 발생하여 트랜스젠더 여성이 체포되었습니다. 자세한 내용은 조선일보 기사를 참고하시기 바랍니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 한국인 관광객을 대상으로 한 범죄 발생. 여행 안전에 영향을 미칠 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Transgender Woman Arrested for Theft from South Korean Tourist in Pattaya - 조선일보",
+          "url": null,
+          "source": "조선일보"
+        }
+      ],
+      "collected_at": "08:17",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "태국, 2026년 새로운 럭셔리 여행 트렌드 주도: 방콕, 치앙마이, 푸껫 집중 조명",
+      "summary": "- 태국이 2026년 럭셔리 여행 트렌드를 주도할 것으로 예상됨.\n- 힐링, 웰빙, 미식 경험이 핵심 요소로 부상.\n- 방콕, 치앙마이, 푸껫이 최고의 여행지로 주목받고 있음.",
+      "full_translated": "태국의 새로운 럭셔리: 힐링, 웰빙, 미식이 2026년 여행 트렌드를 혁신할 것입니다. 왜 방콕, 치앙마이, 푸껫이 최고의 휴가지인지 알아보세요!\n\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행의 새로운 트렌드를 제시하여 여행 계획에 참고할 만한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 치앙마이, 푸껫",
+        "price": null,
+        "location_google_map_query": "방콕 치앙마이 푸껫"
+      },
+      "references": [
+        {
+          "title": "Thailand’s New Luxury: Healing, Wellness, and Gastronomy Set to Revolutionize 2026 Travel—Discover Why Bangkok, Chiang Mai, and Phuket Are the Ultimate Getaway Destinations! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbkczdlpNeVBNTVBBY2NXbm5wM2w1WkM0QjlLTGtSaXZ1WFdKYzFlWG5Rd1lhX1dFeVRTdzQ4Y1h1LW9ZWEs3QXl6QmFwTGRMYndQLUtoS2tEYlp4UkdITXdRaFZlUC1aZlhzWU5ORGFSdE9sbk8wMTVFSlYtQVVpSFRmRlNsY1d2TG1IcGJxM2FIS0lDQ2ZwWXV4TTJMVFRSa1I4VXVhY0JxOUFCbFFrMG01UHJYRFFMYURUdnBCdnJRTGFZOUJ5OWZTY2xkRTVyMmRtSHhkZ1JSYk55bGFrU1RsS04xb0ozZjI0Ny1jdmJtRGdQWmZtQS1SckhlQU5lQ05raUg0STRjVkE0cFhVOXhoX1l4djRjX1AyR09hMmhxczZvRi1sY2w4UTNic3luOE45NHpKal9wTFE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "호주 마약상, 태국에서 체포 후 호주로 송환 예정",
+      "summary": "- 호주 퀸즐랜드에서 마약 관련 11개 혐의로 수배 중이던 호주 국적 남성이 태국에서 체포됨.\n- 그는 관광 비자로 태국에 입국하여 콘도미니엄에 은신 중이었음.\n- 태국 이민국은 그의 비자를 취소하고 호주 당국에 인계할 예정.",
+      "full_translated": "이민국 수사팀은 호주 퀸즐랜드 주에서 체포 영장이 발부된 주요 용의자인 호주 국적의 마약상을 체포했습니다. 그는 2069년 3월 7일에 태국으로 도피했습니다. 경찰청장 파누마스 분냘락과 경찰 부청장 판타나 누차나트, 이민국 국장 송프로드 시리스카는 경찰 대령 수리야 푸앙솜밧과 경찰 중령 피티팟 스리타나아피난에게 체포 명령을 내렸습니다. 그들은 마약 소지 및 제조와 관련된 11건의 혐의로 호주 퀸즐랜드 주에서 체포 영장이 발부된 44세의 호주 국적 남성 아이작 엠마누엘 로버츠를 체포했습니다. 호주 연방 경찰(AFP) 태국 지부는 태국 경찰청에 2062년 마약 소지 혐의와 2060년 인도네시아로의 마약 밀반입 시도 혐의로 아이작 엠마누엘 로버츠를 체포해 달라고 요청했습니다. 그는 최근 2월 10일 관광 비자로 태국에 입국한 것으로 밝혀졌습니다. 수사 결과 아이작 엠마누엘 로버츠는 방콕 딘댕 지역의 콘도미니엄에 거주하고 있는 것으로 밝혀져 체포되었습니다. 이민국 법에 따라 외국인으로 간주되어 임시로 왕국에 거주할 수 있는 허가가 취소되었고, 호주 당국에 인계되어 법에 따라 처리될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "범죄 관련 뉴스이지만, 특정 지역에 국한된 사건이며 여행객에게 직접적인 위협은 아니라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "딘댕, 방콕",
+        "price": null,
+        "location_google_map_query": "딘댕 방콕"
+      },
+      "references": [
+        {
+          "title": "สืบตม.3 รวบพ่อค้ายาชาวออสซี่ หนีคดีซุกไทย ก่อนควบคุมตัวส่งทางการออสเตรเลีย",
+          "url": "https://www.thairath.co.th/news/crime/2918553",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyN8eNezPo7E.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyN8eNezPo7E.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "패래 도청 건설 프로젝트, 6억 5,700만 바트 예산에 중국 계약자 참여, 공사 포기 의혹",
+      "summary": "- 패래 도청 건설 프로젝트가 예산 6억 5,700만 바트 규모로 진행 중이며, 계약 만료 및 연장 후에도 공정률이 25%에 그침.\n- 관계자들은 중국 투자 그룹과 연계된 계약자가 공사를 포기할 것으로 예상하며, 최근 장비와 인력을 철수시킴.\n- 계약 해지, 손해 배상 청구, 새로운 계약자 물색 절차가 진행될 예정임.",
+      "full_translated": "패래 - 6억 5,700만 바트 이상의 예산이 투입된 패래 도청 건설 프로젝트가 종료되었습니다. 계약 종료 및 거의 2년에 가까운 기간 연장 후, 공사는 25%만 진행되었습니다. 관계자들은 계약자가 중국 자본 그룹과 함께 공사를 포기할 것으로 확신하고 있습니다. 최근 차량, 인력, 장비가 건설 현장에서 철수했습니다. 2069년 3월 8일, 계약 해지, 손해 배상 청구, 새로운 계약자 물색이 진행될 예정입니다. 2069년 3월 6일, 낫타난 부아싹이 이끄는 패래 도청 건설 프로젝트 추적 위원회, 정부 부문 부패 진압 그룹 3의 디렉터, 사리사 롯타원 부패 방지 그룹 디렉터, 자크릿 폴다한 감사원 부감사관 (สะตภ.9), 아누차 삿야딧 패래 감사원 사무소장, 찬차이 깨우쁘라답 특별수사관 (DSI), 티라퐁 통온 패래 도덕 대표 및 위원 24명이 패래므앙 지역의 패래 주 도로 및 도시 계획 사무소 회의실에서 건설 계약자가 공사를 포기하고 있는 패래 도청 건설에 대한 요약 브리핑에 참석했습니다. 차이싯 차이쌈릿폰 패래 부지사, 프로젝트 담당자가 회의 의장을 맡았습니다. ... 싯티팟 팔라난 요타티칸 패래 주 도로 및 도시 계획 사무소장은 패래 주가 2063년 예산 연도 예산법에 따라 내무부 사무국으로부터 예산을 배정받아 총 657,115,400 바트의 예산으로 패래 도청을 건설했다고 보고했습니다. 전자 입찰 방식으로 조달을 진행하여 아크라콘 디벨롭먼트 Co., Ltd.와 차이나 레일웨이 넘버 10 (태국) Co., Ltd.와 건설 계약을 체결했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행에 직접적인 영향은 적으나, 장기적으로 지역 개발에 영향을 줄 수 있는 뉴스. 현재 아침 시간대이므로, 여행 관련 정보 우선순위로 인해 점수 하향 조정.",
+      "event_info": {
+        "date": null,
+        "location": "แพร่ (Phrae)",
+        "price": null,
+        "location_google_map_query": "Phrae"
+      },
+      "references": [
+        {
+          "title": "พบ ศูนย์ราชการแพร่ งบกว่า 657 ล้าน ผู้รับเหมาจีน เข้าข่ายทิ้งงาน ขนอุปกรณ์ ออกเกือบหมด",
+          "url": "https://www.thairath.co.th/news/local/2918552",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyXslUpyKCLO.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyXslUpyKCLO.jpg",
       "date": "2026-03-08"
     }
   ]
