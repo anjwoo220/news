@@ -25468,14 +25468,9 @@
       "summary": "- 이란 관련 분쟁으로 인해 미국 석유 가격이 배럴당 100달러를 넘어섰습니다.\n- 이는 2025년 이후 처음이며, 동남아 여행 시 항공료 및 기타 비용 상승을 야기할 수 있습니다.\n- 유가 상승은 미국 내 휘발유 가격 상승으로 이어져, 여행 관련 지출 증가를 유발할 수 있습니다.",
       "full_translated": "미국 석유 가격이 2025년 이후 처음으로 배럴당 100달러를 넘어섰습니다. 이는 이란 내 전쟁으로 인해 중동 지역 석유 수송에 차질이 생길 것이라는 우려 때문입니다. 외신에 따르면, 미국 석유 가격은 현지 시간 2025년 3월 8일 일요일에 배럴당 100달러를 넘어섰습니다. 이는 러시아가 우크라이나를 침공한 2025년 이후 처음입니다. 투자자들은 이란 전쟁으로 인해 중동 지역의 석유 수송 제한이 장기화될 것을 우려하고 있습니다. 미국 서부 텍사스산 원유(WTI) 선물은 14.7% 상승했으며, 글로벌 벤치마크인 브렌트유는 12.63% 상승하여 배럴당 104달러에 도달했습니다. 한편, 다우존스 선물은 851.6포인트(2%) 하락했고, S&P 500 및 나스닥 선물은 각각 1.73% 및 1.65% 하락했습니다. 에너지 시장의 충격이 미국 내 인플레이션을 유발할 것이라는 우려가 지속되고 있습니다. 미국 자동차 협회(AAA)에 따르면, 2월 28일의 첫 번째 이란 공격의 영향으로 미국의 평균 휘발유 소매 가격은 일요일에 갤런당 3.45달러로 급등했으며, 이는 전주 대비 16% 증가한 수치입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "유가 상승은 항공료 및 여행 비용 증가를 초래할 수 있으므로 여행객에게 중요한 정보입니다. 최근 24시간 내에 유가 관련 뉴스가 없으므로 새로운 정보로 판단됩니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ราคาน้ำมันสหรัฐฯ ทะลุ 100 ดอลลาร์ต่อบาร์เรล ครั้งแรกตั้งแต่ปี 2565",
@@ -25484,23 +25479,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzfcbKh4b0bZ.jpg"
         }
       ],
-      "collected_at": "06:16",
+      "collected_at": "6:16",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzfcbKh4b0bZ.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/foreign/2918704",
+      "source": ""
     },
     {
       "title": "태국 Tomorrowland, 라인업 공개 전 15만 장 티켓 매진",
       "summary": "- 태국에서 처음 개최되는 Tomorrowland 티켓이 라인업 공개 전에 매진됨.\n- 총 15만 장의 티켓이 판매 완료되었으며, 이는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됨.\n- 파타야는 12월 축제에 대비하여 인파 관리에 집중할 것으로 보임.",
       "full_translated": "Tomorrowland의 태국 데뷔, 라인업 공개 전에 15만 장 티켓 매진",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "대규모 축제 관련 정보로, 여행객의 관심이 높을 것으로 예상됨. 파타야 지역의 숙박, 교통 혼잡이 예상되므로 여행자들에게 사전 정보를 제공하는 것이 유용함.",
-      "event_info": {
-        "date": "2024-12-01",
-        "location": "파타야",
-        "price": "미정",
-        "location_google_map_query": "파타야 Tomorrowland"
-      },
+      "event_info": "{'date': '2024-12-01', 'location': '파타야', 'price': '미정', 'location_google_map_query': '파타야 Tomorrowland'}",
       "references": [
         {
           "title": "Tomorrowland’s Thailand debut sells out 150,000 tickets ahead of line-up reveal - Travel Daily News Asia-Pacific",
@@ -25509,23 +25501,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:16",
+      "collected_at": "6:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVmJZU0oxaUVDMDd4dEUtSFhSTWJWQm5RWEViX294VEo1Vk04N1FpNjhNNE85cWFjVVBCUGRhMEdtVXRrc3QtRDFIb2Z5SWJvSEZ1UkNwSEF2Z3EwR0cwMC02aUVDc1Q3a1gxcFRoVi1oVzBjTkFZUVVnSHRFVzZVY3E2N3Q?oc=5",
+      "source": ""
     },
     {
       "title": "뉴욕 경찰, 반이슬람 시위 근처 투척된 장치 IED로 판정",
       "summary": "- 뉴욕 시장 관저 밖 반이슬람 시위대 근처에 투척된 장치는 급조 폭발 장치(IED)로 확인됨.\n- 경찰은 해당 장치가 심각한 부상이나 사망을 초래할 수 있었다고 밝힘.\n- 사건 당시 한 남성이 '알라후 아크바르'를 외쳤으며, 현재 대테러 수사관들이 조사 중.",
       "full_translated": "뉴욕 - 뉴욕 시장 관저 밖에서 반이슬람 시위대에 던져진 수제 소이탄은 '심각한 부상이나 사망을 초래할 수 있는' 실행 가능한 급조 폭발 장치였다고 경찰이 일요일 밝혔다. 토요일 공공 무슬림 기도에 반대하기 위해 극우 인플루언서가 주도한 시위 근처에서 경찰이 에미르 발라트(Emir Balat)로 확인한 남성이 던진 두 개의 의심스러운 장치가 있었다. 현장의 AFP 통신원은 발라트가 사건 도중 '알라후 아크바르'(God is the greatest)라고 외치는 것을 들었으며, 이는 대테러 수사관의 조사 대상이다. NYPD는 일요일 성명에서 'NYPD 폭탄 처리반은 어제 시위에서 점화 및 배치된 장치에 대한 예비 분석을 실시했으며, 이는 속임수 장치나 연막탄이 아니라고 판단했습니다. 실제로 급조 폭발 장치(IED)입니다.'라고 밝혔다. 경찰은 토요일 장치가 테이프로 감싸고 너트, 볼트 및 나사가 들어있는 병이라고 말했는데, 이는 IED의 일반적인 구성 요소이다. 토요일 사건 이후 두 남자가 체포되었는데, 발라트와 이브라힘 카유미는 발라트가 던진 장치를 넘겨 경찰선 근처에 떨어뜨린 것으로 알려졌다. 이 사건은 극우 인플루언서인 제이크 랭(Jake Lang)이 무슬림인 조란 마마니 뉴욕 시장의 공식 관저인 그레이시 맨션(Gracie Mansion) 밖에서 시위를 벌인 후에 발생했다. 랭은 '이슬람화' 주장에 항의하고 뉴욕에서 '공공 무슬림 기도'의 종식을 요구했다. 그의 시위는",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "테러 관련 사건은 여행객 안전에 영향을 줄 수 있으므로 중간 수준의 중요도로 판단.",
-      "event_info": {
-        "date": "2026-03-09",
-        "location": "뉴욕",
-        "price": null,
-        "location_google_map_query": "뉴욕"
-      },
+      "event_info": "{'date': '2026-03-09', 'location': '뉴욕', 'price': None, 'location_google_map_query': '뉴욕'}",
       "references": [
         {
           "title": "NY police say device thrown near anti-Islam protest was IED",
@@ -25534,8 +25523,133 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_5996989_700.jpg"
         }
       ],
-      "collected_at": "06:16",
+      "collected_at": "6:16",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_5996989_700.jpg",
+      "date": "2026-03-09",
+      "link": "https://www.bangkokpost.com/world/3212879/ny-police-say-device-thrown-near-antiislam-protest-was-ied",
+      "source": ""
+    },
+    {
+      "title": "중동 분쟁, 태국 여행에도 영향: 항공편 운항 차질 발생",
+      "summary": "- 중동 지역의 불안정으로 인해 태국을 포함한 동남아시아행 항공편 운항에 차질이 발생하고 있습니다.\n- 발리, 몰디브 등 인기 여행지에 이어 태국 역시 항공편 취소 및 지연의 영향을 받을 수 있습니다.\n- 여행 전 항공편 운항 정보를 확인하고, 여행자 보험 가입을 고려하는 것이 좋습니다.",
+      "full_translated": "중동 분쟁으로 인해 태국 여행 계획에 차질이 생길 수 있습니다. 발리, 몰디브와 더불어 동남아시아 지역의 항공편 운항에 차질이 발생하고 있으며, 태국 역시 예외는 아닙니다. 항공편 취소 또는 지연 가능성에 대비하여 여행 전 반드시 항공편 운항 정보를 확인하고, 여행자 보험 가입을 고려하는 것이 좋습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁으로 인한 항공편 운항 차질은 여행객의 불편을 야기할 수 있으므로 게시 필요. 기존 게시글과 유사하지만, 최신 정보를 제공하므로 업데이트로 간주.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Why Your Thailand Dream Trip Is Getting Cancelled: Here’s The Middle East Conflict Factor You Didn’t Expect! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZW1UUjlVbGRvRk9IeUpIWGJhbHFUQ0ZkMDFLUFlvNXJXbm1FNnczdXl6REItYnhjNE9yRGJkTDZaWWk4Sk15dzJtUW1wc0pOS2ZSS3QzXzEzVHFnTU4wNk5HVWJDNGYzM05Mak5rcTIxNlBiZlBkbWd6RF93QXRJZ2ZlVXdpZ0tDOGRoMzJPVzFJSXlNa0d5Unp6Tk94RS1VV0IyUjh2cDRpREdZU2padHJoWEZla1YzekVwSW5FcFA3aXJJbW90N2xNQnpIRFRYdnBDNDBDN0pOMnhpZXZfalp1ZmItTTZa?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:44",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "BJT, 글로벌 분쟁 속 태국 안정화 전략 발표",
+      "summary": "- Bhumjaithai Party(BJT)는 중동 분쟁 등 국제적 불안정으로부터 태국 경제를 보호하기 위한 전략을 발표했습니다.\n- '10 Plus' 전략은 저소득층, 노년층, 중소기업의 부채 감소를 지원하고, 녹색 산업 투자를 통해 태국의 경쟁력을 강화하는 것을 목표로 합니다.\n- 정부는 유가 공급 및 소비자 물가에 대한 비상 계획을 수립하고 있으며, 총리는 매일 상황을 점검하고 있습니다.",
+      "full_translated": "Bhumjaithai Party(BJT)는 중동 분쟁 심화 등 국제 분쟁으로 인한 불안정으로부터 태국을 보호하기 위한 전략을 발표했습니다. 일요일 부리람의 Chang International Circuit에서 열린 당 포럼에서 BJT 고위 관계자들은 당이 '10 Plus' 전략이라고 부르는 일련의 조치를 발표했습니다. Ekniti Nitithanprapas 부총리는 이러한 조치들이 국가 성장을 견인하는 데 도움이 될 것이라고 말했습니다. Ekniti는 정책 패키지가 실질적인 경제 조치에 초점을 맞출 것이라고 말했습니다. 경제, 무역 및 외교 정책에 걸친 이 패키지에는 저소득 가구, 노인 시민 및 중소기업의 부채 감소를 지원하는 이니셔티브가 포함되어 있습니다. 또한 태국의 국제 경쟁력을 강화하고 지속 가능한 경제 확장을 유지하기 위해 녹색 산업에 대한 투자를 우선시합니다. 그는 \"우리의 목표는 단순한 빠른 성장이 아니라 안정적이고 포용적인 성장입니다.\"라고 덧붙이며, 국가는 1997년 아시아 금융 위기 이전에 보였던 지속 불가능한 경제 확장의 유형을 반복하지 않아야 한다고 말했습니다. Ekniti는 경제가 특히 중동 전쟁으로 인해 여러 외부 충격에 직면하고 있다고 말했습니다. 그는 정부가 상황 전개를 모니터링하고 비상 대책을 준비하고 있다고 말했습니다. 그는 \"지난주 총리는 상황을 평가하기 위해 매일 회의를 소집했습니다.\"라고 말했습니다. \"우리는 석유 공급 및 소비자 물가에 대한 계획을 준비했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 경제에 영향을 미치는 정책으로, 여행객의 소비 및 물가와 간접적으로 연관될 수 있습니다. 다만, 직접적인 여행 관련 정보는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": "Buri Ram",
+        "price": null,
+        "location_google_map_query": "Chang International Circuit, Buri Ram"
+      },
+      "references": [
+        {
+          "title": "BJT unveils stability strategy",
+          "url": "https://www.bangkokpost.com/thailand/politics/3212563/bjt-unveils-stability-strategy",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212563_260309060146_700.jpg"
+        }
+      ],
+      "collected_at": "06:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212563_260309060146_700.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 관광 산업, 중동 위기 속에서 고전… 외국인 관광객 2026년 감소 예상",
+      "summary": "- 태국 관광 산업이 중동 위기로 어려움을 겪고 있으며, 2026년 외국인 관광객 수가 감소할 것으로 예상됨.\n- 단거리 시장에 집중하는 새로운 전략이 부상하고 있음.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "태국 관광 산업은 중동 위기 속에서 어려움을 겪고 있으며, 2026년 외국인 관광객 수가 감소할 것으로 예상됩니다. 새로운 전략은 단거리 시장에 집중하는 방향으로 전개되고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 위기가 태국 관광 산업에 미치는 영향에 대한 정보. 관광객 수 감소 예상은 여행 계획에 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Struggles Amid Middle East Crisis, Foreign Arrivals Expected to Drop in 2026, New Strategies emerge to Focus on Short-Haul Markets - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObTZMTlhmWWhkSXptR0EtUXpMd0EzcEFacjdaMlo5ZUNhd3A1SldIOFUwWmkwTFpXZHJmR3VBZ3RxWHdsWV9NUXY0ZGFKd3myczl4bnlycDZZak9HMW5VLTEydFVXa05SRTBpWUIxd1lobi1yeW84T19Reld5a25EemV0Zm1fbnJ0NUthZkRxV3V1M2tVZG9SRDlMb0pCQ1oxSkdrT0ZKMkFGVWQ2MEEtM3pUdTNwWWl5Y0FJTG9ieE5sQmRmc0Q4aGpxSXVWZDZjNHFFT25nMGFYVkJSN1FrRVE1VGUwZkVCZGlCcE1OcjdJMmozSUx4Mm5nbkJfa2p5dUVSYjlsS0FZOFNqYWZER3ZTUGdzRmhqN2pSN1Uxd2I?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "06:44",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "러시아 대사, 태국의 중립성 칭찬",
+      "summary": "- 러시아 대사는 태국이 러시아-우크라이나 분쟁에서 중립적 입장을 유지하는 것을 칭찬함.\n- 태국은 러시아와 오랜 우호 관계를 유지하고 있으며, 내년 양국은 외교 관계 130주년을 기념할 예정임.\n- 대사는 태국 정부 당국, 대학, 연구원, 언론인과의 대화를 지속하고 있으며, 태국의 중립적 입장을 높이 평가한다고 밝힘.",
+      "full_translated": "에브게니 토미힌 대사는 서방이 분쟁을 연장하고 있다고 말하며, 아동 유괴 수치를 '가짜'라고 일축했습니다.\n\n태국은 러시아-우크라이나 분쟁에서 오랜 중립적 입장을 유지해 왔으며, 이는 국제 관계에 대한 균형 잡힌 접근 방식과 양국과의 역사적 ties를 반영합니다. 토미힌 대사는 태국의 입장이 라마 5세 왕과 니콜라스 2세 차르 간의 외교 관계가 처음 수립된 1897년으로 거슬러 올라가는 러시아와의 우호 전통을 반영한다고 말했습니다. 내년 러시아와 태국은 양국 관계 130주년을 기념할 예정입니다.\n\n토미힌 대사는 \"태국은 처음부터 중립을 유지하고 이 상황과 관련된 국제 문제에서 균형 잡힌 노선을 따르기로 결정했습니다.\"라고 말하며, 모스크바는 이 입장을 소중히 여기며 태국 정부 당국, 대학, 연구원, 언론인과의 대화를 계속하고 있다고 덧붙였습니다.\n\n대사는 최근 아누틴 찬비라쿨 총리를 만나 양국 문제, 지정학적 발전, 전쟁에 대한 러시아의 관점을 논의했습니다. 이 회의는 총리가 외국 외교관들과 정기적으로 소통하는 것의 일환이었습니다. 토미힌 대사는 \"그와 대화할 기회를 전적으로 존중하고 감사합니다.\"라고 말했습니다.\n\n그는 2022년 2월 24일에 시작된 러시아-우크라이나 전쟁 4주년을 맞아 방콕 포스트에 이같이 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국의 외교적 입장에 대한 뉴스. 여행 자체에 직접적인 영향은 적으나, 국제 정세에 대한 이해를 돕고 잠재적인 영향 가능성을 고려하여 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Russian envoy praises Thai neutrality",
+          "url": "https://www.bangkokpost.com/thailand/general/3212773/russian-envoy-praises-thai-neutrality",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212773_260309062509_700.jpg"
+        }
+      ],
+      "collected_at": "06:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212773_260309062509_700.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "아누틴, MotoGP 부패 주장에 명예훼손 소송 제기 예정",
+      "summary": "- 아누틴 총리가 MotoGP 부패 연루 주장에 대해 세레피수트 대표를 명예훼손으로 고소할 예정.\n- 세레피수트 대표는 정부 자금이 칫첩 가문과 당에 흘러갔다고 주장.\n- 품짜이타이 당은 이미 선거 기간 동안 세레피수트 대표의 발언에 대해 선거관리위원회에 жалобу 제기.",
+      "full_translated": "아누틴 차른비라쿨 총리 겸 품차이타이 당(BJT) 대표가 자신과 당을 부패와 연결시키는 주장에 대해 세레피수트 테미야베스에 대한 명예훼손 소송을 제기할 계획입니다. 품차이타이 당의 고위 당원인 수파차이 자이 사무트는 일요일 부리람에서 기자들에게 세리 루암 타이 당 대표인 세레피수트 씨가 아누틴 씨와 당의 신뢰성을 훼손하는 발언을 했다고 말했습니다. 그는 세레피수트 씨가 아누틴 씨와 품차이타이 당이 부리람에서 열린 MotoGP 행사와 관련된 부패에 연루되어 정부 자금이 치드ชอบ 가문과 당에 흘러갔다고 주장했다고 말했습니다. 그는 유사한 주장이 이전에 선거관리위원회(EC)에 보고되었다고 말했습니다. 수파차이 씨는 \"세레피수트 씨가 동일한 왜곡된 정보를 두 번째로 대중에게 반복했습니다. 총리와 당은 이번 주에 그를 상대로 소송을 제기할 것입니다.\"라고 말했습니다. 품차이타이 당은 앞서 선거 운동 기간 동안 세레피수트 씨가 부리람에서 열린 MotoGP 경기를 조직하는 데 40억 바트 이상이 사기적으로 지출되었다고 주장한 발언에 대해 EC에 불만을 제기했습니다. EC는 이 문제를 조사하고 있습니다. 위법 행위가 입증되면 이 사건은 법원으로 회부될 수 있으며 세레피수트 씨는 그의 의원 자격을 잃을 수 있습니다. 수파차이 씨는 또한 품차이타이 당이 분쟁으로 인해 세리 루암 타이 당을 내각에 초대하지 않을 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적 이슈이며, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Anutin to sue over MotoGP graft claims",
+          "url": "https://www.bangkokpost.com/thailand/politics/3212688/anutin-to-sue-over-motogp-graft-claims",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212688_260309060630_700.jpg"
+        }
+      ],
+      "collected_at": "06:44",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212688_260309060630_700.jpg",
       "date": "2026-03-09"
     }
   ]
