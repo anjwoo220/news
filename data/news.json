@@ -25117,14 +25117,9 @@
       "summary": "- 이스라엘이 레바논 수도 베이루트를 재차 공격, 이란 쿠드스군 사령관 다수 사살 주장\n- 레바논 측은 이스라엘 공격으로 인한 사망자가 400명에 육박한다고 발표\n- 공격은 베이루트 호텔을 목표로 진행되었으며, 사망자 중에는 어린이와 여성도 다수 포함됨",
       "full_translated": "이스라엘이 레바논 수도 베이루트를 새로운 공격으로 타격했습니다. 이스라엘은 이란의 쿠드스군 사령관 여러 명을 사살했다고 주장합니다. 레바논은 이스라엘의 공격으로 인한 사망자가 거의 400명에 달한다고 밝혔습니다. 2569년 3월 8일, 이스라엘군은 레바논 베이루트에서 새로운 공습을 감행하여 이란 이슬람 혁명 수비대(IRGC) 소속 전투 부대인 '쿠드스'군의 고위 사령관 여러 명을 사살했다고 밝혔습니다.\n\n일요일 성명에서 이스라엘 방위군(IDF)은 이번 공격이 쿠드스군의 레바논 부대와 팔레스타인 부대의 사령관 5명을 목표로 했다고 밝혔습니다. IDF에 따르면 이들은 모두 레바논 수도의 한 호텔에서 회의를 진행 중이었습니다. IDF에 따르면 쿠드스군의 레바논 부대는 헤즈볼라와 이란 간의 주요 연락책 역할을 합니다. 레바논 당국은 새벽에 베이루트 중심부의 호텔 방을 겨냥한 공격으로 4명이 사망하고 10명이 부상했다고 밝혔지만, 사망자가 누구인지는 확인되지 않았습니다.\n\n한편, 레바논 보건부 장관 라칸 나세레딘은 일요일 기자회견에서 미국과 유대 정부가 2월 28일 이란에 대한 공격을 시작한 이후 이스라엘의 공격으로 인한 사망자 수가 394명으로 증가했다고 밝혔습니다. 나세레딘은 사망자 중 83명이 어린이이고 42명이 여성이라고 밝혔으며, 공격으로 구조대원 9명이 사망했습니다. 레바논의 사망자 수는 토요일부터 급격히 증가했습니다. 당시 보건부 장관은 사망자 수를 발표했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁 심화로 인한 여행 불안 증가. 레바논 여행은 극히 드물지만, 주변국 여행객에게 심리적 영향을 줄 수 있음. 항공편 운항 차질 가능성 존재.",
-      "event_info": {
-        "date": null,
-        "location": "베이루트",
-        "price": null,
-        "location_google_map_query": "베이루트"
-      },
+      "event_info": "{'date': None, 'location': '베이루트', 'price': None, 'location_google_map_query': '베이루트'}",
       "references": [
         {
           "title": "อิสราเอลถล่มเบรุต ดับ 5 ผบ.คุดส์ ฟอร์ซ เลบานอนดับเฉียด 400 ศพ",
@@ -25133,23 +25128,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOz3r9aKzDDMy.jpg"
         }
       ],
-      "collected_at": "03:46",
+      "collected_at": "3:46",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOz3r9aKzDDMy.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/foreign/2918701",
+      "source": ""
     },
     {
       "title": "태국, 이란 전쟁의 영향에 대처하기 위한 중동 전쟁 상황 센터 구성",
       "summary": "- 태국 정부가 이란 전쟁의 영향에 대처하기 위해 중동 전쟁 상황 센터를 구성했습니다.\n- 이는 태국 국민과 여행객의 안전을 위한 조치로 보입니다.\n- 상황 센터는 관련 정보를 수집하고 필요한 대응책을 마련할 예정입니다.",
       "full_translated": "이란 전쟁의 영향에 대처하기 위한 중동 전쟁 상황 센터 구성 Thai PBS World",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 내 여행객에게 직접적인 위협은 아니지만, 잠재적 위험에 대비하는 정부의 노력은 긍정적이며, 여행 안전에 대한 간접적인 영향이 있을 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East War Situation Centre formed to deal with fallout from Iran war - Thai PBS World",
@@ -25158,23 +25150,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:46",
+      "collected_at": "3:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndUN3YkpmX21TZzN3Uzg4SC1Cd0pKMXFabnROZGNBWFlyUE9EZTI3Y0NjRW1kZmtFTmVGZUxzQldvbmMyWW81dWs2dzdselNQREE?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 어려운 세계 속에서도 햇살과 객실 제공",
       "summary": "- 파타야는 여전히 여행객들에게 매력적인 선택지임.\n- 다양한 숙박 시설과 아름다운 해변을 즐길 수 있음.\n- 불안정한 국제 정세 속에서도 안전하고 편안한 휴가를 제공하는 것이 목표.",
       "full_translated": "파타야는 어려운 세계 속에서도 햇살과 객실을 제공합니다. &nbsp;&nbsp;파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야의 일반적인 매력을 강조하는 기사로, 특별한 여행 정보 업데이트는 아니지만, 현재 여행 분위기를 반영하여 포함.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "In a troubled world, Pattaya still offers sunshine and available rooms - Pattaya Mail",
@@ -25183,23 +25172,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:46",
+      "collected_at": "3:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRmpBaUd2Y3ZWS0RGOEJKeko3M0NtMGt5QmZxcmM1NGRxY25FakMzT0pxN1hUZHpTbENqOG9nNF9GTDVxQVlScDFPeGM5d2I4QmdPYzRwZTdaOTNfcXgzT0pLTUJ4QnVvVGMwbWFfWU9zM0lwU09BdkF3N0M1ZDItRkl4S2FGODRma21IcUNTbDdRbEJFU3ZLVk1SdTBzRkFoRnBFWHpuM0dha0c1b3c?oc=5",
+      "source": ""
     },
     {
       "title": "베트남, 태국과 캄보디아를 우회하는 여행자 증가로 관광객 유치",
       "summary": "- 베트남이 태국과 캄보디아를 우회하는 여행자들을 유치하며 관광객 증가 추세.\n- 이는 베트남의 매력적인 관광지와 경쟁력 있는 가격 때문으로 분석됨.\n- 태국 관광 시장에 대한 잠재적 영향에 대한 추가적인 분석이 필요함.",
       "full_translated": "베트남이 태국과 캄보디아를 우회하는 여행객이 늘면서 더 많은 관광객을 유치하고 있습니다. Menafn.com",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행객 감소 가능성 및 경쟁 심화 가능성. 새로운 정보이지만, 여행에 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Vietnam Attracts More Tourists As Travelers Bypass Thailand, Cambodia - Menafn.com",
@@ -25208,23 +25194,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:46",
+      "collected_at": "3:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdVNCREdrd2dTZ1I3cm9oV3lTdXhLYWYxUnFJWFp0MDdTUE9xSzAzdHpBYUtvcENnU2JCc3JzY1NEbFFHQnhSRDNqRGlKdi16NWlWSVo2VmF2eUhLTWpsb0pDNTBXNHpSTTlGZEZCb3lpLXcxUHUxRm1tNVpHQy0wU1lxQ3RPR1RwQl9GN05IZTVUQzFCSXVkR3VxeGpqVTA?oc=5",
+      "source": ""
     },
     {
       "title": "치앙라이 '메콩 연 축제', 태국-중국 우호 강화",
       "summary": "- 치앙라이에서 열린 '메콩 연 축제'가 태국과 중국 간의 우호 관계를 강화하는 데 기여.\n- 이 축제는 양국 간의 문화 교류를 증진하고 관광객 유치에 긍정적인 영향을 미칠 것으로 기대.\n- 구체적인 축제 일정이나 추가 정보는 Chiang Rai Times 기사에서 확인할 수 있음.",
       "full_translated": "치앙라이 '메콩 연 축제'가 태국-중국 우호 관계를 강화합니다. Chiang Rai Times",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국-중국 간 문화 교류를 보여주는 행사로, 관광객에게 흥미로운 볼거리를 제공할 수 있음. 하지만 현재 시각으로 볼 때, 오늘 여행에 즉각적인 영향을 주는 정보는 아님.",
-      "event_info": {
-        "date": null,
-        "location": "치앙라이",
-        "price": null,
-        "location_google_map_query": "치앙라이 메콩 연 축제"
-      },
+      "event_info": "{'date': None, 'location': '치앙라이', 'price': None, 'location_google_map_query': '치앙라이 메콩 연 축제'}",
       "references": [
         {
           "title": "Chiang Rai \"Mekong Kite Festival\" Strengthens Thai-Chinese Friendship - Chiang Rai Times",
@@ -25233,7 +25216,132 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:46",
+      "collected_at": "3:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE94R2EwYXlZNm80bFNrclV2ZFhqV25hdENmcFF3YkRVb19qREYwdGtjaGF0N19Ba2thQkF6X0ZVRG5XSU9uNzI1SWZzWWVxMlhMc2Z5QllmWXBCRkdrS3J3R3NWR2N1T2RGcE5TSWRKclVjTE1kU0x6Q1R3N2FCQQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야, 현지인들의 관광객 공격 영상에 분노 - 여행 안전 주의",
+      "summary": "- 파타야에서 현지인들이 관광객을 공격하는 영상이 공개되어 논란.\n- 사건 경위는 불분명하며, 관광객 안전에 대한 우려가 커지고 있음.\n- 파타야 여행 시 신변 안전에 각별히 주의하고, 유사시 대처 요령 숙지 필요.",
+      "full_translated": "파타야에서 현지인들이 관광객을 공격하는 영상이 공개되어 큰 논란이 일고 있습니다. Thaiger에 따르면, 이 영상은 온라인에서 빠르게 확산되면서 대중의 분노를 일으키고 있습니다. 아직 사건의 정확한 경위는 밝혀지지 않았지만, 이번 사건으로 인해 파타야를 방문하는 관광객들의 안전에 대한 우려가 커지고 있습니다. 파타야를 여행하는 경우, 신변 안전에 각별히 주의하고, 유사시 대처 요령을 숙지하는 것이 중요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "파타야에서 관광객 대상 범죄 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 높은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Outrage as Pattaya video shows tourists attacked by locals - Thaiger",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTkZUeXl3SG5yNUx0dVNaOFFJOHlQeEo1bjdsekxuM1g3TlIxaUVHbDNIb3pndi1Pa1RJV0JmWWVNWU9yMG9abTJRMW43TVYweE5XR1llMUxYeHYzUDRwWXJTZlZ0Z1ZfaWN3eFJzSF9iSXA4akcwakVnRkg5MF9jSGVqd1FWOERwVmVaMEc5MGJJeEFrTkVoT3d3?oc=5",
+          "source": "Thaiger",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 관광공원, 갑작스러운 호랑이 72마리 폐사 미스터리 - 관광객 안전에 대한 우려 증가",
+      "summary": "- 태국 관광객 접촉 가능 공원에서 호랑이 72마리 폐사 원인 불명.\n- 당국은 정확한 원인 조사 중, 관광객 안전에 대한 우려 제기.\n- 과거에도 동물 학대 논란 있었던 공원, 이미지 타격 불가피.",
+      "full_translated": "# 태국 관광공원, 갑작스러운 호랑이 72마리 폐사 미스터리\n\n태국 내 한 관광공원에서 방문객들이 호랑이를 만질 수 있는 곳에서 72마리의 호랑이가 갑자기 죽어 미스터리가 발생했습니다. 당국은 정확한 원인을 조사하고 있으며, 관광객 안전에 대한 우려가 제기되고 있습니다. 해당 공원은 과거에도 동물 학대 논란이 있었으며, 이번 사건으로 이미지에 큰 타격을 입을 것으로 예상됩니다.\n\n*출처: MSN*",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물 학대 논란이 있는 관광 시설에서 대규모 폐사가 발생하여 관광객 안전 및 윤리적 문제에 대한 우려를 야기하므로, 여행객에게 잠재적인 영향을 미칠 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광공원",
+        "price": null,
+        "location_google_map_query": "태국 관광공원"
+      },
+      "references": [
+        {
+          "title": "Mystery as 72 tigers suddenly die at Thai tourist park where visitors can touch the animals - MSN",
+          "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxPN2xOVUxuei1Vam1IZG1CQkJHSlhsMnB2TUpXczdzQjFCUi1PMDBzTnNydE9odGREaWdXeGdhUEtUR1pfY2tzZnFRa0llRkEyQXBsaWx1MTZmQ0xFSFUwMmFxTW1ESF82cThmbUxJT3g0UGdDdU1aNWtSU3BpTTJfNkk2Q2RnRzd5Uk5TT1B2SVVOTVl0N1BmMVVKN3FxdllkZ3NJYjdSOUpnaFhDdzRScE5acy16RVBvR3JLelJHZzBtbERvUk04cVZyd3BaX3psWW9OVkZfTmwxb1NLOTZwMjBQbGFtOEdoMDJacGhRYWNyVV9hMnMzMEgxaU1QNVBBRWpIMy1QMTlKSDVDdkcydEdlUGl5RWFiRXpnNTBKaEtsWWk3QUU5eFhsaWxsUG5iVEppaWFWbkJ0ZjVlZlpZY0dWODJ1TDBCV3FHNUhTWFB4cGlzRGd2YVhCb3pJdmpoT3JHVGR1VzVtOWhrQXFpMzJZVjl2bDR6WTlyaXB0dWk5Mk5NaG9NZDd5T2tqbDN3SmR5ZVNKYk5lUkJIMDRFalY1bFMtZTlzQTJDcm5R?oc=5",
+          "source": "MSN"
+        }
+      ],
+      "collected_at": "04:15",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "파타야, 관광객 자금 유통 활발 - 유흥업 종사자 지역 경제 기여",
+      "summary": "- 파타야에서 관광객들의 소비가 증가하며 지역 경제 활성화에 기여.\n- 유흥업 종사자들의 지출이 가족을 지원하고 지역 경제에 긍정적인 영향을 미침.\n- 파타야 메일은 관광 산업 회복에 대한 긍정적인 신호로 해석.",
+      "full_translated": "파타야에서 관광객들의 소비가 증가하며 지역 경제가 활성화되고 있습니다. 특히 유흥업 종사자들이 지역에서 소비하며 가족을 지원하고 있어 긍정적인 영향을 미치고 있습니다. 파타야 메일은 이러한 현상을 관광 산업 회복에 대한 긍정적인 신호로 보고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야 지역 경제 활성화 소식은 여행객들에게 긍정적인 정보이며, 지역 경제 상황을 이해하는데 도움을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Tourist money circulates in Pattaya as nightlife workers spend locally, support families - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFFMSENiLTdWMXNiclFYN19qMTNZblBOQlJHbWV4a1FlNUc3M1dENTN6QTJBdG03RTRqcHg2RzZGc1hHLUZpb2w5ZmNnanM0QkdZaFpwUkNVRzNLdmowVjlJTnozM1hpcFVXcGtHSnVLWDJrNUFWQjZaaTYxNE8wWDRUaXF1YVlKaGdQY0JvR281d2xmZHRmOVdLUTcySm10ZnN4dGlHOUFMUV9HMVBpb2ZCeXB4QUhfVUlDaC1vMWNUVTRvZEE?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 시아파, 이란 대사관에서 하메네이를 애도하며 태국의 중립을 촉구 - 방콕 포스트",
+      "summary": "- 태국 시아파 신도들이 이란 대사관에서 하메네이 최고 지도자를 애도하며 집회를 열었습니다.\n- 그들은 태국 정부에 중동 분쟁에서 중립을 유지할 것을 촉구했습니다.\n- 이번 집회는 이란과 관련된 지역 정세에 대한 관심을 반영합니다.",
+      "full_translated": "태국 시아파, 이란 대사관에서 하메네이를 애도하며 태국의 중립을 촉구 - 방콕 포스트",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 특정 종교 집단의 활동이 여행 안전에 직접적인 위협은 아니지만, 국제 정세와 관련된 시위는 잠재적인 불안 요소를 내포하고 있습니다. 여행객은 시위 발생 지역 방문을 자제하는 것이 좋습니다.",
+      "event_info": {
+        "date": null,
+        "location": "이란 대사관, 방콕",
+        "price": null,
+        "location_google_map_query": "이란 대사관 방콕"
+      },
+      "references": [
+        {
+          "title": "Thai Shia mourn Khamenei at Iran embassy, urge Thai neutrality - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHZaTlF1Mmo0T1dscTVYVWpQYXVoUklPOVBtd29URktJTzVUd3FxYVBYRG5zX3VtTjhLR3lRYWFBdVJ6aU5iQllJYjU1WkN3Rm4wc1hHQmJ2MjJFU2ZXRTJCcnMxN29pUy1pWWQ3N3h0TWtHRmRMX21LZ2RFZTlMZlJoQnV5VWVRSkVXcnFyanA2cDJMQ1pNaXNiZnQzODFyVlFjWW43dFpuOHhWWUIyd3EtUFE?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:15",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국, 발리 의료 관광 인기: 저렴한 비용으로 간호사 여행객 증가",
+      "summary": "- 태국과 발리는 저렴한 의료비용으로 인해 의료 관광객들에게 인기 있는 여행지임.\n- 특히 간호사 출신 여행객들이 의료 서비스와 휴가를 동시에 즐기기 위해 방문하는 사례가 늘고 있음.\n- 상세 정보는 기사 참조.",
+      "full_translated": "한 간호사 출신 여행객이 태국과 발리에서 의료 서비스를 받으며 수천 달러를 절약했다고 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 의료 관광의 최신 트렌드를 보여주는 정보로, 여행객들에게 유용한 정보가 될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "She's a solo traveler and nurse. Healthcare in Thailand and Bali saves her thousands. - Bundle",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkdJa0IyYWZORmpOS1RLRzk2NG5ZMTJfbnRSUXpQZVY0WTV2NzB3aUQ5ZXZwMDhlRFNZX3VDeXhvZUJ5REt2S2o1V3cwZHlIc0doYmI0MFdKWnRzZ2RyUUh1emd1c0NmUlM1OVlUaC1lU1ZFN1hISERBYnNEbTN5dmVsX3RBMS0tU25UTEM2endRWmcxSzdYV3BtaEluNGV2d3N5RElQeTBLNXFnQlJrd21wRXlleVJkQnA0REMzbThzNDdYa05Fa3ZUb1E4WmlNNk1lT25URlFXMDJCT2c4OU1DLXFlODg?oc=5",
+          "source": "Bundle",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-09"
     }
