@@ -22263,14 +22263,9 @@
       "summary": "- 트랜스젠더 여성이 파타야에서 한국인 관광객을 대상으로 절도 행위를 저질러 체포됨.\n- 피해자는 금품을 도난당했으며, 경찰은 용의자를 신속하게 검거함.\n- 관광객 대상 범죄에 대한 주의가 요구됨.",
       "full_translated": "파타야에서 한국인 관광객을 대상으로 절도 사건이 발생하여 트랜스젠더 여성이 체포되었습니다. 자세한 내용은 조선일보 기사를 참고하시기 바랍니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 한국인 관광객을 대상으로 한 범죄 발생. 여행 안전에 영향을 미칠 수 있으므로 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Transgender Woman Arrested for Theft from South Korean Tourist in Pattaya - 조선일보",
@@ -22278,22 +22273,20 @@
           "source": "조선일보"
         }
       ],
-      "collected_at": "08:17",
-      "date": "2026-03-08"
+      "collected_at": "8:17",
+      "image_url": "",
+      "date": "2026-03-08",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국, 2026년 새로운 럭셔리 여행 트렌드 주도: 방콕, 치앙마이, 푸껫 집중 조명",
       "summary": "- 태국이 2026년 럭셔리 여행 트렌드를 주도할 것으로 예상됨.\n- 힐링, 웰빙, 미식 경험이 핵심 요소로 부상.\n- 방콕, 치앙마이, 푸껫이 최고의 여행지로 주목받고 있음.",
       "full_translated": "태국의 새로운 럭셔리: 힐링, 웰빙, 미식이 2026년 여행 트렌드를 혁신할 것입니다. 왜 방콕, 치앙마이, 푸껫이 최고의 휴가지인지 알아보세요!\n\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행의 새로운 트렌드를 제시하여 여행 계획에 참고할 만한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": "방콕, 치앙마이, 푸껫",
-        "price": null,
-        "location_google_map_query": "방콕 치앙마이 푸껫"
-      },
+      "event_info": "{'date': None, 'location': '방콕, 치앙마이, 푸껫', 'price': None, 'location_google_map_query': '방콕 치앙마이 푸껫'}",
       "references": [
         {
           "title": "Thailand’s New Luxury: Healing, Wellness, and Gastronomy Set to Revolutionize 2026 Travel—Discover Why Bangkok, Chiang Mai, and Phuket Are the Ultimate Getaway Destinations! - Travel And Tour World",
@@ -22302,23 +22295,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbkczdlpNeVBNTVBBY2NXbm5wM2w1WkM0QjlLTGtSaXZ1WFdKYzFlWG5Rd1lhX1dFeVRTdzQ4Y1h1LW9ZWEs3QXl6QmFwTGRMYndQLUtoS2tEYlp4UkdITXdRaFZlUC1aZlhzWU5ORGFSdE9sbk8wMTVFSlYtQVVpSFRmRlNsY1d2TG1IcGJxM2FIS0lDQ2ZwWXV4TTJMVFRSa1I4VXVhY0JxOUFCbFFrMG01UHJYRFFMYURUdnBCdnJRTGFZOUJ5OWZTY2xkRTVyMmRtSHhkZ1JSYk55bGFrU1RsS04xb0ozZjI0Ny1jdmJtRGdQWmZtQS1SckhlQU5lQ05raUg0STRjVkE0cFhVOXhoX1l4djRjX1AyR09hMmhxczZvRi1sY2w4UTNic3luOE45NHpKal9wTFE?oc=5",
+      "source": ""
     },
     {
       "title": "호주 마약상, 태국에서 체포 후 호주로 송환 예정",
       "summary": "- 호주 퀸즐랜드에서 마약 관련 11개 혐의로 수배 중이던 호주 국적 남성이 태국에서 체포됨.\n- 그는 관광 비자로 태국에 입국하여 콘도미니엄에 은신 중이었음.\n- 태국 이민국은 그의 비자를 취소하고 호주 당국에 인계할 예정.",
       "full_translated": "이민국 수사팀은 호주 퀸즐랜드 주에서 체포 영장이 발부된 주요 용의자인 호주 국적의 마약상을 체포했습니다. 그는 2069년 3월 7일에 태국으로 도피했습니다. 경찰청장 파누마스 분냘락과 경찰 부청장 판타나 누차나트, 이민국 국장 송프로드 시리스카는 경찰 대령 수리야 푸앙솜밧과 경찰 중령 피티팟 스리타나아피난에게 체포 명령을 내렸습니다. 그들은 마약 소지 및 제조와 관련된 11건의 혐의로 호주 퀸즐랜드 주에서 체포 영장이 발부된 44세의 호주 국적 남성 아이작 엠마누엘 로버츠를 체포했습니다. 호주 연방 경찰(AFP) 태국 지부는 태국 경찰청에 2062년 마약 소지 혐의와 2060년 인도네시아로의 마약 밀반입 시도 혐의로 아이작 엠마누엘 로버츠를 체포해 달라고 요청했습니다. 그는 최근 2월 10일 관광 비자로 태국에 입국한 것으로 밝혀졌습니다. 수사 결과 아이작 엠마누엘 로버츠는 방콕 딘댕 지역의 콘도미니엄에 거주하고 있는 것으로 밝혀져 체포되었습니다. 이민국 법에 따라 외국인으로 간주되어 임시로 왕국에 거주할 수 있는 허가가 취소되었고, 호주 당국에 인계되어 법에 따라 처리될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "범죄 관련 뉴스이지만, 특정 지역에 국한된 사건이며 여행객에게 직접적인 위협은 아니라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": "딘댕, 방콕",
-        "price": null,
-        "location_google_map_query": "딘댕 방콕"
-      },
+      "event_info": "{'date': None, 'location': '딘댕, 방콕', 'price': None, 'location_google_map_query': '딘댕 방콕'}",
       "references": [
         {
           "title": "สืบตม.3 รวบพ่อค้ายาชาวออสซี่ หนีคดีซุกไทย ก่อนควบคุมตัวส่งทางการออสเตรเลีย",
@@ -22327,23 +22317,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyN8eNezPo7E.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyN8eNezPo7E.jpg",
-      "date": "2026-03-08"
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/crime/2918553",
+      "source": ""
     },
     {
       "title": "패래 도청 건설 프로젝트, 6억 5,700만 바트 예산에 중국 계약자 참여, 공사 포기 의혹",
       "summary": "- 패래 도청 건설 프로젝트가 예산 6억 5,700만 바트 규모로 진행 중이며, 계약 만료 및 연장 후에도 공정률이 25%에 그침.\n- 관계자들은 중국 투자 그룹과 연계된 계약자가 공사를 포기할 것으로 예상하며, 최근 장비와 인력을 철수시킴.\n- 계약 해지, 손해 배상 청구, 새로운 계약자 물색 절차가 진행될 예정임.",
       "full_translated": "패래 - 6억 5,700만 바트 이상의 예산이 투입된 패래 도청 건설 프로젝트가 종료되었습니다. 계약 종료 및 거의 2년에 가까운 기간 연장 후, 공사는 25%만 진행되었습니다. 관계자들은 계약자가 중국 자본 그룹과 함께 공사를 포기할 것으로 확신하고 있습니다. 최근 차량, 인력, 장비가 건설 현장에서 철수했습니다. 2069년 3월 8일, 계약 해지, 손해 배상 청구, 새로운 계약자 물색이 진행될 예정입니다. 2069년 3월 6일, 낫타난 부아싹이 이끄는 패래 도청 건설 프로젝트 추적 위원회, 정부 부문 부패 진압 그룹 3의 디렉터, 사리사 롯타원 부패 방지 그룹 디렉터, 자크릿 폴다한 감사원 부감사관 (สะตภ.9), 아누차 삿야딧 패래 감사원 사무소장, 찬차이 깨우쁘라답 특별수사관 (DSI), 티라퐁 통온 패래 도덕 대표 및 위원 24명이 패래므앙 지역의 패래 주 도로 및 도시 계획 사무소 회의실에서 건설 계약자가 공사를 포기하고 있는 패래 도청 건설에 대한 요약 브리핑에 참석했습니다. 차이싯 차이쌈릿폰 패래 부지사, 프로젝트 담당자가 회의 의장을 맡았습니다. ... 싯티팟 팔라난 요타티칸 패래 주 도로 및 도시 계획 사무소장은 패래 주가 2063년 예산 연도 예산법에 따라 내무부 사무국으로부터 예산을 배정받아 총 657,115,400 바트의 예산으로 패래 도청을 건설했다고 보고했습니다. 전자 입찰 방식으로 조달을 진행하여 아크라콘 디벨롭먼트 Co., Ltd.와 차이나 레일웨이 넘버 10 (태국) Co., Ltd.와 건설 계약을 체결했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행에 직접적인 영향은 적으나, 장기적으로 지역 개발에 영향을 줄 수 있는 뉴스. 현재 아침 시간대이므로, 여행 관련 정보 우선순위로 인해 점수 하향 조정.",
-      "event_info": {
-        "date": null,
-        "location": "แพร่ (Phrae)",
-        "price": null,
-        "location_google_map_query": "Phrae"
-      },
+      "event_info": "{'date': None, 'location': 'แพร่ (Phrae)', 'price': None, 'location_google_map_query': 'Phrae'}",
       "references": [
         {
           "title": "พบ ศูนย์ราชการแพร่ งบกว่า 657 ล้าน ผู้รับเหมาจีน เข้าข่ายทิ้งงาน ขนอุปกรณ์ ออกเกือบหมด",
@@ -22352,8 +22339,133 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyXslUpyKCLO.jpg"
         }
       ],
-      "collected_at": "08:17",
+      "collected_at": "8:17",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQyXslUpyKCLO.jpg",
+      "date": "2026-03-08",
+      "link": "https://www.thairath.co.th/news/local/2918552",
+      "source": ""
+    },
+    {
+      "title": "태국 기상청, 3월 11-13일 여름 폭풍 주의보 발령",
+      "summary": "- 태국 기상청은 3월 11일부터 13일까지 여름 폭풍이 발생할 수 있다고 경고했습니다.\n- 폭풍, 강풍, 우박, 폭우를 동반할 수 있으며 일부 지역에는 번개가 칠 수 있습니다.\n- 여행객들은 이러한 기상 변화에 유의하고 안전에 주의해야 합니다.",
+      "full_translated": "태국 기상청은 3월 11일부터 13일까지 태국 북부 지역에 여름 폭풍이 발생할 것이라고 예보했습니다. 폭풍은 뇌우, 강풍, 우박 및 폭우를 동반할 수 있습니다. 3월 8일, 기상청은 향후 24시간 동안 태국 북부 지역은 낮 동안 더운 날씨가 예상되지만 일부 지역에서는 뇌우와 강풍이 발생할 수 있다고 예보했습니다. 이는 열기로 인한 저기압이 태국 북부 지역을 덮고 있고, 남풍과 남동풍이 남중국해와 태국 만의 습기를 태국 북부 지역으로 유입시키기 때문입니다. 태국 북부 지역은 더운 날씨가 예상되므로 해당 지역의 사람들은 뇌우와 강풍으로 인한 위험에 주의해야 합니다. 남부 지역은 동풍과 남동풍의 영향으로 당분간 뇌우가 예상됩니다. 태국 만 남부 지역은 파도가 1~2m 높이로 예상되며, 뇌우가 치는 지역에서는 2m 이상으로 높아질 수 있습니다. 태국 만과 안다만 해의 선박은 뇌우가 치는 지역을 피해야 합니다. 또한, 3월 11일부터 13일까지 태국 북부 지역에 여름 폭풍이 발생할 것으로 예상됩니다. 폭풍은 뇌우, 강풍, 우박 및 폭우를 동반할 수 있으며 일부 지역에는 번개가 칠 수도 있습니다. 중국에서 유입되는 고기압 또는 찬 공기가 태국 북부, 북동부 및 남중국해를 덮을 것으로 예상되기 때문입니다. 이로 인해 남풍과 남동풍이 습기를 북동부, 중부, 동부 및 태국 만으로 유입시킬 것입니다. 태국 북부 지역은 더운 날씨가 예상됩니다. 이 기간 동안 북부, 중부, 방콕 및 수도권 지역에는 먼지 또는 연기가 보통에서 높은 수준으로 축적될 것입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행 중 날씨 정보는 안전과 계획에 중요하며, 특히 폭풍 예보는 여행에 직접적인 영향을 미칠 수 있으므로 게시 필요.",
+      "event_info": {
+        "date": "2024-03-11 ~ 2024-03-13",
+        "location": "태국 북부",
+        "price": null,
+        "location_google_map_query": "태국 북부"
+      },
+      "references": [
+        {
+          "title": "กรมอุตุนิยมวิทยา เตือน \"พายุฤดูร้อน\" ช่วง 11 - 13 มี.ค. ฝนฟ้าคะนอง ลมกระโชกแรง",
+          "url": "https://www.thairath.co.th/news/local/2918562",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQbKA8w28qobD.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQbKA8w28qobD.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "방콕 쇼핑 지구 대중교통 운전자 단속 강화",
+      "summary": "- 방콕 주요 쇼핑 지역에서 대중교통 서비스 위반 사례 다수 적발.\n- 당국은 2월 27일부터 3월 4일까지 CentralWorld 및 Big C Ratchadamri 인근에서 단속 실시.\n- 부적절한 유니폼 착용, 미터기 검사 미실시, 무단 차량 개조 등 14건의 위반 사례 적발.",
+      "full_translated": "방콕포스트에 따르면 당국은 방콕의 번화한 쇼핑 지역에서 대중교통 서비스 위반 사례가 다수 발견됨에 따라 단속을 강화했습니다. 육상교통부는 2월 27일부터 3월 4일까지 Ratchadamri Road의 CentralWorld 및 Big C Ratchadamri 인근에서 대중교통 운영을 점검하기 위해 검사팀을 배치했습니다. 소라퐁 파이툰퐁 국장은 이번 캠페인이 통근자와 관광객의 편의를 개선하는 것을 목표로 한다고 밝혔습니다. 검사 결과 14명의 운전자가 법을 위반한 것으로 드러났습니다. 위반 사항으로는 부적절한 유니폼을 착용한 운전자 6명, 요금 미터기 검사를 받지 않은 운전자 3명, 연간 세금 납부 없이 차량을 사용한 운전자 2명, 승객을 거부한 운전자 1명, 불법 조명 장비를 설치한 운전자 1명, 운전 면허증을 제시하지 않은 운전자 1명이 있었습니다. 관계자들은 규정을 준수하고, 요금 미터기를 사용하고, 태국의 관광 이미지를 유지하기 위해 승객을 거부하지 않도록 운전자에게 벌금과 경고를 내렸습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕 주요 쇼핑 지역의 대중교통 단속 정보는 여행객에게 유용하며, 바가지 요금 또는 부당한 승차 거부 등의 피해를 예방하는 데 도움이 될 수 있음. 단속 기간 정보와 위치 정보를 제공하여 여행 편의를 증진.",
+      "event_info": {
+        "date": null,
+        "location": "CentralWorld, Big C Ratchadamri, Ratchadamri Road, Bangkok",
+        "price": null,
+        "location_google_map_query": "CentralWorld Bangkok"
+      },
+      "references": [
+        {
+          "title": "Public transport drivers fined",
+          "url": "https://www.bangkokpost.com/thailand/general/3212289/public-transport-drivers-fined",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212289_700.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.bangkokpost.com/media/content/20260308/c1_3212289_700.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "러시아, 하르키우에 드론 및 미사일 공격으로 최소 11명 사망",
+      "summary": "- 러시아군이 우크라이나 하르키우에 대규모 공습을 감행, 최소 11명 사망.\n- 사망자 중 어린이 2명 포함, 에너지 및 철도 기반 시설 파괴 심각.\n- 젤렌스키 대통령, 동맹국에 방공 시스템 및 추가 무기 지원 촉구.",
+      "full_translated": "러시아 군은 지난 토요일 밤 우크라이나에 대규모 공습을 개시하여 하르키우에서 최소 11명이 사망했으며, 그 중 2명은 어린이입니다. 볼로디미르 젤렌스키 대통령은 에너지 기반 시설과 철도가 심각하게 파괴된 후 동맹국들에게 방공 무기를 신속하게 제공할 것을 촉구했습니다. 이로 인해 수백만 명의 시민들이 전기와 난방 공급을 받지 못하고 있습니다.\n\n우크라이나는 러시아가 토요일 밤 드론과 미사일로 대규모 공습을 개시하여 주요 기반 시설에 피해를 입히고 하르키우에서 최소 11명이 사망했다고 밝혔습니다. 젤렌스키 대통령은 이번 공격이 전국 에너지 기반 시설과 철도 시스템을 목표로 했다고 밝혔으며, 국제 동맹국들에게 '인간의 생명에 대한 잔혹 행위'에 대응할 것을 촉구했습니다. 그는 우크라이나가 추가 방공 시스템과 무기 지원이 필요하다고 강조했습니다.\n\n이고르 테레코프 하르키우 시장은 러시아의 탄도 미사일이 5층짜리 아파트 건물을 강타하여 최소 11명이 사망하고 15명이 부상했다고 밝혔습니다. 최소 19채의 주거용 건물이 피해를 입었습니다. 하르키우 지역 주지사는 이번 공격으로 상업용 건물, 정부 건물, 전력선, 자동차도 피해를 입었다고 밝혔으며, 구조대가 건물 잔해 속에서 생존자와 시신을 찾고 있습니다. 또한, 지역 검찰은 러시아 국경 인근 마을의 우체국 근처에서 발생한 드론 공격으로 2명이 더 사망했다고 밝혔습니다.\n\n우크라이나 공군은 방공 시스템이 드론 453대와 미사일 19대를 격추했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "전쟁 관련 소식이지만, 여행 위험 지역과는 거리가 멀어 중간 점수 부여. 다만, 유사시 대피 요령 숙지 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัสเซียระดมโดรน-ขีปนาวุธถล่มเมืองคาร์คิฟ ดับอย่างน้อย 11 ศพ",
+          "url": "https://www.thairath.co.th/news/foreign/2918566",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQbdaFRKW8wqi.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQbdaFRKW8wqi.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "차이야녹, Bhumjaithai당 내 분열 세력에 대한 처벌 위협, Anutin 정부 구성 99.99% 완료",
+      "summary": "- 차이야녹은 아누틴 정부 구성이 99.99% 완료되었다고 밝힘.\n- 당내 분열을 일으키는 세력에 대한 강력한 처벌을 경고.\n- 당의 단결을 해치는 행위에 대해 단호하게 대처할 것을 강조.",
+      "full_translated": "차이야녹은 \"아누틴 정부\" 구성이 99.99% 완료되었다고 밝혔으며, 당내 분열을 일으키는 세력에 대한 강력한 처벌을 경고했습니다. 이러한 행위로 인해 문제가 발생할 경우 단호하게 대처하여 품자이타이당의 혼란을 막을 것입니다. 2069년 3월 8일 오전 8시 50분, 부리람주 창 인터내셔널 서킷에서 디지털 경제 사회부 장관이자 품자이타이당 사무총장인 차이야녹 치드ชอบ은 국회의원 세미나의 목표에 대해 다음과 같이 말했습니다. 품자이타이당은 두 배 이상 성장했으며, 신규 회원이 기존 회원보다 많습니다. 이번 세미나의 목적은 이해를 높이고 친밀감을 조성하며 품자이타이당의 관점에서 태도를 교환하는 것입니다. 저는 두 번째 임기의 국회의원이지만 품자이타이당은 다른 당과 다른 문화를 가지고 있습니다. 가족처럼 지내며 서로를 알아갑니다. 적응은 신규 국회의원뿐만 아니라 기존 국회의원에게도 해당됩니다. 품자이타이당의 업무 측면에서 볼 때, 많은 사람들이 품자이타이당의 변화를 보았을 것입니다. 그러나 이번에는 추가적인 변화가 있을 것입니다. 더 집중해야 할 것은 입법부이며, 이는 체계적인 행정부의 변화와 병행하여 태국이 닥친 위기와 불확실성을 극복하고 국가 발전을 위한 토대를 마련하는 것입니다...\n\n기자가 당이 커지면 분열과 파벌을 어떻게 관리할 것인지 묻자 차이야녹은 다음과 같이 말했습니다. 이 문제는 계속 논의되어 왔으며 추가적으로 논의해야 합니다. 지난번에도 수면 아래 파도가 있었지만 극복했습니다. 카지노 문제나 연립 정부에서 야당으로의 전환으로 인한 문제가 아니라 당의 단결을 흔드는 수면 아래 파도가 발생하는 특정 시점이 가장 큰 문제입니다. 따라서 이번에는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 내용으로, 여행객에게 직접적인 영향은 적으나 태국 내 정치 상황에 대한 간략한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "“ไชยชนก” ขู่ลงดาบพวกก่อมุ้งในภูมิใจไทย ยันตั้งรัฐบาลอนุทินคืบหน้าแล้ว 99.99%",
+          "url": "https://www.thairath.co.th/news/politic/2918568",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQaTxcbYtNmFR.jpg"
+        }
+      ],
+      "collected_at": "10:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4HQaTxcbYtNmFR.jpg",
+      "date": "2026-03-08"
+    },
+    {
+      "title": "이란, 걸프만에 사과…그러나 중동 전쟁 지속",
+      "summary": "- 이란 대통령이 걸프 지역 국가들에 이례적으로 사과하며 긴장 완화를 시도함.\n- 이는 이란의 걸프 민간 목표물 공격에 대한 주변국의 분노를 잠재우기 위한 것으로 보임.\n- 이스라엘과 이란은 2주째 공방전을 이어가며 중동 전쟁이 격화되고 있음.",
+      "full_translated": "이란 대통령은 지난 토요일(3월 7일) 이웃 국가들에 대한 '행동'에 대해 이례적인 사과를 했습니다. 이는 이스라엘과 이란이 공방을 벌이며 중동 전쟁이 2주째 접어들면서 이란의 걸프 민간 목표물 공격에 대한 지역적 분노를 잠재우려는 것으로 보입니다. - 로이터",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 중동 지역 불안정은 국제 유가 상승 등을 통해 간접적인 영향을 줄 수 있음. 따라서 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Iran apologizes to Gulf but war still rages across region",
+          "url": "https://www.bangkokpost.com/video/world/3212330/iran-apologizes-to-Gulf-but-war-still-rages-across-region",
+          "source": "Bangkokpost.com : Most recent"
+        }
+      ],
+      "collected_at": "10:41",
       "date": "2026-03-08"
     }
   ]
