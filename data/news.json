@@ -24787,14 +24787,9 @@
       "summary": "- 태국, 싱가포르, 일본, 중국, 인도, 인도네시아, 카타르, UAE 등 아시아 여러 국가에서 항공편 취소 및 지연 발생.\n- 싱가포르, 일본, 에미레이트 항공, 에어 인디아 등 주요 항공사 운항 차질.\n- 도쿄, 베이징, 방콕 등 주요 도시 공항에서 혼란.",
       "full_translated": "태국, 싱가포르, 일본, 중국, 인도, 인도네시아, 카타르, UAE 등 아시아 여러 국가에서 1,184편의 항공편이 취소되고 2,238편이 지연되어 여행객들이 발이 묶였습니다. 이번 사태로 싱가포르, 일본, 에미레이트 항공, 에어 인디아 등 주요 항공사의 운항에 차질이 발생했으며 도쿄, 베이징, 방콕 등 주요 도시의 공항이 혼란에 빠졌습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "공항 혼잡 및 항공편 취소/지연으로 여행 일정에 직접적인 영향. 아시아 여러 국가에 걸쳐 발생한 광범위한 문제이므로 중요도가 높음.",
-      "event_info": {
-        "date": null,
-        "location": "도쿄, 베이징, 방콕 등 아시아 주요 도시",
-        "price": null,
-        "location_google_map_query": "방콕 공항"
-      },
+      "event_info": "{'date': None, 'location': '도쿄, 베이징, 방콕 등 아시아 주요 도시', 'price': None, 'location_google_map_query': '방콕 공항'}",
       "references": [
         {
           "title": "Thousands Of Travellers Stranded In Asia As Thailand, Singapore, Japan, China, India, Indonesia, Qatar, And UAE Cancel 1,184 And Delay 2,238 Flights, Disrupting Singapore, Japan, Emirates, Air India And Other Airlines In Tokyo, Beijing, Bangkok, And Mor - Travel And Tour World",
@@ -24803,23 +24798,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:19",
+      "collected_at": "2:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxPVE1HMzk0ekZMOVc3RnZnZ01TLXNlTkFncEZkVmZsdlluWEphNV9NajZtOU9jcE5iWndZTnUtZC1KTWpCelpNSUJ0VnFLNWh3MWNQNlZrU3lMQkhST05XM1dGOFBsaWs4UlR2UVNleHdvRWxGa3p1WmJNWXhvNmZuNkVaeHhJTFlFbUUwS29vT1htNUd2eGFDMS1UYnRxN0MwS1dsT1NDOUxfLUxsV3UwcFMwVE5TNUV3dlFneHBGRHB1ZWdONGxMQ3hPNmJNeFdOakw2VVB6cWhtcThVRW1neVExRk5jem1vRWJsVjYya0xiMzBUSm5abjl0TVlSZU8zeEltTVFMRTdTOFNlQ2ZJSVk2LWR4Vm53OXFDNTZlX01oalVUU3dlekswNV9mSU1FNUlqREJ3b01LSV9INXVoNkg2OEpoZ1RlaERuaXJwcV9qbDZrRk9YUU42RUdBZHNwWFdSR3BxU2w?oc=5",
+      "source": ""
     },
     {
       "title": "에티하드 항공, 아랍 에미리트와 인도, 영국, 미국, 캐나다, 호주, 태국, 싱가포르, 말레이시아 간 국제선 연결 재개",
       "summary": "- 에티하드 항공이 주요 국제선 노선을 재개하여 여행객들에게 중요한 업데이트를 제공합니다.\n- 아랍 에미리트와 인도, 영국, 미국, 캐나다, 호주, 태국, 싱가포르, 말레이시아를 연결합니다.\n- 글로벌 승객은 알아야 할 주요 여행 업데이트를 확인하세요.",
       "full_translated": "에티하드 항공이 아랍 에미리트와 인도, 영국, 미국, 캐나다, 호주, 태국, 싱가포르, 말레이시아를 연결하는 국제선 연결을 재개합니다. 글로벌 승객은 알아야 할 주요 여행 업데이트입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "에티하드 항공의 국제선 재개는 여행객들에게 항공편 선택의 폭을 넓혀주어 여행 편의성을 높일 수 있습니다. 특히 태국을 포함한 여러 국가를 연결하여 여행 계획에 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Etihad Airways Restarts International Travel Links Connecting the United Arab Emirates With India, United Kingdom, United States, Canada, Australia, Thailand, Singapore, and Malaysia — Key Travel Updates Global Passengers Should Know - Travel And Tour World",
@@ -24828,23 +24820,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:19",
+      "collected_at": "2:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxNMkNHc2xXLWotVk8ycnQwSUxmUWNBeEMtQlZ6RDJpREtmOVpzMllJcDN6elFWazZ6VlM3MkN5WXpTY0tpa1hTQmNSNHNmU1Bfa0xUb0R0Skpab2xqTkdfUEZIdXhiQTFlR3VhS05VWDhyRnB4aFc5bHJ3N2p0UzlWZmhwMVZ4dERHcVoxTDR6WmZkWE5CZ2VHem8yUnE3cEE4TWphbVlYN204RnJtdGpaeTNwcUdxY0piekNNTXpkQll6YnJZdlRfMHg3N0RQQUNKOFBBNEtndlpoelpLMnRXYXhaY0p4T2dqWlU2TEtTeV9vZlg3Wm1BMlpZRnBsMkh2by1OOHNOT0dlZVplWnUzSDR6czFVSUQyUnAxT2tuRlVneElBcERyTUNSZlhldXBUWXY3YXB1Zmd6Q1Ftc3hVdHBnRWRjdjZoalRwYzh0MTFvUQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 더 이상 저렴한 곳이 아니다? - 저렴한 겨울 휴양지는 어디로 가야 할까 - MSN",
       "summary": "- 태국 여행 비용이 상승하여 예전만큼 저렴하지 않다는 분석.\n- 저렴한 겨울 휴양지를 찾는 여행객들에게 다른 대안을 제시.\n- 물가 상승, 관광객 증가 등이 원인으로 언급됨.",
       "full_translated": "태국이 더 이상 저렴하지 않은 이유 - 그리고 저렴한 겨울 햇살을 쬘 수 있는 곳은 어디일까요? MSN",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행 비용 상승은 여행객의 의사 결정에 영향을 미치므로 정보 제공 가치가 있음. 하지만 안전에 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Why Thailand is no longer a bargain - and where to head for cheap winter sun instead - MSN",
@@ -24853,23 +24842,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:19",
+      "collected_at": "2:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNWC1wQm03aDRwUV9QSXd6U0o4TkxuTFd5ME5tdENWeXZwZ2sxdVZpU3pLcFo1STRSMTU4d0JvMG5VZXpwd0hCUWtUZjV6N3hVdUdtUy03WXlFM3JoMHBMUzNjb2FTTHI0RFFDdUhkcHlxeEJodWpzX2tsSG1sNEYydlo1UzNaeFJ0MTlsNnlicVJOZEdpOVE0a09oUjVGYUZKcHQxMlk5SGpUR09JZmxYX0VGdl8wUXZoTTdoR29VaVd1amo2V2h2QzdfUlI0bk9rczJFU01VdnRSVWFHVlJMSjJwc1Iwa1VSazFGb0tpVkF4dXhlZTQxWlBraUNSaUVmM24ydjRBWWhlM3MwcUpMR0s0THlNb1N3SEZ3?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 외국인 관광객 경험 공유: 좋은 점과 나쁜 점",
       "summary": "- 파타야에 대한 외국인 관광객들의 다양한 경험 공유\n- 긍정적인 측면과 부정적인 측면 모두 다룸\n- 관광객들의 생생한 후기를 통해 파타야의 현실적인 모습 조명",
       "full_translated": "파타야에 대한 외국인 관광객들의 좋은 점과 나쁜 점에 대한 경험 공유",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야 여행 정보 제공, 관광객 경험 공유",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "What Pattaya is really about as foreign tourists share their good and bad experiences - Pattaya Mail",
@@ -24878,23 +24864,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:19",
+      "collected_at": "2:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMnpsRnB2MU1VZlBvVGhHSXVlUXhSTHplMjNSbUJaNEpmTVM3dndNX1NqRjdoVXUtUnFBZkY3SHJTRDR0dTM0UHNYRTJjaGt5elE5SkVvZk9zMjFSQUNKYlBWZERJT2paa1hiY2thZkd4YU1qWHdJa3dfOTNaNkFkYjBzbUtLOTc3bV9fYl9xTXpLblhLbzlHTHNaemg3Wld5Yl9RcFNQdlV6NFVaQ0ZOVHRSMmJQVk1uZWhaMHpjQW5CTGc?oc=5",
+      "source": ""
     },
     {
       "title": "태국 테니스 마스터즈 2026, 스포츠 관광 추진을 위한 저지 공개",
       "summary": "- 태국 테니스 마스터즈 2026의 저지 공개는 스포츠 관광 활성화를 위한 노력의 일환입니다.\n- 이 행사는 태국을 스포츠 이벤트 개최지로 홍보하고, 관광 산업을 발전시키는 데 기여합니다.\n- 자세한 내용은 MSN에서 확인할 수 있습니다.",
       "full_translated": "태국 테니스 마스터즈 2026 저지 공개는 스포츠 관광 추진을 위한 노력의 시작을 알립니다. MSN",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "스포츠 행사 유치는 관광객 유입에 긍정적인 영향을 미치나, 당장 여행에 미치는 영향은 크지 않음.",
-      "event_info": {
-        "date": "2026-01-01",
-        "location": "태국",
-        "price": "미정",
-        "location_google_map_query": "태국 테니스 마스터즈 2026"
-      },
+      "event_info": "{'date': '2026-01-01', 'location': '태국', 'price': '미정', 'location_google_map_query': '태국 테니스 마스터즈 2026'}",
       "references": [
         {
           "title": "Thailand Tennis Masters 2026 jersey launch kicks off sports tourism push - MSN",
@@ -24903,7 +24886,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:19",
+      "collected_at": "2:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPMm1oNFR1ZFVzNkROTC02Rm5UcVdJMzN1alVvRTdBOGJoZTFvM05WSWZ3OE1sb2ZSYm41NjRJOExIS0trc3lYYVZ6ckdwNWtmbWJSTWZta1YzRkNsSVE1eHpsZmduR3l5YzlwdVo3eHpPT05BQ0xnNUxMNWRHNktFdGhkUktDelJrRjJKNUVweWQ1VTJXXzVGTTFuVmJGRFZJcFBobUNQWlBZcmNPTWNwalR4NjZPZ2VmdDFkSnFiQWVLQ1J3aXF5cnFWLU1jTDFzRTBqUmNLbUdHYkotRXBQMEVrQ0F3ZHg4SEhPa2xqZnBwVzVnM2I1UEg0cWNsS21uSjY4UnNUZHlfSzRQQng1dFh1LW1HNWRnX2VHUnhFT3R3VGNhNjRYamlwS2x3V2RRQjNDQWFGZ3ZoeTZKVWJmeHFjSU1VTzBMLUU5bXZnaldXQVBnMnpnbw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란, 최고 지도자 선출 관련 불확실성 지속 - 여행 안전 주의 필요",
+      "summary": "- 이란 최고 지도자 선출 과정에 대한 불확실성이 지속되고 있음.\n- 차기 지도자 후보로 카메네이의 아들이 거론되면서 논란이 일고 있음.\n- 미국은 이러한 승계에 대해 반대 입장을 표명하며, 중동 지역의 긴장감이 고조될 수 있어 여행객 안전에 유의해야 함.",
+      "full_translated": "이란의 전문가위원회는 '카메네이'라는 이름이 이란의 지도자로 계속 남을 것이라고 밝혔습니다. 이는 모지타바 카메네이가 그의 아버지의 뒤를 이어 새로운 지도자로 선출될 수 있다는 기대를 낳고 있습니다. 2069년 3월 8일, 이란의 새로운 최고 지도자를 선출하는 임무를 맡은 전문가위원회는 '카메네이'라는 이름이 이란의 지도자로 계속 남을 것이라고 밝혔습니다. 이전에 의회는 새로운 지도자를 선출했지만 공식적인 최종 결정은 발표되지 않았다고 밝혔습니다. 이란 언론이 공개한 영상에서 호세날리 에슈케바리는 “지도자를 결정하는 문제는 완료되었습니다. 카메네이의 이름은 계속될 것입니다. 투표는 끝났고, 당국이 곧 발표할 것으로 기대합니다. 걱정할 필요가 없습니다.”라고 말했습니다. 에슈케바리의 의견은 지난 2월 28일 미국과 이스라엘의 공습으로 사망한 이전 최고 지도자 아야톨라 알리 카메네이의 둘째 아들인 모지타바 카메네이가 새로운 최고 지도자로 선출될 수 있음을 시사합니다. 그러나 도널드 트럼프 미국 대통령은 목요일(3월 5일) 모지타바 카메네이를 아버지의 후계자로 임명하는 것은 '용납할 수 없다'고 말했습니다. 또한 도널드 트럼프는 일요일(3월 8일) ABC 뉴스와의 인터뷰에서 이란의 다음 최고 지도자는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "이란의 정치적 불확실성이 고조될 경우 여행 안전에 잠재적인 위협이 될 수 있으며, 특히 미국과의 관계 악화 시 여행에 미치는 영향이 있을 수 있음. 최근 중동 지역의 불안정성을 고려하여 여행 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สภาอิหร่านลั่น ชื่อของ “คาเมเนอี” จะคงอยู่ต่อไปในฐานะผู้นำอิหร่าน",
+          "url": "https://www.thairath.co.th/news/foreign/2918700",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOz0oQEzyl1Hc.jpg"
+        }
+      ],
+      "collected_at": "02:42",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOz0oQEzyl1Hc.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "방콕에서 관광객에게 코카인 판매한 영국인 체포",
+      "summary": "- 방콕에서 영국인 남성이 관광객에게 코카인을 판매한 혐의로 체포됨.\n- 해당 남성은 코카인 판매 혐의를 받고 있으며, 현재 경찰 조사 중.\n- 관광객 안전에 영향을 미칠 수 있는 사건으로, 주의가 필요함.",
+      "full_translated": "방콕에서 영국인 남성이 관광객에게 코카인을 판매한 혐의로 체포되었습니다. Thaiger",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "방콕 내 범죄 발생 소식으로 관광객 안전에 영향을 줄 수 있어 포함. 최근 발생한 사건이므로 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "British man arrested in Bangkok for cocaine sales to tourists - Thaiger",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWNMMWVzY1ZlcGtSUXhwVDZZWWhvWGVCc21RWTJzeS1uTmhLQTQ0V0w1bEhpSkg2dlU4X21ickU1dUYwdEhqT21PUTVwWUJlY1ZKalVsaUxsRXRtZ0E0S2pwZU44d0pISEFFR0Y3X1JiaDZ3YlJoZ09uazd2MEJVZE1Jek9XWXVzcWlOa3V1RmlrRDF4ZXc4RlRrUm9WT0E?oc=5",
+          "source": "Thaiger",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "사뭇사콘 어부들의 연료 위기, 해산물 부족 및 관광객 가격 상승 우려 - 파타야 메일",
+      "summary": "- 사뭇사콘 어부들이 연료 위기로 어려움을 겪고 있습니다.\n- 해산물 부족과 가격 상승이 예상됩니다.\n- 관광객들에게도 영향을 미칠 수 있습니다.",
+      "full_translated": "사뭇사콘 어부들이 연료 위기로 어려움을 겪으면서 해산물 부족과 관광객 가격 상승에 대한 우려가 커지고 있습니다. &nbsp;&nbsp;파타야 메일",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "해산물 가격 상승은 관광객에게 직접적인 영향을 줄 수 있으며, 식당이나 시장 방문 시 비용 증가를 유발할 수 있음. 연료 위기가 장기화될 경우, 관광객들이 즐겨 찾는 해산물 요리를 맛보기 어려워질 수도 있음. 하지만 현재로서는 제한적인 지역 문제이며, 파타야 메일이라는 비교적 인지도가 있는 언론사의 보도이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "사뭇사콘",
+        "price": "해산물 가격 상승",
+        "location_google_map_query": "사뭇사콘"
+      },
+      "references": [
+        {
+          "title": "Fuel crisis hits Samut Sakhon fishermen, raising fears of seafood shortages and higher prices for tourists - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONXFsNzY1aHo3eHI3MjU0QUVSaXk5ZkxWbkU3eEJMR1B1X01RUU9qR3VTX2Z5RVBSZmE5UlVmWWdrYV9PeHlRaUhGY1dFcEg3aUk0T0JGSFduamkteVMtVUJYSk10eUJTZDZtLS1weHRKazVnWk1taEZ5Ukl1a2ZzXzF2bTYwOHdnMGRUQ0p3MlQzUk04Nm5sSHBFN1ZEV2hDMUVTV2k1WXRpOFNsMUlERWV2WDJMcDdjWEEtYWt0X1Fobl9ob2RKOGJhb05JVXpOeTczVDFVczRxQlFrTnc?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "푸껫 관광 경찰, 부적절한 행동 신고 접수 후 라와이 해변 순찰 강화",
+      "summary": "- 푸껫 관광 경찰이 관광객의 부적절한 행동 신고 접수 후 라와이 해변 순찰을 강화합니다.\n- 이는 관광객의 안전과 지역 사회의 질서 유지를 위한 조치입니다.\n- 경찰은 해변에서의 음주, 소란, 노출 등 공공질서를 해치는 행위에 대해 엄정 대처할 예정입니다.",
+      "full_translated": "푸껫 관광 경찰이 관광객의 부적절한 행동 신고 접수 후 라와이 해변 순찰을 강화합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광지 안전 관련 뉴스이며, 경범죄에 대한 단속 강화는 여행 시 주의를 요하므로.",
+      "event_info": {
+        "date": null,
+        "location": "라와이 해변, 푸껫",
+        "price": null,
+        "location_google_map_query": "라와이 해변 푸껫"
+      },
+      "references": [
+        {
+          "title": "Phuket Tourist Police step up Rawai Beach patrols after reports of indecent behavior by tourists - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOVE3MVl4QnVJdE0wUDVJTXYyRGJTMFByZTlSMUNIa09pbkhUcXl5TnNBRDliUld0YVBiRVQ0bkVQMUpUcWdUUDlRQ2E2V1Jyc2twWmh6eUtoUW1vbkNKTkZQX0xXaEdhZFotcGR0Sl9qUWRleFFMd05lak1SS3EwLXJqNU9kSy04SUw0cVNLeVdlMjlCcXprZWVmYU1SSUVHV1ZjVy15UmF6WmFKWjBtVExKTTZSY0hDbVc5T2llS0NvZmczcUZoM0ItR2k1UWp6WlFkYjRFVXowNUdS?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:42",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "방콕 대중교통 운전사 벌금 부과",
+      "summary": "- 방콕 대중교통 운전사들에게 벌금이 부과되었습니다.\n- 위반 사항에 대한 구체적인 내용은 기사에서 확인해야 합니다.\n- 여행 시 대중교통 이용에 주의가 필요합니다.",
+      "full_translated": "방콕 대중교통 운전사 벌금 부과&nbsp;&nbsp;Bangkok Post",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "대중교통 이용에 영향을 미칠 수 있으므로 여행자에게 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕 대중교통"
+      },
+      "references": [
+        {
+          "title": "Public transport drivers fined - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnVaT0xlaUJvQ2kyZFV3SFFFSWc2RkZiajQwMHYwVWJtT1NtWHlJOTR1VEJFbEZGVE9xS1ZTLXotc3loYkpuSlFwc1R2UmlZWjhJR3h2VHpjdVI2ZjYxQzVRSXVZVTh2SVNfNjBZMlhoQnY1QW5IaGhEeVZWWFNxS0tBYWQxeHRCb0hz?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:42",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-09"
     }
