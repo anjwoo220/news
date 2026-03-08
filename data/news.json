@@ -24352,14 +24352,9 @@
       "summary": "- 파타야는 12월에 열리는 Tomorrowland Thailand를 대비하여 인파 관리에 나섰습니다.\n- 축제 기간 동안 파타야는 많은 관광객으로 붐빌 것으로 예상됩니다.\n- 숙박, 교통, 안전 문제에 대한 대비가 필요합니다.",
       "full_translated": "파타야는 12월 Tomorrowland Thailand를 위해 인파를 대비하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "대규모 축제는 교통 혼잡, 숙박 문제 등 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여. 특히 12월 축제를 앞두고 있다는 점에서 시의적절함.",
-      "event_info": {
-        "date": "2024-12-00",
-        "location": "파타야",
-        "price": "...",
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': '2024-12-00', 'location': '파타야', 'price': '...', 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "Tomorrowland Thailand ticket rush begins as Pattaya braces for December crowds - El-Balad.com",
@@ -24367,22 +24362,20 @@
           "source": "El-Balad.com"
         }
       ],
-      "collected_at": "00:16",
-      "date": "2026-03-09"
+      "collected_at": "0:16",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LmVsLWJhbGFkLmNvbS9lbi9uZ28vMzY4NjU0L1RvbW9ycm93bGFuZC1UaGFpbGFuZC10aWNrZXQtcnVzaC1iZWdpbnMtYXMtUGF0dGF5YS1icmFjZXMtZm9yLURlY2VtYmVyLWNyb3dz0gEA?oc=5",
+      "source": ""
     },
     {
       "title": "중동 분쟁, 발리, 몰디브, 동남아시아의 항공편 운항 차질에 합류 - 글로벌 여행객을 위한 스마트 여행 팁 - Travel And Tour World",
       "summary": "- 중동 분쟁으로 인해 발리, 몰디브, 동남아시아 등 여러 지역에서 항공편 운항에 차질이 발생하고 있습니다.\n- 여행객들은 이러한 상황에 대비하여 스마트한 여행 계획을 세우는 것이 중요합니다.\n- Travel And Tour World는 항공편 운항 차질에 대한 최신 정보와 여행 팁을 제공합니다.",
       "full_translated": "중동 분쟁이 발리, 몰디브, 동남아시아와 함께 항공편 운항에 차질을 빚는 목적지로 합류했습니다. 글로벌 여행객이 앞서 나가기 위한 스마트 여행 팁 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공편 운항 차질은 여행객의 일정에 직접적인 영향을 미치므로 높은 점수를 부여합니다. 특히 동남아시아 여행객에게 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East Conflict Joins Bali, Maldives, and Southeast Asia as Destinations Facing Flight Disruptions – Smart Travel Tips for Global Tourists to Stay Ahead - Travel And Tour World",
@@ -24391,23 +24384,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:16",
+      "collected_at": "0:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNZE5iN1ZtQWhLdXVreTNYTFB5WXlDWURUakQtQzZUTjYzMFY2eUtsdldFT3BucWdnNE5Ib0VPaDFIRmVuUjJhOEVXR0lZVnc0Y1BKUFFNVnVWR2VlYkRzYS1acGEtckxjMk9tMDVJenNhejFmOVRhdVI2enBoNWZvc0Y0am1Vaml2Q1BzUFpIaDNfZnA2enVKRUozR3Z5TUJHRExrdFFrX2lyR3RudjV3Rms4ZTdlWjl6S3dNVlg2cEZZM25tUzdveUNhaFBLMFNicnpIVUphRTlKZ0xHM2tXaHVESGhTbnI0T19IM1NQVUtldy16VmM3NGpERklrdDNaTE5UTTRWeDBRWmY4WVVpdWxxSkxqbHBuRzBzeFQ0MkdZc0doZFRtbmFR?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 시리킷 여왕 애도 기간 1년 선포 - 여행객에게 미치는 영향",
       "summary": "- 태국 정부는 시리킷 여왕의 애도 기간을 1년으로 선포했습니다.\n- 이는 태국 국민들의 애도와 추모를 위한 결정입니다.\n- 여행객들은 애도 기간 동안 일부 행사나 축제가 취소될 수 있음을 인지해야 합니다.",
       "full_translated": "태국은 현재 시리킷 여왕을 1년 동안 애도하고 있습니다. 이것이 여행객에게 의미하는 바는 무엇일까요?",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "국가적 애도 기간 선포는 여행 분위기와 일부 행사에 영향을 줄 수 있으므로 여행객에게 정보를 제공할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand is now mourning Queen Sirikit for a year - what it means for tourists - MSN",
@@ -24415,22 +24405,20 @@
           "source": "MSN"
         }
       ],
-      "collected_at": "00:16",
-      "date": "2026-03-09"
+      "collected_at": "0:16",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvdHJhdmVsL25ld3MvdGhhaWxhbmQtaXMtbm93LW1vdXJuaW5nLXF1ZWVuLXNpcmlraXQtZm9yLWEteWVhci13aGF0LWl0LW1lYW5zLWZvci10b3VyaXN0cy9hci1BQTFkZkJ3NNIBAA?oc=5",
+      "source": ""
     },
     {
       "title": "Norse Atlantic, 런던-방콕 노선 항공편 증편 - 여행객에게 희소식?",
       "summary": "- Norse Atlantic 항공이 런던-방콕 노선을 증편합니다.\n- 여행객들은 더 많은 항공편 선택지를 갖게 되었습니다.\n- 이번 증편이 항공 여행 시장에 큰 변화를 가져올지 주목됩니다.",
       "full_translated": "Norse Atlantic 항공이 런던-방콕 노선을 증편합니다. 이번 증편으로 여행객들은 더 다양한 시간대의 항공편을 이용할 수 있게 되었습니다. 과연 이번 증편이 여행 시장에 어떤 영향을 미칠지 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "항공편 증편은 여행객의 편의성을 높이는 요소이며, 특히 런던-방콕 노선은 인기 노선이므로 여행객에게 직접적인 영향을 줄 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "런던 - 방콕",
-        "price": null,
-        "location_google_map_query": "London to Bangkok flights"
-      },
+      "event_info": "{'date': None, 'location': '런던 - 방콕', 'price': None, 'location_google_map_query': 'London to Bangkok flights'}",
       "references": [
         {
           "title": "Norse Atlantic Expands London–Bangkok Routes with Extra Flights – Is This the Game-Changer Travelers Have Been Waiting For? - Travel And Tour World",
@@ -24439,23 +24427,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:16",
+      "collected_at": "0:16",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaERmaGg1RXV4OXpnTTc3TW1jOHVfRm9ETFlZQU9VSVhuTWJnaWVJMVgxZGNQLTFTTElyYnZLYmN1bU1jYWxqeERNdEk5cnpRQUlYWG50eVhfT0dtenB5MEhTcm1nZ0prOExGc2RVYzFXZXdqYzllYnB6QUI2Y0VCSnVDX1BtYmNUMXQ3cmZZV3BJa0FUd205dDgyOWRKNDdFMkhxYU53N1FNZVRjV1RlUkZrNlJ6YkJvX3ZkbnFrVWFBWEE0NEFRemdrSjFXZlhzWWVzRHN0ckJNZExlTjJKRzBEd0VFN2hCS2hmUVRjSWJGSVl3dDJrczAtRl9rQQ?oc=5",
+      "source": ""
     },
     {
       "title": "The Monthly Check-in: 3월 태국 여행 및 호텔 소식 - Lifestyle Asia Hong Kong",
       "summary": "- 3월의 태국 여행 및 호텔 관련 새로운 소식들을 모아 제공합니다.\n- 새로운 프로모션, 호텔 개장, 여행 상품 등을 소개할 예정입니다.\n- 여행 계획을 세우는 데 도움이 될 최신 정보를 제공합니다.",
       "full_translated": "The Monthly Check-in: 3월 태국 여행 및 호텔 소식 - Lifestyle Asia Hong Kong",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객들에게 유용한 호텔 정보 및 프로모션 정보를 제공하므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "The Monthly Check-in: What’s new in Thailand travel and hotels this March - Lifestyle Asia Hong Kong",
@@ -24464,7 +24449,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:16",
+      "collected_at": "0:16",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1BOQzQ3c0FFa0w5QUpWWVhCVHp5bTc2bktNWU82aEZodzRPZHRxVnA4V2lrTGxaUVdMSUctMmRyTkN2R3pOdmVtSEdBeTZjVUx1WHZHRUJ4NGM5RjJBWmN2SEJDQTM1cl8wcU11eEJNaktlVjFIcjJLX1EzblRpSDZwaFVLM1NhaWlCc0dmWXpSRnhLaVY0bjdha0twZS0zZUV3VVc1OGJ4T1BjNF9iVDJTc25vZ2xHVkJZcXpR0gG-AUFVX3lxTE4zUE5DNDdzQUVrTDlBSlZZWEJUenltNzZuS01ZTzZoRmh3NE9kdHFWcDhXaWtMbFpRV0xJRy0yZHJOQ3ZHek52ZW1IR0F5NmNVTHVYdkdFQng0YzlGMkFaY3ZIQkNBMzVyXzBxTXV4Qk1qS2VWMUhyMktfUTNuVGlINnBoVUszU2FpaUJzR2ZZelJGeEtpVjRuN2FrS3BlLTNlRXdVVzU4YnhPUGM0X2JUMlNzbm9nbEdWQllxelE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야, 영국인 관광객이 바 매니저 공격 후 체포",
+      "summary": "- 파타야 해변에서 영국인 관광객이 바 매니저를 공격해 체포됨.\n- 피해자는 얼굴에 10cm 이상의 심각한 상처를 입고 병원으로 이송됨.\n- 용의자 중 한 명은 도주, 다른 한 명은 현장에서 체포되어 경찰에 인계됨.",
+      "full_translated": "파타야 경찰은 파타야 해변 13번가에 위치한 술집에서 발생한 폭행 사건에 대한 신고를 받고 출동했습니다. 현장에서는 약 55~60세로 추정되는 영국 국적의 바 매니저가 얼굴에 심각한 상처를 입은 채 발견되었습니다. 상처는 10cm가 넘었고 약 30바늘을 꿰매야 했습니다. 피해자는 응급 처치를 받은 후 현지 병원으로 이송되어 치료를 받고 있습니다. 술집 직원들의 말에 따르면 매니저는 종종 친구 그룹의 방문을 받았기 때문에 용의자들이 매니저 사무실로 들어갔을 때 처음에는 우려하지 않았습니다. 그러나 직원들은 나중에 사무실 문이 흔들리는 것을 목격했고, 이후 몸싸움의 흔적과 그림자를 발견했습니다. 한 명의 공격자는 현장에서 도주했고, 다른 한 명은 경찰이 도착하기 전에 선량한 시민과 술집 손님들에게 체포되었습니다. 경찰은 용의자를 파타야 경찰서로 연행하여 조사하고 있습니다. 용의자는 불안정하고 눈이 풀린 상태였으며 현장의 기자들의 질문에 즉시 대답하지 않았습니다. 공격 동기는 아직 불분명하며 목격자나 경찰로부터 즉각적인 정보가 제공되지 않았습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "파타야에서 외국인 대상 범죄 발생. 여행객 안전에 대한 잠재적 위협이 있어 포함.",
+      "event_info": {
+        "date": null,
+        "location": "Soi Pattaya Beachside 13, Pattaya",
+        "price": null,
+        "location_google_map_query": "Soi Pattaya Beachside 13, Pattaya"
+      },
+      "references": [
+        {
+          "title": "British Tourist Arrested After Allegedly Slashing British Bar Manager at Pattaya Beer Bar, Second Suspect Flees",
+          "url": "https://thepattayanews.com/2026/03/08/british-tourist-arrested-after-allegedly-slashing-british-bar-manager-at-pattaya-beer-bar-second-suspect-flees/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260308_1618404434787180242157274.jpg?v=1772961597"
+        }
+      ],
+      "collected_at": "00:45",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260308_1618404434787180242157274.jpg?v=1772961597",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "사우디아라비아, 미사일 공격으로 2명 사망, 수십 명 부상",
+      "summary": "- 사우디아라비아에서 미사일이 주거 지역에 떨어져 2명이 사망하고 10여 명이 부상했습니다.\n- 사망자는 인도인과 방글라데시인이며, 부상자는 모두 방글라데시인입니다.\n- 이란 혁명수비대는 알-카르지 지역의 레이더 시스템을 공격했다고 주장했습니다.",
+      "full_translated": "사우디아라비아는 미국과 이스라엘의 이란 공격 이후 처음으로 사망자가 발생했다고 보고했습니다. 미사일이 주거용 건물에 떨어져 2명이 사망하고 10여 명이 부상했습니다. 2569년 3월 8일, 사우디아라비아 민방위청은 미사일이 리야드에서 남동쪽으로 약 107km 떨어진 알-카르지(Al-Kharj) 시의 주거지에 떨어져 2명이 사망하고 12명이 부상했다고 밝혔습니다. 이는 미국과 이스라엘이 지난 2월 28일 이란을 공격한 이후 사우디아라비아가 국내에서 사망자가 발생했다고 보고한 첫 번째 사례입니다. 사망자 2명은 인도인과 방글라데시인이며, 부상자 12명은 모두 방글라데시인입니다. 민방위청은 응급팀이 일요일 미사일이 유지보수 및 청소 회사 직원 숙소에 떨어진 후 현장을 조사했다고 밝혔습니다. 성명서에서 누가 미사일을 발사했는지는 명확히 밝히지 않았습니다. 그러나 이란 국영 IRIB 방송에 따르면 이란 혁명수비대(IRGC)는 일요일 아침 알-카르지를 포함한 여러 지역의 레이더 시스템을 목표로 공격했다고 밝혔습니다. 알-카르지 시는 사우디아라비아의 주요 공군 기지인 술탄 왕자 공군 기지 근처에 위치하고 있으며 리야드 남동쪽에 위치하고 있습니다. 이 기지는 최근 며칠 동안 이란의 공격 목표가 되어 왔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "사우디아라비아 내 공격으로 인한 잠재적 위험 증가. 여행객 안전에 대한 간접적 영향 가능성.",
+      "event_info": {
+        "date": null,
+        "location": "알-카르지, 사우디아라비아",
+        "price": null,
+        "location_google_map_query": "Al-Kharj, Saudi Arabia"
+      },
+      "references": [
+        {
+          "title": "ซาอุดีอาระเบีย ดับ 2 ศพเจ็บนับสิบ มิสไซล์ตกใส่ย่านที่พักอาศัย",
+          "url": "https://www.thairath.co.th/news/foreign/2918697",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9eKItaKo0H3G.jpg"
+        }
+      ],
+      "collected_at": "00:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9eKItaKo0H3G.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "이란, 새 최고 지도자 선출 발표 임박 – 여행 안전에 미치는 영향?",
+      "summary": "- 이란 최고 지도자 선출이 완료되었으나 발표는 지연 중.\n- 미국과 이스라엘의 이란 공격으로 인한 혼란이 영향을 미친 듯.\n- 새 지도자 선출은 중동 지역 긴장 고조와 여행 안전에 잠재적 영향.",
+      "full_translated": "이란 전문가 회의의 여러 구성원은 새 최고 지도자가 이미 선출되었지만 아직 발표되지 않았다고 밝혔습니다. 초기에는 2069년 3월 8일 미국과 이스라엘의 공격으로 인해 회의가 개최되지 못할 것으로 예상되었습니다. 새로운 최고 지도자를 선출할 권한이 있는 이란 전문가 회의의 구성원 중 한 명인 아야톨라 아흐마드 알람 알-호다는 메흐르 통신과의 인터뷰에서 지도자 선거가 이미 개최되었고 새 지도자가 임명되었다고 말했습니다. 알-호다 씨는 전문가 회의가 아직 결정을 내리지 못했다는 소문은 “완전한 거짓”이며, 현재 아야톨라 호세이니 부셰리가 이끄는 회의 사무국에서 임명 결과를 발표할 시기를 결정할 것이라고 덧붙였습니다. 또 다른 전문가 회의 구성원인 아야톨라 하이다리는 ISNA 통신을 통해 전문가 회의의 대다수가 승인한 “최고의” 선택이 이루어졌다고 말하면서 “놀랍게도 ‘위대한 사탄’조차도 대표자들이 선택한 사람의 이름을 언급했다”고 덧붙였습니다. 여기서 “위대한 사탄”은 호메이니 이란 이슬람 혁명 지도자와 아야톨라 알리 카메네이 이전 최고 지도자가 미국을 지칭하기 위해 사용한 단어입니다. 이번 주 초, 도널드 트럼프 미국 대통령은 알리 카메네이의 아들인 모즈타바 카메네이가 2월 28일 이스라엘의 공습으로 사망한 아버지의 뒤를 이어 직위를 계승하는 것은 용납할 수 없다고 말했습니다. 그러나 이란의 새로운 최고 지도자 선출에 대한 결론...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 정세 불안은 여행 심리에 영향을 줄 수 있으므로 관련 정보 제공. 다만, 당장 태국 여행에 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สภาอิหร่านเผย เลือกผู้นำสูงสุดคนใหม่แล้ว แต่ยังไม่บอกว่าเป็นใคร",
+          "url": "https://www.thairath.co.th/news/foreign/2918685",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9oNGhzAleFOJ.jpg"
+        }
+      ],
+      "collected_at": "00:45",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4J9oNGhzAleFOJ.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국, 힐링 관광지로 부상: 미식과 웰빙으로 여행객 유혹",
+      "summary": "- 태국이 미식과 웰빙을 결합한 새로운 럭셔리 관광 상품으로 여행객을 유치하고 있습니다.\n- 다양한 스파, 요가, 명상 프로그램과 함께 건강한 태국 음식 체험을 제공합니다.\n- 팬데믹 이후 건강에 대한 관심이 높아진 여행객들에게 매력적인 선택지가 될 것으로 보입니다.",
+      "full_translated": "힐링은 새로운 럭셔리: 태국이 미식과 웰빙으로 여행객을 유혹하는 방법\n\n태국은 미식과 웰빙을 결합하여 여행객을 유치하고 있습니다. 팬데믹 이후 건강에 대한 관심이 높아짐에 따라 태국은 다양한 스파, 요가, 명상 프로그램과 건강한 태국 음식 체험을 제공하며 새로운 럭셔리 관광지로 떠오르고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 웰빙 관광 트렌드를 소개하는 기사로, 여행 계획에 참고할 만한 정보 제공. 최신 트렌드 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Healing is the new luxury: How Thailand is luring tourists with gastronomy and wellness - PressReader",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeUc3cElobFBkWlFieEtjSVcxSUM4SzYyY3owTllIcW9VVnkyRkZja09yVUVVSFFGZDg5anVhZ3JFM3o0UmszSkktTHlHV2RMUngtTWNGYXhEbnJLQkZ0NU9hTUVxdHpUcnR0Vl9nbTM1aHZZckRZalFkbGxGNzJMWU5kVEYxdk1aeW1saQ?oc=5",
+          "source": "PressReader",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:45",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국, 이라크 여행객 지원…튀르키예 여행 지원",
+      "summary": "- 태국 정부가 이라크에 발이 묶인 여행객들을 지원하여 튀르키예로 이동할 수 있도록 돕고 있습니다.\n- 지원 내용에는 필요한 정보 제공 및 이동 지원이 포함됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 이라크에 발이 묶인 여행객들을 지원하여 튀르키예로 여행할 수 있도록 돕고 있습니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "여행객 불편 해소 노력은 긍정적이나, 한국인 여행객에게 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Supports Stranded Tourists in Iraq, Helping Them Travel to Türkiye, Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSUQ4UHhJQzVobTR0anRRX1RuVzUzQ2dQUWtWU1hQYmFOM1lQN0k1dE04WGtvQkNQR1ZHNEhrNEZLcGQ4d1p1Qk1CX0xTUG9tbHExWnhkY3Jzb2U3ZVNtV2tTNVgydWhfcU9fX3NJdDY4RC1MZFF0b19EZmxwVXdmaTBYZzlpSERQOXJqRVJJQU95SnJxMmJSUHA4Nko1cGpXWjFtWUtUMlBxUE1yVkhHSVVjanNfWjJwRk1la25DZVFrM0Y4WWVLcUxYeG5PaDhiQ3RjUE9tWGhiYWxjRGh0RVlnUy1Sdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-09"
     }
