@@ -25424,14 +25424,9 @@
       "summary": "- 태국이 ITB 베를린 2026에서 '새로운 태국' 비전을 제시했습니다.\n- 지속 가능한 관광과 문화적 경험을 강조합니다.\n- 더 높은 가치와 독특한 경험을 제공하는 것을 목표로 합니다.",
       "full_translated": "태국이 ITB 베를린 2026에서 '새로운 태국' 비전을 발표했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 관광 정책 방향을 알 수 있는 정보이지만, 즉각적인 여행 계획에 큰 영향을 미치지는 않으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand presents ‘The New Thailand’ vision at ITB Berlin 2026 - Travel Daily News Asia-Pacific",
@@ -25440,8 +25435,35 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:15",
+      "collected_at": "5:15",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHpKS1ZseDNBcndlVmR5SWJ5YTloYXBhY0E3MEJtei1lMi1KaVZGYzRWSGhiRElyRTFicXRFNGJmYTc1aWx0LUhvSkhtUG1pMXJQQ2xuVlNFMlhUdGZSdjJQRUFqVnRGODBOcmVrcjk0V2hBZGV6aER0WE5Sck04VkhYYnlvazg5bmNmVl95RW90T1Y5VkE?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란, 에너지 기반 시설 공격 위협으로 중동 분쟁 '새로운 단계' 진입 경고",
+      "summary": "- 이란 고위 관계자는 이스라엘과 미국과의 분쟁이 새로운 단계에 진입했다고 경고하며, 에너지 기반 시설에 대한 보복 공격 가능성을 시사했습니다.\n- 호르무즈 해협 통제에 대한 이란의 입장이 강경하며, 이는 세계 석유 공급에 중요한 영향을 미칠 수 있습니다.\n- CNN과의 인터뷰에서 이란 측은 분쟁의 즉각적인 종료 가능성을 일축하며, 상황이 더욱 악화될 수 있음을 암시했습니다.",
+      "full_translated": "이란이 전쟁이 '새로운 단계'에 접어들었다고 경고하며 에너지 기반 시설을 공격하겠다고 위협했습니다. 이란은 공격에 대한 보복으로 에너지 기반 시설을 목표로 삼겠다고 위협하면서 전쟁이 곧 끝나지 않을 것이라고 경고했습니다. 2069년 3월 8일, 이란 고위 관리는 이란, 이스라엘, 미국 간의 갈등이 '새로운 단계'에 접어들었다고 경고하며, 이 전쟁이 곧 끝날 것이라는 생각을 부인하고 지역 전체의 에너지 기반 시설을 목표로 보복할 수 있다는 신호를 보냈습니다. 그 관리는 CNN에 일부 뉴스 보도와는 달리 갈등이 즉시 끝날 조짐은 없다고 밝혔습니다. 그는 '전쟁은 새로운 단계에 접어들었고 이란의 석유 및 연료 저장소에 대한 공격은 지역 차원에서 확실히 보복될 것입니다'라고 덧붙였습니다. 그는 앞으로 며칠 안에 이란이 보복으로 에너지 기반 시설을 목표로 삼을 수 있으며, 이는 많은 사람들이 우려하는 바와 같이 이러한 공격이 중동 지역의 석유 및 가스 공급을 중단시킬 수 있다고 말했습니다. 이 관리는 '이란은 원하는 결과를 얻을 때까지 호르무즈 해협을 통제하는 데 물러서지 않을 것입니다'라고 말하며 세계 석유의 막대한 양을 수송하는 중요한 항로를 언급했습니다. 그는 또한 테헤란 정부가 이 갈등이 언제 끝날지 결정할 것이라고 밝혔습니다. 해외 뉴스 팔로우: https://www.thairath.co.th/news/foreign 출처: cnn",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 긴장 고조는 항공편 운항 차질 및 여행 보험에 영향을 줄 수 있으므로 여행객에게 잠재적 위험 요소로 작용합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านเตือน สงครามกำลังเข้าสู่ “เฟสใหม่” ขู่ถล่มโครงสร้างพื้นฐานพลังงาน",
+          "url": "https://www.thairath.co.th/news/foreign/2918703",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzsBBOnxkWJ8.jpg"
+        }
+      ],
+      "collected_at": "05:46",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOzsBBOnxkWJ8.jpg",
       "date": "2026-03-09"
     }
   ]
