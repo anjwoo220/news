@@ -27845,14 +27845,9 @@
       "summary": "- 태국은 2026년부터 새로운 입국 규정을 시행할 예정입니다.\n- 자세한 내용은 아직 발표되지 않았습니다.\n- 여행 전에 관련 정보를 확인하는 것이 좋습니다.",
       "full_translated": "태국 입국 규정 2026 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "비자/입국 규정 변경 가능성이 있으므로 여행객에게 중요한 정보입니다. 2026년 적용 예정이지만, 미리 인지할 필요가 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand immigration rules 2026 - Travel And Tour World",
@@ -27861,23 +27856,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUNpMURDS19RdTYxdjJ3VU15NGFYT2VQdFVwVjR5dnpXajBFVEh4RENDOWtpeFR0WlV3dmdlYU9zN3JiMG1WUkFoUHk4VHBVTnVYcFhnTUswNU8wV3h2YmdqWWQ3aEVENnFYU1lEeTFkTEhxdXExalQtLVdQVVI0QlFxQ2NfRGw5Zm00Qw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 항공 차질로 인한 관광객 감소에 대비",
       "summary": "- 중동 및 유럽 관광객들이 항공 차질로 인해 큰 타격을 입을 것으로 예상됨.\n- 태국은 관광 산업의 상당한 감소에 대비하고 있음.\n- 여행객들은 항공편 변경 및 취소에 대한 대비가 필요함.",
       "full_translated": "지속적인 공역 혼란으로 인해 태국이 대규모 관광 감소에 대비하면서 중동 및 유럽 관광객들이 큰 타격을 입었습니다. 이는 여행자에게 무엇을 의미할까요? Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공 차질로 인한 관광객 감소는 여행 계획에 영향을 미칠 수 있으므로 여행자에게 중요한 정보임. 특히 항공편 변경/취소 가능성에 대한 대비가 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle Eastern and European Tourists Hit Hard as Thailand Braces for Massive Tourism Decline Due to Ongoing Airspace Disruptions – What This Means for Travelers - Travel And Tour World",
@@ -27886,23 +27878,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPd1ZpZ3dzXzUtMVcxbVJvOHdCYVFhRnRONkFQVklvb2JPT1pkMWN1ZUJOM29XMnd0VXlacnpxR0t5X2lUeU1hT1lleVlsZjNqS1BqcndBV0FQRkp2dEhMcGM2cXVMUkdHTlB2VnpLV0xPbEdVYkhZanVHU01yMW1uNXYtQUxMeGRPYVYyM1V6N0hZeXlBZHZ6RzNINTdBQXVpT2c0OVRYcTRwbkFyTmh0VmhPZGk1RVl2dURqeWdSM0ZwUkRSZlhHU1FnRzd5RzBibFlUblhndF9FTXJOdzZ4UDg1TDRWbTBQd3Z5UThrMFlJZjdkV2RmLXhqY1pJcWNUUUk4aGIzWHVZeTRISy0wV19wOGI1cG5Gdy1ISEswdkZHTnZsZjY2c0NpNFdINDNI?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 관광세 도입 검토: 지속 가능한 관광 자금 확보 노력",
       "summary": "- 태국이 지속 가능한 관광을 위한 자금 확보 방안으로 관광세 도입을 고려 중임.\n- 이는 유럽, 아시아, 미국 등 전 세계적인 관광세 도입 추세와 맥을 같이함.\n- 관광세는 예산 여행객에게 부담을 줄 수 있지만, 관광 산업의 질적 향상을 위한 투자로 이어질 수 있음.",
       "full_translated": "유럽, 아시아, 아메리카에서 새로운 관광세 도입: 아이슬란드, 태국, 미국은 어떻게 지속 가능성을 위한 자금을 조달하는가 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광세 도입 가능성에 대한 정보. 아직 확정은 아니지만 여행 비용에 영향을 줄 수 있으므로 중간 정도의 중요도를 가짐.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Europe, Asia, and America Embrace New Tourist Taxes: How Iceland, Thailand, and the USA Fund Sustainability While Budget Travellers Pay the Price - Travel And Tour World",
@@ -27911,23 +27900,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOEs3dE1mS01zMGo4TEpkc0dYVFRkNjhqMXB2dUR2WXVsd1hJamtpX3hWV2EyLXBWU0x3dFdUdVYweDRjS3FGeGQ0TjdyZ3NMajl6dWh1Z0NKQUFjVWctRDFXTUpwb0dZUm1WOXVrN2tDZ2twMzhmYnNKVGpWZG9aVm16bWhpRmdnZWo1bmtFNzQyaFpEdFVXV3ZBQm1kRElvcVRyUmgyLVllM1A2Tmw4X2hJQTM0dHJlTldaQWZMZ0RoNVR5Qi11RGxHZzZTekxuLWxSNzNucHpLdE42akpadGtNc0RCZ1MxMkNmUkp4OEZKVWJoQmFCREdEUHZWeW9ESG5lQjVySUJCTWNSQ2ZWbFNPNjFMbkw2?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광, 새로운 전략으로 여행자 혜택 전국 확산 모색하며 소득 불균형 문제 직면",
       "summary": "- 태국 관광 산업은 소득 불균형 문제에 직면해 있으며, 특정 지역에만 혜택이 집중되는 현상을 보임.\n- 새로운 전략은 여행자 혜택을 전국적으로 확산시켜 관광 수입의 균형을 맞추는 데 목표를 두고 있음.\n- 정부와 관련 기관은 다양한 프로그램을 통해 지역 경제 활성화와 지속 가능한 관광 발전을 추진할 계획.",
       "full_translated": "태국 관광은 새로운 전략을 통해 여행자 혜택을 전국으로 확산시키려는 노력에도 불구하고 소득 불균형 문제에 직면해 있습니다. 이 문제는 관광 수입이 특정 지역에 집중되어 다른 지역에는 충분한 혜택이 돌아가지 않는 현상을 야기합니다. 정부와 관련 기관은 이러한 불균형을 해소하기 위해 다양한 프로그램을 시행하고 있습니다. 이러한 프로그램은 지역 경제를 활성화하고 지속 가능한 관광 발전을 촉진하는 데 중점을 두고 있습니다. 예를 들어, 새로운 관광 명소를 개발하고, 지역 특산품을 홍보하며, 지역 주민들이 관광 산업에 참여할 수 있는 기회를 확대하는 등의 노력이 이루어지고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업의 변화는 여행객들에게 새로운 경험을 제공할 수 있지만, 현재로서는 직접적인 영향이 크지 않아 중간 점수 부여. 소득 불균형 해소 노력은 장기적으로 관광 인프라 개선으로 이어질 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Tourism Faces Income Imbalance as New Strategies Aim to Spread Traveler Benefits Nationwide - Travel And Tour World",
@@ -27936,23 +27922,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS0dKYW9LM29fVnlUbEFydW40V3gwdWpJaGM2UVBucUQ0ZHlJR1M1ZUM4WWllZkpOd0VwTVNWaGFVcThiR3R1TnE3SkJEOTZDaGhqaTdaMUJnMDNHTWJCUUE1X3RBUHItUEhGSXVZYUc1elJwekl4V3hZS3Atck1IOWFfdnBac1NJcGxiWWVSOUlDNjY0SThBU2R0d2dIRHFQZGRJd21tSktBYmxzTXJUcXBxOGRJeWxnamEycnRFYUdXNFJtdzFDVl9POFgwVHkwZ2NhMDAtS2RIS0xCYnVkQkNSTQ?oc=5",
+      "source": ""
     },
     {
       "title": "코창 관광, 글로벌 긴장 속에서도 번성하며 주말에 2만 명 이상 방문객 맞이",
       "summary": "- 코창은 태국 연결성 강화로 관광객 증가를 보임.\n- 주말 동안 2만 명 이상의 방문객을 맞이하며 번성.\n- 글로벌 긴장에도 불구하고 관광 산업이 활기를 띰.",
       "full_translated": "코창 관광이 글로벌 긴장 속에서도 번성하며 주말에 2만 명 이상의 방문객을 맞이했습니다. 태국의 연결성 강화는 코창 관광 성장에 크게 기여하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "코창의 관광 산업 성장 소식은 여행객들에게 긍정적인 정보이며, 여행 계획에 참고할 만한 가치가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "Koh Chang",
-        "price": null,
-        "location_google_map_query": "Koh Chang"
-      },
+      "event_info": "{'date': None, 'location': 'Koh Chang', 'price': None, 'location_google_map_query': 'Koh Chang'}",
       "references": [
         {
           "title": "Koh Chang Tourism Thrives Despite Global Tensions, Welcoming More than Twenty Thousand Visitors in a Weekend, Highlighting their Growth Through an Enhanced Connectivity of Thailand - Travel And Tour World",
@@ -27961,7 +27944,132 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRDVTRWdVWEpZdVhaa0FPQW5RTGtROW0yeTlLcVowcHNHdi1nSzdxV2NBRjE3OUVsb3dxbllVRzZZT1F1UXljcXlzaUxkTmJITm9TeGc2aFBhQzRWOVRBWWlIWGtEZC1KNGJ5OHExNk9XaWJaS19SczRuMzVWS29lQWdWN1pZbjdqR3pHaHF0bWZjdXBRVmZERlFMWWF1NDA0d1FzQm0ybjd6eXVkbmNGbFhEdHQ5ZWFDNDFxYXZpbndMaG80ckVaUjd0cWt0aTF1R3ZfMDdCSXZQaVB5VTRxaTEtcHVQVEZZX002S0k1LUU0QUZObFRzV0FEMU11YnREMGMwMDBFdGx3c0RlWmlHaGt5NnZ6ZzBZa3M3ekFZNjFic0NmOVlwYk4wVWdjNjIzQmNTay1temN1Z25VanFxSlB3UzdtbG5nTFdF?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 관광 붐 지속: 정부, 입국 제한 주장 부인하며 공항 개방 유지",
+      "summary": "- 태국 정부는 관광객 입국 제한 주장을 부인하며 공항을 계속 개방할 것이라고 발표했습니다.\n- 이는 태국 관광 산업의 지속적인 성장에 대한 정부의 의지를 보여줍니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국의 관광 붐이 계속되고 있습니다. 정부는 입국 제한 주장을 부인하며 모든 사람에게 공항 문을 활짝 열어두고 있습니다! Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 입국 정책에 대한 최신 정보로, 여행객들에게 중요한 정보입니다. 입국 제한 관련 루머를 해소하고 있어 혼란을 방지합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Boom Surges Ahead: Government Denies Entry Claims, Keeping Airport Doors Wide Open for All! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeUJ4bVhqN3Q2OGJFSkdBb0VnUkwtNWs0bmkyNVNHZVprOWdkSm1CcmxSNnZIbjlDaFhVNG1YeGM4VDVYT3FGQ1NFREY5MVJoS0R1dGRJTFNXd1V1cUpnUzNON1ZjVll5cmM4M0lXb01GQWoxYXE5bl9USmVzQ1V4azRaQnoyNjBUM0tKd0JxWnUxQ1RsQkN5SmlCVWlyZ003X0NQT0xvYVpyRHVlNlNZSjAyY2U3WWZzSlFJdzhVVURlS0o2YnFFeWtIYTc3Nk1WQXkzdWRIUlhieUpROUtoNFpCMDYxSTdESDdV?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "05:20",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "타이항공, 관광 활성화 위해 28대의 새로운 항공기 도입으로 글로벌 항공 연결성 강화",
+      "summary": "- 타이항공이 관광, 지역 연결성 및 지속 가능한 항공 성장을 촉진하기 위해 28대의 새로운 항공기를 도입합니다.\n- 이는 태국의 글로벌 항공 연결성을 강화하는 데 기여합니다.\n- 새로운 항공기 도입은 관광 산업 부양을 목표로 합니다.",
+      "full_translated": "타이항공이 관광, 지역 연결성 및 지속 가능한 항공 성장을 촉진하기 위해 28대의 새로운 항공기를 도입함으로써 태국은 글로벌 항공 연결성을 강화합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "항공기 추가 도입으로 여행객 편의성 증대 및 관광 산업 활성화 기대. 여행과 관련된 정보이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Strengthens Global Air Connectivity as Thai Airways Expands Fleet with Twenty-Eight New Jets to Boost Tourism, Regional Links and Sustainable Aviation Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPSGNjUzNWdEduU3ZLX1MzX2NQOVQ1UmRyYVZjbGozUmhxYXd6dEFzTFN5eGthSHBNMnFsbWhUYXJweGxjODdVR19MS05va3hnYjE1RXVocEVSTEFVeDBhSEN0aG16YlpCRTBpOV9fRWxXZDhsVTdfX21iU1NxT29DTGdocDgyZzFqRFdQdGxIR0VjX1ROT3RHVHBsY2c2cXhSczFPZ1N2SVFjejVnbFFSQ3g2R29FRzBUZlpEY0RIZ1NWMnJOZ2llc0ZveElNbGFYODlud2I4RF9mcnF0aWJNMHM2WGJxLWZmaWhLNjdwSlFxUXpSVnBaZ1hZdnJtdHFTejJPTXkyZ3Q5QkRJSUdEYlhyWWgyVVBjOE1aZGI1NUZyMERyQTdCVzFEeGE2TVNuMC1JSGhPSldtZw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 책임감 있는 여행 선택을 제공하며 생태 관광 및 지속 가능성 분야 선두",
+      "summary": "- 태국은 생태 관광 및 지속 가능성 분야에서 선두를 달리고 있습니다.\n- 의식 있는 모험가를 위한 책임감 있는 여행 선택지를 제공합니다.\n- 태국이 중요한 이유를 알아보세요.",
+      "full_translated": "태국은 생태 관광 및 지속 가능성 분야에서 선두를 달리고 있으며, 의식 있는 모험가들을 위해 책임감 있는 여행 선택지를 제공하고 있습니다. 태국이 이러한 분야에서 중요한 역할을 하는 이유를 알아보세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 생태 관광 및 지속가능성 노력은 여행객들에게 긍정적인 영향을 미치지만, 당장 시급한 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Leading the Way in Eco Tourism and Sustainability Offering Responsible Travel Choices for Conscious Adventurers: Find Out Why It Matters - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRmt2SVJjUWZ3dFhHZ3Vyd3E2QXJhbzFpbEtGVmFUc3lmYjdmdHRDN3l5OGh5MkU4N1JVazdsUGZlSFFzdzN6enViUXRoa2RheU1Ua3A2UWQyX19UakRnYmZ5M20xa184ZVlEUkg1UU1NTC1xTnUwME9pXzhxVGNoRWFTVFJvYkdjdy0zSTZ3UWU1dGZZazRCUHJCRG9zVUxDZG9YWEhXRlU4eURUSFpvd0VJSzdVeU5EZnVmUnlSb2RSUGRLOTltWGVEbU5zalR0bTJMUUNwd01RZERwYVpwRy1OTUl2aVkyYmFoOUFFYnBPWlpSekU0a01HdTJ6eERhWWllbk5hSWRuSF9jUHA5TzVocHd1RVFveGU1SUln?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "호주, 이란 여자 축구 선수 5명에 대한 인도주의 비자 발급",
+      "summary": "- 호주 내무부 장관, 이란 여자 축구 국가대표팀 선수 5명에게 인도주의 비자 발급 승인.\n- 선수들은 망명을 신청했으며, 귀국 시 처벌에 대한 우려가 제기됨.\n- 나머지 팀원들에게도 동일한 기회가 제공될 예정이며, 선수들은 안전한 장소로 이동.",
+      "full_translated": "호주 내무부 장관은 이란 여자 축구 국가대표팀 선수 5명이 망명을 요청한 것에 대해 인도주의 비자를 승인했다고 확인했습니다. 또한 다른 팀원들도 동일한 신청을 할 수 있도록 했습니다. 2026년 3월 9일, 토니 버크 호주 내무부 장관은 기자들에게 이란 여자 축구 국가대표팀 선수 5명이 호주에서 망명 신청을 했으며, 귀국 시 가혹한 처벌을 받을 수 있다는 우려가 제기됨에 따라 인도주의 비자를 받게 될 것이라고 말했습니다. 버크 장관은 그들의 신청서를 승인했으며, 모든 절차가 몇 시간 전에 완료되었다고 밝혔습니다. 그는 \"(여자 축구) 팀의 다른 구성원들에게도 동일한 기회가 열려 있다는 것을 말씀드리고 싶습니다. 호주는 이란 여자 축구팀을 진심으로 받아들였습니다.\"라고 말했습니다. 장관은 선수 5명이 호주 연방 경찰(AFP)에 의해 호텔에서 \"안전한 장소\"로 옮겨졌다고 밝혔습니다. 버크 장관은 \"나머지 선수들은 기존 숙소에 머물고 있습니다.\"라며 \"물론 우리는 누군가 호주 당국에 신청서를 제출하려는 경우 추가 기회를 제공하기 위해 노력하고 있습니다.\"라고 덧붙였습니다. 이란 여자 축구 국가대표팀 선수들을 태운 버스는 2026년 3월 8일 호주 골드코스트의 골드코스트 스타디움에서 열린 이란과 필리핀의 여자 아시안컵 조별리그 A조 경기 후 군중들에 의해 봉쇄될 뻔했습니다. 현재 이란 여자 축구 국가대표팀은 여자 아시안컵에 참가하기 위해 호주에 머물고 있으며, 귀국 시 안전에 대한 우려가 커지고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "이란 여자 축구팀 관련 소식이지만, 여행 안전에 직접적인 영향은 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ออสเตรเลียเผย เตรียมให้วีซ่ามนุษยธรรม แก่ 5 นักฟุตบอลหญิงอิหร่าน",
+          "url": "https://www.thairath.co.th/news/foreign/2918941",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFjrRkUpTmHT.jpg"
+        }
+      ],
+      "collected_at": "05:20",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFjrRkUpTmHT.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "The Standard, 태국 내 호텔에서 즐거운 웰빙 강조 - TTG Asia",
+      "summary": "- The Standard 호텔은 태국 내 자사 호텔에서 즐겁고 활기찬 웰빙 경험을 제공하는 데 주력하고 있습니다.\n- The Standard 호텔은 투숙객에게 독특하고 기억에 남는 경험을 제공하기 위해 다양한 활동과 편의 시설을 제공합니다.\n- 이 호텔은 편안한 숙박 시설 외에도 활력을 되찾아주는 스파 트리트먼트와 건강한 식사 옵션을 제공하여 전체적인 웰빙을 증진합니다.",
+      "full_translated": "The Standard highlights playful wellness at its Thai properties&nbsp;&nbsp;TTG Asia",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 숙박 옵션에 대한 정보를 제공하며, 웰빙 관련 활동에 관심 있는 여행객에게 유용할 수 있습니다. 하지만 필수적인 정보는 아니므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "The Standard highlights playful wellness at its Thai properties - TTG Asia",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSFVDZmRqYUhyYTUxSzNpRWxhV0FVVllocU10Tno1eno3ZzhMcFZTSFJKaGFpUkdnc0xiLU41SnNFNE14bkJ0MmdBXzZYRVFnaGVKb0dTTGNySXBHVmNIMnNsbXo0WFNVaXotUFppYUVJVWs4TmR4c0RmYjU5Zy1YNFpmWndNYlFRaFZvUGFMMHVWZzVaS0swN1BqemRkV1lV?oc=5",
+          "source": "TTG Asia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-10"
     }
