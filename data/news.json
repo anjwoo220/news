@@ -27405,14 +27405,9 @@
       "summary": "- 파타야 호텔에서 일본인 관광객이 트랜스젠더 여성에게 가위로 공격당해 부상을 입었습니다.\n- 용의자는 자발적으로 자수했으며, 피해자가 먼저 폭행했다고 주장하고 있습니다.\n- 피해자는 현재 병원에서 치료 중이며, 경찰은 정확한 사건 경위를 조사하고 있습니다.",
       "full_translated": "3월 9일 새벽 4시경, 파타야 중심부의 한 호텔에서 사건이 발생했습니다. 파타야 시 경찰은 날카로운 흉기로 인한 부상과 관련된 심각한 다툼에 대한 긴급 신고를 받았습니다. 순찰대 1303 소속 경찰관들은 현장에서 60~61세의 일본인 유스케 씨가 오른쪽 손목 근처에 약 3cm 넓이의 깊은 열상으로 인해 심하게 피를 흘리고 있는 것을 발견했습니다. 응급 구조대는 출혈을 멈추기 위해 응급 처치를 제공한 후 파타야 국제 병원으로 이송했습니다. 현장에서 경찰은 27세의 태국 트랜스젠더 여성 민(일명 “Sutthasat”)을 용의자로 구금했습니다. 용의자는 자발적으로 자수하여 격렬한 몸싸움 중에 발생했다고 주장하며 범행을 자백했습니다. 그녀의 진술에 따르면 피해자가 먼저 자신을 폭행한 후 방어하기 위해 근처에 있던 가위를 잡았다고 합니다. 그녀는 또한 파타야 해변 근처에서 관광객을 만나 호텔 방으로 초대했다고 설명했습니다. 상반된 주장이 나왔습니다. 용의자는 제압당하고 효과적으로 도움을 요청할 수 없었던 후 자신을 보호하기 위해 행동했다고 주장하는 반면, 피해자는 용의자가 그에게서 5,000바트를 강탈하려 했다고 주장합니다. 경찰은 피해자의 안전을 최우선으로 생각하여 즉각적인 치료를 받도록 하는 동시에 현장에서 증거를 확보하여 사건의 진실을 밝히기 위해 노력하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "외국인 대상 범죄 발생. 여행객 안전에 직접적인 영향. 사건 발생 시간 고려하여 금일 발생 사건으로 판단.",
-      "event_info": {
-        "date": "2026-03-09",
-        "location": "파타야 중심부 호텔",
-        "price": null,
-        "location_google_map_query": "Pattaya hotel"
-      },
+      "event_info": "{'date': '2026-03-09', 'location': '파타야 중심부 호텔', 'price': None, 'location_google_map_query': 'Pattaya hotel'}",
       "references": [
         {
           "title": "Pattaya Police Arrest Transgender Woman After Scissors Attack on Japanese Tourist in Hotel Room",
@@ -27421,23 +27416,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730515822367519735437451611190.jpg?v=1773052303"
         }
       ],
-      "collected_at": "02:34",
+      "collected_at": "2:34",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730515822367519735437451611190.jpg?v=1773052303",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/pattaya-police-arrest-transgender-woman-after-scissors-attack-on-japanese-tourist-in-hotel-room/",
+      "source": ""
     },
     {
       "title": "파타야 경찰, 외국인 가족 고급 주택털이 용의자 2명 체포",
       "summary": "- 파타야 경찰이 프라탐낙 힐 고급 주택에서 발생한 고가 시계 절도 사건 용의자 2명을 체포했습니다.\n- 용의자들은 26세 남성 Krisaphong Boonchan과 28세 남성 Nakarin Khemtis로 확인되었습니다.\n- 경찰은 범행에 사용된 것으로 추정되는 차량과 의류를 압수했습니다.",
       "full_translated": "파타야 경찰서의 Anek Saratongyu 서장과 수사팀은 프라탐낙 힐 고급 주택에서 발생한 외국인 남성 및 가족 대상 고가 시계 절도 사건의 용의자 2명을 체포했습니다. 용의자들은 26세의 Krisaphong Boonchan과 28세의 Nakarin Khemtis로 확인되었습니다. 경찰은 용의자들이 범행 현장을 오갈 때 사용한 것으로 추정되는 라용 번호판 커 워 8730의 검은색 Chevrolet 세단과 범행 당시 착용한 의류를 압수했습니다. 사건은 2026년 3월 2일 발생했으며, 30세의 Natthaporn은 외국인 남편과 어린 딸과 함께 파타야 경찰에 침입 사실을 신고했습니다. 복면을 쓴 두 명의 침입자는 카오 프라탐낙 지역 고급 주택의 벽을 넘어 재산을 샅샅이 뒤졌습니다. 도난품 중에는 남편의 Patek Philippe 고급 시계(약 600만 바트 상당)와 딸의 Rolex 시계(약 40만 바트 상당)가 있었습니다. 도난품의 총 가치는 640만 바트를 초과합니다. 수사관들은 인근 CCTV 영상을 검토하여 범죄와 관련된 의심스러운 차량을 확인했습니다. 추가 추적 및 정보 활동을 통해 경찰은 Soi Nern Phlab Wan의 거주지에서 두 용의자를 찾아 체포했습니다. 초기 심문에서 두 용의자는 모두 절도를 자백했습니다. 그들은 훔친 시계를 빨리 팔았다고 시인했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 대상 범죄 발생 및 용의자 체포 소식은 여행객 안전에 영향을 미치므로 중요하다고 판단됨. 파타야 지역 여행객에게 주의를 환기시킬 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야, 프라탐낙 힐",
-        "price": null,
-        "location_google_map_query": "Phratamnak Hill, Pattaya"
-      },
+      "event_info": "{'date': None, 'location': '파타야, 프라탐낙 힐', 'price': None, 'location_google_map_query': 'Phratamnak Hill, Pattaya'}",
       "references": [
         {
           "title": "Pattaya Police Arrest Two Suspects in High-Value Watch Burglary From Foreign Man and Family at Luxury Home on Phratamnak Hill",
@@ -27446,23 +27438,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260309_1759003989367044453199827.jpg?v=1773053981"
         }
       ],
-      "collected_at": "02:34",
+      "collected_at": "2:34",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260309_1759003989367044453199827.jpg?v=1773053981",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/pattaya-police-arrest-two-suspects-in-high-value-watch-burglary-from-foreign-man-and-family-at-luxury-home-on-phratamnak-hill/",
+      "source": ""
     },
     {
       "title": "파타야 좀티엔 해변, 술 취한 인도인 제트스키 사고로 러시아 여성 부상",
       "summary": "- 파타야 좀티엔 해변에서 술에 취한 인도인 남성이 제트스키를 몰다 수영 구역에 있던 러시아 여성을 들이받는 사고 발생.\n- 65세 러시아 여성은 머리에 심각한 부상을 입음.\n- 불법적으로 수영 구역에 진입한 인도인 남성은 경찰에 체포되어 조사 중.",
       "full_translated": "65세의 러시아 관광객이 월요일 아침 좀티엔 해변의 지정된 수영 구역에 불법적으로 들어온 술에 취한 인도 남성이 운전하는 제트 스키에 맞아 심각한 머리 부상을 입었습니다. 파타야에서 술에 취한 인도인 관광객이 제트 스키를 타고 수영 구역에서 러시아 여성을 들이받아 머리 부상을 입혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전 관련 사건 발생. 파타야 해변에서 발생한 사고이므로 여행객 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Jomtien Beach, Pattaya",
-        "price": null,
-        "location_google_map_query": "Jomtien Beach Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Jomtien Beach, Pattaya', 'price': None, 'location_google_map_query': 'Jomtien Beach Pattaya'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
@@ -27471,23 +27460,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
         }
       ],
-      "collected_at": "02:34",
+      "collected_at": "2:34",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+      "source": ""
     },
     {
       "title": "파타야, 200만 바트 강도 사건 용의자 영국인 3명 체포",
       "summary": "- 파타야에서 발생한 200만 바트 강도 사건의 용의자로 영국인 3명이 체포됨.\n- 이들은 주택 침입 및 금고 절도 혐의를 받고 있으며, 마피아가 아니라고 주장하고 있음.\n- 경찰은 도난당한 금고를 회수했으며, 사건 경위를 조사 중.",
       "full_translated": "주택 침입 혐의로 기소된 영국 국적자 3명이 파타야의 한 주택에서 200만 바트가 넘는 돈이 들어 있는 금고를 털어간 혐의로 오늘 처음 구금된 채로 반항적인 모습을 보이며 자신들은 \"마피아가 아니다\"라고 주장했습니다. 파타야에서 동료 영국인 거주자의 2백만 바트 주택 침입 및 금고 강도 사건과 관련된 혐의를 부인한 영국인 용의자 3명이 공식적으로 구금되었습니다. 태국 경찰은 지역 사회에 충격을 준 유명 무장 강도 사건에서 상당한 진전을 이루어 외딴 들판에 버려진 2백만 바트가 넘는 현금이 들어 있던 도난 금고를 회수했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여행객 안전 관련 사건 발생. 파타야에서 외국인 관련 강도 사건이 발생했으므로 여행객 주의 필요.",
-      "event_info": {
-        "date": null,
-        "location": "Pattaya",
-        "price": null,
-        "location_google_map_query": "Pattaya"
-      },
+      "event_info": "{'date': None, 'location': 'Pattaya', 'price': None, 'location_google_map_query': 'Pattaya'}",
       "references": [
         {
           "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
@@ -27496,17 +27482,66 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
         }
       ],
-      "collected_at": "02:34",
+      "collected_at": "2:34",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+      "source": ""
     },
     {
       "title": "태국, 중동 분쟁 상황 주시 및 영향 관리 위한 합동 센터 설립",
       "summary": "- 태국 정부가 중동 지역의 불안정한 상황에 대처하기 위한 전담 조정 기구를 설립함.\n- 이 기구는 중동 분쟁이 태국에 미치는 영향을 모니터링하고 관리하는 역할을 수행함.\n- 총리는 국가 이익을 보호하기 위해 상황을 예의주시하고 있다고 밝힘.",
       "full_translated": "태국 총리 아누틴 찬비라쿨은 중동 지역의 급변하는 상황을 추적하고 현재 진행 중인 지역 적대 행위 속에서 국가 이익을 보호하기 위한 전담 조정 기구를 설립하는 공식 명령에 서명했습니다. 태국은 중동 분쟁의 영향을 모니터링하고 관리하기 위한 합동 센터를 설립했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 분쟁이 항공편 등에 영향을 줄 수 있으므로 여행객에게 관련 정보 제공. 상황 주시를 위한 정부 노력.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
+          "url": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
+        }
+      ],
+      "collected_at": "2:34",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+      "source": ""
+    },
+    {
+      "title": "파타야 뉴스팀과 함께하는 주간 무료 커피 & 뉴스 채팅",
+      "summary": "- 매주 화요일 오후 3시-5시, 좀티엔의 Rage Ringside Cafe에서 진행.\n- 파타야 뉴스 담당자들과 편안하게 대화하는 시간.\n- 음료/식사 비용 외 참가비는 무료, 수영장도 이용 가능.",
+      "full_translated": "매주 화요일 오후 3시부터 5시까지, 콘텐츠 책임자인 Adam이 좀티엔의 Rage Ringside Cafe(소이 트랍라야 15에 위치, 트랍라야 로드의 Grand Solaire Condo 건설 현장 뒤)에서 편안하고 비공식적인 뉴스 및 커피 세션을 진행합니다. 격식 없이 음료를 마시며 담소를 나누는 자리이며, 의제, 연설, 그룹 세션, 격식, 부담이 없습니다. 파타야 뉴스 팀 사람들을 만날 수 있는 기회입니다. 음료 또는 식사 비용 외에는 무료입니다! 카페에서는 술도 판매합니다. 그리고 모든 카페 고객은 수영장을 무료로 이용할 수 있습니다! 주의: 심각한 뉴스 관련 문제, 불만 사항 또는 법적 문제의 경우, 이 자리는 적합하지 않습니다. Editor@thepattayanews.com으로 메일을 보내 개인 회의 또는 토론을 준비하십시오. 이 모임은 보통 12명 이상이 모이는 캐주얼한 모임이며, 복잡한 개인 문제는 비공식적이고 편안한 분위기를 해칠 수 있으므로 개별적으로 문의하십시오. 판매 관련 질문이나 광고에 관심이 있으신 분은 sales@thepattayanews.com으로 이메일을 보내주십시오. 매우 캐주얼하고 친근하며 비공식적인 세션입니다. 그곳에서 뵙겠습니다!",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야를 방문하는 여행객에게 유용한 정보 제공 및 네트워킹 기회 제공. 정기적인 모임으로 여행 일정에 참고할 수 있는 로컬 정보.",
+      "event_info": {
+        "date": "매주 화요일",
+        "location": "Rage Ringside Cafe, Jomtien, Soi Thrappraya 15",
+        "price": "음료/식사 비용",
+        "location_google_map_query": "Rage Ringside Cafe Jomtien"
+      },
+      "references": [
+        {
+          "title": "Join Us For Our Weekly Free In Person Coffee and News Chat With The Pattaya News Team Every Tuesday Afternoon",
+          "url": "https://thepattayanews.com/2026/03/09/new-weekly-coffee-and-news-chat-with-the-pattaya-news-team/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 오후 주류 판매 금지 해제, 음료 거래에 미치는 영향은?",
+      "summary": "- 태국에서 오후 주류 판매 금지가 해제되었습니다.\n- 이는 음료 업계에 상당한 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 기사에서 확인할 수 있습니다.",
+      "full_translated": "태국 오후 주류 판매 금지 해제, 음료 거래에 미치는 영향은? The Drinks Business",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "주류 판매 규제 변화는 여행객의 경험에 영향을 줄 수 있으며, 특히 관련 업계에 종사하는 여행객에게는 중요한 정보입니다.",
       "event_info": {
         "date": null,
         "location": null,
@@ -27515,14 +27550,89 @@
       },
       "references": [
         {
-          "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
-          "url": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
-          "source": "The Pattaya News",
-          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
+          "title": "What has the end of Thailand’s afternoon alcohol ban meant for the drinks trade? - The Drinks Business",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3NMdURZMnBCa1ZBZHdnR1JBVDhoeUY1WjQ4SThpclUwRFFpOEpwRTFCTGhoNWZHalF1SWtzcDROQkNKb0pNelVPalNQX2paYmVuUG4tTlJMX3NEbzlUU3lHRkZRclFGanFNQVhFS1pTeEZUbnlVR2FBMnN0UGJuRVBqZUZpdUdWQjZLX0JXSVdxcGNPMHF4bU9UUGVhUktRc0hUcU5ESXo4VHNiSkZVTVFHaFAyV29BNHlIdUt3?oc=5",
+          "source": "The Drinks Business",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:34",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "G7, 세계 에너지 공급 지원 위한 조치 준비",
+      "summary": "- G7 국가들이 IEA와 회의를 통해 에너지 가격 급등에 대한 대응책을 논의함.\n- 필요한 조치를 취할 준비가 되어 있다고 밝혔으나, 비축유 방출 합의에는 이르지 못함.\n- 미국-이스라엘-이란 간의 긴장으로 유가가 배럴당 120달러까지 상승하며 세계 주식 시장이 하락함.",
+      "full_translated": "G7과 IEA는 중동 전쟁으로 인한 유가 급등에 대처하기 위한 방안을 모색하기 위해 회의를 가졌습니다. 그들은 필요한 조치를 취할 준비가 되어 있다고 밝혔지만, 비축유 방출에 대한 합의는 이루어지지 않았습니다. 2069년 3월 9일, G7 재무장관과 국제에너지기구(IEA)는 합동 회의를 마쳤습니다. 그들은 미국-이스라엘과 이란 간의 전쟁으로 인해 에너지 가격이 급등한 후 세계 에너지 공급을 지원하기 위해 \"필요한 조치\"를 취할 준비가 되어 있다고 밝혔습니다. G7은 회의 후 성명에서 \"우리는 비축유 방출과 같은 세계 에너지 공급을 지원하는 데 필요한 조치를 취할 준비가 되어 있습니다.\"라고 밝혔습니다. 그러나 이번 회의는 전략적 비축유 방출에 대한 합의 없이 끝났습니다. 월요일 유가가 배럴당 거의 120달러까지 치솟았고, 석유 공급 차질에 대한 우려가 장기화되면서 전 세계 주식 시장도 하락했습니다. 회의에서 비축유 방출 옵션은 여러 논의된 문제 중 하나였습니다. 파티흐 비롤 IEA 사무총장은 세계 석유 시장이 \"최근 며칠 동안 악화되었다\"고 말했습니다. 비롤 총장은 \"호르무즈 해협을 통한 운송의 어려움 외에도 막대한 양의 석유 생산이 중단되었습니다. 이는 석유 시장에 상당한 위험을 초래하고 증가시키고 있습니다.\"라고 말했습니다. 그러나 회의가 끝난 후 롤랑 레스퀴르 프랑스 재무장관은 비상 석유 비축량 방출에 대해 \"우리는 아직 그 지점에 도달하지 못했습니다.\"라고 말했습니다. ... 또한, 만약 비축유 방출이 실제로 이루어진다면,",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "에너지 가격 상승은 간접적으로 교통비, 물가 상승 등 여행 관련 비용에 영향을 줄 수 있으므로 관련 정보를 제공. 다만, 직접적인 영향은 적어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "กลุ่ม G7 ลั่น พร้อมใช้มาตรการที่จำเป็น เพื่อพยุงอุปทานพลังงานโลก",
+          "url": "https://www.thairath.co.th/news/foreign/2918939",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiQRyWRlAc6N.jpg"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiQRyWRlAc6N.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, ITB 베를린에서 무에타이 관광 선보여",
+      "summary": "- 태국이 ITB 베를린에서 무에타이 관광을 홍보합니다.\n- 무에타이는 태국의 문화유산이자 인기 스포츠입니다.\n- 이번 행사는 태국 관광을 활성화하는 데 기여할 것으로 예상됩니다.",
+      "full_translated": "태국이 ITB 베를린에서 무에타이 관광을 선보입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국의 문화 스포츠인 무에타이를 관광 상품으로 홍보하는 것은 여행객들에게 새로운 경험을 제공할 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": "ITB Berlin",
+        "price": null,
+        "location_google_map_query": "ITB Berlin"
+      },
+      "references": [
+        {
+          "title": "Thailand shows off Muay Thai tourism at ITB Berlin - TTG Asia",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQS11M1l1a2FMNGFORXFkRVc2Rk1BdlBlaGpzeXZwNnpYQ0t0T3FObkE1aTd2V3JYdk11UndVM3h6RlZhMnBIbTI3WXlnV0JUV3JLTy1sLWhJVmxuTUsyZW55Q3pFdTRiLUcxcnNJM0REb0YxQmxEcmtUeDE0VTV0b21GU2ZxdzdHbnNNUzhJOA?oc=5",
+          "source": "TTG Asia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 비료 부족 논란 속 정부는 충분한 재고 확보 주장",
+      "summary": "- 한 비료 상인이 재고 부족을 호소하며 중동 분쟁을 원인으로 지목.\n- 상무부는 152만 톤의 화학 비료 재고가 있으며, 5개월 동안 사용하기에 충분하다고 밝힘.\n- 말레이시아와 브루나이로부터 추가 공급을 확보하여 중동 배송 지연을 보상할 계획.",
+      "full_translated": "부리람 - 한 지역 화학 비료 상인이 재고 부족을 호소하며 중동 분쟁을 원인으로 지목했지만, 상무부는 태국이 5개월 분량의 재고를 확보하고 있다고 밝혔습니다.\n낭롱 지역의 대형 화학 비료 판매상인 루지팟 림코싯은 월요일 공급업체들이 이미 재고가 바닥났다고 말했기 때문에 재고가 부족하다고 말했습니다. 그는 일부 브랜드의 비료가 10 자루 미만으로 남았다고 말했습니다. 루지팟 씨는 공급업체들이 중동 전쟁으로 인해 비료 배송이 중단되었고 가격이 인상될 것이라고 말했다고 인용했습니다. 이는 5월에 쌀 재배 시즌이 시작될 때 농부들에게 특히 어려움을 줄 것이라고 그는 말했습니다.\n일요일 저녁, 상무부 대변인 난타퐁 치랄러스퐁은 태국이 1월에 152만 톤의 화학 비료를 보유하고 있다고 말했습니다. 사우디 아라비아에서 10만 톤, 말레이시아에서 2만 톤을 추가로 수입할 예정입니다. 총 재고는 5개월 동안 사용하기에 충분할 것이라고 그는 말했습니다. 난타퐁 씨는 태국이 중동 배송 지연을 보상하기 위해 말레이시아와 브루나이로부터 추가 비료를 구매할 수도 있다고 말했습니다.\n매일 업데이트되는 뉴스레터, 속보 및 독점 콘텐츠를 구독하십시오. 방콕 포스트의 모든 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "농업 관련 소식으로 여행에 직접적인 영향은 적으나, 물가 상승 가능성 등 간접적인 영향을 줄 수 있어 낮은 점수 부여. 현재 시각이 새벽이므로 당일 시황에 대한 정보는 중요도가 낮음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Trader laments fertiliser shortage, but govt says there's plenty",
+          "url": "https://www.bangkokpost.com/thailand/general/3213053/trader-laments-fertiliser-shortage-but-govt-says-theres-plenty",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213053_700.jpg"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213053_700.jpg",
       "date": "2026-03-10"
     }
   ]
