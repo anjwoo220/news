@@ -27515,14 +27515,9 @@
       "summary": "- 매주 화요일 오후 3시-5시, 좀티엔의 Rage Ringside Cafe에서 진행.\n- 파타야 뉴스 담당자들과 편안하게 대화하는 시간.\n- 음료/식사 비용 외 참가비는 무료, 수영장도 이용 가능.",
       "full_translated": "매주 화요일 오후 3시부터 5시까지, 콘텐츠 책임자인 Adam이 좀티엔의 Rage Ringside Cafe(소이 트랍라야 15에 위치, 트랍라야 로드의 Grand Solaire Condo 건설 현장 뒤)에서 편안하고 비공식적인 뉴스 및 커피 세션을 진행합니다. 격식 없이 음료를 마시며 담소를 나누는 자리이며, 의제, 연설, 그룹 세션, 격식, 부담이 없습니다. 파타야 뉴스 팀 사람들을 만날 수 있는 기회입니다. 음료 또는 식사 비용 외에는 무료입니다! 카페에서는 술도 판매합니다. 그리고 모든 카페 고객은 수영장을 무료로 이용할 수 있습니다! 주의: 심각한 뉴스 관련 문제, 불만 사항 또는 법적 문제의 경우, 이 자리는 적합하지 않습니다. Editor@thepattayanews.com으로 메일을 보내 개인 회의 또는 토론을 준비하십시오. 이 모임은 보통 12명 이상이 모이는 캐주얼한 모임이며, 복잡한 개인 문제는 비공식적이고 편안한 분위기를 해칠 수 있으므로 개별적으로 문의하십시오. 판매 관련 질문이나 광고에 관심이 있으신 분은 sales@thepattayanews.com으로 이메일을 보내주십시오. 매우 캐주얼하고 친근하며 비공식적인 세션입니다. 그곳에서 뵙겠습니다!",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "파타야를 방문하는 여행객에게 유용한 정보 제공 및 네트워킹 기회 제공. 정기적인 모임으로 여행 일정에 참고할 수 있는 로컬 정보.",
-      "event_info": {
-        "date": "매주 화요일",
-        "location": "Rage Ringside Cafe, Jomtien, Soi Thrappraya 15",
-        "price": "음료/식사 비용",
-        "location_google_map_query": "Rage Ringside Cafe Jomtien"
-      },
+      "event_info": "{'date': '매주 화요일', 'location': 'Rage Ringside Cafe, Jomtien, Soi Thrappraya 15', 'price': '음료/식사 비용', 'location_google_map_query': 'Rage Ringside Cafe Jomtien'}",
       "references": [
         {
           "title": "Join Us For Our Weekly Free In Person Coffee and News Chat With The Pattaya News Team Every Tuesday Afternoon",
@@ -27531,23 +27526,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2025/11/IMG20251116180352-scaled.jpg?v=1763378131",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/new-weekly-coffee-and-news-chat-with-the-pattaya-news-team/",
+      "source": ""
     },
     {
       "title": "태국 오후 주류 판매 금지 해제, 음료 거래에 미치는 영향은?",
       "summary": "- 태국에서 오후 주류 판매 금지가 해제되었습니다.\n- 이는 음료 업계에 상당한 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 기사에서 확인할 수 있습니다.",
       "full_translated": "태국 오후 주류 판매 금지 해제, 음료 거래에 미치는 영향은? The Drinks Business",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "주류 판매 규제 변화는 여행객의 경험에 영향을 줄 수 있으며, 특히 관련 업계에 종사하는 여행객에게는 중요한 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "What has the end of Thailand’s afternoon alcohol ban meant for the drinks trade? - The Drinks Business",
@@ -27556,23 +27548,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3NMdURZMnBCa1ZBZHdnR1JBVDhoeUY1WjQ4SThpclUwRFFpOEpwRTFCTGhoNWZHalF1SWtzcDROQkNKb0pNelVPalNQX2paYmVuUG4tTlJMX3NEbzlUU3lHRkZRclFGanFNQVhFS1pTeEZUbnlVR2FBMnN0UGJuRVBqZUZpdUdWQjZLX0JXSVdxcGNPMHF4bU9UUGVhUktRc0hUcU5ESXo4VHNiSkZVTVFHaFAyV29BNHlIdUt3?oc=5",
+      "source": ""
     },
     {
       "title": "G7, 세계 에너지 공급 지원 위한 조치 준비",
       "summary": "- G7 국가들이 IEA와 회의를 통해 에너지 가격 급등에 대한 대응책을 논의함.\n- 필요한 조치를 취할 준비가 되어 있다고 밝혔으나, 비축유 방출 합의에는 이르지 못함.\n- 미국-이스라엘-이란 간의 긴장으로 유가가 배럴당 120달러까지 상승하며 세계 주식 시장이 하락함.",
       "full_translated": "G7과 IEA는 중동 전쟁으로 인한 유가 급등에 대처하기 위한 방안을 모색하기 위해 회의를 가졌습니다. 그들은 필요한 조치를 취할 준비가 되어 있다고 밝혔지만, 비축유 방출에 대한 합의는 이루어지지 않았습니다. 2069년 3월 9일, G7 재무장관과 국제에너지기구(IEA)는 합동 회의를 마쳤습니다. 그들은 미국-이스라엘과 이란 간의 전쟁으로 인해 에너지 가격이 급등한 후 세계 에너지 공급을 지원하기 위해 \"필요한 조치\"를 취할 준비가 되어 있다고 밝혔습니다. G7은 회의 후 성명에서 \"우리는 비축유 방출과 같은 세계 에너지 공급을 지원하는 데 필요한 조치를 취할 준비가 되어 있습니다.\"라고 밝혔습니다. 그러나 이번 회의는 전략적 비축유 방출에 대한 합의 없이 끝났습니다. 월요일 유가가 배럴당 거의 120달러까지 치솟았고, 석유 공급 차질에 대한 우려가 장기화되면서 전 세계 주식 시장도 하락했습니다. 회의에서 비축유 방출 옵션은 여러 논의된 문제 중 하나였습니다. 파티흐 비롤 IEA 사무총장은 세계 석유 시장이 \"최근 며칠 동안 악화되었다\"고 말했습니다. 비롤 총장은 \"호르무즈 해협을 통한 운송의 어려움 외에도 막대한 양의 석유 생산이 중단되었습니다. 이는 석유 시장에 상당한 위험을 초래하고 증가시키고 있습니다.\"라고 말했습니다. 그러나 회의가 끝난 후 롤랑 레스퀴르 프랑스 재무장관은 비상 석유 비축량 방출에 대해 \"우리는 아직 그 지점에 도달하지 못했습니다.\"라고 말했습니다. ... 또한, 만약 비축유 방출이 실제로 이루어진다면,",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "에너지 가격 상승은 간접적으로 교통비, 물가 상승 등 여행 관련 비용에 영향을 줄 수 있으므로 관련 정보를 제공. 다만, 직접적인 영향은 적어 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กลุ่ม G7 ลั่น พร้อมใช้มาตรการที่จำเป็น เพื่อพยุงอุปทานพลังงานโลก",
@@ -27581,23 +27570,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiQRyWRlAc6N.jpg"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiQRyWRlAc6N.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/foreign/2918939",
+      "source": ""
     },
     {
       "title": "태국, ITB 베를린에서 무에타이 관광 선보여",
       "summary": "- 태국이 ITB 베를린에서 무에타이 관광을 홍보합니다.\n- 무에타이는 태국의 문화유산이자 인기 스포츠입니다.\n- 이번 행사는 태국 관광을 활성화하는 데 기여할 것으로 예상됩니다.",
       "full_translated": "태국이 ITB 베를린에서 무에타이 관광을 선보입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 문화 스포츠인 무에타이를 관광 상품으로 홍보하는 것은 여행객들에게 새로운 경험을 제공할 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": "ITB Berlin",
-        "price": null,
-        "location_google_map_query": "ITB Berlin"
-      },
+      "event_info": "{'date': None, 'location': 'ITB Berlin', 'price': None, 'location_google_map_query': 'ITB Berlin'}",
       "references": [
         {
           "title": "Thailand shows off Muay Thai tourism at ITB Berlin - TTG Asia",
@@ -27606,23 +27592,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQS11M1l1a2FMNGFORXFkRVc2Rk1BdlBlaGpzeXZwNnpYQ0t0T3FObkE1aTd2V3JYdk11UndVM3h6RlZhMnBIbTI3WXlnV0JUV3JLTy1sLWhJVmxuTUsyZW55Q3pFdTRiLUcxcnNJM0REb0YxQmxEcmtUeDE0VTV0b21GU2ZxdzdHbnNNUzhJOA?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 비료 부족 논란 속 정부는 충분한 재고 확보 주장",
       "summary": "- 한 비료 상인이 재고 부족을 호소하며 중동 분쟁을 원인으로 지목.\n- 상무부는 152만 톤의 화학 비료 재고가 있으며, 5개월 동안 사용하기에 충분하다고 밝힘.\n- 말레이시아와 브루나이로부터 추가 공급을 확보하여 중동 배송 지연을 보상할 계획.",
       "full_translated": "부리람 - 한 지역 화학 비료 상인이 재고 부족을 호소하며 중동 분쟁을 원인으로 지목했지만, 상무부는 태국이 5개월 분량의 재고를 확보하고 있다고 밝혔습니다.\n낭롱 지역의 대형 화학 비료 판매상인 루지팟 림코싯은 월요일 공급업체들이 이미 재고가 바닥났다고 말했기 때문에 재고가 부족하다고 말했습니다. 그는 일부 브랜드의 비료가 10 자루 미만으로 남았다고 말했습니다. 루지팟 씨는 공급업체들이 중동 전쟁으로 인해 비료 배송이 중단되었고 가격이 인상될 것이라고 말했다고 인용했습니다. 이는 5월에 쌀 재배 시즌이 시작될 때 농부들에게 특히 어려움을 줄 것이라고 그는 말했습니다.\n일요일 저녁, 상무부 대변인 난타퐁 치랄러스퐁은 태국이 1월에 152만 톤의 화학 비료를 보유하고 있다고 말했습니다. 사우디 아라비아에서 10만 톤, 말레이시아에서 2만 톤을 추가로 수입할 예정입니다. 총 재고는 5개월 동안 사용하기에 충분할 것이라고 그는 말했습니다. 난타퐁 씨는 태국이 중동 배송 지연을 보상하기 위해 말레이시아와 브루나이로부터 추가 비료를 구매할 수도 있다고 말했습니다.\n매일 업데이트되는 뉴스레터, 속보 및 독점 콘텐츠를 구독하십시오. 방콕 포스트의 모든 경험을 즐기려면 광고 차단기를 비활성화하십시오.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "농업 관련 소식으로 여행에 직접적인 영향은 적으나, 물가 상승 가능성 등 간접적인 영향을 줄 수 있어 낮은 점수 부여. 현재 시각이 새벽이므로 당일 시황에 대한 정보는 중요도가 낮음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Trader laments fertiliser shortage, but govt says there's plenty",
@@ -27631,8 +27614,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213053_700.jpg"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213053_700.jpg",
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/general/3213053/trader-laments-fertiliser-shortage-but-govt-says-theres-plenty",
+      "source": ""
+    },
+    {
+      "title": "태국 관광 성장세, 중동 긴장으로 둔화… 유럽 및 중국 시장은 활황",
+      "summary": "- 태국 관광 산업이 중동 지역의 긴장으로 인해 성장세 둔화.\n- 유럽 및 중국 시장은 여전히 강세를 보이며 관광 산업을 지탱.\n- 자세한 내용은 Travel And Tour World에서 확인 가능.",
+      "full_translated": "태국 관광 성장세, 중동 긴장으로 둔화… 유럽 및 중국 시장은 활황&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 상황이 태국 관광에 미치는 영향에 대한 정보 제공. 유럽/중국 시장의 활황은 긍정적 신호.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Growth Slows Due to Middle East Tensions, but European and Chinese Markets Thrive - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZnZ5U1BQX0hxNFNiTTZ5cURFOVZBcE9YOElWNlAtLUVkSWdKOFdFV3Y0ZlRjRXczdEw0NUtDUTBOdnRkd0dvT3ZScHZWTjZUVk1mZ1E0MlRmaURkSzRuOXBRZ2tlNkVJbE1NSVRZVTRXWm9jREpMZU5CdFcya2hXZldielFNZk14eVN2a2lqaUhxYUlURm5Gc0ZqcDlCd2dpSE1fUElvVWN6cnJvVi14Ukw5d2xyaEpnTXBjUTc4dVA2OU9KcHcyY2NEWlJTUlYzR2x6em1QVl9Hamh4QVM4?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:57",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 관광 수입, 일부 지역에 위험하게 집중 - 전 관광청장 경고",
+      "summary": "- 태국 관광 수입이 특정 지역에 지나치게 집중되어 있다는 경고가 제기됨.\n- 전 관광청장은 이러한 불균형이 관광 산업의 지속 가능성을 위협한다고 지적함.\n- 특정 지역에 대한 의존도를 줄이고 다양한 지역으로 관광객을 유치하기 위한 노력이 필요함.",
+      "full_translated": "태국의 관광 수입이 특정 지역에 위험하게 집중되어 있다는 경고가 전 관광청장으로부터 나왔습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광 산업의 불균형 문제 제기는 여행객 경험에 간접적인 영향을 미칠 수 있으므로 중간 점수 부여. 특정 지역 혼잡도 증가 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s tourism income dangerously concentrated in top provinces, ex-tourism chief warns - Asia News Network",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb01qMkxiVXNPa3RvZTduMWxvX2Z0dzZqOFgzdVcweDdQS2lLU29TbjRQQU9LWDBkRV91d3R1R1ZGNG1kWndyMmp4M0hBZkd3ZnN2Mmp5MzFiQUZFbFcyeE5pdFdHTGwtdVNncjdIc0U0WEVEZWdNOUFHMGdQZXJ0MHItTkRTOHBlWHBYTjEteDJmeVYySEM2bWxPaTcxLWhIRHhsUGNUeDdEV0RMUElScVZGNTNDQQ?oc=5",
+          "source": "Asia News Network",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:57",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 관광, 400억 바트 수익 붕괴 직면 - Bangkok Post",
+      "summary": "- 태국 관광 산업이 400억 바트의 수익 붕괴에 직면했다는 Bangkok Post의 보도.\n- 자세한 내용은 기사 본문을 참조하십시오.\n- 여행 관련 경제 상황에 대한 정보를 제공합니다.",
+      "full_translated": "Thai tourism faces B40bn revenue collapse  Bangkok Post",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광 수입 감소는 관광 산업 전반에 영향을 미치므로 여행 관련 비즈니스에 간접적인 영향을 미칠 수 있습니다. 여행객들의 소비 감소로 이어질 수 있으므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai tourism faces B40bn revenue collapse - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTXQ2TkVUcFJ5dG90MjgzdDJfWUFBUlBQQzY4YWI1aXZCQ0M2NHYtNV9aUUxPYjloM1Q5Z0FkaFNtSG1sbktNUmlsYlc1TjEybEJGdnQ4UWU4SjBwTHYwVXRaV3BESGtWbXpNWmR4d2pkUDdnYUpkYjA4TjFQOEtMMzVBVHdvZC1fZkxVVldaODZVZ2pNUXcwWEVn?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:57",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 이혼 시 외국인들이 불리한 이유: 법률 코너",
+      "summary": "- 태국에서 외국인이 이혼할 때 문화적, 법적 차이로 인해 불리한 상황에 놓일 수 있습니다.\n- 앙글로 시암 리걸은 자산 분할, 자녀 양육권, 소송 지원, 전략적 협상 등 외국인이 직면하는 어려움을 전문적으로 다룹니다.\n- 명확하고 실행 가능한 전략을 제공하여 고객이 태국 법률 시스템 내에서 공정한 결과를 얻도록 돕습니다.",
+      "full_translated": "앙글로 시암 리걸에서는 서류 작업뿐만 아니라 다리를 제공합니다. 태국 파트너와의 이혼은 번역가 이상을 필요로 하며, 모든 움직임 뒤에 숨겨진 문화적, 법적 '이유'를 이해하는 팀이 필요합니다. 우리는 태국 내 국제 사회가 직면한 특정 장애를 전문적으로 다룹니다. 우리의 전문 지식은 태국 가족법의 필수 기둥을 다룹니다.\n\n* 자산 분할: 재정적 이익이 사라지지 않도록 하십시오. 공정한 종료를 보장하기 위해 개인 자산과 결혼 자산을 구별하는 데 도움을 드립니다.\n* 자녀 양육권: 우리는 자녀의 복지를 우선시하며, 양육권 합의가 법적 구속력을 갖고 태국 당국에 의해 인정되도록 보장합니다.\n* 소송 지원: 협상이 실패할 경우 태국 법원 시스템 내에서 귀하의 이익을 확고히 대변합니다.\n* 전략적 협상: 종종 최상의 결과는 법정 밖에서 발생합니다. 효율적인 해결을 위해 대화를 관리합니다.\n* 철저한 규정 준수: 모든 문서와 합의는 최신 2026년 태국 규정을 완전히 준수하도록 작성됩니다.\n\n앙글로 시암의 장점\n왜 우리를 믿어야 할까요? 우리는 '번역상의 손실' 위험을 제거하기 때문입니다.\n저희 팀은 태국 변호사 협회 회원인 면허 있는 변호사와의 긴밀한 협의 하에 일합니다. 저희 고객 관리자 겸 CEO는 변호사이지만 그의 구체적인 역할은 귀하의 옹호자 역할을 하여 저희 태국 법률 팀의 복잡한 조언을 귀하가 실제로 이해하는 명확하고 실행 가능한 전략으로 전달하는 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에 거주하는 외국인에게 중요한 법률 정보이며, 특히 이혼 관련 문제에 대한 정보는 필요할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Legal Corner: Why Most Expats Lose Out in Thai Divorce Settlements",
+          "url": "https://thepattayanews.com/2026/03/09/legal-corner-why-most-expats-lose-out-in-thai-divorce-settlements/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730560302897008317257860942797.jpg"
+        }
+      ],
+      "collected_at": "03:57",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730560302897008317257860942797.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 웰니스 경제 리더십을 위한 민관 협력 출범",
+      "summary": "- 태국이 웰니스 경제 리더십 강화를 위해 민관 협력체를 출범했습니다.\n- 이 협력체는 웰빙 관광, 전통 의학, 건강 제품 등 다양한 분야를 아우릅니다.\n- 태국 정부는 웰니스 산업을 국가 경제의 핵심 동력으로 육성할 계획입니다.",
+      "full_translated": "태국이 웰니스 경제 리더십을 위한 민관 협력체를 출범했습니다. Vietnam Investment Review - VIR",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "웰니스 관광에 관심 있는 여행자에게 새로운 정보 제공. 기존 뉴스에 없던 내용.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand launches public-private alliance for wellness economy leadership - Vietnam Investment Review - VIR",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS3VqY2hUMXljeURMOTZaWTV6aEl5eUVldThOODNoZnRXempiRnV4NG9TVTA4aFFOODh0WGV6NXlWckZkWlhRbXVQeFNFdUM0QVEwMEhCUDJ5bjRJMUdxeS10R0JpOG9sLTRUWEVlaVN6NVk4SkRYMGN3SXFFaVY1aGdFVGNJZVZDNG9KZkJkSGVMX05fZjVyQVJ5VjhfZTU3dWZCREVROA?oc=5",
+          "source": "Vietnam Investment Review - VIR",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:57",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-10"
     }
   ]
