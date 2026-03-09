@@ -26743,14 +26743,9 @@
       "summary": "- 태국 정부가 국제 유가 급등에 따라 유류세 인하 및 보조금 지급을 위해 추가 차입을 준비 중입니다.\n- 현재 유류 가격 보조금으로 하루 7억 바트가 소요되고 있으며, 유류기금 잔액은 20억 바트 수준으로 감소했습니다.\n- 정부는 2022~2023년 우크라이나 전쟁 당시와 유사한 방식으로 상업은행으로부터 자금 조달을 추진할 계획입니다.",
       "full_translated": "태국 에너지 당국은 미국-이란 분쟁이 격화되는 가운데 국제 유가가 배럴당 100달러를 넘어서면서 급속히 고갈되고 있는 석유 연료 기금을 보충하기 위해 상업 은행으로부터 대출을 확보할 준비를 하고 있습니다. 소비자들을 휘발유 비용 변동으로부터 보호하도록 설계된 이 기금은 현재 국내 유가, 특히 디젤 가격을 보조하기 위해 매일 약 7억 바트를 지출하고 있습니다. 기금의 적립금은 20억 바트 이상으로 줄어들어 지속 가능성에 대한 우려가 커지고 있습니다.\n\n와타나퐁 쿠로밧 에너지 정책 및 계획 사무소 사무총장은 관리들이 러시아의 우크라이나 침공으로 촉발된 2022~2023년 에너지 위기 동안 취해진 조치와 유사한 자금 조달을 추진할 준비가 되었다고 말했습니다. 그는 \"대출 금액은 석유 연료 기금 사무소, 재무부, 소비세 관리 간의 논의에 따라 달라질 것\"이라고 말했습니다. 차입 계획은 정부의 현재 보조금 프로그램이 3월 17일에 종료되기 전에 마무리될 것으로 예상됩니다.\n\n3월 9일 현재 디젤 가격은 리터당 11.73바트, 가솔린 95, 91, E20은 각각 리터당 3.06, 3.06, 4.03바트로 보조금을 받고 있습니다. 태국은 디젤 6,300만~6,500만 리터, 가솔린 및 가솔린 3,100만~3,300만 리터를 포함하여 매일 1억 5,300만~1억 5,500만 리터의 석유를 소비합니다. 제트 연료는 또 다른 1,700만 리터를 차지합니다. 기금이 과도하게 부채가 많아지면 소비세 감면이 고려될 수 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "유가 변동에 따른 여행 비용 변화 가능성. 기존 뉴스에 유사 내용 없으므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "State steps in as oil rockets to $100",
@@ -26761,21 +26756,18 @@
       ],
       "collected_at": "21:00",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213185_700.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.bangkokpost.com/business/general/3213185/state-steps-in-as-oil-rockets-to-100",
+      "source": ""
     },
     {
       "title": "이란에서 대피한 태국인들, 태국 도착",
       "summary": "- 이란과 미국, 이스라엘 간의 갈등으로 이란에서 대피한 태국인들이 태국에 도착했습니다.\n- 29명의 태국인 가족이 터키에서 하룻밤을 묵은 후 수완나품 공항에 도착했습니다.\n- 외무부 장관은 태국 대사관 관계자들의 노고에 감사를 표하며, 정부는 안전을 위해 추가 대피를 촉구하고 있습니다.",
       "full_translated": "이란과 미국, 이스라엘 간의 갈등 속에서 이란에서 대피한 태국 국적자들이 월요일 저녁 사뭇프라칸 지방의 수완나품 공항에 도착했습니다. 도착한 태국 가족은 성인과 어린이를 포함하여 29명으로 구성되었습니다. 그들은 터키에서 하룻밤을 묵은 후 착륙했으며 시하삭 푸앙께우 외무부 장관과 언론인들이 환영했습니다.\n\n시하삭 씨는 \"수송을 용이하게 해준 태국 대사관 관리들의 노고에 감사드립니다.\"라고 말했습니다. 그는 이 그룹이 차로 이동했으며 이란의 국경 검문소까지 이동하는 데 최소 10시간이 걸렸다고 설명했습니다. 29명은 토요일 밤 라지 국경을 넘어 터키 반 시로 입국한 62명의 태국인 대피자 중 일부였습니다. 그는 \"우리는 가능한 한 많은 태국인을 그 나라에서 대피시키려고 노력했지만 일부는 기꺼이 머물 의사를 표명한 것으로 알고 있습니다. 일부는 대학생입니다.\"라고 덧붙였습니다. 정부는 안전상의 이유로 여전히 대피를 촉구하고 있습니다.\n\n도착한 그룹의 여성 대표는 장관과 이란의 태국인 커뮤니티를 포함한 모든 관련 당사자에게 감사를 표했습니다. 그녀는 여행이 순조로웠다고 말했지만 그녀의 남편은 14년 동안 일한 일자리를 포기해야 했다고 인정했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 지역 분쟁으로 인한 태국인 귀국 소식. 여행 안전에 대한 간접적인 영향이 있을 수 있으며, 유사시 대피 절차에 대한 정보를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": "수완나품 공항",
-        "price": null,
-        "location_google_map_query": "Suvarnabhumi Airport"
-      },
+      "event_info": "{'date': None, 'location': '수완나품 공항', 'price': None, 'location_google_map_query': 'Suvarnabhumi Airport'}",
       "references": [
         {
           "title": "Thai evacuees from Iran arrive in Thailand",
@@ -26786,21 +26778,18 @@
       ],
       "collected_at": "21:00",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213148_260309180542_700.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.bangkokpost.com/thailand/general/3213148/thai-evacuees-from-iran-arrive-in-thailand",
+      "source": ""
     },
     {
       "title": "태국, 석유 거래 계약 정부 승인 없이 가능",
       "summary": "- 법제처 사무총장은 석유 거래 계약이 정부 승인 없이 가능하다고 밝힘.\n- 말레이시아로부터 석유 수입량 증가 여부는 구체적으로 언급되지 않음.\n- 관광체육부 분리 관련 논의는 없었음.",
       "full_translated": "법제처 사무총장은 석유 거래 계약이 정부 승인 없이 가능하다고 밝혔습니다. 3월 9일 정부청사에서 파콘 닐라프라판 법제처 사무총장은 아누틴 찬위라꾼 총리 겸 내무부 장관이 세계 석유 가격 상승에 대한 관리 방안을 논의하기 위해 회의를 소집한 후 말레이시아로부터 석유 수입량 증가 여부에 대해 구체적으로 언급하지 않았습니다. 석유 거래 계약은 정부 회의(크롬.)를 거치지 않고도 체결할 수 있습니다. 총리가 관광체육부 분리 아이디어에 대해 논의했는지 묻자 법제처 사무총장은 석유 문제만 논의되었고 이 문제는 전혀 언급되지 않았다고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "석유 가격 변동은 교통 및 기타 서비스 비용에 영향을 미쳐 간접적으로 여행객에게 영향을 줄 수 있음. 정부 승인 불필요 결정은 정책 변화에 대한 정보이므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "เลขาฯกฤษฎีกาชี้ทำสัญญาค้าน้ำมันได้ไม่ต้องผ่าน ครม.",
@@ -26811,21 +26800,18 @@
       ],
       "collected_at": "21:00",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYaPyMXQHz8K7.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/politic/2918908",
+      "source": ""
     },
     {
       "title": "치앙마이 지방 자치 단체, 람푼 지방 자치 단체장을 고소할 예정",
       "summary": "- 치앙마이 지방 자치 단체가 람푼 지방 자치 단체장을 고소할 예정입니다.\n- 람푼 지방 자치 단체장이 도로 조명 관련 발언으로 치앙마이 지방 자치 단체의 명예를 훼손했다는 이유입니다.\n- 문제의 도로는 치앙마이-람푼을 연결하는 도로로, 람푼 측에서 조명 설치를 완료했다고 주장했습니다.",
       "full_translated": "치앙마이 지방 자치 단체가 람푼 지방 자치 단체장을 고소할 예정입니다. 이는 람푼 지방 자치 단체장인 위라뎃 푸피싯 씨가 치앙마이-람푼 철도변 도로의 조명 관련 발언을 하면서 시작되었습니다. 그는 람푼 지역에 태양광 조명 설치 성과를 홍보하면서 '치앙마이 지역은 어둡다'라고 언급했습니다. 하지만 실제로는 해당 지점이 치앙마이 지역이 아닌 람푼 지역으로 밝혀졌습니다. 위라뎃 씨는 이후 치앙마이 지방 자치 단체에 사과하며 오해였다고 해명했습니다. 그러나 치앙마이 지방 자치 단체는 법적 조치를 검토하고 있습니다. 피차이 럿퐁아디손 치앙마이 지방 자치 단체장은 언론과의 인터뷰에서 사실 관계를 확인하고 법률 자문을 받아 명예훼손 여부를 판단할 것이라고 밝혔습니다. 문제가 된 치앙마이-람푼 철도변 도로는 2004년 건설되어 두 지역을 연결하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "지방 정부 간의 갈등으로, 여행에 직접적인 영향은 적으나 지역 뉴스에 대한 관심 차원에서 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ดราม่าเสาไฟข้ามจังหวัด อบจ.เชียงใหม่ จ่อฟ้อง นายก อบจ.ลำพูน",
@@ -26836,21 +26822,18 @@
       ],
       "collected_at": "21:00",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4M0XE9hJIb9vSb.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/local/2918899",
+      "source": ""
     },
     {
       "title": "2069년 발리 시험 결과 발표: P.T.9 합격자 121명으로 역대 최고 기록",
       "summary": "- 2069년 발리 시험에서 P.T.9 합격자가 121명으로 역대 최고를 기록했습니다.\n- 이는 불교 승려 최고 등급 시험으로, 승려 92명과 사미승 29명이 합격했습니다.\n- 시험은 방콕의 왓 삼프라야에서 진행되었으며, 다양한 레벨에서 많은 합격자와 재시험 자격자가 나왔습니다.",
       "full_translated": "2069년 발리 시험 결과가 발표되었습니다. P.T.9 레벨에서 121명의 합격자가 나왔으며, 이는 역대 최고 기록입니다. 왓 파크남의 주지이자 최고 승가 위원회의 위원인 프라 프롬몰리가 방콕 프라나콘 지역의 왓 삼프라야에서 2069년 3월 9일에 열린 발리 시험 결과를 발표했습니다. 이는 승가 최고 수준의 발리 교육 과정인 페리안 담마 (P.T.) 7-9레벨의 시험입니다. 가장 높은 수준의 시험인 P.T.9에는 599명이 응시하여 521명이 시험을 치렀고, 121명 (승려 92명, 사미승 29명)이 합격했습니다. 이는 발리 시험이 시작된 이래 가장 높은 숫자입니다. 다른 레벨의 결과는 다음과 같습니다: P.T. 8에는 903명이 응시하여 206명이 합격, P.T. 7에는 740명이 응시하여 125명이 합격, P.T. 6에는 1,004명이 응시하여 183명이 합격, P.T. 5에는 1,360명이 응시하여 184명이 합격했고 221명이 재시험 자격이 주어졌습니다. P.T. 4에는 2,526명이 응시하여 354명이 합격했고 317명이 재시험 자격이 주어졌습니다. P.T. 3에는 3,394명이 응시하여 551명이 합격했고 793명이 재시험 자격이 주어졌습니다. 1-2에는 18,333명이 응시했지만 973명만이 합격했고 2,564명이 재시험 자격이 주어졌습니다. 일반인을 위한 발리 시험 결과는 다음과 같습니다: 발리 연구 (B.S.) 레벨 7-9: B.S.9에는 27명이 응시하여 5명이 결시했고 3명이 합격, B.S.8에는 43명이 응시하여 14명이 결시했고 4명이 합격, B.S.7에는 39명이 응시하여 12명이 결시했고 6명이 합격, B.S.6에는 55명이 응시하여 10명이 결시했고 17명이 합격, B.S.5에는 88명이 응시하여 11명이 결시했고 18명이 합격, B.S.4에는 165명이 응시하여 32명이 결시했고 35명이 합격, B.S.3에는 244명이 응시하여 59명이 결시했고 46명이 합격했습니다. B.S.1-2에는 1,605명이 응시하여 517명이 결시했고 64명이 합격했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 불교 문화에 대한 이해를 높일 수 있는 정보이지만, 여행에 직접적인 영향은 적습니다. 여행객들이 사원을 방문할 때 참고할 수 있는 정보입니다.",
-      "event_info": {
-        "date": null,
-        "location": "Wat Sam Phraya, Bangkok",
-        "price": null,
-        "location_google_map_query": "Wat Sam Phraya, Bangkok"
-      },
+      "event_info": "{'date': None, 'location': 'Wat Sam Phraya, Bangkok', 'price': None, 'location_google_map_query': 'Wat Sam Phraya, Bangkok'}",
       "references": [
         {
           "title": "ประกาศผลสอบบาลีสนามหลวง 2569 ได้ ป.ธ.9 จำนวน 121 รูป สูงสุดเป็นประวัติการณ์",
@@ -26861,6 +26844,133 @@
       ],
       "collected_at": "21:00",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYzCsiG1A9sWL.jpg",
+      "date": "2026-03-09",
+      "link": "https://www.thairath.co.th/news/society/2918913",
+      "source": ""
+    },
+    {
+      "title": "사라부리, 학교 인근 화재 발생 – 쇼핑몰, 주유소까지 번져",
+      "summary": "- 사라부리 지역 학교 뒤편에서 화재 발생, 인근 쇼핑몰과 주유소까지 확산될 위험\n- 소방차 10대 이상 투입, 4시간 넘게 진화 작업 진행 중\n- 강한 바람으로 불길 확산, 소방대원 및 관계자 진화 작업에 총력",
+      "full_translated": "3월 9일, 사라부리 위타야콤 학교 뒤편의 풀밭에서 광범위한 화재가 발생하여 파혼요틴 로드 근처의 주유소와 백화점까지 번졌습니다. 불길은 여러 킬로미터에 걸쳐 뻗어 나가 지역 주민과 통행인들에게 큰 혼란을 야기했습니다. 신고를 받은 사라부리 시 소방서는 경찰과 협력하여 소방차 5~6대를 현장에 투입하여 상황을 통제하고 인근 지방 자치 단체의 소방차의 추가 지원을 요청했습니다. 제18 군사 지역은 산불 진화 부대와 함께 소방차 2대를 보내 지원했습니다. 강한 바람으로 인해 마른 풀밭 지역에서 불이 빠르게 확산되었습니다. 소방관들이 현장에 도착했을 때 백화점 직원과 주유소 직원들은 화재가 건물로 번지지 않도록 물통과 장비를 사용하여 진화를 돕고 있었습니다. 당국은 주택, 학교, 주유소 및 백화점으로 불길이 번지지 않도록 신속히 봉쇄선을 구축하고 물을 뿌려 진화했습니다. 사고 발생 중 불길과 연기가 하늘로 치솟아 파혼요틴 로드와 인근 골목길이 짙은 연기로 뒤덮여 운전자들이 안전을 위해 속도를 줄여야 했습니다. 이후 화재는 사라부리 병원 앞 쏘이 오 지역으로 확산되었고, 당국은 화재가 다른 쪽 풀밭 지역으로 번지기 전에 신속히 소방차를 동원하여 진화 작업을 벌여 상황을 통제할 수 있었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "화재 발생 지역이 관광객 이동 경로와 겹칠 수 있으며, 연기로 인한 시야 확보 어려움이 발생할 수 있음. 안전에 유의해야 함.",
+      "event_info": {
+        "date": null,
+        "location": "사라부리 (Saraburi)",
+        "price": null,
+        "location_google_map_query": "Saraburi"
+      },
+      "references": [
+        {
+          "title": "ระทึก ไฟไหม้ป่าหลังโรงเรียนลุกลามใกล้ ห้าง-ปั๊มน้ำมัน ลุกลามหลายกิโลเมตร",
+          "url": "https://www.thairath.co.th/news/local/2918924",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZO1KRCF2mSjj.jpg"
+        }
+      ],
+      "collected_at": "21:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZO1KRCF2mSjj.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "레바논 총리, 이스라엘과의 협상 재개 의사 밝혀 - 태국 여행 안전에 미치는 영향은?",
+      "summary": "- 레바논 총리가 이스라엘과의 협상 재개 의사를 밝힘. 이는 이스라엘의 레바논 공격 강화에 따른 것임.\n- 레바논은 이스라엘이 베이루트 공항 및 연결 도로를 공격하지 않겠다는 보장을 받았다고 주장함.\n- 이스라엘-레바논 간 긴장 고조는 태국 여행객의 항공편 운항 차질 및 잠재적 안전 문제로 이어질 수 있어 주의가 필요함.",
+      "full_translated": "레바논 총리가 이스라엘과의 협상 테이블로 복귀할 준비가 되었다고 밝혔습니다. 이는 이스라엘 군이 레바논에 대한 공격을 강화한 데 따른 것입니다. 나와프 살람 레바논 총리는 이스라엘이 이란에 대한 공격을 개시한 이후 레바논에 대한 공격을 더욱 강화했다고 밝혔습니다. 그는 프랑스 신문 L’Orient–Le Jour와의 인터뷰에서 이스라엘이 레바논의 협상 재개 제안에 응답하지 않았다고 말했습니다. 그러나 그는 “우리는 모든 의제, 모든 형태, 모든 장소에서 이러한 합의를 논의할 의향이 있다”고 덧붙였습니다. 조셉 아운 레바논 대통령은 X를 통해 정부가 “이스라엘의 폭력 고조의 위험을 억제”하기 위한 논의에 대한 “완전한 준비”를 보였다고 강조했습니다. 또한 정부는 이스라엘이 베이루트 공항과 그 연결 도로를 공격하지 않을 것이라는 보증을 받았다고 주장했습니다. 지난주, 이스라엘 군은 헤즈볼라 무장 단체가 이란에 대한 지지를 표명하기 위해 이스라엘에 미사일을 발사한 후 레바논 일부 지역에 대한 공격을 재개했습니다. 레바논 의회가 헤즈볼라의 군사 활동을 금지하고 무장 단체가 무기를 내려놓을 것을 요구했지만, 살람은 정부가 이란의 지원을 받는 이들과 대결하기를 원하지 않는다고 말했습니다. 레바논 보건부에 따르면 3월 2일 이후 이스라엘의 공격으로 레바논에서 394명이 사망했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 긴장 고조가 항공편 운항에 영향을 줄 수 있으며, 잠재적인 안전 문제 발생 가능성이 있어 여행객에게 중간 정도의 영향을 미칠 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกฯ เลบานอนลั่น พร้อมกลับเข้าสู่การเจรจากับอิสราเอลอีกครั้ง",
+          "url": "https://www.thairath.co.th/news/foreign/2918926",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZPC0xWUc7iNq.jpg"
+        }
+      ],
+      "collected_at": "21:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZPC0xWUc7iNq.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "에너지 가격 급등, 세계 경제 회복 위협",
+      "summary": "- 방콕은행 수석 이코노미스트, 유가 급등에 '코드 레드' 경고.\n- 이란 석유 시설 공격으로 유가 배럴당 110달러까지 상승.\n- 유가 급등 시 2022년 러시아-우크라이나 전쟁 초기와 유사한 경제적 어려움 예상.",
+      "full_translated": "방콕포스트에 따르면 이란 석유 저장 시설이 공격받았다는 보도 이후 국제 유가가 배럴당 약 110달러까지 급등하며 '위험 구역'에 진입했다고 방콕은행(BBL) 수석 이코노미스트가 경고했습니다. 콥삭 푸트라쿨 BBL 수석 부사장은 개인 페이스북 페이지에 상황이 점점 더 우려스러워지고 있다고 밝혔습니다. 특히 분쟁이 이란에 대한 2차 공격 단계에 접어들면서 보복 위험이 커지고 있습니다. 이러한 상황 전개는 항구, 유조선, 정유 공장, 가스 처리 공장 및 석유 저장 시설을 포함하여 중동 전역의 중요한 석유 생산 기반 시설을 위협할 수 있습니다. 그는 또한 해수에서 담수를 생산하는 담수화 플랜트조차 취약한 표적이 될 수 있다고 덧붙였습니다. 콥삭은 \"국제 유가가 '코드 레드' 영역에 진입했으며, 가격이 곧 완화되지 않으면 세계 경제에 심각한 영향을 미칠 수 있는 수준\"이라고 언급했습니다. 유가가 계속 상승하면 세계는 2022년 3월부터 7월까지 4개월 동안 원유 가격이 배럴당 120~130달러까지 급등하고 100달러 이상을 유지했던 러시아-우크라이나 전쟁 초기와 유사한 상황으로 돌아갈 수 있습니다. 그 기간 동안 전 세계적으로 광범위한 경제적 어려움이 발생했습니다. 많은 국가에서 인플레이션이 급증하고 생활비가 급격히 상승했으며 중앙 은행은 금리를 공격적으로 인상하고 자산 가격이...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "유가 상승은 항공료 및 물가 상승을 유발하여 여행 비용 증가에 간접적인 영향을 줄 수 있음. 세계 경제에 미치는 영향은 즉각적이지 않으나, 장기적으로 여행객에게 부담을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Energy price spike threatens global economic recovery",
+          "url": "https://www.bangkokpost.com/business/general/3213189/energy-price-spike-threatens-global-economic-recovery",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213189_700.jpg"
+        }
+      ],
+      "collected_at": "21:55",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3213189_700.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "할리 데이비슨, 새로운 Sport Touring 모델 태국 출시: CVO Street Glide ST 등",
+      "summary": "- 할리 데이비슨이 Sport Touring 모델을 아시아 최초로 태국에서 공개했습니다.\n- CVO Street Glide ST, CVO Road Glide ST, Low Rider ST, Pan America 1250 ST 4가지 모델이 출시되었습니다.\n- CVO Street Glide ST는 326만 5천 바트부터 시작하며, 강력한 엔진과 최신 기술이 적용되었습니다.",
+      "full_translated": "할리 데이비슨 CVO Street Glide ST Sport Touring 오토바이를 살펴보세요. 가격은 320만 바트입니다. Mr. Mark O'Flaherty(아시아 및 인도 신흥 시장 관리 이사)는 Sport Touring 오토바이 제품군을 아시아에서 처음으로 공식적으로 공개했습니다. Harley-Davidson 2026년 모델은 CVO Street Glide ST 최신 모델, CVO Road Glide ST, Low Rider ST 및 Pan America 1250 ST의 4가지 모델이 새롭게 출시되었습니다. MotoGP Thailand 2026 행사에서 언론, 고객 및 팬들로부터 압도적인 반응을 받았습니다. 이 새로운 오토바이 모델은 특히 힘과 성능을 추구하는 운전자의 요구를 충족하도록 설계된 혁신 기술로 가득 차 있습니다. CVO 라인업의 하이라이트 업그레이드에는 Milwaukee-Eight® 121 High Output 엔진이 포함되어 토크가 증가하고 가속 응답성이 향상되었습니다. 또한 새로운 서스펜션 시스템이 업그레이드되어 정밀한 제어와 가장 까다로운 도로에서 더욱 향상된 편안함을 제공합니다. 태국에서 공식적으로 가격을 공개하고 판매를 시작한 후 곧 아시아 시장으로 확장할 예정입니다. Sport Touring 2026년형 모델 4종은 오늘부터 태국에서 판매되며 가격은 다음과 같습니다. - CVO Street Glide ST 시작 가격 3,265,000바트 - CVO Road Glide ST 시작 가격 3,225,000바트 - Low Rider ST 시작 가격 1,260,000바트 - Pan America 1250 ST 시작 가격 880,000바트. CVO Street Glide ST 2026의 특징 Milwaukee-Eight 121 High Output 엔진은 Track 및 Track+를 포함한 8가지 주행 모드를 제공하며 조절 가능한 SHOWA 서스펜션 시스템은 CVO Street Glide ST의 모든 주행을 더욱 즐겁게 만듭니다. 카본 장식",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국에서 새로운 오토바이 모델 출시 정보. 여행객에게 직접적인 영향은 적으나, 관심 있을 수 있는 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": "CVO Street Glide ST: 3,265,000 바트부터",
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "พาไปดู Harley-Davidson CVO Street Glide ST มอเตอร์ไซค์ Sport Touring ราคา 3.2 ล้าน",
+          "url": "https://www.thairath.co.th/news/auto/news/2918915",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYzgIGxkDST4N.jpg"
+        }
+      ],
+      "collected_at": "21:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYzgIGxkDST4N.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 전진당(까오 끌라이) 전 의원 44명, 형법 112조 개정 시도 관련 소송 심리 연기될 듯",
+      "summary": "- 태국 국가반부패위원회(뽀. 뽀. 쳐.)가 형법 112조(왕실 모독죄) 개정을 시도한 전진당(까오 끌라이) 전 의원 44명에 대한 소송을 대법원에 회부하는 기한을 1~2주 연장 요청할 예정.\n- 위원회는 헌법재판소의 판결과 일치하는지 서류를 검토하는 데 시간이 더 필요하다고 밝힘.\n- 당초 3월 9일까지 회부해야 했으나, 면밀한 검토를 위해 기한 연장이 불가피하다고 설명.",
+      "full_translated": "국가반부패위원회(뻐.뻐.처.)는 형법 112조 개정 시도 사건과 관련하여 전진당(까오 끌라이) 전 의원 44명에 대한 심각한 윤리 위반 혐의를 대법원에 회부하는 기한을 1~2주 연장할 것으로 예상됩니다. 이는 2026년 3월 9일, 수라퐁 인트라타본 국가반부패위원회 사무총장이 밝혔습니다. 그는 대법원 심리를 위해 제출될 소장의 초안은 완성되었지만, 사실 확인 단계에 있으며 소장의 내용과 헌법재판소의 판결이 일치하는지 확인하는 데 시간이 필요하다고 설명했습니다. 소장 내용이 방대하여 신중한 검토가 필요하며, 따라서 대법원에 소장 제출 기한 연장을 요청할 예정입니다. 예상되는 연장 기간은 1~2주입니다. 국가반부패위원회가 소장을 대법원에 제출해야 하는 30일의 기한은 원칙에 따른 결정일 뿐 법률 조항은 아니므로 기한 연장이 가능합니다. 철저한 검토가 필요하며, 소장 내용의 세부 사항이 많기 때문에 가능한 한 빨리 진행할 것입니다. 소장이 대법원에 제출되면, 해당 전 의원들의 직무 정지 여부는 법원의 재량에 달려 있습니다...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 소식. 여행객에게 직접적인 영향은 적으나, 정치적 불안정 가능성을 내포하고 있어 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ขอขยายเวลา 1-2 สัปดาห์ ส่งคำร้องฟันอดีต 44 สส.ก้าวไกล คดียื่นแก้ ม.112",
+          "url": "https://www.thairath.co.th/news/politic/2918896",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4M0XpF6KY8qZqy.jpg"
+        }
+      ],
+      "collected_at": "21:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4M0XpF6KY8qZqy.jpg",
       "date": "2026-03-09"
     }
   ]
