@@ -27295,14 +27295,9 @@
       "summary": "- 라용 이민국 경찰은 방콕 후아이쾅 경찰서와 협력하여 사기 혐의로 인도인 Hemant씨(62세)를 체포했습니다.\n- Hemant씨는 사기 혐의로 체포 영장이 발부된 상태였으며, 신속한 추적 끝에 검거되었습니다.\n- 그는 현재 후아이쾅 경찰서로 이송되어 태국 법에 따라 추가 법적 절차를 밟을 예정입니다.",
       "full_translated": "라용 이민국 경찰은 방콕 수도 경찰과 협력하여 사기 혐의로 인도인 도주범을 체포했습니다.\n\n체포는 오늘 (2026년 3월 9일) 오후 12시 30분경에 이루어졌습니다. 라용 지방 이민국 경찰서장 콤웃 총분와타나 대령과 차냐랏 부아통찬 부국장의 감독 하에, 이번 작전은 라용 이민국 사무소의 위셋 완사와트 중령과 크릿 타이트라세티안 소령이 이끌었습니다. 라용 이민국 수사팀은 방콕 후아이쾅 경찰서 수사관들과 긴밀히 협력했습니다. 통합 정보 공유와 신속한 추적 노력 덕분에 당국은 사기 (기만 또는 사기와 관련된 혐의)에 대한 미결 체포 영장이 있는 인도 국적의 Hemant씨 (62세)를 찾아 체포했습니다. 체포 후 Hemant씨는 태국 법에 따라 추가 법적 절차를 위해 후아이쾅 경찰서 수사관에게 즉시 이송되었습니다. Hemant씨는 혐의에 대한 진술이나 항변을 즉시 발표하지 않았습니다. 사진 제공: Shark News",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행객에게 직접적인 위협은 아니지만, 외국인 관련 사건이므로 인지 필요. 방콕 지역에서 발생한 사건이므로 정보 제공 가치가 있음.",
-      "event_info": {
-        "date": "2026-03-09",
-        "location": "후아이쾅 경찰서 (Huai Khwang Police Station), 방콕",
-        "price": null,
-        "location_google_map_query": "Huai Khwang Police Station Bangkok"
-      },
+      "event_info": "{'date': '2026-03-09', 'location': '후아이쾅 경찰서 (Huai Khwang Police Station), 방콕', 'price': None, 'location_google_map_query': 'Huai Khwang Police Station Bangkok'}",
       "references": [
         {
           "title": "Rayong Immigration Police, Together with Bangkok Metropolitan Police, Arrest Indian Fugitive on Fraud Warrant",
@@ -27311,23 +27306,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730582314521366384213039884606.jpg?v=1773058550"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730582314521366384213039884606.jpg?v=1773058550",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/rayong-immigration-police-together-with-bangkok-metropolitan-police-arrest-indian-fugitive-on-fraud-warrant/",
+      "source": ""
     },
     {
       "title": "방라뭉 지역, 지역 지도자들을 기리고 공동체를 강화하기 위한 '마을 위원회 날 2026' 행사 개최",
       "summary": "- 방라뭉 지역에서 '마을 위원회 날 2026' 행사가 개최되어 지역 지도자들의 헌신을 기림.\n- 이 행사에는 아누틴 찬위라쿨 부총리와 지방 행정부 국장의 메시지가 전달되어 마을 위원들의 노고를 치하함.\n- 지역 사회는 마을 제품을 판매하는 가판대를 설치하여 풀뿌리 경제 이니셔티브와 지역 사회의 장인 정신을 선보임.",
       "full_translated": "방라뭉 지역에서는 지역 지도자들을 기리고 공동체를 강화하기 위한 '마을 위원회 날 2026' 행사를 개최했습니다. 이 행사 동안 지역 수장은 아누틴 찬위라쿨 부총리와 지방 행정부 국장인 나루차 코사시빌리의 메시지를 낭독했습니다. 메시지는 지역 발전을 추진하고 주민들의 어려움을 덜어주며 정부와 국민 간의 필수적인 연결 고리 역할을 하는 마을 위원회 위원들의 헌신을 칭찬했습니다. 이 프로그램에는 방라뭉 지역 전체의 마을 위원회의 업적과 진행 중인 프로젝트를 보여주는 전시회가 마련되었습니다. 지역 사회는 또한 마을 제품을 판매하는 가판대를 설치하여 풀뿌리 경제 이니셔티브와 지역 사회의 장인 정신을 선보였습니다. 마을 위원회 날은 내무부에서 지정한 대로 매년 3월 9일에 기념하여 마을 위원회 위원들의 사기를 진작시키고 사기를 높입니다. 이 위원회는 “마을의 내각”으로 기능하며, “국가에는 정부가 필요하고 마을에는 위원회가 필요하다”는 지도 원칙 하에 지역 업무를 관리하고 개발을 계획하며 주민들의 문제를 해결합니다. 마을 위원회는 1914년(B.E. 2457)의 지방 행정법에 따라 처음 설립되었으며, 현대 사회의 요구에 더 잘 부응하기 위해 2008년(B.E. 2551)에 상당한 개혁을 거쳤습니다. 각 위원회는 마을 이장(푸 야이 반)이 의장을 맡고 보조 마을 이장, 지역 의회 의원, 지역 사회 조직 지도자 및 주민들이 선출한 존경받는 장로로 구성됩니다. 그들은 함께 o",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 지방 행정 및 공동체 활동에 대한 정보 제공. 여행객에게 직접적인 영향은 적으나, 태국 문화를 이해하는 데 도움이 될 수 있음.",
-      "event_info": {
-        "date": "2026-03-09",
-        "location": "Banglamung District, Thailand",
-        "price": "Unknown",
-        "location_google_map_query": "Banglamung District, Thailand"
-      },
+      "event_info": "{'date': '2026-03-09', 'location': 'Banglamung District, Thailand', 'price': 'Unknown', 'location_google_map_query': 'Banglamung District, Thailand'}",
       "references": [
         {
           "title": "Banglamung District Hosts “Village Committee Day 2026” Event to Honor Local Leaders and Strengthen Communities",
@@ -27336,23 +27328,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17730646739211672082154731473029.jpg?v=1773064748"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17730646739211672082154731473029.jpg?v=1773064748",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/banglamung-district-hosts-village-committee-day-2026-event-to-honor-local-leaders-and-strengthen-communities/",
+      "source": ""
     },
     {
       "title": "방라뭉 지역, 지역 책임자들과 월례 회의 개최: 지역 사회 발전을 위한 노력",
       "summary": "- 방라뭉 지역은 지역 책임자들과 월례 회의를 개최하여 지역 사회 발전을 논의함.\n- 회의에서는 '암프 푸응 다이' 정책을 통해 지역 리더들이 주민들의 어려움을 해결하고 공공 질서를 유지하는 데 중추적인 역할을 수행하도록 강조함.\n- 또한, 6세 미만 빈곤층 아동에 대한 지원금 미수혜 현황 조사를 실시하여 적절한 지원을 제공할 예정임.",
       "full_translated": "방라뭉 지역은 지역 책임자들과 월례 회의를 개최했습니다. 회의 중에는 카오마이깨오 부구 3리의 시민 행정을 위한 두 명의 보조 마을 대표인 Suchanan Chantramak 양과 Sunisa Hong Ngoen 양에게 임명장과 배지를 수여했습니다. 또한 2026년 3월 2일부터 방라뭉 지역 수석 부지사 역할을 맡은 Phichet Thamohor를 환영했습니다.\n\n지역 대표는 지방 행정부의 2026년 정책인 '암프 푸응 다이'(District You Can Rely On)에 따라 캄난과 푸야이 반의 효율성을 향상시키기 위한 지침을 설명했습니다. 이 계획은 지역 지도자들을 주민들의 어려움을 해결하고, 해당 지역에서 공공 질서와 평화를 유지하며, 긴밀하고 접근 가능한 서비스를 대중에게 제공하는 핵심 세력으로 자리매김하는 것입니다. 목표는 캄난과 푸야이 반을 진정으로 신뢰할 수 있는 인물로 만드는 것입니다. 또한 방라뭉 지역사회 개발 사무소는 캄난과 푸야이 반에게 지원금을 받지 못한 6세 미만 아동, 빈곤 가구 또는 불우 아동에 대한 설문 조사를 실시할 것을 요청했습니다. 수집된 데이터는 적절한 프로젝트를 통해 지원을 가능하게 하기 위해 관련 시스템에 입력됩니다. 완료된 설문지는 2026년 3월 16일까지 부구 지역사회 개발 담당관을 통해 제출해야 합니다. DOPA 2026: Better Together로 브랜드화된 '암프 푸응 다이' 정책은...",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객에게 직접적인 영향은 적으나, 지역 사회 변화에 대한 정보 제공. 지역 정책에 대한 이해를 돕고, 간접적으로 여행 환경에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "방라뭉",
-        "price": null,
-        "location_google_map_query": "방라뭉"
-      },
+      "event_info": "{'date': None, 'location': '방라뭉', 'price': None, 'location_google_map_query': '방라뭉'}",
       "references": [
         {
           "title": "Banglamung District Holds Monthly Meeting With District Chiefs and Heads",
@@ -27361,23 +27350,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17730638353984397676928777248388.jpg?v=1773063896"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17730638353984397676928777248388.jpg?v=1773063896",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://thepattayanews.com/2026/03/09/banglamung-district-holds-monthly-meeting-with-district-chiefs-and-heads/",
+      "source": ""
     },
     {
       "title": "프랑스, 지중해 및 홍해에 군함 및 항공모함 파견 준비",
       "summary": "- 프랑스가 지중해와 홍해에 군함 10척과 항공모함을 파견할 예정입니다.\n- 이번 파견은 이란의 공격에 대한 방어 목적으로, 분쟁에 직접 참여하지는 않습니다.\n- 프랑스는 항행의 자유를 유지하고 호르무즈 해협의 통행로 복구를 지원할 수 있습니다.",
       "full_translated": "에마뉘엘 마크롱 프랑스 대통령은 프랑스가 프리깃함 8척, 강습 헬리콥터 모함 2척, 샤를 드골 항공모함을 동지중해와 홍해에 파견하여 방어 조치를 취할 것이라고 밝혔습니다. 마크롱 대통령은 키프로스에서 “우리의 목표는 이란의 공격을 받는 모든 국가와 함께하며 엄격한 방어 입장을 유지하는 것입니다. 이는 신뢰를 구축하고 지역의 긴장 완화에 기여하기 위함입니다.”라고 말했습니다. 이후 샤를 드골함에서 장병들에게 연설하면서 대통령은 프랑스가 항행의 자유를 지키기 위해 노력할 것이며, 호르무즈 해협의 통행로 복구를 포함할 수도 있다고 언급했습니다. 마크롱 대통령은 “우리는 현재 진행 중인 분쟁에 참여하지 않으며, 이 틀 내에서 작전을 수행합니다. 오늘 여러분의 존재는 우방국과 함께 균형과 평화의 강대국으로서 프랑스의 힘을 보여줍니다.”라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없으나, 국제 정세 불안정은 간접적인 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ฝรั่งเศสเตรียมส่งเรือรบ-เรือบรรทุกเครื่องบิน ไปเมดิเตอร์เรเนียน-ทะเลแดง",
@@ -27386,23 +27372,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiYh79Ksfvvw.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiYh79Ksfvvw.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/foreign/2918937",
+      "source": ""
     },
     {
       "title": "미국, 이란 학교 공격 주범으로 지목: 독립 조사단 발표",
       "summary": "- 독립 조사단 '벨링캣'은 미국이 이란 초등학교를 공격해 165명의 여학생이 사망했다고 주장.\n- 이는 도널드 트럼프 전 대통령의 이란 책임 주장에 정면으로 배치되는 내용임.\n- 공격은 이란 혁명수비대(IRGC) 기지 근처 학교에서 발생, 토마호크 미사일 사용 가능성 제기.",
       "full_translated": "네덜란드에 본부를 둔 독립 조사 언론 그룹 '벨링캣'은 최근 공개된 영상 정보를 통해 미국이 이란의 초등학교를 공격하여 2주 전 165명의 여학생이 사망했다는 주장을 더욱 강화했습니다. 도널드 트럼프는 2069년 3월 9일 이를 부인했습니다.\n\n벨링캣은 새롭게 공개된 영상의 정보가 이란이 미나브시의 초등학교를 공격하여 165명의 여학생이 사망했다는 도널드 트럼프 미국 대통령의 주장에 '모순되는 것으로 보인다'고 밝혔습니다. 이 정보는 미국이 2월 28일 이 공격을 수행했을 수 있다는 증거가 증가하는 가운데 나왔습니다. 당시 폭탄이 이란 남부 호르모즈간주 미나브시에 있는 이란 혁명수비대(IRGC) 기지 옆에 위치한 여학교에 떨어졌습니다. \n\n전문가들은 위성 사진 분석을 인용하여 AP통신에 해당 학교가 해당 지역에 대한 지속적이고 빠른 폭격 중에 공격을 받았을 가능성이 높다고 말했습니다. 공개된 비디오 영상은 학교 건물에 폭탄이 떨어져 검은 연기 기둥이 공중으로 솟아오르는 것을 보여주며, 이는 같은 지역에서 이전 공격으로 인한 연기와 섞여 있습니다. 벨링캣의 연구원인 트레버 볼은 해당 비디오의 지리적 위치가 학교 근처임을 확인했는데, 이는 AP통신의 분석과도 일치합니다. 볼은 사용된 무기가 순항 미사일 '토마호크'이며, 이는 미국만이 전쟁에서 보유하고 있는 것으로 알려져 있다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 중동 지역의 긴장 고조 가능성을 시사하므로 낮은 점수 부여. 현재 시각이 새벽이므로 당장 급한 정보는 아님.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "กลุ่มสืบสวนอิสระชี้ สหรัฐฯ คือผู้โจมตีโรงเรียนอิหร่าน นักเรียนดับ 165 ศพ",
@@ -27411,8 +27394,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiT5VHH63bhL.jpg"
         }
       ],
-      "collected_at": "01:40",
+      "collected_at": "1:40",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OZiT5VHH63bhL.jpg",
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/foreign/2918936",
+      "source": ""
+    },
+    {
+      "title": "파타야 호텔에서 일본인 관광객, 트랜스젠더 여성의 가위 공격으로 부상",
+      "summary": "- 파타야 호텔에서 일본인 관광객이 트랜스젠더 여성에게 가위로 공격당해 부상을 입었습니다.\n- 용의자는 자발적으로 자수했으며, 피해자가 먼저 폭행했다고 주장하고 있습니다.\n- 피해자는 현재 병원에서 치료 중이며, 경찰은 정확한 사건 경위를 조사하고 있습니다.",
+      "full_translated": "3월 9일 새벽 4시경, 파타야 중심부의 한 호텔에서 사건이 발생했습니다. 파타야 시 경찰은 날카로운 흉기로 인한 부상과 관련된 심각한 다툼에 대한 긴급 신고를 받았습니다. 순찰대 1303 소속 경찰관들은 현장에서 60~61세의 일본인 유스케 씨가 오른쪽 손목 근처에 약 3cm 넓이의 깊은 열상으로 인해 심하게 피를 흘리고 있는 것을 발견했습니다. 응급 구조대는 출혈을 멈추기 위해 응급 처치를 제공한 후 파타야 국제 병원으로 이송했습니다. 현장에서 경찰은 27세의 태국 트랜스젠더 여성 민(일명 “Sutthasat”)을 용의자로 구금했습니다. 용의자는 자발적으로 자수하여 격렬한 몸싸움 중에 발생했다고 주장하며 범행을 자백했습니다. 그녀의 진술에 따르면 피해자가 먼저 자신을 폭행한 후 방어하기 위해 근처에 있던 가위를 잡았다고 합니다. 그녀는 또한 파타야 해변 근처에서 관광객을 만나 호텔 방으로 초대했다고 설명했습니다. 상반된 주장이 나왔습니다. 용의자는 제압당하고 효과적으로 도움을 요청할 수 없었던 후 자신을 보호하기 위해 행동했다고 주장하는 반면, 피해자는 용의자가 그에게서 5,000바트를 강탈하려 했다고 주장합니다. 경찰은 피해자의 안전을 최우선으로 생각하여 즉각적인 치료를 받도록 하는 동시에 현장에서 증거를 확보하여 사건의 진실을 밝히기 위해 노력하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 8,
+      "impact_reason": "외국인 대상 범죄 발생. 여행객 안전에 직접적인 영향. 사건 발생 시간 고려하여 금일 발생 사건으로 판단.",
+      "event_info": {
+        "date": "2026-03-09",
+        "location": "파타야 중심부 호텔",
+        "price": null,
+        "location_google_map_query": "Pattaya hotel"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Arrest Transgender Woman After Scissors Attack on Japanese Tourist in Hotel Room",
+          "url": "https://thepattayanews.com/2026/03/09/pattaya-police-arrest-transgender-woman-after-scissors-attack-on-japanese-tourist-in-hotel-room/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730515822367519735437451611190.jpg?v=1773052303"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17730515822367519735437451611190.jpg?v=1773052303",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "파타야 경찰, 외국인 가족 고급 주택털이 용의자 2명 체포",
+      "summary": "- 파타야 경찰이 프라탐낙 힐 고급 주택에서 발생한 고가 시계 절도 사건 용의자 2명을 체포했습니다.\n- 용의자들은 26세 남성 Krisaphong Boonchan과 28세 남성 Nakarin Khemtis로 확인되었습니다.\n- 경찰은 범행에 사용된 것으로 추정되는 차량과 의류를 압수했습니다.",
+      "full_translated": "파타야 경찰서의 Anek Saratongyu 서장과 수사팀은 프라탐낙 힐 고급 주택에서 발생한 외국인 남성 및 가족 대상 고가 시계 절도 사건의 용의자 2명을 체포했습니다. 용의자들은 26세의 Krisaphong Boonchan과 28세의 Nakarin Khemtis로 확인되었습니다. 경찰은 용의자들이 범행 현장을 오갈 때 사용한 것으로 추정되는 라용 번호판 커 워 8730의 검은색 Chevrolet 세단과 범행 당시 착용한 의류를 압수했습니다. 사건은 2026년 3월 2일 발생했으며, 30세의 Natthaporn은 외국인 남편과 어린 딸과 함께 파타야 경찰에 침입 사실을 신고했습니다. 복면을 쓴 두 명의 침입자는 카오 프라탐낙 지역 고급 주택의 벽을 넘어 재산을 샅샅이 뒤졌습니다. 도난품 중에는 남편의 Patek Philippe 고급 시계(약 600만 바트 상당)와 딸의 Rolex 시계(약 40만 바트 상당)가 있었습니다. 도난품의 총 가치는 640만 바트를 초과합니다. 수사관들은 인근 CCTV 영상을 검토하여 범죄와 관련된 의심스러운 차량을 확인했습니다. 추가 추적 및 정보 활동을 통해 경찰은 Soi Nern Phlab Wan의 거주지에서 두 용의자를 찾아 체포했습니다. 초기 심문에서 두 용의자는 모두 절도를 자백했습니다. 그들은 훔친 시계를 빨리 팔았다고 시인했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 대상 범죄 발생 및 용의자 체포 소식은 여행객 안전에 영향을 미치므로 중요하다고 판단됨. 파타야 지역 여행객에게 주의를 환기시킬 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "파타야, 프라탐낙 힐",
+        "price": null,
+        "location_google_map_query": "Phratamnak Hill, Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pattaya Police Arrest Two Suspects in High-Value Watch Burglary From Foreign Man and Family at Luxury Home on Phratamnak Hill",
+          "url": "https://thepattayanews.com/2026/03/09/pattaya-police-arrest-two-suspects-in-high-value-watch-burglary-from-foreign-man-and-family-at-luxury-home-on-phratamnak-hill/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260309_1759003989367044453199827.jpg?v=1773053981"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260309_1759003989367044453199827.jpg?v=1773053981",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "파타야 좀티엔 해변, 술 취한 인도인 제트스키 사고로 러시아 여성 부상",
+      "summary": "- 파타야 좀티엔 해변에서 술에 취한 인도인 남성이 제트스키를 몰다 수영 구역에 있던 러시아 여성을 들이받는 사고 발생.\n- 65세 러시아 여성은 머리에 심각한 부상을 입음.\n- 불법적으로 수영 구역에 진입한 인도인 남성은 경찰에 체포되어 조사 중.",
+      "full_translated": "65세의 러시아 관광객이 월요일 아침 좀티엔 해변의 지정된 수영 구역에 불법적으로 들어온 술에 취한 인도 남성이 운전하는 제트 스키에 맞아 심각한 머리 부상을 입었습니다. 파타야에서 술에 취한 인도인 관광객이 제트 스키를 타고 수영 구역에서 러시아 여성을 들이받아 머리 부상을 입혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전 관련 사건 발생. 파타야 해변에서 발생한 사고이므로 여행객 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "Jomtien Beach, Pattaya",
+        "price": null,
+        "location_google_map_query": "Jomtien Beach Pattaya"
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
+          "url": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "파타야, 200만 바트 강도 사건 용의자 영국인 3명 체포",
+      "summary": "- 파타야에서 발생한 200만 바트 강도 사건의 용의자로 영국인 3명이 체포됨.\n- 이들은 주택 침입 및 금고 절도 혐의를 받고 있으며, 마피아가 아니라고 주장하고 있음.\n- 경찰은 도난당한 금고를 회수했으며, 사건 경위를 조사 중.",
+      "full_translated": "주택 침입 혐의로 기소된 영국 국적자 3명이 파타야의 한 주택에서 200만 바트가 넘는 돈이 들어 있는 금고를 털어간 혐의로 오늘 처음 구금된 채로 반항적인 모습을 보이며 자신들은 \"마피아가 아니다\"라고 주장했습니다. 파타야에서 동료 영국인 거주자의 2백만 바트 주택 침입 및 금고 강도 사건과 관련된 혐의를 부인한 영국인 용의자 3명이 공식적으로 구금되었습니다. 태국 경찰은 지역 사회에 충격을 준 유명 무장 강도 사건에서 상당한 진전을 이루어 외딴 들판에 버려진 2백만 바트가 넘는 현금이 들어 있던 도난 금고를 회수했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전 관련 사건 발생. 파타야에서 외국인 관련 강도 사건이 발생했으므로 여행객 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "Pattaya",
+        "price": null,
+        "location_google_map_query": "Pattaya"
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
+          "url": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 중동 분쟁 상황 주시 및 영향 관리 위한 합동 센터 설립",
+      "summary": "- 태국 정부가 중동 지역의 불안정한 상황에 대처하기 위한 전담 조정 기구를 설립함.\n- 이 기구는 중동 분쟁이 태국에 미치는 영향을 모니터링하고 관리하는 역할을 수행함.\n- 총리는 국가 이익을 보호하기 위해 상황을 예의주시하고 있다고 밝힘.",
+      "full_translated": "태국 총리 아누틴 찬비라쿨은 중동 지역의 급변하는 상황을 추적하고 현재 진행 중인 지역 적대 행위 속에서 국가 이익을 보호하기 위한 전담 조정 기구를 설립하는 공식 명령에 서명했습니다. 태국은 중동 분쟁의 영향을 모니터링하고 관리하기 위한 합동 센터를 설립했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 분쟁이 항공편 등에 영향을 줄 수 있으므로 여행객에게 관련 정보 제공. 상황 주시를 위한 정부 노력.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Top National Thailand Stories From the Past Week: Impacts of Middle East Conflict and More",
+          "url": "https://thepattayanews.com/2026/03/09/top-national-thailand-stories-from-the-past-week-impacts-of-middle-east-conflict-and-more/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634"
+        }
+      ],
+      "collected_at": "02:34",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/641596553_1371709898332169_2570869011022252985_n-1.jpg?v=1773046634",
       "date": "2026-03-10"
     }
   ]
