@@ -25534,14 +25534,9 @@
       "summary": "- 중동 지역의 불안정으로 인해 태국을 포함한 동남아시아행 항공편 운항에 차질이 발생하고 있습니다.\n- 발리, 몰디브 등 인기 여행지에 이어 태국 역시 항공편 취소 및 지연의 영향을 받을 수 있습니다.\n- 여행 전 항공편 운항 정보를 확인하고, 여행자 보험 가입을 고려하는 것이 좋습니다.",
       "full_translated": "중동 분쟁으로 인해 태국 여행 계획에 차질이 생길 수 있습니다. 발리, 몰디브와 더불어 동남아시아 지역의 항공편 운항에 차질이 발생하고 있으며, 태국 역시 예외는 아닙니다. 항공편 취소 또는 지연 가능성에 대비하여 여행 전 반드시 항공편 운항 정보를 확인하고, 여행자 보험 가입을 고려하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 운항 차질은 여행객의 불편을 야기할 수 있으므로 게시 필요. 기존 게시글과 유사하지만, 최신 정보를 제공하므로 업데이트로 간주.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Why Your Thailand Dream Trip Is Getting Cancelled: Here’s The Middle East Conflict Factor You Didn’t Expect! - Travel And Tour World",
@@ -25550,23 +25545,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:44",
+      "collected_at": "6:44",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZW1UUjlVbGRvRk9IeUpIWGJhbHFUQ0ZkMDFLUFlvNXJXbm1FNnczdXl6REItYnhjNE9yRGJkTDZaWWk4Sk15dzJtUW1wc0pOS2ZSS3QzXzEzVHFnTU4wNk5HVWJDNGYzM05Mak5rcTIxNlBiZlBkbWd6RF93QXRJZ2ZlVXdpZ0tDOGRoMzJPVzFJSXlNa0d5Unp6Tk94RS1VV0IyUjh2cDRpREdZU2padHJoWEZla1YzekVwSW5FcFA3aXJJbW90N2xNQnpIRFRYdnBDNDBDN0pOMnhpZXZfalp1ZmItTTZa?oc=5",
+      "source": ""
     },
     {
       "title": "BJT, 글로벌 분쟁 속 태국 안정화 전략 발표",
       "summary": "- Bhumjaithai Party(BJT)는 중동 분쟁 등 국제적 불안정으로부터 태국 경제를 보호하기 위한 전략을 발표했습니다.\n- '10 Plus' 전략은 저소득층, 노년층, 중소기업의 부채 감소를 지원하고, 녹색 산업 투자를 통해 태국의 경쟁력을 강화하는 것을 목표로 합니다.\n- 정부는 유가 공급 및 소비자 물가에 대한 비상 계획을 수립하고 있으며, 총리는 매일 상황을 점검하고 있습니다.",
       "full_translated": "Bhumjaithai Party(BJT)는 중동 분쟁 심화 등 국제 분쟁으로 인한 불안정으로부터 태국을 보호하기 위한 전략을 발표했습니다. 일요일 부리람의 Chang International Circuit에서 열린 당 포럼에서 BJT 고위 관계자들은 당이 '10 Plus' 전략이라고 부르는 일련의 조치를 발표했습니다. Ekniti Nitithanprapas 부총리는 이러한 조치들이 국가 성장을 견인하는 데 도움이 될 것이라고 말했습니다. Ekniti는 정책 패키지가 실질적인 경제 조치에 초점을 맞출 것이라고 말했습니다. 경제, 무역 및 외교 정책에 걸친 이 패키지에는 저소득 가구, 노인 시민 및 중소기업의 부채 감소를 지원하는 이니셔티브가 포함되어 있습니다. 또한 태국의 국제 경쟁력을 강화하고 지속 가능한 경제 확장을 유지하기 위해 녹색 산업에 대한 투자를 우선시합니다. 그는 \"우리의 목표는 단순한 빠른 성장이 아니라 안정적이고 포용적인 성장입니다.\"라고 덧붙이며, 국가는 1997년 아시아 금융 위기 이전에 보였던 지속 불가능한 경제 확장의 유형을 반복하지 않아야 한다고 말했습니다. Ekniti는 경제가 특히 중동 전쟁으로 인해 여러 외부 충격에 직면하고 있다고 말했습니다. 그는 정부가 상황 전개를 모니터링하고 비상 대책을 준비하고 있다고 말했습니다. 그는 \"지난주 총리는 상황을 평가하기 위해 매일 회의를 소집했습니다.\"라고 말했습니다. \"우리는 석유 공급 및 소비자 물가에 대한 계획을 준비했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 경제에 영향을 미치는 정책으로, 여행객의 소비 및 물가와 간접적으로 연관될 수 있습니다. 다만, 직접적인 여행 관련 정보는 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": null,
-        "location": "Buri Ram",
-        "price": null,
-        "location_google_map_query": "Chang International Circuit, Buri Ram"
-      },
+      "event_info": "{'date': None, 'location': 'Buri Ram', 'price': None, 'location_google_map_query': 'Chang International Circuit, Buri Ram'}",
       "references": [
         {
           "title": "BJT unveils stability strategy",
@@ -25575,23 +25567,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212563_260309060146_700.jpg"
         }
       ],
-      "collected_at": "06:44",
+      "collected_at": "6:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212563_260309060146_700.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.bangkokpost.com/thailand/politics/3212563/bjt-unveils-stability-strategy",
+      "source": ""
     },
     {
       "title": "태국 관광 산업, 중동 위기 속에서 고전… 외국인 관광객 2026년 감소 예상",
       "summary": "- 태국 관광 산업이 중동 위기로 어려움을 겪고 있으며, 2026년 외국인 관광객 수가 감소할 것으로 예상됨.\n- 단거리 시장에 집중하는 새로운 전략이 부상하고 있음.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "태국 관광 산업은 중동 위기 속에서 어려움을 겪고 있으며, 2026년 외국인 관광객 수가 감소할 것으로 예상됩니다. 새로운 전략은 단거리 시장에 집중하는 방향으로 전개되고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 위기가 태국 관광 산업에 미치는 영향에 대한 정보. 관광객 수 감소 예상은 여행 계획에 영향을 줄 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourism Struggles Amid Middle East Crisis, Foreign Arrivals Expected to Drop in 2026, New Strategies emerge to Focus on Short-Haul Markets - Travel And Tour World",
@@ -25599,22 +25588,20 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "06:44",
-      "date": "2026-03-09"
+      "collected_at": "6:44",
+      "image_url": "",
+      "date": "2026-03-09",
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObTZMTlhmWWhkSXptR0EtUXpMd0EzcEFacjdaMlo5ZUNhd3A1SldIOFUwWmkwTFpXZHJmR3VBZ3RxWHdsWV9NUXY0ZGFKd3myczl4bnlycDZZak9HMW5VLTEydFVXa05SRTBpWUIxd1lobi1yeW84T19Reld5a25EemV0Zm1fbnJ0NUthZkRxV3V1M2tVZG9SRDlMb0pCQ1oxSkdrT0ZKMkFGVWQ2MEEtM3pUdTNwWWl5Y0FJTG9ieE5sQmRmc0Q4aGpxSXVWZDZjNHFFT25nMGFYVkJSN1FrRVE1VGUwZkVCZGlCcE1OcjdJMmozSUx4Mm5nbkJfa2p5dUVSYjlsS0FZOFNqYWZER3ZTUGdzRmhqN2pSN1Uxd2I?oc=5",
+      "source": ""
     },
     {
       "title": "러시아 대사, 태국의 중립성 칭찬",
       "summary": "- 러시아 대사는 태국이 러시아-우크라이나 분쟁에서 중립적 입장을 유지하는 것을 칭찬함.\n- 태국은 러시아와 오랜 우호 관계를 유지하고 있으며, 내년 양국은 외교 관계 130주년을 기념할 예정임.\n- 대사는 태국 정부 당국, 대학, 연구원, 언론인과의 대화를 지속하고 있으며, 태국의 중립적 입장을 높이 평가한다고 밝힘.",
       "full_translated": "에브게니 토미힌 대사는 서방이 분쟁을 연장하고 있다고 말하며, 아동 유괴 수치를 '가짜'라고 일축했습니다.\n\n태국은 러시아-우크라이나 분쟁에서 오랜 중립적 입장을 유지해 왔으며, 이는 국제 관계에 대한 균형 잡힌 접근 방식과 양국과의 역사적 ties를 반영합니다. 토미힌 대사는 태국의 입장이 라마 5세 왕과 니콜라스 2세 차르 간의 외교 관계가 처음 수립된 1897년으로 거슬러 올라가는 러시아와의 우호 전통을 반영한다고 말했습니다. 내년 러시아와 태국은 양국 관계 130주년을 기념할 예정입니다.\n\n토미힌 대사는 \"태국은 처음부터 중립을 유지하고 이 상황과 관련된 국제 문제에서 균형 잡힌 노선을 따르기로 결정했습니다.\"라고 말하며, 모스크바는 이 입장을 소중히 여기며 태국 정부 당국, 대학, 연구원, 언론인과의 대화를 계속하고 있다고 덧붙였습니다.\n\n대사는 최근 아누틴 찬비라쿨 총리를 만나 양국 문제, 지정학적 발전, 전쟁에 대한 러시아의 관점을 논의했습니다. 이 회의는 총리가 외국 외교관들과 정기적으로 소통하는 것의 일환이었습니다. 토미힌 대사는 \"그와 대화할 기회를 전적으로 존중하고 감사합니다.\"라고 말했습니다.\n\n그는 2022년 2월 24일에 시작된 러시아-우크라이나 전쟁 4주년을 맞아 방콕 포스트에 이같이 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국의 외교적 입장에 대한 뉴스. 여행 자체에 직접적인 영향은 적으나, 국제 정세에 대한 이해를 돕고 잠재적인 영향 가능성을 고려하여 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Russian envoy praises Thai neutrality",
@@ -25623,23 +25610,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212773_260309062509_700.jpg"
         }
       ],
-      "collected_at": "06:44",
+      "collected_at": "6:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212773_260309062509_700.jpg",
-      "date": "2026-03-09"
+      "date": "2026-03-09",
+      "link": "https://www.bangkokpost.com/thailand/general/3212773/russian-envoy-praises-thai-neutrality",
+      "source": ""
     },
     {
       "title": "아누틴, MotoGP 부패 주장에 명예훼손 소송 제기 예정",
       "summary": "- 아누틴 총리가 MotoGP 부패 연루 주장에 대해 세레피수트 대표를 명예훼손으로 고소할 예정.\n- 세레피수트 대표는 정부 자금이 칫첩 가문과 당에 흘러갔다고 주장.\n- 품짜이타이 당은 이미 선거 기간 동안 세레피수트 대표의 발언에 대해 선거관리위원회에 жалобу 제기.",
       "full_translated": "아누틴 차른비라쿨 총리 겸 품차이타이 당(BJT) 대표가 자신과 당을 부패와 연결시키는 주장에 대해 세레피수트 테미야베스에 대한 명예훼손 소송을 제기할 계획입니다. 품차이타이 당의 고위 당원인 수파차이 자이 사무트는 일요일 부리람에서 기자들에게 세리 루암 타이 당 대표인 세레피수트 씨가 아누틴 씨와 당의 신뢰성을 훼손하는 발언을 했다고 말했습니다. 그는 세레피수트 씨가 아누틴 씨와 품차이타이 당이 부리람에서 열린 MotoGP 행사와 관련된 부패에 연루되어 정부 자금이 치드ชอบ 가문과 당에 흘러갔다고 주장했다고 말했습니다. 그는 유사한 주장이 이전에 선거관리위원회(EC)에 보고되었다고 말했습니다. 수파차이 씨는 \"세레피수트 씨가 동일한 왜곡된 정보를 두 번째로 대중에게 반복했습니다. 총리와 당은 이번 주에 그를 상대로 소송을 제기할 것입니다.\"라고 말했습니다. 품차이타이 당은 앞서 선거 운동 기간 동안 세레피수트 씨가 부리람에서 열린 MotoGP 경기를 조직하는 데 40억 바트 이상이 사기적으로 지출되었다고 주장한 발언에 대해 EC에 불만을 제기했습니다. EC는 이 문제를 조사하고 있습니다. 위법 행위가 입증되면 이 사건은 법원으로 회부될 수 있으며 세레피수트 씨는 그의 의원 자격을 잃을 수 있습니다. 수파차이 씨는 또한 품차이타이 당이 분쟁으로 인해 세리 루암 타이 당을 내각에 초대하지 않을 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적 이슈이며, 여행객에게 직접적인 영향은 적다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Anutin to sue over MotoGP graft claims",
@@ -25648,8 +25632,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212688_260309060630_700.jpg"
         }
       ],
-      "collected_at": "06:44",
+      "collected_at": "6:44",
       "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212688_260309060630_700.jpg",
+      "date": "2026-03-09",
+      "link": "https://www.bangkokpost.com/thailand/politics/3212688/anutin-to-sue-over-motogp-graft-claims",
+      "source": ""
+    },
+    {
+      "title": "태국 관광, 중동 항공 폐쇄로 400억 바트 수익 감소 전망",
+      "summary": "- 태국 관광스포츠부는 중동 항공 폐쇄가 8주간 지속될 경우 관광 수입이 400억 바트 이상 감소할 수 있다고 경고함.\n- 중동 및 유럽 여행객은 항공편 운항 차질로 큰 불편을 겪고 있으며, 에미레이트 항공 및 에티하드 항공과 같은 걸프 항공사도 제한적인 운항만 재개함.\n- 항공 폐쇄 기간 동안 항공사들은 유가 상승과 환율 변동으로 항공료를 인상할 가능성이 있어 모든 시장의 관광객에게 영향을 미칠 것으로 예상됨.",
+      "full_translated": "태국 관광스포츠부는 중동 항공 폐쇄가 최악의 경우 8주 동안 지속된다고 가정할 때 태국이 관광 수입에서 400억 바트 이상을 잃을 수 있다고 밝혔습니다. \n\n나트리야 타위웡 관광스포츠부 차관은 중동과 유럽에서 온 여행객들이 많은 항공편이 운항할 수 없게 되면서 항공 폐쇄로 인해 큰 어려움을 겪고 있다고 말했습니다. 에미레이트 항공 및 에티하드 항공과 같은 걸프 항공사들은 제한적인 항공편만 재개했습니다. \n\n관광부는 중동 항공 폐쇄가 3주, 4주, 8주 동안 지속될 경우의 세 가지 시나리오를 사용하여 관광에 미치는 영향을 평가했습니다. 항공 폐쇄가 8주 이상 지속될 경우 외국인 관광객이 595,874명 감소하여 409억 바트의 손실이 발생할 수 있습니다. \n\n나트리야 씨는 그 기간 동안 항공사들은 여름 스케줄을 따르고 있으며 유가 상승과 환율 변동으로 인해 항공료를 인상할 가능성이 있다고 말했습니다. 이는 단거리 노선이 가장 작은 조정을 보겠지만 모든 시장의 관광객에게 영향을 미칠 것입니다. 또한 유럽은 더 높은 인플레이션율을 기록하여 여행 지출 능력을 저해할 것으로 예상됩니다. 감소는 주로 유럽 관광객 429,809명 감소, 중동 여행객 146,419명 감소, 기타 지역에서 19,646명 감소로 인해 발생합니다. 4주 항공 폐쇄라는 기본 시나리오에서 태국은",
+      "category": "BUSINESS",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공편 운항 차질로 인한 여행객 불편 및 비용 증가 예상. 항공편 이용객에게 중요한 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai tourism faces B40bn revenue collapse",
+          "url": "https://www.bangkokpost.com/business/general/3212748/thai-tourism-faces-b40bn-revenue-collapse",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212748_260309073653_700.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212748_260309073653_700.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "나라티왓 주 스리사콘 지역, 쓰레기통 폭탄 테러 발생",
+      "summary": "- 태국 나라티왓 주 스리사콘 지역에서 폭탄 테러 발생\n- 상업 건물 앞 쓰레기통에 설치된 사제 폭탄이 터져 건물 일부 손상\n- 인명 피해는 없었으며, 경찰이 용의자 추적 중",
+      "full_translated": "2569년 3월 9일 오전 1시경, 나라티왓 주 스리사콘 지역에서 폭탄 테러가 발생했습니다. 경찰은 스리사콘 지역의 상업 건물 앞 쓰레기통에 설치된 사제 폭탄이 터졌다는 신고를 받고 현장에 출동했습니다. 폭발로 인해 건물과 지붕이 손상되었지만 다행히 인명 피해는 없었습니다. 경찰은 현장에서 증거를 수집하고 용의자를 추적하고 있습니다. 초기 조사 결과, 폭탄은 사제 폭탄으로 밝혀졌으며, 범인들은 혼란을 야기하기 위해 폭탄을 쓰레기통에 숨겨둔 것으로 보입니다. 현재 경찰은 현장을 봉쇄하고 폭발물 처리반(EOD)과 법의학팀을 투입하여 잔해와 회로를 수거하고 있습니다. 또한 주변 CCTV 영상을 분석하여 도주 경로를 파악하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 남부 지역의 테러 발생 소식은 여행객 안전에 영향을 미칠 수 있으므로 알리는 것이 적절함. 특히 나라티왓은 여행객들이 자주 방문하는 지역은 아니지만, 주변 지역으로의 여행 시 주의가 필요함.",
+      "event_info": {
+        "date": "2026-03-09",
+        "location": "나라티왓 주 스리사콘 지역",
+        "price": null,
+        "location_google_map_query": "스리사콘 나라티왓"
+      },
+      "references": [
+        {
+          "title": "บึมป่วนใต้วางระเบิดแสวงเครื่องซุกถังขยะในพื้นที่ อ.ศรีสาคร จ.นราธิวาส",
+          "url": "https://www.thairath.co.th/news/crime/2918715",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOc48F3c9d3AP.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4KOc48F3c9d3AP.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "태국 정부, 여름철 익사 위험 증가 경고",
+      "summary": "- 태국 정부는 여름철(3~5월) 익사 사고가 가장 많이 발생한다고 경고하며 주의를 당부했습니다.\n- 최근 10년간 연평균 964명이 익사했으며, 특히 학령기 아동의 익사 사고가 급증하는 경향을 보입니다.\n- 익사 사고의 주요 원인은 물놀이 중 사고 및 부주의로 인한 추락이며, 구명조끼 착용과 안전 수칙 준수가 강조됩니다.",
+      "full_translated": "태국 정부는 여름철 익사 위험이 증가함에 따라 경고를 발표했습니다. 자료에 따르면 매년 거의 1,000명이 사망합니다.\n\n에어린 판릿 정부 부대변인은 태국이 3월에서 5월 사이에 가장 많은 익사 사고를 기록한다고 밝혔습니다. 지난 10년간(2016~2025년) 연평균 964명이 사망했습니다. 45~59세 성인이 사망자 수의 27.9%로 가장 큰 비중을 차지했으며, 60세 이상이 21.7%, 15세 미만 어린이가 20.3%를 차지했습니다.\n\n그녀는 \"학교 방학 동안 어린이 익사 사고가 급격히 증가하여 연간 사례의 약 3분의 1을 차지합니다.\"라고 말했습니다. 주요 원인은 물놀이 또는 물에서 놀다가 발생하는 사고가 51.6%, 실수로 물에 빠지는 사고가 25.2%를 차지했습니다. 대부분의 사고는 연못, 운하, 강과 같은 농업용 또는 자연 수원에서 발생했습니다. 거의 모든 피해자(98.4%)는 구명조끼를 착용하지 않았습니다.\n\n익사 사고의 약 60%는 정오에서 오후 5시 59분 사이에 발생했으며, 피해자의 41.4%는 사고 당시 친구와 함께 있었습니다. 전체적으로 익사 피해자의 76.5%가 사망했으며, 이는 사고가 얼마나 빠르고 심각하게 발생하는지를 반영하며, 예방이 최우선 과제라고 그녀는 말했습니다.\n\n질병통제국 몬티엔 카나사와드 국장은 특히 물놀이 활동 중 어린이와 노인 친척을 감독할 때 각별한 주의를 기울일 것을 촉구했습니다. 그는 구명조끼를 착용하고, 주의할 것을 조언했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여름철 물놀이 사고에 대한 경고는 여행객 안전에 직접적인 영향을 미치므로 중요합니다. 특히 가족 단위 여행객에게 유용한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Govt warns of increasing drowning risks as summer nears",
+          "url": "https://www.bangkokpost.com/thailand/general/3212703/govt-warns-of-increasing-drowning-risks-as-summer-nears",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212703_260309064216_700.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_3212703_260309064216_700.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "이스라엘-팔레스타인, 이란 로켓 공격에 대피소 순위 및 샤워 시간 앱 등장",
+      "summary": "- 이스라엘과 팔레스타인 주민들이 이란의 로켓 공격에 대비하기 위해 다양한 방법을 모색하고 있습니다.\n- 미사일 경보 빈도를 분석하여 안전한 샤워 시간을 알려주는 앱이 인기를 끌고 있습니다.\n- Time Out은 대피소 근처의 해변 목록을 제공하고, 언론인들은 텔아비브의 공공 대피소 순위를 매기는 등 다양한 노력이 이어지고 있습니다.",
+      "full_translated": "예루살렘 - 이스라엘 최고의 방공호는 어디일까요? 그리고 미사일 경보로 중단되지 않고 샤워하기에 가장 좋은 시간은 언제일까요? 미국과 이스라엘의 이란 공격으로 시작된 중동 전쟁은 이란의 보복 공격과 함께 텔아비브에서 예루살렘에 이르기까지 유대인과 아랍인들에게 까다로운 질문을 던지고 있습니다. 새로운 앱은 특정 지역의 최근 공습 경보에 대한 통계 분석을 사용하여 사용자가 세탁 중에 엄폐해야 할 가능성을 제한하면서 하루 중 최적의 목욕 시간을 안내합니다. “샤워조차 할 수 없어요. 식당에서 알몸이에요. 이게 정상인가요?” 이란 미사일이 날아온다는 경고에 주민들에게 대피하라는 명령이 내려지자 6만 명의 팔로워를 가진 텔레그램 계정에서 한 이스라엘인이 재치있게 말했습니다. 트렌디한 레스토랑과 칵테일 바를 안내하는 것으로 알려진 Time Out은 또한 대중이 전쟁을 헤쳐나가도록 돕기 위해 노력하고 있습니다. 대피소와의 근접성을 기준으로 바람직한 텔아비브 해변 목록을 발표했습니다. “필요한 경우 몇 분 안에 걸어서 갈 수 있는 규정을 준수하는 보호 구역(대피소) 근처의 해변을 검색하여 찾았습니다. 당황하지 마세요!” 언론인 오페크 자흐는 텔아비브의 공공 대피소 순위를 매겼습니다. 낮은 성적을 거둔 곳 중에는 관광객으로 가득 찬 곳, “짖는 개가 있는 곳”, “조용하지만 이야기할 사람이 없는 곳”이라고 조롱하는 곳도 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 지역 분쟁 심화에 따른 여행 안전 관련 정보. 태국 여행 자체와 직접적인 관련은 적으나, 잠재적 위험 인지 차원에서 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Shelter rankings and shower-timing apps: Israelis, Palestinians adjust to Iranian rockets",
+          "url": "https://www.bangkokpost.com/world/3212924/shelter-rankings-and-showertiming-apps-israelis-palestinians-adjust-to-iranian-rockets",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_5997219_700.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.bangkokpost.com/media/content/20260309/c1_5997219_700.jpg",
+      "date": "2026-03-09"
+    },
+    {
+      "title": "중동 전쟁 발발, 태국 경제에 미치는 영향은?",
+      "summary": "- 미국-이스라엘 동맹과 이란 간 전쟁으로 태국 경제 회복에 새로운 도전 과제 발생.\n- 유가 급등 및 불확실성 증가로 GDP 성장률 둔화 예상.\n- 정부는 상황 관리에 만전을 기하고 있지만, 기업들은 불확실성에 대비.",
+      "full_translated": "미국-이스라엘 동맹과 이란 간 전쟁 발발 후 태국의 취약한 경제 회복이 새로운 도전에 직면했습니다. 2월 28일 이란에 대한 군사 공격으로 석유 및 가스 공급 차질에 대한 우려가 커지면서 태국은 2026년에 두 가지 경제 시나리오에 대비하고 있으며, 두 시나리오 모두 GDP 성장률 둔화가 예상됩니다. \n\n국가경제사회개발위원회(NESDC)에 따르면, 분쟁이 한 달 안에 종료되지만 호르무즈 해협이 폐쇄된 상태로 유지될 경우 유가는 배럴당 95~105달러까지 상승하여 태국의 GDP 성장률 전망치는 2%에서 1.6%로 하락할 수 있습니다. 전쟁이 한 달 이상 지속되고 해협이 계속 폐쇄될 경우 유가는 배럴당 115~125달러까지 상승하여 성장률이 1.3%까지 하락할 수 있습니다. \n\n아누틴 차른비라쿨 총리 대행은 태국이 사태에 대처할 준비가 되어 있다고 밝혔지만, 기업들은 경계를 늦추지 않고 2026년 내내 고조되는 불확실성에 대비하고 있습니다. 태국 상공회의소 가공식품미래식품위원회 위원장인 비싯 림루르차는 중동 분쟁이 해당 지역으로 운송하는 수출업체에 즉각적인 영향을 미친다고 말했습니다. 선박이 페르시아만으로 들어갈 수 없게 되면서 수출업체는 선적물을 태국으로 회수하거나 저장 시설이 갖춰진 다른 항구로 경로를 변경하는 두 가지 옵션에 직면해 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 전쟁으로 인한 유가 상승 및 경제 불확실성은 태국 여행 물가 상승에 간접적인 영향을 미칠 수 있음. 경제 상황 변화는 여행객의 소비 심리에 영향을 줄 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand braces for fallout from Mideast war",
+          "url": "https://www.bangkokpost.com/business/general/3212813/thailand-braces-for-fallout-from-mideast-war",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/09/5996793_700.jpg"
+        }
+      ],
+      "collected_at": "08:17",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/09/5996793_700.jpg",
       "date": "2026-03-09"
     }
   ]
