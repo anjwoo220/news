@@ -27735,14 +27735,9 @@
       "summary": "- 태국 정부는 최근 공항에서 관광객의 입국이 자의적으로 거부되고 있다는 주장을 부인했습니다.\n- VnExpress International에 따르면, 태국은 이러한 주장에 대해 공식적으로 반박했습니다.\n- 자세한 내용은 기사를 통해 확인할 수 있습니다.",
       "full_translated": "태국은 공항에서 관광객이 자의적으로 입국을 거부당하고 있다는 주장을 부인합니다. VnExpress International",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 입국 관련 규정 및 절차에 대한 정보 제공. 관광객에게 중요한 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand denies allegations tourists are arbitrarily refused entry at airports - VnExpress International",
@@ -27751,23 +27746,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:29",
+      "collected_at": "4:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMmw3Z1d3bG5taXY1cEFOSktKV0NRX0xOOTA4cjlCRnJpcHNqTTZNdVdrUXVoQVFTU1NXbW9LYlVDZy1jenZ5dWxDUHRqdU16b1lfMC10ZVZBRjJIMFBfVzl2ZGpXMlNUTk93MVlhR3MyMlJxd2NHNUU2Q2E4ZXJuRmJEbEhOb3hnWGJud3gxbnY0ai1sRWllWk02QWV1Rm5PMFFjMUxCYVYxZVFsU3dJVTc0VWRFc1AwR1JLUEZRd2lqQWVtRGp4TmFpQnI?oc=5",
+      "source": ""
     },
     {
       "title": "태국 입국 절차",
       "summary": "- 태국 입국 절차에 대한 정보 제공\n- 여행객을 위한 안내\n- 입국 시 필요한 서류 및 주의사항 포함 예상",
       "full_translated": "태국 입국 절차\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 입국 절차에 대한 정보는 여행객에게 유용하며, 비자/입국 규정 관련 정보는 높은 중요도를 가짐.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand immigration procedures - Travel And Tour World",
@@ -27776,23 +27768,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:29",
+      "collected_at": "4:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWjBEMXlzLVA4eWV2dGZrbnBzMUprMU12eU1vUTRpaThib3dmRG40WmxlX1htUEdKUTN3S1JSaWl6bkNFdzBLeE04SkVzTlhuQ2w3X3R0ZEJDbzBJX3A1RTZNMTNuVG5ZVTBZTkw3bEtELWNUNjE4RzJVSl8tVUFhZDBvUUdpWE4yQXYwZA?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 2026년 송끄란 여행 수요 주도",
       "summary": "- 파타야 및 기타 해변 목적지가 2026년 송끄란 기간 태국 여행 수요를 주도할 것으로 예상됨.\n- 파타야 해변은 송끄란 축제 기간 동안 다양한 행사와 활동을 제공할 예정임.\n- 여행객들은 파타야에서 다채로운 축제 분위기를 경험하고 다양한 해변 활동을 즐길 수 있음.",
       "full_translated": "파타야 및 기타 해변 목적지가 태국에서 2026년 송끄란 여행 수요를 주도합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "송끄란 축제 관련 여행 수요 증가 정보는 여행 계획에 참고할 만함. 2026년이라는 시점이 다소 멀지만, 인기 여행지 정보를 제공하므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2026-04-13",
-        "location": "파타야 해변",
-        "price": "미정",
-        "location_google_map_query": "파타야 해변"
-      },
+      "event_info": "{'date': '2026-04-13', 'location': '파타야 해변', 'price': '미정', 'location_google_map_query': '파타야 해변'}",
       "references": [
         {
           "title": "Pattaya and Other Beach Destinations Now Dominate Songkran 2026 Travel Demand in Thailand - Travel And Tour World",
@@ -27801,23 +27790,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:29",
+      "collected_at": "4:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnlKZXdjWGNacDdDN2ZrTkV2d1lvdXhxUjV2R1NwRDd2T1otS19GeFlNaEdZTFI4dW5mYnpoRGhKSHVyVl8wT09FeDhaYTE0aElvN3Y0U0tTLVRGMlV2eWxEakREd0hlUUk2ekJ1dnJfTlV5bEJNMERSZTNCOW9JUlg2QzFmbU1uMWNidmdTSFBkVk5kTHJkb2I4ZWszcnE1NHltQ2FKYW1DcTFOVnlnbEdRSERLTmVPZDlZMVhST3lGcXZhQXE1bHhwb2k5ME5BS2M4?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫, 파리 로드쇼로 고급 관광객 유치 - 방콕 포스트",
       "summary": "- 푸껫이 파리에서 로드쇼를 개최하여 고급 관광객 유치에 나섰습니다.\n- 이번 로드쇼는 푸껫의 고급 관광 시장을 활성화하는 데 목표를 두고 있습니다.\n- 구체적인 로드쇼 내용 및 결과에 대한 추가 정보는 기사를 통해 확인할 수 있습니다.",
       "full_translated": "푸껫, 파리 로드쇼로 고급 관광객 유치&nbsp;&nbsp;방콕 포스트",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫 관광 정보 업데이트. 여행객에게 유용한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Phuket attracts quality tourists with Paris roadshow - Bangkok Post",
@@ -27826,23 +27812,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:29",
+      "collected_at": "4:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbUJvbU9MMzBWYjgwVFhRM3B3Rm9iRWlWZkNMSjB3cHhFTjlpd240Sk1kVWVkN0h6MF83RlpvUzVsd0JaMm5GMkhXRVp1MDRFa0RFdlpvSVE0MHEtbl9DMTBGOWV3UzROVWpvM1hXRXBkck1QZjQxN09XSkJYMFdIRXF4LWdlclpPOURaNlNLSW5VTzdORnhjdXl3Z0hxaHc0cjlKSmRtQU8?oc=5",
+      "source": ""
     },
     {
       "title": "TAT, 치앙마이의 Kew Mae Pan Nature Trail에서 영감을 받은 SIRIVANNAVARI 2026/2027 가을-겨울 컬렉션 공개",
       "summary": "- 태국 관광청(TAT)은 SIRIVANNAVARI의 최신 컬렉션을 소개하며 치앙마이의 아름다움을 강조함.\n- 이번 컬렉션은 Kew Mae Pan Nature Trail의 자연에서 영감을 받아 디자인됨.\n- 패션과 자연의 조화로운 만남을 통해 태국 북부의 매력을 전 세계에 알릴 예정.",
       "full_translated": "태국 관광청(TAT)은 치앙마이의 Kew Mae Pan Nature Trail에서 영감을 받은 SIRIVANNAVARI 2026/2027 가을-겨울 컬렉션을 공개했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 북부의 자연을 모티브로 한 패션 컬렉션 정보로, 여행객에게 새로운 영감을 줄 수 있지만 직접적인 영향은 낮음.",
-      "event_info": {
-        "date": "2026-09-01",
-        "location": "Kew Mae Pan Nature Trail, Chiang Mai",
-        "price": "정보 없음",
-        "location_google_map_query": "Kew Mae Pan Nature Trail Chiang Mai"
-      },
+      "event_info": "{'date': '2026-09-01', 'location': 'Kew Mae Pan Nature Trail, Chiang Mai', 'price': '정보 없음', 'location_google_map_query': 'Kew Mae Pan Nature Trail Chiang Mai'}",
       "references": [
         {
           "title": "TAT highlights SIRIVANNAVARI Autumn-Winter 2026/2027 collection inspired by Kew Mae Pan Nature Trail in Chiang Mai - TAT Newsroom",
@@ -27851,7 +27834,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:29",
+      "collected_at": "4:29",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWGlfV0pTdWltYnZOS2FxME1Rb1JJLURWaVVoRE13RmI3a2NRV1dPQ0NqdnhVbC1FUnM5UVlPdklBR2VPSVNrdTFjTzJKcDVhLTlUaENOMHJRVzJQVmdPUTVKcUJ3OWV6VkMxWHp1eW0tN1RJS2ZqbE83V1NkZWV0eFRZaTFFUGZfOXp4MERMTzBkWGpiVkRNeEIzcUM5cjhEMXJsMi1aaGVpNWVMSzQydmJxTW9DY1Iza3V6Z1VGamV6elFwdWtDdTBuajJSeGdEcGM0cDVEMnBFNE1iSjNIag?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 입국 규정 2026",
+      "summary": "- 태국은 2026년부터 새로운 입국 규정을 시행할 예정입니다.\n- 자세한 내용은 아직 발표되지 않았습니다.\n- 여행 전에 관련 정보를 확인하는 것이 좋습니다.",
+      "full_translated": "태국 입국 규정 2026 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자/입국 규정 변경 가능성이 있으므로 여행객에게 중요한 정보입니다. 2026년 적용 예정이지만, 미리 인지할 필요가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand immigration rules 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUNpMURDS19RdTYxdjJ3VU15NGFYT2VQdFVwVjR5dnpXajBFVEh4RENDOWtpeFR0WlV3dmdlYU9zN3JiMG1WUkFoUHk4VHBVTnVYcFhnTUswNU8wV3h2YmdqWWQ3aEVENnFYU1lEeTFkTEhxdXExalQtLVdQVVI0QlFxQ2NfRGw5Zm00Qw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 항공 차질로 인한 관광객 감소에 대비",
+      "summary": "- 중동 및 유럽 관광객들이 항공 차질로 인해 큰 타격을 입을 것으로 예상됨.\n- 태국은 관광 산업의 상당한 감소에 대비하고 있음.\n- 여행객들은 항공편 변경 및 취소에 대한 대비가 필요함.",
+      "full_translated": "지속적인 공역 혼란으로 인해 태국이 대규모 관광 감소에 대비하면서 중동 및 유럽 관광객들이 큰 타격을 입었습니다. 이는 여행자에게 무엇을 의미할까요? Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공 차질로 인한 관광객 감소는 여행 계획에 영향을 미칠 수 있으므로 여행자에게 중요한 정보임. 특히 항공편 변경/취소 가능성에 대한 대비가 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle Eastern and European Tourists Hit Hard as Thailand Braces for Massive Tourism Decline Due to Ongoing Airspace Disruptions – What This Means for Travelers - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPd1ZpZ3dzXzUtMVcxbVJvOHdCYVFhRnRONkFQVklvb2JPT1pkMWN1ZUJOM29XMnd0VXlacnpxR0t5X2lUeU1hT1lleVlsZjNqS1BqcndBV0FQRkp2dEhMcGM2cXVMUkdHTlB2VnpLV0xPbEdVYkhZanVHU01yMW1uNXYtQUxMeGRPYVYyM1V6N0hZeXlBZHZ6RzNINTdBQXVpT2c0OVRYcTRwbkFyTmh0VmhPZGk1RVl2dURqeWdSM0ZwUkRSZlhHU1FnRzd5RzBibFlUblhndF9FTXJOdzZ4UDg1TDRWbTBQd3Z5UThrMFlJZjdkV2RmLXhqY1pJcWNUUUk4aGIzWHVZeTRISy0wV19wOGI1cG5Gdy1ISEswdkZHTnZsZjY2c0NpNFdINDNI?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 관광세 도입 검토: 지속 가능한 관광 자금 확보 노력",
+      "summary": "- 태국이 지속 가능한 관광을 위한 자금 확보 방안으로 관광세 도입을 고려 중임.\n- 이는 유럽, 아시아, 미국 등 전 세계적인 관광세 도입 추세와 맥을 같이함.\n- 관광세는 예산 여행객에게 부담을 줄 수 있지만, 관광 산업의 질적 향상을 위한 투자로 이어질 수 있음.",
+      "full_translated": "유럽, 아시아, 아메리카에서 새로운 관광세 도입: 아이슬란드, 태국, 미국은 어떻게 지속 가능성을 위한 자금을 조달하는가 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광세 도입 가능성에 대한 정보. 아직 확정은 아니지만 여행 비용에 영향을 줄 수 있으므로 중간 정도의 중요도를 가짐.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Europe, Asia, and America Embrace New Tourist Taxes: How Iceland, Thailand, and the USA Fund Sustainability While Budget Travellers Pay the Price - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNOEs3dE1mS01zMGo4TEpkc0dYVFRkNjhqMXB2dUR2WXVsd1hJamtpX3hWV2EyLXBWU0x3dFdUdVYweDRjS3FGeGQ0TjdyZ3NMajl6dWh1Z0NKQUFjVWctRDFXTUpwb0dZUm1WOXVrN2tDZ2twMzhmYnNKVGpWZG9aVm16bWhpRmdnZWo1bmtFNzQyaFpEdFVXV3ZBQm1kRElvcVRyUmgyLVllM1A2Tmw4X2hJQTM0dHJlTldaQWZMZ0RoNVR5Qi11RGxHZzZTekxuLWxSNzNucHpLdE42akpadGtNc0RCZ1MxMkNmUkp4OEZKVWJoQmFCREdEUHZWeW9ESG5lQjVySUJCTWNSQ2ZWbFNPNjFMbkw2?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 관광, 새로운 전략으로 여행자 혜택 전국 확산 모색하며 소득 불균형 문제 직면",
+      "summary": "- 태국 관광 산업은 소득 불균형 문제에 직면해 있으며, 특정 지역에만 혜택이 집중되는 현상을 보임.\n- 새로운 전략은 여행자 혜택을 전국적으로 확산시켜 관광 수입의 균형을 맞추는 데 목표를 두고 있음.\n- 정부와 관련 기관은 다양한 프로그램을 통해 지역 경제 활성화와 지속 가능한 관광 발전을 추진할 계획.",
+      "full_translated": "태국 관광은 새로운 전략을 통해 여행자 혜택을 전국으로 확산시키려는 노력에도 불구하고 소득 불균형 문제에 직면해 있습니다. 이 문제는 관광 수입이 특정 지역에 집중되어 다른 지역에는 충분한 혜택이 돌아가지 않는 현상을 야기합니다. 정부와 관련 기관은 이러한 불균형을 해소하기 위해 다양한 프로그램을 시행하고 있습니다. 이러한 프로그램은 지역 경제를 활성화하고 지속 가능한 관광 발전을 촉진하는 데 중점을 두고 있습니다. 예를 들어, 새로운 관광 명소를 개발하고, 지역 특산품을 홍보하며, 지역 주민들이 관광 산업에 참여할 수 있는 기회를 확대하는 등의 노력이 이루어지고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업의 변화는 여행객들에게 새로운 경험을 제공할 수 있지만, 현재로서는 직접적인 영향이 크지 않아 중간 점수 부여. 소득 불균형 해소 노력은 장기적으로 관광 인프라 개선으로 이어질 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Faces Income Imbalance as New Strategies Aim to Spread Traveler Benefits Nationwide - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS0dKYW9LM29fVnlUbEFydW40V3gwdWpJaGM2UVBucUQ0ZHlJR1M1ZUM4WWllZkpOd0VwTVNWaGFVcThiR3R1TnE3SkJEOTZDaGhqaTdaMUJnMDNHTWJCUUE1X3RBUHItUEhGSXVZYUc1elJwekl4V3hZS3Atck1IOWFfdnBac1NJcGxiWWVSOUlDNjY0SThBU2R0d2dIRHFQZGRJd21tSktBYmxzTXJUcXBxOGRJeWxnamEycnRFYUdXNFJtdzFDVl9POFgwVHkwZ2NhMDAtS2RIS0xCYnVkQkNSTQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "코창 관광, 글로벌 긴장 속에서도 번성하며 주말에 2만 명 이상 방문객 맞이",
+      "summary": "- 코창은 태국 연결성 강화로 관광객 증가를 보임.\n- 주말 동안 2만 명 이상의 방문객을 맞이하며 번성.\n- 글로벌 긴장에도 불구하고 관광 산업이 활기를 띰.",
+      "full_translated": "코창 관광이 글로벌 긴장 속에서도 번성하며 주말에 2만 명 이상의 방문객을 맞이했습니다. 태국의 연결성 강화는 코창 관광 성장에 크게 기여하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "코창의 관광 산업 성장 소식은 여행객들에게 긍정적인 정보이며, 여행 계획에 참고할 만한 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "Koh Chang",
+        "price": null,
+        "location_google_map_query": "Koh Chang"
+      },
+      "references": [
+        {
+          "title": "Koh Chang Tourism Thrives Despite Global Tensions, Welcoming More than Twenty Thousand Visitors in a Weekend, Highlighting their Growth Through an Enhanced Connectivity of Thailand - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNRDVTRWdVWEpZdVhaa0FPQW5RTGtROW0yeTlLcVowcHNHdi1nSzdxV2NBRjE3OUVsb3dxbllVRzZZT1F1UXljcXlzaUxkTmJITm9TeGc2aFBhQzRWOVRBWWlIWGtEZC1KNGJ5OHExNk9XaWJaS19SczRuMzVWS29lQWdWN1pZbjdqR3pHaHF0bWZjdXBRVmZERlFMWWF1NDA0d1FzQm0ybjd6eXVkbmNGbFhEdHQ5ZWFDNDFxYXZpbndMaG80ckVaUjd0cWt0aTF1R3ZfMDdCSXZQaVB5VTRxaTEtcHVQVEZZX002S0k1LUU0QUZObFRzV0FEMU11YnREMGMwMDBFdGx3c0RlWmlHaGt5NnZ6ZzBZa3M3ekFZNjFic0NmOVlwYk4wVWdjNjIzQmNTay1temN1Z25VanFxSlB3UzdtbG5nTFdF?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-10"
     }
