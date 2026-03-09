@@ -28174,14 +28174,9 @@
       "summary": "- 중동 전쟁과 여행 차질 속에서 중국이 태국 관광 시장의 주요 국가로 부상.\n- 과거 상위권 국가들을 제치고 1위를 차지.\n- 자세한 내용은 Travel And Tour World에서 확인 가능.",
       "full_translated": "중국이 태국 관광 시장에서 미국, 러시아, 한국, 영국, 독일 등을 제치고 선두를 차지했습니다. 이는 중동 전쟁의 혼란과 여행 차질 속에서 나타난 변화입니다. Travel And Tour World에서 더 자세한 내용을 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 시장의 변화는 여행객들에게 중요한 정보이며, 특히 중국인 여행객 증가에 따른 영향 분석이 필요.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "China Overtakes United States, Russia, South Korea, United Kingdom, Germany, And More Emerging As Thailand’s Leading Tourist Market Amidst The Tumultuous Middle East War And Travel Disruptions - Travel And Tour World",
@@ -28190,23 +28185,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQcnE0Rjg2NVVsd2RRajRwWXBqUk01eWdpVVBRX1NSbGRCeXpFak5pNEtoRmtnREo5c3FlLXhVdUw2OGJGRTZGaklFMHJlTXpCeER4YXJ3Z3ppT0ZvbmlxVTB5bnNmRUNrWnFZODhaV1Y4bzZka1RvYzFqM2hObm5NdXpvbE1lRG1tVkhKaVQ4STZhZHlCa0ttTE9xbEVKa0xKUllMblBXOHlSNEp3UHMtY0VvS2Z6UFRJMFZsX3d5SW5DbXVkMFRqX253cXR3OHlUYkcwb3FSeTF0UndkaXBiODFGd0NucFQ5RVJVbG54dzM2MWg5RlFXX1hpVnIwY1NwNW1DVk5aM2sya2tacllWZVdabUotQVJzWGF5QmxlaWtCUmRCS0NSMFk3ckZoSDV3R01YV3NKUF9kQVlBdzF1Um9CdkFURGtnUlpfTWliN0MxUHpDdXc?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, 연료 가격 억제 조치 시행",
       "summary": "- 태국 정부가 중동 분쟁으로 인한 에너지 가격 급등에 대응하기 위해 단기 및 중기 에너지 관리 대책을 승인할 예정입니다.\n- 아누틴 차른비라쿨 총리 주재 회의에서 단기적으로 디젤 가격 동결을 5~6일 연장하기로 결정했습니다.\n- 휘발유 가격은 급격한 충격을 피하기 위해 점진적으로 인상될 예정이며, 에탄올 사용을 장려하여 화석 연료 의존도를 줄일 계획입니다.",
       "full_translated": "정부가 연료 가격 억제 조치를 시행합니다.\n\n디젤 가격 동결이 5~6일 더 연장될 예정입니다.\n\n게시일: 2026년 3월 10일 05:17\n신문 섹션: 뉴스\n작성자: 위칫 찬타누손시리, 몽콜 방프라파\n\n정부는 중동 분쟁으로 인한 세계 에너지 가격 급등에 대처하기 위해 화요일에 일련의 단기 및 중기 에너지 관리 대책을 승인할 것으로 예상됩니다.\n\n정부는 월요일에 단기 및 중기 에너지 관리 대책을 논의하기 위해 긴급 회의를 열었습니다. 아누틴 차른비라쿨 총리 주재로 에크니티 니티탄프라파 재무장관, 아타폴 륵피분 에너지 장관, 피팟 랏차킷프라칸 교통부 장관, 다누차 피차야난 국가경제사회개발위원회(NESDC) 사무총장이 참석했습니다.\n\n회의 후 피팟 교통부 장관은 정부가 소매 디젤 가격 동결을 5~6일 더 연장하고 휘발유 가격은 갑작스러운 충격을 피하기 위해 단계적으로 인상될 것이라고 발표했습니다. 발표에 앞서 아누틴 총리는 15일간의 디젤 가격 동결을 명령했으며, 이는 5일 후에 만료될 예정입니다. 이번 연장은 추가 결정이 내려지기 전에 일시적인 구제를 제공할 것입니다. 그러나 휘발유 가격은 PTT가 관리하는 메커니즘을 통해 점진적으로 조정될 것입니다.\n\n에크니티 재무장관은 세계 유가가 계속 상승함에 따라 태국은 값비싼 화석 연료에 대한 의존도를 줄이기 위해 신속하게 적응해야 한다고 말했습니다. 이를 달성하는 한 가지 방법은 에탄올 사용을 장려하는 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "연료 가격 변동은 교통비에 영향을 미치므로 여행자에게 간접적인 영향을 줄 수 있음. 가격 변동 추이를 주시할 필요가 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt moves to curb fuel prices",
@@ -28215,23 +28207,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213243_260310054330_700.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213243_260310054330_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/general/3213243/govt-moves-to-curb-fuel-prices",
+      "source": ""
     },
     {
       "title": "트럼프, 유가 급등 우려 없이 이란 제재 완화 검토",
       "summary": "- 트럼프 대통령은 이란과의 분쟁으로 인한 유가 상승을 크게 우려하지 않는다고 밝힘.\n- 동시에 에너지 가격 안정을 위해 일부 국가에 대한 이란산 원유 제재 완화를 고려 중임.\n- 미국은 이란 내 5,000개 이상의 목표물을 공격했으며, 핵 개발 야망을 포기하지 않는다고 비판.",
       "full_translated": "도널드 트럼프 미국 대통령은 이란과의 전쟁으로 인해 유가가 급등하는 상황에 대해 궁극적으로 가격이 하락할 것이라며 크게 우려하지 않는다고 밝혔습니다. 하지만 에너지 가격을 낮추기 위해 일부 국가에 대한 석유 제재를 완화할 준비를 하고 있다고 밝혔습니다. 2026년 3월 9일, 도널드 트럼프 대통령은 플로리다 주 도럴에서 기자 회견을 열고 미국이 이란과의 전쟁에서 상당한 진전을 이루었다고 언급하며, 이번 작전이 “거의 완료되었다”고 밝혔습니다. 트럼프 대통령은 “우리는 군사적 목표를 달성하는 데 매우 빠르게 진전하고 있으며, 일부 사람들은 그러한 목표가 거의 완료되었다고 말할 수도 있습니다.”라고 말했습니다. “우리는 이란의 모든 부대를 완전히 제거했습니다.” 트럼프 대통령은 미국이 이란 전쟁이 시작된 2월 28일 이후 5,000개 이상의 목표물을 공격했으며, “일부는 매우 중요한 목표물”이라고 덧붙였습니다. 그러나 미군은 “필요한 경우를 대비해 가장 중요한 목표물 중 일부를 남겨두고 있습니다.” “만약 우리가 그 목표물들을 공격한다면, 그들은 전력 생산과 다른 많은 것들과 관련된 복구에 수년이 걸릴 것입니다.”라고 그는 말했습니다. 미국 대통령은 또한 이란이 전쟁 발발 전에 합의에 이르지 못한 3차례의 미국 관리들과의 협상 과정에서 핵 야망을 계속해서 드러냈다고 주장했습니다. “핵 야망을 포기할 수 있는 수많은 기회가 있었음에도 불구하고, 그들은 최근에 윗코프에게... 그들은 실제로 ‘우리는 계속해서 그것을 만들고 싶다’고 말했습니다.” 그는 이란 측의 관점을 간단히 요약했습니다. “기본적으로 간단히 말해서 ‘우리는 핵무기를 계속 만들고 싶다’는 것입니다.”",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "유가 변동은 교통비와 물가에 간접적인 영향을 줄 수 있지만, 당장 여행에 큰 영향을 미치지 않으므로 중간 점수 부여. 다만, 이란 관련 분쟁이 격화될 경우 잠재적 위험 요소가 될 수 있다는 점을 감안.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ลั่น ไม่หวั่นราคาน้ำมันพุ่ง แต่เล็งผ่อนคว่ำบาตรน้ำมัน",
@@ -28240,23 +28229,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFwC4Eclcxep.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFwC4Eclcxep.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/foreign/2918943",
+      "source": ""
     },
     {
       "title": "태국인, 아고다 지역 연구에서 '미식' 여행객 선두 주자로 부상",
       "summary": "- 아고다의 연구에 따르면 태국인들이 지역 내 '미식' 여행을 주도하고 있습니다.\n- 태국 여행객들은 음식에 대한 높은 관심과 탐험 의지를 보입니다.\n- 태국 음식 문화의 인기가 해외 여행 트렌드에 영향을 미치고 있습니다.",
       "full_translated": "태국인, 아고다 지역 연구에서 '미식' 여행객 선두 주자로 부상 Nation Thailand",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행 트렌드를 보여주는 정보로, 여행객들에게 흥미로운 참고 자료가 될 수 있음. 하지만 안전이나 편의에 직접적인 영향을 주는 정보는 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thais emerge as leading ‘foodie’ travellers in regional Agoda study - Nation Thailand",
@@ -28265,23 +28251,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JU0tsc1cwMGpQZUZQX2UzNHNwaUNsTjFSb19XaTFfdkVQWTVuYjNxRnpiQnFyc2JOdGtTSVpfY1F1Vjc4cGxzbDd5S1hJNGJXN0lUOFo0bDZCWXNhUFRUTkRB?oc=5",
+      "source": ""
     },
     {
       "title": "태국 중고차 시장, 어려움 직면: 최근 몇 년간 1,009개 업체 폐업",
       "summary": "- Krungthai COMPASS, 태국 중고차 시장의 어려움 분석: 경쟁 심화 및 수요 감소\n- 2026-68년, 중고차 딜러 1,009개 업체 폐업/파산, 2021-25년 대비 2.3배 증가\n- 가계 부채 증가 및 경제 침체로 소비자의 구매력 감소, 중고차 가격 하락 등이 원인",
       "full_translated": "Krungthai COMPASS는 최근 몇 년간 태국 중고차 시장이 어려움을 겪고 있으며, 1,009개의 업체가 폐업했다고 밝혔습니다. 해결해야 할 과제로는 중고차 가격과 중고차 수요 감소가 있습니다. Krungthai COMPASS의 위라야 통수에 따르면, 최근 2~3년 동안 중고차 시장은 여러 압력에 직면해 일부 사업자가 사업을 유지하지 못하고 폐업이 증가하고 있습니다. 2026-68년에는 1,009개의 중고차 업체가 폐업하거나 파산하여 2021-25년 누적 수치보다 2.3배 증가했습니다. 이는 현재 시장의 취약성을 보여줍니다. 중고차 시장이 직면한 압력 중 하나는 판매량 감소입니다. 2026년에는 317,000대로 감소하여 2026년의 406,000대에서 22% 감소했습니다. 태국 중고차 사업자 협회에 따르면, 판매량 감소의 원인은 높은 가계 부채로 인한 소비자 구매력 감소와 경제 침체입니다. 태국 통계청의 자료에 따르면, 태국 가구의 월평균 소득은 2026년 상반기에 29,030바트에서 28,151바트로 약 3% 감소했습니다. 또한 중고차 시장은 가격 하락 문제에도 직면해 있습니다. 최근 3년간 중고차 가격 지수는 2022-25년 평균에 비해 25% 감소했습니다. 이는 압류 차량 증가로 시장 내 중고차 수가 증가했기 때문입니다. 2026-67년에는 월평균 24,000-25,000대의 차량이 압류되었으며, 이는 정상적인 상황에 비해 비정상적으로 높은 수준입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객에게 직접적인 영향은 없으나, 태국 경제 상황을 간접적으로 보여주는 정보이므로 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "​ธุรกิจเต็นท์รถมือสองเริ่มอยู่ยาก แค่ไม่กี่ปี ปิดกิจการ ล้มละลายสูงถึง 1,009 ราย",
@@ -28290,8 +28273,133 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4M1hgZr6Jnjrgk.jpg"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4M1hgZr6Jnjrgk.jpg",
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/auto/news/2918843",
+      "source": ""
+    },
+    {
+      "title": "태국 미식 여행 가이드: 2026년 아시아 최고의 음식 여행지",
+      "summary": "- Travel And Tour World에서 2026년 태국을 아시아 최고의 미식 여행지로 소개합니다.\n- 태국의 다양한 음식 문화와 여행 정보를 제공합니다.\n- 2026년 여행 계획에 참고할 만한 유용한 가이드입니다.",
+      "full_translated": "Travel And Tour World에서 2026년 아시아 최고의 음식 여행지로 태국을 소개합니다. 태국의 다채로운 음식과 문화를 경험할 수 있는 완벽한 가이드입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행을 계획하는 여행자들에게 유용한 정보 제공. 2026년이라는 시점은 다소 멀지만, 미리 계획하는 여행자에게는 도움이 될 수 있음.",
+      "event_info": {
+        "date": "2026",
+        "location": "태국 전역",
+        "price": "개별 여행 계획에 따라 다름",
+        "location_google_map_query": "태국 맛집"
+      },
+      "references": [
+        {
+          "title": "Discover Thailand Through Taste: A Complete Guide to Asia’s Hottest Foodie Travel Destination in 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdDJZaWZNd1RJNHJ0MHdSSDZucGFNNVBFTFdzX1ltdHdiTHJTajdPWjdFbF8ybmdlYmZJQ214XzRqQUlRaUxTa2xqMnMzODlLSnA1UDJlbTdIRnlNUTVKWFQ5Z2MyVzJvTHV1OUlWR19Vb0xBa3pkem9uYVlsTDgybE9sd0I2OTZra2ZHSmJ6b0diVjk0enhqaEViZ2Y2ZlZQcXNpajdDVVFfR1NVOVlrMnhoaERsSG5xVVozRWZ5UHdWdHczTTdUd0wzWFZJVHRIRjV5bGZaNDZXUmRVSXhzUzhR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:48",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "ThaiHealth, 오염 피해 마을 조사",
+      "summary": "- ThaiHealth 재단 팀이 Kok 강을 따라 심각한 중금속 오염에 대한 우려 속에 강변 지역 사회를 조사했습니다.\n- 이번 방문은 지역사회 및 산악 지역 개발 재단(CMD)이 주관했으며, ThaiHealth 임원, 직원 및 환경 및 건강 운영 위원회 위원 18명이 Kwa Wua Dam 마을을 방문했습니다.\n- 주민들은 미얀마 샨 주의 희토류 및 금 채굴 작업으로 인한 오염으로 믿고 있으며, 당국이 거의 1년 전에 강에서 과도한 수준의 중금속을 처음 감지한 이후로 건강 문제에 대한 보고가 있었습니다.",
+      "full_translated": "ThaiHealth, 오염 피해 마을 조사\n\n게시일: 2026년 3월 10일 05:39\n신문 섹션: 뉴스\n작가: Panumate Tanraksa\n\n치앙라이: Thai Health Promotion Foundation(ThaiHealth) 팀이 일요일 Kok 강을 따라 심각한 중금속 오염에 대한 우려가 커지는 가운데 강변 지역 사회를 조사했습니다. Community and Mountain Area Development Foundation(CMD)이 주관한 이번 방문에는 ThaiHealth 임원, 직원 및 환경 및 건강 운영 위원회 위원 18명이 Muang 지역의 Mae Yao 하위 지역에 있는 Kwa Wua Dam 마을을 방문했습니다. Kok 강을 따라 위치한 이 마을은 주민들이 미얀마 샨 주의 상류에서 희토류 및 금 채굴 작업으로 인해 발생한 오염이라고 믿는 오염과 씨름하고 있습니다. 마을 주민들은 당국이 거의 1년 전에 강에서 과도한 수준의 중금속을 처음 감지한 이후로 국경 간 오염, 지역 사회 적응 노력 및 건강 문제에 대해 대표단에 브리핑했습니다. 오염 통제 부서 산하 치앙마이 환경 및 오염 통제 지역 사무소에서 실시한 검사 결과 물에서 중금속 수치가 상승한 것으로 나타났습니다. Kwa Wua Dam 마을의 Sompong Panasangwong 촌장은 3,000라이 이상의 유역 숲을 오랫동안 보호해 온 카렌족 공동체는 더 이상 Kok 강에 의존할 수 없다고 말했습니다. 주민들은 현재 산 개울과 샘에서 공급되는 파이프 물 시스템에 주로 의존하고 있으며, 특히 건기가 다가옴에 따라 충분하지 않다고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객의 건강과 관련된 환경 문제에 대한 정보 제공. 오염 문제가 있는 지역 방문 시 주의를 요함.",
+      "event_info": {
+        "date": null,
+        "location": "Kwa Wua Dam village, Chiang Rai",
+        "price": null,
+        "location_google_map_query": "Kwa Wua Dam village, Chiang Rai"
+      },
+      "references": [
+        {
+          "title": "ThaiHealth inspects pollution-hit village",
+          "url": "https://www.bangkokpost.com/thailand/general/3213463/thaihealth-inspects-pollutionhit-village",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213463_260310060041_700.jpg"
+        }
+      ],
+      "collected_at": "06:48",
+      "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213463_260310060041_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "탁신, 수감 6개월 맞아; 지지자들 석방 기대",
+      "summary": "- 탁신 친나왓 전 총리가 수감 6개월을 맞이하여 가족들이 클롱프렘 중앙 교도소를 방문함.\n- 5월 11일 가석방 가능성이 제기되는 가운데, 탁신 지지자들은 대규모 집회를 계획하고 있음.\n- 지지자들은 5월 10일부터 교도소 밖에서 철야 집회를 열어 석방을 기다릴 예정.",
+      "full_translated": "탁신 친나왓 전 총리의 친척들이 월요일 클롱프렘 중앙 교도소를 방문하여 그가 수감된 지 6개월이 되었습니다. 한편, 레드셔츠 지지자들은 5월 11일에 예상되는 가석방을 앞두고 대규모 집회를 계획하고 있습니다.\n\n탁신의 장남인 판통태와 그의 아내, 그리고 그의 여동생인 핀통타와 그녀의 남편, 그리고 탁신의 변호사인 위냣 찻몬트리가 도착했습니다. 탁신이 형기를 마치기 위해 감옥으로 돌아온 이후 46번째 방문입니다.\n\n레드셔츠 지지자인 푸사디 클린통은 예상되는 석방 날짜가 다가옴에 따라 탁신 지지자들 사이에서 흥분이 고조되고 있다고 말했습니다. 그녀는 레드셔츠가 그가 복역을 시작한 이후 클롱프렘 중앙 교도소 밖에서 24번의 집회를 열었다고 말했습니다.\n\n푸사디는 5월 9일까지 탁신이 형기의 3분의 2인 8개월을 복역하게 되어 가석방 자격이 주어질 것이라고 말했습니다. 가석방 절차는 5월 10일에 예상되며, 그의 석방은 다음 날 오전 8시에 예정되어 있습니다. 지지자들은 5월 10일에 교도소 밖에서 집회를 열어 오후 2시에 시작하여 5월 11일 아침까지 밤새도록 계속될 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "탁신 전 총리의 석방 관련 집회는 정치적 성격이 강하지만, 대규모 집회로 인해 교통 혼잡 등이 발생할 수 있어 여행자에게 어느 정도 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": "2026-05-10",
+        "location": "Klongprem Central Prison, Bangkok",
+        "price": "무료",
+        "location_google_map_query": "Klongprem Central Prison Bangkok"
+      },
+      "references": [
+        {
+          "title": "Thaksin marks sixth month behind bars",
+          "url": "https://www.bangkokpost.com/thailand/politics/3213433/thaksin-marks-sixth-month-behind-bars",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213433_260310061923_700.jpg"
+        }
+      ],
+      "collected_at": "06:48",
+      "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213433_260310061923_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 정부, 허위 보도에 대한 우려 표명",
+      "summary": "- 태국-캄보디아 국경 상황 관련 허위 또는 왜곡된 보도 확산에 대한 우려 제기.\n- 당국은 국경 관련 상황을 면밀히 주시하고 있으며, 정보 확인 후 공식 발표.\n- 양국은 국경 관련 공동 성명을 준수해야 하며, 추가 논의는 태국-캄보디아 공동 경계 위원회(JBC) 틀 내에서 이루어져야 함.",
+      "full_translated": "태국-캄보디아 상황에 관한 합동 정보 센터는 월요일 국경을 따라 긴장을 고조시킬 수 있는 허위 또는 왜곡된 보고서의 확산에 대한 우려를 표명했습니다. 공군 차장인 ACM Prapas Sonjaidee는 센터장 자격으로 당국이 국경 관련 상황 전개를 면밀히 주시하고 있다고 말하면서, 관계자들이 항상 정보를 신중하게 확인한 후에 공식 발표를 한다고 덧붙였습니다. ACM Prapas는 센터의 역할은 오해를 방지하고 양국 간의 불필요한 긴장 고조를 피하기 위해 사실을 제시하는 것이라고 말했습니다. ACM Prapas는 또한 센터가 국경 관련 보고서를 확인하기 위해 캄보디아 당국과 정기적인 소통을 유지하고 있지만, 여러 가지 제약으로 인해 부정확한 정보가 여전히 유통될 수 있다고 인정했습니다. 훈 마넷 캄보디아 총리의 분쟁 지역에 대한 협상이 송크란 휴일 이후에 열릴 수 있다는 발언에 대해 ACM Prapas는 양측이 작년 12월 27일에 발표된 공동 성명을 준수해야 하며, 이는 국경을 따라 현재 입장을 유지하도록 요구한다고 말했습니다. 추가 논의는 새로운 정부가 구성된 후, 아마도 4월에 소집될 수 있는 태국-캄보디아 공동 경계 위원회(JBC) 틀 내에서 이루어져야 할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "국경 긴장 관련 뉴스는 여행에 직접적인 위협은 아니지만 잠재적 불안 요소를 내포하고 있어 정보 제공. 허위 정보에 대한 정부의 우려 표명은 상황을 주시해야 할 필요성을 강조.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Govt voices alarm over false reports",
+          "url": "https://www.bangkokpost.com/thailand/general/3213343/govt-voices-alarm-over-false-reports",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "06:48",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국, 밀라노 패션 위크 2026에서 SIRIVANNAVARI 가을-겨울 컬렉션으로 빛나다",
+      "summary": "- 태국이 밀라노 패션 위크 2026에서 SIRIVANNAVARI 가을-겨울 컬렉션을 선보이며 문화유산의 성장과 관광 자산을 강조했습니다.\n- Kew Mae Pan Trail에서 영감을 받은 이번 컬렉션은 태국의 아름다움을 세계에 알리는 데 기여합니다.\n- 이번 참가는 태국 관광 산업의 중요한 이정표가 될 것으로 기대됩니다.",
+      "full_translated": "태국이 밀라노 패션 위크 2026에서 SIRIVANNAVARI 가을-겨울 컬렉션을 통해 빛을 발하며, Kew Mae Pan Trail에서 영감을 받은 문화 유산의 성장과 관광 자산을 선보입니다. Travel And Tour World",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "밀라노 패션 위크 참가 소식은 태국 문화와 관광 자산을 홍보하는 데 기여하지만, 여행객에게 직접적인 영향을 미치는 정보는 아니므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": "2026-02-24",
+        "location": "Milan",
+        "price": "Unknown",
+        "location_google_map_query": "Milan Fashion Week"
+      },
+      "references": [
+        {
+          "title": "Thailand Shines at Milan Fashion Week 2026 with SIRIVANNAVARI Autumn-Winter Collection, Showcasing Cultural Heritage Growth and Tourism Assets Inspired by Kew Mae Pan Trail - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSXRSa1o3ZTd3N0tIeDlqdGdfd3RlUW5CLUdqLUZDQTZyMjQzMG1YYnhGZzFvX2JmS3k3QmxzWl9MWENQR2VJdXZSUkx2MmpidUhIdzNodllpNUpSN1VXSEFXR0hxa2FXZUdMVEVlWVVDX2Q5T0Q3SElmVFp1T09GN0doZnhpei1KZjlUbWJmYV8xWU9oa3ZfSjM3ZUY0T1NZYlUzVDRoWFloRVZIYmpZUjV5RmZqd1BvNmxmQWlpeTNPVUpoSGhTdFlueXlYcGRhSkNZN1VvaGZKQ1M0ejVTdWlGalZwYm5oeFFfIXZoT1FYWmJqY3gtX2J3RXZ0UnJodmcybnZadWZqb3RUMXFfOHYwclBiQ1AybXhfODVpbnJMcEV0T1lPZi1DUEpKa2NjTW9YU2hMQkkwMDlISTFKdDJ3?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "06:48",
       "date": "2026-03-10"
     }
   ]
