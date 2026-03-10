@@ -28393,14 +28393,9 @@
       "summary": "- 중동 분쟁으로 인해 항공편 차질 및 수요 변화 예상.\n- 지정학적 갈등 속 안전한 피난처를 찾는 외국인 유입 증가 전망.\n- 연료 가격 상승으로 항공료 인상 및 장거리 노선에 영향.",
       "full_translated": "태국 관광 산업은 몇 년 전 러시아-우크라이나 전쟁 당시 경험했던 것과 유사하게 지정학적 갈등이 심화되는 가운데 안전한 피난처를 찾는 외국인 유입 증가에 대비해야 합니다. 당시 러시아인 입국자 수는 2024년에 174만 명으로 증가하여 관광 도시의 부동산 시장에 큰 영향을 미쳤습니다.\n\n태국 산업단지공단 의장인 유타삭 수파손은 현재 중동 분쟁으로 인해 관광 산업은 러시아-우크라이나 전쟁을 상기하게 되었으며, 단기적으로는 연료 가격에 영향을 미치고 결과적으로 국제 항공료에 영향을 미쳐 장거리 시장이 감소할 것이라고 말했습니다. 그는 유럽과 아시아를 운항하는 항공사는 연료 소비가 평균 14.8% 증가한 반면, 북미와 아시아 간 항공편은 러시아 영공 폐쇄 및 이후 경로 변경으로 인해 9.8% 증가했다고 밝혔습니다. 이러한 상황은 2022년 배럴당 150달러로 정점을 찍은 항공유 가격으로 인해 더욱 악화되었습니다. 그는 동유럽 전쟁이 항공의 장기적인 비용 구조에 영향을 미쳤지만, 중동 분쟁은 대신 지역 항공편 일정에 즉각적인 차질을 초래했다고 말했습니다. 공습으로 인해 여러 중동 국가에서 주기적인 비상 영공 폐쇄가 발생했습니다. 에미레이트 항공, 에티하드 항공, 카타르 항공을 포함하여 유럽, 중동 및 태국 간 주요 연결 역할을 하는 주요 항공사",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 분쟁으로 인한 항공편 변동 및 잠재적 관광객 유입 변화 가능성. 연료 가격 상승으로 인한 항공료 인상 가능성도 여행객에게 중요한 정보임.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourism braces for impact of Mideast war",
@@ -28409,23 +28404,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998298_700.jpg"
         }
       ],
-      "collected_at": "08:11",
+      "collected_at": "8:11",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998298_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/business/general/3213523/tourism-braces-for-impact-of-mideast-war",
+      "source": ""
     },
     {
       "title": "암호화폐 사기 피해자들, 13억 바트 규모의 사기 주장",
       "summary": "- 사업가가 암호화폐 투자 사기를 통해 13억 바트 이상의 피해를 입혔다는 고소가 접수됨.\n- 피해자들은 WOWBiT 및 ACET ONLY라는 암호화폐에 투자하도록 유도받았으며, 높은 수익률을 약속받음.\n- 투자자들은 3월 1일에 자금을 인출할 수 없었고, 용의자는 시스템 해킹 및 자금 세탁 방지 규정을 이유로 들었음.",
       "full_translated": "중앙수사국(CIB)에 사업가가 암호화폐 투자 사기를 통해 13억 바트 이상의 피해를 입혔다는 고소가 접수되었습니다. 고소된 사업가는 유명 텔레비전 여배우의 남편으로 알려져 있습니다. 산티프라차담 클럽 회장인 Tankhun Jitt-itsara는 피해자들을 이끌고 CIB 고소 센터의 경제 범죄 진압 부서(ECD) 조사관에게 청원서를 제출했습니다. 이 그룹은 디지털 TV 채널과 관련된 전직 유명인과 관련자들이 투자자들을 유인하여 매우 높은 수익률을 약속하며 디지털 코인을 구매하도록 한 혐의로 법적 조치를 요구하고 있습니다. Tankhun 씨에 따르면 많은 피해자들이 'Ackmee Worawat'라는 남성에게 WOWBiT 및 ACET ONLY라는 암호화폐에 투자하도록 설득받았다고 합니다. 용의자는 투자가 원금의 최대 500배의 수익을 올릴 것이라고 주장했습니다. 피해자들은 투자가 3월 1일에 만기될 것이라는 말을 들었습니다. 그러나 날짜가 되었을 때 투자자들은 자금을 인출할 수 없었습니다. 연락을 취하자 용의자는 시스템이 해킹되었다고 주장했으며 나중에는 외국 자금 세탁 방지 규정을 자금을 이체할 수 없는 이유로 들었습니다. Tankhun 씨는 또한 배경 조사를 통해",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사기 사건은 여행자에게 잠재적인 위험을 초래할 수 있으므로 주의가 필요. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Angry victims allege B1.3bn crypto fraud",
@@ -28434,23 +28426,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213443_260310063326_700.jpg"
         }
       ],
-      "collected_at": "08:11",
+      "collected_at": "8:11",
       "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213443_260310063326_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/general/3213443/angry-victims-allege-b13bn-crypto-fraud",
+      "source": ""
     },
     {
       "title": "태국 레스토랑 협회, 물가 상승 억제를 위한 정부 지원 요청",
       "summary": "- 태국 레스토랑 협회가 정부에 에너지 가격 상한제, 세금 감면 등 지원책 요구\n- 중동 분쟁으로 인한 식자재 가격 상승에 대한 우려 표명\n- 식자재 가격 감시 시스템 구축 및 주요 품목 비축 제안",
       "full_translated": "태국 레스토랑 협회는 중동 분쟁이 식량 가격을 상승시킬 가능성이 있는 가운데 정부에 레스토랑 산업 지원을 촉구하고 있습니다. 협회는 정부가 액화석유가스(LPG) 가격 동결, 위기 기간 동안 기업의 전기 요금 인하, 식품 부문 중소기업(SME)을 위한 에너지 기금 설립 등 이 부문에 대한 에너지 가격 상한제를 시행하기를 원합니다.\n\n타니완 쿨몽콜 협회장은 에너지 가격 급등이 식량 비용에 직접적인 영향을 미쳤다고 말했습니다. 이러한 제안된 조치는 즉각적인 식량 가격 인상을 방지하고 식량 인플레이션을 줄이며 해당 부문의 고용을 보호하는 데 도움이 될 것입니다. 레스토랑 부문은 또한 상무부에 식량 가격 감시 시스템을 구현하고 식용유, 육류, 계란, 쌀과 같은 주요 식자재 가격을 규제할 것을 촉구했습니다. 상무부는 또한 상품 사재기에 대한 법률을 엄격히 시행해야 합니다. 가격 안정성을 유지하기 위해 협회는 주요 식량 재료의 전략적 비축량을 확보할 것을 제안했습니다. 재무부와 관련하여 협회는 저금리 대출, 레스토랑 사업세의 일시적 감면, 레스토랑 면허 수수료 인하 등 유동성 강화 이니셔티브를 요구했습니다. 이러한 제안된 조치는 높은 작업으로 어려움을 겪고 있는 식당을 돕는 것을 목표로 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "식당 물가 상승 가능성이 있으나, 여행에 직접적인 영향은 제한적. 정부 지원 요청에 대한 내용이므로 업데이트로 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Restaurants call for anti-inflation support",
@@ -28459,23 +28448,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998188_700.jpg"
         }
       ],
-      "collected_at": "08:11",
+      "collected_at": "8:11",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998188_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/business/general/3213413/restaurants-call-for-antiinflation-support",
+      "source": ""
     },
     {
       "title": "태국 증시, 외국인 투자자 복귀에 힘입어 상승세",
       "summary": "- 태국 증권 거래소(SET)는 지정학적 긴장 완화 시 외국인 투자자가 태국 주식 시장으로 복귀할 것이라고 자신감을 표명함.\n- 태국은 지역 내 안전 자산 피난처 역할을 할 수 있으며, SET는 위기 상황에서 변동성을 관리할 수 있는 강력한 메커니즘을 보유하고 있다고 강조함.\n- 유가 급등은 미국과 태국의 인플레이션 압력을 통해 상당한 경제적 영향을 미칠 수 있으며, 이는 미국 연방준비제도의 금리 인하를 지연시켜 신흥 시장으로의 자본 흐름에 영향을 줄 수 있음.",
       "full_translated": "태국 증권 거래소(SET)는 지정학적 긴장이 완화되면 외국인 투자자들이 태국 주식으로 돌아올 것이라고 확신하며, 태국이 지역 내 안전한 피난처가 될 수 있고 거래소가 위기 기간 동안 변동성을 관리할 수 있는 강력한 메커니즘을 갖추고 있다고 언급했습니다. SET의 수석 부사장인 Soraphol Tulayasathien은 유가가 배럴당 100달러 이상으로 치솟는 장기전은 특히 미국과 태국의 인플레이션 압력을 통해 상당한 경제적 영향을 미칠 수 있다고 말했습니다. 인플레이션 상승은 연방준비제도이사회의 금리 인하를 지연시켜 신흥 시장으로의 자본 흐름에 영향을 미치고 운송 및 관광과 같은 부문에 압력을 가할 수 있습니다. 외국인 투자자들은 최근 태국 주식에 대한 노출을 줄였으며 시장 참가자들은 3월의 흐름을 면밀히 관찰하고 있습니다. 중동 분쟁이 확대된 이후 벤치마크 태국 지수는 약 10.5% 하락했지만 연초 대비 8.5% 상승하여 한국과 대만에 이어 아시아에서 상위 3개 시장에 속합니다. 태국 주식의 외국인 소유권도 2025년 약 30%에서 현재 약 37%로 증가했으며, 이는 부분적으로 초기 자본 유입을 반영합니다. 3월에 약 100억 바트의 순유출이 있었음에도 불구하고 거래소는 여전히 올해 누적 순매수를 약 400억~500억 바트 보유하고 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 제한적이라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai bourse buoyant on return of foreign investors",
@@ -28484,23 +28470,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998198_700.jpg"
         }
       ],
-      "collected_at": "08:11",
+      "collected_at": "8:11",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998198_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/business/investment/3213428/thai-bourse-buoyant-on-return-of-foreign-investors",
+      "source": ""
     },
     {
       "title": "트럼프, 푸틴과 통화: 러시아, 중동 문제 지원 의사 밝혀",
       "summary": "- 도널드 트럼프 미국 대통령이 블라디미르 푸틴 러시아 대통령과 통화했다고 밝힘.\n- 푸틴 대통령은 중동 상황에 대한 지원 의사를 표명.\n- 트럼프 대통령은 우크라이나 전쟁 종식이 더 큰 도움이 될 것이라고 응답.",
       "full_translated": "(스푸트니크 통신 사진) 도널드 트럼프 대통령은 블라디미르 푸틴 대통령과 전화 통화를 했다고 밝혔으며, 러시아 대통령은 중동 상황을 돕고 싶어한다고 말했다. 그러나 트럼프 대통령은 우크라이나 전쟁을 끝내는 것이 더 도움이 될 것이라고 반박했다. 2026년 3월 9일, 도널드 트럼프 미국 대통령은 플로리다 주 도럴에서 열린 기자 회견에서 블라디미르 푸틴 러시아 대통령과 전화 통화를 했으며, 매우 훌륭한 대화였다고 밝혔다. 러시아 대통령은 중동 상황에 대해 \"지원\"하고 싶어했다. 이는 이란과의 전쟁이 시작된 2월 28일 이후 두 정상이 처음으로 전화 통화를 한 것이다. 트럼프 대통령은 격화되는 중동 전쟁에 대해 논의했으며, 푸틴 대통령이 \"돕고 싶어한다\"고 말했다. 트럼프 대통령은 \"만약 당신이 우크라이나-러시아 전쟁을 끝낸다면 더 많은 도움이 될 것입니다\"라고 말했다. 그는 또한 우크라이나 문제가 끝없는 싸움이지만, \"그것에 대한 긍정적인 대화\"라고 생각한다고 덧붙였다. 러시아 크렘린 정부의 유리 우샤코프 보좌관은 푸틴 대통령과 트럼프 대통령이 약 1시간 동안 전화 통화를 했다고 확인했으며, 미국이 최근 국제 상황에 대해 논의하기 위해 먼저 연락했다고 밝혔다. 우샤코프는 대화가 이란의 갈등과 모스크바, 워싱턴, 키예프 간의 3자 회담에 초점을 맞추어 우크라이나 갈등을 종식시키기를 희망했다고 말했다. 두 정상 간의 대화는 \"진지하고 솔직하며 건설적인\" 방식으로 진행되었으며, 두 정상은 지속적으로 소통할 의향을 표명했다고 덧붙였다. 트럼프 대통령은 워싱턴이...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에 직접적인 영향은 없으나, 국제 정세에 대한 정보 제공 차원에서 포함. 다만 여행 관련성은 낮으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทรัมป์ต่อสายคุยปูติน เผยรัสเซียอยากช่วยเหลือ เรื่องในตะวันออกกลาง",
@@ -28509,8 +28492,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFIZJWF8OUmG.jpg"
         }
       ],
-      "collected_at": "08:11",
+      "collected_at": "8:11",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFIZJWF8OUmG.jpg",
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/foreign/2918944",
+      "source": ""
+    },
+    {
+      "title": "중동 분쟁으로 인한 유가 상승으로 항공권 가격 인상",
+      "summary": "- 중동 분쟁으로 인해 유가가 급등하여 항공사들의 연료비 부담이 커지고 있습니다.\n- 이에 따라 여러 항공사들이 항공권 가격을 인상하기 시작했습니다.\n- 상황이 지속될 경우 추가적인 가격 인상 및 노선 조정이 있을 수 있습니다.",
+      "full_translated": "중동 분쟁으로 인해 유가가 급등하면서 항공 연료 비용이 급격히 증가하여 여러 항공사들이 항공권 가격을 인상하기 시작했으며, 상황이 장기화될 경우 추가 인상이 있을 수 있다고 경고했습니다. 에어뉴질랜드는 이미 요금을 인상했으며 유가가 높은 수준을 유지할 경우 추가 인상이 필요할 수 있다고 밝혔습니다. 에어뉴질랜드는 분쟁 이전 배럴당 약 85~90달러였던 항공 연료 가격이 최근 며칠 동안 150~200달러로 급등했다고 밝혔습니다. 로이터 통신에 따르면 에어뉴질랜드는 국내선 10뉴질랜드 달러, 단거리 국제선 20뉴질랜드 달러, 장거리 노선 90뉴질랜드 달러를 인상했습니다. 아시아-유럽 노선의 항공권 가격은 이미 상승했지만 에어뉴질랜드는 전쟁이 시작된 이후 광범위한 가격 인상을 발표한 최초의 항공사 중 하나입니다. 항공사는 갈등으로 인해 연료 비용이 높은 수준을 유지하면 상황에 따라 네트워크와 일정을 조정할 수 있다고 밝혔습니다. 베트남 항공은 정부에 항공 연료에 대한 환경세를 면제해 달라고 요청했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공권 가격 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보입니다. 특히 중동 지역을 경유하는 항공편을 이용하는 여행객은 가격 변동에 민감할 수 있습니다. 아침 시간대이므로, 여행 계획에 참고할 수 있도록 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สายการบินทั่วโลกทยอยขึ้นตั๋วเครื่องบิน หลังราคาน้ำมันพุ่งจากสงครามตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/foreign/2918980",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4ObSQf5Hf2TgKO.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4ObSQf5Hf2TgKO.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 10일 유가 정보: 휘발유, 가솔린, 디젤 가격 리터당 얼마?",
+      "summary": "- 2026년 3월 10일, 태국 내 휘발유, 가솔린, 디젤 유가 정보 업데이트\n- PTT, Bangchak, PT, Caltex, Shell 주유소의 최신 리터당 가격 정보 제공\n- 유종별 가격 상세 정보 (예: 하이 프리미엄 디젤 S: 45.64 바트/리터)",
+      "full_translated": "2026년 3월 10일 태국 내 휘발유, 가솔린, 디젤 유가 정보 업데이트. Bangchak, PTT, Shell, PT, Chevron 등의 주유소 웹사이트를 통해 최신 가격 정보 확인. \n\n주요 유종별 가격:\n\n* 하이 프리미엄 디젤 S: 45.64 바트/리터\n* 하이 디젤 S: 29.94 바트/리터\n* 하이 프리미엄 97: 49.54 바트/리터\n* 가솔린 E85S EVO: 25.79 바트/리터\n* 가솔린 E20S EVO: 27.84 바트/리터\n* 가솔린 91S EVO: 30.68 바트/리터\n* 가솔린 95S EVO: 31.05 바트/리터\n* 디젤: 29.94 바트/리터\n* 가솔린 E85: 25.79 바트/리터\n* 가솔린 E20: 27.84 바트/리터\n* 가솔린 91: 30.68 바트/리터\n* 가솔린 95: 31.05 바트/리터\n* 벤진: 39.64 바트/리터\n* 슈퍼파워 디젤: 43.44 바트/리터\n* 슈퍼파워 가솔린 95: 40.04 바트/리터\n* Shell FuelSave 가솔린 E20: 28.94 바트/리터\n* Shell FuelSave 가솔린 91: 31.78 바트/리터\n* Shell FuelSave 가솔린 95: 32.35 바트/리터\n* Shell V-Power 가솔린 95: 49.84 바트/리터\n* Shell FuelSave 디젤: 29.94 바트/리터\n* Shell V-Power 디젤: 49.84 바트/리터\n* 디젤: 29.94 바트/리터\n* 가솔린 95: 31.05 바트/리터\n* 가솔린 91: 30.68 바트/리터\n* 벤진: 40.14 바트/리터\n* 가스",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "렌터카 이용 여행객에게 유용한 정보. 매일 업데이트되는 정보이므로 포함.",
+      "event_info": {
+        "date": "2026-03-10",
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ราคาน้ำมันวันนี้ 10 มีนาคม 2569 เช็กราคาน้ำมันทุกชนิด ล่าสุดราคาลิตรละกี่บาท",
+          "url": "https://www.thairath.co.th/news/society/2918978",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYFil5mUbm76H.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYFil5mUbm76H.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "방콕 페차카셈 지역, 마약 판매 혐의로 남성 체포: 총기 2정 소지 및 마약 관련 도주 혐의",
+      "summary": "- 방콕 페차카셈 경찰은 마약 판매 혐의로 40세 남성을 체포했습니다.\n- 그는 1,249정의 야바(필로폰)와 총기 2정, 실탄 30발을 소지하고 있었습니다.\n- 해당 남성은 과거 사뭇사콘 지역에서 마약 판매 공범으로 체포 영장이 발부된 상태였습니다.",
+      "full_translated": "페차카셈 경찰서 수사팀은 마약 판매 혐의로 남성을 체포하고, 야바 1,000정 이상과 총기 2정을 압수했습니다. 조사 결과, 그는 2569년 3월 10일 07:00에 사뭇사콘에서 마약 판매 공범으로 체포 영장이 발부된 상태였습니다. 페차카셈 경찰서장 프라못 찬분깨우 대령, 수사 부국장 와롱콘 카존분야왓 중령, 수사관 타왓차이 팁웡 경감 및 페차카셈 경찰서 수사팀은 40세의 노파폰 또는 \"케\" 홈롬을 야바 7봉지(총 1,249정), 권총(태국산, 개조된 블랭크 건) 2정, .380 구경 실탄 30발, 디지털 저울 1개, 마약 포장 장비 및 휴대폰 1대와 함께 체포했습니다. 그는 마약류 통제법 위반(야바) 혐의로 기소되었으며, 불법적으로 판매 목적으로 소지하고, 허가 없이 총기 및 실탄을 소지하고, 마약류 통제법 위반(메트암페타민) 혐의로 기소되었습니다. 체포팀은 정보원으로부터 페차카셈 63번 골목 941/2번지에 있는 집에서 \"케\"가 마약을 판매하고 정기적으로 마약을 투약한다는 정보를 입수했습니다. 지난 3월 9일 저녁, 체포팀은 해당 장소를 조사하여 케가 왼손에 흰색 천 가방을 들고 있는 것을 발견했습니다. 그는 경찰을 보자 수상한 행동을 보이며 도망쳐 인근 주택의 화장실에 숨었습니다. 체포 및 수색 결과, 그의 가방에서 증거물이 발견되었습니다. 노파폰 또는 \"케\"는 야바를 \"땀\"이라는 40세 남성으로부터 구매했다고 자백했습니다. 땀의 이름과 성은 알려지지 않았으며, 사뭇사콘 지역에 거주하고 있습니다. 그는 야바 200정을 1,800바트에 구매하여 2,000바트에 판매합니다. 구매는 현금으로 이루어지며, 매번 다른 장소에서 만납니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "방콕 시내에서 마약 및 총기 관련 범죄가 발생한 사건으로, 여행객 안전에 간접적인 영향을 줄 수 있다고 판단했습니다. 다만, 특정 지역에 한정된 사건이므로 중간 점수를 부여했습니다.",
+      "event_info": {
+        "date": null,
+        "location": "방콕 페차카셈 지역",
+        "price": null,
+        "location_google_map_query": "페차카셈"
+      },
+      "references": [
+        {
+          "title": "สืบเพชรเกษม รวบหนุ่มค้ายาบ้า พกปืน 2 กระบอก สอบประวัติ พบหนีหมายจับคดียาเสพติด",
+          "url": "https://www.thairath.co.th/news/crime/2918979",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYFh9xchlrk4o.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYFh9xchlrk4o.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 총리 병가, 에너지 절약 방안 논의 위해 '피팟'에게 내각 회의 주재 권한 위임",
+      "summary": "- 아누틴 총리가 병가로 피팟 부총리에게 내각 회의 주재 권한을 위임.\n- 회의에서는 에너지 절약 방안과 중동 분쟁에 따른 유가 동향 논의 예정.\n- 장관들은 에너지 절약의 일환으로 정장 착용을 자제.",
+      "full_translated": "아누틴 총리가 병가로 피팟 랏차킷프라칸 부총리 겸 교통부 장관에게 내각 회의 주재 권한을 위임했습니다. 이번 회의에서는 에너지 절약 방안과 중동 분쟁으로 인한 국제 유가 동향이 논의될 예정입니다. 회의 참석자들은 에너지 절약 정책에 따라 정장과 넥타이 착용을 자제했습니다. 회의에는 5명의 장관이 불참했는데, 탐마낫 프롬파오 부총리 겸 농업협동조합부 장관, 아크라 프롬파오 사회개발인간안보부 장관, 숩마스 이사라팍디 총리실 장관, 차이차녹 칫첩 디지털경제사회부 장관 (병가), 파타나 프롬팟 공공보건부 장관 등이 있습니다. 나르몬 피뇨신왓 교육부 장관은 화상 회의로 참석합니다. 주요 논의 사항으로는 중동 분쟁에 따른 에너지 가격 영향, 국제 유가 동향, 에너지 절약 방안 등이 있습니다. 또한 국민들의 협조를 구할 예정이며, 장관들과 수행원들은 셔츠를 입고 정장과 넥타이를 착용하지 않습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "총리의 부재가 정책 결정에 미치는 영향은 간접적이지만, 에너지 절약 정책은 여행 관련 산업에도 영향을 줄 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกฯ ลาป่วย มอบ “พิพัฒน์” นำประชุม ครม. ถกมาตรการประหยัดพลังงาน ขณะ รมต. งดใส่สูทเข้าประชุม",
+          "url": "https://www.thairath.co.th/news/politic/2918976",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYFwtxkyNHK1d.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYFwtxkyNHK1d.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "유명 예술가와 신자들이 랏차부리 왓타파 사원에서 행운의 숫자 693을 발견",
+      "summary": "- 유명 예술가와 신자들이 랏차부리 왓 타파 사원을 방문하여 공덕을 쌓았습니다.\n- 이들은 매분르안에게 경의를 표하고 행운을 기원하는 의식을 치렀습니다.\n- 의식 중 행운의 숫자인 693이 발견되어 화제가 되었습니다.",
+      "full_translated": "랏차부리 – 유명한 예술가와 신자들이 반퐁 지역의 왓 타파 사원에서 공덕을 쌓기 위해 모였습니다. 그들은 덕이 높기로 알려진 매분르안에게 경의를 표했습니다. 이들은 항아리에서 행운을 빌고 신성한 실에서 693이라는 행운의 숫자를 뽑아내는 의식을 거행했습니다. 2026년 3월 10일, 유명한 부처 예술가인 완차이 수판, 국가 예술가인 아짠 타닛 스리클린디, 그리고 과거 유명한 컨트리 가수인 사냐 폰나라이를 포함한 대표단이 왓 타파 사원의 태국식 파빌리온 홀에서 쿤매분르안 똥분띰의 동상을 숭배하기 위해 여행을 떠났습니다. 그들은 또한 132주년 기념식에 참여할 대중에게 배포하기 위해 5,004병의 물을 왓 타파 사원의 주지인 프라 마하룽탐 얀싯티에게 기증했습니다. 아짠 타닛 스리클린디는 쿤매분르안에게 경의를 표하기 위해 피리를 연주했고, 사냐 폰나라이는 그의 히트곡인 “선셋 어포인트먼트”를 불렀습니다. 숭배와 신앙을 상징하는 소라도 불었습니다. 그 후 사냐 폰나라이는 동상 뒤로 가서 쿤매분르안 똥분띰에게 소원을 빌었습니다. 그런 다음 항아리에서 행운을 빌고 신성한 실에서 693이라는 숫자를 뽑아내는 의식을 거행하여 참석자들에게 화제를 불러일으켰습니다. 쿤매분르안 똥분띰은 2437년 3월 4일 아유타야의 클롱 삼와에서 태어났습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 현지 문화와 관련된 소식이지만, 관광객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-03-09",
+        "location": "วัดท่าผา, ราชบุรี",
+        "price": "무료",
+        "location_google_map_query": "วัดท่าผา ราชบุรี"
+      },
+      "references": [
+        {
+          "title": "ฮือฮาเลขเด็ด 693 ศิลปินชื่อดัง เซียนพระ นำคณะทำบุญวัดท่าผา ราชบุรี กราบไหว้แม่บุญเรือน",
+          "url": "https://www.thairath.co.th/lottery/news/2918974",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYF5OgqMAc743.jpg"
+        }
+      ],
+      "collected_at": "10:37",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OYF5OgqMAc743.jpg",
       "date": "2026-03-10"
     }
   ]
