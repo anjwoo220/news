@@ -862,14 +862,9 @@
       "summary": "- 태국 관광 산업이 400억 바트의 수익 붕괴에 직면했다는 뉴스입니다.\n- 걸프 지역의 긴장으로 장거리 여행이 감소하면서 관광이 약화되고 있습니다.\n- 자세한 내용은 MSN에서 확인할 수 있습니다.",
       "full_translated": "태국 관광, 400억 바트 수익 붕괴 직면&nbsp;&nbsp;MSN",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광 수익 감소는 여행객의 소비 감소와 관련될 수 있으므로 중간 정도의 영향력이 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai tourism faces B40bn revenue collapse - MSN",
@@ -878,7 +873,59 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:20",
+      "collected_at": "6:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanlzMzFBc0otZjhnVHJZdWl3aTI3TjA2RThJRG81S2RvY0xQSVdMNFFSLVIzRkNNUlJNU2xoelBqUFB6MjZLSHFCM0NXd0tKWm96UUZ4UWRQRjRVdFRPMmNJT3YyX0wtdWI0LWtzX3FscTlYSkdQaExYQjdLZEl1VnEzN1NXRERrS01XRExMUmxJMzY5?oc=5",
+      "source": ""
+    },
+    {
+      "title": "WHO, 이란 '검은 비' 경고: 장기적 영향 우려",
+      "summary": "- WHO는 이란 정유소 공격 후 발생한 '검은 비'의 위험성을 경고했습니다.\n- 오염된 빗물이 수자원과 국민 건강에 심각한 영향을 미칠 수 있다고 합니다.\n- 피부 화상 및 폐 손상 위험이 있으며, 국민들에게 실내에 머물 것을 권고했습니다.",
+      "full_translated": "세계보건기구(WHO)는 이란 정유소 공격 이후 '검은 비'의 위험성을 경고했습니다. 크리스티안 린드마이어 WHO 대변인은 최근 공격으로 심각한 화재가 발생한 이란 정유소에서 발생한 오염 물질로 인해 대기 질에 대한 우려가 커지고 있으며, 이는 심각한 건강상의 위험을 초래할 수 있다고 밝혔습니다. 테헤란의 샤흐란 정유소를 포함한 여러 연료 저장 시설이 공습을 받아 화재가 발생하여 짙은 검은 연기가 대기 중으로 솟아올랐습니다. 이로 인해 이란 당국은 지난 주말 국민들에게 집에 머물 것을 권고했습니다. 빗물이 오염된 대기를 통과하면 오염 물질과 섞여 땅으로 떨어지게 됩니다. 또한, 빗물은 이산화황 및 질소 산화물과 같은 가스와 반응하여 산성비가 될 가능성도 있습니다. 린드마이어는 \"검은 비와 그에 따른 산성비는 해당 지역 주민들에게 진정한 위험입니다.\"라고 말했습니다. 이란 적신월사(Red Crescent Society)는 매우 위험한 수준의 산성 빗물의 위험성에 대해 경고하며 \"피부 화상과 폐에 심각한 손상을 일으킬 수 있습니다.\"라고 밝혔습니다. 또한, 비가 오는 동안과 그 후에도 건물에서 나가지 말 것을 촉구했습니다. 유엔 인권 책임자인 볼커 튀르크는 화요일에 \"저는 이러한 정유소 화재로 인해 국민들이 겪을 건강 및 환경 영향에 대해 매우 우려하고 있습니다. 여기에는 오염된 물과 공기, 그리고 토양에 대한 잠재적 영향이 포함됩니다.\"라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국은 아니지만 인접 국가의 환경 문제로 인해 여행 심리 위축 가능성 존재. 직접적인 위험은 낮으나 정보 제공 가치 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "WHO เตือนภัย “ฝนพิษสีดำ” ในอิหร่าน หวั่นส่งผลกระทบระยะยาว",
+          "url": "https://www.thairath.co.th/news/foreign/2919208",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAo5qpWXJoFOr.jpg"
+        }
+      ],
+      "collected_at": "06:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAo5qpWXJoFOr.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "캄보디아, 베트남, 태국과 함께 동남아 여행 열풍을 주도",
+      "summary": "- 캄보디아가 베트남, 태국과 함께 동남아 여행 시장 활성화에 나섰습니다.\n- 이 세 국가는 매력적인 관광 상품과 경험을 제공하여 여행객을 유치하고 있습니다.\n- 동남아 여행 시장은 더욱 성장할 것으로 기대됩니다.",
+      "full_translated": "캄보디아가 베트남, 태국과 함께 동남아시아 여행 열풍을 주도합니다!&nbsp;&nbsp;Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행에 직간접적인 영향, 새로운 정보이므로 포함",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Cambodia Joins Vietnam and Thailand to Trigger the Biggest Travel Frenzy Southeast Asia Has Ever Seen! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSC14WjBya0F1RUd2eHh1ajZMVXp0dDEtTks5c0gxRDhqemZsamptZW9BMVZxWnJWejN5SThnaHdneUZCX1A5OUExcVdFSl9nOUNOMVE5NEJYTlVWdG5LbFBTXzlJVUFQbGlpN1lCWkhWWUJidkN5NmJtZmtpeXpYOFhuNldKV2pYUFozS2pHbkRiamhHOVJSRlktLXFWQ2EwZ09uVHBrQTJFNjFTaWZBcV85bDJSN20yelM2cTNkRGJJT2xoSTZMbkpid0JjUVJBUUx5Yk1zR3RWVTdoTDBTSGtoYVY?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-11"
     }
