@@ -115,14 +115,9 @@
       "summary": "- 촌부리 이민국은 파타야 콘도에서 불법 미용 시술을 운영한 34세 러시아 여성 아나스타샤 틸체바를 체포했습니다.\n- 그녀는 인스타그램을 통해 필러 주입 등의 미용 시술을 홍보하고 고객을 유치했으며, 의료 면허 없이 시술을 제공했습니다.\n- 당국은 그녀에게 유효한 취업 허가 없이 태국에서 일한 혐의, 허가 없이 의료 시설을 운영한 혐의 등 여러 혐의를 적용했습니다.",
       "full_translated": "촌부리 이민국 경찰 서장 나팟퐁 코싯 수리야마니 대령은 카윈왓 아라야수리웡 부국장과 함께 촌부리 이민국 경찰 수사관인 키티팟 홍추웨이 중위에게 프라 탐낙 5 골목의 콘도 389/1879호를 조사하도록 지시했다고 밝혔습니다. 경찰은 용의자인 34세 러시아 국적의 아나스타샤 틸체바가 인스타그램(IG)에 게시물과 동영상을 통해 주사 및 기타 미용 시술을 포함한 미용 향상 서비스를 홍보해 왔다고 밝혔습니다. 그녀는 동일한 플랫폼을 통해 고객 약속을 잡은 것으로 알려졌습니다. 감시 결과, 경찰은 고객들이 서비스를 받기 위해 해당 유닛에 들어가는 것을 관찰했습니다. 그런 다음 경찰은 건물에 들어가 신분을 밝히고 현장에서 용의자를 체포했습니다. 압수된 증거는 다음과 같습니다. – 주사 바늘 및 주사기 – 필러 – 각종 의료 장비 – 고압 증기 멸균기 – 여러 종류의 약물 및 물질 조사 결과 틸체바는 면허, 취업 허가 또는 허가 없이 이러한 미용 서비스를 제공한 것으로 확인되었습니다. 그녀는 자격을 갖춘 의사가 아닙니다. 당국은 그녀에게 다음과 같은 여러 혐의를 적용했습니다. – 유효한 취업 허가 없이 외국인으로서 태국에서 일함 – 허가 없이 의료 시설 운영 – 면허 있는 의사가 아닌 의료 전문가 사칭 – 허가 없이 의약품 및 의료 기기 판매 – 미등록 유통",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인이 불법 의료 행위를 하는 것은 여행객의 안전에 영향을 줄 수 있으며, 유사한 피해를 예방하기 위해 정보 제공 필요.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야'}",
       "references": [
         {
           "title": "Chonburi Immigration Police Arrest Russian Woman for Allegedly Operating Illegal Beauty Clinic in Pattaya",
@@ -131,23 +126,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731667923677722184042684869225.jpg?v=1773166919"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731667923677722184042684869225.jpg?v=1773166919",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/11/chonburi-immigration-police-arrest-russian-woman-for-allegedly-operating-illegal-beauty-clinic-in-pattaya/",
+      "source": ""
     },
     {
       "title": "태국, 걸프 지역 긴장으로 장거리 여행 감소하며 관광 약화",
       "summary": "- 태국 관광 산업이 걸프 지역의 긴장으로 인해 장거리 여행객 감소로 어려움을 겪고 있음.\n- TravelMole에 따르면, 태국 관광 시장의 약세가 두드러짐.\n- 자세한 내용은 TravelMole에서 확인할 수 있음.",
       "full_translated": "태국의 관광 산업은 걸프 지역의 긴장으로 장거리 여행이 줄어들면서 약화되고 있습니다. TravelMole",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광에 대한 간접적인 영향. 현재 상황에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s tourism weakens as Gulf tensions disrupt long-haul travel - TravelMole",
@@ -156,23 +148,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBeERGcGpibDZ5QW42dURJSUMxQmtSaFFuZllKWlZfR09OVlVPeXp3QXRLR2pKS0JoVFVYbXd3U0h1U0g5eE41OF9JYXpuNnNwdmtDRkV4eGZ0ajU1ZlA2cEdYU29waEtSMDltWkdfWWQxWjg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 촌부리 람차방 항구, 불법 전자 폐기물 밀수 적발",
       "summary": "- 태국 정부, 람차방 항구에서 불법 전자 폐기물 밀수 컨테이너 18개 적발.\n- 세관, 특별수사국(DSI), 오염 통제 부서 간 협력으로 국제 범죄 조직 단속.\n- '고철'로 허위 신고된 컨테이너에서 전자 회로 기판 등 유해 폐기물 발견.",
       "full_translated": "쑤찻 부총리는 람차방 항구에서 의심스러운 컨테이너 18개를 조사하여 불법 전자 폐기물 밀수를 적발했습니다.\n\n이번 작전은 태국으로 유해 폐기물을 밀수하는 초국가적 범죄 조직과 싸우기 위한 세관, 특별수사국(DSI), 오염 통제 부서 간의 팀 노력에서 비롯되었습니다. 당국은 이러한 수입이 태국 법률과 유해 폐기물의 국가 간 이동 통제에 관한 바젤 협약을 위반한다고 설명했습니다. 세관 총국장인 판통 로이사쿠나논 씨는 단속이 전자 폐기물 및 플라스틱 스크랩 밀수 패턴을 밝혀낸 DSI 조사(사건 파일 27/2569)에 따른 것이라고 설명했습니다. 밀수업자들은 조사를 피하기 위해 상품을 \"고철\" 또는 \"고철\"로 허위 신고했습니다. 위험 관리 시스템, 화물 추적 데이터 및 고급 검사 기술을 사용하여 세관 공무원은 위험도가 높은 컨테이너에 플래그를 지정했습니다. 그들은 DSI 조사 및 법적 조치를 지원하기 위해 정보를 제공했습니다. 3월 10일 검사 중 공무원은 18개의 컨테이너를 열어 검사했으며 세 그룹으로 나눴습니다.\n\n– 첫 번째 그룹(12개 컨테이너): 아이티에서 유래한 \"고철\"로 신고되었으며 개인 회사 소유입니다. 검사 결과 전자 회로 기판 및 기타 전자 폐기물 구성 요소로 오염된 혼합 철 스크랩이 발견되었습니다. 총 중량: 약 284,919kg, 추정 가치는 253만 바트가 넘습니다.\n\n– 두 번째 그룹(4개 컨테이너): 유해 폐기물 이동을 감시하는 국제 감시 단체인 DSI 및 바젤 행동 네트워크(BAN)의 정보에 따라 식별되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객에게 직접적인 영향은 적으나, 환경 및 법규 관련 정보로서 인지 필요. 항구를 통해 입국하는 여행객에게는 간접적인 영향 가능.",
-      "event_info": {
-        "date": null,
-        "location": "Laem Chabang Port, Chonburi",
-        "price": null,
-        "location_google_map_query": "Laem Chabang Port, Chonburi"
-      },
+      "event_info": "{'date': None, 'location': 'Laem Chabang Port, Chonburi', 'price': None, 'location_google_map_query': 'Laem Chabang Port, Chonburi'}",
       "references": [
         {
           "title": "Deputy PM “Suchart” Inspects 18 Suspect Containers at Laem Chabang Port, Uncovers Illegal Electronic Waste Smuggling",
@@ -181,23 +170,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731664166671642814996092672350.jpg?v=1773166463"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731664166671642814996092672350.jpg?v=1773166463",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/11/deputy-pm-suchart-inspects-18-suspect-containers-at-laem-chabang-port-uncovers-illegal-electronic-waste-smuggling/",
+      "source": ""
     },
     {
       "title": "파타야 맛집 탐방: 팻 토니 피자 솔직 후기",
       "summary": "- 파타야의 팻 토니 피자에 대한 게스트 리뷰 기사\n- 훌륭한 피자의 세 가지 요소: 잘 구워진 도우, 푸짐한 토핑, 토핑의 품질\n- 팻 토니 피자는 기대 이상이었으며, 특히 치즈 양이 인상적",
       "full_translated": "게스트 기고가 Andy Salthouse의 리뷰입니다. 이 글은 유료 또는 스폰서 게시물이 아닌 독자 제출입니다. 사진은 그의 것이며 AI로 과도하게 보정되지 않았지만 그의 긍정적인 경험을 반영합니다. 그는 이전에 Honey Pizza와 같은 다른 리뷰를 몇 개 작성했습니다. 그는 파타야에서 많은 새로운 피자 가게를 시도하고 있습니다. 저는 피자에 대해 꽤 까다로운 편이며, 수년 동안 세 가지 요소가 피자를 진정으로 훌륭하게 만드는 데 결정적인 역할을 한다고 믿게 되었습니다. 첫 번째이자 가장 중요한 요소는 도우입니다. 저에게 이상적인 도우는 밑면이 잘 구워져야 하고, 안쪽은 약간 스펀지 같은 질감이어야 하며, 가장자리는 적당히 바삭해야 합니다. 이러한 균형은 일반적으로 적절한 오븐에서만 달성할 수 있습니다. 열이 무겁거나 반죽 같은 도우가 아닌 가볍고 통풍이 잘 되며 완벽하게 구조화된 도우를 만들 수 있기 때문입니다. 두 번째 필수 요소는 푸짐한 토핑이고, 세 번째는 토핑의 품질입니다. 훌륭한 피자는 단순히 재료를 쌓아 올리는 것이 아니라 모든 한 입에 올바른 맛과 질감이 조화를 이루도록 균형을 맞춥니다. 오늘 저는 파타야의 팻 토니에서 피자를 테이크 아웃으로 주문했는데, 기대 이상이었습니다. 실제로 예정된 시간보다 약 30분 일찍 도착했고 상태도 훌륭했습니다. 파타야에 살거나 정기적으로 방문하는 사람은 치즈가 여기에서 놀라울 정도로 비쌀 수 있다는 것을 알고 있으므로 그들이 사용한 푸짐한 양에 진심으로 감명을 받았습니다. 토핑은 피자 전체에 걸쳐 균형이 잘 잡혀 있었고 맛도 환상적이었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야 방문객에게 유용한 레스토랑 정보 제공. 새로운 맛집 정보 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": "Fat Tony's Pizza, Pattaya",
-        "price": null,
-        "location_google_map_query": "Fat Tony's Pizza Pattaya"
-      },
+      "event_info": "{'date': None, 'location': \"Fat Tony's Pizza, Pattaya\", 'price': None, 'location_google_map_query': \"Fat Tony's Pizza Pattaya\"}",
       "references": [
         {
           "title": "Pizza in Pattaya: A Guest Review of Fat Tony’s Pizza",
@@ -206,23 +192,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731630345494454428319892722413.jpg?v=1773163440"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731630345494454428319892722413.jpg?v=1773163440",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/11/pizza-in-pattaya-a-guest-review-of-fat-tonys-pizza/",
+      "source": ""
     },
     {
       "title": "이란 여자 축구팀, 추가 2명 망명 신청, 나머지 선수들은 호주 출국",
       "summary": "- 이란 여자 축구 국가대표팀 선수 2명이 호주에 망명 신청.\n- 이란 선수단은 아시아컵 참가 후 귀국 시 안전 문제 우려.\n- 앞서 5명의 선수에게 인도주의 비자가 발급됨.",
       "full_translated": "이란 여자 축구 국가대표팀 선수들이 호주에서 망명을 추가로 신청했다. 앞서 5명의 축구 선수가 인도주의 비자를 받은 후 나온 조치다. 이들은 이란으로 돌아갈 경우 안전을 우려하고 있다. 3월 10일 화요일 아침, 앤서니 앨버니지 호주 총리는 이란 여자 축구 국가대표 선수 5명에게 인도주의 비자가 승인되었다고 확인했다. 이는 그들이 이란으로 돌아갈 경우 안전에 대한 우려가 제기된 데 따른 것이다. 최근 CNN은 소식통을 인용해 선수 1명과 팀 관계자 1명으로 구성된 이란 여자 축구팀의 2명의 추가 구성원이 호주에 망명 신청을 했다고 보도했다. 동시에 나머지 팀 구성원은 이란으로 돌아가기 위해 호주를 떠난 것으로 추정된다. 그러나 그들이 어떤 경로를 이용할지, 언제 목적지에 도착할지는 확실하지 않다. 앞서 이란 여자 축구 국가대표팀은 여자 아시안컵에 참가하기 위해 호주에 도착했지만, 지난주 첫 경기 전에 팀원들이 국가를 부르지 않고 '침묵 시위'를 벌인 후 귀국 시 안전에 대한 우려가 커지기 시작했다. 축구팀은 그 이유를 설명하지 않았지만, 이란의 급진적인 종교 단체는 이를 국가에 대한 배신 행위로 해석했으며, 이는 중형에 해당한다. CNN 스포츠에 따르면 선수들은 지난 목요일 (3월 5일) 두 번째 경기 전에 국가를 부르도록 강요받았으며, 일요일 (3월 8일) 필리핀에 2-0으로 패하기 전에도 국가를 부르고 군대식 경례를 했다. ... 마지막 경기 후...",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "태국 여행과는 직접적인 관련은 없지만, 국제적인 정치적 상황에 대한 정보 제공.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทีมฟุตบอลหญิงอิหร่าน ขอลี้ภัยเพิ่มอีก 2 คน ที่เหลือออกจากออสเตรเลียแล้ว",
@@ -231,8 +214,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApsWmqtb1kjo.jpg"
         }
       ],
-      "collected_at": "01:36",
+      "collected_at": "1:36",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApsWmqtb1kjo.jpg",
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/foreign/2919201",
+      "source": ""
+    },
+    {
+      "title": "태국, 이란에서 자국민 23명 추가 귀국",
+      "summary": "- 외교부는 이란에서 23명의 태국 국민이 추가로 귀국했다고 발표했습니다.\n- 이들은 이란에서 터키를 거쳐 태국으로 돌아왔으며, 앞서 귀국한 29명과 합류했습니다.\n- 정부는 현재 이란에 남아있는 약 69명의 태국인을 같은 경로로 추가 대피시킬 예정입니다.",
+      "full_translated": "외무부는 어제 이란에서 대피한 태국 국민 23명이 추가로 안전하게 귀국했다고 밝혔습니다. 수완나품 공항에서 비자밧 이사라박디 외무부 차관보는 이란에서 터키를 거쳐 태국으로 돌아온 그룹을 맞이했습니다. 그들은 하루 전에 도착한 다른 그룹에 합류했습니다. 비자밧 씨는 이란에서 대피한 총 52명의 태국인이 현재 안전하게 귀국했으며, 29명이 월요일에 도착했고 나머지 23명이 어제 도착했다고 말했습니다. 대부분은 테헤란에서 터키 국경까지 자동차로 몇 시간 동안 이동한 후 비행기로 귀국해야 하는 긴 여정에 지쳤음에도 불구하고 좋은 분위기였습니다. 정부는 현재 약 69명의 태국인을 동일한 경로를 사용하여 이란에서 대피시킬 준비를 하고 있으며 태국 국민의 안전이 정부의 최우선 과제임을 강조했습니다. 외무부는 이란, 이스라엘, 미국 정부와 협력하여 대피 경로를 알리고 이동 중 보안 지원을 요청했습니다. 약 130명의 태국 국민이 이란에 남아 있으며 테헤란 주재 태국 대사관은 안전상의 이유로 출국을 원하는 사람들에게 격려하면서 그들과 긴밀한 연락을 유지하고 있습니다. 그러나 귀국 결정은 자발적입니다. 중동 전역의 태국 공관은 UAE를 포함한 다른 국가의 시민들도 지원하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 여행객 안전에 대한 간접적 영향 (중동 지역 긴장)",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "23 more Thais return safely",
+          "url": "https://www.bangkokpost.com/thailand/general/3214214/23-more-thais-return-safely",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214214_260311015353_700.jpg"
+        }
+      ],
+      "collected_at": "02:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214214_260311015353_700.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 문화부-관광부 통폐합 논의 중: 관광 경쟁력 강화 기대",
+      "summary": "- 태국 정부가 문화부와 관광부의 통폐합을 검토 중이며, 6개월 내 결론 목표.\n- 이는 태국의 다문화주의 잠재력을 활용하고 관광 수입을 증대하기 위한 전략.\n- 문화-관광 연계를 통해 국가 경쟁력을 강화하고 경제 성장을 도모할 계획.",
+      "full_translated": "몽콜 방프라파 작성: 문화부와 관광부의 합병에 대한 논의가 진행 중이며, 정부 구성 후 6개월 이내에 마무리될 것으로 예상된다고 사비다 태이세드 문화부 장관 대행이 어제 밝혔다. 장관은 스포츠 부문이 독립된 부처로 분리될 수도 있다고 말했다. 사비다는 이러한 아이디어가 이미 품자이타이당(BJT) 내에서 논의되었으며 태국의 다문화주의가 잠재력에 도달하기를 바라는 아누틴 차른비라쿨 총리 대행의 비전을 반영한다고 말했다. 문화를 관광과 연결하면 경제적 가치를 창출하고 국가의 글로벌 매력을 강화하는 데 도움이 될 것이라고 사비다는 말했다. 정부는 새 행정부가 구성된 후 6개월 이내에 방향을 확정하기를 희망하지만 실제 시행은 운영상의 복잡성에 따라 달라질 것이라고 그녀는 말했다. 사비다는 \"핵심은 부처를 재구성하는 것이 아니라 관광 수입과 문화 수출을 통해 경제를 활성화하는 국가 전략을 수립하는 것\"이라고 말했다. 앗타코른 시릴랏타야콘 관광체육부 장관은 많은 국가들이 문화와 관광을 하나의 부처로 통합하는데 이는 그 임무가 밀접하게 관련되어 있기 때문이라고 말했다. 지난 5~6개월 동안 국제 파트너와 협력한 경험에 따르면 이러한 구조가 일반적이라는 것을 알게 되었다고 한다. 한편, 문화부 사무차관인 프라솝 리앙응언은 그 제안이...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광 정책 변화 가능성이 있으나, 즉각적인 영향은 미미하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Merging of 2 ministries under review",
+          "url": "https://www.bangkokpost.com/thailand/politics/3214259/merging-of-2-ministries-under-review",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214259_260311015148_700.jpg"
+        }
+      ],
+      "collected_at": "02:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214259_260311015148_700.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 의회 재개 준비",
+      "summary": "- 태국 내각은 의회 소집을 위한 왕령 초안을 승인했습니다.\n- 총 500석 중 최소 475석(95%)의 의원 선거가 승인되었습니다.\n- 선거관리위원회(EC)는 4월 8일까지 결과를 발표해야 하며, 의회는 발표 후 15일 이내에 소집되어야 합니다.",
+      "full_translated": "내각은 의회 소집을 위한 왕령 초안을 승인했지만, 구체적인 날짜는 아직 정해지지 않았다고 아이야린 판릿 정부 부대변인이 밝혔습니다. 이번 칙령은 전체 의석 500석 중 최소 475석(95%)의 의원 선거가 승인됨에 따라 국왕에게 제출될 예정입니다. 시로테 팟판 하원 사무총장은 지난주 선거관리위원회(EC)가 499명의 의원을 인증한 후 입법부가 절차를 진행할 준비가 될 것이라고 말했습니다. 어제 아이야린 여사는 내각 사무국이 선거관리위원회, 하원 사무국, 추밀원 사무국과 협력하여 시기를 결정할 것이라고 말했습니다. 선거관리위원회는 2월 8일 선거 후 60일 이내 또는 4월 8일까지 결과를 발표해야 합니다. 그러면 의회는 발표 후 15일 이내 또는 4월 22일까지 회의를 열어야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치 상황에 대한 정보 제공. 여행에 직접적인 영향은 적으나, 알아두면 유용한 정보. 의회 재개 시기에 따라 관련 집회/시위 가능성 고려.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Parliament prepares to reopen",
+          "url": "https://www.bangkokpost.com/thailand/general/3214109/parliament-prepares-to-reopen",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214109_260311015836_700.jpg"
+        }
+      ],
+      "collected_at": "02:33",
+      "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214109_260311015836_700.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "우크라이나, 이란 드론 대응 전문가 3개 중동 국가에 파견",
+      "summary": "- 우크라이나가 이란 드론 공격에 대한 방어 경험을 공유하기 위해 중동 3개국에 전문가를 파견합니다.\n- 파견 국가는 카타르, 사우디아라비아, 아랍에미리트(UAE)입니다.\n- 우크라이나는 러시아의 이란제 '샤헤드' 드론 공격에 대한 방어 경험이 풍부합니다.",
+      "full_translated": "볼로디미르 젤렌스키 우크라이나 대통령은 이란 드론 공격에 대한 방어 지식과 경험을 공유하기 위해 중동 3개국에 전문가 팀을 파견한다고 밝혔습니다. 우크라이나는 러시아가 사용하는 이란제 '샤헤드' 드론에 대한 방어 경험이 풍부하며, 최근 여러 국가에서 드론 공격 방어 지원을 요청했습니다. 젤렌스키 대통령은 미국 전문가들도 우크라이나의 경험이 '샤헤드' 드론 공격을 격퇴하는 데 도움이 될 수 있다는 점을 이해하고 있다고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없지만, 국제 정세 불안정은 간접적으로 여행 심리에 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ยูเครนเผย ส่งผู้เชี่ยวชาญด้านการรับมือโดรน ไปยัง 3 ประเทศตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/foreign/2919203",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAp4KHXlFoOVK.jpg"
+        }
+      ],
+      "collected_at": "02:33",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAp4KHXlFoOVK.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국-캄보디아 국경 회담, 새 정부 구성 후 재개될 전망",
+      "summary": "- 태국 외무장관, 국경 획정 관련 캄보디아의 공동경계위원회(JBC) 회의 제안은 새 정부 출범 후 논의해야 한다고 밝힘.\n- 캄보디아는 지뢰 제거 및 스캠 네트워크 단속 관련 조건 포함을 희망하지만, 태국은 JBC의 모든 의제와 국제법에 따른 논의를 요구.\n- 2001년 캄보디아와의 양해각서(MOU) 폐기 가능성에 대해서는 새 정부가 결정할 것이라고 언급.",
+      "full_translated": "몽콜 방프라파 기자\n\n씨하삭 푸앙깨우 외무장관은 캄보디아의 태국-캄보디아 공동경계위원회(JBC) 회의 소집 제안은 새 정부가 구성되어야 영토 획정에 대한 논의가 가능하다고 밝혔습니다. 그는 캄보디아가 국경 획정 및 관련 문제에 대한 공식 협상 메커니즘 역할을 하는 JBC 회의를 제안했지만, 회담은 새 정부가 출범하고 입장을 결정한 후에만 진행될 수 있다고 말했습니다.\n\n지뢰 제거 및 스캠 네트워크 단속과 관련된 조건이 회담에 포함될 것인지 묻는 질문에 씨하삭 장관은 캄보디아가 이미 휴전 협정에 따라 해당 문제들을 해결할 의무가 있다고 답했습니다. 태국과 캄보디아는 찬타부리에서 열린 태국-캄보디아 일반 국경 위원회(GBC) 회의 후 12월 말에 휴전 협정에 서명했으며, 휴전 후 18명의 캄보디아 군인이 석방되어 72시간 동안 효력이 유지되었습니다. 석방은 또한 10월 26일 쿠알라룸푸르에서 양국이 이전에 서명한 공동 선언과도 일치했습니다.\n\n씨하삭 장관은 또한 캄보디아가 국경 획정에 대한 회의를 소집하고 싶다면 캄보디아가 해결하고 싶어하는 주제뿐만 아니라 JBC의 임무와 국제법에 따른 모든 관련 문제를 논의해야 한다고 강조했습니다. 캄보디아와의 2001년 양해각서(MOU) 취소 가능성에 대해 씨하삭 장관은 새 정부가 결정할 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "국경 관련 논의는 여행에 직접적인 영향은 적으나, 정치적 안정과 관련되어 간접적인 영향을 줄 수 있음. 현재로서는 긴장 고조 징후가 없으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "New govt must lead border talks: Sihasak",
+          "url": "https://www.bangkokpost.com/thailand/general/3214179/new-govt-must-lead-border-talks-sihasak",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/11/5999879_700.jpg"
+        }
+      ],
+      "collected_at": "02:33",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/11/5999879_700.jpg",
       "date": "2026-03-11"
     }
   ]
