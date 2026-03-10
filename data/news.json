@@ -225,14 +225,9 @@
       "summary": "- 외교부는 이란에서 23명의 태국 국민이 추가로 귀국했다고 발표했습니다.\n- 이들은 이란에서 터키를 거쳐 태국으로 돌아왔으며, 앞서 귀국한 29명과 합류했습니다.\n- 정부는 현재 이란에 남아있는 약 69명의 태국인을 같은 경로로 추가 대피시킬 예정입니다.",
       "full_translated": "외무부는 어제 이란에서 대피한 태국 국민 23명이 추가로 안전하게 귀국했다고 밝혔습니다. 수완나품 공항에서 비자밧 이사라박디 외무부 차관보는 이란에서 터키를 거쳐 태국으로 돌아온 그룹을 맞이했습니다. 그들은 하루 전에 도착한 다른 그룹에 합류했습니다. 비자밧 씨는 이란에서 대피한 총 52명의 태국인이 현재 안전하게 귀국했으며, 29명이 월요일에 도착했고 나머지 23명이 어제 도착했다고 말했습니다. 대부분은 테헤란에서 터키 국경까지 자동차로 몇 시간 동안 이동한 후 비행기로 귀국해야 하는 긴 여정에 지쳤음에도 불구하고 좋은 분위기였습니다. 정부는 현재 약 69명의 태국인을 동일한 경로를 사용하여 이란에서 대피시킬 준비를 하고 있으며 태국 국민의 안전이 정부의 최우선 과제임을 강조했습니다. 외무부는 이란, 이스라엘, 미국 정부와 협력하여 대피 경로를 알리고 이동 중 보안 지원을 요청했습니다. 약 130명의 태국 국민이 이란에 남아 있으며 테헤란 주재 태국 대사관은 안전상의 이유로 출국을 원하는 사람들에게 격려하면서 그들과 긴밀한 연락을 유지하고 있습니다. 그러나 귀국 결정은 자발적입니다. 중동 전역의 태국 공관은 UAE를 포함한 다른 국가의 시민들도 지원하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행객 안전에 대한 간접적 영향 (중동 지역 긴장)",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "23 more Thais return safely",
@@ -241,23 +236,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214214_260311015353_700.jpg"
         }
       ],
-      "collected_at": "02:33",
+      "collected_at": "2:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214214_260311015353_700.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3214214/23-more-thais-return-safely",
+      "source": ""
     },
     {
       "title": "태국 문화부-관광부 통폐합 논의 중: 관광 경쟁력 강화 기대",
       "summary": "- 태국 정부가 문화부와 관광부의 통폐합을 검토 중이며, 6개월 내 결론 목표.\n- 이는 태국의 다문화주의 잠재력을 활용하고 관광 수입을 증대하기 위한 전략.\n- 문화-관광 연계를 통해 국가 경쟁력을 강화하고 경제 성장을 도모할 계획.",
       "full_translated": "몽콜 방프라파 작성: 문화부와 관광부의 합병에 대한 논의가 진행 중이며, 정부 구성 후 6개월 이내에 마무리될 것으로 예상된다고 사비다 태이세드 문화부 장관 대행이 어제 밝혔다. 장관은 스포츠 부문이 독립된 부처로 분리될 수도 있다고 말했다. 사비다는 이러한 아이디어가 이미 품자이타이당(BJT) 내에서 논의되었으며 태국의 다문화주의가 잠재력에 도달하기를 바라는 아누틴 차른비라쿨 총리 대행의 비전을 반영한다고 말했다. 문화를 관광과 연결하면 경제적 가치를 창출하고 국가의 글로벌 매력을 강화하는 데 도움이 될 것이라고 사비다는 말했다. 정부는 새 행정부가 구성된 후 6개월 이내에 방향을 확정하기를 희망하지만 실제 시행은 운영상의 복잡성에 따라 달라질 것이라고 그녀는 말했다. 사비다는 \"핵심은 부처를 재구성하는 것이 아니라 관광 수입과 문화 수출을 통해 경제를 활성화하는 국가 전략을 수립하는 것\"이라고 말했다. 앗타코른 시릴랏타야콘 관광체육부 장관은 많은 국가들이 문화와 관광을 하나의 부처로 통합하는데 이는 그 임무가 밀접하게 관련되어 있기 때문이라고 말했다. 지난 5~6개월 동안 국제 파트너와 협력한 경험에 따르면 이러한 구조가 일반적이라는 것을 알게 되었다고 한다. 한편, 문화부 사무차관인 프라솝 리앙응언은 그 제안이...",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "관광 정책 변화 가능성이 있으나, 즉각적인 영향은 미미하다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Merging of 2 ministries under review",
@@ -266,23 +258,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214259_260311015148_700.jpg"
         }
       ],
-      "collected_at": "02:33",
+      "collected_at": "2:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214259_260311015148_700.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.bangkokpost.com/thailand/politics/3214259/merging-of-2-ministries-under-review",
+      "source": ""
     },
     {
       "title": "태국 의회 재개 준비",
       "summary": "- 태국 내각은 의회 소집을 위한 왕령 초안을 승인했습니다.\n- 총 500석 중 최소 475석(95%)의 의원 선거가 승인되었습니다.\n- 선거관리위원회(EC)는 4월 8일까지 결과를 발표해야 하며, 의회는 발표 후 15일 이내에 소집되어야 합니다.",
       "full_translated": "내각은 의회 소집을 위한 왕령 초안을 승인했지만, 구체적인 날짜는 아직 정해지지 않았다고 아이야린 판릿 정부 부대변인이 밝혔습니다. 이번 칙령은 전체 의석 500석 중 최소 475석(95%)의 의원 선거가 승인됨에 따라 국왕에게 제출될 예정입니다. 시로테 팟판 하원 사무총장은 지난주 선거관리위원회(EC)가 499명의 의원을 인증한 후 입법부가 절차를 진행할 준비가 될 것이라고 말했습니다. 어제 아이야린 여사는 내각 사무국이 선거관리위원회, 하원 사무국, 추밀원 사무국과 협력하여 시기를 결정할 것이라고 말했습니다. 선거관리위원회는 2월 8일 선거 후 60일 이내 또는 4월 8일까지 결과를 발표해야 합니다. 그러면 의회는 발표 후 15일 이내 또는 4월 22일까지 회의를 열어야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "정치 상황에 대한 정보 제공. 여행에 직접적인 영향은 적으나, 알아두면 유용한 정보. 의회 재개 시기에 따라 관련 집회/시위 가능성 고려.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Parliament prepares to reopen",
@@ -291,23 +280,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214109_260311015836_700.jpg"
         }
       ],
-      "collected_at": "02:33",
+      "collected_at": "2:33",
       "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214109_260311015836_700.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3214109/parliament-prepares-to-reopen",
+      "source": ""
     },
     {
       "title": "우크라이나, 이란 드론 대응 전문가 3개 중동 국가에 파견",
       "summary": "- 우크라이나가 이란 드론 공격에 대한 방어 경험을 공유하기 위해 중동 3개국에 전문가를 파견합니다.\n- 파견 국가는 카타르, 사우디아라비아, 아랍에미리트(UAE)입니다.\n- 우크라이나는 러시아의 이란제 '샤헤드' 드론 공격에 대한 방어 경험이 풍부합니다.",
       "full_translated": "볼로디미르 젤렌스키 우크라이나 대통령은 이란 드론 공격에 대한 방어 지식과 경험을 공유하기 위해 중동 3개국에 전문가 팀을 파견한다고 밝혔습니다. 우크라이나는 러시아가 사용하는 이란제 '샤헤드' 드론에 대한 방어 경험이 풍부하며, 최근 여러 국가에서 드론 공격 방어 지원을 요청했습니다. 젤렌스키 대통령은 미국 전문가들도 우크라이나의 경험이 '샤헤드' 드론 공격을 격퇴하는 데 도움이 될 수 있다는 점을 이해하고 있다고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행에 직접적인 영향은 없지만, 국제 정세 불안정은 간접적으로 여행 심리에 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ยูเครนเผย ส่งผู้เชี่ยวชาญด้านการรับมือโดรน ไปยัง 3 ประเทศตะวันออกกลาง",
@@ -316,23 +302,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAp4KHXlFoOVK.jpg"
         }
       ],
-      "collected_at": "02:33",
+      "collected_at": "2:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAp4KHXlFoOVK.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/foreign/2919203",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경 회담, 새 정부 구성 후 재개될 전망",
       "summary": "- 태국 외무장관, 국경 획정 관련 캄보디아의 공동경계위원회(JBC) 회의 제안은 새 정부 출범 후 논의해야 한다고 밝힘.\n- 캄보디아는 지뢰 제거 및 스캠 네트워크 단속 관련 조건 포함을 희망하지만, 태국은 JBC의 모든 의제와 국제법에 따른 논의를 요구.\n- 2001년 캄보디아와의 양해각서(MOU) 폐기 가능성에 대해서는 새 정부가 결정할 것이라고 언급.",
       "full_translated": "몽콜 방프라파 기자\n\n씨하삭 푸앙깨우 외무장관은 캄보디아의 태국-캄보디아 공동경계위원회(JBC) 회의 소집 제안은 새 정부가 구성되어야 영토 획정에 대한 논의가 가능하다고 밝혔습니다. 그는 캄보디아가 국경 획정 및 관련 문제에 대한 공식 협상 메커니즘 역할을 하는 JBC 회의를 제안했지만, 회담은 새 정부가 출범하고 입장을 결정한 후에만 진행될 수 있다고 말했습니다.\n\n지뢰 제거 및 스캠 네트워크 단속과 관련된 조건이 회담에 포함될 것인지 묻는 질문에 씨하삭 장관은 캄보디아가 이미 휴전 협정에 따라 해당 문제들을 해결할 의무가 있다고 답했습니다. 태국과 캄보디아는 찬타부리에서 열린 태국-캄보디아 일반 국경 위원회(GBC) 회의 후 12월 말에 휴전 협정에 서명했으며, 휴전 후 18명의 캄보디아 군인이 석방되어 72시간 동안 효력이 유지되었습니다. 석방은 또한 10월 26일 쿠알라룸푸르에서 양국이 이전에 서명한 공동 선언과도 일치했습니다.\n\n씨하삭 장관은 또한 캄보디아가 국경 획정에 대한 회의를 소집하고 싶다면 캄보디아가 해결하고 싶어하는 주제뿐만 아니라 JBC의 임무와 국제법에 따른 모든 관련 문제를 논의해야 한다고 강조했습니다. 캄보디아와의 2001년 양해각서(MOU) 취소 가능성에 대해 씨하삭 장관은 새 정부가 결정할 것이라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "국경 관련 논의는 여행에 직접적인 영향은 적으나, 정치적 안정과 관련되어 간접적인 영향을 줄 수 있음. 현재로서는 긴장 고조 징후가 없으므로 낮은 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "New govt must lead border talks: Sihasak",
@@ -341,8 +324,110 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/11/5999879_700.jpg"
         }
       ],
-      "collected_at": "02:33",
+      "collected_at": "2:33",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/11/5999879_700.jpg",
+      "date": "2026-03-11",
+      "link": "https://www.bangkokpost.com/thailand/general/3214179/new-govt-must-lead-border-talks-sihasak",
+      "source": ""
+    },
+    {
+      "title": "Tourism braces for impact of Mideast war - Bangkok Post",
+      "summary": "- 중동 전쟁의 영향으로 관광 산업이 타격을 받을 것으로 예상됩니다.\n- 특히 항공편 취소 및 여행 제한 등의 문제가 발생할 수 있습니다.\n- 관련 업계는 상황을 예의주시하며 대응 방안을 모색하고 있습니다.",
+      "full_translated": "관광 산업은 중동 전쟁의 영향에 대비하고 있습니다. 항공편 취소, 여행 제한 등의 문제가 발생할 수 있으며, 관련 업계는 상황을 예의주시하며 대응 방안을 모색하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 전쟁으로 인한 관광 산업 영향은 여행객 안전 및 계획에 직접적인 영향을 미치므로 포함. 특히 항공편 취소 가능성은 중요 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism braces for impact of Mideast war - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlZ3SHVHc0ZBYTl0ZDRCN0Eza2pqeTM3WkFPd2pBRjNLQ1NJbEdCV0xhaWFHelRpcjJKdF9rbFcyQjUwZUVyY3JtWmM1eGVVZ20zZUxMRl81OTluaV9YSC1oeEtqM2VOQ0Z1UTh6ZmRHamR4OGItcjNMckpudDV6dkk4Z1NqYjA1NUhiS1ZMTWVkTW04bjhheA?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 관광부 장관, 걸프 지역 긴장으로 인한 관광 약화 검토",
+      "summary": "- 태국 관광부 장관은 걸프 지역의 긴장으로 인한 장거리 여행 감소가 태국 관광에 미치는 영향을 검토 중입니다.\n- 이는 2026년 초 654만 명의 방문객 유치 후의 상황 변화에 대한 대응입니다.\n- 걸프 지역 긴장은 장거리 여행 심리에 부정적인 영향을 미쳐 태국 관광 산업에 잠재적 위험 요소로 작용합니다.",
+      "full_translated": "태국 관광부 장관은 2026년 초 654만 명의 방문객 유치 후 걸프 지역 긴장으로 인한 영향 검토",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업에 미치는 잠재적 영향에 대한 정보 제공. 여행 심리 위축 가능성.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Minister reviews Middle East unrest impact after 6.54 million visitors in early 2026 - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdXlOdGlaVzRPVVU5aXVHX1JkN1Zwc1JQSm5VSWRmdTQwRHFVal9jbm1ia2hIYVhvS2N6bWo2OUE4VkNENnVCVzNnc29WWUpnaXJnX1pUX01IOHdPakU5MzV1M2FzT0xlRGFCRWlfbFZseHNKTHZPVmRwNHJyOFN2SHFjYk85REJZMVBPXzE4bDdaZVFJMUJPcU40QlJTY1RvRUVDYVdZUDBmWDZacHVTU1F0ZmdmaDZEUlc3T1dQOUZ6QjBlQlRUcDIyOVJlOU1FVm91ZUhoS3BwZVRickVaRUdwaw?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 관광, 중동 분쟁으로 인한 관광객 감소로 어려움 겪어",
+      "summary": "- 중동 지역의 분쟁으로 인해 태국 관광 산업이 타격을 입고 있습니다.\n- 장거리 여행 감소로 관광객 수가 줄어들고 있습니다.\n- 걸프 지역의 긴장 상태가 태국 관광 산업에 부정적인 영향을 미치고 있습니다.",
+      "full_translated": "태국의 관광 성장세가 중동 분쟁으로 인한 관광객 도착 감소로 인해 차질을 빚고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "현재 관광 산업에 미치는 영향에 대한 정보이므로 포함. 중동 분쟁으로 인한 잠재적 위험과 장거리 여행 감소에 대한 정보를 제공하여 여행 계획에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Growth Faces Setback as Middle East Conflicts Impact Tourist Arrivals - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWU2TlVMLTdUM2xDUEFPeG1POWNRM2JBQWItX0Zkc1lQTUlELU9IMTF4cXRhNk9WMHNtcklLQlF1TmJlQXE4SU9VWVVQeVk3anVJNU1SOTBZSEtsMGl2dldnWHRkZ0k5Q0FkZWxFT1hLQmQ5V3IwVVc1OVFISExSSHcxSkN3dWJvd29LazJHV2VUeEtFMnJRa1l4S1JtdkNQRWs3LTJXVnRCZkJHaWRZcC1mLUotSzY5ZExBYmxTTktEUnNOMWlBM1BiTEkzTDdBZnc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "국민의힘, 정부에 새 헌장 초안 작성 촉구",
+      "summary": "- 국민의힘(PP)은 신임 정부와 새로 선출된 의회가 최근 국민투표 결과를 존중하고 새 헌법 초안 작성을 추진할 것을 촉구함.\n- PP는 정부와 의회가 국민적 합의를 존중해야 한다고 강조하며, 새 헌장 초안 작성을 위한 메커니즘 수립을 위한 수정안을 추진할 준비가 되어 있다고 밝힘.\n- 낫타웃 부아프라툼 PP 의원은 다음 정부가 헌법 개혁을 우선시하지 않을 수 있다는 보고에 놀랐다고 언급함.",
+      "full_translated": "국민의 명령은 '존중되어야 한다'\n2026년 3월 11일 00:22 게시\n신문 섹션: 뉴스\n작가: Chairith Yonpiam\n\n국민의힘(PP)은 신임 정부와 새로 선출된 의회가 최근 국민투표 결과를 존중하고 새 헌법 초안 작성을 추진할 것을 촉구하며, 지연될 경우 국민의 명령을 무시하는 것이라고 경고했습니다. PP 비례대표 의원이자 헌법 개정 연구를 위한 하원 위원회 위원장을 지낸 낫타웃 부아프라툼은 어제 차기 정부(Bhumjaithai Party (BJT)가 이끌 것으로 예상됨)가 헌법 개혁을 우선시하지 않을 수 있다는 보고에 놀랐다고 말했습니다. 그의 발언은 선거관리위원회(EC)가 국민투표 결과를 관보에 공식적으로 발표한 데 따른 것으로, 2100만 명이 넘는 유권자가 이 아이디어를 지지하는 것으로 나타났습니다. 그는 정부와 의회가 국민적 합의를 존중해야 할 의무가 있다고 말했습니다. PP는 새로운 헌장 초안 작성을 위한 메커니즘 수립을 위한 수정안을 추진할 준비가 되어 있다고 덧붙였습니다. 그는 \"국민의힘은 새로운 헌법에 찬성표를 던진 21,621,638명의 시민들에게 감사를 표합니다.\"라고 말했습니다. \"결과는 국민투표법의 요구 사항을 충족하고 특정 정당 지지자를 넘어서는 국민적 합의를 나타냅니다.\" 그는 1100만 명이 넘는 유권자가 제안에 반대하고 300만 명이 넘는 사람들이 의견을 표명하지 않았다는 점을 인정하면서 일부 사람들이 형식, 내용 및",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치적인 뉴스이며 여행객에게 직접적인 영향은 적다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "People's Party urges govt to draft new charter",
+          "url": "https://www.bangkokpost.com/thailand/politics/3214059/peoples-party-urges-govt-to-draft-new-charter",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214059_260311014759_700.jpg"
+        }
+      ],
+      "collected_at": "03:24",
+      "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214059_260311014759_700.jpg",
       "date": "2026-03-11"
     }
   ]
