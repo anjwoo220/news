@@ -797,14 +797,9 @@
       "summary": "- 태국과 프랑스가 푸껫을 세계적인 고급 관광 및 MICE(Meeting, Incentive Travel, Convention, Exhibition) 목적지로 발전시키기 위해 협력합니다.\n- 이번 협력은 유럽 여행객을 유치하고 푸껫의 관광 산업을 활성화하는 데 중점을 둡니다.\n- 여행 계획 전에 알아야 할 모든 정보를 제공합니다.",
       "full_translated": "태국과 프랑스가 푸껫을 유럽 여행객을 위한 세계적인 수준의 고급 관광 및 MICE 목적지로 만들기 위해 협력합니다. 여행 계획 전에 알아야 할 모든 정보가 여기에 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "푸껫 관광산업에 긍정적인 영향을 미칠 수 있는 협력 소식으로, 여행객들에게 새로운 고급 여행 옵션을 제공할 가능성이 있음. 다만, 즉각적인 여행 계획 변경 요인은 아니므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "푸껫",
-        "price": null,
-        "location_google_map_query": "푸껫"
-      },
+      "event_info": "{'date': None, 'location': '푸껫', 'price': None, 'location_google_map_query': '푸껫'}",
       "references": [
         {
           "title": "Thailand and France Collaborate to Elevate Phuket as a World-Class Luxury Tourism and MICE Destination for European Travelers – Here’s Everything You Need to Know Before Planning Your Trip - Travel And Tour World",
@@ -813,23 +808,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOYl9BdmpPcXpoUUdKSHhYYlhETWU3YW5BcWpGcGhFTS1ka3c4SU93NVJNS0c1OUI5clk4R2NSM0hLM055RzlFSmwzbDA0dWxHMEdsYkFzMFhXWVk1S3JrNWJndTJkTlpYd2RJdGdiRk1qeW1DMHhQaXo3YXh3cDJSZUlCWUhqTlpaR3ZzTnZnZjl3OTZvTjBmT1NGdzIwUERnX0J6NzRJWG0waENVUHBKRW9SbGdvRmQ3T2pDMEI5dVI3YkJraTNJQTVqWUUzRWVmSEdBLTM0eTVkRktPajROR05ISU9TOTZrOGRiWEJEc012c1BhMzRtT1ZuNDBDaHpLWVFFSVhZNUhGaWtxZWEwVVZpbmFNMmQ3LXRBUm00b1RTSU1FYm84bzlGeEdpTXA1Q21wOTRzYkRZM1dtVmx5MzJRLWJMYTZEYzBfTEZB?oc=5",
+      "source": ""
     },
     {
       "title": "미국, 이란에 대한 군사적 옵션 배제 안 해: 백악관 발표",
       "summary": "- 백악관, 트럼프 대통령이 이란에 대한 군사적 옵션을 배제하지 않고 있다고 발표.\n- 이란에 대한 '무조건적 항복' 요구 조건 재확인.\n- 미군 파병 가능성도 열어둬, 중동 긴장 고조 우려.",
       "full_translated": "백악관은 도널드 트럼프 미국 대통령이 이란과의 전쟁에서 지상군 투입을 포함한 어떤 선택지도 배제하지 않고 있다고 확인했습니다. 트럼프 대통령은 실제로 그렇게 할지 여부를 결정할 것입니다. 2569년 3월 10일, 백악관 대변인 캐롤라인 레빗은 이란에 대한 미국의 군사 작전에 대해 언급하면서 도널드 트럼프 대통령이 이란과의 전쟁에서 “어떤 선택지도 배제하지 않고 있다”고 밝혔습니다. 여기에는 미군 병력을 해당 지역에 파견할 가능성도 포함됩니다. \n\n“지상군 파견에 대해 대통령은 최고 사령관으로서 어떤 선택지도 배제하지 않는 현명한 비전을 항상 추구해 왔습니다. 따라서 저는 의회 민주당 의원들이 대통령의 생각에 대해 말하는 어떤 정보도 확인하고 싶지 않습니다.” 레빗은 오늘 아침 의회에서 “우리는 미국의 목표를 달성하기 위해 이란에 미군을 파견하는 방향으로 나아가고 있는 것 같다”고 인터뷰한 리처드 블루멘탈을 포함한 민주당 상원 의원들의 의견을 언급하는 것으로 보입니다. \n\n레빗은 또한 도널드 트럼프 대통령이 이란과의 합의 조건으로 이란이 “무조건 항복”하기를 원한다고 강조했습니다. “트럼프 대통령이 이란이 무조건 항복해야 한다고 말했을 때, 그는 이란 정권이 직접 그런 말을 발표할 것이라고 의미한 것이 아닙니다. 대통령이 의미하는 바는 이란의 위협이 더 이상 국내에서 핵폭탄을 건설하는 것을 보호하는 미사일 무기고로 뒷받침되지 않을 것이라는 것입니다.” 그녀는 트럼프 대통령이 이란이 항복한 상태라고 판단하는 시기를 결정할 것이라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 긴장 고조 가능성이 여행 심리에 영향을 줄 수 있으나, 직접적인 위협은 아님. 장거리 여행 감소와 관련된 기존 뉴스 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "ทำเนียบขาวเผย ทรัมป์ไม่ตัดทางเลือกใดทิ้ง รวมถึงส่งทหารราบบุกอิหร่าน",
@@ -838,17 +830,40 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApW757LUZ2QP.jpg"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "5:51",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApW757LUZ2QP.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/foreign/2919205",
+      "source": ""
     },
     {
       "title": "태국 관광 약화: 걸프 지역 긴장으로 장거리 여행 감소",
       "summary": "- 걸프 지역의 긴장 고조로 인해 태국 관광 산업이 타격을 입고 있음.\n- 장거리 여행 감소가 주요 원인으로 분석됨.\n- 관련 업계는 상황을 주시하며 대책 마련에 고심 중.",
       "full_translated": "태국 관광 산업이 걸프 지역의 긴장으로 인해 약화되고 있습니다. 장거리 여행이 감소하면서 관광객 유치에 어려움을 겪고 있으며, 관련 업계는 상황을 예의주시하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "최근 국제 정세 불안이 태국 관광 산업에 미치는 영향에 대한 정보. 여행 계획에 영향을 줄 수 있으므로 중간 점수 부여.",
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
+      "references": [
+        {
+          "title": "Thailand’s tourism weakens as Gulf tensions disrupt long-haul travel - TravelMole",
+          "url": "https://news.google.com/rss/articles/CCAiCANjY3FzZlB1OG9RajRIQVlLQlJ5YjJOaFF6QUFBUAEB?oc=5",
+          "source": "TravelMole"
+        }
+      ],
+      "collected_at": "5:51",
+      "image_url": "",
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CCAiCANjY3FzZlB1OG9RajRIQVlLQlJ5YjJOaFF6QUFBUAEB?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 관광, 400억 바트 수익 붕괴 직면",
+      "summary": "- 태국 관광 산업이 400억 바트의 수익 붕괴에 직면했다는 뉴스입니다.\n- 걸프 지역의 긴장으로 장거리 여행이 감소하면서 관광이 약화되고 있습니다.\n- 자세한 내용은 MSN에서 확인할 수 있습니다.",
+      "full_translated": "태국 관광, 400억 바트 수익 붕괴 직면&nbsp;&nbsp;MSN",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광 수익 감소는 여행객의 소비 감소와 관련될 수 있으므로 중간 정도의 영향력이 있다고 판단.",
       "event_info": {
         "date": null,
         "location": null,
@@ -857,12 +872,14 @@
       },
       "references": [
         {
-          "title": "Thailand’s tourism weakens as Gulf tensions disrupt long-haul travel - TravelMole",
-          "url": "https://news.google.com/rss/articles/CCAiCANjY3FzZlB1OG9RajRIQVlLQlJ5YjJOaFF6QUFBUAEB?oc=5",
-          "source": "TravelMole"
+          "title": "Thai tourism faces B40bn revenue collapse - MSN",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQanlzMzFBc0otZjhnVHJZdWl3aTI3TjA2RThJRG81S2RvY0xQSVdMNFFSLVIzRkNNUlJNU2xoelBqUFB6MjZLSHFCM0NXd0tKWm96UUZ4UWRQRjRVdFRPMmNJT3YyX0wtdWI0LWtzX3FscTlYSkdQaExYQjdLZEl1VnEzN1NXRERrS01XRExMUmxJMzY5?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:51",
+      "collected_at": "06:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-11"
     }
   ]
