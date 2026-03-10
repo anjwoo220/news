@@ -335,14 +335,9 @@
       "summary": "- 중동 전쟁의 영향으로 관광 산업이 타격을 받을 것으로 예상됩니다.\n- 특히 항공편 취소 및 여행 제한 등의 문제가 발생할 수 있습니다.\n- 관련 업계는 상황을 예의주시하며 대응 방안을 모색하고 있습니다.",
       "full_translated": "관광 산업은 중동 전쟁의 영향에 대비하고 있습니다. 항공편 취소, 여행 제한 등의 문제가 발생할 수 있으며, 관련 업계는 상황을 예의주시하며 대응 방안을 모색하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중동 전쟁으로 인한 관광 산업 영향은 여행객 안전 및 계획에 직접적인 영향을 미치므로 포함. 특히 항공편 취소 가능성은 중요 정보.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Tourism braces for impact of Mideast war - Bangkok Post",
@@ -351,23 +346,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlZ3SHVHc0ZBYTl0ZDRCN0Eza2pqeTM3WkFPd2pBRjNLQ1NJbEdCV0xhaWFHelRpcjJKdF9rbFcyQjUwZUVyY3JtWmM1eGVVZ20zZUxMRl81OTluaV9YSC1oeEtqM2VOQ0Z1UTh6ZmRHamR4OGItcjNMckpudDV6dkk4Z1NqYjA1NUhiS1ZMTWVkTW04bjhheA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광부 장관, 걸프 지역 긴장으로 인한 관광 약화 검토",
       "summary": "- 태국 관광부 장관은 걸프 지역의 긴장으로 인한 장거리 여행 감소가 태국 관광에 미치는 영향을 검토 중입니다.\n- 이는 2026년 초 654만 명의 방문객 유치 후의 상황 변화에 대한 대응입니다.\n- 걸프 지역 긴장은 장거리 여행 심리에 부정적인 영향을 미쳐 태국 관광 산업에 잠재적 위험 요소로 작용합니다.",
       "full_translated": "태국 관광부 장관은 2026년 초 654만 명의 방문객 유치 후 걸프 지역 긴장으로 인한 영향 검토",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업에 미치는 잠재적 영향에 대한 정보 제공. 여행 심리 위축 가능성.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand Tourism Minister reviews Middle East unrest impact after 6.54 million visitors in early 2026 - Pattaya Mail",
@@ -376,23 +368,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdXlOdGlaVzRPVVU5aXVHX1JkN1Zwc1JQSm5VSWRmdTQwRHFVal9jbm1ia2hIYVhvS2N6bWo2OUE4VkNENnVCVzNnc29WWUpnaXJnX1pUX01IOHdPakU5MzV1M2FzT0xlRGFCRWlfbFZseHNKTHZPVmRwNHJyOFN2SHFjYk85REJZMVBPXzE4bDdaZVFJMUJPcU40QlJTY1RvRUVDYVdZUDBmWDZacHVTU1F0ZmdmaDZEUlc3T1dQOUZ6QjBlQlRUcDIyOVJlOU1FVm91ZUhoS3BwZVRickVaRUdwaw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광, 중동 분쟁으로 인한 관광객 감소로 어려움 겪어",
       "summary": "- 중동 지역의 분쟁으로 인해 태국 관광 산업이 타격을 입고 있습니다.\n- 장거리 여행 감소로 관광객 수가 줄어들고 있습니다.\n- 걸프 지역의 긴장 상태가 태국 관광 산업에 부정적인 영향을 미치고 있습니다.",
       "full_translated": "태국의 관광 성장세가 중동 분쟁으로 인한 관광객 도착 감소로 인해 차질을 빚고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "현재 관광 산업에 미치는 영향에 대한 정보이므로 포함. 중동 분쟁으로 인한 잠재적 위험과 장거리 여행 감소에 대한 정보를 제공하여 여행 계획에 영향을 줄 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourism Growth Faces Setback as Middle East Conflicts Impact Tourist Arrivals - Travel And Tour World",
@@ -401,23 +390,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZWU2TlVMLTdUM2xDUEFPeG1POWNRM2JBQWItX0Zkc1lQTUlELU9IMTF4cXRhNk9WMHNtcklLQlF1TmJlQXE4SU9VWVVQeVk3anVJNU1SOTBZSEtsMGl2dldnWHRkZ0k5Q0FkZWxFT1hLQmQ5V3IwVVc1OVFISExSSHcxSkN3dWJvd29LazJHV2VUeEtFMnJRa1l4S1JtdkNQRWs3LTJXVnRCZkJHaWRZcC1mLUotSzY5ZExBYmxTTktEUnNOMWlBM1BiTEkzTDdBZnc?oc=5",
+      "source": ""
     },
     {
       "title": "국민의힘, 정부에 새 헌장 초안 작성 촉구",
       "summary": "- 국민의힘(PP)은 신임 정부와 새로 선출된 의회가 최근 국민투표 결과를 존중하고 새 헌법 초안 작성을 추진할 것을 촉구함.\n- PP는 정부와 의회가 국민적 합의를 존중해야 한다고 강조하며, 새 헌장 초안 작성을 위한 메커니즘 수립을 위한 수정안을 추진할 준비가 되어 있다고 밝힘.\n- 낫타웃 부아프라툼 PP 의원은 다음 정부가 헌법 개혁을 우선시하지 않을 수 있다는 보고에 놀랐다고 언급함.",
       "full_translated": "국민의 명령은 '존중되어야 한다'\n2026년 3월 11일 00:22 게시\n신문 섹션: 뉴스\n작가: Chairith Yonpiam\n\n국민의힘(PP)은 신임 정부와 새로 선출된 의회가 최근 국민투표 결과를 존중하고 새 헌법 초안 작성을 추진할 것을 촉구하며, 지연될 경우 국민의 명령을 무시하는 것이라고 경고했습니다. PP 비례대표 의원이자 헌법 개정 연구를 위한 하원 위원회 위원장을 지낸 낫타웃 부아프라툼은 어제 차기 정부(Bhumjaithai Party (BJT)가 이끌 것으로 예상됨)가 헌법 개혁을 우선시하지 않을 수 있다는 보고에 놀랐다고 말했습니다. 그의 발언은 선거관리위원회(EC)가 국민투표 결과를 관보에 공식적으로 발표한 데 따른 것으로, 2100만 명이 넘는 유권자가 이 아이디어를 지지하는 것으로 나타났습니다. 그는 정부와 의회가 국민적 합의를 존중해야 할 의무가 있다고 말했습니다. PP는 새로운 헌장 초안 작성을 위한 메커니즘 수립을 위한 수정안을 추진할 준비가 되어 있다고 덧붙였습니다. 그는 \"국민의힘은 새로운 헌법에 찬성표를 던진 21,621,638명의 시민들에게 감사를 표합니다.\"라고 말했습니다. \"결과는 국민투표법의 요구 사항을 충족하고 특정 정당 지지자를 넘어서는 국민적 합의를 나타냅니다.\" 그는 1100만 명이 넘는 유권자가 제안에 반대하고 300만 명이 넘는 사람들이 의견을 표명하지 않았다는 점을 인정하면서 일부 사람들이 형식, 내용 및",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 뉴스이며 여행객에게 직접적인 영향은 적다고 판단됨.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "People's Party urges govt to draft new charter",
@@ -426,8 +412,110 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214059_260311014759_700.jpg"
         }
       ],
-      "collected_at": "03:24",
+      "collected_at": "3:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_3214059_260311014759_700.jpg",
+      "date": "2026-03-11",
+      "link": "https://www.bangkokpost.com/thailand/politics/3214059/peoples-party-urges-govt-to-draft-new-charter",
+      "source": ""
+    },
+    {
+      "title": "중동 분쟁으로 태국 관광 회복 지연",
+      "summary": "- 중동 분쟁으로 인해 태국 관광 산업 회복이 지연되고 있음.\n- 7백만 명의 관광객 유치에도 불구하고 어려움 지속.\n- 자세한 내용은 Nation Thailand에서 확인 가능.",
+      "full_translated": "Nation Thailand에 따르면 중동 분쟁으로 인해 7백만 명의 관광객 유치에도 불구하고 태국 관광 회복이 지연되고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 분쟁이 태국 관광 산업에 미치는 영향에 대한 정보. 관광객 수 변화 추이를 파악하는 데 도움이 될 수 있으므로.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East Conflict Stalls Thai Tourism Recovery Despite Seven-Million Milestone - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TMWdHSHNiU0dvdlEzTlROOVNBWFhTd2FrRzRTdW1nR0tPemthajZsMk00YW8tdDIyZWlwYUozbmpLZ3lEMVl0clA2aHRlRkNKd202RWs0bXNyLUFwMk1hRWJR?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국, '힐링은 새로운 럭셔리' 경험을 통해 건강 및 웰니스 관광 재정의 - TAT 뉴스룸",
+      "summary": "- 태국 관광청(TAT)은 '힐링은 새로운 럭셔리'라는 컨셉으로 건강 및 웰니스 관광을 재정의합니다.\n- 이 이니셔티브는 태국을 단순한 휴양지가 아닌 건강과 웰빙을 위한 목적지로 강조합니다.\n- TAT는 다양한 웰니스 경험을 통해 고품질 관광을 촉진하고자 합니다.",
+      "full_translated": "태국은 “힐링은 새로운 럭셔리” 경험을 통해 건강 및 웰니스 관광을 재정의합니다. 태국 관광청 뉴스룸",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광청의 새로운 관광 컨셉 홍보 관련 기사로, 여행객들에게 웰니스 관광 정보를 제공합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand redefines health and wellness tourism through “Healing is the New Luxury” experiences - TAT Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkJfTUEtMENZRUEzU01YNWp3VEI3MlAtR3NDOVVkY2ItZmJ2RU9QdzRNUnRxejBJaEZpa2FoOWhpRXRRWkVKM2sxQ2E0NVo0UnR0NzBYQlVWSW5MQ3VxZV9MM0lXRy1lTlJBR1ZMc0NDeHlKUjRpWHgtbExteGQwbm9adzY4SG1YazcwZm1qUkRsRVJESkdxVUNyRndzeVdZN09yWVZlZTAyTzdOZFEyMUx5cVNWOHM0R1VFclVPazJwbTg?oc=5",
+          "source": "TAT Newsroom",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 내 러시아인 관광객 약 1만 명 체류 중 - Ореанда-Новости",
+      "summary": "- 현재 태국에는 약 1만 명의 러시아인 관광객이 체류 중인 것으로 추정됨.\n- 이는 태국 관광 산업에 중요한 영향을 미칠 수 있음.\n- 자세한 내용은 Ореанда-Новости에서 확인할 수 있음.",
+      "full_translated": "현재 태국에는 약 1만 명의 러시아인 관광객이 있는 것으로 추정됩니다. Ореанда-Новости",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "러시아인 관광객 규모에 대한 정보는 여행객 구성 변화를 파악하는 데 도움이 되므로 중간 정도의 중요도를 가짐.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "There may be about 10 thousand Russian tourists in Thailand now - Ореанда-Новости",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmdDWGlrcjhpYjFMUmNaMEppMTRoZ2V6SUtRajNpV0ROSjBaN29UR3BhWHRKOWhYUkgwNVR3cGFPWkxlQi1XN0FFRC02TGtiN294bkNXb0xIeTVDNVVienJmaGdudTkyQ3ZCZmFCR1huR2NrMHVJekhhQlNTamVGQXRDVTF5Tkg4YkZUWTlMZlJReUZpZThmTDBZU09BOHNGU3I5MmpJQi1kb2prb19RVmgtRm5xeGEzWmpCNVBWMjg?oc=5",
+          "source": "Ореанда-Новости",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:56",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "파타야 크리켓 클럽, 뮤턴트 크리켓 클럽에 아쉬운 패배",
+      "summary": "- 파타야 크리켓 클럽(PCC)이 뮤턴트 크리켓 클럽과의 경기에서 5점 차이로 아쉽게 패배했습니다.\n- 앤드레 휴먼의 49점 분전에도 불구하고, PCC는 27개의 와이드를 포함한 31개의 엑스트라 점수를 허용했습니다.\n- 뮤턴트의 뛰어난 위켓 사이 주루 플레이가 승패를 갈랐습니다.",
+      "full_translated": "파타야 크리켓 클럽은 뮤턴트 크리켓 클럽과의 경기에서 또다시 아쉬운 패배를 겪었습니다. PCC가 승리할 좋은 기회를 가졌던 이날 경기는 밝고 화창하며 바람이 없는 아침에 펼쳐졌습니다. 앤드레 휴먼이 49점을 기록하며 분전했지만, 5점 차이로 패배하는 스릴 넘치는 마무리였습니다. 이 경기는 뮤턴트의 뛰어난 위켓 사이 주루 플레이와 PCC 투수진의 너무 많은 엑스트라 점수(27개의 와이드 포함 31점)라는 두 가지 주요 특징에 달려 있었습니다. 앤디 에머리는 토스에서 졌고 바비 라이나는 타격을 결정했습니다. 바비는 앤드레와 반대편의 앤디를 상대로 아시르바드 나라완과 함께 시작했습니다. 깔끔하고 정확한 볼링은 좋은 주루 플레이로 상쇄되어 5오버에 27대 0으로 균등한 출발을 보였습니다. 앤디 에머리는 6번째 오버에서 바비가 엑스트라 커버에서 마이크 게리츠에게 볼을 쳐 11점으로 아웃되면서 32대 1이 되었습니다. 나이틱 메와다는 투수 교체에 직면했고 사디시 시바지와 해리 아처가 볼링을 맡았습니다. 아담 히치콧은 사디시로부터 키퍼 장갑을 넘겨받았습니다. 사미는 아시르바드를 거의 잡을 뻔했지만 공에 닿지 못했습니다. 사디시는 나이틱에게 얻어맞았고 빠르게 아디티야 고사비로 교체되었습니다. 뮤턴트는 페이스를 올려 10오버에 77대 1에 도달했습니다. 아디티야는 스트레이트 볼링에 문제가 있었지만 여전히 미드온에서 해리에게 나이틱을 잡히게 하여 20점을 얻어 80점이 되었습니다. 수브라토가 필드에 나와 경기 첫 6점을 얻었지만 딥 미드위켓에서 캡틴 버터핑거스가 캐치를 잡고 13번째 오버에서 95대 3으로 11점을 얻어 오래가지 못했습니다. 음료는 15번째 동안 일찍 가져갔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "크리켓 경기 결과는 일반적인 여행 정보와 거리가 멀어 낮은 점수를 부여합니다. 다만, 스포츠 팬에게는 소소한 정보가 될 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야 크리켓 경기장"
+      },
+      "references": [
+        {
+          "title": "Pattaya Cricket Club suffers another narrow defeat to Mutants Cricket Club",
+          "url": "https://thepattayanews.com/2026/03/10/pattaya-cricket-club-suffers-another-narrow-defeat-to-mutants-cricket-club/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_06446047403974208491617.jpg?v=1773123271"
+        }
+      ],
+      "collected_at": "03:56",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_06446047403974208491617.jpg?v=1773123271",
       "date": "2026-03-11"
     }
   ]
