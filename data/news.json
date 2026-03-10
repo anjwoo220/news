@@ -5,14 +5,9 @@
       "summary": "- 파타야에서 포드 픽업트럭이 주차된 MG 세단을 여러 차례 들이받아 심각한 손상을 입힘.\n- 목격자들은 픽업트럭 운전자가 고의로 사고를 냈다고 주장하며, 현장에서 도주했다고 진술.\n- 경찰은 정확한 사건 경위를 조사 중이며, 픽업트럭 운전자는 여성으로 알려짐.",
       "full_translated": "파타야에서 끔찍한 사건이 발생했습니다. 0시 10분경, 퉁 클롬 탄 만 교차로 방향 철도 병행 도로에서 흰색 포드 픽업트럭이 주차된 검은색 MG 세단을 들이받는 영상이 페이스북에 공유되었습니다. 37초 분량의 영상에는 픽업트럭이 후진 후 가속하여 정지해 있던 MG 세단을 여러 차례 강하게 들이받는 모습이 담겨 있습니다. 충격으로 MG 차량은 심각하게 파손되었고, 주변 사람들은 공포에 질렸습니다.\n\n사고 현장에는 차량 파편이 흩어져 있었지만, 픽업트럭과 세단은 모두 사라진 상태였습니다. 익명을 요구한 목격자들은 픽업트럭 운전자가 처음에는 차를 세웠다가 후진하여 고의로 세단을 들이받았다고 진술했습니다. 주변 사람들이 말리려 하자, 픽업트럭을 운전하던 여성이 급히 현장을 떠났다고 합니다. 목격자들에 따르면 픽업트럭 운전자는 여성이었으며, MG 세단은 남성이 운전하여 주차해 놓은 상태였습니다.\n\n현재까지 정확한 사고 동기는 밝혀지지 않았으며, 개인적인 분쟁이나 다툼으로 인한 것인지 확인되지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "외국인 여행객이 많은 파타야에서 발생한 사건으로, 안전에 대한 우려를 야기할 수 있음. 범죄 가능성이 있으므로 주의가 필요.",
-      "event_info": {
-        "date": "2024-05-15",
-        "location": "파타야 퉁 클롬 탄 만 교차로 인근 철도 병행 도로",
-        "price": null,
-        "location_google_map_query": "파타야 퉁 클롬 탄 만 교차로"
-      },
+      "event_info": "{'date': '2024-05-15', 'location': '파타야 퉁 클롬 탄 만 교차로 인근 철도 병행 도로', 'price': None, 'location_google_map_query': '파타야 퉁 클롬 탄 만 교차로'}",
       "references": [
         {
           "title": "Ford Pickup Driver Reverses and Rams Parked Sedan, Causing Severe Damage in Pattaya, Locals Suspect Intentional Act as Driver Flees Without Police Report",
@@ -21,23 +16,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731222564914221427431067348803.jpg?v=1773122350"
         }
       ],
-      "collected_at": "00:39",
+      "collected_at": "0:39",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731222564914221427431067348803.jpg?v=1773122350",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/10/ford-pickup-driver-reverses-and-rams-parked-sedan-causing-severe-damage-in-pattaya-locals-suspect-intentional-act-as-driver-flees-without-police-report/",
+      "source": ""
     },
     {
       "title": "파타야 번화가에서 나체 외국인 남성 소동: 소셜 미디어 혼란",
       "summary": "- 파타야 소이 12에서 나체로 뛰어다니는 외국인 남성이 목격되어 소셜 미디어에서 논란.\n- 목격자 증언에 따르면 남성은 술에 취하거나 정신적으로 불안정해 보이지 않았음.\n- 현재까지 당국은 남성의 신원, 국적, 사건 경위에 대한 공식 발표를 하지 않음.",
       "full_translated": "파타야 뉴스에 따르면, 한 외국인 남성이 파타야 소이 12를 나체로 뛰어다니는 모습이 포착되어 소셜 미디어에서 큰 혼란이 일고 있습니다. 영상에는 남성이 한 손으로 성기를 가린 채 번화가를 전력 질주하는 모습이 담겨 있으며, 무언가 또는 누군가로부터 도망치는 듯한 다급하고 긴박한 움직임을 보였습니다. 이 사건은 파타야의 주요 관광 지역 중 한 곳에서 발생했으며, 늦은 밤까지 많은 방문객과 현지인들이 있는 곳에서 발생하여 목격자들에게 놀라움과 혼란을 더했습니다. 오토바이를 타고 소이 12 방향으로 가던 중 이 장면을 목격하고 촬영한 자카크릿 마니무트(35세)에 따르면, 남성은 술에 취하거나 정신적으로 불안정해 보이지 않았습니다. 오히려 그의 태도는 마치 삶에서 도망치는 것처럼 진정한 긴박함을 나타냈습니다. 자카크릿은 기자들에게 \"소이로 향하던 중 갑자기 이 외국인 남자가 길 한복판에서 나체로 뛰어다니며 손으로 몸을 가리고 있는 것을 보았습니다.\"라고 말했습니다. \"그는 술에 취하거나 미친 것처럼 보이지 않았고, 단지 무언가 심각한 것으로부터 탈출하는 것처럼 매우 서둘렀습니다. 나는 그의 국적이 무엇인지, 무슨 일이 일어났는지 전혀 몰랐기 때문에 재빨리 휴대폰을 꺼내 녹화했습니다.\" 이 영상은 온라인 플랫폼에 빠르게 퍼져 네티즌들의 댓글과 추측이 쏟아졌습니다. 많은 사람들이 남자가 위험에서 벗어났는지, 다툼에 휘말렸는지, 아니면 다른 긴급 상황에 직면했는지 궁금해하며 우려를 표명했습니다. 다른 사람들은 어떻게 이러한 사건이 즉각적인 개입 없이 교통량이 많은 관광 지역에서 일어날 수 있는지 의문을 제기했습니다. 현재까지 당국은 남성의 신원, 국적 또는 사건 경위에 대한 공식적인 세부 사항을 발표하지 않았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 관광객에게 불안감을 조성할 수 있는 사건이며, 파타야의 치안 문제와 관련될 수 있어 중간 수준의 점수를 부여함. 사건의 추가적인 진행 상황에 따라 점수가 조정될 수 있음.",
-      "event_info": {
-        "date": null,
-        "location": "파타야 소이 12",
-        "price": null,
-        "location_google_map_query": "파타야 소이 12"
-      },
+      "event_info": "{'date': None, 'location': '파타야 소이 12', 'price': None, 'location_google_map_query': '파타야 소이 12'}",
       "references": [
         {
           "title": "Social Media in Frenzy as Naked Foreigner Runs Through Pattaya’s Soi 12, Clutching Groin in Apparent Panic, Leaving Locals Baffled",
@@ -46,23 +38,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731237734266118928466948148996.jpg?v=1773123852"
         }
       ],
-      "collected_at": "00:39",
+      "collected_at": "0:39",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731237734266118928466948148996.jpg?v=1773123852",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/10/social-media-in-frenzy-as-naked-foreigner-runs-through-pattayas-soi-12-clutching-groin-in-apparent-panic-leaving-locals-baffled/",
+      "source": ""
     },
     {
       "title": "태국-캄보디아 국경, 긴장 고조 징후 없어: 태국군 발표",
       "summary": "- 태국군은 태국-캄보디아 국경 상황이 통제되고 있으며 긴장 고조 징후는 없다고 발표함.\n- 국경 지역의 상황을 면밀히 주시하고 있으며 주요 지역에 병력을 배치 유지 중.\n- 캄보디아 군인들이 철조망에 접근하여 도발적인 행동을 촬영하는 것을 감지, 경고 사격을 실시했다고 밝힘.",
       "full_translated": "태국군이 태국-캄보디아 국경 상황이 통제 하에 있으며 긴장이 고조될 징후는 없다고 밝혔습니다. 윈타이 수바리 육군 대변인은 3월 10일, 당국이 국경 지역의 상황을 면밀히 주시하고 주요 지역에 병력 배치를 유지하고 있다고 밝혔습니다. 그는 시사껫 지방의 태국 군인들이 삼태 검문소 근처의 철조망에 접근하여 때때로 도발적인 콘텐츠를 촬영하는 캄보디아 군인들을 관찰했다고 인정했습니다. 태국군은 이전에 그들에게 경고했으며, 3월 8일에는 교전 규칙에 따라 침범을 막고 질서를 유지하기 위해 공중으로 경고 사격을 가했습니다. 윈타이는 관련 캄보디아 군인들이 경험과 훈련이 부족한 신규 배치 인력으로 보인다고 말했습니다. 우본 랏차타니 지방의 총복 지역에서는 캄보디아 군이 참호를 파거나 대피소를 건설했다는 보고가 있었는데, 대변인은 그러한 활동은 자국 영토 내에서 방어 위치를 설정하기 위한 정상적인 군사 활동이라고 말했습니다. 그는 태국이 주요 충돌로 이어질 수 있는 명확한 징후를 감지하지 못했다고 덧붙였습니다. 태국 정부는 국경 지역의 안보를 보장하기 위한 군사적 대비 태세를 유지하면서, 합동 경계 위원회(JBC)를 포함한 양자 메커니즘을 통해 국경 문제를 계속 해결하고 있습니다. 군은 또한 일부 지역에서 태국 군 병력 수의 조정은 일상적인 순환이며 보안 조치의 약화를 의미하지 않는다고 확인했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국경 지역 긴장 완화는 여행객 안전에 간접적으로 긍정적 영향을 미치나, 현재로서는 직접적인 위협이 없어 낮은 점수 부여. 최신 정보이므로 업데이트.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai army: No signs of escalation on Cambodia border",
@@ -71,23 +60,20 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/S__41263499_0.jpg"
         }
       ],
-      "collected_at": "00:39",
+      "collected_at": "0:39",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/S__41263499_0.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.khaosodenglish.com/news/2026/03/10/thai-army-no-signs-of-escalation-on-cambodia-border/",
+      "source": ""
     },
     {
       "title": "파타야 경찰, 경찰 운영 자금 마련 위한 자선 볼링 토너먼트 개최 (2026년 3월 21일)",
       "summary": "- 파타야 경찰서 경찰-지역사회 관계 위원회(꺼떠.떠러. 쏘퍼.므엉팟타야) 주최 자선 볼링 토너먼트 개최.\n- 촌부리 주지사가 트로피를 수여하며, 대회 수익금은 경찰 운영 개선에 사용될 예정.\n- 2026년 3월 21일 오전 11시, 센트럴 페스티벌 파타야 비치 6층 SF 스트라이크 볼에서 개최.",
       "full_translated": "파타야 시 경찰 위원회는 경찰 운영 자금 마련을 위해 3월 21일에 자선 볼링 토너먼트를 개최합니다.\n\n이번 발표는 파타야 시 경찰서 3층 회의실에서 열린 위원회의 2026년 3월 정기 회의에서 나왔습니다. 파타야 시 경찰서 경찰-지역사회 관계 위원회(꼬.따.뜨러. 써.퍼.타.므앙.팟타야) 위원장인 암폰 깨우생 여사가 회의를 주재했습니다. 또한 파타야 시 경찰서장인 아넥 사라통유 대령과 경찰관, 위원회 위원 및 기타 참가자들이 참석했습니다. 논의는 “꼬.따.뜨러. 써.퍼.타.므앙.팟타야의 자선 볼링 토너먼트” 준비에 초점을 맞췄습니다. 행사 수익금은 경비 제외 후 경찰 운영 개선에 할당됩니다. 여기에는 회의실, 통신실, CCTV 시스템 및 기타 다양한 스테이션 이니셔티브 업그레이드가 포함됩니다. 경쟁은 팀(혼합), 남자 팀, 여자 팀, 남자 단식, 여자 단식, 남자 보비(위로/낮은 점수), 여자 보비 및 최고 스트라이크의 8개 범주로 진행됩니다. 우승자는 촌부리 주지사인 나리스 니라미웡 씨가 수여하는 트로피를 놓고 경쟁합니다. 이 행사는 2026년 3월 21일 토요일 오전 11시에 센트럴 페스티벌 파타야 비치 쇼핑 센터 6층에 위치한 SF 스트라이크 볼에서 시작될 예정입니다. 관심 있는 참가자 및 스폰서는 086-629-2998로 Yindee Mode Thong 씨에게 또는 086-662-6479로 Ratree Peekorn 씨에게 연락하여 등록하거나 티켓을 구매할 수 있습니다. 이 이니셔티브는 파타야 시 경찰과 지역 사회의 지속적인 노력을 반영합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야에서 열리는 행사 정보. 여행자들에게 흥미로운 선택지가 될 수 있으며, 특히 볼링에 관심 있는 여행객에게는 더욱 유용할 수 있다.",
-      "event_info": {
-        "date": "2026-03-21",
-        "location": "SF Strike Bowl, 6th floor of Central Festival Pattaya Beach shopping center",
-        "price": "문의 필요 (086-629-3541 또는 086-662-7022)",
-        "location_google_map_query": "Central Festival Pattaya Beach SF Strike Bowl"
-      },
+      "event_info": "{'date': '2026-03-21', 'location': 'SF Strike Bowl, 6th floor of Central Festival Pattaya Beach shopping center', 'price': '문의 필요 (086-629-3541 또는 086-662-7022)', 'location_google_map_query': 'Central Festival Pattaya Beach SF Strike Bowl'}",
       "references": [
         {
           "title": "Pattaya City Police Committee Prepares Charity Bowling Tournament on March 21st to Raise Funds for Police Operations",
@@ -96,23 +82,20 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731639471652781135836219809959.jpg?v=1773163999"
         }
       ],
-      "collected_at": "00:39",
+      "collected_at": "0:39",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731639471652781135836219809959.jpg?v=1773163999",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/11/pattaya-city-police-committee-prepares-charity-bowling-tournament-on-march-21st-to-raise-funds-for-police-operations/",
+      "source": ""
     },
     {
       "title": "캄보디아, 한국에 태국 전투기 판매 재고 요청",
       "summary": "- 캄보디아가 한국에 태국 전투기 판매 조건 재고를 요청하며 지역 평화 유지를 강조함.\n- 캄보디아 국회의장은 한국 정부에 태국에 대한 무기 판매가 공격적인 용도로 사용되지 않도록 신중한 검토를 요청함.\n- 이는 캄보디아와 한국이 수교 55주년을 기념하는 가운데 양국 관계 강화 노력의 일환으로 이루어짐.",
       "full_translated": "프놈펜 — 캄보디아가 한국에 태국에 대한 전투기 판매 조건을 재고해 줄 것을 요청하며, 이러한 조치가 지역 평화 유지에 도움이 될 수 있다고 밝혔습니다. 캄보디아 국회의 발표에 따르면, 이 요청은 3월 9일 체암 옙 캄보디아 국회 제1부의장과 윤후덕 국회의원이 이끄는 한국 국회 대표단의 프놈펜 회의에서 이루어졌습니다.\n\n체암 옙 의장은 한국 정부에 태국에 대한 잠재적인 전투기 판매 조건을 검토하여 해당 무기가 공격적인 행위에 사용되지 않고 지역 평화에 기여하도록 해달라고 요청했습니다. 그는 캄보디아의 확고한 입장은 태국을 포함한 주변 국가들과 평화로운 관계를 구축하는 것이지만, 캄보디아 영토에 대한 어떠한 공격 행위나 무력 사용도 거부한다고 강조했습니다. 성명은 “이러한 맥락에서 캄보디아는 한국 정부가 태국에 대한 전투기 판매 조건을 신중하게 재고하여 그러한 무기가 공격 도구로 사용되지 않도록 요청합니다”라고 밝혔습니다.\n\n이번 회의는 캄보디아와 한국이 수교 55주년을 기념하는 가운데 열렸으며, 양측은 의회 외교를 강화하고 전략적 파트너십을 심화하기로 약속했습니다. 회담 동안 양측은 인프라, 투자, 노동, 교육 및 디지털 보안 분야에서의 협력과 국경을 넘는 범죄 및 온라인 사기에 대처하기 위한 조치에 대해서도 논의했습니다. 한국 국회의원 윤후덕 의원은...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국과 주변국의 정치적 긴장 가능성을 간접적으로 시사하나, 여행객에게 직접적인 영향은 제한적이라고 판단.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Cambodia asks South Korea to reconsider fighter jet sale to Thailand",
@@ -121,8 +104,135 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/646869302_1474589197365802_8935001377471215808_n.jpg"
         }
       ],
-      "collected_at": "00:39",
+      "collected_at": "0:39",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/646869302_1474589197365802_8935001377471215808_n.jpg",
+      "date": "2026-03-11",
+      "link": "https://www.khaosodenglish.com/news/international/2026/03/10/cambodia-asks-south-korea-to-reconsider-fighter-jet-sale-to-thailand/",
+      "source": ""
+    },
+    {
+      "title": "촌부리 이민국, 파타야에서 무허가 미용 시술을 한 러시아 여성 체포",
+      "summary": "- 촌부리 이민국은 파타야 콘도에서 불법 미용 시술을 운영한 34세 러시아 여성 아나스타샤 틸체바를 체포했습니다.\n- 그녀는 인스타그램을 통해 필러 주입 등의 미용 시술을 홍보하고 고객을 유치했으며, 의료 면허 없이 시술을 제공했습니다.\n- 당국은 그녀에게 유효한 취업 허가 없이 태국에서 일한 혐의, 허가 없이 의료 시설을 운영한 혐의 등 여러 혐의를 적용했습니다.",
+      "full_translated": "촌부리 이민국 경찰 서장 나팟퐁 코싯 수리야마니 대령은 카윈왓 아라야수리웡 부국장과 함께 촌부리 이민국 경찰 수사관인 키티팟 홍추웨이 중위에게 프라 탐낙 5 골목의 콘도 389/1879호를 조사하도록 지시했다고 밝혔습니다. 경찰은 용의자인 34세 러시아 국적의 아나스타샤 틸체바가 인스타그램(IG)에 게시물과 동영상을 통해 주사 및 기타 미용 시술을 포함한 미용 향상 서비스를 홍보해 왔다고 밝혔습니다. 그녀는 동일한 플랫폼을 통해 고객 약속을 잡은 것으로 알려졌습니다. 감시 결과, 경찰은 고객들이 서비스를 받기 위해 해당 유닛에 들어가는 것을 관찰했습니다. 그런 다음 경찰은 건물에 들어가 신분을 밝히고 현장에서 용의자를 체포했습니다. 압수된 증거는 다음과 같습니다. – 주사 바늘 및 주사기 – 필러 – 각종 의료 장비 – 고압 증기 멸균기 – 여러 종류의 약물 및 물질 조사 결과 틸체바는 면허, 취업 허가 또는 허가 없이 이러한 미용 서비스를 제공한 것으로 확인되었습니다. 그녀는 자격을 갖춘 의사가 아닙니다. 당국은 그녀에게 다음과 같은 여러 혐의를 적용했습니다. – 유효한 취업 허가 없이 외국인으로서 태국에서 일함 – 허가 없이 의료 시설 운영 – 면허 있는 의사가 아닌 의료 전문가 사칭 – 허가 없이 의약품 및 의료 기기 판매 – 미등록 유통",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인이 불법 의료 행위를 하는 것은 여행객의 안전에 영향을 줄 수 있으며, 유사한 피해를 예방하기 위해 정보 제공 필요.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Chonburi Immigration Police Arrest Russian Woman for Allegedly Operating Illegal Beauty Clinic in Pattaya",
+          "url": "https://thepattayanews.com/2026/03/11/chonburi-immigration-police-arrest-russian-woman-for-allegedly-operating-illegal-beauty-clinic-in-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731667923677722184042684869225.jpg?v=1773166919"
+        }
+      ],
+      "collected_at": "01:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731667923677722184042684869225.jpg?v=1773166919",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국, 걸프 지역 긴장으로 장거리 여행 감소하며 관광 약화",
+      "summary": "- 태국 관광 산업이 걸프 지역의 긴장으로 인해 장거리 여행객 감소로 어려움을 겪고 있음.\n- TravelMole에 따르면, 태국 관광 시장의 약세가 두드러짐.\n- 자세한 내용은 TravelMole에서 확인할 수 있음.",
+      "full_translated": "태국의 관광 산업은 걸프 지역의 긴장으로 장거리 여행이 줄어들면서 약화되고 있습니다. TravelMole",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광에 대한 간접적인 영향. 현재 상황에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s tourism weakens as Gulf tensions disrupt long-haul travel - TravelMole",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBeERGcGpibDZ5QW42dURJSUMxQmtSaFFuZllKWlZfR09OVlVPeXp3QXRLR2pKS0JoVFVYbXd3U0h1U0g5eE41OF9JYXpuNnNwdmtDRkV4eGZ0ajU1ZlA2cEdYU29waEtSMDltWkdfWWQxWjg?oc=5",
+          "source": "TravelMole",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:36",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 촌부리 람차방 항구, 불법 전자 폐기물 밀수 적발",
+      "summary": "- 태국 정부, 람차방 항구에서 불법 전자 폐기물 밀수 컨테이너 18개 적발.\n- 세관, 특별수사국(DSI), 오염 통제 부서 간 협력으로 국제 범죄 조직 단속.\n- '고철'로 허위 신고된 컨테이너에서 전자 회로 기판 등 유해 폐기물 발견.",
+      "full_translated": "쑤찻 부총리는 람차방 항구에서 의심스러운 컨테이너 18개를 조사하여 불법 전자 폐기물 밀수를 적발했습니다.\n\n이번 작전은 태국으로 유해 폐기물을 밀수하는 초국가적 범죄 조직과 싸우기 위한 세관, 특별수사국(DSI), 오염 통제 부서 간의 팀 노력에서 비롯되었습니다. 당국은 이러한 수입이 태국 법률과 유해 폐기물의 국가 간 이동 통제에 관한 바젤 협약을 위반한다고 설명했습니다. 세관 총국장인 판통 로이사쿠나논 씨는 단속이 전자 폐기물 및 플라스틱 스크랩 밀수 패턴을 밝혀낸 DSI 조사(사건 파일 27/2569)에 따른 것이라고 설명했습니다. 밀수업자들은 조사를 피하기 위해 상품을 \"고철\" 또는 \"고철\"로 허위 신고했습니다. 위험 관리 시스템, 화물 추적 데이터 및 고급 검사 기술을 사용하여 세관 공무원은 위험도가 높은 컨테이너에 플래그를 지정했습니다. 그들은 DSI 조사 및 법적 조치를 지원하기 위해 정보를 제공했습니다. 3월 10일 검사 중 공무원은 18개의 컨테이너를 열어 검사했으며 세 그룹으로 나눴습니다.\n\n– 첫 번째 그룹(12개 컨테이너): 아이티에서 유래한 \"고철\"로 신고되었으며 개인 회사 소유입니다. 검사 결과 전자 회로 기판 및 기타 전자 폐기물 구성 요소로 오염된 혼합 철 스크랩이 발견되었습니다. 총 중량: 약 284,919kg, 추정 가치는 253만 바트가 넘습니다.\n\n– 두 번째 그룹(4개 컨테이너): 유해 폐기물 이동을 감시하는 국제 감시 단체인 DSI 및 바젤 행동 네트워크(BAN)의 정보에 따라 식별되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 환경 및 법규 관련 정보로서 인지 필요. 항구를 통해 입국하는 여행객에게는 간접적인 영향 가능.",
+      "event_info": {
+        "date": null,
+        "location": "Laem Chabang Port, Chonburi",
+        "price": null,
+        "location_google_map_query": "Laem Chabang Port, Chonburi"
+      },
+      "references": [
+        {
+          "title": "Deputy PM “Suchart” Inspects 18 Suspect Containers at Laem Chabang Port, Uncovers Illegal Electronic Waste Smuggling",
+          "url": "https://thepattayanews.com/2026/03/11/deputy-pm-suchart-inspects-18-suspect-containers-at-laem-chabang-port-uncovers-illegal-electronic-waste-smuggling/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731664166671642814996092672350.jpg?v=1773166463"
+        }
+      ],
+      "collected_at": "01:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731664166671642814996092672350.jpg?v=1773166463",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "파타야 맛집 탐방: 팻 토니 피자 솔직 후기",
+      "summary": "- 파타야의 팻 토니 피자에 대한 게스트 리뷰 기사\n- 훌륭한 피자의 세 가지 요소: 잘 구워진 도우, 푸짐한 토핑, 토핑의 품질\n- 팻 토니 피자는 기대 이상이었으며, 특히 치즈 양이 인상적",
+      "full_translated": "게스트 기고가 Andy Salthouse의 리뷰입니다. 이 글은 유료 또는 스폰서 게시물이 아닌 독자 제출입니다. 사진은 그의 것이며 AI로 과도하게 보정되지 않았지만 그의 긍정적인 경험을 반영합니다. 그는 이전에 Honey Pizza와 같은 다른 리뷰를 몇 개 작성했습니다. 그는 파타야에서 많은 새로운 피자 가게를 시도하고 있습니다. 저는 피자에 대해 꽤 까다로운 편이며, 수년 동안 세 가지 요소가 피자를 진정으로 훌륭하게 만드는 데 결정적인 역할을 한다고 믿게 되었습니다. 첫 번째이자 가장 중요한 요소는 도우입니다. 저에게 이상적인 도우는 밑면이 잘 구워져야 하고, 안쪽은 약간 스펀지 같은 질감이어야 하며, 가장자리는 적당히 바삭해야 합니다. 이러한 균형은 일반적으로 적절한 오븐에서만 달성할 수 있습니다. 열이 무겁거나 반죽 같은 도우가 아닌 가볍고 통풍이 잘 되며 완벽하게 구조화된 도우를 만들 수 있기 때문입니다. 두 번째 필수 요소는 푸짐한 토핑이고, 세 번째는 토핑의 품질입니다. 훌륭한 피자는 단순히 재료를 쌓아 올리는 것이 아니라 모든 한 입에 올바른 맛과 질감이 조화를 이루도록 균형을 맞춥니다. 오늘 저는 파타야의 팻 토니에서 피자를 테이크 아웃으로 주문했는데, 기대 이상이었습니다. 실제로 예정된 시간보다 약 30분 일찍 도착했고 상태도 훌륭했습니다. 파타야에 살거나 정기적으로 방문하는 사람은 치즈가 여기에서 놀라울 정도로 비쌀 수 있다는 것을 알고 있으므로 그들이 사용한 푸짐한 양에 진심으로 감명을 받았습니다. 토핑은 피자 전체에 걸쳐 균형이 잘 잡혀 있었고 맛도 환상적이었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "파타야 방문객에게 유용한 레스토랑 정보 제공. 새로운 맛집 정보 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": "Fat Tony's Pizza, Pattaya",
+        "price": null,
+        "location_google_map_query": "Fat Tony's Pizza Pattaya"
+      },
+      "references": [
+        {
+          "title": "Pizza in Pattaya: A Guest Review of Fat Tony’s Pizza",
+          "url": "https://thepattayanews.com/2026/03/11/pizza-in-pattaya-a-guest-review-of-fat-tonys-pizza/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731630345494454428319892722413.jpg?v=1773163440"
+        }
+      ],
+      "collected_at": "01:36",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17731630345494454428319892722413.jpg?v=1773163440",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "이란 여자 축구팀, 추가 2명 망명 신청, 나머지 선수들은 호주 출국",
+      "summary": "- 이란 여자 축구 국가대표팀 선수 2명이 호주에 망명 신청.\n- 이란 선수단은 아시아컵 참가 후 귀국 시 안전 문제 우려.\n- 앞서 5명의 선수에게 인도주의 비자가 발급됨.",
+      "full_translated": "이란 여자 축구 국가대표팀 선수들이 호주에서 망명을 추가로 신청했다. 앞서 5명의 축구 선수가 인도주의 비자를 받은 후 나온 조치다. 이들은 이란으로 돌아갈 경우 안전을 우려하고 있다. 3월 10일 화요일 아침, 앤서니 앨버니지 호주 총리는 이란 여자 축구 국가대표 선수 5명에게 인도주의 비자가 승인되었다고 확인했다. 이는 그들이 이란으로 돌아갈 경우 안전에 대한 우려가 제기된 데 따른 것이다. 최근 CNN은 소식통을 인용해 선수 1명과 팀 관계자 1명으로 구성된 이란 여자 축구팀의 2명의 추가 구성원이 호주에 망명 신청을 했다고 보도했다. 동시에 나머지 팀 구성원은 이란으로 돌아가기 위해 호주를 떠난 것으로 추정된다. 그러나 그들이 어떤 경로를 이용할지, 언제 목적지에 도착할지는 확실하지 않다. 앞서 이란 여자 축구 국가대표팀은 여자 아시안컵에 참가하기 위해 호주에 도착했지만, 지난주 첫 경기 전에 팀원들이 국가를 부르지 않고 '침묵 시위'를 벌인 후 귀국 시 안전에 대한 우려가 커지기 시작했다. 축구팀은 그 이유를 설명하지 않았지만, 이란의 급진적인 종교 단체는 이를 국가에 대한 배신 행위로 해석했으며, 이는 중형에 해당한다. CNN 스포츠에 따르면 선수들은 지난 목요일 (3월 5일) 두 번째 경기 전에 국가를 부르도록 강요받았으며, 일요일 (3월 8일) 필리핀에 2-0으로 패하기 전에도 국가를 부르고 군대식 경례를 했다. ... 마지막 경기 후...",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행과는 직접적인 관련은 없지만, 국제적인 정치적 상황에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทีมฟุตบอลหญิงอิหร่าน ขอลี้ภัยเพิ่มอีก 2 คน ที่เหลือออกจากออสเตรเลียแล้ว",
+          "url": "https://www.thairath.co.th/news/foreign/2919201",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApsWmqtb1kjo.jpg"
+        }
+      ],
+      "collected_at": "01:36",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApsWmqtb1kjo.jpg",
       "date": "2026-03-11"
     }
   ]
