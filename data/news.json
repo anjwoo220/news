@@ -423,14 +423,9 @@
       "summary": "- 중동 분쟁으로 인해 태국 관광 산업 회복이 지연되고 있음.\n- 7백만 명의 관광객 유치에도 불구하고 어려움 지속.\n- 자세한 내용은 Nation Thailand에서 확인 가능.",
       "full_translated": "Nation Thailand에 따르면 중동 분쟁으로 인해 7백만 명의 관광객 유치에도 불구하고 태국 관광 회복이 지연되고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 분쟁이 태국 관광 산업에 미치는 영향에 대한 정보. 관광객 수 변화 추이를 파악하는 데 도움이 될 수 있으므로.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Middle East Conflict Stalls Thai Tourism Recovery Despite Seven-Million Milestone - Nation Thailand",
@@ -439,23 +434,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TMWdHSHNiU0dvdlEzTlROOVNBWFhTd2FrRzRTdW1nR0tPemthajZsMk00YW8tdDIyZWlwYUozbmpLZ3lEMVl0clA2aHRlRkNKd202RWs0bXNyLUFwMk1hRWJR?oc=5",
+      "source": ""
     },
     {
       "title": "태국, '힐링은 새로운 럭셔리' 경험을 통해 건강 및 웰니스 관광 재정의 - TAT 뉴스룸",
       "summary": "- 태국 관광청(TAT)은 '힐링은 새로운 럭셔리'라는 컨셉으로 건강 및 웰니스 관광을 재정의합니다.\n- 이 이니셔티브는 태국을 단순한 휴양지가 아닌 건강과 웰빙을 위한 목적지로 강조합니다.\n- TAT는 다양한 웰니스 경험을 통해 고품질 관광을 촉진하고자 합니다.",
       "full_translated": "태국은 “힐링은 새로운 럭셔리” 경험을 통해 건강 및 웰니스 관광을 재정의합니다. 태국 관광청 뉴스룸",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광청의 새로운 관광 컨셉 홍보 관련 기사로, 여행객들에게 웰니스 관광 정보를 제공합니다.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand redefines health and wellness tourism through “Healing is the New Luxury” experiences - TAT Newsroom",
@@ -464,23 +456,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVkJfTUEtMENZRUEzU01YNWp3VEI3MlAtR3NDOVVkY2ItZmJ2RU9QdzRNUnRxejBJaEZpa2FoOWhpRXRRWkVKM2sxQ2E0NVo0UnR0NzBYQlVWSW5MQ3VxZV9MM0lXRy1lTlJBR1ZMc0NDeHlKUjRpWHgtbExteGQwbm9adzY4SG1YazcwZm1qUkRsRVJESkdxVUNyRndzeVdZN09yWVZlZTAyTzdOZFEyMUx5cVNWOHM0R1VFclVPazJwbTg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 내 러시아인 관광객 약 1만 명 체류 중 - Ореанда-Новости",
       "summary": "- 현재 태국에는 약 1만 명의 러시아인 관광객이 체류 중인 것으로 추정됨.\n- 이는 태국 관광 산업에 중요한 영향을 미칠 수 있음.\n- 자세한 내용은 Ореанда-Новости에서 확인할 수 있음.",
       "full_translated": "현재 태국에는 약 1만 명의 러시아인 관광객이 있는 것으로 추정됩니다. Ореанда-Новости",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "러시아인 관광객 규모에 대한 정보는 여행객 구성 변화를 파악하는 데 도움이 되므로 중간 정도의 중요도를 가짐.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "There may be about 10 thousand Russian tourists in Thailand now - Ореанда-Новости",
@@ -489,23 +478,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcmdDWGlrcjhpYjFMUmNaMEppMTRoZ2V6SUtRajNpV0ROSjBaN29UR3BhWHRKOWhYUkgwNVR3cGFPWkxlQi1XN0FFRC02TGtiN294bkNXb0xIeTVDNVVienJmaGdudTkyQ3ZCZmFCR1huR2NrMHVJekhhQlNTamVGQXRDVTF5Tkg4YkZUWTlMZlJReUZpZThmTDBZU09BOHNGU3I5MmpJQi1kb2prb19RVmgtRm5xeGEzWmpCNVBWMjg?oc=5",
+      "source": ""
     },
     {
       "title": "파타야 크리켓 클럽, 뮤턴트 크리켓 클럽에 아쉬운 패배",
       "summary": "- 파타야 크리켓 클럽(PCC)이 뮤턴트 크리켓 클럽과의 경기에서 5점 차이로 아쉽게 패배했습니다.\n- 앤드레 휴먼의 49점 분전에도 불구하고, PCC는 27개의 와이드를 포함한 31개의 엑스트라 점수를 허용했습니다.\n- 뮤턴트의 뛰어난 위켓 사이 주루 플레이가 승패를 갈랐습니다.",
       "full_translated": "파타야 크리켓 클럽은 뮤턴트 크리켓 클럽과의 경기에서 또다시 아쉬운 패배를 겪었습니다. PCC가 승리할 좋은 기회를 가졌던 이날 경기는 밝고 화창하며 바람이 없는 아침에 펼쳐졌습니다. 앤드레 휴먼이 49점을 기록하며 분전했지만, 5점 차이로 패배하는 스릴 넘치는 마무리였습니다. 이 경기는 뮤턴트의 뛰어난 위켓 사이 주루 플레이와 PCC 투수진의 너무 많은 엑스트라 점수(27개의 와이드 포함 31점)라는 두 가지 주요 특징에 달려 있었습니다. 앤디 에머리는 토스에서 졌고 바비 라이나는 타격을 결정했습니다. 바비는 앤드레와 반대편의 앤디를 상대로 아시르바드 나라완과 함께 시작했습니다. 깔끔하고 정확한 볼링은 좋은 주루 플레이로 상쇄되어 5오버에 27대 0으로 균등한 출발을 보였습니다. 앤디 에머리는 6번째 오버에서 바비가 엑스트라 커버에서 마이크 게리츠에게 볼을 쳐 11점으로 아웃되면서 32대 1이 되었습니다. 나이틱 메와다는 투수 교체에 직면했고 사디시 시바지와 해리 아처가 볼링을 맡았습니다. 아담 히치콧은 사디시로부터 키퍼 장갑을 넘겨받았습니다. 사미는 아시르바드를 거의 잡을 뻔했지만 공에 닿지 못했습니다. 사디시는 나이틱에게 얻어맞았고 빠르게 아디티야 고사비로 교체되었습니다. 뮤턴트는 페이스를 올려 10오버에 77대 1에 도달했습니다. 아디티야는 스트레이트 볼링에 문제가 있었지만 여전히 미드온에서 해리에게 나이틱을 잡히게 하여 20점을 얻어 80점이 되었습니다. 수브라토가 필드에 나와 경기 첫 6점을 얻었지만 딥 미드위켓에서 캡틴 버터핑거스가 캐치를 잡고 13번째 오버에서 95대 3으로 11점을 얻어 오래가지 못했습니다. 음료는 15번째 동안 일찍 가져갔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "크리켓 경기 결과는 일반적인 여행 정보와 거리가 멀어 낮은 점수를 부여합니다. 다만, 스포츠 팬에게는 소소한 정보가 될 수 있습니다.",
-      "event_info": {
-        "date": null,
-        "location": "파타야",
-        "price": null,
-        "location_google_map_query": "파타야 크리켓 경기장"
-      },
+      "event_info": "{'date': None, 'location': '파타야', 'price': None, 'location_google_map_query': '파타야 크리켓 경기장'}",
       "references": [
         {
           "title": "Pattaya Cricket Club suffers another narrow defeat to Mutants Cricket Club",
@@ -514,8 +500,110 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_06446047403974208491617.jpg?v=1773123271"
         }
       ],
-      "collected_at": "03:56",
+      "collected_at": "3:56",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_06446047403974208491617.jpg?v=1773123271",
+      "date": "2026-03-11",
+      "link": "https://thepattayanews.com/2026/03/10/pattaya-cricket-club-suffers-another-narrow-defeat-to-mutants-cricket-club/",
+      "source": ""
+    },
+    {
+      "title": "방콕 룸피니 공원, '원피스' 테마파크로 변신: 팬과 관광객에게 필수 코스",
+      "summary": "- 룸피니 공원이 인기 만화 '원피스'를 테마로 한 특별 행사 개최.\n- 'GRAND LINE IN THAILAND'는 팬과 관광객 모두에게 특별한 경험을 선사.\n- 방콕의 새로운 명소로 떠오를 것으로 기대.",
+      "full_translated": "방콕의 룸피니 공원이 '원피스' 테마파크로 변신합니다. 'GRAND LINE IN THAILAND'는 팬과 관광객 모두에게 잊을 수 없는 경험을 선사할 것입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "인기있는 만화 테마의 이벤트로, 룸피니 공원을 방문할 관광객에게 흥미로운 볼거리를 제공합니다. 이벤트 정보가 부족하여 6점 부여.",
+      "event_info": {
+        "date": null,
+        "location": "룸피니 공원",
+        "price": "미정",
+        "location_google_map_query": "룸피니 공원 방콕"
+      },
+      "references": [
+        {
+          "title": "Bangkok’s Lumpini Park Transforms into One Piece Paradise with GRAND LINE IN THAILAND – A Must-See Experience for Fans and Tourists - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNUlCY3ZuS1hteURGMHRhMS1YUGNtYU15NFBjcjExWno1bS1pSVFkOUtuOXZ4QkFVcjhINE83ZmxjQzJKR3hWYnhYU1ZHVEYxb1BPM25rMFI1UEZXY01TVUZRaldhV0YwYnN3UXpTaHRxZ1pvamZTMWtXZGotZFROMER2bkgwSWh3TExHTVpmNTE2VkdlOGVYS3EzcENDUXduekh4a20zdjRlc2p5OTRlM2VFdEJlT1pFQVBtLXBFcWR5UHBIYXl6Y29CcWV0N3NBcVV2bWpPOFV4UW1YZ3pKX2Z4VkZ3MF9xSHZnczdkdWdiS05ZcFR2VWVwSzFoTjRKdnNCVTJwMnU?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 관광청, 넷플릭스, 방콕시, '원피스' 룸피니 공원 이벤트 공동 개최",
+      "summary": "- 태국 관광청(TAT)이 넷플릭스, 방콕시와 협력하여 룸피니 공원에서 'GRAND LINE IN THAILAND' 원피스 이벤트를 개최합니다.\n- 인기 애니메이션 '원피스'를 테마로 한 이번 행사는 태국 관광 활성화에 기여할 것으로 기대됩니다.\n- 자세한 내용은 TAT 뉴스룸에서 확인할 수 있습니다.",
+      "full_translated": "태국 관광청(TAT)이 넷플릭스, 방콕시와 협력하여 룸피니 공원에서 'GRAND LINE IN THAILAND' 원피스 이벤트를 개최합니다. 이번 행사는 인기 애니메이션 '원피스'를 테마로 하며, 룸피니 공원에서 진행됩니다. 태국 관광청은 이번 이벤트가 태국 관광 활성화에 크게 기여할 것으로 기대하고 있습니다. 자세한 내용은 TAT 뉴스룸에서 확인할 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "인기 애니메이션 기반 이벤트로, 룸피니 공원을 방문하는 여행객들에게 새로운 볼거리를 제공할 수 있습니다. 특별한 안전 관련 이슈는 없으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "룸피니 공원, 방콕",
+        "price": "미정",
+        "location_google_map_query": "룸피니 공원 방콕"
+      },
+      "references": [
+        {
+          "title": "TAT joins Netflix and Bangkok in bringing One Piece to Lumpini Park with GRAND LINE IN THAILAND - TAT Newsroom",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0hmTk9oYkZ6SGdXQWNaVGtwNGVIWnItYmt1TUIwS0lqWTRBMGVhV2FIVGNaanpvdFM2aFQ4X0lkYkdLclk4cGw2enhpdlFwNFV5WHNtTHBjdkF3YVVSQ1VOMGFURzNJVWhCTnVrWkVhWmlMYlRKMzJFeGJ3SDNrajFaa21FYVBMMF9tb0VHbWZBdnZsSlJJRThMZmxYQ2l2R19hTnE4eEJudjhWRmotUGNOY0dYdXZHNTg0Qjh2d0JRSVdYUGl3?oc=5",
+          "source": "TAT Newsroom",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 관광, 중동 분쟁 속 회복세…중국, 말레이시아, 독일, 영국, 프랑스, 러시아, 이스라엘 관광객 동향",
+      "summary": "- 태국 관광 산업은 중동 지역의 갈등에도 불구하고 회복세를 보이고 있음.\n- 중국, 말레이시아, 독일, 영국, 프랑스, 러시아, 이스라엘 등 다양한 국가에서 관광객 유입이 활발함.\n- 여행객들은 이러한 요소들을 고려하여 태국 여행 계획을 세워야 함.",
+      "full_translated": "태국 관광은 중동 분쟁과 중국, 말레이시아, 독일, 영국, 프랑스, 러시아 및 이스라엘의 방문객 트렌드 속에서 회복되고 있습니다. 여행자가 알아야 할 모든 것 - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업 전반에 대한 내용으로, 여행객들의 방문 현황 및 추세에 대한 정보를 제공하여 여행 계획에 참고할 수 있도록 함. 중동 분쟁이 관광에 미치는 영향에 대한 정보도 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Tourism Recovery Amid Middle East Conflicts and Visitor Trends from China, Malaysia, Germany, UK, France, Russia, and Israel – Everything Travelers Should Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMmNScG1YcklUUGxpNlNHM2hXaExLalJsUmVKSE5aZU5GY2xucVY1NzRyNThuSXYyMUpCa3FuMlNveVlxREtNdUxfcEFpR2YyclY2d0NFS0tqUHl5UWR0VExMdmYtRXpYdS1ibVdNN1NCSmhYWlVtUEFNLVFIdlFKQ1VlbDZyZGtYN2ttVHpqbnVxb1NHX3pUTWVicUJpNGpMUjZYM3YyaFNpcGpPVlVuSjlmdHU4amJmMUdOU1R0bnAtRk5xcWhLbWVfeURCMFNVYjlrNm5pdG8wYWMtbVRRRDgwcVFydU9YZlFpUVZaNnRZVnp6WndPNGVDdmJDWW5tU29aYmp6RTlZUU1tY3lpZEFjT3JFRkhsUHExZ3BXT0k4NExLQ2JXNEZhV0RnbzlyRlZINA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 여행사, 장거리 시장 회복에 비관적 - 방콕 포스트",
+      "summary": "- 태국 여행사들은 장거리 여행 시장의 회복에 대해 비관적인 전망을 내놓고 있음.\n- 걸프 지역의 긴장으로 인해 장거리 여행이 감소하면서 태국 관광 산업이 약화되고 있음.\n- 구체적인 해결책이나 긍정적인 전망은 제시되지 않음.",
+      "full_translated": "태국 여행사, 장거리 시장 회복에 비관적 - 방콕 포스트",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광 산업에 대한 전반적인 분위기를 보여주지만, 여행 자체에 즉각적인 영향을 미치지는 않음. 여행 심리에 영향을 줄 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai travel agents pessimistic about long-haul rmarket recovery - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmpyQl8tVm80cnNRd3RBQ2owRnZGSlVpSjRHRklhN2N6Ri1vbjdUN2tmTGw1SG41NW1wR3F6VXJRZFFGaVItc21QTkJxdmJWM0I1NDU0ZHh0SzZNTnhpVU5vaDFhRlNjOXMwU0xLM2dsa3djbzBGc09pckxmT2ZaQnpOYnVIMUpFSFNQZXR0U2FlVC1xTkowVTJKR0M1b2NQQTl5d0NpVHV5ZjNCa0RRWllwaXEyUQ?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:24",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-11"
     }
   ]
