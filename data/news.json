@@ -28284,14 +28284,9 @@
       "summary": "- Travel And Tour World에서 2026년 태국을 아시아 최고의 미식 여행지로 소개합니다.\n- 태국의 다양한 음식 문화와 여행 정보를 제공합니다.\n- 2026년 여행 계획에 참고할 만한 유용한 가이드입니다.",
       "full_translated": "Travel And Tour World에서 2026년 아시아 최고의 음식 여행지로 태국을 소개합니다. 태국의 다채로운 음식과 문화를 경험할 수 있는 완벽한 가이드입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행을 계획하는 여행자들에게 유용한 정보 제공. 2026년이라는 시점은 다소 멀지만, 미리 계획하는 여행자에게는 도움이 될 수 있음.",
-      "event_info": {
-        "date": "2026",
-        "location": "태국 전역",
-        "price": "개별 여행 계획에 따라 다름",
-        "location_google_map_query": "태국 맛집"
-      },
+      "event_info": "{'date': '2026', 'location': '태국 전역', 'price': '개별 여행 계획에 따라 다름', 'location_google_map_query': '태국 맛집'}",
       "references": [
         {
           "title": "Discover Thailand Through Taste: A Complete Guide to Asia’s Hottest Foodie Travel Destination in 2026 - Travel And Tour World",
@@ -28300,23 +28295,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdDJZaWZNd1RJNHJ0MHdSSDZucGFNNVBFTFdzX1ltdHdiTHJTajdPWjdFbF8ybmdlYmZJQ214XzRqQUlRaUxTa2xqMnMzODlLSnA1UDJlbTdIRnlNUTVKWFQ5Z2MyVzJvTHV1OUlWR19Vb0xBa3pkem9uYVlsTDgybE9sd0I2OTZra2ZHSmJ6b0diVjk0enhqaEViZ2Y2ZlZQcXNpajdDVVFfR1NVOVlrMnhoaERsSG5xVVozRWZ5UHdWdHczTTdUd0wzWFZJVHRIRjV5bGZaNDZXUmRVSXhzUzhR?oc=5",
+      "source": ""
     },
     {
       "title": "ThaiHealth, 오염 피해 마을 조사",
       "summary": "- ThaiHealth 재단 팀이 Kok 강을 따라 심각한 중금속 오염에 대한 우려 속에 강변 지역 사회를 조사했습니다.\n- 이번 방문은 지역사회 및 산악 지역 개발 재단(CMD)이 주관했으며, ThaiHealth 임원, 직원 및 환경 및 건강 운영 위원회 위원 18명이 Kwa Wua Dam 마을을 방문했습니다.\n- 주민들은 미얀마 샨 주의 희토류 및 금 채굴 작업으로 인한 오염으로 믿고 있으며, 당국이 거의 1년 전에 강에서 과도한 수준의 중금속을 처음 감지한 이후로 건강 문제에 대한 보고가 있었습니다.",
       "full_translated": "ThaiHealth, 오염 피해 마을 조사\n\n게시일: 2026년 3월 10일 05:39\n신문 섹션: 뉴스\n작가: Panumate Tanraksa\n\n치앙라이: Thai Health Promotion Foundation(ThaiHealth) 팀이 일요일 Kok 강을 따라 심각한 중금속 오염에 대한 우려가 커지는 가운데 강변 지역 사회를 조사했습니다. Community and Mountain Area Development Foundation(CMD)이 주관한 이번 방문에는 ThaiHealth 임원, 직원 및 환경 및 건강 운영 위원회 위원 18명이 Muang 지역의 Mae Yao 하위 지역에 있는 Kwa Wua Dam 마을을 방문했습니다. Kok 강을 따라 위치한 이 마을은 주민들이 미얀마 샨 주의 상류에서 희토류 및 금 채굴 작업으로 인해 발생한 오염이라고 믿는 오염과 씨름하고 있습니다. 마을 주민들은 당국이 거의 1년 전에 강에서 과도한 수준의 중금속을 처음 감지한 이후로 국경 간 오염, 지역 사회 적응 노력 및 건강 문제에 대해 대표단에 브리핑했습니다. 오염 통제 부서 산하 치앙마이 환경 및 오염 통제 지역 사무소에서 실시한 검사 결과 물에서 중금속 수치가 상승한 것으로 나타났습니다. Kwa Wua Dam 마을의 Sompong Panasangwong 촌장은 3,000라이 이상의 유역 숲을 오랫동안 보호해 온 카렌족 공동체는 더 이상 Kok 강에 의존할 수 없다고 말했습니다. 주민들은 현재 산 개울과 샘에서 공급되는 파이프 물 시스템에 주로 의존하고 있으며, 특히 건기가 다가옴에 따라 충분하지 않다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객의 건강과 관련된 환경 문제에 대한 정보 제공. 오염 문제가 있는 지역 방문 시 주의를 요함.",
-      "event_info": {
-        "date": null,
-        "location": "Kwa Wua Dam village, Chiang Rai",
-        "price": null,
-        "location_google_map_query": "Kwa Wua Dam village, Chiang Rai"
-      },
+      "event_info": "{'date': None, 'location': 'Kwa Wua Dam village, Chiang Rai', 'price': None, 'location_google_map_query': 'Kwa Wua Dam village, Chiang Rai'}",
       "references": [
         {
           "title": "ThaiHealth inspects pollution-hit village",
@@ -28325,23 +28317,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213463_260310060041_700.jpg"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
       "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213463_260310060041_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/general/3213463/thaihealth-inspects-pollutionhit-village",
+      "source": ""
     },
     {
       "title": "탁신, 수감 6개월 맞아; 지지자들 석방 기대",
       "summary": "- 탁신 친나왓 전 총리가 수감 6개월을 맞이하여 가족들이 클롱프렘 중앙 교도소를 방문함.\n- 5월 11일 가석방 가능성이 제기되는 가운데, 탁신 지지자들은 대규모 집회를 계획하고 있음.\n- 지지자들은 5월 10일부터 교도소 밖에서 철야 집회를 열어 석방을 기다릴 예정.",
       "full_translated": "탁신 친나왓 전 총리의 친척들이 월요일 클롱프렘 중앙 교도소를 방문하여 그가 수감된 지 6개월이 되었습니다. 한편, 레드셔츠 지지자들은 5월 11일에 예상되는 가석방을 앞두고 대규모 집회를 계획하고 있습니다.\n\n탁신의 장남인 판통태와 그의 아내, 그리고 그의 여동생인 핀통타와 그녀의 남편, 그리고 탁신의 변호사인 위냣 찻몬트리가 도착했습니다. 탁신이 형기를 마치기 위해 감옥으로 돌아온 이후 46번째 방문입니다.\n\n레드셔츠 지지자인 푸사디 클린통은 예상되는 석방 날짜가 다가옴에 따라 탁신 지지자들 사이에서 흥분이 고조되고 있다고 말했습니다. 그녀는 레드셔츠가 그가 복역을 시작한 이후 클롱프렘 중앙 교도소 밖에서 24번의 집회를 열었다고 말했습니다.\n\n푸사디는 5월 9일까지 탁신이 형기의 3분의 2인 8개월을 복역하게 되어 가석방 자격이 주어질 것이라고 말했습니다. 가석방 절차는 5월 10일에 예상되며, 그의 석방은 다음 날 오전 8시에 예정되어 있습니다. 지지자들은 5월 10일에 교도소 밖에서 집회를 열어 오후 2시에 시작하여 5월 11일 아침까지 밤새도록 계속될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "탁신 전 총리의 석방 관련 집회는 정치적 성격이 강하지만, 대규모 집회로 인해 교통 혼잡 등이 발생할 수 있어 여행자에게 어느 정도 영향을 줄 수 있다고 판단.",
-      "event_info": {
-        "date": "2026-05-10",
-        "location": "Klongprem Central Prison, Bangkok",
-        "price": "무료",
-        "location_google_map_query": "Klongprem Central Prison Bangkok"
-      },
+      "event_info": "{'date': '2026-05-10', 'location': 'Klongprem Central Prison, Bangkok', 'price': '무료', 'location_google_map_query': 'Klongprem Central Prison Bangkok'}",
       "references": [
         {
           "title": "Thaksin marks sixth month behind bars",
@@ -28350,23 +28339,20 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213433_260310061923_700.jpg"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
       "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213433_260310061923_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/politics/3213433/thaksin-marks-sixth-month-behind-bars",
+      "source": ""
     },
     {
       "title": "태국 정부, 허위 보도에 대한 우려 표명",
       "summary": "- 태국-캄보디아 국경 상황 관련 허위 또는 왜곡된 보도 확산에 대한 우려 제기.\n- 당국은 국경 관련 상황을 면밀히 주시하고 있으며, 정보 확인 후 공식 발표.\n- 양국은 국경 관련 공동 성명을 준수해야 하며, 추가 논의는 태국-캄보디아 공동 경계 위원회(JBC) 틀 내에서 이루어져야 함.",
       "full_translated": "태국-캄보디아 상황에 관한 합동 정보 센터는 월요일 국경을 따라 긴장을 고조시킬 수 있는 허위 또는 왜곡된 보고서의 확산에 대한 우려를 표명했습니다. 공군 차장인 ACM Prapas Sonjaidee는 센터장 자격으로 당국이 국경 관련 상황 전개를 면밀히 주시하고 있다고 말하면서, 관계자들이 항상 정보를 신중하게 확인한 후에 공식 발표를 한다고 덧붙였습니다. ACM Prapas는 센터의 역할은 오해를 방지하고 양국 간의 불필요한 긴장 고조를 피하기 위해 사실을 제시하는 것이라고 말했습니다. ACM Prapas는 또한 센터가 국경 관련 보고서를 확인하기 위해 캄보디아 당국과 정기적인 소통을 유지하고 있지만, 여러 가지 제약으로 인해 부정확한 정보가 여전히 유통될 수 있다고 인정했습니다. 훈 마넷 캄보디아 총리의 분쟁 지역에 대한 협상이 송크란 휴일 이후에 열릴 수 있다는 발언에 대해 ACM Prapas는 양측이 작년 12월 27일에 발표된 공동 성명을 준수해야 하며, 이는 국경을 따라 현재 입장을 유지하도록 요구한다고 말했습니다. 추가 논의는 새로운 정부가 구성된 후, 아마도 4월에 소집될 수 있는 태국-캄보디아 공동 경계 위원회(JBC) 틀 내에서 이루어져야 할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국경 긴장 관련 뉴스는 여행에 직접적인 위협은 아니지만 잠재적 불안 요소를 내포하고 있어 정보 제공. 허위 정보에 대한 정부의 우려 표명은 상황을 주시해야 할 필요성을 강조.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Govt voices alarm over false reports",
@@ -28375,23 +28361,20 @@
           "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
       "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/general/3213343/govt-voices-alarm-over-false-reports",
+      "source": ""
     },
     {
       "title": "태국, 밀라노 패션 위크 2026에서 SIRIVANNAVARI 가을-겨울 컬렉션으로 빛나다",
       "summary": "- 태국이 밀라노 패션 위크 2026에서 SIRIVANNAVARI 가을-겨울 컬렉션을 선보이며 문화유산의 성장과 관광 자산을 강조했습니다.\n- Kew Mae Pan Trail에서 영감을 받은 이번 컬렉션은 태국의 아름다움을 세계에 알리는 데 기여합니다.\n- 이번 참가는 태국 관광 산업의 중요한 이정표가 될 것으로 기대됩니다.",
       "full_translated": "태국이 밀라노 패션 위크 2026에서 SIRIVANNAVARI 가을-겨울 컬렉션을 통해 빛을 발하며, Kew Mae Pan Trail에서 영감을 받은 문화 유산의 성장과 관광 자산을 선보입니다. Travel And Tour World",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "밀라노 패션 위크 참가 소식은 태국 문화와 관광 자산을 홍보하는 데 기여하지만, 여행객에게 직접적인 영향을 미치는 정보는 아니므로 중간 점수를 부여합니다.",
-      "event_info": {
-        "date": "2026-02-24",
-        "location": "Milan",
-        "price": "Unknown",
-        "location_google_map_query": "Milan Fashion Week"
-      },
+      "event_info": "{'date': '2026-02-24', 'location': 'Milan', 'price': 'Unknown', 'location_google_map_query': 'Milan Fashion Week'}",
       "references": [
         {
           "title": "Thailand Shines at Milan Fashion Week 2026 with SIRIVANNAVARI Autumn-Winter Collection, Showcasing Cultural Heritage Growth and Tourism Assets Inspired by Kew Mae Pan Trail - Travel And Tour World",
@@ -28399,7 +28382,135 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
+      "image_url": "",
+      "date": "2026-03-10",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNSXRSa1o3ZTd3N0tIeDlqdGdfd3RlUW5CLUdqLUZDQTZyMjQzMG1YYnhGZzFvX2JmS3k3QmxzWl9MWENQR2VJdXZSUkx2MmpidUhIdzNodllpNUpSN1VXSEFXR0hxa2FXZUdMVEVlWVVDX2Q5T0Q3SElmVFp1T09GN0doZnhpei1KZjlUbWJmYV8xWU9oa3ZfSjM3ZUY0T1NZYlUzVDRoWFloRVZIYmpZUjV5RmZqd1BvNmxmQWlpeTNPVUpoSGhTdFlueXlYcGRhSkNZN1VvaGZKQ1M0ejVTdWlGalZwYm5oeFFfIXZoT1FYWmJqY3gtX2J3RXZ0UnJodmcybnZadWZqb3RUMXFfOHYwclBiQ1AybXhfODVpbnJMcEV0T1lPZi1DUEpKa2NjTW9YU2hMQkkwMDlISTFKdDJ3?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국 관광, 중동 전쟁의 영향에 대비",
+      "summary": "- 중동 분쟁으로 인해 항공편 차질 및 수요 변화 예상.\n- 지정학적 갈등 속 안전한 피난처를 찾는 외국인 유입 증가 전망.\n- 연료 가격 상승으로 항공료 인상 및 장거리 노선에 영향.",
+      "full_translated": "태국 관광 산업은 몇 년 전 러시아-우크라이나 전쟁 당시 경험했던 것과 유사하게 지정학적 갈등이 심화되는 가운데 안전한 피난처를 찾는 외국인 유입 증가에 대비해야 합니다. 당시 러시아인 입국자 수는 2024년에 174만 명으로 증가하여 관광 도시의 부동산 시장에 큰 영향을 미쳤습니다.\n\n태국 산업단지공단 의장인 유타삭 수파손은 현재 중동 분쟁으로 인해 관광 산업은 러시아-우크라이나 전쟁을 상기하게 되었으며, 단기적으로는 연료 가격에 영향을 미치고 결과적으로 국제 항공료에 영향을 미쳐 장거리 시장이 감소할 것이라고 말했습니다. 그는 유럽과 아시아를 운항하는 항공사는 연료 소비가 평균 14.8% 증가한 반면, 북미와 아시아 간 항공편은 러시아 영공 폐쇄 및 이후 경로 변경으로 인해 9.8% 증가했다고 밝혔습니다. 이러한 상황은 2022년 배럴당 150달러로 정점을 찍은 항공유 가격으로 인해 더욱 악화되었습니다. 그는 동유럽 전쟁이 항공의 장기적인 비용 구조에 영향을 미쳤지만, 중동 분쟁은 대신 지역 항공편 일정에 즉각적인 차질을 초래했다고 말했습니다. 공습으로 인해 여러 중동 국가에서 주기적인 비상 영공 폐쇄가 발생했습니다. 에미레이트 항공, 에티하드 항공, 카타르 항공을 포함하여 유럽, 중동 및 태국 간 주요 연결 역할을 하는 주요 항공사",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁으로 인한 항공편 변동 및 잠재적 관광객 유입 변화 가능성. 연료 가격 상승으로 인한 항공료 인상 가능성도 여행객에게 중요한 정보임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism braces for impact of Mideast war",
+          "url": "https://www.bangkokpost.com/business/general/3213523/tourism-braces-for-impact-of-mideast-war",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998298_700.jpg"
+        }
+      ],
+      "collected_at": "08:11",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998298_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "암호화폐 사기 피해자들, 13억 바트 규모의 사기 주장",
+      "summary": "- 사업가가 암호화폐 투자 사기를 통해 13억 바트 이상의 피해를 입혔다는 고소가 접수됨.\n- 피해자들은 WOWBiT 및 ACET ONLY라는 암호화폐에 투자하도록 유도받았으며, 높은 수익률을 약속받음.\n- 투자자들은 3월 1일에 자금을 인출할 수 없었고, 용의자는 시스템 해킹 및 자금 세탁 방지 규정을 이유로 들었음.",
+      "full_translated": "중앙수사국(CIB)에 사업가가 암호화폐 투자 사기를 통해 13억 바트 이상의 피해를 입혔다는 고소가 접수되었습니다. 고소된 사업가는 유명 텔레비전 여배우의 남편으로 알려져 있습니다. 산티프라차담 클럽 회장인 Tankhun Jitt-itsara는 피해자들을 이끌고 CIB 고소 센터의 경제 범죄 진압 부서(ECD) 조사관에게 청원서를 제출했습니다. 이 그룹은 디지털 TV 채널과 관련된 전직 유명인과 관련자들이 투자자들을 유인하여 매우 높은 수익률을 약속하며 디지털 코인을 구매하도록 한 혐의로 법적 조치를 요구하고 있습니다. Tankhun 씨에 따르면 많은 피해자들이 'Ackmee Worawat'라는 남성에게 WOWBiT 및 ACET ONLY라는 암호화폐에 투자하도록 설득받았다고 합니다. 용의자는 투자가 원금의 최대 500배의 수익을 올릴 것이라고 주장했습니다. 피해자들은 투자가 3월 1일에 만기될 것이라는 말을 들었습니다. 그러나 날짜가 되었을 때 투자자들은 자금을 인출할 수 없었습니다. 연락을 취하자 용의자는 시스템이 해킹되었다고 주장했으며 나중에는 외국 자금 세탁 방지 규정을 자금을 이체할 수 없는 이유로 들었습니다. Tankhun 씨는 또한 배경 조사를 통해",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "사기 사건은 여행자에게 잠재적인 위험을 초래할 수 있으므로 주의가 필요. 다만, 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Angry victims allege B1.3bn crypto fraud",
+          "url": "https://www.bangkokpost.com/thailand/general/3213443/angry-victims-allege-b13bn-crypto-fraud",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213443_260310063326_700.jpg"
+        }
+      ],
+      "collected_at": "08:11",
+      "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213443_260310063326_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 레스토랑 협회, 물가 상승 억제를 위한 정부 지원 요청",
+      "summary": "- 태국 레스토랑 협회가 정부에 에너지 가격 상한제, 세금 감면 등 지원책 요구\n- 중동 분쟁으로 인한 식자재 가격 상승에 대한 우려 표명\n- 식자재 가격 감시 시스템 구축 및 주요 품목 비축 제안",
+      "full_translated": "태국 레스토랑 협회는 중동 분쟁이 식량 가격을 상승시킬 가능성이 있는 가운데 정부에 레스토랑 산업 지원을 촉구하고 있습니다. 협회는 정부가 액화석유가스(LPG) 가격 동결, 위기 기간 동안 기업의 전기 요금 인하, 식품 부문 중소기업(SME)을 위한 에너지 기금 설립 등 이 부문에 대한 에너지 가격 상한제를 시행하기를 원합니다.\n\n타니완 쿨몽콜 협회장은 에너지 가격 급등이 식량 비용에 직접적인 영향을 미쳤다고 말했습니다. 이러한 제안된 조치는 즉각적인 식량 가격 인상을 방지하고 식량 인플레이션을 줄이며 해당 부문의 고용을 보호하는 데 도움이 될 것입니다. 레스토랑 부문은 또한 상무부에 식량 가격 감시 시스템을 구현하고 식용유, 육류, 계란, 쌀과 같은 주요 식자재 가격을 규제할 것을 촉구했습니다. 상무부는 또한 상품 사재기에 대한 법률을 엄격히 시행해야 합니다. 가격 안정성을 유지하기 위해 협회는 주요 식량 재료의 전략적 비축량을 확보할 것을 제안했습니다. 재무부와 관련하여 협회는 저금리 대출, 레스토랑 사업세의 일시적 감면, 레스토랑 면허 수수료 인하 등 유동성 강화 이니셔티브를 요구했습니다. 이러한 제안된 조치는 높은 작업으로 어려움을 겪고 있는 식당을 돕는 것을 목표로 합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "식당 물가 상승 가능성이 있으나, 여행에 직접적인 영향은 제한적. 정부 지원 요청에 대한 내용이므로 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Restaurants call for anti-inflation support",
+          "url": "https://www.bangkokpost.com/business/general/3213413/restaurants-call-for-antiinflation-support",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998188_700.jpg"
+        }
+      ],
+      "collected_at": "08:11",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998188_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 증시, 외국인 투자자 복귀에 힘입어 상승세",
+      "summary": "- 태국 증권 거래소(SET)는 지정학적 긴장 완화 시 외국인 투자자가 태국 주식 시장으로 복귀할 것이라고 자신감을 표명함.\n- 태국은 지역 내 안전 자산 피난처 역할을 할 수 있으며, SET는 위기 상황에서 변동성을 관리할 수 있는 강력한 메커니즘을 보유하고 있다고 강조함.\n- 유가 급등은 미국과 태국의 인플레이션 압력을 통해 상당한 경제적 영향을 미칠 수 있으며, 이는 미국 연방준비제도의 금리 인하를 지연시켜 신흥 시장으로의 자본 흐름에 영향을 줄 수 있음.",
+      "full_translated": "태국 증권 거래소(SET)는 지정학적 긴장이 완화되면 외국인 투자자들이 태국 주식으로 돌아올 것이라고 확신하며, 태국이 지역 내 안전한 피난처가 될 수 있고 거래소가 위기 기간 동안 변동성을 관리할 수 있는 강력한 메커니즘을 갖추고 있다고 언급했습니다. SET의 수석 부사장인 Soraphol Tulayasathien은 유가가 배럴당 100달러 이상으로 치솟는 장기전은 특히 미국과 태국의 인플레이션 압력을 통해 상당한 경제적 영향을 미칠 수 있다고 말했습니다. 인플레이션 상승은 연방준비제도이사회의 금리 인하를 지연시켜 신흥 시장으로의 자본 흐름에 영향을 미치고 운송 및 관광과 같은 부문에 압력을 가할 수 있습니다. 외국인 투자자들은 최근 태국 주식에 대한 노출을 줄였으며 시장 참가자들은 3월의 흐름을 면밀히 관찰하고 있습니다. 중동 분쟁이 확대된 이후 벤치마크 태국 지수는 약 10.5% 하락했지만 연초 대비 8.5% 상승하여 한국과 대만에 이어 아시아에서 상위 3개 시장에 속합니다. 태국 주식의 외국인 소유권도 2025년 약 30%에서 현재 약 37%로 증가했으며, 이는 부분적으로 초기 자본 유입을 반영합니다. 3월에 약 100억 바트의 순유출이 있었음에도 불구하고 거래소는 여전히 올해 누적 순매수를 약 400억~500억 바트 보유하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai bourse buoyant on return of foreign investors",
+          "url": "https://www.bangkokpost.com/business/investment/3213428/thai-bourse-buoyant-on-return-of-foreign-investors",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998198_700.jpg"
+        }
+      ],
+      "collected_at": "08:11",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/10/5998198_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "트럼프, 푸틴과 통화: 러시아, 중동 문제 지원 의사 밝혀",
+      "summary": "- 도널드 트럼프 미국 대통령이 블라디미르 푸틴 러시아 대통령과 통화했다고 밝힘.\n- 푸틴 대통령은 중동 상황에 대한 지원 의사를 표명.\n- 트럼프 대통령은 우크라이나 전쟁 종식이 더 큰 도움이 될 것이라고 응답.",
+      "full_translated": "(스푸트니크 통신 사진) 도널드 트럼프 대통령은 블라디미르 푸틴 대통령과 전화 통화를 했다고 밝혔으며, 러시아 대통령은 중동 상황을 돕고 싶어한다고 말했다. 그러나 트럼프 대통령은 우크라이나 전쟁을 끝내는 것이 더 도움이 될 것이라고 반박했다. 2026년 3월 9일, 도널드 트럼프 미국 대통령은 플로리다 주 도럴에서 열린 기자 회견에서 블라디미르 푸틴 러시아 대통령과 전화 통화를 했으며, 매우 훌륭한 대화였다고 밝혔다. 러시아 대통령은 중동 상황에 대해 \"지원\"하고 싶어했다. 이는 이란과의 전쟁이 시작된 2월 28일 이후 두 정상이 처음으로 전화 통화를 한 것이다. 트럼프 대통령은 격화되는 중동 전쟁에 대해 논의했으며, 푸틴 대통령이 \"돕고 싶어한다\"고 말했다. 트럼프 대통령은 \"만약 당신이 우크라이나-러시아 전쟁을 끝낸다면 더 많은 도움이 될 것입니다\"라고 말했다. 그는 또한 우크라이나 문제가 끝없는 싸움이지만, \"그것에 대한 긍정적인 대화\"라고 생각한다고 덧붙였다. 러시아 크렘린 정부의 유리 우샤코프 보좌관은 푸틴 대통령과 트럼프 대통령이 약 1시간 동안 전화 통화를 했다고 확인했으며, 미국이 최근 국제 상황에 대해 논의하기 위해 먼저 연락했다고 밝혔다. 우샤코프는 대화가 이란의 갈등과 모스크바, 워싱턴, 키예프 간의 3자 회담에 초점을 맞추어 우크라이나 갈등을 종식시키기를 희망했다고 말했다. 두 정상 간의 대화는 \"진지하고 솔직하며 건설적인\" 방식으로 진행되었으며, 두 정상은 지속적으로 소통할 의향을 표명했다고 덧붙였다. 트럼프 대통령은 워싱턴이...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에 직접적인 영향은 없으나, 국제 정세에 대한 정보 제공 차원에서 포함. 다만 여행 관련성은 낮으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ต่อสายคุยปูติน เผยรัสเซียอยากช่วยเหลือ เรื่องในตะวันออกกลาง",
+          "url": "https://www.thairath.co.th/news/foreign/2918944",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFIZJWF8OUmG.jpg"
+        }
+      ],
+      "collected_at": "08:11",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ww4OXFIZJWF8OUmG.jpg",
       "date": "2026-03-10"
     }
   ]
