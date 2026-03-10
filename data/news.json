@@ -511,14 +511,9 @@
       "summary": "- 룸피니 공원이 인기 만화 '원피스'를 테마로 한 특별 행사 개최.\n- 'GRAND LINE IN THAILAND'는 팬과 관광객 모두에게 특별한 경험을 선사.\n- 방콕의 새로운 명소로 떠오를 것으로 기대.",
       "full_translated": "방콕의 룸피니 공원이 '원피스' 테마파크로 변신합니다. 'GRAND LINE IN THAILAND'는 팬과 관광객 모두에게 잊을 수 없는 경험을 선사할 것입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "인기있는 만화 테마의 이벤트로, 룸피니 공원을 방문할 관광객에게 흥미로운 볼거리를 제공합니다. 이벤트 정보가 부족하여 6점 부여.",
-      "event_info": {
-        "date": null,
-        "location": "룸피니 공원",
-        "price": "미정",
-        "location_google_map_query": "룸피니 공원 방콕"
-      },
+      "event_info": "{'date': None, 'location': '룸피니 공원', 'price': '미정', 'location_google_map_query': '룸피니 공원 방콕'}",
       "references": [
         {
           "title": "Bangkok’s Lumpini Park Transforms into One Piece Paradise with GRAND LINE IN THAILAND – A Must-See Experience for Fans and Tourists - Travel And Tour World",
@@ -527,23 +522,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNNUlCY3ZuS1hteURGMHRhMS1YUGNtYU15NFBjcjExWno1bS1pSVFkOUtuOXZ4QkFVcjhINE83ZmxjQzJKR3hWYnhYU1ZHVEYxb1BPM25rMFI1UEZXY01TVUZRaldhV0YwYnN3UXpTaHRxZ1pvamZTMWtXZGotZFROMER2bkgwSWh3TExHTVpmNTE2VkdlOGVYS3EzcENDUXduekh4a20zdjRlc2p5OTRlM2VFdEJlT1pFQVBtLXBFcWR5UHBIYXl6Y29CcWV0N3NBcVV2bWpPOFV4UW1YZ3pKX2Z4VkZ3MF9xSHZnczdkdWdiS05ZcFR2VWVwSzFoTjRKdnNCVTJwMnU?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광청, 넷플릭스, 방콕시, '원피스' 룸피니 공원 이벤트 공동 개최",
       "summary": "- 태국 관광청(TAT)이 넷플릭스, 방콕시와 협력하여 룸피니 공원에서 'GRAND LINE IN THAILAND' 원피스 이벤트를 개최합니다.\n- 인기 애니메이션 '원피스'를 테마로 한 이번 행사는 태국 관광 활성화에 기여할 것으로 기대됩니다.\n- 자세한 내용은 TAT 뉴스룸에서 확인할 수 있습니다.",
       "full_translated": "태국 관광청(TAT)이 넷플릭스, 방콕시와 협력하여 룸피니 공원에서 'GRAND LINE IN THAILAND' 원피스 이벤트를 개최합니다. 이번 행사는 인기 애니메이션 '원피스'를 테마로 하며, 룸피니 공원에서 진행됩니다. 태국 관광청은 이번 이벤트가 태국 관광 활성화에 크게 기여할 것으로 기대하고 있습니다. 자세한 내용은 TAT 뉴스룸에서 확인할 수 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "인기 애니메이션 기반 이벤트로, 룸피니 공원을 방문하는 여행객들에게 새로운 볼거리를 제공할 수 있습니다. 특별한 안전 관련 이슈는 없으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": "룸피니 공원, 방콕",
-        "price": "미정",
-        "location_google_map_query": "룸피니 공원 방콕"
-      },
+      "event_info": "{'date': None, 'location': '룸피니 공원, 방콕', 'price': '미정', 'location_google_map_query': '룸피니 공원 방콕'}",
       "references": [
         {
           "title": "TAT joins Netflix and Bangkok in bringing One Piece to Lumpini Park with GRAND LINE IN THAILAND - TAT Newsroom",
@@ -552,23 +544,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0hmTk9oYkZ6SGdXQWNaVGtwNGVIWnItYmt1TUIwS0lqWTRBMGVhV2FIVGNaanpvdFM2aFQ4X0lkYkdLclk4cGw2enhpdlFwNFV5WHNtTHBjdkF3YVVSQ1VOMGFURzNJVWhCTnVrWkVhWmlMYlRKMzJFeGJ3SDNrajFaa21FYVBMMF9tb0VHbWZBdnZsSlJJRThMZmxYQ2l2R19hTnE4eEJudjhWRmotUGNOY0dYdXZHNTg0Qjh2d0JRSVdYUGl3?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광, 중동 분쟁 속 회복세…중국, 말레이시아, 독일, 영국, 프랑스, 러시아, 이스라엘 관광객 동향",
       "summary": "- 태국 관광 산업은 중동 지역의 갈등에도 불구하고 회복세를 보이고 있음.\n- 중국, 말레이시아, 독일, 영국, 프랑스, 러시아, 이스라엘 등 다양한 국가에서 관광객 유입이 활발함.\n- 여행객들은 이러한 요소들을 고려하여 태국 여행 계획을 세워야 함.",
       "full_translated": "태국 관광은 중동 분쟁과 중국, 말레이시아, 독일, 영국, 프랑스, 러시아 및 이스라엘의 방문객 트렌드 속에서 회복되고 있습니다. 여행자가 알아야 할 모든 것 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업 전반에 대한 내용으로, 여행객들의 방문 현황 및 추세에 대한 정보를 제공하여 여행 계획에 참고할 수 있도록 함. 중동 분쟁이 관광에 미치는 영향에 대한 정보도 포함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thailand’s Tourism Recovery Amid Middle East Conflicts and Visitor Trends from China, Malaysia, Germany, UK, France, Russia, and Israel – Everything Travelers Should Know - Travel And Tour World",
@@ -577,23 +566,20 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPMmNScG1YcklUUGxpNlNHM2hXaExLalJsUmVKSE5aZU5GY2xucVY1NzRyNThuSXYyMUpCa3FuMlNveVlxREtNdUxfcEFpR2YyclY2d0NFS0tqUHl5UWR0VExMdmYtRXpYdS1ibVdNN1NCSmhYWlVtUEFNLVFIdlFKQ1VlbDZyZGtYN2ttVHpqbnVxb1NHX3pUTWVicUJpNGpMUjZYM3YyaFNpcGpPVlVuSjlmdHU4amJmMUdOU1R0bnAtRk5xcWhLbWVfeURCMFNVYjlrNm5pdG8wYWMtbVRRRDgwcVFydU9YZlFpUVZaNnRZVnp6WndPNGVDdmJDWW5tU29aYmp6RTlZUU1tY3lpZEFjT3JFRkhsUHExZ3BXT0k4NExLQ2JXNEZhV0RnbzlyRlZINA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 여행사, 장거리 시장 회복에 비관적 - 방콕 포스트",
       "summary": "- 태국 여행사들은 장거리 여행 시장의 회복에 대해 비관적인 전망을 내놓고 있음.\n- 걸프 지역의 긴장으로 인해 장거리 여행이 감소하면서 태국 관광 산업이 약화되고 있음.\n- 구체적인 해결책이나 긍정적인 전망은 제시되지 않음.",
       "full_translated": "태국 여행사, 장거리 시장 회복에 비관적 - 방콕 포스트",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "관광 산업에 대한 전반적인 분위기를 보여주지만, 여행 자체에 즉각적인 영향을 미치지는 않음. 여행 심리에 영향을 줄 수 있으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Thai travel agents pessimistic about long-haul rmarket recovery - Bangkok Post",
@@ -602,8 +588,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSmpyQl8tVm80cnNRd3RBQ2owRnZGSlVpSjRHRklhN2N6Ri1vbjdUN2tmTGw1SG41NW1wR3F6VXJRZFFGaVItc21QTkJxdmJWM0I1NDU0ZHh0SzZNTnhpVU5vaDFhRlNjOXMwU0xLM2dsa3djbzBGc09pckxmT2ZaQnpOYnVIMUpFSFNQZXR0U2FlVC1xTkowVTJKR0M1b2NQQTl5d0NpVHV5ZjNCa0RRWllwaXEyUQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "핫 야이의 활기찬 회복, 2026년 태국 관광 재편",
+      "summary": "- 핫 야이는 태국 남부의 주요 도시로서 관광 산업 회복에 힘쓰고 있습니다.\n- 2026년까지 관광객 유치를 위한 다양한 계획과 전략이 추진될 예정입니다.\n- 핫 야이의 변화는 태국 전체 관광 산업에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "full_translated": "핫 야이는 태국 남부의 심장부로서, 활기찬 회복세를 통해 2026년 태국 관광 산업을 재편하고 있습니다. 핫 야이는 다양한 문화와 역사적 명소, 활기 넘치는 시장으로 유명하며, 최근 몇 년 동안 관광객 유치를 위해 적극적으로 노력하고 있습니다. 특히 2026년까지 관광 인프라 개선, 새로운 관광 상품 개발, 국제적인 홍보 활동 강화 등을 통해 더 많은 관광객을 유치할 계획입니다. 핫 야이의 성공적인 회복은 태국 남부 지역 경제 활성화에 기여할 뿐만 아니라 태국 전체 관광 산업의 성장에도 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 남부 주요 도시의 관광 산업 회복은 여행객들에게 새로운 선택지를 제공하고, 지역 경제 활성화에 기여하므로 중간 수준의 영향력을 가진다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "핫 야이",
+        "price": null,
+        "location_google_map_query": "핫 야이 관광 명소"
+      },
+      "references": [
+        {
+          "title": "Heart of the South: How Hat Yai’s Vibrant Recovery is Reshaping Thailand Tourism in 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVlhtVlI4b2pORzNpYXktOFZlT2Y2b0VtSmxfemIyazVITmFrR3lweTRzalJiTFVkQ2YwRXdxQUhtLWVWTUl1aTBDVHBXVU04M0hJdFZrTFB6Q2trVWNjcm9Wb3QzYkYtdHpBMmc0SWROQnQzemZ5eG9TRl9OczVPbnkxWWlscWdPb1dsOU5tWENReEVOcFdHTkdIZGc2Zy1UWVhYeDR2NnNtcDQ1REpRdlpZUkU5VlhxX1VkbkhiOGtaalg1OVFqaWFFaWo0R096?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국, 고대 지혜와 현대적 풍요의 조화로 글로벌 웰니스 관광 재정의",
+      "summary": "- 태국은 고대 치유법과 현대적 럭셔리를 결합한 웰니스 관광을 추진하고 있습니다.\n- 전통 의학, 명상, 스파 트리트먼트 등을 고급스럽게 제공하여 새로운 경험을 선사합니다.\n- 이러한 노력은 태국을 세계적인 웰니스 목적지로 자리매김하는 데 기여할 것으로 보입니다.",
+      "full_translated": "태국이 고대 지혜와 현대적 풍요를 조화시켜 글로벌 웰니스 관광을 재정의하는 방법. 태국은 웰빙과 럭셔리를 융합하여 세계 웰니스 관광의 선두 주자가 되기 위해 노력하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 웰니스 관광 트렌드를 소개하는 기사로, 여행객들에게 새로운 관광 경험 정보를 제공합니다. 특별히 시급한 정보는 아니지만, 여행 계획에 참고할 만한 가치가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "How Thailand is Harmonizing Ancient Wisdom with Modern Opulence to Redefine Global Wellness Tourism - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU1JqaWp2a1pVTkxTblJfNVZvX1lFQkw2ZWtGcXF1bGthYTcyb0lON0pJQnlVb2VwTzItZ1NMSXB2Vm1vcnQ4UzBrVk9mOWNDaDl6MjRsWEtGODVYdXF1ZUZRQmdNbHI4VFp6RGtHT3JQQmVOZXpOR2w2d2U0Z2ZXa0JzdlJYODE2Sm80ZER4aWY3WTVVRUlLeEVkWVlhS0VuR210WnBCRHlXd3pTU0dOVFU4U1FxUjloZTQ3amhEMGdXc19qa2RRZ0MtUjZsNUcwXzY2WUdOdGhvUlQwODk3NEFn?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "트럼프, 이란이 호르무즈 해협에 기뢰 설치 시 강력 대응 경고",
+      "summary": "- 도널드 트럼프 미국 대통령, 이란의 호르무즈 해협 기뢰 설치에 강력한 군사적 대응 경고.\n- CNN, 미국 정보 소식통 인용, 이란이 이미 수십 개의 기뢰를 설치했다고 보도.\n- 호르무즈 해협의 안전 문제로 국제 유가 상승.",
+      "full_translated": "도널드 트럼프 대통령은 이란이 호르무즈 해협에 기뢰를 설치할 경우 전례 없는 수준의 군사적 대응에 직면할 것이라고 경고했습니다. 이는 이란이 이미 수십 개의 기뢰를 설치했다는 보도에 따른 것입니다.\n\n트럼프 대통령은 Truth Social을 통해 이란의 기뢰 설치에 대한 경고 메시지를 전달하며, 즉각적인 제거를 요구했습니다. 그는 기뢰가 설치될 경우 이란에 대한 군사적 대응이 '지금까지 본 적 없는 수준'일 것이라고 강조했습니다. 그러나 동시에 미국은 아직 이란이 기뢰를 설치하고 있다는 보고를 받지 못했다고 주장했습니다.\n\nCNN은 미국 정보 소식통을 인용하여 이란이 호르무즈 해협에 이미 수십 개의 기뢰를 설치했다고 보도했습니다. 소식통에 따르면 이란은 소형 선박과 기뢰 부설함을 80~90% 보유하고 있어 수백 개의 기뢰를 추가로 설치할 수 있는 능력을 갖추고 있습니다.\n\n호르무즈 해협은 세계 원유 수송의 주요 통로이며, 최근 걸프 지역의 긴장으로 인해 유조선 통행에 대한 우려가 커지면서 국제 유가가 상승하고 있습니다.\n\n이러한 긴장 속에서 이란 혁명수비대는 과거에도 호르무즈 해협에서 유조선을 나포하고 미국 해군과 대치하는 등 불안정한 행보를 보여왔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "호르무즈 해협의 긴장이 국제 유가에 영향을 미쳐 장거리 여행 비용 상승을 유발할 수 있으며, 이는 태국 관광에 간접적인 영향을 미칠 수 있음. 직접적인 위협은 아니나 상황을 주시할 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ขู่ตอบโต้รุนแรง หากอิหร่านวางทุ่นระเบิดในช่องแคบฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/foreign/2919206",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApd2ymDcGMAy.jpg"
+        }
+      ],
+      "collected_at": "04:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvApd2ymDcGMAy.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 주택공사, 청소년 대상 무료 직업학교 및 전문대학 과정 장학금 제공",
+      "summary": "- 태국 주택공사가 CP ALL 및 판야피왓 기술대학과 협력하여 장학금 제공\n- 직업학교(뽀워 쵸) 및 전문대학(뽀워 쏘) 과정에 대한 학비 전액 지원 및 생활비 지원\n- 졸업 후 취업 기회 제공으로 안정적인 미래 보장",
+      "full_translated": "태국 주택공사가 청소년 교육 지원을 위해 CP ALL 및 판야피왓 기술대학과 협력하여 2069학년도 직업학교(뽀워처) 및 전문대학(뽀워쏫) 과정 장학금을 제공합니다. 이 장학금은 주택공사 커뮤니티의 청소년들에게 학비 전액 지원 및 재학 중 수입을 제공하여 취업 기회와 안정적인 미래를 보장합니다.\n\n타위퐁 위차이딧 주택공사 총재는 주택공사가 주거 환경 개선과 더불어 커뮤니티 주민들의 삶의 질 향상을 위해 사회, 경제, 환경 등 모든 측면에서 노력하고 있다고 밝혔습니다. 그는 국민의 삶의 질 향상은 미래 국가 발전에 중요한 역할을 담당할 아동 및 청소년에게 교육 기회를 제공하는 것과 병행되어야 한다고 강조했습니다.\n\n주택공사는 CP ALL 및 판야피왓 기술대학과 협력하여 커뮤니티 아동 및 청소년을 개발하고 교육 기회를 확대하여 모든 아동 및 청소년이 공평하게 교육을 받을 수 있도록 지원합니다. 이를 통해 직업 기술을 개발하고, 취업하고, 수입을 얻고, 자립하고, 가족을 안정적으로 돌볼 수 있도록 돕습니다. 협약 체결 후 지속적인 운영을 통해 이러한 목표를 달성해 왔습니다.\n\n총재는 2069학년도에는 CP ALL 및 판야피왓 기술대학이 주택공사 커뮤니티 주민들에게 특별 혜택을 제공한다고 덧붙였습니다. 직업학교(뽀워처) 과정 지원자는 학비 전액 지원을 받으며, 전문대학(뽀워쏫) 과정 지원자는 CP ALL로부터 장학금을 지원받습니다. 두 과정 모두 재학 중 다양한 복지 혜택을 받을 수 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 거주민 대상 장학금 정보로 여행객에게 직접적인 영향은 없으나, 태국 사회/문화 이해에 도움될 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ข่าวดีชาวเคหะฯ มอบทุนเรียนฟรี ปวช.-ปวส. พร้อมสวัสดิการระหว่างเรียน จบไปมีงานทำ",
+          "url": "https://www.thairath.co.th/news/governmentpolicy/2919144",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtWXO7VpyJjil5.jpg"
+        }
+      ],
+      "collected_at": "04:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtWXO7VpyJjil5.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "시라차, 2026년 예산으로 '건강한 노년, 튼튼한 치아' 프로젝트 시작",
+      "summary": "- 시라차 муниципалите이가 노년층의 구강 건강 관리를 위한 프로젝트를 시작합니다.\n- 노년층 100명을 대상으로 구강 위생 교육과 실습을 제공하여 치아 손실률을 낮추는 것을 목표로 합니다.\n- 참가자들은 올바른 구강 관리 방법을 배우고 가족들에게도 이 지식을 공유할 수 있도록 합니다.",
+      "full_translated": "시라차 муниципалите이 사무실 3층 회의실에서 행사가 열렸습니다. 시라차 муниципалите이 부시장인 프라팟 차로엔산티숙 씨가 개회식을 주재했습니다. 공중 보건 및 환경 부서의 파툼랏 라타나타니 국장이 프로젝트 보고서를 발표했습니다. 그녀는 노인들이 구강 건강 관리에 특별한 주의가 필요한 인구 집단이라고 설명했습니다. 신체가 노화됨에 따라 잇몸과 치아를 포함한 다양한 기관과 시스템의 기능이 자연적으로 저하됩니다. 좋은 구강 건강은 전반적인 웰빙과 삶의 질에 크게 기여합니다. 노인들의 치아 상실을 줄이기 위해서는 노인들이 올바른 구강 위생 관행에 대한 적절한 지식과 이해, 그리고 올바른 자가 관리 루틴을 적용할 수 있는 능력을 갖추는 것이 필수적입니다. 따라서 муниципалите이는 이 프로젝트를 시작하여 대상 교육 및 훈련을 제공합니다. 주요 초점은 참가자들에게 구강 건강 유지를 위한 정확하고 연령에 적합한 기술을 갖추게 하여 궁극적으로 치아 상실률을 낮추고 이 지식을 가족 구성원과 올바르게 공유할 수 있도록 하는 것입니다. 대상 그룹은 시라차 муниципалите이 노인 클럽의 노인 회원 100명으로 구성됩니다. 지식 공유 세션과 실습을 통해 참가자들은 자신의 삶의 단계에 맞는 효과적인 구강 관리 방법을 배우게 됩니다. 이 이니셔티브는 예방적 의료를 촉진하기 위한 지역 당국의 광범위한 노력과 일치합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "여행 관련성은 낮으나, 태국 내 공공 보건 프로젝트에 대한 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": "시라차 муниципалите이",
+        "price": null,
+        "location_google_map_query": "Sriracha Municipality"
+      },
+      "references": [
+        {
+          "title": "Sriracha Municipality Launches “Aging Well, Strong Teeth” Project for 2026 Budget Year",
+          "url": "https://thepattayanews.com/2026/03/11/sriracha-municipality-launches-aging-well-strong-teeth-project-for-2026-budget-year/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17730638397219165143599385549413.jpg?v=1773166207"
+        }
+      ],
+      "collected_at": "04:49",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17730638397219165143599385549413.jpg?v=1773166207",
       "date": "2026-03-11"
     }
   ]
