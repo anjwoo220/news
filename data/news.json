@@ -29823,14 +29823,9 @@
       "summary": "- 미얀마 군부와 카렌족 반군 간 교전이 격화되어 태국 국경 지역인 매솟으로 포탄이 날아옴.\n- 3월 10일 오전 10시경, 82mm 포탄이 매솟 지역 주택 3곳에 떨어져 지붕 파손 및 구멍 발생, 차량과 태양광 패널도 손상됨.\n- 인명 피해는 없었으나, 당국은 추가 피해에 대비하여 경계를 강화하고 있으며, 필요시 대피 준비 중.",
       "full_translated": "미얀마 국경 지역에서 미얀마 군부와 카렌족 반군 간의 교전이 계속되면서 포탄이 태국 영토 내로 떨어지는 사고가 발생했습니다. 3월 10일 오전 10시경, 매솟 지역에서 82mm 포탄이 주택 3곳에 떨어져 피해를 입혔습니다. \n\n첫 번째 지점은 66세 여성의 주차장으로, 포탄 파편으로 인해 지붕에 여러 개의 구멍이 생겼으며, 트랙터와 태양광 패널도 손상되었습니다. 두 번째 지점은 소 사육장 입구로, 포탄이 땅에 떨어져 지름 10cm, 깊이 6cm의 구멍을 만들었습니다. 다행히 포탄은 폭발하지 않았습니다. 세 번째 지점은 52세 남성의 집으로, 부엌 뒤쪽 지붕이 포탄에 맞아 파손되었습니다. \n\n매솟 지역 당국은 반군과 군부 간의 교전이 격화됨에 따라 추가 포탄 낙하에 대비하여 상황을 예의주시하고 있습니다. 만약의 사태에 대비하여 주민 대피 계획도 준비 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "국경 지역 교전으로 인한 안전 문제 발생. 여행객 안전에 직접적인 위협이 될 수 있으므로 관련 정보 제공.",
-      "event_info": {
-        "date": "2024-03-10",
-        "location": "매솟, 딱 주, 태국",
-        "price": null,
-        "location_google_map_query": "매솟 딱 주 태국"
-      },
+      "event_info": "{'date': '2024-03-10', 'location': '매솟, 딱 주, 태국', 'price': None, 'location_google_map_query': '매솟 딱 주 태국'}",
       "references": [
         {
           "title": "ชายแดนแม่สอดเดือด ทหารเมียนมารบกะเหรี่ยง กระสุนปืน ค. ตกใส่บ้านฝั่งไทย",
@@ -29841,21 +29836,18 @@
       ],
       "collected_at": "21:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXYDv3s0kvH4I.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/local/2919177",
+      "source": ""
     },
     {
       "title": "태국 기상청, 3월 11-13일 여름 폭풍 대비 태세 강화",
       "summary": "- 태국 기상청은 3월 11일부터 13일까지 여름 폭풍에 대비하여 전국에 경보를 발령했습니다.\n- 특히 북부 지역부터 시작하여 중부, 동부, 방콕 및 주변 지역에 걸쳐 폭풍우, 강풍, 우박, 번개 및 폭우가 예상됩니다.\n- 관계 당국은 저수지 관리를 강화하고 배수 시스템을 점검하며, 홍수 위험 지역에 대한 감시를 강화하고 있습니다.",
       "full_translated": "태국 관개국은 3월 11일부터 13일까지 여름 폭풍에 대비하여 기계와 인력을 준비하고 있습니다.\n\n2026년 3월 10일, 관개국의 스마트 워터 운영 센터(SWOC)는 기상청이 태국 북부 지역에 여름 폭풍 경보를 발령했다고 밝혔습니다. 폭풍은 3월 11일부터 13일까지 영향을 미칠 것으로 예상되며, 북부 지역부터 시작하여 중부, 동부, 동북부 서쪽, 방콕 및 주변 지역에 영향을 미칠 것입니다. 폭풍우, 강풍, 우박, 폭우 및 일부 지역에서는 번개가 예상됩니다.\n\n관개국은 상황을 면밀히 모니터링하고 있으며, 전국 관개 프로젝트에 갑작스러운 강우량 증가에 대비할 것을 지시했습니다. 저수지의 수위를 적절하게 관리하고, 관개 구조물, 배수 시스템 및 홍수 위험 지역의 안정성을 점검하고 있습니다. 또한 배수 효율성을 높이기 위해 수생 식물을 제거하고 있습니다. 이는 물 관리를 위한 사전 예방 조치입니다. 추가적인 기계, 펌프 및 추진기도 준비되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "여름 폭풍으로 인한 여행객 안전 및 교통 혼란 가능성. 특히 3월 11-13일 여행자에게 중요한 정보.",
-      "event_info": {
-        "date": "2026-03-11",
-        "location": "태국 전역",
-        "price": null,
-        "location_google_map_query": "태국"
-      },
+      "event_info": "{'date': '2026-03-11', 'location': '태국 전역', 'price': None, 'location_google_map_query': '태국'}",
       "references": [
         {
           "title": "กรมชลประทาน เตรียมเครื่องจักร–เจ้าหน้าที่เฝ้าระวัง \"พายุฤดูร้อน\" 11–13 มี.ค.นี้",
@@ -29866,21 +29858,18 @@
       ],
       "collected_at": "21:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXYLVatBHHJbW.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/local/2919179",
+      "source": ""
     },
     {
       "title": "7600만 바트 암호화폐 사기 사건, 도주 중인 사업가 수색",
       "summary": "- TV 배우의 남편인 Worawat “Acme” Narknawdee가 암호화폐 투자 사기로 7600만 바트의 피해를 발생시킨 혐의로 경찰 수사 중.\n- 61명의 피해자가 100만~200만 바트의 투자 피해를 신고했으며, 피해자 수는 더 늘어날 것으로 예상됨.\n- 용의자는 ACT라는 자체 디지털 토큰을 발행했으며, 이는 증권거래위원회(SEC) 규정 위반 여부도 조사될 예정.",
       "full_translated": "경찰은 TV 배우의 남편인 Worawat “Acme” Narknawdee에 대한 암호화폐 투자 사기 사건을 계속 수사하고 있습니다. 이 사기로 인해 수십 명의 피해자가 발생했으며, 손실액은 7600만 바트로 추정됩니다.\n\n경제범죄진압부의 Thatphum Jaruprat 총경에 따르면 지금까지 61명이 수사관에게 불만을 제기했으며, 각 투자 금액은 100만에서 200만 바트 사이입니다. 수사관들은 피해자들을 심문하기 위한 팀을 준비했으며, 경찰은 고소인 수가 더 늘어날 수 있으며, 잠재적으로 총 피해액이 수억 바트에 달할 수 있다고 화요일에 밝혔습니다.\n\n이 사건은 처음에는 불법 대출 또는 피라미드 사기와 관련된 범죄에 해당하는 것으로 보였습니다. 용의자는 법적 한도를 최대 100%까지 초과하는 수익을 약속한 것으로 알려졌습니다. Worawat 씨가 ACT라는 자체 디지털 토큰을 만들었다는 보고서에 대해 Thatphum 총경은 이 문제가 디지털 자산 사업을 규제하는 규정을 위반했는지 여부를 판단하기 위해 증권거래위원회(SEC)와의 조율이 필요하다고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "암호화폐 사기는 여행자에게 직접적인 위협은 아니지만, 태국 내 투자 환경에 대한 정보로서 참고할 가치가 있음. 사기 수법 인지 시 예방 가능.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Fugitive businessman sought in B76m crypto fraud",
@@ -29891,21 +29880,18 @@
       ],
       "collected_at": "21:43",
       "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3214018_700.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.bangkokpost.com/thailand/general/3214018/fugitive-businessman-sought-in-b76m-crypto-fraud",
+      "source": ""
     },
     {
       "title": "싱하, 레오 맥주 가격 인상 계획 없음",
       "summary": "- Boon Rawd Brewery는 싱하, 레오 맥주를 포함한 모든 제품의 가격 인상 정책이 없다고 발표함.\n- 글로벌 비용 변동에도 불구하고 현재 소매 가격을 유지하여 소비자 경제적 영향 최소화.\n- 회사는 상황을 면밀히 주시하고 파트너와 협력하여 가격을 준수하고 소비자 이익을 우선시할 것임.",
       "full_translated": "Boon Rawd Brewery는 싱하, 레오 맥주를 포함한 모든 제품에 대해 가격 인상 정책이 없다고 밝혔습니다. 이는 전 세계적인 비용 변동에도 불구하고 소비자에게 미칠 수 있는 경제적 영향을 줄이기 위해 현재 소매 가격을 유지하기 위함입니다. 회사는 상황을 면밀히 주시하고, 파트너 및 유통업체와 협력하여 각 지역에서 제품 판매가 지정된 가격으로 이루어지도록 관리하고, 소비자 이익을 우선시할 것입니다.\n\n회사는 현재 생산 비용에 어려움이 있지만 싱하 맥주 및 기타 모든 계열사 맥주 제품의 가격을 인상할 정책이 없습니다. 회사는 최고의 제품 품질과 서비스를 제공함으로써 소비자의 신뢰에 보답하기 위해 비용 관리를 지속적으로 할 것입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "여행객의 소비에 영향을 줄 수 있는 맥주 가격 관련 정보. 가격 인상 계획이 없다는 내용이므로 약간의 긍정적 영향.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "บุญรอดฯ ยัน “สิงห์ ลีโอ และสินค้าทุกตัว” ยังไม่ขึ้นราคา แม้ต้นทุนทั่วโลกผันผวน",
@@ -29916,21 +29902,18 @@
       ],
       "collected_at": "21:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXX78IsPyM1TF.jpg",
-      "date": "2026-03-10"
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/society/2919174",
+      "source": ""
     },
     {
       "title": "나따웃, 지지자들에게 모든 당사자의 자유 존중 촉구",
       "summary": "- 나따웃은 언론인 괴롭힘에 대한 책임이 없다고 밝혔습니다.\n- 그는 지지자들에게 건설적인 소통을 촉구했습니다.\n- 언론 협회는 그의 이름을 사칭하는 팬클럽의 괴롭힘 중단을 요구했습니다.",
       "full_translated": "나따웃은 언론인을 괴롭히는 페이지와 관련이 없으며, 지지자들에게 모든 당사자의 권리와 자유를 존중하고 건설적으로 소통할 것을 촉구했습니다. 이는 태국 언론인 협회가 정치인을 지지하는 페이지가 언론인에 대한 괴롭힘을 중단할 것을 요구한 데 따른 것입니다. 나따웃은 자신의 페이스북 페이지(\"나이 낫타웃 사이끄아\" www.facebook.com/Nattawut.UDD)를 통해서만 소통하며, 다른 이름으로 만들어진 페이스북 그룹과는 관련이 없다고 밝혔습니다. 그는 소셜 미디어를 통해 소통하는 모든 이들에게 건설적인 소통을 하고, 모든 당사자의 권리와 자유를 존중하며, 법률의 틀 안에서 행동할 것을 요청했습니다. 개인의 권리와 자유에 영향을 미치거나 조직이나 기관에 피해를 주는 거짓 정보를 생성하는 행위에 대해서는 법적 책임을 져야 합니다. 앞서 태국 언론인 협회는 유명 정치인을 지지하는 페이스북 그룹 페이지에서 여성 언론인의 개인 정보가 공개된 것에 대해 우려를 표명했습니다. 해당 페이지는 개인 정보, 사진, 이름, 전화번호 및 주소를 공개했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치적인 내용이며, 여행객에게 직접적인 영향은 적다고 판단됨. 다만, 시위나 집회 등의 가능성을 배제할 수 없어 낮은 점수를 부여함.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "“เต้น ณัฐวุฒิ” เรียกร้องให้ผู้สนับสนุนเคารพสิทธิเสรีภาพของทุกฝ่าย",
@@ -29941,6 +29924,133 @@
       ],
       "collected_at": "21:43",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXo427WHj0yDl.jpg",
+      "date": "2026-03-10",
+      "link": "https://www.thairath.co.th/news/politic/2919181",
+      "source": ""
+    },
+    {
+      "title": "태국, 고령층의 야외 활동 제한 시간 증가: 극한의 더위로 인해",
+      "summary": "- 새로운 연구에 따르면 태국 고령층은 극한의 더위로 인해 야외 활동에 제약을 받는 시간이 연간 568시간 증가했습니다.\n- 이는 1950년대에 비해 크게 늘어난 수치이며, 경제적 어려움 등으로 인해 더위에 취약한 계층에게 더욱 심각한 영향을 미칩니다.\n- 기후 변화로 인한 더위는 전 세계적으로 일상생활에 영향을 미치며, 특히 아시아 지역 고령층의 삶의 질 저하를 야기합니다.",
+      "full_translated": "새로운 연구에 따르면 지난 75년 동안 극한의 더위로 인해 개를 산책시키거나 현관을 청소하는 등 일상적인 활동을 하기에는 너무 위험한 날이 전 세계적으로 두 배로 증가했습니다. 과학자들은 평균적으로 65세 이상의 사람들이 더위로 인해 일상적인 활동을 할 수 없는 날이 연간 30일이라고 밝혔습니다. 연구진은 아시아, 아프리카, 호주 및 북미 일부 지역이 노인들에게 살기 힘든 곳이 되고 있다고 밝혔습니다. 캄보디아, 태국 및 방글라데시에서는 노인들이 이제 연중 4분의 1에서 3분의 1 동안 심각한 제약을 받고 있다고 연구는 밝혔습니다. 1950년대에 비해 노인들은 현재 캄보디아에서 686시간, 태국에서 568시간, 방글라데시에서 390시간을 추가로 경험하고 있습니다. 이들 국가의 많은 사람들은 경제적 또는 기타 장애물로 인해 더위에 대처할 수 있는 능력이 제한적입니다. 전 세계적으로 젊은 성인들도 기후로 인한 더위로 인해 연간 50시간 동안 삶에 제약을 받고 있습니다. 전체적으로 전 세계 인구의 3분의 1 이상이 더위가 일상 생활에 심각한 영향을 미치는 지역에 거주하고 있다고 화요일 저널 Environmental Research: Health에 발표된 동료 검토 논문에 따르면 밝혔습니다. 이전 연구에서는 극한의 더위가 인간의 건강에 미치는 영향을 보여주었지만, 새로운 연구의 저자들은 그것이 공동의 영향을 문서화한 최초의 것이라고 말했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "방콕 여행 시 더위에 대한 주의가 필요하며, 특히 고령 여행객에게는 더욱 중요한 정보입니다. 여행 계획 시 더위로 인한 활동 제한 가능성을 고려해야 합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Extreme heat ‘making life increasingly unliveable’",
+          "url": "https://www.bangkokpost.com/world/3214029/extreme-heat-making-life-increasingly-unliveable",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3214029_260310212000_700.jpg"
+        }
+      ],
+      "collected_at": "22:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3214029_260310212000_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "매홍손 지역 랑 강 물고기 떼죽음 발생, 섭취 경고",
+      "summary": "- 매홍손 주 랑 강에서 물고기 떼죽음 발생, 원인 조사 중.\n- 당국은 해당 지역 주민들에게 물고기 섭취 금지령.\n- 정확한 원인 규명을 위해 물과 물고기 샘플 채취.",
+      "full_translated": "매홍손 주 람 강의 물고기 떼죽음 현장 조사. 많은 물고기가 비정상적으로 죽어 있는 것이 발견된 후, 물고기를 먹지 않도록 경고합니다. 2026년 3월 10일, 팡마파 지구의 나이 위라퐁 라타나스리 지역 책임자는 안보 담당자, 매홍손 지방 어업 담당자, 팡마파 지역 공중 보건 담당자, 싱하나트 특수 부대 군인, 파이 강 유역 야생 동물 보호 구역, 팡마파 산림 보호 부대와 협력하여 람후아이 파몬 개울과 람 강의 원인을 알 수 없는 비정상적인 물고기 죽음에 대한 지역을 조사하도록 명령했습니다.  당국은 해당 지역의 물 샘플과 죽은 물고기 표본을 수집하여 사망 원인을 조사했습니다. 죽은 물고기는 대부분 람 강을 통과하는 파몬 동굴에 사는 큰 물고기였습니다. 2026년 2월 27일부터 현재까지 계속해서 죽어가고 있습니다.\n\n... 람 강가에서 죽은 비둘기가 발견된 경우, 당국은 죽음의 원인이 람 강물을 마셨기 때문이라고 확신하지 못하고 있습니다. 해당 지역에서 한 마리의 새만 발견되었고, 새가 이미 병에 걸렸을 수 있습니다. 물을 마시러 왔다가 죽어 주민들이 죽은 물고기를 발견하고 새가 람 강물을 마시고 죽었다고 생각하게 만들었습니다. 그러나 조사 결과는 다음 주에 나올 것으로 예상됩니다. 우선 해당 지역 주민들에게 물고기를 섭취하지 않도록 발표했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 건강에 잠재적 위험이 될 수 있으므로 정보 제공. 식수 안전 문제와 연결될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "매홍손 주 랑 강",
+        "price": null,
+        "location_google_map_query": "Mae Hong Son River"
+      },
+      "references": [
+        {
+          "title": "เตือนห้ามกินปลาในแม่น้ำลาง หลังพบตายเกลื่อน เร่งตรวจสอบหาสาเหตุ",
+          "url": "https://www.thairath.co.th/news/local/north/2919184",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXpNLjzWKbqp1.jpg"
+        }
+      ],
+      "collected_at": "22:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXpNLjzWKbqp1.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "코랏 지역, 산불 발생: 빡총 지역 500라이 이상 피해",
+      "summary": "- 코랏 주지사가 빡총 지역의 카오 녹용 산불 진압을 긴급 지시.\n- 건조한 날씨와 강풍으로 인해 불길이 빠르게 확산되어 500라이 이상의 산림이 소실됨.\n- 소방 헬리콥터를 지원 요청하고, 인명 안전을 최우선으로 진화 작업 진행 중.",
+      "full_translated": "코랏 주지사가 빡총 지역의 카오 녹용 산불 진압을 긴급 지시했습니다. 500라이 이상의 산림이 불에 탔습니다. 2069년 3월 10일, 나콘랏차시마 주지사 아누퐁 숙솜닛은 관련 기관에 카오 녹용 지역의 산불 상황을 통제하기 위해 즉각적인 동원을 명령했습니다. 건조한 날씨와 강한 바람으로 인해 불길이 빠르게 확산되었기 때문입니다. 산불은 빡총 지역의 카오 녹용, 므엉 3, 반 농 양, 므엉 10, 반 프롬 프라카싯에서 발생했으며, 약 500라이의 산림이 소실되었습니다. 끄릿사톤 르트삼롱 빡총 군수는 주지사의 정책에 따라 현장 지휘를 맡아 카오 야이 국립공원 산불 통제 부대, 놈 1(빡총) 산림 보호 및 관리 부대, 시마몽콘 지방 자치 단체, 파야옌 구청 및 산불 대응팀과 협력하여 산불을 진압하고 있습니다. 현재 당국은 화재의 일부(카오 녹용의 후면)를 통제할 수 있었지만 여전히 2개의 위험 지점이 남아 있으며, 이는 가파른 절벽 지역이고 바람이 강하여 지상 요원이 접근하기 어렵습니다. 그럼에도 불구하고 나콘랏차시마 주지사 아누퐁 숙솜닛은 직원의 안전을 최우선으로 강조하고 자연 자원 환경부로부터 소방 항공기의 지원을 요청하여 접근하기 어려운 지점에 물을 투하하는 작전을 긴급히 수행했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "산불로 인해 특정 지역 방문이 제한될 수 있고, 연기로 인해 공기 질이 악화될 수 있어 여행자에게 영향을 줄 수 있음. 해당 지역 여행객은 주의가 필요함.",
+      "event_info": {
+        "date": null,
+        "location": "카오 녹용, 빡총 지역",
+        "price": null,
+        "location_google_map_query": "Khao Yai National Park, Pak Chong"
+      },
+      "references": [
+        {
+          "title": "ผู้ว่าฯ โคราช สั่งเร่งคุม \"ไฟป่าเขานกยูง\" อ.ปากช่อง หลังไฟไหม้ป่ากว่า 500 ไร่",
+          "url": "https://www.thairath.co.th/news/local/2919185",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXpTxEoaEafgU.jpg"
+        }
+      ],
+      "collected_at": "22:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXpTxEoaEafgU.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "태국 여행사, 장거리 여행 시장 회복에 비관적",
+      "summary": "- 태국 여행사 협회(Atta)는 중동 분쟁으로 인해 장거리 여행 시장이 타격을 입어 태국 방문객 수가 최대 50% 감소할 수 있다고 전망함.\n- 3월 1일부터 8일까지 주간 방문객 수는 9% 감소했으며, 특히 유럽과 중동에서 18% 감소함.\n- 중국은 118만 명으로 여전히 가장 큰 방문객 시장이며, 말레이시아, 러시아, 인도, 한국이 그 뒤를 잇고 있음.",
+      "full_translated": "태국 관광 산업은 중동 분쟁이 장거리 여행에 미치는 갑작스러운 영향으로 어려움을 겪고 있으며, 항공편 차질로 인해 주간 도착률이 13% 감소했습니다. 새로운 추세에 비추어 태국 여행사 협회(Atta)는 장거리 출발 시장에서 태국으로의 도착이 올해 50%까지 감소할 수 있다고 말합니다. 1,000만 명의 방문객을 기여한 장거리 시장은 2025년 전체 외국인 도착이 7% 이상 감소했을 때 몇 안 되는 밝은 지점 중 하나였습니다.\n\n관광체육부에 따르면 3월 1일부터 8일까지 주간 도착은 2월 28일에 시작된 미국-이스라엘 분쟁의 격화에 따라 전주보다 9% 감소한 616,229명입니다. 장거리 시장은 13%로 가장 큰 감소폭을 기록했으며 유럽과 중동에서 18% 감소했습니다. 가장 큰 감소는 독일, 러시아, 영국, 프랑스 및 이스라엘 관광객 사이에서 나타났습니다. 1월 1일부터 3월 8일까지 외국인 도착은 총 724만 명으로 전년 동기 대비 4.35% 감소했습니다. 중국은 118만 명으로 여전히 가장 큰 시장이며, 말레이시아(685,126명), 러시아(566,259명), 인도(468,340명) 및 한국(343,349명)이 그 뒤를 잇고 있습니다.\n\nAtta의 명예 사무총장인 Adith Chairattananon은 이번 전쟁이 장거리 시장에 큰 영향을 미칠 것으로 예상했습니다. 협회는 가능한",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행 시장에 대한 전반적인 전망을 제공하며, 특히 장거리 여행객 감소에 대한 정보는 여행 계획에 영향을 줄 수 있음. 기존 뉴스에 유사 내용이 없으므로 업데이트로 간주.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai travel agents pessimistic about long-haul rmarket recovery",
+          "url": "https://www.bangkokpost.com/business/general/3213975/thai-travel-agents-pessimistic-about-longhaul-rmarket-recovery",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213975_700.jpg"
+        }
+      ],
+      "collected_at": "22:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260310/c1_3213975_700.jpg",
+      "date": "2026-03-10"
+    },
+    {
+      "title": "미국, 이란과의 전쟁 초기 이틀 만에 1,760억 바트 상당의 무기 소모",
+      "summary": "- 미국이 이란과의 전쟁 개시 후 단 이틀 만에 막대한 양의 무기를 사용해 의회의 우려를 낳고 있음.\n- CNN 보도에 따르면 미국은 이미 56억 달러(약 1,760억 바트) 이상의 무기를 소모함.\n- 의회는 국방부의 과도한 무기 소모에 대한 우려와 함께 추가 예산 요청 가능성에 주목하고 있음.",
+      "full_translated": "미국 관리들은 미국이 이란과의 전쟁에서 단 2일 만에 1,760억 바트 이상의 무기와 장비를 사용했다고 밝혔으며, 이는 의회에 우려를 불러일으키고 있다고 CNN이 2569년 3월 10일에 보도했습니다. 국방부가 월요일 의회에 제출한 평가에 대해 잘 아는 2명의 소식통에 따르면 미군은 이란과의 전쟁에서 단 2일 만에 56억 달러(약 1,760억 바트) 이상의 무기와 장비를 사용했습니다. 막대한 금액으로 인해 의회에서 상당한 우려가 제기되고 있습니다. 국방부는 정밀 유도 장거리 무기를 포함한 첨단 무기 시스템을 빠르게 소모하고 있습니다. 애리조나주 민주당 상원의원인 마크 켈리는 미국과 동맹국이 이란의 탄도 미사일과 드론을 요격하기 위해 엄청난 양의 방공 미사일을 사용하고 있으며, 테헤란은 또한 “엄청난 규모의 무기고”를 보유하고 있다고 지적했습니다. 켈리는 상원 의원들이 오늘 비공개 회의에서 미국이 이번 전쟁으로 인해 부담해야 하는 \"하루 비용\"에 대해 보고자들에게 질문할 것이라고 밝혔습니다. 의회 소식통들은 CNN에 현재 진행 중인 전쟁으로 인해 정부가 무기와 장비 생산을 가속화하기 위해 의회에 \"추가 예산\"을 요청해야 할 수도 있다고 말했습니다. 한 의회 관리는 \"그것이 다음 큰 싸움(의회에서)이 될 것입니다.\"라고 말했습니다. 해외 뉴스를 팔로우하세요: [https://www.thairath.co.th/news/foreign/2919190](https://www.thairath.co.th/news/foreign/2919190) ... 출처: cnn ... ...",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향은 없으나, 국제 정세 불안정은 잠재적 위험 요소가 될 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สงครามแค่ 2 วันแรก สหรัฐฯ ผลาญอาวุธไปแล้ว มูลค่า 1.76 แสนล้านบาท",
+          "url": "https://www.thairath.co.th/news/foreign/2919190",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtYLPkgpC7lddx.jpg"
+        }
+      ],
+      "collected_at": "22:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtYLPkgpC7lddx.jpg",
       "date": "2026-03-10"
     }
   ]
