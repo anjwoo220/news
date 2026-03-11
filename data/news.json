@@ -884,14 +884,9 @@
       "summary": "- WHO는 이란 정유소 공격 후 발생한 '검은 비'의 위험성을 경고했습니다.\n- 오염된 빗물이 수자원과 국민 건강에 심각한 영향을 미칠 수 있다고 합니다.\n- 피부 화상 및 폐 손상 위험이 있으며, 국민들에게 실내에 머물 것을 권고했습니다.",
       "full_translated": "세계보건기구(WHO)는 이란 정유소 공격 이후 '검은 비'의 위험성을 경고했습니다. 크리스티안 린드마이어 WHO 대변인은 최근 공격으로 심각한 화재가 발생한 이란 정유소에서 발생한 오염 물질로 인해 대기 질에 대한 우려가 커지고 있으며, 이는 심각한 건강상의 위험을 초래할 수 있다고 밝혔습니다. 테헤란의 샤흐란 정유소를 포함한 여러 연료 저장 시설이 공습을 받아 화재가 발생하여 짙은 검은 연기가 대기 중으로 솟아올랐습니다. 이로 인해 이란 당국은 지난 주말 국민들에게 집에 머물 것을 권고했습니다. 빗물이 오염된 대기를 통과하면 오염 물질과 섞여 땅으로 떨어지게 됩니다. 또한, 빗물은 이산화황 및 질소 산화물과 같은 가스와 반응하여 산성비가 될 가능성도 있습니다. 린드마이어는 \"검은 비와 그에 따른 산성비는 해당 지역 주민들에게 진정한 위험입니다.\"라고 말했습니다. 이란 적신월사(Red Crescent Society)는 매우 위험한 수준의 산성 빗물의 위험성에 대해 경고하며 \"피부 화상과 폐에 심각한 손상을 일으킬 수 있습니다.\"라고 밝혔습니다. 또한, 비가 오는 동안과 그 후에도 건물에서 나가지 말 것을 촉구했습니다. 유엔 인권 책임자인 볼커 튀르크는 화요일에 \"저는 이러한 정유소 화재로 인해 국민들이 겪을 건강 및 환경 영향에 대해 매우 우려하고 있습니다. 여기에는 오염된 물과 공기, 그리고 토양에 대한 잠재적 영향이 포함됩니다.\"라고 말했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국은 아니지만 인접 국가의 환경 문제로 인해 여행 심리 위축 가능성 존재. 직접적인 위험은 낮으나 정보 제공 가치 있음.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "WHO เตือนภัย “ฝนพิษสีดำ” ในอิหร่าน หวั่นส่งผลกระทบระยะยาว",
@@ -900,23 +895,20 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAo5qpWXJoFOr.jpg"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAo5qpWXJoFOr.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/foreign/2919208",
+      "source": ""
     },
     {
       "title": "캄보디아, 베트남, 태국과 함께 동남아 여행 열풍을 주도",
       "summary": "- 캄보디아가 베트남, 태국과 함께 동남아 여행 시장 활성화에 나섰습니다.\n- 이 세 국가는 매력적인 관광 상품과 경험을 제공하여 여행객을 유치하고 있습니다.\n- 동남아 여행 시장은 더욱 성장할 것으로 기대됩니다.",
       "full_translated": "캄보디아가 베트남, 태국과 함께 동남아시아 여행 열풍을 주도합니다!&nbsp;&nbsp;Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행에 직간접적인 영향, 새로운 정보이므로 포함",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "Cambodia Joins Vietnam and Thailand to Trigger the Biggest Travel Frenzy Southeast Asia Has Ever Seen! - Travel And Tour World",
@@ -925,8 +917,110 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:48",
+      "collected_at": "6:48",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-11",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSC14WjBya0F1RUd2eHh1ajZMVXp0dDEtTks5c0gxRDhqemZsamptZW9BMVZxWnJWejN5SThnaHdneUZCX1A5OUExcVdFSl9nOUNOMVE5NEJYTlVWdG5LbFBTXzlJVUFQbGlpN1lCWkhWWUJidkN5NmJtZmtpeXpYOFhuNldKV2pYUFozS2pHbkRiamhHOVJSRlktLXFWQ2EwZ09uVHBrQTJFNjFTaWZBcV85bDJSN20yelM2cTNkRGJJT2xoSTZMbkpid0JjUVJBUUx5Yk1zR3RWVTdoTDBTSGtoYVY?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야 '스테이크 히어 티' 사건: 인종 차별 논란 속 경찰 조사, 사회적 사과",
+      "summary": "- '스테이크 히어 티'로 알려진 남성이 카렌족 남성을 폭행한 사건으로 경찰 조사를 받음.\n- 그는 자신의 행동에 대해 사회에 사과하며, 태국인의 존엄성을 지키기 위한 행동이었다고 주장.\n- 이번 사건은 인종 차별 논란을 불러일으키며 사회적 공분을 사고 있음.",
+      "full_translated": "아치와 테는 '히어 티'를 경찰에 데려가 사회에 사과하고 태국인의 존엄성을 계속 보호하겠다고 밝혔습니다.\n\n'아치와 테'는 '히어 티'를 파타야 경찰서에 데려가 동생을 대신해 사회에 사과했습니다. 그는 태국인의 존엄성을 계속 보호하겠다고 다짐하며, 일부 불순한 무리들이 돈 문제를 공격하는 것을 인정했습니다. 그는 과거 사건들을 처리할 때 진심으로 돈을 썼다고 말하며, 족장이 국가를 위해 무엇을 했는지 되물었습니다. 다른 사람들이 시민권을 얻는 것은 쉬운 일이 아닙니다. 한 카렌족 남성이 파타야 남부 10번 빌리지의 바 호스트 앞에서 구타당해 입에서 피가 나는 영상에서 시작되었습니다. 이 영상은 '스테이크 히어 티' 또는 '히어 티 타이 마이 톤'(43세의 아이야왓 티티와타나카녹)의 소셜 미디어를 통해 공개되었습니다. 27세의 데는 피고인이었고, 그는 이 남성이 태국인을 공격한 후 처벌한 것이라고 주장했습니다. 어떤 사람들은 이것이 태국인의 존엄성을 보호하는 것이라고 생각했고, 다른 사람들은 자경단과 같은 폭력 사용의 적절성에 의문을 제기했습니다. 이후 시민인 수크사왓 탑마놋 또는 모드담 톤부리와 타왓차이 찬탈락 또는 오 쌍둥이 지옥은 피해자인 27세의 데를 데려갔습니다. 그는 칸차나부리 지방 반 카오 지구에 거주하는 카렌족이며, 아이야왓 티티와타나카녹(43세) 또는 '스테이크 히어 티'를 폭행, 감금, 명예훼손으로 고소하기 위해 파타야 경찰서에 신고했습니다. 그는 허위 정보를 컴퓨터 시스템에 입력했습니다. ... 이후 2069년 3월 10일 17:30에 '타이 마이 톤'의 멤버인 아크라웃 부라나폰 또는 테 아치와는 아이야왓 티티와타나...",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 발생한 인종 차별 논란 관련 사건으로, 여행객 안전에 대한 우려를 야기할 수 있으며, 파타야 방문 시 주의를 요함. 최근 사건의 진행 상황 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "“เต้ อาชีวะ” พา “เฮียตี๋” พบตำรวจ ไหว้ขอโทษสังคม ลั่นเดินหน้าปกป้องศักดิ์ศรีคนไทยต่อ",
+          "url": "https://www.thairath.co.th/news/crime/2919214",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAbypHdPJ10XF.jpg"
+        }
+      ],
+      "collected_at": "08:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvAbypHdPJ10XF.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "2026년 4월 태국 공휴일 안내: 송끄란 축제 및 은행 휴무일 확인",
+      "summary": "- 2026년 4월에는 송끄란 축제를 포함한 공휴일이 있어 장기간 휴무 가능.\n- 4월 6일 짜끄리 왕조 기념일, 4월 13~15일 송끄란 축제로 공휴일 지정.\n- 4월 4~6일, 4월 11~15일 장기 연휴 예상되니 여행 계획에 참고.",
+      "full_translated": "2026년 4월 장기 휴가를 계획하는 사람들은 공휴일을 확인하세요. 2026년 4월 공휴일, 은행 휴무일, 송끄란 축제는 언제일까요? 4월은 많은 사람들이 손꼽아 기다리는 달입니다. 학생들에게는 방학이 있어 휴식을 취할 수 있고, 직장인들에게는 송끄란 축제가 있어 긴 휴가를 즐길 수 있기 때문입니다. 2026년 4월에 여행이나 고향 방문을 계획하고 있다면 공휴일, 은행 휴무일, 송끄란이 언제인지 확인하세요.\n\n- 2026년 4월 6일 월요일: 짜끄리 왕조 기념일 (공무원, 은행 휴무)\n- 2026년 4월 13일 월요일: 송끄란 (공무원, 은행 휴무)\n- 2026년 4월 14일 화요일: 송끄란 (공무원, 은행 휴무)\n- 2026년 4월 15일 수요일: 송끄란 (공무원, 은행 휴무)\n\n따라서 2026년 4월에는 4월 4일 토요일부터 4월 6일 월요일까지 3일간의 연휴와 4월 11일 토요일부터 4월 15일 수요일까지 5일간의 연휴가 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 송끄란 축제는 중요한 관광 이벤트이며, 해당 기간의 공휴일 정보는 여행 계획에 필수적이다. 2026년 정보이긴 하지만 미리 알면 계획에 도움이 된다.",
+      "event_info": {
+        "date": "2026-04-13",
+        "location": "태국 전역",
+        "price": "무료 (일부 행사 제외)",
+        "location_google_map_query": "태국 송끄란 축제"
+      },
+      "references": [
+        {
+          "title": "วันหยุดเดือนเมษายน 2569 วันหยุดราชการ วันหยุดธนาคาร เช็กเลย \"หยุดสงกรานต์\" วันไหนบ้าง",
+          "url": "https://www.thairath.co.th/news/society/2919188",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXoKjE2IS9PpB.jpg"
+        }
+      ],
+      "collected_at": "08:12",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvtXoKjE2IS9PpB.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "미국, 이란의 기뢰 매설을 표적으로 삼아... 전쟁으로 석유 시장 혼란 야기",
+      "summary": "- 미국은 호르무즈 해협에 기뢰를 부설하는 이란 선박을 공격했다고 발표하며 긴장이 고조됨.\n- 이스라엘은 베이루트와 테헤란에 공습을 감행, 중동 전쟁이 격화되는 양상임.\n- 석유 가격이 급등하며 글로벌 시장에 혼란을 야기하고 있으며, 트럼프 대통령은 유가 상승에 대한 정치적 압박을 받고 있음.",
+      "full_translated": "미국은 화요일, 호르무즈 해협에 기뢰를 부설할 수 있는 이란 선박을 공격했다고 밝혔으며, 테헤란이 계속 진행할 경우 상황이 악화될 것이라고 위협했습니다. 중동 전쟁이 세계 석유 시장에 큰 혼란을 일으키고 있습니다. 이스라엘은 수요일 새벽 베이루트와 테헤란에 새로운 공습을 시작했으며, 이스라엘의 폭격으로 연료 저장고에서 검은 비가 쏟아진 후 격렬한 공격에 대비하고 있습니다. 미군은 이란 보트가 미사일과 다른 발사체에 의해 폭파되는 비디오 영상을 게시하면서 세계 석유의 5분의 1이 통과하는 걸프만의 관문인 호르무즈 해협 근처에서 16개의 기뢰 매설 함정을 파괴했다고 밝혔습니다. 도널드 트럼프 대통령은 소셜 미디어에 \"어떤 이유로든 지뢰가 설치되어 제거되지 않으면 이란에 대한 군사적 결과는 전례 없는 수준이 될 것\"이라고 썼습니다. 트럼프 대통령은 미국 선거를 몇 달 앞두고 급등하는 유가에 대한 정치적 위험에 직면해 있습니다. 화요일 늦게 유가는 5% 급등했지만 월요일 최고치인 배럴당 100달러 이상에서는 하락했습니다. 트럼프 대통령은 미국 군대가 유조선을 호르무즈 해협을 통과하도록 동행할 것을 제안했지만 그의 행정부는 에너지 장관의 첫 호위 발표가 사실이 아니라고 인정했습니다. 트럼프 대통령은 불안한 시장을 주시하면서 월요일 전쟁이 짧을 것이라고 말했지만 피트 헤지세스 국방장관은 화요일 테헤란이 전례 없는 화력을 받을 것이라고 말했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역의 긴장은 국제 유가에 영향을 미쳐 여행 비용 상승을 야기할 수 있으며, 잠재적인 테러 위협 가능성도 존재하므로.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협, 베이루트, 테헤란",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "US targets Iran mine-laying as war causes oil market havoc",
+          "url": "https://www.bangkokpost.com/world/3214449/us-targets-iran-minelaying-as-war-causes-oil-market-havoc",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_6000464_700.jpg"
+        }
+      ],
+      "collected_at": "08:12",
+      "image_url": "https://static.bangkokpost.com/media/content/20260311/c1_6000464_700.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "MR. D.I.Y., 2027년까지 태국 전역에 1,500개 매장 목표",
+      "summary": "- MR. D.I.Y. Holding (Thailand) Plc는 올해 40억 바트를 투자하여 210개의 새로운 매장을 열고 자동화된 창고를 건설할 계획입니다.\n- 21억 바트는 신규 매장 및 창고 확장에 할당되며, 19억 바트는 사뭇프라칸의 아라야 산업 단지에 160라이 규모의 자동화 창고 건설에 사용됩니다.\n- 이 자동화 창고는 2031년 완공 시 약 3,000개 매장의 제품 유통을 지원할 것으로 예상되며, 부분적으로는 2028년부터 운영을 시작할 예정입니다.",
+      "full_translated": "MR. D.I.Y. Holding (Thailand) Plc는 올해 40억 바트를 투자하여 210개의 새로운 매장을 열고 자동화된 창고를 건설할 계획입니다. 약 21억 바트가 신규 매장 및 창고 확장에 할당되고, 19억 바트는 관련 비용을 포함하여 사뭇프라칸의 아라야 산업 단지에 160라이 규모의 자동화 창고를 건설하는 데 사용됩니다. 자동화 창고는 2031년 완공 시 약 3,000개 매장의 제품 유통을 지원할 것으로 예상되며, 부분적으로는 2028년부터 운영을 시작합니다. Andy Chin 최고 경영자는 태국이 홈 개선 및 라이프스타일 소매 시장에서 여전히 상당한 성장 여지가 있다고 말했습니다. 회사는 6개의 핵심 카테고리에 걸쳐 약 16,000개의 품목을 제공합니다. 제품의 약 75%는 중국, 인도, 말레이시아, 인도네시아 및 베트남에서 수입되고, 25%는 약 300개의 현지 공급업체에서 공급받습니다. MR. D.I.Y.의 제품은 비용 기반 가격 책정 전략으로 인해 다른 소매업체가 제공하는 유사한 제품보다 약 27% 저렴하다고 Chin은 말했습니다. 이 전략은 강력한 시장 점유율과 브랜드 인지도를 통해 태국에서 가장 빠르게 성장하는 일반 홈 개선 및 라이프스타일 소매업체로서의 입지를 강화했습니다. 소매 심리에 대해 Chin은 회복 조짐이 있다고 말했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행객에게 직접적인 영향은 적으나, 대형 쇼핑 체인의 확장 정보는 쇼핑 편의성 측면에서 간접적인 정보가 될 수 있음. 현재 08시이므로, 하루 쇼핑 계획에 참고할 수 있도록 포함.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역",
+        "price": null,
+        "location_google_map_query": "MR. D.I.Y. 태국"
+      },
+      "references": [
+        {
+          "title": "MR. D.I.Y. targets 1,500 outlets nationwide by 2027",
+          "url": "https://www.bangkokpost.com/business/general/3214149/mr-diy-targets-1500-outlets-nationwide-by-2027",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/11/5999859_700.jpg"
+        }
+      ],
+      "collected_at": "08:12",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/11/5999859_700.jpg",
       "date": "2026-03-11"
     }
   ]
