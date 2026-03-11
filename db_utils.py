@@ -84,7 +84,7 @@ def load_news_from_sheet(worksheet="news"):
             if pd.isna(item.get('date')): continue
             
             # Robust Date Parsing (Handle '2024-01-01T...' and '2024-01-01 00:00:00')
-            date_str = str(item['date']).split('T')[0].split(' ')[0] # Ensure YYYY-MM-DD string
+            date_str = str(item['date']).strip().split('T')[0].split(' ')[0] # Ensure YYYY-MM-DD string
             if date_str not in news_by_date:
                 news_by_date[date_str] = []
             
@@ -120,7 +120,7 @@ def load_news_from_sheet(worksheet="news"):
 
     except Exception as e:
         print(f"Error loading news from sheet: {e}")
-        return {}
+        return None
 
 def load_recent_news(days=7):
     """
@@ -155,7 +155,7 @@ def load_recent_news(days=7):
         for item in records:
             if pd.isna(item.get('date')): continue
             
-            date_str = str(item['date']).split('T')[0].split(' ')[0]
+            date_str = str(item['date']).strip().split('T')[0].split(' ')[0]
             
             # Skip old dates (the optimization)
             if date_str < cutoff_date:
@@ -228,7 +228,7 @@ def load_news_by_date(target_date):
         for item in records:
             if pd.isna(item.get('date')): continue
             
-            date_str = str(item['date']).split('T')[0].split(' ')[0]
+            date_str = str(item['date']).strip().split('T')[0].split(' ')[0]
             
             if date_str != target_date:
                 continue

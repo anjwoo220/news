@@ -81,6 +81,7 @@ UI_TEXT = {
     "nav_taxi": {"ko": "🚕 택시", "en": "🚕 Taxi"},
     "nav_event": {"ko": "🎪 이벤트", "en": "🎪 Events"},
     "nav_board": {"ko": "🗣️ 게시판", "en": "🗣️ Board"},
+    "nav_jobs": {"ko": "💼 취업", "en": "💼 Jobs"},
     "sidebar_menu": {"ko": "📌 메뉴 선택", "en": "📌 Menu Selection"},
     "sidebar_info": {"ko": "💡 정보 & 지원", "en": "💡 Info & Support"},
     "sidebar_lang": {"ko": "🌐 언어 설정 (Language)", "en": "🌐 Language Settings"},
@@ -510,6 +511,10 @@ SEO_TITLES = {
     "nav_board": {
         "ko": "🗣️ 태국 여행 커뮤니티 | 오늘의 태국",
         "en": "🗣️ Thailand Travel Community | Thai Today"
+    },
+    "nav_jobs": {
+        "ko": "💼 태국 취업 정보 | 오늘의 태국",
+        "en": "💼 Thailand Job Listings | Thai Today"
     }
 }
 
@@ -799,6 +804,7 @@ def extract_hotel_share_summary(hotel_name: str, analysis: dict) -> str:
     return share_text
 
 # --- Hotel Caching (Google Sheets) ---
+@st.cache_resource
 def get_hotel_gsheets_client():
     """Authenticates gspread using secrets (GOOGLE_SHEETS_KEY or connections.gsheets_news)."""
     try:
@@ -1039,6 +1045,7 @@ def log_search(name, rating, category):
         if not client:
             return
 
+        # Optimization: Open sheet only once
         sh = client.open("hotel_cache_db")
         
         # 'search_log' 워크시트 가져오기 또는 생성
@@ -1337,7 +1344,13 @@ def get_cached_restaurants_sheet():
         print(f"Cache Sheet Error: {e}")
         return None
 
+# 전역 변수로 시트 객체 캐싱 (st.cache_resource 적용)
+@st.cache_resource(ttl=3600)
+def get_cached_restaurants_sheet_resource():
+    return get_cached_restaurants_sheet()
 
+
+@st.cache_data(ttl=600)  # 10분간 캐시
 def search_cached_restaurants(keyword):
     """
     캐시된 식당 중에서 검색어와 일치하는 식당을 찾습니다.
@@ -1348,7 +1361,7 @@ def search_cached_restaurants(keyword):
     Returns:
         list: 캐시된 식당 리스트
     """
-    sheet = get_cached_restaurants_sheet()
+    sheet = get_cached_restaurants_sheet_resource()
     if not sheet:
         return []
     
@@ -1373,11 +1386,12 @@ def search_cached_restaurants(keyword):
         return []
 
 
+@st.cache_data(ttl=600)
 def get_cached_restaurant_details(location_id, language="Korean"):
     """
     캐시에서 식당 상세 정보를 가져옵니다. (언어 인식)
     """
-    sheet = get_cached_restaurants_sheet()
+    sheet = get_cached_restaurants_sheet_resource()
     if not sheet:
         return None
     
@@ -1465,7 +1479,7 @@ def save_restaurant_to_cache(location_id, details):
         location_id: Google Places 위치 ID
         details: 식당 상세 정보
     """
-    sheet = get_cached_restaurants_sheet()
+    sheet = get_cached_restaurants_sheet_resource()
     if not sheet:
         return False
     
@@ -1506,10 +1520,17 @@ def save_restaurant_to_cache(location_id, details):
         ]
         
         if existing:
-            # 업데이트
-            for i, value in enumerate(row):
-                sheet.update_cell(existing.row, i + 1, value)
-            print(f"✅ Restaurant cache updated: {location_id}")
+            # 업데이트: 개별 셀 업데이트 대신 한 번에 행 업데이트 (속도 개선)
+            # A부터 V(22번째 컬럼)까지 한 번에 업데이트
+            start_col = 1
+            end_col = len(row)
+            end_col_letter = chr(64 + end_col) if end_col <= 26 else "Z" # 간단한 A-Z 변환
+            
+            # gspread의 update([ [val1, val2, ...] ]) 사용
+            cell_range = f"A{existing.row}:{end_col_letter}{existing.row}"
+            sheet.update(cell_range, [row])
+            
+            print(f"✅ Restaurant cache updated (Bulk): {location_id}")
         else:
             # 새로 추가
             sheet.append_row(row)
@@ -2779,11 +2800,12 @@ def get_thb_krw_rate():
     Uses 'data/exchange_rate.json' for persistence.
     """
     RATE_FILE = 'data/exchange_rate.json'
-    url = "https://api.frankfurter.app/latest?from=THB&to=KRW"
-    
     # helper to save
     def save_rate(rate):
         try:
+            dir_name = os.path.dirname(RATE_FILE)
+            if dir_name and not os.path.exists(dir_name):
+                os.makedirs(dir_name, exist_ok=True)
             with open(RATE_FILE, 'w', encoding='utf-8') as f:
                 json.dump({"rate": rate, "updated_at": str(datetime.now())}, f)
         except: pass
@@ -2831,6 +2853,9 @@ def get_usd_thb_rate():
     # helper to save
     def save_rate(rate):
         try:
+            dir_name = os.path.dirname(RATE_FILE)
+            if dir_name and not os.path.exists(dir_name):
+                os.makedirs(dir_name, exist_ok=True)
             with open(RATE_FILE, 'w', encoding='utf-8') as f:
                 json.dump({"rate": rate, "updated_at": str(datetime.now())}, f)
         except: pass

@@ -1,6 +1,7 @@
 import streamlit as st
 import json
 import os
+import re
 import pytz
 import utils
 from datetime import datetime, timedelta
@@ -515,8 +516,7 @@ def update_events_if_stale():
                     added_count += 1
             
             # Save
-            with open(EVENTS_FILE, 'w', encoding='utf-8') as f:
-                json.dump(existing_events, f, ensure_ascii=False, indent=2)
+            save_json(EVENTS_FILE, existing_events)
                 
             return added_count
     return 0
@@ -652,6 +652,9 @@ def highlight_text_html(text):
     return text
 
 def save_json(file_path, data):
+    directory = os.path.dirname(file_path)
+    if directory and not os.path.exists(directory):
+        os.makedirs(directory, exist_ok=True)
     with open(file_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
 
@@ -852,6 +855,264 @@ def render_dinner_cruise_banner():
 # --------------------------------------------------------------------------------
 # ### TAB RENDER FUNCTIONS ###
 # --------------------------------------------------------------------------------
+
+@st.fragment
+def render_tab_jobs():
+    """Render the Jobs tab — 태국 취업/이직 정보 (AI 요약)"""
+    utils.set_page_title(utils.get_seo_title("nav_jobs"))
+    
+    is_english = st.session_state.get('language') == 'English'
+    
+    if is_english:
+        st.header("💼 Thailand Job Listings for Koreans")
+        st.caption("Daily AI-curated job postings from major Thai job sites, translated to Korean.")
+    else:
+        st.header("💼 태국 취업/이직 정보 (AI 요약)")
+        st.caption("매일 아침 태국 주요 사이트의 한국인 관련 공고를 모아 한국어로 번역해 드립니다.")
+
+    # 1. 구글 시트에서 데이터 가져오기
+    try:
+        conn = st.connection("gsheets_jobs", type=GSheetsConnection)
+        df = conn.read(worksheet="Jobs", ttl="1h")
+    except Exception as e:
+        st.warning("⚠️ 데이터를 불러오는 중 오류가 발생했습니다. 잠시 후 다시 시도해주세요." if not is_english else "⚠️ Error loading data. Please try again later.")
+        st.caption(f"Error: {e}")
+        return
+
+    if df is None or df.empty:
+        st.info("📝 아직 수집된 채용 공고가 없습니다." if not is_english else "📝 No job listings available yet.")
+        return
+
+    # Helper: 급여 문자열에서 숫자(THB 등) 추출
+    def parse_salary(val):
+        val_str = str(val).lower()
+        # 협의, negotiable, based on 등 텍스트만 처리
+        if '협의' in val_str or 'negotiable' in val_str or 'based' in val_str or val_str.strip() == '':
+            return 0
+        # 숫자만 모두 이어붙인 후 정수화
+        digits = re.sub(r'\\D', '', val_str)
+        if digits:
+            try:
+                return int(digits)
+            except ValueError:
+                return 0
+        return 0
+
+    # 1.1 데이터 정제 및 수명 관리 (30일 이내 공고만)
+    df = df.fillna("")
+    
+    # 만약 수집일시/게시일 기준 30일 필터링 (컬럼이 존재하면)
+    date_col = "수집일시" if "수집일시" in df.columns else ("게시일" if "게시일" in df.columns else "")
+    if date_col:
+        valid_rows = []
+        thirty_days_ago = datetime.now() - timedelta(days=30)
+        
+        for idx, row in df.iterrows():
+            d_str = str(row[date_col]).strip()
+            # YYYY-MM-DD HH:MM:SS or YYYY-MM-DD
+            try:
+                # 10자리까지 자르면 YYYY-MM-DD
+                d_obj = datetime.strptime(d_str[:10], "%Y-%m-%d")
+                if d_obj >= thirty_days_ago:
+                    valid_rows.append(True)
+                else:
+                    valid_rows.append(False)
+            except ValueError:
+                valid_rows.append(True)  # 파싱 실패하면 일단 표시
+                
+        df = df[valid_rows]
+
+    if df.empty:
+        st.info("📝 최근 30일 내 업데이트된 공고가 없습니다." if not is_english else "📝 No recent job listings available.")
+        return
+
+    # NaN 값 빈 문자열로 대체
+    df = df.fillna("")
+
+    # --- 오늘의 공고 공유하기 기능 ---
+    # 태국 시간(UTC+7) 기준 오늘 날짜 구하기
+    tz_bkk = pytz.timezone('Asia/Bangkok')
+    today_bkk = datetime.now(tz_bkk).strftime('%Y-%m-%d')
+    
+    # Date column 확인
+    share_date_col = "수집일시" if "수집일시" in df.columns else ("게시일" if "게시일" in df.columns else "")
+    today_jobs = []
+    
+    if share_date_col:
+        for idx, row in df.iterrows():
+            d_str = str(row[share_date_col]).strip()
+            if d_str.startswith(today_bkk):
+                today_jobs.append(row)
+                
+    with st.expander("📲 오늘의 공고 복사해서 공유하기", expanded=False):
+        if not today_jobs:
+            st.info("오늘은 새로 올라온 채용 공고가 없습니다.")
+        else:
+            share_text = f"📢 [오늘의 태국 채용 공고] {today_bkk}\n\n"
+            for i, row in enumerate(today_jobs, 1):
+                cat = row.get("카테고리", "기타")
+                title = row.get("직무명", "제목 없음")
+                company = row.get("회사명", "회사명 비공개")
+                salary = row.get("급여", "협의")
+                location = row.get("위치", "태국")
+                link = row.get("원본링크", "")
+                
+                share_text += f"{i}. [{cat}] {title}\n"
+                share_text += f"🏢 회사명: {company}\n"
+                share_text += f"💰 급여: {salary}\n"
+                share_text += f"📍 위치: {location}\n"
+                if link:
+                    share_text += f"👉 지원링크: {link}\n"
+                share_text += "\n"
+                
+            share_text += "🌐 더 많은 공고 보기: [thai-today.com]"
+            
+            st.caption("우측 상단의 복사 📋 아이콘을 눌러 단톡방에 공유해 보세요!")
+            st.code(share_text, language="markdown")
+    # ---------------------------------
+
+    # 2. 고도화된 필터 UI (3단 분할)
+    col1, col2, col3 = st.columns([1, 1, 1])
+    with col1:
+        search_keyword = st.text_input(
+            "🔍 검색어" if not is_english else "🔍 Search",
+            placeholder="예: 통역, 마케팅, POSCO" if not is_english else "e.g., interpreter, marketing"
+        )
+    with col2:
+        # 카테고리 (카테고리 컬럼이 있으면 우선 사용, 없으면 출처 필터 유지)
+        if "카테고리" in df.columns:
+            all_categories = sorted([c for c in df["카테고리"].unique() if str(c).strip()])
+            selected_categories = st.multiselect(
+                "📂 카테고리" if not is_english else "📂 Category",
+                options=all_categories,
+                default=[]
+            )
+            selected_source = None
+        else:
+            source_options = ["전체" if not is_english else "All"] + sorted(df["출처"].unique().tolist()) if "출처" in df.columns else []
+            selected_source = st.selectbox(
+                "📡 출처 필터" if not is_english else "📡 Source Filter",
+                source_options
+            )
+            selected_categories = []
+            
+    with col3:
+        # 최소 급여 슬라이더
+        min_salary_filter = st.slider(
+            "💰 최소 급여 (THB)" if not is_english else "💰 Min Salary (THB)",
+            min_value=0, max_value=150000, value=0, step=5000,
+            help="급여액 숫자가 기재된 공고만 필터링합니다. (0=전체)"
+        )
+
+    # 정렬 방식 선택
+    sort_option = st.radio(
+        "정렬 방식" if not is_english else "Sort By", 
+        ["최신순", "급여 높은 순"] if not is_english else ["Newest", "Highest Salary"],
+        horizontal=True
+    )
+
+    # 3. 데이터 필터링 적용
+    filtered = df.copy()
+    
+    # 3.1 검색어
+    if search_keyword:
+        mask = filtered.apply(lambda row: search_keyword.lower() in str(row).lower(), axis=1)
+        filtered = filtered[mask]
+        
+    # 3.2 카테고리 / 출처
+    if selected_categories:
+        filtered = filtered[filtered["카테고리"].isin(selected_categories)]
+    elif selected_source and selected_source not in ["전체", "All"]:
+        filtered = filtered[filtered["출처"] == selected_source]
+        
+    # 3.3 파생 컬럼: 파싱된 급여
+    filtered["_parsed_salary"] = filtered["급여"].apply(parse_salary)
+    
+    # 3.4 급여 슬라이더 (0보다 큰 값을 설정했을 때만)
+    if min_salary_filter > 0:
+        filtered = filtered[filtered["_parsed_salary"] >= min_salary_filter]
+
+    # 4. 정렬 방식 적용
+    sort_target = "최신순" if sort_option in ["최신순", "Newest"] else "급여"
+    
+    if sort_target == "최신순":
+        # 수집일시 > 게시일
+        sort_col = "수집일시" if "수집일시" in filtered.columns else ("게시일" if "게시일" in filtered.columns else None)
+        if sort_col:
+            filtered = filtered.sort_values(sort_col, ascending=False)
+    else:
+        # 급여 높은 순
+        filtered = filtered.sort_values("_parsed_salary", ascending=False)
+
+    # 결과 수 표시
+    st.markdown(f"**총 {len(filtered)}건**의 공고가 있습니다." if not is_english else f"**{len(filtered)} listings** found.")
+
+    if filtered.empty:
+        st.info("조건에 맞는 공고가 없습니다." if not is_english else "No listings match your criteria.")
+        return
+
+    # 5. UI 렌더링 (카드 형태)
+    now_obj = datetime.now()
+    for index, row in filtered.iterrows():
+        job_title = row.get("직무명", "제목 없음")
+        company = row.get("회사명", "")
+        source = row.get("출처", "")
+        cat = row.get("카테고리", "")
+        
+        # [🔥 NEW] 뱃지 로직 (수집일시가 3일 이내인 경우)
+        is_new = False
+        track_date_str = str(row.get("수집일시", "") or row.get("게시일", "")).strip()
+        if track_date_str:
+            try:
+                t_obj = datetime.strptime(track_date_str[:10], "%Y-%m-%d")
+                if (now_obj - t_obj).days <= 3:
+                    is_new = True
+            except ValueError:
+                pass
+                
+        badge = "[🔥 NEW] " if is_new else ""
+        cat_badge = f"  [{cat}]" if cat and cat != "기타" else ""
+        
+        # 헤더 텍스트 구성
+        header = f"📌 {badge}{job_title}"
+        if company:
+            header += f" — {company}"
+        header += cat_badge
+        if source:
+            header += f"  ({source})"
+
+        with st.expander(header):
+            c1, c2 = st.columns(2)
+            with c1:
+                salary = row.get("급여", "협의")
+                st.markdown(f"**💰 급여:** {salary if salary else '협의'}")
+            with c2:
+                location = row.get("위치", "태국")
+                st.markdown(f"**📍 위치:** {location if location else '태국'}")
+
+            collected = row.get("게시일", "")
+            if collected:
+                st.caption(f"📅 게시일: {collected}")
+
+            st.divider()
+
+            summary = row.get("업무요약", "")
+            if summary:
+                st.markdown("### 주요 업무")
+                st.write(summary)
+
+            qualifications = row.get("자격요건", "")
+            if qualifications:
+                st.markdown("### 자격 요건")
+                st.write(qualifications)
+
+            link = row.get("원본링크", "")
+            if link:
+                st.link_button(
+                    "🔗 원본 공고 보기" if not is_english else "🔗 View Original",
+                    link
+                )
+
 
 @st.fragment
 def render_tab_news():
@@ -1157,7 +1418,7 @@ def render_tab_news():
             if is_search_mode:
                  st.info(utils.t("no_news_results"))
             else:
-                 st.info(utils.t("no_news_update"), icon="⏳")
+                 st.info(f"DEBUG: selected={selected_date_str}, in_cache={selected_date_str in news_data}, news_data_keys={list(news_data.keys())}"); st.info(utils.t("no_news_update"), icon="⏳")
 
         # Render Cards
         all_comments_data = get_all_comments() # Load once
@@ -2013,7 +2274,7 @@ def render_tab_food():
                             st.rerun()
                 st.caption("※ 사용자들의 실제 검색 데이터를 기반으로 한 스마트 랭킹입니다.")
 
-        r_name = st.text_input(utils.t("searching"), placeholder=utils.t("rest_placeholder"), key="restaurant_input")
+        r_name = st.text_input(utils.t("search_rest"), placeholder=utils.t("rest_placeholder"), key="restaurant_input")
         
         search_btn = st.button(utils.t("search_rest"), key="btn_r_search", type="primary", use_container_width=True)
         
@@ -2043,6 +2304,7 @@ def render_tab_food():
                     st.session_state["restaurant_search_results"] = results
                     st.session_state["restaurant_selected"] = None
                     st.session_state["restaurant_details"] = None
+                    st.rerun() # Results found, force rerun to show them
     
     # --- 2단계: 검색 결과 표시 및 선택 ---
     search_results = st.session_state.get("restaurant_search_results", [])
@@ -3142,8 +3404,7 @@ if app_mode == "Admin Console":
                         result = utils.fetch_twitter_trends(api_key)
                         if result:
                             # Save to common file
-                            with open('data/twitter_trends.json', 'w', encoding='utf-8') as f:
-                                json.dump(result, f, ensure_ascii=False, indent=2)
+                            save_json('data/twitter_trends.json', result)
                             
                             # Push
                             utils.push_changes_to_github(['data/twitter_trends.json'], "Update Twitter Trends")
@@ -4772,25 +5033,25 @@ else:
         if is_english:
             nav_options = [
                 utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
-                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_board")
+                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
         else:
             # Korean Mode: Use Tour tab instead of Guide
             nav_options = [
                 utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
-                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_board")
+                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
     else:
         if is_english:
             nav_options = [
                 utils.t("nav_tour"), utils.t("nav_hotel"), utils.t("nav_food"), 
-                utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_news"), utils.t("nav_board")
+                utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_news"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
         else:
             # Korean Mode: Use Tour tab instead of Guide
             nav_options = [
                 utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
-                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_board")
+                utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
     
     # [MOD] Ensure nav_mode is valid for current language
@@ -4904,6 +5165,8 @@ else:
         render_tab_event()
     elif page_mode == utils.t("nav_board"):
         render_tab_board()
+    elif page_mode == utils.t("nav_jobs"):
+        render_tab_jobs()
 
 
 

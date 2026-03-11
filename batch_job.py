@@ -308,6 +308,10 @@ def main():
     
     # Load current news (Expect Dict, fallback to empty dict if list/invalid)
     current_news = load_news_from_sheet()
+    if current_news is None:
+        print("CRITICAL ERROR: Failed to load previous news. Aborting to prevent data loss.")
+        return
+        
     if isinstance(current_news, list):
         current_news = {} 
         
