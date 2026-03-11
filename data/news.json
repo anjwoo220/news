@@ -1016,14 +1016,9 @@
       "summary": "- 태국 관광청(TAT)은 중국 시장 확대를 위해 'Amazing Thailand Mega Trade Meet in China 2026' 개최.\n- 130개 이상의 태국 사업자가 참여하여 중국 여행사와의 비즈니스 상담 진행.\n- 'Amazing Thailand, The Journey Your Heart Leads' 캠페인을 통해 중국 관광객 유치 및 태국 이미지 제고 목표.",
       "full_translated": "태국 관광청(터터터)은 중국 시장 공략을 강화하기 위해 'Amazing Thailand Mega Trade Meet in China 2026'을 개최합니다. 130개 이상의 태국 사업자가 참여하여 중국 여행사와의 비즈니스 상담을 진행하며, 'Amazing Thailand, The Journey Your Heart Leads' 캠페인을 통해 중국 관광객 유치 및 태국 이미지 제고를 목표로 합니다. 이 캠페인은 '마음이 이끄는 여행'이라는 컨셉으로 태국이 중국 관광객의 요구를 충족시키는 목적지임을 강조하고, 장기적인 신뢰와 유대감을 구축하는 데 중점을 둡니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "중국인 관광객은 태국 관광 산업의 큰 부분을 차지하므로, 이들을 유치하려는 노력은 여행 관련 비즈니스에 영향을 미친다. 새로운 캠페인 및 사업자 간 협력 소식은 여행객에게 유용한 정보가 될 수 있다.",
-      "event_info": {
-        "date": null,
-        "location": "상하이",
-        "price": null,
-        "location_google_map_query": "상하이"
-      },
+      "event_info": "{'date': None, 'location': '상하이', 'price': None, 'location_google_map_query': '상하이'}",
       "references": [
         {
           "title": "ททท. เดินเกมรุกตลาดจีน นำทัพผู้ประกอบการไทยกว่า 130 ราย เจรจาธุรกิจ หวังดึงจีนเที่ยวไทยเพิ่ม",
@@ -1034,21 +1029,18 @@
       ],
       "collected_at": "10:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9fZZ2ZU30UcI.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/governmentpolicy/2919245",
+      "source": ""
     },
     {
       "title": "방콕, 태국 적십자사 근처 유류 탱크 보관소 화재 진압 완료, 부상자 없음",
       "summary": "- 방콕 앙리 뒤낭 거리의 태국 적십자사 내 유류 탱크 보관소에서 화재 발생.\n- 소방대가 신속히 출동하여 화재 진압 및 확산 방지 조치.\n- 현재 화재는 진압되었으며, 부상자는 없는 것으로 확인됨. 화재 원인 조사 중.",
       "full_translated": "11일, 09시 40분 방콕 앙리 뒤낭 거리의 태국 적십자사 내 유류 탱크 및 가스 탱크 보관소에서 화재가 발생했습니다. 반탓통 소방서 및 구조대가 현장에 출동하여 화재 진압에 나섰습니다. 화재는 1층에서 시작되어 2층으로 번졌으며, 소방대는 물과 거품을 사용하여 다른 건물로의 확산을 막았습니다. 10시 05분, 소방대는 화재를 진압하고 가스 및 연기를 배출했습니다. 현재까지 부상자는 보고되지 않았습니다. 화재 원인은 아직 조사 중이며, 자세한 내용은 추후 보도될 예정입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "화재 발생 지역이 여행객이 자주 방문하는 지역일 수 있으며, 유사 사고 재발 방지를 위한 안전 정보 제공 필요. 현재 진압 완료되었으므로 추가 위험은 낮은 편.",
-      "event_info": {
-        "date": "2024-03-11",
-        "location": "태국 적십자사, 방콕",
-        "price": null,
-        "location_google_map_query": "Thai Red Cross, Bangkok"
-      },
+      "event_info": "{'date': '2024-03-11', 'location': '태국 적십자사, 방콕', 'price': None, 'location_google_map_query': 'Thai Red Cross, Bangkok'}",
       "references": [
         {
           "title": "​ไฟไหม้ห้องเก็บถังน้ำมัน ใกล้สภากาชาดไทย คุมเพลิงได้แล้ว ไม่มีผู้บาดเจ็บ",
@@ -1059,21 +1051,18 @@
       ],
       "collected_at": "10:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9fHamSS1QHcu.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/local/bangkok/2919246",
+      "source": ""
     },
     {
       "title": "람푼 주, 산림 보호 구역 출입 및 산림 소각 금지 발표 (3월 10일 - 5월 31일). 위반 시 최대 10년 징역",
       "summary": "- 람푼 주는 산불 및 연무 상황 악화 방지를 위해 3월 10일부터 5월 31일까지 산림 보호 구역 출입 및 소각을 금지합니다.\n- 위반 시 최대 10년의 징역형에 처해질 수 있습니다.\n- 농업 폐기물 소각 및 산불 확산으로 PM2.5 초미세먼지 농도가 높아짐에 따라 엄격한 통제 조치를 시행합니다.",
       "full_translated": "람푼 주에서 산불 및 연무 상황이 악화될 가능성에 대비하여 2069년 3월 10일부터 5월 31일까지 산림 보호 구역 내 출입 및 소각을 금지하는 발표가 있었습니다. 이를 위반할 경우 최대 10년의 징역형을 받을 수 있습니다.\n\n정부 부대변인인 랄리다 페릿위왓타나 씨는 람푼 주에서 이 기간 동안 누구든 람푼 주 내 국립 산림 보호 구역에 들어가는 행위, 산림 소각, 산림 채취, 농업 지역 내 잡초 소각 등을 금지한다고 밝혔습니다. 현재 람푼 지역은 농업 폐기물 소각 및 산불 확산으로 인해 PM2.5 초미세먼지 농도가 기준치를 초과하고 있으며, 계속 증가하는 추세입니다. 이는 광범위한 지역 주민의 건강과 산림 자원에 영향을 미칠 수 있습니다.\n\n이에 따라 람푼 주는 2507년 국립 산림 보호법 25조에 의거, 엄격한 통제 조치를 시행합니다. 지정된 기간 동안 람푼 주 내 국립 산림 보호 구역에 무단으로 들어갈 수 없습니다. 다만, 산림 자원에 피해를 주지 않거나 산불 및 연무를 유발하지 않는 활동을 위해 산림 보호 구역에 들어가야 할 경우, 해당 지역의 촌장, 이장 또는 산림 부서에 사유, 필요성 및 출입 시간을 신고하고 등록해야 합니다. 또한, 당국으로부터 서면 허가를 받은 경우에만 해당 지역에 들어갈 수 있습니다. 허가 없이 숲에 들어가는 등의 위반 행위가 발견될 경우 법적 조치를 받게 됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 북부 지역 여행 시 산불 위험 및 관련 규제에 대한 정보 제공. 람푼 지역 여행객에게 영향을 줄 수 있으며, 대기 질 관련 정보는 여행 계획에 중요.",
-      "event_info": {
-        "date": "2069-03-10 ~ 2069-05-31",
-        "location": "람푼 주 산림 보호 구역",
-        "price": "해당 사항 없음",
-        "location_google_map_query": "람푼 주 산림 보호 구역"
-      },
+      "event_info": "{'date': '2069-03-10 ~ 2069-05-31', 'location': '람푼 주 산림 보호 구역', 'price': '해당 사항 없음', 'location_google_map_query': '람푼 주 산림 보호 구역'}",
       "references": [
         {
           "title": "จ.ลำพูนออกประกาศห้ามเข้าป่าสงวน–ห้ามเผาป่า 10 มี.ค. - 31 พ.ค. 69 ฝ่าฝืนโทษจำคุกสูงสุด 10 ปี",
@@ -1084,21 +1073,18 @@
       ],
       "collected_at": "10:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9fRsPDqkKUl2.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/politic/2919244",
+      "source": ""
     },
     {
       "title": "태국 정부, '함께 반반' 플러스 2단계 등록 방법 업데이트: '파오탕' 앱 통한 사용",
       "summary": "- 태국 정부의 '함께 반반' 플러스 2단계 프로젝트가 곧 시행될 예정입니다.\n- '파오탕' 앱을 통해 등록 및 신원 확인 절차를 거쳐야 합니다.\n- 이전과 동일하게 세금 시스템 외부의 사람들에게는 2,000바트, 내부에 있는 사람들에게는 2,400바트가 지급될 예정입니다.",
       "full_translated": "태국 정부의 '함께 반반' 플러스 2단계 프로젝트에 대한 최신 정보가 업데이트되었습니다. '파오탕' 앱을 통해 등록하고 신원을 확인하여 프로젝트 기간 동안 돈을 사용할 수 있습니다. '함께 반반' 2단계 프로젝트는 많은 사람들이 주목하고 있으며, 이전 라운드에서 매우 성공적이었던 것처럼 단기간에 태국 경제를 활성화하는 데 다시 역할을 할 것으로 기대됩니다. 아누틴 찬위라쿨 장관은 '함께 반반' 플러스 2단계가 확실히 있을 것이라고 확인했습니다. 에카니티 니티탄트라파 부총리 겸 재무부 장관은 정부가 공식적으로 구성되면 즉시 시행할 수 있도록 시스템을 준비해야 한다고 밝혔습니다. 세금 시스템 외부의 사람들에게는 2,000바트, 내부에 있는 사람들에게는 2,400바트가 지급되는 기존 원칙을 고수하고, 첫 번째 라운드에서 누락된 그룹에게 먼저 지급할지 여부를 고려할 것입니다. 개인 저축 계좌 (Thailand Individual Savings Account : TISA)를 통해 저축을 장려하는 것도 고려하고 있습니다. 이전 '함께 반반' 등록 조건은 다음과 같습니다. 1. 태국 국적 소지자 2. 등록일 현재 16세 이상 3. 국민 신분증 소지자 4. 2068년 10월 1일 현재 재무부 데이터베이스에 따른 국가 복지 카드 소지자가 아닌 자 5. 정부 프로젝트에서 권리가 정지되거나 환수되지 않은 자: (1) 함께 반반 프로젝트 (2) 함께 반반 프로젝트 2단계 (3) 함께 반반 프로젝트 3단계 (4) 함께 반반 프로젝트 4단계 (5) 함께 반반 프로젝트 5단계. 2,400바트를 받을 자격이 있는 그룹은 개인 소득세 신고서를 제출하는 사람들입니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행 시 경제적인 혜택을 받을 수 있는 정부 지원금 관련 정보이므로 여행자에게 유용할 수 있음. 다만, 기존에 유사한 프로젝트가 있었고 새로운 내용이 아주 획기적이지는 않으므로 중간 점수 부여.",
-      "event_info": {
-        "date": null,
-        "location": null,
-        "price": null,
-        "location_google_map_query": null
-      },
+      "event_info": "{'date': None, 'location': None, 'price': None, 'location_google_map_query': None}",
       "references": [
         {
           "title": "คนละครึ่งพลัส เฟส 2 อัปเดตวิธีลงทะเบียน ยืนยันตัวตน รับเงินใช้จ่ายผ่าน “เป๋าตัง”",
@@ -1109,21 +1095,18 @@
       ],
       "collected_at": "10:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9fcr7BXyyBQq.jpg",
-      "date": "2026-03-11"
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/society/2919242",
+      "source": ""
     },
     {
       "title": "8명의 10대 용의자 체포: 라이벌 집단 공격, 동생 문제 해결 주장",
       "summary": "- 타이 므앙 경찰은 라이벌 집을 공격한 8명의 10대 용의자를 체포했습니다.\n- 이들은 동생 문제를 해결하기 위해 갔다고 주장하며, 먼저 총에 맞았다고 주장합니다.\n- 경찰은 현재 이들을 심문하고 있으며, 아직 기소하지 않았습니다.",
       "full_translated": "타이므앙 경찰은 라이벌 집을 공격한 8명의 10대 용의자를 체포했습니다. 이들은 동생이 카차드 행사에서 폭행당한 것을 해결하기 위해 갔다고 주장하며, 상대방이 먼저 총을 쐈다고 주장합니다. 따라서 자기 방어를 위해 반격했다고 합니다. 당국은 아직 이들을 기소하지 않았으며, 사건 경위를 조사 중입니다. 사건은 3명의 부상자를 낸 10대들의 총격 사건으로, 논타부리 주 타이노이 지역의 한 마을에서 3월 10일 23시 30분에 발생했습니다. 수사 결과, 경찰은 용의자 8명을 체포하여 심문하고 CCTV 영상과 대조하고 있습니다. 또한, 범행에 사용된 차량인 혼다 시빅, 닛산 네바라, 오토바이 2대를 증거물로 압수하여 조사하고 있습니다. 용의자 중 한 명인 23세의 티라팟 임보이는 차를 몰고 들어가자마자 총격을 받았고, 차에 폭탄이 던져졌다고 진술했습니다. 그는 부상당한 친구를 병원에 데려다주기 위해 도망쳤다고 합니다. 또 다른 용의자인 20세의 움은 자신의 동생이 폭행당했다고 주장했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객이 많은 지역에서 발생한 총격 사건은 아니지만, 주의를 요하는 사건이므로 중간 점수 부여.",
-      "event_info": {
-        "date": "2069-03-10",
-        "location": "논타부리 주 타이노이 지역",
-        "price": null,
-        "location_google_map_query": "타이노이 논타부리"
-      },
+      "event_info": "{'date': '2069-03-10', 'location': '논타부리 주 타이노이 지역', 'price': None, 'location_google_map_query': '타이노이 논타부리'}",
       "references": [
         {
           "title": "ได้ตัว 8 วัยรุ่นต้องสงสัย บุกถล่มบ้านคู่อริ อ้างจะไปเคลียร์ให้รุ่นน้อง ถูกดักยิงก่อน",
@@ -1134,6 +1117,106 @@
       ],
       "collected_at": "10:37",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9CJsm3owTfrO.jpg",
+      "date": "2026-03-11",
+      "link": "https://www.thairath.co.th/news/crime/2919252",
+      "source": ""
+    },
+    {
+      "title": "방콕, 4년간 폐쇄되었던 클롱클렛 다리 4차선 완전 개통: 우돔쑥 지역 교통 체증 해소",
+      "summary": "- 방콕 우돔สุข 지역의 클롱클렛 다리가 4년간의 보수 공사를 마치고 4차선으로 완전 개통됨.\n- 2065년 2월 26일 터널 붕괴 사고로 다리 일부가 손상되어 폐쇄되었으며, 복구에 오랜 시간이 소요됨.\n- 이번 개통으로 우돔สุข 도로의 교통 흐름이 원활해질 것으로 기대.",
+      "full_translated": "2069년 3월 11일 06시 00분, 차차트 싯티판 방콕 시장은 위사누 쌉솜폰 부시장 및 배수국과 함께 프라웻 지역 우돔สุข 도로의 클롱클렛 다리 개통 현장을 방문했습니다. 오늘 아침부터 4개 차선 모두 정상적으로 차량 통행이 가능하게 되었습니다. 4년 전, 제가 방콕 시장으로 부임하기 전에 발생했던 농본 늪지 배수 터널 붕괴 사고로 인해 클롱클렛 다리의 2개 차선이 손상되어 사용할 수 없게 되었습니다. 복구 작업은 복잡한 엔지니어링 문제로 인해 상당한 시간이 걸렸지만, 오늘 다리가 4개 차선 모두 다시 개통되어 우돔สุข 도로의 교통 흐름이 더욱 원활해질 것입니다. ... 위사누 부시장은 이 프로젝트는 농본 늪지에서 방어오 운하 입구의 짜오프라야 강으로 이어지는 배수 터널이며, 직경 5m, 깊이 약 30m, 길이 약 9.4km의 대형 배수 터널이라고 덧붙였습니다. 2065년 사고는 지하수와 모래가 클롱클렛(S3) 지역의 클롱클렛 취수구로 유입되어 다리 교각이 침하되고 기존 터널 구조가 손상되었기 때문에 발생했습니다. 따라서 복구 작업은 상단의 다리만 수리하는 것이 아니라 농본 운하(S2) 취수구에서 클롱클렛 취수구까지 새로운 경로로 터널을 굴착하고 구조의 안정성을 높이기 위해 터널을 들어 올려야 했습니다. 현재 주요 구조물과 다리 건설은 100% 완료되었으며 4개 차선 모두 개통되어 사용할 수 있습니다. 차차트 시장은 관련 부서에 ...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕 주요 도로의 교통 상황 개선 정보는 여행자에게 유용하며, 특히 우돔สุข 지역을 방문하는 여행자에게는 직접적인 영향을 미칠 수 있음. 다리 폐쇄로 인한 불편함이 해소되었음을 알리는 정보.",
+      "event_info": {
+        "date": null,
+        "location": "우돔สุข 도로, 방콕",
+        "price": null,
+        "location_google_map_query": "Udom Suk Road, Bangkok"
+      },
+      "references": [
+        {
+          "title": "กทม.เปิดสะพานข้ามคลองเคล็ดครบ 4 เลน แก้รถติดย่านอุดมสุข หลังปิดซ่อมใหญ่นาน 4 ปี",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2919289",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvDiVNC9oFhGW7.jpg"
+        }
+      ],
+      "collected_at": "12:07",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvDiVNC9oFhGW7.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "태국 총리, 이란의 호르무즈 해협 기뢰 설치 후 에너지부 추가 유류 공급원 확보 지시",
+      "summary": "- 태국 총리는 이란의 호르무즈 해협 기뢰 설치에 따라 에너지부에 추가 유류 공급원 확보를 지시했습니다.\n- 이는 에너지 안보를 위한 선제적 조치로 해석됩니다.\n- 캄보디아 총리의 영토 반환 협상 요구에 대해서는 답변을 회피했습니다.",
+      "full_translated": "아누틴 총리는 에너지부가 이란의 호르무즈 해협 기뢰 설치 이후 추가 유류 공급원을 확보하도록 지시했다고 밝혔습니다. 2026년 3월 11일, 아누틴 찬비라쿨 총리는 임팩트 무앙 통 타니에서 열린 THAIFEX - HOREC ASIA 2026 개막식에 참석한 후 이같이 밝혔습니다. 캄보디아 총리의 영토 반환 협상 요구에 대해서는 언급을 피했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "에너지 관련 정책은 장기적으로 물가에 영향을 줄 수 있고, 여행객에게도 간접적인 영향을 줄 수 있으므로 포함합니다. 캄보디아 관련 이슈는 아직 직접적인 위협은 아니지만, 상황을 주시해야 합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "นายกฯ ยัน ก.พลังงาน หาแหล่งน้ำมันเพิ่ม หลังอิหร่านเริ่มวางทุ่นระเบิดช่องแคบฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/politic/2919286",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvDhQ1cxYa0VgW.jpg"
+        }
+      ],
+      "collected_at": "12:07",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvvDhQ1cxYa0VgW.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "호주 디자이너, 케이티 페리와의 상표권 소송에서 승소",
+      "summary": "- 호주 디자이너 케이티 페리(Katie Perry)가 가수 케이티 페리(Katy Perry)와의 상표권 분쟁에서 최종 승소.\n- 호주 최고 법원은 두 사업이 소비자에게 혼란을 주지 않는다고 판단.\n- 디자이너 케이티 페리는 자신의 의류 브랜드 이름을 계속 사용할 수 있게 됨.",
+      "full_translated": "호주 디자이너 케이티 페리가 수년간 끌어온 세계적인 가수 '케이티 페리'와의 상표권 분쟁에서 호주 최고 법원의 판결로 승소했습니다. 법원은 두 사업이 서로 다른 분야이며 소비자를 혼란스럽게 만들지 않는다고 판단했습니다.\n\n이번 소송은 디자이너 케이티 페리가 2008년부터 자신의 의류 브랜드에 'Katie Perry'라는 이름을 사용해 왔으며, 가수 케이티 페리가 자신의 명성을 이용하여 상표권을 침해했다고 주장하면서 시작되었습니다. 가수 케이티 페리 측은 디자이너의 상표권 등록을 취소하려 했으나, 호주 최고 법원은 최종적으로 디자이너의 손을 들어주었습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "여행 자체에는 큰 영향이 없으나, 상표권 관련 분쟁이 마무리되었다는 비즈니스 뉴스이므로 포함. 브랜드 이름 사용에 대한 법적 분쟁 관련 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ดีไซน์เนอร์ชาวออสเตรเลียชนะคดีฟ้องร้อง \"เคที เพร์รี\" ปมใช้ชื่อจดเครื่องหมายการค้าซ้ำ",
+          "url": "https://www.thairath.co.th/news/foreign/2919271",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9ntlqUui9FhK.jpg"
+        }
+      ],
+      "collected_at": "12:07",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwvu9ntlqUui9FhK.jpg",
+      "date": "2026-03-11"
+    },
+    {
+      "title": "쿤라붓, 세계 랭킹 1위 탈환",
+      "summary": "- 태국의 배드민턴 선수 쿤라붓 비티드사른이 세계 랭킹 1위로 복귀했습니다.\n- 그는 17개 토너먼트에서 100,779점을 획득하여 중국의 Shi Yuqi를 제쳤습니다.\n- 쿤라붓은 올해 초 말레이시아 오픈에서 우승했으며, 이번이 두 번째 세계 랭킹 1위 등극입니다.",
+      "full_translated": "쿤라붓 비티드사른이 배드민턴 세계 연맹(BWF)의 최신 세계 랭킹 발표에서 공식적으로 세계 랭킹 1위로 확정되었습니다. 이 24세의 태국 스타는 17개 토너먼트에서 100,779점을 획득하여 중국의 Shi Yuqi (11개 토너먼트, 100,567점)를 제치고 정상에 올랐습니다. 덴마크의 Anders Antonsen (93,729점), 인도네시아의 Jonatan Christie (84,174점), 프랑스의 Christo Popov (81,925점)가 그 뒤를 잇고 있습니다. 쿤라붓의 스포츠 정상 복귀는 지난 금요일 버밍엄에서 열린 올 잉글랜드 오픈 (슈퍼 1000 이벤트) 8강에 진출하면서 확정되었습니다. 그는 이전에 스포츠 역사상 가장 오래된 토너먼트에서 6번이나 16강에서 탈락했습니다. 쿤라붓은 준결승에서 대만 Lin Chun-yi에게 패했습니다. Lin은 일요일 결승에서 인도의 Lakshya Sen을 꺾고 우승했습니다. 이는 쿤라붓의 두 번째 세계 랭킹 1위 등극입니다. 태국 에이스는 작년 6월에 1위에 올랐습니다. 그러나 그의 통치는 단 7주 동안 지속되었습니다. 쿤라붓은 지금까지 올해 1월 시즌 개막전인 말레이시아 오픈 (슈퍼 1000 이벤트)에서 우승했습니다. Ratchanok Intanon은 69,964점으로 7위에 랭크되어 태국 여자 단식 선수 중 가장 높은 순위를 유지하고 있으며, 올 잉글랜드 오픈 8강 진출자인 Pornpawee Chochuwong이 67,221점으로 8위에 랭크되어 있습니다. 한국의 안세영은 115,770점으로 1위에 랭크되어 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 스포츠 영웅의 쾌거는 흥미로운 소식이지만, 여행객에게 직접적인 영향은 적습니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Kunlavut reclaims top spot in the world",
+          "url": "https://www.bangkokpost.com/sports/3214119/kunlavut-reclaims-top-spot-in-the-world",
+          "source": "Bangkokpost.com : Top Stories"
+        }
+      ],
+      "collected_at": "12:07",
       "date": "2026-03-11"
     }
   ]
