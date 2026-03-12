@@ -92,7 +92,7 @@ def load_news_from_sheet(worksheet="news"):
             clean_item = {k: (v if not pd.isna(v) else "") for k, v in item.items()}
 
             # Parse JSON fields if they are strings (GSHEETS stores list/dict as string)
-            for field in ['references', 'related_topics']:
+            for field in ['references', 'related_topics', 'event_info', 'event_data']:
                 if field in clean_item and isinstance(clean_item[field], str):
                      # Simple check if it looks like JSON list or dict
                     val = str(clean_item[field]).strip()
