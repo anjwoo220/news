@@ -1,0 +1,30 @@
+[
+  {
+    "category": "General",
+    "url": "https://www.bangkokpost.com/rss/data/topstories.xml"
+  },
+  {
+    "category": "General",
+    "url": "https://www.thairath.co.th/rss/news"
+  },
+  {
+    "category": "General",
+    "url": "https://www.bangkokpost.com/rss/data/thailand.xml"
+  },
+  {
+    "category": "General",
+    "url": "https://www.bangkokpost.com/rss/data/most-recent.xml"
+  },
+  {
+    "category": "General",
+    "url": "https://www.khaosodenglish.com/feed/"
+  },
+  {
+    "category": "General",
+    "url": "https://www.nationthailand.com/rss"
+  },
+  {
+    "category": "General",
+    "url": "https://thepattayanews.com/feed/"
+  }
+]
