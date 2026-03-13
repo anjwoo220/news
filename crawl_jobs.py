@@ -75,64 +75,66 @@ def convert_buddhist_era(date_str):
 # 1. HanAsia 크롤러
 # ============================================================
 
-def crawl_hanasia(max_pages=2):
+def crawl_hanasia(max_pages=1):
     """
     한아시아(hanasia.com) 구인구직 게시판에서 채용 글 수집.
-    구인 관련 글만 필터링 (제목에 '구인', '채용', '모집' 포함).
+    JS 렌더링이 필요하므로 Playwright 사용.
     """
     jobs = []
-    base_url = "https://www.hanasia.com/%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81"
+    
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("  [HanAsia] playwright 미설치, 건너뜀")
+        return jobs
 
-    for page in range(1, max_pages + 1):
-        try:
-            url = f"{base_url}?page={page}" if page > 1 else base_url
-            print(f"  [HanAsia] 페이지 {page} 크롤링: {url}")
-            resp = requests.get(url, headers=HEADERS, timeout=15)
-            resp.raise_for_status()
-            soup = BeautifulSoup(resp.text, "html.parser")
-
-            # 게시판 글 목록 찾기 — 다양한 셀렉터 시도
-            posts = (
-                soup.select("div.board-list a, table.board-list a") or
-                soup.select("a[href*='구인구직']") or
-                soup.select("div.post-list a, ul.post-list a") or
-                soup.select("article a, div.list-item a")
-            )
-
-            for post in posts:
-                title = post.get_text(strip=True)
-                href = post.get("href", "")
-
-                # 채용 관련 글만 필터 (확장 키워드)
-                job_keywords = ["구인", "채용", "모집", "직원", "스탭", "스태프", "인턴",
-                                "매니저", "담당자", "staff", "recruit", "hiring"]
-                if not any(kw in title.lower() for kw in job_keywords):
-                    continue
-
-                # 빈 제목이나 너무 짧은 제목 건너뛰기
-                if len(title) < 5:
-                    continue
-
-                # 절대 URL 변환
-                if href and not href.startswith("http"):
-                    href = "https://www.hanasia.com" + href
-
-                jobs.append({
-                    "출처": "HanAsia",
-                    "직무명": title[:100],
-                    "회사명": "",
-                    "급여": "",
-                    "위치": "태국",
-                    "업무요약": "",
-                    "자격요건": "",
-                    "원본링크": href,
-                    "게시일": "",
-                })
-
-            _sleep()
-        except Exception as e:
-            print(f"  [HanAsia] 페이지 {page} 오류: {e}")
-            continue
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(user_agent=HEADERS["User-Agent"])
+            
+            base_url = "https://www.hanasia.com/%EA%B5%AC%EC%9D%B8%EA%B5%AC%EC%A7%81"
+            
+            for p_num in range(1, max_pages + 1):
+                url = f"{base_url}?page={p_num}" if p_num > 1 else base_url
+                print(f"  [HanAsia] 페이지 {p_num} 크롤링: {url}")
+                
+                page.goto(url, wait_until="networkidle", timeout=60000)
+                time.sleep(3) # 추가 렌더링 대기
+                
+                # 게시물 추출
+                raw_posts = page.evaluate("""() => {
+                    const links = document.querySelectorAll('.tpl-forum-list-title a');
+                    return Array.from(links).map(a => ({
+                        title: a.textContent.trim(),
+                        href: a.href
+                    }));
+                }""")
+                
+                for post in raw_posts:
+                    title = post["title"]
+                    href = post["href"]
+                    
+                    # 채용 관련 글 필터
+                    job_keywords = ["구인", "채용", "모집", "직원", "스탭", "인턴", "매니저", "recruit", "hiring"]
+                    if not any(kw in title.lower() for kw in job_keywords):
+                        continue
+                    
+                    jobs.append({
+                        "출처": "HanAsia",
+                        "직무명": title[:100],
+                        "회사명": "",
+                        "급여": "",
+                        "위치": "태국",
+                        "업무요약": "",
+                        "자격요건": "",
+                        "원본링크": href,
+                        "게시일": "",
+                    })
+            
+            browser.close()
+    except Exception as e:
+        print(f"  [HanAsia] 크롤링 오류: {e}")
 
     print(f"  [HanAsia] 총 {len(jobs)}건 수집")
     return jobs
@@ -142,51 +144,50 @@ def crawl_hanasia(max_pages=2):
 # 2. KyominThai 크롤러
 # ============================================================
 
-def crawl_kyominthai(max_pages=2):
+def crawl_kyominthai(max_pages=1):
     """
-    교민잡지(kyominthai.com) 교민장터에서 [구인] 태그 글만 수집.
-    URL: board=30, board_search_headword=구인
+    교민잡지(kyominthai.com) 구인 게시판 수집.
+    직접 쿼리 스트링을 사용하여 검색 필터링된 페이지 접근.
     """
     jobs = []
-    base_url = "http://kyominthai.com/sub/sub08.php"
+    # 한글 검색어 "구인"을 포함한 URL (인코딩됨)
+    base_url = "http://kyominthai.com/sub/sub08.php?board=30&board_search_headword=%EA%B5%AC%EC%9D%B8"
 
     for page in range(1, max_pages + 1):
         try:
-            params = {
-                "board": "30",
-                "board_search_headword": "구인",
-                "board_search_keyword": "",
-                "board_page": str(page),
-            }
-            print(f"  [KyominThai] 페이지 {page} 크롤링")
-            resp = requests.get(base_url, params=params, headers=HEADERS, timeout=15)
+            url = f"{base_url}&board_page={page}"
+            print(f"  [KyominThai] 페이지 {page} 크롤링: {url}")
+            resp = requests.get(url, headers=HEADERS, timeout=15)
             resp.encoding = "utf-8"
             soup = BeautifulSoup(resp.text, "html.parser")
 
-            # 게시판 행 찾기 — <tr> 또는 <li> 요소
-            rows = soup.select("table tr, div.board-list li, div.list-item")
+            # 새로운 구조: section.box.feature 내부의 h2.board_title
+            items = soup.select("section.box.feature, article.box.feature")
+            if not items:
+                # 레거시 구조 대응
+                items = soup.select("table tr, div.board-list li, div.list-item")
 
-            for row in rows:
-                link_tag = row.select_one("a[href*='board_mode=view']")
+            for item in items:
+                link_tag = item.select_one("h2.board_title a, a[href*='board_mode=view']")
                 if not link_tag:
                     continue
 
                 title = link_tag.get_text(strip=True)
                 href = link_tag.get("href", "")
 
-                # [구인] 태그가 있는 글만 수집
-                if "[구인]" not in title:
-                    continue
-
                 # 절대 URL 변환
                 if href and not href.startswith("http"):
                     href = "http://kyominthai.com/sub/" + href
 
-                # 날짜 추출 시도
+                # 날짜 추출: h2 다음의 p 태그 또는 특정 클래스
                 date_text = ""
-                date_td = row.select_one("td.date, span.date, td:nth-child(4)")
-                if date_td:
-                    date_text = date_td.get_text(strip=True)
+                date_tag = item.select_one("h2 + p, p.date, span.date, td:nth-child(4)")
+                if date_tag:
+                    date_text = date_tag.get_text(strip=True)
+                    # "2026/03/04 13:16:26" -> "2026-03-04"
+                    date_match = re.search(r"(\d{4})[/-](\d{2})[/-](\d{2})", date_text)
+                    if date_match:
+                        date_text = f"{date_match.group(1)}-{date_match.group(2)}-{date_match.group(3)}"
 
                 jobs.append({
                     "출처": "교민잡지",
@@ -311,8 +312,69 @@ def crawl_saramin():
 
 
 # ============================================================
-# 4. JobThai 크롤러
-# ============================================================
+def crawl_jobthai():
+    """
+    JobThai(jobthai.com)에서 'Korean' 키워드로 검색된 채용 공고 수집.
+    JS 렌더링이 필요하므로 Playwright 사용.
+    """
+    jobs = []
+    
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print("  [JobThai] playwright 미설치, 건너뜀")
+        return jobs
+
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page(user_agent=HEADERS["User-Agent"])
+            
+            url = "https://www.jobthai.com/th/jobs?keyword=Korean"
+            print(f"  [JobThai] 크롤링: {url}")
+            
+            page.goto(url, wait_until="networkidle", timeout=60000)
+            time.sleep(5) # 렌더링 대기
+            
+            # 게시물 추출 (id 패턴 매칭)
+            raw_jobs = page.evaluate("""() => {
+                const items = document.querySelectorAll('a[id^="job-list-job-"]:not([id="job-list-job-on-map"])');
+                return Array.from(items).map(item => {
+                    const h2s = item.querySelectorAll('h2');
+                    return {
+                        title: h2s.length > 0 ? h2s[0].textContent.trim() : '',
+                        company: h2s.length > 1 ? h2s[1].textContent.trim() : '',
+                        href: item.href
+                    };
+                }).filter(j => j.title && j.href);
+            }""")
+            
+            for item in raw_jobs:
+                title = item["title"]
+                
+                # 한국 관련 필터
+                if not is_korean_related_job(title):
+                    continue
+                
+                jobs.append({
+                    "출처": "JobThai",
+                    "직무명": title[:100],
+                    "회사명": item["company"],
+                    "급여": "",
+                    "위치": "태국",
+                    "업무요약": "",
+                    "자격요건": "",
+                    "원본링크": item["href"],
+                    "게시일": "",
+                })
+            
+            browser.close()
+    except Exception as e:
+        print(f"  [JobThai] 크롤링 오류: {e}")
+
+    print(f"  [JobThai] 총 {len(jobs)}건 수집")
+    return jobs
+
 
 def is_korean_related_job(title):
     """
@@ -808,6 +870,7 @@ def save_to_gsheets(jobs):
             if not posting_date:
                 posting_date = datetime.now().strftime("%Y-%m-%d")
             row = [
+                job.get("카테고리", "기타"),
                 posting_date,
                 job.get("출처", ""),
                 job.get("직무명", ""),
@@ -817,6 +880,7 @@ def save_to_gsheets(jobs):
                 job.get("업무요약", ""),
                 job.get("자격요건", ""),
                 job.get("원본링크", ""),
+                now, # 수집일시
             ]
             new_jobs.append(row)
 
@@ -851,6 +915,7 @@ def main():
         all_jobs.extend(crawl_kyominthai())
         all_jobs.extend(crawl_jobsdb())
         all_jobs.extend(crawl_saramin())
+        all_jobs.extend(crawl_jobthai())
 
         print(f"\n📊 총 {len(all_jobs)}건 수집 완료")
 
