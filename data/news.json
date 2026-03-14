@@ -1136,7 +1136,7 @@
       "summary": "- 2069년 3월 15일 태국 내 휘발유, 가솔린, 디젤 가격 업데이트 정보입니다.\n- PTT, Bangchak, PT, Caltex, Shell 등 주요 주유소의 리터당 가격을 확인하세요.\n- 유종별 가격 정보가 상세히 제공됩니다.",
       "full_translated": "2069년 3월 15일 내일의 휘발유 가격을 확인하세요. 모든 종류의 휘발유, 가솔린, 디젤 가격을 PTT, Bangchak, PT, Caltex 및 Shell 주유소에서 업데이트합니다. 최신 리터당 가격은 얼마입니까? 2069년 3월 14일, 기자들은 Bangchak Corporation Public Company Limited 웹사이트, PTT Oil and Retail Public Company Limited 웹사이트, Shell Company of Thailand Limited 웹사이트, PTG Energy Public Company Limited 및 Chevron (Thailand) Limited 웹사이트에서 최신 휘발유, 가솔린 및 디젤 가격 업데이트를 보고했습니다. 내일 2069년 3월 15일의 휘발유 가격은 다음과 같습니다.\n\n하이 프리미엄 디젤 S: 45.64바트/리터\n하이 디젤 S: 29.94바트/리터\n하이 프리미엄 97: 49.54바트/리터\n가솔린 E85S EVO: 25.79바트/리터\n가솔린 E20S EVO: 27.84바트/리터\n가솔린 91S EV: 30.68바트/리터\n가솔린 95S EVO: 31.05바트/리터\n...\n디젤: 29.94바트/리터\n가솔린 E85: 25.79바트/리터\n가솔린 E20: 27.84바트/리터\n가솔린 91: 30.68바트/리터\n가솔린 95: 31.05바트/리터\n휘발유: 39.64바트/리터\n슈퍼 파워 디젤: 43.44바트/리터\n슈퍼 파워 가솔린 95: 40.04바트/리터\nShell FuelSave 가솔린 E20: 28.94바트/리터\nShell FuelSave 가솔린 91: 31.78바트/리터\nShell FuelSave 가솔린 95: 32.35바트/리터\nShell V-Power 가솔린 95: 49.84바트/리터\nShell FuelSave 디젤: 29.94바트/리터\nShell V-Power 디젤: 49.84바트/리터\n디젤: 29.94바트/리터\n가솔린 95: 31.05바트/리터\n가솔린 91: 30.6",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "매일 업데이트되는 휘발유 가격 정보는 렌터카 이용 여행객에게 유용하며, 최신 정보이므로 포함.",
       "event_info": {
         "date": "2069-03-15",
@@ -1154,14 +1154,16 @@
       ],
       "collected_at": "17:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iQiRdIzUtWYdv.jpg",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/society/2920036",
+      "source": ""
     },
     {
       "title": "국왕과 여왕, 국회 개회식에 참석",
       "summary": "- 국왕과 여왕이 국회 개회식에 참석했습니다.\n- 개회식은 방콕 두싯 지구 국회 의사당에서 열렸습니다.\n- 총리, 상원 의장, 국회 사무총장이 참석하여 보고했습니다.",
       "full_translated": "국왕과 여왕이 2569년 3월 14일 17:00에 국회 개회식에 참석하기 위해 행차했습니다. 총리 아누틴 찬위라쿨과 상원 의장, 국회 사무총장이 보고했습니다. 개회식은 방콕 두싯 지구 국회 의사당 11층에서 열렸습니다. 국회 개회식 일정은 다음과 같습니다.\n\n12:00-13:00 상원 의원들은 B1층에 도착하여 보안 검색대를 통과하고, 파란색 스티커를 받고 등록하고 배지를 받습니다. 그리고 복장을 점검합니다. \n\n15:00 상원 의원들은 찬트라 회의실에 모여 절차에 대한 설명을 듣습니다. 시간이 되면 사회자가 의원들을 11층 홀로 안내합니다. \n\n16:50 국왕과 여왕은 암폰 사탄 궁전을 출발하여 사암센 로드에 있는 국회 의사당으로 향합니다. \n\n17:00 국회 의사당에 도착합니다 (국가가 연주됩니다). 총리 아누틴 찬위라쿨 (보고), 몽콘 수라사차 상원 의장이 국회 의장 역할을 합니다 (보고), 그리고 시롯 팻판 하원 사무총장 (보고). 팟니타 사탄트라이폽 상원 사무총장이 국왕에게 화환을 바칩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "국왕의 행차는 태국 문화에서 중요한 행사이며, 이로 인해 교통 통제 등이 발생할 수 있으므로 여행자에게 정보 제공 가치가 있다고 판단.",
       "event_info": {
         "date": "2569-03-14",
@@ -1179,6 +1181,133 @@
       ],
       "collected_at": "17:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iR4Wh827dK0Wn.jpg",
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/politic/2920041",
+      "source": ""
+    },
+    {
+      "title": "납치 살해 용의자 '아트', 눈물로 혐의 부인: '소라위에게 속았다'",
+      "summary": "- 젊은 매니저 납치 살해 사건의 주요 용의자 '아트'가 눈물로 자신의 결백을 주장하며 '소라위'에게 속았다고 진술함.\n- 경찰은 '아트'의 진술에도 불구하고 충분한 증거를 확보했으며, 공범 4명에 대한 추가 체포 영장을 발부할 예정임.\n- '아트'는 범행 사실을 부인했지만, 경찰은 과학적 증거를 통해 그의 혐의를 입증할 수 있다고 밝힘.",
+      "full_translated": "젊은 매니저 납치 살해 사건의 용의자 '아트'가 경찰 조사에서 눈물을 흘리며 '소라위'에게 속았다고 주장했습니다. 그는 자신의 인생이 망가졌다고 호소했습니다. 경찰청장은 확실한 증거를 확보했으며, 시신 이동을 도운 공범 4명에 대한 추가 체포 영장을 발부할 것이라고 밝혔습니다.\n\n3월 14일 11시, 수티산 경찰서에서 경찰청장 시암 분솜과 수사팀은 살인 혐의로 체포된 푸멧(아르트) 응언스리차이를 심문했습니다. 그는 라오스 경찰에 의해 체포되었습니다. 그는 '나는 속았다'라며 눈물을 흘렸습니다. '누가 속였느냐'는 질문에 그는 '소라위에게 속았다'고 답했습니다.\n\n수사 후 경찰은 아르트를 방플리 지역의 임대 주택으로 데려가 현장 검증을 실시했습니다. 경찰청장은 아르트의 진술이 수사에 도움이 되었지만, 경찰은 과학적 증거를 통해 그의 범죄 행위를 입증할 수 있다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "범죄 관련 소식으로, 여행객 안전에 대한 인식을 높일 수 있음. 직접적인 위협은 아니지만 주의가 필요.",
+      "event_info": {
+        "date": null,
+        "location": "방플리, 사무트프라칸",
+        "price": null,
+        "location_google_map_query": "방플리 사무트프라칸"
+      },
+      "references": [
+        {
+          "title": "เค้นสอบ \"อาร์ท\" ตัวหลักแก๊งอุ้มฆ่า ผจก. ปล่อยโฮร้องไห้ อ้างถูก \"สรวีย์\" หลอกใช้",
+          "url": "https://www.thairath.co.th/news/crime/2920038",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iQhxM09DSKBEu.jpg"
+        }
+      ],
+      "collected_at": "17:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iQhxM09DSKBEu.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "묵다한에서 400만 개의 속도 알약 압수",
+      "summary": "- 묵다한 지역에서 경찰이 마약 단속을 강화하여 400만 개의 속도 알약을 압수했습니다.\n- 용의자 3명이 체포되었으며, 이들은 나콘파놈의 국경 지역에서 마약이 유래되었다고 진술했습니다.\n- 압수된 약물은 2층 건물에 숨겨져 있었으며, 용의자들은 마약을 한 달 동안 보관했다고 합니다.",
+      "full_translated": "묵다한 - 국경 순찰 경찰은 이 북동부 지방의 므앙 지역에 있는 마약 저장소에 대한 급습에서 세 명의 남성을 체포하고 약 4백만 개의 속도 알약을 압수했습니다. 이번 작전은 왕립 태국 경찰의 마약 밀매 단속 강화에 따라 수행되었다고 국경 순찰 경찰 지역 2 사령관인 우티퐁 옌짓 경찰 소장이 토요일 브리핑에서 밝혔습니다. 정보에 따라 BPP 지역 2의 합동 태스크 포스는 BPP 회사 234 및 236의 장교와 함께 금요일 오후 3시 45분에 묵다한의 므앙 지역에 있는 담롱묵다 로드에 있는 임대 주택을 급습했습니다. 경찰관들이 신분을 밝혔을 때 용의자들은 의심스럽게 행동하기 시작했고 도망치려 했지만 체포되었다고 우티퐁 경찰 소장은 말했습니다. 2층 집을 수색한 결과 약 4백만 개의 속도 알약이 2층에 숨겨져 있는 7개의 자루가 발견되었습니다. 용의자들은 마약이 자신들의 소유라고 인정했습니다. 또한 이번 작전에서 이스즈 픽업 트럭 2대와 토요타 포르투너 1대, 휴대폰 3대도 압수되었습니다. 초기 심문에서 용의자들은 인접한 나콘파놈 지방의 탓파놈과 므앙 지역 사이의 국경 지역에서 마약을 수거했다고 자백했습니다. 그런 다음 마약은 묵다한의 임대 주택으로 옮겨져 약 한 달 동안 보관되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "마약 관련 사건은 여행객 안전에 간접적인 영향을 줄 수 있으며, 특히 해당 지역을 방문하는 경우 주의가 필요합니다. 최신 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "므앙 지역, 묵다한",
+        "price": null,
+        "location_google_map_query": "므앙 지역 묵다한"
+      },
+      "references": [
+        {
+          "title": "4 million speed pills seized in Mukdahan",
+          "url": "https://www.bangkokpost.com/thailand/general/3216698/4-million-speed-pills-seized-in-mukdahan",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216698_700.jpg"
+        }
+      ],
+      "collected_at": "17:52",
+      "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216698_700.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "수파맛 이사라팍디, 유능한 여성 정치인, 총리실 장관으로 임명",
+      "summary": "- 태국 프라차랏당의 유능한 여성 정치인 수파맛 이사라팍디가 총리실 장관으로 임명될 예정입니다.\n- 그녀는 이전에 고등교육과학연구혁신부 장관을 역임했으며, 방콕 국회의원 선거에서 핵심적인 역할을 했습니다.\n- 아누틴 내각에서도 총리실 장관직을 유지할 것으로 예상됩니다.",
+      "full_translated": "수파맛 이사라팍디는 1973년 4월 3일생으로 현재 52세이며, 경찰 중령 람판 판타나프라테와 결혼하여 1명의 자녀를 두고 있습니다. 또한 인도 드라마 '하누만: 위대한 신들의 전쟁'에 출연한 아역 배우 '추'를 입양했습니다.\n\n쭐라롱꼰 대학교에서 산업공학 학사 및 석사 학위를 받았습니다.\n\n정치 경력:\n\n쭐라 졸업 후 PTT 계열사에서 약 5년간 근무했습니다. 이후 태국사랑당에 입당하여 27세의 나이로 방콕 락시 지역구에서 국회의원에 당선되었습니다. 2011년에는 푸미자이타이당으로 이적하여 방콕 11구에 출마했지만 낙선했습니다. 그러나 아누틴 차른비라쿨 당 대표의 지지를 받으며 당내 주요 역할을 수행했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치인 임명 관련 뉴스로, 여행에 직접적인 영향은 없으나 태국 사회의 이해를 돕는 정보이므로 낮은 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เปิดประวัติ “ศุภมาส อิศรภักดี” นักการเมืองหญิงเก่งภูมิใจไทย มีชื่อนั่งเก้าอี้เดิม รมต.สำนักนายกฯ",
+          "url": "https://www.thairath.co.th/news/politic/2920023",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iRHmG6Zj4xtQw.jpg"
+        }
+      ],
+      "collected_at": "17:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iRHmG6Zj4xtQw.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국 신임 사회개발부 장관, 와라우트 실파아차 소개",
+      "summary": "- 태국 신임 사회개발부 장관으로 와라우트 실파아차가 임명됨.\n- 그는 반한 실파아차 전 총리의 아들로, 다양한 정부에서 요직을 역임.\n- 환경 운동, 지역 축구팀 운영 등 다채로운 경력을 보유.",
+      "full_translated": "와라우트 실파아차는 반한 실파아차 전 총리의 아들로, 1973년 7월 11일에 태어났습니다. 그는 센트 가브리엘 학교에서 교육을 받았으며, University College London (UCL)에서 공학 학사 학위를, University of Wisconsin-Madison에서 MBA를 취득했습니다. \n\n2001년부터 수판부리 하원 의원을 역임했으며, 솜차이 웡사와트 정부에서 교통부 차관을 지냈습니다. 정당 해산으로 5년간 정치 활동이 정지되기도 했지만, 수판부리 FC의 회장으로 활동하며 지역 축구 발전에 기여했습니다. \n\n이후 국가발전당 소속으로 정치에 복귀하여 쁘라윳 찬오차 정부에서 천연자원환경부 장관을 역임하며 일회용 플라스틱 사용 금지 캠페인과 지구 온난화 문제 해결에 앞장섰습니다. 현재 쎗타 타위신 정부와 패통탄 시나왓 정부에서 사회개발 및 인간안보부 장관을 맡아 취약 계층, 아동, 여성, 노인 복지 증진에 힘쓰고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치인 정보로 여행 자체에는 큰 영향이 없으나, 태국 사회의 이해를 돕는 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เปิดประวัติ “วราวุธ ศิลปอาชา” ลูกไม้ใต้ต้น “บรรหาร” สู่ขุนพลข้างกายหลายรัฐบาล",
+          "url": "https://www.thairath.co.th/news/politic/2920027",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iRHQNhCkbDxwi.jpg"
+        }
+      ],
+      "collected_at": "17:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iRHQNhCkbDxwi.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국 총리, 추가 내각 인선 발표",
+      "summary": "- 태국 총리는 추가 내각 인선을 통해 정부를 강화하고 있습니다.\n- 이번 인선에는 주요 부처 장관들이 포함되었습니다.\n- 정부는 이번 인선을 통해 경제 회복과 국가 발전을 가속화할 계획입니다.",
+      "full_translated": "อนุทิน ชาญวีรกูล 총리가 이끄는 새로운 내각이 구성되었습니다. 이번 인선에는 송삭 통시 가 내무부 차관으로 임명된 것이 눈에 띕니다. 그는 네윈 친우 그룹의 핵심 인물이며, 과거 5개 정부에서 장관직을 역임한 바 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 관련 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ทรงศักดิ์”กลุ่มเพื่อนเนวิน เหนียวแน่นครองเก้าอี้รัฐมนตรีช่วยมหาดไทย 5 รัฐบาล",
+          "url": "https://www.thairath.co.th/news/politic/2920030",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iQiglcact9RKf.jpg"
+        }
+      ],
+      "collected_at": "17:52",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iQiglcact9RKf.jpg",
       "date": "2026-03-14"
     }
   ]
