@@ -1813,7 +1813,7 @@
       "summary": "- 호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명이 생존했습니다.\n- 선박 공격의 원인과 배후는 아직 밝혀지지 않았습니다.\n- 해당 해역을 지나는 선박 및 여행객들은 주의가 필요합니다.",
       "full_translated": "호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명이 생존한 것으로 확인되었습니다. 선박 공격의 정확한 원인과 배후는 아직 밝혀지지 않았습니다. 해당 해역을 지나는 선박 및 여행객들은 잠재적인 위험에 주의해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "호르무즈 해협은 태국과 연결된 해상 교통로이므로, 해당 지역의 선박 공격은 태국인 여행객에게 잠재적인 위험을 초래할 수 있습니다. 비록 직접적인 위협은 아니지만, 관련 정보를 제공하여 여행객의 안전 의식을 높이는 것이 중요합니다.",
       "event_info": {
         "date": null,
@@ -1828,15 +1828,18 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-03-15"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-03-15",
+      "link": "[MISSING_URL]",
+      "source": ""
     },
     {
       "title": "푸껫에서 무허가 요트 투어를 한 독일인 선장 체포",
       "summary": "- 푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포됨.\n- 당국은 불법 투어 운영에 대한 조사를 진행 중임.\n- 여행객들은 투어 이용 시 허가 여부를 확인해야 함.",
       "full_translated": "푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포되었습니다. 당국은 불법 투어 운영에 대한 조사를 진행 중이며, 여행객들은 투어 이용 시 반드시 허가 여부를 확인해야 합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "푸껫에서 발생한 불법 투어 관련 사건으로, 여행객 안전 및 주의에 대한 환기를 위해 필요하다고 판단.",
       "event_info": {
         "date": null,
@@ -1851,15 +1854,18 @@
           "source": "Thaiger"
         }
       ],
-      "collected_at": "00:19",
-      "date": "2026-03-15"
+      "collected_at": "0:19",
+      "image_url": "",
+      "date": "2026-03-15",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국 해군, 호르무즈 해협 인근 해상 기뢰 가능성에 선박 주의 경고",
       "summary": "- 태국 해군이 페르시아만, 오만만, 호르무즈 해협 항해 시 주의를 요하는 긴급 안전 권고를 발표했습니다.\n- 이 지역의 긴장 고조와 해상 기뢰 위협 가능성에 따른 조치입니다.\n- 선박은 위험 지역 진입을 피하고, 보안 조치를 강화하며, 해상 보안 당국과의 연락을 유지해야 합니다.",
       "full_translated": "태국 해군, 호르무즈 해협 인근 해상 기뢰 가능성에 선박 주의 경고\n\n방콕 — 태국 해군이 페르시아만, 오만만, 호르무즈 해협에서 항해하는 태국 선박 운영자들에게 지역 긴장 고조와 해상 기뢰의 잠재적 위협 속에서 주의를 기울일 것을 촉구하는 긴급 권고를 발표했습니다. 파라치 라타나차이야판 해군 소장은 3월 14일 해군 작전 센터 산하 해상 교통 통제 센터가 해당 지역에서 운영되는 태국 상선 및 해운 회사에 경고하기 위해 3월 13일에 보안 경보를 발령했다고 밝혔습니다. 이번 권고는 해당 지역에 해상 기뢰가 배치될 가능성이 있으며, 상업 운송과 세계에서 가장 중요한 해상 무역로 중 하나에 위험을 초래할 수 있다는 평가에 따른 것입니다. 해군은 태국 선박과 선박 운영자들에게 불필요한 경우 고위험 지역에 들어가지 말고, 위험 평가를 실시하고, 국제 선박 및 항만 시설 보안(ISPS) 코드와 해상 보안을 위한 최상의 관리 관행에 따라 보안 조치를 강화할 것을 촉구했습니다. 또한 선박은 상황 변화를 면밀히 관찰하고, 해상 채널 16에서 무선 통신을 유지하고, 해당 지역 해상 보안 당국과의 연락에 대비해야 합니다. 의심스러운 물체나 특이한 사건을 발견한 선박은 즉시 해군 해상 교통 통제 센터, 영국 해상 무역 운영 및 기타 관련 당국에 신고해야 합니다. 해군은 또한 승무원이 대응해야 하는 방법에 대한 운영 지침을 발표했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "호르무즈 해협은 주요 해상 교통로이며, 기뢰 위협은 선박 운항에 직접적인 영향을 미치므로 여행 안전에 영향을 줄 수 있음. 한국인 선박 탑승객도 있을 수 있으므로 관련 정보 인지 필요.",
       "event_info": {
         "date": null,
@@ -1875,8 +1881,135 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/AP26070525672326.jpg"
         }
       ],
-      "collected_at": "00:19",
+      "collected_at": "0:19",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/AP26070525672326.jpg",
+      "date": "2026-03-15",
+      "link": "https://www.khaosodenglish.com/news/2026/03/14/thai-navy-warns-ships-of-possible-sea-mines-near-hormuz/",
+      "source": ""
+    },
+    {
+      "title": "싸타힙에서 지역 언론인 가족, 전 마을 부 head의 침입으로 공포에 떨어",
+      "summary": "- 싸타힙 지역의 한 주택에 전 마을 부 head가 침입하여 난동을 부림.\n- 침입자는 흉기로 보이는 물건으로 집 앞 울타리를 부수고 집 안으로 침입, 언론인 가족에게 위협을 가함.\n- 경찰은 CCTV 영상을 확보하여 용의자를 추적 중이며, 피해 가족은 큰 충격을 받음.",
+      "full_translated": "싸타힙에서 발생한 끔찍한 주택 침입 사건으로 지역 언론인과 그의 가족이 공포에 떨었습니다. 파타야 언론 협회는 정의를 요구하고 있습니다.\n\n사건은 2026년 3월 14일 새벽 3시경 싸타힙 지역의 한 주택에서 발생했습니다. 싸타힙 경찰서의 민트라팁 통 사이 부경감(수사 담당)은 한 남성이 흉기로 보이는 무기를 들고 난폭한 행동을 보이며 앞 울타리를 파손한 후 재산에 침입했다는 신고를 받았습니다. \n\n보도에 따르면 침입자는 침실 문으로 접근하여 폭언과 살해 위협을 가했습니다. 현장 증거로는 파손된 앞 울타리(도구로 부순 것으로 추정), 미닫이 유리문이 손상된 흔적, 집 안으로 이어져 침실 입구까지 이르는 발자국 등이 있습니다. 침실 문 자체도 훼손되었으며, 용의자가 억지로 침입하려다 구멍이 생겼습니다. \n\n당시 침실 안에는 지역 언론인 엑카싯 씨(일부 보도에서는 개인 정보 보호를 위해 전체 이름이 공개되지 않았지만, 지역 보도에서는 파타야 지역 기자로도 알려져 있으며 때때로 파타야 뉴스에 뉴스를 보내기도 함), 그의 아내, 그리고 어린 딸이 있었습니다. 가족은 그 시련으로 인해 공포에 질렸고, 아이는 심각한 충격을 받은 것으로 알려졌습니다.\n\n같은 날 오후, 싸타힙 경찰서장인 콤산캄 트웬깨우 경찰 대령은 수사팀과 함께 크리앙크라이 미 생 부경감(수사 담당)에게 해당 지역을 방문하여 인근 CCTV 카메라를 수색하라고 명령했습니다. 새벽 3시 18분경에 촬영된 영상에는 용의자의 오토바이로 추정되는 오토바이가 포착되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "방콕 인근 지역에서 발생한 범죄 사건으로, 여행객 안전에 대한 잠재적 위협이 될 수 있음. 현지 언론인 대상 범죄이긴 하지만, 여행객도 유사한 상황에 놓일 수 있다는 점을 고려.",
+      "event_info": {
+        "date": "2026-03-14",
+        "location": "싸타힙 지역",
+        "price": null,
+        "location_google_map_query": "Sattahip"
+      },
+      "references": [
+        {
+          "title": "Local Journalist and Family in Sattahip Has Terrifying Home Invasion, Allegedly by Upset Former Assistant Village Head, Pattaya Press Association Demands Justice",
+          "url": "https://thepattayanews.com/2026/03/15/local-journalist-and-family-in-sattahip-has-terrifying-home-invasion-allegedly-by-upset-former-village-head-pattaya-press-association-demands-justice/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1773509642379.jpg?v=1773509708"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1773509642379.jpg?v=1773509708",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "이란, 태국 화물선 공격…태국인 선원 3명 실종",
+      "summary": "- 이란 혁명수비대가 태국 화물선을 공격, 태국인 선원 3명 실종 상태.\n- 선박 회사는 사전 경고가 없었다고 주장, 이란의 주장에 반박.\n- 태국 내 정치적 시각이 이란-미국 갈등에 대한 인식에 영향을 미치는 분석도 제기.",
+      "full_translated": "이란 주재 태국 대사 나세르딘 헤이다리가 방콕 대사관에서 기자회견을 열어 미국과 이스라엘의 이란 공격을 규탄하고 태국과의 400년 우호 관계를 강조한 지 불과 일주일 만에 태국 화물선이 이란 IRGC 해군에 의해 공격을 받았습니다. 이란은 화물선 Mayuree Naree가 '경고를 무시했다'고 주장했습니다. 보도 시점 현재 태국 선원 3명이 실종 상태입니다. 그 다음 날인 목요일 밤, 저명한 샤 가문이 소유한 태국-인도 해운 대기업인 Precious Shipping Public Company Limited (PSL)는 공격 전에 경고가 없었다는 성명을 발표했습니다. 문제는 여전히 남아 있습니다. 태국 선박이 실제로 그러한 경고를 무시했습니까? 그렇다면 왜 그랬을까요? 경고가 없었다면 실제로 무슨 일이 일어났을까요? 그리고 이란은 왜 400년 된 친구를 이런 식으로 대할까요? 상황을 더 세련되게 처리할 수 없었을까요? 이것이 오랜 친구가 행동하는 방식입니까? 현재 대중은 이란 당국, 태국 해운 회사 및 생존 선원으로부터 훨씬 더 명확한 설명을들을 자격이 있습니다. 태국 내부 정치는 이란과 미국-이스라엘 동맹 간의 갈등이 일부 태국인들 사이에서 인식되는 방식에 주요 요인이 되었습니다. 왕당파 보수주의자들은 점점 더 태국 진보주의자들, 특히 '오렌지' 인민당을 미국 제국주의의 '트로이 목마' 또는 도구로 간주하고 있습니다. 그들의 눈에는 이 그룹이 태국 사회를 변화시키는 데 사용되는 도구입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 선박 공격 및 태국인 실종은 잠재적 여행 불안 요소. 정치적 갈등 요소도 포함되어 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "A Thai ship, the Iran war, and Thailand’s political divide",
+          "url": "https://www.khaosodenglish.com/featured/2026/03/14/when-some-thais-see-war-against-iran-through-domestic-political-lenses/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/16-ENG-Pravit.jpg"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/16-ENG-Pravit.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국 법무부 장관, 룻타폰 나오왓 재선 임명",
+      "summary": "- 룻타폰 나오와랏 법무부 장관이 재선될 예정이다.\n- 그는 탁월한 성과로 2명의 솟어. 팍솜 (정당명) 후보를 체포했다.\n- 그는 1997년부터 경찰로 재직하며 다양한 임무를 수행했다.",
+      "full_translated": "폴. 롯. 따. 타. 룻타폰 나오와랏의 이력에 따르면 그는 부리람 지역의 유력 인사이며, 법무부 장관으로 다시 임명될 것으로 예상됩니다. 그는 웹 도박 단속과 팍솜 및 팍키여우 정당을 막는 데 성공하여 좋은 평가를 받았습니다. 아누틴 이 내각에서 법무부 장관직을 계속 수행할 것으로 보입니다. 그는 1997년부터 경찰로 재직하며 다양한 임무를 수행했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이며, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ พล.ต.ท.รุทธพล ลูกหม้อบ้านใหญ่บุรีรัมย์ ไม่หลุดโผ นั่ง รมว.ยุติธรรม อีกสมัย",
+          "url": "https://www.thairath.co.th/news/politic/2920089",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iTPD7eMDJDxMN.jpg"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iTPD7eMDJDxMN.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "국왕, 국회 개원식 주재",
+      "summary": "- 마하 와치랄롱꼰 국왕과 수티다 왕비가 총선 후 3월 14일 국회 개원식을 주재했습니다.\n- 국왕은 개회식에서 공식적으로 의회 회기를 시작하는 연설을 했습니다.\n- 국왕은 국민을 위해 입법 업무를 수행하는 모든 사람이 국민의 복지를 최우선 목표로 삼아야 한다고 당부했습니다.",
+      "full_translated": "마하 와치랄롱꼰 국왕과 수티다 왕비는 총선 완료 후 3월 14일 국회 개원식을 주재했습니다. 국왕은 이 자리에서 의회 회기를 공식적으로 개회하는 연설을 했습니다. 국왕은 다음과 같이 말했습니다. “하원 의원 선거가 완료되고 의회가 2569년(2026년) 회기를 위해 소집되었으므로 지금부터 의회 회기 개회를 선언합니다. 나는 전국의 국민을 대표하여 입법 업무를 수행할 모든 사람이 의로움과 국민의 복지를 최우선 목표로 삼기를 바랍니다. 이 의회에서 이루어지는 모든 심의는 헌법 절차에 따라 진행되어야 하며 국가와 국민에게 진정으로 이익이 되는 결과를 달성해야 합니다.” 국왕은 의회 절차가 순조롭게 진행되고 관련된 모든 사람이 행복과 번영을 누리기를 기원하면서 연설을 마쳤습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "국회 개원 소식은 일반적인 정치 뉴스이므로 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-03-14",
+        "location": "태국 국회",
+        "price": null,
+        "location_google_map_query": "태국 국회"
+      },
+      "references": [
+        {
+          "title": "King presides over State Opening of Parliament",
+          "url": "https://www.khaosodenglish.com/featured/2026/03/14/king-presides-over-state-opening-of-parliament/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/934.jpg"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/934.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "인권 감시 단체, 태국에 베트남 활동가 석방 및 강제 송환 중단 촉구",
+      "summary": "- 인권 감시 단체(Human Rights Watch)는 태국 당국에 베트남 반부패 운동가 레치탄의 석방을 촉구하며, 베트남으로의 강제 송환 중단을 요구했습니다.\n- 레치탄은 여권 취소로 인해 비자가 무효화된 후, 방콕 인근에서 태국 이민 경찰에 의해 체포되었습니다.\n- 인권 감시 단체는 레치탄이 베트남으로 송환될 경우 자의적 구금, 고문, 불공정한 재판에 직면할 위험이 있다고 경고했습니다.",
+      "full_translated": "인권 감시 단체는 3월 12일 태국 당국에 베트남 반부패 운동가 레치탄을 석방하고 베트남으로의 강제 송환을 중단할 것을 촉구하며, 그가 자의적 구금, 고문, 불공정한 재판에 직면할 수 있다고 경고했습니다. 43세의 레치탄은 베트남 당국이 그의 여권을 취소하여 비자가 무효화된 후 3월 6일 파툼타니에 있는 그의 집에서 태국 이민 경찰에 의해 체포되었습니다. 그는 현재 비자 취소 및 추방 명령에 항소하는 동안 수안 플루 이민국 구치소에 수감되어 있습니다. 인권 감시 단체의 아시아 책임자인 일레인 피어슨은 “레치탄을 베트남으로 돌려보내는 것은 솔직한 반부패 운동가를 심각한 위험에 빠뜨릴 것입니다.”라고 말했습니다. 그는 태국 당국에 그의 석방, 비자 복원 및 추방 금지를 촉구했습니다. 인권 감시 단체는 전 베트남 경찰관이었던 레치탄이 소셜 미디어를 사용하여 베트남의 부패 혐의를 폭로했으며 2025년 태국으로 여행하기 전에 당국을 비판하는 게시물로 인해 이전에 투옥되었다고 밝혔습니다. 이 단체는 또한 태국의 고문 및 강제 실종 방지법과 고문 방지에 관한 유엔 협약에 따른 국제적 의무는 고문이나 박해의 위험이 있는 국가로 사람들을 돌려보내는 것을 금지한다고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 정치적 사건이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "Pathum Thani, Bangkok",
+        "price": null,
+        "location_google_map_query": "Pathum Thani, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Human Rights Watch urges Thailand to free Vietnamese activist, halt deportation",
+          "url": "https://www.khaosodenglish.com/news/2026/03/14/human-rights-watch-urges-thailand-to-free-vietnamese-activist-halt-deportation/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/315388-1468x710-1.jpg"
+        }
+      ],
+      "collected_at": "00:49",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/315388-1468x710-1.jpg",
       "date": "2026-03-15"
     }
   ]
