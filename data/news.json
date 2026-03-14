@@ -1568,7 +1568,7 @@
       "summary": "- 이란이 미국의 공격에 대한 보복으로 UAE 내 석유 시설을 공격했습니다.\n- 후자이라 항구의 석유 저장 시설이 드론 공격을 받아 화재가 발생했습니다.\n- 이 사건으로 호르무즈 해협 인근의 석유 수송에 차질이 예상됩니다.",
       "full_translated": "미국이 이란의 카르그 섬을 공격한 후, 이란은 UAE 내 주요 석유 시설을 공격했습니다. 푸자이라 항구는 드론 공격을 받아 심각한 화재가 발생했습니다. 이 항구는 UAE의 주요 원유 운송 중심지입니다. 현지 언론에 따르면, 화재는 요격된 드론의 잔해로 인해 발생했습니다. 인명 피해는 보고되지 않았습니다. 푸자이라 항구는 매일 수십만 배럴의 원유를 수송하며 호르무즈 해협 근처에 위치해 있습니다. 이번 공격으로 인해 일부 석유 운송 활동이 일시적으로 중단되었습니다. 이란은 미국의 카르그 섬 공격에 대한 보복을 경고한 바 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 긴장 고조로 인한 잠재적 여행 불안 요소 증가. 직접적인 여행 제한은 없지만, 상황 악화 시 영향 가능성 있음.",
       "event_info": {
         "date": null,
@@ -1586,6 +1586,33 @@
       ],
       "collected_at": "21:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iTPrL7ChFy8th.jpg",
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/foreign/2920081",
+      "source": ""
+    },
+    {
+      "title": "전국 주유소, 응급 의료 차량 및 구급차에 대한 우선 급유 협조 요청",
+      "summary": "- 국립 응급 의료 기관은 전국 주유소에 응급 의료 차량 및 구급차에 대한 우선 급유 협조를 요청했습니다.\n- 긴급 환자 이송에 필요한 시간을 단축하고 생명을 살리는 데 기여하기 위함입니다.\n- 국민들의 협조를 당부하며, 작은 도움이 소중한 생명을 살릴 수 있다고 강조했습니다.",
+      "full_translated": "국립 응급 의료 기관은 전국 주유소에 응급 의료 차량 및 구급차에 대한 우선 급유 협조를 요청했습니다. 이는 긴급 환자 이송 시간을 단축하고 생명을 살리는 데 목적이 있습니다.  국립 응급 의료 기관은 모든 주유소에 협조를 요청하며, 긴급 상황 발생 시 신속한 환자 이송을 위해 도움을 줄 것을 당부했습니다.  모든 순간이 중요한 상황에서 작은 도움이 여러 생명을 살릴 수 있다고 강조했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "응급 상황 발생 시 여행객에게도 중요한 정보이며, 긴급 상황 발생 가능성을 고려하여 포함.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역",
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "สพฉ. ขอความร่วมมือปั๊ม โปรดเติม \"น้ำมัน\" ให้รถบริการการแพทย์ฉุกเฉิน-รถพยาบาล",
+          "url": "https://www.thairath.co.th/news/society/2920077",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSP70dRKd92Qq.jpg"
+        }
+      ],
+      "collected_at": "22:19",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSP70dRKd92Qq.jpg",
       "date": "2026-03-14"
     }
   ]
