@@ -1595,7 +1595,7 @@
       "summary": "- 국립 응급 의료 기관은 전국 주유소에 응급 의료 차량 및 구급차에 대한 우선 급유 협조를 요청했습니다.\n- 긴급 환자 이송에 필요한 시간을 단축하고 생명을 살리는 데 기여하기 위함입니다.\n- 국민들의 협조를 당부하며, 작은 도움이 소중한 생명을 살릴 수 있다고 강조했습니다.",
       "full_translated": "국립 응급 의료 기관은 전국 주유소에 응급 의료 차량 및 구급차에 대한 우선 급유 협조를 요청했습니다. 이는 긴급 환자 이송 시간을 단축하고 생명을 살리는 데 목적이 있습니다.  국립 응급 의료 기관은 모든 주유소에 협조를 요청하며, 긴급 상황 발생 시 신속한 환자 이송을 위해 도움을 줄 것을 당부했습니다.  모든 순간이 중요한 상황에서 작은 도움이 여러 생명을 살릴 수 있다고 강조했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "응급 상황 발생 시 여행객에게도 중요한 정보이며, 긴급 상황 발생 가능성을 고려하여 포함.",
       "event_info": {
         "date": null,
@@ -1613,6 +1613,83 @@
       ],
       "collected_at": "22:19",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSP70dRKd92Qq.jpg",
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/society/2920077",
+      "source": ""
+    },
+    {
+      "title": "태국 일부 주유소, 휘발유 판매 500바트로 제한",
+      "summary": "- 태국 일부 지역에서 휘발유 부족 현상 발생\n- 일부 주유소에서 휘발유 판매량을 500바트로 제한\n- 정부의 신속한 대응 촉구",
+      "full_translated": "태국 여러 주에서 휘발유 부족 사태가 심각해지고 있습니다. 3월 14일, 일부 주유소에서는 휘발유 판매를 500바트로 제한하기 시작했습니다. 시민들은 주유소 앞에서 장시간 대기하는 불편을 겪고 있으며, 정부가 휘발유 공급 부족 문제에 적극적으로 대처해 줄 것을 요구하고 있습니다. 특히 운송업계와 기업들은 휘발유 부족이 사업 운영에 큰 타격을 줄 것이라고 우려하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행객의 이동에 불편을 초래할 수 있으므로 정보 제공. 현재 저녁 시간대이므로 당일 발생한 사건에 대한 정보를 제공하는 것이 적절함.",
+      "event_info": {
+        "date": "2069-03-14",
+        "location": "태국 내 여러 주유소",
+        "price": "500바트 (휘발유 판매 제한)",
+        "location_google_map_query": "태국 주유소"
+      },
+      "references": [
+        {
+          "title": "คนใช้รถบ่นหนัก บางปั๊มเริ่มจำกัดการเติมน้ำมัน \"เบนซิน\" ได้เพียงครั้งละ 500 บาท",
+          "url": "https://www.thairath.co.th/news/society/2920082",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iTP7jZGXNPAK6.jpg"
+        }
+      ],
+      "collected_at": "22:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iTP7jZGXNPAK6.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국 금 가격, 오늘 마감 시세: 2069년 3월 14일 최신 금 시세 확인",
+      "summary": "- 2069년 3월 14일, 태국 금 가격이 마감 시세 기준으로 소폭 조정되었습니다.\n- 금괴 판매 가격은 77,300 바트, 금 장신구 판매 가격은 78,100 바트입니다.\n- 이는 태국 금 거래 협회의 발표에 따른 것입니다.",
+      "full_translated": "2069년 3월 14일 최신 금 가격 정보입니다. 오늘 금 가격은 시장 마감 전에 1회 조정되었습니다. 금괴 판매 가격은 77,300 바트, 금 장신구 판매 가격은 78,100 바트입니다. 태국 금 거래 협회는 오늘 금 가격이 오전 9시 4분에 처음 발표되었으며, 금 장신구 및 금괴 가격이 시장 마감 전에 1회 조정되었다고 밝혔습니다. 오전 9시 4분에 550바트 인하되었습니다. 이에 따라 2069년 3월 14일 금괴 매입 가격은 77,100바트, 판매 가격은 77,300바트입니다. 금 장신구 매입 가격은 75,557.44바트, 판매 가격은 78,100바트입니다. 출처: 태국 금 거래 협회 웹사이트",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "환전 및 금 관련 상품 구매에 영향을 줄 수 있는 정보. 매일 업데이트되는 정보이므로 포함.",
+      "event_info": {
+        "date": "2069-03-14",
+        "location": "태국",
+        "price": "금괴 판매 77,300 바트, 금 장신구 판매 78,100 바트",
+        "location_google_map_query": "태국 금 거래소"
+      },
+      "references": [
+        {
+          "title": "ราคาทองรูปพรรณวันนี้ ราคาทองแท่ง ปิดตลาดวันนี้ 14 มีนาคม 2569 เช็กราคาทองล่าสุด",
+          "url": "https://www.thairath.co.th/news/society/2920059",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iRg911KYGE1bx.jpg"
+        }
+      ],
+      "collected_at": "22:48",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iRg911KYGE1bx.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국 국회, 개원: 새 의장 선출 예정",
+      "summary": "- 태국 국회가 개원하여 새 의장 및 부의장 선출 절차에 들어갈 예정입니다.\n- 국왕은 의원들에게 공익을 최우선으로 할 것을 촉구했습니다.\n- 선거관리위원회의 투표용지 바코드 문제로 선거 결과 무효화 가능성이 제기되고 있습니다.",
+      "full_translated": "국회가 간략한 개원식을 통해 재개되었습니다.\n\n의원들은 일요일에 새 하원 의장과 부의장을 임명할 예정입니다.\n\n게시일: 2026년 3월 14일 20:27\n\n국왕과 여왕은 토요일 오후 5시에 새로운 의회 회기를 공식적으로 개회했으며, 의원들은 일요일에 하원 의장과 부의장을 선출하는 투표를 통해 업무를 시작할 예정입니다. 국왕은 의회 의원들에게 짧은 개원 연설에서 입법 업무 수행에 있어 정의와 공익을 최우선 목표로 삼을 것을 촉구했습니다. 의회 재개는 선거관리위원회의 2월 8일 선거 처리에 대한 도전이 거세지는 가운데 이루어졌습니다. 옴부즈만 사무실은 금요일 헌법재판소에 투표용지의 바코드가 헌법에 의해 보호되는 투표 비밀을 침해했을 가능성이 있는지 고려해 달라는 청원서를 제출했습니다. 이번 결정은 유권자, 법률 전문가 등이 옴부즈만에게 제출한 수많은 불만 사항에 대한 검토에 따른 것입니다. 법원이 불만 사항을 받아들일 경우 2월 8일 선거 결과가 무효화되고 새로운 투표가 실시될 수 있습니다. 결정까지 몇 주 또는 몇 달이 걸릴 수 있지만, 하원에서는 일요일에 새 하원 의장과 두 명의 부의장을 선출하는 것으로 시작하여 평소와 같이 업무가 진행될 것입니다. 솜폰 자람 부총리는 새로운 연립 정부를 이끌게 될 품자이타이당이 자신을 의장 후보로 지명했다고 확인했습니다. 일단 선출되면 새 의장은 의회 회기를 소집하여",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "정치적 상황 변화에 대한 정보. 여행에 직접적인 영향은 적으나, 알아두면 유용한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Parliament reopens with brief ceremony",
+          "url": "https://www.bangkokpost.com/thailand/politics/3216753/parliament-reopens-with-brief-ceremony",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216753_700.jpg"
+        }
+      ],
+      "collected_at": "22:48",
+      "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216753_700.jpg",
       "date": "2026-03-14"
     }
   ]
