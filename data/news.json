@@ -1703,7 +1703,7 @@
       "summary": "- 이란이 UAE 주민들에게 주요 항구에서 멀리 떨어지라고 재차 경고했습니다.\n- 이는 테헤란이 UAE 항구를 공격 목표로 삼고 있기 때문입니다.\n- 최근 몇 주 동안 UAE 항구와 유류 시설에 대한 공격이 증가하고 있습니다.",
       "full_translated": "이란이 아랍에미리트(UAE) 주민들에게 주요 항구에서 멀리 떨어져 있으라고 새로운 경고를 발표했습니다. 이는 테헤란이 UAE 항구를 공격 목표로 삼아왔기 때문입니다. 2024년 3월 14일, 이란은 UAE 내 민간인들에게 국가의 주요 항구에 접근하지 말 것을 촉구하는 또 다른 경고를 발령했습니다. 이란 언론은 UAE 거주자들에게 두바이의 제벨 알리 항구, 아부다비의 칼리파 항구, 푸자이라의 미나 알-푸자이라 항구 주변 지역에서 대피하라고 명령했습니다. 푸자이라 항구는 이란이 미국이 이란의 주요 석유 중심지인 카르크 섬을 공격한 것에 대한 보복을 다짐한 후 드론 공격을 받았습니다. 지금까지 이란의 공격으로 UAE에서 6명이 사망하고 141명이 부상당했습니다. 이란은 항구 외에도 공항, 호텔, 고층 건물, 경제 중심지 및 석유 생산 공장을 공격 목표로 삼았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "UAE의 항구 공격 가능성은 태국 여행객에게 직접적인 영향은 적지만, 중동 지역 정세 불안은 항공편 및 유가에 간접적인 영향을 줄 수 있으므로 주의가 필요함. 특히 두바이, 아부다비 경유 여행객은 관련 정보를 주시해야 함.",
       "event_info": {
         "date": null,
@@ -1721,14 +1721,16 @@
       ],
       "collected_at": "23:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSwxVS0N7WR7q.jpg",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/foreign/2920092",
+      "source": ""
     },
     {
       "title": "태국 국방부 장관에 아둘 분탐차른 임명",
       "summary": "- 아둘 분탐차른이 태국 국방부 장관으로 임명되었습니다.\n- 그는 이전 정부에서 국방부 차관을 역임했습니다.\n- 새 국방부 장관은 61세이며, 부리람 출신입니다.",
       "full_translated": "아둘 분탐차른이 태국 국방부 장관으로 임명되었습니다. 그는 이전 정부에서 국방부 차관을 역임했습니다. 아둘 분탐차른은 1964년 6월 2일 출생하여 현재 61세이며, 부리람 출신입니다. 그는 육군사관학교 26기, 쭐라촘클라오 육군사관학교 37기, 국방대학 61기를 졸업했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황 변화에 대한 정보. 여행 자체에는 직접적인 영향은 없으나, 알아두면 유용한 정보.",
       "event_info": {
         "date": null,
@@ -1746,14 +1748,16 @@
       ],
       "collected_at": "23:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSPyi7Hi62xmt.jpg",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/politic/2920079",
+      "source": ""
     },
     {
       "title": "태국 신임 총리실 장관 임명, 탁신 친나왓 정부의 연속성?",
       "summary": "- 나피트라 스리사판, 탁신 정부에 이어 다시 총리실 장관 임명.\n- 쁘라윳 총리 내각에서도 핵심 역할 수행.\n- 시장 사업가 출신으로 품짜이타이 당의 핵심 인물.",
       "full_translated": "나피트라 스리사판은 라차부리 지역의 저명한 사업가이며 품자이타이 당의 핵심 인물입니다. 그는 탁신 친나왓 정부에 이어 다시 총리실 장관으로 임명되었습니다. 이번 인사는 쁘라윳 총리 내각의 연속성을 보여주는 것으로 해석됩니다. 나피트라 스리사판은 과거 상무부 차관을 역임했으며, 시장 사업가로서의 경험을 바탕으로 정부 정책 결정에 참여할 것으로 예상됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 뉴스이지만, 태국 정부의 변화는 장기적으로 관광 정책에 영향을 줄 수 있으므로 낮은 점수를 부여.",
       "event_info": {
         "date": null,
@@ -1771,14 +1775,16 @@
       ],
       "collected_at": "23:54",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSQZWNLnrA6IA.jpg",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/politic/2920070",
+      "source": ""
     },
     {
       "title": "태국, 미국 LNG 생산업체와 LNG 구매 확대 협상",
       "summary": "- 태국 정부는 미국 Cheniere Energy와 LNG 공급 확대 및 인도 시기 단축 협상 진행.\n- 이는 중동 지역 긴장으로 인한 에너지 공급 차질 가능성에 대비하기 위함.\n- 기존 계약 물량 100만 톤에서 130만 톤으로 증량, 일부 물량의 인도 시기를 3분기에서 2분기로 조정.",
       "full_translated": "태국 정부는 중동 지역의 긴장으로 인한 잠재적인 에너지 공급 차질을 완화하기 위해 미국의 주요 액화천연가스(LNG) 생산업체와 태국에 대한 공급을 늘리고 인도 일정을 가속화하기 위한 협상을 진행했습니다. 아타폴 륵피분 에너지부 장관은 금요일 에너지부 관리들과 PTT Plc 임원들과 함께 세계 최대 LNG 생산 및 수출업체 중 하나인 휴스턴 소재 Cheniere Energy Inc의 최고 상업 책임자인 아나톨 페이긴과 논의했습니다. 이번 회담은 연간 100만 톤에서 130만 톤으로 기존 장기 계약에 따라 태국에 대한 LNG 인도를 늘려 2041년까지 지속되는 계약의 남은 15년 동안 국가 에너지 안보를 강화하는 데 초점을 맞췄습니다. 양측은 또한 일부 LNG 화물의 인도 일정을 조정하여 2026년 3분기에서 2분기로 선적을 앞당기는 방안을 논의했습니다. 이번 조치는 중동 분쟁이 계속될 경우 태국을 잠재적인 공급 차질로부터 보호하기 위한 것입니다. Cheniere Energy는 배송을 가속화하기 위해 최선을 다하겠다고 약속했다고 Atthapol 씨는 말했습니다. 정부는 에너지 위기가 발생한 이후 여러 병행 조치를 취했다고 그는 말했습니다. 여기에는 석유 수출의 일시적인 중단, 국가 석유 증가가 포함됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "에너지 공급 관련 뉴스는 여행객에게 직접적인 영향을 미치지 않으나, 경제 상황 변화 가능성을 내포하므로 낮은 점수 부여. 기존 게시된 뉴스와 내용이 다르므로 포함.",
       "event_info": {
         "date": null,
@@ -1796,7 +1802,82 @@
       ],
       "collected_at": "23:54",
       "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216730_700.jpg",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://www.bangkokpost.com/business/general/3216730/thailand-holds-lng-talks-with-us-producer",
+      "source": ""
+    }
+  ],
+  "2026-03-15": [
+    {
+      "title": "호르무즈 해협 공격받은 선박에 태국인 선원 3명 생존",
+      "summary": "- 호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명이 생존했습니다.\n- 선박 공격의 원인과 배후는 아직 밝혀지지 않았습니다.\n- 해당 해역을 지나는 선박 및 여행객들은 주의가 필요합니다.",
+      "full_translated": "호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명이 생존한 것으로 확인되었습니다. 선박 공격의 정확한 원인과 배후는 아직 밝혀지지 않았습니다. 해당 해역을 지나는 선박 및 여행객들은 잠재적인 위험에 주의해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "호르무즈 해협은 태국과 연결된 해상 교통로이므로, 해당 지역의 선박 공격은 태국인 여행객에게 잠재적인 위험을 초래할 수 있습니다. 비록 직접적인 위협은 아니지만, 관련 정보를 제공하여 여행객의 안전 의식을 높이는 것이 중요합니다.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "Strait of Hormuz"
+      },
+      "references": [
+        {
+          "title": "3 Thai crew on attacked ship 'still alive'",
+          "url": "[MISSING_URL]",
+          "source": "Google News"
+        }
+      ],
+      "collected_at": "00:19",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "푸껫에서 무허가 요트 투어를 한 독일인 선장 체포",
+      "summary": "- 푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포됨.\n- 당국은 불법 투어 운영에 대한 조사를 진행 중임.\n- 여행객들은 투어 이용 시 허가 여부를 확인해야 함.",
+      "full_translated": "푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포되었습니다. 당국은 불법 투어 운영에 대한 조사를 진행 중이며, 여행객들은 투어 이용 시 반드시 허가 여부를 확인해야 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "푸껫에서 발생한 불법 투어 관련 사건으로, 여행객 안전 및 주의에 대한 환기를 위해 필요하다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫",
+        "price": null,
+        "location_google_map_query": "푸껫"
+      },
+      "references": [
+        {
+          "title": "German captain arrested in Phuket over unlicensed yacht tour - Thaiger",
+          "url": null,
+          "source": "Thaiger"
+        }
+      ],
+      "collected_at": "00:19",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국 해군, 호르무즈 해협 인근 해상 기뢰 가능성에 선박 주의 경고",
+      "summary": "- 태국 해군이 페르시아만, 오만만, 호르무즈 해협 항해 시 주의를 요하는 긴급 안전 권고를 발표했습니다.\n- 이 지역의 긴장 고조와 해상 기뢰 위협 가능성에 따른 조치입니다.\n- 선박은 위험 지역 진입을 피하고, 보안 조치를 강화하며, 해상 보안 당국과의 연락을 유지해야 합니다.",
+      "full_translated": "태국 해군, 호르무즈 해협 인근 해상 기뢰 가능성에 선박 주의 경고\n\n방콕 — 태국 해군이 페르시아만, 오만만, 호르무즈 해협에서 항해하는 태국 선박 운영자들에게 지역 긴장 고조와 해상 기뢰의 잠재적 위협 속에서 주의를 기울일 것을 촉구하는 긴급 권고를 발표했습니다. 파라치 라타나차이야판 해군 소장은 3월 14일 해군 작전 센터 산하 해상 교통 통제 센터가 해당 지역에서 운영되는 태국 상선 및 해운 회사에 경고하기 위해 3월 13일에 보안 경보를 발령했다고 밝혔습니다. 이번 권고는 해당 지역에 해상 기뢰가 배치될 가능성이 있으며, 상업 운송과 세계에서 가장 중요한 해상 무역로 중 하나에 위험을 초래할 수 있다는 평가에 따른 것입니다. 해군은 태국 선박과 선박 운영자들에게 불필요한 경우 고위험 지역에 들어가지 말고, 위험 평가를 실시하고, 국제 선박 및 항만 시설 보안(ISPS) 코드와 해상 보안을 위한 최상의 관리 관행에 따라 보안 조치를 강화할 것을 촉구했습니다. 또한 선박은 상황 변화를 면밀히 관찰하고, 해상 채널 16에서 무선 통신을 유지하고, 해당 지역 해상 보안 당국과의 연락에 대비해야 합니다. 의심스러운 물체나 특이한 사건을 발견한 선박은 즉시 해군 해상 교통 통제 센터, 영국 해상 무역 운영 및 기타 관련 당국에 신고해야 합니다. 해군은 또한 승무원이 대응해야 하는 방법에 대한 운영 지침을 발표했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "호르무즈 해협은 주요 해상 교통로이며, 기뢰 위협은 선박 운항에 직접적인 영향을 미치므로 여행 안전에 영향을 줄 수 있음. 한국인 선박 탑승객도 있을 수 있으므로 관련 정보 인지 필요.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "Thai Navy warns ships of possible sea mines near Hormuz",
+          "url": "https://www.khaosodenglish.com/news/2026/03/14/thai-navy-warns-ships-of-possible-sea-mines-near-hormuz/",
+          "source": "Khaosod English",
+          "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/AP26070525672326.jpg"
+        }
+      ],
+      "collected_at": "00:19",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/AP26070525672326.jpg",
+      "date": "2026-03-15"
     }
   ]
 }
