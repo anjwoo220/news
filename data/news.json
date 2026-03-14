@@ -273,7 +273,7 @@
       "summary": "- 푸껫에서 독일인 선장이 무허가 요트 투어를 운영하다 체포됨.\n- 당국은 불법 투어 운영에 대한 조사를 강화할 예정.\n- 여행객들은 허가된 투어인지 확인해야 안전하게 여행할 수 있음.",
       "full_translated": "푸껫에서 독일인 선장이 무허가 요트 투어를 운영한 혐의로 체포되었습니다. 당국은 푸껫에서 불법 투어 운영에 대한 조사를 강화하고 있습니다. 여행객들은 투어 이용 시 허가 여부를 확인하여 안전하게 여행해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "푸껫에서 발생한 불법 투어 관련 사건으로, 여행객 안전에 영향을 줄 수 있으므로 정보 제공 필요.",
       "event_info": {
         "date": null,
@@ -288,15 +288,18 @@
           "source": "Thaiger"
         }
       ],
-      "collected_at": "08:14",
-      "date": "2026-03-14"
+      "collected_at": "8:14",
+      "image_url": "",
+      "date": "2026-03-14",
+      "link": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGhhaWdlci5jb20vMjAyNC8wNi8yMC9nZXJtYW4tY2FwdGFpbi1hcnJlc3RlZC1pbi1waHVrZXQtb3Zlci11bmxpY2Vuc2VkLXlhdGh0LXRvdXItdGhhaWdlci_SAQA?oc=5",
+      "source": ""
     },
     {
       "title": "태국 주요 주유소 유류 가격 업데이트 (2024년 3월 14일)",
       "summary": "- 2024년 3월 14일, 태국 주요 주유소(PTT, Bangchak, PT, Caltex, Shell)의 휘발유, 가솔린, 디젤 가격 업데이트.\n- 하이 프리미엄 디젤 S는 45.64바트/리터, 일반 디젤 S는 29.94바트/리터.\n- 쉘(Shell)의 경우, 퓨얼세이브 가솔린 E20은 28.94바트/리터, V-Power 가솔린 95는 49.84바트/리터.",
       "full_translated": "2024년 3월 14일, 태국 주요 주유소의 유류 가격이 업데이트되었습니다. 벵짝(Bangchak), PTT(뻐떠떠), 쉘(Shell) 등의 웹사이트에서 최신 가격 정보를 확인할 수 있습니다.\n\n**주요 유류 가격:**\n\n*   하이 프리미엄 디젤 S: 45.64 바트/리터\n*   하이 디젤 S: 29.94 바트/리터\n*   하이 프리미엄 97: 49.54 바트/리터\n*   가솔린 E85S EVO: 25.79 바트/리터\n*   가솔린 E20S EVO: 27.84 바트/리터\n*   가솔린 91S EVO: 30.68 바트/리터\n*   가솔린 95S EVO: 31.05 바트/리터\n*   디젤: 29.94 바트/리터\n*   가솔린 E85: 25.79 바트/리터\n*   가솔린 E20: 27.84 바트/리터\n*   가솔린 91: 30.68 바트/리터\n*   가솔린 95: 31.05 바트/리터\n*   벤진: 39.64 바트/리터\n*   슈퍼파워 디젤: 43.44 바트/리터\n*   슈퍼파워 가솔린 95: 40.04 바트/리터\n*   쉘 퓨얼세이브 가솔린 E20: 28.94 바트/리터\n*   쉘 퓨얼세이브 가솔린 91: 31.78 바트/리터\n*   쉘 퓨얼세이브 가솔린 95: 32.35 바트/리터\n*   쉘 V-Power 가솔린 95: 49.84 바트/리터\n*   쉘 퓨얼세이브 디젤: 29.94 바트/리터\n*   쉘 V-Power 디젤: 49.84 바트/리터",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "렌터카 이용 여행객에게 유용한 정보. 매일 업데이트되는 정보이므로 게시 가치가 있음.",
       "event_info": {
         "date": "2024-03-14",
@@ -312,8 +315,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv48H6KOJbkA0FD.jpg"
         }
       ],
-      "collected_at": "08:14",
+      "collected_at": "8:14",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv48H6KOJbkA0FD.jpg",
+      "date": "2026-03-14",
+      "link": "https://www.thairath.co.th/news/society/2919910",
+      "source": ""
+    },
+    {
+      "title": "태국 정부, 폭염 관련 질병 주의 경고: 2025년 21명 사망, 열사병 예방 권고",
+      "summary": "- 태국 정부는 폭염 관련 질병에 대한 경고를 발표하며 2025년에 182명의 환자와 21명의 사망자가 발생했다고 밝혔습니다.\n- 특히 북동부 지역에서 가장 많은 환자가 발생했으며, 주로 일용직 노동자들이 야외에서 일하는 동안 열사병에 걸릴 위험이 높습니다.\n- 정부는 열사병 예방을 위한 지침을 발표하고 시민들에게 주의를 당부했습니다.",
+      "full_translated": "태국 정부는 더운 날씨로 인해 발생하는 질병에 대한 경고를 발표했습니다. 2025년 자료에 따르면 182명의 환자가 발생했으며 21명이 사망했습니다. 특히 북동부 지역에서 가장 많이 발생했으며, 대부분 일용직 노동자들이 야외에서 일하는 동안 발생했습니다.\n\n낭싸오 아이린 판릿 부대변인은 태국의 여름철 날씨 변화로 인해 질병관리국의 디지털 질병 감시 시스템(DDS) 데이터에 따르면 2025년에 182명의 열 관련 질병 환자가 발생했다고 밝혔습니다. 환자의 대부분은 남성(59.3%)이었고, 15-34세 사이의 근로 연령층이 78명(42.8%), 60세 이상 노인이 29명(15.9%)으로 나타났습니다. 주로 군인, 일용직 노동자와 같이 야외에서 일하는 사람들이 많았습니다(53.3%). 환자 대부분은 열탈진(34.07%)을 겪었고, 열실신(23.63%), 열경련(14.29%)이 뒤를 이었습니다. 심각한 상태인 열사병 환자는 전체 환자의 9.34%인 17명으로 보고되었습니다.\n\n역학과의 열 관련 사망 감시 결과, 2025년에 총 21명이 사망했으며, 남성이 18명, 여성이 3명이었습니다. 연령대는 27-79세(평균 51세)였으며, 직업은 일용직이 28.5%를 차지했습니다. 사망자는 우돈타니(5명), 나콘라차시마(2명), 캄팽펫, 촌부리, 차이나트, 차이야품, 논타부리 등 16개 주에서 보고되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 여행 중 폭염으로 인한 건강 문제 발생 가능성. 여행자들에게 필요한 안전 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัฐบาลเตือนระวังโรคเกี่ยวกับความร้อน ปี 68 เสียชีวิต 21 ราย แนะวิธีป้องกันฮีทสโตรก",
+          "url": "https://www.thairath.co.th/news/politic/2919962",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49LDXGZgyMpCu.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49LDXGZgyMpCu.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국, 국제 공조로 해외 스캠 및 온라인 범죄 네트워크 소탕... 15만 개 계정 폐쇄",
+      "summary": "- 태국 정부가 해외 스캠 및 온라인 범죄 척결을 위해 국제적인 협력을 강화하고 있습니다.\n- 미국 FBI, 법무부 스캠 센터, Meta 등과 협력하여 대규모 합동 작전을 펼쳤습니다.\n- 이 결과, 15만 개 이상의 사기 관련 계정을 폐쇄하고 21명을 체포했습니다.",
+      "full_translated": "태국이 국제 사회와 협력하여 해외 스캠 네트워크를 저지하고 온라인 범죄를 단속하며 15만 개 이상의 사기 계정을 폐쇄했습니다. 2069년 3월 14일, 총리실 부대변인 랄리다 퍼릿위와타나는 정부가 온라인 사기 대응 센터(ACSC)를 통해 국가 경찰청과 협력하여 법 집행 기관 및 글로벌 기술 기업과 함께 온라인 범죄 단속을 적극적으로 추진하고 있다고 밝혔습니다. 미국 연방수사국(FBI), 미국 법무부 스캠 센터 스트라이크 포스(DOJ Scam Center Strike Force), Meta 및 전 세계 10개국의 법 집행 파트너와 협력하여 방콕에서 제2차 합동 단속 주간(Joint Disruption Week) 작전을 수행하여 동남아시아 및 기타 지역에서 광범위하게 운영되는 국제 온라인 사기 범죄 네트워크를 저지했습니다. 이 작전은 태국과 미국, 영국, 한국, 일본, 싱가포르, 필리핀 등 여러 국가의 법 집행 기관 간의 협력과 LINE과 같은 기술 부문과의 협력을 통해 정보 교환 및 수사를 지원하여 조직적인 범죄 네트워크를 해체하고 실질적인 기소를 확대하는 것을 목표로 합니다. 부대변인은 이러한 협력을 통해 다양한 플랫폼에서 15만 개 이상의 온라인 사기 관련 계정을 비활성화할 수 있었으며, 확보된 정보는 국가 경찰청이 21명의 용의자를 체포하는 데 도움이 되었다고 밝혔습니다. 수사 결과, 체포된 용의자 중 한 명이...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 내에서 발생하는 온라인 스캠 및 범죄에 대한 단속 강화는 여행객 안전에 간접적인 영향을 미칠 수 있으므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ไทยร่วมมือนานาชาติ สกัดเครือข่ายสแกมข้ามชาติ-อาชญากรรมออนไลน์ ปิดบัญชีมิจฉาชีพ 150,000 บัญชี",
+          "url": "https://www.thairath.co.th/news/politic/2919961",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49LTryOTh0PCI.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49LTryOTh0PCI.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "차이낫 주유소, 디젤유 1회 1,000바트(약 37,000원)로 제한 판매... 사람들 줄 서서 대기",
+      "summary": "- 중동 불안으로 인해 3월 17일 유가 인상 가능성에 대한 우려가 커지면서 차이낫 지역 주유소에 사람들이 몰려 주유 대기 중.\n- 해당 주유소는 디젤유에 한해 1회 1,000바트로 주유를 제한하고 있으며, 이는 더 많은 사람들이 혜택을 받을 수 있도록 하기 위함.\n- 농민들은 농업용 장비 사용을 위해 기름을 비축하려는 반면, 주유소 측은 재고가 소진될 때마다 고객에게 알리고 있다고 밝힘.",
+      "full_translated": "3월 14일, 중동 지역의 불안정한 상황이 지속됨에 따라 차이낫(Chainat) 지역의 주유소는 아침부터 기름을 사려는 사람들로 붐볐다. 사람들은 3월 17일에 유가가 인상될 수 있다는 우려 때문에 기름을 비축하려는 것으로 보인다. 정부는 3월 16일까지 유가를 동결한다고 발표한 바 있다. 차이낫(Chainat) 지역의 PTT 주유소에는 많은 차량이 몰려들어 기름을 넣기 위해 줄을 섰고, 줄이 주유소 밖으로까지 이어졌다. 주유소는 평소처럼 서비스를 제공하지만, 디젤유에 한해서는 1회 주유 시 1,000바트(약 37,000원)까지만 주유를 허용하고 있다. 이는 모든 사람들이 혜택을 받을 수 있도록 하기 위함이다. 주유소에서 기름을 넣은 한 농부는 펌프, 차량, 농기계에 사용할 기름을 채우기 위해 왔다고 말했다. 그는 주로 이 주유소를 이용하는데, 항상 기름이 있기 때문이라고 덧붙였다. 주유소 직원은 오늘 아침부터 많은 사람들이 찾아와서 밥 먹을 시간도 없다고 말했다. 디젤유 가격은 아직 인상되지 않았지만, 주유소는 전략을 바꿔 1회 주유 시 1,000바트까지만 주유를 허용하고 있다. 주유소 측은 기름이 들어오는 대로 계속 주유를 하고 있으며, 재고가 소진되면 고객에게 알리고 있다고 밝혔다. 여행 계획을 세우기 전에 미리 확인하는 것이 좋다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "유가 변동에 따른 혼잡 가능성. 여행 시 주유 계획에 영향을 줄 수 있음. 디젤 차량 운전 여행객에게 정보 제공 가치 있음.",
+      "event_info": {
+        "date": null,
+        "location": "차이낫(Chainat) 지역 주유소",
+        "price": "디젤 1회 최대 1,000 바트",
+        "location_google_map_query": "Chainat gas station"
+      },
+      "references": [
+        {
+          "title": "ปั๊มน้ำมันชัยนาท จำกัดเติม \"น้ำมันดีเซล\" คันละไม่เกิน 1,000 บาท คนแห่รอคิวแน่น",
+          "url": "https://www.thairath.co.th/news/local/2919959",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49lOszdOo1odK.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49lOszdOo1odK.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "이란, 미국 관련 지역 내 석유 시설 공격 위협",
+      "summary": "- 이란이 미국이 카르크 섬의 석유 기반 시설을 공격할 경우, 미국과 관련된 지역 내 에너지 시설을 공격하겠다고 위협했습니다.\n- 이는 미국이 이란의 석유 수출 중심지인 카르크 섬을 공격할 수 있다는 경고에 대한 반발입니다.\n- 최근 미군의 군사 목표 공격 후, 섬 내 15차례 이상의 폭발과 함께 검은 연기가 발생했다는 보고가 있습니다.",
+      "full_translated": "이란이 미국이 카르크 섬의 석유 기반 시설을 공격할 경우, 미국과 관련된 지역 내 에너지 시설을 공격하겠다고 위협했습니다. 이란 관영 매체는 군사령부 성명을 인용, 미국이 이란의 석유 및 에너지 기반 시설을 공격할 경우, 미국 투자자나 협력사가 있는 지역 내 에너지 시설을 공격하여 보복할 것이라고 밝혔습니다. 이는 도널드 트럼프 미국 대통령이 이란의 원유 수출의 중심지인 카르크 섬의 군사 목표물을 공격했다고 발표한 후에 나온 경고입니다. 트럼프 대통령은 이란이 호르무즈 해협을 통한 항해를 계속 방해할 경우 카르크 섬의 석유 기반 시설을 추가로 공격할 수 있다고 위협했습니다. Fars News Agency에 따르면, 최근 미군의 군사 목표 공격 후 섬 내에서 15차례 이상의 폭발이 있었고 검은 연기가 피어올랐다고 보도되었지만, 카르크 섬의 석유 기반 시설은 아직 손상되지 않았다고 확인되었습니다. 공격 목표는 군 방어 시스템, 조센 해군 기지, 공항 관제탑 및 헬리콥터 격납고를 포함합니다. 카르크 섬은 페르시아 만의 작은 섬으로 이란 해안에서 약 24km 떨어져 있으며, 원유 수출의 중심지로서 이란 경제에 매우 중요합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역 긴장 고조는 유가 상승 및 여행 심리 위축 가능성 존재. 직접적인 위협은 아니지만 상황 주시 필요.",
+      "event_info": {
+        "date": null,
+        "location": "카르크 섬, 페르시아 만",
+        "price": null,
+        "location_google_map_query": "Kharag Island, Persian Gulf"
+      },
+      "references": [
+        {
+          "title": "อิหร่านขู่โจมตีโครงสร้างพื้นฐานน้ำมันในภูมิภาคที่เกี่ยวข้องกับสหรัฐ หลังเกาะคาร์กถูกโจมตี",
+          "url": "https://www.thairath.co.th/news/foreign/2919957",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49kXbMmF0Lvvh.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv49kXbMmF0Lvvh.jpg",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국 암호화폐 스캔들, 투자자 신뢰 흔들다",
+      "summary": "- 유명 암호화폐 투자자 Worawat Naknawdee와 Kasikornbank 벤처 캐피털 임원 Kampanat Vimolnoht 관련 스캔들 발생\n- 이들은 암호화폐 투자 기회를 약속했지만 실현되지 않아 투자자들을 오도했다는 의혹을 받음\n- 태국 암호화폐 시장의 신뢰, 내부자 네트워크, 위험에 대한 우려가 제기됨",
+      "full_translated": "Worawat Naknawdee는 'Acme Traderist'라는 온라인 이름으로 알려진 36세의 인물입니다. 그는 2012년부터 비트코인 채굴을 시작하며 태국 초기 암호화폐 투자자 중 한 명으로 명성을 쌓았습니다. 그는 Bitnance Co Ltd의 최고 경영자를 역임했으며, 현지 디지털 자산 부문의 선구자로 묘사되기도 했습니다. 일부 추정에 따르면 그는 최대 8,000개의 비트코인을 보유했으며, 이는 최고 가격으로 수억 달러에 달하는 가치입니다. Kampanat Vimolnoht는 Kasikornbank의 자회사인 K Venture Group(KVG)의 전무이사였습니다. 그는 KVG가 암호화폐 스타트업 Zipmex에 투자하도록 승인한 것으로 알려졌습니다. 2022년 Zipmex는 재정적 어려움에 직면하여 인출을 중단해야 했습니다. 이러한 스캔들은 태국 암호화폐 시장에 대한 투자자들의 신뢰를 크게 훼손했습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "암호화폐 투자 관련 사기는 여행자에게 직접적인 영향을 미치지는 않지만, 금융 시장의 불안정성은 간접적으로 여행 관련 소비 심리에 영향을 줄 수 있음. 다만, 스캔들 자체가 여행객 안전에 직접적인 위협이 되지는 않으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thai crypto scandals shake investor trust",
+          "url": "https://www.bangkokpost.com/thailand/general/3216519/thai-crypto-scandals-shake-investor-trust",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216519_260314060236_700.jpg"
+        }
+      ],
+      "collected_at": "10:39",
+      "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216519_260314060236_700.jpg",
       "date": "2026-03-14"
     }
   ]
