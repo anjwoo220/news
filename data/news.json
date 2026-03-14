@@ -2243,7 +2243,7 @@
       "summary": "- 호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명의 생존이 확인됨.\n- 기존 보도에서 실종으로 알려졌으나, 생존 사실이 업데이트됨.\n- 태국 해군은 해당 해역을 지나는 선박에 대한 주의를 계속 당부하고 있음.",
       "full_translated": "호르무즈 해협에서 공격받은 선박에 탑승했던 태국인 선원 3명의 생존이 확인되었습니다. 이전 보도에서는 이들이 실종된 것으로 알려졌으나, 새로운 정보에 따르면 생존해 있는 것으로 밝혀졌습니다. 태국 해군은 해당 해역을 지나는 선박들에 대해 기뢰의 가능성에 대한 경고를 유지하고 있으며, 각별한 주의를 당부하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해외에서 발생한 사건이지만, 태국인 관련 내용이 포함되어 안전에 대한 정보 제공 필요. 생존 정보 업데이트.",
       "event_info": {
         "date": null,
@@ -2263,15 +2263,18 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "02:45",
-      "date": "2026-03-15"
+      "collected_at": "2:45",
+      "image_url": "",
+      "date": "2026-03-15",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국, 영공 혼란 후 관광객 4만 명 귀국 조치",
       "summary": "- 태국은 최근 영공 문제로 인해 4만 명의 관광객을 본국으로 돌려보냈습니다.\n- 이는 항공편 운항에 차질을 빚어 관광객 불편을 초래했기 때문입니다.\n- 자세한 혼란 원인 및 해결책은 아직 발표되지 않았습니다.",
       "full_translated": "태국은 영공 혼란 이후 4만 명의 관광객을 본국으로 돌려보냈습니다. (thetraveler.org)",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "단기적인 항공편 혼란이 예상되므로 여행객에게 영향이 있을 수 있음. 공항 혼잡 가능성.",
       "event_info": {
         "date": null,
@@ -2287,16 +2290,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1B6WWRNZnBiRXcxeHpfUHZJU0JwSUJIZHhQWGVweFFVOW5aTC1xM3dVSXpUZ1dYeVpNSnhrYlZQeWkzOHdqazR6SzN0OF93bnNSQmMyZTliV2I4bUZBTjdOSWZKSXVwUUlLNUkySVlncVo0TDhyOHBRS0d2VFB5N0phZ2NMaHR4cDl4UkVkLU8?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫 무허가 요트 투어 독일인 선장 체포",
       "summary": "- 푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포됨.\n- 태국 당국은 불법 투어에 대한 단속을 강화하고 있음.\n- 여행객들은 허가받은 투어인지 확인해야 안전하게 여행을 즐길 수 있음.",
       "full_translated": "푸껫에서 허가받지 않은 요트 투어를 운영한 독일인 선장이 체포되었습니다. 태국 당국은 관광객 안전을 위해 불법 투어 운영에 대한 단속을 강화하고 있습니다. 푸껫을 방문하는 여행객들은 투어 참여 전에 반드시 해당 투어가 정식으로 허가받은 업체인지 확인하여 불이익을 당하지 않도록 주의해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "푸껫에서 발생한 불법 투어 관련 사건으로, 여행객들에게 주의를 요하는 정보임.",
       "event_info": {
         "date": null,
@@ -2316,15 +2321,18 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "02:45",
-      "date": "2026-03-15"
+      "collected_at": "2:45",
+      "image_url": "",
+      "date": "2026-03-15",
+      "link": null,
+      "source": ""
     },
     {
       "title": "싸타힙에서 지역 언론인 가족, 주택 침입 사건으로 공포",
       "summary": "- 싸타힙에서 지역 언론인 가족이 전 마을 부 head의 침입을 받아 공포에 떨고 있음.\n- 파타야 언론 협회는 정의 구현을 요구하고 있음.\n- 여행객은 아니지만, 언론인 대상 범죄이므로 치안 관련 정보를 제공할 필요가 있음.",
       "full_translated": "싸타힙에서 지역 언론인과 그 가족이 과거 마을 부 head를 지낸 인물의 주택 침입으로 인해 공포에 휩싸였습니다. 파타야 언론 협회는 이번 사건에 대한 철저한 수사와 정의 구현을 촉구하고 있습니다. 외국인 여행객이 직접적인 대상은 아니지만, 언론인을 대상으로 한 범죄는 지역 사회의 치안 불안을 야기할 수 있으므로 관련 정보를 제공합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객 대상 범죄는 아니지만, 치안 관련 정보 제공 차원에서 포함.",
       "event_info": {
         "date": null,
@@ -2344,15 +2352,18 @@
           "source": "Google News"
         }
       ],
-      "collected_at": "02:45",
-      "date": "2026-03-15"
+      "collected_at": "2:45",
+      "image_url": "",
+      "date": "2026-03-15",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국 관광청, 위기 관리 및 전략적 캠페인으로 관광 부문 지속적 성장 보장",
       "summary": "- 태국 관광청(TAT)은 전 세계적인 불확실성 속에서 관광 부문의 지속적인 성장을 보장하기 위해 위기 관리 및 전략적 캠페인을 적극적으로 추진합니다.\n- TAT는 관광객의 신뢰를 유지하고 태국을 안전하고 매력적인 여행지로 홍보하기 위해 노력하고 있습니다.\n- 다양한 마케팅 전략과 파트너십을 통해 관광객 유치를 확대하고 있습니다.",
       "full_translated": "태국 관광청은 전 세계적인 불확실성 속에서 관광 부문의 지속적인 성장을 보장하기 위해 위기 관리 및 전략적 캠페인을 적극적으로 추진합니다. TAT는 관광객의 신뢰를 유지하고 태국을 안전하고 매력적인 여행지로 홍보하기 위해 노력하고 있습니다. 다양한 마케팅 전략과 파트너십을 통해 관광객 유치를 확대하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광청의 노력은 관광객 유치에 간접적으로 영향을 미치므로 여행 관련 정보로 분류.",
       "event_info": {
         "date": null,
@@ -2368,8 +2379,60 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:45",
+      "collected_at": "2:45",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOYU9IbzZSYnR4SU9ndWhHMVgtZlVMT3VmSVhyc3VHM25aY04yOGdBVkp0M3lJLUhGdzBqMFhyaU92OF9yLWlfMjlQRFZkeFB1ckZHUE9rTTZaMzNCZDJlQ2VOVWY5dVIzNmowLUxYSUktbkRfM1ZTQXdkNFBuQnpsQnNQdUNYTHI4dDVWVnZnNG1TZHk1aFpCeFZKemdZalhMM3Q4em1VRS1WVUd4a2tGNjRKRG4xNXVhS25QZm1JZmxfVHlIOEVQS0dBaHh1WUI0akNKejZ4ZWk1azNTcE9tVjYyNTZJY1ZQMEVXcmNSVVhRLWd1VUlOa1BhVXU5c3JXWWg2by02MXhJc3E2QUNtX3p1Y054R0FLeFVpQlZzOEJaSzhUUmpPeWtUR0JNRGpjVlJpZXlLZ3E2MUU?oc=5",
+      "source": ""
+    },
+    {
+      "title": "중동 영공 혼란으로 발이 묶인 태국 구조 미션: 4만 명의 관광객 귀국",
+      "summary": "- 중동 영공 혼란으로 인해 발이 묶였던 4만 명의 태국 관광객이 귀국을 시작했습니다.\n- 태국 정부는 이들의 안전한 귀환을 위해 구조 미션을 진행 중입니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "Travel And Tour World에 따르면, 중동 영공 혼란으로 인해 발이 묶인 4만 명의 태국 관광객이 귀국을 시작했습니다. 태국 정부는 이들의 안전한 귀환을 위해 구조 미션을 진행 중입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "중동 영공 혼란으로 인해 많은 태국 관광객이 영향을 받고 있으며, 귀국 지원이 필요한 상황이므로 여행에 미치는 영향이 크다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Rescue Mission: 40,000 Stranded Tourists Head Home After Middle East Airspace Chaos - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZXEtczA4ZXdUWUtqQmN5bng1Ui03bmJDSFRSOExrVTl3d2M3SEZMNFNhRTFGM0pEcmhFcGoxQUJwNUFnV1hLOGs0bFY3ZVJzQnlTUVpQbVlZLWJOU0xnMTJMXzRSTjRTOW9Nam8zaG1uLV9yWV9VaW02Sk9ZSndJdk05YjhlNnVYdm1ONm1LbF84aWJyWG5oTDBweVI0NWMzQThpSzZ3Z3JNWENsNTVGYlAyXzBfX2h2cXlkUTA4emM5NmNwVHRIYjhuRk1uRUUwRGhJSUZR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "트럼프, 여러 국가가 호르무즈 해협 개방에 군함 파견할 것이라고 주장",
+      "summary": "- 도널드 트럼프 미국 대통령은 여러 국가가 호르무즈 해협 개방을 위해 미국과 협력할 것이라고 주장함.\n- 그러나 어떤 국가가 참여할 것인지, 실제로 동의했는지에 대한 구체적인 정보는 밝히지 않음.\n- 트럼프는 중국, 프랑스, 일본, 한국, 영국 등이 참여하기를 희망한다고 덧붙임.",
+      "full_translated": "도널드 트럼프는 이란에 의해 봉쇄된 호르무즈 해협을 개방하기 위해 여러 국가가 미국과 협력하여 군함을 파견할 것이라고 주장했습니다. 그는 어느 국가가 이에 동의했는지 밝히지 않았습니다. 2069년 3월 14일 토요일, 도널드 트럼프 미국 대통령은 '다른 국가들'이 미국과 함께 호르무즈 해협을 개방하기 위해 군함을 파견할 것이라고 주장했습니다. 중동 전쟁 상황 속에서 대통령이 어떤 국가를 언급하는지, 어떤 국가가 파견에 동의했는지는 불분명합니다. 이후 트럼프는 Truth Social에 긴 메시지를 게시하여 '중국, 프랑스, 일본, 한국, 영국 및 기타 국가'가 이 지역에 군함을 파견하기를 희망한다고 밝혔습니다. 트럼프는 '특히 이란이 호르무즈 해협을 폐쇄하려는 시도로 인해 영향을 받는 여러 국가가 미국과 함께 군함을 파견하여 해협을 개방하고 안전하게 만들 것입니다. 우리는 이란의 군사적 능력을 100% 파괴했지만, 그들이 드론 한두 대를 보내 기뢰를 설치하거나 이 수로나 영해의 특정 지점을 향해 단거리 미사일을 발사하는 것은 쉬운 일입니다. 그들이 아무리 심하게 패배하더라도 말입니다.'라고 덧붙였습니다. '가상의 봉쇄로 인해 영향을 받는 중국, 프랑스, 일본, 한국, 영국 및 기타 국가들이 해당 지역에 군함을 파견하여 호르무즈 해협이 '처리된' 국가의 위협이 되지 않도록 해야 합니다. 그동안 미국은 해안을 초토화하고 이란의 모든 소형 및 대형 선박을 어떤 식으로든 침몰시킬 것입니다. 우리는 호르무즈 해협을 곧 개방하고 안전하며 자유롭게 만들 것입니다.' ... 현재 이란은...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "호르무즈 해협 상황은 태국 선박 안전에 간접적 영향을 줄 수 있으나, 현재로선 즉각적인 위협은 아님. 관련 태국 선원 실종 사건이 있었으므로 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์อ้าง หลายประเทศจะส่งเรือรบร่วมเปิดเส้นทางช่องแคบฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/foreign/2920095",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSwKPvxV07e3p.jpg"
+        }
+      ],
+      "collected_at": "03:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1iSwKPvxV07e3p.jpg",
       "date": "2026-03-15"
     }
   ]
