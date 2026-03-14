@@ -139,7 +139,7 @@
       "summary": "- 푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포되었습니다.\n- 자세한 내용은 타이거(Thaiger)에서 확인할 수 있습니다.\n- 여행 관련 법규 준수의 중요성을 보여주는 사례입니다.",
       "full_translated": "푸껫에서 무허가 요트 투어를 한 독일인 선장 체포",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "무허가 관광업 운영은 잠재적 안전 문제와 관련될 수 있으므로 여행자들에게 관련 법규 준수의 중요성을 알리기 위해 포함. 푸껫은 인기있는 여행지이므로 영향이 있다고 판단.",
       "event_info": {
         "date": null,
@@ -155,16 +155,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:49",
+      "collected_at": "6:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnhldkhJTGllVlJ6dW43UC13dndCdlRtUmVHSWdDODN4bXktRGtnZDhwOUdKb1J1V3BZZlVTR0g4UjhvSER1ZUNnaGVDZGVoMDVoaWxUYWNsdFRoR0hHY2JoMm80NzBUODJFMDlwVkVyZnF2N2JSRWdpQUs3VGVvWERJLVE1Si1QRUNTRENxVjE?oc=5",
+      "source": ""
     },
     {
       "title": "호르무즈 해협 공격받은 선박에 태국인 선원 3명 생존",
       "summary": "- 호르무즈 해협에서 공격받은 화물선 MV Mayuree Naree호에 태국인 선원 3명이 생존해 있음.\n- 선박은 오만 해역 근처에서 공격받아 화재가 발생했으나 진화되었으며, 20명의 선원은 구조되어 오만으로 이송됨.\n- 이란군의 공격 가능성으로 구조에 어려움이 있으며, 태국 해군은 외교 채널을 통해 지원을 조율 중.",
       "full_translated": "로열 태국 해군 참모총장인 Adm Thadawut Thatphithakkul에 따르면 호르무즈 해협에서 공격을 받은 손상된 화물선 MV Mayuree Naree에 3명의 태국 선원이 생존해 있습니다. 그는 금요일에 오만 해역 근처에서 항해하던 중 수요일에 공격을 받아 선박에 화재가 발생했다고 말했습니다. 화재는 나중에 진압되었습니다. 20명의 선원이 선박에서 구조되어 오만 항구 도시인 카삽으로 옮겨져 송환을 기다리는 동안 보살핌을 받고 있습니다. 나머지 세 명의 선원은 여전히 선박에 있습니다. 선박 소유주에 따르면 그들은 살아 있다고 Adm Thadawut는 말했습니다. 그는 \"이란군이 해당 지역의 선박에 사격할 수 있어 구조대가 접근하기에는 너무 위험하기 때문에 구조선이 아직 그들에게 도달하지 못했습니다.\"라고 말했습니다. 당국은 세 명의 선원이 부상을 입었는지 계속 확인하고 있지만 사망자는 없는 것으로 확인되었습니다. 그러나 외무부는 생존자 확인은 오만 정부에서 나와야 한다고 말했습니다. 로열 태국 해군 대변인인 Parach Rattanachaiyaphan 해군 소장은 태국 당국이 상황을 면밀히 주시하고 있으며 외교 채널과 해군 협력을 통해 23명의 승무원 모두에게 지원을 조정하고 있다고 말했습니다. 그는 태국인의 해외 지원에 대한 주요 책임은 외무부에 있기 때문에 해군의 역할은 주로 조정이라고 언급했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국인이 관련된 해상 사고로, 여행 안전에 대한 간접적인 우려를 야기할 수 있음. 상황이 업데이트되었으므로 포함.",
       "event_info": {
         "date": null,
@@ -180,16 +182,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216484_260314062718_700.jpg"
         }
       ],
-      "collected_at": "06:49",
+      "collected_at": "6:49",
       "image_url": "https://static.bangkokpost.com/media/content/20260314/c1_3216484_260314062718_700.jpg",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://www.bangkokpost.com/thailand/general/3216484/3-thai-crew-on-attacked-ship-still-alive",
+      "source": ""
     },
     {
       "title": "태국, 안전하고 편안한 고급 여행지로 멕시코, 그리스, 인도네시아, 베트남과 합류",
       "summary": "- 태국이 안전하고 편안한 고급 여행지로 멕시코, 그리스, 인도네시아, 베트남과 함께 언급됨.\n- 문화적 편안함과 안전을 중시하는 여행객에게 매력적인 선택지가 될 수 있음을 시사.\n- 고급 여행 경험을 추구하는 여행객에게 긍정적인 정보.",
       "full_translated": "태국이 멕시코, 그리스, 인도네시아, 베트남과 함께 안전하고 편안한 고급 여행지로 부상하고 있습니다. 이는 문화적으로 편안하고 안전한 여행 경험을 원하는 여행객들에게 어필할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 여행에 대한 긍정적인 인식 변화를 나타내는 정보.",
       "event_info": {
         "date": null,
@@ -204,15 +208,18 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "06:49",
-      "date": "2026-03-14"
+      "collected_at": "6:49",
+      "image_url": "",
+      "date": "2026-03-14",
+      "link": "https://news.google.com/rss/articles/태국 관련 기사 URL",
+      "source": ""
     },
     {
       "title": "태국, 3백만 바트 부동산 비자: 부동산을 통한 장기 거주 확보 방법 - Thaiger",
       "summary": "- 태국에서 3백만 바트 상당의 부동산 투자를 통해 장기 거주 비자를 얻는 방법에 대한 정보 제공.\n- 투자 금액, 필요 조건, 신청 절차 등 상세 내용 안내.\n- 부동산 투자에 관심 있는 외국인에게 유용한 정보 제공.",
       "full_translated": "태국의 3백만 바트 부동산 비자: 부동산을 통한 장기 거주 확보 방법 - Thaiger",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 장기 거주에 관심 있는 여행자들에게 유용한 정보. 비자 정보는 여행 관련성이 높음.",
       "event_info": {
         "date": null,
@@ -228,16 +235,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:49",
+      "collected_at": "6:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-14"
+      "date": "2026-03-14",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcE85MERqUW5HNm5RRnllazBPZjdOV3ZqcmJHVXZnRnZkLTdQRWEzYkk4MW5LWWM2dkQxTElUcUsyckRoc3djUnluVmx4MlNCdXdfUk1pNDlVVURLTW95MkduYUxERFpGWjJqc1FJTmJ5VkhyZzR6TFFYOW54TGlwaS10UUFDb28?oc=5",
+      "source": ""
     },
     {
       "title": "이란, 호르무즈 해협에서 태국 국적 선박 공격 확인, 탁 지역에서 중국 국적자 4명 인신매매 경로 탈출",
       "summary": "- 이란이 호르무즈 해협에서 태국 국적 선박을 공격했음을 확인했습니다.\n- 태국 탁 지역에서 중국 국적자 4명이 인신매매 의심 경로에서 탈출했습니다.\n- 해당 사건들에 대한 추가적인 조사 및 관련 조치가 진행될 예정입니다.",
       "full_translated": "이란이 호르무즈 해협에서 태국 국적 선박을 공격한 사건과 태국 탁 지역에서 발생한 중국 국적자 인신매매 관련 사건이 발생했습니다. 이란의 공격은 국제 해운 안전에 대한 우려를 불러일으키고 있으며, 태국 내 인신매매 문제는 지역 사회의 안전과 인권에 심각한 영향을 미치고 있습니다. 관련 당국은 해당 사건들을 조사하고 있으며 필요한 조치를 취할 것으로 예상됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 국적 선박 공격은 잠재적으로 해상 교통에 영향을 줄 수 있으며, 인신매매 사건은 태국 내 여행 시 안전에 대한 우려를 높일 수 있습니다. 직접적인 여행 제한이나 위험은 아니지만, 주의를 기울여야 할 사항입니다.",
       "event_info": {
         "date": null,
@@ -253,8 +262,58 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:49",
+      "collected_at": "6:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-14",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VNm1PcC1Bbk83eURGVWUxNVEzX3F3TWNlU0pKaUFIaUhxV0ZEc3VJWjhVeEEwdnNjNmduQTV1MG5yZTB4UjZCWk1rTFdmXzRUX2dJZktpNmx3ZTdSSGNER251anNKWUtWOUplcWg0ZEdteG03a2lz?oc=5",
+      "source": ""
+    },
+    {
+      "title": "푸껫에서 무허가 요트 투어를 한 독일인 선장 체포",
+      "summary": "- 푸껫에서 독일인 선장이 무허가 요트 투어를 운영하다 체포됨.\n- 당국은 불법 투어 운영에 대한 조사를 강화할 예정.\n- 여행객들은 허가된 투어인지 확인해야 안전하게 여행할 수 있음.",
+      "full_translated": "푸껫에서 독일인 선장이 무허가 요트 투어를 운영한 혐의로 체포되었습니다. 당국은 푸껫에서 불법 투어 운영에 대한 조사를 강화하고 있습니다. 여행객들은 투어 이용 시 허가 여부를 확인하여 안전하게 여행해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "푸껫에서 발생한 불법 투어 관련 사건으로, 여행객 안전에 영향을 줄 수 있으므로 정보 제공 필요.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫",
+        "price": null,
+        "location_google_map_query": "푸껫"
+      },
+      "references": [
+        {
+          "title": "German captain arrested in Phuket over unlicensed yacht tour - Thaiger",
+          "url": "https://news.google.com/rss/articles/CBMieGh0dHBzOi8vdGhhaWdlci5jb20vMjAyNC8wNi8yMC9nZXJtYW4tY2FwdGFpbi1hcnJlc3RlZC1pbi1waHVrZXQtb3Zlci11bmxpY2Vuc2VkLXlhdGh0LXRvdXItdGhhaWdlci_SAQA?oc=5",
+          "source": "Thaiger"
+        }
+      ],
+      "collected_at": "08:14",
+      "date": "2026-03-14"
+    },
+    {
+      "title": "태국 주요 주유소 유류 가격 업데이트 (2024년 3월 14일)",
+      "summary": "- 2024년 3월 14일, 태국 주요 주유소(PTT, Bangchak, PT, Caltex, Shell)의 휘발유, 가솔린, 디젤 가격 업데이트.\n- 하이 프리미엄 디젤 S는 45.64바트/리터, 일반 디젤 S는 29.94바트/리터.\n- 쉘(Shell)의 경우, 퓨얼세이브 가솔린 E20은 28.94바트/리터, V-Power 가솔린 95는 49.84바트/리터.",
+      "full_translated": "2024년 3월 14일, 태국 주요 주유소의 유류 가격이 업데이트되었습니다. 벵짝(Bangchak), PTT(뻐떠떠), 쉘(Shell) 등의 웹사이트에서 최신 가격 정보를 확인할 수 있습니다.\n\n**주요 유류 가격:**\n\n*   하이 프리미엄 디젤 S: 45.64 바트/리터\n*   하이 디젤 S: 29.94 바트/리터\n*   하이 프리미엄 97: 49.54 바트/리터\n*   가솔린 E85S EVO: 25.79 바트/리터\n*   가솔린 E20S EVO: 27.84 바트/리터\n*   가솔린 91S EVO: 30.68 바트/리터\n*   가솔린 95S EVO: 31.05 바트/리터\n*   디젤: 29.94 바트/리터\n*   가솔린 E85: 25.79 바트/리터\n*   가솔린 E20: 27.84 바트/리터\n*   가솔린 91: 30.68 바트/리터\n*   가솔린 95: 31.05 바트/리터\n*   벤진: 39.64 바트/리터\n*   슈퍼파워 디젤: 43.44 바트/리터\n*   슈퍼파워 가솔린 95: 40.04 바트/리터\n*   쉘 퓨얼세이브 가솔린 E20: 28.94 바트/리터\n*   쉘 퓨얼세이브 가솔린 91: 31.78 바트/리터\n*   쉘 퓨얼세이브 가솔린 95: 32.35 바트/리터\n*   쉘 V-Power 가솔린 95: 49.84 바트/리터\n*   쉘 퓨얼세이브 디젤: 29.94 바트/리터\n*   쉘 V-Power 디젤: 49.84 바트/리터",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "렌터카 이용 여행객에게 유용한 정보. 매일 업데이트되는 정보이므로 게시 가치가 있음.",
+      "event_info": {
+        "date": "2024-03-14",
+        "location": "태국 전역 주유소",
+        "price": "상세 가격은 본문 참조",
+        "location_google_map_query": "태국 주유소"
+      },
+      "references": [
+        {
+          "title": "ราคาน้ำมันวันนี้ 14 มี.ค. อัปเดตราคาน้ำมันดีเซล แต่ละปั๊มลิตรละเท่าไร",
+          "url": "https://www.thairath.co.th/news/society/2919910",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv48H6KOJbkA0FD.jpg"
+        }
+      ],
+      "collected_at": "08:14",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wwv48H6KOJbkA0FD.jpg",
       "date": "2026-03-14"
     }
   ]
