@@ -5089,7 +5089,7 @@
       "summary": "- 중동 전쟁으로 인한 사망자 수가 3,900명을 넘어섰으며, 이란과 레바논에서 사망자 수가 급증하고 있습니다.\n- 미국과 이스라엘의 이란 공격 이후 테헤란은 주변국을 공격하고 호르무즈 해협을 봉쇄하며 대응했습니다.\n- 레바논에서는 이스라엘의 공격으로 최소 850명이 사망했으며, 미국 군인도 13명 사망했습니다.",
       "full_translated": "중동 전쟁으로 인한 사망자 수가 3,900명을 넘어섰습니다. 이란과 레바논에서 사망자 수가 빠르게 증가하고 있습니다. 외신 보도에 따르면, 미국과 이스라엘이 2월 28일 이란을 공격한 이후 최소 3,900명이 사망했습니다. 테헤란은 이에 대응하여 주변 국가의 지역을 공격하고 호르무즈 해협을 폐쇄했습니다. 미국 인권운동가 뉴스에 따르면 토요일 현재 민간인 1,319명(최소 어린이 206명 포함)과 군인 1,122명이 사망했습니다. 또한 군인인지 민간인인지 분류되지 않은 599명이 사망했습니다. 최근 며칠 동안 이스라엘의 공격을 심하게 받은 레바논에서 보건부는 3월 2일 이스라엘이 국가를 공격한 이후 최소 850명이 사망했다고 밝혔습니다. 이 중 107명이 어린이입니다. 미국은 전쟁이 시작된 이후 13명의 군인을 잃었습니다. 이 중 6명은 목요일 이라크에서 유조선이 추락하여 사망했습니다. 또한 6명의 군인이 일요일(3월 8일) 쿠웨이트의 임시 작전 센터를 강타한 이란의 공격으로 사망했습니다. 이스라엘에서는 최소 15명이 사망했으며, 이 중 9명은 베이트 셰메시(Beit Shemesh)의 주거용 건물을 공격한 미사일로 사망했고, 2명의 이스라엘 군인이 3월 8일 레바논 남부 지역에서 사망했습니다. 이라크에서는 최소 32명이 사망했는데, 이 중 27명은 인민동원군(PMF) 군인이었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국과 직접적인 관련은 없지만, 중동 지역의 긴장은 여행 심리에 영향을 줄 수 있으며, 호르무즈 해협 관련 기사가 이미 게시되었으므로 업데이트된 정보를 제공합니다.",
       "event_info": {
         "date": null,
@@ -5107,14 +5107,16 @@
       ],
       "collected_at": "23:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLp8Mp5oByRHR.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/foreign/2920250",
+      "source": ""
     },
     {
       "title": "이란, 호르무즈 해협 통과 관련 협상 의지 밝혀",
       "summary": "- 이란이 호르무즈 해협의 안전한 통행에 대한 협상에 나설 의향을 밝혔다.\n- 미국과 이스라엘의 공격에 대한 대응으로 해협을 통과하는 선박을 공격한 후 나온 발언이다.\n- 이란은 핵무기 개발을 부인하며, 농축 우라늄 농도 감축 제안도 했었다고 주장했다.",
       "full_translated": "이란 외무부 장관은 호르무즈 해협을 안전하게 통과하는 문제에 대해 협상할 의향이 있다고 밝혔다. 그는 여러 국가가 이미 연락을 취해왔다고 주장했지만, 어떤 국가인지는 밝히지 않았다. 이란은 미국과 이스라엘의 공격에 대한 대응으로 해협을 통과하는 선박을 공격한 바 있다.\n\n이란 외무부 장관은 또한 이란의 모든 핵 프로그램이 중단되었으며, 재개할 계획도 없다고 말했다. 그는 미국과의 핵 협상이 진행되는 동안 이란이 농축 우라늄의 순도를 낮추는 것을 제안했지만, 갈등으로 인해 모든 것이 바뀌었다고 덧붙였다. \n\n미국과 이스라엘은 오랫동안 이란이 핵무기를 개발하려 한다고 비난해 왔지만, 이란은 이를 부인하고 있다. 그러나 이란은 핵무기가 없는 국가 중 유일하게 무기 제조에 근접한 수준으로 우라늄을 농축하고 있다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "호르무즈 해협의 긴장 고조는 유가 상승 및 해운 불안정을 야기할 수 있으며, 이는 간접적으로 여행 비용에 영향을 줄 수 있다. 현재 시점(23:22)에서 직접적인 위협은 아니지만, 상황 변화를 주시해야 한다.",
       "event_info": {
         "date": null,
@@ -5132,14 +5134,16 @@
       ],
       "collected_at": "23:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLqCAfzBDRoZu.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/foreign/2920251",
+      "source": ""
     },
     {
       "title": "태국, 런던에서 대규모 관광 캠페인 런칭으로 치유 중심 여행 홍보",
       "summary": "- 태국이 런던에서 주요 관광 캠페인을 시작하며 치유 중심 여행을 홍보합니다.\n- 이 캠페인은 태국을 건강과 웰빙을 추구하는 여행객에게 매력적인 목적지로 만들기 위한 것입니다.\n- 구체적인 캠페인 내용은 기사에 자세히 나와 있지 않습니다.",
       "full_translated": "태국, 런던에서 대규모 관광 캠페인 런칭으로 치유 중심 여행 홍보 Pattaya Mail",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업에 대한 일반적인 뉴스. 새로운 정보는 아니지만, 여행에 대한 관심 환기 차원에서 포함.",
       "event_info": {
         "date": null,
@@ -5157,14 +5161,16 @@
       ],
       "collected_at": "23:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDZMTnRsZmVhbzdudjNhMV9aNEM3UUNqYWRxR0xCUGMzUWI4ZjY1ZFowVXlCNzRPSGgxZ1BSX25sdDVBT2wwdjlKbDAzV3ZtTFdGLUQ5VVlmRUdRTWlJSERSYUs1WDVKQWdSWUNqRE9MSTRNV0lUZEkxSmtzdFU0dXZ3YU42dUc3VlNEc2ZRRVFuMkFBM0h3VHVtdmxWZW1mWXh6UEc4b0FHYVdpM0NmdDVaMXNrbVhRUEwzWkVEcmxSZjRPbWI3LQ?oc=5",
+      "source": ""
     },
     {
       "title": "Drukair, 부탄-태국-싱가포르 노선 재개 (구와하티 경유)",
       "summary": "- Drukair가 부탄, 태국, 싱가포르를 잇는 항공편을 재개합니다.\n- 구와하티를 경유하여 주요 국제 목적지를 연결합니다.\n- 새로운 여행 확장과 관련된 모든 정보를 제공합니다.",
       "full_translated": "Drukair가 부탄, 태국, 싱가포르 간 항공편을 재개합니다. 구와하티를 경유하여 주요 국제 목적지를 연결하며, 새로운 여행 확장에 대한 모든 정보를 제공합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 연결 항공편 재개 소식은 여행객의 선택지를 넓히므로 정보 가치가 있다고 판단.",
       "event_info": {
         "date": null,
@@ -5181,6 +5187,133 @@
         }
       ],
       "collected_at": "23:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOQjE3ek1sUWFhU1Zfdmt1V19RRGdGZldrLVhweG1TeUhWaW95VmRydkk2YjJVYmNDN0tnaWk5dWctRWR4Tk5ENy02c085MlZUNFF1cHFKOUlTWFB2bWxwUm12VmRtanlxU3hyeWQ2akhuSEN6VFR0RzR3LVkwSDVneS1FUnRPVHJuVG9mdkRneHhtYlNSaWxiNFJjbXo3S1B3eXpvdG9zY25BUEl3M3JWX0JyVmtZSXM3U2d1cXdnc0NSaEtOcjZ2OEFLU1NOa2NtQ0ZWWFlqTV9VNmpOX3RZSjkxcTBaWnFXRGk0emEtc1F4VS1SUWhHcU5uTGJTSHRLZFZBVkVYYmVjOUtucVVoSGNOWjhVR1V0Q2FwVEhRTkZUbFJ6SW43ZVhHaXNveXRXRWxpeDFtT1lFUHU4eXFSQ0d6VjR0Zm43VS1CQw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "Final Day: 룸피니 공원에서 펼쳐지는 원피스 세계를 놓치지 마세요!",
+      "summary": "- 룸피니 공원에서 열리는 원피스 행사가 오늘 마지막 날입니다.\n- 다양한 원피스 테마 활동과 볼거리를 즐길 수 있습니다.\n- Grand Line Experience를 통해 특별한 추억을 만들어보세요.",
+      "full_translated": "룸피니 공원에서 펼쳐지는 원피스 세계를 놓치지 마세요! 오늘이 마지막 날입니다. Grand Line Experience에서 특별한 추억을 만드세요!",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "방콕 룸피니 공원에서 열리는 원피스 행사의 마지막 날임을 알리는 정보로, 관심 있는 여행자에게 유용할 수 있습니다. 오늘이 마지막이라는 점을 강조하여 긴급성을 부여했습니다.",
+      "event_info": {
+        "date": null,
+        "location": "룸피니 공원, 방콕",
+        "price": "정보 없음",
+        "location_google_map_query": "룸피니 공원 방콕"
+      },
+      "references": [
+        {
+          "title": "Final Day Alert: Step into the World of One Piece at Lumpini Park – Don’t Miss the Grand Line Experience! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZjRqS1RFcHJ6NEFYYVh6bU1rMEFGZU1DenRremdGYnZldjJJeDBodl9pTmhoeHBqcXVaSDg2OEtWSF9XVVBJUk5HLVdPUmVlVDdVci1oNDFhV2xteTR1dHpldDE5VDctcjBxM0ZsbTQ5bk92MGFEZmpYRWkxYjdGczZpWFN3cDdXRm1mdjlRRFpPbGZ5TmxSYTZxWk1vVndTbUJCNWFjMEJuTjVGaWxwVVJPQ3JlVk84X3g1N2ZDSzZpdlV3bzBJUUNsUC1ncHZyZUtzUS11Z3pnTzZHWlVqRjVCNA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "말레이시아 전시 산업 호황, 싱가포르, 인도네시아, 중국, 인도, 태국 관광객 몰려",
+      "summary": "- 말레이시아 전시 산업이 활황을 띠면서 주변국 관광객들의 관심이 높아지고 있음.\n- 특히 싱가포르, 인도네시아, 중국, 인도, 태국 관광객들이 주요 방문객으로 나타남.\n- AirAsia, 말레이시아 항공, 힐튼 호텔 등 관련 업계의 다양한 서비스 제공이 기대됨.",
+      "full_translated": "싱가포르, 인도네시아, 중국, 인도, 태국 관광객들이 말레이시아의 번성하는 전시회에 몰려들고 있습니다. AirAsia, 말레이시아 항공 및 힐튼 호텔이 제공하는 것은 무엇일까요?\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광객의 말레이시아 방문 관련 정보이므로 여행 관련 정보에 해당. 새로운 전시회 정보는 아니므로 점수는 보통으로 설정.",
+      "event_info": {
+        "date": null,
+        "location": "말레이시아",
+        "price": null,
+        "location_google_map_query": "말레이시아"
+      },
+      "references": [
+        {
+          "title": "Singapore, Indonesia, China, India, and Thailand Tourists Flock to Malaysia’s Thriving Exhibition Scene – What AirAsia, Malaysia Airlines & Hilton Hotels Have to Offer! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPY1JaWTNNcmVMZS1FalhyRXlCVTFJc2Z1MjJsaDhBTUFTRkxSTjdGTEp4YlQ2X19KRlJyTUtEekRKTm1BYWNCa1JVMndoOEVwdV8tV21SRmlnN3VPSmtXOURXVFdMLVA5cjdoMTlESkNkV2swc1dSYW5mRDhjeU5hMHZzRmhlVDdFSFBrSVNHaUJFMl92dE9ESFFsSXhSUUh1RkJxRkV4ZGM2dDY2Sk5CMVdVUjlCUnY0X2steHZwQ3R3TzlqYVFlbi1xX2p0ZWptejhkMF90MXRvek90MzhmZ3BTUjJNelFyQmp4R19ISFg2cG41ZEJFVVc2bUNZMzcxQm45eV9QZmwyVnZhTWlXWmx6bU5rb2ZuRGJBTlcwUWRmV2VLdG5Vekc3NmdkQ0U?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "이란, 미국에 휴전 요청 및 협상 시도 부인",
+      "summary": "- 이란 외무장관, 미국에 휴전 요청이나 협상 시도 없었다고 발표.\n- 트럼프 대통령의 '협상 조건 불충분' 주장에 반박.\n- 이란은 미국과의 대화 필요성을 느끼지 않으며, 자위권을 행사할 것이라고 강조.",
+      "full_translated": "이란 외무장관 아바스 아락치는 이란이 미국에 휴전을 요청하거나 협상을 시도한 적이 없다고 밝혔습니다. 이는 도널드 트럼프 대통령이 2069년 3월 15일에 주장한 내용과 상반됩니다. 아락치 장관은 CBS News와의 인터뷰에서 테헤란 정부는 미국에 휴전을 요청한 적도, 협상을 요청한 적도 없다고 말했습니다. 트럼프 대통령은 이란이 합의를 원하지만 조건이 충분히 좋지 않다고 밝혔습니다. 그러나 아락치는 CBS News의 Face the Nation에서 \"미국인들과 대화할 이유가 없습니다. 그들이 우리를 공격하기로 결정했을 때 이미 그들과 대화하고 있었습니다.\"라고 말했습니다. 그는 또한 \"이것은 트럼프 대통령과 미국이 선택한 전쟁이며, 우리는 계속해서 자위할 것입니다.\"라고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에 직접적인 영향은 없으나, 국제 정세 불안정은 간접적인 영향을 줄 수 있으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านสวนทรัมป์ ไม่เคยขอให้สหรัฐฯ หยุดยิง ไม่เคยขอเจรจาด้วยซ้ำ",
+          "url": "https://www.thairath.co.th/news/foreign/2920252",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLqJOYOjr9aU9.jpg"
+        }
+      ],
+      "collected_at": "23:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLqJOYOjr9aU9.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "사비다 타이세트, 문화부 장관 재임명",
+      "summary": "- 차다 타이세트의 딸, 사비다 타이세트가 문화부 장관으로 재임명됨.\n- 탁신 친나왓 정부에서 문화부 장관직을 이어갈 예정.\n- 그녀는 과거에도 차다 타이세트의 보좌관으로 활동한 바 있음.",
+      "full_translated": "차다 타이세트의 딸인 '디다' 사비다 타이세트의 이력이 공개되었습니다. 아버지를 대신해 내무부 차관을 지낸 바 있으며, 최근 아누틴 2기 내각에서도 문화부 장관 자리를 유지할 것으로 보입니다. 2569년 3월 15일, 아누틴 2기 내각 명단이 윤곽을 드러내면서 연립 정부와의 자리 배분이 마무리되었습니다. 사비다 타이세트는 아누틴 1기 내각과 마찬가지로 문화부 장관 자리를 유지할 것으로 예상됩니다. 이는 기존 부처의 업무를 원활하게 이어가기 위한 것으로 보입니다. 사비다 타이세트는 1984년 10월 11일에 태어나 현재 42세이며, 차다 타이세트와 뜨안짓라 샌카이 사이에서 태어난 3명의 딸 중 둘째입니다. 2565년 초 아난 파탄(차데프)과 결혼했으며, 추안 릭파이가 결혼식의 주례를 맡았습니다. 이 결혼식은 코사무이의 고급 호텔 500개 객실을 4박 동안 빌려 정치계 인사들을 맞이하는 등 성대하게 치러졌습니다. 사비다는 Assumption University에서 법학 학사 학위를, 런던의 한 대학교에서 법학 석사 학위를 받았습니다. 장관이 되기 전에는 아버지 차다의 '오른팔'로 활동하며 차다 타이세트가 내무부 차관으로 재직하는 동안 그의 팀에서 일했으며, 종종 차다를 대신하여 현장을 방문했습니다. 또한 타이세트 재단과 우타이타니 개발 재단의 부회장 겸 비서관을 역임하며 우타이타니 지역 사회 지원 활동에 중요한 역할을 했습니다. 2567년에는...",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 뉴스. 여행에 직접적인 영향은 없으나, 태국 사회에 대한 이해를 높일 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ซาบีดา ไทยเศรษฐ์” ลูกสาว “พ่อชาดา” ยังมีชื่อได้นั่ง รมว.วัฒนธรรม ตามเดิม",
+          "url": "https://www.thairath.co.th/news/politic/2920238",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cLkI4ngpnmx9ttEs6C.jpg"
+        }
+      ],
+      "collected_at": "23:55",
+      "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cLkI4ngpnmx9ttEs6C.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국, 디자인 주도 경제 전환으로 23억 파운드 규모의 전시 산업 성장 목표",
+      "summary": "- 태국이 디자인 주도 경제 전환을 통해 전시 산업 성장을 목표하고 있습니다.\n- 23억 파운드 규모의 성장을 기대하고 있습니다.\n- 자세한 내용은 MSN에서 확인할 수 있습니다.",
+      "full_translated": "태국은 디자인 주도 경제 전환을 통해 23억 파운드 규모의 전시 산업 성장을 목표하고 있습니다. 자세한 내용은 MSN에서 확인할 수 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "전시 산업 성장 목표는 장기적으로 관광 산업에 영향을 줄 수 있지만, 현재 시점에서는 여행객에게 직접적인 영향이 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand sets sights on £2.3bn exhibition growth with design-led economic pivot - MSN",
+          "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNVWl1SEc0R3QwdWtfWGUtbVV3RGlpMEV4dno0Y0lJQnB1dENXeUQxeUZuV0d1eF9ERC1Lci1GNWNUbDVwcXhENnExdXpod3hodGg3YXQ1dl9fRmVBT1EyRk9uZG9GbTJBd1FsTnpvLVhXeHFrTWJndy1rSFkxMjNONldCNldVcDZ0M2RLaFZrT1E5ZlJodEtxbTlHYW9OV2ZaSC1VLWpVVGdBb3RjQzdXTjhCMUdzeHJiOXVIWDh1UDloMXRUbGFiWFoxNHh0VEIydjVwbHB1UXg2QjNEUHlBV2JxaV9rR2lMVDhEZ2o4RHZ1ekdWenBVYVlhZHExVHpUdjlzeGlBZ3B6VU1zZ05DWWJiUE54eXRKSmNhNEJ3M1hMYzE0Q0pKcW1YX2lpN1ptVGpjUmpzeXZkS1JxdGRpeS01Y3NrOVVzVnhzZk5naV8zRXBmR3g5YkNlanR0dw?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "23:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-15"
     }
