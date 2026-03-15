@@ -5035,7 +5035,7 @@
       "summary": "- TIME 매거진이 선정한 '2026년 세계 최고의 장소'에 태국 5곳이 이름을 올림.\n- 선정된 장소는 방콕, 푸껫, 치앙마이, 코사무이, 아유타야 등임.\n- 태국의 다양한 매력이 세계적으로 인정받고 있음을 보여줌.",
       "full_translated": "TIME 매거진이 '2026년 세계 최고의 장소'를 발표하며 태국의 여러 목적지가 주목을 받았습니다. Nation Thailand에 따르면, 방콕의 활기찬 도시 풍경부터 푸껫과 코사무이의 아름다운 해변, 치앙마이의 문화적 풍요로움, 아유타야의 역사적 중요성까지, 태국은 다양한 매력을 지닌 여행지로 인정받고 있습니다. 이번 선정은 태국 관광 산업에 긍정적인 영향을 미칠 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 유명 여행지들이 세계적 인정을 받아 여행객들의 관심이 증가할 수 있으므로.",
       "event_info": {
         "date": null,
@@ -5053,14 +5053,16 @@
       ],
       "collected_at": "22:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1feS16bDctV1NWdFg3dFRWVDBjdWN2MjNBa0ViZDdQX2IwMUlCbEY1Zl9oNnMwcG5wbWRzRXluRHhibTFfSGptUW9ZRHdoSV9tbDdCOFRFMVc0a1VlVWZRbDZR?oc=5",
+      "source": ""
     },
     {
       "title": "£253 charge coming for UK tourists flying to Thailand, Vietnam, Australia",
       "summary": "- 영국에서 태국, 베트남, 호주로 여행하는 관광객에게 £253의 요금이 부과될 예정입니다.\n- 이는 영국 정부의 새로운 정책과 관련된 것으로 보입니다.\n- 여행 계획을 세우는 영국인 여행자에게는 중요한 정보입니다.",
       "full_translated": "영국에서 태국, 베트남, 호주로 여행하는 관광객에게 £253의 요금이 부과될 예정입니다. 이 요금은 영국 정부의 새로운 정책에 따른 것으로 보이며, 영국인 여행자들에게 여행 비용에 대한 중요한 변동 사항을 알리는 정보입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "영국 여행객에게는 중요한 정보이지만, 모든 여행자에게 해당되는 것은 아니므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -5078,7 +5080,9 @@
       ],
       "collected_at": "22:21",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdk5SU0Q5eGltOUUxYzZ3eE52eVI4bDZmZmtmemdKTC1fMUFZWk5zb2NFZ09Gc2Roc2dkTXRZSHF5ZTRKOTJkQXZXbmVyODZhcDZIdHNuQW96SWdYekNsVWUwd2dFOWlmMjJDUGdnbzNJY0h5UVhER09OMDVNdEtEdGJjM0zSAYoBQVVfeXFMTW95THJJRWdJbmtCaEttM0FnaXZVckJmS0c4WkpMVWRZRGtLeC1uOTZpUDN5WXJwWF9SaFpNbjBJY1QxWUMwWHJhUUl4RlZFaEwwby1lLV9WN29GTzFXXzlEM05QSkxwNG9tRlIwU29MbVBjOWdLRmpHUHJLM01pYm1HbzFkeEdMRXh3?oc=5",
+      "source": ""
     }
   ]
 }
