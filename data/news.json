@@ -3740,7 +3740,7 @@
       "summary": "- 파타야 인근에서 BMW 승용차가 오토바이와 충돌하여 태국인 남성이 현장에서 사망했습니다.\n- BMW 운전자는 사고 당시 충격을 받은 상태였으며, 오토바이 운전자를 보지 못했다고 진술했습니다.\n- 경찰은 현장을 조사하고 CCTV 영상을 검토할 예정이며, BMW 운전자는 구금되었습니다.",
       "full_translated": "파타야 뉴스에 따르면, 새벽 1시 30분경 파타야의 Soi SR에서 교통사고가 발생했다는 신고를 받고 경찰과 사왕 보리분 므앙 파타야 재단의 구조 자원 봉사자들이 출동했습니다. 현장에 도착한 경찰은 앞부분이 심하게 파손된 회색 BMW 530i 승용차를 발견했습니다. 차량은 또한 공공 시설 전봇대를 들이받아 파손시켰습니다. BMW 운전자는 34세의 파누팟 홈마씨로 확인되었으며, 충격을 받은 상태로 현장에 남아 있었습니다. 그는 경찰에 오토바이 운전자를 '보지 못했다'고 말하며, 도로의 오르막 구간이 사고의 원인이라고 밝혔습니다. 오토바이 운전자는 신원이 확인되지 않은 태국인 남성으로, 심각한 부상을 입고 현장에서 사망했습니다. 오토바이는 검은색 Honda Wave 100 (촌부리 등록 커터커 471)으로, 완전히 파괴되어 잔해만 남았습니다. 근처에서 오토바이를 타고 있던 십대 목격자들은 BMW가 고속으로 주행하는 것을 본 후 큰 충돌음이 들렸다고 진술했습니다. 한 목격자는 파타야 뉴스에 자신들이 친구를 집으로 데려다주고 있었는데, 반대편에서 승용차가 빠른 속도로 다가왔다고 말했습니다. 그들은 충돌 직전에 '저런!'이라고 외쳤다고 합니다. 그들은 현장으로 달려갔고 끔찍한 결과를 목격했습니다. 방라뭉 경찰서의 에카차이 차이암폰 부경찰서장이 현장 수사를 지휘했습니다. 경찰은 현장을 기록하고 추가 증거를 확보하기 위해 인근 CCTV 영상을 검토할 계획입니다. BMW 운전자는 구금되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "외국인 여행객이 많은 파타야에서 발생한 교통사고 소식으로, 안전에 유의해야 함. 심야 시간대 교통사고 발생 가능성을 알리고 운전 시 주의를 환기할 필요가 있음.",
       "event_info": {
         "date": null,
@@ -3758,14 +3758,16 @@
       ],
       "collected_at": "16:01",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17735643037878332781982169411730.jpg?v=1773564383",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://thepattayanews.com/2026/03/15/bmw-sedan-driving-at-high-speed-collides-with-thai-man-on-motorbike-near-pattaya-killing-him-instantly/",
+      "source": ""
     },
     {
       "title": "태국, 중동 및 중국 여행 차질에도 불구하고 2026년 초 749만 9천 명의 관광객 유치",
       "summary": "- 태국은 글로벌 여행 차질에도 불구하고 관광 산업 성장세를 유지하고 있습니다.\n- 2026년 초까지 749만 9천 명의 관광객을 유치하며 경제 성장에 기여합니다.\n- 중동 및 중국의 여행 차질에도 불구하고 뛰어난 성과를 보이고 있습니다.",
       "full_translated": "태국은 글로벌 여행 차질에도 불구하고 2026년 초 749만 9천 명의 관광객을 유치하며 관광 및 경제 성장을 촉진하고 있습니다. 중동 및 중국의 여행 차질에도 불구하고 뛰어난 성과를 보이고 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업의 긍정적인 성장세는 여행객들에게 매력적인 요소이며, 관광 관련 의사 결정에 영향을 줄 수 있습니다. 하지만 현재 시점(16:01)에서 2026년 정보는 즉각적인 여행 계획에 큰 영향을 주지 않으므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -3783,14 +3785,16 @@
       ],
       "collected_at": "16:01",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxNYzkzb2ZzRXc4NTc1X3JvY0JxblAyNDRFT2x2Q01MaEZMaS1tZ2VRTUZnTF9NajMtaVltcjhOeHhNanhUT1BVMmJTaGZ4OW9ISW0wZFd6SDh1MjhpSmR5eG5JSUl5Wkc1SjJZR3lCc1BKV2xrVkRlb1JodGtjNm1vUmoxQTBnMG1iU19FZFR5bDZZbHFzdnNIclRWNDdISmJzTXF1TDkwY01tdkJpT1VKMGxRYTVzamxtRDJ1X0FEWV9fRWp3OEJqMkdLcUc1N05SdGZ0alNXcTUzN01wUExRclJrVDBNQWhieTFyY0llbklpMk4wRThSakh6WFFaMjVHZzdnbzJuZWlRa3JpTlN5YzdxYXE4REV2TFVVam9IamotODhnb0ttenBVcmpUNEx2WUJhRExqQXN1RjJQTXdBWENkM19ObHRhNDNlU2UyR0pmNXI2YmdmcmpyZXFsOVNCWW1wWnNn?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 부유한 외국인 관광객 유치를 위해 웰니스 관광 추진 - Nikkei Asia",
       "summary": "- 태국 정부는 고소득 외국인 관광객을 유치하기 위해 웰니스 관광을 적극적으로 홍보하고 있습니다.\n- Nikkei Asia에 따르면, 태국은 의료 및 건강 관련 관광 상품을 개발하고 마케팅 활동을 강화할 계획입니다.\n- 이는 태국 관광 산업의 회복을 가속화하고 경제 성장에 기여할 것으로 기대됩니다.",
       "full_translated": "태국이 부유한 외국인 관광객을 유치하기 위해 웰니스 관광을 추진합니다. Nikkei Asia",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 정부의 관광 정책 변화는 여행객에게 잠재적인 영향을 미치므로, 웰니스 관광에 관심 있는 여행객에게 유용한 정보입니다.",
       "event_info": {
         "date": null,
@@ -3808,14 +3812,16 @@
       ],
       "collected_at": "16:01",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWJyRjVhZmkxLW45Tk5POG96VVBoX3htWU04Y3lkMGhIc1p0bUp1UVRuV0dVb1lLSDJCdjNJV0JoZnFJZVdmdkN2VlR0emo1d1dqSF9ueU9ubERDUk5ORzlyNVRZeld3VXhJSnpaem5JTktaY25zM044MGlRdnZyN3BkMTNxZVpMd3o1eUw5U2dKSGh3Z1BGcjh2SmpsR0J4a1FBV0dmU1Z0Zw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 내무부, '제에'의 총기 구매 허가 논란 해명",
       "summary": "- 인플루언서 '제에'의 총기 구매 허가 과정에 대한 논란 해명\n- 총리 지시 없이 정상적인 절차에 따라 허가\n- 허위 사실 유포 시 법적 처벌 가능성 경고",
       "full_translated": "태국 내무부가 인플루언서 '제에'의 총기 구매 허가와 관련된 논란에 대해 해명했습니다. 내무부는 총리 또는 다른 고위 관계자의 지시 없이 정상적인 절차에 따라 허가가 이루어졌다고 밝혔습니다. 또한, 허위 사실을 유포하여 명예를 훼손하는 경우 법적 처벌을 받을 수 있다고 경고했습니다.\n\n내무부의 설명에 따르면, '제에'의 남편은 처음 총기 구매 허가를 신청했을 때 스포츠 활동을 위한 목적이라고 밝혔으나, 이미 총기를 소유하고 있었고 스포츠 협회 회원 증명서를 제출하지 않아 거절되었습니다. 이후 증명서를 제출하여 정상적으로 허가를 받았습니다. 내무부는 '제에'의 아들이 총기 구매 허가를 신청한 기록은 없다고 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "총기 구매 허가 논란은 여행객에게 직접적인 영향을 미치지 않으나, 태국 사회의 치안 및 법 집행과 관련된 정보이므로 낮은 점수 부여. 정치적인 내용이 주를 이루므로 'POLITICS' 카테고리 선택.",
       "event_info": {
         "date": null,
@@ -3833,14 +3839,16 @@
       ],
       "collected_at": "16:01",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJxo7YHxqK5UQ.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/society/2920204",
+      "source": ""
     },
     {
       "title": "여론 조사: 응답자 대부분, 아누틴 총리 지명 및 안정적인 정부 구성 예상",
       "summary": "- Nida 여론 조사에서 응답자 대부분이 아누틴 차른비라쿨 Bhumjaithai당 대표가 총리로 지명될 것이라고 예상함.\n- 잠재적으로 하원에서 291표를 확보하여 새 정부가 안정적일 것이라고 응답함.\n- 야당인 People's Party, Democrat Party, Klatham Party가 협력할 것이라는 응답은 54.73%, 협력하지 못할 것이라는 응답은 25.88%임.",
       "full_translated": "국립개발행정연구원의 최신 여론 조사에 따르면 응답자 대부분은 새 하원이 Bhumjaithai당 대표 아누틴 차른비라쿨을 총리로 선출하고 그의 정부가 안정적일 것이라고 믿고 있습니다. Nida는 3월 10일과 11일에 전국적으로 1,310명의 응답자를 대상으로 전화 설문 조사를 실시했습니다. 아누틴 씨가 새 총리로 선출될 것인지에 대한 질문에, 잠재적으로 500명으로 구성된 하원에서 291표를 얻어 새 정부의 안정성에 대한 질문에, 야당인 People's Party, Democrat Party, Klatham Party가 협력할 것으로 예상되는지에 대한 질문에 응답자의 54.73%는 야당에서 잘 협력할 것이라고 답했지만 25.88%는 당이 협력할 수 없을 것이라고 답했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 상황에 대한 여론 조사 결과. 여행 자체에는 직접적인 영향이 적으나, 정치적 안정은 여행 환경에 간접적으로 영향을 줄 수 있음.",
       "event_info": {
         "date": null,
@@ -3858,6 +3866,133 @@
       ],
       "collected_at": "16:01",
       "image_url": "https://static.bangkokpost.com/media/content/20260315/c1_3217129_700.jpg",
+      "date": "2026-03-15",
+      "link": "https://www.bangkokpost.com/thailand/politics/3217129/poll-most-expect-anutin-to-head-a-stable-government",
+      "source": ""
+    },
+    {
+      "title": "파타야 뮤직 페스티벌 두 번째 주말, 좀티엔 해변에서 수천 명의 팬들을 매료시켜",
+      "summary": "- 파타야 시에서 주최하는 무료 해변 콘서트 시리즈가 좀티엔 해변에서 열림.\n- T-POP, 록, 힙합 등 다양한 장르의 공연이 펼쳐졌으며 수천 명의 젊은 팬들을 끌어모음.\n- 3월 한 달 동안 매주 금요일과 토요일, 파타야 지역의 다른 상징적인 장소에서 진행될 예정.",
+      "full_translated": "파타야 시에서 주최하는 무료 해변 콘서트 시리즈가 좀티엔 해변에서 열려 수천 명의 팬들을 매료시켰습니다. GAMMA, PROXIE, D GERRARD, PARADOX의 멋진 무대와 FIIXD, 1MILL, 19HUNNID, SUNNYBONE, 4BANG, BEN이 참여한 에너지 넘치는 힙합 쇼케이스가 하이라이트를 장식했습니다. 이 행사는 태국 현지인과 해외 관광객 모두를 끌어모았으며, 밤하늘 아래 라이브 음악을 즐기기 위해 해변가에 모여들었습니다. 좀티엔 해변의 분위기는 파타야 해변에서 열린 페스티벌 개막 주간과 마찬가지로 활기차고 붐볐습니다. 파타야 뮤직 페스티벌 2026은 3월 한 달 동안 흥분을 확산시키고 지역 경제와 관광 산업을 활성화하기 위해 기획되었습니다. 한 달 동안 매주 금요일과 토요일, 파타야 지역의 다른 상징적인 장소에서 진행됩니다. - 1주차 (3월 6~7일): 파타야 해변 - 2주차 (3월 13~14일): 좀티엔 해변 - 3주차 (3월 20~21일): 꼬란 섬 사매 해변 - 4주차 (3월 27~28일): 나끄아 란포 공원 모든 공연은 무료로 입장할 수 있으며, 해변 엔터테인먼트와 최정상급 태국 음악을 찾는 방문객들에게 훌륭한 경험을 제공합니다. 페스티벌의 열기가 고조됨에 따라 아름다운 꼬란 섬에서 열리는 다가오는 세 번째 주에 대한 기대감이 이미 높아지고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 열리는 대규모 축제 정보로 여행객들에게 유용하며, 특히 3월에 파타야를 방문하는 여행객들에게 높은 영향을 미칠 수 있음. 다음 주말 꼬란섬에서 축제가 이어지는 점을 고려.",
+      "event_info": {
+        "date": "2026-03-20",
+        "location": "Samae Beach, Koh Larn",
+        "price": "Free",
+        "location_google_map_query": "Samae Beach, Koh Larn"
+      },
+      "references": [
+        {
+          "title": "Photo Tour: Pattaya Music Festival Week Two on Jomtien Beach Attracts Thousands of Fans",
+          "url": "https://thepattayanews.com/2026/03/15/photo-tour-pattaya-music-festival-week-two-on-jomtien-beach-attracts-thousands-of-fans/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17735668132971106632535659740454.jpg?v=1773567078"
+        }
+      ],
+      "collected_at": "16:55",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17735668132971106632535659740454.jpg?v=1773567078",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "파타야에서 사이드카 오토바이 노점상, 주차된 미니버스와 충돌해 중상",
+      "summary": "- 3월 15일 새벽 5시 20분경, 파타야에서 사이드카 오토바이가 주차된 미니버스와 충돌하는 사고 발생.\n- 52세 여성 Somjit Boonsilatham이 의식을 잃고 호흡 곤란을 겪어 병원으로 이송됨.\n- 경찰은 CCTV 영상을 통해 정확한 사고 원인을 조사 중이며, 다른 부상자는 없음.",
+      "full_translated": "파타야 뉴스에 따르면 2026년 3월 15일 오전 5시 20분경, 싸왕 보리분 탐마싸탄 파타야 시 구조 센터는 싸이드카가 달린 오토바이가 길가에 주차된 미니버스를 들이받아 부상자가 발생했다는 신고를 받았습니다. 사건은 쁘라찬 반 카오 톰 레스토랑 맞은편 파타야 클랑 로드(센트럴 파타야 로드)에서 발생했습니다. 구조 자원봉사자들은 즉시 현장에 도착하여 피해자를 발견했습니다. 피해자는 52세의 쏨짓 분씨라탐으로 확인되었으며 의식이 없고 반응이 없으며 얕은 숨을 쉬고 있었습니다. 응급 처치가 즉시 이루어졌고 그녀는 긴급 치료를 위해 인근 병원으로 이송되었습니다. 근처에는 촌부리 번호판이 달린 손상된 빨간색 혼다 웨이브 110 오토바이가 심하게 파손된 채 놓여 있었습니다. 튀긴 미트볼 스낵(룩친 톳)과 판매 장비가 도로에 흩어져 있었습니다. 목격자들은 경찰에 모바일 노점 판매에 사용되는 '살렌'으로 알려진 싸이드카 오토바이가 도로를 따라 이동하던 중 다가오는 세단(껵)을 피하기 위해 급회전했다고 말했습니다. 운전자는 통제력을 잃고 정지해 있던 미니버스와 충돌하여 노점상이 차량에서 튕겨져 나갔습니다. 경찰은 사진으로 사고 현장을 기록하고 정확한 원인과 세단 운전자의 행동을 포함한 기여 요인을 파악하기 위해 인근 CCTV 영상을 검토하고 있습니다. 다른 부상자는 보고되지 않았으며 조사가 계속 진행 중입니다. 파타야 뉴스는 기술적으로 싸이드카 오토바이는 본질적으로",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행자가 이용할 수 있는 노점상 관련 사고이므로 안전에 유의해야 함. 파타야 지역 여행자에게는 비교적 중요한 정보.",
+      "event_info": {
+        "date": "2026-03-15",
+        "location": "Pattaya Klang Road (Central Pattaya Road), opposite the Prachan Ban Khao Tom restaurant",
+        "price": null,
+        "location_google_map_query": "Pattaya Klang Road, Prachan Ban Khao Tom restaurant"
+      },
+      "references": [
+        {
+          "title": "Street Vendor on Sidecar Motorbike Seriously Injured in Collision with Parked Minibus in Pattaya",
+          "url": "https://thepattayanews.com/2026/03/15/street-vendor-on-sidecar-motorbike-seriously-injured-in-collision-with-parked-minibus-in-pattaya/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260315_1610321132268256682970954.jpg?v=1773565981"
+        }
+      ],
+      "collected_at": "16:55",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260315_1610321132268256682970954.jpg?v=1773565981",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "수찻 촘끌린, 천연자원환경부 장관 임명 예정",
+      "summary": "- 수차트 촘클린이 천연자원환경부 장관으로 임명될 예정입니다.\n- 그는 촌부리 지역의 유력 정치인 출신입니다.\n- 과거 노동부 장관을 역임했으며, 여러 논란에도 불구하고 장관직을 유지해왔습니다.",
+      "full_translated": "수차트 촘클린은 아누틴 정부의 천연자원환경부 장관으로 임명될 예정입니다. 그는 촌부리 출신의 사업가이자 정치인으로, 과거 촌부리 지방 자치 단체의 회원을 시작으로 정치 경력을 쌓았습니다. 에너지 촌 (팍 팔랑 촌) 소속으로 처음 국회의원이 되었고, 이후 에너지 국민의 힘 (팍 팔랑 쁘라차랏)과 태국 통합 국민 (팍 룸 타이 상 찻)을 거쳐 현재는 타이 자긍심 당(팍 품짜이 타이)에 소속되어 있습니다. 그는 노동부 장관과 상무 차관을 역임했으며, 이번에 천연자원환경부 장관으로 임명될 예정입니다. 과거 노동부 장관 재임 시절, 락차녹 스리녹 의원과 여러 문제로 법적 분쟁을 겪기도 했습니다. 수차트 촘클린은 1974년 7월 15일에 태어났으며, 올해 52세가 됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 관련 뉴스이지만, 여행 자체에는 큰 영향이 없다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เปิดประวัติ “สุชาติ ชมกลิ่น” แชมป์สส.ชลบุรี เขต 1 ว่าที่รมว.ทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+          "url": "https://www.thairath.co.th/news/politic/2920208",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJwkA7WK4mtUt.jpg"
+        }
+      ],
+      "collected_at": "16:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJwkA7WK4mtUt.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국 신임 디지털경제사회부 장관에 짜이차녹 칫촙 임명",
+      "summary": "- 차이차녹 칫ชอบ, 품차이타이당 사무총장이 디지털경제사회부 장관으로 임명됨.\n- 네윈 칫ชอบ의 아들이며, 과거에도 해당 부처 장관을 역임한 바 있음.\n- 그는 스포츠 분야에도 관여, 부리람 유나이티드 이스포츠 팀을 운영하기도 함.",
+      "full_translated": "차이차녹 칫ชอบ은 네윈 칫ชอบ과 카루나 사이에서 태어난 아들입니다. 그는 과거 디지털경제사회부 장관을 역임했으며, 현재 품짜이타이당 사무총장 및 부리람 지역 국회의원입니다. 그는 영국에서 고등학교를 졸업하고 런던에서 금융경제학을 전공했습니다. 스포츠, 특히 축구에 대한 관심이 많아 아버지와 함께 부리람 유나이티드 축구 클럽을 관리하고 있습니다. 또한, 그는 창 인터내셔널 서킷 레이싱 트랙과 부리람 유나이티드 이스포츠를 설립하여 운영하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 뉴스이지만, 디지털 경제와 관련된 정책 변화 가능성이 있어 낮은 점수 부여. 여행 관련 직접적인 영향은 적음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ไชยชนก ชิดชอบ” ลูกชาย “เนวิน” นั่งเก้าอี้  รมว.ดีอี ที่เดิม ในครม.อนุทิน 2",
+          "url": "https://www.thairath.co.th/news/politic/2920202",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJxcK6oWssIPT.jpg"
+        }
+      ],
+      "collected_at": "16:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJxcK6oWssIPT.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국 신임 에너지부 장관 임명: 엑카낫 프롬판, 수텝 트악수반의 의붓아들",
+      "summary": "- 엑카낫 프롬판이 태국 에너지부 장관으로 임명됨.\n- 그는 수텝 트악수반의 의붓아들이며, 과거 민주당 소속 국회의원이었음.\n- 이번 인사는 쁘라윳 내각 개편의 일환으로 이루어짐.",
+      "full_translated": "태국 온라인 뉴스에 따르면 엑카낫 프롬판이 에너지부 장관으로 임명되었습니다. 그는 수텝 트악수반의 의붓아들이며, 과거 민주당 소속 국회의원을 지냈습니다. 엑카낫은 1986년생으로 옥스포드 대학에서 공학, 경제학 및 경영학 학사 학위를 취득했습니다. 그는 정치에 입문하기 전에 다양한 사업을 운영했습니다. 이번 인사는 아누틴 내각 개편의 마지막 단계에서 이루어졌으며, 엑카낫은 에너지부 장관으로 임명되었습니다. 일각에서는 수텝 트악수반이 직접 아누틴 총리와 협상하여 엑카낫의 자리를 얻어냈다는 소문도 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 정치 뉴스이며, 여행객에게 직접적인 영향은 없음. 다만, 에너지 정책 변화 가능성이 있을 수 있으므로 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ “ขิง เอกนัฏ” ลูกเลี้ยง “สุเทพ” นั่งเก้าอี้ รมว.พลังงาน ในครม.อนุทิน 2",
+          "url": "https://www.thairath.co.th/news/politic/2920213",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fKSrWni7FCbHq.jpg"
+        }
+      ],
+      "collected_at": "16:55",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fKSrWni7FCbHq.jpg",
       "date": "2026-03-15"
     }
   ]
