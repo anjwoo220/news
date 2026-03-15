@@ -5753,7 +5753,7 @@
       "summary": "- 태국 관광 공원에서 72마리의 호랑이가 갑자기 폐사하는 미스터리한 사건 발생\n- 방문객들이 호랑이를 만질 수 있는 관광 명소에서 발생하여 더욱 충격\n- 정확한 원인 불명, 당국 조사 중",
       "full_translated": "태국 관광 공원에서 갑자기 호랑이 72마리가 폐사하는 미스터리한 사건이 발생했습니다. 방문객들이 호랑이를 만질 수 있는 관광 명소에서 발생하여 더욱 충격을 주고 있으며, 정확한 원인은 아직 밝혀지지 않았습니다. 당국은 현재 정확한 원인을 조사 중입니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 안전과 관련된 잠재적 위험 가능성. 공원 방문객에게 불안감을 줄 수 있으므로 정보 제공.",
       "event_info": {
         "date": null,
@@ -5768,15 +5768,18 @@
           "source": "MSN"
         }
       ],
-      "collected_at": "03:51",
-      "date": "2026-03-16"
+      "collected_at": "3:51",
+      "image_url": "",
+      "date": "2026-03-16",
+      "link": "https://www.msn.com/en-us/news/world/mystery-as-72-tigers-suddenly-die-at-thai-tourist-park-where-visitors-can-touch-the-animals/ar-BB1oKuJv",
+      "source": ""
     },
     {
       "title": "Taiwan Unveils “Taiwan 100 Ways” Tourism Push in Bangkok",
       "summary": "- 대만이 방콕에서 \"Taiwan 100 Ways\" 관광 캠페인을 시작했습니다.\n- 태국 시장을 대상으로 다양한 관광 상품과 경험을 홍보합니다.\n- 여행객들에게 대만 여행에 대한 새로운 선택지를 제공할 것으로 기대됩니다.",
       "full_translated": "대만이 방콕에서 \"Taiwan 100 Ways\" 관광 캠페인을 시작했습니다. 이는 태국 시장을 대상으로 대만의 다양한 관광 상품과 경험을 홍보하기 위한 노력입니다. 이 캠페인을 통해 여행객들은 대만 여행에 대한 새로운 선택지를 얻을 수 있을 것으로 기대됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행객들에게 대만 여행에 대한 정보를 제공하고, 여행 선택의 폭을 넓혀줄 수 있습니다.",
       "event_info": {
         "date": null,
@@ -5792,8 +5795,81 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:51",
+      "collected_at": "3:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWjl0eEdLZVN4bXZPWEN0dlBvek9zVWFrdXFDV2hTVzJlMDg1S21fOW5wT1p2Z05IM3Y1T0E1TzA3QzRWbWw0VHlnMDlEbHkzM19IRXp2UVE2Y2xUZXl1RTlRaDJmZ01EZEkzczdhQWszZjUwbDNsd2hXRnJZcjB0bmRpLXR2OVVHSV93?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파야오의 트리플 헤븐 스팟에서 독일인 관광객 자전거 사고로 사망 - thethaiger.com",
+      "summary": "- 파야오의 유명 관광지에서 자전거를 타던 독일인 관광객이 사고로 사망했습니다.\n- 사고 지점은 '트리플 헤븐 스팟'으로 알려진 곳입니다.\n- 자세한 사고 경위는 조사 중입니다.",
+      "full_translated": "파야오의 트리플 헤븐 스팟에서 독일인 관광객이 자전거 사고로 사망했습니다. thethaiger.com",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 안전 관련 사고 발생. 유사 사고 방지를 위한 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "파야오 트리플 헤븐 스팟",
+        "price": null,
+        "location_google_map_query": "파야오 트리플 헤븐 스팟"
+      },
+      "references": [
+        {
+          "title": "German tourist dies in bike crash at Phayao’s Triple Heaven Spot - thethaiger.com",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0tJczhGTFJvRGNvNTlLa011b0ZzMF9ocU5HaVlabG5odzBzUy1nNHlVVXpqNHZSQzViSTY0QUEtWVU3TDR5alA5STRlaWJub2NWLVdqMUdsRF80eTNWWUk1Q1lOSnBzUGhHV0lfTElMUGlraUZVVHBZMjdxQ0k0TFBSTzVPclZILVVuVmdRcmxpS3Ria0M2bk12QlNmenlpQUE?oc=5",
+          "source": "thethaiger.com"
+        }
+      ],
+      "collected_at": "04:20",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국, 2026년 초 749만 명의 관광객 유치, 중동 긴장 속에서도 인기 유지",
+      "summary": "- 태국은 2026년 초에 749만 명의 관광객을 유치하며 중동 지역의 여행 불안정에도 불구하고 여전히 인기 있는 여행지로 자리매김했습니다.\n- 이는 태국이 의료 및 웰니스 관광의 중심지로 부상하고, 러시아인 관광객을 포함한 다양한 국적의 여행객을 유치하는 데 성공했기 때문입니다.\n- 태국은 중동의 긴장 속에서도 관광 산업의 회복력을 보여주며, 글로벌 여행 시장에서 중요한 위치를 유지하고 있습니다.",
+      "full_translated": "태국은 2026년 초에 749만 명의 관광객을 유치하며 중동 지역의 여행 불안정에도 불구하고 여전히 인기 있는 여행지로 자리매김했습니다. 이는 태국이 의료 및 웰니스 관광의 중심지로 부상하고, 러시아인 관광객을 포함한 다양한 국적의 여행객을 유치하는 데 성공했기 때문입니다. 태국은 중동의 긴장 속에서도 관광 산업의 회복력을 보여주며, 글로벌 여행 시장에서 중요한 위치를 유지하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "최신 관광객 유치 통계는 여행객에게 참고 자료가 될 수 있으며, 태국의 관광 산업 현황을 파악하는 데 도움이 됩니다. 기존 뉴스에 비해 최신 데이터라는 점에서 업데이트로 간주.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "태국",
+        "price": "정보 없음",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Thailand Welcomes 7.49 Million Tourists in Early 2026, Surpassing Middle East Travel Setbacks: All You Need to Know - Travel And Tour World",
+          "url": "https://www.travelandtourworld.com/news/article/thailand-welcomes-7-49-million-tourists-in-early-2026-surpassing-middle-east-travel-setbacks-all-you-need-to-know/",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "04:20",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국 하원 의장으로 품자이타이당의 소폰 자람 선출",
+      "summary": "- 태국 하원에서 품자이타이당의 소폰 자람이 하원 의장으로 선출됨.\n- 그는 289표를 얻어 파리트 와차라신두 인민당 의원을 누르고 당선되었음.\n- 소폰 신임 의장은 태국의 입법 체계를 현대화하고 품위를 유지하겠다고 약속함.",
+      "full_translated": "태국 하원은 일요일 품자이타이당의 소폰 자람을 하원 의장으로 선출했으며, 289표를 얻어 인민당 소속 파리트 와차라신두 의원(123표)을 제쳤습니다. 기권은 80표, 무효표는 5표였습니다. 현재 하원은 498명의 의원으로 구성되어 있습니다. 일요일 회의에는 497명의 의원이 참석했습니다. 회의는 최고 선임 의원인 푸어 타이당 소속 파이롯 로순톤 의원이 임시 의장을 맡아 비밀 투표를 감독했습니다. 각 후보는 자신의 비전을 설명하는 데 10분이 주어졌습니다. 소폰 의원은 66세로 먼저 연단에 올라 태국의 입법 체계를 현대화하고 토론에서 품위를 유지할 것을 약속하며 시대에 뒤떨어지고 시행할 수 없는 법률은 신속하게 검토하고 제거해야 한다고 말했습니다. 그는 또한 새로운 법률은 시기적절해야 하며 국가 및 세계적 발전과 일치해야 한다고 덧붙이며 '국가, 종교, 군주 및 국민'을 위해 공정하게 행동할 것을 맹세했습니다. 파리트 의원은 정부의 의석수를 감안할 때 승리할 것으로 기대하지 않았지만, 다음 의장이 의회에 대한 국민의 신뢰를 회복하고 후원 정당에 관계없이 모든 법안에 동일한 기준을 적용할 것을 촉구했습니다. 의장 투표 후 파이롯 의장은 부의장 선출을 진행했습니다. 품자이타이당은 롭부리 의원이자 교통부 차관인 말리카 지라푼와닛을 제1부의장으로 지명했고, 연립 파트너인 푸어 타이당은 뢰이 의원인 러삭 파타나차이쿨을 제2부의장으로 지명했습니다. 경쟁 후보가 없어 두 후보 모두",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 정치 상황에 대한 정보이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Bhumjaithai’s Sophon elected House Speaker",
+          "url": "https://www.bangkokpost.com/thailand/politics/3217178/bhumjaithais-sophon-elected-house-speaker",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260315/c1_3217178_260315141255_700.jpg"
+        }
+      ],
+      "collected_at": "04:20",
+      "image_url": "https://static.bangkokpost.com/media/content/20260315/c1_3217178_260315141255_700.jpg",
       "date": "2026-03-16"
     }
   ]
