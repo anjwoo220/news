@@ -5197,7 +5197,7 @@
       "summary": "- 룸피니 공원에서 열리는 원피스 행사가 오늘 마지막 날입니다.\n- 다양한 원피스 테마 활동과 볼거리를 즐길 수 있습니다.\n- Grand Line Experience를 통해 특별한 추억을 만들어보세요.",
       "full_translated": "룸피니 공원에서 펼쳐지는 원피스 세계를 놓치지 마세요! 오늘이 마지막 날입니다. Grand Line Experience에서 특별한 추억을 만드세요!",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "방콕 룸피니 공원에서 열리는 원피스 행사의 마지막 날임을 알리는 정보로, 관심 있는 여행자에게 유용할 수 있습니다. 오늘이 마지막이라는 점을 강조하여 긴급성을 부여했습니다.",
       "event_info": {
         "date": null,
@@ -5215,14 +5215,16 @@
       ],
       "collected_at": "23:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZjRqS1RFcHJ6NEFYYVh6bU1rMEFGZU1DenRremdGYnZldjJJeDBodl9pTmhoeHBqcXVaSDg2OEtWSF9XVVBJUk5HLVdPUmVlVDdVci1oNDFhV2xteTR1dHpldDE5VDctcjBxM0ZsbTQ5bk92MGFEZmpYRWkxYjdGczZpWFN3cDdXRm1mdjlRRFpPbGZ5TmxSYTZxWk1vVndTbUJCNWFjMEJuTjVGaWxwVVJPQ3JlVk84X3g1N2ZDSzZpdlV3bzBJUUNsUC1ncHZyZUtzUS11Z3pnTzZHWlVqRjVCNA?oc=5",
+      "source": ""
     },
     {
       "title": "말레이시아 전시 산업 호황, 싱가포르, 인도네시아, 중국, 인도, 태국 관광객 몰려",
       "summary": "- 말레이시아 전시 산업이 활황을 띠면서 주변국 관광객들의 관심이 높아지고 있음.\n- 특히 싱가포르, 인도네시아, 중국, 인도, 태국 관광객들이 주요 방문객으로 나타남.\n- AirAsia, 말레이시아 항공, 힐튼 호텔 등 관련 업계의 다양한 서비스 제공이 기대됨.",
       "full_translated": "싱가포르, 인도네시아, 중국, 인도, 태국 관광객들이 말레이시아의 번성하는 전시회에 몰려들고 있습니다. AirAsia, 말레이시아 항공 및 힐튼 호텔이 제공하는 것은 무엇일까요?\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광객의 말레이시아 방문 관련 정보이므로 여행 관련 정보에 해당. 새로운 전시회 정보는 아니므로 점수는 보통으로 설정.",
       "event_info": {
         "date": null,
@@ -5240,14 +5242,16 @@
       ],
       "collected_at": "23:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPY1JaWTNNcmVMZS1FalhyRXlCVTFJc2Z1MjJsaDhBTUFTRkxSTjdGTEp4YlQ2X19KRlJyTUtEekRKTm1BYWNCa1JVMndoOEVwdV8tV21SRmlnN3VPSmtXOURXVFdMLVA5cjdoMTlESkNkV2swc1dSYW5mRDhjeU5hMHZzRmhlVDdFSFBrSVNHaUJFMl92dE9ESFFsSXhSUUh1RkJxRkV4ZGM2dDY2Sk5CMVdVUjlCUnY0X2steHZwQ3R3TzlqYVFlbi1xX2p0ZWptejhkMF90MXRvek90MzhmZ3BTUjJNelFyQmp4R19ISFg2cG41ZEJFVVc2bUNZMzcxQm45eV9QZmwyVnZhTWlXWmx6bU5rb2ZuRGJBTlcwUWRmV2VLdG5Vekc3NmdkQ0U?oc=5",
+      "source": ""
     },
     {
       "title": "이란, 미국에 휴전 요청 및 협상 시도 부인",
       "summary": "- 이란 외무장관, 미국에 휴전 요청이나 협상 시도 없었다고 발표.\n- 트럼프 대통령의 '협상 조건 불충분' 주장에 반박.\n- 이란은 미국과의 대화 필요성을 느끼지 않으며, 자위권을 행사할 것이라고 강조.",
       "full_translated": "이란 외무장관 아바스 아락치는 이란이 미국에 휴전을 요청하거나 협상을 시도한 적이 없다고 밝혔습니다. 이는 도널드 트럼프 대통령이 2069년 3월 15일에 주장한 내용과 상반됩니다. 아락치 장관은 CBS News와의 인터뷰에서 테헤란 정부는 미국에 휴전을 요청한 적도, 협상을 요청한 적도 없다고 말했습니다. 트럼프 대통령은 이란이 합의를 원하지만 조건이 충분히 좋지 않다고 밝혔습니다. 그러나 아락치는 CBS News의 Face the Nation에서 \"미국인들과 대화할 이유가 없습니다. 그들이 우리를 공격하기로 결정했을 때 이미 그들과 대화하고 있었습니다.\"라고 말했습니다. 그는 또한 \"이것은 트럼프 대통령과 미국이 선택한 전쟁이며, 우리는 계속해서 자위할 것입니다.\"라고 덧붙였습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에 직접적인 영향은 없으나, 국제 정세 불안정은 간접적인 영향을 줄 수 있으므로 낮은 점수 부여.",
       "event_info": {
         "date": null,
@@ -5265,14 +5269,16 @@
       ],
       "collected_at": "23:55",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLqJOYOjr9aU9.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/foreign/2920252",
+      "source": ""
     },
     {
       "title": "사비다 타이세트, 문화부 장관 재임명",
       "summary": "- 차다 타이세트의 딸, 사비다 타이세트가 문화부 장관으로 재임명됨.\n- 탁신 친나왓 정부에서 문화부 장관직을 이어갈 예정.\n- 그녀는 과거에도 차다 타이세트의 보좌관으로 활동한 바 있음.",
       "full_translated": "차다 타이세트의 딸인 '디다' 사비다 타이세트의 이력이 공개되었습니다. 아버지를 대신해 내무부 차관을 지낸 바 있으며, 최근 아누틴 2기 내각에서도 문화부 장관 자리를 유지할 것으로 보입니다. 2569년 3월 15일, 아누틴 2기 내각 명단이 윤곽을 드러내면서 연립 정부와의 자리 배분이 마무리되었습니다. 사비다 타이세트는 아누틴 1기 내각과 마찬가지로 문화부 장관 자리를 유지할 것으로 예상됩니다. 이는 기존 부처의 업무를 원활하게 이어가기 위한 것으로 보입니다. 사비다 타이세트는 1984년 10월 11일에 태어나 현재 42세이며, 차다 타이세트와 뜨안짓라 샌카이 사이에서 태어난 3명의 딸 중 둘째입니다. 2565년 초 아난 파탄(차데프)과 결혼했으며, 추안 릭파이가 결혼식의 주례를 맡았습니다. 이 결혼식은 코사무이의 고급 호텔 500개 객실을 4박 동안 빌려 정치계 인사들을 맞이하는 등 성대하게 치러졌습니다. 사비다는 Assumption University에서 법학 학사 학위를, 런던의 한 대학교에서 법학 석사 학위를 받았습니다. 장관이 되기 전에는 아버지 차다의 '오른팔'로 활동하며 차다 타이세트가 내무부 차관으로 재직하는 동안 그의 팀에서 일했으며, 종종 차다를 대신하여 현장을 방문했습니다. 또한 타이세트 재단과 우타이타니 개발 재단의 부회장 겸 비서관을 역임하며 우타이타니 지역 사회 지원 활동에 중요한 역할을 했습니다. 2567년에는...",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 정치 뉴스. 여행에 직접적인 영향은 없으나, 태국 사회에 대한 이해를 높일 수 있음.",
       "event_info": {
         "date": null,
@@ -5290,14 +5296,16 @@
       ],
       "collected_at": "23:55",
       "image_url": "https://static.thairath.co.th/media/Kg2lj2gY7z4zNnRd7cLkI4ngpnmx9ttEs6C.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/politic/2920238",
+      "source": ""
     },
     {
       "title": "태국, 디자인 주도 경제 전환으로 23억 파운드 규모의 전시 산업 성장 목표",
       "summary": "- 태국이 디자인 주도 경제 전환을 통해 전시 산업 성장을 목표하고 있습니다.\n- 23억 파운드 규모의 성장을 기대하고 있습니다.\n- 자세한 내용은 MSN에서 확인할 수 있습니다.",
       "full_translated": "태국은 디자인 주도 경제 전환을 통해 23억 파운드 규모의 전시 산업 성장을 목표하고 있습니다. 자세한 내용은 MSN에서 확인할 수 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "전시 산업 성장 목표는 장기적으로 관광 산업에 영향을 줄 수 있지만, 현재 시점에서는 여행객에게 직접적인 영향이 적다고 판단.",
       "event_info": {
         "date": null,
@@ -5315,7 +5323,115 @@
       ],
       "collected_at": "23:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNVWl1SEc0R3QwdWtfWGUtbVV3RGlpMEV4dno0Y0lJQnB1dENXeUQxeUZuV0d1eF9ERC1Lci1GNWNUbDVwcXhENnExdXpod3hodGg3YXQ1dl9fRmVBT1EyRk9uZG9GbTJBd1FsTnpvLVhXeHFrTWJndy1rSFkxMjNONldCNldVcDZ0M2RLaFZrT1E5ZlJodEtxbTlHYW9OV2ZaSC1VLWpVVGdBb3RjQzdXTjhCMUdzeHJiOXVIWDh1UDloMXRUbGFiWFoxNHh0VEIydjVwbHB1UXg2QjNEUHlBV2JxaV9rR2lMVDhEZ2o4RHZ1ekdWenBVYVlhZHExVHpUdjlzeGlBZ3B6VU1zZ05DWWJiUE54eXRKSmNhNEJ3M1hMYzE0Q0pKcW1YX2lpN1ptVGpjUmpzeXZkS1JxdGRpeS01Y3NrOVVzVnhzZk5naV8zRXBmR3g5YkNlanR0dw?oc=5",
+      "source": ""
+    }
+  ],
+  "2026-03-16": [
+    {
+      "title": "푸껫에서 무허가 요트 투어를 한 독일인 선장 체포",
+      "summary": "- 푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포됨.\n- 당국은 불법 투어에 대한 단속을 강화할 예정임.\n- 여행객들은 허가받은 업체를 통해 투어를 이용해야 안전함.",
+      "full_translated": "푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포되었습니다. 당국은 불법 투어에 대한 단속을 강화할 예정입니다. 여행객들은 반드시 허가받은 업체를 통해 투어를 이용해야 안전 사고를 예방할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "푸껫은 인기있는 여행지이므로 관련 사건은 여행 안전에 영향을 줄 수 있어 포함. 무허가 투어 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫",
+        "price": null,
+        "location_google_map_query": "푸껫"
+      },
+      "references": [
+        {
+          "title": "German captain arrested in Phuket over unlicensed yacht tour - Thaiger",
+          "url": null,
+          "source": "Thaiger"
+        }
+      ],
+      "collected_at": "00:20",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "호르무즈 해협 공격받은 선박에 태국인 선원 3명 생존",
+      "summary": "- 호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명이 생존한 것으로 확인됨.\n- 이란, 태국 화물선 공격 관련 기존 보도에 대한 업데이트 정보임.\n- 태국 해군은 해당 해역에 대한 선박 주의 경고를 발표한 바 있음.",
+      "full_translated": "기존 뉴스에 이미 게시된 내용에 대한 업데이트입니다. 태국인 선원들의 생존 소식은 중요한 업데이트로 판단됩니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "해상 안전 관련 소식으로, 여행객들에게 잠재적 위험을 알릴 필요가 있음. 기존 보도에 대한 업데이트 정보.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "호르무즈 해협 공격받은 선박에 태국인 선원 3명 생존",
+          "url": null,
+          "source": "Existing News"
+        },
+        {
+          "title": "3 Thai crew on attacked ship 'still alive'",
+          "url": null,
+          "source": "Existing News"
+        },
+        {
+          "title": "이란, 태국 화물선 공격…태국인 선원 3명 실종",
+          "url": null,
+          "source": "Existing News"
+        }
+      ],
+      "collected_at": "00:20",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국 해군, 호르무즈 해협 인근 해상 기뢰 가능성에 선박 주의 경고",
+      "summary": "- 태국 해군이 호르무즈 해협 인근 해상에서 기뢰 가능성에 대한 선박 주의 경고를 발령함.\n- 해당 해역을 지나는 선박은 각별한 주의를 기울여야 함.\n- 여행객 관련 선박에도 영향을 미칠 수 있으므로 정보 제공.",
+      "full_translated": "태국 해군은 호르무즈 해협 인근 해상에서 기뢰 가능성에 대한 선박 주의 경고를 발령했습니다. 이는 최근 해당 해역에서 발생한 선박 공격과 관련이 있는 것으로 보입니다. 해당 해역을 지나는 선박은 각별한 주의를 기울여야 하며, 최신 정보를 지속적으로 확인해야 합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "해상 안전 관련 소식으로, 여행객들에게 잠재적 위험을 알릴 필요가 있음.",
+      "event_info": {
+        "date": null,
+        "location": "호르무즈 해협",
+        "price": null,
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "Thai Navy warns ships of possible sea mines near Hormuz",
+          "url": null,
+          "source": "Existing News"
+        }
+      ],
+      "collected_at": "00:20",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국 관광 공원에서 갑자기 호랑이 72마리 폐사: 미스터리",
+      "summary": "- 태국의 한 관광 공원에서 72마리의 호랑이가 갑자기 폐사하여 미스터리가 발생했습니다.\n- 이 공원은 방문객들이 호랑이를 만질 수 있는 곳으로 알려져 있습니다.\n- 정확한 폐사 원인은 아직 밝혀지지 않았으며, 당국이 조사 중입니다.",
+      "full_translated": "태국의 한 관광 공원에서 72마리의 호랑이가 갑자기 폐사하여 미스터리가 발생했습니다. 이 공원은 방문객들이 호랑이를 만질 수 있는 곳으로 알려져 있어 더욱 충격을 주고 있습니다. 정확한 폐사 원인은 아직 밝혀지지 않았으며, 당국이 조사 중입니다. 해당 공원의 위생 상태 및 동물 관리 실태에 대한 철저한 조사가 필요할 것으로 보입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "동물 학대 및 관리 부실 의혹이 제기될 경우 관광객 감소 및 이미지 실추 가능성. 안전 문제와도 연결될 수 있어 주의 필요.",
+      "event_info": {
+        "date": null,
+        "location": "태국 관광 공원",
+        "price": null,
+        "location_google_map_query": "태국 관광 공원"
+      },
+      "references": [
+        {
+          "title": "Mystery as 72 tigers suddenly die at Thai tourist park where visitors can touch the animals - MSN",
+          "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNdkVhd21BQmdNRTZHS1gyQXIzV1pNTUg5Nkdla2lvUndRX0FMMnE4VVRNWlBvRzdLOEJpOXZNc3MtS3habjdXOVBwdVJHZGJWZTd6aXhac3BVSm9WWWhLU2Z1Z3h4b3JBOEtVbXJGV211djdMQTFnNWNibVc3QnQyTFFmZ1V5ellLeWhUNU9pSXFvM19IMFhBbHlMSWVaek9ZSHBiVVhVVVZxeEt4OTJHemg3TnR1eUVCREhGcUQ5SXlnRHVZNl9BS2l5VE44aG9rd3dBTFBDRUFfcjVlMkFWdGJQRTJFRlRodlh6b0xSYTJHTVhYZFhIb2cwMjNGOVlSdlMwSVM0T01vTF9Tb2ZHdEhhd2lQLWxNWkNpRUo5VV9qOEJwSnlpYUFZRGxuY21CTDg1SDU0bEttQXAyWVZET1dldGFQX1hQMjZtVXFnSjBUckMtSGg4eXhCUkV6aTFjMnBqX1J3WTR6XzFVVmJCWnpYY2YwTElfRWdLeEJFMlR1S1dFRkhvd3dDM0lRWEwyNDdJM2RONWZERUlhelhNQ1RGNkRHQU1CZkk5WlVR?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16"
     }
   ]
 }
