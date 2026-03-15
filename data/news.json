@@ -4495,7 +4495,7 @@
       "summary": "- 태국 질병통제국(DDC)은 여행객에게 폭염 속 열사병 예방을 권고합니다.\n- 현재 태국은 폭염 시즌으로, 특히 야외 활동 시 주의가 필요합니다.\n- 충분한 수분 섭취와 그늘에서 휴식을 취하는 것이 중요합니다.",
       "full_translated": "태국의 폭염 시즌: 질병통제국(DDC)은 여행객에게 열사병 예방 조치를 취할 것을 촉구합니다. 알아야 할 모든 것 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 여행 시 건강에 직접적인 영향을 미치는 정보이므로 여행객에게 유용함. 폭염은 매년 발생하지만, 안전 관련 정보는 업데이트 가치가 있음.",
       "event_info": {
         "date": null,
@@ -4513,14 +4513,16 @@
       ],
       "collected_at": "19:33",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWmwwZkNITkJZUzdRcEdZbXVwZERzVk5iajFwVXA4Vzc2QXkzVGhRYkFvMWFSV0trNlB1M3cwZlpvVXN0cEVzUHFkOUNYT29CYW91enN3d1A1cGNoc0NvSEx3TlFpUkE4SHRmd3FMVTVWZGdaYzhKUTJYVUEtdUhldHc2WmxRd293RS1tVzVnQ2ZOTDBiVkhiNW84WGpzS3g4NHpJLVNzeHB2NXV3dkVCeW0zMnY0aEJXQl9FYmNoR0RjYllxMzRiNXZIWkhsdUUySEl3ZUpqdnZIMDJGQUthcnZrV3d1QUVkaDFMMA?oc=5",
+      "source": ""
     },
     {
       "title": "태국-미얀마 국경 지역, 연료 부족으로 주요 주유소 일시 폐쇄",
       "summary": "- 매솟을 포함한 국경 지역에서 연료 부족 현상 발생\n- 미얀마 차량들의 '대리 주유' 시도 심화\n- 일부 주유소, 모든 종류의 연료 판매 중단",
       "full_translated": "여러 주요 국경 지역 주유소가 일시적으로 서비스를 중단한다고 발표했습니다. 많은 주민들이 이용하기 위해 줄을 서면서 모든 종류의 연료가 부족하다는 표지판이 붙었습니다. 2569년 3월 15일 17시 30분, 기자들은 딱 주 인근 5개 국경 지역, 특히 미얀마와 인접한 딱 주 매솟 지역의 연료 판매 상황을 보도했습니다. 매솟 지역과 인근 지역 주민들은 많은 자동차, 대형 트럭, 농산물 운송 차량, 개인 차량, 오토바이 등을 가지고 아시아 12번 도로를 따라 긴 줄을 섰고, 이로 인해 교통 문제가 발생했습니다. 매솟 경찰서 경찰관들은 도로를 막고 있는 차량 때문에 여러 곳에서 교통 문제를 해결해달라는 요청을 받았습니다. 오늘 각 주유소는 차량당 500바트만 주유할 수 있도록 했고, 다른 여러 주유소는 차량당 1,000바트를 초과하지 않도록 했으며, 연료 부족으로 인해 갤런에 담아주는 것을 중단했습니다. 얼마 지나지 않아 많은 주유소에서, 특히 디젤 연료가 바닥났고, 여러 주유소에서 모든 종류의 연료가 바닥나 연료가 바닥났다는 표지판을 붙여야 했습니다. ... 매솟의 미얀마 사람들은 미얀마 자동차 운전자들이 미얀마 차량에 연료를 공급하기 위해 차량을 고용해달라고 요청하기 시작했다고 보고했는데, 이는 확인하기가 매우 어렵습니다. 많은 주유소에서 연료가 바닥나 서비스가 중단되었다는 표지판을 붙여야 했습니다. 조치가 취해졌음에도 불구하고 연료는 여전히 부족합니다. 가장 최근에는 오후에 많은 주유소에서 장벽을 가져와 주유소 입구를 막고 모든 종류의 연료가 바닥났다는 표지판을 붙였습니다. 일부 주유소가 이미 서비스를 중단했음에도 불구하고 주유소에는 연료를 공급받기 위해 긴 줄을 선 차량이 있습니다...",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "국경 지역 여행 시 연료 확보에 어려움이 있을 수 있음을 알림. 5개 지역에 해당되므로 정보로서의 가치가 있다고 판단.",
       "event_info": {
         "date": null,
@@ -4538,14 +4540,16 @@
       ],
       "collected_at": "19:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJi1cn3r5HFgN.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/local/2920230",
+      "source": ""
     },
     {
       "title": "태국 내무부, 전국 주지사에게 석유 부족 사태 방지를 위한 공황 완화 지시",
       "summary": "- 내무부 장관, 석유 부족 사태에 대한 공황 완화 및 방지 지시\n- 각 지역 주지사에게 에너지 상황을 면밀히 모니터링하고 문제 발생 시 즉시 보고하도록 지시\n- 석유 판매업자와 시민들에게 정확한 정보를 제공하여 공황을 줄이고 사재기를 방지하도록 지시",
       "full_translated": "내무부 차관은 전국 주지사에게 공황을 줄이고 에너지 공급 시스템에 영향을 미치는 행위를 방지하기 위한 신뢰 구축을 추진하라는 긴급 명령을 내렸습니다. 오늘(2069년 3월 15일) 아트싯 삼판타랏 내무부 차관은 아누틴 찬위라쿨 총리 겸 내무부 장관이 의장으로 참석한 가운데 2069년 3월 15일 국회 회의실에서 열린 중동 지역 전투 상황 관리 및 추적 센터(섭 꺼. 버.) 회의에 참석한 후 이같이 밝혔습니다. 총리는 모든 주지사에게 3가지 지침을 내렸습니다. 내무부 차관은 에너지 영향에 대비하기 위해 모든 주지사에게 다음과 같은 3가지 추가 지침을 내렸다고 밝혔습니다. 1. 에너지 상황 모니터링을 감독하고 책임을 지는 부주지사를 임명하여 도 에너지 사무소, 도 상무 사무소, 도 홍보 사무소 및 관련 기관과 긴밀히 협력하여 해당 지역의 에너지 상황과 영향 추세를 통합적으로 모니터링합니다. 2. 해당 지역의 연료 판매 상황을 정상적으로 감독하고 감시하며, 문제나 비정상적인 상황이 발견되면 즉시 내무부에 보고하고 매일 지속적으로 보고합니다. 3. 지역의 군수, 면장, 이장, 확성기 및 지방 홍보 채널을 통해 주유소 운영자, 연료 판매업자(Jobber), 관련 민간 부문 및 대중에게 에너지 상황에 대한 이해를 전달합니다. 정부로부터의 정확한 정보를 홍보하여 신뢰를 구축하고 공황을 줄이며, 공급 시스템에 영향을 미칠 수 있는 사재기나 행위를 방지하는 데 중점을 둡니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 석유 부족 가능성에 대한 정부의 대응. 여행객에게 직접적인 위협은 아니지만, 상황에 따라 교통이나 물가에 영향을 줄 수 있으므로 정보를 제공.",
       "event_info": {
         "date": null,
@@ -4563,14 +4567,16 @@
       ],
       "collected_at": "19:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJiwJtbinsad4.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/politic/2920231",
+      "source": ""
     },
     {
       "title": "태국 총리, 석유 부족 징후 없다고 강조하며 국민들에게 에너지 절약 당부",
       "summary": "- 태국 총리는 석유 부족 징후는 없지만 국민들에게 에너지 절약을 당부함.\n- 석유 판매업자들은 석유 부족 문제가 없다고 확인했음.\n- 정부는 모든 국가와 석유 구매 협상을 진행 중이며, 러시아에만 국한되지 않음.",
       "full_translated": "아눗틴 찬위라쿨 태국 총리는 석유 부족 징후는 없지만 국민들에게 에너지 절약을 당부했습니다. 그는 석유 판매업자들이 석유 부족 문제가 없다고 확인했다고 밝혔습니다. 정부는 모든 국가와 석유 구매 협상을 진행 중이며, 러시아에만 국한되지 않습니다. 아눗틴 총리는 태국이 아세안 국가 중 석유 보유량이 가장 많다고 언급하며, 국민들이 에너지 절약에 동참해 줄 것을 요청했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "석유 부족 가능성은 낮지만 에너지 절약 동참을 권고하는 내용으로, 여행객에게 직접적인 영향은 적으나 알아두면 유용한 정보. 석유 가격 변동 가능성 주시.",
       "event_info": {
         "date": null,
@@ -4588,14 +4594,16 @@
       ],
       "collected_at": "19:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjDsXf2NJjwO.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/politic/2920232",
+      "source": ""
     },
     {
       "title": "태국 총리 선출 후 내각 구성 관련 논의 예정",
       "summary": "- 아누틴 부총리는 총리 선출 후 연립 정부 구성을 위한 논의를 진행할 예정이라고 밝힘.\n- 차기 내각의 자격 심사를 엄격하게 진행하여 논란의 여지를 없앨 것이라고 강조함.\n- 탐마낫과의 관계에 대해선 '친구는 영원하다'며 여지를 남김.",
       "full_translated": "아누틴 부총리는 총리 선출 후 연립 정부 구성을 위한 논의를 진행할 예정이며, 차기 내각의 자격 심사를 엄격하게 진행할 것이라고 밝혔습니다. 2069년 3월 15일 국회에서 아누틴 차른비라쿨 부총리 겸 내무부 장관은 총리 및 국회 의장 선출 후 절차에 대해 인터뷰했습니다. 그는 관련 서류를 준비하여 국왕에게 제출할 것이며, 의장 임명이 완료되면 회의를 소집할 것이라고 예상했습니다. 3월 19일 총리 선출을 위한 의회 소집 가능성에 대해서는 알 수 없다고 답했습니다. 총리 선출 후 내각 명단 제출에 대해서는 상황에 따라 신속하게 대처할 것이라고 밝혔습니다. 연립 정부 구성에 대한 논의는 총리 선출 후에 진행될 예정이며, 내각 후보자들의 자격 요건을 철저히 검증할 것이라고 강조했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 정치 상황에 대한 정보. 여행 자체에는 직접적인 영향은 없으나, 정치적 안정성은 여행 환경에 간접적으로 영향을 줄 수 있음. 내각 구성 관련 논의는 정국 불안정성을 야기할 수 있다는 점에서 정보 가치가 있음.",
       "event_info": {
         "date": null,
@@ -4613,6 +4621,133 @@
       ],
       "collected_at": "19:33",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJB9Bb1JMDaEZ.jpg",
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/politic/2920225",
+      "source": ""
+    },
+    {
+      "title": "사라부리에서 경비행기 추락, 1명 부상",
+      "summary": "- 사라부리 지역에서 경비행기가 추락하여 1명의 부상자가 발생했습니다.\n- 부상자는 인근 병원으로 이송되었습니다.\n- 추가 정보는 계속 업데이트될 예정입니다.",
+      "full_translated": "사라부리 지역에서 경비행기 추락 사고가 발생했습니다. 최초 보도에 따르면 1명의 부상자가 발생했으며, 병원으로 이송되었습니다. 3월 15일, 페이스북 NAKON45 안야웃 포암파이는 \"긴급!! 롸암 껫딴유 사라부리 구조대가 사라부리 지역의 경비행기 추락 사고 현장으로 급파되었습니다. 최초 보도에 따르면 1명의 부상자가 발생하여 구급대가 병원으로 이송했습니다.\"라고 밝혔습니다. 추가 정보가 입수되는 대로 계속 보고하겠습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 관련 사고 소식으로, 여행객 안전에 영향을 줄 수 있으므로 중간 점수 부여. 해당 지역 여행객에게 주의를 요함. 사고 위치 정보 확인 필요.",
+      "event_info": {
+        "date": "2024-03-15",
+        "location": "사라부리 주 프라풋타밧 지역",
+        "price": null,
+        "location_google_map_query": "프라풋타밧 사라부리"
+      },
+      "references": [
+        {
+          "title": "ด่วน เครื่องบินเล็กตกที่พระพุทธบาท จ.สระบุรี บาดเจ็บ 1 ราย เร่งนำส่งรพ.",
+          "url": "https://www.thairath.co.th/news/society/2920234",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjLbVzXViwd5.jpg"
+        }
+      ],
+      "collected_at": "20:41",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjLbVzXViwd5.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국, 세계 관광 급증을 주도하는 국가 대열 합류",
+      "summary": "- 태국이 인도, 중국, 말레이시아, 유럽과 함께 세계 관광 급증을 주도하고 있습니다.\n- TIME지의 '세계 최고의 장소 2026' 목록에 태국 내 5개 지역이 선정되었습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 인도, 중국, 말레이시아, 유럽과 함께 세계 관광 급증을 주도하고 있습니다. TIME지의 '세계 최고의 장소 2026' 목록에 태국 내 5개 지역이 선정된 이유를 알아보세요. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 관광 산업 성장과 관련된 일반적인 정보로, 여행객에게 간접적인 영향을 줄 수 있습니다. TIME지 선정 결과는 흥미로운 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Joins India, China, Malaysia, and Europe in Leading Global Tourism Surge — Discover Why FIVE Thai Destinations Top TIME’s ‘World’s Greatest Places 2026’ List - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZTNNVU9lNjNDYjM5aDhZUVB6SkhCNlZiYmwwMTBiaXowczlzM19HOTc3SXY5T1FhUG5oRFlFMFdXUVJkZWJSVU5ZTi14bGxiLVRFU0FvQ2hmS2FfRTE3OGRKVTc3dGRmQzloM25GclN0Z3c5TmIwdEVicVM1cldGWXkzRGliczNlSnpsREdtZTZud0FrRDc5Sk5kNFpFWlNYQTJIY1NHZnBXb3RCaGlPaUpTTEJleWFCNlNhRU85b05RMEtqemFVUDZVQ1Z4d3ppLWE5NHlHYUszM0lDSzgtclVjeHBaRzdkSHNGVWFROVcxX3RXa1FfOUxlR2hOcVdJWFUxUnRQOUZuOU5KR0JFMTNaRkhEa2lucVQ3SE12ejR5RE5oMDZwaA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "팡아 관광 산업, 중동 분쟁으로 큰 타격…17억 바트 손실 예상",
+      "summary": "- 팡아의 관광 산업이 중동 분쟁으로 인해 큰 타격을 입을 것으로 예상됨.\n- 예상 손실액은 17억 바트에 달하며, 유럽 관광객의 급격한 감소가 예상됨.\n- 태국 해안 지역의 인기 여행지에 큰 영향을 미칠 것으로 보임.",
+      "full_translated": "팡아의 관광 산업, 중동 분쟁으로 큰 타격을 입어 17억 바트의 손실과 태국의 인기 해안 목적지로 향하는 유럽인 도착의 급격한 감소가 예상됩니다. Travel And Tour World",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 분쟁으로 인한 관광 산업의 타격은 여행객 수 감소로 이어질 수 있으므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "팡아",
+        "price": null,
+        "location_google_map_query": "팡아"
+      },
+      "references": [
+        {
+          "title": "Phangnga’s Tourism Sector Hits Hard by Middle East Conflict, Projected Losses of One Point Seven Billion Baht and Drastic Decline in European Arrivals to Thailand’s Popular Coastal Destination - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVzZnZXc1Z2tIdEJXRmd4azE5WnBIXzdDQVd2TkNEWFBxMlNBLXE1SWlfdmZFWXhiY21xVVotMzNvbk81YkJuSEoyMDFTUzZEUjBEbkx4YlFEUmFHZTZ0bGI5OWk3SFBjajI2OEpOTi1rQ2E5QU5mbUM1cG43dVVKODl0YlZyOUJUcWxVbWJWc0l4ZDBpWnVRVE5TRTdNS3dqbmpXS0s3bVpjTlZMdFN2NUs1YzlZeUp1aXM5STVXNm5HdzJ3czJqTUxiUWVvRHU4bHlZSXNLeERRUjdZOERNUFRZSnF4aVhCZXRMbWVDYzEyZm5LRlRKQU9kR2lCNVRDQnNSRTkzUkd2OExoZW5EMUVvRnk1TERUR0ZBcnNQbTFkS2FEMXd1cXB0bHEtd3E1QU9fSWo3blB3SWZMdGxsRmRaMVJrSVlHUm5Kb0kwcw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "푸껫과 팡아, 관광객 급증: 태국, 세계적 혼란 속에서도 굳건",
+      "summary": "- 태국, 세계적인 혼란 속에서도 푸껫과 팡아를 중심으로 관광객이 몰려들고 있음.\n- 이는 태국의 안정적인 이미지와 매력적인 관광 자원 덕분.\n- 자세한 이유는 기사에서 확인 가능.",
+      "full_translated": "태국은 세계적인 혼란 속에서도 굳건히 서 있습니다. 왜 관광객들이 푸껫과 팡아로 이전보다 더 많이 몰려들고 있을까요!\nTravel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "푸껫과 팡아 지역의 관광객 증가 소식은 여행객들에게 흥미로운 정보가 될 수 있으며, 해당 지역 방문을 고려하는 데 영향을 줄 수 있음. 하지만 안전이나 편의에 직접적인 영향을 주는 정보는 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": "푸껫, 팡아",
+        "price": null,
+        "location_google_map_query": "푸껫 팡아"
+      },
+      "references": [
+        {
+          "title": "Thailand Stands Strong Against Global Turmoil: Why Tourists Are Flocking to Phuket & Phang Nga Like Never Before! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHB1ckZ4bktzWFdqOF9LMFc3R0t1anloVjRpYUZxZUtrRlYwLVlBN2dVeHBQZHJwWFJGSkxvY1dSYlhJOG44MnFrdnZ2TlIyQlhGZEFyc0FfQWNocHJ1TkFNc1BvS3U2a2x4dUxJTzhiS1U5TVlzaGhWVy15czFadlJHUHZNRGh0UFlNREVkUElOaEdldV9Sc290VVo3MUxaODhkcWw2U1hDRWl2ekRYZFpUOVFjblQ5bHBxV2NHemNGRmx2eG1oQkRCYkF2aVkzNFE3THBEcHZnNXA0VTZZMFdjdk5HelJsQ0g3YTE0TQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국, 런던에서 '힐링 여정' 캠페인으로 웰니스 관광 홍보, 끄라비, 트랑, 코 묵 주요 목적지로 소개",
+      "summary": "- 태국이 런던에서 웰니스 관광 캠페인을 시작했습니다.\n- 끄라비, 트랑, 코 묵이 주요 목적지로 부각되고 있습니다.\n- 미래 관광에 대한 모든 것을 알아볼 수 있습니다.",
+      "full_translated": "태국은 런던에서 '힐링 여정' 캠페인을 통해 웰니스 관광을 홍보하고 있으며, 끄라비, 트랑, 코 묵을 최고의 목적지로 소개합니다. 미래 관광에 대한 모든 것을 알아볼 수 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 내 새로운 관광지 정보를 제공하므로 여행 계획에 참고할 만합니다.",
+      "event_info": {
+        "date": null,
+        "location": "끄라비, 트랑, 코 묵",
+        "price": null,
+        "location_google_map_query": "끄라비, 트랑, 코 묵"
+      },
+      "references": [
+        {
+          "title": "Thailand Promotes Wellness Travel with Healing Journey Campaign in London, Featuring Krabi, Trang, and Ko Muk as Top Destinations – Everything You Need to Know About the Future of Tourism - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOdmhZbjhyNHZTaDFISnMwOEE1cV8tVHI5aFZodXl3RWdkcDZmd0Rnb2F3d0REWHBQNk9FS2ZOOU9INzZuYzJ4MGxpN2h2WnVqMFdtR0tzUUI2cUxuN3F6T2VPZXVHT1FibzJjX1czM2xCZ0x2MGExR3hlRE1nSC1XOU9XaE4xQkdVZ3VkNnlpbmdDSUZhSXZZUUJZelNHNGVROUpTZ2dZQ281Ry1xMzRCTWZ3aXc2RFpyelo5N1Y3dFp4Mi00T2ZLVklxZXV3NFFySU5hbW9qNm56akRyTE1hR1I5MkdvX1E5WC1Bd2FZR2xRZG1jQkpkNXlKeURSWE5kbURrUFhuUENrTlVFTXF2aDluVDNkYjlQZDJIUXRIQl9EdWVDbXVuSnVaV3lpaV81LVNKZDh4SlJvRWVQLTg5RldZTW5HZlVLNHpSRDY5NlM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "20:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-15"
     }
   ]
