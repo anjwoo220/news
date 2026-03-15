@@ -4630,7 +4630,7 @@
       "summary": "- 사라부리 지역에서 경비행기가 추락하여 1명의 부상자가 발생했습니다.\n- 부상자는 인근 병원으로 이송되었습니다.\n- 추가 정보는 계속 업데이트될 예정입니다.",
       "full_translated": "사라부리 지역에서 경비행기 추락 사고가 발생했습니다. 최초 보도에 따르면 1명의 부상자가 발생했으며, 병원으로 이송되었습니다. 3월 15일, 페이스북 NAKON45 안야웃 포암파이는 \"긴급!! 롸암 껫딴유 사라부리 구조대가 사라부리 지역의 경비행기 추락 사고 현장으로 급파되었습니다. 최초 보도에 따르면 1명의 부상자가 발생하여 구급대가 병원으로 이송했습니다.\"라고 밝혔습니다. 추가 정보가 입수되는 대로 계속 보고하겠습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행 관련 사고 소식으로, 여행객 안전에 영향을 줄 수 있으므로 중간 점수 부여. 해당 지역 여행객에게 주의를 요함. 사고 위치 정보 확인 필요.",
       "event_info": {
         "date": "2024-03-15",
@@ -4648,14 +4648,16 @@
       ],
       "collected_at": "20:41",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjLbVzXViwd5.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/society/2920234",
+      "source": ""
     },
     {
       "title": "태국, 세계 관광 급증을 주도하는 국가 대열 합류",
       "summary": "- 태국이 인도, 중국, 말레이시아, 유럽과 함께 세계 관광 급증을 주도하고 있습니다.\n- TIME지의 '세계 최고의 장소 2026' 목록에 태국 내 5개 지역이 선정되었습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국이 인도, 중국, 말레이시아, 유럽과 함께 세계 관광 급증을 주도하고 있습니다. TIME지의 '세계 최고의 장소 2026' 목록에 태국 내 5개 지역이 선정된 이유를 알아보세요. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 관광 산업 성장과 관련된 일반적인 정보로, 여행객에게 간접적인 영향을 줄 수 있습니다. TIME지 선정 결과는 흥미로운 정보입니다.",
       "event_info": {
         "date": null,
@@ -4673,14 +4675,16 @@
       ],
       "collected_at": "20:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPZTNNVU9lNjNDYjM5aDhZUVB6SkhCNlZiYmwwMTBiaXowczlzM19HOTc3SXY5T1FhUG5oRFlFMFdXUVJkZWJSVU5ZTi14bGxiLVRFU0FvQ2hmS2FfRTE3OGRKVTc3dGRmQzloM25GclN0Z3c5TmIwdEVicVM1cldGWXkzRGliczNlSnpsREdtZTZud0FrRDc5Sk5kNFpFWlNYQTJIY1NHZnBXb3RCaGlPaUpTTEJleWFCNlNhRU85b05RMEtqemFVUDZVQ1Z4d3ppLWE5NHlHYUszM0lDSzgtclVjeHBaRzdkSHNGVWFROVcxX3RXa1FfOUxlR2hOcVdJWFUxUnRQOUZuOU5KR0JFMTNaRkhEa2lucVQ3SE12ejR5RE5oMDZwaA?oc=5",
+      "source": ""
     },
     {
       "title": "팡아 관광 산업, 중동 분쟁으로 큰 타격…17억 바트 손실 예상",
       "summary": "- 팡아의 관광 산업이 중동 분쟁으로 인해 큰 타격을 입을 것으로 예상됨.\n- 예상 손실액은 17억 바트에 달하며, 유럽 관광객의 급격한 감소가 예상됨.\n- 태국 해안 지역의 인기 여행지에 큰 영향을 미칠 것으로 보임.",
       "full_translated": "팡아의 관광 산업, 중동 분쟁으로 큰 타격을 입어 17억 바트의 손실과 태국의 인기 해안 목적지로 향하는 유럽인 도착의 급격한 감소가 예상됩니다. Travel And Tour World",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중동 분쟁으로 인한 관광 산업의 타격은 여행객 수 감소로 이어질 수 있으므로 중간 점수 부여.",
       "event_info": {
         "date": null,
@@ -4698,14 +4702,16 @@
       ],
       "collected_at": "20:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxQVzZnZXc1Z2tIdEJXRmd4azE5WnBIXzdDQVd2TkNEWFBxMlNBLXE1SWlfdmZFWXhiY21xVVotMzNvbk81YkJuSEoyMDFTUzZEUjBEbkx4YlFEUmFHZTZ0bGI5OWk3SFBjajI2OEpOTi1rQ2E5QU5mbUM1cG43dVVKODl0YlZyOUJUcWxVbWJWc0l4ZDBpWnVRVE5TRTdNS3dqbmpXS0s3bVpjTlZMdFN2NUs1YzlZeUp1aXM5STVXNm5HdzJ3czJqTUxiUWVvRHU4bHlZSXNLeERRUjdZOERNUFRZSnF4aVhCZXRMbWVDYzEyZm5LRlRKQU9kR2lCNVRDQnNSRTkzUkd2OExoZW5EMUVvRnk1TERUR0ZBcnNQbTFkS2FEMXd1cXB0bHEtd3E1QU9fSWo3blB3SWZMdGxsRmRaMVJrSVlHUm5Kb0kwcw?oc=5",
+      "source": ""
     },
     {
       "title": "푸껫과 팡아, 관광객 급증: 태국, 세계적 혼란 속에서도 굳건",
       "summary": "- 태국, 세계적인 혼란 속에서도 푸껫과 팡아를 중심으로 관광객이 몰려들고 있음.\n- 이는 태국의 안정적인 이미지와 매력적인 관광 자원 덕분.\n- 자세한 이유는 기사에서 확인 가능.",
       "full_translated": "태국은 세계적인 혼란 속에서도 굳건히 서 있습니다. 왜 관광객들이 푸껫과 팡아로 이전보다 더 많이 몰려들고 있을까요!\nTravel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫과 팡아 지역의 관광객 증가 소식은 여행객들에게 흥미로운 정보가 될 수 있으며, 해당 지역 방문을 고려하는 데 영향을 줄 수 있음. 하지만 안전이나 편의에 직접적인 영향을 주는 정보는 아니므로 중간 점수 부여.",
       "event_info": {
         "date": null,
@@ -4723,14 +4729,16 @@
       ],
       "collected_at": "20:41",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeHB1ckZ4bktzWFdqOF9LMFc3R0t1anloVjRpYUZxZUtrRlYwLVlBN2dVeHBQZHJwWFJGSkxvY1dSYlhJOG44MnFrdnZ2TlIyQlhGZEFyc0FfQWNocHJ1TkFNc1BvS3U2a2x4dUxJTzhiS1U5TVlzaGhWVy15czFadlJHUHZNRGh0UFlNREVkUElOaEdldV9Sc290VVo3MUxaODhkcWw2U1hDRWl2ekRYZFpUOVFjblQ5bHBxV2NHemNGRmx2eG1oQkRCYkF2aVkzNFE3THBEcHZnNXA0VTZZMFdjdk5HelJsQ0g3YTE0TQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 런던에서 '힐링 여정' 캠페인으로 웰니스 관광 홍보, 끄라비, 트랑, 코 묵 주요 목적지로 소개",
       "summary": "- 태국이 런던에서 웰니스 관광 캠페인을 시작했습니다.\n- 끄라비, 트랑, 코 묵이 주요 목적지로 부각되고 있습니다.\n- 미래 관광에 대한 모든 것을 알아볼 수 있습니다.",
       "full_translated": "태국은 런던에서 '힐링 여정' 캠페인을 통해 웰니스 관광을 홍보하고 있으며, 끄라비, 트랑, 코 묵을 최고의 목적지로 소개합니다. 미래 관광에 대한 모든 것을 알아볼 수 있습니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 내 새로운 관광지 정보를 제공하므로 여행 계획에 참고할 만합니다.",
       "event_info": {
         "date": null,
@@ -4747,6 +4755,133 @@
         }
       ],
       "collected_at": "20:41",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOdmhZbjhyNHZTaDFISnMwOEE1cV8tVHI5aFZodXl3RWdkcDZmd0Rnb2F3d0REWHBQNk9FS2ZOOU9INzZuYzJ4MGxpN2h2WnVqMFdtR0tzUUI2cUxuN3F6T2VPZXVHT1FibzJjX1czM2xCZ0x2MGExR3hlRE1nSC1XOU9XaE4xQkdVZ3VkNnlpbmdDSUZhSXZZUUJZelNHNGVROUpTZ2dZQ281Ry1xMzRCTWZ3aXc2RFpyelo5N1Y3dFp4Mi00T2ZLVklxZXV3NFFySU5hbW9qNm56akRyTE1hR1I5MkdvX1E5WC1Bd2FZR2xRZG1jQkpkNXlKeURSWE5kbURrUFhuUENrTlVFTXF2aDluVDNkYjlQZDJIUXRIQl9EdWVDbXVuSnVaV3lpaV81LVNKZDh4SlJvRWVQLTg5RldZTW5HZlVLNHpSRDY5NlM?oc=5",
+      "source": ""
+    },
+    {
+      "title": "중동 영공 혼란, 스리랑카와 아시아 관광에 영향",
+      "summary": "- 중동 지역의 긴장으로 인해 항공편 운항에 차질 발생.\n- 스리랑카를 포함한 아시아 지역 관광 산업에 부정적인 영향 우려.\n- 항공 노선 변경 및 운항 지연 가능성.",
+      "full_translated": "중동 영공 혼란이 스리랑카와 아시아 관광에 영향을 미치고 있습니다. 최근 중동 지역의 긴장 고조로 인해 항공 교통 흐름에 차질이 발생하면서 스리랑카를 포함한 아시아 지역의 관광 산업에 대한 우려가 커지고 있습니다. 항공사들은 운항 경로를 변경하거나 항공편을 지연해야 할 수 있으며, 이는 여행 계획에 차질을 빚고 관광객들에게 불편을 초래할 수 있습니다. 따라서 해당 지역을 여행하려는 여행객들은 항공편 운항 상황을 미리 확인하고 여행 일정을 조정하는 것이 좋습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 지역 항공편 혼란으로 인해 아시아 여행객들에게 잠재적인 불편이 발생할 수 있으므로 중간 수준의 영향으로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "중동",
+        "price": null,
+        "location_google_map_query": "Middle East"
+      },
+      "references": [
+        {
+          "title": "Middle East Airspace Chaos Hits Sri Lanka and Asian Tourism - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmtUZ0s5bmVTeU1Wb2RIZ0JPWEwyUzdkbzNTUXdwZ1NYRU5RUF95cnFqcGVJbHU4ZG9hZjdYU1kzMjlpaEljX0otM1NuS2FBa2RsMGtIS1o0MWI5bC05MG9pdXAzUTl5bllCSWJGUGo4Yjg2Z3VUZjFaeVV5SDU5TW12SXdtV1ktMWlnZ3ZVaUFzZw?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "OR CEO, 석유 부족은 없지만 수요 증가로 운송 지연 발생",
+      "summary": "- OR CEO는 석유 부족은 없을 것이라고 재차 강조.\n- 수요 증가로 인해 일부 주유소에서 일시적인 운송 문제가 발생할 수 있다고 언급.\n- 현재 상황을 면밀히 주시하며 국민들에게 최대한의 서비스를 제공하기 위해 노력하겠다고 약속.",
+      "full_translated": "OR의 CEO인 믈. L. 쁘릭통 통야이는 석유 부족은 없을 것이라고 확인했습니다. 그러나 수요 증가로 인해 특정 시간대에 일부 주유소에서 운송 문제가 발생했습니다. 2069년 3월 15일 믈. L. 쁘릭통 통야이 PTT 소매유통회사의 최고 책임자는 중동의 불안정한 상황을 OR이 면밀히 주시하고 있으며, 파이프라인, 선박, 트럭, 기차를 통한 운송 시스템과 전국 2,400개 이상의 주유소를 통해 국민들에게 최대한의 서비스를 제공하기 위해 최선을 다하고 있다고 밝혔습니다. 모든 분들이 석유를 충분히 사용할 수 있을 것이라고 확신하셔도 좋습니다. 하지만 최근 석유 수요가 급증하여 일부 주유소에서 특정 제품의 판매에 일시적인 문제가 발생할 수 있습니다. 이는 재고로부터 운송을 기다려야 하기 때문입니다. 하지만 석유 부족은 없을 것이라고 재차 강조합니다. OR은 영향을 최소화하기 위해 최선을 다하고 있습니다. 이해해 주셔서 감사드리며, 상황을 면밀히 주시할 것을 약속드립니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 내 석유 공급 상황에 대한 정보. 여행객의 이동 계획에 잠재적 영향을 줄 수 있지만, 직접적인 위협은 아니므로 중간 점수 부여. 최신 정보 업데이트.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ซีอีโอ OR ยันน้ำมันไม่ขาด แต่ความต้องการมากขึ้น ทำให้บางช่วงเวลาขนส่งไม่ทัน",
+          "url": "https://www.thairath.co.th/news/society/2920240",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWm4PQcMyRlD.jpg"
+        }
+      ],
+      "collected_at": "21:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWm4PQcMyRlD.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "페트카셈 경찰서장, 범죄 예방 네트워크 구축을 위한 지역사회 지도자 교육",
+      "summary": "- 페트카셈 경찰서에서 범죄 예방 네트워크 구축 프로젝트의 일환으로 지역사회 지도자 교육이 진행됨.\n- 교육은 지역사회 지도자, 직업별 그룹 지도자, 퇴직 공무원, 자원 봉사자 등 53명을 대상으로 함.\n- 교육 내용은 자원 봉사 프로젝트, 재해 해결, 커뮤니케이션, 교통 법규, 사이버 범죄 예방 등을 포함.",
+      "full_translated": "페트카셈 경찰서장, 강력한 지역사회 지도자 양성으로 범죄 예방 네트워크 구축\n\n페트카셈 경찰서(썬.펫까셈)에서는 2069년 3월 15일, 경찰서 차원에서 범죄 예방 참여 네트워크 구축 프로젝트에 따라 강력한 지역사회 지도자 양성 교육을 실시했습니다. 쁘라못 찬분깨우(쁘라못 짠분깨우) 페트카셈 경찰서장, 반차 깨우싸이트웸(반차 깨우싸이투암) 페트카셈 경찰서 경위, 경찰관, 순찰대 및 교통 부서가 참여했습니다. 이번 교육은 지역사회 지도자, 다양한 직업 그룹 지도자, 사상적 지도자, 교사 또는 퇴직 공무원, 자율 경찰, 자원 봉사자 등 53명을 대상으로 페트카셈 경찰서 4층 회의실에서 오전 9시부터 오후 4시까지 진행되었습니다.\n\n쁘라못 찬분깨우 페트카셈 경찰서장은 경찰서 차원에서 범죄 예방 참여 네트워크 구축 프로젝트(Stronger Together)는 6가지 주요 주제로 구성되어 있다고 밝혔습니다. 1. 국왕의 발의에 따른 자원 봉사 프로젝트 및 국가, 종교, 군주제에 대한 의식 고취 2. 국가적 문제 해결 및 경찰 활동 참여를 위한 네트워크 구축 3. 협력 및 네트워크 관리를 위한 커뮤니케이션 4. 교통 사고 감소를 위한 공동 의식 함양, 교통 법규, 안전 운전, 자원 교통 경찰 홍보 및 위반 사항 보고 5. 사이버 범죄 예방 및 6. 정신 이상자 및 총기 난사 사건 진압.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "방콕 일부 지역의 범죄 예방 노력에 대한 정보. 여행객 안전에 간접적으로 영향을 줄 수 있으나, 직접적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2069-03-15",
+        "location": "페트카셈 경찰서, 방콕",
+        "price": "무료",
+        "location_google_map_query": "페트카셈 경찰서"
+      },
+      "references": [
+        {
+          "title": "ผู้กำกับเพชรเกษม อบรมผู้นำชุมชนเข้มแข็ง สร้างเครือข่ายป้องกันอาชญากรรม",
+          "url": "https://www.thairath.co.th/news/crime/2920226",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJB1QpEhI9f8A.jpg"
+        }
+      ],
+      "collected_at": "21:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJB1QpEhI9f8A.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "쑤리야 จึงรุ่งเรืองกิจ, 교통부에서 부총리 겸 농업부 장관으로",
+      "summary": "- 수리야จึง룽르엉กิจ이 부총리 겸 농업부 장관으로 임명될 예정입니다.\n- 그는 과거 교통부 장관을 역임했으며, 탁신 친나왓 정부에서도 중요한 역할을 했습니다.\n- 그의 임명은 아누틴 정부의 내각 개편의 일환입니다.",
+      "full_translated": "수리야 จึงรุ่งเรืองกิจ의 이력: 교통부에서 아누틴 2 정부의 부총리 겸 농업부 장관으로\n\n수리야 จึงรุ่งเรืองกิจ은 프아 타이당의 총리 후보 중 한 명으로, '손주에게 보여주겠다'는 명언을 남겼습니다. 그는 교통부에서 농업부로 자리를 옮기게 되었습니다. 2069년 3월 15일, 아누틴 2 내각 명단에서 수리야 จึงรุ่งเรืองกิจ이 프아 타이당의 선거 책임자이자 총리 후보로 지명되었으며, กล้าธรรม당에서 장관직을 박탈당해 야당이 된 ธรรมนัส พรหมเผ่า 대신 부총리 겸 농업부 장관으로 임명되었습니다. 수리야는 '손주에게 보여주겠다'는 명언의 주인공입니다.\n\n• 아홍과 นางสมเกียรติ จึงรุ่งเรืองกิจ의 아들이며, 타나톤 จึงรุ่งเรืองกิจ (전 미래당 대표)의 삼촌입니다.\n\n학력:\n\n• 쁘리야 웃돔슷싸 학교 중등 교육\n• 미국 캘리포니아 대학교 버클리 캠퍼스에서 공학 학사 (산업 공학) 취득\n\n... 정치 입문 전 사업 경력: 수리야는 태국 최대 자동차 부품 제조업체인 'Thai Summit Group'을 공동 설립하고 경영한 억만장자 사업가입니다. 그는 산업 및 대규모 자본 관리 분야에 전문성을 보유하고 있습니다. 20년 동안 교통부와 산업부를 관리하며 '교통-산업 독점 장관'이라는 별명을 얻었습니다. 그는 1998년 추안 릭파이 정부에서 산업부 장관으로 처음 정치 경력을 시작했습니다. 이후 2001년, 수리야는 태국인을 사랑하는 태국당에 합류했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "정치 뉴스이지만, 내각 변화는 장기적으로 정책에 영향을 줄 수 있으므로 낮은 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ประวัติ สุริยะ จึงรุ่งเรืองกิจ จาก คมนาคม สู่ว่าที่รองนายกฯและ รมว.เกษตรและสหกรณ์ รัฐบาลอนุทิน 2",
+          "url": "https://www.thairath.co.th/news/politic/2920236",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjZt4v7rTGiV.jpg"
+        }
+      ],
+      "collected_at": "21:22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjZt4v7rTGiV.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "방콕 두짓 메디컬 주식, 태국 관광 회복 부진 속 난항",
+      "summary": "- 태국 관광 회복 지연으로 방콕 두짓 메디컬 주식(ISIN: TH0354010013)이 어려움을 겪고 있음.\n- 구체적인 어려움에 대한 추가 정보는 기사에서 확인 가능.\n- 투자 및 여행 관련 의사 결정 시 참고.",
+      "full_translated": "방콕 두짓 메디컬 주식(ISIN: TH0354010013)이 태국 관광 회복 부진 속에서 어려움을 겪고 있습니다. 자세한 내용은 원문 기사를 참조하십시오.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "관광객에게 직접적인 영향은 적으나, 태국 경제 상황을 간접적으로 보여주므로 낮은 점수 부여. 최신 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Bangkok Dusit Medical Stock (ISIN: TH0354010013) Faces Headwinds Amid Thailand's Tourism Recovery Sl - AD HOC NEWS",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREtpSmhRWnZoWHBaaTBRaFZXSHJzdEFuMTJ0aGdkTFF4UVFDMzZLX3BkQ0NKTWl6MDdCM1pnOFJ6ZElhRnNOR1hkU2swVXAzcUwwQ3VmMjhuZW00Y1QyZTNSZXgydDUyTnFjUndZbHh2SDdRcUhhSU9PY1NEN0c1UEpZWTFvZ0NIbXllWi1vUllZMkMyVkV3akV6RHJsSmNLRzgxTHhmRFVXYVBnVkJETGxLQTA5NGJGMmtDMW1IV1FzX1U?oc=5",
+          "source": "AD HOC NEWS",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-15"
     }
