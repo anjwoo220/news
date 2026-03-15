@@ -4765,7 +4765,7 @@
       "summary": "- 중동 지역의 긴장으로 인해 항공편 운항에 차질 발생.\n- 스리랑카를 포함한 아시아 지역 관광 산업에 부정적인 영향 우려.\n- 항공 노선 변경 및 운항 지연 가능성.",
       "full_translated": "중동 영공 혼란이 스리랑카와 아시아 관광에 영향을 미치고 있습니다. 최근 중동 지역의 긴장 고조로 인해 항공 교통 흐름에 차질이 발생하면서 스리랑카를 포함한 아시아 지역의 관광 산업에 대한 우려가 커지고 있습니다. 항공사들은 운항 경로를 변경하거나 항공편을 지연해야 할 수 있으며, 이는 여행 계획에 차질을 빚고 관광객들에게 불편을 초래할 수 있습니다. 따라서 해당 지역을 여행하려는 여행객들은 항공편 운항 상황을 미리 확인하고 여행 일정을 조정하는 것이 좋습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 지역 항공편 혼란으로 인해 아시아 여행객들에게 잠재적인 불편이 발생할 수 있으므로 중간 수준의 영향으로 판단.",
       "event_info": {
         "date": null,
@@ -4783,14 +4783,16 @@
       ],
       "collected_at": "21:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWmtUZ0s5bmVTeU1Wb2RIZ0JPWEwyUzdkbzNTUXdwZ1NYRU5RUF95cnFqcGVJbHU4ZG9hZjdYU1kzMjlpaEljX0otM1NuS2FBa2RsMGtIS1o0MWI5bC05MG9pdXAzUTl5bllCSWJGUGo4Yjg2Z3VUZjFaeVV5SDU5TW12SXdtV1ktMWlnZ3ZVaUFzZw?oc=5",
+      "source": ""
     },
     {
       "title": "OR CEO, 석유 부족은 없지만 수요 증가로 운송 지연 발생",
       "summary": "- OR CEO는 석유 부족은 없을 것이라고 재차 강조.\n- 수요 증가로 인해 일부 주유소에서 일시적인 운송 문제가 발생할 수 있다고 언급.\n- 현재 상황을 면밀히 주시하며 국민들에게 최대한의 서비스를 제공하기 위해 노력하겠다고 약속.",
       "full_translated": "OR의 CEO인 믈. L. 쁘릭통 통야이는 석유 부족은 없을 것이라고 확인했습니다. 그러나 수요 증가로 인해 특정 시간대에 일부 주유소에서 운송 문제가 발생했습니다. 2069년 3월 15일 믈. L. 쁘릭통 통야이 PTT 소매유통회사의 최고 책임자는 중동의 불안정한 상황을 OR이 면밀히 주시하고 있으며, 파이프라인, 선박, 트럭, 기차를 통한 운송 시스템과 전국 2,400개 이상의 주유소를 통해 국민들에게 최대한의 서비스를 제공하기 위해 최선을 다하고 있다고 밝혔습니다. 모든 분들이 석유를 충분히 사용할 수 있을 것이라고 확신하셔도 좋습니다. 하지만 최근 석유 수요가 급증하여 일부 주유소에서 특정 제품의 판매에 일시적인 문제가 발생할 수 있습니다. 이는 재고로부터 운송을 기다려야 하기 때문입니다. 하지만 석유 부족은 없을 것이라고 재차 강조합니다. OR은 영향을 최소화하기 위해 최선을 다하고 있습니다. 이해해 주셔서 감사드리며, 상황을 면밀히 주시할 것을 약속드립니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 내 석유 공급 상황에 대한 정보. 여행객의 이동 계획에 잠재적 영향을 줄 수 있지만, 직접적인 위협은 아니므로 중간 점수 부여. 최신 정보 업데이트.",
       "event_info": {
         "date": null,
@@ -4808,14 +4810,16 @@
       ],
       "collected_at": "21:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWm4PQcMyRlD.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/society/2920240",
+      "source": ""
     },
     {
       "title": "페트카셈 경찰서장, 범죄 예방 네트워크 구축을 위한 지역사회 지도자 교육",
       "summary": "- 페트카셈 경찰서에서 범죄 예방 네트워크 구축 프로젝트의 일환으로 지역사회 지도자 교육이 진행됨.\n- 교육은 지역사회 지도자, 직업별 그룹 지도자, 퇴직 공무원, 자원 봉사자 등 53명을 대상으로 함.\n- 교육 내용은 자원 봉사 프로젝트, 재해 해결, 커뮤니케이션, 교통 법규, 사이버 범죄 예방 등을 포함.",
       "full_translated": "페트카셈 경찰서장, 강력한 지역사회 지도자 양성으로 범죄 예방 네트워크 구축\n\n페트카셈 경찰서(썬.펫까셈)에서는 2069년 3월 15일, 경찰서 차원에서 범죄 예방 참여 네트워크 구축 프로젝트에 따라 강력한 지역사회 지도자 양성 교육을 실시했습니다. 쁘라못 찬분깨우(쁘라못 짠분깨우) 페트카셈 경찰서장, 반차 깨우싸이트웸(반차 깨우싸이투암) 페트카셈 경찰서 경위, 경찰관, 순찰대 및 교통 부서가 참여했습니다. 이번 교육은 지역사회 지도자, 다양한 직업 그룹 지도자, 사상적 지도자, 교사 또는 퇴직 공무원, 자율 경찰, 자원 봉사자 등 53명을 대상으로 페트카셈 경찰서 4층 회의실에서 오전 9시부터 오후 4시까지 진행되었습니다.\n\n쁘라못 찬분깨우 페트카셈 경찰서장은 경찰서 차원에서 범죄 예방 참여 네트워크 구축 프로젝트(Stronger Together)는 6가지 주요 주제로 구성되어 있다고 밝혔습니다. 1. 국왕의 발의에 따른 자원 봉사 프로젝트 및 국가, 종교, 군주제에 대한 의식 고취 2. 국가적 문제 해결 및 경찰 활동 참여를 위한 네트워크 구축 3. 협력 및 네트워크 관리를 위한 커뮤니케이션 4. 교통 사고 감소를 위한 공동 의식 함양, 교통 법규, 안전 운전, 자원 교통 경찰 홍보 및 위반 사항 보고 5. 사이버 범죄 예방 및 6. 정신 이상자 및 총기 난사 사건 진압.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "방콕 일부 지역의 범죄 예방 노력에 대한 정보. 여행객 안전에 간접적으로 영향을 줄 수 있으나, 직접적인 위협은 아니므로 중간 점수 부여.",
       "event_info": {
         "date": "2069-03-15",
@@ -4833,14 +4837,16 @@
       ],
       "collected_at": "21:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJB1QpEhI9f8A.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/crime/2920226",
+      "source": ""
     },
     {
       "title": "쑤리야 จึงรุ่งเรืองกิจ, 교통부에서 부총리 겸 농업부 장관으로",
       "summary": "- 수리야จึง룽르엉กิจ이 부총리 겸 농업부 장관으로 임명될 예정입니다.\n- 그는 과거 교통부 장관을 역임했으며, 탁신 친나왓 정부에서도 중요한 역할을 했습니다.\n- 그의 임명은 아누틴 정부의 내각 개편의 일환입니다.",
       "full_translated": "수리야 จึงรุ่งเรืองกิจ의 이력: 교통부에서 아누틴 2 정부의 부총리 겸 농업부 장관으로\n\n수리야 จึงรุ่งเรืองกิจ은 프아 타이당의 총리 후보 중 한 명으로, '손주에게 보여주겠다'는 명언을 남겼습니다. 그는 교통부에서 농업부로 자리를 옮기게 되었습니다. 2069년 3월 15일, 아누틴 2 내각 명단에서 수리야 จึงรุ่งเรืองกิจ이 프아 타이당의 선거 책임자이자 총리 후보로 지명되었으며, กล้าธรรม당에서 장관직을 박탈당해 야당이 된 ธรรมนัส พรหมเผ่า 대신 부총리 겸 농업부 장관으로 임명되었습니다. 수리야는 '손주에게 보여주겠다'는 명언의 주인공입니다.\n\n• 아홍과 นางสมเกียรติ จึงรุ่งเรืองกิจ의 아들이며, 타나톤 จึงรุ่งเรืองกิจ (전 미래당 대표)의 삼촌입니다.\n\n학력:\n\n• 쁘리야 웃돔슷싸 학교 중등 교육\n• 미국 캘리포니아 대학교 버클리 캠퍼스에서 공학 학사 (산업 공학) 취득\n\n... 정치 입문 전 사업 경력: 수리야는 태국 최대 자동차 부품 제조업체인 'Thai Summit Group'을 공동 설립하고 경영한 억만장자 사업가입니다. 그는 산업 및 대규모 자본 관리 분야에 전문성을 보유하고 있습니다. 20년 동안 교통부와 산업부를 관리하며 '교통-산업 독점 장관'이라는 별명을 얻었습니다. 그는 1998년 추안 릭파이 정부에서 산업부 장관으로 처음 정치 경력을 시작했습니다. 이후 2001년, 수리야는 태국인을 사랑하는 태국당에 합류했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "정치 뉴스이지만, 내각 변화는 장기적으로 정책에 영향을 줄 수 있으므로 낮은 점수를 부여.",
       "event_info": {
         "date": null,
@@ -4858,14 +4864,16 @@
       ],
       "collected_at": "21:22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJjZt4v7rTGiV.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/politic/2920236",
+      "source": ""
     },
     {
       "title": "방콕 두짓 메디컬 주식, 태국 관광 회복 부진 속 난항",
       "summary": "- 태국 관광 회복 지연으로 방콕 두짓 메디컬 주식(ISIN: TH0354010013)이 어려움을 겪고 있음.\n- 구체적인 어려움에 대한 추가 정보는 기사에서 확인 가능.\n- 투자 및 여행 관련 의사 결정 시 참고.",
       "full_translated": "방콕 두짓 메디컬 주식(ISIN: TH0354010013)이 태국 관광 회복 부진 속에서 어려움을 겪고 있습니다. 자세한 내용은 원문 기사를 참조하십시오.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "관광객에게 직접적인 영향은 적으나, 태국 경제 상황을 간접적으로 보여주므로 낮은 점수 부여. 최신 정보이므로 포함.",
       "event_info": {
         "date": null,
@@ -4883,6 +4891,133 @@
       ],
       "collected_at": "21:22",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNREtpSmhRWnZoWHBaaTBRaFZXSHJzdEFuMTJ0aGdkTFF4UVFDMzZLX3BkQ0NKTWl6MDdCM1pnOFJ6ZElhRnNOR1hkU2swVXAzcUwwQ3VmMjhuZW00Y1QyZTNSZXgydDUyTnFjUndZbHh2SDdRcUhhSU9PY1NEN0c1UEpZWTFvZ0NIbXllWi1vUllZMkMyVkV3akV6RHJsSmNLRzgxTHhmRFVXYVBnVkJETGxLQTA5NGJGMmtDMW1IV1FzX1U?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이스라엘, 이란 공격 계획 최소 3주 더 지속",
+      "summary": "- 이스라엘은 이란의 군사 기반 시설 파괴를 목표로 최소 3주 동안 추가 공격을 계획하고 있다고 발표함.\n- IDF 대변인은 CNN과의 인터뷰에서 수천 개의 목표가 남아 있으며, 미국과의 협력 하에 유대교의 유월절까지 작전을 지속할 것이라고 밝힘.\n- 2월 28일 이후 이스라엘 공군은 이란 서부 및 중부 지역에서 약 400회의 공습을 수행했으며, 미국과 이스라엘은 전쟁 시작 이후 수천 개의 목표를 공격했다고 밝힘.",
+      "full_translated": "이스라엘이 이란 공격을 최소 3주 더 지속할 계획이라고 밝혔습니다. 2069년 3월 15일, 에피 데프린 이스라엘 방위군(IDF) 대변인은 CNN과의 인터뷰에서 이스라엘 군이 이란 공격 작전을 최소 3주 더 지속할 계획이라고 밝혔습니다. 이는 이란의 군사 기반 시설을 파괴하기 위해 공격해야 할 '수천 개의 목표'가 여전히 남아 있기 때문입니다.\n\n데프린 준장은 '앞으로 공격해야 할 목표가 수천 개 더 남아 있습니다'라고 말했습니다. '우리는 미국의 협력 하에 최소 유대교의 유월절까지 지속적으로 작전을 수행할 계획이며, 그 이후 3주 동안 더 심층적인 계획도 가지고 있습니다.' IDF에 따르면, 이란 공격 캠페인이 시작된 2월 28일 이후 이스라엘 공군은 이란 서부 및 중부 지역에서 약 400회의 공습을 수행했으며, 이란의 공격, 방어 및 생산 부서의 기반 시설 파괴와 관계자 공격에 집중했습니다. 이스라엘 관리는 미국과 이스라엘이 전쟁 시작 이후 수천 개의 목표를 공격했다고 밝혔습니다.\n\n데프린 준장은 CNN과의 인터뷰에서 'IDF는 시간이나 일정에 따라 움직이는 것이 아니라 이란 정권의 힘을 심각하게 약화시키는 목표를 달성하기 위해 움직이고 있습니다'라고 말했습니다. 그는 미국과 이스라엘의 강력한 이란 공습으로 인해 레바논의 헤즈볼라가 분쟁에 참여하기로 결정했다고 말했습니다. 이는 지난 여름 12일 전쟁 당시 그들이 개입하지 않기로 선택한 것과는 대조적입니다. ... '6월에...",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 여행에 직접적인 영향은 적으나, 중동 지역의 긴장 고조는 잠재적 위험 요소로 작용할 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิสราเอลเผย มีแผนโจมตีอิหร่านต่อไปอีกอย่างน้อย 3 สัปดาห์",
+          "url": "https://www.thairath.co.th/news/foreign/2920243",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWarU7xkSyDL.jpg"
+        }
+      ],
+      "collected_at": "21:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWarU7xkSyDL.jpg",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "중동 영공 위기로 팡응아 관광 수익 급감, 유럽 방문객 20% 감소",
+      "summary": "- 중동 영공 위기로 인해 팡응아 관광 수익에 타격이 발생했습니다.\n- 유럽 방문객이 20% 감소했습니다.\n- 자세한 영향에 대해 알아야 할 모든 것이 담겨 있습니다.",
+      "full_translated": "중동 영공 위기로 팡응아 관광 수익 급감, 유럽 방문객 20% 감소 – 영향에 대해 알아야 할 모든 것 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "유럽 방문객 감소는 관광 산업에 영향을 미치므로 중간 정도의 영향으로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "팡응아",
+        "price": null,
+        "location_google_map_query": "팡응아"
+      },
+      "references": [
+        {
+          "title": "Middle East Airspace Crisis Slams Phangnga’s Tourism Revenue, With a Twenty Percent Decline in European Visitors – Everything You Should Know About the Impact - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxOVE9reWkwZ2E0M0hjb1NUSHlhWlBIb08wbWdtQ3h2VmtLUURqLUliUWV5R3NXQlF4SUJHLXdoVnFDbVJ1TUZJcmJWb3JNM01JOEd0UERzVHQ0WDZITmFTbEtiRzRUa3lXaXh3Vk1ELWJMdmVlUHVvdkhyUE1MWF9PU1BKalNmOHBOMjVqV0QtSnRYYXpTWU5LTjgyX01lbUNqZ0pQVUR0bGdBWmlEN0FaTEFRVXdSejVZbWVqYmpxSWt0TlhEeHlQNnltMm5ONW9taVY5aVNRXzFjMFpuMmF2YlZhZzRsVmZ2WThfUzJKUlNZaVhqa1g2MUpqVW9wZFBsWF9ua2lxMkRad1U4R2NWMGhtcjBqWTRESzE3ZEdHLTdodXpycHdtMkF5UQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "Phanat Nikhom Yingge Dance Festival: 활기찬 태국-중국 문화의 향연, 알아야 할 모든 것",
+      "summary": "- 파낫 니콤 잉게 댄스 페스티벌은 태국과 중국 문화의 생동감 넘치는 조화를 보여줍니다.\n- 이 축제는 전통 무용, 음악, 공연을 통해 독특한 문화적 경험을 제공합니다.\n- 방문객은 다양한 활동과 볼거리를 통해 태국의 풍부한 유산을 탐험할 수 있습니다.",
+      "full_translated": "파낫 니콤 잉게 댄스 페스티벌: 활기찬 태국-중국 문화의 향연, 알아야 할 모든 것 Travel And Tour World",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국과 중국 문화의 독특한 조화를 보여주는 축제로, 여행객들에게 새로운 문화 체험 기회를 제공할 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파낫 니콤, 태국",
+        "price": "미정",
+        "location_google_map_query": "파낫 니콤"
+      },
+      "references": [
+        {
+          "title": "Phanat Nikhom Yingge Dance Festival: A Vibrant Display of Thai and Chinese Culture, Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOM04xSVZpcnA5VlgtTkI5am15V1JKVXRsc25NdWtRZllxX09UMm1WRTN5aTNSLVgtY2VuYkVsVlVJbEdIVUxZOFNpRm1XQXFucnVyeGZXWEVEdm5maTdUZ0hvdl9yaDJjbHFiQlNuZGM2Z3BoalA0MXRRXzkxREtoMUhKWm5qcTdqUkkxTTJqSldMMUxKclBpMU05dzdJdWFad2N4cXdScVlUaS12Wkd6bVk0YmZPS2F2RHpLa1hPWXBtSWMyY192dEg0S0lFZlA2bThqWHBNaC1uVTYzM3l2U3htVk9KcE9IMk9UNWd1bw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "인도, 태국, 인도네시아: 다채로운 경험을 추구하는 여행객들을 위한 새로운 여행 트렌드",
+      "summary": "- 인도, 태국, 인도네시아는 다양한 매력으로 여행객들에게 새로운 트렌드로 자리 잡고 있다.\n- 울창한 언덕, 햇살 가득한 해변, 신성한 순례지가 여행자들을 매료시킨다.\n- 계절별로 특색 있는 경험을 제공하며 새로운 여행 표준을 제시한다.",
+      "full_translated": "인도, 태국, 인도네시아: 다채로운 경험을 추구하는 여행객들을 위한 새로운 여행 트렌드\n\n인도, 태국, 인도네시아는 울창한 언덕, 햇살 가득한 해변, 신성한 순례지 등 다채로운 경험을 제공하며 새로운 여행 트렌드로 자리 잡고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 언급되어 여행 관련 정보로 분류될 수 있지만, 특정 지역이나 상황에 대한 정보는 없어 일반적인 정보로 간주. 여행 트렌드를 소개하는 기사.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "India, Thailand, Indonesia: Why Seasonal Escapes to Lush Hill Stations, Sun-Kissed Beaches, and Sacred Pilgrimages Are Becoming the New Travel Norm for Tourists Seeking Varied Experiences - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNazg4MUJqcHVOQnltdlhvc1V3NWFYRUhQcS15by1nWmplcGlBQkh5UlpDNS1TZE1sNXVPVkJlcFV2Z1ZpdTkzZnFHZ3VnRC1wV0paTUl3VE5YWG5GWHlpZ0JWZjV5Ml9XWFpxZExSWW81VEtBQjFFQ0pITVdGNnl0eV9wWTJNOTlTWFE5TUFjTWNza25NYTlUOUhxcFQ4VllGNkF1dlIyRUtmMmV6RE9rdzczMGhELW4tLUEwV3ZCZmU5ek41azV2M2k4Q0gwNnQ2NTM1dng5Z0FrV0xLUDBXV0NTSFI2MkRIb3J1SVZzZTNmaVRWMTAxUnQ0TmhueEVxWF9Ubnh6V1BobldtWVNsR2t3dXpVcWhxRlR6TVpGWF9hVWMtd0ZOQ0RKTDFpcDZEczg0MVhleUx0U1dSODNkYWJtUHc2eHY0RXFhNXdPY3U?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "21:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "유명 인사, 600인분 돼지갈비 파티 열어 고아 없는 유령에게 대접",
+      "summary": "- 유명 인사들이 고아 없는 유령을 위해 600인분 돼지갈비 파티를 열었습니다.\n- 파티는 촌부리 지역의 한 묘지에서 열렸으며, 음식과 생필품이 지역 주민들에게 제공되었습니다.\n- 미신을 믿는 사람들은 다가오는 복권 추첨을 위해 향에서 행운의 숫자를 찾았습니다.",
+      "full_translated": "유명 인사들이 600인분의 돼지갈비 세트를 가져와 묘지에서 고아 없는 유령에게 대접했습니다. 또한 쌀과 건조 식품을 지역 주민들에게 나누어주었습니다. 2024년 3월 15일 18:00, 랍팟사라 라캉통(크루 카놈 티안), 나와폰 왕노이(파야못), 피라다 타나초트진다(매남 능)와 유명 인플루언서 팀이 촌부리 지역의 트라이쿤탐 재단 묘지에 돼지갈비 600인분을 가져와 고아 없는 유령에게 대접했습니다. 또한 해당 지역 주민들에게 500세트 이상의 쌀과 건조 식품을 나누어 주었습니다. 트라이쿤탐 재단 구조대원 50여 명이 돼지갈비 난로와 돼지갈비를 묘지에 있는 고아 없는 무덤에 빽빽하게 배열하기 위해 동원되었으며, 많은 지역 주민들이 자비로운 그룹에서 나누어 주는 쌀과 건조 식품을 받기 위해 서 있었습니다. 조사 결과, 거의 5년 동안 고아 없는 유령에게 돼지갈비를 대접해 왔으며 이번에는 약 200,000바트 상당의 600세트 이상을 가져왔습니다. 18일에는 트라이쿤탐 재단에서 대규모 묘지 청소를 할 예정이므로, 묘지 청소 전에 돼지갈비를 대접하면 인생에서 큰 공덕을 쌓을 수 있다고 믿습니다. 돼지갈비를 대접한 후 삶의 여러 측면에서 긍정적인 변화가 있었습니다. 고아 없는 유령을 대접하는 것 외에도 오늘날에는 해당 지역 주민들에게 나누어주기 위해 500세트 이상의 쌀과 건조 식품을 준비했습니다. 왜냐하면 과거에 묘지에서 고아 없는 유령에게 돼지갈비를 대접하는 것에 대한 드라마가 있을 때마다 소셜 미디어에서 왜 사람들에게 대접하지 않느냐는 질문이 있었고, 오늘날 그들은 인생과 가족을 위해 큰 공덕을 쌓기 위해 유령과 사람 모두에게 대접합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 문화에 대한 흥미로운 정보이지만, 관광객에게 직접적인 영향은 적습니다. 복권 정보는 제외합니다.",
+      "event_info": {
+        "date": "2024-03-15",
+        "location": "촌부리 지역 트라이쿤탐 재단 묘지",
+        "price": "200000 바트 (총 가치)",
+        "location_google_map_query": "Tri Khun Tham Foundation, Chonburi"
+      },
+      "references": [
+        {
+          "title": "สายมูส่อง “เลขเด็ด” คนดังจัดหมูกระทะ 600 ชุด เลี้ยงผีไร้ญาติก่อนล้างป่าช้า",
+          "url": "https://www.thairath.co.th/lottery/news/2920241",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWkH2jhz8lir.jpg"
+        }
+      ],
+      "collected_at": "21:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLWkH2jhz8lir.jpg",
       "date": "2026-03-15"
     }
   ]
