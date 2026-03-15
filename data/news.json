@@ -5556,7 +5556,7 @@
       "summary": "- 케냐에서 지속적인 폭우로 인해 홍수가 발생하여 최소 66명이 사망했습니다.\n- 수도 나이로비는 홍수로 큰 피해를 입었으며, 일부 지역은 수심 2m까지 잠겼습니다.\n- 케냐 정부는 저지대 주민들에게 안전한 지역으로 대피할 것을 경고하고, 대피소에 2,000명 이상이 수용되었습니다.",
       "full_translated": "케냐는 지속적인 폭우로 인해 심각한 홍수를 겪고 있으며, 지난 주 동안 최소 66명이 사망했습니다. 2026년 3월 15일, 케냐 경찰은 폭우로 인한 홍수로 인해 4명이 추가로 사망했다고 밝혔습니다. 이로 인해 지난 주 동안 총 사망자 수는 최소 66명으로 증가했습니다. 케냐의 수도 나이로비는 토요일에 일부 지역이 2m까지 잠기는 홍수를 겪었으며, 밤새 다시 폭우가 내렸습니다. 추가 사망자는 보고되지 않았지만, 사망자 중 절반인 33명은 수도에서 발견되었습니다. 케냐 적십자는 나이로비에서 물에 갇힌 '마타투'라고 불리는 대중 교통 밴에서 11명을 구조했습니다. 또한, 침수된 집에서 2명의 어린이를 성공적으로 구조했습니다. 나이로비의 일부 도로는 홍수로 인해 여러 다리가 손상된 후 폐쇄되었고, 일부 학교는 토요일 폭우로 인해 침수되었습니다. 케냐 내무부는 일요일 전국적으로 계속해서 폭우가 내릴 것이라고 경고했으며, 이는 홍수의 위험을 증가시킵니다. 이에 따라 당국은 저지대 거주자들에게 안전한 지역으로 이동할 것을 경고했으며, 2,000명 이상이 임시 대피소로 이동했습니다. 케냐 경찰은 '폭우와 그에 따른 심각한 홍수로 피해를 입은' 수색 및 구조 작업이 계속 진행 중임을 확인했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국은 아니지만, 동남아 여행객들이 아프리카를 경유하는 경우가 종종 있으므로 안전에 대한 주의를 환기시킬 필요가 있음. 홍수 정보는 여행 계획에 영향을 미칠 수 있음.",
       "event_info": {
         "date": null,
@@ -5572,16 +5572,18 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLpW2eOnnoG8L.jpg"
         }
       ],
-      "collected_at": "02:04",
+      "collected_at": "2:04",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fLpW2eOnnoG8L.jpg",
-      "date": "2026-03-16"
+      "date": "2026-03-16",
+      "link": "https://www.thairath.co.th/news/foreign/2920259",
+      "source": ""
     },
     {
       "title": "태국, 중동 긴장과 항공편 차질에도 불구하고 2026년 3월까지 700만 명 이상의 관광객 유치",
       "summary": "- 태국은 중동 지역의 긴장과 항공편 차질에도 불구하고 여전히 인기 있는 관광지입니다.\n- 2026년 3월까지 700만 명 이상의 관광객을 유치할 것으로 예상됩니다.\n- 이는 태국이 의료 및 웰니스 관광 허브로 부상하고 있으며, 러시아인 관광객 유치에 성공한 결과입니다.",
       "full_translated": "중동 지역의 긴장과 항공편 차질에도 불구하고 태국은 여전히 최고의 글로벌 관광지로 남아 있으며, 2026년 3월까지 700만 명 이상의 방문객을 유치할 것으로 예상됩니다. 알아야 할 모든 것 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 산업의 긍정적인 전망을 보여주는 기사. 중동 지역의 불안정에도 불구하고 태국이 여전히 매력적인 관광지로 여겨지고 있음을 강조합니다. 2026년까지의 예상 관광객 수는 여행 계획에 참고할 만한 정보입니다.",
       "event_info": {
         "date": null,
@@ -5596,15 +5598,18 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "02:04",
-      "date": "2026-03-16"
+      "collected_at": "2:04",
+      "image_url": "",
+      "date": "2026-03-16",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUkladUxTOG5qNHprTXBMQnpReFpBQ0N2YjU3bXFPYm8ybXB4dm1JZ0gyczdRSW93bzZKNnZKazQzU0VMYnlhSWdXbXhsVy03Q3RlX0JIRS1XZlEwZlo4SkttWFgydHNZdUNZU29sMjVOLW5wbGs2Q0paTVlxQWFxN1N1SnJzLTlGb2RCUnNTNjV5Y1c4ZTdrcmJFTENELVlXdHVKVVo0YjU4UWpCTG45ckoyRGN2czdjQmZiSEgwZXhvOXc5RzU4M1Mxcml3ZTl6ek9MMmR6MmNvOUN0MG1ZcVdzWUNVX3BuUGVNaUx6cmEtRVh6Q01CLXZhVlVnRDZZMDhjd3dKYU50SlRWZEV6cUN3ZmtmX0xVbHg4QnR4WnYxeWxMQjdJMVJoRmdnbkJ4ZmlPeWZoUEhwZDVJYmtNN1Y1UEZpNWFIcUFxVGNIV19rOEdZVFRZWQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026년 초 749만 명의 관광객 유치, 중동 여행 침체 극복",
       "summary": "- 태국은 2026년 초 749만 명의 관광객을 유치하며 중동 지역 여행 감소를 상쇄했습니다.\n- 관광 수입은 1,870억 바트에 달하며, 이는 태국 관광 산업의 회복력을 보여줍니다.\n- 정부는 관광 산업 발전을 위한 추가적인 전략을 모색하고 있습니다.",
       "full_translated": "태국은 2026년 초에 749만 명의 관광객을 유치하여 중동 지역의 여행 침체를 극복했습니다. 이는 태국 관광 산업의 강력한 회복세를 나타냅니다. 관광 수입은 1,870억 바트에 달했습니다. 태국 정부는 관광 산업을 더욱 발전시키기 위한 전략을 지속적으로 모색하고 있습니다. 다양한 문화 행사와 관광 상품 개발을 통해 더 많은 관광객을 유치할 계획입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 초 관광객 유치 수치를 업데이트된 정보로 제공. 여행객들에게 태국 여행의 최신 동향을 알 수 있게 함.",
       "event_info": {
         "date": "2026-01-01",
@@ -5630,7 +5635,59 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "02:04",
+      "collected_at": "2:04",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kTVNaWFpTT3dfcjRRZDdfeUh1ekxfcjdmMTVNX09hTHlpYjUzckZoTE0tRmZCWUZlR2c4eXBjaWgyQmNmbzFkQUZYN2N4VFJhRWpCcGdJWmgwZnBlRWdSd1lrbGR2WGc0OHZuN1g3VnpPcDh6N1VTWXFn?oc=5",
+      "source": ""
+    },
+    {
+      "title": "중동 위기 속 태국 관광 산업 타격: 여행 차질 및 항공편 취소",
+      "summary": "- 태국은 중동 지역 위기 고조로 인해 여행 차질과 항공편 취소 증가에 직면하여 관광 산업이 타격을 입고 있음.\n- 스리랑카, 캄보디아, 인도네시아, 네팔 등도 유사한 어려움을 겪고 있는 것으로 나타남.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
+      "full_translated": "스리랑카는 태국, 캄보디아, 인도네시아, 네팔 및 다른 국가들과 함께 중동 위기가 고조됨에 따라 여행 차질, 항공편 취소 등으로 인해 해외 관광객이 급격히 감소하는 어려움에 직면하고 있습니다. 자세한 내용은 Travel And Tour World에서 확인하실 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중동 위기로 인한 여행 차질은 태국 여행에 영향을 미칠 수 있으므로 정보 제공.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Sri Lanka Joins Thailand, Cambodia, Indonesia, Nepal and Others in Facing a Drastic Decline in Inbound Tourism Due to Travel Disruptions, Flight Cancellations and More Amid the Escalating Middle East Crisis: All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPQlI5eFZUMGJ3eWdlc2d6WHJzMjJybk0tbUVQYUt3RVZrSEFTcEtHOXBuNmZMMjhwZlpLSlZDOVNOejY4QTA0RE9JS1FKUFA4cVlGZGZoSUxjcmJzUVV6MV9aUHpxcmFJUXFuMnlzZFJzNi1Ddk8xSUVkUUFUaVFOWDIwUjJRWGVPd1Q4WmdHTkZQTDB4U1ViOG5QQTA4Y1FyNWJnUXhKUEFXSTlQRTU5TWZJREI3NnZJcnFSeU1HMmpFSEtFSTRMZGdlYTJaQ082WGxNdktLVGhFVU44OGZsTnlFOThodGdXekJGZ292NEZWZWJGMDdjcU9OUGxWYjcwQ2lOVzNSV3ZXVkpKdzd2alRCRXdRYmxHenQ3QnQtUGtjR1RHblFNRUd5cFkxTkFvNmhOcTRwOG8yUjh5bTlYeXQxSzE0cHhFbnh1M095cDd1Q2d0ZnlVYU9xRWszOGFleXc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:47",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국, 웰니스 관광 추진으로 관광객 유치 박차",
+      "summary": "- 태국이 새로운 '힐링 여정' 추진으로 웰니스 관광에 집중하고 있습니다.\n- 의료 및 웰니스 관광의 선두 주자로 부상하며 러시아인 관광객 유치에 힘쓰고 있습니다.\n- 이는 중동 여행의 침체를 극복하고 관광 산업을 활성화하기 위한 전략입니다.",
+      "full_translated": "태국이 웰니스 관광을 강화하며 새로운 '힐링 여정'을 추진하고 있습니다. 의료 및 웰니스 관광 분야에서 세계적인 허브로 부상하는 것을 목표로 하며, 특히 러시아인 관광객 유치에 적극적으로 나서고 있습니다. 이러한 노력은 중동 지역 여행의 침체를 극복하고 전체 관광 산업을 활성화하는 데 기여할 것으로 기대됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 웰니스 관광 추진은 여행객들에게 새로운 경험을 제공할 수 있으나, 즉각적인 안전이나 편의에 미치는 영향은 크지 않다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Bets on Wellness Travel With New Healing Journey Push - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQUVxblg3RmdzNVVXdFVTRG5YeDRsM2pfSFF5UlIxOEJNQWpuWWJZcHVtZzlOY3FNNXBKSXJXV1IwTzhTbndzLTZCNWpYLXZuVzV0YWtheTBuYnRic1JCeWYwQzJuZGJEQV9xVV9iUEprMkUtM2Z2a014VzhPOGR2MlZfVmdYd1lPQmx3d1lXU21TUU1CU2c?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:47",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-16"
     }
