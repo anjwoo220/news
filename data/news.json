@@ -5449,7 +5449,7 @@
       "summary": "- 태국은 2026년 초에 749만 명의 관광객을 유치하여 중동 여행의 침체를 극복했습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.\n- 이는 태국 관광 산업의 회복을 보여주는 긍정적인 신호입니다.",
       "full_translated": "태국, 2026년 초 749만 명의 관광객 유치, 중동 여행의 침체 극복: 알아야 할 모든 것 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 산업의 회복세를 보여주는 지표로, 여행객 유치에 긍정적인 영향을 미칠 수 있으나, 당장 여행객의 안전이나 편의에 직접적인 영향을 주는 정보는 아니므로 중간 점수 부여",
       "event_info": {
         "date": null,
@@ -5465,16 +5465,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-16"
+      "date": "2026-03-16",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDlTMloxUmJZYkJVYmRkR2ZIZ284bTgxN3NKMTFrdmFHNnp3TnJLVFg0N1JuMlR6ZGN5akJmRnNHVW00TDBqdmZXLW9RMnpBaFBFTWtCOTVYZUV0MUw0VFhMb3JScU1NdHB1cmlvRlV2TGJCVlQyWG56RHN0YTFId3JWRGUxWTJNU0xSZ2FhOFFyb0xHX2R5NkZWdHNVbzZzV3pGX0ptWkl6VUFVOWpaNC1QMXFFTk9EYXhORVJCVFlPakZ0a21pWFhHUEl3ZTcyTU9MUi1GcGYyV0RwRDJ6bkNqaFpuZi1UUUZ2ejVkQTZtcjd6?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 의료 및 웰니스 관광의 선두 주자로 부상, 러시아인 관광객 유치",
       "summary": "- 태국이 의료 및 웰니스 관광의 글로벌 허브로 부상하고 있습니다.\n- 특히 러시아인 관광객들에게 인기가 높습니다.\n- 자세한 정보는 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "태국이 의료 및 웰니스 관광의 선두 주자로 부상하고 있으며, 특히 러시아인 관광객을 유치하고 있습니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 의료 관광 정보는 여행자에게 유용할 수 있지만, 현재 시점에서는 정보의 업데이트가 중요하지 않으므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -5490,7 +5492,57 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:52",
+      "collected_at": "0:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWnBuWGI4VEFGejU3NXVWVzNDUG1DODFveWdMVjV3RFlvaU9ENnZaNEFxcHJiYXdYTlh5cXRTdnpQdDZlRTVKSHFqNllJMmhUNlE2MTYwOTJlYUdCMEZQTlQ3ZEk3ZzdWSzB2QUVBMTFMczdUMWV6MWlGQkgzQ1RpVUdVOTc5aG9keWhYbkJOVEswWWhLS3RzZEEtMVhmZ0paTVotZzFmQmZWRWprdVNNSXZSRHAyVHYyUU9va0QtbFp4aU9Odkg0czlfYkF3UGJEdUx2NU9FZklzazJUS3FGSnR3UThscExYSTcyRXhDd3ItRmxNcDBBc3lkb1UxMEp2QTdLdE1YRQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 초 749만 명 관광객 유치, 중동 긴장 속에서도 인기 유지",
+      "summary": "- 태국은 중동 지역의 긴장과 항공편 차질에도 불구하고 여전히 인기 있는 관광지로 꼽힘.\n- 2026년 3월까지 700만 명 이상의 방문객 유치 목표.\n- 의료 및 웰니스 관광 중심지로 부상하며 러시아인 관광객 유치에도 적극적.",
+      "full_translated": "중동 지역의 긴장이 계속되고 항공편 운항에 차질이 발생하고 있음에도 불구하고 태국은 여전히 최고의 글로벌 관광지로 남아 있으며, 2026년 3월까지 700만 명 이상의 방문객을 유치할 것으로 예상됩니다. 자세한 내용은 Travel And Tour World에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국 관광 산업의 긍정적인 전망을 제시하며, 여행객 유치 목표를 구체적으로 언급하여 정보 가치가 있다고 판단. 기존 게시된 기사와 제목은 유사하나, 2026년 목표 수치를 명시하여 업데이트된 정보로 간주.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Welcomes 7.49 Million Tourists in Early 2026, Surpassing Middle East Travel Setbacks: All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi-QFodHRwczovL3d3dy50cmF2ZWxhbmR0b3Vyd29ybGQuY29tL3RoYWlsYW5kLXdlbGNvbWVzLTc0OS1taWxsaW9uLXRvdXJpc3RzLWluLWFybHktMjAyNi1zdXJwYXNzaW5nLW1pZGRsZS1lYXN0LXRyYXZlbC1zZXRiYWNrcy1hbGwteW91LW5lZWQtdG8ta25vdy_SAQA?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "01:27",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국, 중동 지역 항공편 혼란에도 불구하고 관광 산업 강세 유지",
+      "summary": "- 태국 관광 산업은 중동 지역의 항공편 혼란에도 불구하고 견조한 성장세를 유지하고 있습니다.\n- 2026년 초까지 749만 명의 관광객을 유치하여 중동 여행의 침체를 극복할 것으로 예상됩니다.\n- 의료 및 웰니스 관광의 중심지로 부상하며 러시아인 관광객을 유치하고 있습니다.",
+      "full_translated": "태국 관광 산업은 중동 지역의 항공편 혼란에도 불구하고 꾸준한 성장세를 보이고 있습니다. 2026년 초까지 749만 명의 관광객을 유치하여 중동 여행의 침체를 극복할 것으로 예상됩니다. 또한, 태국은 의료 및 웰니스 관광의 선두 주자로 부상하며 러시아인 관광객을 적극적으로 유치하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "최근 관광객 유치 현황을 보여주는 정보로, 여행 계획에 참고가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Stays Strong Despite Middle East Flight Turmoil - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa3NvOVl3M29TSjIxU0lQQ09lVlg1RmtCM0tjNnd6dW15dThHcjhiM0dWV2F5X2tiSFhnX0dnbnRYOGtQUUVrZzF1blFwZmNmZldIZWhjWlQ1Z2NZN1Bwa0xPdUZQQTc2bklpN29CRUs5djNXSF9Lc1RGd3dZNXNteEIzU0ZzdEFKUmxPWGpBR2ZQbGJva1pmLQ?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "01:27",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-16"
     }
