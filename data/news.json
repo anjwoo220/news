@@ -5334,7 +5334,7 @@
       "summary": "- 푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포됨.\n- 당국은 불법 투어에 대한 단속을 강화할 예정임.\n- 여행객들은 허가받은 업체를 통해 투어를 이용해야 안전함.",
       "full_translated": "푸껫에서 무허가 요트 투어를 운영한 독일인 선장이 체포되었습니다. 당국은 불법 투어에 대한 단속을 강화할 예정입니다. 여행객들은 반드시 허가받은 업체를 통해 투어를 이용해야 안전 사고를 예방할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "푸껫은 인기있는 여행지이므로 관련 사건은 여행 안전에 영향을 줄 수 있어 포함. 무허가 투어 주의 필요.",
       "event_info": {
         "date": null,
@@ -5349,15 +5349,18 @@
           "source": "Thaiger"
         }
       ],
-      "collected_at": "00:20",
-      "date": "2026-03-16"
+      "collected_at": "0:20",
+      "image_url": "",
+      "date": "2026-03-16",
+      "link": null,
+      "source": ""
     },
     {
       "title": "호르무즈 해협 공격받은 선박에 태국인 선원 3명 생존",
       "summary": "- 호르무즈 해협에서 공격받은 선박에 탑승한 태국인 선원 3명이 생존한 것으로 확인됨.\n- 이란, 태국 화물선 공격 관련 기존 보도에 대한 업데이트 정보임.\n- 태국 해군은 해당 해역에 대한 선박 주의 경고를 발표한 바 있음.",
       "full_translated": "기존 뉴스에 이미 게시된 내용에 대한 업데이트입니다. 태국인 선원들의 생존 소식은 중요한 업데이트로 판단됩니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해상 안전 관련 소식으로, 여행객들에게 잠재적 위험을 알릴 필요가 있음. 기존 보도에 대한 업데이트 정보.",
       "event_info": {
         "date": null,
@@ -5382,15 +5385,18 @@
           "source": "Existing News"
         }
       ],
-      "collected_at": "00:20",
-      "date": "2026-03-16"
+      "collected_at": "0:20",
+      "image_url": "",
+      "date": "2026-03-16",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국 해군, 호르무즈 해협 인근 해상 기뢰 가능성에 선박 주의 경고",
       "summary": "- 태국 해군이 호르무즈 해협 인근 해상에서 기뢰 가능성에 대한 선박 주의 경고를 발령함.\n- 해당 해역을 지나는 선박은 각별한 주의를 기울여야 함.\n- 여행객 관련 선박에도 영향을 미칠 수 있으므로 정보 제공.",
       "full_translated": "태국 해군은 호르무즈 해협 인근 해상에서 기뢰 가능성에 대한 선박 주의 경고를 발령했습니다. 이는 최근 해당 해역에서 발생한 선박 공격과 관련이 있는 것으로 보입니다. 해당 해역을 지나는 선박은 각별한 주의를 기울여야 하며, 최신 정보를 지속적으로 확인해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "해상 안전 관련 소식으로, 여행객들에게 잠재적 위험을 알릴 필요가 있음.",
       "event_info": {
         "date": null,
@@ -5405,15 +5411,18 @@
           "source": "Existing News"
         }
       ],
-      "collected_at": "00:20",
-      "date": "2026-03-16"
+      "collected_at": "0:20",
+      "image_url": "",
+      "date": "2026-03-16",
+      "link": null,
+      "source": ""
     },
     {
       "title": "태국 관광 공원에서 갑자기 호랑이 72마리 폐사: 미스터리",
       "summary": "- 태국의 한 관광 공원에서 72마리의 호랑이가 갑자기 폐사하여 미스터리가 발생했습니다.\n- 이 공원은 방문객들이 호랑이를 만질 수 있는 곳으로 알려져 있습니다.\n- 정확한 폐사 원인은 아직 밝혀지지 않았으며, 당국이 조사 중입니다.",
       "full_translated": "태국의 한 관광 공원에서 72마리의 호랑이가 갑자기 폐사하여 미스터리가 발생했습니다. 이 공원은 방문객들이 호랑이를 만질 수 있는 곳으로 알려져 있어 더욱 충격을 주고 있습니다. 정확한 폐사 원인은 아직 밝혀지지 않았으며, 당국이 조사 중입니다. 해당 공원의 위생 상태 및 동물 관리 실태에 대한 철저한 조사가 필요할 것으로 보입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "동물 학대 및 관리 부실 의혹이 제기될 경우 관광객 감소 및 이미지 실추 가능성. 안전 문제와도 연결될 수 있어 주의 필요.",
       "event_info": {
         "date": null,
@@ -5429,7 +5438,59 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "00:20",
+      "collected_at": "0:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16",
+      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxNdkVhd21BQmdNRTZHS1gyQXIzV1pNTUg5Nkdla2lvUndRX0FMMnE4VVRNWlBvRzdLOEJpOXZNc3MtS3habjdXOVBwdVJHZGJWZTd6aXhac3BVSm9WWWhLU2Z1Z3h4b3JBOEtVbXJGV211djdMQTFnNWNibVc3QnQyTFFmZ1V5ellLeWhUNU9pSXFvM19IMFhBbHlMSWVaek9ZSHBiVVhVVVZxeEt4OTJHemg3TnR1eUVCREhGcUQ5SXlnRHVZNl9BS2l5VE44aG9rd3dBTFBDRUFfcjVlMkFWdGJQRTJFRlRodlh6b0xSYTJHTVhYZFhIb2cwMjNGOVlSdlMwSVM0T01vTF9Tb2ZHdEhhd2lQLWxNWkNpRUo5VV9qOEJwSnlpYUFZRGxuY21CTDg1SDU0bEttQXAyWVZET1dldGFQX1hQMjZtVXFnSjBUckMtSGg4eXhCUkV6aTFjMnBqX1J3WTR6XzFVVmJCWnpYY2YwTElfRWdLeEJFMlR1S1dFRkhvd3dDM0lRWEwyNDdJM2RONWZERUlhelhNQ1RGNkRHQU1CZkk5WlVR?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 2026년 초 749만 명의 관광객 유치, 중동 여행의 침체 극복",
+      "summary": "- 태국은 2026년 초에 749만 명의 관광객을 유치하여 중동 여행의 침체를 극복했습니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.\n- 이는 태국 관광 산업의 회복을 보여주는 긍정적인 신호입니다.",
+      "full_translated": "태국, 2026년 초 749만 명의 관광객 유치, 중동 여행의 침체 극복: 알아야 할 모든 것 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업의 회복세를 보여주는 지표로, 여행객 유치에 긍정적인 영향을 미칠 수 있으나, 당장 여행객의 안전이나 편의에 직접적인 영향을 주는 정보는 아니므로 중간 점수 부여",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Welcomes 7.49 Million Tourists in Early 2026, Surpassing Middle East Travel Setbacks: All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWDlTMloxUmJZYkJVYmRkR2ZIZ284bTgxN3NKMTFrdmFHNnp3TnJLVFg0N1JuMlR6ZGN5akJmRnNHVW00TDBqdmZXLW9RMnpBaFBFTWtCOTVYZUV0MUw0VFhMb3JScU1NdHB1cmlvRlV2TGJCVlQyWG56RHN0YTFId3JWRGUxWTJNU0xSZ2FhOFFyb0xHX2R5NkZWdHNVbzZzV3pGX0ptWkl6VUFVOWpaNC1QMXFFTk9EYXhORVJCVFlPakZ0a21pWFhHUEl3ZTcyTU9MUi1GcGYyV0RwRDJ6bkNqaFpuZi1UUUZ2ejVkQTZtcjd6?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-16"
+    },
+    {
+      "title": "태국, 의료 및 웰니스 관광의 선두 주자로 부상, 러시아인 관광객 유치",
+      "summary": "- 태국이 의료 및 웰니스 관광의 글로벌 허브로 부상하고 있습니다.\n- 특히 러시아인 관광객들에게 인기가 높습니다.\n- 자세한 정보는 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 의료 및 웰니스 관광의 선두 주자로 부상하고 있으며, 특히 러시아인 관광객을 유치하고 있습니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 의료 관광 정보는 여행자에게 유용할 수 있지만, 현재 시점에서는 정보의 업데이트가 중요하지 않으므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Emerges as Leading Global Hub for Medical and Wellness Tourism, Attracting Russian Visitors, Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPWnBuWGI4VEFGejU3NXVWVzNDUG1DODFveWdMVjV3RFlvaU9ENnZaNEFxcHJiYXdYTlh5cXRTdnpQdDZlRTVKSHFqNllJMmhUNlE2MTYwOTJlYUdCMEZQTlQ3ZEk3ZzdWSzB2QUVBMTFMczdUMWV6MWlGQkgzQ1RpVUdVOTc5aG9keWhYbkJOVEswWWhLS3RzZEEtMVhmZ0paTVotZzFmQmZWRWprdVNNSXZSRHAyVHYyUU9va0QtbFp4aU9Odkg0czlfYkF3UGJEdUx2NU9FZklzazJUS3FGSnR3UThscExYSTcyRXhDd3ItRmxNcDBBc3lkb1UxMEp2QTdLdE1YRQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-16"
     }
