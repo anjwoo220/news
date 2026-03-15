@@ -4145,7 +4145,7 @@
       "summary": "- 정부는 연료 부족이 아니라 국민들의 과도한 구매 때문이라고 주장합니다.\n- 중동 전쟁으로 인한 가격 상승 우려로 사재기 현상이 발생했습니다.\n- 현재 태국은 96일 분량의 석유 비축량을 보유하고 있습니다.",
       "full_translated": "정부 관리들은 일부 주유소에서 '재고 없음' 팻말이 붙은 것은 태국의 연료 비축량 부족 때문이 아니라 중동 전쟁으로 인해 개인 운전자와 대중교통 운전자들이 패닉 상태에 빠져 연료를 보충했기 때문이라고 해명했습니다. 에크니티 니티타나프라파스 재무장관은 가격 상승을 우려한 사람들이 지역 주유소에서 연료를 사재기하고 있다고 말했습니다. 정부는 문제 해결을 위해 연료 배송을 가속화하고 있습니다. PTT CEO인 콩크라판 인타라장은 PTT가 전 세계적으로 원유 공급원을 확보하고 있다고 밝혔습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "연료 부족 현상이 관광객 이동에 불편을 초래할 수 있으나, 정부 해명에 따라 심각한 문제는 아니라고 판단.",
       "event_info": {
         "date": null,
@@ -4163,14 +4163,16 @@
       ],
       "collected_at": "17:55",
       "image_url": "https://static.bangkokpost.com/media/content/20260315/c1_3217203_700.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.bangkokpost.com/thailand/general/3217203/plenty-of-fuel-govt-insists-as-motorists-drain-pumps-dry",
+      "source": ""
     },
     {
       "title": "내일 태국 주유소별 휘발유 가격 업데이트 (2024년 3월 16일)",
       "summary": "- 2024년 3월 16일 태국 내 휘발유, 가솔린, 디젤 가격 업데이트.\n- PTT, Bangchak, PT, Caltex, Shell 등 주요 주유소 가격 정보 제공.\n- 휘발유 95는 리터당 31.05바트, 디젤은 리터당 29.94바트.",
       "full_translated": "2024년 3월 16일 태국 내 휘발유, 가솔린, 디젤 가격이 업데이트되었습니다. Bangchak, PTT, Shell 등의 주요 주유소 웹사이트에서 최신 가격 정보를 확인할 수 있습니다.  \n\n주요 가격은 다음과 같습니다:\n* 하이 프리미엄 디젤 S: 45.64 바트/리터\n* 하이 디젤 S: 29.94 바트/리터\n* 하이 프리미엄 97: 49.54 바트/리터\n* 가솔린 E85S EVO: 25.79 바트/리터\n* 가솔린 E20S EVO: 27.84 바트/리터\n* 가솔린 91S EV: 30.68 바트/리터\n* 가솔린 95S EVO: 31.05 바트/리터\n* 벤진: 39.64 바트/리터\n* 슈퍼파워 디젤: 43.44 바트/리터\n* 슈퍼파워 가솔린 95: 40.04 바트/리터\n* 쉘 퓨얼세이브 가솔린 E20: 28.94 바트/리터\n* 쉘 퓨얼세이브 가솔린 91: 31.78 바트/리터\n* 쉘 퓨얼세이브 가솔린 95: 32.35 바트/리터\n* 쉘 V-파워 가솔린 95: 49.84 바트/리터\n* 쉘 퓨얼세이브 디젤: 29.94 바트/리터\n* 쉘 V-파워 디젤: 49.84 바트/리터",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행 시 차량 렌트 또는 택시 이용 시 유용한 정보. 매일 업데이트되는 정보이므로 포함.",
       "event_info": {
         "date": "2024-03-16",
@@ -4188,14 +4190,16 @@
       ],
       "collected_at": "17:55",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU1fJCalEX0pZ9Ir.jpg",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://www.thairath.co.th/news/society/2920220",
+      "source": ""
     },
     {
       "title": "태국 관광청, 중국 관광객 유치를 위한 고위급 회담 개최",
       "summary": "- 태국 관광청(TAT)은 중국 관광객들에게 신뢰할 수 있는 고품질 여행지로 이미지를 강화하기 위해 노력하고 있습니다.\n- 안전과 경험을 향상시키는 데 중점을 두고 있습니다.\n- 고위급 회담을 통해 중국 관광객 유치에 박차를 가할 예정입니다.",
       "full_translated": "태국 관광청(TAT)은 중국 관광객들에게 신뢰할 수 있는 고품질 여행지로 이미지를 강화하기 위해 고위급 회담을 개최합니다. 태국에서의 안전과 경험을 향상시키는 데 중점을 둡니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "중국인 관광객 대상의 서비스 품질 개선 노력은 관광객 유치에 긍정적 영향을 줄 수 있습니다.",
       "event_info": {
         "date": null,
@@ -4213,14 +4217,16 @@
       ],
       "collected_at": "17:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPYVY1U296VF9NSDB0YTZyTXlST0xkQ3pmRzJZQUQ0SVh4ekdxUjVaMmdKWHlEWFRWVWlzUU1ua055WHlWbHdBbm1VdHl1TGV3VVYtNWlmOHRQZEQxN1NIb2RzSHNrbk9Pa2ZVSXk2TnFOakZ4Y2lEa0JrVERrbi1qVzRFWWtVOFg3d1ZBUXdETEdod0ZGUUpaQjhRdEx4dlRZWncydHFVb3B2elNZVFMyS1dmc3JTTTJ5dWU0WmptQV80RmNkTkd5Vk9salBYZHJjOVMweVFidXVMbTJycVZENTltREt0WDJDLVFJd3NOWWozbE0xNTU0Z0NTRVdfdy1WdGJPLVJmTXNOOUtQREkyb1ZkbkhtSkVJSGh2Qm91RzhLOFU?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 중동 여행 차질에도 불구하고 2026년 초 749만 명의 관광객 맞이",
       "summary": "- 태국은 중동 지역의 여행 차질에도 불구하고 2026년 초에 749만 명의 관광객을 맞이함.\n- 이는 태국 관광 산업의 회복력을 보여주는 긍정적인 신호임.\n- 자세한 내용은 파타야 메일에서 확인할 수 있음.",
       "full_translated": "태국은 중동 여행 차질에도 불구하고 2026년 초에 749만 명의 관광객을 맞이했습니다. 파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "관광객 수 증가는 태국 여행에 대한 긍정적 신호이며, 여행객들에게 전반적인 분위기를 알리는 데 도움이 됨.",
       "event_info": {
         "date": null,
@@ -4238,14 +4244,16 @@
       ],
       "collected_at": "17:55",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-15"
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNS3l3OEMwb3BaWFIxYmlUbFhiV1dXeUhKR0Jlb1RaU09ZRUN2WFAyUnhOQkd6U25SVnNrLXBJYTZwWFBCbmJ3dUNQMGY5OXd4bnlNcWdFZS05c0tPenJ2aWFITWlzSHdiOHpWdm9xR1pvVUtlVy12WUdTemJiaUd3dWp3YXNoSVVnM05wT2dMVFM5TjMzckdWbGZkOFAyZXg0XzRpc04tVmZsbHlIYVJnQ0lONDh0NGtObTcwVTNhd3EzZ2dqMUtSU1FrenI?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 글로벌 의료 및 웰니스 강국으로 부상",
       "summary": "- 태국이 의료 관광지로 인기를 얻고 있습니다.\n- 다양한 웰니스 프로그램과 숙련된 의료진이 강점입니다.\n- 정부 차원의 지원과 투자가 뒷받침되고 있습니다.",
       "full_translated": "태국이 글로벌 의료 및 웰니스 강국으로 부상하고 있습니다. thetraveler.org",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 여행객에게 유용한 의료 및 웰니스 관련 정보 제공. 새로운 정보이므로 포함.",
       "event_info": {
         "date": null,
@@ -4262,6 +4270,81 @@
         }
       ],
       "collected_at": "17:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZ1pzVWhkUGdFQVNaalFmM05UeUk0dnlQMXppTndteV9Wa1c3UUN3NTRZa2NETFNJNXdUTTNoZVJRRFhldUJJVzdGT1U0a0VqNmhNQ1dLSk9TSDJmVHlyVXB1cURjNlRrSXdOOEo2UWdaLUNSa1NTdWh6TVdVcEN6UkRwTGFTVVR1OVNpVVpn?oc=5",
+      "source": ""
+    },
+    {
+      "title": "Why Thailand’s 2026 Campaigns Are Redefining Wellness Travel Forever: Here’s to Know More About It - Travel And Tour World",
+      "summary": "- 태국은 2026년 웰니스 관광 캠페인을 통해 관광 산업을 재정의하고자 함.\n- 이 캠페인은 태국의 건강 및 웰빙 서비스를 세계에 알리는 데 중점을 둠.\n- 태국은 웰빙 목적지로서의 입지를 강화할 계획.",
+      "full_translated": "태국은 2026년 웰니스 관광 캠페인을 통해 관광 산업을 혁신적으로 변화시키려 합니다. 이 캠페인은 태국의 다양한 건강 및 웰빙 서비스를 전 세계에 알리고, 웰빙 목적지로서의 입지를 강화하는 데 초점을 맞추고 있습니다. 태국은 이 캠페인을 통해 더욱 많은 관광객을 유치하고 경제 성장을 촉진할 계획입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국의 웰니스 관광 산업 발전 계획. 장기적인 관점에서 여행객에게 새로운 경험 제공 가능성.",
+      "event_info": {
+        "date": "2026",
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국 웰니스 관광"
+      },
+      "references": [
+        {
+          "title": "Why Thailand’s 2026 Campaigns Are Redefining Wellness Travel Forever: Here’s to Know More About It - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSVNUTUhlR1ZKTFJNSjdXVFNFS3E3NnQ3RDFYUjNZeTRiRHdLQk5CYnJuR1hrb1JqaVVPdmYxLXUwQVhEUnVlZzY2dHBfQk51WnJteXMyZVpwRVYtN09lX3VKOVpDVmIyakV2S3k5bjYzbE5SNm9XOUxXMEc3T3dTVk14UlFwRS1SWUpoQmdLbUs3bU1jdlNTNDRJM2h2UzlXNHplN0xQc0dKakFSUUVqa1M5WXRGXzlmQ3lWWTFCcTRkcmNmV0lIX2ZDVm1VNlZrQVNoM0J0bWhqd0Vs?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "중동 긴장과 항공편 차질에도 불구하고 태국은 최고의 글로벌 관광지로 남아 2026년 3월까지 7백만 명 이상의 방문객 유치",
+      "summary": "- 중동 지역의 긴장과 항공편 차질에도 불구하고 태국은 여전히 인기 있는 관광지임.\n- 2026년 3월까지 7백만 명 이상의 방문객을 유치할 것으로 예상됨.\n- 자세한 내용은 기사에서 확인할 수 있음.",
+      "full_translated": "지속적인 중동 긴장과 항공편 차질에도 불구하고 태국은 최고의 글로벌 관광지로 남아 2026년 3월까지 7백만 명 이상의 방문객을 유치할 것으로 예상됩니다. 자세한 내용은 Travel And Tour World에서 확인하세요.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 인기 관광지로 남아있다는 내용으로, 여행 계획에 참고할 만한 정보임. 항공편 차질에 대한 언급은 여행객에게 유용한 정보가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Despite Ongoing Middle Eastern Tensions and Flight Disruptions, Thailand Remains a Top Global Tourist Destination, Attracting More Than Seven Million Visitors by March 2026 – Everything You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQUkladUxTOG5qNHprTXBMQnpReFpBQ0N2YjU3bXFPYm8ybXB4dm1JZ0gyczdRSW93bzZKNnZKazQzU0VMYnlhSWdXbXhsVy03Q3RlX0JIRS1XZlEwZlo4SkttWFgydHNZdUNZU29sMjVOLW5wbGs2Q0paTVlxQWFxN1N1SnJzLTlGb2RCUnNTNjV5Y1c4ZTdrcmJFTENELVlXdHVKVVo0YjU4UWpCTG45ckoyRGN2czdjQmZiSEgwZXhvOXc5RzU4M1Mxcml3ZTl6ek9MMmR6MmNvOUN0MG1ZcVdzWUNVX3BuUGVNaUx6cmEtRVh6Q01CLXZhVlVnRDZZMDhjd3dKYU50SlRWZEV6cUN3ZmtmX0xVbHg4QnR4WnYxeWxMQjdJMVJoRmdnbkJ4ZmlPeWZoUEhwZDVJYmtNN1Y1UEZpNWFIcUFxVGNIV19rOEdZVFRZWQ?oc=5",
+          "source": "Travel And Tour World"
+        }
+      ],
+      "collected_at": "18:19",
+      "date": "2026-03-15"
+    },
+    {
+      "title": "태국, 의료 및 웰니스 관광지로 부상…러시아인 관심 증가",
+      "summary": "- 태국이 세계적인 의료 및 웰니스 관광지로 부상하고 있다.\n- 의료 관광 성장률 상위 3개국에 이름을 올렸다.\n- 러시아인들의 관심이 증가하고 있다.",
+      "full_translated": "태국이 세계적인 의료 및 웰니스 관광지로 부상하고 있으며, 의료 관광 성장률에서 상위 3위 안에 들며 러시아인들의 관심이 높아지고 있습니다. - Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 의료 관광지로 인기를 얻고 있다는 정보는 여행객들에게 유용할 수 있지만, 즉각적인 안전이나 편의에 영향을 미치지는 않으므로 중간 점수를 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Emerges as a Leading Global Medical and Wellness Destination, Ranking Among the Top Three for Medical Tourism Growth with Rising Russian Interest - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPcUdnenlJaUFvdmFQRHBhQ2hwa0VaUjZEczdXSnpEUzlzZW9KTjRRMDVzbFFCM1lkaDVJUFBYME9nc01NS3RCTFp4WVJXUVVVRVlHVGdtTVMwLWlYVG1sQUNkNVVTUWFJZ05YclVjcm9BV1VvNi1yMzM4cVEyWmt5ellfUzI5bHQ5cUxJVjdoNGl0MjhPMW4xSUxqWExQSUNtd2pCWFBad3hWRnNiVmFtdFJqSk1HOVpIeElhaHNFMlYwUlBMeE5CWE9jT1VzX0gwRkVrU1FqbmNCNVIyZngzU1BhekhwWUtLbTlCVTl2RVlmRUFGYm5SbzFzcFJ2ckdDVFJYY05qVEpxbUtXNnpIRE9DLVQwSDdReGpuMlRvQmJhQkg5MF8xZkxB?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "18:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-15"
     }
