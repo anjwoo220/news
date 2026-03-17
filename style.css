@@ -264,9 +264,9 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .shell-met
     background: rgba(255, 255, 255, 0.78);
     border: 1px solid var(--line);
     border-radius: 20px;
-    padding: 1rem 1rem 0.95rem 1rem;
+    padding: 1rem 0.75rem 0.9rem 0.75rem;
     box-shadow: var(--shadow-soft);
-    min-height: 108px;
+    min-height: 98px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -281,10 +281,10 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .shell-met
 
 .status-card .value {
     color: var(--text);
-    font-size: 1.1rem;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 1.2;
-    margin-top: 0.65rem;
+    margin-top: 0.55rem;
 }
 
 body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-card {
@@ -693,8 +693,12 @@ div:has(> div > [data-baseweb="tab-list"]),
     }
 
     .status-card {
-        min-height: 96px;
-        padding: 0.85rem 0.85rem 0.8rem 0.85rem;
+        min-height: 92px;
+        padding: 0.75rem 0.65rem 0.7rem 0.65rem;
+    }
+
+    .status-card .value {
+        font-size: 0.95rem;
     }
 
     [data-testid="stPills"] button {
@@ -727,7 +731,7 @@ div:has(> div > [data-baseweb="tab-list"]),
 
 @media (max-width: 520px) {
     .status-dashboard {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .shell-subtitle {
