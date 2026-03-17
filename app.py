@@ -1451,7 +1451,6 @@ def render_tab_news():
                         page_label,
                         min_value=1,
                         max_value=total_pages,
-                        value=st.session_state["news_current_page"],
                         key="news_direct_page_input",
                         on_change=apply_news_page_input
                     )
