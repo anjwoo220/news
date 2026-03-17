@@ -30,7 +30,17 @@ warnings.filterwarnings("ignore", category=FutureWarning, module="google.generat
 # Suppress Streamlit Warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning, module="streamlit")
 # --------------------------------------------------------------------------------
-from db_utils import load_news_from_sheet, save_news_to_sheet, load_recent_news, load_news_by_date, load_local_news_cache, get_news_for_date
+from db_utils import (
+    load_news_from_sheet, 
+    save_news_to_sheet, 
+    load_recent_news, 
+    load_news_by_date, 
+    load_local_news_cache, 
+    load_latest_news_cache,
+    get_news_for_date,
+    LOCAL_NEWS_CACHE,
+    LATEST_NEWS_CACHE
+)
 
 # Fix SSL Certificate Issue on Mac
 os.environ["SSL_CERT_FILE"] = certifi.where()
@@ -178,43 +188,41 @@ utils.load_custom_css()
 
 # --- Helper Functions (Load/Save) ---
 # Separate cache for heavy news data
-# [OPTIMIZED] Hybrid approach: Local cache first (instant), GSheets fallback
-@st.cache_data(ttl=300)  # 5 min outer cache
-def load_news_data():
+# [OPTIMIZED] Multi-Tier Hybrid approach: 
+# 1. Latest (7d, <100ms) -> 2. Main (30d, <500ms) -> 3. Fallback (GSheets, 3-5s)
+def get_news_mtime():
+    """Helper for cache invalidation based on file modification time."""
+    try:
+        mtime_latest = os.path.getmtime(LATEST_NEWS_CACHE) if os.path.exists(LATEST_NEWS_CACHE) else 0
+        mtime_main = os.path.getmtime(LOCAL_NEWS_CACHE) if os.path.exists(LOCAL_NEWS_CACHE) else 0
+        return max(mtime_latest, mtime_main)
+    except: return 0
+
+@st.cache_data(ttl=600)  # 10 min outer cache, invalidated by mtime key
+def load_news_data(mtime_key=0):
     """
-    Hybrid news loader for fast initial load:
-    1. Try local JSON cache first (< 0.5s)
-    2. Check if local data is fresh enough (contains today's or yesterday's news)
-    3. Fall back to GSheets if local is empty or too old (8-10s)
+    Tiered news loader for instant cold start:
+    1. Try Tier 1 (latest_news.json) - Ultra fast
+    2. Try Tier 2 (news.json) - Fast 30-day cache
+    3. Fall back to GSheets if all local caches are empty or stale
     """
-    # 1. Try local cache first
-    local_data = load_local_news_cache(days=7)
-    
-    # 2. Check freshness
-    is_fresh = False
-    if local_data:
+    # --- Tier 1: Latest 7 Days ---
+    latest_data = load_latest_news_cache()
+    if latest_data:
+        # Check if "fresh enough" (contains today or yesterday)
         import pytz
         now_bkk = datetime.now(pytz.timezone('Asia/Bangkok'))
         today_str = now_bkk.strftime("%Y-%m-%d")
         yesterday_str = (now_bkk - timedelta(days=1)).strftime("%Y-%m-%d")
-        
-        # If local has today's or yesterday's news, it's "fresh enough" for fast load
-        if today_str in local_data or yesterday_str in local_data:
-            is_fresh = True
-            
-        # Also check file modification time as escape hatch
-        if not is_fresh:
-            try:
-                mtime = os.path.getmtime(LOCAL_NEWS_CACHE)
-                # If updated within last 6 hours, don't force GSheets (prevent API flood)
-                if (datetime.now().timestamp() - mtime) < 21600:
-                    is_fresh = True
-            except: pass
+        if today_str in latest_data or yesterday_str in latest_data:
+            return latest_data
 
-    if local_data and is_fresh:
-        return local_data
+    # --- Tier 2: Main 30 Days (Fallback when latest is missing or stale) ---
+    main_data = load_local_news_cache(days=30)
+    if main_data:
+        return main_data
     
-    # Fallback to GSheets (slower but always up-to-date)
+    # --- Tier 3: GSheets Fallback (Final resort) ---
     return load_recent_news(days=7)
 
 # --- Cached Wrappers for API Calls ---
@@ -3220,7 +3228,7 @@ if app_mode == "Admin Console":
             
             st.divider()
             try:
-                news_data = load_news_data()
+                news_data = load_news_data(mtime_key=get_news_mtime())
             except Exception as e:
                 st.error(f"뉴스 로드 실패: {e}")
                 news_data = {}

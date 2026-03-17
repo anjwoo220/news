@@ -12,7 +12,7 @@ FEEDS_FILE = 'data/feeds.json'
 NEWS_FILE = 'data/news.json'
 PROCESSED_URLS_FILE = 'data/processed_urls.json'
 EVENTS_FILE = 'data/events.json'
-from db_utils import SPREADSHEET_URL, load_news_from_sheet, save_news_to_sheet
+from db_utils import SPREADSHEET_URL, load_news_from_sheet, save_news_to_sheet, write_news_caches
 
 def load_json(file_path):
     if os.path.exists(file_path):
@@ -426,9 +426,9 @@ def main():
             "Aborting before writing local news cache to prevent JSON/GSheets divergence."
         )
 
-    save_json(NEWS_FILE, current_news)
-    print(f"Saved {new_topics_count} new topics to Google Sheets under key '{today_str}'")
-    print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
+    # Update all local caches (Latest 7d, Main 30d)
+    write_news_caches(current_news)
+    print(f"Saved {new_topics_count} new topics to Google Sheets and local caches under key '{today_str}'")
 
     # 7-1. Cross-post Travel News to Events
     # Filter for '여행/관광' category

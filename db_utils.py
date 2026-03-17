@@ -9,15 +9,15 @@ from datetime import datetime, timedelta
 # SPREADSHEET URL (Public/Shared)
 SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1xa6Vwpx7jhaT_YqX6n1pvh0VdLY4N277hdq3QWMNEV8/edit?usp=sharing"
 
-# Local cache file path
+# Local cache file paths
 LOCAL_NEWS_CACHE = "data/news.json"
+LATEST_NEWS_CACHE = "data/latest_news.json"
+ARCHIVE_NEWS_CACHE = "data/archive_news.json"
 
-def load_local_news_cache(days=7):
+def load_local_news_cache(days=30):
     """
-    [FAST] Loads news from local JSON file.
-    Returns only recent N days for consistency with GSheets version.
-    
-    Returns: dict { "YYYY-MM-DD": [items] } or {} if file doesn't exist
+    [MAIN] Loads news from local JSON file (data/news.json).
+    Returns only recent N days (default 30).
     """
     if not os.path.exists(LOCAL_NEWS_CACHE):
         return {}
@@ -32,10 +32,32 @@ def load_local_news_cache(days=7):
         # Filter to recent N days
         cutoff_date = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
         recent_news = {k: v for k, v in all_news.items() if k >= cutoff_date}
-        
         return recent_news
     except Exception as e:
-        print(f"Error loading local news cache: {e}")
+        print(f"Error loading main news cache: {e}")
+        return {}
+
+def load_latest_news_cache():
+    """
+    [ULTRA FAST] Loads only the most recent 7 days from latest_news.json.
+    Target load time: < 100ms.
+    """
+    if not os.path.exists(LATEST_NEWS_CACHE):
+        return {}
+    
+    try:
+        with open(LATEST_NEWS_CACHE, 'r', encoding='utf-8') as f:
+            latest_news = json.load(f)
+            
+        if not isinstance(latest_news, dict):
+            return {}
+            
+        # Optional: check if data is truly recent
+        cutoff_date = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+        recent_only = {k: v for k, v in latest_news.items() if k >= cutoff_date}
+        return recent_only
+    except Exception as e:
+        print(f"Error loading latest news cache: {e}")
         return {}
 
 # Connection Helper
@@ -256,8 +278,37 @@ def load_news_by_date(target_date):
         print(f"Error loading news for date {target_date} with SQL: {e}")
         return []
 
-# Archive cache file path
-ARCHIVE_NEWS_CACHE = "data/archive_news.json"
+def write_news_caches(news_data_dict):
+    """
+    [UNIFIED WRITER] Splits news into Latest (7d) and Main (30d) tiers and saves them.
+    """
+    try:
+        # 1. Prepare Latest (7d)
+        cutoff_latest = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
+        latest_news = {k: v for k, v in news_data_dict.items() if k >= cutoff_latest}
+        
+        # 2. Prepare Main (30d)
+        cutoff_main = (datetime.now() - timedelta(days=30)).strftime("%Y-%m-%d")
+        main_news = {k: v for k, v in news_data_dict.items() if k >= cutoff_main}
+        
+        # Ensure data dir exists
+        os.makedirs(os.path.dirname(LOCAL_NEWS_CACHE), exist_ok=True)
+        
+        # Save Latest
+        with open(LATEST_NEWS_CACHE, 'w', encoding='utf-8') as f:
+            json.dump(latest_news, f, ensure_ascii=False, indent=2)
+            
+        # Save Main
+        with open(LOCAL_NEWS_CACHE, 'w', encoding='utf-8') as f:
+            json.dump(main_news, f, ensure_ascii=False, indent=2)
+            
+        print(f"Caches updated: Latest({len(latest_news)} days), Main({len(main_news)} days)")
+        return True
+    except Exception as e:
+        print(f"Error writing news caches: {e}")
+        return False
+
+# Archive cache file path is already defined at top
 
 def get_news_for_date(target_date: str) -> list:
     """
@@ -385,6 +436,9 @@ def save_news_to_sheet(news_data_dict, worksheet="news"):
             f"rows={actual_total}, latest={expected_latest}"
         )
         
+        # Update local caches synchronously
+        write_news_caches(news_data_dict)
+
         # Clear Streamlit Cache to force reload next time
         st.cache_data.clear()
         return True
