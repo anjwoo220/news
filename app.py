@@ -543,14 +543,14 @@ def render_klook_banner():
     taxi_title = "Airport Transfer" if is_english else "공항 픽업 예약"
     taxi_desc = "No Haggling · Comfortable Ride" if is_english else "흥정 없이 · 편안하게 이동"
 
-    # --- 2. Render everything in a single responsive HTML block ---
+    # --- 2. Render everything in a single responsive HTML block (Seamless Design) ---
     st.markdown(
         f"""
-<div style="max-width: 500px; margin: 15px auto; width: 95%;">
-    <a href="{klook_main_link}" target="_blank" style="text-decoration: none;">
-        <img src="data:image/png;base64,{img_base64}" style="width: 100%; border-radius: 12px 12px 0 0; display: block;" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=1000&q=80';">
+<div style="max-width: 500px; margin: 15px auto; width: 95%; border: 1px solid #ffe0d0; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 12px rgba(255, 87, 34, 0.12); background: #fff8f5;">
+    <a href="{klook_main_link}" target="_blank" style="text-decoration: none; display: block; line-height: 0;">
+        <img src="data:image/png;base64,{img_base64}" style="width: 100%; display: block;" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=1000&q=80';">
     </a>
-    <div style="border-radius: 0 0 12px 12px; margin-top: -1px; box-shadow: 0 4px 12px rgba(255, 87, 34, 0.12); overflow: hidden; border: 1px solid #ffe0d0; background: #fff8f5; padding: 10px 12px 12px 12px;">
+    <div style="padding: 10px 12px 12px 12px;">
         <p style="color: #FF5722; font-size: 13px; margin: 0 0 8px 0; font-weight: 700; text-align: center; letter-spacing: -0.3px;">{title_text}</p>
         <div style="display: flex; gap: 8px;">
             <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="flex: 1; text-decoration: none; background: #fff; padding: 10px 6px; border-radius: 10px; text-align: center; border: 1px solid #ffe0d0; box-shadow: 0 1px 4px rgba(255,87,34,0.06);">
