@@ -13,6 +13,7 @@ SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1xa6Vwpx7jhaT_YqX6n1pv
 LOCAL_NEWS_CACHE = "data/news.json"
 LATEST_NEWS_CACHE = "data/latest_news.json"
 ARCHIVE_NEWS_CACHE = "data/archive_news.json"
+GLOBAL_MIN_NEWS_COUNT = 9000  # Safety floor to prevent catastrophic data loss
 
 def load_local_news_cache(days=30):
     """
@@ -430,6 +431,11 @@ def save_news_to_sheet(news_data_dict, worksheet="news"):
                     f"(expected {expected_latest}, got {sorted(d for d in verify_latest_dates if d)[-3:] if verify_latest_dates else []})"
                 )
                 return False
+
+        # Extra safety: check against global floor
+        if actual_total < GLOBAL_MIN_NEWS_COUNT:
+            print(f"CRITICAL ERROR: Sheet row count {actual_total} is below global floor {GLOBAL_MIN_NEWS_COUNT}. Rolling back/Aborting.")
+            return False
 
         print(
             f"Verified news sheet write: worksheet={worksheet}, "

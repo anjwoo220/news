@@ -10,6 +10,8 @@ import re
 # Files
 FEEDS_FILE = 'data/feeds.json'
 NEWS_FILE = 'data/news.json'
+LATEST_NEWS_CACHE = 'data/latest_news.json'
+ARCHIVE_NEWS_CACHE = 'data/archive_news.json'
 PROCESSED_URLS_FILE = 'data/processed_urls.json'
 EVENTS_FILE = 'data/events.json'
 from db_utils import SPREADSHEET_URL, load_news_from_sheet, save_news_to_sheet, write_news_caches
@@ -123,26 +125,41 @@ def main():
                 f"Google Sheets load status: {len(known_dates)} dates, "
                 f"{total_loaded_rows} rows, range {known_dates[0]} -> {known_dates[-1]}"
             )
-            
-            # --- [SAFETY CHECK] ---
-            # If total rows are significantly less than local cache, something is wrong with GSheets connection
-            local_cache = load_json(NEWS_FILE)
-            if local_cache:
-                local_dates = sorted(local_cache.keys())
-                local_total = sum(len(items) for items in local_cache.values())
-                
-                # If sheet has less than 80% of local cache row count, abort to prevent overwriting with partial data
-                if total_loaded_rows < (local_total * 0.8):
-                    print(f"CRITICAL WARNING: GSheets data ({total_loaded_rows}) is significantly less than local cache ({local_total}).")
-                    print("Aborting batch job to prevent data loss via overwrite.")
-                    return
-        else:
-            print("WARNING: Google Sheets returned an empty news dataset before batch processing.")
 
-        # 24-Hour Comparison Window (Only compare with the most recent day)
-        latest_date = sorted(current_news.keys(), reverse=True)[0] if current_news else None
-        if latest_date:
-            for topic in current_news[latest_date]:
+            # --- [STRICT SAFETY CHECK] ---
+            # Compare GSheets data against our local snapshots (Main 30d + Archive)
+            local_main = load_json(NEWS_FILE)
+            local_archive = load_json(ARCHIVE_NEWS_CACHE)
+            
+            # Merged count of local known data
+            local_total = 0
+            if isinstance(local_main, dict): local_total += sum(len(v) for v in local_main.values())
+            if isinstance(local_archive, dict): local_total += sum(len(v) for v in local_archive.values())
+            
+            # 1. Total Row Count Check: Must not drop significantly
+            if local_total > 5000 and total_loaded_rows < (local_total * 0.9):
+                print(f"CRITICAL ABORT: GSheets rows({total_loaded_rows}) is < 90% of local known data({local_total}).")
+                print("Likely a connection error or partial read. Aborting to prevent data loss.")
+                return
+            
+            # 2. Hard Minimum Check (Safety floor)
+            if total_loaded_rows < 9000:
+                print(f"CRITICAL ABORT: GSheets rows({total_loaded_rows}) is below safety floor (9000).")
+                return
+
+        else:
+            # Sheet is completely empty
+            local_main = load_json(NEWS_FILE)
+            if local_main and len(local_main) > 0:
+                print("CRITICAL ABORT: GSheets returned EMPTY while local cache has data. Aborting.")
+                return
+            print("WARNING: Google Sheets is empty, and local cache is also empty. Proceeding with fresh start.")
+
+        # 3-Day Comparison Window for Duplicate Prevention
+        # (Checking more than just the latest day to prevent duplicates across date boundaries)
+        recent_dates = sorted(current_news.keys(), reverse=True)[:3]
+        for r_date in recent_dates:
+            for topic in current_news[r_date]:
                 recent_titles.append(topic['title'])
                 for ref in topic.get('references', []):
                     if isinstance(ref, dict) and ref.get('title'):
