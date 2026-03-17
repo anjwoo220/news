@@ -49,3 +49,9 @@ This document records the key architectural and product decisions made during th
 - **Context**: The news update pipeline was able to commit refreshed `data/news.json` even when Google Sheets sync did not advance, causing local/deployed behavior to diverge depending on which data source was used.
 - **Decision**: Treat Google Sheets persistence as a required gate in the batch news job. If saving to Sheets fails, abort before writing the local JSON cache so the pipeline fails closed instead of publishing partial state.
 - **Consequence**: News updates are less likely to drift between JSON cache and GSheets, and sync failures should surface immediately in automation instead of becoming silent data inconsistencies.
+
+## 9. Fail-Safe Year Normalization for Thai News
+- **Status**: Decided
+- **Context**: Thai news sources often use Buddhist Era years (`25xx`, `พ.ศ.`, `B.E.`), and Gemini occasionally mistranslated them into incorrect future Gregorian years like `2069`, which then leaked into cached/localized Korean news.
+- **Decision**: Enforce a shared Python-side year sanitizer across the news pipeline. Gemini prompts should still instruct year conversion, but localized news must also pass through deterministic post-processing before being cached, displayed, or written back to Google Sheets/JSON.
+- **Consequence**: Date localization becomes more reliable even when model output drifts, and old cached articles can be repaired with the same sanitizer instead of relying on prompt quality alone.

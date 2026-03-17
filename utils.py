@@ -2287,6 +2287,115 @@ def convert_thai_year(text: str) -> str:
     # Use negative lookbehind/lookahead to match exactly 4 digits even if attached to Thai characters (since Thai script often lacks spaces)
     return re.sub(r'(?<!\d)\d{4}(?!\d)', repl, text)
 
+def sanitize_news_years(text: str, current_year: int | None = None) -> str:
+    """
+    Normalizes Thai Buddhist Era years and common Gemini year mistakes in news text.
+    """
+    if not isinstance(text, str) or not text:
+        return text
+
+    current_year = current_year or datetime.now().year
+
+    def fix_explicit_year(year_text: str) -> str:
+        year = int(year_text)
+        if 2500 <= year <= 2600:
+            return str(year - 543)
+        return year_text
+
+    def fix_mistranslated_future_year(year_text: str) -> str:
+        year = int(year_text)
+        if year <= current_year + 5:
+            return year_text
+
+        # Gemini sometimes turns Thai BE years like 2569 into 2069.
+        corrected = year - 43
+        if 2000 <= corrected <= current_year + 5:
+            return str(corrected)
+        return year_text
+
+    text = re.sub(
+        r'(?i)(?:พ\.?\s*ศ\.?|พศ|B\.?\s*E\.?|BUDDHIST\s+ERA)\s*[:.]?\s*(\d{4})',
+        lambda match: fix_explicit_year(match.group(1)),
+        text,
+    )
+
+    text = convert_thai_year(text)
+
+    suspicious_patterns = [
+        r'(?P<year>20\d{2})(?=[\-/.](?:0?[1-9]|1[0-2]|XX)(?:[\-/.](?:0?[1-9]|[12]\d|3[01]|XX))?)',
+        r'(?P<year>20\d{2})(?=\s*년\s*\d{1,2}\s*월)',
+        r'(?P<year>20\d{2})(?=\s*학년도)',
+        r'(?P<year>20\d{2})(?=\s*년도)',
+        r'(?P<year>20\d{2})(?=\s*회계\s*연도)',
+        r'(?P<year>20[6-9]\d)(?=\s*년)',
+        r'(?P<prefix>\b(?:\d+|제\d+)/)(?P<year>20\d{2})(?=(?:차|호)?[^\d]|$)',
+        r'(?P<prefix>(?:축제|페스티벌|행사)\s+)(?P<year>20\d{2})(?=[^\d]|$)',
+    ]
+
+    def replace_suspicious_year(match):
+        year_text = match.group("year")
+        fixed_year = fix_mistranslated_future_year(year_text)
+        if fixed_year == year_text:
+            return match.group(0)
+        return match.group(0).replace(year_text, fixed_year, 1)
+
+    for pattern in suspicious_patterns:
+        text = re.sub(pattern, replace_suspicious_year, text)
+
+    return text
+
+def sanitize_news_topic(topic: dict, current_year: int | None = None) -> dict:
+    """
+    Applies year normalization to the fields we display or persist for news.
+    Mutates the topic dict in place and returns it.
+    """
+    if not isinstance(topic, dict):
+        return topic
+
+    text_fields = ["title", "summary", "full_translated", "impact_reason", "collected_at"]
+    for field in text_fields:
+        value = topic.get(field)
+        if isinstance(value, str):
+            topic[field] = sanitize_news_years(value, current_year=current_year)
+
+    event_info = topic.get("event_info")
+    if isinstance(event_info, dict):
+        for key, value in event_info.items():
+            if isinstance(value, str):
+                event_info[key] = sanitize_news_years(value, current_year=current_year)
+
+    event_data = topic.get("event_data")
+    if isinstance(event_data, dict):
+        for key, value in event_data.items():
+            if isinstance(value, str):
+                event_data[key] = sanitize_news_years(value, current_year=current_year)
+
+    references = topic.get("references")
+    if isinstance(references, list):
+        for ref in references:
+            if isinstance(ref, dict):
+                ref_title = ref.get("title")
+                if isinstance(ref_title, str):
+                    ref["title"] = sanitize_news_years(ref_title, current_year=current_year)
+
+    return topic
+
+def sanitize_news_dataset(news_data_dict: dict, current_year: int | None = None) -> dict:
+    """
+    Applies news field sanitization to a dict shaped like {date: [topic, ...]}.
+    Mutates the dataset in place and returns it.
+    """
+    if not isinstance(news_data_dict, dict):
+        return news_data_dict
+
+    for items in news_data_dict.values():
+        if not isinstance(items, list):
+            continue
+        for item in items:
+            sanitize_news_topic(item, current_year=current_year)
+
+    return news_data_dict
+
 # Helper: Translate text to Korean using Gemini
 def translate_text(text: str, dest: str = "ko") -> str:
     """
@@ -2297,8 +2406,8 @@ def translate_text(text: str, dest: str = "ko") -> str:
     if not text or len(text.strip()) == 0:
         return ""
     
-    # 2. Convert Thai Buddhist year first
-    text = convert_thai_year(text)
+    # 2. Normalize Thai Buddhist year first
+    text = sanitize_news_years(text)
     
     # 3. Use Gemini
     try:
@@ -2327,6 +2436,7 @@ def translate_text(text: str, dest: str = "ko") -> str:
         - Use phonetic Hangul for names or terms if no direct translation exists (e.g., 'แดง' -> '댕').
         - The output must contain ZERO Thai script.
         - If the text is a mix of Thai and Korean, translate only the Thai parts while keeping the Korean.
+        - CRITICAL: Convert Thai Buddhist Era years to Gregorian years. Example: 2569 -> 2026. Never output wrong future years like 2069 for current Thai news dates.
         - **[SPECIFIC RULE]** 태국 정당인 'People's Party'(Phak Prachachon)를 번역할 때 '국민의힘'이라는 단어를 절대 사용하지 마세요. 반드시 '**국민당**'으로 번역하세요.
         - Output ONLY the result. No explanations.
         
@@ -2335,7 +2445,7 @@ def translate_text(text: str, dest: str = "ko") -> str:
         """
         
         response = model.generate_content(prompt)
-        translated = response.text.strip()
+        translated = sanitize_news_years(response.text.strip())
         
         # Double check: if it still has Thai, try one more time or just return it
         # But for now, the prompt should be enough.
@@ -2343,7 +2453,7 @@ def translate_text(text: str, dest: str = "ko") -> str:
         
     except Exception as e:
         print(f"Translation Error for '{text[:20]}...': {e}")
-        return text
+        return sanitize_news_years(text)
 
 
 # Helper: Check if article is within last N days
@@ -2610,7 +2720,7 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
     print(f"Starting sequential analysis for {total_items} items...")
 
     # Format existing titles for context
-    existing_context = "\n".join([f"- {t}" for t in (existing_titles or [])[:15]])
+    existing_context = "\n".join([f"- {sanitize_news_years(t)}" for t in (existing_titles or [])[:15]])
 
     for idx, item in enumerate(limited_news_items):
         print(f"[{idx+1}/{total_items}] Processing: {item['title']}...")
@@ -2618,6 +2728,8 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
         full_content = fetch_full_content(item['link'])
         if not full_content:
             full_content = clean_html(item['summary'])[:800]
+        full_content = sanitize_news_years(full_content)
+        source_title = sanitize_news_years(item['title'])
 
         # New Context-Aware Prompt
         prompt = f"""
@@ -2629,11 +2741,12 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 입력된 뉴스 기사들을 분석하여 여행자에게 필요한 정보를 선별하고 요약하세요.
 1.  **[CRITICAL] 모든 출력 텍스트(제목, 요약, 기사 전문 등)는 반드시 한국어(Korean)여야 합니다.** 태국어나 영어로 남겨두지 마세요.
 2.  **[SPECIFIC TRANSLATION]** 태국 정당인 'People's Party'(Phak Prachachon)를 번역할 때 '국민의힘'이라는 표현을 절대 사용하지 마세요. 반드시 '**국민당**'으로 번역하세요.
-3.  이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
+3.  **[CRITICAL DATE RULE]** 태국 기사에서 불기(พ.ศ./B.E.)나 25xx 연도가 나오면 반드시 서기(CE)로 변환하세요. 예: 2569 -> 2026, 2568 -> 2025. 현재 시점 뉴스 날짜에 대해 2069, 2068 같은 잘못된 미래 연도를 절대 출력하지 마세요.
+4.  이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
 
 # Input Data
 1. **Candidate News:** 
-   - Title: {item['title']}
+   - Title: {source_title}
    - Source: {item['source']}
    - Content Snippet: {full_content[:1500]}
 2. **Existing News (최근 24시간 내 이미 게시된 기사들):**
@@ -2705,6 +2818,8 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
                     # --- Python Post-Processing & Verification ---
                     filtered_topics = []
                     for topic in result['topics']:
+                        sanitize_news_topic(topic)
+
                         # 0. Sanitize Source (Emergency fix if AI failed constraints)
                         for ref in topic.get('references', []):
                             src = str(ref.get('source', '')).strip()
@@ -2725,6 +2840,8 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
                             if field in topic and is_thai(topic[field]):
                                 print(f"   -> [Safety] Missed translation in {field}, forcing manual translation...")
                                 topic[field] = translate_text(topic[field])
+
+                        sanitize_news_topic(topic)
 
                         # 2. Festival/Event Strict Mode
                         if topic.get('category') == '축제/이벤트':

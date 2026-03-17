@@ -2,7 +2,7 @@ import utils
 import json
 import os
 import time
-from db_utils import load_news_from_sheet, save_news_to_sheet
+from db_utils import ARCHIVE_NEWS_CACHE, load_news_from_sheet, save_news_to_sheet, write_news_caches
 
 def cleanup_translations():
     print("Starting translation cleanup for all existing news...")
@@ -21,8 +21,10 @@ def cleanup_translations():
         date_updated = False
         
         for item in items:
-            # Check fields
-            for field in ['title', 'summary']:
+            original_snapshot = json.dumps(item, ensure_ascii=False, sort_keys=True, default=str)
+
+            # Translate Thai fields if needed
+            for field in ['title', 'summary', 'full_translated']:
                 text = item.get(field, "")
                 if text and utils.is_thai(text):
                     print(f"  -> Translating {field}: {text[:30]}...")
@@ -43,12 +45,16 @@ def cleanup_translations():
                             # If it still has Thai characters, log it as a persistent issue
                             if utils.is_thai(translated):
                                 print(f"     ?? Still contains Thai: {translated[:30]}")
-                            else:
-                                date_updated = True
-                                updated_count += 1
                         break # Success or non-retryable failure
                     
                     time.sleep(1) # Base delay
+
+            utils.sanitize_news_topic(item)
+
+            updated_snapshot = json.dumps(item, ensure_ascii=False, sort_keys=True, default=str)
+            if updated_snapshot != original_snapshot:
+                date_updated = True
+                updated_count += 1
         
         if date_updated:
             print(f"  -> Date {date} updated with new translations.")
@@ -56,13 +62,12 @@ def cleanup_translations():
     if updated_count > 0:
         print(f"Successfully updated {updated_count} fields across the database.")
         
-        # ALWAYS save local news.json first to preserve progress
+        # Save local latest/main caches first to preserve progress
         try:
-            with open('data/news.json', 'w', encoding='utf-8') as f:
-                json.dump(news_data, f, ensure_ascii=False, indent=2)
-            print("Successfully updated local data/news.json.")
+            write_news_caches(news_data)
+            print("Successfully updated local latest/main news caches.")
         except Exception as e:
-            print(f"Failed to save local news.json: {e}")
+            print(f"Failed to save local caches: {e}")
 
         # Then attempt GSheet sync
         print("Syncing cleaned data back to Google Sheets...")
@@ -70,9 +75,28 @@ def cleanup_translations():
         if success:
             print("Successfully synced cleaned data back to Google Sheets.")
         else:
-            print("Failed to sync to Google Sheets. Progress is saved locally in data/news.json.")
+            print("Failed to sync to Google Sheets. Progress is saved locally in data/latest_news.json and data/news.json.")
     else:
         print("No Thai fields found (or all failed). Database is clean.")
+
+    if os.path.exists(ARCHIVE_NEWS_CACHE):
+        print("Checking local archive cache for year cleanup...")
+        try:
+            with open(ARCHIVE_NEWS_CACHE, 'r', encoding='utf-8') as f:
+                archive_data = json.load(f)
+
+            before_snapshot = json.dumps(archive_data, ensure_ascii=False, sort_keys=True, default=str)
+            utils.sanitize_news_dataset(archive_data)
+            after_snapshot = json.dumps(archive_data, ensure_ascii=False, sort_keys=True, default=str)
+
+            if before_snapshot != after_snapshot:
+                with open(ARCHIVE_NEWS_CACHE, 'w', encoding='utf-8') as f:
+                    json.dump(archive_data, f, ensure_ascii=False, indent=2)
+                print("Archive cache year cleanup completed.")
+            else:
+                print("Archive cache was already clean.")
+        except Exception as e:
+            print(f"Failed to sanitize archive cache: {e}")
 
 if __name__ == "__main__":
     # Ensure local directory exists

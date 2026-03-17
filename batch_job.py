@@ -368,6 +368,8 @@ def main():
     # Extract topics and append to today's list
     new_topics_count = 0
     for topic in analysis_result.get('topics', []):
+        utils.sanitize_news_topic(topic)
+
         # 1. Title Duplication Check (Strict)
         if topic['title'] in existing_today_titles:
             print(f"Skipping storage of duplicate title for today: {topic['title']}")

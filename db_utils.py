@@ -5,6 +5,7 @@ from streamlit_gsheets import GSheetsConnection
 import json
 import os
 from datetime import datetime, timedelta
+import utils
 
 # SPREADSHEET URL (Public/Shared)
 SPREADSHEET_URL = "https://docs.google.com/spreadsheets/d/1xa6Vwpx7jhaT_YqX6n1pvh0VdLY4N277hdq3QWMNEV8/edit?usp=sharing"
@@ -33,7 +34,7 @@ def load_local_news_cache(days=30):
         # Filter to recent N days
         cutoff_date = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
         recent_news = {k: v for k, v in all_news.items() if k >= cutoff_date}
-        return recent_news
+        return utils.sanitize_news_dataset(recent_news)
     except Exception as e:
         print(f"Error loading main news cache: {e}")
         return {}
@@ -56,7 +57,7 @@ def load_latest_news_cache():
         # Optional: check if data is truly recent
         cutoff_date = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
         recent_only = {k: v for k, v in latest_news.items() if k >= cutoff_date}
-        return recent_only
+        return utils.sanitize_news_dataset(recent_only)
     except Exception as e:
         print(f"Error loading latest news cache: {e}")
         return {}
@@ -137,9 +138,9 @@ def load_news_from_sheet(worksheet="news"):
                 elif isinstance(refs, str) and refs.startswith('http'):
                     clean_item['link'] = refs
 
-            news_by_date[date_str].append(clean_item)
+            news_by_date[date_str].append(utils.sanitize_news_topic(clean_item))
             
-        return news_by_date
+        return utils.sanitize_news_dataset(news_by_date)
 
     except Exception as e:
         print(f"Error loading news from sheet: {e}")
@@ -209,9 +210,9 @@ def load_recent_news(days=7):
                 if isinstance(refs, list) and refs:
                     clean_item['link'] = refs[0].get('url', "#")
 
-            news_by_date[date_str].append(clean_item)
+            news_by_date[date_str].append(utils.sanitize_news_topic(clean_item))
             
-        return news_by_date
+        return utils.sanitize_news_dataset(news_by_date)
 
     except Exception as e:
         print(f"Error loading recent news with SQL: {e}")
@@ -271,7 +272,7 @@ def load_news_by_date(target_date):
                 if isinstance(refs, list) and refs:
                     clean_item['link'] = refs[0].get('url', "#")
 
-            items.append(clean_item)
+            items.append(utils.sanitize_news_topic(clean_item))
             
         return items
 
@@ -284,6 +285,8 @@ def write_news_caches(news_data_dict):
     [UNIFIED WRITER] Splits news into Latest (7d) and Main (30d) tiers and saves them.
     """
     try:
+        news_data_dict = utils.sanitize_news_dataset(news_data_dict)
+
         # 1. Prepare Latest (7d)
         cutoff_latest = (datetime.now() - timedelta(days=7)).strftime("%Y-%m-%d")
         latest_news = {k: v for k, v in news_data_dict.items() if k >= cutoff_latest}
@@ -331,7 +334,7 @@ def get_news_for_date(target_date: str) -> list:
             with open(LOCAL_NEWS_CACHE, 'r', encoding='utf-8') as f:
                 all_news = json.load(f)
             if isinstance(all_news, dict) and target_date in all_news:
-                return all_news[target_date]
+                return [utils.sanitize_news_topic(item) for item in all_news[target_date]]
         except Exception as e:
             print(f"Error reading local cache: {e}")
     
@@ -341,7 +344,7 @@ def get_news_for_date(target_date: str) -> list:
             with open(ARCHIVE_NEWS_CACHE, 'r', encoding='utf-8') as f:
                 archive = json.load(f)
             if isinstance(archive, dict) and target_date in archive:
-                return archive[target_date]
+                return [utils.sanitize_news_topic(item) for item in archive[target_date]]
         except Exception as e:
             print(f"Error reading archive cache: {e}")
     
@@ -350,6 +353,7 @@ def get_news_for_date(target_date: str) -> list:
     
     # Step 4: 아카이브에 저장 (재조회 최적화)
     if items:
+        items = [utils.sanitize_news_topic(item) for item in items]
         try:
             archive = {}
             if os.path.exists(ARCHIVE_NEWS_CACHE):
@@ -375,6 +379,8 @@ def save_news_to_sheet(news_data_dict, worksheet="news"):
         return False
 
     try:
+        news_data_dict = utils.sanitize_news_dataset(news_data_dict)
+
         # Flatten Dict to List of Records
         all_records = []
         for date_key, items in news_data_dict.items():
