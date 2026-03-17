@@ -1056,9 +1056,26 @@ def render_tab_news():
              today_date = datetime.now(pytz.timezone('Asia/Bangkok')).date()
              max_date = max(today_date, data_max)
         
+        # Pagination & Search Helper Functions
+        def set_news_page(page_num, total_pages=None):
+            target_page = page_num
+            if total_pages is not None:
+                target_page = max(1, min(page_num, total_pages))
+            st.session_state["news_current_page"] = target_page
+            # Sync the direct input widget value
+            st.session_state["news_direct_page_input"] = target_page
+
+        def apply_news_page_input():
+            if "news_direct_page_input" in st.session_state:
+                st.session_state["news_current_page"] = st.session_state["news_direct_page_input"]
+
         # Init Session for Pagination & Search
-        if "current_page" not in st.session_state:
-            st.session_state["current_page"] = 1
+        if "news_current_page" not in st.session_state:
+            st.session_state["news_current_page"] = 1
+        if "news_direct_page_input" not in st.session_state:
+            st.session_state["news_direct_page_input"] = 1
+        if "news_last_rendered_page" not in st.session_state:
+            st.session_state["news_last_rendered_page"] = 1
         if "search_query" not in st.session_state:
             st.session_state["search_query"] = ""
         # Smart Date Init: Default to latest available date
@@ -1091,7 +1108,7 @@ def render_tab_news():
             new_date_str = new_date.strftime("%Y-%m-%d")
             if new_date_str != st.session_state["selected_date_str"]:
                 st.session_state["selected_date_str"] = new_date_str
-                st.session_state["current_page"] = 1 # Reset page
+                set_news_page(1) # Reset page
                 st.rerun()
 
         with col_nav2:
@@ -1099,13 +1116,13 @@ def render_tab_news():
             search_input = st.text_input(utils.t("search_keyword"), value=st.session_state["search_query"])
             if search_input != st.session_state["search_query"]:
                 st.session_state["search_query"] = search_input
-                st.session_state["current_page"] = 1 # Reset page
+                set_news_page(1) # Reset page
                 st.rerun()
 
         if st.session_state["search_query"]:
             if st.button(utils.t("reset_search"), width='stretch'):
                 st.session_state["search_query"] = ""
-                st.session_state["current_page"] = 1
+                set_news_page(1)
                 st.rerun()
 
         # --- Topic Preparation Logic ---
@@ -1178,13 +1195,13 @@ def render_tab_news():
         total_items = len(filtered_topics_all)
         total_pages = max(1, (total_items + ITEMS_PER_PAGE - 1) // ITEMS_PER_PAGE)
 
-        # Ensure current_page is valid
-        if st.session_state["current_page"] > total_pages:
-            st.session_state["current_page"] = total_pages
-        if st.session_state["current_page"] < 1:
-            st.session_state["current_page"] = 1
+        # Ensure news_current_page is valid
+        if st.session_state["news_current_page"] > total_pages:
+            set_news_page(total_pages, total_pages)
+        if st.session_state["news_current_page"] < 1:
+            set_news_page(1, total_pages)
         
-        start_idx = (st.session_state["current_page"] - 1) * ITEMS_PER_PAGE
+        start_idx = (st.session_state["news_current_page"] - 1) * ITEMS_PER_PAGE
         end_idx = start_idx + ITEMS_PER_PAGE
     
         # Get current page items
@@ -1192,15 +1209,15 @@ def render_tab_news():
     
         # --- 페이지 변경 시 스크롤 맨 위로 ---
         # 이전 페이지 번호와 현재 페이지 번호 비교
-        if "last_rendered_page" not in st.session_state:
-            st.session_state["last_rendered_page"] = 1
+        if "news_last_rendered_page" not in st.session_state:
+            st.session_state["news_last_rendered_page"] = 1
         
-        if st.session_state["current_page"] != st.session_state["last_rendered_page"]:
+        if st.session_state["news_current_page"] != st.session_state["news_last_rendered_page"]:
             # 페이지 번호 + timestamp로 절대 중복되지 않는 고유값 생성
             import time
-            unique_key = f"{st.session_state['current_page']}_{int(time.time() * 1000)}"
+            unique_key = f"{st.session_state['news_current_page']}_{int(time.time() * 1000)}"
             utils.scroll_to_top(key_suffix=unique_key)
-            st.session_state["last_rendered_page"] = st.session_state["current_page"]
+            st.session_state["news_last_rendered_page"] = st.session_state["news_current_page"]
 
         if topics_to_show:
              with st.expander(utils.t("share_page")):
@@ -1411,18 +1428,18 @@ def render_tab_news():
                     
                     with col_prev:
                         btn_label_prev = "⬅️ Previous" if st.session_state.get('language') == 'English' else "⬅️ 이전"
-                        if st.session_state["current_page"] > 1:
+                        if st.session_state["news_current_page"] > 1:
                             if st.button(btn_label_prev, use_container_width=True, key="p_prev"):
-                                st.session_state["current_page"] -= 1
+                                set_news_page(st.session_state["news_current_page"] - 1, total_pages)
                                 st.rerun()
                         else:
                             st.button(btn_label_prev, disabled=True, use_container_width=True, key="p_prev_dis")
                             
                     with col_next:
                         btn_label_next = "Next ➡️" if st.session_state.get('language') == 'English' else "다음 ➡️"
-                        if st.session_state["current_page"] < total_pages:
+                        if st.session_state["news_current_page"] < total_pages:
                             if st.button(btn_label_next, use_container_width=True, key="p_next"):
-                                st.session_state["current_page"] += 1
+                                set_news_page(st.session_state["news_current_page"] + 1, total_pages)
                                 st.rerun()
                         else:
                             st.button(btn_label_next, disabled=True, use_container_width=True, key="p_next_dis")
@@ -1430,16 +1447,14 @@ def render_tab_news():
                     # Row 2: Page selection input
                     st.markdown("<br>", unsafe_allow_html=True)
                     page_label = f"Jump to page (1 ~ {total_pages})" if st.session_state.get('language') == 'English' else f"페이지 이동 (1 ~ {total_pages})"
-                    new_page = st.number_input(
+                    st.number_input(
                         page_label,
                         min_value=1,
                         max_value=total_pages,
-                        value=st.session_state["current_page"],
-                        key="direct_page_input"
+                        value=st.session_state["news_current_page"],
+                        key="news_direct_page_input",
+                        on_change=apply_news_page_input
                     )
-                    if new_page != st.session_state["current_page"]:
-                        st.session_state["current_page"] = new_page
-                        st.rerun()
 
 @st.fragment
 def render_tab_taxi():
