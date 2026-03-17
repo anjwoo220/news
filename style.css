@@ -3,11 +3,11 @@
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 :root {
-    --bg: #f6efe5;
-    --bg-soft: #fbf7f1;
-    --surface: rgba(255, 252, 247, 0.92);
-    --surface-strong: #fffdf9;
-    --surface-muted: #f2e7d8;
+    --bg: #ffffff;
+    --bg-soft: #ffffff;
+    --surface: rgba(255, 255, 255, 0.94);
+    --surface-strong: #ffffff;
+    --surface-muted: #f8f9fa;
     --text: #1f2a33;
     --text-soft: #58626c;
     --text-faint: #7f8a93;
@@ -61,10 +61,7 @@ body,
 body,
 [data-testid="stAppViewContainer"] {
     color: var(--text);
-    background:
-        radial-gradient(circle at top left, rgba(217, 133, 75, 0.18), transparent 28%),
-        radial-gradient(circle at top right, rgba(28, 124, 125, 0.12), transparent 25%),
-        linear-gradient(180deg, var(--bg-soft) 0%, var(--bg) 100%);
+    background: var(--bg) !important;
 }
 
 .main .block-container {
@@ -136,8 +133,7 @@ a:hover,
 }
 
 [data-testid="stSidebar"] {
-    background:
-        linear-gradient(180deg, rgba(255, 250, 243, 0.98), rgba(245, 236, 224, 0.94));
+    background: #ffffff !important;
     border-right: 1px solid var(--line);
 }
 
@@ -152,9 +148,8 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-test
 
 /* App shell */
 .st-key-app_shell [data-testid="stVerticalBlockBorder"] {
-    background:
-        linear-gradient(140deg, rgba(255, 251, 246, 0.96), rgba(250, 240, 227, 0.86));
-    border: 1px solid rgba(217, 133, 75, 0.22);
+    background: rgba(255, 255, 255, 0.8) !important;
+    border: 1px solid rgba(217, 133, 75, 0.15);
     border-radius: 28px;
     box-shadow: var(--shadow-card);
     padding: 1.4rem 1.5rem 1.1rem 1.5rem;
