@@ -1,9 +1,5 @@
-/* ==========================================================================
-   Thai Today UI Refresh
-   Visual Direction: Warm editorial travel briefing with clean Korean-first UI
-   ========================================================================== */
-
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600&display=swap');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
 :root {
@@ -59,7 +55,7 @@ body,
 [class*="css"]:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons),
 [data-testid="stAppViewContainer"],
 [data-testid="stSidebar"] {
-    font-family: 'Noto Sans KR', 'Noto Sans Thai', sans-serif !important;
+    font-family: 'Pretendard Variable', 'Pretendard', 'Noto Sans KR', 'Noto Sans Thai', sans-serif !important;
 }
 
 body,
@@ -83,10 +79,10 @@ h3,
 .stHeading h1,
 .stHeading h2,
 .stHeading h3 {
-    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-family: 'Pretendard Variable', 'Pretendard', sans-serif !important;
     color: var(--text) !important;
-    letter-spacing: -0.02em;
-    line-height: 1.08;
+    letter-spacing: -0.04em;
+    line-height: 1.1;
 }
 
 h1 {
@@ -202,7 +198,7 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .shell-eye
 }
 
 .shell-title {
-    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-family: 'Pretendard Variable', 'Pretendard', sans-serif !important;
     font-size: clamp(2.2rem, 4vw, 3.5rem);
     line-height: 0.95;
     margin: 0;
@@ -317,7 +313,7 @@ body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-ca
 }
 
 .section-heading .title {
-    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-family: 'Pretendard Variable', 'Pretendard', sans-serif !important;
     font-size: clamp(1.5rem, 2vw, 2.2rem);
     line-height: 1;
     color: var(--text);
@@ -472,7 +468,7 @@ button[disabled]:hover {
 }
 
 .news-card h3 {
-    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-family: 'Pretendard Variable', 'Pretendard', sans-serif !important;
     font-size: 1.65rem;
     line-height: 1.02;
     margin: 0 0 0.75rem 0;
