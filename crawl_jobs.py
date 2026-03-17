@@ -175,9 +175,9 @@ def crawl_kyominthai(max_pages=1):
                 title = link_tag.get_text(strip=True)
                 href = link_tag.get("href", "")
 
-                # 절대 URL 변환
+                # 절대 URL 변환 (기존 /sub/ 가 포함되어 있으면 도메인만 붙임)
                 if href and not href.startswith("http"):
-                    href = "http://kyominthai.com/sub/" + href
+                    href = "http://kyominthai.com" + href
 
                 # 날짜 추출: h2 다음의 p 태그 또는 특정 클래스
                 date_text = ""
@@ -602,7 +602,20 @@ def fetch_detail_content(url, max_chars=2000):
     
     try:
         resp = requests.get(url, headers=HEADERS, timeout=10)
+        
+        # 4xx, 5xx 에러인 경우 빈 값 반환
+        if resp.status_code >= 400:
+            print(f"    상세 페이지 접근 실패 (Status {resp.status_code}): {url}")
+            return "", []
+
         resp.encoding = "utf-8"
+        
+        # 페이지 내용에 404나 '찾을 수 없습니다'와 같은 문구가 지배적인지 확인
+        error_keywords = ["요청하신 URL을 찾을 수 없습니다", "페이지를 찾을 수 없습니다", "404 Not Found", "Object not found"]
+        if any(kw in resp.text for kw in error_keywords) and len(resp.text) < 5000:
+            print(f"    상세 페이지 오류 문구 감지: {url}")
+            return "", []
+
         soup = BeautifulSoup(resp.text, "html.parser")
 
         # 사람인의 경우 본문이 iframe 안에 숨겨져 있음
@@ -772,13 +785,23 @@ def summarize_with_gemini(jobs, api_key):
             if isinstance(parsed, list) and len(parsed) > 0:
                 parsed = parsed[0]
                 
+            # 요약 결과가 '알 수 없음'이나 '시스템 오류' 등 무의미한 정보면 제외
+            summary = parsed.get("업무요약", "")
+            qual = parsed.get("자격요건", "")
+            
+            invalid_keywords = ["알 수 없음", "정보 없음", "찾을 수 없습니다", "확인할 수 없습니다", "시스템 오류"]
+            if any(kw in summary for kw in invalid_keywords) and any(kw in qual for kw in invalid_keywords):
+                print(f"    - [요약 품질 미달로 제외] {job['직무명']}")
+                continue
+
             job["카테고리"] = parsed.get("카테고리", "기타")
             job["직무명"] = parsed.get("직무명", job["직무명"])
             job["회사명"] = parsed.get("회사명", job["회사명"]) or job["회사명"]
             job["급여"] = parsed.get("급여", "협의")
             job["위치"] = parsed.get("위치", "태국")
-            job["업무요약"] = parsed.get("업무요약", "")
-            job["자격요건"] = parsed.get("자격요건", "")
+            job["업무요약"] = summary
+            job["자격요건"] = qual
+            
             # 게시일: Gemini가 찾은 값 우선, 없으면 크롤러에서 추출한 값
             gemini_date = parsed.get("게시일", "")
             if gemini_date:

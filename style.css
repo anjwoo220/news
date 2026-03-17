@@ -1,655 +1,634 @@
-/* ==============================================================================
-   Thai-Today.com Custom Styles
-   Design Spec: Premium Thai Travel Information Platform
-   Colors: Royal Gold (#D4AF37), Deep Silk Purple (#4B0082), Charcoal (#2D2D2D)
-   ============================================================================== */
+/* ==========================================================================
+   Thai Today UI Refresh
+   Visual Direction: Warm editorial travel briefing with clean Korean-first UI
+   ========================================================================== */
 
-/* --- 1. Google Fonts Import --- */
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Kanit:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Noto+Sans+KR:wght@400;500;600;700&family=Noto+Sans+Thai:wght@400;500;600&display=swap');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
 
-/* --- 2. Typography --- */
+:root {
+    --bg: #f6efe5;
+    --bg-soft: #fbf7f1;
+    --surface: rgba(255, 252, 247, 0.92);
+    --surface-strong: #fffdf9;
+    --surface-muted: #f2e7d8;
+    --text: #1f2a33;
+    --text-soft: #58626c;
+    --text-faint: #7f8a93;
+    --line: rgba(31, 42, 51, 0.12);
+    --line-strong: rgba(31, 42, 51, 0.2);
+    --brand: #d9854b;
+    --brand-strong: #b9622a;
+    --brand-soft: rgba(217, 133, 75, 0.14);
+    --accent: #1c7c7d;
+    --accent-soft: rgba(28, 124, 125, 0.12);
+    --success: #2f8f64;
+    --danger: #b85946;
+    --shadow-soft: 0 12px 30px rgba(75, 56, 35, 0.08);
+    --shadow-card: 0 20px 40px rgba(75, 56, 35, 0.1);
+    --radius-lg: 26px;
+    --radius-md: 18px;
+    --radius-sm: 12px;
+}
+
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]),
+[data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
+    --bg: #10181f;
+    --bg-soft: #162029;
+    --surface: rgba(22, 32, 41, 0.92);
+    --surface-strong: rgba(19, 29, 37, 0.98);
+    --surface-muted: #1a2731;
+    --text: #f4efe7;
+    --text-soft: #c1b8ac;
+    --text-faint: #90867b;
+    --line: rgba(244, 239, 231, 0.09);
+    --line-strong: rgba(244, 239, 231, 0.16);
+    --brand: #f0a35c;
+    --brand-strong: #ffbd80;
+    --brand-soft: rgba(240, 163, 92, 0.16);
+    --accent: #63c0b7;
+    --accent-soft: rgba(99, 192, 183, 0.16);
+    --success: #5cc18f;
+    --danger: #ef8d76;
+    --shadow-soft: 0 14px 32px rgba(0, 0, 0, 0.28);
+    --shadow-card: 0 22px 44px rgba(0, 0, 0, 0.3);
+}
+
+html,
+body,
+[class*="css"]:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons),
+[data-testid="stAppViewContainer"],
+[data-testid="stSidebar"] {
+    font-family: 'Noto Sans KR', 'Noto Sans Thai', sans-serif !important;
+}
+
+body,
+[data-testid="stAppViewContainer"] {
+    color: var(--text);
+    background:
+        radial-gradient(circle at top left, rgba(217, 133, 75, 0.18), transparent 28%),
+        radial-gradient(circle at top right, rgba(28, 124, 125, 0.12), transparent 25%),
+        linear-gradient(180deg, var(--bg-soft) 0%, var(--bg) 100%);
+}
+
+.main .block-container {
+    max-width: 1180px;
+    padding-top: 1.2rem !important;
+    padding-bottom: 5rem !important;
+}
+
 h1,
 h2,
 h3,
 .stHeading h1,
 .stHeading h2,
 .stHeading h3 {
-    font-family: 'Playfair Display', Georgia, serif !important;
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    color: var(--text) !important;
     letter-spacing: -0.02em;
-    line-height: 1.3;
+    line-height: 1.08;
 }
 
-/* --- 2.1 Hide Streamlit Header Anchor Links (🔗) --- */
-[data-testid="stHeaderActionElements"] {
-    display: none !important;
+h1 {
+    font-size: clamp(2.1rem, 4vw, 3.4rem);
 }
 
+h2 {
+    font-size: clamp(1.6rem, 3vw, 2.3rem);
+}
+
+h3 {
+    font-size: clamp(1.28rem, 2vw, 1.7rem);
+}
+
+p,
+li,
+label,
+input,
+textarea,
+button,
+span,
+a {
+    color: var(--text);
+}
+
+[data-testid="stHeaderActionElements"],
 .stMarkdown h1 a,
 .stMarkdown h2 a,
 .stMarkdown h3 a,
 .stMarkdown h4 a,
 .stMarkdown h5 a,
-.stMarkdown h6 a {
-    display: none !important;
-    pointer-events: none !important;
-    text-decoration: none !important;
-}
-
-/* Hide legacy anchor links if any */
+.stMarkdown h6 a,
 .anchorjs-link {
     display: none !important;
 }
 
-/* Standard elements override - Modified to exclude Material Icons and Streamlit Icons */
-body,
-p,
-div:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons),
-span:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons),
-li,
-a,
-label,
-input,
-textarea,
-button,
-[class*="css"]:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons) {
-    font-family: 'Kanit', 'Noto Sans Thai', sans-serif !important;
-}
-
-/* Ensure Material Icons font is applied correctly */
 .material-icons {
     font-family: 'Material Icons' !important;
-    font-weight: normal;
-    font-style: normal;
-    font-size: 24px;
-    line-height: 1;
-    letter-spacing: normal;
-    text-transform: none;
-    display: inline-block;
-    white-space: nowrap;
-    word-wrap: normal;
-    direction: ltr;
-    -webkit-font-smoothing: antialiased;
 }
 
-/* --- 3. Glassmorphism Card --- */
-.glass-card {
-    background: rgba(255, 255, 255, 0.7);
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.1);
-    border-radius: 16px;
-    padding: 20px;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    margin-bottom: 16px;
-}
-
-.glass-card:hover {
-    transform: scale(1.02);
-    box-shadow: 0 12px 40px 0 rgba(31, 38, 135, 0.15);
-}
-
-/* Dark Mode Glass Card */
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .glass-card {
-    background: rgba(30, 30, 40, 0.7);
-    border: 1px solid rgba(100, 100, 120, 0.3);
-}
-
-/* --- 4. Hero Section --- */
-.hero-section {
-    position: relative;
-    width: 100%;
-    min-height: 300px;
-    border-radius: 20px;
-    overflow: hidden;
-    margin-bottom: 24px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    text-align: center;
-}
-
-.hero-section::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: linear-gradient(135deg,
-            rgba(45, 45, 45, 0.8) 0%,
-            rgba(75, 0, 130, 0.6) 50%,
-            rgba(212, 175, 55, 0.4) 100%);
-    z-index: 1;
-}
-
-.hero-section img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    z-index: 0;
-}
-
-.hero-content {
-    position: relative;
-    z-index: 2;
-    color: white;
-    padding: 40px 20px;
-}
-
-.hero-content h1 {
-    font-family: 'Playfair Display', Georgia, serif !important;
-    font-size: 2.8rem;
-    font-weight: 700;
-    color: white !important;
-    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.4);
-    margin-bottom: 12px;
-}
-
-.hero-content p {
-    font-family: 'Kanit', sans-serif !important;
-    font-size: 1.2rem;
-    color: rgba(255, 255, 255, 0.9);
-    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
-}
-
-/* Mobile Hero */
-@media (max-width: 768px) {
-    .hero-section {
-        min-height: 200px;
-        border-radius: 16px;
-    }
-
-    .hero-content h1 {
-        font-size: 1.8rem;
-    }
-
-    .hero-content p {
-        font-size: 1rem;
-    }
-}
-
-/* --- 5. Button Styling --- */
-/* Primary Buttons - Royal Gold Capsule */
-button[kind="primary"] {
-    background-color: transparent !important;
-    color: #D4AF37 !important;
-    border: 2px solid #D4AF37 !important;
-    border-radius: 25px !important;
-    /* Capsule style */
-    padding: 6px 20px !important;
-    font-family: 'Kanit', sans-serif !important;
-    font-weight: 500 !important;
-    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275) !important;
-}
-
-button[kind="primary"]:hover {
-    background-color: #4B0082 !important;
-    color: white !important;
-    border-color: #4B0082 !important;
-    transform: translateY(-2px);
-}
-
-/* Secondary/Ghost Buttons */
-button[kind="secondary"] {
-    background-color: transparent !important;
-    color: #2D2D2D !important;
-    border: 1px solid #ccc !important;
-}
-
-button[kind="secondary"]:hover {
-    background-color: #4B0082 !important;
-    color: white !important;
-    border-color: #4B0082 !important;
-}
-
-/* --- 6. Category Tags --- */
-.category-tag {
-    display: inline-block;
-    background-color: #D4AF37;
-    color: #2D2D2D;
-    font-family: 'Kanit', sans-serif;
-    font-size: 0.75rem;
-    font-weight: 600;
-    padding: 4px 14px;
-    border-radius: 50px;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    margin-bottom: 8px;
-}
-
-/* Tag Variants */
-.category-tag.travel {
-    background-color: #D4AF37;
-    color: #2D2D2D;
-}
-
-.category-tag.food {
-    background-color: #FF6B6B;
-    color: white;
-}
-
-.category-tag.safety {
-    background-color: #4B0082;
-    color: white;
-}
-
-.category-tag.economy {
-    background-color: #00B894;
-    color: white;
-}
-
-/* --- 7. Sidebar Styling --- */
-[data-testid="stSidebar"] {
-    background-color: #F5F5F5;
-    border-right: 1px solid #E0E0E0;
-}
-
-[data-testid="stSidebar"] [data-testid="stMarkdown"] h3 {
-    font-family: 'Playfair Display', Georgia, serif !important;
-    color: #D4AF37 !important;
-    border-bottom: 2px solid #D4AF37;
-    padding-bottom: 8px;
-}
-
-/* Dark Mode Sidebar */
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stSidebar"] {
-    background-color: #1E1E28;
-    border-right: 1px solid #333;
-}
-
-/* --- 8. News Card Specific Styles --- */
-.news-card {
-    background: rgba(255, 255, 255, 0.85);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    border: 1px solid rgba(212, 175, 55, 0.2);
-    border-radius: 16px;
-    padding: 20px;
-    margin-bottom: 16px;
-    transition: all 0.3s ease;
-}
-
-.news-card:hover {
-    transform: translateY(-4px);
-    box-shadow: 0 16px 48px rgba(212, 175, 55, 0.15);
-    border-color: #D4AF37;
-}
-
-.news-card h3 {
-    font-family: 'Playfair Display', Georgia, serif !important;
-    font-size: 1.25rem;
-    color: #2D2D2D;
-    margin-bottom: 8px;
-}
-
-.news-card p {
-    font-family: 'Kanit', sans-serif !important;
-    color: #555;
-    font-size: 0.95rem;
-    line-height: 1.6;
-    white-space: pre-wrap;
-    /* Preserve line breaks and bullet points */
-    word-break: break-word;
-}
-
-/* Dark Mode News Card */
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .news-card {
-    background: rgba(30, 30, 40, 0.85);
-    border-color: rgba(212, 175, 55, 0.3);
-}
-
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .news-card h3 {
-    color: #FAFAFA;
-}
-
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .news-card p {
-    color: #CCC;
-}
-
-/* --- 9. Link Styling --- */
-a {
-    color: #D4AF37;
+a,
+.stMarkdown a {
+    color: var(--accent);
     text-decoration: none;
-    transition: color 0.2s ease;
 }
 
-a:hover {
-    color: #4B0082;
+a:hover,
+.stMarkdown a:hover {
+    color: var(--brand-strong);
     text-decoration: underline;
 }
 
-/* --- 10. Expander / Accordion Styling --- */
-[data-testid="stExpander"] {
-    border: 1px solid rgba(212, 175, 55, 0.3);
-    border-radius: 12px;
+[data-testid="stSidebar"] {
+    background:
+        linear-gradient(180deg, rgba(255, 250, 243, 0.98), rgba(245, 236, 224, 0.94));
+    border-right: 1px solid var(--line);
+}
+
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stSidebar"] {
+    background: linear-gradient(180deg, rgba(19, 29, 37, 0.98), rgba(16, 24, 31, 0.94));
+}
+
+[data-testid="stSidebar"] h3,
+[data-testid="stSidebar"] h4 {
+    color: var(--text) !important;
+}
+
+/* App shell */
+.st-key-app_shell [data-testid="stVerticalBlockBorder"] {
+    background:
+        linear-gradient(140deg, rgba(255, 251, 246, 0.96), rgba(250, 240, 227, 0.86));
+    border: 1px solid rgba(217, 133, 75, 0.22);
+    border-radius: 28px;
+    box-shadow: var(--shadow-card);
+    padding: 1.4rem 1.5rem 1.1rem 1.5rem;
     overflow: hidden;
+    position: relative;
 }
 
-[data-testid="stExpander"] summary {
-    font-family: 'Kanit', sans-serif !important;
-    font-weight: 500;
+.st-key-app_shell [data-testid="stVerticalBlockBorder"]::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background:
+        radial-gradient(circle at 18% 20%, rgba(217, 133, 75, 0.18), transparent 24%),
+        radial-gradient(circle at 86% 10%, rgba(28, 124, 125, 0.12), transparent 22%);
+    pointer-events: none;
 }
 
-/* --- 11. Metric Cards --- */
-[data-testid="stMetric"] {
-    background: rgba(255, 255, 255, 0.6);
-    backdrop-filter: blur(8px);
-    border-radius: 12px;
-    padding: 16px;
-    border: 1px solid rgba(212, 175, 55, 0.2);
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .st-key-app_shell [data-testid="stVerticalBlockBorder"] {
+    background:
+        linear-gradient(145deg, rgba(22, 32, 41, 0.97), rgba(20, 29, 37, 0.92));
+    border-color: rgba(240, 163, 92, 0.18);
 }
 
-[data-testid="stMetricValue"] {
-    color: #D4AF37 !important;
+.shell-eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.66);
+    border: 1px solid rgba(217, 133, 75, 0.24);
+    color: var(--brand-strong);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    padding: 0.42rem 0.8rem;
+    margin-bottom: 0.9rem;
+}
+
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .shell-eyebrow {
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.shell-title {
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-size: clamp(2.2rem, 4vw, 3.5rem);
+    line-height: 0.95;
+    margin: 0;
+    color: var(--text);
+}
+
+.shell-subtitle {
+    color: var(--text-soft);
+    font-size: 0.98rem;
+    line-height: 1.65;
+    margin: 0.75rem 0 0 0;
+    max-width: 56ch;
+}
+
+.shell-meta-strip {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin-top: 1rem;
+}
+
+.shell-meta-pill {
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--text-soft);
+    font-size: 0.84rem;
     font-weight: 600;
+    padding: 0.45rem 0.8rem;
 }
 
-/* --- 12. Input Fields --- */
-input,
-textarea {
-    border: 1px solid #E0E0E0 !important;
-    border-radius: 8px !important;
-    font-family: 'Kanit', sans-serif !important;
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .shell-meta-pill {
+    background: rgba(255, 255, 255, 0.04);
 }
 
-input:focus,
-textarea:focus {
-    border-color: #D4AF37 !important;
-    box-shadow: 0 0 0 2px rgba(212, 175, 55, 0.2) !important;
+.st-key-app_shell .stToggle,
+.st-key-app_shell [data-testid="stPills"],
+.st-key-app_shell [data-testid="stButtonGroup"] {
+    position: relative;
+    z-index: 1;
 }
 
-/* --- 13. Divider / Horizontal Rule --- */
-hr {
-    border: none;
-    height: 1px;
-    background: linear-gradient(90deg, transparent, #D4AF37, transparent);
-    margin: 24px 0;
+.st-key-app_shell .stToggle {
+    margin-top: 0.15rem;
 }
 
-/* --- 14. Scrollbar Styling --- */
-::-webkit-scrollbar {
-    width: 8px;
-    height: 8px;
+.st-key-app_shell .stToggle label p,
+.st-key-app_shell div[data-testid="stWidgetLabel"] p {
+    font-size: 0.82rem !important;
+    color: var(--text-soft) !important;
+    font-weight: 600 !important;
 }
 
-::-webkit-scrollbar-track {
-    background: #F0F2F6;
+.st-key-app_shell [data-testid="stCheckbox"] label,
+.st-key-app_shell [data-testid="stCheckbox"] p {
+    color: var(--text-soft) !important;
 }
 
-::-webkit-scrollbar-thumb {
-    background: #D4AF37;
-    border-radius: 4px;
+/* Status dashboard */
+.status-dashboard {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0.8rem;
+    margin: 1rem 0 0.2rem 0;
 }
 
-::-webkit-scrollbar-thumb:hover {
-    background: #4B0082;
-}
-
-/* ==============================================================================
-   15. Status Dashboard Cards (Mobile-First Design)
-   ============================================================================== */
-
-/* --- Status Card Base Style --- */
 .status-card {
-    background: rgba(255, 255, 255, 0.6);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    border-radius: 12px;
-    padding: 12px 10px;
-    text-align: center;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    border: 1px solid rgba(212, 175, 55, 0.15);
-    transition: transform 0.2s ease;
-}
-
-.status-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.78);
+    border: 1px solid var(--line);
+    border-radius: 20px;
+    padding: 1rem 1rem 0.95rem 1rem;
+    box-shadow: var(--shadow-soft);
+    min-height: 108px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .status-card .label {
-    font-size: 0.8rem;
-    color: #666;
-    font-family: 'Kanit', sans-serif;
-    margin-bottom: 4px;
-    display: block;
+    color: var(--text-faint);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
 }
 
 .status-card .value {
+    color: var(--text);
     font-size: 1.1rem;
-    color: #2D2D2D;
-    font-weight: bold;
-    font-family: 'Kanit', sans-serif;
+    font-weight: 700;
+    line-height: 1.2;
+    margin-top: 0.65rem;
 }
 
-/* Dark Mode Status Card */
 body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-card {
-    background: rgba(30, 30, 40, 0.6);
-    border: 1px solid rgba(100, 100, 120, 0.3);
+    background: rgba(255, 255, 255, 0.04);
 }
 
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-card .label {
-    color: #AAA;
+/* Section headings */
+.section-heading {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    margin: 1.2rem 0 0.8rem 0;
 }
 
-body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .status-card .value {
-    color: #FFF;
+.section-heading .kicker {
+    color: var(--brand-strong);
+    font-size: 0.76rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
 }
 
-/* --- Status Dashboard Grid --- */
-.status-dashboard {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 12px;
-    margin-bottom: 20px;
-    padding: 0 4px;
+.section-heading .title {
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-size: clamp(1.5rem, 2vw, 2.2rem);
+    line-height: 1;
+    color: var(--text);
+    margin: 0;
 }
 
-/* ==============================================================================
-   16. Mobile-First Responsive Design (max-width: 768px)
-   ============================================================================== */
-
-@media only screen and (max-width: 768px) {
-
-    /* A. Hero Section Mobile Optimization */
-    .hero-section {
-        min-height: 180px !important;
-        border-radius: 12px;
-        margin-bottom: 16px;
-    }
-
-    .hero-content {
-        padding: 1.5rem 1rem;
-    }
-
-    .hero-content h1 {
-        font-size: 1.6rem !important;
-        line-height: 1.2;
-    }
-
-    .hero-content p {
-        font-size: 0.9rem !important;
-    }
-
-    /* B. Status Dashboard - 2x2 Grid on Mobile */
-    .status-dashboard {
-        grid-template-columns: repeat(2, 1fr) !important;
-        gap: 8px !important;
-        margin-bottom: 16px;
-    }
-
-    .status-card {
-        padding: 10px 8px !important;
-    }
-
-    .status-card .label {
-        font-size: 0.7rem !important;
-    }
-
-    .status-card .value {
-        font-size: 0.95rem !important;
-    }
-
-    /* C. Reduce Block Container Padding */
-    .main .block-container {
-        padding-top: 1rem !important;
-        padding-left: 0.5rem !important;
-        padding-right: 0.5rem !important;
-        padding-bottom: 80px !important;
-    }
-
-    /* D. News Cards Mobile Optimization */
-    .news-card,
-    .glass-card {
-        padding: 14px !important;
-        margin-bottom: 12px !important;
-        border-radius: 12px !important;
-    }
-
-    .news-card h3 {
-        font-size: 1.1rem !important;
-    }
-
-    .news-card p {
-        font-size: 0.9rem !important;
-        line-height: 1.5 !important;
-    }
-
-    /* E. Category Tags Mobile */
-    .category-tag {
-        font-size: 0.65rem !important;
-        padding: 3px 10px !important;
-    }
-
-    /* F. Streamlit Column Gap Reduction */
-    [data-testid="stHorizontalBlock"] {
-        gap: 8px !important;
-    }
-
-    /* G. Expander Mobile Optimization */
-    [data-testid="stExpander"] {
-        margin-bottom: 8px !important;
-    }
-
-    [data-testid="stExpander"] summary {
-        font-size: 0.9rem !important;
-        padding: 10px !important;
-    }
-
-    /* H. Hide Sidebar on Mobile */
-    [data-testid="stSidebar"] {
-        display: none !important;
-    }
-
-    /* I. Optimize Images - Fix cropping */
-    .news-card img {
-        max-height: 350px !important;
-        /* Allow more height */
-        object-fit: contain !important;
-        /* Show whole image */
-        background-color: #f0f0f0;
-        /* Fallback background for transparent/smaller images */
-        border-radius: 10px !important;
-    }
-
-    /* J. Form Elements Mobile Optimization */
-    .stTextInput input,
-    .stDateInput input,
-    .stSelectbox [data-baseweb="select"] {
-        font-size: 16px !important;
-        /* Prevent iOS zoom-on-focus */
-        border-radius: 10px !important;
-        border: 1px solid rgba(212, 175, 55, 0.3) !important;
-    }
-
-    .stTextInput label,
-    .stDateInput label,
-    .stSelectbox label {
-        font-size: 0.85rem !important;
-        font-family: 'Kanit', sans-serif !important;
-        margin-bottom: 2px !important;
-    }
-
-    /* K. Pills / Chips Mobile Carousel */
-    [data-testid="stPills"] {
-        padding: 5px 0 !important;
-    }
-
-    [data-testid="stPills"] button {
-        font-size: 0.85rem !important;
-        padding: 4px 12px !important;
-        border-radius: 20px !important;
-        transition: all 0.2s ease !important;
-    }
-
-    /* Unselected Pill: Add visible border to prevent "invisible" buttons on white/light/popover BGs */
-    div[data-testid="stPills"] button[aria-selected="false"] {
-        border: 1px solid #d1d5db !important;
-        background-color: #ffffff !important;
-        color: #555 !important;
-    }
-
-    /* Dark Mode Unselected Pill */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stPills"] button[aria-selected="false"] {
-        border: 1px solid #444 !important;
-        background-color: #1e1e28 !important;
-        color: #ccc !important;
-    }
-
-    /* Selected Pill Override for visibility */
-    div[data-testid="stPills"] button[aria-selected="true"] {
-        border: 1px solid #D4AF37 !important;
-        background-color: #D4AF37 !important;
-        color: #1e1e28 !important;
-    }
+/* Navigation */
+.st-key-primary_nav {
+    margin-top: 1rem;
+    margin-bottom: 1.2rem;
 }
 
-/* ==============================================================================
-   17. Small Mobile Devices (max-width: 480px)
-   ============================================================================== */
-
-@media only screen and (max-width: 480px) {
-    .hero-section {
-        min-height: 150px !important;
-    }
-
-    .hero-content h1 {
-        font-size: 1.4rem !important;
-    }
-
-    .status-card .value {
-        font-size: 0.85rem !important;
-    }
-
-    .news-card h3 {
-        font-size: 1rem !important;
-    }
+.st-key-primary_nav > div {
+    background: rgba(255, 252, 247, 0.72);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 0.4rem;
+    box-shadow: var(--shadow-soft);
 }
 
-/* ==============================================================================
-   18. Admin Tabs Styling (Compact for Many Tabs)
-   ============================================================================== */
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .st-key-primary_nav > div {
+    background: rgba(255, 255, 255, 0.04);
+}
 
-/* 탭 버튼 스타일 강제 조정 */
+[data-testid="stPills"] {
+    padding: 0 !important;
+}
+
+[data-testid="stPills"] button {
+    border-radius: 999px !important;
+    min-height: 42px !important;
+    padding: 0.55rem 1rem !important;
+    border: 1px solid transparent !important;
+    background: transparent !important;
+    color: var(--text-soft) !important;
+    font-size: 0.93rem !important;
+    font-weight: 700 !important;
+    transition: all 0.18s ease !important;
+}
+
+[data-testid="stPills"] button:hover {
+    border-color: var(--line) !important;
+    color: var(--text) !important;
+    background: rgba(255, 255, 255, 0.55) !important;
+}
+
+div[data-testid="stPills"] button[aria-selected="true"],
+div[data-testid="stPills"] button[data-selected="true"],
+button[data-testid="stBaseButton-pillsActive"] {
+    background: linear-gradient(135deg, var(--brand), var(--brand-strong)) !important;
+    color: #fffaf4 !important;
+    box-shadow: 0 10px 18px rgba(185, 98, 42, 0.22) !important;
+}
+
+div[data-testid="stPills"] button[aria-selected="true"] *,
+div[data-testid="stPills"] button[data-selected="true"] *,
+button[data-testid="stBaseButton-pillsActive"] * {
+    color: #fffaf4 !important;
+}
+
+/* Inputs and buttons */
+input,
+textarea,
+.stTextInput input,
+.stDateInput input,
+div[data-baseweb="select"] > div {
+    background: rgba(255, 255, 255, 0.7) !important;
+    border: 1px solid var(--line) !important;
+    border-radius: 14px !important;
+    color: var(--text) !important;
+}
+
+input:focus,
+textarea:focus,
+.stTextInput input:focus,
+.stDateInput input:focus,
+div[data-baseweb="select"]:focus-within > div {
+    border-color: rgba(217, 133, 75, 0.52) !important;
+    box-shadow: 0 0 0 3px rgba(217, 133, 75, 0.14) !important;
+}
+
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) input,
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) textarea,
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="select"] > div {
+    background: rgba(255, 255, 255, 0.04) !important;
+}
+
+button[kind="primary"],
+a[data-testid="stLinkButton"][kind="primary"] {
+    background: linear-gradient(135deg, var(--brand), var(--brand-strong)) !important;
+    color: #fffaf4 !important;
+    border: none !important;
+    border-radius: 999px !important;
+    box-shadow: 0 14px 22px rgba(185, 98, 42, 0.22) !important;
+    font-weight: 700 !important;
+}
+
+button[kind="primary"]:hover,
+a[data-testid="stLinkButton"][kind="primary"]:hover {
+    filter: brightness(1.04);
+    transform: translateY(-1px);
+}
+
+button[kind="secondary"],
+a[data-testid="stLinkButton"][kind="secondary"] {
+    background: rgba(255, 255, 255, 0.62) !important;
+    color: var(--text) !important;
+    border: 1px solid var(--line-strong) !important;
+    border-radius: 999px !important;
+}
+
+button[kind="secondary"]:hover,
+a[data-testid="stLinkButton"][kind="secondary"]:hover {
+    border-color: rgba(217, 133, 75, 0.42) !important;
+    color: var(--brand-strong) !important;
+}
+
+button[disabled],
+button[disabled]:hover {
+    opacity: 0.72 !important;
+    transform: none !important;
+}
+
+/* Cards */
+.glass-card,
+.news-card,
+[data-testid="stVerticalBlockBorder"],
+[data-testid="stMetric"] {
+    border-radius: 20px !important;
+}
+
+.glass-card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow-soft);
+    padding: 1.1rem;
+}
+
+.news-card {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    box-shadow: var(--shadow-soft);
+    padding: 1.25rem;
+    margin-bottom: 0.9rem;
+    transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+
+.news-card:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-card);
+    border-color: rgba(217, 133, 75, 0.34);
+}
+
+.news-card h3 {
+    font-family: 'Cormorant Garamond', Georgia, serif !important;
+    font-size: 1.65rem;
+    line-height: 1.02;
+    margin: 0 0 0.75rem 0;
+    color: var(--text);
+}
+
+.news-card p {
+    color: var(--text-soft);
+    font-size: 0.97rem;
+    line-height: 1.72;
+    white-space: pre-wrap;
+}
+
+.card-meta-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+    margin-bottom: 0.85rem;
+}
+
+.card-meta-time {
+    color: var(--text-faint);
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.news-card img {
+    width: 100%;
+    border-radius: 16px;
+    margin: 0.2rem 0 0.9rem 0;
+    max-height: 400px;
+    object-fit: cover;
+    background: var(--surface-muted);
+}
+
+.category-tag {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    padding: 0.36rem 0.8rem;
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    background: var(--brand-soft);
+    color: var(--brand-strong);
+    border: 1px solid rgba(217, 133, 75, 0.2);
+}
+
+.category-tag.travel {
+    background: rgba(217, 133, 75, 0.16);
+    color: var(--brand-strong);
+}
+
+.category-tag.food {
+    background: rgba(185, 89, 70, 0.14);
+    color: var(--danger);
+}
+
+.category-tag.safety {
+    background: rgba(28, 124, 125, 0.14);
+    color: var(--accent);
+}
+
+.category-tag.economy {
+    background: rgba(47, 143, 100, 0.14);
+    color: var(--success);
+}
+
+/* Expanders and metrics */
+[data-testid="stExpander"] {
+    background: rgba(255, 255, 255, 0.45);
+    border: 1px solid var(--line);
+    border-radius: 18px !important;
+    overflow: hidden;
+}
+
+body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stExpander"] {
+    background: rgba(255, 255, 255, 0.03);
+}
+
+[data-testid="stExpander"] summary {
+    padding: 0.9rem 1rem !important;
+    font-weight: 700 !important;
+    color: var(--text) !important;
+}
+
+[data-testid="stExpanderDetails"] {
+    padding-top: 0.2rem !important;
+}
+
+[data-testid="stMetric"] {
+    background: rgba(255, 255, 255, 0.62);
+    border: 1px solid var(--line);
+    padding: 1rem 1rem 0.9rem 1rem;
+    box-shadow: var(--shadow-soft);
+}
+
+[data-testid="stMetricLabel"] p {
+    color: var(--text-faint) !important;
+    font-weight: 700 !important;
+}
+
+[data-testid="stMetricValue"] {
+    color: var(--text) !important;
+    font-weight: 700 !important;
+}
+
+/* Generic horizontal rules and captions */
+hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, rgba(217, 133, 75, 0.6), transparent);
+    margin: 1.5rem 0;
+}
+
+[data-testid="stCaptionContainer"],
+small {
+    color: var(--text-faint) !important;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 9px;
+    height: 9px;
+}
+
+::-webkit-scrollbar-track {
+    background: rgba(255, 255, 255, 0.32);
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgba(217, 133, 75, 0.62);
+    border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(217, 133, 75, 0.88);
+}
+
+/* Admin tabs */
 button[data-baseweb="tab"] {
     padding-left: 10px !important;
     padding-right: 10px !important;
     gap: 4px !important;
 }
 
-/* 탭 폰트 크기 줄이기 */
 button[data-baseweb="tab"] div p {
     font-size: 13px !important;
-    font-weight: 600 !important;
+    font-weight: 700 !important;
     white-space: nowrap !important;
 }
 
-/* 탭 리스트 가로 스크롤 허용 (줄바꿈 방지) */
 div[data-baseweb="tab-list"] {
     flex-wrap: nowrap !important;
     overflow-x: auto !important;
@@ -658,9 +637,6 @@ div[data-baseweb="tab-list"] {
     text-align: left !important;
 }
 
-/* [DEFINITIVE BUG FIX] Streamlit 탭 레이아웃 옆으로 밀림 방지 */
-/* 탭 리스트와 본문이 한 줄(row)에 배치되는 현상을 전역적으로 차단 */
-/* Streamlit 내부에서 탭 리스트와 패널을 감싸는 중첩 컨테이너들이 row로 잡히는 버그 해결 */
 div:has(> [data-baseweb="tab-list"]),
 div:has(> div > [data-baseweb="tab-list"]),
 [data-testid="stHorizontalBlock"]:has([data-baseweb="tab-list"]),
@@ -672,16 +648,6 @@ div:has(> div > [data-baseweb="tab-list"]),
     max-width: 100% !important;
 }
 
-/* 관리자 모드 컨테이너 너비 확장 (신규 streamlit 지원: stMainBlockContainer) */
-body:has(.admin-mode-active) [data-testid*="BlockContainer"],
-body.admin-mode-active [data-testid*="BlockContainer"],
-.admin-mode-active [data-testid*="BlockContainer"] {
-    max-width: 100% !important;
-    padding-left: 1.5rem !important;
-    padding-right: 1.5rem !important;
-}
-
-/* 관리자 모드 내의 모든 가로 배치(columns)를 세로로 강제 전환하여 좁아짐 방지 */
 .admin-mode-active [data-testid="stHorizontalBlock"],
 .admin-mode-active .stHorizontalBlock {
     display: flex !important;
@@ -690,7 +656,6 @@ body.admin-mode-active [data-testid*="BlockContainer"],
     max-width: 100% !important;
 }
 
-/* 관리자 모드 내의 탭 패널 너비 보정 */
 .admin-mode-active [data-testid="stTabPanel"],
 .admin-mode-active div[data-baseweb="tab-panel"],
 .admin-mode-active div[role="tabpanel"] {
@@ -701,25 +666,80 @@ body.admin-mode-active [data-testid*="BlockContainer"],
     display: block !important;
 }
 
-/* 탭 리스트 스크롤바 스타일 */
-div[data-baseweb="tab-list"]::-webkit-scrollbar {
-    height: 4px;
-}
-
-div[data-baseweb="tab-list"]::-webkit-scrollbar-thumb {
-    background: #D4AF37;
-    border-radius: 2px;
-}
-
-/* 모바일에서 탭 더 작게 */
-@media only screen and (max-width: 768px) {
-    button[data-baseweb="tab"] {
-        padding-left: 6px !important;
-        padding-right: 6px !important;
-        min-width: auto !important;
+/* Mobile */
+@media (max-width: 900px) {
+    .main .block-container {
+        padding-left: 0.8rem !important;
+        padding-right: 0.8rem !important;
     }
 
-    button[data-baseweb="tab"] div p {
-        font-size: 11px !important;
+    .status-dashboard {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .shell-title {
+        font-size: clamp(2rem, 9vw, 2.8rem);
+    }
+
+    .news-card h3 {
+        font-size: 1.35rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .main .block-container {
+        padding-top: 0.8rem !important;
+        padding-bottom: 4rem !important;
+    }
+
+    .st-key-app_shell [data-testid="stVerticalBlockBorder"] {
+        padding: 1rem 1rem 0.8rem 1rem;
+        border-radius: 22px;
+    }
+
+    .status-dashboard {
+        gap: 0.65rem;
+    }
+
+    .status-card {
+        min-height: 96px;
+        padding: 0.85rem 0.85rem 0.8rem 0.85rem;
+    }
+
+    [data-testid="stPills"] button {
+        min-height: 38px !important;
+        padding: 0.45rem 0.85rem !important;
+        font-size: 0.86rem !important;
+    }
+
+    .st-key-primary_nav > div {
+        border-radius: 22px;
+        overflow-x: auto;
+    }
+
+    .news-card,
+    .glass-card,
+    [data-testid="stMetric"] {
+        padding: 1rem !important;
+        border-radius: 16px !important;
+    }
+
+    .news-card img {
+        max-height: 300px;
+        object-fit: contain;
+    }
+
+    [data-testid="stSidebar"] {
+        display: none !important;
+    }
+}
+
+@media (max-width: 520px) {
+    .status-dashboard {
+        grid-template-columns: 1fr;
+    }
+
+    .shell-subtitle {
+        font-size: 0.92rem;
     }
 }

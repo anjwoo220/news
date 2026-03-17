@@ -33,6 +33,25 @@ jobs:
           ${{ secrets.APP_SECRETS }}
           SECRETS_EOF
 
+      - name: Print GSheets Config Diagnostics
+        run: |
+          python - <<'PY'
+          import tomllib
+          from pathlib import Path
+
+          secrets_path = Path(".streamlit/secrets.toml")
+          with secrets_path.open("rb") as f:
+              secrets = tomllib.load(f)
+
+          conn = secrets.get("connections", {}).get("gsheets_news", {})
+          print("=== GSheets Diagnostics ===")
+          print(f"connections.gsheets_news present: {bool(conn)}")
+          print(f"configured keys: {sorted(conn.keys())}")
+          print(f"spreadsheet: {conn.get('spreadsheet')}")
+          print(f"worksheet: {conn.get('worksheet')}")
+          print("===========================")
+          PY
+
       - name: Run Batch Job
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

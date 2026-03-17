@@ -2257,26 +2257,15 @@ def render_category_tag(category, variant="travel"):
 # Helper: Render Custom Mobile-Optimized Header
 def render_custom_header(text, level=1):
     """
-    Renders a custom HTML header for SEO and Mobile UI optimization.
-    - H1: 22px (Mobile Friendly)
-    - H2: 18px
-    - Adjusts margins to save space.
+    Renders a consistent editorial section header.
     """
-    font_size = "22px" if level == 1 else "18px"
-    margin = "10px 0 5px 0"
-    color = "#333333" # Default dark grey, can be adjusted for dark mode via CSS variables if needed
-    
-    # Use CSS variable for text color to support Dark Mode automatically if desired,
-    # or stick to fixed color. Let's use var(--text-color) for better adaptation.
-    # But user requested #333333 specifically. Let's stick to user request but add dark mode support via Streamlit's theming if possible.
-    # User said: "Color: #333333 (다크모드 대응 필요시 var(--text-color) 사용)"
-    # Let's use var(--text-color) to be safe for dark mode which is active.
-    
+    kicker = "Thai Today" if level == 1 else "Service"
     st.markdown(
         f"""
-        <{f'h{level}'} style='text-align: left; font-size: {font_size}; font-weight: 700; margin: {margin}; color: var(--text-color); line-height: 1.2;'>
-            {text}
-        </{f'h{level}'}>
+        <div class="section-heading">
+            <div class="kicker">{kicker}</div>
+            <div class="title">{text}</div>
+        </div>
         """,
         unsafe_allow_html=True
     )
@@ -2338,6 +2327,7 @@ def translate_text(text: str, dest: str = "ko") -> str:
         - Use phonetic Hangul for names or terms if no direct translation exists (e.g., 'แดง' -> '댕').
         - The output must contain ZERO Thai script.
         - If the text is a mix of Thai and Korean, translate only the Thai parts while keeping the Korean.
+        - **[SPECIFIC RULE]** 태국 정당인 'People's Party'(Phak Prachachon)를 번역할 때 '국민의힘'이라는 단어를 절대 사용하지 마세요. 반드시 '**국민당**'으로 번역하세요.
         - Output ONLY the result. No explanations.
         
         Text:
@@ -2637,8 +2627,9 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 
 # Task
 입력된 뉴스 기사들을 분석하여 여행자에게 필요한 정보를 선별하고 요약하세요.
-**[CRITICAL] 모든 출력 텍스트(제목, 요약, 기사 전문 등)는 반드시 한국어(Korean)여야 합니다.** 태국어나 영어로 남겨두지 마세요.
-이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
+1.  **[CRITICAL] 모든 출력 텍스트(제목, 요약, 기사 전문 등)는 반드시 한국어(Korean)여야 합니다.** 태국어나 영어로 남겨두지 마세요.
+2.  **[SPECIFIC TRANSLATION]** 태국 정당인 'People's Party'(Phak Prachachon)를 번역할 때 '국민의힘'이라는 표현을 절대 사용하지 마세요. 반드시 '**국민당**'으로 번역하세요.
+3.  이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
 
 # Input Data
 1. **Candidate News:** 
@@ -2800,6 +2791,7 @@ def get_thb_krw_rate():
     Uses 'data/exchange_rate.json' for persistence.
     """
     RATE_FILE = 'data/exchange_rate.json'
+    url = "https://api.frankfurter.app/latest?from=THB&to=KRW"
     # helper to save
     def save_rate(rate):
         try:
@@ -4923,5 +4915,3 @@ def generate_tour_itinerary(tours, region="방콕", duration="당일치기 (Day 
         
     except Exception as e:
         return f"❌ 일정 생성 중 오류 발생: {str(e)}"
-
-

@@ -124,56 +124,33 @@ else:
 # 🚫 배포 환경 완벽 대응 UI 숨김 (Terminator Style)
 hide_streamlit_style = """
 <style>
-    /* 1. 기본 헤더 및 햄버거 메뉴 숨기기 */
     #MainMenu {visibility: hidden !important; display: none !important;}
     header {visibility: hidden !important; display: none !important;}
     [data-testid="stHeader"] {visibility: hidden !important; display: none !important;}
-    
-    /* 2. 푸터(Made with Streamlit) 및 하단 여백 제거 */
-    footer {visibility: hidden !important; display: none !important; height: 0px !important; pointer-events: none !important; z-index: -1 !important;}
-    [data-testid="stFooter"] {visibility: hidden !important; display: none !important; height: 0px !important; pointer-events: none !important; z-index: -1 !important;}
-    
-    /* 3. 붉은색 장식 줄 및 툴바 제거 */
-    [data-testid="stDecoration"] {visibility: hidden !important; display: none !important;}
-    [data-testid="stToolbar"] {visibility: hidden !important; display: none !important;}
-    
-    /* 4. (중요) Streamlit Cloud 전용 요소 숨기기 */
-    .stDeployButton {display: none !important;}
-    [data-testid="stStatusWidget"] {visibility: hidden !important;}
-
-    /* 2. 푸터 완벽 제거 (유령화) */
     footer, [data-testid="stFooter"] {
-        display: none !important;
         visibility: hidden !important;
+        display: none !important;
         height: 0px !important;
-        pointer-events: none !important; /* 중요: 클릭 투과 */
+        pointer-events: none !important;
         z-index: -1 !important;
     }
-    
-    /* 5. 콘텐츠 영역 여백 확보 */
-    .block-container {
-        padding-top: 1rem !important;
-        padding-bottom: 80px !important; /* 탭 높이만큼 여백 확보 */
-    }
+    [data-testid="stDecoration"] {visibility: hidden !important; display: none !important;}
+    [data-testid="stToolbar"] {visibility: hidden !important; display: none !important;}
+    .stDeployButton {display: none !important;}
+    [data-testid="stStatusWidget"] {visibility: hidden !important;}
 </style>
 """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
-# --- Custom CSS ---
+# --- Layout helpers handled locally, design system comes from style.css ---
 st.markdown("""
     <style>
-    /* --- 1. Global Font & Typography Settings --- */
-    html, body, [class*="css"]:not([data-testid="stIcon"]):not([class*="st-"]):not(.material-icons) {
-        font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-        word-break: keep-all !important; /* Prevent mid-word breaks */
+    html, body {
+        word-break: keep-all !important;
         overflow-wrap: break-word;
     }
-
-    /* --- 2. Global Tab & Navigation Scroll Optimization (Nuclear Option) --- */
-    /* Force st.tabs to horizontal scroll globally */
     div[data-testid="stTabs"] [role="tablist"],
-    div[data-testid="stTabs"] [data-baseweb="tab-list"],
-    div[data-testid="stTabs"] > div:first-child {
+    div[data-testid="stTabs"] [data-baseweb="tab-list"] {
         display: flex !important;
         flex-wrap: nowrap !important;
         overflow-x: auto !important;
@@ -181,12 +158,9 @@ st.markdown("""
         -webkit-overflow-scrolling: touch !important;
         gap: 8px !important;
         scrollbar-width: none !important;
-        -ms-overflow-style: none !important;
-        width: 100% !important;
     }
     div[data-testid="stTabs"] [role="tablist"]::-webkit-scrollbar,
-    div[data-testid="stTabs"] [data-baseweb="tab-list"]::-webkit-scrollbar,
-    div[data-testid="stTabs"] > div:first-child::-webkit-scrollbar {
+    div[data-testid="stTabs"] [data-baseweb="tab-list"]::-webkit-scrollbar {
         display: none !important;
     }
     div[data-testid="stTabs"] button[role="tab"],
@@ -195,192 +169,11 @@ st.markdown("""
         white-space: nowrap !important;
         min-width: fit-content !important;
     }
-    div[data-testid="stTabs"] button[role="tab"] p,
-    div[data-testid="stTabs"] button[data-testid="stTab"] p {
-        white-space: nowrap !important;
-    }
-
-    /* --- 3. Mobile Optimization (max-width: 768px) --- */
-    @media (max-width: 768px) {
-        /* Typography Scaling */
-        h1, .stHeading h1 { font-size: 1.7rem !important; }
-        h2, .stHeading h2 { font-size: 1.4rem !important; }
-        h3, .stHeading h3 { font-size: 1.1rem !important; }
-        
-        p, div, li {
-            font-size: 1rem !important;
-            line-height: 1.6 !important;
-        }
-        
-        /* Metric Styling */
-        [data-testid="stMetricValue"] {
-            font-size: 1.5rem !important;
-        }
-
-        /* Dark Mode Toggle: Right Align on Mobile */
-        .stToggle {
-            justify-content: flex-end !important;
-        }
-    }
-
-    /* --- 4. Navigation & UI Fixes --- */
-    /* Hide Streamlit Anchor Links */
-    [data-testid="stHeaderAction"] { display: none !important; }
-    
-    /* Hide top pills on mobile */
-    @media (max-width: 768px) {
-        .st-key-nav_top { display: none !important; }
-    }
-
-    /* Hide mobile bottom buttons on PC */
-    @media (min-width: 769px) {
-        .st-key-mobile_nav_bar {
-            display: none !important; height: 0 !important; margin: 0 !important; padding: 0 !important;
-        }
-    }
-
-    /* Fix buttons to TOP on Mobile */
-    @media (max-width: 768px) {
-        /* Target the horizontal block inside our mobile nav container */
-        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
-            position: fixed !important;
-            top: 0 !important;
-            left: 0 !important;
-            width: 100% !important;
-            background-color: white !important;
-            z-index: 99999 !important;
-            padding: 5px !important;
-            padding-top: env(safe-area-inset-top) !important;
-            border-bottom: 1px solid #e0e0e0 !important;
-            margin: 0 !important;
-            display: flex !important;
-            flex-direction: row !important;
-            flex-wrap: nowrap !important; /* Force single row */
-            overflow-x: auto !important;
-            overflow-y: hidden !important;
-            -webkit-overflow-scrolling: touch !important;
-            align-items: center !important;
-            justify-content: flex-start !important; /* Start for scroll */
-            gap: 5px !important;
-        }
-        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"]::-webkit-scrollbar {
-            display: none !important;
-        }
-
-        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] > div {
-            flex: 0 0 auto !important; /* Don't grow/shrink to fit */
-            min-width: fit-content !important;
-        }
-
-        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button {
-            background: transparent !important;
-            border: none !important;
-            box-shadow: none !important;
-            color: #666 !important;
-            font-size: 0.85rem !important;
-            font-weight: 800 !important;
-            padding: 8px 12px !important;
-            width: auto !important; /* Don't force 100% */
-            display: block !important;
-            white-space: nowrap !important;
-        }
-
-        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button:active,
-        .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button:focus {
-            color: #FF4B4B !important;
-        }
-
-        /* Pad content TOP to avoid hiding behind nav (Reduced to 1 row height) */
-        .main .block-container {
-            padding-top: 70px !important; 
-            padding-bottom: 50px !important;
-        }
-        .stApp {
-            padding-top: 70px !important;
-        }
-    }
-
-    /* Dark Mode Support    /* Fixed Nav Dark Mode Fix */
-    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
-        background: #0E1117 !important;
-        border-bottom: 1px solid #333 !important;
-    }
-    
-    /* GLOBAL DARK MODE OVERRIDES (Affecting Portals/Popovers/All Buttons) */
-    /* Target BODY based on the specific Dark Mode toggle availability */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
-        /* This selector is powerful but body styling might be restricted */
-    }
-
-    /* 1. Fix Hotel Region Selectbox (Portal/Popover) */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="popover"],
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="menu"],
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) ul[role="listbox"] {
-        background-color: #262730 !important;
-        color: white !important;
-        border: 1px solid #444 !important;
-    }
-    
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"] {
-        background-color: #262730 !important;
-        color: white !important;
-    }
-    
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"][aria-selected="true"] {
-        background-color: #FF4B4B !important;
-        color: white !important;
-    }
-
-    /* 2. Fix All Buttons (Pagination, Inquiry, etc) in Dark Mode */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button {
-        background-color: #262730 !important;
-        color: white !important; 
-        border: 1px solid #444 !important;
-    }
-    
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button:hover {
-        border-color: #FF4B4B !important;
-        color: #FF4B4B !important;
-    }
-    
-    /* 3. Pagination Specifics (Streamlit Secondary Buttons) */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[kind="secondary"] {
-        background-color: transparent !important;
-    }
-    
-    /* Active Pagination Button (Disabled state) */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled],
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled]:hover {
-        background-color: #FF4B4B !important;
-        color: white !important;
-        border-color: #FF4B4B !important;
-        opacity: 1 !important;
-    }
-
-    /* 4. Fix Input/Textarea Text Color */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) input,
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) textarea {
-        color: white !important;
-        background-color: #262730 !important;
-    }
-    /* Selectbox Main Display */
-    body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="select"] > div {
-        background-color: #262730 !important;
-        color: white !important;
-        border-color: #444 !important;
-    }
-
-    /* 5. Mobile Nav Button Text */
-    [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button {
-        color: #FAFAFA !important;
-        background-color: transparent !important; /* Force transparent for nav buttons */
-        border: none !important;
-    }
     </style>
     """, unsafe_allow_html=True)
 
 # --- Thai-Today.com Custom CSS Injection ---
-# Load external style.css with Playfair Display, Kanit fonts, Glassmorphism, Royal Gold theme
+# Load external style.css with the refreshed design system
 utils.load_custom_css()
 
 # --- Helper Functions (Load/Save) ---
@@ -729,12 +522,19 @@ def render_klook_banner():
     """Render Klook affiliate banner with responsive HTML wrapper."""
     is_english = st.session_state.get('language') == 'English'
     
-    # --- 1. Load and Base64 encode the local banner image ---
-    banner_img_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "klook_banner.png")
-    img_base64 = ""
-    if os.path.exists(banner_img_path):
-        with open(banner_img_path, "rb") as f:
-            img_base64 = base64.b64encode(f.read()).decode()
+    # --- 1. Load and Base64 encode the local banner image (Cached for performance) ---
+    @st.cache_data(show_spinner=False)
+    def get_base64_banner():
+        banner_img_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "klook_banner.png")
+        if os.path.exists(banner_img_path):
+            with open(banner_img_path, "rb") as f:
+                return base64.b64encode(f.read()).decode()
+        return ""
+    
+    img_base64 = get_base64_banner()
+    
+    # User's provided affiliate link for Thailand search
+    klook_main_link = "https://www.klook.com/ko/search/result/?aid=api%7C13694%7C303425c9f0334d6e934c9dcf1-700591%7Cpid%7C700591&frontend_id=65%2C149&query=%ED%83%9C%EA%B5%AD&sort=most_relevant&start=1&tab_key=70&aff_pid=700591&aff_sid=&aff_adid=1214081&utm_medium=affiliate-alwayson&utm_source=network&utm_campaign=13694&utm_term=700591&utm_content=&aff_klick_id=124991923102-api%7C13694%7C303425c9f0334d6e934c9dcf1-700591%7Cpid%7C700591-1214081-a918ee4"
     
     # Text Localization
     title_text = "Thailand Travel Essentials" if is_english else "✈️ 태국 여행 필수 준비물"
@@ -747,8 +547,8 @@ def render_klook_banner():
     st.markdown(
         f"""
 <div style="max-width: 500px; margin: 15px auto; width: 95%;">
-    <a href="https://klook.tpx.li/KWvlLrap" target="_blank" style="text-decoration: none;">
-        <img src="data:image/png;base64,{img_base64}" style="width: 100%; border-radius: 12px 12px 0 0; display: block;">
+    <a href="{klook_main_link}" target="_blank" style="text-decoration: none;">
+        <img src="data:image/png;base64,{img_base64}" style="width: 100%; border-radius: 12px 12px 0 0; display: block;" onerror="this.onerror=null; this.src='https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?w=1000&q=80';">
     </a>
     <div style="border-radius: 0 0 12px 12px; margin-top: -1px; box-shadow: 0 4px 12px rgba(255, 87, 34, 0.12); overflow: hidden; border: 1px solid #ffe0d0; background: #fff8f5; padding: 10px 12px 12px 12px;">
         <p style="color: #FF5722; font-size: 13px; margin: 0 0 8px 0; font-weight: 700; text-align: center; letter-spacing: -0.3px;">{title_text}</p>
@@ -1187,13 +987,17 @@ def render_tab_news():
                         article = english_news[idx]
                         with col:
                             st.markdown(f"""
-                            <div style="border: 1px solid #e0e0e0; border-radius: 12px; padding: 15px; margin-bottom: 15px; background: white;">
-                                <img src="{article['image_url']}" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px; margin-bottom: 10px;" onerror="this.style.display='none'">
-                                <h4 style="margin: 0 0 8px 0; font-size: 1rem; line-height: 1.3;">{article['title'][:80]}{'...' if len(article['title']) > 80 else ''}</h4>
-                                <p style="color: #666; font-size: 0.85rem; margin: 0 0 10px 0; line-height: 1.4;">{article['summary'][:120]}{'...' if len(article['summary']) > 120 else ''}</p>
-                                <div style="display: flex; justify-content: space-between; align-items: center;">
-                                    <span style="font-size: 0.75rem; color: #999;">📰 {article['source']}</span>
-                                    <a href="{article['link']}" target="_blank" style="font-size: 0.8rem; color: #4A90D9; text-decoration: none;">Read more →</a>
+                            <div class="news-card">
+                                <div class="card-meta-row">
+                                    <span class="category-tag travel">English Desk</span>
+                                    <span class="card-meta-time">📰 {article['source']}</span>
+                                </div>
+                                <img src="{article['image_url']}" style="width: 100%; height: 180px; object-fit: cover; border-radius: 16px; margin-bottom: 12px;" onerror="this.style.display='none'">
+                                <h3>{article['title'][:80]}{'...' if len(article['title']) > 80 else ''}</h3>
+                                <p>{article['summary'][:120]}{'...' if len(article['summary']) > 120 else ''}</p>
+                                <div class="card-meta-row" style="margin-top: 12px; margin-bottom: 0;">
+                                    <span class="card-meta-time">{article['published_date'].strftime('%Y-%m-%d')}</span>
+                                    <a href="{article['link']}" target="_blank" style="font-size: 0.88rem; font-weight: 700;">Read more →</a>
                                 </div>
                             </div>
                             """, unsafe_allow_html=True)
@@ -1451,13 +1255,13 @@ def render_tab_news():
             
             # Single HTML block
             card_html = f'''<div class="news-card glass-card">
-<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px;">
+<div class="card-meta-row">
 <span class="category-tag {tag_variant}">{cat_text}</span>
-<span style="color:#888;font-size:0.85rem;font-family:Kanit,sans-serif;">🕒 {meta_info}</span>
+<span class="card-meta-time">🕒 {meta_info}</span>
 </div>
-<h3 style="font-family:\'Playfair Display\',Georgia,serif;margin-bottom:10px;">{topic['title']}</h3>
+<h3>{topic['title']}</h3>
 {image_html}
-<p style="font-family:Kanit,sans-serif;line-height:1.7;color:inherit;">{summary_html}</p>
+<p>{summary_html}</p>
 </div>'''
             
             st.markdown(card_html, unsafe_allow_html=True)
@@ -4555,324 +4359,8 @@ if app_mode == "Admin Console":
 
 else:
     # --- Viewer Mode ---
-    # Visitor Counter Logic & UI (Main Header)
 
-    
-    # --- Dark/Light Mode Toggle ---
-    # --- Dark/Light Mode Toggle (Relocated to Top-Left above Title) ---
-
-    # CSS to reduce toggle size and text
-    st.markdown("""
-    <style>
-    /* Compact Toggle above Title */
-    .compact-toggle {
-        display: flex;
-        align-items: center;
-        margin-bottom: -15px !important; /* Pull title closer */
-    }
-    .compact-toggle .stToggle {
-        transform: scale(0.8); /* Scale down widget */
-        transform-origin: left center;
-        margin-right: -10px !important;
-    }
-    .compact-toggle label {
-        font-size: 0.8rem !important; /* Smaller text */
-        color: gray !important;
-    }
-    
-    /* Mobile Visitor Counter styling adjustments */
-    @media (max-width: 768px) {
-        .mobile-only-counter {
-            font-size: 0.7rem;
-            color: gray;
-            line-height: 1.2;
-            margin-top: 5px;
-            text-align: left; /* Align left alongside/below title */
-        }
-    }
-    @media (min-width: 769px) {
-        .mobile-only-counter { display: none !important; }
-    }
-    </style>
-    """, unsafe_allow_html=True)
-
-    # Layout: Toggle -> Title -> Caption
-    c_toggle, c_counter = st.columns([1, 1]) # Minimal columns for alignment if needed, or just container
-    
-    # Just standard stacking since we want it "Right above title, left aligned"
-    is_dark = st.toggle("🌘 다크 모드", value=False)
-    
-    # --- Language Selector (Right below dark mode) ---
-    lang_options = ["🇰🇷 KR", "🇺🇸 EN"]
-    current_idx = 0 if st.session_state.get('language') == 'Korean' else 1
-    try:
-        selected = st.pills("🌐 Language", lang_options, default=lang_options[current_idx], selection_mode="single", label_visibility="collapsed")
-    except AttributeError:
-        selected = st.radio("Language", lang_options, index=current_idx, horizontal=True, label_visibility="collapsed")
-    
-    if selected:
-        new_lang = "Korean" if "KR" in selected else "English"
-        if new_lang != st.session_state.get('language'):
-            st.session_state['language'] = new_lang
-            st.rerun()
-    
-    # Apply custom class via JS injection or wrapping? 
-    # Streamlit doesn't support class wrapping easily for widgets.
-    # We rely on CSS selecting .stToggle which applies generally, causing potential Side Effects?
-    # No, we can use container specific selection if we wrap it.
-    
-    # Actually, simpler: just render it. The CSS above targeting .stToggle globally might affect others?
-    # Let's scope it to the first toggle if possible or just apply globally as it's the main toggle.
-    # User said "Reduce text and toggle size". Global reduction for this app might be fine or we target specifically.
-    
-    # Let's wrap in a container to target
-    # st.container() doesn't add class. 
-    # Use :first-of-type semantics in CSS usually works for the Header toggle.
-    
-    st.markdown("""
-    <style>
-    /* Specific targeting for the first toggle in the main block */
-    .stApp > .main .block-container > div:first-of-type .stToggle {
-         transform: scale(0.8);
-         transform-origin: left center;
-    }
-    .stApp > .main .block-container > div:first-of-type .stToggle label p {
-         font-size: 0.8rem !important;
-    }
-    </style>
-    """, unsafe_allow_html=True)
-    
-    # --- Main Title (Language-specific) ---
-    if st.session_state.get('language') == 'English':
-        # English Mode: Agoda review-friendly marketing text
-        utils.render_custom_header("🇹🇭 Thai Today: Travel Guide & Fact Check", level=1)
-        st.caption(f"Today: {daily_val:,} | Total: {total_val:,} • Real-time Local News, Hotel Reviews, and Smart Travel Tips in Thailand.")
-    else:
-        # Korean Mode: Original title
-        utils.render_custom_header("🇹🇭 오늘의 태국", level=1)
-        # [MOD] Structured caption with line break
-        st.markdown(f"<small style='color: grey;'>Today: {daily_val:,} | Total: {total_val:,}<br>태국 여행의 모든 것, 뉴스부터 맛집 팩트체크까지</small>", unsafe_allow_html=True)
-        
-    # --- Dark Mode Logic (CSS-based to prevent layout thrashing) ---
-    # We inject the CSS always. The styles trigger only when the toggle is checked via :has() selector.
-    st.markdown("""
-        <style>
-            /* --- DARK MODE SELECTORS --- */
-            /* These apply ONLY when the Dark Mode toggle (side effect of st.toggle being checked) is present */
-            
-            /* Global Body Override */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
-                /* Can't easily set bg color on body due to Streamlit wrapping, but helps context */
-            }
-
-            /* Main App Background & Text */
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
-                background-color: #0E1117;
-                color: #FAFAFA;
-            }
-            [data-testid="stHeader"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]),
-            [data-testid="stSidebar"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) {
-                background-color: #262730;
-                color: #FAFAFA;
-            }
-
-            /* --- CRITICAL FIXES FOR WHITE ELEMENTS --- */
-
-            /* 1. General Popovers (Menus, Dropdowns, Tooltips) */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="popover"],
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="menu"],
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) ul[role="listbox"] {
-                background-color: #262730 !important;
-                border: 1px solid #444 !important;
-            }
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"] {
-                 background-color: #262730 !important;
-                 color: #FAFAFA !important;
-            }
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[aria-selected="true"] {
-                 background-color: #FF4B4B !important;
-                 color: #ffffff !important;
-            }
-
-            /* 2. Fix All Buttons & Link Buttons (Inquiry, Next, Booking) */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) a[data-testid="stLinkButton"] {
-                background-color: #262730 !important;
-                color: #FAFAFA !important;
-                border: 1px solid #444 !important;
-            }
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button:hover,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) a[data-testid="stLinkButton"]:hover {
-                border-color: #FF4B4B !important;
-                color: #FF4B4B !important;
-            }
-
-            /* 3. Pagination Specifics (Secondary Buttons) */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[kind="secondary"] {
-                background-color: transparent !important;
-            }
-            /* Active Pagination (Disabled) */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled],
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) button[disabled]:hover {
-                background-color: #FF4B4B !important;
-                color: white !important;
-                border-color: #FF4B4B !important;
-                opacity: 1 !important;
-            }
-
-            /* 4. Input/Textarea Text Color */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) input,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) textarea {
-                color: white !important;
-                background-color: #262730 !important;
-            }
-            /* Selectbox Display */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="select"] > div {
-                 background-color: #262730 !important;
-                 color: white !important;
-                 border-color: #444 !important;
-            }
-
-            /* 5. Mobile Nav Button Text */
-            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] {
-                background: #0E1117 !important;
-                border-bottom: 1px solid #333 !important;
-            }
-            [data-testid="stAppViewContainer"]:has(input[aria-checked="true"]) .st-key-mobile_nav_bar div[data-testid="stHorizontalBlock"] button {
-                color: #FAFAFA !important;
-                background-color: transparent !important;
-                border: none !important;
-            }
-            
-            /* 6. Expander & Other Containers */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stExpander"] {
-                background-color: #0E1117 !important;
-                border: 1px solid #333 !important;
-                color: white !important;
-            }
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stExpanderDetails"] {
-                background-color: #0E1117 !important; 
-                color: white !important;
-            }
-
-            /* 7. Toast & Alerts */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="toast"],
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="notification"], 
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stAlert"] {
-                background-color: #000000 !important;
-                border: 1px solid #333 !important;
-                color: #ffffff !important;
-            }
-            
-            /* 8. Light Mode Defaults (ensure links are blue when NOT dark) */
-            .stMarkdown a {
-                color: #0068c9;
-                text-decoration: none;
-            }
-            .stMarkdown a:hover {
-                text-decoration: underline;
-            }
-            
-            /* Dark Mode Link override */
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stMarkdown a {
-                 color: #4da6ff !important;
-            }
-
-            /* --- NEW GLOBAL DARK MODE VISIBILITY FIXES --- */
-            
-            /* A. Widget Labels & Help Text */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stWidgetLabel"] label p,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stWidgetLabel"] p {
-                color: white !important;
-            }
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stSelectbox label, 
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stMultiSelect label,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stTextInput label,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stNumberInput label,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) .stDateInput label {
-                color: white !important;
-            }
-
-            /* B. Bordered Containers & Vertical Blocks */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stVerticalBlockBorder"] {
-                background-color: #1a1c24 !important;
-                border: 1px solid #333 !important;
-                padding: 15px !important;
-                border-radius: 10px !important;
-            }
-            
-            /* C. Metric Labels & Values */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stMetricLabel"] p,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) [data-testid="stMetricValue"] div {
-                color: white !important;
-            }
-
-            /* D. General Text Inheritance */
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) p,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) span,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) strong,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h1,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h2,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h3,
-            [data-testid="stAppViewContainer"]:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) h4 {
-                color: #FAFAFA !important;
-            }
-            
-            /* E. Special Fix for Info/Success/Warning/Error text in Dark Mode */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stAlert"] p,
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stAlert"] li {
-                color: white !important;
-            }
-
-            /* F. Caption Fix (gray text in dark mode) */
-            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-testid="stCaptionContainer"] {
-                color: #A0A0A0 !important;
-            }
-
-            /* G. st.pills Visibility & Layout Fix (Definitive) */
-            /* Force DARK text on selected pills to beat Dark Mode global p/span styles */
-            div[data-testid="stPills"] button[data-testid="stBaseButton-pillsActive"] *,
-            div[data-testid="stPills"] button[data-selected="true"] *,
-            button[data-testid="stBaseButton-pillsActive"] * {
-                color: #31333F !important;
-                font-weight: 700 !important;
-                visibility: visible !important;
-                opacity: 1 !important;
-            }
-
-            /* Prevent pills from collapsing into small circles */
-            div[data-testid="stPills"] button[data-testid^="stBaseButton-pills"],
-            button[data-testid^="stBaseButton-pills"] {
-                min-width: max-content !important;
-                width: auto !important;
-                flex-shrink: 0 !important;
-            }
-
-            /* Ensure internal markdown container allows expansion */
-            button[data-testid^="stBaseButton-pills"] div[data-testid="stMarkdownContainer"] {
-                width: auto !important;
-                overflow: visible !important;
-            }
-        </style>
-    """, unsafe_allow_html=True)
-
-    # --- Theme Configuration (Variables for Widgets) ---
-    if is_dark:
-        # Dark Theme Vars for Python-based HTML generation
-        card_bg = "rgba(0, 0, 0, 0.7)"
-        text_main = "#ffffff"
-        text_sub = "#aaaaaa"
-        border_color = "#333"
-    else:
-        # Light Theme Vars
-        card_bg = "rgba(255, 255, 255, 0.9)"
-        text_main = "#000000"
-        text_sub = "#333333"
-        border_color = "#ddd"
-
-
-    # --- Status Dashboard (Mobile-First: 4 columns on PC, 2x2 grid on Mobile) ---
+    # --- Status Dashboard (App Shell) ---
     # Get weather data (Bangkok)
     @st.cache_data(ttl=1800)
     def get_weather_data():
@@ -4952,12 +4440,14 @@ else:
         buy_rate = exchange_rate * 1.02 if exchange_rate else 0  # 2% markup for buying THB
         sell_rate = exchange_rate * 0.98 if exchange_rate else 0  # 2% markdown for selling THB
     
-    # Build Status Dashboard HTML
+    # Build App Shell
     weather_label = utils.t("weather_label")
     air_quality_label = utils.t("air_quality_label")
     
     if is_english_mode:
-        # English Mode: Single card for USD/THB
+        shell_eyebrow = "Thailand Live Desk"
+        shell_title = "Thai Today"
+        shell_subtitle = "Local news briefings, hotel fact checks, and practical travel signals for people moving through Thailand."
         status_dashboard_html = f"""
         <div class="status-dashboard">
             <div class="status-card">
@@ -4975,7 +4465,9 @@ else:
         </div>
         """
     else:
-        # Korean Mode: Buy/Sell rates for KRW/THB
+        shell_eyebrow = "Thailand Live Briefing"
+        shell_title = "오늘의 태국"
+        shell_subtitle = "태국 여행자를 위한 실시간 뉴스 브리핑과 호텔·맛집 팩트체크를 한곳에서 빠르게 확인하세요."
         exchange_buy_label = utils.t("exchange_buy_label")
         exchange_sell_label = utils.t("exchange_sell_label")
         currency_unit = utils.t("currency_unit")
@@ -5000,11 +4492,93 @@ else:
             </div>
         </div>
         """
-    
-    st.markdown(status_dashboard_html, unsafe_allow_html=True)
 
+    today_label = utils.t("stat_today")
+    total_label = utils.t("stat_total")
+    extra_signal = "🧭 여행 동선·현지 이슈·팩트체크" if not is_english_mode else "🧭 Travel flow, local issues, fact checks"
+    shell_meta_html = f"""
+    <div class="shell-meta-strip">
+        <div class="shell-meta-pill">{today_label}: {daily_val:,}</div>
+        <div class="shell-meta-pill">{total_label}: {total_val:,}</div>
+        <div class="shell-meta-pill">{extra_signal}</div>
+    </div>
+    """
 
-    # --- Navigation Logic (Dual Node: Sidebar & Top Pills) ---
+    with st.container(border=True, key="app_shell"):
+        shell_col_main, shell_col_side = st.columns([3.2, 1.35])
+
+        with shell_col_main:
+            st.markdown(
+                f"""
+                <div class="shell-eyebrow">Editorial Travel Briefing</div>
+                <h1 class="shell-title">🇹🇭 {shell_title}</h1>
+                <p class="shell-subtitle">{shell_subtitle}</p>
+                {shell_meta_html}
+                """,
+                unsafe_allow_html=True,
+            )
+
+        with shell_col_side:
+            is_dark = st.toggle("🌘 다크 모드", value=False, key="ui_dark_mode")
+            lang_options = ["🇰🇷 KR", "🇺🇸 EN"]
+            current_idx = 0 if st.session_state.get('language') == 'Korean' else 1
+            try:
+                selected = st.pills(
+                    "🌐 Language",
+                    lang_options,
+                    default=lang_options[current_idx],
+                    selection_mode="single",
+                    label_visibility="collapsed",
+                )
+            except AttributeError:
+                selected = st.radio(
+                    "Language",
+                    lang_options,
+                    index=current_idx,
+                    horizontal=True,
+                    label_visibility="collapsed",
+                )
+
+            if selected:
+                new_lang = "Korean" if "KR" in selected else "English"
+                if new_lang != st.session_state.get('language'):
+                    st.session_state['language'] = new_lang
+                    st.rerun()
+
+            st.markdown(
+                f"""
+                <div class="shell-eyebrow" style="margin-top:0.85rem;">{shell_eyebrow}</div>
+                """,
+                unsafe_allow_html=True,
+            )
+
+        st.markdown(status_dashboard_html, unsafe_allow_html=True)
+
+    if is_dark:
+        st.markdown(
+            """
+            <style>
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="popover"],
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) div[data-baseweb="menu"],
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) ul[role="listbox"] {
+                background-color: #162029 !important;
+                color: #f4efe7 !important;
+                border: 1px solid rgba(244, 239, 231, 0.12) !important;
+            }
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"] {
+                background-color: #162029 !important;
+                color: #f4efe7 !important;
+            }
+            body:has(input[aria-label="🌘 다크 모드"][aria-checked="true"]) li[role="option"][aria-selected="true"] {
+                background-color: #d9854b !important;
+                color: #fffaf4 !important;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
+
+    # --- Navigation Logic ---
     
     # Init Session State for Nav
     if "nav_mode" not in st.session_state or st.session_state["nav_mode"] is None:
@@ -5014,20 +4588,12 @@ else:
     if "wongnai_result" not in st.session_state:
         st.session_state["wongnai_result"] = None
 
-    # Callbacks to keep them in sync
-    def update_from_sidebar():
-        st.session_state["nav_mode"] = st.session_state["nav_sidebar"]
-        
     def update_from_top():
         st.session_state["nav_mode"] = st.session_state["nav_top"]
 
-    # 1. Top Navigation (Pills)
-    st.write("") # Spacer
-    # [MOD] Conditionally hide Wongnai for Production deployment
-    # Check both Secrets and file-path heuristic for robustness
+    st.write("")
     is_prod = (st.secrets.get("DEPLOY_ENV") == "prod") or (not os.path.abspath(__file__).startswith("/Users/jaewoo/"))
     
-    # [MOD] Language-aware tab ordering
     is_english = st.session_state.get('language') == 'English'
     if is_prod:
         if is_english:
@@ -5036,7 +4602,6 @@ else:
                 utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
         else:
-            # Korean Mode: Use Tour tab instead of Guide
             nav_options = [
                 utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
                 utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_jobs"), utils.t("nav_board")
@@ -5048,108 +4613,41 @@ else:
                 utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_news"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
         else:
-            # Korean Mode: Use Tour tab instead of Guide
             nav_options = [
                 utils.t("nav_news"), utils.t("nav_hotel"), utils.t("nav_tour"), 
                 utils.t("nav_food"), utils.t("nav_taxi"), utils.t("nav_event"), utils.t("nav_jobs"), utils.t("nav_board")
             ]
     
-    # [MOD] Ensure nav_mode is valid for current language
     if st.session_state["nav_mode"] not in nav_options:
         st.session_state["nav_mode"] = nav_options[0]
     
     current_mode = st.session_state["nav_mode"]
 
-    try:
-        # Note: 'default' only works on init. We use 'key' to bind state? 
-        # Actually st.pills with a key binds to that key in session_state.
-        # But we want to separate widget keys to avoid duplicate id errors if we used same key.
-        # So we use different keys and sync them.
-        
-        # However, updating one widget's key in session state from another's callback 
-        # is the standard way to sync.
-        
-        # If we manually set nav_top/nav_sidebar in state before render, it updates the widget.
-        if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
-             st.session_state["nav_top"] = current_mode
-             
-        # [MOD] Mobile Horizontal Scroll for Navigation
-        st.markdown("""
-        <style>
-        @media (max-width: 768px) {
-            div[data-testid="stButtonGroup"] > div,
-            div[data-testid="stPills"] > div > div {
-                flex-wrap: nowrap !important;
-                overflow-x: auto !important;
-                white-space: nowrap !important;
-                -webkit-overflow-scrolling: touch;
-                scrollbar-width: none;
-                padding-bottom: 4px;
-                mask-image: linear-gradient(to right, black 85%, transparent 100%);
-                -webkit-mask-image: linear-gradient(to right, black 85%, transparent 100%);
-            }
-            div[data-testid="stButtonGroup"] > div::-webkit-scrollbar,
-            div[data-testid="stPills"] > div > div::-webkit-scrollbar {
-                display: none;
-            }
-        }
-        </style>
-        """, unsafe_allow_html=True)
+    if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
+        st.session_state["nav_top"] = current_mode
 
-        st.pills("이동", nav_options, selection_mode="single", 
-                key="nav_top", on_change=update_from_top, label_visibility="collapsed")
-                
-    except AttributeError:
-        # Fallback
-        if "nav_top" not in st.session_state or st.session_state["nav_top"] != current_mode:
-             st.session_state["nav_top"] = current_mode
-             
-        st.radio("이동", nav_options, horizontal=True, 
-                key="nav_top", on_change=update_from_top, label_visibility="collapsed")
-
-    # 2. Sidebar Navigation (Restored for PC users)
-    with st.sidebar:
-        st.markdown("### 📌 메뉴 선택")
-        
-        # Sync state to widget
-        if "nav_sidebar" not in st.session_state or st.session_state["nav_sidebar"] != current_mode:
-            st.session_state["nav_sidebar"] = current_mode
-            
-        # Custom CSS to hide Nav Radio on Mobile (Screens < 768px)
-        st.markdown("""
-            <style>
-            @media (max-width: 768px) {
-                div[data-testid="stSidebar"] div[data-testid="stVerticalBlock"] > div:nth-child(2) {
-                    display: none !important;
-                }
-            }
-            </style>
-        """, unsafe_allow_html=True)
-        
-        st.radio("이동", nav_options, 
-                key="nav_sidebar", on_change=update_from_sidebar, label_visibility="collapsed")
+    with st.container(key="primary_nav"):
+        try:
+            st.pills(
+                "이동",
+                nav_options,
+                selection_mode="single",
+                key="nav_top",
+                on_change=update_from_top,
+                label_visibility="collapsed",
+            )
+        except AttributeError:
+            st.radio(
+                "이동",
+                nav_options,
+                horizontal=True,
+                key="nav_top",
+                on_change=update_from_top,
+                label_visibility="collapsed",
+            )
     
-    # 3. Navigation Bar (Mobile Only via CSS)
-    # [MOD] Dinamically generated columns and indices
-    with st.container(key="mobile_nav_bar"):
-        num_cols = len(nav_options)
-        b_cols = st.columns(num_cols)
-        nav_indices = {i: (nav_options[i], nav_options[i]) for i in range(num_cols)}
-
-        for i, col in b_cols.items() if hasattr(b_cols, 'items') else enumerate(b_cols):
-            label, target = nav_indices[i]
-            with col:
-                st.markdown('<div class="mobile-only-trigger"></div>', unsafe_allow_html=True)
-                if st.button(label, key=f"btn_nav_{i}", width='stretch'):
-                    st.session_state["nav_mode"] = target
-                    st.rerun()
-    
-    # Use the master state for rendering
     page_mode = st.session_state["nav_mode"]
 
-    # --- Page 1: News ---
-    
-    # --- Page 1: News ---
     # --- Dynamic Page Rendering ---
     if page_mode == utils.t("nav_news"):
         render_tab_news()

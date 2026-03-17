@@ -124,11 +124,10 @@ def load_news_from_sheet(worksheet="news"):
 
 def load_recent_news(days=7):
     """
-    [OPTIMIZED] Loads only recent N days of news with TTL caching.
+    [OPTIMIZED] Loads only recent N days of news using SQL query.
     
-    - Uses TTL=300 (5 min) to cache GSheets API results
-    - Filters to only recent 'days' worth of data for faster processing
-    - Falls back to full load if filtering fails
+    - Uses st.connection("gsheets_news").query() to fetch only relevant rows.
+    - Drastically reduces memory usage compared to loading the entire sheet.
     
     Returns: dict { "YYYY-MM-DD": [items] }
     """
@@ -137,30 +136,29 @@ def load_recent_news(days=7):
         return {}
 
     try:
-        # TTL=300 (5 minutes) - Key optimization for repeat loads
-        df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet="news", ttl=300)
-        
-        if df.empty:
-            return {}
-        
         # Calculate cutoff date
-        from datetime import timedelta
         cutoff_date = (datetime.now() - timedelta(days=days)).strftime("%Y-%m-%d")
+        
+        # SQL Query: Fetch only recent rows
+        # st-gsheets-connection uses duckdb-style SQL on the sheet data
+        sql = f"SELECT * FROM news WHERE date >= '{cutoff_date}'"
+        
+        # TTL=300 (5 minutes)
+        df = conn.query(sql=sql, ttl=300)
+        
+        if df is None or df.empty:
+            return {}
         
         # Convert to records
         records = df.to_dict(orient="records")
         
-        # Transform to Dict-by-Date structure (same as original)
+        # Transform to Dict-by-Date structure
         news_by_date = {}
         for item in records:
             if pd.isna(item.get('date')): continue
             
             date_str = str(item['date']).strip().split('T')[0].split(' ')[0]
             
-            # Skip old dates (the optimization)
-            if date_str < cutoff_date:
-                continue
-                
             if date_str not in news_by_date:
                 news_by_date[date_str] = []
             
@@ -168,11 +166,12 @@ def load_recent_news(days=7):
             clean_item = {k: (v if not pd.isna(v) else "") for k, v in item.items()}
 
             # Parse JSON fields
-            for field in ['references', 'related_topics']:
+            for field in ['references', 'related_topics', 'event_info', 'event_data']:
                 if field in clean_item and isinstance(clean_item[field], str):
                     val = str(clean_item[field]).strip()
                     if val.startswith('[') or val.startswith('{'):
                         try:
+                            import json
                             clean_item[field] = json.loads(val)
                         except:
                             try:
@@ -186,24 +185,22 @@ def load_recent_news(days=7):
                 refs = clean_item.get('references')
                 if isinstance(refs, list) and refs:
                     clean_item['link'] = refs[0].get('url', "#")
-                elif isinstance(refs, str) and refs.startswith('http'):
-                    clean_item['link'] = refs
 
             news_by_date[date_str].append(clean_item)
             
         return news_by_date
 
     except Exception as e:
-        print(f"Error loading recent news: {e}")
-        # Fallback to full load on error
-        return load_news_from_sheet()
+        print(f"Error loading recent news with SQL: {e}")
+        # Fallback to load_news_from_sheet is not recommended if it causes OOM,
+        # but let's just return empty for safety on major errors
+        return {}
 
 def load_news_by_date(target_date):
     """
-    [ON-DEMAND] Loads news for a specific date only.
+    [ON-DEMAND] Loads news for a specific date only using SQL query.
     
     Used when user selects a date outside the recent window.
-    Cached per-date to avoid repeat fetches.
     
     Args:
         target_date: "YYYY-MM-DD" string
@@ -215,33 +212,32 @@ def load_news_by_date(target_date):
         return []
 
     try:
-        # TTL=600 (10 min) for specific date queries
-        df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet="news", ttl=600)
+        # SQL Query: Fetch only rows for the target date
+        sql = f"SELECT * FROM news WHERE date = '{target_date}'"
         
-        if df.empty:
+        # TTL=600 (10 min) for specific date queries
+        df = conn.query(sql=sql, ttl=600)
+        
+        if df is None or df.empty:
             return []
         
-        # Filter to target date only
+        # Convert to records
         records = df.to_dict(orient="records")
         items = []
         
         for item in records:
             if pd.isna(item.get('date')): continue
             
-            date_str = str(item['date']).strip().split('T')[0].split(' ')[0]
-            
-            if date_str != target_date:
-                continue
-            
             # Clean up NaN values
             clean_item = {k: (v if not pd.isna(v) else "") for k, v in item.items()}
 
             # Parse JSON fields
-            for field in ['references', 'related_topics']:
+            for field in ['references', 'related_topics', 'event_info', 'event_data']:
                 if field in clean_item and isinstance(clean_item[field], str):
                     val = str(clean_item[field]).strip()
                     if val.startswith('[') or val.startswith('{'):
                         try:
+                            import json
                             clean_item[field] = json.loads(val)
                         except:
                             pass
@@ -257,7 +253,7 @@ def load_news_by_date(target_date):
         return items
 
     except Exception as e:
-        print(f"Error loading news for date {target_date}: {e}")
+        print(f"Error loading news for date {target_date} with SQL: {e}")
         return []
 
 # Archive cache file path
@@ -350,6 +346,44 @@ def save_news_to_sheet(news_data_dict, worksheet="news"):
 
         # Write to Sheet
         conn.update(spreadsheet=SPREADSHEET_URL, worksheet=worksheet, data=df)
+
+        # Verify that the write actually landed in the target worksheet.
+        verify_df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet=worksheet, ttl=0)
+        if verify_df is None:
+            print("Error saving news to sheet: verification read returned None")
+            return False
+
+        expected_total = len(all_records)
+        actual_total = len(verify_df.index)
+        expected_latest = max(news_data_dict.keys()) if news_data_dict else None
+
+        def normalize_date(value):
+            if pd.isna(value):
+                return ""
+            return str(value).strip().split('T')[0].split(' ')[0]
+
+        if expected_total and actual_total < expected_total:
+            print(
+                f"Error saving news to sheet: verification row count mismatch "
+                f"(expected at least {expected_total}, got {actual_total})"
+            )
+            return False
+
+        if expected_latest:
+            verify_latest_dates = {
+                normalize_date(value) for value in verify_df.get("date", pd.Series(dtype=str)).tolist()
+            }
+            if expected_latest not in verify_latest_dates:
+                print(
+                    f"Error saving news to sheet: verification latest date mismatch "
+                    f"(expected {expected_latest}, got {sorted(d for d in verify_latest_dates if d)[-3:] if verify_latest_dates else []})"
+                )
+                return False
+
+        print(
+            f"Verified news sheet write: worksheet={worksheet}, "
+            f"rows={actual_total}, latest={expected_latest}"
+        )
         
         # Clear Streamlit Cache to force reload next time
         st.cache_data.clear()

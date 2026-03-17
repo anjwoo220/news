@@ -12,7 +12,7 @@ FEEDS_FILE = 'data/feeds.json'
 NEWS_FILE = 'data/news.json'
 PROCESSED_URLS_FILE = 'data/processed_urls.json'
 EVENTS_FILE = 'data/events.json'
-from db_utils import load_news_from_sheet, save_news_to_sheet
+from db_utils import SPREADSHEET_URL, load_news_from_sheet, save_news_to_sheet
 
 def load_json(file_path):
     if os.path.exists(file_path):
@@ -81,6 +81,7 @@ def get_image_from_entry(item):
 
 def main():
     print("Starting batch job (Strict Mode + Images)...")
+    print(f"Google Sheets target: {SPREADSHEET_URL}")
     
     # [TIME SETUP] Use UTC+7 (Bangkok Time)
     import pytz
@@ -115,6 +116,29 @@ def main():
     current_news = load_news_from_sheet()
     
     if isinstance(current_news, dict):
+        if current_news:
+            known_dates = sorted(current_news.keys())
+            total_loaded_rows = sum(len(items) for items in current_news.values())
+            print(
+                f"Google Sheets load status: {len(known_dates)} dates, "
+                f"{total_loaded_rows} rows, range {known_dates[0]} -> {known_dates[-1]}"
+            )
+            
+            # --- [SAFETY CHECK] ---
+            # If total rows are significantly less than local cache, something is wrong with GSheets connection
+            local_cache = load_json(NEWS_FILE)
+            if local_cache:
+                local_dates = sorted(local_cache.keys())
+                local_total = sum(len(items) for items in local_cache.values())
+                
+                # If sheet has less than 80% of local cache row count, abort to prevent overwriting with partial data
+                if total_loaded_rows < (local_total * 0.8):
+                    print(f"CRITICAL WARNING: GSheets data ({total_loaded_rows}) is significantly less than local cache ({local_total}).")
+                    print("Aborting batch job to prevent data loss via overwrite.")
+                    return
+        else:
+            print("WARNING: Google Sheets returned an empty news dataset before batch processing.")
+
         # 24-Hour Comparison Window (Only compare with the most recent day)
         latest_date = sorted(current_news.keys(), reverse=True)[0] if current_news else None
         if latest_date:
@@ -395,8 +419,14 @@ def main():
         existing_today_titles.add(topic['title'])
         new_topics_count += 1
         
-    save_news_to_sheet(current_news)
-    save_json(NEWS_FILE, current_news) # Fix: Missing local save
+    sheet_saved = save_news_to_sheet(current_news)
+    if not sheet_saved:
+        raise RuntimeError(
+            "CRITICAL ERROR: Failed to save news to Google Sheets. "
+            "Aborting before writing local news cache to prevent JSON/GSheets divergence."
+        )
+
+    save_json(NEWS_FILE, current_news)
     print(f"Saved {new_topics_count} new topics to Google Sheets under key '{today_str}'")
     print(f"Saved {new_topics_count} new topics to {NEWS_FILE} under key '{today_str}'")
 
