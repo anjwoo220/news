@@ -96659,7 +96659,7 @@
         "date": "2026-03-20",
         "location": "칸차나피섹 도로 (9번 고속도로) 톤부리 검문소 26km 지점",
         "price": null,
-        "location_google_map_query": "13.3441, 100.2132"
+        "location_google_map_query": "13.2355, 100.2132"
       },
       "references": [
         {
@@ -96915,11 +96915,15 @@
       "collected_at": "16:24"
     },
     {
+      "date": "2026-03-21",
       "title": "파타야에서 일본인 관광객, 오토바이 택시 기사로 추정되는 태국인 무리에게 폭행 및 오토바이로 치여",
       "summary": "- 파타야에서 26세 일본인 관광객이 오토바이 택시 기사로 추정되는 무리에게 폭행 당함.\n- 피해자는 심각한 부상을 입고 병원으로 이송되었으며, CCTV 영상에는 오토바이로 들이받는 장면이 담김.\n- 경찰은 용의자들을 추적 중이며, 관광객 안전에 대한 우려가 제기됨.",
-      "full_translated": "파타야 뉴스에 따르면 2026년 3월 21일 오전 4시 30분경, 파타야 시의 Sawang Boriboon Thammasathan 구조 센터는 외국인이 여러 남성에게 공격받아 부상을 입었다는 긴급 보고를 받았습니다. 사건은 사우스 파타야 로드 소이 2의 한 호텔 입구 근처에서 발생했으며, 피해자는 인근 호텔에서 지역 주민들에게 도움을 요청했습니다. 파타야 시 경찰서와 구조 자원 봉사자들이 현장에 신속하게 대응했습니다. 그들은 26세의 일본 국적의 카나사시 씨로 확인된 피해자가 몸 전체에 멍, 찢김 및 기타 부상을 입은 것을 발견했습니다. 현장에서 응급 처치를 실시한 후, 그는 긴급 치료를 위해 병원으로 이송되었습니다. 현장의 선한 사마리아인들의 진술에 따르면, 일본 남성은 쫓기고 공격을 받은 후 멍한 상태로 도움을 요청하며 그들에게 달려왔습니다. 목격자들은 폭행이 워킹 스트리트로 연결되는 마린 소이 입구 근처에서 시작되었으며, 모바일 앱 택시 기사로 의심되는 그룹이 그를 덮쳤다고 보고했습니다. 피해자는 도망치려 했지만 비틀거리며 호텔 앞에서 쓰러졌고, 도움을 받기 위해 계속 도망쳤습니다. 당국이 검토한 CCTV 영상에는 일본 남성이 필사적으로 도망치고, 그룹이 도보와 오토바이로 그를 쫓는 끔찍한 장면이 담겨 있습니다. 한 라이더는 심지어 오토바이로 피해자를 들이받아 넘어뜨리는 모습도 보입니다.",
+      "link": "https://thepattayanews.com/2026/03/21/japanese-tourist-brutally-assaulted-and-run-down-with-motorbike-by-group-of-thai-men-believed-to-be-mobile-taxi-riders-in-pattaya/",
+      "source": "",
       "category": "POLITICS",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
+      "full_translated": "파타야 뉴스에 따르면 2026년 3월 21일 오전 4시 30분경, 파타야 시의 Sawang Boriboon Thammasathan 구조 센터는 외국인이 여러 남성에게 공격받아 부상을 입었다는 긴급 보고를 받았습니다. 사건은 사우스 파타야 로드 소이 2의 한 호텔 입구 근처에서 발생했으며, 피해자는 인근 호텔에서 지역 주민들에게 도움을 요청했습니다. 파타야 시 경찰서와 구조 자원 봉사자들이 현장에 신속하게 대응했습니다. 그들은 26세의 일본 국적의 카나사시 씨로 확인된 피해자가 몸 전체에 멍, 찢김 및 기타 부상을 입은 것을 발견했습니다. 현장에서 응급 처치를 실시한 후, 그는 긴급 치료를 위해 병원으로 이송되었습니다. 현장의 선한 사마리아인들의 진술에 따르면, 일본 남성은 쫓기고 공격을 받은 후 멍한 상태로 도움을 요청하며 그들에게 달려왔습니다. 목격자들은 폭행이 워킹 스트리트로 연결되는 마린 소이 입구 근처에서 시작되었으며, 모바일 앱 택시 기사로 의심되는 그룹이 그를 덮쳤다고 보고했습니다. 피해자는 도망치려 했지만 비틀거리며 호텔 앞에서 쓰러졌고, 도움을 받기 위해 계속 도망쳤습니다. 당국이 검토한 CCTV 영상에는 일본 남성이 필사적으로 도망치고, 그룹이 도보와 오토바이로 그를 쫓는 끔찍한 장면이 담겨 있습니다. 한 라이더는 심지어 오토바이로 피해자를 들이받아 넘어뜨리는 모습도 보입니다.",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260321_1149317808224767406811657.jpg?v=1774068942",
       "impact_reason": "관광객 대상 강력 범죄 발생. 여행 안전에 대한 직접적인 위협이므로 필수적으로 포함. 시간 경과에 따른 상황 변화는 없으므로 업데이트는 아님.",
       "event_info": {
         "date": "2026-03-21",
@@ -96935,16 +96939,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260321_1149317808224767406811657.jpg?v=1774068942"
         }
       ],
-      "collected_at": "16:52",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260321_1149317808224767406811657.jpg?v=1774068942",
-      "date": "2026-03-21"
+      "collected_at": "16:52"
     },
     {
+      "date": "2026-03-21",
       "title": "촌부리 카오마이깨우 지역, 연료 부족으로 주유소 폐쇄 잇따라",
       "summary": "- 촌부리 카오마이깨우 지역에서 연료 수요 급증으로 주유소들이 어려움을 겪고 있음.\n- 한 주유소는 3월 할당량이 모두 소진되어 4월 1일에 다음 공급을 기다리고 있다고 밝힘.\n- 인근 PTT 주유소는 당일 오전에 받은 16,000리터의 연료가 빠르게 소진되어 추가 공급을 기다리는 중.",
-      "full_translated": "촌부리 카오마이깨우 지역에서 연료 부족이 발생하여 주유소들이 어려움을 겪고 있습니다. 2026년 3월 21일, 카오마이깨우에 위치한 Bangchak 주유소의 매니저인 Yuwadee Ingkha-amrungphong은 연료 사재기 소문에 대해 해명하며, 3월 디젤 할당량이 모두 소진되었다고 밝혔습니다. 그녀는 월별 할당량이 소진되었으며 다음 공급은 2026년 4월 1일에 예정되어 있다고 설명했습니다. 공정한 분배를 위해 주유소는 구매 제한을 시행했는데, 농업 종사자와 트럭 운전자는 거래당 3,000바트로 제한되었고 일반 승용차는 약 700바트로 제한되었습니다. 이러한 조치에도 불구하고 디젤, 가솔홀 91, 가솔홀 95를 포함한 모든 연료 유형이 오후까지 매진되었습니다. 매니저는 이러한 상황이 직원들에게 상당한 부담을 주고 있으며 일부 불만을 가진 고객들로부터 비판을 받고 있다고 언급했습니다. 그녀는 주유소가 연료를 사재기하지 않았으며 할당량에 따라 받은 모든 연료를 판매했다고 강조했습니다. 같은 지역의 인근 PTT 주유소에서는 The Pattaya News 기자들이 도로까지 길게 늘어선 차량 행렬을 관찰했습니다. 주유소 매니저는 오전에 16,000리터의 연료를 받았지만 빠르게 소진되었다고 보고했습니다. 지속적인 수요를 충족하기 위해 오후에 추가로 16,000리터의 디젤이 도착할 예정입니다. 긴 대기열에도 불구하고 분위기는 질서정연하게 유지되었으며 대부분의 사람들이 당황하지 않고 묵묵히 기다리고 있었습니다. 일부 운전자들은 평소보다 오래 걸리더라도 결국 연료를 얻을 수 있을 것이라고 확신했습니다. 카오마이깨우의 연료 부족은...",
+      "link": "https://thepattayanews.com/2026/03/21/fuel-shortage-grips-khao-mai-kaeo-area-in-chonburi-pumps-run-dry-quickly-amid-high-demand/",
+      "source": "",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
+      "full_translated": "촌부리 카오마이깨우 지역에서 연료 부족이 발생하여 주유소들이 어려움을 겪고 있습니다. 2026년 3월 21일, 카오마이깨우에 위치한 Bangchak 주유소의 매니저인 Yuwadee Ingkha-amrungphong은 연료 사재기 소문에 대해 해명하며, 3월 디젤 할당량이 모두 소진되었다고 밝혔습니다. 그녀는 월별 할당량이 소진되었으며 다음 공급은 2026년 4월 1일에 예정되어 있다고 설명했습니다. 공정한 분배를 위해 주유소는 구매 제한을 시행했는데, 농업 종사자와 트럭 운전자는 거래당 3,000바트로 제한되었고 일반 승용차는 약 700바트로 제한되었습니다. 이러한 조치에도 불구하고 디젤, 가솔홀 91, 가솔홀 95를 포함한 모든 연료 유형이 오후까지 매진되었습니다. 매니저는 이러한 상황이 직원들에게 상당한 부담을 주고 있으며 일부 불만을 가진 고객들로부터 비판을 받고 있다고 언급했습니다. 그녀는 주유소가 연료를 사재기하지 않았으며 할당량에 따라 받은 모든 연료를 판매했다고 강조했습니다. 같은 지역의 인근 PTT 주유소에서는 The Pattaya News 기자들이 도로까지 길게 늘어선 차량 행렬을 관찰했습니다. 주유소 매니저는 오전에 16,000리터의 연료를 받았지만 빠르게 소진되었다고 보고했습니다. 지속적인 수요를 충족하기 위해 오후에 추가로 16,000리터의 디젤이 도착할 예정입니다. 긴 대기열에도 불구하고 분위기는 질서정연하게 유지되었으며 대부분의 사람들이 당황하지 않고 묵묵히 기다리고 있었습니다. 일부 운전자들은 평소보다 오래 걸리더라도 결국 연료를 얻을 수 있을 것이라고 확신했습니다. 카오마이깨우의 연료 부족은...",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17740820848713995732606744422958.jpg?v=1774082477",
       "impact_reason": "여행객들의 차량 이동에 필수적인 연료 공급 부족에 대한 정보. 혼란을 피하기 위한 정보 제공.",
       "event_info": {
         "date": "2026-03-21",
@@ -96960,16 +96966,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17740820848713995732606744422958.jpg?v=1774082477"
         }
       ],
-      "collected_at": "16:52",
-      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/17740820848713995732606744422958.jpg?v=1774082477",
-      "date": "2026-03-21"
+      "collected_at": "16:52"
     },
     {
+      "date": "2026-03-21",
       "title": "아난타 마히돌 병원, 외래 환자 대상 모든 약품 및 의약품 지급 횟수 2개월로 제한",
       "summary": "- 아난타 마히돌 병원은 중동 지역의 불안정한 상황으로 인해 의약품 관리를 강화합니다.\n- 모든 외래 환자를 대상으로 약품 및 의약품 지급 횟수를 최대 2개월로 제한합니다.\n- 해당 조치는 2026년 3월 23일부터 시작되며, 병원은 불편을 드려 죄송하다고 밝혔습니다.",
-      "full_translated": "아난타 마히돌 병원은 모든 권리에 따른 외래 환자에게 약품 및 의약품 지급을 1회당 2개월 이하로 제한한다고 발표했습니다. 이는 중동 지역의 불안정한 상황으로 인해 약품을 적절하고 충분히 관리하기 위한 준비입니다. 2026년 3월 21일, 아난타 마히돌 병원 페이스북 페이지는 병원 서비스를 이용하는 사람들에게 다음과 같은 공지 사항을 발표했습니다. 현재 중동 지역의 불안정한 상황으로 인해 아난타 마히돌 병원은 환자를 위한 약품 및 의약품을 적절하고 충분히 준비하고 관리하는 것이 적절하다고 판단하여 2026년 3월 23일부터 모든 권리에 따른 외래 환자에 대한 약품 및 의약품 지급 기간을 1회당 2개월 이하로 제한합니다. 아난타 마히돌 병원은 불편을 드려 죄송합니다. 2026년 3월 20일. 페이스북 아난타 마히돌 병원에서 제공한 정보에 감사드립니다.",
+      "link": "https://www.thairath.co.th/news/society/2921606",
+      "source": "",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
+      "full_translated": "아난타 마히돌 병원은 모든 권리에 따른 외래 환자에게 약품 및 의약품 지급을 1회당 2개월 이하로 제한한다고 발표했습니다. 이는 중동 지역의 불안정한 상황으로 인해 약품을 적절하고 충분히 관리하기 위한 준비입니다. 2026년 3월 21일, 아난타 마히돌 병원 페이스북 페이지는 병원 서비스를 이용하는 사람들에게 다음과 같은 공지 사항을 발표했습니다. 현재 중동 지역의 불안정한 상황으로 인해 아난타 마히돌 병원은 환자를 위한 약품 및 의약품을 적절하고 충분히 준비하고 관리하는 것이 적절하다고 판단하여 2026년 3월 23일부터 모든 권리에 따른 외래 환자에 대한 약품 및 의약품 지급 기간을 1회당 2개월 이하로 제한합니다. 아난타 마히돌 병원은 불편을 드려 죄송합니다. 2026년 3월 20일. 페이스북 아난타 마히돌 병원에서 제공한 정보에 감사드립니다.",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wXpWrxmTHALi.jpg",
       "impact_reason": "여행 중 병원을 이용해야 하는 경우 약품 지급 제한으로 인해 불편이 발생할 수 있습니다. 다만, 당장 큰 혼란을 야기하는 정보는 아니므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": "2026-03-23",
@@ -96985,16 +96993,18 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wXpWrxmTHALi.jpg"
         }
       ],
-      "collected_at": "16:52",
-      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wXpWrxmTHALi.jpg",
-      "date": "2026-03-21"
+      "collected_at": "16:52"
     },
     {
+      "date": "2026-03-21",
       "title": "코랏에서 유가 급등으로 전기차 수요 급증",
       "summary": "- 코랏의 주요 전기차 딜러에 따르면 중동 긴장과 유가 급등으로 전기차 수요가 급증하고 있습니다.\n- Ek Saha Group의 임원은 연료 가격 급등과 공급 부족이 소비자 행동에 직접적인 영향을 미치고 있다고 밝혔습니다.\n- 휘발유 차량이 재정적 부담으로 인식되면서 전기차에 대한 관심이 높아지고 있으며, 정부의 EV 3.0 계획과 같은 인센티브도 시장 활성화에 기여했습니다.",
-      "full_translated": "나콘랏차시마 — 2026년 3월 20일 — 코랏의 주요 전기 자동차(EV) 딜러는 중동의 긴장과 급증하는 세계 유가가 EV 수요의 급격한 증가를 주도하고 있으며 예약이 크게 증가하고 있다고 밝혔습니다. Ek Saha Group의 임원인 Sudtirak Phansai-chuea 씨는 현재의 세계 연료 가격 급등과 새로운 부족 현상이 소비자 행동에 직접적인 영향을 미치고 있으며 많은 사람들이 이전보다 더 빨리 적응하도록 강요하고 있다고 말했습니다. 그는 쇼룸 방문과 EV에 대한 문의가 급격히 증가하는 데서 알 수 있듯이 관심이 분명히 증가했다고 언급했습니다. 작년 말과 비교하여 잠재 구매자 수가 눈에 띄게 증가했습니다. EV 3.0 계획과 같은 이전 정부 인센티브가 시장을 활성화하는 데 도움이 되었지만, 현재 수요는 소비자들이 휘발유 구동 차량을 편리함보다는 재정적 부담으로 보기 시작함에 따라 실질적인 필요에 의해 점점 더 주도되고 있다고 그는 말했습니다.\n\n앞으로 그는 하이브리드 시스템에서 플러그인 하이브리드 및 확장형 EV에 이르기까지 급속한 기술 발전과 함께 EV 부문이 계속 확장될 것이라고 확신하며, 점차 화석 연료에 대한 의존도를 줄이고 완전 전기 자동차의 길을 열 것입니다. 그는 기존 내연 기관 차량은 시간이 지남에 따라 역할이 줄어들 가능성이 높다고 덧붙였습니다. 그는 또한 EV의 경제적 이점을 강조하면서 킬로미터당 비용이 휘발유 차량의 약 20%에 불과하여 사용자가 연료 비용을 최대 80%까지 절약할 수 있다고 언급했습니다. 예를 들어, 그는 일반적인",
+      "link": "https://www.khaosodenglish.com/news/2026/03/21/soaring-oil-prices-drive-ev-demand-surge-in-korat/",
+      "source": "",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
+      "full_translated": "나콘랏차시마 — 2026년 3월 20일 — 코랏의 주요 전기 자동차(EV) 딜러는 중동의 긴장과 급증하는 세계 유가가 EV 수요의 급격한 증가를 주도하고 있으며 예약이 크게 증가하고 있다고 밝혔습니다. Ek Saha Group의 임원인 Sudtirak Phansai-chuea 씨는 현재의 세계 연료 가격 급등과 새로운 부족 현상이 소비자 행동에 직접적인 영향을 미치고 있으며 많은 사람들이 이전보다 더 빨리 적응하도록 강요하고 있다고 말했습니다. 그는 쇼룸 방문과 EV에 대한 문의가 급격히 증가하는 데서 알 수 있듯이 관심이 분명히 증가했다고 언급했습니다. 작년 말과 비교하여 잠재 구매자 수가 눈에 띄게 증가했습니다. EV 3.0 계획과 같은 이전 정부 인센티브가 시장을 활성화하는 데 도움이 되었지만, 현재 수요는 소비자들이 휘발유 구동 차량을 편리함보다는 재정적 부담으로 보기 시작함에 따라 실질적인 필요에 의해 점점 더 주도되고 있다고 그는 말했습니다.\n\n앞으로 그는 하이브리드 시스템에서 플러그인 하이브리드 및 확장형 EV에 이르기까지 급속한 기술 발전과 함께 EV 부문이 계속 확장될 것이라고 확신하며, 점차 화석 연료에 대한 의존도를 줄이고 완전 전기 자동차의 길을 열 것입니다. 그는 기존 내연 기관 차량은 시간이 지남에 따라 역할이 줄어들 가능성이 높다고 덧붙였습니다. 그는 또한 EV의 경제적 이점을 강조하면서 킬로미터당 비용이 휘발유 차량의 약 20%에 불과하여 사용자가 연료 비용을 최대 80%까지 절약할 수 있다고 언급했습니다. 예를 들어, 그는 일반적인",
+      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/2banner-3.jpg",
       "impact_reason": "코랏 지역의 연료 가격 상승과 전기차 수요 증가에 대한 정보는 여행객의 교통 수단 선택 및 비용 고려에 영향을 줄 수 있음. 다만, 2026년 미래 시점의 정보이므로 즉각적인 영향은 적다고 판단.",
       "event_info": {
         "date": "2026-03-20",
@@ -97010,16 +97020,18 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/2banner-3.jpg"
         }
       ],
-      "collected_at": "16:52",
-      "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/2banner-3.jpg",
-      "date": "2026-03-21"
+      "collected_at": "16:52"
     },
     {
+      "date": "2026-03-21",
       "title": "신임 교육부 차관 '골프-아크라난 칸킷티난'의 이력",
       "summary": "- '골프-아크라난 칸킷티난'은 가난한 시골 출신으로 각고의 노력 끝에 교육부 차관에 임명됨.\n- 그는 쁘어타이당에 대한 높은 충성심을 바탕으로 어려운 지역구에서 승리하며 정치적 입지를 다짐.\n- 젊은 사업가 출신으로 디지털 시대에 맞는 교육 개혁을 추진할 것으로 기대됨.",
-      "full_translated": "정치 신인 장관의 이력 공개: '골프-아크라난 칸킷티난', 교육부 차관 자리에 오르다\n\n시골뜨기에서 장관 자리까지, '골프-아크라난 칸킷티난' 교육부 차관 지명자의 이력. 어린 시절부터 고생하며 삶에서 성공을 거두었습니다. 2026년 3월 21일 내각 구성에서 쁘어타이당의 내각 명단에는 정치 신인인 '골프-아크라난 칸킷티난' 깐차나부리 지역구 의원 1선거구가 교육부 차관으로 지명되었습니다.\n\n'골프'는 쁘어타이당에 대한 충성심이 높은 떠오르는 신예 의원입니다. 그는 중부 지역에서 당의 지지세가 약화되었을 때 국회의원 선거에 출마하기로 결심했습니다. 그러나 그는 깐차나부리 1구에서 승리했으며, 이는 중요한 전략적 지역으로 간주됩니다. 쁘어타이당의 장관직 배정은 권력과 발전의 분산을 위해 지역별 비례에 따라 고려됩니다. 이번에는 3개 주요 지역(북부, 이산, 중부)의 신예 의원들에게 차관 자리가 배정되었으며, 아크라난은 뛰어난 성과를 인정받아 중부 지역 대표로 선발되었습니다. 어린 나이에 성공한 사업가(스타트업/중소기업)로서의 경험과 해외 생활 경험을 바탕으로 당은 그가 당의 정책, 즉 디지털 시대와 노동 시장 변화에 발맞춰 '교육 개혁'을 추진하는 데 부합하는 현대적인 비전을 가지고 있다고 판단합니다. ... '골프-아크라난 칸킷티난'의 이력은 1987년 3월 29일 깐차나부리에서 태어났습니다. 골프는 부유하지 않은 가정에서 자랐기 때문에 십 대 때부터 고군분투했고, 결국 돈을 벌기 위해 미국으로 건너가기로 결심했습니다. 수년간의 해외 경험은 그를 투사로 만들었고, 이후 그는 에이케이 나인티원 그룹의 사업주로서 이름을 알렸습니다.",
+      "link": "https://www.thairath.co.th/news/politic/2921604",
+      "source": "",
       "category": "POLITICS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
+      "full_translated": "정치 신인 장관의 이력 공개: '골프-아크라난 칸킷티난', 교육부 차관 자리에 오르다\n\n시골뜨기에서 장관 자리까지, '골프-아크라난 칸킷티난' 교육부 차관 지명자의 이력. 어린 시절부터 고생하며 삶에서 성공을 거두었습니다. 2026년 3월 21일 내각 구성에서 쁘어타이당의 내각 명단에는 정치 신인인 '골프-아크라난 칸킷티난' 깐차나부리 지역구 의원 1선거구가 교육부 차관으로 지명되었습니다.\n\n'골프'는 쁘어타이당에 대한 충성심이 높은 떠오르는 신예 의원입니다. 그는 중부 지역에서 당의 지지세가 약화되었을 때 국회의원 선거에 출마하기로 결심했습니다. 그러나 그는 깐차나부리 1구에서 승리했으며, 이는 중요한 전략적 지역으로 간주됩니다. 쁘어타이당의 장관직 배정은 권력과 발전의 분산을 위해 지역별 비례에 따라 고려됩니다. 이번에는 3개 주요 지역(북부, 이산, 중부)의 신예 의원들에게 차관 자리가 배정되었으며, 아크라난은 뛰어난 성과를 인정받아 중부 지역 대표로 선발되었습니다. 어린 나이에 성공한 사업가(스타트업/중소기업)로서의 경험과 해외 생활 경험을 바탕으로 당은 그가 당의 정책, 즉 디지털 시대와 노동 시장 변화에 발맞춰 '교육 개혁'을 추진하는 데 부합하는 현대적인 비전을 가지고 있다고 판단합니다. ... '골프-아크라난 칸킷티난'의 이력은 1987년 3월 29일 깐차나부리에서 태어났습니다. 골프는 부유하지 않은 가정에서 자랐기 때문에 십 대 때부터 고군분투했고, 결국 돈을 벌기 위해 미국으로 건너가기로 결심했습니다. 수년간의 해외 경험은 그를 투사로 만들었고, 이후 그는 에이케이 나인티원 그룹의 사업주로서 이름을 알렸습니다.",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wXv8BUmjW1Ib.jpg",
       "impact_reason": "태국 정치인 임명 관련 뉴스로 여행객에게 직접적인 영향은 적다고 판단.",
       "event_info": {
         "date": null,
@@ -97035,8 +97047,131 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wXv8BUmjW1Ib.jpg"
         }
       ],
-      "collected_at": "16:52",
-      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wXv8BUmjW1Ib.jpg",
+      "collected_at": "16:52"
+    },
+    {
+      "title": "태국, 안보 위험 문제 해결 위해 무비자 체류 기간 30일로 단축 고려",
+      "summary": "- 태국 정부가 안보 위험을 이유로 무비자 체류 기간을 30일로 단축하는 방안을 검토 중입니다.\n- 이는 관광 산업에 영향을 미칠 수 있는 중요한 변화입니다.\n- 관련 부처 간 논의를 거쳐 최종 결정될 예정입니다.",
+      "full_translated": "태국은 안보 위험 문제를 해결하기 위해 무비자 체류 기간을 30일로 단축하는 방안을 고려하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "무비자 체류 기간 변경은 여행자에게 직접적인 영향을 미치므로 매우 중요합니다. 특히 장기 여행 계획을 가진 여행자에게는 큰 변화입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand considers cutting visa-free stay to 30 days to address security risks - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDAxVkotOUdZVGg5V3JZQ3VaUHFYWENkRU9PRmlmVmZhX1FtYTRTbk8xdE5OR2dDUTVLNDAzMUFDa1hzQzNaS0NFdkNETDYwa0Vaamp5NlZQcjJ6b0hZTTQzNkVkbEhPS3dYeUtnUjhzQjVBQUQ1ZFRCQ0gxVXUzZHlSZ2lJSElBTVVyaUVzT19lV3NFeHRVV1dHM2pXQV9TbTJFX2FhdmN0QmN2WlRNYkxZSjd4WUxXMVVnRm1DWHE2UWtsQ214TERDcjFtMXN3WGhvaUIwTHRLd9IB3wFBVV95cUxOUW8yQVZia1RzSU9mdjJtYVlHMjMxZ1RXaFBJQnk2dVU2c2c2aTV5T0VkN2hDT0dVUHpoQ3hoRXhZTU83ZHpXWlJXX1N3bU9YeDJQaVIyUkY3T0R1aFdfcmhLU2NIaUVjalhfVURsYnUxcHVwR0duTzVyOGlFdkoyWFZ2N0xCMVJUOTFwajFZWVJwUjBJd3BnNzdRVzIzMVlHYWEzQW10dk1KMFR0RGl4b2ZTbi1fZFJ1SkRWWWNCYWZOOU5HUkFTdzdpc3FoeC1Wb2ZCVWNnZkt1VkgxdURZ?oc=5",
+          "source": "The Economic Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-21"
+    },
+    {
+      "title": "태국, 석유 부족으로 관광 산업 위협, 업계 지원 요청",
+      "summary": "- 태국의 관광 산업이 석유 부족으로 위협받고 있습니다.\n- 업계는 정부에 긴급 지원을 요청하고 있습니다.\n- 자세한 내용은 관련 기사를 참조하십시오.",
+      "full_translated": "태국의 관광 산업은 석유 부족으로 인해 위협받고 있으며, 업계는 정부에 긴급 지원을 요청하고 있습니다. 자세한 내용은 Travel And Tour World 기사를 참조하십시오.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "석유 부족은 교통 및 여행 비용 상승을 유발하여 관광객에게 간접적인 영향을 미칠 수 있음. 현재 상황이 심각한 수준은 아니지만 잠재적 위험 요소를 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Oil Shortages Threaten Thailand’s Tourism, Industry Groups Seek Urgent Support - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONHFOZkp5SE1IUWNxSTJVN09EZ1c4ZmtsZVk0TzRSeGVmc0FGOWZLZmoxcnB3dXhibDNLTUpackR1NlUxWU9TVE9acnNCd3l6VEdLcXd2cER0MUVKay1NN3M2T0MwRGZ0TEJfbkxYQnQzZ2lLREFPY3ZraGRwX0VicDdVbmhfV0RnX0xFRlFMckZyTVRabzZoUlFfQWkxRDNnbGFQWDRHeWVlQ0Fxd3ByOGFNWGp2VWxPSEhoOE9raE1QWXc?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-21"
+    },
+    {
+      "title": "태국 정부, 유가 상황 완화 및 상품 가격 통제 강화, 마유리호 선원 3명 지원 지속",
+      "summary": "- 태국 정부는 중동 상황이 여전히 불안정하다고 밝혔으며, 관련국들과 계속 협력하고 있습니다.\n- 유류 공급을 확대하고 상품 가격에 대한 통제를 강화하고 있습니다.\n- 이스라엘에서 사망한 태국 노동자 관련, 시신 송환 및 보상 절차를 진행 중입니다.",
+      "full_translated": "태국 정부는 중동 상황이 여전히 격화되고 있으며, 주요 분쟁 당사자와 헤즈볼라 그룹 간의 공격이 계속되고 있다고 밝혔습니다. 또한, 여러 국가의 에너지 기반 시설에 대한 공격이 확대되어 세계 경제 안정과 에너지 안보에 더 큰 영향을 미치고 있습니다. 호르무즈 해협의 상황은 여전히 긴장 상태이며, 미국과 이스라엘은 항로를 재개하기 위해 이란 해안 근처에서 군사 작전을 수행하고 있으며, 미 해병대를 중동 지역에 추가로 파견할 계획입니다. 최근 이란 당국은 이스라엘의 공습으로 이란 혁명수비대(IRGC) 대변인이 사망했다고 확인했습니다.\n\n태국 외무부는 2026년 3월 20일 이스라엘에서 발생한 태국 노동자 사망 사건에 대한 성명을 발표하고 모든 당사자가 국제법과 유엔 헌장에 따라 가능한 한 빨리 대화와 외교 절차로 복귀할 것을 촉구했습니다. 또한 민간인 안전과 호르무즈 해협을 통한 항해의 중요성을 강조했습니다. 해당 지역의 태국인 지원과 관련하여 외무부는 관련 기관과 긴밀히 협력하고 있습니다. 폭탄 파편으로 사망한 이스라엘 내 태국 노동자 1명의 경우, 텔아비브 주재 대사관은 시신을 태국으로 신속히 송환하기 위해 이스라엘 정부와 협력하고 있으며, 관련 혜택과 보상금을 추적하고 있습니다.\n\n(후략) \n\n**주의:** 기사 날짜가 2026년으로 되어 있으나, 현재 시점을 고려하여 2024년으로 해석했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 상황 불안정이 유가에 영향을 미칠 수 있으며, 상품 가격 통제는 여행객 물가에 간접적 영향을 줄 수 있음. 태국 정부의 대응 관련 정보 제공.",
+      "event_info": {
+        "date": "2024-03-21",
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "รัฐบาลเผยสถานการณ์น้ำมันเริ่มคลี่คลาย คุมเข้มราคาสินค้า ยังประสานช่วย 3 ลูกเรือมยุรีฯ",
+          "url": "https://www.thairath.co.th/news/politic/2921612",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wueFUYrcnaZm.jpg"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wueFUYrcnaZm.jpg",
+      "date": "2026-03-21"
+    },
+    {
+      "title": "태국 내무부, 유가 표시 및 사재기 단속 위한 공무원 임명",
+      "summary": "- 태국 내무부가 유가 부족 사태 방지를 위해 가격 표시 및 사재기 감시 공무원을 임명했습니다.\n- 이는 총리 명령에 따른 것으로, 석유 거래법에 따른 석유 판매업자 단속을 목표로 합니다.\n- 관련 공무원은 가격 표시 준수 여부와 석유 부족 사태 대비를 감독하게 됩니다.",
+      "full_translated": "내무부 차관은 석유 부족 사태를 막기 위해 상인들의 유가 표시 및 석유 소유를 추적하고 사재기를 감시하는 공무원을 임명했습니다. 2026년 3월 21일, 아트싯 삼판타랏 내무부 차관은 2026년 3월 20일자 총리 명령 3/2026호에 따른 조치에 대해 밝혔습니다. 이 명령은 중동 분쟁으로 인한 연료 부족 사태를 해결하고 예방하기 위한 조치를 규정하고 있습니다. 부총리(피팟 랏차킷프라칸), 법무부 장관, 내무부 차관, 경찰청장, 특별수사국장, 에너지 사업부 국장은 2000년 석유 거래법 7조에 따른 석유 거래자와 2000년 석유 거래법 10조에 따른 석유 거래자의 운영을 추적하고, 1973년 석유 부족 사태 해결 및 예방에 관한 법령에 따른 공무원이 되어 이 명령을 수행할 권한을 갖습니다.\n\n내무부 차관은 2026년 3월 21일자 내무부 발표에 서명하여 총리 명령을 효율적으로 수행하고 국민에게 최대한의 이익을 가져다주기 위해 공무원을 임명했다고 밝혔습니다. 내무부 차관, 내부 보안 업무 그룹 책임자, 행정부 국장, 내무부 차관보, 모든 주지사, 모든 부지사, 모든 지방 차관, 모든 지역 책임자가 공무원으로 임명되어 석유 거래법에 따라 석유 거래자가 준수해야 할 사항을 추적할 책임이 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "연료 가격 및 공급에 대한 우려는 여행자에게도 영향을 미칠 수 있으므로 관련 정보 제공. 다만, 현재로서는 심각한 상황은 아니라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ปลัด มท. แต่งตั้ง จนท. ตรวจสอบการแสดงราคา-เฝ้าระวังกักตุนน้ำมัน ป้องกันภาวะขาดแคลน",
+          "url": "https://www.thairath.co.th/news/politic/2921610",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wuSqpdRkUfnf.jpg"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wuSqpdRkUfnf.jpg",
+      "date": "2026-03-21"
+    },
+    {
+      "title": "내일(2026년 3월 22일) 유가 정보: 각 주유소별 휘발유 및 경유 가격 확인",
+      "summary": "- 2026년 3월 22일, 태국 내 휘발유, 가스홀, 경유 가격 업데이트.\n- PTT, Bangchak, PT, Caltex, Shell 등 주요 주유소 가격 정보 제공.\n- 하이 프리미엄 디젤 S는 46.84바트/리터.",
+      "full_translated": "2026년 3월 22일 내일의 유가 정보입니다. 모든 종류의 휘발유, 가스홀, 디젤 가격을 PTT, Bangchak, PT, Caltex 및 Shell 주유소에서 확인하세요. 리터당 최신 가격은 다음과 같습니다.\n\n2026년 3월 21일, 기자들은 Bangchak Corporation Public Company Limited 웹사이트, PTT Oil and Retail Public Company Limited 웹사이트, Shell Company of Thailand Limited 웹사이트, PTG Energy Public Company Limited 및 Chevron (Thai) Limited 웹사이트에서 휘발유, 가스홀 및 디젤의 최신 가격을 업데이트했습니다. 2026년 3월 22일 내일의 유가는 다음과 같습니다.\n\n* 하이 프리미엄 디젤 S: 46.84바트/리터\n* 하이 디젤 S: 31.14바트/리터\n* 하이 프리미엄 97: 49.54바트/리터\n* 가스홀 E85S EVO: 24.79바트/리터\n* 가스홀 E20S EVO: 28.05바트/리터\n* 가스홀 91S EV: 32.68바트/리터\n* 가스홀 95S EVO: 33.05바트/리터\n* 디젤: 31.14바트/리터\n* 가스홀 E85: 24.79바트/리터\n* 가스홀 E20: 28.05바트/리터\n* 가스홀 91: 32.68바트/리터\n* 가스홀 95: 33.05바트/리터\n* 휘발유: 41.64바트/리터\n* 슈퍼파워 디젤: 44.64바트/리터\n* 슈퍼파워 가스홀 95: 42.04바트/리터\n* 쉘 퓨얼세이브 가스홀 E20: 28.90바트/리터\n* 쉘 퓨얼세이브 가스홀 91: 33.78바트/리터\n* 쉘 퓨얼세이브 가스홀 95: 33.90바트/리터\n* 쉘 V-파워 가스홀 95: 49.84바트/리터\n* 쉘 퓨얼세이브 디젤: 31.44바트/리터\n* 쉘 V-파워 디젤: 49.84바트/리터\n* 디젤: 31.14바트/리터\n* 가스홀 95: 33.05바트/리터\n* 가스홀 91: 32.6",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "주유 가격은 여행자가 차량을 이용할 경우 중요한 정보이며, 매일 업데이트되므로 포함.",
+      "event_info": {
+        "date": "2026-03-22",
+        "location": "태국 전역 주유소",
+        "price": "기사 참조",
+        "location_google_map_query": "Thailand gas station"
+      },
+      "references": [
+        {
+          "title": "ราคาน้ำมันพรุ่งนี้ 22 มีนาคม 2026 เช็กราคาแต่ละปั๊ม \"ดีเซล-โซฮอล์\" ลิตรละกี่บาท",
+          "url": "https://www.thairath.co.th/news/society/2921611",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wuQFdUo4UHAh.jpg"
+        }
+      ],
+      "collected_at": "17:18",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUv7wuQFdUo4UHAh.jpg",
       "date": "2026-03-21"
     }
   ]
