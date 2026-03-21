@@ -69,6 +69,56 @@ def inject_ga(ga_id):
         # Fail silently as per requirements
         pass
 
+# --- Open Graph (OG) Tags Injection ---
+@st.cache_resource
+def inject_og_tags():
+    """
+    Injects Open Graph (OG) and Twitter Card tags into the Streamlit 'index.html' file.
+    Runs once per server session using @st.cache_resource.
+    This fixes the issue where link sharing on KakaoTalk/Slack only shows "streamlit".
+    """
+    try:
+        import streamlit
+        import pathlib
+        st_path = pathlib.Path(streamlit.__path__[0])
+        index_path = st_path / "static" / "index.html"
+
+        if not index_path.exists():
+            return
+
+        with open(index_path, "r", encoding="utf-8") as f:
+            html_content = f.read()
+
+        # Check if already injected
+        if 'property="og:title"' in html_content:
+            return
+
+        # High-quality Unsplash image of Thailand (1200x630 for OG tags)
+        og_image_url = "https://images.unsplash.com/photo-1508009603885-50cf7c579365?auto=format&fit=crop&w=1200&h=630&q=80"
+        
+        og_tags = f"""
+    <!-- Open Graph Tags (Injected for Link Previews) -->
+    <meta property="og:title" content="오늘의 태국🇹🇭">
+    <meta property="og:description" content="방콕 실시간 뉴스, 호텔 및 맛집 팩트체크, 그리고 맞춤형 가이드까지! 태국 여행의 모든 것을 만나보세요.">
+    <meta property="og:image" content="{og_image_url}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://thai-today.com">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="오늘의 태국🇹🇭">
+    <meta name="twitter:description" content="방콕 실시간 뉴스, 호텔 및 맛집 팩트체크, 여행 가이드까지! 태국 여행의 모든 것을 만나보세요.">
+    <meta name="twitter:image" content="{og_image_url}">
+"""
+        # Inject tags immediately after <head>
+        new_html_content = html_content.replace("<head>", f"<head>{og_tags}")
+
+        with open(index_path, "w", encoding="utf-8") as f:
+            f.write(new_html_content)
+
+    except Exception:
+        # Fail silently if Streamlit file system is restricted
+        pass
+
+
 # --- 다국어 지원 (Multi-language Support) ---
 UI_TEXT = {
     "main_title": {"ko": "오늘의 태국 🇹🇭", "en": "Thai Today 🇹🇭"},

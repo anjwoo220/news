@@ -10,6 +10,9 @@ from datetime import datetime, timedelta
 # Injects GA4 tracking code into index.html in the background
 utils.inject_ga("G-8CG63K7SC7")
 
+# --- Open Graph Tags Injection ---
+utils.inject_og_tags()
+
 import plotly.express as px
 from collections import Counter
 import hashlib
