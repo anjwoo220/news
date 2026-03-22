@@ -22722,7 +22722,7 @@
       "summary": "- 태국 정부가 관광 비자 정책 변경을 검토 중입니다.\n- 현재 60일 무비자 체류 기간이 30일로 단축될 수 있습니다.\n- 정책 변경 시 여행 계획에 차질이 예상되므로 주의가 필요합니다.",
       "full_translated": "태국 정부가 관광 비자 정책을 변경하여 무비자 체류 기간을 60일에서 30일로 단축하는 방안을 고려하고 있습니다. 이는 관광객들의 여행 계획에 큰 영향을 미칠 수 있으므로, 태국 여행을 계획 중인 여행객들은 변경 사항을 주의 깊게 확인해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 9,
+      "tourist_impact_score": 9.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 매우 중요합니다. 기존 뉴스에 비해 변경 가능성을 명시적으로 언급하므로 업데이트로 간주합니다.",
       "event_info": {
         "date": null,
@@ -22748,16 +22748,18 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "02:00",
+      "collected_at": "2:00",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBTZmhkWUprNWI5cjBPU1I1SnJiWUJ2b3RLTWxqSDNkaEdYOWtOdHF3Y2NMMF90QXMyXy1ja0FDSm9aZ3VQWEduZ2t6OW13NDdxYnhweThDaXo3MVkwQWpLWjJoNU5STG45UzZGdw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 관광 비자 변경 고려: 60일에서 30일로 단축 가능성",
       "summary": "- 태국 정부가 관광 비자 체류 기간을 60일에서 30일로 단축하는 방안을 검토 중입니다.\n- 이는 입국 규정 강화를 위한 조치로 풀이됩니다.\n- 관련 변경 사항은 추후 공지될 예정입니다.",
       "full_translated": "태국 정부는 관광 비자 체류 기간을 60일에서 30일로 단축하는 방안을 고려하고 있습니다. 이는 입국 규정 강화를 위한 조치입니다. 관련 변경 사항은 추후 공지될 예정입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 중요도가 높습니다. 기존에 게시된 정보와 유사하지만, 변경 가능성을 명시적으로 언급하고 있어 업데이트된 정보로 판단됩니다.",
       "event_info": {
         "date": null,
@@ -22772,15 +22774,18 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "02:00",
-      "date": "2026-03-23"
+      "collected_at": "2:00",
+      "image_url": "",
+      "date": "2026-03-23",
+      "link": "https://travelandtourworld.com/news/asia/thailand-mulls-major-tourist-visa-change-60-days-could-be-cut-to-30-as-officials-tighten-entry-rules-all-you-need-to-know/",
+      "source": ""
     },
     {
       "title": "동남아시아, 걸프만 전쟁으로 인한 연료 부족 및 가격 급등 속에서 관광 혼란",
       "summary": "- 베트남이 캄보디아, 태국, 필리핀, 미얀마, 인도네시아와 함께 관광 혼란에 대처하고 있습니다.\n- 걸프만 전쟁으로 인한 연료 부족, 가격 급등, 교통 제한이 발생하고 있습니다.\n- 동남아시아 전역에서 관광 산업에 차질이 예상됩니다.",
       "full_translated": "베트남이 캄보디아, 태국, 필리핀, 미얀마, 인도네시아와 함께 걸프만 전쟁으로 인한 연료 부족, 가격 급등, 동남아시아 전역의 교통 제한으로 인해 발생하는 관광 혼란에 대처하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "걸프만 전쟁으로 인한 동남아시아 연료 부족 및 가격 급등은 여행 비용 증가 및 교통 불편을 야기할 수 있으므로 여행객에게 영향을 미칠 수 있음. 특히 여러 국가에 걸쳐 영향을 미치는 점을 고려.",
       "event_info": {
         "date": null,
@@ -22796,16 +22801,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:00",
+      "collected_at": "2:00",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPakdTdXJ0Njl0Umw1a0NaS3lMYnVydmk4RFpyTFlTbW93VHdqQUtpU1V1cjVzT1VlOFdNZC1YTlprMXB1U3pRNXRRLXZlVjJDR1lSY1AxbkRCN3hGUUJLcGhDT2l4VnVhc0oweVBYQl8wREU2eWw5Y0s4VFctbkJiZFF0NjBhalM4SXBjVjR4Q0JCcmhmcTZKdDAtRnF5T1FYZjQwbk15cHMtdi1DU3QyVmhZckFLTVNES3VWaDFpRW81VU1Uay11Y1o5WjhVYkFER0luMnNLbjRteF9sMkJvUGxDb0ZvT3BaTXRLLTNRMW5kZzlDdi1zQjJDcS1MZGE3YmlsSzJXSFhCRTlZcnQ5ZjY0d0pRVmk4R1NQenNOcW1ETm16T2hGejN3UC1SN1B2MU5iWXdvd3JsZWVlaUlTN1hHbzMxTzlPT3JPdER2cFU3T0F3MzBXUElySVdlRXBM?oc=5",
+      "source": ""
     },
     {
       "title": "태국 여행 산업 변화 지연: 공항, 철도 연결 및 장기 관광 확장 전략에 영향",
       "summary": "- 태국의 여행 산업 변화가 정책 개발 중단으로 인해 둔화되고 있음.\n- 특히 공항, 철도 연결, 장기 관광 확장 전략에 차질이 발생.\n- 이는 태국을 방문하는 여행객들에게 불편을 초래할 수 있으며, 관련 산업에도 부정적인 영향을 미칠 것으로 예상됨.",
       "full_translated": "태국 여행 산업 변화가 정책 개발 중단으로 인해 둔화되고 있습니다. 이는 공항, 철도 연결, 장기 관광 확장 전략에 영향을 미치며, 태국을 방문하는 여행객들에게 불편을 초래할 수 있습니다. 관련 산업에도 부정적인 영향을 미칠 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "공항 및 철도 연결 지연은 여행객의 이동에 직접적인 영향을 미치므로 비교적 높은 점수를 부여함. 정책 개발 중단으로 인한 장기적인 관광 전략 차질도 고려.",
       "event_info": {
         "date": null,
@@ -22821,8 +22828,85 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "02:00",
+      "collected_at": "2:00",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQVWlqYWhkTE5FS2dMLVJ0czdVdHBiUkozNElSRkJES281ME9YUEFFYWVCcDdZQWtsU3pxUzNMRWFucGxid1dFVjV6X2VrY1hud3k4cjdDRkJTWE4tOG01RWtCejNVbHEwa2EzYTJaVE9yLUZpTmltaXhwU0haZGRaZGZrTjg3MjlwMmlCV2M1TWJaNTlDRllxQzhndEdmRGN4TUw0TXdnYVRDcURCbDFyZlZrMTBGVmktcnY2ZGdkRUtOZUc1RnUxMzAwLXVIZUQ4MUpVNVFhM2NTYWpzTFE0aEFwV0FsWnRqUEJBRDhrQldnSGUyZ042LVBiWlBwTm82VGJ4SzNOWUw0MnpMSmdxSUczdllPQnhEQUxYNg?oc=5",
+      "source": ""
+    },
+    {
+      "title": "파타야에서 정부, 명목상 대표 단속 시작, 4개 여행사 폐쇄 명령 - Nation Thailand",
+      "summary": "- 태국 정부가 파타야에서 외국인 명의대여(nominee) 단속을 강화하고 있습니다.\n- 4개의 여행사에 폐쇄 명령이 내려졌습니다.\n- 외국인 소유 제한을 회피하는 불법 행위 근절을 목표로 합니다.",
+      "full_translated": "태국 정부가 파타야에서 외국인 명의대여 단속을 시작하여 4개의 여행사에 폐쇄 명령을 내렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "외국인 대상 사업 규제 강화 움직임으로, 여행 관련 사업에 영향이 있을 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Government launches Pattaya nominee crackdown, orders closure of four tour firms - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzS0RlV0w2dzE3LVpBVXJuUEdmREowNVc0WTBJM3FTWEE0N2Z5T05QNEVkbi1RX3FuN29nWUhNZHRpYmcya2ZJakJ0SWZZek5FVDkwUFBYYlNsT2FtcUFST25JbXIyUzk0UVE?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국 관광청, 포르쉐 클럽 싱가포르와 함께 태국 럭셔리 드라이빙 캐러밴 시작 - 파타야 메일",
+      "summary": "- 태국 관광청(TAT)과 포르쉐 클럽 싱가포르가 태국 전역에서 럭셔리 드라이빙 캐러밴을 시작합니다.\n- 이 행사는 태국의 고급 관광을 홍보하고 참여자들에게 독특한 경험을 제공합니다.\n- 자세한 내용은 파타야 메일에서 확인할 수 있습니다.",
+      "full_translated": "태국 관광청과 포르쉐 클럽 싱가포르가 태국 전역에서 럭셔리 드라이빙 캐러밴을 시작합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "럭셔리 관광 상품에 대한 정보는 특정 여행객에게 유용할 수 있으며, 새로운 관광 경험을 제공할 가능성이 있습니다. 하지만 일반적인 여행객에게 미치는 영향은 크지 않다고 판단됩니다.",
+      "event_info": {
+        "date": null,
+        "location": "태국 전역",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "TAT and Porsche Club Singapore launch luxury driving caravan across Thailand - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbjVCVTBvcGxXcUNzX0tzOE9tck5LNlFiSTUtWnB3X0dGZ2JHeGlVYm1VN2dUNl9CU3RpT0dBN2E0ZW5CVU1uZ2lCSDJabkVCejRxbVV2Y0dfUm5YSFpxRGk3WWdmQ3huSGJUTFhCZTAtNXN0elBoUUtzY0E4WFZpazZLTHc0M1NJQk03Yk0wR2ZNWGcyakYwTGpfT2ppS0hzQ29wODZKUmRwTlZlcTBDRzBYdFhaUWQzVmZrMjBpNHVyZw?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "젤렌스키, 이란 전쟁 장기화가 푸틴에게 이득될 것이라고 경고",
+      "summary": "- 젤렌스키 우크라이나 대통령은 이란 내전 장기화가 러시아에 이득이 될 것이라고 우려 표명.\n- 러시아 군은 우크라이나 동부 지역에 대한 공격을 강화하고 있음.\n- 젤렌스키는 이란 전쟁으로 인해 우크라이나 관련 외교 회담이 연기되고 있다고 지적.",
+      "full_translated": "볼로디미르 젤렌스키 우크라이나 대통령은 이란 내전이 장기화될 경우 러시아에 더 큰 이득이 될 것이라고 우려했습니다. 이는 우크라이나 전쟁에 대한 여러 협상이 연기된 후 나온 발언입니다. 2026년 3월 22일, 젤렌스키 대통령은 중동 분쟁이 우크라이나에 미칠 영향에 대해 좋지 않은 예감이 든다고 말했습니다. 러시아 군은 이미 봄 공세를 시작한 상황입니다. 젤렌스키는 BBC와의 인터뷰에서 \"외교 회의나 3자 회의가 계속 연기되는 것을 볼 수 있는데, 그 이유는 단 하나, 바로 이란 전쟁 때문입니다.\"라고 말했습니다. 그는 \"푸틴은 전쟁이 장기화되기를 원합니다. 푸틴에게 이란의 장기전은 이익입니다.\"라고 덧붙였습니다. 유가 상승과 러시아산 원유에 대한 미국의 제재 일부 중단으로 인해 러시아 경제에 긍정적인 영향을 미치기 때문입니다. 이러한 상황 속에서 러시아는 우크라이나 동부 지역에 대한 공격을 가속화하고 있습니다. 올렉산드르 시르스키 우크라이나군 총사령관은 금요일 \"날씨가 바뀌면서 러시아 침략자들이 전선 지역의 여러 지역에서 압력을 강화하고 있습니다.\"라고 밝혔습니다. 워싱턴에 있는 전쟁연구소(ISW)는 \"이번 대대급 공격은 최근 몇 달 동안 발생한 러시아의 기계화된 공격보다 훨씬 규모가 큽니다.\"라고 언급했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행 자체에는 직접적인 영향은 없지만, 국제 정세 불안정은 간접적으로 여행 심리에 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "เซเลนสกีเตือน สงครามอิหร่านยิ่งยืดเยื้อ จะยิ่งเป็นประโยชน์ต่อปูติน",
+          "url": "https://www.thairath.co.th/news/foreign/2921805",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUvnNWch9QwbFIdm.jpg"
+        }
+      ],
+      "collected_at": "02:31",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUvnNWch9QwbFIdm.jpg",
       "date": "2026-03-23"
     }
   ]
