@@ -23086,7 +23086,7 @@
       "summary": "- 태국에서 영국인 관광객이 사망하고 여자친구가 혼수상태에 빠지는 사건 발생\n- 음료에 약물을 탄 범죄로 추정, 경찰 수사 진행 중\n- 여행객 안전에 대한 우려 증가, 특히 밤 문화 향유 시 주의 필요",
       "full_translated": "AOL.com - 태국에서 영국인 관광객이 사망하고 여자친구가 음료 스파이크 후 혼수상태에 빠졌습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객을 대상으로 한 범죄 발생은 안전에 직접적인 위협이 되므로 높은 점수 부여. 특히 밤 문화 관련 위험 상기 필요.",
       "event_info": {
         "date": null,
@@ -23102,16 +23102,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:18",
+      "collected_at": "4:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWVROclVTc1hwdUlMcElIc0FGc09vWHItOUdUUjV2YnY5V2l5aGdTai1MRFVtcFhfUnNWVXU2LWNQTmkzTk5keVUzS21NOXp3VURNdmx6aTdyUFVnajZHc0dXeTVtVEswaWY1Z056OU1McHNVUmZJQmZOZEZNWjA1bVd4SVN2MzhmWVNXdTlVdUV6TW8?oc=5",
+      "source": ""
     },
     {
       "title": "동남아시아 여행 및 관광 역학 재편하는 연료 위기",
       "summary": "- 연료 위기로 동남아시아 여행 및 관광 산업에 변화가 예상됨.\n- 항공권 가격 상승 및 여행 일정 변경 가능성 증가.\n- 태국 여행 시 연료 가격 변동에 유의 필요.",
       "full_translated": "TravelMole에 따르면 연료 위기가 동남아시아 여행 및 관광 역학을 재편하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "유가 상승은 여행 비용 증가로 이어져 여행객에게 직접적인 영향을 미치므로 중요도가 높다고 판단.",
       "event_info": {
         "date": null,
@@ -23127,16 +23129,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:18",
+      "collected_at": "4:18",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5uNFVVby1QbVoxQXl2MjVZR0RUWEY2MkhpbHdQNnFtME1IaW5Hb2xQTnpYU3llNXNSdUpLMHkzczlmc1RiTXhBNzdBVUVGNjJSaV9ZTG1NZm5LQ3pCR29nMXMzeWtaWk8xLUNyeWVqYzY5bk11REEzbkJ1NF8?oc=5",
+      "source": ""
     },
     {
       "title": "태국 정부, 고급 여행 전략으로 전환 및 하이엔드 관광 혁신 추진",
       "summary": "- 태국 정부가 고급 여행을 국가 전략으로 추진하며 프리미엄 경험과 지속 가능한 성장을 목표로 함.\n- 고급 관광 부문의 혁신을 통해 새로운 성장 동력 확보에 주력.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있음.",
       "full_translated": "Transforming Thailand Luxury Travel as Government Strategy and High-End Tourism Innovation Driving Premium Experiences and Sustainable Growth in Premium Sector  Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국이 고급 관광을 장려하는 정책 변화는 여행객에게 새로운 경험을 제공할 수 있지만, 일반 여행객에게 미치는 직접적인 영향은 제한적임.",
       "event_info": {
         "date": null,
@@ -23152,7 +23156,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:18",
+      "collected_at": "4:18",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOSzdoUDdyMWxkRklUUW4zVC1KdVJoWFpBS1dGVWZpNGt0d19rQk9pbVQ5UzhSTnFHTlBtYjZCLWQ1SkNXVHJTUXA3ekp1TzduelVKSTJGeE1MQndfakRXNXJnTDQ3VHhHSW5jUmpjUzY2TjF0NDlmQl9uVmdxbmJvZ0o5bnNJTWstVk9RMmRDbFE3aS1HNFVfQ3hZdDRpRWNWeUk0WDlRSm1tYVRFRUV5emZ3SHNCb3ZzUTBHZS1GY0V3RWUtSzVjbm1NRnp6a0FxaFItR2RVM2cxWFN5a2xPcURjUmJWSk9aUS1pbmxYemRNNzZpdFNidmIxQldHOHJuMElkc0syaVJkbDhweVhVMWlRR01TQ1lYU2IwYUVzLTdjOHN0WHlna3BIUWg1eE9sYXc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "싱가포르 항공, 방콕 공항 및 고급 호텔로 몰려드는 인도 및 러시아 여행객 수요에 힘입어 타이항공, 에미레이트 항공, 카타르 항공, 에바 항공, 유나이티드 항공과 합류",
+      "summary": "- 싱가포르 항공이 방콕행 노선 수요 증가에 따라 증편을 고려 중입니다.\n- 인도 및 러시아 여행객들이 방콕의 공항과 고급 호텔로 몰려들고 있습니다.\n- 타이항공, 에미레이트 항공, 카타르 항공, 에바 항공, 유나이티드 항공도 비슷한 추세입니다.",
+      "full_translated": "싱가포르 항공이 인도 및 러시아 여행객들의 높은 수요에 힘입어 타이항공, 에미레이트 항공, 카타르 항공, 에바 항공, 유나이티드 항공과 함께 방콕의 공항 및 고급 호텔로 몰려드는 여행객들을 수용하기 위해 노력하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "방콕 여행 수요 증가 및 항공편 관련 정보로 여행객에게 유용하며, 공항 혼잡도와 연관될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Singapore Airlines joins Thai Airways, Emirates, Qatar Airways, EVA Air & United to See Massive Demand as Indian & Russian Travellers Flock to Bangkok’s Airports and Luxury Hotels - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNS1VnaTVWTGNSdHJVdmN1U01pLUFzaDlOdm5TNUdBMjN3SnZyMHZpWFQ3cmNpcXpiSzE4REVJWXF3a25WOU5UeEFXaFZoLS1iM3lpOGdzWTlKdHpRblk5Y1V2ck1JSFhMLUNRakF2ZnVESTF4TFZkMWNPY2JGbUdybnFSV29kY0ZVY3M0NTctc0JDZnlxek02Rkl2djZNQ2hlUzNzQUt1NzV4UFRlQUliblRNWC1mVVZicXRlU3JWeUhJbmNYQTBlZDRlcnhINTJpU1U2c25nSmJuNGFXUWFFaWdYS1N4NHJVZnpUal9yOGlkcnZvc1Q5WjItcXFYb3Q3RDNDNnQ0QjYtUXFLVVJNNm1faHpPSkxOTEUzMi1yNUxQdjd1OGdFbnAzM3NyZUhWWGVEWkdqcl80YUgzTFQ0LUtR?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국, 2025년 5성 해변 등급 획득, 태국 섬 관광 및 지속 가능한 해안 경험에 새로운 기준 제시",
+      "summary": "- 태국이 2025년에 5성 해변 등급을 획득하여 관광 산업에 새로운 기준을 세울 예정입니다.\n- 지속 가능한 해안 경험을 위한 노력이 인정받았습니다.\n- 태국 섬 관광의 질적 향상이 기대됩니다.",
+      "full_translated": "태국이 2025년에 5성 해변 등급을 획득하여 태국 섬 관광 및 지속 가능한 해안 경험에 새로운 기준을 제시합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "관광객들에게 새로운 기준을 제시하는 해변 정보를 제공하므로.",
+      "event_info": {
+        "date": "2025",
+        "location": "태국 해변",
+        "price": "정보 없음",
+        "location_google_map_query": "태국 해변"
+      },
+      "references": [
+        {
+          "title": "Thailand Achieves Prestigious Five-Star Beach Star Ratings in 2025 Setting New Standards for Thai Islands Tourism and Sustainable Coastal Experiences - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOdURCUmNpWlUtYUMzVGt2SEZNRTYzOFhzVGxielp2UVNlYnNET0RHU0tjOGJPaXk0TUxSQlM3dUJmazI2QWYzNVhZM2NHUkNBcXJwc2phQjBzQzZmcURBWk85dGJsa1UxTVA0ZGQ0WmtRZ004dm0yRm1zazQ2ZHlMdlA5aU1JWDFnS1VvanlpajNYZTF5b1JZejNJVjc3bXFBTzZkZThWLThtd2JnT2Ryc2Nnb3NwYnI2Nnc1MWJPeXNoSWFnVWJZbWhqT05RZkEwMXJyMWhnQmdWOFNfUnFBbW8xZk1sWU54ZkNyYnhvc2xWS1YyZHFYM3ZoTkZqOFVWN2tPQ2NmRGZHRGlNTU5yd2xObWgtd3BpU2NVM1pYNnNLNnlw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:46",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "필리핀, 관광 성장 및 경제 회복 저해하는 인프라 격차 극복에 어려움 겪어",
+      "summary": "- 필리핀이 중국, 인도네시아, 태국, 말레이시아, 싱가포르와 함께 교통, 연결성 및 유틸리티의 인프라 격차로 어려움을 겪고 있음.\n- 이러한 문제는 관광 성장, 경쟁력 및 경제 회복 잠재력을 심각하게 저해함.\n- 개선이 시급함.",
+      "full_translated": "필리핀은 중국, 인도네시아, 태국, 말레이시아, 싱가포르와 함께 교통, 연결성 및 유틸리티의 지속적인 인프라 격차를 극복하기 위해 고군분투하고 있으며, 이는 관광 성장, 경쟁력 및 경제 회복 잠재력을 심각하게 저해하고 있습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국을 포함한 동남아 국가의 인프라 문제점을 지적하고 있어 여행객들에게 간접적인 영향을 줄 수 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Philippines Joins China, Indonesia, Thailand, Malaysia, Singapore in Struggling to Overcome Persistent Infrastructure Gaps in Transport, Connectivity, and Utilities That Are Severely Stalling Tourism Growth, Competitiveness, and Economic Recovery Potential - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQTGpqN1pjck82OWd4ejRwc3A3QmZkaFJIVWNzQlUtbnJDaUJyR0ZSMjFFV3dCcFNWTl9oZW1UeHAxblN3cXB6MDd5bklhdk1GVzFLRG9LY0V6VUI3dmdZcHRlbUNfS2VHaHMtN3RXUy1LZDFJN0J2d19LSVY1alFHelQ5UjZGZ19tUDRrbGUwV1hzZ3UtbkpmMl9HUVg2VWphRC1UOEZiTGtkN2hJTTdyY25xcWxWRjQ3ZGdWMjA2cmNDNFlnZGNGYWRMTkdmY2FpUmR3RnBEamJ2bEFiQmxZTHVkY0pya0w3ZXpxVkExeHBPWTVnalJ0RUdDcURuaC1mUFNWaTBOS2JBbWdsR04zNjl5RnFZWndYalJVSTRUWnhPSkszYm50Smg1d3FmRDNOVUVTZVRPT3NTeGlQbF84N2dPc1JTN3h1YjFGVm9JZjdCT2luZlNHUTJQM2dlZHM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:46",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-23"
     }
