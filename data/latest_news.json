@@ -22920,7 +22920,7 @@
       "summary": "- 태국 정부가 관광객 유치를 위한 무비자 체류 가능 기간을 현행 60일에서 30일로 단축하는 방안을 검토 중입니다.\n- 이는 관광 비자 정책의 주요 변경 사항으로, 입국 규정 강화의 일환으로 보입니다.\n- 단축된 체류 기간은 여행 계획에 영향을 미칠 수 있으므로, 태국 여행을 계획 중인 여행객은 최신 정보를 확인해야 합니다.",
       "full_translated": "태국이 무비자 체류 기간을 30일로 단축하는 방안을 고려 중입니다. 자세한 내용은 계속 주시해야 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "무비자 체류 기간 변경은 여행객의 여행 계획에 직접적인 영향을 미치므로 중요도가 높습니다. 비자 정책 변경은 항상 여행객에게 중요한 정보입니다.",
       "event_info": {
         "date": null,
@@ -22940,15 +22940,18 @@
           "source": "Travel And Tour World"
         }
       ],
-      "collected_at": "03:17",
-      "date": "2026-03-23"
+      "collected_at": "3:17",
+      "image_url": "",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3Lm5hdGlvbmthaWxhbmQudGgvdGFpbGFuZC9lY29ub215L3RvdXJpc20vNDAwMzYwNzE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광청, '힐링 여행 태국' 캠페인으로 목적 있는 럭셔리 여행 재정의",
       "summary": "- 태국 관광청(TAT)이 '힐링 여행 태국' 캠페인을 통해 럭셔리 여행 경험을 재정의합니다.\n- 이 캠페인은 단순한 고급스러움을 넘어, 의미 있는 활동과 지역 사회 참여를 결합한 것이 특징입니다.\n- 여행객들은 웰빙, 문화 체험, 지속 가능한 관광을 통해 태국의 새로운 면모를 발견할 수 있습니다.",
       "full_translated": "태국 관광청(TAT)의 '힐링 여행 태국' 캠페인은 목적 있는 참여를 통해 럭셔리 여행을 재정의합니다. 알아야 할 사항 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국의 럭셔리 여행 트렌드를 소개하고, 새로운 관광 경험에 대한 정보를 제공하여 여행 계획에 영향을 줄 수 있습니다.",
       "event_info": {
         "date": null,
@@ -22964,16 +22967,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:17",
+      "collected_at": "3:17",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQjU3TW5tT18tVEJrZFhYVDFhVVk4dFNfdkw2ZFdrUi1CSkpEeS1qdlQzSHBjZVNkQ0VCUWtCeEVXUUZQdWhOek1ZdmkyeXdaUzN3RlJBVVQ5WGNTM0oya094TmVtZFJzWTM5ZGVKekxCTVRXUjJJTmlVTjdpUDVHNDJkelI3MjhTUnF3ZE93a0k1ZjNOcjE5cnpTSTJ5XzhkNmlkeko3NXE3QS1ybXVzM0ZPZVZFT2d1RXVxU0ExT3RDMDdtRmNuYXZLOVgtWGhIVTZIc3dpY3A5SVZSd3EyeHE4N2xtT0lRbEdOcjhScTVYQQ?oc=5",
+      "source": ""
     },
     {
       "title": "러시아 관광객, 중동 긴장으로 인해 터키, 이집트, 태국으로 경로 변경 - PA Turkey",
       "summary": "- 중동 지역의 긴장 고조로 인해 러시아 관광객들이 대체 여행지를 찾고 있습니다.\n- 터키, 이집트, 태국이 주요 대체 목적지로 부상하고 있습니다.\n- 이는 해당 국가들의 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
       "full_translated": "중동 긴장으로 러시아 관광객, 터키, 이집트, 태국으로 경로 변경 PA Turkey",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "중동 정세 불안으로 인한 여행지 변경 정보. 태국이 러시아 관광객의 대체 목적지로 부상함.",
       "event_info": {
         "date": null,
@@ -22989,7 +22994,84 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:17",
+      "collected_at": "3:17",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRVhxYXhUclkzVW5LbFQ0a05oNElaY1l3OHhDWmZoMkZ4cWM0SXhYMUhpb0xBVzg0cEE5UUF2akstX2VfLVF4QnJwZDBnUDRFYXVQcHlkd0FsTWxyWlZqWFVGTkpKRzUtcG9wdjRpdndMM2ZGd29KVmZYUFFKMFFkUFlnd1VJc2dCbHZ4RlhiUWUwRTI0MTk2V2tLWmpITHhlbkZUUl9FZVNTcUZiNHBEcTkySjBZc09nTkJJSml6N3hCUTRCTFpwY3VDVWpsMWtOaFFUMmhR?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 관광 비자 변경 고려: 무비자 체류 기간 30일로 단축 가능성",
+      "summary": "- 태국 정부가 관광 비자 규정 강화를 검토 중.\n- 무비자 체류 가능 기간을 60일에서 30일로 단축하는 방안 논의.\n- 입국 규정 변경에 대한 여행객들의 주의 필요.",
+      "full_translated": "태국 정부는 관광 비자 규정을 강화하는 방안을 고려 중이며, 무비자 체류 가능 기간을 60일에서 30일로 단축하는 방안이 논의되고 있습니다. 이 변경 사항은 관광객에게 영향을 미칠 수 있으므로, 태국 여행을 계획 중인 여행객들은 새로운 규정에 대한 최신 정보를 확인하는 것이 중요합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "비자 규정 변경은 여행 계획에 직접적인 영향을 미치므로 높은 점수를 부여. 기존 뉴스 제목과 유사하나, 새로운 정보가 포함되어 있어 업데이트로 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Mulls Major Tourist Visa Change: 60 Days Could Be Cut to 30 as Officials Tighten Entry Rules – All You Need to Know - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNLWVraTd3M0hubjRmaDRpa0JEUm9CbHBiR1hfMHRoRjBVUS1DSGtwY2pRQTFvNE1CVjBQS215TDBPZ2txVkQyTFNoWDFualJlVHZUSDQyTjIxYk55bHFqdzhfdXFyVjU4WXZSc2RGVmRxLVRDMTVzOEJLNEVrUkpMNmZQR1pLU0I5aDNTMjRHdlBNLWI0YkJJakpTRDlJM3hURTZNdFlZTmZjcW9xZzZWNDVLWDhscjhlRFNHSnkyV1NrZVFMS202eU9WWHYyVDhDZXZLblczNWVoQm1NSkM4X0V5Z3lXZkp0YnpZUUNxMG9JN0dzZ09HN3Z1dFcxTHU3UGtIQVlLS180VmF3c1lrbDJWNHZXdDlBR2RWWTBUdFFoMFZjWHQ3b0x4WWRIRkh3U0VZNWJWdkhNUHQ4X2k0ZlQ4VjhVTFd5NFo5SG93?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국에서 이스라엘 관광객 공격받아",
+      "summary": "- 이스라엘 관광객이 태국에서 공격을 받았습니다.\n- 관광객은 반격했습니다.\n- 자세한 내용은 기사에서 확인하세요.",
+      "full_translated": "이스라엘 관광객이 태국에서 공격을 받고 반격했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행객 대상 범죄 발생. 여행 안전에 대한 우려를 야기할 수 있으므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "태국",
+        "price": null,
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "'I suddenly felt a slap to my face': Israeli tourist attacked in Thailand fights back - ynetnews",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yVDBibmM5WGs0NjhCZnlob0M4d2J3eWdXMS1OT1FxdTM0ZTNBRWVxU0tQS0ZiZVllRHpZdGgyaTBqRzVtMUdXR2s3VVVnZW45YWlmRGIxcnViZFZPOGl2bQ?oc=5",
+          "source": "ynetnews",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "캐나다, 일본, 모나코, 태국과 함께 2026년 최고의 스포츠 관광 목적지로 선정",
+      "summary": "- 캐나다가 2026년 최고의 스포츠 관광 목적지로 선정되어 일본, 모나코, 태국과 어깨를 나란히 함.\n- 비교할 수 없는 스릴과 일생에 한 번뿐인 경험을 약속함.\n- 여행 및 관광 산업에 큰 영향을 미칠 것으로 예상됨.",
+      "full_translated": "캐나다가 2026년 최고의 스포츠 관광 목적지로 일본, 모나코, 태국과 함께 선정되어, 비교할 수 없는 스릴과 일생에 한 번뿐인 경험을 약속하며 여행 및 관광 산업에 큰 영향을 미칠 것으로 예상됩니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 스포츠 관광 목적지로 언급되어 여행객들에게 간접적인 정보 제공. 2026년은 미래 시점이므로 현재 여행 계획에 미치는 영향은 제한적.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "태국",
+        "price": "알 수 없음",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Canada Joins Japan, Monaco, and Thailand as the Ultimate Sports Tourism Destinations of 2026, Promising Unmatched Thrills and Once-in-a-Lifetime Experiences That Will Blow Your Mind - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQa2xpVzJ0N0d0ZlB6VXRFNUZMU3ZGLTdxUUppMUdUdWZIREVNODJ6OWJOUW9FR2xpbEUzdFpEOE9KZkhNc3JEajM4YzQ1WDQ1WFI3eEVyamNDR1NfUGozcEFpQy03Um16LUprZHpjTGVweDA5cjBZQ1JZbVlSLUt6UkotUHlIMW9VdVNNNjNxaUNvX1o4RHNpZG05RUNNQmFPbnBSYUZaQ3kwZjNSdWF4VXlYcFdrVnV2MUxveDFyWkRORXdYaFc1RlB3aEVCU1podmRxT3JDR2NSRGxqa0pyb1lwYXdxUmJNdmhkMjQwQVBDMEVWaTN4OVZ1MVUwWlp0c01BRTc1SXJWSnZMWXVuU1dvNy1vVVliV0pxTE9heWd0b3VNREpxTTJjQTJQdUFuYTYxSV9xeVFoZjdtUVZZR0RUWUdvb1VZeG5B?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "03:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-23"
     }
