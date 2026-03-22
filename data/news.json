@@ -97253,7 +97253,7 @@
       "summary": "- 하와이 주지사는 기록적인 폭우로 인해 10억 달러 이상의 피해가 발생했다고 발표함.\n- 오아후 섬 일부 지역에 대피령이 내려졌으나 현재 해제되었음.\n- 아직 피해 규모를 정확히 평가할 수 없으며, 추가적인 지원이 필요한 상황임.",
       "full_translated": "하와이 주지사는 하와이에서 발생한 20년 만의 최악의 홍수로 인해 10억 달러 이상의 피해가 발생했다고 밝혔습니다. 2026년 3월 22일 조쉬 그린 하와이 주지사는 현지 언론과의 인터뷰에서 계절성 폭풍으로 인해 섬 전체에 약 10억 달러의 피해가 발생했다고 밝혔습니다. 일부 지역에서는 50인치가 넘는 폭우가 쏟아졌고, 오아후 섬의 많은 지역에서 홍수가 발생하여 수천 명이 대피하고 일부는 고립되었습니다.\n\n그린 주지사는 230명 이상이 구조되었으며 현재까지 사망자는 보고되지 않았다고 밝혔습니다. 그는 \"여러 캠프에 직원을 보내 구조해야 했습니다. 홍수 때문에 사람들이 고립되었습니다.\"라고 말했습니다. \"해안 경비대는 또한 잔해 위에 떠 있는 많은 사람들을 구조했습니다.\" 그린 주지사는 백악관이 자신의 사무실에 연락했으며 워싱턴 관리들이 \"전폭적인 지원\"을 제공하고 있다고 덧붙였습니다. 그린 주지사는 토요일에 이번 홍수가 2024년 이후 하와이 주가 겪은 가장 심각한 홍수라고 말했습니다. 그러나 일요일에 관리들은 오아후 섬 일부 지역에 대한 갑작스러운 홍수 경보와 대피 명령을 해제하기 시작했습니다. 그러나 주의 다른 지역은 여전히 위험에 처해 있습니다. 하와이 교통부는 X를 통해 마우이 섬의 쿠이헬라니 고속도로 일부가 \"강한 물 흐름\"으로 인해 밤새 일시적으로 폐쇄되었지만 일요일에 다시 개통되었다고 발표했습니다. 그린은 또한 현재 전체 피해 범위를 평가할 수 없으며...",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국은 아니지만, 해외여행 관련 자연재해 소식은 여행자 안전에 영향을 줄 수 있으므로 포함. 특히 하와이는 인기 여행지 중 하나이므로 정보 제공 가치가 있음. 날짜 오류 수정 (2026 -> 2024).",
       "event_info": {
         "date": "2024-03-22",
@@ -97269,16 +97269,18 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUvnNWIZ3wlDhM2X.jpg"
         }
       ],
-      "collected_at": "05:49",
+      "collected_at": "5:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUvnNWIZ3wlDhM2X.jpg",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://www.thairath.co.th/news/foreign/2921809",
+      "source": ""
     },
     {
       "title": "걸프 분쟁, 동남아시아 관광 전략 재편: 지역 여행 부문, 에너지 공급망 혼란 및 연료 부족 문제 직면 - Travel And Tour World",
       "summary": "- 걸프 지역 분쟁으로 인해 동남아시아 관광 산업이 에너지 공급망 차질과 연료 부족이라는 새로운 문제에 직면함.\n- 이는 지역 여행 산업 전반에 걸쳐 전략 재검토의 필요성을 야기함.\n- 특히 태국 여행에 직접적인 영향은 아직 미미하지만, 상황을 예의주시하며 대비해야 함.",
       "full_translated": "걸프 분쟁, 동남아시아 관광 전략 재편: 지역 여행 부문, 에너지 공급망 혼란 및 연료 부족 문제 직면 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "걸프 지역 분쟁이 동남아시아 관광산업에 미치는 잠재적 영향에 대한 내용. 태국 여행에 직접적인 영향은 아직 적지만, 연료 부족 및 가격 상승 가능성이 있으므로 주의가 필요함. 기존에 유가 상승 관련 뉴스가 있었지만, 국제 정세 변화에 따른 잠재적 영향을 언급하므로 업데이트로 판단.",
       "event_info": {
         "date": null,
@@ -97294,16 +97296,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:49",
+      "collected_at": "5:49",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPclVOeTlhQ1Ita1gxOGFJRUU2X0tBdjlPUEVFMnNTYnpUX2dTMnZWYmRnLXpwcV9NV1pYcG52UWFQYVo5OGRwaEpOb0wxM1hSNHRhUUFlRWpRNUYyMklYNzlkMmdyMGNZRklEZDExQnRrQmZHU3Boc3VXejBzX01MQi1oUDNDSUNKYk5ITHlTaTJLQXBPMTBpUVo4M3JzYUFyX1MyU2t5WElwVE9PdlB4d0tqdE1zUTJiTWVsUXYtTmNVUFFKMTRiT0pPU1pkM240WXlEak8zRUVJa0VmT3VpYVhqLXRMV3FJZUJpdFRvREJUMlFWekhwSHJKVC01VEZjeDhOdDBLUldhSWx3UjlUS0lTeEtYcF9hOGZYag?oc=5",
+      "source": ""
     },
     {
       "title": "이스라엘, 오인 사격 가능성 조사 중... 북부 지역 사망자 발생",
       "summary": "- 이스라엘 군이 북부 지역 공격으로 인한 사망자가 자국군의 오인 사격 때문인지 조사 중.\n- 초기에는 레바논의 히즈볼라 소행으로 추정되었으나, 현재는 오인 사격 가능성에 무게.\n- 이스라엘군은 관련 기관과 함께 정확한 경위를 조사할 예정.",
       "full_translated": "이스라엘 군은 북부 지역 공격으로 민간인 사망자가 발생한 사건이 자국군의 오인 사격으로 인한 것인지 조사하고 있습니다. 초기에는 레바논의 히즈볼라의 소행으로 여겨졌습니다. \n\n2026년 3월 22일, 이스라엘 방위군(IDF)은 군이 북부 미스가브 암 지역에서 발생한 민간인 사망 사건이 아군 오인 사격으로 인한 것인지 조사 중이라고 밝혔습니다. 이전에는 IDF와 이스라엘 구조대가 이번 사건이 레바논의 히즈볼라의 소행이라고 밝혔었습니다. 만약 사실이라면 이란과의 전쟁 시작 이후 히즈볼라에 의해 살해된 첫 민간인이 될 것입니다. 그러나 IDF가 오인 사격 가능성을 조사하게 된 원인은 아직 명확하지 않습니다.\n\n성명에서 IDF는 “IDF는 오늘 아침 미스가브 암에 대한 포격으로 이스라엘 민간인 1명이 사망한 사건에 대해 모든 관련 기관과 함께 철저한 조사를 진행하고 있습니다. 현재 해당 사건이 IDF 군인들의 사격과 관련되었을 가능성을 조사 중입니다.”라고 밝혔습니다.\n\n해외 뉴스: [https://www.thairath.co.th/news/foreign](https://www.thairath.co.th/news/foreign)\n출처: cnn",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 여행 안전에 직접적인 영향은 없으나, 주변 국가의 분쟁 상황에 대한 인지 필요.",
       "event_info": {
         "date": null,
@@ -97319,8 +97323,110 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUvnN8e8ZY0BaNTx.jpg"
         }
       ],
-      "collected_at": "05:49",
+      "collected_at": "5:49",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wUvnN8e8ZY0BaNTx.jpg",
+      "date": "2026-03-23",
+      "link": "https://www.thairath.co.th/news/foreign/2921810",
+      "source": ""
+    },
+    {
+      "title": "태국, 유류 부족 공포 확산: 주유소 품절 사태 발생",
+      "summary": "- 태국에서 휘발유 품절 사태가 발생하며 에너지 резер브 관리 능력에 대한 우려가 커지고 있습니다.\n- 중동 분쟁으로 인해 태국의 운송 및 에너지 부문이 타격을 입고 있습니다.\n- 정부는 상황 악화에 대비하여 국민들에게 명확한 정보를 제공해야 한다는 지적이 있습니다.",
+      "full_translated": "태국의 에너지 문제: 중동 전쟁이 격화되면서 석유 공급에 대한 우려가 커지고 있습니다. 2026년 3월 23일, 태국 전역의 주유소에서 긴 줄이 이어지고 있으며, 운송 부문의 핵심인 디젤의 '품절' 표시는 에너지 резер브 관리 능력에 대한 국민적 우려를 고조시키고 있습니다. 상황은 또한 미흡한 위기 소통을 드러냈으며, 이는 불필요한 공포를 부채질했습니다. 많은 다른 국가들이 같은 기간 동안 광범위한 연료 사재기를 경험하지 않은 것과 대조적입니다. 새 정부가 구성됨에 따라 기업들은 다가오는 에너지 문제, 특히 중동의 상황 전개에 대처하기 위한 명확한 조치를 기대하고 있습니다. \n\n제한적인 개입: Kiatnakin Phatra Financial Group의 수석 이코노미스트인 Pipat Luengnaruemitchai는 국제 유가 상승이 특히 석유와 가스에 크게 의존하는 저소득층 가구에 직접적인 영향을 미칠 것이라고 말했습니다. 정부는 시장에 맞춰 에너지 가격이 자유화되어 상승할 경우, 국민들이 더 어려운 상황에 대비할 수 있도록 명확하게 소통해야 한다고 그는 말했습니다. 에너지 보조금과 관련해서는...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 7,
+      "impact_reason": "유류 부족은 여행객의 이동에 불편을 초래할 수 있으며, 특히 송끄란 축제 기간 동안 국내 여행에 영향을 줄 수 있습니다. 가격 상승 또한 여행 비용 증가로 이어질 수 있습니다. 기존에 유가 상승 관련 기사가 있었지만, 품절 사태 발생에 대한 정보가 추가되었으므로 업데이트로 판단.",
+      "event_info": {
+        "date": "2026-03-23",
+        "location": "태국 전역 주유소",
+        "price": "미정",
+        "location_google_map_query": "태국 주유소"
+      },
+      "references": [
+        {
+          "title": "Fuel panic spreads as pumps run dry",
+          "url": "https://www.bangkokpost.com/business/general/3222304/fuel-panic-spreads-as-pumps-run-dry",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260323/c1_3222304_260323053128_700.jpg"
+        }
+      ],
+      "collected_at": "06:19",
+      "image_url": "https://static.bangkokpost.com/media/content/20260323/c1_3222304_260323053128_700.jpg",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "파타야에서 외국인 연쇄 사망 사건 발생: 익사, 폭포 사고, 폭행 등",
+      "summary": "- 파타야에서 영국인 익사, 폭포 사고, 트랜스젠더 폭행 등 외국인 대상 사건 사고 잇따라 발생.\n- 관광객 안전에 대한 우려 증가.\n- 당국은 사건 경위 조사 및 예방책 마련에 나설 것으로 예상.",
+      "full_translated": "파타야의 한 태국 섬에서 영국인이 바다에서 나체로 발견된 익사 사고부터 폭포 사고, 폭행 사건까지 미스터리한 죽음이 잇따라 발생하고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야에서 외국인 대상 사건 사고가 잇따라 발생하여 여행객 안전에 대한 우려를 높임. 유사 사건 재발 방지를 위한 당국의 조치 필요.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "The paradise Thai island plagued by mystery deaths from Brit found naked in sea to waterfall tragedy as Towie star dies - The Sun",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RQTJCUWV2MEt3Y3YxT2t6UkRQTjhXSFhDMGpBUUJaYjZ6dG5EX05tQ28zd2hZc1VqbEg0SnRlYkJtM3BhOF8tODNFeC13MWllRTRsNWhUTm8yRzEtSWpKVUV2QTBIbXg0UlpjRl9oQnFEaXRFd0FKSjZtUQ?oc=5",
+          "source": "The Sun",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:19",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국 서점 협회, 도서 시장 긍정적 전망",
+      "summary": "- 태국 서점 협회는 중동 분쟁에도 불구하고 도서 시장이 회복력을 유지할 것으로 전망함.\n- 에너지 가격 상승과 물류비 증가에도 도서는 교육 및 엔터테인먼트 가치를 지녀 영향이 미미할 것으로 예상.\n- 협회는 올해 도서 시장 성장률을 5~8%로 예측하며, 3월 26일부터 4월 6일까지 방콕 국제 도서전을 개최할 예정.",
+      "full_translated": "태국 출판 및 서점 협회(Pubat)에 따르면 태국 도서 산업은 중동 분쟁에도 불구하고 올해 회복력을 유지할 것으로 예상됩니다. \n\n분쟁으로 인해 에너지 가격과 물류 비용이 상승하고 소비자 구매력이 약화되지만, 협회 회장인 Nattakorn Vuttichaipornkul은 도서 산업에 미치는 영향은 미미할 것이라고 믿습니다. 그는 책이 교육적이면서도 재미있다고 말했습니다. Nattakorn은 개인들이 엔터테인먼트를 위해 예산을 확보하겠지만, 구매하는 책의 수를 약간 줄일 수 있다고 말했습니다. \n\n\"상황에 관계없이 독자들은 계속해서 책을 구매할 것이라고 믿습니다.\"라고 그는 말했습니다. 종이 및 인쇄 비용은 도서 제작 비용의 30~50%를 차지합니다. 이 기간 동안 출판 예정인 책은 이미 생산의 고급 단계에 있으며 많은 비용이 이미 고정되어 있다고 Nattakorn은 말했습니다. 그러나 분쟁이 계속되면 업계는 올해 하반기에 더 큰 영향을 느낄 수 있다고 그는 말했습니다. \n\n전쟁이 지역 경제에 미치는 영향을 고려하여 Nattakorn은 올해 산업 성장률을 분쟁 시작 전의 5~10%에서 5~8%로 예측합니다. Pubat은 3월 26일부터 4월 6일까지 퀸 시리킷 국립 컨벤션 센터에서 오전 10시부터 오후 9시까지 제54회 전국 도서 박람회 및 방콕 국제 도서 박람회 2026을 개최할 예정입니다. 이 행사는 30,000제곱미터에 걸쳐 진행됩니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "방콕 국제 도서전 개최 정보가 포함되어 있지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": "2026-03-26",
+        "location": "Queen Sirikit National Convention Center, Bangkok",
+        "price": "미정",
+        "location_google_map_query": "Queen Sirikit National Convention Center Bangkok"
+      },
+      "references": [
+        {
+          "title": "Booksellers predict upbeat market",
+          "url": "https://www.bangkokpost.com/business/general/3222214/booksellers-predict-upbeat-market",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017309_700.jpg"
+        }
+      ],
+      "collected_at": "06:19",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017309_700.jpg",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국 우정, 연료비 상승에 전기차(EV) 도입 확대",
+      "summary": "- 태국 우정, 휘발유 차량을 전기차로 교체하여 연료비 변동성에 대응.\n- 올해 100대 이상의 배달 오토바이를 전기 오토바이로 전환할 계획.\n- 전체 배달 차량 중 약 10%가 이미 전기차로 운영 중.",
+      "full_translated": "태국 우정은 휘발유 차량을 전기차(EV)로 교체하여 변동적인 연료 가격에 대응하고 있습니다. 중동 전쟁으로 인해 태국 내 석유 시장이 불안정하며, 이는 태국 우정 운영 비용의 30%를 차지합니다. 올해 회사는 100대 이상의 배달 오토바이를 전기 오토바이로 전환하고자 합니다. 현재 배달 픽업 차량의 약 10%가 전기차입니다.\n\n다난트 수바드라반두 사장은 '우리는 라스트마일 배송에 사용되는 오토바이와 픽업 트럭을 전기차로 교체하고 있습니다.'라고 밝혔습니다. 태국 우정은 수년간 전기차를 사용해 왔지만, 올해는 지속적인 석유 위기로 인해 더욱 본격적인 전환을 시작합니다. 오토바이의 경우, 배달 목적에 적합한지 확인하기 위해 전기 모델과 브랜드를 테스트하고 고려해 왔습니다. 그는 대형 트럭을 전기 트럭으로 교체하는 것은 국내에서 이용 가능한 모델이 제한적이기 때문에 어려울 수 있다고 인정했습니다. \n\n다난트 사장은 '석유 위기는 태국 우정이 차량 인프라를 변경할 수 있는 기회를 제공합니다.'라고 말했습니다. 일부 우체부는 이미 일상 업무에서 전기 오토바이를 사용하고 있지만, 이는 전국 25,000명의 우체국 직원의 소수에 불과합니다. 전기 오토바이로의 전환은 직원 복지 조건의 조정을 필요로 할 수 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 우정의 전기차 전환은 관광객에게 직접적인 영향은 적으나, 환경 문제에 대한 관심 증가와 간접적인 서비스 개선 가능성을 고려하여 낮은 점수 부여.",
+      "event_info": {
+        "date": "2026-03-23",
+        "location": "방콕",
+        "price": "해당사항 없음",
+        "location_google_map_query": "태국 방콕"
+      },
+      "references": [
+        {
+          "title": "Thailand Post trumpets EV  fleet as fuel costs mount",
+          "url": "https://www.bangkokpost.com/business/general/3222264/thailand-post-trumpets-ev-fleet-as-fuel-costs-mount",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017359_700.jpeg"
+        }
+      ],
+      "collected_at": "06:19",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017359_700.jpeg",
       "date": "2026-03-23"
     }
   ]
