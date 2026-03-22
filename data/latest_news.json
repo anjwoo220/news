@@ -23437,7 +23437,7 @@
       "summary": "- 태국에서 휘발유 품절 사태가 발생하며 에너지 резер브 관리 능력에 대한 우려가 커지고 있습니다.\n- 중동 분쟁으로 인해 태국의 운송 및 에너지 부문이 타격을 입고 있습니다.\n- 정부는 상황 악화에 대비하여 국민들에게 명확한 정보를 제공해야 한다는 지적이 있습니다.",
       "full_translated": "태국의 에너지 문제: 중동 전쟁이 격화되면서 석유 공급에 대한 우려가 커지고 있습니다. 2026년 3월 23일, 태국 전역의 주유소에서 긴 줄이 이어지고 있으며, 운송 부문의 핵심인 디젤의 '품절' 표시는 에너지 резер브 관리 능력에 대한 국민적 우려를 고조시키고 있습니다. 상황은 또한 미흡한 위기 소통을 드러냈으며, 이는 불필요한 공포를 부채질했습니다. 많은 다른 국가들이 같은 기간 동안 광범위한 연료 사재기를 경험하지 않은 것과 대조적입니다. 새 정부가 구성됨에 따라 기업들은 다가오는 에너지 문제, 특히 중동의 상황 전개에 대처하기 위한 명확한 조치를 기대하고 있습니다. \n\n제한적인 개입: Kiatnakin Phatra Financial Group의 수석 이코노미스트인 Pipat Luengnaruemitchai는 국제 유가 상승이 특히 석유와 가스에 크게 의존하는 저소득층 가구에 직접적인 영향을 미칠 것이라고 말했습니다. 정부는 시장에 맞춰 에너지 가격이 자유화되어 상승할 경우, 국민들이 더 어려운 상황에 대비할 수 있도록 명확하게 소통해야 한다고 그는 말했습니다. 에너지 보조금과 관련해서는...",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "유류 부족은 여행객의 이동에 불편을 초래할 수 있으며, 특히 송끄란 축제 기간 동안 국내 여행에 영향을 줄 수 있습니다. 가격 상승 또한 여행 비용 증가로 이어질 수 있습니다. 기존에 유가 상승 관련 기사가 있었지만, 품절 사태 발생에 대한 정보가 추가되었으므로 업데이트로 판단.",
       "event_info": {
         "date": "2026-03-23",
@@ -23453,16 +23453,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260323/c1_3222304_260323053128_700.jpg"
         }
       ],
-      "collected_at": "06:19",
+      "collected_at": "6:19",
       "image_url": "https://static.bangkokpost.com/media/content/20260323/c1_3222304_260323053128_700.jpg",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://www.bangkokpost.com/business/general/3222304/fuel-panic-spreads-as-pumps-run-dry",
+      "source": ""
     },
     {
       "title": "파타야에서 외국인 연쇄 사망 사건 발생: 익사, 폭포 사고, 폭행 등",
       "summary": "- 파타야에서 영국인 익사, 폭포 사고, 트랜스젠더 폭행 등 외국인 대상 사건 사고 잇따라 발생.\n- 관광객 안전에 대한 우려 증가.\n- 당국은 사건 경위 조사 및 예방책 마련에 나설 것으로 예상.",
       "full_translated": "파타야의 한 태국 섬에서 영국인이 바다에서 나체로 발견된 익사 사고부터 폭포 사고, 폭행 사건까지 미스터리한 죽음이 잇따라 발생하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "파타야에서 외국인 대상 사건 사고가 잇따라 발생하여 여행객 안전에 대한 우려를 높임. 유사 사건 재발 방지를 위한 당국의 조치 필요.",
       "event_info": {
         "date": null,
@@ -23478,16 +23480,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:19",
+      "collected_at": "6:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RQTJCUWV2MEt3Y3YxT2t6UkRQTjhXSFhDMGpBUUJaYjZ6dG5EX05tQ28zd2hZc1VqbEg0SnRlYkJtM3BhOF8tODNFeC13MWllRTRsNWhUTm8yRzEtSWpKVUV2QTBIbXg0UlpjRl9oQnFEaXRFd0FKSjZtUQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국 서점 협회, 도서 시장 긍정적 전망",
       "summary": "- 태국 서점 협회는 중동 분쟁에도 불구하고 도서 시장이 회복력을 유지할 것으로 전망함.\n- 에너지 가격 상승과 물류비 증가에도 도서는 교육 및 엔터테인먼트 가치를 지녀 영향이 미미할 것으로 예상.\n- 협회는 올해 도서 시장 성장률을 5~8%로 예측하며, 3월 26일부터 4월 6일까지 방콕 국제 도서전을 개최할 예정.",
       "full_translated": "태국 출판 및 서점 협회(Pubat)에 따르면 태국 도서 산업은 중동 분쟁에도 불구하고 올해 회복력을 유지할 것으로 예상됩니다. \n\n분쟁으로 인해 에너지 가격과 물류 비용이 상승하고 소비자 구매력이 약화되지만, 협회 회장인 Nattakorn Vuttichaipornkul은 도서 산업에 미치는 영향은 미미할 것이라고 믿습니다. 그는 책이 교육적이면서도 재미있다고 말했습니다. Nattakorn은 개인들이 엔터테인먼트를 위해 예산을 확보하겠지만, 구매하는 책의 수를 약간 줄일 수 있다고 말했습니다. \n\n\"상황에 관계없이 독자들은 계속해서 책을 구매할 것이라고 믿습니다.\"라고 그는 말했습니다. 종이 및 인쇄 비용은 도서 제작 비용의 30~50%를 차지합니다. 이 기간 동안 출판 예정인 책은 이미 생산의 고급 단계에 있으며 많은 비용이 이미 고정되어 있다고 Nattakorn은 말했습니다. 그러나 분쟁이 계속되면 업계는 올해 하반기에 더 큰 영향을 느낄 수 있다고 그는 말했습니다. \n\n전쟁이 지역 경제에 미치는 영향을 고려하여 Nattakorn은 올해 산업 성장률을 분쟁 시작 전의 5~10%에서 5~8%로 예측합니다. Pubat은 3월 26일부터 4월 6일까지 퀸 시리킷 국립 컨벤션 센터에서 오전 10시부터 오후 9시까지 제54회 전국 도서 박람회 및 방콕 국제 도서 박람회 2026을 개최할 예정입니다. 이 행사는 30,000제곱미터에 걸쳐 진행됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "방콕 국제 도서전 개최 정보가 포함되어 있지만, 여행객에게 직접적인 영향은 적다고 판단.",
       "event_info": {
         "date": "2026-03-26",
@@ -23503,16 +23507,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017309_700.jpg"
         }
       ],
-      "collected_at": "06:19",
+      "collected_at": "6:19",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017309_700.jpg",
-      "date": "2026-03-23"
+      "date": "2026-03-23",
+      "link": "https://www.bangkokpost.com/business/general/3222214/booksellers-predict-upbeat-market",
+      "source": ""
     },
     {
       "title": "태국 우정, 연료비 상승에 전기차(EV) 도입 확대",
       "summary": "- 태국 우정, 휘발유 차량을 전기차로 교체하여 연료비 변동성에 대응.\n- 올해 100대 이상의 배달 오토바이를 전기 오토바이로 전환할 계획.\n- 전체 배달 차량 중 약 10%가 이미 전기차로 운영 중.",
       "full_translated": "태국 우정은 휘발유 차량을 전기차(EV)로 교체하여 변동적인 연료 가격에 대응하고 있습니다. 중동 전쟁으로 인해 태국 내 석유 시장이 불안정하며, 이는 태국 우정 운영 비용의 30%를 차지합니다. 올해 회사는 100대 이상의 배달 오토바이를 전기 오토바이로 전환하고자 합니다. 현재 배달 픽업 차량의 약 10%가 전기차입니다.\n\n다난트 수바드라반두 사장은 '우리는 라스트마일 배송에 사용되는 오토바이와 픽업 트럭을 전기차로 교체하고 있습니다.'라고 밝혔습니다. 태국 우정은 수년간 전기차를 사용해 왔지만, 올해는 지속적인 석유 위기로 인해 더욱 본격적인 전환을 시작합니다. 오토바이의 경우, 배달 목적에 적합한지 확인하기 위해 전기 모델과 브랜드를 테스트하고 고려해 왔습니다. 그는 대형 트럭을 전기 트럭으로 교체하는 것은 국내에서 이용 가능한 모델이 제한적이기 때문에 어려울 수 있다고 인정했습니다. \n\n다난트 사장은 '석유 위기는 태국 우정이 차량 인프라를 변경할 수 있는 기회를 제공합니다.'라고 말했습니다. 일부 우체부는 이미 일상 업무에서 전기 오토바이를 사용하고 있지만, 이는 전국 25,000명의 우체국 직원의 소수에 불과합니다. 전기 오토바이로의 전환은 직원 복지 조건의 조정을 필요로 할 수 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 우정의 전기차 전환은 관광객에게 직접적인 영향은 적으나, 환경 문제에 대한 관심 증가와 간접적인 서비스 개선 가능성을 고려하여 낮은 점수 부여.",
       "event_info": {
         "date": "2026-03-23",
@@ -23528,8 +23534,108 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017359_700.jpeg"
         }
       ],
-      "collected_at": "06:19",
+      "collected_at": "6:19",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017359_700.jpeg",
+      "date": "2026-03-23",
+      "link": "https://www.bangkokpost.com/business/general/3222264/thailand-post-trumpets-ev-fleet-as-fuel-costs-mount",
+      "source": ""
+    },
+    {
+      "title": "태국, 무비자 체류 기간 30일로 단축 검토",
+      "summary": "- 태국 정부가 무비자 체류 기간을 30일로 단축하는 방안을 검토 중입니다.\n- 관광객 유치 전략에 변화가 있을 수 있음을 시사합니다.\n- 관련 정책 변경 시 여행 계획에 차질이 없도록 주의해야 합니다.",
+      "full_translated": "태국이 무비자 체류 기간을 30일로 단축하는 방안을 고려하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "무비자 체류 기간 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다.  기존에 게시된 유사 기사가 있지만, 정책 변화 가능성은 중요한 업데이트입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand may cut visa-free stay to 30 days - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3Lm5hdGlvbmthaWxhbmQubmV0L3RoYWlsYW5kL2dlbmVyYWwvNDAwMzY3NjDSAQA?oc=5",
+          "source": "Nation Thailand"
+        }
+      ],
+      "collected_at": "06:49",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국, 중동 분쟁으로 항공권 가격 인상 불가피",
+      "summary": "- 중동 분쟁으로 유류비 급등, Thai Airways 항공권 가격 10~15% 인상.\n- 5월 말까지 분쟁 지속 시 유류비 추가 상승 우려.\n- 송끄란 연휴 예약률 저조, 여행 결정 지연 추세.",
+      "full_translated": "중동 전쟁으로 인해 Thai Airways International (THAI)의 운영 비용이 증가했으며, 특히 제트 연료 가격이 두 배 이상 상승하여 항공권 가격을 평균 10~15% 인상해야 하는 상황에 직면했습니다. Chai Eamsiri THAI 최고 경영자는 분쟁 이전 배럴당 약 80달러였던 제트 연료 가격이 220달러로 급등했으며, 최악의 경우 5월 말까지 전쟁이 계속된다면 240달러까지 상승할 수 있다고 밝혔습니다.\n\nChai Eamsiri는 \"가격 인상은 현실적인 비용 상승을 반영한 것이며, 투기적인 목적이 아닙니다. 생존을 위해 연료 비용을 충당하는 데 목표를 두고 있습니다. 요금 인상 없이는 조직을 유지할 수 없습니다.\"라고 말했습니다. 항공사는 6월까지 연료 소비량의 약 50%를 헤지했지만, 현재 수준에서 헤지를 늘리는 것은 위험할 수 있다고 덧붙였습니다. 가격이 이미 높아진 상황에서 헤지를 늘리면 연료 가격이 하락할 경우 잠재적 손실이 발생할 수 있기 때문입니다.\n\n비용 급등은 수요에도 영향을 미치고 있습니다. 다음 달 중순에 있는 송끄란 연휴의 사전 예약은 작년에 비해 약화되었으며, 특히 유럽과 호주로 여행하는 장거리 승객의 예약이 줄었습니다. 대규모 취소는 없지만, 많은 승객이 여행 결정을 미루고 상황이 명확해지기를 기다리고 있습니다. 항공사는 저가 항공권 판매를 제한하고 평균 요금을 인상하는 등 동적 가격 책정을 시행하고 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 7,
+      "impact_reason": "항공권 가격 인상은 여행 비용 증가로 이어져 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여함. 송끄란 예약 감소는 여행 심리 위축을 반영.",
+      "event_info": {
+        "date": "2026-03-23",
+        "location": "방콕",
+        "price": "항공권 10~15% 인상",
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "THAI forced to increase ticket prices",
+          "url": "https://www.bangkokpost.com/thailand/general/3222184/thai-forced-to-increase-ticket-prices",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017299_700.jpg"
+        }
+      ],
+      "collected_at": "06:49",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/23/6017299_700.jpg",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "파타야 여행객, 높은 항공료와 ATM 수수료에 어려움 겪어",
+      "summary": "- 파타야를 방문하는 여행객들이 높은 항공료와 ATM 수수료로 인해 어려움을 겪고 있다는 소식입니다.\n- 여행 전문가들은 현금을 준비하고 환전하라고 조언합니다.\n- 예상치 못한 비용 지출을 줄이기 위해 미리 준비하는 것이 중요합니다.",
+      "full_translated": "파타야 여행객들이 높은 항공료와 ATM 수수료에 어려움을 겪고 있습니다. 여행 전문가들은 현금을 준비하고 환전하라고 조언합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 시 예상치 못한 비용 발생 가능성에 대한 정보 제공. ATM 수수료 및 환전 관련 유용한 팁 포함.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya tourists hit by steep airfares and ATM fees regulars advise bring cash and exchange - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM1UyTElxU2pkSkhwMUFYb0ZmQy0za1JsYUZIQ3Jza1dYYzRVcUI5bHkxWWIxaGdKTHNsV0RpYTNEdkVScG56UjVvMzhodS1uMUJJc1MtQUt4SWFNajNYYV96NGtIWWk0UkUtRHBBTkJXTm8zeUIydDh6WnVqWlRwYzN1cl9FTVhkS0h6Mk1GM0UwblZuMjVqLWJhTVRIakZ0UFJTT1hhNFJ0RUZnUjVzRmh4b3dZaWlxYTQ0d0FhRlZITXVKa1VkbG9Kaw?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:49",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-23"
+    },
+    {
+      "title": "태국 정부, 가격 담합 단속 강화",
+      "summary": "- 태국 상무부는 가격 조작을 억제하기 위해 전국 2,300개 이상의 사업체를 조사함.\n- 연료 가격 인상에 대한 불만이 증가함에 따라 법적 조치를 경고함.\n- 3월 1일부터 금요일까지 2,321건의 검사를 실시, 가격 미표시 등 10건의 위반 사례 적발.",
+      "full_translated": "태국 내부거래부(Internal Trade Department)는 연료 가격 인상과 관련하여 주유소와 시장을 점검한 결과 다수의 위반 사례를 적발하고, 부당한 가격 인상에 대해 법적 조치를 취할 것이라고 경고했습니다. 상무부는 가격 조작을 억제하고 공정한 가격 유지를 위해 전국 2,300개 이상의 사업체를 대상으로 검사를 실시했습니다. 야니 스리마니 내부거래부 부국장은 가격, 생산 비용 및 공급 수준을 감독하기 위한 노력을 강화하겠다고 밝혔습니다. 이러한 조치는 농민, 사업자 및 소비자에게 공정성을 보장하고 가격을 효과적으로 규제할 수 있는 국가의 능력에 대한 신뢰를 강화하기 위한 것입니다. 3월 1일부터 금요일까지 공무원들은 2,321건의 검사를 실시했습니다. 이 중 2,021건은 도지사 및 지방 에너지 사무소와 협력하여 수행된 현장 점검이었습니다. 검사는 1,262개의 주유소, 433개의 비료 소매업체, 326개의 도매 및 소매 시장을 대상으로 이루어졌습니다. 그 결과 가격을 의무적으로 표시하지 않은 10개의 사업자를 적발하여 법적 조치를 취했습니다. 추가 조사는 부서의 1569 핫라인을 통해 제출된 대중의 불만 사항에 따라 이루어졌으며, 총 300건(방콕 53건, 기타 지방 247건)이 접수되었습니다. 지금까지 방콕 42건, 기타 지역 57건을 포함해 99건의 불만이 해결되었습니다. 이러한 조사에서 가격 미표시와 관련된 12건의 위반 사항이 발견되었습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "유가 및 물가 관련 정보는 여행 경비에 영향을 줄 수 있으므로 포함.",
+      "event_info": {
+        "date": "2026-03-23",
+        "location": "태국 전역",
+        "price": "변동",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Ministry launches price-fixing blitz",
+          "url": "https://www.bangkokpost.com/thailand/general/3222074/ministry-launches-pricefixing-blitz",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "06:49",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
       "date": "2026-03-23"
     }
   ]
