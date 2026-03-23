@@ -96082,7 +96082,7 @@
       "summary": "- 태국 북부 지역 기온 40도까지 상승, 방콕 38도 기록.\n- 태국 기상청, 향후 2주간 높은 기온 지속 전망.\n- 올해 여름 평균 기온이 작년보다 높을 것으로 예상, 특히 북부, 북동부, 중부 지역.",
       "full_translated": "보건부는 북부 일부 지역에서 기온이 40도까지 오르고 방콕은 월요일 최고 38도를 기록함에 따라 열사병 위험 증가에 대한 경고를 발표했습니다. 태국 기상청(TMD)의 최신 예보에 따르면 앞으로 몇 주 동안 낮 기온이 높게 유지될 것으로 예상됩니다. 태국 북부 지역은 이번 주 여름 폭풍으로 인해 강풍과 고립된 우박이 예상됩니다. 그러나 TMD는 습도 증가로 인해 일부 지역에서 온도와 습도의 결합된 영향을 측정하는 열 지수가 실제로 증가할 수 있다고 밝혔습니다. 작년에 태국은 여름 최고조에 달했을 때 열 지수가 '위험' 수준에 도달했을 때 21건의 열 관련 사망을 기록했습니다. TMD 지침에 따르면 열 지수 위험 범위는 27.0–32.9C(주의), 33.0–41.9C(경고), 42.0–51.9C(위험)에서 52C 이상(극도로 위험)입니다. 올해 기상청은 평균 여름 기온이 작년보다 높을 것으로 예상되며 특히 북부, 북동부, 중부 지역에서 당국은 국민들에게 각별한 주의를 기울일 것을 경고했습니다. TMD는 화요일부터 일요일까지 기온이 상승할 것이라고 밝혔습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객 안전에 직접적인 영향을 주는 폭염 관련 정보이므로 높은 점수 부여. 특히 아침 브리핑이므로 오늘의 날씨 예보는 중요.",
       "event_info": {
         "date": null,
@@ -96098,16 +96098,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222929_260324045547_700.jpg"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222929_260324045547_700.jpg",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://www.bangkokpost.com/thailand/general/3222929/public-warned-about-heat",
+      "source": ""
     },
     {
       "title": "태국 관광 위기 대응 2026: 정부, 방콕, 푸껫, 치앙마이 전역 안전 강화 계획 발표",
       "summary": "- 태국 정부가 관광객 안전 및 여행 안정성 강화를 위한 긴급 행동 계획 발표.\n- 방콕, 푸껫, 치앙마이 전역에서 관광객 보호 강화.\n- 2026년까지 위기 상황에 효과적으로 대응하기 위한 조치 시행.",
       "full_translated": "태국 관광 위기 대응 2026: 긴급 정부 행동 계획이 방콕, 푸껫, 치앙마이 전역에서 안전, 여행 안정성 및 관광객 보호를 강화합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "태국 정부가 관광객 안전을 위한 계획을 발표했다는 점에서 여행 안전에 대한 정보를 제공하므로 점수를 부여함. 2026년이라는 미래 시점을 명시하고 있어, 현재 시점에서는 약간의 시간적 거리감이 있지만, 중요한 정보이므로 포함.",
       "event_info": {
         "date": null,
@@ -96123,16 +96125,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOWHRPMFlaeHI5UWl1WUVDVC1oVWhsdlB2cU1oZG1GTkIzaFNFYUstaHREMV93YnJlQVQ3d0tKTkRfaVRyc194bEsyRkExZEEtMFJXZjVYcXdQSVQ5WWVqYVl3djFLb2UzRkdQdW5LOXpXV25LOGxFTGR0WDJwLVVsYl84M1hfdlhqWTZpMEFzQXBzZ05zekpyQlRMQkUzR2EycWZ2N2pBNkxyS1dzMkRJVnV0d2hjMXBNQ3FKLV9Sazg2OXRIQU9USUV3TWRwVFVOVFRuRllJaVRLYXFTU1Y4VUpIdThtWk9tYzh2WVEzNDgza0tYSHVEOVBjSjRRa05Tc2pfaURnUGp2Sm5NcGoyOHZ5WUxIVENuSG9YaVR6UXowUlRHYlR4ZFV0eUNqQWNaT0thLU5pdw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 럭셔리 호텔, 글로벌 여행 차질로 요금 70% 인하 (2026년)",
       "summary": "- 태국 럭셔리 호텔들이 요금을 최대 70%까지 인하합니다.\n- 이는 2026년 여행객 도착에 차질이 예상되기 때문입니다.\n- 글로벌 여행 시장의 불확실성이 호텔 업계에 영향을 미치고 있습니다.",
       "full_translated": "태국 럭셔리 호텔들이 글로벌 여행 차질로 인해 요금을 70%까지 인하합니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "여행 관련 소식이지만, 2026년이라는 먼 미래의 예측에 대한 내용이므로 즉각적인 영향은 적다고 판단.",
       "event_info": {
         "date": null,
@@ -96148,16 +96152,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3hsQjFVY1F5QlFPTzJRQlZyX19XRm9SVW9QNWYwRWhqVnN6elMxUEVqZkx6dTlHWE1GQlp6QnRTUzdKZGZjLUxHckhtRUpUX0pxcFhmbVYwZUNZaVNqTVg1VHdlTGZuaFgtRjBqMnRZRl9vclE5a3BNME1YNW0zQUU0R0xHUHRBX0RGUGdPVlVtVVBnd2VkVlVoVnZjSVN1X0pXNkZIaXVXalNnTm1Qa2c0WkNVSDY3QWdMa3NvbWozN1hjSGN5ck1YVllwaWdJb3c?oc=5",
+      "source": ""
     },
     {
       "title": "태국 여행 마트 플러스 2026, 파타야 개최로 전략적 파트너십 및 글로벌 산업 교류를 통한 관광 성장 촉진 - Travel And Tour World",
       "summary": "- 태국 여행 마트 플러스(TTM+) 2026이 파타야에서 개최됩니다.\n- 이 행사는 전략적 파트너십과 글로벌 산업 교류를 통해 관광 성장을 촉진합니다.\n- Travel And Tour World에서 보도했습니다.",
       "full_translated": "태국 여행 마트 플러스 2026, 파타야 개최로 전략적 파트너십 및 글로벌 산업 교류를 통한 관광 성장 촉진 Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년에 개최되는 행사로, 관광 산업에 긍정적인 영향을 미칠 것으로 예상되지만, 당장 여행객에게 직접적인 영향을 주지는 않음. 잠재적 여행 정보 제공.",
       "event_info": {
         "date": "2026",
@@ -96173,16 +96179,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWmdXQ2ozc3FNeXpKSFlSY0JscXF4TVhHbmpaaXcxZDRuYkpsS3JOQXRxTlNkU1lsTFNQd0Rrd0hDb3lSNUVES090YmdrWk9tcTlEM1BhUjAtcWRhR09GUy1kdjZqZTdaX0I4LVBWR3lQa3lSdEF5eVNUc2xlUE5YQTNtR0ZrYUQ2LXh2Z2NFQ1hjUzRkbzBDMzlHWHkxOXRjblNabU50NWdsdm93Zm83ZlU0Wlc4cU1EeFEzOHlfUHNISHpiNzVRNndrMzRRbFBPamh0a2FpRWIzLVFWeDJBOW5vRUMwaURrbUlMaEl6NDVVOTZxV3A2bTVTc1RuN3MxVHIxelpCd1RXUzA?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026 태국 관광 축제에서 국내 관광 성장 기대: 현지 장인, 요리의 즐거움, 지속 가능한 관행",
       "summary": "- 태국은 2026년 태국 관광 축제를 통해 국내 관광 성장을 도모합니다.\n- 축제는 현지 장인, 요리의 즐거움, 지속 가능한 관행을 특징으로 합니다.\n- 이 행사는 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다.",
       "full_translated": "태국은 2026년 태국 관광 축제에서 국내 관광 성장을 기대하며, 현지 장인, 요리의 즐거움, 지속 가능한 관행을 선보일 예정입니다. Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 관광 축제 정보 제공. 하지만 2년 뒤 행사로 당장 여행객에게 큰 영향은 없음.",
       "event_info": {
         "date": "2026-01-01",
@@ -96198,7 +96206,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:23",
+      "collected_at": "5:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdHZGYnFFOEFrQzNWV1BNNUxRZzB1MUtWYXlxMGhOZUxWY3lfZGI2MHdRNzFzUEVWUFNqNU9HLUFSS1V2ekRRWEM5TFNnTkdlTmRMcjNNeWMyNVJGUEN2RDR6SUhHV2tybmVVZlRDRTRTd205Vm9MZldpaUc1eHJNcHpYbEVLZDQzRWN3aUZHeU9mbEc0cHZ2YjhzSGVxVjBvTUp1bkJhRjdFLU5pNF9HbXFpQ3g1SUpqZGItU09MRVdlTWM3NzEzYVk5S1VXS3d0djZ3YUhSRzUwX1VYSnVueWRDVGdMdEpPYXZycjY1NGZMLVFoc0tuR1hKaWMxSFdVNE1nQldEdmtvS0k2RFluTnpJZzVjMVJJeUFnQ3VHRW54Zw?oc=5",
+      "source": ""
+    },
+    {
+      "title": "이란 공격으로 이스라엘에서 사망한 태국인 노동자 시신, 본국 송환 예정",
+      "summary": "- 이란의 이스라엘 공격으로 사망한 태국인 노동자 차이왓 와에우닐(33)의 시신이 3월 27일 이후 본국으로 송환될 예정입니다.\n- 주 이스라엘 태국 대사관은 엘알 항공의 운항 재개에 맞춰 시신 운송을 조율 중입니다.\n- 외무부 관계자는 유족에게 위로를 전하고 보상 절차를 지원할 예정입니다.",
+      "full_translated": "이란 미사일 공격으로 이스라엘에서 사망한 태국인 노동자의 시신이 이스라엘 항공 서비스가 재개되는 3월 27일 이후 본국으로 송환될 예정이라고 외무부가 밝혔습니다. 중동 상황 공동 관리 및 모니터링 센터의 브리핑에서 파니돈 파침사와트 정보부 차장 겸 외무부 부대변인은 텔아비브 주재 태국 대사관이 33세의 차이왓 와에우닐의 유해 송환을 조율하고 있다고 말했습니다. 이스라엘 중부의 농업 노동자인 차이왓은 3월 18일 이란의 공격으로 사망했습니다. 대사관은 금요일 운항을 재개할 것으로 예상되는 엘알 항공을 포함한 관련 기관과 협력하여 시신을 태국으로 운송할 준비를 하고 있습니다. 파니돈 씨는 \"3월 27일 비행을 재개할 것으로 예상되는 엘알 이스라엘을 포함한 관련 기관과 협력하여 그의 시신을 태국으로 송환할 것입니다.\"라고 말했습니다. 한편, 영사부 관계자들은 화요일 차이얏품에 있는 차이왓의 가족을 방문하여 위로를 전하고 혜택 및 보상 확보를 지원할 예정입니다. 노동부에 따르면 차이얏품 출신인 차이왓은 작년부터 이스라엘 중부 모샤브 아다님에 있는 감자 농장에서 일하고 있었습니다. 그는 포탄 파편으로 치명적인 부상을 입었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국인의 해외 안전 관련 사건이므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": "2026-03-18",
+        "location": "Moshav Adanim, Israel",
+        "price": null,
+        "location_google_map_query": "Moshav Adanim, Israel"
+      },
+      "references": [
+        {
+          "title": "Thai's body set to return home",
+          "url": "https://www.bangkokpost.com/thailand/general/3222934/thais-body-set-to-return-home",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222934_260324050825_700.jpg"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222934_260324050825_700.jpg",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "탁신, 5월 가석방 대상자 명단에 포함",
+      "summary": "- 탁신 친나왓 전 총리가 가석방 대상자 명단에 포함될 예정입니다.\n- 5월 11일 가석방될 가능성이 있습니다.\n- 현재 가석방 장소, 보호자, 재범 위험 등 세부 사항이 검토 중입니다.",
+      "full_translated": "탁신 친나왓 전 총리가 5월 가석방 대상자 500명에 포함될 예정이라고 Klong Prem Central Prison 소식통이 밝혔습니다. 최종 명단은 3월 말에 발표될 예정입니다.\n\n이번 달에 회의가 열려 가석방 대상자 명단이 부서 수준 위원회로 전달되고, 최종 승인 전에 장관 수준 위원회로 전달됩니다. 소식통에 따르면 탁신의 이름이 명단에 있으며, 이는 5월 11일에 석방될 수 있음을 의미합니다.\n\n그동안 가석방 기간 동안 수감자들이 머물 장소, 보호자, 재범 위험 및 기타 안전 고려 사항을 포함한 세부 사항이 가석방 심의 과정의 일부로 결정되고 있습니다. 탁신(76세)은 대법원이 6개월간의 병원 체류가 징역형에 포함되지 않는다고 판결한 후 작년 9월 9일에 수감되었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "정치적 상황 변화 가능성, 다만 여행객에게 직접적인 영향은 제한적이라고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thaksin on inmate parole list for May",
+          "url": "https://www.bangkokpost.com/thailand/politics/3222864/thaksin-on-inmate-parole-list-for-may",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222864_260324052507_700.jpg"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222864_260324052507_700.jpg",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "민주당, 가격 추적 도구 공개",
+      "summary": "- 민주당은 연료 부족 문제에 대한 정부의 설명을 요구하며 디지털 플랫폼을 출시했습니다.\n- 이 플랫폼은 시민들의 제보를 통해 비정상적인 소매 가격 책정 및 잠재적인 비축을 감시합니다.\n- 민주당은 정부가 연료 공급망을 투명하게 추적하고 공개적으로 소통할 것을 촉구했습니다.",
+      "full_translated": "민주당이 가격 추적 도구를 공개했습니다.\n\n디지털 플랫폼이 높은 연료 가격을 감지합니다. 2026년 3월 24일 05:21에 게시됨. 작성자: Post Reporters\n\n민주당은 정부에 지속적인 연료 부족에 대한 설명을 요구하고 비정상적인 가격 인상에 대한 보고서를 크라우드 소싱하기 위한 디지털 플랫폼을 출시했습니다. 콘 차티카와닛과 칸디 레오파이롯 부대표는 기자 회견에서 당이 주유소, 특히 남부 지역에서 실시한 점검 결과 정상 물량의 약 절반 정도만 배송되고 있어 일부 지역의 운전자들이 연료 부족을 겪고 있다고 밝혔습니다. 그들은 이것이 충분한 원유 공급과 정유 공장의 최대 가동에도 불구하고 발생하고 있다고 말했습니다.\n\n콘 씨는 \"원유가 있고 정유 공장이 최대 가동하고 있다면 연료가 어디로 갔느냐\"고 말하며 주유소 운영자들은 저장소에서 할당량이 줄었다고 일관되게 보고했다고 덧붙였습니다. 콘 씨는 당국에 전체 공급망을 추적하고 대중과 투명하게 소통할 것을 촉구하며 연료 압박이 운송 및 생산에서 에너지의 역할을 고려할 때 생활비에 영향을 미치고 있다고 경고했습니다. 그는 내무부에게 기회주의적인 가격 인상을 방지하고 어떤 제품에 진정으로 조정이 필요한지 명확히 할 것을 촉구하며 LPG, 연료 및 필수 의약품과 같은 주요 품목에는 여전히 명확한 보호 조치가 없다고 지적했습니다.\n\n브리핑에서 칸디 씨는 당의 기술 연구소에서 구축한 디지털 플랫폼인 \"Jabta\"를 소개했습니다. 이 플랫폼은 당의 LINE 계정을 통해 제출된 시민 보고서를 통해 비정상적인 소매 가격 책정 및 잠재적인 비축을 감지합니다. 사용자는 위치 정보를 제공합니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "연료 가격 인상 및 부족은 여행객의 교통비에 영향을 미칠 수 있으며, 새로운 디지털 플랫폼은 가격 정보를 제공할 수 있습니다. 가격 추적 도구가 여행자에게 유용할 수 있습니다.",
+      "event_info": {
+        "date": "2026-03-24",
+        "location": "태국",
+        "price": "변동 가능",
+        "location_google_map_query": "태국 주유소"
+      },
+      "references": [
+        {
+          "title": "Democrats unveil price tracking tool",
+          "url": "https://www.bangkokpost.com/thailand/politics/3222899/democrats-unveil-price-tracking-tool",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222899_260324052232_700.jpg"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222899_260324052232_700.jpg",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "태국과 옥스포드 유나이티드, 영국 팬들에게 태국 문화 선보여 - 놓칠 수 없는 획기적인 관광 이벤트 - Travel And Tour World",
+      "summary": "- 태국과 옥스포드 유나이티드가 협력하여 영국 팬들에게 태국 문화를 선보이는 행사를 개최합니다.\n- 이 행사는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 기대됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국과 옥스포드 유나이티드는 영국 팬들에게 태국 문화를 선보이는 획기적인 관광 이벤트를 개최합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 문화 홍보 및 관광객 유치 이벤트에 대한 정보 제공. 새로운 이벤트이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "옥스포드, 영국",
+        "price": null,
+        "location_google_map_query": "옥스포드"
+      },
+      "references": [
+        {
+          "title": "Thailand and Oxford United Showcase Thai Culture to UK Fans – A Game-Changing Tourism Event You Can’t Miss - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNi1NTlAybEFoWDhfSXk4ZWY4ckZxNUdxSE9TUnZoMWtKcmVRMFo1dDNWS1QwWkh6cTFCdHlra1BRZlFSRFdyYjZhQ2VKcjFWcFlab1JaSFpkSjZ6UnB6SXJnR3M4allYMjc5T0VSQVMtYnFEVkZGT24tejlBU3lZYWNuN1d3SFJGUDJfZHpTczRxdmlnLTZ2b0RvUWljVi02R3ZqT1BTNDNiWVd3VnNpSGxtaVVKRXlwWFZESG1Mb1Y5UzNGMEZ4enllYzh5bDVtX1hRcHBzV2twdDRTT1VjcC1lQXhHc2s?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:57",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "2026년 스포츠 관광의 부상 주도: 일본, 캐나다, 태국, 미국",
+      "summary": "- 일본, 캐나다, 태국, 미국이 2026년 스포츠 관광을 주도할 것으로 예상됨.\n- 각 나라는 독특한 강점과 관광 인프라를 통해 스포츠 관광객을 유치할 계획임.\n- 구체적인 계획 및 전략은 기사에서 더 자세히 다룰 예정.",
+      "full_translated": "일본, 캐나다, 태국, 미국이 2026년 스포츠 관광의 부상을 주도합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국이 스포츠 관광 목적지로 언급되었으나, 구체적인 내용이 없어 중간 점수 부여. 2026년은 비교적 먼 미래.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Japan Canada Thailand and the USA Leading the Rise of Sports Tourism in 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMTcxOTJVUlY1MjJUZXRybExxY3ViQi1QRkU4U0JlQlo5bGtHelJDdXVuNUdRNC1RNVE4Y19YU1dORjk5RW83U3FUWXZYYjlTc01tMW9oc3d0Y0J6R1BlWEhFcExiZ3VEUkp4UVBOWjM3TzNNRHU5SWp5ZFo1Sjc5XzJUUnpOdEYzRDVGZGt4dmxxQ0xnTXEybU4zU2RvTkloN1NYc000VG9ULVZiSDhwblVQM0xFZGl5Z0lwb1d2REp0NTA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:57",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-24"
     }
