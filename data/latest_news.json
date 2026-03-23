@@ -22401,7 +22401,7 @@
       "summary": "- 태국이 비자 규정을 강화하여 오용 및 위험을 억제합니다.\n- 자세한 내용은 TravelMole에서 확인할 수 있습니다.\n- 여행객들은 변경된 비자 규정을 확인해야 합니다.",
       "full_translated": "태국이 비자 규정을 강화하여 오용 및 위험을 억제합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "태국 입국에 필요한 비자 규정 변경은 여행자에게 중요한 정보이므로 높은 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -22417,16 +22417,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFgxU3MzVmZyZEVPbnVfQjdjUll4LTE3bWI3bEFJVm1UQXh4UkhtRkFwaDlBYmxVWEkwOWhPRTZjMkc5OC1ha2d4TGJvUkRDSDJMQkMybGRxYkdONjZQYXk0UmlwT3BhUE9oV1IxbnA4UUhldWJGMWk4Tm9RaGRUMUpn?oc=5",
+      "source": ""
     },
     {
       "title": "타이항공, 중동 긴장으로 인한 유류비 급등으로 일부 노선 항공권 가격 10~15% 인상",
       "summary": "- 타이항공은 중동 지역 긴장으로 인한 유류비 급등에 따라 일부 노선 항공권 가격을 10~15% 인상했습니다.\n- 싱가포르 시장에서 항공유 가격이 배럴당 80달러에서 220달러로 두 배 이상 상승하여 항공편 비용의 연료 비중이 30%에서 40~50%로 증가했습니다.\n- 유가 변동 및 분쟁 지역 회피를 위한 경로 변경으로 인해 비용이 증가했지만, 2026년 3월 사전 예약은 전년 대비 긍정적이며 유럽-태국 직항 노선의 탑승률은 80~90%에 달합니다.",
       "full_translated": "타이항공은 중동 지역 긴장으로 인한 급증하는 제트 연료 비용을 상쇄하기 위해 특정 노선의 항공권 가격을 10~15% 인상했습니다.\n\n항공사의 표준 연료 할증료(ค่าธรรมเนียมน้ำมันเชื้อเพลิง) 메커니즘을 통해 시행되는 이번 조정은 싱가포르 시장에서 제트 연료(Jet A-1) 가격이 배럴당 약 80달러에서 220달러로 두 배 이상 상승하여 항공편당 비용에서 연료 비중이 약 30%에서 40~50%로 증가함에 따라 이루어졌습니다. 최고 재무 및 회계 책임자인 Cherdchom Thetsathirasak은 타이 언론에 성명을 통해 이러한 변경 사항을 확인하면서 항공사가 이미 선택된 노선에서 인상을 시작했으며 태국 민간 항공국(CAAT)과 협력하여 할증료 상한을 관리하고 있다고 언급했습니다. Chai Eamsiri CEO는 이번 조치가 순전히 실제 비용에 맞추기 위한 것이며 기회주의적인 것이 아니라고 밝혔습니다. 그는 \"우리는 상황을 이용하는 것이 아니라 단순히 증가된 비용에 적응하고 있습니다.\"라고 설명했습니다. 그는 제트 연료 가격이 거의 100% 급등하여 모든 항공사에 직접적인 영향을 미쳤다고 설명했습니다. 항공사는 2026년 6월까지 필요한 연료의 약 50%를 헤지했지만, 변동성이 큰 가격과 분쟁 지역(예: 이란 영공) 회피를 위한 경로 변경으로 인해 여전히 한계 비용이 추가되었습니다. 요금 인상에도 불구하고 수요는 여전히 강력합니다. 2026년 3월 사전 예약은 전년 대비 긍정적이며 유럽-태국 직항 노선의 탑승률은 80~90%에 달합니다. 많은 서비스에서 티켓이 부족해졌는데, 이는 중동 환승 허브를 피하고 직항편을 선호하는 여행객의 수요 증가 때문이기도 합니다. 항공편 취소는 없었으며...",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공권 가격 인상은 여행 비용에 직접적인 영향을 미치므로 여행자에게 중요한 정보입니다. 특히 특정 노선에 대한 정보는 계획에 도움이 됩니다.",
       "event_info": {
         "date": null,
@@ -22442,16 +22444,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/images-85-741x4136457435306525525531-1.jpg?v=1774257260"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/images-85-741x4136457435306525525531-1.jpg?v=1774257260",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://thepattayanews.com/2026/03/23/thai-airways-raises-ticket-prices-by-10-15-on-certain-routes-to-offset-surging-jet-fuel-costs-from-middle-east-tensions/",
+      "source": ""
     },
     {
       "title": "태국 에너지 사업부, 전국 연료 공급 문제 속 'Fuel Now' 앱 출시",
       "summary": "- 태국 에너지 사업부가 전국 주유소의 연료 현황을 확인할 수 있는 'Fuel Now' 앱 출시.\n- 앱을 통해 연료 종류, 영업 여부 등 실시간 정보 제공.\n- 중동 분쟁으로 인한 공급망 문제와 수요 증가에 대응하기 위한 조치.",
       "full_translated": "태국 에너지 사업부는 전국적인 연료 공급 문제에 대처하기 위해 'Fuel Now' 앱을 출시했습니다. 이 앱을 통해 사용자들은 전국 주유소의 현재 상태, 즉 연료의 유무, 디젤이나 휘발유 같은 연료 종류, 영업 중인지 또는 일시적으로 문을 닫았는지 등을 확인할 수 있습니다. 이 앱은 지방 에너지 사무소와 주유소 운영자들의 데이터를 통합하여 운전자들이 효율적으로 연료를 찾고, 불필요한 이동을 줄이며, 지역적 부족 현상을 야기하는 사재기를 최소화하도록 돕습니다. 이는 중동 분쟁이 국제 유가 경로와 가격에 영향을 미치는 등 국제적 요인과 관련된 공급망 긴장과 대중의 수요 증가, 사재기로 인해 발생한 최근의 연료 유통 차질에 대한 대응입니다.\n\n당국은 또한 태국의 전략적 석유 비축량은 현재 약 103일 분량으로 충분하며, 이미 상당한 양의 조달이 확정되었다고 밝혔습니다. 앱 출시 외에도 에너지 사업부는 주유소에 구급차, 소방차, 정부 차량, 농민 등 필수 사용자에 대한 연료 판매를 우선시하도록 지시했습니다. 주유소는 이러한 우선 그룹에 대한 서비스를 거부하지 않도록 명령받았습니다. 또한 에너지 사업부는 24시간 유조선 운영 조정, 광범위한 유통을 보장하기 위한 비축량 인출 제한 완화 등을 통해 연료 배송을 가속화하기 위해 노력하고 있습니다. 'Fuel Now' 앱은 지방 에너지 사무소 페이스북 페이지에 게시되는 일일 업데이트와 같은 이전의 대중 및 정부의 노력을 기반으로 합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "연료 부족 상황은 여행객의 이동에 영향을 줄 수 있으며, 앱 정보는 유용함. 기존 게시된 유사 기사 없으므로 새로운 정보로 판단.",
       "event_info": {
         "date": null,
@@ -22467,16 +22471,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/20260323_1525306400121377812032747.jpg?v=1774255177"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/20260323_1525306400121377812032747.jpg?v=1774255177",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://thepattayanews.com/2026/03/23/thailands-department-of-energy-business-launches-fuel-now-app-amid-nationwide-fuel-supply-challenges/",
+      "source": ""
     },
     {
       "title": "태국 호텔, 글로벌 여행 차질로 객실 요금 대폭 인하",
       "summary": "- 글로벌 여행 차질로 태국 호텔들이 객실 요금을 대폭 인하하고 있습니다.\n- 이는 관광객 유치를 위한 노력의 일환입니다.\n- 자세한 내용은 The Economic Times에서 확인할 수 있습니다.",
       "full_translated": "태국 호텔들이 글로벌 여행 차질로 인해 객실 요금을 대폭 인하하고 있습니다. The Economic Times",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객에게는 저렴한 숙박 기회이지만, 이미 널리 알려진 정보이므로 점수를 낮게 책정.",
       "event_info": {
         "date": null,
@@ -22492,16 +22498,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-24"
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNc0Q4bVJfbVJfVzlZNGU4WVBqMDYyV3l0ODJ0Z2NGT3FyOHVFRVdWZUFqR2dZVDJiSTAwMkotR0pOdUxia1pFTTZVZm10MnRjU3ZMZGVKY0pnN2ItcldHZVhuOWt2VkVsSWZzb1RNaVB5NDlyZjVMRmJsMnNQbTg4STRCeVg1YnBqZmJadWVwd2pZaVRnXzFORTl4aWZlRllHSEM1UG82NDltTHJhTXctbGMybHlDZU5sbmRUdzVjbDFGS0Vyb2pjWTJFVUJoUUo0QjNVUtIB2gFBVV95cUxNTzNjYmhUSzJ1OTJhS2txclBVTFVoV0lzSWtHU0tlYlFfSHY2eDVFZzNNNTZLQ0s4cFVURXBiR2tQRVd0aEM5ZkNUajBocnJOSjBKNkZhVHNBb3gzTVNSclRLai10ZXRTYmFzWUNWb09uNkdIYlFMYUg2UFdCQlFaclBBV2syMkpBVjdrN0tpTmVlQmNUT0hWMmstYk9RQ0tSeTV6NXdETzdaUGd3X2VUSmliaTdZRmZJQ2JwelBoUUxnRjN3NUJUdG8tSi0zQXBDNGYwMzVZQjB5dw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 최고의 문화 체험 - Culture Trip",
       "summary": "- 태국에서 경험할 수 있는 최고의 문화 체험들을 소개합니다.\n- 사원 방문, 전통 요리 강좌, 태국 전통 마사지 등이 포함됩니다.\n- 태국의 다양한 문화적 명소를 탐험해보세요.",
       "full_translated": "태국 최고의 문화 체험&nbsp;&nbsp;Culture Trip",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국의 다양한 문화 체험을 소개하여 여행 계획에 참고할 만한 정보를 제공합니다. 새로운 정보는 아니지만, 여행객에게 유용한 팁을 제공하므로 포함합니다.",
       "event_info": {
         "date": null,
@@ -22517,7 +22525,134 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:54",
+      "collected_at": "4:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTEZQZVdhckVkeHpuN29yQ0pHWHZZOXR6REc3MDVfUGJYWWJrQzhiOG5lQmZGTUdOVnRZT1FSS0loSTg0RUZhUkEzelUxU0JrSnlzaDN4ZFVxRlZ0MTdHYmJzUHBwWDRuT2RseWNJdmpXdnlPQ1hETzlCRW9EYjlHb0o5azN4X3FaTEdOR3k1NHQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "폭염 주의: 보건부, 열사병 위험 경고",
+      "summary": "- 태국 북부 지역 기온 40도까지 상승, 방콕 38도 기록.\n- 태국 기상청, 향후 2주간 높은 기온 지속 전망.\n- 올해 여름 평균 기온이 작년보다 높을 것으로 예상, 특히 북부, 북동부, 중부 지역.",
+      "full_translated": "보건부는 북부 일부 지역에서 기온이 40도까지 오르고 방콕은 월요일 최고 38도를 기록함에 따라 열사병 위험 증가에 대한 경고를 발표했습니다. 태국 기상청(TMD)의 최신 예보에 따르면 앞으로 몇 주 동안 낮 기온이 높게 유지될 것으로 예상됩니다. 태국 북부 지역은 이번 주 여름 폭풍으로 인해 강풍과 고립된 우박이 예상됩니다. 그러나 TMD는 습도 증가로 인해 일부 지역에서 온도와 습도의 결합된 영향을 측정하는 열 지수가 실제로 증가할 수 있다고 밝혔습니다. 작년에 태국은 여름 최고조에 달했을 때 열 지수가 '위험' 수준에 도달했을 때 21건의 열 관련 사망을 기록했습니다. TMD 지침에 따르면 열 지수 위험 범위는 27.0–32.9C(주의), 33.0–41.9C(경고), 42.0–51.9C(위험)에서 52C 이상(극도로 위험)입니다. 올해 기상청은 평균 여름 기온이 작년보다 높을 것으로 예상되며 특히 북부, 북동부, 중부 지역에서 당국은 국민들에게 각별한 주의를 기울일 것을 경고했습니다. TMD는 화요일부터 일요일까지 기온이 상승할 것이라고 밝혔습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "여행객 안전에 직접적인 영향을 주는 폭염 관련 정보이므로 높은 점수 부여. 특히 아침 브리핑이므로 오늘의 날씨 예보는 중요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Public warned about heat",
+          "url": "https://www.bangkokpost.com/thailand/general/3222929/public-warned-about-heat",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222929_260324045547_700.jpg"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://static.bangkokpost.com/media/content/20260324/c1_3222929_260324045547_700.jpg",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "태국 관광 위기 대응 2026: 정부, 방콕, 푸껫, 치앙마이 전역 안전 강화 계획 발표",
+      "summary": "- 태국 정부가 관광객 안전 및 여행 안정성 강화를 위한 긴급 행동 계획 발표.\n- 방콕, 푸껫, 치앙마이 전역에서 관광객 보호 강화.\n- 2026년까지 위기 상황에 효과적으로 대응하기 위한 조치 시행.",
+      "full_translated": "태국 관광 위기 대응 2026: 긴급 정부 행동 계획이 방콕, 푸껫, 치앙마이 전역에서 안전, 여행 안정성 및 관광객 보호를 강화합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 정부가 관광객 안전을 위한 계획을 발표했다는 점에서 여행 안전에 대한 정보를 제공하므로 점수를 부여함. 2026년이라는 미래 시점을 명시하고 있어, 현재 시점에서는 약간의 시간적 거리감이 있지만, 중요한 정보이므로 포함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕, 푸껫, 치앙마이",
+        "price": null,
+        "location_google_map_query": "방콕, 푸껫, 치앙마이"
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Crisis Response 2026: Urgent Government Action Plan Strengthens Safety, Travel Stability and Tourist Protection Across Bangkok, Phuket and Chiang Mai - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOWHRPMFlaeHI5UWl1WUVDVC1oVWhsdlB2cU1oZG1GTkIzaFNFYUstaHREMV93YnJlQVQ3d0tKTkRfaVRyc194bEsyRkExZEEtMFJXZjVYcXdQSVQ5WWVqYVl3djFLb2UzRkdQdW5LOXpXV25LOGxFTGR0WDJwLVVsYl84M1hfdlhqWTZpMEFzQXBzZ05zekpyQlRMQkUzR2EycWZ2N2pBNkxyS1dzMkRJVnV0d2hjMXBNQ3FKLV9Sazg2OXRIQU9USUV3TWRwVFVOVFRuRllJaVRLYXFTU1Y4VUpIdThtWk9tYzh2WVEzNDgza0tYSHVEOVBjSjRRa05Tc2pfaURnUGp2Sm5NcGoyOHZ5WUxIVENuSG9YaVR6UXowUlRHYlR4ZFV0eUNqQWNaT0thLU5pdw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "태국 럭셔리 호텔, 글로벌 여행 차질로 요금 70% 인하 (2026년)",
+      "summary": "- 태국 럭셔리 호텔들이 요금을 최대 70%까지 인하합니다.\n- 이는 2026년 여행객 도착에 차질이 예상되기 때문입니다.\n- 글로벌 여행 시장의 불확실성이 호텔 업계에 영향을 미치고 있습니다.",
+      "full_translated": "태국 럭셔리 호텔들이 글로벌 여행 차질로 인해 요금을 70%까지 인하합니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "여행 관련 소식이지만, 2026년이라는 먼 미래의 예측에 대한 내용이므로 즉각적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Luxury Hotels Slash Rates by 70% as Global Travel Disruptions Hit 2026 Arrivals - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3hsQjFVY1F5QlFPTzJRQlZyX19XRm9SVW9QNWYwRWhqVnN6elMxUEVqZkx6dTlHWE1GQlp6QnRTUzdKZGZjLUxHckhtRUpUX0pxcFhmbVYwZUNZaVNqTVg1VHdlTGZuaFgtRjBqMnRZRl9vclE5a3BNME1YNW0zQUU0R0xHUHRBX0RGUGdPVlVtVVBnd2VkVlVoVnZjSVN1X0pXNkZIaXVXalNnTm1Qa2c0WkNVSDY3QWdMa3NvbWozN1hjSGN5ck1YVllwaWdJb3c?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "태국 여행 마트 플러스 2026, 파타야 개최로 전략적 파트너십 및 글로벌 산업 교류를 통한 관광 성장 촉진 - Travel And Tour World",
+      "summary": "- 태국 여행 마트 플러스(TTM+) 2026이 파타야에서 개최됩니다.\n- 이 행사는 전략적 파트너십과 글로벌 산업 교류를 통해 관광 성장을 촉진합니다.\n- Travel And Tour World에서 보도했습니다.",
+      "full_translated": "태국 여행 마트 플러스 2026, 파타야 개최로 전략적 파트너십 및 글로벌 산업 교류를 통한 관광 성장 촉진 Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "2026년에 개최되는 행사로, 관광 산업에 긍정적인 영향을 미칠 것으로 예상되지만, 당장 여행객에게 직접적인 영향을 주지는 않음. 잠재적 여행 정보 제공.",
+      "event_info": {
+        "date": "2026",
+        "location": "파타야",
+        "price": "미정",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand Travel Mart Plus 2026, Pattaya Gathering Drives Tourism Growth Through Strategic Partnerships and Global Industry Exchange - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWmdXQ2ozc3FNeXpKSFlSY0JscXF4TVhHbmpaaXcxZDRuYkpsS3JOQXRxTlNkU1lsTFNQd0Rrd0hDb3lSNUVES090YmdrWk9tcTlEM1BhUjAtcWRhR09GUy1kdjZqZTdaX0I4LVBWR3lQa3lSdEF5eVNUc2xlUE5YQTNtR0ZrYUQ2LXh2Z2NFQ1hjUzRkbzBDMzlHWHkxOXRjblNabU50NWdsdm93Zm83ZlU0Wlc4cU1EeFEzOHlfUHNISHpiNzVRNndrMzRRbFBPamh0a2FpRWIzLVFWeDJBOW5vRUMwaURrbUlMaEl6NDVVOTZxV3A2bTVTc1RuN3MxVHIxelpCd1RXUzA?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-24"
+    },
+    {
+      "title": "태국, 2026 태국 관광 축제에서 국내 관광 성장 기대: 현지 장인, 요리의 즐거움, 지속 가능한 관행",
+      "summary": "- 태국은 2026년 태국 관광 축제를 통해 국내 관광 성장을 도모합니다.\n- 축제는 현지 장인, 요리의 즐거움, 지속 가능한 관행을 특징으로 합니다.\n- 이 행사는 태국 관광 산업에 활력을 불어넣을 것으로 기대됩니다.",
+      "full_translated": "태국은 2026년 태국 관광 축제에서 국내 관광 성장을 기대하며, 현지 장인, 요리의 즐거움, 지속 가능한 관행을 선보일 예정입니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "2026년 관광 축제 정보 제공. 하지만 2년 뒤 행사로 당장 여행객에게 큰 영향은 없음.",
+      "event_info": {
+        "date": "2026-01-01",
+        "location": "태국",
+        "price": "미정",
+        "location_google_map_query": "Thailand"
+      },
+      "references": [
+        {
+          "title": "Thailand Bets on Domestic Tourism Growth at the 2026 Thailand Tourism Festival, Featuring Local Artisans, Culinary Delights, and Sustainable Practices - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOdHZGYnFFOEFrQzNWV1BNNUxRZzB1MUtWYXlxMGhOZUxWY3lfZGI2MHdRNzFzUEVWUFNqNU9HLUFSS1V2ekRRWEM5TFNnTkdlTmRMcjNNeWMyNVJGUEN2RDR6SUhHV2tybmVVZlRDRTRTd205Vm9MZldpaUc1eHJNcHpYbEVLZDQzRWN3aUZHeU9mbEc0cHZ2YjhzSGVxVjBvTUp1bkJhRjdFLU5pNF9HbXFpQ3g1SUpqZGItU09MRVdlTWM3NzEzYVk5S1VXS3d0djZ3YUhSRzUwX1VYSnVueWRDVGdMdEpPYXZycjY1NGZMLVFoc0tuR1hKaWMxSFdVNE1nQldEdmtvS0k2RFluTnpJZzVjMVJJeUFnQ3VHRW54Zw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:23",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-24"
     }
