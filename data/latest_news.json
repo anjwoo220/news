@@ -23850,7 +23850,7 @@
       "summary": "- 미국 조사위원회, 에어캐나다 항공기가 뉴욕 공항 활주로에서 소방차와 충돌해 2명 사망한 사고 원인 발표.\n- 활주로의 항공기와 차량 감지 시스템이 작동하지 않아 사고 발생.\n- 사고 당시 소방차는 다른 항공기를 지원하기 위해 활주로를 가로지르고 있었으며, 송수신 장비가 없었음.",
       "full_translated": "미국 조사위원회는 에어캐나다 항공기가 뉴욕 공항 활주로에서 소방차와 충돌하여 2명이 사망한 사고는 활주로의 항공기 및 차량 감지 시스템 오작동으로 인해 발생했다고 밝혔습니다. 미국 국가교통안전위원회(NTSB)는 에어캐나다 항공편이 뉴욕시 공항 활주로에서 소방차와 충돌하여 2명이 사망하고 수십 명이 부상당한 사고가 활주로의 항공기 및 차량 감지 시스템의 오작동으로 인해 발생했다고 밝혔습니다. NTSB는 에어캐나다 익스프레스 CRJ-900 제트기가 라과디아 공항에서 소방차와 충돌한 사건을 조사하고 있으며, 이 사건은 ASDE-X 시스템이 제대로 작동하지 않아 발생한 것으로 밝혀졌습니다. NTSB 의장인 제니퍼 호멘디는 뉴욕에서 기자들에게 \"ASDE-X 시스템은 차량이 활주로 지역을 드나들 때 매우 가까운 거리에 있었기 때문에 경고를 보내지 않았고, 이로 인해 시스템이 고정밀 추적 경로를 생성할 수 없었습니다.\"라고 말했습니다. ASDE-X 또는 Airport Surface Detection Equipment, Model X는 활주로 침범을 줄이기 위해 설계된 감시 시스템으로, 항공 교통 관제사가 활주로 표면에서 항공기와 차량의 움직임을 추적할 수 있도록 지원합니다. 호멘디는 또한 라과디아 공항 활주로를 가로질러 다른 항공기를 지원하기 위해 운전 중이던 해당 소방차에는 미국 내 다른 공항의 트럭과는 달리 송수신 장비가 없었다고 언급했습니다. 호멘디는 또한 이 사건을 예방할 수 있는 기술이 있었는지 여부는 아직 불확실하다고 인정했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "공항 안전 관련 사고 정보로 여행객에게 간접적인 영향을 줄 수 있다고 판단.",
       "event_info": {
         "date": "2026-03-24",
@@ -23866,16 +23866,18 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVA2izOVfUzlYAZ8.jpg"
         }
       ],
-      "collected_at": "04:30",
+      "collected_at": "4:30",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVA2izOVfUzlYAZ8.jpg",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "link": "https://www.thairath.co.th/news/foreign/2922288",
+      "source": ""
     },
     {
       "title": "중국, 태국 관광객 송출 1위: 인도, 러시아, 한국, 말레이시아 제쳐",
       "summary": "- 2026년 1월~3월 태국 방문 외국인 854만 명 기록.\n- 중국인 관광객 증가가 두드러짐.\n- 글로벌 여행 트렌드 재편.",
       "full_translated": "중국이 태국 관광객 송출에서 인도, 러시아, 한국, 말레이시아 등을 제치고 2026년 1월부터 3월까지 854만 명의 외국인 방문객을 맞이하면서 글로벌 여행 트렌드를 재정의하고 있습니다. 알아야 할 새로운 업데이트 - Travel And Tour World",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "태국 관광 시장의 변화를 보여주는 정보로, 한국인 여행객에게도 간접적인 영향을 줄 수 있다고 판단.",
       "event_info": {
         "date": null,
@@ -23891,16 +23893,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:30",
+      "collected_at": "4:30",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQS0hVYnRic0F5eVF3MTl6VkdCb08ybUJhSml2NURrQTFaQWlxNnF5UEJGZVJiRGZmSzF3RHpkdnNIb1VQUk9zWG1WLUdpQWdSMm5mdnhKNVVJOTB0WmdwemZLUHZNLVNJNUhXWnU3UEp2QjMtSWl3OFRFaTdIOUN1dVJlTVFlcjQyVjd2b3hWYzlCOWRTb0xlLWdBaHczNUUxMWRuaVhmVXRMMXVjMVVzbWdJZ1dqcXhsblNzMWVDWklYUkp1MVRMZ0Y4TC1uS0pvT2o0TUoySUZ1WDgxaW5oeFpPZVBFdmhoN3hxUXpnbmRCUkR6Sm5rd3ZSVlM4dkhpWjdocFkzcG9QbU5TQzZudllSWHFqY1QwVVcyU1pZdDNWNVd0bnYyZW4tQUZjV2MzS2pZbEVYTTJEbC1DY2JpRnllYlFsclVrb3pCN0hnenprcDg?oc=5",
+      "source": ""
     },
     {
       "title": "국왕 부부, 프라다붓 재단 건물 개관: 지속 가능한 교육 기회 창출",
       "summary": "- 국왕과 왕비가 방플리 지역의 프라다붓 재단 및 신규 학교 개관식에 참석함.\n- 수라윳 출라논 추밀원 의장 등 주요 인사들이 참석하여 개관을 축하함.\n- 재단은 1975년 국왕의 아버지인 푸미폰 아둔야뎃 왕의 구상에 따라 설립되었으며, 교육 기회 제공을 목표로 함.",
       "full_translated": "국왕 마하 와치랄롱꼰과 왕비 수티다는 사뭇쁘라깐 주 방플리 지역의 프라다붓 재단 건물과 신규 프라다붓 학교 개관식에 참석했습니다. 수라윳 출라논 추밀원 의장, 찰릿 푹파쑥 추밀원 의원 및 재단 관계자들이 이들을 맞이했습니다. 국왕은 전기 버튼을 눌러 '프라다붓 재단' 현판을 열고 재단 건물과 신규 학교를 시찰했습니다. 국왕은 프라다붓 재단 모델과 비디오를 시청하고, 재단의 49년 개발 역사, 사뭇쁘라깐 프라다붓 학교의 기원, 남부 국경 지역 프라다붓 학교의 기원에 대한 전시회를 둘러보았습니다. 또한, 국왕은 프라다붓 학교의 1년 교육 과정 운영을 참관했습니다. 프라다붓 재단은 1975년 푸미폰 아둔야뎃 왕의 구상에 따라 설립되었으며, 국왕은 개인 자산을 프로젝트 운영 자금으로 기부했습니다. 1990년 8월 17일, 재단은 공식적으로 등록되었습니다. 현재 국왕은 명예 이사장직을, 시린톤 공주는 명예 부이사장직을 맡고 있습니다. 프라다붓 재단과 신규 학교는 원래 두씻 지역의 삼센 거리에 위치해 있었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "왕실 행사 관련 소식이지만, 일반 여행객에게 직접적인 영향은 적다고 판단.",
       "event_info": {
         "date": null,
@@ -23916,16 +23920,18 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVA039rtiMNHQ8aQ.jpg"
         }
       ],
-      "collected_at": "04:30",
+      "collected_at": "4:30",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVA039rtiMNHQ8aQ.jpg",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "link": "https://www.thairath.co.th/news/royal/2922118",
+      "source": ""
     },
     {
       "title": "레바논, 이란 대사 추방: 외교 의무 위반",
       "summary": "- 레바논이 이란 대사를 '페르소나 논 그라타'로 지정하고 추방 명령.\n- 이는 이란 대사의 내정 간섭 및 정부 비판 발언에 대한 조치.\n- 레바논 외무부는 이번 조치가 이란과의 외교 관계 단절은 아니라고 강조.",
       "full_translated": "레바논이 이란 대사를 외교 의무 위반을 이유로 추방했습니다. 레바논 외무부는 이번 조치가 테헤란 정부와의 외교 관계 단절은 아니라고 밝혔습니다. 2026년 3월 24일, 레바논 외무부는 이란 대사의 지위를 박탈했다고 확인했습니다. 이유는 외교 관례와 의무 위반입니다. 그는 이번 주 일요일까지 레바논을 떠나야 합니다. X 플랫폼에 게시된 성명에서 레바논 외무장관 유세프 라지는 “오늘, 저는 외무부 장관에게 레바논 주재 이란 대리대사를 불러 모하마드 레자 셰바니 이란 대사의 신임장을 철회하고 그를 '페르소나 논 그라타'(persona non grata)로 선언하여 2026년 3월 29일까지 레바논 영토를 떠나도록 지시했습니다.” 이번 조치는 레바논이 이스라엘과의 긴장을 완화하기 위한 다양한 조치를 취한 후에 이루어졌습니다. 여기에는 이슬람혁명수비대(IRGC)의 활동 금지와 이란 이민자에게 입국 비자를 요구하는 것이 포함됩니다. 레바논 외무부는 이후 X에 게시된 글을 통해 이번 결정이 이란과의 외교 관계 단절은 아니라고 밝혔습니다. “이번 조치는 레바논에 파견된 대사로서의 관례와 의무를 위반했기 때문에 대사에 대한 조치입니다.” “셰바니 대사는 레바논 내정에 간섭하고 정부 결정을 비판하는 발언을 했습니다.” 성명은 밝혔습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국과 직접적인 관련은 없으나, 중동 지역 정세 불안정은 잠재적으로 여행에 영향을 줄 수 있으므로 낮은 점수로 포함.",
       "event_info": {
         "date": null,
@@ -23941,16 +23947,18 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVA2izxaUOPysBaH.jpg"
         }
       ],
-      "collected_at": "04:30",
+      "collected_at": "4:30",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVA2izxaUOPysBaH.jpg",
-      "date": "2026-03-25"
+      "date": "2026-03-25",
+      "link": "https://www.thairath.co.th/news/foreign/2922281",
+      "source": ""
     },
     {
       "title": "캄보디아-태국 충돌로 1,000년 된 힌두 시바 사원 파손",
       "summary": "- 캄보디아와 태국 간의 충돌로 인해 1,000년 된 힌두 시바 사원이 파손되었습니다.\n- 이 사원은 관광객 없이 잔해만 남았습니다.\n- 자세한 피해 상황은 아직 알려지지 않았습니다.",
       "full_translated": "캄보디아-태국 충돌로 1,000년 된 힌두 시바 사원이 파손되었습니다. 관광객은 없고 잔해만 남았습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "국경 지역의 분쟁 가능성을 알리는 정보이지만, 여행에 직접적인 영향은 제한적입니다. 해당 지역 여행객에게는 주의를 요할 수 있습니다.",
       "event_info": {
         "date": null,
@@ -23966,8 +23974,135 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:30",
+      "collected_at": "4:30",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-25",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPMWQ5YTlTMC1WMTJXeGdkdER1MXZLOXVDYUNoSkRERURyZjMtc1RhMWFUYXVWQ2xONVgyeG9tTk9IZ1ZvMDNqQmdMb3lVR0Z2QWhjdXlkc3M0YWtPZHdlOVVOM2N0VTFCOXhEUi1WS04yTkJVRGFRNm02cWwzaWg0TERWbW4yNHdocHUyR1h6MjJRTkZsWElvb2JwVHppemh4cGxMMFd6VFhMSGxqWmNNTS00eGtBNlExdEZVMC1DMGRDZHhFX0dpcnVtSUNCMW9FRV9WQ0NLWnplb2ZTdTNhUEZsMDBNWVBfSHY5eE5DbVhZWE5rcEZ1c3M1b2JjdlZFckFPRHF4d2JBYUw2VFlB?oc=5",
+      "source": ""
+    },
+    {
+      "title": "푸껫, 2026 세계 지속 가능한 관광 컨퍼런스 개최",
+      "summary": "- 푸껫이 2026년 4월 21일부터 24일까지 세계 지속 가능한 관광 컨퍼런스(GSTC 2026)를 개최합니다.\n- 태국 관광청(TAT) 주관으로 태국 컨벤션 전시 뷰로(TCEB), 푸껫 지방 정부, 지속 가능한 관광 개발 재단이 협력합니다.\n- 30~50개국에서 700명 이상의 정책 입안자, 관광 경영진, 시민 사회 네트워크, 지속 가능성 전문가가 참여할 예정입니다.",
+      "full_translated": "푸껫: 섬 지방이 2026년 4월 21일부터 24일까지 세계 지속 가능한 관광 컨퍼런스(GSTC 2026)를 개최할 예정이라고 태국 관광청(TAT)이 밝혔습니다. 이번 행사는 태국 컨벤션 전시 뷰로(TCEB), 푸껫 지방 사무소, 지속 가능한 관광 개발 재단과 협력하여 조직되었으며, 30~50개국에서 700명 이상의 참가자를 유치할 것으로 예상됩니다. 대표단에는 정책 입안자, 관광 경영진, 시민 사회 네트워크 및 지속 가능성 전문가가 포함됩니다.\n\n타파니 키앗파이분 TAT 총재는 GSTC 2026이 태국이 '지속 가능한 목적지'가 되기 위한 노력에 초점을 맞추고, 양보다 가치 창출과 균형 잡힌 방문객 관리에 중점을 둘 것이라고 말했습니다. 컨퍼런스는 로열 푸껫 시티 호텔과 코트야드 바이 메리어트 푸껫 타운에서 지속 가능한 호스피탈리티, 회복력 있는 도시 및 커뮤니티, 방문객 분산 관리라는 세 가지 주요 테마 프레임워크 하에 개최됩니다.\n\n테라퐁 추아이추 푸껫 부지사는 이번 선정은 강력한 인프라, 교통 및 지역 사회 협력에 힘입어 태국의 준비성과 글로벌 회의 허브로서 푸껫의 역량에 대한 국제적인 신뢰를 보여준다고 말했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "국제적인 관광 컨퍼런스 개최 정보는 여행 관련 산업 및 방문객에게 유용한 정보이며, 푸껫의 관광 인프라 및 역량을 강조하므로 여행객에게 간접적인 영향을 줄 수 있습니다. 다만, 개최 시점이 2년 뒤이므로 즉각적인 영향은 낮습니다.",
+      "event_info": {
+        "date": "2026-04-21",
+        "location": "Royal Phuket City Hotel and Courtyard by Marriott Phuket Town",
+        "price": "정보 없음",
+        "location_google_map_query": "Royal Phuket City Hotel and Courtyard by Marriott Phuket Town"
+      },
+      "references": [
+        {
+          "title": "Island to host global meet",
+          "url": "https://www.bangkokpost.com/thailand/general/3223499/island-to-host-global-meet",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg"
+        }
+      ],
+      "collected_at": "05:01",
+      "image_url": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "파타야 시장, 2026년 정책 회의 주재, 공공 토지 매립 및 주요 프로젝트 진전 보고",
+      "summary": "- 파타야 시장이 2026년 정책 회의를 주재하여 주요 프로젝트 진행 상황을 점검함.\n- 소이 스쿰윗 19의 공공 토지 매립이 완료되어 토지 분쟁이 해결되었으며, 해당 지역은 공공 용지로 반환됨.\n- 소이 프롬프라파니밋 2에서 불법 건축물 철거가 진행되었으며, 공공 시설 정비가 이루어질 예정임.",
+      "full_translated": "파타야 시장 포라메세는 제2차 2026년 정책 회의를 주재하여 공공 토지 매립 및 주요 프로젝트의 주요 진전을 보고했습니다. 이번 회의에는 마놋 농야이 부시장과 끄릿사나 분사와트 부시장, 시장 비서팀, 고문, 파타야 시의회 사무총장, 관련 부서장 등이 참석했습니다. 2026년 1월 27일에 열린 첫 번째 회의에 이어 진행 상황을 검토하고, 장애물을 해결하고, 작업을 가속화하는 데 중점을 두었습니다. \n\n회의 중 다음과 같은 중요한 업데이트가 발표되었습니다.\n\n1. 소이 스쿰윗 19(소이 알라오시안/소이 라오치안)의 공공 토지 매립 성공: 오랜 토지 분쟁이 완전히 해결되었습니다. 침입자는 법원의 명령에 따라 자발적으로 구조물을 철거했습니다. 2026년 3월 19일, 포라메세 시장은 법률 집행 부서와 합동 조사를 직접 주도했습니다. 정리된 토지는 공식적으로 파타야 시에 공공 용도로 반환되었습니다. 시장은 공공사업부에 해당 지역을 공공 토지로 선언하는 표지판을 설치하여 향후 침해를 방지하고 최적의 공공 활용 방안에 대한 추가 논의를 계획하도록 지시했습니다.\n\n2. 소이 프롬프라파니밋 2(스쿰윗 파타야 53)의 진행 상황: 파타야 시는 침해에 대한 대중의 불만 이후 표지판, 전봇대, 신령의 집 이전, 2026년 3월 4일 지역 사회 사무실 건물 철거를 포함한 불법 구조물을 조사하고 철거했습니다. 지방 전력청 소유의 일반 전봇대 2개와 고압 전봇대 1개만 남아 있습니다. 공공사업부는 전력청과 협력하여...",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야의 공공 토지 정비 및 불법 건축물 철거는 도시 미관 개선 및 관광객 편의 증진에 기여할 수 있습니다. 2026년이라는 미래 날짜를 2024년으로 수정할 필요가 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya Mayor Leads Second 2026 Policy Meeting, Reports Major Progress on Public Land Reclamation and Key Projects",
+          "url": "https://thepattayanews.com/2026/03/25/pattaya-mayor-leads-second-2026-policy-meeting-reports-major-progress-on-public-land-reclamation-and-key-projects/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17743888447284803416392174200268.jpg?v=1774389117"
+        }
+      ],
+      "collected_at": "05:01",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17743888447284803416392174200268.jpg?v=1774389117",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "가스 가격 인상으로 태국 전기 요금 상승 전망",
+      "summary": "- 액화천연가스(LNG) 가격 상승으로 인해 전기 요금 인상 가능성 제기\n- 정부는 유가 상한제와 유사한 보조금 지원이 어려울 것으로 예상\n- 에너지부 장관은 총리의 정책 방향을 기다리는 중",
+      "full_translated": "중동 분쟁으로 액화천연가스(LNG) 가격이 상승함에 따라 새로운 정부는 전기 요금 급등에 대비하고 있다고 익명을 요구한 에너지부 관리가 밝혔습니다. 이 관리는 유가 상한제와 유사한 보조금 지원은 2022년 러시아-우크라이나 전쟁 발발로 인한 막대한 재정적 부담으로 인해 어려울 것으로 예상했습니다. 당시 태국 발전 공사(Egat)와 국영 에너지 대기업 PTT Plc는 치솟는 LNG 비용으로부터 소비자를 보호하기 위해 막대한 비용을 지출했습니다. 부분적인 상환에도 불구하고 Egat는 여전히 360억 바트 이상의 손실을, PTT는 약 130억 바트의 손실을 안고 있습니다.\n\n이 관리는 \"정부가 전기 요금을 보조하기 위한 자금을 어떻게 찾을 수 있을지는 불분명하다\"고 말하며, 한 가지 옵션은 주 전력 기관의 사용하지 않은 예산을 회수하는 것이라고 덧붙였습니다. 프라서트 신숙프라서트 에너지부 차관은 정부가 내각을 구성 중인 아누틴 찬비라쿨 총리의 정책 방향을 기다리고 있다고 말했습니다. 정부는 4월 초에 의회에 정책 성명을 발표할 것으로 예상됩니다. 태국은 전력 생산의 약 60%를 태국만과 미얀마에서 생산되는 천연 가스와 함께 LNG에 의존하고 있습니다. 카타르에너지 LNG에서 각각 6만 톤을 운반하는 두 척의 LNG 선박이 통과하지 못하면서 공급 차질이 심화되었습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "전기 요금 인상은 장기적으로 여행 관련 비용 상승에 영향을 줄 수 있으나, 즉각적인 영향은 제한적임.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Gas price hike to push up Thai power bills",
+          "url": "https://www.bangkokpost.com/business/general/3223594/gas-price-hike-to-push-up-thai-power-bills",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/25/6020669_700.jpg"
+        }
+      ],
+      "collected_at": "05:01",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/25/6020669_700.jpg",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "새 내각, 국왕 승인 준비 완료",
+      "summary": "- 아누틴 총리는 새 내각 명단이 국왕의 승인을 받을 준비가 되었다고 밝혔습니다.\n- 법률 전문가인 보원삭 우완노의 부재에 대한 보도를 일축했습니다.\n- 팔랑 쁘라차랏당은 하원 의석 5석을 보유하고 있지만, 내각 몫을 받지 못할 것으로 예상됩니다.",
+      "full_translated": "아누틴 총리, 보원삭 부재를 일축\n\n게시일: 2026년 3월 25일 04:43\n\n아누틴 차른비라쿨 총리는 화요일 새 내각 구성이 국왕의 승인을 받기 위해 제출될 준비가 되었다고 말하면서 법률 학자 보원삭 우완노의 부재에 대한 보고를 일축했습니다. 그는 각료 명단이 양호한 상태이며 국가위원회 사무총장인 파콘 닐프라푼트가 법률 업무를 감독하는 부총리로 임명될 것이라는 질문에 고개를 끄덕였습니다.\n\n아누틴 씨는 보원삭 씨에 대해 질문을 받았을 때 정치 주기에서 변화는 정상이라고 말했습니다. \"우리는 함께 일하기 때문에 그와 이야기를 나눴습니다. 이에 대해 특이한 점은 없습니다. 각 내각은 별도의 임기를 갖습니다. 총리가 같더라도 여전히 새로운 행정부로 간주됩니다.\"라고 그는 말했습니다.\n\n각료 지명자들은 이미 총리 비서실에 기록을 제출하여 심사를 받은 것으로 알려졌습니다. 새 내각은 35명으로 구성될 예정이며, 이는 전체 36명에 미치지 못하여 필요한 경우 향후 조정을 위한 여지를 남겨두고 있습니다.\n\n연합 관계자들은 하원 의석 5석을 보유한 팔랑 쁘라차랏당이 내각 몫을 받지 못하고, 품짜이타이당(BJT)과 프아 타이당에 자리가 할당될 것이라고 말했습니다. 한편, 프아 타이당 대표 줄라푼 아몬비바트는 화요일 내각 할당에 대한 당 MP들의 불만족에 대한 보고를 일축했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "내각 구성에 대한 정보는 여행 정책 및 정부 운영에 간접적인 영향을 미칠 수 있으므로 중간 정도의 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "New cabinet ready for royal endorsement",
+          "url": "https://www.bangkokpost.com/thailand/politics/3223459/new-cabinet-ready-for-royal-endorsement",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260325/c1_3223459_260325045633_700.jpg"
+        }
+      ],
+      "collected_at": "05:01",
+      "image_url": "https://static.bangkokpost.com/media/content/20260325/c1_3223459_260325045633_700.jpg",
+      "date": "2026-03-25"
+    },
+    {
+      "title": "중동 분쟁으로 주요 시장 자동차 수출 지연",
+      "summary": "- 태국 자동차 산업이 중동 분쟁으로 인해 어려움을 겪고 있음.\n- 호르무즈 해협을 통과하는 선박 운송에 차질이 생겨 차량 수출이 지연되고 있음.\n- 태국 자동차 산업 연맹(FTI)은 올해 자동차 생산량 전망을 재검토하고 있음.",
+      "full_translated": "태국 자동차 산업은 이란에 대한 이스라엘-미국 전쟁으로 인해 호르무즈 해협을 통과하는 선박 운송이 중단되면서 중동으로의 차량 수출이 지연되어 압박을 받고 있다고 태국 산업 연맹(FTI)이 밝혔습니다. 이러한 상황으로 인해 FTI는 올해 자동차 생산량 전망을 재검토하고 있습니다. 중동은 아시아 및 호주에 이어 태국의 세 번째로 큰 차량 수출 시장이며, 픽업 트럭에 대한 수요가 높습니다. 그러나 진행 중인 분쟁으로 인해 사우디 아라비아, 오만, 아랍 에미리트와 같은 주요 목적지로의 배송이 늦어지고 있다고 FTI 자동차 산업 클럽의 부회장이자 대변인인 수라퐁 파이시트파타나퐁이 말했습니다. \"FTI는 빠르게 변화하는 전쟁을 주시하고 있습니다. 이 지역은 특히 픽업 부문에서 태국에게 중요한 수출 시장입니다.\"라고 수라퐁 씨는 말했습니다. 자동차, 오토바이 및 트럭을 운송하는 로-로 선박은 현재 화물선에 대한 공격 우려로 인해 중동으로 향하는 20만 대 이상의 차량을 보류하고 있습니다. 올해 초, 클럽은 수출 95만 대, 국내 판매 55만 대를 포함하여 2026년 150만 대의 차량을 목표로 설정했습니다. 그러나 수출은 이미 어려움의 징후를 보이고 있습니다. 2월 자동차 출하량은 아시아, 오세아니아, 호주 및 중동 전반에 걸쳐 감소하면서 전년 동월 대비 0.05% 감소한 81,195대를 기록했습니다. 1월 총 수출량",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 경제에 영향을 미치는 뉴스이지만, 여행객에게 직접적인 영향은 적다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Middle East conflict delays auto exports to key market",
+          "url": "https://www.bangkokpost.com/business/motoring/3223549/middle-east-conflict-delays-auto-exports-to-key-market",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260325/c1_3223549_260325043819_700.jpg"
+        }
+      ],
+      "collected_at": "05:01",
+      "image_url": "https://static.bangkokpost.com/media/content/20260325/c1_3223549_260325043819_700.jpg",
       "date": "2026-03-25"
     }
   ]
