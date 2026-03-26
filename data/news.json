@@ -94788,7 +94788,7 @@
       "summary": "- 태국 내 연료 부족 현상으로 여행에 차질이 예상됨.\n- 특히 쏭크란 축제 기간 동안의 여행에 대한 우려가 커지고 있음.\n- 여행 관련 업계는 연료 부족 사태 해결을 촉구하고 있음.",
       "full_translated": "태국 연료 부족 사태로 인해 태국 여행이 차질을 빚고 있으며 쏭크란 축제 여행까지 위협받고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "연료 부족은 여행객들의 이동에 직접적인 영향을 미치므로 여행에 차질을 줄 수 있어 포함. 쏭크란 축제 기간 여행객들에게 미치는 영향 고려.",
       "event_info": {
         "date": null,
@@ -94804,16 +94804,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGV0VUMxeWoxNTFjWm9nbFhacDlsSnZka0pDdDRXRnBGTHRLRmdpcWR6YlRaNGNIZktXQndsM2d2ZTJHU29GVDJLMVVrWWZHdXVoRFpZQVJ1cmFxM3F4eG9NVmRxVk9SMkVOSTBzdDUxdVlLUVhXNWZiV2hCVG8yeElKM0JQVDExMkFUU1NuNl85OURfRFNHMTNjbDFLSmFYOFhtUWtB?oc=5",
+      "source": ""
     },
     {
       "title": "연료 가격 급등으로 소매업체 타격, 송끄란 축제에 영향 우려",
       "summary": "- 연료 부족과 가격 급등으로 지방 소매 및 도매 운영업체의 물류 혼란이 발생.\n- CS Park Co Ltd는 연료 가격 상승으로 인한 비용 증가분을 흡수하고 있다고 밝힘.\n- 연료 가격 상승은 송끄란 축제 기간 동안 사람들의 여행 심리를 위축시켜 축제가 예년보다 활기를 잃을 수 있다고 전망.",
       "full_translated": "연료 가격 급등으로 소매업체들이 어려움을 겪고 있으며, 이는 다가오는 4월 송끄란 축제 기간 동안의 교통량 감소로 이어질 수 있다는 우려를 낳고 있습니다. 싱 부리 지방은 연료 부족에 직면해 회사 트럭들이 주유소에서 연료를 보급하기 위해 줄을 서고 있다고 CS Park Co Ltd의 사업 개발 이사인 Showsiri Treechairasmee가 밝혔습니다. 그녀는 물류 차질로 인해 배송 시간이 1-2일에서 2-3일로 연장되었다고 말했습니다. Showsiri는 연료 가격이 점진적으로 상승하여 사업자들이 조정할 시간을 가질 수 있어야 한다고 말했습니다. 회사는 1,000바트 이상의 주문에 대해 특정 경로에 무료 배송을 제공하고 있으며, 연료 가격 상승으로 인한 비용 증가분을 흡수하고 있습니다. 고려 중인 옵션 중 하나는 무료 배송에 필요한 최소 주문 금액을 인상하는 것입니다. 만약 디젤 가격이 더 오르면 회사는 배송료를 도입하거나 공급업체와 협력하여 프로모션을 통해 더 높은 비용을 상쇄해야 할 수도 있습니다. Showsiri는 배송 비용이 회사 수익의 약 10%를 차지한다고 밝혔습니다. 연료 가격 상승은 송끄란 축제를 작년보다 조용하게 만들 수 있다고 그녀는 말했습니다. 높은 휘발유 가격으로 인해 사람들이 여행을 덜 할 수 있으며, 올해 송끄란 축제는 예년만큼 활기차지 않을 수 있다고 Showsiri는 덧붙였습니다. CS Park는 2월에 판매 부진을 겪었지만, 3월 이후 판매량이 증가했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "연료 가격 상승이 송끄란 축제 기간 여행 심리에 영향을 줄 수 있다는 내용이 포함되어 있어 여행 관련 정보로 분류.",
       "event_info": {
         "date": "2026-04-13",
@@ -94829,16 +94831,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/27/6023963_700.jpg"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/27/6023963_700.jpg",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://www.bangkokpost.com/business/general/3225033/retailers-feel-pinch-as-fuel-prices-spike",
+      "source": ""
     },
     {
       "title": "중동 분쟁, 연료 가격 급등으로 태국 관광 우려 고조 - Anadolu Ajansı",
       "summary": "- 중동 분쟁으로 인해 태국 관광 산업에 대한 우려가 증가하고 있습니다.\n- 연료 가격 급등은 관광객 운송 비용 증가로 이어질 수 있습니다.\n- 태국 정부는 상황을 주시하며 필요한 조치를 강구할 것으로 예상됩니다.",
       "full_translated": "중동 분쟁으로 연료 가격이 급등하면서 태국 관광에 대한 우려가 커지고 있습니다. Anadolu Ajansı",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "연료 가격 상승은 운송 비용 증가를 유발하여 관광객에게 간접적인 영향을 줄 수 있습니다. 직접적인 위협은 아니지만, 여행 비용 상승 요인이 될 수 있으므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -94854,16 +94858,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOXpoNWdTOEU5aDZ0NDlscHBnVVE2N0p1MGtjbXZlOU8xYjlaZmlQc1k2dFVwOXA0eGFKU0dia3FDM2IwMkV3dzBLUEt4WnRfZVBpU2dqRkRCZDBqaHFRYUpvaWVrS2U2amNXRzB6WWYtaXRmdm5ySTZRTlEzeWhmTlhfc1dnTnlXYnlQa0NtQXZMRTc2TEkwYXJXVUdKa09MdGNjeUl3MmNoMnNrb0M0SmZtRmN0VVFYUHdF?oc=5",
+      "source": ""
     },
     {
       "title": "카자흐스탄 선수, 태국 투어에서 선두 차지",
       "summary": "- 카자흐스탄의 바딤 프론스키가 '프린세스 마하 차크리 시린톤 컵 투어 오브 타일랜드 2026' 3구간에서 우승하며 옐로우 저지를 차지했습니다.\n- 프론스키는 농카이와 우돈타니 사이 141.60km 구간에서 3시간 16분 13초를 기록했습니다.\n- 태국 선수 아팃 폴라드는 '베스트 아세안 라이더' 상을 받았습니다.",
       "full_translated": "카자흐스탄의 바딤 프론스키가 목요일 '프린세스 마하 차크리 시린톤 컵 투어 오브 타일랜드 2026' 3구간에서 우승하며 옐로우 저지를 차지했습니다. \n\n테렝가누 사이클링 팀의 프론스키는 목요일 농카이와 우돈타니 지방의 농생 사이 141.60km의 3구간에서 3시간 16분 13초를 기록하며 우승했습니다. 그는 총 8시간 56분 33초로 전체 선두에 올랐고 보너스 점수 10점을 받았습니다. \n\n리닝 스타 사이클리스트 에두아르도 세풀베다(아르헨티나)가 2위, 세인트 조지 컨티넨탈 사이클링 팀의 다니엘 화이트하우스(영국)가 3위를 차지했습니다. 세풀베다는 보너스 6점을, 화이트하우스는 4점을 획득했습니다. \n\n'베스트 아세안 라이더' 상은 루자이 보험 윈스페이스의 태국 선수 아팃 폴라드에게 돌아갔으며, 그는 3시간 16분 46초로 9위를 기록했습니다. 폴라드는 또한 총 8시간 57분 12초로 퍼플 저지를 차지했습니다. \n\n태국 국가대표팀의 사라웃 시리론나차이는 목요일 3구간에서 3시간 17분 16초로 14위를 기록하며 '베스트 아세안 라이더' 부문에서 2위를 차지했습니다. \n\n처음 두 구간에서 우승한 피에르 바르비에는 목요일 92위를 기록했습니다. 프랑스 라이더는 최고의 스프린터 상과 그린 저지를 32점으로 획득했습니다. \n\n그러나 바르비에의 말레이시아 테렝가누 사이클링 팀은 3구간 후 총 26시간 50분 57초로 최고의 팀 종합 순위에서 선두를 유지하고 있습니다. 중국의 리닝 스타는 2위입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국에서 열리는 국제 스포츠 행사 정보. 교통 통제 가능성 및 관련 정보 제공.",
       "event_info": {
         "date": "2026-03-27",
@@ -94879,16 +94885,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/27/6023948_700.jpg"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/27/6023948_700.jpg",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://www.bangkokpost.com/sports/3225008/kazakh-rider-takes-charge-at-thai-tour",
+      "source": ""
     },
     {
       "title": "정부의 연료 보조금 폐지로 신용 등급 전망 안정적",
       "summary": "- 정부의 포괄적인 연료 가격 보조금 폐지 결정으로 태국의 신용 등급 강등 가능성이 줄어듦.\n- 연료 가격 인상은 취약한 국내 소비에 압력을 가하고 인플레이션을 상승시킬 수 있음.\n- 새 정부는 이러한 영향에 대한 완화 조치를 곧 시행할 것으로 예상됨.",
       "full_translated": "정부가 포괄적인 연료 가격 보조금 폐지 결정을 내림에 따라 태국의 신용 등급 강등 가능성이 줄어들 것이라고 분석가들은 말합니다. 이 조치가 취약한 국내 소비에 압력을 가하고 인플레이션을 상승시킬 수 있지만 말입니다.\n\n이란 전쟁 시작 이후 적용된 연료 보조금은 정부의 재정 규율 준수 부족에 대해 신용 평가 기관의 우려를 불러일으켰다고 Yuanta Securities (Thailand)의 증권 분석 담당 이사인 Nattapon Kamthakrua는 말했습니다.\n\n그는 \"정부는 이전에는 유가 급등 속에서 국내 소비와 석유화학 등 일부 부문에 대한 영향을 최소화하는 데 집중했으며, 이는 국가의 재정 상태를 약화시켰습니다.\"라고 말했습니다.\n\n정부가 연료 가격 상한제를 종료하여 전국적으로 펌프 가격이 리터당 6바트 상승함에 따라 Nattapon은 태국이 \"신용 등급 강등에 직면할 가능성이 낮습니다.\"라고 말했습니다.\n\n휘발유 가격 상승이 국내 소비를 위축시킬 수 있으므로, 특히 취약 계층 사이에서 부채 상환 능력이 축소되는 더 큰 역풍을 예상합니다. 그러나 새 정부는 곧 취임하여 그러한 영향에 대한 완화 조치를 시작할 것으로 예상됩니다.\n\nSCB Economic Intelligence Center (EIC)의 수석 경제학자인 Poonyawat Sreesing은 국내 가격이 실제 시장 가격에 맞춰 움직이도록 허용하면 태국의 신용 강등 위험을 줄일 수 있다는 데 동의했습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "연료 가격 변동은 여행 비용에 간접적인 영향을 줄 수 있지만, 현재로서는 직접적인 영향이 크지 않다고 판단됨. 신용 등급 관련 내용은 여행객에게 직접적인 영향은 없음.",
       "event_info": {
         "date": null,
@@ -94904,8 +94912,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225018_260327004208_700.jpg"
         }
       ],
-      "collected_at": "05:19",
+      "collected_at": "5:19",
       "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225018_260327004208_700.jpg",
+      "date": "2026-03-27",
+      "link": "https://www.bangkokpost.com/business/general/3225018/credit-outlook-steady-as-fuel-subsidy-ditched",
+      "source": ""
+    },
+    {
+      "title": "태국, 동남아시아 최초 디즈니랜드 유치 추진",
+      "summary": "- 태국 정부가 동부경제회랑(EEC)의 핵심 프로젝트로 디즈니랜드 유치를 적극 추진 중.\n- 중동 투자자들이 파트너십에 관심을 보이고 있으며, 월트 디즈니 CEO에게 유치 의향서를 전달.\n- EEC 수도권 개발 부지에 상하이 디즈니랜드와 유사한 규모인 약 2,700라이(약 1080 에이커)의 테마파크 부지 조성 계획.",
+      "full_translated": "태국 정부는 동부경제회랑(EEC) 수도권 프로젝트의 일환으로 동남아시아 최초의 디즈니랜드 테마파크 유치에 전념하고 있으며, 중동의 잠재적 투자자들이 이미 파트너가 되는 데 관심을 표명했다. 핍팟 랏차킷프라칸 총리 대행은 3개의 지역 공항을 연결하는 장기간 지연된 고속철도 개발을 가속화해야 하는 동부경제회랑(EEC)으로 대량 교통을 유도하기 위해 EEC 수도권과 같은 해당 지역의 메가 프로젝트가 필요하다고 말했다. 그는 정부가 최근 월트 디즈니 컴퍼니의 신임 최고경영자에게 태국에서 기회를 모색하도록 설득하겠다는 의사를 표명하는 서한을 제출했다고 밝혔다. EEC 수도권은 총 약 15,000라이의 토지 수용 보상금을 지급하는 과정에 있다. 개발 가능한 부지 중 테마파크를 위해 준비된 면적은 약 2,700라이로 상하이 디즈니랜드와 규모가 비슷하다. 핍팟 씨는 정부가 디즈니 파크 건설 아이디어를 내놓은 이후 싱가포르에 프랜차이즈를 가진 또 다른 글로벌 테마파크 운영업체가 태국에서 사업을 확장하는 것에 대해 EEC에 접근했다고 말했다. 정부는 아직 동남아시아에 디즈니랜드가 없기 때문에 먼저 월트 디즈니와 논의를 모색하기를 원한다고 그는 말했다. 당국은 아랍에미리트의 주요 투자자들이 투자를 우려하지 않는다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 6,
+      "impact_reason": "디즈니랜드 유치는 장기적으로 관광객 유치에 긍정적 영향을 미칠 수 있으나, 즉각적인 영향은 제한적이므로 중간 점수 부여. 진행 상황 업데이트로 새로운 정보 가치.",
+      "event_info": {
+        "date": "2026-03-27",
+        "location": "EEC 수도권",
+        "price": "미정",
+        "location_google_map_query": "EEC 수도권"
+      },
+      "references": [
+        {
+          "title": "Thailand vows to host 1st Disneyland in region",
+          "url": "https://www.bangkokpost.com/business/general/3225023/thailand-vows-to-host-1st-disneyland-in-region",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225023_260327005104_700.jpg"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225023_260327005104_700.jpg",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "유류 보조금 완화로 인한 주식 시장의 명암",
+      "summary": "- 태국 정부가 유류 가격 보조금을 완화하면서 시장 역학 관계에 변화 예상.\n- 연료 소매업체는 수혜를, 운송, 소매, 관광 부문은 비용 상승 압박에 직면할 것으로 분석됨.\n- 유류기금의 적자 해소를 위한 불가피한 조치로, 에너지 시장의 변동성에 대한 장기적인 가격 안정성 확보가 목표.",
+      "full_translated": "태국의 휘발유 가격 보조금 축소 조치가 연료 소매업체를 주요 수혜자로 부상시키는 반면, 운송, 소매 및 관광 부문은 비용 압박 증가에 직면할 것으로 예상된다고 분석가들은 말합니다.\n\n정부는 수요일 늦게 디젤에 대한 오랜 가격 상한제를 종료하고 중동 긴장이 고조됨에 따라 시장 기반 요금으로 전환한다고 발표했습니다. 이번 결정은 유류기금사무소가 상당한 부담을 받고 있는 가운데 나왔습니다. 일일 보조금 부담이 약 26억 바트로 증가하여 3월 25일 현재 기금 적자가 350억 바트로 확대되었습니다. 품짜이타이당이 주도하는 정부는 이제 장기적인 가격 안정성과 세계 에너지 변동성에 대한 회복력을 보장하기 위해 기금의 유동성을 회복해야 하는 긴급한 과제에 직면해 있습니다.\n\nAsia Plus Securities (ASPS)는 가격 통제 철폐로 석유 소매업체의 마케팅 마진 압박이 완화되어 사업자가 가격 책정을 더 잘 관리하고 마진 제약이 장기간 지속된 후 수익성을 개선할 수 있을 것으로 예상했습니다. ASPS의 연구 담당 수석 부사장인 파라도른 티아라나프라모테에 따르면 소매 연료 부문에 대한 노출도가 높은 회사가 가장 큰 혜택을 볼 가능성이 높습니다. PTG Energy (PTG)는 소매 연료 판매에 대한 높은 의존도와 총 판매량의 71%를 차지하는 높은 디젤 노출도로 인해 주요 수혜자로 간주됩니다. PTT Oil and Retail Business (OR)도...",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "유류 가격 변동이 관광객의 교통 및 여행 비용에 영향을 줄 수 있으며, 관련 사업자에게 미치는 영향에 대한 정보는 여행 계획에 간접적으로 영향을 줄 수 있음.",
+      "event_info": {
+        "date": "2026-03-27",
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Easing of fuel subsidies sparks winners and losers among stocks",
+          "url": "https://www.bangkokpost.com/business/general/3225078/easing-of-fuel-subsidies-sparks-winners-and-losers-among-stocks",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225078_260327003903_700.jpg"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225078_260327003903_700.jpg",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "기름값 상승, GDP 및 인플레이션 목표 시험대에",
+      "summary": "- 정부는 에너지 가격 관리를 위해 변동 환율제를 채택할 것을 권고받고 있음.\n- 국내 경유 가격이 리터당 60바트에 이를 수 있다는 전망이 나옴.\n- 유가 상승은 소비 심리와 주요 휴일 기간 소비 계획에 영향을 미칠 수 있음.",
+      "full_translated": "정부는 국내 경유 가격이 리터당 60바트에 이를 수 있다는 예상 속에 에너지 가격에 대처하기 위해 관리 변동 환율제를 채택할 것을 권고받고 있습니다. 시암 상업 은행 경제 정보 센터(EIC)의 수석 경제학자 야용 타이차로엔은 중동 지역의 분쟁이 장기화될 가능성이 높으며 에너지 가격에 직접적인 영향을 미치고 있다고 말했습니다. 분쟁이 결국 끝난다 해도 세계 유가는 장기간 높은 수준을 유지할 것으로 예상됩니다. 이러한 시나리오에서 정부의 정책 방향은 소매 유가에 대한 광범위한 보조금에서 보다 점진적인 관리 변동 환율제로 전환되어야 한다고 EIC는 지적했습니다. 그는 \"에너지 가격이 즉시 완전히 자유화되면 국내 경유 가격이 리터당 60바트 이상으로 급등할 수 있으며, 가격은 다음 달에 최고조에 달할 것으로 예상됩니다.\"라고 말했습니다. 유가 상승은 불가피하게 소비 심리와 특히 송크란과 같은 주요 휴일 기간 동안의 소비 계획에 영향을 미칩니다. 핵심 문제는 가격 조정이 가능한 한 원활하게 시행되도록 하는 실행이라고 야용 씨는 말했습니다. 모든 그룹에 걸쳐 인위적으로 낮은 유가를 유지하는 것은 재정 자원에 부담을 주고 이미 상대적으로 높은 수준에 있는 공공 부채를 증가시키는 등 여러 가지 부정적인 결과를 초래할 것이라고 그는 말했습니다. 제한된 자원을 할당하면서 국가 신용 등급에 대한 우려도 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "연료 가격 상승은 여행 관련 비용 증가로 이어질 수 있으며, 특히 송크란과 같은 휴가 기간에 더욱 그렇다. 기존에 게시된 연료 가격 관련 뉴스의 업데이트된 정보이다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Crude prices test GDP, inflation goals",
+          "url": "https://www.bangkokpost.com/business/general/3225108/crude-prices-test-gdp-inflation-goals",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/27/6023988_700.jpg"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://static.bangkokpost.com/media/content/dcx/2026/03/27/6023988_700.jpg",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "태국 힌두교 협회, 힌두 나바바르샤 축제 성황리에 개최",
+      "summary": "- 태국 힌두교 협회가 방콕에서 힌두 나바바르샤 축제를 성황리에 개최했습니다.\n- 사라프 사단에서 열린 행사에는 다양한 계층의 200명 이상이 참석했습니다.\n- 참가자들은 단합, 문화, 공유된 유산 정신을 기렸습니다.",
+      "full_translated": "태국 힌두교 협회는 방콕 사라프 사단에서 힌두 나바바르샤 축제를 성대한 열정과 영적 열의로 성공적으로 기념했습니다. 이 행사에는 사회 각계각층을 대표하는 200명 이상의 인상적인 참석자들이 단합, 문화 및 공유된 유산 정신으로 함께 모였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 문화 행사 정보 제공. 힌두교 문화에 관심 있는 여행자에게 소소한 정보가 될 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": "Saraff Sadan, Bangkok",
+        "price": null,
+        "location_google_map_query": "Saraff Sadan, Bangkok"
+      },
+      "references": [
+        {
+          "title": "Vishwa Hindu Parishad Association Thailand successfully celebrated the auspicious occasion of Hindu Navavarsha",
+          "url": "https://thepattayanews.com/2026/03/26/vishwa-hindu-parishad-association-thailand-successfully-celebrated-the-auspicious-occasion-of-hindu-navavarsha/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/wp-image3900969432701082300.jpeg?v=1774503467"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/wp-image3900969432701082300.jpeg?v=1774503467",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "ICRT, 태국 내 입지 확보",
+      "summary": "- ICRT(International Certification Registrar Training)가 태국 내 입지를 넓히고 있습니다.\n- TTR Weekly 보도입니다.\n- 자세한 내용은 기사를 참고하세요.",
+      "full_translated": "ICRT, 태국 내 입지 확보 TTR Weekly",
+      "category": "BUSINESS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 내 특정 기관의 활동에 대한 내용으로 여행에 직접적인 영향은 적다고 판단됨.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ICRT gains foothold in Thailand - TTR Weekly",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBuNURmVUh0ZC1lMERfbE9QMHVSb3RvV04ya3FReUV3MDBqYXhNUDdPQnd0WllnVzliTkVKSkY5clZTRzNPZGlXalpadm9WZ1BIWGFWalUzX3JXSV9lVXBjQVlYSnBPX2JKYVFITmZOdGk3TnEzcFVPZGRQdw?oc=5",
+          "source": "TTR Weekly",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:54",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-27"
     }
   ]
