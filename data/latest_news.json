@@ -24870,7 +24870,7 @@
       "summary": "- 태국행 항공편 취소로 도착객 수가 급감하고 있습니다.\n- 걸프 지역 분쟁으로 호텔들이 요금을 인하하고 있습니다.\n- 자세한 내용은 FTN 뉴스를 참조하십시오.",
       "full_translated": "태국행 항공편 취소로 인해 도착객 수가 급감하고 있으며, 걸프 지역 분쟁으로 인해 호텔들이 요금을 인하하고 있습니다. FTN 뉴스 참조.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "항공편 취소 및 호텔 요금 변동은 여행객에게 직접적인 영향을 미치므로.",
       "event_info": {
         "date": null,
@@ -24886,16 +24886,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNMXVNY0FlQTNWR2s1cGtwZ0FjWjRVR28wOVpySXdHd2k3cV9DZUQwNUdkVHR6d3B5c0l5QTRCSS1LbGtTVjYySENVaTVoYXhqUFRnSG5CUzZIMkZNbTltUDVvNEpCWVdqVWJWZERDNDVhcGhWUGV4bW9zdkZDblAyQUpjWmo3WnExWWJYQlIySmgySnZFQnJLTWNXU0NCc3JhMFdDaEdKa3M0Wkc3dDRPWVdiLXN3SnJmX2hFdTJGWWg5dk1CandaY3hDWWpFUEdHdXdMeElCeHllMFk3aWRhR1pmVC10TEFPeFI4cDJKWHU?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 축제 2026, 방콕에서 국내 여행 활성화를 위해 개막",
       "summary": "- 태국 관광청은 국내 관광 활성화를 위해 방콕에서 태국 관광 축제 2026을 개최합니다.\n- 이 축제는 태국의 다양한 지역의 문화, 음식, 공예품을 선보일 예정입니다.\n- 축제는 국내외 관광객들에게 태국을 더욱 매력적인 여행지로 알리는 데 기여할 것으로 기대됩니다.",
       "full_translated": "태국 관광 축제 2026이 방콕에서 개막하여 국내 여행을 활성화합니다. Travel Daily News Asia-Pacific",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "미래의 축제에 대한 정보이므로 현재 여행객에게 직접적인 영향은 적지만, 향후 여행 계획에 참고할 만한 가치가 있다고 판단.",
       "event_info": {
         "date": "2026-01-01",
@@ -24911,16 +24913,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeDhJa1FIeG00cS14UldaMm9SaHpGQ2lsQkgzSjdQN2hEbGhjOWJnS3JEQkNtRUhNRHU4a3hXVGtVc1NpNXJFUWNCUzRfbE5BYnR0Qlp3UWJUbmxhN3VEVV9PZXprRGV5aExmS2xEWDBoa2xmeUU3M1JvZHVFZ0REdmRzQklTSk5JOEo4WXd1YUpXdGdUSzlCZmVicml5d054V2lNM2FCMHN2RDAzdHhMbnZvLXFVdWRZS1lhaQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국 상공회의소, 정부에 연료 가격 인상 억제 조치 촉구",
       "summary": "- 태국 상공회의소는 정부에 연료 가격 관리, 충분한 비축량 확보, 에너지 절약 조치 시행 가속화를 촉구했습니다.\n- 최근 리터당 6바트의 가격 인상은 생산 및 물류 비용 상승을 야기할 것으로 예상됩니다.\n- 상공회의소는 에너지부에 PTT, Bangchak 정유 회사와 협력하여 국내 수요를 충족할 수 있는 원유 확보를 요청했습니다.",
       "full_translated": "태국 상공회의소는 정부에 연료 가격을 관리하고, 적절한 비축량을 확보하며, 전국적으로 에너지 절약 조치 시행을 가속화할 것을 촉구하고 있습니다. \n\n상공회의소 회장 Poj Aramwattananont는 최근 리터당 6바트의 인상이 생산 및 물류 비용뿐만 아니라 공급망 전체의 제품 가격을 불가피하게 상승시킬 것이라고 말했습니다.\n\n상공회의소는 에너지부가 관련 기관, 특히 PTT 및 Bangchak과 같은 정유 회사와 협력하여 국내 수요를 충족할 수 있는 충분한 원유 조달을 확보할 것을 촉구했습니다. 그는 경제 안정과 국가 물류 및 생산 시스템의 지속성을 유지하기 위해 글로벌 시장 가격보다 높은 프리미엄으로 원유를 조달해야 하더라도 연료 부족을 방지해야 한다고 말했습니다.\n\n상공회의소는 단기적인 에너지 영향 완화와 장기적인 에너지 안보 강화를 위한 조치를 제안했습니다. 세금 조치 및 총 정제 마진(GRM)과 관련하여 상공회의소는 정부가 높은 연료 가격으로 인한 국민과 기업의 부담을 완화하기 위해 소비세 사용을 고려할 것을 촉구했습니다. 정부는 운송, 보험 및 관리 비용을 포함한 비용 상승에 따라 상승한 GRM에 대해 대중에게 명확하게 소통해야 한다고 밝혔습니다. GRM이 2바트에서 6바트로 상승한 것은 총액만을 반영합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "연료 가격 인상은 교통비 및 생필품 가격에 영향을 미쳐 여행 경비 증가로 이어질 수 있으므로 여행자에게 간접적인 영향을 미칩니다. 기존에 연료 가격 관련 뉴스가 있었지만, 상공회의소의 새로운 촉구는 업데이트된 정보입니다.",
       "event_info": {
         "date": "2026-03-27",
@@ -24936,16 +24940,18 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225083_260327003009_700.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225083_260327003009_700.jpg",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://www.bangkokpost.com/business/general/3225083/call-for-measures-to-restrain-fuel-price-hikes",
+      "source": ""
     },
     {
       "title": "방콕, 푸껫, 치앙마이, 에어프레미아-타이항공 연계 파트너십으로 관광 활성화: 알아야 할 사항",
       "summary": "- 에어프레미아와 타이항공의 연계 파트너십으로 방콕, 푸껫, 치앙마이 관광 활성화 기대\n- 두 항공사의 협력으로 승객들은 더욱 편리하게 태국 주요 도시 여행 가능\n- 자세한 내용은 Travel And Tour World에서 확인",
       "full_translated": "에어프레미아와 타이항공은 방콕, 푸껫, 치앙마이로의 관광을 활성화하기 위해 협력합니다. 이 파트너십을 통해 승객들은 더욱 편리하게 태국 주요 도시를 여행할 수 있게 되었습니다. 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 주요 관광지 연결 용이성 증대. 여행 편의성 향상에 기여.",
       "event_info": {
         "date": null,
@@ -24961,16 +24967,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOVlpvY3JPc29PZ0lZQ3lmLU1paEJmcXJHTnpLTGJQeTBqVno1ZkZHaE1OUXNUQXRlcjJDaUstc1BZV0R1dDg5Qlo1VXM5dFI0ODVVeXZ0RTJvWUpVd0lVbVdJeHdLR1dpbm1pUnJ3VkpORk1fcXpSVjY2RnFPVTRzZXBRS0VBMGNFbDJUcGxiZ1hCeGhzdnBIS01KUmEyNUNaaGI1Q1A0WmlQTkszS3d5bGYzZmFNMlBfMS1mVDJqX09XSERjS3daYjU3VktmT0xfUmpWUVVoY3B2WG14dWRQUDFFV3B5SEF3cUJXQjRXRnZXSGM?oc=5",
+      "source": ""
     },
     {
       "title": "태국 석유에너지연구소, 정유사들의 전쟁 이익 주장에 반박",
       "summary": "- 태국 석유에너지연구소(PTIT)는 최근 유가 급등으로 정유사들이 이익을 얻고 있다는 주장을 부인했습니다.\n- 이는 정부가 리터당 6바트의 유가 인상을 발표하기 전에 나온 해명이며, 물가 상승에 대한 우려를 진정시키기 위한 것입니다.\n- PTIT는 정제 마진(GRM)이 순이익이 아니며, 보험료 및 운송비 증가와 같은 추가 비용을 고려해야 한다고 강조했습니다.",
       "full_translated": "태국 석유에너지연구소(PTIT)는 중동 분쟁으로 인한 국내 유가 상승을 야기한 정제 마진(GRM) 급등 이후 정유사들이 이익을 얻고 있다는 주장을 부인했습니다. 이번 해명은 정부가 목요일 리터당 6바트의 소매 유가 인상을 발표하기 전에 나왔으며, 이는 소비자 물가 상승에 대한 우려를 불러일으켰습니다.\n\n3월 1일부터 26일까지 GRM은 리터당 6.31바트로 급등했으며, 이는 1월과 2월 사이의 평균 2.09-2.14바트에서 상승한 수치입니다. 이로 인해 사람들은 석유 회사들이 세계 유가 급등으로 이익을 얻고 있는지 의문을 제기하고 있습니다.\n\nPTIT의 쿠루짓 나콘타프 전무이사는 \"GRM은 정유사의 순이익이 아닙니다.\"라고 말했습니다. GRM은 원유 가격과 정제유 가격의 차이이며, 정제 과정에서 추가되는 비용을 의미합니다.\n\n정제 비용 외에도 일반적으로 높지 않지만 이스라엘-미국 전쟁으로 인해 크게 증가한 다른 \"암묵적 비용\"이 있다고 쿠루짓 씨는 말했습니다. 이러한 비용에는 위기 동안 유조선이 호르무즈 해협을 통과할 수 없기 때문에 상승한 보험료와 운송비가 포함됩니다. 이러한 비용을 고려하면 정유사는 싱가포르의 정제유 기준 가격을 기준으로 정유소 가격을 설정할 수 있습니다.\n\n\"이러한 비용은 리터당 3~6바트 범위로 추정됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "유가 인상 관련 뉴스이며, 여행 경비에 영향을 줄 수 있으므로 포함합니다. 기존 뉴스에 유가 관련 소식이 있지만, 새로운 해명이 추가되어 업데이트로 판단.",
       "event_info": {
         "date": "2026-03-27",
@@ -24986,8 +24994,135 @@
           "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225043_260327003245_700.jpg"
         }
       ],
-      "collected_at": "06:24",
+      "collected_at": "6:24",
       "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3225043_260327003245_700.jpg",
+      "date": "2026-03-27",
+      "link": "https://www.bangkokpost.com/business/general/3225043/petroleum-and-energy-institute-of-thailand-denies-oil-refineries-profiting-from-war",
+      "source": ""
+    },
+    {
+      "title": "더 짧아진 무비자 체류, 태국 재방문 관광객 감소 초래할 수도 - 파타야 메일",
+      "summary": "- 태국 정부의 무비자 체류 기간 단축 정책이 재방문 관광객 감소를 유발할 수 있다는 우려 제기됨.\n- 파타야 메일은 이번 정책 변화가 관광 산업에 부정적인 영향을 미칠 수 있다고 보도함.\n- 관광객 유치를 위한 장기적인 관점에서 비자 정책 재검토 필요성이 대두되고 있음.",
+      "full_translated": "더 짧아진 무비자 체류가 태국의 재방문 관광객을 쫓아낼 수 있습니다 - 파타야 메일",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "비자 정책 변경은 외국인 관광객에게 직접적인 영향을 미치므로 중요도가 높음. 특히 무비자 체류 기간 단축은 여행 계획에 영향을 줄 수 있어 관련 정보 업데이트 필요.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Shorter visa-free stays could drive away Thailand’s repeat tourists - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLTdUQU5kVHRxUmdld0lzaE9FWW5MZ040T0NqdmxIRWNtdlJZUG95eXBOQzltbEtKbi04U2hoUWtkYjFZQ3EzS09NcFpnc1ZsR3hTY09RRERmb3VnY1I3U0YwaTNISHdHSy1Md05jelVsMmI3Rld3ZmpoMWhMQWdrMEhFWjBPbVBlaWw3NGptOE5XVEdYbHFvR3R2TGVPUTZZdXM5dTVXdXBRdw?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "미국인 여행객, 태국 수완나품 공항에서 입국 거부 후 10일 동안 노숙",
+      "summary": "- 미국인 여행객이 태국 입국 거부 후 수완나품 공항에서 10일째 머무르고 있음.\n- 입국 거부 사유는 명확히 밝혀지지 않았음.\n- 해당 여행객의 상황에 대한 추가적인 정보는 아직 없음.",
+      "full_translated": "미국인 여행객이 태국 입국 거부 후 수완나품 공항에서 10일 동안 노숙하고 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 혼잡 및 입국 거부 관련 정보는 여행객에게 중요하며, 유사 사례 방지를 위해 필요함. 비자/입국 규정 관련 잠재적 변경 가능성.",
+      "event_info": {
+        "date": null,
+        "location": "수완나품 공항",
+        "price": null,
+        "location_google_map_query": "Suvarnabhumi Airport"
+      },
+      "references": [
+        {
+          "title": "American tourist sleeps inside Thailand's Suvarnabhumi Airport for 10 days after entry denial - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd25ZVV9VSmtyMXFRdnFpbjhYU29yY1NyX3RhT0tFNl9VMnBiQVlRN1NtZThfd21OWGVRb3dJYTFVenozSXkzUXR0Y3RWOVpHOWxkUnlMSnZhdzd1dEtLSE9jMkZ1c21qZENPcjNfNU9QeGVXN0l4MTBKYnh0X083b1ZGX002TW1jcU9ULUNQTU1WaVRTTDYtNnZacmtuVDhpRjNDWUdHZnhKeFFJTmJQOEZCUmluODJkLXJBZEFEa2tnZzFnOG1qa0V0RWRvLTZsX3h0Z01xU3lmdw?oc=5",
+          "source": "VnExpress International",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "태국 관광 산업, 항공료 급등 및 분쟁으로 회복에 어려움",
+      "summary": "- 태국 관광 산업이 글로벌 여행 차질로 인해 회복에 어려움을 겪고 있음.\n- 항공료 급등과 지속적인 분쟁이 경제 안정과 미래 성장을 위협하는 위기를 심화시키고 있음.\n- Travel And Tour World 보도.",
+      "full_translated": "태국 관광 산업은 항공료 급등과 진행 중인 분쟁으로 인해 글로벌 여행 차질로부터 회복하는 데 어려움을 겪고 있으며, 이는 경제 안정과 미래 성장을 위협하는 위기를 심화시키고 있습니다. Travel And Tour World 보도.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "관광 산업 전반에 대한 영향, 여행 비용 상승에 따른 여행 심리 위축 가능성. 하지만 현재 시점에서는 일반적인 경제 뉴스에 해당하며, 당장 여행객에게 직접적인 위험을 초래하는 것은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Tourism Sector Struggles to Recover from Global Travel Disruptions as Soaring Airline Costs and Ongoing Conflicts Exacerbate the Crisis Threatening Economic Stability and Future Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQWEUzajU0S1RDNmlGZmkzejRwWktEY1A2aDFadzU1ZVNuMS1oRzJxMFZOTGZHSTFyZ1NYSEticnN2SXhjTDRieUxNNWZLMFNhaHRBVGxlYzhuN0MyeUJoenhVdWd3LTVwNEZ2Z2UzbjF6cV9vaHV0a1pxUk9OVkdLWDNsbENYdjcxWUF4Y25ISXBISVJPT2d0T3U0c0VNejJ5MC1HazQzcjVtTmdqV2w5Ui1lQXRsY0IyRTJoSmY5UW02MkdjUjZPWTdpSFlIMVFqX3NQaXJYblBqVVA0TjJwRDFPWGo2YzA0Z3gxb3FFYWlLOGFIejMxVlRPbWNQX29pVm5FRDdkcFUxaXBRMGdYWHloVVNITjNHWnRsdnp0MjZKWHpDZFNzdUlnT2pXcWtuVktZNnhfaVJPLXZiM3AzbXpsaWg4MW5pQTVsMHR5WDN3UzF0LVVaeGZDSjdSVXM?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "방콕, 원숭이 개체 수 관리 방안 논의",
+      "summary": "- 방콕시, 총리실, 국립공원, 야생동물 및 식물 보존국이 협력하여 방쿤티안 지역의 원숭이 문제 해결 논의.\n- 현재 방쿤티안에는 약 350마리의 게잡이 원숭이가 서식하며, 주택 침입 및 야생 동물 불법 거래 문제 야기.\n- 당국은 구역 설정 및 먹이 제공 장소 축소를 통해 원숭이 개체 수 관리를 추진할 예정.",
+      "full_translated": "방콕 메트로폴리탄 관리국(BMA)은 총리실 및 국립공원, 야생동물 및 식물 보존국(DNP)과 협력하여 방쿤티안 지역에서 게잡이 원숭이와 지역 주민 간의 충돌을 억제할 방법을 논의했습니다.\n\nBMA 부 사무차장 아란야 폰차이야는 최근 총리실 수석 감찰관인 피카넷 타푸앙이 주재한 이 문제에 관한 회의에 참석했습니다. 회의에는 방쿤티안 지역 책임자 팟타라콘 신숙과 DNP, BMA 및 관련 부처 및 기관의 관계자들이 참석했습니다. \n\n논의 후 관계자들은 쿤 칼라 기념관을 방문했습니다. 원숭이는 2019년 야생 동물 보존 및 보호법에 따라 보호됩니다. 현재 방쿤티안의 3개 지역에 약 350마리의 게잡이 원숭이가 있으며, 기념관에 94마리, 소이 티안 탈레 22 커뮤니티에 120마리, 반 우아-아톤 방쿤티안(사매 담) 주택 프로젝트에 136마리가 있습니다. \n\n이 원숭이들은 주택에 침입하고 불법 야생 동물 거래에 대한 우려를 제기했습니다. 이러한 문제를 해결하기 위해 당국은 구역 설정 조치를 도입하고 이러한 영장류가 한 곳에 머물도록 장려하기 위해 먹이 제공 구역을 3개에서 1개로 줄였습니다. 이 접근 방식은 원숭이 관련 도로 사고를 줄이고 원숭이가 주거 지역에 들어가는 것을 방지하는 것을 목표로 합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "원숭이 관련 문제는 여행자 안전에 잠재적인 영향을 미칠 수 있으며, 특히 해당 지역을 방문하는 여행자에게 주의가 필요함. 하지만 즉각적인 위협은 아니므로 중간 점수 부여.",
+      "event_info": {
+        "date": "2026-03-27",
+        "location": "방쿤티안 지역",
+        "price": null,
+        "location_google_map_query": "방쿤티안 원숭이"
+      },
+      "references": [
+        {
+          "title": "Officials hash out ways to curb clashes with macaques",
+          "url": "https://www.bangkokpost.com/thailand/general/3224998/officials-hash-out-ways-to-curb-clashes-with-macaques",
+          "source": "Bangkokpost.com : Thailand",
+          "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3224998_260327061833_700.jpg"
+        }
+      ],
+      "collected_at": "06:55",
+      "image_url": "https://static.bangkokpost.com/media/content/20260327/c1_3224998_260327061833_700.jpg",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "태국, 관광객 수백만 명 감소 위험에 처해",
+      "summary": "- 태국 관광 산업이 위기에 직면하여 수백만 명의 관광객 감소 가능성이 제기됨.\n- 정확한 원인은 불분명하나, 관광 산업 경쟁 심화, 경제 상황 악화, 안전 문제 등이 복합적으로 작용한 것으로 추정됨.\n- 관광객 감소는 태국 경제에 심각한 타격을 줄 수 있으므로, 정부와 관련 업계의 적극적인 대책 마련이 시급함.",
+      "full_translated": "태국, 관광객 수백만 명 감소 위험에 처해\n\nScandasia",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국 관광 산업 전반에 대한 내용으로, 관광객 수 감소는 여행 환경에 간접적인 영향을 줄 수 있으므로 중간 점수 부여. 기존 뉴스에 비해 새로운 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Tourism at risk: Thailand could lose millions of visitors - Scandasia",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1VIQkRQQTBveTJwd2xWSnlQZ1J6LUdFYnVib2hoT2stUzBScU80SDduZ1IwZ0pMMnMxOGZVY3NySUJqNmoyREh0aU0xYmdTRjFINjNBZkV5SW9VOERVVG5HZTR6S1F3Um9oRlRIcDJXUDgzTnQ4SEZZd2pGTEVGS1hEaXl1dw?oc=5",
+          "source": "Scandasia",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "06:55",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-27"
     }
   ]
