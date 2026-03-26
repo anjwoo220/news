@@ -24193,9 +24193,9 @@
     {
       "title": "태국, 중동 긴장 고조로 3월 26일부터 연료 가격 리터당 6바트 인상",
       "summary": "- 태국 정부는 중동 긴장으로 인한 국제 유가 상승에 따라 연료 가격을 인상함.\n- 리터당 약 6바트(약 0.18달러) 인상되며, 모든 연료에 적용됨.\n- 정부는 취약 계층을 위한 구제 조치를 준비 중이며, 에너지 절약을 당부함.",
-      "full_translated": "태국 석유 연료 기금 관리 위원회(กบน.)는 3월 25일 디젤 및 휘발유 그룹에 대한 보조금을 줄이기로 결정했으며, 그 결과 모든 연료에 대해 리터당 약 6바트(약 0.18달러)의 즉각적인 소매 가격 인상이 발생했습니다. 이번 조정은 중동 지역의 긴장이 고조되면서 국제 유가가 계속 상승하고 태국의 주요 수입 벤치마크인 싱가포르 디젤 비용이 급증함에 따라 이루어졌습니다.\n\n관계자들은 국영 석유 연료 기금이 국내 가격을 인위적으로 낮게 유지하기 위해 매일 약 25억 바트(약 3256만 달러)의 막대한 보조금 부담을 흡수하고 있다고 언급했습니다. 기금 유동성에 대한 이러한 막대한 재정적 부담으로 인해 전 세계 가격 급등의 더 큰 부분을 소비자에게 전가하기로 결정했습니다.\n\n정부는 국민들에게 이해를 구하고 영향 완화를 돕기 위해 에너지 절약 조치를 실천할 것을 촉구했습니다. 당국은 또한 저소득 가구 및 특정 운송 사업자를 포함한 취약 계층을 위한 표적 구제 조치가 준비 중임을 밝혔습니다. 이번 가격 인상으로 인해 이미 전국 주유소에서 패닉 바잉이 발생했으며, 새로운 요금이 시행되기 전에 연료를 보급하기 위해 운전자들이 서두르면서 파타야와 같은 인기 있는 관광지에서 긴 줄이 이어지고 있습니다. 이는 최근 몇 년간 가장 큰 단일 연료 가격 조정 중 하나이며 운송 비용, 물류 및 전반적인 생활비에 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "태국 석유 연료 기금 관리 위원회(กบน.)는 3월 25일 디젤 및 휘발유 그룹에 대한 보조금을 줄이기로 결정했으며, 그 결과 모든 연료에 대해 리터당 약 6바트(약 0.18달러)의 즉각적인 소매 가격 인상이 발생했습니다. 이번 조정은 중동 지역의 긴장이 고조되면서 국제 유가가 계속 상승하고 태국의 주요 수입 벤치마크인 싱가포르 디젤 비용이 급증함에 따라 이루어졌습니다.\n\n관계자들은 국영 석유 연료 기금이 국내 가격을 인위적으로 낮게 유지하기 위해 매일 약 25억 바트(약 2170만 달러)의 막대한 보조금 부담을 흡수하고 있다고 언급했습니다. 기금 유동성에 대한 이러한 막대한 재정적 부담으로 인해 전 세계 가격 급등의 더 큰 부분을 소비자에게 전가하기로 결정했습니다.\n\n정부는 국민들에게 이해를 구하고 영향 완화를 돕기 위해 에너지 절약 조치를 실천할 것을 촉구했습니다. 당국은 또한 저소득 가구 및 특정 운송 사업자를 포함한 취약 계층을 위한 표적 구제 조치가 준비 중임을 밝혔습니다. 이번 가격 인상으로 인해 이미 전국 주유소에서 패닉 바잉이 발생했으며, 새로운 요금이 시행되기 전에 연료를 보급하기 위해 운전자들이 서두르면서 파타야와 같은 인기 있는 관광지에서 긴 줄이 이어지고 있습니다. 이는 최근 몇 년간 가장 큰 단일 연료 가격 조정 중 하나이며 운송 비용, 물류 및 전반적인 생활비에 영향을 미칠 것으로 예상됩니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "연료 가격 인상은 여행객의 교통비 부담을 가중시킬 수 있으므로 정보 제공 가치가 있음. 기존 '기름값 추가 인상에도 긴 줄 이어져' 기사와 관련되지만, 새로운 가격 인상 정보이므로 업데이트로 판단.",
       "event_info": {
         "date": "2024-03-26",
@@ -24211,16 +24211,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1774463844919-1.jpg?v=1774510243"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/1774463844919-1.jpg?v=1774510243",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://thepattayanews.com/2026/03/26/thailand-raises-fuel-prices-by-6-baht-per-litre-from-march-26th-as-middle-east-tensions-drive-up-global-oil-costs/",
+      "source": ""
     },
     {
       "title": "캄보디아 사기 취업 연루자 8명, 국경 넘다 체포",
       "summary": "- 2026년 3월 26일, 태국 당국은 캄보디아에서 사기 취업을 당한 후 국경 근처에 버려진 8명을 불법 월경 혐의로 체포했습니다.\n- 이들은 소셜 미디어를 통해 고수익 채팅 관리자 또는 계정 임대인으로 모집되었습니다.\n- 체포된 사람들은 경찰 조사 후 법적 절차를 위해 클롱 륵 경찰서로 인계되었습니다.",
       "full_translated": "사깨오 – 2026년 3월 26일, 태국 당국은 캄보디아에서 사기 행각에 연루된 후 국경 근처에 버려진 8명을 아란야프라텟 지역에서 불법으로 국경을 넘은 혐의로 체포했습니다. 부라파 태스크 포스(Colonel Chainarong Kasee가 이끄는 아란야프라텟 태스크 포스 산하 태스크 포스 12 사령관)는 레인저 컴퍼니 1202와 함께 파라이 하위 구역의 반 푸남 클리앙 근처 국경에서 이들을 체포했습니다. 체포된 사람들은 태국인 7명(남성 5명, 여성 2명)과 라오스 국적자 1명을 포함합니다. 당국은 용의자들이 방콕을 포함한 여러 지방 출신이며 캄보디아 포이펫에서 태국으로 다시 넘어왔다고 밝혔습니다. 초기 심문에서 모두 비슷한 진술을 했는데, 소셜 미디어를 통해 고수익 채팅 관리자 또는 계정 임대인으로 모집되었다는 것입니다. 그들은 태국 중개인이 국경으로 데려간 후 캄보디아 국적자에게 넘겨져 포이펫으로 이송되었다고 말했습니다. 도착하자마자 휴대폰과 신분증을 압수당하고 여러 온라인 은행 계좌를 개설하기 위해 안면 스캔을 받아야 했습니다. 일단 해당 계좌가 동결되자 그들은 국경 근처에 버려져 태국으로 돌아가라는 말을 들었습니다. 체포 후 용의자 8명은 모두 법적 절차를 위해 클롱 륵 경찰서 수사관에게 인계되었습니다. 당국은 온라인 구인 제안에 주의할 것을 경고했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사기 취업 시도에 대한 경고 및 국경 지역 범죄 관련 정보. 여행자들에게 주의를 환기시킬 필요가 있음.",
       "event_info": {
         "date": "2026-03-26",
@@ -24236,16 +24238,18 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Eight-held-crossing-border-after-scam-job-offers-in-Cambodia.jpg"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Eight-held-crossing-border-after-scam-job-offers-in-Cambodia.jpg",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://www.khaosodenglish.com/news/2026/03/26/eight-held-crossing-border-after-scam-job-offers-in-cambodia/",
+      "source": ""
     },
     {
       "title": "촌부리 사원에서 무장한 주지 제자가 메스암페타민 사용으로 체포, 숨겨진 마약 발견 및 주지직 박탈",
       "summary": "- 촌부리 지방의 한 사원에서 주지 제자가 마약 사용으로 체포되어 추가 마약과 무기가 발견됨.\n- 제자는 주지의 친척 땅에 숨겨진 마약을 추가로 발견하도록 이끌었으며, 주지는 처음에는 부인했으나 결국 마약을 숨긴 것을 인정함.\n- 주지는 결국 승려직에서 박탈되었으며, 이는 사원 내 마약 문제에 대한 심각한 단속을 나타냄.",
       "full_translated": "촌부리 주지사의 감독 하에 2026년 3월 25일 오후 8시 30분경 작전이 수행되었습니다. 보 통 지역의 책임자인 난타왓 통추앙 씨는 탐본 플루앙 통의 캄난(준구역장)인 트라쿤 사왕아롬 씨와 마을 책임자, 민방위팀의 자원봉사자들에게 마약 단속을 지시했습니다. 관리들은 무 9에 있는 왓 카오 삼 찬(วัดเขาสามชั้น)의 주지와 그의 가까운 제자가 마약에 연루되었다는 정보를 입수했습니다. 급습 도중 그들은 주지의 거주지(쿠티) 옆 방에서 제자가 메스암페타민을 사용하는 것을 발견했습니다. 방을 수색한 결과 권총과 탄약과 함께 메스암페타민 알약 3개가 발견되었습니다. 추가 심문에서 제자는 주지의 친척 땅에 추가 마약을 숨겼다고 자백했습니다. 경찰관들은 그 장소로 안내되어 가지치기 가위 손잡이 안에 숨겨진 더 많은 메스암페타민을 발견했습니다. 용의자는 주지가 다른 메스암페타민 알약 50개를 숨겼다고 밝혔습니다. 팀은 사원으로 돌아와 주지를 심문했지만, 주지는 처음에는 어떤 연루도 부인하고 책임을 회피하려고 했습니다. 그러나 제자는 강압 없이 자신의 진술을 고수했습니다. 주지는 결국 향로에 마약을 넣은 것을 인정했지만, 마약은 제자의 것이라고 주장하면서 그 사실을 알고 있었다는 것을 인정했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "사건 자체가 여행객에게 직접적인 위협은 아니지만, 태국 내 치안 및 법 집행 상황을 간접적으로 보여주므로.",
       "event_info": {
         "date": "2026-03-25",
@@ -24261,16 +24265,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260326_1415112256280192809167479.jpg?v=1774509519"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260326_1415112256280192809167479.jpg?v=1774509519",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://thepattayanews.com/2026/03/26/authorities-arrest-armed-abbots-disciple-for-meth-use-at-chonburi-temple-leading-to-discovery-of-hidden-drugs-and-defrocking-of-abbot-himself/",
+      "source": ""
     },
     {
       "title": "푸껫, 카론 해변의 호텔 회의실: 이벤트 기획자가 알아야 할 사항",
       "summary": "- 푸껫이 방콕 대체지로 기업 행사 기획자들에게 인기 높아짐.\n- 카론 해변의 타본 팜 비치 리조트, MICE 인프라에 투자하여 수요 충족.\n- 파통보다 조용하고, 카타보다 기업 행사에 적합한 환경 제공.",
       "full_translated": "태국 최대의 섬인 푸껫은 방콕의 혼잡한 컨퍼런스 회로에 대한 대안을 찾는 기업 기획자들을 계속 유치하고 있으며, 실제로 이를 제공할 수 있는 호텔 회의실을 갖춘 푸껫 부동산에 대한 검색이 강화되었습니다. 이벤트 주최자들의 과제는 여전히 푸껫에서 목적지 이벤트를 가치 있게 만드는 리조트 경험을 희생하지 않으면서 전문적인 시설을 제공하는 회의 장소를 찾는 것입니다.\n\n카론 해변에 있는 타본 팜 비치 리조트는 기업 고객을 위해 특별히 제작된 회의실, 연회 시설 및 모형 공간을 포함하여 MICE 인프라에 상당한 투자를 통해 이러한 요구에 부응했습니다. 파통은 군중을 끌어모읍니다. 카타는 레저 여행객을 유치합니다. 그러나 집중적인 회의 환경이 필요한 기업 행사의 경우 카론 해변이 전문 기획자들 사이에서 선호되는 위치로 부상했습니다. 이 해변은 푸껫 국제공항에서 약 45분 거리에 있어 대표단의 편리한 도착이 가능하고, 작업 세션 중 주의를 최소화할 수 있도록 섬의 엔터테인먼트 허브에서 충분히 떨어져 있습니다.\n\n카론 해변에서 회의 장소를 평가하는 기업의 경우 타본 팜 비치 리조트는 해변 탈출과 전문 인프라의 조합을 제공합니다. 이 지역은 파통보다 조용한 환경을 제공하면서 기업 그룹에 필요한 레스토랑, 교통 및 지원 서비스에 쉽게 접근할 수 있습니다. 이 리조트는 새로운 회의 및 연회실 구성을 완료했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "푸껫에서 MICE 행사를 고려하는 여행자에게 유용한 정보 제공. 새로운 장소 및 시설 정보.",
       "event_info": {
         "date": null,
@@ -24286,16 +24292,18 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/image2.jpg"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/image2.jpg",
-      "date": "2026-03-27"
+      "date": "2026-03-27",
+      "link": "https://www.khaosodenglish.com/tourism/2026/03/26/finding-hotel-conference-rooms-in-karon-beach-phuket-what-event-planners-should-know/",
+      "source": ""
     },
     {
       "title": "미얀마 군부 지도자 민 아웅 흘라잉 일가, 3백만 달러 상당 방콕 호화 주택 구매 의혹",
       "summary": "- 미얀마 군부 지도자 민 아웅 흘라잉 일가가 방콕에 3백만 달러 상당의 호화 주택을 구매했다는 의혹이 제기됨.\n- 이 주택은 외국인의 태국 토지 및 주택 소유 제한을 회피하는 방식으로 취득되었을 가능성이 있음.\n- 인권 단체는 태국 당국에 거래 조사 및 관련자 처벌을 촉구하고 서방 정부에는 추가 제재를 촉구.",
       "full_translated": "한 인권 단체가 미얀마 군부 지도자 민 아웅 흘라잉의 가족이 약 3백만 달러 상당의 방콕 호화 주택을 구입했다고 주장하며, 태국 부동산법 위반 가능성에 대한 우려를 제기했습니다. Justice for Myanmar는 Issara Residence Rama 9 개발 지역에 위치한 이 주택이 태국 내 외국인 토지 및 주택 소유 제한을 우회하는 방식으로 취득되었을 수 있다는 조사 결과를 밝혔다고 The Irrawaddy가 보도했습니다. 이 부동산은 국제 제재 대상이 아닌 민 아웅 흘라잉의 며느리인 묘 야다나 흐타이크의 이름으로 등록된 것으로 알려졌습니다. 이러한 조치는 민 아웅 흘라잉의 아들인 아웅 퍄에 손을 표적으로 삼은 제재를 우회할 수 있게 했습니다. 보고서에 따르면 이 구매는 군부 지도자의 측근인 툰 민 라트가 주도했습니다. 그는 2022년 태국에서 마약 밀매 및 돈세탁 혐의로 체포되었다가 2024년에 무죄 판결을 받았습니다. 이 주택은 이전 직전에 설립된 태국 등록 회사인 Emerald Princess Co. Ltd를 통해 보유하고 있다고 합니다. 이 프로젝트는 상장된 부동산 회사인 Charn Issara Development에서 개발했습니다. 태국 토지법은 외국인이 토지나 주택을 소유하는 것을 금지하지만 특정 조건 하에서 콘도미니엄을 소유할 수 있습니다. Justice for Myanmar는 태국 당국에 거래를 조사하고 관련된 사람에 대해 조치를 취할 것을 촉구하는 한편 서방 정부에 추가 제재를 촉구했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "태국 부동산법 관련 이슈이나 여행객에게 직접적인 영향은 제한적이라고 판단.",
       "event_info": {
         "date": null,
@@ -24311,8 +24319,135 @@
           "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Min-Aung-Hlaing-8.jpg"
         }
       ],
-      "collected_at": "03:28",
+      "collected_at": "3:28",
       "image_url": "https://www.khaosodenglish.com/wp-content/uploads/2026/03/Min-Aung-Hlaing-8.jpg",
+      "date": "2026-03-27",
+      "link": "https://www.khaosodenglish.com/news/international/2026/03/26/min-aung-hlaings-family-bought-3m-bangkok-luxury-home-report-says/",
+      "source": ""
+    },
+    {
+      "title": "파타야, 송끄란 기간 모래 조각 예술 대회 개최: 상금 35,000 바트",
+      "summary": "- 파타야 센트럴 해변에서 모래 조각 예술 대회 개최.\n- 총 상금 35,000 바트 및 촌부리 지방 문화 위원회 인증서 수여.\n- 2026년 4월 17일부터 19일까지 진행.",
+      "full_translated": "파타야에서 송끄란 기간 동안 모래 조각 예술 대회가 열립니다. 숙련된 예술가와 애호가들은 모래를 사용하여 멋진 예술 작품으로 변모시키는 창의력을 선보일 수 있습니다. 참가자들은 총 35,000 바트 이상의 상금과 촌부리 지방 문화 위원회의 인증서를 놓고 경쟁합니다.\n\n📌 주요 세부 정보:\n- 이벤트 날짜: 2026년 4월 17일–19일\n- 장소: 촌부리 지방 파타야 센트럴 해변\n- 상금: 35,000 바트 이상 및 인증서\n- 등록 마감일: 2026년 4월 10일\n\n이 이벤트는 파타야가 예술, 문화 및 관광을 홍보하기 위한 지속적인 노력의 일환으로, 방문객과 거주자들에게 해변에서 활기찬 축제를 경험할 수 있는 기회를 제공합니다. 관심 있는 참가자는 여기에서 대회 지침을 검토하고 Google Form을 통해 온라인으로 등록할 수 있습니다. 추가 문의 사항은 촌부리 시청 2층 촌부리 지방 문화 사무소 (전화 038-277407)로 업무 시간 중에 문의하십시오.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "송끄란 기간에 파타야에서 열리는 행사 정보. 여행객들에게 문화 체험 기회를 제공.",
+      "event_info": {
+        "date": "2026-04-17",
+        "location": "파타야 센트럴 해변",
+        "price": "상금 35,000 바트",
+        "location_google_map_query": "Pattaya Central Beach"
+      },
+      "references": [
+        {
+          "title": "Pattaya to Host Sand Sculpting Art Competition During Songkran with Prizes Worth 35,000 Baht",
+          "url": "https://thepattayanews.com/2026/03/26/pattaya-to-host-sand-sculpting-art-competition-during-songkran-with-prizes-worth-35000-baht/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17745047823294547423556180896987.jpg?v=1774505038"
+        }
+      ],
+      "collected_at": "03:59",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17745047823294547423556180896987.jpg?v=1774505038",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "파타야 시장, 몽골 영사 대표단 환영 및 혁신적인 열 감소 기술 소개",
+      "summary": "- 파타야 시장은 몽골 영사 대표단을 만나 열 감소 페인트 기술을 선보였습니다.\n- 이 기술은 햇빛을 반사하고 건물 표면 온도를 낮춰 에너지 절약에 기여합니다.\n- 파타야는 'Pattaya Go Green' 캠페인과 함께 지속 가능한 도시 개발을 위해 혁신을 수용할 준비가 되었다고 밝혔습니다.",
+      "full_translated": "파타야 시장은 몽골 영사 대표단을 맞이하여 혁신적인 '열 감소 페인트' 제품을 소개했습니다. 이 페인트는 햇빛을 반사하고 건물 표면 온도를 낮추며 에너지를 절약하도록 설계되었습니다. 정부 건물, 공공 시설 및 도시 지역에 적용하여 주민들의 삶의 질을 향상시키고 더운 날씨의 영향을 완화하는 실용적인 솔루션을 제공합니다. 포라메세 시장은 파타야가 도시를 현대화하고 지속 가능하게 개발하기 위해 새로운 혁신을 수용할 준비가 되었다고 밝혔습니다. 그는 이것이 친환경적인 관행을 장려하는 도시의 'Pattaya Go Green' 캠페인과 일치한다고 언급했습니다. 시장은 또한 가정과 조직이 기술에 접근하고 혜택을 누릴 수 있도록 공공 인식 노력을 지지하여 지역 사회 및 조직 수준에서 열과 에너지 소비를 줄일 수 있는 잠재력을 보여주었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "파타야의 새로운 기술 도입은 관광객에게 쾌적한 환경을 제공하고 도시의 지속 가능한 발전에 기여할 수 있습니다. 'Pattaya Go Green' 캠페인도 여행 경험에 긍정적인 영향을 줄 수 있습니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya Mayor Welcomes Mongolian Consular Delegation, Showcases Innovative Heat-Reducing Technology",
+          "url": "https://thepattayanews.com/2026/03/26/pattaya-mayor-welcomes-mongolian-consular-delegation-showcases-innovative-heat-reducing-technology/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17745046866477038633467398636090.jpg?v=1774504731"
+        }
+      ],
+      "collected_at": "03:59",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17745046866477038633467398636090.jpg?v=1774504731",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "이스라엘군, 레바논에서 헤즈볼라 고위 지휘관 사살",
+      "summary": "- 이스라엘군이 레바논 남부에서 헤즈볼라 고위 지휘관을 공습해 사살했다고 발표했습니다.\n- 이번 공격은 헤즈볼라의 이스라엘 공격에 대한 보복으로, 이스라엘은 레바논 남부에서 군사 작전을 확대하고 있습니다.\n- 이스라엘군은 이란 내 목표물도 공격하며 긴장이 고조되고 있으며, 민간인 피해를 줄이기 위한 작전이라고 주장하고 있습니다.",
+      "full_translated": "이스라엘군이 레바논에서 헤즈볼라의 고위 지휘관 1명을 사살했다고 발표했습니다. 이스라엘군은 2026년 3월 26일, 레바논 남부에서 공격 범위를 확대하고 있습니다. 이스라엘 방위군(IDF)은 공군이 하산 모하마드 바시르 헤즈볼라 고위 지휘관을 레바논 하지르 지역에서 공격해 사살했다고 밝혔습니다(3월 25일). 이스라엘은 헤즈볼라가 이스라엘에 미사일을 발사한 이후 3월 2일부터 레바논에서 군사 작전을 계속하고 있습니다. 이는 미국과 이스라엘이 이란을 공격하여 사망자가 발생한 것에 대한 대응입니다. 최근 이스라엘군은 무장 단체 헤즈볼라를 국경에서 밀어내고 이스라엘 공동체를 보호하기 위해 남부 레바논에서 공격 범위를 점점 더 확대하고 있습니다. 중동 지역의 다른 지역 상황과 관련하여 이스라엘군은 이란 서부 케르만샤 주와 남부 데즈풀 지역도 공격했습니다. 이스라엘군은 이번 작전의 목표가 \"유도 미사일 무기고와 발사 기지, 방공 시스템을 파괴\"하는 것이라고 밝혔습니다. 또한 이란 미사일 기지 공격은 \"이스라엘 민간인을 겨냥한 공격 범위를 줄이기 위한 것\"이라고 덧붙였습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 여행에 직접적인 영향은 없으나, 중동 지역의 긴장 고조는 잠재적 위험 요소가 될 수 있어 정보 제공. 다만, 현재로서는 낮은 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทัพอิสราเอลเผย สังหารผู้บัญชาการระดับสูงของฮิซบอลเลาะห์ในเลบานอน",
+          "url": "https://www.thairath.co.th/news/foreign/2922861",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVBBhBV2I4ZqepSl.jpg"
+        }
+      ],
+      "collected_at": "03:59",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVBBhBV2I4ZqepSl.jpg",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "파타야, 부리람 지방 자치 단체 연수단 맞이",
+      "summary": "- 파타야 시의회 부의장이 부리람 부시장이 이끄는 대표단 45명을 접견했습니다.\n- 대표단은 공중 보건 서비스 역량 강화 및 지역 의료 기금 관리 이해를 위해 방문했습니다.\n- 이번 방문은 태국 지방 자치 단체 간의 팀워크, 지식 공유 및 역량 구축에 대한 파타야시의 지속적인 노력을 반영합니다.",
+      "full_translated": "파타야 시의회 부의장인 프라이완 아롬추엔 씨는 부리람 지방 자치 단체 부시장인 암낫 펫럴트 씨가 이끄는 45명의 대표단을 공식적으로 맞이했습니다. 접견은 파타야 시청 241 회의실에서 진행되었습니다.\n\n부리람 지방 자치 단체는 공중 보건 서비스 분야에서 인력의 역량을 강화하고 지역 의료 기금의 역할과 관리에 대한 이해를 심화하기 위해 이 프로그램을 조직했습니다. 세션 동안 아롬추엔 씨는 지역 수준에서 건강 보안 기금을 효과적으로 관리하기 위한 전략에 대한 강의를 했습니다. 또한 이 행사는 참가자들이 경험과 통찰력을 공유하여 향후 업무 효율성을 개선하는 데 적용할 수 있는 지식 교환의 기회를 제공했습니다.\n\n이번 방문은 태국 전역의 지방 자치 단체 간의 팀워크, 지식 공유 및 역량 구축에 대한 파타야시의 지속적인 노력을 반영합니다. 파타야 시 관광 및 스포츠 국 홍보부의 타나퐁 운막 씨의 보고 및 사진, The Pattaya News의 아담 주드 씨의 영어 번역.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야와 부리람 간의 교류는 관광객에게 직접적인 영향을 미치지 않지만, 장기적으로 지역 사회 발전과 관광 서비스 개선에 기여할 수 있습니다. 일반적인 정보 교류에 해당하므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": "파타야 시청",
+        "price": null,
+        "location_google_map_query": "Pattaya City Hall"
+      },
+      "references": [
+        {
+          "title": "Pattaya Welcomes Study Delegation from Buriram Municipality",
+          "url": "https://thepattayanews.com/2026/03/26/pattaya-welcomes-study-delegation-from-buriram-municipality/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17745044074278817200728378581136.jpg?v=1774504457"
+        }
+      ],
+      "collected_at": "03:59",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17745044074278817200728378581136.jpg?v=1774504457",
+      "date": "2026-03-27"
+    },
+    {
+      "title": "트럼프, 이란 에너지 부문 공격 10일 추가 연기 발표",
+      "summary": "- 트럼프 대통령은 이란 정부의 요청에 따라 에너지 부문 공격을 10일 더 연기한다고 발표함.\n- 이는 양국 간의 협상 진행 상황과 관련이 있음.\n- 공격 연기는 2026년 4월 6일 오후 8시(미국 동부 시간)까지 유효함.",
+      "full_translated": "도널드 트럼프 대통령은 이란 정부가 요청함에 따라 이란 에너지 부문에 대한 공격을 10일 더 연기할 것이라고 발표했습니다. 이는 양국 간의 협상에 따른 것입니다. \n\n트럼프 대통령은 Truth Social을 통해 미국이 이란의 발전소와 에너지 기반 시설에 대한 공격을 10일 더 연기할 것이라고 밝혔습니다. 이전에도 5일 연기한 바 있습니다. 미국 정부는 전쟁을 종식시키기 위한 협상이 이란과 진행 중이라고 확인했습니다. \n\n트럼프 대통령은 \"이란 정부의 요청에 따라, 이 파괴적인 에너지 생산 시설 파괴 시점을 2026년 4월 6일 월요일 오후 8시(미국 동부 시간)까지 10일 더 유예할 것을 발표합니다.\"라고 밝혔습니다. \n\n이어 \"협상은 계속 진행 중이며, 가짜 뉴스 언론과 반대로 말하는 다른 사람들의 잘못된 진술에도 불구하고 협상은 매우 잘 진행되고 있습니다.\"라고 덧붙였습니다. \n\n원래 5일간의 공격 유예 명령은 금요일에 만료될 예정이었습니다. 대통령의 발표는 현지 시간으로 오후 늦게 주식 시장이 마감된 직후에 나왔습니다.\n\n더 많은 해외 뉴스: [https://www.thairath.co.th/news/foreign](https://www.thairath.co.th/news/foreign)\n출처: cnn",
+      "category": "POLITICS",
+      "tourist_impact_score": 2,
+      "impact_reason": "태국 여행에는 직접적인 영향이 없으나, 국제 정세 변화에 대한 정보 제공 차원에서 포함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ทรัมป์ประกาศ เลื่อนโจมตีพลังงานอิหร่าน ออกไปอีก 10 วัน",
+          "url": "https://www.thairath.co.th/news/foreign/2922862",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVBBhBFBivl8ZhBv.jpg"
+        }
+      ],
+      "collected_at": "03:59",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVBBhBFBivl8ZhBv.jpg",
       "date": "2026-03-27"
     }
   ]
