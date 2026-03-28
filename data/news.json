@@ -94775,7 +94775,7 @@
       "summary": "- 태국이 ITB 베를린 2026에서 '새로운 태국' 비전을 발표했습니다.\n- 구체적인 내용은 기사에서 더 확인하실 수 있습니다.\n- 여행 관련 정보가 있을 수 있으므로 확인이 필요합니다.",
       "full_translated": "태국이 ITB 베를린 2026에서 '새로운 태국' 비전을 공개했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국 관광 정책 방향을 제시할 수 있는 내용이므로 여행 관련 정보 업데이트 가능성 존재.",
       "event_info": {
         "date": null,
@@ -94793,14 +94793,16 @@
       ],
       "collected_at": "23:57",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdUppMzBJYzYwaTJqcXM0NUdJNDVvdmxIUXBHMHRXbVRYMHVacVA4dDRnSHROQUcwR3FuOUhVV1VDSllEQ19sYzlPWjNVM2VtczN5enNoWGw2Zy0ySThJQTI4TU0zQkFGOVk1Q2dlUXJmU2JNdENOamt0eGdOcEVxeFV3djVwUkhWNkRQMjRVMlUwdw?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 축제 2026: 방콕에서 전국 여행 상품 및 숨겨진 보석을 선보이는 대규모 행사",
       "summary": "- 태국 관광청(TAT)은 2026년 태국 관광 축제를 방콕에서 개최하여 전국 각지의 여행 상품과 숨겨진 명소를 소개합니다.\n- 이 축제는 태국의 다양한 지역을 탐험하고 특별한 여행 경험을 발견할 수 있는 기회를 제공합니다.\n- 방문객들은 다양한 문화 공연, 음식 시식, 공예품 전시 등을 즐길 수 있으며, 특별 할인 및 프로모션을 활용할 수 있습니다.",
       "full_translated": "태국 관광 축제 2026: 방콕에서 전국 여행 상품 및 숨겨진 보석을 선보이는 대규모 행사 travelandtourworld.com",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 행사로, 당장 여행에 영향을 미치지는 않지만, 미리 정보를 제공하여 여행 계획에 참고할 수 있도록 함.",
       "event_info": {
         "date": "2026",
@@ -94818,7 +94820,136 @@
       ],
       "collected_at": "23:57",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOG15UGt6TVBvZVZyanR6OEhuYzNfeHZCNE04cHRWZ1dNR0xHMUFmYVJvZzFJdzZidGRkX3RaaHF6WEdOTFlsVW9hX3k1WFJ0ejVFSmZlSWlhdFd2aVQxaGNNTGozeXE0blowOEZmeU1DTU04WFBjWEptQ2RUeVU0Mk5uUEZMRVBYbFVnQ01YS0lPbG9aZVF6Q2xIMmQyekEtWG9EVjM5MEY2QVJ0UGozV19XRXJWdVZRZkNMUkkzQUt0Ry14em91V1B3Q0tKb09SUGx0cDgtYVRqbU1fSm1J?oc=5",
+      "source": ""
+    }
+  ],
+  "2026-03-29": [
+    {
+      "title": "태국, 술 취한 고객에게 술 판매 전 음주 측정 의무화",
+      "summary": "- 태국 정부가 술에 취한 것으로 보이는 고객에게 술을 판매하기 전에 음주 여부를 확인하는 새로운 규정을 발표했습니다.\n- 주류 판매자는 고객의 신체 조정 능력, 알코올 냄새, 언어 및 행동 변화 등을 평가해야 합니다.\n- 위반 시 벌금 또는 처벌을 받을 수 있으며, 2025년 주류 통제법(No. 2)에 따라 시행됩니다.",
+      "full_translated": "태국, 술 취한 고객에게 술 판매 전 음주 측정 의무화\n\n내일부터 주류 판매점(바, 나이트클럽, 편의점, 식당 등)은 고객에게 술을 제공하기 전에 술에 취했는지 확인하여 벌금 또는 처벌을 피해야 하는 새로운 규칙이 시행됩니다. 단속 수준은 아직 불분명합니다.\n\n태국, 술 취한 고객 식별을 위해 주류 판매자를 위한 표준 현장 음주 측정 테스트 시행\n방콕, 2026년 3월 28일 - 태국 당국은 왕립 공보에 새로운 규칙이 발표됨에 따라 주류 판매자가 고객에게 술을 제공하기 전에 취한 징후를 평가하도록 하는 실질적인 지침을 도입했습니다.\n\n보건부 산하 질병통제국(DDC)에서 발행한 이 지침은 주류 통제법(No. 2) 2025(2025)를 준수하는 데 도움이 되는 명확한 기준과 세 가지 간단한 현장 음주 측정 테스트를 제공합니다. 해당 규칙은 왕립 공보에 발표된 다음 날부터 효력이 발생했습니다.\n\n개정된 법률에 따라 술에 취한 사람에게 술을 판매하는 것은 금지되어 있습니다. 술에 취한 사람은 신체 조정 능력 장애, 붉은 눈이나 떨리는 손과 같은 신체 증상을 동반한 눈에 띄는 알코올 냄새 또는 어눌한 말투, 공격성 또는 혼란을 포함한 언어 및 행동 변화를 보이는 사람으로 정의됩니다.\n\n판매자가 일관되고 객관적인 평가를 내릴 수 있도록 DDC는 확립된 음주 평가에서 조정된 다음 세 가지 표준화된 테스트를 권장했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "여행자에게도 적용될 수 있는 규정 변경 사항이며, 음주 문화에 영향을 줄 수 있으므로 정보 제공 가치가 있다고 판단됨. 시행 시기 명시.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Publishes New Rules for Alcohol Sellers Before Selling Booze to Test Customers Who May Be Too Intoxicated",
+          "url": "https://thepattayanews.com/2026/03/29/thailand-publishes-new-rules-for-alcohol-sellers-before-selling-booze-to-test-customers-who-may-be-too-intoxicated/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17747102850244147721665725972923.jpg?v=1774718221"
+        }
+      ],
+      "collected_at": "00:25",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17747102850244147721665725972923.jpg?v=1774718221",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "파타야, 외국인 범죄의 온상으로 부상: 경찰, 고급 빌라 도박장 급습",
+      "summary": "- 파타야가 외국인 범죄의 새로운 중심지로 떠오르고 있습니다.\n- 경찰은 고급 빌라에서 운영되던 불법 도박장을 급습했습니다.\n- 외국인 범죄 증가에 대한 우려가 커지고 있습니다.",
+      "full_translated": "파타야가 외국인 범죄의 온상으로 부상하고 있습니다. 경찰은 고급 빌라에서 운영되던 불법 도박장을 급습했습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "파타야 지역의 외국인 대상 범죄 증가 가능성. 여행객 안전에 영향을 줄 수 있으므로 중간 수준의 중요도로 판단.",
+      "event_info": {
+        "date": null,
+        "location": "파타야",
+        "price": null,
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya emerging as soft spot for foreign crime as police bust luxury villa gambling hub - Pattaya Mail",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE4zcF9XZDI4VUVtdFJucnBHQTJQWHVKajR1ZnFrVTJMMmh2TkZMZlN2clBHSkdVMTh2VzFRQ25jU2l3eFhYY1laNmxmNXE0R0RYSl9iUFA1LVI4TndFNngwZEdWWHllMndSZVNPY0ZaVVNFcWpMQUtBNVhBYXBnMmt3eDRUZlg5RUQ3UHZvLWFXZnQ3S0laUFh4LXVrYVQ4cHI4WEZqTUVkdWlZYm9sNGVNT0xVNm11RzFRNlRUUFJSVVBEaDhv?oc=5",
+          "source": "Pattaya Mail",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:25",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "2026년 지구 시간 행사: 방콕, 1시간 소등으로 32MW 전기 절약 및 14만 4,958바트 절감",
+      "summary": "- 방콕시는 2026년 지구 시간 행사에 참여하여 1시간 동안 소등을 실시, 32MW의 전력 수요를 줄였습니다.\n- 이는 14만 4,958바트의 전기 요금 절감 효과와 같습니다.\n- 3개의 랜드마크(왓 아룬, 사오칭차, 왓 사켓)가 상징적으로 소등에 참여했습니다.",
+      "full_translated": "방콕 시민들이 '1시간 소등'에 동참하여 2026년 에너지 절약 활동(60+ Earth Hour 2026)을 통해 방콕의 전력 수요를 32메가와트 줄이고 전기 요금을 144,958바트 절감했습니다. 2026년 3월 28일, 에콰란유 암라팔 방콕시 대변인은 지구 온난화를 줄이기 위한 2026년 1시간 소등 행사의 성공적인 결과를 발표했습니다. 방콕시는 환경 사무소, 사무국 및 지역 사무소와 협력하여 공공 부문, 민간 부문 및 언론 네트워크와 함께 사업자, 건물, 상점, 시민들에게 에너지 사용을 줄이고 불필요한 조명, 건물 조명, 광고판을 끄도록 캠페인을 벌였습니다. 또한 사용하지 않는 가전 제품의 플러그를 뽑고 가정에서 에어컨 사용을 줄이도록 장려했습니다. 이 캠페인은 2026년 3월 28일 토요일 오후 8시 30분부터 9시 30분까지 전 세계 190개국 7,000개 이상의 도시와 함께 진행되었습니다. 올해 방콕의 3개 랜드마크는 다음과 같습니다. 1. 왓 아룬랏차와라람랏차와라마하위한 사원, 방콕야이 지역 2. 사오칭차와 왓 수탓 เทพวราราม랏차와라마하위한 사원, 프라나콘 지역 3. 푸카오통 (왓 사켓랏차와라마하위한 사원), 폼프랍삿루파이 지역도 상징적인 소등에 참여했습니다. 수도전력청의 방콕 지역 전기 사용량 계산 결과, 방콕 지역의 전기 사용량은 이전 토요일인 2026년 3월 21일 토요일 같은 시간대의 전기 사용량과 비교하여 32메가와트 감소했습니다. 이는 144,958바트의 전기 요금 절감 효과와 13.5톤의 이산화탄소 배출량 감소로 이어졌으며, 이는 1년 동안 1,350그루의 나무가 흡수하는 이산화탄소량과 같습니다(상록수 1그루는 이산화탄소를 흡수할 수 있습니다).",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "방콕시의 에너지 절약 노력에 대한 정보 제공. 여행객에게 직접적인 영향은 적으나, 환경 문제에 대한 인식을 높일 수 있는 정보.",
+      "event_info": {
+        "date": "2026-03-28",
+        "location": "방콕",
+        "price": "해당 사항 없음",
+        "location_google_map_query": "Bangkok"
+      },
+      "references": [
+        {
+          "title": "\"ปิดไฟ 1 ชั่วโมง\" กรุงเทพฯ ลดความต้องการใช้ไฟได้ 32 MW ประหยัดไปกว่า 1.4 แสนบาท",
+          "url": "https://www.thairath.co.th/news/local/bangkok/2923222",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3P4zeOt7Rv7N2F.jpg"
+        }
+      ],
+      "collected_at": "00:25",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3P4zeOt7Rv7N2F.jpg",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "태국, 2026년 Routes Asia 유치 경쟁에 합류",
+      "summary": "- 태국이 2026년 4월 14일부터 16일까지 Routes Asia 행사를 유치하기 위해 미국, 캐나다, 영국, 일본, 필리핀, 호주, 중국 등과 경쟁합니다.\n- Routes Asia는 아시아 지역 항공 노선 개발에 중요한 행사입니다.\n- 태국 관광 산업에 긍정적인 영향을 미칠 것으로 예상됩니다.",
+      "full_translated": "중국이 2026년 4월 14일부터 16일까지 열리는 Routes Asia 행사에 참가하기 위해 미국, 캐나다, 영국, 일본, 태국, 필리핀, 호주 및 더 많은 국가들과 합류할 예정입니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "Routes Asia 유치는 태국 관광 산업에 잠재적으로 긍정적인 영향을 미칠 수 있으며, 여행 및 항공 업계 관계자들에게 정보 제공 가치가 있습니다.",
+      "event_info": {
+        "date": "2026-04-14",
+        "location": "미정 (태국)",
+        "price": "미정",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "China Sets to Join US, Canada, United Kingdom, Japan, Thailand, Philippines, Australia and More Countries to Particiapte in Routes Asia 2026 from April 14 – 16 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQdUx6WGpsTklvQm5XSnpmUnpRV1I0SnFyZ2xJRlBBamhENGphZFQ4akM0SGpoY1JQelFsS2liX0NibE9oQVRrVFRTazFnQmlKMXU5cFQ0eDFVRkZVc1JLcXRBQkFhQkdmUlJtMEdvVWdhZEtBajVRUnVyN01HZVlEV1hTaTBVZVNhOUFhb1J2bWhSRW1ya1B0LTdzaGtTQmxnbU9MSzFJdHJoRkRnd0RILXdvUTg4YkdZVGdscTk3MjBCSUlWZ2dpMjNNOU94RWhobEVqRmxVRDlmWE10NDlpNXRqTlB1QzlyRXlyNm1JaksxY3I0RGdNX2lmSDNLTUZsNzJHeHZtZW9XM3ZTbkxqX0pBS21JdkxRUFJLQ3R4UkRxM3JNYzlj?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:25",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-29"
+    },
+    {
+      "title": "유나이티드 관광 여행: UAE, 중동 긴장 속 지역 하락세 동참 - Nomad Lawyer",
+      "summary": "- UAE 관광 산업이 중동 지역 긴장으로 인해 하락세를 보이고 있습니다.\n- 자세한 내용은 Nomad Lawyer에서 확인하십시오.\n- 여행 관련 정보는 해당 출처에서 얻을 수 있습니다.",
+      "full_translated": "유나이티드 관광 여행: UAE, 중동 긴장 속 지역 하락세 동참 Nomad Lawyer",
+      "category": "TRAVEL",
+      "tourist_impact_score": 3,
+      "impact_reason": "중동 지역의 긴장이 UAE 관광에 미치는 영향에 대한 정보. 여행객에게 간접적인 영향을 줄 수 있으나, 직접적인 위험 요소는 아니므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "United Tourism Travel: UAE Joins Regional Decline Amid Middle East Tensions - Nomad Lawyer",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtYmxHbnBzcTU4c3Z2OW1qX3ZUVVRwTmZrN3RxSDNVMGRjc3EzRFRWZ01tdU1QTTRWNUxHdndrVWFTaFppcF92d2Q3czNmcVZXTm5rTmtRNGRlMTRKb2lxVWUtTzFiaWpIY1hrV0MxUHZ5ZWM?oc=5",
+          "source": "Nomad Lawyer",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "00:25",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-29"
     }
   ]
 }
