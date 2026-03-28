@@ -22250,7 +22250,7 @@
       "summary": "- 태국은 에너지 안보가 안정적이며, 약 107일 동안 사용할 수 있는 충분한 석유를 보유하고 있습니다.\n- 석유 가격 변동에도 불구하고, 5월까지 석유가 계속 태국으로 수입될 예정입니다.\n- 에너지부는 불법적인 석유 비축 행위를 단속하고 쏭크란 축제 기간 동안의 수요 증가에 대비하고 있습니다.",
       "full_translated": "에너지부 장관 아타폰 륵피분은 태국이 에너지 안보 면에서 안정적이라고 강조했습니다. 석유 가격 변동에도 불구하고 태국은 약 107일 동안 사용할 수 있는 충분한 석유를 보유하고 있으며, 5월까지 석유가 계속 수입될 예정입니다. 에너지부는 석유 비축량을 점검하고 불법 행위를 단속하는 등 다양한 조치를 시행하고 있습니다. 또한 쏭크란 축제 기간 동안의 수요 증가에 대비하여 연료 상태를 확인할 수 있는 'Fuel-Now' 앱을 추천합니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "태국의 에너지 상황은 여행객의 이동 및 물가에 간접적인 영향을 미칠 수 있으므로 정보 제공 가치가 있습니다. 쏭크란 축제 관련 언급이 있어 여행 관련성이 있습니다.",
       "event_info": {
         "date": null,
@@ -22268,14 +22268,16 @@
       ],
       "collected_at": "16:58",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3LEi0STxzJcl3d.jpg",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://www.thairath.co.th/news/politic/2923180",
+      "source": ""
     },
     {
       "title": "네팔 전 총리, Z세대 시위 사망 사건으로 체포",
       "summary": "- 네팔의 전 총리 KP 샤르마 올리가 체포됨.\n- 이는 지난 9월 발생한 Z세대 반부패 시위 중 발생한 사망 사건에 대한 조사와 관련됨.\n- 76명이 사망한 시위로 인해 올리는 사임했음.",
       "full_translated": "네팔의 전 총리, Z세대 시위 사망 사건으로 체포\n\n전직 내무장관도 구금돼… 새 총리 취임 하루 만에\n게시일: 2026년 3월 28일 14:09\n작성자: 로이터\n카트만두 - 네팔의 전 총리인 KP 샤르마 올리가 지난 9월 발생한 Z세대 반부패 시위 중 수십 명의 사망을 막지 못한 과실 여부를 조사하기 위해 토요일에 체포되었다고 관계자들이 밝혔다. 그의 내무장관인 라메시 레카크도 체포되었다.\n그들은 래퍼에서 정치인으로 변신한 발렌드라 샤가 총리로 취임한 다음 날, 그리고 시위 중 폭력 사태를 조사한 네팔 패널이 지난주에 과실 혐의로 기소해야 한다고 권고한 후 구금되었다. 총 76명이 이틀간의 소요 사태로 사망했으며, 이로 인해 올리는 사임했다. 경찰 대변인 옴 아디카리는 올리와 레카크 모두 카트만두 경찰서에 구금되어 일요일 네팔 법정에 출두할 것이라고 말했다. 그는 “수사위원회의 권고에 따라 그들을 체포했다”고 말했다. 74세의 올리는 최근 몇 년간 두 차례 신장 이식을 받았다. 목격자들에 따르면 그는 이후 경찰서에서 병원으로 이송되었다. 그의 변호사 티카람 바타라이는 로이터에 체포는 부당하다고 말했다. 그는 “그들은 (체포가) 수사를 위한 것이라고 말했다. 도주하거나 심문을 회피할 위험이 없기 때문에 불법적이고 부적절하다”고 말했다. 레카크와 그의 변호사는 즉시 논평을 요청받지 못했다. 패널은 올리가 책임을 져야 한다고...",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "네팔 정치 상황이 여행에 미칠 영향은 제한적이나, 시위 관련 소식은 주의할 필요가 있음.",
       "event_info": {
         "date": null,
@@ -22293,14 +22295,16 @@
       ],
       "collected_at": "16:58",
       "image_url": "https://static.bangkokpost.com/media/content/20260328/c1_3226068_700.jpg",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://www.bangkokpost.com/world/3226068/nepals-expm-arrested-over-gen-z-protest-deaths",
+      "source": ""
     },
     {
       "title": "파키스탄, 미국-이란 갈등 해결 위한 터키, 이집트, 사우디아라비아 4개국 회담 개최",
       "summary": "- 파키스탄이 터키, 이집트, 사우디아라비아와 함께 중동 상황 논의를 위한 4개국 외무장관 회담을 개최한다.\n- 회담은 미국과 이란 간의 긴장 완화를 목표로 하며, 관련국 외무장관들이 이슬라마바드를 방문할 예정이다.\n- 파키스탄은 미국이 이란에 제안한 15개 평화안을 전달하는 등 외교적 중재 역할을 수행하고 있다.",
       "full_translated": "파키스탄 외무부는 터키, 이집트, 사우디아라비아와 함께 4자 외무장관 회의를 개최하여 중동 지역의 긴장된 상황을 논의하고 미국과 이란 간의 갈등 해결 방안을 모색할 것이라고 밝혔습니다. 회의는 일요일부터 월요일 사이에 개최될 예정이며, 3개국 외무장관이 공식 회담에 참석하기 위해 이슬라마바드를 방문할 예정입니다. 성명에 따르면 외무장관들은 지역 긴장 완화를 위한 노력을 포함한 다양한 문제를 심도 있게 논의할 것입니다. 이번 회의는 미국과 이란 간의 갈등이 지속되는 가운데 열리며, 주요 의제 중 하나는 상황의 심각성을 완화하는 것입니다. 터키의 하칸 피단 외무장관은 원래 터키에서 회의를 개최할 계획이었으나 파키스탄으로 장소를 변경했다고 밝혔습니다. 이번 위기 동안 파키스탄은 중요한 중재자로서 주목받고 있으며, 미국과 이란 간의 협상을 연결하는 역할을 하고 있습니다. 보고서에 따르면 파키스탄은 미국이 이란에 제안한 15개 조항의 평화 계획을 전달하는 역할을 수행하여 국제 외교 무대에서 파키스탄의 역할이 커지고 있음을 반영합니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 국내 뉴스는 아니지만, 국제 정세 변화는 잠재적으로 여행 안전에 영향을 줄 수 있으므로 낮은 점수로 포함.",
       "event_info": {
         "date": null,
@@ -22318,14 +22322,16 @@
       ],
       "collected_at": "16:58",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3LJwXWAK4lXM9s.jpg",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://www.thairath.co.th/news/foreign/2923172",
+      "source": ""
     },
     {
       "title": "아우디, 2026 모터쇼 참가: 완전 변경된 Audi Q3 공개",
       "summary": "- 아우디 태국, 2026 모터쇼에서 10개 이상의 모델 전시 예정.\n- The all-new Audi Q3는 SUV 및 Sportback 형태로 제공되며, 새로운 디자인 특징.\n- 최신 엔진 기술과 마일드 하이브리드 시스템을 탑재, 최대 1,000km 주행 가능.",
       "full_translated": "아우디 태국은 2026 모터쇼에 10개 이상의 새로운 모델을 선보이며, '새로운 모든 것'이라는 컨셉으로 완전 변경된 Audi Q3를 강조합니다. 아우디 태국은 2026 모터쇼에서 The all-new Audi Q3를 선보일 예정이며, 이 차량은 완전히 새로운 디자인의 컴팩트 SUV입니다. SUV와 Sportback 형태로 제공되며, 외관은 더욱 스포티하고 날렵해졌습니다. LED 디지털 라이트 시그니처와 LED 라이트 스트립, 19인치 Audi Sport 휠(Tech Plus 모델) 및 20인치 휠(Tech Pro 모델)이 특징입니다. S line 및 블랙 익스테리어 패키지로 스포티함을 더했습니다. Sage Green 및 Arrow Grey를 포함한 6가지 색상으로 제공됩니다. The all-new Audi Q3는 최신 엔진 기술을 탑재했으며, Tech Plus 모델에는 연료 효율성을 32.8% 향상시키는 마일드 하이브리드 시스템이 장착되어 있어 한 번 주유로 최대 1,000km까지 주행할 수 있습니다. 4륜 구동 시스템과 어댑티브 크루즈 컨트롤과 같은 지능형 운전 지원 시스템이 탑재되어 있습니다. 실내 디자인은 완전히 새롭게 디자인되었으며, 차세대 사용자 경험 컨셉을 기반으로 합니다. 새로운 UX/UI 디자인은 가독성을 높이고, 새로운 기어 시프터로 운전 편의성을 향상시켰습니다. 2026 모터쇼에서 Q3 S line Tech Plus (Sage Green, metallic) 및 Q3 Sportback quattro S line Tech Pro (Arrow Grey, pearl effect) 모델을 직접 만나볼 수 있습니다.",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "방콕 모터쇼 관련 정보, 여행객에게 흥미로운 정보일 수 있으나, 당장 필요한 정보는 아님.",
       "event_info": {
         "date": "2026",
@@ -22343,14 +22349,16 @@
       ],
       "collected_at": "16:58",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3MgSHBLNkTdMYv.jpg",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://www.thairath.co.th/news/auto/news/2923067",
+      "source": ""
     },
     {
       "title": "이스라엘의 레바논 '완충지대' 계획, 점령 공포 조장",
       "summary": "- 이스라엘이 레바논 남부에 '완충지대'를 조성하려는 계획이 레바논 내에서 불안정을 심화시키고 추가적인 이주를 초래할 수 있다는 우려를 낳고 있음.\n- 이 계획은 헤즈볼라 무장 세력에 대한 방어 목적으로 추진되고 있음.\n- 레바논 국민들은 이스라엘의 군사적 점령 가능성에 대한 우려를 표명하고 있음.",
       "full_translated": "이스라엘이 헤즈볼라 무장 세력에 대한 '완충지대'를 만들기 위해 레바논 남부 지역을 점령하려는 계획이 레바논 국민들 사이에서 이스라엘의 군사적 점령에 대한 공포를 불러일으키고 있으며, 이는 불안정을 심화시키고 추가적인 이주를 초래할 수 있습니다. - REUTERS\n\n방콕 포스트의 모든 콘텐츠를 즐기려면 광고 차단 기능을 비활성화하십시오.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 여행 자체에는 직접적인 영향이 없으나, 국제 정세 불안정으로 인한 간접적인 영향 가능성이 존재.",
       "event_info": {
         "date": null,
@@ -22368,6 +22376,133 @@
       ],
       "collected_at": "16:58",
       "image_url": "https://static.bangkokpost.com/media/content/20260328/c1_3226024_700.jpg",
+      "date": "2026-03-28",
+      "link": "https://www.bangkokpost.com/video/world/3226024/why-israels-lebanon-buffer-zone-plan-is-stoking-occupation-fears",
+      "source": ""
+    },
+    {
+      "title": "방콕 건물 붕괴 1년, 미얀마 지진 당시 100명 가까운 노동자 사망 사고의 안전 및 책임 문제 여전",
+      "summary": "- 1년 전 방콕 짜뚜짝 지역에서 태국 국가감사원 신축 건물이 붕괴되어 95명 사망, 9명 부상.\n- 사고 당시 미얀마와 캄보디아 이주 노동자 포함 수백 명의 근로자가 현장에 있었음.\n- 붕괴 원인에 대한 조사가 진행 중이지만, 아직까지 명확한 원인 규명 및 책임 소재가 밝혀지지 않음.",
+      "full_translated": "1년 전, 미얀마 지진 당시 거의 100명의 노동자가 사망한 방콕 건물 붕괴 사고는 안전과 책임에 대한 의문을 남겼습니다.\n\n태국 국가감사원(สตง. - 스떠응.)의 새로운 본부가 될 예정이었던 이 건물은 인기 있는 짜뚜짝 주말 시장 근처의 짜뚜짝 지역에 있었습니다. 붕괴 당시 20억 바트가 넘는 가치의 이 구조물은 약 3분의 1 정도 완료되었고 이미 최대 높이에 도달했습니다. 태국 국적자와 미얀마, 캄보디아에서 온 이주 노동자를 포함한 수백 명의 노동자들이 오후 1시 25분경에 비극이 발생했을 때 현장에 있었습니다. 구조 작업은 몇 주 동안 계속되었고, 팀은 잔해 더미에서 생존자와 시신을 끌어냈습니다. 최종 집계는 95명의 사망, 9명의 부상, 그리고 일부 초기 보고서에서 여전히 실종자로 등록된 1명이었습니다. 희생자 중 상당수는 이주 노동자들이었으며, 이는 태국 건설 산업에서 외국인 노동자들이 종종 직면하는 취약한 조건을 보여줍니다. 지진 자체는 미얀마를 강타하여 수천 명의 목숨을 앗아가고 광범위한 파괴를 일으켰습니다. 방콕에서는 대부분의 고층 건물이 극적으로 흔들렸지만, 국가감사원 건물은 완전히 붕괴된 유일한 주요 구조물이었습니다. 극적인 영상은 당황한 구경꾼들이 그 지역에서 도망치는 동안 먼지 구름 속에서 건물이 무너지는 모습을 보여주었습니다. 1년 후, 비평가와 피해 가족들은 재난으로부터 배운 것이 거의 없다고 말합니다. Thai PBS를 비롯한 태국 언론 매체는 가능한 건설 결함, 설계 문제, 조달 부정 및 건물이 적절한지 여부에 대한 지속적인 조사를 보여주었습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "과거 사건이지만, 대형 건설 현장의 안전 문제에 대한 환기를 제공하고, 이주 노동자 문제에 대한 내용이 포함되어 있어 관련 내용을 참고할 필요가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": "짜뚜짝",
+        "price": null,
+        "location_google_map_query": "짜뚜짝"
+      },
+      "references": [
+        {
+          "title": "One Year On: Bangkok Building Collapse That Killed Nearly 100 Workers During Myanmar Earthquake Leaves Lingering Questions Over Safety and Accountability",
+          "url": "https://thepattayanews.com/2026/03/28/one-year-on-bangkok-building-collapse-that-killed-nearly-100-workers-during-myanmar-earthquake-leaves-lingering-questions-over-safety-and-accountability/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/20250328_1432403346504694464775554-696x779442235390500210908-1.jpg?v=1774679124"
+        }
+      ],
+      "collected_at": "17:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/20250328_1432403346504694464775554-696x779442235390500210908-1.jpg?v=1774679124",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "수백만 명의 태국인, 오늘 밤 지구촌 불끄기 캠페인 참여 예상",
+      "summary": "- 정부와 태국 관광청은 모든 태국 시민과 사회 각계각층에 불끄기 캠페인 동참 촉구\n- 오늘(3월 28일) 저녁 8시 30분부터 9시 30분까지 한 시간 동안 불필요한 조명과 전기 제품 끄기\n- 전 세계 7,000개 이상의 도시에서 랜드마크, 가정, 기업 등이 참여하여 지구 온난화 방지 노력",
+      "full_translated": "정부와 태국 관광청은 모든 태국 시민과 사회 각계각층에 불필요한 조명과 사용하지 않는 전기 제품을 한 시간 동안 끄는 캠페인에 동참할 것을 촉구합니다. 시간: 오늘, 2026년 3월 28일 토요일, 현지 시간으로 저녁 8시 30분부터 9시 30분까지입니다. 함께 불을 끄는 행위를 통해 참가자들은 지구 온난화 방지와 에너지 소비 감소에 대한 의지를 상징적으로 보여줍니다. 태국 전역과 전 세계 7,000개 이상의 도시의 상징적인 건물, 랜드마크, 가정, 기업들이 이 의미 있는 60분 동안 어둠 속에 잠길 것으로 예상됩니다. 올해는 지구를 위한 전 세계적인 공동 행동이 20년이 넘은 기념비적인 해입니다. 모든 분들을 집, 사무실, 호텔 또는 공공장소에서 참여하도록 초대합니다. 단순히 불을 끄고 작은 개인 행동이 환경에 얼마나 큰 긍정적인 영향을 미칠 수 있는지 되돌아보면서 어둠 속에서 한 시간을 즐기세요. 🌍💡",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "지구촌 불끄기 행사는 전 세계적인 행사이지만, 여행객에게 직접적인 영향을 미치는 정보는 아니므로 중간 점수 부여. 오늘 저녁에 진행되는 행사임을 명시.",
+      "event_info": {
+        "date": "2026-03-28",
+        "location": "태국 전역 및 전 세계 7,000개 이상의 도시",
+        "price": "무료",
+        "location_google_map_query": "태국"
+      },
+      "references": [
+        {
+          "title": "Millions of Thais Expected to Participate in Earth Hour Tonight by Turning Off The Lights for One Hour",
+          "url": "https://thepattayanews.com/2026/03/28/millions-of-thais-expected-to-participate-in-earth-hour-tonight-by-turning-off-the-lights-for-one-hour/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17746758864662010305239019385741.jpg?v=1774676785"
+        }
+      ],
+      "collected_at": "17:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17746758864662010305239019385741.jpg?v=1774676785",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "내일(2026년 3월 29일) 유가 업데이트: 디젤-가솔린 가격은?",
+      "summary": "- 내일(2026년 3월 29일) 유가 정보 업데이트.\n- 2026년 3월 28일, 벵짝, PTT, 쉘, PT, 칼텍스 등의 주유소 가격 정보.\n- 하이 프리미엄 디젤 S는 56.84바트/리터.",
+      "full_translated": "내일 2026년 3월 29일의 유가 업데이트 정보입니다. 모든 종류의 휘발유, 가솔린, 디젤 가격을 확인하세요. 벵짝, PTT, PT, 칼텍스 및 쉘 주유소의 최신 리터당 가격 정보입니다. 2026년 3월 28일, 벵짝 코퍼레이션, PTT, 쉘 태국, PTG 에너지 및 쉐브론 태국 웹사이트에서 업데이트된 휘발유, 가솔린, 디젤 가격 정보입니다. 내일 2026년 3월 29일의 유가는 다음과 같습니다: 하이 프리미엄 디젤 S는 56.84바트/리터, 하이 디젤 S는 38.94바트/리터, 하이 프리미엄 97은 57.54바트/리터, 가솔린 E85S EVO는 32.79바트/리터, 가솔린 E20S EVO는 36.05바트/리터, 가솔린 91S EV는 40.68바트/리터, 가솔린 95S EVO는 41.05바트/리터입니다. ... 디젤은 38.94바트/리터, 가솔린 E85는 32.79바트/리터, 가솔린 E20은 36.05바트/리터, 가솔린 91은 40.68바트/리터, 가솔린 95는 41.05바트/리터, 휘발유는 49.64바트/리터, 슈퍼파워 디젤은 54.64바트/리터, 슈퍼파워 가솔린 95는 52.04바트/리터입니다. 쉘 퓨얼세이브 가솔린 E20은 36.55바트/리터, 쉘 퓨얼세이브 가솔린 91은 40.93바트/리터, 쉘 퓨얼세이브 가솔린 95는 41.55바트/리터, 쉘 V-파워 가솔린 95는 49.84바트/리터, 쉘 퓨얼세이브 디젤은 38.94바트/리터, 쉘 V-파워 디젤은 57.84바트/리터입니다. 디젤은 38.94바트/리터, 가솔린 95는 41.05바트/리터, 가솔린 91은 40.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 중 차량 이용 시 유가 정보는 유용할 수 있으나, 2026년 날짜로 미래의 정보이므로 현재 시점에서는 낮은 점수 부여. 날짜를 2024년으로 수정하면 유의미한 정보가 될 수 있음.",
+      "event_info": {
+        "date": "2026-03-29",
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "ราคาน้ำมันพรุ่งนี้ 29 มีนาคม 2026 อัปเดตราคาล่าสุด \"ดีเซล-โซฮอล์\" ลิตรละกี่บาท",
+          "url": "https://www.thairath.co.th/news/society/2923188",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHiwjiBwLsVzRHUb1.jpg"
+        }
+      ],
+      "collected_at": "17:29",
+      "image_url": "https://static.thairath.co.th/media/xWxt25hqwLj9p5GwnVLp65spHiwjiBwLsVzRHUb1.jpg",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "아누틴 총리 부인, 경찰병원 법의학 연구소에 시신 기증",
+      "summary": "- 아누틴 총리 부인 타논 차안비라쿨 여사가 경찰병원 법의학 연구소에 시신 기증.\n- 평소 어려운 사람들을 위해 꾸준히 시신 기증을 해온 것으로 알려짐.\n- 기증 후 불교 의식을 치르며 고인의 명복을 빌었다.",
+      "full_translated": "아누틴 총리 부인인 타논 차안비라쿨 여사가 경찰병원 법의학 연구소에서 시신을 기증했습니다. 2026년 3월 28일 12시, 아누틴 차안비라쿨 총리의 부인인 타논 차안비라쿨 여사가 어려운 사람들을 위해 시신을 기증하기 위해 경찰병원 법의학 연구소를 방문했습니다. 타논 여사는 평소 이 법의학 연구소에 시신을 기증해왔다고 밝혔습니다. 기증 후, 타논 여사는 나가 덮개 아래 불상을 숭배하고 법의학 연구소 앞에서 공덕을 기리는 불교 의식을 치렀습니다. 그녀는 수행원 1명과 함께 개인 차량을 타고 돌아갔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "태국 문화에 대한 간접적인 이해를 돕지만, 여행객에게 직접적인 영향은 미미함.",
+      "event_info": {
+        "date": null,
+        "location": "경찰병원 법의학 연구소",
+        "price": null,
+        "location_google_map_query": "Police General Hospital Institute of Forensic Medicine Bangkok"
+      },
+      "references": [
+        {
+          "title": "“จ๋า-ธนนนท์” ภริยานายกฯ อนุทิน สวยใจบุญ บริจาคโลงศพแก่ผู้ยากไร้ ที่นิติเวช รพ.ตำรวจ",
+          "url": "https://www.thairath.co.th/news/politic/2923174",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3LJwMGVrMXwPs8.jpg"
+        }
+      ],
+      "collected_at": "17:29",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3LJwMGVrMXwPs8.jpg",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "파타야, 교사 및 직원 대상 영어 능력 향상 워크숍 개최",
+      "summary": "- 파타야 시의회 의장이 교사 및 교육 관계자의 영어 능력 개발을 위한 워크숍을 개회했습니다.\n- 2026년 3월 28일부터 29일까지 진행되는 이 워크숍은 실습 교육을 통해 영어 능력을 향상시키는 것을 목표로 합니다.\n- 태국 동부 경제 회랑(EEC) 개발에 발맞춰 교육 인력의 역량 강화에 중요한 단계입니다.",
+      "full_translated": "파타야 시의회 의장이 교사 및 직원을 위한 두 번째 영어 능력 워크숍을 열었습니다.\n\n3월 28일부터 29일까지 이틀간 진행되는 워크숍은 전문가 강사의 실습 교육을 통해 교육자와 교육 관계자의 영어 능력을 개발하기 위한 것입니다. 참가자들은 학습 동기를 부여하고 태국 동부 경제 회랑(EEC)의 발전에 맞춰 언어적으로 더 잘 준비할 수 있도록 설계된 다양한 교수법을 배우게 됩니다. 이는 파타야 시 교육 인력의 역량을 높이는 중요한 단계이며, 이들이 국제 무대를 위해 준비되고 지식을 학생들에게 효과적으로 전달할 수 있도록 보장합니다. 이 프로젝트는 교육 분야의 인적 자원 강화에 대한 파타야의 지속적인 헌신을 보여주며, 관광, 스포츠 및 국제 행사의 중심지로서의 도시 비전을 지원합니다.\n\n**보도:** 파타야 시 관광 및 스포츠 사무소 홍보 섹션, Siriprapha Thongsamut 씨\n**사진:** 파타야 시 교육 사무소\n영어 번역: The Pattaya News, Adam Judd",
+      "category": "POLITICS",
+      "tourist_impact_score": 3,
+      "impact_reason": "파타야의 교육 프로그램에 대한 정보이지만, 관광객에게 직접적인 영향을 미치지는 않으므로 낮은 점수를 부여합니다.",
+      "event_info": {
+        "date": "2026-03-28",
+        "location": "파타야",
+        "price": "정보 없음",
+        "location_google_map_query": "파타야"
+      },
+      "references": [
+        {
+          "title": "Pattaya City Council President Opens Second Batch of English Skills Workshop for Teachers and Staff",
+          "url": "https://thepattayanews.com/2026/03/28/pattaya-city-council-president-opens-second-batch-of-english-skills-workshop-for-teachers-and-staff/",
+          "source": "The Pattaya News",
+          "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17746875235696783674967124192281.jpg?v=1774687573"
+        }
+      ],
+      "collected_at": "17:29",
+      "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_17746875235696783674967124192281.jpg?v=1774687573",
       "date": "2026-03-28"
     }
   ]
