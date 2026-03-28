@@ -95451,7 +95451,7 @@
       "summary": "- 베트남이 태국, 말레이시아, 싱가포르, 캄보디아, 라오스와의 항공 연결을 강화하기 위해 주요 공항 업그레이드를 추진하고 있습니다.\n- 이는 해당 지역 여행에 중요한 영향을 미칠 것으로 예상됩니다.\n- 자세한 내용은 Travel And Tour World에서 확인할 수 있습니다.",
       "full_translated": "베트남이 태국, 말레이시아, 싱가포르, 캄보디아, 라오스와의 항공 연결을 강화하기 위해 주요 공항 업그레이드를 추진하고 있습니다. 이는 해당 지역 여행에 중요한 영향을 미칠 것으로 예상됩니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "주요 공항 업그레이드는 여행객의 편의성을 증진시키고, 지역 연결성을 강화하여 여행에 긍정적인 영향을 미칠 수 있습니다. 다만, 현재 시점에서는 구체적인 정보가 부족하므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -95467,16 +95467,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-29"
+      "date": "2026-03-29",
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPbjNOX0haV1NRTXFKSVVweFhMekFmQ1h2WVJTZUs4cWMybzNNRnl1aUdPaDN0TGdaaVU0akdQLTh4SnJkVzBDTUdjbnRHYzBDa2swOEs4ak5BSjhVLWhuUWgzOUZPd2FNbG1LXzFnWDc3WmVrMjItODJXUVlKaU9uaDJHc1Y1S1hkSVljZkFSVU82LUVpX2ZGMUJKVE4tdjdrS1h3SDg0cHFwOGNVVElVUjNDOTN1NTJ0aklVVmNhRmhaUzNCdkwxajllS1EzS0RoOFBtQXYyR2E5UkhxLWxmTEdYWUtHaHVYaW9GY2ZqaEhnbk40bUZZeEI4eGdTWnduNnF4UUNHbmtoNGQ0djZqUG9lQXZUMUhwVkQtUEN6YlFBY0ZIQy1wTFRrWV8tZw?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 엄격한 부두 안전 점검으로 육지와 바다에서 관광객 안전 유지 - Pattaya Mail",
       "summary": "- 파타야는 관광객 안전을 위해 부두 안전 점검을 강화합니다.\n- 육지와 바다에서의 안전을 보장하기 위한 조치입니다.\n- 파타야 메일에서 관련 내용을 보도했습니다.",
       "full_translated": "파타야는 엄격한 부두 안전 점검으로 육지와 바다에서 관광객을 안전하게 지킵니다. 파타야 메일",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "관광객 안전 관련 소식이며, 파타야 방문객에게 유용한 정보입니다. 다만 긴급하거나 심각한 사안은 아니므로 중간 점수를 부여합니다.",
       "event_info": {
         "date": null,
@@ -95492,7 +95494,34 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "05:20",
+      "collected_at": "5:20",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-29",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNckMzd0lDR1I3MHFOU1IyR0hGa0JXMkFqUUxmTDFuMDd1SHIxdXdRTjRGVGtaMHhlNVA1WUU4TjBqdXFaS2dIS0VUaUtzMURGRThsZUtiUy1xNEdfRlM4TElpM1ZCTjdYWlBXMFFKSmpDVlh3TUJrVjFjcUZwRHBwb2JNZVlOd0xEbjhoYkxXaE9zckJwOFJoU2E3eUxVdnFQREZQQW95MzZOR3V1VGNMRmlVeXZETmNS?oc=5",
+      "source": ""
+    },
+    {
+      "title": "정부의 무비자 정책 '너무 쉬워' - 방콕 포스트",
+      "summary": "- 태국 정부의 무비자 정책이 악용될 소지가 있다는 지적이 제기됨.\n- 일부에서는 정책의 허점을 이용한 범죄 가능성을 우려하고 있음.\n- 정책의 재검토 필요성이 제기되고 있음.",
+      "full_translated": "방콕 포스트에 따르면 정부의 무비자 정책이 '너무 쉽다'는 비판이 일고 있습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "무비자 정책 관련 변경 사항은 아니지만, 정책 악용 가능성에 대한 논의는 여행객에게 잠재적 위험을 시사하므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Govt's visa-free policy 'too easy' - Bangkok Post",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTm9CUUxHRVkxM0VUQmRUMVRJZEs3bVNhU0NialJhVHBHVUJpT1NzOC1TVldXQUxaV25fUXpMS0hYcnNkWkppLXB6M0RuRlhDOHFrb3FwNXlhRkZjR2RYeE0ydlUzM0JrbXZkQ000Nnh5WkZyMXdGNURzcXNIaWJyNm1MWFBXZUxYTHg3cmV0ZzI1MHc2NGc?oc=5",
+          "source": "Bangkok Post",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "05:54",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-29"
     }
