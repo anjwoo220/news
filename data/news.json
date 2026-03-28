@@ -95397,7 +95397,7 @@
       "summary": "- 2026년 1월 태국의 경제 및 통화 상황 관련 속보입니다.\n- 자세한 내용은 해당 기사를 참고하십시오.\n- 여행에는 직접적인 영향은 없습니다.",
       "full_translated": "2026년 1월 태국의 경제 및 통화 상황 - Thailand Business News",
       "category": "BUSINESS",
-      "tourist_impact_score": 2,
+      "tourist_impact_score": 2.0,
       "impact_reason": "여행에 직접적인 영향이 없으므로 낮은 점수를 부여합니다. 다만, 2026년 관련 정보이므로 최신 정보 업데이트 차원에서 포함합니다.",
       "event_info": {
         "date": "2026-01-01",
@@ -95413,7 +95413,34 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:22",
+      "collected_at": "4:22",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-29",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0FkLW9Na2MzT2QteXI2eFR5aEZlNFJhU1NvRTlQY1U0UVgxc1dCdHBnRmtsY3dxRDVTM2RySHdrQTNLSGRxV1VUanBHWGxsY1duM0lvM3ZmV09vbHRyR0o3YUFQU3phaTlIMUZBb0tRSzF4NEx2NmR2bV9zcUJkejZueEdzb19NbEJqVW5rSWJkQXY2TUUtaDZyY3A4dEpMV2RlTHp1bS1Vdkx3THp0VDFUZVc?oc=5",
+      "source": ""
+    },
+    {
+      "title": "동남아시아 2위 경제 대국, 항공사들이 송끄란을 위해 약 3만 석 추가",
+      "summary": "- 동남아시아 2위 경제 대국에서 항공사들이 송끄란 축제를 맞아 약 3만 석의 좌석을 추가했습니다.\n- 이는 송끄란 기간 동안 더 많은 여행객이 태국을 방문할 수 있도록 하기 위함입니다.\n- 항공편 증편으로 관광 산업 활성화가 기대됩니다.",
+      "full_translated": "VnExpress International에 따르면, 동남아시아 2위 경제 대국에서 항공사들이 송끄란을 위해 약 3만 석을 추가했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "송끄란 축제 관련 항공편 증편 정보는 여행객에게 유용하며, 여행 계획에 영향을 줄 수 있습니다. 좌석 추가는 여행 편의성 증가와 관련됩니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "In Southeast Asia's 2nd largest economy, airlines add nearly 30,000 seats for Songkran - VnExpress International",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbjVhZVl2ZEhKNFZoaW41R1FwMWJqMmpaY2hvS3VLQ01oY3FTdGQwcFJJMlJWN0dwWF90WTV4UEtwV05zcnhSNHFLWWNtYWRQMHhIdXVnRlpSU0tWc1hhWjBBSDJHajVtaDBsWXhEd05nM21ncjhpUy0yaG10YXFkUVVCbHA1NEhWYmFSZ1ZQcnBFbnUyYUdzb1N3YzAtWmplTEtEdk85blBMMFVwTkpIbUM4bnNPUWlnQUxTMFpNeko3Q2RiMmhvbXpqTHRJSlk?oc=5",
+          "source": "VnExpress International",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:51",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-29"
     }
