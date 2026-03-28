@@ -22788,7 +22788,7 @@
       "summary": "- 주요 항공사들이 요금 인상을 경고하며 태국, 베트남 관광에 부정적 영향 전망.\n- 미국-이스라엘-이란 간의 지정학적 긴장이 항공 산업과 관광 산업에 미치는 영향 분석.\n- UAE 호텔 및 글로벌 휴가 예약에도 연쇄적인 타격이 예상됨.",
       "full_translated": "주요 항공사인 유나이티드 항공, 캐세이퍼시픽, 에어프랑스-KLM, 이지젯은 미국-이스라엘-이란 전쟁으로 인해 항공 요금이 급등할 것으로 경고했습니다. 이는 태국 및 베트남 관광, UAE 호텔, 글로벌 휴가 예약에 큰 타격을 줄 수 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "전쟁으로 인한 항공료 상승은 태국 여행 비용 증가로 이어져 여행객에게 직접적인 영향을 줄 수 있음. 지정학적 리스크는 여행 심리 위축을 야기할 수 있다.",
       "event_info": {
         "date": null,
@@ -22806,14 +22806,16 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQV3dwT1MxbENVVWl3OVQyNHZXRVdXak1SNWh3c0ZHaGlTT1NTNUhaSzhRQlY2NjVCMVROaF9LNHM0UFBIdkdUb2NjcjByLW94N2xJZUJTN1RmUExURkpmV29PZXFiajNkU3haY1Vac2R1WjY4YXNKRFlwT2hQZVZyd0FJWWNKUmpVV2RrY2ctUm93ODRfWmg1eUF5WkVZNGZKVHNYcTd2S3VSdDliY0ZJZUtteFhRMlNncFM3U3J3Q2NCQ01JMWlVbUZaR3c2OG5DMmJzaFRWdUlzOGVzdkgzbmRkX2pTVWJUdHE1WDZEZVpwNHdzVnVHXzBsMlF4NVdOeTAzNDc0ODV4SFh4SnFnR1FvTjNwdXRtMjFURHVGT1ZabUVMd3NrZURTdEZLWXN4Qzk5dlJqbW5HaGRLTktN?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광객 입국세 2026년 시행: 300바트 항공 도착 요금에 대한 모든 것 - Travel And Tour World",
       "summary": "- 태국은 2026년부터 관광객에게 300바트의 입국세를 부과할 예정입니다.\n- 이 요금은 항공편으로 입국하는 모든 여행객에게 적용됩니다.\n- 징수된 자금은 관광 산업 개선에 사용될 것입니다.",
       "full_translated": "Travel And Tour World에 따르면, 태국은 2026년부터 관광객에게 300바트의 입국세를 부과할 예정입니다. 이 요금은 항공편으로 입국하는 모든 여행객에게 적용됩니다. 징수된 자금은 관광 산업 개선에 사용될 것입니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "2026년부터 시행되는 관광객 대상 입국세 정보로, 여행 계획에 영향을 줄 수 있으므로 정보 제공 가치가 있습니다.",
       "event_info": {
         "date": "2026",
@@ -22831,14 +22833,16 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUDByemVsbW45TThQdE9GWjlTd0U5RWlIUDJHVjlNTERFb0VoYk03UlJ1OXhkVTJWblJLOUpxM24yUjdfZTF2Y2NpbVJvRVpfbkJaZ0tiMUtRSE85bnctUUJmMlcwYlNGUGhTTEd5dS1QTHIwbW83MjFYVnpBSFp3TmI0QV9OUHhCZHhPZWt4ZGJrMHlmYVZaS1ltZDJIRkdjRHJZZWdXcWZPZFZBQTV1NDk2NnpBcGtCYldQRHg4c05HQVoxb2NxSnVaTnNNZlZVNUxadjJBOThzcnFjNlF0dDZaUzVXNjFNNVctcXN3?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 말레이시아, 싱가포르, 베트남, 캄보디아와 함께 관광 산업 침체 겪어: 캐세이퍼시픽과 싱가포르 항공 요금 인상 속 동남아 고급 호텔 객실 채우기 어려워",
       "summary": "- 캐세이퍼시픽과 싱가포르 항공의 항공료 인상으로 태국을 포함한 동남아시아 국가들의 관광 산업이 어려움을 겪고 있음.\n- 특히 고급 호텔들이 객실을 채우는 데 어려움을 겪고 있으며, 이는 연료 위기와도 관련이 있음.\n- 다른 동남아시아 국가들(말레이시아, 싱가포르, 베트남, 캄보디아) 역시 유사한 어려움을 겪고 있다고 보도됨.",
       "full_translated": "태국은 캐세이퍼시픽과 싱가포르 항공의 요금 인상으로 인해 말레이시아, 싱가포르, 베트남, 캄보디아와 함께 관광 산업 침체를 겪고 있습니다. 동남아시아의 고급 호텔들은 연료 위기 속에서 객실을 채우기 위해 고군분투하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "항공료 인상과 호텔 예약 어려움은 여행객에게 직접적인 영향을 미칠 수 있음. 다른 동남아 국가 상황도 함께 언급되어 있어 정보 가치가 있다고 판단.",
       "event_info": {
         "date": null,
@@ -22856,14 +22860,16 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxORU1ENFVWTmlUb3RrQjloR3RDWW9oQWhyMUxKSU1YZUZDMjh2c2lwdm1rMFh3QVhad0IyWkdvMHBsRVFWb0tUck1ObEtNZWFwNDI2VnZtbXFQS1ZOUjJ3N1hVY29DNkZncmpxajlqRUgyMy10MW1yUTFnV2JaTnF0ZU43WG1YbUF2UVVIYXozc1BsWDRpVWVUelQzR0tuU0NVRnN3YUFXbzdTRFVpbThJRU56UDZsUV90T21YS2FaenBuTERldHpXVnl3WXBGSUl3OXc4NFFUMTBkNDFtbk1lZVp5Z2tGQTNKOWstODhGbjBEU0tzQzFsbTRQRW5WY2xWQkEyOGZBZE52czRuX3pRbGZfYW1QOVJYeWF3LTZaVWdidUZpdElhclF5YUpCQmdnSE1RY3B6RDZVT3RkeWVGOUVHaFNObHlHTEgzTVBOdlYzcXlCclE?oc=5",
+      "source": ""
     },
     {
       "title": "태국 사회개발인간안보부, 방콕시 및 건강증진재단과 협력하여 창작 공간 개방",
       "summary": "- 태국 사회개발인간안보부가 방콕시, 건강증진재단(스스스)과 협력하여 'FAM FESTIVAL 2026' 개최.\n- 가족 간 유대 강화 및 창의적 시간 장려를 목표로 함.\n- 행사 기간은 2026년 3월 28일부터 29일까지이며, 방콕 어린이 박물관에서 진행.",
       "full_translated": "태국 사회개발인간안보부(포모.)는 방콕시(꼬토모.), 건강증진재단(쏘쏘쏘.)과 협력하여 “FAM FESTIVAL 2026” 행사를 통해 태국 가족들이 “가까이, 멀리 떨어지지 않게” 지낼 수 있도록 장려합니다. 이 행사는 사회 변화와 저출산 문제에 대응하고 강력한 가족을 지원하기 위한 창작 공간을 제공합니다. 2026년 3월 28일 13:00, 타나크릿 짓라아리야랏 사회개발인간안보부 장관 비서관은 “가족 박람회 (FAM FESTIVAL 2026)” 개막식에 참석하여 “COSMIC FAMILY - Always Together : 가까이, 멀리 떨어지지 않게”라는 콘셉트 아래 어린이와 가족이 창의적인 시간을 함께 보낼 수 있는 공간을 열었습니다. 또한 “행복한 가족” 상을 수여했습니다. 짜뚜폰 롯차나파닛 여성가족부 국장, 샤논 왕상분 방콕 부지사, 폰라니 푸빠서 건강증진재단 사무총장 대행 등이 행사에 참석했습니다. 타나크릿 박사는 사회개발인간안보부가 방콕시 및 건강증진재단과 협력하여 2026년 3월 28-29일 10:00-16:00에 “FAM FESTIVAL 2026”을 개최한다고 밝혔습니다. 이 행사는 태국 가족들이 함께 시간을 보낼 수 있도록 창작 공간을 제공하며, 경제, 사회, 기술 및 인구 구조의 급격한 변화와 같은 사회적 도전에 대응하기 위해 마련되었습니다. 현재 태국은 고령화 사회로 진입하고 있으며, 출산율이 감소하는 추세입니다. 이로 인해 가족은 더 큰 어려움에 직면하고 있습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "여행객에게 직접적인 영향은 적으나, 가족 단위 여행객에게 유용한 정보 제공. 2026년 행사 정보이므로 중요도는 낮음.",
       "event_info": {
         "date": "2026-03-28",
@@ -22881,14 +22887,16 @@
       ],
       "collected_at": "18:52",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3P4DoKuHa6yN8f.jpg",
-      "date": "2026-03-28"
+      "date": "2026-03-28",
+      "link": "https://www.thairath.co.th/news/politic/2923204",
+      "source": ""
     },
     {
       "title": "일본, 베트남, 태국, 싱가포르, 스위스가 인도 여행객에게 가장 안전한 여행지로 선정 (2026년)",
       "summary": "- 일본, 베트남, 태국, 싱가포르, 스위스가 인도 여행객에게 안전한 여행지로 꼽힘.\n- 글로벌 불확실성 속에서 안전한 여행지에 대한 수요 증가.\n- 2026년까지 이들 국가의 여행 산업 성장 기대.",
       "full_translated": "인도 여행객들이 글로벌 불확실성 속에서 일본, 베트남, 태국, 싱가포르, 스위스를 가장 안전한 여행지로 꼽았습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "인도 여행객 대상 설문조사 결과이므로, 모든 외국인 여행객에게 일반적인 정보는 아님. 하지만 태국이 안전한 여행지로 언급된 점을 고려.",
       "event_info": {
         "date": null,
@@ -22905,6 +22913,133 @@
         }
       ],
       "collected_at": "18:52",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-28",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObl9jeHM5X0JuNDltUldYNzZRVVIwNjdIRWttb0NxZFFJU21ial9YVUhDN0FTUWJDY2dvSjRfRFhXcVBPLWc3akxoaWtGVW95ckpIQU8wVzFBdU5CWUI3WGNsaEZCTkE2WWhjM1NTYlFfZHdFUWhvR09VZklJTWlYc2RkQXRYci1iYWVwbzRPblVpOTlKSkJKQXlWQkpGM1NFdXA3dTh0c2doV01VNlAtMmhpcDRBaW0yX0N0cDUzNmNNcnNNczRaQVZYOGxScHROUjkxMmp0UTdnYkR1ZF9mb0sxSHNGSzFOQ2laS2QxcU5FSm45aE5rUDQ5MVQ5MXdXLUdBZkREaGVPWGRVU3hiMQ?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 관광 인프라 개선 위해 300바트 관광세 도입. 인도네시아, 일본, 말레이시아, 뉴질랜드, 스페인, 노르웨이 등 동참",
+      "summary": "- 태국이 관광 인프라 및 서비스 개선을 위해 300바트의 관광객 입국세를 도입합니다.\n- 이로써 태국은 인도네시아, 일본, 말레이시아, 뉴질랜드, 스페인, 노르웨이 등과 함께 관광세 시행 국가가 되었습니다.\n- 징수된 세금은 관광 인프라 개선 및 방문객 서비스 향상에 사용될 예정입니다.",
+      "full_translated": "태국은 관광 인프라와 방문객 서비스를 개선하기 위해 300바트의 관광객 입국세를 도입하면서 인도네시아, 일본, 말레이시아, 뉴질랜드, 스페인, 노르웨이 등에 합류했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광세 도입은 여행 비용에 영향을 미치므로 여행자에게 중요한 정보입니다. 기존 뉴스에 없던 새로운 정보이므로 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Joins Indonesia, Japan, Malaysia, New Zealand, Spain, Norway, and More as It Rolls Out Three Hundred Baht Tourist Entry Fee to Boost Tourism Infrastructure and Visitor Services - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPcHlGUkRPRUVQUm83VUg1UklvSHJSYzMxSlVsMElfN1BIV0JZekRYQ2tCOWFxSVJqYk9Ndk4yT2dDN2tEU0JvcnRFcnBSeW96d0tiMU5lNXJ1NEZVcFFKWU5UMWJtcTVfR2lQOVdVeUJmVFBtd1p0aDgwZTkwN0ZKSU1fWG1WZjNuaXlsM3FqTGlpOU1xN2hRVVZRZXN1UHRadTJEOWg4aTVCV3BJSEpGSHFEaXFPRTIyX1UxWG9DYU5zR05Da1ptaGxOWV8yTWRGYVpvckpRbnoxT3MtajFGazRrdUhFaVUxOEs5aXlCclVfMVBNcmJGYXM0V2hERWF4QmxKdU04TWFaLTdzdDhMXzFJenAzRFNyREZGek5pdnV5Q2tXUGR2VEQtb05uU1ltNXcyMHFGc0pRbGdRbTUxOE9sOC1oRE92V3JTVw?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "이란 전쟁 불안, 지중해부터 태국까지 관광 산업 뒤흔들어 - thetraveler.org",
+      "summary": "- 이란 전쟁 가능성이 고조되면서 전 세계 관광 산업이 불안에 떨고 있음.\n- 특히 지중해 지역과 태국 등 인기 휴양지 예약 취소가 증가하는 추세임.\n- 여행 업계는 상황을 예의주시하며 안전한 여행지 홍보에 주력하고 있음.",
+      "full_translated": "이란 전쟁 불안이 지중해부터 태국까지 관광 산업을 뒤흔들고 있습니다. thetraveler.org",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "전쟁 가능성이 관광 산업에 미치는 영향은 여행객들에게 중요한 정보이므로 포함. 다만, 현재까지는 '불안' 단계이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Iran War Turmoil Rattles Tourism From Med Resorts to Thailand - thetraveler.org",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkh0bTRqTmJSeVJFelQta2w3RWNyNHpJVDY2YzU4RUVXNjVMRnBFYXlaTVhjVkhuQXBiWVNfa1htWC1UV1dBNUFpQWkwRWY1dzRfRk5FZEgyeVlGNDVpTW8wYnhWSkxmRDB1dTBaR1hKWWdMYS1kSmVfbktvWlZObWV6YzVtNlJkLVpBSHBXUVBPSG5s?oc=5",
+          "source": "thetraveler.org",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "태국, 인도 관광객에게 안전하고 편리한 여행지로 각광",
+      "summary": "- 태국은 인도 관광객들에게 안정적인 인프라, 낮은 범죄율, 편리한 연결성으로 이상적인 여행지로 부상.\n- 베트남, 일본, 스위스, 싱가포르와 함께 인도 관광객들에게 인기 있는 여행지로 선정됨.\n- 2026년에도 이러한 추세가 지속될 것으로 예상.",
+      "full_translated": "태국은 베트남, 일본, 스위스, 싱가포르와 함께 안정적인 인프라, 낮은 범죄율, 원활한 연결성을 바탕으로 안정적이고 스트레스 없는 여행 경험을 추구하는 인도 관광객에게 이상적인 국제 목적지로 선정되었습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "태국이 인도 관광객에게 인기 있는 여행지로 부상했다는 정보는 여행객 유치에 긍정적인 영향을 미치므로 여행 관련 정보로서의 가치가 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand Joins Vietnam, Japan, Switzerland, and Singapore as Ideal International Destinations for Indian Tourists Seeking Reliable, Stress-Free Travel Experiences with Strong Infrastructure, Low Crime Rates, and Seamless Connectivity in 2026 - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQNG13VkJyeDdsM0dyVjAwNy1wTzVzZ2tBcVVQWEh5bTdNeFU0Zl9ZVmlDSkF3VXRJZTlUUFRaeXhJb0Y0T3ZPTnp6NVFweGw2aVRta1loMEUwSnNoeS1PalZ4eFJub0lUWXUtT29uN0swWEhkckVxSmhxNHJxVUVIMUJGQVpzR1RTQUg2OE1taXRyc05iWHh0bG1USmZqdlRWMC1PSDl2c2twNl9GM3daNDZBbDI2eHhCbllqNUt3b1hudUlzZVYzSUtUU05nQlJiRnl2NHNobmRPUUtQcDdRS2t4U1AyVk1sQkltREhLay1XaUJ4bVoyV3FVNnVsc3dzX2NDUzlZeExtTXI4WG5MdDRtRTNsQUdBZVJpNzI0R0hoMVpoblpsRmViMVBJdi1EeDF2eDBWLXU1dUpjWHJpLXFoRUtuT1JjNjhmcjdmWUY5TU1yelVpOTZFN2x4LTVaMkE?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "파타야 관광, 바트화 약세와 비용 상승 속에서 고전: 태국의 해변 낙원은 경제적 어려움을 극복하고 최고의 목적지로 남을 수 있을까?",
+      "summary": "- 파타야 관광 산업이 바트화 약세와 비용 상승으로 어려움을 겪고 있습니다.\n- 경제적 어려움을 극복하고 최고의 관광지로 남기 위한 노력이 필요합니다.\n- 관광객 유치를 위한 다양한 전략 모색이 중요합니다.",
+      "full_translated": "파타야 관광 산업은 바트화 약세와 비용 상승으로 어려움을 겪고 있습니다. 태국의 해변 낙원인 파타야가 이러한 경제적 어려움을 극복하고 최고의 목적지로 남을 수 있을지 주목됩니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "파타야의 경제 상황 변화는 여행 비용에 영향을 미칠 수 있으므로 정보 제공 가치가 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Pattaya Tourism Struggles Amid Weaker Baht and Rising Costs: Can Thailand’s Beach Paradise Overcome Economic Challenges and Stay a Top Destination? - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNWk12d3JKS3dnUk9WUjU5dTZPNlh3RWZNUi1XUm41NFVoekZDNGdTRnMyMm1rZmV5Sl9vS1N6LWVONUljX3dwQ25sR2ZMWnRpUDZOaVBZb2ZLNmd5VzIyclRpYjk2R1VQQVVENFJaSGpHSGprcjF1SEktSFhMZFJsUWxZRE5MQkpXSFQwVDhQOTBYd1o4eEhFTWN6Ty0yYnhXTHdBejNNWURZaHF6RFYxbVNvYk5HeTZOTEl1MFR3Mzd2UGlFSkVOYTBwc0kwbmI1OHJxOGFud2ltaHpHbUpVUW95OU4zLVRIbFFfZVFwcEFQM0JTRVFHa1lDbDdWZ0RLS0dHNEJGdUxvWXpJTkM5NUZwZzdRaG41QTRsem5B?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:35",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-28"
+    },
+    {
+      "title": "스페인, 스위스, 태국, 일본, 싱가포르, 이탈리아, 베트남 합류… 루프트한자, 에티하드, 이지젯, 메리어트, 2026년 인도 관광객 가격 및 공간 압박 경고!",
+      "summary": "- 스페인이 스위스, 태국, 일본 등과 함께 전통적인 관광 허브를 넘어서는 새로운 대안으로 떠오르고 있습니다.\n- 루프트한자, 에티하드, 이지젯, 메리어트는 2026년에 인도 관광객을 위한 가격 및 공간 압박을 경고했습니다.\n- 인기 여행지의 혼잡이 예상되므로, 여행 계획 시 주의가 필요합니다.",
+      "full_translated": "스페인이 스위스, 태국, 일본, 싱가포르, 이탈리아, 베트남과 합류하여 전통적인 허브를 능가합니다. 루프트한자, 에티하드, 이지젯, 메리어트는 2026년 인도 관광객의 가격 및 공간 압박에 대해 경고합니다!",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "인도 관광객에 한정된 내용이지만, 인기 여행지의 혼잡 가능성을 간접적으로 시사하므로 여행 계획에 참고할 만함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Spain joins Switzerland, Thailand, Japan, Singapore, Italy & Vietnam to Overtake Traditional Hubs — Lufthansa, Etihad, EasyJet & Marriott Warn of Price & Space Crunch for Indian Tourists in 2026! - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNbjVXcVB3LVZxaHI5eDA3M0ktMlcyN3cwZkRKU09rLUtoUkVkV2xWYjFpOGxLQk5vb01qZEg3aEJ4TjR3NVE1SXhPUEgxSzJuZ2s4RDZlUlZrRnV1S1Qwc2dXOUpzYS1OWDE0Y0FmTXY1YWNHaDRLbmI0bHdaMy1NM0YwT0dIelJsaWViOWlTUkZpZFhKT05SczhWNlZjZVJJTHVVLWFsNzlZdzBKMkxpeG9UOUJzYmVsZVpUY0ZDTm94aUFqX3BSRGJzVlFMaktmV0hhZXh2TVdJdDY3aTE0VllHOEhVYnNpSi1QZnFLNkdpblRYRml2WVBET0dVOHV5RmZsLUxWOFc5LWNLblJuYVg2V3IzVWw0c3ltN2EzVjJpbkVoVVFXbzVkVHdVR1NObkhjV2IyM2Foc00?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "19:35",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-28"
     }
