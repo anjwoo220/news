@@ -23470,7 +23470,7 @@
       "summary": "- 태국 이민국은 TDAC 관련 사기 웹사이트를 통해 여행객들이 최대 1억 달러의 피해를 볼 수 있다고 경고했습니다.\n- 가짜 웹사이트들은 공식 사이트와 유사하게 만들어져 여행객들을 속이고 있습니다.\n- 이민국은 여행객들에게 공식 웹사이트를 통해 정보를 확인하고, 의심스러운 링크는 클릭하지 않도록 당부했습니다.",
       "full_translated": "태국 이민국은 TDAC 관련 사기 웹사이트들이 여행객으로부터 최대 1억 달러를 갈취할 수 있다고 경고했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "여행객을 대상으로 한 사기 위험에 대한 경고이므로 안전에 영향을 미쳐 높은 점수를 부여합니다. 입국 관련 정보이므로 여행자에게 중요합니다.",
       "event_info": {
         "date": null,
@@ -23486,16 +23486,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbHBNM2FFU0RhMDNfamNvbUw4ZHY0Y0FELWNySjhZX0FBWU9NLXE0d1RkVVJnVEJ2RDA2MU1tVGhFWnU1RnRMRFZGZ0IwWHNUSmQyNUczTExETXZxaVcxaWNfbGxIUmhrbVF3Z0huS3N3azFFXzdCdVJ4ZnZCQ1ZZUUV5QXc0TnliWE1GdWhjdUFnVlhoMjdfeDVPZzd2T2gtRGNldzdiZ0NBYnJ1RTVRejUtNGJpakIya0tBcUR4SzRaTTM3VW04enp2Q2k1VldjOUhtbmIteWgzZm5jU0pPWmxBb0dRVXBNdW5BbUEzenl4V3NC?oc=5",
+      "source": ""
     },
     {
       "title": "중동 분쟁, 태국 관광에 영향 - Travel Daily News Asia-Pacific",
       "summary": "- 중동 지역의 분쟁이 태국 관광 산업에 부정적인 영향을 미치고 있습니다.\n- 정확한 영향 정도는 아직 불확실하며, 상황을 주시해야 합니다.\n- 관련 업계는 중동 지역 상황 변화에 따른 대비책 마련이 필요합니다.",
       "full_translated": "중동 분쟁이 태국 관광에 미치는 영향 - Travel Daily News Asia-Pacific",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "최근 중동 지역의 불안정으로 인해 태국을 방문하려는 여행객 심리에 부정적인 영향을 줄 수 있으므로, 여행 관련 정보에 대한 업데이트 필요.",
       "event_info": {
         "date": null,
@@ -23511,16 +23513,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS1NqckFvRXFEdzlRMmh0dmNLMnVSRDZHdEozdzRVaElyNzluMlhuazlEcTg3Q3Y4eHNpaTRyeGJvRDhHVnlXQ0ZDcTE0czF4TEpHMzBuMVN0YlBNOXZhT0JwblE4Zi1Od3lrUEpvRm15NXJoRkQ1QzZrZF9heVdnSlgwMEJHYk5oLWVtdjlvTk9CZG5hLUhzUk5lNEV6QQ?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 푸껫에서 2026년 GSTC 개최 준비 완료",
       "summary": "- 태국이 2026년 푸껫에서 GSTC(Global Sustainable Tourism Council) 컨퍼런스를 개최할 준비가 되었다고 발표함.\n- 이는 태국이 지속 가능한 관광 목적지로 자리매김하는 데 중요한 역할을 할 것으로 기대됨.\n- 푸껫은 아름다운 자연경관과 다양한 관광 인프라를 바탕으로 성공적인 행사 개최를 자신하고 있음.",
       "full_translated": "태국이 푸껫에서 GSTC 2026을 개최할 준비가 되었음을 확인했습니다. Travel Daily News Asia-Pacific",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 행사 관련 정보이나, 개최 확정 소식이므로 정보 제공 가치가 있다고 판단. 푸껫 여행객에게 참고 정보가 될 수 있음.",
       "event_info": {
         "date": "2026",
@@ -23536,16 +23540,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0YxT0JnNDh2bWJQVTJEZHRpY2w2Y09nOTZEUmtuSS1QZmM2WHhoUVVkY0g3aUFLLWY5VkRJWmlSZzA4VUtGc1Zya2VVd2thM2Vxdm85Ykl6S0V5RzJ4Q2pNa0hUS2tqZ3V3U2ZkVFlrMnpRRWw4eWF3cHpRTXlsNFNjeVRrT05TS0xWWk9fdlk3RmRBd3lkNkFveWphN3FDR29pU0R0bms?oc=5",
+      "source": ""
     },
     {
       "title": "아시아, 일본과 태국이 주도하는 새로운 슬로우 트래블",
       "summary": "- 일본과 태국이 아시아의 새로운 '슬로우 트래블' 트렌드를 이끌고 있습니다.\n- '슬로우 트래블'은 서두르지 않고 현지 문화와 자연을 깊이 있게 체험하는 여행 방식입니다.\n- 이 트렌드는 코로나19 팬데믹 이후 더욱 부상하고 있으며, 지속 가능한 관광을 지향합니다.",
       "full_translated": "아시아의 새로운 슬로우 트래블 서킷은 일본과 태국이 주도합니다. thetraveler.org",
       "category": "TRAVEL",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "최근 여행 트렌드 정보 제공. 새로운 여행 방식에 대한 정보는 여행객에게 유용할 수 있음.",
       "event_info": {
         "date": null,
@@ -23561,16 +23567,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZXF5Ynd2Z2p4Y0NFZVd3SHpyMmdwd2t0VGNsby1wTUl4RDVCWWFDYXYxa2pMdkVQcnJsVWZ6T0tkd0l5TTFtLVowbFZJRU9qMjZmRXF1bWxDRE1tXzVQZ3d6RS1VSWt6VHEwYXlPOVRoSWlkdEUzMExuSmI4SkVrdUZTa3E1NU1GRW11dg?oc=5",
+      "source": ""
     },
     {
       "title": "태국 공항 주식회사(Airports of Thailand PCL) 주식: 태국 주요 공항 운영사와 투자 프로필 - AD HOC NEWS",
       "summary": "- 태국 주요 공항 운영사인 Airports of Thailand PCL(AOT) 주식에 대한 투자 프로필 기사입니다.",
       "full_translated": "태국 공항 주식회사(Airports of Thailand PCL) 주식: 태국 주요 공항 운영사와 투자 프로필 AD HOC NEWS",
       "category": "BUSINESS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "여행객들에게 직접적인 영향은 적으나, 태국 공항 운영 관련 정보이므로 낮은 점수 부여. 기존 뉴스에 유사 내용이 없어 추가.",
       "event_info": {
         "date": null,
@@ -23586,8 +23594,110 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "04:24",
+      "collected_at": "4:24",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNzdTUmtXSWJQaEk3UVhqdklObF9KS3Z4aGNMazdTZ25fQjVRd05fR093SlpCdzZxRC15cTgxRE1mTXJhZ3BmM0hQSEdKdnMxeUM1QXBuSzRLZnhkbGUwY210YVRzSFdNeXV5YW9Ubmhrdl92a3JUWjdmY3FRUWZIWkJiczRMTjY5aEJsVlRvOEozaEVRZUlRdm5WWGFJRnFfZ3ltaHYwYXhOYXFac18tQ1ljVXAxNlVVZVVmTy0zRXZ1OFhsWUdOUnhmMA?oc=5",
+      "source": ""
+    },
+    {
+      "title": "태국, 관광객 대상 입국 수수료 신속 도입 추진",
+      "summary": "- 태국 정부가 관광 정책 재설정을 추진하며 관광객 입국 수수료 도입을 가속화할 예정입니다.\n- 새로운 정부는 관광 산업 활성화를 위해 다양한 정책을 검토 중입니다.\n- 자세한 내용은 추후 발표될 예정입니다.",
+      "full_translated": "태국 정부가 새로운 정책 재설정의 일환으로 관광객 입국 수수료 도입을 신속하게 추진할 예정입니다. travelworldonline.in",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "입국 수수료 도입은 여행 비용에 영향을 미치므로 여행자에게 중요한 정보입니다. 기존 뉴스에 '항공 도착 수수료 도입'에 대한 내용이 있지만, '신속 도입 추진'이라는 업데이트된 상황이므로 포함합니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand to Fast-Track Tourist Entry Fee as New Government Pushes Policy Reset - travelworldonline.in",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVNoaEhVT3Y0WDFDWFdmUDNyam5qV2RuZUhvWVVYZWFRS0V4YUE2djZhSTVWMmJFdDdjUkxFaGxDZUthLXB5cGQyV0VacG9CU0VvcmRRV2pOZUtRVDYwR1J6QzhnNXlGTXd0SDZHY21LaHZkOWZkSllmN3RabERoTGRRZFQtSmNHcTRkX2ZLcDNOWEtXbTVlWEVUOUstVDRXVEJ0Tk5lZXEwd1RH?oc=5",
+          "source": "travelworldonline.in",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "방콕에서 사망한 영국인 관광객, 경찰 수사 착수",
+      "summary": "- 방콕에 도착 직후 사망한 영국인 관광객 사건 발생\n- 가족들은 경찰이 즉시 수사에 착수했다고 밝힘\n- 정확한 사인 및 사건 경위 조사 중",
+      "full_translated": "방콕에서 사망한 영국인 관광객의 가족들은 경찰이 착륙 직후 그의 사망에 대한 수사를 시작했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 7,
+      "impact_reason": "외국인 관광객 사망 사건으로, 여행 안전에 대한 우려를 야기할 수 있어 포함. 사건 초기 단계이므로 진행 상황을 주시해야 함.",
+      "event_info": {
+        "date": null,
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "Family of UK tourist who died in Bangkok says police are investigating his death within hours of landing - thaiexaminer.com",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQczJYM0dmNjNKYkZJVHpKY3VUb1VuMll0cjhhcGpKNkVtaVo4bWFHdU1ja1RfLVE4d2JETnM3NmFUSHd4VkVONlBlNEZ0M0FhY2sxcEFMN1VTWVR1cjcxV3YwaDJub1hIQjlZZk9oSXltUUsyVHRBQkhROG9rLW9kN1h4Q0luWGMtUGhvWEFXN0hPcm5EMFl2dUtTd2t4b0dBbnVHeFQ0bEItVFZsZjdBdTFIbUJPemxvT0pXdFNwLU1HaGhKLWM5aWtRalFCRWJ5YmpEY2FTWElIV2JPcl9uaURjSUZmWUxjRkRkXzM0NEZ0UUJ3cXhyYlp3?oc=5",
+          "source": "thaiexaminer.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:53",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "이란, 12세 이상 대상 안보 지원 자원 봉사 캠페인 시작",
+      "summary": "- 이란에서 12세 이상을 대상으로 안보 및 지원 관련 자원 봉사자를 모집하는 캠페인이 시작됨.\n- '바시지'라는 준군사 조직이 '조국 수호 전사'라는 이름으로 캠페인을 주도하며, 국방, 수송 지원, 구호 활동 등 다양한 분야에서 시민의 참여를 유도함.\n- 자원 봉사자들은 정보 순찰대, 작전 순찰대, 검문소 근무 등 다양한 보안 관련 활동에 참여할 수 있음.",
+      "full_translated": "이란 언론이 다양한 분야, 특히 보안 및 지원 분야에서 도움을 줄 자원 봉사자를 모집하는 캠페인을 시작했습니다. 순찰대와 같은 역할도 포함됩니다. 12세 이상이면 누구나 참여할 수 있습니다.\n\n이란 군 산하 언론사인 Defa Press는 테헤란에서 새로운 자원 봉사자 등록 캠페인을 시작하여 12세 이상인 사람이면 누구나 보안 및 지원 활동과 관련된 역할에 등록할 수 있도록 허용했습니다.\n\nDefa Press는 이번 주에 이 이니셔티브가 \"바시지(Basij)\"로 알려진 이란의 준군사 부대에 의해 \"이란을 위한 조국 수호 전사\"라는 제목으로 발표되었으며, \"이란을 위하여\"라는 주요 슬로건 하에 캠페인이 홍보되고 있다고 밝혔습니다. 관계자는 이번 노력이 국방 관련 업무, 운송 지원, 구호 활동을 포함한 여러 분야에서 대중의 지원을 동원하고 시민의 능력을 활용하는 방법이라고 설명했습니다.\n\nDefa Press는 12세 이상인 사람이면 누구나 이 캠페인에 등록할 자격이 있다고 보도했습니다. 이 프로젝트에 대한 자세한 내용은 이란의 준공식 통신사인 Tasnim News가 공유한 비디오 클립에 나와 있습니다. 이 클립은 정부의 이슬람 공화국 이란 방송(IRIB)의 한 장면으로 보이며, 해당 프로그램에 대해 논의하고 있습니다. 자원 봉사자를 위한 여러 가지 가능한 역할이 언급되었으며, 언급된 직책 중에는 \"정보 순찰대\", 작전 순찰대 및 검문소 근무가 포함되어 있는데, 이는 일부 자원 봉사자가 감시 또는 지역 보안 작전과 관련된 활동에 참여할 수 있음을 시사합니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 4,
+      "impact_reason": "이란의 국내 자원봉사 캠페인으로, 태국 여행에는 직접적인 영향은 없으나, 잠재적인 중동 지역 불안정 요소로 간주될 수 있어 낮은 점수를 부여함.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "อิหร่านผุดแคมเปญรับอาสาสมัครความมั่นคง-สนับสนุน อายุตั้งแต่ 12 ปีขึ้นไป",
+          "url": "https://www.thairath.co.th/news/foreign/2923394",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3OWknnPOabLcRd.jpg"
+        }
+      ],
+      "collected_at": "04:53",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3OWknnPOabLcRd.jpg",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "디즈니, Sora 종료 후 OpenAI와의 협력 종료",
+      "summary": "- 디즈니가 인기 AI 비디오 생성 애플리케이션 Sora의 중단 결정에 따라 OpenAI와의 파트너십을 종료했습니다.\n- OpenAI는 Sora를 종료하고 로봇 개발 및 통합 AI 서비스 구축에 집중할 것이라고 발표했습니다.\n- Sora 종료로 인해 디즈니 캐릭터 사용 라이선스 계약을 포함한 10억 달러 규모의 투자 계약도 종료되었습니다.",
+      "full_translated": "디즈니는 Sora 중단 결정에 따라 OpenAI와의 파트너십을 종료하며, 이는 양사 모두에게 전략의 갑작스러운 변화를 의미합니다. Sora는 텍스트를 짧은 비디오로 변환하는 서비스였습니다. OpenAI는 2024년 말에 출시되어 6개월 동안 운영된 Sora를 종료한다고 발표했습니다. 회사는 대신 로봇 개발과 여러 AI 서비스를 통합하는 '슈퍼 앱' 구축에 집중할 것이라고 밝혔습니다. Sora 팀은 공식 계정을 통해 종료를 확인하고 성장하는 창의적인 비디오 커뮤니티에 기여해 준 사용자들에게 감사를 표했습니다. 이전에 생성된 사용자 콘텐츠에 대한 자세한 내용은 추후 발표될 예정입니다. 이번 종료로 인해 OpenAI와 디즈니 간의 주요 투자 계약(약 10억 달러 규모)과 AI 생성 비디오 콘텐츠에서 디즈니 소유 캐릭터를 사용할 수 있도록 허용하는 라이선스 계약도 종료되었습니다. 디즈니는 OpenAI의 결정을 존중하며 양사 모두 다른 AI 관련 분야에서 투자 또는 전략적 파트너십을 포함한 향후 협력 기회를 모색할 수 있다고 밝혔습니다. Sora 종료의 정확한 이유는 불분명합니다. 그러나 플랫폼의 과도한 계산 요구 사항으로 인해 OpenAI가 ChatGPT, Codex 및 Atlas와 같은 서비스를 통합된 플랫폼으로 결합하는 로봇 연구 및 슈퍼 앱을 포함한 장기적인 이니셔티브에 리소스를 재할당했을 수 있다는 추측이 있습니다.",
+      "category": "BUSINESS",
+      "tourist_impact_score": 1,
+      "impact_reason": "여행객에게 직접적인 영향은 없음. AI 기술 트렌드 관련 정보.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Disney ends OpenAI tie-up after Sora shutdown",
+          "url": "https://www.bangkokpost.com/life/tech/3226458/disney-ends-openai-tieup-after-sora-shutdown",
+          "source": "Bangkokpost.com : Most recent",
+          "image_url": "https://static.bangkokpost.com/media/content/20260329/c2_3226458.jpg"
+        }
+      ],
+      "collected_at": "04:53",
+      "image_url": "https://static.bangkokpost.com/media/content/20260329/c2_3226458.jpg",
       "date": "2026-03-30"
     }
   ]
