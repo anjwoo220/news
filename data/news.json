@@ -95047,7 +95047,7 @@
       "summary": "- 태국이 무비자 체류 기간을 60일에서 30일로 단축하는 방안을 검토 중입니다.\n- 이는 관광 정책 변화의 일환으로, 여행객들에게 영향을 미칠 수 있습니다.\n- 정확한 시행 시기는 아직 발표되지 않았습니다.",
       "full_translated": "태국이 무비자 체류 기간을 60일에서 30일로 단축하는 계획을 발표했습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "비자 규정 변경은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여합니다. 기존 뉴스에 없던 새로운 정보이므로 업데이트로 판단.",
       "event_info": {
         "date": null,
@@ -95063,16 +95063,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:29",
+      "collected_at": "1:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdmJEOWdoaDhvUkhBQmNtLU1odGpaeGhzc0RrWEpHZjBYUzJ2LWUtaFNzM0gwT1h6NkpjMFZiRzFBaHhSTWFFS2tqZzgyRU5NVVZ3UzcxNHFrNm5vRVJsWWNYbVZIZTZkd1Nwa0g5MVAyNi11SmR2WHMxcUVkVzdjVDZnaGltQmxuNmZZdE1kTU5KR0xZcWNBU2Nrd24wMnlEbUFjSFRpTlhVTHJaeTczeGRzTTJqSWoydnoxaF9EUTBjRmZwQ0J4VDFhWG4?oc=5",
+      "source": ""
     },
     {
       "title": "태국 관광 축제 2026년 방콕에서 개최",
       "summary": "- 태국 관광청(TAT)은 2026년 방콕에서 태국 관광 축제를 개최합니다.\n- 이 축제는 태국의 다양한 관광 상품과 서비스를 선보일 예정입니다.\n- 쏭크란 축제 기간 동안 항공료 인하를 통해 관광객 유치를 목표로 합니다.",
       "full_translated": "태국 관광청(TAT)은 2026년에 방콕에서 태국 관광 축제를 개최한다고 발표했습니다. 이 축제는 태국의 다양한 관광 상품과 서비스를 선보이며, 쏭크란 축제 기간 동안 항공료 인하를 통해 관광객 유치를 목표로 합니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 행사 정보이므로 현재 여행에는 직접적인 영향은 없으나, 향후 여행 계획에 참고할 만한 정보입니다.",
       "event_info": {
         "date": "2026-01-01",
@@ -95087,15 +95089,18 @@
           "source": "thetraveler.org"
         }
       ],
-      "collected_at": "01:29",
-      "date": "2026-03-30"
+      "collected_at": "1:29",
+      "image_url": "",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LnRoZXRyYXZlbGVyLm9yZy90aGFpbGFuZC10b3VyaXNtLWZlc3RpdmFsLTIwMjYtb3BlbnMtaW4tYmFuZ2tvay_SAVVodHRwczovL3d3dy50aGV0cmF2ZWxlci5vcmcvdGhhaWxhbmQtdG91cmlzbS1mZXN0aXZhbC0yMDI2LW9wZW5zLWluLWJhcmdrb2svYW1wLw?oc=5",
+      "source": ""
     },
     {
       "title": "태국, 2026년 중국-태국 문화 축제에서 웰니스 관광 선보여",
       "summary": "- 태국이 2026년 중국-태국 문화 축제에서 웰니스 관광을 홍보합니다.\n- 웰니스 관광은 태국 관광 산업의 중요한 부분입니다.\n- 이 축제는 양국 간의 문화 교류를 촉진합니다.",
       "full_translated": "태국은 2026년 중국-태국 문화 축제에서 웰니스 관광을 선보입니다. safariindia.com",
       "category": "TRAVEL",
-      "tourist_impact_score": 5,
+      "tourist_impact_score": 5.0,
       "impact_reason": "2026년 문화 축제 정보 제공. 여행 계획에 참고 가능.",
       "event_info": {
         "date": "2026",
@@ -95111,16 +95116,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "01:29",
+      "collected_at": "1:29",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-30"
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94aVR3aDVxM3NzM0hobzRRVmZJRldEalk0M1A3SWJzd21lSVV6LXhuclJwd21hLXNMQjFRLWp1UE5kbkM5bUJBN09XZlNHeG9BdDBkX0F0WHlIR2NiWF93REUtZ3NFV0ZWRGxDNjk3dEQwZ2hp?oc=5",
+      "source": ""
     },
     {
       "title": "파키스탄, 중동 위기 해결을 위한 4자 회담 개최",
       "summary": "- 파키스탄이 이집트, 터키, 사우디아라비아와 함께 중동 전쟁 위기 해결을 위한 4자 회담을 개최함.\n- 회담은 2026년 3월 29일에 예정보다 하루 일찍 종료되었으며, 공동 성명 발표가 예상됨.\n- 사우디아라비아 외무장관은 파키스탄 총리와 회담 후 사우디의 지역 상황에 대한 최신 견해를 공유하고, 양국은 지역 평화와 안정을 위해 긴밀히 협력하기로 합의함.",
       "full_translated": "파키스탄은 이집트, 터키, 사우디아라비아와 파키스탄 간의 4자 회담을 주최하여 중동 전쟁 위기에서 벗어날 길을 모색했습니다. 회의는 2026년 3월 29일에 예정보다 하루 일찍 종료되었습니다. 이집트, 터키, 사우디아라비아, 파키스탄 외무장관이 참석한 4자 회담은 파키스탄 수도 이슬라마바드에서 열렸으며 예정보다 하루 일찍 종료되었으며 공동 성명이 뒤따를 것으로 예상됩니다. 파이살 빈 파르한 사우디아라비아 외무장관은 4자 회담을 마친 후 셰바즈 샤리프 파키스탄 총리를 만났습니다. 총리실은 성명에서 총리가 \"현재 위기 속에서 사우디아라비아가 유지하고 있는 극도의 자제력에 감사를 표했다\"고 밝혔습니다. 샤리프 총리는 또한 사우디아라비아 외무장관에게 \"파키스탄은 항상 사우디아라비아와 함께 할 것\"이라고 \"확신\"을 주었습니다. 남아시아 핵 강국인 파키스탄은 작년에 사우디아라비아와 국방 조약을 체결했으며 파키스탄이 미국과 이란 간의 평화 구축자 역할을 수행하려고 노력하고 있지만 사우디아라비아가 이란에 맞서 싸우기 위해 전쟁에 참여하기로 결정할 경우 파키스탄이 중동 분쟁에 휘말릴 수 있다는 우려가 있습니다. 사우디아라비아 외무장관은 \"지역 상황에 대한 사우디아라비아의 최신 견해\"를 공유했으며 양국은 \"지역의 평화와 안정을 유지하기 위해 입장을 긴밀히 조율하기로 합의했습니다.\" 이번 회의에는 파키스탄 외무장관 모하마드 이스하크 다르와 국가안보보좌관, 중장도 참석했습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 3,
+      "tourist_impact_score": 3.0,
       "impact_reason": "태국 직접 관련은 없으나, 중동 불안정은 국제 유가 상승 및 항공편 변동 가능성을 유발하여 여행에 간접적 영향을 줄 수 있음. 다만 현재로서는 낮은 수준의 영향으로 판단.",
       "event_info": {
         "date": null,
@@ -95136,8 +95143,135 @@
           "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3OXG3au3uHbF2U.jpg"
         }
       ],
-      "collected_at": "01:29",
+      "collected_at": "1:29",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3OXG3au3uHbF2U.jpg",
+      "date": "2026-03-30",
+      "link": "https://www.thairath.co.th/news/foreign/2923389",
+      "source": ""
+    },
+    {
+      "title": "중동 분쟁으로 인한 여행 혼란 속에서 태국, 스리랑카, 이집트 등 여러 국가가 어려움을 겪고 있다",
+      "summary": "- 중동 지역의 갈등이 심화되면서 항공편 취소 및 지연이 속출하고 있으며, 이로 인해 관광객 감소와 여행 산업 전반에 걸친 침체가 발생하고 있다.\n- 스리랑카, 터키, 이집트, 태국, 인도, 인도네시아 등이 이러한 어려움을 겪고 있는 국가에 포함된다.\n- 새로운 보고서에 따르면 이러한 국가들은 여행 산업의 혼란을 극복하기 위해 다양한 노력을 기울이고 있다.",
+      "full_translated": "중동 분쟁이 격화되면서 스리랑카, 터키, 이집트, 태국, 인도, 인도네시아 등 여러 국가에서 항공편 취소 및 지연이 속출하고 있습니다. 이로 인해 관광객 감소와 여행 산업 전반에 걸친 침체가 발생하고 있으며, 각국은 이러한 혼란을 극복하기 위해 노력하고 있습니다. 자세한 내용은 새로운 보고서에서 확인할 수 있습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "중동 분쟁으로 인한 항공편 혼란 및 관광객 감소는 태국 여행에 직접적인 영향을 미칠 수 있으므로 여행객에게 필요한 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Sri Lanka Joins Türkiye, Egypt, Thailand, India and Indonesia in Battling Massive Travel Turmoil as Middle East Conflict Triggers Flight Chaos, Visitor Declines and Multi-Country Tourism Slowdowns – New Report You Need to Know - travelandtourworld.com",
+          "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQOVNhSUhoRjAyVUxkYXY3ejJ4SXJuYmtCWThjR2YwU2g2cGlGcWxYSVBpcE1QQklfNjZQOFFzRXRhOVoyV2FiYTJ3blRyX2ZJTXpkbElnOG5IVkh4VFpHRm5kSExUcUQ0UDdVTFA0c1BZOGNmazVaYkw5WmZWbEV2QjhYVk9wTms2UEt4ZkcyMTRLWG9iSXVwaTZmRndYNWtZcXpMSjVpckQ3V1hDeDR4ZHVvSTJ4YWVBVnV2d282bk9zQzAtRFhLdy15SzNUc1YwS0xOLUpxZFBtYXp3YWhzaWNwazNOdzl2R0p4Tk5xaGQwczd4NWNBUm11bW1CWi1HLXNsWXNRRi1pSmVmNUlTWGNfbmNsQVFpbkNCaDYwbnl2STlOalNDN05HODNOVHpfMjgtblVSQ3NFV0E4TzFEZXFkLUY1emxTRldISVdIbEFHX2lVNFRCMko0bkx4Q2VT?oc=5",
+          "source": "travelandtourworld.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:09",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "중동 소재 미국 대학들, 이란 위협에 온라인 수업으로 전환",
+      "summary": "- 이란 혁명수비대가 미국 및 이스라엘 연계 대학 공격을 위협함.\n- 베이루트 아메리칸 대학교 등, 안전을 위해 온라인 수업으로 전환.\n- 카타르 내 대학들은 이미 한 달 전부터 온라인 수업 진행 중.",
+      "full_translated": "중동 소재 여러 미국 대학들이 최근 이란의 공격 위협에 따라 온라인 수업으로 전환하기로 결정했습니다. 이는 최근 이란 교육 시설에 대한 공격에 대한 보복으로 테헤란이 위협에 나선 데 따른 조치입니다. 2026년 3월 29일 일요일 아침, 이란 혁명수비대(IRGC)는 중동 지역의 미국 및 이스라엘 네트워크 대학을 표적으로 삼아 공격할 것이라고 발표했습니다. 이는 최근 이란 고등 교육 센터에 대한 공격에 대한 대응입니다. \n\n가장 최근에 레바논 베이루트에 있는 아메리칸 대학교의 총장은 성명을 통해 IRGC의 위협으로 인해 대학이 내일부터 화요일까지 완전한 원격 학습 및 업무 시스템으로 전환될 것이라고 밝혔습니다. “최대한의 안전을 위해”라고 덧붙였습니다. 동시에 베이루트에 있는 레바논 아메리칸 대학교는 웹사이트를 통해 이번 주 월요일과 화요일에 “지역 교육 기관에 대한 광범위한 위협으로 인해 예방 조치”로 “완전한 온라인 운영”으로 전환할 것이라고 발표했습니다. \n\n한편, 이 지역의 여러 대학은 이미 한 달여 전 이란 전쟁이 발발한 이후부터 온라인 수업으로 전환했습니다. 카타르 교육부는 전쟁이 시작된 2월 28일부터 전국 모든 유치원, 학교, 교육 센터 및 대학교가 추후 공지가 있을 때까지 원격 학습으로 전환될 것이라고 발표했습니다. 카타르의 조지타운 대학교, 카타르의 텍사스 A&M 대학교, 카타르의 버지니아 커먼웰스 대학교 예술대학은 모두 추후 공지가 있을 때까지 수업이 온라인으로 진행될 것이라고 발표했습니다. ... 또한, 아메리칸 대학교...",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "중동 지역의 불안정으로 인해 해당 지역으로 여행하려는 여행객들에게 잠재적 위험을 알릴 필요가 있음. 특히 미국 대학과의 교류 프로그램이나 방문 예정인 경우.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "มหาวิทยาลัยสหรัฐฯ ในตะวันออกกลาง สั่งเรียนออนไลน์ทั้งหมด หลังอิหร่านขู่โจมตี",
+          "url": "https://www.thairath.co.th/news/foreign/2923392",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3OWlKBUb0jRePE.jpg"
+        }
+      ],
+      "collected_at": "02:09",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wU3OWlKBUb0jRePE.jpg",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "태국 쏭크란 항공 전략, 여행 및 관광에 미치는 세계적 영향",
+      "summary": "- 태국의 쏭크란 축제 기간 동안 항공 전략이 국제 여행 및 관광 산업에 미치는 영향 분석\n- 쏭크란 축제 기간 동안 항공편 이용 증가와 관광객 유치 전략 모색\n- 태국 정부의 관광 활성화 정책과 항공 산업의 협력 방안 제시",
+      "full_translated": "태국의 쏭크란 항공 전략과 여행 및 관광에 미치는 세계적 영향&nbsp;&nbsp;travelandtourworld.com",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "쏭크란 축제 관련 항공 전략 정보는 여행객에게 참고할 만한 사항이며, 축제 기간 항공편 이용 계획에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand’s Songkran Aviation Strategy and Its Global Impact on Travel and Tourism - travelandtourworld.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQzd1RndmMVgySTA0TDFqRGdFd0N1MXZqdXFaeGlRcG1QajI3cnJodGxlTjZVZlRseW83dmd0aDlaNE0tbVhJOTVRblFDVjJJQTU0Zm80eFBJTjBoUWVqZTlObEhUSWxOek14aUptRDdIeXh5WUF3MHdhVUNmSFlaeHAxU0Y2bFh2Wm5uZENOVzR2NEJac1RJWmt0QUZpaXFrNlAzOUk5OHVtVWlncWhZS3UtdlZ5VEppNk56M0g0azM1Vk4wNVZpcg?oc=5",
+          "source": "travelandtourworld.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:09",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "태국, 쏭크란 축제 맞아 방콕, 후아힌, 파타야 두짓 호텔에서 축하 행사와 휴식 제공",
+      "summary": "- 두짓 호텔 앤 리조트는 태국 전역에서 쏭크란 축제 경험을 제공합니다.\n- 방콕에서는 도시 축제 분위기를 즐길 수 있으며, 후아힌과 파타야에서는 여유로운 휴식을 취할 수 있습니다.\n- 다양한 프로모션과 특별 패키지를 통해 고객에게 잊지 못할 경험을 선사할 예정입니다.",
+      "full_translated": "두짓 호텔 앤 리조트는 태국 전역에서 다가오는 쏭크란 축제를 맞아 특별한 경험을 제공합니다. 활기 넘치는 방콕부터 평화로운 후아힌과 파타야까지, 각 호텔과 리조트는 축제 분위기를 만끽하거나 조용한 휴식을 즐길 수 있는 다양한 기회를 제공합니다. 자세한 내용은 두짓 호텔 웹사이트를 참조하십시오.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "쏭크란 축제 관련 정보는 여행객에게 유용하며, 두짓 호텔의 프로모션 정보는 숙박 선택에 영향을 줄 수 있습니다. 이미 쏭크란 관련 뉴스가 있지만 특정 호텔 정보를 제공하므로 업데이트로 간주합니다.",
+      "event_info": {
+        "date": "2024-04-13",
+        "location": "방콕, 후아힌, 파타야",
+        "price": "다양한 프로모션 및 특별 패키지 제공",
+        "location_google_map_query": "두짓 호텔 방콕, 두짓 호텔 후아힌, 두짓 호텔 파타야"
+      },
+      "references": [
+        {
+          "title": "Thailand Elevates Songkran with Dusit Hotels Balancing Celebration and Escape Across Bangkok Hua Hin Pattaya - travelandtourworld.com",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaXBYellESm9HdnZ5ZXVxWHF6TkNKa2ZuSURrcFlOT2U4c1d4dDVjNFBHaWlZUUpYTFdSb05hUmhNblBQdHVUbjFuazJtRkFNSkZNNnoyZzduUmIyeDd0Z2NhWDZpOUZqeGpZa3o5aW5JdEk2UXhYQXpLaXF2MmN6ZHdXaUU1bVphUWFEbjNSRnFMVkNEX3lfRUMwcnpscTdUX1J0TnA0UDN3b3ZZV0RGOWd1SDhKQ01SRElUeXRQSE0wbW1rNko1Z0RySVRLWDltdGk3TUF4YzQzMVFVZEt4MTlta0V5Rk9ISzJsVmFB?oc=5",
+          "source": "travelandtourworld.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:09",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-30"
+    },
+    {
+      "title": "모로코, 태국 포함, 대규모 호텔 투자 전략에 합류",
+      "summary": "- 모로코가 아랍에미리트, 사우디아라비아, 태국 등과 함께 관광 활성화를 위한 대규모 호텔 투자 전략에 동참합니다.\n- 총 40억 달러 규모의 투자는 외국인 여행객 유치를 목표로 합니다.\n- 이번 투자는 태국 관광 산업에 긍정적인 영향을 미칠 것으로 기대됩니다.",
+      "full_translated": "모로코가 아랍에미리트, 사우디 아라비아, 태국, 영국, 인도 및 더 많은 국가들과 함께 관광을 활성화하고 외국인 여행객을 유치하기 위한 대담한 40억 달러 규모의 호텔 투자 전략에 합류했습니다. travelandtourworld.com",
+      "category": "BUSINESS",
+      "tourist_impact_score": 5,
+      "impact_reason": "태국이 호텔 투자에 참여함으로써 관광 산업에 긍정적인 영향을 줄 수 있지만, 구체적인 내용이 없어 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Morocco Joins UAE, Saudi Arabia, Thailand, UK, India, And More Countries In A Bold USD Four Billion Hotel Investment Strategy To Boost Tourism And Attract Foreign Travelers - travelandtourworld.com",
+          "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPdXBWbVFSVXZhZUhCOWhiWnpnS3NpV1ZZd09maGtCbjJZTnhRZHhyRFM0X1Fkc3VlOFR5ZGN2RDhkZi1hbTMtN1M2eFJvWU9IU2lQc1lKMnNpYUJLSFdZR25fT04xSW5xNUNna0pxNkZUMHhOWlV0TXRDY1Q2dUMyeFN3R1lOejl0enlOSFFpeFd0RGxZRVhkRmtadlE2TkZlaklaWjRHVGxnT0Nzems1OVFQYlpzWVV6Ui14LWFvaGdOQTBpQlk5b0pTMkZLbGFoOXU5alRXdlAtci1HcGROc3NKaU5CMWVqbmRDdnpMTk1BNTNiMVFfM2x1TEZlYlVrT0Q1Wi16amU5RzZRdE5PTTZiZkhMQV9kMFRXSW5WR2hBMm5PdnV3TnNYblBJZHh5RERmdVZtX3RWNXpp?oc=5",
+          "source": "travelandtourworld.com",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "02:09",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-30"
     }
   ]
