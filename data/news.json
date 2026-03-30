@@ -94791,7 +94791,7 @@
       "summary": "- 3월 30일 오전 9시경, 파타야 워킹 스트리트에서 외국인 남성이 난동을 부린다는 신고 접수.\n- 30~35세로 추정되는 남성은 술에 취해 흥분한 상태로 주변 사람들에게 폭력을 행사하려 함.\n- 경찰은 남성을 체포하여 경찰서로 이송, 음주가 깬 후 태국 법에 따라 기소될 예정.",
       "full_translated": "3월 30일 오전 9시경, 경찰은 워킹 스트리트에서 외국인 남성이 이상하게 행동한다는 신고를 받고 출동했습니다. 현장에 도착했을 때, 경찰은 30~35세로 추정되는 남성이 매우 흥분하고 통제 불능 상태인 것을 발견했습니다. 지역 주민들과 선행을 베푸는 사람들은 그가 날뛰기 시작한 후 그를 제지했습니다. 그는 소리를 지르고 고함을 지르며 주변의 모든 사람, 심지어 코 란으로 당일 여행을 떠나기 위해 근처 발리 하이 부두로 향하는 겁에 질린 가족들까지 쫓아가 폭행하려 했습니다. 경찰에 따르면 볼트 택시 기사는 외국인이 길가에 쓰러져 있는 것을 발견하고 그를 깨우려다 봉변을 당했다고 합니다. 남자는 고마워하기는커녕 갑자기 격분하여 영어로 욕설을 퍼붓고 즉시 운전자와 도우려던 주변 사람들을 공격했습니다. 그러고 나서 그는 통제되지 않은 분노로 주변의 모든 사람을 위협하기 시작했습니다. 안전을 우려한 인근 주민들은 경찰이 도착하여 그를 구금할 때까지 남자를 제지하는 데 도움을 주었습니다. 경찰은 외국인을 파타야 시 경찰서로 이송하여 술을 깨고 진정시켰습니다. 그는 자신의 행동에 대해 태국 법에 따라 기소될 것입니다. 그 남자는 매우 비협조적인 것으로 묘사되었고, 경찰관들과 몸싸움을 벌이고 위협적인 고함을 지르는 모습이 목격되었습니다.",
       "category": "POLITICS",
-      "tourist_impact_score": 8,
+      "tourist_impact_score": 8.0,
       "impact_reason": "파타야 워킹 스트리트는 주요 관광지이므로, 외국인 관광객 대상 범죄 발생은 여행 안전에 직접적인 영향을 미친다. 잠재적 위험을 알리고 주의를 환기시킬 필요가 있다.",
       "event_info": {
         "date": "2026-03-30",
@@ -94807,16 +94807,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260330_1104567291146245794429359.jpg?v=1774843570"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/img_20260330_1104567291146245794429359.jpg?v=1774843570",
-      "date": "2026-03-31"
+      "date": "2026-03-31",
+      "link": "https://thepattayanews.com/2026/03/30/drunken-passed-out-foreign-tourist-on-walking-street-in-pattaya-goes-on-violent-rampage-after-being-woken-up/",
+      "source": ""
     },
     {
       "title": "태국, 미국인 무비자 입국 단속 강화 가능성 - thestreet.com",
       "summary": "- 태국이 미국인에 대한 무비자 입국을 단속할 가능성이 있습니다.\n- thestreet.com에서 보도했습니다.\n- 자세한 내용은 기사를 확인하세요.",
       "full_translated": "태국이 미국인에 대한 무비자 입국을 단속할 가능성이 있습니다. thestreet.com",
       "category": "TRAVEL",
-      "tourist_impact_score": 7,
+      "tourist_impact_score": 7.0,
       "impact_reason": "미국인 여행객에게 직접적인 영향을 미칠 수 있는 비자 정책 변경 가능성이 있으므로 높은 점수를 부여합니다. 잠재적 입국 요건 강화에 대한 정보를 제공하여 여행 계획에 참고할 수 있도록 합니다.",
       "event_info": {
         "date": null,
@@ -94832,16 +94834,18 @@
           "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
-      "date": "2026-03-31"
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRXF4VWd0aWNEbkNZdDF0QnI2dzVXZ3dLZ3dwNFhuVjJwMmhrZnZnWnAwSk9iaFpyenBzankxYWd4MmZQdE5ZNnZUOE54NHU4NVVETHhISmp0M3NoWTJta0hVVEtXLUFSSW1RT21uZmN3VC1OaTlzSE1HQU91b0lvX1FEV1Q0NHVkMTBjZEhsTHdGdlYt?oc=5",
+      "source": ""
     },
     {
       "title": "파타야, 샤워 시설 도난 및 파손 문제 발생… 민간 위탁 관리 제안",
       "summary": "- 파타야 시, 해변 이용객 편의 위해 샤워 시설 설치했으나 도난 및 파손 문제 지속 발생.\n- 시 당국, 수리 및 교체 노력에도 불구, 문제 해결 어려워 서비스 일시 중단.\n- 민간 사업자에게 관리를 위탁하여 유지 보수 및 보안 강화하는 방안 모색 중.",
       "full_translated": "파타야 시 당국은 파타야 시장의 소셜 미디어 플랫폼을 통해 해변에서 수영 후 방문객에게 편의를 제공하고 위생 기준을 높이며 전반적인 해변 경험을 개선하기 위해 샤워 시설을 설치했다고 밝혔습니다. 그러나 개장 직후 샤워기 헤드 및 수도꼭지와 같은 부품의 반복적인 도난, 오용 및 파손으로 인해 잦은 손상이 발생했습니다. 시 관계자의 여러 수리 노력과 도난 또는 파손된 부품 교체에도 불구하고 도난은 계속되었습니다. 결과적으로 시 정부는 추가 손상과 손실을 방지하기 위해 서비스를 일시적으로 중단해야 했습니다. 현재 파타야 시 행정부는 문제 해결을 위한 장기적인 해결책을 개발하고 있습니다. 이 계획에는 입찰 과정을 통해 샤워 시설 관리를 민간 부문에 개방하는 것이 포함됩니다. 제안된 시스템에 따라 운영자는 장비의 적절한 유지 관리, 체계적인 유지 관리 및 도난 방지 보안 조치에 대한 대가로 소액의 서비스 요금을 부과할 수 있습니다. 그러나 이 프로젝트는 여전히 세부 계획 단계에 있어 개보수 및 재개장에 지연이 발생했습니다. 지역 주민과 관광객 모두 가능한 한 빨리 샤워 시설이 깨끗하고 기능적인 상태로 복원되어 해변 경험을 개선할 수 있도록 시에 이 과정을 가속화할 것을 촉구하고 있습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 해변 이용객의 편의 시설 관련 문제 발생. 민간 위탁을 통해 개선될 예정이지만, 당분간 불편이 예상되므로 관련 정보 제공.",
       "event_info": {
         "date": null,
@@ -94857,16 +94861,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/FB_IMG_1774793222751.jpg?v=1774840523"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/FB_IMG_1774793222751.jpg?v=1774840523",
-      "date": "2026-03-31"
+      "date": "2026-03-31",
+      "link": "https://thepattayanews.com/2026/03/30/pattaya-city-reveals-issues-with-shower-stations-suffer-from-repeated-theft-of-equipment-proposed-to-open-management-of-stations-to-private-sector/",
+      "source": ""
     },
     {
       "title": "파타야행 고속도로에서 오토바이 사고, 운전자 중상",
       "summary": "- 파타야 방면 고속도로에서 오토바이 운전자가 주차된 차량을 들이받아 중상을 입었습니다.\n- 사고는 밤 10시경 발생했으며, 구조대는 현장에서 부상자를 병원으로 이송했습니다.\n- 경찰은 사고 원인을 조사 중이며, 오토바이의 고속도로 통행 금지 위반 여부도 확인할 예정입니다.",
       "full_translated": "파타야 뉴스에 따르면, 파타야 방향 고속도로 5km + 300m 지점에서 오토바이 사고가 발생했습니다. Sawang Boriboon Thammasathan 재단 구조대가 현장에 출동하여 오토바이 운전자가 승용차를 들이받은 것을 확인했습니다. 태국인 남성인 오토바이 운전자는 얼굴에 열상과 전신에 찰과상을 입었습니다. 구조대원은 응급 처치 후 파타야 메모리얼 병원으로 이송했습니다. 승용차 후미는 심하게 파손되었으며, 운전자는 연료 부족으로 갓길에 정차 후 도움을 요청하려던 중 뒤에서 고속으로 접근하던 오토바이가 차량 후미를 들이받았다고 진술했습니다. 태국 교통 법규상 오토바이는 고속도로 통행이 금지되어 있습니다. 당국은 모든 도로 사용자에게 주의를 기울이고 속도 제한 및 차선 제한을 준수할 것을 당부했습니다. 카오 키아오 고속도로 경찰은 현장을 방문하여 잔해를 조사하고 증거를 기록하며 사건 파일을 작성했습니다. 두 차량 모두 압수되었습니다.",
       "category": "TRAVEL",
-      "tourist_impact_score": 6,
+      "tourist_impact_score": 6.0,
       "impact_reason": "파타야 인근에서 발생한 교통사고로, 여행자 안전에 영향을 줄 수 있으며, 특히 오토바이 렌트 여행객에게 안전 운전의 중요성을 상기시키는 정보입니다.",
       "event_info": {
         "date": null,
@@ -94882,16 +94888,18 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_1774838629470774307617881837687.jpg?v=1774839056"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_1774838629470774307617881837687.jpg?v=1774839056",
-      "date": "2026-03-31"
+      "date": "2026-03-31",
+      "link": "https://thepattayanews.com/2026/03/30/motorcyclist-seriously-injured-after-crashing-into-parked-car-on-pattaya-bound-motorway/",
+      "source": ""
     },
     {
       "title": "파타야 부시장, 제2회 '코 란 사격' 커뮤니티 권총 대회 개막",
       "summary": "- 파타야 부시장이 스포츠 및 레크리에이션 활동을 장려하기 위해 제2회 '코 란 사격' 커뮤니티 권총 대회를 개막했습니다.\n- 이 대회는 주민들의 삶의 질 향상, 신체 건강 및 체력 증진, 스포츠맨십 함양, 공동체 의식 강화 등을 목표로 합니다.\n- 파타야와 촌부리 지역을 '스포츠 도시'로 변화시키고 스포츠 관광을 활성화하여 지역 경제를 활성화하는 데 기여할 것으로 기대됩니다.",
       "full_translated": "파타야 뉴스는 파타야 부시장이 제2회 “코 란 사격” 커뮤니티 권총 대회를 개막했다고 보도했습니다.\n\n이 대회는 스포츠 및 레크리에이션 활동을 장려하고, 주민들의 삶의 질을 향상시키며, 신체 건강 및 체력을 증진하고, 스포츠맨십을 함양하고, 공동체 의식을 강화하며, 모든 참가자에게 자부심과 영감을 불어넣는 것을 목표로 조직되었습니다. 개막식에서 크리사나 분사와트 부시장은 권총 사격 대회가 참가자들이 사격 스포츠 기술을 개발하고 경험을 교환하는 플랫폼 역할을 할 뿐만 아니라 파타야와 촌부리 지방이 이 지역을 “스포츠 도시”로 변화시키려는 광범위한 계획의 일부라고 밝혔습니다. 이 행사는 또한 스포츠 관광을 지원하여 지역 경제를 활성화하고 주민들에게 장기적인 수입을 창출할 것으로 예상됩니다. 개회사에 이어 크리사나 부시장은 대회를 면밀히 관찰하고 선수들을 직접 격려했습니다. 이 행사는 잘 조직되고 안전한 분위기에서 순조롭게 진행되어 모든 참가자에게 강한 인상을 남겼습니다.\n\n**보도:** 시라프라파 통사무트 양\n**사진:** 타나퐁 운막 씨\n홍보부\n관광 및 스포츠 사무소\n파타야 시\n영어 번역: Adam Judd (The Pattaya News)",
       "category": "POLITICS",
-      "tourist_impact_score": 4,
+      "tourist_impact_score": 4.0,
       "impact_reason": "파타야에서 열리는 스포츠 행사 정보로, 관광객들에게 새로운 볼거리를 제공할 수 있습니다. 지역 경제 활성화에 대한 기대 효과도 언급되어 있습니다.",
       "event_info": {
         "date": null,
@@ -94907,8 +94915,135 @@
           "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_1774840644081561344470264705545.jpg?v=1774841402"
         }
       ],
-      "collected_at": "03:36",
+      "collected_at": "3:36",
       "image_url": "https://thepattayanews.com/wp-content/uploads/2026/03/fb_img_1774840644081561344470264705545.jpg?v=1774841402",
+      "date": "2026-03-31",
+      "link": "https://thepattayanews.com/2026/03/30/pattaya-deputy-mayor-opens-2nd-koh-larn-shooting-community-pistol-competition/",
+      "source": ""
+    },
+    {
+      "title": "태국, 관광객 대상 항공 입국세 계획 재개",
+      "summary": "- 태국이 관광객 대상 항공 입국세 계획을 다시 추진합니다.\n- 구체적인 시행 시기와 금액은 아직 발표되지 않았습니다.\n- 징수된 세금은 관광 산업 발전 및 관련 프로젝트에 사용될 예정입니다.",
+      "full_translated": "태국이 관광객 대상 항공 입국세 계획을 재개합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "관광객에게 직접적인 영향을 미치는 세금 관련 정보이므로 중요도가 높음. 입국 비용 상승으로 여행 계획에 영향을 줄 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand revives tourist air entry tax plan - MSN",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNWVEX2gyQy1DcHpBOFpjaGkzYklEam5IdzNVUGtSRzY2ZjVKc3l2elBZZjRQRnJxZFlCMEI3NFpoSDRtSlFMRk05Z1ZEdVNKLWdveDBZZWxoWDBQWlE0ODdMNHJxQm1TbElWTFBFOWpfaER5aGRNN3FoX3oxajBvZFczNVV6aHFaZ3JLYndUTW9LZDFXbnZHdnF6SEtWUFRiUEthWEVORGw5bXJFemc5a285NW0zaUdwR0xnQnJKMWVER2ptWnctaHd6d0podw?oc=5",
+          "source": "MSN",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "태국, 항공 여행객 대상 관광세 도입 계획",
+      "summary": "- 태국이 항공 여행객에게 관광세 도입을 계획 중입니다.\n- 정확한 세금 액수와 시행 시기는 아직 발표되지 않았습니다.\n- 관광 수입 증대 및 관광 인프라 개선에 사용될 것으로 예상됩니다.",
+      "full_translated": "태국은 항공 여행객에게 관광세 도입을 계획하고 있습니다. 자세한 내용은 아직 발표되지 않았습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "태국 입국 시 발생하는 비용 관련 정보이므로 여행객에게 중간 정도의 영향이 있다고 판단.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Thailand plans to introduce a tourist entry fee for air travellers - The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb1kxZ1Y0dEdQaWdVbDc5akEwcnplNUU2R0NEV3kxdm5fU0ZWbXFRRk1taGh5VDQ0dWFuVmx3VFRnSWc0VUc4cHFGdVpZQlNUV3lpOVZ4MmZoOHpDQURxeld1RTdQaWllOUd4U1VhYV82aVM2aXh3NHhoZ28xSWwwX0FGLW90aFF0dDF1OTQwTHItMG1kM3BMR09GaXVTVHE5MkNkS2V1dHppdF9ET1daNXdBT1BYMHNGMEVSNVZtQkJtcUw2VUN1TnZn0gHPAUFVX3lxTE1XZWVOQU1MUHZXb3hzY0xZSjBXNllmS1diVXFGdExUbHNFdExUUUJsVF96VUdINC1fQjkya1Bkb0FIbGo0RGs0NDUtRWVGWWJNOHJLNEVqdzdVOS1INnpEZ2xJLXM5TXp5a1R1M2hjRk96OW5pZC1DbG9EazA5VVYtTkhTSzFhRTFoa215Unh6MGhSbDFSOFo3SXZaUXZxX3dKQUlPaGJfdFZNNEt5b2pDWXFmb1g1QzM1Si10Wi1Ya1JLZlZhMm8wTlRseEo0bw?oc=5",
+          "source": "The Economic Times",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "태국, 중국 관광 재건 및 지속 가능한 성장을 위한 “Trusted Thailand” 전략 상하이에서 시작",
+      "summary": "- 태국이 중국 관광객 유치를 위해 상하이에서 “Trusted Thailand” 전략을 시작했습니다.\n- 이 전략은 태국의 신뢰도를 높이고 지속 가능한 성장을 촉진하는 데 목표를 두고 있습니다.\n- 구체적인 내용은 Travel And Tour World에서 확인할 수 있습니다.",
+      "full_translated": "태국이 중국 관광 재건 및 지속 가능한 성장을 위해 상하이에서 “Trusted Thailand” 전략을 시작했습니다. Travel And Tour World",
+      "category": "TRAVEL",
+      "tourist_impact_score": 6,
+      "impact_reason": "중국 관광객 유치를 위한 새로운 전략 발표는 태국 여행 산업에 영향을 미치므로 여행 관련 정보로 분류.",
+      "event_info": {
+        "date": null,
+        "location": "상하이",
+        "price": null,
+        "location_google_map_query": "상하이"
+      },
+      "references": [
+        {
+          "title": "Thailand Launches “Trusted Thailand” Strategy in Shanghai to Rebuild China Tourism and Drive Sustainable Growth - Travel And Tour World",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYnBIa0RWYlZGbXVobmkwbHE5ZWdTZFRqbS1zOWVhNGJtNXVLM0tVeEI0UnR3VGxpS3lJWFZBRHZLbVhMSWpPbm1DVDFpczZGWlZJZFVhOUJnenE4eUJfTDNUSm12X3FzeHhSWkk0a19xZmVIS0dYX3ViS0Fnc3pyMHJPSmNQMDY2NVFpRm0zRWM4WlU1VzFoVEFPX1laZ25ld0RGeHQ0T3FmajlYRlRyVm5MUmpBY1pKa2ZJMnFDY3R0TVNXSnFuQXVxVFZxX0FrcW50aVhvakZtUjFpdUtyUm5qYTgxQmVvV09GSVJZTQ?oc=5",
+          "source": "Travel And Tour World",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "2025년 이스라엘 관광객 데이터, 태국으로의 대규모 탈출로 오도 - AFP Fact Check",
+      "summary": "- 2025년 이스라엘 관광객 데이터가 태국으로의 대규모 이주를 나타내는 것처럼 잘못 표현되었습니다.\n- AFP Fact Check에서 해당 주장을 조사했습니다.\n- 정확한 정보 확인이 필요합니다.",
+      "full_translated": "2025년 이스라엘 관광객 데이터가 태국으로의 대규모 탈출로 오도되었다는 AFP Fact Check 기사입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "태국 관광 관련 정보이므로 여행객들에게 참고가 될 수 있지만, 오도된 정보에 대한 팩트체크 기사이므로 중간 점수 부여.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "Israeli tourist data from 2025 misrepresented as mass exodus to Thailand - AFP Fact Check",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4aDFUVG0zc1k3NG5qS0ZpN0EzdDhRc3o5Tkd5ZEFLZzF1YmFPWGlHTzVpMlZKdkRhaWNyZjFFMDY0b2NQT3RSazR0WHBMUWtrR2xhTi1wWTQ?oc=5",
+          "source": "AFP Fact Check",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
+      "date": "2026-03-31"
+    },
+    {
+      "title": "태국 관광청, 지속 가능한 관광을 위해 단거리, 저에너지 여행 지원",
+      "summary": "- 태국 관광청(TAT)은 지속 가능한 관광을 위해 단거리 및 저에너지 여행을 지원합니다.\n- 이는 환경에 미치는 영향을 최소화하면서 지역 사회를 지원하는 것을 목표로 합니다.\n- 구체적인 지원 방안 및 대상은 기사에서 더 자세히 확인할 수 있습니다.",
+      "full_translated": "태국 관광청은 지속 가능한 관광을 위해 단거리, 저에너지 여행을 지원합니다. Nation Thailand",
+      "category": "TRAVEL",
+      "tourist_impact_score": 4,
+      "impact_reason": "여행 트렌드 변화에 대한 정보 제공. 지속 가능한 여행에 관심 있는 여행자에게 유용할 수 있음.",
+      "event_info": {
+        "date": null,
+        "location": null,
+        "price": null,
+        "location_google_map_query": null
+      },
+      "references": [
+        {
+          "title": "TAT backs short-haul, low-energy travel for sustainable tourism - Nation Thailand",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UeG5RbFFTS3pVbGZ0Um95RlNHUWxKMlhKYUJtY1FMNWc0WlEzMG1pVU82NHBoZXdJWkNJTkpOUy02dkRVOWE3YTZVNFJvOVA1ZC04dDA3R0xQNkhWVEFRTWtYLThISDMtb3c?oc=5",
+          "source": "Nation Thailand",
+          "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+        }
+      ],
+      "collected_at": "04:34",
+      "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw",
       "date": "2026-03-31"
     }
   ]
