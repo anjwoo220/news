@@ -4,6 +4,7 @@ feedparser
 requests
 beautifulsoup4
 Pillow
+pytz
 
 plotly
 pandas
