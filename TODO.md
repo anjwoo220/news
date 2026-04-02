@@ -1,34 +1,22 @@
-# Backlog & Roadmap (TODO)
+# TODO: Project Backlog
 
-Prioritized tasks for the Thai Today repository.
+## 🔴 Now (우선순위 높음)
+- [ ] **Context 운영 체제 구축:** Codex 및 AI 에이전트가 흐름을 잃지 않도록 `AGENTS.md` 등 문서 관리 자동화.
+- [ ] **흩어진 스크립트 정리:** `debug_*.py`, `test_*.py` 파일들을 별도 폴더(`scripts/`, `tests/`)로 이동하여 루트 환경 정리.
+- [ ] **백업 파일 정리:** `app.py.bak` 등 수동 백업 파일을 아카이브 폴더로 이동하거나 정리.
 
-## 🔴 Now (High Priority)
-- [ ] **Repository Cleanup**: Move one-off scripts (`check_*.py`, `debug_*.py`, `migrate_*.py`, etc.) into a `/research` or `/scripts/one_off` directory.
-- [ ] **Fix/Audit Clutter**: Inspect `app.py.bak` files and archive them properly.
-- [ ] **Refactor `app.py`**: The main app file is becoming too large (250KB+). Extract tab-specific logic into separate modules (e.g., `tabs/news.py`, `tabs/jobs.py`).
+## 🟡 Next (단기 과제)
+- [ ] **정식 테스트 도입:** `pytest` 등을 사용하여 `utils.py`와 `batch_job.py`의 핵심 로직 테스트 파이프라인 구축.
+- [ ] **CI/CD 고도화:** GitHub Actions를 활용한 자동 린트 및 배포 전 검증 로직 추가.
+- [ ] **AI 분석 고도화:** 팩트체크 분석 시 이미지 인식(Vision) 기능을 추가하여 메뉴판 분석 정확도 향상.
 
-## 🟡 Next (Medium Priority)
-- [ ] **Job Filtering Enhancement**: Further filter job posts that have "Unknown" descriptions or broken URLs from KyominThai.
-- [ ] **Image Fallbacks**: Improve the news thumbnail fallback system to use more diverse Thai travel images.
-- [ ] **Premium Access Logic**: Finalize the Admin UI and Webhook API for managing premium user access (as identified in recent conversation context).
+## 🟢 Later (장기 과제)
+- [ ] **사용자 로그인 시스템:** 구글 계정 연동을 통한 즐겨찾기(호텔, 맛집) 저장 기능.
+- [ ] **실시간 푸시 알림:** 태국 긴급 뉴스나 환율 급변 시 알림 발송 기능.
+- [ ] **수익 채널 다각화:** 현지 업체와의 직접 제휴를 통한 쿠폰 서비스.
 
-## 🟢 Later (Low Priority / Future)
-- [ ] **Native Mobile App**: Consider a Flutter or React Native wrapper for better push notification support.
-- [ ] **Expansion**: Add more Thai regions (Chiang Mai, Phuket) specific news/job channels.
-- [ ] **Multi-provider AI**: Add support for Claude or GPT-4o as fallback summarizers.
+## ⚪ Blocked (지연됨)
+- [ ] (현재 없음)
 
-## ⚪ Blocked / On Hold
-- [ ] **Google News Source Safeguards**: Currently limited by Google News RSS formatting; waiting for better scraping techniques for missing source labels.
-
-## Session Handoff
-- **2026-03-16 Now**: Viewer UI redesigned around a unified app shell, simplified primary navigation, refreshed editorial card styling, fixed the THB/KRW exchange-rate fetch, and gated batch news updates so `data/news.json` is not written when Google Sheets sync fails.
-- **2026-03-16 Next**: Validate the redesigned layout across the remaining high-traffic tabs (`뉴스`, `호텔`, `맛집`), continue reducing page-specific inline CSS, and investigate why the production news workflow is updating JSON while the `news` Google Sheet remains stuck at `2026-03-13`.
-- **2026-03-17 Now**: Reviewed the tiered news caching proposal against the current loaders and save path. Main risks identified were duplicate cache divergence, Streamlit cache invalidation gaps, and preserving 8-30 day lookups while introducing `latest_news.json`.
-- **2026-03-17 Next**: If implemented, add `latest_news.json` as a physically separate 7-day cache, make `load_news_data()` key off file mtimes, keep `news.json` as the 30-day cache for date lookups, and verify the cold-load / stale-cache / archive fallback paths with timing measurements.
-- **2026-03-17 Now**: Investigated why Buddhist Era years still appear in news translations. Root cause is not the absence of `convert_thai_year()`, but that the main Gemini news pipeline saves Korean outputs without a year-normalization pass, while the fallback translator and cleanup script only react to Thai script, not wrong Korean years like `2069`.
-- **2026-03-17 Next**: Add a shared post-processing sanitizer for `title` / `summary` / `full_translated` / `event_info.date` that converts Thai Buddhist years and rejects impossible future years like `2069`, then run a one-time cleanup over `data/latest_news.json`, `data/news.json`, `data/archive_news.json`, and the `news` sheet.
-- **2026-03-17 Now**: Added a shared year sanitizer to the news translation pipeline, wired it into Gemini prompts, post-processing, cache reads/writes, and the cleanup script, then cleaned local `latest/main/archive` JSON caches so `2069/2569/B.E./พ.ศ.` remnants dropped to zero locally.
-- **2026-03-17 Now**: Ran a one-time raw Google Sheets cleanup using the same sanitizer and rewrote the `news` worksheet after detecting 1,775 stale `2069/2569/B.E./พ.ศ.` cases. The verified sheet now reports 9,915 rows with latest date `2026-03-17`.
-- **2026-03-17 Next**: After deployment completes, spot-check several previously affected dates (`2026-02-12`, `2026-02-21`, `2026-02-23`, `2026-02-25`, `2026-03-06`) in the live UI and confirm no Buddhist-era artifacts remain in summaries or full article text.
-- **2026-03-22 Now**: Implemented Open Graph (OG) tags injection dynamically into Streamlit's `index.html` to fix the issue where social media link previews only displayed "streamlit". Added `inject_og_tags` in `utils.py` with a high-quality Thai photo and "오늘의 태국🇹🇭" title, and called it in `app.py`.
-- **2026-03-22 Next**: Deploy the changes to Streamlit Community Cloud and verify the link preview thumbnail and title on KakaoTalk or Slack.
+---
+*Last Updated: 2026-03-16*

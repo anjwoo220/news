@@ -1,28 +1,25 @@
-# AI Agent Working Rules
+# AGENTS: Working Rules & Continuity
 
-This document provides persistent context and operating rules for AI agents (Codex, Antigravity, etc.) working on this repository to ensure continuity and prevent regression.
+이 문서는 미래의 Codex 세션이나 AI 에이전트가 프로젝트 컨텍스트를 즉시 이해하고 일관성 있게 작업을 이어가기 위한 지침입니다.
 
-## 1. Minimal Destructive Edits
-- **Rule**: Do not delete files or refactor large chunks of code without explicit confirmation.
-- **Reason**: The root directory contains many "active" scripts for migration and data recovery. Moving them is preferred over deletion.
+## 1. 운영 원칙 (Core Principles)
+- **연속성 유지:** 새로운 기능을 개발하기 전 반드시 `DECISIONS.md`와 `TODO.md`를 읽고 현재 진행 상황을 파악한다.
+- **파괴적 수정 지양:** 기존의 Streamlit Custom CSS나 GSheets 연결 구조를 대대적으로 변경할 때는 반드시 사용자 확인을 거친다.
+- **문서 동기화:** 코드의 중요한 변경사항이 발생하면 `DECISIONS.md`나 `TODO.md`를 즉시 업데이트한다.
 
-## 2. Documentation First
-- **Rule**: Before making functional changes, update `DECISIONS.md` or `TODO.md` if the change affects architecture or long-term goals.
-- **Rule**: When adding a new tab or feature to `app.py`, update `PROJECT_OVERVIEW.md`.
+## 2. 코드 스타일 및 패턴 (Patterns)
+- **UI 수정:** Streamlit 기본 컴포넌트보다는 `utils.py`에 정의된 `t()` 함수를 통한 다국어 처리와 HTML/CSS 주입 방식을 우선적으로 사용한다.
+- **데이터 접근:** 직접적인 API 호출보다는 `db_utils.py`에 정의된 래퍼 함수를 사용하여 데이터 일관성을 유지한다.
+- **백업 정책:** 중요한 파일을 대폭 수정할 경우 기존 파일을 삭제하기보다 `.bak` 접미사를 붙여 보존한다 (단, 정기적으로 정리 필요).
 
-## 3. Localization Guardrails
-- **Rule**: Always preserve the "Thai Today" tone (helpful, travel-focused, professional).
-- **Rule**: Follow the specific translation rules in `utils.py` regarding political parties and Buddhist years.
-- **Rule**: Output must maintain Korean as the primary display language.
+## 3. Codex 협업 규칙
+- **변경 전 브리핑:** 에이전트는 작업을 시작하기 전 "이해한 내용"과 "수행할 작업 목록"을 명확히 제시한다.
+- **주석 준수:** 코드를 작성할 때 복잡한 로직(특히 CSS 인젝션이나 정규식)에는 상세한 한국어/영어 주석을 병기한다.
+- **성능 고려:** Streamlit의 실행 모델(파일 변경 시 전체 재실행)을 고려하여 `@st.cache_data`를 적극 활용한다.
 
-## 4. Secret & Credential Handling
-- **Rule**: Never hardcode API keys or GSheets service account JSONs.
-- **Rule**: Use `st.secrets` or environment variables. Credentials for the service account are stored in `.json` files at the root (be careful not to expose them).
+## 4. 프로젝트 특이사항
+- 이 프로젝트는 **비용 0원(Serverless)**을 지향한다. 인프라 비용이 발생하는 외부 서비스 도입은 지양한다.
+- UI Aesthetics는 이 프로젝트의 상징이다. 모든 컴포넌트는 visual excellence를 유지해야 한다.
 
-## 5. Continuity Checklist
-- **Context Awareness**: Before starting work, read `PROJECT_OVERVIEW.md` and `DECISIONS.md`.
-- **Sync Safety**: When modifying news processing, always test the synchronization between local `data/news.json` and Google Sheets.
-- **Streamlit Specifics**: Use `@st.cache_data` and `@st.cache_resource` wisely to avoid unnecessary API calls to Google Sheets/Gemini.
-
-## 6. Handoff Protocol
-- At the end of a session, update `TODO.md` with "Now/Next" items to accurately reflect what was finished and what is still pending.
+---
+*Last Updated: 2026-03-16*

@@ -1,57 +1,39 @@
-# Architectural Decisions Record
+# Architectural & Product Decisions
 
-This document records the key architectural and product decisions made during the development of Thai Today.
+이 문서는 프로젝트의 주요 설계 및 제품 결정을 기록합니다.
 
-## 1. Google Sheets as Primary Database
-- **Status**: Decided
-- **Context**: Needed a low-latency, free, and human-readable/editable database for news and job listings.
-- **Decision**: Use Google Sheets via `streamlit-gsheets` connection.
-- **Consequence**: Data is easily accessible via Google Sheets UI for manual fixes, but large datasets (e.g., >10MB local cache) require careful synchronization logic (`db_utils.py`).
+## 1. 아키텍처 결정 (Architectural Decisions)
 
-## 2. Gemini for Localization and Summarization
-- **Status**: Decided
-- **Context**: Content is largely in Thai/English, while target users are Korean. Traditional translation is often inaccurate for local context (e.g., political party names).
-- **Decision**: Use Gemini (1.5 Flash / 2.0 Flash) with recursive prompts and specific translation rules (e.g., 'People's Party' -> '국민당').
-- **Consequence**: High quality, context-aware translation; dependent on Gemini API availability and cost management.
+### 1.1. Serverless & Database-less (GSheets)
+- **결정:** 별도의 RDBMS 없이 Google Sheets를 메인 데이터베이스로 사용.
+- **이유:** 서버 유지 비용을 0으로 유지하고, 비개발자(관리자)도 데이터를 쉽게 확인하고 수정할 수 있도록 함.
+- **추론(Inferred):** 초기 MVP 단계에서 빠른 데이터 조작과 비용 절감을 우선순위로 둠.
 
-## 3. GitHub Actions for Scheduled Tasks
-- **Status**: Decided
-- **Context**: Need real-time news and job updates without a dedicated 24/7 server.
-- **Decision**: Use GitHub Actions for periodic crawling and AI processing.
-- **Consequence**: "Serverless" automation; processing is restricted by GitHub runner limits and job frequencies.
+### 1.2. 하이브리드 캐싱 전략 (Hybrid Caching)
+- **결정:** Google Sheets 연동의 느린 속도를 보완하기 위해 로컬 JSON 저장소와 `@st.cache_data`를 병행 사용.
+- **이유:** Streamlit Cloud 환경에서 API 호출 횟수를 줄이고 응답 속도를 극대화하기 위함.
 
-## 4. Local JSON for Caching
-- **Status**: Decided
-- **Context**: GSheets API can be slow or encounter limits on frequent reads.
-- **Decision**: Store a flattened version of recent data in `data/news.json` for the Streamlit app to read near-instantly.
-- **Consequence**: Fast UI performance; requires robust sync between the local cache and GSheets source of truth.
+### 1.3. UI 고도화와 Streamlit 제한 우회
+- **결정:** Streamlit의 기본 UI를 대폭 수정하기 위해 `utils.py` 내 `load_custom_css` 및 HTML 인젝션을 사용.
+- **이유:** 일반적인 Streamlit 앱처럼 보이지 않게 하여 프리미엄 웹 서비스 느낌을 주기 위함 (Glassmorphism, Royal Gold 테마 적용).
 
-## 5. Standardized News Categories
-- **Status**: Decided
-- **Context**: Different news sources use varying tags.
-- **Decision**: Normalize everything into `POLITICS`, `BUSINESS`, `TRAVEL`, `LIFESTYLE`.
-- **Consequence**: Simplified UI filtering for travelers.
+### 1.4. AI 모델 선정 (Gemini 1.5 Flash)
+- **결정:** 뉴스 요약 및 리뷰 분석에 Gemini 1.5 Flash 모델 사용.
+- **이유:** 대량의 컨텍스트를 저렴하고 빠르게 처리하기에 최적화된 선택.
 
-## 6. Political Party Translation (Specific)
-- **Status**: Decided
-- **Context**: 'People's Party' was being translated to '국민의힘' (Korean party) instead of '국민당'.
-- **Decision**: Forced Gemini to use '국민당' through specific prompt constraints.
-- **Consequence**: Accurate representation of Thai political landscape in the Korean app.
+## 2. 제품 결정 (Product Decisions)
 
-## 7. Korean-First Editorial UI System
-- **Status**: Decided
-- **Context**: The viewer experience had grown inconsistent due to mixed font systems, duplicated navigation patterns, and fragmented inline/CSS styling across the app.
-- **Decision**: Standardize the viewer UI around a Korean-first editorial design system with a unified app shell, simplified primary navigation, shared card styling, and centralized visual tokens in `style.css`.
-- **Consequence**: The product feels more coherent and easier to maintain visually, while future UI work should prefer extending shared styles/components instead of adding more page-specific inline CSS.
+### 2.1. 다국어 지원 방식
+- **결정:** 사용자의 브라우저 Accept-Language 헤더를 탐지하여 한국어/영어 자동 전환.
+- **이유:** Travelpayouts 리뷰어 및 글로벌 사용자 대응 목적.
 
-## 8. Fail Closed on News Sync Mismatch
-- **Status**: Decided
-- **Context**: The news update pipeline was able to commit refreshed `data/news.json` even when Google Sheets sync did not advance, causing local/deployed behavior to diverge depending on which data source was used.
-- **Decision**: Treat Google Sheets persistence as a required gate in the batch news job. If saving to Sheets fails, abort before writing the local JSON cache so the pipeline fails closed instead of publishing partial state.
-- **Consequence**: News updates are less likely to drift between JSON cache and GSheets, and sync failures should surface immediately in automation instead of becoming silent data inconsistencies.
+### 2.2. 수익화 지점 (Affiliate-First)
+- **결정:** 별도의 유료 결제 기능을 구현하는 대신 Klook, Agoda 등 제휴사 예약 링크를 서비스 곳곳에 자연스럽게 배치.
+- **이유:** 결제 시스템 유지 관리 부담을 줄이면서 수익을 창출하기 위함.
 
-## 9. Fail-Safe Year Normalization for Thai News
-- **Status**: Decided
-- **Context**: Thai news sources often use Buddhist Era years (`25xx`, `พ.ศ.`, `B.E.`), and Gemini occasionally mistranslated them into incorrect future Gregorian years like `2069`, which then leaked into cached/localized Korean news.
-- **Decision**: Enforce a shared Python-side year sanitizer across the news pipeline. Gemini prompts should still instruct year conversion, but localized news must also pass through deterministic post-processing before being cached, displayed, or written back to Google Sheets/JSON.
-- **Consequence**: Date localization becomes more reliable even when model output drifts, and old cached articles can be repaired with the same sanitizer instead of relying on prompt quality alone.
+### 2.3. SEO 및 분석 도구 강제 주입
+- **결정:** Streamlit이 공식적으로 지원하지 않는 Head 영역에 GA4 및 메타 태그를 JavaScript를 통해 강제 삽입.
+- **이유:** 마케팅 성과 추적 및 검색 엔진 노출이 프로젝트 성장에 필수적임.
+
+---
+*Last Updated: 2026-03-16*
