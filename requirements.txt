@@ -12,3 +12,5 @@ st-gsheets-connection
 googlesearch-python
 gspread
 oauth2client
+pytz
+toml

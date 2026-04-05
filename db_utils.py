@@ -459,15 +459,100 @@ def save_news_to_sheet(news_data_dict, worksheet="news"):
         print(f"Error saving news to sheet: {e}")
         return False
 
-def append_news_items_to_sheet(new_items_list, worksheet="news"):
+def append_news_to_sheet(new_items_list, worksheet="news"):
     """
-    Appends a list of news items (dicts) to the sheet.
-    Useful for crawlers to add without reading everything first?
-    Actually, 'update()' overlaps. 'write()' overwrites.
-    st-gsheets-connection usually does overwrite on 'update' if passed full DF.
-    To append, we assume we might need to Read -> Append -> Write.
+    [APPEND ONLY] Appends a list of news items (dicts) to the bottom of the worksheet.
+    Efficiently handles growing data without full sheet overwrites.
     """
-    # For safety/simplicity in this app (data size < 10k rows), 
-    # Read-Modify-Write is safer to maintain consistency.
-    # So we can just use load -> append in memory -> save.
-    pass
+    if not new_items_list:
+        return True
+
+    conn = get_db_connection()
+    if not conn:
+        return False
+
+    try:
+        # 1. Access the underlying gspread client via conn.client
+        # Streamlit-gsheets wraps the GSheetsServiceAccountClient
+        gs_client = conn.client._client
+        ss = gs_client.open_by_url(SPREADSHEET_URL)
+        ws = ss.worksheet(worksheet)
+        
+        # 2. Get headers to ensure correct column alignment
+        headers = ws.row_values(1)
+        if not headers:
+            # Fallback headers if sheet was somehow totally cleared
+            headers = ["title", "summary", "full_translated", "category", "tourist_impact_score", "impact_reason", "event_info", "references", "collected_at", "image_url", "date", "link", "source"]
+
+        # 3. Map dict items to row lists
+        rows_to_append = []
+        for item in new_items_list:
+            row = []
+            for h in headers:
+                val = item.get(h, "")
+                # Handle nested dicts/lists for GSHEETS (convert to JSON string)
+                if isinstance(val, (dict, list)):
+                    val = json.dumps(val, ensure_ascii=False)
+                elif pd.isna(val):
+                    val = ""
+                row.append(val)
+            rows_to_append.append(row)
+
+        # 4. Perform append operation
+        if rows_to_append:
+            # value_input_option='USER_ENTERED' allows formulas and numeric conversion
+            ws.append_rows(rows_to_append, value_input_option='USER_ENTERED')
+            print(f"Successfully appended {len(rows_to_append)} rows to worksheet '{worksheet}'.")
+            
+        # 5. Clear Streamlit Cache to force reload next time
+        st.cache_data.clear()
+        return True
+
+    except Exception as e:
+        print(f"Error appending news to sheet: {e}")
+        return False
+
+def update_local_caches_with_new_topics(new_topics, date_str):
+    """
+    [APPEND ONLY] Syncs new topics into local JSON caches without full sheet downloads.
+    Keeps Latest (7d) and Main (30d) tiers updated.
+    """
+    for file_path, limit_days in [(LATEST_NEWS_CACHE, 7), (LOCAL_NEWS_CACHE, 30)]:
+        try:
+            # Load existing
+            if os.path.exists(file_path):
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    try:
+                        data = json.load(f)
+                    except:
+                        data = {}
+            else:
+                data = {}
+            
+            if not isinstance(data, dict): data = {}
+            
+            # Ensure day key exists
+            if date_str not in data:
+                data[date_str] = []
+            
+            # Simple title-based deduplication per day
+            existing_titles = {t.get('title') for t in data[date_str]}
+            added_count = 0
+            for t in new_topics:
+                if t.get('title') not in existing_titles:
+                    data[date_str].append(utils.sanitize_news_topic(t))
+                    added_count += 1
+            
+            # Trim to prescribed limits
+            cutoff = (datetime.now() - timedelta(days=limit_days)).strftime("%Y-%m-%d")
+            recent_data = {k: v for k, v in data.items() if k >= cutoff}
+            
+            # Save back
+            os.makedirs(os.path.dirname(file_path), exist_ok=True)
+            with open(file_path, 'w', encoding='utf-8') as f:
+                json.dump(recent_data, f, ensure_ascii=False, indent=2)
+                
+            print(f"Cache {os.path.basename(file_path)} updated: +{added_count} items (Limit {limit_days}d)")
+                
+        except Exception as e:
+            print(f"Error updating local cache {file_path}: {e}")

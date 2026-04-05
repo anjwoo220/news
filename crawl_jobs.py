@@ -813,7 +813,7 @@ def summarize_with_gemini(jobs, api_key):
             # 실패 시 기존 크롤링 기본값 유지
 
         summarized.append(job)
-        time.sleep(1)  # Gemini rate limit 고려
+        time.sleep(12)  # Gemini rate limit 고려 (1s는 너무 짧아 429 발생 가능)
 
     return summarized
 
@@ -823,18 +823,36 @@ def summarize_with_gemini(jobs, api_key):
 # ============================================================
 
 def get_gsheet_client():
-    """Streamlit secrets.toml 또는 환경변수에서 인증 정보 로드"""
-    # 1) 환경변수 방식 (GitHub Actions)
-    creds_json = os.environ.get("GOOGLE_CREDENTIALS_JSON")
+    """로드 우선순위: Streamlit secrets.toml -> 환경변수(GOOGLE_CREDENTIALS_JSON) -> 로컬 JSON"""
+    creds_json = None
+    
+    # 1) Streamlit secrets.toml 로드 시도 (GSheets Connection 설정 공유)
+    try:
+        import streamlit as st
+        # update_news 워크플로우와 동일한 APP_SECRETS 내 키 구조 사용
+        creds_dict = st.secrets.get("connections", {}).get("gsheets_news", {})
+        if creds_dict and "type" in creds_dict:
+            creds_json = json.dumps(dict(creds_dict))
+            print("  [GSheets] Using credentials from Streamlit secrets.")
+    except Exception as e:
+        pass
+
+    # 2) 환경변수 방식 (하위 호환성)
+    if not creds_json:
+        creds_json = os.environ.get("GOOGLE_CREDENTIALS_JSON")
+        if creds_json:
+            print("  [GSheets] Using credentials from GOOGLE_CREDENTIALS_JSON env.")
+
     if creds_json:
         import tempfile
         with tempfile.NamedTemporaryFile(mode="w", suffix=".json", delete=False) as f:
             f.write(creds_json)
             creds_path = f.name
     else:
-        # 2) 로컬 JSON 파일 방식
+        # 3) 로컬 JSON 파일 방식
         creds_path = os.path.join(os.path.dirname(__file__),
                                   "board-484107-65691b0765f5.json")
+        print(f"  [GSheets] Using local credential file: {os.path.basename(creds_path)}")
 
     scope = [
         "https://spreadsheets.google.com/feeds",

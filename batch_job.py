@@ -14,7 +14,7 @@ LATEST_NEWS_CACHE = 'data/latest_news.json'
 ARCHIVE_NEWS_CACHE = 'data/archive_news.json'
 PROCESSED_URLS_FILE = 'data/processed_urls.json'
 EVENTS_FILE = 'data/events.json'
-from db_utils import SPREADSHEET_URL, load_news_from_sheet, save_news_to_sheet, write_news_caches
+from db_utils import SPREADSHEET_URL, load_recent_news, append_news_to_sheet, update_local_caches_with_new_topics
 
 def load_json(file_path):
     if os.path.exists(file_path):
@@ -114,59 +114,23 @@ def main():
     
     # 3. Filter Duplicates (Strict Check + Similarity)
     recent_titles = []
-    # Load current news from GSheets
-    current_news = load_news_from_sheet()
+    # Load recent news from GSheets for deduplication (3 days is enough and fast)
+    current_news = load_recent_news(days=3)
     
-    if isinstance(current_news, dict):
-        if current_news:
-            known_dates = sorted(current_news.keys())
-            total_loaded_rows = sum(len(items) for items in current_news.values())
-            print(
-                f"Google Sheets load status: {len(known_dates)} dates, "
-                f"{total_loaded_rows} rows, range {known_dates[0]} -> {known_dates[-1]}"
-            )
-
-            # --- [STRICT SAFETY CHECK] ---
-            # Compare GSheets data against our local snapshots (Main 30d + Archive)
-            local_main = load_json(NEWS_FILE)
-            local_archive = load_json(ARCHIVE_NEWS_CACHE)
-            
-            # Merged count of local known data
-            local_total = 0
-            if isinstance(local_main, dict): local_total += sum(len(v) for v in local_main.values())
-            if isinstance(local_archive, dict): local_total += sum(len(v) for v in local_archive.values())
-            
-            # 1. Total Row Count Check: Must not drop significantly
-            if local_total > 5000 and total_loaded_rows < (local_total * 0.9):
-                print(f"CRITICAL ABORT: GSheets rows({total_loaded_rows}) is < 90% of local known data({local_total}).")
-                print("Likely a connection error or partial read. Aborting to prevent data loss.")
-                return
-            
-            # 2. Hard Minimum Check (Safety floor)
-            if total_loaded_rows < 9000:
-                print(f"CRITICAL ABORT: GSheets rows({total_loaded_rows}) is below safety floor (9000).")
-                return
-
-        else:
-            # Sheet is completely empty
-            local_main = load_json(NEWS_FILE)
-            if local_main and len(local_main) > 0:
-                print("CRITICAL ABORT: GSheets returned EMPTY while local cache has data. Aborting.")
-                return
-            print("WARNING: Google Sheets is empty, and local cache is also empty. Proceeding with fresh start.")
+    if isinstance(current_news, dict) and current_news:
+        known_dates = sorted(current_news.keys())
+        print(f"Loaded {len(known_dates)} days of recent news for deduplication.")
 
         # 3-Day Comparison Window for Duplicate Prevention
-        # (Checking more than just the latest day to prevent duplicates across date boundaries)
-        recent_dates = sorted(current_news.keys(), reverse=True)[:3]
+        recent_dates = sorted(current_news.keys(), reverse=True)
         for r_date in recent_dates:
             for topic in current_news[r_date]:
                 recent_titles.append(topic['title'])
                 for ref in topic.get('references', []):
                     if isinstance(ref, dict) and ref.get('title'):
                         recent_titles.append(ref['title'])
-                    elif isinstance(ref, str):
-                         # If ref is just a URL string, we can't extract title lightly, but at least won't crash
-                         pass
+    else:
+        print("Warning: No recent news loaded or sheet is empty. Proceeding cautiously.")
 
     print(f"Loaded {len(recent_titles)} recent titles for similarity check.")
 
@@ -347,26 +311,16 @@ def main():
     today_str = now_bkk.strftime("%Y-%m-%d")
     current_time_str = now_bkk.strftime("%H:%M")
     
-    # Load current news (Expect Dict, fallback to empty dict if list/invalid)
-    current_news = load_news_from_sheet()
-    if current_news is None:
-        print("CRITICAL ERROR: Failed to load previous news. Aborting to prevent data loss.")
-        return
-        
-    if isinstance(current_news, list):
-        current_news = {} 
-        
-    if today_str not in current_news:
-        current_news[today_str] = []
-        
-    # Deduplicate against results already in GSheets for TODAY
-    existing_today_titles = {t['title'] for t in current_news[today_str]}
+    # Filter topics that didn't already exist for today
+    today_topics = current_news.get(today_str, [])
+    existing_today_titles = {t['title'] for t in today_topics}
+    
+    new_topics_to_save = []
     
     # Helper map: URL -> Image
     url_to_image = {item['link']: item.get('image_url') for item in target_items}
 
-    # Extract topics and append to today's list
-    new_topics_count = 0
+    # Extract topics and prepare for saving
     for topic in analysis_result.get('topics', []):
         utils.sanitize_news_topic(topic)
 
@@ -377,83 +331,59 @@ def main():
 
         # 2. Inject metadata
         topic['collected_at'] = current_time_str
-        
-        # 3. Reference & Source Guarantee
-        # If Gemini missed references, or they are empty, force-inject the original source
-        if not topic.get('references'):
-            # Find the original item to get link/source
-            # Try to match by topic's title (fuzzy if needed) or just use the first item if link is lost
-            # But better yet, analyze_news_with_gemini uses target_items sequentially
-            # Since we only send one item at a time in the loop now, we can match it back.
-            topic['references'] = []
-
-        # Find the original entry from all_news_items or target_items to get source/link
-        # We need to map the topic back to its original source item.
-        # Since analyze_news_with_gemini is called with target_items, let's try to match.
-        # Note: target_items were sent one by one in the loop inside analyze_news_with_gemini.
-        
-        # Actually, let's look at how references are handled in the storage loop.
-        # ref_link = topic.get('references', [{}])[0].get('url')
+        topic['date'] = today_str # Explicitly add date field for GSheets rows
         
         # [NEW SAFETY] Force original reference if missing
         if not topic.get('references'):
-             # If we can't find it, we'll try to find any item in target_items that matches title roughly
              for ti in target_items:
                  if difflib.SequenceMatcher(None, topic['title'].lower(), ti['title'].lower()).ratio() > 0.8:
                      topic['references'] = [{'title': ti['title'], 'url': ti['link'], 'source': ti['source']}]
                      break
 
-        # 4. Inject images into references AND lift first image to topic level (for card UI)
+        # 4. Inject images
         first_image = None
         for ref in topic.get('references', []):
             ref_url = ref.get('url')
-            # Ensure 'source' is not missing
             if not ref.get('source'):
-                 # Try to find source from all_news_items
                  for ti in all_news_items:
                      if ti['link'] == ref_url:
                          ref['source'] = ti['source']
                          break
             
             img = url_to_image.get(ref_url)
-            
-            # Fallback extraction if it missed earlier (e.g. revived items or failed scraping)
             if not img:
-                print(f"   -> Image missing for '{topic['title']}', attempting final extraction...")
                 entry = next((i for i in all_news_items if i['link'] == ref_url), None)
                 if entry:
                     img = get_image_from_entry(entry)
-                    url_to_image[ref_url] = img # Cache it
+                    url_to_image[ref_url] = img
             
             if img:
                 ref['image_url'] = img
                 if not first_image:
                     first_image = img
         
-        # If topic doesn't have an image, give it the first reference's image
         if 'image_url' not in topic and first_image:
             topic['image_url'] = first_image
             
-        current_news[today_str].append(topic)
+        new_topics_to_save.append(topic)
         existing_today_titles.add(topic['title'])
-        new_topics_count += 1
         
-    sheet_saved = save_news_to_sheet(current_news)
-    if not sheet_saved:
-        raise RuntimeError(
-            "CRITICAL ERROR: Failed to save news to Google Sheets. "
-            "Aborting before writing local news cache to prevent JSON/GSheets divergence."
-        )
+    if not new_topics_to_save:
+        print("No new unique topics to save for today.")
+    else:
+        # 5. [APPEND] to Google Sheets
+        sheet_saved = append_news_to_sheet(new_topics_to_save)
+        if not sheet_saved:
+            raise RuntimeError("CRITICAL ERROR: Failed to append news to Google Sheets.")
 
-    # Update all local caches (Latest 7d, Main 30d)
-    write_news_caches(current_news)
-    print(f"Saved {new_topics_count} new topics to Google Sheets and local caches under key '{today_str}'")
+        # 6. [APPEND] to local caches
+        update_local_caches_with_new_topics(new_topics_to_save, today_str)
+        print(f"Saved {len(new_topics_to_save)} new topics to Google Sheets and local caches.")
 
     # 7-1. Cross-post Travel News to Events
     # Filter for '여행/관광' category
     # 7-1. Cross-post "Strict Events" to Events Tab
-    # Now we only look for '축제/이벤트' which passed the strict verification in utils.py
-    strict_events = [t for t in current_news[today_str] if t.get('category') == '축제/이벤트']
+    strict_events = [t for t in new_topics_to_save if t.get('category') == '축제/이벤트']
     
     if strict_events:
         print(f"Found {len(strict_events)} STRICT events. Cross-posting to {EVENTS_FILE}...")
