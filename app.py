@@ -207,25 +207,26 @@ def load_news_data(mtime_key=0):
     Tiered news loader for instant cold start:
     1. Try Tier 1 (latest_news.json) - Ultra fast
     2. Try Tier 2 (news.json) - Fast 30-day cache
-    3. Fall back to GSheets if all local caches are empty or stale
+    3. Fall back to GSheets if all local caches are empty or stale (no news for today/yesterday)
     """
+    import pytz
+    now_bkk = datetime.now(pytz.timezone('Asia/Bangkok'))
+    today_str = now_bkk.strftime("%Y-%m-%d")
+    yesterday_str = (now_bkk - timedelta(days=1)).strftime("%Y-%m-%d")
+
     # --- Tier 1: Latest 7 Days ---
     latest_data = load_latest_news_cache()
     if latest_data:
-        # Check if "fresh enough" (contains today or yesterday)
-        import pytz
-        now_bkk = datetime.now(pytz.timezone('Asia/Bangkok'))
-        today_str = now_bkk.strftime("%Y-%m-%d")
-        yesterday_str = (now_bkk - timedelta(days=1)).strftime("%Y-%m-%d")
         if today_str in latest_data or yesterday_str in latest_data:
             return latest_data
 
-    # --- Tier 2: Main 30 Days (Fallback when latest is missing or stale) ---
+    # --- Tier 2: Main 30 Days ---
     main_data = load_local_news_cache(days=30)
     if main_data:
-        return main_data
+        if today_str in main_data or yesterday_str in main_data:
+            return main_data
     
-    # --- Tier 3: GSheets Fallback (Final resort) ---
+    # --- Tier 3: GSheets Fallback (Final resort for real-time fresh data) ---
     return load_recent_news(days=7)
 
 # --- Cached Wrappers for API Calls ---
