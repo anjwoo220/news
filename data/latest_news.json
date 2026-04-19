@@ -19125,6 +19125,52 @@
       "collected_at": "00:59",
       "date": "2026-04-20",
       "image_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300-rw"
+    },
+    {
+      "title": "치앙마이 빠이(Pai) 지역, 심각한 대기 오염으로 관광객 감소",
+      "summary": "- 치앙마이 빠이 지역이 심각한 대기 오염으로 인해 관광객이 감소하고 있습니다.\n- PM2.5 수치가 매우 높아 건강에 악영향을 미치고 있습니다.\n- 여행자들은 방문 시 건강에 유의해야 합니다.",
+      "full_translated": "치앙마이의 빠이 지역은 심각한 대기 오염으로 인해 관광객 감소를 겪고 있습니다. 높은 PM2.5 수치는 방문객의 건강에 심각한 위협을 제기합니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "대기 오염은 관광객 건강에 직접적인 영향을 미치므로 매우 중요합니다. 여행 계획에 영향을 줄 수 있는 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": "치앙마이 빠이 지역",
+        "price": null,
+        "location_google_map_query": "Pai, Chiang Mai"
+      },
+      "references": [
+        {
+          "title": "Tourist decline in Pai due to severe air pollution - Thaiger",
+          "url": "https://thethaiger.com/news/chiang-mai/tourist-decline-in-pai-due-to-severe-air-pollution",
+          "source": "Thaiger"
+        }
+      ],
+      "collected_at": "01:52",
+      "date": "2026-04-20"
+    },
+    {
+      "title": "펫차부리 산에서 고립된 관광객 5명 구조",
+      "summary": "- 펫차부리 산에서 길을 잃은 관광객 5명이 구조되었습니다.\n- 구조대는 험난한 지형으로 인해 어려움을 겪었습니다.\n- 모든 관광객은 안전하게 구조되었으며 건강 상태는 양호합니다.",
+      "full_translated": "펫차부리 산에서 길을 잃은 관광객 5명이 구조되었습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "관광객 안전 관련 사고이므로 중요합니다. 이전 뉴스에서 사고 발생을 알렸고, 현재는 구조 완료되었으므로 업데이트된 정보입니다.",
+      "event_info": {
+        "date": null,
+        "location": "펫차부리 산",
+        "price": null,
+        "location_google_map_query": "Phetchaburi Mountain"
+      },
+      "references": [
+        {
+          "title": "Five stranded tourists rescued from Phetchaburi mountain - Thaiger",
+          "url": "https://thethaiger.com/news/national/five-stranded-tourists-rescued-from-phetchaburi-mountain",
+          "source": "Thaiger"
+        }
+      ],
+      "collected_at": "01:52",
+      "date": "2026-04-20"
     }
   ]
 }
