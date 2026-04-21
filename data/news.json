@@ -59320,6 +59320,131 @@
       "collected_at": "00:53",
       "date": "2026-04-22",
       "image_url": "https://static.bangkokpost.com/media/content/20260421/c1_3241235_260421203701_700.jpg"
+    },
+    {
+      "title": "하네다 공항, 항공 교통 관제 시스템 결함으로 항공편 지연",
+      "summary": "- 도쿄 하네다 공항에서 항공 교통 관제 시스템 결함 발생.\n- 이로 인해 항공편 지연이 발생했으며, 많은 항공편의 운항 일정에 차질이 생김.\n- 시스템은 복구되었지만, 결함으로 인해 하네다 및 다른 공항에서 항공편 스케줄에 차질이 발생.",
+      "full_translated": "도쿄 하네다 공항에서 화요일 아침 항공 교통 관제 시스템에 결함이 발생하여 항공편이 지연되었다고 교통부가 밝혔습니다. \n\n오전 7시 15분경(태국 시간 오전 5시 15분)에 발생한 이 문제는 하네다의 비행 계획이 다른 공항으로 전송되는 것을 막은 것으로 보인다고 국토교통성이 밝혔습니다. \n\n약 15분 후 시스템이 복구되었지만 이 문제로 인해 하네다 및 다른 공항의 많은 항공편 일정이 차질을 빚었습니다. 전일본공수는 주로 하네다를 오가는 국내선 30편을 취소했으며, 일본항공은 오전 10시 현재 53편을 취소했습니다. 항공사에 따르면 취소로 인해 약 14,000명이 영향을 받았습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 7,
+      "impact_reason": "공항 시스템 결함으로 인한 항공편 지연은 여행객에게 직접적인 영향을 미치므로 높은 점수를 부여함. 특히 일본 여행을 계획 중인 여행객에게 중요한 정보임.",
+      "event_info": {
+        "date": "2026-04-21",
+        "location": "하네다 공항, 도쿄",
+        "price": "N/A",
+        "location_google_map_query": "하네다 공항"
+      },
+      "references": [
+        {
+          "title": "Haneda airport experiences traffic control glitch, flights delayed",
+          "url": "https://www.bangkokpost.com/world/3240885/haneda-airport-experiences-traffic-control-glitch-flights-delayed",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260421/c1_3240885_700.jpg"
+        }
+      ],
+      "collected_at": "01:59",
+      "date": "2026-04-22",
+      "image_url": "https://static.bangkokpost.com/media/content/20260421/c1_3240885_700.jpg"
+    },
+    {
+      "title": "깐타라롬 병원 구급차, 전봇대 충돌 사고로 간호사 중태",
+      "summary": "- 깐타라롬 병원 구급차가 환자 이송 중 전봇대에 충돌하는 사고 발생\n- 이 사고로 4명이 부상을 입었으며, 그중 간호사 1명이 중태에 빠짐\n- 사고 원인은 운전 부주의로 추정되며, 경찰이 정확한 경위를 조사 중",
+      "full_translated": "깐타라롬 병원 구급차가 환자를 이송하던 중 통제력을 잃고 도로변 전봇대를 들이받는 사고가 발생했습니다. 이 사고로 4명이 부상을 입었으며, 특히 간호사 1명의 상태가 심각합니다. 사고는 2026년 4월 21일 13시 30분경, 스리สะ껫-깐타라롬 도로 226번, 크라이팍디위타야콤 학교 앞에서 발생했습니다. 구급차는 스리สะ껫 병원으로 환자를 이송 중이었습니다.\n\n차량 전방 카메라에 찍힌 영상에 따르면, 깐타라롬 병원 구급차가 스리สะ껫 시내로 향하는 도로 우측 차선을 따라 주행하다가 갑자기 좌측으로 방향을 틀어 전봇대에 충돌했습니다. 이 사고로 운전자, 18세 환자, 15세 환자 가족은 경미한 부상을 입었지만, 환자 후방에 탑승하고 있던 간호사는 심각한 부상을 입었습니다. 의료진은 간호사의 내부 장기 손상과 골절을 확인했으며, 의식은 있지만 여전히 혼수상태입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 6,
+      "impact_reason": "사고 소식은 여행자 안전에 영향을 줄 수 있으며, 특히 병원 정보 확인에 필요할 수 있습니다. 다만, 특정 지역에 한정된 사고이므로 중간 점수를 부여합니다.",
+      "event_info": {
+        "date": "2026-04-21",
+        "location": "ศรีสะเกษ-กันทรารมย์ 도로 226번, 크라이팍디위타야콤 학교 앞",
+        "price": null,
+        "location_google_map_query": "크라이팍디위타야콤 학교"
+      },
+      "references": [
+        {
+          "title": "นาทีเกิดเหตุ รถตู้รีเฟอร์ รพ.กันทรารมย์ เสียหลักชนเสาไฟฟ้า พยาบาลอาการสาหัส",
+          "url": "https://www.thairath.co.th/news/local/2928021",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVlx3lgmFk1ks9Uy.jpg"
+        }
+      ],
+      "collected_at": "01:59",
+      "date": "2026-04-22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVlx3lgmFk1ks9Uy.jpg"
+    },
+    {
+      "title": "아유타야행 신규 통근 열차에 대한 엇갈린 반응",
+      "summary": "- 태국 국영 철도(SRT)는 돈므앙-아유타야 노선 신규 열차 시범 운행 시작\n- 온라인에서는 방콕 중심부 출발이 더 편리하고, 매일 운행해야 한다는 불만이 제기\n- 가장 저렴한 방콕-아유타야 열차 요금은 15바트, 신규 노선은 30~50바트",
+      "full_translated": "태국 국영 철도(SRT) 임원들이 돈므앙과 아유타야 역을 연결하는 새로운 지선에 대해 긍정적인 반응을 보였지만, 온라인에서는 비판적인 의견이 나왔습니다.\n\nSRT의 아난 포트님댕 총재 대행은 월요일 두 역 사이의 새로운 열차 노선 개통 미디어 투어에서 대표단을 이끌고 사진 촬영을 했습니다. 그러나 해당 기관의 페이스북 게시물에 대한 댓글은 새로운 열차 서비스가 통근자들에게 편리함과 비용 절감을 제공하여 이제 자동차를 집에 두고 다닐 수 있다는 주장에 모순됩니다.\n\nSRT는 월요일 돈므앙과 아유타야 간 평일 서비스 6개월 시범 운영을 시작했습니다. 제한된 정차로 각 방향으로 3대의 열차가 운행되며, 티켓은 거리에 따라 30 또는 50바트입니다. 열차는 동일본 철도 회사가 기증한 개조된 디젤 동차입니다.\n\n그러나 많은 온라인 댓글 작성자들은 이 서비스가 방콕 중심부, 즉 방콕역이나 크룽텝 아피왓에서 운행된다면 더 편리할 것이라고 지적하며 감명을 받지 못했습니다. '애우 룬'이라는 이름의 한 게시자는 '돈므앙에 가는 것은 불편하기 때문에 열차가 후아람퐁이나 크룽텝 아피왓에서 출발해야 합니다. 그리고 매일 운행해야 합니다.'라고 말했습니다.\n\n일부 사람들은 티켓 가격이 다른 지역 열차 가격의 두 배 이상인 고유가 시대에 이 새로운 서비스가 어떻게 사람들의 돈을 절약하는 데 도움이 될 수 있는지 의문을 제기했습니다. 방콕과 아유타야 사이의 가장 저렴한 열차 요금은 15바트에 불과하지만, 동일한 거리에 대해 50바트입니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 5,
+      "impact_reason": "아유타야 여행객에게 교통편 옵션 관련 정보 제공. 기존 열차 요금과 비교하여 가격 정보 중요.",
+      "event_info": {
+        "date": "2026-04-21",
+        "location": "돈므앙 - 아유타야",
+        "price": "30~50 바트",
+        "location_google_map_query": "Don Muang to Ayutthaya train"
+      },
+      "references": [
+        {
+          "title": "New commuter train to Ayutthaya gets mixed reaction",
+          "url": "https://www.bangkokpost.com/thailand/general/3240955/new-commuter-train-to-ayutthaya-gets-mixed-reaction",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260421/c1_3240955_700.jpg"
+        }
+      ],
+      "collected_at": "01:59",
+      "date": "2026-04-22",
+      "image_url": "https://static.bangkokpost.com/media/content/20260421/c1_3240955_700.jpg"
+    },
+    {
+      "title": "EU, 호르무즈 해협 폐쇄에 대응하여 이란 제재 확대 승인",
+      "summary": "- EU 회원국들은 이란에 대한 제재 확대에 합의했습니다.\n- 이는 테헤란 정부가 호르무즈 해협의 항행을 제한한 것에 대한 대응입니다.\n- EU는 항행의 자유를 침해하는 책임자들을 제재 대상으로 삼을 것입니다.",
+      "full_translated": "유럽연합(EU) 회원국들은 테헤란 정부가 2026년 4월 21일에 호르무즈 해협의 항행을 제한하는 조치를 시행한 것에 대응하여 이란에 대한 제재를 확대하기로 합의했습니다. EU 외무장관들은 테헤란 정부가 호르무즈 해협의 항행 제한 조치를 재개한 것에 대한 대응으로 이란에 대한 제재를 확대하는 데 합의했습니다. EU 외교 정책 책임자인 가야 칼라스는 “유럽연합은 이미 포괄적인 이란 제재를 시행하고 있지만, 오늘 우리는 항행의 자유 침해에 책임이 있는 사람들을 목표로 제재 범위를 확대하기 위한 정책적 합의에 도달했습니다.”라고 말했습니다. 칼라스는 룩셈부르크에서 열린 회의에서 외무장관들이 항행의 자유는 협상할 수 없는 것이라고 강조했다고 밝혔습니다. “호르무즈 해협을 개방할지 폐쇄할지 매일 입장을 바꾸는 것은 경솔한 행동입니다. 해협 통과는 계속해서 무료여야 합니다.” 전쟁이 시작된 이후 이란의 호르무즈 해협 폐쇄로 인해 이 중요한 수로의 통행량이 크게 감소했으며 여러 차례 중단되었습니다. 이란과 미국 간의 휴전이 있었음에도 불구하고 선박들은 여전히 상황을 확신하지 못하고 있습니다. 지난달 이란 관리들은 호르무즈 해협의 안전한 통과를 보장하기 위해 계속해서 수수료를 징수할 것이라고 밝혔습니다. 해양 정보 분석 회사인 Lloyd’s List Intelligence (LLI)는 3월 23일 보고서에서 최소 2척의 선박이 이 해협을 통과하기 위해 막대한 금액을 지불했다고 밝혔습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "호르무즈 해협의 긴장이 고조될 경우, 해상 운송에 영향을 미칠 수 있으며, 이는 태국으로의 물류 및 관광객 이동에 간접적인 영향을 줄 수 있습니다. 직접적인 위협은 아니지만 상황을 주시할 필요가 있습니다.",
+      "event_info": {
+        "date": "2026-04-21",
+        "location": "호르무즈 해협",
+        "price": "수수료 징수",
+        "location_google_map_query": "호르무즈 해협"
+      },
+      "references": [
+        {
+          "title": "EU เห็นชอบ ขยายคว่ำบาตรอิหร่าน ตอบโต้ปิดช่องแคบฮอร์มุซ",
+          "url": "https://www.thairath.co.th/news/foreign/2928045",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVlx4ELbWfT4JFmQ.jpg"
+        }
+      ],
+      "collected_at": "01:59",
+      "date": "2026-04-22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVlx4ELbWfT4JFmQ.jpg"
+    },
+    {
+      "title": "범죄 피해자 지원 협회 회장, 갈취 혐의로 체포 후 무고 주장",
+      "summary": "- 범죄 피해자 지원 협회 회장 아차리야가 갈취 혐의로 체포됨.\n- 아차리야는 무고를 주장하며 혐의를 부인하고, 증거가 있다고 주장.\n- 법원은 보석을 불허하고 구치소에 수감할 예정.",
+      "full_translated": "최근 보도에 따르면, 범죄 피해자 지원 협회 회장인 아차리야 르앙랏타나퐁이 갈취 혐의로 체포되었습니다. 그는 변호사를 통해 자신이 무고하며, 이 사건이 자신을 함정에 빠뜨리려는 시도라고 주장했습니다. 아차리야는 자신이 혐의와 관련하여 제시할 증거를 가지고 있다고 밝혔습니다. 그는 이전에 판사와 그의 아내가 보석을 위해 영향력을 행사했다는 의혹을 제기한 바 있습니다. 그는 또한 자신이 갈취에 사용된 것으로 추정되는 250만 바트와 관련이 없다고 주장했습니다.\n\n아차리야는 자신과 그의 팀이 무고하다는 것을 증명할 증거가 있다고 믿고 있습니다. 그는 자신을 체포한 사람들을 고소할 계획입니다. 경찰은 아차리야에 대한 보석을 거부하고 법원의 판결을 기다리며 구치소에 수감할 예정입니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "유명 인사의 체포 사건으로, 여행객 안전에 직접적인 위협은 아니지만 알아두면 좋을 정보라고 판단.",
+      "event_info": {
+        "date": "2026-04-21",
+        "location": "방콕",
+        "price": null,
+        "location_google_map_query": "방콕"
+      },
+      "references": [
+        {
+          "title": "\"อัจฉริยะ\" เชื่อถูกกลั่นแกล้ง หลังโดนจับกรรโชกทรัพย์ ยันไม่กังวล มีหลักฐานชี้แจง",
+          "url": "https://www.thairath.co.th/news/crime/2928037",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVlx3C8ZZy7JijAX.jpg"
+        }
+      ],
+      "collected_at": "01:59",
+      "date": "2026-04-22",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2wVlx3C8ZZy7JijAX.jpg"
     }
   ]
 }
