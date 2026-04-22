@@ -3626,41 +3626,31 @@ def push_changes_to_github(files_to_commit, commit_message):
 
 def get_visitor_stats():
     """
-    Fetches both Total and Daily visitor counts.
+    Fetches both Total and Daily visitor counts from Google Sheets.
     Returns: (total_count, daily_count)
     """
     try:
-        import requests
+        from db_utils import get_visitor_stats_gsheets
         from datetime import datetime
+        import pytz
         
-        namespace = "today-thailand-app"
-        today_str = datetime.now().strftime("%Y-%m-%d")
+        # 1. Load all stats from GSheets
+        stats = get_visitor_stats_gsheets()
         
-        # Keys
-        key_total = f"total"
+        # 2. Extract specific counts
+        bkk_tz = pytz.timezone('Asia/Bangkok')
+        today_str = datetime.now(bkk_tz).strftime("%Y-%m-%d")
+        
+        key_total = "total"
         key_daily = f"date_{today_str}"
         
-        # 1. Get Total
-        total_val = 0
-        try:
-            url_total = f"https://api.counterapi.dev/v1/{namespace}/{key_total}"
-            r1 = requests.get(url_total, timeout=2)
-            if r1.status_code == 200:
-                total_val = r1.json().get("count", 0)
-        except: pass
-        
-        # 2. Get Daily
-        daily_val = 0
-        try:
-            url_daily = f"https://api.counterapi.dev/v1/{namespace}/{key_daily}"
-            r2 = requests.get(url_daily, timeout=2)
-            if r2.status_code == 200:
-                daily_val = r2.json().get("count", 0)
-        except: pass
+        total_val = stats.get(key_total, 0)
+        daily_val = stats.get(key_daily, 0)
             
         return total_val, daily_val
         
-    except:
+    except Exception as e:
+        print(f"Error in get_visitor_stats: {e}")
         return 0, 0
 
 def is_bot_user():
@@ -3684,49 +3674,23 @@ def is_bot_user():
 
 def increment_visitor_stats():
     """
-    Increments both Total and Daily counts (once per session).
+    Increments both Total and Daily counts in Google Sheets (once per session).
     Returns: (new_total, new_daily)
     """
     try:
-        import requests
-        from datetime import datetime
-        
         # [NEW] Bot Filtering: skip increment if bot
-        is_bot = is_bot_user()
+        if is_bot_user():
+            return get_visitor_stats()
+            
+        from db_utils import increment_visitor_stats_gsheets
         
-        namespace = "today-thailand-app"
-        today_str = datetime.now().strftime("%Y-%m-%d")
-        
-        # Keys
-        key_total = f"total"
-        key_daily = f"date_{today_str}"
-        
-        # 1. Hit Total
-        total_val = 0
-        try:
-            url_total = f"https://api.counterapi.dev/v1/{namespace}/{key_total}/"
-            # Append 'up' only for humans
-            url_total += "up" if not is_bot else "get"
-            r1 = requests.get(url_total, timeout=2)
-            if r1.status_code == 200:
-                total_val = r1.json().get("count", 0)
-        except: pass
-        
-        # 2. Hit Daily
-        daily_val = 0
-        try:
-            url_daily = f"https://api.counterapi.dev/v1/{namespace}/{key_daily}/"
-            # Append 'up' only for humans
-            url_daily += "up" if not is_bot else "get"
-            r2 = requests.get(url_daily, timeout=2)
-            if r2.status_code == 200:
-                daily_val = r2.json().get("count", 0)
-        except: pass
+        # Increment and get new values
+        total_val, daily_val = increment_visitor_stats_gsheets()
         
         return total_val, daily_val
         
-    except:
-        return 0, 0
+    except Exception as e:
+        print(f"Error in increment_visitor_stats: {e}")
         return 0, 0
 
 # --------------------------------------------------------------------------------

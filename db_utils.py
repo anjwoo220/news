@@ -556,3 +556,139 @@ def update_local_caches_with_new_topics(new_topics, date_str):
                 
         except Exception as e:
             print(f"Error updating local cache {file_path}: {e}")
+
+# --- VISITOR STATS (GSheets Backend) ---
+
+def get_visitor_stats_gsheets(worksheet="stats"):
+    """
+    [READ] Google Sheets에서 방문자 통계를 가져옵니다. (gspread 직접 연동으로 안정성 확보)
+    Returns: { "total": int, "date_YYYY-MM-DD": int }
+    """
+    try:
+        import gspread
+        from oauth2client.service_account import ServiceAccountCredentials
+        import toml
+
+        # 1. Load secrets for gspread
+        secrets = toml.load(".streamlit/secrets.toml")
+        conn_info = secrets["connections"]["gsheets_news"]
+        spreadsheet_url = conn_info["spreadsheet"]
+        
+        creds_dict = {
+            "type": "service_account",
+            "project_id": conn_info["project_id"],
+            "private_key_id": conn_info["private_key_id"],
+            "private_key": conn_info["private_key"].replace('\\n', '\n'),
+            "client_email": conn_info["client_email"],
+            "client_id": conn_info["client_id"],
+            "auth_uri": conn_info["auth_uri"],
+            "token_uri": conn_info["token_uri"],
+            "auth_provider_x509_cert_url": conn_info["auth_provider_x509_cert_url"],
+            "client_x509_cert_url": conn_info["client_x509_cert_url"]
+        }
+
+        # 2. Authenticate
+        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+        creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+        client = gspread.authorize(creds)
+        
+        # 3. Open and Read
+        sh = client.open_by_url(spreadsheet_url)
+        ws = sh.worksheet(worksheet)
+        data = ws.get_all_records()
+        
+        if not data:
+            return {"total": 0}
+            
+        # Convert to dict with safe int conversion
+        stats_dict = {}
+        for row in data:
+            key = str(row.get('key', '')).strip()
+            val = row.get('count', 0)
+            try:
+                stats_dict[key] = int(float(val))
+            except:
+                stats_dict[key] = 0
+                
+        return stats_dict
+
+    except Exception as e:
+        print(f"Visitor stats read error (gspread): {e}")
+        # Fallback to Streamlit Connection if gspread fails
+        try:
+            conn = get_db_connection()
+            if not conn: return {"total": 0}
+            df = conn.read(spreadsheet=SPREADSHEET_URL, worksheet=worksheet, ttl=0)
+            if df is None or df.empty: return {"total": 0}
+            return dict(zip(df['key'], df['count']))
+        except:
+            return {"total": 0}
+
+def increment_visitor_stats_gsheets(worksheet="stats"):
+    """
+    [WRITE] Google Sheets의 'total' 및 '오늘 날짜' 카운트를 1씩 증가시킵니다.
+    Returns: (new_total, new_daily)
+    """
+    try:
+        import gspread
+        from oauth2client.service_account import ServiceAccountCredentials
+        import toml
+        from datetime import datetime
+        import pytz
+
+        # 1. Load existing stats (via our new robust reader)
+        stats = get_visitor_stats_gsheets(worksheet)
+        
+        # 2. Prepare keys
+        bkk_tz = pytz.timezone('Asia/Bangkok')
+        today_str = datetime.now(bkk_tz).strftime("%Y-%m-%d")
+        
+        key_total = "total"
+        key_daily = f"date_{today_str}"
+        
+        # 3. Increment
+        new_total = stats.get(key_total, 0) + 1
+        new_daily = stats.get(key_daily, 0) + 1
+        
+        stats[key_total] = new_total
+        stats[key_daily] = new_daily
+        
+        # 4. Save via gspread
+        secrets = toml.load(".streamlit/secrets.toml")
+        conn_info = secrets["connections"]["gsheets_news"]
+        spreadsheet_url = conn_info["spreadsheet"]
+        
+        creds_dict = {
+            "type": "service_account",
+            "project_id": conn_info["project_id"],
+            "private_key_id": conn_info["private_key_id"],
+            "private_key": conn_info["private_key"].replace('\\n', '\n'),
+            "client_email": conn_info["client_email"],
+            "client_id": conn_info["client_id"],
+            "auth_uri": conn_info["auth_uri"],
+            "token_uri": conn_info["token_uri"],
+            "auth_provider_x509_cert_url": conn_info["auth_provider_x509_cert_url"],
+            "client_x509_cert_url": conn_info["client_x509_cert_url"]
+        }
+
+        scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+        creds = ServiceAccountCredentials.from_json_keyfile_dict(creds_dict, scope)
+        client = gspread.authorize(creds)
+        
+        sh = client.open_by_url(spreadsheet_url)
+        ws = sh.worksheet(worksheet)
+        
+        # Prepare rows for update
+        new_rows = [['key', 'count']]
+        for k, v in stats.items():
+            new_rows.append([k, v])
+            
+        # Bulk update
+        ws.update(values=new_rows, range_name='A1')
+        
+        return new_total, new_daily
+        
+    except Exception as e:
+        print(f"Error incrementing visitor stats (gspread): {e}")
+        # Final fallback to 0,0 to avoid crashing app
+        return 0, 0
