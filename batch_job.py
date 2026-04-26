@@ -380,6 +380,17 @@ def main():
         update_local_caches_with_new_topics(new_topics_to_save, today_str)
         print(f"Saved {len(new_topics_to_save)} new topics to Google Sheets and local caches.")
 
+        # 6-B. [PUBLISH] to WordPress (에러 발생해도 파이프라인은 계속 진행)
+        try:
+            from wp_utils import publish_batch_to_wordpress
+            print("\n📝 WordPress 포스팅 시작...")
+            wp_result = publish_batch_to_wordpress(new_topics_to_save, delay_seconds=5)
+            print(f"WordPress 결과: 성공 {wp_result['success']} / 실패 {wp_result['failed']}")
+        except ImportError:
+            print("wp_utils 모듈 없음 - WordPress 포스팅 건너뜀")
+        except Exception as e:
+            print(f"WordPress 포스팅 에러 (계속 진행): {e}")
+
     # 7-1. Cross-post Travel News to Events
     # Filter for '여행/관광' category
     # 7-1. Cross-post "Strict Events" to Events Tab
