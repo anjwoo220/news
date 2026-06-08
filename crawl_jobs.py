@@ -707,7 +707,7 @@ def summarize_with_gemini(jobs, api_key):
     genai.configure(api_key=api_key)
     # Gemini 모델 초기화 시 JSON 모드 강제 설정
     model = genai.GenerativeModel(
-        "gemini-2.0-flash", 
+        "gemini-2.5-flash", 
         generation_config={"response_mime_type": "application/json"}
     )
 

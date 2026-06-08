@@ -6,7 +6,9 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime, timedelta
 import re
-
+import sys
+# Add scripts directory to path for imports
+sys.path.append(os.path.join(os.path.dirname(__file__), 'scripts'))
 # Files
 FEEDS_FILE = 'data/feeds.json'
 NEWS_FILE = 'data/news.json'
@@ -390,6 +392,32 @@ def main():
             print("wp_utils 모듈 없음 - WordPress 포스팅 건너뜀")
         except Exception as e:
             print(f"WordPress 포스팅 에러 (계속 진행): {e}")
+
+        # 6-C. [PUBLISH] to Naver Cafe (New)
+        try:
+            from naver_cafe_bot import NaverCafeBot
+            from naver_utils import format_news_for_naver
+            
+            print("\n☕ 네이버 카페 포스팅 시작...")
+            bot = NaverCafeBot()
+            # 서버 환경이므로 headless=True 사용 (로컬 테스트 시 False 권장)
+            bot.init_driver(headless=True)
+            
+            write_url = f"https://cafe.naver.com/ca-fe/cafes/{bot.clubid}/menus/{bot.menuid}/articles/write"
+            if bot.load_cookies(write_url):
+                post_title, post_content = format_news_for_naver(new_topics_to_save)
+                if post_title and post_content:
+                    success = bot.post_news(post_title, post_content)
+                    if success:
+                        print(f"네이버 카페 포스팅 성공: {post_title}")
+                    else:
+                        print("네이버 카페 포스팅 실패")
+            else:
+                print("네이버 카페 쿠키 로드 실패 - 포스팅 건너뜀")
+            
+            bot.close()
+        except Exception as e:
+            print(f"네이버 카페 포스팅 에러 (계속 진행): {e}")
 
     # 7-1. Cross-post Travel News to Events
     # Filter for '여행/관광' category

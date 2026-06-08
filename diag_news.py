@@ -25,8 +25,8 @@ def diag():
     print("\n[Testing Gemini API Connection...]")
     try:
         genai.configure(api_key=api_key)
-        # Try gemini-1.5-flash as a baseline
-        model = genai.GenerativeModel('gemini-1.5-flash')
+        # Try gemini-flash-latest as a baseline
+        model = genai.GenerativeModel('gemini-flash-latest')
         response = model.generate_content("Hello")
         print(f"[OK] Gemini 1.5 Flash responded: {response.text.strip()}")
         

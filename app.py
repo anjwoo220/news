@@ -120,7 +120,9 @@ google_maps_key = (
 # 2. Gemini API Key
 # Priority: Env -> secrets["gemini_api_key"] -> secrets["GEMINI_API_KEY"]
 gemini_key = (
-    os.environ.get("GEMINI_API_KEY") 
+    os.environ.get("GEMINI_API_KEY_USER")
+    or st.secrets.get("GEMINI_API_KEY_USER")
+    or os.environ.get("GEMINI_API_KEY") 
     or st.secrets.get("gemini_api_key") 
     or st.secrets.get("GEMINI_API_KEY")
 )

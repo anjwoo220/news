@@ -101,6 +101,35 @@ def get_wp_category_id(category_name, default_id=1):
     return CATEGORY_MAP.get(category_name, default_id)
 
 
+def get_wp_tag_id(tag_name, config):
+    """태그 이름을 ID로 변환 (없으면 새로 생성)"""
+    auth_header = _build_auth_header(config)
+    api_url = f"{config['site_url']}/wp-json/wp/v2/tags"
+    
+    # 1. 기존 태그 검색
+    try:
+        resp = requests.get(api_url, headers=auth_header, params={"search": tag_name}, timeout=10)
+        if resp.status_code == 200:
+            tags = resp.json()
+            for t in tags:
+                if t['name'] == tag_name:
+                    return t['id']
+    except Exception: pass
+
+    # 2. 없으면 새로 생성
+    try:
+        resp = requests.post(api_url, headers=auth_header, json={"name": tag_name}, timeout=10)
+        if resp.status_code in (200, 201):
+            return resp.json().get("id")
+        elif resp.status_code == 400: # 이미 존재할 수도 있음
+            data = resp.json()
+            if "term_exists" in data.get("code", ""):
+                return data.get("data", {}).get("term_id")
+    except Exception: pass
+    
+    return None
+
+
 # ──────────────────────────────────────────────
 # 3. 이미지 업로드
 # ──────────────────────────────────────────────
@@ -197,86 +226,81 @@ def upload_image_to_wp(image_source, config=None, alt_text="태국 투데이 뉴
 
 def format_news_html(topic):
     """
-    뉴스 topic dict를 WordPress 본문 HTML로 변환합니다.
-    한국어 가독성을 위해 <p>, <br> 태그 사용.
-
-    Args:
-        topic: batch_job에서 생성된 뉴스 topic dict
-              (title, summary, full_translated, category, references 등)
-    Returns:
-        HTML 문자열
+    뉴스 topic dict를 WordPress 본문 HTML로 변환합니다. (SEO & UI 최적화 버전)
     """
     parts = []
-
-    # 요약 섹션
+    refs = topic.get("references", [])
+    
+    # 1. 상단 핵심 요약 (다크 모드 & 골드 시그니처 스타일)
     summary = topic.get("summary", "")
     if summary:
-        # 줄바꿈(-로 시작하는 리스트)을 HTML로 변환
-        summary_lines = summary.strip().split("\n")
-        summary_html = "<br>".join(line.strip() for line in summary_lines if line.strip())
-        parts.append('<div class="news-summary">')
-        parts.append(f"<strong>📌 핵심 요약</strong><br>{summary_html}")
-        parts.append("</div>")
+        summary_lines = [line.strip().lstrip("- ").strip() for line in summary.strip().split("\n") if line.strip()]
+        summary_items = "".join(f'<li style="margin-bottom: 8px;">{line}</li>' for line in summary_lines)
+        parts.append('<blockquote class="wp-block-quote" style="border-left: 4px solid #F2C94C; background-color: rgba(255,255,255,0.05); padding: 20px; margin: 0 0 30px 0; border-radius: 0 12px 12px 0;">')
+        parts.append(f'<p style="color: #F2C94C; font-size: 18px; font-weight: 800; margin: 0 0 15px 0;">✨ 핵심 요약</p>')
+        parts.append(f'<ul style="margin: 0; padding-left: 20px; list-style-type: disc; color: #eeeeee; line-height: 1.6; font-size: 15px;">{summary_items}</ul>')
+        parts.append('</blockquote>')
 
-    # 본문 (Markdown → HTML 간이 변환)
+    # 2. 에디터 인사이트 (애드센스 승인 및 품질 향상용 핵심 콘텐츠)
+    insight = topic.get("editorial_insight", "")
+    if insight:
+        parts.append('<div style="margin: 30px 0; padding: 25px; border-radius: 12px; background: linear-gradient(145deg, rgba(30,30,35,1) 0%, rgba(20,20,25,1) 100%); border: 1px solid rgba(242,201,76,0.2); box-shadow: 0 4px 15px rgba(0,0,0,0.3);">')
+        parts.append('<div style="display: flex; align-items: center; margin-bottom: 15px;">')
+        parts.append('<span style="font-size: 24px; margin-right: 10px;">💡</span>')
+        parts.append('<h3 style="color: #F2C94C; margin: 0; font-size: 18px; font-weight: 800; letter-spacing: -0.5px;">태국 투데이 수석 에디터의 관점</h3>')
+        parts.append('</div>')
+        parts.append(f'<p style="color: #E0E0E0; font-size: 16px; line-height: 1.8; margin: 0; font-weight: 400; word-break: keep-all;">{insight}</p>')
+        parts.append('</div>')
+
+    # 3. 본문 섹션
     full_text = topic.get("full_translated", "")
     if full_text:
-        # 줄바꿈을 <p> 태그로 변환
         paragraphs = full_text.strip().split("\n\n")
         for para in paragraphs:
             clean = para.strip()
-            if not clean:
-                continue
-            # 마크다운 헤딩 변환
+            if not clean: continue
+            
+            # 마크다운 헤딩 변환 (골드 포인트)
             if clean.startswith("### "):
-                parts.append(f"<h3>{clean[4:]}</h3>")
-            elif clean.startswith("## "):
-                parts.append(f"<h2>{clean[3:]}</h2>")
-            elif clean.startswith("# "):
-                parts.append(f"<h2>{clean[2:]}</h2>")
+                parts.append(f'<h4 style="color: #F2C94C; margin-top: 25px; font-weight: 700;">{clean[4:]}</h4>')
+            elif clean.startswith("## ") or clean.startswith("# "):
+                parts.append(f'<h3 style="margin-top: 35px; border-bottom: 2px solid rgba(242,201,76,0.3); color: #F2C94C; display: inline-block; padding-bottom: 5px; font-weight: 800;">{clean.lstrip("# ").strip()}</h3>')
             else:
-                # 줄바꿈을 <br>로 변환
                 inner = clean.replace("\n", "<br>")
                 # 마크다운 볼드(**text**) → <strong>
                 import re
-                inner = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', inner)
-                parts.append(f"<p>{inner}</p>")
+                inner = re.sub(r'\*\*(.+?)\*\*', r'<strong style="color: #F2C94C;">\1</strong>', inner)
+                parts.append(f'<p style="line-height: 1.8; margin-bottom: 1.6em; color: #dddddd; font-size: 16px;">{inner}</p>')
 
-    # 여행 영향도 점수
+    # 3. 여행자 영향도 (배지 스타일 강조)
     score = topic.get("tourist_impact_score", 0)
     if score:
         emoji = "🔴" if score >= 7 else ("🟡" if score >= 4 else "🟢")
         reason = topic.get("impact_reason", "")
-        parts.append(f'<p><strong>{emoji} 여행자 영향도: {score}/10</strong>')
+        parts.append('<hr class="wp-block-separator" style="margin: 40px 0; border: none; border-top: 1px solid rgba(255,255,255,0.1);">')
+        parts.append(f'<div style="padding: 20px; border: 1.5px dashed rgba(242,201,76,0.4); border-radius: 12px; background: rgba(242,201,76,0.03);">')
+        parts.append(f'<span style="color: #F2C94C; font-weight: 800; font-size: 16px;">{emoji} 여행자 영향도: {score} / 10</span>')
         if reason:
-            parts.append(f"<br><em>{reason}</em>")
-        parts.append("</p>")
+            parts.append(f'<p style="margin-top: 12px; font-style: italic; font-size: 14px; color: #A0A5B5; line-height: 1.5;">{reason}</p>')
+        parts.append('</div>')
 
-    # 이벤트 정보 (있는 경우)
-    evt = topic.get("event_info")
-    if evt and isinstance(evt, dict) and evt.get("date"):
-        parts.append('<div class="news-event-info">')
-        parts.append("<strong>📅 이벤트 정보</strong><br>")
-        if evt.get("date"):
-            parts.append(f"일시: {evt['date']}<br>")
-        if evt.get("location"):
-            parts.append(f"장소: {evt['location']}<br>")
-        if evt.get("price"):
-            parts.append(f"가격: {evt['price']}")
-        parts.append("</div>")
 
-    # 출처 (References)
-    refs = topic.get("references", [])
+    # 5. 관련 기사 리스트 (작은 링크)
     if refs:
-        parts.append("<hr>")
-        parts.append("<p><strong>📰 출처</strong></p><ul>")
+        parts.append('<div style="margin-top: 40px; padding: 20px; background: rgba(255,255,255,0.03); border-radius: 12px;">')
+        parts.append('<p style="margin: 0 0 10px 0; font-size: 14px; color: #888;">🔗 관련 기사 및 출처:</p>')
+        parts.append('<ul style="font-size: 13px; padding-left: 20px; margin: 0; color: #666;">')
         for ref in refs:
-            title = ref.get("title", "원문 보기")
-            url = ref.get("url", "#")
-            source = ref.get("source", "")
-            source_label = f" ({source})" if source else ""
-            parts.append(f'<li><a href="{url}" target="_blank" rel="noopener">{title}</a>{source_label}</li>')
-        parts.append("</ul>")
+            r_title = ref.get("title", "기사 보기")
+            r_url = ref.get("url", "#")
+            parts.append(f'<li style="margin-bottom: 5px;"><a href="{r_url}" target="_blank" rel="nofollow" style="color: #A0A5B5; text-decoration: none;">[{ref.get("source", "Source")}] {r_title}</a></li>')
+        parts.append('</ul>')
+        parts.append('</div>')
+        
+    # 6. 저작권/안내
+    parts.append('<p style="font-size: 12px; color: #666; margin-top: 60px; text-align: center; border-top: 1px solid rgba(255,255,255,0.05); padding-top: 25px;">')
+    parts.append('본 뉴스는 태국 투데이 AI 여행 코디네이터가 실시간 분석하여 제공합니다.')
+    parts.append('</p>')
 
     return "\n".join(parts)
 
@@ -313,15 +337,32 @@ def publish_to_wordpress(topic, config=None):
         if not media_id:
             print(f"[WP] ⚠️ 이미지 업로드 실패 - 이미지 없이 포스팅 진행: {title}")
 
-    # 2. 본문 HTML 생성
+    # 2. 본문 및 요약문(SEO) 생성
     content_html = format_news_html(topic)
+    
+    # SEO 요약문 생성 (최대 160자)
+    summary = topic.get("summary", "")
+    excerpt = summary.replace("- ", "").replace("\n", " ")[:160] + "..." if len(summary) > 160 else summary
+    
+    # 태그 생성 (카테고리 + 키워드) → ID로 변환
+    tag_names = ["태국뉴스", category]
+    if "방콕" in title: tag_names.append("방콕")
+    if "푸켓" in title: tag_names.append("푸켓")
+    if "치앙마이" in title: tag_names.append("치앙마이")
+    
+    tag_ids = []
+    for name in tag_names:
+        tid = get_wp_tag_id(name, config)
+        if tid: tag_ids.append(tid)
 
     # 3. 포스팅 데이터 구성
     post_data = {
         "title": title,
         "content": content_html,
+        "excerpt": excerpt,
         "status": "publish",
         "categories": [get_wp_category_id(category, config["default_category_id"])],
+        "tags": tag_ids
     }
 
     if media_id:
@@ -406,7 +447,7 @@ def test_wp_connection():
 
     try:
         # 1) 사이트 기본 정보 확인
-        resp = requests.get(f"{config['site_url']}/wp-json/", timeout=10)
+        resp = requests.get(f"{config['site_url']}/wp-json/", timeout=30)
         if resp.status_code != 200:
             return False, f"REST API 접근 불가 (HTTP {resp.status_code})"
 
@@ -416,7 +457,7 @@ def test_wp_connection():
         # 2) 인증 확인 (사용자 정보 조회)
         auth_header = _build_auth_header(config)
         me_resp = requests.get(f"{config['site_url']}/wp-json/wp/v2/users/me",
-                               headers=auth_header, timeout=10)
+                               headers=auth_header, timeout=30)
 
         if me_resp.status_code == 200:
             user = me_resp.json()

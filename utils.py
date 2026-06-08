@@ -1,6 +1,13 @@
 import feedparser
 import googlesearch
 import google.generativeai as genai
+# Patch genai.configure to use REST transport by default (prevents gRPC hangs on macOS/CLI)
+_orig_configure = genai.configure
+def _patched_configure(*args, **kwargs):
+    kwargs['transport'] = 'rest'
+    return _orig_configure(*args, **kwargs)
+genai.configure = _patched_configure
+
 from datetime import datetime, timedelta
 import time
 import json
@@ -21,6 +28,8 @@ import csv
 from streamlit_gsheets import GSheetsConnection
 import streamlit as st
 import pathlib
+
+GEMINI_MODEL = 'gemini-2.5-flash'
 
 # --- GA4 (Google Analytics 4) Injection ---
 @st.cache_resource
@@ -1776,7 +1785,7 @@ def analyze_restaurant_reviews(reviews, rating, price_level=0, name="", num_revi
                     reviews_text += f"- [{r_rating}/5] {text}\n"
 
             genai.configure(api_key=api_key)
-            model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+            model = genai.GenerativeModel(GEMINI_MODEL, generation_config={"response_mime_type": "application/json"})
 
             # 평점 및 언어 기반 지침
             if is_english:
@@ -2477,7 +2486,7 @@ def translate_text(text: str, dest: str = "ko") -> str:
         if api_key:
             genai.configure(api_key=api_key)
             
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel(GEMINI_MODEL)
         
         # Aggressive Prompt to ensure zero Thai script remains
         prompt = f"""
@@ -2781,7 +2790,7 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
         full_content = sanitize_news_years(full_content)
         source_title = sanitize_news_years(item['title'])
 
-        # New Context-Aware Prompt
+        # XML-Based Prompt to prevent JSON parsing issues with unescaped quotes/newlines
         prompt = f"""
 # Role
 당신은 태국 방콕을 여행하는 한국인 여행자를 위한 '실시간 뉴스 큐레이터'입니다.
@@ -2820,35 +2829,40 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 - 하지만 **'상황이 업데이트' 되었다면 반드시 포함**하세요.
 - 아침에는 '오늘의 예보/예정' 위주, 저녁에는 '오늘 발생한 사건/결과' 위주로 가중치를 두세요.
 - **[CRITICAL] 출처가 '[MISSING_SOURCE]'인 기사는 'tourist_impact_score'가 8점 이상인 경우에만 결과에 포함하세요.** 7점 이하인 일반 기사는 과감히 제외하세요.
-- 만약 출처가 '[MISSING_SOURCE]'인데 정보를 포함하기로 결정했다면, 출력 JSON의 `source` 필드에는 "Google News" 또는 기사 내용에서 추론된 실제 언론사 이름을 적으세요. 절대 "None"이나 "[MISSING_SOURCE]"라고 출력하지 마세요.
+- 만약 출처가 '[MISSING_SOURCE]'인데 정보를 포함하기로 결정했다면, 출력의 <reference_source> 태그에는 "Google News" 또는 기사 내용에서 추론된 실제 언론사 이름을 적으세요. 절대 "None"이나 "[MISSING_SOURCE]"라고 출력하지 마세요.
 - **[CRITICAL - CATEGORY] 카테고리는 반드시 다음 4개 중 하나만 사용하세요: 'POLITICS', 'BUSINESS', 'TRAVEL', 'LIFESTYLE'. 다른 단어(예: '정치/사회', 'General', '기타')를 절대 사용하지 마세요.**
   - 날씨, 교통, 홍수, 공항, 비자 → TRAVEL
   - 정치, 사회, 사건/사고, 범죄 → POLITICS
   - 경제, 금융, 비즈니스 → BUSINESS
   - 문화, 엔터테인먼트, K-Pop → LIFESTYLE
 
-# Output Format (JSON Only)
-{{
-  "topics": [
-    {{
-      "title": "기사 제목",
-      "summary": "핵심 3줄 요약 (- 로 시작)",
-      "full_translated": "기사 전문 (Markdown)",
-      "category": "POLITICS | BUSINESS | TRAVEL | LIFESTYLE 중 하나",
-      "tourist_impact_score": 0,
-      "impact_reason": "점수 부여 및 업데이트 판단 근거",
-      "event_info": {{
-          "date": "YYYY-MM-DD",
-          "location": "...", 
-          "price": "...",
-          "location_google_map_query": "..."
-      }},
-      "references": [
-        {{"title": "{item['title']}", "url": "{item['link']}", "source": "{item['source']}"}}
-      ]
-    }}
-  ]
-}}
+# Output Format (XML Tags Only)
+출력은 반드시 마크다운이나 일반 텍스트, 혹은 JSON이 아닌, 아래의 XML 태그 형식으로만 작성하세요. JSON 형식을 절대 사용하지 마세요.
+
+<topics>
+  <topic>
+    <title>기사 제목</title>
+    <summary>
+- 핵심 요약 1
+- 핵심 요약 2
+- 핵심 요약 3
+    </summary>
+    <full_translated>
+기사 전문 (Markdown 형식 사용 가능. 자유롭게 본문의 따옴표나 줄바꿈을 포함하되, 태그와 겹치지 않게 하세요.)
+    </full_translated>
+    <category>POLITICS | BUSINESS | TRAVEL | LIFESTYLE</category>
+    <tourist_impact_score>점수(1~10)</tourist_impact_score>
+    <impact_reason>점수 부여 및 업데이트 판단 근거</impact_reason>
+    <editorial_insight>태국투데이 수석 에디터의 관점 (이 뉴스가 왜 한국 교민이나 관광객에게 중요한지, 어떻게 대비/활용해야 하는지 3~4문장으로 깊이 있게 분석 및 조언. 존댓말 사용, ~습니다 체)</editorial_insight>
+    <event_date>YYYY-MM-DD (없으면 빈칸)</event_date>
+    <event_location>행사 장소 (없으면 빈칸)</event_location>
+    <event_price>입장료/가격 정보 (없으면 빈칸)</event_price>
+    <event_map_query>구글맵 검색어 (없으면 빈칸)</event_map_query>
+    <reference_title>{item['title']}</reference_title>
+    <reference_url>{item['link']}</reference_url>
+    <reference_source>{item['source']}</reference_source>
+  </topic>
+</topics>
 """
         
         # Retry Logic with Safety Limits
@@ -2858,11 +2872,62 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
         
         while retry_count < max_retries and not success:
             try:
-                model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+                model = genai.GenerativeModel(GEMINI_MODEL, 
+                                              generation_config={
+                                                  "max_output_tokens": 4096,
+                                                  "temperature": 0.2
+                                              })
                 response = model.generate_content(prompt)
-                # Force HTTPS for all URLs in the generated content (Markdown links, Image URLs, References)
                 safe_text = response.text.replace("http://", "https://")
-                result = json.loads(safe_text)
+                
+                # Parse XML to dictionary format
+                import re
+                topics_list = []
+                topic_blocks = re.findall(r'<topic>(.*?)</topic>', safe_text, re.DOTALL | re.IGNORECASE)
+                
+                for block in topic_blocks:
+                    def get_tag_value(tag, default=""):
+                        match_val = re.search(rf'<{tag}>(.*?)</{tag}>', block, re.DOTALL | re.IGNORECASE)
+                        return match_val.group(1).strip() if match_val else default
+                        
+                    topic_data = {
+                        "title": get_tag_value("title"),
+                        "summary": get_tag_value("summary"),
+                        "full_translated": get_tag_value("full_translated"),
+                        "category": get_tag_value("category"),
+                        "tourist_impact_score": 5,
+                        "impact_reason": get_tag_value("impact_reason"),
+                        "editorial_insight": get_tag_value("editorial_insight"),
+                        "references": [{
+                            "title": get_tag_value("reference_title", item['title']),
+                            "url": get_tag_value("reference_url", item['link']),
+                            "source": get_tag_value("reference_source", item['source'])
+                        }]
+                    }
+                    
+                    try:
+                        topic_data["tourist_impact_score"] = int(get_tag_value("tourist_impact_score", "5"))
+                    except:
+                        pass
+                        
+                    event_date = get_tag_value("event_date")
+                    event_location = get_tag_value("event_location")
+                    event_price = get_tag_value("event_price")
+                    event_map = get_tag_value("event_map_query")
+                    
+                    if event_date or event_location or event_price:
+                        topic_data["event_info"] = {
+                            "date": event_date,
+                            "location": event_location,
+                            "price": event_price,
+                            "location_google_map_query": event_map
+                        }
+                    else:
+                        topic_data["event_info"] = None
+                        
+                    topics_list.append(topic_data)
+                    
+                result = {"topics": topics_list}
                 
                 if 'topics' in result and result['topics']:
                     # --- Python Post-Processing & Verification ---
@@ -3146,7 +3211,7 @@ def fetch_thai_events():
 
         import google.generativeai as genai
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+        model = genai.GenerativeModel(GEMINI_MODEL, generation_config={"response_mime_type": "application/json"})
         
         today_str = datetime.now().strftime('%Y-%m-%d')
         
@@ -3244,7 +3309,7 @@ def extract_event_from_url(url, api_key):
 
         # 2. Gemini Analysis
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel(GEMINI_MODEL)
         
         prompt = f"""
         Analyze the following webpage text and extract event information.
@@ -3307,7 +3372,7 @@ def fetch_big_events_by_keywords(keywords, api_key):
     found_events = []
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel(GEMINI_MODEL)
 
     for kw in keywords:
         print(f"Checking keyword: {kw}")
@@ -3446,7 +3511,7 @@ def fetch_trend_hunter_items(api_key, existing_links=None):
         if not raw_inputs: return []
         try:
             genai.configure(api_key=api_key)
-            model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+            model = genai.GenerativeModel(GEMINI_MODEL, generation_config={"response_mime_type": "application/json"})
             
             prompt = f"""
             You are a expert Korean Travel Editor acting as a **"Hotplace Detector"**.
@@ -3743,7 +3808,7 @@ def fetch_twitter_trends(api_key):
         
         # Analyze with Gemini
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel(GEMINI_MODEL)
         
         prompt = f"""
         # Role
@@ -3986,7 +4051,7 @@ def analyze_hotel_reviews(hotel_name, rating, reviews, api_key, language="Korean
 
         # 2. Gemini Prompt
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash', generation_config={"response_mime_type": "application/json"})
+        model = genai.GenerativeModel(GEMINI_MODEL, generation_config={"response_mime_type": "application/json"})
 
         if is_english:
             lang_instruction = "IMPORTANT: ALL JSON OUTPUT VALUES MUST BE IN ENGLISH."
@@ -4078,7 +4143,7 @@ def prettify_infographic_text(category, items, api_key):
     import json
     
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel(GEMINI_MODEL)
     
     # Simplified inputs
     inputs = "\n".join([f"- {item['title']}" for item in items[:3]])
@@ -4542,7 +4607,7 @@ def search_wongnai_restaurant(restaurant_name, api_key=None):
     if api_key:
         try:
             genai.configure(api_key=api_key)
-            model = genai.GenerativeModel('gemini-1.5-flash')
+            model = genai.GenerativeModel(GEMINI_MODEL)
             prompt = f"Find the Wongnai restaurant URL for: {restaurant_name}. Return ONLY the direct URL starting with https://www.wongnai.com/restaurants/ or https://www.wongnai.com/r/"
             response = model.generate_content(prompt)
             raw_text = response.text.strip()
@@ -4624,7 +4689,7 @@ def analyze_wongnai_data(restaurant_data, api_key):
         return restaurant_data
 
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-2.0-flash')
+    model = genai.GenerativeModel(GEMINI_MODEL)
 
     reviews_text = "\n".join([f"- {r[:200]}..." for r in restaurant_data['reviews']])
     
@@ -4702,7 +4767,7 @@ def recommend_tours(who, style, budget, region="방콕", language="Korean"):
     try:
         genai.configure(api_key=api_key)
         model = genai.GenerativeModel(
-            'gemini-2.0-flash',
+            GEMINI_MODEL,
             generation_config={"response_mime_type": "application/json"}
         )
         
@@ -4994,7 +5059,7 @@ def generate_tour_itinerary(tours, region="방콕", duration="당일치기 (Day 
     try:
         max_days = parse_trip_duration(duration)
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel('gemini-2.0-flash')
+        model = genai.GenerativeModel(GEMINI_MODEL)
         
         # Determine Current Season in Thailand
         current_month = datetime.now().month

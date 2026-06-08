@@ -7,7 +7,7 @@ def gemini_search_wongnai(restaurant_name, api_key):
     Robust fallback when traditional search fails.
     """
     genai.configure(api_key=api_key)
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-flash-latest')
     
     prompt = f"""
     Please provide the MOST LIKELY Wongnai restaurant URL for the following restaurant name in Thailand:
