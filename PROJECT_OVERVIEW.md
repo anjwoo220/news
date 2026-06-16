@@ -17,7 +17,7 @@
 
 ## 4. 기술 스택 (Stack)
 - **Frontend/Backend:** Python + Streamlit
-- **AI Engine:** Google Gemini API (`gemini-1.5-flash`)
+- **AI Engine:** Google Gemini API (`gemini-2.5-flash`)
 - **Database:** Google Sheets (메인 DB), GitHub/Local JSON (캐시 및 로그 저장)
 - **Monitoring:** Google Analytics 4 (GA4)
 - **Hosting:** Streamlit Cloud

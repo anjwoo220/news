@@ -356,12 +356,19 @@ def publish_to_wordpress(topic, config=None):
         if tid: tag_ids.append(tid)
 
     # 3. 포스팅 데이터 구성
+    specific_cat_id = get_wp_category_id(category, config["default_category_id"])
+    categories_list = [specific_cat_id]
+    
+    # '태국 뉴스' 카테고리 (ID: 2)가 없으면 추가
+    if 2 not in categories_list:
+        categories_list.append(2)
+
     post_data = {
         "title": title,
         "content": content_html,
         "excerpt": excerpt,
         "status": "publish",
-        "categories": [get_wp_category_id(category, config["default_category_id"])],
+        "categories": categories_list,
         "tags": tag_ids
     }
 
