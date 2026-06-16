@@ -2999,8 +2999,8 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
             
         # Delay logic (except for the last one)
         if idx < total_items - 1:
-            print("   -> Waiting 20 seconds to respect API rate limits...")
-            time.sleep(20)
+            print("   -> Waiting 5 seconds to respect API rate limits...")
+            time.sleep(5)
 
     return {"topics": aggregated_topics}, None
 

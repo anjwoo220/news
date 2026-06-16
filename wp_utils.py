@@ -372,6 +372,10 @@ def publish_to_wordpress(topic, config=None):
         "tags": tag_ids
     }
 
+    # 역사적 날짜가 지정되어 있으면 포스트 날짜로 사용
+    if topic.get("date"):
+        post_data["date"] = f"{topic['date']}T09:00:00"
+
     if media_id:
         post_data["featured_media"] = media_id
 
