@@ -3,6 +3,8 @@ name: Update News
 on:
   schedule:
     - cron: '0,30 * * * *'
+  repository_dispatch:
+    types: [trigger-news-update]
   workflow_dispatch:
 
 
