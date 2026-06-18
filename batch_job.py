@@ -107,10 +107,12 @@ def main():
     print("Fetching RSS feeds (Balanced Mode)...")
     all_news_items = utils.fetch_balanced_rss(feeds, processed_urls)
     
-    # [NEW] Add Google News Backup
+    # [NEW] Add Google News Backup (Filter for Thailand relevance)
     print("Fetching Google News (Backup)...")
     google_news_items = utils.fetch_google_news_rss(query="Thailand Tourism")
-    all_news_items.extend(google_news_items)
+    relevant_google_items = [item for item in google_news_items if utils.is_relevant_to_thailand(item)]
+    print(f" -> Found {len(google_news_items)} total, kept {len(relevant_google_items)} relevant items.")
+    all_news_items.extend(relevant_google_items)
     
     print(f"Total items fetched: {len(all_news_items)}")
     

@@ -2529,23 +2529,33 @@ def is_recent(entry, days=3):
 def is_relevant_to_thailand(entry):
     """
     Determines if an article is relevant to Thailand based on keywords and script.
-    Checks: Title, Summary (if available)
+    Supports both feedparser entries and standard dictionaries.
     """
     import re
     
-    # 1. content to check
-    text = (entry.title + " " + entry.get('summary', '')).lower()
+    # Support both object attribute access and dict key access
+    if isinstance(entry, dict):
+        title = entry.get('title', '')
+        summary = entry.get('summary', '')
+    else:
+        title = getattr(entry, 'title', '')
+        summary = getattr(entry, 'summary', '')
+        if not summary and hasattr(entry, 'get'):
+            summary = entry.get('summary', '')
+            
+    text = (title + " " + summary).lower()
     
-    # 2. Check for Thai Characters (Script)
+    # 1. Check for Thai Characters (Script)
     if re.search(r'[\u0E00-\u0E7F]', text):
         return True
         
-    # 3. Check for English Keywords
+    # 2. Check for English Keywords (100% Thailand-specific)
     keywords = [
         "thailand", "thai", "bangkok", "phuket", "pattaya", "chiang", 
         "samui", "krabi", "isan", "baht", "pheu thai", 
-        "prime minister", "paetongtarn", "thaksin", "king", "royal",
-        "cabinet", "govt", "police", "otp", "airport"
+        "paetongtarn", "thaksin", "suvarnabhumi", "don mueang", 
+        "lumpini", "sukhumvit", "siam", "chao phraya", "songkran", "loy krathong",
+        "srettha", "pita", "prayut", "chonburi", "hua hin", "tuktuk", "tuk-tuk"
     ]
     
     for kw in keywords:
@@ -2802,6 +2812,8 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 2.  **[SPECIFIC TRANSLATION]** 태국 정당인 'People's Party'(Phak Prachachon)를 번역할 때 '국민의힘'이라는 표현을 절대 사용하지 마세요. 반드시 '**국민당**'으로 번역하세요.
 3.  **[CRITICAL DATE RULE]** 태국 기사에서 불기(พ.ศ./B.E.)나 25xx 연도가 나오면 반드시 서기(CE)로 변환하세요. 예: 2569 -> 2026, 2568 -> 2025. 현재 시점 뉴스 날짜에 대해 2069, 2068 같은 잘못된 미래 연도를 절대 출력하지 마세요.
 4.  이때, **'기계적인 중복'과 '의미 있는 업데이트'를 구분**하는 것이 가장 중요합니다.
+5.  **[CRITICAL RELATION] 태국과 직접적인 관련이 없거나, 태국 거주 교민 및 여행자에게 직접적인 영향이 없는 글로벌 뉴스(예: 타국 정부 정책, 일반 글로벌 경제/사회 뉴스 등)는 절대로 결과에 포함하지 마세요. (반드시 무시/제외)**
+
 
 # Input Data
 1. **Candidate News:** 
@@ -2979,6 +2991,9 @@ def analyze_news_with_gemini(news_items, api_key, existing_titles=None, current_
 
                     aggregated_topics.extend(filtered_topics)
                     print(f"   -> Success. Topics so far: {len(aggregated_topics)}")
+                    success = True
+                elif "<topics" in safe_text.lower():
+                    print(f"   -> [Filtered by AI] News item was determined to be irrelevant or empty.")
                     success = True
                 else:
                     raise ValueError("Empty topics in response")
