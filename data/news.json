@@ -2572,5 +2572,33 @@
       "date": "2026-06-22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ypID5O8QD0etRtyf.jpg"
     }
+  ],
+  "2026-06-23": [
+    {
+      "title": "크리스피 크림 태국, 계정 해킹 경고: 의심스러운 링크 클릭 금지",
+      "summary": "- 크리스피 크림 태국의 LINE 공식 계정이 무단으로 접근당했습니다.\n- 의심스러운 메시지나 웹사이트 링크를 받으면 절대 클릭하거나 조치하지 마세요.\n- 현재 문제 해결을 위해 관련 기관과 긴밀히 협력 중입니다.",
+      "full_translated": "\"크리스피 크림 태국\"은 LINE 계정이 해킹당했다고 발표하며, 의심스러운 웹사이트 링크나 메시지를 절대 클릭하지 말 것을 경고했습니다. 2024년 6월 21일, 크리스피 크림 태국 페이스북 페이지는 \"현재 크리스피 크림 태국의 LINE 공식 계정(LINE OA)이 무단으로 접근되었습니다. 만약 해당 계정으로부터 비정상적인 메시지, 웹사이트 링크 또는 기타 메시지를 받으시면, 해당 링크를 클릭하거나 어떠한 조치도 취하지 마십시오. 크리스피 크림 태국은 문제 해결을 위해 관련 기관과 긴밀히 협력하고 있습니다. 불편을 드려 죄송합니다.\"라는 내용의 게시물을 올렸습니다.",
+      "category": "POLITICS",
+      "tourist_impact_score": 5,
+      "impact_reason": "인기 브랜드의 온라인 계정 해킹으로 인한 소비자 경고입니다. 태국을 여행하는 한국인 여행객 중 LINE을 사용하거나 해당 브랜드와 접촉할 수 있는 경우 주의가 필요합니다.",
+      "editorial_insight": "최근 태국 내 온라인 사기 및 해킹 시도가 증가하고 있습니다. 크리스피 크림과 같은 유명 브랜드의 공식 계정을 사칭한 피싱 시도에 각별히 주의해야 합니다. 여행 중에는 특히 개인 정보 보호에 신경 쓰고, 출처가 불분명한 링크나 메시지는 절대 클릭하지 않는 것이 중요합니다. 의심스러운 경우, 해당 브랜드의 공식 웹사이트나 매장에 직접 문의하여 사실 여부를 확인하는 것이 안전합니다.",
+      "references": [
+        {
+          "title": "คริสปี้ ครีม ประเทศไทย ถูกแฮกบัญชี เตือนอย่ากดลิงก์ที่มีลักษณะผิดปกติเด็ดขาด",
+          "url": "https://www.thairath.co.th/news/society/2941289",
+          "source": "ข่าวไทยรัฐออนไลน์ - ข่าวข่าว",
+          "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ypID9HP0RKPXp7q4.jpg"
+        }
+      ],
+      "event_info": {
+        "date": "2024-06-21",
+        "location": "",
+        "price": "",
+        "location_google_map_query": ""
+      },
+      "collected_at": "01:00",
+      "date": "2026-06-23",
+      "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ypID9HP0RKPXp7q4.jpg"
+    }
   ]
 }
