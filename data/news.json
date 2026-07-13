@@ -7935,6 +7935,32 @@
       },
       "collected_at": "01:27",
       "date": "2026-07-14"
+    },
+    {
+      "title": "방콕 보라색 라인 공사 현장 지반 '안정화', 교통 통제 지속",
+      "summary": "- 방콕 보라색 라인 남부 구간 공사 현장의 지반 움직임이 안정화되었습니다.\n- 지난주 터널 누수로 인해 웡위안 야이(Wongwian Yai) 인근 프라자팁폭 도로(Prajadhipok Road)에 지반 침하와 균열이 발생했습니다.\n- 현재 추가적인 지반 침하는 감지되지 않았으며, 영향을 받지 않은 도로는 일주일 내 점진적으로 재개통될 예정입니다.\n- 지하 공동(void) 봉합 작업이 진행되는 동안 교통 통제는 유지됩니다.",
+      "full_translated": "방콕 보라색 라인 남부 구간 공사 현장의 지반 움직임이 지난주 터널 누수 이후 안정화되었으며, 영향을 받지 않은 도로는 일주일 내 재개통될 것으로 예상된다고 월요일 교통부가 보고했습니다.\n\n지난 7월 8일 타오푼-랏부라나(Tao Poon–Rat Burana) 구간의 철도 터널로 물이 새어 들어와 웡위안 야이(Wongwian Yai) 인근 프라자팁폭 도로(Prajadhipok Road)에 지반 침하와 균열이 발생했습니다. 이 사건으로 인해 도로 폐쇄, 대피 및 인근 건물 점검이 이루어졌습니다.\n\n시리퐁 앙카사꾼끼앗(Siripong Angkasakulkiat) 교통부 차관은 조사 결과 평균 30~32cm의 지반 침하가 기록되었으며, 추가적인 침하는 감지되지 않았다고 밝혔습니다. 시공업체가 지하 공동(void)에 화학 처리된 시멘트 그라우트를 주입한 지역에서는 지반이 약간 상승하기 시작했습니다.\n\n카셋삿 대학교(Kasetsart University)와 협력하는 도시 수색 및 구조팀(Usar Thailand)은 10개의 추가 모니터링 센서를 설치하고 LiDAR 장착 드론을 배치하여 지반 움직임을 추적하는 3차원 지도를 만들었습니다. 최근 강우에도 불구하고 추가적인 침하는 감지되지 않았습니다.\n\n시공업체가 약 30개의 지하 공동을 봉합하는 동안 교통 통제는 유지될 예정입니다. 영향을 받지 않은 도로 구간은 일주일 내 점진적으로 재개통될 것으로 예상됩니다. 시리퐁 차관은 바지라 병원(Vajira Hospital) 외부 도로 붕괴로 인한 장기적인 혼란과는 달리, 이번 복구 작업은 비교적 신속하게 완료될 것으로 예상한다고 덧붙였습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 8,
+      "impact_reason": "방콕 보라색 라인 공사 현장 인근의 지반 침하로 인해 웡위안 야이 지역의 도로 통제가 지속되고 있습니다. 이는 해당 지역을 통과하는 여행객들의 교통에 직접적인 영향을 미치므로 중요한 정보입니다.",
+      "editorial_insight": "웡위안 야이 지역은 방콕의 주요 교통 허브 중 하나이며, 이번 보라색 라인 공사 현장 지반 문제로 인해 해당 지역의 교통 혼잡이 예상됩니다. 특히 프라자팁폭 도로를 이용하실 계획이 있는 여행객분들은 우회 경로를 미리 확인하시거나 대중교통 이용 시 지연 가능성을 염두에 두시는 것이 좋습니다. 복구 작업이 진행 중이며 일주일 내 도로 재개통이 예상되지만, 당분간은 교통 상황을 주시하고 여유를 가지고 이동하시는 것을 권장합니다.",
+      "references": [
+        {
+          "title": "Ground at Purple Line site 'stable'",
+          "url": "https://www.bangkokpost.com/thailand/general/3285402/ground-at-purple-line-site-stable",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260713/c1_3285402_700.jpg"
+        }
+      ],
+      "event_info": {
+        "date": "2024-07-13",
+        "location": "웡위안 야이(Wongwian Yai) 인근 프라자팁폭 도로(Prajadhipok Road), 보라색 라인 남부 구간 (타오푼-랏부라나 섹션)",
+        "price": "",
+        "location_google_map_query": "Wongwian Yai, Prajadhipok Road, Bangkok"
+      },
+      "collected_at": "03:52",
+      "date": "2026-07-14",
+      "image_url": "https://static.bangkokpost.com/media/content/20260713/c1_3285402_700.jpg"
     }
   ]
 }
