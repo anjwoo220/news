@@ -1,6 +1,6 @@
 {
-  "topic": "TENCORE Concert",
-  "reason": "TENCORE 콘서트가 진행 중이며, 주변 지역에 인파가 몰려 교통이 혼잡할 수 있습니다.",
-  "severity": "info",
-  "collected_at": "2026-07-17 08:54:08"
+  "topic": "TENCORE Concert Day 1",
+  "reason": "TENCORE 콘서트 첫째 날 행사 중입니다. 대규모 인파 및 주변 교통 혼잡이 예상되니 주의하십시오.",
+  "severity": "warning",
+  "collected_at": "2026-07-17 19:44:14"
 }
