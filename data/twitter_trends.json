@@ -1,6 +1,6 @@
 {
-  "topic": "콘서트",
-  "reason": "텐코어 콘서트가 개최되어 특정 지역에 인파가 몰릴 수 있으니 유의하시기 바랍니다.",
+  "topic": "Celebrity Concert",
+  "reason": "연예인 콘서트로 인해 해당 지역에 인파가 몰릴 수 있으니 주의 바랍니다.",
   "severity": "info",
-  "collected_at": "2026-07-18 06:47:25"
+  "collected_at": "2026-07-19 03:03:14"
 }
