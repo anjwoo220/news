@@ -8040,6 +8040,32 @@
       "collected_at": "08:48",
       "date": "2026-07-22",
       "image_url": "https://static.thairath.co.th/media/CiHZjUdJ5HPNXJ92O2ypsPDrQMgMsJFX5i.jpg"
+    },
+    {
+      "title": "공항철도 운행 1시간 간격으로 지연, 수완나품 공항 이용객 불편 예상",
+      "summary": "- 수완나품 공항과 방콕 시내를 연결하는 공항철도(Airport Rail Link) 서비스가 차량기지 내 철도 턴테이블 고장으로 인해 심각하게 지연되고 있습니다.\n- 현재 단 한 대의 열차만 운행 중이며, 운행 간격은 평소 10~15분에서 1시간으로 크게 늘어났습니다.\n- 화요일 밤 늦게 4량 열차 중 3번째 객차가 탈선하여 차량기지 출구를 막으면서 문제가 발생했습니다.\n- 여행객들은 SRT 일반 열차나 마카산역과 수완나품 공항을 오가는 방콕 대중교통국(BMTA) 버스를 이용할 것이 권장됩니다.\n- 파야타이, 마카산, 후아막, 랏끄라방 역에 승객들이 몰리고 있어 혼잡이 예상됩니다.",
+      "full_translated": "수완나품 국제공항과 방콕 시내를 연결하는 공항철도(Airport Rail Link) 서비스가 2024년 7월 22일(수요일) 차량기지 내 철도 턴테이블 고장으로 인해 단 한 대의 열차만 운행되고 있으며, 운행 간격이 1시간으로 늘어났습니다.\n\n운영사인 SRT 전철 회사(SRTET)는 수요일 아침, 클롱 탄(Khlong Tan) 차량기지의 철도 턴테이블 기술적 문제로 인해 공항철도 열차 배치가 불가능해졌다고 발표했습니다. 태국 국영철도(SRT) 아난트 포님댕(Anant Phonimdaeng) 총재는 시리퐁 앙카사꿀끼앗(Siripong Angkasakulkiat) 교통부 차관에게 화요일 밤 늦게 서비스 복귀 중 4량 공항철도 열차 중 3번째 객차가 탈선했으며, 이 사고는 수요일 오전 12시 47분에 발생하여 차량기지의 본선 출구를 막았다고 밝혔습니다. 아난트 총재는 관계자들이 사고 원인과 피해 규모를 조사 중이라고 말했습니다.\n\n현재 28km 길이의 노선에는 단 한 대의 열차만 운행 중이며, 운행 빈도는 시간당 한 대입니다. 평소에는 열차 간 10~15분 간격으로 운행됩니다. SRT의 감독을 받는 이 회사는 문제에 대해 사과했습니다. 여행객들에게는 SRT 일반 열차나 마카산역과 사뭇쁘라깐(Samut Prakan) 주 수완나품 공항을 오가는 방콕 대중교통국(BMTA) 공공 버스를 이용할 것을 권장했습니다. SRTET는 파야타이, 마카산, 후아막, 랏끄라방 역에 승객들이 몰리고 있다고 전했습니다.",
+      "category": "TRAVEL",
+      "tourist_impact_score": 9,
+      "impact_reason": "수완나품 공항과 시내를 연결하는 핵심 교통수단인 공항철도 운행에 심각한 차질이 발생하여 여행객들의 이동에 직접적인 불편과 지연을 초래합니다. 대체 교통수단 이용이 필요하며, 공항 이용객에게 매우 중요한 정보입니다.",
+      "editorial_insight": "수완나품 공항을 이용하실 예정인 한국인 여행객분들께서는 공항철도 운행 지연으로 인해 큰 불편을 겪으실 수 있습니다. 평소보다 이동 시간이 훨씬 길어질 수 있으니, 공항 이동 시에는 SRT 일반 열차나 버스 등 대체 교통수단을 미리 확인하시고 충분한 여유 시간을 가지고 출발하시는 것이 좋겠습니다. 특히, 파야타이, 마카산 등 주요 역에 승객이 몰릴 수 있으니 혼잡에 대비하시고, 필요하다면 택시나 그랩(Grab)과 같은 차량 호출 서비스를 고려해 보시는 것도 방법입니다.",
+      "references": [
+        {
+          "title": "Airport Rail Link service at one hour intervals",
+          "url": "https://www.bangkokpost.com/thailand/general/3289907/airport-rail-link-service-at-one-hour-intervals",
+          "source": "Bangkokpost.com : Top Stories",
+          "image_url": "https://static.bangkokpost.com/media/content/20260722/c1_3289907_700.jpg"
+        }
+      ],
+      "event_info": {
+        "date": "2024-07-22",
+        "location": "수완나품 공항 및 방콕 공항철도 노선",
+        "price": "",
+        "location_google_map_query": "수완나품 공항철도"
+      },
+      "collected_at": "14:36",
+      "date": "2026-07-22",
+      "image_url": "https://static.bangkokpost.com/media/content/20260722/c1_3289907_700.jpg"
     }
   ]
 }
