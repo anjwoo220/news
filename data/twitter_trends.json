@@ -1,6 +1,6 @@
 {
-  "topic": "LingOrmAtDiorSiamParagon",
-  "reason": "연예인 Ling Orm의 시암 파라곤 Dior 매장 방문으로 인파가 몰릴 수 있으니 주의하십시오.",
+  "topic": "#LingOrmAtDiorSiamParagon",
+  "reason": "시암 파라곤 디올 매장에 유명인(링엄)이 방문하여 인파가 몰릴 수 있습니다.",
   "severity": "info",
-  "collected_at": "2026-07-23 02:03:31"
+  "collected_at": "2026-07-23 03:14:40"
 }
