@@ -1,6 +1,6 @@
 {
-  "topic": "#แผ่นดินไหว",
-  "reason": "태국에서 지진 발생 보고됨",
-  "severity": "warning",
-  "collected_at": "2026-08-11 02:31:50"
+  "topic": "12AugustHalfMarathon",
+  "reason": "8월 12일 하프 마라톤으로 인해 교통 혼잡 및 인파가 예상됩니다.",
+  "severity": "info",
+  "collected_at": "2026-08-12 07:12:10"
 }
