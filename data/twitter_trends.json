@@ -1,6 +1,6 @@
 {
-  "topic": "IMPACT Arena event",
-  "reason": "IMPACT 아레나에서 대규모 행사/모임이 예정되어 있어 교통 혼잡 및 인파가 예상됩니다.",
-  "severity": "info",
-  "collected_at": "2026-08-19 13:32:29"
+  "topic": "#น้ําท่วมน่าน",
+  "reason": "태국 북부 난 주에 홍수가 발생하여 주의가 필요합니다.",
+  "severity": "warning",
+  "collected_at": "2026-08-19 14:18:51"
 }
