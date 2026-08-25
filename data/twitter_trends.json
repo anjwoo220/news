@@ -1,6 +1,6 @@
 {
-  "topic": "BTS World Tour",
-  "reason": "방콕에서 BTS 월드 투어 관련 행사 진행 중, 교통 혼잡 및 인파 주의",
+  "topic": "BTS_WORLDTOUR_BANGKOK",
+  "reason": "방콕에서 BTS 월드투어 콘서트가 진행 중이며, 주변 지역에 인파가 많을 것으로 예상됩니다.",
   "severity": "info",
-  "collected_at": "2026-08-25 10:31:32"
+  "collected_at": "2026-08-25 11:10:26"
 }
