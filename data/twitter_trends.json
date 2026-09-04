@@ -1,6 +1,6 @@
 {
-  "topic": "OrmxDecorteSiamParagon",
-  "reason": "시암 파라곤에서 유명인 행사가 진행되어 혼잡할 수 있습니다.",
+  "topic": "Siam Paragon Event",
+  "reason": "시암 파라곤에서 유명인 행사 및 시상식이 예정되어 있어, 주변 교통 혼잡이 예상됩니다.",
   "severity": "info",
-  "collected_at": "2026-09-01 08:00:32"
+  "collected_at": "2026-09-04 23:34:45"
 }
